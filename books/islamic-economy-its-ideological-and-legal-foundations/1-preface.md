@@ -139,4 +139,3 @@ and Islam's emphasis on them.
 3. Relationship between this system and other systems.
 4. Flexibility of the Islamic economic system.
 
-

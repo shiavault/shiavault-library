@@ -62,4 +62,3 @@ using the "Atari" apparatus, otherwise, it is permissible. (FM, p. 436)
 A: They are permissible if they do not lead to substantial bodily harm.
 (FM, p. 434)
 
-

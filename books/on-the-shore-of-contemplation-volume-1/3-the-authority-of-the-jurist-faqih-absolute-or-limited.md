@@ -138,4 +138,3 @@ Therefore, this (too) points to his absolute authority.
 
 [^3]: Ibid., pp. 248 - 249
 
-

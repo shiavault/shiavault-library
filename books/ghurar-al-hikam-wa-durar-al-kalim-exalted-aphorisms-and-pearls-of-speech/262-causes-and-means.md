@@ -8,11 +8,7 @@ one (means) that makes the powerful person incapable to achieving what
 he seeks.
 
 > 1ـ السَّبَبُ الَّذي أدْرَكَ بِهِ العاجِرُ بُغْيَتَهُ، هُوَ الَّذي
-<blockquote dir="rtl">
-  <p>
-أعْجَزَ القَّادِرَ عَنْ طَلِبَتِهِ.
-  </p>
-</blockquote>
+> أعْجَزَ القَّادِرَ عَنْ طَلِبَتِهِ.
 
 2. The firmest rope that you can hold on to is the rope between you and
 Allah.
@@ -32,10 +28,5 @@ is having excellent [qualities and] merits.
 anger and keeping away from the humiliation of asking [others].
 
 > 5ـ أفْضَلُ سَبَب كَفُّ الغَضَبِ، والتَّنَزُّهُ عَنْ مَذَلَّةِ
-<blockquote dir="rtl">
-  <p>
-الطَّلَبِ.
-  </p>
-</blockquote>
-
+> الطَّلَبِ.
 

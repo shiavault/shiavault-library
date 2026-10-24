@@ -1,22 +1,14 @@
 Right n. 41: The Right of Him Who Seeks Your Counsel
 ====================================================
 
-<blockquote dir="rtl">
-  <p>
-حق المستنصح
-  </p>
-</blockquote>
+> حق المستنصح
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ المُسْتَنصِحِ فَإنَّ حَقَّهُ أَنْ تُؤَدِّيَ إلَيهِ
-النَّصِيحَةَ عَلَى الحَقِّ الَّذِي تَرَى لَهُ أنّهُ يحْمِلُ وَتخرُجَ
-المَخرَجَ الَّذِي يَلينُ عَلَى مَسَامِعِهِ، وتُكَلِّمَهُ مِنَ
-الْكَلامِ بمَا يُطِيقُهُ عَقلُهُ، فَإنَّ لِكُلِّ عَقْلٍ طَبقَةً مِنَ
-الْكَلامِ يَعْرِفُهُ ويَجْتَنِبُهُ، وَلْيَكُنْ مَذهَبَكَ الرَّحْمَةَ.
-ولا قُوَّةَ إلا باللهِ..
-  </p>
-</blockquote>
+> وَأمّا حَقُّ المُسْتَنصِحِ فَإنَّ حَقَّهُ أَنْ تُؤَدِّيَ إلَيهِ
+> النَّصِيحَةَ عَلَى الحَقِّ الَّذِي تَرَى لَهُ أنّهُ يحْمِلُ وَتخرُجَ
+> المَخرَجَ الَّذِي يَلينُ عَلَى مَسَامِعِهِ، وتُكَلِّمَهُ مِنَ
+> الْكَلامِ بمَا يُطِيقُهُ عَقلُهُ، فَإنَّ لِكُلِّ عَقْلٍ طَبقَةً مِنَ
+> الْكَلامِ يَعْرِفُهُ ويَجْتَنِبُهُ، وَلْيَكُنْ مَذهَبَكَ الرَّحْمَةَ.
+> ولا قُوَّةَ إلا باللهِ..
 
 ***And the right of him who seeks your counsel is that you should give
 him your counsel as much as you think he can bear. And you should talk
@@ -34,12 +26,8 @@ important topics stressed in Islam. The Qur’an has stressed that the
 Divine Prophets are social counselors. We read in the Chapter A\`raaf of
 the Holy Qur’an that the Prophets give advice to people:
 
-<blockquote dir="rtl">
-  <p>
-أُبَلِّغُكُمْ رِسَالاَتِ رَبِّي وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ
-اللّهِ مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> أُبَلِّغُكُمْ رِسَالاَتِ رَبِّي وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ
+> اللّهِ مَا لاَ تَعْلَمُونَ
 
 ***“I but fulfill towards you the duties of my Lord's mission: Sincere
 is my advice to you, and I know from God something that ye know not.”
@@ -50,23 +38,15 @@ Prophets as Advisors
 
 The Prophet Noah said the following to his nation:
 
-<blockquote dir="rtl">
-  <p>
-أُبَلِّغُكُمْ رِسَالاَتِ رَبِّي وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ
-اللّهِ مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> أُبَلِّغُكُمْ رِسَالاَتِ رَبِّي وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ
+> اللّهِ مَا لاَ تَعْلَمُونَ
 
 ***“I but fulfill towards you the duties of my Lord's mission: Sincere
 is my advice to you, and I know from God something that ye know not.”
 [The Holy Qur’an, al-A\`raaf 7:62]***
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ
-رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِن لاَّ تُحِبُّونَ النَّاصِحِينَ
-  </p>
-</blockquote>
+> فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ
+> رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِن لاَّ تُحِبُّونَ النَّاصِحِينَ
 
 ***So Salih left them, saying: “O my people! I did indeed convey to you
 the message for which I was sent by my Lord: I gave you good counsel,
@@ -74,13 +54,9 @@ but ye love not good counselors!” [The Holy Qur’an, al-A\`raaf 7:79]***
 
 The Qur’an says the following regarding the Prophet Shu’aib :
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
-رِسَالاَتِ رَبِّي وَنَصَحْتُ لَكُمْ فَكَيْفَ آسَى عَلَى قَوْمٍ
-كَافِرِينَ
-  </p>
-</blockquote>
+> فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
+> رِسَالاَتِ رَبِّي وَنَصَحْتُ لَكُمْ فَكَيْفَ آسَى عَلَى قَوْمٍ
+> كَافِرِينَ
 
 ***So Shu'aib left them, saying: “O my people! I did indeed convey to
 you the messages for which I was sent by my Lord: I gave you good
@@ -95,11 +71,7 @@ even Satan uses giving advice as a means of fooling people. We read in
 the following verse of the Holy Qur’an about Satan’s swearing to Adam
 and Eve that he is their sincere advisor:
 
-<blockquote dir="rtl">
-  <p>
-وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
-  </p>
-</blockquote>
+> وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
 
 ***“And he swore to them both, that he was their sincere advisor.” [The
 Holy Qur’an, al-A\`raaf 7:21]***
@@ -116,11 +88,7 @@ Believers Advise Each Other
 There is a chapter in *Usul al-Kafi* on “Believer’s Advice.” Imam Sadiq
 said:
 
-<blockquote dir="rtl">
-  <p>
-يجِبُ لِلمُؤمِنِ عَلى المُؤمِنِ أنْ يُناصِحَهُ.
-  </p>
-</blockquote>
+> يجِبُ لِلمُؤمِنِ عَلى المُؤمِنِ أنْ يُناصِحَهُ.
 
 *“It is incumbent upon a believer to give sincere counsel to a(nother)
 believer.”*[^1]
@@ -132,11 +100,7 @@ bring them some benefits. If they do not accept your advice, you have
 shown your good intentions by advising them to do good deeds and refrain
 from evil acts.” The Noble Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-لِينْصَحِ الرَّجُلُ مِنكُم أخاهُ كَنصِيحَتِهِ لِنَفسِهِ.
-  </p>
-</blockquote>
+> لِينْصَحِ الرَّجُلُ مِنكُم أخاهُ كَنصِيحَتِهِ لِنَفسِهِ.
 
 *“Each of you should give sincere advice to your brethren just as you
 give sincere advice to yourselves.”*[^2]
@@ -146,12 +110,8 @@ Advisors Are the Best of the People
 
 Imam Sadiq quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أعْظَمَ النّاسِ مَنْزِلَةً عِندَ اللهِ يَومَ القِيامَةِ أمشَاهُم
-في أرْضِهِ بِالنَّصِيحَةِ لخَلقِهِ.
-  </p>
-</blockquote>
+> إنَّ أعْظَمَ النّاسِ مَنْزِلَةً عِندَ اللهِ يَومَ القِيامَةِ أمشَاهُم
+> في أرْضِهِ بِالنَّصِيحَةِ لخَلقِهِ.
 
 *“The people of the highest rank near God on the Resurrection Day are
 those who were the most active on His earth in counseling His
@@ -160,12 +120,8 @@ creatures.”*[^3]
 This implies exerting efforts to advise the people and to improve their
 conditions. Sufyan ibn Uyaynah narrated that he heard Imam Sadiq say:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيكُم بالنُّصْحِ للهِ في خَلقِهِ فَلنْ تلقاهُ لِعَمَلٍ أفْضَلُ
-مِنهُ.
-  </p>
-</blockquote>
+> عَلَيكُم بالنُّصْحِ للهِ في خَلقِهِ فَلنْ تلقاهُ لِعَمَلٍ أفْضَلُ
+> مِنهُ.
 
 *“It is prescribed for you to advise the people for the sake of God. You
 will not find any better deed than this.”*[^4]
@@ -175,12 +131,8 @@ advice intended to corrupt the people or out of deceit or financial
 expectations. There is no reward but deprivation for such advice. The
 Noble Prophet of Islam delivered a sermon in Mina and said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ لا يَغِلُّ عَليْهِنَّ قَلبُ أمْرئٍ مُسلِمٍ: إخلاصُ العَمَلِ
-للهِ وَالنَّصيحَةُ لأئِمَّةِ المُسلِمينَ وَاللّزُومُ لجَماعَتِهِم.
-  </p>
-</blockquote>
+> ثَلاثٌ لا يَغِلُّ عَليْهِنَّ قَلبُ أمْرئٍ مُسلِمٍ: إخلاصُ العَمَلِ
+> للهِ وَالنَّصيحَةُ لأئِمَّةِ المُسلِمينَ وَاللّزُومُ لجَماعَتِهِم.
 
 *“Three things for which a Muslim’s heart should have no malice: sincere
 deeds for God, sincere advice and desiring what is good for the Imams of
@@ -199,24 +151,16 @@ how to express our advice and how to influence the person being advised.
 Imam Sajjad said: “You are not free to say whatever you wish, since the
 Prophet of God has said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ عَبداً قَالَ خَيراً فَغَنِمَ أو صَمَتَ فَسَلِمَ.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ عَبداً قَالَ خَيراً فَغَنِمَ أو صَمَتَ فَسَلِمَ.
 
 *“May God have mercy on the servant who speaks well and benefits, or is
 silent and remains secure.”*[^6]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-إيّاكَ وَالكلامَ فيما لا تَعرِفُ طَريقَتَهُ وَلا تَعْلَمُ حَقيقَتَهُ،
-فإنَّ قَولَكَ يَدُلُّ عَلى عَقلِكَ وَعِبارَتُكَ تُنبِئ عَن
-مَعرِفَتِكَ.
-  </p>
-</blockquote>
+> إيّاكَ وَالكلامَ فيما لا تَعرِفُ طَريقَتَهُ وَلا تَعْلَمُ حَقيقَتَهُ،
+> فإنَّ قَولَكَ يَدُلُّ عَلى عَقلِكَ وَعِبارَتُكَ تُنبِئ عَن
+> مَعرِفَتِكَ.
 
 *“Refrain from speaking about what you do not know how to do, and do not
 know the truth about it. What you say is a sign of your intellect, and
@@ -226,11 +170,7 @@ recognition.”*[^7]
 One of the key elements in good advice is in its not being boring. Imam
 Ali said:
 
-<blockquote dir="rtl">
-  <p>
-أحْسَنُ الكَلامِ ما لا تمِجُّهُ الآذانُ ولا يَتعَبُ فَهْمَهُ الأفهامُ.
-  </p>
-</blockquote>
+> أحْسَنُ الكَلامِ ما لا تمِجُّهُ الآذانُ ولا يَتعَبُ فَهْمَهُ الأفهامُ.
 
 *“The best speech is that which the ears do not eject (through
 forgetfulness), and the understanding of which does not fatigue the
@@ -281,5 +221,4 @@ Hereafter would not associate with you,.”[^9]
 [^8]: Fehrest Mawdu’-i- Durar wa Ghurar, p.332.
 
 [^9]: Al-Imam al-Sadiq wa al-Madhahib al-Arba’ah, v.1, p.108.
-
 

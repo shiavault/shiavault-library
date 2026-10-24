@@ -45,4 +45,3 @@ severe punishments.19 In certain circumstances, the adulteress would be
 separated and isolated in the house and would remain in this way
 un-married until death.
 
-

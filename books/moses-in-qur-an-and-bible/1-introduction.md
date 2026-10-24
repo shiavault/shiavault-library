@@ -87,4 +87,3 @@ authentic Source, they cannot be relied Upon. We have tried in this
 chapter to present to our readers a continuous account of the history of
 Moses which is widely scattered in the pages of the Qur'an.
 
-

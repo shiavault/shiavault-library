@@ -3,11 +3,7 @@ Lesson Fifty Four: Martyrdom and Purity
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إذا مُتَّ عَلَى طَهارَة تَكُونُ شَهِيْداً
-  </p>
-</blockquote>
+> إذا مُتَّ عَلَى طَهارَة تَكُونُ شَهِيْداً
 
 Translation
 -----------
@@ -32,5 +28,4 @@ also other such sayings among the traditions from the pure household of
 the Prophet (peace be upon him and his progeny)
 
 [^1]: Safinat’ul-Bihar, volume one, page 720
-
 

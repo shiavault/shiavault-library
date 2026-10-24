@@ -256,4 +256,3 @@ But such an agent can only be assumed in the case of accidental motions,
 and in the appropriate place it will be explained that substantial
 motion does not need this sort of agent.
 
-

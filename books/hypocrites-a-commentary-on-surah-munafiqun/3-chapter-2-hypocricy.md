@@ -1,11 +1,9 @@
 Chapter 2 : Hypocricy
 =====================
 
-<p dir="rtl">
 إِذَا جَاءكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ
 وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ
 الْمُنَافِقِينَ لَكَاذِبُونَ
-</p>
 
 When the hypocrites come to you, they say: “We bear witness that thou
 are indeed the Messenger of Allah.” Yea, Allah knows that you are indeed
@@ -185,9 +183,7 @@ not have any resolve. They did not know which side to join. They had
 weak spirits and hearts. They were confused because of their weak
 intellects. The Qura-n describes them in the following manner:
 
-<p dir="rtl">
 مُّذَبْذَبِينَ بَيْنَ ذَلِكَ لاَ إِلَى هَـؤُلاء وَلاَ إِلَى هَـؤُلاء
-</p>
 
 “Swaying between this (and that), (belonging) neither to these nor to
 those.”[^7]
@@ -211,17 +207,16 @@ words: “We bear witness that you are indeed the Messenger of Allah.”
 
 **Notes:**
 
-[^2] 62:1
+[^2]: 62:1
 
-[^3] Ibn H?ajr, Al-As?a-bah, volume 4, page 88
+[^3]: Ibn H?ajr, Al-As?a-bah, volume 4, page 88
 
-[^4] Shaykh Muh?ammad Taqi- Shu-shtari-, Qa-mu-s al-Rija-l, volume 10,
+[^4]: Shaykh Muh?ammad Taqi- Shu-shtari-, Qa-mu-s al-Rija-l, volume 10,
 page 89
 
-[^5] Ibn Abi- al-H?adi-d, Nahj al-Bala-ghah, volume 1, page 221-222
+[^5]: Ibn Abi- al-H?adi-d, Nahj al-Bala-ghah, volume 1, page 221-222
 
-[^6] Sayyid ?Ali- bin Ma?s?u-m, Al-Daraja-t al-Rafi’ah, pages 86-87
+[^6]: Sayyid ?Ali- bin Ma?s?u-m, Al-Daraja-t al-Rafi’ah, pages 86-87
 
-[^7] 4:143
-
+[^7]: 4:143
 

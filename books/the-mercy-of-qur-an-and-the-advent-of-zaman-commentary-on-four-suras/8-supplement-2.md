@@ -249,4 +249,3 @@ can he still deny the Truth? He is the outcome of what he has put forth,
 of where his feet have taken him and to what his forehead has made
 sajda.
 
-

@@ -149,12 +149,8 @@ the pride of the poor in front of the wealthy out of [their] trust in
 Allah, the Glorified!
 
 > 35ـ ما أحْسَنَ تَواضُعَ الأغْنياءِ لِلْفُقَراءِ طَلَباً لِما عِنْدَ
-<blockquote dir="rtl">
-  <p>
-اللّهِ سُبْحانَهُ، وما أحْسَنَ تِيْهَ الفُقَراءِ عَلَى الأغْنِياءِ
-إتِّكالاً عَلَى اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> اللّهِ سُبْحانَهُ، وما أحْسَنَ تِيْهَ الفُقَراءِ عَلَى الأغْنِياءِ
+> إتِّكالاً عَلَى اللّهِ سُبْحانَهُ.
 
 36. There is no honour like humility.
 
@@ -165,5 +161,4 @@ Allah, the Glorified!
 > 37ـ بِخَفْضِ الجُناحِ تَنْتَظِمُ الأُمُورُ.
 
 [^1]: Or: Through humility, loftiness is adorned.
-
 

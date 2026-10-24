@@ -172,4 +172,3 @@ guarantee the happiness and welfare of man.
 
 [^1]: Frank Cont, Sima-ye Shuja'an, p. 35.
 
-

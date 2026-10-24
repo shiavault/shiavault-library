@@ -28,12 +28,8 @@ same way, what difference is there between Shī\`as and non-Shī\`as?
 
 Second, there is a well-known tradition:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ عَلِيٍّ بْنِ أَبِي طٌالِبٍ حَسَنَةٌ لاٌ تَضُرُّ مَعَهٌا
-سَيِّئَةٌ
-  </p>
-</blockquote>
+> حُبُّ عَلِيٍّ بْنِ أَبِي طٌالِبٍ حَسَنَةٌ لاٌ تَضُرُّ مَعَهٌا
+> سَيِّئَةٌ
 
 *“Love of \`Alī Ibn Abī Ťalib is a good deed with which no evil deed can
 bring harm.”*
@@ -94,12 +90,8 @@ Shī\`as? What I said is that once you have recognized the Imām, do*
 
 As for the tradition that says:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ عَلِيٍّ بْنِ أَبِي طٌالِبٍ حَسَنَةٌ لاٌ تَضُرُّ مَعَهٌا
-سَيِّئَةٌ
-  </p>
-</blockquote>
+> حُبُّ عَلِيٍّ بْنِ أَبِي طٌالِبٍ حَسَنَةٌ لاٌ تَضُرُّ مَعَهٌا
+> سَيِّئَةٌ
 
 *“Love of \`Alī Ibn Abī Ťalib (as) is a good deed with which no evil
 deed will cause harm,”*
@@ -130,12 +122,8 @@ result of true love; thus it is not exclusive to \`Alī Ibn Abī Ťalib
 (as); true love of the Prophet Muhammad (S) is the same way. Thus, the
 meaning of the tradition:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ عَلِيٍّ بْنِ أَبِي طٌالِبٍ حَسَنَةٌ لاٌ تَضُرُّ مَعَهٌا
-سَيِّئَةٌ
-  </p>
-</blockquote>
+> حُبُّ عَلِيٍّ بْنِ أَبِي طٌالِبٍ حَسَنَةٌ لاٌ تَضُرُّ مَعَهٌا
+> سَيِّئَةٌ
 
 *“Love of \`Alī Ibn Abī Ťalib (as) is a good deed with which no evil
 deed can cause harm”*
@@ -151,19 +139,11 @@ are more sinful than all other sinners; these, too are false claimants.
 
 Imām Ja\`far Ibn Muhammad as-Ŝādiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-هٌذَا لِعَمْرِي فِي الْفِعٌالِ بَدِيعٌ , تُعْصِي الإِلٌهَ وَأَنْتَ
-تُظْهِرُ حُبَّهُ
-  </p>
-</blockquote>
+> هٌذَا لِعَمْرِي فِي الْفِعٌالِ بَدِيعٌ , تُعْصِي الإِلٌهَ وَأَنْتَ
+> تُظْهِرُ حُبَّهُ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُحِبَّ لِمَنْ يُحِبُّ مُطِيعٌ , لَوْ كٌانَ حُبُّكَ صٌادِقاً
-لَأَطَعْتَهُ
-  </p>
-</blockquote>
+> إِنَّ الْمُحِبَّ لِمَنْ يُحِبُّ مُطِيعٌ , لَوْ كٌانَ حُبُّكَ صٌادِقاً
+> لَأَطَعْتَهُ
 
 *You disobey God while claiming to love Him,*
 
@@ -179,11 +159,7 @@ sin, not encourage it.
 
 Imām Muhammad Ibn \`Alī al-Bāqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مٌا تَنٌالُ وِلاٌيَتُنٌا إِلاَّ بِالْعَمَلِ وَالْوَرَعِ.
-  </p>
-</blockquote>
+> مٌا تَنٌالُ وِلاٌيَتُنٌا إِلاَّ بِالْعَمَلِ وَالْوَرَعِ.
 
 *“Our patronage is not attained except through deeds and piety.*”[^3]
 
@@ -210,17 +186,13 @@ your mother is Fāťimah Zahrā, and your grandfather is the Messenger of
 God (S) – that is,* *with such a noble ancestry and lofty link, why are
 you in discomfort and fear?”* He looked to me and said:
 
-<blockquote dir="rtl">
-  <p>
-هَيْهٌاتَ هَيْهٌاتَ يٌا طٌاوُوسُ دَعْ عَنِّـي حَدِيثَ أَبِي وَأُمِّي
-وَجَدِّي، خَلَقَ اللٌّهُ الْجَنَّةَ لِمَنْ أَطٌاعَهُ وَأَحْسَنَ وَلَوْ
-كٌانَ عَبْداً حَبَشِيًّا، وَخَلَقَ النٌّارَ لِمَنْ عَصٌاهُ وَلَوْ
-كٌانَ وَلَداً قُرَشِيًّا. أَمٌّا سَمِعْتَ قَوْلَ تَعٌالـى: فَإِذٌا
-نُفْخَ فِي الصُّورِ فَلاٌ أَنْسٌابَ بَيْنَهُمْ يَوْمَئِذٍ وَلاٌ
-يَتَسٌاءَلُونَ  وَاللٌّهِ لاٌ يَنْفَعُكَ غَداً إِلاَّ تَقْدِمَةٌ
-تُقَدِّمُهٌا مِنْ عَمَلٍ صٌالِحٍ
-  </p>
-</blockquote>
+> هَيْهٌاتَ هَيْهٌاتَ يٌا طٌاوُوسُ دَعْ عَنِّـي حَدِيثَ أَبِي وَأُمِّي
+> وَجَدِّي، خَلَقَ اللٌّهُ الْجَنَّةَ لِمَنْ أَطٌاعَهُ وَأَحْسَنَ وَلَوْ
+> كٌانَ عَبْداً حَبَشِيًّا، وَخَلَقَ النٌّارَ لِمَنْ عَصٌاهُ وَلَوْ
+> كٌانَ وَلَداً قُرَشِيًّا. أَمٌّا سَمِعْتَ قَوْلَ تَعٌالـى: فَإِذٌا
+> نُفْخَ فِي الصُّورِ فَلاٌ أَنْسٌابَ بَيْنَهُمْ يَوْمَئِذٍ وَلاٌ
+> يَتَسٌاءَلُونَ  وَاللٌّهِ لاٌ يَنْفَعُكَ غَداً إِلاَّ تَقْدِمَةٌ
+> تُقَدِّمُهٌا مِنْ عَمَلٍ صٌالِحٍ
 
 *“Not at all, O’ Ťāwūs, not at all! Leave aside talk of my ancestry. God
 created Heaven for those who obey Him and do good, even if he be an
@@ -235,17 +207,13 @@ the hill of al-Ŝafāāand called out: *“O* *sons of Hāshim! O sons of
 \`Abdul Muťťalib!”* The descendents of Hāshim and \`Abdul Muťťalib
 assembled; when they came together, the Messenger (S) addressed them:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّـي رَسُولُ اللٌّهِ إِلَيْكُمْ، إِنِّـي لَشَفِيقٌ عَلَيْكُمْ، لاٌ
-تَقُولُوا إِنَّ مُحَمَّداً مِنٌّا، فَوَاللٌّهِ مٌا أَوْلِيٌائِي
-مِنْكُمْ وَلاٌ مِنْ غَيْرِكُمْ إِلاَّ الْمُتَّقُونَ، فَلاٌ تَأْتُونِي
-يَوْمَ الْقِيٌامَةِ تَحْمِلُونَ الدُّنْيٌا عَلى رِقٌابِكُمْ وَيَأْتِي
-النٌّاسُ يَحْمِلُونَ الآخِرَةَ. أَلاَّ وَإِنِّـي قَدْ أَعْذَرْتُ
-فِيمٌا بَيْنِي وَبَيْنَكُمْ وَفِيمٌا بَيْنَ اللٌّهِ عَزَّ وَّجَلَّ
-وَبَيْنَكُمْ وَإِنَّ لِي عَمَلِي وَلَكُمْ عَمَلُكُمْ
-  </p>
-</blockquote>
+> إِنِّـي رَسُولُ اللٌّهِ إِلَيْكُمْ، إِنِّـي لَشَفِيقٌ عَلَيْكُمْ، لاٌ
+> تَقُولُوا إِنَّ مُحَمَّداً مِنٌّا، فَوَاللٌّهِ مٌا أَوْلِيٌائِي
+> مِنْكُمْ وَلاٌ مِنْ غَيْرِكُمْ إِلاَّ الْمُتَّقُونَ، فَلاٌ تَأْتُونِي
+> يَوْمَ الْقِيٌامَةِ تَحْمِلُونَ الدُّنْيٌا عَلى رِقٌابِكُمْ وَيَأْتِي
+> النٌّاسُ يَحْمِلُونَ الآخِرَةَ. أَلاَّ وَإِنِّـي قَدْ أَعْذَرْتُ
+> فِيمٌا بَيْنِي وَبَيْنَكُمْ وَفِيمٌا بَيْنَ اللٌّهِ عَزَّ وَّجَلَّ
+> وَبَيْنَكُمْ وَإِنَّ لِي عَمَلِي وَلَكُمْ عَمَلُكُمْ
 
 *“Verily I am God’s Messenger to you; verily I am your well-wisher.
 Don’t say that Muhammad* *is from among us, for I swear by God, my
@@ -268,15 +236,11 @@ is owed something by me, let him come forward so that I may give it.”*
 
 Then he continued his words thus:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهٌا النٌّاسُ إِنَّهُ لَيْسَ بَيْنَ اللٌّهِ وَبَيْنَ أَحَدٍ نَسَبٌ
-وَلاٌ أَمْرٌ يُؤتِيهِ بِهِ خَيْراً أَوْ يَصْرِفُ عَنْهُ شَرًّا إِلاَّ
-الْعَمَلُ. أَلاٌ لاٌ يَدَّعَيَنَّ مُدَّعٍ وَلاٌ يَتَمَنَّيَنَّ
-مُتَمَنٍّ، وَالَّذِي بَعَثَنِي بِالْحَقِّ لاٌ يُنْجِي إِلاَّ عَمَلٌ
-مَعَ رَحْمَةٍ وَلَوْ عَصَيْتُ لَهَوَيْتُ. أَللٌّهُمَّ قَدْ بَلَّغْتُ
-  </p>
-</blockquote>
+> أَيُّهٌا النٌّاسُ إِنَّهُ لَيْسَ بَيْنَ اللٌّهِ وَبَيْنَ أَحَدٍ نَسَبٌ
+> وَلاٌ أَمْرٌ يُؤتِيهِ بِهِ خَيْراً أَوْ يَصْرِفُ عَنْهُ شَرًّا إِلاَّ
+> الْعَمَلُ. أَلاٌ لاٌ يَدَّعَيَنَّ مُدَّعٍ وَلاٌ يَتَمَنَّيَنَّ
+> مُتَمَنٍّ، وَالَّذِي بَعَثَنِي بِالْحَقِّ لاٌ يُنْجِي إِلاَّ عَمَلٌ
+> مَعَ رَحْمَةٍ وَلَوْ عَصَيْتُ لَهَوَيْتُ. أَللٌّهُمَّ قَدْ بَلَّغْتُ
 
 *“O people! Verily there is no kinship between God and any person, nor
 is there anything on account of which He will do good to a person or
@@ -306,34 +270,22 @@ The Imām (as) then turned to Ĥasan Ibn Mūsā al-Washshā’, one of the
 scholars of Kūfah who was present in that gathering, saying, “*How do
 the scholars of Kūfah recite this verse:*
 
-<blockquote dir="rtl">
-  <p>
-قٌالَ يٌا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ إِنَّهُ عَمَلٌ غَيْرُ
-صٌلِحٍ
-  </p>
-</blockquote>
+> قٌالَ يٌا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ إِنَّهُ عَمَلٌ غَيْرُ
+> صٌلِحٍ
 
 *“O Nuh! Verily he is not of your family; he is a (doer) of unworthy
 deeds.”*
 
 He replied: *“They recite it thus:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ عَمَلُ غَــيـرِ صٌالِحٍ
-  </p>
-</blockquote>
+> إِنَّهُ عَمَلُ غَــيـرِ صٌالِحٍ
 
 *“That is, he is not your son and is not from your seed; he is the son
 of an unrighteous man.”*  
  The Imām (as) said, *“Such is not the case. They recite the verse
 incorrectly and interpret it incorrectly. The verse is thus:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ عَمَلٌ غَيْرُ صٌلِحٍ
-  </p>
-</blockquote>
+> إِنَّهُ عَمَلٌ غَيْرُ صٌلِحٍ
 
 That is, your son himself is unworthy. He was actually the son of Nūh;
 he was driven away from God and drowned because he himself was
@@ -429,21 +381,13 @@ testimonies[^8], he or she will be recognized as a Muslim and will
 benefit from the advantages of Islām. But with regard to the rules of
 the hereafter and from the viewpoint of God’s conduct, the laws of:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَبِعَنِــي فَإِنَّهُ مِنِّـي
-  </p>
-</blockquote>
+> فَمَنْ تَبِعَنِــي فَإِنَّهُ مِنِّـي
 
 ***“Whoever follows me, is from me…***”[^9]
 
 and:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللٌّهِ أَتْقٌكُمْ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللٌّهِ أَتْقٌكُمْ
 
 ***“Verily the most honourable of you near God is the most pious of
 you.***”[^10]
@@ -452,13 +396,9 @@ prevail.
 
 The Messenger of God (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهٌا النٌّاسُ إِنَّ أَبٌاكُمْ وٌاحِدٌ، وَإِنَّ رَبَّكُمْ وٌاحِدٌ،
-كُلُّكُمْ لآدَمَ وَآدَمُ مِنْ تُرٌابٍ، لاٌ فَخْرَ لِعَرَبِيٍّ عَلى
-عَجَمِيٍّ إِلاَّ بْالتَّقْوى
-  </p>
-</blockquote>
+> أَيُّهٌا النٌّاسُ إِنَّ أَبٌاكُمْ وٌاحِدٌ، وَإِنَّ رَبَّكُمْ وٌاحِدٌ،
+> كُلُّكُمْ لآدَمَ وَآدَمُ مِنْ تُرٌابٍ، لاٌ فَخْرَ لِعَرَبِيٍّ عَلى
+> عَجَمِيٍّ إِلاَّ بْالتَّقْوى
 
 *“O people! Verily your father is one, and your Lord is One. All of you
 are from Adam, and Adam was from dust.* *There is no pride for an Arab
@@ -467,11 +407,7 @@ over a non-Arab, except through piety.*”[^11]
 Salmān al-Fārisī , who strove to reach truth, reached such a station
 that the Noble Messenger (S) said of him,
 
-<blockquote dir="rtl">
-  <p>
-سَلْمٌانُ مِنٌّا أَهْلَ الْبَيْتِ
-  </p>
-</blockquote>
+> سَلْمٌانُ مِنٌّا أَهْلَ الْبَيْتِ
 
 *“Salmān is one of us, the People of the House.”*
 
@@ -493,12 +429,8 @@ such regret that if it were possible to die, they would do so a thousand
 times. So let them awake from the slumber of carelessness today, repent,
 and make up for what has passed.
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قَضى الأَمْرُ وَ هُمْ فِي
-غَفْلَةٍ وَ هُمْ لاٌ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَ أَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قَضى الأَمْرُ وَ هُمْ فِي
+> غَفْلَةٍ وَ هُمْ لاٌ يُؤْمِنُونَ
 
 ***“And warn them (of) the day of regret, when the affair will be
 decided while they are negligent and don’t believe.”***[^12]
@@ -517,11 +449,7 @@ and difficulties of accounting for their deeds; and yet others will go
 to Hell and linger there for years in punishment. It has been narrated
 from the sixth Imām, Ja\`far Ibn Muhammad as-Ŝādiq (as) that the verse:
 
-<blockquote dir="rtl">
-  <p>
-لٌبِثِينَ فِيهٌــآ أَحْقٌاباً
-  </p>
-</blockquote>
+> لٌبِثِينَ فِيهٌــآ أَحْقٌاباً
 
 ***“…lingering therein for ages…***”[^13]
 
@@ -575,23 +503,15 @@ has committed.*”[^17]
 4. \`Alī Ibn Ibrāhīm narrates from Imām Ja\`far Ibn Muhammad as-Ŝādiq
 (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ وَرٌآئِهِمْ بَرْزَخٌ إِلـى يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> وَ مِنْ وَرٌآئِهِمْ بَرْزَخٌ إِلـى يَوْمِ يُبْعَثُونَ
 
 ***“…and beyond them is a barrier until the day they shall be
 resurrected.”***[^18]
 
 that he said:
 
-<blockquote dir="rtl">
-  <p>
-وَاللٌّهِ مٌا أَخٌافُ عَلَيْكُمْ إِلاَّ الْبَرْزَخَ فَأَمٌّا أِذٌا
-صٌارَ الأَمْرُ إِلَيْنٌا فَنَحْنُ أَوْلـى بِكُمْ
-  </p>
-</blockquote>
+> وَاللٌّهِ مٌا أَخٌافُ عَلَيْكُمْ إِلاَّ الْبَرْزَخَ فَأَمٌّا أِذٌا
+> صٌارَ الأَمْرُ إِلَيْنٌا فَنَحْنُ أَوْلـى بِكُمْ
 
 *“I swear by God, I fear nothing for you except barzakh; as for when the
 affair is committed to us, we are more worthy of you.**”***[^19]
@@ -656,5 +576,4 @@ A\`māl and al-Amālī of Shaykh Sadūq
 
 [^19]: Bihārul Anwār (Kumpānī print), Volume 3, Page 151, from Tafsīr
 \`Alī ibn Ibrāhīm
-
 

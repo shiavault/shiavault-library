@@ -211,4 +211,3 @@ be sufficient.
 [^1]: One mudd of food is approximately ten sr (750 grams) of wheat or
 barley or things like this.
 
-

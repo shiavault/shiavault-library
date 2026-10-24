@@ -109,4 +109,3 @@ the semen was discharged without sexual desire or caressing.
  You must also do the ghusl again, even if the semen was discharged in a
 situation different from the one just described.
 
-

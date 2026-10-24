@@ -10,15 +10,11 @@ to observe patience and stay firm on the true faith.
 
 The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِـي عَلِيٍّ نُزِّلَتْ ] وَ الْعَصْرِ [ وَ تَفْسِيرُهَا: وَ رَبِّ
-عَصْرِ الْقِيَامَةِ، ] إِنَّ الإِنْسَانَ لَفِي خُسْرٍ [: أَعْدَاءَ آلِ
-مُحَمَّدٍ ] إِلاَّ الَّذِينَ آمَنُوا [ بِوِلاَيَـتِهِمْ ] وَ عَمِلُوا
-الصَّالِحَاتِ [ بِمُوَاسَاةِ إِخْوَانِهِمْ ] وَ تَوَاصَوا بِالْحَقِّ
-وَ تَوَاصَوا بِالصَّبْرِ [ بِالصَّبْرِ فِي غَيْبَةِ غَائِبِهِمْ
-  </p>
-</blockquote>
+> وَ فِـي عَلِيٍّ نُزِّلَتْ ] وَ الْعَصْرِ [ وَ تَفْسِيرُهَا: وَ رَبِّ
+> عَصْرِ الْقِيَامَةِ، ] إِنَّ الإِنْسَانَ لَفِي خُسْرٍ [: أَعْدَاءَ آلِ
+> مُحَمَّدٍ ] إِلاَّ الَّذِينَ آمَنُوا [ بِوِلاَيَـتِهِمْ ] وَ عَمِلُوا
+> الصَّالِحَاتِ [ بِمُوَاسَاةِ إِخْوَانِهِمْ ] وَ تَوَاصَوا بِالْحَقِّ
+> وَ تَوَاصَوا بِالصَّبْرِ [ بِالصَّبْرِ فِي غَيْبَةِ غَائِبِهِمْ
 
 “Surat al-’Asr was revealed about ‘Ali (as) and its exegesis is as
 follows: I swear by the time, I swear by the Lord of the Day of
@@ -30,5 +26,4 @@ encourage others to observe patience they encourage the observing of
 patience during the occultation of the one who is in occultation.”[^1]
 
 [^1]: al-Iqbal, pg. 457
-
 

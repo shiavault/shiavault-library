@@ -103,4 +103,3 @@ al-Kafi).
 [^5]: Quoted from Sayyid A. Sharafuddin’s al-Kalimat ul-Gharraa; page
 29.
 
-

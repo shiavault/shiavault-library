@@ -316,4 +316,3 @@ body, and will be with me in the Heaven".
 
 [^4]: Madarijun Nubuwwah page 302
 
-

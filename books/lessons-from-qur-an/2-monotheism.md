@@ -2096,4 +2096,3 @@ those whom you worship besides Allah. We have rejected you. Enmity and
 hatred will separate us forever unless you believe in One Allah'.***
 (Surah al-Mumtahinah, 60:4)
 
-

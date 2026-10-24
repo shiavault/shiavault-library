@@ -120,7 +120,6 @@ Qur'an also states:
 "And if you ask them who created the heavens and the earth, they will
 certainly say: Allah ... (31:25)."
 
-
 **THE EFFECT OF THIS INQUISITIVENESS IN MAN'S LIFE**
 
 If man positively answers questions about the Creator of the world and
@@ -167,7 +166,6 @@ right way, they shall have no fear nor shall they grieve' (46:13)."
 "Those who believe and whose hearts are set at rest by the remembrance
 of Allah; now surely by Allah's remembrance are the hearts set at rest
 (13:28)."
-
 
 **Theism From The Viewpoint Of Quran**
 
@@ -238,7 +236,6 @@ and the spirit of following the truth starts functioning, the facts
 would be illuminating for them one after the other and whatever truth
 and fact become clear for them, they would accept readily. Everyday,
 they would take a fresh step in the path of bliss and prosperity.
-
 
 **QUR'AN'S TEACHINGS ABOUT THE CREATOR OF THE WORLD**
 
@@ -358,7 +355,6 @@ order. Therefore, our actions are two stages subsequent to the world
 order. But for Allah Who governs the world or a part of it, the external
 world order is an action. It is not rational to believe that His actions
 occur due to premeditations on the system.
-
 
 **THE ALMIGHTY ALLAH POSSESSES ALL ATTRIBUTES OF PERFECTION**
 
@@ -613,5 +609,4 @@ perfection from others and without asking them for help. Attributes of
 imperfection and causes for need and indigence, such as weakness,
 ignorance, death, difficulty, etc, will not find a way to His Holy
 Presence.
-
 

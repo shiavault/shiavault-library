@@ -42,21 +42,13 @@ injunctions are established on that (*Ma’rifat*). If it was not for this
 divine gift, man would have been unable to perceive His *Ma’rifat* and
 reality.
 
-<blockquote dir="rtl">
-  <p>
-بك عرفتك و أنت دللتني عليك و لولا انت لم ادر ما انت
-  </p>
-</blockquote>
+> بك عرفتك و أنت دللتني عليك و لولا انت لم ادر ما انت
 
 Rather, without this definition (of God), even the *Ma’rifat* of the
 position of Messengership and ‘vilayat’ (Mastership) would not have been
 possible for man
 
-<blockquote dir="rtl">
-  <p>
-اللهم عرفني نفسك فإنك ان لم تعرفني نفسك لم اعرف رسولك
-  </p>
-</blockquote>
+> اللهم عرفني نفسك فإنك ان لم تعرفني نفسك لم اعرف رسولك
 
 This Innate *Ma’rifat* is having such foundational and infrastructural
 aspect in the divine religions that even if among some of the worships
@@ -97,22 +89,14 @@ were granted in a lustrous and holy sphere, the divine grace and
 dispensation and after receiving the most highest monotheistic knowledge
 they were made to confess and give a covenant.
 
-<blockquote dir="rtl">
-  <p>
-ألستُ بِرَبِكُم، قالوا: بلى..
-  </p>
-</blockquote>
+> ألستُ بِرَبِكُم، قالوا: بلى..
 
 Of course, after coming into this world man tends to forget the
 specifications of these places and stages. However the essence of that
 innate knowledge is present near man and is always blended with his
 substance (i.e.clay) and accompanies his nature.
 
-<blockquote dir="rtl">
-  <p>
-(نسوا الموقف و ثبتت المعرفة)
-  </p>
-</blockquote>
+> (نسوا الموقف و ثبتت المعرفة)
 
 This firm and permanent *Ma’rifat* has been so fixed like a strong
 pillar in the existence of man that till the present world, it has been
@@ -179,15 +163,11 @@ These traditions comprises the secrets such that when the treasure of
 divine secrets, Amir al-Mo’meneen Ali (‘a) was teaching them to Haaris
 Hamedani he would address him as such:
 
-<blockquote dir="rtl">
-  <p>
-((يَا حَارِثُ : إِنَّ الْحَقَّ أَحْسَنُ الْحَدِيثِ ، وَ الصَّادِعَ
-بِهِ مُجَاهِدٌ ، وَ بِالْحَقِّ أُخْبِرُكَ فَأَرْعِنِي سَمْعَكَ ، ثُمَّ
-خَبِّرْ بِهِ مَنْ كَانَتْ لَهُ حَصَانَةٌ مِنْ أَصْحَابِكَ .أَلَا
-إِنِّي عَبْدُ الله : وَ أَخُو رَسُولِهِ ، وَ صَدِيقُهُ الْأَوَّلُ
-.قَدْ صَدَّقْتُهُ : وَ آدَمُ بَيْنَ الرُّوحِ وَ الْجَسَدِ...))
-  </p>
-</blockquote>
+> ((يَا حَارِثُ : إِنَّ الْحَقَّ أَحْسَنُ الْحَدِيثِ ، وَ الصَّادِعَ
+> بِهِ مُجَاهِدٌ ، وَ بِالْحَقِّ أُخْبِرُكَ فَأَرْعِنِي سَمْعَكَ ، ثُمَّ
+> خَبِّرْ بِهِ مَنْ كَانَتْ لَهُ حَصَانَةٌ مِنْ أَصْحَابِكَ .أَلَا
+> إِنِّي عَبْدُ الله : وَ أَخُو رَسُولِهِ ، وَ صَدِيقُهُ الْأَوَّلُ
+> .قَدْ صَدَّقْتُهُ : وَ آدَمُ بَيْنَ الرُّوحِ وَ الْجَسَدِ...))
 
 “O’ Haaris, surely truth is the best of all the speeches and the one who
 inclines towards it is a Mujahid (warrior). I will speak the truth; so
@@ -203,11 +183,7 @@ they will act upon and they take the Divine Essence and ‘Hajar a1-Aswad’
 (black stone) as witness upon them. In front of this phrase of ‘Alasto’
 they cry out:
 
-<blockquote dir="rtl">
-  <p>
-((أمانتي أديتها و ميثاقس تعاهدته، لِتَشهد لي بالموافات))
-  </p>
-</blockquote>
+> ((أمانتي أديتها و ميثاقس تعاهدته، لِتَشهد لي بالموافات))
 
 **(Muhaqqiq Hilli- Sharaye Islam; pg. 201 and wasail us Shia Beirut 5th
 print; vol. 9; chapter 12 & 13)**
@@ -252,14 +228,10 @@ of transmission of the tradition.
 Now we draw the attention of the respected readers to some of the verses
 and traditions in this regard.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
-وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ
-شَهِدْنَا أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَـٰذَا
-غَافِلِينَ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
+> وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ
+> شَهِدْنَا أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَـٰذَا
+> غَافِلِينَ
 
 ***“And when your Lord brought forth from the children of Adam, from
 their backs, their descendants, and made them bear witness against their
@@ -274,14 +246,10 @@ tradition regarding the world of pre-existence (alam al-zar) was
 mentioned under this verse. Now we bring here a tradition about the
 world of spirits (alam al-arwaah).
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: ما تقول في الارواح انها جنود
-مجندة، فما تعارف منها ائتلف و ما تناكر منها إختلف؟ قال: انى نقول ذلك؟
-قال: فإنه كذلك، إن الله عز وجل أخذَ من العباد ميثاقهم و هم اظلّة قبل
-الميلاد وهو قوله عز وجل: ((و إذ أخَذَ ربُكَ من بني آدم...))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: ما تقول في الارواح انها جنود
+> مجندة، فما تعارف منها ائتلف و ما تناكر منها إختلف؟ قال: انى نقول ذلك؟
+> قال: فإنه كذلك، إن الله عز وجل أخذَ من العباد ميثاقهم و هم اظلّة قبل
+> الميلاد وهو قوله عز وجل: ((و إذ أخَذَ ربُكَ من بني آدم...))
 
 **(Elalush-Sharayeh; pg. 39; chapter 77)**
 
@@ -289,29 +257,21 @@ Imam Sadiq (‘a) said: “Surely God took promise from His slaves at the
 time when they were a shadow and they were not yet born in this present
 world and verse 172 of chapter A’raf is a witness to this same matter.”
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنكَ وَمِن نُّوحٍ
-وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ وَأَخَذْنَا مِنْهُم
-مِّيثَاقًا غَلِيظًا
-  </p>
-</blockquote>
+> وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنكَ وَمِن نُّوحٍ
+> وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ وَأَخَذْنَا مِنْهُم
+> مِّيثَاقًا غَلِيظًا
 
 ***“And when we made a covenant with the prophet and with you, and with
 Nuh end Ibrahim and Musa and Isa, son of Marium, and we made with them a
 strong covenant.” (Holy Qur’an: 33: 7)***
 
-<blockquote dir="rtl">
-  <p>
-(( قال الصادق (عليه السلام): كان الميثاق مأخوذا عليهم لله بالربوبية
-ولرسوله بالنبوة ولأمير المؤمنين والأئمة (عليهم السلام) بالإمامة فقال:
-ألست بربكم ومحمد (صلَّى الله عليه و آله) نبيكم وعلي (عليه السلام)
-إمامكم والأئمة الهادون أئمتكم، فقالوا: بلى. فقال الله تعالى: إن تقولوا
-يوم القيامة اي لئلا تقولوا يوم القيامة إنا كنا عن هذا غافلين فأول ما
-اخذ الله عز وجل الميثاق على الأنبياء له بالربوبية وهو قوله وإذ أخذنا
-من النبيين ميثاقهم..))
-  </p>
-</blockquote>
+> (( قال الصادق (عليه السلام): كان الميثاق مأخوذا عليهم لله بالربوبية
+> ولرسوله بالنبوة ولأمير المؤمنين والأئمة (عليهم السلام) بالإمامة فقال:
+> ألست بربكم ومحمد (صلَّى الله عليه و آله) نبيكم وعلي (عليه السلام)
+> إمامكم والأئمة الهادون أئمتكم، فقالوا: بلى. فقال الله تعالى: إن تقولوا
+> يوم القيامة اي لئلا تقولوا يوم القيامة إنا كنا عن هذا غافلين فأول ما
+> اخذ الله عز وجل الميثاق على الأنبياء له بالربوبية وهو قوله وإذ أخذنا
+> من النبيين ميثاقهم..))
 
  **(Burhan fi Tafseer al-Qur’an; vol. 3; pg. 294)**
 
@@ -322,25 +282,17 @@ chapter A’raf. Therefore taking all these traditions in the allegorical
 and metaphorical sense is far from truth and in none of the proofs one
 can find emphasis on metaphorical meaning.
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ اللَّـهُ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ اللَّـهُ
 
 ***“And if you ask them who created the heavens and the earth, they will
 certainly say: Allah.” (Holy Qur’an: 31: 25)***
 
-<blockquote dir="rtl">
-  <p>
-((...قال ابو جعفر (عليه السلام): أخرج من ظهر آدم ذريته الى يوم
-القيامة، فخرجوا كالذر فعرفهم و أراهم نفسه و لولا ذلك لم يعرف أحد ربه،
-وقال: قال رسول الله (صلّى الله عليه و آله):كلُّ مولودٍ يُولَد على
-الفطرة، يعني على المعرفةِ أنّ الله عزّ و جلّ خالقُه، فذلك قوله عزّ و
-جل: وَلَئِن سأَلْتَهم مَن خَلَق السماواتِ والأرضَ لَيَقُولُنَّ الله))
-  </p>
-</blockquote>
+> ((...قال ابو جعفر (عليه السلام): أخرج من ظهر آدم ذريته الى يوم
+> القيامة، فخرجوا كالذر فعرفهم و أراهم نفسه و لولا ذلك لم يعرف أحد ربه،
+> وقال: قال رسول الله (صلّى الله عليه و آله):كلُّ مولودٍ يُولَد على
+> الفطرة، يعني على المعرفةِ أنّ الله عزّ و جلّ خالقُه، فذلك قوله عزّ و
+> جل: وَلَئِن سأَلْتَهم مَن خَلَق السماواتِ والأرضَ لَيَقُولُنَّ الله))
 
 **(Usul al-Kafi; vol. 2; pg. 13)**
 
@@ -368,49 +320,33 @@ and Aristotle where Plato, with great hardship and difficulty succeeded
 in bringing a father and son for god and Aristotle believed with doubt
 in forty-seven gods.
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّـهِ ذَٰلِكَ الدِّينُ
-الْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّـهِ ذَٰلِكَ الدِّينُ
+> الْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
 
 ***“Then set your face upright for religion in the right state - the
 nature made by Allah in which He has made men; there is no altering of
 Allah’s creation; that is the right religion, but most people do not
 know” (Holy Qur’an: 30: 30)***
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: سألته عن قول الله عزَّ و جل: "فطرة
-الله التي فطر الناس عليها"، ما تلك الفطرة؟ قال هي الاسلام، فطرهم الله
-حين أخذ ميثاقهم على التوحيد، "قال ألستُ بربكم" و فيه المؤمن و الكافر))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: سألته عن قول الله عزَّ و جل: "فطرة
+> الله التي فطر الناس عليها"، ما تلك الفطرة؟ قال هي الاسلام، فطرهم الله
+> حين أخذ ميثاقهم على التوحيد، "قال ألستُ بربكم" و فيه المؤمن و الكافر))
 
  **(Usul al-Kafi; vol. 2; pg. 12)**
 
-<blockquote dir="rtl">
-  <p>
-أَفَغَيْرَ دِينِ اللَّـهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي
-السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَغَيْرَ دِينِ اللَّـهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي
+> السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
 
 ***“Is it then other than Allah’s religion that they seek (to follow),
 and to Him submits whoever is In the heavens and the earth, willingly or
 unwillingly, and to Him shall they be returned.” (Holy Qur’an: 3: 83)***
 
-<blockquote dir="rtl">
-  <p>
-((ثم إن الله تبارك وتعالى نادى في أصحاب اليمين وأصحاب الشمال: ألست
-بربكم ؟ فقال أصحاب اليمين : بلى يا ربنا نحن بريتك وخلقك مقرين طائعين
-،  وقال أصحاب الشمال : بلى ياربنا نحن بريتك وخلقك كارهين. وذلك قول
-الله: " وله  أسلم من في السموات والارض طوعا وكرها وإليه ترجعون)) قال:
-توحيدهم الله))
-  </p>
-</blockquote>
+> ((ثم إن الله تبارك وتعالى نادى في أصحاب اليمين وأصحاب الشمال: ألست
+> بربكم ؟ فقال أصحاب اليمين : بلى يا ربنا نحن بريتك وخلقك مقرين طائعين
+> ،  وقال أصحاب الشمال : بلى ياربنا نحن بريتك وخلقك كارهين. وذلك قول
+> الله: " وله  أسلم من في السموات والارض طوعا وكرها وإليه ترجعون)) قال:
+> توحيدهم الله))
 
  **(Tafseer Aiyashi; vol. 1; pg. 182)**
 
@@ -422,116 +358,76 @@ above tradition it has come that in the world of pre-existence God asked
 the people to enter the fire. Consequently, the people of the left
 (hand) objected while the people of the right (hand) obeyed.
 
-<blockquote dir="rtl">
-  <p>
-وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ
-أَوَّلَ مَرَّةٍ
-  </p>
-</blockquote>
+> وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ
+> أَوَّلَ مَرَّةٍ
 
 ***“And we will turn their hearts and their sights, even as they did not
 believe in it the first time.” (Holy Qur’an: 6: 110)***
 
-<blockquote dir="rtl">
-  <p>
-((قال علي بن ابي طالب (عليه السلام)... كما لم يؤمنوا به أول مرة)) يعني
-في الذر و الميثاق...))
-  </p>
-</blockquote>
+> ((قال علي بن ابي طالب (عليه السلام)... كما لم يؤمنوا به أول مرة)) يعني
+> في الذر و الميثاق...))
 
 **(Burhan; vol. 1; pg. 549)**
 
 With regard to the above verse, Ali (‘a) said: “By ‘first time’ is meant
 the world of pre-existence (alam al-zar) and the covenant (mesaaq).”
 
-<blockquote dir="rtl">
-  <p>
-فَمَا كَانُوا لِيُؤْمِنُوا بِمَا كَذَّبُوا بِهِ مِن قَبْلُ كَذَٰلِكَ
-نَطْبَعُ عَلَىٰ قُلُوبِ الْمُعْتَدِينَ
-  </p>
-</blockquote>
+> فَمَا كَانُوا لِيُؤْمِنُوا بِمَا كَذَّبُوا بِهِ مِن قَبْلُ كَذَٰلِكَ
+> نَطْبَعُ عَلَىٰ قُلُوبِ الْمُعْتَدِينَ
 
 ***“…But they would not believe in what they had rejected before; thus
 it is that we set seals upon the hearts of those who exceed the limits.”
 (Holy Qur’an: 10: 74)***
 
-<blockquote dir="rtl">
-  <p>
-عن أبي جعفر وأبي عبدالله عليهما السلام قالا : إن الله  خلق الخلق وهي
-أظلة ، فأرسل رسوله محمدا صلى الله عليه وآله) فمنهم من آمن به ومنهم من
-كذبه ،  ثم بعثه في الخلق الآخر فآمن به من كان آمن به في الاظلة وجحده
-من جحد به يومئذ ،  فقال : ما كانو ليؤمنوا بما كذبوا به من قبل))
-  </p>
-</blockquote>
+> عن أبي جعفر وأبي عبدالله عليهما السلام قالا : إن الله  خلق الخلق وهي
+> أظلة ، فأرسل رسوله محمدا صلى الله عليه وآله) فمنهم من آمن به ومنهم من
+> كذبه ،  ثم بعثه في الخلق الآخر فآمن به من كان آمن به في الاظلة وجحده
+> من جحد به يومئذ ،  فقال : ما كانو ليؤمنوا بما كذبوا به من قبل))
 
 **(Tafseer Aiyashi; vol. 1; pg. 126)**
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الْقُرَىٰ نَقُصُّ عَلَيْكَ مِنْ أَنبَائِهَا وَلَقَدْ
-جَاءَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا
-كَذَّبُوا مِن قَبْلُ كَذَٰلِكَ يَطْبَعُ اللَّـهُ عَلَىٰ قُلُوبِ
-الْكَافِرِينَ
-  </p>
-</blockquote>
+> تِلْكَ الْقُرَىٰ نَقُصُّ عَلَيْكَ مِنْ أَنبَائِهَا وَلَقَدْ
+> جَاءَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا
+> كَذَّبُوا مِن قَبْلُ كَذَٰلِكَ يَطْبَعُ اللَّـهُ عَلَىٰ قُلُوبِ
+> الْكَافِرِينَ
 
 ***“These town: - We relate to you some of their stone:, and certainly
 their apostles came to them with clear arguments, but they would not
 believe in what they rejected at first; thus does Allah set a seal over
 the hearts of the unbelievers.” (Holy Ouran: 7: 101)***
 
-<blockquote dir="rtl">
-  <p>
-((وما كانوا ليؤمنوا بما كذبوا من قبل)) يعنى في الذر الأول قال: قال لا
-يؤمنون في الدنيا بما كذبوا في الذر وهو ردٌّ على من انكر الميثاق في
-الذر الاول))
-  </p>
-</blockquote>
+> ((وما كانوا ليؤمنوا بما كذبوا من قبل)) يعنى في الذر الأول قال: قال لا
+> يؤمنون في الدنيا بما كذبوا في الذر وهو ردٌّ على من انكر الميثاق في
+> الذر الاول))
 
 **(Burhan; vol. 2; pg. 26)**
 
 From this tradition and the one, which will come under verse 9 it is
 apparent that the worlds of pre-existence have been many.
 
-<blockquote dir="rtl">
-  <p>
-هَـٰذَا نَذِيرٌ مِّنَ النُّذُرِ الْأُولَىٰ
-  </p>
-</blockquote>
+> هَـٰذَا نَذِيرٌ مِّنَ النُّذُرِ الْأُولَىٰ
 
 ***“This is a warner of the warners of old.” (Holy Qur’an: 53: 56)***
 
-<blockquote dir="rtl">
-  <p>
-سألت ابا عبدالله (عليه السلام) عن قوله تبارك وتعالى: ((هذا نذير من
-النذر الاولى)) (قال ظ): يعني محمدا (صلى الله عليه و آله) حيث دعاهم إلى
-الاقرار بالله في الذر الاول
-  </p>
-</blockquote>
+> سألت ابا عبدالله (عليه السلام) عن قوله تبارك وتعالى: ((هذا نذير من
+> النذر الاولى)) (قال ظ): يعني محمدا (صلى الله عليه و آله) حيث دعاهم إلى
+> الاقرار بالله في الذر الاول
 
 **(Tafseer Noor-us-saqalain; vol. 5;** **pg. 173)**
 
-<blockquote dir="rtl">
-  <p>
-خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ
-ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ
-  </p>
-</blockquote>
+> خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ
+> ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ
 
 ***“We created you from dust, then from a small seed, then from a clot,
 then from a lump of flesh, complete in make and incomplete…” (Holy
 Qur’an: 22: 5)***
 
-<blockquote dir="rtl">
-  <p>
- سألت أبا جعفر عليه السلام عن قول الله عز وجل: " مخلقة وغير مخلقة "
-قال: المخلقة هم الذر الذين خلقهم الله في صلب آدم (عليه السلام)، أخذ
-عليهم الميثاق ثم أجراهم في أصلاب الرجال وأرحام النساء وهم الذين يخرجون
-إلى الدنيا حتى يسألوا عن الميثاق. وأما قوله: " وغير مخلقة " فهم كل
-نسمة لم يخلقهم الله عز وجل في صلب آدم حين خلق الذر وأخذ عليهم الميثاق،
-وهم النطف من العزل والسقط قبل أن ينفخ فيه الروح والحياة والبقاء
-  </p>
-</blockquote>
+>  سألت أبا جعفر عليه السلام عن قول الله عز وجل: " مخلقة وغير مخلقة "
+> قال: المخلقة هم الذر الذين خلقهم الله في صلب آدم (عليه السلام)، أخذ
+> عليهم الميثاق ثم أجراهم في أصلاب الرجال وأرحام النساء وهم الذين يخرجون
+> إلى الدنيا حتى يسألوا عن الميثاق. وأما قوله: " وغير مخلقة " فهم كل
+> نسمة لم يخلقهم الله عز وجل في صلب آدم حين خلق الذر وأخذ عليهم الميثاق،
+> وهم النطف من العزل والسقط قبل أن ينفخ فيه الروح والحياة والبقاء
 
 **(Furu al-Kafi; vol. 6; pg. 12)**
 
@@ -598,11 +494,7 @@ and reward or punishment pertains to them.
 In addition, when the same *Fitrah* becomes shy due to the external
 factors, the light of reality remains hidden from man.
 
-<blockquote dir="rtl">
-  <p>
-صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ
-  </p>
-</blockquote>
+> صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ
 
 In the discussion of ‘submission and faith’ this matter will be examined
 in a more detailed form.
@@ -622,11 +514,7 @@ carnal desires and egotism even though it may be expressed in beautiful
 words and the one who reckons the metaphor to be the castle of reality
 is far from reality:
 
-<blockquote dir="rtl">
-  <p>
-((أيكون لِغيرك من الظهور ما ليس لك.. عميت عين لا تراك...))
-  </p>
-</blockquote>
+> ((أيكون لِغيرك من الظهور ما ليس لك.. عميت عين لا تراك...))
 
 **(Dua al-Arafa; Imam Husayn (‘a) - Mafatihul Jenan)**
 
@@ -691,11 +579,7 @@ to the existing doubts about innate *Ma’rifat*. Just as it was seen in
 some of the traditions in Section One, this examination has been
 forgotten by man and the one who has made to forget is God.
 
-<blockquote dir="rtl">
-  <p>
-[ابو عبدالله (عليه السلام)] كان ذلك معاينة الله فانساهم المعاينة.
-  </p>
-</blockquote>
+> [ابو عبدالله (عليه السلام)] كان ذلك معاينة الله فانساهم المعاينة.
 
  **(*****Bihar al-Anwar*****; vol. 5; pg. 223)**
 
@@ -704,12 +588,8 @@ the gradual passage of some time and especially after the reminding of
 the exhorters and warnings of the warners that he once again remembers
 the same *Ma’rifat*.
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَاءَكُمُ
-النَّذِيرُ
-  </p>
-</blockquote>
+> أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَاءَكُمُ
+> النَّذِيرُ
 
 ***“Did we not preserve you alive long enough, so that he who would be
 mindful in it should mind? And there came to you the warner…” (Holy
@@ -720,12 +600,8 @@ mentioned to be eighteen.[^8]
 
 Based on the above explanation, reasoning out this verse
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّـهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ
-شَيْئًا
-  </p>
-</blockquote>
+> وَاللَّـهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ
+> شَيْئًا
 
 ***“And Allah has brought you forth from the wombs of your mothers - you
 did not know anything…” (Holy Qur’an: 16: 78)***
@@ -758,12 +634,8 @@ innate *Ma’rifat*. On the other hand acquiring the strange ways instead
 of *Fitrah* (innate disposition) will be a strange *Ma’rifat* different
 from the innate and genuine *Ma’rifat*.
 
-<blockquote dir="rtl">
-  <p>
-((... فكيف يوحده من زعم انه عرفه بغيره و إنما عرف الله من عرفه بالله،
-فمن لم يعرفه به فليس يعرفه، إنما يعرف غيره...))
-  </p>
-</blockquote>
+> ((... فكيف يوحده من زعم انه عرفه بغيره و إنما عرف الله من عرفه بالله،
+> فمن لم يعرفه به فليس يعرفه، إنما يعرف غيره...))
 
 **(Usul al-Kafi; vol. 1; pg. 114)**
 
@@ -814,16 +686,12 @@ common use. (We shall refer to these sciences under point no. 5).
 
 #### 5-The Focal Point of Innate Ma’rifat is the Heart not Mind
 
-<blockquote dir="rtl">
-  <p>
-((عن أبي عبد الله (عليه السلام) قال: قلت
-له:أخبرني عن الله عز وجل هل يراه المؤمنون يوم القيامة؟ قال: نعم، وقد
-رأوه قبل يوم القيامة، فقلت: متى؟ قال: حين قال لهم: {أَلَسْتُ
-بِرَبّكُمْ قَالُوا بَلَى} ثم سكت ساعة، ثم قال: وإن المؤمنين ليرونه في
-الدنيا قبل يوم القيامة، ألست تراه في وقتك هذا؟ [دقت شود].. وليست
-الرؤية بالقلب كالرؤية بالعين))
-  </p>
-</blockquote>
+> ((عن أبي عبد الله (عليه السلام) قال: قلت
+> له:أخبرني عن الله عز وجل هل يراه المؤمنون يوم القيامة؟ قال: نعم، وقد
+> رأوه قبل يوم القيامة، فقلت: متى؟ قال: حين قال لهم: {أَلَسْتُ
+> بِرَبّكُمْ قَالُوا بَلَى} ثم سكت ساعة، ثم قال: وإن المؤمنين ليرونه في
+> الدنيا قبل يوم القيامة، ألست تراه في وقتك هذا؟ [دقت شود].. وليست
+> الرؤية بالقلب كالرؤية بالعين))
 
  **(Tauheed of Sadooq; pg. 117)**
 
@@ -832,11 +700,7 @@ Day of Judgement? Imam replied: Yes and they have witnessed God even
 before the Day of Judgement. It was asked when it was so and Imam
 replied: When it was said to them:
 
-<blockquote dir="rtl">
-  <p>
-ألستُ بِرَبِكُم، قالوا بلى
-  </p>
-</blockquote>
+> ألستُ بِرَبِكُم، قالوا بلى
 
 Thereafter, he kept silent and then said: Verily the believers witness
 God in this world and before the Day of Judgement too. Do you not just
@@ -847,48 +711,28 @@ Therefore observation of God is one Universal matter and is not
 specifically meant for a particular group, although the grades of
 observation are varied.
 
-<blockquote dir="rtl">
-  <p>
-((... فقال: يا أمير المؤمنين هل رأيت ربّك حين عبدته؟ قال: فقال: ويلك
-ما كنت أعبد رباً لم أره، قال: وكيف رأيته؟ قال: ويلك لا تدركه العيون في
-مشاهدة الأبصار ولكن رأته القلوب بحقائق الايمان))
-  </p>
-</blockquote>
+> ((... فقال: يا أمير المؤمنين هل رأيت ربّك حين عبدته؟ قال: فقال: ويلك
+> ما كنت أعبد رباً لم أره، قال: وكيف رأيته؟ قال: ويلك لا تدركه العيون في
+> مشاهدة الأبصار ولكن رأته القلوب بحقائق الايمان))
 
  **(Tauheed of Sadooq; pg.109; Similarly Nahjul Balaghah, Subhi Saleh)**
 
-<blockquote dir="rtl">
-  <p>
-((.. يا ابا جعفر اي شيء تعبد؟ قال (عليه السلام):الله. قال :هل رأيته؟
-فقال (عليه السلام):لم تره العيون بمشاهدة العيان،ولكن رأته القلوب
-بحقائق الايمان...))
-  </p>
-</blockquote>
+> ((.. يا ابا جعفر اي شيء تعبد؟ قال (عليه السلام):الله. قال :هل رأيته؟
+> فقال (عليه السلام):لم تره العيون بمشاهدة العيان،ولكن رأته القلوب
+> بحقائق الايمان...))
 
  **(Tauheed of Sadooq; pg. 108; similarly Usul al-Kafi; vol. 1; pg.
 97)**
 
-<blockquote dir="rtl">
-  <p>
-((.. [الله] الظاهر لقلوبهم بحجته...))
-  </p>
-</blockquote>
+> ((.. [الله] الظاهر لقلوبهم بحجته...))
 
 **(Nahjul Balagha; pg. 155)**
 
-<blockquote dir="rtl">
-  <p>
-(([الله] قد إحتج عليكم بما عرفَّكم من نفسه))
-  </p>
-</blockquote>
+> (([الله] قد إحتج عليكم بما عرفَّكم من نفسه))
 
 **(Usul al-Kafi; vol. 1; pg. 86)**
 
-<blockquote dir="rtl">
-  <p>
-((الايمان، معرفة بالقلب و إقرار باللسان و عمل بالاركان))
-  </p>
-</blockquote>
+> ((الايمان، معرفة بالقلب و إقرار باللسان و عمل بالاركان))
 
 **(Nahjul Balaghah; pg. 508)**
 
@@ -908,29 +752,17 @@ stages of divine faith. Rather the possibility of imagining the essence
 of God and even describing Him by means of understandings and
 imaginations has been rejected.
 
-<blockquote dir="rtl">
-  <p>
-((وقد ضلَّت في ادراك كنهه هواجس الاحلام لانه أجلُّ من أن يحده الباب
-البشر بالتفكير))
-  </p>
-</blockquote>
+> ((وقد ضلَّت في ادراك كنهه هواجس الاحلام لانه أجلُّ من أن يحده الباب
+> البشر بالتفكير))
 
 **(Tauheed of Sadooq; pg. 51)**
 
-<blockquote dir="rtl">
-  <p>
-((.. لأنه الله الذي لم يتناه في العقول...))
-  </p>
-</blockquote>
+> ((.. لأنه الله الذي لم يتناه في العقول...))
 
  **(Tauheed of Sadooq; pg. 54)**
 
-<blockquote dir="rtl">
-  <p>
-((محرم... على غوائص سابحات الفطر تصويره.. ممتنع... عن الاذهان أن
-تمثله... قد ضلَّت العقول في أمواج تيار إدراكه))
-  </p>
-</blockquote>
+> ((محرم... على غوائص سابحات الفطر تصويره.. ممتنع... عن الاذهان أن
+> تمثله... قد ضلَّت العقول في أمواج تيار إدراكه))
 
 **(Tauheed of Sadooq; pg. 70)**
 
@@ -939,29 +771,17 @@ deliberate in the imagination of God) is forbidden, it is impossible to
 depict Him in our mind The intellects, in the stormy waves of His
 perception have gone astray.
 
-<blockquote dir="rtl">
-  <p>
-((... فلا تدرك العقول و أوهامها ولا الفكر وخطراتها ولا الالباب و
-أذهانها صفته...))
-  </p>
-</blockquote>
+> ((... فلا تدرك العقول و أوهامها ولا الفكر وخطراتها ولا الالباب و
+> أذهانها صفته...))
 
  **(Tauheed of Sadooq; pg. 45)**
 
-<blockquote dir="rtl">
-  <p>
-((إن الله تبارك و تعالى أجَّلُ و أعظم من أن... تبلغه الاوهام أو تحيط
-به صفة العقول))
-  </p>
-</blockquote>
+> ((إن الله تبارك و تعالى أجَّلُ و أعظم من أن... تبلغه الاوهام أو تحيط
+> به صفة العقول))
 
 **(Tauheed of Sadooq; pg. 75)**
 
-<blockquote dir="rtl">
-  <p>
-((لا تقدِّره العقول ولا تقع عليه الاوهام... سبحانه وتعالى عن الصفات))
-  </p>
-</blockquote>
+> ((لا تقدِّره العقول ولا تقع عليه الاوهام... سبحانه وتعالى عن الصفات))
 
  **(Tauheed of Sadooq; pg. 79)**
 
@@ -972,27 +792,15 @@ and not the outcome of infinitive. Apart from the fact that the contents
 of the traditions itself bear testimony to this meaning the
 lexicographical lexicons too emphasis on this meaning.
 
-<blockquote dir="rtl">
-  <p>
-((وصف: وصف الشيء له وعليه وصفاً. وصفه: حلاه و الهاء عوض عن الواو))
-  </p>
-</blockquote>
+> ((وصف: وصف الشيء له وعليه وصفاً. وصفه: حلاه و الهاء عوض عن الواو))
 
 **(Ibn Manzur, Lesaan al-Arab- Beirut; vol. 15; pg. 315 1st edition)**
 
-<blockquote dir="rtl">
-  <p>
-الصفة من الوصف مثل العدة من الوعد و الجمع صفات
-  </p>
-</blockquote>
+> الصفة من الوصف مثل العدة من الوعد و الجمع صفات
 
  **(Fayumi, Mesbah ul-Munir; pg. 661)**
 
-<blockquote dir="rtl">
-  <p>
-((وصفهُ وصفاً وصفة))
-  </p>
-</blockquote>
+> ((وصفهُ وصفاً وصفة))
 
 **(Zamakhshari, Asas ul-Balagha; pg. 501)**
 
@@ -1003,20 +811,12 @@ traditions and for finding a solution they have resorted to esoteric
 interpretation. Examining these esoteric interpretations is not within
 the scope of our discussion.
 
-<blockquote dir="rtl">
-  <p>
-((أصِفُ الهي بما وصف به نفسه و أعرفه بما عرَّف به نفسه))
-  </p>
-</blockquote>
+> ((أصِفُ الهي بما وصف به نفسه و أعرفه بما عرَّف به نفسه))
 
  **(Tauheed of Sadooq; pg. 80)**
 
-<blockquote dir="rtl">
-  <p>
-((سبحانك ماعرفوك ولا وحدوك، فمن أجل ذلك وصفوك، سبحانك لو عرفوك لوصفوك
-بما وصفت به نفسك... إلهي لا أصف إلا بما وصفت به نفسك))
-  </p>
-</blockquote>
+> ((سبحانك ماعرفوك ولا وحدوك، فمن أجل ذلك وصفوك، سبحانك لو عرفوك لوصفوك
+> بما وصفت به نفسك... إلهي لا أصف إلا بما وصفت به نفسك))
 
  **(Tauheed of Sadooq; pg. 114)**
 
@@ -1026,11 +826,7 @@ would have recognized Thee, they would have described Thee in the same
 manner which Thou Thyself have mentioned… O’ God, I will not describe
 Thee except by the very descriptions which Thou have mentioned.
 
-<blockquote dir="rtl">
-  <p>
-((أصِفُه بما وصف به نفسه من غير صورة))
-  </p>
-</blockquote>
+> ((أصِفُه بما وصف به نفسه من غير صورة))
 
  **(Tauheed of Sadooq; pg. 47)**
 
@@ -1043,11 +839,7 @@ webbed by the mind. Rather He is Greater than that which can be shown by
 the human mind and thus in the interpretation of ‘Allaho Akbar’ it has
 been said:
 
-<blockquote dir="rtl">
-  <p>
-((الله أكبر من أن يوصف))
-  </p>
-</blockquote>
+> ((الله أكبر من أن يوصف))
 
 “Allah is much Greater than what one can describe”[^9]
 
@@ -1105,30 +897,18 @@ The famous sermon of Imam Reza (‘a) which is the Universal principle of
 monotheistic *Ma’arif* (gnostic knowledge) and is very much similar to
 the first sermon of Nahjul Balagha, begins with such sentences:
 
-<blockquote dir="rtl">
-  <p>
-((أول عبادة الله تعالى معرفته، وأصل معرفتة الله توحيده، ونظام توحيد
-الله نفي الصفات عنه...))
-  </p>
-</blockquote>
+> ((أول عبادة الله تعالى معرفته، وأصل معرفتة الله توحيده، ونظام توحيد
+> الله نفي الصفات عنه...))
 
 Thereafter he says:
 
-<blockquote dir="rtl">
-  <p>
-((فأسمائه تعبير))
-  </p>
-</blockquote>
+> ((فأسمائه تعبير))
 
 **(Oyoon** **Akhbar Reza (‘a) pg. 150-151)**
 
-<blockquote dir="rtl">
-  <p>
-((... ومن زعم أنه يعبد المعنى بالصفة لا بإلإدراك فقد أحال على غائب...
-ثيل له: فكيف سبيل التوحيد؟ قال: باب البحث ممكن و طلب المخرج موجود، إن
-معرقة عين الشاهد قبل صفته و معرفة صفة الغائب قبل عينه...))
-  </p>
-</blockquote>
+> ((... ومن زعم أنه يعبد المعنى بالصفة لا بإلإدراك فقد أحال على غائب...
+> ثيل له: فكيف سبيل التوحيد؟ قال: باب البحث ممكن و طلب المخرج موجود، إن
+> معرقة عين الشاهد قبل صفته و معرفة صفة الغائب قبل عينه...))
 
 **(*****Bihar al-Anwar*****; vol. 68; pg. 276)**
 
@@ -1152,20 +932,12 @@ signify the external Essence and the implication of Names and Attributes
 has been the Holy Essence of God which by His own introduction becomes
 the well-known ‘*Fitrah*’ and not the mental implications and concepts.
 
-<blockquote dir="rtl">
-  <p>
-((والأسماء و الصفات، مخلوقات و المعني بها هو الله))
-  </p>
-</blockquote>
+> ((والأسماء و الصفات، مخلوقات و المعني بها هو الله))
 
  **(*****Bihar al-Anwar*****; vol. 4; pg. 153)**
 
-<blockquote dir="rtl">
-  <p>
-((سألت أبا الحسن الرضا (عليه السلام) عن الاسم ما هو؟ فقال (عليه
-السلام): [فهو] صفة لموصوف))
-  </p>
-</blockquote>
+> ((سألت أبا الحسن الرضا (عليه السلام) عن الاسم ما هو؟ فقال (عليه
+> السلام): [فهو] صفة لموصوف))
 
 **(Ma’aniyul Akhbar; pg. 2, and Tauheed of Sadooq; pg. 192)**
 
@@ -1176,24 +948,16 @@ the real subject of qualification and not the form and understandings of
 subject of qualification. In the next tradition the manner of
 significance of Name upon the external Essence is explained.
 
-<blockquote dir="rtl">
-  <p>
- ((... ومن عبد المعنى دون الاسم فذاك التوحيد... الله معنى يدل عليه
-بهذه الاسماء وكلها غيره، يا هشام الخبز اسم للمأكول والماء اسم
-للمشروب...))
-  </p>
-</blockquote>
+>  ((... ومن عبد المعنى دون الاسم فذاك التوحيد... الله معنى يدل عليه
+> بهذه الاسماء وكلها غيره، يا هشام الخبز اسم للمأكول والماء اسم
+> للمشروب...))
 
   **(Usu al-Kafi; pg. 114)**
 
-<blockquote dir="rtl">
-  <p>
-((عن أبي عبدالله (عليه السلام) قال: من عبدالله بالتوهم فقد ... ومن عبد
-المعنى بإيقاع الاسماء عليه بصفاته التي وصف بها نفسه فعقد عليه قلبه
-ونطق به لسانه في سرائره وعلانيته فأولئك أصحاب أمير المؤمنين))عليه
-السلام))
-  </p>
-</blockquote>
+> ((عن أبي عبدالله (عليه السلام) قال: من عبدالله بالتوهم فقد ... ومن عبد
+> المعنى بإيقاع الاسماء عليه بصفاته التي وصف بها نفسه فعقد عليه قلبه
+> ونطق به لسانه في سرائره وعلانيته فأولئك أصحاب أمير المؤمنين))عليه
+> السلام))
 
  **(Tauheed of Sadooq; pg. 220)**
 
@@ -1204,21 +968,13 @@ concepts which are used with regard to the creatures, is negated for God
 and the verbal commonness is interpreted in the most highest and precise
 form.
 
-<blockquote dir="rtl">
-  <p>
-((فمعاني الخلق عنه منفية))
-  </p>
-</blockquote>
+> ((فمعاني الخلق عنه منفية))
 
 **(Tauheed of Sadooq; pg. 79)**
 
-<blockquote dir="rtl">
-  <p>
- وإنما سمي الله عالما لانه لا يجهل شيئا، فقد جمع الخالق والخلوق اسم
-العالم واختلف المعنى...  فقد جمعنا الاسم بالسميع واختلف المعنى وهكذا
-البصير))
-  </p>
-</blockquote>
+>  وإنما سمي الله عالما لانه لا يجهل شيئا، فقد جمع الخالق والخلوق اسم
+> العالم واختلف المعنى...  فقد جمعنا الاسم بالسميع واختلف المعنى وهكذا
+> البصير))
 
  **(Oyoon Akhbar al-Reza; pg. 147)**
 
@@ -1228,16 +984,10 @@ noun of ‘A’lam’ but the meaning or implication of ‘A’lam’ is differe
 in the Creator and creature. The same is true with the words of
 ‘Samee*’* (All-Hearing) and ‘Baseer’ (All-Seeing)
 
-<blockquote dir="rtl">
-  <p>
-((... [الله] ولا شيئاً يقع عليه إسم شيء من الاشياء غيره))
-  </p>
-</blockquote>
+> ((... [الله] ولا شيئاً يقع عليه إسم شيء من الاشياء غيره))
 
 **  
 **
-
-  
 
 **  
 **
@@ -1441,11 +1191,7 @@ which the intellect, by announcing its helplessness towards the most
 sublime realities, expands the way for the heartly journey and prepares
 the *Fitrah* (Innate Disposition) for the position of Divine Grace.
 
-<blockquote dir="rtl">
-  <p>
-((العلم نورٌ يقذفه الله في قلب من يشاء))
-  </p>
-</blockquote>
+> ((العلم نورٌ يقذفه الله في قلب من يشاء))
 
 Second Stage: Reminding and Argumentation in Religious Theology
 ---------------------------------------------------------------
@@ -1524,13 +1270,9 @@ endeavour. However its result will be a higher *Ma’arif* and a reminder
 more severe than the divine and innate *Ma’arif* and will lead to a much
 higher stage than the special guidance
 
-<blockquote dir="rtl">
-  <p>
-إلهي هب لي كمال الإنقطاع إليك، وأنر أبصار قلوبنا بضياء نظرها إليك، حتى
-تخرق أبصار القلوب حجب النور، فتصل إلى معدن العظمة، وتصير أرواحنا معلقة
-بعز قدسك.
-  </p>
-</blockquote>
+> إلهي هب لي كمال الإنقطاع إليك، وأنر أبصار قلوبنا بضياء نظرها إليك، حتى
+> تخرق أبصار القلوب حجب النور، فتصل إلى معدن العظمة، وتصير أرواحنا معلقة
+> بعز قدسك.
 
  **(Supplication of Sha’baniyeh)**
 
@@ -1572,12 +1314,8 @@ He introduces Himself and His Attributes through them (i.e. creatures).
 Thus in some of the verses of Qur’an, God introduces Himself as the
 Demonstrator of Ayats (signs):
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
 
 ***“We will soon show them our signs in the Universe and in their own
 souls, until it will become quite clear to them that it is the truth”
@@ -1585,22 +1323,14 @@ souls, until it will become quite clear to them that it is the truth”
 
 In another place, after mentioning the wonders of creation it says:
 
-<blockquote dir="rtl">
-  <p>
-وَيُرِيكُمْ آيَاتِهِ فَأَيَّ آيَاتِ اللَّـهِ تُنكِرُونَ
-  </p>
-</blockquote>
+> وَيُرِيكُمْ آيَاتِهِ فَأَيَّ آيَاتِ اللَّـهِ تُنكِرُونَ
 
 ***“And He shows you His signs: which then of Allah’s signs will you
 deny?” (Holy Qur’an: 40: 81)***
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّـهِ
-لِيُرِيَكُم مِّنْ آيَاتِهِ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّكُلِّ
-صَبَّارٍ شَكُورٍ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّـهِ
+> لِيُرِيَكُم مِّنْ آيَاتِهِ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّكُلِّ
+> صَبَّارٍ شَكُورٍ
 
 ***“Do you not see that the ships run on in the sea by Allah’s favour
 that He may show you of His signs? Most surely there are signs in this
@@ -1634,31 +1364,19 @@ lead to the remembrance of innate *Ma’rifat* and for this reason the
 verses of Qur’an, after mentioning the wonders of creation, reckon the
 result of observation and contemplation to be reminding and remembrance:
 
-<blockquote dir="rtl">
-  <p>
-وَمِن كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِن كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ***“And of everything we have created pairs that you may be mindful.”
 (Holy Qur’an: 51: 49)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ذَرَأَ لَكُمْ فِي الْأَرْضِ مُخْتَلِفًا أَلْوَانُهُ إِنَّ فِي
-ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> وَمَا ذَرَأَ لَكُمْ فِي الْأَرْضِ مُخْتَلِفًا أَلْوَانُهُ إِنَّ فِي
+> ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُونَ
 
 ***“And what He has created in the earth of varied hues; most surely
 there is a sign in this for a people who are mindful.” (Holy Qur’an: 16:
 12)***
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ جَعَلْنَاهَا تَذْكِرَةً
-  </p>
-</blockquote>
+> نَحْنُ جَعَلْنَاهَا تَذْكِرَةً
 
 ***“We have made it a reminder...” (Holy Qur’an: {56: 73}, Similarly
 {40: 13}; {88: 17-21} and {87: 1-10})***
@@ -1719,11 +1437,7 @@ Fourth Point: Another difference that exists between the first method
 addressee is much more prepared in receiving guidance and in the words
 of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ
-  </p>
-</blockquote>
+> زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ
 
 ***“…The oil whereof almost gives light through fire touch it not -
 light upon light.”*** ***(Holy Qur’an: 24: 35)***
@@ -1864,13 +1578,9 @@ reply sets forth the matter of innate *Ma’rifat* and ‘Meesaaq’
 (covenant) as a major argument for all and then teaches Mufazzal the
 rationalization of created signs.
 
-<blockquote dir="rtl">
-  <p>
-)) ونحن نحمد الله على النعم السابغة والحجج البالغة والبلاء المحمود عند
-الخاصة والعامة فكان من نعمه العظام و آلئه الجسام التي أنعم لها تقريره
-قلوبهم بربوبيته، و أخذه ميثاقهم بمعرفته...))
-  </p>
-</blockquote>
+> )) ونحن نحمد الله على النعم السابغة والحجج البالغة والبلاء المحمود عند
+> الخاصة والعامة فكان من نعمه العظام و آلئه الجسام التي أنعم لها تقريره
+> قلوبهم بربوبيته، و أخذه ميثاقهم بمعرفته...))
 
  **(*****Bihar al-Anwar*****; vol. 3; pg. 152)**
 
@@ -1886,13 +1596,9 @@ like Ayats and signs in the Holy Qur’an with regards to the created
 beings and especially its emphasis on their being an evident and
 manifest proof, relates the same matter.
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
-عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
+> عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
 
 ***“We will soon show them our signs in the Universe and in their own
 souls, until it will become quite clear to them that it is the truth.”
@@ -1901,22 +1607,14 @@ souls, until it will become quite clear to them that it is the truth.”
 In many famous and diverse traditions too, this implication has been
 clearly expressed:
 
-<blockquote dir="rtl">
-  <p>
-((هل يكون بناء من غير بانٍ أو جناية من غير جان؟))
-  </p>
-</blockquote>
+> ((هل يكون بناء من غير بانٍ أو جناية من غير جان؟))
 
 ***“Is there a house without a ‘maker’ or a crime without a criminal?”
 (Bihar al-Anwar; vol. 3; pg. 26)***
 
-<blockquote dir="rtl">
-  <p>
-((البعرة تدل على البعير، والروثة تدل على الحمير، وآثار الأقدام تدل على
-المسير، فهيكل علويٌ بهذه اللطافة ومركز سفلي بهذه الكثافة كيف لا يدلان
-على اللطيف الخبير؟))
-  </p>
-</blockquote>
+> ((البعرة تدل على البعير، والروثة تدل على الحمير، وآثار الأقدام تدل على
+> المسير، فهيكل علويٌ بهذه اللطافة ومركز سفلي بهذه الكثافة كيف لا يدلان
+> على اللطيف الخبير؟))
 
  **(*****Bihar al-Anwar*****; vol. 3; pg. 55)**
 
@@ -1935,20 +1633,12 @@ creatures has been praised and in many verses and traditions such
 contemplation has been called for which we will mention two of the
 traditions as examples:
 
-<blockquote dir="rtl">
-  <p>
-((قال ابوعبدالله (عليه السلام): إياكم و التفكر في الله))
-  </p>
-</blockquote>
+> ((قال ابوعبدالله (عليه السلام): إياكم و التفكر في الله))
 
 “Be on guard against contemplation in God.”[^28]
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: إذا انتهى الكلام إلى الله فأمسكوا،
-و تكلموأ فيما دون العرش ولا تكلموا فيما فوق العرش))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: إذا انتهى الكلام إلى الله فأمسكوا،
+> و تكلموأ فيما دون العرش ولا تكلموا فيما فوق العرش))
 
 “When the talk reaches to God, then pause and talk about what is below
 the ‘Arsh’ (Throne) and not what is above the ‘Arsh’.[^29]
@@ -1970,12 +1660,8 @@ to the Attributes of God.
 
 Various traditions explain this matter very explicitly:
 
-<blockquote dir="rtl">
-  <p>
-((إن العقل يعرف الخالق من جهة توجب عليه الإقرار ولا يعرفه بما يوجب له
-الإحاطة بصفته))
-  </p>
-</blockquote>
+> ((إن العقل يعرف الخالق من جهة توجب عليه الإقرار ولا يعرفه بما يوجب له
+> الإحاطة بصفته))
 
 “Surely intellect (reason) recognizes God for this reason that it
 becomes the cause of confessing to the existence of God and not because
@@ -1983,21 +1669,13 @@ of being conversant in His Attributes.”[^30]
 
 (After mentioning the four kinds of rational recognition he says)
 
-<blockquote dir="rtl">
-  <p>
-((... فليس من هذه الوجوه شيءٌ يمكِّن المخلوق أن يعرفه من الخالق حق
-معرفته غير أنه موجود فقط))
-  </p>
-</blockquote>
+> ((... فليس من هذه الوجوه شيءٌ يمكِّن المخلوق أن يعرفه من الخالق حق
+> معرفته غير أنه موجود فقط))
 
 “The real recognition of God is not possible by the aforesaid ways
 except to the extent that He is existing.”[^31]
 
-<blockquote dir="rtl">
-  <p>
-((وهو خلاف ما يعقل))
-  </p>
-</blockquote>
+> ((وهو خلاف ما يعقل))
 
 “God is not he who can be rationalized.”[^32]
 
@@ -2039,23 +1717,15 @@ existence of God then it is either due to the non-reflection and
 non-deliberation with regards to reasoning and or due to commitment of
 sins and sickness of the heart.
 
-<blockquote dir="rtl">
-  <p>
-((ولعمري ما أتى الجهال من قِبَل ربهم و أنهم ليرون الدلالات الواضحات و
-العلامات البينات في خلقهم... و لكنم قوم فتحوا على انفسهم أبواب المعاصي
-و سهلوا لها سبيل الشهوات، فغلب الاهواء على قلوبهم))
-  </p>
-</blockquote>
+> ((ولعمري ما أتى الجهال من قِبَل ربهم و أنهم ليرون الدلالات الواضحات و
+> العلامات البينات في خلقهم... و لكنم قوم فتحوا على انفسهم أبواب المعاصي
+> و سهلوا لها سبيل الشهوات، فغلب الاهواء على قلوبهم))
 
  **(Bihar a1-Anwar; vol. 3; pg. 152)**
 
-<blockquote dir="rtl">
-  <p>
-((عن أمير المؤمنين (عليه السلام): و لو فكروا في عظيم القدرة و جسيم
-النعمة لرجعوا الى الطريق و خافوا عذاب الحريق و لكن القلوب عليلة و
-الأبصار مدخولة...))
-  </p>
-</blockquote>
+> ((عن أمير المؤمنين (عليه السلام): و لو فكروا في عظيم القدرة و جسيم
+> النعمة لرجعوا الى الطريق و خافوا عذاب الحريق و لكن القلوب عليلة و
+> الأبصار مدخولة...))
 
  **(*****Bihar al-Anwar*****; vol. 3; pg. 26)**
 
@@ -2124,7 +1794,7 @@ Nahl in Holy Qur’an, disputation is of two types: Good disputation and
 bad disputation. A good disputation possesses certain conditions and
 instances, which shall be mentioned in brief.
 
-<span id="first-condition">[First Condition](#first-condition)</span>  
+[First Condition](#first-condition)  
  Before disputation, the disputer should find the true matters and
 *Ma’arif* and through disputation and discussion, he should seek to
 prove and clarify those matters and reject the contravention which have
@@ -2147,11 +1817,7 @@ the divine *Ma’arif*. Therefore the haven for divine *Ma’arif* is not
 disputation but on the contrary relying on disputation is counted to be
 a deviated channel.
 
-<blockquote dir="rtl">
-  <p>
-((ما ضل قومٌ إلا أوثقوا الجَدَل))
-  </p>
-</blockquote>
+> ((ما ضل قومٌ إلا أوثقوا الجَدَل))
 
 “No tribe got deviated except when that tribe relied on disputation”
 (took it as a means for discovering the truth).[^38]
@@ -2177,32 +1843,20 @@ purpose of showing the reality.
 
 Imam Sadiq (‘a) told some of his companions as such:
 
-<blockquote dir="rtl">
-  <p>
-((قال أبو عبدالله (عليه السلام) لبعض أصحابنا: حاجوا الناس بكلامي فإن
-حجوكم فأنا المحجوج))
-  </p>
-</blockquote>
+> ((قال أبو عبدالله (عليه السلام) لبعض أصحابنا: حاجوا الناس بكلامي فإن
+> حجوكم فأنا المحجوج))
 
 “Enter into argumentation with the people by my sayings for in such a
 case, if they engage in discussion with you they have in fact engaged in
 discussion with me”[^40]
 
-<blockquote dir="rtl">
-  <p>
-((قال ابو عبدالله (عليه السلام) لِطائفةٍ من اصحابه: بينوا للناس الهدى
-الذي أنتم عليه...))
-  </p>
-</blockquote>
+> ((قال ابو عبدالله (عليه السلام) لِطائفةٍ من اصحابه: بينوا للناس الهدى
+> الذي أنتم عليه...))
 
 “Make clear to the people, the guidance which is upon you”[^41]
 
-<blockquote dir="rtl">
-  <p>
-((قال أبو الحسن موسى بن جعفر (عليه السلام) لمحمد بن حكيم: كلِّم الناس
-و بيِّن لهم الحق الذي أنت عليه...))
-  </p>
-</blockquote>
+> ((قال أبو الحسن موسى بن جعفر (عليه السلام) لمحمد بن حكيم: كلِّم الناس
+> و بيِّن لهم الحق الذي أنت عليه...))
 
  **(Shaikh Mufeed: Tasheeb ul Ehteqaad be sawaab ul Enteqaad; pg. 55)**
 
@@ -2213,8 +1867,8 @@ guidance and reality.
 Imam Sadiq (‘a) said: “Forsake those who enter into disputation (with
 you) while they possess no knowledge of the matter of discussion.”[^42]
 
-<span id="second-condition">[Second
-Condition](#second-condition)</span>  
+[Second
+Condition](#second-condition)  
  Apart from the fact that the bases and aim of a disputer should be on
 the basis of divine *Ma’arif*, his method in proving the true matter or
 contravening the false matter too should be a divine method and he
@@ -2240,7 +1894,7 @@ sayings. Rather it was like asking the un-believers: “Is this my God?
 This interrogation was in the form of negatory interrogation and not in
 the form of giving information of his beliefs.
 
-<span id="third-condition">[Third Condition](#third-condition)</span>  
+[Third Condition](#third-condition)  
  The disputer should possess the power and ability of debate and should
 be aware and rather dominant in the manner of entering into the
 discussion as well as coming out of it. For this reason the Holy Imams
@@ -2254,13 +1908,13 @@ This matter has been explained in continuation of the tradition of Yunus
 bin Yaqoob, which was mentioned in the first condition. Another
 tradition has been narrated in this regard.[^45]
 
-<span id="fourth-condition">[Fourth
-Condition](#fourth-condition)</span>  
+[Fourth
+Condition](#fourth-condition)  
  Disputation should first of all be beneficial and secondly the temporal
 and spatial conditions and the situation of disputation and the opposite
 person should suitable for the debator.[^46]
 
-<span id="fifth-condition">[Fifth Condition](#fifth-condition)</span>  
+[Fifth Condition](#fifth-condition)  
  There should exist a necessity for disputation. In numerous traditions,
 disputation and argumentation id hostility in religious discussion has
 been prohibited and one of the signs of piety, temperance and perfection
@@ -2294,23 +1948,15 @@ obedience of God, acting upon the injunctions and religious laws
 contemplating, having sincerity and in general all the aspects of
 obedience of God.
 
-<blockquote dir="rtl">
-  <p>
-((ما العبادة؟ قال [ابو عبد الله (عليه السلام)]: حُسن النية بالطاعة مِن
-الوجوه التي يُطاع منها...))
-  </p>
-</blockquote>
+> ((ما العبادة؟ قال [ابو عبد الله (عليه السلام)]: حُسن النية بالطاعة مِن
+> الوجوه التي يُطاع منها...))
 
  **(Usul al-Kafi; vol. 2; pg. 83)**
 
 About the importance of worship, suffice it is to say that it has been
 propounded as the goal of creation.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
 
 ***“And I have not created the Jinn and the man except that they should
 serve Me.” (Holy Qur’an: 51: 56)***
@@ -2340,11 +1986,7 @@ the only way of journey towards God and His proximity and the only way
 of achieving the most sublime *Ma’arif* of God and the highest guidance
 is through the channel of worship and obedience.
 
-<blockquote dir="rtl">
-  <p>
-وَإِن تُطِيعُوهُ تَهْتَدُوا
-  </p>
-</blockquote>
+> وَإِن تُطِيعُوهُ تَهْتَدُوا
 
 ***“…And if you obey him, you are on the right way” (Holy Qur’an: 24:
 54)***
@@ -2429,13 +2071,9 @@ The matter is not that the (religious) precepts and Shariat are reckoned
 to be the essence of religion but the whole point is that Shariat and
 Worship are the only way for reaching to the essence of *Ma’rifat*.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّـهَ مُخْلِصِينَ لَهُ الدِّينَ
-حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ
-دِينُ الْقَيِّمَةِ
-  </p>
-</blockquote>
+> وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّـهَ مُخْلِصِينَ لَهُ الدِّينَ
+> حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ
+> دِينُ الْقَيِّمَةِ
 
 ***“And they were not enjoined anything except that they should serve
 Allah, being sincere to Him in obedience, upright, and keep up prayer
@@ -2451,11 +2089,7 @@ of God in the light of ‘*Fitrah*’ (innate disposition) and perceives
 with reality its essence he finds himself in front of two ways:
 “Submission and gratitude” and the other “denial and infidelity”
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 
 ***“Surely we have shown him the way: he may be thankful or unthankful.”
 (Holy Qur’an: 76: 3)***
@@ -2469,59 +2103,35 @@ prosperity.[^68]
 
 Regarding the first set, one can mention the following verses:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلَيْنَا لَلْـهُدَىٰ
-  </p>
-</blockquote>
+> إِنَّ عَلَيْنَا لَلْـهُدَىٰ
 
 ***“Surely ours is it to show the way” (Holy Qur’an: 92: 12)***
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـٰكِنَّ اللَّـهَ يَهْدِي مَن يَشَاءُ
-  </p>
-</blockquote>
+> لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـٰكِنَّ اللَّـهَ يَهْدِي مَن يَشَاءُ
 
 ***“To make them walk in the right way is not incumbent on you, but
 Allah guides aright whom He pleases.” (Holy Qur’an: 2: 272)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ
-  </p>
-</blockquote>
+> إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ
 
 ***“Surely the (true) guidance is the guidance of Allah.” (Holy Qur’an:
 2: 120)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ
-  </p>
-</blockquote>
+> إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ
 
 ***“Surely the guidance of Allah, that is the (true) guidance” (Holy
 Qur’an: 6: 71)***
 
 The following verses on the other hand reveal the second point:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا وَّإِن تَوَلَّوْا فَإِنَّمَا
-عَلَيْكَ الْبَلَاغُ
-  </p>
-</blockquote>
+> فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا وَّإِن تَوَلَّوْا فَإِنَّمَا
+> عَلَيْكَ الْبَلَاغُ
 
 ***“So if they submit then indeed they follow the right way; and if they
 turn back, then upon you is only the delivery of message” (Holy Qur’an:
 3: 20)***
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّهُ تَذْكِرَةٌ. فَمَن شَاءَ ذَكَرَهُ.
-  </p>
-</blockquote>
+> كَلَّا إِنَّهُ تَذْكِرَةٌ. فَمَن شَاءَ ذَكَرَهُ.
 
 ***“Nay! It is surely an admonition. So whoever pleases may mind it.”
 (Holy Qur’an: 74: 54 and 55)***
@@ -2535,23 +2145,15 @@ and ‘Submission’ and guidance is consisting of two inseparable parts:
 One is the help and favour of God and the other is the acceptance and
 submission of man.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ وَأُمِرْنَا لِنُسْلِمَ
-لِرَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ وَأُمِرْنَا لِنُسْلِمَ
+> لِرَبِّ الْعَالَمِينَ
 
 ***“Say: Surely the guidance of Allah, that is the (true) guidance, and
 we are commanded that we should submit to the Lord of the worlds.” (Holy
 Qur’an: 6: 71)***
 
-<blockquote dir="rtl">
-  <p>
-((عن أبي عبدالله (عليه السلام) قال: لِلخَلق على الله أن يُعَرِّفَهم و
-لله على الخلق إذا عرفهم أن يَقْبلوا))
-  </p>
-</blockquote>
+> ((عن أبي عبدالله (عليه السلام) قال: لِلخَلق على الله أن يُعَرِّفَهم و
+> لله على الخلق إذا عرفهم أن يَقْبلوا))
 
 “It is upon God to introduce Himself to the people and it is upon them
 to accept Him after introduction”[^69]
@@ -2562,11 +2164,7 @@ contrast, seeking and searching the truth, accepting and bowing down
 before God and traversing the path of bondage and perfection are the
 duties of man.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا
-  </p>
-</blockquote>
+> فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا
 
 ***“So if they submit then indeed they follow the right way” (Holy
 Qur’an: 3: 20)***
@@ -2894,60 +2492,40 @@ produced in the end.
 The point which should be reminded about moral vices is that these vices
 takes shape by man’s free-will and he is in a position to acquire them.
 
-<span id="i-carnal-desires-and-extensive-love">[I) Carnal Desires and
-Extensive Love](#i-carnal-desires-and-extensive-love)</span>
+[I) Carnal Desires and
+Extensive Love](#i-carnal-desires-and-extensive-love)
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّـهُ
-عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
-بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّـهِ أَفَلَا
-تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّـهُ
+> عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
+> بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّـهِ أَفَلَا
+> تَذَكَّرُونَ
 
 ***“Have you then considered him who takes his low desire for his god,
 and Allah has made him err having knowledge and has set a seal upon his
 ear and his heart and put a covering upon his eye. Who can then guide
 him after Allah? Will you not then be mindful?” (Holy Qur’an: 45:23)***
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّـهُ
-عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
-بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّـهِ ۚ أَفَلَا
-تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أفَرَأَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّـهُ
+> عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
+> بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّـهِ ۚ أَفَلَا
+> تَذَكَّرُونَ
 
 **Similarly {28: 50},**
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
-  </p>
-</blockquote>
+> وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
 
 **{54: 3},**
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِ كَمَن زُيِّنَ لَهُ سُوءُ
-عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُم
-  </p>
-</blockquote>
+> أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِ كَمَن زُيِّنَ لَهُ سُوءُ
+> عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُم
 
 **{47: 14} and**
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ
-بِالرُّسُلِ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ
-وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا
-لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ
-وَفَرِيقًا تَقْتُلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ
+> بِالرُّسُلِ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ
+> وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا
+> لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ
+> وَفَرِيقًا تَقْتُلُونَ
 
 **{2: 87})**
 
@@ -2955,24 +2533,16 @@ According to the above verse, deviation, the sealing of heart, ears and
 eyes and deprivation from guidance are the effects of man’s evil free
 will and selection of carnal desires as objects of worship.
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ
-  </p>
-</blockquote>
+> وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ
 
 ***“And as to Samood, We showed them the right way.” (Holy Qur’an: 41:
 17)***
 
-<span id="ii-hard-heartedness">[II)
-Hard-heartedness](#ii-hard-heartedness)</span>
+[II)
+Hard-heartedness](#ii-hard-heartedness)
 
-<blockquote dir="rtl">
-  <p>
- وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ. ثُمَّ قَسَتْ قُلُوبُكُم
-مِّن بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً
-  </p>
-</blockquote>
+>  وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ. ثُمَّ قَسَتْ قُلُوبُكُم
+> مِّن بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً
 
 ***“…And He shows you His signs so that you may understand. Then your
 hearts hardened after that, so that they were like rocks, rather worse
@@ -3005,15 +2575,11 @@ sentence “the heart of Firaun became hard” has been repeated for more
 than ten times in the journey of exodus. **(Old Testament (Torah); pg.
 92-95, 97-100, and 104)**
 
-<span id="iii-pride-and-arrogance">[III) Pride and
-Arrogance](#iii-pride-and-arrogance)</span>
+[III) Pride and
+Arrogance](#iii-pride-and-arrogance)
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّـهِ بِغَيْرِ سُلْطَانٍ
-أَتَاهُمْ إِن فِي صُدُورِهِمْ إِلَّا كِبْرٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّـهِ بِغَيْرِ سُلْطَانٍ
+> أَتَاهُمْ إِن فِي صُدُورِهِمْ إِلَّا كِبْرٌ
 
 ***“Surely (as for) those who dispute about the communications of Allah,
 without any authority that has come to them, there is naught in their
@@ -3023,26 +2589,18 @@ Thus the divine signs are sufficient for guidance. However a group have
 disputed and contended against it and this disputation is not due to
 ignorance of the reality but because of pride and haughtiness.
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ كَفَرُوا أَفَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ
-عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ كَفَرُوا أَفَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ
+> عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ
 
 ***“As to those who disbelieved: What! were not my communications
 recited to you? But you were proud and you were a guilty people.” (Holy
 Qur’an: {45: 31}; Similarly {2: 17}, {7: 36, 40, 76}, {46: 10}, and {63:
 5})***
 
-<span id="iv-avarice">[IV) Avarice](#iv-avarice)</span>
+[IV) Avarice](#iv-avarice)
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا آتَاهُم مِّن فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوا وَّهُم
-مُّعْرِضُونَ. فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ.
-  </p>
-</blockquote>
+> فَلَمَّا آتَاهُم مِّن فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوا وَّهُم
+> مُّعْرِضُونَ. فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ.
 
 ***“But when He gave them out of His grace, they became niggardly of it
 and they turned back and they withdrew so He made hypocrisy to follow as
@@ -3053,12 +2611,8 @@ The effect of avarice is turning away from religion.
 V) Seeking Loftiness of Position and Rank. About the denial of the
 divine signs by Pharoah and his followers, Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا
-فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا
+> فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
 
 ***“And they denied them unjustly and proudly while their soul had been
 convinced of them; consider, then how was the end of the
@@ -3066,22 +2620,14 @@ mischief-makers.” (Holy Qur’an: 27: 14)***
 
 ##### B) Committing Sins
 
-<span id="i-injustice">[I) Injustice](#i-injustice)</span>
+[I) Injustice](#i-injustice)
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ
-  </p>
-</blockquote>
+> وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ
 
 ***“…And none deny Our communications except the unjust” (Holy Qur’an:
 29: 49)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّـهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّـهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 ***“Surely Allah does not guide the unjust people.” (Holy Qur’an: {6:
 144}. Similarly {9: 109}, {2: 86 and 258}, {61: 7}, {28: 50}, {46: 10}
@@ -3091,14 +2637,10 @@ In the Bible it has come that: “So the reason that He (i.e. God) made
 Pharoah’s heart hard was that he punished our nation and wished to do
 injustice upon them” **(Gospel of Barnabas)**
 
-<span id="ii-abomination">[II) Abomination](#ii-abomination)</span>
+[II) Abomination](#ii-abomination)
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا
-إِلَّا الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا
+> إِلَّا الْفَاسِقُونَ
 
 ***“And certainly We have revealed to you clear communications and none
 disbelieve in them except the transgressors.” (Holy Qur’an: 2: 99)***
@@ -3107,24 +2649,16 @@ In this verse, disbelief is confined to ‘Fisq’. Perhaps the reason may
 be due to the wide meaning of ‘Fisq’*,* which includes in it every
 action, which is evil.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّـهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّـهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
 
 ***“Surely Allah does not guide the transgressing people” (Holy Qur’an:
 {63: 6}, Similarly, {2: 26}, {61: 5}, {9: 80})***
 
-<span id="iii-performing-indecent-acts">[III) Performing Indecent
-Acts](#iii-performing-indecent-acts)</span>
+[III) Performing Indecent
+Acts](#iii-performing-indecent-acts)
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَن كَذَّبُوا
-بِآيَاتِ اللَّـهِ
-  </p>
-</blockquote>
+> ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَن كَذَّبُوا
+> بِآيَاتِ اللَّـهِ
 
 ***“Then evil was the end of those who did evil, because they rejected
 the communications of Allah.” (Holy Qur’an: 30: 10)***
@@ -3135,56 +2669,36 @@ connection of behaviour with the human heart and soul, any indecent act
 will have a direct effect on man’s heartly position before religion and
 he will start rejecting it.
 
-<span id="iv-lies-and-falsehood">[IV) Lies and
-Falsehood](#iv-lies-and-falsehood)</span>
+[IV) Lies and
+Falsehood](#iv-lies-and-falsehood)
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّـهَ لَا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّـهَ لَا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ
 
 ***“Surely Allah does not guide him aright who is a liar, ungrateful.”
 (Holy Qur’an: 39: 3)***
 
 ##### C& D) Satan of Jinn and Men
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ
-وَالْجِنِّ
-  </p>
-</blockquote>
+> وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ
+> وَالْجِنِّ
 
 ***“And thus did we make for every prophet an enemy, the Shaitans from
 among men and jinn.” (Holy Qur’an: 6: 112)***
 
-<blockquote dir="rtl">
-  <p>
-كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنسَانِ اُكفُر
-  </p>
-</blockquote>
+> كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنسَانِ اُكفُر
 
 ***“Like the Shaitan when he says to man: Disbelieve.” (Holy Qur’an: 59:
 16)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ارْتَدُّوا عَلَىٰ أَدْبَارِهِم مِّن بَعْدِ مَا
-تَبَيَّنَ لَهُمُ الْهُدَى ۙ الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَىٰ
-لَهُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ارْتَدُّوا عَلَىٰ أَدْبَارِهِم مِّن بَعْدِ مَا
+> تَبَيَّنَ لَهُمُ الْهُدَى ۙ الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَىٰ
+> لَهُمْ
 
 ***“Surely (as for) those who return on their backs after that guidance
 has become manifest to them, the Shaitan as made it a light matter to
 them, and he gives them respite.” (Holy Qur’an: 47: 25)***
 
-<blockquote dir="rtl">
-  <p>
-وَيُرِيدُ الشَّيْطَانُ أَن يُضِلَّهُمْ ضَلَالًا بَعِيدًا
-  </p>
-</blockquote>
+> وَيُرِيدُ الشَّيْطَانُ أَن يُضِلَّهُمْ ضَلَالًا بَعِيدًا
 
 ***“And the Shaitan desires to lead them astray into a remote error.”
 (Holy Qur’an: {4: 60}; Similarly {6: 43, 121}, {7: 27}, {22: 3}, {27:
@@ -3198,33 +2712,21 @@ With regard to our topic of discussion, many traditions have been
 narrated which for the sake of brevity we shall refer to only some of
 them.
 
-<blockquote dir="rtl">
-  <p>
-((قال ابوعبدالله (عليه السلام) أصول الكفر ثلاثة: الحرص و الاستكبار و
-الحسد))
-  </p>
-</blockquote>
+> ((قال ابوعبدالله (عليه السلام) أصول الكفر ثلاثة: الحرص و الاستكبار و
+> الحسد))
 
 **(Usul al-Kafi; vol. 2; pg. 289; Tradition no. 1)**
 
-<blockquote dir="rtl">
-  <p>
-((قال النبي (صلَّى الله عليه و آله): اركان الكفر اربعة: الرَغْبَة و
-الرَهْبة و السَخط و الغضب))
-  </p>
-</blockquote>
+> ((قال النبي (صلَّى الله عليه و آله): اركان الكفر اربعة: الرَغْبَة و
+> الرَهْبة و السَخط و الغضب))
 
 **(Usul al-Kafi; tradition no. 2; vol. 2; pg. 289)**
 
 The Holy Prophet (S) said: “The pillars of disbelief are four: Greed in
 worldly things, fear from its decadence, discontent and anger.”
 
-<blockquote dir="rtl">
-  <p>
-((عن أمير المؤمنين (عليه السلام) قال: بُنِيَ الكفر على أربع دعائم:
-الفسق و الغلُو و الشك و الشبهة))
-  </p>
-</blockquote>
+> ((عن أمير المؤمنين (عليه السلام) قال: بُنِيَ الكفر على أربع دعائم:
+> الفسق و الغلُو و الشك و الشبهة))
 
 **(*****Bihar al-Anwar*****; vol. 72; pg. 116; Tradition no. 15;
 Similarly** ***Bihar al-Anwar*****; vol. 72; chapter: 99 from pg. 104 to
@@ -3254,12 +2756,8 @@ definition). However the spiritual condition of a person is not
 ineffective in the kind of manifestation of innate *Ma’rifat* and being
 reminded of it. Perhaps some of the expressions of Qur’an like.
 
-<blockquote dir="rtl">
-  <p>
-((إن الله لا يهدي القوم الظالمين))، ((إن الله لا يهدي القوم
-الفاسقين))، ((ثم قست قلوبكم من بعد فهي كالحجارة أو أشد قسوة))
-  </p>
-</blockquote>
+> ((إن الله لا يهدي القوم الظالمين))، ((إن الله لا يهدي القوم
+> الفاسقين))، ((ثم قست قلوبكم من بعد فهي كالحجارة أو أشد قسوة))
 
 Could also be other than ‘special guidance’ encompassing and controlling
 the ‘general guidance’ and the type of perception of the first stage of
@@ -3337,12 +2835,8 @@ is imparted by God.
 
 In the tradition it has come that:
 
-<blockquote dir="rtl">
-  <p>
-((قلت لأبي عبدالله (عليه السلام) " أُولَـٰئِكَ كَتَبَ فِي قُلُوبِهِمُ
-الْإِيمَانَ"، هل لهم فيما كتب في قلوبهم صُنْع؟ قال: لا))
-  </p>
-</blockquote>
+> ((قلت لأبي عبدالله (عليه السلام) " أُولَـٰئِكَ كَتَبَ فِي قُلُوبِهِمُ
+> الْإِيمَانَ"، هل لهم فيما كتب في قلوبهم صُنْع؟ قال: لا))
 
  **(Usul al-Kafi; vol. 2; pg. 15)**
 
@@ -3353,17 +2847,13 @@ down of faith to which Imam (‘a) replied ‘No’.
 The spirit of faith is the substantiation and support of God towards His
 faithful slaves.
 
-<blockquote dir="rtl">
-  <p>
-لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ
-يُوَادُّونَ مَنْ حَادَّ اللَّـهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ
-أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُولَـٰئِكَ
-كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ
-وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ
-فِيهَا رَضِيَ اللَّـهُ عَنْهُمْ وَرَضُوا عَنْهُ أُولَـٰئِكَ حِزْبُ
-اللَّـهِ أَلَا إِنَّ حِزْبَ اللَّـهِ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ
+> يُوَادُّونَ مَنْ حَادَّ اللَّـهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ
+> أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُولَـٰئِكَ
+> كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ
+> وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ
+> فِيهَا رَضِيَ اللَّـهُ عَنْهُمْ وَرَضُوا عَنْهُ أُولَـٰئِكَ حِزْبُ
+> اللَّـهِ أَلَا إِنَّ حِزْبَ اللَّـهِ هُمُ الْمُفْلِحُونَ
 
 ***You will not find a people who believe in Allah and the Last Day
 having affection for those who oppose Allah and His Messenger, even if
@@ -3382,13 +2872,9 @@ tradition 5; pg. 194-200** **and vol. 68; pg. 274)**
 The spirit of faith is repose and a pacification, which is revealed from
 God upon the heart of a believer.
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ
-لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ وَلِلَّـهِ جُنُودُ
-السَّمَاوَاتِ وَالْأَرْضِ وَكَانَ اللَّـهُ عَلِيمًا حَكِيمًا
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ
+> لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ وَلِلَّـهِ جُنُودُ
+> السَّمَاوَاتِ وَالْأَرْضِ وَكَانَ اللَّـهُ عَلِيمًا حَكِيمًا
 
 ***It is He who sent down tranquility into the hearts of the believers
 that they would increase in faith along with their [present] faith. And
@@ -3400,14 +2886,10 @@ Allah Knowing and Wise. (Holy Qur’an: 48: 4)***
 The spirit of faith is the same divine piety, which is attached and
 accompanied with the believers.
 
-<blockquote dir="rtl">
-  <p>
-إِذْ جَعَلَ الَّذِينَ كَفَرُوا فِي قُلُوبِهِمُ الْحَمِيَّةَ حَمِيَّةَ
-الْجَاهِلِيَّةِ فَأَنزَلَ اللَّـهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ
-وَعَلَى الْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ وَكَانُوا
-أَحَقَّ بِهَا وَأَهْلَهَا وَكَانَ اللَّـهُ بِكُلِّ شَيْءٍ عَلِيمًا
-  </p>
-</blockquote>
+> إِذْ جَعَلَ الَّذِينَ كَفَرُوا فِي قُلُوبِهِمُ الْحَمِيَّةَ حَمِيَّةَ
+> الْجَاهِلِيَّةِ فَأَنزَلَ اللَّـهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ
+> وَعَلَى الْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ وَكَانُوا
+> أَحَقَّ بِهَا وَأَهْلَهَا وَكَانَ اللَّـهُ بِكُلِّ شَيْءٍ عَلِيمًا
 
 ***When those who disbelieved had put into their hearts chauvinism - the
 chauvinism of the time of ignorance. But Allah sent down His
@@ -3422,11 +2904,7 @@ At times when believer returns back and revolts against the basis and
 foundation of faith (submission), the spirit will be taken away from
 him.
 
-<blockquote dir="rtl">
-  <p>
-إذا زنى الرجل أخرج الله منه روح الايمان
-  </p>
-</blockquote>
+> إذا زنى الرجل أخرج الله منه روح الايمان
 
 **(*****Bihar al-Anwar*****; vol. 69; pg. 178; Similarly, pg. 19;
 tradition 4, 5 and pg. 198; tradition 16)**
@@ -3553,12 +3031,8 @@ basis of free-will and created freedom. After submission too, this
 freedom keeps its power and a person can either turn around from
 submission or strengthen it and ascend to a higher level of faith.
 
-<blockquote dir="rtl">
-  <p>
-((... ثم قال ابي الحسن (عليه السلام): نحن نؤيد الروح بالطاعة و العمل
-له))
-  </p>
-</blockquote>
+> ((... ثم قال ابي الحسن (عليه السلام): نحن نؤيد الروح بالطاعة و العمل
+> له))
 
 “We confirm the spirit of faith by obedience of God”.[^104]
 
@@ -3575,9 +3049,9 @@ results were discussed and in each of the cases adequate reasoning were
 presented. Over here we shall refer only to some of the basic
 fundamentals of these two schools of thought.”
 
-<span id="fundamentals-greek-philosophical-theology">[(A) Fundamentals
+[(A) Fundamentals
 of Greek Philosophical
-Theology](#fundamentals-greek-philosophical-theology)</span>  
+Theology](#fundamentals-greek-philosophical-theology)  
  (1) The notion of God and His affirmation takes shape in the mould of
 one philosophical arrangement and system. As a rule, this kind of
 theology is brought into existence when philosophical reflections about
@@ -3632,8 +3106,8 @@ capable of explanation and clarification.
 and there does not exist a relation between mental confirmation and
 conduct.
 
-<span id="b-fundamentals-divine-theology">[(B) Fundamentals of Divine
-Theology](#b-fundamentals-divine-theology)</span>  
+[(B) Fundamentals of Divine
+Theology](#b-fundamentals-divine-theology)  
  (1) Recognition of God is ascertained without any kind of philosophical
 arrangement and system.
 
@@ -4064,5 +3538,4 @@ Ahzaab: 22, Baqarah: 261, Ale-Imran: 173, Waqe’ah: 8-l0, Muddaair: 31,
 and Bihar al-Anwar; vol. 69; chapter 32 - “Levels of Faith and realities
 pg. 154 and chapter 33 - “Tranquility and spirit of Faith and its
 excesses and deficiencies pg. 175.
-
 

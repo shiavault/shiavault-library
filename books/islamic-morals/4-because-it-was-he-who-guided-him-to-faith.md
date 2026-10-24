@@ -97,7 +97,6 @@ came to them whence they did not expect, and cast terror into their
 hearts; they demolished their houses with their own hands and the hands
 of the believers; therefore take a lesson, O you who have eyes!
 
-
 **The Otherworldly Harm of Egotism**
 
 Egotism makes deeds meaningless. The Holy Quran says: Say: Shall we
@@ -120,7 +119,6 @@ and dumping in Hell. So whoever adopts egotism has cultivated and sown
 the see of blasphemy and its cultivation will be discord and know that
 they are bound to get this fruit.
 
-
 **Sign of Ujb**
 
 Obviously the sign of egotism is that one considers oneself better than
@@ -128,7 +126,6 @@ others and in the Words of the Holy Quran: Nay! Man is evidence against
 himself, though he puts forth his excuses. And likewise Imam Sadiq
 (a.s.) said: The one who does not recognise the personality of others is
 the one who is an egotist.
-
 
 **Lesson: 7 : Remedy for Egotism**
 
@@ -328,7 +325,6 @@ because a high land never obtains water. At the end of this discussion
 we beg from God so that HE may guide us whereby we may turn ourselves
 into good men.
 
-
 **Lesson: 8 : Pride and Its Kinds**
 
 Pride is man's attitude of considering himself better than others and
@@ -419,7 +415,6 @@ there are many narrations in this regard we suffice with there few and
 hope that Almighty God will all of us away from this and from all other
 evil attribute. Now that we have known the impermissibility of pride we
 restart with some other discussion about Takabbur.
-
 
 **Lesson: 9 : Pride (continued)**
 
@@ -618,7 +613,6 @@ rajulin…."
 "No man exhibits pride and arrogance except because of the weakness
 which hi sees in himself". (Ibid).
 
-
 **Lesson: 10 : Love of Status and Fame**
 
 Doubtlessly love for status and fame is one of the attributes, which
@@ -640,7 +634,6 @@ status.
 2 - What has been condemned is the love for governance. So in the
 matter of property and wealth, it is the worldly material love and not
 the said things in themselves.
-
 
 **Condemnation of the over ambitious in the Quran**
 
@@ -715,7 +708,6 @@ Said the Holy Prophet (s.a.w.s.): We must, in every situation, seek
 Gods refuge to be safe from the desire of the self and from the evil of
 satanic suggestions.
 
-
 **Lesson: 11 : Love for the world**
 
 What we find in Quranic verses and from the narrations about ambitions
@@ -786,5 +778,4 @@ death is coming toward him he will abhor ambitions and will give up
 admiring the world.
 
 These are some examples from many narrations condemning the world.
-
 

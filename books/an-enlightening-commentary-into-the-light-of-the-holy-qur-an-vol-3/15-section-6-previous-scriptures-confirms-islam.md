@@ -4,15 +4,11 @@ Section 6: Previous Scriptures confirms Islam
 Surah 'Ali-Imran, Verse 81
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ اللّهُ مِيثَاقَ النَّبِيِّيْنَ لَمَا آتَيْتُكُم مِّن
-كِتَابٍ وَحِكْمَةٍ ثُمَّ جَاءكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ
-لَتُؤْمِنُنَّ بِهِ وَلَتَنصُرُنَّهُ قَالَ أَأَقْرَرْتُمْ وَأَخَذْتُمْ
-عَلَى ذَلِكُمْ إِصْرِي قَالُواْ أَقْرَرْنَا قَالَ فَاشْهَدُواْ
-وَأَنَاْ مَعَكُم مِّنَ الشَّاهِدِينَ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ اللّهُ مِيثَاقَ النَّبِيِّيْنَ لَمَا آتَيْتُكُم مِّن
+> كِتَابٍ وَحِكْمَةٍ ثُمَّ جَاءكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ
+> لَتُؤْمِنُنَّ بِهِ وَلَتَنصُرُنَّهُ قَالَ أَأَقْرَرْتُمْ وَأَخَذْتُمْ
+> عَلَى ذَلِكُمْ إِصْرِي قَالُواْ أَقْرَرْنَا قَالَ فَاشْهَدُواْ
+> وَأَنَاْ مَعَكُم مِّنَ الشَّاهِدِينَ
 
 **81.** ***"And (remember) when Allah took the pledge of the prophets
 (saying): 'Since I have given you of Book and wisdom -then there comes
@@ -46,11 +42,7 @@ among the witnesses '."***
 Surah 'Ali-Imran, Verse 82
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَن تَوَلَّى بَعْدَ ذَلِكَ فَأُوْلَـئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> فَمَن تَوَلَّى بَعْدَ ذَلِكَ فَأُوْلَـئِكَ هُمُ الْفَاسِقُونَ
 
 **82.** ***"Then whoever turns back after that, -these are they that are
 the transgressors"***
@@ -76,12 +68,8 @@ the divine punishment of the Fire of Hell.
 Surah 'Ali-Imran, Verse 83
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَغَيْرَ دِينِ اللّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي
-السَّمَاوَاتِ وَالأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَغَيْرَ دِينِ اللّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي
+> السَّمَاوَاتِ وَالأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
 
 **83.** ***"Is it then other than the religion of Allah that they seek
 (to follow)? And to Him submits whoever is in the heavens and the earth,
@@ -119,14 +107,10 @@ Him from the beginning?
 Surah 'Ali-Imran, Verse 84
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ آمَنَّا بِاللّهِ وَمَا أُنزِلَ عَلَيْنَا وَمَا أُنزِلَ عَلَى
-إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأَسْبَاطِ
-وَمَا أُوتِيَ مُوسَى وَعِيسَى وَالنَّبِيُّونَ مِن رَّبِّهِمْ لاَ
-نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ آمَنَّا بِاللّهِ وَمَا أُنزِلَ عَلَيْنَا وَمَا أُنزِلَ عَلَى
+> إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأَسْبَاطِ
+> وَمَا أُوتِيَ مُوسَى وَعِيسَى وَالنَّبِيُّونَ مِن رَّبِّهِمْ لاَ
+> نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ
 
 **84.** ***" Say: ' We believe in Allah and in what has been sent down
 to us, and what was sent down to Abraham and, Ishmael, Isaac, Jacob and
@@ -169,12 +153,8 @@ barrier for our general belief in them.
 Surah 'Ali-Imran, Verse 85
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَبْتَغِ غَيْرَ الإِسْلاَمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ
-فِي الآخِرَةِ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَمَن يَبْتَغِ غَيْرَ الإِسْلاَمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ
+> فِي الآخِرَةِ مِنَ الْخَاسِرِينَ
 
 **85.** ***"And whoever follows any religion other than Islam, it will
 never be accepted from him, and, in the Hereafter he will be among the
@@ -203,13 +183,9 @@ losers."***
 Surah 'Ali-Imran, Verse 86
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ يَهْدِي اللّهُ قَوْمًا كَفَرُواْ بَعْدَ إِيمَانِهِمْ
-وَشَهِدُواْ أَنَّ الرَّسُولَ حَقٌّ وَجَاءهُمُ الْبَيِّنَاتُ وَاللّهُ
-لاَ يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> كَيْفَ يَهْدِي اللّهُ قَوْمًا كَفَرُواْ بَعْدَ إِيمَانِهِمْ
+> وَشَهِدُواْ أَنَّ الرَّسُولَ حَقٌّ وَجَاءهُمُ الْبَيِّنَاتُ وَاللّهُ
+> لاَ يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 **86.** ***"How shall Allah guide a people who have disbelieved after
 their belief and (after) bearing witness that the Messenger is true, and
@@ -252,12 +228,8 @@ aspects of guidance in his self.
 Surah 'Ali-Imran, Verse 87
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ اللّهِ
-وَالْمَلآئِكَةِ وَالنَّاسِ أَجْمَعِينَ
-  </p>
-</blockquote>
+> أُوْلَـئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ اللّهِ
+> وَالْمَلآئِكَةِ وَالنَّاسِ أَجْمَعِينَ
 
 **87*****. "(As for) those, their recompense is that upon them is the
 curse of Allah, the angels and mankind altogether."***
@@ -282,12 +254,8 @@ beings and angels.
 Surah 'Ali-Imran, Verse 88
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فِيهَا لاَ يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلاَ هُمْ
-يُنظَرُونَ
-  </p>
-</blockquote>
+> خَالِدِينَ فِيهَا لاَ يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلاَ هُمْ
+> يُنظَرُونَ
 
 **88.** ***"They will abide therein. Their chastisement will not be
 lightened, nor will they be respited."***
@@ -306,12 +274,8 @@ nor will they be respited."***
 Surah 'Ali-Imran, Verse 89
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ الَّذِينَ تَابُواْ مِن بَعْدِ ذَلِكَ وَأَصْلَحُواْ فَإِنَّ الله
-غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> إِلاَّ الَّذِينَ تَابُواْ مِن بَعْدِ ذَلِكَ وَأَصْلَحُواْ فَإِنَّ الله
+> غَفُورٌ رَّحِيمٌ
 
 **89.** *"**Except those who repent after that and amend, then verily
 Allah is Forgiving, Merciful."***
@@ -330,12 +294,8 @@ manner that this defect be wiped out.
 Surah 'Ali-Imran, Verse 90
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُواْ بَعْدَ إِيمَانِهِمْ ثُمَّ ازْدَادُواْ
-كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُوْلَـئِكَ هُمُ الضَّآلُّونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُواْ بَعْدَ إِيمَانِهِمْ ثُمَّ ازْدَادُواْ
+> كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُوْلَـئِكَ هُمُ الضَّآلُّونَ
 
 **90.** ***"Verily those who disbelieve after their belief, then
 increase in infidelity; their repentance will never be accepted; and
@@ -369,13 +329,9 @@ can not be accepted.
 Surah 'Ali-Imran, Verse 91
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ
-مِنْ أَحَدِهِم مِّلْءُ الأرْضِ ذَهَبًا وَلَوِ افْتَدَى بِهِ
-أُوْلَـئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّاصِرِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ
+> مِنْ أَحَدِهِم مِّلْءُ الأرْضِ ذَهَبًا وَلَوِ افْتَدَى بِهِ
+> أُوْلَـئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّاصِرِينَ
 
 **91.** ***"Verily those who disbelieve and die while they are
 disbelievers, there will never be accepted from anyone of them the whole
@@ -409,5 +365,4 @@ principal, intercession is done by the leave of *Allah.*
 
 [^1]: The verse continues saying: "…and Allah does not guide the
 transgressing people."
-
 

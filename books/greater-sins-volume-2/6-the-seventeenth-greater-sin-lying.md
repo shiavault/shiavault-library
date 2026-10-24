@@ -1394,4 +1394,3 @@ or its taste has changed
 
 [^39]: al-Kāfi
 
-

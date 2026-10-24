@@ -1349,4 +1349,3 @@ and Mukhtasar Tarikh of Ibn Asakir, vol. 4 p.70.
 [^53]: Ibid., p.190 quoting Manaqib of ibn Shahr Ashub, vol. 2 p. 107,
 Hayatul Haiwan vol. 1 p. 55.
 
-

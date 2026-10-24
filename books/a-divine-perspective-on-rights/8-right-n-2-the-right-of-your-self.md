@@ -1,21 +1,13 @@
 Right n. 2: The Right of Your Self
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-حق النفس
-  </p>
-</blockquote>
+> حق النفس
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ نَفْسِكَ عَلَيْكَ فَأَنْ تَسْتَوْفِيَهَا فِي طَاعَةِ
-اللهِ فَتُؤَدّي إلَى لِسَانِكَ حَقَّهُ وَإلَى سَمْعِك حَقَّهُ وَإلَى
-بَصَرِكَ حَقّهُ وَإلَى يَدِكَ حَقَّهَا وَإلَى رِجْلِك حَقَّهَا وَإلَى
-بَطْنِكَ حَقَّهُ وَإلَى فَرْجِكَ حَقَّهُ وَتَسْتَعِينَ باللهِ عَلَى
-ذَلِك.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ نَفْسِكَ عَلَيْكَ فَأَنْ تَسْتَوْفِيَهَا فِي طَاعَةِ
+> اللهِ فَتُؤَدّي إلَى لِسَانِكَ حَقَّهُ وَإلَى سَمْعِك حَقَّهُ وَإلَى
+> بَصَرِكَ حَقّهُ وَإلَى يَدِكَ حَقَّهَا وَإلَى رِجْلِك حَقَّهَا وَإلَى
+> بَطْنِكَ حَقَّهُ وَإلَى فَرْجِكَ حَقَّهُ وَتَسْتَعِينَ باللهِ عَلَى
+> ذَلِك.
 
 **And the right of yourself incumbent upon you is that you employ it in
 obeying God; then you deliver to your tongue its right, to your hearing
@@ -32,13 +24,9 @@ The Meaning of One’s Self
 
 Some researchers consider the self to imply our souls. We read:
 
-<blockquote dir="rtl">
-  <p>
-أَخْرِجُواْ أَنفُسَكُمُ الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا
-كُنتُمْ تَقُولُونَ عَلَى اللّهِ غَيْرَ الْحَقِّ وَكُنتُمْ عَنْ
-آيَاتِهِ تَسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> أَخْرِجُواْ أَنفُسَكُمُ الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا
+> كُنتُمْ تَقُولُونَ عَلَى اللّهِ غَيْرَ الْحَقِّ وَكُنتُمْ عَنْ
+> آيَاتِهِ تَسْتَكْبِرُونَ
 
 ***“…Yield up your souls: this day shall ye receive your reward, - a
 penalty of shame, for that ye used to tell lies against God, and
@@ -46,12 +34,8 @@ scornfully to reject of His signs!"” [The Holy Qur’an, al-An’am 6:93]***
 
 Others consider it to mean our inner thoughts, or our hearts as in:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُواْ أَنَّ اللّهَ يَعْلَمُ مَا فِي أَنفُسِكُمْ فَاحْذَرُوهُ
-وَاعْلَمُواْ أَنَّ اللّهَ غَفُورٌ حَلِيمٌ
-  </p>
-</blockquote>
+> وَاعْلَمُواْ أَنَّ اللّهَ يَعْلَمُ مَا فِي أَنفُسِكُمْ فَاحْذَرُوهُ
+> وَاعْلَمُواْ أَنَّ اللّهَ غَفُورٌ حَلِيمٌ
 
 ***“…And know that God Knoweth what is in your hearts, and take heed of
 Him; and know that God is Oft-forgiving, Most Forbearing.” [The Holy
@@ -59,12 +43,8 @@ Qur’an, al-Baqarah 2:235]***
 
 We can also see this meaning in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-تَعْلَمُ ما في نَفْسي وَ لا أعْلَمُ ما في نَفْسِكَ إنَّكَ أنْتَ
-عَلّامُ الْغُيُوبِ.
-  </p>
-</blockquote>
+> تَعْلَمُ ما في نَفْسي وَ لا أعْلَمُ ما في نَفْسِكَ إنَّكَ أنْتَ
+> عَلّامُ الْغُيُوبِ.
 
 ***“…Thou knowest what is in my heart, though I know not what is in
 Thine, for Thou knowest in full all that is hidden.” [The Holy Qur’an,
@@ -73,11 +53,7 @@ al-Maida 5:116]***
 In other places self is used in its natural context as in the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ وَإِلَى اللّهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ وَإِلَى اللّهِ الْمَصِيرُ
 
 ***“…But God cautions you (to remember) Himself; for the final goal is
 to God.” [The Holy Qur’an, Al-i-Imran 3:28]***
@@ -89,12 +65,8 @@ for the self: the spirit, one’s nature, and sometimes used to show that
 we are placing a stress on something. An example of the use of self to
 imply spirit is found in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يُخَادِعُونَ اللّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلاَّ
-أَنفُسَهُم وَمَا يَشْعُرُونَ
-  </p>
-</blockquote>
+> يُخَادِعُونَ اللّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلاَّ
+> أَنفُسَهُم وَمَا يَشْعُرُونَ
 
 ***“Fain would they deceive God and those who believe, but they only
 deceive themselves, and realize (it) not!” [The Holy Qur’an al-Baqarah
@@ -106,14 +78,10 @@ Self as Viewed by the Qur’an
 As Sheikh Tabarsi said the Arabic word ‘*nafs’* meaning ‘self’ is used
 to mean the spirit or the soul as we can read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
-فِي مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
-الْأُخْرَى إِلَى أَجَلٍ مُسَمًّى إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ
-يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
+> فِي مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
+> الْأُخْرَى إِلَى أَجَلٍ مُسَمًّى إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ
+> يَتَفَكَّرُونَ
 
 ***“It is God that takes the souls (of men) at death; and those that die
 not (He takes) during their sleep: those on whom He has passed the
@@ -124,13 +92,9 @@ for those who reflect.” [The Holy Qur’an, al-Zumar 39:42]***
 Another example where self is used to mean the soul is found in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ
-يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ هُمْ
-يُنصَرُونَ
-  </p>
-</blockquote>
+> وَاتَّقُواْ يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ
+> يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ هُمْ
+> يُنصَرُونَ
 
 ***“Then guard yourselves against a day when one soul shall not avail
 another nor shall intercession be accepted for her, nor shall
@@ -140,25 +104,17 @@ outside).” [The Holy Qur’an, al-Baqarah 2:48]***
 In another place, it is used to imply our soul or heart as in the
 following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
-مِنَ الْقَوْلِ بِالْغُدُوِّ وَالآصَالِ وَلاَ تَكُن مِّنَ الْغَافِلِينَ
-  </p>
-</blockquote>
+> وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
+> مِنَ الْقَوْلِ بِالْغُدُوِّ وَالآصَالِ وَلاَ تَكُن مِّنَ الْغَافِلِينَ
 
 ***“And do thou (O reader!) Bring thy Lord to remembrance in thy (very)
 soul, with humility and in reverence, without loudness in words, in the
 mornings and evenings; and be not thou of those who are unheedful.” [The
 Holy Qur’an, al-A’raf 7:205]***
 
-<blockquote dir="rtl">
-  <p>
-قَالُواْ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُ مِن قَبْلُ فَأَسَرَّهَا
-يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ
-مَّكَانًا وَاللّهُ أَعْلَمْ بِمَا تَصِفُونَ
-  </p>
-</blockquote>
+> قَالُواْ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُ مِن قَبْلُ فَأَسَرَّهَا
+> يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ
+> مَّكَانًا وَاللّهُ أَعْلَمْ بِمَا تَصِفُونَ
 
 ***They said: "If he steals, there was a brother of his who did steal
 before (him)." But these things did Joseph keep locked in his heart,
@@ -166,12 +122,8 @@ revealing not the secrets to them. He (simply) said*** ***(to himself):
 "Ye are the worse situated; and God knoweth best the truth of what ye
 assert!" [The Holy Qur’an, Yusuf 12:77]***
 
-<blockquote dir="rtl">
-  <p>
-رَّبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ إِن تَكُونُواْ صَالِحِينَ
-فَإِنَّهُ كَانَ لِلأَوَّابِينَ غَفُورًا
-  </p>
-</blockquote>
+> رَّبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ إِن تَكُونُواْ صَالِحِينَ
+> فَإِنَّهُ كَانَ لِلأَوَّابِينَ غَفُورًا
 
 ***“Your Lord knoweth best what is in your hearts: If ye do deeds of
 righteousness, verily He is Most Forgiving to those who turn to Him
@@ -226,12 +178,8 @@ desires. This is man’s biggest enemy. The greatest religious men have
 always sought God’s help to fight themselves. We read the following in
 the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أُبَرِّئُ نَفْسِي إِنَّ النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ
-مَا رَحِمَ رَبِّيَ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَمَا أُبَرِّئُ نَفْسِي إِنَّ النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ
+> مَا رَحِمَ رَبِّيَ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
 
 ***"Nor do I absolve my own self (of blame): the (human) soul is
 certainly prone to evil, unless my Lord do bestow His Mercy: but surely
@@ -240,17 +188,9 @@ my Lord is Oft-forgiving, Most Merciful." [The Holy Qur’an, Yusuf
 
 In another verse of the Holy Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى
-  </p>
-</blockquote>
+> فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى
 
 ***“And for such as had entertained the fear of standing before their
 Lord's (tribunal) and had restrained (their) soul from lower desires,
@@ -260,15 +200,11 @@ their abode will be the Garden” [The Holy Qur’an, al-Nazi\`at
 What is meant in this verse is that man should restrain himself and
 fight his carnal desires. The Commander of the Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-النَّفْسُ مَجْبُولَةٌ بِسُوءِ الأَدَبِ وَالعَبْدُ مَأمُورٌ
-بِمُلازَمَةِ حُسْنِ الأدَبِ وَالنَّفْسُ تجْرِي بِطَبْعِها في مَيدانِ
-المُخَالَفَةِ وَالعَبْدُ يُجْهِدُها بِرَدِّها عَن سُوءِ المُطالَبَةِ،
-فَمَتى أطْلَقَ عِنَانهَا فَهوَ شَرِيكٌ في فَسادِها، وَمَنْ أعَانَ
-نَفْسَهُ في هَوى نَفْسِهِ فقَدْ أشْرَكَ نَفْسَهُ في قَتْلِ نَفْسِه.
-  </p>
-</blockquote>
+> النَّفْسُ مَجْبُولَةٌ بِسُوءِ الأَدَبِ وَالعَبْدُ مَأمُورٌ
+> بِمُلازَمَةِ حُسْنِ الأدَبِ وَالنَّفْسُ تجْرِي بِطَبْعِها في مَيدانِ
+> المُخَالَفَةِ وَالعَبْدُ يُجْهِدُها بِرَدِّها عَن سُوءِ المُطالَبَةِ،
+> فَمَتى أطْلَقَ عِنَانهَا فَهوَ شَرِيكٌ في فَسادِها، وَمَنْ أعَانَ
+> نَفْسَهُ في هَوى نَفْسِهِ فقَدْ أشْرَكَ نَفْسَهُ في قَتْلِ نَفْسِه.
 
 *“The soul is inclined towards evil deeds, and a servant has the
 responsibility of directing it towards good deeds. The soul tries to
@@ -280,13 +216,9 @@ killing himself.”*[^3]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-أَقْصِرْ نَفسَكَ عَمّا يضُرُّها مِن قبلِ أنْ تُفارِقَكَ وَاسْعَ في
-فَكاكِها كَما تَسْعى في طَلبِ مَعيشَتِكَ فإنَّ نَفْسَكَ رِهينٌ
-بِعَمَلكَ.
-  </p>
-</blockquote>
+> أَقْصِرْ نَفسَكَ عَمّا يضُرُّها مِن قبلِ أنْ تُفارِقَكَ وَاسْعَ في
+> فَكاكِها كَما تَسْعى في طَلبِ مَعيشَتِكَ فإنَّ نَفْسَكَ رِهينٌ
+> بِعَمَلكَ.
 
 *“Hinder your soul from bringing you harm and prevent losses before you
 depart from it. Try to free it from its illegitimate desires as hard as
@@ -296,34 +228,22 @@ you try to earn a living, since the soul is subject to your deeds.”*[^4]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ الجِهادِ مجَاهَدَةُ المَرْءِ نَفْسَهُ.
-  </p>
-</blockquote>
+> أَفْضَلُ الجِهادِ مجَاهَدَةُ المَرْءِ نَفْسَهُ.
 
 *“The most excellent holy war is one’s fighting against his own selfish
 desires.”*[^5]
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الشَّديدَ لَيسَ مَنْ غَلَبَ النّاسَ، وَلكنَّ الشَّديدَ مَن غَلبَ
-عَلى نَفْسِه.
-  </p>
-</blockquote>
+> إنَّ الشَّديدَ لَيسَ مَنْ غَلَبَ النّاسَ، وَلكنَّ الشَّديدَ مَن غَلبَ
+> عَلى نَفْسِه.
 
 *“A strong man is not one who overcomes the people. Rather a strong man
 is one who can overcome his self.”*[^6]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-خالِف نَفْسَكَ تَسْتَقِمْ وَخالِطِ العُلَماءَ تَعْلَمْ.
-  </p>
-</blockquote>
+> خالِف نَفْسَكَ تَسْتَقِمْ وَخالِطِ العُلَماءَ تَعْلَمْ.
 
 *“Fight yourself to avoid any deviations and live an upright life.
 Associate with the people who possess knowledge so that you can learn
@@ -331,11 +251,7 @@ and get freed from ignorance.”*[^7]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَوِيَ عَلى نَفْسِهِ تَناهَى في القُوَّةِ.
-  </p>
-</blockquote>
+> مَنْ قَوِيَ عَلى نَفْسِهِ تَناهَى في القُوَّةِ.
 
 *“Whoever overcomes himself has attained the highest ranks of
 power.”*[^8]
@@ -347,13 +263,9 @@ was lifting a heavy rock. The people were amazed at his strength and
 admired him. When they told the Prophet about him, and his might, the
 Prophet asked:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلا أُخْبِرُكُمْ بِمَا هُوَ أَشَدُّ مِنهُ؟ رَجُلٌ سَبَّهُ رَجُلٌ
-فَحَلِمَ عَنهُ فَغَلَبَ نَفْسَهُ وَغَلَبَ شَيطَانَهُ وَشَيْطانَ
-صَاحِبهِ.
-  </p>
-</blockquote>
+> أَفَلا أُخْبِرُكُمْ بِمَا هُوَ أَشَدُّ مِنهُ؟ رَجُلٌ سَبَّهُ رَجُلٌ
+> فَحَلِمَ عَنهُ فَغَلَبَ نَفْسَهُ وَغَلَبَ شَيطَانَهُ وَشَيْطانَ
+> صَاحِبهِ.
 
 *“Do you want me to tell you about someone who is stronger than him?
 Whoever is insulted by others but restrains himself, controls his anger
@@ -369,17 +281,9 @@ The other aspect of our soul that constantly blames us for our bad deeds
 is called the reproachful self. The Holy Qur’an calls this aspect of our
 soul as witness in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
-  </p>
-</blockquote>
+> لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
-  </p>
-</blockquote>
+> وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
 
 ***“I do call to witness the Resurrection Day; and I do call to witness
 the self-reproaching spirit: (Eschew Evil).” [The Holy Qur’an,
@@ -436,13 +340,9 @@ When Jacob’s children took their brother Joseph away from their father
 and dropped him in a well and left him there, their self-adorned their
 deeds and fooled them:
 
-<blockquote dir="rtl">
-  <p>
-وَجَآؤُوا عَلَى قَمِيصِهِ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ
-أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَاللّهُ الْمُسْتَعَانُ عَلَى مَا
-تَصِفُونَ
-  </p>
-</blockquote>
+> وَجَآؤُوا عَلَى قَمِيصِهِ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ
+> أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَاللّهُ الْمُسْتَعَانُ عَلَى مَا
+> تَصِفُونَ
 
 ***“They stained his shirt with false blood. He said: "Nay, but your
 minds have made up a tale (that may pass) with you, (for me) patience is
@@ -468,13 +368,9 @@ occasion, they returned from Egypt and brought their father the news of
 their brother’s act of stealing. But their father did not believe them
 and said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى
-اللّهُ أَن يَأْتِيَنِي بِهِمْ جَمِيعًا إِنَّهُ هُوَ الْعَلِيمُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى
+> اللّهُ أَن يَأْتِيَنِي بِهِمْ جَمِيعًا إِنَّهُ هُوَ الْعَلِيمُ
+> الْحَكِيمُ
 
 ***Jacob said: "Nay, but ye have yourselves contrived a story (good
 enough) for you. So patience is most fitting (for me). Maybe God will
@@ -492,18 +388,10 @@ that situation, at first he blamed his brother Aaron. However, once he
 realized that Aaron was not at fault, and it was Samiri’s fault, he
 blamed Samiri.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ
-  </p>
-</blockquote>
+> قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِّنْ
-أَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَكَذَلِكَ سَوَّلَتْ لِي نَفْسِي
-  </p>
-</blockquote>
+> قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِّنْ
+> أَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَكَذَلِكَ سَوَّلَتْ لِي نَفْسِي
 
 ***“(Moses) said: "What then is thy case, O’ Samiri?" He replied: "I saw
 what they saw not: so I took a handful (of dust) from the footprint of
@@ -526,12 +414,8 @@ said. Imam Ali asked him what he was doing. He said: “I am recording
 your words to be saved for the future.” Then the Commander of the
 Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-أَما إنَّ لِكُلِّ قَومٍ سامِرِيّاً وَهَذا سَامِرِيُّ هذِهِ الأُمَّةِ،
-إنَّهُ لا يَقُولُ: لا مِساسَ، وَلكِنَّهُ يَقُولُ: لا قِتالَ
-  </p>
-</blockquote>
+> أَما إنَّ لِكُلِّ قَومٍ سامِرِيّاً وَهَذا سَامِرِيُّ هذِهِ الأُمَّةِ،
+> إنَّهُ لا يَقُولُ: لا مِساسَ، وَلكِنَّهُ يَقُولُ: لا قِتالَ
 
 *“O people! Beware that there is a Samiri for each nation. Know that
 Hasan Bassri is the Samiri for this nation. The only difference is that
@@ -546,23 +430,11 @@ the Battle of Jamal.
 Confidence is one of the highest ranks for the self. We read in the
 following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
 
-<blockquote dir="rtl">
-  <p>
-ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
-  </p>
-</blockquote>
+> ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
 
-<blockquote dir="rtl">
-  <p>
-فَادْخُلِي فِي عِبَادِي وَادْخُلِي جَنَّتِي
-  </p>
-</blockquote>
+> فَادْخُلِي فِي عِبَادِي وَادْخُلِي جَنَّتِي
 
 ***(To the righteous soul will be said:) "O (thou) soul, in (complete)
 rest and come back thou to thy Lord, - well pleased (thyself), and
@@ -594,24 +466,20 @@ grandson of the Prophet! May I be your ransom! Does a believer feel bad
 about his spirit being taken out of his body at the time of death? Imam
 Sadiq replied:
 
-<blockquote dir="rtl">
-  <p>
-لا وَاللهِ! إنَّهُ إذا جَاءَهُ مَلَكُ المَوتِ لِيَقْبِضَ رُوحَهُ جَزعَ
-عِندَ ذلِكَ، فَيَقولُ ملَكُ المَوتِ: «لا تجْزَعْ! فَوالَّذي بَعَثَ
-محَمَّداً لأنَا أَبَرُّ بِكَ وَأَشْفَقُ عَليكَ مِن والِدٍ رَحِيمٍ لَو
-حَضَرَكَ، إفتَحْ عَينَيْكَ فانْظُر.» (قال) ويُمَثَّلُ له رَسُولُ اللهِ
-صَلّى اللهُ عَلَيه وآلهِ وَأمِيرُ المُؤمِنينَ وفَاطِمَةُ والحَسَنُ
-والحُسَينُ والأئِمَّةُ مِن ذُرِّيَّتِهِمْ عليهِمُ السلامُ فَيُقالُ
-لهُ: «هذَا رَسُولُ اللهِ وأمِيرُ المُؤمِنِينَ وفَاطِمَةُ وَالحَسَنُ
-والحُسَينُ والأئِمَّةُ عليهِمُ السّلامُ رُفَقَاؤكَ.» (قال) فيَفْتَحُ
-عَينَيهِ فَيَنْظُرُ فَيُنادِي رُوحَهُ مُنادٍ مِن قِبَلِ رَبِّ
-العِزَّةِ فَيَقولُ: «يَا أَيَّتُها النَّفْسُ المُطْمَئِنَّةُ إلى
-محَمَّدٍ وأَهْلِ بَيْتِهِ ارْجِعِي إلى رَبِّكِ رَاضِيَةً بِالوِلايَةِ
-مَرْضِيَّةً بِالثَّوابِ فَادْخُلِي في عِبادِي؛ يَعني محَمَّداً وَأهْلَ
-بَيتِهِ، وَادخُلِي جَنَّتي.» فَما مِن شَيءٍ أحَبُّ إليَه مِنِ
-اسْتِلالِ رُوحِهِ واللُّحُوقِ بِالمُنادي.
-  </p>
-</blockquote>
+> لا وَاللهِ! إنَّهُ إذا جَاءَهُ مَلَكُ المَوتِ لِيَقْبِضَ رُوحَهُ جَزعَ
+> عِندَ ذلِكَ، فَيَقولُ ملَكُ المَوتِ: «لا تجْزَعْ! فَوالَّذي بَعَثَ
+> محَمَّداً لأنَا أَبَرُّ بِكَ وَأَشْفَقُ عَليكَ مِن والِدٍ رَحِيمٍ لَو
+> حَضَرَكَ، إفتَحْ عَينَيْكَ فانْظُر.» (قال) ويُمَثَّلُ له رَسُولُ اللهِ
+> صَلّى اللهُ عَلَيه وآلهِ وَأمِيرُ المُؤمِنينَ وفَاطِمَةُ والحَسَنُ
+> والحُسَينُ والأئِمَّةُ مِن ذُرِّيَّتِهِمْ عليهِمُ السلامُ فَيُقالُ
+> لهُ: «هذَا رَسُولُ اللهِ وأمِيرُ المُؤمِنِينَ وفَاطِمَةُ وَالحَسَنُ
+> والحُسَينُ والأئِمَّةُ عليهِمُ السّلامُ رُفَقَاؤكَ.» (قال) فيَفْتَحُ
+> عَينَيهِ فَيَنْظُرُ فَيُنادِي رُوحَهُ مُنادٍ مِن قِبَلِ رَبِّ
+> العِزَّةِ فَيَقولُ: «يَا أَيَّتُها النَّفْسُ المُطْمَئِنَّةُ إلى
+> محَمَّدٍ وأَهْلِ بَيْتِهِ ارْجِعِي إلى رَبِّكِ رَاضِيَةً بِالوِلايَةِ
+> مَرْضِيَّةً بِالثَّوابِ فَادْخُلِي في عِبادِي؛ يَعني محَمَّداً وَأهْلَ
+> بَيتِهِ، وَادخُلِي جَنَّتي.» فَما مِن شَيءٍ أحَبُّ إليَه مِنِ
+> اسْتِلالِ رُوحِهِ واللُّحُوقِ بِالمُنادي.
 
 *‘No. I swear by God! When the angel of death comes he becomes anxious
 and distressed. However, the angel tells him: “Do not be distressed! I
@@ -690,13 +558,9 @@ self. One of the highly valuable aspects of the human self is his life.
 Nothing can be equated with it. The Holy Qur’an says the following
 regarding the value of man’s life:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أجْلِ ذَلِكَ كَتَبْنا عَلى بَنِي إسْرَائيلَ أنَّهُ مَن قَتَلَ
-نَفساً بِغَيرِ نَفْسٍ أوْ فَسادٍ في الأرْضِ فَكَأنَّما قَتَلَ النَّاسَ
-جَمِيعاً وَ مَن أحْياها فَكَأنَّما أحْيا النَّاسَ جَمِيعاً
-  </p>
-</blockquote>
+> مِنْ أجْلِ ذَلِكَ كَتَبْنا عَلى بَنِي إسْرَائيلَ أنَّهُ مَن قَتَلَ
+> نَفساً بِغَيرِ نَفْسٍ أوْ فَسادٍ في الأرْضِ فَكَأنَّما قَتَلَ النَّاسَ
+> جَمِيعاً وَ مَن أحْياها فَكَأنَّما أحْيا النَّاسَ جَمِيعاً
 
 ***“On that account: We ordained for the Children of Israel that if
 anyone slew a person - unless it be for murder or for spreading mischief
@@ -707,13 +571,9 @@ saved a life, it would be as if he saved the life of the whole people….”
 The Holy Qur’an determines a very bad punishment for killing a believer.
 This is considered to be the worst crime:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُ جَهَنَّمُ خَالِدًا
-فِيهَا وَغَضِبَ اللّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا
-عَظِيمًا
-  </p>
-</blockquote>
+> وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُ جَهَنَّمُ خَالِدًا
+> فِيهَا وَغَضِبَ اللّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا
+> عَظِيمًا
 
 ***“If a man kills a believer intentionally, his recompense is Hell, to
 abide therein (for ever): And the wrath and the curse of God are upon
@@ -722,13 +582,9 @@ al-Nisaa 4:93]***
 
 The Holy Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْتُلُواْ النَّفْسَ الَّتِي حَرَّمَ اللّهُ إِلاَّ بِالحَقِّ
-وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلاَ
-يُسْرِف فِّي الْقَتْلِ إِنَّهُ كَانَ مَنْصُورًا
-  </p>
-</blockquote>
+> وَلاَ تَقْتُلُواْ النَّفْسَ الَّتِي حَرَّمَ اللّهُ إِلاَّ بِالحَقِّ
+> وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلاَ
+> يُسْرِف فِّي الْقَتْلِ إِنَّهُ كَانَ مَنْصُورًا
 
 ***“Nor take life - which God has made sacred - except for just cause.
 And if anyone is slain wrongfully, we have given his heir authority (to
@@ -739,12 +595,8 @@ bounds in the matter of taking life; for he is helped (by the Law).”
 The law of equality that is meant for punishing those who kill others is
 presented by the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَاْ أُولِيْ الأَلْبَابِ لَعَلَّكُمْ
-تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَاْ أُولِيْ الأَلْبَابِ لَعَلَّكُمْ
+> تَتَّقُونَ
 
 ***“In the Law of Equality there is (saving of) life to you, O ye men of
 understanding; that ye may restrain yourselves.” [The Holy Qur’an,
@@ -818,5 +670,4 @@ intentional killing.
 [^17]: Mithqal Shar’i is a unit of weight equal to 3.456 grams.
 
 [^18]: Ibid.
-
 

@@ -21,4 +21,3 @@ The Imam's letter read as follows:
 positions without protection. The idea is incorrect. You have become a
 bridge for your enemies to protect your friends.*
 
-

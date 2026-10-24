@@ -118,4 +118,3 @@ Prophet's (s) Hijra to Medina
 [^2]: See "Threatened to a destiny like that of Balaam of Boer", Chapter
 Two, Part 2.
 
-

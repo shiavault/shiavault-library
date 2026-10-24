@@ -32,18 +32,15 @@ abovementioned dialectic is that these accusations reflect a
 self-egoistic Eurocentric nature leading to contradiction followed by
 complementarity, but towards totally opposite directions.
 
-<p dir="rtl">
 "وقال الذين كفروا لرسلهم لنخرجنكم من ارضنا او لتعودن في ملتنا فاوحى
 اليهم ربهم لنهلكن الظالمين، وَلَنُسْكِنَنَّكُمُ الأَرْضَ مِن بَعْدِهِمْ
 ذَلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ "
-</p>
 
 "Those who disbelieved told their messengers: "We\\'ll run you out of
 our land unless you return to our sect!" Their Lord [however] inspired
 them [as follows]: "We shall wipe out wrongdoers and settle you on the
 land to succeed them." That is [in store] for anyone who fears My
 position and fears My threat." Qur'an 14:13-14
-
 
 **Conclusion**
 
@@ -119,7 +116,6 @@ human being could ever had in his/her life, but, still is a long journey
 to go and a lot of work to do before His appearance, but a bright future
 is awaiting us at the end of the "Journey".
 
-
 **Time is now for actions and courage!**
 
 Peace be upon al-Mahdi through whom Allah has promised to unite
@@ -184,5 +180,4 @@ the world today are able to show great examples of wisdom and teach
 those more sophisticated and developed communities the true value of
 humanity, that value that is tempered by the heart and is filtered
 through love.
-
 

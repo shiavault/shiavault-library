@@ -141,13 +141,9 @@ absolutely necessary. At yet another place it tells the men and women
 not to look at each other. In the chapter of *Ahzaab* the Quran
 addresses the Prophet (s) thus:
 
-<blockquote dir="rtl">
-  <p>
-يَأَيهَُّا النَّبىِ‏ُّ قُل لّأَِزْوَجِكَ وَ بَنَاتِكَ وَ نِسَاءِ
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيهِْنَّ مِن جَلَبِيبِهِنَّ ذَلِكَ أَدْنىَ
-أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَ كاَنَ اللَّهُ غَفُورًا رَّحِيمًا
-  </p>
-</blockquote>
+> يَأَيهَُّا النَّبىِ‏ُّ قُل لّأَِزْوَجِكَ وَ بَنَاتِكَ وَ نِسَاءِ
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيهِْنَّ مِن جَلَبِيبِهِنَّ ذَلِكَ أَدْنىَ
+> أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَ كاَنَ اللَّهُ غَفُورًا رَّحِيمًا
 
 ***O Prophet! Tell thy wives and thy daughters and the women of the
 believers that they let down upon them their cover garments; that they
@@ -163,11 +159,7 @@ love with someone. This will be the most shameful thing, and believe me,
 the following verse of the Holy Quran is most suitable for this man and
 woman:
 
-<blockquote dir="rtl">
-  <p>
-خَسِرَ الدُّنْيَا وَ الاَْخِرَةَ ذَلِكَ هُوَ الخُْسْرَانُ الْمُبِين
-  </p>
-</blockquote>
+> خَسِرَ الدُّنْيَا وَ الاَْخِرَةَ ذَلِكَ هُوَ الخُْسْرَانُ الْمُبِين
 
 ***He loseth both the world and the Hereafter. That is the sheer
 loss.*** ***(Sura al Hajj, 22: 11)***
@@ -316,5 +308,4 @@ retaliates by marrying a second wife, and sometimes a third. These
 suspicions and baseless thoughts are found in women, and also in some
 men. But if men are suspicious, they will have to bear a greater
 retribution.
-
 

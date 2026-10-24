@@ -69,4 +69,3 @@ by proxy, but in the case of performing this act proxy has the right of
 leasehold, but he/she should act to the duties above (all these are in
 the case of performing deliberately).
 
-

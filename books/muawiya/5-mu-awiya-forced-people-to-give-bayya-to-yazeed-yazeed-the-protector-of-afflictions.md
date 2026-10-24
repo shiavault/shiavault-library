@@ -39,7 +39,6 @@ In al-Isabah fi tamyiz al-Sahaba, Ibn Hajar al-Asqalani volume 3, page
 470 also mentions the pillage of Medina, and stoning of Ka'bah during
 Yazeed's reign.
 
-
 **Nasibi appraisal of 'pious' Yazeed**
 
 Abu Sulaiman states:
@@ -147,7 +146,6 @@ a drunkard" while Abu Sulaiman who claims he is Ahl'ul Sunnah wants us
 to believe in a tradition portraying him as a pious worshipper who never
 drank alcohol.
 
-
 **Imam Ahmad issued Takfeer against Yazeed**
 
 In Sharh Fiqh Akbar page 77 we read:
@@ -176,7 +174,6 @@ Kathir in al Bidaya Volume 7 page 223 notes that:
 "Ibn Jauzi wrote a book proving that it was permissible to curse
 Yazeed".
 
-
 **An appeal to our Sunni brethren**
 
 We have faithfully cited the comments of grand Sunni Ulema who have
@@ -204,5 +201,4 @@ Whatever his motives, we would urge our Sunni brethren to distance
 themselves from Nasibis like Abu Sulaiman who are seeking to
 indoctrinate Sunnis with the false thinking that Yazeed was a pious
 Muslim.
-
 

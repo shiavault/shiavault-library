@@ -65,4 +65,3 @@ them.
 [^1]: Yaqoobi, Tarikh al-Yaqoobi, vol.2 p.95; Al-Hurr Amili, Wasa'il
 al-Shi'ah, vol. 6, Book on Bidding to do good.
 
-

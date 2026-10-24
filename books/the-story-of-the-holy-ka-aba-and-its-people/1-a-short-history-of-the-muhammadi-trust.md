@@ -33,4 +33,3 @@ its secretary. The Work of the Trust began in earnest.
 
 **Muhammadi Trust, London, March 1997**
 
-

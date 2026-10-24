@@ -212,38 +212,38 @@ and highlighted them with brief explanations.
 
 **Notes:**
 
-[^3] Abu Musa- al-Madyani-, Khasa-’is al-Musnad (This treatise has been
+[^3]: Abu Musa- al-Madyani-, Khasa-’is al-Musnad (This treatise has been
 published at the beginning of Ibn Hanbal’s Musnad by Ahmad Muhammad
 Sha-kir), p. 21.
 
-[^4] Al-Jazari-, Muhammad bin Muhammad, al-Mus‘ad al-Ahmad fi- Khatm-i
+[^4]: Al-Jazari-, Muhammad bin Muhammad, al-Mus‘ad al-Ahmad fi- Khatm-i
 Musnad al-Imam Ahmad, p. 39. This treatise has also been included by
 Sha-kir in his introduction to the Musnad.
 
 [^5] Ibid, p. 28.
 
-[^6] Al-Suyuti-, Jala-l al-Di-n, Ja-mi‘ al-Aha-di-th, compiled and
+[^6]: Al-Suyuti-, Jala-l al-Di-n, Ja-mi‘ al-Aha-di-th, compiled and
 arranged by ‘Abba-s Ahmad Saqar and Ahmad ‘Abd al-Jawa-d, pulished in 21
 volumes by Da-r al-Fikr, Beirut, 1994.
 
-[^7] Hasan or fair, according to Sunni traditionists is the term used to
+[^7]: Hasan or fair, according to Sunni traditionists is the term used to
 classify a hadith which is traced to the Prophet or his companions or
 the second generation of Muslims, on the authority (sanad) of a person
 of short memory but considered reliable. This type of hadith is also
 free of sha-dh, which means a tradition of reliable isna-d but contrary
 to another similarly attested tradition.
 
-[^8] Ibn al-Jazari-, al-Mus‘ad al-Ahmad fi- khatm Musnad al-Imam Ahmad,
+[^8]: Ibn al-Jazari-, al-Mus‘ad al-Ahmad fi- khatm Musnad al-Imam Ahmad,
 pp. 53-55.
 
-[^9] Al-Mura-di-, Silk al-Durar, vol. 4, p. 160
+[^9]: Al-Mura-di-, Silk al-Durar, vol. 4, p. 160
 
-[^10] On Ibn Hanbal’s accusation of support for the Alawids refer to Abu
+[^10]: On Ibn Hanbal’s accusation of support for the Alawids refer to Abu
 al-Faraj ‘Abd al-Rahma-n bin ‘Ali- bin al-Jawzi-’s Mana-qib al-Imam
 Ahmad bin Hanbal with a foreword by ‘Adil Nuwayhiz, Da-r al-Afa-q
 al-Jadi-dah Publishers, Beirut, pp. 359-362, 1973.
 
-[^11] This work brought about the death of al-Nasa-’i-. It is said that
+[^11]: This work brought about the death of al-Nasa-’i-. It is said that
 when on a trip to Damascus he found the people of Syria ignorant of the
 lofty personality of Imam ‘Ali- (‘a), he decided to write a book on the
 merits of the Commander of the Faithful. When al-Nasa-’i- started
@@ -251,20 +251,20 @@ reading his work from the pulpit of the Mosque of Damascus, the enemies
 of the Prophet’s Household pulled him down and beat him so severely that
 he succumbed to his injuries in Palestine.
 
-[^12] Ahmad Ami-n, Zuha- al-Isla-m, 6th edition, vol, 2, pp. 122-123,
+[^12]: Ahmad Ami-n, Zuha- al-Isla-m, 6th edition, vol, 2, pp. 122-123,
 published by Maktabah al-Nihzat al-Misriyyah, 1961.
 
-[^13] Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 165.
+[^13]: Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 165.
 
 [^14] Ibid.
 
-[^15] Ibn Abi- al-Hadi-d, Sharh Nahj al-Bala-ghah, vol. 1, p. 17.
+[^15]: Ibn Abi- al-Hadi-d, Sharh Nahj al-Bala-ghah, vol. 1, p. 17.
 
-[^16] Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 163.
+[^16]: Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 163.
 
-[^17] Ibid.
+[^17]: Ibid.
 
-[^18] Abu al-Husayn Muhammad bin Abi- Ya‘la-, Tabaqat al-Hana-bilah,
+[^18]: Abu al-Husayn Muhammad bin Abi- Ya‘la-, Tabaqat al-Hana-bilah,
 vol. 1, p. 320, edited by Muhammad Ha-mid al-Faqi-, Cairo, 1952. It is
 interesting to note that Ibn Hanbal’s reply bears close resemblance to
 the answer given by Imam Ja‘far al-Sadiq (‘a) to Mufazzal bin ‘Umar
@@ -275,27 +275,27 @@ Beirut. It is essential to know that according to many narrations, Imam
 ‘Ali- (‘a) has stated: I am the distributor of heaven and hell”, Biha-r
 al-Anwa-r, vol. 39, p. 199.
 
-[^19] Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 164.
+[^19]: Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 164.
 
-[^20] Ba-ghi- is used to describe a person who on the basis of a wrong
+[^20]: Ba-ghi- is used to describe a person who on the basis of a wrong
 cause rebels against and fights the just leader. In the view of Imami
 scholars, such a ba-ghi- is a ka-fir. Refer to al-Miqda-d bin ‘Abdulla-h
 al-Suyuri-’s Kanz al-‘Irfa-n fi- fiqh al-Qur’a-n, edited by Muhammad
 Ba-qir Behbudi-, al-Maktabah al-Murtazawiyyah, vol. 1, p. 386, Tehran
 1384 AH.
 
-[^21] For more details refer to Shaykh Muhammad Abu Zuhrah’s book Ibn
+[^21]: For more details refer to Shaykh Muhammad Abu Zuhrah’s book Ibn
 Hanbal: Haya-tuhu wa ‘Asruhu, Ara-’uhu wa Fiqhuh, pp. 148-149.
 
-[^22] Muhammad Ba-qir al-Musawi- al-Khwansa-ri-, Rawza-t al-Janna-t,
+[^22]: Muhammad Ba-qir al-Musawi- al-Khwansa-ri-, Rawza-t al-Janna-t,
 vol. 1, p. 187, Maktabah Isma-‘i-liya-n, Tehran, 1390 AH.
 
-[^23] Al-Tusi-, Muhammad bin al-Hasan, al-Rija-l, p. 367, edited by
+[^23]: Al-Tusi-, Muhammad bin al-Hasan, al-Rija-l, p. 367, edited by
 Muhammad Sa-diq Al-i Bahr al-‘Ulum, 1st edition, Najaf, 1381/1961. Also
 refer to Sayyid Abu al-Qa-sim al-Khu’i-: Mu‘jam Rija-l al-Hadith, vol.
 2, p. 260, 3rd edition, Da-r al-Zahra-’, Beirut, 1403/1983.
 
-[^24] Asad Haydar, al-Imam al-Sa-diq wa al-Madha-hib al-Arba‘ah, vol. 2,
+[^24]: Asad Haydar, al-Imam al-Sa-diq wa al-Madha-hib al-Arba‘ah, vol. 2,
 pp. 503-506, 2nd edition, Da-r al-Kita-b al-‘Arabi-, Beirut, 1392/1971.
 The author has listed the names of Ibn Hanbal’s teachers, who according
 to him had Shi‘ite tendencies, but a review of Shi‘ite narrators in
@@ -303,7 +303,7 @@ Sayyid al-Khu’i-’s Mu‘jam Rija-l al-Hadith shows that no hadith has been
 related from Ahmad bin Hanbal in authoritative Shi‘ite books of
 hadith.
 
-[^25] Usta-di-, Riza-, Musnad al-Riza- (‘a) in 40 articles, p. 154, 1st
+[^25]: Usta-di-, Riza-, Musnad al-Riza- (‘a) in 40 articles, p. 154, 1st
 edition, published by Kita-b-Kha-neh Ayatulla-h Mar‘ashi- Najafi, Qum,
 1413/1371.
 

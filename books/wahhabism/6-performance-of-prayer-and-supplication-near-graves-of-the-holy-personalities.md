@@ -9,19 +9,11 @@ over their graves.
 The founder of this school of thought says in the treatise of *Ziyarat
 al-qubur* as such:
 
-<blockquote dir="rtl">
-  <p>
-لم يذكر أحد من أئمة السلف أن الصلاة عند القبور وي مشاهدها مستحبة ولا
-أن الصلاة والدعاء هُناك افضل بل
-  </p>
-</blockquote>
+> لم يذكر أحد من أئمة السلف أن الصلاة عند القبور وي مشاهدها مستحبة ولا
+> أن الصلاة والدعاء هُناك افضل بل
 
-<blockquote dir="rtl">
-  <p>
-إتفقوا كلهم على أن الصلاة في المساجد والبُيوت افضل منها عند قبور
-الأولياء والصالحين
-  </p>
-</blockquote>
+> إتفقوا كلهم على أن الصلاة في المساجد والبُيوت افضل منها عند قبور
+> الأولياء والصالحين
 
 “No one from the past leaders has said that salat near the graves is
 mustahab (recommended) or that salat and du'a at these places are more
@@ -32,18 +24,10 @@ graves of the awliya and virtous people.”[^1]
 Moreover, in a reply attributed to the scholars of Medina we read as
 such:
 
-<blockquote dir="rtl">
-  <p>
-أما التوجه إلى حجرة النبي (صلى الله عليه وأله) عند الدعاء فالاولى منعه
-كما هو معروف من معتبرات كُتب
-  </p>
-</blockquote>
+> أما التوجه إلى حجرة النبي (صلى الله عليه وأله) عند الدعاء فالاولى منعه
+> كما هو معروف من معتبرات كُتب
 
-<blockquote dir="rtl">
-  <p>
-المذاهب ولأن افضل الجهات ، جهة القبلة.
-  </p>
-</blockquote>
+> المذاهب ولأن افضل الجهات ، جهة القبلة.
 
 *“At the time of supplication, it is better to stop from concentrating
 over the grave of the Holy Prophet (s) and what is well-known in the
@@ -92,11 +76,7 @@ This reality can be known by paying attention to the following verses:
 1. About the grave of ‘Ashaab-e-Ka'ahf’ the group of monotheist gave
 their views as such:
 
-<blockquote dir="rtl">
-  <p>
-لنتخذن عليهم مسجداً
-  </p>
-</blockquote>
+> لنتخذن عليهم مسجداً
 
 ***“……For we will certainly raise a masjid over them. (Kahf 18:21)”***
 
@@ -119,11 +99,7 @@ standing.
 
 Thus it says:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى
-  </p>
-</blockquote>
+> وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى
 
 ***“And appoint for yourselves a place of prayer on the standing-place
 of Ibrahim. (Baqarah 2:125)”***
@@ -221,11 +197,7 @@ her anger is the anger of her God and Messenger used to visit every
 Friday the grave of her Uncle Hamza and perform *salat* and mourn in
 that place. Here is the text of history:
 
-<blockquote dir="rtl">
-  <p>
-كانت فاطمة رضى الله عنها تزور عمَها حمزة كل جُمعة فتُصلي وتبكي عنده
-  </p>
-</blockquote>
+> كانت فاطمة رضى الله عنها تزور عمَها حمزة كل جُمعة فتُصلي وتبكي عنده
 
 [^7]These reasons jointly show us the path of the Muslims who were
 always reciting salat and supplications in places where the beloved ones
@@ -263,11 +235,7 @@ However if the aim of lighting candle etc. is to recite Qur’an and
 not create any problem. Instead lighting candles etc. in such places and
 that too for such holy purposes will be the proof to:
 
-<blockquote dir="rtl">
-  <p>
-تعاونُوا على البرِّ والتقوى
-  </p>
-</blockquote>
+> تعاونُوا على البرِّ والتقوى
 
 ***“…….And help one another in goodness and piety. (Maida 5:2)”***
 
@@ -279,11 +247,7 @@ same fact,
 
 Al-Sindi mentions in the margins of *Sunan al-Nasa'i*:
 
-<blockquote dir="rtl">
-  <p>
-والنهى عنه لإنه تضييع مالٍ بلا نفع
-  </p>
-</blockquote>
+> والنهى عنه لإنه تضييع مالٍ بلا نفع
 
 *“Prohibition for lighting of candles was only because such an action
 leads to wastage of wealth.”* [^10]
@@ -313,11 +277,7 @@ ways:
 
 1. *Tawassul* to themselves. For example we say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أتوسل إليك بنبيك محمد (صلى الله عليه وأله) ان تقي حاجتي
-  </p>
-</blockquote>
+> اللهم إني أتوسل إليك بنبيك محمد (صلى الله عليه وأله) ان تقي حاجتي
 
 *“O Lord I take recourse to your Messenger Muhammad (s) in order that
 you fulfil my wish.”*
@@ -326,12 +286,8 @@ you fulfil my wish.”*
 rights.  
  Like we say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أتوسل إليك بجاه محمد (صلى الله عليه وأله) وحُرمته وحقِّه ان
-تقضي حاجتي
-  </p>
-</blockquote>
+> اللهم إني أتوسل إليك بجاه محمد (صلى الله عليه وأله) وحُرمته وحقِّه ان
+> تقضي حاجتي
 
 *“O Lord I take their position and their respect which they have before
 Thee as the means for my need to be fulfilled by Thee.”*
@@ -360,32 +316,16 @@ we mention a part of those traditions:
 
 First Tradition - Tradition of ‘Uthman ibn Hunayf
 
-<blockquote dir="rtl">
-  <p>
-إن رجلاً ضريراً اتى إلى النبي (صلى الله عليه وأله) فقال ادعُ الله ان
-يُعافينى فقال إن شئت دعوت وإن شئت صبرت
-  </p>
-</blockquote>
+> إن رجلاً ضريراً اتى إلى النبي (صلى الله عليه وأله) فقال ادعُ الله ان
+> يُعافينى فقال إن شئت دعوت وإن شئت صبرت
 
-<blockquote dir="rtl">
-  <p>
-وهو خير قال فادعه ، فامره أن يتوضأ فيُحسن وضوه ويُصلّي ركعتين ويدعو
-بهذا الدعاء: اللهم إني أسالك ،
-  </p>
-</blockquote>
+> وهو خير قال فادعه ، فامره أن يتوضأ فيُحسن وضوه ويُصلّي ركعتين ويدعو
+> بهذا الدعاء: اللهم إني أسالك ،
 
-<blockquote dir="rtl">
-  <p>
-وأتوجه بك إلى ربي في حاجتي لتقضي ، اللهم شفعه في. قال ابن حنيف فوالله
-ما تفرقا وطال بنا الحديث حتى دخل
-  </p>
-</blockquote>
+> وأتوجه بك إلى ربي في حاجتي لتقضي ، اللهم شفعه في. قال ابن حنيف فوالله
+> ما تفرقا وطال بنا الحديث حتى دخل
 
-<blockquote dir="rtl">
-  <p>
-علينا كان لم يكُن به ضُرّ.
-  </p>
-</blockquote>
+> علينا كان لم يكُن به ضُرّ.
 
 *“A blind person approached the Holy Prophet (s) and said: ‘Request
 Allah to cure me.’ The Holy Prophet (s) replied: ‘If you wish so I will
@@ -412,11 +352,7 @@ Al-Rifa'i, a contemporary Wahhabi writer who strives to cast down the
 credibility of the traditions on *tawassul*, says with regard to this
 tradition as such:
 
-<blockquote dir="rtl">
-  <p>
-لا شك إن هذا الحديث صحيح ومشهور وقد ثبت فيه بلا شك
-  </p>
-</blockquote>
+> لا شك إن هذا الحديث صحيح ومشهور وقد ثبت فيه بلا شك
 
 *“Undoubtedly this tradition is correct and well-known."*[^12]
 
@@ -438,11 +374,7 @@ no. 1385.
 
 Ibn Maja narrates from Abu Ishaq:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح
-  </p>
-</blockquote>
+> هذا حديث صحيح
 
 ‘This tradition is correct.’
 
@@ -451,11 +383,7 @@ Thereafter he adds:
 "al-Tirmidhi has narrated this tradition in the book of Abwaab-ul-Adeeya
 and said
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حق صحيح غريب
-  </p>
-</blockquote>
+> هذا حديث حق صحيح غريب
 
 *‘This tradition is truly correct and Gharib.’*
 
@@ -466,11 +394,7 @@ from al-Maktab al-Islami, Mu'assassa Dar Sadir, Beirut.
 3. al-Mustadrak of al-Hakim vol. 1 page 313 printed from Hyderabad.
 After narrating the tradition he says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرك الشيخين ولم يُخرجاه
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرك الشيخين ولم يُخرجاه
 
 *“This tradition is correct according to the criteria set by the*
 *shaykhayn* *and they have not narrated it.”*
@@ -500,11 +424,7 @@ easily be understood from the following sentences:
 . **A** “O Lord, I ask Thee and turn towards Thee through the channel of
 your Prophet.”
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني اسئلك وأتوجه إليك بنبيك
-  </p>
-</blockquote>
+> اللهم إني اسئلك وأتوجه إليك بنبيك
 
 The word **نبيك** is pertaining to the previous two words **اسئلك** and
 **اتوجه إليك**
@@ -523,11 +443,7 @@ himself and *tawassul* to the ‘Dua’ of someone is proper.
 
 **B**
 
-<blockquote dir="rtl">
-  <p>
-محمد نبي الرحمة
-  </p>
-</blockquote>
+> محمد نبي الرحمة
 
 In order to clarify that asking God for the Sake of the Prophet and
 paying attention to Him through His channel is the right purpose, the
@@ -559,19 +475,11 @@ Second Tradition: Tawassul to The (Right) Of Questioner
 state the following *du'a*, he will meet the mercy of Allah and one
 thousand angels will seek forgiveness for him.”[^14]
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسئلك بحق السائلين عليك وأسئلك بحق ممشاي هذا فإني لم اخرُج
-اشراً ولا بطراً ولا رياء ولا سُمعة
-  </p>
-</blockquote>
+> اللهم إني أسئلك بحق السائلين عليك وأسئلك بحق ممشاي هذا فإني لم اخرُج
+> اشراً ولا بطراً ولا رياء ولا سُمعة
 
-<blockquote dir="rtl">
-  <p>
-وخرجت إتقاء سخطك وابتغاء مرضاتك فاسئلك ان تعيذني من النار وان تغفر لي
-ذنوبي إنه لا يغفر الذنوب إلا أنت.
-  </p>
-</blockquote>
+> وخرجت إتقاء سخطك وابتغاء مرضاتك فاسئلك ان تعيذني من النار وان تغفر لي
+> ذنوبي إنه لا يغفر الذنوب إلا أنت.
 
 *“O God I ask Thee by the right of the questioners and by the honour of
 the steps which I take in Thy direction, I have not left the house for
@@ -591,12 +499,8 @@ Third Tradition: Tawassul to the Right of Holy Prophet (s)
 After disobedience of Allah, Adam (‘a) in the light of the words which
 were manifested from God, repented as Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ
-هُوَ التَّوَّابُ الرَّحِيمُ
-  </p>
-</blockquote>
+> فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ
+> هُوَ التَّوَّابُ الرَّحِيمُ
 
 ***“Then adam received (some) words from his lord, so He turned to him
 mercifully; surely He is oft-returning (to mercy), the Merciful.
@@ -614,26 +518,14 @@ al-Suyuti in *al-Durr al-Manthur* and al-Alusi in *Ruh al-Ma'ani*[^16]
 have narrated from ‘Umar ibn al-Khattab that the Holy Prophet (s) has
 said: [^17]
 
-<blockquote dir="rtl">
-  <p>
-لما اذنب ادم الذي اذنبه رفع رأسه إلى السماء فقال اسئلك بحق محمد إلا
-غفرت لي فأوحى الله إليه ومن مُحمد؟
-  </p>
-</blockquote>
+> لما اذنب ادم الذي اذنبه رفع رأسه إلى السماء فقال اسئلك بحق محمد إلا
+> غفرت لي فأوحى الله إليه ومن مُحمد؟
 
-<blockquote dir="rtl">
-  <p>
-فقال تبارك اسمك ، لما خلقت رفعت رأسى إلى غرشك فإذا فيه مكتوب لا إله
-إلا الله ومحمد رسول الله فقلت إنه
-  </p>
-</blockquote>
+> فقال تبارك اسمك ، لما خلقت رفعت رأسى إلى غرشك فإذا فيه مكتوب لا إله
+> إلا الله ومحمد رسول الله فقلت إنه
 
-<blockquote dir="rtl">
-  <p>
-ليس أحد اعظم عندك قدراً: ممن جعلت اسمه مع اسمك فاوحى إليه إنه اخر
-النبيين من ذريتك ولولا هو لما خلقتك.
-  </p>
-</blockquote>
+> ليس أحد اعظم عندك قدراً: ممن جعلت اسمه مع اسمك فاوحى إليه إنه اخر
+> النبيين من ذريتك ولولا هو لما خلقتك.
 
 When Adam committed the sin he raised his head towards the sky and said
 (O God) I ask Thee by the right of Muhammad that You forgive me. God
@@ -652,52 +544,32 @@ God would have not created him.
 1. In the Holy Qur’an the word of (words) is applied to personalities
 contrary to what is common amongst us. For example:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّ اللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًا بِكَلِمَةٍ مِنَ
-اللَّهِ
-  </p>
-</blockquote>
+> أَنَّ اللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًا بِكَلِمَةٍ مِنَ
+> اللَّهِ
 
  ***“That Allah gives you the good news of Yahya verifying a Word from
 Allah, (Aal-Imran 3:39)”***
 
-<blockquote dir="rtl">
-  <p>
-يَا مَرْيَمُ إِنَّ اللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُ اسْمُهُ
-الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ
-  </p>
-</blockquote>
+> يَا مَرْيَمُ إِنَّ اللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُ اسْمُهُ
+> الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ
 
 ***“O Maryam, surely Allah gives you good news with a Word from him (of
 one) whose*** ***name is the Messiah, Isa son of Maryam.***
 ***(Aal-Imran 3:45)”***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ
-  </p>
-</blockquote>
+> إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ
 
  ***“The Messiah, Isa son of Maryam is only an Apostle of Allah and His
 Word, (Nisa 4:171)”***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي لَنَفِدَ
-الْبَحْرُ
-  </p>
-</blockquote>
+> قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي لَنَفِدَ
+> الْبَحْرُ
 
 ***“Say: If the sea were ink for the words*** ***of my Lord. (Kahf
 18:109)”***
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَحْرُ يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ
-كَلِمَاتُ اللَّهِ
-  </p>
-</blockquote>
+> وَالْبَحْرُ يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ
+> كَلِمَاتُ اللَّهِ
 
 ***"With seven more seas to increase it, the words of Allah would not
 come to an end. (Luqman 31:27)”***
@@ -711,25 +583,13 @@ narrated in two ways. Sometimes **كلمات** is interpreted as a name of
 these holy personalities and sometimes it refers to their sparkling
 light. Here is both the interpretations:
 
-<blockquote dir="rtl">
-  <p>
-إن أدم راى مكتوباً على العرش اسماء معظمة مكرمة فسأل عنها فقيل له هذه
-اسماء اجل الخلق منزلة عند الله
-  </p>
-</blockquote>
+> إن أدم راى مكتوباً على العرش اسماء معظمة مكرمة فسأل عنها فقيل له هذه
+> اسماء اجل الخلق منزلة عند الله
 
-<blockquote dir="rtl">
-  <p>
-تعالى والأسماء محمد وعليّ وفاطمة والحسن والحسين ، فتوسَّل ادم عليه
-السلام إلى ربه في قبول توبته ورفع
-  </p>
-</blockquote>
+> تعالى والأسماء محمد وعليّ وفاطمة والحسن والحسين ، فتوسَّل ادم عليه
+> السلام إلى ربه في قبول توبته ورفع
 
-<blockquote dir="rtl">
-  <p>
-منزلته
-  </p>
-</blockquote>
+> منزلته
 
 [^18]  
 
@@ -747,11 +607,7 @@ that *tawassul* of Adam ('a) to the Holy Prophet (s) was one famous and
 well-known matter. As, Imam Malik told Mansur al-Dawanaqi in the shrine
 of the Holy Prophet (s) as such:
 
-<blockquote dir="rtl">
-  <p>
-هو وسيلتك ووسيلة ابيك أدم
-  </p>
-</blockquote>
+> هو وسيلتك ووسيلة ابيك أدم
 
 **  
 **
@@ -764,17 +620,9 @@ channel.”***
 
 The Islamic poets have put this reality into a form of verse:
 
-<blockquote dir="rtl">
-  <p>
-به قد اجاب الله ادم دعا ونجى في بطن السفينة نوح
-  </p>
-</blockquote>
+> به قد اجاب الله ادم دعا ونجى في بطن السفينة نوح
 
-<blockquote dir="rtl">
-  <p>
-قوم بهم عفرت خطيئة ادم وهم الوسيلة والنجوم الطُلع
-  </p>
-</blockquote>
+> قوم بهم عفرت خطيئة ادم وهم الوسيلة والنجوم الطُلع
 
 ***“On account of him, Allah accepted the ‘Dua’ of Adam and saved Noah
 inside the ship. They are such people through whom Adam's sin was
@@ -784,39 +632,19 @@ sparkling stars.”***[^21]
 Fourth Tradition: Tawassul of Prophet (s) by the Right of Prophet (s) and by the Rights of Previous Prophets
 ------------------------------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لما ماتت فاطمة بنت أسد ، دخل عليها رسول الله (صلى الله عليه وأله) فجلس
-عند رأسها ، فقال رحمك الله يا أمي
-  </p>
-</blockquote>
+> لما ماتت فاطمة بنت أسد ، دخل عليها رسول الله (صلى الله عليه وأله) فجلس
+> عند رأسها ، فقال رحمك الله يا أمي
 
-<blockquote dir="rtl">
-  <p>
-بعد أمي ثم دعا رسول الله (صلى الله عليه وأله) اسمامة بن زيد ، وابا
-أيُوب الأنصارى وعمر بن الخطاب وغُلاماً
-  </p>
-</blockquote>
+> بعد أمي ثم دعا رسول الله (صلى الله عليه وأله) اسمامة بن زيد ، وابا
+> أيُوب الأنصارى وعمر بن الخطاب وغُلاماً
 
-<blockquote dir="rtl">
-  <p>
-اسود ، يحفرون ، فحفروا قبرها ، فلما بلغوا الحد ، حفر رسول الله بيده
-واخرج تُرابه ، فلما فرغ دخل رسول الله
-  </p>
-</blockquote>
+> اسود ، يحفرون ، فحفروا قبرها ، فلما بلغوا الحد ، حفر رسول الله بيده
+> واخرج تُرابه ، فلما فرغ دخل رسول الله
 
-<blockquote dir="rtl">
-  <p>
-(صلى الله عليه وأله) فاضطجع فيه ، ثم قال: الله الذي يُحيى ويُميت وهو
-حيُّ لا يموت إغفر لأمي فاطمة بنت اسد
-  </p>
-</blockquote>
+> (صلى الله عليه وأله) فاضطجع فيه ، ثم قال: الله الذي يُحيى ويُميت وهو
+> حيُّ لا يموت إغفر لأمي فاطمة بنت اسد
 
-<blockquote dir="rtl">
-  <p>
-ووسّع عليها مدخلها بحق نبيك الدين من قلبي
-  </p>
-</blockquote>
+> ووسّع عليها مدخلها بحق نبيك الدين من قلبي
 
 *“When Fatima, daughter of Asad passed away and the Holy Prophet (s) was
 informed about her death he came and sat beside her and said:*
@@ -834,11 +662,7 @@ me.’”*
 
 The writer of *Khulasat al-kalam* says:
 
-<blockquote dir="rtl">
-  <p>
-رواه الطبراني في الكبير والأوسط وابن حبان والحاكم وصحّحوه
-  </p>
-</blockquote>
+> رواه الطبراني في الكبير والأوسط وابن حبان والحاكم وصحّحوه
 
 “This tradition is narrated by al-Tabarani (in his al-Mu'jam), Ibn
 Hibban and al-Hakim and they have confirmed its authenticity.”[^22]
@@ -846,19 +670,11 @@ Hibban and al-Hakim and they have confirmed its authenticity.”[^22]
 Sayyid Ahmad ibn Zayni Dihlan writes in the book *al-Durar al-saniyya fi
 al-radd 'ala al-wahhabiyya* as such:
 
-<blockquote dir="rtl">
-  <p>
-روى ابن أبي شيبة عن جابر مثل ذلك ، وكذا روى مثله ابن عبد البر عن ابن
-عباس ، ورواه ابو نعيم في حلية
-  </p>
-</blockquote>
+> روى ابن أبي شيبة عن جابر مثل ذلك ، وكذا روى مثله ابن عبد البر عن ابن
+> عباس ، ورواه ابو نعيم في حلية
 
-<blockquote dir="rtl">
-  <p>
-الأولياء عن أنس ، ذكل ذلك كُله الحافظ جلال الدين السُيوطي في الجامع
-الكبير.
-  </p>
-</blockquote>
+> الأولياء عن أنس ، ذكل ذلك كُله الحافظ جلال الدين السُيوطي في الجامع
+> الكبير.
 
 The famous traditionist Ibn Abi Shayba has narrated this tradition from
 Jabir. Ibn 'Abd al-Barr and Abu Nu'aym too have narrated this tradition
@@ -879,11 +695,7 @@ Fifth Tradition: Tawassul to Prophet (s) Himself
 Some of the Islamic traditionists have narrated that an Arab accompanied
 with some villagers approached the Holy Prophet (s) and said:
 
-<blockquote dir="rtl">
-  <p>
-لقد اتيناك وما لنا بعير يط لنا ولا صبيُ يعظ
-  </p>
-</blockquote>
+> لقد اتيناك وما لنا بعير يط لنا ولا صبيُ يعظ
 
 [^24] [^25]  
 *“We have come to you while we are neither having a camel with us to
@@ -891,23 +703,11 @@ groan nor a child to sleep.”*
 
 Thereafter he recited these poems
 
-<blockquote dir="rtl">
-  <p>
-أتيناك والعذراء تُمى لبانُها وقد شُغلت أم الصبيّ عن الطفل
-  </p>
-</blockquote>
+> أتيناك والعذراء تُمى لبانُها وقد شُغلت أم الصبيّ عن الطفل
 
-<blockquote dir="rtl">
-  <p>
-ولا شئ مما تأكل الناس عندنا سوى الحنظل العامي والعلهز الفسل
-  </p>
-</blockquote>
+> ولا شئ مما تأكل الناس عندنا سوى الحنظل العامي والعلهز الفسل
 
-<blockquote dir="rtl">
-  <p>
-وليس لنا إلا إليك فرارُنا واين فرار الناس إلا إلى الرُسل
-  </p>
-</blockquote>
+> وليس لنا إلا إليك فرارُنا واين فرار الناس إلا إلى الرُسل
 
 We have come to you while blood drops from the bosom of the horses; the
 mother has been restrained from her baby. We are not having anything
@@ -918,52 +718,24 @@ seek shelter except the Prophets.
 
 Then,
 
-<blockquote dir="rtl">
-  <p>
-فقال رسول الله يجرر حتى صعد المنبر ، فرفغ يديه: اللهم إسقنا غيثاً
-مُغيثاً...فما ردّ النبي يديه حتى ألقت
-  </p>
-</blockquote>
+> فقال رسول الله يجرر حتى صعد المنبر ، فرفغ يديه: اللهم إسقنا غيثاً
+> مُغيثاً...فما ردّ النبي يديه حتى ألقت
 
-<blockquote dir="rtl">
-  <p>
-السماء...ثم قال لله درابي طالب لو كان حياً لقرَّت عيناه ، من يُنشدنا
-قوله؟ فقال عليُ بن أبي طالب ، وقال وكأنك
-  </p>
-</blockquote>
+> السماء...ثم قال لله درابي طالب لو كان حياً لقرَّت عيناه ، من يُنشدنا
+> قوله؟ فقال عليُ بن أبي طالب ، وقال وكأنك
 
-<blockquote dir="rtl">
-  <p>
-تُريد يا رسول الله قوله:
-  </p>
-</blockquote>
+> تُريد يا رسول الله قوله:
 
-<blockquote dir="rtl">
-  <p>
-وابيض يُستسقى الغمام بوجهه ثمال اليتامى للأرامل
-  </p>
-</blockquote>
+> وابيض يُستسقى الغمام بوجهه ثمال اليتامى للأرامل
 
-<blockquote dir="rtl">
-  <p>
-يطوف به الهُلاك من أل هائم فهم عنده في نعمة وفواضل
-  </p>
-</blockquote>
+> يطوف به الهُلاك من أل هائم فهم عنده في نعمة وفواضل
 
 The Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-فأنشد عليّ ابياناً من القصيدة والرسول يستغفر لأبي طالب على المنبر ، ثم
-قام رجل من كنانة وأنشد.
-  </p>
-</blockquote>
+> فأنشد عليّ ابياناً من القصيدة والرسول يستغفر لأبي طالب على المنبر ، ثم
+> قام رجل من كنانة وأنشد.
 
-<blockquote dir="rtl">
-  <p>
-لك الحمد والحمد ممن شكر سُقينا بوجه النبي المطر
-  </p>
-</blockquote>
+> لك الحمد والحمد ممن شكر سُقينا بوجه النبي المطر
 
 “‘Yes, my objective was the same as you have recited.’ Then Ali (‘a)
 read a portion of his elegy and the Holy Prophet (s) asked blessings for
@@ -996,36 +768,16 @@ page 81.
 Sixth Tradition: Tawassul to the Self of Prophet (s)
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إن سواد بن قارب رضي الله ، انشد لرسول الله قصيدته اليئ فيها التوسل
-ويقول:
-  </p>
-</blockquote>
+> إن سواد بن قارب رضي الله ، انشد لرسول الله قصيدته اليئ فيها التوسل
+> ويقول:
 
-<blockquote dir="rtl">
-  <p>
-وأشهد أن الله لا رب غيره وأنك مأمون على كل غائب
-  </p>
-</blockquote>
+> وأشهد أن الله لا رب غيره وأنك مأمون على كل غائب
 
-<blockquote dir="rtl">
-  <p>
-وأنك أدنى المرسلين وسيلة إلى الله يابن الأكرمين الأطائب
-  </p>
-</blockquote>
+> وأنك أدنى المرسلين وسيلة إلى الله يابن الأكرمين الأطائب
 
-<blockquote dir="rtl">
-  <p>
-فمُرنا بما يأتيك يا خير مُرسل وإن كان فيما فيه شيب الذوائب
-  </p>
-</blockquote>
+> فمُرنا بما يأتيك يا خير مُرسل وإن كان فيما فيه شيب الذوائب
 
-<blockquote dir="rtl">
-  <p>
-وكن لي شفيعاً يوم لا ذو شفاعة بمُغنٍ قتيلاً عن سواد بن قارب
-  </p>
-</blockquote>
+> وكن لي شفيعاً يوم لا ذو شفاعة بمُغنٍ قتيلاً عن سواد بن قارب
 
 *“I bear witness that there is no God except Allah.* *You (O Prophet)
 are trustworthy upon every hidden thing from the senses. From amongst
@@ -1055,12 +807,8 @@ in connection with the previous tradition.
 Seventh Tradition: The Leader of the martyrs says in du'a 'Arafa
 ----------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللهم إنا نتوجه إليك في هذه العشية التي فرضتها وعظمتها بمُحمد نبيك
-ورسولك وخيرتك من خلقك
-  </p>
-</blockquote>
+> اللهم إنا نتوجه إليك في هذه العشية التي فرضتها وعظمتها بمُحمد نبيك
+> ورسولك وخيرتك من خلقك
 
 *“O Lord at such a moment that You have made it obligatory and
 honourable upon me, I turn towards You by Muhammad, Your Prophet, Your
@@ -1078,48 +826,20 @@ shall mention some of them here:
 al-Karim al-Jazari (died in 630 AH) writes in the book *Usd al-ghaba fi
 ma'rifat al-sahaba* as such:
 
-<blockquote dir="rtl">
-  <p>
-واستسقى عمر بن الخطاب بالعباس عام الرمادة لما إشتد القحط فسقاهم الله
-تعالى به واخصبت الأرض فقال عمر
-  </p>
-</blockquote>
+> واستسقى عمر بن الخطاب بالعباس عام الرمادة لما إشتد القحط فسقاهم الله
+> تعالى به واخصبت الأرض فقال عمر
 
-<blockquote dir="rtl">
-  <p>
-هذا:
-  </p>
-</blockquote>
+> هذا:
 
-<blockquote dir="rtl">
-  <p>
-والله الوسيلة إلى الله والمكان منه وقال حسان:
-  </p>
-</blockquote>
+> والله الوسيلة إلى الله والمكان منه وقال حسان:
 
-<blockquote dir="rtl">
-  <p>
-سال الإمام وق نتابع جدبنا فسقى الغمام بغرة العباس
-  </p>
-</blockquote>
+> سال الإمام وق نتابع جدبنا فسقى الغمام بغرة العباس
 
-<blockquote dir="rtl">
-  <p>
-عمّ النبي وصنو والده الذي ورث النبي بذالك دون الناس
-  </p>
-</blockquote>
+> عمّ النبي وصنو والده الذي ورث النبي بذالك دون الناس
 
-<blockquote dir="rtl">
-  <p>
-أحيا الإله به البلاد فأصبحت مخضرة الأجناب بعد اليأس
-  </p>
-</blockquote>
+> أحيا الإله به البلاد فأصبحت مخضرة الأجناب بعد اليأس
 
-<blockquote dir="rtl">
-  <p>
-ولما سُقى الناس طفقوا يتمسحون بالعباس ويقولون هنيئاً لك ساقي الحرمين
-  </p>
-</blockquote>
+> ولما سُقى الناس طفقوا يتمسحون بالعباس ويقولون هنيئاً لك ساقي الحرمين
 
 *“In the year when famine reached its peak, ‘Umar requested for rain
 through the channel of Abbas. God satiated them through him and every
@@ -1146,11 +866,7 @@ of nearness (to God) and meritorious and possessed virtues that make
 them suitable for *tawassul*. What an elegant manner to express this is
 to say:
 
-<blockquote dir="rtl">
-  <p>
-هذا والله الوسيلة إلى الله والمكان منه
-  </p>
-</blockquote>
+> هذا والله الوسيلة إلى الله والمكان منه
 
 *‘This is by God a means for seeking nearness to God and at His House.’*
 
@@ -1159,25 +875,13 @@ Jalal al-Din al-Suyuti, writes in his book *al-Mawahib al-ladunniyya
 bil-manha al-muhammadiyyah fil seerat al-nabawiyyah* that has been
 printed in Egypt that:
 
-<blockquote dir="rtl">
-  <p>
-إن عمر لنا استسقى بالعباس قال يا أيها الناس إن رسول الله (صلى الله
-عليه وأله) كان يرى للعباس ما يرى الولد
-  </p>
-</blockquote>
+> إن عمر لنا استسقى بالعباس قال يا أيها الناس إن رسول الله (صلى الله
+> عليه وأله) كان يرى للعباس ما يرى الولد
 
-<blockquote dir="rtl">
-  <p>
-للولد فاقتدوا به في عمه واتخذوه وسيلة إلى الله تعالى ففيه التصريح
-بالتوسل وبهذا يبطُل قول من منع التوسُل
-  </p>
-</blockquote>
+> للولد فاقتدوا به في عمه واتخذوه وسيلة إلى الله تعالى ففيه التصريح
+> بالتوسل وبهذا يبطُل قول من منع التوسُل
 
-<blockquote dir="rtl">
-  <p>
-مُطلقاً بالإحياء والأموات وقول من منع ذلك بغير النبي.
-  </p>
-</blockquote>
+> مُطلقاً بالإحياء والأموات وقول من منع ذلك بغير النبي.
 
 *“When ‘Umar requested for rain through Abbas he said: 'O people! The
 Holy Prophet (s) used to look at Abbas from a father's angle. You follow
@@ -1190,18 +894,10 @@ Prophet (s).”*[^30]
 whether he should face the *qibla* and recite *du'a* or face the Holy
 Prophet (s), the latter replied:
 
-<blockquote dir="rtl">
-  <p>
-لِم تصرف وجهك عنه وهو وسيلتك ووسيلة أبيك أدم (عليه السلام) إلى الله
-يوم القيامة بل استقبله واستشفع به
-  </p>
-</blockquote>
+> لِم تصرف وجهك عنه وهو وسيلتك ووسيلة أبيك أدم (عليه السلام) إلى الله
+> يوم القيامة بل استقبله واستشفع به
 
-<blockquote dir="rtl">
-  <p>
-فيشفعك الله قال الله تعالى ولو أنهم إذ طلموا أنفسهم.
-  </p>
-</blockquote>
+> فيشفعك الله قال الله تعالى ولو أنهم إذ طلموا أنفسهم.
 
 *“Why do you turn your face away from him? He is your means and your
 father, Adam's channel on the* *Day of Judgement. You resort to him and
@@ -1213,17 +909,9 @@ upon themselves..."*[^31]
 al-Qadi Nurullah al-Shustari refuted under the title of *al-Sawarim
 al-muhriqa)* has narrated the following two couplets:
 
-<blockquote dir="rtl">
-  <p>
-إن النبي دريعتي هم إليه وسيلتي
-  </p>
-</blockquote>
+> إن النبي دريعتي هم إليه وسيلتي
 
-<blockquote dir="rtl">
-  <p>
-ارجوا بهم أعطى غداً بيدى اليمين صحيفتي
-  </p>
-</blockquote>
+> ارجوا بهم أعطى غداً بيدى اليمين صحيفتي
 
 “The Household of the Holy Prophet (s) is my channel towards Allah and
 it is through their means that I have hope that my book of deeds will be
@@ -1233,11 +921,7 @@ By taking into consideration these testimonies and words, one can claim
 that the Holy Prophet (s) and the outstanding personalities are one kind
 of channel which Qur’an has ordered for that as:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين أمنوا اتقوا الله وابتغوا إليه الوسيلة
-  </p>
-</blockquote>
+> يا أيها الذين أمنوا اتقوا الله وابتغوا إليه الوسيلة
 
 ***“O you who believe! be careful of (your duty to) Allah and seek means
 of nearness to Him.*** ***(Maida 5:35)”***
@@ -1262,18 +946,10 @@ chaos in this matter. We have replied to them in the book of
 
 (5) al-Bukhari narrates in his *al-Sahih* as such:
 
-<blockquote dir="rtl">
-  <p>
-إن عمر بن الخطاب كان إذ قُحطوا إستسقى بالعباس بن عبد المُطلب رضي الله
-عنه ، وقال اللهم كُنا نتوسل إليك
-  </p>
-</blockquote>
+> إن عمر بن الخطاب كان إذ قُحطوا إستسقى بالعباس بن عبد المُطلب رضي الله
+> عنه ، وقال اللهم كُنا نتوسل إليك
 
-<blockquote dir="rtl">
-  <p>
-بنبينا فتُسقينا وإنا نتوسل إليك بعمّ نبيينا فاسقنا قال فيُسقون.
-  </p>
-</blockquote>
+> بنبينا فتُسقينا وإنا نتوسل إليك بعمّ نبيينا فاسقنا قال فيُسقون.
 
 *“During the period of famine, ‘Umar bin al-Khattab would take resort to
 al-'Abbas bin 'Abd al-Muttalib and say: ‘O God! previously we were
@@ -1286,17 +962,9 @@ regarding this tradition. Even al-Rifa'i who, under various pretexts,
 rejects the reliable traditions on *tawassul* has admitted the
 authenticity of this tradition and says:
 
-<blockquote dir="rtl">
-  <p>
-إن هذا الحديث صحيحُ... فإن صحَّ هذا الجواز شرعاً فنحن مِن
-  </p>
-</blockquote>
+> إن هذا الحديث صحيحُ... فإن صحَّ هذا الجواز شرعاً فنحن مِن
 
-<blockquote dir="rtl">
-  <p>
-أسبق الناس إلى الأخذ به والعمل بمُقتضاه
-  </p>
-</blockquote>
+> أسبق الناس إلى الأخذ به والعمل بمُقتضاه
 
 *“Certainly this tradition is correct….If the purpose of the tradition
 is a proof upon the correctness of* *tawassul* *to people then we are
@@ -1307,11 +975,7 @@ By paying attention to the sentences of the Caliph himself which he
 narrates to al-'Abbas about *tawassul* and especially when he swears by
 Allah
 
-<blockquote dir="rtl">
-  <p>
-هذا والله الوسيلة إلى الله والمكان منه
-  </p>
-</blockquote>
+> هذا والله الوسيلة إلى الله والمكان منه
 
 *“This is by* *God a means for seeking nearness to God and at His
 House.”*[^35]
@@ -1324,18 +988,10 @@ In this regard, Muhammad bin Nu'man al-Maliki (died in the year 683 AH)
 narrates in his book *Misbah al-zalam fi al-mustaghithin bi khayr
 al-'anam* the manner of *tawassul* of ‘Umar to al-'Abbas as such:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إنا نستقيك بعمِّ نبيك (صلى الله عليه وأله) ونستشفع إليك بشيبته
-فسُقوا وفي ذلك يقول عباس بن عتبة بن
-  </p>
-</blockquote>
+> اللهم إنا نستقيك بعمِّ نبيك (صلى الله عليه وأله) ونستشفع إليك بشيبته
+> فسُقوا وفي ذلك يقول عباس بن عتبة بن
 
-<blockquote dir="rtl">
-  <p>
-أبي لهب: بعمِّي سقى الله الحجاز وأهله عشية يستسقي بشيبته عمر
-  </p>
-</blockquote>
+> أبي لهب: بعمِّي سقى الله الحجاز وأهله عشية يستسقي بشيبته عمر
 
 *"O God we ask for rain through the channel of thy Prophet's uncle and
 we take his authority and previous record in Islam as our intercessor.
@@ -1348,11 +1004,7 @@ virtuousness.'"*[^36]
 In the same way, Hassan bin Thabit too recited a poem regarding this
 matter:
 
-<blockquote dir="rtl">
-  <p>
-فسقى الغمام بغُرة العباس
-  </p>
-</blockquote>
+> فسقى الغمام بغُرة العباس
 
 “The cloud satiated (everything) due to the sparkling face of Abbas.”
 
@@ -1361,11 +1013,7 @@ al-Bukhari:*
 
 Al-Abbas in his *du'a* said:
 
-<blockquote dir="rtl">
-  <p>
-وقد توجه القوم بي إليك لمكاني من نبيك
-  </p>
-</blockquote>
+> وقد توجه القوم بي إليك لمكاني من نبيك
 
 “The people resorted to me because of the bond of relationship which I
 have with Thy Prophet.” [^37]
@@ -1374,11 +1022,7 @@ As the respected readers have observed, there is no place of doubt that
 the aim was *tawassul* to the position and status of Abbas and we are
 aware that from ancient times there is a saying that:
 
-<blockquote dir="rtl">
-  <p>
-تعليق الحُكم بالوصف مشعر بالعلية
-  </p>
-</blockquote>
+> تعليق الحُكم بالوصف مشعر بالعلية
 
 *“Anytime, a judgement is derived from a topic, its content will be a
 testimony against the topic (and) a testimony upon the proof of
@@ -1386,11 +1030,7 @@ judgement.”*
 
 That is to say, if the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وعلى المولود له رزقهن
-  </p>
-</blockquote>
+> وعلى المولود له رزقهن
 
 ***“…Securing the necessities of life for the women is a matter
 concerning those whose wives bear children for them… (Baqarah 2:233)”***
@@ -1407,11 +1047,7 @@ indicate the reason for doing *tawassul* to al-'Abbas. In other words,
 from among so many people, why should we do *tawassul* to him? As
 al-'Abbas himself said:
 
-<blockquote dir="rtl">
-  <p>
-لمكاني من نبيك
-  </p>
-</blockquote>
+> لمكاني من نبيك
 
 *“Because of my status in relation to your* *Prophet.”*
 
@@ -1424,17 +1060,9 @@ righteous and virtuous personalities.
 Safiyya, daughter of Abd al-Muttalib and aunt of the Holy Prophet (s)
 recited a poem in grief of the Holy Prophet (s). Two of its lines are:
 
-<blockquote dir="rtl">
-  <p>
-ألا يا رسول الله أنت رجاؤنا وكُنت بنا براً ولم تك جافياً
-  </p>
-</blockquote>
+> ألا يا رسول الله أنت رجاؤنا وكُنت بنا براً ولم تك جافياً
 
-<blockquote dir="rtl">
-  <p>
-وكنت بنا براً رؤوفاً نبينا ليبكِ عليك القوم من كان باكيا
-  </p>
-</blockquote>
+> وكنت بنا براً رؤوفاً نبينا ليبكِ عليك القوم من كان باكيا
 
 “O Prophet of God you are our hope. You were a righteous person and
 never did you oppress anyone. You were good and kind to us; O our
@@ -1509,12 +1137,8 @@ Wahabism.
 
 In the end, we shall once more remind you of what Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
-الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
+> الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***"O you who believe! be careful of (your duty to) Allah and*** ***seek
 means of nearness to Him and strive hard in His way that you may be
@@ -1662,5 +1286,4 @@ al-Hafiz Muhibb al-Din al-Tabari, born in 615 AH and died in 694 AH,
 (2nd edition) written by al-Hafiz Nur al-Din al-Haytami. Let it not
 remain unsaid that the sentence of أنت رجاؤنا in the first line has
 appeared as كنت وجاؤنا in the aforesaid book.
-
 

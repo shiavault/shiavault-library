@@ -1,11 +1,7 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 Man - just like any other creation possessing both a body and a soul
 (ruh) is in need of several things - each of which is essential for the
@@ -81,5 +77,4 @@ enlightenment of our Muslim community.
 
 Any questions or comments on the contents of the articles can be
 forwarded to us at <ihs@primus.ca>.
-
 

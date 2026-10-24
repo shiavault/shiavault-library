@@ -22,11 +22,7 @@ prove to be the real centre; thus, cultural scholars and sociologists
 have not taken into serious consideration the true identity of man,
 which lies in the boundary between nature and the supernatural.
 
-<blockquote dir="rtl">
-  <p>
-دوسر هر دو حلقهء هستى به حقيقت به هم توقيوستي
-  </p>
-</blockquote>
+> دوسر هر دو حلقهء هستى به حقيقت به هم توقيوستي
 
 *“Truly, it was you who made the circle of the universe whole.”* (Sheikh
 Mahmoud Shabestan)
@@ -235,46 +231,26 @@ that rises a scum like it. So God strikes both the true and the false.
 As for the scum, it vanishes as jetsam, and profits men abiding in the
 earth. Even so God strikes his examples*.[^8]
 
-<blockquote dir="rtl">
-  <p>
-قرن ها بكنشت اين قرت نويست ماه ان ماه است واب وان اب نيست
-  </p>
-</blockquote>
+> قرن ها بكنشت اين قرت نويست ماه ان ماه است واب وان اب نيست
 
 *Centuries passed; and came a new one; the moon is the same, but not the
 water.*
 
-<blockquote dir="rtl">
-  <p>
-عدل ان عدل است وفضل ان فضل هم ليك مستبدل شد اين قرن وامم
-  </p>
-</blockquote>
+> عدل ان عدل است وفضل ان فضل هم ليك مستبدل شد اين قرن وامم
 
 *Justice and greatness have not changed; however, this century and its
 people have. After all these centuries,*
 
-<blockquote dir="rtl">
-  <p>
-قرن ها بر قرن ها رفت اي همام وين معانى بر قرار و بر دوام
-  </p>
-</blockquote>
+> قرن ها بر قرن ها رفت اي همام وين معانى بر قرار و بر دوام
 
 O *important one, none of these concepts have been affected*
 
-<blockquote dir="rtl">
-  <p>
-شد مبدل اب اين جو جند بار عككس ماه وعكس اختر برقرار
-  </p>
-</blockquote>
+> شد مبدل اب اين جو جند بار عككس ماه وعكس اختر برقرار
 
 *The water in the stream has changed, but the reflection of the moon and
 the stars remain.*
 
-<blockquote dir="rtl">
-  <p>
-بس بنايش نيست بر اب روان بلكه بر اقطار اوج اسمان
-  </p>
-</blockquote>
+> بس بنايش نيست بر اب روان بلكه بر اقطار اوج اسمان
 
 *So its base must be high in the sky, not in the water.”*
 
@@ -383,5 +359,4 @@ whereas pursuant culture does not focus on progress or evolution.
 
 [^13]: Edward Burnett Tyler (1882-1917), distinguished English
 anthropologist.
-
 

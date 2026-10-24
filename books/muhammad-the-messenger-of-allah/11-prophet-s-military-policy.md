@@ -961,4 +961,3 @@ a very practical way in spreading the Islamic call. The Prophet
 leaders in proportion to their responses. He also laid his future
 military plans in this context.
 
-

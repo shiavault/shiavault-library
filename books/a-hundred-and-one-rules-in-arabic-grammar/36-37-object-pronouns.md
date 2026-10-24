@@ -10,4 +10,3 @@ a. (Possessive Pronoun)     **کتابُها علی الطاولةِ.**
 
 b. (Object Pronoun)شاهدتُها في السوقِ.
 
-

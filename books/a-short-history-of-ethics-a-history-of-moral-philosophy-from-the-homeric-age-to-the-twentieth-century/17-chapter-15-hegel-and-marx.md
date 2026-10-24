@@ -578,4 +578,3 @@ simply a crude utilitarianism. The weakness to which this exposed
 latter-day Marxism can only be made clear when we have examined
 utilitarianism itself.
 
-

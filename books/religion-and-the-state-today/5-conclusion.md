@@ -71,4 +71,3 @@ la réflexion”. In a Europe that is in search of cultural foundations on
 the basis of appealing to its defining Judeo-Christian heritage - all of
 this should put into motion its current active spirits.
 
-

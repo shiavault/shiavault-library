@@ -9,4 +9,3 @@ of Allah, The Mighty, The Glorious, in the month of Ramadan, is like one
 who has recited the entire Holy Quran in the other months."*Bihar
 al-Anwar, vol. 93, pg. 344*
 
-

@@ -942,4 +942,3 @@ such, should not be seen as a different tradition
 
 [^32]: Ibn Athir, al-Kamil fi al-ta'rikh, Vol. 4, p. 48
 
-

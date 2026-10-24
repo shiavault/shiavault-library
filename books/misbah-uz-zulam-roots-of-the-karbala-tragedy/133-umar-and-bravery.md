@@ -92,4 +92,3 @@ the sheath in the battles of Khandaq, Uhud, Khaybar and Hunayn. Now
 decide for yourself whether attribution of bravery to Umar by Qadi
 Sulaiman Sahab is lawful or not?
 
-

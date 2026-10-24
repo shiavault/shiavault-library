@@ -52,4 +52,3 @@ its words.
 
 (1) Majma'-al-Bayan, vol. 10, p. 428
 
-

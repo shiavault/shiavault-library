@@ -3,18 +3,10 @@ Preface
 
 **In the Name of Allah, the All-beneficent, the All-merciful**
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> أَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ صَلَّى اللهُ عَلىٰ سَيِّدِنَا وَ نَبِيِّنَا مُحَمَّدٍ وَ آلِهِ
-الطَّاهِرِيْنَ وَ لَعْنَةُ اللهِ عَلىٰ أَعْدَائِهِمْ أَجْمَعِيْنَ
-  </p>
-</blockquote>
+> وَ صَلَّى اللهُ عَلىٰ سَيِّدِنَا وَ نَبِيِّنَا مُحَمَّدٍ وَ آلِهِ
+> الطَّاهِرِيْنَ وَ لَعْنَةُ اللهِ عَلىٰ أَعْدَائِهِمْ أَجْمَعِيْنَ
 
 **All praise is due to Allah, the Lord of the worlds, and may the
 blessings of Allah be upon our Master and Prophet, Muhammad, and his
@@ -140,5 +132,4 @@ but exaggerate in their beliefs about some prophets or Imams, e.g.,
 those who believe that an Imam is an incarnation of God. This is against
 the fundamental Islamic belief that God does not incarnate into anyone
 or any­thing. {Trans.}
-
 

@@ -187,4 +187,3 @@ should forsake material pleasures, which accord with his nature, for the
 sake of a goal? Or does Islam recommend no such renunciation, no matter
 what the goal may be?
 
-

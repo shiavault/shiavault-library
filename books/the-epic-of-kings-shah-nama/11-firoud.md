@@ -548,4 +548,3 @@ And Piran listened unto the words spoken of Afrasiyab, as it beseemed
 him. And when he was returned unto his kingdom, he set watchers upon all
 sides, that they might acquaint him concerning Rustem the Pehliva.
 
-

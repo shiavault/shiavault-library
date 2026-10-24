@@ -4,12 +4,8 @@ Section 12 : The Words of Allah Inexhaustible
 Surah Al-Kahf – Verse 102
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَحَسِبَ الَّذِينَ كَفَرُوا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي
-أَوْلِيَآءَ إِنَّا أَعْتَدْنَا جَهَنَّمَ لِلْكَافِرِينَ نُزُلاً
-  </p>
-</blockquote>
+> أَفَحَسِبَ الَّذِينَ كَفَرُوا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي
+> أَوْلِيَآءَ إِنَّا أَعْتَدْنَا جَهَنَّمَ لِلْكَافِرِينَ نُزُلاً
 
 ***102. “Do then those who disbelieve think that they can take My
 servants as guardians besides Me? Verily We have prepared Hell for the
@@ -40,18 +36,10 @@ For a further emphasis, at the end of the verse, the Qur’an says:
 Surah Al-Kahf – Verses 103 - 104
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ نُنَبّـِئُكُم بِالاَخْسَرِينَ أَعْمَالاً
-  </p>
-</blockquote>
+> قُلْ هَلْ نُنَبّـِئُكُم بِالاَخْسَرِينَ أَعْمَالاً
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ
-يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعاً
-  </p>
-</blockquote>
+> الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ
+> يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعاً
 
 ***103. “Say: ‘Shall We inform you of the greatest losers in (their)
 deeds?”***  
@@ -107,20 +95,12 @@ some innovations in religion while they were working good deeds. Then he
 Surah Al-Kahf – Verses 105 - 106
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ كَفَرُوا بَاَيَاتِ رَبّـِهِمْ وَلِقَآئِهِ
-فَحَبِطَتْ أَعْمَالُهُمْ فَلا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ
-وَزْناً
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ كَفَرُوا بَاَيَاتِ رَبّـِهِمْ وَلِقَآئِهِ
+> فَحَبِطَتْ أَعْمَالُهُمْ فَلا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ
+> وَزْناً
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا ءَايَاتِي
-وَرُسُلِي هُزُواً
-  </p>
-</blockquote>
+> ذَلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا ءَايَاتِي
+> وَرُسُلِي هُزُواً
 
 ***105. “They are those who disbelieved in the signs of their Lord and
 meeting Him (in Hereafter) so their deeds became null, and on the Day of
@@ -182,18 +162,10 @@ Signs and My messengers in mockery.”***
 Surah Al-Kahf – Verses 107 - 108
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ
-جَنَّاتُ الْفِرْدَوْسِ نُزُلاً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ
+> جَنَّاتُ الْفِرْدَوْسِ نُزُلاً
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فِيهَا لا يَبْغُونَ عَنْهَا حِوَلاً
-  </p>
-</blockquote>
+> خَالِدِينَ فِيهَا لا يَبْغُونَ عَنْهَا حِوَلاً
 
 ***107. “Verily those who believe and do righteous deeds there is for
 them Gardens of Paradise for their entertainment.”***  
@@ -236,13 +208,9 @@ The verse continues saying:
 Surah Al-Kahf – Verse 109
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّوْ كَانَ الْبَحْرُ مِدَاداً لِكَلِمَاتِ رَبّـِي لَنَفِدَ
-الْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَاتُ رَبّـِي وَلَوْ جِئْنَا
-بِمِثْلِهِ مَدَداً
-  </p>
-</blockquote>
+> قُل لَّوْ كَانَ الْبَحْرُ مِدَاداً لِكَلِمَاتِ رَبّـِي لَنَفِدَ
+> الْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَاتُ رَبّـِي وَلَوْ جِئْنَا
+> بِمِثْلِهِ مَدَداً
 
 ***109. “Say: ‘If the sea became ink for (writing) the Words of my Lord,
 the sea would certainly be exhausted before the Words of my Lord were
@@ -324,14 +292,10 @@ finite, nor does it cause to eternity.”*[^7]
 Surah Al-Kahf – Verse 110
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَآ أَنَاْ بَشَرٌ مِثْلُكُمْ يُوحَي إلَيَّ أَنَّمَآ
-إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَمَن كَانَ يَرْجُوا لِقَآءَ رَبّـِهِ
-فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلا يُشْرِكْ بِعِبَادَةِ رَبّـِهِ
-أَحَداً
-  </p>
-</blockquote>
+> قُلْ إِنَّمَآ أَنَاْ بَشَرٌ مِثْلُكُمْ يُوحَي إلَيَّ أَنَّمَآ
+> إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَمَن كَانَ يَرْجُوا لِقَآءَ رَبّـِهِ
+> فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلا يُشْرِكْ بِعِبَادَةِ رَبّـِهِ
+> أَحَداً
 
 ***110. “Say: ‘I am only a mortal like you. It is revealed unto me that
 your God is (only) One God. Therefore, whoever hopes to meet his Lord
@@ -513,5 +477,4 @@ vol.1, p. 369
 [^12]: Jami‘-i-‘Ahadith-ush-Shi‘ah, vol. 1, p. 368
 
 [^13]: Safinat-ul-Bihar, vol. 1, p. 499
-
 

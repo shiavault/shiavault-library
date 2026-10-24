@@ -305,7 +305,7 @@ universally accepted as genuine.
 We give below a gist of the event, for brevity’s sake, incorporating the
 salient features of the event:When the Prophet (s) was informed that he
 was to join the Lord soon, he wished to perform his last Hajj and left
-Medina on the 23<sup>rd</sup> February, 632 A.D. On learning this, the
+Medina on the 23rd February, 632 A.D. On learning this, the
 Muslims considering that it was probably their last opportunity to
 perform the Hajj alongside the Prophet (s) especially gathered in great
 numbers.

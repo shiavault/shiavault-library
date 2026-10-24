@@ -127,7 +127,6 @@ all Masoomeen (as) you must recognize each by those attributes which are
 associated with only that individual Masoom (as). Tauheed will also be
 recognized in the same way.
 
-
 **Marifat of Tauheed (recognition of Oneness)**
 
 It is quite clear that we will gain the marifat of Allah through His
@@ -218,5 +217,4 @@ manifested through His Wali e Muttaliq, Moula Ali (as).
 
 However in reality, Moula Ali (as) is not Allah. He is the Hujjat ul
 Allah (proof of Allah).
-
 

@@ -1,24 +1,20 @@
 Discourse 10: Characteristics of a Righteous Servant of Allah – Part II
 =======================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنَسِ ابْنِ مَالِكَ قَالَ: قَالُوا: يَا رَسُولَ اللٌّهِ، مَنْ
-أَوْلِـيَآءُ اللٌّهِ الَّـذِينَ )لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
-يَحْزَنُونَ(؟ فَقَالَ: أَلَّذِينَ نَظَرُوا إِلـى بَاطِنِ الدُّنْـيَا
-حِينَ نَظَرَ النَّاسُ إلِـى ظَاهِرِهَا، فَاهْتَمُّوا بِآجِـلِهَا حِينَ
-إِهْتَمَّ النَّاسُ بِعَاجِلِهَا، فَأَمَاتُوا مِنْهَا مَا خَشَوْا أَنْ
-يُمِيتَهُمْ، وَ تَرَكُوا مِنْهَا مَا عَلِمُوا أَنْ سَيَتْرُكَهُمْ
-فَمَا عَرَضَ لَهُمْ مِنْهَا عَارِضٌ إِلاَّ رَفَضُوهُ، وَ لاَ
-خَادَعَهُم مِنْ رِفْعَتِهَا خَادِعٌ إِلاَّ وَضَعُوهُ، خُلِقَتِ
-الدُّنْـيَا عِنْدَهُمْ فَمَا يُجَدِّدُونَهَا، وَ خَرِبَتْ بَيْنَهُم
-فَمَا يَعْمُرُونَهَا، وَ مَاتَتْ فِي صُدُورِهِمْ فَمَا يُحِبُّونَهَا،
-بَلْ يَهْدِمُونَهَا فَيَبْـنُونَ بِهَا آخِرَتَهُمْ، وَ يُـبَيِعُونَهَا
-فَيَشْتَرُونَ بِهَا مَا يَبْقى لَهُمْ، نَظَرُوا إِلـى أَهْلِهَا صَرْعى
-قَدْ حَلَّتْ بِهِمُ الْمُثَلاَتُ، فَمَا يَرَوْنَ أَمَاناً دُونَ مَا
-يَرْجُونَ، وَ لاَ خَوْفاً دُونَ مَا يَحْذَرُونََ.
-  </p>
-</blockquote>
+> عَنْ أَنَسِ ابْنِ مَالِكَ قَالَ: قَالُوا: يَا رَسُولَ اللٌّهِ، مَنْ
+> أَوْلِـيَآءُ اللٌّهِ الَّـذِينَ )لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
+> يَحْزَنُونَ(؟ فَقَالَ: أَلَّذِينَ نَظَرُوا إِلـى بَاطِنِ الدُّنْـيَا
+> حِينَ نَظَرَ النَّاسُ إلِـى ظَاهِرِهَا، فَاهْتَمُّوا بِآجِـلِهَا حِينَ
+> إِهْتَمَّ النَّاسُ بِعَاجِلِهَا، فَأَمَاتُوا مِنْهَا مَا خَشَوْا أَنْ
+> يُمِيتَهُمْ، وَ تَرَكُوا مِنْهَا مَا عَلِمُوا أَنْ سَيَتْرُكَهُمْ
+> فَمَا عَرَضَ لَهُمْ مِنْهَا عَارِضٌ إِلاَّ رَفَضُوهُ، وَ لاَ
+> خَادَعَهُم مِنْ رِفْعَتِهَا خَادِعٌ إِلاَّ وَضَعُوهُ، خُلِقَتِ
+> الدُّنْـيَا عِنْدَهُمْ فَمَا يُجَدِّدُونَهَا، وَ خَرِبَتْ بَيْنَهُم
+> فَمَا يَعْمُرُونَهَا، وَ مَاتَتْ فِي صُدُورِهِمْ فَمَا يُحِبُّونَهَا،
+> بَلْ يَهْدِمُونَهَا فَيَبْـنُونَ بِهَا آخِرَتَهُمْ، وَ يُـبَيِعُونَهَا
+> فَيَشْتَرُونَ بِهَا مَا يَبْقى لَهُمْ، نَظَرُوا إِلـى أَهْلِهَا صَرْعى
+> قَدْ حَلَّتْ بِهِمُ الْمُثَلاَتُ، فَمَا يَرَوْنَ أَمَاناً دُونَ مَا
+> يَرْجُونَ، وَ لاَ خَوْفاً دُونَ مَا يَحْذَرُونََ.
 
 It has been narrated from Anas b. Malik that, “We said, 'O' Messenger of
 Allah!  Who are the close, intimate friends of Allah who (Will have no
@@ -72,12 +68,8 @@ of the transient world.”
 In relation to those who worship this temporal world, the Noble Qur\`an
 mentions:
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ ظَاهِراً مِنَ الْحَيٌوةِ الدُّنْـيَا وَهُمْ عَنِ الآخِرَةِ
-هُمْ غَافِلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ ظَاهِراً مِنَ الْحَيٌوةِ الدُّنْـيَا وَهُمْ عَنِ الآخِرَةِ
+> هُمْ غَافِلُونَ
 
 “These people (who worship this material world) know the apparent
 aspects of the life of this world very well, however they are completely
@@ -94,14 +86,10 @@ The people who do not worship this temporal world look deep in their
 hearts and see the act of giving in charity in another way - just as the
 Noble Qur\`an mentions:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَـبِيلِ اللٌّهِ
-كَمَثَلِ حَبَّةٍ أَنْـبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْـبُلَةِ
-مِائَةُ حَبَّةٍ وَ اللٌّهُ يُضَاعِفُ لِمَنْ يَشَآءُ وَاللٌّهُ وَاسِعٌ
-عَليمٌ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَـبِيلِ اللٌّهِ
+> كَمَثَلِ حَبَّةٍ أَنْـبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْـبُلَةِ
+> مِائَةُ حَبَّةٍ وَ اللٌّهُ يُضَاعِفُ لِمَنْ يَشَآءُ وَاللٌّهُ وَاسِعٌ
+> عَليمٌ
 
 “The parable of those people who spend their wealth in the way of Allah
 is just as a grain which (is planted) and then grows seven ears. In each
@@ -118,12 +106,8 @@ decrease!”
 In regards to this, the Qur\`an brings forth a very interesting phrase
 and says:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحَقُ اللٌّهُ الرِّبوَا وَ يُرْبِي الصَّدَقَاتِ وَ اللٌّهُ لاَ
-يُحِبُّ كُلَّ كَفَّار أَثِيمٍ
-  </p>
-</blockquote>
+> يَمْحَقُ اللٌّهُ الرِّبوَا وَ يُرْبِي الصَّدَقَاتِ وَ اللٌّهُ لاَ
+> يُحِبُّ كُلَّ كَفَّار أَثِيمٍ
 
 “Allah removes all the good that comes from Riba (Interest) and makes
 charitable gifts (Sadaqah) prosper, and Allah does not love every
@@ -196,12 +180,8 @@ b. Abi Talib (as) struck such a blow with his sword that this act was
 referred to as being better than the worship of all of the Jinn and
 Mankind until the Day of Judgement. The Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ضَرْبَةُ عَلِيٍّ فِي يَوْمِ الْخَنْدَقِ أَفْضَلُ مِنْ عِبَادَةِ
-الثَّقَلَيْنِ.
-  </p>
-</blockquote>
+> ضَرْبَةُ عَلِيٍّ فِي يَوْمِ الْخَنْدَقِ أَفْضَلُ مِنْ عِبَادَةِ
+> الثَّقَلَيْنِ.
 
 “The striking of the sword of 'Ali on the day of Khandaq was better than
 the worship of all the Jinn and Mankind.”
@@ -211,11 +191,7 @@ manifestation of true belief (Iman) was face to face with the complete
 manifestation of disbelief (Kufr). In the book, Bihar al-Anwar, we read
 the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-بَرَزَ الإِيْمَانُ كُلُّهُ إِلَى الشِّرْكِ كُلِّهِ.
-  </p>
-</blockquote>
+> بَرَزَ الإِيْمَانُ كُلُّهُ إِلَى الشِّرْكِ كُلِّهِ.
 
 “The complete manifestation of true faith (Iman) was face to face with
 the complete manifestation of polytheism (Shirk).” [^6]
@@ -249,5 +225,4 @@ Section 80
 [^5]: Ibid., Verse 276
 
 [^6]: Bihar al-Anwar, vol. 17, pg. 215
-
 

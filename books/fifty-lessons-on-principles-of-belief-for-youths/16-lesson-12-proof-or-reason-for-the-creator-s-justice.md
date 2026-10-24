@@ -141,4 +141,3 @@ how does it negate oppression from Him?
 oppression?  
  5. Is it also a sin to submit to oppression?
 
-

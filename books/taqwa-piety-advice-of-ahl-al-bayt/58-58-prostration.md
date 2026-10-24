@@ -842,4 +842,3 @@ although what He deserves no one is able to accomplish.”
 
 [^78]: Qur'an, 34:13.
 
-

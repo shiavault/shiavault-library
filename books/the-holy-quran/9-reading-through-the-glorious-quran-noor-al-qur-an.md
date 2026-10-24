@@ -100,7 +100,6 @@ Al-Asas, As-Salat, and Al-Hamd. (6)
 not (the path) of those inflicted with Thy wrath, nor (of those) gone
 astray."
 
-
 --------------- pg 37 ---------------
 
 1. " In The Name of Allah, The Beneficent, The Merciful." Commentary
@@ -306,5 +305,4 @@ much the same as gravitational pull, and has the ability to draw hearts
 closer together, is the very Attribute of Mercy. This Attribute of Mercy
 is the very means by which men can attain a close relationship with the
 Creator, also.
-
 

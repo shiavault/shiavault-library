@@ -6,13 +6,9 @@ him there shall be twelve caliphs all of whom will be from Quraysh, and
 through whom Islam shall be exalted.  
  Jabir ibn Samurah narrates:
 
-<blockquote dir="rtl">
-  <p>
-"سمعت رسول الله صلى الله عليه وأله وسلم يقول : لا يزال الإسلام عزيزاً
-إلى اثنى عشر خليفة ثم قال كلمة لم أسمعها فقلت لأبي ما قال؟ فقال: كلهم
-من قريش."
-  </p>
-</blockquote>
+> "سمعت رسول الله صلى الله عليه وأله وسلم يقول : لا يزال الإسلام عزيزاً
+> إلى اثنى عشر خليفة ثم قال كلمة لم أسمعها فقلت لأبي ما قال؟ فقال: كلهم
+> من قريش."
 
 I heard the Messenger of Allah (S) saying: ‘Islam will keep its honor
 through twelve caliphs.’ Then, he said a statement which I failed to
@@ -87,5 +83,4 @@ most comprehensive of the four books.
 [^2]: Tabi‘un {‘Followers’ or ‘Successors’} refers to the second
 generation of Muslims who came after the Companions, who did not know
 the Prophet (S) but who knew his Companions. {Trans.}
-
 

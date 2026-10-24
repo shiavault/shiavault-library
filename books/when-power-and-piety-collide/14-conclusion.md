@@ -211,4 +211,3 @@ discussions remains open and is welcomed.
 
 [^2]: Sahih al-Bukhari, 6.320
 
-

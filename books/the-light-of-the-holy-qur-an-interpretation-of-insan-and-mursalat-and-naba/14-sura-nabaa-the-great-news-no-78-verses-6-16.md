@@ -23,7 +23,6 @@ Sura Nabaa (the Great News) No. 78 (verses 6-16)
 
 (16) وَجَنَّاتٍ أَلْفَافًا
 
-
 6. Have We not made the earth as a (wide) expanse?
 
 7. And the mountains as pegs
@@ -45,7 +44,6 @@ Sura Nabaa (the Great News) No. 78 (verses 6-16)
 15. That We may bring forth thereby grain and plants,
 
 16. And gardens of luxurious growth?
-
 
 **Commentary:**
 
@@ -414,7 +412,6 @@ availability of water.
 The beauty and the livelihood of nature is due to water, and the best
 commercial and economical trade routes, of the world, arc waterways.
 
-
 **Explanation:**
 
 The Relation Between These Verses and the Resurrection:
@@ -447,5 +444,4 @@ refer to the Resurrection. They illustrate the Hereafter and the life
 after death. Sura Fatir No. 35, verse 9 attests to this idea. It, after
 pointing to the revival of the dead lands by rain, says: ... even so
 (will be) the Resurrection!.
-
 

@@ -4,13 +4,9 @@ Section 13: To Keep up Covenants and Promises
 Surah An-Nahl – Verse 90
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَآءِ ذِي
-الْقُرْبَي وَيَنْهَي عَنِ الْفَحْشَآءِ وَالْمُنكَرِ وَالْبَغْيِ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَآءِ ذِي
+> الْقُرْبَي وَيَنْهَي عَنِ الْفَحْشَآءِ وَالْمُنكَرِ وَالْبَغْيِ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ***90. “Verily, Allah enjoins justice and kindness (to others) and
 giving (the right of) the kindred, and forbids lewdness, and evil and
@@ -131,13 +127,9 @@ regarding sins, the ultimate criterion for differentiating ‘right’ from
 Surah An-Nahl – Verse 91
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدتُّمْ وَلاَ تَنقُضُوا
-الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ
-كَفِيلاً إِنَّ اللَّهَ يَعْلَمُ مَاتَفْعَلُونَ
-  </p>
-</blockquote>
+> وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدتُّمْ وَلاَ تَنقُضُوا
+> الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ
+> كَفِيلاً إِنَّ اللَّهَ يَعْلَمُ مَاتَفْعَلُونَ
 
 ***91. “And fulfill you the covenant of Allah, when you make covenant,
 and do not break the oaths after making them fast, for you have
@@ -189,15 +181,11 @@ Allah and by swearing His name, is included in this statement.
 Surah An-Nahl – Verse 92
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ
-أَنكَاثاً تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلاً بَيْنَكُمْ أَن تَكُونَ
-اُمَّةٌ هِيَ أَرْبَي مِنْ اُمَّةٍ إِنَّما يَبْلُوكُمُ اللَّهُ بِهِ
-وَلَيُبَيّـِنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنتُمْ فِيهِ
-تَخْتَلِفُونَ
-  </p>
-</blockquote>
+> وَلاَ تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ
+> أَنكَاثاً تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلاً بَيْنَكُمْ أَن تَكُونَ
+> اُمَّةٌ هِيَ أَرْبَي مِنْ اُمَّةٍ إِنَّما يَبْلُوكُمُ اللَّهُ بِهِ
+> وَلَيُبَيّـِنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنتُمْ فِيهِ
+> تَخْتَلِفُونَ
 
 ***92. “And do not be like the woman who unravels her yarn,
 disintegrating it into pieces after having spun it tightly, by taking
@@ -260,13 +248,9 @@ lead one to be virtuous and pay attention to whatever he has pledged.
 Surah An-Nahl – Verse 93
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَآءَ اللَّهُ لَجَعَلَكُمْ اُمَّةً وَاحِدَةً وَلَكِن يُضِلُّ
-مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَلَتُسْاَلُنَّ عَمَّا كُنتُم
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَوْ شَآءَ اللَّهُ لَجَعَلَكُمْ اُمَّةً وَاحِدَةً وَلَكِن يُضِلُّ
+> مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَلَتُسْاَلُنَّ عَمَّا كُنتُم
+> تَعْمَلُونَ
 
 ***93. “And if Allah had willed, He would have made you (all) one
 nation; but He leaves straying whom He pleases, and He guides whom He
@@ -302,13 +286,9 @@ of treatment and programs only include leaving people free.
 Surah An-Nahl – Verse 94
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَتَّخِذُوا أَيْمَانَكُمْ دَخَلاً بَيْنَكُمْ فَتَزِلَّ قَدَمٌ
-بَعْدَ ثُبُوتِهَا وَتَذُوقُوا السُّوءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ
-اللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَلاَ تَتَّخِذُوا أَيْمَانَكُمْ دَخَلاً بَيْنَكُمْ فَتَزِلَّ قَدَمٌ
+> بَعْدَ ثُبُوتِهَا وَتَذُوقُوا السُّوءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ
+> اللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ
 
 ***94. “And do not make your oaths a means of deceit among you, lest any
 foot might slip after its stability and you should taste evil for that
@@ -426,12 +406,8 @@ weakness, inability and his self-annihilation.
 Surah An-Nahl – Verse 95
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَناً قَلِيلاً إِنَّمَا عِندَ
-اللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَلاَ تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَناً قَلِيلاً إِنَّمَا عِندَ
+> اللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
 ***95. “And do not sell Allah’s covenant for a meagre price; for verily
 that which is with Allah is better for you, if you only know.”***
@@ -497,12 +473,8 @@ know.”***
 Surah An-Nahl – Verse 96
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا عِندَكُمْ يَنفَدُ وَمَا عِندَ اللَّهِ بَاقٍ وَلَنَجْزِيَنَّ
-الَّذِينَ صَبَرُوا أَجْرَهُم بِاَحْسَنِ مَا كَانُو يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَا عِندَكُمْ يَنفَدُ وَمَا عِندَ اللَّهِ بَاقٍ وَلَنَجْزِيَنَّ
+> الَّذِينَ صَبَرُوا أَجْرَهُم بِاَحْسَنِ مَا كَانُو يَعْمَلُونَ
 
 ***96. “What is with you comes to an end, and what is with Allah will
 endure, and certainly We will pay those who were (patiently) steadfast a
@@ -546,13 +518,9 @@ accordingly which case is the utmost kind of generosity on His part.
 Surah An-Nahl – Verse 97
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحاً مِن ذَكَرٍ أَوْ اُنثَي وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيّـِبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُم
-بِاَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحاً مِن ذَكَرٍ أَوْ اُنثَي وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيّـِبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُم
+> بِاَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***97. “Whoever does a righteous deed, whether male or female, and is a
 believer, We shall certainly give him to live a goodly pure life and,
@@ -595,12 +563,8 @@ without good deeds is just regarded as dead.
 Surah An-Nahl – Verse 98
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِذَا قَرَأْتَ الْقُرْءَانَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ
-الرَّجِيمِ
-  </p>
-</blockquote>
+> فإِذَا قَرَأْتَ الْقُرْءَانَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ
+> الرَّجِيمِ
 
 ***98. “So when you recite the Qur’an, seek refuge with Allah from (the
 vices of) the Satan, the accursed.”***
@@ -686,12 +650,8 @@ times.
 Surah An-Nahl – Verse 99
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَي الَّذِينَ ءَامَنُوا وَعَلَي
-رَبّـِهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَي الَّذِينَ ءَامَنُوا وَعَلَي
+> رَبّـِهِمْ يَتَوَكَّلُونَ
 
 ***99. “Verily, there is no authority for him over those who believe and
 rely on their Lord.”***
@@ -721,12 +681,8 @@ independent.”*[^9]
 Surah An-Nahl – Verse 100
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا سُلْطَانُهُ عَلَي الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم
-بِهِ مُشْرِكُونَ
-  </p>
-</blockquote>
+> إِنَّمَا سُلْطَانُهُ عَلَي الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم
+> بِهِ مُشْرِكُونَ
 
 ***100. “His authority is only over those who befriend him, (following
 him), and those who associate others with Him.”***
@@ -768,5 +724,4 @@ Atyab-ul-Bayan
 [^8]: Tafsir-i-Kanz-ud-Daqa’iq
 
 [^9]: Mu‘jam Qurar, vol. 3, p. 3167
-
 

@@ -28,9 +28,7 @@ a strange thing! O sister of Aaron! Your father was not a bad man, nor
 was your mother unchaste! But she pointed to him. They said: How should
 we speak to one
 
-
 (52)
-
 
 who is a child in the cradle? He [Jesus] said: Surely I am a servant of
 Allah; He has given me the Book and made me a prophet, and He has made
@@ -39,7 +37,6 @@ zakat as long as I live, and dutiful to my mother, and He has not made
 me insolent, unblessed. And peace be on me the day I was born, the day I
 die, and the day I am raised (back) to life. Such is Jesus son of Mary;
 (this is) the saying of truth about which they dispute. (19:16-34)
-
 
 Prophets' biographers have said that when three days had passed since
 Mary was pregnant with Jesus, she was either thirteen or fifteen years
@@ -418,5 +415,4 @@ mim [the \`m' in Bismillah] means Mamlakatullah (the Kingdom of Allah,
 the Exalted, the Sublime),'“ and Allah knows best.
 word “Paradise” (firdaws) is also a loan word, some say from Persian,
 others from Babylonian.
-
 

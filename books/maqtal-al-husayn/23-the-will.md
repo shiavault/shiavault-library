@@ -106,4 +106,3 @@ objective.
 [^2]: Excerpted from a poem by the authority Shaikh Muhammad Husayn
 al-Isfahani, may Allah sanctify him.
 
-

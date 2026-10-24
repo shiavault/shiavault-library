@@ -18,4 +18,3 @@ For example: **یَکُونُ یَندَمُ** (he is repenting, he is)
 31. The imperative is a form of the verb that indicates a demand of a
 state or action in the future. For example: **کُن اندَم** (repent, be)
 
-

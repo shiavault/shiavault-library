@@ -267,4 +267,3 @@ martyred in Muharram that was the 11th month of the year 60 A.H.; by the
 later reckoning, the same Muharram was the 1st month of the year 61
 A.H.
 
-

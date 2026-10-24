@@ -131,4 +131,3 @@ the Head of the State, or from his recognition and approval of a custom,
 or whatever. All of this stamps the economic system with its own Islamic
 stamp.
 
-

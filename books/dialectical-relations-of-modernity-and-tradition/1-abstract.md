@@ -37,4 +37,3 @@ changes itself.
 Key words:**revivalism, Muhammadiyah, history, spirituality,
 materialism.**
 
-

@@ -23,4 +23,3 @@ from Karbala’, was the occasion of the tragedy of Karbala’. And now Kufa
 is nearly gone, and Karbala’ remains as the lasting memorial of the
 martyrdom.
 
-

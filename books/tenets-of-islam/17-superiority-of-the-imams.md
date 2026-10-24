@@ -9,4 +9,3 @@ traditional standards.
 The excellence of our Imams is well known. Their superiority is clearer
 than daylight and surer than the day which has passed.
 
-

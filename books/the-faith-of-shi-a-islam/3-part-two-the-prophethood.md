@@ -28,7 +28,6 @@ sends as guides, bringers of good tidings and warners of what is to
 come, nor over that which they bring, i.e. the commandments and
 religious laws.
 
-
 **14. Prophecy is from Divine Grace (lutf)
 **
 Man is a changeable creature, a complex structure containing his being,
@@ -119,7 +118,6 @@ separated from Him, in the same way as we say that His Existence is
 inherent in Him, or that He is Necessarily Existent, i.e. His Existence
 is co-existent (with Him) and cannot be separated (from Him).
 
-
 **15. Doctrine of Prophetic Miracles
 **
 We believe that when Allah appoints someone as a leader and a messenger
@@ -175,7 +173,6 @@ and that Muhammad (S.A.) brought it with him calling the people to his
 message. So we know that he is Allah's messenger, and that he brought
 the truth.
 
-
 **16. Doctrine of the Infallibility of the Prophets
 **
 We believe that all the prophets are infallible, and also that the
@@ -208,7 +205,6 @@ because we believe that the Imam is appointed by Allah as the Prophet's
 representative (khalifah) to guide mankind. This will be explained in
 the section on the Imamate.
 
-
 **17. Doctrine of the Attributes of the Prophet
 **
 Just as we believe in a prophet's infallibility, so also we believe
@@ -222,7 +218,6 @@ He must also be of good descendency, honest, truthful and free from all
 vices, from before the beginning of his prophecy as well, so that people
 can trust in him and so that he may deserves this great, Divinely-given
 position.
-
 
 **18. Doctrine of the Prophets and their Books
 **
@@ -246,7 +241,6 @@ confused by their own desires and by covetousness have changed them by
 adding to them, so that most of them, or all of them, were compiled
 after their time by some of the followers of the prophets Musa and 'Isa
 (A.S.).
-
 
 **19. Doctrine of Belief In Islam
 **
@@ -340,7 +334,6 @@ mankind and rescue them from complete corruption, continual oppression
 and enmity, and contempt for morality and human life. May Allah hasten
 his reappearance.
 
-
 **20. Doctrine of the Lawgiver of Islam
 **
 We believe that the message of Islam is contained in the person of
@@ -350,7 +343,6 @@ as he is at the apex of all humanity, and none can compare with him in
 excellence and grace, generosity and intellect, and no-one can approach
 him in his virtuousness. Verily he has a lofty moral behaviour, and
 no-one will be like him up to the Day of Judgement
-
 
 **21. Belief in the Qur'an
 **
@@ -395,7 +387,6 @@ in a filthy place. If someone intentionally does any of these things or
 anything similar, he is not a believer in the Qur'an and its sanctity,
 and he is considered to be an unbeliever. In fact he has rejected the
 Lord of all the worlds.
-
 
 **22. The Proof of Islam and the Previous Religions
 **

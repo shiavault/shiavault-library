@@ -64,21 +64,15 @@ Some verses of the Qur’an show some of man's psychological elements and
 positive and negative aspects, not the nature and identity of man. A few
 of such verses are:
 
-<p dir="rtl">
 خلق الانسان ضعيفا
-</p>
 
 ***“Man was created a weakling.”(4:28)***
 
-<p dir="rtl">
 خلق الانسان من عجل
-</p>
 
 ***“Man was created of haste.” (21:37)***
 
-<p dir="rtl">
 ان الانسان خلق هلوعا اذا مسه الشر جزوعا و اذا مسه الخير منوعا
-</p>
 
 ***“Surely man was created fretful; when evil visits him, impatient,
 when good visits him, grudging.” (70:19-21)***
@@ -92,9 +86,7 @@ he can show. If the Qur’an did explain the elements of man's
 congeniality and nature, it would not need to mention some exceptional
 human beings or condemn others.
 
-<p dir="rtl">
 والعصر ان الانسان لفی خسر الا الذين امنو و عملوا الصالحات
-</p>
 
 ***“By the afternoon! Surely man is in the way of loss, save those who
 believe and do righteous deeds.” (103:1-3)***
@@ -107,9 +99,7 @@ considered a part of human nature. Furthermore, the following verse
 cautions man for his haste, so if it were all or part of his innate
 nature, it would be impossible for him to give it up.
 
-<p dir="rtl">
 خلق الانسان من عجل ساريکم اياتی فلا تستعجلون
-</p>
 
 ***“Man was created of haste. Assuredly I shall show you My signs; so
 demand not that I make haste.” (21:37)***
@@ -261,19 +251,15 @@ pre-defined grounds of an unhealthy society, he can keep it pure and
 original. These verses from the Holy Qur’an imply the existence of the
 human nature:
 
-<p dir="rtl">
 فاقم وجهک للدين حنيفا فطرﺓ الله التی فطر الناس عليها لا تبديل لخلق
 الله ذلک الدين القيم و لکن اکثر الناس لايعلمون
-</p>
 
 ***“So set thy face to the religion, a man of pure faith - God's
 original upon which He originated mankind. There is no changing in God's
 creation. That is the right religion—but most people know it not.”
 (30:30)***
 
-<p dir="rtl">
 صبغة الله و من احسن من الله صبغة
-</p>
 
 ***“Having faith in God, and submitting to God's will on the way to
 development and perfection is in fact being colored by God - and who can
@@ -454,29 +440,17 @@ b) “Length” selves: Since birth, man develops both from a physical,
 natural point of view, and the development and perfection of his “self.”
 As Jalal-addin Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 از جمــادی مـُـردم و نامــی شدم وز نمــا مُردم ز حيـــوان ســر زدم
-</p>
 
-<p dir="rtl">
 مـُـردم از حيوانی و آدم شـــدم پس چه ترسم؟ کی ز مردنکم شدم
-</p>
 
-<p dir="rtl">
 حملة ديگــــر بميــرم از بشــر تا بـــر آرم از ملايک بـــال و پـــر
-</p>
 
-<p dir="rtl">
 وز ملک هم بايــدم جستــن ز جو کلّ شـــــــی هالـــک الّا وجهــه
-</p>
 
-<p dir="rtl">
 بار ديگر از ملک پــرّان شــــوم آنچـه آن در وهــم نايــد، آن شوم
-</p>
 
-<p dir="rtl">
 پس عدم گردم، عدم چون ارغنون گويــدم کانّا اليــــه راجعـــــون
-</p>
 
 *(Apparently, I stopped being like an animal; it seemed that sort of
 life died in me. But that death elevated me to higher states of human
@@ -728,17 +702,11 @@ will suffer from if he cannot manage his potentials and advantages. In
 fact, several factors make him escape his potentials, and become
 self-alienated. As Jalal-addin Muhammad Molawi says:
 
-<p dir="rtl">
 جملــه عالم ز اختيار و هست خــود می گريزند در سر سرمست خــود
-</p>
 
-<p dir="rtl">
 تا دمـــی از هوشيــاری وارهـنــد ننگ خمر و بنگ بر خود می نهند
-</p>
 
-<p dir="rtl">
 مي گريزنـد از خودی در بيخــودی يا به مستی يا به شغل ای مهتــدی
-</p>
 
 *(People are running away from their own existence, their own free will…
 but where to? To stupefying infatuations that will take them far away
@@ -904,9 +872,7 @@ responsibility concerning his involuntary inabilities.
 2- The shortcomings caused by emergent ignorance: Man never knows what
 kind of spiritual or mental state he will be in the next moment.
 
-<p dir="rtl">
 ای برادر عقل يک دم با خود آر دم‌به‌دم در تو خزان است و بهار
-</p>
 
 *(Do thought and intuition inside Yourself, and you will find that
 various states and moods Keep arising in you. Indeed, springs and
@@ -981,9 +947,7 @@ toward perfection. Such rivalry is quite approvable, even reiterated.
 Many verses of the Qur’an emphasize the importance of competing with
 others in good deeds:
 
-<p dir="rtl">
 و لکل وجهة هو موليها فاستبقوا الخيرات
-</p>
 
 ***“And for every nation there is an end, a goal in life; so, what
 matters is to be ahead of others in good deeds.” (2: 147)***
@@ -1264,9 +1228,7 @@ The Relationship between Recognizing Oneself and Recognizing God
 
 The Holy Prophet of Islam has said,
 
-<p dir="rtl">
 من عرف نفسه فقد عرفه ربه
-</p>
 
 *“Know yourself, and you will know your God.”*
 
@@ -1572,25 +1534,15 @@ The moderation man achieves through development and perfection is true
 moderation, and he will see every event and moment of the universe as
 new. As Jalal-addin Muhammad Molawi says:
 
-<p dir="rtl">
 تازه می گير و کهـن را مي سپـار که هر امسالت فزون است از سه پار
-</p>
 
-<p dir="rtl">
 جان فشان ای آفتـاب معنـوی مر جهان کهنه را بنمــــا نوی
-</p>
 
-<p dir="rtl">
 اي جهان کهنه را تـو جان نـو از تن بي جان و دل افغان شنو
-</p>
 
-<p dir="rtl">
 گرچه هر قرنی سخـن نـو آورد ليک گفت سالفــان يــاری کند
-</p>
 
-<p dir="rtl">
 تا نزايد بخت تـو فرزنـد نو خون نگردد شير شيرين، خوش شنو
-</p>
 
 *Don't let yourself get stuck in the past and the old; remember that
 your current year is worth more than your last three years altogether.
@@ -1901,5 +1853,4 @@ some others have a dynamically progressive psyche, and try to avoid
 self-obsession, and save themselves from nihilism? There is no
 distinction between a stagnant soul and a dynamic one in this
 psychology; both are treated as equal.
-
 

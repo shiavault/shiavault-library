@@ -40,4 +40,3 @@ does this have?
 Answer: There is no problem in it if there is no harm which needs to be
 adhered to.
 
-

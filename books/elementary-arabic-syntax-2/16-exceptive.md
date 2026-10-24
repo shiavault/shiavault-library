@@ -49,4 +49,3 @@ for example:
 the objective compliment, for example: **نجح الطلابُ ما عدا الکسلانَ** .
 they are always verbs if preceded by a infinitive *mā*.
 
-

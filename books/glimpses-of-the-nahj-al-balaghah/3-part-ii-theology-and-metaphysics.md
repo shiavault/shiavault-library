@@ -630,4 +630,3 @@ have forever remained uninterpreted.
 After these brief introductory remarks on the value of these issues, we
 shall go on to cite some relevant examples from the Nahj al-balaghah.
 
-

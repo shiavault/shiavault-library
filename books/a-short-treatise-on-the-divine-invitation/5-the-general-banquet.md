@@ -8,12 +8,8 @@ Therefore, he always enjoys from the provisions of the All-Merciful.
  The Holy Prophet (s) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-...إِنَّ مَنْ فِي الدُّنْـيَا ضَيْفٌ، وَمَا فِي أَيْدِيهِمْ
-عَارِيَةٌ...
-  </p>
-</blockquote>
+> ...إِنَّ مَنْ فِي الدُّنْـيَا ضَيْفٌ، وَمَا فِي أَيْدِيهِمْ
+> عَارِيَةٌ...
 
 “…Surely the inhabitants of the earth are guests and whatever they have
 at their disposal are loans…[^1]”
@@ -22,12 +18,8 @@ Similarly, Imām ‘Alī (‘a) says in one of his sermons:
 
  
 
-<blockquote dir="rtl">
-  <p>
-عِبَادَ اللٌّهِ إِنَّكُمْ وَمَا تَأْمُلُونَ- مِنْ هٌذِهِ الدُّنْـيَا
-أَثْوِيَاءُ مُؤَجَّلُونَ.
-  </p>
-</blockquote>
+> عِبَادَ اللٌّهِ إِنَّكُمْ وَمَا تَأْمُلُونَ- مِنْ هٌذِهِ الدُّنْـيَا
+> أَثْوِيَاءُ مُؤَجَّلُونَ.
 
 “O servants of Allāh, surely your beings and what you aspire from this
 world are guests (*athwiyā’*)[^2] for whom a time for departure has been
@@ -38,13 +30,9 @@ Allāh (SwT).  Appreciating this, al-Bayātī in his *Adab al-Diyāfah*
 says:  
   
 
-<blockquote dir="rtl">
-  <p>
-ألضيافة في الدين خُلق من أخلاق الله سبحانه وتعالى الذي استضاف مخلوقاته
-في عالم الوجود بالمعنى الواسع للكلمة.  وهو يستضيف عباده كل يوم في
-مملكته.  ويدعوهم إلى طيب أرزاقه...
-  </p>
-</blockquote>
+> ألضيافة في الدين خُلق من أخلاق الله سبحانه وتعالى الذي استضاف مخلوقاته
+> في عالم الوجود بالمعنى الواسع للكلمة.  وهو يستضيف عباده كل يوم في
+> مملكته.  ويدعوهم إلى طيب أرزاقه...
 
 “Inviting a guest in religion is a trait among the traits of Allāh, the
 Immaculate and Exalted, Who entertains His creatures in the world of
@@ -57,11 +45,7 @@ All-comprehensive Mercy (*al-Rahmah al-Rahmāniyyah*), about which the
 Holy Qur’ān says:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ
-  </p>
-</blockquote>
+> وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ
 
 “***…but My mercy embraces all things…***”[^5]
 
@@ -75,5 +59,4 @@ Holy Qur’ān says:
 [^4]: Adab al-Siyāfah, pg. 13.
 
 [^5]: Holy Qur’ān, 7:156.
-
 

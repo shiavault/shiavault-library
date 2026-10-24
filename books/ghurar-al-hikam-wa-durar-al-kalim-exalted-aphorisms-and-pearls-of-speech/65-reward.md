@@ -7,11 +7,7 @@ Reward
 Allah is the pinnacle of success.
 
 > 1ـ اِكْتِسابُ الثَّوابِ أفْضلُ الأرْباحِ، والإقْبالُ عَلَى اللّهِ
-<blockquote dir="rtl">
-  <p>
-رَأسُ النَّجاحِ.
-  </p>
-</blockquote>
+> رَأسُ النَّجاحِ.
 
 2. Reward is gained in proportion to the difficulty endured.
 
@@ -25,5 +21,4 @@ Allah is the pinnacle of success.
 deeds].
 
 > 4ـ لاذُخْرَ كالثَّوابِ.
-
 

@@ -1028,4 +1028,3 @@ in the British Museum Library and has been edited by N. A. F. Mehren
 [^5]: Khalifah Abdul Hakim, The Metaphysics of Rumi, Institute of
 Islamic Cluture, Lahore, 1959, pp. 44 – 45.
 
-

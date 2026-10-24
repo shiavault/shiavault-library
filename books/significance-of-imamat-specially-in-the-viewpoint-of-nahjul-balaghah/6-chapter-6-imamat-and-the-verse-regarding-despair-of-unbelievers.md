@@ -770,4 +770,3 @@ their meanings have been distorted. If these missing parts were added to
 these sentences, they would have quite a different significance.
 Furthermore, no Imam is present, regarding which there is no dispute.
 
-

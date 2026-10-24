@@ -361,4 +361,3 @@ And in other words, excessive demands of humans can be saturated with
 spiritual matters, which are unlimited, and that contradiction, which
 was the main reason of war and oppression, will be removed.
 
-

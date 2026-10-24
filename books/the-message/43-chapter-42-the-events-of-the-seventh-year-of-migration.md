@@ -1119,4 +1119,3 @@ page 382.
 [^28]: Tarikh-i Kamil, vol. II, page 83; Tabaqat-i Kubra, vol. I, page
 262.
 
-

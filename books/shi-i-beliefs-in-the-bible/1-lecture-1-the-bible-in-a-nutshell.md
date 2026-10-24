@@ -254,4 +254,3 @@ capable of being established on the basis of proof texts as any
 tradition that has ever appealed to texts as evidence of its system of
 doctrine and practice.
 
-

@@ -62,94 +62,58 @@ of theology and similarly the issues of prophecy are based on it.
 
 Among the verses related to *bada’* are;
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ اَهْلَ القُرى آمَنُوا وَاتَّقَوا لَفَتَحْنَا عَلَيْهِمْ
-بَرَكَاتِ مِّنَ السَّمَاءِ وَالأَرْضِ وَلَكِنَ كَذَّبُوا
-فَأَخَذْنَاهُمْ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ اَهْلَ القُرى آمَنُوا وَاتَّقَوا لَفَتَحْنَا عَلَيْهِمْ
+> بَرَكَاتِ مِّنَ السَّمَاءِ وَالأَرْضِ وَلَكِنَ كَذَّبُوا
+> فَأَخَذْنَاهُمْ بِمَا كَانُوا يَكْسِبُونَ
 
 ***“Were the inhabitants of the cities to believe and adopt piety, We
 would open them blessings from the sky and the earth; yet they denied
 (the truth), so We requited them what they had earned.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيِدِي
-النَّاسِ
-  </p>
-</blockquote>
+> ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيِدِي
+> النَّاسِ
 
 ***“Corruption has manifested in the land and in the sea on account of
 what the hands of the people have earned.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمْ اُدْعُونِي أَسْتَجِبْ لَكُمْ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمْ اُدْعُونِي أَسْتَجِبْ لَكُمْ
 
 ***“Your Lord has said, Call on Me that I may answer you.”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-اَسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّاراً يُرْسِلُ السَّمَاءَ
-عَلَيْكُمْ مِدْرَاراً
-  </p>
-</blockquote>
+> اَسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّاراً يُرْسِلُ السَّمَاءَ
+> عَلَيْكُمْ مِدْرَاراً
 
 ***“Seek forgiveness from your Lord, since He is Ever-Forgiving; He
 constantly sends rain upon you from the sky.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-وَوَاعَدْنَا مُوْسَى ثَلَثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
-  </p>
-</blockquote>
+> وَوَاعَدْنَا مُوْسَى ثَلَثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
 
 ***“We covenanted Musa*** ***thirty nights, then completed them with ten
 (nights more).”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلاَ كَانَتْ قَرْيَةٍ آمَنَتْ فَنَفْعِهَا إِيْمَانُهَا إِلاَّ
-قَوْمُ يُوْنُسٍ لَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ
-فِي الْحَيَاةِ الدُّنْيَا وَمَتَعْنَاهُمْ إِلى حِيَن
-  </p>
-</blockquote>
+> فَلَوْلاَ كَانَتْ قَرْيَةٍ آمَنَتْ فَنَفْعِهَا إِيْمَانُهَا إِلاَّ
+> قَوْمُ يُوْنُسٍ لَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ
+> فِي الْحَيَاةِ الدُّنْيَا وَمَتَعْنَاهُمْ إِلى حِيَن
 
 ***“So why did not one of the cities believe that its belief might
 benefit it except the people of Yunus; when they believed we remove from
 them the debasing punishment in this world and cause them to enjoy until
 a specified time.”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ شَكَرْتُمْ لأَزِيدِنَّكُمْ
-  </p>
-</blockquote>
+> لَئِنْ شَكَرْتُمْ لأَزِيدِنَّكُمْ
 
 ***“Verily, if you be grateful, I shall increase you (in
 blessings).”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً وَيَرْزُقْهُ مِنْ حَيْثُ
-لاَ يَحْتَسِبُ
-  </p>
-</blockquote>
+> وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً وَيَرْزُقْهُ مِنْ حَيْثُ
+> لاَ يَحْتَسِبُ
 
 ***“Whoever adopts piety with regard to Allah, He creates for him an
 escape (from difficulty) and grants him sustenance whence he does not
 expect.***”[^8]
 
-<blockquote dir="rtl">
-  <p>
-ذَالِكَ بِأَنَّ اللهَ لَمْ يَكُ مُغَيِّراً نِعْمَةٍ أَنْعَمَهَا عَلَى
-قَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِم
-  </p>
-</blockquote>
+> ذَالِكَ بِأَنَّ اللهَ لَمْ يَكُ مُغَيِّراً نِعْمَةٍ أَنْعَمَهَا عَلَى
+> قَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِم
 
 ***“That is because Allah does not change any blessing He had granted
 unto a people until they change what is in themselves.”***[^9]
@@ -189,11 +153,7 @@ choice, they occur through the will of Allah and His decree. That is,
 neither compulsion (*jabr*) is involved, nor delegation (*tafwid*);
 rather it is a reality between the two:
 
-<blockquote dir="rtl">
-  <p>
-لاَ جَبْرَ وَلاَ تَفْوِيضَ بَلْ أَمْرَ بَيْنَ الأَمْرَينِ.
-  </p>
-</blockquote>
+> لاَ جَبْرَ وَلاَ تَفْوِيضَ بَلْ أَمْرَ بَيْنَ الأَمْرَينِ.
 
 *“Neither compulsion (jabr) nor delegation (tafwid), but a matter
 between the two ideas.”*[^10]
@@ -222,13 +182,9 @@ In summary, the concept of *bada’* is the same concept that is well
 understood from this verse of Qur’an in which Allah the Exalted refutes
 the false belief of the Jews:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ يَدُ اللهِ مَغْلُوْلَةً غُلَّتْ أَيْدِيهِمِ
-وَلُعِنُوا بِمَا قَالُوا بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنْفِقُ كَيْفَ
-يَشَاءُ
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ يَدُ اللهِ مَغْلُوْلَةً غُلَّتْ أَيْدِيهِمِ
+> وَلُعِنُوا بِمَا قَالُوا بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنْفِقُ كَيْفَ
+> يَشَاءُ
 
 ***“And the Jews said, Allah’s hand is fettered, may their hands be
 fettered and they be cursed on account of what they said. Rather His
@@ -261,11 +217,7 @@ to relatives, which has been decreed as a factor in lengthening one’s
 life overcomes all other factors and as a result a person’s life is
 lengthened. Thus, it has come in a tradition:
 
-<blockquote dir="rtl">
-  <p>
-صِلَّةُ الرَّحْمِ تُزِيدُ فِي الْعُمْرِ وَتُدْفَعُ مِيْتَةَ السُّوْءِ.
-  </p>
-</blockquote>
+> صِلَّةُ الرَّحْمِ تُزِيدُ فِي الْعُمْرِ وَتُدْفَعُ مِيْتَةَ السُّوْءِ.
 
 *“Kindness to relatives lengthens the life and repels the difficulties
 of death”*[^12]
@@ -301,11 +253,7 @@ Perhaps the meaning is that decrees are not definite; it is only through
 the will of Allah that these decrees are effaced or affirmed, and
 without that no decree comes to fruition. And the meaning of:
 
-<blockquote dir="rtl">
-  <p>
-وَعِنْدَهُ أُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> وَعِنْدَهُ أُمُّ الْكِتَابِ
 
 ***“And with Him is the ‘Mother of the Book’*** [^14]
 
@@ -327,13 +275,9 @@ bring about that matter through other means.
 In short, unlike the Jews, he should not consider Allah’s hands to be
 tied, and should believe in the great truth of Divine unity that:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ الَّلهُمَّ مَالِكُ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ
-وَتُنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ
-مَنْ تَشَاءُ بِيَدِكَ الْخَيْرَ إِنَّكَ عَلَى كُلِّ شَيءٍ قَدِيرِ.
-  </p>
-</blockquote>
+> قُلِ الَّلهُمَّ مَالِكُ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ
+> وَتُنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ
+> مَنْ تَشَاءُ بِيَدِكَ الْخَيْرَ إِنَّكَ عَلَى كُلِّ شَيءٍ قَدِيرِ.
 
  ***“Say: O’ Allah, Master of the Kingdom, You grant the kingdom to
 whomsoever You please and remove it from whomsoever You please; You make
@@ -352,13 +296,9 @@ sense through belief in *bada’*.
 
 And as Allah says in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابَ للهِ أَوْ أَتَتْكُمِ
-السَّاعَةَ أَغَيْرَ اللهِ تَدْعُونَ إِنْ كُنْتُمْ صَادِقِينَ بَلْ
-إِيَّاهُ تَدْعُونَ.
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابَ للهِ أَوْ أَتَتْكُمِ
+> السَّاعَةَ أَغَيْرَ اللهِ تَدْعُونَ إِنْ كُنْتُمْ صَادِقِينَ بَلْ
+> إِيَّاهُ تَدْعُونَ.
 
 **“Say: Do you think that if Allah’s punishment come to you or the Hour
 (of Resurrection) come, that you will call upon other than Allah, if you
@@ -367,11 +307,7 @@ be truthful; rather Him alone will you call.”**[^16]
 Based on this importance which belief in *bada’* has in worshipping
 Allah and paying attention to Him, it has come in Shi‘a traditions that:
 
-<blockquote dir="rtl">
-  <p>
-مَا عُبِدَ اللهَ بِشَيْءٍ مِثْلُ الْبَدَاءِ
-  </p>
-</blockquote>
+> مَا عُبِدَ اللهَ بِشَيْءٍ مِثْلُ الْبَدَاءِ
 
 *“Allah has not been worshipped by anything like belief in bada’*”[^17]
 
@@ -509,11 +445,7 @@ year?
 
 He said, Yes, Amr. After every trial there is deliverance and ease.
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُو اللهَ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> يَمْحُو اللهَ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ
 
 ***“Allah effaces whatsoever He pleases and affirms, and with Him is the
 Mother of the Book.*****”**[^18]  
@@ -521,11 +453,7 @@ Mother of the Book.*****”**[^18]
 Imam of the Time (may Allah hasten his return); rather it gives
 information about a Divine custom,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَعَ الْعُسْرِ يُسْراً
-  </p>
-</blockquote>
+> إِنَّ مَعَ الْعُسْرِ يُسْراً
 
 ***“Verily with difficulty is ease.”***[^19]
 
@@ -574,5 +502,4 @@ from occurring.
 hadith 68]
 
 [^19]: Surah Inshirah (94), Verse 6
-
 

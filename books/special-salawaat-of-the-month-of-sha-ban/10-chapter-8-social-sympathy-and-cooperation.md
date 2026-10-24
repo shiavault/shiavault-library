@@ -37,15 +37,11 @@ The Measure For Recognizing A True Shia
 It is important to know that sharing and social cooperation, as per our
 Ahadith, is termed as a measure for recognizing Shias. Imam Sadiq says,
 
-<blockquote dir="rtl">
-  <p>
-قرب الإسناد عن هَارُونُ عَنِ ابْنِ صَدَقَةَ قَالَ قَالَ أَبُو عَبْدِ
-اللَّهِ ع امْتَحِنُوا شِيعَتَنَا عِنْدَ مَوَاقِيتِ الصَّلَاةِ كَيْفَ
-مُحَافَظَتُهُمْ عَلَيْهَا وَ إِلَى أَسْرَارِنَا كَيْفَ حِفْظُهُمْ
-لَهَا عِنْدَ عَدُوِّنَا وَ إِلَى أَمْوَالِهِمْ كَيْفَ مُوَاسَاتُهُمْ
-لِإِخْوَانِهِمْ فِيهَا
-  </p>
-</blockquote>
+> قرب الإسناد عن هَارُونُ عَنِ ابْنِ صَدَقَةَ قَالَ قَالَ أَبُو عَبْدِ
+> اللَّهِ ع امْتَحِنُوا شِيعَتَنَا عِنْدَ مَوَاقِيتِ الصَّلَاةِ كَيْفَ
+> مُحَافَظَتُهُمْ عَلَيْهَا وَ إِلَى أَسْرَارِنَا كَيْفَ حِفْظُهُمْ
+> لَهَا عِنْدَ عَدُوِّنَا وَ إِلَى أَمْوَالِهِمْ كَيْفَ مُوَاسَاتُهُمْ
+> لِإِخْوَانِهِمْ فِيهَا
 
 “Examine our Shia with three things: (First) at the time of prayer how
 careful they are about their prayer. (Second) how they keep our secrets
@@ -54,14 +50,10 @@ brothers.”[^1]
 
 Also Sheikh Saduq narrates from Imam Sadiq,
 
-<blockquote dir="rtl">
-  <p>
-الخصال بسندهَ عَنْ أَبِي عَبْدِ اللَّهِ ع قَالَ خَصْلَتَانِ مَنْ
-كَانَتَا فِيهِ وَ إِلَّا فَاعْزُبْ ثُمَّ اعْزُبْ ثُمَّ اعْزُبْ قِيلَ
-وَ مَا هُمَا قَالَ الصَّلَاةُ فِي مَوَاقِيتِهَا وَ الْمُحَافَظَةُ
-عَلَيْهَا وَ الْمُوَاسَاةُ
-  </p>
-</blockquote>
+> الخصال بسندهَ عَنْ أَبِي عَبْدِ اللَّهِ ع قَالَ خَصْلَتَانِ مَنْ
+> كَانَتَا فِيهِ وَ إِلَّا فَاعْزُبْ ثُمَّ اعْزُبْ ثُمَّ اعْزُبْ قِيلَ
+> وَ مَا هُمَا قَالَ الصَّلَاةُ فِي مَوَاقِيتِهَا وَ الْمُحَافَظَةُ
+> عَلَيْهَا وَ الْمُوَاسَاةُ
 
 “If somebody has two characteristics (take him as friend) otherwise
 leave him and leave him and leave him” Someone asked, “What are they?”
@@ -79,23 +71,15 @@ brother’s need for himself.”” [^3]
 In a comprehensive order, the commander of faithful explains the method
 for dealing with different group of people.
 
-<blockquote dir="rtl">
-  <p>
-الخصال أَبِي عَنْ عَلِيٍّ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَمَّنْ ذَكَرَهُ
-عَنْ أَبِي عَبْدِ اللَّهِ ع قَالَ قَالَ أَمِيرُ الْمُؤْمِنِينَ ع فِي
-وَصِيَّتِهِ لِابْنِهِ مُحَمَّدِ بْنِ الْحَنَفِيَّةِ :
-  </p>
-</blockquote>
+> الخصال أَبِي عَنْ عَلِيٍّ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَمَّنْ ذَكَرَهُ
+> عَنْ أَبِي عَبْدِ اللَّهِ ع قَالَ قَالَ أَمِيرُ الْمُؤْمِنِينَ ع فِي
+> وَصِيَّتِهِ لِابْنِهِ مُحَمَّدِ بْنِ الْحَنَفِيَّةِ :
 
-<blockquote dir="rtl">
-  <p>
-أَلْزِمْ نَفْسَكَ التَّوَدُّدَ وَ صَبِّرْ عَلَى مَئُونَاتِ النَّاسِ
-نَفْسَكَ وَ ابْذُلْ لِصَدِيقِكَ نَفْسَكَ وَ مَالَكَ وَ لِمَعْرِفَتِكَ
-رِفْدَكَ وَ مَحْضَرَكَ وَ لِلْعَامَّةِ بِشْرَكَ وَ مَحَبَّتَكَ وَ
-لِعَدُوِّكَ عَدْلَكَ وَ إِنْصَافَكَ وَ اضْنَنْ بِدِينِكَ وَ عِرْضِكَ
-عَنْ كُلِّ أَحَدٍ فَإِنَّهُ أَسْلَمُ لِدِينِكَ وَ دُنْيَاكَ
-  </p>
-</blockquote>
+> أَلْزِمْ نَفْسَكَ التَّوَدُّدَ وَ صَبِّرْ عَلَى مَئُونَاتِ النَّاسِ
+> نَفْسَكَ وَ ابْذُلْ لِصَدِيقِكَ نَفْسَكَ وَ مَالَكَ وَ لِمَعْرِفَتِكَ
+> رِفْدَكَ وَ مَحْضَرَكَ وَ لِلْعَامَّةِ بِشْرَكَ وَ مَحَبَّتَكَ وَ
+> لِعَدُوِّكَ عَدْلَكَ وَ إِنْصَافَكَ وَ اضْنَنْ بِدِينِكَ وَ عِرْضِكَ
+> عَنْ كُلِّ أَحَدٍ فَإِنَّهُ أَسْلَمُ لِدِينِكَ وَ دُنْيَاكَ
 
 In a testament that narrates by Imam Sadiq, "Imam Ali advises his son
 Muhammad Ibn Hanafiyyah. Imam says, “Force yourself to be kind and
@@ -118,13 +102,9 @@ Most of us may assume that only good people are worthy of help, and
 helping others in the way of their worldly needs is something in vain.
 Nonetheless Imam Ridha’ narrates from the Prophet that,
 
-<blockquote dir="rtl">
-  <p>
-عيون أخبار الرضا عليه السلام بسنده قَالَ قَالَ رَسُولُ اللَّهِ ص
-رَأْسُ الْعَقْلِ بَعْدَ الدِّينِ التَّوَدُّدُ إِلَى النَّاسِ وَ
-اصْطِنَاعُ الْخَيْرِ إِلَى كُلِّ أَحَدٍ بَرٍّ وَ فَاجِر
-  </p>
-</blockquote>
+> عيون أخبار الرضا عليه السلام بسنده قَالَ قَالَ رَسُولُ اللَّهِ ص
+> رَأْسُ الْعَقْلِ بَعْدَ الدِّينِ التَّوَدُّدُ إِلَى النَّاسِ وَ
+> اصْطِنَاعُ الْخَيْرِ إِلَى كُلِّ أَحَدٍ بَرٍّ وَ فَاجِر
 
 “The root of wisdom after being religious are being kind to people and
 being nice to all the people whether they are good or bad” [^6]
@@ -148,5 +128,4 @@ being nice to all the people whether they are good or bad” [^6]
 الخصال ج 1 ص 125
 
 [^6]: عیون اخبا الرضا علیه السلام/ ج 2ٍص 35
-
 

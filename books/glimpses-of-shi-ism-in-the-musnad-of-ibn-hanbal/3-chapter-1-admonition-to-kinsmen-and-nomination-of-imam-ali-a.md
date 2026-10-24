@@ -32,9 +32,9 @@ termed its isna-d as sahi-h (authoritative).
 
 **Notes:**
 
-[^26] Reference to the great generosity and munificence of the Prophet,
+[^26]: Reference to the great generosity and munificence of the Prophet,
 Ahmad Sha-kir’s explanation on the margins of this hadith.
 
-[^27] Ahmad bin Hanbal, al-Musnad, annotated by Ahmad Muhammad Sha-kir
+[^27]: Ahmad bin Hanbal, al-Musnad, annotated by Ahmad Muhammad Sha-kir
 in 15 volumes, Da-r al-Ma‘a-rif, Cairo, 1949-1958, hadith no. 883.
 

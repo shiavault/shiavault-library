@@ -587,4 +587,3 @@ two-winged” man.
 Yes! It is the real faith in Allah and His messenger. I wish I were
 with them to get the great victory!
 
-

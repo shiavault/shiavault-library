@@ -719,24 +719,24 @@ possibility to be described in terms of being or having a son.
 
 |---------------------------------------------------|----------------------------------------------------|
 | **1 Ask to avoid excess**                         | **1 Not to believe in the Trinity**                
-                                                                                                         
+
                                                      **2 Not to pretend Scripture teaches the Trinity**  |
 | **2 Describe the true nature of Jesus (a.s.)**    | **1 The Messiah**                                  
-                                                                                                         
+
                                                      **2 The son of Mary**                               
-                                                                                                         
+
                                                      **3 A Prophet**                                     
-                                                                                                         
+
                                                      **4 The Word of Allah**                             
-                                                                                                         
+
                                                      **5 A Spirit proceeding from Allah**                |
 | **3 Ask to desist from calling God a Trinity**    | **Do not say Trinity!**                            |
 | **4 Give the major points on the oneness of God** | **1 Allah is one God**                             
-                                                                                                         
+
                                                      **2 Acknowledge God as Creator through praise**     
-                                                                                                         
+
                                                      **3 God has no son**                                
-                                                                                                         
+
                                                      **4 God is sovereign over all things**              |
 
 The matter of excess in religion is often reiterated in the holy Qur’an,
@@ -1064,5 +1064,4 @@ will not end with the death of so many thousands of Muslims in the
 Middle East. It will eventually result in calling down upon themselves
 and the secular society they have created the response of God Himself.
 Then all will know that God has grace for whomsoever He will.
-
 

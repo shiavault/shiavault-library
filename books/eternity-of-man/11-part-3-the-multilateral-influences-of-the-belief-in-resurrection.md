@@ -179,11 +179,7 @@ rewards).
 
 Regarding this, Hazrat ‘Ali (‘a) says:
 
-<blockquote dir="rtl">
-  <p>
-من أيقن بالخلف جاد بالعطيّه
-  </p>
-</blockquote>
+> من أيقن بالخلف جاد بالعطيّه
 
 “One who, with respect to the (rewards of) the day of Resurrection, has
 firm belief and conviction, shall behave in a goodly manner while
@@ -195,12 +191,8 @@ belief in resurrection. On the other hand, some of the Qur’anic verses
 mention the lack of stimulus in the unbelievers and the deniers of the
 day of Resurrection, for serving others, in this fashion:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ فَذَلِكَ الَّذِي يَدُعُّ
-الْيَتِيمَ وَلاَ يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ
-  </p>
-</blockquote>
+> أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ فَذَلِكَ الَّذِي يَدُعُّ
+> الْيَتِيمَ وَلاَ يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ
 
 ***“Have you considered him who calls the Final Judgement a lie?***
 ***That is the one who repels the orphan.*** ***And does not urge the
@@ -255,13 +247,9 @@ The Holy Qur’an mentions one of the reasons for the pollution of the
 polluted ones of the hell, in their own words, to be the lack of belief
 in resurrection and states:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
-وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ وَكُنَّا نُكَذِّبُ بِيَوْمِ
-الدِّينِ
-  </p>
-</blockquote>
+> قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
+> وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ وَكُنَّا نُكَذِّبُ بِيَوْمِ
+> الدِّينِ
 
 ***“They shall say: We were not of those who offered the regular
 prayers.*** ***And we used not to feed the poor.*** ***And we used to
@@ -325,11 +313,7 @@ Amongst them, in one of his letters to one of his governors, who had
 misused some funds from the public treasury, after reprimanding and
 rebuking him, says:
 
-<blockquote dir="rtl">
-  <p>
-فسيبحان الله! أما تؤمن بالمعاد؟ أو ما تخاف نقاش الحساب؟""
-  </p>
-</blockquote>
+> فسيبحان الله! أما تؤمن بالمعاد؟ أو ما تخاف نقاش الحساب؟""
 
 “Glory be to God! Do you not believe in Resurrection and do you not fear
 the accounting and the questioning (of that day?”[^5]
@@ -356,12 +340,8 @@ from the burning due to the anger of the Creator?”[^6]
 The Holy Qur’an also, after threatening them with the sentence, “Woe
 unto the defrauders in measuring”, says:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ يَظُنُّ أُولَئِكَ أَنَّهُمْ مَبْعُوثُونَ لِيَوْمٍ عَظِيمٍ يَوْمَ
-يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> أَلاَ يَظُنُّ أُولَئِكَ أَنَّهُمْ مَبْعُوثُونَ لِيَوْمٍ عَظِيمٍ يَوْمَ
+> يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ
 
 ***“What!*** ***Think they not that they shall be raised.*** ***For a
 Mighty Day.*** ***On the day when men shall stand before the Lord of the
@@ -403,13 +383,9 @@ religious war and knows that eventually, he would either be victorious,
 or attain martyrdom and eternal happiness. The Holy Qur’an mentions the
 final outcome of a soldier fighting for truth as:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ تَتَربَّصُونَ بِنَا إِلاَ إِحْدَى الْحُسْنَيَيْنِ وَنَحْنُ
-نَتَرَبَّصُ بِكُمْ أَنْ يُصِيبَكُمْ اللَّهُ بِعَذَابٍ مِنْ عِنْدِهِ
-أَوْ بِأَيْدِينَا فَتَرَبَّصُوا إِنَّا مَعَكُمْ مُتَرَبِّصُونَ
-  </p>
-</blockquote>
+> قُلْ هَلْ تَتَربَّصُونَ بِنَا إِلاَ إِحْدَى الْحُسْنَيَيْنِ وَنَحْنُ
+> نَتَرَبَّصُ بِكُمْ أَنْ يُصِيبَكُمْ اللَّهُ بِعَذَابٍ مِنْ عِنْدِهِ
+> أَوْ بِأَيْدِينَا فَتَرَبَّصُوا إِنَّا مَعَكُمْ مُتَرَبِّصُونَ
 
 ***“Say: Do you wait for us but one of two most excellent things?***
 ***And we wait for you that Allah will afflict you with punishment from
@@ -426,24 +402,20 @@ explains beautifully and subtly the mentality and the characteristics of
 those accompanying Hazrat Saul and the part played by the belief and the
 lack of belief in Resurrection saying:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ
-مُبْتَلِيكُمْ بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ
-لَمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلاَ مَنْ اغْتَرَفَ غُرْفَةً
-بِيَدِهِ فَشَرِبُوا مِنْهُ إِلاَّ قَلِيلًا مِنْهُمْ فَلَمَّا جَاوَزَهُ
-هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لاَ طَاقَةَ لَنَا الْيَوْمَ
-بِجَالُوتَ وَجُنُودِهِ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلاَقُو
-اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ
-اللَّهِ وَاللَّهُ مَعَ الصَّابِرِينَ وَلَمَّا بَرَزُوا لِجَالُوتَ
-وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ
-أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ فَهَزَمُوهُمْ
-بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ
-وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ وَلَوْلاَ دَفْعُ اللَّهِ
-النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتْ الْأَرْضُ وَلَكِنَّ اللَّهَ
-ذُو فَضْلٍ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ
+> مُبْتَلِيكُمْ بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ
+> لَمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلاَ مَنْ اغْتَرَفَ غُرْفَةً
+> بِيَدِهِ فَشَرِبُوا مِنْهُ إِلاَّ قَلِيلًا مِنْهُمْ فَلَمَّا جَاوَزَهُ
+> هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لاَ طَاقَةَ لَنَا الْيَوْمَ
+> بِجَالُوتَ وَجُنُودِهِ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلاَقُو
+> اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ
+> اللَّهِ وَاللَّهُ مَعَ الصَّابِرِينَ وَلَمَّا بَرَزُوا لِجَالُوتَ
+> وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ
+> أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ فَهَزَمُوهُمْ
+> بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ
+> وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ وَلَوْلاَ دَفْعُ اللَّهِ
+> النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتْ الْأَرْضُ وَلَكِنَّ اللَّهَ
+> ذُو فَضْلٍ عَلَى الْعَالَمِينَ
 
 ***“So when Talut departed with the forces, he said: Surely Allah will
 try you with a river; Whoever then drinks from it, he is not of me, and
@@ -468,12 +440,8 @@ was a cause for astonishment and perplexity for the unbelievers. As a
 result, the hypocrites, for justifying their fearfulness and the
 fearlessness of the real soldiers of Islam, said:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ
-هَؤُلَاءِ دِينُهُمْ…
-  </p>
-</blockquote>
+> إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ
+> هَؤُلَاءِ دِينُهُمْ…
 
 ***“And when the hypocrites and those whom in their hearts is a disease
 said amongst themselves: Their religion has beguiled them.”***[^10]
@@ -520,5 +488,4 @@ Doctor Syed Ja’far Shahidi.
 [^9]: Baqarah (2):249-251
 
 [^10]: Anfal (8):49
-
 

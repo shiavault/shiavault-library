@@ -173,4 +173,3 @@ you. You will be my guiding angel as you have always been."
 Aminah embraced her, saying, “Oh Fatimah, I am not an angel. I am only a
 loving, advising sister to you and to all Muslim girls.”
 
-

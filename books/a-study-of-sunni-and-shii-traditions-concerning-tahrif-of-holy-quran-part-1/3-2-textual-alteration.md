@@ -51,9 +51,7 @@ The Reasons for Believing in the Absence of Tahrif
 1. Some exegetes of the Qur'an have based their argument in favour of
 the absence of tahrif in the Qur'an on the following verse:
 
-<p dir="rtl">
 إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-</p>
 
 ***Verily, We have sent down the Remembrance (i.e. the Qur'an), and,
 verily, We are its protector. (15:9)***
@@ -157,10 +155,8 @@ has ever claimed that the verse has undergone tahrif or interpolation.
 2. Another verse of the Qur'an which is cited to support the immunity of
 the Qur'an from tahrif is the following one:
 
-<p dir="rtl">
 لا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلا مِنْ خَلْفِهِ تَنزِيلٌ
 مِنْ حَكِيمٍ حَمِيدٍ
-</p>
 
 ***Falsehood comes not to it from before it nor from behind it; a
 sending down from One All-wise, All-laudable. (41:42)***
@@ -185,30 +181,24 @@ them with the Qur'an. A tradition should be accepted when confirmed by
 the Qur'an and rejected if it goes against it. Following are some of
 these traditions:
 
-<p dir="rtl">
 قال الرسول صلوات الله عليه واله:تكثر الأحاديث لكم بعدي فإذا روي لكم عني
 حديث فاعرضوه على كتاب الله تعالى فما وافقه فاقبلوه واعلموا أنه مني ، وما
 خالفه فردوه
-</p>
 
 The Prophet (S) said:*"You will be confronted with a multiplying number
 of traditions after me. Therefore, when a hadith is narrated to you,
 compare it with the Book of God; accept that which agrees with it and
 reject that which contradicts it."* 13
 
-<p dir="rtl">
 وقوله ايضا: إن على كل حق حقيقة وعلى كل صواب نورا. فما وافق كتاب الله
 فخذوه وما خالف كتاب الله فدعوه.
-</p>
 
 The Prophet (S) said:*“There is a truthful sign that accompanies every
 truth, and there is a light which goes with every correct notion. So,
 take that which agrees with the Book of God and leave that which
 contradicts it.”*
 
-<p dir="rtl">
 كُلُّ حَديثٍ لا يُوافِقُ كتابَ اللهِ فهُوَ زُخرُف
-</p>
 
 Al-'Imam al-Sadiq (A) said:*"Every hadith that does not agree with the
 Book of God is a falsehood."* 14
@@ -265,12 +255,10 @@ nar­rated by
 various Islamic sects. Following is one of its versions as given by
 al-Darimi in his Sunan:
 
-<p dir="rtl">
 قال النبي صلى الله عليه وآله ( وأنا تارك فيكم الثقلين : أولهما كتاب الله
 فيه الهدى والنور ، فخذوا بكتاب الله واستمسكوا به ، فحث على كتاب الله
 ورغب فيه ، ثم قال : وأهل بيتي ، أذكركم الله في أهل بيتي ، أذكركم الله في
 أهل بيتي (
-</p>
 
 The Prophet (S) said:*"Verily, I leave behind among you two weighty
 things: The Book of God and in it is guidance and light, so hold on to
@@ -281,12 +269,10 @@ Ahl al-Bayt"* (and the Prophet [S] said this thrice))15
 Holding fast to the Qur'an", as clarified by Amir Al-Muminin 'Ali (A) in
 the following tradition, means, deriving guidance and light from it:
 
-<p dir="rtl">
 وصف الامام علي (ع) القرآن مرة فقال : " عليكم بكتاب الله فانه الحبل
 المتين ، و النور المبين ، و الشفاء الناقع ، و الرأي النافع ، و العصمة
 للمتمسك ، والنجاة للمتعلق ، لا يعوج فيقوم ، ولا يزيغ فيستعتب ، ولا تخلقه
 كثرة الرد ، و ولوج السمع ، من قالبه صدق ومن عمل به سبق "
-</p>
 
 *It is your duty to follow the Book of God, for it is the strong rope,
 the manifest light, the beneficial cure and the thirst-quenching spring.
@@ -304,17 +290,13 @@ that the Qur'an that we possess today is the same as the one possessed
 by the Muslims in Imam \`All's times. Following are some more of his
 state­ments regarding the Qur'an:
 
-<p dir="rtl">
 قال (عليه السلام):
-</p>
 
-<p dir="rtl">
 إن هذا القرآن هو الناصح الذي لا يغش، والهادي الذي لا يضل، والمحدث الذي
 لا يكذب، وما جالس هذا القرآن أحد إلاّ قام عنه بزيادة أو نقصان، زيادة في
 هدى، ونقصان من عمى، واعلموا أنه ليس على أحد بعد القرآن من فاقة، ولا لأحد
 قبل القرآن من غنى، فاستشفوه من أدوائكم، واستعينوا به على لاوائكم، فإن
 فيه شفاء من أكبر الداء وهو الكفر والنفاق والعمى والضلال
-</p>
 
 *Know that this Qur'an is an adviser that does not deceive, a leader
 that does not mislead, and a speaker who never lies. No one sits in its
@@ -328,18 +310,14 @@ remedy for your ailments and seek its help in your distress, for,
 indeed, it contains the cure for the greatest of diseases, which are
 unbelief, hypocrisy, rebelliousness and misguidance)* 17
 
-<p dir="rtl">
 وقال (عليه السلام): "إن القرآن ظاهره أنيق، وباطنه عميق، لاتفنى عجائبه،
 ولا تنقضي غرائبه، ولا تكشف الظلمات إلاّ به."
-</p>
 
 *Verily, the Qur'an is outwardly beautiful and inwardly profound. Its
 wonders are imperishable and its marvels are immortal. The darkness (of
 human life) cannot be penetrated without it* 18
 
-<p dir="rtl">
 كتاب الله فيه نبأ ما كان قبلكم وخبر ما بعدكم وحكم ما بينكم
-</p>
 
 *In the Qur'an are the reports of those who lived before you and the
 tidings of those who will come after you, and in it is the judgment
@@ -347,9 +325,7 @@ regarding you)* 19
 
 The Prophet (S) said:
 
-<p dir="rtl">
 مَا لَنْ تَضِلُّوا بَعْدَهُ إِنِ اعْتَصَمْتُمْ بِهِ ، كِتَابَ اللَّهِ
-</p>
 
 *You will not go astray if you hold fast to the Book of God.20*
 
@@ -544,10 +520,8 @@ Mardawayh have recorded a tradition from Habib al-Shahid, from 'Amr ibn
 'Amir al-'Ansari that \`Umar recited the verse 9:100, deleting a waw and
 read it as follows:
 
-<p dir="rtl">
 وَالسَّابِقُونَ الأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالأَنصَارِ الَّذِينَ
 اتَّبَعُوهُمْ بِإِحْسَانٍ
-</p>
 
 Zayd ibn Thabit corrected him, saying:وَالَّذِينَ , الَّذِينَ repeated
 \`Umar, insisting that his reading is correct. On this Zayd said: "Amir
@@ -561,10 +535,8 @@ narrated by Abu Usamah and
 Muhammad ibn Ibrahim al-Tamimi, the two are reported to have said: "Umar
 ibn al-Khattab once happened to pass by a man reciting
 
-<p dir="rtl">
 وَالسَّابِقُونَ الأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالأَنصَارِ
 وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ
-</p>
 
 ***And the first forerunners [in the faith] among the Muhajireen and the
 Ansar and those who followed them with good conduct (9:12)***
@@ -619,16 +591,12 @@ that relate to varying readings of the Qur'an by the Companions:
 1. Aban ibn 'Imran says:50 "I said to \`Abd al-Rahman ibn al-'Aswad:
 'You read
 
-<p dir="rtl">
 صراط من أنعمت عليهم غير المغضوب عليهم وغير الضالين
-</p>
 
 instead of
 
-<p dir="rtl">
 صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
 الضَّالِّينَ
-</p>
 
 According to another tradition, Ibn "al-'Aswad and 'Alqamah had prayed
 behind \`Umar, who recited this verse in this fashion.51 There are five
@@ -638,18 +606,14 @@ that state that Umar recited this verse in the above-mentioned form.52
 2. According to another tradition53 , narrated through seven different
 turuq, \`Umar used to recite verse 3:1,2 in this form:
 
-<p dir="rtl">
 الم الله لا إله إلا هو الحيُّ القَيَّامُ
-</p>
 
 3. Sufyin ibn \`Amr is reported 'to have said that he heard Ibn
 al‑Zubayr read the verse 74:40
 
 42 in this form:
 
-<p dir="rtl">
 فِي جَنَّات يَتَسَاءَلُونَ عَنِ الْمُجْرِمِينَ مَا سَلَكَكُ فِي سَقَر
-</p>
 
 Sufyan ibn \`Amr adds that he heard from Laqit that he had heard ibn
 al-Zubayr say that he had heard \`Umar recite it in this way.54
@@ -661,9 +625,7 @@ al-Zubayr say that he had heard \`Umar recite it in this way.54
 4. According to another tradition Said ibn al-Zubayr used to read verse
 4:24 in this form
 
-<p dir="rtl">
 فَمَا اِسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ إِلَى أَجَل مُسَمًّى
-</p>
 
 adding that such was the reading of Ubayy ibn Ka\`b".55
 
@@ -677,9 +639,7 @@ Ubayy's mushaf فلا جناح عليه ألا يطوف بهما (with الا in
 7. Al-Rabi\` reports having read verse 5:89 written in this form in
 Ubayy's mushaf:58
 
-<p dir="rtl">
 اليمين كفارة في متتابعات ثلاثة فصيام
-</p>
 
 ### Ibn Masud's Mushaf
 
@@ -709,21 +669,13 @@ that Ibn 'Abbas also followed this reading.64
 14. According to Maymun ibn Mihran, Surah 103 was read as fol­lows hi
 Ibn Masud's reading:65
 
-<p dir="rtl">
 والعصر
-</p>
 
-<p dir="rtl">
 إن الإنسان لفي خسر
-</p>
 
-<p dir="rtl">
 وانه فيه الى آخر الدهر
-</p>
 
-<p dir="rtl">
 إِلا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالصَّبْر
-</p>
 
 15. According to Sufyan, the followers of Ibn Masud's reading read verse
 2:202 in this fashion:
@@ -829,9 +781,7 @@ differently from the common reading of the Qur'an.88
 39. Ibn Abi al-Hamid reports from Hamidah that she said that she found
 the verse 33:56 written thus in the mushaf of \`A'ishah:
 
-<p dir="rtl">
 ان الله وملائكته يصلون على النبي وعلى الذين يصلون في الصفوف الاولى
-</p>
 
 Hamidah is reported to have added that “this was before” Uthman changed
 the mushaf.90
@@ -853,9 +803,7 @@ has been transmitted through several different turuq.91
 write the Qur'an for her, telling him to inform her when he reached
 verse 2:238. She told him to write:92
 
-<p dir="rtl">
 حافظوا على الصلوات و الصلاة الوسطى وصلاة العصر
-</p>
 
 Variant Readings amongst the Tabiun
 -----------------------------------
@@ -902,13 +850,11 @@ compilations, which imply the occurrence of tahrif in the Qur'anic text.
 If one were to regard these traditions as authentic, one will have to
 admit the occurrence of tahrif. Following are some of these:
 
-<p dir="rtl">
 حدثنا قبصة بن عقبة ...عن ابراهيم بن علقمة قال:"دخلت في نفر من اصحاب عبد
 الله الشام فسمع بنا ابو الدرداء فاتانا فقال: افيكم من يقرا؟ فقلنا:نعم.
 قال: فايكم؟ فاشاروا الي, فقال: اقرا, فقرات:"والليل اذا يغشى و النهار اذا
 تجلى و الذكر و الانثى" قال:انت سمعتها من فيّ صاحبك قلت نعم, قال: وانا
 سمعتها من فيّ رسول الله(ص) وهؤلاء يابون علينا.
-</p>
 
 1. Ibrahim ibn \`Alqamah says: "I entered al-Sham with a group of
 \`Ubayd Allah's companions. Abu al-Darda' heard of our coming. He came
@@ -929,26 +875,20 @@ treacherously by the Well of Maunah. When the news reached the Prophet
 "We recited a verse of the Qur'an regard­ing them which was omitted
 afterwards:
 
-<p dir="rtl">
 بلغوا عنا قومنا انا لقينا ربنا فرضي عنا وارضانا
-</p>
 
-<p dir="rtl">
 حدثني الاعلى ...عن انس بن مالك ان رعلا و ذكوان وعصية وبني كيان استمدوا
 رسول الله على عدوهم فامدهم بسبعين من الانصار كنا نسميهم القراء في زمانهم
 كانوا يحتطبون بالنهار و يصلون بالليل حتى اذا كانوا ببئر معونة قتلوهم و
 غدروا بهم فبلغ النبي(ص)ذلك فقنت شهرا يدعو في الصبح على احياء من احياء
 العرب على رعل و ذكوان و عصية و بني كيان. قال انس: فقرانا فيهم قرانا ثم
 ان ذلك رفع.."بلغوا عنا قومنا انا لقينا ربنا فرضي عنا و ارضانا".
-</p>
 
 3. \`Umar said: "Had it not been for (the fear of) the people saying
 that \`Umar added something to the Book of God, I would have written the
 ayat al-raim with my own hand (into the Qur'an).107
 
-<p dir="rtl">
 عن عمر: لولا ان يقول الناس ان عمر زاد في كتاب الله لكتبت اية الرجم بيدي.
-</p>
 
 According to this riwayah, it appears that \`Umar believed in the tahrif
 of the Qur'an and that it was incomplete, for the said 'verse' is absent
@@ -972,10 +912,8 @@ forgot seventy of its verses, which I could not find (anywhere).”110
 Also, Abu Ubayd, in al-Fadd'il, as well as 1bn al Anbari and Ibn
 Mardawayh, report \`A'ishah as having said:
 
-<p dir="rtl">
 كانت سورة الاحزاب تقرا في زمان رسول الله(ص) مائتي اية فلما كتب عثمان
 المصاحف لم يقدر منها الا على ما هو الان.
-</p>
 
 The Surat al-'Ahzab as read during the Prophet's days contained two
 hundred verses. But when 'Uthman wrote the mushaf, he could not find
@@ -983,13 +921,11 @@ more of it than what it is now.111
 
 Following is another related riwayah about the surah
 
-<p dir="rtl">
 عن عبد الرزاق عن الثوري...عن زر بن حبيش قال: قال لي اُبي بن كعب كأين
 تقرأون سورة الاحزاب؟ قال: قلت ثلاثا وسبعين و إما ارباً وسبعين. قال قط:
 ان كانت لتقارب سورة البقرة او هي اطول منها وان كانت فيها اية الرجم قال
 قلت:اباالمنذر ما اية الرجم؟ قال:"اذا زنيا الشيخ او الشيخة فارجموهما
 البتة نكالا من الله والله عزيز حكيم".
-</p>
 
 Zirr ibn 'Hubaysh says: “Ubayy ibn Kab asked me, “How many verses do you
 recite in the Surat al-'Ahzab?" Seventy-three or seventy-four, “ I
@@ -999,13 +935,11 @@ al-Baqarah or lengthier, and in it is the ayat al-rajm.” I asked him,
 and an old woman fornicate, stone the two of them; definitely, a
 punishment from God, and God is All-powerful, All-wise.”112
 
-<p dir="rtl">
 اخبرنا عبد الرزاق عن ابن جريح عن عمرو بن دينار قال:سمعت بجالة التميمي
 قال:وجد عمر بن الخطاب مصحفا في حجر غلام في المسجد, فيه:"النبي اولى
 بالمؤمنين من انفسهم وهو ابوهم". فقال: حكها يا غلام. فقال:لا احكها وهي في
 مصحف ابي بن كعب.فانطلق الى ابي فقال له:"اني شغلني القران وشغلك الصفق
 بالاسواق".
-</p>
 
 6. Amr ibn Mir says: “I heard Bajitlah al-Tamimi state: ‘Umar ibn
 al­Khattab found a mushaf with a youth in the mosque. In it was written:
@@ -1018,19 +952,14 @@ and you have been busy making transactions in the bazaar."113
 of God, he would come to us and teach us that which had been revealed to
 him. One day he came and said: 'Verily, God says:114
 
-<p dir="rtl">
 حدثنا عبد الله بن صالح عن هشام بن سعيد عن زيد بن اسلم عن عطاء عن يسار عن
 ابي واقد الليثي قال:"كان رسول الله اذا اوحي اليه اتيناه فعلمنا مما اوحي
 اليه قال: فجئت ذات يوم فقال ان الله يقول:
-</p>
 
-<p dir="rtl">
 "انا انزلناالمال لاقام الصلاة وايتاء الزكاةولو ان لابن ادم واديالاحب ان
 يكون له الثاني ولو كان له الثاني لاحب ان يكون اليهماالثالث ولا يملا جوف
 ابن ادم الا التراب ويتوب الله على من تاب".
-</p>
 
-<p dir="rtl">
 روى ابوحرب بن ابي الاسود عن ابيه قال:بعث ابو موسى الاشعري الى قراء اهل
 البصرة فدخل عليه ثلاثمائة رجل قد قراوا القران,فقال:انتم خيار اهل البصرة
 وقراؤهم فاتلوه ولا يطولن عليكم الامل فتقسوا قلوبكم كما قست قلوب من كان
@@ -1039,7 +968,6 @@ him. One day he came and said: 'Verily, God says:114
 يملا جوف ابن ادم الا التراب". وكنا نقرا سورة كنا نشبهها باحدى المسبحات
 فانسيتها غير اني حفظت منها:"ياايها الذين امنوا لم تقولون ما لا تفعلون
 فتكتب شهادة في اعناقكم فتسالون يوم القيامة".
-</p>
 
 8. Abu Harb ibn Abi al-Aswad narrates from his father that he said: "Abu
 Musa AlAshari sent for the qurra of Basrah. Three hundred qurra of the
@@ -1050,18 +978,14 @@ who went before you, should harden. Indeed, we used to recite a surah
 similar in length and power to the Surat al-Bara'ah, which I forgot
 except for a single verse:
 
-<p dir="rtl">
 لو كان لابن ادم واديان من مال لابتغى واديا ثالثا ولا يملا جوف ابن ادم
 الا التراب
-</p>
 
 We would also read a surah like one or the al-Musabbihat,115 which I
 forgot all except this:
 
-<p dir="rtl">
 ياايها الذين امنوا لم تقولون ما لا تفعلون فتكتب شهادة في اعناقكم فتسالون
 يوم القيامة
-</p>
 
 9. \`Abd Allah ibn Salamah reports Hudhayfah as having said: "What you
 read is a fourth of what it was". He meant the Surat al­Barah.116
@@ -1069,9 +993,7 @@ read is a fourth of what it was". He meant the Surat al­Barah.116
 10. 1bn 'Abbas is reported to have said that verse 26:214 was re­vealed
 like this117 :
 
-<p dir="rtl">
 وأنذر عشيرتك الاقربين ورهطك منهم المخلصين
-</p>
 
 11. \`Umayrah ibn Farwah is reported to have said: "\`Umar ibn
 al-Khattib said to Ubayy: 'Didn't we use to recite in our reading of the
@@ -1081,29 +1003,23 @@ Book of God:
 use to recite:الولد للفراش وللعاهر الحجر in what we have lost of the
 Book of God?118
 
-<p dir="rtl">
 اخرج ابن عبدالبر في التمهيد من طريق عدي بن عمرة بن فروة عن ابيه عن جده
 عميره بن فروة ان عمر بن الخطاب قال لابي: او ليس كنا نقرأ فيما نقرأ من
 كتاب الله "ان انتفاءكم من آبائكم كفرٌ بكم"؟ فقال: بلى، ثم قال "اوليس كنا
 نقرأ الولد للفراش و للعاهر الحجر فيما فقدنا من كتاب الله؟".
-</p>
 
 12. Al-Thawri is reported to have said, "We have been told that when the
 qurra among the Prophet's Companions were killed during the episode of
 Musaylamah, a part (huruf) of the Qur'anic scripture was lost
 (dhahabat)."119
 
-<p dir="rtl">
 عبدالرزاق عن عيينة عن عمرو بن عُبيد عن الحسن قال"هَمَّ عمر بن الخطاب أن
 يكتب في المصاحف: إنَّ رسول الله ضرب في الخمر ثمانين".
-</p>
 
 13. Al-Hasan is reported to have said, " \`Umar ibn al-Kattab. intended
 to write this sentence in the mashaf:120
 
-<p dir="rtl">
 إنَّ رسول الله ضرب في الخمر ثمانين
-</p>
 
 14. Al-Tabari records a marfu tradition with a muwaththaq sanad from
 \`Umar, that he said that the Qur'an consisted of one million and
@@ -1118,10 +1034,8 @@ Qur' n is in his possession. But what does he know about the whole of
 it? Much of the Qur'an has been lost (gad dhahab). Rather, he should say
 that he possesses that mach of it as is known (to be such)."123
 
-<p dir="rtl">
 عن نافع عن ابن عمر قال: ليقولن احدكم قد اَخَذتُ القران كله ومايدريه
 ماكله قد ذهب منه قرآن كبير، ولكن ليقل قد أَخَذتُ منه ماظهر.
-</p>
 
 16. \`A'ishah said: "In that which was revealed in the Quran was: عشر
 رضعات معلومات يحرمن124
@@ -1130,10 +1044,8 @@ that he possesses that mach of it as is known (to be such)."123
 AlBarah), the bismillah was also dropped. It is definite that it used to
 be equal in length to the Surat al-Baqarah.125
 
-<p dir="rtl">
 عن مالك:ان اولها (سورة البراءة) لما سقطّ، سقط معه البسملة فقد ثبت انها
 كانت تعدل سورة البقرة
-</p>
 
 18. Ibn Mardawayh reports 1bn Masud as having said: "During the
 Prophet's lifetime, we used to read (verse 5:67) as follows:
@@ -1143,11 +1055,9 @@ thy Lord, that
 'Ali is the Mawla of the believers. For if thou do it not, thou will not
 have conveyed His message. Allah will protect thee from the people.”126
 
-<p dir="rtl">
 اخرج ابن مردوية عن ابن مسعود، قال: كنا نقرأ على عهد رسول الله (صً): يا
 ايها الرسول بلِّغ ما اُنزل اليك من ربك ان علياً مولى المؤمنين و ان لم
 تفعل فما بلغت رسالته والله يعصمك من الناس.
-</p>
 
 19. Ibn Majah records \`Aishah as having said: "The verses of raim and
 ridaah (the latter referred to in 16 above) were revealed, and they were
@@ -1155,63 +1065,49 @@ in a sahifah kept under my pillow. When the Messenger of God died and we
 were busy with his funeral, domestic animals entered (my room) and ate
 it up."'127
 
-<p dir="rtl">
 اخرج ابن ماجة عن عائشة قالت: لقد نزلت اية الرجم ورضاعة الكبير عشراً ولقد
 كانت في صحيفةِ تحت سريري قلما مات رسول الله وتشاغلنا بموته دخل الداجن
 فأكلها
-</p>
 
-<p dir="rtl">
 وروى أبو سفيان الكلاعي أن مسلمة بن مخلد الانصاري قال لهم ذات يوم : "
 أخبروني بآيتين في القرآن لم يكتبا في المصحف ، فلم يخبروه ، وعندهم أبو
 الكنود سعد بن مالك ، فقال مسلمة: إن الذين آمنوا وهاجروا وجاهدوا في سبيل
 الله بأموالهم وأنفسهم ألا أبشروا أنتم المفلحون والذين آووهم ونصروهم
 وجادلوا عنهم القوم الذين غضب الله عليهم أولئك لا تعلم نفس ما أخفي لهم من
 قرة أعين جزاء بما كانوا يعملون.
-</p>
 
 20. Abu Sufyan narrates that one day Maslamah ibn Mukhallad aliAnsari,
 addressing a group in which was Abu al-Kannud Sa\`d ibn Malik, said:
 "Tell me, what are the two verses of the Qur'an which were never written
 in the mushaf." When no one answered, Maslamah said: (They are )128
 
-<p dir="rtl">
 إِنَّ الَّذِينَ آمَنُوا وَهاجَرُوا وَجاهَدُوا فِي سَبِيلِ اللَّهِ
 بِأَمْوالِهِمْ وَأَنْفُسِهِمْ ألا أبشروا أنتم المفلحون والذين آووهم
 ونصروهم وجادلوا عنهم القوم الذين غضب الله عليهم أولئك لا تعلم نفس ما
 أخفي لهم من قرة أعين جزاء بما كانوا يعملون
-</p>
 
-<p dir="rtl">
 روى المِسَوّر بن مخرمة قال: "قال عمر لعبد الرحمن بن عوف: الم تجد فيما
 أُنزل علينا: ((جاهدوا كما جاهدتم أول مرَّة)) فإنَّا لا نجدها؟ قال:
 أُسْقِطَتْ فيما أُسْقِط من القرآن".
-</p>
 
 21. Al-Misawwar ibn Makhramah reports that \`Umar asked \`Abd al­ Rahman
 ibn \`Awf: "Didn't you come across أن جاهِدوا كما جاهدتم أوَّل مرَّة in
 that which was revealed to us? For we don't find it." \`Abd al-Rahman
 replied, "It is of those (verses) which have dropped from the Quran.129
 
-<p dir="rtl">
 رُويَ عن أُبي بن كعب أنه كتب في مصحفه سورتي الحَفد و الخلع: ((اللهم إنا
 نستعينك و نستغفرك ونثني عليك ولا نُكَفِّرُك و نخلعُ و نترك من يَفجُرك.
 اللهم إياك نعبد ولك نصلي
-</p>
 
-<p dir="rtl">
 و نسجد و اليك نسعى و نحفد نرجو رحمتك ونخشى عذابك إن عذابك بالكافرين
 ملحق.
-</p>
 
 22. Ubayy ibn Kaab is reported to have written two surahs, al­ Hafd and
 al-Khar, in his mushaf.(The alleged surahs are):130
 
-<p dir="rtl">
 اللهم إنا نستعينك و نستغفرك ونثني عليك ولا نُكَفِّرُك و نخلعُ و نترك من
 يَفجُرك. اللهم إياك نعبد ولك نصلي و نسجد و اليك نسعى و نحفد نرجو رحمتك
 ونخشى عذابك إن عذابك بالكافرين ملحق
-</p>
 
 An Evaluation of the Sunni Traditions Regarding Tahrif
 ------------------------------------------------------
@@ -1394,10 +1290,8 @@ state­ments of these, has argued on the basis of something close to it
 in regard to the number of radaat, for he considers as sahih the riwayah
 from 'Aishah that:
 
-<p dir="rtl">
 ان مما انزل في القران:"عشر رضعات معلومات يحرمن" فنسخن بخمس رضعات
 معلومات، وكان ذلك مما يتلى في القران بعد وفاة رسول الله.
-</p>
 
 Al-Sarakhai rejects all such statements implying the occurrence of
 tahrlf in the Qur'an on the basis of verse 15:9. Then he adds:

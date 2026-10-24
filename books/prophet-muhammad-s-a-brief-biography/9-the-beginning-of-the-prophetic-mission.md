@@ -59,4 +59,3 @@ science, inspiring high ethical values and morals in its readers and
 showing the perfect path for mankind's happiness both in this world and
 the hereafter.
 
-

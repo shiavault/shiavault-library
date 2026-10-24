@@ -16,12 +16,8 @@ not observing manners and etiquette in relation to the Imam.
 
 Imam Ja’far b. Muhammad as-Sadiq(as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يُؤْمِنُ بِاللٌّهِ وَ الْيَوْمِ الآخِرِ فَلاَ يَجْلِسُ
-مَجْلِساً يُنْـتَقَصُ فِيهِ إِمَامٌ أَوْ يُعَابُ فِيهِ مُؤْمِنٌ
-  </p>
-</blockquote>
+> مَنْ كَانَ يُؤْمِنُ بِاللٌّهِ وَ الْيَوْمِ الآخِرِ فَلاَ يَجْلِسُ
+> مَجْلِساً يُنْـتَقَصُ فِيهِ إِمَامٌ أَوْ يُعَابُ فِيهِ مُؤْمِنٌ
 
 “He who has true belief in Allah and the Last Day will not attend
 gatherings in which the Imam is being disparaged or in which the defects
@@ -45,5 +41,4 @@ disrespect to the Imam must be kept away from and without doubt, those
 with intellect and understanding can clearly under this responsibility.
 
 [^1]: al-Kafi, vol. 2, Pagre 377, no. 9
-
 

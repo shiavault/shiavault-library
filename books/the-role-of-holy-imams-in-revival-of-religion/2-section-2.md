@@ -330,4 +330,3 @@ the dead, meaningless, evicted Islam, and bring to life its active and
 conceptual existences. These great men both returned the true meanings
 of Islam to the society and then proceeded to nurture Islams identity.
 
-

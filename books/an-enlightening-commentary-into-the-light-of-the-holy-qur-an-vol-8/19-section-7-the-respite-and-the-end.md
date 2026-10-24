@@ -4,12 +4,8 @@ Section 7: The Respite and the End
 Surah ‘Ibrahim – Verse 42
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَحْسَبَنَّ اللَّهَ غَافِلاً عَمَّا يَعْمَلُ الظَّالِمُونَ
-إِنَّمَا يُؤَخّـِرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الأَبْصَارُ
-  </p>
-</blockquote>
+> وَلا تَحْسَبَنَّ اللَّهَ غَافِلاً عَمَّا يَعْمَلُ الظَّالِمُونَ
+> إِنَّمَا يُؤَخّـِرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الأَبْصَارُ
 
 ***42. “And do not regard Allah to be heedless of what the unjust do. He
 only respite them (their punishment) to a day on which the eyes shall
@@ -65,12 +61,8 @@ hands have wrought…”*** [^2]
 Surah ‘Ibrahim – Verse 43
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
-وَأَفْئِدَتُهُمْ هَوَآءٌ
-  </p>
-</blockquote>
+> مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+> وَأَفْئِدَتُهُمْ هَوَآءٌ
 
 ***43. “Hastening forward, their heads upraised, their eyes (and
 eyelids) not blinking and their hearts void.”***
@@ -104,14 +96,10 @@ which is shown in the above short verse.
 Surah ‘Ibrahim – Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ فَيَقُولُ الَّذِينَ
-ظَلَمُوا رَبَّنَآ أَخّـِرْنَآ إِلَي أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ
-وَنَتَّبِعِ الرُّسُلَ أَوَلَمْ تَكُونُوا أَقْسَمْتُم مِن قَبْلُ مَا
-لَكُم مِن زَوَالٍ
-  </p>
-</blockquote>
+> وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ فَيَقُولُ الَّذِينَ
+> ظَلَمُوا رَبَّنَآ أَخّـِرْنَآ إِلَي أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ
+> وَنَتَّبِعِ الرُّسُلَ أَوَلَمْ تَكُونُوا أَقْسَمْتُم مِن قَبْلُ مَا
+> لَكُم مِن زَوَالٍ
 
 ***44. “And warn the people as to the day when the chastisement comes to
 them; then those who did injustice will say: ‘Our Lord, defer us to a
@@ -169,12 +157,8 @@ no end for you?’”***
 Surah ‘Ibrahim – Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسَكَنتُمْ فِي مَسَاكِنِ الَّذِينَ ظَلَمُوا أَنفُسَهُمْ وَتَبَيَّنَ
-لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ الأَمْثَالَ
-  </p>
-</blockquote>
+> وَسَكَنتُمْ فِي مَسَاكِنِ الَّذِينَ ظَلَمُوا أَنفُسَهُمْ وَتَبَيَّنَ
+> لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ الأَمْثَالَ
 
 ***45. “And you dwelt in the abodes of those who did injustice to
 themselves oppression on yourself in the houses of those who preceded
@@ -217,12 +201,8 @@ re-enliven all after their death, and to reckon their accounts.
 Surah ‘Ibrahim – Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ مَكَرُوا مَكْرَهُمْ وَعِندَ اللَّهِ مَكْرُهُمْ وَإِن كَانَ
-مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ
-  </p>
-</blockquote>
+> وَقَدْ مَكَرُوا مَكْرَهُمْ وَعِندَ اللَّهِ مَكْرُهُمْ وَإِن كَانَ
+> مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ
 
 ***46. “And indeed they have devised their devising, and their devising
 is with Allah, though their devising were such as to remove the
@@ -251,12 +231,8 @@ withstood all sorts of conspiracies and tricks of the enemies.
 Surah ‘Ibrahim – Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ رُسُلَه إِنَّ اللَّهَ
-عَزِيزٌ ذُو انتِقَامٍ
-  </p>
-</blockquote>
+> فَلا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ رُسُلَه إِنَّ اللَّهَ
+> عَزِيزٌ ذُو انتِقَامٍ
 
 ***47. “So do not think that Allah will fail in His promise to His
 messengers. Verily Allah is Mighty, the Lord of Retribution.”***
@@ -299,12 +275,8 @@ and of going back on one’s promises.
 Surah ‘Ibrahim – Verse 48
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ وَالسَّمَاوَاتُ وَبَرَزُوا
-لِلَّهِ الْوَاحِدِ الْقَهَّارِ
-  </p>
-</blockquote>
+> يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ وَالسَّمَاوَاتُ وَبَرَزُوا
+> لِلَّهِ الْوَاحِدِ الْقَهَّارِ
 
 ***48. “On the day when the earth shall be changed into other than the
 earth and (so will be) the heavens, and (all men) shall come forth
@@ -349,17 +321,9 @@ what exists in the outside of every single being.
 Surah ‘Ibrahim – Verses 49 - 50
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَي الْمُـجْرِمِينَ يَوْمَئِذٍ مُقَرَّنِينَ فِي الأَصْفَادِ
-  </p>
-</blockquote>
+> وَتَرَي الْمُـجْرِمِينَ يَوْمَئِذٍ مُقَرَّنِينَ فِي الأَصْفَادِ
 
-<blockquote dir="rtl">
-  <p>
-سَرَابِيلُهُم مِن قَطِرَانٍ وَتَغْشَي وُجُوهَهُمُ النَّارُ
-  </p>
-</blockquote>
+> سَرَابِيلُهُم مِن قَطِرَانٍ وَتَغْشَي وُجُوهَهُمُ النَّارُ
 
 ***49. “And you will see the guilty on that day bound together in
 chains.”***  
@@ -416,12 +380,8 @@ burning. It is extremely stinking and inflammable.
 Surah ‘Ibrahim – Verse 51
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَجْزِيَ اللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ إِنَّ اللَّهَ سَرِيعُ
-الْحِسَابِ
-  </p>
-</blockquote>
+> لِيَجْزِيَ اللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ إِنَّ اللَّهَ سَرِيعُ
+> الْحِسَابِ
 
 ***51. “That Allah may requite everyone what he has earned, verily Allah
 is swift at reckoning.”***
@@ -447,12 +407,8 @@ The verse continues to say:
 Surah ‘Ibrahim – Verse 52
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا بَلاَغٌ لِلنَّاسِ وَلِيُنذَرُوا بِهِ وَلِيَعْلَمُوا أَنَّمَا
-هُوَ إِلَهٌ وَاحِدٌ وَلِيَذَّكَّرَ اُوْلُواْ الأَلْبَابِ
-  </p>
-</blockquote>
+> هَذَا بَلاَغٌ لِلنَّاسِ وَلِيُنذَرُوا بِهِ وَلِيَعْلَمُوا أَنَّمَا
+> هُوَ إِلَهٌ وَاحِدٌ وَلِيَذَّكَّرَ اُوْلُواْ الأَلْبَابِ
 
 ***52. “This is a clear message for mankind and that they may be warned
 by it, and that they may know that He is God (the only) One, and that
@@ -539,5 +495,4 @@ You can read the biography of Hadrat-i-’Ibrahim in the following pages.
 [^5]: Nahj-ul-Bal aqah, sermon 176
 
 [^6]: Ibid
-
 

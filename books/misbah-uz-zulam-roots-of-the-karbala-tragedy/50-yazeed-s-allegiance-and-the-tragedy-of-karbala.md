@@ -262,4 +262,3 @@ some evil-minded person has not realized it, it is his misfortune.
 
 [^1]: Refer Tarikh Tabari
 
-

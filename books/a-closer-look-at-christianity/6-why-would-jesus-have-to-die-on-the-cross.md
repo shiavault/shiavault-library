@@ -74,4 +74,3 @@ previous laws cannot be removed or discarded, and those who willfully
 change these laws***“he shall be called the least in the kingdom of
 heaven.”***
 
-

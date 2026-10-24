@@ -171,4 +171,3 @@ The prevention, lack of logic, and injustice instead of resolving the
 problems have caused disorder in the society that can be eradicated by
 the aid of a rational and practical revolution.
 
-

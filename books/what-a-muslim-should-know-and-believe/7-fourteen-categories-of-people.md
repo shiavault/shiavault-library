@@ -243,4 +243,3 @@ shari'ah? He will become kafir.
 list. But in my view it should be included as the Fifteenth category.
 The details have been mentioned in ch. 4.
 
-

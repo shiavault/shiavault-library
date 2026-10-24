@@ -3,11 +3,7 @@ Lesson Fourteen: Source of Wealth
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-"اُطْلُبُوا الرِّزْقَ في خَبايَا الأرْضِ"
-  </p>
-</blockquote>
+> "اُطْلُبُوا الرِّزْقَ في خَبايَا الأرْضِ"
 
 Translation
 -----------
@@ -27,5 +23,4 @@ so as to exploit for our benefit the abundant natural resources
 including the ones hidden in the depths of the earth.
 
 [^1]: narrated from Nahjul Fasahah, Fuqh AlQuran, Volume 2, page 22
-
 

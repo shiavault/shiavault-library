@@ -174,4 +174,3 @@ Qur'an says:
 if you find them capable of sound judgement, hand over to them their
 property." (Surah an-Nisa, 4:6)
 
-

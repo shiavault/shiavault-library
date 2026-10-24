@@ -127,4 +127,3 @@ well acquainted with what they do”.***
 If both sexes adhere to their individual Islamic dress codes, corruption
 would gradually diminish within society.
 
-

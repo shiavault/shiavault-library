@@ -17,20 +17,16 @@ of Allah and the valid *Sunnah* of His Messenger till the Day of
 The Shi’i position is well-captured in this *hadith* of al-Kulayni (d.
 329 H):
 
-<blockquote dir="rtl">
-  <p>
-علي، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، عن زرارة قال: جاء عبد
-الله بن عمير الليثي إلى أبي جعفر عليه السلام فقال له: ما تقول في متعة
-النساء؟ فقال: أحلها الله في كتابه وعلى لسان نبيه صلى الله عليه وآله
-فهي حلال إلى يوم القيامة فقال: يا أبا جعفر مثلك يقول هذا وقد حرمها عمر
-ونهى عنها؟! فقال: وإن كان فعل، قال: إني أعيذك بالله من ذلك أن تحل شيئا
-حرمه عمر، قال: فقال له: فأنت على قول صاحبك وأنا على قول رسول الله صلى
-الله عليه وآله فهلم ألاعنك أن القول ما قال رسول الله صلى الله عليه
-وآله وأن الباطل ما قال صاحبك، قال: فأقبل عبد الله ابن عمير فقال: يسرك
-أن نساءك وبناتك وأخواتك وبنات عمك يفعلن، قال: فأعرض عنه أبو جعفر عليه
-السلام حين ذكر نساءه وبنات عمه.
-  </p>
-</blockquote>
+> علي، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، عن زرارة قال: جاء عبد
+> الله بن عمير الليثي إلى أبي جعفر عليه السلام فقال له: ما تقول في متعة
+> النساء؟ فقال: أحلها الله في كتابه وعلى لسان نبيه صلى الله عليه وآله
+> فهي حلال إلى يوم القيامة فقال: يا أبا جعفر مثلك يقول هذا وقد حرمها عمر
+> ونهى عنها؟! فقال: وإن كان فعل، قال: إني أعيذك بالله من ذلك أن تحل شيئا
+> حرمه عمر، قال: فقال له: فأنت على قول صاحبك وأنا على قول رسول الله صلى
+> الله عليه وآله فهلم ألاعنك أن القول ما قال رسول الله صلى الله عليه
+> وآله وأن الباطل ما قال صاحبك، قال: فأقبل عبد الله ابن عمير فقال: يسرك
+> أن نساءك وبناتك وأخواتك وبنات عمك يفعلن، قال: فأعرض عنه أبو جعفر عليه
+> السلام حين ذكر نساءه وبنات عمه.
 
 ‘Ali – his father – Ibn Abi ‘Umayr – ‘Umar b. Uzaynah – Zurarah:
 
@@ -58,11 +54,7 @@ when he mentioned his wives and the daughters of his uncle.[^1]
 
 ‘Allamah al-Majlisi (d. 1111 H) says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^2]
 
@@ -87,14 +79,10 @@ Interestingly, there are some authentic Sunni *riwayat* which also
 confirm this Shi’i *hadith*. Imam Muslim (d. 261 H) has this surprising
 one:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا حامد بن عمرو البكراوي حدثنا عبدالواحد ( يعني ابن زياد ) عن عاصم
-عن أبي نضرة قال كنت عند جابر بن عبدالله فأتاه آت فقال ابن عباس وابن
-الزبير اختلفا في المتعتين فقال جابر فعلناهما مع رسول الله صلى الله
-عليه و سلم ثم نهانا عنهما عمر فلم نعد لهما
-  </p>
-</blockquote>
+> حدثنا حامد بن عمرو البكراوي حدثنا عبدالواحد ( يعني ابن زياد ) عن عاصم
+> عن أبي نضرة قال كنت عند جابر بن عبدالله فأتاه آت فقال ابن عباس وابن
+> الزبير اختلفا في المتعتين فقال جابر فعلناهما مع رسول الله صلى الله
+> عليه و سلم ثم نهانا عنهما عمر فلم نعد لهما
 
 Hamid b. ‘Amr al-Bakrawi – ‘Abd al-Wahid b. Ziyad – ‘Asim – Abu Naḍrah:
 
@@ -111,13 +99,9 @@ explicitly stated that it was ‘Umar who first banned both of them.
 
 The same fact is reiterated in this *hadith* of Imam Ahmad (d. 241 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا إسحاق ثنا عبد الملك عن عطاء عن جابر بن
-عبد الله قال كنا نتمتع على عهد رسول الله صلى الله عليه و سلم وأبي بكر
-وعمر رضي الله عنهم حتى نهانا عمر رضي الله عنه أخيرا يعني النساء
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا إسحاق ثنا عبد الملك عن عطاء عن جابر بن
+> عبد الله قال كنا نتمتع على عهد رسول الله صلى الله عليه و سلم وأبي بكر
+> وعمر رضي الله عنهم حتى نهانا عمر رضي الله عنه أخيرا يعني النساء
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Ishaq – ‘Abd
 al-Malik – ‘Aṭa – Jabir b. ‘Abd Allah:
@@ -129,11 +113,7 @@ later forbade it**, that is (*mut’ah* with) women.[^4]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is *sahih* upon the standard of (Imam) Muslim.[^5]
 
@@ -142,14 +122,10 @@ no problem with it throughout his rule.
 
 Imam Muslim equally reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن رافع حدثنا عبدالرزاق أخبرنا ابن جريج أخبرني أبو الزبير
-قال سمعت جابر بن عبدالله يقول كنا نستمتع بالقبضة من التمر والدقيق
-الأيام على عهد رسول الله صلى الله عليه و سلم وأبي بكر حتى نهى عنه عمر
-في شأن عمرو بن حريث
-  </p>
-</blockquote>
+> حدثني محمد بن رافع حدثنا عبدالرزاق أخبرنا ابن جريج أخبرني أبو الزبير
+> قال سمعت جابر بن عبدالله يقول كنا نستمتع بالقبضة من التمر والدقيق
+> الأيام على عهد رسول الله صلى الله عليه و سلم وأبي بكر حتى نهى عنه عمر
+> في شأن عمرو بن حريث
 
 Muhammad b. Rafi’ – ‘Abd al-Razzaq – Ibn Jurayj – Abu al-Zubayr:
 
@@ -179,13 +155,9 @@ allow *zina* to flourish in his domains?
 
 Imam Ahmad still has more reports for us:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي حدثنا يونس ثنا حماد يعني بن سلمة عن علي بن
-زيد وعاصم الأحول عن أبي نضرة عن جابر بن عبد الله قال تمتعنا متعتين على
-عهد النبي صلى الله عليه و سلم الحج والنساء فنهانا عمر عنهما فانتهينا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي حدثنا يونس ثنا حماد يعني بن سلمة عن علي بن
+> زيد وعاصم الأحول عن أبي نضرة عن جابر بن عبد الله قال تمتعنا متعتين على
+> عهد النبي صلى الله عليه و سلم الحج والنساء فنهانا عمر عنهما فانتهينا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yunus – Hamad b.
 Salamah – ‘Ali b. Zayd AND ‘Asim al-Ahwal – Abu Naḍrah – Jabir b. ‘Abd
@@ -197,24 +169,16 @@ So, we desisted**.[^7]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is *sahih* upon the standard of (Imam) Muslim.[^8]
 
 He also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عفان ثنا حماد أنا علي بن زيد وعاصم الأحول
-عن أبي نضرة عن جابر بن عبد الله قال تمتعنا على عهد رسول الله صلى الله
-عليه و سلم متعتين الحج والنساء وقد قال حماد أيضا متعة الحج ومتعة
-النساء فلما كان عمر نهانا عنهما فانتهينا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عفان ثنا حماد أنا علي بن زيد وعاصم الأحول
+> عن أبي نضرة عن جابر بن عبد الله قال تمتعنا على عهد رسول الله صلى الله
+> عليه و سلم متعتين الحج والنساء وقد قال حماد أيضا متعة الحج ومتعة
+> النساء فلما كان عمر نهانا عنهما فانتهينا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Affan – Hamad –
 ‘Ali b. Zayd AND ‘Asim al-Ahwal – Abu Naḍrah – Jabir b. ‘Abd Allah:
@@ -226,23 +190,15 @@ them both, we desisted**.[^9]
 
 Al-Arnauṭ again says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^10]
 
 Then, Imam Ahmad tops them with this:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الصمد ثنا حماد عن عاصم عن أبي نضرة عن
-جابر قال متعتان كانتا على عهد النبي صلى الله عليه و سلم فنهانا عنهما
-عمر رضي الله تعالى عنه فانتهينا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الصمد ثنا حماد عن عاصم عن أبي نضرة عن
+> جابر قال متعتان كانتا على عهد النبي صلى الله عليه و سلم فنهانا عنهما
+> عمر رضي الله تعالى عنه فانتهينا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Samad –
 Hamad – ‘Asim – Abu Naḍrah – Jabir:
@@ -253,11 +209,7 @@ us from them both. So, we desisted**.[^11]
 
 Al-Arnauṭ declares:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is *sahih* upon the standard of (Imam) Muslim.[^12]
 
@@ -270,15 +222,11 @@ Meanwhile, when ‘Umar banned *mut’ah*, his action naturally attracted
 opposition from some Sahabah. One of them was ‘Abd Allah b. Mas’ud,
 about whom Imam Muslim reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن عبدالله بن نمير الهمداني حدثنا أبي ووكيع وابن بشر عن
-إسماعيل عن قيس قال سمعت عبدالله يقول كنا نغزو مع رسول الله صلى الله
-عليه و سلم ليس لنا نساء فقلنا ألا نستخصى ؟ فنهانا عن ذلك ثم رخص لنا أن
-ننكح المرأة بالثوب إلى أجل ثم قرأ عبدالله { يا أيها الذين آمنوا لا
-تحرموا طيبات ما أحل الله لكم ولا تعتدوا إن الله لا يحب المعتدين }
-  </p>
-</blockquote>
+> حدثنا محمد بن عبدالله بن نمير الهمداني حدثنا أبي ووكيع وابن بشر عن
+> إسماعيل عن قيس قال سمعت عبدالله يقول كنا نغزو مع رسول الله صلى الله
+> عليه و سلم ليس لنا نساء فقلنا ألا نستخصى ؟ فنهانا عن ذلك ثم رخص لنا أن
+> ننكح المرأة بالثوب إلى أجل ثم قرأ عبدالله { يا أيها الذين آمنوا لا
+> تحرموا طيبات ما أحل الله لكم ولا تعتدوا إن الله لا يحب المعتدين }
 
 Muhammad b. ‘Abd Allah b. Numayr al-Hamdani – my father, Waki’ and Ibn
 Bishr – Isma’il – Qays:
@@ -295,14 +243,10 @@ limits} [5:87].[^13]
 
 Ahmad has documented it too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا وكيع عن بن أبي خالد عن قيس عن عبد الله
-قال كنا مع النبي صلى الله عليه و سلم ونحن شباب فقلنا يا رسول الله ألا
-نستخصي فنهانا ثم رخص لنا في ان ننكح المرأة بالثوب إلى الأجل ثم قرأ عبد
-الله { لا تحرموا طيبات ما أحل الله لكم }
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا وكيع عن بن أبي خالد عن قيس عن عبد الله
+> قال كنا مع النبي صلى الله عليه و سلم ونحن شباب فقلنا يا رسول الله ألا
+> نستخصي فنهانا ثم رخص لنا في ان ننكح المرأة بالثوب إلى الأجل ثم قرأ عبد
+> الله { لا تحرموا طيبات ما أحل الله لكم }
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Waki’ – Ibn Abi
 Khalid – Qays – ‘Abd Allah:
@@ -317,11 +261,7 @@ you**} [5:87].[^14]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs[^15]
 
@@ -332,23 +272,15 @@ be one of the “good things” mentioned by Allah in His Book. This was
 clearly why he quoted the *ayah* in connection with it. Al-Hafiẓ Ibn
 Hajar al-‘Asqalani (d. 852 H) has this commentary of that *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-وظاهر استشهاد ابن مسعود بهذه الآية هنا يشعر بأنه كان يرى بجواز المتعة
-  </p>
-</blockquote>
+> وظاهر استشهاد ابن مسعود بهذه الآية هنا يشعر بأنه كان يرى بجواز المتعة
 
 Apparently, Ibn Mas’ud’s use of this verse here as evidence shows that
 **he considered** ***mut’ah*** **to be permissible**.[^16]
 
 Imam al-Nawawi (d. 676 H) has the same opinion:
 
-<blockquote dir="rtl">
-  <p>
-)ثم قرأ عبد الله يا أيها الذين آمنوا لا تحرموا طيبات ما أحل الله لكم (
-فيه إشارة إلى أنه كان يعتقد اباحتها كقول ابن عباس وأنه لم يبلغه نسخها
-  </p>
-</blockquote>
+> )ثم قرأ عبد الله يا أيها الذين آمنوا لا تحرموا طيبات ما أحل الله لكم (
+> فيه إشارة إلى أنه كان يعتقد اباحتها كقول ابن عباس وأنه لم يبلغه نسخها
 
 (Then, ‘Abd Allah recited, {O you who believe! Do not make *haram* the
 good things which Allah has made *halal* for you} [5:87]) **there is an
@@ -431,5 +363,4 @@ edition), vol. 9, p. 102
 
 [^17]: Abu Zakariyyah Yahya b. Sharaf al-Nawawi, Sharh Ṣahih Muslim
 (Beirut: Dar al-Kitab al-‘Arabi; 1st edition, 1407 H) vol. 9, p. 182
-
 

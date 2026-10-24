@@ -85,4 +85,3 @@ contradictions? I say to all my Christian brothers that brought me
 verses that claim Christ’s divinity,***“now you have to explain to me
 how this is possible. What does all this mean?”***
 
-

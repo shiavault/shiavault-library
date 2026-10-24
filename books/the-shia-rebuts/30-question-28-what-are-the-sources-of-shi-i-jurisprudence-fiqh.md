@@ -29,23 +29,15 @@ accepted, and if not, it is rejected.
 Imam as-Sadiq (*‘a*), the sixth Imam followed by the Shi‘ah, thus says
 in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"وكل حديث لا يوافق كتاب الله فهو زخرف."
-  </p>
-</blockquote>
+> "وكل حديث لا يوافق كتاب الله فهو زخرف."
 
 “Any statement, which is not in conformity with the Book of Allah, is
 worthless.”[^1]
 
 Also, Imam as-Sadiq (*‘a*) thus narrates from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-"أيها الناس ما جاءكم عني يوافق كتاب الله فأنا قلته وما جاءكم يخالف
-كتاب الله فلم أقلة."
-  </p>
-</blockquote>
+> "أيها الناس ما جاءكم عني يوافق كتاب الله فأنا قلته وما جاءكم يخالف
+> كتاب الله فلم أقلة."
 
 “O people! When you hear a statement which is attributed to me and is in
 harmony with the Book of Allah, take it for granted that I have said it;
@@ -75,12 +67,8 @@ The leaders of the Shi‘ah have enjoined their followers to cling to the
 Book of Allah and the *Sunnah* of the Prophet (S). Imam as-Sadiq (*‘a*)
 says:
 
-<blockquote dir="rtl">
-  <p>
-"إذا ورد عليكم حديث فوجدتم له شاهداً من كتاب الله أو من قول رسول الله
-(ص) إلا فالذي جاءكم به أولى به."
-  </p>
-</blockquote>
+> "إذا ورد عليكم حديث فوجدتم له شاهداً من كتاب الله أو من قول رسول الله
+> (ص) إلا فالذي جاءكم به أولى به."
 
 If you are introduced to a narration which conforms with the Book of
 Allah or the words of the Messenger of Allah (S), accept it; otherwise,
@@ -90,12 +78,8 @@ Similarly, Imam al-Baqir (*‘a*) considers holding fast to the *Sunnah*
 of the Prophet (S) as a basic characteristic of an extremely well
 qualified jurist, and says:
 
-<blockquote dir="rtl">
-  <p>
-"إن الفقيه حق الفقيه الزاهد في الدنيا الراغب في الأخرة المتمسك بسنّة
-النبيّ (ص)."
-  </p>
-</blockquote>
+> "إن الفقيه حق الفقيه الزاهد في الدنيا الراغب في الأخرة المتمسك بسنّة
+> النبيّ (ص)."
 
 “A true jurist is he who renounces what is in this world, desires for
 what is in the hereafter and clings to the *Sunnah* of the Prophet
@@ -106,11 +90,7 @@ that they reject whatever opposes the Book of Allah and the *Sunnah* of
 the Prophet (S), and consider it as *kufr* {denial of faith}. Imam
 as-Sadiq (*‘a*), who stresses this idea, says:
 
-<blockquote dir="rtl">
-  <p>
-"من خالف كتاب الله وسنّة محمد (ص) فقد كفر."
-  </p>
-</blockquote>
+> "من خالف كتاب الله وسنّة محمد (ص) فقد كفر."
 
 “Anyone who opposes the Book of Allah and the *Sunnah* of Muhammad (S)
 is an infidel.”[^5]  
@@ -157,23 +137,15 @@ narrations of the Prophet’s progeny (*‘a*):
 
 **1.** In response to a man’s question, Imam as-Sadiq (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-"مهما أجبتك فيه بشئ فهو عن رسول الله (ص) لسنا نقول برأينا من شئ."
-  </p>
-</blockquote>
+> "مهما أجبتك فيه بشئ فهو عن رسول الله (ص) لسنا نقول برأينا من شئ."
 
 “All the answers I give you are based on the words of the Messenger of
 Allah (S) and we do not say anything of our own.”[^6]  
  He (*‘a*) also says elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-حديثي حديث أبي وحديث أبي حديث جدّي وحديث جدّي حديث الحسين وحديث الحسين
-حديث الحسن وحديث الحسين حديث أمير المؤمنين وحديث أمير المؤمنين حديث
-رسول الله (ص) وحديث رسول الله قول الله عزّوجلّ.
-  </p>
-</blockquote>
+> حديثي حديث أبي وحديث أبي حديث جدّي وحديث جدّي حديث الحسين وحديث الحسين
+> حديث الحسن وحديث الحسين حديث أمير المؤمنين وحديث أمير المؤمنين حديث
+> رسول الله (ص) وحديث رسول الله قول الله عزّوجلّ.
 
 My *hadith* is my father’s *hadith*, and my father’s *hadith* is my
 grandfather’s *hadith*, and my grandfather’s *hadith* is al-Husayn
@@ -186,12 +158,8 @@ Honorable and Glorious.[^7]
 **2.** Imam Muhammad al-Baqir (*‘a*) thus says to Jabir (ibn ‘Abd Allah
 al-Ansari):
 
-<blockquote dir="rtl">
-  <p>
-"حدثني أبي عن جدّي رسول الله (ص) عن جبرئيل عن الله عز وجل وكلما أحدثك
-بهذا الإسناد.
-  </p>
-</blockquote>
+> "حدثني أبي عن جدّي رسول الله (ص) عن جبرئيل عن الله عز وجل وكلما أحدثك
+> بهذا الإسناد.
 
 My father narrated to me from the Messenger of Allah (S), and he from
 Jibra’il (Archangel Gabriel) (*‘a*), and Jibra’il from God, the
@@ -218,12 +186,8 @@ Here are some examples of these traditions:
 authority of Jabir ibn ‘Abd Allah al-Ansari that the Messenger of Allah
 said:
 
-<blockquote dir="rtl">
-  <p>
-"يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا: كتاب الله
-وعترتي أهل بيتي."
-  </p>
-</blockquote>
+> "يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا: كتاب الله
+> وعترتي أهل بيتي."
 
 “O people! I am leaving behind two things, which if you hold fast to,
 you will never go astray: the Book of Allah and my progeny, the members
@@ -231,14 +195,10 @@ of my Household.”[^9]
 
 **2.** Tirmidhi thus also writes in the mentioned book:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وأله وسلم: إني تارك فيكم ما إن تمسكتم به
-لن تضلوا بعدي أحدهما أعظم من الأخر: كتاب الله حبل ممدود من السماء إلى
-الأرض وعترتي أهل بيتي لن يفترقا حتى يردا عليّ الحوض فانظروا كيف
-تخلفوني فيهما.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وأله وسلم: إني تارك فيكم ما إن تمسكتم به
+> لن تضلوا بعدي أحدهما أعظم من الأخر: كتاب الله حبل ممدود من السماء إلى
+> الأرض وعترتي أهل بيتي لن يفترقا حتى يردا عليّ الحوض فانظروا كيف
+> تخلفوني فيهما.
 
 The Messenger of Allah (S) said: Verily, I am leaving among you two
 weighty things, which if you hold fast to, you will never go astray; one
@@ -251,14 +211,10 @@ with them when I leave you.[^10]
 **3.** In his *Sahih*, Muslim ibn al-Hajjaj narrates from the Holy
 Prophet (S) and says:
 
-<blockquote dir="rtl">
-  <p>
-ألا أيها الناس فانما أنا بشر يوشك أن يأتي رسول ربي فأجيب وأنا تارك
-فيكم ثقلين: أولهما كتاب الله فيه الهادي والنور فخذوا بكتاب الله
-واستمسكوا به – فحث على كتاب الله ورغب فيه ثم قال: وأهل بيتي أذكركم
-الله في أهل بيني أذكركم الله في أهل بيتي أذكركم الله في أهل بيتي.
-  </p>
-</blockquote>
+> ألا أيها الناس فانما أنا بشر يوشك أن يأتي رسول ربي فأجيب وأنا تارك
+> فيكم ثقلين: أولهما كتاب الله فيه الهادي والنور فخذوا بكتاب الله
+> واستمسكوا به – فحث على كتاب الله ورغب فيه ثم قال: وأهل بيتي أذكركم
+> الله في أهل بيني أذكركم الله في أهل بيتي أذكركم الله في أهل بيتي.
 
 “O people, I am a human being. I am about to receive a messenger (the
 angel of death) from my Lord and I, in response to Allah’s call, (would
@@ -272,12 +228,8 @@ my family.”[^11]
 **4.** A group of *hadith* scholars has reported the Holy Prophet (S) to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-إني تارك فيكم الثقلين كتاب الله وأهل بيتي وإنهما لن يفترقا حتى يردا
-عليّ الحوض.
-  </p>
-</blockquote>
+> إني تارك فيكم الثقلين كتاب الله وأهل بيتي وإنهما لن يفترقا حتى يردا
+> عليّ الحوض.
 
 I am leaving among you two weighty things {*thaqalayn*}: the Book of
 Allah (the Qur’an) and my Household {*ahla bayti*}, and these two will
@@ -333,12 +285,8 @@ Household of the Prophet (S)? Aren’t the wives (of the Holy Prophet)
 included among the members of his household?” In reply, Zayd ibn Arqam
 thus said:
 
-<blockquote dir="rtl">
-  <p>
-"لا وايم الله إن المرأة تكون مع الرجل العصر من الدهر ثم يطلقها فترجع
-إلى أبيه وقومها أهل بيته أصله وعصبته الذين حُرموا الصدقة بعده."
-  </p>
-</blockquote>
+> "لا وايم الله إن المرأة تكون مع الرجل العصر من الدهر ثم يطلقها فترجع
+> إلى أبيه وقومها أهل بيته أصله وعصبته الذين حُرموا الصدقة بعده."
 
 No, by Allah, a woman lives with a man (as his wife) for a certain
 period; he then divorces her and she goes back to her parents and to her
@@ -359,13 +307,9 @@ are twelve:
 
 Muslim narrates on the authority of Jabir ibn Samurah:
 
-<blockquote dir="rtl">
-  <p>
-سمعت رسول الله صلى الله عليه وأله وسلم يقول: لا يزال الإسلام عزيزاً
-إلى إثنى عشر خليفة ثم قال كلمة لم اسمعها فقلت لأبي ما قال؟ فقال: كلهم
-من قريش."
-  </p>
-</blockquote>
+> سمعت رسول الله صلى الله عليه وأله وسلم يقول: لا يزال الإسلام عزيزاً
+> إلى إثنى عشر خليفة ثم قال كلمة لم اسمعها فقلت لأبي ما قال؟ فقال: كلهم
+> من قريش."
 
 I heard the Messenger of Allah (S) say: ‘Islam will keep its honor with
 twelve caliphs.’ Then, he said a statement which I did not hear. I asked
@@ -375,11 +319,7 @@ said: “All of them will be from Quraysh.[^14]
 Also, Muslim ibn al-Hajjaj thus narrates from the Messenger of Allah
 (S):
 
-<blockquote dir="rtl">
-  <p>
-"لا يزال أمر الناس ماضياً ما وليهم إثنا عشر رجلاُ."
-  </p>
-</blockquote>
+> "لا يزال أمر الناس ماضياً ما وليهم إثنا عشر رجلاُ."
 
 “The affairs of the people will continue to be conducted (well) as long
 as they are governed by twelve men.”[^15]
@@ -409,12 +349,8 @@ says that the leaders of Muslims are from Banu Hashim, which is another
 clear testimony to the soundtness of the Shi‘ah premise in their
 recognition of the *Ahl al-Bayt* (*‘a*), when he declares:
 
-<blockquote dir="rtl">
-  <p>
-"إن الأئمة من قريش غرسوا في هذا البطن من بني هائم لا تصلح على من سواهم
-ولا تصلح الولاة من غيرهم."
-  </p>
-</blockquote>
+> "إن الأئمة من قريش غرسوا في هذا البطن من بني هائم لا تصلح على من سواهم
+> ولا تصلح الولاة من غيرهم."
 
 Surely, the Imams (divine leaders) will be from the Quraysh. They have
 been planted in this line through Hashim. It would not suit others nor
@@ -499,5 +435,4 @@ vol. 4, book, 31, hadith no. 5923. {Trans.}
 Translation), vol. 3, hadith no. 4478. {Trans.}
 
 [^16]: Nahj al-Balaghah (Subhi Salih), Sermon 144.
-
 

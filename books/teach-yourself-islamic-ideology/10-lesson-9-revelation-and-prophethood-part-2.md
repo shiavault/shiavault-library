@@ -126,4 +126,3 @@ cannot make laws for them?
 4. Can revelation and prophethood eliminate the deficiencies that human
 beings face in the area of recognition?
 
-

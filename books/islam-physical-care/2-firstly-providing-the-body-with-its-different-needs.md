@@ -78,7 +78,6 @@ says: "Say: Who has forbidden the adornment of Allah which He has
 brought forth for His servants, and the good provisions?...'' Sure Al-A
 rat (7:32)
 
-
 **B .Marriage:**
 
 Islam takes care of all aspects of life in an objective and practical
@@ -366,5 +365,4 @@ Qatada said: 0 Messenger of Allah! the enemy has gone. How about a race
 ? The Prophet agreed. They raced, the Messenger of Allah (S.A.) was the
 winner. He, then, told them: lam the son of the Awatik36 of Qureish. It
 is my horse, Al-Bohr (the Sea)"37
-
 

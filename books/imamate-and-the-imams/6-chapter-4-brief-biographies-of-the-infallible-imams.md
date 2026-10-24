@@ -258,4 +258,3 @@ introduced in brief.
 
 [^9]: Tuhaful Uqul, p. 401.
 
-

@@ -249,4 +249,3 @@ Ibrahim decided to share the message with Ismail, so he called him.
 Ismail came and his father looked at him from his head to his toe. He
 was a victim and such a great sacrifice.
 
-

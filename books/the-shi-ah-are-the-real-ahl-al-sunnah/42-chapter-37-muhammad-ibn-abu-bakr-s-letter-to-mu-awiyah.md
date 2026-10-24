@@ -89,7 +89,7 @@ once we read it, the threads of the plot that kept the caliphate out of
 the reach of its legitimate owner and that caused the nation to deviate;
 so, let us provide you with his answer.
 
-[^270] Jamharat Rasaail al-Arab, Vol. 1, p. 475. Al-Mas\`udi, Muruj
+[^270]: Jamharat Rasaail al-Arab, Vol. 1, p. 475. Al-Mas\`udi, Muruj
 al-Dhahab, Vol. 2, p. 59. Ibn Abul-Hadid, Sharh Nahjul Balagha, Vol. 1,
 p. 283.
 

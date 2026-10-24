@@ -21,4 +21,3 @@ a Shia take is on the fundamental of a campaign. He opposes a tyrant
 government and supports anything having to do with belief. His position
 has always been strong solid in the political field.
 
-

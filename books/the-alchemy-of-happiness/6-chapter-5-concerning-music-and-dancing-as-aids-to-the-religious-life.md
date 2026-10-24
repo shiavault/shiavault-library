@@ -231,4 +231,3 @@ Persians have theirs, and God knoweth which is best.
 2. Muhammad's favourite wife.
 3. Subsequently the first caliph.
 
-

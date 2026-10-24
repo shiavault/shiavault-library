@@ -49,4 +49,3 @@ Sublime."*[^4]
 
 [^4]: Da‘a’im al-Islam, vol. 2, p. 119.
 
-

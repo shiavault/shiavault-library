@@ -35,4 +35,3 @@ As soon as the prayers were completed the Beloved Messenger of God cast
 a glance of surprise and astonishment over the surging crowd and
 gracefully moved towards the unique and historic pulpit.
 
-

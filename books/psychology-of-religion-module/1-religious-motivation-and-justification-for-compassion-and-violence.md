@@ -50,4 +50,3 @@ involved in or affected by religion or religious issues in one way or
 another. This chapter will help you understand the psychological
 processes that explain how this works.
 
-

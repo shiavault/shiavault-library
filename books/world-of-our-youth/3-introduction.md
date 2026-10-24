@@ -300,4 +300,3 @@ Ahmad Ahmad & Adil al-Qadi
  Beirut  
  January 1, 1995
 
-

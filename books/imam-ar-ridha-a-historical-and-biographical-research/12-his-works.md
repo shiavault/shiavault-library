@@ -549,4 +549,3 @@ series, issue number 2, p. 130
 
 [^5]: Uyoon Akhbar ar-Ridha’, Vol. 2, p. 121
 
-

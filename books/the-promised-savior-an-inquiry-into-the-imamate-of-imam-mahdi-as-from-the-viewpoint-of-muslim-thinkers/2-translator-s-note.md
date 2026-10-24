@@ -37,4 +37,3 @@ the work was carefully reviewed. It was accomplished on Ramadan 21st,
 
 [^1]: rauf afzali@yahoo.com
 
-

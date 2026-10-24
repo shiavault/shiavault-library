@@ -421,11 +421,7 @@ This much was necessary to mention about Nahjul Balaghah, because we
 find nowadays some people laboring under the impression that it was a
 spurious book. However, the facts speak for themselves.
 
-<blockquote dir="rtl">
-  <p>
-ربّنا تقبل منّا إنك أنت السميع العليم
-  </p>
-</blockquote>
+> ربّنا تقبل منّا إنك أنت السميع العليم
 
 [^1]: Marujudh-Dhahab, vol. 2 p. 33, Egypt ed.
 
@@ -454,5 +450,4 @@ pp. 330-361. He also gives another chain of narrators in the same book
 on p. 146 & 361, respectively.
 
 [^13]: Al-Anwar An-Nu 'maniyah, p. 37
-
 

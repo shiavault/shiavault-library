@@ -20,17 +20,12 @@ us.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ بَكـى أَوْ أَبْكَـى وَاحِداً فَلَهُ الْجَنَّةُ وَ مَنْ
-تَبَاكَـى فَلَهُ الْجَنَّةُ
-  </p>
-</blockquote>
+> وَ مَنْ بَكـى أَوْ أَبْكَـى وَاحِداً فَلَهُ الْجَنَّةُ وَ مَنْ
+> تَبَاكَـى فَلَهُ الْجَنَّةُ
 
 “A person who cries or makes one other person cry will be granted
 Paradise and even a person who pretends to cry (if he cannot cry) will
 also be granted Paradise.”[^1]
 
 [^1]: al-Luhuf, pg. 11; Biharul Anwar, vol. 44, pg. 288, sec. 34, no. 27
-
 

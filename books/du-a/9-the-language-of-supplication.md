@@ -41,14 +41,10 @@ argumentation:
  In Simat supplication we see that God's name appears in the opening
 passage:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ إنِّي أسْألُكَ بِاسْمِكَ العَظيِمِ الأعْظَمِ الأجَلِّ
-الأكْرَمِ الّذي إذا دُعِيتَ بهِ عَلى مَغالِقِ أبْوابِ السَّماءِ
-لِلفَتْحِ بِالرَّحْمَةِ انْفَتَحَتْ وإذا دُعِيتَ بهِ عَلى مَضايِقِ
-أبْوابِ الأرْضِ لِلفَرَجِ انْفَرَجَتْ.
-  </p>
-</blockquote>
+> اَللّهُمّ إنِّي أسْألُكَ بِاسْمِكَ العَظيِمِ الأعْظَمِ الأجَلِّ
+> الأكْرَمِ الّذي إذا دُعِيتَ بهِ عَلى مَغالِقِ أبْوابِ السَّماءِ
+> لِلفَتْحِ بِالرَّحْمَةِ انْفَتَحَتْ وإذا دُعِيتَ بهِ عَلى مَضايِقِ
+> أبْوابِ الأرْضِ لِلفَرَجِ انْفَرَجَتْ.
 
 “O Allah! I invoke You with Your Great Name which is greater than your
 names, more glorious than Your names and more beloved than them. I
@@ -57,14 +53,10 @@ locks of the gates of the Heaven they will be opened with mercy and if
 You are invoked with it to open up the narrow gates of the earth with
 deliverance they will be opened up”.
 
-<blockquote dir="rtl">
-  <p>
-وَبِحِكْمَتِكَ الّتي خَلَقْتَ بِها الظُّلْمَةَ وَجَعَلْتَها لَيلاً
-سَكَناً وَخَلَقْتَ بِها النُّورَ وَجَعَلْتَهُ نَهاراً وَخَلَقْتَ بِها
-الشَّمْسَ وَخَلَقْتَ بِها القَمَرَ وَخَلَقْتَ بِها الكَواكِبَ
-وَجَعَلْتَها نُجوماً.
-  </p>
-</blockquote>
+> وَبِحِكْمَتِكَ الّتي خَلَقْتَ بِها الظُّلْمَةَ وَجَعَلْتَها لَيلاً
+> سَكَناً وَخَلَقْتَ بِها النُّورَ وَجَعَلْتَهُ نَهاراً وَخَلَقْتَ بِها
+> الشَّمْسَ وَخَلَقْتَ بِها القَمَرَ وَخَلَقْتَ بِها الكَواكِبَ
+> وَجَعَلْتَها نُجوماً.
 
 “…and with Your wisdom, by which You have created darkness and made it
 as calmness at night and created light and made it as day and created
@@ -72,19 +64,15 @@ the sun, the moon and the planets and made them as stars.”
  In the supplication of “al-Jawshan al-Kabir” God is given a thousand
 names, each name of which relates to one aspect of the creation.
 
-<blockquote dir="rtl">
-  <p>
-يا مَنْ لهُ المُلْكُ وَالكَمالُ، يا مُنْشِئَ السَّحابِ الثِّقالِ, يا
-صَانِعَ كُلِّ مَصنوعٍ, يا خَالقَ كُلِّ مَخلوقٍ, يا رازِقَ كُلِّ
-مَرزوقٍ, يا مُصَوِّرُ يا مُقَدِّرُ يا مُدَبِّرُ, يا مَنْ كُلُّ شَيءٍ
-مَوجودٌ بهِ, يا مَنْ كُلُّ شَيءٍ قائِمٌ بهِ, يا رَبَّ الحُبوبِ
-وَالثِّمارِ, يا رَبَّ الأنْهارِ وَالأشْجارِ, يا رَبَّ الصَّحاري
-وَالقِفارِ, يا رَبَّ البَراري والبِحارِ, يا رَبِّ اللَّيلِ
-وَالنَّهارِ, يا مَنْ نَفَذَ في كُلِّ شَيءٍ أمْرُهُ, يا مَن لَحِقَ
-بِكُلِّ شَيءٍ عِلمُهُ, يا مَن لا مُلْكَ إلاّ مُلكُهُ, يا مَن لا عَطاءَ
-إلاّ عَطاؤهُ.
-  </p>
-</blockquote>
+> يا مَنْ لهُ المُلْكُ وَالكَمالُ، يا مُنْشِئَ السَّحابِ الثِّقالِ, يا
+> صَانِعَ كُلِّ مَصنوعٍ, يا خَالقَ كُلِّ مَخلوقٍ, يا رازِقَ كُلِّ
+> مَرزوقٍ, يا مُصَوِّرُ يا مُقَدِّرُ يا مُدَبِّرُ, يا مَنْ كُلُّ شَيءٍ
+> مَوجودٌ بهِ, يا مَنْ كُلُّ شَيءٍ قائِمٌ بهِ, يا رَبَّ الحُبوبِ
+> وَالثِّمارِ, يا رَبَّ الأنْهارِ وَالأشْجارِ, يا رَبَّ الصَّحاري
+> وَالقِفارِ, يا رَبَّ البَراري والبِحارِ, يا رَبِّ اللَّيلِ
+> وَالنَّهارِ, يا مَنْ نَفَذَ في كُلِّ شَيءٍ أمْرُهُ, يا مَن لَحِقَ
+> بِكُلِّ شَيءٍ عِلمُهُ, يا مَن لا مُلْكَ إلاّ مُلكُهُ, يا مَن لا عَطاءَ
+> إلاّ عَطاؤهُ.
 
 “O God, I invoke You, Who have the absolute domination and perfection,
 Who have created the heavy clouds, Who have made every thing, Who have
@@ -101,48 +89,32 @@ His, Who there is no gift except His.”
 On the issue of the revolution of the world and the want and desire of
 every creature to be absorbed by God, we read:
 
-<blockquote dir="rtl">
-  <p>
-يا مَنْ لا مَفْزَعَ إلاّ إلَيهِ، يا مَنْ لا مَقْصدَ إلاّ إلَيهِ.
-  </p>
-</blockquote>
+> يا مَنْ لا مَفْزَعَ إلاّ إلَيهِ، يا مَنْ لا مَقْصدَ إلاّ إلَيهِ.
 
 “O God, Who are the shelter for every creature and the One to Whom every
 creature resorts.”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-يا مَنْ كُلُّ شَيءٍ صائِرٌ إلَيهِ.
-  </p>
-</blockquote>
+> يا مَنْ كُلُّ شَيءٍ صائِرٌ إلَيهِ.
 
 “O God, to Whom everything returns.”  
  In Rajabiyya Supplication, we read as well:
 
-<blockquote dir="rtl">
-  <p>
-أسْألُكَ بِاسْمِكَ الأعْظَمِ الأجَلِّ الأكْرَمِ الّذي وَضَعْتَهُ عَلى
-النَّهارِ فَأضاءَ وَعَلى اللّيلِ فأظْلَمَ.
-  </p>
-</blockquote>
+> أسْألُكَ بِاسْمِكَ الأعْظَمِ الأجَلِّ الأكْرَمِ الّذي وَضَعْتَهُ عَلى
+> النَّهارِ فَأضاءَ وَعَلى اللّيلِ فأظْلَمَ.
 
 “I invoke You with Your greatest, most honored and most glorious
 attribute, which You have put on the day and it has lit and put on the
 night and it has become dark.”  
  We read in the Sabah supplication:
 
-<blockquote dir="rtl">
-  <p>
-يا مَنْ دَلَعَ لِسانَ الصّباحِ بِنُطْقِ تَبَلُّجِهِ وَسَرَّحَ قِطَعَ
-اللّيلِ المُظْلِمِ بِغَياهِبِ تَلَجْلُجِهِ وَأتْقَنَ صُنْعَ الفَلَكِ
-الدَّوّارِ بِمَقادِيرِ تَبَرُّجِهِ وَشَعْشَعَ ضِياءَ الشّمْسِ بِنُورِ
-تَأجُّجِهِ، وَخَلَقْتَ بِلُطْفِكَ الفَلَقَ وَأَنَرْتَ بِكَرَمِكَ
-دَياجِيَ الغَسَقِ وَأنْهَرْتَ المِياهَ مِن الصُّمِّ الصَّياخِيدِ
-عَذْباً وَأُجاجاً وَأنْزَلْتَ مِن المُعْصِراتِ ماءً سَجّاجاً وَجَعَلتَ
-الشّمْسَ والقَمَرَ لِلبريَّةِ سِراجاً وهّاجاً.
-  </p>
-</blockquote>
+> يا مَنْ دَلَعَ لِسانَ الصّباحِ بِنُطْقِ تَبَلُّجِهِ وَسَرَّحَ قِطَعَ
+> اللّيلِ المُظْلِمِ بِغَياهِبِ تَلَجْلُجِهِ وَأتْقَنَ صُنْعَ الفَلَكِ
+> الدَّوّارِ بِمَقادِيرِ تَبَرُّجِهِ وَشَعْشَعَ ضِياءَ الشّمْسِ بِنُورِ
+> تَأجُّجِهِ، وَخَلَقْتَ بِلُطْفِكَ الفَلَقَ وَأَنَرْتَ بِكَرَمِكَ
+> دَياجِيَ الغَسَقِ وَأنْهَرْتَ المِياهَ مِن الصُّمِّ الصَّياخِيدِ
+> عَذْباً وَأُجاجاً وَأنْزَلْتَ مِن المُعْصِراتِ ماءً سَجّاجاً وَجَعَلتَ
+> الشّمْسَ والقَمَرَ لِلبريَّةِ سِراجاً وهّاجاً.
 
 “O You, Who have made the morning shine with brightness, released the
 night with darkness, mastered the circulating orbits, made the sun shine
@@ -152,13 +124,9 @@ rocks, poured from the clouds pure water and have made the sun and the
 moon as shining lamps for Your peoples.”  
  It is mentioned in Kumayl supplication:
 
-<blockquote dir="rtl">
-  <p>
-وَبِقُوَّتِكَ الّتي قَهَرْتَ بِها كُلَّ شَيءٍ وَبِعِزَّتِكَ الّتي لا
-يَقُومُ لَها شَيءٌ وَبِعَظَمَتِكَ الّتي مَلأَتْ كُلَّ شَيءٍ
-وَبِأسْمائِكَ الّتي مَلأَتْ أرْكانَ كُلِّ شَيءٍ.
-  </p>
-</blockquote>
+> وَبِقُوَّتِكَ الّتي قَهَرْتَ بِها كُلَّ شَيءٍ وَبِعِزَّتِكَ الّتي لا
+> يَقُومُ لَها شَيءٌ وَبِعَظَمَتِكَ الّتي مَلأَتْ كُلَّ شَيءٍ
+> وَبِأسْمائِكَ الّتي مَلأَتْ أرْكانَ كُلِّ شَيءٍ.
 
 “…and with Your power, with which You have defeated everything, with
 Your glory that nothing ever equals, with Your greatness that has filled
@@ -166,14 +134,10 @@ everything and with Your attributes that have filled the corners of
 everything…”  
  And we read in the thirty sixth supplication of Sahifa:
 
-<blockquote dir="rtl">
-  <p>
-وَأنْزِلْ عَلَينا نَفْغَ هَذِهِ السَّحابِ وَبَرَكَتَها وَاصْرِفْ عَنّا
-أذَاها وَمَضَرَّتَها, اَللّهُمّ أذهِبْ مَحلَ بِلادِنا بِسُقْياكَ
-وأخْرِجْ وَحْرَ صُدورِنا بِرِزْقِكَ, فإنَّ الغَنيَّ مَنْ أغْنَيْتَ
-وإنَّ السّالِمَ مَن وَقَيْتَ.
-  </p>
-</blockquote>
+> وَأنْزِلْ عَلَينا نَفْغَ هَذِهِ السَّحابِ وَبَرَكَتَها وَاصْرِفْ عَنّا
+> أذَاها وَمَضَرَّتَها, اَللّهُمّ أذهِبْ مَحلَ بِلادِنا بِسُقْياكَ
+> وأخْرِجْ وَحْرَ صُدورِنا بِرِزْقِكَ, فإنَّ الغَنيَّ مَنْ أغْنَيْتَ
+> وإنَّ السّالِمَ مَن وَقَيْتَ.
 
 “O Allah, bring down on us the benefits and blessings of these clouds
 and turn their harms away from us. O Allah, take away the barrenness of
@@ -182,14 +146,10 @@ Your blessing. The rich one is he, whom You have made rich and the safe
 one is he, whom You have protected.”  
  It is also said:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ إنّ هاتَينِ آيَتانِ مِن آياتِكَ وَهذَينِ عَونانِ مِن
-أعْوانِكَ يَتَبَدَّرانِ طاعَتَكَ بِرَحْمَةٍ نافِعَةٍ أوْ نِقْمَةٍ
-ضارَّةٍ فلا تُمْطِرْنا بِها مَطَرَ السّوءِ وَلا تُلْبِسْنا بِهِما
-لِباسَ البَلاءِ.
-  </p>
-</blockquote>
+> اَللّهُمّ إنّ هاتَينِ آيَتانِ مِن آياتِكَ وَهذَينِ عَونانِ مِن
+> أعْوانِكَ يَتَبَدَّرانِ طاعَتَكَ بِرَحْمَةٍ نافِعَةٍ أوْ نِقْمَةٍ
+> ضارَّةٍ فلا تُمْطِرْنا بِها مَطَرَ السّوءِ وَلا تُلْبِسْنا بِهِما
+> لِباسَ البَلاءِ.
 
 “O Allah! Cloud and lightning are two signs of Yours and two assistances
 from among Your assistances obeying You with profitable mercy or harmful
@@ -197,33 +157,21 @@ wrath. O Allah, do not make them pour over us the rain of wrath nor make
 them cover us with the dress of distress!”  
  And in the sixth supplication of *Al-Sahifah al-Sajjadiyyah*:
 
-<blockquote dir="rtl">
-  <p>
-اَلحَمدُ للهِ الّذي خَلقَ اللّيْلَ وَالنَّهارَ بِقُوّتِهِ وَمَيَّزَ
-بَينَهُما بِقُدرَتِهِ وَجَعلَ لِكُلِّ واحِدٍ مِنهُما حَدّاً مَحدوداً.
-  </p>
-</blockquote>
+> اَلحَمدُ للهِ الّذي خَلقَ اللّيْلَ وَالنَّهارَ بِقُوّتِهِ وَمَيَّزَ
+> بَينَهُما بِقُدرَتِهِ وَجَعلَ لِكُلِّ واحِدٍ مِنهُما حَدّاً مَحدوداً.
 
 “Praise be to Allah, Who has created the night and the day with His
 power and distinguished between them with His might and made to each of
 them a certain limit”.
 
-<blockquote dir="rtl">
-  <p>
-وَخَلقَ لَهُمُ اللّيلَ لِيَسكُنُوا فيهِ مِن حَرَكاتِ التَّعَبِ.
-  </p>
-</blockquote>
+> وَخَلقَ لَهُمُ اللّيلَ لِيَسكُنُوا فيهِ مِن حَرَكاتِ التَّعَبِ.
 
 “And He has created for them the night to rest from the hardships of the
 day.”
 
-<blockquote dir="rtl">
-  <p>
-وَخَلقَ لَهُمُ النَّهارَ مُبْصِراً لَيَتْبَغوا فيهِ مِن فَضْلِهِ
-وَليَتَسَبَّبوا إلى رِزْقِهِ وَيَسْرَحوا في أرضِهِ طَلَباً لِمَا فيهِ
-نَيلُ العاجِلِ مِن دُنياهُم وَدَرْكُ الآجِلِ في أُخْراهُم.
-  </p>
-</blockquote>
+> وَخَلقَ لَهُمُ النَّهارَ مُبْصِراً لَيَتْبَغوا فيهِ مِن فَضْلِهِ
+> وَليَتَسَبَّبوا إلى رِزْقِهِ وَيَسْرَحوا في أرضِهِ طَلَباً لِمَا فيهِ
+> نَيلُ العاجِلِ مِن دُنياهُم وَدَرْكُ الآجِلِ في أُخْراهُم.
 
 “…and He has created the day and made it bright for them to benefit from
 their Lord's favors, to gain livelihood and to rove in His earth to get
@@ -249,33 +197,21 @@ introduce themselves as God's great names.
 The reason is that the imam's body is in this world and his truth rests
 in the other world. Imam as-Sadiq (s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ عِندَنا مِن الاسْمِ الأعْظَمِ اثْنانِ وَسَبعونَ حَرفاً،
-وَحرْفٌ واحِدٌ عِندَ اللهِ.
-  </p>
-</blockquote>
+> وَنَحْنُ عِندَنا مِن الاسْمِ الأعْظَمِ اثْنانِ وَسَبعونَ حَرفاً،
+> وَحرْفٌ واحِدٌ عِندَ اللهِ.
 
 “With us there are seventy two Great Names (of Allah) and one Name is
 with Allah.”[^1]  
  That is to say, it is particular to Allah and no one knows it. Mo'awiya
 Ibn Ammar reports from Imam as-Sadiq (s):
 
-<blockquote dir="rtl">
-  <p>
-نَحنُ واللهِ أسْماءُ اللهِ الحُسْنى.
-  </p>
-</blockquote>
+> نَحنُ واللهِ أسْماءُ اللهِ الحُسْنى.
 
 “By Allah, we are the attributes of Allah.”  
  Hammad Ibn Othman reports from Abi al-Sabah that one of the infallible
 imams (s) have said:
 
-<blockquote dir="rtl">
-  <p>
-يا أبا الصباح! نَحنُ وَاللهِ النّاسُ المَحْسودونَ.
-  </p>
-</blockquote>
+> يا أبا الصباح! نَحنُ وَاللهِ النّاسُ المَحْسودونَ.
 
 “O Abi al-Sabah, by Allah we are the very ones, who are envied by the
 people.”  
@@ -283,11 +219,7 @@ people.”
 That is to say they are in a world higher than this one. Imam Ali (s)
 has said:
 
-<blockquote dir="rtl">
-  <p>
-لَو كُشِفَ ليَ الغِطاءُ ما ازْدَدْتُ يَقيناً على يَقيني.
-  </p>
-</blockquote>
+> لَو كُشِفَ ليَ الغِطاءُ ما ازْدَدْتُ يَقيناً على يَقيني.
 
 “If the curtains (of the truth) are drawn apart, my conviction will
 never change.”  
@@ -328,13 +260,9 @@ great people, but their regrets, continual weeping and confessions of
 their weaknesses are amazing. We read in the supplication of
 *al-Iftitah*:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ إنَّ عَفْوَكَ عَن ذَنبِي وَتَجاوُزَكَ عَنْ خَطِيئَتي
-وَصَفْحَكَ عَنْ ظُلْمِي وَستْرَكَ عَلى قَبيحِ عَمَلي وَحِلْمَكَ عَن
-كَثيرِ جُرمِي عِندَ ما كانَ مِن خَطأي وَعَمْدي…
-  </p>
-</blockquote>
+> اَللّهُمَّ إنَّ عَفْوَكَ عَن ذَنبِي وَتَجاوُزَكَ عَنْ خَطِيئَتي
+> وَصَفْحَكَ عَنْ ظُلْمِي وَستْرَكَ عَلى قَبيحِ عَمَلي وَحِلْمَكَ عَن
+> كَثيرِ جُرمِي عِندَ ما كانَ مِن خَطأي وَعَمْدي…
 
 “O Allah, Your forgiving my sins, Your overlooking my mistakes, Your
 pardoning my injustice, Your covering my bad doings Your patience before
@@ -342,25 +270,17 @@ my many crimes when I have committed them intendedly and
 unintendedly…”  
  In Abu Hamza supplication we read:
 
-<blockquote dir="rtl">
-  <p>
-فَوَعِزَّتِكَ يا سَيّدي لَو أنْهَرْتَني ما بَرِحْتُ مِن بابِكَ وَ لا
-كَفَفْتُ عَنْ تَمَلُّقِكَ.
-  </p>
-</blockquote>
+> فَوَعِزَّتِكَ يا سَيّدي لَو أنْهَرْتَني ما بَرِحْتُ مِن بابِكَ وَ لا
+> كَفَفْتُ عَنْ تَمَلُّقِكَ.
 
 “O my Lord, I swear by Your dignity that even if You propel me, I will
 never leave Your gate nor will I stop flattering You.”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدي! أنا الصَّغيرُ الّذي رَبّيْتَهُ, أنا الجَاهِلُ الّذي
-عَلَّمْتَهُ وَالخاطِئُ الّذي أقَلْتَهُ؛ أرى نَفسِي تُخادِعُني وأيّامِي
-تُخاتِلُني وَقَدْ خَفَقَتْ عِندَ رَأسِي أجْنِحَةُ المَوتِ فَما لي لا
-أبْكي…
-  </p>
-</blockquote>
+> سَيِّدي! أنا الصَّغيرُ الّذي رَبّيْتَهُ, أنا الجَاهِلُ الّذي
+> عَلَّمْتَهُ وَالخاطِئُ الّذي أقَلْتَهُ؛ أرى نَفسِي تُخادِعُني وأيّامِي
+> تُخاتِلُني وَقَدْ خَفَقَتْ عِندَ رَأسِي أجْنِحَةُ المَوتِ فَما لي لا
+> أبْكي…
 
 “O my Lord, I am the little one, whom You have brought up. I am the
 ignorant one, whom You have taught. I am the sinful one, whom You have
@@ -369,25 +289,17 @@ wings of death are fluttering near my head…what about me! Why do I not
 cry!”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-أفَبِلِساني هذا الكالِّ أشْكُرُكَ أَمْ بِغايَةِ جهْدِي فِي عَمَلي
-أُرضِيكَ؟ وَما قَدرُ لِسانِي يا رَبُّ فِي جَنْبِ شُكْرِكَ؟ وما قَدرُ
-عَمَلي فِي جَنْبِ نِعَمِكَ؟
-  </p>
-</blockquote>
+> أفَبِلِساني هذا الكالِّ أشْكُرُكَ أَمْ بِغايَةِ جهْدِي فِي عَمَلي
+> أُرضِيكَ؟ وَما قَدرُ لِسانِي يا رَبُّ فِي جَنْبِ شُكْرِكَ؟ وما قَدرُ
+> عَمَلي فِي جَنْبِ نِعَمِكَ؟
 
 “O my Lord, can I thank You with this tired tongue or can I please You
 with my doings? O my Lord, what the value of my tongue is beside
 praising You and what the value of my doings is beside Your favors!”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي إرْحَمْني إذا إنقَطَعَتْ حُجَّتي وَكَلَّ عَن جَوابِكَ لِسانِي
-وَطَاشَ عِندَ سُؤالِكَ لُبيّ.
-  </p>
-</blockquote>
+> إلَهي إرْحَمْني إذا إنقَطَعَتْ حُجَّتي وَكَلَّ عَن جَوابِكَ لِسانِي
+> وَطَاشَ عِندَ سُؤالِكَ لُبيّ.
 
 “O my Lord, have mercy on me if my means fails me, if my tongue fails to
 answer You and if my mind becomes reckless when invoking You.”  
@@ -398,24 +310,16 @@ close to God. This question has got two answers:
 the infallible imams (s) have stemmed from that of God's. We read in the
 first ziyara of Imam Husayn (s) on the day of Ashura:
 
-<blockquote dir="rtl">
-  <p>
-إرادَةُ الرَّبِّ في مَقادِيرِ أمُورِه تَهبِطُ إلَيكُمْ وَتَصْدُرُ مِن
-بُيوتِكُم.
-  </p>
-</blockquote>
+> إرادَةُ الرَّبِّ في مَقادِيرِ أمُورِه تَهبِطُ إلَيكُمْ وَتَصْدُرُ مِن
+> بُيوتِكُم.
 
 “God's will, in performing His actions, descends to you and then sets
 out from your houses.”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-بَلَغَ اللهُ بِكمُ أشْرَفَ مَحلَّ المُكرَمِينَ وأعْلى مَنازِلِ
-المُقَرَّبينَ وأرْفَعَ دَرجاتِ المُرسَلينَ حيثُ لا يَطْمَعُ في
-إدْراكِه طامِعٌ.
-  </p>
-</blockquote>
+> بَلَغَ اللهُ بِكمُ أشْرَفَ مَحلَّ المُكرَمِينَ وأعْلى مَنازِلِ
+> المُقَرَّبينَ وأرْفَعَ دَرجاتِ المُرسَلينَ حيثُ لا يَطْمَعُ في
+> إدْراكِه طامِعٌ.
 
 “Allah has granted you with the most honored position, the highest rank
 of the closest ones (to Allah) and the highest positions of the prophets
@@ -460,12 +364,8 @@ will be ashamed in the presence of God. Therefore, he will always
 consider himself as an obedient servant of God. In the Sabah
 supplication, we will:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَكَ اللّهُمَّ وَبِحَمدِكَ؛ مَنْ ذا يَعْرفُ قَدرَكَ فَلا
-يَخافُكَ! وَمَن ذا يَعْلَمُ ما أنْتَ فلا يَهابُكَ!
-  </p>
-</blockquote>
+> سُبْحانَكَ اللّهُمَّ وَبِحَمدِكَ؛ مَنْ ذا يَعْرفُ قَدرَكَ فَلا
+> يَخافُكَ! وَمَن ذا يَعْلَمُ ما أنْتَ فلا يَهابُكَ!
 
 “O God! Glory and praise be to You. Who is he that knows Your reality
 without being afraid of You?”  
@@ -473,42 +373,26 @@ without being afraid of You?”
 (s) in a special position and let the ignorant ones in the darkness.
 Thus Imam as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي؛ ما لي وَما خَطَري! هَبنِي بِفَضْلِكَ وَتَصَدَّقْ عَلَيَّ
-بِعَفْوِكَ.
-  </p>
-</blockquote>
+> إلَهي؛ ما لي وَما خَطَري! هَبنِي بِفَضْلِكَ وَتَصَدَّقْ عَلَيَّ
+> بِعَفْوِكَ.
 
 “O my God! Who am I and what is my value? Grant me with Your favor and
 forgive me with Your generosity.” He also declares:
 
-<blockquote dir="rtl">
-  <p>
-ولئن أدخلتني النار لأخبرنّ أهل النار حبي لك.
-  </p>
-</blockquote>
+> ولئن أدخلتني النار لأخبرنّ أهل النار حبي لك.
 
 “O God! If You throw me into the Hell, I will announce to the people of
 Hell that I love You.”  
  This statement shows that Imam as-Sajjad (s) does not assume any right
 for himself. Thus, humbly he says:
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدي! عَبدُكَ بِبابِكَ أقامَتْهُ الخَصاصَةُ بَينَ يَدَيكَ.
-  </p>
-</blockquote>
+> سَيِّدي! عَبدُكَ بِبابِكَ أقامَتْهُ الخَصاصَةُ بَينَ يَدَيكَ.
 
 “O my Lord! Your poor servant has come at Your gate; his poverty has
 brought him here…”  
  Elsewhere, he adds:
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدي! إنْ وَكَلْتَنِي إلى نَفْسي هَلَكْتُ.
-  </p>
-</blockquote>
+> سَيِّدي! إنْ وَكَلْتَنِي إلى نَفْسي هَلَكْتُ.
 
 “O my Lord! If You leave me to myself, I shall perish.”  
  The important issue is that he is standing beside the light of the
@@ -517,16 +401,12 @@ all his worships as nothing and he humbly invokes God, assuming no right
 for himself. This definitely is the highest degree of sincerity. In the
 sixteenth supplication of *Al-Sahifah al-Sajjadiyyah* we read:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي لَو بَكِيتُ إلَيكَ حَتىّ تَسقُطَ أشْعارُ عَينِي وَرَكَعْتُ لكَ
-حَتىّ يَنخَلِعَ صُلبِي وَسَجَدْتُ لَكَ حَتىّ تَنْفَقِئُ حَدقَتايَ
-وَأَكَلْتُ تُرابَ الأرْضِ طُولَ عُمُري وَشَرِبْتُ ماءَ الرَّمادِ آخرَ
-دَهْري وَذَكَرْتُكَ في خِلالِ ذلِكَ حَتى يَكِلَّ لِسانِي ثُمَّ لَمْ
-أرْفَعْ طَرفِي إلى آفاقِ السَّماءِ اسْتِحْياءً مِنكَ ما اسْتَوْجَبَ
-بِذلِكَ مَحْوَ سَيِّئَةٍ واحِدَةٍ مِن سَيِّئاتِي.
-  </p>
-</blockquote>
+> إلَهي لَو بَكِيتُ إلَيكَ حَتىّ تَسقُطَ أشْعارُ عَينِي وَرَكَعْتُ لكَ
+> حَتىّ يَنخَلِعَ صُلبِي وَسَجَدْتُ لَكَ حَتىّ تَنْفَقِئُ حَدقَتايَ
+> وَأَكَلْتُ تُرابَ الأرْضِ طُولَ عُمُري وَشَرِبْتُ ماءَ الرَّمادِ آخرَ
+> دَهْري وَذَكَرْتُكَ في خِلالِ ذلِكَ حَتى يَكِلَّ لِسانِي ثُمَّ لَمْ
+> أرْفَعْ طَرفِي إلى آفاقِ السَّماءِ اسْتِحْياءً مِنكَ ما اسْتَوْجَبَ
+> بِذلِكَ مَحْوَ سَيِّئَةٍ واحِدَةٍ مِن سَيِّئاتِي.
 
 “O my God! If I cry until I lose my eye-lashes, and bow to You until I
 break my back, prostrate so much till my eyes pop out of their sockets,
@@ -558,12 +438,8 @@ philosophical issues which are dealt with in some supplications. This is
 a big issue which requires several volumes to deal with. It is a spring
 of knowledge. In the Arafah Supplication, Imam Husayn (s) said:
 
-<blockquote dir="rtl">
-  <p>
-بِكَ عَرفْتُكَ وَأنْتَ دَلَلْتَنِي وَلَو لا أنْتَ لَمْ أدْرِ ما
-أَنْتَ.
-  </p>
-</blockquote>
+> بِكَ عَرفْتُكَ وَأنْتَ دَلَلْتَنِي وَلَو لا أنْتَ لَمْ أدْرِ ما
+> أَنْتَ.
 
 “O God! I have known You by You. You have guided me to You. Without You
 I will never know what You are”  
@@ -581,14 +457,10 @@ light of the candle. Imam Husayn (s), in another part of his
 supplication, refers to the proof of this issue with a fascinating
 interpretation;
 
-<blockquote dir="rtl">
-  <p>
-ألِغَيرِكَ مِن الظُّهورِ ما لَيسَ لكَ حَتىّ يَكونَ هُوَ المَظْهَرَ
-لكَ؟ مَتى غِبْتَ حَتىّ نَحتاجَ إلى دَليلٍ يَدُلُّ عَلَيكَ؟ وَمَتى
-بَعُدْتَ حَتىّ تَكونَ الآثارُ هِي الّتي تُوصِلُ إلَيكَ؟ عَمِيَتْ عَينٌ
-لا تَراكَ عَلَيها رَقيبا.ً
-  </p>
-</blockquote>
+> ألِغَيرِكَ مِن الظُّهورِ ما لَيسَ لكَ حَتىّ يَكونَ هُوَ المَظْهَرَ
+> لكَ؟ مَتى غِبْتَ حَتىّ نَحتاجَ إلى دَليلٍ يَدُلُّ عَلَيكَ؟ وَمَتى
+> بَعُدْتَ حَتىّ تَكونَ الآثارُ هِي الّتي تُوصِلُ إلَيكَ؟ عَمِيَتْ عَينٌ
+> لا تَراكَ عَلَيها رَقيبا.ً
 
 “Is there any other one besides You having what You do not have so that
 other one would introduce you? Have you ever been absent so that we
@@ -608,14 +480,10 @@ the observer on it, is blind.”
 
 It is also said:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي أمَرْتَنِي بِالرُّجُوعِ إلى الآثارِ فَأرْجِعْني إلَيكَ
-بِكَسْوَةِ الأنْوارِ وَهِدايَةِ الإسْتِبْصارِ حَتىّ أرجِعَ إلَيكَ
-مِنها كَما دَخَلْتُ إلَيكَ مِنْها مَصُونَ السِّرِّ عَن النّظَرِ
-إلَيها.
-  </p>
-</blockquote>
+> إلَهي أمَرْتَنِي بِالرُّجُوعِ إلى الآثارِ فَأرْجِعْني إلَيكَ
+> بِكَسْوَةِ الأنْوارِ وَهِدايَةِ الإسْتِبْصارِ حَتىّ أرجِعَ إلَيكَ
+> مِنها كَما دَخَلْتُ إلَيكَ مِنْها مَصُونَ السِّرِّ عَن النّظَرِ
+> إلَيها.
 
 “O my Lord! You have ordered me to refer to Your signs, in order to
 recognize You, so take me to You with the proofs of light and the
@@ -623,13 +491,9 @@ guidance of insight so that I shall return to You from them as I have
 come to You by them preserving Your secrets when seeing Your signs.”  
  Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ. وَإِلَى
-السَّمَاءِ كَيْفَ رُفِعَتْ. وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ.
-وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ.
-  </p>
-</blockquote>
+> أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ. وَإِلَى
+> السَّمَاءِ كَيْفَ رُفِعَتْ. وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ.
+> وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ.
 
 ***“Will they not then consider the camels, how they are created and the
 heaven, how it is reared aloft and the mountains, how they are firmly
@@ -646,22 +510,14 @@ prove Yourself; rather, You are the reason for everything.
 Imam Husayn (s) refers to one of the secrets of the world, which is to
 high above the world of reason:
 
-<blockquote dir="rtl">
-  <p>
-أنْتَ الّذي تَعَرَّفْتَ إلَيَّ فِي كُلِّ شَيءٍ وَرَأَيْتُكَ ظاهِراً
-فِي كُلِّ شَيءٍ.
-  </p>
-</blockquote>
+> أنْتَ الّذي تَعَرَّفْتَ إلَيَّ فِي كُلِّ شَيءٍ وَرَأَيْتُكَ ظاهِراً
+> فِي كُلِّ شَيءٍ.
 
 “You have made Yourself known to me in everything and I have seen You
 apparent in everything.”  
  Then he says:
 
-<blockquote dir="rtl">
-  <p>
-تَعَرَّفْتَ لِكُلِّ شَيءٍ وَما جَهِلَكَ شَيءٌ.
-  </p>
-</blockquote>
+> تَعَرَّفْتَ لِكُلِّ شَيءٍ وَما جَهِلَكَ شَيءٌ.
 
 “You have made Yourself known to everything and there nothing that has
 ignored You.”  
@@ -676,15 +532,11 @@ these items know God? What we could say, however, is that you are an
 infallible Imam.” In the thirty second supplication of Sahifa
 as-Sajjadiah we read:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ يا ذا المُلْكِ المُتَأبِّدِ بِالخُلودِ، عَزَّ سُلطانُكَ
-عِزّاً لا حَدَّ لَهُ بَأوَّلِيَّتِهِ وَلا مُنْتَهى لهُ بِآخِرِيَّتِهِ
-وَاسْتَعْلى مُلْكُكَ عُلُوّاً سَقَطَتِ الأشْياءُ دُونَ بُلوغِ أَمَدِهِ
-وَلا يَبْلُغُ أدْنى ما اسْتَأثَرْتَ بهِ مِن ذلِكَ أقْصى نَعْتَ
-النّاعِتِينَ.
-  </p>
-</blockquote>
+> اَللّهُمَّ يا ذا المُلْكِ المُتَأبِّدِ بِالخُلودِ، عَزَّ سُلطانُكَ
+> عِزّاً لا حَدَّ لَهُ بَأوَّلِيَّتِهِ وَلا مُنْتَهى لهُ بِآخِرِيَّتِهِ
+> وَاسْتَعْلى مُلْكُكَ عُلُوّاً سَقَطَتِ الأشْياءُ دُونَ بُلوغِ أَمَدِهِ
+> وَلا يَبْلُغُ أدْنى ما اسْتَأثَرْتَ بهِ مِن ذلِكَ أقْصى نَعْتَ
+> النّاعِتِينَ.
 
 “O God! O You the possessor of the everlasting kingdom over the world.
 Your kingdom is so dominant that it has no limit in its beginning; nor
@@ -701,11 +553,7 @@ Last.” His kingdom is carrying the attributes of “the beginning and the
 end.” Every creature, before being of its own, belongs to God. Imam
 Husayn (s) has said:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ دَنِيَ فَلا شَيءَ دونَهُ وَعَلا فَلا شَيءَ فَوقَهُ.
-  </p>
-</blockquote>
+> يَا مَنْ دَنِيَ فَلا شَيءَ دونَهُ وَعَلا فَلا شَيءَ فَوقَهُ.
 
 “O You, Who have become so near that nothing is nearer than and have
 become so high that nothing is higher than.”  
@@ -714,12 +562,8 @@ that everything in the world is under the control of His power. Nothing
 could exist or act without His consent. This fact is called monotheism.
 Imam as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-بِكَ عَرفْتُكَ وَأنْتَ دَلَلْتَنِي وَلَو لا أنْتَ لَمْ أدْرِ ما
-أَنْتَ.
-  </p>
-</blockquote>
+> بِكَ عَرفْتُكَ وَأنْتَ دَلَلْتَنِي وَلَو لا أنْتَ لَمْ أدْرِ ما
+> أَنْتَ.
 
 “O God! I have known You by You. You have guided me to You. Without You
 I will never know what You are.”  
@@ -729,13 +573,9 @@ the best kind of reasoning offered by the infallible imams. No better
 expression could ever be said by any philosopher. In the forty-seventh
 supplication of Arafah, we read:
 
-<blockquote dir="rtl">
-  <p>
-أنْتَ الّذِي لا تُحَدُّ فَتكون مَحدُوداً وَلَمْ تُمَثَّلْ فَتَكون
-مَوجوداً وَلَمْ تَلِدْ فَتَكون مَولوداً. أنْتَ الّذي لا ضِدَّ مَعَكَ
-فَيُعانِدكَ وَلا عِدْلَ لَكَ فَيُكاثِركَ وَلا نِدَّ لَكَ فَيُعارِضكَ.
-  </p>
-</blockquote>
+> أنْتَ الّذِي لا تُحَدُّ فَتكون مَحدُوداً وَلَمْ تُمَثَّلْ فَتَكون
+> مَوجوداً وَلَمْ تَلِدْ فَتَكون مَولوداً. أنْتَ الّذي لا ضِدَّ مَعَكَ
+> فَيُعانِدكَ وَلا عِدْلَ لَكَ فَيُكاثِركَ وَلا نِدَّ لَكَ فَيُعارِضكَ.
 
 “You have no boundary to be limited; You are not visualized to be an
 object; You have not begotten to be born. You are the one for whom there
@@ -748,12 +588,8 @@ not have any associate or partner. This is because if He has any of
 these things, then He will not be the Absolute Power or have the
 attribute of being alone. In Kumayl supplication we read:
 
-<blockquote dir="rtl">
-  <p>
-وَبِوَجْهِكَ الباقِي بَعدَ فَناءِ كُلِّ شَيءٍ، وَبِنورِ وَجْهِكَ الّذي
-أضَاءَ لَهُ كُلُّ شَيءٍ، يا نُورُ يا قُدّوسُ.
-  </p>
-</blockquote>
+> وَبِوَجْهِكَ الباقِي بَعدَ فَناءِ كُلِّ شَيءٍ، وَبِنورِ وَجْهِكَ الّذي
+> أضَاءَ لَهُ كُلُّ شَيءٍ، يا نُورُ يا قُدّوسُ.
 
 “O God! I invoke You with Your Face that will remain after the perdition
 of everything and with the light of Your Face, with which everything has
@@ -786,13 +622,9 @@ clear:
 In the fiftieth supplication of Sahifa as-Sajjadiah, Imam as-Sajjad (s)
 has said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَيسَ عَذابي يَزيدُ فِي مُلْكِكَ مِثقالَ ذَرّةٍ وَلَو أنّ عَذابِي
-مِمّا يَزِيدُ فِي مُلْكِكَ سَألْتُ الصَّبْرَ عَلَيهِ وَأحْبَبْتُ أنْ
-يَكونَ ذلِكَ لَكَ.
-  </p>
-</blockquote>
+> وَلَيسَ عَذابي يَزيدُ فِي مُلْكِكَ مِثقالَ ذَرّةٍ وَلَو أنّ عَذابِي
+> مِمّا يَزِيدُ فِي مُلْكِكَ سَألْتُ الصَّبْرَ عَلَيهِ وَأحْبَبْتُ أنْ
+> يَكونَ ذلِكَ لَكَ.
 
 “O God! Punishing me does not add to your Kingdom even as a weight of
 one atom. If punishing me adds to Your Kingdom a thing, then I will ask
@@ -800,45 +632,29 @@ You for patience and I would love that to You (if it adds something to
 Your Kingdom.”  
  Imam Ali (s), in Kumayl supplication, has said:
 
-<blockquote dir="rtl">
-  <p>
-هَبْني يا إلَهي وَسَيِّدِي وَمَولايَ وَرَبِّي صَبَرْتُ عَلى عَذابِكَ
-فَكَيْفَ أصْبِرُ عَلى فِراقِكَ!
-  </p>
-</blockquote>
+> هَبْني يا إلَهي وَسَيِّدِي وَمَولايَ وَرَبِّي صَبَرْتُ عَلى عَذابِكَ
+> فَكَيْفَ أصْبِرُ عَلى فِراقِكَ!
 
 “O my God! O my Lord! O my Guardian! Suppose I could tolerate Your
 punishment, then how could I endure my being away from you?”  
  He has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْ لِسانِي بِذِكْرِكَ لَهِجاً وَقَلْبِي بِحُبِّكَ مُتَيَّماً.
-  </p>
-</blockquote>
+> وَاجْعَلْ لِسانِي بِذِكْرِكَ لَهِجاً وَقَلْبِي بِحُبِّكَ مُتَيَّماً.
 
 “O God, make my tongue fluent in praising You and make my heart
 enthralled by Your love.”  
  He has also said:
 
-<blockquote dir="rtl">
-  <p>
-فَرَبِّي أحْمَدُ شَيءٍٍٍٍِ عِنْدي وَأَحَقُّ بِحَمْدِي.
-  </p>
-</blockquote>
+> فَرَبِّي أحْمَدُ شَيءٍٍٍٍِ عِنْدي وَأَحَقُّ بِحَمْدِي.
 
 “My God the most beloved One to me and the worthiest of my praise.”  
  He also says:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي لَوْ قَرَنْتَنِي بالأصْفادِ وَمَنَعْتَنِي سَيبَكَ مِن بَينِ
-الأشْهادِ وَدَلَلْتَ عَلى فَضائِحِي عُيونَ العِبادِ وَأمَرْتَ بِي
-النّارَ وَحِلْتَ بَينِي وَبَيْنَ الأبْرارِ ما قَطَعْتُ رَجائِي مِنْكَ
-وَما صَرَفْتُ وَجْهَ تَأمِيلِي لِلعَفْوِ عَنكَ وَلا خَرَجَ حُبُّكَ مِن
-قَلبِي، أنا لا أنْسى أيَادِيَكَ عِندِي.
-  </p>
-</blockquote>
+> إلَهي لَوْ قَرَنْتَنِي بالأصْفادِ وَمَنَعْتَنِي سَيبَكَ مِن بَينِ
+> الأشْهادِ وَدَلَلْتَ عَلى فَضائِحِي عُيونَ العِبادِ وَأمَرْتَ بِي
+> النّارَ وَحِلْتَ بَينِي وَبَيْنَ الأبْرارِ ما قَطَعْتُ رَجائِي مِنْكَ
+> وَما صَرَفْتُ وَجْهَ تَأمِيلِي لِلعَفْوِ عَنكَ وَلا خَرَجَ حُبُّكَ مِن
+> قَلبِي، أنا لا أنْسى أيَادِيَكَ عِندِي.
 
 “O my Lord! If You bind me with fetters, prevent me Your favors,
 disclose my scandals before the people, order to put me into Hell and
@@ -847,22 +663,14 @@ never despair to be forgiven by You and I will never take Your love out
 of my heart. I will never forget Your favors on me.”  
  Imam Ali (s) also says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أدْخَلْتَنِي النّارَ لأُخْبِرَنَّ أهْلَ النّارِ حُبِّي لَكَ.
-  </p>
-</blockquote>
+> وَلَئِنْ أدْخَلْتَنِي النّارَ لأُخْبِرَنَّ أهْلَ النّارِ حُبِّي لَكَ.
 
 “If you put me in Hell, I will announce to the people of Hell my love to
 You.”  
  In Sha'baniyyah Prayer, Imam Ali (s) has said
 
-<blockquote dir="rtl">
-  <p>
-وَإنْ أخَذْتَنِي بِذُنوبِي أخَذْتُكَ بِمَغْفِرَتِكَ وإنْ أدْخَلْتَنِي
-النّارَ أعْلَمْتُ أهْلَها أنّي أُحِبُّكَ.
-  </p>
-</blockquote>
+> وَإنْ أخَذْتَنِي بِذُنوبِي أخَذْتُكَ بِمَغْفِرَتِكَ وإنْ أدْخَلْتَنِي
+> النّارَ أعْلَمْتُ أهْلَها أنّي أُحِبُّكَ.
 
 “If You punish me for my sins, I will ask Your pardon. If you put me in
 Hell, I will inform its residents that I love You.”  
@@ -878,12 +686,8 @@ The language of Gnosticism is the tongue of entrée into the world of
 intuition. It is the language of the unimaginable world. In Sha'baniyyah
 Prayer we read:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْني مِمَّنْ نادَيْتَهُ فَأجابَكَ وَلاحَظْتَهُ فَصُعِقَ
-لِجَلالِكَ وَناجَيْتَهُ سِرّاً وَعَملَ لَكَ جَهْراً.
-  </p>
-</blockquote>
+> وَاجْعَلْني مِمَّنْ نادَيْتَهُ فَأجابَكَ وَلاحَظْتَهُ فَصُعِقَ
+> لِجَلالِكَ وَناجَيْتَهُ سِرّاً وَعَملَ لَكَ جَهْراً.
 
 “O my God! Make me one of those, whom You have called and they have
 responded, whom You have observed and they have been stricken for Your
@@ -891,17 +695,13 @@ glory and whom You have confide to secrets and they have worked for You
 openly.”  
  We also see in the twelfth supplication of *The 15 Munajat*:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي فاجْعَلْنا مِن الّذينَ تَرَسَّخَتْ أشْجارُ الشّوقِ إلَيكَ فِي
-حَدائقِ صُدورِهِمْ وَأخَذَتْ لَوعَةُ مَحَبَّتِكَ بِمَجامِعِ قُلوبِهِمْ
-فَهُمْ إلى أفْكارِ الأفْكارِ يَأوونَ وَفِي رِياضِ القُرْبِ
-وَالمُكاشَفَةِ يَرتَعونَ وَمِنْ حِياضِ المَحَبَّةِ لِكأسِ المُلاطَفَةِ
-يَكرَعونَ وَشَرائعِ المُصافاتِ يَرِدونَ. قَد كُشِفَ الغِطاءُ عَن
-أبْصارِهِم. ما أطْيَبَ طَعْمَ حُبِّكَ وَما أعْظَمَ شرْبَ قُرْبِكَ
-وَاجْعَلْنا مِن أخَصِّ عارِفِيكَ وأصْلَحِ عِبادِكَ.
-  </p>
-</blockquote>
+> إلَهي فاجْعَلْنا مِن الّذينَ تَرَسَّخَتْ أشْجارُ الشّوقِ إلَيكَ فِي
+> حَدائقِ صُدورِهِمْ وَأخَذَتْ لَوعَةُ مَحَبَّتِكَ بِمَجامِعِ قُلوبِهِمْ
+> فَهُمْ إلى أفْكارِ الأفْكارِ يَأوونَ وَفِي رِياضِ القُرْبِ
+> وَالمُكاشَفَةِ يَرتَعونَ وَمِنْ حِياضِ المَحَبَّةِ لِكأسِ المُلاطَفَةِ
+> يَكرَعونَ وَشَرائعِ المُصافاتِ يَرِدونَ. قَد كُشِفَ الغِطاءُ عَن
+> أبْصارِهِم. ما أطْيَبَ طَعْمَ حُبِّكَ وَما أعْظَمَ شرْبَ قُرْبِكَ
+> وَاجْعَلْنا مِن أخَصِّ عارِفِيكَ وأصْلَحِ عِبادِكَ.
 
 “O my God! Let me be among those, in whose hearts the trees of longing
 to You have rooted and whose hearts have been occupied with Your love so
@@ -912,16 +712,12 @@ Your love is and how great Your nearness is. Make us among the best of
 those, who know You, and the most pious of Your servants.”  
  Imam Husayn (s) says:
 
-<blockquote dir="rtl">
-  <p>
-يا مَن اسْتَوى بِرَحْمانِيَّتِهِ فَصارَ العَرْشُ غَيباً فِي ذاتِهِ,
-مَحَقْتَ الآثارَ بِالآثارِ وَمَحَوْتَ الأغْيارَ بِمُحِيطاتِ أفْلاكِ
-الأنْوارِ، يا مَن احْتَجَبَ فِي سُرادِقاتِ عَرْشِهِ عَن أنْ تُدْرِكَهُ
-الأبْصارُ، يا مَنْ تَجَلّى بِكَمالِ بِهائِهِ فَتَحَقَّقَتْ عَظَمَتُهُ
-فِي الاسْتِواءِ… إنَّكَ عَلى كُلّ شَيءٍ قَديرٌ، وَالحَمدُ للهِ
-وَحدَهُ.
-  </p>
-</blockquote>
+> يا مَن اسْتَوى بِرَحْمانِيَّتِهِ فَصارَ العَرْشُ غَيباً فِي ذاتِهِ,
+> مَحَقْتَ الآثارَ بِالآثارِ وَمَحَوْتَ الأغْيارَ بِمُحِيطاتِ أفْلاكِ
+> الأنْوارِ، يا مَن احْتَجَبَ فِي سُرادِقاتِ عَرْشِهِ عَن أنْ تُدْرِكَهُ
+> الأبْصارُ، يا مَنْ تَجَلّى بِكَمالِ بِهائِهِ فَتَحَقَّقَتْ عَظَمَتُهُ
+> فِي الاسْتِواءِ… إنَّكَ عَلى كُلّ شَيءٍ قَديرٌ، وَالحَمدُ للهِ
+> وَحدَهُ.
 
 “O You, Who have dominated with Your beneficence that the Throne has
 become unseen in Your essence. You have effaced the signs by the signs
@@ -976,18 +772,14 @@ Praying for Parents and Respecting Them
 The twenty-fourth supplication of *Al-Sahifah al-Sajjadiyyah* pays
 special attention to parents:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ إجْعلْني أَهابَهُما هَيبَةَ السُّلْطانِ العَسوفِ
-وَأَبَرُّهُما بِرَّ الأُمِّ الرّؤوفِ واجْعَلْ طاعَتِي لِوالِدَيَّ
-وَبِرِّي بِهِما أقَرَّ لِعَيْنِي مِنْ رَقْدَةِ الوَسْنانِ وَأثْلَجَ
-لِصَدْرِي مِن شُربَةِ الظّمْآنِ حَتىّ أؤْثِرَ عَلى هَوايَ هَواهُما
-وَأُقَدِّمَ عَلى رِضايَ رِضاهُما. اَللّهُمّ ومَا تَعَدَّيا عَليَّ
-فِيهِ مِن قَولٍ أوْ أسْرَفا عَليَّ فِيهِ مِن فعْلٍ أوْ ضَيَّعا لِي
-مِنْ حَقٍّ أوْ قَصَّرا بِي عَنْهُ مِن واجِبٍ فَقَدْ وَهَبْتُهُ لَهُما.
-وَلا أَكْرَهُ ما تَوَلّيا مِن أمْرِي يا رَبِّ.
-  </p>
-</blockquote>
+> اَللّهُمّ إجْعلْني أَهابَهُما هَيبَةَ السُّلْطانِ العَسوفِ
+> وَأَبَرُّهُما بِرَّ الأُمِّ الرّؤوفِ واجْعَلْ طاعَتِي لِوالِدَيَّ
+> وَبِرِّي بِهِما أقَرَّ لِعَيْنِي مِنْ رَقْدَةِ الوَسْنانِ وَأثْلَجَ
+> لِصَدْرِي مِن شُربَةِ الظّمْآنِ حَتىّ أؤْثِرَ عَلى هَوايَ هَواهُما
+> وَأُقَدِّمَ عَلى رِضايَ رِضاهُما. اَللّهُمّ ومَا تَعَدَّيا عَليَّ
+> فِيهِ مِن قَولٍ أوْ أسْرَفا عَليَّ فِيهِ مِن فعْلٍ أوْ ضَيَّعا لِي
+> مِنْ حَقٍّ أوْ قَصَّرا بِي عَنْهُ مِن واجِبٍ فَقَدْ وَهَبْتُهُ لَهُما.
+> وَلا أَكْرَهُ ما تَوَلّيا مِن أمْرِي يا رَبِّ.
 
 “O my God! Let make me fear them (my parents) like fearing a tyrant
 king. Make me treat them piously like a kind mother. Make my obedience
@@ -1022,17 +814,13 @@ suffice them to be healthy or wealthy? Are there other factors, as well?
 Imam as-Sajjad (s) has issued comprehensive commands concerning these
 issues:
 
-<blockquote dir="rtl">
-  <p>
-وَأصِحَّ لِي أبْدانَهُم وَأدْيانَهُم وأخْلاقَهُم. وَأَدْرِرْ لِي
-وَعَلَيَّ يَدّيْ أرزاقِهِمْ، واجْعَلْهُم أبْراراً أتْقِياءَ بُصَراءَ
-سامِعِينَ مُطِيعِينَ لكَ وَلأوْلِيائِكَ مُحِبِّينَ مُناصِحِينَ
-وَلِجَمِيعِ أعْدائِكَ مُعانِدِينَ وَمُبْغِضِينَ وَأَعِنّي
-تَربِيَتَهُمْ وَتأدِيبَهُم وَبِرَّهُمْ. وَأَعِذْني وَذُرّيَّتِي مِنَ
-الشّيطانِ الرّجِيمِ، فإنَّكَ خَلَقْتَنا وَأَمَرْتَنا وَنَهَيْتَنا
-وَرَغَّبْتَنا فِي ثَوابِ ما أمَرْتَنا وَرَهَّبْتَنا عِقابَهُ.
-  </p>
-</blockquote>
+> وَأصِحَّ لِي أبْدانَهُم وَأدْيانَهُم وأخْلاقَهُم. وَأَدْرِرْ لِي
+> وَعَلَيَّ يَدّيْ أرزاقِهِمْ، واجْعَلْهُم أبْراراً أتْقِياءَ بُصَراءَ
+> سامِعِينَ مُطِيعِينَ لكَ وَلأوْلِيائِكَ مُحِبِّينَ مُناصِحِينَ
+> وَلِجَمِيعِ أعْدائِكَ مُعانِدِينَ وَمُبْغِضِينَ وَأَعِنّي
+> تَربِيَتَهُمْ وَتأدِيبَهُم وَبِرَّهُمْ. وَأَعِذْني وَذُرّيَّتِي مِنَ
+> الشّيطانِ الرّجِيمِ، فإنَّكَ خَلَقْتَنا وَأَمَرْتَنا وَنَهَيْتَنا
+> وَرَغَّبْتَنا فِي ثَوابِ ما أمَرْتَنا وَرَهَّبْتَنا عِقابَهُ.
 
 “O my God! I pray You to keep their (my children's) bodies healthy and
 to preserve their ethics and faith…and grant me with their sustenance.
@@ -1081,24 +869,20 @@ Treating the Others and The Rights of The Neighbors
 In the twenty- sixth supplication of as-Sahifa As-Sajjadiah, Imam
 as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَتَوَلََّنِي فِي جِيرانِي وَمَوالِيَّ العارِفِينَ بِحَقِّنا
-وَوَفِّقْهُم لإقامَةِ سُنَّتِكَ وَالأخْذِ بِمَحاسِنِ أدَبِكَ فِي
-إرفَاقِ ضَعيفِهِم وَسَدِّ خَلَّتِهِم وَعِيادَةِ مَريضِهِم وَهِدايَةِ
-مُسْتَرشدِيهِم وَمُناصَحَةِ مُسْتَشِيرِهِم وَتَعَهُّدِ قادِمِهِم
-وَكِتْمانِ أسْرارِهِمْ وَسَتْرِ عَوراتِهِمْ وَنُصْرَةِ مُظلومِهِم
-وَحُسْنِ مُواساتِهِم بِالمَاعُونِ وَالعَوْدِ عَلَيهِم بالجِدَةِ
-والإفْضالِ وَإعْطاءِ ما يَجِبُ لَهُم قَبلَ السُّؤالِ وَاجْعَلْني
-اللّهُمّ أجزِي بالإحْسانِ مُسِيئَهُم وَأعرِضُ بِالتَّجاوُزِ عَن
-ظالِمِهِم، وأسْتَعْمِلُ حُسْنَ الظَّنِّ فِي كافَّتِهِمْ وَأتَولّى
-بِالبِرِّ عَامَّتَّهُم وَأغُضَّ بَصَري عَنهُم عِفَّةً وَألِينُ جانِبِي
-لهُمْ تَواضُعاً وأرِقُّ عَلى أهْلِ البَلاءِ مِنهُمْ رَحْمَةً وَأسِرّ
-لهُمْ بِالغَيبِ مَوَدَّةُ وأُحِبُّ بَقاءَ النّعمَةِ عِندَهُم نُصْحاً
-وأُوجِبُ لَهُم ما لِحامَّتِي وأرْعى لَهُم ما أرْعى لِخاصَّتِي
-وَارزُقْني مِثلَ ذلِكَ مِنهُم.
-  </p>
-</blockquote>
+> وَتَوَلََّنِي فِي جِيرانِي وَمَوالِيَّ العارِفِينَ بِحَقِّنا
+> وَوَفِّقْهُم لإقامَةِ سُنَّتِكَ وَالأخْذِ بِمَحاسِنِ أدَبِكَ فِي
+> إرفَاقِ ضَعيفِهِم وَسَدِّ خَلَّتِهِم وَعِيادَةِ مَريضِهِم وَهِدايَةِ
+> مُسْتَرشدِيهِم وَمُناصَحَةِ مُسْتَشِيرِهِم وَتَعَهُّدِ قادِمِهِم
+> وَكِتْمانِ أسْرارِهِمْ وَسَتْرِ عَوراتِهِمْ وَنُصْرَةِ مُظلومِهِم
+> وَحُسْنِ مُواساتِهِم بِالمَاعُونِ وَالعَوْدِ عَلَيهِم بالجِدَةِ
+> والإفْضالِ وَإعْطاءِ ما يَجِبُ لَهُم قَبلَ السُّؤالِ وَاجْعَلْني
+> اللّهُمّ أجزِي بالإحْسانِ مُسِيئَهُم وَأعرِضُ بِالتَّجاوُزِ عَن
+> ظالِمِهِم، وأسْتَعْمِلُ حُسْنَ الظَّنِّ فِي كافَّتِهِمْ وَأتَولّى
+> بِالبِرِّ عَامَّتَّهُم وَأغُضَّ بَصَري عَنهُم عِفَّةً وَألِينُ جانِبِي
+> لهُمْ تَواضُعاً وأرِقُّ عَلى أهْلِ البَلاءِ مِنهُمْ رَحْمَةً وَأسِرّ
+> لهُمْ بِالغَيبِ مَوَدَّةُ وأُحِبُّ بَقاءَ النّعمَةِ عِندَهُم نُصْحاً
+> وأُوجِبُ لَهُم ما لِحامَّتِي وأرْعى لَهُم ما أرْعى لِخاصَّتِي
+> وَارزُقْني مِثلَ ذلِكَ مِنهُم.
 
 “…and guide me (to be good) towards my neighbors and followers, who have
 acknowledged our right…and guide them to keep to Your religion and to
@@ -1135,14 +919,10 @@ items, with which man contacts, and he has offered necessary
 instructions for each of them. In the twenty-second supplication of
 *Al-Sahifah al-Sajjadiyyah* we read:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ صَلِّ عَلى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَخَلِّصْنِي مِنَ
-الحَسَدِ وَاحْصُرْنِي عَنِ الذُّنوبِ وَوَرِّعْنِي عَنِ المَحَارِمِ
-وَلا تُجَرِّئْنِي عَلى المَعاصِي وَاجْعَلْنِي فِي كُلِّ حَالاتِي
-مَحفوظاً مَكْلوءاً مَسْتوراً مَمنُوعاً مُعاذاً مُجاراً.
-  </p>
-</blockquote>
+> اَللّهُمّ صَلِّ عَلى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَخَلِّصْنِي مِنَ
+> الحَسَدِ وَاحْصُرْنِي عَنِ الذُّنوبِ وَوَرِّعْنِي عَنِ المَحَارِمِ
+> وَلا تُجَرِّئْنِي عَلى المَعاصِي وَاجْعَلْنِي فِي كُلِّ حَالاتِي
+> مَحفوظاً مَكْلوءاً مَسْتوراً مَمنُوعاً مُعاذاً مُجاراً.
 
 “O my Lord, make Your blessings upon Muhammad and his progeny and get me
 rid of envy, make me refrain from sins, make me pious before
@@ -1156,15 +936,11 @@ ethical system. The content of this supplication equals a visit to a
 library of ethical resources. As if a synopsis of a library has been
 gathered in this supplication:
 
-<blockquote dir="rtl">
-  <p>
-وَأجْرِ لِلنّاسِ عَلى يَدَيَّ الخَيْرَ وَلا تَمْحَقْهُ بِالمَنِّ
-وَهَبْ لِي مَعالِي الأخْلاقِ وَاعْصِمْنِي مِن الفَخْرِ وَأغْنِنِي
-وَأَوْسِعْ عَلَيَّ فِي رِزْقِكَ وَلا تَفْتِنِّي بِالنَّظَرِ
-وَأعِزَّنِي وَلا تَبْتَلِيَنِّي بِالكِبْرِ وَعَبِّدْنِي لَكَ وَلا
-تُفْسِدْ عِبادَتِي بِالعُجْبِ.
-  </p>
-</blockquote>
+> وَأجْرِ لِلنّاسِ عَلى يَدَيَّ الخَيْرَ وَلا تَمْحَقْهُ بِالمَنِّ
+> وَهَبْ لِي مَعالِي الأخْلاقِ وَاعْصِمْنِي مِن الفَخْرِ وَأغْنِنِي
+> وَأَوْسِعْ عَلَيَّ فِي رِزْقِكَ وَلا تَفْتِنِّي بِالنَّظَرِ
+> وَأعِزَّنِي وَلا تَبْتَلِيَنِّي بِالكِبْرِ وَعَبِّدْنِي لَكَ وَلا
+> تُفْسِدْ عِبادَتِي بِالعُجْبِ.
 
 “O my Lord! Make me as a means of welfare for people and do not perish
 this welfare by making me boast vainly. Grant me with the highest of
@@ -1174,13 +950,9 @@ Make me devote myself to You and do not spoil my worship with
 conceit.”  
  In another part of this supplication Imam as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَعَمِّرْنِي ما كانَ عُمُرِي بذْلَةً فِي طَاعَتِكَ فإذا كانَ عُمُرِي
-مَرْتَعاً لِلشَّيْطانِ فَاقْبِضْنِي إلَيْكَ قَبْلَ أنْ يَسبِقَ
-مَقْتُكَ إلَيَّ أوْ يَستَحْكِمَ غَضَبُكَ عَلَيّ.
-  </p>
-</blockquote>
+> وَعَمِّرْنِي ما كانَ عُمُرِي بذْلَةً فِي طَاعَتِكَ فإذا كانَ عُمُرِي
+> مَرْتَعاً لِلشَّيْطانِ فَاقْبِضْنِي إلَيْكَ قَبْلَ أنْ يَسبِقَ
+> مَقْتُكَ إلَيَّ أوْ يَستَحْكِمَ غَضَبُكَ عَلَيّ.
 
 “O my Lord! Keep me alive as long as I obey You and when my life becomes
 as a pasture to the Satan, then make me die before You will detest me or
@@ -1197,19 +969,15 @@ Imam as-Sajjad (s) has devoted the twenty-seventh supplication of
 of the Islamic state. Imam as-Sajjad (s) has made people alert to defend
 their Islamic heritage:
 
-<blockquote dir="rtl">
-  <p>
-وَحَصِّنْ ثُغُورَ المُسْلِمينَ وَأَيِّدْ حُماتَها بِقُوَّتِكَ،
-وَكَثِّرْ عدَّتَهُمْ وَاشْحَذْ أسْلِحَتَهُم وَاحْرُسْ حَوزَتَهُم
-وامْنَعُ حَومَتَهُمْ وألِّفْ جَمْعَهُم وَدَبِّرْ أمْرَهُمْ وَواتِرْ
-بَينَ مِيرِهِم وَعَلِّمْهُمْ ما لا يَعْلَمونَ وَعَرّفْهُمْ ما
-يَجْهَلونَ وَبَصِّرْهُم ما لا يُبْصِرونَ. اَللّهُمّ وأيّما غازٍ
-غَزاهُم مِنْ أهْلِ مِلّتِكَ أوْ مُجاهِدٍ جَاهَدَهُمْ مِن إتّباعِ
-سُنَّتِكَ فَلَقِّهِ اليُسْرَ وَهيِّئ لهُ الأمرَ وَاعْفِه عَن الجُبْنِ
-وَألْهِمْهُ الجُرأةَ وَارْزُقْهُ الشِّدَّةَ وأيّدْهُ بِالنُّصْرَةِ
-وَعَلِّمْهُ السّيرَ وَالسُّنَنَ وَسدِّدْهُ فِي الحُكْمِ.
-  </p>
-</blockquote>
+> وَحَصِّنْ ثُغُورَ المُسْلِمينَ وَأَيِّدْ حُماتَها بِقُوَّتِكَ،
+> وَكَثِّرْ عدَّتَهُمْ وَاشْحَذْ أسْلِحَتَهُم وَاحْرُسْ حَوزَتَهُم
+> وامْنَعُ حَومَتَهُمْ وألِّفْ جَمْعَهُم وَدَبِّرْ أمْرَهُمْ وَواتِرْ
+> بَينَ مِيرِهِم وَعَلِّمْهُمْ ما لا يَعْلَمونَ وَعَرّفْهُمْ ما
+> يَجْهَلونَ وَبَصِّرْهُم ما لا يُبْصِرونَ. اَللّهُمّ وأيّما غازٍ
+> غَزاهُم مِنْ أهْلِ مِلّتِكَ أوْ مُجاهِدٍ جَاهَدَهُمْ مِن إتّباعِ
+> سُنَّتِكَ فَلَقِّهِ اليُسْرَ وَهيِّئ لهُ الأمرَ وَاعْفِه عَن الجُبْنِ
+> وَألْهِمْهُ الجُرأةَ وَارْزُقْهُ الشِّدَّةَ وأيّدْهُ بِالنُّصْرَةِ
+> وَعَلِّمْهُ السّيرَ وَالسُّنَنَ وَسدِّدْهُ فِي الحُكْمِ.
 
 “O my Lord! Protect the borders of the Moslem countries and support
 their guards with Your power… increase their numbers and, sharpen their
@@ -1241,14 +1009,10 @@ organization not for expanding the country or for dominating over the
 poor and the needy; but he (s) has intended to defend the Moslems and
 the Islamic countries. Thus he says:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ وَقَوِّ بِذلِكَ مَحالَّ أهْلِ الإسْلامِ وَحَصِّنْ بهِ
-دِيارَهُمْ وَفَرّغْهُم عَن مُحارَبَتِهِم لِعبادَتِكَ وَعَنْ
-مُنابَذَتِهِمْ لِلخِلوَةِ بكَ حَتىّ لا يُعْبَدَ في بِقاعِ الأرْضِ
-غَيرُكَ ولا تُعَفَّرُ لأحَدٍ مِنهُم جَبهَةٌ دُونَكَ.
-  </p>
-</blockquote>
+> اَللّهُمّ وَقَوِّ بِذلِكَ مَحالَّ أهْلِ الإسْلامِ وَحَصِّنْ بهِ
+> دِيارَهُمْ وَفَرّغْهُم عَن مُحارَبَتِهِم لِعبادَتِكَ وَعَنْ
+> مُنابَذَتِهِمْ لِلخِلوَةِ بكَ حَتىّ لا يُعْبَدَ في بِقاعِ الأرْضِ
+> غَيرُكَ ولا تُعَفَّرُ لأحَدٍ مِنهُم جَبهَةٌ دُونَكَ.
 
 “O God! Make the countries of the Moslems strong and fortified, do not
 make them busy with fighting in order to be free to worship You and to
@@ -1258,13 +1022,9 @@ other than You.”
  Imam as-Sajjad (s) in the supplication of “the Beginning” asks God for
 a pious government:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَ إنّا نرغَبُ إلَيكَ فِي دَولَةٍ كَريمَةٍ تُعزُّ بِها
-الإسْلامَ وَأهْلَهُ وَتُذِلُّ بِها النّفاقَ وَأهْلَهُ وَتَجْعَلُنا
-فِيها مِن الدُّعاةِ إلى طاعَتِكَ وَالقادَةِ إلى سَبيلِكَ.
-  </p>
-</blockquote>
+> اَللّهُمَ إنّا نرغَبُ إلَيكَ فِي دَولَةٍ كَريمَةٍ تُعزُّ بِها
+> الإسْلامَ وَأهْلَهُ وَتُذِلُّ بِها النّفاقَ وَأهْلَهُ وَتَجْعَلُنا
+> فِيها مِن الدُّعاةِ إلى طاعَتِكَ وَالقادَةِ إلى سَبيلِكَ.
 
 “O Allah! We are looking forward to an honorable state, in which You
 glorify Islam and its people and degrade hypocrisy and its people and to
@@ -1273,13 +1033,9 @@ path.”
  Elsewhere, he asks God to protect us against the trespassers and
 aggressors by saying:
 
-<blockquote dir="rtl">
-  <p>
-الحَمدُ للهِ قاصِمِ الجَبّارينَ مُبيرِ الظّالِمِينَ مُدرِكِ
-الهَارِبِينَ نَكالِ الظّالِمينَ صَريِخ ِالمُسْتَصرِخِينَ مَوضِعِ
-حاجاتِ الطّالِبينَ.
-  </p>
-</blockquote>
+> الحَمدُ للهِ قاصِمِ الجَبّارينَ مُبيرِ الظّالِمِينَ مُدرِكِ
+> الهَارِبِينَ نَكالِ الظّالِمينَ صَريِخ ِالمُسْتَصرِخِينَ مَوضِعِ
+> حاجاتِ الطّالِبينَ.
 
 “All praise be to Allah, the Defeater of the tyrants, the Destroyer of
 the unjust, the Overtaker of the escapers, the Punisher of the unfair,
@@ -1297,13 +1053,9 @@ parties. It severely punishes those, who make troubles for these
 foundations. Even in some verses of the Qur'an, the punishment for
 trouble-makers in some cases is killing.
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ
-مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ
-لَا يُجَاوِرُونَكَ فِيهَا إِلَّا قَلِيلًا.
-  </p>
-</blockquote>
+> لَئِنْ لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ
+> مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ
+> لَا يُجَاوِرُونَكَ فِيهَا إِلَّا قَلِيلًا.
 
 ***“If the hypocrites and those in whose hearts is a disease and the
 agitators in the City (Medina) do not desist, we shall most certainly
@@ -1315,12 +1067,8 @@ There are many such decisive verses in the Holy Qur'an. This policy is
 to protect the prestige of the Moslem nation. This prestige is strongly
 protected by God. The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا وَالْحَمْدُ لِلَّهِ
-رَبِّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا وَالْحَمْدُ لِلَّهِ
+> رَبِّ الْعَالَمِينَ.
 
 ***“So the roots of the people who were unjust were cut off; and all
 praise is due to Allah, the Lord of the worlds. 6:45”***
@@ -1339,5 +1087,4 @@ the supplications offered by the infallible imams (s). I hope it will be
 of use for the dear readers. All praise is due to Allah.
 
 [^1]: Al-Kafi, vol. 1, p. 230.
-
 

@@ -315,4 +315,3 @@ to die as a disbeliever is brought back to life to believe, and a woman
 whom Allah caused to die as a believer, then He brought life back to
 her, chose to disbelieve!”
 
-

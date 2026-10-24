@@ -15,4 +15,3 @@ The Ansariyan Publications would like to express acknowledgement to Syed
 Athar Rizvi and Dr. Hasan Najafi for their contributions to the
 translation of this work into English.
 
-

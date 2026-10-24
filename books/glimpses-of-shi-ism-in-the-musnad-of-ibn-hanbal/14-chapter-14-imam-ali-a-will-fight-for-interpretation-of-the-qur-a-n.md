@@ -39,9 +39,9 @@ fighting you on its correct interpretation).[^57]
 
 **Notes:**
 
-[^56] Al-Musnad, Matba‘ah al-Maymaniyyah, vol. 3, pp. 31 & 33; also
+[^56]: Al-Musnad, Matba‘ah al-Maymaniyyah, vol. 3, pp. 31 & 33; also
 refer to p. 82 of the same volume where the hadith says Imam ‘Ali- (‘a)
 was mending the Prophet’s shoes.
-[^57] Ta-ha- Husayn, al-Fitnah al-Kubra- (‘Ali- and Prophethood), vol.
+[^57]: Ta-ha- Husayn, al-Fitnah al-Kubra- (‘Ali- and Prophethood), vol.
 2, p. 77, 6th edition, Da-r al-Ma‘a-rif, Egypt, 1969.
 

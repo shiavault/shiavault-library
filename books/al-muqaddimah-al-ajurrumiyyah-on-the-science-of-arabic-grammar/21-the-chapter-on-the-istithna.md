@@ -65,4 +65,3 @@ like:
 قام القوم خلازيداً وزيدٍ ، وعدازيداً وزيدٍ ، وحاشابكرا ً وبكرٍ
 (The people stood exceptZayd and exceptBakr )
 
-

@@ -1,10 +1,6 @@
 Chapter Xi
 ==========
 
-  
-
-  
-
 INCLUSIVE WISE SAYINGS
 ======================
 
@@ -37,18 +33,11 @@ from Allah, and politeness is acquisition. He who undertakes politeness
 has power over it. He who undertakes reason increases (himself) through
 that nothing but ignorance.[[2]](#_ftn802)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F801) Usūl al-Kāfi, vol. 1, p. 11. Wasā'il al-Shi'a, vol. 1, p.
 161.  
  [[2]](#_F802) Usūl al-Kāfi, vol. 1, p. 23.  
-  
-
-  
-
-  
 
 As for courtesy, it is an acquisitive matter. Man can acquire it. As for
 reason, it is a free gift from Allah, the Most High. Man cannot acquire
@@ -88,19 +77,12 @@ Imām al-Ridā, peace be on him, said: Worship is not abundant prayer and
 fasting; rather it is abundant reflecting on the affair of Allah, the
 Great and Almighty.[[3]](#_ftn805)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F803)Ibid., p. 11.  
  [[2]](#_F804) A'yān al-Shi'a, 4/Q2/196.  
  [[3]](#_F805) Al-Mizān, vol. 8, p. 369. Wasā'il al-Shi'a, vol. 11, p.
 16.  
-  
-
-  
-
-  
 
 Reflecting on the creatures of Allah, contemplating His wonderful
 creatures, and thinking of the secrets and wonders of this universe are
@@ -140,18 +122,11 @@ about love and is evidence for all good.[[3]](#_ftn808)
 Silence and controlling the tongue protect man from great evil and turn
 him aside from detested things which result from speech and utterance.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F806) Usūl al-Kāfi, vol. 2, p. 111.  
  [[2]](#_F807) Ibid., p. 113.  
  [[3]](#_F808) Ibid., p. 124.  
-  
-
-  
-
-  
 
 Humbleness
 ----------
@@ -190,17 +165,10 @@ How noble qualities are these! They raise the level of man to the top of
 honor and perfection, and they turn him aside from falling into
 destruction.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F809) Al-Durr al-Nazim, p. 216.  
  [[2]](#_F810) Wasā'il al-Shi'a, vol. 11, p. 241.  
-  
-
-  
-
-  
 
 The Best and Worst of Men
 -------------------------
@@ -246,18 +214,11 @@ that the deed of a servant is embellished and he regards it as good. One
 of them is that the servant believes (in Allah) and reminds Him of
 favor, while Allah shows kindness toward him.[[3]](#_ftn813)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F811) Al-Bihār, vol. 78, p. 335.  
  [[2]](#_F812) Mawāhib al-Rahmān, vol. 1, p. 64.  
  [[3]](#_F813) Al-Bihār, vol. 78, p. 335.  
-  
-
-  
-
-  
 
 The vainglory, in the second sense, results from unbelief and unripe
 thoughts, and hence it corrupts deeds.
@@ -298,18 +259,11 @@ He who loves the work of  people, he will be mustered in their band,
 just as it has been mentioned in the tradition. So whoever loves the
 disobedient is disobedient, and whoever loves the obedient is obedient.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F814) Wasā'il al-Shi'a, vol. 11, p. 240.  
  [[2]](#_F815) Ibid., p. 394.  
  [[3]](#_F816) Ibid., p. 446.  
-  
-
-  
-
-  
 
 The Good Men
 ------------
@@ -358,11 +312,6 @@ person better than him and more pious, and one who is more
 
 [[1]](#_F817) Tuhaf al-'Uqūl, p. 445.  
  [[2]](#_F818) Ibid.  
-  
-
-  
-
-  
 
 evil than him and more lowly. If he meets the one who is more evil than
 him and more lowly, he says to himself: Maybe, the goodness of this
@@ -408,11 +357,6 @@ satisfaction with Allahs decree, submission to Allahs command, and
 [[1]](#_F819) Ibid., 443.  
  [[2]](#_F820) Qur'ān, 65, 3.  
  [[3]](#_F821) Tuhaf al-'Uqūl, p. 443.  
-  
-
-  
-
-  
 
 entrusting (affairs) to Allah. The Righteous Servant[[1]](#_ftn822)
 said: *And I entrust my affair to Allah, so Allah protected him from the
@@ -461,11 +405,6 @@ Pharaoh.
  [[2]](#_F823)Tuhaf al-'Uqūl, p. 445.  
  [[3]](#_F824) Ibid., p. 446.  
  [[4]](#_F825) Wasā'il al-Shi'a, vol. 11, p. 542.  
-  
-
-  
-
-  
 
 patient, seek the lawful, tighten (your) bonds of kin with gifts, beware
 of showing enmity toward men, for we, the members of the House, join him
@@ -504,11 +443,6 @@ The Imām ordered them to be content and satisfied with that
 
 [[1]](#_F826) Ibid., vol. 4, p. 1129.  
  [[2]](#_F827) Ibid., vol. 18, p. 92.  
-  
-
-  
-
-  
 
 which Allah had apportioned for them, saying: What do you want? Do you
 want to be kings? Does it please you to be like Tāhir[[1]](#_ftn828) and
@@ -551,11 +485,6 @@ peace be on him.
  [[2]](#_F829) Hirthima b. A'yun was among the leaders of al-Ma'mūn and
 one of the close companions of Imām al-Rida, peace be on him.  
  [[3]](#_F830) Thuhaf al-'Uqūl, p. 448.  
-  
-
-  
-
-  
 
 the rich and the poor with greetings *(salām)*. He said: He who meets a
 poor and greets him in a manner different from greeting the rich meets
@@ -593,18 +522,11 @@ Allah.[[3]](#_ftn833)
 These commandments are full of urging men to fear Allah, the Exalted, to
 help their brothers, and to show kindness toward them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F831) Wasā'il al-Shi'a, vol. 8, p. 442.  
  [[2]](#_F832) Ibid., vol. 8, p. 483.  
  [[3]](#_F833) Al-Durr al-Nazim, p. 215.  
-  
-
-  
-
-  
 
 Tightening the Bonds of Kin
 ---------------------------
@@ -651,11 +573,6 @@ Lord in prayer, he said: My Lord, are You far from me,
 [[1]](#_F834) Wasā'il al-Shi'a, vol. 15, p. 243.  
  [[2]](#_F835) Ibid., p. 245.  
  [[3]](#_F836) Usūl al-Kāfi, vol. 2, p. 245.  
-  
-
-  
-
-  
 
 so I will call out for You? Or are You near, so I will whisper (words
 to) You in prayer? Hence, Allah inspired him: Mūsā, I am the Friend of
@@ -694,18 +611,11 @@ his preaching was that he said:] Abū Jafar (i.e. Imām Mohammed al-Bāqir,
 peace be on him) said: Be good with out evil; be leaves with out thorns.
 Do not be thorns without leaves and evil without good.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F837) Al-Fusūl al-Muhimma, p. 224. Wasā'il al-Shi'a, 1/0.  
  [[2]](#_F838) Al-Ya'qūbi, Tārikh.  
  [[3]](#_F839)Usūl al-Kāfi, vol. 2, p. 137.  
-  
-
-  
-
-  
 
 Then he said: Surely Allah detests idle talk, wasting money, and much
 begging.                    
@@ -749,8 +659,6 @@ He, peace be on him, answered: With a shorter life-span, with our deeds
 being recorded, with death round our necks, with Fire behind our backs,
 and we do not know what will be done to us.[[4]](#_ftn843)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F840) Al-Bihār, vol. 72, p. 345.  
@@ -759,11 +667,6 @@ and we do not know what will be done to us.[[4]](#_ftn843)
 Library of Imām Amir al-Mu'minin, no. 2769. Al-Bidāya wa al-Nihāya, vol.
 10, p. 250.  
  [[4]](#_F843) Tuhāf al-'Uqūl, p. 446.  
-  
-
-  
-
-  
 
 5. Yāsir, the retainer, said: [I heard Ali b. Mūsā al-Ridā, peace be on
 him, say:] This creature (i.e. man) is lonely in three situations: On
@@ -813,11 +716,6 @@ al-Ridā, peace be on him:
 [[1]](#_F844) Nūr al-Absār, p. 140.  
  [[2]](#_F845) A'yān al-Shi'a, 4/Q2/198.  
  [[3]](#_F846)  'Uyūn al-Tawārikh, vol. 3, p. 227.  
-  
-
-  
-
-  
 
 coming towards you, sometimes keeping away from you; sometimes they are
 active,  sometimes they are relaxed. If they come along, they will
@@ -854,8 +752,6 @@ battlefield), Allah helps the greater in pardoning.[[6]](#_ftn852)
 7. He, peace be on him, said: Mans walking behind a man is a trial for
 the followed and abasement for the follower.[[7]](#_ftn853)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F847) A'yān al-Shi'a.  
@@ -865,11 +761,6 @@ the followed and abasement for the follower.[[7]](#_ftn853)
  [[5]](#_F851) Ibid.  
  [[6]](#_F852) Ibid.  
  [[7]](#_F853) Ibid.  
-  
-
-  
-
-  
 
 8. He, peace be on him, said: One who is blessed with plenty must spend
 generously on his family.[[1]](#_ftn854)
@@ -921,11 +812,6 @@ Messenger, may Allah bless him and his family, did.[[11]](#_ftn864)
  [[9]](#_F862) Ibid.  
  [[10]](#_F863) Ibid.  
  [[11]](#_F864) Ibid.  
-  
-
-  
-
-  
 
 safety lies in ten things nine of which are in staying aloof from men,
 and the tenth in staying silent.[[1]](#_ftn865)
@@ -971,11 +857,6 @@ becomes happy. When he does an evil deed, he asks Allah
  [[5]](#_F869) Ibid.  
  [[6]](#_F870) Wasā'il al-Shi'a, vol. 8, p. 563.  
  [[7]](#_F871) Ibid., p. 565.  
-  
-
-  
-
-  
 
 forgiveness. The Muslim is he from whose tongue and hand the Muslims are
 safe. To us does not belong he from whose calamities his neighbors are
@@ -1014,8 +895,6 @@ own end shall be.
 
 35. He, peace be on him, said: Poverty is the key to misery.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F872) Ibid., vol. 11, p. 474.  
@@ -1023,11 +902,6 @@ own end shall be.
  [[3]](#_F874) Ibid., vol. 12, p. 587.  
  [[4]](#_F875) Ibid., p. 19.  
  [[5]](#_F876) Ibid., vol. 2, p. 320.  
-  
-
-  
-
-  
 
 36. He, peace be on him, said: Do not pay attention to the  view of
 someone who does not follow your advice for his own good.
@@ -1050,6 +924,4 @@ little does not fear him regarding much.
 With this wise saying we will end our talk about the wonderful wise
 sayings and manners which have reported from Imām al-Ridā, peace be on
 him.
-
-  
 

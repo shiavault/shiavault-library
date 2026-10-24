@@ -10,11 +10,7 @@ Surah al-Qalam, Chapter 68
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -72,37 +68,17 @@ rather than paying lip service to the same.
 Surah al-Qalam – Verses 1-4
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ
-  </p>
-</blockquote>
+> ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَا أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
-  </p>
-</blockquote>
+> مَا أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
-  </p>
-</blockquote>
+> وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
 
 ***1. By Nun, pen and by what they write.***  
 ***2. You, by the Grace of your Lord, are not insane.***  
@@ -212,24 +188,12 @@ second nature of man.[^4]
 Surah al-Qalam – Verses 5-7
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَسَتُبْصِرُ وَيُبْصِرُونَ
-  </p>
-</blockquote>
+> فَسَتُبْصِرُ وَيُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-بِأَييِّكُمُ الْمَفْتُونُ
-  </p>
-</blockquote>
+> بِأَييِّكُمُ الْمَفْتُونُ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ
-بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ
+> بِالْمُهْتَدِينَ
 
 ***5. You shall see before long and they shall see as well,***  
 ***6. Which of you is afflicted with insanity.***  
@@ -292,29 +256,13 @@ alludes to ‘Ali (as).[^5]
 Surah al-Qalam – Verses 8-11
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تُطِعِ الْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> فَلَا تُطِعِ الْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
-  </p>
-</blockquote>
+> وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
-  </p>
-</blockquote>
+> وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
 
-<blockquote dir="rtl">
-  <p>
-هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ
-  </p>
-</blockquote>
+> هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ
 
 ***8. So obey you not the deniers.***  
 ***9. They wish that you compromised with them, so that they would
@@ -385,23 +333,11 @@ forms indicate going to extremes in committing such vices.
 Surah al-Qalam – Verses 12-14
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ
-  </p>
-</blockquote>
+> مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ
-  </p>
-</blockquote>
+> عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-أَن كَانَ ذَا مَالٍ وَبَنِينَ
-  </p>
-</blockquote>
+> أَن كَانَ ذَا مَالٍ وَبَنِينَ
 
 ***12. One going to extremes in hindering the good, wrong doing,
 sinfulness,***  
@@ -463,17 +399,9 @@ expected to do accordingly.
 Surah al-Qalam – Verses 15-16
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
-  </p>
-</blockquote>
+> إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-سَنَسِمُهُ عَلَى الْخُرْطُومِ
-  </p>
-</blockquote>
+> سَنَسِمُهُ عَلَى الْخُرْطُومِ
 
 ***15. When Our Verses are recited unto him, he says: "Tales of the
 ancients."***  
@@ -526,30 +454,14 @@ with a pure heart.[^10]
 Surah al-Qalam – Verses 17-20
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ
-أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ
-  </p>
-</blockquote>
+> إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ
+> أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَسْتَثْنُونَ
-  </p>
-</blockquote>
+> وَلَا يَسْتَثْنُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ
-  </p>
-</blockquote>
+> فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْبَحَتْ كَالصَّرِيمِ
-  </p>
-</blockquote>
+> فَأَصْبَحَتْ كَالصَّرِيمِ
 
 ***17. Indeed, We have tried them as We tried the people of the garden
 when they swore to pluck the fruits of the garden in the morning
@@ -606,35 +518,15 @@ black ashes."
 Surah al-Qalam – Verses 21-25
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَنَادَوْا مُصْبِحِينَ
-  </p>
-</blockquote>
+> فَتَنَادَوْا مُصْبِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ
-  </p>
-</blockquote>
+> أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ
-  </p>
-</blockquote>
+> فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ
-  </p>
-</blockquote>
+> أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ
-  </p>
-</blockquote>
+> وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ
 
 ***21. Then, they called out one to another as soon as the morning
 broke.***  
@@ -676,35 +568,15 @@ years when there is no precipitation.
 Surah al-Qalam – Verses 26-30
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ
-  </p>
-</blockquote>
+> فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ نَحْنُ مَحْرُومُونَ
-  </p>
-</blockquote>
+> بَلْ نَحْنُ مَحْرُومُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
-  </p>
-</blockquote>
+> قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ
-  </p>
-</blockquote>
+> قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ
-  </p>
-</blockquote>
+> فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ
 
 ***26. But when they entered the garden and beheld it, they said:
 "Indeed, we have gone astray."***  
@@ -782,25 +654,13 @@ are all accountable for the misdeeds and vices.
 Surah al-Qalam – Verses 31-33
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ
-  </p>
-</blockquote>
+> قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ
 
-<blockquote dir="rtl">
-  <p>
-عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ
-رَبِّنَا رَاغِبُونَ
-  </p>
-</blockquote>
+> عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ
+> رَبِّنَا رَاغِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا
+> يَعْلَمُونَ
 
 ***31. They said: "Woe to us! We were disobedient.***  
 ***32. We hope that our Lord will [forgive us and] give us in exchange
@@ -853,35 +713,15 @@ question.[^12]
 Surah al-Qalam – Verses 34-38
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ
 
-<blockquote dir="rtl">
-  <p>
-أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ
-  </p>
-</blockquote>
+> أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> مَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ
-  </p>
-</blockquote>
+> أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
-  </p>
-</blockquote>
+> إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
 
 ***34. For the God fearing are gardens abounding in Bounties with their
 Lord.***  
@@ -937,25 +777,13 @@ any authoritative book.
 Surah al-Qalam – Verses 39-41
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ
-إِنَّ لَكُمْ لَمَا تَحْكُمُونَ
-  </p>
-</blockquote>
+> أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ
+> إِنَّ لَكُمْ لَمَا تَحْكُمُونَ
 
-<blockquote dir="rtl">
-  <p>
-سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ
-  </p>
-</blockquote>
+> سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِن كَانُوا
-صَادِقِينَ
-  </p>
-</blockquote>
+> أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِن كَانُوا
+> صَادِقِينَ
 
 ***39. Or have you oaths from Us, reaching to the Day of Resurrection
 that yours will be what you choose?***  
@@ -998,19 +826,11 @@ such questions.
 Surah al-Qalam – Verses 42-43
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا
-يَسْتَطِيعُونَ
-  </p>
-</blockquote>
+> يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا
+> يَسْتَطِيعُونَ
 
-<blockquote dir="rtl">
-  <p>
-خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا
-يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ
-  </p>
-</blockquote>
+> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا
+> يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ
 
 ***42. Remember the Day when the shin shall be laid bare out of fear and
 they shall be called to prostrate themselves, but they shall not be able
@@ -1069,18 +889,10 @@ mankind.
 Surah al-Qalam – Verses 44-45
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَرْنِي وَمَن يُكَذِّبُ بِهَٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم
-مِّنْ حَيْثُ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَذَرْنِي وَمَن يُكَذِّبُ بِهَٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم
+> مِّنْ حَيْثُ لَا يَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ
-  </p>
-</blockquote>
+> وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ
 
 ***44. Then, leave Me Alone with those who belie this. We shall lead
 them to torment in time from directions they know not.***  
@@ -1128,17 +940,9 @@ upon them at any time.
 Surah al-Qalam – Verses 46-47
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ
-  </p>
-</blockquote>
+> أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
-  </p>
-</blockquote>
+> أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
 
 ***46. Or is it that you ask them a wage so that they are heavily
 burdened with debt?***  
@@ -1185,25 +989,13 @@ under their sway.
 Surah al-Qalam – Verses 48-50
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ
-وَهُوَ مَكْظُومٌ
-  </p>
-</blockquote>
+> فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ
+> وَهُوَ مَكْظُومٌ
 
-<blockquote dir="rtl">
-  <p>
-لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ
-وَهُوَ مَذْمُومٌ
-  </p>
-</blockquote>
+> لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ
+> وَهُوَ مَذْمُومٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ
 
 ***48. Thus, wait patiently for the Command of your Lord and be not like
 the Companion of the Fish [Jonah], when he made haste in invoking us to
@@ -1271,18 +1063,10 @@ him and were granted Divine Bounties for quite some time.
 Surah al-Qalam – Verses 51-52
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ
-لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ
-  </p>
-</blockquote>
+> وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ
+> لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ
 
 ***51. Those who disbelieve would almost cause your death with their
 eyes when they hear this Qur’an and they say: "He is insane!"***  
@@ -1429,5 +1213,4 @@ tradition 1.
 [^16]: 21:87
 
 [^17]: 37:49
-
 

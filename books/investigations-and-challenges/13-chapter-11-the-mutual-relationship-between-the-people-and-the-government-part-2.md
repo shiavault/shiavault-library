@@ -572,11 +572,7 @@ the same law creates much trouble and the activities and lives of people
 are put in abeyance. It is here that God the Exalted adds another factor
 called “*yusr*” to the influential factors in the legislation, saying:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ
-  </p>
-</blockquote>
+> يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ
 
 ***Allah desires ease for you, and He does not desire hardship for you.
 (2:185)***
@@ -742,5 +738,4 @@ justification of their beliefs. One of its main doctrines is that acts
 are not intrinsically good or evil, i.e. the goodness [husn] or evilness
 [qubh] of deeds are not intrinsic, but determined by the shari‘ah.
 [Trans.]
-
 

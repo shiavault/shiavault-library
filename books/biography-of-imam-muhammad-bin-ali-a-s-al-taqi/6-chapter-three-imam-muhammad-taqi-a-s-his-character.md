@@ -144,4 +144,3 @@ It needed real courage to stand against Ummul Fazl's and later,
 Muttasim's pressures, and the Imam (A.S.) did just that, not caring for
 the consequences. Such a brave person he was.
 
-

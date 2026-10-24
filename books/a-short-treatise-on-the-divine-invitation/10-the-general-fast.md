@@ -14,11 +14,7 @@ after the holy month, He says:
 
  
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ اللٌّهُ بِكُمُ الْيُسْرَ وَلاَ يُرِيدُ بِكُمُ الْعُسْرَ
-  </p>
-</blockquote>
+> يُرِيدُ اللٌّهُ بِكُمُ الْيُسْرَ وَلاَ يُرِيدُ بِكُمُ الْعُسْرَ
 
 ***“…God desires ease for you, and He does not desire hardship for
 you…***”[^1]
@@ -32,11 +28,7 @@ verse:
 
  
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ مَعَ الْعُسْرِ يُسْرًا. إِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> فَإِنَّ مَعَ الْعُسْرِ يُسْرًا. إِنَّ مَعَ الْعُسْرِ يُسْرًا
 
 ***“For indeed ease accompanies hardship; Indeed ease accompanies
 hardship.***” [^2]
@@ -49,12 +41,8 @@ comprehension cannot be fathomed, save by one who is endowed with the
 penetrating sight mentioned in the following verse of *Sūrat Qāf*:  
   
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هٌذَا فَكَشَـفْنَا عَنْكَ غِطَاءَكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
-  </p>
-</blockquote>
+> لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هٌذَا فَكَشَـفْنَا عَنْكَ غِطَاءَكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
 
 ***“You were certainly oblivious of this.  We have removed your veil
 from you, and so your sight is acute today.***”[^3]
@@ -64,11 +52,7 @@ through the pains and difficulties of worship in this world.  The Holy
 Prophet (s) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-حُفَّتِ الْجَنَّةُ بِالْمَكَارِهِ، وَحُفَّتِ النَّارُ بِالشَّهَوَات.
-  </p>
-</blockquote>
+> حُفَّتِ الْجَنَّةُ بِالْمَكَارِهِ، وَحُفَّتِ النَّارُ بِالشَّهَوَات.
 
 “Paradise is enveloped by difficulties and Hell Fire is enveloped by
 desires.”[^4]
@@ -76,12 +60,8 @@ desires.”[^4]
 Imām ‘Alī (‘a) is reported to have said in a lengthy tradition:  
   
 
-<blockquote dir="rtl">
-  <p>
-...وَاللٌّهِ إِنَّ صَائِمَكُمْ لَيَرْتَعْ فِي رِيَاضِ الْجَنَّةِ،
-تَدْعُو لَهُ الْمَلاَئِكَةُ بِالْفَوْزِ حَتّى يُفْطِرَ.
-  </p>
-</blockquote>
+> ...وَاللٌّهِ إِنَّ صَائِمَكُمْ لَيَرْتَعْ فِي رِيَاضِ الْجَنَّةِ،
+> تَدْعُو لَهُ الْمَلاَئِكَةُ بِالْفَوْزِ حَتّى يُفْطِرَ.
 
 “I swear by Allāh, surely the fasting one among you enjoys in the
 gardens of Paradise, and the Angels pray for his success until he breaks
@@ -117,15 +97,11 @@ reality of [Paradisal] food, which does not break the fast…’[^7]
 Al-Isfahāni later continues[^8] saying:  
   
 
-<blockquote dir="rtl">
-  <p>
-ولا تظنن أنّ تعبيرات هذا العبد هي من قبيل خيالات الشعراء وأوهامهم، أو
-من شطحيات غلاة المتصوفة، فحاشى أن أتجاوز لسان الكتاب والسنة، أو اتخطى
-في معتقدي غير ما جاء به الله والنبي وأمر به، وإنما المقصود هو قول الله
-نفسه في سورة "هل أتى" حيث يقول سبحانه: وَسَقٌهُمْ رَبُّهُمْ شَرَابــاً
-طَهُوراً
-  </p>
-</blockquote>
+> ولا تظنن أنّ تعبيرات هذا العبد هي من قبيل خيالات الشعراء وأوهامهم، أو
+> من شطحيات غلاة المتصوفة، فحاشى أن أتجاوز لسان الكتاب والسنة، أو اتخطى
+> في معتقدي غير ما جاء به الله والنبي وأمر به، وإنما المقصود هو قول الله
+> نفسه في سورة "هل أتى" حيث يقول سبحانه: وَسَقٌهُمْ رَبُّهُمْ شَرَابــاً
+> طَهُوراً
 
  “Do not think that the expressions of this servant resembles the
 imaginations of the poets and their vain ideas or the theopathetic
@@ -136,11 +112,7 @@ than what Allāh and His Messenger brought and ordered [us to follow]. 
 What I only mean here is the word of Allāh in chapter ‘*Hal Atā*’ where
 Allāh says:
 
-<blockquote dir="rtl">
-  <p>
-وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
-  </p>
-</blockquote>
+> وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
 
 ***“…and their Lord made them drink a pure drink.***”[^9]
 
@@ -150,11 +122,7 @@ term hunger as the ‘the clouds from which rains of wisdom heavily
 fall’.  In his poetic masterpiece of Islamic laws & their secrets called
 *Nibrās al-Hudā*, Mullā Hādī Sabzawāri says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْجُوْعُ لِلْحِكْمَةِ مُزْنٌ مَاطِرٌ.
-  </p>
-</blockquote>
+> وَالْجُوْعُ لِلْحِكْمَةِ مُزْنٌ مَاطِرٌ.
 
 “And hunger is a rainy cloud of wisdom.”[^10]
 
@@ -178,5 +146,4 @@ father who was a well known saint in his time. 
 [^9]: Holy Qur’ān, 76:21.
 
 [^10]: Nibrās al-Hudā, pg. 236.
-
 

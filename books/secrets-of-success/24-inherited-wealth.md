@@ -99,4 +99,3 @@ crafts and politics, only those have proved to be great who got some
 position due to their own learning, hard work and ability. No other
 factor has been responsible for their progress and success.
 
-

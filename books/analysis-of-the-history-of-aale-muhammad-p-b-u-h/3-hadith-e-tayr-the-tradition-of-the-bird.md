@@ -807,4 +807,3 @@ it has divided the Ummah and is the root cause of all the afflictions
 and controversies. We shall, to the best of our ability, examine this
 important matter in such a way that it can be understood by all.
 
-

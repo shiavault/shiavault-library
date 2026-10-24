@@ -359,4 +359,3 @@ the capacity for it.
 
 [^1]: Vol. 2, Article 2.
 
-

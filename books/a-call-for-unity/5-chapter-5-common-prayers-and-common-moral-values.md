@@ -1225,4 +1225,3 @@ it may go well with you and that you may enjoy long life on the Earth.
 (Ephesians, 6:1-3) Torah Honor your father and your mother. (Exodus,
 20:12)
 
-

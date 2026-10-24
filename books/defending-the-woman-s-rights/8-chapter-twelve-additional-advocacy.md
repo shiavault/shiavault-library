@@ -598,4 +598,3 @@ You can communicate with me at... haminia@gmail.com.
 Qom, Birthday anniversary of Fatima al-Ma'suma (a.s).
 November, 2007.
 
-

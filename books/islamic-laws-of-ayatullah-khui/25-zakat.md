@@ -1223,4 +1223,3 @@ a person, the obligatory precaution is that he should not take the fitra
 to some other place, and in case he takes it to another place and it
 perishes, he should give its substitute.
 
-

@@ -18,14 +18,10 @@ to establish that belief in the *khilafah* of the Ahl al-Bayt, *‘alaihim
 al-salam*, as well as in *al-raj’ah*, was part of the *original*
 teachings of Islam. For instance, Imam Ibn Abi ‘Asim (d. 287 H) records:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
-أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
-وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
-في كل مؤمن من بعدي.
-  </p>
-</blockquote>
+> ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
+> أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
+> وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
+> في كل مؤمن من بعدي.
 
 Muhammad b. al-Muthanna – Yahya b. Hammad – Abu ‘Awanah – Yahya b.
 Sulaym Abu Balj – ‘Amr b. Maymun – Ibn ‘Abbas: **The Messenger of Allah,
@@ -35,12 +31,8 @@ my** ***khalifah*** **over every believer after me**.”[^1]
 
 Dr. al-Jawabirah says:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن. رجاله رجال الشيخين غير ابي‌ بلج واسمه يحيي بن سليم بن بلج،
-قال الحافظ: صدوق ربما اخطأ. وله شواهد
-  </p>
-</blockquote>
+> اسناده حسن. رجاله رجال الشيخين غير ابي‌ بلج واسمه يحيي بن سليم بن بلج،
+> قال الحافظ: صدوق ربما اخطأ. وله شواهد
 
 **Its chain is** ***hasan***. Its narrators are narrators of the two
 Shaykhs, except Abu Balj, and his name is Yahya b. Sulaym b. Balj.
@@ -49,12 +41,8 @@ Al-Hafiz said: “*Saduq* (very truthful), *maybe* he made mistakes.”
 
 ‘Allamah al-Albani (d. 1420 H) also comments on the *sanad*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن .ورجاله ثقات رجال الشيخين غير أبي بلج واسمه يحيى بن سليم بن
-بلج قال الحافظ" :صدوق ربما أخطأ ".
-  </p>
-</blockquote>
+> إسناده حسن .ورجاله ثقات رجال الشيخين غير أبي بلج واسمه يحيى بن سليم بن
+> بلج قال الحافظ" :صدوق ربما أخطأ ".
 
 **Its chain is** ***hasan***. Its narrators are trustworthy, and are
 narrators of the two Shaykhs (i.e. al-Bukhari and Muslim) except Abu
@@ -63,42 +51,26 @@ truthful), *maybe* he made mistakes.”[^3]
 
 Assessing the same chain, Imam al-Hakim (d. 403 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has **a** ***sahih*** **chain**.[^4]
 
 And Imam al-Dhahabi (d. 748 H) seconds him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^5]
 
 ‘Allamah Ahmad Shakir (d. 1377 H) too has the same verdict on same
 *isnad*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^6]
 
 And Imam al-Busiri (d. 840 H) holds the same view, concerning the chain:
 
-<blockquote dir="rtl">
-  <p>
-سند صحيح
-  </p>
-</blockquote>
+> سند صحيح
 
 A *sahih* chain.[^7]
 
@@ -109,12 +81,8 @@ the Lord of the worlds.
 
 ‘Allamah al-Albani has a second *hadith* for our research:
 
-<blockquote dir="rtl">
-  <p>
-إني تارك فيكم خليفتين: كتاب الله حبل ممدود ما بين السماء والأرض وعترتي
-أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> إني تارك فيكم خليفتين: كتاب الله حبل ممدود ما بين السماء والأرض وعترتي
+> أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
 
 **I am leaving behind over you two** ***khalifahs*****: the Book of
 Allah** - a rope stretching between the heaven and the earth – **and my
@@ -123,23 +91,15 @@ other until they meet me at the Lake-Font.[^9]
 
 Then, the ‘Allamah comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^10]
 
 On the same page, al-Albani copies another similar *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إني تارك فيكم ما إن تمسكتم به لن تضلوا بعدي أحدهما أعظم من الآخر كتاب
-الله حبل ممدود من السماء إلى الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا
-علي الحوض فانظروا كيف تخلفوني فيهما
-  </p>
-</blockquote>
+> إني تارك فيكم ما إن تمسكتم به لن تضلوا بعدي أحدهما أعظم من الآخر كتاب
+> الله حبل ممدود من السماء إلى الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا
+> علي الحوض فانظروا كيف تخلفوني فيهما
 
 **I am leaving behind over you that which if you adhere to it you will
 never go astray after me**, one of them both is greater than the other:
@@ -150,11 +110,7 @@ carefully how you treat them in my absence.[^11]
 
 Again, ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^12]
 
@@ -182,12 +138,8 @@ period. Another word for this, in Shi’i terminology, is
 
 There is, without doubt, a general rule set in the Book of Allah:
 
-<blockquote dir="rtl">
-  <p>
-حتى إذا جاء أحدهم الموت قال رب ارجعون لعلي أعمل صالحا فيما تركت كلا
-إنها كلمة هو قائلها ومن ورائهم برزخ إلى يوم يبعثون
-  </p>
-</blockquote>
+> حتى إذا جاء أحدهم الموت قال رب ارجعون لعلي أعمل صالحا فيما تركت كلا
+> إنها كلمة هو قائلها ومن ورائهم برزخ إلى يوم يبعثون
 
 Until when death comes to one of them, he says, “My Lord! Send me back,
 so that I may do good in that which I have left behind!” No! It is but a
@@ -198,14 +150,10 @@ So, anyone who dies is prevented from ever returning to this world. He
 is rather locked behind the *Barzakh* till *al-Qiyamah*. Al-Hafiz Ibn
 Kathir (d. 774 H) states under the above verse:
 
-<blockquote dir="rtl">
-  <p>
-وقال مجاهد : البرزخ : الحاجز ما بين الدنيا والآخرة. وقال محمد بن كعب :
-البرزخ : ما بين الدنيا والآخرة. ليسوا مع أهل الدنيا يأكلون ويشربون ،
-ولا مع أهل الآخرة يجازون بأعمالهم. وقال أبو صخر : البرزخ : المقابر ،
-لا هم في الدنيا ، ولا هم في الآخرة ، فهم مقيمون إلى يوم يبعثون.
-  </p>
-</blockquote>
+> وقال مجاهد : البرزخ : الحاجز ما بين الدنيا والآخرة. وقال محمد بن كعب :
+> البرزخ : ما بين الدنيا والآخرة. ليسوا مع أهل الدنيا يأكلون ويشربون ،
+> ولا مع أهل الآخرة يجازون بأعمالهم. وقال أبو صخر : البرزخ : المقابر ،
+> لا هم في الدنيا ، ولا هم في الآخرة ، فهم مقيمون إلى يوم يبعثون.
 
 Mujahid said: “The *Barzakh* is a barrier between this world and the
 Hereafter.” Muhammad b. Ka’b said, “The *Barzakh* is what is between
@@ -220,12 +168,8 @@ However, Allah has provided some exceptions to this general rule – and
 those are the instances of *al-raj’ah*. Examples of them are given in
 His Book. For instance, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وإذ قلتم يا موسى لن نؤمن لك حتى نرى الله جهرة فأخذتكم الصاعقة وأنتم
-تنظرون ثم بعثناكم من بعد موتكم لعلكم تشكرون
-  </p>
-</blockquote>
+> وإذ قلتم يا موسى لن نؤمن لك حتى نرى الله جهرة فأخذتكم الصاعقة وأنتم
+> تنظرون ثم بعثناكم من بعد موتكم لعلكم تشكرون
 
 And when you said, “O Musa! We shall never believe in you until we see
 Allah plainly.” But you were seized with a thunderbolt while you were
@@ -234,12 +178,8 @@ that you may be grateful.[^17]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ألم تر إلى الذين خرجوا من ديارهم وهم ألوف حذر الموت فقال لهم الله
-موتوا ثم أحياهم
-  </p>
-</blockquote>
+> ألم تر إلى الذين خرجوا من ديارهم وهم ألوف حذر الموت فقال لهم الله
+> موتوا ثم أحياهم
 
 Did you not see those who went forth from their homes in thousands,
 fearing death? Allah said to them, “Die”. **Then, He resurrected
@@ -247,12 +187,8 @@ them**.[^18]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أو كالذي مر على قرية وهي خاوية على عروشها قال أنى يحيي هذه الله بعد
-موتها فأماته الله مائة عام ثم بعثه
-  </p>
-</blockquote>
+> أو كالذي مر على قرية وهي خاوية على عروشها قال أنى يحيي هذه الله بعد
+> موتها فأماته الله مائة عام ثم بعثه
 
 Or like he who passed by a town and it had tumbled over its roofs. He
 said: “Oh! How will Allah ever bring it to life after its death?” **So,
@@ -262,22 +198,14 @@ him**.[^19]
 The Qur’an also quotes Allah as having said to ‘Isa, one of the
 Israilite prophets:
 
-<blockquote dir="rtl">
-  <p>
-وإذ تخرج الموتى بإذني
-  </p>
-</blockquote>
+> وإذ تخرج الموتى بإذني
 
 And when **you resurrect the dead** with My Permission[^20]
 
 Prophet ‘Isa himself said this to his people, as reported by the Book of
 Allah:
 
-<blockquote dir="rtl">
-  <p>
-وأحيي الموتى بإذن الله
-  </p>
-</blockquote>
+> وأحيي الموتى بإذن الله
 
 And **I resurrect the dead** by Allah’s Permission.[^21]
 
@@ -289,17 +217,13 @@ We see from these verses that *al-karrah* occurred in the previous
 significance in this fact for our research. This is on account of this
 *hadith*, documented by Imam al-Tirmidhi (d. 279 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمود بن غيلان حدثنا أبو داود الحفري عن سفيان الثوري عن عبد
-الرحمن بن زياد الأفريقي عن عبد الله بن يزيد عن عبد الله بن عمرو قال
-قال رسول الله صلى الله عليه و سلم ليأتين على أمتي ما أتى على بني
-إسرائيل حذو النعل بالنعل حتى إن كان منهم من أتى أمه علانية لكان في
-أمتي من يصنع ذلك وإن بني إسرائيل تفرقت على ثنتين وسبعين ملة وتفترق
-أمتي على ثلاث وسبعين ملة كلهم في النار إلا ملة واحدة قالوا ومن هي يا
-رسول الله قال ما أنا عليه وأصحابي
-  </p>
-</blockquote>
+> حدثنا محمود بن غيلان حدثنا أبو داود الحفري عن سفيان الثوري عن عبد
+> الرحمن بن زياد الأفريقي عن عبد الله بن يزيد عن عبد الله بن عمرو قال
+> قال رسول الله صلى الله عليه و سلم ليأتين على أمتي ما أتى على بني
+> إسرائيل حذو النعل بالنعل حتى إن كان منهم من أتى أمه علانية لكان في
+> أمتي من يصنع ذلك وإن بني إسرائيل تفرقت على ثنتين وسبعين ملة وتفترق
+> أمتي على ثلاث وسبعين ملة كلهم في النار إلا ملة واحدة قالوا ومن هي يا
+> رسول الله قال ما أنا عليه وأصحابي
 
 Mahmud b. Ghilan – Abu Dawud al-Hafari – Sufyan al-Thawri – ‘Abd
 al-Rahman b. Ziyad al-Afriqi – ‘Abd Allah b. Yazid – ‘Abd Allah b. ‘Amr:
@@ -316,11 +240,7 @@ which I and my Sahabah follow.”[^22]
 
 ‘Allamah al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^23]
 
@@ -329,11 +249,7 @@ Therefore, it *certainly* is part of our *Ummah* as well.
 
 The Qur’an too proclaims:
 
-<blockquote dir="rtl">
-  <p>
-سنة الله في الذين خلوا من قبل ولن تجد لسنة الله تبديلا
-  </p>
-</blockquote>
+> سنة الله في الذين خلوا من قبل ولن تجد لسنة الله تبديلا
 
 That was the *Sunnah* of Allah in the case of those passed away of old,
 **and you will not find any change in the** ***Sunnah*** **of
@@ -341,11 +257,7 @@ Allah**.[^24]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-سنة الله التي قد خلت من قبل ولن تجد لسنة الله تبديلا
-  </p>
-</blockquote>
+> سنة الله التي قد خلت من قبل ولن تجد لسنة الله تبديلا
 
 That has been the *Sunnah* of Allah already with those who passed away
 before. **And you will not find any change in the** ***Sunnah*** **of
@@ -445,5 +357,4 @@ upon, but what he and his Sahabah followed together.
 [^24]: Qur’an 33:62
 
 [^25]: Qur’an 48:23
-
 

@@ -2555,4 +2555,3 @@ treatment of the subject and praiseworthy capacity for evaluation and
 analysis of the problems involved. He himself has been once an ardent
 supporter and exponent of this school for many years.
 
-

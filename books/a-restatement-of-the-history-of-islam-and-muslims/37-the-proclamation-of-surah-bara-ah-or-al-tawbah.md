@@ -248,4 +248,3 @@ It was the pleasure of Allah that His favorite slave, Ali ibn Abi Talib,
 should, by reading His Proclamation, put an end to idolatry in Arabia
 forever.
 
-

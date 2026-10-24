@@ -31,4 +31,3 @@ Moral:
 
 Love others for the sake of the command of God.
 
-

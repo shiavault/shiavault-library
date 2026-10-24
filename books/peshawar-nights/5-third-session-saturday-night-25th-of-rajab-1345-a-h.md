@@ -1935,4 +1935,3 @@ Sunnis.
 [^1]: Nahju'l-Balagha, English translation, Volume 1, page 130,
 published by Peer Muhammad Ebrahim Trust, Karachi.
 
-

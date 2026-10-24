@@ -61,7 +61,6 @@ true teachings of Islam taught by them, so that we live a good and
 decent life in this world and earn the pleasure of God in the life
 hereafter.
 
-
 **Bat - God's Wonderful Creature**
 
 Hazrat Sulaiman was one of the early Prophets of Islam. He is also
@@ -199,5 +198,4 @@ satisfies itself with what it had gathered during the night.
 Glory be to God Who made the darkness of a night act for a bat as the
 light of a day to work and search for its food Who made the day a time
 for its rest and retirement." (Nahjul Balaghah sermon 155)
-
 

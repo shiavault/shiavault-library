@@ -1388,4 +1388,3 @@ Constitutional Theory, pp. 200‑201.
 
 [^55]: Shibli, op. cit.,p 66.
 
-

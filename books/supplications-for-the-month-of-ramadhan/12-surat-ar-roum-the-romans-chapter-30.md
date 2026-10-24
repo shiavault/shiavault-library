@@ -242,4 +242,3 @@ are nothing but false claimants.
 60. So be patient; Surely the promise of Allah is the truth. Let not
 those who have no certainty make you unsteady.
 
-

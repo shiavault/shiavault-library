@@ -906,4 +906,3 @@ values.
 
 [^11]: Nahjul-Balagha, Sermon 47.
 
-

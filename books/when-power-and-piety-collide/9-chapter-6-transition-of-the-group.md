@@ -1,12 +1,8 @@
 Chapter 6: Transition of the Group
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-وَمَثلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِن فَوْقِ
-الأَرْضِ مَا لَهَا مِن قَرَارٍ
-  </p>
-</blockquote>
+> وَمَثلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِن فَوْقِ
+> الأَرْضِ مَا لَهَا مِن قَرَارٍ
 
 ***And the parable of an evil word is that of an evil tree: It is torn
 up by the root from the surface of the earth: it has no stability. (Holy
@@ -129,5 +125,4 @@ begun to spread its roots.
 [^9]: Ibn Katheer, Sunan al-Tirmidhi; Al-Bidayah wal-Nihayah, 8:120
 
 [^10]: Ibn Katheer, 4:42
-
 

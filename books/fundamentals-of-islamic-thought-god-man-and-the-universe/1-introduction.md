@@ -54,4 +54,3 @@ profound problems Mutahhari discusses.
 
 **Hamid Algar**
 
-

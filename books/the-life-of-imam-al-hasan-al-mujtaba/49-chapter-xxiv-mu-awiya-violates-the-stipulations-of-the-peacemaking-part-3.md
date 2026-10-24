@@ -613,4 +613,3 @@ not declare the official pledge of allegiance to Yazid until he
 assassinated the Imam. We have to deal with some preparatory means
 Mu’awiya had done for this purpose.
 
-

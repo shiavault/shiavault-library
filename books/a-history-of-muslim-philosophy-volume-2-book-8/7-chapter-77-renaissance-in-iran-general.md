@@ -1073,4 +1073,3 @@ brave and heroic like the members of the Pahlaw (Parthian) tribe.
 [^35]: Naficy, A General Survey of the Existing Situation in Persian
 Literature, p. 2.
 
-

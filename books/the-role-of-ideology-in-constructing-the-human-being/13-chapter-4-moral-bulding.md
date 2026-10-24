@@ -306,4 +306,3 @@ the agitation of stinginess and the out burst of anger, be overcoming
 with jealously, weakness of patience, paucity of contentedness and
 fractiousness of morals..” [^38]
 
-

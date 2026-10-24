@@ -39,4 +39,3 @@ available for every 100 women. What will be the position of those five
 per cent ‘extra’ women (it comes to more than three hundred thousand
 souls) if the society decides to discourage polygamy?
 
-

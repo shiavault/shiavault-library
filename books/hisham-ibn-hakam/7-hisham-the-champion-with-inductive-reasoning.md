@@ -168,4 +168,3 @@ the general to the specific. In other words, we say that as every person
 is moving according to his will; so Bahram is also moving as per his
 will.
 
-

@@ -175,7 +175,6 @@ chosen servants,. . ." (35:32) We are the ones whom Allah, the Most
 Holy, the Most High, has chosen and has given this which contain the
 explanation of all things."
 
-
 **Chapter 34 : The Imams (a.s.) have with all the books that Allah, the
 Most Holy, the Most High, has revealed and that they know them even the
 language in them are different H 605, Ch. 34, h 1**
@@ -246,5 +245,4 @@ not punish you but then you punished me? Am I not your slave and you are
 my Lord." The Imams (a.s.) said, "Allah then spoke to him through
 inspiration, "Rise your head. I will not punish you because when I
 promise I then keep My promise."
-
 

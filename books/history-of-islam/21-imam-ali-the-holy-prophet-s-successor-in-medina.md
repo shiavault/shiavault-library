@@ -301,4 +301,3 @@ destroyed and there will remain no Christian on the earth.” The group
 dispensed with the mutual cursing[^125] and, on terms of a treaty, they
 had to pay tax.[^126]
 
-

@@ -13,14 +13,10 @@ or spiritual superiority. A lot of Sunni *ahadith* testify to this. We
 have discussed some of them in the last chapter. Let us briefly quote a
 few more before proceeding. Imam Ahmad (d. 241 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن سعيد ثنا هشام قال ثنا قتادة عن
-يونس بن جبير عن حطان بن عبد الله الرقاشي ان الأشعري صلى بأصحابه
-صلاة... فقال الأشعري ...ان نبي الله صلى الله عليه و سلم خطبنا فعلمنا
-سنتنا وبين لنا صلاتنا فقال أقيموا صفوفكم ثم ليؤمكم أقرؤكم
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن سعيد ثنا هشام قال ثنا قتادة عن
+> يونس بن جبير عن حطان بن عبد الله الرقاشي ان الأشعري صلى بأصحابه
+> صلاة... فقال الأشعري ...ان نبي الله صلى الله عليه و سلم خطبنا فعلمنا
+> سنتنا وبين لنا صلاتنا فقال أقيموا صفوفكم ثم ليؤمكم أقرؤكم
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya b. Sa’id –
 Hisham – Qatadah – Yunus b. Jubayr – Hittan b. ‘Abd Allah al-Raqashi:
@@ -33,23 +29,15 @@ should be your Imam**.’”[^1]
 
 Shaykh al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is *sahih* upon the standard of (Imam) Muslim.[^2]
 
 Imam Muslim (d. 261 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة بن سعيد حدثنا أبو عوانة عن قتادة عن أبي نضرة عن أبي سعيد
-الخدري قال قال رسول الله صلى الله عليه و سلم إذا كانوا ثلاثة فليؤمهم
-أحدهم وأحقهم بالإمامة أقرؤهم
-  </p>
-</blockquote>
+> حدثنا قتيبة بن سعيد حدثنا أبو عوانة عن قتادة عن أبي نضرة عن أبي سعيد
+> الخدري قال قال رسول الله صلى الله عليه و سلم إذا كانوا ثلاثة فليؤمهم
+> أحدهم وأحقهم بالإمامة أقرؤهم
 
 Qutaybah b. Sa’id – Abu ‘Awanah – Qatadah – Abu Naḍrah – Abu Sa’id
 al-Khudri:
@@ -60,13 +48,9 @@ be the Imam among them is the best reciter among them**.[^3]
 
 Imam Ahmad again records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرزاق أنا بن جريج قال لي عبد الملك
-ان أنس بن مالك قال عن النبي صلى الله عليه و سلم قال يؤم القوم أقرؤهم
-للقرآن
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرزاق أنا بن جريج قال لي عبد الملك
+> ان أنس بن مالك قال عن النبي صلى الله عليه و سلم قال يؤم القوم أقرؤهم
+> للقرآن
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Razzaq –
 Ibn Jurayj – ‘Abd al-Malik – Anas b. Malik:
@@ -76,25 +60,17 @@ The Prophet, peace be upon him, said: “**The people are to be led in**
 
 Al-Arnaut submits:
 
-<blockquote dir="rtl">
-  <p>
-صحيح لغيره
-  </p>
-</blockquote>
+> صحيح لغيره
 
 It is *sahih li ghayrihi*[^5]
 
 The Sahabah too put this into practice. Imam al-Bukhari (d. 256 H)
 documents such an instance:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إبراهيم بن المنذر قال حدثنا أنس بن عياض عن عبيد الله عن نافع عن
-ابن عمر قال : لما قدم المهاجرون الأولون العصبة موضع بقباء قبل مقدم
-رسول الله صلى الله عليه و سلم كان يؤمهم سالم مولى أبي حذيفة وكان
-أكثرهم قرآنا
-  </p>
-</blockquote>
+> حدثنا إبراهيم بن المنذر قال حدثنا أنس بن عياض عن عبيد الله عن نافع عن
+> ابن عمر قال : لما قدم المهاجرون الأولون العصبة موضع بقباء قبل مقدم
+> رسول الله صلى الله عليه و سلم كان يؤمهم سالم مولى أبي حذيفة وكان
+> أكثرهم قرآنا
 
 Ibrahim b. al-Mundhir – Anas b. ‘Iyaḍ – ‘Ubayd Allah – Nafi’ – Ibn
 ‘Umar:
@@ -106,12 +82,8 @@ the most knowledgeable of the Qur’an among them**.[^6]
 
 Al-Hafiz (d. 852 H) comments about this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قوله) وكان أكثر هم قرآنا (إشارة إلى سبب تقديمهم له مع كونهم أشرف منه
-وفي رواية للطبراني لأنه كان أكثرهم قرآنا
-  </p>
-</blockquote>
+> قوله) وكان أكثر هم قرآنا (إشارة إلى سبب تقديمهم له مع كونهم أشرف منه
+> وفي رواية للطبراني لأنه كان أكثرهم قرآنا
 
 **His statement (and he was the most knowledgeable of the Qur’an among
 them) is an indicator towards their reason for making him their leader
@@ -122,13 +94,9 @@ the most knowledgeable of them of the Qur’an)[^7]
 The explanation is confirmed by this *riwayah* of Imam Ibn Abi Shaybah
 (d. 235 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ابن نمير عن عبيد الله عن نافع عن ابن عمر أن المهاجرين حين أقبلوا
-من مكة نزلوا إلى جنب قباء فأمهم سالم مولى أبي حذيفة لأنه كان أكثرهم
-قرآنا فيهم أبو سلمة بن عبد الأسد وعمر بن الخطاب.
-  </p>
-</blockquote>
+> حدثنا ابن نمير عن عبيد الله عن نافع عن ابن عمر أن المهاجرين حين أقبلوا
+> من مكة نزلوا إلى جنب قباء فأمهم سالم مولى أبي حذيفة لأنه كان أكثرهم
+> قرآنا فيهم أبو سلمة بن عبد الأسد وعمر بن الخطاب.
 
 Ibn Numayr – ‘Ubayd Allah – Nafi’ – Ibn ‘Umar:
 
@@ -140,24 +108,16 @@ were Abu Salamah b. ‘Abd al-Asad and **‘Umar b. al-Khattab**.[^8]
 Grading another *hadith* with this same exact chain, ‘Allamah al-Albani
 (d. 1420 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-وهذا إسناد صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> وهذا إسناد صحيح على شرط الشيخين
 
 This chain is *sahih* upon the standard of the two Shaykhs.[^9]
 
 Al-Bukhari further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عثمان بن صالح حدثنا عبد الله بن وهب أخبرني ابن جريج أن نافعا
-أخبره أن ابن عمر رضي الله عنهما أخبره قال كان سالم مولى أبي حذيفة يؤم
-المهاجرين الأولين وأصحاب النبي صلى الله عليه و سلم في مسجد قباء فيهم
-أبو بكر وعمر وأبو سلمة وزيد وعامر بن ربيعة
-  </p>
-</blockquote>
+> حدثنا عثمان بن صالح حدثنا عبد الله بن وهب أخبرني ابن جريج أن نافعا
+> أخبره أن ابن عمر رضي الله عنهما أخبره قال كان سالم مولى أبي حذيفة يؤم
+> المهاجرين الأولين وأصحاب النبي صلى الله عليه و سلم في مسجد قباء فيهم
+> أبو بكر وعمر وأبو سلمة وزيد وعامر بن ربيعة
 
 ‘Uthman b. Salih – ‘Abd Allah b. Wahb – Ibn Jurayj – Nafi’ – Ibn ‘Umar,
 may Allah be pleased with him:
@@ -177,12 +137,8 @@ Salim was a freed slave. But, the *‘ulama* of the Ahl al-Sunnah actually
 allow leadership in *salat* by even serving slaves and bastards too, as
 long as they are the best in Qur’anic recitation, as al-Hafiz declares:
 
-<blockquote dir="rtl">
-  <p>
-وإلى صحة إمامة العبد ذهب الجمهور وخالف مالك ... وإلى صحة إمامة ولد
-الزنا ذهب الجمهور
-  </p>
-</blockquote>
+> وإلى صحة إمامة العبد ذهب الجمهور وخالف مالك ... وإلى صحة إمامة ولد
+> الزنا ذهب الجمهور
 
 The majority (of the scholars) accepted the correctness of leadership in
 *salat* by a slave. But, (Imam) Malik objected.... **Also, the majority
@@ -192,13 +148,9 @@ bastard**.[^11]
 The supreme Salafi *fiqh* council in Saudi Arabia and across the world,
 *al-Lajnah al-Daimah*, also states:
 
-<blockquote dir="rtl">
-  <p>
-تصح إمامة العبد وولد الزنا في الصلاة، إذا كان كل منهما أهلا لذلك، من
-جهة الدين؛ لعموم قوله :يؤم القوم أقرؤهم لكتاب الله " ولا نعلم دليلا
-يمنع ذلك.
-  </p>
-</blockquote>
+> تصح إمامة العبد وولد الزنا في الصلاة، إذا كان كل منهما أهلا لذلك، من
+> جهة الدين؛ لعموم قوله :يؤم القوم أقرؤهم لكتاب الله " ولا نعلم دليلا
+> يمنع ذلك.
 
 **The leadership of the slave or the bastard in** ***salat*** **is
 correct**, as long as each of them is qualified for it, from the
@@ -210,12 +162,8 @@ that**.[^12]
 Even a small child can lead his grandfathers in *salat*, according to
 the same council:
 
-<blockquote dir="rtl">
-  <p>
-تصح إمامة الصبي الذي يعقل الصلاة؛ لقول النبي) ص" (يؤم القوم أقرؤهم
-لكتاب الله "
-  </p>
-</blockquote>
+> تصح إمامة الصبي الذي يعقل الصلاة؛ لقول النبي) ص" (يؤم القوم أقرؤهم
+> لكتاب الله "
 
 **The leadership of** ***salat*** **by a small child, who understands**
 ***salat*****, is correct**, due to the statement of the Prophet, peace
@@ -244,14 +192,10 @@ only in severely contradictory reports. For instance, Imam al-Nawawi (d.
 676 H) claims about the alleged leadership of the Sahabah in *salat* by
 Abu Bakr:
 
-<blockquote dir="rtl">
-  <p>
-فيه فوائد منها فضيلة أبي بكر الصديق رضي الله عنه وترجيحه على جميع
-الصحابة رضوان الله عليهم أجمعين وتفضيله وتنبيه على أنه أحق بخلافة رسول
-الله صلى الله عليه وسلم من غيره ومنها أن الإمام إذا عرض له عذر عن حضور
-الجماعة استخلف من يصلي بهم وأنه لا يستخلف إلا أفضلهم
-  </p>
-</blockquote>
+> فيه فوائد منها فضيلة أبي بكر الصديق رضي الله عنه وترجيحه على جميع
+> الصحابة رضوان الله عليهم أجمعين وتفضيله وتنبيه على أنه أحق بخلافة رسول
+> الله صلى الله عليه وسلم من غيره ومنها أن الإمام إذا عرض له عذر عن حضور
+> الجماعة استخلف من يصلي بهم وأنه لا يستخلف إلا أفضلهم
 
 There are benefits from it. **Among them is the excellence of Abu Bakr
 al-Siddiq, may Allah be pleased with him, and his preference over all
@@ -340,5 +284,4 @@ pp. 414-415
 
 [^14]: Abu Zakariyah Yahya b. Sharaf al-Nawawi, Sharh Sahih Muslim
 (Beirut: Dar al-Kitab al-‘Arabi; 1407 H), vol. 4, p. 137
-
 

@@ -31,4 +31,3 @@ Moral:
 It is not good to sit idle while others work; you should always share
 the work with your companions.
 
-

@@ -17,4 +17,3 @@ friend and apologised.
  Yes, accusation is one of the most ill- favoured act in Islam and also
 a big sin.
 
-

@@ -408,12 +408,8 @@ unity of the husband and the wife is greater than passion. It is the
 same thing which the holy Qur’an mentions with the name of “mawaddah”
 (love) and “rahmat” (mercy).
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً
 
 ***And of His signs is that He created for you, of yourselves, spouses
 that you might repose in them, and He has set between you love and
@@ -694,5 +690,4 @@ in bringing about these differences. Anyway, I dropped the idea of a
 comprehensive discussion of this matter, so as to abstain from enlarging
 the scope of the subject matter. I hope this matter will become
 completely clear in the course of future chapters.
-
 

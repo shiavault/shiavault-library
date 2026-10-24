@@ -116,11 +116,7 @@ In the House of Allah, on all four sides of the center of monotheism, in
 the presence of the Almighty, the tongue is in total harmony with the
 hand while supplicating,
 
-<blockquote dir="rtl">
-  <p>
-اللهم انجز لي ما وعدتني
-  </p>
-</blockquote>
+> اللهم انجز لي ما وعدتني
 
 "O Allah! Fulfill for me what You have promised me."
 
@@ -137,14 +133,9 @@ Let us pray for his earliest reappearance every morning and evening.
 From the depth of our hearts and with utmost righteousness, let us call
 out,
 
-<blockquote dir="rtl">
-  <p>
-اللهم عجِّل لوليك الفرج
-  </p>
-</blockquote>
+> اللهم عجِّل لوليك الفرج
 
 "O Allah! Hasten the reappearance of your Friend”
 
 Aameem!
-
 

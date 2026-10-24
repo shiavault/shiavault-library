@@ -1,21 +1,13 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ وَصَلَّى اللهُ عَلَيْكَ يَا
-وَلِيَّ الْعَصْرِ (عج) اَدْرِكْنَا
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ وَصَلَّى اللهُ عَلَيْكَ يَا
+> وَلِيَّ الْعَصْرِ (عج) اَدْرِكْنَا
 
 Amir al Mu’minin Ali Ibn Abi Talib (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-لَوْ يَعْلَمُ الْمُصَلِّيْ مَا يَغْشَاهُ مِنْ جَلاَلِ اللهِ، مَا
-سَرَّهُ أَنْ يَرْفَعَ رَأْسَهُ مِنْ سُجُوْدِهِ.
-  </p>
-</blockquote>
+> لَوْ يَعْلَمُ الْمُصَلِّيْ مَا يَغْشَاهُ مِنْ جَلاَلِ اللهِ، مَا
+> سَرَّهُ أَنْ يَرْفَعَ رَأْسَهُ مِنْ سُجُوْدِهِ.
 
 “Had the one who prays known how the majesty of Allah encompasses him,
 he would never have liked to raise his head from prostration.”[^1]
@@ -44,5 +36,4 @@ is worthy of acceptance in the service of our beloved master, Imam of
 the Time (May Allah hasten his re-appearence).
 
 [^1]: Khisal, vol. 2, p. 632.
-
 

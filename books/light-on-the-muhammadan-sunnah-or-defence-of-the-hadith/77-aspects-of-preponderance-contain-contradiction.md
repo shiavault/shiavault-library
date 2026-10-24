@@ -1,10 +1,6 @@
 Aspects of Preponderance Contain Contradiction:
 ===============================================
 
-  
-  
-  
-
 Al-Allamah al-Shaykh Jamal al-Din al-Qasimi, in his book Qawa’id
 al-tahdith, says:
 
@@ -55,10 +51,10 @@ former is more entitled to be correct.
 3. If one of them be in agreement with the acts of the Four Caliphs.
 
 4. The one that be more similar to the exterior of the Qur’an should be
-given priority. <span id="_anchor_771"></span>771
+given priority. 771
 
 In al-Qasimi’s book Tanbih al-talib ila ma’rifat al-fard wa al-wajib,
-<span id="_anchor_772"></span>772 there are regular rules, of which I
+772 there are regular rules, of which I
 state the following:
 
 1. It is concurred that the wujub (obligation) being one of the legal
@@ -103,7 +99,7 @@ permitted to do so since he has closed all the doors in front of him,
 loosening as much as he could of veil and cover. Al-Ghazali, in his book
 Faysal al-tafriqah, writes: It is more proper for the imitator to keep
 silent and to be left free (not to speak against him). That was the
-excerpt I quoted from this book. <span id="_anchor_773"></span>773
+excerpt I quoted from this book. 773
 
 771. Qawa'id al-tahdith, pp. 301, 304.
 

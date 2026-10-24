@@ -677,4 +677,3 @@ of Sham lest he should spoil the people against us!”[^1]
 The historians have mentioned many examples of such cases showing the
 Umayyad policy aiming at deadening awareness and spreading ignorance.
 
-

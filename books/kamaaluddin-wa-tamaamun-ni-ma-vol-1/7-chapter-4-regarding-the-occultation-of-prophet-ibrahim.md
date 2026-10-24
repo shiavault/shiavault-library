@@ -68,12 +68,8 @@ the Almighty Allah expressed his power through him. Then Ibrahim (a.s.)
 went into another occultation. It was at the time when the tyrant ruler
 had expelled him from Egypt. Thus he said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي
-عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا
-  </p>
-</blockquote>
+> وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي
+> عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا
 
 ***And I will withdraw from you and what you call on besides Allah, and
 I will call upon my Lord; may be I shall not remain unblessed in calling
@@ -81,13 +77,9 @@ upon my Lord.***[^1]
 
 Allah, the Mighty and Sublime said:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا
-لَهُ إِسْحَاقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا وَوَهَبْنَا
-لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا
-  </p>
-</blockquote>
+> فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا
+> لَهُ إِسْحَاقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا وَوَهَبْنَا
+> لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا
 
 ***So when he withdrew from them and what they worshipped besides Allah,
 We gave to him Ishaq and Yaqoob, and each one of them We made a prophet.
@@ -180,5 +172,4 @@ Shias right upto the day of Qiyamat.”
 [^1]: Surah Maryam 19:48
 
 [^2]: Surah Maryam 19:49-50
-
 

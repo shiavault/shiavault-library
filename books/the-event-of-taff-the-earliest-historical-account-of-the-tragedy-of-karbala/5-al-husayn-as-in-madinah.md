@@ -1098,4 +1098,3 @@ waiting, until the news of the people’s allegiance from different cities
 reached Madinah. Thereafter, he along with Ibn ‘Abbas came forth and
 paid allegiance.”
 
-

@@ -942,4 +942,3 @@ al-Husayn, Vol. 2, p. 72.
 
 [^48]: Al-Anwar al-Nu’mainiyya, p. 340.
 
-

@@ -11,7 +11,6 @@ womb of his mother which played a great and effective role on the
 child's future and life movement. The features of this stage are
 pinpointed as below:-
 
-
 **Firslty : Stage Before Intercourse**
 
 It has been socially and scientifically established in its detailed
@@ -171,7 +170,6 @@ woman by name Zulfa'i known to be related to the family of Areeqah and
 was very beautiful to get married to Jubair a Muslim who did not possess
 wealth or handsomeness except religion.
 
-
 **3- THE RELATION BEFORE PREGNANCY AND THE COMPOSITION OF THE
 CHILD.**
 
@@ -213,5 +211,4 @@ recommended to say:(O' Allah provide me with a male child and make pious
 and intelligence with out addition or subtraction and make his ending a
 better one ).The best recommended prayer in the first sexual relation is
 (In the name of Allah the beneficent the merciful)[^18].
-
 

@@ -102,7 +102,6 @@ al-Mahdi with Divine Authority) there is a goal towards which it
 proceeds, Once they will reach that goal they then will not be able to
 move it forwards or backwards even by one hour."
 
-
 **Chapter 83 : Refinement and Trial H 945, Ch. 83, h 1**
 
 Ali ibn Ibrahim has narrated from his father from al-Hassan ibn Mahbub
@@ -199,5 +198,4 @@ for will not take place before you despair,
 by Allah, what you are looking to will not take place before misfortune
 would strike those who become unfortunate and before the fortunate ones
 attain salvation."
-
 

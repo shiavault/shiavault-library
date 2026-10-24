@@ -1803,4 +1803,3 @@ Hajar and Tarikhul Khulafa, Allamah Suyuti
 
 [^53]: Surah Baqarah 2:257
 
-

@@ -4,17 +4,9 @@ Sermon 234: May my father and my mother shed their lives for you…
 *Spoken when Amir al-mu'minin was busy in the funeral ablution (ghusl)
 of the Holy Prophet and shrouding him*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-قاله وهو يلي غسل رسول الله (صلى الله عليه وآله) وتجهيزه
-  </p>
-</blockquote>
+> قاله وهو يلي غسل رسول الله (صلى الله عليه وآله) وتجهيزه
 
 May my father and my mother shed their lives for you. O Messenger of
 Allah! With your death the process of prophethood, revelation and
@@ -31,25 +23,17 @@ been too little of our grief for you. But this (death) is a matter that
 cannot be reversed nor is it possible to repulse it. May my father and
 my mother die for you; do remember us with Allah and take care of us.
 
-<blockquote dir="rtl">
-  <p>
-بِأَبِي أَنْتَ وأُمِّي، لَقَدِ انْقَطَعَ بِمَوْتِكَ مَا لَمْ
-يَنْقَطِعْ بِمَوْتِ غَيْرِكَ مِنَ النُّبُوَّةِ وَالاْنْبَاءِ
-وأَخْبَارِ السَّماءِ، خَصَصْتَ حَتَّى صِرْتَ مُسَلِّياً عَمَّنْ
-سِوَاكَ، وَعَمَمْتَ حَتّى صَارَ النَّاسُ فِيكَ سَواءً، وَلَوْ لاَ
-أَنَّكَ أَمَرْتَ بِالصَّبْرِ، وَنَهَيْتَ عَنِ الْجَزَعِ، لاَنْفَدْنَا
-عَلَيْكَ مَاءَ الشُّؤُونِ، وَلَكَانَ الدَّاءُ مُمَاطِلاً، وَالْكَمَدُ
-مُحَالِفاً، وَقَلاَّ لَكَ! وَلكِنَّهُ مَا لاَ يُمْلَكُ رَدُّهُ، وَلاَ
-يُسْتَطَاعُ دَفْعُهُ!
-  </p>
-</blockquote>
+> بِأَبِي أَنْتَ وأُمِّي، لَقَدِ انْقَطَعَ بِمَوْتِكَ مَا لَمْ
+> يَنْقَطِعْ بِمَوْتِ غَيْرِكَ مِنَ النُّبُوَّةِ وَالاْنْبَاءِ
+> وأَخْبَارِ السَّماءِ، خَصَصْتَ حَتَّى صِرْتَ مُسَلِّياً عَمَّنْ
+> سِوَاكَ، وَعَمَمْتَ حَتّى صَارَ النَّاسُ فِيكَ سَواءً، وَلَوْ لاَ
+> أَنَّكَ أَمَرْتَ بِالصَّبْرِ، وَنَهَيْتَ عَنِ الْجَزَعِ، لاَنْفَدْنَا
+> عَلَيْكَ مَاءَ الشُّؤُونِ، وَلَكَانَ الدَّاءُ مُمَاطِلاً، وَالْكَمَدُ
+> مُحَالِفاً، وَقَلاَّ لَكَ! وَلكِنَّهُ مَا لاَ يُمْلَكُ رَدُّهُ، وَلاَ
+> يُسْتَطَاعُ دَفْعُهُ!
 
-<blockquote dir="rtl">
-  <p>
-بِأَبِي أَنْتَ وَأُمّي! اذْكُرْنَا عِنْدَ رَبِّكَ، وَاجْعَلْنَا مِنْ
-بَالِكَ!
-  </p>
-</blockquote>
+> بِأَبِي أَنْتَ وَأُمّي! اذْكُرْنَا عِنْدَ رَبِّكَ، وَاجْعَلْنَا مِنْ
+> بَالِكَ!
 
 Alternative Sources for Sermon 234
 ----------------------------------
@@ -69,5 +53,4 @@ Alternative Sources for Sermon 234
 (7) Abu Ishaq Ibrahim ibn al-Sari ibn Sahl al-Nahwi, *al-'Amali;*
 
 For (3) & (4) see \`Abd al-Zahra', III, 182.
-
 

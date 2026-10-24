@@ -63,4 +63,3 @@ he was doing it purposely.
 unknown. The author of*Mizan* places this tradition among unknown
 traditions reported by Mukhtar.[^73]
 
-

@@ -82,12 +82,8 @@ head and remember Allah (SwT).[^11]
 seek protection from Allah against the cursed Shaitan and when you have
 finished (relieving yourself) say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ عَلـى مَا أَخْرَجَ مِنِّي مِنَ الأَذى فِي يُسْرٍ وَ
-عَافِيةٍ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ عَلـى مَا أَخْرَجَ مِنِّي مِنَ الأَذى فِي يُسْرٍ وَ
+> عَافِيةٍ.
 
 *“All praise be to Allah for what he has removed from me of that which
 is harmful (to my body) with ease and well-being.”*[^12]
@@ -157,5 +153,4 @@ al-Ma’arif: 261, Da\`aim al-Islam 1:104
 261
 
 [^19]: Da\`aim al-Islam 1:104
-
 

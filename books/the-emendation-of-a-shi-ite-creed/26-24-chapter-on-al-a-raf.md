@@ -68,4 +68,3 @@ deferred. Beyond this Allah knows best what will be.
 [^1]: See al-Kulayni, al-Kafi, vol.l, p.218, Tradition nos.l & 2. Also,
 al-Mufid,al-Ikhtisas, p.303.
 
-

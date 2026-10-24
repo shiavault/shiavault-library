@@ -197,10 +197,8 @@ disobedience of the orders and commands of Allah (SWT).
 
 This is exactly what Allah (SWT) mentioned in the Qur’an Al-Kareem,
 
-<p dir="rtl">
 بَلْ عِبَادٌ مُكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ
 يَعْمَلُونَ.
-</p>
 
 **"Bal ‘ebadun mukramoom. La yasbeqoonaho bil qawl wa hom bi amrihi
 ya'maloon."**
@@ -223,9 +221,7 @@ forgetfulness. Forgetfulness here means forgetting the contents of the
 Message and its details, notthe normal human forgetfulness that is
 indicated in Prophet Musa's statement to Al-Khidr (AS):
 
-<p dir="rtl">
 قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ
-</p>
 
 **"Qalla la to-akhedhni bema naseet."**
 
@@ -308,5 +304,4 @@ the case so long as they are appointed in their roles in order for their
 performance of their responsibilities be complete and successful. After
 all, the fate of humans in this life and the Hereafter will depend on
 their performance and fulfillment of their roles and responsibilities.
-
 

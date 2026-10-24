@@ -233,4 +233,3 @@ pp. 292-295.
 
 [^5]: Seerah-i Ibn Hisham, vol II, page 264
 
-

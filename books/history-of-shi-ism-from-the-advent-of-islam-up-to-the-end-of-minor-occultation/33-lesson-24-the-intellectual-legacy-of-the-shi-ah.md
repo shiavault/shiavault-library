@@ -355,4 +355,3 @@ al-Huda (Qum: Mu’assasah Al al-Bayt Li Ihya’ at-Turath, 1417 AH), vol.
 
 [^30]: Ma‘alim al-‘Ulama’, p. 40.
 
-

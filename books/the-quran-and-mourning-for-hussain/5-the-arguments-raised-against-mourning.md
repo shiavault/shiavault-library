@@ -31,4 +31,3 @@ sights, that is why He had already provided answers. Therefore in His
 Book, the Noble Quran, He had already presented arguments and examples
 of mourning being a legitimate act.
 
-

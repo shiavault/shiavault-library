@@ -77,7 +77,6 @@ which it should be spent, in a special chapter. Most of the points he
 discussed are in perfect consonance with Shi'a beliefs (vide pages
 303-349).
 
-
 **5. Hajj**
 
 According to the Shi'a faith, 'hajj' (the pilgrimage to Makkah) is one
@@ -136,5 +135,4 @@ move their steps forward. Moreover they often performed hajj at enormous
 expense. It is regretful that, in spite of this obvious obedience to
 God's orders, it is still said that the Shi'as seek the destruction of
 Islam!
-
 

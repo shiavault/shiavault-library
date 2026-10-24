@@ -48,7 +48,6 @@ and the 11 Imams of his offspring]. translator.
 
 4. Surat Sad/29
 
-
 5. Surat Muhammad/24 6. [(S.A.) stands for sallallahu 'alayhi wa alihi
 wasallam = May Allah's peace and blessings be upon him and his progeny)]
 translator.
@@ -82,7 +81,6 @@ among his other ones, was true of the Ma'sum Imams (A.S.) as well.
 
 12. It is possible that we can find such a connection in the Qur'an,
 but not at the first glance.
-
 
 13. Suratul-Ra'd/ 17 14. "Usulul-Kafi", vol. 1, the Book of "He (the
 Almighty) cannot be recognized except through His own self."
@@ -555,5 +553,4 @@ up a surah, you are to remember this.
 223. "Nahjul Balaghah", maxim No. 287.
 
 224. Suratul Hadid/22-23
-
 

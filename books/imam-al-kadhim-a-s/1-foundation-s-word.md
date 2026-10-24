@@ -249,4 +249,3 @@ and make the dream of the prophets (a.s.) of a state in which justice
 prevails, a reality, and raise the banner of monotheism over all parts
 of the world.
 
-

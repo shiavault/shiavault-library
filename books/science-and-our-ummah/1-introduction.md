@@ -151,4 +151,3 @@ obligatory (wajib \`ayni) for all to learn should apply identically in
 case of every individual and what is obligatory for one individual be
 regarded as being equally obligatory for another.
 
-

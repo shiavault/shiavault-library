@@ -101,4 +101,3 @@ The fact that the chains of spiritual initiation (*silsilah*) of
 practically all of the Sufi orders in Islam reach back to Ali further
 corroborates this point.
 
-

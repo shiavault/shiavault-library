@@ -10,12 +10,8 @@ Since consultation has a significant effect in resolving problems, the
 Holy Quran orders the Prophet (S) to consult with others in finding
 solutions:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ شاوِرْهُمْ فِي الأَْمْرِ فَإِذا عَزَمْتَ فَتَوَكَّلْ عَلَى
-اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ﴾
-  </p>
-</blockquote>
+> ﴿ وَ شاوِرْهُمْ فِي الأَْمْرِ فَإِذا عَزَمْتَ فَتَوَكَّلْ عَلَى
+> اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ﴾
 
 ***“And make counsel with them in the affair; so when you have decided,
 then place your trust in Allah; surely Allah loves those who
@@ -24,12 +20,8 @@ trust”***[^1]
 In another verse, God describes the religious and faithful people in the
 following manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ الَّذِينَ اسْتَجابُوا لِرَبِّهِمْ وَ أَقامُوا الصَّلاةَ وَ
-أَمْرُهُمْ شُورى بَيْنَهُمْ وَ مِمَّا رَزَقْناهُمْ يُنْفِقُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَ الَّذِينَ اسْتَجابُوا لِرَبِّهِمْ وَ أَقامُوا الصَّلاةَ وَ
+> أَمْرُهُمْ شُورى بَيْنَهُمْ وَ مِمَّا رَزَقْناهُمْ يُنْفِقُونَ﴾
 
 ***“And those who respond to their Lord, keep up prayer, who consult
 among themselves, and who give out (to the poor) part of what we have
@@ -73,11 +65,7 @@ views and adopt the best view, or else such sessions would be fruitless.
 Incidentally, in the first verse which was revealed onto the Prophet on
 the issue of consultation, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّه ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّه ﴾
 
 ***“As soon as you have decided, rely on Allah”.***
 
@@ -127,11 +115,7 @@ For this very reason when al-Habbab ibn al-Mundhir came to meet the
 Prophet to get permission to change the location of the army
 headquarters, he told the Prophet
 
-<blockquote dir="rtl">
-  <p>
-“إِن كان عن أمر سلمنا و إن كان عن الرأي فالتأخرُ عن حصنهم”
-  </p>
-</blockquote>
+> “إِن كان عن أمر سلمنا و إن كان عن الرأي فالتأخرُ عن حصنهم”
 
 “If concerning this there is a special divine command we have nothing to
 say but if it is among the issues, where consultation is required, we
@@ -162,13 +146,9 @@ Hence, in the following verse, the Holy Quran severely condemns those
 who interfere with God's commands in appointing certain tasks for
 people:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ما كانَ لِمُؤْمِنٍ وَ لا مُؤْمِنَةٍ إِذا قَضَى اللَّهُ وَ
-رَسُولُهُ أَمْراً أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ وَ
-مَنْ يَعْصِ اللَّهَ وَ رَسُولَهُ فَقَدْ ضَلَّ ضَلالاً بَعِيداً ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ما كانَ لِمُؤْمِنٍ وَ لا مُؤْمِنَةٍ إِذا قَضَى اللَّهُ وَ
+> رَسُولُهُ أَمْراً أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ وَ
+> مَنْ يَعْصِ اللَّهَ وَ رَسُولَهُ فَقَدْ ضَلَّ ضَلالاً بَعِيداً ﴾
 
 ***“And it beholds, not a believing man nor a believing woman, that they
 should have any*** ***choice when Allah and his Apostle have decided a
@@ -192,5 +172,4 @@ a manifest straying”***[^9]
 [^8]: . Maghazi Waqedi, vol. 3, p. 925.
 
 [^9]: . Quran 33:36.
-
 

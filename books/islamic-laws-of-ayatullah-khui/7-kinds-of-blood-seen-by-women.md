@@ -1103,4 +1103,3 @@ as regards the blood which comes thereafter if it has the signs of
 menses or comes during the time of her habit, it is menses, but
 otherwise that, too, is istihaza.
 
-

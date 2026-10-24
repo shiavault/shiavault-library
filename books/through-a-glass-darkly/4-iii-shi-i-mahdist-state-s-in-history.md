@@ -81,4 +81,3 @@ was expected to bring about had been postponed to the end of time…" And
 in fact in 1171 the Fatimid Imamate was extinguished by a Sunni leader,
 Salah al-Din.
 
-

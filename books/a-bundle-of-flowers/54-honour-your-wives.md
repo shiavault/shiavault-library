@@ -45,4 +45,3 @@ restricts his household."
 
 Nur-ul-Absar Shablanjy
 
-

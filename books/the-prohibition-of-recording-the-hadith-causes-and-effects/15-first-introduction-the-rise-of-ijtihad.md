@@ -1254,4 +1254,3 @@ al-Muhtaj 1:602; al-Tuhfah al-Latifah fi Tarikh al-Madinah al-Sharifah
 [^56]: Sahih al-Bukhariy 4:1551 H. 4004; Sahih Muslim 4:1884 H. 2426;
 Musnad Ahmad ibn Hanbal 2:20 H. 4701.
 
-

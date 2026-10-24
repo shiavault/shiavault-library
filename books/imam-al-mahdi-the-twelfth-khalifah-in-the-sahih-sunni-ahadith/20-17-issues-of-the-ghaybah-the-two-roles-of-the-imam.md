@@ -13,12 +13,8 @@ very moment?
 To address these questions, we will start first with the roles of the
 Imams sent by Allah to mankind. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين وجعلناهم أئمة يهدون
-بأمرنا
-  </p>
-</blockquote>
+> ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين وجعلناهم أئمة يهدون
+> بأمرنا
 
 And We bestowed upon him (i.e. Ibrahim) Ishaq and Ya’qub. Each one We
 made righteous. **And We appointed them Imams, GUIDING BY OUR
@@ -26,12 +22,8 @@ COMMAND**.[^1]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ولقد آتينا موسى الكتاب فلا تكن في مرية من لقائه وجعلناه هدى لبني
-إسرائيل وجعلنا منهم أئمة يهدون بأمرنا لما صبروا وكانوا بآياتنا يوقنون
-  </p>
-</blockquote>
+> ولقد آتينا موسى الكتاب فلا تكن في مرية من لقائه وجعلناه هدى لبني
+> إسرائيل وجعلنا منهم أئمة يهدون بأمرنا لما صبروا وكانوا بآياتنا يوقنون
 
 And indeed We gave Musa the Book. So be not you in doubt of meeting him.
 And We made it a guide to the Children of Israel. **And We appointed
@@ -55,16 +47,12 @@ Command of Allah.
 The second type of role is spelt out in this *hadith* of Shaykh al-Saduq
 (d. 381 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن عبد الله الوراق قال: حدثنا سعد بن عبد الله، عن أحمد ابن
-إسحاق بن سعد الأشعري قال: دخلت على أبي محمد الحسن بن علي عليهما السلام
-وأنا أريد أن أسأله عن الخلف] من [بعده، فقال لي مبتدئا: يا أحمد بن
-إسحاق إن الله تبارك وتعالى لم يخل الأرض منذ خلق آدم عليه السلام ولا
-يخليها إلى أن تقوم الساعة من حجة لله على خلقه، به يدفع البلاء عن أهل
-الأرض، وبه ينزل الغيث، وبه يخرج بركات الأرض.
-  </p>
-</blockquote>
+> حدثنا علي بن عبد الله الوراق قال: حدثنا سعد بن عبد الله، عن أحمد ابن
+> إسحاق بن سعد الأشعري قال: دخلت على أبي محمد الحسن بن علي عليهما السلام
+> وأنا أريد أن أسأله عن الخلف] من [بعده، فقال لي مبتدئا: يا أحمد بن
+> إسحاق إن الله تبارك وتعالى لم يخل الأرض منذ خلق آدم عليه السلام ولا
+> يخليها إلى أن تقوم الساعة من حجة لله على خلقه، به يدفع البلاء عن أهل
+> الأرض، وبه ينزل الغيث، وبه يخرج بركات الأرض.
 
 ‘Ali b. ‘Abd Allah al-Warraq – Sa’d b. ‘Abd Allah – Ahmad b. Ishaq b.
 Sa’d al-Ash’ari:
@@ -80,27 +68,19 @@ descends; and through him, the blessings of the earth come out**.”[^3]
 
 Al-Haj Muhammad Zakariya says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده معتبر
-  </p>
-</blockquote>
+> إسناده معتبر
 
 Its chain is reliable.[^4]
 
 ‘Allamah al-Majlisi (d. 1111 H) also copies:
 
-<blockquote dir="rtl">
-  <p>
-التوحيد، معاني الأخبار: أبي عن سعد عن ابن عيسى عن الحسين بن سعيد عن
-فضالة عن أبان عن محمد بن مسلم قال: سمعت أبا عبد الله عليه السلام يقول:
-إن لله عز وجل خلقا خلقهم من نوره ورحمته لرحمته، فهم عين الله الناظرة،
-واذنه السامعة، ولسانه الناطق في خلقه بإذنه، وامناؤه على ما أنزل من عذر
-أو نذر أو حجة، فبهم يمحو الله السيئات وبهم يدفع الضيم. وبهم ينزل
-الرحمة، وبهم يحيي ميتا ويميت حيا وبهم يبتلي خلقه. وبهم يقضي في خلقه
-قضية قلت: جعلت فداك من هؤلاء؟ قال: الأوصياء
-  </p>
-</blockquote>
+> التوحيد، معاني الأخبار: أبي عن سعد عن ابن عيسى عن الحسين بن سعيد عن
+> فضالة عن أبان عن محمد بن مسلم قال: سمعت أبا عبد الله عليه السلام يقول:
+> إن لله عز وجل خلقا خلقهم من نوره ورحمته لرحمته، فهم عين الله الناظرة،
+> واذنه السامعة، ولسانه الناطق في خلقه بإذنه، وامناؤه على ما أنزل من عذر
+> أو نذر أو حجة، فبهم يمحو الله السيئات وبهم يدفع الضيم. وبهم ينزل
+> الرحمة، وبهم يحيي ميتا ويميت حيا وبهم يبتلي خلقه. وبهم يقضي في خلقه
+> قضية قلت: جعلت فداك من هؤلاء؟ قال: الأوصياء
 
 *Al-Tawhid*, *Ma’ani al-Akhbar*: My father – Sa’d – Ibn ‘Isa – al-Husayn
 b. Sa’id – Fudhalah – Aban – Muhammad b. Muslim:
@@ -133,21 +113,13 @@ feel “appalled” at some of these more advanced roles of the *awsiya*.
 They may fear that such descriptions border on *shirk* (idolatry).
 Hasn’t Allah said:
 
-<blockquote dir="rtl">
-  <p>
-يدبر الأمر من السماء إلى الأرض
-  </p>
-</blockquote>
+> يدبر الأمر من السماء إلى الأرض
 
 He (Allah) controls the affairs from the heavens to the earth.[^7]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أهم يقسمون رحمت ربك نحن قسمنا بينهم معيشتهم في الحياة الدنيا
-  </p>
-</blockquote>
+> أهم يقسمون رحمت ربك نحن قسمنا بينهم معيشتهم في الحياة الدنيا
 
 Is it they who distribute the mercy of your Lord? We distribute among
 them their livelihood in the life of this world.[^8]
@@ -164,23 +136,15 @@ the *khalifah* are in essence those of Allah.
 The Qur’an too has confirmed that our Lord controls our affairs and
 distributes His mercy among us *through* some intermediaries:
 
-<blockquote dir="rtl">
-  <p>
-فالمدبرات أمرا
-  </p>
-</blockquote>
+> فالمدبرات أمرا
 
 And (I swear by) **THOSE WHO CONTROL** by Command.[^10]
 
 Al-Hafiz Ibn Kathir (d. 774 H) has this to say under the *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-وقوله : {فالمدبرات أمرا} قال علي ، ومجاهد ، وعطاء ، وأبو صالح ، والحسن
-، وقتادة ، والربيع بن أنس ، والسدي : هي الملائكة - زاد الحسن : تدبر
-الأمر من السماء إلى الأرض. يعني : بأمر ربها عز وجل. ولم يختلفوا في هذا
-  </p>
-</blockquote>
+> وقوله : {فالمدبرات أمرا} قال علي ، ومجاهد ، وعطاء ، وأبو صالح ، والحسن
+> ، وقتادة ، والربيع بن أنس ، والسدي : هي الملائكة - زاد الحسن : تدبر
+> الأمر من السماء إلى الأرض. يعني : بأمر ربها عز وجل. ولم يختلفوا في هذا
 
 His Statement:{And [I swear by] those who control by Command} ‘Ali,
 Mujahid, ‘Aṭa, Abu Salih, al-Hasan, Qatadah. Al-Rabi’ b. Anas, and
@@ -191,13 +155,9 @@ disagree on this.[^11]
 
 Imam Ibn al-Qayyim (d. 751 H) also submits:
 
-<blockquote dir="rtl">
-  <p>
-والمقصود : أن الله سبحانه وكل بالعالم العلوي والسفلي ملائكة فهي تدبر
-أمر العالم بإذنه ومشيئته وأمره فلهذا يضيف التدبير إلى الملائكة تارة
-لكونهم هم المباشرين للتدبير كقوله} فالمدبرات أمرا{
-  </p>
-</blockquote>
+> والمقصود : أن الله سبحانه وكل بالعالم العلوي والسفلي ملائكة فهي تدبر
+> أمر العالم بإذنه ومشيئته وأمره فلهذا يضيف التدبير إلى الملائكة تارة
+> لكونهم هم المباشرين للتدبير كقوله} فالمدبرات أمرا{
 
 The meaning is: that Allah, Glorified be He, has put angels in charge of
 the world, the highest and the lowest. **So, they control the affairs of
@@ -212,22 +172,14 @@ are based strictly upon His Orders.
 
 We also read this verse:
 
-<blockquote dir="rtl">
-  <p>
-فالمقسمات أمرا
-  </p>
-</blockquote>
+> فالمقسمات أمرا
 
 And (I swear by) **THOSE WHO DISTRIBUTE** by Command.[^13]
 
 The two Jalals say:
 
-<blockquote dir="rtl">
-  <p>
-{ فالمقسمات أمرا } الملائكة تقسم الأرزاق والأمطار وغيرها بين البلاد
-والعباد
-  </p>
-</blockquote>
+> { فالمقسمات أمرا } الملائكة تقسم الأرزاق والأمطار وغيرها بين البلاد
+> والعباد
 
 {And [I swear by] those who distribute by Command} **the angels who
 distribute the provisions, the rains and others** among the towns and
@@ -236,12 +188,8 @@ creatures.[^14]
 A prominent Salafi authority, Shaykh Abu Bakr al-Jazairi, has the same
 exegesis:
 
-<blockquote dir="rtl">
-  <p>
-فالمقسمات أمرا :أي الملائكة تقسم بأمر ربها الأرزاق والأمطار وغيرها بين
-العباد.
-  </p>
-</blockquote>
+> فالمقسمات أمرا :أي الملائكة تقسم بأمر ربها الأرزاق والأمطار وغيرها بين
+> العباد.
 
 {And [I swear by] those who distribute by Command}: **that is the
 angels. They distribute the provisions, the rains, and others** among
@@ -257,27 +205,19 @@ It must be added that the angels are responsible for the creation of
 humans too, as well as some other related functions. Imam Muslim (d. 261
 H) is one of those Sunni authorities with the relevant *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-حدثني أبو الطاهر أحمد بن عمرو بن سرح أخبرنا ابن وهب أخبرني عمرو بن
-الحارث عن أبي الزبير المكي أن عامر بن واثلة حدثه أنه سمع عبدالله بن
-مسعود يقول
-  </p>
-</blockquote>
+> حدثني أبو الطاهر أحمد بن عمرو بن سرح أخبرنا ابن وهب أخبرني عمرو بن
+> الحارث عن أبي الزبير المكي أن عامر بن واثلة حدثه أنه سمع عبدالله بن
+> مسعود يقول
 
-<blockquote dir="rtl">
-  <p>
-الشقي من شقي في بطن أمه والسعيد من وعظ بغيره فأتى رجلا من أصحاب رسول
-الله صلى الله عليه و سلم يقال له حذيفة بن أسيد الغفاري فحدثه بذلك من
-قول ابن مسعود فقال وكيف يشقى رجل بغير عمل فقال له الرجل أتعجب من ذلك ؟
-فإني سمعت رسول الله صلى الله عليه و سلم يقول إذا مر بالنطفة ثنتان
-وأربعون ليلة بعث الله إليها ملكا فصورها وخلق سمعها وبصرها وجلدها
-ولحمها وعظامها ثم قال يا رب أذكر أم أنثى ؟ فيقضي ربك ما شاء ويكتب
-الملك ثم يقول يا رب أجله فيقول ربك ما شاء ويكتب الملك ثم يقول يا رب
-رزقه فيقضي ربك ما شاء ويكتب الملك ثم يخرج الملك بالصحيفة في يده فلا
-يزيد على ما أمر ولا ينقص
-  </p>
-</blockquote>
+> الشقي من شقي في بطن أمه والسعيد من وعظ بغيره فأتى رجلا من أصحاب رسول
+> الله صلى الله عليه و سلم يقال له حذيفة بن أسيد الغفاري فحدثه بذلك من
+> قول ابن مسعود فقال وكيف يشقى رجل بغير عمل فقال له الرجل أتعجب من ذلك ؟
+> فإني سمعت رسول الله صلى الله عليه و سلم يقول إذا مر بالنطفة ثنتان
+> وأربعون ليلة بعث الله إليها ملكا فصورها وخلق سمعها وبصرها وجلدها
+> ولحمها وعظامها ثم قال يا رب أذكر أم أنثى ؟ فيقضي ربك ما شاء ويكتب
+> الملك ثم يقول يا رب أجله فيقول ربك ما شاء ويكتب الملك ثم يقول يا رب
+> رزقه فيقضي ربك ما شاء ويكتب الملك ثم يخرج الملك بالصحيفة في يده فلا
+> يزيد على ما أمر ولا ينقص
 
 Abu al-Tahir Ahmad b. ‘Amr b. Sarh – Ibn Wahb – ‘Amr b. al-Harith – Abu
 al-Zubayr al-Makki – ‘Amir b. Wathilah:
@@ -303,15 +243,11 @@ it.’”[^16]
 
 He equally has one more *hadith* in stock:
 
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن أحمد بن أبي خلف حدثنا يحيى بن أبي بكير حدثنا زهير أبو
-خيثمة حدثني عبدالله بن عطاء أن عكرمة بن خالد حدثه أن أبا الطفيل حدثه
-قال دخلت على أبي سريحة حذيفة بن أسيد الغفاري فقال سمعت رسول الله صلى
-الله عليه و سلم بأذني هاتين يقول إن النطفة تقع في الرحم أربعين ليلة ثم
-يتصور عليها الملك
-  </p>
-</blockquote>
+> حدثني محمد بن أحمد بن أبي خلف حدثنا يحيى بن أبي بكير حدثنا زهير أبو
+> خيثمة حدثني عبدالله بن عطاء أن عكرمة بن خالد حدثه أن أبا الطفيل حدثه
+> قال دخلت على أبي سريحة حذيفة بن أسيد الغفاري فقال سمعت رسول الله صلى
+> الله عليه و سلم بأذني هاتين يقول إن النطفة تقع في الرحم أربعين ليلة ثم
+> يتصور عليها الملك
 
 Muhammad b. Ahmad b. Abi Khalaf – Yahya b. Abi Bukayr – Zuhayr Abu
 Khaythamah – ‘Abd Allah b. ‘Aṭa – ‘Ikrimah b. Khalid – Abu al-Tufayl:
@@ -325,17 +261,13 @@ There is this *hadith* of Imam Muslim as well, which seems to contradict
 the above two in some fundamental ways, especially on the question of
 what happens immediately after forty days of fertilization:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا أبو معاوية ووكيع ح وحدثنا محمد بن
-عبدالله بن نمير الهمداني ( واللفظ له ) حدثنا أبي وأبو معاوية ووكيع
-قالوا حدثنا الأعمش عن زيد بن وهب عن عبدالله قال حدثنا رسول الله صلى
-الله عليه و سلم وهو الصادق المصدوق إن أحدكم يجمع خلقه في بطن أمه
-أربعين يوما ثم يكون في ذلك علقة مثل ذلك ثم يكون في ذلك مضغة مثل ذلك ثم
-يرسل الملك فينفخ فيه الروح ويؤمر بأربع كلمات بكتب رزقه وأجله وعمله
-وشقي أو سعيد
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا أبو معاوية ووكيع ح وحدثنا محمد بن
+> عبدالله بن نمير الهمداني ( واللفظ له ) حدثنا أبي وأبو معاوية ووكيع
+> قالوا حدثنا الأعمش عن زيد بن وهب عن عبدالله قال حدثنا رسول الله صلى
+> الله عليه و سلم وهو الصادق المصدوق إن أحدكم يجمع خلقه في بطن أمه
+> أربعين يوما ثم يكون في ذلك علقة مثل ذلك ثم يكون في ذلك مضغة مثل ذلك ثم
+> يرسل الملك فينفخ فيه الروح ويؤمر بأربع كلمات بكتب رزقه وأجله وعمله
+> وشقي أو سعيد
 
 Abu Bakr b. Abi Shaybah – Abu Mu’awiyah and Waki’: Muhammad b. ‘Abd
 Allah b. Numayr al-Hamdani – my father – Abu Mu’awiyah and Waki’ –
@@ -366,39 +298,23 @@ functions - by Command. ‘Allamah al-‘Azim Abadi (d. 1329 H), the
 commentator of *Sunan Abu Dawud*, has this important submission
 concerning that:
 
-<blockquote dir="rtl">
-  <p>
-فمنها ما رواه أحمد في مسنده عن عبادة بن الصامت مرفوعا الأبدال في هذه
-الأمة ثلاثون رجلا قلوبهم على قلب إبراهيم خليل الرحمن كلما مات رجل أبدل
-الله مكانه رجلا أورده السيوطي في الجامع الصغير، وقال العزيزي والمناوي
-في شرحه بإسناد صحيح
-  </p>
-</blockquote>
+> فمنها ما رواه أحمد في مسنده عن عبادة بن الصامت مرفوعا الأبدال في هذه
+> الأمة ثلاثون رجلا قلوبهم على قلب إبراهيم خليل الرحمن كلما مات رجل أبدل
+> الله مكانه رجلا أورده السيوطي في الجامع الصغير، وقال العزيزي والمناوي
+> في شرحه بإسناد صحيح
 
-<blockquote dir="rtl">
-  <p>
-ومنها ما رواه عبادة بن الصامت " الأبدال في أمتي ثلاثون بهم تقوم الأرض
-وبهم تمطرون وبهم تنصرون" رواه الطبراني في الكبير أورده السيوطي في
-الكتاب المذكور وقال العزيزي والمناوي بإسناد صحيح
-  </p>
-</blockquote>
+> ومنها ما رواه عبادة بن الصامت " الأبدال في أمتي ثلاثون بهم تقوم الأرض
+> وبهم تمطرون وبهم تنصرون" رواه الطبراني في الكبير أورده السيوطي في
+> الكتاب المذكور وقال العزيزي والمناوي بإسناد صحيح
 
-<blockquote dir="rtl">
-  <p>
-ومنها ما رواه عوف بن مالك " الأبدال في أهل الشام وبهم ينصرون وبهم
-يرزقون" أخرجه الطبراني في الكبير أورده السيوطي في الكتاب المذكور قال
-العزيزي والمناوي إسناده حسن
-  </p>
-</blockquote>
+> ومنها ما رواه عوف بن مالك " الأبدال في أهل الشام وبهم ينصرون وبهم
+> يرزقون" أخرجه الطبراني في الكبير أورده السيوطي في الكتاب المذكور قال
+> العزيزي والمناوي إسناده حسن
 
-<blockquote dir="rtl">
-  <p>
-ومنها ما رواه علي رضي الله عنه " الأبدال بالشام وهم أربعون رجلا كلما
-مات رجل أبدل الله مكانه رجلا يسقى بهم الغيث وينتصر بهم على الأعداء
-ويصرف عن أهل الشام بهم العذاب " أخرجه أحمد وقال العزيزي والمناوي
-بإسناد حسن
-  </p>
-</blockquote>
+> ومنها ما رواه علي رضي الله عنه " الأبدال بالشام وهم أربعون رجلا كلما
+> مات رجل أبدل الله مكانه رجلا يسقى بهم الغيث وينتصر بهم على الأعداء
+> ويصرف عن أهل الشام بهم العذاب " أخرجه أحمد وقال العزيزي والمناوي
+> بإسناد حسن
 
 Among them are what Ahmad recorded in his *Musnad* from ‘Ubadah b.
 al-Samit from the Prophet: “**The** ***abdal*** **in this** ***Ummah***
@@ -434,19 +350,11 @@ The truth is: *ahadith* about these *abdal* are actually *mutawatir*
 al-Kattani (d. 1345 H) has included them in his book on *mutawatir*
 reports, saying:
 
-<blockquote dir="rtl">
-  <p>
-)٢٧٩ (وجود الأبدال
-  </p>
-</blockquote>
+> )٢٧٩ (وجود الأبدال
 
-<blockquote dir="rtl">
-  <p>
-له طرق عن) ١ (أنس بألفاظ مختلفة كلها ضعيفة وورد أيضا عن) ٢ (عبادة بن
-الصامت) ٣ (وابن عمر) ٤ (وابن مسعود) ٥ (وأبي سعيد) ٦ (وعلي) ٧ (وعوف بن
-مالك ) ٨ (وأبي هريرة) ٩ (ومعاذ بن جبل وغيرهم
-  </p>
-</blockquote>
+> له طرق عن) ١ (أنس بألفاظ مختلفة كلها ضعيفة وورد أيضا عن) ٢ (عبادة بن
+> الصامت) ٣ (وابن عمر) ٤ (وابن مسعود) ٥ (وأبي سعيد) ٦ (وعلي) ٧ (وعوف بن
+> مالك ) ٨ (وأبي هريرة) ٩ (ومعاذ بن جبل وغيرهم
 
 (279) The Existence of *Abdal*
 
@@ -457,12 +365,8 @@ Ibn ‘Umar, (4) Ibn Mas’ud, (5) Abu Sa’id, (6) ‘Ali, (7) ‘Awf b. Malik,
 
 Then he adds:
 
-<blockquote dir="rtl">
-  <p>
-وقد زعم ابن الجوزي أن أحاديث الأبدال كلها موضوعة ونازعه السيوطي وقال
-خبر الأبدال صحيح وإن شئت قلت متواتر
-  </p>
-</blockquote>
+> وقد زعم ابن الجوزي أن أحاديث الأبدال كلها موضوعة ونازعه السيوطي وقال
+> خبر الأبدال صحيح وإن شئت قلت متواتر
 
 Ibn al-Jawzi claimed that all the *ahadith* on *abdal* are fabrications.
 But, al-Suyuṭi contended with him, and said, “**The report on the**
@@ -554,5 +458,4 @@ al-Mutanathir min al-Hadith al-Mutawatir (Egypt: Dar al-Kutub
 al-Salafiyyah; 2nd edition), p. 220, \# 279
 
 [^21]: Ibid
-
 

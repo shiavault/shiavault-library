@@ -17,11 +17,7 @@ faith, and hopes for divine reward so he does good deeds.
 himself [that urges him] to obey Allah.
 
 > 3ـ إنَّ أسْعَدَ النَّاسِ مَنْ كانَ لَهُ مِنْ نَفْسِهِ بِطاعَةِ اللّهِ
-<blockquote dir="rtl">
-  <p>
-مُتَقاض.
-  </p>
-</blockquote>
+> مُتَقاض.
 
 4. Felicitous is one who makes his obedience [and worship] sincere.
 
@@ -37,10 +33,5 @@ safeguards himself, and hopes for divine reward so he does good, and
 longs for Paradise so he wakes up [to worship] in the night.
 
 > 6ـ إنَّما السَّعيدُ مَنْ خافَ العِقابَ فَأَمِنَ، ورَجا الثَّوابَ
-<blockquote dir="rtl">
-  <p>
-فَاحْسَنَ،وَ اشْتاقَ إلَى الجَنَّةِ فَادَّلَجَ.
-  </p>
-</blockquote>
-
+> فَاحْسَنَ،وَ اشْتاقَ إلَى الجَنَّةِ فَادَّلَجَ.
 

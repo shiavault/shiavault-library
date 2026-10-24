@@ -47,4 +47,3 @@ Economics,* Leicester, UK: The Islamic Foundation
 
 16- The Noble Qur’an
 
-

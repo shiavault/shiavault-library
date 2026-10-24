@@ -231,4 +231,3 @@ admitted to Heaven directly.”
 
 [^11]: Iddat’ud-Dai
 
-

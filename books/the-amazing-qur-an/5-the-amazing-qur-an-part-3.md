@@ -138,4 +138,3 @@ if and when he wrote a book. For indeed, the Qur'an states (Surah
 an-Nisa 4:82): "Do they not consider the Qur'an? Had it been from other
 than Allah, they would surely have found therein much discrepancy."
 
-

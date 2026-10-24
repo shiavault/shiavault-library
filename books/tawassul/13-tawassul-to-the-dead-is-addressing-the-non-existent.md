@@ -85,4 +85,3 @@ consciousness and in their ascendant journey are free of the limits of
 time and space. They penetrate with ease the skies and the depths of the
 oceans to observe the grandeur of God's creation.
 
-

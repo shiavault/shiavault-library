@@ -8,11 +8,7 @@ messenger, his soul shall be safe and sound [from the torments of the
 Hereafter] and his transaction will be profitable and gainful.
 
 > 1ـ إنَّ مَنْ بَذَلَ نَفْسَهُ في طاعَةِ اللّهِ ورَسُولِِهِ كانَتْ
-<blockquote dir="rtl">
-  <p>
-نَفْسُهُ ناجِيَةً سالِمَةً، وَصَفْقَتُهُ رابِحَةً غانِمَةً.
-  </p>
-</blockquote>
+> نَفْسُهُ ناجِيَةً سالِمَةً، وَصَفْقَتُهُ رابِحَةً غانِمَةً.
 
 2. The first thing which you overcome through *Jihād* is through
 striving with your hands, then [if this is not possible] by your tongue,
@@ -21,13 +17,9 @@ supports good with his heart nor censures evil, is turned upside down
 (i.e. will face the wrath of Allah).
 
 > 2ـ إنَّ أوَّلَ ما تُغْلَبُونَ عَلَيهِ مِنَ الجِهادِ، جِهادٌ
-<blockquote dir="rtl">
-  <p>
-بِأيْديكُمْ، ثُمَّ بِألْسِنَتِكُمْ، ثُمَّ بِقُلُوبِكُمْ، فَمَنْ لَمْ
-يَعْرِفْ بِقَلْبِهِ مَعْرُوفاً، وَلَمْ يُنْكِرْ مُنْكَراً، قُلِّبَ
-فَجُعِلَ أعْلاهُ أسْفَلَهُ.
-  </p>
-</blockquote>
+> بِأيْديكُمْ، ثُمَّ بِألْسِنَتِكُمْ، ثُمَّ بِقُلُوبِكُمْ، فَمَنْ لَمْ
+> يَعْرِفْ بِقَلْبِهِ مَعْرُوفاً، وَلَمْ يُنْكِرْ مُنْكَراً، قُلِّبَ
+> فَجُعِلَ أعْلاهُ أسْفَلَهُ.
 
 3. Struggling [in the way of Allah] is the pillar of faith and the path
 of the felicitous.
@@ -45,12 +37,8 @@ is as if I am led and they are the leaders, [and] I am restrained and
 they are the restrainers.
 
 > 5ـ إنْ كانَتِ الرَّعايا قَبْلي تَشْكُوا حَيْفَ رُعاتِها فَإنِّي
-<blockquote dir="rtl">
-  <p>
-اليَوْمَ أشْكُو حَيْفَ رَعِيَّتي، كَأنِّي المَقُودُ وهُمُ القادَةُ،
-والمُوزَعُ وَهُمُ الوَزَعَةُ
-  </p>
-</blockquote>
+> اليَوْمَ أشْكُو حَيْفَ رَعِيَّتي، كَأنِّي المَقُودُ وهُمُ القادَةُ،
+> والمُوزَعُ وَهُمُ الوَزَعَةُ
 
 6. The reward for striving [in the way of Allah] is the greatest reward.
 
@@ -68,5 +56,4 @@ honour of Islam.
 9. The purification of the body is [in] striving and fasting.
 
 > 9ـ زَكوةُ البَدَنِ الجِهادُ والصِّيامُ.
-
 

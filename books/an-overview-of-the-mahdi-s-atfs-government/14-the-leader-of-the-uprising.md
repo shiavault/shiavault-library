@@ -639,4 +639,3 @@ Ithbat al-Hudah, vol. 3, p. 615; Nur Kashf al-Astar, p. 69.
 
 [^46]: Khatunabadi, Arba‘in, p. 67; Ithbat al-Hudah, vol. 3, p. 700.
 
-

@@ -620,4 +620,3 @@ Allah knows better. Shaykh al-Tusi has recorded in ‘Misbaah’ that Allah
 brought Yunus out of the fish on the ninth of Muharram and this is
 contrary to some traditions.
 
-

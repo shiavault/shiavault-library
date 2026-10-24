@@ -71,4 +71,3 @@ it possible that whenever Imam Mossa ibn Jaafar (p.b.u.h.) attained
 power he could pull him down from the throne of the Caliphate. Therefore
 he decided to murder that Hazrat.
 
-

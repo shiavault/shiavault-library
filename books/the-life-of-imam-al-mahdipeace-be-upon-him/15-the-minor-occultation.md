@@ -15,7 +15,7 @@ about the period of the Minor Occultation.
 ### Period of Minor Occultation
 
 The period of minor occultation commenced from the time of the martyrdom
-of Imam Hasan Askari (a.s) in 260 A.H.<sup>[1]</sup> After the passing
+of Imam Hasan Askari (a.s) in 260 A.H.[1] After the passing
 away of his respected father, His Eminence disappeared from the view of
 people and only some believers, righteous persons and trustworthy
 gentlemen met His Eminence as we shall discuss in the forthcoming pages.
@@ -41,7 +41,7 @@ Awaited Imam. According to them Shias claim that His Eminence, had
 disappeared into the cellar and in this also there are two statements,
 one of them mentions a cellar in Babel and another in Samarrah.
 
-1. Cellar in Babel<sup>[1]</sup>
+1. Cellar in Babel[1]
 --------------------------------
 
 Ibne Khaldun has mentioned the location of the cellar to be in Babel. He
@@ -80,7 +80,7 @@ way traversed by knowledge of narrators. His involvement in political
 affairs of the rulers and governments has hindered him. That is why he
 has conjectured that the belief of Mahdi is a Shiite belief. And in his
 book, Muqaddimah, he has written a detailed chapter: Section regarding
-the Fatimi when people go to him by his command.”<sup>[1]</sup>
+the Fatimi when people go to him by his command.”[1]
 
 The belief of Shias and all the Muslims regarding His Eminence, Imam
 Mahdi (a.s) is a part of the Islamic Messengership. Whoever denies it,
@@ -127,13 +127,13 @@ Historians like:
 
 He says: “The Shias believe that the Awaited Imam (a.s) disappeared in
 the cellar of his house in Samarrah in 260 A.H. and the protectors
-protect him.”<sup>[1]</sup>
+protect him.”[1]
 
 ### (B) Ibne Taiymiyah
 
 He thinks that Shias believe that the Awaited Imam (a.s) is alive in a
 cellar in Samarrah and that they are awaiting his reappearance from that
-same cellar.<sup>[2]</sup>
+same cellar.[2]
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ have made a human on the basis of your ignorance ?*
 
 Then may locks be on your senses because you have concocted a third,
 after the griffon (legendary bird) and ghoul (legendary desert
-demon).<sup>[1]</sup>
+demon).[1]
 
 May a handful of mud be upon the faces of these poets who have
 criticized that in which the Shias have no belief. This poet and others
@@ -172,7 +172,7 @@ stupid and dogmatic are those who have made their Imam in the cellar and
 kept the Quran and their scrolls concealed with him. And it is the same
 people, who every night, take their horses and asses in front of the
 cellar and await for the Hidden Imam and they call him to reappear. They
-follow the same ritual since the last thousand years.”<sup>[2]</sup>
+follow the same ritual since the last thousand years.”[2]
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ it that the Shias have made him disappear in the cellar. They also do
 not believe that he would reappear from the cellar. Rather the belief of
 the Shias that is supported by traditions of Ahle Bayt (a.s) is that His
 Eminence would reappear in Mecca next to the Holy Ka'ba. None have said
-that he is in the cellar.”<sup>[1]</sup>
+that he is in the cellar.”[1]
 
 ### Investigation in this matter
 
@@ -211,7 +211,7 @@ view of some Shia scholars:
 
 Muhaddith Noori the complier of Mustadrak says: “Though we have scanned
 history we do not find what they say. Actually there is no mention of
-the cellar in the traditions.”<sup>[2]</sup>
+the cellar in the traditions.”[2]
 
 ------------------------------------------------------------------------
 
@@ -223,14 +223,14 @@ the cellar in the traditions.”<sup>[2]</sup>
 Allamah Sadruddin says: “Most Sunni scholars say that Shias believe that
 the Imam of the time disappeared in the cellar. But this claim of Sunnis
 has no firm basis and we find no such thing in existence among the
-Shias.”<sup>[1]</sup>
+Shias.”[1]
 
 (C) Muhaqqiq Arbili
 -------------------
 
 Muhaqqiq Arbili says: “Those who say that His Eminence exists do not say
 that he is in the cellar. Rather they say that like others he walks and
-lives on the earth.”<sup>[2]</sup>
+lives on the earth.”[2]
 
 (D) Muhaqqiq Amini
 ------------------
@@ -248,7 +248,7 @@ Baghdad and others would not have remarked that it is in Samarrah. And
 then after this Qaseemi would not have remained perplexed and astonished
 and he would have simply mentioned the word of “Cellar” without stating
 anything about its location and town, so that his defect would have
-remained concealed.”<sup>[3]</sup>
+remained concealed.”[3]
 
 Therefore the disappearance of His Eminence, the Awaited Imam (a.s) in
 the cellar is a piece of fiction that none has mentioned it in the whole
@@ -257,8 +257,8 @@ concocted it and attributed it to the Shias.
 
 ------------------------------------------------------------------------
 
-[1] Al-Mahdi, Pg 155 <sup>[2]</sup> Kashful Ghummah, 3/283
-<sup>[3]</sup> Al-Ghadeer, 3/309
+[1] Al-Mahdi, Pg 155 [2] Kashful Ghummah, 3/283
+[3] Al-Ghadeer, 3/309
 
 [![ Back](images/back.gif)](13.htm)[  
  Back](18.htm)

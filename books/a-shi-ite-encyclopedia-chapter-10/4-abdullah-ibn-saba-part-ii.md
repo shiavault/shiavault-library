@@ -403,4 +403,3 @@ and meet each other and build a Mosque with 12000 entrance in
 al-Thawiyya, a place in al-Kufa." (al- Bihar, v53, p113, Hadith
 \#138-17)
 
-

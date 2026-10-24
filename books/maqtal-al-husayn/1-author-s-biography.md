@@ -944,4 +944,3 @@ magazine of Sha’ban 14, 1391/October 5, 1971
 
 [^2]: He was called so by the Messenger of Allah (S). (N.Tr.)
 
-

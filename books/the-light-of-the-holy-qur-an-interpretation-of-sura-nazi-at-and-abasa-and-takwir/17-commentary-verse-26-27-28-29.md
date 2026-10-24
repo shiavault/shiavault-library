@@ -128,7 +128,5 @@ O Lord! Your throne of Judgment, in the Hereafter, is very frightening,
 and our Records contain few good deeds. Please forgive us with Your Own
 Sublime Graciousness; not with your strict Justice.
 
-
 The End of Sura Takwir (The Folding up)
-
 

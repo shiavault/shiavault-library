@@ -3,17 +3,9 @@ Sermon 217: O My God! I beseech Thee….
 
 *About the excesses of the Quraysh*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في التظلم والتشكي من قريش
-  </p>
-</blockquote>
+> في التظلم والتشكي من قريش
 
 O My God! I beseech Thee to take revenge on the Quraysh and those who
 are assisting them, for they have cut asunder my kinship and over-turned
@@ -27,51 +19,31 @@ closed my eyes despite the dust, kept swallowing saliva despite (the
 suffocation of) grief and endured pangs of anger although it was more
 bitter than colocynth and more grievous than the bite of knives.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي أَسْتَعْدِيكَ عَلَى قُرَيْش، فَإِنَّهُمْ قَدْ
-قَطَعُوا رَحِمِي، وَأَكْفَأُوا إِنَائِي، وَأَجْمَعُوا عَلَى
-مُنَازَعَتِي حَقّاً كُنْتُ أَوْلَى بِهِ مِنْ غَيْرِي، وَقَالُوا: أَلاَ
-إِنَّ فِي الْحَقِّ أَنْ تَأْخُذَهُ، وَفِي الْحَقِّ أَنْ تُمْنَعَهُ،
-فَاصْبِرْ مَغْمُوماً، أَوْ مُتْ مُتَأَسِّفاً.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي أَسْتَعْدِيكَ عَلَى قُرَيْش، فَإِنَّهُمْ قَدْ
+> قَطَعُوا رَحِمِي، وَأَكْفَأُوا إِنَائِي، وَأَجْمَعُوا عَلَى
+> مُنَازَعَتِي حَقّاً كُنْتُ أَوْلَى بِهِ مِنْ غَيْرِي، وَقَالُوا: أَلاَ
+> إِنَّ فِي الْحَقِّ أَنْ تَأْخُذَهُ، وَفِي الْحَقِّ أَنْ تُمْنَعَهُ،
+> فَاصْبِرْ مَغْمُوماً، أَوْ مُتْ مُتَأَسِّفاً.
 
-<blockquote dir="rtl">
-  <p>
-فَنَظَرْتُ فَإِذَا لَيْسَ لِي رَافِدٌ، وَلاَ ذَابٌّ وَلاَ مُسَاعِدٌ،
-إِلاَّ أَهْلَ بَيْتِي، فَضَنِنْتُ بِهِمْ عَنِ الْمَنِيَّةِ،
-فَأَغْضَيْتُ عَلَى الْقَذى، وَجَرِعْتُ رِيقِي عَلَى الشَّجَا،
-وَصَبَرْتُ مِنْ كَظْمِ الغَيْظِ عَلى أَمَرَّ مِنَ العَلْقَمِ، وَآلَمَ
-لِلْقَلْبِ مِنْ خَزِّ الشِّفَارِ
-  </p>
-</blockquote>
+> فَنَظَرْتُ فَإِذَا لَيْسَ لِي رَافِدٌ، وَلاَ ذَابٌّ وَلاَ مُسَاعِدٌ،
+> إِلاَّ أَهْلَ بَيْتِي، فَضَنِنْتُ بِهِمْ عَنِ الْمَنِيَّةِ،
+> فَأَغْضَيْتُ عَلَى الْقَذى، وَجَرِعْتُ رِيقِي عَلَى الشَّجَا،
+> وَصَبَرْتُ مِنْ كَظْمِ الغَيْظِ عَلى أَمَرَّ مِنَ العَلْقَمِ، وَآلَمَ
+> لِلْقَلْبِ مِنْ خَزِّ الشِّفَارِ
 
 **As-Sayyid ar-Radi says:** This utterance of Amir al-mu’minin has
 already appeared in an earlier Sermon (172), but I have repeated it here
 because of the difference of versions.
 
-<blockquote dir="rtl">
-  <p>
-قال الشريف رضي الله عنه: وقد مضى هذا الكلام في أثناء خطبة متقدمة، إلاّ
-أنّني كرّرتُهُ هاهنا لاختلاف الروايتين.
-  </p>
-</blockquote>
+> قال الشريف رضي الله عنه: وقد مضى هذا الكلام في أثناء خطبة متقدمة، إلاّ
+> أنّني كرّرتُهُ هاهنا لاختلاف الروايتين.
 
 A part of the same sermon about those who went to Basrah to fight Amir al-Mu’minin
 ----------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ومنه:
-  </p>
-</blockquote>
+> ومنه:
 
-<blockquote dir="rtl">
-  <p>
-في ذكر السائرين إلى البصرة لحربه (عليه السلام)
-  </p>
-</blockquote>
+> في ذكر السائرين إلى البصرة لحربه (عليه السلام)
 
 They marched on my officers and the custodians of the public treasury
 which is still under my control and on the people of a metropolis, all
@@ -81,16 +53,12 @@ followers. They killed a group of them by treachery, while another group
 took up swords against them and fought with the swords till they met
 Allah as adherents to truth.
 
-<blockquote dir="rtl">
-  <p>
-فَقَدِمُوا عَلَى عُمَّالِي، وَخُزَّانِ بَيْتِ مَالِ الْمُسْلِمِينَ
-الَّذِي في يَدَيَّ، وَعَلى أَهْلِ مِصْر، كُلُّهُمْ فِي طَاعَتِي
-وَعَلَى بَيْعَتِي، فَشَتَّتُوا كَلِمَتَهُمْ، وَأَفْسَدُوا عَلَيَّ
-جَمَاعَتَهُمْ، وَوَثَبُوا عَلى شِيعَتِي، فَقَتَلُوا طَائِفَةً مِنْهُمْ
-غَدْراً، وَطَائِفَةٌ عَضُّوا عَلى أَسْيَافِهِمْ، فَضَارَبُوا بِهَا
-حَتَّى لَقُوا اللهَ صَادِقِينَ.
-  </p>
-</blockquote>
+> فَقَدِمُوا عَلَى عُمَّالِي، وَخُزَّانِ بَيْتِ مَالِ الْمُسْلِمِينَ
+> الَّذِي في يَدَيَّ، وَعَلى أَهْلِ مِصْر، كُلُّهُمْ فِي طَاعَتِي
+> وَعَلَى بَيْعَتِي، فَشَتَّتُوا كَلِمَتَهُمْ، وَأَفْسَدُوا عَلَيَّ
+> جَمَاعَتَهُمْ، وَوَثَبُوا عَلى شِيعَتِي، فَقَتَلُوا طَائِفَةً مِنْهُمْ
+> غَدْراً، وَطَائِفَةٌ عَضُّوا عَلى أَسْيَافِهِمْ، فَضَارَبُوا بِهَا
+> حَتَّى لَقُوا اللهَ صَادِقِينَ.
 
 Alternative Sources for Sermon 217
 ----------------------------------
@@ -106,5 +74,4 @@ Alternative Sources for Sermon 217
 (5) al-Tabari, *al-Mustarshid,* 95;
 
 (6) Safwah, *Jamharah.*
-
 

@@ -160,11 +160,7 @@ But once all the pieces are fitted together, we see not only that the
 whole is beautiful but that each ugly piece makes its indispensable
 contribution to that beauty. May it not be the same with the universe?!
 
-<blockquote dir="rtl">
-  <p>
-جهان چون چشم و خط و خال و ابروست كه هر چيزي بجاي خويش نيكوست
-  </p>
-</blockquote>
+> جهان چون چشم و خط و خال و ابروست كه هر چيزي بجاي خويش نيكوست
 
 *The universe is like eye, line, spot and eyebrow*
 
@@ -355,5 +351,4 @@ of order.
 [^4]: Al-Tawhid, p.74
 
 [^5]: Remember the story of Abu-Baseer.
-
 

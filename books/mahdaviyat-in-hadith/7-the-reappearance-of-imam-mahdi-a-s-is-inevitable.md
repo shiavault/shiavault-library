@@ -119,4 +119,3 @@ even Sehah-e-Sittah is not devoid of the traditions regarding Hazrat
 Mahdi (A.S.). This much should suffice to those who are skeptical of the
 veritahility of this pristine belief.
 
-

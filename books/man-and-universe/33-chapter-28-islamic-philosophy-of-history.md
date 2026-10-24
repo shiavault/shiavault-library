@@ -513,4 +513,3 @@ play the same role in development. Hence the criterion of their morality
 and immorality should be the intention behind them and not that one
 looks to the past and the other to the future.
 
-

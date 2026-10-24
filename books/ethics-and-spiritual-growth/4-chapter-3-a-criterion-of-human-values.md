@@ -1250,4 +1250,3 @@ pp. 138, 139, 140.
 [^33]: Murphy, Gardner, Human Potentialities (?), Raz-e karishmahha pp.
 295, 297, 298.
 
-

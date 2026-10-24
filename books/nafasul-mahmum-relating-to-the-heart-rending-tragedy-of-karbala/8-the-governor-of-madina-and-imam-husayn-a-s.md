@@ -225,4 +225,3 @@ Wahab, was a renowned prosti­tute (Ref. Kitaban Niza wat Taqasum, Page
 refers to him saying “O son of Zarqa” thus announcing his ignoble
 descent.
 
-

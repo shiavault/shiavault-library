@@ -108,4 +108,3 @@ for His sake.
 
 [^7]: See al-Shahid ul-Awwal, al-Majmou’a
 
-

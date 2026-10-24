@@ -951,4 +951,3 @@ Therefore, she has conceived.
 Sometimes al-qiyas al-mujiz is named as al-qiyas al-’ijazi, al-qiyas
 al-’idmari, al-qiyas al-damir, or mutarakmah.
 
-

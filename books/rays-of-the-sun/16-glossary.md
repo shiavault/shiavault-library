@@ -186,4 +186,3 @@ of wudu.
 **Ziyarat**  
  Please see Salaams and Ziyaraats.
 
-

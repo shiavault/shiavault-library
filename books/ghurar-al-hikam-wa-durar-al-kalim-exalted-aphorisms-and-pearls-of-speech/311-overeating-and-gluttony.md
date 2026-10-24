@@ -7,21 +7,13 @@ Overeating And Gluttony
 increase and his dreams get corrupted.
 
 > 1ـ إيّاكَ وَ الْبِطْنَةَ، فَمَنْ لَزِمَها كَثُرَتْ أسْقامُهُ، وَ
-<blockquote dir="rtl">
-  <p>
-فَسَدَتْ أحْلامُهُ.
-  </p>
-</blockquote>
+> فَسَدَتْ أحْلامُهُ.
 
 2. Be wary of gluttony, for indeed it causes hardening of the heart,
 sluggishness in prayer and corruption of the body.
 
 > 2ـ إيّاكُمْ وَ الْبِطْنَةَ، فَإنَّها مِقْساةٌ لِلْقَلْبِ مَكْسَلَةٌ
-<blockquote dir="rtl">
-  <p>
-عَنِ الصَّلاةِ مَفْسَدَةٌ لِلْجَسَدِ.
-  </p>
-</blockquote>
+> عَنِ الصَّلاةِ مَفْسَدَةٌ لِلْجَسَدِ.
 
 3. Gluttony prevents astuteness.
 
@@ -55,11 +47,7 @@ sluggishness in prayer and corruption of the body.
 blind to righteousness.
 
 > 10ـ إذا مُلِئَ البَطْنُ مِنَ الْمُباحِ عَمِيَ الْقَلْبُ عَنِ
-<blockquote dir="rtl">
-  <p>
-الصَّلاحِ.
-  </p>
-</blockquote>
+> الصَّلاحِ.
 
 11. What an evil companion of piety overeating is!
 
@@ -89,10 +77,5 @@ blind to righteousness.
 and foments diseases.
 
 > 17ـ إيّاكَ وَ إدْمانَ الشِّبَعِ، فَإنَّهُ يُهَيِّجُ الأسْقامَ، وَ
-<blockquote dir="rtl">
-  <p>
-يُثيرُ الْعِلَلَ.
-  </p>
-</blockquote>
-
+> يُثيرُ الْعِلَلَ.
 

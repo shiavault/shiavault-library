@@ -5,46 +5,26 @@ Sermon 59: The place they shall fall ...
 was told that they had crossed the bridge of Nahrawan and gone over to
 the other side. Amir al-mu'minin said:*
 
-<blockquote dir="rtl">
-  <p>
-وقال (عليه السلام)
-  </p>
-</blockquote>
+> وقال (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا عزم على حرب الخوارج
-  </p>
-</blockquote>
+> لمّا عزم على حرب الخوارج
 
-<blockquote dir="rtl">
-  <p>
-وقيل له: إن القوم قد عبروا جسر النهروان
-  </p>
-</blockquote>
+> وقيل له: إن القوم قد عبروا جسر النهروان
 
 Their falling place is on this side of the river. By Allah, not even ten
 of them will survive while from your side not even ten will be
 killed.[^1]
 
-<blockquote dir="rtl">
-  <p>
-مَصَارِعُهُمْ دُونَ النُّطْفَةِ، وَاللهِ لاَ يُفْلِتُ مِنْهُمْ
-عَشَرَةٌ، وَلاَ يَهْلِكُ مِنْكُمْ عَشَرَةٌ.
-  </p>
-</blockquote>
+> مَصَارِعُهُمْ دُونَ النُّطْفَةِ، وَاللهِ لاَ يُفْلِتُ مِنْهُمْ
+> عَشَرَةٌ، وَلاَ يَهْلِكُ مِنْكُمْ عَشَرَةٌ.
 
 As-Sayyid ar-Radi says: In this sermon *"nutfah"* implies the River
 Euphrates, and for water this is the nicest expression, even though
 water may be much. We have indicated that in an earlier sermon (48)
 where a similar expression was used.
 
-<blockquote dir="rtl">
-  <p>
-قال الشريف: يعني بالنطفة: ماء النهر، وهي أفصح كناية عن الماء وإن كان
-كثيراً جماً، وقد أشرنا إلى ذلك فيما تقدم عند مضيّ ما أشبهه.
-  </p>
-</blockquote>
+> قال الشريف: يعني بالنطفة: ماء النهر، وهي أفصح كناية عن الماء وإن كان
+> كثيراً جماً، وقد أشرنا إلى ذلك فيما تقدم عند مضيّ ما أشبهه.
 
 Alternative Sources for Sermon 59
 ---------------------------------
@@ -67,5 +47,4 @@ the Prophet's knowledge had said, and from among the Kharijites all
 except nine persons were killed. Two of them fled away to \`Uman, two to
 Sijistan, two to Kirman and two to al-Jazirah while one escaped to Tall
 Mawzan. Of Amir al-mu'minin's party only eight men fell as martyrs.
-
 

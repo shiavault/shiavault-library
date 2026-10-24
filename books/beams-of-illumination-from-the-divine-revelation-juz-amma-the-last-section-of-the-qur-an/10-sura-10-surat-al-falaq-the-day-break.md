@@ -85,4 +85,3 @@ with generosity and other positive attributes. If we do not fight
 against envy at all times, it will constantly be inflamed and will take
 us over completely.
 
-

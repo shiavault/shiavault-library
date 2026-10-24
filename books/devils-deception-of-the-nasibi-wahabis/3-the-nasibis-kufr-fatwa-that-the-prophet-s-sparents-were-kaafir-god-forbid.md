@@ -409,4 +409,3 @@ Prophethood if a Nasibi can substitute the Shahada in preference of his
 teacher and yet this is not deemed kufr? What faith should anyone have
 in the Nasibi Ulema in light of this blasphemy?
 
-

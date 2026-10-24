@@ -62,4 +62,3 @@ Muhammad Dhāhir Watr
 
 [^1]: The Glorious Qur’an (Q1:1-7)
 
-

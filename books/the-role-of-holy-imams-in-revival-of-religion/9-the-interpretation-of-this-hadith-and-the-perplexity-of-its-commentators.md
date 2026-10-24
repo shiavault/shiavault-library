@@ -199,7 +199,6 @@ of them the descendents of Hassan and six the descendents of Hussain
 followed by one more person after whose death the era will become
 corrupt. 142
 
-
 Ibn Hajar Haythami speaking of this Hadith says:
 
 "This Hadith is certainly a false one therefore we cannot rely on it".

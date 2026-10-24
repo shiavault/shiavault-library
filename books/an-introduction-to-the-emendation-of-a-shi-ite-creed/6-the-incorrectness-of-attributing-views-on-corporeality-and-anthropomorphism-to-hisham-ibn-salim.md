@@ -795,4 +795,3 @@ Lisanu 'l- mizan, vol.2, p.427.
 
 [^79]: Mizanu 'l-i‘tidal, vol.2, p.23; Lisanu 'l-mizan, vol.2, p.427.
 
-

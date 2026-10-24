@@ -1065,4 +1065,3 @@ Vol. XIV, p. 117.
 [^53]: Mating Htin Aung, “Burmese Alchemy Beliefs,” J. Burmese Res.
 Soc., Vol. XXXVI, Part 2, p. 91
 
-

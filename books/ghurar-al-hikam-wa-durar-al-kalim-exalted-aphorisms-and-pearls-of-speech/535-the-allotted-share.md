@@ -21,11 +21,7 @@ of this world has been established and this world has been made complete
 for its inhabitants.
 
 > 4ـ بِتَقْديرِ أقْسامِ اللّهِ لِلْعِبادِ قامَ وَزْنُ العالَمِ، وتَمَّتْ
-<blockquote dir="rtl">
-  <p>
-هذِهِ الدُّنْيا لاِهْلِها.
-  </p>
-</blockquote>
+> هذِهِ الدُّنْيا لاِهْلِها.
 
 5. One who trusts in the allotment of Allah does not blame Him with
 regards to sustenance.
@@ -39,12 +35,7 @@ He has apportioned for you in each new day and if you will not live that
 long then why are you worried about that which is not for you?
 
 > 6ـ لاتَحْمِلْ عَلى يَوْمِكَ هَمَّ سَنَتِكَ كَفاكَ كُلَّ يَـوْم ما
-<blockquote dir="rtl">
-  <p>
-قُدِّرَ لَكَ فيهِ، فَإنْ تَكُنِ السَّنَةُ مِنْ عُمْرِكَ فَإنَّ اللّهَ
-سُبْحانَهُ سَيَأْتيكَ في كُلِّ غَد جَديد بِما قَسَمَ لَكَ وَإنْ لَمْ
-تَكُنْ مِنْ عُمْرِكَ فَما هَمُّكَ بِما لَيْسَ لَكَ.
-  </p>
-</blockquote>
-
+> قُدِّرَ لَكَ فيهِ، فَإنْ تَكُنِ السَّنَةُ مِنْ عُمْرِكَ فَإنَّ اللّهَ
+> سُبْحانَهُ سَيَأْتيكَ في كُلِّ غَد جَديد بِما قَسَمَ لَكَ وَإنْ لَمْ
+> تَكُنْ مِنْ عُمْرِكَ فَما هَمُّكَ بِما لَيْسَ لَكَ.
 

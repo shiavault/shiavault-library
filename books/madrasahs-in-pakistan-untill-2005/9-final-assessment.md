@@ -130,4 +130,3 @@ taking further steps*madrasahs* should be taken into confidence and
 possibly the whole community should be taken on board. Only these
 measures can ensure the future prospects of reforms.
 
-

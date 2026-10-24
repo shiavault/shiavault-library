@@ -257,4 +257,3 @@ protect himself from sins. After the recitation of this Surah, the
 Qunnut is again recited but now only four times. Thereafter rukuu,
 Sajda, Tashahhud and Salaam are done in the usual way.
 
-

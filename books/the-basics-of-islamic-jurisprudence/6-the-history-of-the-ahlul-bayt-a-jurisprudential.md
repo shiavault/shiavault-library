@@ -168,13 +168,9 @@ Prophet Muhammad (s).
  Our belief is that the Qurān that is in our hands today, its meaning
 and words has not been altered in any possible way.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ هَـذَا الْقُرْآنُ أَن يُفْتَرَى مِن دُونِ اللّهِ وَلَـكِن
-تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لاَ رَيْبَ
-فِيهِ مِن رَّبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ هَـذَا الْقُرْآنُ أَن يُفْتَرَى مِن دُونِ اللّهِ وَلَـكِن
+> تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لاَ رَيْبَ
+> فِيهِ مِن رَّبِّ الْعَالَمِينَ
 
 ***“This Qur'an is not such as can be produced by other than Allah; on
 the contrary it is a confirmation of (revelations) that came before it,
@@ -201,11 +197,7 @@ regards to both the language and the content is a proof of its composer.
 Moreover, no one could produce anything like the Qurān or even a single
 verse, in spite of the challenge posed in the Qurān. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِن رَّبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> تَنزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِن رَّبِّ الْعَالَمِينَ
 
 ***“(This is) the Revelation of the Book in which there is no doubt,
 from the Lord of the Worlds***.”[^8]
@@ -239,11 +231,7 @@ presence of an infallible to which the infallible does not oppose.
 Muslims agree unanimously that the words, actions and affirmations of
 the Prophet (s) are considered an authority for all Muslims. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
 
 ***“So take what the Messenger assigns to you, and deny yourselves that
 which he withholds from you.***”[^9]
@@ -350,5 +338,4 @@ qualities of a judge, tradition 33
 [^9]: Hashr: 7
 
 [^10]: Muhammad Bāqir al-Sadr, Halaqah 2, al-Dalīl al-‛Aqlī
-
 

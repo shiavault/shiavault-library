@@ -244,4 +244,3 @@ bodies and our minds are neither of them capable of continual study, and
 if we take not a just measure of our strength in endeavouring to do a
 great deal, we shall do nothing at all.
 
-

@@ -282,4 +282,3 @@ before you were of those astray.*** Qur’an 2:198
 Fully armed and determined, the army of Tawheed enters the valley of
 Mina, Mina the battlefield.
 
-

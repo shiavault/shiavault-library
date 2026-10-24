@@ -95,4 +95,3 @@ and ‘Ali al-Hindi in Kanz-ul-‘ummal (2:62\#3113).
 
 [33]. Qur’an (al-Fatihah, the Opening) 1:1-4.
 
-

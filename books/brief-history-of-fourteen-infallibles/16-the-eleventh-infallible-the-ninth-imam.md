@@ -173,4 +173,3 @@ the ladder to every goal which is high and sublime.
  \* Do not be an apparent friend of Allah in open and a secret enemy of
 His in private.
 
-

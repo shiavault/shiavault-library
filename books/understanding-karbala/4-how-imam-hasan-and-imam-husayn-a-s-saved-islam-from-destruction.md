@@ -858,4 +858,3 @@ derogatory title and Muawiyah is also using this epithet
 
 [^25]: Here I am, O Lord. Here I am.
 
-

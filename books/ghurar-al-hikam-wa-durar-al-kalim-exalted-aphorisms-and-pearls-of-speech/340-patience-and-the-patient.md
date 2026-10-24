@@ -23,11 +23,7 @@ Patience And The Patient
 face of His chastisement.
 
 > 5ـ اَلصَّبْرُ عَلى طاعَةِ اللّهِ أهْوَنُ مِنَ الصَّبْرِ عَلى
-<blockquote dir="rtl">
-  <p>
-عُقُوبَتِهِ.
-  </p>
-</blockquote>
+> عُقُوبَتِهِ.
 
 6. Patience in affliction is better than wellbeing in [times of]
 comfort.
@@ -43,11 +39,7 @@ embellishment and gift.
 suppress [his anger with] that which enrages him.
 
 > 8ـ اَلصَّبْرُ أنْ يَحْتَمِلَ الرَّجُلُ ما يَنُوبُهُ ويَكْظِمَ ما
-<blockquote dir="rtl">
-  <p>
-يُغْضِبُهُ.
-  </p>
-</blockquote>
+> يُغْضِبُهُ.
 
 9. Patience is of two types: enduring what you hate and abstaining from
 what you love.
@@ -63,32 +55,20 @@ human qualities.
 is piety.
 
 > 11ـ اَلصَّبْرُ عَنِ الشَّهْوَةِ عِفَّةٌ، وعَنِ الغَضَبِ نَجْدَةٌ،
-<blockquote dir="rtl">
-  <p>
-وعَنِ المعْصِيَةِ وَرَعٌ.
-  </p>
-</blockquote>
+> وعَنِ المعْصِيَةِ وَرَعٌ.
 
 12. Patience is of two types: Patience in affliction is pleasantly
 beautiful, but patience in refraining from the prohibited is even
 better.
 
 > 12ـ اَلصَّبْرُ صَبْرانِ: صَبْرٌ فِي البَلاءِ حَسَنٌ جَميلٌ، وأحْسَنُ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ الصَّبْرُ عَنِ المَحارِمِ.
-  </p>
-</blockquote>
+> مِنْهُ الصَّبْرُ عَنِ المَحارِمِ.
 
 13. Patience in poverty with dignity is better than wealth with
 indignity.
 
 > 13ـ اَلصَّبْرُ عَلَى الفَقْرِ مَعَ العِزِّ أجْمَلُ مِنَ الغِنى معَ
-<blockquote dir="rtl">
-  <p>
-الذُّلِّ.
-  </p>
-</blockquote>
+> الذُّلِّ.
 
 14. Patience in the face of agonizing distress leads to success in
 attaining opportunities.
@@ -113,51 +93,31 @@ refrain from the action the punishment for which you will not be able to
 bear.
 
 > 18ـ اِصْبِرْ عَلى عَمَل لابُدَّ لَكَ مِنْ ثَوابِهِ، وعَنْ عَمَل
-<blockquote dir="rtl">
-  <p>
-لاصَبْرَ لَكَ عَلى عِقابِهِ.
-  </p>
-</blockquote>
+> لاصَبْرَ لَكَ عَلى عِقابِهِ.
 
 19. Adopt patience, for indeed patience has a sweet end and an
 auspicious result.
 
 > 19ـ اِلْزَمِ الصَّبْرَ، فَإنَّ الصَّبْرَ حُلْوُ العاقِبَةِ، مَيْمُونُ
-<blockquote dir="rtl">
-  <p>
-المَغَبَّةِ.
-  </p>
-</blockquote>
+> المَغَبَّةِ.
 
 20. Be patient with the bitterness of truth and beware of being deceived
 by the sweetness of falsehood.
 
 > 20ـ اِصْبِرْ عَلى مَرارَةِ الحَقِّ، وإيّاكَ أنْ تَنْخَدِعَ لِحَلاوَةِ
-<blockquote dir="rtl">
-  <p>
-الباطِلِ.
-  </p>
-</blockquote>
+> الباطِلِ.
 
 21. Stick to the earth, be patient in trials, and do not move your hands
 and follow the fancy of your tongues [in order to start quarrels].
 
 > 21ـ اِلْزَمُوا الأرْضَ، واصْبِروُا عَلَى البَلاءِ،وَلاتَحَرِّكُوا
-<blockquote dir="rtl">
-  <p>
-بِأيْديكُمْ وهَوى ألْسِنَتِكُمْ.
-  </p>
-</blockquote>
+> بِأيْديكُمْ وهَوى ألْسِنَتِكُمْ.
 
 22. Espouse patience, for indeed it is the pillar of faith and the basis
 of affairs.
 
 > 22ـ اِلْزَمُوا الصَّبْرَ، فَإنَّهُ دِعامَةُ الإيمانِ، وَمِلاكُ
-<blockquote dir="rtl">
-  <p>
-الأُمُورِ.
-  </p>
-</blockquote>
+> الأُمُورِ.
 
 23. The best patience is longanimity.
 
@@ -191,12 +151,8 @@ you; verily the affliction [we suffer] by your loss is great whereas
 comparison].[^1]
 
 > 29 ـ إنَّ الصَّبْرَ لَجَميلٌ إلاّ عَنْكَ، وإنَّ الجَزَعَ لَقَبيحٌ إلاّ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ، وإنَّ المُصابَ بِكَ لَجَليلٌ، وإنَّهُ قَبْلَكَ وبَعْدَكَ
-لَجَلَلٌ.
-  </p>
-</blockquote>
+> عَلَيْكَ، وإنَّ المُصابَ بِكَ لَجَليلٌ، وإنَّهُ قَبْلَكَ وبَعْدَكَ
+> لَجَلَلٌ.
 
 30. Patience is a foundation [for other good actions].
 
@@ -331,11 +287,7 @@ will be rewarded, and if you are agitated then things will transpire as
 ordained and you will bear the burden of sin.
 
 > 61ـ إنْ صَبَرْتَ جَرى عَلَيْكَ القَلَمُ وأنْتَ مَأْجُورٌ، وإنْ
-<blockquote dir="rtl">
-  <p>
-جَزَعْتَ جَرى عَلَيْكَ القَلَمُ وأنْتَ مَأْزُورٌ.
-  </p>
-</blockquote>
+> جَزَعْتَ جَرى عَلَيْكَ القَلَمُ وأنْتَ مَأْزُورٌ.
 
 62. Either be patient like the freemen or else seek distraction [and
 forget] like the inept.
@@ -347,11 +299,7 @@ through your patience, and if you become agitated, then your agitation
 will cause you to enter the fire of hell.
 
 > 63ـ إنْ صَبَرْتَ أدْرَكْتَ بِصَبْرِكَ مَنازِلَ الأبْرارِ، وإنْ
-<blockquote dir="rtl">
-  <p>
-جَزَعْتَ أوْرَدَكَ جَزَعُكَ عَذابَ النّارِ.
-  </p>
-</blockquote>
+> جَزَعْتَ أوْرَدَكَ جَزَعُكَ عَذابَ النّارِ.
 
 64. Either be patient like the honourable ones or else seek distraction
 like the animals.
@@ -362,22 +310,14 @@ like the animals.
 except by refraining from that which you desire.
 
 > 65ـ إنَّكَ لَنْ تُدْرِكَ ما تُحِبُّ مِنْ رَبِّكَ إلاّ بِالصَّبْرِ
-<blockquote dir="rtl">
-  <p>
-عَمّا تَشْتَهي.
-  </p>
-</blockquote>
+> عَمّا تَشْتَهي.
 
 66. Verily if you are patient in affliction, thankful in comfort and
 satisfied with the [divine] decree, you will gain the pleasure of Allah,
 the Glorified.
 
 > 66ـ إنَّكُمْ إنْ صَبَرْتُمْ عَلَى البَلاءِ، وشَكَرْتُمْ فِي الرَّخاءِ،
-<blockquote dir="rtl">
-  <p>
-ورَضيتُمْ بِالقَضاءِ، كانَ لَكُمْ مِنَ اللّهِ سُبْحانَهُ الرِّضا.
-  </p>
-</blockquote>
+> ورَضيتُمْ بِالقَضاءِ، كانَ لَكُمْ مِنَ اللّهِ سُبْحانَهُ الرِّضا.
 
 67. When you are patient in adversity, you blunt its edge.
 
@@ -404,11 +344,7 @@ patient.
 provisions in [both] comfort and hardship.
 
 > 72ـ تَجَلْبَبِ الصَّبْرَ واليَقينَ، فَإنَّهُما نِعْمَ العُدَّةُ فِي
-<blockquote dir="rtl">
-  <p>
-الرَّخاءِ وَالشِّدَّةِ.
-  </p>
-</blockquote>
+> الرَّخاءِ وَالشِّدَّةِ.
 
 73. The reward of patience takes away the sufferings of tribulation.
 
@@ -438,11 +374,7 @@ provisions in [both] comfort and hardship.
 of his life and piety the provision for his death.
 
 > 79ـ رَحِمَ اللّهُ امْرَءاً جَعَلَ الصَّبْرَ مَطِيَّةَ حَياتِه،
-<blockquote dir="rtl">
-  <p>
-والتَّقْوى عُدَّةَ وَفاتِهِ.
-  </p>
-</blockquote>
+> والتَّقْوى عُدَّةَ وَفاتِهِ.
 
 80. The cornerstone of faith is patience.
 
@@ -452,11 +384,7 @@ of his life and piety the provision for his death.
 brings abundant reward.
 
 > 81ـ صَبْرُكَ عَلَى المُصيبَةِ يُخَفِّفُ الرَّزيَّةَ، ويُجْزِلُ
-<blockquote dir="rtl">
-  <p>
-المَثُوبَةَ.
-  </p>
-</blockquote>
+> المَثُوبَةَ.
 
 82. Your patience in bearing agonies gains you opportunities.
 
@@ -467,21 +395,13 @@ yourselves from the impurity of evil deeds, [as a result] you will find
 the sweetness of faith.
 
 > 83ـ صابِرُوا أنْفُسَكُمْ عَلى فِعْلِ الطّاعاتِ، وصُونُوها عَنْ دَنَسِ
-<blockquote dir="rtl">
-  <p>
-السَّيـِّئاتِ، تَجِدُوا حَلاوَةَ الإيمانِ.
-  </p>
-</blockquote>
+> السَّيـِّئاتِ، تَجِدُوا حَلاوَةَ الإيمانِ.
 
 84. Blessed is the one who makes patience the conveyance of his
 salvation and piety the provision of his death.
 
 > 84ـ طُوبى لِمَنْ جَعَلَ الصَّبْرَ مَطِيَّةَ نَجاتِهِ، والتَّقْوى
-<blockquote dir="rtl">
-  <p>
-عُدَّةَ وَفاتِهِ.
-  </p>
-</blockquote>
+> عُدَّةَ وَفاتِهِ.
 
 85. Per during patience is the quality of the virtuous.
 
@@ -495,11 +415,7 @@ salvation and piety the provision of his death.
 [qualities], adversities become easy for him [to bear].
 
 > 87ـ عَلَيْكَ بِالصَّبْرِ والاِحْتِمالِ، فَمَنْ لَزِمَهُما هانَتْ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ المِحَنُ.
-  </p>
-</blockquote>
+> عَلَيْهِ المِحَنُ.
 
 88. Espouse patience, for indeed it is a protective fortress and the
 worship of those who possess certitude.
@@ -510,21 +426,13 @@ worship of those who possess certitude.
 ignorant one returns to it.
 
 > 89ـ عَلَيْكَ بِالصَّبْرِ فَبِهِ يَأخُذُ العاقِلُ، وإلَيْهِ يَرْجِعُ
-<blockquote dir="rtl">
-  <p>
-الجاهِلُ.
-  </p>
-</blockquote>
+> الجاهِلُ.
 
 90. Espouse patience, for the judicious one holds on to it and the
 agitated one turns back to it.
 
 > 90ـ عَلَيْكَ بِلُزومِ الصَّبْرِ فَبِهِ يَأْخُذُ الحازِمُ، وإلَيْهِ
-<blockquote dir="rtl">
-  <p>
-يَؤُلُ الجازِعُ.
-  </p>
-</blockquote>
+> يَؤُلُ الجازِعُ.
 
 91. It is during the first blow [of adversity] that the patience of the
 noble ones is seen.
@@ -535,11 +443,7 @@ noble ones is seen.
 excellence of patience becomes manifest.
 
 > 92ـ عِنْدَ نُزُولِ المَصائِبِ وتَعاقُبِ النَّوائِبِ تَظْهَرُ فَضيلَةُ
-<blockquote dir="rtl">
-  <p>
-الصَّبْرِ.
-  </p>
-</blockquote>
+> الصَّبْرِ.
 
 93. In patience there is triumph.
 
@@ -584,11 +488,7 @@ long time [to come].
 its sweet [and pleasing] aftermath.
 
 > 102ـ لايَصْبِرُ عَلى مُرِّ الحَقِّ إلاّ مَنْ أيْقَنَ بِحَلاوَةِ
-<blockquote dir="rtl">
-  <p>
-عاقِبَتِهِ.
-  </p>
-</blockquote>
+> عاقِبَتِهِ.
 
 103. The affair of the patient one returns to the realization of his
 goal and reaching his aspiration.
@@ -604,11 +504,7 @@ delightful consequence, or is more repelling for bad etiquette, or more
 helpful in realizing what is sought, than patience.
 
 > 105ـ لَيْسَ شَيْءٌ أحْمَدَ عاقِبَةً، وَلا أَلَذَّ مَغَبَّةً، وَلا
-<blockquote dir="rtl">
-  <p>
-أدْفَعَ لِسُوءِ أدَب، وَلاأعْوَنَ على دَرْكِ مَطْلَب مِنَ الصَّبْرِ.
-  </p>
-</blockquote>
+> أدْفَعَ لِسُوءِ أدَب، وَلاأعْوَنَ على دَرْكِ مَطْلَب مِنَ الصَّبْرِ.
 
 106. One who is patient is victorious.
 
@@ -649,11 +545,7 @@ succor.
 Glorified.
 
 > 114ـ مَنْ صَبَرَ عَلى طاعَةِ اللّهِ عَوَّضَهُ اللّهُ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-خَيْـراً مِمّا صَبَرَ عَلَيهِ.
-  </p>
-</blockquote>
+> خَيْـراً مِمّا صَبَرَ عَلَيهِ.
 
 115. Whoever arms himself with the shield of patience, calamities become
 easy for him [to bear].
@@ -670,21 +562,13 @@ fulfilled the right of Allah, has feared His chastisement and has hoped
 for His reward.
 
 > 117ـ مَنْ صَبـَرَ على بَلاءِاللّهِ سُبْحانَهُ، فَحَقَّ اللّهِ أدّى،وَ
-<blockquote dir="rtl">
-  <p>
-عِقابَهُ اِتَّقى، وَثَوابَهُ رَجى.
-  </p>
-</blockquote>
+> عِقابَهُ اِتَّقى، وَثَوابَهُ رَجى.
 
 118. One who is patient honours himself, attains success with reward and
 obeys Allah, the Glorified.
 
 > 118ـ مَنْ صَبـَرَ فَنَفْسَهُ وَقَّرَ، وبِالثَّوابِ ظَفِرَ، وَلِلّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ أطاعَ.
-  </p>
-</blockquote>
+> سُبْحانَهُ أطاعَ.
 
 119. One who clothes himself with patience and contentment gains power
 and nobility.
@@ -695,11 +579,7 @@ and nobility.
 disobedience, then he is [indeed] a patient struggler.
 
 > 120ـ مَنْ صَبَرَ عَلى طاعَةِ اللّهِ وَعَنْ مَعاصيهِ فَهُوَ المُجاهِدُ
-<blockquote dir="rtl">
-  <p>
-الصَّبُورُ.
-  </p>
-</blockquote>
+> الصَّبُورُ.
 
 121. One whose patience is prolonged, his breast becomes straitened.
 
@@ -747,11 +627,7 @@ in.
 [what has] consoled you from weeping over yourself?
 
 > 131ـ ما صَبَّرَكَ أيُّها المُبْتَلى عَلى دائِكَ، وجَلَّدَكَ عَلى
-<blockquote dir="rtl">
-  <p>
-مَصائِبِكَ، وَعَزَّاكَ عَنِ البُكاءِ عَلى نَفْسِكَ.
-  </p>
-</blockquote>
+> مَصائِبِكَ، وَعَزَّاكَ عَنِ البُكاءِ عَلى نَفْسِكَ.
 
 132. There is no stumbling with patience.
 
@@ -769,11 +645,7 @@ in.
 pain of going against what one is accustomed to [and enjoys].
 
 > 135ـ لايَتَحَقَّقُ الصَّبْرُ (المعرُوفُ) إلاّ بِمُقاساةِ ضِدِّ
-<blockquote dir="rtl">
-  <p>
-المَألُوفِ.
-  </p>
-</blockquote>
+> المَألُوفِ.
 
 136. With patience, judiciousness is strengthened.
 
@@ -828,5 +700,4 @@ demonstrated true piety.
 > 148ـ مَنْ صَبـَرَ على مُرِّ الأذى أبانَ عَنْ صِدْقِ التَّقْوى.
 
 [^1]: Imam ‘Ali (‘a) said this at the burial of the Holy Prophet (s).
-
 

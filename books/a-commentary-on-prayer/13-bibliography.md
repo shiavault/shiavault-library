@@ -50,4 +50,3 @@ Conduct of the Prophet (S)}.
 *Wasa’il ash-Shi‘ah.*  
 *Zayd ibn ‘Ali.*
 
-

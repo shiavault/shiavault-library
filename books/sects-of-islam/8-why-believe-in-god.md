@@ -12,4 +12,3 @@ know who is God. Why should we obey Him?
 The Shi’ahs say: God cannot give us a command beyond our strength,
 because it is wrong rationally. The Sunnis do not agree with it.
 
-

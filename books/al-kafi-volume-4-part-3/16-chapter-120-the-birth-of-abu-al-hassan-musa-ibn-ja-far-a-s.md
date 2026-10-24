@@ -594,4 +594,3 @@ said the following. "Musa ibn Ja'far (a.s.) died at the age of fifty
 five in the year one hundred eighty three. He lived for thirty five
 years after Ja'far ibn Muhammad (a.s.)."
 
-

@@ -22,11 +22,9 @@ stowed on us the success of translating and publishing this book. We
 pray to Him to help us continuously in accomplishing our aims in the
 service of His cause. He is the Supreme Master, the Supreme Helper.
 
-
 World Organization For Islamic Services
 (Board of Writing, Translation and Publication)
 2/4/1399
 1/3/1979
 Tehran - IRAN.
-
 

@@ -803,4 +803,3 @@ Juhfah. It is the place at which the Muslims returning from Makkah after
 performing pilgrimage disperse. Some go to Medina and others to their
 respective places.
 
-

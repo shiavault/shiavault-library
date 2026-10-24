@@ -8,12 +8,8 @@ characteristics that a true believer must possess. Previously, we have
 covered thirty-five of these characteristics and in today's gathering,
 we will explain six more.
 
-<blockquote dir="rtl">
-  <p>
-…أَمِيناً عَلى الأَمَانَاتِ، بَعِيداً مِنَ الْخِيَانَاتِ، إِلْفُهُ
-التُّقّى وَ حِلْفُهُ الْحَيَا، كَثِـيرُ الْحَذَرِ، قَلِيلُ الْزَلَلِ…
-  </p>
-</blockquote>
+> …أَمِيناً عَلى الأَمَانَاتِ، بَعِيداً مِنَ الْخِيَانَاتِ، إِلْفُهُ
+> التُّقّى وَ حِلْفُهُ الْحَيَا، كَثِـيرُ الْحَذَرِ، قَلِيلُ الْزَلَلِ…
 
 ”(The true believer is one who) is trustworthy when given something to
 keep as a trust; is one who is far away from treachery or deceit; his
@@ -124,5 +120,4 @@ success to implement these teachings within our own lives!
 [^1]: Ibid., vol. 64, pg. 311
 
 [^2]: Mustadrak Safinat al-Bihar, vol. 9, pg. 519
-
 

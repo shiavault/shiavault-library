@@ -108,4 +108,3 @@ Tadhkirat al-Khawās, p. 259; Ta’rīkh al-Khulafa, p. 209.
 
 [^12]: Dinawari, al-Akhbār al-Tiwāl, p. 265.
 
-

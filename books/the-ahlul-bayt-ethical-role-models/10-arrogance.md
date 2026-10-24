@@ -182,4 +182,3 @@ Sheikh as-Saduq’s al-Amali.)
 
 [^8]: Quoted from ar-Raghib; Muhadharat ul-Udabaa.
 
-

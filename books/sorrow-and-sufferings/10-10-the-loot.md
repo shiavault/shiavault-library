@@ -265,4 +265,3 @@ To give her courage, to carry on the mission
 
 Which, to the world, would be an everlasting lesson.
 
-

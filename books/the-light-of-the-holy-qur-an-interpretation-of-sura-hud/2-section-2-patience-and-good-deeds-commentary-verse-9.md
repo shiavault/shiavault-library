@@ -34,7 +34,6 @@ blessings leads to ungratefulness. In this regard, the verse says:
 
 "... verily he is despairing ungrateful. "
 
-
 **Commentary : Verse 10**
 
 (10) وَ لَئِنْ أَذَقْناهُ نَعْماءَ بَعْدَ ضَرَّاءَ مَسَّتْهُ
@@ -66,7 +65,6 @@ trial. The verse says:
 " And if We make him taste(Our)favors after adversity has afflicted
 him, he will say, 'The evils have departed from me'. Verily he is
 joyous, boastful. "
-
 
 **Commentary : Verse 11**
 
@@ -101,7 +99,6 @@ never despairs, neither is he blasphemous, happy- go lucky, nor
 arrogant. On the contrary, he is patient and persevering.
 
 (1)- Sura 'A'raf, No. 7, verse 150
-
 
 **Commentary : Verse 12**
 
@@ -158,7 +155,6 @@ the rest to the Almighty.
 The unbelievers used to put pressure upon the Prophet(p.b.u.h.) under
 various pretexts. It was in addition to the physical tortures that they
 used to inflict upon him.
-
 
 **Commentary : Verse 13**
 
@@ -232,7 +228,6 @@ than Allah, if you are truthful! '"
 
 (4) Ibid
 
-
 **Commentary : Verse 14**
 
 (14) فَإِلَّمْ يَسْتَجيبُوا لَكُمْ فَاعْلَمُوا أَنَّما أُنْزِلَ
@@ -266,7 +261,6 @@ Similar to the infinite knowledge of Allah, the secrets of the Qur'an
 are infinite. Therefore, we must not waver in our opinion concerning the
 authenticity of the holy Qur'an and in monotheism with regards to Allah
 because of infidelity and hesitation of disbelievers.
-
 
 **Commentary : Verse 15.16**
 
@@ -332,5 +326,4 @@ and void. The verse says:
 "(But)these are they for whom there is naught in the hereafter but the
 Fire: and what they have wrought in it shall fail, and vain shall be
 what they were doing. "
-
 

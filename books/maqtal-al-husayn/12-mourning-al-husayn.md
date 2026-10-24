@@ -98,4 +98,3 @@ killing tears are shed” (as he is referred to as such by Imam as-Sadiq
 [as]). This falls in the same category when the link is so strong
 between al-Husayn (‘a) and the tears shed in his memory.
 
-

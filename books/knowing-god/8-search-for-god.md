@@ -67,12 +67,8 @@ revealed to them and they begin to worship Him.
 
 Quran also considers seeking God to be an innate nature and says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ لَيَقُولُنَّ
-خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ‏
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ لَيَقُولُنَّ
+> خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ‏
 
 ***“And if you should ask them, Who created the heavens and the earth?
 they would most certainly say: The Mighty, the Knowing One, has created
@@ -80,12 +76,8 @@ them…” (43/9)***
 
 And says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ وَسَخَّرَ
-الشَّمْسَ وَ الْقَمَرَ لَيَقُولُنَّ اللَّهُ فَأَنَّى‏ يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ وَسَخَّرَ
+> الشَّمْسَ وَ الْقَمَرَ لَيَقُولُنَّ اللَّهُ فَأَنَّى‏ يُؤْفَكُونَ
 
 ***“And if you ask them, Who created the heavens and the earth and made
 the sun and the moon subservient, they will certainly say, Allah. Whence
@@ -93,13 +85,9 @@ are they then turned away?” (29:61)***
 
 Then He says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَئِنْ سَأَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّماءِ ماءً فَأَحْيا بِهِ
-الْأَرْضَ مِنْ بَعْدِ مَوْتِها لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ
-لِلَّهِ بَلْ أَكْثَرُهُمْ لا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَ لَئِنْ سَأَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّماءِ ماءً فَأَحْيا بِهِ
+> الْأَرْضَ مِنْ بَعْدِ مَوْتِها لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ
+> لِلَّهِ بَلْ أَكْثَرُهُمْ لا يَعْقِلُونَ
 
 ***“And if you ask them Who is it that sends down water from the clouds,
 then gives life to the earth with it after its death, they will
@@ -158,26 +146,18 @@ A) Verses that emphasize contemplation on the creation of man
 
 The Almighty Allah says in Quran:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ \* خُلِقَ مِن مَّآءٍ دَافِقٍ \*
-يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَ التَّرَآئِبِ
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ \* خُلِقَ مِن مَّآءٍ دَافِقٍ \*
+> يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَ التَّرَآئِبِ
 
 ***“So let man consider of what he is created: He is created of water
 pouring forth, Coming from between the back and the ribs.” (86:5-7)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ
-تَنتَشِرُونَ \* وَمِنْ آيَاتِهِ أَن خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ
-أَزْوَاجاً لِّتَسْكُنُواْ إِلَيْهَا وَ جَعَلَ بَيْنَكُم مَّوَدَّةً
-وَرَحْمَةً إِنَّ فِى ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ
+> تَنتَشِرُونَ \* وَمِنْ آيَاتِهِ أَن خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ
+> أَزْوَاجاً لِّتَسْكُنُواْ إِلَيْهَا وَ جَعَلَ بَيْنَكُم مَّوَدَّةً
+> وَرَحْمَةً إِنَّ فِى ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 
 ***“And one of His signs is that He created you from dust, then lo! you
 are mortals (who) scatter. And one of His signs is that He created mates
@@ -187,15 +167,11 @@ a people who reflect.” (30/20-21)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ خَلْقُ السَّمَوَاتِ وَالْأَرْضِ وَاخْتِلاَفُ
-أَلْسِنَتِكُمْ وَ أَلْوَانِكُمْ إِنَّ فِى ذَلِكَ لَآيَاتٍ
-لِّلْعَالِمِينَ \* وَمِنْ آيَاتِهِ مَنَامُكُم بِالَّيْلِ وَالنَّهَارِ
-وَابْتِغَآؤُكُم مِّن فَضْلِهِ إِنَّ فِى ذَلِكَ لَآيَاتٍ لِّقَوْمٍ
-يَسْمَعُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ خَلْقُ السَّمَوَاتِ وَالْأَرْضِ وَاخْتِلاَفُ
+> أَلْسِنَتِكُمْ وَ أَلْوَانِكُمْ إِنَّ فِى ذَلِكَ لَآيَاتٍ
+> لِّلْعَالِمِينَ \* وَمِنْ آيَاتِهِ مَنَامُكُم بِالَّيْلِ وَالنَّهَارِ
+> وَابْتِغَآؤُكُم مِّن فَضْلِهِ إِنَّ فِى ذَلِكَ لَآيَاتٍ لِّقَوْمٍ
+> يَسْمَعُونَ
 
 ***“And one of His signs is the creation of the heavens and the earth
 and the diversity of your tongues and colors; most surely there are
@@ -212,7 +188,6 @@ And He says:
 
 ْ
 
-  
 ئاً وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَرَ وَالْأَفْئِدَةَ لَعَلَّكُمْ
 تَشْكُرُونَ‏
 
@@ -222,12 +197,8 @@ that you may give thanks.” (16:78)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ / أَفَرَءَيْتُم مَّا
-تُمْنُونَ / أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ‏
-  </p>
-</blockquote>
+> نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ / أَفَرَءَيْتُم مَّا
+> تُمْنُونَ / أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ‏
 
 ***“We have created you, why do you not then assent? Have you considered
 the seed? Is it you that create it or are We the creators?”
@@ -235,13 +206,9 @@ the seed? Is it you that create it or are We the creators?”
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَى‏ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئاً
-مَذْكُوراً \* إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ
-نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعاً بَصِيراً
-  </p>
-</blockquote>
+> هَلْ أَتَى‏ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئاً
+> مَذْكُوراً \* إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ
+> نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعاً بَصِيراً
 
 ***“There surely came over man a period of time when he was a thing not
 worth mentioning. Surely We have created man from a small life-germ
@@ -282,16 +249,12 @@ B) Verses that emphasize contemplation on creation of plants, fruits and human f
 
 The Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِى أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ
-نَبَاتَ كُلِّ شَىْ‏ءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُخْرِجُ مِنْهُ
-حَبّاً متَرَاكِباً وَمِنَ الْنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ
-وَجَنَّتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهاً
-وَغَيْرَ مَتَشَبِهٍ انظُرُواْ إِلَى‏ ثَمَرِهِ إِذَا أَثْمَرَ
-وَيَنْعِهِ إِنَّ فِى ذَ لِكُمْ لَأَيَتٍ لِقَوْمٍ يُؤْمِنُونَ‏
-  </p>
-</blockquote>
+> وَهُوَ الَّذِى أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ
+> نَبَاتَ كُلِّ شَىْ‏ءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُخْرِجُ مِنْهُ
+> حَبّاً متَرَاكِباً وَمِنَ الْنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ
+> وَجَنَّتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهاً
+> وَغَيْرَ مَتَشَبِهٍ انظُرُواْ إِلَى‏ ثَمَرِهِ إِذَا أَثْمَرَ
+> وَيَنْعِهِ إِنَّ فِى ذَ لِكُمْ لَأَيَتٍ لِقَوْمٍ يُؤْمِنُونَ‏
 
 ***“And He it is Who sends down water from the cloud, then We bring
 forth with it buds of all (plants), then We bring forth from it green
@@ -304,14 +267,10 @@ believe.” (6:99)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَفِى الْأَرْضِ قِطَعٌ مُّتَجَوِرَ تٌ وَجَنَّتٌ مِّنْ أَعْنَبٍ وَ
-زَرْعٌ وَ نَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَى‏ بِمَآءٍ وَ
-حِدٍ وَ نُفَضِّلُ بَعْضَهَا عَلَى‏ بَعْضٍ فِى الْأُكُلِ إِنَّ فِى ذَ
-لِكَ لَأَيَتٍ لِّقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَفِى الْأَرْضِ قِطَعٌ مُّتَجَوِرَ تٌ وَجَنَّتٌ مِّنْ أَعْنَبٍ وَ
+> زَرْعٌ وَ نَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَى‏ بِمَآءٍ وَ
+> حِدٍ وَ نُفَضِّلُ بَعْضَهَا عَلَى‏ بَعْضٍ فِى الْأُكُلِ إِنَّ فِى ذَ
+> لِكَ لَأَيَتٍ لِّقَوْمٍ يَعْقِلُونَ
 
 ***“And in the earth there are tracts side by side and gardens of grapes
 and corn and palm trees having one root and (others) having distinct
@@ -321,14 +280,10 @@ understand.” (13:4)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ إِلَى‏ طَعَامِهِ/ أَنَّا صَبَبْنَا الْمَآءَ
-صَبّاً / ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً / فَأَنبَتْنَا فِيهَا حَبّاً
-/ وَ عِنَباً وَقَضْباً / وَزَيْتُوناً وَنَخْلاً / وَ حَدَآئِقَ غُلْباً
-/ وَفَاكِهَةً وَأَبّاً / مَّتَاعاً لَّكُمْ وَلِأَنْعَامِكُمْ
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ إِلَى‏ طَعَامِهِ/ أَنَّا صَبَبْنَا الْمَآءَ
+> صَبّاً / ثُمَّ شَقَقْنَا الْأَرْضَ شَقّاً / فَأَنبَتْنَا فِيهَا حَبّاً
+> / وَ عِنَباً وَقَضْباً / وَزَيْتُوناً وَنَخْلاً / وَ حَدَآئِقَ غُلْباً
+> / وَفَاكِهَةً وَأَبّاً / مَّتَاعاً لَّكُمْ وَلِأَنْعَامِكُمْ
 
 ***“Then let man look to his food, that We pour down the water, pouring
 (it) down in abundance, then We cleave the earth, cleaving (it) asunder,
@@ -338,13 +293,9 @@ provision for you and for your cattle.” (80:24-32)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَءَيْتُم مَّا تَحْرُثُونَ / أَأَنتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ
-الزَّ ارِعُونَ / لَوْ نَشَآءُ لَجَعَلْنَاهُ حُطَاماً فَظَلْتُمْ
-تَفَكَّهُونَ‏
-  </p>
-</blockquote>
+> أَفَرَءَيْتُم مَّا تَحْرُثُونَ / أَأَنتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ
+> الزَّ ارِعُونَ / لَوْ نَشَآءُ لَجَعَلْنَاهُ حُطَاماً فَظَلْتُمْ
+> تَفَكَّهُونَ‏
 
 ***“Have you considered what you sow? Is it you that cause it to grow,
 or are We the causers of growth? If We pleased, We should have certainly
@@ -353,14 +304,10 @@ made it broken down into pieces, then would you begin to lament.”
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-ألَّذِى جَعَلَ لَكُمُ الْأَرْضَ مَهْداً وَسَلَكَ لَكُمْ فِيهَا سُبُلاً
-وَأَنزَلَ مِنَ السَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِ أَزْوَاجاً مِّن
-نَّبَاتٍ شَتَّى‏ / كُلُواْ وَارْعَوْاْ أَنْعَامَكُمْ إِنَّ فِى ذَ لِكَ
-لَآيَاتٍ لاُِّوْلِى النُّهَى‏
-  </p>
-</blockquote>
+> ألَّذِى جَعَلَ لَكُمُ الْأَرْضَ مَهْداً وَسَلَكَ لَكُمْ فِيهَا سُبُلاً
+> وَأَنزَلَ مِنَ السَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِ أَزْوَاجاً مِّن
+> نَّبَاتٍ شَتَّى‏ / كُلُواْ وَارْعَوْاْ أَنْعَامَكُمْ إِنَّ فِى ذَ لِكَ
+> لَآيَاتٍ لاُِّوْلِى النُّهَى‏
 
 ***“Who made the earth for you an expanse and made for you therein paths
 and sent down water from the cloud; then thereby We have brought forth
@@ -395,16 +342,12 @@ C) Verses that emphasize contemplation on the importance of rain and water
 
 The Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِى خَلْقِ الْسَّمَوَ تِ وَالْأَرْضِ وَاخْتِلَفِ اللَّيْلِ
-وَالنَّهَارِ وَ الْفُلْكِ الّتِى تَجْرِى فِى الْبَحْرِ بِمَا يَنْفَعُ
-الْنَّاسَ وَمَآ أَنْزَلَ اللَّهُ مِنَ الْسَّمآءِ مِنْ مَّآءٍ فَأَحْيَا
-بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِنْ كُلِّ دَآبَّةٍ
-وَتَصْرِيفِ الْرِّيَحِ وَالْسَّحَابِ الْمُسَخَّرِ بَيْنَ الْسَّمَآءِ
-وَ الْأَرْضِ لَأَيَتٍ لِّقَوْمٍ يَعْقِلُونَ‏
-  </p>
-</blockquote>
+> إِنَّ فِى خَلْقِ الْسَّمَوَ تِ وَالْأَرْضِ وَاخْتِلَفِ اللَّيْلِ
+> وَالنَّهَارِ وَ الْفُلْكِ الّتِى تَجْرِى فِى الْبَحْرِ بِمَا يَنْفَعُ
+> الْنَّاسَ وَمَآ أَنْزَلَ اللَّهُ مِنَ الْسَّمآءِ مِنْ مَّآءٍ فَأَحْيَا
+> بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِنْ كُلِّ دَآبَّةٍ
+> وَتَصْرِيفِ الْرِّيَحِ وَالْسَّحَابِ الْمُسَخَّرِ بَيْنَ الْسَّمَآءِ
+> وَ الْأَرْضِ لَأَيَتٍ لِّقَوْمٍ يَعْقِلُونَ‏
 
 ***“Most surely in the creation of the heavens and the earth and the
 alternation of the night and the day, and the ships that run in the sea
@@ -416,13 +359,9 @@ signs for a people who understand.” (2:164)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَاَيْتُمُ الْمَآءَ الَّذِى تَشْرَبُونَ / أَأَنتُمْ أَنزَلُْتمُوهُ
-مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنزِلُونَ / لَوْ نَشَآءُ جَعَلْنَاهُ
-أُجَاجاً فَلَوْلَا تَشْكُرُونَ‏
-  </p>
-</blockquote>
+> أَفَرَاَيْتُمُ الْمَآءَ الَّذِى تَشْرَبُونَ / أَأَنتُمْ أَنزَلُْتمُوهُ
+> مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنزِلُونَ / لَوْ نَشَآءُ جَعَلْنَاهُ
+> أُجَاجاً فَلَوْلَا تَشْكُرُونَ‏
 
 ***“Have you considered the water which you drink? Is it you that send
 it down from the clouds, or are We the senders? If We pleased, We would
@@ -430,14 +369,10 @@ have made it salty; why do you not then give thanks?” (56:68-70)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِى خَلَقَ السَّمَوَتِ وَالْأَرْضَ وَأَنزَلَ مِنَ
-السَّمَآءِ مَآءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَتِ رِزْقاً لَّكُمْ
-وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِىَ فِى الْبَحْرِبِأَمْرِهِ
-وَسَخَّرَ لَكُمُ الْأَنْهَرَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِى خَلَقَ السَّمَوَتِ وَالْأَرْضَ وَأَنزَلَ مِنَ
+> السَّمَآءِ مَآءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَتِ رِزْقاً لَّكُمْ
+> وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِىَ فِى الْبَحْرِبِأَمْرِهِ
+> وَسَخَّرَ لَكُمُ الْأَنْهَرَ
 
 ***“Allah is He Who created the heavens and the earth and sent down
 water from the clouds, then brought forth with it fruits as a sustenance
@@ -467,5 +402,4 @@ His creation and for those who have sense, it is worth contemplation;
 and the order, coordination and connection between human beings,
 animals, plants, heat of the sun, wind and earth show that these are the
 best evidences of the existence of a wise and powerful creator.
-
 

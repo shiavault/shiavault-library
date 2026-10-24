@@ -103,4 +103,3 @@ so does Ibn al-Athir in his book Al-Kamil.
 
 [^3]: al-Tabari, Tarikh, Vol. 6, p. 236.
 
-

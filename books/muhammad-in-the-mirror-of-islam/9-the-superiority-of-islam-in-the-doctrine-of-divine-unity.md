@@ -28,4 +28,3 @@ However, since further elucidation of this doctrine would mean that we
 must enter a philosophical discussion which is not in keeping with the
 nature of the present article, for the present we must leave this aside.
 
-

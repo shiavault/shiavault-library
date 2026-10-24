@@ -113,4 +113,3 @@ revision and recasting of the whole.
 **LAHORE:
 June 1908.**
 
-

@@ -28,4 +28,3 @@ of Allah (SWT) in an attempt to shed the spotlight on this beautiful
 narration with the hope of extracting some jewels of lessons for our
 benefit and the benefit of our fellow believers.
 
-

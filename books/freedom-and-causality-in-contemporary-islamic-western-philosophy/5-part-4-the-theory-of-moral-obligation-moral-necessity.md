@@ -144,11 +144,7 @@ As it was quoted in the previous discussions from the Islamic and
 eastern philosophers, it is possible to summarize the meaning of a ‘free
 agent’ or ‘voluntary agent’ in this conditional clause:
 
-<blockquote dir="rtl">
-  <p>
-ان شاء فعل و ان لم يشاء لم يفعل
-  </p>
-</blockquote>
+> ان شاء فعل و ان لم يشاء لم يفعل
 
 *Translation: ‘He will do it if he wants to, and he will not do it if he
 does not want to’.*
@@ -789,11 +785,7 @@ through these moral criterions which are the base of formation of the
 
 As Mowlawi says regarding the individual personality of man:
 
-<blockquote dir="rtl">
-  <p>
-ای برادر تو همین اندیشه ای نی همین یک استخوان و ریشه ای
-  </p>
-</blockquote>
+> ای برادر تو همین اندیشه ای نی همین یک استخوان و ریشه ای
 
 *Translation: Oh brother, you are merely a thought, not just bones and
 roots.*
@@ -803,11 +795,7 @@ man in which the moral beliefs are formed.
 
 Also as the Arab poet says:
 
-<blockquote dir="rtl">
-  <p>
-و انما الامم الاحلاق ما بعيت فان ذهبت اخلاقهم ذهبوا
-  </p>
-</blockquote>
+> و انما الامم الاحلاق ما بعيت فان ذهبت اخلاقهم ذهبوا
 
 *Translation: the nations are nothing but their behaviour, by
 destruction of their morals and moral values, the existence of the
@@ -1219,5 +1207,4 @@ way of life and transform his behaviour and personality, it is only his
 decision that is the final determinative in this regard.
 
 [^1]: The Holy Quran, Chapter 54, verse 50
-
 

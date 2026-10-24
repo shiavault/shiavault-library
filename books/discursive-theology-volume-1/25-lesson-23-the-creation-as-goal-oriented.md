@@ -19,11 +19,7 @@ that the actions of God have a purpose is that an action which is devoid
 of any purpose[^1] and motive is futile and abominable, and God is
 immune from any abominable action. As Muḥaqqiq al-Ṭūsī has said,
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْيُ الْغَرَضِ يَسْتَلزِمُ الْعَبَث.
-  </p>
-</blockquote>
+> وَنَفْيُ الْغَرَضِ يَسْتَلزِمُ الْعَبَث.
 
 “And the negation of motive necessitates futility.”[^2]
 
@@ -42,11 +38,7 @@ agent, this does not connote the agent’s compensation for his defect and
 desire for perfection. As Muḥaqqiq al-Ṭūsī has said in continuation to
 his earlier expression,
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَلْزَمُ عَوْدُهُ إلَيْهِ.
-  </p>
-</blockquote>
+> وَلا يَلْزَمُ عَوْدُهُ إلَيْهِ.
 
 That is to say that the motive for the actions of God is not necessarily
 traceable to Him. In fact, the motive for His actions is related to the
@@ -151,29 +143,17 @@ prescribed punishments (*ḥudūd*) and retributions (*kaffārāt*), and the
 unlawfulness of intoxicants and the like, as also testified by religious
 texts. The Holy Qur’an has stated, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿ مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ ﴾
-  </p>
-</blockquote>
+> ﴿ مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ ﴾
 
 ***“That is why We decreed for the Children of Israel.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لا
-يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لا
+> يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ ﴾
 
 ***“So when Zayd had got through with her, We wedded her to you, so that
 there may be no blame on the faithful.”***[^9]
@@ -195,11 +175,7 @@ theosophers as compatible with the Ash‘arī viewpoint on the question of
 goal-orientedness of the actions of God, and thus said after quoting the
 Ash‘arī viewpoint: [^11]
 
-<blockquote dir="rtl">
-  <p>
-وَ وافَقَهُمْ عَلىٰ ذٰلِكَ جهابذةُ الْحُكَماءِ وَطَوائِفُ الإِلهين.
-  </p>
-</blockquote>
+> وَ وافَقَهُمْ عَلىٰ ذٰلِكَ جهابذةُ الْحُكَماءِ وَطَوائِفُ الإِلهين.
 
 This understanding of the words of theosophers is not correct. For
 instance, Ṣadr al-Muta’allihīn has said:
@@ -249,41 +225,25 @@ The Qur’an and the Goal-orientedness of the Universe
 Verses of the Qur’an explicitly support the goal-orientedness of the
 universe, as it has thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْنَا السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا إِلا
-بِالْحَقِّ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْنَا السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا إِلا
+> بِالْحَقِّ ﴾
 
 ***“We did not create the heavens and the earth and whatever is between
 them except with reason.”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْنَا السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
-﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْنَا السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
+> ﴾
 
 ***“We did not create the heavens and the earth and whatever is between
 them for play.”***[^15]
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا خَلَقْنَا السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا إِلا
-بِالْحَقِّ وَأَجَلٍ مُسَمًّى ﴾
-  </p>
-</blockquote>
+> ﴿ مَا خَلَقْنَا السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا إِلا
+> بِالْحَقِّ وَأَجَلٍ مُسَمًّى ﴾
 
 ***“We did not create the heavens and the earth and whatever is between
 them except with reason and for a specified term.”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ﴾
 
 ***“We did not create the sky and the earth and whatever is between them
 in vain.”***[^17]
@@ -302,22 +262,14 @@ Qur’an, man’s life and his culmination are regarded as the motive or
 goal behind the creation of the earth and the bounties of nature. It
 thus says for instance:
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الأرْضِ جَمِيعًا ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الأرْضِ جَمِيعًا ﴾
 
 ***“It is He who created for you all that is in the earth.”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاللَّهُ جَعَلَ لَكُمْ مِمَّا خَلَقَ ظِلالا وَجَعَلَ لَكُمْ مِنَ
-الْجِبَالِ أَكْنَانًا وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ
-وَسَرَابِيلَ تَقِيكُمْ بَأْسَكُمْ كَذَلِكَ يُتِمُّ نِعْمَتَهُ
-عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاللَّهُ جَعَلَ لَكُمْ مِمَّا خَلَقَ ظِلالا وَجَعَلَ لَكُمْ مِنَ
+> الْجِبَالِ أَكْنَانًا وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ
+> وَسَرَابِيلَ تَقِيكُمْ بَأْسَكُمْ كَذَلِكَ يُتِمُّ نِعْمَتَهُ
+> عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ ﴾
 
 ***“It is Allah who has made for you shade from what He created, and
 made for you retreats in the mountains, and made for you garments that
@@ -329,12 +281,8 @@ Regarding the fact that the creation of man is not in vain and the
 purpose behind his creation will be realized in the other world, it thus
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لاَ تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لاَ تُرْجَعُونَ ﴾
 
 ***“Did you suppose that We created you aimlessly, and*** ***that you
 will not be brought back to Us?”***[^21]
@@ -344,31 +292,19 @@ other goals which include trial and test, worship and devotion to God,
 submission and obedience to Him. The following verses express these
 goals:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا جَعَلْنَا مَا عَلَى الأرْضِ زِينَةً لَهَا لِنَبْلُوَهُمْ
-أَيُّهُمْ أَحْسَنُ عَمَلا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا جَعَلْنَا مَا عَلَى الأرْضِ زِينَةً لَهَا لِنَبْلُوَهُمْ
+> أَيُّهُمْ أَحْسَنُ عَمَلا ﴾
 
 ***“Indeed We have made whatever is on the earth an adornment for it
 that We may test them [to see] which of them is best in
 conduct.”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.”***[^23]
 
-<blockquote dir="rtl">
-  <p>
-﴿ كَذَلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ كَذَلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ ﴾
 
 ***“That is how He completes His blessing upon you so that you may
 submit [to Him].”***[^24]
@@ -391,11 +327,7 @@ the universe is through the excellence and superiority of action. For
 instance, this Sacred Tradition (*ḥadīth al-qudsī*)[^25] which is
 addressed to the Holy Prophet (*ṣ*) speaks about this fact:
 
-<blockquote dir="rtl">
-  <p>
-لَوْلاكَ لَما خَلَقْتُ الأَفْلاكَ.
-  </p>
-</blockquote>
+> لَوْلاكَ لَما خَلَقْتُ الأَفْلاكَ.
 
 *“Had it not been for you, I would not have created the heavenly
 firmaments.”*[^26]
@@ -481,5 +413,4 @@ are sayings of God but differ from the Qur’an as they are expressed in
 the words of Prophet Muḥammad (ṣ). [Trans.]
 
 [^26]: Al-Mīzān fī Tafsīr al-Qur’ān, vol. 10, p. 152.
-
 

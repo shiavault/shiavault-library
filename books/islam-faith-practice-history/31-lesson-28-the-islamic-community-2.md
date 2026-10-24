@@ -345,4 +345,3 @@ Perspectives, p. 69.
 
 [^3]: The Autobiography, p. 340.
 
-

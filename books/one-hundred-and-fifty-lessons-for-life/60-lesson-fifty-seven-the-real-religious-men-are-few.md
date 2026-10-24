@@ -3,13 +3,9 @@ Lesson Fifty Seven: The Real Religious Men Are Few
 
 Imam Husayn (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلنّاسُ عَبيْدُ الدُّنْيا وَ الدِّينُ لَعِقٌ عَلَى أَلْسِنَتِهِمْ
-يَحُوطُونَهُ ما دَرَّتْ بِهِ مَعايِشُهُمْ فَإذا مُحِّصُوا بِالْبَلاءِ
-قَلَّ الدَّيآنُونَ!
-  </p>
-</blockquote>
+> اَلنّاسُ عَبيْدُ الدُّنْيا وَ الدِّينُ لَعِقٌ عَلَى أَلْسِنَتِهِمْ
+> يَحُوطُونَهُ ما دَرَّتْ بِهِ مَعايِشُهُمْ فَإذا مُحِّصُوا بِالْبَلاءِ
+> قَلَّ الدَّيآنُونَ!
 
 Translation
 -----------
@@ -39,5 +35,4 @@ religion in every situation, and religion and belief dictate their
 priorities in life, not personal interests.
 
 [^1]: Bihar al-Anwar, volume 10, page 198
-
 

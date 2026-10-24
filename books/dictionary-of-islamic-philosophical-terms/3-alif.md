@@ -224,7 +224,6 @@ seven kinds of minerals or metals: gold (dhahab), silver (fiddah), lead
 (rasas), black lead (usrub), iron (hadid), copper (nahas) and a hard
 glass substance (kharsin).
 
-
 -
 
 al-ajnas al-‘ashr
@@ -1099,5 +1098,4 @@ connection with the problems that arise in science. Ayyan denotes that
 form of the question which is put to know the differential quality of a
 thing in order to distinguish it from other things belonging to the same
 class; see also muta‘alliqat al-qiyas wa‘l-burhan.
-
 

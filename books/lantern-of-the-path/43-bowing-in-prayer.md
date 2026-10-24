@@ -21,4 +21,3 @@ will elevate His bondsmen according to their humility to Him, and will
 guide them to the roots of humility, submission and abasement according
 to how well their innermost being is acquainted with His immensity.
 
-

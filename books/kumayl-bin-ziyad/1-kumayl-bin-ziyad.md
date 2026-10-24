@@ -14,4 +14,3 @@ clear sky full of stars:
 
 *And everything has yielded to it...*
 
-

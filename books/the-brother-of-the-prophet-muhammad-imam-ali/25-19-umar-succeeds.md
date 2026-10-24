@@ -783,4 +783,3 @@ p.62.
 
 [^18]: Ibn Abu Al-Hadid Commentaries on Nahjul-Balaghah Vol. 2 p.277.
 
-

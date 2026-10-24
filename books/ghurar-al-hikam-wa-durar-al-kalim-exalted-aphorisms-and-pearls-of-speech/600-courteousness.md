@@ -7,10 +7,5 @@ Courteousness
 you to show courtesy [and kindness] in trying to remedy his affliction.
 
 > 1ـ مَنْ كُنْتَ سَبَباً لَهُ في بَلائِهِ، وَجَبَ عَلَيْكَ التَّلَطُّفُ
-<blockquote dir="rtl">
-  <p>
-في عَلاجِ دائِهِ.
-  </p>
-</blockquote>
-
+> في عَلاجِ دائِهِ.
 

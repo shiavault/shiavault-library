@@ -35,4 +35,3 @@ animal, a tall tree)
 related to a verb or noun. For example: the *lā* of negation for it does
 not have a meaning unless one says **لا یضرِبُ** ( don't hit).
 
-

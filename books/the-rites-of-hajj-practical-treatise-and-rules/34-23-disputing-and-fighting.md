@@ -39,4 +39,3 @@ because of kindness (not because of enmity) or says that “I swear to
 Allah to let me do it for you” then this is not Haraam and has not
 atonement.
 
-

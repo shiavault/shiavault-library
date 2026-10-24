@@ -33,4 +33,3 @@ precaution it is better to subtract the amount of money for this act
 from the main inheritance, with the satisfaction of all heir if they are
 all adults.
 
-

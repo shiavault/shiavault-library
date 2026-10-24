@@ -879,4 +879,3 @@ identified himself as a populist. The populist movement for the 21st
 century needs to draw on this heritage. Finally, populism challenges
 technocracy.
 
-

@@ -60,4 +60,3 @@ explanatory points (concerning each one of them).
 
 [^1]: Dalael al-Sidq, vol. 1, p. 58.
 
-

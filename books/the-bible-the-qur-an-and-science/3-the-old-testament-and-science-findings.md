@@ -556,4 +556,3 @@ himself. It is a great pity that the majority of commentators, both
 Jewish and Christian, do not hold with it. The arguments they use
 nevertheless deserve careful attention.
 
-

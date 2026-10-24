@@ -89,7 +89,6 @@ for women. If he was riding an animal he should make his animal to brisk
 walk without annoying anyone, and then walk normally from the second
 landmark to Marwah. He should do the same on return.
 
-
 **The Obligations of Sa‘y**
 
 369. The following are mandatory in sa‘y
@@ -281,7 +280,6 @@ taqseer, he is still not discharged from his ihraam, and his case is
 that of a muhrim who has committed some of the prohibited acts while in
 the state of ihraam.
 
-
 **Miscellaneous issues**
 
 395. After completing the rites of Tamattu‘ Umrah, the pilgrim must
@@ -299,5 +297,4 @@ Makkah and Mina, without it being makruh.
 28 Tawaaf al-Nisa’ is only applicable for the Tamattu‘ Hajj, and
 husband and wife only become halaal to each other after performing this
 tawaaf and its prayer.
-
 

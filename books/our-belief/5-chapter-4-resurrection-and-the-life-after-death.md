@@ -333,4 +333,3 @@ bounties with which you live in felicity.’"
 that:"O You Serene Soul! Return to your LORD! Joyful and pleasing in his
 sight. Enter My Paradise and join My Servants." (Holy Qur’an, 89:27)***
 
-

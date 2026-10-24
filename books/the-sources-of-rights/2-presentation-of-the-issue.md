@@ -56,4 +56,3 @@ doubtful cases wherein it is not every specific rules and complex
 formulae. It is about these rules and formulae that we have to endeavor
 and find them out.
 
-

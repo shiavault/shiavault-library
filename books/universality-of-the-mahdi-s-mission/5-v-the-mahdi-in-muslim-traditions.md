@@ -118,4 +118,3 @@ Imam Mahdi will bring such to the book, especially if they were the
 ones who laid the foundation of persecution of Ahlul Bait and
 subsequently caused the tragedy of Karbala.
 
-

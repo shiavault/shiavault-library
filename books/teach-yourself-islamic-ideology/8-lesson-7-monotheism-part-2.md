@@ -109,4 +109,3 @@ monotheistic insight have upon the behavior of a monotheist?
 
 3. What do you know about God's Qualities?
 
-

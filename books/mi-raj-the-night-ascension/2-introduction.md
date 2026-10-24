@@ -1,19 +1,11 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله رب العالمين بارئ الخلائق أجمعين وصلى الله على سيدنا محمد وأل
-بيته الطيبين الطاهرين سيَما الإمام المنتظر المهديِّ صاحب الزمان عليه
-أفضل التحية والسلام واللعن الدائم على أعدائهم أجمعين إلى يوم الدين.
-  </p>
-</blockquote>
+> الحمد لله رب العالمين بارئ الخلائق أجمعين وصلى الله على سيدنا محمد وأل
+> بيته الطيبين الطاهرين سيَما الإمام المنتظر المهديِّ صاحب الزمان عليه
+> أفضل التحية والسلام واللعن الدائم على أعدائهم أجمعين إلى يوم الدين.
 
  
 
@@ -31,13 +23,9 @@ enemies until the Day of Resurrection.*
 established great speech:  
   
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
-لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
+> لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
 *"Glorified be He who carried His servant from Masjid* *al‑Haram to
 Masjid al‑Aqsa, the precincts of which We have blessed, so that We may
@@ -56,12 +44,8 @@ principal beliefs such that is has been narrated from Imam Ja'far ibn
 Muhammad al‑Sadiq and from Imam 'Ali ibn Musa al‑Rida that:  
   
 
-<blockquote dir="rtl">
-  <p>
-من أنكر ثلاثة أشياء فليس من شيعتنا – المعراج – المسئلة في القبر
-والشفاعة.
-  </p>
-</blockquote>
+> من أنكر ثلاثة أشياء فليس من شيعتنا – المعراج – المسئلة في القبر
+> والشفاعة.
 
    
  "One who denies (any of these) three things is not among our Shi\`a
@@ -79,14 +63,9 @@ presented in a summarized and beneficial manner. It is hoped that the
 dear readers will forgive the mistakes and slips of the pen.  
   
 
-<blockquote dir="rtl">
-  <p>
-وعلى الله الإتكال وهو حسبي ونعم الوكيل نعم المولى ونعم المصير.
-  </p>
-</blockquote>
+> وعلى الله الإتكال وهو حسبي ونعم الوكيل نعم المولى ونعم المصير.
 
    
  Muhammad Faidh al‑Kashani  
   
-
 

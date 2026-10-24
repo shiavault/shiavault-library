@@ -46,4 +46,3 @@ Islamic jurisprudence is what connects this world to the next.
 
 [^3]: Refer to 2:143
 
-

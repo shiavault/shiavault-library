@@ -121,12 +121,9 @@ your brother he will treat you)
 
 إذَا (Iđā used in poetry specifically)
 
-<p dir="rtl">
 ( استغنِ ما أغناك ربك بالغنى \*وإذا تُصِبْك خصاصة فتحمَّلِ )
-</p>
 
 (Seek wealth for as long as your Lord enriches you with wealth
 
 Andwhen poverty strikes you then persevere)
-
 

@@ -153,4 +153,3 @@ mutual love, because a person loves one who is kind to him and supports
 him. His flowing tears showed that the Prophet was feeling that he had
 lost something which was as dear to him as his own life.
 
-

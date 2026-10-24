@@ -726,4 +726,3 @@ man is this, that even the winds and the sea obey him! (KJV)
 
 [^18]: Bihar 1, 186, 11
 
-

@@ -1797,4 +1797,3 @@ Qur'an says:
 ***"Now surely the friends of Allah - they shall have no fear nor shall
 they grieve."(10:62)***
 
-

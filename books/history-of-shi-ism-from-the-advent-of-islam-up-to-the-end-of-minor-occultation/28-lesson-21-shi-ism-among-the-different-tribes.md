@@ -8,17 +8,9 @@ and soldiers of the Commander of the Faithful (*‘a*) were Arab tribes
 from the south (Yemen) and Qahtanis. For instance, the Imam (*‘a*) thus
 said in Rajzi, one of the battle arenas in Siffin:
 
-<blockquote dir="rtl">
-  <p>
-أنا الغلام القرشي المؤتمن الماجد الأبيض ليث كالشّطن
-  </p>
-</blockquote>
+> أنا الغلام القرشي المؤتمن الماجد الأبيض ليث كالشّطن
 
-<blockquote dir="rtl">
-  <p>
-يرضى به السّادة من اهل اليمن من ساكني نجد و من اهل عدن
-  </p>
-</blockquote>
+> يرضى به السّادة من اهل اليمن من ساكني نجد و من اهل عدن
 
 *I am a Qurayshi* *youth—trustworthy, great, pure, and like a lion—with
 whom the distinguished men of the people of Yemen from among the
@@ -88,11 +80,7 @@ the army of Mu‘awiyah.”[^7]
 
 Regarding Hamdan, ‘Ali has said:
 
-<blockquote dir="rtl">
-  <p>
-ولو كنت بوّاباً على باب الجنّة لقلت لِحَمْدان أدخلوا بسلام
-  </p>
-</blockquote>
+> ولو كنت بوّاباً على باب الجنّة لقلت لِحَمْدان أدخلوا بسلام
 
 *If I were the gatekeeper of paradise, I shall say to the tribe of*
 *Hamdan, “Enter in peace!”*[^8]
@@ -100,23 +88,11 @@ Regarding Hamdan, ‘Ali has said:
 Mu‘awiyah held a great grudge against the Hamdanis. One day during the
 Battle of Siffin, he went to the battle arena and recited this poem:
 
-<blockquote dir="rtl">
-  <p>
-لا عيش الاّ فلق الهام من أرحب و يشكر شبام
-  </p>
-</blockquote>
+> لا عيش الاّ فلق الهام من أرحب و يشكر شبام
 
-<blockquote dir="rtl">
-  <p>
-قوم هم اعداء اهل الشام كم من كريم بطل همام
-  </p>
-</blockquote>
+> قوم هم اعداء اهل الشام كم من كريم بطل همام
 
-<blockquote dir="rtl">
-  <p>
-وكم قتيل و جريح ذام كذاك حرب السّادة الكرام
-  </p>
-</blockquote>
+> وكم قتيل و جريح ذام كذاك حرب السّادة الكرام
 
 *I shall not live unless I rip the heads of those of (the clans of)
 Arhab, Yashkar and Shabam (from the tribe of* *Hamdan).*
@@ -129,11 +105,7 @@ battle of the gallant noblemen.*
 
 Then, by reciting this epic verse:
 
-<blockquote dir="rtl">
-  <p>
-اللهم رب الحلّ والحرام لا تجعل الملك لاهل الشام
-  </p>
-</blockquote>
+> اللهم رب الحلّ والحرام لا تجعل الملك لاهل الشام
 
 *O Lord of* hall *and* haram*! Do not bestow the rule to the people of
 Sham,*
@@ -146,23 +118,11 @@ end, the people of Sham accepted defeat and fled. At this juncture, the
 Commander of the Faithful (*‘a*) recited this poem to encourage the
 Hamdanis:
 
-<blockquote dir="rtl">
-  <p>
-فوارس من حمدان ليسوا بعزل غذاة الوغى من شاكر و شبام
-  </p>
-</blockquote>
+> فوارس من حمدان ليسوا بعزل غذاة الوغى من شاكر و شبام
 
-<blockquote dir="rtl">
-  <p>
-يقودهم حامى الحقيقة ماجد سعيد بن قيس و الكريم محام
-  </p>
-</blockquote>
+> يقودهم حامى الحقيقة ماجد سعيد بن قيس و الكريم محام
 
-<blockquote dir="rtl">
-  <p>
-جزى الله همد ان الجنان فانهم سهام العدى في كلّ يوم حمام
-  </p>
-</blockquote>
+> جزى الله همد ان الجنان فانهم سهام العدى في كلّ يوم حمام
 
 *Horsemen of* *Hamdan from (the tribes of) Shakir and Shabam do not
 slacken in the morning battle.*
@@ -178,23 +138,11 @@ especially during the Battle of Siffin. For instance, ‘Amr ibn al-‘As
 addressed the tribe of Hamdan on one of the days of the Battle of
 Siffin, saying:
 
-<blockquote dir="rtl">
-  <p>
-الموت يغشاه من القوم الانف يوم لهمدان و يوم للصّدف
-  </p>
-</blockquote>
+> الموت يغشاه من القوم الانف يوم لهمدان و يوم للصّدف
 
-<blockquote dir="rtl">
-  <p>
-و في سدوس نحوه ما ينخرف نضربها بالسّيف حتى ينصرف
-  </p>
-</blockquote>
+> و في سدوس نحوه ما ينخرف نضربها بالسّيف حتى ينصرف
 
-<blockquote dir="rtl">
-  <p>
-و لتميم مثلها او يعترف
-  </p>
-</blockquote>
+> و لتميم مثلها او يعترف
 
 *It shall receive death from this tribe; one day,* *Hamdan is victorious
 while another day it is just a shell.*
@@ -211,23 +159,11 @@ of Siffin against Mu‘awiyah. Among these women were Sawdah Hamdaniyyah
 and Zurqa’ Hamdaniyyah, daughters of ‘Addi ibn Qays.[^11] Sawdah
 addressed his father saying:
 
-<blockquote dir="rtl">
-  <p>
-شعر كفعل ابيك يابن عمارة يوم الطّعان و ملتقى الاقران
-  </p>
-</blockquote>
+> شعر كفعل ابيك يابن عمارة يوم الطّعان و ملتقى الاقران
 
-<blockquote dir="rtl">
-  <p>
-وانصر عليّاً و الحسين و رهطه واقصد لهند و ابنها بهوان
-  </p>
-</blockquote>
+> وانصر عليّاً و الحسين و رهطه واقصد لهند و ابنها بهوان
 
-<blockquote dir="rtl">
-  <p>
-ان الإمام اخا النّبي محمّد علم الهدى و منارة الإيمان
-  </p>
-</blockquote>
+> ان الإمام اخا النّبي محمّد علم الهدى و منارة الإيمان
 
 > فقد الجيوش و سره امام لوائه قدماً بأبيض صارم و سنان530
 
@@ -244,11 +180,7 @@ Yemeni Shi‘ah in another part.[^13]
 When ‘Ali (*‘a*) heard that a number of the tribe of Rabi‘ah in Basrah
 attained martyrdom at the hands of the army of ‘A’ishah, he said:
 
-<blockquote dir="rtl">
-  <p>
-يا لهف نفسي على ربيعة ربيعة السّماعة المطيعة
-  </p>
-</blockquote>
+> يا لهف نفسي على ربيعة ربيعة السّماعة المطيعة
 
 *I pity the Rabi‘ah, the obedient and submissive Rabi‘ah!*[^14]
 
@@ -257,35 +189,15 @@ eulogies to them because they were his helpers and supporters as well as
 his pillar among pillars.” Among ‘Ali’s (*‘a*) statements about Rabi‘ah
 is the poem below which he recited during the Battle of Siffin:
 
-<blockquote dir="rtl">
-  <p>
-لمن راية سوداء يخفق ظلها إذا قيل قدمها حضين تقدماً
-  </p>
-</blockquote>
+> لمن راية سوداء يخفق ظلها إذا قيل قدمها حضين تقدماً
 
-<blockquote dir="rtl">
-  <p>
-فيوردها في الصف حتى يعلها حياض المنايا تقطر الموت و الدّما
-  </p>
-</blockquote>
+> فيوردها في الصف حتى يعلها حياض المنايا تقطر الموت و الدّما
 
-<blockquote dir="rtl">
-  <p>
-جزى الله قوماً قاتلوا في لقائه لدى الموت قدماً ما اعروا كرماً
-  </p>
-</blockquote>
+> جزى الله قوماً قاتلوا في لقائه لدى الموت قدماً ما اعروا كرماً
 
-<blockquote dir="rtl">
-  <p>
-واطيب أخباراً و اكرم شيمةً اذا كان اصوات الرجال تغمغما
-  </p>
-</blockquote>
+> واطيب أخباراً و اكرم شيمةً اذا كان اصوات الرجال تغمغما
 
-<blockquote dir="rtl">
-  <p>
-ربيعة أعنى إنَّهم أهل نجدة و بأس إذا لاقو، خميساً عرمرما
-  </p>
-</blockquote>
+> ربيعة أعنى إنَّهم أهل نجدة و بأس إذا لاقو، خميساً عرمرما
 
 *The one who has the black banner and it is hoisted—once it is said to
 him to bring forward the banner,*
@@ -398,5 +310,4 @@ Sami Makki al-‘Ani (Qum: Manshurat ash-Sharif ar-Radi, 1416 AH), p. 159.
 [^17]: Insab al-Ashraf, vol. 2, p. 306.
 
 [^18]: Murawwij adh-Dhahab, pp. 98-99.
-
 

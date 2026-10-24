@@ -61,4 +61,3 @@ passive participle:
 word, for example:  
 **سمعتُ شاعراً یُنشدُ** (I heard a poet reciting poetry.)
 
-

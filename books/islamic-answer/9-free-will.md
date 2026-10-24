@@ -140,7 +140,6 @@ journey. when ibn abbas was asked about the reason, he said; "[the
 prophet] did not want to make it difficult for his nation ." see muslim,
 v. 2, page 151. cairo. should we prostrate on earth?
 
-
 it is an obligatory to prostrate (do sajdah) on a pure surface of the
 ground or on whatever grows from the earth which is used neither for
 food nor for clothing . the prophet says ;
@@ -422,5 +421,4 @@ qibla = direction of the muslim prayer towards holy ka'aba, mecca,
 arabia.
 
 wadu = ablution required for ritual prayer.
-
 

@@ -51,4 +51,3 @@ There he found that his Muslim companion had been none other but the
 Khalifa of his time, ‘Ali ibn Abi Talib (as). He soon became a Muslim
 and remained the most faithful of companion of the Imam.
 
-

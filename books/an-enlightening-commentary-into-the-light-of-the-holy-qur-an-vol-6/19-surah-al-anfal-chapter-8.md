@@ -3,11 +3,7 @@ Surah Al-Anfal, Chapter 8
 
 **No. 8 (75 verses)**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -44,5 +40,4 @@ Imam Sadiq (as) has said:
 attention to their meanings and their warnings) every month, will he not
 be involved with hypocrisy at all and will be among the true followers
 of Amir-ul-Mu’mineen (as)…”*
-
 

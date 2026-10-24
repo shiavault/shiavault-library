@@ -27,4 +27,3 @@ with Allah and His Messenger."
 
 Wasa'il-ush-Shiah vol.12, p. 55
 
-

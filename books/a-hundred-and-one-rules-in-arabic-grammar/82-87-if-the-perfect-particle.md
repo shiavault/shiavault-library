@@ -9,10 +9,7 @@ She has worked in this factory.** قد عَمِلتْ في هذا المَصن�
 When this particle is used with** کانَ** and a verb, then the whole
 phrase is translated as a Past Perfect (had+participle).
 
-<p dir="rtl">
 **کانَ صديقي قد زارَني قـَبلَ سَنـَةٍ.**
-</p>
 
 My friend had visited me a year ago.
-
 

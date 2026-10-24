@@ -552,4 +552,3 @@ reach the degree of perfection even if he makes such a claim when he
 publicizes for it or expresses his passion in his poetry. Reaching to
 Allah Almighty is not attained by making claims or by following whims.
 
-

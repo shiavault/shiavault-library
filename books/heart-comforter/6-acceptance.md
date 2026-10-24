@@ -624,4 +624,3 @@ pp. 55, 108. Mishkat Al-Anwar, p. 299.
 
 [^20]: Ibid.
 
-

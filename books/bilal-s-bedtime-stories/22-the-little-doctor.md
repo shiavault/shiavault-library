@@ -101,4 +101,3 @@ To cure for the pleasure of God
 
 To serve mankind for my Lord
 
-

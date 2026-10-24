@@ -4,17 +4,9 @@ Letter 11: Given to the contingent sent to confront the enemy.
 *Part of instructions to his marshal when Imam Ali (a) sent him to a
 battle* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن وصية
-  </p>
-</blockquote>
+> ومن وصية
 
-<blockquote dir="rtl">
-  <p>
-وصّى بها(عليه السلام) جيشاً بعثه إلى العدو
-  </p>
-</blockquote>
+> وصّى بها(عليه السلام) جيشاً بعثه إلى العدو
 
 When you proceed towards the enemy or he proceeds towards you, the
 position of your force should be on the approaches high ground or on the
@@ -30,27 +22,19 @@ Beware of dispersal. When you halt do so together and when you move you
 should move together. When night comes fix your spears in a circle and
 do not sleep except for dozing or napping.
 
-<blockquote dir="rtl">
-  <p>
-فَإذَا نزَلتُمْ بِعَدُوّ أَوْ نَزَلَ بِكُمْ، فَلْيَكُنْ مُعَسْكَرُكُمْ
-فِي قُبُلِ الاْشْرَافِ، أَوْ سِفَاحِ الْجِبَالِ، أَوْ أثْنَاءِ
-الاْنْهَارِ، كَيْما يَكُونَ لَكُمْ رِدْءاً، وَدُونَكُمْ مَرَدّاً،
-وَلْتَكُنْ مُقَاتَلَتُكُمْ مِنْ وَجْه وَاحِد أَوِ اثْنيْنِ، واجْعَلُوا
-لَكُمْ رُقَبَاءَ فِي صَيَاصِي الْجِبَالِ، وَمَنَاكِبِ الْهِضَابِ،
-لِئَلاَّ يَأْتِيَكُمُ الْعَدُوُّ مِنْ مَكَانِ مَخَافَة أَوْ أَمْن.
-وَاعْلَمُوا أَنَّ مُقَدِّمَةَ الْقَومِ عُيُونُهُمْ، وَعُيُونَ
-الْمُقَدِّمَةِ طَلاَئِعُهُمْ.
-  </p>
-</blockquote>
+> فَإذَا نزَلتُمْ بِعَدُوّ أَوْ نَزَلَ بِكُمْ، فَلْيَكُنْ مُعَسْكَرُكُمْ
+> فِي قُبُلِ الاْشْرَافِ، أَوْ سِفَاحِ الْجِبَالِ، أَوْ أثْنَاءِ
+> الاْنْهَارِ، كَيْما يَكُونَ لَكُمْ رِدْءاً، وَدُونَكُمْ مَرَدّاً،
+> وَلْتَكُنْ مُقَاتَلَتُكُمْ مِنْ وَجْه وَاحِد أَوِ اثْنيْنِ، واجْعَلُوا
+> لَكُمْ رُقَبَاءَ فِي صَيَاصِي الْجِبَالِ، وَمَنَاكِبِ الْهِضَابِ،
+> لِئَلاَّ يَأْتِيَكُمُ الْعَدُوُّ مِنْ مَكَانِ مَخَافَة أَوْ أَمْن.
+> وَاعْلَمُوا أَنَّ مُقَدِّمَةَ الْقَومِ عُيُونُهُمْ، وَعُيُونَ
+> الْمُقَدِّمَةِ طَلاَئِعُهُمْ.
 
-<blockquote dir="rtl">
-  <p>
-وَإِيَّاكُمْ وَالتَّفَرُّقَ، فَإِذَا نَزَلْتُمْ فَانْزِلُوا جَمِيعاً،
-وَإذا ارْتحَلْتُمْ فَارْتَحِلُوا جَمِيعاً، وَإِذَا غشِيكُمُ اللَّيْلُ
-فَاجْعَلُوا الرِّمَاحَ كِفَّةً، وَلاَ تَذُوقُوا النَّوْمَ إِلاَّ
-غِرَاراً أَوْ مَضْمَضَةً.
-  </p>
-</blockquote>
+> وَإِيَّاكُمْ وَالتَّفَرُّقَ، فَإِذَا نَزَلْتُمْ فَانْزِلُوا جَمِيعاً،
+> وَإذا ارْتحَلْتُمْ فَارْتَحِلُوا جَمِيعاً، وَإِذَا غشِيكُمُ اللَّيْلُ
+> فَاجْعَلُوا الرِّمَاحَ كِفَّةً، وَلاَ تَذُوقُوا النَّوْمَ إِلاَّ
+> غِرَاراً أَوْ مَضْمَضَةً.
 
 [^1]: When Amir al-mu'minin put Ziyad ibn an-Nadr al-Harithi and Shurayh
 ibn Hani al-Harithi in command of contingents of eight thousand and four
@@ -109,5 +93,4 @@ prepare for defence by taking up arms at once and if the enemy showers
 arrows that too can be defied. Seventhly, that deep sleep should be
 avoided lest you remain unaware of the enemy's approach and he succeed
 in attacking you before you get ready.
-
 

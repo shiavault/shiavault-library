@@ -8,10 +8,7 @@ between 3-10. After that the noun has to be singular in the accusative
 case. This is another example of**     تمييز**   "accusative of
 distinction."
 
-<p dir="rtl">
 **إشتريتُ خمسة َ عَشرَ** قلماً **.**
-</p>
 
 I bought fifteen pencils.
-
 

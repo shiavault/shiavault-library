@@ -389,4 +389,3 @@ wisdom, even if your meeting with them may be very few."
  And may Allah bless upon our master Muhammad, the Prophet and his pure
 progeny.
 
-

@@ -73,4 +73,3 @@ Banī l-\`Abbās,” p. 167.
 [^5]: Al-Fitan, vol. 5, chap. “al-Rayāt al-sūd lil-Mahdī ba\`d rāyāt
 Banī l-\`Abbās,” p. 168.
 
-

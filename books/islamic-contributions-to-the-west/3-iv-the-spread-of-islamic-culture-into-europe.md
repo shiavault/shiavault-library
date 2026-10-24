@@ -23,4 +23,3 @@ This refinement of life gradually spread northwards from Spain and
 Sicily. The experiences of the Crusaders in Islamic lands doubtless
 contributed something to the spread of Arab culture in Western Europe.
 
-

@@ -88,4 +88,3 @@ and an answer to a part of their quest.
 **Javed Iqbal Qazilbash**
 **Seminary of Qum**
 
-

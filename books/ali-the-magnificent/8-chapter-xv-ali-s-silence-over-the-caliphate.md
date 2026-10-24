@@ -89,7 +89,6 @@ Ali. Zubeir did likewise, and from his house they brought Ali to the
 mosque and everybody once again thronged round him to swear the oath of
 allegiance to him as their Imam and Caliph."
 
-
 (Professor Sedillot in 'Histories des Arabes' says, "It might have been
 thought that all would submit themselves before his glory; so fine and
 so grand; but it was not to be."
@@ -132,7 +131,6 @@ and thought it prudent to dissemble their feelings so far as to take the
 oath of allegiance to Ali with a steadfast resolve, however, of breaking
 it as soon as a favourable opportunity should occur.
 
-
 **Election of Ali
 **
 
@@ -147,7 +145,6 @@ his hands. The insurgents, who had themselves been responsible for the
 prevailing disturbed condition at Medina, were anxious to put the city
 back to its normal state and were much annoyed at the difficulty in the
 choice of a Caliph.
-
 
 and insisted that before they quitted Medina, the citizens, in exercise
 of their right, must elect a Caliph within one day, as they were the
@@ -170,7 +167,6 @@ of Ayesha, Talha and Zubeir and the whole house of Umayyah (of which
 Moawiya, Osman's lieutenant in Syria, was chief), who, he knew, would
 avail themselves of every opportunity to oppose and disturb his
 government." Ockley's History of the Saracens p. 289.
-
 
 **Inauguration of Ali as Caliph.
 **

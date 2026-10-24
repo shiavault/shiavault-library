@@ -156,4 +156,3 @@ the Ahlul Bayt (a.s.). So, the right solution is to add the khums to the
 zakat and not limit it to the booties of war only. In this way, Muslims
 shall be prosperous.
 
-

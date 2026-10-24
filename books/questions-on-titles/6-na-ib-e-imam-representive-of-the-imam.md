@@ -126,4 +126,3 @@ Imam Mahdi (a.s.) during their lifetime? Why are we regarding them as
 saints when the Holy Imam (a.s.) has referred to these claimants as
 liars and imposters?
 
-

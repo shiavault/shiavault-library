@@ -30,7 +30,6 @@ have clarified the duties of governors and government employees, who
 should act in accordance with them. For example, (the letter which) Imam
 Sadiq wrote to 'Abdullah al-Najashi, the governor-general of Ahwaz.
 
-
 **41. The Imams call People to Islamic Unity
 **
 It is well known that the Household of the Prophet tried hard to

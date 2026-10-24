@@ -3,12 +3,8 @@
 
 Verse 96 of Suratul A'raf says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ أََنَّ أَهلَ الْقُرَى آمَنُوا وَ التَّقَوْا لَفَتَحْناَ
-عَلَيْهِمْ بَرَکاَتٍ مِنَ السَّمَآءِ وَ الأَرضِ
-  </p>
-</blockquote>
+> وَ لَوْ أََنَّ أَهلَ الْقُرَى آمَنُوا وَ التَّقَوْا لَفَتَحْناَ
+> عَلَيْهِمْ بَرَکاَتٍ مِنَ السَّمَآءِ وَ الأَرضِ
 
 ***“And if the people of the towns had believed and guarded (against
 evil) We would certainly have opened up for them blessings from the
@@ -102,5 +98,4 @@ acknowledge that Islam is one thing while we Muslims are something
 else.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 6, pg. 268
-
 

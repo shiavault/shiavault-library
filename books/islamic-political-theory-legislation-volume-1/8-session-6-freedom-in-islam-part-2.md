@@ -97,12 +97,8 @@ anna Muhammadan ‘abduhu* *wa rasuluh*].The most outstanding and
 honorable station of the best human personality is to be a servant of
 God. As such, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَا…﴾
-  </p>
-</blockquote>
+> ﴿سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَا…﴾
 
 ***“Immaculate is He who carried His servant on a journey by night from
 the Sacred Mosque to the Farthest Mosque**…”*[^1]
@@ -112,12 +108,8 @@ God has repeatedly used the elegant term “*‘abd*” and its derivatives,
 regarding utmost servitude as the loftiest station of human perfection
 when He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ٭ ارْجِعِي إِلَى رَبِّكِ
-رَاضِيَةً مَّرْضِيَّةً ٭ فَادْخُلِي فِي عِبَادِي﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ٭ ارْجِعِي إِلَى رَبِّكِ
+> رَاضِيَةً مَّرْضِيَّةً ٭ فَادْخُلِي فِي عِبَادِي﴾
 
 ***“O soul at peace! Return to your Lord, pleased, pleasing! Then enter
 among My servants!”***[^2]
@@ -223,14 +215,10 @@ Qabil (Cain), the rebellious son of Adam (*‘a*) openly disobeyed divine
 ordinances. His violation of law and selfishness led him to murder his
 own brother Habil (Abel):
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلَ مَنَ الآخَرِ
-قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ
-الْمُتَّقِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلَ مَنَ الآخَرِ
+> قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ
+> الْمُتَّقِينَ﴾
 
 ***“Relate to them truly the account of Adam’s two sons. When the two of
 them offered an offering, it was accepted from one of them and not
@@ -246,12 +234,8 @@ them by prohibiting them from doing wrong, for e.g., weighing
 wrongly—*“And do not cheat the people of their goods”*[^4]—they would
 say to him in return:
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالُواْ يَا شُعَيْبُ أَصَلاَتُكَ تَأْمُرُكَ أَن نَتْرُكَ مَا
-يَعْبُدُ آبَاؤُنَا أَوْ أَن نَفْعَلَ فِي أَمْوَالِنَا مَا نَشَاء...﴾
-  </p>
-</blockquote>
+> ﴿قَالُواْ يَا شُعَيْبُ أَصَلاَتُكَ تَأْمُرُكَ أَن نَتْرُكَ مَا
+> يَعْبُدُ آبَاؤُنَا أَوْ أَن نَفْعَلَ فِي أَمْوَالِنَا مَا نَشَاء...﴾
 
 ***“They said, ‘O Shu‘ayb (Jethro), does your worship require that we
 abandon what our fathers have been worshipping, or that we should not do
@@ -270,13 +254,9 @@ impossible not to choose one of them. If a person chants the slogan that
 “I am nobody’s servant,” in reality he is a servant of the *taghut* and
 his own carnal desires. As such, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللّهُ وَلِيُّ الَّذِينَ آمَنُواْ يُخْرِجُهُم مِّنَ الظُّلُمَاتِ
-إِلَى النُّوُرِ وَالَّذِينَ كَفَرُوا أَوْلِيَآؤُهُمُ الطَّاغُوتُ
-يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ...﴾
-  </p>
-</blockquote>
+> ﴿اللّهُ وَلِيُّ الَّذِينَ آمَنُواْ يُخْرِجُهُم مِّنَ الظُّلُمَاتِ
+> إِلَى النُّوُرِ وَالَّذِينَ كَفَرُوا أَوْلِيَآؤُهُمُ الطَّاغُوتُ
+> يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ...﴾
 
 ***“Allah is the Master of the faithful: He brings them out of darkness
 into light. As for the faithless, their patrons are the Rebels [taghut],
@@ -284,13 +264,9 @@ who drive them out of light into darkness…”***[^7]
 
 In another place, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لا تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ ٭ وَأَنْ اعْبُدُونِي هَذَا
-صِرَاطٌ مُّسْتَقِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لا تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ ٭ وَأَنْ اعْبُدُونِي هَذَا
+> صِرَاطٌ مُّسْتَقِيمٌ﴾
 
 ***“Did I not exhort you, O children of Adam, saying, ‘Do not worship
 Satan. He is indeed your manifest enemy. Worship Me. This is a straight
@@ -345,12 +321,8 @@ Following God and freedom
 Again, the axis of the prophets’ call is to obey and worship God and not
 follow the *taghut*. God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُوا اللّهَ
-وَاجْتَنِبُوا الطَّاغُوتَ...﴾
-  </p>
-</blockquote>
+> ﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُوا اللّهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ...﴾
 
 ***“Certainly We raised an apostle in every nation [to preach:] ‘Worship
 Allah, and keep away from the Rebel’…”***[^10]
@@ -378,13 +350,9 @@ Essentially, in the world of creation the seal of servitude is put on
 every phenomenon. Intrinsically, no creature exists without the mark of
 servitude to God:
 
-<blockquote dir="rtl">
-  <p>
-﴿تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأَرْضُ وَمَن فِيهِنَّ
-وَإِن مِن شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ وَلَـكِن لا تَفْقَهُونَ
-تَسْبِيحَهُمْ...﴾
-  </p>
-</blockquote>
+> ﴿تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأَرْضُ وَمَن فِيهِنَّ
+> وَإِن مِن شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ وَلَـكِن لا تَفْقَهُونَ
+> تَسْبِيحَهُمْ...﴾
 
 ***“The seven heavens glorify Him, and the earth [too], and whatever is
 in them. There is not a thing but celebrates His praise, but you do not
@@ -393,13 +361,9 @@ understand their glorification.**”*[^12]
 In connection with the servitude and worship of creatures, God also
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَن فِي السَّمَاوَاتِ
-وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ
-وَتَسْبِيحَهُ...﴾
-  </p>
-</blockquote>
+> ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَن فِي السَّمَاوَاتِ
+> وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ
+> وَتَسْبِيحَهُ...﴾
 
 ***“Have you not regarded that Allah is glorified by everyone in the
 heavens and the earth, and the birds spreading their wings. Each knows
@@ -409,11 +373,7 @@ Yet, due to the possession of reason and intellect, man has been created
 free and autonomous. God, the Exalted, has shown him the way to guidance
 or misguidance, but he is free in choosing his way. Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا﴾
 
 ***“Indeed We have guided him to the way, be he grateful or
 ungrateful.”***[^14]
@@ -425,11 +385,7 @@ obedience to Satan and other than God. Man has to worship God and
 perform his duties to Him because God has created him for such a
 purpose:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ما خَلَقْتُ الْجِنَّ وَ الإِْنْسَ إِلاَّ لِيَعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ما خَلَقْتُ الْجِنَّ وَ الإِْنْسَ إِلاَّ لِيَعْبُدُونِ ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.”***[^15]
@@ -441,13 +397,9 @@ who gives us life and endows us out of His grace and favor with
 wellbeing and innumerable blessings is necessary—just as God says in the
 tongue of Hadrat Ibrahim (Abraham) (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ. وَ الَّذِي هُوَ يُطْعِمُنِي وَ
-يَسْقِينِ. وَ إِذا مَرِضْتُ فَهُوَ يَشْفِينِ. وَ الَّذِي يُمِيتُنِي
-ثُمَّ يُحْيِينِ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ. وَ الَّذِي هُوَ يُطْعِمُنِي وَ
+> يَسْقِينِ. وَ إِذا مَرِضْتُ فَهُوَ يَشْفِينِ. وَ الَّذِي يُمِيتُنِي
+> ثُمَّ يُحْيِينِ ﴾
 
 ***“(It is God) who created me, and it is He who guides me, and provides
 me with food and drink, and when I get sick, it is He who cures me; who
@@ -497,5 +449,4 @@ himself whether explicitly or implicitly. [Trans.]
 [^15]: Surah adh-Dhariyat 51:56.
 
 [^16]: Surah ash-Shu‘ara’ 26:78-81.
-
 

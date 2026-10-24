@@ -24,13 +24,8 @@ As Allah revealed to Moses, 'The slanderer will be the last to enter the
 Garden, if he repents. If he does not repent, then he will be the first
 to enter the Fire.' As He said,
 
-
-<blockquote dir="rtl">
-  <p>
-أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا
-فَكَرِهْتُمُوهُ
-  </p>
-</blockquote>
+> أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا
+> فَكَرِهْتُمُوهُ
 
 ***Does one of you like to eat the flesh of his dead brother? You would
 hate it.*** (49:12)
@@ -49,5 +44,4 @@ others.
 If you seek Islam, then remember the Creator and not the created; then
 the circumstances of slander will be a lesson for you, and a wrong
 action will be replaced by a reward.
-
 

@@ -6,12 +6,8 @@ One of the greatest blessings of Allah upon Ibrahim and his family,
 has informed us about this. For instance, it states concerning Prophet
 Ibrahim, ‘alaihi al-salam:
 
-<blockquote dir="rtl">
-  <p>
-وإذ ابتلى إبراهيم ربه بكلمات فأتمهن قال إني جاعلك للناس إماما قال ومن
-ذريتي قال لا ينال عهدي الظالمين
-  </p>
-</blockquote>
+> وإذ ابتلى إبراهيم ربه بكلمات فأتمهن قال إني جاعلك للناس إماما قال ومن
+> ذريتي قال لا ينال عهدي الظالمين
 
 ***And when Ibrahim was tried by his Lord with some statements, and he
 fulfilled them, He said, “I will appoint you an Imam OF MANKIND.” He
@@ -24,25 +20,17 @@ is totally clear. Every prophet or messenger, except Muhammad b. ‘Abd
 Allah, sallallahu ‘alaihi wa alihi, was sent only to his people. None of
 them was ever sent to all of mankind:
 
-<blockquote dir="rtl">
-  <p>
-وما أرسلنا من رسول إلا بلسان قومه ليبين لهم
-  </p>
-</blockquote>
+> وما أرسلنا من رسول إلا بلسان قومه ليبين لهم
 
 ***We sent not a messenger except with the language of HIS PEOPLE in
 order that he might clearly explain TO THEM.***[^2]
 
 Imam Ahmad (d. 241 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا هشيم أنا سيار عن يزيد الفقير عن جابر بن
-عبد الله قال قال رسول الله صلى الله عليه و سلم أعطيت خمسا لم يعطهن أحد
-قبلي بعثت إلى الأحمر والأسود وكان النبي إنما يبعث إلى قومه خاصة وبعثت
-إلى الناس عامة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا هشيم أنا سيار عن يزيد الفقير عن جابر بن
+> عبد الله قال قال رسول الله صلى الله عليه و سلم أعطيت خمسا لم يعطهن أحد
+> قبلي بعثت إلى الأحمر والأسود وكان النبي إنما يبعث إلى قومه خاصة وبعثت
+> إلى الناس عامة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Hushaym – Sayyar –
 Yazid al-Faqir – Jabir b. ‘Abd Allah:
@@ -54,23 +42,15 @@ and I have been sent to all mankind.”[^3]
 
 Al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is sahih upon the standard of the two Shaykhs.[^4]
 
 Imam Muslim (d. 261 H) too has this:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى بن يحيى أخبرنا هشيم عن سيار عن يزيد الفقير عن جابر بن
-عبدالله الأنصاري قال قال رسول الله صلى الله عليه و سلم أعطيت خمسا لم
-يعطهن أحد قبلي كان كل نبي يبعث إلى قومه خاصة وبعثت إلى كل أحمر وأسود
-  </p>
-</blockquote>
+> حدثنا يحيى بن يحيى أخبرنا هشيم عن سيار عن يزيد الفقير عن جابر بن
+> عبدالله الأنصاري قال قال رسول الله صلى الله عليه و سلم أعطيت خمسا لم
+> يعطهن أحد قبلي كان كل نبي يبعث إلى قومه خاصة وبعثت إلى كل أحمر وأسود
 
 Yahya b. Yahya – Hushaym – Sayyar – Yazid al-Faqir – Jabir b. ‘Abd Allah
 al-Ansari:
@@ -92,12 +72,8 @@ all mankind during his time!
 
 There are a number of other points from the verse that must be noted:
 
-<blockquote dir="rtl">
-  <p>
-وإذ ابتلى إبراهيم ربه بكلمات فأتمهن قال إني جاعلك للناس إماما قال ومن
-ذريتي قال لا ينال عهدي الظالمين
-  </p>
-</blockquote>
+> وإذ ابتلى إبراهيم ربه بكلمات فأتمهن قال إني جاعلك للناس إماما قال ومن
+> ذريتي قال لا ينال عهدي الظالمين
 
 And when Ibrahim was tried by his Lord with some statements, and he
 fulfilled them, He said, “I will appoint you an Imam of mankind.” He
@@ -112,16 +88,12 @@ to wrongdoers. Allah will NEVER permit Imamah to get to any wrongdoer
 till the Day of Resurrection. Al-Hafiz Ibn Kathir (d. 774 H) explains
 further:
 
-<blockquote dir="rtl">
-  <p>
-قال الله تعالى} :وإذ ابتلى إبراهيم ربه بكلمات فأتمهن، قال إني جاعلك
-للناس إماما، قال ومن ذرتي؟ قال لا ينال عهدي الظالمين {لما وفى ما أمره
-به ربه من التكاليف العظيمة، جعله للناس إماما يقتدون به ويأتمون بهديه
-.وسأل الله أن تكون هذه الإمامة متصلة بسببه، وباقية في نسبه، وخالدة في
-عقبه فأجيب إلى ما سأل وسلمت إليه الإمامة بزمام، واستثنى من نيلها
-الظالمون، واختص بها من ذريته العلماء العاملون.
-  </p>
-</blockquote>
+> قال الله تعالى} :وإذ ابتلى إبراهيم ربه بكلمات فأتمهن، قال إني جاعلك
+> للناس إماما، قال ومن ذرتي؟ قال لا ينال عهدي الظالمين {لما وفى ما أمره
+> به ربه من التكاليف العظيمة، جعله للناس إماما يقتدون به ويأتمون بهديه
+> .وسأل الله أن تكون هذه الإمامة متصلة بسببه، وباقية في نسبه، وخالدة في
+> عقبه فأجيب إلى ما سأل وسلمت إليه الإمامة بزمام، واستثنى من نيلها
+> الظالمون، واختص بها من ذريته العلماء العاملون.
 
 Allah the Most High says: ***{And when Ibrahim was tried by his Lord
 with some statements, and he fulfilled them, He said, “I will appoint
@@ -149,12 +121,8 @@ that Imamah is prophethood? Is nubuwwah “uninterrupted”, “perpetual” and
 
 Prof. Ibn Yasin records:
 
-<blockquote dir="rtl">
-  <p>
-أخرج الطبري بسنده الصحيح عن مجاهد (قال لاينال عهدي الظالمين) قال: لا
-يكون إماما ظالما.
-  </p>
-</blockquote>
+> أخرج الطبري بسنده الصحيح عن مجاهد (قال لاينال عهدي الظالمين) قال: لا
+> يكون إماما ظالما.
 
 Al-Tabari records with his sahih chain from Mujahid that he said: “(My
 Covenant shall not reach the wrongdoers) There will never be an Imam who
@@ -163,13 +131,9 @@ does wrong.”[^7]
 Meanwhile, the offspring of Ibrahim al-Khalil, as Allah states, are in
 two categories only:
 
-<blockquote dir="rtl">
-  <p>
-سلام على إبراهيم كذلك نجزي المحسنين إنه من عبادنا المؤمنين وبشرناه
-بإسحاق نبيا من الصالحين وباركنا عليه وعلى إسحاق ومن ذريتهما محسن وظالم
-لنفسه مبين
-  </p>
-</blockquote>
+> سلام على إبراهيم كذلك نجزي المحسنين إنه من عبادنا المؤمنين وبشرناه
+> بإسحاق نبيا من الصالحين وباركنا عليه وعلى إسحاق ومن ذريتهما محسن وظالم
+> لنفسه مبين
 
 ***Peace be upon Ibrahim. Thus indeed do We reward the good-doers.
 Verily, he was one of Our believing slaves. And We gave him the glad
@@ -179,34 +143,22 @@ are plainly wrongdoers to themselves.***[^8]
 
 Of course, anyone who disobeys Allah is someone who wrongs himself:
 
-<blockquote dir="rtl">
-  <p>
-ومن يتعد حدود الله فقد ظلم نفسه
-  </p>
-</blockquote>
+> ومن يتعد حدود الله فقد ظلم نفسه
 
 ***And whosoever transgresses the set limits of Allah, then indeed he
 has wronged himself.***[^9]
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-ومن يتعد حدود الله فأولئك هم الظالمون
-  </p>
-</blockquote>
+> ومن يتعد حدود الله فأولئك هم الظالمون
 
 ***And whosoever transgresses the set limits of Allah, then such are the
 wrongdoers.***[^10]
 
 Imam Salihi al-Shami (d. 942 H) explains:
 
-<blockquote dir="rtl">
-  <p>
-معنى قوله تعالى}: ومن يتعد حدود الله فأولئك هم الظالمون) {البقرة ٢٢٩
-(وذلك أن حدود الله هي محارمه ونواهيه
-  </p>
-</blockquote>
+> معنى قوله تعالى}: ومن يتعد حدود الله فأولئك هم الظالمون) {البقرة ٢٢٩
+> (وذلك أن حدود الله هي محارمه ونواهيه
 
 The meaning of the Most High’s Statement: ***{And whosoever transgresses
 the set limits of Allah, such are the wrongdoers} {Baqarah: 229),***
@@ -216,12 +168,8 @@ prohibitions.[^11]
 ‘Allamah al-Albani (d. 1420 H) submits that the scope is far wider than
 that:
 
-<blockquote dir="rtl">
-  <p>
-من تعدى بكل عمل وقته الذي حده الله تعالى لذلك العمل فقد تعدى حدود الله
-وقال تعالى: }ومن يتعد حدود الله فأولئك هم الظالمون{
-  </p>
-</blockquote>
+> من تعدى بكل عمل وقته الذي حده الله تعالى لذلك العمل فقد تعدى حدود الله
+> وقال تعالى: }ومن يتعد حدود الله فأولئك هم الظالمون{
 
 Whosoever exceeds, in performing an act, the time set for that act by
 Allah the Most High, he has transgressed the limits of Allah, and the
@@ -230,12 +178,8 @@ Allah, then such are the wrong-doers}.***[^12]
 
 And Imam Fakhr al-Din al-Razi (d. 606 H) seals it:
 
-<blockquote dir="rtl">
-  <p>
-قوله تعالى} :لا ينال عهدي الظالمين {فكل من أقدم على الذنب كان ظالما
-لنفسه لقوله تعالى} :فمنهم ظالم لنفسه{
-  </p>
-</blockquote>
+> قوله تعالى} :لا ينال عهدي الظالمين {فكل من أقدم على الذنب كان ظالما
+> لنفسه لقوله تعالى} :فمنهم ظالم لنفسه{
 
 His Statement {My Covenant shall not reach the wrongdoers}: So,
 whosoever commits a sin, he is a wrongdoer to himself due to His, the
@@ -252,12 +196,8 @@ automatically and absolutely disqualified and barred from Imamah.
 Allah informs us of some of the Imams from Ibrahim’s immediate
 offspring:
 
-<blockquote dir="rtl">
-  <p>
-ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين وجعلناهم أئمة يهدون
-بأمرنا
-  </p>
-</blockquote>
+> ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين وجعلناهم أئمة يهدون
+> بأمرنا
 
 ***And We bestowed upon him (i.e. Ibrahim) Ishaq and Ya’qub. Each one We
 made righteous. And We appointed them Imams, guiding by Our
@@ -281,12 +221,8 @@ others that have not been mentioned.
 Among the Israelites, there were equally many Imams chosen by Allah,
 from the offspring of Ibrahim:
 
-<blockquote dir="rtl">
-  <p>
-ولقد آتينا موسى الكتاب فلا تكن في مرية من لقائه وجعلناه هدى لبني
-إسرائيل وجعلنا منهم أئمة يهدون بأمرنا لما صبروا وكانوا بآياتنا يوقنون
-  </p>
-</blockquote>
+> ولقد آتينا موسى الكتاب فلا تكن في مرية من لقائه وجعلناه هدى لبني
+> إسرائيل وجعلنا منهم أئمة يهدون بأمرنا لما صبروا وكانوا بآياتنا يوقنون
 
 ***And indeed We gave Musa the Book. So be not you in doubt of meeting
 him. And We made it a guide to the Children of Israel. And We appointed
@@ -301,13 +237,9 @@ Are there any Imams from the offspring of Ibrahim in our Ummah too?
 
 This hadith of Imam Abu Ya’la (d. 307 H) gives the first hint:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا الحسن بن إسماعيل أبو سعيد بالبصرة حدثنا إبراهيم بن سعد عن أبيه
-عن أنس رضي الله عنه قال : قال رسول الله صلى الله عليه و سلم : الأئمة
-من قريش
-  </p>
-</blockquote>
+> حدثنا الحسن بن إسماعيل أبو سعيد بالبصرة حدثنا إبراهيم بن سعد عن أبيه
+> عن أنس رضي الله عنه قال : قال رسول الله صلى الله عليه و سلم : الأئمة
+> من قريش
 
 Al-Hasan b. Isma’il Abu Sa’id – Ibrahim b. Sa’d – his father – Anas, may
 Allah be pleased with him:
@@ -317,23 +249,15 @@ Quraysh.”[^16]
 
 Shaykh Dr. Asad says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is sahih[^17]
 
 This hadith is actually mutawatir, as al-Hafiz (d. 852 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-حديث: "الأئمة من قريش"، النسائي عن أنس، ورواه الطبراني في الدعاء،
-والبزار والبيهقي من طرق عن أنس .قلت: وقد جمعت طرقه في جزء مفرد عن نحو
-من أربعين صحابيا
-  </p>
-</blockquote>
+> حديث: "الأئمة من قريش"، النسائي عن أنس، ورواه الطبراني في الدعاء،
+> والبزار والبيهقي من طرق عن أنس .قلت: وقد جمعت طرقه في جزء مفرد عن نحو
+> من أربعين صحابيا
 
 The hadith “The Imams are from Quraysh” is recorded by al-Nasai from
 Anas, and al-Tabarani narrated it in al-Du’a, and al-Bazzar and
@@ -351,12 +275,8 @@ Meanwhile, Quraysh is a large tribe, with several clans. Are the Imams
 spread across the entire tribe? Or, are they concentrated in a single
 clan? Our answers are firmly established in this salat:
 
-<blockquote dir="rtl">
-  <p>
-اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم
-إنك حميد مجيد
-  </p>
-</blockquote>
+> اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم
+> إنك حميد مجيد
 
 O Allah! Bless Muhammad and the family of Muhammad, in exactly the same
 manner as You blessed Ibrahim and the family of Ibrahim. You are the
@@ -374,19 +294,11 @@ We must not forget also that the family of Muhammad have been “chosen”
 by Allah above all creation of their times. Let us remind ourselves of
 this crucial submission by Prof. Ibn Yasin:
 
-<blockquote dir="rtl">
-  <p>
-}إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين {
-  </p>
-</blockquote>
+> }إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين {
 
-<blockquote dir="rtl">
-  <p>
-أخرج الطبري وابن أبي حاتم بسنديهما الحسن عن علي بن أبي طلحة عن ابن
-عباس قال: هم المؤمنون من آل إبراهيم وآل عمران: آل ياسين وآل محمد يقول
-الله عز وجل (إن أولى الناس بإبراهيم للذين اتبعوه).
-  </p>
-</blockquote>
+> أخرج الطبري وابن أبي حاتم بسنديهما الحسن عن علي بن أبي طلحة عن ابن
+> عباس قال: هم المؤمنون من آل إبراهيم وآل عمران: آل ياسين وآل محمد يقول
+> الله عز وجل (إن أولى الناس بإبراهيم للذين اتبعوه).
 
 ***{Verily, Allah chose Adam, Nuh, the family of Ibrahim and the family
 of Imran above the worlds}***
@@ -400,12 +312,8 @@ entitled to Ibrahim are those who followed him}.”[^20]
 We must equally remember Hadith al-Thaqalayn, which leaves no doubt
 about the identity of the supreme guides of humanity after Muhammad:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
-وعترتي أهل بيتي
-  </p>
-</blockquote>
+> يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
+> وعترتي أهل بيتي
 
 O mankind! I have left behind over you that which if you hold fast to it
 you will never go astray: the Book of Allah and my offspring, my Ahl
@@ -413,11 +321,7 @@ al-Bayt.
 
 Supreme guides of mankind, of course, are always the Imams:
 
-<blockquote dir="rtl">
-  <p>
-وجعلناهم أئمة يهدون بأمرنا
-  </p>
-</blockquote>
+> وجعلناهم أئمة يهدون بأمرنا
 
 ***And We appointed them Imams, GUIDING by Our Command.***[^21]
 
@@ -486,5 +390,4 @@ min al-Tafsir bi al-Mathur (Madinah: Dar al-Mathar li al-Nashr wa
 al-Tawzi’ wa al-Taba’at; 1st edition, 1420 H), vol. 1, p. 411
 
 [^21]: Qur’an 21: 73
-
 

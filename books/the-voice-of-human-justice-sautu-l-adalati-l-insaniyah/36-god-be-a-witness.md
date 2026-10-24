@@ -346,4 +346,3 @@ who were our brethren, although they had been unjust to us”.
 Then he performed funeral prayers for the dead of both sides. As regards
 Ayesha he sent her back to her house in Madina in a very honourable way.
 
-

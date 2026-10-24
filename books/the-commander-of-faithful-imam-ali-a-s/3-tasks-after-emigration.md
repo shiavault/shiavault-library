@@ -572,4 +572,3 @@ indifferent to anything except Him, big or small. Further, Imam Ali bin
 Abi Talib (a.s.) enjoyed superior valor and resolution and was fearless
 and sublime.
 
-

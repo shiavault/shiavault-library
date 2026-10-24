@@ -258,4 +258,3 @@ makes you to be cautious of (retribution from) Himself.”***[^16]
 
 [^16]: Qur'an, 3:30.
 
-

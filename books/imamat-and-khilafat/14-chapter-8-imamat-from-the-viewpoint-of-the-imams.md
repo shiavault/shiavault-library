@@ -477,4 +477,3 @@ earth. He even claims:
 "I had an audience with Muhammad ibn Hasan Askari, who is now in
 occultation and whose age at present is more than 300 years."
 
-

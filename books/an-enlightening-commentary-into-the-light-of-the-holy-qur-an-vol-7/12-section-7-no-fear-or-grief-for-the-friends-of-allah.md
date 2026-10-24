@@ -4,15 +4,11 @@ Section 7: No Fear or Grief for the Friends of Allah
 Surah Yunus – Verse 61
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُواْ مِنْهُ مِن قُرْءَانٍ وَلا
-تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُوداً إِذْ
-تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَبِّكَ مِن مِثْقَالِ ذَرَّةٍ فِي
-الأَرْضِ وَلاَ فِي السَّمَآءِ وَلآ أَصْغَرَ مِن ذَلِكَ وَلآ أَكْبَرَ
-إِلاَّ فِي كِتَابٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُواْ مِنْهُ مِن قُرْءَانٍ وَلا
+> تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُوداً إِذْ
+> تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَبِّكَ مِن مِثْقَالِ ذَرَّةٍ فِي
+> الأَرْضِ وَلاَ فِي السَّمَآءِ وَلآ أَصْغَرَ مِن ذَلِكَ وَلآ أَكْبَرَ
+> إِلاَّ فِي كِتَابٍ مُبِينٍ
 
 ***61. “And you are not (engaged) in any affair, nor do you recite any
 part from the Qur’an, and nor any deed you (mankind) may be doing, but
@@ -76,25 +72,13 @@ imperfections before Allah, how then, can we determine our state?
 Surah Yunus – Verses 62 - 64
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلآ إِنَّ أَوْلِيَآءَ اللَّهِ لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> أَلآ إِنَّ أَوْلِيَآءَ اللَّهِ لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
+> يَحْزَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ ءَامَنُوا وَكَانُوا يَتَّقُونَ
-  </p>
-</blockquote>
+> الَّذِينَ ءَامَنُوا وَكَانُوا يَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَهُمُ الْبُشْرَي فِي الْحَيَاةِ الدُّنْيَا وَفِي الاَخِرَةِ لا
-تَبْدِيلَ لِكَلِمَاتِ اللَّهِ ذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> لَهُمُ الْبُشْرَي فِي الْحَيَاةِ الدُّنْيَا وَفِي الاَخِرَةِ لا
+> تَبْدِيلَ لِكَلِمَاتِ اللَّهِ ذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
 
 ***62. “Behold! Verily no fear shall be upon the friends of Allah, nor
 shall they grieve;”***  
@@ -158,12 +142,8 @@ There is no change in the Words of Allah. That is the great success.”***
 Surah Yunus – Verse 65
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَحْزُنْكَ قَوْلُهُمْ إِنَّ الْعِزَّةَ لِلَّهِ جَمِيعاً هُوَ
-السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَلا يَحْزُنْكَ قَوْلُهُمْ إِنَّ الْعِزَّةَ لِلَّهِ جَمِيعاً هُوَ
+> السَّمِيعُ الْعَلِيمُ
 
 ***65. “And let not their speech grieve you. Verily the glory is wholly
 Allah’s; He is All-Hearing, All-Knowing.”***
@@ -221,13 +201,9 @@ advance for their life in Hereafter.
 Surah Yunus – Verse 66
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلا إِنَّ لِلّهِ مَن فِي السَّمَاوَات وَمَن فِي الأَرْضِ وَمَا
-يَتَّبِعُ الَّذِينَ يَدْعُونَ مِن دُونِ اللّهِ شُرَكَاء إِن
-يَتَّبِعُونَ إِلاَّ الظَّنَّ وَإِنْ هُمْ إِلاَّ يَخْرُصُونَ
-  </p>
-</blockquote>
+> أَلا إِنَّ لِلّهِ مَن فِي السَّمَاوَات وَمَن فِي الأَرْضِ وَمَا
+> يَتَّبِعُ الَّذِينَ يَدْعُونَ مِن دُونِ اللّهِ شُرَكَاء إِن
+> يَتَّبِعُونَ إِلاَّ الظَّنَّ وَإِنْ هُمْ إِلاَّ يَخْرُصُونَ
 
 ***66. “Behold!*** ***Verily to Allah belongs whoever is in the heavens
 and whoever is in the earth, and they do not follow any associates, who
@@ -275,12 +251,8 @@ lie.”***
 Surah Yunus – Verse 67
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي جَعَلَ لَكُمُ الَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ
-مُبْصِراً إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَسْمَعُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي جَعَلَ لَكُمُ الَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ
+> مُبْصِراً إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَسْمَعُونَ
 
 ***67. “He it is Who appointed for you the night that you rest in it,
 and the day giving light. Verily there are signs in it for people who
@@ -307,13 +279,9 @@ The verse continues saying:
 Surah Yunus – Verse 68
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا اتَّخَذَ اللَّهُ وَلَداً سُبْحَانَهُ هُوَ الْغَنِيُ لَهُ مَا
-فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ إِنْ عَندَكُم مِن سُلْطَانٍ
-بِهَذَآ أَتَقُولُونَ عَلَي اللَّهِ مَا لا تَعْلَمُونَ
-  </p>
-</blockquote>
+> قَالُوا اتَّخَذَ اللَّهُ وَلَداً سُبْحَانَهُ هُوَ الْغَنِيُ لَهُ مَا
+> فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ إِنْ عَندَكُم مِن سُلْطَانٍ
+> بِهَذَآ أَتَقُولُونَ عَلَي اللَّهِ مَا لا تَعْلَمُونَ
 
 ***68. “They say, ‘Allah has begotten a son!’ Glory be to Him! He is
 Self-Sufficient! His is whatever is in the heavens and whatever is in
@@ -362,19 +330,11 @@ have made these unsanctioned and atrocious claims.
 Surah Yunus – Verses 69 - 70
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَي اللَّهِ الْكَذِبَ لا
-يُفْلِحُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَي اللَّهِ الْكَذِبَ لا
+> يُفْلِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعٌ فِي الدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ
-الْعَذَابَ الشَّدِيدَ بِمَا كَانُوا يَكْفُرُونَ
-  </p>
-</blockquote>
+> مَتَاعٌ فِي الدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ
+> الْعَذَابَ الشَّدِيدَ بِمَا كَانُوا يَكْفُرُونَ
 
 ***69. “Say: ‘Verily those who forge a lie against Allah will not
 prosper.’”***  
@@ -408,5 +368,4 @@ they used to disbelieve.”***
 [^2]: The Arabic words /mata‘/ and /mut‘ah/ are employed for short-term
 use. As man’s use of the world and its blessings are short-lived, the
 Qur’an then applies the word /mata‘/cornering worldly affairs.
-
 

@@ -431,4 +431,3 @@ p. 264
 
 [^13]: Al-‘Islam fi al-qarn al-‘ishrin, (Egypt), pp. 72-73.
 
-

@@ -90,4 +90,3 @@ also divided into takl:f:yah (duty bound) and wa+!:yyah (statuary) such
 as the laws of marriage and divorce and inheritance, and justice, penal
 codes and compensations.
 
-

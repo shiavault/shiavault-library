@@ -157,4 +157,3 @@ defined one is not punished .
 In Islam the immensely complex nature and nurture beings is subjected to
 two rather distinct set of rules:
 
-

@@ -12,4 +12,3 @@ Khalifa's food to the dog!”
 Bahlool said, “Be quiet! If the dog hears that the Khalifa sent this
 food, it won't eat it either.”
 
-

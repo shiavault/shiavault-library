@@ -47,4 +47,3 @@ it and give it to him.”
 The servant did so. The foreigner took it and went away, blessing
 Bahlool with all his heart.
 
-

@@ -47,4 +47,3 @@ from throwing any sort of dirt on him and one day they threw the
 entrails of a sheep on his head. Eventually Hamzah with a view to take
 revenge thrust the same on the head of Abu Lahab.
 
-

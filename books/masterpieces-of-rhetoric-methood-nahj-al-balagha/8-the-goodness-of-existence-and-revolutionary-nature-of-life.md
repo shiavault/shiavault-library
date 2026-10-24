@@ -524,7 +524,6 @@ procedure in compassionate manners, great dreams and sublim human
 refining which he wanted it to an emanation from the revolutionary
 nature of life and the good of existence!
 
-
 Beirut
 
 George Gerdak
@@ -549,5 +548,4 @@ Caesar of Borjia, son of Iskander of Borjia the committer of the known
 oppressions. The princeple stating the resort to such a means so as to
 reach authority then to concentrate it is called Machiavellian as an
 attribution to Machiavelly: the author of the book.
-
 

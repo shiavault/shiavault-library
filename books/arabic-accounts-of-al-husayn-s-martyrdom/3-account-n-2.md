@@ -30,8 +30,8 @@ not leave one of them on earth”.[^15]
 
 **Notes:**
 
-[^13] Al-Najashi, loc. cit.
-[^14] Abu al-Faraj, op. cit., pp. 54, 56, 57, 61, 62. Cf al-Tabari, op.
+[^13]: Al-Najashi, loc. cit.
+[^14]: Abu al-Faraj, op. cit., pp. 54, 56, 57, 61, 62. Cf al-Tabari, op.
 cit., p. 360.
-[^15] Ibid., p. 361.
+[^15]: Ibid., p. 361.
 

@@ -15,4 +15,3 @@ and **two loaves of bread** for his meal.
 
 (Letter 45)
 
-

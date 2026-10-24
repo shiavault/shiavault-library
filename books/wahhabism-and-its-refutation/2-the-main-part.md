@@ -1132,4 +1132,3 @@ behaviours (harams) have been introduced into it as it has been the same
 with every hadith and religious affairs, but the bid'as introduced
 should be removed.
 
-

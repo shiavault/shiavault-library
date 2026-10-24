@@ -40,4 +40,3 @@ List of the Important Subjects Dealt With in this Volume
 | **177**       | **Meaning of the righteous.**                                                                                                                             | **Qur'anic**                 | **319**  |
 | **178-179**   | **On Retaliation.**                                                                                                                                       | **Academic**                 | **327**  |
 
-

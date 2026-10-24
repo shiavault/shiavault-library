@@ -223,4 +223,3 @@ ideological scene. As is known, a religion as rich and as profound as
 Islam is in need of*kalaam* , which is based on the freedom of the
 intellect and well founded belief and faith.
 
-

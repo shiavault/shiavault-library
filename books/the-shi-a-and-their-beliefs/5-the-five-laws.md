@@ -374,4 +374,3 @@ Islam as put forward by the Prophet (N) and his pure household (a.s.).
 They are the practical form of all that is mentioned in the Holy Qur’"n
 and the traditions.
 
-

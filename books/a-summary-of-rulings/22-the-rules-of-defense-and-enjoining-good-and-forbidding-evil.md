@@ -52,4 +52,3 @@ imperative Islamic laws), it is obligatory not to pay attention to the
 harm, rather, strive to protect these matters by expending the self and
 precious things.
 
-

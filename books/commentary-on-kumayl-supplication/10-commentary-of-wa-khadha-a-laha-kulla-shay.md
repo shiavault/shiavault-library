@@ -1,11 +1,7 @@
 Commentary of: “Wa khadha’a laha kulla shay..”
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-وَخَضَعَ لَهَا كُلُّ شَيٍْء وَذَلَّ لَها كُلُّ شَيْءٍ
-  </p>
-</blockquote>
+> وَخَضَعَ لَهَا كُلُّ شَيٍْء وَذَلَّ لَها كُلُّ شَيْءٍ
 
 *(I ask You) by Your Strength, toward which everything is humble and
 before which all things are lowly.*
@@ -68,5 +64,4 @@ surrounded all his life; otherwise it causes him loss and deprivation
 from Allah’s Mercy and is thus, doomed punishment.
 
 [^1]: A book of supplications by the fifth Imam, Imam Sajjad a.s.
-
 

@@ -47,4 +47,3 @@ Hajar could make a
 
 child together.
 
-

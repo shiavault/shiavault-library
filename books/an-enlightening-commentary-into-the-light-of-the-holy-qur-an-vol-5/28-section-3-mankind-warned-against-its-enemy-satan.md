@@ -7,13 +7,9 @@ Justice in dealings enjoined.
 Surah Al-‘A’raf, Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي
-سَوْءَاتِكُمْ وَرِيشًا وَلِبَاسُ التَّقْوَىَ ذَلِكَ خَيْرٌ ذَلِكَ مِنْ
-آيَاتِ اللّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي
+> سَوْءَاتِكُمْ وَرِيشًا وَلِبَاسُ التَّقْوَىَ ذَلِكَ خَيْرٌ ذَلِكَ مِنْ
+> آيَاتِ اللّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
 
 **26. "O'** ***children of Adam! We have indeed sent down to you
 clothing to cover your shameful parts, and (for) adornment, and the
@@ -94,15 +90,11 @@ individuals.
 Surah Al-‘A’raf, Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي آدَمَ لاَ يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَا أَخْرَجَ
-أَبَوَيْكُم مِّنَ الْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا
-لِيُرِيَهُمَا سَوْءَاتِهِمَا إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ
-حَيْثُ لاَ تَرَوْنَهُمْ إِنَّا جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاء
-لِلَّذِينَ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> يَا بَنِي آدَمَ لاَ يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَا أَخْرَجَ
+> أَبَوَيْكُم مِّنَ الْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا
+> لِيُرِيَهُمَا سَوْءَاتِهِمَا إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ
+> حَيْثُ لاَ تَرَوْنَهُمْ إِنَّا جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاء
+> لِلَّذِينَ لاَ يُؤْمِنُونَ
 
 **27.** ***"O' children of Adam! Let not Satan seduce you as he expelled
 your parents from the Garden, stripping them both of their clothing that
@@ -146,13 +138,9 @@ watch you in all moments-
 Surah Al-‘A’raf, Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا فَعَلُواْ فَاحِشَةً قَالُواْ وَجَدْنَا عَلَيْهَا آبَاءنَا
-وَاللّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللّهَ لاَ يَأْمُرُ بِالْفَحْشَاء
-أَتَقُولُونَ عَلَى اللّهِ مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا فَعَلُواْ فَاحِشَةً قَالُواْ وَجَدْنَا عَلَيْهَا آبَاءنَا
+> وَاللّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللّهَ لاَ يَأْمُرُ بِالْفَحْشَاء
+> أَتَقُولُونَ عَلَى اللّهِ مَا لاَ تَعْلَمُونَ
 
 ***28. "And whenever they commit an indecency, they say: 'We found our
 fathers (acting) upon it, and Allah has enjoined it on us.' Say: 'Verily
@@ -196,13 +184,9 @@ denotation expansions.
 Surah Al-‘A’raf, Verse 29
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَمَرَ رَبِّي بِالْقِسْطِ وَأَقِيمُواْ وُجُوهَكُمْ عِندَ كُلِّ
-مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ كَمَا بَدَأَكُمْ
-تَعُودُونَ
-  </p>
-</blockquote>
+> قُلْ أَمَرَ رَبِّي بِالْقِسْطِ وَأَقِيمُواْ وُجُوهَكُمْ عِندَ كُلِّ
+> مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ كَمَا بَدَأَكُمْ
+> تَعُودُونَ
 
 **29.** ***Say: 'My Lord has enjoined justice, and set your faces
 upright (toward Him) at every place of worship, and call upon Him being
@@ -260,13 +244,9 @@ creation, and He will raise you up again.
 Surah Al-‘A’raf, Verse 30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرِيقًا هَدَى وَفَرِيقًا حَقَّ عَلَيْهِمُ الضَّلاَلَةُ إِنَّهُمُ
-اتَّخَذُوا الشَّيَاطِينَ أَوْلِيَاء مِن دُونِ اللّهِ وَيَحْسَبُونَ
-أَنَّهُم مُّهْتَدُونَ
-  </p>
-</blockquote>
+> فَرِيقًا هَدَى وَفَرِيقًا حَقَّ عَلَيْهِمُ الضَّلاَلَةُ إِنَّهُمُ
+> اتَّخَذُوا الشَّيَاطِينَ أَوْلِيَاء مِن دُونِ اللّهِ وَيَحْسَبُونَ
+> أَنَّهُم مُّهْتَدُونَ
 
 **30.** ***"A party He has guided aright while a party error is justly
 their due (for) verily they took Satans for their guardians other
@@ -307,12 +287,8 @@ and they are guided aright.
 Surah Al-‘A’raf, Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي آدَمَ خُذُواْ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وكُلُواْ
-وَاشْرَبُواْ وَلاَ تُسْرِفُواْ إِنَّهُ لاَ يُحِبُّ الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> يَا بَنِي آدَمَ خُذُواْ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وكُلُواْ
+> وَاشْرَبُواْ وَلاَ تُسْرِفُواْ إِنَّهُ لاَ يُحِبُّ الْمُسْرِفِينَ
 
 **31.** ***" O' children of Adam! wear your beautiful apparel at every
 time and place of prayer, and eat and drink but do not act
@@ -352,5 +328,4 @@ not like the extravagant (ones)."***
 It is narrated from Ibn-' Abbas who has said: "Eat whatever you desire,
 and wear whatever you like, but beware that the two qualities of
 extravagance and pride do not cause you to commit sin."
-
 

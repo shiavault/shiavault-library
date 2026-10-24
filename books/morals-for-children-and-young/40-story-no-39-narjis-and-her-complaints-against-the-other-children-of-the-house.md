@@ -16,4 +16,3 @@ bad action in Islam and that you should not complain about others to
 Father.”  
  Narjis replied “ I did not know that, thank you Mamma for guiding me”.
 
-

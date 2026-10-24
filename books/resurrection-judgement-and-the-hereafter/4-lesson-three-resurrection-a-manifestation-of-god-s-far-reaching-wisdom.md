@@ -352,4 +352,3 @@ hereafter a place of abode.” (*Nahj al Balaghah,* Sermon 203)
 It is in truth the hereafter that gives meaning to the life of this
 world.
 
-

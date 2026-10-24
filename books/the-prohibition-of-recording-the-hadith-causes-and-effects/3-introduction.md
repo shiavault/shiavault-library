@@ -271,4 +271,3 @@ qualifications. To know more about Sahabah and their qualifications, see
 Ahmad Husayn Ya\`qub: The Conception of the Sahabah’s Ultimate Decency,
 translated by Badr Shahin, Ansariyan Publications, I. R. Iran – 1999.
 
-

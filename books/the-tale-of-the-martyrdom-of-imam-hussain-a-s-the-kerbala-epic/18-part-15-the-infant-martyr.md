@@ -115,4 +115,3 @@ with that which will be better than victory; exact your revenge on the
 oppressors, make the afflictions that befell us in this world a treasure
 for us in the hereafter."
 
-

@@ -299,4 +299,3 @@ that the body of the buried person is not seen.
 Najaf, Karbala al-Mu'alla or Mashhad al-Muqaddas and especially if the
 dead person had made a will in this regard.
 
-

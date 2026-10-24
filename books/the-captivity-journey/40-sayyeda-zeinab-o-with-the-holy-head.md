@@ -9,4 +9,3 @@ of the daughter of the Mustafa…"
 
 So, she made everyone, of the attending people, cry
 
-

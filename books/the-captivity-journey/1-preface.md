@@ -87,4 +87,3 @@ within his intercession on the Judgment Day!
 
 And Allah’s consent is our intention
 
-

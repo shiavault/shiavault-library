@@ -50,4 +50,3 @@ external function of caliphate or not). Also there are many traditions
 of the Holy Prophet and Ali concerning the fact that Imam Hasan would
 gain the function of imamate after his noble father.
 
-

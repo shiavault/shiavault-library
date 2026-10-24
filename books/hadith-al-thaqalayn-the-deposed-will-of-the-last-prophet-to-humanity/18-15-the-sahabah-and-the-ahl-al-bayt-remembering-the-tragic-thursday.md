@@ -7,18 +7,14 @@ to put everything down in black and white during the last few days of
 his blessed lifetime. Imam al-Bukhari (d. 256 H) records how his attempt
 failed:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قبيصة حدثنا ابن عيينة عن سليمان الأحول عن سعيد ابن جبير عن ابن
-عباس رضي الله عنهما أنه قال يوم الخميس وما يوم الخميس ثم بكى حتى خضب
-دمعه الحصباء فقال :اشتد برسول الله صلى الله عليه و سلم وجعه يوم الخميس
-فقال ائتوني بكتاب أكتب لكم كتابا لن تضلوا بعده أبدا . فتنازعوا ولا
-ينبغي عند نبي تنازع فقالوا هجر رسول الله صلى الله عليه و سلم قال دعوني
-فالذي أنا فيه خير مما تدعونني إليه . وأوصى عند موته بثلاث :أخرجوا
-المشركين من جزيرة العرب وأجيزوا الوفد بنحو ما كنت أجيزهم .ونسيت
-الثالثة
-  </p>
-</blockquote>
+> حدثنا قبيصة حدثنا ابن عيينة عن سليمان الأحول عن سعيد ابن جبير عن ابن
+> عباس رضي الله عنهما أنه قال يوم الخميس وما يوم الخميس ثم بكى حتى خضب
+> دمعه الحصباء فقال :اشتد برسول الله صلى الله عليه و سلم وجعه يوم الخميس
+> فقال ائتوني بكتاب أكتب لكم كتابا لن تضلوا بعده أبدا . فتنازعوا ولا
+> ينبغي عند نبي تنازع فقالوا هجر رسول الله صلى الله عليه و سلم قال دعوني
+> فالذي أنا فيه خير مما تدعونني إليه . وأوصى عند موته بثلاث :أخرجوا
+> المشركين من جزيرة العرب وأجيزوا الوفد بنحو ما كنت أجيزهم .ونسيت
+> الثالثة
 
 Qubaysah – Ibn ‘Uyaynah – Sulayman al-Ahwal – Sa’id b. Jubayr – Ibn
 ‘Abbas, may Allah be pleased with them both:
@@ -39,26 +35,18 @@ third.”[^1]
 Dr. al-Bagha defines the word used by the Sahabah to describe their
 Prophet:
 
-<blockquote dir="rtl">
-  <p>
-)هجر (أي يتكلم بما لا يعرف لشدة وجعه
-  </p>
-</blockquote>
+> )هجر (أي يتكلم بما لا يعرف لشدة وجعه
 
 (hajara), meaning: he is saying unintelligible things due to the
 severity of his illness.[^2]
 
 Imam Muslim (d. 261 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق بن إبراهيم أخبرنا وكيع عن مالك بن مغول عن طلحة بن مصرف عن
-سعيد بن جبير عن ابن عباس أنه قال يوم الخميس وما يوم الخميس ثم جعل تسيل
-دموعه حتى رأيت على خديه كأنها نظام اللؤلؤ قال قال رسول الله صلى الله
-عليه و سلم ائتوني بالكتف والدواة أو اللوح والدواة أكتب لكم كتابا لن
-تضلوا بعده أبدا فقالوا إن رسول الله صلى الله عليه و سلم يهجر
-  </p>
-</blockquote>
+> حدثنا إسحاق بن إبراهيم أخبرنا وكيع عن مالك بن مغول عن طلحة بن مصرف عن
+> سعيد بن جبير عن ابن عباس أنه قال يوم الخميس وما يوم الخميس ثم جعل تسيل
+> دموعه حتى رأيت على خديه كأنها نظام اللؤلؤ قال قال رسول الله صلى الله
+> عليه و سلم ائتوني بالكتف والدواة أو اللوح والدواة أكتب لكم كتابا لن
+> تضلوا بعده أبدا فقالوا إن رسول الله صلى الله عليه و سلم يهجر
 
 Ishaq b. Ibrahim – Waki’ – Malik b. Maghwal – Talhah b. Musarrif – Sa’id
 b. Jubayr – Ibn ‘Abbas:
@@ -72,16 +60,12 @@ Messenger of Allah, peace be upon him, is raving mad.’”[^3]
 
 Imam Ahmad (d. 241 H) too has this riwayah:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبى ثنا سفيان عن سليمان بن أبى مسلم خال بن أبى
-نجيح سمع سعيد بن جبير يقول قال بن عباس يوم الخميس وما يوم الخميس ثم
-بكى حتى بل دمعه وقال مرة دموعه الحصى قلنا يا أبا العباس وما يوم الخميس
-قال اشتد برسول الله صلى الله عليه و سلم وجعه فقال ائتوني اكتب لكم
-كتابا لا تضلوا بعده أبدا فتنازعوا ولا ينبغي عند نبي تنازع فقالوا ما
-شأنه اهجر قال سفيان يعنى هذى
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبى ثنا سفيان عن سليمان بن أبى مسلم خال بن أبى
+> نجيح سمع سعيد بن جبير يقول قال بن عباس يوم الخميس وما يوم الخميس ثم
+> بكى حتى بل دمعه وقال مرة دموعه الحصى قلنا يا أبا العباس وما يوم الخميس
+> قال اشتد برسول الله صلى الله عليه و سلم وجعه فقال ائتوني اكتب لكم
+> كتابا لا تضلوا بعده أبدا فتنازعوا ولا ينبغي عند نبي تنازع فقالوا ما
+> شأنه اهجر قال سفيان يعنى هذى
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Sufyan – Isma’il
 b. Abi Muslim, uncle of Ibn Abi Najih – Sa’id b. Jubayr – Ibn ‘Abbas:
@@ -98,28 +82,20 @@ sub-narrator) said (concerning the word used by the Sahabah): “It means
 
 Al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is sahih upon the standard of the two Shaykhs.[^5]
 
 Imam al-Bukhari is back again:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد حدثنا ابن عيينة عن سليمان الأحول سمع سعيد ابن جبير سمع ابن
-عباس رضي الله عنهما يقول : يوم الخميس وما يوم الخميس ثم بكى حتى بل
-دمعه الحصى قلت يا أبا عباس ما يوم الخميس؟ قال اشتد برسول الله صلى الله
-عليه و سلم وجعه فقال ائتوني بكتف أكتب لكم كتابا لا تضلوا بعده أبدا
-.فتنازعوا ولا ينبغي عند نبي تنازع فقالوا ما له أهجر استفهموه فقال
-ذروني فالذي أنا فيه خير مما تدعونني إليه .فأمرهم بثلاث قال أخرجوا
-المشركين من جزيرة العرب وأجيزوا الوفد بنحو ما كنت أجيزهم .والثالثة خير
-إما أن سكتن عنها وإما أن قالها فنسيتها .قال سفيان هذا من قول سليمان
-  </p>
-</blockquote>
+> حدثنا محمد حدثنا ابن عيينة عن سليمان الأحول سمع سعيد ابن جبير سمع ابن
+> عباس رضي الله عنهما يقول : يوم الخميس وما يوم الخميس ثم بكى حتى بل
+> دمعه الحصى قلت يا أبا عباس ما يوم الخميس؟ قال اشتد برسول الله صلى الله
+> عليه و سلم وجعه فقال ائتوني بكتف أكتب لكم كتابا لا تضلوا بعده أبدا
+> .فتنازعوا ولا ينبغي عند نبي تنازع فقالوا ما له أهجر استفهموه فقال
+> ذروني فالذي أنا فيه خير مما تدعونني إليه .فأمرهم بثلاث قال أخرجوا
+> المشركين من جزيرة العرب وأجيزوا الوفد بنحو ما كنت أجيزهم .والثالثة خير
+> إما أن سكتن عنها وإما أن قالها فنسيتها .قال سفيان هذا من قول سليمان
 
 Muhammad – Ibn ‘Uyaynah – Sulayman al-Ahwal – Ibn Jubayr – Ibn ‘Abbas,
 may Allah be pleased with them both:
@@ -154,44 +130,28 @@ was “raving mad”, that the words they used meant exactly that. This
 matter is equally confirmed by other classical ‘ulama of the Ahl
 al-Sunnah. Imam al-Shami (d. 942 H), for instance, states:
 
-<blockquote dir="rtl">
-  <p>
-الهجر :بالضم :الهذيان وقول الباطل ويطلق على الكلام الفاحش.
-  </p>
-</blockquote>
+> الهجر :بالضم :الهذيان وقول الباطل ويطلق على الكلام الفاحش.
 
 Al-Hujr: is raving madness and irrational talk, and it is (also) used to
 refer to obscene, immoral talk.[^7]
 
 The ace Sunni linguist, Ibn Manzur (d. 711 H), says as well:
 
-<blockquote dir="rtl">
-  <p>
-والهجر :الهذيان.
-  </p>
-</blockquote>
+> والهجر :الهذيان.
 
 Al-Hujr: is raving madness.[^8]
 
 Imam Ibn Salam (d. 224), an ancient, leading Sunni hadith expert, has
 this submission too:
 
-<blockquote dir="rtl">
-  <p>
-وأما الهجر في الكلام فإنه الهذيان
-  </p>
-</blockquote>
+> وأما الهجر في الكلام فإنه الهذيان
 
 As for al-hujr in statements, it is raving madness.[^9]
 
 Al-Hafiz Ibn Hajar al-‘Asqalani (d. 852 H) does not say anything
 different either:
 
-<blockquote dir="rtl">
-  <p>
-والهجر بالضم ثم السكون الهذيان
-  </p>
-</blockquote>
+> والهجر بالضم ثم السكون الهذيان
 
 Al-Hujr is raving madness.[^10]
 
@@ -201,12 +161,8 @@ hajara (هجر) – means “to rave mad”. However, there is a second
 definition for it which must be taken into account. Imam Ibn Salam comes
 in again:
 
-<blockquote dir="rtl">
-  <p>
-قال الكسائي وبعضه عن الأصمعي وغيرهما: قال: الهجر الإفحاش في المنطق
-والخنا ونحوه، يقال منه :أهجر الرجل يهجر إهجارا
-  </p>
-</blockquote>
+> قال الكسائي وبعضه عن الأصمعي وغيرهما: قال: الهجر الإفحاش في المنطق
+> والخنا ونحوه، يقال منه :أهجر الرجل يهجر إهجارا
 
 Al-Kisai – and part of it is from al-Asma’i and others: al-hujr is to
 say obscene things and to use obscene language. It is said from it: the
@@ -217,21 +173,13 @@ language, the verb to use is either ahajara or yahjur. Interestingly,
 both terms were among those used by the Sahabah to describe their
 Prophet:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا إن رسول الله صلى الله عليه و سلم يهجر
-  </p>
-</blockquote>
+> فقالوا إن رسول الله صلى الله عليه و سلم يهجر
 
 The Messenger of Allah, peace be upon him, is raving mad.
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا ما له أهجر
-  </p>
-</blockquote>
+> فقالوا ما له أهجر
 
 Then they said, ‘What is wrong with him? He is raving mad.
 
@@ -239,21 +187,13 @@ We have translated both words as “raving mad” – which is one of their
 definitions anyway, influenced heavily by the commentary of Ibn
 ‘Uyaynah. But then, the translations could also be these:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا إن رسول الله صلى الله عليه و سلم يهجر
-  </p>
-</blockquote>
+> فقالوا إن رسول الله صلى الله عليه و سلم يهجر
 
 The Messenger of Allah, peace be upon him, is saying obscene things.
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا ما له أهجر
-  </p>
-</blockquote>
+> فقالوا ما له أهجر
 
 Then they said, ‘What is wrong with him? He is saying obscene things.
 
@@ -261,12 +201,8 @@ Qadi ‘Iyad (d. 544 H), for instance, has given both meanings to ahajara
 – one of the words used by the Sahabah to qualify the Rasul. He even
 specifically refers to the hadith itself:
 
-<blockquote dir="rtl">
-  <p>
-يقال اهجر الرجل إذا قال الفحش وقوله اهجر رسول الله صلى الله عليه وسلم
-كذا هو الصحيح بفتح الهاء أي هذي والهجر الهذيان
-  </p>
-</blockquote>
+> يقال اهجر الرجل إذا قال الفحش وقوله اهجر رسول الله صلى الله عليه وسلم
+> كذا هو الصحيح بفتح الهاء أي هذي والهجر الهذيان
 
 It is said “the man ahajara” when he says obscene things. His statement
 “the Messenger of Allah, peace be upon him, ahajara” – which is the
@@ -275,14 +211,10 @@ means raving madness; and al-hujr means raving madness.[^12]
 
 Abu ‘Ubayd al-Bakri does the same too:
 
-<blockquote dir="rtl">
-  <p>
-الهجر :القبيح من الكلام، يقال] منه :[أهجر، إذا أفحش وقال ما يقبح،
-ويقال هجر في منامه إذا تكلم بما لا يعقل، ويقال هجر المريض وأهجر إذا
-هذى .وقال ابن عباس: اشتد برسول الله عليه الصلاة والسلام وجعه فقال:
-ايتوني بكتاب أكتب لكم لا تضلوا بعدي فقالوا: ما شأنه أهجر
-  </p>
-</blockquote>
+> الهجر :القبيح من الكلام، يقال] منه :[أهجر، إذا أفحش وقال ما يقبح،
+> ويقال هجر في منامه إذا تكلم بما لا يعقل، ويقال هجر المريض وأهجر إذا
+> هذى .وقال ابن عباس: اشتد برسول الله عليه الصلاة والسلام وجعه فقال:
+> ايتوني بكتاب أكتب لكم لا تضلوا بعدي فقالوا: ما شأنه أهجر
 
 Al-Hujr is obscenity in statements. It is said from it: ahajara when he
 says obscene things. It is also said that he hajara in his sleep if he
@@ -300,22 +232,14 @@ during his illness.
 
 Imam Ibn Jarir al-Tabari (d. 310 H) also has this input:
 
-<blockquote dir="rtl">
-  <p>
-من قولهم :أهجر الرجل: إذا أفحش في القول.
-  </p>
-</blockquote>
+> من قولهم :أهجر الرجل: إذا أفحش في القول.
 
 They say “the man ahajara” when he makes obscene statements.[^14]
 
 Ibn Faris (d. 395 H), a well-known classical linguist, caps it:
 
-<blockquote dir="rtl">
-  <p>
-الهجر :الهذيان .يقال هجر الرجل. والهجر: الإفحاش في المنطق يقال. أهجر
-الرجل في منطقه.
-  </p>
-</blockquote>
+> الهجر :الهذيان .يقال هجر الرجل. والهجر: الإفحاش في المنطق يقال. أهجر
+> الرجل في منطقه.
 
 Al-Hujr is raving madness. It is said that the man hajara (i.e. to mean
 that he is suffering from al-hujr). Al-Hujr also means obscenity in
@@ -326,42 +250,26 @@ This clarification by Ibn Faris – and, of course, by others too - would
 establish that the Sahabah accused the Messenger of both types of
 al-hujr:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا هجر رسول الله صلى الله عليه و سلم
-  </p>
-</blockquote>
+> فقالوا هجر رسول الله صلى الله عليه و سلم
 
 So, they said, ‘The Messenger of Allah is raving mad (hajara).’
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا إن رسول الله صلى الله عليه و سلم يهجر
-  </p>
-</blockquote>
+> فقالوا إن رسول الله صلى الله عليه و سلم يهجر
 
 They said: ‘The Messenger of Allah, peace be upon him, is raving mad
 (yahjur).’”[^16]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا ما له أهجر
-  </p>
-</blockquote>
+> فقالوا ما له أهجر
 
 Then they said, ‘What is wrong with him? He is raving mad (ahajara).’
 
 And finally:
 
-<blockquote dir="rtl">
-  <p>
-فقالوا ما له أهجر
-  </p>
-</blockquote>
+> فقالوا ما له أهجر
 
 Then they said, ‘What is wrong with him? He is saying obscene things
 (ahajara).’
@@ -371,20 +279,16 @@ rotten? Why did those Sahabah flare up so badly after hearing the
 harmless request of the Prophet? Imam al-Bukhari records a report which
 sheds some light:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إبراهيم بن موسى أخبرنا هشام عن معمر عن الزهري عن عبيد الله بن
-عبد الله عن ابن عباس قال :لما حضر النبي صلى الله عليه و سلم قال وفي
-البيت رجال فيهم عمر بن الخطاب قال هلم أكتب لكم كتابا لن تضلوا بعده
-.قال عمر إن النبي صلى الله عليه و سلم غلبه الوجع وعندكم القرآن .فحسبنا
-كتاب الله .واختلف أهل البيت اختصموا فمنهم من يقول قربوا يكتب لكم رسول
-الله صلى الله عليه و سلم كتابا لن تضلوا بعده ومنهم من يقول ما قال عمر
-فلما أكثروا اللغط والاختلاف عند النبي صلى الله عليه و سلم قال قوموا
-عني قال عبيد الله فكان ابن عباس يقول إن الرزية كل الرزية ما حال بين
-رسول الله صلى الله عليه و سلم وبين أن يكتب لهم ذلك الكتاب من اختلافهم
-ولغطهم
-  </p>
-</blockquote>
+> حدثنا إبراهيم بن موسى أخبرنا هشام عن معمر عن الزهري عن عبيد الله بن
+> عبد الله عن ابن عباس قال :لما حضر النبي صلى الله عليه و سلم قال وفي
+> البيت رجال فيهم عمر بن الخطاب قال هلم أكتب لكم كتابا لن تضلوا بعده
+> .قال عمر إن النبي صلى الله عليه و سلم غلبه الوجع وعندكم القرآن .فحسبنا
+> كتاب الله .واختلف أهل البيت اختصموا فمنهم من يقول قربوا يكتب لكم رسول
+> الله صلى الله عليه و سلم كتابا لن تضلوا بعده ومنهم من يقول ما قال عمر
+> فلما أكثروا اللغط والاختلاف عند النبي صلى الله عليه و سلم قال قوموا
+> عني قال عبيد الله فكان ابن عباس يقول إن الرزية كل الرزية ما حال بين
+> رسول الله صلى الله عليه و سلم وبين أن يكتب لهم ذلك الكتاب من اختلافهم
+> ولغطهم
 
 Ibrahim b. Musa – Hisham – Ma’mar – al-Zuhri – ‘Ubayd Allah b. ‘Abd
 Allah – Ibn ‘Abbas:
@@ -418,16 +322,12 @@ raving madness were also only “repeating what ‘Umar said”. Shaykh Ibn
 Taymiyyah (d. 728 H) explains what ‘Umar’s “dilemma” was in that
 incident:
 
-<blockquote dir="rtl">
-  <p>
-وأما عمر فاشتبه عليه هل كان قول النبي صلى الله عليه و سلم من شدة المرض
-أو كان من أقواله المعروفة والمرض جائز على الأنبياء ولهذا قال ماله أهجر
-فشك في ذلك ولم يجزم بأنه هجر والشك جائز على عمر فإنه لا معصوم إلا
-النبي صلى الله عليه و سلم لا سيما وقد شك بشبهة فإن النبي صلى الله عليه
-و سلم كان مريضا فلم يدر أكلامه كان من وهج المرض كما يعرض للمريض أو كان
-من كلامه المعروف الذي يجب قبوله
-  </p>
-</blockquote>
+> وأما عمر فاشتبه عليه هل كان قول النبي صلى الله عليه و سلم من شدة المرض
+> أو كان من أقواله المعروفة والمرض جائز على الأنبياء ولهذا قال ماله أهجر
+> فشك في ذلك ولم يجزم بأنه هجر والشك جائز على عمر فإنه لا معصوم إلا
+> النبي صلى الله عليه و سلم لا سيما وقد شك بشبهة فإن النبي صلى الله عليه
+> و سلم كان مريضا فلم يدر أكلامه كان من وهج المرض كما يعرض للمريض أو كان
+> من كلامه المعروف الذي يجب قبوله
 
 As for ‘Umar, it was not clear to him whether the statement of the
 Prophet, peace be upon him, was from the severity of the illness or from
@@ -446,12 +346,8 @@ Well, ignoring the blatant incoherence of the submissions, there are
 nonetheless pieces of misinformation in them. First and foremost, ‘Umar
 expressed no doubt in his statement. He was direct, explicit and firm:
 
-<blockquote dir="rtl">
-  <p>
-قال عمر إن النبي صلى الله عليه و سلم غلبه الوجع وعندكم القرآن .فحسبنا
-كتاب الله
-  </p>
-</blockquote>
+> قال عمر إن النبي صلى الله عليه و سلم غلبه الوجع وعندكم القرآن .فحسبنا
+> كتاب الله
 
 ‘Umar said, “Verily, the illness has fully possessed the Prophet, peace
 be upon him. And you have the Qur’an. So, the Book of Allah is
@@ -459,11 +355,7 @@ sufficient for us.”
 
 Secondly, this is what our Shaykh has attributed to ‘Umar:
 
-<blockquote dir="rtl">
-  <p>
-ولهذا قال ماله أهجر فشك في ذلك ولم يجزم بأنه هجر
-  </p>
-</blockquote>
+> ولهذا قال ماله أهجر فشك في ذلك ولم يجزم بأنه هجر
 
 This was why he said, “What is wrong with him? He is raving mad (or he
 is saying obscene things).” So, he doubted in that, and did not
@@ -471,11 +363,7 @@ explicitly state that he was raving mad.
 
 However, it was not ‘Umar who uttered those words:
 
-<blockquote dir="rtl">
-  <p>
-وقالوا ما شأنه؟ أهجر استفهموه
-  </p>
-</blockquote>
+> وقالوا ما شأنه؟ أهجر استفهموه
 
 Then THEY said, ‘What is wrong with him? He is raving mad. Ask him
 questions to confirm’.
@@ -489,12 +377,8 @@ is enough evidence that he (‘Umar) believed - or at least pretended to
 have believed - that the Messenger was indeed raving mad. After all,
 this is what our Shaykh himself says:
 
-<blockquote dir="rtl">
-  <p>
-فلم يدر أكلامه كان من وهج المرض كما يعرض للمريض أو كان من كلامه
-المعروف الذي يجب قبوله
-  </p>
-</blockquote>
+> فلم يدر أكلامه كان من وهج المرض كما يعرض للمريض أو كان من كلامه
+> المعروف الذي يجب قبوله
 
 So, he (‘Umar) did not know whether his statement was from the sparkle
 of the illness as it happens to sick people or from his intelligent
@@ -510,11 +394,7 @@ Sahabah sounded “irrational” to warrant the attack on his mental health
 by them? In reality, there was no such thing. His statement was
 perfectly sensible, reasonable and intelligent:
 
-<blockquote dir="rtl">
-  <p>
-ائتوني بكتاب أكتب لكم كتابا لن تضلوا بعده أبدا
-  </p>
-</blockquote>
+> ائتوني بكتاب أكتب لكم كتابا لن تضلوا بعده أبدا
 
 Bring me a sheet of paper so that I may write a document for you after
 which you will never go astray.
@@ -539,11 +419,7 @@ throughout his lifetime. They mostly base their position on the fact
 that he has been called “the Ummi Prophet” in the Book of Allah, and on
 this verse:
 
-<blockquote dir="rtl">
-  <p>
-وما كنت تتلو من قبله من كتاب ولا تخطه بيمينك إذا لارتاب المبطلون
-  </p>
-</blockquote>
+> وما كنت تتلو من قبله من كتاب ولا تخطه بيمينك إذا لارتاب المبطلون
 
 Neither did you (O Muhammad) read any book before it, nor did you write
 any book with your right hand. In that case, indeed, the followers of
@@ -560,11 +436,7 @@ claim: Muhammad never wrote or read any book before the Qur’an. This
 suggests that he actually wrote and read after the start of its descent.
 In fact, this is explicitly confirmed in the Book itself:
 
-<blockquote dir="rtl">
-  <p>
-رسول من الله يتلو صحفا مطهرة فيها كتب قيمة
-  </p>
-</blockquote>
+> رسول من الله يتلو صحفا مطهرة فيها كتب قيمة
 
 A Messenger from Allah, reading purified pages. In them are correct and
 straight laws.[^21]
@@ -576,20 +448,16 @@ the Qur’an) is this report of al-Bukhari of what happened at
 al-Hudaybiyyah, four years before he was accused of raving madness by
 his Sahabah:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبيد الله بن موسى عن إسرائيل عن أبي إسحاق عن البراء رضي الله عنه
-قال :اعتمر النبي صلى الله عليه و سلم في ذي القعدة فأبى أهل مكة أن
-يدعوه يدخل مكة حتى قاضاهم على أن يقيم بها ثلاثة أيام فلما كتبوا الكتاب
-كتبوا هذا ما قاضى عليه محمد رسول الله صلى الله عليه و سلم فقالوا لا
-نقر بها فلو نعلم أنك رسول الله ما منعاك لكن أنت محمد بن عبد الله قال
-أنا رسول الله وأنا محمد بن عبد الله .ثم قال لعلي امح رسول الله .قال لا
-والله لا أمحوك أبدا فأخذ رسول الله صلى الله عليه و سلم الكتاب فكتب هذا
-ما قاضى عليه محمد بن عبد الله لا يدخل مكة سلاح إلا في القراب وأن لا
-يخرج من أهلها بأحد إن أراد أن يتبعه وأن لا يمنع أحدا من أصحابه أراد أن
-يقيم بها.
-  </p>
-</blockquote>
+> حدثنا عبيد الله بن موسى عن إسرائيل عن أبي إسحاق عن البراء رضي الله عنه
+> قال :اعتمر النبي صلى الله عليه و سلم في ذي القعدة فأبى أهل مكة أن
+> يدعوه يدخل مكة حتى قاضاهم على أن يقيم بها ثلاثة أيام فلما كتبوا الكتاب
+> كتبوا هذا ما قاضى عليه محمد رسول الله صلى الله عليه و سلم فقالوا لا
+> نقر بها فلو نعلم أنك رسول الله ما منعاك لكن أنت محمد بن عبد الله قال
+> أنا رسول الله وأنا محمد بن عبد الله .ثم قال لعلي امح رسول الله .قال لا
+> والله لا أمحوك أبدا فأخذ رسول الله صلى الله عليه و سلم الكتاب فكتب هذا
+> ما قاضى عليه محمد بن عبد الله لا يدخل مكة سلاح إلا في القراب وأن لا
+> يخرج من أهلها بأحد إن أراد أن يتبعه وأن لا يمنع أحدا من أصحابه أراد أن
+> يقيم بها.
 
 ‘Ubayd Allah b. Musa – Israil – Abu Ishaq – al-Bara, may Allah be
 pleased with him:
@@ -616,23 +484,15 @@ How could an unlettered person have achieved such a feat?!
 In any case, the problem of ‘Umar and his supporters with the
 instruction of their Prophet was only the bold phrase below:
 
-<blockquote dir="rtl">
-  <p>
-ائتوني بكتاب أكتب لكم كتابا لن تضلوا بعده أبدا
-  </p>
-</blockquote>
+> ائتوني بكتاب أكتب لكم كتابا لن تضلوا بعده أبدا
 
 Bring me a sheet of paper so that I may write a document for you after
 which you will never go astray.
 
 We have drawn this conclusion from ‘Umar’s own reply to it:
 
-<blockquote dir="rtl">
-  <p>
-قال عمر إن النبي صلى الله عليه و سلم غلبه الوجع وعندكم القرآن .فحسبنا
-كتاب الله
-  </p>
-</blockquote>
+> قال عمر إن النبي صلى الله عليه و سلم غلبه الوجع وعندكم القرآن .فحسبنا
+> كتاب الله
 
 ‘Umar said, “Verily, the illness has seized total control of the
 Prophet, peace be upon him. And you have the Qur’an. So, the Book of
@@ -640,12 +500,8 @@ Allah is sufficient for us.”
 
 Meanwhile, just a few weeks before, the Rasul had proclaimed at ‘Arafat:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
-وعترتي أهل بيتي
-  </p>
-</blockquote>
+> يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
+> وعترتي أهل بيتي
 
 O mankind! I have left behind over you that which if you hold fast to it
 you will never go astray: the Book of Allah AND my offspring, my Ahl
@@ -653,12 +509,8 @@ al-Bayt.”
 
 A few days later, at Ghadir Khumm, he repeated the call:
 
-<blockquote dir="rtl">
-  <p>
-قد تركت فيكم ما إن أخذتم به لن تضلوا: كتاب الله سببه بيده، وسببه
-بأيديكم، وأهل بيتي
-  </p>
-</blockquote>
+> قد تركت فيكم ما إن أخذتم به لن تضلوا: كتاب الله سببه بيده، وسببه
+> بأيديكم، وأهل بيتي
 
 I have left behind over you that which if you hold fast to it you will
 never go astray: the Book of Allah – one end of which is in His Hand and
@@ -779,5 +631,4 @@ Minhaj al-Sunnah al-Nabawiyyah (Muasassat Qurtubah; 1st edition, 1406 H)
 al-Bukhari al-Ju’fi, al-Jami’ al-Sahih al-Mukhtasar (Beirut: Dar Ibn
 Kathir; 3rd edition, 1407 H) [annotator: Dr. Mustafa Dib al-Bagha], vol.
 2, p. 960, \# 2552
-
 

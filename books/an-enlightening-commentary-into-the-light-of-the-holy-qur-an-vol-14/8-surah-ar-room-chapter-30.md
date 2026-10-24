@@ -10,11 +10,7 @@ Surah Ar-Room, Chapter 30
 The Virtue of the Surah
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -63,5 +59,4 @@ the earth being revived after its death.
 Nur-uth-Thaqalayn, Vol. 4, P. 169, the Commentary
 
 [^2]: Majma‘-ul-Bayan, at the beginning of Surah Ar-Room
-
 

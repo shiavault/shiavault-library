@@ -90,7 +90,6 @@ your enemies and the enemies of the Imams in your offspring. This is
 what Gabriel has informed me 'thus let him who will, believe (it), and
 let him who will, reject (it) (18:29)'"[^51]
 
-
 **Keeping alive the Remembrance of the Imam (AS)**
 
 One of our important duties during the time of occultation is to
@@ -120,7 +119,6 @@ matter. May Allah have mercy on he who revives our matter. O Fudhail! He
 who remembers us or being reminded about us and this brings tears out of
 his eyes even to the extent of a wing of a fly, Allah will forgive his
 sins even if they are greater than the scum of the sea."[^54]
-
 
 **Awaiting the relief**
 
@@ -198,7 +196,6 @@ al-Qa'im, he will have the reward of he who has received al-Qa'im. Thus,
 try hard (in obedience) and wait, and may you taste its sweetness, O the
 group that is covered with (Allah's) mercy!"[^60]
 
-
 **Avoiding a hasty action**
 
 The traditions also differentiate between hastening (Isti'jaal) and
@@ -255,5 +252,4 @@ not appear while the earth has been filled out with tyranny, and until I
 relinquish all my affairs to You. O Allah! I ask You to show me the
 master of the affairs while has appeared and manifested his command... O
 Allah! Hasten his relief..."[^70]
-
 

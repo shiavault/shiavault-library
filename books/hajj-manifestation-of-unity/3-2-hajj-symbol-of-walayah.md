@@ -20,10 +20,8 @@ greater attention.
 In a tradition from the grandson of the Prophet (S), Imam Zayn
 al-‘Abidin (‘a) it is said:
 
-<p dir="rtl">
 بُنِيَّ الاسلام على خَمسْ على الصلاة و الزكاة و الصوم و الحج و الولاية و
 لم يناد بشيء كما نودي بالولاية
-</p>
 
 Islam has been founded on five [pillars]: on Salah, zakah, Sawm, Hajj,
 and walayah; and nothing has been called to like walayah has been called
@@ -48,18 +46,14 @@ This “vertical” nearness in the Qur’an is such that it is obtained on
 one side and ,not obtained for the other. For example Allah is equally
 close to both a believer and a disbeliever:
 
-<p dir="rtl">
 وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
-</p>
 
 ***We are nearer to him (man) than his jugular vein. ( Qur’an 50:16)***
 
 But on the other hand, the disbeliever, due to his not performing good
 actions (acts of qurb), is “far” from the Divine Presence.
 
-<p dir="rtl">
 أُولَٰئِكَ يُنَادَوْنَ مِنْ مَكَانٍ بَعِيدٍ
-</p>
 
 ***Those (kuffar), they are called to from a far-off place.(Qur’an
 41:44)***
@@ -78,9 +72,7 @@ one-sided or ishraqi is termed walayah.
 
 Now the Qur’an says:
 
-<p dir="rtl">
 …فَاللَّهُ هُوَ الْوَلِيُّ …
-</p>
 
 ***But it is Allah Who is the (real) Wali. (Qur’an 42:9)***
 
@@ -99,9 +91,7 @@ the cause of our becoming near to Him and His friends.
 
 And Allah in turn becomes the Friend of these believers.
 
-<p dir="rtl">
 اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا ….
-</p>
 
 ***Allah is the Wali of those who believe. (Qur’an 2:257)***
 
@@ -131,12 +121,10 @@ symbol, mediating between it and God. The wali*par excellence* after the
 Prophet (S) was Amir al-Mu’minin Imam ‘Ali (‘a). In defending himself
 against the attacks and accusations of the Khawarij he said:
 
-<p dir="rtl">
 قد قال الله عزوجل : (ولله على الناس حج البيت من استطاع إليه سبيلا( ولو
 ترك الناس الحج لم يكن البيت ليكفر بتركهم إياه ولكن كانوا يكفرون بتركهم
 ايّاه ، لأنّ الله قد نصبه لكم علما، وكذلك نصبني علما حيث قال رسول الله (
 صلى اله عليه وآله وسلم ) : يا علي ، أنت مني بمنزلة الكعبة تؤتى ولا تأتي.
-</p>
 
 Surely God has said, “And it is the duty of mankind toward God to make
 pilgrimage to the House - for those who are able to find a way to go to
@@ -159,5 +147,4 @@ walayah - the Ka’bah plays its fundamental role as the channel of Divine
 grace and the sustainer of religion and livelihood of the people; for in
 one of its most significant meanings walayah is nothing other than the
 Divine channel of grace.
-
 

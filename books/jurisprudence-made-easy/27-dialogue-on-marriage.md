@@ -312,4 +312,3 @@ believing in the permissibility of temporary marriage?
  9. A man is not permitted to marry more than four women by way of
 permanent marriage.  He also has the right to divorce his wives.
 
-

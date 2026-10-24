@@ -18,4 +18,3 @@ I saw the Egyptian man.                         **شاه
 
 I said hello to the Egyptian man.  **سلـَّمتُ علی الرجُل ِ المصريِّ.**
 
-

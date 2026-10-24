@@ -1,24 +1,16 @@
 Right n. 24: The Right of the Child
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-حق الولد
-  </p>
-</blockquote>
+> حق الولد
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا حَقُّ وَلَدِكَ فَتَعْلَمَ أنَّهُ مِنْكَ وَمُضَافٌ إلَيكَ فِي
-عَاجِلِ الدُنْيَا بخَيْرِهِ وَشَرِّهِ، وَأَنَّكَ مَسْئولٌ عَمَّا
-ولِّيتَهُ مِنْ حُسْنِ الأَدَب وَالدّلالَةِ عَلَى رَبهِ وَالْمَعُونةِ
-لَهُ عَلَى طَاعَتِهِ فِيكَ وَفِي نفْسِهِ، فَمُثابٌ عَلَى ذلِكَ
-وَمُعَاقَبٌ، فاعْمَلْ فِي أَمْرِهِ عَمَلَ الْمُتَزَيِّنِ بحُسْنِ
-أَثرِهِ عَلَيْهِ فِي عَاجِلِ الدُّنْيَا، الْمُعْذِرِ إلَى رَبهِ فِيمَا
-بَيْنَكَ وبَيْنَهُ بحُسْنِ الْقِيَامِ عَلَيْهِ وَالأَخذُ لَهُ مِنْهُ.
-وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمَّا حَقُّ وَلَدِكَ فَتَعْلَمَ أنَّهُ مِنْكَ وَمُضَافٌ إلَيكَ فِي
+> عَاجِلِ الدُنْيَا بخَيْرِهِ وَشَرِّهِ، وَأَنَّكَ مَسْئولٌ عَمَّا
+> ولِّيتَهُ مِنْ حُسْنِ الأَدَب وَالدّلالَةِ عَلَى رَبهِ وَالْمَعُونةِ
+> لَهُ عَلَى طَاعَتِهِ فِيكَ وَفِي نفْسِهِ، فَمُثابٌ عَلَى ذلِكَ
+> وَمُعَاقَبٌ، فاعْمَلْ فِي أَمْرِهِ عَمَلَ الْمُتَزَيِّنِ بحُسْنِ
+> أَثرِهِ عَلَيْهِ فِي عَاجِلِ الدُّنْيَا، الْمُعْذِرِ إلَى رَبهِ فِيمَا
+> بَيْنَكَ وبَيْنَهُ بحُسْنِ الْقِيَامِ عَلَيْهِ وَالأَخذُ لَهُ مِنْهُ.
+> وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of your child is that you should know that he is from
 you and he will be ascribed to you in this world due to both his good
@@ -71,12 +63,8 @@ them to the point of their perfection and application. He also destroys
 the potentially bad hereditary inclinations left over in the child from
 his parents or grandparents. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-وَيَجِبُ لِلوَلَدِ عَلى والِدِهِ ثَلاثُ خِصالٍ: اخْتِيارُهُ
-لِوالِدَتِهِ وَتَحْسِينُ اسْمِهِ وَالمُبالَغَةُ في تَأدِيبِهِ.
-  </p>
-</blockquote>
+> وَيَجِبُ لِلوَلَدِ عَلى والِدِهِ ثَلاثُ خِصالٍ: اخْتِيارُهُ
+> لِوالِدَتِهِ وَتَحْسِينُ اسْمِهِ وَالمُبالَغَةُ في تَأدِيبِهِ.
 
 *“Three rights for the child are incumbent upon his father: selecting a
 (good) mother for him, giving him a good name, and exerting the utmost
@@ -86,11 +74,7 @@ Thus Imam Sadiq has considered that parents must exert all efforts to
 raise their children.  
  Imam Sajjad said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِنِّي عَلى تَربِيَتِهِم وَتَأدِيبِهِم وَبَرِّهِم.
-  </p>
-</blockquote>
+> وَأَعِنِّي عَلى تَربِيَتِهِم وَتَأدِيبِهِم وَبَرِّهِم.
 
 *“O God! Please help me in raising and educating my children and making
 them good people.”*[^3]
@@ -105,36 +89,24 @@ Children have certain rights over their parents from the time that they
 are born. The first right relates to naming them. This right has been
 mentioned in many traditions. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ حَقِّ الوَلَدِ عَلى الوالِدِ ِ أنْ يُحْسِنَ اسْمَهُ ويُحَسِّنَ
-أدَبَه.
-  </p>
-</blockquote>
+> مِنْ حَقِّ الوَلَدِ عَلى الوالِدِ ِ أنْ يُحْسِنَ اسْمَهُ ويُحَسِّنَ
+> أدَبَه.
 
 *“Among the rights of child over the father are that he chooses a good
 name for him, and raises him well.”*[^4]
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-سَمُّوا أوْلادَكُم أسْماءَ الأنْبِياءِ وَأَحْسَنُ الأسمَاءِ
-عَبْدُاللهِ وَعَبْدُالرَّحْمنِ.
-  </p>
-</blockquote>
+> سَمُّوا أوْلادَكُم أسْماءَ الأنْبِياءِ وَأَحْسَنُ الأسمَاءِ
+> عَبْدُاللهِ وَعَبْدُالرَّحْمنِ.
 
 *“Give your children the names of the Prophets. The best names are
 Abdullah and Abd al-Rahman.”* [^5]
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مِن حَقِّ الوَلَدِ عَلى والِدِهِ ثَلاثَة: يُحْسِنُ اسمَهُ ويُعَلِّمُهُ
-الكِتابَةَ ويُزَوِّجُهُ إذا بَلَغَ.
-  </p>
-</blockquote>
+> مِن حَقِّ الوَلَدِ عَلى والِدِهِ ثَلاثَة: يُحْسِنُ اسمَهُ ويُعَلِّمُهُ
+> الكِتابَةَ ويُزَوِّجُهُ إذا بَلَغَ.
 
 *“Children have three rights over their father: that he give them a good
 name, teach them how to read and write, and marry them off when they
@@ -142,12 +114,8 @@ mature.”*[^6]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-حَقُّ الوَلَدِ عَلى الوالِدِ أنْ يُحْسِنَ اسمَهُ ويُحَسِّنَ أدَبَهُ
-ويُعَلِّمَهُ القْرآنَ.
-  </p>
-</blockquote>
+> حَقُّ الوَلَدِ عَلى الوالِدِ أنْ يُحْسِنَ اسمَهُ ويُحَسِّنَ أدَبَهُ
+> ويُعَلِّمَهُ القْرآنَ.
 
 *“The right of a child incumbent upon his father is that the father
 should choose a good name for him and teach him good etiquette and the
@@ -232,12 +200,8 @@ physical growth. The food for their spirit consists of the training and
 care they receive from their parents. Children need both food and love.
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-أحِبُّوا الصِّبْيانَ وَارْحَمُوهُم فإذَا وَعَدْتُمُوهُم فَفُوا لَهُم
-فإنَّهُم لا يَرَوْنَ إلاّ أنَّكُم رازِقُوهُم.
-  </p>
-</blockquote>
+> أحِبُّوا الصِّبْيانَ وَارْحَمُوهُم فإذَا وَعَدْتُمُوهُم فَفُوا لَهُم
+> فإنَّهُم لا يَرَوْنَ إلاّ أنَّكُم رازِقُوهُم.
 
 *“Love your children, and be kind and merciful to them. Fulfill your
 promises made to them since children consider their father to be the one
@@ -248,12 +212,8 @@ here so that they do not learn to break their promises. There are many
 ways to express your love. One way is to kiss and hug them when they are
 small. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-قَبّلوا أولادَكُم فإنَّ لكُم بِكُلِّ قُبْلَةٍ دَرَجَةً في الجَنَّةِ ما
-بَيْنَ كُلّ دَرَجَتَينِ خَمْسَمِائَةِ عامٍ.
-  </p>
-</blockquote>
+> قَبّلوا أولادَكُم فإنَّ لكُم بِكُلِّ قُبْلَةٍ دَرَجَةً في الجَنَّةِ ما
+> بَيْنَ كُلّ دَرَجَتَينِ خَمْسَمِائَةِ عامٍ.
 
 *“Kiss your children. There is an elevation in your rank in Paradise as
 a reward for each kiss. Each raise in rank is as much as five hundred
@@ -261,12 +221,8 @@ years.”*[^16]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-قُبلَةُ الوَلَدِ رَحمَةٌ وقُبلَةُ المَرأةِ شَهوَةٌ وقُبلَةُ
-الوالِدَينِ عِبادَةٌ وقُبلَةُ الرَّجُلِ أخاهُ دِينٌ.
-  </p>
-</blockquote>
+> قُبلَةُ الوَلَدِ رَحمَةٌ وقُبلَةُ المَرأةِ شَهوَةٌ وقُبلَةُ
+> الوالِدَينِ عِبادَةٌ وقُبلَةُ الرَّجُلِ أخاهُ دِينٌ.
 
 *“Kissing the child is mercy. Kissing the woman is desire. Kissing
 parents is worship, and kissing one’s believing brethren is
@@ -274,12 +230,8 @@ religion.”*[^17]
 
 Kissing is restricted for others. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا بَلَغَتِ الجارِيَةُ سِتَّ سِنينَ فلا تُقَبِّلْها، والغُلامُ لا
-تُقَبِّلُهُ المَرأةُ إذا جَاوَزَ سَبْعَ سِنينَ.
-  </p>
-</blockquote>
+> إذَا بَلَغَتِ الجارِيَةُ سِتَّ سِنينَ فلا تُقَبِّلْها، والغُلامُ لا
+> تُقَبِّلُهُ المَرأةُ إذا جَاوَزَ سَبْعَ سِنينَ.
 
 *“Men should not kiss girls who are older than six and women should not
 kiss boys who are older than seven.”*[^18]
@@ -297,12 +249,8 @@ Excessive Love
 Although Islam advises us to love our children, it admonishes us against
 excessive love, and its possible side effects. Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-شَرُّ الآبَاءِ مَن دَعاهُ بِرُّهُ إلى الإفْراطِ وَشَرُّ الأبْناءِ مَن
-دَعاهُ التَّقْصيرُ إلى العُقوقِ.
-  </p>
-</blockquote>
+> شَرُّ الآبَاءِ مَن دَعاهُ بِرُّهُ إلى الإفْراطِ وَشَرُّ الأبْناءِ مَن
+> دَعاهُ التَّقْصيرُ إلى العُقوقِ.
 
 *“The worst of fathers is one whose kindness (to his children) drives
 him to excess. The worst of children is one whose negligence leads him
@@ -311,11 +259,7 @@ to undutifulness (towards parents).”* [^20]
 Excessive love for the children might spoil them and make them haughty
 and selfish. Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-شَرُّ الأمُورِ الرِّضا عَنِ النَّفْسِ.
-  </p>
-</blockquote>
+> شَرُّ الأمُورِ الرِّضا عَنِ النَّفْسِ.
 
 *“The worst of affairs is to be pleased with oneself.”*[^21]
 
@@ -331,22 +275,14 @@ Prophet and the Immaculate Imams . Consider the following tradition in
 this regard.  
  Hazieh Yamani quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-خَيرُ أوْلادِكُم البَناتُ.
-  </p>
-</blockquote>
+> خَيرُ أوْلادِكُم البَناتُ.
 
 *“Your daughters are your best children.”*[^22]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-البَناتُ حَسَناتٌ وَالبَنونَ نِعْمَةٌ؛ فَالحَسَناتُ يُثابُ عَلَيها
-وَالنِّعْمَةُ يُسألُ عَنْها.
-  </p>
-</blockquote>
+> البَناتُ حَسَناتٌ وَالبَنونَ نِعْمَةٌ؛ فَالحَسَناتُ يُثابُ عَلَيها
+> وَالنِّعْمَةُ يُسألُ عَنْها.
 
 *“Daughters are good deeds, and sons are blessings. Good deeds will be
 rewarded and blessings will be questioned about.”*[^23]
@@ -355,25 +291,17 @@ The Prophet was given the glad tidings that God had granted him a
 daughter. His companions were so upset about the news that one could
 notice it from their faces. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُم؟ رَيْحانَةٌ أَشَمُّها وَرِزْقُها عَلى اللهِ.
-  </p>
-</blockquote>
+> مَا لَكُم؟ رَيْحانَةٌ أَشَمُّها وَرِزْقُها عَلى اللهِ.
 
 *“Why are you so upset? A daughter is like a flower that I will smell.
 God will give her daily bread.”* [^24]
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-نِعْمَ الوِلْدُ البَناتُ المُخَدَّراتُ. مَن كَانَتْ عِندَهُ وَاحِدَةٌ
-جَعَلَها اللهُ سِتراً لهُ مِن النّارِ، وَمَن كانَتْ عِندَهُ اثْنَتانِ
-أدْخَلَهُ اللهُ بِهِما الجَنَّةَ، وإنْ كُنَّ ثَلاثَةً أوْ مِثْلَهُنَّ
-مِن الأخَواتِ وُضِعَ عنهُ الجِهادُ وَالصَّدَقَةُ.
-  </p>
-</blockquote>
+> نِعْمَ الوِلْدُ البَناتُ المُخَدَّراتُ. مَن كَانَتْ عِندَهُ وَاحِدَةٌ
+> جَعَلَها اللهُ سِتراً لهُ مِن النّارِ، وَمَن كانَتْ عِندَهُ اثْنَتانِ
+> أدْخَلَهُ اللهُ بِهِما الجَنَّةَ، وإنْ كُنَّ ثَلاثَةً أوْ مِثْلَهُنَّ
+> مِن الأخَواتِ وُضِعَ عنهُ الجِهادُ وَالصَّدَقَةُ.
 
 *“The best children are daughters behind veils. Whoever has one
 daughter, God will make her a protection for him against the Fire of
@@ -383,14 +311,10 @@ in a holy war and payment of charity are removed from him.”*[^25]
 
 Ibn Abbas quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَنْ دَخَلَ السّوقَ فاشْتَرى تُحفَةً فَحَمَلَها إلى عِيالِهِ كانَ
-كَحامِلِ صَدَقَةٍ إلى قَومٍ مَحاوِيجَ، وَليَبْدَؤوا بالإناثِ قَبلَ
-الذّكُورِ فإنَّهُ مَن فَرَّحَ ابْنَةً فَكأنَّما أعْتَقَ رَقَبَةً مِن
-وُلدِ اسمَاعِيلَ.
-  </p>
-</blockquote>
+> مَنْ دَخَلَ السّوقَ فاشْتَرى تُحفَةً فَحَمَلَها إلى عِيالِهِ كانَ
+> كَحامِلِ صَدَقَةٍ إلى قَومٍ مَحاوِيجَ، وَليَبْدَؤوا بالإناثِ قَبلَ
+> الذّكُورِ فإنَّهُ مَن فَرَّحَ ابْنَةً فَكأنَّما أعْتَقَ رَقَبَةً مِن
+> وُلدِ اسمَاعِيلَ.
 
 *“One who goes to the bazaar to buy a present for his family is like one
 who has given some charity to needy people. One must put a higher
@@ -411,14 +335,10 @@ foster a sense of self-confidence in their children from their early
 childhood so that they can be strong in the face of hardships. Imam
 Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-قالَ لُقمانُ: يا بُنَيَّ إنْ تَأدَّبْتَ صَغِيراً انْتَفَعْتَ بهِ
-كَبِيراً، وَمَنْ عَنى بالأدَبِ اهْتَمَّ بهِ وَمَن اهْتَمَّ بِهِ
-تَكَلَّفَ عِلْمَهُ وَمَنْ تَكَلَّفَ عِلْمَهُ اشْتَدَّ طَلَبُهُ وَمَنِ
-اشْتَدَّ طَلَبُهُ أدْرَكَ بهِ مَنْفَعَتَهُ.
-  </p>
-</blockquote>
+> قالَ لُقمانُ: يا بُنَيَّ إنْ تَأدَّبْتَ صَغِيراً انْتَفَعْتَ بهِ
+> كَبِيراً، وَمَنْ عَنى بالأدَبِ اهْتَمَّ بهِ وَمَن اهْتَمَّ بِهِ
+> تَكَلَّفَ عِلْمَهُ وَمَنْ تَكَلَّفَ عِلْمَهُ اشْتَدَّ طَلَبُهُ وَمَنِ
+> اشْتَدَّ طَلَبُهُ أدْرَكَ بهِ مَنْفَعَتَهُ.
 
 *“Luqman said: O my son! You can benefit from politeness later if you
 learn to be polite when you are young. One who wants to learn to be
@@ -491,5 +411,4 @@ al-Asnad, p.45.
 [^26]: Mustadrak al-Wasa’il, v.2, p.615.
 
 [^27]: Koodak (Guftar-i-Falsafi), v.2, pp.293-294.
-
 

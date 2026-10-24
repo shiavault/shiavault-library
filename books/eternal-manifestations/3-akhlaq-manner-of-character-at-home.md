@@ -48,4 +48,3 @@ Prophet (s) (Sayyid), and I cannot give you any orders”*.
     
 *‘Allāmah’s daughter* 
 
-

@@ -22,16 +22,12 @@ true Shia must fulfill.
 In this short tradition from Imam Ja'far b. Muhammad as-Sadiq  (as)
 addressed to Abu Basir, the Imam explains the characteristics of a Shia.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ، عَنْ أَبِيهِ قَالَ: كُنْتُ عِنْدَ
-أَبِي عَبْدِ اللٌّهِ : إِذَا دَخَلَ عَلَيْهِ أَبُو بَصِـيرٍ … فَقَالَ
-يَا أَبَا مُحَمَّدٍ لَقَدْ ذَكَرَكُمُ اللٌّهُ فِي كِتَابِهِ فَقَالَ: )
-إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانً ( وَاللٌّه مَا أَرَادَ
-بِـهٌذَا إِلاَّ الأَئِمَّةِ وَشِيعَتِهِمْ، فَهَلْ سَرَرْتَكَ يَا أَبَا
-مُحَمَّدٍ؟ قَالَ: قُلْتُ: جُعِلْتُ فِدَاكَ زِدْنِي…
-  </p>
-</blockquote>
+> عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ، عَنْ أَبِيهِ قَالَ: كُنْتُ عِنْدَ
+> أَبِي عَبْدِ اللٌّهِ : إِذَا دَخَلَ عَلَيْهِ أَبُو بَصِـيرٍ … فَقَالَ
+> يَا أَبَا مُحَمَّدٍ لَقَدْ ذَكَرَكُمُ اللٌّهُ فِي كِتَابِهِ فَقَالَ: )
+> إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانً ( وَاللٌّه مَا أَرَادَ
+> بِـهٌذَا إِلاَّ الأَئِمَّةِ وَشِيعَتِهِمْ، فَهَلْ سَرَرْتَكَ يَا أَبَا
+> مُحَمَّدٍ؟ قَالَ: قُلْتُ: جُعِلْتُ فِدَاكَ زِدْنِي…
 
 It has been narrated from Muhammad b. Isma'il from his father that he
 said, “I was with Abi 'Abdillah (Ja'far b. Muhammad as-Sadiq (as)) when
@@ -88,11 +84,7 @@ follow these in their life, then there is no way that Shaitan can
 influence him.  
  In relation to Shaitan, the Qur\`an mentions that:
 
-<blockquote dir="rtl">
-  <p>
-أَبـى وَ اسْتَكْبَرَ وَ كَانَ مِنَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> أَبـى وَ اسْتَكْبَرَ وَ كَانَ مِنَ الْكَافِرِينَ
 
 “But he became conceited and developed pride in himself and thus he was
 one of the disbelievers.”[^3]
@@ -121,11 +113,7 @@ Question 2:
 As it is commonly known, we were all created for happiness and
 prosperity:
 
-<blockquote dir="rtl">
-  <p>
-مَا خَلَقْتُ الْجِنَّ وَ الإِنْسَ إِلاَّ لِيَعْبُدُونَ
-  </p>
-</blockquote>
+> مَا خَلَقْتُ الْجِنَّ وَ الإِنْسَ إِلاَّ لِيَعْبُدُونَ
 
 “I (Allah) did not create the Jinn and Mankind except that they should
 worship Me.”[^4]
@@ -143,12 +131,8 @@ his heart to Shaitan. In reality, there is not a single despicable
 creation that can in any way influence either the country which a person
 lives in, nor the soul of a person:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا سُلْطَانُهُ عَلى الَّذِينَ يَتَوَلَّونَهُ وَالَّذِينَ هُمْ
-بِهِ مُشْرِكُونَ
-  </p>
-</blockquote>
+> إِنَّمَا سُلْطَانُهُ عَلى الَّذِينَ يَتَوَلَّونَهُ وَالَّذِينَ هُمْ
+> بِهِ مُشْرِكُونَ
 
 “His authority (that of Shaitan) is only over those who take him as a
 supporter and who join partners with Allah.”[^5]
@@ -156,12 +140,8 @@ supporter and who join partners with Allah.”[^5]
 That person who sets up Shaitan as a partner to Allah (SwT) and follows
 him (Shaitan) will also be called a Shaitan on the Day of Judgement!
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا كَانَ لِيَّ عَلَيْكُمْ مِنْ سُلْطَانِ إِلاَّ أَنْ دَعَوْتُكُمْ
-فَأْسَتَجَبْـتُمْ فَلاَ تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ
-  </p>
-</blockquote>
+> وَ مَا كَانَ لِيَّ عَلَيْكُمْ مِنْ سُلْطَانِ إِلاَّ أَنْ دَعَوْتُكُمْ
+> فَأْسَتَجَبْـتُمْ فَلاَ تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ
 
 “I (Shaitan) had no authority over you except that I invited you and you
 listened to me. Therefore, do not reproach or blame me, rather, blame
@@ -185,11 +165,7 @@ become as strong as they are in their closeness to Allah (SwT).
 
 The Qur\`an mentions that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانُ
-  </p>
-</blockquote>
+> إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانُ
 
 “Certainly Shaitan has no control or authority over My true servants.”
 
@@ -209,12 +185,8 @@ The Shia are not people who are Ma'sum (sinless) and thus, it is
 possible that Shaitan can go after them, however the Qur\`an tells us
 that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّـذِينَ اتَّقَوا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ
-تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّـذِينَ اتَّقَوا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ
+> تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
 
 “When a thought of evil from Shaitan assaults those people who have
 consciousness of Allah, then they bring Allah to remembrance, then they
@@ -253,5 +225,4 @@ of being classified as one of those who is a true Shia!
 [^6]: Surat Ibrahim (14), Verse 22
 
 [^7]: Surat al-A\`raf (7), Verse 201
-
 

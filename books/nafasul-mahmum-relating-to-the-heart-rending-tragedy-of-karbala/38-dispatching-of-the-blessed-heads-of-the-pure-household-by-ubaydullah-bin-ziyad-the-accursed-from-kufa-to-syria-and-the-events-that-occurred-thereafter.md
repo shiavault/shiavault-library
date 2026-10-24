@@ -217,4 +217,3 @@ Imam Husayn (a.s.) treacherously. The narratives, as quoted by the
 Shi’ah and Non-Shi’ah sources, bear testimony to their invincible valour
 and memorable struggle.
 
-

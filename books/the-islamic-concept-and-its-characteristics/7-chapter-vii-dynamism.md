@@ -449,7 +449,6 @@ charity, and they wor­shipped Us alone (Al-Anbiya 21 :68- 73).
 We observe His actions in the entire universe and in both animate and
 inanimate creation.
 
-
 Verily, it is Allah (alone) who upholds the heavens and the earth so
 they will not deviate, for if they should ever deviate, none could
 uphold them after He ceases to do so. Surely He is All-Clement,
@@ -761,20 +760,18 @@ are to stand up as a witness to the truth, fulfill the trust laid upon
 him, complete his tasks to the best of his powers, and to remain close
 to Allah forever, far removed from the Fire.
 
-[^1] Abstracted from Al-Akkad, Haqaiq Al-Islam wa Abatil Khasumihi.,
+[^1]: Abstracted from Al-Akkad, Haqaiq Al-Islam wa Abatil Khasumihi.,
 pp.33-34.
 
-[^2] Al-Akkad, Allah, p. 188.
+[^2]: Al-Akkad, Allah, p. 188.
 
-[^3] Ibid, p. 188.
+[^3]: Ibid, p. 188.
 
-[^4] Al-Akkad. Haqaiq Al-Islam wa Abatil Khasumihi, pp. 40-41.
+[^4]: Al-Akkad. Haqaiq Al-Islam wa Abatil Khasumihi, pp. 40-41.
 
-[^5] Ibid.
+[^5]: Ibid.
 
-[^6] The Prophet and Abu Bakr
+[^6]: The Prophet and Abu Bakr
 
-
-[^7] Refer back to the chapter, "Comprehensiveness," in this book.
-
+[^7]: Refer back to the chapter, "Comprehensiveness," in this book.
 

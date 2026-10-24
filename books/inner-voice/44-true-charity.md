@@ -49,4 +49,3 @@ reputation.
 Whatever the form of your charity, it is the unselfishness which God
 demands; and whatever you give verily God knows it well.
 
-

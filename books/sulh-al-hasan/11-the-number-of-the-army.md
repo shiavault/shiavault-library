@@ -408,4 +408,3 @@ Basrah before the year 39.
 
 [^8]: Al-Majlisi, Bihar al-Anwar, vol. 10, p. 113.
 
-

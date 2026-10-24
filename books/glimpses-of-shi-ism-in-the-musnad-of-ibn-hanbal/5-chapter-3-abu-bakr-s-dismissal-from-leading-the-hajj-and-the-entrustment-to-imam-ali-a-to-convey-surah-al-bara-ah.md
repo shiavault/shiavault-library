@@ -47,7 +47,7 @@ except by me or by ‘Ali-.[^31]
 
 **Notes:**
 
-[^30] Al-Musnad, hadith no. 4.
-[^31] Ibn Hanbal’s Musnad published in 6 volumes by Matba‘ah
+[^30]: Al-Musnad, hadith no. 4.
+[^31]: Ibn Hanbal’s Musnad published in 6 volumes by Matba‘ah
 al-Maymaniyyah, vol. 4, pp. 164-165, 1st edition, Egypt, 1313 AH.
 

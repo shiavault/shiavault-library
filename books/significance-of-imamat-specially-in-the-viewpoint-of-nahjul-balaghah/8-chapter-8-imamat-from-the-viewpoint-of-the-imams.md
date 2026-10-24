@@ -485,4 +485,3 @@ were called Hulafa and each of them was called Halif of the others. As
 such if the word Mawla is used in the sense of Halif, it still means a
 helper and a supporter.
 
-

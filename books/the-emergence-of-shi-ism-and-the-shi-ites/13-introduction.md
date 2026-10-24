@@ -37,4 +37,3 @@ and exegetical works written by scholars, traditionists, renowned
 researchers and prominent Sunnis. We pray that God may extend His
 assistance.
 
-

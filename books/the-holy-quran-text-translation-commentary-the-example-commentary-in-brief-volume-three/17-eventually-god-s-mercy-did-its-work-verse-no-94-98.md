@@ -376,9 +376,7 @@ experiences left for us from the fates of the predecessor.
 
 **سوره رعد THUNDER**
 
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
 
@@ -617,5 +615,4 @@ to do whatever they want.
 7- AND THE UNBELIEVERS SAY:ِ \`\`WHY HAS A SIGN NOT BEEN SENT DOWN TO
 HIM FROM HIS LORD? YOU ARE ONLY A WARNER, AND THERE IS A GUIDE FOR EVERY
 PEOPLE.''
-
 

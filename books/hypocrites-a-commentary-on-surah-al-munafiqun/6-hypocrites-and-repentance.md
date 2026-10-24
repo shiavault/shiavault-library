@@ -1,24 +1,16 @@
 Hypocrites And Repentance
 =========================
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
-لَوَّوْا رُؤُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
+> لَوَّوْا رُؤُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
 
 “***When it is said to them, 'Come, the Messenger of Allah will pray for
 your forgiveness,' they turn aside their heads, and you see them turning
 away their faces in arrogance***.”[^1]
 
-<blockquote dir="rtl">
-  <p>
-سَوَاء عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
-لَن يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
-الْفَاسِقِينَ
-  </p>
-</blockquote>
+> سَوَاء عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
+> لَن يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
+> الْفَاسِقِينَ
 
 “***It is the same for them whether you pray for their forgiveness or
 not. Allah will not forgive them. Surely, Allah guides not rebellious
@@ -414,5 +406,4 @@ Allah's permission.
 
 [^17]: 2:48 This verse is about the history of the Israelites. This is
 negating the intercession that the Jews believe in.
-
 

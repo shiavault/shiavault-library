@@ -51,4 +51,3 @@ protection of his Imam (a.t.f.s.) will be rescued.
 O Lord! Keep us steadfast on the belief of Your last Hujjat (a.t.f.s.)
 till our last breadth. Ameen!
 
-

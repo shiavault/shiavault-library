@@ -8,12 +8,8 @@ wila' in connection with his pure, sinless family; that is to say that
 even scholars from the Sunni sect make no controversy over this. The
 aayah of the pure relatives:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***Say: "I do not ask of you any reward f or it but love of my near
 relatives" (42: 23)***
@@ -22,11 +18,7 @@ Sets down the matter of wila' in its special meaning. And it is also
 present in the famous and uncontested hadith of Ghadiri, where it is
 said [^1]:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَوْلاهُ فَهذا عَلِيٌ مَوْلاهُ
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَوْلاهُ فَهذا عَلِيٌ مَوْلاهُ
 
 *“For whomsoever I am his mawla, \`Ali is his mawla.”*
 
@@ -34,12 +26,8 @@ This itself is mention of a kind of wila' which will be explained later.
 
 A noble ayah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ 
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***“Only Allah is your Vali and His Messenger and those who believe,
 those who keep up prayers and pay the poor-rate while they bow
@@ -73,17 +61,9 @@ word wali, and later on we will discuss the meaning of this ayah.
 one of the Shi'ah poets of the fourth century of the hegira (10th/11th
 century A.D.) points to the present meaning in the following poem
 
-<blockquote dir="rtl">
-  <p>
-قرن الاله ولاءه بولائه مما تزكى و هو حان يركع
-  </p>
-</blockquote>
+> قرن الاله ولاءه بولائه مما تزكى و هو حان يركع
 
-<blockquote dir="rtl">
-  <p>
-سماه رب العرش نفس محمد يوم البهال و ذالك مالا يدفع
-  </p>
-</blockquote>
+> سماه رب العرش نفس محمد يوم البهال و ذالك مالا يدفع
 
 *“God brought the wila' of Ali and His wila', Because Ali, in the time
 of ruku, gave zakat.*
@@ -95,11 +75,7 @@ of ruku, gave zakat.*
 As we said before, a kind of wila' has been prescribed in Islam that is
 positive[^7] and has an ordinary meaning, and the noble ayah;
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
 
 ***“And the believers, the men and the women, are wali one to the other
 (9:71).”***
@@ -108,11 +84,7 @@ Is a witness to this kind of wila'.
 
 Now we wish to say that the noble ayah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ
 
 ***“Only Allah is your Wali. (5:55).”***
 
@@ -133,12 +105,8 @@ This way of saying something, when a particular event pertaining to a
 specific individual is expressed using a plural, is not uncommon in the
 Qur'an. For example:
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ
-الْأَعَزُّ مِنْهَا الْأَذَلَّ
-  </p>
-</blockquote>
+> يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ
+> الْأَعَزُّ مِنْهَا الْأَذَلَّ
 
 *** “They say: If we return to Medina, the mighty will surely drive out
 the meaner therefrom (63:8)”***
@@ -232,23 +200,11 @@ of Shi \`ites. Other Muslim groups also give importance to it. Al-Imam
 ash-Shafi'i, who is one of the Imams of the Sunni schools, wrote in his
 famous poems:
 
-<blockquote dir="rtl">
-  <p>
-يا راكبـا قف بالمحصب من منى واهتف بقـاعد جمعها والناهض
-  </p>
-</blockquote>
+> يا راكبـا قف بالمحصب من منى واهتف بقـاعد جمعها والناهض
 
-<blockquote dir="rtl">
-  <p>
-سحرا إذا فاض الحجيج إلى منى فيضا كملتطم الفرات الفـائض
-  </p>
-</blockquote>
+> سحرا إذا فاض الحجيج إلى منى فيضا كملتطم الفرات الفـائض
 
-<blockquote dir="rtl">
-  <p>
-إن كان رفضا حب آل محمــد فليشهد الثقــلان أني رافضي
-  </p>
-</blockquote>
+> إن كان رفضا حب آل محمــد فليشهد الثقــلان أني رافضي
 
 *O rider, standing on the stony ground of Mind:*  
 *Cry at dawn to those stopped at Khif* [^8]   
@@ -262,17 +218,9 @@ famous poems:
 
 He also wrote:
 
-<blockquote dir="rtl">
-  <p>
-يا آل بيت الرسول حبكم فرض من الله في القرآن انزله
-  </p>
-</blockquote>
+> يا آل بيت الرسول حبكم فرض من الله في القرآن انزله
 
-<blockquote dir="rtl">
-  <p>
-يكفيكم من عظيم الفخر انكم من لم يصل عليكم لا صلاة له
-  </p>
-</blockquote>
+> يكفيكم من عظيم الفخر انكم من لم يصل عليكم لا صلاة له
 
 *O Household of the Messenger of Allah,*  
 *love for you*  
@@ -285,26 +233,14 @@ He also wrote:
 
 Again, he wrote:
 
-<blockquote dir="rtl">
-  <p>
-ولـمّـا رأيــتُ الـنـاس قــد ذهـبت بـهم مـذاهـبُهم فــي أبـحـرِ
-الـغـيِّ والـجـهلِ 
-  </p>
-</blockquote>
+> ولـمّـا رأيــتُ الـنـاس قــد ذهـبت بـهم مـذاهـبُهم فــي أبـحـرِ
+> الـغـيِّ والـجـهلِ
 
-<blockquote dir="rtl">
-  <p>
-ركـبتُ عـلى اسـم الله فـي سـفن النَّجا وهـم آلُ بـيت الـمصطفى خاتمِ
-الرُّسْلِ 
-  </p>
-</blockquote>
+> ركـبتُ عـلى اسـم الله فـي سـفن النَّجا وهـم آلُ بـيت الـمصطفى خاتمِ
+> الرُّسْلِ
 
-<blockquote dir="rtl">
-  <p>
-وأمـسـكـتُ حــبـلَ الله وهــو ولاؤهــم كــمـا قـــد أُمِــرنـا
-بـالـتمسكِ بـالـحبلِ
-  </p>
-</blockquote>
+> وأمـسـكـتُ حــبـلَ الله وهــو ولاؤهــم كــمـا قـــد أُمِــرنـا
+> بـالـتمسكِ بـالـحبلِ
 
 *When I saw people being taken*  
 *Through their madhahib*[^10] *into seas*  
@@ -321,14 +257,10 @@ succession to the caliphate, came down against the Shi’as, are
 themselves narrators of hadith on the subject of the wila' of love.
 Ar-Razi quotes from az-Zamakhshari that the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-أَلا و مَنْ مَاتَ عَلى حُبِ آلِ مُحَمًدٍ مَاتَ شَهيداً, أَلاَ ومَنْ
-مَاتَ عَلى حُبِ آلِ مُحَمًدٍ مَاتَ مَغْفُوراً لَهُ, أَلاَ ومَنْ مَاتَ
-عَلى حُبِ آلِ مُحَمًدٍ مَاتَ تَائِباً, أَلاَ ومَنْ مَاتَ عَلى حُبِ آلِ
-مُحَمًدٍ مَاتَ مُؤْمِناً مُسْتَكْمِلَ اِلإيمانِ...
-  </p>
-</blockquote>
+> أَلا و مَنْ مَاتَ عَلى حُبِ آلِ مُحَمًدٍ مَاتَ شَهيداً, أَلاَ ومَنْ
+> مَاتَ عَلى حُبِ آلِ مُحَمًدٍ مَاتَ مَغْفُوراً لَهُ, أَلاَ ومَنْ مَاتَ
+> عَلى حُبِ آلِ مُحَمًدٍ مَاتَ تَائِباً, أَلاَ ومَنْ مَاتَ عَلى حُبِ آلِ
+> مُحَمًدٍ مَاتَ مُؤْمِناً مُسْتَكْمِلَ اِلإيمانِ...
 
 *“Whosoever died in love of the Household of Muhammad has died a
 martyr;*
@@ -340,14 +272,10 @@ died a believer and in the perfection of his faith."* [^12]
 Amiru 'l-mu'minin (a. s.) has also said in Nahju 'l-balaghah, Sermon
 232:
 
-<blockquote dir="rtl">
-  <p>
-فَاِنًهُ مَنْ مَاتَ مِنْكُمْ عَلى فِراشِهِ وُهُوَ عَلى مَعْرِفَة حَقَ
-رَبَهِ وَ حَقّ رَسُولِهِ وَأَهْلِ بَيْتِهِ ، مَاتَ شَهيداً وَوَقَعَ
-آجْرُهُ عَلى اللهِ ، واستَوْجَبَ ثَوابَ مَا نَوَى مِنْ صَالِحِ
-عَمَلِهِ وَ قَامَتِ النِيَةُ مَقامِ إِصْلاتِهِ لِسَيْفِهِ .
-  </p>
-</blockquote>
+> فَاِنًهُ مَنْ مَاتَ مِنْكُمْ عَلى فِراشِهِ وُهُوَ عَلى مَعْرِفَة حَقَ
+> رَبَهِ وَ حَقّ رَسُولِهِ وَأَهْلِ بَيْتِهِ ، مَاتَ شَهيداً وَوَقَعَ
+> آجْرُهُ عَلى اللهِ ، واستَوْجَبَ ثَوابَ مَا نَوَى مِنْ صَالِحِ
+> عَمَلِهِ وَ قَامَتِ النِيَةُ مَقامِ إِصْلاتِهِ لِسَيْفِهِ .
 
 *“Whosoever from among you dies in his bed in knowledge of the truth of
 his own Lord and the truth of His Messenger and his House- hold, has
@@ -361,23 +289,11 @@ famous ghazal which begins with the couplet "Driver of the caravans,
 passing through the desert: With the measured pace of thy goodness,
 ascend the dunes of Tayy."
 
-<blockquote dir="rtl">
-  <p>
-ذهب العمر ضياعا و انقضى
-  </p>
-</blockquote>
+> ذهب العمر ضياعا و انقضى
 
-<blockquote dir="rtl">
-  <p>
-باطلا ان لم افز منك بشئ
-  </p>
-</blockquote>
+> باطلا ان لم افز منك بشئ
 
-<blockquote dir="rtl">
-  <p>
-عترة المبعوث حقا من قصى
-  </p>
-</blockquote>
+> عترة المبعوث حقا من قصى
 
 *Life dwindles away wastefully and ends in*  
 *futility*  
@@ -405,29 +321,13 @@ Jami himself adds to this and says: "If God forgave all men for the sake
 of this poem, it would not be surprising!" Jami says of Hisham ibn
 \`Abdu'1-Malik who imprisoned al-Farazdaq and tortured him
 
-<blockquote dir="rtl">
-  <p>
-اگرش چشم راست بين بودى 
-  </p>
-</blockquote>
+> اگرش چشم راست بين بودى
 
-<blockquote dir="rtl">
-  <p>
-راست كردار و راست ‏دين بودى‏
-  </p>
-</blockquote>
+> راست كردار و راست ‏دين بودى‏
 
-<blockquote dir="rtl">
-  <p>
-دست بى داد و ظلم نگشادى
-  </p>
-</blockquote>
+> دست بى داد و ظلم نگشادى
 
-<blockquote dir="rtl">
-  <p>
-جاى آن حبس خلعتش دادى
-  </p>
-</blockquote>
+> جاى آن حبس خلعتش دادى
 
 *If he had right-seeking eyes,*  
 *Had done goodness and had true din.*  
@@ -450,12 +350,8 @@ the tools of the infernal colonialists.
 Az-Zamakhshari and ar-Razi, in a foot- note to the previous hadith,
 narrate from the Prophet that he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلا و مَنْ مَاتَ عَلى بُغْضِ آلِ مُحَمًدٍ مَاتَ كافراً, أَلاَ ومَنْ
-مَاتَ عَلى بُغْضِ آلِ مُحَمًدٍ لَمْ يَشُمً رائِحَة الجَنةِ
-  </p>
-</blockquote>
+> أَلا و مَنْ مَاتَ عَلى بُغْضِ آلِ مُحَمًدٍ مَاتَ كافراً, أَلاَ ومَنْ
+> مَاتَ عَلى بُغْضِ آلِ مُحَمًدٍ لَمْ يَشُمً رائِحَة الجَنةِ
 
  *“Whosoever dies in enmity to the family of Muhammad, dies an
 unbeliever. Whosoever dies in enmity of the family of Muhammad, will not
@@ -463,13 +359,9 @@ smell the scent of Paradise.”*
 
 And al-Imam Ja'far as-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنً اللًه تًبارَكَ وَتَعالى لَمُ يَخْلُقْ خَلْقاً
-أَنْجَسَ مِنَ الكلبِ وَ إِنَ النًاصِبَ لنا أَهْلِ البَيْتِ
-لأنْجَسُ مِنْهُ
-  </p>
-</blockquote>
+> فَإِنً اللًه تًبارَكَ وَتَعالى لَمُ يَخْلُقْ خَلْقاً
+> أَنْجَسَ مِنَ الكلبِ وَ إِنَ النًاصِبَ لنا أَهْلِ البَيْتِ
+> لأنْجَسُ مِنْهُ
 
 *“Allah has not created anything more unclean than the dog; and those
 who oppose us, the Household, are more unclean than that.”*
@@ -493,12 +385,8 @@ does at first seem as if this is the case), that it has the meaning of
 \`friend'. But with attention it is realized that it does not mean this.
 For example, the meaning of
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى
-النُّورِ
-  </p>
-</blockquote>
+> اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى
+> النُّورِ
 
 *** “Allah is the guardian of those who believe. He brings them out of
 the darkness into the light;” (2:257)***
@@ -507,12 +395,8 @@ Is not that Allah is the friend of the believers; rather that Allah,
 through His own special providence, has the ranks of the believers in
 His hands. Similarly, the meaning of
 
-<blockquote dir="rtl">
-  <p>
-أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ 
-  </p>
-</blockquote>
+> أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ
 
 *** “Now surely the friends of Allah-- they shall have no fear nor shall
 they grieve (10:62)”***
@@ -526,11 +410,7 @@ not subject to fear and*** ***apprehension”*** (10:62).
 
 Similarly, the meaning of the ayah:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
 
 ***"And the believers, the men and the women, are awliya ' one to the
 other"*** (9:71)
@@ -578,23 +458,15 @@ the speech and actions of such a person are a guarantee and a proof for
 others. It is this same position about which the noble Qur’an, when
 talking of the Prophet, says:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
-يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
+> يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
 
 ***“Certainly you have in the Messenger of Allah an excellent exemplar
 for him who hopes in Allah and the latter day and remembers Allah much.”
 (33:21)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
 
 ***“Say: If you love Allah, then follow me, Allah will love you and
 forgive you your faults” (3:31)***
@@ -615,20 +487,12 @@ chose his Household for the leadership and Imamate.
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-إِنّي تارِكٌ فِيكُمُ اَلَثَقَلَيْنِ: كِتابَ اللهِ وَ عِتْرَتي أَهْلَ
-بَيْتي, وَ إِنَّهُما لَنْ يَفْتَرِقا حَتَى يَريدا عَليّ الحَوْضَ, فَلا
-تَقَدَّمُوهُما
-  </p>
-</blockquote>
+> إِنّي تارِكٌ فِيكُمُ اَلَثَقَلَيْنِ: كِتابَ اللهِ وَ عِتْرَتي أَهْلَ
+> بَيْتي, وَ إِنَّهُما لَنْ يَفْتَرِقا حَتَى يَريدا عَليّ الحَوْضَ, فَلا
+> تَقَدَّمُوهُما
 
-<blockquote dir="rtl">
-  <p>
-فَتَهْلكِوا, وَ لا تَقْصُرواعَنْهُما فَتَهْلكِوا, وَ لا تُعَلِّمُوهُم
-فَإْنَّهُمْ اَعْلَمُ مِنْكُمْ
-  </p>
-</blockquote>
+> فَتَهْلكِوا, وَ لا تَقْصُرواعَنْهُما فَتَهْلكِوا, وَ لا تُعَلِّمُوهُم
+> فَإْنَّهُمْ اَعْلَمُ مِنْكُمْ
 
 *“I leave among you two precious things: the Book of Allah and my
 Household. These two will not be separated until they encounter me at
@@ -638,11 +502,7 @@ seek to instruct them, for they are wiser than you.”*
 
 Allah appoints, and Allah says about His Book:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ
-  </p>
-</blockquote>
+> لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ
 
 *** “Falsehood shall not come to it from before it nor from behind it”.
 (41:42)***
@@ -716,11 +576,7 @@ of the Muslims. The Prophet, during his lifetime, was the waliyyu 'l-amr
 of the Muslims, and Allah granted him this position; and after him,
 according to a great deal of irrefutable evidence, it
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 *** “Obey Allah and obey the Messenger and those in authority from among
 you;”(4:59)***
@@ -731,11 +587,7 @@ together with the whole of the ayah:
 ***"Certainly Allah is your Wali . . ."*** (5:55), and the whole of the
 ayah,
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***“The Prophet has a greater claim on the faithful than they have on
 themselves”(33:6)***
@@ -773,11 +625,7 @@ First, he was the Imam, the leader and the authority in the din; he held
 the wilayah of the Imamate, and his speech and actions were his
 guarantee and his proof.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
 
 ***“Whatever the Messenger gives you, accept it, and from whatever he
 forbids you, keep back” (59:7)***
@@ -785,13 +633,9 @@ forbids you, keep back” (59:7)***
 Second, he held juridical wilayah; in other words, his judgment was
 binding in legal differences and internal disputes.
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا 
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 *** “But no! by your Lord! they do not believe (in reality) until they
 make you a judge of that which has become a matter of disagreement among
@@ -808,20 +652,12 @@ judge for the Muslims, he was the statesman and the ruler of the Muslim
 community, he was the waliyyu 'l-amr of the Muslims and the holder of
 authority in the Muslim community, as we have said before:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 *** “The Prophet has a greater claim on the faithful than they have on
 themselves”. (33:6)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***“Obey Allah and obey the Messenger and those in authority from among
 you” (4:59)***
@@ -832,11 +668,7 @@ we shall mention later.
 The Prophet formally governed the people, and he was the leader of the
 policies of the Islamic community. According to this ayah:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
 
 ***“Take alms out of their property, you would cleanse them and purify
 them thereby” (9:103)***
@@ -856,13 +688,9 @@ political leadership.
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلَاثٌ لَا يُغِلُّ عَلَيْهِنَّ قَلْبُ امْرِئٍ مُسْلِمٍ: إِخْلَاصُ
-الْعَمَلِ لِلَّهِ, وَالنُّصْحَةُ لِأَئِمَّةِ الْمُسْلِمِينَ، وَلُزُومُ
-جَمَاعَتِهِمْ
-  </p>
-</blockquote>
+> ثَلَاثٌ لَا يُغِلُّ عَلَيْهِنَّ قَلْبُ امْرِئٍ مُسْلِمٍ: إِخْلَاصُ
+> الْعَمَلِ لِلَّهِ, وَالنُّصْحَةُ لِأَئِمَّةِ الْمُسْلِمِينَ، وَلُزُومُ
+> جَمَاعَتِهِمْ
 
 *“In connection with three things, the heart of a Muslim will never
 permit treachery and doubt. Purity of intention before Allah, wishing
@@ -872,12 +700,8 @@ Muslims, (and) support for the community of Muslims.”*
 \`Ali, peace be upon him, in one of his letters which are recorded in
 Nahju 'l-balaghah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَعْظَمَ الْخِيَانَةِ خِيَانَةُ الْأُمَّةِ و أَفْظَعَ الْغِشِّ
-غِشُّ الْأَئِمَّةِ
-  </p>
-</blockquote>
+> إِنَّ أَعْظَمَ الْخِيَانَةِ خِيَانَةُ الْأُمَّةِ و أَفْظَعَ الْغِشِّ
+> غِشُّ الْأَئِمَّةِ
 
 *“The greatest treachery is treachery to the community, and the most
 abominable deceit is deceit with the leaders (Imams) of the community”*
@@ -897,23 +721,15 @@ have (different) obligations when faced by each one of these.
 
 The Prophet said, in an authentic hadith reported by both schools:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ الْجِهَادِ كَلِمَةُ عَدْلٍ عِنْدَ سُلْطَانٍ جَائِرٍ
-  </p>
-</blockquote>
+> أَفْضَلُ الْجِهَادِ كَلِمَةُ عَدْلٍ عِنْدَ سُلْطَانٍ جَائِرٍ
 
 *“The most excellent jihad is (to utter) a word of justice in front of
 an oppressor.”*
 
 And, similarly, the .Prophet said
 
-<blockquote dir="rtl">
-  <p>
-آفَةُ الدِّينِ ثَلاثَة: إِمَامٌ جَائِرٌ, وَ مُجْتَهِدٌ جاهِلٌ,
-وَعاَلِمٌ فاجِرٌ
-  </p>
-</blockquote>
+> آفَةُ الدِّينِ ثَلاثَة: إِمَامٌ جَائِرٌ, وَ مُجْتَهِدٌ جاهِلٌ,
+> وَعاَلِمٌ فاجِرٌ
 
 *“The blight of the din is three things. Oppressive leader (Imam),
 ignorant worshipper of Allah, and a sinful \`alim (scholar).”*
@@ -922,11 +738,7 @@ More important than this, in the Qur'an itself leaders are mentioned who
 invite people to the Fire of Gehenna, and they are also designated by
 the word of Imam.
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ
 
 ***“And we made them Imams who call to the fire. (28:41)***
 
@@ -1040,12 +852,8 @@ and creative power: and, similarly, it does not contradict the fact that
 no being can ever be deemed a wali in the sense of a companion or an
 assistant to Allah or even a tool or instrument of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ
-مِنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا 
-  </p>
-</blockquote>
+> وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ
+> مِنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا
 
 ***“Who has not a partner in the kingdom, and Who has not a helper to
 save Him from disgrace; and proclaim His greatness magnifying (Him)”
@@ -1056,50 +864,30 @@ than, absolute dependence and nothingness. The Qur'an, in the same way
 as it makes Allah known to the highest limit of self-sufficiency, and in
 the same way as it says, for examples;
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا
-  </p>
-</blockquote>
+> اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا
 
 ***“Allah takes the souls at the time of their death.” (39:42)***
 
 Also proclaims:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ
-  </p>
-</blockquote>
+> قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ
 
 ***“Say: The angel of death who is given charge of you shall cause you
 to die.”(32:11)***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ
 
 ***“Those whom the angels cause to die while they are unjust to
 themselves.” (16:28)***
 
 The Qur'an, at the same time as it says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبِّي عَلَىٰ كُلِّ شَيْءٍ حَفِيظٌ 
-  </p>
-</blockquote>
+> إِنَّ رَبِّي عَلَىٰ كُلِّ شَيْءٍ حَفِيظٌ
 
 ***“Surely my Lord is the Preserver of all things” (11:57)***
 
-<blockquote dir="rtl">
-  <p>
-وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰ إِذَا جَاءَ أَحَدَكُمُ
-الْمَوْتُ تَوَفَّتْهُ رُسُلُنَا
-  </p>
-</blockquote>
+> وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰ إِذَا جَاءَ أَحَدَكُمُ
+> الْمَوْتُ تَوَفَّتْهُ رُسُلُنَا
 
 ***“He sends keepers over you; until when death comes to one of you, Our
 messengers cause him to die.” (6:61)***
@@ -1155,11 +943,7 @@ as far as his instep. [^21]
 
 However, according to what was revealed in the ayah of the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا
-  </p>
-</blockquote>
+> قُلْ لَا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا
 
 ***“Say: I do not control any benefit or harm for my own
 soul.”(7:188)***
@@ -1330,5 +1114,4 @@ these ahadith.
 [^22]: Posthumously published as Insan dar Qur'an (Man in the Qur'an) as
 part four of Jahanbini-e Islam (The World-View of Islam) (Qum,
 1399/1979). (tr.)
-
 

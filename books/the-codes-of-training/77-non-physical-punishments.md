@@ -11,8 +11,7 @@ discussed in the previous chapter.
 Hazrat Ali says:
 
 There are many types of punishments which have bigger impact than
-physical assault.<span
-style="font-size: 12pt; font-weight: 700">[1]</span>
+physical assault.[1]
 
 It is possible that these punishments might be more severe on the minds
 of the children than the physical punishments. These punishments will

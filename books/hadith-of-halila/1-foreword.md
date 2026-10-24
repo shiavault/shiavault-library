@@ -88,14 +88,12 @@ non-muslims in general turn to Islam as presented by Muhammad and
 Ahlebait 'alaihim us Salaam' and live in peace here and gain salvation
 in the hereafter.
 
-
 Syed Farzande Raza
 Chief Organiser
 Majlisul Muslemeen
 14.H, Rizvia Colony
 Karachi 18, Pakistan 3rd Shaban, 1383
 l0th December, 1963
-
 
 **Preface**
 
@@ -183,10 +181,8 @@ love for the diffusion of the teachings of the Imams, and the
 unostentatious services to the cause of religion; and pray that they may
 long be spared to the community.
 
-
 Wali Muhammad C. Momin
 25th April , 1918
 Ahmedabad (Gujrat)
 India
-
 

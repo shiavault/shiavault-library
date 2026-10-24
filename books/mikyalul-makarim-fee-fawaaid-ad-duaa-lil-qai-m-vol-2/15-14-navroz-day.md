@@ -12,4 +12,3 @@ the meaning will become clear to us.
 
 [^2]: Zaad al-Maad, Pg. 523
 
-

@@ -2118,4 +2118,3 @@ heard thee: behold, I will bless him, and will make him fruitful, and
 will very greatly multiply him; twelve princes will he beget, and I will
 make him a great nation.” Derby’s Version of the Bible.
 
-

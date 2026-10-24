@@ -125,4 +125,3 @@ gain access to them if such exploitation serves public interest.
 (General Basis of Economics of Islamic Society), in al-Islam yaqud
 al-hayat, 88.
 
-

@@ -81,4 +81,3 @@ rights of followers of other *madhahib* be preserved.
 This article in the Constitution of the Islamic Republic of Iran is a
 clear testimony to its respect for all Islamic schools of thought.
 
-

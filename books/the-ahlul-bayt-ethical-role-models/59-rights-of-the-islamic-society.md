@@ -568,4 +568,3 @@ Thawab ul-A’mal).
 
 [^22]: Quoted from al-Wafi; 3/117 (as quoted from al-Kafi).
 
-

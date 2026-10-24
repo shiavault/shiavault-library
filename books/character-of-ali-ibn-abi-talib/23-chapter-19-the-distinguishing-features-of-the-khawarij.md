@@ -435,7 +435,7 @@ their blood as lawful and marriage with them as prohibited.
 [^15]. Nahju 'l-balaghah, Sermon no.60.
 [^16]. ibid., Sermon no.92
 [^17] ibid., Sermon no.40.
-[^18] Surah at-Tawbah, 9:84
+[^18]: Surah at-Tawbah, 9:84
 [^19]. For the text of this sermon see Nahju 'l-balaghah, Sermon no.
 126.
 [^20]. In the assessment of most people, the most serious misfortunes
@@ -767,5 +767,4 @@ its spirit in every century and age of Islam up to the present when a
 number of contemporary writers and "intellectuals" of the Islamic world
 have produced their way of thinking in a modern and up to date form by
 associating it with empirical philosophy.
-
 

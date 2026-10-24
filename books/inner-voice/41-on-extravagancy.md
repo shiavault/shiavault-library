@@ -37,4 +37,3 @@ test to decide, whether the thing you intend to purchase is actually a
 actual difficulty without it? If so, go ahead and take it. If not,
 forget it.
 
-

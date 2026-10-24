@@ -11,11 +11,9 @@ duties of every Muslim, having its roots from the Holy Quran.
 Taqiyya from the Quranic point of view. The holy Quran had many verses
 in this regard that we shall mention a few of them:
 
-
 Question 32 : In the Islamic Republic constitution of the Islamic
 state, why do you the Shias consider the Jaffari sect as the country's
 official sect?
-
 
 **ANSWER:**
 
@@ -72,5 +70,4 @@ Performing their personal works.
 
 Special religious regulations such as in: marriage, divorce,
 inheritance, wills etc.
-
 

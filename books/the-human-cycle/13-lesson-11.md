@@ -116,4 +116,3 @@ Man may discover the beauty of the Universe, but only Allah (the
 All-Merciful) can create such a Universe. The truthful discoveries of
 science actually reinforce the power and greatness of God, the Almighty.
 
-

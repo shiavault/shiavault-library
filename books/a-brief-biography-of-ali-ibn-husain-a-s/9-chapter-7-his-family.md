@@ -95,4 +95,3 @@ scaffold in Egypt. It remained there for some time then it was burnt and
 the ashes thrown in the wind. Thus ended the life of one of the most
 noble servants of Allah.
 
-

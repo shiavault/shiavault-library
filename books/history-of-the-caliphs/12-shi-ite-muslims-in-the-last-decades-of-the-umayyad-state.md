@@ -220,17 +220,9 @@ according to the Shi'ites doctrine and abundant traditions from Imams.
 To elaborate the meaning, it deems appropriate to suggest a piece of
 poem from Sayyid Himyari, a Shi'ite Muslims poet:
 
-<blockquote dir="rtl">
-  <p>
-قـوم غلوا في علّيٍ لا أباَّ لهم وأجشــموا أنفساً في حبّه تعبا
-  </p>
-</blockquote>
+> قـوم غلوا في علّيٍ لا أباَّ لهم وأجشــموا أنفساً في حبّه تعبا
 
-<blockquote dir="rtl">
-  <p>
-قالوا هو الله جل الله خالقَنــا من أن يكون له ابن او يكون أبا
-  </p>
-</blockquote>
+> قالوا هو الله جل الله خالقَنــا من أن يكون له ابن او يكون أبا
 
 “Exaggerating about 'Ali (a), some people whose parents may be damned
 put great pressure on people to adore him saying that he was God and
@@ -271,12 +263,8 @@ Iman as-Sajjad (a) stated, **احبّونا حب الاسلام ولاترفعو
 [^24] “Love us as well as you do Islam and keep us as high as we are.”
 Somewhere else he told,
 
-<blockquote dir="rtl">
-  <p>
-إنَّ قوماً من شيعتنا سيحبونا حتى يقولوا فينا ما قالت اليهود في عزير
-وما قالت النصارى في عيسى بن مريم فلا هم منا ولا نحن منهم “
-  </p>
-</blockquote>
+> إنَّ قوماً من شيعتنا سيحبونا حتى يقولوا فينا ما قالت اليهود في عزير
+> وما قالت النصارى في عيسى بن مريم فلا هم منا ولا نحن منهم “
 
 Some of our Shi'ite Muslims are so kind- hearted toward us that ascribe
 what Jews told about 'Aziz and Christians about Christ to us. By no
@@ -341,23 +329,11 @@ magic as well as juggling.[^30]
 Regarding the Exaggerators' conduct towards Imam al-Baqir (a), Abu
 Hurayra 'Ijli wrote these verses,
 
-<blockquote dir="rtl">
-  <p>
-ابــا جعفر أنت الولي أحبّـه وأرضـى بمـا ترضي به وأتابع
-  </p>
-</blockquote>
+> ابــا جعفر أنت الولي أحبّـه وأرضـى بمـا ترضي به وأتابع
 
-<blockquote dir="rtl">
-  <p>
-أتتنا رجال يحمــلون عليكم أحاديث قد ضافت بهن الاضالع
-  </p>
-</blockquote>
+> أتتنا رجال يحمــلون عليكم أحاديث قد ضافت بهن الاضالع
 
-<blockquote dir="rtl">
-  <p>
-أحاديث افشاها المغيرة فيهـم وشر الامور المحدثات البدائع
-  </p>
-</blockquote>
+> أحاديث افشاها المغيرة فيهـم وشر الامور المحدثات البدائع
 
 “O, Abu Ja’far, you are master and beloved one to me. I am satisfied
 with whatsoever you are satisfied with and I do follow you. There are
@@ -774,35 +750,15 @@ beliefs.[^70] He was actually from the Kissanids who believed that
 Muhammad Ibn Hanafiyya was an Imam.  
  He wrote these verses:
 
-<blockquote dir="rtl">
-  <p>
-ألا إن الائــمــة من قريش ولاة الحـــق اربـعة سـواء
-  </p>
-</blockquote>
+> ألا إن الائــمــة من قريش ولاة الحـــق اربـعة سـواء
 
-<blockquote dir="rtl">
-  <p>
-علـي والثلاثــة مـن بنــيه هم الاســـباط ليس بهم خفاء
-  </p>
-</blockquote>
+> علـي والثلاثــة مـن بنــيه هم الاســـباط ليس بهم خفاء
 
-<blockquote dir="rtl">
-  <p>
-فسبط سبط ايمـــان وبــرّ وســبط غـيـبته كـربـلاء
-  </p>
-</blockquote>
+> فسبط سبط ايمـــان وبــرّ وســبط غـيـبته كـربـلاء
 
-<blockquote dir="rtl">
-  <p>
-وسبط لاتــراه العــين حتي يقـود الخيـل يقـدمها اللـواء
-  </p>
-</blockquote>
+> وسبط لاتــراه العــين حتي يقـود الخيـل يقـدمها اللـواء
 
-<blockquote dir="rtl">
-  <p>
-تغيّب لايري عنــــهم زمانا برضوي عنده عســـل وماء
-  </p>
-</blockquote>
+> تغيّب لايري عنــــهم زمانا برضوي عنده عســـل وماء
 
 “Take it into account that our Imams are four people from the Quraysh
 tribe. 'Ali and three children of him, one of them, Hasan Ibn 'Ali is
@@ -815,23 +771,11 @@ Raďawi is one of the sacred mountains around Medina.
  Other poems from the very same author hint at his belief in Mahdavitism
 of Ibn Hanafiyya,
 
-<blockquote dir="rtl">
-  <p>
-فهديت يا مهدينا ابن المتهدي انت الذي نرقّي به ونرتجي
-  </p>
-</blockquote>
+> فهديت يا مهدينا ابن المتهدي انت الذي نرقّي به ونرتجي
 
-<blockquote dir="rtl">
-  <p>
-انت ابن خيرالناس من بعد النبي انت إمام الحق لنسا نمتري
-  </p>
-</blockquote>
+> انت ابن خيرالناس من بعد النبي انت إمام الحق لنسا نمتري
 
-<blockquote dir="rtl">
-  <p>
-يابن علي سر ومن مثل علي
-  </p>
-</blockquote>
+> يابن علي سر ومن مثل علي
 
 “O our leader! May He raise thy blessings, thou art the one whose light
 of guidance we seek to our sublimity and we stay fully hopeful of him.
@@ -844,17 +788,9 @@ sainthood. Accordingly, he did not accept caliphate subsequent to
 prophet.  
  In a poem, he wrote,
 
-<blockquote dir="rtl">
-  <p>
-برئت إلي الإله من ابن اروى ومن دين الخوارج اجمعينا
-  </p>
-</blockquote>
+> برئت إلي الإله من ابن اروى ومن دين الخوارج اجمعينا
 
-<blockquote dir="rtl">
-  <p>
-و من عمر برئت ومن عتيق غداة دعي امير المؤمنينا
-  </p>
-</blockquote>
+> و من عمر برئت ومن عتيق غداة دعي امير المؤمنينا
 
 “I invoke by God to resent 'Uthman and the Kharijites as well as 'Umar
 and Abu Bakr, once called Amir al-Mu'minin.” [^73]
@@ -876,11 +812,7 @@ Sayyid Himyari, one of the Shi'ites poets, was a member of the Kissanids
 too. Addressing Muhammad Ibn Hanafiyya who was believed to be alive on
 Raďawi mount, he wrote these verses,
 
-<blockquote dir="rtl">
-  <p>
-ألا قل للوصي فدتك نفسي اطلت بذلك الجبل المقاما
-  </p>
-</blockquote>
+> ألا قل للوصي فدتك نفسي اطلت بذلك الجبل المقاما
 
 “Tell the successor, May my life be sacrificed to you, you overstayed in
 that mountain.” [^76]
@@ -902,17 +834,9 @@ This verse is called in question, lthough not so strongly, since Sayyid
 because of his enough eloquence in speech could not have said, **تجعفرت
 باسم الله** In another poem, he went on to say,
 
-<blockquote dir="rtl">
-  <p>
-أيا راكباً نحو المدينة جسرة عذا فرة تهوي بها كلّ سبسب
-  </p>
-</blockquote>
+> أيا راكباً نحو المدينة جسرة عذا فرة تهوي بها كلّ سبسب
 
-<blockquote dir="rtl">
-  <p>
-إذا ما هداك الله لاقيت جعفراً فقل, يا امين الله وابن المهذّب
-  </p>
-</blockquote>
+> إذا ما هداك الله لاقيت جعفراً فقل, يا امين الله وابن المهذّب
 
 “O thou who art on sturdy camelback trotting through deserts  
  O noble! Once thou meet Ja’far, tell him he is trustee of God and the
@@ -944,28 +868,16 @@ of Ahl al-Bayt particularly 'Ali (a). They used the most delicate
 expressions in this regard. It was said that he never wrote a poem
 without mentioning this very verse,
 
-<blockquote dir="rtl">
-  <p>
-أجد بآل فاطمة البكور فدمع العين منهمر غزير
-  </p>
-</blockquote>
+> أجد بآل فاطمة البكور فدمع العين منهمر غزير
 
 Family of Fatima had a hard time,that is why tears roll down
 stormily[^84]
 
 or in another poem he said,
 
-<blockquote dir="rtl">
-  <p>
-أقسم بالله وآلائه والمرء عما قال مسئول
-  </p>
-</blockquote>
+> أقسم بالله وآلائه والمرء عما قال مسئول
 
-<blockquote dir="rtl">
-  <p>
-أن عليّ بن ابي طالب على التُّقى والبّر مجبول
-  </p>
-</blockquote>
+> أن عليّ بن ابي طالب على التُّقى والبّر مجبول
 
 “I do swear by Allah and hisblessings, individuals shall be asked about
 what they say, Surely 'Ali is created a pure one.”
@@ -1286,13 +1198,9 @@ Those points over which people had paid allegiance to Zayd, later on,
 turned to be the basis of the subsequent riots of this kind such as that
 of the penitents and Mukhtar's.
 
-<blockquote dir="rtl">
-  <p>
-إنا ندعوكم إلى كتاب الله وسنة نبيّه (ص) وجهاد الظالمين والدفع عن
-المستضعفين وإعطاء المحرومين وقسم هذا الفيء بين اهله بالسواء وردّ
-الظالمين وإقفال المجمر ونصرنا اهل البيت علي من نصب لنا وجهل حقنا
-  </p>
-</blockquote>
+> إنا ندعوكم إلى كتاب الله وسنة نبيّه (ص) وجهاد الظالمين والدفع عن
+> المستضعفين وإعطاء المحرومين وقسم هذا الفيء بين اهله بالسواء وردّ
+> الظالمين وإقفال المجمر ونصرنا اهل البيت علي من نصب لنا وجهل حقنا
 
 “We enjoin you to follow both Qur'an and the Sunna of the Prophet, fight
 against the oppressor, defend the oppressed, divide booties among its
@@ -1432,11 +1340,7 @@ The very same author had touched upon the presence of various sects in
 that riot. This implies that the residents of Kufa left him while if the
 Kharijites were there they would surely support him.
 
-<blockquote dir="rtl">
-  <p>
-أأبا حسين لو شراة عصابة علقتك كان لوردهم اصدار
-  </p>
-</blockquote>
+> أأبا حسين لو شراة عصابة علقتك كان لوردهم اصدار
 
 “O 'Ali! The Kharijites who challenge you are not those who can survive
 when facing you.”[^162]
@@ -1603,17 +1507,9 @@ to report once a week they were inside the city.
 
 In this regard Faďl Ibn 'Abd al-Rahman wrote these verses,
 
-<blockquote dir="rtl">
-  <p>
-كلّما حدثـوا بأرض نعيقا ضمنوناً السجون أو سيرونا
-  </p>
-</blockquote>
+> كلّما حدثـوا بأرض نعيقا ضمنوناً السجون أو سيرونا
 
-<blockquote dir="rtl">
-  <p>
-اشخصونا إلى المدينة أسرى لا كفاهم ربي الذين يحذرونا
-  </p>
-</blockquote>
+> اشخصونا إلى المدينة أسرى لا كفاهم ربي الذين يحذرونا
 
 “Whensoever a cry is heard on Earth, we are either in prison or about to
 move. We were captured and sent to Medina. May Allah not satisfy the
@@ -2067,11 +1963,7 @@ forefathers, so he was sorrowful about his martyrdom, they could barely
 be valid. Ibn A'tham said that upon hearing the news of his martyrdom,
 Imam had recited this verse of Qur'an,
 
-<blockquote dir="rtl">
-  <p>
-من المومنين رجال صدقوا ما عاهدوا الله عليه “
-  </p>
-</blockquote>
+> من المومنين رجال صدقوا ما عاهدوا الله عليه “
 
 Among the faithful, there are men who abide by their pledge to God”
 
@@ -2186,13 +2078,9 @@ An interesting point is that the only one participating in Zayd's
 uprising from among the companions of Imam al-Baqir was Sulayman Ibn
 Khalid. Najashi had said about him,
 
-<blockquote dir="rtl">
-  <p>
-كان قارئا فقيها وجهاً روي عن أبي عبد الله وأبي جعفر عليهما السلام، خرج
-مع زيد ولم يخرج معه في اصحاب ابي جعفر عليه السلام غيره، فقطعت يده وكان
-الذي قطعها يوسف بن عمر بنفسه
-  </p>
-</blockquote>
+> كان قارئا فقيها وجهاً روي عن أبي عبد الله وأبي جعفر عليهما السلام، خرج
+> مع زيد ولم يخرج معه في اصحاب ابي جعفر عليه السلام غيره، فقطعت يده وكان
+> الذي قطعها يوسف بن عمر بنفسه
 
 “Being a Qur'an reader, jurisprudent and an eminent figure among Imam
 al-Baqir and as-Sadiq's companions, he narrated what they had been
@@ -2283,12 +2171,8 @@ sacrificed to you, are you superior to the prophets?”
 “The prophets”, he said.  
  I said, “Jacob told Josef,
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَى إِخْوَتِكَ فَيَكِيدُوا
-لَكَ كَيْدًا إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُبِينٌ.
-  </p>
-</blockquote>
+> قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَى إِخْوَتِكَ فَيَكِيدُوا
+> لَكَ كَيْدًا إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُبِينٌ.
 
 “Alas! O son, he said, reveal not your dream to brothers for they fall
 in envy of you.”  
@@ -2542,17 +2426,9 @@ Ibn Zurara. Although it's said that the number of Yahya's companions
 touched one hundred, that of 'Amr reached ten thousands or even more,
 the winner was Yahya.[^299]
 
-<blockquote dir="rtl">
-  <p>
-الم تر اهـل نيشابور لمـا لقو الابطال لم يغنوا قليلا
-  </p>
-</blockquote>
+> الم تر اهـل نيشابور لمـا لقو الابطال لم يغنوا قليلا
 
-<blockquote dir="rtl">
-  <p>
-لقوا مئة وهم عشرون ألفاً فما صبروا ولامنعوا قليلا
-  </p>
-</blockquote>
+> لقوا مئة وهم عشرون ألفاً فما صبروا ولامنعوا قليلا
 
 “Didn't you see the people of Niyshabur who confronted the champions
 when they were a few but when their number and that of Niyshabur was a
@@ -3691,5 +3567,4 @@ al-Ghumma, vol. II, pp 172,173
 
 [^341]: Maqatil al-Talibiyyin, p. 233; see, Tarikh Tashayyu‘ dar Iran,
 p. 139-143
-
 

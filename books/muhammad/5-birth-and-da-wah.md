@@ -1711,4 +1711,3 @@ their objectives. The West has been supporting the Jews against the
 Muslims, and there will never be any reversal to this trend… We are
 Allah's, and to Him shall we return…
 
-

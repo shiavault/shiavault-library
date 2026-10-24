@@ -4,31 +4,15 @@ Section 1: Qur’an, the Book Manifest
 Surah Ash-Shu‘ara - Verses 1-3
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-طسم
-  </p>
-</blockquote>
+> طسم
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ
 
-<blockquote dir="rtl">
-  <p>
-لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلاَ يَكُونُوا مُؤْمِنِينَ
-  </p>
-</blockquote>
+> لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلاَ يَكُونُوا مُؤْمِنِينَ
 
 ***1. “Ta. Sin. Mim.”***  
 ***2. “These are verses of the Book (that makes the truth) clear.”***  
@@ -107,26 +91,14 @@ above verse wassent down to sympathize with him.[^1]
 Surah Ash-Shu‘ara - Verses 4-6
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّن السَّمَاء آيَةً فَظَلَّتْ
-أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
-  </p>
-</blockquote>
+> إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّن السَّمَاء آيَةً فَظَلَّتْ
+> أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَنِ مُحْدَثٍ إِلاَّ كَانُوا
-عَنْهُ مُعْرِضِينَ
-  </p>
-</blockquote>
+> وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَنِ مُحْدَثٍ إِلاَّ كَانُوا
+> عَنْهُ مُعْرِضِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنبَاء مَا كَانُوا بِهِ
-يَسْتَهْزِئُون
-  </p>
-</blockquote>
+> فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنبَاء مَا كَانُوا بِهِ
+> يَسْتَهْزِئُون
 
 ***4. “If We please, We should send down upon them a sign from the
 heaven to which they would bend their necks in humility.”***  
@@ -241,24 +213,12 @@ will come.[^3]
 Surah Ash-Shu‘ara - Verses 7-9
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَوْا إِلَى الأَرْضِ كَمْ أَنبَتْنَا فِيهَا مِن كُلِّ
-زَوْجٍ كَرِيمٍ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَوْا إِلَى الأَرْضِ كَمْ أَنبَتْنَا فِيهَا مِن كُلِّ
+> زَوْجٍ كَرِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***7. “Do they not look at the earth - how many of every noble kind We
 have caused to grow in it?”***  
@@ -378,5 +338,4 @@ Al-’An‘am
 Luqman, verse 10, Surah Qaf, verse 7
 
 [^5]: Surah An-Naml, No. 27, verse 29
-
 

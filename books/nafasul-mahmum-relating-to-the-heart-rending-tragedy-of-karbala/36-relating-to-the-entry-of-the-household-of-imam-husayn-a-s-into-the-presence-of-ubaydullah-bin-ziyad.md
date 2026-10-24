@@ -506,4 +506,3 @@ moved and left them.
 Muhammad (S) to Madinah. Ansar - The Helpers of Madinah who welcomed the
 Prophet whole-heartedly and rendered assistance to him.
 
-

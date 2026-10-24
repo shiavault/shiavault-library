@@ -12,4 +12,3 @@ upon Muhammad and his family.
 
 5. (a.j.): ‘Ajjala Allahu Farajahu. May Allay quicken his appearance.
 
-

@@ -27,13 +27,9 @@ to accomplish this is by means of raj'at.
 
 In a tradition, Imam as-Sadiq (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الرَّجْعَةَ لَيْسَتْ عَامَّةٌ وَ هِيَ خَاصَّةٌ، لاَ يَرْجِعُ
-إِلاَّ مَنْ مَحَّضَ الإِيـمَانَ مَحْضاً أَوْ مَحَّضَ الشِّرْكَ
-مَحْضاً.
-  </p>
-</blockquote>
+> إِنَّ الرَّجْعَةَ لَيْسَتْ عَامَّةٌ وَ هِيَ خَاصَّةٌ، لاَ يَرْجِعُ
+> إِلاَّ مَنْ مَحَّضَ الإِيـمَانَ مَحْضاً أَوْ مَحَّضَ الشِّرْكَ
+> مَحْضاً.
 
 “Surely the raj'at is not universal, but specific; only those shall be
 returned, who are downright pure in faith or downright pure in
@@ -41,11 +37,7 @@ polytheism.”[^1]
 
 It is possible that verse 95 of Suratul Anbiya, which states:
 
-<blockquote dir="rtl">
-  <p>
-وَ حَرَامٌ عَلى قَرْيَةٍ أَهْلَکْنَاهَا إِنَّهُمْ لاَ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَ حَرَامٌ عَلى قَرْيَةٍ أَهْلَکْنَاهَا إِنَّهُمْ لاَ يَرْجِعُونَ
 
 “And it is binding on a town which We destroy that they shall not
 return)” is also an allusion towards this meaning. This is because the
@@ -63,5 +55,4 @@ not possess any kind of shortcoming.[^2]
 [^1]: Biharul Anwar, vol. 53, pg. 39
 
 [^2]: Tafsir-e-Namuna, vol. 15, pg. 559
-
 

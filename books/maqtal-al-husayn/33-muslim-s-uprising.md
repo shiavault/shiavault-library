@@ -100,4 +100,3 @@ author says, “Al-Harith al-A’war died in Kufa during the caliphate of
 Yazid al-Ansari al-Khatmi. He performed the funeral prayers for him
 according to his own will.”
 
-

@@ -157,52 +157,32 @@ The Holy Qur’an also negates dominating and controlling others, and does
 not regard even the Messenger of God (S) as having dominion (over
 others). We will cite below some verses that indicate this point:
 
-<blockquote dir="rtl">
-  <p>
-( بِمُصَيْطِرٍ عَلَيْهِمْ لَسْتَ \* مُذَكِّرٌ أنْتَ اِنَّما فَذَكِّرْ
-)
-  </p>
-</blockquote>
+> ( بِمُصَيْطِرٍ عَلَيْهِمْ لَسْتَ \* مُذَكِّرٌ أنْتَ اِنَّما فَذَكِّرْ
+> )
 
 ***“Remind them, for thou art but a remembrancer.***
 
 ***Thou art not at all a warder over them.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-( بِوَكِيْلٍ عَلَيْهِمْ أنْتَ وَما حَفِيْظًا عَلَيْهِمْ جَعَلْناكَ
-وَما …)
-  </p>
-</blockquote>
+> ( بِوَكِيْلٍ عَلَيْهِمْ أنْتَ وَما حَفِيْظًا عَلَيْهِمْ جَعَلْناكَ
+> وَما …)
 
 ***“We have not set thee as a keeper over them,***
 
 ***nor art thou responsible for them.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-(…البَلاغُ اِلاَّ الرّسُولِ عَلَى ما )
-  </p>
-</blockquote>
+> (…البَلاغُ اِلاَّ الرّسُولِ عَلَى ما )
 
 ***“The duty of the messenger is only to convey (the message).”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-كَفُوْراً( واِمّاَ شَاكِراً اِمَّا السَّبِيْلَ هَدَيْنَاهُ اِنَّا )
-  </p>
-</blockquote>
+> كَفُوْراً( واِمّاَ شَاكِراً اِمَّا السَّبِيْلَ هَدَيْنَاهُ اِنَّا )
 
 ***“Lo! We have shown him the way,***
 
 ***whether he be grateful or disbelieving.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-(…فَلْيَكْفُرْ شاءَ مَنْ وَ فَلْيُؤْمِنْ شاءَ فَمَنْ رَبِّكُمْ مِنْ
-الْحَقُّ قُلِ وَ )
-  </p>
-</blockquote>
+> (…فَلْيَكْفُرْ شاءَ مَنْ وَ فَلْيُؤْمِنْ شاءَ فَمَنْ رَبِّكُمْ مِنْ
+> الْحَقُّ قُلِ وَ )
 
 ***“Say: (It is) the truth from the Lord of you (all). Then whosoever
 will, let him believe, and whosoever will, let him disbelieve.”***[^5]
@@ -216,17 +196,9 @@ him are verses that are contradictory with the first group of verses on
 account of the skeptic’s wrong understanding of it. Let us cite some of
 these verses:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ قَضَى اِذا مُؤمِنَةٍ لا وَ لِمُؤْمِنٍ كانَ وَمَا
-  </p>
-</blockquote>
+> اللهُ قَضَى اِذا مُؤمِنَةٍ لا وَ لِمُؤْمِنٍ كانَ وَمَا
 
-<blockquote dir="rtl">
-  <p>
-…أمْرِهِم مِنْ الخِيَرَةُ لَهُمُ يَكُونَ أنْ أمْراً رَسُوْلُهُ و
-  </p>
-</blockquote>
+> …أمْرِهِم مِنْ الخِيَرَةُ لَهُمُ يَكُونَ أنْ أمْراً رَسُوْلُهُ و
 
 ***“And it becometh not a believing man or a believing woman, when Allah
 and His messenger have decided and affair (for them), that they should
@@ -236,22 +208,14 @@ The above verse categorically points out the need to obey and submit to
 God and His Messenger, giving a reminder that the believers have no
 right to refuse obeying and following the Messenger of God.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***“Your friend can be only Allah; and His messenger and those who
 believe, who establish worship and pay the poor due, and bow down (in
 prayer).”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-(…أنْفُسِهِمْ مِنْ بالْمُؤْمِنِينَ أوْلى النَّبِيّ )
-  </p>
-</blockquote>
+> (…أنْفُسِهِمْ مِنْ بالْمُؤْمِنِينَ أوْلى النَّبِيّ )
 
 ***“The Prophet is closer to the believers than their selves.”***[^8]
 
@@ -305,17 +269,9 @@ people’s refusal to embrace the faith? We revealed Islam so that the
 people accept it out of their own decision and freewill. Otherwise, if
 We wanted so, We have the power to guide all the people”:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّهُمْ الاَرْضِ فِي مَنْ لآمَنَ رَبُّكَ شاءَ لَوْ وَ )
-  </p>
-</blockquote>
+> كُلُّهُمْ الاَرْضِ فِي مَنْ لآمَنَ رَبُّكَ شاءَ لَوْ وَ )
 
-<blockquote dir="rtl">
-  <p>
-( مُؤْمِنينَ يَكُونُوا حَتّى النّاسَ تُكْرِهُ أفَأنْتَ جَمِيْعاً
-  </p>
-</blockquote>
+> ( مُؤْمِنينَ يَكُونُوا حَتّى النّاسَ تُكْرِهُ أفَأنْتَ جَمِيْعاً
 
 ***“And if thy Lord willed, all who are in the earth would have believed
 together. Wouldst thou (Muhammad) compel men until they are
@@ -333,18 +289,10 @@ training aims that out of cognition and awareness, man would understand
 and accept the truth, and not that he would be forced to submit to it.
 As such, God says:
 
-<blockquote dir="rtl">
-  <p>
-نُنَزِّلْ نَشَأ اِنْ \* مُؤْمِنينَ يَكُونُوا ألاّ نَفْسَكَ بَاخِعٌ
-لَعَلَّكَ )
-  </p>
-</blockquote>
+> نُنَزِّلْ نَشَأ اِنْ \* مُؤْمِنينَ يَكُونُوا ألاّ نَفْسَكَ بَاخِعٌ
+> لَعَلَّكَ )
 
-<blockquote dir="rtl">
-  <p>
-( خاضِعينَ لَها أعْناقُهُم فَظَلَّتْ آيَةً السَّماءِ مِنَ عَلَيْهِمْ
-  </p>
-</blockquote>
+> ( خاضِعينَ لَها أعْناقُهُم فَظَلَّتْ آيَةً السَّماءِ مِنَ عَلَيْهِمْ
 
 ***“It may be that thou tormentest thyself (O Muhammad) because they
 believe not. If We will, We can send down on them from the sky a portent
@@ -375,20 +323,12 @@ embracing the faith, he must obey all the ordinances. Anyone who
 believes in only a part of the divine decrees has hardly earned the
 pleasure of God:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلاً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلاً
 
-<blockquote dir="rtl">
-  <p>
-…حَقّاً الكافِرُونَ هُمُ أولئِكَ \*
-  </p>
-</blockquote>
+> …حَقّاً الكافِرُونَ هُمُ أولئِكَ \*
 
 ***“Lo! those who disbelieve in Allah and His messengers, and seek to
 make distinction between Allah and His messengers, and say: We believe
@@ -409,13 +349,9 @@ Thus, one who has believed in God is he who also believes in His
 Prophet, obeys his decision, decree and directive, is pleased with God
 and the Prophet, and does not nurse ill-feeling against them:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***“But nay, by thy Lord, they will not believe (in truth) until they
 make thee judge of what is in dispute between them and find within
@@ -428,12 +364,8 @@ all for the reason that he believes that he (the Prophet) is sent by God
 and his decree is the decree of God; he does not ill speak of him
 either:
 
-<blockquote dir="rtl">
-  <p>
-( اللهُ اَراكَ بِما النّاسِ بِينَ لِتَحْكُمَ بِالحَقِّ الكِتابَ
-اِلَيْكَ أنْزَلْنا اِنّا )
-  </p>
-</blockquote>
+> ( اللهُ اَراكَ بِما النّاسِ بِينَ لِتَحْكُمَ بِالحَقِّ الكِتابَ
+> اِلَيْكَ أنْزَلْنا اِنّا )
 
 ***“Lo! We reveal unto thee the Scripture with the truth, that thou
 mayst judge between mankind by that which Allah showeth thee.”*** [^13]
@@ -494,19 +426,11 @@ According to the injunction of the Qur’an, they ignore the clear
 revelations [*muhkamat*] of the Qur’an and engage in following the
 allegorical ones [*mutashabihat*]:
 
-<blockquote dir="rtl">
-  <p>
-الفِتْنَةِ ابْتِغاءَ مِنْهُ تَشابَهَ ما فَيَتَّبِعُونَ زَيْغٌ
-قُلُوبِهِمْ في الّذينَ فَأمّا …)
-  </p>
-</blockquote>
+> الفِتْنَةِ ابْتِغاءَ مِنْهُ تَشابَهَ ما فَيَتَّبِعُونَ زَيْغٌ
+> قُلُوبِهِمْ في الّذينَ فَأمّا …)
 
-<blockquote dir="rtl">
-  <p>
-(…وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ
-ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ
-  </p>
-</blockquote>
+> (…وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ
+> ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ
 
 ***“But those in whose hearts is doubt pursue, forsooth, that which is
 allegorical seeking (to cause) dissension by seeking to explain it. None
@@ -641,11 +565,7 @@ some of those made lawful by God are considered abominable. Had it not
 been the case, many of the sexual corruptions in the society could be
 prevented. The Commander of the Faithful (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-شَقِىّ اِلاّ زنى ما الْمُتْعَةِ فِى الخَطّابِ ابْنِ مِنِ سَبَقَ لَوْلا
-  </p>
-</blockquote>
+> شَقِىّ اِلاّ زنى ما الْمُتْعَةِ فِى الخَطّابِ ابْنِ مِنِ سَبَقَ لَوْلا
 
 “Had (‘Umar) ibn al-Khattab not prohibited fixed-time marriage
 [*mut‘ah*],[^16] no one would ever commit adultery and fornication
@@ -659,12 +579,8 @@ being abominable, it is also unlawful [*haram*] and it is a kind of
 religious innovation [*bid‘ah*]. The same is true for its opposite.
 Forbidding the lawful is also an innovation:
 
-<blockquote dir="rtl">
-  <p>
-بِعَزائِمِهِ يُؤْخَذَ اَنْ يُحِبُّ كَما بِرُخصِهِ يُؤْخَذَ اَنْ
-يُحِبُّ اللهَ انَّ
-  </p>
-</blockquote>
+> بِعَزائِمِهِ يُؤْخَذَ اَنْ يُحِبُّ كَما بِرُخصِهِ يُؤْخَذَ اَنْ
+> يُحِبُّ اللهَ انَّ
 
 “Verily, God loves the people to benefit from the permissible
 [*mubahat*] and lawful [*halal-ha*] things just as He loves them to
@@ -706,19 +622,11 @@ That this statement is contradictory with our religious teachings is
 very clear. The Holy Qur’an mentions the human beings as “servants of
 God”:
 
-<blockquote dir="rtl">
-  <p>
-( بِالْعِبادِ رَؤُفٌ اللهُ وَ …)
-  </p>
-</blockquote>
+> ( بِالْعِبادِ رَؤُفٌ اللهُ وَ …)
 
 ***“And Allah hath compassion on (His) bondmen.”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-( لِلْعِبادِ ظُلْماً يُرِيدُ اللهُ ما وَ )
-  </p>
-</blockquote>
+> ( لِلْعِبادِ ظُلْماً يُرِيدُ اللهُ ما وَ )
 
 ***“And Allah willeth no injustice for (His) slaves.”***[^20]
 
@@ -726,19 +634,11 @@ God, the Exalted, calls the most beloved and noble of human beings,
 namely, the Eminent Prophet of Islam, Hadrat Muhammad (S) as ‘servant’
 [*‘abd*]:
 
-<blockquote dir="rtl">
-  <p>
-الْمَسْجِدِ اِلَى الْحَرامِ الْمَسْجِدِ مِنَ لَيْلاً بِعَبْدِهِ أسْرى
-الَّذي سُبْحَانَ )
-  </p>
-</blockquote>
+> الْمَسْجِدِ اِلَى الْحَرامِ الْمَسْجِدِ مِنَ لَيْلاً بِعَبْدِهِ أسْرى
+> الَّذي سُبْحَانَ )
 
-<blockquote dir="rtl">
-  <p>
-( البَصِيرُ السَّمِيعُ هُوَ اِنَّهُ اياتِنا مِنْ لِنُرِيَهُ حَوْلَهُ
-بارَكْنا الَّذي الأقْصَى
-  </p>
-</blockquote>
+> ( البَصِيرُ السَّمِيعُ هُوَ اِنَّهُ اياتِنا مِنْ لِنُرِيَهُ حَوْلَهُ
+> بارَكْنا الَّذي الأقْصَى
 
 ***“Glorified be He Who carried His servant by night from the Inviolable
 Place of Worship to the Far Distant Place of Worship the neighbourhood
@@ -750,18 +650,10 @@ status of the “soul in peace” [*nafs al-mutma’innah*] are called
 ‘servants’ [*‘ibad*] and are included in the rank of the special
 servants of God:
 
-<blockquote dir="rtl">
-  <p>
-\* مَرْضِيَّةً راضِيَةً رَبِّكِ اِلى ارْجِعي \* الْمُطْمَئِنَّةُ
-النَّفْسُ أيّتُهَا يا )
-  </p>
-</blockquote>
+> \* مَرْضِيَّةً راضِيَةً رَبِّكِ اِلى ارْجِعي \* الْمُطْمَئِنَّةُ
+> النَّفْسُ أيّتُهَا يا )
 
-<blockquote dir="rtl">
-  <p>
-( جَنَّتي ادْخُلي وَ \* عِبادي في فَادْخُلِي
-  </p>
-</blockquote>
+> ( جَنَّتي ادْخُلي وَ \* عِبادي في فَادْخُلِي
 
 ***“But ah! thou soul at peace!***
 
@@ -777,12 +669,8 @@ and nobility. After excessive acts of worship, His Holiness the
 Commander of the Faithful (*‘a*) used to humbly bow down in prostration
 and utter:
 
-<blockquote dir="rtl">
-  <p>
-رَبّاً لى تَكُونَ اَنْ فَخْراً بى كَفى وَ عَبْداً لَكَ اَكُونَ اَنْ
-عِزّاً بى كَفى اِلهى
-  </p>
-</blockquote>
+> رَبّاً لى تَكُونَ اَنْ فَخْراً بى كَفى وَ عَبْداً لَكَ اَكُونَ اَنْ
+> عِزّاً بى كَفى اِلهى
 
 “O God! It is an enough honor that I am you servant and it is an enough
 poverty that Thou art my Lord.”[^23]
@@ -795,20 +683,12 @@ deal with the issue in detail. You know that belief in monotheism
 [*tawhid*] means belief in the One True God Who is the Cherisher and
 Sustainer [*rabb*] of all the worlds.
 
-<blockquote dir="rtl">
-  <p>
-( الْعالَمِينَ رَبِّ للهِ الْحَمْدُ )
-  </p>
-</blockquote>
+> ( الْعالَمِينَ رَبِّ للهِ الْحَمْدُ )
 
 ***“Praise be to Allah, the Cherisher and Sustainer of the
 Worlds.”***[^25]
 
-<blockquote dir="rtl">
-  <p>
-( عِبَادُكَ فَإنَّهُمْ )
-  </p>
-</blockquote>
+> ( عِبَادُكَ فَإنَّهُمْ )
 
 ***“Lo! They are Thy slaves.”***[^26]
 
@@ -939,30 +819,18 @@ value-laden, is laden with the highest positive value, for it is under
 the auspices of servitude to God that man can attain his ultimate
 perfection and be included among those who are thus addressed by God:
 
-<blockquote dir="rtl">
-  <p>
-( عِبادي في فَادْخُلِي )
-  </p>
-</blockquote>
+> ( عِبادي في فَادْخُلِي )
 
 ***“Enter thou among My bondmen!”***[^28]
 
 God, the Exalted, addresses as “servant” [*‘abd*] His most beloved
 servant, namely, Hadrat Muhammad (S):
 
-<blockquote dir="rtl">
-  <p>
-الْمَسْجِدِ اِلَى الْحَرامِ الْمَسْجِدِ مِنَ لَيْلاً بِعَبْدِهِ أسْرى
-الَّذي سُبْحَانَ )
-  </p>
-</blockquote>
+> الْمَسْجِدِ اِلَى الْحَرامِ الْمَسْجِدِ مِنَ لَيْلاً بِعَبْدِهِ أسْرى
+> الَّذي سُبْحَانَ )
 
-<blockquote dir="rtl">
-  <p>
-( البَصِيرُ السَّمِيعُ هُوَ اِنَّهُ آياتِنا مِنْ لِنُرِيَهُ حَوْلَهُ
-بارَكْنا الَّذي الأقْصَى
-  </p>
-</blockquote>
+> ( البَصِيرُ السَّمِيعُ هُوَ اِنَّهُ آياتِنا مِنْ لِنُرِيَهُ حَوْلَهُ
+> بارَكْنا الَّذي الأقْصَى
 
 ***“Glorified be He Who carried His servant by night from the Inviolable
 Place of Worship to the Far Distant Place of Worship the neighbourhood
@@ -1006,21 +874,13 @@ universe, but also the Cherisher and Sustainer of the worlds
 [*rabb’ul-‘alamin*], and the universe is evolving and revolving
 continuously by His will:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي
-شَأْنٍ
-  </p>
-</blockquote>
+> يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي
+> شَأْنٍ
 
 ***“All that are in the heavens and the earth entreat Him. Every day He
 exerciseth (universal) power**.”*[^30]
 
-<blockquote dir="rtl">
-  <p>
-.قالبها ريزد فرو ، آنى كند نازى اگر
-  </p>
-</blockquote>
+> .قالبها ريزد فرو ، آنى كند نازى اگر
 
 “Once He demurs, the moulds would collapse.”
 
@@ -1074,17 +934,9 @@ From his conversation with God it is clear that he has believed in the
 before Hadrat Adam (*‘a*) he said: “Thou hast created me from fire and
 created him (Adam) from clay.”
 
-<blockquote dir="rtl">
-  <p>
-؟ أمَرْتُكَ اِذ تَسْجُدَ ألاّ مَنَعَكَ ما قالَ
-  </p>
-</blockquote>
+> ؟ أمَرْتُكَ اِذ تَسْجُدَ ألاّ مَنَعَكَ ما قالَ
 
-<blockquote dir="rtl">
-  <p>
-وَخَلَقْتَهُ مِنْ طِينٍ نارٍ مِنْ خَلَقْتَني مِنْهُ خَيْرٌ أنا قالَ
-  </p>
-</blockquote>
+> وَخَلَقْتَهُ مِنْ طِينٍ نارٍ مِنْ خَلَقْتَني مِنْهُ خَيْرٌ أنا قالَ
 
 ***“He said: What hindered thee that thou didst not fall prostrate when
 I bade thee? (Iblis) said: I am better than him. Thou createdst me of
@@ -1095,12 +947,8 @@ denier of the cosmic Lordship of God? In his conversation with God, he
 addressed the Divine Sacred Essence as “Lord” [*rabb*]. As such, Iblis
 believed in God as the One managing the universe:
 
-<blockquote dir="rtl">
-  <p>
-وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ الأرْضِ فِي لَهُمْ لأُزَيِّنَنَّ
-أغْوَيْتَني بِما رَبِّ قالَ
-  </p>
-</blockquote>
+> وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ الأرْضِ فِي لَهُمْ لأُزَيِّنَنَّ
+> أغْوَيْتَني بِما رَبِّ قالَ
 
 ***“He said: My Lord, because Thou has sent me astray, I verily shall
 adorn the path of error for them in the earth, and shall mislead them
@@ -1109,11 +957,7 @@ every one.”***[^32]
 Was Iblis a denier of the Day of Judgment? The answer is negative. He
 requested respite from God till the Day of Resurrection:
 
-<blockquote dir="rtl">
-  <p>
-( يُبْعَثُونَ يَوْمِ اِلى فَأنْظِرْني رَبِّ قالَ )
-  </p>
-</blockquote>
+> ( يُبْعَثُونَ يَوْمِ اِلى فَأنْظِرْني رَبِّ قالَ )
 
 ***“He said: My Lord! Reprieve me till the day when they are
 raised.”***[^33]
@@ -1123,18 +967,10 @@ Holiness the Commander of the Faithful (*‘a*) in the *Nahj
 al-Balaghah*[^34] the answer to this question will become clear.
 Concerning the devotion of Iblis, he says:
 
-<blockquote dir="rtl">
-  <p>
-أمِنْ يَدْرى لا سَنَةٍ آلافِ سِتَّةَ اللهَ عَبَدَ قَدْ كانَ وَ
-  </p>
-</blockquote>
+> أمِنْ يَدْرى لا سَنَةٍ آلافِ سِتَّةَ اللهَ عَبَدَ قَدْ كانَ وَ
 
-<blockquote dir="rtl">
-  <p>
-واحِدَةٍ ساعَةٍ كِبْرِ عَنْ الآخِرَةِ سَنِىِّ مِنْ أمْ الدُّنْيا
-سَنِىِّ
-  </p>
-</blockquote>
+> واحِدَةٍ ساعَةٍ كِبْرِ عَنْ الآخِرَةِ سَنِىِّ مِنْ أمْ الدُّنْيا
+> سَنِىِّ
 
 “He nullified his great acts and extensive efforts on account of the
 vanity of one moment, although Satan had worshipped Allah for six
@@ -1254,14 +1090,10 @@ son of Adam (Adam) (*‘a*) obviously did not submit to the divine duty
 and rules, and under the aegis of lawbreaking and egotism, he murdered
 his brother Habil (Abel):
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ
-الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ
-مِنَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ
+> الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ
+> مِنَ الْمُتَّقِينَ
 
 ***“But recite unto them with truth the tale of the two sons of Adam,
 how they offered each a sacrifice, and it was accepted from the one of
@@ -1277,28 +1109,16 @@ murder him and drive him out of their own town. If a prophet would
 express a thoroughly important message for them and for example, as the
 Qur’an describes, discourage them from practicing shortchanging:
 
-<blockquote dir="rtl">
-  <p>
-(…وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ )
-  </p>
-</blockquote>
+> (…وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ )
 
 ***“And wrong not mankind in their goods.”***[^37]
 
 They would say to him:
 
-<blockquote dir="rtl">
-  <p>
-أوْ آباؤُنا يَعْبُدُ ما نَتْرُكَ أنْ تَأمُرُكَ أصَلَوتُكَ شُعَيْبُ يا
-قالُوا )
-  </p>
-</blockquote>
+> أوْ آباؤُنا يَعْبُدُ ما نَتْرُكَ أنْ تَأمُرُكَ أصَلَوتُكَ شُعَيْبُ يا
+> قالُوا )
 
-<blockquote dir="rtl">
-  <p>
-( الرّشيدُ الحَليمُ لأنْتَ اِنَّكَ نَشاءُ ما أمْوالِنا في نَفْعَلَ أنْ
-  </p>
-</blockquote>
+> ( الرّشيدُ الحَليمُ لأنْتَ اِنَّكَ نَشاءُ ما أمْوالِنا في نَفْعَلَ أنْ
 
 ***“They said: O Shu‘ayb (Jethro)! Doth thy way of prayer command thee
 that we should forsake that which our fathers (used to) worship, or that
@@ -1322,13 +1142,9 @@ If even one would chant a slogan that he is not the servant of anybody
 or anything, in reality he is the servant of the *taghut* and his carnal
 desire. On this basis, the Qur’an thus states:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى
-النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ
-يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ
-  </p>
-</blockquote>
+> اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى
+> النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ
+> يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ
 
 ***“Allah is the Protecting Friend of those who believe. He bringeth
 them out of darkness into light. As for those who disbelieve, their
@@ -1337,18 +1153,10 @@ Such are rightful owners of the Fire. They will abide therein.”***[^40]
 
 Elsewhere in the Qur’an, God says:
 
-<blockquote dir="rtl">
-  <p>
-عَدُوٌّ لَكُمْ اِنَّهُ الشَّيْطانَ لاتَعبُدُوا اَنْ آدَمَ بَني يا
-اِلَيْكُمْ اَعْهَدْ اَلَمْ
-  </p>
-</blockquote>
+> عَدُوٌّ لَكُمْ اِنَّهُ الشَّيْطانَ لاتَعبُدُوا اَنْ آدَمَ بَني يا
+> اِلَيْكُمْ اَعْهَدْ اَلَمْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ مُبِينٌ \*
-  </p>
-</blockquote>
+> وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ مُبِينٌ \*
 
 ***“Did I not charge you, O ye sons of Adam, that ye worship not the
 devil Lo! He is your open foe! But that ye worship Me? That was the
@@ -1412,12 +1220,8 @@ Again, in relation to the fact that the essence of the prophets’ mission
 to the obedience to and worship of God and non-adherence to the
 *taghut*, God says:
 
-<blockquote dir="rtl">
-  <p>
-(…وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ
-وَاجْتَنِبُوا الطَّاغُوتَ ۖ )
-  </p>
-</blockquote>
+> (…وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ ۖ )
 
 ***“And verily We have raised in every nation a messenger,
 (proclaiming): Serve Allah and shun false gods.”***[^43]
@@ -1429,11 +1233,7 @@ spirit of the mission of the prophets is absolute obedience to God, from
 Whom the entire world of being emanates, and Who is the Alpha and the
 Omega as well as the Real Master and Owner:
 
-<blockquote dir="rtl">
-  <p>
-( راجِعُونَ اِلَيْهِ اِنّا وَ للهِ اِنّا )
-  </p>
-</blockquote>
+> ( راجِعُونَ اِلَيْهِ اِنّا وَ للهِ اِنّا )
 
 ***“Lo! We are Allah's and Lo! Unto Him we are returning.”***[^44]
 
@@ -1459,13 +1259,9 @@ servanthood has been put on every phenomenon. Intrinsically, no being
 has existed without the sign of servitude to God, and the existence of
 every being exactly means servitude to Him:
 
-<blockquote dir="rtl">
-  <p>
-تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ
-وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
-تَفْقَهُونَ تَسْبِيحَهُمْ...
-  </p>
-</blockquote>
+> تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ
+> وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
+> تَفْقَهُونَ تَسْبِيحَهُمْ...
 
 ***“The seven heavens and the earth and all that is therein praise Him,
 and there is not a thing but hymneth his praise; but ye understand not
@@ -1474,13 +1270,9 @@ their praise.”***[^45]
 In relation to the servitude and worship of the creatures, God also
 says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ
-وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ
-وَتَسْبِيحَهُ ۗ...
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ
+> وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ
+> وَتَسْبِيحَهُ ۗ...
 
 ***“Hast thou not seen that Allah, He it is Whom all who are in the
 heavens and the earth praise; and the birds in their flight? Of each He
@@ -1491,11 +1283,7 @@ created free and autonomous. Although God, the Exalted, has showed him
 the path of guidance and the way of deviation, he is free to choose
 which path to tread. As what God Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 
 ***“Lo! We have shown him the way,***
 
@@ -1508,11 +1296,7 @@ tread the path of obedience to the Satan and servitude to other than
 God. Instead, he has to shoulder the servitude and divine
 responsibility, for God has created him for such a purpose:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
 
 ***“I created the jinn and humankind only that they might worship
 Me.”***[^48]
@@ -1525,18 +1309,10 @@ endowed us with life and through His grace and favor He granted us with
 health and innumerable blessings. As God has said through the tongue of
 Hadrat Ibrahim (Prophet Abraham) (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-\* وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ يَهدينِ فَهُوَ خَلَقَني
-الَّذي
-  </p>
-</blockquote>
+> \* وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ يَهدينِ فَهُوَ خَلَقَني
+> الَّذي
 
-<blockquote dir="rtl">
-  <p>
-يُحْيِينِ ثُمَّ يُميتُني \* وَالَّذِي يَشْفينِ فَهُوَ مَرِضْتُ وَإِذَا
-  </p>
-</blockquote>
+> يُحْيِينِ ثُمَّ يُميتُني \* وَالَّذِي يَشْفينِ فَهُوَ مَرِضْتُ وَإِذَا
 
 ***“(He is the Lord of the worlds) Who created me, and He doth guide me,
 and Who feedeth me and watereth me. And when I sicken, then He healeth
@@ -1568,12 +1344,8 @@ Adam) (*‘a*) in the Qur’an[^50] is not pertaining to all the sons of
 Adam because the Qur’an labels some of his sons as “devils”
 [*shayatin*], stating:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنْسِ
-وَالْجِنِّ
-  </p>
-</blockquote>
+> وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنْسِ
+> وَالْجِنِّ
 
 ***“Thus have We appointed unto every Prophet an adversary devils of
 humankind and jinn.”***[^51]
@@ -1582,19 +1354,11 @@ Undoubtedly, human devils are neither “vicegerents of Allah” nor
 included among whom the angels were required to bow down in prostration
 before them when God said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ
-صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ
+> صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-\*فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ
-سَاجِدِينَ
-  </p>
-</blockquote>
+> \*فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ
+> سَاجِدِينَ
 
 ***“And (remember) when thy Lord said unto the angels: Lo! I am creating
 a mortal out of potter's clay of black mud altered. So, when I have made
@@ -1606,11 +1370,7 @@ characteristics, among which are:
 
 (1) knowledge of the names:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَّمَ آدَمَ الْأَسْمَاءَ
-  </p>
-</blockquote>
+> وَعَلَّمَ آدَمَ الْأَسْمَاءَ
 
 ***“And He taught Adam all the names”*****;**[^53]
 
@@ -1629,12 +1389,8 @@ down the Islamic government, apart from being not the noblest creatures,
 are exactly the same devils [*shayatin*] from among mankind whom God
 regards as more abject than the animals and concerning whom He says:
 
-<blockquote dir="rtl">
-  <p>
-( لايَعْقِلُونَ الّذينَ الْبُكْمُ الصُّمُّ اللهِ عِنْدَ الدَّوابِّ
-شَرَّ اِنَّ )
-  </p>
-</blockquote>
+> ( لايَعْقِلُونَ الّذينَ الْبُكْمُ الصُّمُّ اللهِ عِنْدَ الدَّوابِّ
+> شَرَّ اِنَّ )
 
 ***“Lo! The worst of beasts in Allah's sight are the deaf, the dumb, who
 have no sense.”***[^54]
@@ -1979,5 +1735,4 @@ victory of the Islamic Revolution on February 11, 1979, the Iranian
 people unanimously declared their final and firm decision to bring about
 a new political order, an Islamic Republic, by a 98.2% majority vote.
 [Trans.]
-
 

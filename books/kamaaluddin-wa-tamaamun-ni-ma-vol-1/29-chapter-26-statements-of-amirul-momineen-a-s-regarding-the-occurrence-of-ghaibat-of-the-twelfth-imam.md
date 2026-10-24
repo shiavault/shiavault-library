@@ -585,4 +585,3 @@ Who are those successors? He replied: I am, and after me, the eleven
 narrating Imams from my progeny [who will narrate traditions from the
 Messenger of Allah (S)].”
 
-

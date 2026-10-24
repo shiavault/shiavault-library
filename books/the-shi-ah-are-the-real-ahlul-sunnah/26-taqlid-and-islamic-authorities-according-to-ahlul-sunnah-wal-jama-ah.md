@@ -111,4 +111,3 @@ Qur'an as a forsaken thing. And thus have We made for every prophet an
 enemy from the sinners, and sufficient is your Lord to guide and help.”
 (Holy Qur'an, 25:27-31)***
 
-

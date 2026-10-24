@@ -210,4 +210,3 @@ attend to the needs of the poor in Madinah."
 
 [^15]: Urwat al‑Wusqa, chapter i, issue 49.
 
-

@@ -231,7 +231,6 @@ Now to conclude: In 10- AL-TABARI (3:195)
 spite of such a long search we did not come across any indication or
 reference to the benefit of Abu Baker so as to be the caliph.
 
-
 **8- Text Pertaining to Ali Bin Abi Taleb**
 
 Is it correct what the Shias say about the text defining Ali? Of the
@@ -536,7 +535,6 @@ and raised it to the length that the whiteness of the skin under his
 shoulders became visible to all. In such a posture it was that he asked,
 "Am I not superior than you among you?"
 
-
 Then, what this bedlam? And what this conspiracy? Were those words of
 the Prophet just balderdash? A matter of eternal importance was conveyed
 and it was brought home to understand that Ali is the lord to those whom
@@ -668,5 +666,4 @@ declared: "We do not yield but to Ali". These words, as the winds blew,
 gone with the winds too and the history either ignored or forgot. We
 could only remind to our readers in our coming discussions in this
 book.
-
 

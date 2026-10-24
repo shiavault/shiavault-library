@@ -572,4 +572,3 @@ on him, was born, Umm al-Fadhl suckled him.” In the book al-Isaba, vol.
 al-Fadhl told (the Prophet), was before the birth of al-Husayn, peace be
 on him. When he was born, she suckled him.”
 
-

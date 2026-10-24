@@ -190,4 +190,3 @@ well-known as Qadi Nu'man or "the Shi'ite Abu Hanifah" (i.e. Isma'ili);
 his knowledge of*fiqh* and*hadith* is good, and his well-known book
 Da'a'im al-'Islam has been printed by lithotype several years ago.
 
-

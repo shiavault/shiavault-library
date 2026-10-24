@@ -96,4 +96,3 @@ wronged you and giving to one who has withheld from you."*[^6]
 
 [^6]: Mir’at al-‘Uqul, vol. 8, p. 192.
 
-

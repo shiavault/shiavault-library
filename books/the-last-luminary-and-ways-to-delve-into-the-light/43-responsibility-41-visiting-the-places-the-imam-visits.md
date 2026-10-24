@@ -30,4 +30,3 @@ are held around these great days.
 Wali al-’ASr attends the Hajj every year and on the day of ‘Arafat, he
 is present on the Plains of ‘Arafat.
 
-

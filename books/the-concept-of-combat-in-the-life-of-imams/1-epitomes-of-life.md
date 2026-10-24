@@ -45,4 +45,3 @@ I realized this point that year and tried to study the lives of these
 honorable figures on the basis of this approach. The more I delved into
 the issue, the more this point was acknowledged.
 
-

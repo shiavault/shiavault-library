@@ -84,4 +84,3 @@ it as a weapon in which to accuse the Shia writes in interpreting the
 traditions as time fits. Our readers can judge for themselves whether to
 come to such a conclusion is just or unjust.
 
-

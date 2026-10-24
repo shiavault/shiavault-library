@@ -136,4 +136,3 @@ Because they all are immoral purposes, Islam has forbidden both man and
 woman to respond to such calls so as to save them from the slips of
 charms and the tragedies of the mixing of the sexes.
 
-

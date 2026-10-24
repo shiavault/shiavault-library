@@ -18,4 +18,3 @@ Mu'awiya decided to send his son**Yazid** to Mecca for the pilgrimage.
 Yes,**Yazid** did go to Mecca but only after taking alcohol with him as
 well as a chorus of girls for his entertainment.
 
-

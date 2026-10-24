@@ -156,7 +156,6 @@ seekers of the truth, and that the general public may know what is meant
 by the original Islam which, in order to distinguish it from other
 sects, is termed Shiaism.
 
-
 **The Originality and Genuineness Of The Holy Qur'an in Its Text and
 Its Arrangement**
 
@@ -187,7 +186,6 @@ these theories
 as a part of their belief
 Before dealing with these matters, the following points must of
 necessity be made.
-
 
 **The Qur'an: What Does it Mean?**
 
@@ -467,5 +465,4 @@ variety of expression in rhythmical form is found not only in the
 chapters, but even in the verses of the Holy Book. These are the facts
 an intelligent and a sincere student of the Holy Qur'an will recognise
 in studying the Book.
-
 

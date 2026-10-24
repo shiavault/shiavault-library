@@ -316,4 +316,3 @@ the mission of Zainab after martyrdom is:
 
 **Otherwise, they are Yazids.**
 
-

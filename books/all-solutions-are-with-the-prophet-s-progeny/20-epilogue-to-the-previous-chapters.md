@@ -443,4 +443,3 @@ not that case in saying “I bear witness that Ali is the saint of Allah”,
 because this is mentioned as generally recommended and to show our
 adherence to the saint of Allah.
 
-

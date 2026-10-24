@@ -7,12 +7,8 @@ Imam Sadiq and tell him that I was recently converted to Islam from
 Christianity. The Imam asked: What advantage did you find in Islam to
 embrace it ? I quoted this verse of the Quran which says:
 
-<blockquote dir="rtl">
-  <p>
-مَا كُنْتَ تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَٰكِنْ
-جَعَلْنَاهُ نُورًا نَهْدِي بِهِ مَنْ نَشَاءُ مِنْ عِبَادِنَا
-  </p>
-</blockquote>
+> مَا كُنْتَ تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَٰكِنْ
+> جَعَلْنَاهُ نُورًا نَهْدِي بِهِ مَنْ نَشَاءُ مِنْ عِبَادِنَا
 
 ***"You did not know what the Book was, nor what the faith was, but We
 made it a light guiding thereby whom We please." (42:52)***
@@ -58,5 +54,4 @@ according to Islamic rites, and I recited a prayer to her corpse and
 buried her with my own hands.[^1]
 
 [^1]: Al-Kafi, Vol.2, P.16, Bihar Al-Anwar, Vol. 74.
-
 

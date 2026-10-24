@@ -77,7 +77,5 @@ This had not been easy to achieve. It took twenty-three years of
 ceaseless striving and sacrifices to see the success of the Proph- et's
 mission (p.b.u.h.a.h.p.)
 
-
 THE END
-
 

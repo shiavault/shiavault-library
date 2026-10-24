@@ -204,4 +204,3 @@ Al-Nahshali's troops were late to arrive. The man was so shocked at the
 news of the martyrdom of Imam Hussein (a.s.) that he died. He had missed
 the opportunity to help the grandson of Prophet Muhammad (s.a.w.).
 
-

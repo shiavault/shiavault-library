@@ -29,22 +29,14 @@ believers. I asked: What are those, may I be sacrificed on you? He
 replied: They are mentioned in the saying of Allah, the Mighty and
 Sublime:
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ
 
 That is before the advent of the Qaim the believers will be tested
 through fear and hunger and loss of property and lives and fruits; and
 give good news to the patient.
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
-الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ 
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
+> الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ
 
 ***And We will most certainly try you with somewhat of fear and hunger
 and loss of property and lives and fruits; and give good news to the
@@ -242,11 +234,7 @@ the Chief of the Worshippers, Ali bin Husain (a.s.) that he said:
 number of the martyrs of Badr. From wherever they start they shall be in
 Mecca in the morning. And that is the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ مَا تَكُونُواْ يَأْتِ بِكُمُ اللّهُ جَمِيعًا
-  </p>
-</blockquote>
+> أَيْنَ مَا تَكُونُواْ يَأْتِ بِكُمُ اللّهُ جَمِيعًا
 
 ***Wherever you are, Allah will bring you all together.***[^2]
 
@@ -338,5 +326,4 @@ the High and the Mighty.
 [^1]: Surah Baqarah 2:155
 
 [^2]: Surah Baqarah 2:148
-
 

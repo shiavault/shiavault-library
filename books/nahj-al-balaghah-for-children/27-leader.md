@@ -33,4 +33,3 @@ and would return to it.
 
 (Sermon 154)
 
-

@@ -55,4 +55,3 @@ Minhaj-ul-Quran International (MQI):
 Dr. Tahir-ul-Qadri:  
  Email: <qadri@minhaj.org>
 
-

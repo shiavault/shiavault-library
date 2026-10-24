@@ -982,4 +982,3 @@ others, and dragged down all Muslims under the blade of infidelity.
 
 [^54]: – Surah AL-Naml 27:24.
 
-

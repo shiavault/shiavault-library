@@ -187,4 +187,3 @@ greeting has peace therein, and they conclude their prayers with:
 ***"All praise is due to Allah, Lord of the worlds." (Qur'an,
 10:9-10)***
 
-

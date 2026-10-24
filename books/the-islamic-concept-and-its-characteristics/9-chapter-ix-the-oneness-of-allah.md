@@ -845,4 +845,3 @@ dignified, slave neither to any machine nor to any mortal. If Allah has
 inspired us to say the right thing, all praise belongs to Him the Lord
 of all Being.
 
-

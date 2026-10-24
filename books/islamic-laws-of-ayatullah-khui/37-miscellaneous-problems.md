@@ -103,4 +103,3 @@ agreeable to its fruit being plucked, he cannot on the basis of
 precaution, pluck its fruit, and cannot also pick up the fruit which has
 fallen on the ground.
 
-

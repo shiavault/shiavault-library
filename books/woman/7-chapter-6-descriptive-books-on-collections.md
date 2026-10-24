@@ -2159,4 +2159,3 @@ Abd As-Salam Ar-Rifa'i.
 
 [^40]: Banoye Mujtahid Irani, pp. 113-116.
 
-

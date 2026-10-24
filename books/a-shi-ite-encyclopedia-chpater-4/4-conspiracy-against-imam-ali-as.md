@@ -654,7 +654,6 @@ deleted portion contains the declaration that ... those who believe that
 Allah has a body are definitely kafir according to the Ijma without any
 difference of opinions.
 
-
 **Do I need to comment on Wahabi scholarship?**
 
 Another prson mentioned: Why is it that you want Sunnis accept a
@@ -682,10 +681,8 @@ also feel that there has been a lot that has been attributed to them in
 the form of Hadiths, that they have not necessarily said or agree
 with.
 
-
 This is due, in part, to the Umayads who hated Ahlul Bayt and wanted to
 make them look as less than who they were, either by elevating the
 status of the people you named and others, or by fabricating hadeeths in
 conflict.
-
 

@@ -20,4 +20,3 @@ him with a sword.
 
 Thus, this mujahid's life was put out like a candle!
 
-

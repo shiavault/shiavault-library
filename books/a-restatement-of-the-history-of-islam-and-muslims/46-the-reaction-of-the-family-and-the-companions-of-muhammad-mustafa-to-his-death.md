@@ -124,4 +124,3 @@ even from enemies, it's incredible but true that the Companions of
 Muhammad, the Messenger of God, withheld it from his own family. They
 left his family to mourn his death alone.
 
-

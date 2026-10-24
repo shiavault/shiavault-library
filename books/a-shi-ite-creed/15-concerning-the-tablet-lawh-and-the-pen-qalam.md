@@ -40,4 +40,3 @@ can be seen in Ibnu'l-\`Arabi. He uses qalam, lawh and \`arsh for the
 Neo-Platonic First Intellect, Universal Soul and Universal Body,
 respectively (Affifi, 63, n. l; 67).
 
-

@@ -23,4 +23,3 @@ and seeks helps from the Almighty whose Power has no end. Then the
 Merciful, affectionate, Almighty and Powerful Lord also puts him into
 His special Grace, favor and attention.
 
-

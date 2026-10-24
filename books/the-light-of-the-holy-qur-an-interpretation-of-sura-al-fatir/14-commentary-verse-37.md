@@ -111,7 +111,6 @@ remember therein for him who would remember?’” [^2]
 
 [^2] The commentary by Tabarsi-, following the verse.
 
-
 **Section 5 : Never can anyone see Allah’s plan Commentary : Verse
 38**
 
@@ -155,5 +154,4 @@ purify their sincere intentions and they do not keep anyone in their
 mind save Allah, because if there is the least insincerity in their
 intention and motive He, Who is aware of all the Unseen things, surely
 knows it and compensates it accordingly.
-
 

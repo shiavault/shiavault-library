@@ -93,4 +93,3 @@ Imam Jafar as Sadiq (as) said,
 
 [^10]: Ghaibat al-Nomani Pg.245
 
-

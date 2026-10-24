@@ -497,4 +497,3 @@ commit such and such an act. Does this oblige that person to do this?
 
 In summary, God’s knowledge never obliges anyone to do anything.
 
-

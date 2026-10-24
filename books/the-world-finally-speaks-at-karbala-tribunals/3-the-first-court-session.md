@@ -692,4 +692,3 @@ excited and eager to follow the events of the next court session of this
 unique and thrilling trial which stirred commotion in all parts of the
 world).
 
-

@@ -540,4 +540,3 @@ or she will also find a lot of support and in time should find
 him/herself as a welcome member of a Muslim community, and able to make
 a positive contribution to it. Allah (swt) is the best supporter.
 
-

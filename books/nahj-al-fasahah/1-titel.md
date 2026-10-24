@@ -1,21 +1,11 @@
 Titel
 =====
 
-  
-  
-
 ![](images/besm.jpg)
-
-  
 
 In the Name of God  
  The Merciful, the Compassionate
 --------------------------------
-
-  
-  
-  
-  
 
 ##### In the Name of God; The Merciful, the Compassionate {style="text-align: center"}
 
@@ -60,5 +50,4 @@ Divine revelation, Muhammad (P.B.U.H.) who stood at heavenly heights in
 all and every aspects of worldly and otherworldly life.
 
 **Dr. Hossein Vahid Dastjerdi**
-
 

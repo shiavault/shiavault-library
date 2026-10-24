@@ -16,4 +16,3 @@ uselessness and hollowness, make up for our evident and concealed
 fiasco, illustrate the way of victory and elevation, and grant us
 happiness, moderation, tranquility, and peace of mind.
 
-

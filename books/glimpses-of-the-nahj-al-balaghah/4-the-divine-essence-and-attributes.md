@@ -538,4 +538,3 @@ Muslimin, vol. IV, p. 97
 of inclination towards Materialism), under the chapter: Naresa iha ye
 mafahi me falsafiI (The inadequacies of [Western] Philosophical Ideas)
 
-

@@ -104,7 +104,6 @@ said to me, "O abu Muhammad, "No one's language is unknown to the Imam
 would not have these qualities he is not A number of our people has
 narrated from Imam."
 
-
 **Chapter 63 : Proof that Imamat (leadership with Divine Authority)
 Continues in the Descendents of the Preceding Imam but not through his
 Brother or Paternal Uncle or other such Relatives H 752, Ch. 63, h 1**
@@ -164,5 +163,4 @@ something will happen to Musa (a.s.) who then must I follow?" The Imam
 would leave behind an elder brother or a small son then who must I
 follow?" The Imam (a.s.) said, "Follow his son and so on one after the
 other." In the script of Sawan it says, ". . .and so on forever."
-
 

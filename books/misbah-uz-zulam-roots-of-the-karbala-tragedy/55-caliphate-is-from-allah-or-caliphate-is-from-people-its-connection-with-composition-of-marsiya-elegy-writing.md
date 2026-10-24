@@ -85,4 +85,3 @@ Prophet (S).
 
 [^1]: A very famous Urdu poet of India.
 
-

@@ -181,4 +181,3 @@ on the margin of Al-Tabari's Commentaries Part 2 pp. 192-193.
 [^5]: Almuttaqi Al-Hindi, Kanzul-Ummal, Part 15 (virtues of ‘Ali), p.
 125 (hadith No. 361)
 
-

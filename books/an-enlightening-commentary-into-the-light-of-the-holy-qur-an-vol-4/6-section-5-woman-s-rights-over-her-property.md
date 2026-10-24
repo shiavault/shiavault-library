@@ -7,12 +7,8 @@ Surah An-Nisa', Verse 26
 Respect of rights of property and life -Woman has as much right over her
 property as man -Similarly in the matter of inheritance.
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ اللّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذِينَ مِن
-قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ وَاللّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> يُرِيدُ اللّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذِينَ مِن
+> قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ وَاللّهُ عَلِيمٌ حَكِيمٌ
 
 **26.** ***"Allah desires to make clear (the way of felicity ) to you,
 and to guide you in the ways of those before you, and to turn to you
@@ -55,12 +51,8 @@ legislated them through His Own Wisdom for you.
 Surah An-Nisa', Verse 27
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ الَّذِينَ
-يَتَّبِعُونَ الشَّهَوَاتِ أَن تَمِيلُواْ مَيْلاً عَظِيمًا
-  </p>
-</blockquote>
+> وَاللّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ الَّذِينَ
+> يَتَّبِعُونَ الشَّهَوَاتِ أَن تَمِيلُواْ مَيْلاً عَظِيمًا
 
 **27.** ***"And Allah desires that He should turn to you (mercifully),
 but those who follow their lusts desire that you should deviate (with) a
@@ -99,11 +91,7 @@ for they are your enemies.
 Surah An-Nisa', Verse 28
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ اللّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ الإِنسَانُ ضَعِيفًا
-  </p>
-</blockquote>
+> يُرِيدُ اللّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ الإِنسَانُ ضَعِيفًا
 
 **28***.* ***"Allah desires that He should make light your burden, and
 man has been created weak."***
@@ -130,14 +118,10 @@ capability.
 Surah An-Nisa', Verse 29
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ أَمْوَالَكُمْ
-بَيْنَكُمْ بِالْبَاطِلِ إِلاَّ أَن تَكُونَ تِجَارَةً عَن تَرَاضٍ
-مِّنكُمْ وَلاَ تَقْتُلُواْ أَنفُسَكُمْ إِنَّ اللّهَ كَانَ بِكُمْ
-رَحِيمًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ أَمْوَالَكُمْ
+> بَيْنَكُمْ بِالْبَاطِلِ إِلاَّ أَن تَكُونَ تِجَارَةً عَن تَرَاضٍ
+> مِّنكُمْ وَلاَ تَقْتُلُواْ أَنفُسَكُمْ إِنَّ اللّهَ كَانَ بِكُمْ
+> رَحِيمًا
 
 **29.** ***"O' you who have Faith! Do not devour each other's property
 among yourselves in vanity, except that it be a trade by your mutual
@@ -186,12 +170,8 @@ murdering others is 'unlawful'.
 Surah An-Nisa', Verse 30
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَفْعَلْ ذَلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا
-وَكَانَ ذَلِكَ عَلَى اللّهِ يَسِيرًا
-  </p>
-</blockquote>
+> وَمَن يَفْعَلْ ذَلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا
+> وَكَانَ ذَلِكَ عَلَى اللّهِ يَسِيرًا
 
 **30.** ***"And whoever does this aggressively and unjustly, We will
 soon cast him into fire; and this is easy for Allah."***
@@ -208,12 +188,8 @@ him into fire; and this is easy for Allah."***
 Surah An-Nisa', Verse 31
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ
-سَيِّئَاتِكُمْ وَنُدْخِلْكُم مُّدْخَلاً كَرِيمًا
-  </p>
-</blockquote>
+> إِن تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ
+> سَيِّئَاتِكُمْ وَنُدْخِلْكُم مُّدْخَلاً كَرِيمًا
 
 **31.** ***"If you avoid the great sins which you are forbidden, We
 remit from you your small sins and We cause you to enter an honourable
@@ -323,14 +299,10 @@ sins which are listed in the following:
 Surah An-Nisa', Verse 32
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَتَمَنَّوْاْ مَا فَضَّلَ اللّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ
-لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُواْ وَلِلنِّسَاء نَصِيبٌ مِّمَّا
-اكْتَسَبْنَ وَاسْأَلُواْ اللّهَ مِن فَضْلِهِ إِنَّ اللّهَ كَانَ
-بِكُلِّ شَيْءٍ عَلِيمًا
-  </p>
-</blockquote>
+> وَلاَ تَتَمَنَّوْاْ مَا فَضَّلَ اللّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ
+> لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُواْ وَلِلنِّسَاء نَصِيبٌ مِّمَّا
+> اكْتَسَبْنَ وَاسْأَلُواْ اللّهَ مِن فَضْلِهِ إِنَّ اللّهَ كَانَ
+> بِكُلِّ شَيْءٍ عَلِيمًا
 
 **32.** ***"And do not covet that by Which Allah has made some of you
 excel others. Men shall have a benefit of what they earn and women shall
@@ -400,13 +372,9 @@ and constructive.
 Surah An-Nisa', Verse 33
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ
-وَالأَقْرَبُونَ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ
-نَصِيبَهُمْ إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ شَهِيدًا
-  </p>
-</blockquote>
+> وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ
+> وَالأَقْرَبُونَ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ
+> نَصِيبَهُمْ إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ شَهِيدًا
 
 **33.** ***"And for everyone We have placed heirs (to inherit) of what
 parents and near relatives leave, and as for those with whom your right
@@ -454,5 +422,4 @@ one under some conditions.
 6. Allah is always present and witnesses the deeds.
 
 ***"... Verily Allah is ever witness over all things."***
-
 

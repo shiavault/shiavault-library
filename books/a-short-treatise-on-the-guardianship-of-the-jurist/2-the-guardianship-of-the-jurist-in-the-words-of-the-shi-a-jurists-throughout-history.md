@@ -296,4 +296,3 @@ of their rule is known as ‘the Renaissance of Islam
 [^18]: Any affair in the Muslim community for which there is no specific
 guardian. On all such issues a just jurist is the guardian
 
-

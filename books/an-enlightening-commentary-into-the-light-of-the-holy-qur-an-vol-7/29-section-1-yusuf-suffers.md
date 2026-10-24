@@ -4,17 +4,9 @@ Section 1: Yusuf Suffers
 Surah Yusuf - Verse 1
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الر تِلْكَ ءَايَاتُ الْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> الر تِلْكَ ءَايَاتُ الْكِتَابِ الْمُبِينِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -52,11 +44,7 @@ Al-Baqarah, and to the detailed narrations discussed under them.
 Surah Yusuf - Verse 2
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ
 
 ***2. “Verily We have sent it down - an Arabic Qur’an - that you may
 understand. ”***
@@ -98,12 +86,8 @@ understanding the holy Qur’an and Islamic knowledge.
 Surah Yusuf - Verse 3
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ
-هَذَا الْقُرْءَانَ وَإِن كُنْتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ
-  </p>
-</blockquote>
+> نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ
+> هَذَا الْقُرْءَانَ وَإِن كُنْتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ
 
 ***3. “We relate unto you the best of stories, by that We have revealed
 to you this Qur’an; though before this, you were of those who did it not
@@ -210,12 +194,8 @@ Or, similar to the verse which says:
 Surah Yusuf - Verse 4
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ يُوسُفُ لأَبِيهِ يَآ أبَتِ إنّي رَأَيْتُ أَحَدَ عَشَرَ
-كَوْكَباً وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ
-  </p>
-</blockquote>
+> إِذْ قَالَ يُوسُفُ لأَبِيهِ يَآ أبَتِ إنّي رَأَيْتُ أَحَدَ عَشَرَ
+> كَوْكَباً وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ
 
 ***4. “When, Yusuf said to his father: ‘O my father! Verily I did see
 (dreamt) eleven stars and the sun and the moon: I saw them prostrating
@@ -386,12 +366,8 @@ dream is considered the first highlight of his adventurous life.
 Surah Yusuf - Verse 5
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَابُنَيَّ لاَ تَقْصُصْ رُؤْيَاكَ عَلَي إِخْوَتِكَ فَيَكِيدُوا
-لَكَ كَيْداً إِنَّ الشَّيْطَانَ لِلإِنسَانِ عَدُوٌّ مُبِينٌ
-  </p>
-</blockquote>
+> قَالَ يَابُنَيَّ لاَ تَقْصُصْ رُؤْيَاكَ عَلَي إِخْوَتِكَ فَيَكِيدُوا
+> لَكَ كَيْداً إِنَّ الشَّيْطَانَ لِلإِنسَانِ عَدُوٌّ مُبِينٌ
 
 ***5. “He (Jacob) said: ‘O my (little) son! Do not relate your vision to
 your brothers, lest they devise a plot against you: for Satan is to man
@@ -457,14 +433,10 @@ towards Yusuf.
 Surah Yusuf - Verse 6
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ يَجْتَبيكَ رَبُّكَ وَيُعَلّمُكَ مِن تَأْوِيلِ الاَحَادِيثِ
-وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَي ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا
-عَلَي أَبَوَيْكَ مِن قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ إِنَّ رَبَّكَ
-عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَكَذَلِكَ يَجْتَبيكَ رَبُّكَ وَيُعَلّمُكَ مِن تَأْوِيلِ الاَحَادِيثِ
+> وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَي ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا
+> عَلَي أَبَوَيْكَ مِن قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ إِنَّ رَبَّكَ
+> عَلِيمٌ حَكِيمٌ
 
 ***6. “And thus will your Lord choose you and teach you the
 interpretation of sayings (dreams), and perfect His favor to you and to
@@ -524,5 +496,4 @@ within your own veins.”*
 [^7]: Surah Taha, No. 20, verse 38, 39
 
 [^8]: mentioned in Surah As-Safat, No. 37, verse 102.
-
 

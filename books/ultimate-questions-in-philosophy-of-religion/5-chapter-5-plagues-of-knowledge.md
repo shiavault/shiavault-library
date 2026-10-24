@@ -279,4 +279,3 @@ example of such justification is how a Christian believes that people
 are absolved from all sins if they merely believe in Jesus Christ. This
 false doctrine would justify committing sin as they will be absolved.
 
-

@@ -121,4 +121,3 @@ O people! I am a prophet and Ali is the executor of my (will).
 1 cf. Chapter 67, Verse 12 of the Holy Quran.
 2 cf. Chapter 13, Verse 7 of the Holy Quran.
 
-

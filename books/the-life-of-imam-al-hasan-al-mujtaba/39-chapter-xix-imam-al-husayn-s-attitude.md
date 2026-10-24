@@ -355,4 +355,3 @@ the Umayyad state. He put an end to it and to all the oppressive
 dictators. He gave creative lessons to all the reformers who want to
 revolt against oppression, tyranny, and selfishness.
 
-

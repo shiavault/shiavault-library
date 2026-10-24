@@ -1,11 +1,7 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the name of God the Most Gracious, the Dispenser of Grace***
 
@@ -124,5 +120,4 @@ the work of which has already started.
 chapters of this book titled “The Collection and Preservation of the
 Holy Qur’an” published by Madrasa as-Seyed al-Khui, Stanmore, Middlesex,
 U.K. and available on line at: http://al-islam.org/tahrif\_Qur’an /
-
 

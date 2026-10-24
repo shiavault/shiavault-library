@@ -4,12 +4,8 @@ Section 3: Similitude of Moses’ Missions
 Surah As-Sajdah – Verse 23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ فَلاَ تَكُن فِي مِرْيَةٍ مِن
-لّـِقَآئِهِ وَجَعَلْنَاهُ هُدًي لِبَنِي إِسْرَآئِيلَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ فَلاَ تَكُن فِي مِرْيَةٍ مِن
+> لّـِقَآئِهِ وَجَعَلْنَاهُ هُدًي لِبَنِي إِسْرَآئِيلَ
 
 ***23. “And certainly We gave the Book (Torah) to Moses, so be not in
 doubt of his receiving it and We appointed it guidance for the Children
@@ -116,12 +112,8 @@ usually for emphasis upon the subject and also a lesson for others.
 Surah As-Sajdah – Verse 24
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
-وَكَانُوا بِاَيَاتِنَا يُوقِنُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
+> وَكَانُوا بِاَيَاتِنَا يُوقِنُونَ
 
 ***24. “And We appointed from among them leaders who guided (people) by
 Our command, when they endured patiently, and they were quite certain of
@@ -333,12 +325,8 @@ of Hereafter.”*[^12]
 Surah As-Sajdah – Verse 25
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا
-كَانُوا فِيهِ يَخْتَلِفونَ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا
+> كَانُوا فِيهِ يَخْتَلِفونَ
 
 ***25. “Verily your Lord will judge between them on the Day of
 Resurrection concerning that wherein they used to differ.”***
@@ -365,13 +353,9 @@ dissensions. And this is one of other philosophies of Resurrection.
 Surah As-Sajdah – Verse 26
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِنَ الْقُرُونِ
-يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لاَيَاتٍ أَفَلاَ
-يَسْمَعُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِنَ الْقُرُونِ
+> يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لاَيَاتٍ أَفَلاَ
+> يَسْمَعُونَ
 
 ***26. “Does it not point out to them the right way, how many of the
 generations, in whose abodes they go about, did We destroy before them?
@@ -412,13 +396,9 @@ saying:
 Surah As-Sajdah – Verse 27
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَآءَ إِلَي الأَرْضِ الْجُرُزِ
-فَنُخْرِجُ بِهِ زَرْعاً تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنفُسُهُمْ
-أَفَلاَ يُبْصِرُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَآءَ إِلَي الأَرْضِ الْجُرُزِ
+> فَنُخْرِجُ بِهِ زَرْعاً تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنفُسُهُمْ
+> أَفَلاَ يُبْصِرُونَ
 
 ***27. “Have they not seen that We drive the water to the parched land
 and We bring forth thereby crops of which their cattle and themselves
@@ -507,24 +487,12 @@ cultivated and green. Do they not yet submit to such a Power?
 Surah As-Sajdah – Verses 28-30
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَي هَذَا الْفَتْحُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَي هَذَا الْفَتْحُ إِن كُنتُمْ صَادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَوْمَ الْفَتْحِ لاَ يَنفَعُ الَّذِينَ كَفَرُوا إِيمَانُهُمْ
-وَلاَ هُمْ يُنظَرُونَ
-  </p>
-</blockquote>
+> قُلْ يَوْمَ الْفَتْحِ لاَ يَنفَعُ الَّذِينَ كَفَرُوا إِيمَانُهُمْ
+> وَلاَ هُمْ يُنظَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَعْرِضْ عَنْهُمْ وَانتَظِرْ إِنَّهُم مُنتَظِرُونَ
-  </p>
-</blockquote>
+> فَاَعْرِضْ عَنْهُمْ وَانتَظِرْ إِنَّهُم مُنتَظِرُونَ
 
 ***28. “And they ask: ‘When shall be this Victory, if you are
 truthful?’”***  
@@ -612,5 +580,4 @@ of disbelief as soon as possible.*
 
 [^12]: ’Usul-i-Kafi, Vol. 2, P. 72 (old edition), and Vol. 4, PP.
 268-270 (New edition with Persian translation)
-
 

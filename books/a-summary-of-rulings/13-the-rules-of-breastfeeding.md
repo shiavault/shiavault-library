@@ -146,4 +146,3 @@ precaution is that (the child) not marry with woman who become a close
 relative to him by reason of breast feeding and that he also not look at
 them with the view (allowed for one) close for (another) close relative.
 
-

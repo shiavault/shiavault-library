@@ -72,4 +72,3 @@ oath, 5) hunting while still wearing the *ihram*, 6) in the case of
 to me like the back of my mother!" Striking such a similitude is called
 zihar.
 
-

@@ -32,4 +32,3 @@ three volumes with extensive introduction and appendixes by ash-Shaykh
 Muhammad Baqir al-Ansari az-Zanjani al-Khu 'i'ni, vol. 2 (Qum, 1415
 A.H.) p. 958; see also vol. I, p. 1173.
 
-

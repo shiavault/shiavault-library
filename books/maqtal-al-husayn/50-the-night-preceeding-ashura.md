@@ -360,4 +360,3 @@ as-Sadiq (‘a) is quoted.
 Kashif al-Ghiťa’, may Allah sanctify him, is recorded on p. 62 of
 Al-Maqula al-Husayniyya.
 
-

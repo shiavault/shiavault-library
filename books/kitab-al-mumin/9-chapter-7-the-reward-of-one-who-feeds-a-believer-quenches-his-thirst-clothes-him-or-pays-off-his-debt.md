@@ -4,37 +4,25 @@ Chapter 7: The Reward of one who Feeds a Believer, Quenches his Thirst, Clothes 
 > 7 - باب ثواب من أطعم مؤمنا أو سقاه أو كساه أو قضى دينه
 
 > 159 - عن أبي جعفر (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- شَبعُ أربعةٍ من المسلمين يعدِلُ فكَّ رقبةٍ من وُلدِ إسماعيل (ع)
-  </p>
-</blockquote>
+>  شَبعُ أربعةٍ من المسلمين يعدِلُ فكَّ رقبةٍ من وُلدِ إسماعيل (ع)
 
 159. It has been narrated that Abu Ja'far [a.s] said:  
  Feeding four Muslims is equal to freeing a slave from the descendants
 of Prophet Ishmael.[^1]
 
 > 160 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- ما مِن مؤمنٍ يُدخل بيتَه مؤمنَين يُطعمُهُما ويُشبعُهما إلاّ كان ذلك
-أفضلَ من عِتقِ نَسمةٍ.
-  </p>
-</blockquote>
+>  ما مِن مؤمنٍ يُدخل بيتَه مؤمنَين يُطعمُهُما ويُشبعُهما إلاّ كان ذلك
+> أفضلَ من عِتقِ نَسمةٍ.
 
 160. It has been narrated that Abu 'Abd Allah [a.s] said:  
  If two believers were to enter the house of a believer and he were to
 feed them to full, this would be better than freeing a slave.”[^2]
 
 > 161 - وعن علي بن الحسين (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن أطعم مؤمناً مِن جوعٍ أطعمه اللهُ (جلّ جلاله) من ثمارِ الجنةِ،
-ومَن سقى مؤمناً مِن ظمأٍ سقاهُ اللهُ يوم القيامة من الرّحيق المختومِ،
-ومَن كَسى مؤمناً مِن العُريِّ كساه اللهُ (جلّ جلاله) مِن الثّياب
-الخُضر.
-  </p>
-</blockquote>
+>  مَن أطعم مؤمناً مِن جوعٍ أطعمه اللهُ (جلّ جلاله) من ثمارِ الجنةِ،
+> ومَن سقى مؤمناً مِن ظمأٍ سقاهُ اللهُ يوم القيامة من الرّحيق المختومِ،
+> ومَن كَسى مؤمناً مِن العُريِّ كساه اللهُ (جلّ جلاله) مِن الثّياب
+> الخُضر.
 
 161. It has been reported that 'Ali ibn Al-Husayn [a.s] said:  
  Whoever feeds a hungry believer, Allah will feed him with the fruits of
@@ -43,25 +31,17 @@ quench his thirst (on the Day of Judgment) with an exquisite drink of
 Paradise; and whoever clothes a believer, Allah will clothe him with a
 green robe of Paradise.
 
-<blockquote dir="rtl">
-  <p>
-وفي حديث آخر قال  
- مَن كسا مؤمناً مِن عُريٍّ لم يزَلْ في ضمانِ الله ما دامَ عليه سلك.
-  </p>
-</blockquote>
+> وفي حديث آخر قال
+>  مَن كسا مؤمناً مِن عُريٍّ لم يزَلْ في ضمانِ الله ما دامَ عليه سلك.
 
 According to another tradition, the Imam said:  
  Whoever clothes a believer will remain under the security of Allah as
 long as a thread of the cloth remains.[^3]
 
 > 162 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن أطعمَ مؤمناً مِن جوعٍ أطعمَه اللهُ مِن ثمارِ الجنةِ، وأيّما مؤمن
-سقى مؤمناً سقاه الله مِن الرحيق المختومِ، وأيّما مؤمن كسا مؤمناً مِن
-عُريٍّ لم يزلْ في سترِ الله وحِفظِه ما بقِيتْ منه خُرقةٌ.
-  </p>
-</blockquote>
+>  مَن أطعمَ مؤمناً مِن جوعٍ أطعمَه اللهُ مِن ثمارِ الجنةِ، وأيّما مؤمن
+> سقى مؤمناً سقاه الله مِن الرحيق المختومِ، وأيّما مؤمن كسا مؤمناً مِن
+> عُريٍّ لم يزلْ في سترِ الله وحِفظِه ما بقِيتْ منه خُرقةٌ.
 
 162. It has been reported that Abu 'Abd Allah [a.s] said:  
  Whoever feeds a hungry believer, Allah will feed him with the fruits of
@@ -71,15 +51,11 @@ any believer who clothes another believer will remains under the guard
 and protection of Allah as long as a shred of it remains.[^4]
 
 > 163 - وعن أبي عبد الله (ع) قال لبعض أصحابه  
-<blockquote dir="rtl">
-  <p>
- يا ثابت، أما تستطيعُ أن تعتقَ كلَّ يوم رقبةً؟  
- قال: أصلحك الله، ما أقوى على ذلك، قال  
- أما تقدرُ أن تغدّي أو تُعشّيَ أربعةً من المسلمين؟  
- قلت: أما هذا فاني أقوي عليه، قال  
- هو واللهِ يعدلُ عِتقَ رقبةٍ.
-  </p>
-</blockquote>
+>  يا ثابت، أما تستطيعُ أن تعتقَ كلَّ يوم رقبةً؟
+>  قال: أصلحك الله، ما أقوى على ذلك، قال
+>  أما تقدرُ أن تغدّي أو تُعشّيَ أربعةً من المسلمين؟
+>  قلت: أما هذا فاني أقوي عليه، قال
+>  هو واللهِ يعدلُ عِتقَ رقبةٍ.
 
 163. It has been reported that Abu 'Abd Allah [a.s] once said to one of
 his companions, “O Thabit! Can you not free a slave every day?' 'May
@@ -92,13 +68,9 @@ companion.
 slave.'[^5]
 
 > 164 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن كسا مؤمناً ثوباً لم يزلْ في رحمةِ الله (جلّ جلاله) ما بقيَ مِن
-الثّوب شئٌ، ومَن سقاه شربةً من ماءٍ سقاه اللهُ (جلّ جلاله) مِن رحيقٍ
-مختومٍ، ومَن أشبعَ جُوعتَه أطعمهُ اللهُ (جلّ جلاله) من ثمارِ الجنّة.
-  </p>
-</blockquote>
+>  مَن كسا مؤمناً ثوباً لم يزلْ في رحمةِ الله (جلّ جلاله) ما بقيَ مِن
+> الثّوب شئٌ، ومَن سقاه شربةً من ماءٍ سقاه اللهُ (جلّ جلاله) مِن رحيقٍ
+> مختومٍ، ومَن أشبعَ جُوعتَه أطعمهُ اللهُ (جلّ جلاله) من ثمارِ الجنّة.
 
 164. It has been narrated that Abu 'Abd Allah [a.s] said:  
  Whoever clothes a believer will remain in the mercy of Allah [M.G] as
@@ -108,13 +80,9 @@ Paradise); and one who satiates his hunger, Allah will feed him with the
 fruits of Paradise.[^6]
 
 > 165 - وعن أمير المؤمنين علي (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- لأَنْ أُطعِمَ أخاك لُقمةً أحَبُّ إليَّ مِن أنْ أتصدَّقَ بدرهمٍ، ولأنْ
-أُعطيَه درهماً أحَبُّ إليَّ مِن أنْ أتصدَّقَ بعَشَرةٍ، ولأَنْ أُعطيَه
-عَشرةً أحَبُّ إليَّ مِن أنْ أعتقَ رقَبةً.
-  </p>
-</blockquote>
+>  لأَنْ أُطعِمَ أخاك لُقمةً أحَبُّ إليَّ مِن أنْ أتصدَّقَ بدرهمٍ، ولأنْ
+> أُعطيَه درهماً أحَبُّ إليَّ مِن أنْ أتصدَّقَ بعَشَرةٍ، ولأَنْ أُعطيَه
+> عَشرةً أحَبُّ إليَّ مِن أنْ أعتقَ رقَبةً.
 
 165. It has been narrated that Amir al-Mu'minin [a.s] said:  
  Feeding your brother a mouthful is more loveable to me than giving a
@@ -123,14 +91,10 @@ giving ten in charity; and giving him ten Dirhams is more loveable to me
 than freeing a slave.[^7]
 
 > 166 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- ما مِن مؤمنٍ يُطعمُ مؤمناً شبعاً إلاّ أطعمَهُ اللهُ (جلّ جلاله) مِن
-ثمار الجنّة، ولا سقاه شَربةً إلاّ سقاه اللهُ من الرّحيقِ المختوم، ولا
-كساهُ ثَوباً إلاّ كساه اللهُ (جلّ جلاله) مِن الثيابِ الخُضرِ وكان في
-ضَمانِ الله تعالى ما دام مِن ذلك الثّوبِ سلكٌ.
-  </p>
-</blockquote>
+>  ما مِن مؤمنٍ يُطعمُ مؤمناً شبعاً إلاّ أطعمَهُ اللهُ (جلّ جلاله) مِن
+> ثمار الجنّة، ولا سقاه شَربةً إلاّ سقاه اللهُ من الرّحيقِ المختوم، ولا
+> كساهُ ثَوباً إلاّ كساه اللهُ (جلّ جلاله) مِن الثيابِ الخُضرِ وكان في
+> ضَمانِ الله تعالى ما دام مِن ذلك الثّوبِ سلكٌ.
 
 166. It has been reported that Abu 'Abd Allah [a.s] said:  
  If any believer feeds another believer to full, Allah will feed him
@@ -141,12 +105,8 @@ he will remain under the protection of Allah as long as a thread of that
 cloth remains.[^8]
 
 > 167 - وعن أبي جعفر (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مِن أحَبِّ الخِصال إلى الله (جلّ جلاله) ثلاثةٌ: مُسلمٌ أطعمَ مسلماً
-مِن جوعٍ أو فكَّ عنه كُربةً أو قَضى عنه دَيناً.
-  </p>
-</blockquote>
+>  مِن أحَبِّ الخِصال إلى الله (جلّ جلاله) ثلاثةٌ: مُسلمٌ أطعمَ مسلماً
+> مِن جوعٍ أو فكَّ عنه كُربةً أو قَضى عنه دَيناً.
 
 167. It has been narrated that Abu Ja'far [a.s] said:  
  (Amongst) the qualities most loved by Allah are three: a Muslim who
@@ -154,27 +114,19 @@ feeds a hungry Muslim, relieves him from a distress or settle his debt
 for him.[^9]
 
 > 168 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- أوّلُ ما يُتحَفُ به المؤمنُ في قبرهِ أنَّهُ يُغفرُ لمَن تبِعَ
-جنازتَهُ.
-  </p>
-</blockquote>
+>  أوّلُ ما يُتحَفُ به المؤمنُ في قبرهِ أنَّهُ يُغفرُ لمَن تبِعَ
+> جنازتَهُ.
 
 168. It has been reported that Abu 'Abd Allah [a.s] said:  
  The first gift that a believer is presented with in his grave is the
 forgiveness for those who accompanied his bier.[^10]
 
 > 169 - وعن سدير قال: قال أبو عبد الله (ع)  
-<blockquote dir="rtl">
-  <p>
- ما يمنعُك أن تعتقَ كلَّ يوم نسَمة؟  
- قلت: لا يحتمل ذلك مالي. قال، فقال  
- تُطعمُ كلَّ يوم رجُلاً مسلماً.  
- فقلت: موسرا أو معسرا؟ قال  
- إنّ الموسِرَ قد يشتهي الطعامَ.
-  </p>
-</blockquote>
+>  ما يمنعُك أن تعتقَ كلَّ يوم نسَمة؟
+>  قلت: لا يحتمل ذلك مالي. قال، فقال
+>  تُطعمُ كلَّ يوم رجُلاً مسلماً.
+>  فقلت: موسرا أو معسرا؟ قال
+>  إنّ الموسِرَ قد يشتهي الطعامَ.
 
 169. Sudayr reported: Abu 'Abd Allah [a.s] once asked me, 'What stops
 you from freeing a slave every day?' 'My financial status will not allow
@@ -187,11 +139,7 @@ asked.
 replied.[^11]
 
 > 170 - وعن أبي جعفر (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- إطعامُ مسلمٍ يعدِلُ عِتقَ نسَمة.
-  </p>
-</blockquote>
+>  إطعامُ مسلمٍ يعدِلُ عِتقَ نسَمة.
 
 170. It has been narrated that Abu Ja'far [a.s] said:  
  Feeding a Muslim is equal to freeing a human being.[^12]
@@ -255,5 +203,4 @@ al-Mahasin 16/443 h.28 and al-Kulayni: al-Kafi].
 75/460 h.11 and al-Hurr al-\`Amili: Wasa\`il al-Shi\`ah 16/442 h.21,
 16/443 h.30 [as quoted from al-Barqi: al-Mahasin 2/391 h.33 and 2/395
 h.56].
-
 

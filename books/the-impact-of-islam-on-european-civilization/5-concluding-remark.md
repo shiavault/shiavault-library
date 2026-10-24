@@ -14,4 +14,3 @@ Roman heritage. So, today an important task for us western Europeans, as
 we move into the era of the one world, is to correct this false emphasis
 and to acknowledge fully our debt to the Arab and Islamic world.”
 
-

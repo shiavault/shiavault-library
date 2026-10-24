@@ -783,4 +783,3 @@ theories.
 
 [^7]: Safinatu 'l-Bihar, vol.2, p.603.
 
-

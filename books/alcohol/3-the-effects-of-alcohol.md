@@ -449,4 +449,3 @@ fatal to the untreated guinea pig, but these offspring's of poisoned
 parents are invariably dwarfed and possession of a vitality less
 resistant to other assaults "
 
-

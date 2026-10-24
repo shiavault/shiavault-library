@@ -1,20 +1,12 @@
 The Twenty Fifth Talk
 =====================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***He said: ‘Then by Thy Might I will surely make them live an evil
 life, all, Except Thy servants from among them, the purified ones.’***
@@ -29,11 +21,7 @@ mountains. If they are not performed with sincerity of purpose, their
 weight will be no more than a piece of straw. Prayer without sincerity
 too is not of any value because Allah (S.w.T.) says,
 
-<blockquote dir="rtl">
-  <p>
-فَاعْبُدِ اللَّهَ مُخْلِصًا لَّهُ الدِّينَ
-  </p>
-</blockquote>
+> فَاعْبُدِ اللَّهَ مُخْلِصًا لَّهُ الدِّينَ
 
 ***so worship Allah, offering Him sincere devotion (Sura az-Zumar,
 39:2)***
@@ -242,5 +230,4 @@ doing things *Qurbatan ilallah.*, but in fact Satan is deceiving him.
 
 O Allah! Save us from the machinations of *Iblis* and also from the
 desires of the psyche.
-
 

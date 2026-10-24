@@ -12,7 +12,6 @@ apparently seems to do. The burning hours of age are like a candle
 dropping its melted tears. What burns of it, warns of the approach of
 its end till it reaches the moment at which it emits its last breath.
 
-
 **What is Age?**
 
 Age looks like a temporal vessel, containing the days of our life. Its
@@ -20,7 +19,6 @@ quality and the way it is filled is in our hands, not in the hands of
 others. People differ; some fill it up with honey, others fill it with
 poison, still others mix these together while yet others, leave it
 empty.
-
 
 **Is it Possible to Leave the Vessel of Life Empty?**
 
@@ -38,7 +36,6 @@ that caused long and permanent sorrows and regrets? Or did they mix a
 good deed with an evil deed and in their actions, were they among the
 losers, like a businessman who spends all his life in trading and at the
 end, finds himself bankrupt?!
-
 
 **The Importance of Time:**
 
@@ -128,7 +125,6 @@ examination will certainly come: What is your age and how did you spend
 it, and what was your youth and how did you wear it out? The question
 remains to be answered by each of us.
 
-
 **Wasted Time and Useful Time:**
 
 If we look at the amount of time we spend uselessly and try to make a
@@ -162,7 +158,6 @@ for buses while casting their naive looks here and there.
 - Others who stay up at night may play cards, or chess, or sit before
 computers for unlimited periods or use the Internet to the extent of
 addiction without caring for the time which they waste in this regard.
-
 
 **Is Play Forbidden? Who says this?**
 
@@ -213,5 +208,4 @@ saying of the poet:
 "The beating of man's heart tells him that life is but minutes and
 moments, therefore, keep these memories for yourself after your death.
 Surely, memories, for man, are but the lifetime of a moment."
-
 

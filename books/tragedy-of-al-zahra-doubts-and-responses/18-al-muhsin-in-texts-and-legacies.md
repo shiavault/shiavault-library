@@ -1333,4 +1333,3 @@ from p. 312, Vol. 1 of al-Nisa’i’s Sunan and other references.
 [^160]: Al-Tanbih wal Radd \`ala Ahl al-Ahwa’ wal Bida\`, pp. 25-26,
 edited by Muhammed Zahid al-Kawthari.
 
-

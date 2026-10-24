@@ -8,15 +8,11 @@ the people were seized by a severe punishment.
 Surah Al-‘A’raf, Verse 73
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَا قَوْمِ اعْبُدُواْ اللّهَ
-مَا لَكُم مِّنْ إِلَـهٍ غَيْرُهُ قَدْ جَاءتْكُم بَيِّنَةٌ مِّن
-رَّبِّكُمْ هَـذِهِ نَاقَةُ اللّهِ لَكُمْ آيَةً فَذَرُوهَا تَأْكُلْ فِي
-أَرْضِ اللّهِ وَلاَ تَمَسُّوهَا بِسُوَءٍ فَيَأْخُذَكُمْ عَذَابٌ
-أَلِيمٌ
-  </p>
-</blockquote>
+> وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَا قَوْمِ اعْبُدُواْ اللّهَ
+> مَا لَكُم مِّنْ إِلَـهٍ غَيْرُهُ قَدْ جَاءتْكُم بَيِّنَةٌ مِّن
+> رَّبِّكُمْ هَـذِهِ نَاقَةُ اللّهِ لَكُمْ آيَةً فَذَرُوهَا تَأْكُلْ فِي
+> أَرْضِ اللّهِ وَلاَ تَمَسُّوهَا بِسُوَءٍ فَيَأْخُذَكُمْ عَذَابٌ
+> أَلِيمٌ
 
 **73.** ***"And unto (the people of) Thamud (We sent) their brother
 Salih. He said: ' O' my people! Serve*** ***Allah. You have no god other
@@ -90,14 +86,10 @@ that a satellite comes out from the mountain.)
 Surah Al-‘A’raf, Verse 74
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُواْ إِذْ جَعَلَكُمْ خُلَفَاء مِن بَعْدِ عَادٍ وَبَوَّأَكُمْ
-فِي الأَرْضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ
-الْجِبَالَ بُيُوتًا فَاذْكُرُواْ آلاء اللّهِ وَلاَ تَعْثَوْا فِي
-الأَرْضِ مُفْسِدِينَ
-  </p>
-</blockquote>
+> وَاذْكُرُواْ إِذْ جَعَلَكُمْ خُلَفَاء مِن بَعْدِ عَادٍ وَبَوَّأَكُمْ
+> فِي الأَرْضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ
+> الْجِبَالَ بُيُوتًا فَاذْكُرُواْ آلاء اللّهِ وَلاَ تَعْثَوْا فِي
+> الأَرْضِ مُفْسِدِينَ
 
 **74.** ***"And remember when He appointed you successors after 'Ad and
 settled you in the earth, you build castles on its plains and hew the
@@ -134,21 +126,13 @@ the earth, doing corruption."***
 Surah Al-‘A’raf, Verses 75 - 76
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الْمَلأُ الَّذِينَ اسْتَكْبَرُواْ مِن قَوْمِهِ لِلَّذِينَ
-اسْتُضْعِفُواْ لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا
-مُّرْسَلٌ مِّن رَّبِّهِ قَالُواْ إِنَّا بِمَا أُرْسِلَ بِهِ
-مُؤْمِنُونَ
-  </p>
-</blockquote>
+> قَالَ الْمَلأُ الَّذِينَ اسْتَكْبَرُواْ مِن قَوْمِهِ لِلَّذِينَ
+> اسْتُضْعِفُواْ لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا
+> مُّرْسَلٌ مِّن رَّبِّهِ قَالُواْ إِنَّا بِمَا أُرْسِلَ بِهِ
+> مُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ اسْتَكْبَرُواْ إِنَّا بِالَّذِيَ آمَنتُمْ بِهِ
-كَافِرُونَ
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ اسْتَكْبَرُواْ إِنَّا بِالَّذِيَ آمَنتُمْ بِهِ
+> كَافِرُونَ
 
 **75.** ***"The chiefs of the arrogant among his people said to those
 who were considered weak -those of them who believed - 'Do you know that
@@ -190,12 +174,8 @@ you believe'."***
 Surah Al-‘A’raf, Verse 77
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَعَقَرُواْ النَّاقَةَ وَعَتَوْاْ عَنْ أَمْرِ رَبِّهِمْ وَقَالُواْ يَا
-صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِن كُنتَ مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> فَعَقَرُواْ النَّاقَةَ وَعَتَوْاْ عَنْ أَمْرِ رَبِّهِمْ وَقَالُواْ يَا
+> صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِن كُنتَ مِنَ الْمُرْسَلِينَ
 
 **77.** ***"So they hamstrung the She-camel and revolted against their
 Lord's commandment, and they said: ' O' Salih! bring us that you promise
@@ -227,11 +207,7 @@ weaken the spirit of both -Salih and the believers.
 Surah Al-‘A’raf, Verse 78
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُواْ فِي دَارِهِمْ جَاثِمِينَ
-  </p>
-</blockquote>
+> فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُواْ فِي دَارِهِمْ جَاثِمِينَ
 
 **78.** ***"Then the earthquake seized them, so they became motionless
 bodies in their dwellings."***
@@ -274,12 +250,8 @@ are the punishment of Allah*.*
 Surah Al-‘A’raf, Verse 79
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ
-رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِن لاَّ تُحِبُّونَ
-  </p>
-</blockquote>
+> فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ
+> رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِن لاَّ تُحِبُّونَ
 
 **79.** ***"Then he turned away from them and said: ' O' my people!
 verily I have delivered to you the Message of my Lord, and advised you
@@ -316,19 +288,11 @@ himself.
 Surah Al-‘A’raf, Verses 80 - 81
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلُوطًا إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم
-بِهَا مِنْ أَحَدٍ مِّن الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَلُوطًا إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم
+> بِهَا مِنْ أَحَدٍ مِّن الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاء بَلْ
-أَنتُمْ قَوْمٌ مُّسْرِفُونَ
-  </p>
-</blockquote>
+> إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاء بَلْ
+> أَنتُمْ قَوْمٌ مُّسْرِفُونَ
 
 **80.** ***"And (We sent) Lut when he said to his people: 'What! Do you
 commit an indecency which none in the world has ever done before you?
@@ -389,12 +353,8 @@ extravagant people."***
 Surah Al-‘A’raf, Verse 82
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ جَوَابَ قَوْمِهِ إِلاَّ أَن قَالُواْ أَخْرِجُوهُم مِّن
-قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ جَوَابَ قَوْمِهِ إِلاَّ أَن قَالُواْ أَخْرِجُوهُم مِّن
+> قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
 
 **82.** ***"And the answer of his people was no other than that they
 said: 'Expel them from your town; verily they are a people (who seek) to
@@ -439,12 +399,8 @@ knew Lut and his followers as some purified persons.
 Surah Al-‘A’raf, Verse 83
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَنجَيْنَاهُ وَأَهْلَهُ إِلاَّ امْرَأَتَهُ كَانَتْ مِنَ
-الْغَابِرِينَ
-  </p>
-</blockquote>
+> فَأَنجَيْنَاهُ وَأَهْلَهُ إِلاَّ امْرَأَتَهُ كَانَتْ مِنَ
+> الْغَابِرِينَ
 
 **83.** ***"So We delivered him and his family, except his wife; she was
 of those who remained behind (in the ashes of punishment)."***
@@ -467,12 +423,8 @@ those who remained behind (in the ashes of punishment)."***
 Surah Al-‘A’raf, Verse 84
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ
-الْمُجْرِمِينَ
-  </p>
-</blockquote>
+> وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ
+> الْمُجْرِمِينَ
 
 **84.** ***"And We rained down on them a rain (of punishment). Consider
 then how the end of the guilty was!"***
@@ -528,5 +480,4 @@ all criminals must be careful.
 [^4]: Was'a'il-ush-Shiah, Vol. 14, P. 249
 
 [^5]: Wasa'il-ush-Shiah, Vol. 14, P. 255
-
 

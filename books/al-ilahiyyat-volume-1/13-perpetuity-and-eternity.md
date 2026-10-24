@@ -77,4 +77,3 @@ All this discussion revolves round the entitative positive attributes,
 and we have already stated the difference among them. We are going to
 refer to them anew.
 
-

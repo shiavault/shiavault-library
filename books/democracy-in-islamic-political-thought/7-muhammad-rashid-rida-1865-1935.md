@@ -131,4 +131,3 @@ struggle, and finally accomplished her goal in dismembering the Islamic
 empire, annihilating the Islamic state and erasing it politically, from
 the list of powerful, living nations.[^26]
 
-

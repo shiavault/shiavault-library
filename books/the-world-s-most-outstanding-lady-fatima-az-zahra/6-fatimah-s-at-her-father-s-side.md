@@ -1,12 +1,8 @@
 Fatimah (S.) At Her Father’s Side
 =================================
 
-<blockquote dir="rtl">
-  <p>
-قال رسول اللّه(صلى الله عليه وآله): «انّ اول شخص يدخل علي الجنة فاطمة
-بنت محمد»
-  </p>
-</blockquote>
+> قال رسول اللّه(صلى الله عليه وآله): «انّ اول شخص يدخل علي الجنة فاطمة
+> بنت محمد»
 
 *“The first person to come to me in Heaven is Fatimah the daughter of
 Muhammad.**”*** [^1]
@@ -158,5 +154,4 @@ the polytheists returned to Uhud to finish the job they had begun. But
 God wanted them to leave disappointed, therefore when they met up with
 the brave Muslims and even those they had wounded the day before, they
 became afraid, and left.
-
 

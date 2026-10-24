@@ -890,4 +890,3 @@ reaches the age of puberty or becomes sane.
 **1407.** If the eldest son of a person dies before offering the lapsed
 prayers of his father, nothing is obligatory on the second son.
 
-

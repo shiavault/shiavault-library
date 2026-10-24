@@ -15,12 +15,8 @@ you confront us, you will come to know that we are the stalwarts of the
 battlefield.” At that juncture, the Almighty Allah revealed the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ
-جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ
-  </p>
-</blockquote>
+> قُلْ لِلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ
+> جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ
 
 ***“Say to those who disbelieve: You shall be vanquished, and driven
 together to hell; and evil is the resting-place.”***[^1]
@@ -43,14 +39,10 @@ Shaam. The Almighty Allah revealed the following verse about Abdullah
 bin Ubayy and some persons of Khazraj who had advocated the case of
 Jews:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ
-وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ
-يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي
-الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ
+> وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ
+> يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي
+> الْقَوْمَ الظَّالِمِينَ
 
 ***“O you who believe! do not take the Jews and the Christians for
 friends; they are friends of each other; and whoever amongst you takes
@@ -130,13 +122,9 @@ Kalimah and embraced Islam. And I swore that I would never ever fight
 against the Prophet. After that he invited his people to Islam. The
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ
-إِذْ هَمَّ قَوْمٌ أَنْ يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ
-أَيْدِيَهُمْ عَنْكُمْ 
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ
+> إِذْ هَمَّ قَوْمٌ أَنْ يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ
+> أَيْدِيَهُمْ عَنْكُمْ
 
 ***“O you who believe, remember Allah’s favor on you when a people had
 determined to stretch forth their hands towards you, but He withheld
@@ -277,5 +265,4 @@ Khuzaimah. That same year on 15th Ramadan, Imam Hasan (a.s.) was born.
 [^2]: Surah Maidah 5:51
 
 [^3]: Surah Maidah 5:11
-
 

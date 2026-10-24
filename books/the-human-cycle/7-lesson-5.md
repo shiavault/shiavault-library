@@ -79,4 +79,3 @@ physically and spiritually). This way, the child may remain a Muslim,
 *Insha’Allah* (if God wills). However, parents should teach their
 children from a young age. They cannot wait too long.
 
-

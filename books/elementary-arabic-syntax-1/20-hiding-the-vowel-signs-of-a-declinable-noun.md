@@ -29,4 +29,3 @@ guidance.)
 For example: **حَکَمَ** **القاضِي** **عَلَی** **الجَانِي** (The judge
 sentenced the criminal.)
 
-

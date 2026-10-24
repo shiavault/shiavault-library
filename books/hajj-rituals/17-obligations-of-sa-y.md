@@ -153,4 +153,3 @@ same as the rule for doubts arising in the course of tawaf. As a general
 rule, if there is doubt in the number of rounds, the sa'y is
 invalidated.
 
-

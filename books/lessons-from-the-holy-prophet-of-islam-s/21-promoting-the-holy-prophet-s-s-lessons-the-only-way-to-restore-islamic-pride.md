@@ -181,4 +181,3 @@ occasion of the Holy Prophet’s (S) birthday anniversary
 with government officials of the Islamic Republic and ambassadors of
 Islamic countries.
 
-

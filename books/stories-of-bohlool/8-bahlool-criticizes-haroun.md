@@ -24,4 +24,3 @@ Bahlool said, “Then don't give importance to this kingdom for it is not
 worth more than a drink of water. Isn't it proper that you do good with
 Allah's creations?”
 
-

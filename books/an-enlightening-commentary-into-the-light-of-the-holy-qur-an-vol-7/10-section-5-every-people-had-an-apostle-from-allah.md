@@ -4,12 +4,8 @@ Section 5: Every People Had an Apostle from Allah
 Surah Yunus – Verse 41
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَذَّبُوكَ فَقُل لِي عَمَلِي وَلَكُمْ عَمَلُكُمْ أَنتُم
-بَرِيئُونَ مِمَّآ أَعْمَلُ وَأَنَاْ بَريءٌ مِمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَإِن كَذَّبُوكَ فَقُل لِي عَمَلِي وَلَكُمْ عَمَلُكُمْ أَنتُم
+> بَرِيئُونَ مِمَّآ أَعْمَلُ وَأَنَاْ بَريءٌ مِمَّا تَعْمَلُونَ
 
 ***41. “And if they belie you, say: ‘For me is my work and for you is
 your work. You are quit of what I do, and I am quit of what you do’.”***
@@ -38,12 +34,8 @@ The verse continues saying:
 Surah Yunus – Verse 42
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُم مَن يَسْتَمِعُونَ إِلَيْكَ أَفَاَنتَ تُسْمِعُ الصُّمَّ
-وَلَوْ كَانُوا لا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمِنْهُم مَن يَسْتَمِعُونَ إِلَيْكَ أَفَاَنتَ تُسْمِعُ الصُّمَّ
+> وَلَوْ كَانُوا لا يَعْقِلُونَ
 
 ***42. “And (when you recite the Qur’an) some of them (pretend to)
 listen to you, but can you make the deaf to hear, even though they are
@@ -76,12 +68,8 @@ understanding?”***
 Surah Yunus – Verse 43
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُم مَن يَنظُرُ إِلَيْكَ أَفَاَنتَ تَهْدِي الْعُميَ وَلَوْ
-كَانُوا لا يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَمِنْهُم مَن يَنظُرُ إِلَيْكَ أَفَاَنتَ تَهْدِي الْعُميَ وَلَوْ
+> كَانُوا لا يُبْصِرُونَ
 
 ***43. “And some of them look at you, but can you guide the blind even
 though they will not see (inwardly)?”***
@@ -104,12 +92,8 @@ obstinacy in accepting the truth and adhering to it.
 Surah Yunus – Verse 44
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لاَ يَظْلِمُ النَّاسَ شَيْئاً وَلَكِنَّ النَّاسَ
-أَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لاَ يَظْلِمُ النَّاسَ شَيْئاً وَلَكِنَّ النَّاسَ
+> أَنفُسَهُمْ يَظْلِمُونَ
 
 ***44. “Verily Allah does not any injustice to people but people to
 their own selves do injustice.”***
@@ -131,13 +115,9 @@ own selves do injustice.”***
 Surah Yunus – Verse 45
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَحْشُرُهُمْ كأَن لَمْ يَلْبَثُوا إلاَّ سَاعَةً مِنَ
-النَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ قَدْ خَسِرَ الَّذِينَ كَذَّبُوا
-بِلِقَآءِ اللَّهِ وَمَا كَانُوا مُهْتَدِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ يَحْشُرُهُمْ كأَن لَمْ يَلْبَثُوا إلاَّ سَاعَةً مِنَ
+> النَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ قَدْ خَسِرَ الَّذِينَ كَذَّبُوا
+> بِلِقَآءِ اللَّهِ وَمَا كَانُوا مُهْتَدِينَ
 
 ***45. “And on the Day He will muster them, as if they had tarried but
 an hour of the day, they will recognize each other.*** ***‏‏Those will
@@ -171,12 +151,8 @@ and were not guided a right.”***
 Surah Yunus – Verse 46
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ
-فَإِلَيْنَا مَرْجِعُهُمْ ثُمَّ اللَّهُ شَهِيدٌ عَلَي مَا يَفْعَلُونَ
-  </p>
-</blockquote>
+> وإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ
+> فَإِلَيْنَا مَرْجِعُهُمْ ثُمَّ اللَّهُ شَهِيدٌ عَلَي مَا يَفْعَلُونَ
 
 ***46. “Whether We show you (realized in your lifetime) some part of
 what We promise them, or We take your soul, to Us is their return. Then
@@ -208,12 +184,8 @@ do.”***
 Surah Yunus – Verse 47
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلّ اُمَّةٍ رَسُولٌ فَإِذَا جَآءَ رَسُولُهُمْ قُضِي بَيْنَهُم
-بِالْقِسْطِ وَهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَلِكُلّ اُمَّةٍ رَسُولٌ فَإِذَا جَآءَ رَسُولُهُمْ قُضِي بَيْنَهُم
+> بِالْقِسْطِ وَهُمْ لاَ يُظْلَمُونَ
 
 ***47. “And for every people there is a Messenger. Then when their
 Messenger comes, (on the Day of Judgment), the matter will be judged
@@ -238,11 +210,7 @@ with justice, and they will not be dealt with unjustly.”***
 Surah Yunus – Verse 48
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
 
 ***48. “They say: ‘When will this promise be, if you are truthful?’”***
 
@@ -260,13 +228,9 @@ The verse says:
 Surah Yunus – Verse 49
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لآ أَمْلِكُ لِنَفْسِي ضَرّاً وَلا نَفْعاً إِلاَّ مَا شَآءَ اللَّهُ
-لِكُلِّ اُمَّةٍ أَجَلٌ إِذَا جَآءَ أَجَلُهُمْ فَلاَ يَسْتَأْخِرُونَ
-سَاعَةً وَلايَسْتَقْدِمُونَ
-  </p>
-</blockquote>
+> قُل لآ أَمْلِكُ لِنَفْسِي ضَرّاً وَلا نَفْعاً إِلاَّ مَا شَآءَ اللَّهُ
+> لِكُلِّ اُمَّةٍ أَجَلٌ إِذَا جَآءَ أَجَلُهُمْ فَلاَ يَسْتَأْخِرُونَ
+> سَاعَةً وَلايَسْتَقْدِمُونَ
 
 ***49. “Say: ‘I do not possess any harm or profit for myself except as
 Allah wills. To every people is a term appointed. When their term comes,
@@ -313,12 +277,8 @@ advances will happen.
 Surah Yunus – Verse 50
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَتَاكُمْ عَذَابُهُ بَيَاتاً أَوْ نَهَاراً
-مَاذَا يَسْتَعْجِلُ مِنْهُ الْمُـجْرِمُونَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَتَاكُمْ عَذَابُهُ بَيَاتاً أَوْ نَهَاراً
+> مَاذَا يَسْتَعْجِلُ مِنْهُ الْمُـجْرِمُونَ
 
 ***50. “Say: ‘Have you considered? If His punishment comes upon you by
 night or by day, what portion of it will the sinners wish to
@@ -345,12 +305,8 @@ truthful?’”***
 Surah Yunus – Verse 51
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِ ءَآلاَنَ وَقَدْ كُنتُم بِهِ
-تَستَعْجِلُونَ
-  </p>
-</blockquote>
+> أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِ ءَآلاَنَ وَقَدْ كُنتُم بِهِ
+> تَستَعْجِلُونَ
 
 ***51. “Is it when it (the punishment) comes to pass, you will believe
 in it? Ah! Now? And you wanted (aforetime) to hasten it on?”***
@@ -371,12 +327,8 @@ it? Ah! Now? And you wanted (aforetime) to hasten it on?”***
 Surah Yunus – Verse 52
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ الْخُلْدِ هَلْ
-تُجْزَوْنَ إِلاَّ بِمَا كُنتُمْ تَكْسِبُونَ
-  </p>
-</blockquote>
+> ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ الْخُلْدِ هَلْ
+> تُجْزَوْنَ إِلاَّ بِمَا كُنتُمْ تَكْسِبُونَ
 
 ***52. “Then it will be said to those who were unjust: ‘Taste you the
 enduring punishment! Are you requited aught save what you used to
@@ -407,12 +359,8 @@ man than the other senses.
 Surah Yunus – Verse 53
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَنْبِئُونَكَ أَحَقٌّ هُوَ قُلْ إِي وَرَبّي إِنَّهُ لَحَقٌّ
-وَمَآ أَنتُم بِمُعْجِزِينَ
-  </p>
-</blockquote>
+> وَيَسْتَنْبِئُونَكَ أَحَقٌّ هُوَ قُلْ إِي وَرَبّي إِنَّهُ لَحَقٌّ
+> وَمَآ أَنتُم بِمُعْجِزِينَ
 
 ***53. “And they ask you to inform them saying: ‘Is that true?’ Say:
 ‘You! by my Lord! Verily it is the truth; and you cannot frustrate
@@ -442,5 +390,4 @@ The verse continues saying:
 
 ***“…Say: ‘You! by my Lord! Verily it is the truth; and you cannot
 frustrate (Him)’.”***
-
 

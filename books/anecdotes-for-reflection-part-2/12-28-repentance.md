@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أََنِ اسْـتَغْفِرُوا رَبَّکُمْ ثُمَّ تُوْبُوا إِلَيْهِ
-  </p>
-</blockquote>
+> وَ أََنِ اسْـتَغْفِرُوا رَبَّکُمْ ثُمَّ تُوْبُوا إِلَيْهِ
 
 “And that you ask forgiveness of your Lord, then turn to Him.”[^1]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إِِذَا تَابَ الْعَبْدُ تَوْبَةً نَصُوحاً أََحَبَّهُ اللٌّهُ فَسَتَرَ
-عَلَيْهِ.
-  </p>
-</blockquote>
+> إِِذَا تَابَ الْعَبْدُ تَوْبَةً نَصُوحاً أََحَبَّهُ اللٌّهُ فَسَتَرَ
+> عَلَيْهِ.
 
 “If a servant repents sincerely, Allah loves him (and) so conceals his
 sins.”[^2]
@@ -364,5 +356,4 @@ time of Imam Riďa .
 فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَ مَنْ يَغْفِرُ الذُّنُوبَ إِلاَّ اللَّهُ
 
 [^11]: Risalah Liqaullah, Page 62; Majalis as-Saduq
-
 

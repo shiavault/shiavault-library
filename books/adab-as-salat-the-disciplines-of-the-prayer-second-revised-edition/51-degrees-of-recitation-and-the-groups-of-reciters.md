@@ -302,4 +302,3 @@ al-Baydā,' printed by as-Sadūq Library, vol. 1, p. 385; Mustadrak
 al-Wasā'il, “The Book of as-Salāt,” sec. on “The Acts of the Salāt,”
 ch.2, hadīth 9.
 
-

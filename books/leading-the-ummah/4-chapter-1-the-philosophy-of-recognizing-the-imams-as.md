@@ -98,13 +98,9 @@ for Muslims are the Innocent ones.
 This is because the Prophet at different junctures had referred to the
 unbreakable bond between the holy Quran and the Innocent ones:
 
-<blockquote dir="rtl">
-  <p>
-“أَيّها النّاس إنّي يوشك أن ادعی فاجيب و إنّي تارك فيكم الثقلين كتاب
-الله وعترتي كتاب الله حبل ممدود من السماء إلی الأرض و عترتي أَهل بيتي
-و أنّ اللطيف أخبرني أنّهما لن يفترقا”
-  </p>
-</blockquote>
+> “أَيّها النّاس إنّي يوشك أن ادعی فاجيب و إنّي تارك فيكم الثقلين كتاب
+> الله وعترتي كتاب الله حبل ممدود من السماء إلی الأرض و عترتي أَهل بيتي
+> و أنّ اللطيف أخبرني أنّهما لن يفترقا”
 
 “O People! I will soon join God. I will leave with you two valuable
 things: one is the Book of God and the other one is my kinfolk. The Book
@@ -116,11 +112,7 @@ On the days of Arafah and Ghadir the great Prophet, who was unwell at
 the time, announced in front of a huge crowd of his sahabah (close
 followers)
 
-<blockquote dir="rtl">
-  <p>
-“هذا عليٌّ مع القرآن و القرآن مع علي لا يفترقان”
-  </p>
-</blockquote>
+> “هذا عليٌّ مع القرآن و القرآن مع علي لا يفترقان”
 
 “Ali is with Quran and the Quran is with Ali the two will never
 separate”[^3]
@@ -174,5 +166,4 @@ transactions[^4].
 narration 42, p. 57.
 
 [^4]: . Resalat Al-Islam, printed in Egypt, no 3 eleventh tear.
-
 

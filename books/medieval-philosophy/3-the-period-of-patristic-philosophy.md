@@ -70,7 +70,6 @@ authorities, in the matter of the heresies the authority of the Fathers
 is very great. In regard to philosophy, we may say that the Fathers were
 concerned with it only occasionally.
 
-
 **II. The Augustian Period: Reason and Faith**
 
 St. Augustine (354 - 430)
@@ -155,7 +154,6 @@ Besides what has been said of free will and moral evil, it must be
 noted that Augustine holds the primacy of the will over the intellect.
 Every good work is an action of love.
 
-
 **Politics: "The City of God"**
 
 "The City of God" is a philosophical classic by which Augustine shows
@@ -208,7 +206,6 @@ his being, for he falls from what he ought to be. As a result of this
 fall there exist the sufferings which he must bear, such as remorse in
 the present life.
 
-
 **III. The Post-Augustian Period**
 
 The period which runs from the death of Augustine to the beginning of
@@ -224,7 +221,6 @@ Benedict of Nursia, the founder of monasticism in Western Europe.
 
 The Order of St. Benedict spread throughout Europe and helped immensely
 to save Western culture from complete destruction.
-
 
 **THE PERIOD OF SCHOLASTIC PHILOSOPHY
 
@@ -280,7 +276,6 @@ Laon, Orleans and Fulda. This cultural movement had no development of
 any importance after the death of Charlemagne.
 
 On the Internet Texts and Archives of Scholasticism
-
 
 **II. The Formative Period Of Scholastcism**
 
@@ -394,7 +389,6 @@ holds the theory that the world is eternal, denies providence, and
 admits the existence of the acting intellect as something separate and
 the same for all men. Siger defended himself by having recourse to the
 principle of the double truth.
-
 
 **III. The Godlden Age Of Scholastic Philosophy**
 
@@ -604,5 +598,4 @@ difference is in his emphasis on the will, discounting the supreme
 importance of the intellect in Aquinas' philosophy; Scotus made the will
 supreme. This difference between the two concepts of the will led to the
 Thomist-Scotist controversy.
-
 

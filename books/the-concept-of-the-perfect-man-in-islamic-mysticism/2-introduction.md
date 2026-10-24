@@ -44,4 +44,3 @@ This paper focuses on the second type of Islamic anthropology, which
 elaborates the status of the perfect man from the view point of Islamic
 mysticism.
 
-

@@ -403,4 +403,3 @@ companions [sahābah]. [trans.]
 
 [^23]: Zarkulī, Al-A‘lām, vol. 2, p. 104; Tūsī, Al-Rijāl, p. 12.
 
-

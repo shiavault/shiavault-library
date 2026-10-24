@@ -4,11 +4,7 @@
 As-Sirat al-Mustaqeem: The Straight Path
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الصراط المستقيم
-  </p>
-</blockquote>
+> الصراط المستقيم
 
 It is also one of the most terrifying stages/stages of the Hereafter if
 not the very most. It is described in both Holy Qur'an and authentic
@@ -23,19 +19,15 @@ On pp. 103-105, Vol. 46 of Bihar al-Anwar, we read detailed descriptions
 of this Sirat, and additional text is indicated on pp. 69-71 of the same
 reference. Here is some of the text on the latter pages:
 
-<blockquote dir="rtl">
-  <p>
-هو جسر ممدود على جهنم، لا يدخل الجنة إلا من اجتازه. و جاء في الروايات
-أنه أدق من الشعرة و أحد من السيف و أصلى من النار. يعبره خالص المؤمنين
-كالبرق الخاطف، و بعضهم يعبره بصعوبة لكنه يجتازه و ينجو بنفسه. و بعض
-المارة يسقطون في جهنم من بعض عقبات الصراط. و هو نموذج من صراط الدنيا
-المستقبم حيث الدين الحق و طريق الولاية، و متابعة أمير المؤمنين و ذريته
-الأئمة الطاهرين (صلوات الله عليهم أجمعين)، فمن مال عن هذا الصراط
-الدنيوي و عدل عنه إلى الباطل قولا أو عملا، فقد ارتجف من عقبة صراط
-الآخرة و سقط الى الجحيم، و الصراط المستقيم الذي تجده في سورة الحمد في
-القرآن الكريم يشير إلى صراط الدنيا و صراط الآخرة كليهما.
-  </p>
-</blockquote>
+> هو جسر ممدود على جهنم، لا يدخل الجنة إلا من اجتازه. و جاء في الروايات
+> أنه أدق من الشعرة و أحد من السيف و أصلى من النار. يعبره خالص المؤمنين
+> كالبرق الخاطف، و بعضهم يعبره بصعوبة لكنه يجتازه و ينجو بنفسه. و بعض
+> المارة يسقطون في جهنم من بعض عقبات الصراط. و هو نموذج من صراط الدنيا
+> المستقبم حيث الدين الحق و طريق الولاية، و متابعة أمير المؤمنين و ذريته
+> الأئمة الطاهرين (صلوات الله عليهم أجمعين)، فمن مال عن هذا الصراط
+> الدنيوي و عدل عنه إلى الباطل قولا أو عملا، فقد ارتجف من عقبة صراط
+> الآخرة و سقط الى الجحيم، و الصراط المستقيم الذي تجده في سورة الحمد في
+> القرآن الكريم يشير إلى صراط الدنيا و صراط الآخرة كليهما.
 
 "It is a bridge extended over Hell: Nobody enters Paradise without
 successfully passing over it. Traditions indicate that it is thinner
@@ -78,13 +70,9 @@ the following:
 > هذه العقبة، و إلا فقد هوى إلى الجحيم. قال تعالى: "وَقِفُوهُمْ إِنَّهُم
 > مَّسْئُولُونَ" (الصافات: آيه 24)، و أهم العقبات هي المرصاد: "إِنَّ
 > رَبَّكَ لَبِالْمِرْصَادِ" (الفجر: آية 14). يقول الله تعالى: بعزتي و
-<blockquote dir="rtl">
-  <p>
-جلالي لا يفوتني ظلم ظالم. و تسمى عقبة أخرى بعقبة الرحم، و أخرى
-بالأمانة، و أخرى بالصلاة، و هكذا فِِإِن لكل فريضة أو أمر من أوامر
-الله، أو نهي من نواهيه، يقف المرء ليجيب عما هو مسؤول عنه.
-  </p>
-</blockquote>
+> جلالي لا يفوتني ظلم ظالم. و تسمى عقبة أخرى بعقبة الرحم، و أخرى
+> بالأمانة، و أخرى بالصلاة، و هكذا فِِإِن لكل فريضة أو أمر من أوامر
+> الله، أو نهي من نواهيه، يقف المرء ليجيب عما هو مسؤول عنه.
 
 "We believe that each of the obstacles along the path to the Gathering
 represents the name of one of the obligations, i.e. what the Almighty
@@ -136,12 +124,8 @@ obstacle is called the kinship obstacle. Another is called amana, trust
 (something entrusted for safe keep to someone), another is called salat,
 prayer, and so on:
 
-<blockquote dir="rtl">
-  <p>
-لكل فريضه من الفرائض—الأوامر و النواهي—يوقف العبد عندها ليجيب عما هو
-مسؤول عنه
-  </p>
-</blockquote>
+> لكل فريضه من الفرائض—الأوامر و النواهي—يوقف العبد عندها ليجيب عما هو
+> مسؤول عنه
 
 Each obligation—what is commanded and what is prohibitive—has an
 obstacle at which the servant of Allah‎ is stopped to answer about his
@@ -149,17 +133,13 @@ responsibility towards it."
 
 On p. 65, Vol. 8 of Bihar al-Anwar, we read the following:
 
-<blockquote dir="rtl">
-  <p>
-فترى الناس على الصرا ط يسقطون كالفراش المبثوث، و ترى آخرين قد تعلقوا
-بأيديهم أو بيد واحده أو بأرجلهم و هم يمسكون خوفا من الهبوط و الملائكة
-حولهم واقفون يدعون و ينادون: أيها الرب الحليم، اغفر لهؤلاء و اعف عن
-هؤلاء بفضلك و جودك، و سلمهم ليجاوزوا الصراط و يقطعوا الصراط. فمن اجتاز
-الصراط برحمة الله الواسعة، قال: الحمد لله، و بنعمة الله تتم صالحات
-الأعمال، و تنمو الحسنات، و أحمد الله الذي نجاني منك بفضله و منه، بعد
-أن كنت قد يئست، ان ربنا لأعمال العباد لغفور شكور
-  </p>
-</blockquote>
+> فترى الناس على الصرا ط يسقطون كالفراش المبثوث، و ترى آخرين قد تعلقوا
+> بأيديهم أو بيد واحده أو بأرجلهم و هم يمسكون خوفا من الهبوط و الملائكة
+> حولهم واقفون يدعون و ينادون: أيها الرب الحليم، اغفر لهؤلاء و اعف عن
+> هؤلاء بفضلك و جودك، و سلمهم ليجاوزوا الصراط و يقطعوا الصراط. فمن اجتاز
+> الصراط برحمة الله الواسعة، قال: الحمد لله، و بنعمة الله تتم صالحات
+> الأعمال، و تنمو الحسنات، و أحمد الله الذي نجاني منك بفضله و منه، بعد
+> أن كنت قد يئست، ان ربنا لأعمال العباد لغفور شكور
 
 "So you would see people on the Sirat falling like scattered butterflies
 while others are holding to it with their hands or feet or even with one
@@ -177,24 +157,16 @@ deeds]'." On p. 410, Vol. 22 of the same reference, we are also told
 that the great sahabi Abu Tharr al-Ghifari, Allah is pleased with him,
 has cited the Messenger of Allah‎ (P) saying:
 
-<blockquote dir="rtl">
-  <p>
-الرحم و الأمانه على طرفي الصراط، فمن وصل الرحم و أدى الأمانة، سار على
-الصراط، فإن طرفي الصراط يحفظانه من السقوط و الهبوط في النار
-  </p>
-</blockquote>
+> الرحم و الأمانه على طرفي الصراط، فمن وصل الرحم و أدى الأمانة، سار على
+> الصراط، فإن طرفي الصراط يحفظانه من السقوط و الهبوط في النار
 
 "Kinship and trust are at both ends of the Path: Whoever maintains good
 relations with his kinsfolk and returns the trust safely will pass over
 the Path, for both ends of the Path shall protect him against falling
 into the Fire." In another narrative, Imam‎ al-Baqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إذا ورد قاطع الرحم و خائن الأمانة الصراط، فإن أعماله الحسنة لا تنفعه
-ما دامت له هاتان الخصلتان و تسقطانه في النار
-  </p>
-</blockquote>
+> إذا ورد قاطع الرحم و خائن الأمانة الصراط، فإن أعماله الحسنة لا تنفعه
+> ما دامت له هاتان الخصلتان و تسقطانه في النار
 
 "If one who severed his ties and betrayed the trust reaches the Path,
 his good deeds will not avail him so long as both these characteristics
@@ -215,24 +187,16 @@ Almighty, and his family, wealth and children will be protected, too,
 and he will be granted security from the torment in the grave. Moreover,
 he will pass over the Sirat without any questioning like lightning.
 
-<blockquote dir="rtl">
-  <p>
-من صلّى أول ليلة من شهر رجب بعد صلاة المغرب عشرين ركعة بالحمد والتوحيد
-، ويسلم بين كل ركعتين ليحفظ في نفسه وأهله وماله وولده، وأجير من عذاب
-القبر، وجاز على الصراط كالبرق الخاطف.
-  </p>
-</blockquote>
+> من صلّى أول ليلة من شهر رجب بعد صلاة المغرب عشرين ركعة بالحمد والتوحيد
+> ، ويسلم بين كل ركعتين ليحفظ في نفسه وأهله وماله وولده، وأجير من عذاب
+> القبر، وجاز على الصراط كالبرق الخاطف.
 
 On p. 136 of Thawab al-A\`mal, we are told that one who fasts six days
 during the month of Rajab will be secure on the Day of Reckoning and
 will pass over the Sirat without being asked any questions.
 
-<blockquote dir="rtl">
-  <p>
-من صام من رجب ستة أيّام ... بعث من الآمنين يوم القيامة حتّى يمرّ على
-الصراط بغير حساب.
-  </p>
-</blockquote>
+> من صام من رجب ستة أيّام ... بعث من الآمنين يوم القيامة حتّى يمرّ على
+> الصراط بغير حساب.
 
 Ibn Tawoos also narrates that one who performs ten rek'as during the
 29th eve of the month of Sha'ban, reciting in each rek'a Surat al-Hamd
@@ -243,30 +207,21 @@ their utmost in learning the creed and in teaching it, making his scale
 of good deeds heavier and easing for him to pass over the Sirat like
 lightning.
 
-<blockquote dir="rtl">
-  <p>
-مَن صلّى في الليلة التاسعة والعشرين من شعبان عشر ركعات يقرأ في كل ركعة
-فاتحة الكتاب مرّة وألهاكم التكاثر عشر مرّات ، والمعوذتين عشر مرّات،
-وقل هو الله أحد عشر مرّات، أعطاه الله تعالى ثواب المجتهدين، وثقل
-ميزانه، ويخفف عنه الحساب، ويمرّ على الصراط كالبرق الخاطف.
-  </p>
-</blockquote>
+> مَن صلّى في الليلة التاسعة والعشرين من شعبان عشر ركعات يقرأ في كل ركعة
+> فاتحة الكتاب مرّة وألهاكم التكاثر عشر مرّات ، والمعوذتين عشر مرّات،
+> وقل هو الله أحد عشر مرّات، أعطاه الله تعالى ثواب المجتهدين، وثقل
+> ميزانه، ويخفف عنه الحساب، ويمرّ على الصراط كالبرق الخاطف.
 
 On p. 102, Vol. 34 of Bihar al-Anwar, we are told that one who performs
 the ziyara of Imam‎ ar-Ridha (as) despite his grave being so far, the
 Imam‎ will visit him at three places on the Judgment Day in order to
 save him from their horrors, and one of these horrors is the Sirat.
 
-<blockquote dir="rtl">
-  <p>
-من زار الامام الرضا عليهِ السَّلام على بعد قبره الشريف، فانّه يأتي
-عنده يوم القيامة في ثلاثة مواطن ليخلصه من أهوالها ، وانّ أحدها عند
-الصراط .
-  </p>
-</blockquote>
+> من زار الامام الرضا عليهِ السَّلام على بعد قبره الشريف، فانّه يأتي
+> عنده يوم القيامة في ثلاثة مواطن ليخلصه من أهوالها ، وانّ أحدها عند
+> الصراط .
 
 What will happen after all of these stages/stages? The answer is very
 simple: One will be led either to eternal happiness in Paradise or to
 damnation in hell. And surely Allah‎ knows best.
-
 

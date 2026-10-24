@@ -941,4 +941,3 @@ this.
 
 [^38]: Persian Couplet.
 
-

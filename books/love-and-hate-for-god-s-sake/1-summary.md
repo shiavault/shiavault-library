@@ -39,4 +39,3 @@ group which has become prevalent in the world in which they categorize
 these go against the teachings of Islam, is nothing other than baseless
 and futile claims which lack any form of evidence.
 
-

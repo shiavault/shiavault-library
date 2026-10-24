@@ -1,10 +1,6 @@
 Al-bukhari and His Book
 =======================
 
-  
-  
-  
-
 Full name of al-Bukhari is Abu Abd Allah Muhammad ibn Isma’il al-Bukhari
 al-Farsi. He was born in Bukhara in 194H. He made trips to several
 countries, seeking for hadith, starting to compile chapters of his book
@@ -12,18 +8,17 @@ in the Holy Sanctuary. It took him sixteen years to compile and classify
 it in Basrah and other places till completing it in Bukhara. He died in
 Khartang near Samarqand in 256 H.
 
-In Muqaddimat Fath al-Bari, <span id="_anchor_557"></span>557 Ibn Hajar
+In Muqaddimat Fath al-Bari, 557 Ibn Hajar
 reported that Abu Ali al-
 
 Ghassani quoted al-Bukhari as saying: I brought out al-Sahih from among
 six hundred traditions.
 
 Al-Isma’ili also quoted him as saying: I haven’t brought out in this
-book but only the sahih <span id="_anchor_558"></span>558 traditions,
-and the sahih ones that I haven’t cited being more. <span
-id="_anchor_559"></span>559 He also said: I know by heart a hundred
+book but only the sahih 558 traditions,
+and the sahih ones that I haven’t cited being more. 559 He also said: I know by heart a hundred
 thousand sahih traditions, and two hundred thousand non-sahih
-traditions. <span id="_anchor_560"></span>560 It is not to be shocked at
+traditions. 560 It is not to be shocked at
 the presence of these hundreds of thousands of traditions during the
 time of al-Bukhari, as it is reported from al-Imam Ahmad that he said:
 The number of correct traditions amounted to seven hundred thousand plus
@@ -44,8 +39,7 @@ Abd Allah Muhammad ibn Isma’il al-Bukhari says: We were with Ibn
 Rahawayh who said: Would it be better if you compile an abridged book
 containing the sahih traditions of the Messenger of Allah? Being
 impressed by this statement, I embarked on compiling the comprehensive
-Sahih in which including six hundred thousand traditions. <span
-id="_anchor_561"></span>561
+Sahih in which including six hundred thousand traditions. 561
 
 ### Al-Bukhari Narrating Through Meaning:
 
@@ -55,24 +49,23 @@ Sham,
 
 and there might be a hadith I heard in the Sham writing it in Egypt!
 Thereat it was said to him: O Abu Abd Allah, (did you write it)
-completely? when he kept silent. <span id="_anchor_562"></span>562
+completely? when he kept silent. 562
 
 Uhaydar ibn Abi Ja’far, governor of Bukhara, is reported to have said:
 Muhammad ibn Isma’il once upon a day said to me: There might be a hadith
 I heard in Basrah writing it in the Sham, and there might be a hadith I
 heard in the Sham writing it in Egypt! Thereat I said to him: O Abu Abd
-Allah, (did you write it) completely? when he kept silent. <span
-id="_anchor_563"></span>563
+Allah, (did you write it) completely? when he kept silent. 563
 
 Muhammad ibn al-Azhar al-Sijistani said: One day I attended a meeting in
 the house of Sulayman ibn Harb, with presence of al-Bukhari who was only
 hearing but not writing anything. When one of the attendants was asked:
 Why doesn’t he write? He said: When he (al-Bukhari) returns to Bukhara
-he will write down out of his memory. <span id="_anchor_564"></span>564
+he will write down out of his memory. 564
 
 Ibn Hajar al-Asqallani says: What is unusual about al-Bukhari being that
 he used to report the hadith completely with one isnad and two
-(different) wordings. <span id="_anchor_565"></span>565
+(different) wordings. 565
 
 ### Death of al-Bukhari Before Revising His Book:
 
@@ -94,9 +87,9 @@ origin! That was due to the fact that every one of them used to copy as
 much as he could from patchments and scapula, wherever it be, from which
 he would add to what he collected before. From this it can be concluded
 that two or more expositions are found connected to each other with no
-traditions in between them. <span id="_anchor_566"></span>566
+traditions in between them. 566
 
-In Fath al-Bari (Vol. VII) <span id="_anchor_567"></span>567 he (Ibn
+In Fath al-Bari (Vol. VII) 567 he (Ibn
 Hajar) writes: Throughout the copies of al-Bukhari I have never come
 across any biography for Abd al-Rahman ibn Awf, or Sa’d ibn Zayd who
 were among the ten (promised with paradise) – though dedicating a
@@ -122,18 +115,17 @@ this, al-Bukhari’s book (Sahih) was thought to be the first book
 compiled that containing sahih traditions. The traditionsts criticized
 him in a hundred and ten traditions, of which the reporting of
 thirty-two ones was concurringly agreed by Muslim, and seventy-eight
-ones were reported by him alone. <span id="_anchor_568"></span>568
+ones were reported by him alone. 568
 
 Those for whom al-Bukhari not Muslim has reported alone were four
-hundred thirty plus men, among whom eighty ones <span
-id="_anchor_569"></span>569 charged him with weakness. Whereas the
+hundred thirty plus men, among whom eighty ones 569 charged him with weakness. Whereas the
 number of traditionists for whom Muslim alone
 
 reported amounted to 620 men, among whom 160 ones were telling of
 presence of weakness. And the number of traditions for which they were
 both criticized amounted to two hundred and ten ones, of which eighty
 ones were independently related by al-Bukhari, with the rest being
-related by Muslim. <span id="_anchor_570"></span>570
+related by Muslim. 570
 
 About the traditions criticized by al-Daraqutni, Ibn Hajar is reported
 to have said: There is controversy regarding the veracity of these
@@ -145,16 +137,15 @@ most of the book.
 After reviewing the traditions narrated by al-Bukhari regarding which
 doubts were raised, al-Sayyid Muhammad Rashid Rida said: When reading
 what is said by al-Hafiz (Ibn Hajar) concerning them, you will come to
-realize them to be all on skill of art… <span
-id="_anchor_571"></span>571 but when reading the exposition itself (Fath
+realize them to be all on skill of art… 571 but when reading the exposition itself (Fath
 al-Bari) we will see many ambiguities in the meanings of many
 traditions, or inconsistency between them, with an attempt to bring
 together the contrarieties and solving the ambiguities, whichever
-satisfying the tastes. <span id="_anchor_572"></span>572
+satisfying the tastes. 572
 
 Dr. Ahmad Amin — after stating number of traditions for which criticism
 was levelled at al-Bukhari as mentioned before – reports the following:
-<span id="_anchor_573"></span>573
+573
 
 “Some of the men for whom al-Bukhari reported were untrustworthy, and
 those among rijal of al-Bukhari labelled with weakness numbered eighty
@@ -198,8 +189,7 @@ hadith and tafsir everywhere. He was charged by some (traditionists)
 with falsity, and sharing the opinion of the Khawarij, and receiving the
 gifts of emirs and rulers, with some of them reporting plenty of his
 lies and fabrications. They reported that Sa’id ibn al-Musayyab said to
-his master Burd: Don’t tell me lies as Ikrimah did to Ibn Abbas. <span
-id="_anchor_574"></span>574 For him Sa’id ibn al-Musayyab reported a
+his master Burd: Don’t tell me lies as Ikrimah did to Ibn Abbas. 574 For him Sa’id ibn al-Musayyab reported a
 large number of fabricated traditions. Al-Qasim said: Ikrimah is a liar,
 who relates a hadith at noon, telling a contradictory one in the
 evening. Ibn Sa’d says: “Ikrimah was a profoundly learned man, for whom
@@ -233,8 +223,7 @@ books and after it in order comes Sahih Muslim. Also, there is no doubt
 that in other than them among Sunnah references there can be found more
 correct traditions, the fact confirmed by rejection of al-Bukhari and
 others to hundreds of thousands of traditions that used to be reported,
-for the sake of selecting the confirmed correct traditions. <span
-id="_anchor_575"></span>575 It is not easy for anyone to prove the claim
+for the sake of selecting the confirmed correct traditions. 575 It is not easy for anyone to prove the claim
 about existence of fabricated traditions among those of al-Bukhari that
 were reported on the basis of meaning, through which they could
 recognize whatever foisted in ilm al-riwayah, but his book is not devoid
@@ -263,8 +252,7 @@ after knowing of it but only through a proof establishing its
 non-veracity in text or sanad. As the ulama’ who refuted the veracity of
 some of these traditions were never to do so unless having strong
 evidences, some of which might have been correct and some wrong;
-nevertheless none of them was considered as a slanderer of Islam. <span
-id="_anchor_576"></span>576 Further Allah has never imposed upon any
+nevertheless none of them was considered as a slanderer of Islam. 576 Further Allah has never imposed upon any
 Muslim to read Sahih al-Bukhari and believe in whatever reported in it,
 even if not considering it to be correct or believing in its being
 contradictory to the principles of Islam.
@@ -276,8 +264,7 @@ Sahih and other places on the authority of tens of Companions through a
 large number of asanid, with no one blaming or objecting them for their
 leader’s not deeming it correct since he had not gone over al-Bukhari’s
 asanid on it, the veracity of which was ascertained by anyone of his
-school-mate ulama’ after reading them. Then some Muslim man <span
-id="_anchor_577"></span>577 among the righteous Muslims, in knowledge,
+school-mate ulama’ after reading them. Then some Muslim man 577 among the righteous Muslims, in knowledge,
 
 acts, defending of Islam and inviting to it, may be charged with impiety
 through a proof or suspicion against the veracity of a hadith reported
@@ -297,7 +284,7 @@ be considered immune against error … and not every doubtful in any of
 its narrations is to be deemed disbeliever! How easy is charging with
 impiety on the part of imitators of utterances of the latter
 (traditionists), and Allah is sufficient for us and He is the best
-Guarantor. <span id="_anchor_578"></span>578
+Guarantor. 578
 
 Ibn al-Jawzi’s al-Intisar contained many traditions taken from the two
 Sahihs, that were not adopted by the Shafi’ites when they preponderated
@@ -317,8 +304,7 @@ place with
 
 his name, thinking them to belong to two different men. Whereas Muslim
 would so rarely commit any mistake in regard of causes (‘ilal), because
-he used to write the masanid not the maqati’ or marasil. <span
-id="_anchor_579"></span>579
+he used to write the masanid not the maqati’ or marasil. 579
 
 ### Al-Bukhari and Infliction of Invention of the Qur’an:
 
@@ -339,7 +325,7 @@ believes in lafz, is not permitted to attend our meeting! On hearing
 this, Muslim took his cloak over his turban and departed the place,
 asking to collect whatever he has written about him. Thereat al-Bukhari
 became fearful and felt the danger threatening him, so he departed
-Nisabur to another city. <span id="_anchor_580"></span>580
+Nisabur to another city. 580
 
 ### Al-Bukhari’s Narrations Differ in Number:
 
@@ -347,19 +333,14 @@ Number of al-Bukhari’s traditions according to narration of al-Firayri
 exceeded those ones according to narration of Ibrahim ibn Ma’qil
 al-Nasafi with two hundred while their number by al-Nasafi exceeded that
 of Hammad ibn Shakir al-Nasafi with a hundred ones as reported by
-al-Iraqi. <span id="_anchor_581"></span>581
+al-Iraqi. 581
 
 Al-Hafiz Ibn Hajar, in Muqaddimat Fath al-Bari, reported that the
 
 number of the connected unrepeated texts cited in al-Bukhari (Sahih) was
 2602, and one of the suspended marfu’ (successive) ones was 159 ones,
 making together 2761 traditions. In Sharh al-Bukhari he said that the
-number of the written ones reached to 2513. <span
-id="_anchor_582"></span>582
-
-  
-  
-  
+number of the written ones reached to 2513. 582
 
 557. Fath al-Bari, p. 4.
 

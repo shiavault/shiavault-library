@@ -286,4 +286,3 @@ part in [such activity].
 
 [^3]: Ibid, p. 23.
 
-

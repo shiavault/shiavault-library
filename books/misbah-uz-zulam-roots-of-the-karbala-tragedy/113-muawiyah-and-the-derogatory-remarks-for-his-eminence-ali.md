@@ -54,4 +54,3 @@ present and their names will remain till Judgment Day.
 
 [^2]: Vol. 2, Pg. 8.
 
-

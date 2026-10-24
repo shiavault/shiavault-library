@@ -352,4 +352,3 @@ commencement of the major one, which began when Imam-e-Zaman's
 (a.t.f.s.) age was seventy-four. Behaar al-Anwaar, by Allama Majlisi,
 vol. 51, p. 361.
 
-

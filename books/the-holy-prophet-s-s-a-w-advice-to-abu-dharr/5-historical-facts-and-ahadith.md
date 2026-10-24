@@ -232,4 +232,3 @@ abounding bounty (62:4 ). "
 
 [^42]. \`Uyun Akhbar al-Rida, p 94.
 
-

@@ -56,4 +56,3 @@ The day of Qiyamah will be of 50,000 years duration as has been written
 in the Holy Quran. The sun on that day will come down very low and the
 earth will be red-hot like heated copper.
 
-

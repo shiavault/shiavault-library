@@ -130,4 +130,3 @@ occurs in the nominative case, with the appropriate vocalization, its
 signification remains unchanged when it is used in another sentence in
 the accusative case and with a different vocal ending.
 
-

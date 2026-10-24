@@ -420,4 +420,3 @@ martyrs and without thee, my darling, my sacrifice will be incomplete!
 Hearing this my baby brother at once responded to the call and returned
 from my sister Fatema's lap.
 
-

@@ -646,7 +646,6 @@ agnomens are in accord with each other and (amongst the Arabs too, just
 as it will come later on) the agnomen too is in the name. (I.e. the
 Arabs use agnomen instead of name).
 
-
 Secondly, some of the contemporary learned scholars have said in the
 margin of the book of 'Al-Bayan' as such: The best reason in reply to
 this matter is to say that the wording of the tradition is perhaps in
@@ -749,5 +748,4 @@ called as Hakimah."
 The author says: "I do not know who has said this because, the woman by
 the name of Hakimah was the daughter of Abu Jafar Hazrat Jawad and aunt
 of Mahdi's father and she was present at the time of Mahdi's birth."
-
 

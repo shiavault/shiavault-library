@@ -1,19 +1,15 @@
 Sixth Hadith: Love Of The World
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ مُحَمَّدِ
-بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ ابْنِ مَحْبُوبٍ، عَنْ
-عَبْدِاللهِ بْنِ سِنَانٍ وَعَبْدِ العَزِيزِ العَبْدِيِّ، عَنْ
-عَبْدِاللهِ بْنِ أَبِي يَعْفُورَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
-السَّلامُ قَالَ: مَنْ أَصْبَحَ وَأَمْسَى وَالدُّنْيَا أَكْبَرَ هَمِّهِ
-جَعَلَ اللهُ تَعَالَى الفَقْرَ بَيْنَ عَيْنَيْهِ وَشَتَّتَ أَمْرَهُ
-وَلَمْ يَنَلْ مِنَ الدُّنْيا إِلا مَا قَسَمَ اللهُ لَهُ. وَمَنْ
-أَصْبَحَ وَأَمْسَى وَالآخِرَةُ أَكْبَرَ هَمِّهِ جَعَلَ اللهُ الغِنَى
-فِي قَلْبِهِ وَجَمَعَ لَهُ أَمْرَهُ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ مُحَمَّدِ
+> بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ ابْنِ مَحْبُوبٍ، عَنْ
+> عَبْدِاللهِ بْنِ سِنَانٍ وَعَبْدِ العَزِيزِ العَبْدِيِّ، عَنْ
+> عَبْدِاللهِ بْنِ أَبِي يَعْفُورَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ قَالَ: مَنْ أَصْبَحَ وَأَمْسَى وَالدُّنْيَا أَكْبَرَ هَمِّهِ
+> جَعَلَ اللهُ تَعَالَى الفَقْرَ بَيْنَ عَيْنَيْهِ وَشَتَّتَ أَمْرَهُ
+> وَلَمْ يَنَلْ مِنَ الدُّنْيا إِلا مَا قَسَمَ اللهُ لَهُ. وَمَنْ
+> أَصْبَحَ وَأَمْسَى وَالآخِرَةُ أَكْبَرَ هَمِّهِ جَعَلَ اللهُ الغِنَى
+> فِي قَلْبِهِ وَجَمَعَ لَهُ أَمْرَهُ.
 
 Muhammad ibn Ya’qub (al-Kulayni) from Muhammad ibn Yahya, from Ahmad ibn
 Muhammad, from Ibn Mahbub, from ‘Abd Allah ibn Sinan and ‘Abd al-Aziz
@@ -118,15 +114,11 @@ acquired without entering this world, as has been stated by the *Mawla*
 of the *Muwahhidun*, Amir al-Mu’minin Imam ‘Ali (A), in one of his
 sermons delivered on hearing a person abuse ‘the world’:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الدُّنْيَا دَارُ صِدْقٍ لِمَنْ صَدَقَهَا وَدَارُ عَافِيَةٍ لِمَنْ
-فَهِمَ عَنْهَا وَدَارُ غِنىً لِمَنْ تَزَوَّدَ مِنْهَا وَدَارُ
-مَوْعِظَةٍ لِمَنِ اتَّعَظَ بِهَا. مَسْجِدُ أَحِبَّاءِ اللهِ وَمُصَلَّى
-مَلائِكَةِ اللهِ وَمَهْبِطُ وَحْيِ اللهِ وَمَتْجِرُ أَوْلِيَاءِ اللهِ:
-إكْتَسَبُوا فِيهَا الرَّحْمَةَ وَرَبِحُوا فِيهَا الجَنَّةَ.
-  </p>
-</blockquote>
+> إنَّ الدُّنْيَا دَارُ صِدْقٍ لِمَنْ صَدَقَهَا وَدَارُ عَافِيَةٍ لِمَنْ
+> فَهِمَ عَنْهَا وَدَارُ غِنىً لِمَنْ تَزَوَّدَ مِنْهَا وَدَارُ
+> مَوْعِظَةٍ لِمَنِ اتَّعَظَ بِهَا. مَسْجِدُ أَحِبَّاءِ اللهِ وَمُصَلَّى
+> مَلائِكَةِ اللهِ وَمَهْبِطُ وَحْيِ اللهِ وَمَتْجِرُ أَوْلِيَاءِ اللهِ:
+> إكْتَسَبُوا فِيهَا الرَّحْمَةَ وَرَبِحُوا فِيهَا الجَنَّةَ.
 
 Indeed this world is the abode of truth for him who appreciates its
 truthfulness, a place of safety for him who understands it, a mine of
@@ -147,25 +139,17 @@ sense of his absorption in the world of carnal nature and his attachment
 and love for it. That world is the source of all vices and all inward
 and outward sins, as reported in *al-Kafi* from Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإمَامُ الصَّادِقُ عَلَيْهِ السّلامُ: رَأْسُ كُلِّ خَطِيئَةٍ
-حُبُّ الدُّنْيَا.
-  </p>
-</blockquote>
+> قَالَ الإمَامُ الصَّادِقُ عَلَيْهِ السّلامُ: رَأْسُ كُلِّ خَطِيئَةٍ
+> حُبُّ الدُّنْيَا.
 
 Imam al Sadiq (A) said, “The love of the world is the source of all
 transgressions.”[^5]
 
 And it has been reported from Imam al-Baqir (A) that he said:
 
-<blockquote dir="rtl">
-  <p>
-مَا ذِئْبَانِ ضَارِيَانِ فِي غَنَمٍ قَدْ فَارَقَهَا رِعَاؤُها:
-أَحَدُهُمَا فِي أَوَّلِهَا وَالآخِرُ فِي آخِرِهَا، بِأَفْسَدَ فِيهَا
-مِنْ حُبِّ المَالِ. وَالشَّرَفُ فِي دِينِ المُسْلِمِ.
-  </p>
-</blockquote>
+> مَا ذِئْبَانِ ضَارِيَانِ فِي غَنَمٍ قَدْ فَارَقَهَا رِعَاؤُها:
+> أَحَدُهُمَا فِي أَوَّلِهَا وَالآخِرُ فِي آخِرِهَا، بِأَفْسَدَ فِيهَا
+> مِنْ حُبِّ المَالِ. وَالشَّرَفُ فِي دِينِ المُسْلِمِ.
 
 The harm done by two ferocious wolves, one attacking from the front and
 the other from the rear, to a herd without a shepherd, is less rapid
@@ -230,12 +214,8 @@ attitude which is apparent in the words of the *awliya*’.
 
 Imam ‘Ali (A), the *Mawla* of the *awliya*’, said:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ، لابْنُ أَبِي طَالِبٍ آنَسُ بِالمَوْتِ مِنَ الطِّفْلِ بِثَدْيِ
-أُمِّهِ.
-  </p>
-</blockquote>
+> وَاللهِ، لابْنُ أَبِي طَالِبٍ آنَسُ بِالمَوْتِ مِنَ الطِّفْلِ بِثَدْيِ
+> أُمِّهِ.
 
 By God, the son of Abu Talib is more intimate with death than an infant
 with its mother’s bosom.
@@ -261,12 +241,8 @@ nature and the inevitable pleasures associated with it, even if they be
 very few, acts like a veil. It is on this account that the Holy Prophet
 (S) is quoted to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَيُغَانُ عَلَى قَلْبِي، وَإنِّي لأَسْتَغْفِرُ اللهَ فِي كُلِّ يَوْمٍ
-سَبْعِينَ مَرَّةً.
-  </p>
-</blockquote>
+> لَيُغَانُ عَلَى قَلْبِي، وَإنِّي لأَسْتَغْفِرُ اللهَ فِي كُلِّ يَوْمٍ
+> سَبْعِينَ مَرَّةً.
 
 Lest my heart should be covered by [the veils of] lust, I ask God’s
 forgiveness seventy times a day.
@@ -313,12 +289,8 @@ be pleased with him.
 There is a tradition in *al-Kafi,* reported on the authority of Talhah
 ibn Zayd, from Abu ‘Abd Allah Imam al-Sadiq (A) that he said:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الدُّنْيَا كَمَثَلِ مَاءِ البَحْرِ؛ كُلَّمَا شَرِبَ مِنْهُ
-العَطْشَانُ ازْدَادَ عَطَشاً حَتَّى يَقْتُلَهُ.
-  </p>
-</blockquote>
+> مَثَلُ الدُّنْيَا كَمَثَلِ مَاءِ البَحْرِ؛ كُلَّمَا شَرِبَ مِنْهُ
+> العَطْشَانُ ازْدَادَ عَطَشاً حَتَّى يَقْتُلَهُ.
 
 The example of the world is that of sea water; the more a thirsty person
 drinks from it, the thirstier he becomes until it kills him.[^8]
@@ -356,11 +328,7 @@ A brilliant researcher and a judicious analyzer of the world of Islam,
 Mir Damad-*karrama* *Allah wajhah* in his *al-Qabasat*, a book of rare
 excellence, writes:
 
-<blockquote dir="rtl">
-  <p>
-لا تَخَافَنَّكَ المَوْتُ، فَإنَّ مَرَارَتَهُ فِي خَوْفِهِ.
-  </p>
-</blockquote>
+> لا تَخَافَنَّكَ المَوْتُ، فَإنَّ مَرَارَتَهُ فِي خَوْفِهِ.
 
 Death itself will never frighten you; its bitterness lies in being
 afraid of it.[^9]
@@ -437,11 +405,7 @@ specific effects on the soul, it also, little by little, strengthens the
 will and perfects its strength. Therefore, the greater the effort
 required for a worship, the more productive it is
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ الأَعْمَالِ أَحْمَزُهَا.
-  </p>
-</blockquote>
+> أَفْضَلُ الأَعْمَالِ أَحْمَزُهَا.
 
 The best of deeds are those, which are the most difficult.[^10]
 
@@ -500,22 +464,14 @@ perceive perfection in otherworldly stages and grades and their hearts
 are turned towards them. And the men of God, who, beholding perfection
 in His beauty and beauty in His perfection, say:
 
-<blockquote dir="rtl">
-  <p>
-﴿إنِّي وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ.﴾
-  </p>
-</blockquote>
+> ﴿إنِّي وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ.﴾
 
 ***I have turned my face towards Him Who created the heavens and the
 earth.*** (***6:79***)
 
 And they say:
 
-<blockquote dir="rtl">
-  <p>
-وَلِي مَعَ اللهِ حَالٌ.
-  </p>
-</blockquote>
+> وَلِي مَعَ اللهِ حَالٌ.
 
 My ecstasy lies in God.
 
@@ -601,26 +557,18 @@ seize you; bewilderment and despair will invade your heart. Some of
 these points have been alluded to in the following traditions from
 *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ حَفْصِ بْنِ قُرْطٍ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
-قَالَ: مَنْ كَثُرَ اشْتِبَاكُهُ بِالدُّنْيَا كَانَ أَشَدَّ
-لحَِسْرَتِهِ عِنْدَ فِرَاقِهَا.
-  </p>
-</blockquote>
+> عَنْ حَفْصِ بْنِ قُرْطٍ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> قَالَ: مَنْ كَثُرَ اشْتِبَاكُهُ بِالدُّنْيَا كَانَ أَشَدَّ
+> لحَِسْرَتِهِ عِنْدَ فِرَاقِهَا.
 
 On the authority of Hafs ibn Qurt, Abu ‘Abd Allah (A) is reported to
 have said, “The greater one’s involvement with the world, the greater
 shall be his regret at the time of parting from it”[^11]
 
-<blockquote dir="rtl">
-  <p>
-عَنِ ابْنِ أَبِي يَعْفُورَ قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ
-السَّلامُ يَقُولُ: مَنْ تَعَلَّقَ قَلْبُهُ بِالدُّنْيَا تَعَلَّقَ
-قَلْبُهُ بِثَلاثِ خِصَالٍ: هَمٍّ لا يَفْنَى وَأَمَلٍ لا يُدْرَكُ
-وَرَجَاءٍ لا يُنَالُ.
-  </p>
-</blockquote>
+> عَنِ ابْنِ أَبِي يَعْفُورَ قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ يَقُولُ: مَنْ تَعَلَّقَ قَلْبُهُ بِالدُّنْيَا تَعَلَّقَ
+> قَلْبُهُ بِثَلاثِ خِصَالٍ: هَمٍّ لا يَفْنَى وَأَمَلٍ لا يُدْرَكُ
+> وَرَجَاءٍ لا يُنَالُ.
 
 Ibn Abi Ya’fur says: I heard Abu ‘Abd Allah as saying, “Whoever has a
 heart attached to the world, has three things attached to his heart:
@@ -675,5 +623,4 @@ mercy upon him/them.”
 [^11]: Usul al-Kafi, vol. iv, p. 9.
 
 [^12]: Usul al-Kafi, vol. iv, p. 9
-
 

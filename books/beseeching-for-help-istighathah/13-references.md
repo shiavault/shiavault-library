@@ -26,4 +26,3 @@ in*Kanz-ul-‘ummāl* (14:416\#39122).
 
 [7]. Qur’ān ( *Maryam,* Mary) 19:19.
 
-

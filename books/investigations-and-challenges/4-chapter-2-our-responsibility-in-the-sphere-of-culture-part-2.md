@@ -700,4 +700,3 @@ Israeli crimes committed against the Iranian nation. See the six-volume
 collection entitled, Documents Discovered from the US Espionage Den.
 [Trans.]
 
-

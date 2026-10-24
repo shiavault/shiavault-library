@@ -64,4 +64,3 @@ The aim is to speed us on our way to becoming true faithfuls.
 
 [^1]: Bihbodi, Sahih al-kafi, p.100.
 
-

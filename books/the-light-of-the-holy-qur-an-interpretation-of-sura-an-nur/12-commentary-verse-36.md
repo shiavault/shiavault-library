@@ -80,7 +80,6 @@ rising of the sun and before its setting, ..."
 
 [^1] Bihar, Vol. 23, p. 326
 
-
 **Commentary : Verse 37**
 
 37. رِجَالٌ لاَّ تُلْهِيهِمْ تِجَارَةٌ وَلاَ بَيْعٌ عَن ذِكْرِ اللَّهِ
@@ -292,5 +291,4 @@ after the Flood of Noah (a.s.) grew, and prophets have uttered
 invocation prayed for it to be a blessed tree.
 
 [^1] Nur-uth-Thaqalyn
-
 

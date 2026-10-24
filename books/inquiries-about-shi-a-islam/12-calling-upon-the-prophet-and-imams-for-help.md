@@ -68,4 +68,3 @@ means calling upon Allah for the sake of those whom He loves.
 
 [^6]: Noble Qur’an, 2:154
 
-

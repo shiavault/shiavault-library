@@ -87,13 +87,9 @@ other human beings, or supports hatred by Muslims against non-Muslims in
 all circumstances, or is against kindness towards them. The Qur’an
 explicitly says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
-الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
-وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ 
-  </p>
-</blockquote>
+> لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
+> الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
+> وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
 
 ***“Allah does not forbid you respecting those who have not made war
 against you on account of (your) religion, and have not driven you forth
@@ -221,11 +217,7 @@ In the case of a corrupt, unreformed society in which unbelief and
 ignorance rule, Islam, on the one hand, gives the command to jihad so
 that the corruption may be uprooted;
 
-<blockquote dir="rtl">
-  <p>
-وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
-  </p>
-</blockquote>
+> وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ
 
 ***“Kill them, so that calamity is no longer” (2:193).***
 
@@ -239,24 +231,16 @@ characteristics, and how many times has unawareness of the thoughts and
 deliberations of others been inscribed on men's tombstones. The Qur’an
 exhorts us
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
-أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا
-جَاءَكُمْ مِنَ الْحَقِّ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
+> أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا
+> جَاءَكُمْ مِنَ الْحَقِّ
 
 ***“O you who believe! do not take My enemy and your enemy for friends:
 would you offer them love while they deny what has come to you of the
 truth (60:1)”***
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ
-أَيْدِيَهُمْ وَأَلْسِنَتَهُمْ بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ 
-  </p>
-</blockquote>
+> إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ
+> أَيْدِيَهُمْ وَأَلْسِنَتَهُمْ بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ
 
 *** “If they find you, they will be your enemies, and will stretch forth
 towards you their hands and their tongues with evil, and they ardently
@@ -293,12 +277,8 @@ itself, so that this Islamic society becomes strong and powerful, in the
 way that the Qur'an wants the society of Muslims to be superior to other
 societies.
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنْتُمُ الْأَعْلَوْنَ إِنْ كُنْتُمْ
-مُؤْمِنِينَ 
-  </p>
-</blockquote>
+> وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنْتُمُ الْأَعْلَوْنَ إِنْ كُنْتُمْ
+> مُؤْمِنِينَ
 
 *** ***  
 ***“And be not infirm, and be not grieving, and you shall have the upper
@@ -310,12 +290,8 @@ the independence and the motor of the movement of Islamic society.
 
 Elsewhere the Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا
-وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ 
-  </p>
-</blockquote>
+> وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا
+> وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ
 
 *** “And obey Allah and His Messenger and do not quarrel for then you
 will be weak in hearts and your power will depart, and be patient;
@@ -327,12 +303,8 @@ wila' of the believers.
 
 The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ
 
 ***“And the believers, the men and the women, are friends (wali) one to
 the other; they bid to good and forbid evil” (9:71).***
@@ -367,12 +339,8 @@ loves and friendships will not leave him in peace. Thus, in the noble
 aayah (verse) bidding to good and forbidding evil are connected in a
 particular way to the question of wila'.
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ
 
 ***“And the believers, the men and the women, are friends (wali) one to
 the other; they bid to good and forbid evil” (9:71).***
@@ -380,11 +348,7 @@ the other; they bid to good and forbid evil” (9:71).***
 Afterwards, under the subject of the fruits of bidding to good and
 forbidding evil, two subjects are mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَيُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ
-  </p>
-</blockquote>
+> وَيُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ
 
 ***“They perform prayer, and pay zakat (9:71).”***
 
@@ -394,12 +358,8 @@ Muslims themselves, who support each other as a result of being
 compassionate and merciful within Islam. And afterwards, it branches out
 from this
 
-<blockquote dir="rtl">
-  <p>
-ۚ أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ ۗ وَأُولَٰئِكَ هُمُ
-الْمُفْلِحُونَ 
-  </p>
-</blockquote>
+> ۚ أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ ۗ وَأُولَٰئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 ***“These, Allah will show mercy to them. (9:71).***  
  ***And these it is who shall be successful (9:88)”***
@@ -417,13 +377,9 @@ concerned.
 The Prophet (May Allah bless and grant him and his family peace) said in
 a famous and established hadith:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ
-وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ كمَثَلُ الْجَسَدِ إِذَا اشْتَكَى
-بَعْضُ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى
-  </p>
-</blockquote>
+> مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ
+> وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ كمَثَلُ الْجَسَدِ إِذَا اشْتَكَى
+> بَعْضُ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى
 
 *“Believers, in loving one another and being merciful towards each
 other, are like the body that, when a part of it complains, the other
@@ -432,12 +388,8 @@ parts rally to it by fever and sleeplessness.”*
 The noble Qur'an says, regarding the Prophet and those who follow him
 and have received Islamic education
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
-الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ
-  </p>
-</blockquote>
+> مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
+> الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ
 
 ***“Muhammad is the Messenger of Allah, and those with him are firm of
 heart against the unbelievers, compassionate among themselves;
@@ -464,13 +416,9 @@ Islam, and if we should shed tears over one tragedy from among those
 befalling Islam, it is this disaster and this tragedy. Amiru'l-mu'minin,
 \`Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-فَيَا عَجَباً وَاللهِ يُمِيتُ الْقَلْبَ وَيَجْلِبُ الْهَمَّ مِن
-اجْتِمَاعِ هؤُلاَءِ الْقَوْمِ عَلَى بَاطِلِهِمْ، وَتَفَرُّقِكُمْ عَن
-حَقِّكُمْ
-  </p>
-</blockquote>
+> فَيَا عَجَباً وَاللهِ يُمِيتُ الْقَلْبَ وَيَجْلِبُ الْهَمَّ مِن
+> اجْتِمَاعِ هؤُلاَءِ الْقَوْمِ عَلَى بَاطِلِهِمْ، وَتَفَرُّقِكُمْ عَن
+> حَقِّكُمْ
 
 *“How strange it is! By Allah, it mortifies the heart and draws forth
 grief that these people agreed about their falsehood and you disagree
@@ -479,17 +427,13 @@ about your truth*.” (Nahju 'l-balaghah)
 O Allah, protect and guard Islam and the Muslims from the evil of these
 evil-doers through the truth of Muhammad and his Pure Household!
 
-<blockquote dir="rtl">
-  <p>
-اَللّـهُمَّ اِنّا نَشْكُو اِلَيْكَ فَقْدَ نَبِيِّنا صَلَواتُكَ
-عَلَيْهِ وَآلِهِ،وَغَيْبَةَ وَلِيِّنا، وَكَثْرَةَ عَدُوِّنا وَقِلَّةَ
-عَدَدِنا وَشِدّةَ الْفِتَنِ بِنا وَتَظاهُرَ الزَّمانِ عَلَيْنا فَصَلِّ
-عَلى مُحَمَّد وَآلِهِ وَاَعِنّا عَلى ذلِكَ بِفَتْح مِنْكَ تُعَجِّلُهُ
-وَبِضُرٍّ تَكْشِفُهُ وَنَصْر تُعِزُّهُ وَسُلْطانِ حَقٍّ تُظْهِرُهُ
-وَرَحْمَة مِنْكَ تَجَلِّلُناها وَعافِيَة مِنْكَ تُلْبِسُناها
-بِرَحْمَتِكَ يا اَرْحَمَ الرّاحِمينَ .
-  </p>
-</blockquote>
+> اَللّـهُمَّ اِنّا نَشْكُو اِلَيْكَ فَقْدَ نَبِيِّنا صَلَواتُكَ
+> عَلَيْهِ وَآلِهِ،وَغَيْبَةَ وَلِيِّنا، وَكَثْرَةَ عَدُوِّنا وَقِلَّةَ
+> عَدَدِنا وَشِدّةَ الْفِتَنِ بِنا وَتَظاهُرَ الزَّمانِ عَلَيْنا فَصَلِّ
+> عَلى مُحَمَّد وَآلِهِ وَاَعِنّا عَلى ذلِكَ بِفَتْح مِنْكَ تُعَجِّلُهُ
+> وَبِضُرٍّ تَكْشِفُهُ وَنَصْر تُعِزُّهُ وَسُلْطانِ حَقٍّ تُظْهِرُهُ
+> وَرَحْمَة مِنْكَ تَجَلِّلُناها وَعافِيَة مِنْكَ تُلْبِسُناها
+> بِرَحْمَتِكَ يا اَرْحَمَ الرّاحِمينَ .
 
 *“O Allah, we complain to You over the loss of our Prophet - Your
 blessings on him and his family and on the absence of our wali, the
@@ -499,5 +443,4 @@ his family, and help us in this by a victory which You will hasten, and
 a help which You will strengthen, and an authority of truth which You
 will manifest, and a compassion You will envelop us in, and a well-being
 You will clothe us in.”*
-
 

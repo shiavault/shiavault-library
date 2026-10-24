@@ -119,4 +119,3 @@ The meaning of this tradition is that Allah prohibited ‘Ali from
 marrying another woman besides Fatima, which would harm Allah's
 Messenger!!
 
-

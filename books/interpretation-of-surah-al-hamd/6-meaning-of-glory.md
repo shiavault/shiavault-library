@@ -377,4 +377,3 @@ They wanted to deliver the people from the oppressors and to reform them
 morally. It was they who were ardent worshippers. Dua' Kumayl was taught
 by Imam Ali to Kumayl, who himself was a warrior.
 
-

@@ -5,17 +5,9 @@ Sermon 134: Allah has taken upon Himself ….
 al-mu'minin about himself, taking part in the march towards Rome
 (Byzantine Empire).*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد شاوره عمر بن الخطاب في الخروج إلى غزوالروم
-  </p>
-</blockquote>
+> وقد شاوره عمر بن الخطاب في الخروج إلى غزوالروم
 
 Allah has taken upon Himself for the followers of this religion the
 strengthening of boundaries and hiding of the secret places. Allah
@@ -29,20 +21,16 @@ well-intentioned. If Allah grants you victory, then this is what you
 want. If it is otherwise, you would serve as a support for the people
 and a returning place for the Muslims.
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ تَوَكَّلَ اللهُ لاِهْلِ هَذا الدِّينِ بِإِعْزَازِ الْحَوْزَةِ،
-وَسَتْرِ الْعَوْرَةِ، وَالَّذِي نَصَرَهُمْ وَهُمْ قَلِيلٌ لاَ
-يَنْتَصِرُونَ، وَمَنَعَهُمْ وَهُمْ قَلِيلٌ لاَ يَمتَنِعُونَ، حَيٌّ لاَ
-يَمُوتُ. إِنَّكَ مَتَى تَسِرْ إِلَى هذَا الْعَدُوِّ بِنَفْسِكَ،
-فَتَلْقَهُمْ بِشَخْصِكَ فَتُنْكَبْ، لاَ تَكُنْ لِلْمُسْلِمِينَ
-كَانِفَةٌ دُونَ أَقْصَى بِلاَدِهِمْ، وَلَيْسَ بَعْدَكَ مَرْجِعٌ
-يَرْجِعُونَ إِلَيْهِ، فَابْعَثْ إِلَيْهِمْ رَجُلاً مِحْرَباً،
-وَاحْفِزْ مَعَهُ أَهْلَ الْبَلاَءِ وَالنَّصِيحَةِ، فَإِنْ أَظْهَرَ
-اللهُ فَذَاكَ مَا تُحِبُّ، وَإِنْ تَكُنِ الاْخْرَى، كُنْتَ رِدْءاً
-للنَّاسِ وَمَثَابَةً لِلْمُسْلِمِينَ.
-  </p>
-</blockquote>
+> وَقَدْ تَوَكَّلَ اللهُ لاِهْلِ هَذا الدِّينِ بِإِعْزَازِ الْحَوْزَةِ،
+> وَسَتْرِ الْعَوْرَةِ، وَالَّذِي نَصَرَهُمْ وَهُمْ قَلِيلٌ لاَ
+> يَنْتَصِرُونَ، وَمَنَعَهُمْ وَهُمْ قَلِيلٌ لاَ يَمتَنِعُونَ، حَيٌّ لاَ
+> يَمُوتُ. إِنَّكَ مَتَى تَسِرْ إِلَى هذَا الْعَدُوِّ بِنَفْسِكَ،
+> فَتَلْقَهُمْ بِشَخْصِكَ فَتُنْكَبْ، لاَ تَكُنْ لِلْمُسْلِمِينَ
+> كَانِفَةٌ دُونَ أَقْصَى بِلاَدِهِمْ، وَلَيْسَ بَعْدَكَ مَرْجِعٌ
+> يَرْجِعُونَ إِلَيْهِ، فَابْعَثْ إِلَيْهِمْ رَجُلاً مِحْرَباً،
+> وَاحْفِزْ مَعَهُ أَهْلَ الْبَلاَءِ وَالنَّصِيحَةِ، فَإِنْ أَظْهَرَ
+> اللهُ فَذَاكَ مَا تُحِبُّ، وَإِنْ تَكُنِ الاْخْرَى، كُنْتَ رِدْءاً
+> للنَّاسِ وَمَثَابَةً لِلْمُسْلِمِينَ.
 
 Alternative Sources for Sermon 134
 ----------------------------------
@@ -114,5 +102,4 @@ of mutual accord although this advice was tendered in view of Islam's
 prestige and life which was dearer to Amir al-mu'minin than any other
 interest. No particular individual's life was dear to him for which he
 might have advised against participation in the battle.
-
 

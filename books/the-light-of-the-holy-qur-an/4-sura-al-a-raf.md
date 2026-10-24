@@ -11,8 +11,6 @@ Volume 5 & 6
 
 Transliteration of Arabic Letters
 
-  
-
 [Introduction to the Sura](000.htm)
 
 Section 1: The object of the revelation of the Qur'an

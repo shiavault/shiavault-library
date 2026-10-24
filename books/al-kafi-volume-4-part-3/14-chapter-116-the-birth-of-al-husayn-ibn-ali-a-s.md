@@ -181,7 +181,6 @@ house. When they were taken out of the house they just disappeared as if
 they did not exist or flew between the heavens and earth and afterwards
 no trace of them were found in the house."
 
-
 **Chapter 117 : The Birth of Ali ibn al-Husayn (a.s.)**
 
 Ali ibn al-Husayn was born in the year thirty eight AH. He passed away
@@ -313,5 +312,4 @@ al-Husayn ibn Sa'id from Muhammad ibn Sinan from ibn Muskan from abu
 Basir from abu 'Abdallah (a.s.) who has said the following. "Ali ibn
 al-Husayn (a.s.) passed away at the age of fifty seven in the year
 ninety five. He lived for thirty five years after al-Husayn (a.s.)."
-
 

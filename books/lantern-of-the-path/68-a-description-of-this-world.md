@@ -13,4 +13,3 @@ the person who relies on it. It seduces whoever admires its goods, but
 those goods do not last for him. It returns the person who gathers it
 and is miserly with it to its own abode, which is the Fire.
 
-

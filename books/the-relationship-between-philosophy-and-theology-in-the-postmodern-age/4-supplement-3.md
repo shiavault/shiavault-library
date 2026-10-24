@@ -165,4 +165,3 @@ shorn of the metaphysical or transcendent significance which gives them
 their power and is responsible for the strong emotional response they
 provoke in the first place.
 
-

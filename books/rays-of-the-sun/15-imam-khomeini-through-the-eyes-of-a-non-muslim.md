@@ -149,4 +149,3 @@ positivity, what I would prefer to call ‘love’.
 *From his book*  
 *‘The Imam and his Islamic Revolution’*
 
-

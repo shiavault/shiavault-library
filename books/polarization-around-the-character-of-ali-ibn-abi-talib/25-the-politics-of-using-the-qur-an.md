@@ -34,12 +34,8 @@ Household of the Prophet, and in their sacred name, and this is the most
 abominable part of the injustice against Islam, the Qur'an, the Prophet
 and his Household. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-اِنِّي مَا اَخَافُ عَلىَ أمَّتِي اٌلفَقْرَ وَلَكِن اَخَافُ عَلَيَهِمْ
-سُوءَ اٌلتَّدْبِيرِ
-  </p>
-</blockquote>
+> اِنِّي مَا اَخَافُ عَلىَ أمَّتِي اٌلفَقْرَ وَلَكِن اَخَافُ عَلَيَهِمْ
+> سُوءَ اٌلتَّدْبِيرِ
 
 I am not anxious about the incursion of poverty among my community; that
 about which I am afraid for them is crooked thinking. That which poverty
@@ -67,13 +63,9 @@ For example, we do not find written in the Qur'an that in a war that
 took place on a certain day between 'Ali and Mu'awiyah, 'Ali was in the
 right; all we find in the Qur'an is that:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
-بَيْنَهُمَا فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا
-الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ
-  </p>
-</blockquote>
+> وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
+> بَيْنَهُمَا فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا
+> الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ
 
 ***If two parties of believers fight, put things right between them;
 then, if one of them is insolent against the other, fight the insolent
@@ -119,11 +111,7 @@ itself a duty, and frequently we neglect this duty.
 
 \`Ali, may peace be upon him, said:
 
-<blockquote dir="rtl">
-  <p>
-أنَّكُمْ لَنْ تَعرِفُوا الُرّشْدَ حَتَّىَ تَعْرِفُوا الّذِي تَرَكَهُ
-  </p>
-</blockquote>
+> أنَّكُمْ لَنْ تَعرِفُوا الُرّشْدَ حَتَّىَ تَعْرِفُوا الّذِي تَرَكَهُ
 
 You will never know truth and follow the right way unless you know the
 person who has abandoned it.[^1]
@@ -142,5 +130,4 @@ justice and truth in the name of what we imagine to be a universal
 principle and the judgement of the Qur'an.
 
 [^1]: . Nahju 'l-balaghah, Sermon no. 146.
-
 

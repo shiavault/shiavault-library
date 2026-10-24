@@ -202,4 +202,3 @@ as fish is concerned, the only things necessary and that it must have
 "scales' and must die out of water. If these two conditions are
 fulfilled, you may eat it.)
 
-

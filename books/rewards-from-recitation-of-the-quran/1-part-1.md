@@ -232,4 +232,3 @@ there is in the world of wealth and good things, and whoever listens to
 someone reciting it will receive one third of the rewards due to its
 reciter.
 
-

@@ -177,4 +177,3 @@ u!-biyda fi Sharhi Khutbati Fatimati 'l-Zahra, pp. 27, 54.
 [^11]: Sirihi ibn Hisham, Vol. 1, pp.192-197; Bihar ul-Anwar, Vol. 15,
 pp.337, 412.
 
-

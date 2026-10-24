@@ -315,4 +315,3 @@ the gift that He gives, and we have no claim upon Him.
 We have, therefore, no right to object even if the gift given us quite
 free of charge appears slight and inconsequential.
 
-

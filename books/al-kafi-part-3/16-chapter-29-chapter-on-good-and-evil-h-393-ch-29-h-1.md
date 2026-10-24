@@ -43,7 +43,6 @@ those who say, "How is this and how is that." Yunus has said, "It means
 those who deny this fact instead of having proper understanding in
 it."
 
-
 **Chapter 30 : Chapter on Predestination, Fate and the Middle road in
 between H 396, Ch. 30, h 1**
 
@@ -55,7 +54,6 @@ him and sat with his legs folded underneath in front of the Imam (a.s.)
 and said, "O Amirul Mu'minin, tell us about our journey against the
 people of Sham (Syria) was it because of Allah's determining it to be
 so?"
-
 
 **Chapter 31 : Chapter on Predestination, Fate and the Middle road in
 between H 397, Ch. 31, h 1**
@@ -180,7 +178,6 @@ praising Allah, the Most Holy, the Most High, on his part of the deal
 and that he must not boast over the others to hold back the rights of
 the needy because of his respectability and beauty in his form."
 
-
 **Chapter 32 : Chapter on Differences in Justifying Divine Authority
 among People H 403, Ch. 32, h 1**
 
@@ -189,7 +186,6 @@ ibn Asbat from al- Husayn ibn Zayd from Durust ibn abu Mansur from
 whoever he narrated from abu 'Abdallah (a.s.), who has said, "There are
 six things in which the people have no doing. They are knowing,
 ignorance, consent, anger, sleeping and waking up."
-
 
 **Chapter 33 : Chapter on Allah's Authorities and Means of
 Justification of Accountability in People H 404, Ch. 33, h 1**
@@ -260,7 +256,6 @@ people shall not be blamed. God is All-forgiving and All-merciful."
 (9:91) as well as "Those who come to you, (Muhammad), asking to be taken
 to the battle . . ." (9:92) They are relieved of the duty because they
 do not have the means."
-
 
 **Chapter 34 : Chapter on The Issue that Guidance is from Allah, the
 Most Holy, the Most High H 408, Ch. 34, h 1**
@@ -339,7 +334,5 @@ the book, al-Kafi, followed by the book, al-Hujja in the second volume
 of the book, al-Kafi by al-Shaykh abu Ja'far Muhammad ibn Ya'qub
 al-Kulayni (May Allah grant him blessings).
 
-
 The End of Part 3
-
 

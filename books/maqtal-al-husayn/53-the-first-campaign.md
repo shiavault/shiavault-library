@@ -1303,4 +1303,3 @@ the author does not refer to his captivity.
 [^72]: Al-Hujjah Sayyid Muhammad Husayn al-Kishwan, may Allah have mercy
 on his soul, composed this poem.
 
-

@@ -15,4 +15,3 @@ Prophet has said “Do not eat till you are hungry and leave food before
 you are full”.  
  And if we avoid over-eating we won’t fall ill.
 
-

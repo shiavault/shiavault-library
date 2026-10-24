@@ -15,4 +15,3 @@ joined the revolution. He led the Qur'an Readers Battalion.
 
 ![](http://beta.al-islam.org/sites/default/files/pg4_0.jpg)
 
-

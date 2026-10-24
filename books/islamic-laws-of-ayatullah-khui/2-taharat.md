@@ -441,4 +441,3 @@ ladder, and unlawful if it is injurious for health.
 prayers, sleeping and having sexual intercourse, and after the seminal
 discharge.
 
-

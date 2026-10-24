@@ -280,4 +280,3 @@ according to the true Hadiths and we do not accept the claim that the
 Prophet’s mother was a polytheist, we have quoted this Hadith to raise
 an objection to those who forbid the visiting of graves.
 
-

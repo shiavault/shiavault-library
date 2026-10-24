@@ -268,4 +268,3 @@ Sermon No. 203).
 [^7]: Sermon of Imam Ali (a.s.) Path of Eloquence (Nahj-ul-Balagha
 Sermon No. 234).
 
-

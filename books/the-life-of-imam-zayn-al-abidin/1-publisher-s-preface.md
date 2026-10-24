@@ -1,11 +1,7 @@
 Publisher’s Preface
 ===================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 ***In the Name of Allah, the Merciful, the Compassionate***
 
@@ -49,5 +45,4 @@ translate this precious book. Moreover, we thank Him for His favors and
 bounty toward us in helping us print and publish this book. We hope that
 the book will exalt Islam and Muslims in this world and give them mercy
 and good pleasure in the next world, Allah willing!
-
 

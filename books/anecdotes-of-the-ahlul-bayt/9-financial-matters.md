@@ -362,4 +362,3 @@ and 50% barley. Thanks to Allah, I can afford to eat whole grain bread
 for a whole year, but I will not do anything that makes me answerable
 for being insensitive to the collective needs of the population.’
 
-

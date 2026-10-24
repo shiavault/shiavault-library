@@ -5,46 +5,30 @@ In its capacity as one of the most preferred devotional acts,
 supplication (*du’a'*) has been emphatically encouraged by the Holy
 Qur'an on more than one occasion, such as in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
-لَعَلَّهُمْ يَرْشُدُونَ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
+> لَعَلَّهُمْ يَرْشُدُونَ
 
 ***When My servants ask you concerning Me, then surely I am very near. I
 answer the prayer of the suppliant when he calls upon Me. So, they
 should answer My call and believe in Me that they may walk in the right
 way. (2:186)***
 
-<blockquote dir="rtl">
-  <p>
-ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ لَا يُحِبُّ
-الْمُعْتَدِينَ
-  </p>
-</blockquote>
+> ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ لَا يُحِبُّ
+> الْمُعْتَدِينَ
 
 ***Supplicate your Lord humbly and secretly. Surely, He does not love
 those who exceed the limits. (7:55)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ
-فَسَوْفَ يَكُونُ لِزَامًا
-  </p>
-</blockquote>
+> قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ
+> فَسَوْفَ يَكُونُ لِزَامًا
 
 ***Say: My Lord would not care for you were it not for your
 supplication, but you have indeed rejected the truth; so, that which
 shall cleave shall come. (25:77)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***Your Lord says: Call upon Me, I will answer you. Surely, those who
 are too proud for My service shall soon enter hell abased. (40:60)***
@@ -64,14 +48,10 @@ devotional act is the best?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍ أَفْضَلُ عِنْدَ اللهِ عَزَّ وَجَلَّ مِنْ أَنْ يُسْأَلَ
-وَيُطْلَبَ مِمَّا عِنْدَهُ وَمَا أَحَدٌ أَبْغَضُ إِلَى اللهِ عَزَّ
-وَجَلَّ مِمَّنْ يَسْتَكْبِرُ عَنْ عِبَادَتِهِ وَلاَ يَسْأَلُ مَا
-عِنْدَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍ أَفْضَلُ عِنْدَ اللهِ عَزَّ وَجَلَّ مِنْ أَنْ يُسْأَلَ
+> وَيُطْلَبَ مِمَّا عِنْدَهُ وَمَا أَحَدٌ أَبْغَضُ إِلَى اللهِ عَزَّ
+> وَجَلَّ مِمَّنْ يَسْتَكْبِرُ عَنْ عِبَادَتِهِ وَلاَ يَسْأَلُ مَا
+> عِنْدَهُ.
 
 *In the sight of Almighty Allah, nothing is better than asking Him and
 imploring Him for what He has in possession. No one is more hateful in
@@ -82,13 +62,9 @@ According to another validly reported tradition that is quoted by Shaykh
 al-Kulayni on the authority of Hammad ibn ‘Isa, Imam al-Sadiq (‘a) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-أُدْعُ وَلاَ تَقُلْ قَدْ فَرِغَ مِنَ الأَمْرِ; فَإِنَّ الدُّعَاءَ هُوَ
-الْعِبَادَةُ. إِنَّ اللهَ عَزَّ وَجَلَّ يَقُولُ: "إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> أُدْعُ وَلاَ تَقُلْ قَدْ فَرِغَ مِنَ الأَمْرِ; فَإِنَّ الدُّعَاءَ هُوَ
+> الْعِبَادَةُ. إِنَّ اللهَ عَزَّ وَجَلَّ يَقُولُ: "إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***Always pray to (Almighty Allah) and do not consider the matter to
 have ended, because supplication is surely worship. Almighty Allah says,
@@ -98,15 +74,11 @@ abased. (40:60)”***[^2]
 According to another validly reported tradition, Maysir ibn ‘Abd
 al-’Aziz has reported that Imam al-Sadiq (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-أُدْعُ وَلاَ تَقُلْ إِنَّ الأَمْرَ قَدْ فُرِغَ مِنْهُ. إِنَّ عِنْدَ
-اللهِ عَزَّ وَجَلَّ مَنْزِلَةً لاَ تُنَالُ إِلاَّ بِمَسْأَلَةٍ، وَلَوْ
-أَنَّ عَبْداً سَدَّ فَاهُ وَلَمْ يَسْأَلْ لَمْ يُعْطَ شَيْئاً، فَسَلْ
-تُعْطَ. إِنَّهُ لَيْسَ مِنْ بَابٍ يُقْرَعُ إِلاَّ يُوشَكُ أَنْ
-يُفْتَحَ لِصَاحِبِهِ.
-  </p>
-</blockquote>
+> أُدْعُ وَلاَ تَقُلْ إِنَّ الأَمْرَ قَدْ فُرِغَ مِنْهُ. إِنَّ عِنْدَ
+> اللهِ عَزَّ وَجَلَّ مَنْزِلَةً لاَ تُنَالُ إِلاَّ بِمَسْأَلَةٍ، وَلَوْ
+> أَنَّ عَبْداً سَدَّ فَاهُ وَلَمْ يَسْأَلْ لَمْ يُعْطَ شَيْئاً، فَسَلْ
+> تُعْطَ. إِنَّهُ لَيْسَ مِنْ بَابٍ يُقْرَعُ إِلاَّ يُوشَكُ أَنْ
+> يُفْتَحَ لِصَاحِبِهِ.
 
 *Always pray to (Almighty Allah) and do not consider the matter to have
 come to an end. There is a rank with Almighty Allah that cannot be
@@ -165,16 +137,12 @@ Holy Prophet and his Household, it is highly advisable to conclude the
 supplication with the same invocation. In this respect, Imam al-Sadiq
 (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَتْ لَهُ إِلَى اللهِ حَاجَةٌ فَلْيَبْدَأْ بِالصَّلاَةِ عَلَى
-مُحَمَّدٍ وَآلِ مُحَمَّدٍ ثُمَ يَسْأَلْ حَاجَتَهُ ثُمَّ يَخْتِمْ
-بِالصَّلاَةِ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، فَإِنَّ اللهَ عَزَّ
-وَجَلَّ أَكْرَمُ مِنْ أَنْ يَقْبَلَ الطَّرَفَيْنِ ثُمَّ يَدَعَ
-الْوَسَطَ إِذْ كَانَتِ الصَّلاَةُ عَلَى مُحَمَّدٍ وَآلِهِ لاَ تُحْجَبُ
-عَنْهُ.
-  </p>
-</blockquote>
+> مَنْ كَانَتْ لَهُ إِلَى اللهِ حَاجَةٌ فَلْيَبْدَأْ بِالصَّلاَةِ عَلَى
+> مُحَمَّدٍ وَآلِ مُحَمَّدٍ ثُمَ يَسْأَلْ حَاجَتَهُ ثُمَّ يَخْتِمْ
+> بِالصَّلاَةِ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، فَإِنَّ اللهَ عَزَّ
+> وَجَلَّ أَكْرَمُ مِنْ أَنْ يَقْبَلَ الطَّرَفَيْنِ ثُمَّ يَدَعَ
+> الْوَسَطَ إِذْ كَانَتِ الصَّلاَةُ عَلَى مُحَمَّدٍ وَآلِهِ لاَ تُحْجَبُ
+> عَنْهُ.
 
 *Whoever wishes a request to be granted by Almighty Allah, should begin
 his supplication by invoking blessings upon the Holy Prophet and his
@@ -197,12 +165,8 @@ having his/her supplication responded.[^13]
 expressions like the following words ten times at least before
 submitting the request:
 
-<blockquote dir="rtl">
-  <p>
-يَا اللَهُ يَا رَبِّ يَا سَيِّدَاهُ يَا رَحْمٰنُ يَا رَحِيمُ يَا
-اَرْحَمَ ٱلرَّاحِمِينَ.
-  </p>
-</blockquote>
+> يَا اللَهُ يَا رَبِّ يَا سَيِّدَاهُ يَا رَحْمٰنُ يَا رَحِيمُ يَا
+> اَرْحَمَ ٱلرَّاحِمِينَ.
 
 *O Allah! O my Sustainer! O my Lord! O All-beneficent! O All-merciful! O
 Most Merciful of all those who show mercy!*
@@ -216,13 +180,9 @@ request.”[^14]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ تَبَارَكَ وَتَعَالَى يَعْلَمُ مَا يُرِيدُ الْعَبْدُ إِذَا
-دَعَاهُ، وَلَكِنَّهُ يُحِبُّ أَنْ تُبَثَّ إِلَيْهِ الْحَوَائِجُ،
-فَإِذَا دَعَوْتَ فَسَمِّ حَاجَتَكَ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ تَبَارَكَ وَتَعَالَى يَعْلَمُ مَا يُرِيدُ الْعَبْدُ إِذَا
+> دَعَاهُ، وَلَكِنَّهُ يُحِبُّ أَنْ تُبَثَّ إِلَيْهِ الْحَوَائِجُ،
+> فَإِذَا دَعَوْتَ فَسَمِّ حَاجَتَكَ.
 
 *Allah, the Blessed and Exalted, does know what His servant wants from
 Him; yet, He likes requests to be submitted verbally before Him.
@@ -239,11 +199,7 @@ confidential supplication is equal to seventy public ones.[^17]
 • While supplicating, a suppliant should surrender to Almighty Allah’s
 will by saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا شَاءَ ٱللَّهُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللَّهِ.
-  </p>
-</blockquote>
+> مَا شَاءَ ٱللَّهُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللَّهِ.
 
 *Only that which Allah wills shall come to pass. There is neither might
 nor power save with Allah.*
@@ -257,13 +213,9 @@ request.”[^18]
 violating the prohibitions of Almighty Allah. In this connection, it is
 reported that Imam al-Sadiq (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أَنْ يُسْتَجَابَ لَهُ دَعْوَتُهُ فَلْيُطِبْ مَكْسَبَهُ،
-فَإِنَّ الرَّجُلَ يَرْفَعُ اللُّقْمَةَ إِلَى فِيهِ فَمَا يُسْتَجَابُ
-لَهُ دَعْوَةُ أَرْبَعِينَ يَوْماً.
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أَنْ يُسْتَجَابَ لَهُ دَعْوَتُهُ فَلْيُطِبْ مَكْسَبَهُ،
+> فَإِنَّ الرَّجُلَ يَرْفَعُ اللُّقْمَةَ إِلَى فِيهِ فَمَا يُسْتَجَابُ
+> لَهُ دَعْوَةُ أَرْبَعِينَ يَوْماً.
 
 *Whoever wishes to have his supplication responded to should seek legal
 earnings only, for a single illegally-earned morsel that is raised to
@@ -280,11 +232,7 @@ together all his women and children. As he supplicated, they would say
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الدَّاعِي وَالْمُؤَمِّنُ شَرِيكَانِ.
-  </p>
-</blockquote>
+> الدَّاعِي وَالْمُؤَمِّنُ شَرِيكَانِ.
 
 *The suppliant and the reciters of ‘Amen’ are partners (in the
 supplication and reward).*[^22]
@@ -294,11 +242,7 @@ his/her supplication and avoid supplicating for himself/herself
 exclusively. This is based on the following tradition that is reported
 from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-إِذَا دَعَا أَحَدُكُمْ فَلْيُعِمَّ فَإِنَّهُ أَوْجَبُ لِلدُّعَاءِ.
-  </p>
-</blockquote>
+> إِذَا دَعَا أَحَدُكُمْ فَلْيُعِمَّ فَإِنَّهُ أَوْجَبُ لِلدُّعَاءِ.
 
 *Whenever one of you supplicates, let him make his supplication general,
 because this makes the response more attainable.*[^23]
@@ -306,12 +250,8 @@ because this makes the response more attainable.*[^23]
 Other traditions have urged the supplicants to add the following prayer
 to their supplications, because this brings about a great reward:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ ٱغْفِرْ لِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ وَٱلْمُسْلِمِينَ
-وَٱلْمُسْلِمَاتِ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ ٱغْفِرْ لِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ وَٱلْمُسْلِمِينَ
+> وَٱلْمُسْلِمَاتِ.
 
 *O Allah, (please) forgive the believing men and women and the Muslim
 men and women.*[^24]
@@ -321,12 +261,8 @@ not supplicate for things that are improper, unwarranted or aberrant.
 
 In this respect, Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعَبْدَ يَكُونُ مَظْلُوماً فَلاَ يَزَالُ يَدْعُو حَتَّى
-يَكُونَ ظَالِماً.
-  </p>
-</blockquote>
+> إِنَّ الْعَبْدَ يَكُونُ مَظْلُوماً فَلاَ يَزَالُ يَدْعُو حَتَّى
+> يَكُونَ ظَالِماً.
 
 *A wronged servant (of Allah) may keep on imprecating evil on the
 wronging party so excessively that he himself turns into a
@@ -336,12 +272,8 @@ wrongdoer.*[^25]
 that he has seized illegally from others and to please all those whom he
 has wronged. In this regard, a tradition holds that Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَعِزَّتِي وَجَلاَلِي، لاَ أُجِيبُ دَعْوَةَ مَظْلُومٍ دَعَانِي فِي
-مَظْلَمَةٍ وَلأَِحَدٍ عِنْدَهُ مِثْلُ تِلْكَ الْمَظْلَمَةِ.
-  </p>
-</blockquote>
+> وَعِزَّتِي وَجَلاَلِي، لاَ أُجِيبُ دَعْوَةَ مَظْلُومٍ دَعَانِي فِي
+> مَظْلَمَةٍ وَلأَِحَدٍ عِنْدَهُ مِثْلُ تِلْكَ الْمَظْلَمَةِ.
 
 *By My Almightiness and Majesty I take this oath: I will never respond
 to the supplication of a wronged person with regard to the issue in
@@ -361,11 +293,7 @@ befalling of an ordeal.
 • A faithful believer should ask his brothers-in-faith to supplicate for
 him, since the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ شَيْءٌ أَسْرَعَ إِجَابَةٍ مِنْ دَعْوَةِ غَائِبٍ لِغَائِبٍ.
-  </p>
-</blockquote>
+> لَيْسَ شَيْءٌ أَسْرَعَ إِجَابَةٍ مِنْ دَعْوَةِ غَائِبٍ لِغَائِبٍ.
 
 *Nothing is swifter in response than the supplication of an absent
 person to another absent one.*[^27]
@@ -519,12 +447,8 @@ them and those who have had a hand in such wrongdoings
 
 In this connection, Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ أَبِي يَقُولُ: إِتَّقُوا دَعْوَةَ الْمَظْلُومِ فَإِنَّ دَعْوَةَ
-الْمَظْلُومِ تَصْعَدُ إِلَى السَّمَاءِ.
-  </p>
-</blockquote>
+> كَانَ أَبِي يَقُولُ: إِتَّقُوا دَعْوَةَ الْمَظْلُومِ فَإِنَّ دَعْوَةَ
+> الْمَظْلُومِ تَصْعَدُ إِلَى السَّمَاءِ.
 
 *My father used to say: Avoid the imprecation of the wronged, because it
 directly ascends to the heavens.*[^36]
@@ -590,12 +514,8 @@ community desire to change their conditions, they must first of all
 change what is in their inner selves. To this general rule, the Holy
 Qur’an has referred, saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا
-بِأَنْفُسِهِمْ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا
+> بِأَنْفُسِهِمْ
 
 ***Surely, Allah does not change the condition of a people until they
 change their own condition. (13:11)***
@@ -668,13 +588,9 @@ Imam al-Sadiq (‘a) spent that whole night in worship, standing up and
 prostrating. At the last hour of that night, he said this imprecation in
 his prostration:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي أَسْأَلُكَ بِقُوَّتِكَ الْقَوِيَّةِ وَبِمَحَالِكَ
-الشَّدِيدِ وَبِعِزَّتِكَ الَّتِي خَلْقُكَ لَهَا ذَيْلٌ أَنْ تُصَلِّيَ
-عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأَنْ تَأْخُذَهُ السَّاعَةَ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي أَسْأَلُكَ بِقُوَّتِكَ الْقَوِيَّةِ وَبِمَحَالِكَ
+> الشَّدِيدِ وَبِعِزَّتِكَ الَّتِي خَلْقُكَ لَهَا ذَيْلٌ أَنْ تُصَلِّيَ
+> عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأَنْ تَأْخُذَهُ السَّاعَةَ.
 
 *O Allah, I do beseech You in the name of Your powerful power, Your
 mighty prowess, and Your Almightiness to which all Your creatures are
@@ -770,12 +686,8 @@ not find any single person accepting to do it.”[^42]
 According to another validly reported tradition, Imam al-Sadiq (‘a) said
 to Abu-Ja’far Muhammad ibn al-Nu’man:
 
-<blockquote dir="rtl">
-  <p>
-خَاصِمُوهُمْ وَبَيِّنُوا لَهُمُ الْهُدَى الَّذِي أَنْتُمْ عَلَيْهِ
-وَبَاهِلُوهُمْ فِي عَلِيٍّ عَلَيْهِ السَّلاَمُ.
-  </p>
-</blockquote>
+> خَاصِمُوهُمْ وَبَيِّنُوا لَهُمُ الْهُدَى الَّذِي أَنْتُمْ عَلَيْهِ
+> وَبَاهِلُوهُمْ فِي عَلِيٍّ عَلَيْهِ السَّلاَمُ.
 
 *Debate with them, show them the true guidance you are following, and
 challenge them to an invocation of curse with regard to the priority of
@@ -830,13 +742,9 @@ me that He may make me dispense with all His creatures.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ قَسَّمَ رِزْقَ مَنْ شَاءَ عَلَى يَدَيْ مَنْ شَاءَ،
-وَلَكِنْ سَلِ اللهَ أَنْ يُغْنِيَكَ عَنِ الْحَاجَةِ الَّتِي
-تَضْطَرُّكَ إِلَى لِئَامِ خَلْقِهِ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ قَسَّمَ رِزْقَ مَنْ شَاءَ عَلَى يَدَيْ مَنْ شَاءَ،
+> وَلَكِنْ سَلِ اللهَ أَنْ يُغْنِيَكَ عَنِ الْحَاجَةِ الَّتِي
+> تَضْطَرُّكَ إِلَى لِئَامِ خَلْقِهِ.
 
 *Verily, Allah has put the sustenance of him whom He willed in the hands
 of others whom* *He willed. Yet, you should pray to Him to help you
@@ -895,11 +803,7 @@ In this regard, Sayyid Ibn Tawus, quoting Sa’d ibn ‘Abdullah in his book
 of *Du’a'*, has reported that when Zurarah asked Imam al-Sadiq (‘a) to
 teach him a supplication, the Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَفْضَلَ الدُّعَاءِ مَا جَرَى عَلَى لِسَانِكَ.
-  </p>
-</blockquote>
+> إِنَّ أَفْضَلَ الدُّعَاءِ مَا جَرَى عَلَى لِسَانِكَ.
 
 *The best of supplications are those which you compose of your own
 accord.*[^49]
@@ -923,24 +827,16 @@ supplication he should say in the *Qunut* and *Tashahhud*.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ بِأَحْسَنَ مَا عَلِمْتَ، فَإِنَّهُ لَوْ كَانَ مُوَقَّتاً لَهَلَكَ
-النَّاسُ.
-  </p>
-</blockquote>
+> قُلْ بِأَحْسَنَ مَا عَلِمْتَ، فَإِنَّهُ لَوْ كَانَ مُوَقَّتاً لَهَلَكَ
+> النَّاسُ.
 
 *You should say the best thing you know. If there were certain formulas
 to be said, then all people would be destroyed.*[^51]
 
 According to another tradition, the Imam (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كَانُوا كَمَا يَقُولُونَ وَاجِباً عَلَى النَّاسِ هَلَكُوا.
-إِنَّمَا كَانَ الْقَوْمُ يَقُولُونَ أَيْسَرَ مَا يَعْلَمُونَ.
-  </p>
-</blockquote>
+> لَوْ كَانُوا كَمَا يَقُولُونَ وَاجِباً عَلَى النَّاسِ هَلَكُوا.
+> إِنَّمَا كَانَ الْقَوْمُ يَقُولُونَ أَيْسَرَ مَا يَعْلَمُونَ.
 
 *Had it been obligatory upon people to say a certain formula of
 supplication, they all would be destroyed. However, the people used to
@@ -1020,21 +916,13 @@ About this condition, a part of a supplication reads:
 although perhaps slowing down may be a blessing in disguise because You
 alone know the consequences of all matters.*
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ اَبْطَاَ عَنِّي عَتَبْتُ بِجَهْلِي عَلَيْكَ وَلَعَلَّ ٱلَّذِي
-اَبْطَاَ عَنِّي هُوَ خَيْرٌ لِي لِعِلْمِكَ بِعَاقِبَةِ ٱلاُمُورِ.
-  </p>
-</blockquote>
+> فَإِنْ اَبْطَاَ عَنِّي عَتَبْتُ بِجَهْلِي عَلَيْكَ وَلَعَلَّ ٱلَّذِي
+> اَبْطَاَ عَنِّي هُوَ خَيْرٌ لِي لِعِلْمِكَ بِعَاقِبَةِ ٱلاُمُورِ.
 
 Referring to this fact too, the Holy Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-عَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ
-تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ
-  </p>
-</blockquote>
+> عَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ
+> تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ
 
 ***It may be that you dislike a thing while it is good for you and it
 may be that you love a thing while it is evil for you. (2:216)***
@@ -1050,30 +938,26 @@ improper about it.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَحْمَدُ، إِيَّاكَ وَالشَّيْطَانَ أَنْ يَكُونَ لَهُ عَلَيْكَ
-سَبِيلٌ حَتَّى يُقَنِّطَكَ. إِنَّ أَبَا جَعْفَرٍ صَلَوَاتُ اللهِ
-عَلَيْهِ كَانَ يَقُولُ: إِنَّ الْمُؤْمِنَ يَسْأَلُ اللهَ عَزَّ وَجَلَّ
-حَاجَةً فَيُؤَخَّرُ عَنْهُ تَعْجِيلُ إِجَابَتِهِ حُبّاً لِصَوْتِهِ
-وَاسْتِمَاعِ نَحِيبِهِ. وَاللهِ مَا أَخَّرَ اللهُ عَزَّ وَجَلَّ عَنِ
-الْمُؤْمِنِينَ مَا يَطْلِبُونَ مِنْ هَذِهِ الدُّنْيَا خَيْرٌ لَهُمْ
-مِمَّا عَجَلَ لَهُمْ فِيهَا، وَأَيُّ شَيْءٍ الدُّنْيَا؟ إِنَّ أَبَا
-جَعْفَرٍ عَلَيْهِ السَّلاَمُ كَانَ يَقُولُ: يَنْبَغِي لِلْمُؤْمِنِ
-أَنْ يَكُونَ دُعَاؤُهُ فِي الرَّخَاءِ نَحْواً مِنْ دُعَائِهِ فِي
-الشِّدَّةِ، لَيْسَ إِذَا أُعْطِيَ فَتَرَ، فَلاَ تَمَلَّ الدُّعَاءَ
-فَإِنَّهُ مِنَ اللهِ عَزَّ وَجَلَّ بِمَكَانِش. وَعَلَيْكَ بِالصَّبْرِ
-وَطَلَبِ الْحَلاَلِ وَصِلَةِ الرَّحِمِ، وَإِيَّاكَ وَمُكَاشَفَةَ
-النَّاسِ فَإِنَّا أَهْلَ الْبَيْتِ نَصِلُ مَنْ قَطَعَنَا وَنُحْسِنُ
-إِلَى مَنْ أَسَاءَ إِلَيْنَا، فَنَرَى وَاللهِ فِي ذَلِكَ الْعَاقِبَةَ
-الْحَسَنَةَ. إِنَّ صَاحِبَ النِّعْمَةِ فِي الدُّنْيَا إِذَا سَأَلَ
-فَأُعْطِيَ طَلَبَ غَيْرَ الَّذِي سَأَلَ وَصَغُرَتِ النِّعْمَةُ فِي
-عَيْنِهِ فَلاَ يَشْبَعُ مِنْ شَيْءٍ، وَإِذَا كَثُرَتِ النِّعَمُ كَانَ
-الْمُسْلِمُ مِنْ ذَلِكَ عَلَى خَطَرٍ لِلْحُقُوقِ الَّتِي تَجِبُ
-عَلَيْهِ وَمَا يَخَافُ مِنَ الْفِتْنَةِ فِيهَا. أَخْبِرْنِي عَنْكَ،
-لَوْ أَنِّي قُلْتُ لَكَ قَوْلاً أَكُنْتَ تَثِقُ بِهِ مِنِّي؟
-  </p>
-</blockquote>
+> يَا أَحْمَدُ، إِيَّاكَ وَالشَّيْطَانَ أَنْ يَكُونَ لَهُ عَلَيْكَ
+> سَبِيلٌ حَتَّى يُقَنِّطَكَ. إِنَّ أَبَا جَعْفَرٍ صَلَوَاتُ اللهِ
+> عَلَيْهِ كَانَ يَقُولُ: إِنَّ الْمُؤْمِنَ يَسْأَلُ اللهَ عَزَّ وَجَلَّ
+> حَاجَةً فَيُؤَخَّرُ عَنْهُ تَعْجِيلُ إِجَابَتِهِ حُبّاً لِصَوْتِهِ
+> وَاسْتِمَاعِ نَحِيبِهِ. وَاللهِ مَا أَخَّرَ اللهُ عَزَّ وَجَلَّ عَنِ
+> الْمُؤْمِنِينَ مَا يَطْلِبُونَ مِنْ هَذِهِ الدُّنْيَا خَيْرٌ لَهُمْ
+> مِمَّا عَجَلَ لَهُمْ فِيهَا، وَأَيُّ شَيْءٍ الدُّنْيَا؟ إِنَّ أَبَا
+> جَعْفَرٍ عَلَيْهِ السَّلاَمُ كَانَ يَقُولُ: يَنْبَغِي لِلْمُؤْمِنِ
+> أَنْ يَكُونَ دُعَاؤُهُ فِي الرَّخَاءِ نَحْواً مِنْ دُعَائِهِ فِي
+> الشِّدَّةِ، لَيْسَ إِذَا أُعْطِيَ فَتَرَ، فَلاَ تَمَلَّ الدُّعَاءَ
+> فَإِنَّهُ مِنَ اللهِ عَزَّ وَجَلَّ بِمَكَانِش. وَعَلَيْكَ بِالصَّبْرِ
+> وَطَلَبِ الْحَلاَلِ وَصِلَةِ الرَّحِمِ، وَإِيَّاكَ وَمُكَاشَفَةَ
+> النَّاسِ فَإِنَّا أَهْلَ الْبَيْتِ نَصِلُ مَنْ قَطَعَنَا وَنُحْسِنُ
+> إِلَى مَنْ أَسَاءَ إِلَيْنَا، فَنَرَى وَاللهِ فِي ذَلِكَ الْعَاقِبَةَ
+> الْحَسَنَةَ. إِنَّ صَاحِبَ النِّعْمَةِ فِي الدُّنْيَا إِذَا سَأَلَ
+> فَأُعْطِيَ طَلَبَ غَيْرَ الَّذِي سَأَلَ وَصَغُرَتِ النِّعْمَةُ فِي
+> عَيْنِهِ فَلاَ يَشْبَعُ مِنْ شَيْءٍ، وَإِذَا كَثُرَتِ النِّعَمُ كَانَ
+> الْمُسْلِمُ مِنْ ذَلِكَ عَلَى خَطَرٍ لِلْحُقُوقِ الَّتِي تَجِبُ
+> عَلَيْهِ وَمَا يَخَافُ مِنَ الْفِتْنَةِ فِيهَا. أَخْبِرْنِي عَنْكَ،
+> لَوْ أَنِّي قُلْتُ لَكَ قَوْلاً أَكُنْتَ تَثِقُ بِهِ مِنِّي؟
 
 *O Ahmad, beware of letting Satan have a way against you that he may
 make you lose hope! Abu-Ja’far (al-Baqir), Allah’s blessings be upon
@@ -1114,12 +998,8 @@ The Imam (‘a) said:
 > فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ(186)"
 > وَقَالَ: " لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ(53)" وَقَالَ: "اللَّهُ
 > يَعِدُكُمْ مَغْفِرَةً مِنْهُ وَفَضْلًا(268)" فَكُنْ بِاللهِ عَزَّ
-<blockquote dir="rtl">
-  <p>
-وَجَلَّ أَوْثَقَ مِنْكَ بِغَيْرِهِ، وَلاَ تَجْعَلُوا فِي أَنْفُسِكُمْ
-إِلاَّ خَيْراً فَإِنَّهُ مَغْفُورٌ لَكُمْ.
-  </p>
-</blockquote>
+> وَجَلَّ أَوْثَقَ مِنْكَ بِغَيْرِهِ، وَلاَ تَجْعَلُوا فِي أَنْفُسِكُمْ
+> إِلاَّ خَيْراً فَإِنَّهُ مَغْفُورٌ لَكُمْ.
 
 *Thus, you should trust Almighty Allah more than anyone else, for He
 promises (to respond to your supplications). Is it not that He, the
@@ -1370,5 +1250,4 @@ number 22.
 [^52]: - Sayyid al-Borujerdi, Jami\` Ahadith al-Shi\`ah 5:335, H. 26.
 
 [^53]: - Shaykh al-Kulayni, al-Kafi 2:448, H. 1.
-
 

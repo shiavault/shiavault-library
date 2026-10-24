@@ -29,4 +29,3 @@ provides favours, offers help and is merciful towards him.
 upon me and on my parents, that I may do righteousness such as will
 please You.*
 
-

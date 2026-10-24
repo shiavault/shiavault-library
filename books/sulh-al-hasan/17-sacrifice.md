@@ -541,4 +541,3 @@ doctrines through them.
 Anwar, vol. 10, p. 116. Concerning these debates, see the book \`Nahj
 al-Balagha' by the author.
 
-

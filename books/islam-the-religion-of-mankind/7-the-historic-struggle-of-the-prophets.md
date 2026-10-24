@@ -82,4 +82,3 @@ Sura Ankabut (29:69)
 the believers is ever incumbent upon Us."
 Sura Rum (30:47)
 
-

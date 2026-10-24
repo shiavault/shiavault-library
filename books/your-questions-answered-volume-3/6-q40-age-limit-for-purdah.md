@@ -212,4 +212,3 @@ There are some other differences but this much is sufficient for all
 practical purposes. People nowadays see no harm in committing adultery;
 but are shy of taking advantage of the permissions given by Sheriat.
 
-

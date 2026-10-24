@@ -3,12 +3,8 @@ A Bad Name and Family
 
 ( Verse 11 )
 
-<blockquote dir="rtl">
-  <p>
-...وَلاٌ تَنٌابَزُوا بِالأَلْقٌابِ بِئْسَ الإِسْمُ الْفُسُوقُ بَعْدَ
-الإِيـمٌانِ وَمَنْ لَّمْ يَتُبْ فَأُوْلٌئِكَ هُمُ الظٌّالِمُونَ
-  </p>
-</blockquote>
+> ...وَلاٌ تَنٌابَزُوا بِالأَلْقٌابِ بِئْسَ الإِسْمُ الْفُسُوقُ بَعْدَ
+> الإِيـمٌانِ وَمَنْ لَّمْ يَتُبْ فَأُوْلٌئِكَ هُمُ الظٌّالِمُونَ
 
 **“** …***and do not defame one another by using bad names. How bad it
 is after having true faith that a person (does these acts) but does not
@@ -50,11 +46,7 @@ names or titles as a form of violation of the rights of another human
 being and has referred to a person who performs this act as being an
 oppressor and tyrant and by saying:
 
-<blockquote dir="rtl">
-  <p>
-...وَمَنْ لَّمْ يَتُبْ فَأُوْلٌئِكَ هُمُ الظٌّالِمُونَ
-  </p>
-</blockquote>
+> ...وَمَنْ لَّمْ يَتُبْ فَأُوْلٌئِكَ هُمُ الظٌّالِمُونَ
 
 ***“…and whoever does not turn in repentance (back to Allah) is surely
 of those who are the oppressors.”***
@@ -71,12 +63,8 @@ to move away from itself?” This thought of his affected his soul to such
 an extent, that he composed this line of poetry in relation to what he
 saw:
 
-<blockquote dir="rtl">
-  <p>
-أَرَبٌّ يَـبُولُ الثَّعْلَبَانُ بِرَأْسِهِ لَقَدْ ذَلَّ مَنْ بَالَتْ
-عَلَيهِ الثَّعَالِبُ
-  </p>
-</blockquote>
+> أَرَبٌّ يَـبُولُ الثَّعْلَبَانُ بِرَأْسِهِ لَقَدْ ذَلَّ مَنْ بَالَتْ
+> عَلَيهِ الثَّعَالِبُ
 
 *“Is a stone idol who is being urinated upon by a fox one to be
 worshipped?*  
@@ -225,5 +213,4 @@ choose a good job or profession for him.”
 فَقٌالَ: أَيِّ الأَسْمٌاءِ هُوَ؟ قٌالَ عَبْدُ الرَّحْمٌنِ “Name (your
 children) with the name of servitude and worship (to Allah). They said,
 “And what name is this?” He said, “\`Abdul Rahman.”
-
 

@@ -76,4 +76,3 @@ becomes **أبَويّ.** If a feminine *tā'* replaces the erased letter, it
 will be erased and the original letter will be brought back, for
 example: **سنة** becomes **سنويّ.**
 
-

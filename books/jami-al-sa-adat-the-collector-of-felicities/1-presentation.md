@@ -23,4 +23,3 @@ spiritual human values, we thought the effort worthwhile to condense
 this valuable work into few short articles for the benefit of those who
 may not have access to the contents of the original Arabic text.
 
-

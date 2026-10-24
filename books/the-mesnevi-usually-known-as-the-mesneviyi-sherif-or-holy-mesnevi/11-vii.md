@@ -1620,4 +1620,3 @@ notes to the present tale, distich [^230]:
 
 m137:7 Joseph is held to have been most superlatively beautiful.
 
-

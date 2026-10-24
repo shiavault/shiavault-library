@@ -12,12 +12,8 @@ from Allah.
 
 Imam As-Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-ليس يتبع الرجل بعدموته من الاجر الاثلث خصال: صدقة اجراها في حيوته وهى
-ترجى بعدموته وسنة هدى سنها فهى يعمل بها بعدموته او ولد صالح يدعوله.
-  </p>
-</blockquote>
+> ليس يتبع الرجل بعدموته من الاجر الاثلث خصال: صدقة اجراها في حيوته وهى
+> ترجى بعدموته وسنة هدى سنها فهى يعمل بها بعدموته او ولد صالح يدعوله.
 
 *“After a man dies, he can still rewards from Allah in three different
 ways:*
@@ -42,5 +38,4 @@ to succeed in doing my best in fulfilling my obligations to you; and to
 make both of you absolutely happy with me.
 
 [^1]: Wafi part 13, p. 90
-
 

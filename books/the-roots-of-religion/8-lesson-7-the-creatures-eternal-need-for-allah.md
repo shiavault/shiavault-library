@@ -114,4 +114,3 @@ who is not so?
 12. According the above verse whom has the power to replace one nation
 by another?
 
-

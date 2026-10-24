@@ -491,4 +491,3 @@ food will nourish him and that his bank will honour his cheques so long
 as his account is in funds, while rejecting all those that he finds
 inconvenient. This, however, is altogether too naive a procedure. [^9]
 
-

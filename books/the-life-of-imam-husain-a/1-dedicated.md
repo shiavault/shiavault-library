@@ -46,4 +46,3 @@ have made; and that is the mighty achievement.*[2]***  
 **[1]** Surah Anbiya 21:73  
  **[2]**Surah Taubah 9:111
 
-

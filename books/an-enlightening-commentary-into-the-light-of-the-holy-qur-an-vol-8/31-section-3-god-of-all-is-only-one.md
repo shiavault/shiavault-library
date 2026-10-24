@@ -4,12 +4,8 @@ Section 3: God of all is only One
 Surah An-Nahl – Verse 22
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَالَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ
-قُلُوبُهُم مُنكِرَةٌ وَهُم مُسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَالَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ
+> قُلُوبُهُم مُنكِرَةٌ وَهُم مُسْتَكْبِرُونَ
 
 ***22. “Your God is One God. Hence, those who do not believe in the
 Hereafter, their hearts are repulsive, and they are arrogant.”***
@@ -58,12 +54,8 @@ engaging in eating, then he said:
 Surah An-Nahl – Verse 23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ جَرَمَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
-إِنَّهُ لاَ يُحِبُّ الْمُسْتَكْبِرِينَ
-  </p>
-</blockquote>
+> لاَ جَرَمَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+> إِنَّهُ لاَ يُحِبُّ الْمُسْتَكْبِرِينَ
 
 ***23. “Undoubtedly Allah does know that which they conceal and that
 which they reveal. Verily He does not love the arrogant.”***
@@ -101,12 +93,8 @@ The verse says:
 Surah An-Nahl – Verse 24
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ قَالُوا أَسَاطِيرُ
-الاَوَّلِينَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ قَالُوا أَسَاطِيرُ
+> الاَوَّلِينَ
 
 ***24. “And when they are asked: ‘What has your Lord sent down?’ They
 say: ‘The legends of the ancients’.”***
@@ -159,13 +147,9 @@ entire nation.
 Surah An-Nahl – Verse 25
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَحْمِلُوا أَوْزَارَهُمْ كَامِلَةً يَوْمَ الْقِيَامَةِ وَمِنْ
-أَوْزَارِ الَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ أَلاَ سَآءَ مَا
-يَزِرُونَ
-  </p>
-</blockquote>
+> لِيَحْمِلُوا أَوْزَارَهُمْ كَامِلَةً يَوْمَ الْقِيَامَةِ وَمِنْ
+> أَوْزَارِ الَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ أَلاَ سَآءَ مَا
+> يَزِرُونَ
 
 ***25. “That they must bear their burdens entirely on the Day of
 Resurrection and (also) some of the burdens of those whom they lead
@@ -205,5 +189,4 @@ ignorance cannot serve as an excuse and does not acquit one from the
 punishment for his guilt.
 
 [^1]: Nūr-uth-Thaqalayn, the commentary, vol. 3, p. 47
-
 

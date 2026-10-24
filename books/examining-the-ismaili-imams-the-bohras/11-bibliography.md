@@ -49,4 +49,3 @@ Questions & suggestions for improvement of the book may also be sent to
 the following address:
 <oneayahaweek@gmail.com>
 
-

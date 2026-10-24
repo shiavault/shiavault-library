@@ -50,7 +50,6 @@ indicate that all the Imams are Mahdi: However there was only one whose
 particular qualities and condition pointed to, and that was the twelfth
 Imam.
 
-
 **9. The Shia Doctrine and Ideology**
 
 The writer says that the conflicts, which confronted Bani Ommiya,
@@ -638,5 +637,4 @@ and His Prophet (SAW) where is the falsehood? An Imam is not a prophet
 or a prophet God. Stations are known; positions are prescribed; status
 stated; ambit is put there to avoid the ambition; so how can deception
 creep in?
-
 

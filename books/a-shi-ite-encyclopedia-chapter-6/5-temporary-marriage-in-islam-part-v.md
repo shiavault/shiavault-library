@@ -87,7 +87,6 @@ Also "spreading Islam" could be another goal for marriage. In this
 case, however, the temporary marriage is less risky than the permanent
 marriage. And there are many more reasons and goals for marriage.
 
-
 **Mut'a vs. Alcohol**
 
 To justify the practice of Mut'a at the time of the Prophet (PBUH&HF),
@@ -383,5 +382,4 @@ established Sunnah of the Prophet, we just ignore it.
 
 In Parts VI through VIII, we will discuss the regulations of Mut'a in
 detail, Insha Allah.
-
 

@@ -59,4 +59,3 @@ category to which certain events are regarded as historical or
 non-historical. The writer is wrong. The birth of the twelfth Imam was
 history in itself as well as a historical event.
 
-

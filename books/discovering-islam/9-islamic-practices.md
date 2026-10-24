@@ -763,4 +763,3 @@ associating with unbelievers, tyrants, and enemies of God and humankind.
 
 [^6]: Kanzal-Ummal, v.6 p.31.
 
-

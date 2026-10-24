@@ -19,4 +19,3 @@ forgoing bias. However, to get rid of bias, itself requires good sense
 given by Allah, which is a great bounty bestowed by Allah on whomsoever
 He wishes.
 
-

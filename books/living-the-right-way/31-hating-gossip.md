@@ -36,4 +36,3 @@ soothsayer, the hypocrite, the habitual drunkard and the talebearer.”*
 He (a.s.) also said: *“Surely the talebearer is a raise witness and a
 companion of Satan in muting corruption among people.”*
 
-

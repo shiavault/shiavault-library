@@ -200,4 +200,3 @@ death. The Prophet had said about him "May God bless Abu Zar! he will
 live alone, will die alone and shall be brought up alone on the Day of
 Resurrection."
 
-

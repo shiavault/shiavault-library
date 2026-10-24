@@ -138,4 +138,3 @@ upheld.
  3.  A Muslim can inherit a non-Muslim;  the latter does not inherit the
 Muslim.
 
-

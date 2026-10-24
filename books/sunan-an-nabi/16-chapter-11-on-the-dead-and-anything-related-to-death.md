@@ -66,21 +66,13 @@ while he was facing the Qiblah.[^9]
 10. From Shahid al-Thani in Musakkin al-Fu’ad: From ‘Ali (as): When the
 Noble Prophet (S) gave condolence he would say:
 
-<blockquote dir="rtl">
-  <p>
-آجَرَكُمُ اللٌّهُ وَرَحِمَكُمْ.
-  </p>
-</blockquote>
+> آجَرَكُمُ اللٌّهُ وَرَحِمَكُمْ.
 
 *“May Allah recompense you and have mercy on you”*
 
 And when he congratulated someone he would say:
 
-<blockquote dir="rtl">
-  <p>
-بَارَكَ اللٌّهُ لَكُمْ وَ بَارَكَ َاللٌّهُ عَلَيْكُمْ
-  </p>
-</blockquote>
+> بَارَكَ اللٌّهُ لَكُمْ وَ بَارَكَ َاللٌّهُ عَلَيْكُمْ
 
 *“May Allah bless you and keep you blessed.”*[^10]
 
@@ -108,12 +100,8 @@ used to visit the sick and attend the funeral processions.[^12]
 ‘Ali (as) who said: When the Noble Prophet (S) visited a sick person he
 would say:
 
-<blockquote dir="rtl">
-  <p>
-أَذْهِبِ الْبَأْسَ رَبَّ الْبَأْسِ وَاشْفِ أَنْتَ الشَّافِي لاَ
-شَافِيَ إِلاَّ أَنْتَ.
-  </p>
-</blockquote>
+> أَذْهِبِ الْبَأْسَ رَبَّ الْبَأْسِ وَاشْفِ أَنْتَ الشَّافِي لاَ
+> شَافِيَ إِلاَّ أَنْتَ.
 
 *“Remove the affliction O Lord of affliction, and cure him for You are
 the Healer, there is no other Healer but You.”*[^13]
@@ -125,13 +113,9 @@ Holy Prophet (S) or someone from his family or (close) companions was
 afflicted with inflammation in the eyes, he would recite the following
 supplication:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ مَتِّعْنِي بِسَمْعِي وَ بَصَرِي وَ اجْعَلْهُمَا
-الْوَارِثَـيْنِ مِنِّي وَانْصُرْنِي عَلـى مَنْ ظَلَمَنِي وَ أَرِنِي
-فِيهِ ثَأْرِي.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ مَتِّعْنِي بِسَمْعِي وَ بَصَرِي وَ اجْعَلْهُمَا
+> الْوَارِثَـيْنِ مِنِّي وَانْصُرْنِي عَلـى مَنْ ظَلَمَنِي وَ أَرِنِي
+> فِيهِ ثَأْرِي.
 
 *“O Allah! Cause me to enjoy my hearing and my sight and make them
 continue with me until the day I die, and help me (to gain victory) over
@@ -140,12 +124,8 @@ the one who oppresses me and take my vengeance from him.”*[^15]
 4. In al-Makarim: From Ibn ‘Abbas who said: The Holy Prophet (S) would
 teach us (to recite this) for all types of pains, fever and headache:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الْكَبِيرِ. أَعُوذُ بِاللٌّهِ الْعَظِيمِ مِنْ شَرِّ
-كُلِّ عِرْقٍ نَعَّارٍ وَ مِنْ شَرِّ حَرِّ النَّارِ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الْكَبِيرِ. أَعُوذُ بِاللٌّهِ الْعَظِيمِ مِنْ شَرِّ
+> كُلِّ عِرْقٍ نَعَّارٍ وَ مِنْ شَرِّ حَرِّ النَّارِ.
 
 *“In the name of Allah the Great. I seek refuge with Allah the Almighty
 from the evil of all that gushes in the veins and from the evil of the
@@ -158,12 +138,8 @@ something, he would take recourse in fasting and prayer.[^17]
 befell the Holy Prophet (S), he would stand, perform ablution, and pray
 two rak’ahs and say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ قَدْ فَعَلْتُ مَا أَمَرْتَنَا فَأَنْجِزْلَنَا مَا
-وَعَدْتَنَا.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ قَدْ فَعَلْتُ مَا أَمَرْتَنَا فَأَنْجِزْلَنَا مَا
+> وَعَدْتَنَا.
 
 *O Allah! I have done as you commanded, so fulfill for us what you have
 promised us.*[^18]
@@ -244,13 +220,9 @@ dust in his hand for some time and then threw it and he never threw more
 than three handfuls. So I asked him about this. He replied: “O ‘Umar! I
 was saying:
 
-<blockquote dir="rtl">
-  <p>
-}إِيْمَانًا وَ تَصْدِيقاً بِبَعْثِكَ هٌذَا مَا وَعَدَ اللٌّهُ
-وَرَسُولَهُ وَ صَدَقَ اللٌّهُ وَ رَسُولُهُ وَ مَا زَادَهُمْ إِلاَّ
-إِيـمَاناً وَ تَسْلِيماً.{
-  </p>
-</blockquote>
+> }إِيْمَانًا وَ تَصْدِيقاً بِبَعْثِكَ هٌذَا مَا وَعَدَ اللٌّهُ
+> وَرَسُولَهُ وَ صَدَقَ اللٌّهُ وَ رَسُولُهُ وَ مَا زَادَهُمْ إِلاَّ
+> إِيـمَاناً وَ تَسْلِيماً.{
 
 ***“(O Allah!) I believe and confirm that you will resurrect (all human
 beings); ‘ ... this is what Allah and his Prophet promised and Allah and
@@ -377,5 +349,4 @@ Amali al-Tusi 2:272
 [^38]: al-Kafi 3:217
 
 [^39]: al-Faqih 1:182
-
 

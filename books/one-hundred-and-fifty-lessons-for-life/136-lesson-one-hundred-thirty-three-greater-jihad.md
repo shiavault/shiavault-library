@@ -3,11 +3,7 @@ Lesson One Hundred Thirty Three: Greater Jihad
 
 Imam Hasan Al-’Askari (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-أَشَدُّ النّاسِ اِجْتِهاداً مَنْ تَرَكَ الذُّنُوبَ
-  </p>
-</blockquote>
+> أَشَدُّ النّاسِ اِجْتِهاداً مَنْ تَرَكَ الذُّنُوبَ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ were actually the direct result of purification of souls and spiritual
 struggles of his companions.
 
 [^1]: Bihar al-Anwar, volume 78, page 373
-
 

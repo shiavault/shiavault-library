@@ -174,12 +174,8 @@ Every time there has to be an Imam who is acceptable to people and
 people follow him in every matter, considering him as an authority
 between themselves and Allah.
 
-<blockquote dir="rtl">
-  <p>
-رُّسُلاً مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلاَّ يَكُونَ لِلنَّاسِ عَلَى
-اللّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللّهُ عَزِيزًا حَكِيمًا
-  </p>
-</blockquote>
+> رُّسُلاً مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلاَّ يَكُونَ لِلنَّاسِ عَلَى
+> اللّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللّهُ عَزِيزًا حَكِيمًا
 
 ***(We sent) apostles as the givers of good news and as warners, so that
 people should not have a plea against Allah after the (coming of)
@@ -187,15 +183,11 @@ apostles; and Allah is Mighty, Wise.*** [^10]
 
 Elsewhere the *Holy Quran* maintains:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَنتُم بِالْعُدْوَةِ الدُّنْيَا وَهُم بِالْعُدْوَةِ الْقُصْوَى
-وَالرَّكْبُ أَسْفَلَ مِنكُمْ وَلَوْ تَوَاعَدتَّمْ لاَخْتَلَفْتُمْ فِي
-الْمِيعَادِ وَلَـكِن لِّيَقْضِيَ اللّهُ أَمْراً كَانَ مَفْعُولاً
-لِّيَهْلِكَ مَنْ هَلَكَ عَن بَيِّنَةٍ وَيَحْيَى مَنْ حَيَّ عَن
-بَيِّنَةٍ وَإِنَّ اللّهَ لَسَمِيعٌ عَلِيم
-  </p>
-</blockquote>
+> إِذْ أَنتُم بِالْعُدْوَةِ الدُّنْيَا وَهُم بِالْعُدْوَةِ الْقُصْوَى
+> وَالرَّكْبُ أَسْفَلَ مِنكُمْ وَلَوْ تَوَاعَدتَّمْ لاَخْتَلَفْتُمْ فِي
+> الْمِيعَادِ وَلَـكِن لِّيَقْضِيَ اللّهُ أَمْراً كَانَ مَفْعُولاً
+> لِّيَهْلِكَ مَنْ هَلَكَ عَن بَيِّنَةٍ وَيَحْيَى مَنْ حَيَّ عَن
+> بَيِّنَةٍ وَإِنَّ اللّهَ لَسَمِيعٌ عَلِيم
 
 ***When you were on the nearer side (of the valley) and they were on the
 farthest side, while the caravan was in a lower place than you; and if
@@ -207,15 +199,11 @@ surely Allah is Hearing, Knowing.*** [^11]
 
 *Quran* again says:
 
-<blockquote dir="rtl">
-  <p>
-سَيَقُولُ الَّذِينَ أَشْرَكُواْ لَوْ شَاء اللّهُ مَا أَشْرَكْنَا وَلاَ
-آبَاؤُنَا وَلاَ حَرَّمْنَا مِن شَيْءٍ كَذَلِكَ كَذَّبَ الَّذِينَ مِن
-قَبْلِهِم حَتَّى ذَاقُواْ بَأْسَنَا قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ
-فَتُخْرِجُوهُ لَنَا إِن تَتَّبِعُونَ إِلاَّ الظَّنَّ وَإِنْ أَنتُمْ
-إَلاَّ تَخْرُصُونَ.
-  </p>
-</blockquote>
+> سَيَقُولُ الَّذِينَ أَشْرَكُواْ لَوْ شَاء اللّهُ مَا أَشْرَكْنَا وَلاَ
+> آبَاؤُنَا وَلاَ حَرَّمْنَا مِن شَيْءٍ كَذَلِكَ كَذَّبَ الَّذِينَ مِن
+> قَبْلِهِم حَتَّى ذَاقُواْ بَأْسَنَا قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ
+> فَتُخْرِجُوهُ لَنَا إِن تَتَّبِعُونَ إِلاَّ الظَّنَّ وَإِنْ أَنتُمْ
+> إَلاَّ تَخْرُصُونَ.
 
 ***Those who are polytheists will say: If Allah had pleased we would not
 have associated (aught with Him) nor our fathers, nor would we have
@@ -252,11 +240,7 @@ and Sunnis alike.
 
 Muslims unanimously agree that the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من مات و لم یعرف امام زمانه مات میته جاهلیه
-  </p>
-</blockquote>
+> من مات و لم یعرف امام زمانه مات میته جاهلیه
 
 **He who dies without knowing the imam of his time dies the death of
 ignorance.**
@@ -274,11 +258,7 @@ guidance from him.
 In his *Musnad*, Ahmad for example quotes the Holy Prophet (S) as having
 said:
 
-<blockquote dir="rtl">
-  <p>
-من مات بغیر امام مات میته جاهلیه
-  </p>
-</blockquote>
+> من مات بغیر امام مات میته جاهلیه
 
 **He who dies without having an imam dies the death of ignorance.**
 [^14]
@@ -288,22 +268,14 @@ Tabarani in his *al-Mu'ajam al-Kabir*.
 
 Ibn Hayyan in his *Sahih* maintains:
 
-<blockquote dir="rtl">
-  <p>
-من مات و لیس له امام مات میته جاهلیه
-  </p>
-</blockquote>
+> من مات و لیس له امام مات میته جاهلیه
 
 **He who dies without having an imam dies the death of ignorance.**
 [^15]
 
 There are also books that have added something to this tradition saying:
 
-<blockquote dir="rtl">
-  <p>
-من مات و لم یعرف امام زمانه فلیمت ان شاء یهودیا و ان شاء نصرانیا
-  </p>
-</blockquote>
+> من مات و لم یعرف امام زمانه فلیمت ان شاء یهودیا و ان شاء نصرانیا
 
 **He who dies without knowing the imam of his time should die as he
 wishes – as a Jew or as a Christian.** [^16]
@@ -354,11 +326,7 @@ As the night fell, he went to Hajjaj's house. He knocked at his door,
 entered his house and asked Hajjaj to accept his allegiance. Addressing
 Hajjaj, he said that he had heard the Holy Prophet (S) say:
 
-<blockquote dir="rtl">
-  <p>
-من مات و لا امام له مات میته جاهلیه
-  </p>
-</blockquote>
+> من مات و لا امام له مات میته جاهلیه
 
 He who dies without having an imam dies the death of ignorance.
 
@@ -390,12 +358,8 @@ which
 he had heard from the Holy Prophet (S). He said he had heard the Holy
 Prophet (S) say:
 
-<blockquote dir="rtl">
-  <p>
-من خلع یدا من طاعه لقی الله یوم القیامه لا حجه له و من مات و لیس فی
-عنقه بیعه مات میته جاهلیه.
-  </p>
-</blockquote>
+> من خلع یدا من طاعه لقی الله یوم القیامه لا حجه له و من مات و لیس فی
+> عنقه بیعه مات میته جاهلیه.
 
 He who gives up obeying [his imam] will meet Allah on the Day of
 Judgment without having any authority. He who dies without paying
@@ -427,13 +391,9 @@ the authority between themselves and Allah.
 In a tradition that is accepted by Shias and Sunnis alike, Imam Ali
 (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-ِ اللَّهُمَّ بَلَى لَا تَخْلُو الْأَرْضُ مِنْ قَائِمٍ لِلَّهِ
-بِحُجَّةٍ إِمَّا ظَاهِراً مَشْهُوراً وَ إِمَّا خَائِفاً مَغْمُوراً
-لِئَلَّا تَبْطُلَ حُجَجُ اللَّهِ وَ بَيِّنَاتُه
-  </p>
-</blockquote>
+> ِ اللَّهُمَّ بَلَى لَا تَخْلُو الْأَرْضُ مِنْ قَائِمٍ لِلَّهِ
+> بِحُجَّةٍ إِمَّا ظَاهِراً مَشْهُوراً وَ إِمَّا خَائِفاً مَغْمُوراً
+> لِئَلَّا تَبْطُلَ حُجَجُ اللَّهِ وَ بَيِّنَاتُه
 
 But this earth will never be without those persons who will prove the
 universality of truth as disclosed by Allah, they may be well-known
@@ -445,13 +405,9 @@ by His Prophet may not totally disappear. [^20]‏
 
 Speaking in this regard, Ibn Hajar says:
 
-<blockquote dir="rtl">
-  <p>
-و فی صلاه عیسی علیه السلام خلف رجل من هذه الامه مع کونه فی آخر الزمان
-و قرب قیام الساعه دلاله للصحیح من الاقوال ان الارض لا تخلو من قائم لله
-بحجه
-  </p>
-</blockquote>
+> و فی صلاه عیسی علیه السلام خلف رجل من هذه الامه مع کونه فی آخر الزمان
+> و قرب قیام الساعه دلاله للصحیح من الاقوال ان الارض لا تخلو من قائم لله
+> بحجه
 
 The fact that Prophet Isa offers prayer after a man belonging to this
 community and the fact that he is in the end of the world and is close
@@ -497,13 +453,9 @@ various variations.
 Using his own chain of reporters, Ahmad bin Hanbal narrates from Zaid
 bin Thabit who quotes the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-انی تارک فیکم خلیفتین: کتاب الله حبل ممدود ما بین السماء و الارض او ما
-بین السماء الی الارض و عترتی اهل بیتی و انهما لن یفترقا حتی یردا علی
-الحوض
-  </p>
-</blockquote>
+> انی تارک فیکم خلیفتین: کتاب الله حبل ممدود ما بین السماء و الارض او ما
+> بین السماء الی الارض و عترتی اهل بیتی و انهما لن یفترقا حتی یردا علی
+> الحوض
 
 *I have left two successors: Allah's book which is a stretched rope
 between the heaven and earth (or from heaven to earth) and my progeny
@@ -517,12 +469,8 @@ Ansari as saying: "During performing hajj rituals on 'Arafa day I heard
 the Holy Prophet (S) who was sitting on the back of his quswa
 camel[^24], say:
 
-<blockquote dir="rtl">
-  <p>
-ایها الناس! قد ترکت فیکم ما ان اخدذتم به لن تضلوا: کتاب الله و عترتی
-اهل بیتی
-  </p>
-</blockquote>
+> ایها الناس! قد ترکت فیکم ما ان اخدذتم به لن تضلوا: کتاب الله و عترتی
+> اهل بیتی
 
 *O people! I have left something among you to which as long as you hold
 fast, you will never go astray: Allah’s Book and my progeny (my
@@ -531,12 +479,8 @@ family)*. [^25]
 Using his chain of transmitters, Ibn Abi Shayba, author of al-Mussanaf,
 quotes Jabir bin Abdullah Ansari as saying:
 
-<blockquote dir="rtl">
-  <p>
-انی ترکت فیکم ما لن تضلوا بعدی ان اعتصمتم به: کتاب الله و عترتی اهل
-بیتی
-  </p>
-</blockquote>
+> انی ترکت فیکم ما لن تضلوا بعدی ان اعتصمتم به: کتاب الله و عترتی اهل
+> بیتی
 
 *I have left some things among you to which as long as you hold fast you
 will never go astray: Allah’s Book and my progeny (my family).*
@@ -546,13 +490,9 @@ will never go astray: Allah’s Book and my progeny (my family).*
 Ibn Sa'ad Ahmad bin Hanbal and Tabarani have narrated from Abu Sa'eed
 Khidri who quotes the Holy Prophet as having said:
 
-<blockquote dir="rtl">
-  <p>
-یا ایها الناس! انی تارک فیکم ما ان اخذتم به لن تضلوا بعدی امرین احدهما
-اکبر من الاخر: کتاب الله حبل ممدود ما بین السماء و الارض و عترتی اهل
-بیتی و انهما لن یتفرقا حتی یردا علی الحوض
-  </p>
-</blockquote>
+> یا ایها الناس! انی تارک فیکم ما ان اخذتم به لن تضلوا بعدی امرین احدهما
+> اکبر من الاخر: کتاب الله حبل ممدود ما بین السماء و الارض و عترتی اهل
+> بیتی و انهما لن یتفرقا حتی یردا علی الحوض
 
 *O people! I have left two things to which if you hold fast you will not
 go astray; two things one of which is greater than the other. Allah's
@@ -565,13 +505,9 @@ they join me by the pool*.
 Relying on his own chain of reporters, Tirmidhi narrates from Zaid bin
 Arqam who quotes the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-انی تارک فیکم ما ان تمسکتم به لن تضلوا بعدی احدهما اعظم من الاخر: کتاب
-الله حبل ممدود من السماء الی الارض و عترتی اهل بیتی و لن یتفرقا حتی
-یردا علی الحوض فانظروا کیف تخلفونی فیهما
-  </p>
-</blockquote>
+> انی تارک فیکم ما ان تمسکتم به لن تضلوا بعدی احدهما اعظم من الاخر: کتاب
+> الله حبل ممدود من السماء الی الارض و عترتی اهل بیتی و لن یتفرقا حتی
+> یردا علی الحوض فانظروا کیف تخلفونی فیهما
 
 *I have left two things among to which if you hold fast you will not go
 astray after me; one of which is greater than the other. Allah's book
@@ -588,12 +524,8 @@ there his noon prayer. Afterwards, he delivered a speech in which he
 praised Allah and admonished people telling whatever he was ordered by
 Allah to tell. He then said:
 
-<blockquote dir="rtl">
-  <p>
-ایها الناس! انی تارک فیکم امرین لن تضلوا ان اتبعتموهما و هما کتاب الله
-و اهل بیتی عترتی
-  </p>
-</blockquote>
+> ایها الناس! انی تارک فیکم امرین لن تضلوا ان اتبعتموهما و هما کتاب الله
+> و اهل بیتی عترتی
 
 *O people! I have left two things among you to which if you adhere you
 will never go astray; These two things are Allah's book and my progeny
@@ -601,11 +533,7 @@ will never go astray; These two things are Allah's book and my progeny
 
 Thereupon he thrice said:
 
-<blockquote dir="rtl">
-  <p>
-ا تعلمون انی اولی بالمؤمنین من انفسهم؟
-  </p>
-</blockquote>
+> ا تعلمون انی اولی بالمؤمنین من انفسهم؟
 
 Do you know that I am closer to believers than their own selves.
 
@@ -613,11 +541,7 @@ People replied: Yes.
 
 Thereupon the Messenger of Allah said:
 
-<blockquote dir="rtl">
-  <p>
-من کنت مولاه فعلی مولاه
-  </p>
-</blockquote>
+> من کنت مولاه فعلی مولاه
 
 Of whomsoever I am a master then Ali is his master.
 
@@ -633,12 +557,8 @@ they reached Ghadir Khum. He ordered us to clean the place under the
 trees. It was extraordinarily hot. After praising Allah, the Apostle of
 Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-یا ایها الناس! انه لم یبعث نبی قط الا ما عاش نصف ما عاش الذی کان قبله
-و انی اوشک ان ادعی فاجیب و انی تارک فیکم ما لن تضلوا بعده کتاب الله.
-  </p>
-</blockquote>
+> یا ایها الناس! انه لم یبعث نبی قط الا ما عاش نصف ما عاش الذی کان قبله
+> و انی اوشک ان ادعی فاجیب و انی تارک فیکم ما لن تضلوا بعده کتاب الله.
 
 O people! No prophet has come except that he has lived as long as half
 of what his predecessor lived. Soon I will be invited and I will accept
@@ -647,11 +567,7 @@ will never go astray. That is Allah's book.
 
 Thereupon he stood up and taking Ali's hand, he said:
 
-<blockquote dir="rtl">
-  <p>
-یا ایها الناس! من اولی بکم من انفسکم؟
-  </p>
-</blockquote>
+> یا ایها الناس! من اولی بکم من انفسکم؟
 
 O people! Who is closer to you than your own selves?
 
@@ -659,11 +575,7 @@ They replied: Allah and His Messenger know better.
 
 Thereupon the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من کنت مولاه فعلی مولاه
-  </p>
-</blockquote>
+> من کنت مولاه فعلی مولاه
 
 Of whomsoever I am a master Ali is his master.
 
@@ -677,12 +589,8 @@ Narrating this tradition from Zaid bin Arqam, Tabarani says: On Juhfa
 day the Holy Prophet (S) dismounted his camel. Turning his face towards
 people he after praising Allah said:
 
-<blockquote dir="rtl">
-  <p>
-انی لا اجد لنبی الا نصف عمر الذی قبله و انی اوشک ان ادعی فاجیب فما
-انتم قائلون؟
-  </p>
-</blockquote>
+> انی لا اجد لنبی الا نصف عمر الذی قبله و انی اوشک ان ادعی فاجیب فما
+> انتم قائلون؟
 
 I have not found any prophet living except half of the time of his
 predecessor. Soon I will be invited and I will accept the invitation.
@@ -692,12 +600,8 @@ They said: You were benevolent.
 
 The Apostle of Allah said:
 
-<blockquote dir="rtl">
-  <p>
-ا لیس تشهدون ان لا اله الا الله و ان محمدا عبده و رسوله و ان الجنه حق
-و النار حق و ان البعث بعد الموت حق؟
-  </p>
-</blockquote>
+> ا لیس تشهدون ان لا اله الا الله و ان محمدا عبده و رسوله و ان الجنه حق
+> و النار حق و ان البعث بعد الموت حق؟
 
 Don't you testify that there is no god except Allah, Muhammad is His
 servant and messenger, Hell is true, Heaven is true and that
@@ -707,33 +611,21 @@ They said they testified they were true.
 
 Thereupon he placed his hand on his chest saying:
 
-<blockquote dir="rtl">
-  <p>
-و انا اشهد معکم
-  </p>
-</blockquote>
+> و انا اشهد معکم
 
 And I testify with you as well.
 
 Then he said:
 
-<blockquote dir="rtl">
-  <p>
-ا لا تسمعون؟
-  </p>
-</blockquote>
+> ا لا تسمعون؟
 
 Do you listen to my words?
 
 They answered in the positive. Thereafter he said:
 
-<blockquote dir="rtl">
-  <p>
-فانی فرطکم علی الحوض و انتم واردون علی الحوض و ان عرضه ابعد ما بین
-صنعاء و بصری فیه اقداح عدد النجوم من فضه فانظروا کیف تخلفونی فی
-الثقلین.
-  </p>
-</blockquote>
+> فانی فرطکم علی الحوض و انتم واردون علی الحوض و ان عرضه ابعد ما بین
+> صنعاء و بصری فیه اقداح عدد النجوم من فضه فانظروا کیف تخلفونی فی
+> الثقلین.
 
 I will reach the pool before you and you will join me over there. The
 width of the pool is wider than the distance between San'a and Busra.
@@ -745,14 +637,10 @@ mean from Thaqalain?
 
 The Messenger of Allah said:
 
-<blockquote dir="rtl">
-  <p>
-کتاب الله طرف بید الله عز و جل و طرف بایدکم فاستمسکوا به و لا تضلوا و
-الاخر عترتی و ان اللطیف الخبیر نبأنی انهما لن یتفرقا حتی یردا علی
-الحوض و سألت ذلک لهما ربی. فلا تقدموهما فتهلکوا و لا تقصروا عنهما
-فتهلکوا و لا تعلموهم فانهم اعلم منکم
-  </p>
-</blockquote>
+> کتاب الله طرف بید الله عز و جل و طرف بایدکم فاستمسکوا به و لا تضلوا و
+> الاخر عترتی و ان اللطیف الخبیر نبأنی انهما لن یتفرقا حتی یردا علی
+> الحوض و سألت ذلک لهما ربی. فلا تقدموهما فتهلکوا و لا تقصروا عنهما
+> فتهلکوا و لا تعلموهم فانهم اعلم منکم
 
 The first is Allah's book whose one end is in Allah's hand and the other
 in yours. Adhere to it and do not go astray. The second is my progeny.
@@ -765,11 +653,7 @@ progeny as they are more knowledgeable than you are.
 
 Thereupon he took Ali's hand and said:
 
-<blockquote dir="rtl">
-  <p>
-من کنت اولی به من نفسه فعلی ولیه اللهم وال من والاه و عاد من عاداه
-  </p>
-</blockquote>
+> من کنت اولی به من نفسه فعلی ولیه اللهم وال من والاه و عاد من عاداه
 
 To whomsoever I am closer than his own self, Ali is his master. O Allah!
 Befriend those who befriend him and antagonize those who antagonize him.
@@ -779,13 +663,9 @@ Religious scholars are of the view that this tradition contains the Holy
 Prophet's last will. Ibn Hajar Makki says that this issue has appeared
 in several traditions including the following:
 
-<blockquote dir="rtl">
-  <p>
-انی تارک فیکم ما ان تمسکتم به لن تضلوا بعدی الثقلین احدهما اعظم من
-الاخر: کتاب الله حبل ممدود من السماء الی الارض و عتری اهل بیتی و لن
-یفترقا حتی یردا علی الحوض فانظروا کیف تخلفونی فیهما
-  </p>
-</blockquote>
+> انی تارک فیکم ما ان تمسکتم به لن تضلوا بعدی الثقلین احدهما اعظم من
+> الاخر: کتاب الله حبل ممدود من السماء الی الارض و عتری اهل بیتی و لن
+> یفترقا حتی یردا علی الحوض فانظروا کیف تخلفونی فیهما
 
 *I have left two things among you to which if you hold fast you will not
 go astray after me; one of which is greater than the other. Allah's book
@@ -816,11 +696,7 @@ after the Holy Prophet (S) passed away."[^32]
 
 Moreover a variation of Thaqalain tradition contains:
 
-<blockquote dir="rtl">
-  <p>
-اوصیکم بکتاب الله و عترتی
-  </p>
-</blockquote>
+> اوصیکم بکتاب الله و عترتی
 
 I ask you to adhere to Allah's book and my progeny. [^33]
 
@@ -836,11 +712,7 @@ the security of the inhabitants of the earth. The tradition mentioned
 proves what we have claimed. The Holy Prophet, somewhere in his speech,
 said:
 
-<blockquote dir="rtl">
-  <p>
-فی کل خلف من امتی عدول من اهل بیتی
-  </p>
-</blockquote>
+> فی کل خلف من امتی عدول من اهل بیتی
 
 In every generation of my community, there is a very just person from my
 progeny. [^34]
@@ -866,12 +738,8 @@ those who do not know about Allah's book. These scholars are always in
 the company of the Holy Quran until they join the Holy Prophet (S) by
 the pool. That is why he said:
 
-<blockquote dir="rtl">
-  <p>
-فلا تقدموهما فتهلکوا و لا تقصروا عنهما فتهلکوا و لا تعلموهم فانهم اعلم
-منکم
-  </p>
-</blockquote>
+> فلا تقدموهما فتهلکوا و لا تقصروا عنهما فتهلکوا و لا تعلموهم فانهم اعلم
+> منکم
 
 Thus do not surpass the Holy Quran and my progeny as otherwise you will
 perish and do not fail to pay attention to them as otherwise you will
@@ -887,11 +755,7 @@ Prophet's conduct and life style. Such type of Prophet's relatives have
 thus the same authority Allah's book has. It is due to this that the
 *Holy Quran* maintains[^38]:
 
-<blockquote dir="rtl">
-  <p>
-و یعلمهم الکتاب و الحکمه
-  </p>
-</blockquote>
+> و یعلمهم الکتاب و الحکمه
 
 ***he teaches them the Book and wisdom*** .[^39]
 
@@ -899,13 +763,9 @@ In his commentary, Nizam al-Din Nayshaburi, relying on Thaqalain
 tradition maintains that Prophet's progeny includes his heirs and
 successors. Commenting on
 
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ تَكْفُرُونَ وَأَنْتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ
-وَفِيكُمْ رَسُولُهُ وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ
-صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَكَيْفَ تَكْفُرُونَ وَأَنْتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ
+> وَفِيكُمْ رَسُولُهُ وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ
+> صِرَاطٍ مُسْتَقِيمٍ
 
 ***But how can you disbelieve while it is you to whom the communications
 of Allah are recited and among you is His Apostle? And whoever holds
@@ -939,23 +799,15 @@ said that nobody had asked him about this issue ever since he had gone
 to Iraq. Thereupon he said: "Yes, we asked about this from the Holy
 Prophet (S) and he said:
 
-<blockquote dir="rtl">
-  <p>
-اثنی عشر کعده نقباء بنی اسرائیل
-  </p>
-</blockquote>
+> اثنی عشر کعده نقباء بنی اسرائیل
 
 They are like the guardians of the children of Israel, twelve people.
 [^42]
 
 Muslim Nayshaburi also narrates a tradition which is as under:
 
-<blockquote dir="rtl">
-  <p>
-لا یزال الدین قائما حتی تقوم الساعه او یکون علیکم اثنا عشر خلیفه کلهم
-من قریش
-  </p>
-</blockquote>
+> لا یزال الدین قائما حتی تقوم الساعه او یکون علیکم اثنا عشر خلیفه کلهم
+> من قریش
 
 This religion will remain stable until the Day of Judgment or until
 twelve people who are all from Quraysh tribe, rule you. [^43]
@@ -963,11 +815,7 @@ twelve people who are all from Quraysh tribe, rule you. [^43]
 In his *Sahih*, Bukhari narrates from Jabir bin Samara who quotes the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-یکون اثنا عشر امیرا
-  </p>
-</blockquote>
+> یکون اثنا عشر امیرا
 
 There will twelve rulers. Thereupon he said something which I did not
 hear. My father said: The Holy Prophet said: All these rulers belong to
@@ -990,11 +838,7 @@ Though Ahmad bin Hanbal, Abu Dawood, Tirmidhi and others have narrated
 this tradition using various wordings, we suffice to relating it from
 Ahmad's *Musnad*. He quotes the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لا تقوم الساعه حتی یلی رجل من اهل بیتی یواطی اسمه اسمی
-  </p>
-</blockquote>
+> لا تقوم الساعه حتی یلی رجل من اهل بیتی یواطی اسمه اسمی
 
 There will be no Resurrection Day until a man from my progeny whose name
 corresponds my name appears. [^45]
@@ -1002,11 +846,7 @@ corresponds my name appears. [^45]
 Commenting on Mahid's reappearance, Ibn Maja says that Ali (a.s) quotes
 the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-المهدی منا اهل البیت یصلحه الله فی لیله
-  </p>
-</blockquote>
+> المهدی منا اهل البیت یصلحه الله فی لیله
 
 Mahdi whom Allah makes dominant overnight is a member of us the
 ahlulbayt. [^46]
@@ -1014,12 +854,8 @@ ahlulbayt. [^46]
 Ahmad bin Hanbal also relates a tradition from Abu Sa'eed Khidri who
 quotes the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لا تقوم الساعه حتی تمتلی الارض ظلما و عدوانا. قال: ثم یخرج رجل من
-عترتی او من اهل بیتی یملاها قسطا و عدلا کما ملئت ظلما و عدوانا
-  </p>
-</blockquote>
+> لا تقوم الساعه حتی تمتلی الارض ظلما و عدوانا. قال: ثم یخرج رجل من
+> عترتی او من اهل بیتی یملاها قسطا و عدلا کما ملئت ظلما و عدوانا
 
 There will be no Resurrection Day until the land is filled with
 injustice and oppression. Thereupon a man from my progeny or my
@@ -1048,11 +884,7 @@ Abu Dawood, Ibn Maja and others say, using different wordings, that Um
 Salama says that she has heard the Holy Prophet (S) commenting on Mahdi,
 say:
 
-<blockquote dir="rtl">
-  <p>
-المهدی من عترتی من ولد فاطمه
-  </p>
-</blockquote>
+> المهدی من عترتی من ولد فاطمه
 
 Mahdi is a member of my progeny and one of the descendants of Fatima
 (a.s). [^51]
@@ -1060,11 +892,7 @@ Mahdi is a member of my progeny and one of the descendants of Fatima
 Hakim Nayshaburi and Zahabi have narrated from Sa'eed bin Musayyib from
 Um Salama who says she heard the Holy Prophet commenting on Mahdi, say:
 
-<blockquote dir="rtl">
-  <p>
-نعم هو حق و هو من بنی فاطمه
-  </p>
-</blockquote>
+> نعم هو حق و هو من بنی فاطمه
 
 Yes he is (the manifestation of) truth and is from the progeny of Fatima
 (a.s).[^52]
@@ -1081,12 +909,8 @@ Imam Husayn (a.s). Below are three specimens of such traditions:
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لو لم یبق من الدنیا الا یوم واحد لطول الله عزو جل ذلک الیوم حتی یبعث
-فیه رجلا من ولدی اسمه اسمی
-  </p>
-</blockquote>
+> لو لم یبق من الدنیا الا یوم واحد لطول الله عزو جل ذلک الیوم حتی یبعث
+> فیه رجلا من ولدی اسمه اسمی
 
 If there were only one day left for the world, that day would be
 lengthened until a man (Hazrat Mahdi) from among my children, who is my
@@ -1105,14 +929,10 @@ al-Muhriqa* have mentioned this tradition in their books.[^54]
 During the last days of his life, the Holy Prophet (S), addressing his
 daughter, Fatima (a.s), said:
 
-<blockquote dir="rtl">
-  <p>
-ما یبکیک یا فاطمه! اما علمت ان الله اطلع الی الارض اطلاعه فاختار منها
-اباک فبعثه نبیا ثم اطلع ثانیه فاختار بعلک فاوحی الی فانکحته ایاک و
-اتخدته وصیا اما علمت انک بکرامه الله ایاک زوجک اعلمهم علما و اکثرهم
-حلما و اقدمهم سلما
-  </p>
-</blockquote>
+> ما یبکیک یا فاطمه! اما علمت ان الله اطلع الی الارض اطلاعه فاختار منها
+> اباک فبعثه نبیا ثم اطلع ثانیه فاختار بعلک فاوحی الی فانکحته ایاک و
+> اتخدته وصیا اما علمت انک بکرامه الله ایاک زوجک اعلمهم علما و اکثرهم
+> حلما و اقدمهم سلما
 
 O Fatima! Why do you weep? Do you not know that when Allah looked at the
 inhabitants of earth for the first time He chose your father as prophet
@@ -1125,11 +945,7 @@ knowledgeable and forbearing?
 Thereupon Fatima laughed and was happy. In order to make her happier,
 the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-و منا مهدی الامه الذی یصلی عیسی خلفه
-  </p>
-</blockquote>
+> و منا مهدی الامه الذی یصلی عیسی خلفه
 
 And from among us is the Mahdi of this community, after whom Jesus
 offers his prayer.
@@ -1144,12 +960,8 @@ Abu Abdullah Ganji and Ibn Sabbagh Maliki.[^55]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-یخرج المهدی من ولد الحسین من قبل المشرق لو استقبلته الجبال لهدمها و
-اتخذ فیها طرقا
-  </p>
-</blockquote>
+> یخرج المهدی من ولد الحسین من قبل المشرق لو استقبلته الجبال لهدمها و
+> اتخذ فیها طرقا
 
 Mahdi who is from the offspring of Husayn will rise from the east. If
 mountains block his way he will destroy them making his way through
@@ -1402,5 +1214,4 @@ Faraed al-Samtin, vol. 2, p. 325 and al-Sawaeq al-Muhriqa, p. 249.
 [^56]: Al-Fitan, vol. 1, p. 171, 'Aqd al-Durar fi Akhbar al-Muntazar, p.
 282. For further information see, al-Havi fi al-Fatawa, vol. 2, p. 66.
 This source has narrated this tradition from Ibn Asakir.
-
 

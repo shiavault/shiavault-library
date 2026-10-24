@@ -213,7 +213,5 @@ digestion, it became mind, spirit and useful thought. Again, when the
 mind was bewildered with love, what a surprise this cultivation had
 been!"
 
-
 Wassalam.
-
 

@@ -136,14 +136,10 @@ new capital has been placed in his hands: if we did not wake up from
 sleep and the soul left our bodies for ever, would our life not come to
 an end?
 
-<blockquote dir="rtl">
-  <p>
-اللهُ يَتَوَفَّی الأَنْفُسَ حِينَ مَوْتِهَا وَالَّتي لَمْ تَمُتْ فِي
-مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَی عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
-الأُخْرَی إِلی أَجَلٍ مُسَمَّی إِنَّ فِي ذَلِكَ‌ لأَيَاتٍ لِقَوْمٍ
-يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> اللهُ يَتَوَفَّی الأَنْفُسَ حِينَ مَوْتِهَا وَالَّتي لَمْ تَمُتْ فِي
+> مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَی عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
+> الأُخْرَی إِلی أَجَلٍ مُسَمَّی إِنَّ فِي ذَلِكَ‌ لأَيَاتٍ لِقَوْمٍ
+> يَتَفَكَّرُونَ
 
 ***“Allah takes the souls at the time of their death, and those that die
 not during their sleep; then He withholds those on whom He has passed
@@ -367,13 +363,9 @@ capable man and falsely prides himself on being this and that. In spite
 of the fact, everyday he is declining and in the end he falls in the pit
 of decadence and ill fate:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ‌ هَلْ‌ نُنَبِّئُكُمْ بِالأَخْسَرِينَ أَعْمَالاً‌ \* الَّذِينَ
-ضَلَّ سَعْيُهُمْ فِي الْحَيَوةِ الدُّنْيا وَهُمْ‌ يَحْسَبُونَ
-أَنَّهُمْ‌ يُحْسِنُونَ صُنْعًا
-  </p>
-</blockquote>
+> قُلْ‌ هَلْ‌ نُنَبِّئُكُمْ بِالأَخْسَرِينَ أَعْمَالاً‌ \* الَّذِينَ
+> ضَلَّ سَعْيُهُمْ فِي الْحَيَوةِ الدُّنْيا وَهُمْ‌ يَحْسَبُونَ
+> أَنَّهُمْ‌ يُحْسِنُونَ صُنْعًا
 
 ***“Say, ‘Shall We inform you of the greatest losers in their deeds?
 These are those whose labor is lost in this world’s life and they think
@@ -440,11 +432,7 @@ there is nothing which remains hidden from Him.”
 
 In regard to the weighing of deeds, Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ...
-  </p>
-</blockquote>
+> وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ...
 
 ***“And the measuring out on that Day will be just…”***[^8]
 
@@ -512,11 +500,7 @@ does not conceive the manner of the presence and embodiment of works,
 but on the basis of our religious beliefs, the embodiment of deeds has
 been proved:
 
-<blockquote dir="rtl">
-  <p>
-... وَوَجَدُوا مَا عَمِلُوا حَاضِرًا...
-  </p>
-</blockquote>
+> ... وَوَجَدُوا مَا عَمِلُوا حَاضِرًا...
 
 ***“…and what they had done they shall find present there…”***[^9]
 
@@ -525,12 +509,8 @@ and it is not possible to interpret the verse otherwise and in addition
 to this verse, other verses also have explained the embodiment of deeds;
 amongst them:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
-عَمِلَتْ مِنْ سُوءٍ...
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
+> عَمِلَتْ مِنْ سُوءٍ...
 
 ***“On the day that every soul shall find present what it has done of
 good and what it has done of evil…”***[^10]
@@ -850,5 +830,4 @@ does not get contaminated by sin.
 [^10]: Surat Al ‘Imran 3:30.
 
 [^11]: Bihar al-Anwar, vol. 16, p. 230.
-
 

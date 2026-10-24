@@ -170,4 +170,3 @@ Words of Wisdom
 
 Holy Prophet (S)
 
-

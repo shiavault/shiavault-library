@@ -115,4 +115,3 @@ we must put forward Moula Ali (as)’s saying “He who thinks religion is
 only for superficial purposes or only for debate is not a student of
 religion”.
 
-

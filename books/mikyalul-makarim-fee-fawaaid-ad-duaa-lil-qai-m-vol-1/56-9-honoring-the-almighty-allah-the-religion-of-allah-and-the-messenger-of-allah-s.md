@@ -77,11 +77,7 @@ Eminence, Qaim (aj) is also in the same way.
 
 The Almighty Allah has said about the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ***“Surely We have revealed the Reminder and We will most surely be its
 guardian.” (Qur’an, Surah Hijr 15:9)***
@@ -128,5 +124,4 @@ The Holy Qur’an would intercede on Judgment Day for those who recite it;
 the Qaim (aj) would also intercede for his followers.
 
 At the end of the book we would discuss this matter in further detail.
-
 

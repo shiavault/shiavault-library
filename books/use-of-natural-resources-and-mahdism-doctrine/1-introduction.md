@@ -76,4 +76,3 @@ use behavior, and 4) To explore how closely the Mahdvi doctrine affects
 the theoretical basis as well as practical aspects of natural resource
 use patterns.
 
-

@@ -73,4 +73,3 @@ expressed desire not to have any publicity of their names.
 **S. V. Mir Ahmed Ali**
 **Karachi, 11- 6 - 1964**
 
-

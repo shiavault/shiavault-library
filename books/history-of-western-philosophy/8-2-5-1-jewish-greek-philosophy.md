@@ -61,7 +61,6 @@ as a transcendent being, the dualism of God and world, the idea of
 revealed and mystical knowledge of God, asceticism and world denial, the
 belief in intermediary beings, demons and angels.
 
-
 **2.6 The Decline Of Greek Philosophy**
 
 **2.6.1 The closing of the school at Athens**
@@ -122,5 +121,4 @@ with Augustine]
 The Scholastic Period: of philosophical construction devoted to the
 elaboration of a philosophy in which the subject matter and guiding
 principles were determined by "dogma".
-
 

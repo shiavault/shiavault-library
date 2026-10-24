@@ -64,10 +64,8 @@ immediate work in India, East Africa, and London, he will turn full time
 to work in this continent and include us in his regular lecture programs
 across the world.
 
-
 Noel Q. King
 Professor of History
 and Comparative Religion, Merrill College,
 University of California, Santa Cruz.
-
 

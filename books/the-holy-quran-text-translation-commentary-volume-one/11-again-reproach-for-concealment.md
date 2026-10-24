@@ -558,4 +558,3 @@ observe them, and in particular the young Muslims were not able of
 self-control in sexual relations. Allah pardoned them and alleviated
 their boredom by revealing the verse No. 187.
 
-

@@ -1,8 +1,8 @@
 ( the Wajibat of the Salat )
 ============================
 
-### <span style="font-style: normal">There are eleven things that are Wajib in Salat:  
-  </span>
+### There are eleven things that are Wajib in Salat:  
+  
 
 <table>
 <colgroup>
@@ -24,7 +24,7 @@
 ( The Pillars of the Salat )
 ============================
 
-### <span style="font-style: normal">The Pillars (Arkan) of the Salat are five:</span>
+### The Pillars (Arkan) of the Salat are five:
 
 1. Intention (Niyyat)  
  2. Saying of the Takbiratul Ihram (Allahu Akbar to begin the Salat).  

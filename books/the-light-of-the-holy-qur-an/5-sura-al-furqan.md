@@ -10,8 +10,6 @@ Volume 11
 [Transliteration of Arabic
 Letters](../../light_12/025/%22../jadval.htm%22)
 
-  
-
 Section 1: The Apostle Muhammad
 
 [Commentary verse 1](01.htm)

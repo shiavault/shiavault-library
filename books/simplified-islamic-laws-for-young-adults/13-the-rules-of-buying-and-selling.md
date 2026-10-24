@@ -69,4 +69,3 @@ Issue 405: If after a transaction, one notices a defect in the product
 and right away does not cancel the transaction, then later on, one does
 not have the right to break the transaction.
 
-

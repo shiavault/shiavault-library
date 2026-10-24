@@ -71,4 +71,3 @@ of mind against such incidents.
 
 [^2]: Surah Anam 6:80
 
-

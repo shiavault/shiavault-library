@@ -9,4 +9,3 @@ son heard the conversation and in the morning went and told Muhammad Ibn
 Al Ash'ath who then told ‘Ubayd Allah Ibn Zyad. Shortly after the news
 of Muslim's whereabouts broke, Taw'a's house was surrounded!
 
-

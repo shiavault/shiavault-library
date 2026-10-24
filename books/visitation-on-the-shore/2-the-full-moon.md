@@ -89,4 +89,3 @@ My heart, then, flew like a bird. I was ecstatic. I took the Imam's
 hands in my own and kissed them. I thanked God for having met His last
 proof on earth.
 
-

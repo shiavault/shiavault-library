@@ -1,18 +1,10 @@
 Suratul Fatiha: Verses 6-7
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-(٦) اهدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> (٦) اهدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
 
-<blockquote dir="rtl">
-  <p>
-(٧) صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ
-عَلَيْهِمْ وَلاَ الضَّالِّينَ
-  </p>
-</blockquote>
+> (٧) صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ
+> عَلَيْهِمْ وَلاَ الضَّالِّينَ
 
 ***Guide us to the straight path (6),***
 
@@ -970,5 +962,4 @@ except where it becomes necessary for the explanation of a verse or for
 some reasoning or discussion.
 
 [^1]: As may be seen in the verses 36:60-62, quoted above.
-
 

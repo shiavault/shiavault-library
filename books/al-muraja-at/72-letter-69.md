@@ -72,4 +72,3 @@ while his head was on my thigh," this exists in another chapter in which
 the author discusses his sickness and demise without an intervening
 chapter.
 
-

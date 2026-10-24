@@ -44,4 +44,3 @@ detailed knowledge of coming events). And then on the happening of
 particular events, the appropriate verses of the Qur'an, already in
 existence, were revealed from time to time.
 
-

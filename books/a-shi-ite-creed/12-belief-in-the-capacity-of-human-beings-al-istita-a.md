@@ -58,4 +58,3 @@ capacity (Mu\`tazilites, Shi\`ites) -and apparently al-Qummi takes the
 last position. MC, art. 128 (art. 15). 157, 266; BHA, nos. 115 -122,
 particularly 119. Tawhid, 277 - 284.
 
-

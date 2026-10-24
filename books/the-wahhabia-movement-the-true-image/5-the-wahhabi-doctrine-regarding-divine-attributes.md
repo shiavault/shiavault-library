@@ -60,4 +60,3 @@ al- Sania, Part Four.
 
 [^5]: Cited by al-Shawkani in Fatih al-Qadeer, vol. 1, p. 272.
 
-

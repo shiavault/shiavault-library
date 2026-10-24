@@ -35,4 +35,3 @@ fired his question: “Why didn't he sue her?”
    
   
 
-

@@ -46,4 +46,3 @@ protect himself from sins. After the recitation of this Surah, the
 *qunut* is again recited but now only four times. Thereafter *ruku’*,
 *sajdah*, *tashahhud* and *Salaam* are done in the usual way.
 
-

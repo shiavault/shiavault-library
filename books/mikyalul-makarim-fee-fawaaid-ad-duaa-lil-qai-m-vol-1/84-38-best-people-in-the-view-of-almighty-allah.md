@@ -41,4 +41,3 @@ from the people of the earth, *Insha Allah Taala*.
 
 [^2]: Kafi; Vol. 2, Pg. 164
 
-

@@ -12,16 +12,12 @@ generations will be more perfect than the previous generations and will
 never fall into error.  
  The verses that we wanted to look at are as follows:
 
-<blockquote dir="rtl">
-  <p>
-) وَوَصَّيْنَا  الإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
-كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلاَثُونَ شَهْرًا
-حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
-أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ  الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَ الِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ  الْمُسْلِمِينَ (
-  </p>
-</blockquote>
+> ) وَوَصَّيْنَا  الإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
+> كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلاَثُونَ شَهْرًا
+> حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
+> أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ  الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَ الِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ  الْمُسْلِمِينَ (
 
 *“And We have enjoined on mankind kindness to his parents.  In pain did
 his mother bear him and in pain she gave him bith.  The carrying of the
@@ -44,11 +40,7 @@ for a righteous generation. 
  The first characteristic is that of a soul which is thankful and
 realizes the importance and worth of the blessing and gift of creation:
 
-<blockquote dir="rtl">
-  <p>
-) رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ  الَّتِي (
-  </p>
-</blockquote>
+> ) رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ  الَّتِي (
 
 *“…’O my Lord! grant me that I may be grateful for Your favours which
 You have bestowed upon me…”*
@@ -68,22 +60,14 @@ given the chance to act in a way that is beneficial to ourselves, to
 others and perform those things which would earn the pleasure of Allah
 (s.w.t.):
 
-<blockquote dir="rtl">
-  <p>
- ) وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ (
-  </p>
-</blockquote>
+>  ) وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ (
 
 *“…and that I may work righteousness such as You may approve…”*
 
 The third prayer is that we turn our attention to the future generation
 and ask Allah (s.w.t.) for their goodness and for them to be righteous:
 
-<blockquote dir="rtl">
-  <p>
-) وَأَصْلِحْ لِي فِي ذُرِّيَّتِي  (
-  </p>
-</blockquote>
+> ) وَأَصْلِحْ لِي فِي ذُرِّيَّتِي  (
 
 *“…and be gracious to through my progeny…”*
 
@@ -91,11 +75,7 @@ The fourth request made is that we are permitted to turn back towards
 Allah (s.w.t.) for the mistakes, slips and shortcomings which we
 performed in the past:
 
-<blockquote dir="rtl">
-  <p>
-) إِنِّي تُبْتُ إِلَيْكَ (
-  </p>
-</blockquote>
+> ) إِنِّي تُبْتُ إِلَيْكَ (
 
 *“…Truly I have turned to You…”*
 
@@ -105,24 +85,16 @@ the state of submission to the Truth and those things which Allah
 Islamic legislations.  It is through transgressing the limits set by
 Allah (s.w.t.) that leads to our destruction and annihilation:
 
-<blockquote dir="rtl">
-  <p>
-) وَإِنِّي مِنَ  الْمُسْلِمِينَ (
-  </p>
-</blockquote>
+> ) وَإِنِّي مِنَ  الْمُسْلِمِينَ (
 
 *“…and truly I am of the Muslims.”*[^2]*19*
 
 In relation to this generation mentioned above, it is then mentioned in
 the Qurʾan:
 
-<blockquote dir="rtl">
-  <p>
-) أُوْلَئِكَ  الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا
-وَنَتَجاوَزُ عَن سَيِّئَاتِهِمْ فِي أَصْحَابِ  الْجَنَّةِ وَعْدَ
- الصِّدْقِ  الَّذِي كَانُوا يُوعَدُونَ (
-  </p>
-</blockquote>
+> ) أُوْلَئِكَ  الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا
+> وَنَتَجاوَزُ عَن سَيِّئَاتِهِمْ فِي أَصْحَابِ  الْجَنَّةِ وَعْدَ
+>  الصِّدْقِ  الَّذِي كَانُوا يُوعَدُونَ (
 
 *“These are they from whom We accept the best of what they have done and
 pass over their evil deeds, among the dwellers of the garden; the
@@ -138,14 +110,10 @@ the Companions of the Garden: a promise of truth which was made to them
 However the following verse is in relation to the corrupt, misled
 generation, and it states:
 
-<blockquote dir="rtl">
-  <p>
-) وَ الَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَّكُمَا أَتَعِدَانِنِي أَنْ
-أُخْرَجَ وَقَدْ خَلَتْ  الْقُرُونُ مِنْ قَبْلِي وَهُمَا يَسْتَغِيثَانِ
- اللَّهَ وَيْلَكَ آمِنْ إِنَّ وَعْدَ  اللَّهِ حَقٌّ فَيَقُولُ مَا
-هَذَا إِلاَّ أَسَاطِيرُ  الأََوَّلِينَ (
-  </p>
-</blockquote>
+> ) وَ الَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَّكُمَا أَتَعِدَانِنِي أَنْ
+> أُخْرَجَ وَقَدْ خَلَتْ  الْقُرُونُ مِنْ قَبْلِي وَهُمَا يَسْتَغِيثَانِ
+>  اللَّهَ وَيْلَكَ آمِنْ إِنَّ وَعْدَ  اللَّهِ حَقٌّ فَيَقُولُ مَا
+> هَذَا إِلاَّ أَسَاطِيرُ  الأََوَّلِينَ (
 
 *“But (there is one) who says to his parents ‘Woe on you!  Do you hold
 out the promise to me that I shall be raised up even though generations
@@ -161,11 +129,7 @@ to their father and mother, *“Woe upon you!”*  They would make fun of
 their parents and would resort to laughing at their thoughts and
 beliefs.  Such a generation would say to their them!
 
-<blockquote dir="rtl">
-  <p>
-) أَتَعِدَانِنِي أَنْ أُخْرَجَ (
-  </p>
-</blockquote>
+> ) أَتَعِدَانِنِي أَنْ أُخْرَجَ (
 
 *“Do you hold out the promise to me that I shall be raised up?”*
 
@@ -180,11 +144,7 @@ time, they see that the dearest of people to them is speaking to them in
 such a way that it makes them upset and forces them to say to their
 child:
 
-<blockquote dir="rtl">
-  <p>
-) وَيْلَكَ آمِنْ إِنَّ وَعْدَ  اللَّهِ حَقٌّ (
-  </p>
-</blockquote>
+> ) وَيْلَكَ آمِنْ إِنَّ وَعْدَ  اللَّهِ حَقٌّ (
 
 *“Woe to you!  Have faith for the promise of Allah is true!”*
 
@@ -194,11 +154,7 @@ see him or her deny the beliefs and go towards Kufr (complete
 disbelief).  
   
 
-<blockquote dir="rtl">
-  <p>
-) وَهُمَا يَسْتَغِيثَانِ اللَّهَ (
-  </p>
-</blockquote>
+> ) وَهُمَا يَسْتَغِيثَانِ اللَّهَ (
 
 *“…and the two of them (the mother and father) seek Allah’s aid…”*
 
@@ -206,11 +162,7 @@ It is at this time that the cry for help can be heard in the heavens
 when both the father and mother call upon Allah (s.w.t.).  However, the
 child replies to their pleas by saying that:
 
-<blockquote dir="rtl">
-  <p>
-) مَا هَذَا إِلاَّ أَسَاطِيرُ الأََوَّلِينَ (
-  </p>
-</blockquote>
+> ) مَا هَذَا إِلاَّ أَسَاطِيرُ الأََوَّلِينَ (
 
 *“This is nothing but the tales of the ancients!”*
 
@@ -227,5 +179,4 @@ under.
 [^3]: Suratul Ahqaf (46), Verse 16
 
 [^4]: Ibid., Verse 17
-
 

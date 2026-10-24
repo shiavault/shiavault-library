@@ -19,4 +19,3 @@ element of permanence in his relation with the Universe, not because
 such an element does not exist, but because the problem itself is never
 considered from the point of view of permanence.
 
-

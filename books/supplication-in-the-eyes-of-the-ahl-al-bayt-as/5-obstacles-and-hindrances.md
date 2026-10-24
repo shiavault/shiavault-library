@@ -640,4 +640,3 @@ devoid of the properties expected of them.”
 
 [^28]: Bihar al-Anwar, vol.7, pg.290 291.
 
-

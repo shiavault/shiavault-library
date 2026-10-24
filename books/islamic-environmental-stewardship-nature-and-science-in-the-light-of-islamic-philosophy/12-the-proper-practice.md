@@ -139,4 +139,3 @@ us, we recognize the sacredness of our surroundings. Thus, for  ultimate
 peace, we must reconcile with nature, our selves, all forms of phenomena
 and most importantly God.
 
-

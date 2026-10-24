@@ -1,19 +1,11 @@
 Prologue
 ========
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلْ
-نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ آبَآءَنَآ أَوَلَوْ كَانَ آبَاؤُهُمْ
-لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلْ
+> نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ آبَآءَنَآ أَوَلَوْ كَانَ آبَاؤُهُمْ
+> لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ
 
 ***When it is said to them: ‘Follow what Allah hath revealed,’ they say:
 ‘Nay! We shall follow the ways of our fathers.’ What! Even though their
@@ -248,5 +240,4 @@ with Him...”
 
 [^8]: Taqiyyah is a form of concealment of one’s belief in order to
 protect one’s life, property, family, etc.
-
 

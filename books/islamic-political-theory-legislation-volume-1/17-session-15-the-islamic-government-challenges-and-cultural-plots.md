@@ -60,13 +60,9 @@ prophets and infallible Imams (*‘a*). On our part, we have no choice but
 to tread this path even if our friends reproach and criticize us. As
 God, the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
-وَالْهُدَى مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ
-أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
+> وَالْهُدَى مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ
+> أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ﴾
 
 ***“Indeed those who conceal what We have sent down of manifest proofs
 and guidance, after We have clarified it in the Book for mankind—they
@@ -76,12 +72,8 @@ Those who are aware of the truth of religion and conceal it on account
 of personal gains and group interests will incur the curse of God, the
 angels and holy saints [*awliya’*]. As mentioned in the noble *hadith*,
 
-<blockquote dir="rtl">
-  <p>
-إِذَا ظَهَرَتِ الْبِدَعُ فِي أُمَّتِي فَلْيُظْهِرِ الْعَالِمُ عِلْمَهُ
-وَ إِلاَّ فعَلَيْهِ لَعْنَةُ اللهِ...
-  </p>
-</blockquote>
+> إِذَا ظَهَرَتِ الْبِدَعُ فِي أُمَّتِي فَلْيُظْهِرِ الْعَالِمُ عِلْمَهُ
+> وَ إِلاَّ فعَلَيْهِ لَعْنَةُ اللهِ...
 
 *“When innovation in religion [bid‘ah] emerges in my* *ummah, it is
 incumbent upon the scholar [‘alim] to reveal his knowledge (of the
@@ -376,12 +368,8 @@ especially the one who does not possess the power to distinguish truth
 from falsehood, to go everywhere, listen to any talk or read any
 writing. As this noble verse explicitly states,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ
-عَنْهُمْ حَتَّى يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ...﴾
-  </p>
-</blockquote>
+> ﴿وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ
+> عَنْهُمْ حَتَّى يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ...﴾
 
 ***“When you see those who gossip impiously about Our signs, avoid them
 until they engage in some other discourse**…”*[^3]
@@ -389,15 +377,11 @@ until they engage in some other discourse**…”*[^3]
 And regarding the faithful, the Qur’an forbids them to mingle and sit
 together with those who put religion into question:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ ان إِذَا سَمِعْتُمْ آيَاتِ
-اللّهِ يُكَفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلاَ تَقْعُدُواْ مَعَهُمْ
-حَتَّى يَخُوضُواْ فِي حَدِيثٍ غَيْرِهِ إِنَّكُمْ إِذًا مِّثْلُهُمْ
-إِنَّ اللهَ جامِعُ المُنَافِقينَ وَ الْکَافِرينَ فی جَهَنَّمَ
-جَمِيعاً...﴾
-  </p>
-</blockquote>
+> ﴿وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ ان إِذَا سَمِعْتُمْ آيَاتِ
+> اللّهِ يُكَفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلاَ تَقْعُدُواْ مَعَهُمْ
+> حَتَّى يَخُوضُواْ فِي حَدِيثٍ غَيْرِهِ إِنَّكُمْ إِذًا مِّثْلُهُمْ
+> إِنَّ اللهَ جامِعُ المُنَافِقينَ وَ الْکَافِرينَ فی جَهَنَّمَ
+> جَمِيعاً...﴾
 
 ***“Certainly He has sent down to you in the Book that when you hear
 Allah’s signs being disbelieved and derided, do not sit with them until
@@ -519,12 +503,8 @@ abominable. Had it not been for such an attitude in society, so many
 types of sexual corruption would have been prevented. The Commander of
 the Faithful (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لا ما سَبَقَ مِنِ ابْنِ الخَطّابِ فِي الْمُتْعَةِ ما زنى اِلاّ
-شَقِىّ.ُ
-  </p>
-</blockquote>
+> لَوْ لا ما سَبَقَ مِنِ ابْنِ الخَطّابِ فِي الْمُتْعَةِ ما زنى اِلاّ
+> شَقِىّ.ُ
 
 *“Had (‘Umar) ibn al-Khattab not prohibited fixed-time marriage
 [mut‘ah],*[^5] *no one would ever commit adultery and fornication [zina]
@@ -538,12 +518,8 @@ abominable, it is also unlawful [*haram*] and it is a kind of religious
 innovation [*bid‘ah*]. The same is true for its opposite. Forbidding the
 lawful is also an innovation:
 
-<blockquote dir="rtl">
-  <p>
-انَّ اللهَ يُحِبُّ اَنْ يُؤْخَذَ بِرُخِصِهِ كَما يُحِبُّ اَنْ يُؤْخَذَ
-بِعَزائِمِهِ
-  </p>
-</blockquote>
+> انَّ اللهَ يُحِبُّ اَنْ يُؤْخَذَ بِرُخِصِهِ كَما يُحِبُّ اَنْ يُؤْخَذَ
+> بِعَزائِمِهِ
 
 *“Verily, God loves people to benefit from the permissible [mubahat] and
 lawful [halal-ha] things just as He loves them to perform the
@@ -581,11 +557,7 @@ no compulsion in religion.”*[^8] We believe that freedom is one of the
 greatest gifts of God, but is most beneficial when used within limits
 specified by the Giver of the gift:
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَمَن يَتَعَدَّ حُدُودَ اللّهِ فَأُوْلَـئِكَ هُمُ الظَّالِمُونَ﴾
-  </p>
-</blockquote>
+> ﴿...وَمَن يَتَعَدَّ حُدُودَ اللّهِ فَأُوْلَـئِكَ هُمُ الظَّالِمُونَ﴾
 
 ***“…And whoever transgresses the bounds of Allah—it is they who are the
 wrongdoers.”***[^9]
@@ -670,5 +642,4 @@ http://www.al-islam.org/al-serat/al-serat\_muta/title.htm. [Trans.]
 [^8]: Surah al-Baqarah 2:265.
 
 [^9]: Surah al-Baqarah 2:229.
-
 

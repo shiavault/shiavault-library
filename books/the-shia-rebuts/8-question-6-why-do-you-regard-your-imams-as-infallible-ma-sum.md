@@ -7,12 +7,8 @@ Question 6: Why do you regard your Imams as “infallible” {ma‘sum}?
  According to a narration related by both Shi‘ah and Sunni scholars,
 during the last days of his life the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-"إني تارك فيكم الثقلين كتاب الله وأهل بيتي وإنهما لن يفترقا حتى يردا
-عليّ الحوض."
-  </p>
-</blockquote>
+> "إني تارك فيكم الثقلين كتاب الله وأهل بيتي وإنهما لن يفترقا حتى يردا
+> عليّ الحوض."
 
 Verily, I am leaving among you Two Weighty Things: the Book of Allah
 (the Qur’an) and the members of my Household {*Ahl al-Bayt*}, and they
@@ -41,11 +37,7 @@ infallible as equal to the Book of Allah.
 The most explicit testimony to the infallibility of the Imams (*‘a*) is
 the following expression of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-"وإنهما لن يفترقا حتى يردا عليَّ الحوض."
-  </p>
-</blockquote>
+> "وإنهما لن يفترقا حتى يردا عليَّ الحوض."
 
 “And they will never separate from each other (in guidance and
 leadership) until they meet me at the Pond {*Al-Hawd*} (of *Kawthar* on
@@ -71,5 +63,4 @@ the preservers of the Prophet’s *Sunnah* and the guardians of the
 11, Chapter 1, p. 149. There is also a similar text in Kanz al-‘Ummal,
 vol. 1, Bab “Al-I‘tisam bi’l-Kitab wa’s-Sunnah”, p. 44; Musnad Ahmad ibn
 Hanbal, vol. 5, pp. 182, 189; and others.
-
 

@@ -56,11 +56,9 @@ their causes might be.
 RECOGNITION OF IDOLS
 --------------------
 
-<p dir="rtl">
 لاَ إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ
 يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللّهِ فَقَدِ اسْتَمْسَكَ
 بِالْعُرْوَةِ الْوُثْقَىَ لاَ انفِصَامَ لَهَا وَاللّهُ سَمِيعٌ عَلِيمٌ
-</p>
 
 [Shakir 2:256] There is no compulsion in religion; truly the right way
 has become clearly distinct from error; therefore, whoever disbelieves
@@ -208,5 +206,4 @@ deeds are being accepted or not, or whether they themselves are going to
 Paradise or not.
 
 So my dear readers, this was the beginning of Ijtihad.
-
 

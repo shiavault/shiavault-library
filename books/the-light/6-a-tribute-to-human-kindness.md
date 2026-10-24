@@ -90,4 +90,3 @@ These individuals had no idea where they would sleep or shower or how
 they would get back home once they had donated their vehicles. They have
 found that acts of kindness are rewarded by other acts of kindness.
 
-

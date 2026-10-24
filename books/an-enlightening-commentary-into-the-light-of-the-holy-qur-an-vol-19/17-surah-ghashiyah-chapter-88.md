@@ -8,11 +8,7 @@ Surah Ghashiyah, Chapter 88
 Contents of Surah Ghashiyah
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -52,55 +48,23 @@ and act accordingly.
 Surah Ghashiya, Verses 1-7
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
-  </p>
-</blockquote>
+> هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
 
-<blockquote dir="rtl">
-  <p>
-عَامِلَةٌ نَاصِبَةٌ
-  </p>
-</blockquote>
+> عَامِلَةٌ نَاصِبَةٌ
 
-<blockquote dir="rtl">
-  <p>
-تَصْلَىٰ نَارًا حَامِيَةً
-  </p>
-</blockquote>
+> تَصْلَىٰ نَارًا حَامِيَةً
 
-<blockquote dir="rtl">
-  <p>
-تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
-  </p>
-</blockquote>
+> تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ
-  </p>
-</blockquote>
+> لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ
 
-<blockquote dir="rtl">
-  <p>
-لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ
-  </p>
-</blockquote>
+> لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ
 
 ***1. "Has the story reached thee, of Ghashiyah (the Overwhelming Event
 that covers all)?"***  
@@ -245,59 +209,23 @@ the Reality.
 Surah Ghashiyah, Verses 8-16
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ
 
-<blockquote dir="rtl">
-  <p>
-لِسَعْيِهَا رَاضِيَةٌ
-  </p>
-</blockquote>
+> لِسَعْيِهَا رَاضِيَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّةٍ عَالِيَةٍ
-  </p>
-</blockquote>
+> فِي جَنَّةٍ عَالِيَةٍ
 
-<blockquote dir="rtl">
-  <p>
-لَا تَسْمَعُ فِيهَا لَاغِيَةً
-  </p>
-</blockquote>
+> لَا تَسْمَعُ فِيهَا لَاغِيَةً
 
-<blockquote dir="rtl">
-  <p>
-فِيهَا عَيْنٌ جَارِيَةٌ
-  </p>
-</blockquote>
+> فِيهَا عَيْنٌ جَارِيَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فِيهَا سُرُرٌ مَرْفُوعَةٌ
-  </p>
-</blockquote>
+> فِيهَا سُرُرٌ مَرْفُوعَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَأَكْوَابٌ مَوْضُوعَةٌ
-  </p>
-</blockquote>
+> وَأَكْوَابٌ مَوْضُوعَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَنَمَارِقُ مَصْفُوفَةٌ
-  </p>
-</blockquote>
+> وَنَمَارِقُ مَصْفُوفَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَزَرَابِيُّ مَبْثُوثَةٌ
-  </p>
-</blockquote>
+> وَزَرَابِيُّ مَبْثُوثَةٌ
 
 ***8. “(Other) faces that Day will be joyful,”***  
 ***9. “Pleased with their Striving"***  
@@ -509,65 +437,25 @@ pleased with them, and they also with Him.
 Surah Ghashiyah, Verses 17-26
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ
-  </p>
-</blockquote>
+> أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ
-  </p>
-</blockquote>
+> وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ
-  </p>
-</blockquote>
+> وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ
-  </p>
-</blockquote>
+> وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ
-  </p>
-</blockquote>
+> فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ
 
-<blockquote dir="rtl">
-  <p>
-لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ
-  </p>
-</blockquote>
+> لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ
-  </p>
-</blockquote>
+> إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ
 
-<blockquote dir="rtl">
-  <p>
-فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ
-  </p>
-</blockquote>
+> فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِلَيْنَا إِيَابَهُمْ
-  </p>
-</blockquote>
+> إِنَّ إِلَيْنَا إِيَابَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
 
 ***17. "Do they not look at camels, how they are created?"***  
 ***18. "And at the Sky, how it is raised high?"***  
@@ -903,5 +791,4 @@ them, with Your beneficence, please bestow them on us.*
 [^3]: Tafsir-i-Qartabi, voL 10. page 7119
 
 [^4]: Tafsir Fakhr-i-Razi, vol. 31, p. 158.
-
 

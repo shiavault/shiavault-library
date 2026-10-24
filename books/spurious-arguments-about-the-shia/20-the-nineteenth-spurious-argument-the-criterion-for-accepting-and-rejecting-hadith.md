@@ -243,4 +243,3 @@ during the reigns of Abu Bakr, Umar and Uthman. They collected all what
 had been written down and burnt them. They punished people for narrating
 the Prophet’s traditions except what they themselves narrated.
 
-

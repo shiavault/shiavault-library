@@ -2332,11 +2332,7 @@ The other reform that Islam enforced was that it made it a condition
 that there must never be, for any reason, discrimination between the
 wives or their children. The Qur’an most explicitly commanded:
 
-<blockquote dir="rtl">
-  <p>
-خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً
-  </p>
-</blockquote>
+> خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً
 
 ***If you fear that you will not be equitable, then only one (wife)***
 ***(4:3)***
@@ -2675,5 +2671,4 @@ compiled by Shaykh Mohammad ibn al-Hassan al-Hurr al-Amili.
 for a short while premier of the Congo, he is famous for having once
 declared in a newspaper interview that one wife was enough when he could
 change his secretary every year.
-
 

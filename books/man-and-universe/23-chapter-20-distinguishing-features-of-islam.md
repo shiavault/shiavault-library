@@ -837,4 +837,3 @@ right of owning and disposing of property are all unisexual. But in some
 secondary cases where the question of sex has some special significance,
 the position of man and woman, though equal, is dissimilar and bisexual.
 
-

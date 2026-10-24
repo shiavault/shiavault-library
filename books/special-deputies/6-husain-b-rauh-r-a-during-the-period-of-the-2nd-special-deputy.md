@@ -226,12 +226,8 @@ enemies and also pleased his friends. In the last tawqee received by
 Shaikh at-Tusi (r.a.) through Husain b. Rauh (r.a.), Imam (a.t.f.s.)
 asserted,
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ اَبُوْ الْقَاسِمِ رحمة اللهِ عليه مِنْ اَعْقَلِ النَّاسِ
-عِنْدَ الْمُخَالِف وَ الْمَوَافِقِ وَ يَسْتَعْمِلُ الْتقَيَّةَ-
-  </p>
-</blockquote>
+> وَكَانَ اَبُوْ الْقَاسِمِ رحمة اللهِ عليه مِنْ اَعْقَلِ النَّاسِ
+> عِنْدَ الْمُخَالِف وَ الْمَوَافِقِ وَ يَسْتَعْمِلُ الْتقَيَّةَ-
 
 *‘Abul Qasim (r.a.) is the wisest of the people, for foes and friends
 and his practises dissimulation (Taqaiyyah).’*[^5]
@@ -504,5 +500,4 @@ a holiday in Baghdad.
 [^11]: Bihar al-Anwar, vol. 51, pg. 293, tradition 1
 
 [^12]: Bihar al-Anwar, vol.51, pg. 306, tradition 21
-
 

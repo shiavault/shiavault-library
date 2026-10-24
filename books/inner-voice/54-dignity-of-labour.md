@@ -45,4 +45,3 @@ This mutual regard between an employer and his employee is a beacon to
 guide this troubled world where the employer and the workers both want
 to exploit and deceive one another.
 
-

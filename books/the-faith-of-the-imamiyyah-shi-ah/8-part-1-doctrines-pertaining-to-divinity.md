@@ -118,12 +118,8 @@ revive the memory of these Imams and to renew reference to them and also
 to venerate the rites of Almighty Allah through them. In this respect,
 Almighty Allah says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ
-  </p>
-</blockquote>
+> ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ
 
 ***And whoever venerates the rites of the religion; that is of the
 godliness of their hearts.*** **(22/32)**
@@ -200,15 +196,11 @@ is compound. Almighty Allah is too Exalted for such false claims.
 
 Our master, Imam \`Ali Amir al-Mu'minin (\`a) says:
 
-<blockquote dir="rtl">
-  <p>
-وَكَمَالُ الإخْلاَصِ لَهُ نَفْيُ الصِّفَاتِ عَنْهُ، لِشَهَادَةِ كُلِّ
-صِفَةٍ أنَّهَا غَيْرُ المَوْصُوفِ، وَشَهَادَةِ كُلِّ مَوْصُوفٍ أنَّهُ
-غَيْرُ الصِّفَةِ، فَمَنْ وَصَفَ اللهَ سُبْحَانَهُ فَقَدْ قَرَنَهُ،
-وَمَنْ قَرَنَهُ فَقَدْ ثَنَّاهُ، وَمَنْ ثَنَّاهُ فَقَدْ جَزَّأهُ،
-وَمَنْ جَزَّأهُ فَقَدْ جَهِلَهُ.
-  </p>
-</blockquote>
+> وَكَمَالُ الإخْلاَصِ لَهُ نَفْيُ الصِّفَاتِ عَنْهُ، لِشَهَادَةِ كُلِّ
+> صِفَةٍ أنَّهَا غَيْرُ المَوْصُوفِ، وَشَهَادَةِ كُلِّ مَوْصُوفٍ أنَّهُ
+> غَيْرُ الصِّفَةِ، فَمَنْ وَصَفَ اللهَ سُبْحَانَهُ فَقَدْ قَرَنَهُ،
+> وَمَنْ قَرَنَهُ فَقَدْ ثَنَّاهُ، وَمَنْ ثَنَّاهُ فَقَدْ جَزَّأهُ،
+> وَمَنْ جَزَّأهُ فَقَدْ جَهِلَهُ.
 
 The perfection of His purity is to deny His attributes, because every
 attribute is a proof that it is different from that to which it is
@@ -271,11 +263,7 @@ He may do unwise, aimless, useless, and worthless things! To justify
 such corrupt arguments, they have cited the following holy verse as
 pretext:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
-  </p>
-</blockquote>
+> لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
 
 ***He cannot be questioned concerning what He does and they shall be
 questioned.*** **(21/23)**
@@ -289,46 +277,26 @@ Such false arguments are nothing but clear-cut disbelief.
 
 As for Almighty Allah, He has stated in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ
-  </p>
-</blockquote>
+> وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ
 
 ***Allah does not desire injustice for His servants.*** **(40/31)**
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ لَا يُحِبُّ الْفَسَادَ
-  </p>
-</blockquote>
+> وَاللَّهُ لَا يُحِبُّ الْفَسَادَ
 
 ***Allah does not love corruption.*** **(2/205)**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ
-  </p>
-</blockquote>
+> وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ
 
 ***We did not create the heavens and the earth and all that is between
 them in jest.*** **(21/16)**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
 
 ***I have not created the jinn and mankind except to serve Me.
 (51/56)***
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ
-النَّارِ
-  </p>
-</blockquote>
+> رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ
+> النَّارِ
 
 ***Our Lord! You have not created this in vain! Glory be to You! Save us
 then from the chastisement of the Fire*****. (3/191)**
@@ -422,11 +390,7 @@ founded this principle, preceded all others by about ten centuries.
 Our Imam, Ja\`far al-Sadiq (\`a), has demonstrated this ‘Middle Course’
 through his famous words:
 
-<blockquote dir="rtl">
-  <p>
-لاَ جَبْرٌ وَلاَ تَفْويضٌ؛ وَلكِنْ أمْرٌ بَيْنَ أمْرَيْنِ.
-  </p>
-</blockquote>
+> لاَ جَبْرٌ وَلاَ تَفْويضٌ؛ وَلكِنْ أمْرٌ بَيْنَ أمْرَيْنِ.
 
 There is neither compulsion (by Almighty Allah on doing things), nor
 there is absolute delegation of power (*tafwidh*); rather, it is a
@@ -490,12 +454,8 @@ Shi\`ah*.
 Laying stress on this faith, the *Imamiyyah Shi\`ah* adhere to the
 following rule stated by Imam Ja\`far al-Sadiq (\`a):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَعَمَ أنَّ اللهَ تَعَالَى بَدَا لَهُ فِي شَيْءٍ بَدَاءَ
-نَدَامَةٍ فَهُوَ عِنْدَنَا كَافِرٌ بِاللهِ العَظِيم.ِ
-  </p>
-</blockquote>
+> مَنْ زَعَمَ أنَّ اللهَ تَعَالَى بَدَا لَهُ فِي شَيْءٍ بَدَاءَ
+> نَدَامَةٍ فَهُوَ عِنْدَنَا كَافِرٌ بِاللهِ العَظِيم.ِ
 
 Whoever claims that Almighty Allah changes a previous decision (i.e. on
 the basis of *bada'*) on account of regret (at a previous action) is
@@ -503,12 +463,8 @@ decided by us as having disbelieved in Allah the All-great.([^7])
 
 He is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَعَمَ أنَّ اللهَ بَدَا لَهُ فِي شَيْءٍ وَلَمْ يَعْلَمْهُ أمْسِ
-فَأَبْرَأُ مِنْهُ.
-  </p>
-</blockquote>
+> مَنْ زَعَمَ أنَّ اللهَ بَدَا لَهُ فِي شَيْءٍ وَلَمْ يَعْلَمْهُ أمْسِ
+> فَأَبْرَأُ مِنْهُ.
 
 Indeed, I disavow anyone who claims that Almighty Allah has changed a
 previous decision about an affair because He has come to know about
@@ -519,11 +475,7 @@ sayings giving the false impression that *bada'* in the previous sense
 might be applicable to Almighty Allah. For instance, Imam Ja\`far
 al-Sadiq (\`a) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا بَدَا للهِ فِي شَيْءٍ كَمَا بَدَا لَهُ فِي إسْمَاعِيلَ ابْنِي.
-  </p>
-</blockquote>
+> مَا بَدَا للهِ فِي شَيْءٍ كَمَا بَدَا لَهُ فِي إسْمَاعِيلَ ابْنِي.
 
 Almighty Allah has not changed a decision about an affair like what He
 has done in the case of my son Isma\`il.([^9])
@@ -537,11 +489,7 @@ vituperative campaigns that they lead against the Shi\`ah.
 The fact in this regard is that we, the Shi\`ah, believe in *bada'* as
 exactly as it is stated by Almighty Allah in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
 
 ***Allah erases what He pleases and establishes what He pleases, and
 with Him is the basis of the Book.*** **(13/39)**
@@ -727,5 +675,4 @@ realize that Isma\`il would not be the next Imam. See al-Tawhid by
 Shaykh al-Saduq (AH 381), pp. 336, Section: bab al-bada', H. 10; Kamal
 al-Din wa-Tamam al-Ni\`mah by Shaykh al-Saduq, pp. 69; Majma\`
 al-Bahrayn by al-Turayhi (AH 1085), 1:168 (item: b-d-w).
-
 

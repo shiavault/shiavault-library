@@ -548,7 +548,6 @@ notwithstanding the danger we passed, and that which still threatened
 us, had no intention of leaving Misenum till we should receive some
 account of my uncle. Farewell.
 
-
 **FROM: GROLIER CLASSICS & INTERNATIONAL ENCYCLOPIA
 TRANSLATOR'S NOTE**
 
@@ -642,5 +641,4 @@ THEM EXCEPT THOSE WITH KNOWLEDGE.
 
 44- ALLAH CREATED THE HEAVENS AND EARTH, WITH RIGHTNESS. VERILY IN THAT
 THERE IS A SIGN FOR THE BELIEVERS.
-
 

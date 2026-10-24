@@ -3128,4 +3128,3 @@ whenever his name is mentioned greeting be sent on him.
 [^1]: Raising the hands for supplication after completing the surah in
 the second unit.
 
-

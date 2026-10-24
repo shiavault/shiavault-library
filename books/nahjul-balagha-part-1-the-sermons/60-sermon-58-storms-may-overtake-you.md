@@ -3,17 +3,9 @@ Sermon 58: Storms may overtake you...
 
 *Addressing the Kharijites, Amir al-mu'minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلامه (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلامه (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-كلّم به الخوارج حين اعتزلوا الحكومة وتنادوا: أن لا حكم إلاّ لله
-  </p>
-</blockquote>
+> كلّم به الخوارج حين اعتزلوا الحكومة وتنادوا: أن لا حكم إلاّ لله
 
 Storms may overtake you while there may be none to prick you (for
 reforms). Shall I be witness to my becoming heretic after acceptance of
@@ -27,17 +19,13 @@ your heels. Beware! Certainly you will meet, after me, overwhelming
 disgrace and sharp sword and tradition that will be adopted by the
 oppressors as a norm towards you.[^1]
 
-<blockquote dir="rtl">
-  <p>
-أَصَابَكُمْ حَاصِبٌ، وَلاَ بَقِيَ مِنْكُمْ آبرٌ، أَبَعْدَ إِيمَاني
-بِاللهِ وَجِهَادِي مَعَ رَسُولِ اللهِ (صلى الله عليه وآله) أَشْهَدُ
-عَلَى نَفْسِي بِالْكُفْرِ !لَقَدْ )ضَلَلْتُ إِذاً وَمَا أَنَا مِنَ
-الْمُهْتَدِينَ !(فَأُوبُوا شَرَّ مَآب، وَارْجِعُوا عَلَى أَثَرِ
-الاْعْقَابِ، أَمَا إِنَّكُمْ سَتَلْقَوْنَ بَعْدِي ذُلاًّ شَامِلاً،
-وَسَيْفاً قَاطِعاً، وَأَثَرَةً يَتَّخِذُهَا الظَّالِمونَ فِيكُمْ
-سُنَّةً.
-  </p>
-</blockquote>
+> أَصَابَكُمْ حَاصِبٌ، وَلاَ بَقِيَ مِنْكُمْ آبرٌ، أَبَعْدَ إِيمَاني
+> بِاللهِ وَجِهَادِي مَعَ رَسُولِ اللهِ (صلى الله عليه وآله) أَشْهَدُ
+> عَلَى نَفْسِي بِالْكُفْرِ !لَقَدْ )ضَلَلْتُ إِذاً وَمَا أَنَا مِنَ
+> الْمُهْتَدِينَ !(فَأُوبُوا شَرَّ مَآب، وَارْجِعُوا عَلَى أَثَرِ
+> الاْعْقَابِ، أَمَا إِنَّكُمْ سَتَلْقَوْنَ بَعْدِي ذُلاًّ شَامِلاً،
+> وَسَيْفاً قَاطِعاً، وَأَثَرَةً يَتَّخِذُهَا الظَّالِمونَ فِيكُمْ
+> سُنَّةً.
 
 ***As-Sayyid ar-Radi says*****:** In the *words "wala baqiyah minkum
 abirun"* used by Amir al-mu'minin the *"abir"* has been related with
@@ -51,16 +39,12 @@ to say that there should remain none to carry news. In one version the
 word appears as *"abiz"* with *"za'"* which means one who leaps. One who
 dies is also called *"abiz".*
 
-<blockquote dir="rtl">
-  <p>
-قال الشريف: قوله عليه السلام : «ولا بقي منكم آبر» يُروى على ثلاثة
-أوجه: أحدها أن يكون كما ذكرناه، بالراء، من قولهم: رجلٌ آبِرٌ: للذي
-يأبر النخل، أي: يصلحه. ويروى: «آثِرٌ»، يُراد به: الذي يأثر الحديث، أي:
-يحكيه ويرويه، وهو أصح الوجوه عندي، كأنه عليه السلام قال: لا بقي منكم
-مُخبر! ويروى: «آبِز» ـ بالزاي معجمة ـ وهو: الواثب، والهالك أيضاً يقال
-له: آبزٌ
-  </p>
-</blockquote>
+> قال الشريف: قوله عليه السلام : «ولا بقي منكم آبر» يُروى على ثلاثة
+> أوجه: أحدها أن يكون كما ذكرناه، بالراء، من قولهم: رجلٌ آبِرٌ: للذي
+> يأبر النخل، أي: يصلحه. ويروى: «آثِرٌ»، يُراد به: الذي يأثر الحديث، أي:
+> يحكيه ويرويه، وهو أصح الوجوه عندي، كأنه عليه السلام قال: لا بقي منكم
+> مُخبر! ويروى: «آبِز» ـ بالزاي معجمة ـ وهو: الواثب، والهالك أيضاً يقال
+> له: آبزٌ
 
 Alternative Sources for Sermon 58
 ---------------------------------
@@ -102,5 +86,4 @@ trampled their military power and turning them out of cities compelled
 them to roam about in the deserts. Afterwards also, when they rose in
 the form of groups they were crushed. (at-Ta'rikh, Vol. 2, pp. 580-591);
 Ibn al-Athir, Vol. 4, pp. 196-206).
-
 

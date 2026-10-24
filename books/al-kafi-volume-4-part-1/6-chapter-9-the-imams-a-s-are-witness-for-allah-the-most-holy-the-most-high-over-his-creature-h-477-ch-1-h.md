@@ -103,7 +103,6 @@ His creatures and granted us Divine authority on earth. He made us to be
 with the holy Quran and the Holy Quran to be with us. We do not depart
 the Holy Quran and the Holy Quran does not depart us."
 
-
 **Chapter 10 : The Imams (a.s.) are the only true guides H 482, Ch. 10,
 h 1**
 
@@ -157,5 +156,4 @@ Allah, ". . . For every nation there is a guide.
 and Amir al-Mu'minin (a.s.) is the guide. Let it be known, I swear by
 Allah, that guidance never departed us, it is with us and will always be
 with us until the Day of Judgment."
-
 

@@ -1,18 +1,10 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-مَن حفظ على أمَّتي أربعين حديثاً ينتفعون بِها بَعثَه الله يوم القيامة
-فقيهاً عالماً
-  </p>
-</blockquote>
+> مَن حفظ على أمَّتي أربعين حديثاً ينتفعون بِها بَعثَه الله يوم القيامة
+> فقيهاً عالماً
 
 The Holy Prophet (peace be upon him and his progeny) has said:
 
@@ -39,5 +31,4 @@ for their efforts.
 
 May Allah s.w.t. accept this work as a further attempt by IEB ‑ WF to
 propagate Islam.
-
 

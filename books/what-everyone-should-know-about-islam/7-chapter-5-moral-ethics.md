@@ -47,4 +47,3 @@ to endeavor to reform one’s self.
 
 [^2]: Muhajj’atul Bayd’a of Faiz Kashani, v.2, p-312
 
-

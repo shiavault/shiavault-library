@@ -8,13 +8,9 @@ And there are many Quranic verses on this topic.
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدْ اسْتَمْسَكَ
-بِالْعُرْوَةِ الْوُثْقَى لَا انفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ
-عَلِيمٌ.
-  </p>
-</blockquote>
+> فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدْ اسْتَمْسَكَ
+> بِالْعُرْوَةِ الْوُثْقَى لَا انفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ
+> عَلِيمٌ.
 
 ***…whoever disbelieves in the Shaitan and believes in Allah he indeed
 has laid hold on the firmest handle, which shall not break off, and
@@ -79,23 +75,15 @@ intense love for Aale Muhammad (a.s).
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا.
-  </p>
-</blockquote>
+> وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا.
 
 And hold fast by the covenant (rope) of Allah (Hablillah) all together
 and be not disunited… 3:103
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-ضُرِبَتْ عَلَيْهِمْ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ
-مِنْ اللَّهِ.
-  </p>
-</blockquote>
+> ضُرِبَتْ عَلَيْهِمْ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ
+> مِنْ اللَّهِ.
 
 ***Abasement is made to cleave to them wherever they are found, except
 under a covenant with Allah… (Surah Ale-Imran 3:112)***
@@ -138,5 +126,4 @@ the book of Allah and ‘Habl-e-Naas’ is Ali Ibne Abi Talib (a.s.).
 In *Majalis* of Shaykh Tusi and *Manaqib* of Ibne Shahr Aashob it is
 narrated from Imam Sadiq (a.s.) that: We are ‘Hablullah’ - the rope of
 Allah.
-
 

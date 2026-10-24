@@ -20,4 +20,3 @@ I pray that you will live for many years in happiness and in health and
 fully enjoy the fruits of you hard work. I do not want anything but to
 be able to live and enjoy life under your auspices and your protection.
 
-

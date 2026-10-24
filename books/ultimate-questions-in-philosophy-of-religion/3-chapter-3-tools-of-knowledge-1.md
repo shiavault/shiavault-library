@@ -320,4 +320,3 @@ closed his eyes to most human knowledge.
 asked about his library by one of his friends he took him to his
 backyard showing him the dissection of a calf as being his library.
 
-

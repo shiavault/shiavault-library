@@ -293,4 +293,3 @@ pilgrimage other than Hajjatul Islam and there is doubt that it is in
 excess of the bequeathable one-third, it is not permissible to spend the
 whole of the amount without the consent of the heirs.
 
-

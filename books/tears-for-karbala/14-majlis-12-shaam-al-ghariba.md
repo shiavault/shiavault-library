@@ -156,4 +156,3 @@ rest. I will guard the tents. Go to sleep my daughter, Zainab.”
 
 **Ya Husayn! Ya Husayn! Ya Husayn!**
 
-

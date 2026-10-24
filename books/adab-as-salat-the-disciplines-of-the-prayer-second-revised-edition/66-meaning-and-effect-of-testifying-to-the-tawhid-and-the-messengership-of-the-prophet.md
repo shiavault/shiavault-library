@@ -58,4 +58,3 @@ Presence.
 
 [^1]: Sūrah al-A'rāf 7:29.
 
-

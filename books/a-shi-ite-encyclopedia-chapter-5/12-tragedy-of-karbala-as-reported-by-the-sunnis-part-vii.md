@@ -385,4 +385,3 @@ al-Jawshan (also) attacked them with his followers but Zuhayr b. al-Qayn
 with ten of the followers of al- Husayn (counter) attacked and drove
 them away from the tents.
 
-

@@ -292,4 +292,3 @@ laws. Weakening the ranks of the Muslims, and causing division among
 them, cannot be but a support to the enemies of Allah, and a service to
 the tyrants and superpowers. Praise be to Allah, Lord of the Worlds.
 
-

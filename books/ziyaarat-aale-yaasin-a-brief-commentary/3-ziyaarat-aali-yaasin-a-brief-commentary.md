@@ -84,11 +84,7 @@ upon Allah’s pious servants. So, whenever you intend to turn your
 attention towards Allah through our mediation or wish to turn towards us
 then say as Allah has ordered,*
 
-<blockquote dir="rtl">
-  <p>
-"سَلامٌ عَلى آلِ يس...."
-  </p>
-</blockquote>
+> "سَلامٌ عَلى آلِ يس...."
 
 We beseech Allah to give us the grace to convey the exegesis of this
 invaluable Ziyaarat to our readers (keeping brevity in mind).
@@ -96,11 +92,7 @@ invaluable Ziyaarat to our readers (keeping brevity in mind).
 Verse 1
 -------
 
-<blockquote dir="rtl">
-  <p>
-١. سَلامٌ عَلى آلِ يس
-  </p>
-</blockquote>
+> ١. سَلامٌ عَلى آلِ يس
 
 Salutation upon Aali Yaasin means salutations upon the progeny of the
 Holy Prophet (S). This opening salutation has great significance. For,
@@ -111,30 +103,18 @@ members. It is apparent that the opening salutation on the infallible
 progeny of the Holy Prophet (S) is derived from two Quranic verses. The
 first verse is derived from Surah Yasin, verse 1
 
-<blockquote dir="rtl">
-  <p>
-يس
-  </p>
-</blockquote>
+> يس
 
 The second verse is derived from Surah Saaffaat, verse 130
 
-<blockquote dir="rtl">
-  <p>
-سَلامٌ عَلى آلِ يس
-  </p>
-</blockquote>
+> سَلامٌ عَلى آلِ يس
 
 Imam Jafar Sadiq (a.s.) was asked, ‘O son of Allah’s Prophet, what is
 the meaning of the divine word يس?
 
 He (a.s.) replied,
 
-<blockquote dir="rtl">
-  <p>
-اِسْمُ مِنْ اَسْمَاءِ النًبِيٍ وَ مَعْناهُ يَا سَامِعَ الوَحْيِ
-  </p>
-</blockquote>
+> اِسْمُ مِنْ اَسْمَاءِ النًبِيٍ وَ مَعْناهُ يَا سَامِعَ الوَحْيِ
 
 *“It is a name from the Prophet’s (S) names and implies, ‘O hearer of
 revelation’.*[^2]
@@ -149,11 +129,7 @@ this explanation. For instance, Imam Jafar Sadiq (a.s.) has narrated a
 tradition from his grandfather Ameerul Momineen (a.s.) regarding the
 Quranic verse
 
-<blockquote dir="rtl">
-  <p>
-يس مُحَمًد وَ نَحْنُ آلُ يس
-  </p>
-</blockquote>
+> يس مُحَمًد وَ نَحْنُ آلُ يس
 
 *‘Muhammad (S) is Yasin and we (Ahlul Bayt (a.s.)) are
 Aali -Yaasin.*[^4]
@@ -195,11 +171,7 @@ too have advanced similar views.
 Verse 2
 -------
 
-<blockquote dir="rtl">
-  <p>
-٢. السَّلامُ عَلَيْكَ ياداعِيَ الله وَرَبَّانِيَّ آياتِهِ
-  </p>
-</blockquote>
+> ٢. السَّلامُ عَلَيْكَ ياداعِيَ الله وَرَبَّانِيَّ آياتِهِ
 
 **Salutations upon you, O the caller of Allah and the nourisher of His
 Creation**
@@ -210,19 +182,11 @@ find two attributes highlighted in the first salutation.
 
 A) Caller of Allah
 
-<blockquote dir="rtl">
-  <p>
-ياداعِيَ الله
-  </p>
-</blockquote>
+> ياداعِيَ الله
 
 B) Nourisher of His Sign
 
-<blockquote dir="rtl">
-  <p>
-وَرَبَّانِيَّ آياتِهِ
-  </p>
-</blockquote>
+> وَرَبَّانِيَّ آياتِهِ
 
 The first attribute (داعي) is a Subject (فاعل) (according to Arabic
 grammar) and means – the one who calls or invites. Over here it means
@@ -245,11 +209,7 @@ to religion and his obedience to Allah is firm and intense. In Qamoos,
 (a.r.) writes that the one who improves and regulates the affairs of the
 people is called as (ربّانيّ) This is also supported by the tradition
 
-<blockquote dir="rtl">
-  <p>
-لاَ عِلْمَ اِلاّ مِنْ عَالِمٍ رَبًانِيِّ
-  </p>
-</blockquote>
+> لاَ عِلْمَ اِلاّ مِنْ عَالِمٍ رَبًانِيِّ
 
 *“There is no knowledge except from the divine scholar.”*[^11]
 
@@ -266,11 +226,7 @@ has been entrusted with this all-important responsibility.
 Verse 3
 -------
 
-<blockquote dir="rtl">
-  <p>
-٣. السَّلامُ عَلَيْكَ يابابَ الله وَدَيَّانَ دِينِهِ
-  </p>
-</blockquote>
+> ٣. السَّلامُ عَلَيْكَ يابابَ الله وَدَيَّانَ دِينِهِ
 
 **"Salutation upon you, O Allah’s Door and the regulator and governor of
 His Religion".**
@@ -281,13 +237,9 @@ very popular and finds mention in several Ziyaaraat. In traditions, the
 Ahlul Bayt (a.s.) are referred to as ‘Allah’s Door’. For instance, Imam
 Jafar Sadiq (a.s.) informs
 
-<blockquote dir="rtl">
-  <p>
-الْأَوْصِيَاءُ هُمْ أَبْوَابُ الله عَزَّ وَجَلَّالَّتِي يُؤْتَى
-مِنْهَا وَلَوْلَاهُمْ مَا عُرِفَ اللهُ عَزَّ وَجَلَّ وَبِهِمُ احْتَجَّ
-اللهُ تَبَارَكَ وَتَعَالَى عَلَى خَلْقِهِ
-  </p>
-</blockquote>
+> الْأَوْصِيَاءُ هُمْ أَبْوَابُ الله عَزَّ وَجَلَّالَّتِي يُؤْتَى
+> مِنْهَا وَلَوْلَاهُمْ مَا عُرِفَ اللهُ عَزَّ وَجَلَّ وَبِهِمُ احْتَجَّ
+> اللهُ تَبَارَكَ وَتَعَالَى عَلَى خَلْقِهِ
 
 *‘The Holy Prophet’s (S) successors are the ‘Doors of Allah’ through
 which He can be accessed. If they were not there, Allah the Almighty
@@ -296,22 +248,14 @@ completed His arguments against His creatures.’*[^12]
 
 Imam Muhammad Baqir (a.s.) declares
 
-<blockquote dir="rtl">
-  <p>
-نَحنُ حُجَّةُ اللهِ ، ونَحنُ بابُ اللهِ
-  </p>
-</blockquote>
+> نَحنُ حُجَّةُ اللهِ ، ونَحنُ بابُ اللهِ
 
 *‘We are Allah’s Proofs and Allah’s Door.*[^13]*’*
 
 In Duae Nudbah, which is associated with Imam (a.t.f.s.) himself, we
 address him:
 
-<blockquote dir="rtl">
-  <p>
-ايْنَ بابُ اللهِ الَّذى مِنْهُ يُؤْتى
-  </p>
-</blockquote>
+> ايْنَ بابُ اللهِ الَّذى مِنْهُ يُؤْتى
 
 *‘Where is Allah’s Door, through which He is accessed?’*
 
@@ -365,20 +309,12 @@ referred to as (دَيَّانَ)? Tabarsi (r.a.) records, (دَيَّانَ) is
 the titles of Allah. It means dominant, ruler and judge. In the Holy
 Prophet’s (S) praise and eulogy, he says:
 
-<blockquote dir="rtl">
-  <p>
-يَا سَيّدَ النًاسِ وَ دَيًانَ الْعَرَبِ
-  </p>
-</blockquote>
+> يَا سَيّدَ النًاسِ وَ دَيًانَ الْعَرَبِ
 
 *‘O leader of men and the ruler (or judge or dominator) of the Arabs.’
 Likewise traditions declare*
 
-<blockquote dir="rtl">
-  <p>
-كَانَ عَلِيٍ ديًانَ هَذِهِ الْأُمًةِ بَعْدَ نَبِيِهَا
-  </p>
-</blockquote>
+> كَانَ عَلِيٍ ديًانَ هَذِهِ الْأُمًةِ بَعْدَ نَبِيِهَا
 
 *‘Ali (a.s.) is the ruler (or judge or dominator) of this nation after
 the Prophet (S).’*[^18]
@@ -392,11 +328,7 @@ of this, he is the sole possessor of these merits.
 Verse 4
 -------
 
-<blockquote dir="rtl">
-  <p>
-٤. السَّلامُ عَلَيْكَ ياخَلِيفَةَ الله وَناصِرَ حَقِّهِ
-  </p>
-</blockquote>
+> ٤. السَّلامُ عَلَيْكَ ياخَلِيفَةَ الله وَناصِرَ حَقِّهِ
 
 **Salutations upon you, O Caliph of Allah and the Helper (in the way) of
 His Right**
@@ -405,13 +337,9 @@ This salutation also highlights two vital attributes – Allah’s Caliphate
 and the support of His Right. In Arabic terminology, a caliph has been
 described as:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يِخْلُفُ غَيْرَه وَ يَقُوْمُ مَقَامَهُ وً السًلْطَانُ الأعْظَمُ
-وَ فيْ الشًرْعِ: اللإمَامُ الّذِيْ لَيْسَ فَوْقَهُ اَمَام (اَقْرَبُ
-الْمَوَارِدِ, مَادًهُ خَلَفٌ)
-  </p>
-</blockquote>
+> مَنْ يِخْلُفُ غَيْرَه وَ يَقُوْمُ مَقَامَهُ وً السًلْطَانُ الأعْظَمُ
+> وَ فيْ الشًرْعِ: اللإمَامُ الّذِيْ لَيْسَ فَوْقَهُ اَمَام (اَقْرَبُ
+> الْمَوَارِدِ, مَادًهُ خَلَفٌ)
 
 ‘Caliph is the successor of another and the one appointed by him. That
 is why a king is referred to as a Caliph.’
@@ -430,22 +358,14 @@ In this regard, Hafiz Muhammad b. Yusuf Ganji Shafei’, the illustrious
 Sunni scholar, has recorded a pertinent tradition in his compilation ‘Al
 Bayaan fi Akhbaar al- Sahibiz Zaman (a.t.f.s.) (Chapter 15)’
 
-<blockquote dir="rtl">
-  <p>
-يخرُجُ المَهْدِيُّ وعلى رأسِه عِمامةٌ فيها مُنادٍ يُنادِي: ألَا إنَّ
-هذا المهدِيُّ خَلِيْفَةً اللهِ فاتَّبِعُوه
-  </p>
-</blockquote>
+> يخرُجُ المَهْدِيُّ وعلى رأسِه عِمامةٌ فيها مُنادٍ يُنادِي: ألَا إنَّ
+> هذا المهدِيُّ خَلِيْفَةً اللهِ فاتَّبِعُوه
 
 *‘Mahdi shall reappear while there will be a cloud hovering over him.
 From within it, an announcer shall announce – This is Mahdi, Allah’s
 Caliph, so obey him!’*
 
-<blockquote dir="rtl">
-  <p>
-وَناصِرَ حَقِّهِ
-  </p>
-</blockquote>
+> وَناصِرَ حَقِّهِ
 
 This is the second important attribute underlined in this salutation.
 While it’s true that all prophets (a.s.) and successors (a.s.) were
@@ -459,12 +379,8 @@ What is Allah’s right? The fourth Imam – Imam Zainul Abedeen (a.s.)
 explains Allah’s right in the very beginning of his compilation
 ‘Risaalatul Huquq’
 
-<blockquote dir="rtl">
-  <p>
-فَأَمّا حَقّ اللّهِ الْأَكْبَرُ عَلَيْكَ فَاَنّ تَعْبُدُوهُ لَا
-تُشْرِكُ بِهِ شَيْئاً
-  </p>
-</blockquote>
+> فَأَمّا حَقّ اللّهِ الْأَكْبَرُ عَلَيْكَ فَاَنّ تَعْبُدُوهُ لَا
+> تُشْرِكُ بِهِ شَيْئاً
 
 *‘The greatest right that Allah, the Almighty, enjoys upon you is that
 you worship only Him and do not associate partners with Him.’*[^19]
@@ -477,22 +393,14 @@ raised. However, none could accomplish complete success in this regard.
 For instance, Hazrat Nuh (a.s.) propagated for 950 years, but despite
 his massive efforts, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ
-  </p>
-</blockquote>
+> وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ
 
 ***“And none believed with him (Nuh) but a few.”***[^20]
 
 However, while prophesizing about Imam al-Asr’s (a.t.f.s.) advent, Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَعْبُدُونَنِي لا يُشْرِكُونَ بِي شَيْئًا
-  </p>
-</blockquote>
+> يَعْبُدُونَنِي لا يُشْرِكُونَ بِي شَيْئًا
 
 ***‘…they shall serve Me, not associating aught with Me…’***[^21]
 
@@ -500,13 +408,9 @@ In this momentous endeavour, Allah, Himself, shall help Imam (a.t.f.s.)
 through His angels. In Dua al-Iftetaah, Imam (a.t.f.s.) espouses this
 fact,
 
-<blockquote dir="rtl">
-  <p>
-اَللّـهُمَّ اَعِزَّهُ وَ اَعْزِزْ بِهِ ، وَ انْصُرْهُ وَ انْتَصِرْ
-بِهِ ، وَ انْصُرْهُ نَصْراً عَزيزاً ، وَ اْفتَحْ لَهُ فَتْحاً يَسيراً
-، وَ اجْعَلْ لَهُ مِنْ لَدُنْكَ سُلْطاناً نَصيراً
-  </p>
-</blockquote>
+> اَللّـهُمَّ اَعِزَّهُ وَ اَعْزِزْ بِهِ ، وَ انْصُرْهُ وَ انْتَصِرْ
+> بِهِ ، وَ انْصُرْهُ نَصْراً عَزيزاً ، وَ اْفتَحْ لَهُ فَتْحاً يَسيراً
+> ، وَ اجْعَلْ لَهُ مِنْ لَدُنْكَ سُلْطاناً نَصيراً
 
 *‘O Allah! Honour him (Imam (a.t.f.s.)) and through him honour us. Help
 him and through him help us avenge our enemies. Help him with a mighty
@@ -516,11 +420,7 @@ dominating and overwhelming support for him.’*[^22]
 Verse 5
 -------
 
-<blockquote dir="rtl">
-  <p>
-٥. السَّلامُ عَلَيْكَ ياحُجَّةَ الله وَدَلِيلَ إِرادَتِهِ
-  </p>
-</blockquote>
+> ٥. السَّلامُ عَلَيْكَ ياحُجَّةَ الله وَدَلِيلَ إِرادَتِهِ
 
 **‘Salutations upon you, O Allah’s Proof and the indicator towards His
 intention.’**
@@ -538,11 +438,7 @@ informs, ‘As soon as Imam az-Zaman (a.t.f.s.) stepped into this world,
 he immediately fell in prostration. On his arm were engraved in a
 radiant light, the words:
 
-<blockquote dir="rtl">
-  <p>
-جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ
-  </p>
-</blockquote>
+> جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ
 
 ***‘Truth has come and falsehood vanished.’***[^23]
 
@@ -550,14 +446,10 @@ I took the infant in my arms and carried him over to his father Imam
 Hasan Askari (a.s.). Imam (a.s.) ran his fingers lovingly across the
 head of his beloved son and urged,
 
-<blockquote dir="rtl">
-  <p>
-.تكلَّمْ يَا حُجَّة الله وبقيّة الأَنْبِيآء وَخَاتَمَ الأَوْصِيَاءِ
-وَصَاحِبَ الكَرًةِ الْبَيَضَاءِ وَالْمِصْبَاحِ مِنَ الْبَحْرِ
-الْعَمِيْقِ الشًدِيْدِ الضّيَاءْ، تَكلّمْ يَا خَلِيْفَةَ الأْتقِيَاِءِ
-وَنُوْرُ الأَوْصِيَاء
-  </p>
-</blockquote>
+> .تكلَّمْ يَا حُجَّة الله وبقيّة الأَنْبِيآء وَخَاتَمَ الأَوْصِيَاءِ
+> وَصَاحِبَ الكَرًةِ الْبَيَضَاءِ وَالْمِصْبَاحِ مِنَ الْبَحْرِ
+> الْعَمِيْقِ الشًدِيْدِ الضّيَاءْ، تَكلّمْ يَا خَلِيْفَةَ الأْتقِيَاِءِ
+> وَنُوْرُ الأَوْصِيَاء
 
 *‘Speak up O Allah’s Proof and the remnant of the past prophets, O the
 seal of successors, O restorer of brilliance and light to the deep
@@ -568,12 +460,8 @@ Later, again we see Imam Hasan Askari (a.s.) giving glad tidings to Imam
 (a.t.f.s.) at noon when the latter was offering water to his father for
 ablutions:
 
-<blockquote dir="rtl">
-  <p>
-اَبْشِرْ يَا ُبنَيً فَأَنْتً صَاحِبُ الزًمَانِ، وَأَنْتَ الْمَهْدِيٌ
-وَأَنْتَ حُجًةُ الله عَلى أَرْضِهِ وَأَنْتً وُلْدِيْ وَوَصِيٍي
-  </p>
-</blockquote>
+> اَبْشِرْ يَا ُبنَيً فَأَنْتً صَاحِبُ الزًمَانِ، وَأَنْتَ الْمَهْدِيٌ
+> وَأَنْتَ حُجًةُ الله عَلى أَرْضِهِ وَأَنْتً وُلْدِيْ وَوَصِيٍي
 
 *‘O my son, I give you glad tidings that you are the Master of the Age,
 you are the Mahdi, you are Allah’s Proof on the earth, you are my son
@@ -581,11 +469,7 @@ and my successor…’*[^24]
 
 Another significant fact revealed in this salutation is
 
-<blockquote dir="rtl">
-  <p>
-وَدَلِيلَ إِرادَتِهِ
-  </p>
-</blockquote>
+> وَدَلِيلَ إِرادَتِهِ
 
 This can be read as,
 
@@ -615,21 +499,13 @@ Throne, jinn, men, etc. nay rather nothing would have existed at all.
 
 Allah Himself declares
 
-<blockquote dir="rtl">
-  <p>
-لَوْلَاكَ لَمَا خَلَقْتُ الْأَفْلَاكَ
-  </p>
-</blockquote>
+> لَوْلَاكَ لَمَا خَلَقْتُ الْأَفْلَاكَ
 
 *‘O Prophet, but for you, I would not have created the world.’*
 
-<blockquote dir="rtl">
-  <p>
-إِنّي ما خَلَقتُ سَماءً مَبنَّيةً وَلا أرضاً مَدحيَّةً وَلا قَمَراً
-مُنيراًوَلا شَمساً مُضيِئةً ...إِلاّ في مَحَبَّةِ هؤُلاءِ الخَمسَةِ
-الَّذينَ هُم تَحتَ الكِساءِ
-  </p>
-</blockquote>
+> إِنّي ما خَلَقتُ سَماءً مَبنَّيةً وَلا أرضاً مَدحيَّةً وَلا قَمَراً
+> مُنيراًوَلا شَمساً مُضيِئةً ...إِلاّ في مَحَبَّةِ هؤُلاءِ الخَمسَةِ
+> الَّذينَ هُم تَحتَ الكِساءِ
 
 *‘Surely I (Allah) did not create the elevated sky, the expansive earth,
 the brilliant sun….but for the sake and for the love of these five
@@ -639,25 +515,17 @@ Moreover, Allah conveys His Intention to His creatures through Imam
 al-Asr (a.t.f.s.). Imam Sadiq (a.s.) while instructing the Shias about
 the Ziyaarat of Imam Husain (a.s.) declares
 
-<blockquote dir="rtl">
-  <p>
-إِرَادَةُ الرَّبِّ فِي‌ مَقَادِيرِ أُمُورِهِ تَهْبِطُ إِلَيْكُمْ
-وَتَصْدُرُ مِنْ بُيُوتِكُمْ
-  </p>
-</blockquote>
+> إِرَادَةُ الرَّبِّ فِي‌ مَقَادِيرِ أُمُورِهِ تَهْبِطُ إِلَيْكُمْ
+> وَتَصْدُرُ مِنْ بُيُوتِكُمْ
 
 *“(O Ahlul Bayt!) Allah’s intention in the destinies of His affairs
 descends on you and emanates from your houses.”*[^26]
 
 In another tradition, Imam Ali Naqi (a.s.) informs,
 
-<blockquote dir="rtl">
-  <p>
-إِنً الله جَعَلَ قُلُوْبَ اْلأَئٍمًةِ مَوْرِدًا لِإرَادَتِهِ فإَذَا
-شَاءَ اللهُ شَيْئًا شَاؤُوْهُ وَهُوَ قَوْلُ اللهِ وَمَا تَشَاؤُوْنَ
-إِلاً أَنْ يَشَاءَ اللهُ
-  </p>
-</blockquote>
+> إِنً الله جَعَلَ قُلُوْبَ اْلأَئٍمًةِ مَوْرِدًا لِإرَادَتِهِ فإَذَا
+> شَاءَ اللهُ شَيْئًا شَاؤُوْهُ وَهُوَ قَوْلُ اللهِ وَمَا تَشَاؤُوْنَ
+> إِلاً أَنْ يَشَاءَ اللهُ
 
 *“Surely Allah has made the hearts of the Imams as a place for His
 intention’s descent. Thus, whenever Allah intends a thing, they too
@@ -666,11 +534,7 @@ not (a thing) but that Allah intends (it).”*[^27]
 
 In yet another tradition, Imam Sadiq (a.s.) declares,
 
-<blockquote dir="rtl">
-  <p>
-اِنً الإِمَامَ وَكْرٌ لإِرَادَةِ اللهِ عَزً وَ جَلً
-  </p>
-</blockquote>
+> اِنً الإِمَامَ وَكْرٌ لإِرَادَةِ اللهِ عَزً وَ جَلً
 
 *“Surely the Imam is the nest for Allah’s (Mighty and Glorified be He)
 intention.”*[^28]
@@ -687,11 +551,7 @@ attempt to imitate him to the best of his abilities.
 Verse 6
 -------
 
-<blockquote dir="rtl">
-  <p>
-٦. السَّلامُ عَلَيْكَ ياتالِيَ كِتابِ الله وَتَرْجُمانَهُ
-  </p>
-</blockquote>
+> ٦. السَّلامُ عَلَيْكَ ياتالِيَ كِتابِ الله وَتَرْجُمانَهُ
 
 **Salutation upon you, O the reciter of Allah’s Book and its
 interpreter**
@@ -705,13 +565,9 @@ the two. Indeed, the two shall always remain united in this world until
 they meet the Holy Prophet (S) in the hereafter. The renowned prophetic
 tradition underlines this fact:
 
-<blockquote dir="rtl">
-  <p>
-إِنِيْ تاركٌ فيكم الثَّقَلَين كِتَابَ اللهِ عَزَّ وجَلَّ، وعِتْرَتي
-أَهْلُ بَيْتِيْ مَا إِنْ تَمَسًكْتُمْ بِهِمَا لَنْ تَضِلٌوْا بَعْدِيْ
-أَبَدًا فَإِنًهُمَا لَنْ يَفْرَقِا حَتَى يَرِدَا عَلَيً الْحَوْضَ
-  </p>
-</blockquote>
+> إِنِيْ تاركٌ فيكم الثَّقَلَين كِتَابَ اللهِ عَزَّ وجَلَّ، وعِتْرَتي
+> أَهْلُ بَيْتِيْ مَا إِنْ تَمَسًكْتُمْ بِهِمَا لَنْ تَضِلٌوْا بَعْدِيْ
+> أَبَدًا فَإِنًهُمَا لَنْ يَفْرَقِا حَتَى يَرِدَا عَلَيً الْحَوْضَ
 
 *‘I am leaving behind in your midst, two weighty things: the Book of
 Allah and my progeny. If you fasten to them, you will never be led
@@ -727,13 +583,9 @@ position.
 
 Imam Muhammad Baqir (a.s.) warns Amr b. Ubaid,
 
-<blockquote dir="rtl">
-  <p>
-فَاِنًمَا عَلَى النًاسِ أَنْ يَقْرَؤُو القُرْآنَ كَمَا أُنْزِلَ
-فَاِذَا احْتَاجُوْا إلِى تَفْسِيرِهِ فَاْلِاهْتِدَاءُ بِنَا وَإِلَينَا
-يَا عَمْرو
-  </p>
-</blockquote>
+> فَاِنًمَا عَلَى النًاسِ أَنْ يَقْرَؤُو القُرْآنَ كَمَا أُنْزِلَ
+> فَاِذَا احْتَاجُوْا إلِى تَفْسِيرِهِ فَاْلِاهْتِدَاءُ بِنَا وَإِلَينَا
+> يَا عَمْرو
 
 *‘O Amr, it is obligatory on the people to recite the Quran as it was
 revealed. When they feel the need to interpret its verses, they should
@@ -742,11 +594,7 @@ necessarily refer to us and acquire guidance.’*[^29]
 Verse 7
 -------
 
-<blockquote dir="rtl">
-  <p>
-٧. السَّلامُ عَلَيْكَ فِي آناءِ لَيْلِكَ وَأَطْرافِ نَهارِكَ
-  </p>
-</blockquote>
+> ٧. السَّلامُ عَلَيْكَ فِي آناءِ لَيْلِكَ وَأَطْرافِ نَهارِكَ
 
 **‘Salutations upon you in the night time and during the day.’**
 
@@ -755,12 +603,8 @@ upon Imam (a.t.f.s.) at every moment, be it day or night.
 
 This statement is borrowed from the Quranic verse
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ
-تَرْضَى
-  </p>
-</blockquote>
+> وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ
+> تَرْضَى
 
 ***‘…during hours of the night do also glorify (Him) and during parts of
 the day…’***[^30]
@@ -768,22 +612,14 @@ the day…’***[^30]
 Verse 8
 -------
 
-<blockquote dir="rtl">
-  <p>
-٨. السَّلامُ عَلَيْكَ يابَقِيَّةَ الله فِي أَرْضِهِ
-  </p>
-</blockquote>
+> ٨. السَّلامُ عَلَيْكَ يابَقِيَّةَ الله فِي أَرْضِهِ
 
 **Salutation upon the Remnant of Allah in His earth**
 
 Over here, Imam (a.t.f.s.) has been addressed with the renowned title
 that finds a mention in the Holy Quran.
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
 
 ***“Surely the remnant of Allah is good for you if you are
 believers.”***[^31]
@@ -792,11 +628,7 @@ The word (بقية) has several meanings. However, for brevity we have
 delved only on one meaning which is relevant to our discussion over
 here.
 
-<blockquote dir="rtl">
-  <p>
-بَقَىِ مِنْهُ: تُرِكَ بَعْضُهُ
-  </p>
-</blockquote>
+> بَقَىِ مِنْهُ: تُرِكَ بَعْضُهُ
 
 *i.e. some of it’s part is left.*
 
@@ -806,11 +638,7 @@ for mankind’s guidance.
 
 This is also the meaning used in Ziyaaraat and supplications.
 
-<blockquote dir="rtl">
-  <p>
-الَسَّلاَمُ عَلَيْكَ يَا بَقِيَّةَ مِنْ أَوْلِيَائِهِ وَ حُجَجِهِ
-  </p>
-</blockquote>
+> الَسَّلاَمُ عَلَيْكَ يَا بَقِيَّةَ مِنْ أَوْلِيَائِهِ وَ حُجَجِهِ
 
 *‘Salutation upon the Remnant of Allah, from His Friends and His
 Proofs.’*[^32]
@@ -836,11 +664,7 @@ When Imam Hasan Askari (a.s.) introduced Ahmed b. Ishaaq (r.a.) to Imam
 az-Zaman (a.t.f.s.) while he was still an infant, Imam (a.t.f.s.)
 declared to Ahmed b. Ishaaq (r.a.)
 
-<blockquote dir="rtl">
-  <p>
-أَنَا بَقِيَّةُ اللهِ فِيْ أَرْضِهِ
-  </p>
-</blockquote>
+> أَنَا بَقِيَّةُ اللهِ فِيْ أَرْضِهِ
 
 *‘I am the Remnant of Allah on His earth.’*
 
@@ -852,28 +676,16 @@ he shall recite the above statement.
 Verse 9
 -------
 
-<blockquote dir="rtl">
-  <p>
-٩. السَّلامُ عَلَيْكَ يامِيثاقِ الله الَّذِي أَخَذَهُ وَوَكَّدَهُ
-  </p>
-</blockquote>
+> ٩. السَّلامُ عَلَيْكَ يامِيثاقِ الله الَّذِي أَخَذَهُ وَوَكَّدَهُ
 
 **Salutations upon you O Allah’s Covenant that he has taken and
 emphasized upon it.**
 
 The poet has depicted this thus:
 
-<blockquote dir="rtl">
-  <p>
-بـقـيّةُ اللهِ وصَـفْـوةُ الـرُّسُـلْ
-  </p>
-</blockquote>
+> بـقـيّةُ اللهِ وصَـفْـوةُ الـرُّسُـلْ
 
-<blockquote dir="rtl">
-  <p>
-ونُـخبةالـوجودِ مـا شئتَ فَقُـلْ
-  </p>
-</blockquote>
+> ونُـخبةالـوجودِ مـا شئتَ فَقُـلْ
 
 *The remnant of Allah and the existents, say as you please*
 
@@ -907,16 +719,12 @@ preference over other prophets (a.s.).
 
 In this aspect, Imam Muhammad Baqir (a.s.) declares
 
-<blockquote dir="rtl">
-  <p>
-وَأَخَذَ المِيْثَاقَ عَلى أُوْلِي العَزْمِ أَنًّنِيْ رَبَكُمْ
-وَمُحَمَّدٌ رَسُوْلِي وَعَلٍيٌ أَمْيْرُ الْمٌؤْمِنَيْنَ وَأَوْصِياؤُهُ
-مِنْ بَعْدِهِ وُلاَةُ أمْرِيْ وَخُزًّانُ عِلْمِيْ، وَ أَنَّ
-المَهْدِيَّ اَنْتَصِرُ بِهِ لِدِيْنِي وَأُظْهِرُ بهِ ِدَوْلَتِيْ
-وَأَنْتَقِمُ بِهِ مِنْ أَعْدَائِيْ وَأُعْبَدُ بِهِ طَوْعاً
-وَكَرْهاً...
-  </p>
-</blockquote>
+> وَأَخَذَ المِيْثَاقَ عَلى أُوْلِي العَزْمِ أَنًّنِيْ رَبَكُمْ
+> وَمُحَمَّدٌ رَسُوْلِي وَعَلٍيٌ أَمْيْرُ الْمٌؤْمِنَيْنَ وَأَوْصِياؤُهُ
+> مِنْ بَعْدِهِ وُلاَةُ أمْرِيْ وَخُزًّانُ عِلْمِيْ، وَ أَنَّ
+> المَهْدِيَّ اَنْتَصِرُ بِهِ لِدِيْنِي وَأُظْهِرُ بهِ ِدَوْلَتِيْ
+> وَأَنْتَقِمُ بِهِ مِنْ أَعْدَائِيْ وَأُعْبَدُ بِهِ طَوْعاً
+> وَكَرْهاً...
 
 *‘Allah has taken this pledge even from the (أولو الزم) Prophets (a.s.):
 I am your Lord, Muhammad (S) is My Prophet, Ali (a.s.) and his
@@ -932,11 +740,7 @@ by and attain deliverance through Imam Mahdi (a.t.f.s.).
 Verse 10
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٠. السَّلامُ عَلَيْكَ ياوَعْدَ الله الَّذِي ضَمِنَهُ
-  </p>
-</blockquote>
+> ١٠. السَّلامُ عَلَيْكَ ياوَعْدَ الله الَّذِي ضَمِنَهُ
 
 **Salutation upon you, O Allah’s Promise regarding which He has given
 His Assurance**
@@ -950,21 +754,13 @@ been referred to as a Promise, because of the hopes and expectations
 behind his promised advent. In fact, the word Promise only evokes Imam’s
 (a.t.f.s.) remembrance and mention as is evident in Surah Maryam:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى إِذَا رَأَوْا مَا يُوعَدُونَ
-  </p>
-</blockquote>
+> حَتَّى إِذَا رَأَوْا مَا يُوعَدُونَ
 
 ***“Till they see what they had been promised.”***[^35]
 
 Under the exegesis of this verse, Imam Jafar Sadiq (a.s.) reveals,
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ خُرُوْجُ الْقَآئِمِ
-  </p>
-</blockquote>
+> فَهُوَ خُرُوْجُ الْقَآئِمِ
 
 ***‘Here the Promise refers to the advent of Qaim (a.t.f.s.).’***[^36]
 
@@ -980,14 +776,10 @@ assurance. In this era, it is our duty to wait for the realization of
 the divine promise. It is regarding this Promise that we find in
 Ziyaraat:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَى الْمَهْدِيِّ الَّذِي وَعَدَ اللَّهُ عَزَّ وَجَلَّ بِهِ
-الْأُمَمَ أَنْ يَجْمَعَ بِهِ الْكَلِمَ وَيَلُمَّ بِهِ الشَّعَثَ
-وَيَمْلَأَ بِهِ الْأَرْضَ قِسْطا وَعَدْلا وَيُمَكِّنَ لَهُ وَيُنْجِزَ
-بِهِ وَعْدَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> السَّلامُ عَلَى الْمَهْدِيِّ الَّذِي وَعَدَ اللَّهُ عَزَّ وَجَلَّ بِهِ
+> الْأُمَمَ أَنْ يَجْمَعَ بِهِ الْكَلِمَ وَيَلُمَّ بِهِ الشَّعَثَ
+> وَيَمْلَأَ بِهِ الْأَرْضَ قِسْطا وَعَدْلا وَيُمَكِّنَ لَهُ وَيُنْجِزَ
+> بِهِ وَعْدَ الْمُؤْمِنِينَ
 
 *“Salutation upon Mahdi – Allah’s Promise to the nations. Through him
 (Imam (a.t.f.s.)) Allah will gather the people and unite the scattered
@@ -998,11 +790,7 @@ filled with tyranny and injustice. And it is through him (Imam
 Verse 11
 --------
 
-<blockquote dir="rtl">
-  <p>
-١١. السَّلامُ عَلَيْكَ أَيُّها العَلَمُ المَنْصُوبُ
-  </p>
-</blockquote>
+> ١١. السَّلامُ عَلَيْكَ أَيُّها العَلَمُ المَنْصُوبُ
 
 **Salutation upon you, O Master of the Raised Standard.**
 
@@ -1011,11 +799,7 @@ Over here, Hazrat Baqiatullah (a.t.f.s.), has been referred to as the
 here isn’t used alone, rather a word ‘Master’ is concealed before it. So
 this verse should have read as
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ يَا صَاحِبَ العَلَمُ المَنْصُوبُ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ يَا صَاحِبَ العَلَمُ المَنْصُوبُ
 
 In the light of this arrangement, the translation of this verse will now
 read as
@@ -1035,36 +819,24 @@ Servant, reappear now and destroy Allah’s Enemies.’[^38]
 Imam az-Zaman (a.t.f.s.) will have with him three standards. On one of
 them shall be inscribed:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الْإسْلامَ دِينً
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الْإسْلامَ دِينً
 
 ***‘…This day have I perfected for you your religion and completed My
 favor on you and chosen for you Islam as a religion…’***[^39]
 
 On the second standard shall be written:
 
-<blockquote dir="rtl">
-  <p>
-يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا
-  </p>
-</blockquote>
+> يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا
 
 ***‘They fulfill vows and fear a day the evil of which shall be
 spreading far and wide.’***[^40]
 
 The third standard shall be adorned with the words:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلَهَ إِلاَّ اللهُ مُحَمَّدٌ رَسُوْلُ اللهِ عَلِيٌ وَلِيُّ اللهِ
-وَ خَلِيْفَتُهُ الحَسَنُ وَ الحُسَيْنُ وَ التِسْعَةُ مَنْ وُلْدِ
-الحُسَيْنِ أَوْصِيَائُهُ
-  </p>
-</blockquote>
+> لاَ إِلَهَ إِلاَّ اللهُ مُحَمَّدٌ رَسُوْلُ اللهِ عَلِيٌ وَلِيُّ اللهِ
+> وَ خَلِيْفَتُهُ الحَسَنُ وَ الحُسَيْنُ وَ التِسْعَةُ مَنْ وُلْدِ
+> الحُسَيْنِ أَوْصِيَائُهُ
 
 *‘There is no God except Allah. Muhammad (S) is His Messenger. Ali
 (a.s.) is His Slave and His Caliph. Hasan (a.s.) and Husain (a.s.) and
@@ -1087,11 +859,7 @@ Ale Muhammad (a.s.).*[^42]
 Verse 12
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٢. وَالعِلْمُ المَصْبُوبُ
-  </p>
-</blockquote>
+> ١٢. وَالعِلْمُ المَصْبُوبُ
 
 **(Salutation upon you), O overflowing knowledge...**
 
@@ -1113,45 +881,25 @@ In this regard let us cast a glance at the traditions, supplications and
 Ziyaraat related to Imam az-Zaman (a.t.f.s.). (Readers are requested to
 read the following lines with rapt attention)
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ يا وارِثَ كَنْزِ الْعُلُومِ الْإِلهِيَّةِ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ يا وارِثَ كَنْزِ الْعُلُومِ الْإِلهِيَّةِ
 
 *‘Salutation upon you, O the treasure of divine knowledge…’*[^43]
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ يا مَعْدِنَ الْعُلُومِ النَّبَوِيَّةِ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ يا مَعْدِنَ الْعُلُومِ النَّبَوِيَّةِ
 
 *‘Salutation upon you, O storehouse of the prophetic knowledge…’*[^44]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ خَائِزُ كُلِّ عِلْمً
-  </p>
-</blockquote>
+> إِنَّكَ خَائِزُ كُلِّ عِلْمً
 
 *‘Indeed you are the collection of every knowledge and science’* [^45]
 
-<blockquote dir="rtl">
-  <p>
-وأنّكَ خازن كلِّ عِلْم، وفاتقُ كُلِّ رتقٍ
-  </p>
-</blockquote>
+> وأنّكَ خازن كلِّ عِلْم، وفاتقُ كُلِّ رتقٍ
 
 *‘Indeed you are the collection of every knowledge and the splitter of
 every sewn thing (of every branch of knowledge).’*[^46]
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَى الْحَقِّ الْجَدِيدِ وَالْعَالِمِ الَّذِي عِلْمُهُ لا
-يَبِيدُ
-  </p>
-</blockquote>
+> السَّلامُ عَلَى الْحَقِّ الْجَدِيدِ وَالْعَالِمِ الَّذِي عِلْمُهُ لا
+> يَبِيدُ
 
 *‘Salutations upon the revived truth, (the revived truth implies that
 Imam (a.t.f.s.) shall revive the truth on his reappearance as the truth
@@ -1160,33 +908,21 @@ the scholar whose knowledge shall never be ruined.’*[^47]
 
 In Dua al-Nudba, we address Imam (a.t.f.s.):
 
-<blockquote dir="rtl">
-  <p>
-اَيْنَ اَعْلامُ الدّينِ وَقَواعِدُ الْعِلْمِ
-  </p>
-</blockquote>
+> اَيْنَ اَعْلامُ الدّينِ وَقَواعِدُ الْعِلْمِ
 
 *‘Where is the standard of religion and the foundation of knowledge.’*
 
 In the same supplication, we address Imam (a.t.f.s.) further:
 
-<blockquote dir="rtl">
-  <p>
-يَا ابْنَ الْعُلُومِ الْكَامِلَةِ
-  </p>
-</blockquote>
+> يَا ابْنَ الْعُلُومِ الْكَامِلَةِ
 
 *‘O son of the complete sciences’*
 
 Imam Muhammad Baqir (a.s.), the splitter of prophetic sciences, informs
 us:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ العِلْمَ بِكِتَابِ اللهِ وَسُنّةِ نَبِيِهِ يَنْبُتُ فِي قَلْبِ
-مَهْدِينَا كَمَا يَنْبُتُ الزَرْعُ عَلى أَحْسَنِ نَبَاتِهِ
-  </p>
-</blockquote>
+> إِنَّ العِلْمَ بِكِتَابِ اللهِ وَسُنّةِ نَبِيِهِ يَنْبُتُ فِي قَلْبِ
+> مَهْدِينَا كَمَا يَنْبُتُ الزَرْعُ عَلى أَحْسَنِ نَبَاتِهِ
 
 *‘Surely the knowledge of Allah’s Book (Quran) and the traditions of his
 Prophet (S) grows in the heart of our Mahdi just like crops grow in the
@@ -1219,11 +955,7 @@ essence illumines the heavens and the earth. Indeed, we confess our
 helplessness in grasping this reality. From the depth of our hearts, we
 summon all our strength and insight and proclaim:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ أَيُّها العَلَمُ المَنْصُوبُ وَالعِلْمُ المَصْبُوبُ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ أَيُّها العَلَمُ المَنْصُوبُ وَالعِلْمُ المَصْبُوبُ
 
 *‘Salutation upon you, O Raised Standard and the overflowing knowledge’*
 
@@ -1277,22 +1009,14 @@ never desert Imam (a.t.f.s.) by approaching others for knowledge.
 Verse 13
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٣. اَلْغَوْثُ
-  </p>
-</blockquote>
+> ١٣. اَلْغَوْثُ
 
 In Arabic, (غوث) is an infinitive means help, succour, shelter and
 relief of the aggrieved. In supplications and Ziyaraat, we see (غياث/
 غوث) being used prolifically to denote Allah’s Names. For instance,
 
-<blockquote dir="rtl">
-  <p>
-يا غِياثي‌ عِنْدَ كُرْبَتِي! يَا غِيَاثَ المُسْتَغِيثِين! ياغِياثَ
-مَنْ لاغِياثَ لَهُ!
-  </p>
-</blockquote>
+> يا غِياثي‌ عِنْدَ كُرْبَتِي! يَا غِيَاثَ المُسْتَغِيثِين! ياغِياثَ
+> مَنْ لاغِياثَ لَهُ!
 
 *O Resource in my neediness! O Rescuer of those who appeal! O Shield for
 the defenceless!*[^49]
@@ -1308,11 +1032,7 @@ For instance, in the Ziyaarat of Ameerul Mo’mineen (a.s.) on 17th
 Rabbiul Awwal, which is narrated by Imam Jafar Sadiq (a.s.), we address
 Imam (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ يا غِياثَ الْمَكْرُوبينَ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ يا غِياثَ الْمَكْرُوبينَ
 
 *‘Salutations upon you, O shelter of the aggrieved and
 distressed.’*[^50]
@@ -1324,12 +1044,8 @@ This trait has also been associated with Imam Husain (a.s.). While
 forecasting the tribulations of his family after Karbala, the Holy
 Prophet (S) informed,
 
-<blockquote dir="rtl">
-  <p>
-وأمّا الحُسِيْنُ فَإِنّهُ مِنّيْ وَهُوَ اِبْنِيْ وَ وَلَدِيْ ... يَا
-غِيَاثَ المُسْتَغِيثِين
-  </p>
-</blockquote>
+> وأمّا الحُسِيْنُ فَإِنّهُ مِنّيْ وَهُوَ اِبْنِيْ وَ وَلَدِيْ ... يَا
+> غِيَاثَ المُسْتَغِيثِين
 
 *‘As for Husain (a.s.), surely he is from me and he is my son and my
 offspring…and the shelter of the distressed’* [^51]
@@ -1338,22 +1054,14 @@ Likewise, these titles have also been employed while addressing other
 Imams (a.s.). Imam Jafar Sadiq (a.s.) while enumerating the personality
 of his beloved grandson – Imam Ridha’ (a.s.) declares:
 
-<blockquote dir="rtl">
-  <p>
-يُخْرِجُ اللَهُ مِنْهُ غَوْثَ هَذِهِ الامَّةِ وَ غِيَاثَهَا
-  </p>
-</blockquote>
+> يُخْرِجُ اللَهُ مِنْهُ غَوْثَ هَذِهِ الامَّةِ وَ غِيَاثَهَا
 
 *‘Allah shall manifest the saviour and shelter of this nation through my
 son (Imam Moosa Kazim (a.s.)).’*[^52]
 
 In the Ziyarat of Imam Jawad (a.s.) we come across this title:
 
-<blockquote dir="rtl">
-  <p>
-السَّلَامُ عَلَى غَوْثِ اللَّهْفَانِ
-  </p>
-</blockquote>
+> السَّلَامُ عَلَى غَوْثِ اللَّهْفَانِ
 
 *‘Salutations be upon the shelter and succour of the distressed.’*[^53]
 
@@ -1381,37 +1089,17 @@ their supplications and Ziyaraat. Keeping in mind brevity, we have
 outlined a few lines that the respected readers can memorize while
 beseeching Imam (a.t.f.s.):
 
-<blockquote dir="rtl">
-  <p>
-يَا صَاحِبَ الزَّمَانِ اَغِثْنِي يَا صَاحِبَ الزَّمَانِ اَدْرِكْنِيْ.
-  </p>
-</blockquote>
+> يَا صَاحِبَ الزَّمَانِ اَغِثْنِي يَا صَاحِبَ الزَّمَانِ اَدْرِكْنِيْ.
 
-<blockquote dir="rtl">
-  <p>
-يَا مُحَمَّدُ يَاعَلِيُّ يَا فَاطِمَةُ يَا صَاحِبَ الزًّمَانِ
-أَدْرِكْنِيْ وَ لاَ تُهْلِكْنِي.
-  </p>
-</blockquote>
+> يَا مُحَمَّدُ يَاعَلِيُّ يَا فَاطِمَةُ يَا صَاحِبَ الزًّمَانِ
+> أَدْرِكْنِيْ وَ لاَ تُهْلِكْنِي.
 
-<blockquote dir="rtl">
-  <p>
-يَا اَبَا الْقاَسِمِ اَغِثْنِي يَا اَبَا صَالِحِ الْمَهْدِيْ
-اَدْرِكْنِيْ اَدْرِكْنِيْ وَ لاَ تَدَعْنِيْ فَاِنّيْ ذَلْيِلٌ عَاجِزٌ.
-  </p>
-</blockquote>
+> يَا اَبَا الْقاَسِمِ اَغِثْنِي يَا اَبَا صَالِحِ الْمَهْدِيْ
+> اَدْرِكْنِيْ اَدْرِكْنِيْ وَ لاَ تَدَعْنِيْ فَاِنّيْ ذَلْيِلٌ عَاجِزٌ.
 
-<blockquote dir="rtl">
-  <p>
-يَا مَوْعُوْدُ الْمُنْتَظَرُ اُنْظُرْ اِليْ المُحْتَضَرِ.
-  </p>
-</blockquote>
+> يَا مَوْعُوْدُ الْمُنْتَظَرُ اُنْظُرْ اِليْ المُحْتَضَرِ.
 
-<blockquote dir="rtl">
-  <p>
-الْمُسْتَغَاثُ بِكَ يَا صَاحِبَ الزَّمَانِ.
-  </p>
-</blockquote>
+> الْمُسْتَغَاثُ بِكَ يَا صَاحِبَ الزَّمَانِ.
 
 **Third:** There is no definite time or any numerical limit prescribed
 to seek succour from Imam (a.t.f.s.). Whenever one is spiritually
@@ -1423,22 +1111,14 @@ night, noon, dawn, dusk.
 Verse 14
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٤. وَالرَّحْمَةُ الواسِعَةُ
-  </p>
-</blockquote>
+> ١٤. وَالرَّحْمَةُ الواسِعَةُ
 
 **(Salutations be upon you)…O the encompassing mercy.**
 
 A cursory glance over the Quranic verses reveals that this term (رحمة)
 is employed exclusively for Allah to the exception of all others.
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ
-  </p>
-</blockquote>
+> فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ
 
 ***‘…then say: Your Lord is the Lord of All- encompassing mercy’***[^54]
 
@@ -1446,20 +1126,12 @@ In the recommended supplications (تعقيبات) recited after Prayer (salat)-
 e-Asr, we beseech Allah with the supplication narrated by Janabe Zahra
 (s.a.):
 
-<blockquote dir="rtl">
-  <p>
-اَللّـهُمَّ ذَا الرَّحْمَةِ الْواسِعَةِ
-  </p>
-</blockquote>
+> اَللّـهُمَّ ذَا الرَّحْمَةِ الْواسِعَةِ
 
 In Dua al-Kumail, the opening lines highlight Allah’s ‘All- encompassing
 mercy’
 
-<blockquote dir="rtl">
-  <p>
-اللهم إنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتي وَسِعَتْ كُلَّ شَيْء
-  </p>
-</blockquote>
+> اللهم إنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتي وَسِعَتْ كُلَّ شَيْء
 
 *‘O Allah! Surely I beseech you with Your Mercy that encompasses
 everything.’*
@@ -1470,11 +1142,7 @@ mercy’) has been used only for the Messenger of Allah (S) and Imam
 
 In the Majestic Quran, Allah, the Almighty declares:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
 
 ***‘And We have not sent you but as a mercy to the worlds.’***[^55]
 
@@ -1482,11 +1150,7 @@ And these very words have been reiterated in the case of Imam az-Zaman
 (a.t.f.s.) in the renowned tradition of the Green Tablet (Hadith
 al-Lauh):
 
-<blockquote dir="rtl">
-  <p>
-وَ أَكْمَلَ ذَلِكِ بِاِبْنِهِ م - ح - م - د رَحْمَةً لِلْعَالَمِيْنَ
-  </p>
-</blockquote>
+> وَ أَكْمَلَ ذَلِكِ بِاِبْنِهِ م - ح - م - د رَحْمَةً لِلْعَالَمِيْنَ
 
 *‘I (Allah) shall complete the chain of Imamat through his son (i.e. son
 of Imam Hasan Askari (a.s.)) M H M D – a mercy for the worlds.’*
@@ -1511,20 +1175,12 @@ indicated the reason for the same.
 Verse 15
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٥. وَعْداً غَيْرَ مَكْذُوبٍ
-  </p>
-</blockquote>
+> ١٥. وَعْداً غَيْرَ مَكْذُوبٍ
 
 We shall not dwell on the details of this line as we have already dealt
 with it before while elaborating on
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ ياوَعْدَ الله الَّذِي ضَمِنَهُ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ ياوَعْدَ الله الَّذِي ضَمِنَهُ
 
 Our earlier discussion on this topic should suffice.
 
@@ -1538,17 +1194,9 @@ different points of time in his life.
 Verse 17-18
 -----------
 
-<blockquote dir="rtl">
-  <p>
-١٦. السَّلامُ عَلَيْكَ حِينَ تَقُومُ
-  </p>
-</blockquote>
+> ١٦. السَّلامُ عَلَيْكَ حِينَ تَقُومُ
 
-<blockquote dir="rtl">
-  <p>
-١٧. السَّلامُ عَلَيْكَ حِيْنَ تَقْعُدْ
-  </p>
-</blockquote>
+> ١٧. السَّلامُ عَلَيْكَ حِيْنَ تَقْعُدْ
 
 **‘Salutations be upon you when you stand.’**
 
@@ -1561,11 +1209,7 @@ the verbs are in the present tense.
 possible that these words have been employed metaphorically. A case in
 point is the famous prophetic tradition
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَسَنُ وَاَلْحُسَيْنُ إِمَامَانِ قَامَا أَوْ قَعُدَا
-  </p>
-</blockquote>
+> اَلْحَسَنُ وَاَلْحُسَيْنُ إِمَامَانِ قَامَا أَوْ قَعُدَا
 
 *‘Hasan and Husain are the two Imams, regardless of whether they are
 standing or sitting.’*[^57]
@@ -1585,11 +1229,7 @@ beseeching Allah to hasten your reappearance.’
 Verse 19
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٨. السَّلامُ عَلَيْكَ حِينَ تَقْرَأُ وَتُبَيِّنُ
-  </p>
-</blockquote>
+> ١٨. السَّلامُ عَلَيْكَ حِينَ تَقْرَأُ وَتُبَيِّنُ
 
 **‘Salutations be upon you when you recite (the Holy Quran) and
 elucidate its interpretation.’**
@@ -1622,13 +1262,9 @@ The illustrious scholar – Abi Zainab Muhammad b. Ibrahim Nomani has
 recorded a tradition from Imam Sadiq (a.s.) in his book – ‘Ghaibat’
 which serves to answer the above question to some extent:
 
-<blockquote dir="rtl">
-  <p>
-لاَ بُدَّ لِصَاحِبِ هذَاَ اْلأَمْرِ مِنْ غَيْبَة وَلاَ بُدَّ لَهُ فِيْ
-غَيْبَتِهِ مِنْ عُزْلَةٍ وَنِعْمَ الْمَنْزِلُ طَيِّبَةُ وَمَا
-بِثَلَاثِيْنَ مِنْ وَحْشَةٍ
-  </p>
-</blockquote>
+> لاَ بُدَّ لِصَاحِبِ هذَاَ اْلأَمْرِ مِنْ غَيْبَة وَلاَ بُدَّ لَهُ فِيْ
+> غَيْبَتِهِ مِنْ عُزْلَةٍ وَنِعْمَ الْمَنْزِلُ طَيِّبَةُ وَمَا
+> بِثَلَاثِيْنَ مِنْ وَحْشَةٍ
 
 *‘*
 
@@ -1653,11 +1289,7 @@ ignorance in Imam’s (a.t.f.s.) occultation becomes even more evident to
 us. We are reminded of that statement of Imam Husain (a.s.) in Dua
 al-Arafah:
 
-<blockquote dir="rtl">
-  <p>
-اَنَا الْجاهِلُ فى عِلْمى فَكَيْفَ لا اَكُونُ جَهُولاً فى جَهْلى؟
-  </p>
-</blockquote>
+> اَنَا الْجاهِلُ فى عِلْمى فَكَيْفَ لا اَكُونُ جَهُولاً فى جَهْلى؟
 
 *‘When I am so ignorant in my knowledge, then how ignorant am I in my
 ignorance!?*[^59]
@@ -1665,11 +1297,7 @@ ignorance!?*[^59]
 Verse 10
 --------
 
-<blockquote dir="rtl">
-  <p>
-١٩. السَّلامُ عَلَيْكَ حِينَ تُصَلِّيَ وَتَقْنُتُ
-  </p>
-</blockquote>
+> ١٩. السَّلامُ عَلَيْكَ حِينَ تُصَلِّيَ وَتَقْنُتُ
 
 **‘Salutations be upon you when you perform the Prayer (Salat) and
 recite the Qunoot (of the Prayer).’**
@@ -1708,11 +1336,7 @@ congregational prayers have been established for you to lead.’*[^60]
 
 This verse of the Holy Quran deserves attention:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-  </p>
-</blockquote>
+> أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
 
 ***‘Or, Who answers the distressed one when he calls upon Him and
 removes the evil…’***[^61]
@@ -1738,11 +1362,7 @@ Daawaat pg 67, Al-Baladul Ameen 569 and Behaarul Anwaar vol. 85,pg. 233.
 Verse 20
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٠. السَّلامُ عَلَيْكَ حِينَ تَرْكَعُ وَتَسْجُدُ
-  </p>
-</blockquote>
+> ٢٠. السَّلامُ عَلَيْكَ حِينَ تَرْكَعُ وَتَسْجُدُ
 
 **Salutation upon you, while you bow and prostrate**
 
@@ -1750,11 +1370,7 @@ We have already explained the significance of conveying salutations to
 Imam (a.t.f.s.) while he is engaged in various acts of salaat under the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ حِينَ تُصَلِّيَ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ حِينَ تُصَلِّيَ
 
 Perhaps it is due to the importance of these two acts (bowing and
 prostration) that they have been given a special mention. Or it could be
@@ -1767,12 +1383,8 @@ mention of his bowing and prostration. Yahya b. Fazl Nawfali narrates,
 completed the Asr prayer. As per his practice, he (a.s.) raised both his
 hands towards the sky and recited:
 
-<blockquote dir="rtl">
-  <p>
-لا إِلَهَ إِلَّا أَنْتَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ
-وَالْبَاطِنُ
-  </p>
-</blockquote>
+> لا إِلَهَ إِلَّا أَنْتَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ
+> وَالْبَاطِنُ
 
 *‘There is no god save You. You are the First and the Last and the
 Apparent and the Concealed.’*
@@ -1780,14 +1392,10 @@ Apparent and the Concealed.’*
 Imam (a.s.) repeated this sentence 10 times. After invoking Allah in
 these words, he (a.s.) supplicated,
 
-<blockquote dir="rtl">
-  <p>
-أِسْألُكَ بِاسْمْكَ المَكْنُوْنِ المَخْزُوْنِ الحَيِ القَيُوْمِ
-الَّذِيْ لاَ يَخِيْبُ مَنْ سَأَلَكَ بِهِ أَنْ تُصَلَيِ عَلَى مُحَمَّدٍ
-وَ آلِهِ وَ أَنْ تُعْجِّلَ فَرَجَ الْمُنْتَقِمِ لَكَ ِمْن أَعْدَائِكَ
-وَ أَنْجِزْ لَهُ مَا وَعَدْتَهُ يَا ذَا الجَلاَلِ وَ الإِكْرَامِ
-  </p>
-</blockquote>
+> أِسْألُكَ بِاسْمْكَ المَكْنُوْنِ المَخْزُوْنِ الحَيِ القَيُوْمِ
+> الَّذِيْ لاَ يَخِيْبُ مَنْ سَأَلَكَ بِهِ أَنْ تُصَلَيِ عَلَى مُحَمَّدٍ
+> وَ آلِهِ وَ أَنْ تُعْجِّلَ فَرَجَ الْمُنْتَقِمِ لَكَ ِمْن أَعْدَائِكَ
+> وَ أَنْجِزْ لَهُ مَا وَعَدْتَهُ يَا ذَا الجَلاَلِ وَ الإِكْرَامِ
 
 *‘I beseech You with Your Concealed and Treasured Name, O Ever Living, O
 Controller (of all creation), the Name with which when You are invoked,
@@ -1799,24 +1407,16 @@ Revering!’*
 The narrator asked Imam (a.s.), ‘Who is the beneficiary of your
 Prostration supplication?’ Imam (a.s.) replied:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ المَهْدِيُّ مَنْ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> ذَلِكَ المَهْدِيُّ مَنْ آلِ مُحَمَّدٍ
 
 *‘He is the Mahdi of Muhammad’s progeny (a.s.).’*
 
 Thereafter, Imam Moosa Kazim (a.s.) elaborates further on Imam Mahdi’s
 (a.t.f.s.) excellence:
 
-<blockquote dir="rtl">
-  <p>
-بِاَبِيْ أَسْمَرَ الَّلوْنِ يَعْتَوِرُهُ مَعَ سُمْرَتِهِ صُفْرَةٌ مِنْ
-سَهِرِ اللّيْلِ بِاَبِيْ مَنْ لَيْلُهُ يَرْعَى النُّجُوْمَ سَاجِدًا
-وَرَاكِعًا
-  </p>
-</blockquote>
+> بِاَبِيْ أَسْمَرَ الَّلوْنِ يَعْتَوِرُهُ مَعَ سُمْرَتِهِ صُفْرَةٌ مِنْ
+> سَهِرِ اللّيْلِ بِاَبِيْ مَنْ لَيْلُهُ يَرْعَى النُّجُوْمَ سَاجِدًا
+> وَرَاكِعًا
 
 *‘May my father be sacrificed on your wheat complexion that has long
 since turned yellow due to incessant night vigils. May my father be
@@ -1830,11 +1430,7 @@ can one say about the intense bowings and prostrations that are offered
 with such sincerity to Allah, the Almighty. One point worth highlighting
 over here is that the statement
 
-<blockquote dir="rtl">
-  <p>
-بِاَبِيْ مَنْ لَيْلُهُ يَرْعَى النُّجُوْمَ
-  </p>
-</blockquote>
+> بِاَبِيْ مَنْ لَيْلُهُ يَرْعَى النُّجُوْمَ
 
 Means that Allah, the Almighty, likes to see His servants alert and
 vigilant about performing salaat and other acts of worship at its time.
@@ -1842,12 +1438,8 @@ It means that one should use the heavenly bounties to dutifully observe
 one’s religious obligations. In this regard, Mulla Mohsin Faiz Kashani
 (r.a.) records a tradition from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-أَحَبُ عِبَادِ اللَّهِ إِلى اللهِ الَّذِينَ يُرَاعُونَ الشَّمْسَ
-وَالْقَمَرَ وَالأَهِلَّةَ لِذِكْرِ اللَّهِ
-  </p>
-</blockquote>
+> أَحَبُ عِبَادِ اللَّهِ إِلى اللهِ الَّذِينَ يُرَاعُونَ الشَّمْسَ
+> وَالْقَمَرَ وَالأَهِلَّةَ لِذِكْرِ اللَّهِ
 
 *‘The most beloved of Allah is the one who is always attentive of the
 Sun, the Moon and the shadows for the remembrance (and worship) of
@@ -1856,11 +1448,7 @@ Allah.’*[^64]
 Verse 21
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢١. السَّلامُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ
-  </p>
-</blockquote>
+> ٢١. السَّلامُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ
 
 **‘Salutation upon you, when you declare that ‘there is no god but
 Allah’ and when you proclaim ‘Allah is the Greatest’.**
@@ -1897,15 +1485,11 @@ O Allah! Grant us the grace to recite these holy incantations.
 
 In this regard Imam Muhammad Baqir (a.s.) narrates,
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ كَبّرَ بَيْنَ يَدَيِ الِإمِامِ وقَالَ لاَ إِلهَ إلِاّ اللهُ
-وحَدْهَ ُلاَ شَرِيْكَ لَهُ كَتَبَ اللهُ لَهُ رِضْوَانَهُ الأَكْبَرَ
-وَمَنْ يَكْتُبِ اللهُ لَهُ رِضْوَانَهُ الأَكْبَرَ يَجْمَعْ بَيْنَهُ
-وَبَيْنَ اِبْراهّيِمَ وَمُحَمَّدٍ ( عَلَيْهِمَا السَلاَمُ )
-وَالمُرْسَليْنَ فِي دَارِ الْجَلاَلِ
-  </p>
-</blockquote>
+> وَمَنْ كَبّرَ بَيْنَ يَدَيِ الِإمِامِ وقَالَ لاَ إِلهَ إلِاّ اللهُ
+> وحَدْهَ ُلاَ شَرِيْكَ لَهُ كَتَبَ اللهُ لَهُ رِضْوَانَهُ الأَكْبَرَ
+> وَمَنْ يَكْتُبِ اللهُ لَهُ رِضْوَانَهُ الأَكْبَرَ يَجْمَعْ بَيْنَهُ
+> وَبَيْنَ اِبْراهّيِمَ وَمُحَمَّدٍ ( عَلَيْهِمَا السَلاَمُ )
+> وَالمُرْسَليْنَ فِي دَارِ الْجَلاَلِ
 
 *‘One who declares ‘there is no god but Allah’ and ‘Allah is the
 Greatest’ in front of the Imam (a.t.f.s.), Allah will write for him His
@@ -1927,23 +1511,15 @@ exclaim (الله أكبَر) and (لاَ إلَهَ إِلاَ اللهُ) . In
 you recite (الله أكبَر) and ( (لاَ إلَهَ إِلاَ اللهُ, we will not remain
 ourselves and will recite
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ
 
 To conclude, we shall mention another tradition on this topic.
 
 Fuzail relates that either Imam Baqir (a.s.) or Imam Sadiq (a.s.) urged
 the people,
 
-<blockquote dir="rtl">
-  <p>
-أَكْثِرُوْا مِنَ التَّهْلِيْلِ وَالتَّكْبِيرِ فإَنِهُّ لِيْسَ شَئٌ
-أحَبَ ُإلِى اللهِ مِنَ التَّكْبِيْرِ وَ التَّهْلِيْلِ
-  </p>
-</blockquote>
+> أَكْثِرُوْا مِنَ التَّهْلِيْلِ وَالتَّكْبِيرِ فإَنِهُّ لِيْسَ شَئٌ
+> أحَبَ ُإلِى اللهِ مِنَ التَّكْبِيْرِ وَ التَّهْلِيْلِ
 
 *‘Recite excessively ‘there is no god but Allah’ and ‘Allah is the
 Greatest’. For surely there is nothing more beloved to Allah than
@@ -1956,11 +1532,7 @@ Allah and he is engrossed in reciting that which is dearest to Allah.
 Verse 22
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٢. السَّلامُ عَلَيْكَ حِينَ تَحْمَدُ وَتَسْتَغْفِرُ
-  </p>
-</blockquote>
+> ٢٢. السَّلامُ عَلَيْكَ حِينَ تَحْمَدُ وَتَسْتَغْفِرُ
 
 **Salutation upon you, while you praise Allah and seek forgiveness from
 Him.**
@@ -1975,11 +1547,7 @@ the former is augmented. Hence, Imam Sadiq (a.s.) informs,
 *‘Everyday, the Holy Prophet (S) used to praise Allah 366 times i.e.
 equal to the number of veins in his body, in this manner:*
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ كَثِيْرًا عَلَى كُلِ حَالٍ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ كَثِيْرًا عَلَى كُلِ حَالٍ
 
 *‘All praise is for Allah, the Lord of the Worlds, as much as possible,
 in every condition.’*[^68]
@@ -1993,11 +1561,7 @@ forgiveness at least 25 times.’*[^69]
 
 The Holy Prophet (S) himself declared,
 
-<blockquote dir="rtl">
-  <p>
-وَ أنَا اَسْتَغْفِرُ الله سَبْعِيْنَ اِسْتِغْفَارِا
-  </p>
-</blockquote>
+> وَ أنَا اَسْتَغْفِرُ الله سَبْعِيْنَ اِسْتِغْفَارِا
 
 *‘I seek forgiveness from Allah seventy times.’*[^70]
 
@@ -2047,12 +1611,8 @@ our imperfect intellects to fathom them.
 Verse 23
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٣. السَّلامُ عَلَيْكَ حِينَ تُصْبِحُ وَتُمْسِي السَّلامُ عَلَيْكَ فِي
-اللَيْلِ إِذا يَغْشى وَالنَّهارِ إِذا تَجَلّى
-  </p>
-</blockquote>
+> ٢٣. السَّلامُ عَلَيْكَ حِينَ تُصْبِحُ وَتُمْسِي السَّلامُ عَلَيْكَ فِي
+> اللَيْلِ إِذا يَغْشى وَالنَّهارِ إِذا تَجَلّى
 
 **‘Salutation upon you in the morning and in the evening. Salutation
 upon you in the night when it darkens and in the day when it brightens
@@ -2061,11 +1621,7 @@ up.’**
 In this Ziyarat, we have mentioned the times of day in three places. The
 first time was when we recited
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ فِي آناءِ لَيْلِكَ وَأَطْرافِ نَهارِكَ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ فِي آناءِ لَيْلِكَ وَأَطْرافِ نَهارِكَ
 
 The second and third times are underlined in the above two sentences.
 What is the reason behind such time-related salutations? This poser is
@@ -2074,17 +1630,9 @@ Allah to hasten the reappearance of Imam (a.t.f.s.) and to give us the
 grace to hear directly from him the various aspects of this and other
 Ziyaraat and supplications. At this stage all we can say is that:
 
-<blockquote dir="rtl">
-  <p>
-عِبَارَاتُنَـا شَتَّى وَحُسْنُكَ وَاحِدٌ
-  </p>
-</blockquote>
+> عِبَارَاتُنَـا شَتَّى وَحُسْنُكَ وَاحِدٌ
 
-<blockquote dir="rtl">
-  <p>
-وَكُــلٌّ إلَى ذَاكَ الْجَـمَالِ يُثْيرُ
-  </p>
-</blockquote>
+> وَكُــلٌّ إلَى ذَاكَ الْجَـمَالِ يُثْيرُ
 
 *“Our phrases are many while your splendour is one*
 
@@ -2093,11 +1641,7 @@ Ziyaraat and supplications. At this stage all we can say is that:
 Verse 24
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٤. السَّلامُ عَلَيْكَ أَيُّها الإمام المَأْمُونُ
-  </p>
-</blockquote>
+> ٢٤. السَّلامُ عَلَيْكَ أَيُّها الإمام المَأْمُونُ
 
 **Salutation upon you – O Protected Imam!**
 
@@ -2112,11 +1656,7 @@ archangel Jibraeel (a.s.), the Trustworthy prides over him (a.t.f.s.).
 Verse 25
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٥. السَّلامُ عَلَيْكَ أَيُّها المُقَدَّمُ المَأْمُولُ
-  </p>
-</blockquote>
+> ٢٥. السَّلامُ عَلَيْكَ أَيُّها المُقَدَّمُ المَأْمُولُ
 
 **Salutation upon you – O Protected Imam! O the Foremost, the Hope of
 Creation!**
@@ -2136,11 +1676,7 @@ mankind. Rather, he is hope of all Prophets (a.s.), the Successors
 Mahdi (a.t.f.s.) who is expected to revive the Holy Quran and its
 edicts:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ المُؤَمَّلُ لإحْياءِ الكِتابِ وَحُدُودِهِ
-  </p>
-</blockquote>
+> أَيْنَ المُؤَمَّلُ لإحْياءِ الكِتابِ وَحُدُودِهِ
 
 *‘Where is the Expected One who will enliven the Book (Quran) and its
 statutes’?*[^71]
@@ -2150,11 +1686,7 @@ anticipated by all righteous servants. Imam’s (a.t.f.s.) illustrious
 ancestor, Ameerul Momineen Ali b. Abi Talib (a.s.) has also referred to
 Imam (a.t.f.s.) in this manner:
 
-<blockquote dir="rtl">
-  <p>
-...ثُمَّ يَقًوْمُ القَائِمُ الْمَأْمُوْلُ...
-  </p>
-</blockquote>
+> ...ثُمَّ يَقًوْمُ القَائِمُ الْمَأْمُوْلُ...
 
 *‘…then the Qaim (a.t.f.s.), the Expected One, shall reappear…’*[^72]
 
@@ -2164,11 +1696,7 @@ Likewise Imam Jafar Sadiq (a.s.) has also reminisced over Imam Mahdi
 Verse 26
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٦. السَّلامُ عَلَيْكَ بِجَوامِعِ السَّلامِ
-  </p>
-</blockquote>
+> ٢٦. السَّلامُ عَلَيْكَ بِجَوامِعِ السَّلامِ
 
 **Salutation upon you with a comprehensive salutation.**
 
@@ -2198,12 +1726,8 @@ from deat to Heaven and Hell.*
 Verse 27
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٧. يامَوْلايَ شَقِيَ مَنْ خالَفَكَ وَسَعِدَ مَنْ أَطاعَكَ ؛ فَاشْهَدْ
-عَلى ماأَشْهَدْتُكَ عَلَيْهِ وَأَنا وَلِيُّ لَكَ بَرِيٌ مِنْ عَدُوِّكَ
-  </p>
-</blockquote>
+> ٢٧. يامَوْلايَ شَقِيَ مَنْ خالَفَكَ وَسَعِدَ مَنْ أَطاعَكَ ؛ فَاشْهَدْ
+> عَلى ماأَشْهَدْتُكَ عَلَيْهِ وَأَنا وَلِيُّ لَكَ بَرِيٌ مِنْ عَدُوِّكَ
 
 **‘O my Master, wretched is the one who has opposed you. Fortunate is
 the one who has obeyed you. You be a witness to all that I have
@@ -2245,12 +1769,8 @@ inclination towards them. (In this regard please refer to Surah Ahzab
 Verse 28
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٨. فَالحَقُّ مارَضَيْتُمُوهُ وَالباطِلُ ماأَسْخَطْتُمُوهُ
-وَالمَعْرُوفُ ماأَمَرْتُمْ بِهِ وَالمُنْكَرُ مانَهَيْتُمْ عَنْهُ
-  </p>
-</blockquote>
+> ٢٨. فَالحَقُّ مارَضَيْتُمُوهُ وَالباطِلُ ماأَسْخَطْتُمُوهُ
+> وَالمَعْرُوفُ ماأَمَرْتُمْ بِهِ وَالمُنْكَرُ مانَهَيْتُمْ عَنْهُ
 
 **‘Then truth is what pleases you and falsehood is what displeases you.
 Your command constitutes goodness and your prohibition signifies
@@ -2265,12 +1785,8 @@ to us.
 
 The Holy Quran declares,
 
-<blockquote dir="rtl">
-  <p>
-عَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ
-تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ
-  </p>
-</blockquote>
+> عَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ
+> تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ
 
 ***‘…Perhaps you may dislike a thing while it is good for you, and
 perhaps, you may love a thing while it is evil for you…’***[^74]
@@ -2311,14 +1827,10 @@ prohibitions.
 Verse 29
 --------
 
-<blockquote dir="rtl">
-  <p>
-٢٩. فَنَفْسِي مُؤْمِنَةٌ بِالله وَحْدَهُ لاشَرِيكَ لَهُ وَبِرَسُولِهِ
-وَبِأَمِيرَ المُؤْمِنِينَ وَبِكُمْ يامَوْلايَ أَوَّلِكُمْ وَآخِرِكُمْ
-وَنُصْرَتِي مُعَدَّةٌ لَكُمْ وَمَوَدَّتِي خالِصَةٌ لَكُمْ آمِينَ
-آمِينَ
-  </p>
-</blockquote>
+> ٢٩. فَنَفْسِي مُؤْمِنَةٌ بِالله وَحْدَهُ لاشَرِيكَ لَهُ وَبِرَسُولِهِ
+> وَبِأَمِيرَ المُؤْمِنِينَ وَبِكُمْ يامَوْلايَ أَوَّلِكُمْ وَآخِرِكُمْ
+> وَنُصْرَتِي مُعَدَّةٌ لَكُمْ وَمَوَدَّتِي خالِصَةٌ لَكُمْ آمِينَ
+> آمِينَ
 
 **‘I have believed in Allah, the One – there is no associate for Him.
 And I have believed in His Messenger (S) and in Ameerul Momineen (a.s.)
@@ -2506,5 +2018,4 @@ Anwaar vol. 52, p.236
 48, p.
 
 [^74]: Surah Baqarah (2): Verse 216.
-
 

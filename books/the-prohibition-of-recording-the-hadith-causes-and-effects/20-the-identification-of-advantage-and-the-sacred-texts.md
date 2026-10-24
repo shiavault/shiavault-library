@@ -961,4 +961,3 @@ refutable and baseless.
 of Sahl ibn Sa\`d al-Sa\`idiy); Ibn \`Abd al-Barr: al-Isti\`ab 2:664 No.
 1089; al-Muzziy: Tahdhib al-Kamal 12:189.
 
-

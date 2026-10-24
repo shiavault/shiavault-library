@@ -1510,4 +1510,3 @@ at-Tafsir (as-Safi), vol.1, p.364.
 
 [^49]: al-Qunduzi; Yanabi 'u 'l-mawaddah, pp.444-7.
 
-

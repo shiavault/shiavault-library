@@ -63,7 +63,6 @@ humbleness and modesty, there is no pretension or waste in them, because
 they are natural and are present in the human character. And there is no
 power, save in God.
 
-
 **C. Rights Of Leaders**
 
 14. As for the right of your ruler (sultan) is that you should know
@@ -167,5 +166,4 @@ and not demand from him what he cannot do. And if you do not like him,
 be relieved of the responsibility [put upon you by God] by changing him,
 but do not inflict punishment upon the creation of God. And there is no
 power save in God.
-
 

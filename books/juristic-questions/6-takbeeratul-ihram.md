@@ -53,4 +53,3 @@ will be haram.
 [^6]: Tasleem is saying (as-salamu alaykum wa rahmatullahi wa barakatuh)
 to end the prayer.
 
-

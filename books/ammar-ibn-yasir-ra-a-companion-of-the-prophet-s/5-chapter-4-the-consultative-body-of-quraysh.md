@@ -429,4 +429,3 @@ and exhausted. He had to endure such hardships as had not been endured
 by any previous Prophet.  
   
 
-

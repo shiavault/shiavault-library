@@ -6,14 +6,10 @@ Sunnis will never be able to *firmly* answer till the end of the world.
 This is due to the severe conflicts between their “authentic” *ahadith*
 on the matter. For instance, Imam Muslim (d. 261 H) reports:
 
-<blockquote dir="rtl">
-  <p>
-وحدثنا محمد بن عبدالله بن نمير حدثنا أبي حدثنا عبيدالله عن ابن شهاب عن
-الحسن وعبدالله ابني محمد بن علي عن أبيهما عن علي أنه سمع ابن عباس يلين
-في متعة النساء فقال مهلا يا ابن عباس فإن رسول الله صلى الله عليه و سلم
-نهى عنها يوم خيبر وعن لحوم الحمر الإنسية
-  </p>
-</blockquote>
+> وحدثنا محمد بن عبدالله بن نمير حدثنا أبي حدثنا عبيدالله عن ابن شهاب عن
+> الحسن وعبدالله ابني محمد بن علي عن أبيهما عن علي أنه سمع ابن عباس يلين
+> في متعة النساء فقال مهلا يا ابن عباس فإن رسول الله صلى الله عليه و سلم
+> نهى عنها يوم خيبر وعن لحوم الحمر الإنسية
 
 Muhammad b. ‘Abd Allah b. Numayr – my father – ‘Ubayd Allah – Ibn Shihab
 – al-Hasan and ‘Abd Allah, sons of Muhammad b. ‘Ali – their father:
@@ -37,14 +33,10 @@ had been banned *eternally* since then.
 
 But, Imam Muslim has another interesting report:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق بن إبراهيم أخبرنا يحيى بن آدم حدثنا إبراهيم بن سعد عن
-عبدالملك بن الربيع بن سبرة الجهني عن أبيه عن جده قال أمرنا رسول الله
-صلى الله عليه و سلم بالمتعة عام الفتح حين دخلنا مكة ثم لم نخرج منها
-حتى نهانا عنها
-  </p>
-</blockquote>
+> حدثنا إسحاق بن إبراهيم أخبرنا يحيى بن آدم حدثنا إبراهيم بن سعد عن
+> عبدالملك بن الربيع بن سبرة الجهني عن أبيه عن جده قال أمرنا رسول الله
+> صلى الله عليه و سلم بالمتعة عام الفتح حين دخلنا مكة ثم لم نخرج منها
+> حتى نهانا عنها
 
 Ishaq b. Ibrahim – Yahya b. Adam – Ibrahim b. Sa’d – ‘Abd al-Malik b.
 al-Rabi’ b. Sabrah al-Juhani – his father (al-Rabi’) – his grandfather
@@ -61,14 +53,10 @@ Meanwhile, this must be put in its proper context. Sabrah was one of the
 soldiers who conquered Makkah with the Messenger of Allah, as Imam
 Muslim reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو كامل فضيل بن حسين الجحدري حدثنا بشر ( يعني ابن مفضل ) حدثنا
-عمارة بن غزية عن الربيع بن سبرة أن أباه غزا مع رسول الله صلى الله عليه
-و سلم فتح مكة قال فأقمنا بها خمس عشرة ( ثلاثين بين ليلة ويوم ) فأذن
-لنا رسول الله صلى الله عليه و سلم في متعة النساء
-  </p>
-</blockquote>
+> حدثنا أبو كامل فضيل بن حسين الجحدري حدثنا بشر ( يعني ابن مفضل ) حدثنا
+> عمارة بن غزية عن الربيع بن سبرة أن أباه غزا مع رسول الله صلى الله عليه
+> و سلم فتح مكة قال فأقمنا بها خمس عشرة ( ثلاثين بين ليلة ويوم ) فأذن
+> لنا رسول الله صلى الله عليه و سلم في متعة النساء
 
 Abu Kamil Fuḍayl b. Husayn al-Jahdari – Bishr b. Mufaḍḍal – ‘Amarah b.
 Ghaziyyah:
@@ -88,13 +76,9 @@ The Year of the Conquest of Makkah is also known as the Year of
 al-Awṭas, and this is another relevant *riwayah* of Imam Muslim
 concerning it:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا يونس بن محمد حدثنا عبدالواحد بن زياد
-حدثنا أبو عميس عن إياس بن سلمة عن أبيه قال رخص رسول الله صلى الله عليه
-و سلم عام أوطاس في المتعة ثلاثا ثم نهى عنها
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا يونس بن محمد حدثنا عبدالواحد بن زياد
+> حدثنا أبو عميس عن إياس بن سلمة عن أبيه قال رخص رسول الله صلى الله عليه
+> و سلم عام أوطاس في المتعة ثلاثا ثم نهى عنها
 
 Abu Bakr b. Abi Shaybah – Yunus b. Muhammad – ‘Abd al-Wahid b. Ziyad –
 Abu ‘Umays – Iyas b. Salama – his father (Salama):
@@ -104,12 +88,8 @@ The Messenger of Allah, peace be upon him, **allowed** ***mut’ah***
 
 The annotator, Shaykh ‘Abd al-Baqi, explains:
 
-<blockquote dir="rtl">
-  <p>
-( عام أوطاس ) هذا تصريح بأنها أبيحت يوم فتح مكة وهو ويوم أوطاس شيء
-واحد
-  </p>
-</blockquote>
+> ( عام أوطاس ) هذا تصريح بأنها أبيحت يوم فتح مكة وهو ويوم أوطاس شيء
+> واحد
 
 (Year of Awṭas) **this is an explicit statement that it was allowed on
 the day of the conquest of Makkah**, which is also the same as the Day
@@ -121,13 +101,9 @@ entered Makkah, and was banned again three days later.
 Interestingly, Imam Muslim has this “*sahih*” report which overturns
 everything:
 
-<blockquote dir="rtl">
-  <p>
-وحدثنا أبو بكر بن أبي شيبة حدثنا ابن علية عن معمر عن الزهري عن الربيع
-بن سبرة عن أبيه أن رسول الله صلى الله عليه و سلم نهى يوم الفتح عن متعة
-النساء
-  </p>
-</blockquote>
+> وحدثنا أبو بكر بن أبي شيبة حدثنا ابن علية عن معمر عن الزهري عن الربيع
+> بن سبرة عن أبيه أن رسول الله صلى الله عليه و سلم نهى يوم الفتح عن متعة
+> النساء
 
 Abu Bakr b. Abi Shaybah – Ibn ‘Ulayyah – Ma’mar – al-Zuhri – al-Rabi’ b.
 Sabrah – his father (Sabrah):
@@ -142,15 +118,11 @@ Meanwhile, ‘Umar supposedly considered the ban of *mut’ah* after this
 three-day allowance – which alleged occurred only during the conquest of
 Makkah - as *permanent*. Imam Ibn Majah (d. 273 H) tells us:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن خلف العسقلاني. ثنا الفريابي عن أبان بن أبي حازم، عن أبي
-بكر بن حفص، عن ابن عمر، قال: لما ولى عمر بن الخطاب، خطب الناس فقال: إن
-رسول الله صلى الله عليه وسلم أذن لنا في المتعة ثلاثا، ثم حرمها. والله
-!لا أعلم أحدا يتمتع وهو محصن إلا رجمته بالحجارة إلا أن يأتيني بأربعة
-يشهدون أن رسول الله أحلها بعد إذ حرمها.
-  </p>
-</blockquote>
+> حدثنا محمد بن خلف العسقلاني. ثنا الفريابي عن أبان بن أبي حازم، عن أبي
+> بكر بن حفص، عن ابن عمر، قال: لما ولى عمر بن الخطاب، خطب الناس فقال: إن
+> رسول الله صلى الله عليه وسلم أذن لنا في المتعة ثلاثا، ثم حرمها. والله
+> !لا أعلم أحدا يتمتع وهو محصن إلا رجمته بالحجارة إلا أن يأتيني بأربعة
+> يشهدون أن رسول الله أحلها بعد إذ حرمها.
 
 Muhammad b. Khalaf al-‘Asqalani – al-Faryabi – **‘Aban b. Abi Hazim** –
 Abu Bakr b. Hafs – Ibn ‘Umar:
@@ -165,23 +137,15 @@ people who testify that the Messenger of Allah (later) declared it**
 
 Shaykh al-Arnauṭ and two others say:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح وهذاسند حسن
-  </p>
-</blockquote>
+> حديث صحيح وهذاسند حسن
 
 A *sahih hadith*, and this chain is *hasan*.[^8]
 
 NOTE: This *hadith* is actually *ḍa’if*. Concerning one of its
 narrators, al-Hafiẓ (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-أبان بن عبد الله بن أبي حازم بن صخر بن العيلة بفتح العين المهملة
-البجلي الأحمسي الكوفي صدوق في حفظه لين
-  </p>
-</blockquote>
+> أبان بن عبد الله بن أبي حازم بن صخر بن العيلة بفتح العين المهملة
+> البجلي الأحمسي الكوفي صدوق في حفظه لين
 
 Aban b. ‘Abd Allah b. Abi Hazim b. Sakhr b. al-‘Aylah al-Bajali
 al-Ahmasi al-Kufi: *Saduq* (very truthful), **there is weakness in his
@@ -189,15 +153,11 @@ memory**.[^9]
 
 Then, Imam Ibn Hibban (d. 354 H) gives more details:
 
-<blockquote dir="rtl">
-  <p>
-أبان بن عبد الله البجلي من أهل الكوفة وهو الذي يقال له أبان بن أبي
-حازم، يروى عن أبان بن تغلب وأهل الكوفة، روى عنه الثوري ووكيع والناس.
-وكان ممن فحش خطؤه وانفرد بالمناكير، أخبرنا الهمداني قال سمعت عمرو بن
-علي يقول: ما سمعت يحيى بن سعيد القطان يحدث عنه بشئ قط - يعنى أبان
-البجلي.
-  </p>
-</blockquote>
+> أبان بن عبد الله البجلي من أهل الكوفة وهو الذي يقال له أبان بن أبي
+> حازم، يروى عن أبان بن تغلب وأهل الكوفة، روى عنه الثوري ووكيع والناس.
+> وكان ممن فحش خطؤه وانفرد بالمناكير، أخبرنا الهمداني قال سمعت عمرو بن
+> علي يقول: ما سمعت يحيى بن سعيد القطان يحدث عنه بشئ قط - يعنى أبان
+> البجلي.
 
 Aban b. ‘Abd Allah al-Bajali, from the people of Kufa, and he was the
 one called Aban b. Abi Hazim. He narrated from Aban b. Taghlib and the
@@ -215,16 +175,12 @@ we are again with our Sunni *‘ulama*!
 Yet, even this “backup” provided by Imam al-Bayhaqi (d. 458 H) does no
 good either:
 
-<blockquote dir="rtl">
-  <p>
-وقد حدثنا أبو محمد عبد الله بن يوسف الأصبهاني أنبأ أبو محمد عبد الرحمن
-بن يحيى الزهري القاضي بمكة ثنا محمد بن إسماعيل الصائغ ثنا أبو خالد
-الأموي ثنا منصور بن دينار ثنا عمر بن محمد عن سالم بن عبد الله عن أبيه
-عن عمر بن الخطاب رضي الله عنه قال صعد عمر على المنبر فحمد الله وأثنى
-عليه ثم قال ما بال رجال ينكحون هذه المتعة وقد نهى رسول الله صلى الله
-عليه و سلم عنها ألا وإني لا أوتي بأحد نكحها إلا رجمته
-  </p>
-</blockquote>
+> وقد حدثنا أبو محمد عبد الله بن يوسف الأصبهاني أنبأ أبو محمد عبد الرحمن
+> بن يحيى الزهري القاضي بمكة ثنا محمد بن إسماعيل الصائغ ثنا أبو خالد
+> الأموي ثنا منصور بن دينار ثنا عمر بن محمد عن سالم بن عبد الله عن أبيه
+> عن عمر بن الخطاب رضي الله عنه قال صعد عمر على المنبر فحمد الله وأثنى
+> عليه ثم قال ما بال رجال ينكحون هذه المتعة وقد نهى رسول الله صلى الله
+> عليه و سلم عنها ألا وإني لا أوتي بأحد نكحها إلا رجمته
 
 Abu Muhammad ‘Abd Allah b. Yusuf al-Asbahani – Abu Muhammad ‘Abd
 al-Rahman b. Yahya al-Zuhri al-Qaḍi – Muhammad b. Isma’il al-Saigh – Abu
@@ -241,12 +197,8 @@ brought to me, I will stone him.”[^11]
 Al-Bayhaqi himself expresses doubt about the authenticity of this
 *riwayah* immediately after quoting it:
 
-<blockquote dir="rtl">
-  <p>
-فهذا إن صح يبين أن عمر رضي الله عنه إنما نهى عن نكاح المتعة لأنه علم
-نهي النبي صلى الله عليه و سلم عنه
-  </p>
-</blockquote>
+> فهذا إن صح يبين أن عمر رضي الله عنه إنما نهى عن نكاح المتعة لأنه علم
+> نهي النبي صلى الله عليه و سلم عنه
 
 So, this one, **IF AUTHENTIC**, shows that ‘Umar, may Allah be pleased
 with him, only forbade the *nikah* of *mut’ah* because he knew of its
@@ -255,14 +207,10 @@ prohibition by the Prophet, peace be upon him.[^12]
 This was perhaps due to the presence of Mansur b. Dinar in the *sanad*.
 Al-Hafiẓ documents about him:
 
-<blockquote dir="rtl">
-  <p>
-منصور بن دينار السهمي :عن الزهري قال النسائي ليس بالقوى وقال البخاري
-روى عن نافع وحماد في حديثه نظر \* وقال يحيى بن معين ضعيف قلت … وذكره
-العقيلي في الضعفاء … وذكره ابن حبان في الثقات … وقال أبو زرعة صالح
-وقال أبو حاتم ليس به بأس وقال العجلي لا بأس به
-  </p>
-</blockquote>
+> منصور بن دينار السهمي :عن الزهري قال النسائي ليس بالقوى وقال البخاري
+> روى عن نافع وحماد في حديثه نظر \* وقال يحيى بن معين ضعيف قلت … وذكره
+> العقيلي في الضعفاء … وذكره ابن حبان في الثقات … وقال أبو زرعة صالح
+> وقال أبو حاتم ليس به بأس وقال العجلي لا بأس به
 
 Mansur b. Dinar al-Sahmi: he narrated from al-Zuhri. **Al-Nasai said:
 “He is not strong.” Al-Bukhari said, “He narrated from Nafi’ and Hammad.
@@ -276,11 +224,7 @@ We have capitalized, in particular, the statement of Imam al-Bukhari (d.
 256 H), because it is a *jarh mufassar*. Imam al-Dhahabi (d. 748 H) has
 narrated that al-Bukhari himself said:
 
-<blockquote dir="rtl">
-  <p>
-إذا قلت فلان في حديثه نظر، فهو متهم واه.
-  </p>
-</blockquote>
+> إذا قلت فلان في حديثه نظر، فهو متهم واه.
 
 When I say “there is problem with the *hadith* of so-and-so”, **then he
 is accused (of fabricating** ***ahadith*****), weak**.[^14]
@@ -305,16 +249,12 @@ Yet, there is a further report of a third *permanent* ban on *mut’ah*
 two years after the conquest of Makkah! This is the *hadith* by Imam
 al-Darimi (d. 255 H):
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا جعفر بن عون عن عبد العزيز بن عمر بن عبد العزيز عن الربيع بن
-سبرة ان أباه حدثه أنهم ساروا مع رسول الله صلى الله عليه و سلم في حجة
-الوداع فقال استمتعوا من هذه النساء ... ثم غدوت فإذا رسول الله صلى الله
-عليه و سلم قائم بين الركن والباب فقال يا أيها الناس اني قد كنت أذنت
-لكم في الاستمتاع من النساء الا وان الله قد حرم ذلك إلى يوم القيامة فمن
-كان عنده منهن شيء فليخل سبيلها ولا تأخذوا مما آتيتموهن شيئا
-  </p>
-</blockquote>
+> أخبرنا جعفر بن عون عن عبد العزيز بن عمر بن عبد العزيز عن الربيع بن
+> سبرة ان أباه حدثه أنهم ساروا مع رسول الله صلى الله عليه و سلم في حجة
+> الوداع فقال استمتعوا من هذه النساء ... ثم غدوت فإذا رسول الله صلى الله
+> عليه و سلم قائم بين الركن والباب فقال يا أيها الناس اني قد كنت أذنت
+> لكم في الاستمتاع من النساء الا وان الله قد حرم ذلك إلى يوم القيامة فمن
+> كان عنده منهن شيء فليخل سبيلها ولا تأخذوا مما آتيتموهن شيئا
 
 Ja’far b. ‘Awn – ‘Abd al-‘Aziz b. ‘Umar b. ‘Abd al-‘Aziz – al-Rabi’ b.
 Sabrah – his father:
@@ -330,32 +270,20 @@ take back anything from what you gave them (as dowries).”[^15]
 
 Shaykh Asad comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^16]
 
 Imam Ibn Hibban (d. 354 H) has documented it too[^17], and al-Albani (d.
 1420 H) says about it:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^18]
 
 And al-Arnauṭ agrees:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^19]
 
@@ -387,22 +315,14 @@ If this is not mockery of Allah and His Messenger by the Ahl al-Sunnah
 wa al-Jama’ah, what then is it? Al-Hafiẓ Ibn Kathir (d. 774 H),
 meanwhile, thinks he has an explanation:
 
-<blockquote dir="rtl">
-  <p>
-فقد نص الشافعي على أنه لا يعلم شيئا أبيح ثم حرم ثم أبيح ثم حرم غير
-نكاح المتعة وما حداه على هذا رحمه الله إلا اعتماده على هذين الحديثين
-كما قدمناه .وقد حكى السهيلي وغيره عن بعضهم: أنه ادعى أنها أبيحت ثلاث
-مرات وحرمت ثلاث مرات وقال آخرون أربع مرات وهذا بعيد جدا والله أعلم.
-  </p>
-</blockquote>
+> فقد نص الشافعي على أنه لا يعلم شيئا أبيح ثم حرم ثم أبيح ثم حرم غير
+> نكاح المتعة وما حداه على هذا رحمه الله إلا اعتماده على هذين الحديثين
+> كما قدمناه .وقد حكى السهيلي وغيره عن بعضهم: أنه ادعى أنها أبيحت ثلاث
+> مرات وحرمت ثلاث مرات وقال آخرون أربع مرات وهذا بعيد جدا والله أعلم.
 
-<blockquote dir="rtl">
-  <p>
-واختلفوا أي وقت أول ما حرمت فقيل في خيبر وقيل في عمرة القضاء وقيل في
-عام الفتح وهذا يظهر وقيل في أوطاس وهو قريب من الذي قبله وقيل في تبوك
-وقيل في حجة الوداع.
-  </p>
-</blockquote>
+> واختلفوا أي وقت أول ما حرمت فقيل في خيبر وقيل في عمرة القضاء وقيل في
+> عام الفتح وهذا يظهر وقيل في أوطاس وهو قريب من الذي قبله وقيل في تبوك
+> وقيل في حجة الوداع.
 
 **Al-Shafi’i had explicitly stated that he did not know of anything that
 was made** ***halal*****, then made** ***haram*****, then made**
@@ -427,11 +347,7 @@ But, this only worsens things for the Ahl al-Sunnah. On the specific
 question of *zina* (fornication and adultery), this is also what this
 Makkan *ayah* says:
 
-<blockquote dir="rtl">
-  <p>
-ولا تقربوا الزنا إنه كان فاحشة وساء سبيلا
-  </p>
-</blockquote>
+> ولا تقربوا الزنا إنه كان فاحشة وساء سبيلا
 
 **And do not approach** ***zina***. Verily, it is an indecency, and an
 evil way.[^21]
@@ -470,14 +386,10 @@ Unsurprisingly, all these alleged repeated bans of *mut’ah* were
 completely unknown to the generality of the Sahabah, as Imam Muslim
 reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن رافع حدثنا عبدالرزاق أخبرنا ابن جريج أخبرني أبو الزبير
-قال سمعت جابر بن عبدالله يقول كنا نستمتع بالقبضة من التمر والدقيق
-الأيام على عهد رسول الله صلى الله عليه و سلم وأبي بكر حتى نهى عنه عمر
-في شأن عمرو بن حريث
-  </p>
-</blockquote>
+> حدثني محمد بن رافع حدثنا عبدالرزاق أخبرنا ابن جريج أخبرني أبو الزبير
+> قال سمعت جابر بن عبدالله يقول كنا نستمتع بالقبضة من التمر والدقيق
+> الأيام على عهد رسول الله صلى الله عليه و سلم وأبي بكر حتى نهى عنه عمر
+> في شأن عمرو بن حريث
 
 Muhammad b. Rafi’ – ‘Abd al-Razzaq – Ibn Jurayj – Abu al-Zubayr:
 
@@ -504,14 +416,10 @@ Even more interesting is the dogged refusal of Ibn ‘Abbas, *raḍiyallahu
 that Imam ‘Ali allegedly informed him that *mut’ah* had been banned at
 Khaybar:
 
-<blockquote dir="rtl">
-  <p>
-وحدثنا محمد بن عبدالله بن نمير حدثنا أبي حدثنا عبيدالله عن ابن شهاب عن
-الحسن وعبدالله ابني محمد بن علي عن أبيهما عن علي أنه سمع ابن عباس يلين
-في متعة النساء فقال مهلا يا ابن عباس فإن رسول الله صلى الله عليه و سلم
-نهى عنها يوم خيبر وعن لحوم الحمر الإنسية
-  </p>
-</blockquote>
+> وحدثنا محمد بن عبدالله بن نمير حدثنا أبي حدثنا عبيدالله عن ابن شهاب عن
+> الحسن وعبدالله ابني محمد بن علي عن أبيهما عن علي أنه سمع ابن عباس يلين
+> في متعة النساء فقال مهلا يا ابن عباس فإن رسول الله صلى الله عليه و سلم
+> نهى عنها يوم خيبر وعن لحوم الحمر الإنسية
 
 Muhammad b. ‘Abd Allah b. Numayr – my father – ‘Ubayd Allah – Ibn Shihab
 – al-Hasan and ‘Abd Allah, sons of Muhammad b. ‘Ali – their father:
@@ -524,16 +432,12 @@ domestic asses.”[^23]
 Yet, long *after* ‘Ali’s death, he was still defending *mut’ah*. Imam
 Muslim again:
 
-<blockquote dir="rtl">
-  <p>
-وحدثني حرملة بن يحيى أخبرنا ابن وهب أخبرني يونس قال ابن شهاب أخبرني
-عروة بن الزبير أن عبدالله ابن الزبير قام بمكة فقال إن ناسا أعمى الله
-قلوبهم كما أعمى أبصارهم يفتون بالمتعة يعرض برجل فناداه فقال إنك لجلف
-جاف فلعمري لقد كانت المتعة تفعل على عهد إمام المتقين ( يريد رسول الله
-صلى الله عليه و سلم ) فقال له ابن الزبير فجرب بنفسك فوالله لئن فعلتها
-لأرجمنك بأحجارك
-  </p>
-</blockquote>
+> وحدثني حرملة بن يحيى أخبرنا ابن وهب أخبرني يونس قال ابن شهاب أخبرني
+> عروة بن الزبير أن عبدالله ابن الزبير قام بمكة فقال إن ناسا أعمى الله
+> قلوبهم كما أعمى أبصارهم يفتون بالمتعة يعرض برجل فناداه فقال إنك لجلف
+> جاف فلعمري لقد كانت المتعة تفعل على عهد إمام المتقين ( يريد رسول الله
+> صلى الله عليه و سلم ) فقال له ابن الزبير فجرب بنفسك فوالله لئن فعلتها
+> لأرجمنك بأحجارك
 
 Harmalah b. Yahya – Ibn Wahb – Yunus – Ibn Shihab – ‘Urwah b. al-Zubayr:
 
@@ -549,14 +453,10 @@ you do it, I will stone you with your stones.”[^24]
 We know the identity of that man in this further *hadith* of Imam
 Muslim:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا حامد بن عمرو البكراوي حدثنا عبدالواحد ( يعني ابن زياد ) عن عاصم
-عن أبي نضرة قال كنت عند جابر بن عبدالله فأتاه آت فقال ابن عباس وابن
-الزبير اختلفا في المتعتين فقال جابر فعلناهما مع رسول الله صلى الله
-عليه و سلم ثم نهانا عنهما عمر فلم نعد لهما
-  </p>
-</blockquote>
+> حدثنا حامد بن عمرو البكراوي حدثنا عبدالواحد ( يعني ابن زياد ) عن عاصم
+> عن أبي نضرة قال كنت عند جابر بن عبدالله فأتاه آت فقال ابن عباس وابن
+> الزبير اختلفا في المتعتين فقال جابر فعلناهما مع رسول الله صلى الله
+> عليه و سلم ثم نهانا عنهما عمر فلم نعد لهما
 
 Hamid b. ‘Amr al-Bakrawi – ‘Abd al-Wahid b. Ziyad – ‘Asim – Abu Naḍrah:
 
@@ -571,30 +471,14 @@ during the rebel “caliphate” of Ibn al-Zubayr in Makkah. That was
 towards the very end of the lifetime of Ibn ‘Abbas. Commenting on these
 reports and others, ‘Allamah al-Albani concludes:
 
-<blockquote dir="rtl">
-  <p>
-وجملة القول: أن ابن عباس رضى الله عنه روى عنه فى المتعة ثلاثة أقوال:
-  </p>
-</blockquote>
+> وجملة القول: أن ابن عباس رضى الله عنه روى عنه فى المتعة ثلاثة أقوال:
 
-<blockquote dir="rtl">
-  <p>
-الأول: الإباحة مطلقا.
-  </p>
-</blockquote>
+> الأول: الإباحة مطلقا.
 
-<blockquote dir="rtl">
-  <p>
-الثانى: الإباحة عند الضرورة.
-  </p>
-</blockquote>
+> الثانى: الإباحة عند الضرورة.
 
-<blockquote dir="rtl">
-  <p>
-والآخر: التحريم مطلقا , وهذا مما لم يثبت عنه صراحة , بخلاف القولين
-الأولين , فهما ثابتان عنه.
-  </p>
-</blockquote>
+> والآخر: التحريم مطلقا , وهذا مما لم يثبت عنه صراحة , بخلاف القولين
+> الأولين , فهما ثابتان عنه.
 
 The summary is: three opinions are narrated from Ibn ‘Abbas, may Allaah
 be pleased with him, about *mut’ah*:
@@ -717,5 +601,4 @@ Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 [^26]: Muhammad Naṣir al-Din al-Albani, Irwa al-Ghalil fi Takhrij
 Ahadith Manar al-Sabil (Beirut: al-Maktab al-Islami; 2nd edition, 1405
 H), vol. 6, p. 319, \# 1903
-
 

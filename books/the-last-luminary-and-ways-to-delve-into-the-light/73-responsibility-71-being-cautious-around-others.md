@@ -10,12 +10,8 @@ the presence of anyone who is not worthy of hearing the truth!
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلتَّقِيَّةُ تُرْسُ الْمُؤْمِنِ وَ الْتَّقِيَّةُ حِرْزُ الْمُؤْمِنِ
-وَ لاَ إِيْمَانَ لِمَنْ لاَ تَقِيَّةَ لَهُ
-  </p>
-</blockquote>
+> أَلتَّقِيَّةُ تُرْسُ الْمُؤْمِنِ وَ الْتَّقِيَّةُ حِرْزُ الْمُؤْمِنِ
+> وَ لاَ إِيْمَانَ لِمَنْ لاَ تَقِيَّةَ لَهُ
 
 “Dissimulation (taqiyyah) is the shield of the believer, dissimulation
 is the safeguard of the believer, and the person who does not observe
@@ -76,17 +72,13 @@ issue are advised to refer to the various Islamic resources.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ مِنَ احْتِمَالِ أَمْرِنَا التَّصْدِيقُ لَهُ وَ
-الْقَبُولُ فَقَطْ مِنَ احْتِمَالِ أَمْرِنَا سَتْرُهُ وَ صِيَانَتُهُ
-مِنْ غَيْرِ أَهْلِهِ. فَاقْرِأْهُمُ السَّلاَمَ وَ قُلْ لَهُمْ: رَحِمَ
-اللٌّهُ عَبْداً إِجْتَرَّ مَوَدَّةَ النَّاسِ إِلـى نَفْسِهِ،
-حَدِّثُوهُمْ بِمَا يَعْرِفُونَ وَاسْتُرُوا عَنْهُمْ مَا يُنْكِرُونَ.
-ثُمَّ قَالَ : وَ اللٌّهِ مَا النَّاصِبُ لَنَا حَرْباً بِأَشَدَّ
-عَلَيْنَا مَؤُونَةً مِنَ النَّاطِقِ عَلَيْنَا بِمَا نَكْرَهُ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ مِنَ احْتِمَالِ أَمْرِنَا التَّصْدِيقُ لَهُ وَ
+> الْقَبُولُ فَقَطْ مِنَ احْتِمَالِ أَمْرِنَا سَتْرُهُ وَ صِيَانَتُهُ
+> مِنْ غَيْرِ أَهْلِهِ. فَاقْرِأْهُمُ السَّلاَمَ وَ قُلْ لَهُمْ: رَحِمَ
+> اللٌّهُ عَبْداً إِجْتَرَّ مَوَدَّةَ النَّاسِ إِلـى نَفْسِهِ،
+> حَدِّثُوهُمْ بِمَا يَعْرِفُونَ وَاسْتُرُوا عَنْهُمْ مَا يُنْكِرُونَ.
+> ثُمَّ قَالَ : وَ اللٌّهِ مَا النَّاصِبُ لَنَا حَرْباً بِأَشَدَّ
+> عَلَيْنَا مَؤُونَةً مِنَ النَّاطِقِ عَلَيْنَا بِمَا نَكْرَهُ
 
 “To undertake our affair is not only to believe it and accept only
 rather, it means to conceal and protect it against those who are not
@@ -102,15 +94,11 @@ from us matters that we detest (to publicize).’[^3]
 In a tradition from the Commander of the Faithful ‘Ali b. Abi Talib (as)
 it has been stated that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ حَدِيثَنَا صَعْبٌ مُسْتَصْعَبٌ خَشِنٌ مَخْشُوشٌ، فَانْـبِذُوا
-إِلـى النَّاسِ نَبْذاً، فَمَنْ عَرَفَ فَزِيدُوهُ، وَ مَنْ أَنْكَرَ
-فَأَمْسِكُوا، لاَ يَحْتَمِلُهُ إِلاَّ ثَلاَثٌ: مَلَكٌ مُقَرَّبٌ، أَوْ
-نَبِيٌّ مُرْسَلٌ، أَوْ عَبْدٌ مُؤْمِنٌ إِمْتَحَنَ اللٌّهُ قَلْبَهُ
-لِلإِيْـمَانِ
-  </p>
-</blockquote>
+> إِنَّ حَدِيثَنَا صَعْبٌ مُسْتَصْعَبٌ خَشِنٌ مَخْشُوشٌ، فَانْـبِذُوا
+> إِلـى النَّاسِ نَبْذاً، فَمَنْ عَرَفَ فَزِيدُوهُ، وَ مَنْ أَنْكَرَ
+> فَأَمْسِكُوا، لاَ يَحْتَمِلُهُ إِلاَّ ثَلاَثٌ: مَلَكٌ مُقَرَّبٌ، أَوْ
+> نَبِيٌّ مُرْسَلٌ، أَوْ عَبْدٌ مُؤْمِنٌ إِمْتَحَنَ اللٌّهُ قَلْبَهُ
+> لِلإِيْـمَانِ
 
 “Verily, our traditions are difficult, hard to understand (properly),
 uneasy to pass, and alarming; therefore present a little of it to the
@@ -129,5 +117,4 @@ and the fear of them putting extra pressure on a person.
 [^3]: al-Kafi, vol. 2, pg. 222, sec. ‘al-Kitman,’ no. 5
 
 [^4]: BaSair al-Darajat, pg. 21, no. 5
-
 

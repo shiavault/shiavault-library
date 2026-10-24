@@ -178,11 +178,7 @@ assured that Allah will help you and Insha’Allah you will succeed.
 Allah has promised in the holy Qur’an that he will solve the problems
 and difficulties, saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمْ اللَّهُ مِنْ فَضْلِهِ
-  </p>
-</blockquote>
+> إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمْ اللَّهُ مِنْ فَضْلِهِ
 
 ***“If they are needy (poor), Allah will make them free from want, out
 of His grace.” (24:32)***
@@ -231,11 +227,7 @@ each other. You may make each other hopeful and encourage one another.
 
 Think of what the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من أحب أن يلقي الله طاهرا مطهرا فليلقه متزوجا.
-  </p>
-</blockquote>
+> من أحب أن يلقي الله طاهرا مطهرا فليلقه متزوجا.
 
 *“Whoever* *desires* *to meet Allah in a pure condition must marry (take
 a spouse).”*[^1]
@@ -571,5 +563,4 @@ seventh edition.
 
 [^5]: Answers to sexual and marital problems, translated by Dr.
 Tarazullah Akhawan, P.14, 19th Edition.
-
 

@@ -31,12 +31,8 @@ his heart from sins and other moral obscene deeds.
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من عمر قلبه بدوام الفكر حسنت افعاله في السر
-والجهر.
-  </p>
-</blockquote>
+> قال على عليه السلام: من عمر قلبه بدوام الفكر حسنت افعاله في السر
+> والجهر.
 
 *“Whoever makes his heart's kingdom habitated with continuous
 pondering -his affairs would become good in outward appearance as well
@@ -79,22 +75,14 @@ able to attain self-refinement, self-cleaning, and self-domination.
 
 The Commander of the Faithful, Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: نعم العون على اسر النفس وكسر عادتها الجوع.
-  </p>
-</blockquote>
+> قال على عليه السلام: نعم العون على اسر النفس وكسر عادتها الجوع.
 
 *“Hunger is the most effective tool for achieving self-domination and
 breaking habits.”*[^2]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من استدام رياضة نفسه انتفع.
-  </p>
-</blockquote>
+> قال على عليه السلام: من استدام رياضة نفسه انتفع.
 
 *“Whoever practices self-asceticism is bound to earn benefits.”*[^3]
 
@@ -126,22 +114,14 @@ you over the angels of His Thrown. 'Then he said to his companions:
 companions assembled around the man and requested him to pray for them.
 The man raised his hand for prayer and said:
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجمع امرنا على الهدى واجعل التقوى زادنا والجنة مآ بنا.
-  </p>
-</blockquote>
+> اللهم اجمع امرنا على الهدى واجعل التقوى زادنا والجنة مآ بنا.
 
 *“O God ! Guide our affairs. make piety provision of our journey, and
 bestow upon us Paradise in the Hereafter.”*[^4]
 
 The Commander of the Faithful Imam ' ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): تولوا من انفسكم تاديبها واعدلوا بها عن ضراوة عاداتها.
-  </p>
-</blockquote>
+> قال على (ع): تولوا من انفسكم تاديبها واعدلوا بها عن ضراوة عاداتها.
 
 *“Arise against the self and chastisement prevent: him from becoming
 addicted to various habits.”*[^5]
@@ -164,23 +144,15 @@ moral excellence shall be revived in his existence.
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من كرمت عليه نفسه هانت عليه شهواته.
-  </p>
-</blockquote>
+> قال على عليه السلام: من كرمت عليه نفسه هانت عليه شهواته.
 
 *“Whoever appreciated the greatness of his self, will regard passions as
 insignificant and worthless.”*[^6]
 
 Imam al-Sajjad (a.s.) was asked:
 
-<blockquote dir="rtl">
-  <p>
-قيل لعلى بن الحسين عليه السلام: من اعطهم الناس خطرا؟ قال: من لم
-يرالدنيا خطرا لنفسه.
-  </p>
-</blockquote>
+> قيل لعلى بن الحسين عليه السلام: من اعطهم الناس خطرا؟ قال: من لم
+> يرالدنيا خطرا لنفسه.
 
 *“Who is the worthiest person ? 'The one who does not consider this
 world worthy of his own existence. ' Replied the Imam.”*[^7]
@@ -243,35 +215,23 @@ becomes used to it, acquiring them as his habit and temperament, ! thus,
 cutting the roots of wicked deeds forever. The Commander of the Faithful
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اكره نفسك على الفضائل فان الرذائل انت مطبوع
-عليها.
-  </p>
-</blockquote>
+> قال على عليه السلام: اكره نفسك على الفضائل فان الرذائل انت مطبوع
+> عليها.
 
 *“Force your self to perform good moral deeds, because the wickedness
 has been incorporated in your inner essence.”*[^8]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: عود نفسك فال المكارم وتحمل اعبة المغارم تشرف نفسك
-وتعمر آخرتك ويكثر حامدوك.
-  </p>
-</blockquote>
+> قال على عليه السلام: عود نفسك فال المكارم وتحمل اعبة المغارم تشرف نفسك
+> وتعمر آخرتك ويكثر حامدوك.
 
 *“Make yourself used to performance of good deeds and for tolerance of
 payment of severe reparation, so that he becomes noble, your Hereafter
 becomes fruitful, and your admirers become more.”*[^9]
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الشهوات اعلال قاتلات والفضل دوائها اقتنا الصبر
-عنها.
-  </p>
-</blockquote>
+> قال على عليه السلام: الشهوات اعلال قاتلات والفضل دوائها اقتنا الصبر
+> عنها.
 
 *“Selfish passions and desires are fatal diseases, and the best
 medicines are selection of patience and abstinence from them.”*[^10]
@@ -307,13 +267,9 @@ insignificant and unimportant. rather should be treated with utmost
 importance. because. it determines our ultimate destiny. The Commander
 of the Faithful Imam ' ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: لاينبغى للمر المسلم ان يواخى الفاجر
-فانه يزين له فعله ويحب ان يكون مثله ولايعينه على عَمر دنياه ولا امر
-معاده, ومدخله ومخرجه منعنده شين عليه.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: لاينبغى للمر المسلم ان يواخى الفاجر
+> فانه يزين له فعله ويحب ان يكون مثله ولايعينه على عَمر دنياه ولا امر
+> معاده, ومدخله ومخرجه منعنده شين عليه.
 
 *“A Muslim should never take a sinful and corrupt person as his
 friend -because, a sinful friend presents vices as virtues, and desires
@@ -323,34 +279,22 @@ Next World, and socialization with him makes a person disgraced.”*[^11]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى عندالله عليه السلام قال: لا ينبغى للمر المسلم ان يواخى الفاجر
-ولا الاحمق ولاالكذب.
-  </p>
-</blockquote>
+> عن ابى عندالله عليه السلام قال: لا ينبغى للمر المسلم ان يواخى الفاجر
+> ولا الاحمق ولاالكذب.
 
 *“It is not appropriate for a Muslim to make friendship with a lewd,
 stupid, and mendacious person.”*[^12]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: المر على دين خليله وقرينه.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: المر على دين خليله وقرينه.
 
 *“A person is bound to follow the religion of his friend and social
 companion.”*[^13]
 
 The Commander of the Faithful Imam ' ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): اياك ومعاشره الاشرار فانهم كالنار مباشرتها تحرق.
-  </p>
-</blockquote>
+> قال على (ع): اياك ومعاشره الاشرار فانهم كالنار مباشرتها تحرق.
 
 *“Association with evil person should be avoided strictly, because on
 evil person is like a burning fire and whoever nears him will be
@@ -358,23 +302,15 @@ burnt.”*[^14]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اياك ومصاحبة الفساق فان الشر بالشر يلحق.
-  </p>
-</blockquote>
+> قال على عليه السلام: اياك ومصاحبة الفساق فان الشر بالشر يلحق.
 
 *“Association With Wicked person should be strictly avoided, because,
 evil will be associated with evil.”*[^15]
 
 Also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اخذر مجالسة قرين السو فانه يهلك مقارنه ويردى
-مصاحبه.
-  </p>
-</blockquote>
+> قال على عليه السلام: اخذر مجالسة قرين السو فانه يهلك مقارنه ويردى
+> مصاحبه.
 
 *“Strictly avoid companionship with an evil friend, because, he will
 lead his fellow companion towards destruction and will damage his
@@ -437,22 +373,14 @@ commit that sin ultimately.
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اذا ابصرت العين الشهوة عمى القلب عن العاقبة.
-  </p>
-</blockquote>
+> قال على عليه السلام: اذا ابصرت العين الشهوة عمى القلب عن العاقبة.
 
 *“When eye sees an erotic scene -the heart becomes blind from seeing its
 ultimate consequences.”*[^17]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: فكرك فى المعصية يحدوك على الوقوع فيها.
-  </p>
-</blockquote>
+> قال على عليه السلام: فكرك فى المعصية يحدوك على الوقوع فيها.
 
 *“Simply thinking about sinful carnal deeds encourages you to commit
 them eventually.”*[^18]
@@ -492,5 +420,4 @@ them eventually.”*[^18]
 [^17]: Ghirar al-Hukm, p-315.
 
 [^18]: Ghirar al-Hukm, p-518.
-
 

@@ -45,4 +45,3 @@ rubies."
 
 Wasa'il ush-Shi'ah, vol. 20, p. 46
 
-

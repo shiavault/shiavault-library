@@ -218,4 +218,3 @@ re-appearance of Muhammad and the Household of Muhammad and May He make
 us one of their supporters and companions, and martyrs between their
 hands by the rights of the prophet and his purified Household (PUT)
 
-

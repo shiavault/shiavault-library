@@ -16,4 +16,3 @@ commentary on the Du\`a; and
 the Du\`a and contains scholarly interpretations of its words and
 phrases written by the learned Aqa Muhammad Baqir Malbubi.
 
-

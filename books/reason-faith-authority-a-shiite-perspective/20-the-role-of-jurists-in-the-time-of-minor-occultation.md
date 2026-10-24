@@ -133,4 +133,3 @@ for understanding the first two (the Qur'an & Sunnah). Once again it
 becomes clear how important reason, justice and piety are for Shi'i
 Islam.
 
-

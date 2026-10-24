@@ -1866,4 +1866,3 @@ m54:2 Muhammed gained the name of Trusty, El-Emīn (Al-Amīn), long before
 he declared himself commissioned to call his countrymen to acknowledge
 the unity of God, the resurrection, judgment, and future life.
 
-

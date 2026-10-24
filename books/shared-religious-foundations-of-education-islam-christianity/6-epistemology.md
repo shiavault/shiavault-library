@@ -1042,4 +1042,3 @@ listen” (2 Timothy 2:14). “The Lord’s servant must not be quarrelsome
 but must be kind to everyone, able to teach, not resentful” (Timothy
 2:24).
 
-

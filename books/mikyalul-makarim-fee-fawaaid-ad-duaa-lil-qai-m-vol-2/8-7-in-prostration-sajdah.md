@@ -19,13 +19,9 @@ especially on the Sajdah Shukr, mentioned in Tohfatul Abraar, quoting
 from Muqna that Shaykh Mufeed said: The supplication that is to be
 recited in the Sajdah Shukr is as follows:
 
-<blockquote dir="rtl">
-  <p>
- اللهم إليك توجهت وبك اعتصمت وعليك توكلت. اللهم أنت ثقتي ورجائي،
-فاكفني ما أهمني وما لم يهمني وما أنت أعلم به مني عز جارك وجل ثناؤك ولا
-إله غيرك صل على محمد وآل محمد، وعجل فرجهم ...
-  </p>
-</blockquote>
+>  اللهم إليك توجهت وبك اعتصمت وعليك توكلت. اللهم أنت ثقتي ورجائي،
+> فاكفني ما أهمني وما لم يهمني وما أنت أعلم به مني عز جارك وجل ثناؤك ولا
+> إله غيرك صل على محمد وآل محمد، وعجل فرجهم ...
 
 O Allah, to You only I turn and to You only I cling and on You do I
 rely. O Allah, You are my hope and refuge. Thus suffice me in that which
@@ -52,5 +48,4 @@ complete my enterprise for me, strengthen my position and fill the earth
 through me with equity and justice…[^1]
 
 [^1]: Kamaluddin; Shaykh Sadooq; Vol. 2/428
-
 

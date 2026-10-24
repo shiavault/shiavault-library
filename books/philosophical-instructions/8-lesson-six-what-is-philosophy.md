@@ -290,4 +290,3 @@ problems only can be proved by the rational method, and why
 philosophical laws are not obtained by way of generalizing from the laws
 of the empirical sciences.
 
-

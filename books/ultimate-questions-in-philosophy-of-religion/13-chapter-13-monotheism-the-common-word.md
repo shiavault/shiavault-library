@@ -520,4 +520,3 @@ Jesus, Prophet of Islam p.9
 
 [^10]: Jn 20:17
 
-

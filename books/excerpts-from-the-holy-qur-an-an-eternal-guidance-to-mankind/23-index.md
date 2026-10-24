@@ -865,4 +865,3 @@ destroying the entire Community
 
     • *Al-Baqarah, 2:166-167*
 
-

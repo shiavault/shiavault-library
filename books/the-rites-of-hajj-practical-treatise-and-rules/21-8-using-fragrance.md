@@ -38,4 +38,3 @@ Article 123
 
 Smelling flowers is not permitted for a Muhrim as obligatory precaution.
 
-

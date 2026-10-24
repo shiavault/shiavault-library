@@ -3,14 +3,10 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-و الجواب أن يقال أما الذي ثبت فهو أن عليا رضي الله عنه تصدق و ناجى ثم
-نسخت الآية قبل أن يعمل بها غيره لكن الآيه لم توجب الصدقة عليهم لكن
-أمرهم إذا ناجوا أن يتصدقوا فمن لم يناج لم يكن عليه أن يتصدق و إذا لم
-تكن المناجاة واجبة لم يكن أحد ملوما إذا ترك ما ليس بواجب
-  </p>
-</blockquote>
+> و الجواب أن يقال أما الذي ثبت فهو أن عليا رضي الله عنه تصدق و ناجى ثم
+> نسخت الآية قبل أن يعمل بها غيره لكن الآيه لم توجب الصدقة عليهم لكن
+> أمرهم إذا ناجوا أن يتصدقوا فمن لم يناج لم يكن عليه أن يتصدق و إذا لم
+> تكن المناجاة واجبة لم يكن أحد ملوما إذا ترك ما ليس بواجب
 
 The reply is to say that what is **authentically transmitted** is that
 ‘Ali, may Allah be pleased with him, gave charity and had a private
@@ -27,19 +23,15 @@ what was not obligatory.[^1]
 
 He adds elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-وهكذا آية النجوى فإنه لم يناج الرسول قبل نسخها إلا علي ولم يكن على من
-ترك النجوى حرج فمثل هذا العمل ليس من خصائص الأئمة ولا من خصائص علي رضي
-الله عنه ولا يقال إن غير على ترك النجوى بخلا بالصدقة لأن هذا غير معلوم
-فإن المدة لم تطل وفي تلك المدة القصيرة قد لا يحتاج الواحد إلى النجوى
-وإن قدر أن هذا كان يخص بعض الناس لم يلزم أن يكون أبو بكر وعمر رضي الله
-عنهما من هؤلاء كيف وأبو بكر رضي الله عنه قد أنفق ماله كله يوم رغب
-النبي صلى الله عليه و سلم في الصدقة وعمر رضي الله عنه جاء بنصف ماله
-بلا حاجة إلى النجوى فكيف يبخل أحدهما بدرهمين أو ثلاثة يقدمها بين يدي
-نجواه
-  </p>
-</blockquote>
+> وهكذا آية النجوى فإنه لم يناج الرسول قبل نسخها إلا علي ولم يكن على من
+> ترك النجوى حرج فمثل هذا العمل ليس من خصائص الأئمة ولا من خصائص علي رضي
+> الله عنه ولا يقال إن غير على ترك النجوى بخلا بالصدقة لأن هذا غير معلوم
+> فإن المدة لم تطل وفي تلك المدة القصيرة قد لا يحتاج الواحد إلى النجوى
+> وإن قدر أن هذا كان يخص بعض الناس لم يلزم أن يكون أبو بكر وعمر رضي الله
+> عنهما من هؤلاء كيف وأبو بكر رضي الله عنه قد أنفق ماله كله يوم رغب
+> النبي صلى الله عليه و سلم في الصدقة وعمر رضي الله عنه جاء بنصف ماله
+> بلا حاجة إلى النجوى فكيف يبخل أحدهما بدرهمين أو ثلاثة يقدمها بين يدي
+> نجواه
 
 The Verse of *al-Najwa* is like that too. This is because **none had a
 private conversation with the Messenger before its abrogation except
@@ -83,16 +75,12 @@ In order to understand what happened with the Verse of *al-Najwa*, it is
 important to understand a background fact about the Sahabah, as stated
 by Allah:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول ولا تبطلوا أعمالكم إن
-الذين كفروا وصدوا عن سبيل الله ثم ماتوا وهم كفار فلن يغفر الله لهم فلا
-تهنوا وتدعوا إلى السلم وأنتم الأعلون والله معكم ولن يتركم أعمالكم إنما
-الحياة الدنيا لعب ولهو وإن تؤمنوا وتتقوا يؤتكم أجوركم ولا يسألكم
-أموالكم إن يسألكموها فيحفكم تبخلوا ويخرج أضغانكم ها أنتم هؤلاء تدعون
-لتنفقوا في سبيل الله فمنكم من يبخل ومن يبخل فإنما يبخل عن نفسه
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول ولا تبطلوا أعمالكم إن
+> الذين كفروا وصدوا عن سبيل الله ثم ماتوا وهم كفار فلن يغفر الله لهم فلا
+> تهنوا وتدعوا إلى السلم وأنتم الأعلون والله معكم ولن يتركم أعمالكم إنما
+> الحياة الدنيا لعب ولهو وإن تؤمنوا وتتقوا يؤتكم أجوركم ولا يسألكم
+> أموالكم إن يسألكموها فيحفكم تبخلوا ويخرج أضغانكم ها أنتم هؤلاء تدعون
+> لتنفقوا في سبيل الله فمنكم من يبخل ومن يبخل فإنما يبخل عن نفسه
 
 **O you who believe!** Obey Allah, and obey the Messenger and render not
 vain your deeds. Verily, those who disbelieve, and hinder from the Path
@@ -116,12 +104,8 @@ least, accept that among the wealthy Sahabah were many who were misers.
 It was against this background that Allah sent down the Verse of
 *al-Najwa*:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا إذا ناجيتم الرسول فقدموا بين يدي نجواكم صدقة ذلك
-خير لكم وأطهر فإن لم تجدوا فإن الله غفور رحيم
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا إذا ناجيتم الرسول فقدموا بين يدي نجواكم صدقة ذلك
+> خير لكم وأطهر فإن لم تجدوا فإن الله غفور رحيم
 
 O you who believe! When you consult with the Messenger in private,
 **spend something in charity before your private consultation**. That
@@ -158,12 +142,8 @@ recoiled, except Amir al-Muminin ‘Ali!
 Due to the unbecoming attitude of the Sahabah to the command in the
 Verse of *al-Najwa*, Allah cancelled it:
 
-<blockquote dir="rtl">
-  <p>
-أأشفقتم أن تقدموا بين يدي نجواكم صدقات فإذ لم تفعلوا وتاب الله عليكم
-فأقيموا الصلاة وآتوا الزكاة وأطيعوا الله ورسوله والله خبير بما تعملون
-  </p>
-</blockquote>
+> أأشفقتم أن تقدموا بين يدي نجواكم صدقات فإذ لم تفعلوا وتاب الله عليكم
+> فأقيموا الصلاة وآتوا الزكاة وأطيعوا الله ورسوله والله خبير بما تعملون
 
 **Are you AFRAID of spending in charity before your private
 consultation? If then, do not do it, and Allah has FORGIVEN you**. So,
@@ -180,15 +160,11 @@ giving *sadaqah*! The only one exempted from the criticism, of course,
 was ‘Ali b. Abi Talib – due to the existence of authentic reports
 clearing him of any guilt. Imam al-Hakim (d. 403 H) records one of them:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني عبد الله بن محمد الصيدلاني ثنا محمد بن أيوب أنبأ يحيى بن
-المغيرة السعدي ثنا جرير عن منصور عن مجاهد عن عبد الرحمن بن أبي ليلى
-قال : قال علي بن أبي طالب رضي الله عنه: إن في كتاب الله لآية ما عمل
-بها أحد ولا يعمل بها بعدي أحد آية النجوى {يا أيها الذين آمنوا إذا
-ناجيتم الرسول فقدموا بين يدي نجواكم صدقة}
-  </p>
-</blockquote>
+> أخبرني عبد الله بن محمد الصيدلاني ثنا محمد بن أيوب أنبأ يحيى بن
+> المغيرة السعدي ثنا جرير عن منصور عن مجاهد عن عبد الرحمن بن أبي ليلى
+> قال : قال علي بن أبي طالب رضي الله عنه: إن في كتاب الله لآية ما عمل
+> بها أحد ولا يعمل بها بعدي أحد آية النجوى {يا أيها الذين آمنوا إذا
+> ناجيتم الرسول فقدموا بين يدي نجواكم صدقة}
 
 ‘Abd Allah b. Muhammad al-Sayadlani – Muhammad b. Ayub – Yahya b.
 al-Mughirah al-Sa’di – Jarir – Mansur – Mujahid – ‘Abd al-Rahman b. Abi
@@ -202,21 +178,13 @@ consultation}[^6]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^7]
 
 Al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^8]
 
@@ -242,13 +210,9 @@ wanted to be miserly, what else would he have done?
 It would not be out of place to end this chapter with these golden Words
 of Allah:
 
-<blockquote dir="rtl">
-  <p>
-والذين يكنزون الذهب والفضة ولا ينفقونها في سبيل الله فبشرهم بعذاب أليم
-يوم يحمى عليها في نار جهنم فتكوى بها جباههم وجنوبهم وظهورهم هذا ما
-كنزتم لأنفسكم فذوقوا ما كنتم تكنزون
-  </p>
-</blockquote>
+> والذين يكنزون الذهب والفضة ولا ينفقونها في سبيل الله فبشرهم بعذاب أليم
+> يوم يحمى عليها في نار جهنم فتكوى بها جباههم وجنوبهم وظهورهم هذا ما
+> كنزتم لأنفسكم فذوقوا ما كنتم تكنزون
 
 And those who hoard up gold and silver and spend it not in the Way of
 Allah, announce unto them a painful torment. On the Day when it will be
@@ -278,5 +242,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 2, p.
 [^8]: Ibid
 
 [^9]: Qur’an 9:34-35
-
 

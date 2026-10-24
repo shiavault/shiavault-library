@@ -362,7 +362,5 @@ Millah and Nahl (shahristani) vol. 1.
 
 (Maidah: 72)
 
-
 THE END..
-
 

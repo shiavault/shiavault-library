@@ -26,12 +26,8 @@ Exalted, is of two types: existential [*takwini*] and institutional
 into being something which Allah has willed, as if that thing which he
 has willed is being summoned or called. Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ
-لَبِثْتُمْ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ
+> لَبِثْتُمْ إِلاَّ قَلِيلاً
 
 ***“The day He calls you forth, you will respond to Him, praising Him,
 and you will think that you remained only a little.”***[^2]
@@ -50,12 +46,8 @@ so that he may attract Allah’s attention to himself because of His
 Sovereignty and Lordship, and this is what supplication means. The word
 of Allah alludes to this same meaning:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***“And Your Lord says: Call Me, and I will answer you! Indeed those who
 are disdainful of My worship will enter hell in utter humility.”***[^3]
@@ -247,12 +239,8 @@ it is as though he is requesting and asking the Divine Presence with all
 his being and it is natural that the expansive mercy of Allah has
 encompassed him:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ...
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ...
 
 ***“And when my servants ask you about Me, [tell them that] I am indeed
 near. I answer the supplicant’s call when he calls Me…”***[^7]
@@ -270,11 +258,7 @@ bread from Allah when he is hungry and show poverty and indigence to the
 Absolute Self-sufficient with all his being, and like Prophet Moses
 (*‘a*), say:
 
-<blockquote dir="rtl">
-  <p>
-... رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
-  </p>
-</blockquote>
+> ... رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
 
 ***“…O my Lord! I am indeed in need of any good You may send down to
 me.”***[^8]
@@ -448,12 +432,8 @@ traverse the course of perfection. One means of motivation is that Allah
 grants rewards and blessings for good deeds right in this world and
 grants prayers:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوا لَفَتَحْنَا عَلَيْهِم
-بَرَكَاتٍ مِنَ السَّمَاء وَالأَرْضِ ...
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوا لَفَتَحْنَا عَلَيْهِم
+> بَرَكَاتٍ مِنَ السَّمَاء وَالأَرْضِ ...
 
 ***“And if the people of the towns had been faithful and pious, We would
 have opened to them blessings from the heaven and the earth.”***[^13]
@@ -544,12 +524,8 @@ In regard to a *hadith* which Yunus ibn Zabyan narrates from Imam
 al-Sadiq, (*‘a*) which will be discussed later, we can cite evidence in
 the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-... وَلَوْ لاَ دَفْعُ اللّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتِ
-الأَرْضُ وَلَكِنَّ اللّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> ... وَلَوْ لاَ دَفْعُ اللّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتِ
+> الأَرْضُ وَلَكِنَّ اللّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ
 
 ***“Were it not for Allah’s repelling the people by means of one
 another, the earth would surely have been corrupted, but Allah is
@@ -649,5 +625,4 @@ al-Islam.
 [^16]: Bihar al-Anwar, vol. 15, p. 27, hadith 48.
 
 [^17]: Ibid., vol. 23, p. 5.
-
 

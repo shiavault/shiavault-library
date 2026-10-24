@@ -54,7 +54,6 @@ of our nation both before the Islamic Revolution and moreover, in
 present, when Islamic government is developing. Mahdy's epiphany will
 usher in for the Islamic world a new era of justice and wealth."
 
-
 **3. Philosophy- Politics and the great thinkers of Islam**
 
 One of the greatest philosophers of Islam, FARABI (257-338 according to
@@ -382,5 +381,4 @@ gradually developing which will not disappear but which can considerably
 change under the influence of religion. The hereditary election of the
 follower would not be specific to the religious precepts as ruling is a
 condition given by God to the Imam whom he chose to rule."
-
 

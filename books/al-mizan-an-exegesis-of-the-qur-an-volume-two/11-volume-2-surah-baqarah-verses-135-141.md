@@ -318,4 +318,3 @@ The author says: It refers to the esoteric meaning of this verse, as we
 shall explain later on; we shall then also explain the meaning of
 al­-wilayah and al-mithaq, Allah willing.
 
-

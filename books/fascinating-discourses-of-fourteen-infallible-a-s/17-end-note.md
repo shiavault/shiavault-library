@@ -35,4 +35,3 @@ offfering it to offering it sluggishly sla ckly, out of its time &
 developing indifferent, & careless attitude to wards it. And not showing
 promptness. vigil & suitable care in its performance.
 
-

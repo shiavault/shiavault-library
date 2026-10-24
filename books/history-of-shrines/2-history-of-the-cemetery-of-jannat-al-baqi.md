@@ -268,4 +268,3 @@ were born
 
 • The house of Hamza and the graves of the martyrs of Uhud (a)
 
-

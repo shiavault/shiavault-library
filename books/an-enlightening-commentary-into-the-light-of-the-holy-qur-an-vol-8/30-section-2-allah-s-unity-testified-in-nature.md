@@ -4,12 +4,8 @@ Section 2: Allah’s Unity Testified in Nature
 Surah An-Nahl – Verse 10
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَنزَلَ مِنَ السَّمآءِ مَآءً لَكُم مّـِنْهُ شَرَابٌ
-وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَنزَلَ مِنَ السَّمآءِ مَآءً لَكُم مّـِنْهُ شَرَابٌ
+> وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ
 
 ***10. “He it is Who sends down water from the sky for you; from it you
 drink, and by it (grows) trees on which you pasture your cattle.”***
@@ -59,13 +55,9 @@ domains.
 Surah An-Nahl – Verse 11
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُنبِتُ لَكُم بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالاَعْنَابَ
-وَمِن كُلّ‌ِ الثَّـمَرَاتِ إِنَّ فِي ذَلِكَ لاَيَةً لِقَوْمٍ
-يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> يُنبِتُ لَكُم بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالاَعْنَابَ
+> وَمِن كُلّ‌ِ الثَّـمَرَاتِ إِنَّ فِي ذَلِكَ لاَيَةً لِقَوْمٍ
+> يَتَفَكَّرُونَ
 
 ***11. “Therewith He causes to grow for you herbage, and the olives, and
 the palm trees, and the grapes, and of all the fruits. Verily there is a
@@ -146,13 +138,9 @@ the people at that time.
 Surah An-Nahl – Verse 12
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ
-وَالنُّجُومُ مُسَخَّرَاتٌ بِاَمْرِهِ إِنَّ فِي ذَلِكَ لاَيَاتٍ
-لِقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ
+> وَالنُّجُومُ مُسَخَّرَاتٌ بِاَمْرِهِ إِنَّ فِي ذَلِكَ لاَيَاتٍ
+> لِقَوْمٍ يَعْقِلُونَ
 
 ***12. “And He (has) made the night and the day, and the sun and the
 moon subservient for you, and the stars have been made subservient by
@@ -186,12 +174,8 @@ those with naively-thinking, and those who are simple-minded.
 Surah An-Nahl – Verse 13
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ذَرَأَ لَكُمْ فِي الاَرْضِ مُخْتَلِفاً أَلْوَانُهُ إِنَّ فِي
-ذَلِكَ لاَيَةً لِقَوْمٍ يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> وَمَا ذَرَأَ لَكُمْ فِي الاَرْضِ مُخْتَلِفاً أَلْوَانُهُ إِنَّ فِي
+> ذَلِكَ لاَيَةً لِقَوْمٍ يَذَّكَّرُونَ
 
 ***13. “And (also) whatever He has produced for you on the earth of
 different colours; verily there is a sign in this for a people who take
@@ -270,13 +254,9 @@ seemingly enlightened ones who have got no solid logical framework.
 Surah An-Nahl – Verse 14
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ لِتَأْكُلُوا مِنْهُ لَحْماً طَرِيّاً
-وَتَسْتَخْرِجُوا مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَي الْفُلْكَ
-مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ لِتَأْكُلُوا مِنْهُ لَحْماً طَرِيّاً
+> وَتَسْتَخْرِجُوا مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَي الْفُلْكَ
+> مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
 
 ***14. “And He it is Who has made the sea subservient that you may eat
 fresh meat from it and bring forth from it ornaments which you wear, and
@@ -343,12 +323,8 @@ may be awakened.
 Surah An-Nahl – Verse 15
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَلْقي فِي الاَرْضِ رَوَاسِيَ أَن تَمِيدَ بِكُمْ وَأَنْهَاراً
-وَسُبُلاً لَعَلَّكُمْ تَهْتَدُونَ
-  </p>
-</blockquote>
+> وَأَلْقي فِي الاَرْضِ رَوَاسِيَ أَن تَمِيدَ بِكُمْ وَأَنْهَاراً
+> وَسُبُلاً لَعَلَّكُمْ تَهْتَدُونَ
 
 ***15. “And He has cast firm mountains in the earth that it does not
 quake with you, and streams and roads that you may be guided aright,”***
@@ -391,11 +367,7 @@ this meaning once we suppose that the entire earth were flat and soft.
 Surah An-Nahl – Verse 16
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَلاَمَاتٍ وِبِالنَّجْمِ هُمْ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَعَلاَمَاتٍ وِبِالنَّجْمِ هُمْ يَهْتَدُونَ
 
 ***16. “And landmarks (too), and by the star they find the right
 way.”***
@@ -437,11 +409,7 @@ Hadrat Zahra, and Imam Husayn (as). [^4]
 Surah An-Nahl – Verse 17
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن يَخْلُقُ كَمَن لاَّ يَخْلُقُ أَفَلاَ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَفَمَن يَخْلُقُ كَمَن لاَّ يَخْلُقُ أَفَلاَ تَذَكَّرُونَ
 
 ***17. “Is He then Who creates as he who does not create? Do you not
 then consider?”***
@@ -483,12 +451,8 @@ the nature of all human beings; what is needed is reminding them of it.
 Surah An-Nahl – Verse 18
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لاَ تُحْصُوهَآ إِنَّ اللَّهَ
-لَغَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لاَ تُحْصُوهَآ إِنَّ اللَّهَ
+> لَغَفُورٌ رَّحِيمٌ
 
 ***18. “And if you count Allah’s blessings, you are unable to number
 them. Verily Allah is Forgiving, Merciful.”***
@@ -530,11 +494,7 @@ grateful to Him.
 Surah An-Nahl – Verse 19
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ
 
 ***19. “And Allah knows that which you conceal and that which you
 reveal.”***
@@ -552,12 +512,8 @@ reveal.”***
 Surah An-Nahl – Verse 20
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَدْعُونَ مِن دُونِ اللَّهِ لاَ يَخْلُقُونَ شَيْئاً وَهُمْ
-يُخْلَقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَدْعُونَ مِن دُونِ اللَّهِ لاَ يَخْلُقُونَ شَيْئاً وَهُمْ
+> يُخْلَقُونَ
 
 ***20. “And those they call on besides Allah do not create anything and
 they are themselves created.”***
@@ -578,11 +534,7 @@ declares that they are themselves created and needy as well.
 Surah An-Nahl – Verse 21
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْوَاتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
-  </p>
-</blockquote>
+> أَمْوَاتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 
 ***21. “(They are) dead, not alive, and they do not know when they will
 be raised.”***
@@ -622,5 +574,4 @@ Chapter: Grapes and Dates.
 [^3]: Nūr-uth-Thaqalayn, vol. 3, p. 44
 
 [^4]: Tafsir-ul-Burhan
-
 

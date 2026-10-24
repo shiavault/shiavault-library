@@ -1555,4 +1555,3 @@ these verses in detail, which are published in Nafse Mutmainnah
 
 [^30]: Uyun Akhbar Reza
 
-

@@ -14,4 +14,3 @@ Muslims: one which is in accordance with the shari\`a, and one which is
 forbidden by it. Similarly, taqlid is of two kinds: one which is in
 accordance with the shari\`a, and one which is forbidden.
 
-

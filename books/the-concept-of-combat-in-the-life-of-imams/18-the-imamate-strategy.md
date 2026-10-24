@@ -50,4 +50,3 @@ overall analysis of such claims delineates the Imamate strategy.
 
 [^1]: Bihar-ul-Anwar, Vol. 48, P. 144, Tradition 20
 
-

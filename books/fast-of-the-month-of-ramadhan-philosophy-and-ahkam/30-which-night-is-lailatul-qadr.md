@@ -67,4 +67,3 @@ Allah hid such knowledge from you only out of His love for you, for if
 you knew which night it is, you would have honored it and left the
 others, and I hope you will not err in its regard."
 
-

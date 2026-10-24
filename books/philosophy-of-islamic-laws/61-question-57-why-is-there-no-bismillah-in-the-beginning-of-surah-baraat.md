@@ -18,5 +18,3 @@ Saba. And since the full text of this letter is quoted in the Qur’an,
 the Bismillah is also mentioned because this letter began with this
 sentence.
 
-
-

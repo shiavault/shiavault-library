@@ -1049,9 +1049,7 @@ have no religion, and that they are non-believers.
 
 [^47]: کفر چو منی گزاف و آسان نبود محکمتر از ایمان من ایمان نبود
 
-<p dir="rtl">
 در دهر یکی چون من و آن هم کافر؟ پس در همه دهر یک مسلمان نبود
-</p>
 
 See M. Baqir Khwansari, Rawdat al-Jannat (Beirut), vol. 3, p. [^179]:
 

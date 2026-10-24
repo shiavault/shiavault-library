@@ -54,4 +54,3 @@ Imam Musa al-Kazim (a.s.) said: *“The best thing for bringing man near
 to Allah, besides knowing Him, is praying, doing good to parents, and
 quilting envy, conceit and pride.”*
 
-

@@ -1,8 +1,6 @@
 Chapter 9: 'ubayd Allah Ibn 'abbas
 ==================================
 
-  
-
 'Ubayd Allah was full of eagerness for the war. He was indignant with
 Mu'awiya, for the latter was the reason for the killing of his two sons
 in the Yemen. So from the day when 'Ubayd Allah withdrew his army from
@@ -33,8 +31,6 @@ thousand Syrian fighters who were known for their blind obedience for
 their rulers and commanders.
 
 'Ubayd Allah was indifferent to the large number of the enemy  
-
-  
 
 forces. However, he was very careful of the spiritual qualities of the
 two parties (i.e., Mu'awiya's and 'Ubayd Allah's soldiers). Also he
@@ -76,8 +72,6 @@ Kufa, and through his orations in Kufa. In other words, they
 ------------------------------------------------------------------------
 
 [[1]](#n1) Sharh Nahj al-Balagha, vol. 4, 15.
-
-  
 
 against him, not to make peace with him or to give up his idea.
 
@@ -121,8 +115,6 @@ in the Islamic law but through confessing feebleness openly. However,
 this man was not ready to subject his character to the scorn of the
 people.  
 
-  
-
 So he came back to himself again to find the escape that would not force
 him to such a confession.
 
@@ -164,8 +156,6 @@ Mu'awiya said: "Indeed, al-Hasan will be forced [[1]](#r2) to make peace
 [[1]](#n2) I (i.e., the author) say: This text is clear in refuting the
 rumor that prevailed the Camp of Maskan, that said: "Indeed, al-Hasan
 exchanged letters with Mu'awiya to make peace with him."
-
-  
 
 me), so it is better for you to be followed than to be follower."
 [[1]](#r3) He (Mu'awiya) limited a thousand dirhams for 'Ubayd Allah in
@@ -209,8 +199,6 @@ Allah from coming to that ignoble end.
 p. 15. [[3]](#n5) Al-'Alam al-'Arabi (Magazine, year 11, no. 2, p. 30)
 [[4]](#n6) Ibn al-Athir, al-Kamil fi al-Ta'rikh, vol. 5, p. 176.
 
-  
-
 followed the manner of the defeated, deserted person who himself knew
 the great sin he committed.
 
@@ -253,8 +241,6 @@ serpent and threw it away. He (i.e., al-Mas'udi) said: "Al-Hasan b. 'Ali
 b. 'Abd Allah b. al-Mughira b. al-Mu'ammar b. Khallad reported a similar
 narration on the authority of Abu al-Hasan, 'Ali b. Musa al-Rida." Qays
 died in the year 85 A.H.
-
-  
 
 condemned his defeated predecessor (i.e., 'Ubayd Allah). He censured him
 for his shameful attitude. Then he began to refresh the morale of his

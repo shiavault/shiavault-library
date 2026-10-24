@@ -506,4 +506,3 @@ Aejaz Ali T. Bhujwala (al Husaynee)
 
 [^2]: Origins and Early Development of Shi’ah Islam - S.H.M. Ja’fari
 
-

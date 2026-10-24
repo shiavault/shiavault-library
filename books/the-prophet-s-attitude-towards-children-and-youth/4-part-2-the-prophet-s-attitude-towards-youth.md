@@ -1329,4 +1329,3 @@ Children], P.383.
 [^78]: Kalamat-e Qisar, Pand-ha Va Hikmat-ha-ye Imam Khomeini [Pithy
 Aphorisms: Wise Sayings and Counsels of Imam Khomeini], P.216.
 
-

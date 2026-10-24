@@ -32,4 +32,3 @@ the Qur’an as the word of Allah (swt), they are discussed in detail in
 the Qur’an Resource Paper no. 2, under the title of “Authenticity of the
 Holy Qur’an”.
 
-

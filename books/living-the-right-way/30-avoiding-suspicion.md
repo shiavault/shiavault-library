@@ -29,4 +29,3 @@ cursed, he is cursed, he who does not intend good for his brother; he is
 cursed, he is cursed, he who hides himself from his brother; he is
 cursed, he is cursed, he who backbites his brother.”*
 
-

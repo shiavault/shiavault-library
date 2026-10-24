@@ -259,4 +259,3 @@ We shall now proceed to expound these four constituents in order.
 2. This is the fixed number of the prophets according to Muhammadan
 tradition.
 
-

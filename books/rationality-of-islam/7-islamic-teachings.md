@@ -856,4 +856,3 @@ All we mean is to emphasize that all items of Islamic program are
 closely interlinked, and if they are enforced simultaneously, they will
 produce the best result.
 
-

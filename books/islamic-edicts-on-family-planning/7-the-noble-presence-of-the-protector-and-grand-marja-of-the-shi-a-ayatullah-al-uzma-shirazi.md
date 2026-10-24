@@ -33,4 +33,3 @@ However, using anything that would result in the sterility of the man or
 the womb of the woman, either with or without the consent of either side
 (the husband or the wife) is forbidden (haram). And Allah knows best.
 
-

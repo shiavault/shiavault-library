@@ -210,4 +210,3 @@ complained against the sky, they have, thereby, meant the men living
 under it. Otherwise the sky and the stars revolving therein are never at
 fault.
 
-

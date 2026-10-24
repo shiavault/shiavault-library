@@ -63,7 +63,7 @@ knew always thinking, If I were Muslim, this is what Id do to pray. I
 remember sounding out the *shahada* italicised in my world religions
 book thinking, This would be what Id say to become a Muslim. I couldnt
 explain why, but I was drawn to Islam and at the same time I fought that
-feeling because of fear. After September 11<sup>th</sup>, my interest
+feeling because of fear. After September 11th, my interest
 was resurrected and with the money I saved I purchased The Complete
 Idiots Guide to Understanding Islam by Yahiya J. Emerick. The book was
 amazing as it outlined everything in a comprehensive manner and made me

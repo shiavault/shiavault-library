@@ -21,11 +21,11 @@ not pay any attention and he became indifferent to them. In fact he
 often became angry when Ziyad was not called by the name of Abu Sufyan
 until one of his coevals said to him:
 
-*<span style="font-size: 16pt">Do you become angry when it is said that
-your father is chaste</span>*
+*Do you become angry when it is said that
+your father is chaste*
 
-*<span style="font-size: 16pt">while you become delighted when it is
-said he is an adulterer?</span>*
+*while you become delighted when it is
+said he is an adulterer?*
 
 ***  
   ***

@@ -5,7 +5,6 @@ Ingratitude of Man after enjoying the Divine Mercy Every evil shall be
 equally punished along with ignominy All false deities shall vanish away
 on the Day of Judgment and they will disown their devotees.
 
-
 (21) وَ إِذا أَذَقْنَا النَّاسَ رَحْمَةً مِنْ بَعْدِ ضَرَّاءَ
 مَسَّتْهُمْ إِذا لَهُمْ مَكْرٌ في‏ آياتِنا قُلِ اللَّهُ أَسْرَعُ مَكْراً
 إِنَّ رُسُلَنا يَكْتُبُونَ ما تَمْكُرُونَ
@@ -51,7 +50,6 @@ must prepare themselves for the Judgment and the punishment in the world
 here- after. The verse says:
 
 "... Verily, Our messengers record what you devise'. ""
-
 
 **Commentary : Verse 22**
 
@@ -111,7 +109,6 @@ eventual condemnation.
 In such incidents, those individuals, who are only slightly polluted,
 are usually awakened and tend to reform themselves.
 
-
 **Commentary : Verse 23**
 
 (23) فَلَمَّا أَنْجاهُمْ إِذا هُمْ يَبْغُونَ فِي الْأَرْضِ بِغَيْرِ
@@ -146,7 +143,6 @@ whatever they did in the world. The verse says:
 
 "... an enjoyment of the life of this world. Then to Us is your return,
 and We shall inform you of what you used to do. "
-
 
 **Commentary : Verse 24**
 
@@ -211,7 +207,6 @@ declares:
 
 "... Thus do We explain the Signs in detail for a people who reflect.
 
-
 **Commentary : Verse 25**
 
 (25) وَ اللَّهُ يَدْعُوا إِلى‏ دارِ السَّلامِ وَ يَهْدي مَنْ يَشاءُ
@@ -248,7 +243,6 @@ second stage is permanent.
 Incidentally, the Straight Path is one which creates 'peace' for man
 not only in the Hereafter, but also creates peace for him in this
 world.
-
 
 **Commentary : Verse 26**
 
@@ -309,7 +303,6 @@ Companions of the Garden; they will abide therein forever. "
 
 (2) Majma' ul- Bayan
 
-
 **Commentary : Verse 27**
 
 (27) وَ الَّذينَ كَسَبُوا السَّيِّئاتِ جَزاءُ سَيِّئَةٍ بِمِثْلِها وَ
@@ -360,7 +353,6 @@ within its flames. The verse concludes saying:
 
 "... They are Companions of the Fire: they will abide therein forever!
 "
-
 
 **Commentary : Verse 28**
 
@@ -413,7 +405,6 @@ passions. The verse says:
 "... and their associates shall say: 'It was not us(indeed)that you
 used to worship! ' "
 
-
 **Commentary : Verse 29**
 
 (29) فَكَفى‏ بِاللَّهِ شَهيداً بَيْنَنا وَ بَيْنَكُمْ إِنْ كُنَّا عَنْ
@@ -440,7 +431,6 @@ Incidentally, there are numerous allusions made to the hatred and
 disavowal of those objects worshipped from the polytheists and their
 deeds in the Qur'an, i. e., Sura Al- Furqan, No. 25, verse 17, and Sura
 Al- Qas as, No. 28, verse 63.
-
 
 **Commentary : Verse 30**
 
@@ -475,5 +465,4 @@ vanish(away)from them. "
 
 All existence has its origin in Him, and the final destination will be
 towards Him, too.
-
 

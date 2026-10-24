@@ -465,4 +465,3 @@ al-Tawarikh, vol. 1, p.13.
 
 [^26]: Kifayat al-Talib, p.414.
 
-

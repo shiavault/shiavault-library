@@ -85,4 +85,3 @@ Shahin felt a sense of relief and happiness that she had done a right
 thing. She made a promise to Allah, never to speak ill of others, be it
 a fact or a made up story.
 
-

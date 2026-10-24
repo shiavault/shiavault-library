@@ -15,4 +15,3 @@ The Tragic Ending
 
 Imam and Alawide Revolts
 
-

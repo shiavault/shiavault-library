@@ -38,4 +38,3 @@ Allah also enjoins us not to speak unkindly or harm them, not to give
 even as much as a sigh against them, especially when they grow old or
 are in need, or unable to do things for themselves.
 
-

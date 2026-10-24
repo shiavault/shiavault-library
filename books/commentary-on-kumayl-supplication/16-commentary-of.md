@@ -1,11 +1,7 @@
 Commentary of:
 ==============
 
-<blockquote dir="rtl">
-  <p>
-وَبِعِلْمِكَ الَّذِى أَحَاطَ بِكُلِّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِعِلْمِكَ الَّذِى أَحَاطَ بِكُلِّ شَيٍْء
 
 *(I ask You) by Your Knowledge, which encompasses all things.*
 
@@ -16,38 +12,22 @@ Allah knows the number of all the creatures, even the atoms, the seeds,
 the drops of rain and flakes of snow. Here we just mention some verses
 of the holy Qur’an that is an ocean of knowledge.
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ.
-  </p>
-</blockquote>
+> وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ.
 
 ***He knows what is in the heavens and what is on earth. (3:29)***
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ
-إِلاَّ يَعْلَمُهَا.
-  </p>
-</blockquote>
+> وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ
+> إِلاَّ يَعْلَمُهَا.
 
 ***He knows what is in land and sea; not a leaf falls, but He knows it.
 (6:59)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ.
-  </p>
-</blockquote>
+> وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ.
 
 ***And Allah knows what you keep secret and what you publish. (16:19)***
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ
-مِنْ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ الرَّحِيمُ الْغَفُورُ.
-  </p>
-</blockquote>
+> يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ
+> مِنْ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ الرَّحِيمُ الْغَفُورُ.
 
 ***He knows what penetrates into the earth, and what comes forth from
 it, what comes down from heaven, and what goes up to it; He is the
@@ -64,11 +44,7 @@ continent. If humans were to suddenly become extinct from the earth,
 other creatures living on the earth would hardly ever notice their
 absence![^1]
 
-<blockquote dir="rtl">
-  <p>
-وَبِنُورِ وَجْهِكَ الَّذِى أَضَآءَ لَهُ كُلُّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِنُورِ وَجْهِكَ الَّذِى أَضَآءَ لَهُ كُلُّ شَيٍْء
 
 *(I ask You) by the Light of Your Face, through which all things are
 illuminated!*
@@ -81,22 +57,14 @@ perfections. ‘Light’ means guidance[^2]. ‘Light’ means success in
 travelling towards belief[^3]. ‘Light’ means Islam, insight, knowledge.
 It means brightness of the spirit[^4]. ‘Light’ is Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَكُمْ مِنْ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ.
-  </p>
-</blockquote>
+> قَدْ جَاءَكُمْ مِنْ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ.
 
 ***There has come to you from Allah a light, and a Manifest Book.
 (5:15)***
 
 ‘Light’ also means divine rules, doctrines and moral facts:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ.
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ.
 
 ***Surely We sent down the Torah, wherein is guidance and light.
 (5:44)***
@@ -139,5 +107,4 @@ according to the situation.
 [^3]: Tafsir Abu Al-Futouh: 1/331.
 
 [^4]: Kashf Al-Asrar: 1/ 703.
-
 

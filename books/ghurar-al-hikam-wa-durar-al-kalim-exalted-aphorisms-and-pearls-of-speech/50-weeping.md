@@ -7,21 +7,13 @@ Weeping
 worship of the cognizant.
 
 > 1ـ اَلبُكاءُ مِنْ خيفَةِ اللّهِ لِلْبُعْدِ عَنِ اللّهِ عِبادةُ
-<blockquote dir="rtl">
-  <p>
-العارِفينَ.
-  </p>
-</blockquote>
+> العارِفينَ.
 
 2. Weeping out of the fear of Allah illuminates the heart and protects
 [one] from repetition of sin.
 
 > 2ـ اَلبُكاءُ مِنْ خَشيَةِ اللّهِ يُنيرُ القَلبَ ويَعْصِمُ مِنْ
-<blockquote dir="rtl">
-  <p>
-مُعاوَدَةِ الذَّنْبِ.
-  </p>
-</blockquote>
+> مُعاوَدَةِ الذَّنْبِ.
 
 3. Weeping out of the fear of Allah is the key to [divine] mercy.
 
@@ -44,5 +36,4 @@ sins.
 because of his sins.
 
 > 7ـ طُوبى لِمَنْ وُفِّقَ لِطاعَتِهِ، وبَكى على خَطيئَتِهِ.
-
 

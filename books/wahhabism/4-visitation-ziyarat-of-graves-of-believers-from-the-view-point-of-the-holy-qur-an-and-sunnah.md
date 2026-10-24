@@ -33,11 +33,7 @@ controls his desires.
 
 The Holy Prophet (s) referring to this point in a tradition says:
 
-<blockquote dir="rtl">
-  <p>
-زوروا القُبور فإنها تذكركم الأخرة
-  </p>
-</blockquote>
+> زوروا القُبور فإنها تذكركم الأخرة
 
 *“Visit the graves; for visiting them becomes the cause of remembering
 the next world.”* [^1]
@@ -53,12 +49,8 @@ Qur’an clearly instructs that the Holy Prophet (s) should not perform
 prayer over the dead body of the hypocrites and should not stand near
 their graves. It says:
 
-<blockquote dir="rtl">
-  <p>
-ولا تُصلِّ على أحد منهم مات أبداً ولا تقم على قبره إنهم كفروا بالله
-ورسوله وماتوا وهُم فاسقون.
-  </p>
-</blockquote>
+> ولا تُصلِّ على أحد منهم مات أبداً ولا تقم على قبره إنهم كفروا بالله
+> ورسوله وماتوا وهُم فاسقون.
 
 ***“And never offer prayer for anyone of them who dies and do not stand
 by his grave, surely they disbelieve in Allah and His Apostle and they
@@ -72,11 +64,7 @@ rebuking the members of this group, the God commands the Holy Prophet
  2. Not to stand over their graves; and this reality is presented with
 the sentence;
 
-<blockquote dir="rtl">
-  <p>
-ولا تقُم على قبره
-  </p>
-</blockquote>
+> ولا تقُم على قبره
 
 When the Holy Qur’an commands that one should avoid these two actions
 with regards to the hypocrites it means that for others who are not
@@ -91,11 +79,7 @@ Some of the commentators think that the verse refers to the matter of
 standing at the time of burial but some others like al-Baydawi see the
 verse from a far angle and interpret it as such:
 
-<blockquote dir="rtl">
-  <p>
-ولا تقُم على قبره للدفن أو لزيارة
-  </p>
-</blockquote>
+> ولا تقُم على قبره للدفن أو لزيارة
 
 *“Don’t stand on grave for burial or* *pilgrimage.”*[^2]
 
@@ -107,11 +91,7 @@ this verse and these two sentences comprises of:
 
 1.
 
-<blockquote dir="rtl">
-  <p>
-لا تُصلِّ على أحدٍ منهم مات أبداً
-  </p>
-</blockquote>
+> لا تُصلِّ على أحدٍ منهم مات أبداً
 
 ***“And never offer prayer for anyone of them who dies…… (Tauba
 19:84)”***
@@ -137,11 +117,7 @@ again.
 Moreover, the word ابدا in Arabic refers to time and not individuals
 such as:
 
-<blockquote dir="rtl">
-  <p>
-ولا أن تنكحوا ازواجه مِن بعده أبداً
-  </p>
-</blockquote>
+> ولا أن تنكحوا ازواجه مِن بعده أبداً
 
 ***“Nor that you should marry his wives after him ever;… (Ahzab
 33:53)”***
@@ -152,20 +128,12 @@ and mercy for anyone of the hypocrites whether at the time of reciting
 
 2. And now we will discuss the second sentence:
 
-<blockquote dir="rtl">
-  <p>
-ولا تقُم على قبره
-  </p>
-</blockquote>
+> ولا تقُم على قبره
 
 The meaning of this sentence in connection with the previous sentence is
 as such:
 
-<blockquote dir="rtl">
-  <p>
-ولا تقُم على قبر أحدا منهم أبداً
-  </p>
-</blockquote>
+> ولا تقُم على قبر أحدا منهم أبداً
 
 Because the adverbs which are present in **معطوف** **عليه**are also
 applicable for **معطوف.**
@@ -215,12 +183,8 @@ that people should hasten to visit graves
 
 The writers of *Sunan* and *Sihah* narrate as such:
 
-<blockquote dir="rtl">
-  <p>
-كُنت نهيتكم عن زيارة القُبور فزُوروها فإنها تُزهِّد في الدنيا وتُذكر
-الأخرة
-  </p>
-</blockquote>
+> كُنت نهيتكم عن زيارة القُبور فزُوروها فإنها تُزهِّد في الدنيا وتُذكر
+> الأخرة
 
 *“I had prohibited you from* *ziyara* *of graves. From now on, go for*
 *ziyara* *because it will make you feel unattached towards this world
@@ -231,18 +195,10 @@ of his mother and informing the people to visit the graves since
 *ziyara* is the source of remembering the hereafter. Here is the text of
 the tradition:
 
-<blockquote dir="rtl">
-  <p>
-زار النبيّ قبر أمه فبكى وأبكى من حوله...إستأذنت ربي في أن أزور قبرها
-فاذن لي فزوروا القبور فإنها تُذكركم
-  </p>
-</blockquote>
+> زار النبيّ قبر أمه فبكى وأبكى من حوله...إستأذنت ربي في أن أزور قبرها
+> فاذن لي فزوروا القبور فإنها تُذكركم
 
-<blockquote dir="rtl">
-  <p>
-الموت
-  </p>
-</blockquote>
+> الموت
 
 *“The Holy Prophet (s) visited the grave of his mother and cried near
 her grave and also made others around him to cry. Thereafter he said: I
@@ -253,30 +209,18 @@ death.”*[^4]
 4. Ayesha says that the Holy Prophet (s) freely allowed the *ziyarat* of
 graves:
 
-<blockquote dir="rtl">
-  <p>
-إن رسول الله رخَّص في زيارة القبور
-  </p>
-</blockquote>
+> إن رسول الله رخَّص في زيارة القبور
 
 “The Prophet of God permitted the visit of graves.”[^5]
 
 5. Ayesha says: The Holy Prophet (s) taught me the manner of visiting
 the graves. Here is the text of the tradition:
 
-<blockquote dir="rtl">
-  <p>
-فامرني ربي أتي البقيع فاستغفر لهم قلت كيف أقول : يا رسول الله قال
-قولي: السلام على أهل الديار مِن المؤمنين
-  </p>
-</blockquote>
+> فامرني ربي أتي البقيع فاستغفر لهم قلت كيف أقول : يا رسول الله قال
+> قولي: السلام على أهل الديار مِن المؤمنين
 
-<blockquote dir="rtl">
-  <p>
-والمسلمين يرحم الله المُستقدمين منا والمستأخرين وإنا إن شاء الله بكم
-لاحقون.
-  </p>
-</blockquote>
+> والمسلمين يرحم الله المُستقدمين منا والمستأخرين وإنا إن شاء الله بكم
+> لاحقون.
 
 *“My Lord commanded me to come to Baqi’ and seek forgiveness for them.
 (Ayesha) says: I asked him how one should seek forgiveness to which the
@@ -288,18 +232,10 @@ soon.”*[^6]
 6. In another tradition, there are some sentences which the Holy Prophet
 (s) used when performing ziyarat of graves. It is as follows:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم دار قوم مؤمنين وإنا وإياكم مُتواعدون غداً ومُواكلون وإنا
-إن شاء الله بكم لاحقون اللهم اغفر لأهل
-  </p>
-</blockquote>
+> السلام عليكم دار قوم مؤمنين وإنا وإياكم مُتواعدون غداً ومُواكلون وإنا
+> إن شاء الله بكم لاحقون اللهم اغفر لأهل
 
-<blockquote dir="rtl">
-  <p>
-بقيع الغرقد
-  </p>
-</blockquote>
+> بقيع الغرقد
 
 *“Peace be with you the groups of believers and we will be return to you
 and rely on you and certainly if God wishes, we will join you. O God,
@@ -311,18 +247,10 @@ commonly called as the land of Garqad.
 7. In another tradition, the text of *ziyarat* is narrated in a
 different way:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم أهل الديار من المؤمنين والمسلمين وإنا إن شاء الله بكمك
-لاحقون أنتم لنا فرط ونحن لكم تبع اسئل
-  </p>
-</blockquote>
+> السلام عليكم أهل الديار من المؤمنين والمسلمين وإنا إن شاء الله بكمك
+> لاحقون أنتم لنا فرط ونحن لكم تبع اسئل
 
-<blockquote dir="rtl">
-  <p>
-الله العافية لنا ولكم.
-  </p>
-</blockquote>
+> الله العافية لنا ولكم.
 
 *“Peace be with you the groups of believers and Muslims, and certainty
 we will join you. You will exhilarate us and we will follow you. We ask
@@ -330,11 +258,7 @@ welfare from you for ourselves and for yourself.”*[^8]
 
 8. In the third tradition, the text is narrated still differently:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم دار قومٍ مؤمنين وإنا إن شاء الله بكم لاحقون
-  </p>
-</blockquote>
+> السلام عليكم دار قومٍ مؤمنين وإنا إن شاء الله بكم لاحقون
 
 *“Peace be with you the groups of believers and if God wishes, we will
 join you.”*[^9]
@@ -343,18 +267,10 @@ From the tradition of Ayesha, we got knowledge that whenever the last
 part of night was approaching, the Holy Prophet (s) would go towards
 Baqi’ and say:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم دار قومٍ مؤمنين واتاكم ما توعدون ، غداً مؤجلون وإنا إن
-شاء الله بكم لاحقون اللهم اغفر لأهل بقيع
-  </p>
-</blockquote>
+> السلام عليكم دار قومٍ مؤمنين واتاكم ما توعدون ، غداً مؤجلون وإنا إن
+> شاء الله بكم لاحقون اللهم اغفر لأهل بقيع
 
-<blockquote dir="rtl">
-  <p>
-الغرقد.
-  </p>
-</blockquote>
+> الغرقد.
 
 *“Peace be with you! The groups of believers and what has been promised
 to you will be given to you, soon in future your destiny will reach you.
@@ -366,18 +282,10 @@ From another tradition we come to know that the Holy Prophet (s) used to
 hasten, along with a group of people for *ziyarat* of graves and teach
 them the manner of doing *ziyarat*:
 
-<blockquote dir="rtl">
-  <p>
-كان رسول الله يُعلمُهم إذا خرجوا إلى المقابر فكان قائلُهم يقول: السلام
-على أهل الديار (يا) السلام عليكم أهل الديار
-  </p>
-</blockquote>
+> كان رسول الله يُعلمُهم إذا خرجوا إلى المقابر فكان قائلُهم يقول: السلام
+> على أهل الديار (يا) السلام عليكم أهل الديار
 
-<blockquote dir="rtl">
-  <p>
-من المؤمنين وإنا إن شاء الله لاحقون اسئل الله لنا ولكم العافية.
-  </p>
-</blockquote>
+> من المؤمنين وإنا إن شاء الله لاحقون اسئل الله لنا ولكم العافية.
 
 *“The Prophet (s) used to teach them that when they go out to graves
 they should say: Peace be with those who live in houses (graves). Peace
@@ -392,11 +300,7 @@ The only matter which is remaining is the matter of *ziyara* by women
 which in some of the traditions, the Holy Prophet (s) has prohibited
 them from doing so:
 
-<blockquote dir="rtl">
-  <p>
-لعن رسول الله زوارات القبور
-  </p>
-</blockquote>
+> لعن رسول الله زوارات القبور
 
 “The Prophet of God has cursed the women who go excessively for
 ziyarat.”[^12]
@@ -409,12 +313,8 @@ special conditions prevailing at that time. One of the commentators of
 tradition i.e., the writer of *Miftah al-haja fi sharh Sahih Ibn Maja*
 refers to that and says:
 
-<blockquote dir="rtl">
-  <p>
-إختلفوا في الكراهة هل هى كراهة تحريم أو تنزيه ذهب ألا كثر إلى الجواز
-إذا امنت بالفتنة.
-  </p>
-</blockquote>
+> إختلفوا في الكراهة هل هى كراهة تحريم أو تنزيه ذهب ألا كثر إلى الجواز
+> إذا امنت بالفتنة.
 
 *“The scholars are having two opinions about the prohibition. That
 whether it is prohibited in the* *makruh* *sense or prohibited in the*
@@ -491,11 +391,7 @@ to his or her beloved dead one.
 
 Ibn Maja narrates in his *Sahih* that the Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-إقرءوا يس على موتاكم
-  </p>
-</blockquote>
+> إقرءوا يس على موتاكم
 
 *“Recite Sura Yasin upon your dead ones*.”[^19]
 
@@ -571,5 +467,4 @@ Wafa’ al-wafa’, vo1. 2 p. 112.
 
 [^19]: Sahih Bukhari, p. 100, book of جنائز chapter of زيارة القبور;
 Sunan Abi Dawud, vol. 2 p. 171.
-
 

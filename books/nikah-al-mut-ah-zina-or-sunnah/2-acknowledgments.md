@@ -8,4 +8,3 @@ gratitude to Ali Baker for his deep insights about the topic of
 and sisters from the Shi’ah Imamiyyah and the Ahl al-Sunnah wa
 al-Jama’ah.
 
-

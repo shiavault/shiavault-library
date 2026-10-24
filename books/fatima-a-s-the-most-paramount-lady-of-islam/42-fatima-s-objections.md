@@ -16,4 +16,3 @@ She objected just for the sake of Allah and endeavored to make the
 oppressed of the society move and upraise as a volcano to burn and
 annihilate any kind of injustice and take up the real way of human life.
 
-

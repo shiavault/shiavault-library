@@ -175,4 +175,3 @@ community covered by ignorance, intellectual and cultural retardation,
 disbelief in Allah, which is another result of human ignorance, and the
 misinterpretation of this world, thus, analyzing it negatively.
 
-

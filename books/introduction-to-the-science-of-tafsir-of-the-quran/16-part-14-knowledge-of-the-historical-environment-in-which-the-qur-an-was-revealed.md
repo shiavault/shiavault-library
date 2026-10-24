@@ -38,12 +38,8 @@ little to no agriculture.
 For example, when Allah (awj) mentions the parable of the truth and
 falsehood as being like a mirage, which one sees and He (awj) says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَّحْسَبُهُ
-الظَّمْأَنُ مَـــاءً
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَّحْسَبُهُ
+> الظَّمْأَنُ مَـــاءً
 
 ***“And (as for) those who disbelieve, their deeds are like a mirage in
 the desert, which the thirsty man deems to be water.”***[^4]
@@ -61,5 +57,4 @@ fully understand the actuality of this similitude.
 [^3]: Suratul Takwir (81), Verse 8
 
 [^4]: Suratul Nur (24), Verse 39
-
 

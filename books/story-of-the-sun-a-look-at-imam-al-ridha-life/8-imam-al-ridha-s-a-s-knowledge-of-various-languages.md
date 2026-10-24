@@ -306,4 +306,3 @@ al-Ghaffari, 1375-7, Tehran, vol. 8, p.34. – Editor.
 
 [^26]: Ibid.
 
-

@@ -24,7 +24,6 @@ three days: the birth day, the day of death, and the Day of Hereafter."
 
 1- Sura Maryam, No. 19, verse 15
 
-
 **Commentary : Verse 34.35**
 
 34- ذَلِكَ عِيسَى ابْنُ مَرْيَمَ قَوْلَ الْحَقِّ الَّذِى فِيهِ
@@ -152,7 +151,6 @@ and gave him a sharp slap in his face.(1)
 1- Furugh-i-'Abadiyyat, vil.1, p.253 narrated from
 Kamil-i-Ibn-i-'Athur, vol.2, p.54 & Bihar-ul-'Anwar, vol.18, p. 415
 
-
 **Commentary : Verse 36**
 
 36- وَإِنَّ اللَّهَ رَبّـِى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
@@ -193,5 +191,4 @@ monotheism, and worshipping Allah, is the straight path, while the rest
 paths are some deviated paths. (In the Qur'an, the path of Allah and His
 Messenger, accompanied with worshipping Him, has been introduced as the
 'straight path'.)
-
 

@@ -238,29 +238,29 @@ established the "state of Israel..." It was only then that Pope John
 Paul II met Jewish rabbis and cleared them of the crime of killing
 Jesus, for such are some people, and such is our time.
 
-[^20] They all did so with the exception of Umar ibn Abd al-Aziz, may
+[^20]: They all did so with the exception of Umar ibn Abd al-Aziz, may
 Allah be Merciful to him.
-[^21] Tarikh Baghdad, Vol. 8, p. 266.
-[^22] That is to say, such scholars belonged to "Ahl al-Sunnah wal
+[^21]: Tarikh Baghdad, Vol. 8, p. 266.
+[^22]: That is to say, such scholars belonged to "Ahl al-Sunnah wal
 Jama\`ah."
-[^23] Notice how the speaker says: "Allah be pleased with him," yet he
+[^23]: Notice how the speaker says: "Allah be pleased with him," yet he
 refuses to accept his name to be added to the list of "righteous
 caliphs" and protests to Ahmad ibn Hanbal for having done so. Notice
 also how he says: "We have mentioned it, etc.," implying his speaking on
 behalf of "Ahl al-Sunnah" who had sent him to Ahmad ibn Hanbal to
 register their protest.
-[^24] Tabaqat al-Hanabila, Vol. 1, p. 292.
-[^25] Al-Bukhari, Sahih, Vol. 4, p. 191, Vol. 4, in the book of the
+[^24]: Tabaqat al-Hanabila, Vol. 1, p. 292.
+[^25]: Al-Bukhari, Sahih, Vol. 4, p. 191, Vol. 4, in the book of the
 genesis of creation in a chapter dealing with Abu Bakr's merits being
 next only to those of the Prophet .
-[^26] Al-Bukhari, Sahih, Vol. 4, p. 203, in a chapter dealing with the
+[^26]: Al-Bukhari, Sahih, Vol. 4, p. 203, in a chapter dealing with the
 merits of Uthman ibn \`Affan in the book of the genesis of creation.
-[^27] The only exception are the couple of years during which Umar ibn
+[^27]: The only exception are the couple of years during which Umar ibn
 Abd al-Aziz ruled. He stopped the nefarious custom of cursing, but after
 his murder, they resumed the cursing and went beyond that to desecrate
 his grave. They went as far as prohibiting anyone to be named after
 him...
-[^28] I have deliberately said "Where were you?" to address contemporary
+[^28]: I have deliberately said "Where were you?" to address contemporary
 Muslims from "Ahl al-Sunnah wal Jama\`ah," for they read in Muslim's
 Sahih that Mu\`awiya used to curse Ali and order the sahaba to do
 likewise, and they do not find it objectionable. Rather, they plead to

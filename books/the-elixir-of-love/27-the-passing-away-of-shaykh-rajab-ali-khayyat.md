@@ -140,11 +140,7 @@ And the second sentence:
 (a)) gave away his shirt (in self-sacrifice) on the night of
 consummation in the way of God."
 
-<blockquote dir="rtl">
-  <p>
-والسلام عليه يوم ولد ويوم مات ويوم يبعث حياُ.
-  </p>
-</blockquote>
+> والسلام عليه يوم ولد ويوم مات ويوم يبعث حياُ.
 
 So peace on him the day he was born, the day that he dies, and the day
 that he will be raised up to life (again).
@@ -155,5 +151,4 @@ that he will be raised up to life (again).
 392: 60.
 
 [^3]: Supplication of Kumail.
-
 

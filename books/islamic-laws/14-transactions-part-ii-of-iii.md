@@ -821,4 +821,3 @@ muzari'ah they grow again in the next year, if the landowner had not
 made an agreement with the farmer regarding his share in the remaining
 roots, the crop of the second year will belong to the landowner.
 
-

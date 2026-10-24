@@ -615,4 +615,3 @@ al-Irshad (pg.235).
 me that Yazid bin Ziyad, who is Abu al-Sha’sha’ al-Kindi, from the Banu
 Bahdalah…”
 
-

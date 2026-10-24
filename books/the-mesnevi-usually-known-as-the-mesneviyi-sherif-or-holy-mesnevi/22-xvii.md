@@ -73,4 +73,3 @@ m289:1 The " cauda draconis" was the "descending node," one of the
 ecliptical points. The "forbidden fruit," in Islām, is held to have been
 wheat.
 
-

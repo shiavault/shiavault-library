@@ -140,4 +140,3 @@ night of the month of Ramadhan, they call upon them saying, ‘O servants
 of Allah! Receive the glad tidings! Allah has indeed forgiven your sins
 and accepted your repentance! So see how you shall fare from now on!"
 
-

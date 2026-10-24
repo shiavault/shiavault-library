@@ -51,4 +51,3 @@ relieve them.
 
 [^2]: Al-I’tiqadat.
 
-

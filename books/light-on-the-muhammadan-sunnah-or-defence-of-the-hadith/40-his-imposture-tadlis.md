@@ -1,17 +1,12 @@
 His Imposture (tadlis)
 ======================
 
-  
-  
-  
-
 Ulama’ of hadith state that Abu Hurayrah used to defraud; and imposture,
 as is known, is to relate from whoever meeting him that which he didn't
 hear from him, or from that who lived contemporaneously with him without
 meeting him, deluding people that he heard it from him. Imposture is of
-several kinds, with all being absolutely abominable, <span
-id="_anchor_372"></span>372  and a number of ulama’ were averse to
-tadlis, with Shu'bah <span id="_anchor_373"></span>373 being the
+several kinds, with all being absolutely abominable, 372  and a number of ulama’ were averse to
+tadlis, with Shu'bah 373 being the
 severest in disapproving this practice, till saying: To practise
 adultery is more desirable to me than practising imposture! He also
 said: Imposture is the brother of falsity."
@@ -40,16 +35,12 @@ is referring through this to the hadith "Whoever enters upon the morning
 with the state of ritual impurity (during Ramadan), his fasting is
 invalid. And when this hadith was disapproved of him he said: I was told
 by some narrator, and did not hear it from the Messenger of Allah."
-<span id="_anchor_374"></span>374
+374
 
-In Ta’wil mukhtalif al-hadith <span id="_anchor_375"></span>375  Ibn
+In Ta’wil mukhtalif al-hadith 375  Ibn
 Qutaybah said: "Abu Hurayrah used to say: The Messenger of Allah (may
 God's peace and benediction be upon him and his Progeny) said so and so,
 but in fact he heard it from some trustworthy (thiqah) and related it."
-
-  
-  
-  
 
 372. Al-Shaykh Ahmad Shakir, Sharh Alfiyyat al-Suyuti, p. 35.
 

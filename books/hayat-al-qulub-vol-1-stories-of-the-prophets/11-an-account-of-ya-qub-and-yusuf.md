@@ -2340,4 +2340,3 @@ must have had Divine sanctions even though we may be ignorant of the
 hidden wisdom. Doubts and suspicions are created by Satan and cause
 deviation and irreligiousness.
 
-

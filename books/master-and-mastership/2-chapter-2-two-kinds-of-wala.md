@@ -267,4 +267,3 @@ attempt to cause discord among Muslims are people who conspire for the
 enemies of Islam and want them to triumph over Muslims. They are the
 supporters of America and Russia." (Imam Khumayni).
 
-

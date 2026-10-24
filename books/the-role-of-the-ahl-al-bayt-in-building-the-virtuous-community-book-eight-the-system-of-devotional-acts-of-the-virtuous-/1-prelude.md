@@ -101,4 +101,3 @@ monthly, and yearly acts of worship.
 entailing inclusion of a certain state within a common ruling even if
 this state has not been adequately proven as belonging to it.
 
-

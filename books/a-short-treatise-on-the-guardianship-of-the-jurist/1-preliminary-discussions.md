@@ -207,4 +207,3 @@ We shall discuss all the above matters in the coming chapters**.**
 [^1]: In this translation, ‘wilayat’ will be translated as guardianship
 and ‘wali’ will be translated as ‘guardian’
 
-

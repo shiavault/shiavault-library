@@ -221,4 +221,3 @@ him. Tabarānī, al-Mu‘jam-ul-kabīr (8:69-70\#7396); Abū Nu‘aym,
 Hilyat-ul-awliyā’ wa tabaqāt-ul-asfiyā’ (5:97-8); Bayhaqī,
 Dalā’il-un-nubuwwah (6:268).
 
-

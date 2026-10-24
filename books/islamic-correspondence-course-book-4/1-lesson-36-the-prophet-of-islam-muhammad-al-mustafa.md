@@ -446,4 +446,3 @@ Tabataba’i. A Brief History of the Fourteen Infallibles, published by
 WOFIS, Tehran. A Glance at the Life of the Prophet of Islam by Par Rah-e
 Haq. The Early History of Islam by S. Safdar Husayn.
 
-

@@ -44,4 +44,3 @@ example: **جمیل** becomes **جُمَیِّل.**
 diminutive form they will be changed into a *yā'*, for example:
 **عُصفور** becomes **عُصَیفیر.**
 
-

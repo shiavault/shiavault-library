@@ -37,4 +37,3 @@ universal and effective recognition and observance, both among the
 peoples of Member States themselves and among the peoples of territories
 under their jurisdiction.
 
-

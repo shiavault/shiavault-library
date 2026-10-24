@@ -944,4 +944,3 @@ agreed on one yet, you should kill all the six”? O Muslims, be liberal
 in your opinions and say what you think! We are Allah’s and to Him we
 shall return!
 
-

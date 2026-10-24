@@ -6,11 +6,7 @@ our master, Imam-e-Asr (as) is after Zuhr prayers. According to a
 tradition from Imam Sadiq (as) quoted in Bihar, Mustadrak and Jamaalus
 Saliheen, he said: “One who says after the morning and noon prayers,
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وآل محمد وعجل فرجهم
-  </p>
-</blockquote>
+> اللهم صل على محمد وآل محمد وعجل فرجهم
 
 O Allah bless Muhammad and the progeny of Muhammad and hasten their
 reappearance.
@@ -31,21 +27,17 @@ from Ahmad bin al-Husain Sukkari from Abbaad Ibne Muhammad al-Madayni
 that he says, “I went to meet Imam Sadiq (as) in Medina. After finishing
 his Zuhr prayers, he (as) raised his head towards the sky and said:
 
-<blockquote dir="rtl">
-  <p>
-أي سامع كل صوت، أي جامع كل فوت، أي بارئ كل نفس بعد الموت، أي باعث، أي
-وارث، أي سيد السادات أي إله الالهة، أي جبار الجبابرة، أي مالك الدنيا
-والآخرة، أي رب الأرباب، أي ملك الملوك أي بطاش، أي ذا البطش الشديد، أي
-فعالا لما يريد، أي محصي عدد الأنفاس ونقل الاقدام، أي من السر عنده
-علانية، أي مبدئ، أي معيد: أسألك بحقك على خيرتك من خلقك، وبحقهم الذي
-أوجبت لهم على نفسك أن تصلي على محمد وأهل بيته، وأن تمن علي الساعة
-بفكاك رقبتي من النار، وأنجز (لوليك وابن نبيك، الداعي إليك بإذنك،
-وأمينك في خلقك، وعينك في عبادك وحجتك على خلقك عليه صلواتك وبركاتك)
-وعده. اللهم أيده بنصرك، وانصر عبدك، وقو أصحابه وصبرهم، وافتح لهم من
-لدنك سلطانا نصيرا، وعجل فرجه، وأمكنه من أعدائك، وأعداء رسولك، يا أرحم
-الراحمين.
-  </p>
-</blockquote>
+> أي سامع كل صوت، أي جامع كل فوت، أي بارئ كل نفس بعد الموت، أي باعث، أي
+> وارث، أي سيد السادات أي إله الالهة، أي جبار الجبابرة، أي مالك الدنيا
+> والآخرة، أي رب الأرباب، أي ملك الملوك أي بطاش، أي ذا البطش الشديد، أي
+> فعالا لما يريد، أي محصي عدد الأنفاس ونقل الاقدام، أي من السر عنده
+> علانية، أي مبدئ، أي معيد: أسألك بحقك على خيرتك من خلقك، وبحقهم الذي
+> أوجبت لهم على نفسك أن تصلي على محمد وأهل بيته، وأن تمن علي الساعة
+> بفكاك رقبتي من النار، وأنجز (لوليك وابن نبيك، الداعي إليك بإذنك،
+> وأمينك في خلقك، وعينك في عبادك وحجتك على خلقك عليه صلواتك وبركاتك)
+> وعده. اللهم أيده بنصرك، وانصر عبدك، وقو أصحابه وصبرهم، وافتح لهم من
+> لدنك سلطانا نصيرا، وعجل فرجه، وأمكنه من أعدائك، وأعداء رسولك، يا أرحم
+> الراحمين.
 
 O He that hears all voices, O He that gathered everything, O He that
 created the soul after death, O the causer, O the Inheritor, O master of
@@ -157,5 +149,4 @@ And Allah does what He wills.
 [^4]: Biharul Anwar; Vol. 86, Pg. 63
 
 [^5]: An-Najmus Thaqib, Pg. 63
-
 

@@ -25,13 +25,9 @@ permitted except for Allah, the Holiest.[^2]
 
 The Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ لَا
-تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي
-خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ .
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ لَا
+> تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي
+> خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ .
 
 ***And among His signs are the night and the day and the sun and the
 moon; do not prostrate to the sun nor to the moon; and prostrate to
@@ -40,23 +36,15 @@ Allah Who created them, if Him it is that you serve. (41:37).***
 Also, prostration is the closest state a servant can have toward his
 Lord:
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ.
-  </p>
-</blockquote>
+> كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ.
 
 ***Nay! Obey him not, and make obeisance and draw nigh (to Allah).
 (96:19).***
 
 A tradition reads:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم قالَ: أقْربُ ما يَكونُ
-العَبْدُ مِن رَبِّهِ وَهُو ساجِدٌ؛ فَأكْثِروا الدُّعاءَ فَيهِ.
-  </p>
-</blockquote>
+> إنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم قالَ: أقْربُ ما يَكونُ
+> العَبْدُ مِن رَبِّهِ وَهُو ساجِدٌ؛ فَأكْثِروا الدُّعاءَ فَيهِ.
 
 The Prophet (a.s): “The nearest state of a servant to his Lord is in
 prostration, so supplicate a lot in prostration.”[^3]
@@ -80,11 +68,7 @@ Traditions about Prostration
 
 The traditions about prostration are generally of the following kinds:
 
-<blockquote dir="rtl">
-  <p>
-جُعِلَتْ لِيَ الأرْضُ مَسْجِداً وَطَهوراً.
-  </p>
-</blockquote>
+> جُعِلَتْ لِيَ الأرْضُ مَسْجِداً وَطَهوراً.
 
 The Prophet (a.s): The earth is set as the place for my prostration
 (*masjid*) and as cleaner.[^4]
@@ -111,13 +95,9 @@ Qastalani[^7] and Amir Al-San’ani[^8] have all accepted and rather
 preferred the meaning of prostration place for ‘*masjid*,’ in the
 tradition.
 
-<blockquote dir="rtl">
-  <p>
-… كُنْتُ أُصّلّي الظّهرَ معَ رَسولِ اللهِ صلّى اللهُ عليهِ وسلَّم
-فأخَذَ قَبضَةً مِن الحَصى لِتَبرُدَ في كَفّي أضَعُها لجَبهَتي أسْجُد
-عَليها لِشدَّةِ الحَرِّ.
-  </p>
-</blockquote>
+> … كُنْتُ أُصّلّي الظّهرَ معَ رَسولِ اللهِ صلّى اللهُ عليهِ وسلَّم
+> فأخَذَ قَبضَةً مِن الحَصى لِتَبرُدَ في كَفّي أضَعُها لجَبهَتي أسْجُد
+> عَليها لِشدَّةِ الحَرِّ.
 
 Jabir Ibn Abdullah Ansari said:[^9] I was performing the Noon Prayer. It
 was so hot that I took a handful of sands to cool it and use it for
@@ -147,12 +127,8 @@ Nevertheless, this tradition shows that prostration is not permissible
 on everything, otherwise constant attempting to prostrate on sands was
 not wise.
 
-<blockquote dir="rtl">
-  <p>
-… شَكَونا إلى رَسولِ اللهِ صلّى اللهُ عليهِ وسلَّم شِدَّةَ الرَّمْضاءِ
-في جِباهِنا وأكَفِّنا فَلَم يُشكِنا.
-  </p>
-</blockquote>
+> … شَكَونا إلى رَسولِ اللهِ صلّى اللهُ عليهِ وسلَّم شِدَّةَ الرَّمْضاءِ
+> في جِباهِنا وأكَفِّنا فَلَم يُشكِنا.
 
 We complained to the Prophet (a.s) about the hotness of sands to our
 faces and palms when praying, but he did not pay attention.[^13]
@@ -166,23 +142,15 @@ prostration is not allowed on everything, otherwise complaining about
 the hotness of the sands was unnecessary and they could prostrate
 themselves on things other than the hot sands.[^18]
 
-<blockquote dir="rtl">
-  <p>
-… وإذا سَجَدْتَ فَأمْكِن جَبْهَتَكَ مِن الأرْضِ حَتىّ تَجِدَ حَجْمَ
-الأرْضِ.
-  </p>
-</blockquote>
+> … وإذا سَجَدْتَ فَأمْكِن جَبْهَتَكَ مِن الأرْضِ حَتىّ تَجِدَ حَجْمَ
+> الأرْضِ.
 
 A man asked the Prophet (a.s) something about prayer. The Messenger of
 Allah (a.s) told him: “… and when you prostrate, place your forehead on
 the earth, in a way that you can feel it.[^19]
 
-<blockquote dir="rtl">
-  <p>
-… إنّ النّبيّ صلّى اللهُ عليهِ وسلَّم كَانَ إذا سَجَدَ أمْكَنَ أنْفَهُ
-وَجَبْهَتَهُ مِنَ الأرْضِ.
-  </p>
-</blockquote>
+> … إنّ النّبيّ صلّى اللهُ عليهِ وسلَّم كَانَ إذا سَجَدَ أمْكَنَ أنْفَهُ
+> وَجَبْهَتَهُ مِنَ الأرْضِ.
 
 The Prophet (a.s) used to make his forehead and nose touch the
 earth[^20] in prostration.[^21]
@@ -190,12 +158,8 @@ earth[^20] in prostration.[^21]
 Tirmidhi says after this tradition, “The tradition of Abu Humayd is true
 and fine.”
 
-<blockquote dir="rtl">
-  <p>
-… رَأيْتُ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم يَضَعُ أنْفَهُ عَلى
-الأرْضِ إذا سَجَدَ مَعَ جَبْهَتِهِ.
-  </p>
-</blockquote>
+> … رَأيْتُ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم يَضَعُ أنْفَهُ عَلى
+> الأرْضِ إذا سَجَدَ مَعَ جَبْهَتِهِ.
 
 I saw the Prophet (a.s), when prostrating himself, place his forehead
 and his nose on the earth.[^22]
@@ -204,13 +168,9 @@ The same tradition is narrated with a bit difference, “I saw the Prophet
 (a.s) prostrating himself on the earth putting his forehead and nose on
 it.”[^23]
 
-<blockquote dir="rtl">
-  <p>
-… إنَّها لا تَتِمُّ صَلاةُ أحَدِكُمْ حَتىّ يُسبِغَ الوُضوءَ...
-فَيَسجُدُ فَيُمَكِّنُ وَجْهَهُ (أو جَبْهَتَهُ) مِن الأرْضِ... لا
-تَتِمُّ صَلاةُ أحَدِكُم حَتىّ يَفْعَلُ ذَلكَ.
-  </p>
-</blockquote>
+> … إنَّها لا تَتِمُّ صَلاةُ أحَدِكُمْ حَتىّ يُسبِغَ الوُضوءَ...
+> فَيَسجُدُ فَيُمَكِّنُ وَجْهَهُ (أو جَبْهَتَهُ) مِن الأرْضِ... لا
+> تَتِمُّ صَلاةُ أحَدِكُم حَتىّ يَفْعَلُ ذَلكَ.
 
 The holy Prophet (a.s) said: Your prayers would not be true unless you
 accomplish your ablutions… and place your faces (or foreheads) on the
@@ -221,13 +181,9 @@ been on purpose. It is mentioned to distinct earth from the other
 things, especially since both are being mentioned in the traditions, as
 we read in *Sahih* *Bukhari* and other books:
 
-<blockquote dir="rtl">
-  <p>
-كُنّا نُصَلّي مَع النَبيِّ صلّى اللهُ عليهِ وسلَّم في شِدَّةِ الحَرِّ،
-فإذا لَم يَسْتَطِعْ أحَدُنا أنْ يُمَكِّنَ وَجهَهُ مِن الأرْضِ بَسطَ
-ثَوبَهُ فَسَجدَ عَليهِ.
-  </p>
-</blockquote>
+> كُنّا نُصَلّي مَع النَبيِّ صلّى اللهُ عليهِ وسلَّم في شِدَّةِ الحَرِّ،
+> فإذا لَم يَسْتَطِعْ أحَدُنا أنْ يُمَكِّنَ وَجهَهُ مِن الأرْضِ بَسطَ
+> ثَوبَهُ فَسَجدَ عَليهِ.
 
 We[^25] prayed with the Prophet (a.s) in hot weather, and whenever one
 of us was not able to reach his face to the earth, he prostrated himself
@@ -239,24 +195,16 @@ these traditions. That is why even when the ground was wet, prostration
 was done on it. It is narrated, for instance, that the Holy Prophet’s
 forehead was wet with mud sometimes:
 
-<blockquote dir="rtl">
-  <p>
-رَأيْتُ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم يَسجُدُ في المَاءِ
-وَالطّينِ حَتىّ رَأيتُ أثَرَ الطّينِ في جَبْهَتِه.
-  </p>
-</blockquote>
+> رَأيْتُ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم يَسجُدُ في المَاءِ
+> وَالطّينِ حَتىّ رَأيتُ أثَرَ الطّينِ في جَبْهَتِه.
 
 I saw the Messenger of Allah (a.s) prostrating on the earth, which was
 wet with water and mud, to the extent that I saw mud on his holy
 forehead. [^27]
 
-<blockquote dir="rtl">
-  <p>
-عَن أبي سَعيد الخِدريّ: إنّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم رُئيَ
-عَلى جَبْهَتِهِ وَعَلى أرْنَبَتِه أثَرُ طِينٍ مِن صَلاةٍ صَلاّها
-بِالنّاسِ.
-  </p>
-</blockquote>
+> عَن أبي سَعيد الخِدريّ: إنّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم رُئيَ
+> عَلى جَبْهَتِهِ وَعَلى أرْنَبَتِه أثَرُ طِينٍ مِن صَلاةٍ صَلاّها
+> بِالنّاسِ.
 
 Mud was seen on the Prophet’s forehead and nose because of the prayer he
 had performed with the Muslims.[^28]
@@ -277,11 +225,7 @@ nose should be put on the same thing as the forehead is put in
 prostration. One instance is the tradition Ibn Abbas narrates from the
 Prophet (a.s):
 
-<blockquote dir="rtl">
-  <p>
-لا صَلاةَ لِمَنْ لا يَمَسُّ أنْفُهُ الأرْضَ ما يَمَسُّ الجَبينَ.
-  </p>
-</blockquote>
+> لا صَلاةَ لِمَنْ لا يَمَسُّ أنْفُهُ الأرْضَ ما يَمَسُّ الجَبينَ.
 
 The prayer of one, who doesn’t put his nose on the same thing as he puts
 his forehead, would not be accepted.[^31]
@@ -364,16 +308,12 @@ angels would tear him into pieces.”
 At the end, it is worthwhile to bring a tradition from Imam Sadiq (a.s)
 determining things appropriate for prostration:
 
-<blockquote dir="rtl">
-  <p>
-السُّجودُ لا يَجوزُ إلاّ عَلَى الأرْضِ أوْ عَلى ما أنْبَتَتِ الأرْضُ
-إلاّ ما أُكِلَ أوْ لُبِسَ… لأنَّ السُّجُودَ خُضوعٌ للهِ عَزَّ وَجَلَّ
-فَلا يَنْبَغي أنْ يَكونَ عَلى ما يُؤكَلُ وَيُلْبَسُ لأنَّ أبْناءَ
-الدُّنيا عَبيدُ ما يأكُلُونَ وَيَلبِسونَ، والسّاجِدُ في سُجودِهِ في
-عَبادَةِ اللهِ عَزَّ وَجَلَّ، فَلا يَنبَغي أنْ يَضعَ جَبْهَتَهُ في
-سُجودِه عَلى مَعبودِ أبْناءِ الدُّنْيا الّذينَ اغْتَرُّوا بِغُرورِها.
-  </p>
-</blockquote>
+> السُّجودُ لا يَجوزُ إلاّ عَلَى الأرْضِ أوْ عَلى ما أنْبَتَتِ الأرْضُ
+> إلاّ ما أُكِلَ أوْ لُبِسَ… لأنَّ السُّجُودَ خُضوعٌ للهِ عَزَّ وَجَلَّ
+> فَلا يَنْبَغي أنْ يَكونَ عَلى ما يُؤكَلُ وَيُلْبَسُ لأنَّ أبْناءَ
+> الدُّنيا عَبيدُ ما يأكُلُونَ وَيَلبِسونَ، والسّاجِدُ في سُجودِهِ في
+> عَبادَةِ اللهِ عَزَّ وَجَلَّ، فَلا يَنبَغي أنْ يَضعَ جَبْهَتَهُ في
+> سُجودِه عَلى مَعبودِ أبْناءِ الدُّنْيا الّذينَ اغْتَرُّوا بِغُرورِها.
 
 Husham asked Imam Sadiq (a.s): “Inform me of things on which prostration
 is permissible and things on which it is unlawful.” Imam Sadiq (a.s)
@@ -523,5 +463,4 @@ Musnad Al-Mukathirin, No. 8475 (Int’l No.).
 
 [^43]: Wasa’il Al-Shi’a, Mu’assisa ‘Al Al-Bayt, Vol. 5, Abwab ma yasjudu
 alayh, Part one, p. 343, No. 6740.
-
 

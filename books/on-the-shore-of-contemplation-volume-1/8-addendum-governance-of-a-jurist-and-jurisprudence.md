@@ -138,12 +138,8 @@ of that field. All of the proofs that are contained in the traditions
 and verses of the Qur\`an regarding taqlid point to this very fact. Like
 for example the verse that says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلاَّ رِجَالاً نُوحِي إِلَيْهِمْ
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلاَّ رِجَالاً نُوحِي إِلَيْهِمْ
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لاَ تَعْلَمُونَ
 
 ***“We did not send [any apostles] before you except as men to whom We
 revealed—ask the People of the Reminder if you do not know.”***[^2]
@@ -219,5 +215,4 @@ of KSIMC. This work can be read in its entirety and also purchased from
 www.world-federation.org/ieb or ieb.world-federation.org.
 
 [^2]: Surat al-Nahl, (16), verse 43
-
 

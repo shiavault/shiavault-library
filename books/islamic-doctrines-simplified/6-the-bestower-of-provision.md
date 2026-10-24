@@ -84,4 +84,3 @@ for all Muslims to invoke this salutation when mentioning the names of
 the fourteen members of the Ahlul Bayt [a] or any of the prophets,
 messengers or pure saints [a].
 
-

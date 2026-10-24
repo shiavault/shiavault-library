@@ -725,4 +725,3 @@ killed another Muslim, a prelude to what is now taking place throughout
 our Islamic world at the hands of the Wahhabi, Salafi and Takfiri
 terrorists. –Tr.
 
-

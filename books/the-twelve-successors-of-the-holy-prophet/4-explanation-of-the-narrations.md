@@ -41,4 +41,3 @@ affairs of humanity, one of the Imams must have a long life which is an
 unusual phenomena. Thus the twelfth Caliph and the successor of the Holy
 Prophet (S), that is, Imam Mahdi (a.s.) was bestowed with a long life.
 
-

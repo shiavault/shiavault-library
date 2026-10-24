@@ -153,4 +153,3 @@ The Imamate belongs to Abraham and his seed, to the believers who
 follow them and who do not abandon his creed, and he said, "Whoever
 follows me, is mine." (14:36)
 
-

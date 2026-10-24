@@ -39,4 +39,3 @@ al-Turath al
 
 16- Rumi, Jalaluddin,*Mathnavi* , Tehran: Quqnus, 1376.
 
-

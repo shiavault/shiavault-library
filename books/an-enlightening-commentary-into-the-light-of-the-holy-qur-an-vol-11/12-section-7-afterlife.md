@@ -4,18 +4,10 @@ Section 7: Afterlife
 Surah al-Mu’minun - Verses 99-100
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبّ‌ِ ارْجِعُونِ
-  </p>
-</blockquote>
+> حَتَّي إِذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبّ‌ِ ارْجِعُونِ
 
-<blockquote dir="rtl">
-  <p>
-لَعَلّـِي أَعْمَلُ صَالِحاً فِيمَا تَرَكْتُ كَلآَّ إِنَّهَا كَلِمَةٌ
-هُوَ قَآئِلُهَا وَمِن وَرَآئِهِم بَرْزَخٌ إِلَي يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> لَعَلّـِي أَعْمَلُ صَالِحاً فِيمَا تَرَكْتُ كَلآَّ إِنَّهَا كَلِمَةٌ
+> هُوَ قَآئِلُهَا وَمِن وَرَآئِهِم بَرْزَخٌ إِلَي يَوْمِ يُبْعَثُونَ
 
 ***99. “Until, when death conies unto one of them, he says: ‘My Lord!
 Send me back again, ”***  
@@ -495,12 +487,8 @@ state of ignorance and unconsciousness.[^16]
 Surah al-Mu’minun - Verse 101
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نُفِخَ فِي الصُّورِ فَلآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ
-يَتَسآءَلُونَ
-  </p>
-</blockquote>
+> فَإِذَا نُفِخَ فِي الصُّورِ فَلآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ
+> يَتَسآءَلُونَ
 
 ***101. “And when the Trumpet is blown there will be no relationship
 between them that day, nor will they ask of one another.”***
@@ -612,18 +600,10 @@ people are sent to Paradise or Hell.
 Surah al-Mu’minun - Verses 102-103
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَن ثَقُلَتْ مَوَازِينُهُ فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> فَمَن ثَقُلَتْ مَوَازِينُهُ فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُوْلَئِكَ الَّذِينَ خَسِرُوا
-أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ
-  </p>
-</blockquote>
+> وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُوْلَئِكَ الَّذِينَ خَسِرُوا
+> أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ
 
 ***102. “Then whoever’ s scale be heavy, those are they who shall be
 prosperous.”***  
@@ -695,18 +675,10 @@ world and did not obtain anything valuable for it.
 Surah al-Mu’minun - Verses 104-105
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ
-  </p>
-</blockquote>
+> تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَكُنْ ءَايَاتِي تُتْلَي عَلَيْكُمْ فَكُنتُم بِهَا
-تُكَذّ‌ِبُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَكُنْ ءَايَاتِي تُتْلَي عَلَيْكُمْ فَكُنتُم بِهَا
+> تُكَذّ‌ِبُونَ
 
 ***104. “The Fire will burn their faces, and they are glum therein (with
 the.ir lips displaced).”***  
@@ -930,24 +902,12 @@ continually denied them.
 Surah al-Mu’minun - Verses 106-108
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْماً
-ضَآلّـِينَ
-  </p>
-</blockquote>
+> قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْماً
+> ضَآلّـِينَ
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ
-  </p>
-</blockquote>
+> رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اخْسَئُوا فِيهَا وَلاَ تُكَلّـِمُونِ
-  </p>
-</blockquote>
+> قَالَ اخْسَئُوا فِيهَا وَلاَ تُكَلّـِمُونِ
 
 ***106. “They will say: ‘Our Lord! Our adversity conquered us, and we
 were a people gone astray.”***  
@@ -1018,19 +978,11 @@ he deserves punishment.
 Surah al-Mu’minun - Verses 109-110
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ كَانَ فَرِيقٌ مِنْ عِبَادِي يَقُولُونَ رَبَّنَآ ءَامَنَّا
-فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> إِنَّهُ كَانَ فَرِيقٌ مِنْ عِبَادِي يَقُولُونَ رَبَّنَآ ءَامَنَّا
+> فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّخَذْتُمُوهُمْ سِخْرِيّاً حَتَّي أَنسَوْكُمْ ذِكْرِي وَكُنتُم
-مِنْهُمْ تَضْحَكُونَ
-  </p>
-</blockquote>
+> فَاتَّخَذْتُمُوهُمْ سِخْرِيّاً حَتَّي أَنسَوْكُمْ ذِكْرِي وَكُنتُم
+> مِنْهُمْ تَضْحَكُونَ
 
 ***109. “Verily there was a party among My servants who used to say:
 ‘Our Lord! We believe, therefore forgive us and have mercy on us for You
@@ -1080,12 +1032,8 @@ The verse under discussion indicates this concept by saying:
 Surah al-Mu’minun - Verse 111
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنّـِي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ
-الْفَآئِزُونَ
-  </p>
-</blockquote>
+> إِنّـِي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ
+> الْفَآئِزُونَ
 
 ***111. “Verily I have recompensed them this day for they were patient
 and steadfast, (that) they are indeed the triumphant.”***
@@ -1125,24 +1073,12 @@ the path of “Allah”.
 Surah al-Mu’minun - Verses 112-114
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَمْ لَبِثْتُمْ فِي الاَرْضِ عَدَدَ سِنِينَ
-  </p>
-</blockquote>
+> قَالَ كَمْ لَبِثْتُمْ فِي الاَرْضِ عَدَدَ سِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَبِثْنَا يَوْماً أَوْ بَعْضَ يَوْمٍ فَسْأَلِ الْعَآدّ‌ِينَ
-  </p>
-</blockquote>
+> قَالُوا لَبِثْنَا يَوْماً أَوْ بَعْضَ يَوْمٍ فَسْأَلِ الْعَآدّ‌ِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِن لَبِثْتُمْ إِلاَّ قَلِيلاً لَوْ أَنَّكُمْ كُنتُمْ
-تَعْلَمُونَ
-  </p>
-</blockquote>
+> قَالَ إِن لَبِثْتُمْ إِلاَّ قَلِيلاً لَوْ أَنَّكُمْ كُنتُمْ
+> تَعْلَمُونَ
 
 ***112. “He will say: ‘How many years did you tarry in the earth?’”***  
 ***113. “They will say: ‘We tarried but a day or part of a day; but ask
@@ -1211,12 +1147,8 @@ world.
 Surah al-Mu’minun - Verse 115
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا
-لاَ تُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا
+> لاَ تُرْجَعُونَ
 
 ***115. “What! Do you then think that We created you aimlessly and that
 you shall not be returned to Us?”***
@@ -1299,12 +1231,8 @@ There is a poem that says:
 Surah al-Mu’minun - Verse 116
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَعَالَي اللَّهُ الْمَلِكُ الْحَقُّ لآ إِلَهَ إِلاَّ هُوَ رَبُّ
-الْعَرْشِ الْكَرِيمِ
-  </p>
-</blockquote>
+> فَتَعَالَي اللَّهُ الْمَلِكُ الْحَقُّ لآ إِلَهَ إِلاَّ هُوَ رَبُّ
+> الْعَرْشِ الْكَرِيمِ
 
 ***116. “Therefore, high exalted is Allah, the King of the Truth! There
 is no god but He, the Lord of ‘Arsh (the Throne) of Grace.”***
@@ -1445,18 +1373,10 @@ admonition?”***
 Surah al-Mu’minun - Verses 117-118
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَدْعُ مَعَ اللَّهِ إِلَهاً ءَاخَرَ لاَ بُرْهَانَ لَهُ بِهِ
-فإِنَّمَا حِسَابُهُ عِندَ رَبّـِهِ إِنَّهُ لاَ يُفْلِحُ الْكَافِرُونَ
-  </p>
-</blockquote>
+> وَمَن يَدْعُ مَعَ اللَّهِ إِلَهاً ءَاخَرَ لاَ بُرْهَانَ لَهُ بِهِ
+> فإِنَّمَا حِسَابُهُ عِندَ رَبّـِهِ إِنَّهُ لاَ يُفْلِحُ الْكَافِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبّ‌ِ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> وَقُل رَّبّ‌ِ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ
 
 ***117. “And whoever invokes with Allah another god, he has no proof
 there of; therefore his reckoning is only with his Lord. Verily, the
@@ -1649,5 +1569,4 @@ indicates continuation of action.
 [^40]: Sura Al-‘Ankabut, No. 29, verse 20
 
 [^41]: Fakhr-i-Razi’s, Commentary on the verse in question
-
 

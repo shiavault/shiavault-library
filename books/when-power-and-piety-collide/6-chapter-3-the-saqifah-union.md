@@ -1,14 +1,10 @@
 Chapter 3: The Saqifah Union
 ============================
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
-أَفَإِنْ مَّاتَ أَوْ قُتِلَ إِنْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ وَمَنْ
-يَنْقَلِبْ عَلَى عَقِبَيْهِ فَلَنْ يَضُرَّ اللهَ َشَيْئًا وَسَيَجْزِي
-اللهُ الشَّاكِرِين
-  </p>
-</blockquote>
+> وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
+> أَفَإِنْ مَّاتَ أَوْ قُتِلَ إِنْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ وَمَنْ
+> يَنْقَلِبْ عَلَى عَقِبَيْهِ فَلَنْ يَضُرَّ اللهَ َشَيْئًا وَسَيَجْزِي
+> اللهُ الشَّاكِرِين
 
 ***Muhammad is no more than an apostle: many were the apostle that
 passed away before him. If he died or was slain, will you then turn back
@@ -437,5 +433,4 @@ and something that only happens once and would never happen again.
 [^32]: Ibid
 
 [^33]: Nahjul Balaghah, Sermon 217
-
 

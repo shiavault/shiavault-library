@@ -266,4 +266,3 @@ not belong to the same category as the components and instruments that
 make up the airplane, although his existence is absolutely necessary for
 its functioning. The spirit is the pilot of the material body.
 
-

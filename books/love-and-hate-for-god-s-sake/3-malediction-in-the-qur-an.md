@@ -9,4 +9,3 @@ Therefore, although we see that the usage of *cussing* has been
 prohibited in the Qur’an, however there are many instances in which
 *malediction* has been used.
 
-

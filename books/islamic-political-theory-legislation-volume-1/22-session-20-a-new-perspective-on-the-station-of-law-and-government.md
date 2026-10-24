@@ -77,17 +77,9 @@ However, there are similarities between society and individuals that can
 be used to know the social standings of individuals. In his famous poem,
 Sa‘di has described these similarities in this manner:
 
-<blockquote dir="rtl">
-  <p>
-بنى آدم اعضاى يكديگرند كه در آفرينش ز يك گوهرند
-  </p>
-</blockquote>
+> بنى آدم اعضاى يكديگرند كه در آفرينش ز يك گوهرند
 
-<blockquote dir="rtl">
-  <p>
-ﭼو عضوى به درد آورد روزگار دگر عضوها را نماند قرار
-  </p>
-</blockquote>
+> ﭼو عضوى به درد آورد روزگار دگر عضوها را نماند قرار
 
 *The Children of Adam who are of one essence in creation are parts of
 one another.*  
@@ -101,13 +93,9 @@ similarity that can prove very useful and is rooted in traditions
 reported from the Noble Messenger (*s*) and Imam as-Sadiq (*‘a*). The
 tradition of Imam as-Sadiq (*‘a*) is as follows:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُؤْمِنُونَ في تَبَارِّهِمْ وَ تَرَاحُمِهِمْ وَ تَعَاطُفِهِمْ
-كَمِثْلِ ٱلْجَسَدِ إِذَا ٱشْتَكىٰ تَدَاعىٰ لَهُ سَائِرُهُ بِالسَّهَرِ
-وَٱلْحُمّىٰ.
-  </p>
-</blockquote>
+> أَلْمُؤْمِنُونَ في تَبَارِّهِمْ وَ تَرَاحُمِهِمْ وَ تَعَاطُفِهِمْ
+> كَمِثْلِ ٱلْجَسَدِ إِذَا ٱشْتَكىٰ تَدَاعىٰ لَهُ سَائِرُهُ بِالسَّهَرِ
+> وَٱلْحُمّىٰ.
 
 *“In performing acts of kindness, sympathy and benevolence, the faithful
 are like a single body. When one part feels pain, the other parts remain
@@ -366,5 +354,4 @@ hereafter. This benefit and harm must be identified and law enacted
 accordingly, and not according to the whims of the majority of people.
 
 [^1]: Mustadrak al-Wasa’il, vol. 12, p. 424.
-
 

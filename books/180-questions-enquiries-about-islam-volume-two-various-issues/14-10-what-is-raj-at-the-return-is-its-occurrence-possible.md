@@ -65,11 +65,7 @@ Whether this prophet had been 'Uzayr or someone else does not make a
 difference. The significant point is the explicit declaration of the
 Qur’an about life after death in this world itself.
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَاتَهُ اللٌّهُ مِائَةَ عامٍ ثُمَّ بَعَثَهُ
-  </p>
-</blockquote>
+> فَأَمَاتَهُ اللٌّهُ مِائَةَ عامٍ ثُمَّ بَعَثَهُ
 
 ***“So Allah made him die for a hundred years, then raised him to
 life.”***
@@ -80,11 +76,7 @@ commentators, under the pretext of plague had refrained from
 participating in the jihad) had stepped out of their houses, whereupon
 Allah (s.w.t.) commanded them to die and then raised them to life again.
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ لَهُمُ اللٌّهُ مُوتُوا ثُمَّ أَحْـيَاهُمْ‏
-  </p>
-</blockquote>
+> فَقَالَ لَهُمُ اللٌّهُ مُوتُوا ثُمَّ أَحْـيَاهُمْ‏
 
 ***“Allah said to them: 'Die': Then He restored them to life.”***
 
@@ -100,22 +92,14 @@ desiring to see Allah (s.w.t.), were overcome by a deadly lightning and
 died, after which, Allah (s.w.t.) brought them back to life in order
 that they may thank Him for His bounties.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
 ***“Then We raised you up after your death that you may give thanks.”***
 
 **D)** Verse 110 of Suratul Maidah, while enumerating the miracles of
 Prophet 'Isa (a.s.), states:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ تُخْرِجُ الْمَوْتى‏ بِإِذْنِي
-  </p>
-</blockquote>
+> وَ إِذْ تُخْرِجُ الْمَوْتى‏ بِإِذْنِي
 
 ***“And when you brought forth the dead by My permission.”***
 
@@ -132,12 +116,8 @@ and to tap a part of its body upon the body of the murdered person in
 order that the person may return to life (and disclose the name of his
 murderer thereby putting an end to the dispute)
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا كَذٌلِكَ يُحْيِ اللٌّهُ الْمَوْتى‏ وَ
-يُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ
-  </p>
-</blockquote>
+> فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا كَذٌلِكَ يُحْيِ اللٌّهُ الْمَوْتى‏ وَ
+> يُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ
 
 ***“So We said: Strike the (dead body) with part of the (sacrificed
 cow), thus Allah brings the dead to life, and He shows you His signs so
@@ -161,11 +141,7 @@ small world? How can one, who accepts Resurrection in that extensive
 scale, reject the issue of raj'at? Or ridicule its concept? Or speak
 like Ahmad Amin Misri, who, in his book Fajrul Islam, writes:
 
-<blockquote dir="rtl">
-  <p>
-األْيَهُوْدِيَّةُ ظَهَرَتْ بِالتَّشَيُّعِ بِالْقَوْلِ بِالرَّجْعَةِ.
-  </p>
-</blockquote>
+> األْيَهُوْدِيَّةُ ظَهَرَتْ بِالتَّشَيُّعِ بِالْقَوْلِ بِالرَّجْعَةِ.
 
 “Another Judaism has manifested in Shi'ism due to the concept of
 raj'at!”[^3]
@@ -198,5 +174,4 @@ and [^5]
 [^4]: Biharul Anwar, vol. 53, pg. 122
 
 [^5]: Tafsir-e-Namuna, vol. 15, pg. 555
-
 

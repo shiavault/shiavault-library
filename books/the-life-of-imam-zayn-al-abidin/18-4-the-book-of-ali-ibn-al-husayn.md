@@ -198,4 +198,3 @@ Mashhad[^2]”
 
 [^2]: Al-Balagh Magazine, no. 7, first year, p. 59.
 
-

@@ -170,4 +170,3 @@ moved forward with great and firm steps until the last dark century when
 foreign powers confronted the lands of Islam with material and
 intellectual attacks.
 
-

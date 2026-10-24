@@ -73,4 +73,3 @@ us to thank, worship and obey Allah, the Almighty:
 
 **Praise be to Allah, Lord of the worlds.**
 
-

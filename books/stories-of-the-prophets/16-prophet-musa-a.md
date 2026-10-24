@@ -207,4 +207,3 @@ Musa for a long time and
 
 he loved her dearly.
 
-

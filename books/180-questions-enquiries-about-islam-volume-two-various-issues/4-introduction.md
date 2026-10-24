@@ -89,4 +89,3 @@ souls be his ransom.
 Sayyid Husain Husaini  
  Qum
 
-

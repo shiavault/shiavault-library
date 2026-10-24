@@ -415,4 +415,3 @@ adamantly opposed to both the Sunnis and the Shi‘ites.
 
 [^4]: Nahju ‘l-Balaghah, will \# 47.
 
-

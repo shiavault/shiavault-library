@@ -291,7 +291,6 @@ Al-Darqutni (died in 385 AH) said: Sayf is weak.
 Al-Hakim Al-Nisaburi (died in 405 AH) said: Sayf is accused of being a
 heretic.
 
-
 Ibn Abd Al-Barr (died in 462 AH) said in his writing abut Al-Qa'qa':
 Sayf reported that Al-Qa'qa' said: I attended the death of the Prophet
 Muhammad.

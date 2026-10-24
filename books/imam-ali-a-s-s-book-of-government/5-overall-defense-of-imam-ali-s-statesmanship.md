@@ -181,4 +181,3 @@ al-Mu'minin, VII.
 
 [^7]: Sharh Nahj al-Balagha, 10/214 p 222.
 
-

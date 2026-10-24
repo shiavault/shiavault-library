@@ -3,17 +3,9 @@ Sermon 84: I am surprised at the son of al-Nabighah ...
 
 *About \`Amr ibn al-\`As*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في ذكر عمرو بن العاص
-  </p>
-</blockquote>
+> في ذكر عمرو بن العاص
 
 I am surprised at the son of an-Nabighah that he says about me among the
 people of Syria (ash-Sham) that I am a jester and that I am engaged in
@@ -22,16 +14,12 @@ speech is what is untrue. He speaks and lies. He promises and breaks the
 promise. He begs and beseeches, but when someone begs from him he
 withholds miserly. He betrays the pledge and ignores kinship.
 
-<blockquote dir="rtl">
-  <p>
-عَجَباً لاِبْنِ النَّابِغَةِ! يَزْعُمُ لاِهْلِ الشَّامِ أَنَّ فِيَّ
-دُعَابَةً، وَأَنِّي امْرُؤٌ تِلْعَابَةٌ: أُعَافِسُ وَأُمَارِسُ !
-لَقَدْ قَالَ بَاطِلاً، وَنَطَقَ آثِماً. أَمَا ـ وَشَرُّ الْقَوْلِ
-الْكَذِبُ ـ إِنَّهُ لَيَقُولُ فَيَكْذِبُ، وَيَعِدُ فَيُخْلِفُ،
-وَيُسْأَلُ فَيَبْخَلُ، وَيَسْأَلُ فَيُلْحِفُ، وَيَخُونُ الْعَهْدَ،
-وَيَقْطَعُ الْاِلَّ
-  </p>
-</blockquote>
+> عَجَباً لاِبْنِ النَّابِغَةِ! يَزْعُمُ لاِهْلِ الشَّامِ أَنَّ فِيَّ
+> دُعَابَةً، وَأَنِّي امْرُؤٌ تِلْعَابَةٌ: أُعَافِسُ وَأُمَارِسُ !
+> لَقَدْ قَالَ بَاطِلاً، وَنَطَقَ آثِماً. أَمَا ـ وَشَرُّ الْقَوْلِ
+> الْكَذِبُ ـ إِنَّهُ لَيَقُولُ فَيَكْذِبُ، وَيَعِدُ فَيُخْلِفُ،
+> وَيُسْأَلُ فَيَبْخَلُ، وَيَسْأَلُ فَيُلْحِفُ، وَيَخُونُ الْعَهْدَ،
+> وَيَقْطَعُ الْاِلَّ
 
 When in a battle, he commands and admonishes but only until the swords
 do not come into action. When such a moment arrives his great trick is
@@ -42,17 +30,13 @@ allegiance to Mu\`awiyah without purpose; but has beforehand got him to
 agree that he will have to pay its price, and gave him an award for
 forsaking religion.
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا كَانَ عِنْدَ الْحَرْبِ فَأَيُّ زَاجِر وَآمِر هُوَ مَا لَمْ
-تَأْخُذِ السُّيُوفُ مَآخِذَهَا! فَإِذَا كَانَ ذلِكَ كَانَ أَكْبَرُ
-مَكيدَتِهِ أَنْ يَمْنَحَ الْقَوْمَ سُبَّتَهُ. أَمَا واللهِ إِنِّي
-لَـيَمْنَعُنِي مِنَ اللَّعِبِ ذِكْرُ الْموْتِ، وَإِنَّهُ لَيمَنَعُهُ
-مِنْ قَوْلِ الْحَقِّ نِسْيَانُ الاْخِرَةِ، إِنَّهُ لَمْ يُبَايعْ
-مُعَاوِيَةَ حَتَّى شَرَطَ لَهُ أَنْ يُؤْتِيَهُ أَتِيَّةً، وَيَرْضَخَ
-لَهُ عَلَى تَرْكِ الدِّينِ رَضِيخَةً.
-  </p>
-</blockquote>
+> فَإِذَا كَانَ عِنْدَ الْحَرْبِ فَأَيُّ زَاجِر وَآمِر هُوَ مَا لَمْ
+> تَأْخُذِ السُّيُوفُ مَآخِذَهَا! فَإِذَا كَانَ ذلِكَ كَانَ أَكْبَرُ
+> مَكيدَتِهِ أَنْ يَمْنَحَ الْقَوْمَ سُبَّتَهُ. أَمَا واللهِ إِنِّي
+> لَـيَمْنَعُنِي مِنَ اللَّعِبِ ذِكْرُ الْموْتِ، وَإِنَّهُ لَيمَنَعُهُ
+> مِنْ قَوْلِ الْحَقِّ نِسْيَانُ الاْخِرَةِ، إِنَّهُ لَمْ يُبَايعْ
+> مُعَاوِيَةَ حَتَّى شَرَطَ لَهُ أَنْ يُؤْتِيَهُ أَتِيَّةً، وَيَرْضَخَ
+> لَهُ عَلَى تَرْكِ الدِّينِ رَضِيخَةً.
 
 Alternative Sources for Sermon 84
 ---------------------------------
@@ -95,5 +79,4 @@ to Mu\`awiyah the latter recalled \`Amr ibn al-\`As's act as precedent
 in order to remove this man's shamefulness and said, "O' Busr, no
 matter. There is nothing to feel shameful about it in view of \`Amr ibn
 al-\`As's precedent before you."
-
 

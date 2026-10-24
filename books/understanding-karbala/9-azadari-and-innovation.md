@@ -471,4 +471,3 @@ in the battle of Karbala’
 
 [^26]: Beating of chest in mourning
 
-

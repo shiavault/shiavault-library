@@ -180,4 +180,3 @@ hasten his reappearance. N. Tr.
 [^3]: al-Irbili, Kashf al-Ghumma, p. 159, where al-Husayn (‘a) is
 discussed.
 
-

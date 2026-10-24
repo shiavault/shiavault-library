@@ -3,12 +3,8 @@ Lesson Seventy One: Hastiness And Precipitance
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْحِدَّهُ نَوْعٌ مِنَ الْجُنُونِ لاِنَّ صاحِبَها يَنْدَمُ فَإنّ لَمْ
-يَنْدَمْ فَجُنُونُها مُسْتَحْكَمٌ
-  </p>
-</blockquote>
+> اَلْحِدَّهُ نَوْعٌ مِنَ الْجُنُونِ لاِنَّ صاحِبَها يَنْدَمُ فَإنّ لَمْ
+> يَنْدَمْ فَجُنُونُها مُسْتَحْكَمٌ
 
 Translation
 -----------
@@ -35,5 +31,4 @@ of their hasty actions, they can be said to suffer from insanity that is
 ongoing and well entrenched.
 
 [^1]: Nahjul Balaghah
-
 

@@ -57,11 +57,7 @@ your first gift.
 points to your righteous character.
 
 > 13ـ بِشرُكَ يَدُلُّ على كَرَمِ نَفْسِكَ، وتَواضُعُكَ يُنْبِئُ عَنْ
-<blockquote dir="rtl">
-  <p>
-شريفِ خُلْقِكَ.
-  </p>
-</blockquote>
+> شريفِ خُلْقِكَ.
 
 14. Being cheerful is the first gift and the easiest [form of]
 generosity.
@@ -89,11 +85,7 @@ righteous actions and bestowing greetings invites the love of the
 people.
 
 > 19ـ طِلاقَةُ الوَجهِ بِالبِشرِ والعَطيَّةِ وفِعْلِ البِرِّ وبَذْلِ
-<blockquote dir="rtl">
-  <p>
-التَّحيَّةِ داع إلى مََحَبَّةِ البَريَّةِ.
-  </p>
-</blockquote>
+> التَّحيَّةِ داع إلى مََحَبَّةِ البَريَّةِ.
 
 20. Increased cheerfulness is a sign of benevolence.
 
@@ -126,5 +118,4 @@ people.
 27. Cheerfulness is the first gift.
 
 > 27ـ اَلبِشرُ أوَّلُ النّائِلِ.
-
 

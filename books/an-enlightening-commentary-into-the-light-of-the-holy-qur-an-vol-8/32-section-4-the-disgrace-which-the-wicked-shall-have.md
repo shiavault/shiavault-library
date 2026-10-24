@@ -4,13 +4,9 @@ Section 4: The Disgrace Which the Wicked Shall Have
 Surah An-Nahl – Verse 26
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ مَكَرَ الَّذِينَ مِن قَبْلِهِمْ فَاَتَي اللَّهُ بُنْيَانَهُم مِنَ
-الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِن فَوْقِهِمْ وَأَتَاهُمُ
-الْعَذَابُ مِنْ حَيثُ لاَ يَشْعُرُونَ
-  </p>
-</blockquote>
+> قَدْ مَكَرَ الَّذِينَ مِن قَبْلِهِمْ فَاَتَي اللَّهُ بُنْيَانَهُم مِنَ
+> الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِن فَوْقِهِمْ وَأَتَاهُمُ
+> الْعَذَابُ مِنْ حَيثُ لاَ يَشْعُرُونَ
 
 ***26. “Indeed, those who were before them (also) devised plans. So (the
 wrath of Allah) struck at the foundations of their buildings, and then
@@ -65,13 +61,9 @@ while serving as a way of providing calm and comfort for the Prophet
 Surah An-Nahl – Verse 27
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يَوْمَ الْقِيَامَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِيَ
-الَّذِينَ كُنتُمْ تُشَآقُّونَ فِيهِمْ قَالَ الَّذِينَ اُوتُوا
-الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ عَلَي الْكَافِرِينَ
-  </p>
-</blockquote>
+> ثُمَّ يَوْمَ الْقِيَامَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِيَ
+> الَّذِينَ كُنتُمْ تُشَآقُّونَ فِيهِمْ قَالَ الَّذِينَ اُوتُوا
+> الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ عَلَي الْكَافِرِينَ
 
 ***27. “Then on the Day of Resurrection He will disgrace them and say:
 ‘Where are My associates for whose sake you have been disputing?’ Those
@@ -129,13 +121,9 @@ for them.
 Surah An-Nahl – Verse 28
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ تَتَوَفَّاهُمُ الْمَلآئِكَةُ ظَالِمِي أَنفُسِهِمْ
-فَاَلْقَوُا السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ بَلَي إِنَّ
-اللَّهَ عَلِيمٌ بِمَا كُنتُم تَعْمَلُونَ
-  </p>
-</blockquote>
+> الَّذِينَ تَتَوَفَّاهُمُ الْمَلآئِكَةُ ظَالِمِي أَنفُسِهِمْ
+> فَاَلْقَوُا السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ بَلَي إِنَّ
+> اللَّهَ عَلِيمٌ بِمَا كُنتُم تَعْمَلُونَ
 
 ***28. “Those whom the angels take their lives while they are unjust to
 themselves. Then they would offer submission, (falsely saying:) ‘We used
@@ -189,12 +177,8 @@ reasons, is of no use either.
 Surah An-Nahl – Verse 29
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَي
-الْمُتَكَبّـِرينَ
-  </p>
-</blockquote>
+> فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَي
+> الْمُتَكَبّـِرينَ
 
 ***29. “Therefore, enter through the gates of Hell, to abide therein.
 Thus, indeed, evil is the abode of the arrogant.”***
@@ -239,12 +223,8 @@ Surah An-Nahl – Verse 30
 ------------------------
 
 > ﴿30﴾ وَقِيلَ لِلَّذِينَ اتَّقَوْا مَاذَآ أَنزَلَ رَبُّكُمْ قَالُوا
-<blockquote dir="rtl">
-  <p>
-خَيْراً لِلَّذِينَ أَحْسَنُوا فِي هَذِهِ الدُّنْيَا حَسَنَةٌ وَلَدَارُ
-الاَخِرَةِ خَيْرٌ وَلَنِعْمَ دَارُ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> خَيْراً لِلَّذِينَ أَحْسَنُوا فِي هَذِهِ الدُّنْيَا حَسَنَةٌ وَلَدَارُ
+> الاَخِرَةِ خَيْرٌ وَلَنِعْمَ دَارُ الْمُتَّقِينَ
 
 ***30. “And (when) those who keep from evil are asked: ‘What has your
 Lord sent down?’ They say: ‘Good!’ Goodness is for those who do ‘good’
@@ -302,12 +282,8 @@ indeed is the abode of the pious.”***
 Surah An-Nahl – Verse 31
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِي مِن تَحْتِهَا الاَنْهَارُ
-لَهُمْ فِيهَا مَا يَشَآءُونَ كَذَلِكَ يَجْزِي اللَّهُ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِي مِن تَحْتِهَا الاَنْهَارُ
+> لَهُمْ فِيهَا مَا يَشَآءُونَ كَذَلِكَ يَجْزِي اللَّهُ الْمُتَّقِينَ
 
 ***31. “Gardens of Eternity they shall enter, therein beneath (the trees
 of) which rivers flow, wherein they will have whatever they desire for.
@@ -340,12 +316,8 @@ In conclusion, it states at the end of the verse:
 Surah An-Nahl – Verse 32
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ تَتَوَفَّاهُمُ الْملآَئِكَةُ طَيّـِبِينَ يَقُولُونَ سَلاَمٌ
-عَلَيْكُمُ ادْخُلُوا الْجَنَّةَ بِمَا كُنتُم تَعْمَلُونَ
-  </p>
-</blockquote>
+> الَّذِينَ تَتَوَفَّاهُمُ الْملآَئِكَةُ طَيّـِبِينَ يَقُولُونَ سَلاَمٌ
+> عَلَيْكُمُ ادْخُلُوا الْجَنَّةَ بِمَا كُنتُم تَعْمَلُونَ
 
 ***32. “Those whom the angels cause to die (while from polytheism and
 sin) are clean, saying (to them): ‘Peace be upon you! Enter the Paradise
@@ -516,13 +488,9 @@ wealthy people, (who are) tyrants.”* [^11]
 Surah An-Nahl – Verse 33
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ يَنظُرُونَ إِلآَّ أَن تَأْتِيَهُمُ الْمَلآئِكَةُ أَوْ يَأْتِيَ
-أَمْرُ رَبّـِكَ كَذَلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ وَمَا
-ظَلَمَهُمُ اللَّهُ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> هَلْ يَنظُرُونَ إِلآَّ أَن تَأْتِيَهُمُ الْمَلآئِكَةُ أَوْ يَأْتِيَ
+> أَمْرُ رَبّـِكَ كَذَلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ وَمَا
+> ظَلَمَهُمُ اللَّهُ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
 
 ***33. “Do they expect aught but the angels (of death) come to them, or
 the decree of your Lord comes (to pass)? Thus did those before them. And
@@ -577,12 +545,8 @@ themselves.”***
 Surah An-Nahl – Verse 34
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَصَابَهُمْ سَيّـِئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ
-يَسْتَهْزِءُونَ
-  </p>
-</blockquote>
+> فَاَصَابَهُمْ سَيّـِئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ
+> يَسْتَهْزِءُونَ
 
 ***34. “So the evil (consequences) of what they did afflicted them and
 that which they used to ridicule encompassed them.”***
@@ -643,5 +607,4 @@ trouble, harm, and torture, and not any other thing.
 [^10]: Surah ‘Ibrahim, No. 14, verse 17
 
 [^11]: Sahih-i-Muslim, vol. 4, p. 2190
-
 

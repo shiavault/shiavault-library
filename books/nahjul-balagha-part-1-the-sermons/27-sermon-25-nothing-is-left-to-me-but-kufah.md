@@ -8,50 +8,30 @@ after being overpowered by Busr ibn Abi Artah, he was much disturbed by
 the slackness of his own men in jihad and their difference with his
 opinion. Proceeding on to the pulpit he said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد تواترت عليه الاَخبار باستيلاءِ أصحاب معاوية على البلاد، وقدم عليه
-عاملاه على اليمن ـ وهما عبيدالله بن العباس وسعيد بن نمران ـ لمّا غلب
-عليها بُسْرُ بن أبي أَرْطَاة، فقام (عليه السلام) إلى المنبر ضجراً
-بتثاقل أَصحابه عن الجهاد، ومخالفتهم له في الرأْي، وقال:
-  </p>
-</blockquote>
+> وقد تواترت عليه الاَخبار باستيلاءِ أصحاب معاوية على البلاد، وقدم عليه
+> عاملاه على اليمن ـ وهما عبيدالله بن العباس وسعيد بن نمران ـ لمّا غلب
+> عليها بُسْرُ بن أبي أَرْطَاة، فقام (عليه السلام) إلى المنبر ضجراً
+> بتثاقل أَصحابه عن الجهاد، ومخالفتهم له في الرأْي، وقال:
 
 Nothing (is left to me) but Kufah which I can hold and extend (which is
 in my hand to play with). (O Kufah) if this is your condition that
 whirlwinds continue blowing through you, then Allah may destroy you.
 
-<blockquote dir="rtl">
-  <p>
-مَا هِيَ إِلاَّ الكُوفَةُ، أقْبِضُهَا وَأَبْسُطُهَا، إنْ لَمْ تَكُوني
-إِلاَّ أَنْتِ، تَهُبُّ أَعَاصِيرُك، فَقَبَّحَكِ اللهُ!
-  </p>
-</blockquote>
+> مَا هِيَ إِلاَّ الكُوفَةُ، أقْبِضُهَا وَأَبْسُطُهَا، إنْ لَمْ تَكُوني
+> إِلاَّ أَنْتِ، تَهُبُّ أَعَاصِيرُك، فَقَبَّحَكِ اللهُ!
 
 Then he illustrated with the verse of a poet:
 
-<blockquote dir="rtl">
-  <p>
-وتمثّل بقول الشاعر:
-  </p>
-</blockquote>
+> وتمثّل بقول الشاعر:
 
 *O \`Amr! By your good father's life. I have received only a small bit
 of fat from this pot* (fat that remains sticking to it after it has been
 emptied).
 
-<blockquote dir="rtl">
-  <p>
-لَعَمْرُ أَبِيكَ الخَيْرِ يَا عَمْرُوإِنَّني عَلَى وَضَرٍ - مِنْ ذَا
-الاْنَاءِ ـ قَلِيلِ
-  </p>
-</blockquote>
+> لَعَمْرُ أَبِيكَ الخَيْرِ يَا عَمْرُوإِنَّني عَلَى وَضَرٍ - مِنْ ذَا
+> الاْنَاءِ ـ قَلِيلِ
 
 Then he continued:
 
@@ -65,18 +45,14 @@ betrayal, their good work in their cities and your mischief. Even if I
 give you charge of a wooden bowl I fear you would run away with its
 handle.
 
-<blockquote dir="rtl">
-  <p>
-ثم قال (عليه السلام): أُنْبِئْتُ بُسْراً قَدِ اطَّلَعَ الَيمنَ،
-وَإِنِّي وَاللهِ لاَظُنُّ هؤُلاءِ القَوْمَ سَيُدَالُونَ مِنْكُمْ
-بِاجْتِماعِهمْ عَلَى بَاطِلِهمْ، وَتَفَرُّقِكُمْ عَنْ حَقِّكُمْ،
-وَبِمَعْصِيَتِكُمْ إِمَامَكُمْ في الحَقِّ، وَطَاعَتِهِمْ إِمَامَهُمْ
-في البَاطِلِ، وَبِأَدَائِهِمُ الاْمَانَةَ إِلَى صَاحِبِهِمْ
-وَخِيَانَتِكُمْ، وَبِصَلاَحِهمْ في بِلاَدِهِمْ وَفَسَادِكُمْ، فَلَو
-ائْتَمَنْتُ أَحَدَكُمْ عَلَى قَعْب لَخَشِيتُ أَنْ يَذْهَبَ
-بِعِلاَقَتِهِ.
-  </p>
-</blockquote>
+> ثم قال (عليه السلام): أُنْبِئْتُ بُسْراً قَدِ اطَّلَعَ الَيمنَ،
+> وَإِنِّي وَاللهِ لاَظُنُّ هؤُلاءِ القَوْمَ سَيُدَالُونَ مِنْكُمْ
+> بِاجْتِماعِهمْ عَلَى بَاطِلِهمْ، وَتَفَرُّقِكُمْ عَنْ حَقِّكُمْ،
+> وَبِمَعْصِيَتِكُمْ إِمَامَكُمْ في الحَقِّ، وَطَاعَتِهِمْ إِمَامَهُمْ
+> في البَاطِلِ، وَبِأَدَائِهِمُ الاْمَانَةَ إِلَى صَاحِبِهِمْ
+> وَخِيَانَتِكُمْ، وَبِصَلاَحِهمْ في بِلاَدِهِمْ وَفَسَادِكُمْ، فَلَو
+> ائْتَمَنْتُ أَحَدَكُمْ عَلَى قَعْب لَخَشِيتُ أَنْ يَذْهَبَ
+> بِعِلاَقَتِهِ.
 
 O My God they are disgusted of me and I am disgusted of them. They are
 weary of me and I am weary of them. Change them for me with better ones
@@ -88,28 +64,16 @@ Banu Firas ibn Ghanm (as the poet says):
 
 (Thereafter Amir al-mu'minin alighted from the pulpit).
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي قَدْ مَلِلْتُهُمْ وَمَلُّوني، وَسَئِمْتُهُمْ
-وَسَئِمُوني، فَأَبْدِلنِي بِهِمْ خَيْراً مِنْهُمْ، وأَبْدِلُهمْ بِي
-شَرَّاً مِنِّى، اللَّهُمَّ مِثْ قُلُوبَهُمْ كَمَا يُمَاثُ الْمِلْحُ
-فِي الْمَاءِ، أَمَاوَاللهِ لَوَدِدْتُ أَنَّ لِي بِكُمْ أَلفَ فَارِس
-مِنْ بَنِي فِرَاسِ بْنِ غَنْم.:
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي قَدْ مَلِلْتُهُمْ وَمَلُّوني، وَسَئِمْتُهُمْ
+> وَسَئِمُوني، فَأَبْدِلنِي بِهِمْ خَيْراً مِنْهُمْ، وأَبْدِلُهمْ بِي
+> شَرَّاً مِنِّى، اللَّهُمَّ مِثْ قُلُوبَهُمْ كَمَا يُمَاثُ الْمِلْحُ
+> فِي الْمَاءِ، أَمَاوَاللهِ لَوَدِدْتُ أَنَّ لِي بِكُمْ أَلفَ فَارِس
+> مِنْ بَنِي فِرَاسِ بْنِ غَنْم.:
 
-<blockquote dir="rtl">
-  <p>
-هُنَالِكَ، لَوْ دَعَوْتَ، أَتَاكَ مِنْهُمْ فَوَارِسُ مِثْلُ أَرْمِيَةِ
-الحَمِيم
-  </p>
-</blockquote>
+> هُنَالِكَ، لَوْ دَعَوْتَ، أَتَاكَ مِنْهُمْ فَوَارِسُ مِثْلُ أَرْمِيَةِ
+> الحَمِيم
 
-<blockquote dir="rtl">
-  <p>
-ثم نزل(عليه السلام) من المنبر.
-  </p>
-</blockquote>
+> ثم نزل(عليه السلام) من المنبر.
 
 **as-Sayyid ar-Radi says:** In this verse the word "*armiyah*" is plural
 of "*ramiyy*" which means cloud and "*hamim*" here means summer. The
@@ -120,16 +84,12 @@ By this verse the poet intends to convey that when they are called and
 referred to for help they approach with rapidity and this is borne by
 the first line "if you call them they will reach you."
 
-<blockquote dir="rtl">
-  <p>
-قال السيد الشريف: قلتُ أنا: والارمية جمع رَميٍّ وهو: السحاب، والحميم
-في هذا الموضع: وقت الصيف، وإنما خصّ الشاعر سحاب الصيف بالذكر لانه أشد
-جفولاً، وَأسرع خُفوفاً، لانه لا ماء فيه، وإنما يكون السحاب ثقيل السير
-لامتلائه بالماء، وذلك لا يكون في الاكثر إلا زمان الشتاء، وإنما أراد
-الشاعر وصفهم بالسرعة إذا دُعوا، والاغاثة إذا استغيثوا، والدليل على ذلك
-قوله: «هنالك، لو دعوت، أتاك منهم...».
-  </p>
-</blockquote>
+> قال السيد الشريف: قلتُ أنا: والارمية جمع رَميٍّ وهو: السحاب، والحميم
+> في هذا الموضع: وقت الصيف، وإنما خصّ الشاعر سحاب الصيف بالذكر لانه أشد
+> جفولاً، وَأسرع خُفوفاً، لانه لا ماء فيه، وإنما يكون السحاب ثقيل السير
+> لامتلائه بالماء، وذلك لا يكون في الاكثر إلا زمان الشتاء، وإنما أراد
+> الشاعر وصفهم بالسرعة إذا دُعوا، والاغاثة إذا استغيثوا، والدليل على ذلك
+> قوله: «هنالك، لو دعوت، أتاك منهم...».
 
 Alternative Sources for Sermon 25
 ---------------------------------
@@ -164,5 +124,4 @@ to jihad by describing before them the enemy's wrongfulness and their
 own short-comings. At last Jariyah ibn Qudamah as-Sa\`di responded to
 his call and taking an army of two thousand set off in pursuit of Busr
 and chased him out of Amir al-mu'minin's domain.
-
 

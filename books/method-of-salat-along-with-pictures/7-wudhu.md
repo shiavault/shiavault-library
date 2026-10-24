@@ -44,4 +44,3 @@ in our right hand. Again, we must not take any extra water.
 our toes, up to the ankle bone with the water that is remaining on our
 left hand.
 
-

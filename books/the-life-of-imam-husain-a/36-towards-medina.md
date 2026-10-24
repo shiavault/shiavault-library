@@ -834,7 +834,7 @@ to Egypt and got it buried there.**[6]** However this statement is
 against established method and is not reliable.
 
 2. Maqrizi has narrated that it was transported from Ascalon to Egypt on
-10<sup>th</sup> Jamadiul Aakhir, 548 A.H. it was carried by
+10th Jamadiul Aakhir, 548 A.H. it was carried by
 Saif-al-Mamlika and Qadi Motamin bin Miskeen. It was accorded a warm
 welcome.**[7]**
 

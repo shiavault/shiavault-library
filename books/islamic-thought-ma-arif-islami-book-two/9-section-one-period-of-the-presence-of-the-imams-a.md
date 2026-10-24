@@ -463,11 +463,7 @@ leadership.
 (*ṣ*), Ḥassān ibn Thābit, a famous Arab poet, versified the historic
 event of Ghadīr as follows:
 
-<blockquote dir="rtl">
-  <p>
-فقال له: قم يا عليّ فإنّني رضيتك من بعدي إماماً و هاديا
-  </p>
-</blockquote>
+> فقال له: قم يا عليّ فإنّني رضيتك من بعدي إماماً و هاديا
 
 ***Then he said: “Stand up O ‘Alī! For, I am indeed well pleased that
 you are the Imām and guide after me.”***[^31]
@@ -733,17 +729,9 @@ in the truthfulness of Imāms (*‘a*) can easily accept the 12th Imām’s
 (*‘atfs*) occultation.[^47] The acceptance of the long life of an Imām
 who is commissioned by God is not an unusual thing in religious culture.
 
-<blockquote dir="rtl">
-  <p>
-حكيمى كين جهان پايبنده دارد
-  </p>
-</blockquote>
+> حكيمى كين جهان پايبنده دارد
 
-<blockquote dir="rtl">
-  <p>
-تواند حجّتى را زنده دارد
-  </p>
-</blockquote>
+> تواند حجّتى را زنده دارد
 
 *The All-wise Who created this world,*
 
@@ -1065,5 +1053,4 @@ holy personage such as a prophet [nabī] or a saint [walī]. [Trans.]
 [^53]: - Uṣūl al-Kāfī, vol. 1, p. 207.
 
 [^54]: - Shaykh aṣ-Ṣadūq, At-Tawḥīd, p. 290.
-
 

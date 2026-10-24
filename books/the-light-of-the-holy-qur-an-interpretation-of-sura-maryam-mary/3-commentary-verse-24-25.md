@@ -94,16 +94,13 @@ life the dead, healing the blind, and the like of them.
 
 1- Tafsir-i-'Atyab-ul-Bayan, and Majma'-ul-Bayan
 
-
 **Commentary : Verse 26**
 
 26- فَكُلِى وَاشْرَبِى وَقَرِّى عَيْناً فَإِمَّا تَرَيِنَّ مِنَ
 الْبَشَرِ أَحَداً فَقُولِى
 
-<p dir="rtl">
 إِنّـِى نَذَرْتُ لِلرَّحْمَانِ صَوْماً فَلَنْ اُكَلّـِمَ الْيَوْمَ
 إِنسِيّاً
-</p>
 
 26. " So eat and drink and refresh your eye; and if you meet any
 mortal, say: 'Verily I have vowed a fast to the Beneficent (God), so
@@ -304,5 +301,4 @@ stomach.
 
 1- Ibid
 2- The First University and the Last Prophet, vol. 7, p. 65
-
 

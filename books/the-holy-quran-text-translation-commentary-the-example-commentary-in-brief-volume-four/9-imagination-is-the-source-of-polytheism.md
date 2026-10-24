@@ -175,7 +175,6 @@ ITS SIGNS.
 33- AND HE IS WHO CREATED THE NIGHT AND DAY, AND THE SUN AND THE MOON,
 EACH SWIMMING IN AN ORBIT.
 
-
 **THE COMMENTARY
 AGAIN THE SIGNS OF GOD**
 
@@ -546,5 +545,4 @@ destroyed with the nations living on them.
 
 3ِSome have understood the object of shrinkage to be the inhabitants of
 the earth, particularly the learned scholars and men of knowledge.
-
 

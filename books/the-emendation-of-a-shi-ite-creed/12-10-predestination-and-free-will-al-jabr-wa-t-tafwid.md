@@ -81,4 +81,3 @@ article no.4, 'The Social Significance of the Shuubiya', p.67. For a
 similar opinion, see al-Khayyat, Kitabu 'l-Intisar, the Introduction by
 the Editor, Nyberg, H.S.
 
-

@@ -7,8 +7,5 @@ particle**لم** **¸** followed by the jussive form of the verb.
 
 **We didn’t watch/see this movie.  ما شاهَدنا هذا الفلمَ.**
 
-<p dir="rtl">
 **لم نُشاهِدْ هذا الفلمَ.**
-</p>
-
 

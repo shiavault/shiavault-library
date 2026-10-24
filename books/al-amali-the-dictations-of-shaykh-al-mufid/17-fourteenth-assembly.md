@@ -219,4 +219,3 @@ reliable." Then she said:
  And may Allah bless our master Muhammad, the Prophet and his immaculate
 progeny.
 
-

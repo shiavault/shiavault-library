@@ -880,4 +880,3 @@ either was the same, al-hafiz. Ibid., 2, p. 312.
 
 [^29]: Cf. Kashf al-Zunun 2, pp. 1204 – 06.
 
-

@@ -9,4 +9,3 @@ he should accept what God, His Messenger and the Imams have said for the
 guidance of human beings. He should observe what should be and what
 should not be to realize the teachings of God and His Messenger.
 
-

@@ -169,7 +169,6 @@ divine authority of Amir al-Mu'minin (a.s.) with their mouths.
 which is sent down to him, will have everlasting happiness." (7:157) The
 light stands for Imam (a.s.)."
 
-
 **Chapter 14 : The Imams are the corner stone on earth H 501, Ch. 14, h
 1**
 
@@ -327,5 +326,4 @@ the staff and Maysam and the being that would speak to people."
 (a reference to verse 82 of chapter 27 of Quran) "When the word about
 them comes true We shall make a creature appear to them on earth who
 will tell them that people had no faith in Our revelations." (27:82)
-
 

@@ -34,4 +34,3 @@ worship Allah, are content, and stay away from greediness of the world's
 rank and dignity will easily pass Sirat, but those who are attached to
 worldly majesty and splendor will be arrested with troubles.”
 
-

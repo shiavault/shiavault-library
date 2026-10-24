@@ -161,4 +161,3 @@ from him are not able to hide the truth.
 [^1]: Hazouzi: Name of a mountain in an island where people used to be
 exiled at that time.
 
-

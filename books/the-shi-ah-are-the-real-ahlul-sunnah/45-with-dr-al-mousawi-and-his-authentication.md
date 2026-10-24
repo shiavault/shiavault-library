@@ -529,4 +529,3 @@ Progeny.
 
 [^1]: Here, the author is referring to himself. \_\_ Tr.
 
-

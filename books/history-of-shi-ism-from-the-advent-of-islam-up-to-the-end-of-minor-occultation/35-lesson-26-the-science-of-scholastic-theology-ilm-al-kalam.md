@@ -118,11 +118,7 @@ of the subject to his master.*
 Ibn al-‘Abbas said, “You continue!” His son answered, “I can say nothing
 more.” Ibn al-‘Abbas himself recited this poem:
 
-<blockquote dir="rtl">
-  <p>
-احياؤهم خزى على أمواتهم و الميتون فضيحة للغابر
-  </p>
-</blockquote>
+> احياؤهم خزى على أمواتهم و الميتون فضيحة للغابر
 
 *Their living ones are the source of abjectness for their dead ones
 while their dead ones were the source of disgrace for their
@@ -228,5 +224,4 @@ Publications Office affiliated to the Society of Teachers of the Islamic
 Seminary in Qum, 1407 AH), p. 306.
 
 [^12]: Ibid., p. 63.
-
 

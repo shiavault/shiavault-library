@@ -340,4 +340,3 @@ depth of this question. Some respond whereas some others do not.
 We now propose to look at some other verse, so that the logic of the
 arguments of the Shi'ah may be fully understood.
 
-

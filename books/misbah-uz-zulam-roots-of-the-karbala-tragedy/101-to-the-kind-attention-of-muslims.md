@@ -31,4 +31,3 @@ unlikely.
 
 [^1]: A derogatory term for Shia.
 
-

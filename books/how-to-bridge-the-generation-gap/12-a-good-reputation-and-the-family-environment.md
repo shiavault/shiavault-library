@@ -19,11 +19,7 @@ and his parents. However, this is directly related to the type of
 environment at home provided by everybody especially the elder family
 members. Imam As-Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مازوى الرفق عن اهل بيت الازوي عنهم الخير
-  </p>
-</blockquote>
+> مازوى الرفق عن اهل بيت الازوي عنهم الخير
 
 “In every family if there exists no fellowship and adaptability, it
 becomes deprived of Allah's blessing and bounties.” [^1]
@@ -45,5 +41,4 @@ be destroyed forever.
 [^1]: Usul Kafi, Volume 11, p. 119.
 
 [^2]: The Book of Ethics, Part I, p. 41.
-
 

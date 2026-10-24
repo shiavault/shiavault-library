@@ -121,4 +121,3 @@ retreat. Germans pursued them but thereafter the Germans had to suffer
 many difficulties in surrounding cities like Leningrad in a very hot
 season. Russians attacked them severely and the Germans were defeated.
 
-

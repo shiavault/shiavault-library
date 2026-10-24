@@ -4,13 +4,9 @@ Section 4: The Guardianship of the Sacred Mosque
 Surah Al-Anfal – Verse 29
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ
-فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ
-وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ
+> فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ
+> وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
 
 **29*****. “O you who have Faith! If you be in awe of Allah, He will
 assign for you a discrimination (between right and wrong), and absolve
@@ -56,13 +52,9 @@ a great virtue and reward to be obtained.
 Surah Al-Anfal – Verse 30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ
-أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ
-الْمَاكِرِينَ
-  </p>
-</blockquote>
+> وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ
+> أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ
+> الْمَاكِرِينَ
 
 **30*****. “And (remember) when those who-disbelieved plotted against
 you to take you captive, or to kill you, or to expel you. They devised
@@ -124,13 +116,9 @@ punishment upon those who deserve it. The verse ends as follows:
 Surah Al-Anfal – Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ
-نَشَاءُ لَقُلْنَا مِثْلَ هَٰذَا ۙ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ
-الْأَوَّلِينَ
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ
+> نَشَاءُ لَقُلْنَا مِثْلَ هَٰذَا ۙ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ
+> الْأَوَّلِينَ
 
 **31*****. “And when Our signs are recited to them, they say: ‘We have
 heard. If we like, we (too) can say the like of this (Qur'an). This is
@@ -174,13 +162,9 @@ they could not oppose against the Qur’an or challenge with it.
 Surah Al-Anfal – Verse 32
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالُوا اللَّهُمَّ إِنْ كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ
-عِنْدِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِنَ السَّمَاءِ أَوِ ائْتِنَا
-بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> وَإِذْ قَالُوا اللَّهُمَّ إِنْ كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ
+> عِنْدِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِنَ السَّمَاءِ أَوِ ائْتِنَا
+> بِعَذَابٍ أَلِيمٍ
 
 **32*****. “And (remember) when they said: ‘O Allah! if this (Quran) is
 the truth from You, then rain down upon us stones from the sky, or bring
@@ -216,12 +200,8 @@ a painful punishment’.”***
 Surah Al-Anfal – Verse 33
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ ۚ وَمَا كَانَ
-اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ ۚ وَمَا كَانَ
+> اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ
 
 **33*****. “But Allah is not to punish them while you are among them,
 nor is Allah to chastise them while they seek forgiveness.”***
@@ -266,14 +246,10 @@ tyrannously, while their people acted well.”***
 Surah Al-Anfal – Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ اللَّهُ وَهُمْ يَصُدُّونَ عَنِ
-الْمَسْجِدِ الْحَرَامِ وَمَا كَانُوا أَوْلِيَاءَهُ ۚ إِنْ
-أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ اللَّهُ وَهُمْ يَصُدُّونَ عَنِ
+> الْمَسْجِدِ الْحَرَامِ وَمَا كَانُوا أَوْلِيَاءَهُ ۚ إِنْ
+> أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا
+> يَعْلَمُونَ
 
 **34*****. “And what (plea) have they that Allah should not chastise
 them, while they bar (people) from the Holy Mosque, and they are not
@@ -310,12 +286,8 @@ do not know.”***
 Surah Al-Anfal – Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً ۚ
-فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً ۚ
+> فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ
 
 **35*****. “And their prayer at the (Sacred) House is naught but
 whistling and clapping. Therefore taste the punishment for what you used
@@ -362,13 +334,9 @@ Hereafter, too.
 Surah Al-Anfal – Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا يُنْفِقُونَ أَمْوَالَهُمْ لِيَصُدُّوا عَنْ
-سَبِيلِ اللَّهِ ۚ فَسَيُنْفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً
-ثُمَّ يُغْلَبُونَ ۗ وَالَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ يُحْشَرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا يُنْفِقُونَ أَمْوَالَهُمْ لِيَصُدُّوا عَنْ
+> سَبِيلِ اللَّهِ ۚ فَسَيُنْفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً
+> ثُمَّ يُغْلَبُونَ ۗ وَالَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ يُحْشَرُونَ
 
 **36*****. “Verily those who disbelieve spend their wealth in order that
 they hinder (men) from the way of Allah, and still they will spend it,
@@ -411,13 +379,9 @@ becoming Muslims.
 Surah Al-Anfal – Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ وَيَجْعَلَ الْخَبِيثَ
-بَعْضَهُ عَلَىٰ بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي
-جَهَنَّمَ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ وَيَجْعَلَ الْخَبِيثَ
+> بَعْضَهُ عَلَىٰ بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي
+> جَهَنَّمَ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ
 
 **37*****. “So that Allah may separate the corrupt from the good and
 place corrupt one another, and pile them up all together, and put them
@@ -457,5 +421,4 @@ every nail is in pressure.
 Sunnites.
 
 [^4]: Nahjul Balagha, saying 88
-
 

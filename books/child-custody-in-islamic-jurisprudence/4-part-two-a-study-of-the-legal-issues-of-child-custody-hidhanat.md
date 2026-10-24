@@ -1550,4 +1550,3 @@ parents gets sick or dies and the child is with the other one, it would
 not prevent the child to visit him or her or attend his or her funeral."
 Sayyid Sabiq, Fiqh al-Sunna, 2/351.
 
-

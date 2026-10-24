@@ -1665,4 +1665,3 @@ the patient should receive proper attention at the hands of an expert.
 That will be the day when social justice will permeate our entire social
 order.
 
-

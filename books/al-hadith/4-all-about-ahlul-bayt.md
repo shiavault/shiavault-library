@@ -57,4 +57,3 @@ and he left Baghdad to Najaf establishing the Howza Ilmiyyah.
 1. Tah'dheeb Al-Ah'kaam, 12,590 Hadiths, in 390 sections.
 2. Al-Istibsaar 5,521 Hadiths.
 
-

@@ -90,7 +90,6 @@ Of course, these three mentioned ways are considered the practical
 method that must be followed in an attempt to deal with detecting idea
 and concept or theory in the Holy Qur'an.
 
-
 **B. The Sacred Sunnah (of the Prophet):**
 
 The linguistic meaning of Sunnah is \`the beaten path', and
@@ -393,5 +392,4 @@ scientific and methodical restricts to theorize and treat various
 civilizational cases and problems in a form that saves him commitment
 and missionary truth; equally, it provides the researcher with endless
 intellectual wealth.
-
 

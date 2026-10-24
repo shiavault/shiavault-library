@@ -10,4 +10,3 @@ have become my subject.”
 All of the vizier's companions laughed. The vizier was very ashamed and
 embarrassed because of Bahlool's reply.
 
-

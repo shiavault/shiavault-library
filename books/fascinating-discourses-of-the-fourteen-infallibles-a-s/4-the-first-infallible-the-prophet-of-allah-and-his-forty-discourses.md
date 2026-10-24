@@ -28,17 +28,9 @@ Islamic state (approx. 10 years).
 Forty Traditions from the Holy Prophet
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن النبي الاکرم صلی الله عليه وآله و سلم
-  </p>
-</blockquote>
+> عن النبي الاکرم صلی الله عليه وآله و سلم
 
 1. Oh servants of Allah! You are like patients & the lord of mortals is
 like a physician. So the rectitude & well-being of the ailment of
@@ -580,5 +572,4 @@ has been prohibited by Islam.
 [^37]: Bihar ul-Anwar, Vol. 77, P 58
 
 [^38]: JamiaSaadat, Vol. 2, P 12
-
 

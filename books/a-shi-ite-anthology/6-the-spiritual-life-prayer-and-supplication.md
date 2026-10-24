@@ -2934,4 +2934,3 @@ anger, I seek refuge in Thee from Thee!"
 the month of fasting, or Ramadan, which is considered to the holiest and
 most blessed month of the year. 
 
-

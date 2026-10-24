@@ -195,4 +195,3 @@ category which includes such names as those of Hud, Salih, Lut, Ishaq,
 Yaqub, Yusuf, Yushu, Shuayb, Harun, Zachariyyah and Yahya (may peace be
 upon them).
 
-

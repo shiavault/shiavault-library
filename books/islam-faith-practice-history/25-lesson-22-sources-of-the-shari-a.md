@@ -213,4 +213,3 @@ understanding.
 in Sunni sources, see ash-Sha\`rāni, at-Tabaqātu 'l-Kubra, vol. 1 p. 28;
 Abu Nu\`aym, Hilyatu 'l-Awliyā', vol. 3, p. 193, 197.
 
-

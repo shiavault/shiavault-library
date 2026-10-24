@@ -146,4 +146,3 @@ and al‑Ibanah 'an Usuli 'd‑Diyanah) p. 238‑9; 241.
 
 [^5]: al‑Hilli, Kashfu 'l‑Haqq
 
-

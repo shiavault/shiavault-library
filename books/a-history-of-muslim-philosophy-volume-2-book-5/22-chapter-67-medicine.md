@@ -858,4 +858,3 @@ also P. K. Hitti, op. cit., p. 576.
 
 [^42]: C. Elgood, op. cit., pp. 205ff.
 
-

@@ -72,11 +72,7 @@ Allah to people by use of events.
 When night set, that personage saw a star. In the beginning, he said,
 “This is my Lord.” But when the star set he said;
 
-<blockquote dir="rtl">
-  <p>
-لاَ أُحِّبُ الآَفِلِينَ
-  </p>
-</blockquote>
+> لاَ أُحِّبُ الآَفِلِينَ
 
 “I love not those that set.”[^1]
 
@@ -110,11 +106,7 @@ themselves. In reality, they are like the news of the martyrdom of
 ‘Ammar, when the Messenger of Allah (peace be upon him and his family)
 said,
 
-<blockquote dir="rtl">
-  <p>
-تَقْتُلُكَ الْفِئَةَ الْبَاغِيَةُ."
-  </p>
-</blockquote>
+> تَقْتُلُكَ الْفِئَةَ الْبَاغِيَةُ."
 
 “The oppressive party will kill you.”[^2]
 
@@ -134,5 +126,4 @@ the occurrence of these events.
 [^1]: Surah Ana’m (6), Verse 75
 
 [^2]: Bihar al-Anwar, Volume 18, Page 123
-
 

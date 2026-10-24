@@ -213,4 +213,3 @@ to remain with wisdom wherever it may he. So Gabriel said: Then do what
 you have been told and he ascended to heaven.”  
   
 
-

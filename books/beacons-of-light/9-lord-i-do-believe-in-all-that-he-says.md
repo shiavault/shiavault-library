@@ -1616,4 +1616,3 @@ here quoted, see al‑Bukhari, vol. 8, pp. 52‑ 53.
 of Banu 'l-Mustaliq, where \`A'ishah was suspected of adultery. See Ibn
 Hisham, vol. 3, pp. 341‑ 55, and Guillaume, pp. 493‑ 9.
 
-

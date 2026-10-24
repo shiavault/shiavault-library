@@ -91,7 +91,6 @@ law. No doubt, this cannot be achieved except through the Islamic
 alternative alone, since the Law-giver, in this case, is free from
 ignorance, injustice and personal urges.
 
-
 The Interplay of System, Law and the Conditions in Which it is Applied
 Among the questions studied, in the relationship between time, space and
 the setting to which the law and system applies, is the question of the
@@ -138,7 +137,6 @@ in the interest of the community. On the other hand, the state
 interferes in the economy by directing its activities where economic
 interest of the community entails the adoption of a centralized economy.
 Thus, various choices are open to the Islamic state.
-
 
 **Islam and New Developments**
 
@@ -251,7 +249,6 @@ sustenance of good things, and We have exalted them over most of those
 whom We have created, by (high) decree of exaltations." Holy Qur'an:
 (Bani Israel 17: 70)
 
-
 And the Holy Prophet (s.a.w.) also said: "The blood, property and
 honour of every Muslim is prohibited to any other Muslim". He also said:
 "It is not permissible to take someone's property except with his
@@ -280,7 +277,6 @@ timeless values of truth and justice.
 
 So, this is how the Constant and the Changeable (part of the shari'a)
 deals with the whole human activities.
-
 
 **2- Legislation and Islamic Concepts:**
 
@@ -359,7 +355,6 @@ therefore, a thought and legislation which caters to the permanent
 requirements pertaining to human existence, psychologically, mentally
 and physically, in accordance with the level of means and methods at his
 disposal for all times and places.
-
 
 **An Analytical Study of Religious Law and its Criterion**
 
@@ -493,5 +488,4 @@ receiving the laws by the obligatee, the role in comprehending the
 "consideration' in preparation for executing the law is manifested. We
 shall study this issue later - Insha Allah - to remove the vagueness, as
 regards to what is human and what is divine, in Islamic legislation.
-
 

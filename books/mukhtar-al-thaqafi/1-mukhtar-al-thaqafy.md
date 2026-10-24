@@ -28,4 +28,3 @@ cousin Muslim bin Aqeel as his envoy to Kufa.
 
 Imam Husayn asked his cousin to stay with the most loyal person in Kufa.
 
-

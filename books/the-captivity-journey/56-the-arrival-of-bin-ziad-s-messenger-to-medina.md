@@ -19,4 +19,3 @@ informed them of what happened. Thus the calamity of Bani Hashim was
 greater, and then they performed the customs for such catastrophes and
 funerals.
 
-

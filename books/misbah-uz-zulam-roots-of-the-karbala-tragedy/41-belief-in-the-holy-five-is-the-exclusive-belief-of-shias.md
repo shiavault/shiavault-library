@@ -39,4 +39,3 @@ jurisprudence. On the other hand, Shias believe that the Imams from Ali
 (a.s.) to Imam Mahdi (a.j.) are successors of the Prophet and they do
 not consider Caliphate to be divorced from Imamate.
 
-

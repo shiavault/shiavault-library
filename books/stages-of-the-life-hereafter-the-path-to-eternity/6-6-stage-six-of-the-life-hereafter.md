@@ -4,11 +4,7 @@
 The Barzakh
 -----------
 
-<blockquote dir="rtl">
-  <p>
- البرزخ
-  </p>
-</blockquote>
+>  البرزخ
 
 Is the Islamic Barzakh similar to the Catholic Purgatory? Is the God of
 the Muslims different from that of the Catholics?! Does He tell the
@@ -73,11 +69,7 @@ Shi\`a of the Commander of the Faithful Imam Ali ibn Abu Talib (ع)…!
 
 The barzakh is mentioned in the Holy Qur'an in places such as this:
 
-<blockquote dir="rtl">
-  <p>
-وَمِن وَرَائِهِم بَرْزَخٌ إِلَى يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> وَمِن وَرَائِهِم بَرْزَخٌ إِلَى يَوْمِ يُبْعَثُونَ
 
 ***"(There) is a barrier before them till the Day they are raised up
 (from their graves for judgment)" (Qur'an, 23:100).***
@@ -90,12 +82,8 @@ saying, "By Allah‎, I fear for you the barzakh." He was asked, "What is
 the barzakh?" He said, "It is the grave from the moment of death till
 the Day of Judgment."
 
-<blockquote dir="rtl">
-  <p>
-قال الامام الصادق عليه السلام في حديث: «ولكني والله اتخوف عليكم من
-البرزخ. قيل له: وما البرزخ ؟ قال: القبر منذ حين موته الى يوم القيامة.
-  </p>
-</blockquote>
+> قال الامام الصادق عليه السلام في حديث: «ولكني والله اتخوف عليكم من
+> البرزخ. قيل له: وما البرزخ ؟ قال: القبر منذ حين موته الى يوم القيامة.
 
  It has been cited from ar-Rawandi's book Lubb al-Lubab that those in
 the graves go to call upon their families, offspring and relatives and
@@ -117,21 +105,17 @@ just as we do although we find doing so to be futile. Work hard and
 seize the opportunity before it is gone and before your condition will
 be similar to ours."
 
-<blockquote dir="rtl">
-  <p>
-ونقل عن لبّ اللباب للقطب الراوندي قال: وفي الخبر كان الموتى يأتون
-فيقفون ، وينادي كلّ واحد منهم بصوت حزين باكياً : يا أهلاه ! يا ولداه !
-وياقرابتاه ! اعطفوا علينا بشيء يرحمكم الله ، واذكرونا ولا تنسونا
-بالدعاء وارحموا علينا وعلى غربتنا ، فانّا قد بقينا في سجن ضيق ، وغمّ
-طويل وشدّة ، فارحمونا ، ولا تبخلوا بالدعاء والصدقة لنا لعل الله يرحمنا
-قبل أن تكونوا مثلنا. فواحسرتاه قد كنّا قادرين مثل ما أنتم قادرون فيا
-عباد الله : اسمعوا كلامنا ولا تنسونا فانّكم ستعلمون غداً فانّ الفضول
-التي في ايديكم كانت في أيدينا فكنّا لاننفق في طاعة الله ، ومنعنا عن
-الحقّ ، فصار وبالاً علينا ومنفعةً لغيرنا . اعطفوا علينا بدرهم أو رغيف
-أو بكسرة. ثم ينادون ما أسرع ما تبكون على انفسكم ولا ينفعكم كما نحن
-نبكي ولا ينفعنا فاجتهدوا قبل أن تكونوا مثلنا.
-  </p>
-</blockquote>
+> ونقل عن لبّ اللباب للقطب الراوندي قال: وفي الخبر كان الموتى يأتون
+> فيقفون ، وينادي كلّ واحد منهم بصوت حزين باكياً : يا أهلاه ! يا ولداه !
+> وياقرابتاه ! اعطفوا علينا بشيء يرحمكم الله ، واذكرونا ولا تنسونا
+> بالدعاء وارحموا علينا وعلى غربتنا ، فانّا قد بقينا في سجن ضيق ، وغمّ
+> طويل وشدّة ، فارحمونا ، ولا تبخلوا بالدعاء والصدقة لنا لعل الله يرحمنا
+> قبل أن تكونوا مثلنا. فواحسرتاه قد كنّا قادرين مثل ما أنتم قادرون فيا
+> عباد الله : اسمعوا كلامنا ولا تنسونا فانّكم ستعلمون غداً فانّ الفضول
+> التي في ايديكم كانت في أيدينا فكنّا لاننفق في طاعة الله ، ومنعنا عن
+> الحقّ ، فصار وبالاً علينا ومنفعةً لغيرنا . اعطفوا علينا بدرهم أو رغيف
+> أو بكسرة. ثم ينادون ما أسرع ما تبكون على انفسكم ولا ينفعكم كما نحن
+> نبكي ولا ينفعنا فاجتهدوا قبل أن تكونوا مثلنا.
 
 Is the barzakh similar to the purgatory? Catholics believe that the
 purgatory is a place where the souls of the dead are cleansed before
@@ -159,12 +143,8 @@ what the left does not know, that is, let it be a secret you keep to
 yourself; do not make a show of it and thus lose its rewards. In the
 reference Jami\` al-Akhbar, we read the following on p. 197:
 
-<blockquote dir="rtl">
-  <p>
-ذكر صحابي عن الرسول الأعظم (ص) أنه قال: "إبعثوا بهداياكم إلى موتاكم"
-فسئل عن هدايا الموتى، فقال: "الصدقه و الدعاء".
-  </p>
-</blockquote>
+> ذكر صحابي عن الرسول الأعظم (ص) أنه قال: "إبعثوا بهداياكم إلى موتاكم"
+> فسئل عن هدايا الموتى، فقال: "الصدقه و الدعاء".
 
 A companion of the Greatest Prophet (P) cited the Prophet (P) as saying,
 "Send your gifts to your dead." He was asked about what gifts could be
@@ -184,17 +164,13 @@ A combination of both is the best, though, if you really want to shun
 many horrors awaiting us in the hereafter and to live a very happy and
 blissful life here and hereafter.
 
-<blockquote dir="rtl">
-  <p>
- و فيه أيضا عن النبي الكريم (ص) أنه قال: إذا تصدق أحدكم لميت، فإن ملكا
-يحملها في طبق من نور، تمتد أشعته حتى تبلغ السماوات، فيقف على حافة
-القبر، و ينادي بأعلى صوته: السلام عليكم يا أهل القبور، هذه هدية أهلكم
-إليكم! فيتسلمها الميت، و يدخلها قبره، و يتسع بها مضجعه. .... ثم قال
-رسول الله (ص): إعلموا أنه من ترحم على ميت بصدقه، فله أجر عند الله مثل
-جبل أحد، و هو يوم القيامه تحت ظل عرش الله، إذ لا ظل سواه يومذاك و ينجو
-بالصدقه الأموات و الأحياء.
-  </p>
-</blockquote>
+>  و فيه أيضا عن النبي الكريم (ص) أنه قال: إذا تصدق أحدكم لميت، فإن ملكا
+> يحملها في طبق من نور، تمتد أشعته حتى تبلغ السماوات، فيقف على حافة
+> القبر، و ينادي بأعلى صوته: السلام عليكم يا أهل القبور، هذه هدية أهلكم
+> إليكم! فيتسلمها الميت، و يدخلها قبره، و يتسع بها مضجعه. .... ثم قال
+> رسول الله (ص): إعلموا أنه من ترحم على ميت بصدقه، فله أجر عند الله مثل
+> جبل أحد، و هو يوم القيامه تحت ظل عرش الله، إذ لا ظل سواه يومذاك و ينجو
+> بالصدقه الأموات و الأحياء.
 
 In the same reference, that is, Jami\` al-Akhbar, we read the following
 on the same page: "The Revered Prophet (P) has been quoted as saying,
@@ -229,17 +205,12 @@ brought drinks and fruits from Paradise as they watch others being
 tried, that is, court marshaled! On p. 59, Vol. 74 and on pp. 573-4 of
 Zad al-Ma\`ad, we read the following statement by Imam‎ as-Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-قال الامام الصادق (ع) يرد الصوم و الصلاة و الصدقة و الحج و الأدعية و
-الخيرات على الميت في قبره، و يكتب ثواب جميع الأعمال للميت و لفاعل
-الخير معا
-  </p>
-</blockquote>
+> قال الامام الصادق (ع) يرد الصوم و الصلاة و الصدقة و الحج و الأدعية و
+> الخيرات على الميت في قبره، و يكتب ثواب جميع الأعمال للميت و لفاعل
+> الخير معا
 
 "Fast, prayers, charity, pilgrimage, supplications and good deeds reach
 the deceased person inside his grave, and the rewards of all deeds done
 on behalf of the deceased person will be recorded as they are for the
 doer of these deeds."
-
 

@@ -7,4 +7,3 @@ Talib (as). Ummayah was also among the people who fought with the Imam
 Ali in the battle of Siffeen. He joined the army of Imam Husayn on the
 8th of Muharram.
 
-

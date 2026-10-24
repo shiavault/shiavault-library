@@ -31,4 +31,3 @@ work relating to the Concept of Energy in The Universe, its
 Intelligence, and how Islamic beliefs and practices accord totally with
 known scientific and modern discoveries.
 
-

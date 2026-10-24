@@ -115,4 +115,3 @@ home, they fully realised the need for a religion. Since then, they
 respected their religious teachings more and more and made every effort
 to follow them. In so doing they became happier and successful in life.
 
-

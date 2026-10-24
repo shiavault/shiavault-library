@@ -41,11 +41,7 @@ not seek it, and if he finds it he does not apply it [to cure his
 ailment].
 
 > 9ـ عَجِبْتُ لِمَنْ عَرَفَ دَواءَ دائِهِ فَلا يَطْلُبُهُ وإنْ وَجَدَهُ
-<blockquote dir="rtl">
-  <p>
-لَمْ يَتَداوَ بِهِ.
-  </p>
-</blockquote>
+> لَمْ يَتَداوَ بِهِ.
 
 10. For every living thing there is an ailment.
 
@@ -61,5 +57,4 @@ ailment].
 
 [^1]: Meaning one must try to bear the ailment without using any
 medication for as long as he can.
-
 

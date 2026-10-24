@@ -414,4 +414,3 @@ No one would struggle against him except those who have strayed away
 from the right path. No one would keep away from him except those who
 keep a bold face against Allah, the Most Holy, the Most High.
 
-

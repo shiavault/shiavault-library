@@ -16,14 +16,10 @@ problem. Islam differs from both by considering the reason of the
 economic problems to be man himself. This attitude is given by the
 Qur'anic verse.
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَائِبَيْنِ ۖ وَسَخَّرَ لَكُمُ
-اللَّيْلَ وَالنَّهَارَ وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ ۚ
-وَإِنْ تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ الْإِنْسَانَ
-لَظَلُومٌ كَفَّارٌ 
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَائِبَيْنِ ۖ وَسَخَّرَ لَكُمُ
+> اللَّيْلَ وَالنَّهَارَ وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ ۚ
+> وَإِنْ تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ الْإِنْسَانَ
+> لَظَلُومٌ كَفَّارٌ
 
 ***"And He has made subject to you the sun and the moon, both diligently
 pursuing their courses, and the Night and the Day has He (also) made
@@ -74,5 +70,4 @@ it after production, according to the second half of the rule (that is
 the phenomena of persistence of possession). This point is very
 important in distinguishing the Islamic Economic system from Capitalism
 and Communism.
-
 

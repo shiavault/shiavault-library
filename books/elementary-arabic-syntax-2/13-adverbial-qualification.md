@@ -19,4 +19,3 @@ word.
 the case when the infinitive does have an *alif-lām* and is prefixed to
 another word.
 
-

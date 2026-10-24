@@ -34,7 +34,6 @@ MORE). THEN (IF IT BE SO) THEY CANNOT ESCAPE.
 47- OR MAY HE NOT SEIZE THEM ON GRADUAL WARNING? YOUR LORD IS INDEED
 KIND AND COMPASSIONATE.
 
-
 **THE COMMENTARY
 SINS VERSUS PUNISHMENTS (VERSE NO. 45 - 47)**
 
@@ -85,7 +84,6 @@ THE ANGELS, AND THEY SHOW NO PRIDE.
 ORDERED.
 
 [ 461 ]
-
 
 **THE COMMENTARY
 ALL PROSTRATE THEMSELVES BEFORE GOD; EVEN THE SHADOWS! (VERSE NO. 48 -
@@ -164,7 +162,6 @@ PARTNERS TO THEIR LORD!
 THEMSELVES (FOR A WHILE), AND SOON SHALL THEY COME TO KNOW.
 
 [ 463 ]
-
 
 **THE COMMENTARY
 GOD IS ONE, AND HIS RELIGION IS ALSO ONE (VERSE NO. 52 - 55)**
@@ -276,7 +273,6 @@ ALLAH, AND HE IS ALL-MIGHTY, ALL-WISE.
 
 [ 466 ]
 
-
 **THE COMMENTARY
 WHERE FEMALE BIRTH WAS A SIGN OF SHAME (VERSE NO. 56 - 60)**
 
@@ -300,7 +296,6 @@ and turned black! He sometimes escaped people for knowing his daughter
 to be a sign of shame. He did not know how to decide on the matter for
 having only two options; either to bury the poor girl alive, or to
 retain her as a thing of sufferance and contempt!
-
 
 **WHY DID THE PAGAN ARAB COMMIT FEMALE INFANTICIDE?**
 
@@ -430,7 +425,6 @@ PAINFUL PUNISHMENT.
 TO THEM THAT IN WHICH THEY DIFFER; AND (ALSO AS) A GUIDANCE AND MERCY
 FOR A PEOPLE WHO BELIEVE.
 
-
 **THE COMMENTARY
 IF IT WAS ORDERED TO ARREST DRUNKARDS....!? (VERSE NO. 61 - 64)**
 
@@ -523,7 +517,6 @@ THEIR WISDOM.
 
 [ 473 ]
 
-
 **THE COMMENTARY
 WATERS, FRUITS, AND CATTLE (VERSE NO. 65 - 67)**
 
@@ -546,5 +539,4 @@ benefits do we get out of our domestic animals:ِ \`\`And there is a
 teaching lesson for you in the cattle; We give you to drink of what is
 in their stomach. We take out for you from between their digested food
 and blood, pure milk, which is whole-some to drink.''
-
 

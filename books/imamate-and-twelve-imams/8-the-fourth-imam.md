@@ -31,4 +31,3 @@ The fourth Imam died (according to some Shi'ite traditions poisoned by
 Walid ibn 'Abd al-Malik through the instigation of the Umayyad caliph
 Hisham) in 95/712 after thirty-five years of imamate.
 
-

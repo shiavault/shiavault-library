@@ -1,19 +1,11 @@
 Suratul Baqarah: Verses 45-46
 =============================
 
-<blockquote dir="rtl">
-  <p>
-(٤٥) وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلاَةِ وَإِنَّهَا لَكَبِيرَةٌ
-إِلاَّ عَلَى الْخَاشِعِينَ
-  </p>
-</blockquote>
+> (٤٥) وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلاَةِ وَإِنَّهَا لَكَبِيرَةٌ
+> إِلاَّ عَلَى الْخَاشِعِينَ
 
-<blockquote dir="rtl">
-  <p>
-(٤٦) الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلاَقُو رَبِّهِمْ وَأَنَّهُمْ
-إِلَيْهِ رَاجِعُونَ
-  </p>
-</blockquote>
+> (٤٦) الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلاَقُو رَبِّهِمْ وَأَنَّهُمْ
+> إِلَيْهِ رَاجِعُونَ
 
 ***And seek assistance through patience and prayer; and most surely it
 is a hard thing, except for the humble ones*** **(45)*****,***
@@ -143,5 +135,4 @@ The author says: as-Sadūq also has narrated this tradition, al-Baqīr
 [^3]: al-'Ayyashī
 
 [^4]: al-Manaqib, Ibn Shahrashūb
-
 

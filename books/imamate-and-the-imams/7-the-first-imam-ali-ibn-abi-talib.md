@@ -718,4 +718,3 @@ verdict based on the truth.”[^54]
 
 [^54]: Al-Imam Ali Ibn Abi Talib, Vol 3, p. 200.
 
-

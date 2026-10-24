@@ -70,10 +70,8 @@ never end. This is not a book made up by limited human brains that may
 only account for one aspect and fail to consider the others over time. A
 book that says:
 
-<p dir="rtl">
 و العصر ان الانسان لفي خسر الا الذين امنوا و عملوا الصالحات و تواصوا
 بالحق و تواصوا بالصبر
-</p>
 
 ***“By the time! Surely man is in the way of loss, save those who
 believe, and do righteous deeds, and counsel each other unto the truth,
@@ -197,9 +195,7 @@ a theory would not lead to any specific results, for there would be no
 room for displacing any words with the same meaning. In the following
 verse, for example:
 
-<p dir="rtl">
 و من احسن دينا ممن اسلم وجهه لله و هو محسن و اتبع ملة ابراهيم حنيفا
-</p>
 
 ***“And who is there that has a fairer religion than he who submits his
 will to God being a good-doer, and who follows the creed of Abraham, a
@@ -242,9 +238,7 @@ like Adam, Noah, Abraham, Moses and Muhammad as children of God? They
 were also very close to God. Islam even in one case sees all of mankind
 as God's family:
 
-<p dir="rtl">
 الخلق كلهم عيال الله و احبهم اليه انفعهم لهم
-</p>
 
 *“All people are God's family; the people closest to God are those who
 present God's family with the most benefit and advantage.” (The Holy
@@ -253,9 +247,7 @@ Prophet Muhammad)*
 On the issue of what kind of book the Holy Qur’an is, let us first take
 the following verse into consideration:
 
-<p dir="rtl">
 و السماء بنيناها باَيد و انا لموسعون
-</p>
 
 ***“And heaven - We built it with might, and We extend it wide.”(
 51:47)***
@@ -388,16 +380,12 @@ history.
 A few examples of the verses in the Qur’an that show us the mathematical
 face of the universe are:
 
-<p dir="rtl">
 و ان من شي الا عندنا خزائنه و ما ننزله الا بقدر معلوم
-</p>
 
 ***“Naught is there, but its treasuries are with Us, and We sent it not
 down but in a known measure.” (15:21)***
 
-<p dir="rtl">
 لقد احصاهم و عدهم عدا
-</p>
 
 ***“[God] has indeed counted them, and He has numbered them exactly.”(
 19:94)***
@@ -406,10 +394,8 @@ Verse 53 of the surah Distinguished is one of the most comprehensive
 verses proving the “sign” aspect of the universe and that fact that from
 that very aspect one can find “God:”
 
-<p dir="rtl">
 سنريهم اياتنا في الافاق و في انفسهم حتي يتبين لهم انه الحق اولم يكف
 بربك انه علي كل شي شهيد
-</p>
 
 ***“We shall show them Our signs in the horizons and in themselves, till
 it is clear to them that it is the truth. Suffices it not as to thy
@@ -437,10 +423,8 @@ second one - now that you cannot claim that you do not exist, you cannot
 be aimless or farce either, so you must have a duty.'“ As the renowned
 Iranian poet, Hafiz, says:
 
-<p dir="rtl">
 در اندرون من خستـه دل ندانـم چيست؟ كه من خموشم و او در فغان و در
 غوغاست
-</p>
 
 *(I don't know what there is in my weary heart, but although I say
 nothing, it is crying out with all its might.)*
@@ -479,10 +463,8 @@ calculation and thought. However, the other issue is that, being
 mathematical, the universe is not closed and unoccupiable for God,
 either. As Jalal-addin Muhammad Molawi (Rumi) says,
 
-<p dir="rtl">
 عالم چو آب جوسـت، بسته نمايد، وليک میرود و میرسد نو نو، ايـن از
 کجاست؟
-</p>
 
 *(The universe is like the water in a stream; it looks like a closed
 system, but new, fresh water keeps coming, how can it be?)*
@@ -510,25 +492,17 @@ that cannot be worded.
 This is a “feeling,” not an “imagination;” it is “received,” not
 “reflected.”
 
-<p dir="rtl">
 ز تو با تـو راز گويم به زبــان بي زبـــاني به تو از تو راه جويم به
 نشان بي نشاني
-</p>
 
-<p dir="rtl">
 چه شوي ز ديده پنهان كه چو روز مينمايد رخ همچـو آفتابـت ز نقــاب
 آسمانـي
-</p>
 
-<p dir="rtl">
 تو چه معنـــي لطيفـي كه مجـرّد از دليلي تو چه آيت شريفي كه منــزّه
 از بيانـي
-</p>
 
-<p dir="rtl">
 ز تو ديده چون بـدوزم، كه تويي چراغ ديده ز تو كي كنار گيرم، كه تو
 درميان جانـي
-</p>
 
 *(How could you disappear from our eyes? Your shining face shines
 through the mask of the heavens. You are so delicate that you are free
@@ -546,9 +520,7 @@ on a mountain top in the moonlight; would we not get a far higher
 feeling flowing in us like waves if we actually realize in ourselves the
 creator of all this beauty?
 
-<p dir="rtl">
 هو الله الخالق الباري المصور له الاسماء الحسني
-</p>
 
 ***“He is God, the Creator, the Maker, the Shaper. To Him belong the
 Names Most Beautiful.” (59:24)***
@@ -608,9 +580,7 @@ thinkers refer to is observing the skies and the immensely exquisite
 order and harmony we see in it; yet, it still resembles a beautiful
 painting.
 
-<p dir="rtl">
 ينقلب اليك البصر خاسئا و هو حسير
-</p>
 
 ***“Your eyes will return to you, wearied, feeling the need to come back
 to you.” (67:4)***
@@ -618,9 +588,7 @@ to you.” (67:4)***
 Another verse that intrigues man to realize and appreciate the glory and
 beauty of the universe is:
 
-<p dir="rtl">
 اولم ينظروا في ملكوت السماوات و الارض
-</p>
 
 ***“Have they not considered the dominion of the heaven and of the
 earth?” (7:185)***
@@ -645,9 +613,7 @@ believes that all forms of beauty pertain to God.
 Many verses in the Qur’an attribute beauties to God, and even condemn
 people's depriving others of these beauties. For example:
 
-<p dir="rtl">
 قل من حرّم زينة الله التي اخرج لعباده
-</p>
 
 ***“Say, 'Who has forbidden the ornament of God which He has brought
 forth [from nature] for His servants?”( 7:32)***
@@ -661,15 +627,11 @@ beautiful structure to Himself, its Creator.
 2- The Beauty of Man's Creation and His Face: This form of beauty has
 been referred to in various ways in the Qur’an:
 
-<p dir="rtl">
 لقد خلقنا الانسان في احسن تقويم
-</p>
 
 ***“We indeed created Man in the fairest stature.”( 95:4)***
 
-<p dir="rtl">
 و صوّركم فاحسن صوركم
-</p>
 
 ***“And He shaped you, and shaped you well.” (40:64, 64:3)***
 
@@ -681,9 +643,7 @@ body.
 3- The Beauty of Living Creatures: God also refers to the beauty in the
 creation of other living beings:
 
-<p dir="rtl">
 و لكم فيها جمال حين تريحون و حين تسرحون
-</p>
 
 ***“And there is beauty in them for you, when you bring them home to
 rest [in the evening] and when you drive them forth abroad to pasture
@@ -701,16 +661,12 @@ to create them; man has not induced them into his own mind.
 Qur’an emphasize the beauty of moral ethics and moral values and all
 proper human virtues:
 
-<p dir="rtl">
 و ان الساعة لاتية فاصفح الصفح الجميل
-</p>
 
 ***“Surely the Hour is coming; so pardon thou, with a gracious
 pardoning.” (15:85)***
 
-<p dir="rtl">
 فاصبر صبرا جميلا
-</p>
 
 ***“So be thou patient with a sweet patience.” (70:5)***
 
@@ -737,30 +693,22 @@ Qur’an. However, some scholars have denied the existence of such verses
 in the Qur’an. These four verses have been pointed out as instances of
 nasikh and mansookh in the Qur’an:
 
-<p dir="rtl">
 ما ننسخ من آية او ننسها نات بخير منها او مثلها
-</p>
 
 ***“And for whatever verse we abrogate or cast into oblivion, We bring a
 better or the like of it.” (2:106)***
 
-<p dir="rtl">
 و اذا بدلنا آية مکان آية و الله اعلم بما ينزل
-</p>
 
 ***“And when We exchange a verse in the place of another verse - and God
 knows very well what He is sending down.” (16:101)***
 
-<p dir="rtl">
 يمحوا الله ما يشاء و يثبت و عنده ام الکتاب
-</p>
 
 ***“God blots out, and He establishes whatsoever He will; and with Him
 is the Essence of the Book.”( 13:39)***
 
-<p dir="rtl">
 فبظلم من الذين هادوا حرّمنا عليهم طيبات احلّت لهم
-</p>
 
 ***“And for the evildoing of those Jewry, We have forbidden them certain
 good things that were permitted to them…”( 4:160)***
@@ -773,9 +721,7 @@ mansookh.
 4- Emergency allowances and the main mandatory duties: In some cases,
 allowances have been made for emergencies or situations made by force.
 
-<p dir="rtl">
 فمن اضطر غير باغ و لا عاد فلا اثم عليه
-</p>
 
 ***“Yet whoso is constrained to eat dead flesh or other forbidden
 things, not desiring nor transgressing. No sin shall be on him.”(
@@ -797,17 +743,13 @@ qualitatively and quantitatively limited, like personal issues.
 8- The Firmly Clear and the Like: Some verses are so clear that we can
 firmly know what they mean:
 
-<p dir="rtl">
 الحمد لله رب العالمين
-</p>
 
 ***“Praise belongs to God, the Lord of all Being.”(1:1)***
 
 In some others, the meaning is not so clear in the words used:
 
-<p dir="rtl">
 و جاء ربك و الملك صفا صفا
-</p>
 
 “And [on Judgment Day] thy Lord comes, and the angels rank on rank…”
 (89:22)
@@ -818,9 +760,7 @@ are two important points about such verses:
 1- Sometimes the meaning of the verse is the opposite of what it seems
 to be:
 
-<p dir="rtl">
 و جاء ربك والملك صفا صفا
-</p>
 
 ***“And thy Lord comes, and the angels rank on rank…” (89:22)***
 
@@ -828,9 +768,7 @@ to be:
 explanation and interpretation, like “time” or “hour” which sometimes
 means Judgment Day, or:
 
-<p dir="rtl">
 ما كذب الفواد ما راي
-</p>
 
 ***“The Messenger's heart did not deny what he saw…”(53:11)***
 
@@ -921,18 +859,14 @@ the Qur’an is a divine book:
 Found in no other man-made book, this is one of the Qur’an's most
 incredible qualities. Consider these verses:
 
-<p dir="rtl">
 و قضي ربك الا تعبدوا الا اياه
-</p>
 
 ***“Thy Lord has decreed you shall not serve any but Him…” (19:23)***
 
 The context addresses the whole universe; it controls and dominates all
 of mankind.
 
-<p dir="rtl">
 يا ايها الانسان انك كادح الي ربك كدحا فملاقيه
-</p>
 
 ***“O Man! Thou art laboring unto thy Lord laboriously, and thou shalt
 encounter Him.”( 84:6)***
@@ -946,9 +880,7 @@ and desires.
 Such a sentence would have been impossible without absolute dominance
 over man's ideas, ideals, thoughts, and corruptions.
 
-<p dir="rtl">
 فاين تذهبون
-</p>
 
 ***Then where are you going?” (81:26)***
 
@@ -998,25 +930,19 @@ fundamentals of Islam, however - baselessly claim, the necessity of
 making use of one's senses has been regarded as extremely important in
 the Qur’an. As we see in the verses below:
 
-<p dir="rtl">
 و الله اخرجكم من بطون امهاتكم لا تعلمون شيئا و جعل لكم السمع و
 الابصار و الافئدة لعلكم تشكرون
-</p>
 
 ***“And it is God who brought you forth from your mothers' wombs, and He
 appointed for you hearing, and sight, and hearts, that haply so you will
 be thankful.” (16:78)***
 
-<p dir="rtl">
 و هو الذي انشأ لكم السمع و الابصار و الافئدة قليلا ما تشكرون
-</p>
 
 ***“It is He who produced for you hearing, and eyes, and hearts; but
 little thanks you show.”( 23:78)***
 
-<p dir="rtl">
 قل هل يستوي الاعمي و البصير ام هل تستوي الظلمات و النور
-</p>
 
 ***“Say: 'Are the blind and the seeing man equal, or are the shadows and
 the light equal?”( 13:16)***
@@ -1066,9 +992,7 @@ Thought and Reasoning in the Qur’an
 This has been pointed out in many verses; the word tafakkor (reflection)
 comes in 18 verses:
 
-<p dir="rtl">
 قل هل يستوي الاعمي و البصير افلا تتفكرون
-</p>
 
 ***“Say: 'Are the blind and the seeing man equal? Will you not reflect?'
 (6:50)***
@@ -1163,16 +1087,12 @@ their eventual doom (13:25).
 Many verses in the Qur’an directly or indirectly mention this form of
 “fixating reforms.”
 
-<p dir="rtl">
 و اصلح و لا تتبع سبيل المفسدين
-</p>
 
 ***“… and put things right, and do not follow the way of the workers of
 corruption.”(7:142)***
 
-<p dir="rtl">
 فاتقوا الله و اصلحوا ذات بينكم
-</p>
 
 ***“… so fear you God, and set things right between you…” (8:1)***
 
@@ -1234,16 +1154,12 @@ and important. The verses in the Qur’an show this in a variety of ways:
 1- Some verses strongly emphasize that man has not been created
 aimlessly:
 
-<p dir="rtl">
 افحسبتم انما خلقناكم عبثا و انكم الينا لا ترجعون
-</p>
 
 ***“What, did you think that We created you only for sport, and that you
 would not be returned to Us?” (23:115)***
 
-<p dir="rtl">
 الذي خلق الموت و الحياة ليبلوكم ايكم احسن عملا
-</p>
 
 ***“The God who created life and death, that He might try you which of
 you is the best in actions…”(67:2)***
@@ -1315,10 +1231,8 @@ the itrat (the Holy Prophet's family) are always connected; in fact,
 their association (as the bigger weight and the smaller weight) forms
 one of the most important hadith both Shiites and Sunnites believe in:
 
-<p dir="rtl">
 اني تارك فيکم الثقلين كتاب الله و عترتي ما ان تمسكتم بهما لن تضلوا
 ابدا
-</p>
 
 *“I leave you two great things: the Book of God and my progeny. Follow
 them, and you will never fall astray from the right path.”*
@@ -1362,15 +1276,11 @@ Qur’an; he had complete knowledge of the Qur’an and absolute faith in
 its content, which showed in his words. Indeed, he must have believed
 that he was close to God according to these verses:
 
-<p dir="rtl">
 و نحن اقرب اليه من حبل الوريد
-</p>
 
 ***“… and We are nearer to him [man] than his jugular.” (50:16)***
 
-<p dir="rtl">
 و هو معكم اينما كنتم
-</p>
 
 ***“… and He is with you, wherever you are.” (57:4)***
 
@@ -1395,10 +1305,8 @@ unaware or stubborn people are.
 Traditions and ways of life sometimes arise in the form of the law of
 causality and the law of actions and reactions:
 
-<p dir="rtl">
 قل للذين كفروا ان ينتهوا يغفر لهم ما قد سلف و ان يعودوا فقد مضت سنة
 الاولين
-</p>
 
 ***“Say to the unbelievers, if they give over He will forgive them what
 is past; but if they return, the wont of the ancient is already gone!”(
@@ -1444,10 +1352,8 @@ but then suddenly falls.
 It is understood from the Qur’an and the Nahj-ul-Balaghah that man is
 the start and the end of all cultures and civilizations.
 
-<p dir="rtl">
 و لو ان اهل القري امنوا و اتقوا لفتحنا عليكم بركات من السماء و الارض
 و لكن كذبوا فاخذناهم بما كانوا يكسبون
-</p>
 
 ***“Had the peoples of the cities believed and been god-fearing, We
 would have opened upon them blessings from heaven and earth; but they
@@ -1465,15 +1371,11 @@ civilizations. Many verses
 in the Qur’an amazingly state that cruelty and atrocity bring cultures
 and civilizations to their doom.
 
-<p dir="rtl">
 و لقد اهلكنا القرون من قبلكم لما ظلموا
-</p>
 
 “We destroyed the generations before you when they did evil.”( 10:13)
 
-<p dir="rtl">
 و تلك القري اهلكناهم لما ظلموا و جعلنا لمهلكهم موعدا
-</p>
 
 ***“And those cities, We destroyed them when they did evil, and
 appointed for their destruction a tryst.”( 18:59)***
@@ -1487,9 +1389,7 @@ range - to be fulfilled.
 Basic Islamic references - the Qur’an and hadith - have dealt with it
 with great emphasis. Let us consider an example:
 
-<p dir="rtl">
 يا ايها الذين امنوا استجيبوا لله و للرسول اذا دعاكم لما يحييكم
-</p>
 
 ***“O believers, respond to God and the Messenger when He calls you unto
 that which will give you life…”( 8:24)***
@@ -1513,9 +1413,7 @@ Fearing God does not mean that God is a terrifying being able to cruelly
 hurt His subjects. We must first see what “fear of God” means. As the
 Qur’an puts it:
 
-<p dir="rtl">
 انما يخشي الله من عباده العلماء
-</p>
 
 ***“Even so only those of His servants fear God who have knowledge…”
 (35:28)***
@@ -1534,11 +1432,9 @@ reached an objective, targeted state regarding these principles, see
 himself as united with other similar human beings. The Qur’an includes
 some verses regarding such supreme unity:
 
-<p dir="rtl">
 و اعتصموا بحبل الله جميعا و لا تفرقوا و اذكروا نعمة الله عليكم اذ
 كنتم اعداء فالف بين قلوبكم فاصبحتم بنعمته اخوانا و كنتم علي شفا حفرة من
 النار فانقذكم منها كذلك يبين الله لكم آياته لعلكم تهتدون
-</p>
 
 ***“And hold you fast to God's bond, together, and do not scatter;
 remember God's blessing upon you when you were enemies, and He brought
@@ -1550,10 +1446,8 @@ guided.”(3:103)***
 There are several aspects that cast light on the immense divine unity
 the above verse presents.
 
-<p dir="rtl">
 من اجل ذلك كتبنا علي بني اسرائيل انه من قتل نفسا بغير نفس او فساد في
 الارض فكانما قتل الناس جميعا و من احياها فكانما احيا الناس جميعا
-</p>
 
 ***“Therefore We prescribed for the Children of Isreal that whoso slays
 a soul not to retaliate for a slain soul, nor for corruption done in the
@@ -1564,10 +1458,8 @@ life to a soul, shall be as if he had given life to mankind altogether.”
 That the context of this verse is a very simple formula - “One equals
 all and all equals one” - that actually contains the greatest of truths:
 
-<p dir="rtl">
 ايـــن ما و من نتيجــه بيگانگـی بود صد دل به يکديگر چو شود آشنا
 يکيست
-</p>
 
 (All this 'me and us' was the result of alienation; if a hundred hearts
 unite, they will see that they are in fact only one.)
@@ -1584,11 +1476,9 @@ magnitudes. Hence, unity, harmony, brotherhood and equality - and above
 all relationships, the connection of unity - pertains to the divine sun.
 As Imam Ja'far Sadiq says:
 
-<p dir="rtl">
 المؤمن اخو المؤمن كالجسد الواحد ان اشتكي شيئا منه وجد الم ذلك في
 سائر جسده و ارواحهما من روح واحدة و ان روح المؤمن لاشد اتصالا بروح الله
 من اتصال شعاع الشمس بها
-</p>
 
 *“Faithful believers are brothers, as close as the parts of one body. If
 one part moans in pain, the other parts will also feel the pain; the
@@ -1629,16 +1519,12 @@ as “The Day of Gathering.”
 
 On several occasions, the Qur’an refers to gathering:
 
-<p dir="rtl">
 ذلك يوم مجموع له الناس
-</p>
 
 ***“… a day on which all mankind will be gathered (to be judged)…”
 (11:103)***
 
-<p dir="rtl">
 قل ان الاولين و الاخرين لمجموعون الي ميقات يوم معلوم
-</p>
 
 ***“Say: 'The ancients, and the later folk shall be gathered to the
 appointed time of a known day.”( 56:49-50)***
@@ -1671,10 +1557,8 @@ Science today does provide some predictions on the future changes in the
 universe, though it cannot present any definite details. Many verses of
 the Qur’an point out the coming changes in the universe:
 
-<p dir="rtl">
 اذا وقعت الواقعة ليس لوقعتها كاذبة خافضة رافعة اذا رجت الارض رجا و
 بست الجبال بسا فكانت هباء منبثا
-</p>
 
 ***“When the terror descends (and none denies its descending), abasing,
 exalting, when the earth shall be rocked and the mountains crumbled and
@@ -1756,9 +1640,7 @@ should know that he lives in a world based on truth and reason. Thus,
 his existence, superior to all the universe in dignity and greatness,
 cannot in any way be farce and aimless. As we read:
 
-<p dir="rtl">
 و ما خلقنا السماء و الارض و ما بينهما لاعبين
-</p>
 
 ***“We created not the heaven and the earth and whatsoever in between
 them is for playing.”( 21:16)***
@@ -1768,9 +1650,7 @@ refers to “the heavens” instead of “the heaven.” Moreover, other verses
 in the Qur’an also state that man's existence in the universe has an
 aim. Some even reveal the highest aim and goal of life:
 
-<p dir="rtl">
 و ما خلقت الجن و الانس الا ليعبدون
-</p>
 
 “I have not created jinn and mankind except to serve Me.” (, 51:56)
 
@@ -1794,10 +1674,8 @@ the truth as it really is; no vagueness or dark points will remain. The
 eyes and the ears of faithful human beings are accustomed with
 interpreting divine words:
 
-<p dir="rtl">
 گوش و دل مؤمن است سامع صوت خداي گرچه به ظاهر همي ملك پر از هاي و
 هوست
-</p>
 
 *(The eyes and the ears of the faithful listen to the voice of God,
 despite all the noise the world seems to be filled with.)*
@@ -1834,9 +1712,7 @@ Many verses in the Qur’an verify and confirm the Prophet of Islam and
 his faith in the previous Prophets of God and their original Books. The
 Qur’an also states that Islam arises from Abraham's religion:
 
-<p dir="rtl">
 قولوا امنا بالله و ما انزل الينا و ما انزل الي ابراهيم
-</p>
 
 ***“Say you: 'We believe in God, and in that which has been sent down on
 Abraham…' “(2:136)***
@@ -1915,5 +1791,4 @@ limited faces made to create mutual coexistence and dealing with
 inconveniences. Let us study “mankind” again, this time from the
 Qur’an's point of view; perhaps we can escape half of the damage, which
 will be quite a gain in itself.
-
 

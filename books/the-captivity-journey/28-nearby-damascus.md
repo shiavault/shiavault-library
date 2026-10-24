@@ -19,4 +19,3 @@ of Damascus.
 Thus the first of Safar was the day that the head of Imam Hussain (Q)
 was brought to the city of Damascus.
 
-

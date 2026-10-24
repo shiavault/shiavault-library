@@ -405,4 +405,3 @@ says:
 
 [^1]: Nahj al-Balagha, ed. Muhammad Abduh, pages 57-60.
 
-

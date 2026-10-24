@@ -1,10 +1,6 @@
 Chapter Iv
 ==========
 
-  
-
-  
-
 UNDER THE CARE OF HIS FATHER
 ============================
 
@@ -32,12 +28,6 @@ Imām al-Kāzim, peace be on him, is  famous in the world for his
 outstanding qualities, through the fact that there were gathered in his
 noble character all the elements of virtue,  fundamentals of wisdom and
 morals, of which are the following:
-
-  
-
-  
-
-  
 
 A. His Scientific Talents
 -------------------------
@@ -79,11 +69,6 @@ abundant prostration for Allah, just as his grandfather
 
 [[1]](#_F148) Hayāt al-Imām Mūsā Bin Ja'far, vol. 1, p. 138.  
  [[2]](#_F149) Al-Mufid, al-Irshād, p. 272.  
-  
-
-  
-
-  
 
 Imām Zayn al-Ābidin, peace be on him, had. So he was given the nick-name
 of *Dhi al-Thafanāt* (the Possessor of the calluses). An example of his
@@ -129,11 +114,6 @@ Jafar. He  prostrates himself (before Allah) every day from
  [[3]](#_F152) Wafayāt al-A'yān, vol. 4, p. 293. Kanz al-Lugha, p.
 766.  
  [[4]](#_F153) Wafayāt al-A'yān, vol. 4, p. 293.  
-  
-
-  
-
-  
 
 the sunrise until the sun came near to descending (from its midday
 zenith).
@@ -179,11 +159,6 @@ of the messengers. He praised their behavior
 [[1]](#_F154) Hayāt al-Imām Mūsā Bin Ja'far, vol. 1, p.142.  
  [[2]](#_F155) Al-Bihār, vol. 11, p. 265.  
  [[3]](#_F156) Usūl al-Kāfi, vol. 2, p. 134.  
-  
-
-  
-
-  
 
 and mentioned their laudable deeds before his companions and his
 students, that they might follow their example.
@@ -231,10 +206,6 @@ Abū al-Hasan took out a purse in which was three hundred dinars and
 said: This is (the price) of what you have sown in its present condition
 (i.e. what you have spent to sow it and what you  
 
-  
-
-  
-
 hope to gain from it). May Allah provide you with what you hope for from
 it.
 
@@ -279,11 +250,6 @@ quality. He said to him: O My little son, I advise you to
 
 [[1]](#_F157) Tārikh Baghdād, vol. 13, p. 28-29.  
  [[2]](#_F158) Al-Bihār, vol. 11, p. 28-29.  
-  
-
-  
-
-  
 
 follow this commandment, which whoever memorizes takes advantage of it:
 When a comer comes to you and makes you hear a detested thing in the
@@ -326,11 +292,6 @@ and misfortunes which befell them. This was one of
 [[1]](#_F159) Al-Fusūl al-Muhimma, p. 22.  
  [[2]](#_F160) Tārikh Baghdād, vol. 13, p. 28.  
  [[3]](#_F161) 'Umdat al-Tālib, p. 185.  
-  
-
-  
-
-  
 
 the most beloved things to him. He gave a religious decision to his
 Shiites in order that they might join the government of Hārun al-Rashid,
@@ -367,12 +328,6 @@ clothes to be brought. Then he gave most of them to the man and asked
 him: Brother, have I delighted you?
 
 Yes, by Allah, you have increased me in pleasure, retorted the man.
-
-  
-
-  
-
-  
 
 Then the governor ordered the record to be brought, his debts to be
 canceled, and him to be discharged from them. The man went out while
@@ -415,11 +370,6 @@ figures, ministers, and high-ranking officials of his
 ------------------------------------------------------------------------
 
 [[1]](#_F162) Hayāt al-Imām Mūsā Bin Ja'far, vol. 1, pp. 161-162.   
-  
-
-  
-
-  
 
 state went to pay a visitation to the tomb of the Prophet, may Allah
 bless him and his family, saying: Peace be on you, Apostle of Allah!
@@ -460,16 +410,9 @@ The Imām explained: However, he has the right to visit my womenfolk, and
 it is permitted for him to do that; therefore, I am nearer to him than
 you.[[1]](#_ftn163)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F163) Ibid., vol. 2, pp. 456-457.  
-  
-
-  
-
-  
 
 Hārūn al-Rashid became angry and found no way to refute the Imāms
 argument. Accordingly, he harbored malice against the Imām, went to the
@@ -509,17 +452,10 @@ locked the doors of the prison, an did not open them except twice a day:
 one time when the Imām wanted to perform the ritual ablution, and the
 other when the food was brought to him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F164) Ibid., p. 465.  
  [[2]](#_F165) Tanqih al-Maqāl.  
-  
-
-  
-
-  
 
 The Imām devoted his time to the acts of worship and obedience to Allah.
 He fasted by day and prayed by night. He spent most his time in praying,
@@ -561,11 +497,6 @@ took him and imprisoned him in his house. He did not
 [[1]](#_F166) Hayāt al-Imām Mūsā Bin Ja'far, vol. 2, p. 466.  
  [[2]](#_F167) Al-Fusūl al-Muhimma.  
  [[3]](#_F168) Hayāt al-Imām Mūsā Bin Ja'far, vol. 2, p. 468.  
-  
-
-  
-
-  
 
 detain him in the public prisons because he feared that a discord would
 occur and the public opinion would run in disorder because of the Imāms
@@ -619,10 +550,6 @@ Suddenly, he stands and begins praying without renewing his ritual
 ablution, so I come to know that he  does not sleep during his
 prostration; nor does he slumber. He continues praying until he  
 
-  
-
-  
-
 performs the afternoon prayer. When he has performed the afternoon
 prayer, he performs one prostration. Then he continues praying and his
 personal prayer until he performs the evening and night prayers. When he
@@ -661,17 +588,10 @@ Shiites and the community. Many ordinances *(alwāh)*  were brought out
 of the prison. In them it was written: My testament *(ahd)* is to my
 eldest son.[[2]](#_ftn170)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F169) Ibid., pp. 469-471.  
  [[2]](#_F170) Ibid.  
-  
-
-  
-
-  
 
 Imām Mūsa took great care of appointing his son as an Imām after him. He
 entrusted this affair to a large group of his eminent Shiites, of whom
@@ -706,18 +626,11 @@ examined the leather case *(jafr)* and the scroll *(al-jāmia)*. Only a
 prophet or the testamentary trustee of a prophet may examine
 them.[[3]](#_ftn173)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F171) Kashf al-Ghumma, vol. 3, p. 88.  
  [[2]](#_F172) Ibid.  
  [[3]](#_F173) Ibid.  
-  
-
-  
-
-  
 
 ### 4. Dāwud Bin Kuthayr
 
@@ -751,18 +664,11 @@ said. Who is this? he asked and pointed to his son. He is Ali b. Mūsā b.
 Jafar, we replied. Witness that he is my agent in this world during my
 lifetime and my testamentary trustee after my death.[[3]](#_ftn176)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F174) Al-Fusūl al-Muhimma, p. 225.  
  [[2]](#_F175) 'Uyūn Akhbār al-Ridā, vol. 1, p. 26.  
  [[3]](#_F176) Ibid., pp. 26-27.  
-  
-
-  
-
-  
 
 ### 7. Abd Allah Bin Marhūm
 
@@ -804,11 +710,6 @@ death, and that his order
 
 [[1]](#_F177) Ibid.  
  [[2]](#_F178) Ibid.  
-  
-
-  
-
-  
 
 valid against him and for him. Then Mohammed said: O Hayder, by Allah,
 he entrusted the Imāmate to him today, and the Shiites will profess him
@@ -843,19 +744,12 @@ companions declared (our support) for you. Therefore tell me which of
 your children will be (the Imām) after you. He said:] My son
 Ali.[[4]](#_ftn182)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F179) Ibid.  
  [[2]](#_F180) Ibid.  
  [[3]](#_F181) Ibid., p. 30.  
  [[4]](#_F182) Ibid., p. 31.  
-  
-
-  
-
-  
 
 ### 13. Mohammed Bin Sinān
 
@@ -899,16 +793,9 @@ Imām  Mūsā took great care of the Imāmate of his son, for he wanted to
 refute those who believed in his Imāmate only, to abolish their vague
 errors, and to warn the Muslims against them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F183) Ibid., pp. 32-33.  
-  
-
-  
-
-  
 
 The Imāms Commandments
 ----------------------
@@ -956,16 +843,9 @@ This letter gives an account of the Imāms pain and sorrow in prison and,
 in addition, it shows that the Imām will judge the tyrant (i.e. Hārūn)
 on the day when those who say false things shall be losers.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F184) Al-Bidāya wa al-Nihāya, vol. 10, p. 183.  
-  
-
-  
-
-  
 
 Hārūn al-Rashid orders the Imām to be assassinated
 --------------------------------------------------
@@ -1005,11 +885,6 @@ pure. I already have my
 ------------------------------------------------------------------------
 
 [[1]](#_F185) Hayāt al-Imām Mūsā Bin Ja'far, vol. 1, pp. 499-500.   
-  
-
-  
-
-  
 
 shroud.[[1]](#_ftn186) Al-Sindi brought him his retainer and entrusted
 him with washing and shrouding him.
@@ -1050,17 +925,10 @@ had delivered your message, raised the word of Allah high on earth,
 defended the rights of the persecuted, and opposed tyranny. So how great
 your achievements toward Islam are!
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F186) Maqātil al-Tālibyyin, p. 504.  
  [[2]](#_F187) Hayāt al-Imām Mūsā Bin Ja'far, vol. 2, pp. 514-515.  
-  
-
-  
-
-  
 
 My master Abū al-Rida, you suffered from various kinds of hardships
 created by the tyrant of your time. He detained you in his prisons,
@@ -1111,12 +979,6 @@ between us for a long time.
 Do you think that there is in Baghdad anyone who recognizes him? he
 asked.
 
-  
-
-  
-
-  
-
 Yes, was the answer.
 
 Then he (Abū Hafs) nominated for him persons from among those who
@@ -1161,11 +1023,6 @@ passers-by looked into his face while he was dead. In this
 ------------------------------------------------------------------------
 
 [[1]](#_F188) Ibid., p. 519.  
-  
-
-  
-
-  
 
 manner the tyrant (i.e. Hārūn al-Rashid) tried to abase the Shiites, to
 disdain their sacred beliefs, and to hurt their feelings. This procedure
@@ -1213,16 +1070,9 @@ the police and some military units walking through the streets while the
 people were worried and frightened. This view terrified him, so he
 turned to his sons and their boys and asked them: What is the news?
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F189) Ibid.  
-  
-
-  
-
-  
 
 This is al-Sindi b. Shāhik announcing (the death of) Mūsā b. Jafar, they
 replied.
@@ -1264,17 +1114,10 @@ Put aside your water from him, and then wash him with
 
 what the eyes of glory shed when they wept for him!
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F190) Ibid.  
  [[2]](#_F191) Al-Anwār al-Bahiyya, p. 99.  
-  
-
-  
-
-  
 
 Remove and set aside from him the scent for embalming
 
@@ -1322,11 +1165,6 @@ the House *(ahl al-Bayt* *)*, peace be on him, and
 ------------------------------------------------------------------------
 
 [[1]](#_F192) Al-Itthāf bi Hub al-Ashrāf, p. 57.  
-  
-
-  
-
-  
 
 showed stubbornness toward them. He also summoned to  session the
 Catholic and the Rabbi. Then he turned and said to them: I have summoned
@@ -1371,10 +1209,6 @@ on. When that has occurred, you will come to know that you oppose Allah
 and His Apostle.
 
 The Imām added, saying: As for you, you will lose your sight  
-
-  
-
-  
 
 and become blind. So you will see neither a plain nor a mountain, and
 this will happen a few days later on. You will perjure and be infected
@@ -1424,10 +1258,6 @@ Describe him! the Catholic demanded.
 The Imām, peace be on him, began describing him, saying: I will not
 describe him but through what Allah has described him. He is  
 
-  
-
-  
-
 the owner of the she-camel, rod, and the cloak; the illiterate Prophet
 whom they find written down with them in the Torah and the Bible; (who)
 enjoins them (to do) good and forbids them (from doing) evil; makes
@@ -1466,10 +1296,6 @@ The Imām continued disproving their vague errors, saying: You have
 regarded doubt as an argument. Has Allah appointed from among the
 children of Adam a prophet whose name is Mohammed other than (this)
 Mohammed? Have you found him (written) in one of the Books  
-
-  
-
-  
 
 which Allah sent down upon all the prophets?
 
@@ -1517,10 +1343,6 @@ and excellence?
 The Rabbi acknowledge that. Then the Imām continued reciting another
 Book of the Torah. The Rabbi admired the Imāms abundant  
 
-  
-
-  
-
 knowledge, eloquence, and his interpreting what was mentioned concerning
 the Prophet, Ali, Fātima, al-Hasan, and al-Husayn. Then he said: By
 Allah, O (grand)son of Mohammed, were it not for the presidency which I
@@ -1559,10 +1381,6 @@ be on him. Then the Imām, peace be on him,  asked Mohammed b. al-Fadl to
 take the Christian to the bath-house, that he might bathe and purify his
 body from the dirt of polytheism. Mohammed took him to the bath-house
 and clothed him  
-
-  
-
-  
 
 in clean clothes. Then the Imām ordered the Christian to be taken to
 Median (Yathrib) to learn some of his sciences. Then the Imām said
@@ -1608,11 +1426,6 @@ defect, just, fair, wise, affectionate, merciful, forgiving,
 
 [[1]](#_F193) Al-Bihār, vol. 12, pp. 21-23. I (i.e. the author) have
 reported the account  freely.  
-  
-
-  
-
-  
 
 sympathetic, truthful, pitiful, kind, honest, and
 trustworthy.[[1]](#_ftn194)
@@ -1631,5 +1444,4 @@ after the death of his father.
 
 [[1]](#_F194) Ibid., p. 23. I (i.e. the author) have reported the
 account  freely.  
-  
 

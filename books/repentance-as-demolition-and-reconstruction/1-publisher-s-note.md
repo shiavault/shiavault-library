@@ -56,4 +56,3 @@ Shari'ah.
 
 **Al-Balagh FoundationAl-Balagh Foundation**
 
-

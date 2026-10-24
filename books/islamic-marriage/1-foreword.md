@@ -6,16 +6,12 @@ Imam Ja’far as-Sadiq (A.S.) says
 When a person intends to send a proposal for marriage, he must pray two
 *rak‘at* prayers, praise Allah and recite the following invocation: [^1]
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْم اَللّهُمَّ اِنِّى اُرِيْدُ اَنْ
-اَتَزَوَّجَ فَقَدِّرْ لِىْ مِنَ النِّسَّآءِ اَعَفَّهُنَّ فَرْجًا وَّ
-اَحْفَظَهُنَّ لِىْ فِىْ نَفْسِهَا وَ مَا لِىْ وَ اَوْسَعَهُنَّ لِىْ
-رِزْقًا وَ اَعْظَمَهُنَّ لِىْ بَرَكَةً فِىْ نَفْسِهَا وَ مَا لِىْ
-اَنَّىْ اَتْرُكُ فَقَدِّرْ لِىْ مِنْهَا وَ لَدًا طَيِّبًا تَجْعَلَهُ
-خَلَفًا صَالِحًا فِىْ حَيوتِىْ وَ بَعْدَ مَوْتِىْ.
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْم اَللّهُمَّ اِنِّى اُرِيْدُ اَنْ
+> اَتَزَوَّجَ فَقَدِّرْ لِىْ مِنَ النِّسَّآءِ اَعَفَّهُنَّ فَرْجًا وَّ
+> اَحْفَظَهُنَّ لِىْ فِىْ نَفْسِهَا وَ مَا لِىْ وَ اَوْسَعَهُنَّ لِىْ
+> رِزْقًا وَ اَعْظَمَهُنَّ لِىْ بَرَكَةً فِىْ نَفْسِهَا وَ مَا لِىْ
+> اَنَّىْ اَتْرُكُ فَقَدِّرْ لِىْ مِنْهَا وَ لَدًا طَيِّبًا تَجْعَلَهُ
+> خَلَفًا صَالِحًا فِىْ حَيوتِىْ وَ بَعْدَ مَوْتِىْ.
 
 Bismillah hir Rah’maanir Rah’eem Allaahumma inni oreedo an atazawwaja
 faqaddirli minannisaa-e- a-’affahunna farjawn wa ah’faz’ahunna li fi
@@ -31,5 +27,4 @@ womb bestow a pure son who would be my sweet reminiscence in my life and
 after my death.
 
 [^1]: Tahzeebul Islam, Allamah Muhammad Baqir Majlisi, p. 127
-
 

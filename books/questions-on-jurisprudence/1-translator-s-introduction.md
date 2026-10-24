@@ -46,4 +46,3 @@ Liyakatali Takim
  May 1996  
  Dhu'l Hijja 1416
 
-

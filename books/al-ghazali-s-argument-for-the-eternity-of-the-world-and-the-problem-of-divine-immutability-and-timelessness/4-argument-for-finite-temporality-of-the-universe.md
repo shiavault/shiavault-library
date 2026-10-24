@@ -118,4 +118,3 @@ tense.”[^47] The problem in not seeing the timelessness of God is a
 problem of imagination not logic, for argument or hypothesis cannot
 demonstrate this argument to the “estimative faculty.”[^48]
 
-

@@ -321,4 +321,3 @@ while seeking to elevate God's word:
 in the presence of their God receiving sustenance from Him, although you
 do not perceive it.”*** **(2:154)**.
 
-

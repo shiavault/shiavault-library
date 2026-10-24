@@ -428,4 +428,3 @@ of the Holy Prophet’s (S) Be’that
 occasion of birthday anniversaries of the Holy Prophet (S) and Imam
 Sadiq (a.s.)
 
-

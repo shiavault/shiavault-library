@@ -25,4 +25,3 @@ obligation of obedience to him or the government should be authorized by
 a jurisprudent. These are the issues totally of a different rank and
 category mentioned in jurisprudence.
 
-

@@ -27,4 +27,3 @@ Islamic Research Foundation
  August 21 1988  
  Shahrivar 6, 1367.
 
-

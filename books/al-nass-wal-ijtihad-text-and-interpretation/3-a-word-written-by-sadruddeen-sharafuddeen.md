@@ -311,4 +311,3 @@ that had caused a great sedition among the Muslims.
 
 [^4]: It can be interpreted into more than one meaning.
 
-

@@ -1717,4 +1717,3 @@ whose companions in the fighting were three hundred and thirteen men.
 
 [^104]: Qur'an, 43:67.
 
-

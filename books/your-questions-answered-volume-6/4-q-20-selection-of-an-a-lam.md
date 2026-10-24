@@ -200,4 +200,3 @@ moral rectitude and spiritual sublimity. Even those prisoners who have
 become Muslims, have been transformed into model ones. Why can't we, the
 born Shi'as and Muslims, achieve the same result with our Islam?
 
-

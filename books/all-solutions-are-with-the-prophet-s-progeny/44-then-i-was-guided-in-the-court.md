@@ -297,4 +297,3 @@ progeny.
 [^1]: Mustabsir is a term used to refer to a Sunni who willingly turns
 Shia.
 
-

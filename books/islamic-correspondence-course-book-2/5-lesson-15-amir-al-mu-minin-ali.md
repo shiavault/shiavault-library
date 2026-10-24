@@ -250,4 +250,3 @@ the Prophet would detain people under such conditions when his purpose
 was only to remind them of a trivial matter, for example, that 'Ali was
 his friend!
 
-

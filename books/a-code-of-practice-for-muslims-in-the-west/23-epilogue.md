@@ -41,4 +41,3 @@ Muhammad, and his pure and infallible progeny.
 
 **Author**
 
-

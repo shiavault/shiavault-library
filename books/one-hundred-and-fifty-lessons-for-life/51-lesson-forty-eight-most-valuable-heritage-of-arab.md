@@ -3,12 +3,8 @@ Lesson Forty Eight: Most valuable heritage of Arab
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-أَصْدَقُ كَلِمَة قالَتْها الْعَرَبُ كَلِمَةُ لُبَيْد: ألا كُلُّ شَىء
-ما خَلاَ اللّه باطِلُ، وَ كُلُّ نَعِيْم لا مَحَالَةَ زائلُ
-  </p>
-</blockquote>
+> أَصْدَقُ كَلِمَة قالَتْها الْعَرَبُ كَلِمَةُ لُبَيْد: ألا كُلُّ شَىء
+> ما خَلاَ اللّه باطِلُ، وَ كُلُّ نَعِيْم لا مَحَالَةَ زائلُ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ One should remember this reality in every phase of material life and
 keep away from arrogance.
 
 [^1]: Mesbahol Sharia, page 45, Bihar Al-Anwar, vol 67, page 294
-
 

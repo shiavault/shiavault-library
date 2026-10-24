@@ -87,4 +87,3 @@ and influence the history of Islam was written.
 What justice they would do to \`Ali and his rights and title can be
 left to the best imagination to picture.
 
-

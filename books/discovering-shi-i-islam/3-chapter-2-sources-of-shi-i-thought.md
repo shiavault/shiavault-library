@@ -471,4 +471,3 @@ See also Suna n by al-T irm idhi, inter national serial no. 3130.
 [^9]: Al-Kashs haf by Zam akhshari, Comm entary of the verse 42:23,
 Vol.4, p. 220.
 
-

@@ -173,4 +173,3 @@ physics, in a more or less modified form, was absorbed by the various
 philosophical schools of antiquity and played a very important part in
 the history of Christian thought. Its fundamental bases were:
 
-

@@ -24,4 +24,3 @@ vicegerents, that each human maintain harmony within the inward self and
 outward environment. God willing, through preservation of such harmony,
 peace may be attained in this world and the next.
 
-

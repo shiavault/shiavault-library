@@ -94,11 +94,7 @@ The second Salat is also two Rak’at and it should be prayed with the
 intention of ‘Salat for Imam al-Zaman’(ajtf) in which Suratul Fatiha is
 recited once, and the line:
 
-<blockquote dir="rtl">
-  <p>
- إِيَّاكَ نَــعْبُدُ وَ إِيَّاكَ نَسْتَعِينُ 
-  </p>
-</blockquote>
+>  إِيَّاكَ نَــعْبُدُ وَ إِيَّاكَ نَسْتَعِينُ 
 
 is recited one hundred times. The surah should then be completed,
 followed by the recitation of Suratul IkhlaS once.
@@ -115,11 +111,7 @@ recited exactly like the first one.
 Once both of the Salat are finished, the following line should be said
 once:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٰـهَ إِلاَّ اللهِ
-  </p>
-</blockquote>
+> لاَ إِلٰـهَ إِلاَّ اللهِ
 
 Followed by the Tasbih of Fatimah az-Zahra (sa):
 
@@ -130,23 +122,14 @@ Followed by the Tasbih of Fatimah az-Zahra (sa):
 After this, you should go into sajdah and recite Salawat on Prophet
 Muhammad (S) and his family (as) one hundred times:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> أَللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
 The Imam then said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ صَلاَّهاَ فَكَأَنَّـمَا صَلَّى فِي الْبَيْتِ العَتِيقِ
-  </p>
-</blockquote>
+> فَمَنْ صَلاَّهاَ فَكَأَنَّـمَا صَلَّى فِي الْبَيْتِ العَتِيقِ
 
 ‘Whoever performs this Salat (will receive the same reward) as the one
 who prays inside the ‘Ancient House’ (the Holy Ka’bah).’”[^1]
 
 [^1]: Najm al-Thaqib (al-Tabrisi), sec. 7, story 1
-
 

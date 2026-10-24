@@ -18,4 +18,3 @@ First – Tawheed,
 Bravo to those fathers who make their children aware of the various
 topics of the religion.
 
-

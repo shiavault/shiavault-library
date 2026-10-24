@@ -209,8 +209,6 @@ redeem us in order to achieve what we have planned. . .
 We strongly believe that He is the reconciliator and that He is the
 best guide and the best artisan.
 
-
 WORLD ORGANIZATION FOR ISLAMIC SERVICES
 Tehran - IRAN.
-
 

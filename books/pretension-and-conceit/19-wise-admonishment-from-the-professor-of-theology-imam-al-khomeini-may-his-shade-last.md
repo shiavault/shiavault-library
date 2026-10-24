@@ -75,4 +75,3 @@ narrative in the said book, Al-Futuhāt al-Makkiyya [the Meccan
 campaigns], Vol. 2, p. 150, at the end of Chapter 73, Query No. 154,
 Bulaq Press edition.
 
-

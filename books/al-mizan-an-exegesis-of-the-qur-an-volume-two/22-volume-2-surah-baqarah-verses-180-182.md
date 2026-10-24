@@ -166,4 +166,3 @@ important among them being: friend, guardian, relative, a person close
 to Allah, and master. In the explanation given in the text, it has been
 taken to mean master and guardian. (tr.)
 
-

@@ -1455,4 +1455,3 @@ en Europe medievale, Paris, 1944, may be consulted; in general, however,
 the author's know­ledge of Arabic and philosophy should be taken
 cautiously.
 
-

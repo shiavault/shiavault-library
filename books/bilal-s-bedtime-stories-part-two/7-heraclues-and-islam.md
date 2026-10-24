@@ -74,7 +74,6 @@ Islam under threat of waging wars, nor did he compel people to accept
 Islam by the force of the sword. He fought only in defence, and only
 when the enemies waged war on him.
 
-
 **JA'FER - AT - TAIYAAR THE REFUGEE WHO BROUGHT ISLAM TO AFRICA**
 
 When the Holy Prophet Muhammad (s.a.w.) began to preach religion of
@@ -330,5 +329,4 @@ To respect and sympathise with the friends of Allah; to remember Allah
 constantly in prayer is better than fulfilling worldly desires. This is
 what the little weak bird has shown to us. These are the acts of virtue
 which would one day undoubtedly earn great rewards from Allah.
-
 

@@ -3,11 +3,7 @@
 
 The *khalifah* of Muslims is also their sovereign judge:
 
-<blockquote dir="rtl">
-  <p>
-يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
-  </p>
-</blockquote>
+> يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
 
 O Dawud! We have appointed you **a** ***khalifah*** over the earth.
 Therefore, **judge between mankind** with the truth.[^1]
@@ -19,17 +15,13 @@ must look at some iconic cases decided by ‘Umar b. al-Khaṭṭab.
 
 Imam Ibn Khuzaymah (d. 311 H) records about an interesting case:
 
-<blockquote dir="rtl">
-  <p>
-ثنا يونس بن عبد الأعلى و محمد بن عبد الله بن الحكم قالا ثنا ابن وهب
-أخبرني جرير بن حازم عن سليمان بن مهران عن أبي ظبيان عن ابن عباس قال:
-مر علي بن أبي طالب بمجنونة بني فلان قد زنت أمر عمر برجمها فردها علي و
-قال لعمر : يا أمير المؤمنين أترجم هذه ؟ قال: نعم قال : أما تذكر أن
-رسول الله صلى الله عليه و سلم قال: رفع القلم عن ثلاثة عن المجنون
-المغلوب على عقله و عن النائم حتى يستيقظ و عن الصبي حتى يحتلم قال :
-صدقت فخلى عنها
-  </p>
-</blockquote>
+> ثنا يونس بن عبد الأعلى و محمد بن عبد الله بن الحكم قالا ثنا ابن وهب
+> أخبرني جرير بن حازم عن سليمان بن مهران عن أبي ظبيان عن ابن عباس قال:
+> مر علي بن أبي طالب بمجنونة بني فلان قد زنت أمر عمر برجمها فردها علي و
+> قال لعمر : يا أمير المؤمنين أترجم هذه ؟ قال: نعم قال : أما تذكر أن
+> رسول الله صلى الله عليه و سلم قال: رفع القلم عن ثلاثة عن المجنون
+> المغلوب على عقله و عن النائم حتى يستيقظ و عن الصبي حتى يحتلم قال :
+> صدقت فخلى عنها
 
 Yunus b. ‘Abd al-A’la and Muhammad b. ‘Abd Allah b. al-Hakam – Ibn Wahb
 – Jarir b. Hazim – Sulayman b. Mihran – Abu Zibyan – Ibn ‘Abbas:
@@ -46,27 +38,19 @@ freed her (i.e. the lunatic woman).[^2]
 
 ‘Allamah al-Albani (d. 1420 H) comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح رجاله ثقات
-  </p>
-</blockquote>
+> حديث صحيح رجاله ثقات
 
 It is a *sahih hadith*. Its narrators are *thiqah* (trustworthy).[^3]
 
 Elsewhere, Imam Ibn Khuzaymah also records:
 
-<blockquote dir="rtl">
-  <p>
-أنا أبو طاهر نا أبو بكر نا يونس بن عبد الأعلى و محمد بن عبد الله بن
-عبد الحكم قالا أخبرنا ابن وهب أخبرني جرير بن حازم عن سليمان بن مهران
-عن أبي ظبيان عن ابن عباس قال: مر علي بن أبي طالب بمجنونة بني فلان قد
-زنت أمر عمر برجمها فرجعها علي وقال لعمر : يا أمير المؤمنين ترجم هذه ؟
-قال : نعم قال : أو تذكر أن رسول الله صلى الله عليه و سلم قال : رفع
-القلم عن ثلاث عن المجنون المغلوب على عقله وعن النائم حتى يستيقظ وعن
-الصبي حتى يحتلم قال : صدقت فخلى عنها
-  </p>
-</blockquote>
+> أنا أبو طاهر نا أبو بكر نا يونس بن عبد الأعلى و محمد بن عبد الله بن
+> عبد الحكم قالا أخبرنا ابن وهب أخبرني جرير بن حازم عن سليمان بن مهران
+> عن أبي ظبيان عن ابن عباس قال: مر علي بن أبي طالب بمجنونة بني فلان قد
+> زنت أمر عمر برجمها فرجعها علي وقال لعمر : يا أمير المؤمنين ترجم هذه ؟
+> قال : نعم قال : أو تذكر أن رسول الله صلى الله عليه و سلم قال : رفع
+> القلم عن ثلاث عن المجنون المغلوب على عقله وعن النائم حتى يستيقظ وعن
+> الصبي حتى يحتلم قال : صدقت فخلى عنها
 
 Abu Tahir – Abu Bakr Yunus b. ‘Abd al-A’la and Muhammad b. ‘Abd Allah b.
 al-Hakam – Ibn Wahb – Jarir b. Hazim – Sulayman b. Mihran – Abu Zibyan –
@@ -84,11 +68,7 @@ freed her (i.e. the lunatic woman).[^4]
 
 ‘Allamah al-Albani rules:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^5]
 
@@ -96,21 +76,13 @@ The exact narration above is documented by Imam Ibn Hibban (d. 354 H) in
 his *Sahih* through the route of his teacher, Imam Ibn Khuzaymah, with
 the same chain.[^6] ‘Allamah al-Albani again says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^7]
 
 Shaykh al-Arnauṭ also comments:
 
-<blockquote dir="rtl">
-  <p>
-رجاله ثقات رجال مسلم
-  </p>
-</blockquote>
+> رجاله ثقات رجال مسلم
 
 Its narrators are *thiqah* (trustworthy), narrators of (*Sahih*)
 Muslim.[^8]
@@ -118,17 +90,13 @@ Muslim.[^8]
 Imam al-Hakim (d. 403 H), a student of Ibn Hibban, records the *hadith*
 as well:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن إسحاق الفقيه وعبد الله بن محمد بن موسى قالا : أنبأ
-أحمد بن عيسى المصري أنبأ ابن وهب أخبرني جرير بن حازم عن سليمان بن
-مهران عن أبي ظبيان عن ابن عباس قال مر علي بن أبي طالب بمجنونة بني فلان
-وقد زنت وأمر عمر بن الخطاب برجمها فردها علي وقال لعمر : يا أمير
-المؤمنين أترجم هذه ؟ قال : نعم قال : أو ما تذكر أن رسول الله صلى الله
-عليه وسلم قال : رفع القلم عن ثلاث : عن المجنون المغلوب على عقله وعن
-النائم حتى يستيقظ وعن الصبي حتى يحتلم قال صدقت فخلى عنها
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن إسحاق الفقيه وعبد الله بن محمد بن موسى قالا : أنبأ
+> أحمد بن عيسى المصري أنبأ ابن وهب أخبرني جرير بن حازم عن سليمان بن
+> مهران عن أبي ظبيان عن ابن عباس قال مر علي بن أبي طالب بمجنونة بني فلان
+> وقد زنت وأمر عمر بن الخطاب برجمها فردها علي وقال لعمر : يا أمير
+> المؤمنين أترجم هذه ؟ قال : نعم قال : أو ما تذكر أن رسول الله صلى الله
+> عليه وسلم قال : رفع القلم عن ثلاث : عن المجنون المغلوب على عقله وعن
+> النائم حتى يستيقظ وعن الصبي حتى يحتلم قال صدقت فخلى عنها
 
 Abu Bakr b. Ishaq al-Faqih and ‘Abd Allah b. Muhammad b. Musa – Ahmad b.
 Isa al-Misri - Ibn Wahb – Jarir b. Hazim – Sulayman b. Mihran – Abu
@@ -146,38 +114,26 @@ the truth”. So, he freed her (i.e. the lunatic woman).[^9]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs[^10]
 
 Imam al-Dhahabi (d. 748 H) concurs:
 
-<blockquote dir="rtl">
-  <p>
-على شرطهما
-  </p>
-</blockquote>
+> على شرطهما
 
 (*Sahih*) upon the standard of both of them[^11]
 
 Imam Abu Dawud (d. 275 H) documents a fuller version of the *hadith*
 that gives some disturbing details:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عثمان بن أبي شيبة ثنا جرير عن الأعمش عن أبي ظبيان عن ابن عباس
-قال: أتي عمر بمجنونة قد زنت فاستشار فيها أناسا فأمر بها عمر أن ترجم
-فمر بها على علي بن أبي طالب رضوان الله عليه فقال ما شأن هذه ؟ قالوا
-مجنونة بني فلان زنت فأمر بها عمر أن ترجم قال فقال ارجعوا بها ثم أتاه
-فقال يا أمير المؤمنين أما علمت أن القلم قد رفع عن ثلاثة عن المجنون حتى
-يبرأ وعن النائم حتى يستيقظ وعن الصبي حتى يعقل ؟ قال بلى قال فما بال
-هذه ترجم ؟ قال لا شىء قال فأرسلها قال فأرسلها قال فجعل يكبر
-  </p>
-</blockquote>
+> حدثنا عثمان بن أبي شيبة ثنا جرير عن الأعمش عن أبي ظبيان عن ابن عباس
+> قال: أتي عمر بمجنونة قد زنت فاستشار فيها أناسا فأمر بها عمر أن ترجم
+> فمر بها على علي بن أبي طالب رضوان الله عليه فقال ما شأن هذه ؟ قالوا
+> مجنونة بني فلان زنت فأمر بها عمر أن ترجم قال فقال ارجعوا بها ثم أتاه
+> فقال يا أمير المؤمنين أما علمت أن القلم قد رفع عن ثلاثة عن المجنون حتى
+> يبرأ وعن النائم حتى يستيقظ وعن الصبي حتى يعقل ؟ قال بلى قال فما بال
+> هذه ترجم ؟ قال لا شىء قال فأرسلها قال فأرسلها قال فجعل يكبر
 
 ‘Uthman b. Abi Shaybah – Jarir – al-A’mash – Abu Zibyan – Ibn ‘Abbas:
 
@@ -198,11 +154,7 @@ NOTHING!”** He (‘Ali) said, “Free her”. So, he (‘Umar) freed her, sayi
 
 ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^13]
 
@@ -286,5 +238,4 @@ al-Fikr) [annotator: Muhammad Nasir al-Din al-Albani], vol. 2, p. 545,
 \# 4399
 
 [^13]: Ibid
-
 

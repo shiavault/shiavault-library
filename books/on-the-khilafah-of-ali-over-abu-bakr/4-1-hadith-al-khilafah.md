@@ -3,14 +3,10 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) says:
 
-<blockquote dir="rtl">
-  <p>
-والجواب أن هذا ليس مسندا بل هو مرسل لو ثبت عن عمرو بن ميمون وفيه ألفاظ
-هي كذب على رسول الله صلى الله عليه و سلم كقوله أما ترضى أن تكون مني
-بمنزلة هارون من موسى غير أنك لست بنبي لا ينبغي أن أذهب إلا وأنت خليفتي
-فإن النبي صلى الله عليه و سلم ذهب غير مرة وخليفته على المدينة غير علي
-  </p>
-</blockquote>
+> والجواب أن هذا ليس مسندا بل هو مرسل لو ثبت عن عمرو بن ميمون وفيه ألفاظ
+> هي كذب على رسول الله صلى الله عليه و سلم كقوله أما ترضى أن تكون مني
+> بمنزلة هارون من موسى غير أنك لست بنبي لا ينبغي أن أذهب إلا وأنت خليفتي
+> فإن النبي صلى الله عليه و سلم ذهب غير مرة وخليفته على المدينة غير علي
 
 The reply is that this (*hadith*) is not fully-connected in its chain
 (*musnad*). Rather, it is *mursal* (narrated by a Tabi’i directly from
@@ -37,14 +33,10 @@ the Shaykh’s claims.
 *Hadith al-Khilafah* has come in three *sighahs* (versions). The first
 *sighah* is documented by Imam Ibn Abi ‘Asim (d. 287 H). He records:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
-أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
-وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
-في كل مؤمن من بعدي.
-  </p>
-</blockquote>
+> ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
+> أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
+> وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
+> في كل مؤمن من بعدي.
 
 Muhammad b. al-Muthanna – Yahya b. Hammad – Abu ‘Awanah – Yahya b.
 Sulaym **Abu Balj** – ‘Amr b. Maymun – **Ibn ‘Abbas**: The Messenger of
@@ -54,12 +46,8 @@ are my** ***khalifah*** **over every believer after me**.”[^2]
 
 Dr. al-Jawabirah says:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن. رجاله رجال الشيخين غير ابي‌ بلج واسمه يحيي بن سليم بن بلج،
-قال الحافظ: صدوق ربما اخطأ. وله شواهد
-  </p>
-</blockquote>
+> اسناده حسن. رجاله رجال الشيخين غير ابي‌ بلج واسمه يحيي بن سليم بن بلج،
+> قال الحافظ: صدوق ربما اخطأ. وله شواهد
 
 **Its chain is** ***hasan***. Its narrators are narrators of the two
 Shaykhs, except Abu Balj, and his name is Yahya b. Sulaym b. Balj.
@@ -69,14 +57,10 @@ Al-Hafiz said: “*Saduq* (very truthful), *maybe* he made mistakes.”
 ‘Allamah al-Albani (d. 1420 H), in his annotated version of Ibn Abi
 Asim’s *Kitab al-Sunnah* surprisingly added some new words in brackets:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
-أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
-وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا] إنه لا ينبغي
-أن أذهب إلا [وأنت خليفتي في كل مؤمن من بعدي.
-  </p>
-</blockquote>
+> ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
+> أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
+> وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا] إنه لا ينبغي
+> أن أذهب إلا [وأنت خليفتي في كل مؤمن من بعدي.
 
 Muhammad b. al-Muthanna – Yahya b. Hammad – Abu ‘Awanah – Yahya b.
 Sulaym **Abu Balj** – ‘Amr b. Maymun – **Ibn ‘Abbas**: The Messenger of
@@ -87,12 +71,8 @@ it is not right that I depart except] with you as my** ***khalifah***
 
 Nonetheless, ‘Allamah al-Albani also comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن. ورجاله ثقات رجال الشيخين غير أبي بلج واسمه يحيى بن سليم بن
-بلج قال الحافظ: " صدوق ربما أخطأ ".
-  </p>
-</blockquote>
+> إسناده حسن. ورجاله ثقات رجال الشيخين غير أبي بلج واسمه يحيى بن سليم بن
+> بلج قال الحافظ: " صدوق ربما أخطأ ".
 
 **Its chain is** ***hasan***. Its narrators are trustworthy, and are
 narrators of the two Shaykhs (i.e. al-Bukhari and Muslim) except Abu
@@ -109,15 +89,11 @@ also has absolutely no basis at all.
 The second *sighah* is recorded by Imam Ahmad b. Hanbal (d. 241 H), in
 his *Musnad*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا أبو بلج
-ثنا عمرو بن ميمون ....قال بن عباس .... وخرج بالناس في غزوة تبوك قال
-فقال له علي أخرج معك قال فقال له نبي الله لا فبكى علي فقال له أما ترضى
-أن تكون منى بمنزلة هارون من موسى الا أنك لست بنبي انه لا ينبغي أن أذهب
-الا وأنت خليفتي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا أبو بلج
+> ثنا عمرو بن ميمون ....قال بن عباس .... وخرج بالناس في غزوة تبوك قال
+> فقال له علي أخرج معك قال فقال له نبي الله لا فبكى علي فقال له أما ترضى
+> أن تكون منى بمنزلة هارون من موسى الا أنك لست بنبي انه لا ينبغي أن أذهب
+> الا وأنت خليفتي
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – Yahya b. Hammad – Abu ‘Awanah
 – **Abu Balj** – ‘Amr b. Maymun .... Ibn ‘Abbas said:
@@ -131,12 +107,8 @@ except with you as my** ***khalifah***.”[^6]
 
 Al-Arnaut strangely says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف بهذه السياقة . أبو بلج أعدل ما قيل فيه أنه يقبل حديثه فيما
-لاينفرد به.
-  </p>
-</blockquote>
+> إسناده ضعيف بهذه السياقة . أبو بلج أعدل ما قيل فيه أنه يقبل حديثه فيما
+> لاينفرد به.
 
 Its chain is *dha’if* with this context. **Abu Balj**, the fairest that
 has been said about him is that his *hadith* is accepted only when he is
@@ -144,12 +116,8 @@ corroborated.[^7]
 
 However, he contradicts himself elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عفان ثنا أبو عوانة ثنا أبو بلج عن محمد بن
-حاطب.... إسناده حسن من أجل أبي بلج
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عفان ثنا أبو عوانة ثنا أبو بلج عن محمد بن
+> حاطب.... إسناده حسن من أجل أبي بلج
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – ‘Affan – Abu ‘Awanah – **Abu
 Balj** – Muhammad b. Hatib .... **Its chain is** ***hasan*** **due to
@@ -157,12 +125,8 @@ Abu Balj**.[^8]
 
 Al-Arnaut also states:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا حسن حدثنا زهير حدثنا أبو بلج ان عمرو بن
-ميمون حدثه قال قال أبو هريرة ....هذا إسناد حسن
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا حسن حدثنا زهير حدثنا أبو بلج ان عمرو بن
+> ميمون حدثه قال قال أبو هريرة ....هذا إسناد حسن
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – Hasan – Zuhayr – **Abu Balj**
 – ‘Amr b. Maymun – Abu Hurayrah .... **This chain is** ***hasan***.[^9]
@@ -175,12 +139,8 @@ al-Arnaut too! Commenting about the same *hadith* in *Musnad Ahmad*,
 > سليم ويقال يحيى بن أبي الأسود الفزاري، وهو ثقة، وثقه ابن معين وابن سعد
 > والنسائي والدارقطني وغيرهم. وفي التهذيب أن البخاري قال: فيه نظر! وما
 > أدري أين قال هذا؟، فإنه ترجمه في الكبير 4/2/279 ـ 280 ولم يذكر فيه
-<blockquote dir="rtl">
-  <p>
-جرحاً، ولم يترجمه في الصغير، ولا ذكره هو والنسائي في الضعفاء، وقد روى
-عنه شعبة، وهو لا يروي إلا عن ثقه.
-  </p>
-</blockquote>
+> جرحاً، ولم يترجمه في الصغير، ولا ذكره هو والنسائي في الضعفاء، وقد روى
+> عنه شعبة، وهو لا يروي إلا عن ثقه.
 
 **Its chain is** ***sahih***. Abu Balj: his name is Yahya b. Sulaym. He
 is also called Yahya b. Abi al-Aswad al-Fazari, **and he is**
@@ -196,18 +156,14 @@ he does not narrate except from *thiqah* narrators.[^10]
 
 Imam al-Hakim (d. 403 H) records the *hadith* too:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
-عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
-أبو بلج ثنا عمرو بن ميمون ....قال ابن عباس :.... وقعوا في رجل له بضع
-عشرة فضائل ليست لأحد غيره.... وخرج رسول الله صلى الله عليه وسلم في
-غزوة تبوك وخرج بالناس معه قال فقال له علي : أخرج معك قال : فقال النبي
-صلى الله عليه وسلم لا فبكى علي فقال له : أما ترضى أن تكون مني بمنزلة
-هارون من موسى إلا أنه ليس بعدي نبي إنه لا ينبغي أن أذهب إلا وأنت
-خليفتي
-  </p>
-</blockquote>
+> أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
+> عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
+> أبو بلج ثنا عمرو بن ميمون ....قال ابن عباس :.... وقعوا في رجل له بضع
+> عشرة فضائل ليست لأحد غيره.... وخرج رسول الله صلى الله عليه وسلم في
+> غزوة تبوك وخرج بالناس معه قال فقال له علي : أخرج معك قال : فقال النبي
+> صلى الله عليه وسلم لا فبكى علي فقال له : أما ترضى أن تكون مني بمنزلة
+> هارون من موسى إلا أنه ليس بعدي نبي إنه لا ينبغي أن أذهب إلا وأنت
+> خليفتي
 
 Abu Bakr Ahmad b. Ja’far b. Hamadan al-Qati’i – ‘Abd Allah b. Ahmad b.
 Hanbal – my father (Ahmad b. Hanbal) – Yahya b. Hammad – Abu ‘Awanah –
@@ -224,34 +180,22 @@ Harun to Musa, with the exception that there is no prophet after me?
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^12]
 
 Al-Dhahabi (d. 748 H) backs him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^13]
 
 Meanwhile, Imam al-Nasai (d. 303 H) has documented the third *sighah*,
 through the same *hasan* chain of transmission as the first:
 
-<blockquote dir="rtl">
-  <p>
-وخرج بالناس في غزوة تبوك فقال علي أخرج معك فقال لا فبكى فقال أما ترضى
-أن تكون مني بمنزلة هارون من موسى إلا أنك لست بنبي ثم قال أنت خليفتي
-يعني في كل مؤمن من بعدي
-  </p>
-</blockquote>
+> وخرج بالناس في غزوة تبوك فقال علي أخرج معك فقال لا فبكى فقال أما ترضى
+> أن تكون مني بمنزلة هارون من موسى إلا أنك لست بنبي ثم قال أنت خليفتي
+> يعني في كل مؤمن من بعدي
 
 .... He (the Messenger of Allah) went out with the people for the battle
 of Tabuk. So, ‘Ali said to him, “Let me go out with you.” Therefore, he
@@ -301,11 +245,7 @@ the *hadith* was delivered during ‘Ali’s *khilafah* over Madinah. He
 therefore restricts the *khilafah* in the *hadith* to mere governorate
 over a town or city within the *Ummah*. On that basis, he kicks it out:
 
-<blockquote dir="rtl">
-  <p>
-فإن النبي صلى الله عليه و سلم ذهب غير مرة وخليفته على المدينة غير علي
-  </p>
-</blockquote>
+> فإن النبي صلى الله عليه و سلم ذهب غير مرة وخليفته على المدينة غير علي
 
 Verily, the Prophet, peace be upon him, departed many times and his
 *khalifah* over Madinah was other than ‘Ali (on each occasion). [^16]
@@ -324,15 +264,11 @@ Shaykh miss this simple, clear difference?
 As if the weird actions of Shaykh Ibn Taymiyyah on *Hadith al-Khilafah*
 are not enough, ‘Allamah al-Albani sinks even deeper:
 
-<blockquote dir="rtl">
-  <p>
-أما ما يذكره الشيعة في هذا الحديث وغيره أن النبي صلى الله عليه وسلم
-قال في علي رضي الله عنه: " إنه خليفتي من بعدي ". فلا يصح بوجه من
-الوجوه، بل هو من أباطيلهم الكثيرة التي دل الواقع التاريخي على كذبها
-لأنه لو فرض أن النبي صلى الله عليه وسلم قاله، لوقع كما قال لأنه (وحي
-يوحى) والله سبحانه لا يخلف وعده
-  </p>
-</blockquote>
+> أما ما يذكره الشيعة في هذا الحديث وغيره أن النبي صلى الله عليه وسلم
+> قال في علي رضي الله عنه: " إنه خليفتي من بعدي ". فلا يصح بوجه من
+> الوجوه، بل هو من أباطيلهم الكثيرة التي دل الواقع التاريخي على كذبها
+> لأنه لو فرض أن النبي صلى الله عليه وسلم قاله، لوقع كما قال لأنه (وحي
+> يوحى) والله سبحانه لا يخلف وعده
 
 As for what the Shi’ah mention about this *hadith* and others that the
 Prophet, peace be upon him, said about ‘Ali, may Allah be pleased with
@@ -361,22 +297,14 @@ read the Qur’an at all?
 Musa and Harun, *‘alaihima al-salam*, were both messengers chosen by
 Allah:
 
-<blockquote dir="rtl">
-  <p>
-فأتياه فقولا إنا رسولا ربك
-  </p>
-</blockquote>
+> فأتياه فقولا إنا رسولا ربك
 
 So go you both to him and say: “Verily, we both are **messengers** of
 your Lord”[^18]
 
 By the Order of Allah, every messenger was a ruler of his people:
 
-<blockquote dir="rtl">
-  <p>
-وما أرسلنا من رسول إلا ليطاع بإذن الله
-  </p>
-</blockquote>
+> وما أرسلنا من رسول إلا ليطاع بإذن الله
 
 We sent no **messenger**, but to be obeyed by Allah’s Leave.[^19]
 
@@ -389,11 +317,7 @@ he was not a genuine messenger!
 Harun, apart from being a messenger, was also Musa’s *khalifah* over the
 latter’s entire *Ummah*:
 
-<blockquote dir="rtl">
-  <p>
-وقال موسى لأخيه هارون اخلفني في قومي
-  </p>
-</blockquote>
+> وقال موسى لأخيه هارون اخلفني في قومي
 
 Musa said to his brother, Harun: “Be my *khalifah* over my people.”[^20]
 
@@ -403,24 +327,16 @@ against Harun, and stole power. The people of Musa thereby disobeyed
 Harun and followed the rebel leader, named al-Samiri. Allah informed
 Musa of the situation while he was still absent from them:
 
-<blockquote dir="rtl">
-  <p>
-قال فإنا قد فتنا قومك من بعدك وأضلهم السامري
-  </p>
-</blockquote>
+> قال فإنا قد فتنا قومك من بعدك وأضلهم السامري
 
 He (Allah) said: “Verily! We have tried your people in your absence, and
 al-Samiri has led them astray.”[^21]
 
 The Qur’an continues:
 
-<blockquote dir="rtl">
-  <p>
-ولما رجع موسى إلى قومه غضبان أسفا قال بئسما خلفتموني من بعدي أعجلتم
-أمر ربكم وألقى الألواح وأخذ برأس أخيه يجره إليه قال ابن أم إن القوم
-استضعفوني وكادوا يقتلونني
-  </p>
-</blockquote>
+> ولما رجع موسى إلى قومه غضبان أسفا قال بئسما خلفتموني من بعدي أعجلتم
+> أمر ربكم وألقى الألواح وأخذ برأس أخيه يجره إليه قال ابن أم إن القوم
+> استضعفوني وكادوا يقتلونني
 
 When Musa returned to his people, angry and grieved, he said, “What an
 evil thing is that which you have done during my absence! Did you hasten
@@ -508,5 +424,4 @@ al-Tawzi’; 1st edition, 1415 H), vol. 4, p. 344, \# 1750
 [^21]: Qur’an 20:85
 
 [^22]: Qur’an 7:150
-
 

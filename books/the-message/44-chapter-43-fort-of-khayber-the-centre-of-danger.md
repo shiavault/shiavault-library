@@ -1213,4 +1213,3 @@ extent and affected his health.
 
 [^45]: Biharul Anwar, vol. XXI, page 34.
 
-

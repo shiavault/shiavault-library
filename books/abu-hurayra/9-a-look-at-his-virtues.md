@@ -139,4 +139,3 @@ years. No one was better than me in perceiving the Hadith.”
 [^6]: It was a unit of measurement among the Arabs. Two Hundred wasaqs
 were about thirty-five thousand kilos.
 
-

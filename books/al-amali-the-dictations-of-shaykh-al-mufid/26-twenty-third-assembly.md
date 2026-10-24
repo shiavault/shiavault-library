@@ -1052,4 +1052,3 @@ than the path of good?"
  Praise be to Allah, Lord of the worlds and may Allah bless our master,
 Muhammad and his pure progeny, and salutations upon them.
 
-

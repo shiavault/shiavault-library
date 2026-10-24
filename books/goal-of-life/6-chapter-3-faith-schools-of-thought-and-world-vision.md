@@ -165,4 +165,3 @@ qualities.
 
 [^1]: The Qur'an: 62: 1, 61: 1, and 13: 15.
 
-

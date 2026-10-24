@@ -304,4 +304,3 @@ majesty of the Creator.
 
 [^1]: This term will be explained further in the text.
 
-

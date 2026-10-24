@@ -21,4 +21,3 @@ between them.
  Kiya, whenever went out, would bring sweets and whenever Sadiq returned
 from school he bought a pen for each one of them.
 
-

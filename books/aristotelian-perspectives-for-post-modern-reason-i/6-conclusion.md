@@ -49,4 +49,3 @@ protecting openness does not guarantee anything, but it is the best bet
 we can place in order for creative discoveries to continue to be made,
 so that man’s and nature’s creativity may survive.
 
-

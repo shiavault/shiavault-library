@@ -104,4 +104,3 @@ the Prophet (S) was considered the first conqueror of Islām, because he
 laid the groundwork and raised the primary pillar (of these conquests)
 through his own battles.
 
-

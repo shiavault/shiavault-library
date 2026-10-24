@@ -73,4 +73,3 @@ had happened for them and when he saw his daughter’s answer on those
 questions he recommened his daughter piefly saying “May her father be
 sacrificed for her”.
 
-

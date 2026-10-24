@@ -279,4 +279,3 @@ necessary to look at the role of man and nature in the formation of
 history from the viewpoint of the Qur'an. We propose to deal with this
 question later.
 
-

@@ -1,21 +1,13 @@
 Right n. 37: The Right of the Associate
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-حق الخليط
-  </p>
-</blockquote>
+> حق الخليط
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الخَلِيطِ فَأَنْ لا تَغُرَّهُ ولا تَغُشَّهُ ولا
-تُكَذِبَهُ ولا تُغَفِّلَهُ ولا تَخدَعَهُ ولا تَعمَلْ فِي انتِقَاضِهِ
-عَمَلَ الْعَدُوِّ الَّذِي لا يُبقِي عَلَى صَاحِبهِ وَإنِ اطْمَأَنَّ
-إلَيكَ اسْتَقْصَيتَ لَهُ عَلَى نفْسِكَ وَعَلِمْتَ أَنَّ غَبْنَ
-الْمُسْتَرْسِلِ رِِبًا. ولا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الخَلِيطِ فَأَنْ لا تَغُرَّهُ ولا تَغُشَّهُ ولا
+> تُكَذِبَهُ ولا تُغَفِّلَهُ ولا تَخدَعَهُ ولا تَعمَلْ فِي انتِقَاضِهِ
+> عَمَلَ الْعَدُوِّ الَّذِي لا يُبقِي عَلَى صَاحِبهِ وَإنِ اطْمَأَنَّ
+> إلَيكَ اسْتَقْصَيتَ لَهُ عَلَى نفْسِكَ وَعَلِمْتَ أَنَّ غَبْنَ
+> الْمُسْتَرْسِلِ رِِبًا. ولا قُوَّةَ إلا باللهِ.
 
 **And the right of the associate is that you should not mislead, or
 cheat him, lie to him or fool him, and you should not trick him. And you
@@ -40,11 +32,7 @@ Traditions Regarding the Associates
 
 Imam Sadiq quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-أسْعَدُ النّاسِ مَن خالَطَ كِرامَ النّاسِ.
-  </p>
-</blockquote>
+> أسْعَدُ النّاسِ مَن خالَطَ كِرامَ النّاسِ.
 
 *“The most prosperous people are the ones who associate with the noblest
 people.”*[^1]
@@ -52,11 +40,7 @@ people.”*[^1]
 One of the main factors influencing our prosperity has been pointed out
 to be having noble friends in this tradition. God’s Prophet also said:
 
-<blockquote dir="rtl">
-  <p>
-سَائِلوا العُلَماءَ وخَالِطوا الحُكَماءَ وَجَالِسُوا الفُقَراءَ.
-  </p>
-</blockquote>
+> سَائِلوا العُلَماءَ وخَالِطوا الحُكَماءَ وَجَالِسُوا الفُقَراءَ.
 
 *“Ask from the learned, associate with the wise, and sit with the
 poor.”*[^2]
@@ -69,12 +53,8 @@ Characteristics of a Good Friend
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أرَادَ اللهُ بِه خَيراً رَزَقَهُ خَليلاً صَالِحاً إنْ نَسِيَ
-ذَكَّرَهُ وإنْ ذَكَرَ أعَانَهُ.
-  </p>
-</blockquote>
+> مَن أرَادَ اللهُ بِه خَيراً رَزَقَهُ خَليلاً صَالِحاً إنْ نَسِيَ
+> ذَكَّرَهُ وإنْ ذَكَرَ أعَانَهُ.
 
 *“He to whom God intends good, He will provide him a righteous friend
 who will remind him (to remember God) should he forget, and who will
@@ -92,11 +72,7 @@ There is a chapter on this subject in *Usul al-Kafi*. We read the
 following in the first tradition of this chapter: “The Commander of the
 Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-لَولا أنَّ المَكْرَ وَالخَديعَةَ في النّارِ لَكُنتُ أمْكَرَ النّاسِ.
-  </p>
-</blockquote>
+> لَولا أنَّ المَكْرَ وَالخَديعَةَ في النّارِ لَكُنتُ أمْكَرَ النّاسِ.
 
 *“Were it not that guile and deceit resulted in the Fire (of Hell), I
 would have been the most guileful of people.”*[^4]
@@ -105,23 +81,15 @@ A deceitful person is not an intelligent one. Being deceitful implies
 acting opposite to what you are thinking. In the third tradition in this
 chapter we read: Imam Sadiq quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ مِنّا مَن ماكَرَ مُسْلِماً
-  </p>
-</blockquote>
+> لَيسَ مِنّا مَن ماكَرَ مُسْلِماً
 
 *“One who is deceitful to a Muslim is not from us.”*[^5]
 
 The Commander of the Faithful said the following regarding those who
 lie:
 
-<blockquote dir="rtl">
-  <p>
-يَنبَغِي للرَّجُلِ المُسلِمِ أنْ يجْتَنِبَ مُؤاخَاةَ الكَذّابِ،
-فإنَّهُ يَكْذِبُ حَتىّ يجِيءَ بالصِّدْقِ فَلا يُصَدَّقُ..
-  </p>
-</blockquote>
+> يَنبَغِي للرَّجُلِ المُسلِمِ أنْ يجْتَنِبَ مُؤاخَاةَ الكَذّابِ،
+> فإنَّهُ يَكْذِبُ حَتىّ يجِيءَ بالصِّدْقِ فَلا يُصَدَّقُ..
 
 *“A Muslim should avoid becoming friends with a liar, for he will lie
 until when he finally tells the truth, he will not be believed.”*[^6]
@@ -142,5 +110,4 @@ friends.
 [^5]: Ibid. p.337.
 
 [^6]: Bihar al-Anwar, v.74, p.341.
-
 

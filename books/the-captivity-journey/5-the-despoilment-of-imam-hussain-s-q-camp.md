@@ -29,4 +29,3 @@ reputation was defamed, our descendants and women were captivated, our
 camps were set on fire, and were plundered of all the valuables that we
 owned".
 
-

@@ -17,17 +17,12 @@ the best possible way – obviously, according to their ability.
 
 The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا ظَهَرَتِ الْبِدَعُ فِي أُمَّتِـي فَلْيُظْهِرِ الْعَالِمُ
-عِلْمَهُ فَمَنْ لَمْ يَفْعَلْ فَعَلَيْهِ لَعْنَةُ اللٌّهِ
-  </p>
-</blockquote>
+> إِذَا ظَهَرَتِ الْبِدَعُ فِي أُمَّتِـي فَلْيُظْهِرِ الْعَالِمُ
+> عِلْمَهُ فَمَنْ لَمْ يَفْعَلْ فَعَلَيْهِ لَعْنَةُ اللٌّهِ
 
 “When innovations come up in my nation, it is obligatory upon the
 scholar to make his knowledge known to the people (to guide them). If he
 does not do this, then the curse of Allah is upon him.”[^1]
 
 [^1]: al-Kafi, vol. 1, pg. 45, sec. on Innovations, no. 2
-
 

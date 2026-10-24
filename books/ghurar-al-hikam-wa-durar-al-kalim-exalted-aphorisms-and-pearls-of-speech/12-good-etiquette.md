@@ -28,11 +28,7 @@ intellect.
 go beyond his rank.
 
 > 6ـ أفضلُ الأدبِ أنْ يَقِفَ الإنسانُ عِندَ حَدِّهِ ولايَتَعدَّى
-<blockquote dir="rtl">
-  <p>
-قَدْرَهُ.
-  </p>
-</blockquote>
+> قَدْرَهُ.
 
 7. The best of etiquettes is that which stops you from what is
 forbidden.
@@ -47,20 +43,12 @@ forbidden.
 plants thirst for rain.
 
 > 9ـ إنَّ بِذَوي العُقُولِ مِنَ الحاجَةِ إلى الأدبِ، كَما يَظْمَأُ
-<blockquote dir="rtl">
-  <p>
-الزَّرْعُ إلَى المَطَرِ.
-  </p>
-</blockquote>
+> الزَّرْعُ إلَى المَطَرِ.
 
 10. People are more in need of good etiquette than of silver and gold.
 
 > 10ـ إنَّ النَّاس إلى صالحِ الأدبِ أحْوَجُ مِنْهُمْ إلى الفِضَّةِ
-<blockquote dir="rtl">
-  <p>
-والذَّهبِ.
-  </p>
-</blockquote>
+> والذَّهبِ.
 
 11. Good etiquette is the best merit.
 
@@ -90,11 +78,7 @@ plants thirst for rain.
 of acquiring silver and gold.
 
 > 17ـ إنّكُمْ إلى اكْتِسابِ الأدَبِ أحوَجُ مِنْكُم إلَى اكْتِسابِ
-<blockquote dir="rtl">
-  <p>
-الفِضَّةِ وَالذَّهبِ.
-  </p>
-</blockquote>
+> الفِضَّةِ وَالذَّهبِ.
 
 18. Through good etiquette brainpower is sharpened.
 
@@ -204,31 +188,19 @@ decrease.
 among many sheep.
 
 > 42ـ مَنْ زادَ أدَبُهُ على عَقْلِهِ كانَ كالرَّاعي بَيْنَ غَنَم
-<blockquote dir="rtl">
-  <p>
-كَثيرَة.
-  </p>
-</blockquote>
+> كَثيرَة.
 
 43. One whose etiquette is not his best quality, his simplest condition
 will be his destruction.
 
 > 43ـ مَنْ لَمْ يَكُنْ أفْضلَ خِلالِهِ أدبُهُ كانَ أهْوَنَ أحوالِهِ
-<blockquote dir="rtl">
-  <p>
-عَطَبُهُ.
-  </p>
-</blockquote>
+> عَطَبُهُ.
 
 44. One who is not reformed by the discipline of Allah cannot become
 reformed through self-discipline.
 
 > 44ـ مَنْ لَمْ يَصْلُحْ على أدَبِ اللّهِ لَمْ يَصْلُحْ على أدَبِ
-<blockquote dir="rtl">
-  <p>
-نَفْسِهِ.
-  </p>
-</blockquote>
+> نَفْسِهِ.
 
 45. The best companion of the intellect is etiquette.
 
@@ -280,10 +252,5 @@ etiquette, avoidance of suspicion, and abstinence from all that is
 forbidden.
 
 > 56ـ ثلاثٌ لَيْسَ عَلَيْهِنَّ مُسْتَزادٌ حُسْنُ الأدَبِ ومُجانَبَةُ
-<blockquote dir="rtl">
-  <p>
-الرَّيبِ، والكَفُّ عَنْ المَحارِمِ.
-  </p>
-</blockquote>
-
+> الرَّيبِ، والكَفُّ عَنْ المَحارِمِ.
 

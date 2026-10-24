@@ -33,7 +33,6 @@ Hasan (p) and Imam Hussein (p) are the offsprings of the holy Prophet
 (p). Yet in other instances, we look up at the following examples in the
 Holy Quran:
 
-
 **Question 23 : Why do the Shias consider caliphate to be through the
 appointment of God?**
 
@@ -169,7 +168,6 @@ Tur: (30)
 
 Depicted from 'Furoogh Abadiyyat' written by ustad Jaafer subhani.
 
-
 **Question 24 : Is the swearing of other than God considered to be
 polytheism?**
 
@@ -193,7 +191,6 @@ The holy Quran amongst its eternal verses swears by valuable phenomenon
 such as 'prophets life', 'humans soul', 'the pen', the manifestation of
 writing, the sun, the moon, the stars, day and night, sky and earth,
 time, the mountains and the sea, some examples are as follows":
-
 
 **Question 25 : Does imploring for help through the friends of God
 ('Tawassul') apply to polytheism or innovation?**
@@ -277,7 +274,6 @@ even postpone it and make it later which is better."
 The blind man insisted,
 
 "Do pray for me."
-
 
 The prophet (p) ordered him to make ablution and do so accurately; then
 to pray two units, and then make supplication that:
@@ -366,7 +362,6 @@ Al-Kutub Al-arabiyah; 'Al-Taj' vol. 1, p. 286 Al-Jame-a Al-Sagheer' for
 Soyuti, p. 59; Al-tawassul wal-waseelah, (Ibne-taymeyah) p. 98, printed
 in Beirut.
 
-
 Al-tawassul Ela Haqeeqat Al-tawassul, p. 158 1st print, Beirut Sahih
 Al-Bukhari, vol. 2 Kitab Al-Jumah, Bab Al-Estesqa, p. 27 printed in
 Egypt.
@@ -376,5 +371,4 @@ Tabarani.
 
 Al-Sawaeq Al-Muhreqah (Ibn Hajar Al-asqalani) p. 178, printed in
 Cairo.
-
 

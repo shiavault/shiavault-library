@@ -113,4 +113,3 @@ al-’Amili, Bisharat al-Mustafa, p. 89 (Hayderi Press edition). This
 author is one of the 5th century A.H./11th century A.D. scholars who
 were tutored by Shaikh al-Tusi's son.
 
-

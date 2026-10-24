@@ -155,4 +155,3 @@ Mu’meen Shablanjee, Noor al-Absar, *Dar al-Fikr*, Beirut.
 Shams al-Din Ahmad Ibn Muhammad Ibn Khallakan, *Wafayat al-Aayan*,
 Beirut.
 
-

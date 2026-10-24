@@ -58,7 +58,6 @@ the world can be the basis of an ideology only if it possesses
 stability, philosophical broad thinking and the sanctity of religious
 principles.
 
-
 **How to Judge an Ideology?**
 
 A perfect ideology is that which:
@@ -91,5 +90,4 @@ there be any guarantee of the success of such a school.
 The accountability of man declared by a conception of the world,
 commits the individual to the depth of his conscience and makes him
 responsible to himself and to society.
-
 

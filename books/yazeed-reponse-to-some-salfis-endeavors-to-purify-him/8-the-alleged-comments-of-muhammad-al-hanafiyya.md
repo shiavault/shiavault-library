@@ -497,4 +497,3 @@ divide the Sufis, who they are well-known to despise. Our du'a is that
 Allah (swt) guide these advocates of Yazeed to disown and hate Yazeed
 and to develop faith and love for the family of the Prophet (s).
 
-

@@ -82,11 +82,7 @@ misfortune, a bleak life an psychological and spiritual diseases.
 
 The Prophet (S) prays to Allah about a bad spouse, saying:
 
-<blockquote dir="rtl">
-  <p>
-أعوذ بك من زوجة تشيبني قبل أوان مشيبي.
-  </p>
-</blockquote>
+> أعوذ بك من زوجة تشيبني قبل أوان مشيبي.
 
 *“Oh Allah! I take refuge in you from a wife who makes me old before my
 old age reaches me.”*[^3]
@@ -232,5 +228,4 @@ ascends to heaven from the lap of woman”.
 (a.s) after his being martyred in the Uhud battle.
 
 [^5]: His lessons about Nahjul Balagha in television.
-
 

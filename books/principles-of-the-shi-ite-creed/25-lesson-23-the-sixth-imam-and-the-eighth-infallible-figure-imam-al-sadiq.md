@@ -54,4 +54,3 @@ them.’”[^2]
 
 [^2]: Wasa’il ash-Shi‘ah, vol.3, p. 17.
 
-

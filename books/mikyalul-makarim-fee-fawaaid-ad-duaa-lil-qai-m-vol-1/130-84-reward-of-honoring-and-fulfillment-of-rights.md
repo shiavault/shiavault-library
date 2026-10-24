@@ -44,4 +44,3 @@ Before this also we had mentioned some relevant points on this matter.
 
 [^3]: Khisaal, Vol. 1, Pg. 123
 
-

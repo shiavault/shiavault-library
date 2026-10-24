@@ -164,7 +164,6 @@ EXALTED YOU ABOVE THE NATIONS (FOR CARRYING MY MESSAGE)
 AND NO COUNTER BALANCE SHALL BE ACCEPTED FROM HIM, NOR ANY INTERCESSION
 WILL PROFIT IT, NEITHER SHALL THEY BE HELPED. (BY ANY ONE)
 
-
 **THE COMMENTARY
 VERSE NO. 122**
 
@@ -517,7 +516,6 @@ THEY SAID: WE SHALL WORSHIP YOUR GOD, (ALLAH) AND THE GOD OF YOUR
 FATHERS - ABRAHAM - ISHMAEL - AND ISAAC: ALLAH THE ONLY ONE AND THE TRUE
 GOD; AND TO HIM WE SUBMIT.
 
-
 تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ
 وَلاَ تُسْئَلُونَ عَمَّا كَانُوا يَعْمَلُونَ(( 134 ))
 
@@ -615,5 +613,4 @@ Moses, is the greatest of all. Christians said, Jesus Christ is the
 greatest and the best of all. Then both parties preached Muslims to
 recant, and be a Jew or a Christian to be guided to the path of truth
 and salvation. To this effect the following three verses revealed.
-
 

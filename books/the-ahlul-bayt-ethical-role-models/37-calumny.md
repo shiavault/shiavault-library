@@ -18,4 +18,3 @@ authorities[^1].”
 [^1]: Quoted from Bihar ul-Anwar; Kitab ul-Ashara, 191 (as quoted from
 al-Imama wat Tabsira).
 
-

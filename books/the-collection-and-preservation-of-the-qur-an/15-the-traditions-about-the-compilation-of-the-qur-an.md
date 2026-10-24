@@ -76,11 +76,7 @@ ayah from the Surah Al‑Ahzab was missing. It was an ayah I had been
 hearing the Messenger of Allah himself recite. So we went in search of
 it, and found it with Khuzaimah b. Thabit al‑Ansari:*
 
-<blockquote dir="rtl">
-  <p>
-من المؤمنين رجال صدقوا ماعاهدوا الله عليه...
-  </p>
-</blockquote>
+> من المؤمنين رجال صدقوا ماعاهدوا الله عليه...
 
 *and we added it to its Surah in the book.*[^2]
 
@@ -154,11 +150,7 @@ said: "I find that you have left out two verses which you have not
 recorded". They asked: "Which are they"? He said: "I have received from
 the Messenger of Allah (peace be upon him and his progeny):*
 
-<blockquote dir="rtl">
-  <p>
-لقد جاءكم رسول من انفسكم عزيز عليهما عنتم..
-  </p>
-</blockquote>
+> لقد جاءكم رسول من انفسكم عزيز عليهما عنتم..
 
 *till the end of the Surah. So Uthman said: "And I bear witness that
 these two verses are from Allah. Now, tell us where do you want us to
@@ -173,11 +165,7 @@ Report n. 9
 *"Umar never recorded any verse in the compilation till it was witnessed
 by two men. Then a man from Ansar brought to him these two verses:*
 
-<blockquote dir="rtl">
-  <p>
-لقد جاءكم رسول من انفسكم عزيز عليه ماعنتم
-  </p>
-</blockquote>
+> لقد جاءكم رسول من انفسكم عزيز عليه ماعنتم
 
 *till its end. Umar said: I shall never ask you to substantiate these.
 The Messenger of Allah was indeed like that'.* [^3]
@@ -208,11 +196,7 @@ Report n. 11
 *"I brought the following ayah to Umar b. al‑Khattab and Zaid b.
 Thabit:*
 
-<blockquote dir="rtl">
-  <p>
-لقد جاءكم رسول من انفسكم...
-  </p>
-</blockquote>
+> لقد جاءكم رسول من انفسكم...
 
 *Zaid asked: "Who bears witness with you?" I said: "No. I do not know
 anyone". So Umar said: "I bear witness with him for the ayah".*
@@ -349,19 +333,11 @@ Report n. 21
 hearing from the Prophet (‘s) was mis­sing, I found it with Khuzaima b.
 Thabit*
 
-<blockquote dir="rtl">
-  <p>
-من المؤمنين رجال صدقوا
-  </p>
-</blockquote>
+> من المؤمنين رجال صدقوا
 
 up to
 
-<blockquote dir="rtl">
-  <p>
-تبديلا
-  </p>
-</blockquote>
+> تبديلا
 
 *And two witnesses. Khuzaima was known as one equal to Prophet (‘s) had
 accepted his testimony as equal to two".*
@@ -394,5 +370,4 @@ of Kanz al Ummal, on the margin of Ahmad Hanbal's Musnad, v2, p. 43‑52.
 Yahya b. Ju'dah.
 
 [^4]: al Itqan, v1, p.101
-
 

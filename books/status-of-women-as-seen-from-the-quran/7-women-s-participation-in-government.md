@@ -168,4 +168,3 @@ getting married again upon divorce or if their spouse dies. Only in the
 matter of "Iddah", that men have a degree higher than women, but apart
 from this both have equal rights.
 
-

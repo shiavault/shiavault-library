@@ -13,4 +13,3 @@ gravity will be inversely proportional to the length of the radius; the
 shorter the radius the greater the pull of gravity and the longer the
 radius, the less the pull of gravity.
 
-

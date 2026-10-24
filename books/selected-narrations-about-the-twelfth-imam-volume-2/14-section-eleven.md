@@ -228,4 +228,3 @@ al-anwār, vol. 51, chap. 3, p. 132–133, no. 2; I\`lām al-warā, p. 401.
 [^11]: Kamāl al-dīn, vol. 1, chap. 30, p. 317, no. 2; Biḥār al-anwār,
 vol. 51, chap. 3, p. 133, no. 3; I\`lām al-warā, p. 401.
 
-

@@ -99,12 +99,8 @@ same extent and to degree that it serves as a means. The perfect human
 being bears no label other than theism and accepts no ism other than
 *Ilahiism* and regards genuineness exclusive to Allah.
 
-<blockquote dir="rtl">
-  <p>
-“…ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ
-دُونِهِ هُوَ الْبَاطِلُ”
-  </p>
-</blockquote>
+> “…ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ
+> دُونِهِ هُوَ الْبَاطِلُ”
 
 ***"That is because Allah is the Truth, and that what they call upon
 besides Him, that is, the falsehood... (22:62)."***
@@ -160,35 +156,23 @@ it and when necessary, denies it verbally as well. Such a negation which
 is knowingly done is worse than one carried out unknowingly and is more
 disadvantageous for man's development as stated by the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-“...وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا
-وَعُلُوًّا”
-  </p>
-</blockquote>
+> “...وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا
+> وَعُلُوًّا”
 
 ***"And they denied them unjustly and proudly while their soul had been
 convinced of them... (27:14)."***
 
 Quoting Hadrat Musa (AS), it addresses Fir'awn as:
 
-<blockquote dir="rtl">
-  <p>
-“…لَقَدْ عَلِمْتَ مَا أَنْزَلَ هَٰؤُلَاءِ إِلَّا رَبُّ السَّمَاوَاتِ
-وَالْأَرْضِ بَصَائِرَ…”
-  </p>
-</blockquote>
+> “…لَقَدْ عَلِمْتَ مَا أَنْزَلَ هَٰؤُلَاءِ إِلَّا رَبُّ السَّمَاوَاتِ
+> وَالْأَرْضِ بَصَائِرَ…”
 
 ***"...Truly you know that none but the Lord of the heavens and the
 earth has sent down these... (17:102)."***
 
 In the meantime, Fir'awn said:
 
-<blockquote dir="rtl">
-  <p>
-“…مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي…”
-  </p>
-</blockquote>
+> “…مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي…”
 
 ***"...I do not know of any god for you besides myself... (28:38)."***
 
@@ -199,11 +183,7 @@ man sees the acceptance of some realities as a barrier in his freedom
 and slovenliness and as obtrusive in the strong desires which he cannot
 give up. The Holy Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-“بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ”
-  </p>
-</blockquote>
+> “بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ”
 
 ***“Nay! Man desires to give the lie to what is before him (75:5)."***
 
@@ -224,38 +204,26 @@ spring from belief in Allah (SWT), it will have no effect in man's true
 prosperity, even if it is a good act and brings about great worldly
 rewards for the agent and for others:
 
-<blockquote dir="rtl">
-  <p>
-’’وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
-الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
-اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ“…
-  </p>
-</blockquote>
+> ’’وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
+> الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
+> اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ“…
 
 ***" And (as for) those who disbelieve, their deeds are like the mirage
 in a desert, which the thirsty man deems to be water; until when he
 comes to it he finds it to be naught, and there he finds Allah, so He
 pays back to him his reckoning in full... (24:39)."***
 
-<blockquote dir="rtl">
-  <p>
-’’مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ أَعْمَالُهُمْ كَرَمَادٍ
-اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ ۖ لَا يَقْدِرُونَ مِمَّا
-كَسَبُوا عَلَىٰ شَيْءٍ“…
-  </p>
-</blockquote>
+> ’’مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ أَعْمَالُهُمْ كَرَمَادٍ
+> اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ ۖ لَا يَقْدِرُونَ مِمَّا
+> كَسَبُوا عَلَىٰ شَيْءٍ“…
 
 ***" The parable of those who disbelieve in their Lord; their actions
 are like ashes on which the wind blows hard on a stormy day; they shall
 not have power over anything out of what they have earned...
 (14:18)."***
 
-<blockquote dir="rtl">
-  <p>
-“وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
-مَنْثُورًا”
-  </p>
-</blockquote>
+> “وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
+> مَنْثُورًا”
 
 ***"And We will proceed to what they have done of deeds, so We shall
 render them as scattered floating dust (25:23)."***
@@ -270,11 +238,7 @@ by the heart after establishing belief in Allah (SWT) and without the
 interference of body organs and limbs. This means remembrance of Allah
 (SWT) known as *dhikr*.
 
-<blockquote dir="rtl">
-  <p>
-“وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ…”
-  </p>
-</blockquote>
+> “وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ…”
 
 ***"... And remember Allah much, that you may be successful (62:10)."***
 
@@ -288,12 +252,8 @@ verses and on the signs of His power, grandeur and wisdom. Permanence of
 *dhikr* and reflection will bring about cordial attachment and
 affection:
 
-<blockquote dir="rtl">
-  <p>
-“…الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ
-جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ”
-  </p>
-</blockquote>
+> “…الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ
+> جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ”
 
 ***"Those who extol Allah, standing, sitting and (lying) on their sides
 and reflect on the creation of the heavens and the earth ...
@@ -305,19 +265,11 @@ various manifestations and in the form of major and minor will-powers.
 'These will-powers which are, in one respect, secondary to the main
 will-power strengthen *dhikr* and belief.
 
-<blockquote dir="rtl">
-  <p>
-“وَأَقِمِ الصَّلَاةَ لِذِكْرِي…”
-  </p>
-</blockquote>
+> “وَأَقِمِ الصَّلَاةَ لِذِكْرِي…”
 
 ***"...Keep up prayer for My remembrance (20:14)."***
 
-<blockquote dir="rtl">
-  <p>
-“وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ”
-  </p>
-</blockquote>
+> “وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ”
 
 ***"... And the good deeds lift them up... (35:10)."***
 
@@ -331,26 +283,17 @@ tree from the root. In like manner, decent deeds are effective in the
 permanence and solidification of belief. Doing indecent deeds and
 committing sins would weaken and finally dry belief from the root:
 
-<blockquote dir="rtl">
-  <p>
-“فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُ
-بِمَا أَخْلَفُوا اللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكْذِبُونَ”
-  </p>
-</blockquote>
+> “فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُ
+> بِمَا أَخْلَفُوا اللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكْذِبُونَ”
 
 ***"So He made hypocrisy to follow as a consequence into their hearts
 till the day when they shall meet Him because they failed to perform
 towards Allah what they had promised with Him and because they told lies
 (9:77)."***
 
-<blockquote dir="rtl">
-  <p>
-“ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا
-بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ”
-  </p>
-</blockquote>
+> “ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا
+> بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ”
 
 ***"Then evil was the end of those who did evil, because they rejected
 the communications of Allah and used to mock them (30:10)."***
-
 

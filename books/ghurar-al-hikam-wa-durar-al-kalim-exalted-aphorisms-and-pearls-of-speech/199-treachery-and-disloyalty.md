@@ -36,11 +36,7 @@ disloyal with you, and do not disgrace your enemy, even if he disgraces
 you.
 
 > 7ـ لا تَخُنْ مَنِ ائْتَمَنَكَ وإنْ خانَكَ، ولا تَشِنْ عَدُوَّكَ وإنْ
-<blockquote dir="rtl">
-  <p>
-شانَكَ.
-  </p>
-</blockquote>
+> شانَكَ.
 
 8. Treachery and brotherhood do not go together.
 
@@ -50,11 +46,7 @@ you.
 treacherous one is surely punished with fire for his treachery.
 
 > 9ـ إيّاكَ والخيانَةَ، فَإنَّها شَرُّ مََعصِيَة، وإنَّ الخائنَ
-<blockquote dir="rtl">
-  <p>
-لَمُعَذَّبٌ بِالنّارِ على خيانَتِهِ.
-  </p>
-</blockquote>
+> لَمُعَذَّبٌ بِالنّارِ على خيانَتِهِ.
 
 10. The worst treachery is treachery against the nation.
 
@@ -90,5 +82,4 @@ away.
 situation.
 
 > 17ـ لامَرحَباً بِوُجوه لا تُرى إلاّ عِنْدَ كُلِّ سُوء.
-
 

@@ -132,4 +132,3 @@ al-Akhbār, p. 117 (with a slight addition).
 
 [^8]: Refer to footnote 34.
 
-

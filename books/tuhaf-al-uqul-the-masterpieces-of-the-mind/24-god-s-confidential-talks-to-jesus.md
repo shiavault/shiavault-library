@@ -207,4 +207,3 @@ pour the tears of your eyes for My sake and fear Me with your heart.
 distressed ones and answer the downhearted ones. I am the most merciful
 of the merciful ones.
 
-

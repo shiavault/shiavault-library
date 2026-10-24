@@ -13,4 +13,3 @@ and seek nearness to God through it.
 
 (Sermon 199)
 
-

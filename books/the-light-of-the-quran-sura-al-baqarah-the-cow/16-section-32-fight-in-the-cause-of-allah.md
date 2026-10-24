@@ -678,4 +678,3 @@ The address in the following verse is to Moses:
 39. " That; Put him into a chest, then cast it down into the river."
 (20: 38,39)
 
-

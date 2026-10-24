@@ -1,30 +1,22 @@
 31) Preserve Yourself from the Greedness of this World and remain Free
 ======================================================================
 
-<blockquote dir="rtl">
-  <p>
-"واعلَم يا بُنَىَّ اَنَّ مَن كانَت مَطِيَته الَّليل والنَّهار فاِنَّه
-يُسارُ بِهِ واِن كانَ واقِفاً، ويَقطَعُ المَسافَةَ واِن كانَ مُقِيماً
-وادعاً. واعلَم يَقِيناً اَنَّكَ لَن تَبلُغَ اَمَلَكَ ولَن تَعْدُوَ
-اَجَلَكَ واِنَّكَ في سَبَيلِ مَن كانَ قَبلَكَ فَخَفِّض في الطَلَبِ
-واَجمِل في المُكْتَسَبِ فِانَّه رُبَّ طَلَبٍ قَد جَرَّ اِلى حَربٍ
-ولَيسَ كُلُّ طَالِبٍ بِمرزُوقٍ ولا كُلُّ مُجمِلٍ بِمَحْرُومٍ، واَكرِم
-نَفسَكَ عَن كُلِّ دَنِيَّةٍ واِن سَاقَتكَ اِلى الرَغائِب فَاِنَّكَ لَن
-تَعتَاضَ بِما تَبْذِلُ مِن نَفسَكَ عِوَضاً ولا تَكُن عَبْدَ غَيرِكَ
-وقَد جَعَلكَ اللهُ حُرّاً وما خَيرُ خَيرٍ لا يُنالُ الاَّ بِشَرٍّ
-ويُسْرٍ لا يُنالُ اِلاّ بِعُسرٍ؟!
-  </p>
-</blockquote>
+> "واعلَم يا بُنَىَّ اَنَّ مَن كانَت مَطِيَته الَّليل والنَّهار فاِنَّه
+> يُسارُ بِهِ واِن كانَ واقِفاً، ويَقطَعُ المَسافَةَ واِن كانَ مُقِيماً
+> وادعاً. واعلَم يَقِيناً اَنَّكَ لَن تَبلُغَ اَمَلَكَ ولَن تَعْدُوَ
+> اَجَلَكَ واِنَّكَ في سَبَيلِ مَن كانَ قَبلَكَ فَخَفِّض في الطَلَبِ
+> واَجمِل في المُكْتَسَبِ فِانَّه رُبَّ طَلَبٍ قَد جَرَّ اِلى حَربٍ
+> ولَيسَ كُلُّ طَالِبٍ بِمرزُوقٍ ولا كُلُّ مُجمِلٍ بِمَحْرُومٍ، واَكرِم
+> نَفسَكَ عَن كُلِّ دَنِيَّةٍ واِن سَاقَتكَ اِلى الرَغائِب فَاِنَّكَ لَن
+> تَعتَاضَ بِما تَبْذِلُ مِن نَفسَكَ عِوَضاً ولا تَكُن عَبْدَ غَيرِكَ
+> وقَد جَعَلكَ اللهُ حُرّاً وما خَيرُ خَيرٍ لا يُنالُ الاَّ بِشَرٍّ
+> ويُسْرٍ لا يُنالُ اِلاّ بِعُسرٍ؟!
 
-<blockquote dir="rtl">
-  <p>
-واِيَّاكَ اَن تُوجِفَ بِكَ مَطايَا الطَمَعِ فَتُورِدَكَ مَناهِلَ
-الهَلَكَةِ واِن استَطَعْتَ اَن لا يَكُونَ بَينَكَ وبَينَ الله ذُو
-نِغْمَةٍ فَافعَل فَاِنَّكَ مُدرِكَ قِسْمَكَ، وآخِذٌ سَهمَكَ واِنَّ
-اليَسِيرَ مِنَ الله سُبحانَهُ اَعظَمُ واكرَمُ مِنَ الكَثيرِ مِنْ
-خَلقِهِ واِنْ كانَ كُلٌّ مِنْهُ"
-  </p>
-</blockquote>
+> واِيَّاكَ اَن تُوجِفَ بِكَ مَطايَا الطَمَعِ فَتُورِدَكَ مَناهِلَ
+> الهَلَكَةِ واِن استَطَعْتَ اَن لا يَكُونَ بَينَكَ وبَينَ الله ذُو
+> نِغْمَةٍ فَافعَل فَاِنَّكَ مُدرِكَ قِسْمَكَ، وآخِذٌ سَهمَكَ واِنَّ
+> اليَسِيرَ مِنَ الله سُبحانَهُ اَعظَمُ واكرَمُ مِنَ الكَثيرِ مِنْ
+> خَلقِهِ واِنْ كانَ كُلٌّ مِنْهُ"
 
 *“Know, my son! One whose riding animal is the day and the night, is
 continuously on the move although he is standing still, and he is
@@ -65,20 +57,16 @@ As we know, man, like natural objects and animals, is always in movement
 and is in a state of change, although he thinks he is motionless. The
 Holy Qur’an talks about his change in the following words:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنْ الْبَعْثِ فَإِنَّا
-خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ
-ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ
-لَكُمْ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَى أَجَلٍ مُسَمًّى
-ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ وَمِنْكُمْ
-مَنْ يُتَوَفَّى وَمِنْكُمْ مَنْ يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ
-لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ... وَأَنَّهُ يُحْيِ
-الْمَوْتَى وَأَنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ السَّاعَةَ
-آتِيَةٌ لَا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ
-"
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنْ الْبَعْثِ فَإِنَّا
+> خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ
+> ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ
+> لَكُمْ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَى أَجَلٍ مُسَمًّى
+> ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ وَمِنْكُمْ
+> مَنْ يُتَوَفَّى وَمِنْكُمْ مَنْ يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ
+> لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ... وَأَنَّهُ يُحْيِ
+> الْمَوْتَى وَأَنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ السَّاعَةَ
+> آتِيَةٌ لَا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ
+> "
 
 ***“O people! If you are in doubt about the raising, then surely we
 created you from a clot, then from a lump of flesh, complete in make and
@@ -119,12 +107,8 @@ of the mother. God says in this regard ***"Coming from between the back
 and the ribs"***[^3]
 The second stage is the mother's womb. In this regard Allah says:
 
-<blockquote dir="rtl">
-  <p>
-" هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ لَا
-إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ "
-  </p>
-</blockquote>
+> " هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ لَا
+> إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ "
 
 ***"He it is who shapes you in the wombs as He likes; there is no god
 but He, the Mighty, the Wise".***[^4]
@@ -132,11 +116,7 @@ but He, the Mighty, the Wise".***[^4]
 And the third stage is the passage from the mother's womb into this
 world. God has said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
-  </p>
-</blockquote>
+> وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
 
 ***"And the bearing of him and the wearing of him was thirty
 months"***[^5]
@@ -148,11 +128,7 @@ the last of the stages of the world."
 The second stage of the three remaining stages is "Mahshar" or the
 gathering place of mankind on the Resurrection Day. God says:
 
-<blockquote dir="rtl">
-  <p>
-"وَعُرِضُوا عَلى رَبِّكَ صَفّا"
-  </p>
-</blockquote>
+> "وَعُرِضُوا عَلى رَبِّكَ صَفّا"
 
 ***"And they shall be brought before your Lord, standing in
 ranks"***[^6]
@@ -160,11 +136,7 @@ ranks"***[^6]
 And the third of the three remaining stages is either Paradise or Hell.
 God has said, regarding this:
 
-<blockquote dir="rtl">
-  <p>
-"فَرِيقٌ فِي الجَنَّةِ وَفَرِيقٌ فِي السَعِير"
-  </p>
-</blockquote>
+> "فَرِيقٌ فِي الجَنَّةِ وَفَرِيقٌ فِي السَعِير"
 
 ***"A party shall be in the garden and another party in the burning
 fire."***[^7]
@@ -232,12 +204,8 @@ well-wisher will benefit from his trials, however.
 
 The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ رُوحَ القُدُس نَفَثَ فِي رُوحِي اَنَّهُ لَن تَمُوتَ نَفْسٌ
-حَتَّى تَستَكمِلَ رِزقَها فَاجْمِلُوا فِي الطَلَب"
-  </p>
-</blockquote>
+> "اِنَّ رُوحَ القُدُس نَفَثَ فِي رُوحِي اَنَّهُ لَن تَمُوتَ نَفْسٌ
+> حَتَّى تَستَكمِلَ رِزقَها فَاجْمِلُوا فِي الطَلَب"
 
 *"The Holy spirit inspired into my spirit that no soul will die until
 its sustenance is complete. Therefore be moderate in seeking (your
@@ -260,22 +228,14 @@ positions or whatever.
 
 Imam ‘Ali (as) has said in one occasion:
 
-<blockquote dir="rtl">
-  <p>
-"دُنيَاكُم هذِهِ اَزْهَدُ عِندِي مِنْ عَفْطَةِ عَنْزٍ"
-  </p>
-</blockquote>
+> "دُنيَاكُم هذِهِ اَزْهَدُ عِندِي مِنْ عَفْطَةِ عَنْزٍ"
 
 *"Your world to me is of less value than the mucus from the nose of a
 goat".*[^11]
 
 He said in another occasion:
 
-<blockquote dir="rtl">
-  <p>
-"مَا لِعَليٍّ ونَعِيمٍ يَفنَى وَلَذَّةٍ لا تَبقَى"
-  </p>
-</blockquote>
+> "مَا لِعَليٍّ ونَعِيمٍ يَفنَى وَلَذَّةٍ لا تَبقَى"
 
 *"What does ‘Ali have to do with enjoyments that perish and pleasures
 that are transitory?"*[^12]
@@ -325,13 +285,9 @@ manifestations as a kind of slavery and condemns it seriously.
 
 Imam Husayn (as) tells those who have sold their religion to the world:
 
-<blockquote dir="rtl">
-  <p>
-"النَّاسُ عَبِيدُ الدُّنيا والدِّينُ لَعْقٌ عَلى اَلسِنَتِهِم
-يَحُوطُونَهُ مَا دَرَّت مَعايشُهُم فَاِذا مُحِّصُوا بِالبَلاءِ قَلَّ
-الدَّيانُون"
-  </p>
-</blockquote>
+> "النَّاسُ عَبِيدُ الدُّنيا والدِّينُ لَعْقٌ عَلى اَلسِنَتِهِم
+> يَحُوطُونَهُ مَا دَرَّت مَعايشُهُم فَاِذا مُحِّصُوا بِالبَلاءِ قَلَّ
+> الدَّيانُون"
 
 *"People are slaves to the world and religion is only a substance to
 lick on their tongues. They take care of it as long as their livelihood
@@ -341,22 +297,14 @@ few".*[^14]
 And Imam ‘Ali (as) introduces the end point of those who are in love
 with the world in the following words:
 
-<blockquote dir="rtl">
-  <p>
-"مَن عَبَدَ الدُّنيا وآثَرَها عَلى الآخِرَةِ اِستَوخَمَ العَاقِبَة"
-  </p>
-</blockquote>
+> "مَن عَبَدَ الدُّنيا وآثَرَها عَلى الآخِرَةِ اِستَوخَمَ العَاقِبَة"
 
 *"A person who worships this world and prefers it to the Hereafter, has
 ruined his fate."*[^15]
 On the other hand, Imam ‘Ali (as) considers people subject to desire as
 the slaves of desire.
 
-<blockquote dir="rtl">
-  <p>
-"عَبْدُ الشَّهوَةِ اَذَلُّ مِنْ عَبْدِ الرِقّ"
-  </p>
-</blockquote>
+> "عَبْدُ الشَّهوَةِ اَذَلُّ مِنْ عَبْدِ الرِقّ"
 
 *"The slave of desires is more abject than a slave in bondage."*[^16]
 
@@ -383,11 +331,7 @@ of slavery, causes man to reach lofty human positions:
 Elsewhere, Imam ‘Ali (as) mentions overcoming one’s bad habits to be the
 best type of worshipping:
 
-<blockquote dir="rtl">
-  <p>
-"اَفضَلُ العِبَادَةِ غَلَبَةُ العَادَةِ"
-  </p>
-</blockquote>
+> "اَفضَلُ العِبَادَةِ غَلَبَةُ العَادَةِ"
 
 *"Overcoming (bad) habits is the most excellent worship."*[^19]
 
@@ -440,12 +384,8 @@ Poverty is better than the humiliation of asking.
 Imam ‘Ali (as), in other positions, considers slavery as one of the
 vicious side effects of greed.
 
-<blockquote dir="rtl">
-  <p>
-"اِستَغنِ عَمَّن شِئْتَ تَكُن نَظِيرَهُ وارغَبْ اِلى مَنْ شِئْتَ تَكُن
-اَسِيرَهُ واَحسِن اِلى مَنْ شِئْتَ تَكُن اَمِيرَهُ"
-  </p>
-</blockquote>
+> "اِستَغنِ عَمَّن شِئْتَ تَكُن نَظِيرَهُ وارغَبْ اِلى مَنْ شِئْتَ تَكُن
+> اَسِيرَهُ واَحسِن اِلى مَنْ شِئْتَ تَكُن اَمِيرَهُ"
 
 *“Be free of need of whomsoever you wish and you will be his equal. Make
 a request from whomsoever you wish and you will be his captive. Do good
@@ -455,22 +395,14 @@ Man's needlessness and his satisfaction with what he possesses cause his
 freedom from want and being greedy towards others. Possessions cause
 present poverty. For the first case Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ قَنَعَ بِما رَزَقَهُ الله فَهُوَ مِن اغنَى النّاس"
-  </p>
-</blockquote>
+> "مَنْ قَنَعَ بِما رَزَقَهُ الله فَهُوَ مِن اغنَى النّاس"
 
 *"The one who is content with what God has provided him is the most
 needless of men".*[^23]
 
 For the second case, the Great Prophet (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"واِيّاكَ والطَمَع فاِنَّه الفَقرُ الحاضر"
-  </p>
-</blockquote>
+> "واِيّاكَ والطَمَع فاِنَّه الفَقرُ الحاضر"
 
 *"Beware of greed for it is the present poverty."*[^24]
 
@@ -490,12 +422,8 @@ the inappropriateness of asking others for help.
 
 The Prophet (S) has told Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-"اِيَّاكَ والسؤالِ فَاِنَّهُ ذُلٌّ حاضِرٌ وفَقرٌ متعجل وفيه حِسابٌ
-طَويلٌ يَومَ القِيامَةِ"
-  </p>
-</blockquote>
+> "اِيَّاكَ والسؤالِ فَاِنَّهُ ذُلٌّ حاضِرٌ وفَقرٌ متعجل وفيه حِسابٌ
+> طَويلٌ يَومَ القِيامَةِ"
 
 *"Beware of asking from people, for it is present humiliation and a
 speedy poverty and it will entail a long accounting on the Day of
@@ -503,12 +431,8 @@ Judgment".*[^25]
 
 Imam Zayn al-‘Abidin (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"طَلَبُ الحَوائِجِ اِلى النّاسِ مَذَلّة لِلحيَاةِ وَمَذهَبَةٌ
-لِلحَيَاءِ وَاستِخفَافٌ بِالوَقارِ وَهُوَ الفَقْرُ الحَاضِرُ"
-  </p>
-</blockquote>
+> "طَلَبُ الحَوائِجِ اِلى النّاسِ مَذَلّة لِلحيَاةِ وَمَذهَبَةٌ
+> لِلحَيَاءِ وَاستِخفَافٌ بِالوَقارِ وَهُوَ الفَقْرُ الحَاضِرُ"
 
 *“Seeking needs from people causes humiliation in life, the departure of
 shame and attaching little value to one's dignity, and it is present
@@ -516,13 +440,9 @@ poverty".*[^26]
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"السُؤالُ يُضعِفُ لِسانَ المُتَكَلِّم ويَكسِرُ قَلبَ الشُجَاعِ
-البَطَلِ ويُوقِفُ الحُرّ العَزِيز مَوقِفَ العَبدِ الذَلِيلِ ويُذهِبُ
-بَهَاءَ الوَجْهِ ويَمحَقُ الرِزقَ"
-  </p>
-</blockquote>
+> "السُؤالُ يُضعِفُ لِسانَ المُتَكَلِّم ويَكسِرُ قَلبَ الشُجَاعِ
+> البَطَلِ ويُوقِفُ الحُرّ العَزِيز مَوقِفَ العَبدِ الذَلِيلِ ويُذهِبُ
+> بَهَاءَ الوَجْهِ ويَمحَقُ الرِزقَ"
 
 *"Asking people for help weakens one's tongue, breaks the heart of the
 brave one, puts a free man in place of a lowly slave, causes one to lose
@@ -599,5 +519,4 @@ Than to kiss the ground to obtain a carpet.
 [^26]: . Bihar, vol.78, p.136.
 
 [^27]: . Ghurar al-Hikam, vol.2, p.141.
-
 

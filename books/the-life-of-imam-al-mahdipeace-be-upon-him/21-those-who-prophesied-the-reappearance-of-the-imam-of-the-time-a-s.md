@@ -26,7 +26,7 @@ formula ‘La ilaaha Illallaah’ (There is no God except Allah).”
 Salman asked: O Allah's Messenger, which of your sons ?
 
 The Holy Prophet (a.s) said, “This son of mine. So saying, he placed his
-hand on Husain (a.s).”<sup>[1]</sup>
+hand on Husain (a.s).”[1]
 
 This tradition means that the reappearance and advent of His Eminence,
 Imam Mahdi (a.s) is from the confirmed and certain
@@ -41,7 +41,7 @@ for the world to end.
 b. Abdullah bin Umar has narrated from the Holy Prophet (a.s) that he
 said, “In the last age a man from my descendants, whose name is same is
 mine, shall arise and fill the earth with justice and equity just as it
-would be fraught with injustice and oppression.”<sup>[1]</sup>
+would be fraught with injustice and oppression.”[1]
 
 According to this tradition, the Master of the Age (a.s) shall spread
 truth and justice among the people and destroy oppression and injustice
@@ -52,7 +52,7 @@ c. Amirul Momineen (a.s) has quoted the Prophet of Islam that he said,
 communities shall be misguided and deviated and in the end the treasures
 of the prophets shall become apparent through His Eminence, the remnant
 of Allah (Baqiatullah). He would establish justice and equity just as it
-would be fraught with injustice and oppression.”<sup>[2]</sup>
+would be fraught with injustice and oppression.”[2]
 
 This tradition proves that His Eminence, the Master of the Age shall
 have an occultation and that a group of people would deny him and
@@ -65,7 +65,7 @@ that he said, “Mahdi is from my progeny and his name and patronymic is
 same as mine. He shall have an occultation; during which the communities
 would be lost and deviated. At last, like a brilliant moon he would
 shine and fill the earth with justice and equality just as it would be
-fraught with injustice and oppression.”<sup>[3]</sup>
+fraught with injustice and oppression.”[3]
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ would purify the believers and destroy the infidels.”
 
 Then he said, “O Jabir! This is one of the divine affairs and one of the
 secrets of Allah, so do not ever doubt it because doubt in a divine
-affair is disbelief.”<sup>[1]</sup>
+affair is disbelief.”[1]
 
 This tradition also explains that those who shall believe in His
 Eminence, the Master of the Age during his occultation shall be very
@@ -98,7 +98,7 @@ it, one leaves the pale of Islam.
 
 f. The Prophet of Islam (a.s) said, “The world shall not end but that a
 man from my Ahle Bayt, whose name shall be same as mine, would have
-power and authority over all.”<sup>[2]</sup>
+power and authority over all.”[2]
 
 The Qaim of the Progeny of Muhammad shall establish justice on the earth
 and fulfill the aims of the prophets and messengers. He shall hoist the
@@ -126,7 +126,7 @@ fill the earth with justice and equity just as it would be fraught with
 injustice and oppression. The earth shall become populated and divine
 blessings shall descend and the people who shall live for a few years
 would say, ‘If only those who had died were alive to witness this
-scene.’”<sup>[1]</sup>
+scene.’”[1]
 
 i. Ali Hilali has narrated from his father that he came to the Prophet
 of Islam (a.s) to find Fatima (a.s) sitting near his head while he was
@@ -163,7 +163,7 @@ that time the Almighty Allah will send the one who shall conquer the
 fortifications of deviation and ignorance and establish the religion
 just as I had done so in the beginning and he shall fill the earth with
 justice and truth just as it would be fraught with injustice and
-oppression.”<sup>[1]</sup>
+oppression.”[1]
 
 j. His Eminence, Amirul Momineen (a.s) has said, “I asked the Messenger
 of Allah (a.s), ‘O Allah's Messenger! Is the Progeny of Muhammad from us
@@ -171,7 +171,7 @@ or from someone other than usa’ He replied, ‘Indeed it is from us. The
 religion shall be completed on us just as it began with us. People shall
 be relieved of mischiefs through us, just as they have got relief from
 polytheism through us. And through us they cultivate love and amity
-among themselves and their brotherhood is strengthened.’”<sup>[2]</sup>
+among themselves and their brotherhood is strengthened.’”[2]
 
 It is understood from this tradition that just as the Holy Prophet (a.s)
 saved mankind from deviation and polytheism and guided it to the
@@ -202,7 +202,7 @@ said from the pulpit, “Indeed the Mahdi is from my Progeny and from my
 Ahle Bayt. He shall reappear in the last age. The sky shall send its
 rain for him and the earth shall expose its contents for him. Then he
 would fill the earth with justice as the oppressors had filled it with
-injustice and oppression.”<sup>[1]</sup>
+injustice and oppression.”[1]
 
 These were some examples of the traditions of the Holy Prophet (a.s)
 that are narrated and recorded in the books of all sects of Muslims.
@@ -230,7 +230,7 @@ having the same name as that of your Prophet's shall appear in the
 period of heedlessness of the people and non-existence of truth and the
 appearance of oppression; and the heavenly folks shall be elated by his
 advent and he is a man with a bright forehead and a high
-nose.”<sup>[1]</sup>
+nose.”[1]
 
 The above tradition proves the following points:
 
@@ -253,7 +253,7 @@ b. His Eminence, Ali (a.s) has said in some of his sermons, “A man from
 my Ahle Bayt shall be my caliph who would command by the order of Allah
 and strengthen the commands of Allah at a time when mischiefs and
 calamities would have surrounded human societies and hopes would be cut
-off and bribing would be commonplace.”<sup>[2]</sup>
+off and bribing would be commonplace.”[2]
 
 ------------------------------------------------------------------------
 
@@ -261,7 +261,7 @@ off and bribing would be commonplace.”<sup>[2]</sup>
 
 c. Asbagh bin Nubata has narrated from His Eminence, Ali (a.s) that he
 said, “In the last age, the Mahdi is from us. There is none in the
-community who does not wait for his reappearance.”<sup>[1]</sup>
+community who does not wait for his reappearance.”[1]
 
 d. Imam Husain (a.s) has quoted his father, His Eminence, Ali (a.s) that
 he told him, “O Husain, your ninth descendent is the Qaim by truth and
@@ -273,7 +273,7 @@ confusing and perplexing but only those who are sincere and those who
 have certainty and from whom the Almighty Allah has taken the covenant
 of our guardianship (Wilayat) and in whose hearts He has made belief
 firm, and supported them and blessed them, they shall be steadfast on
-that Qaim and continue to have faith in him.”<sup>[2]</sup>
+that Qaim and continue to have faith in him.”[2]
 
 e. His Eminence, Imam Ali (a.s) said, “Very soon the Almighty Allah
 shall bring a community that He shall love and they shall also love
@@ -294,7 +294,7 @@ Some partisans of His Eminence
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Dalailul Imamah <sup>[2]</sup> Kamaluddin
+[1] Dalailul Imamah [2] Kamaluddin
 
 criticized him for signing the treaty and he told them, “Woe be unto
 you! Don't you know that I am your Imam and my obedience is obligatory
@@ -316,7 +316,7 @@ tyrant on his neck. That Qaim is the ninth descendant of my brother,
 Husain, the son of the chief of the ladies of the worlds. Almighty Allah
 will prolong his age and occultation. After that, by His power, He would
 make him reappear in the form of a young man aged less than forty years.
-And He is powerful over everything.”<sup>[1]</sup>
+And He is powerful over everything.”[1]
 
 The above tradition contains some very important points. Some of them
 are as follows:
@@ -330,7 +330,7 @@ their sloth and inclination towards a life of comfort and luxury had
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Kamaluddin, Kifayatul Athar
+[1] Kamaluddin, Kifayatul Athar
 
 increased. In addition to this, his army was also infiltrated by some
 hypocritical elements and Muawiyah’s agents. Therefore it was not
@@ -367,11 +367,11 @@ of them are presented below:
 a. Imam Husain (a.s) said, “The ninth of my descendants has a similarity
 with Prophet Yusuf and a similarity with Prophet Musa (a.s). And he is
 Qaim of us, Ahle Bayt of the Prophet. The Almighty Allah will improve
-his affairs in a single night.”<sup>[1]</sup>
+his affairs in a single night.”[1]
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Kamaluddin, Al-Ihtijaj
+[1] Kamaluddin, Al-Ihtijaj
 
 The similarity to Prophet Musa (a.s) is that like him, Imam Mahdi (a.s)
 also was born unknown to the tyrannical ruler of that time due to his
@@ -394,7 +394,7 @@ fulfilled if you speak trutha’ Though the patient ones and his
 supporters would have forbearance on this denial and falsification. And
 their reward and recompense is like that of the holy fighters who have
 fought with the sword, side by side the Messenger of Allah
-(a.s).”<sup>[1]</sup>
+(a.s).”[1]
 
 We come to know from this tradition that people shall be tested and
 examined through the occultation of His Eminence, the Awaited Imam
@@ -413,7 +413,7 @@ till some people say that His Eminence has expired.
 
 And some of them shall go out to search for him but they would not be
 able to trace him. And only the Wise Lord is his guardian and only He is
-aware of his whereabouts.”<sup>[1]</sup>
+aware of his whereabouts.”[1]
 
 ### 5. His Eminence, Imam Zainul Abideen (a.s)
 
@@ -424,7 +424,7 @@ presented below:
 
 a. His Eminence, Ali bin Husain, Imam Sajjad (a.s) recited the verse of,
 **“that He will most certainly make them inherit the
-Earth…”<sup>[2]</sup>** and then said, “They are the supporters of us,
+Earth…”[2]** and then said, “They are the supporters of us,
 Ahle Bayt and this “inheritance” shall be through a man from us, and he
 is the Mahdi of this community. The Holy Prophet (a.s) has said, ‘Even
 when the entire duration of the world's existence is exhausted, and one
@@ -433,11 +433,11 @@ that day and make it swell to such a length of time as to accommodate
 the ultimate reign of a person out of my holy Progeny who will be called
 by my name and my agnomen (Abul Qasim). He will then make the earth
 abound with peace and justice as it will have been fraught with
-injustice and tyranny before him.’”<sup>[3]</sup>
+injustice and tyranny before him.’”[3]
 
 b. His Eminence, Imam Zainul Abideen (a.s) said, “The verse of: **Allah
 has promised...**(24:55), is revealed about the Imam Qaim, His Eminence,
-Mahdi (a.s).”<sup>[4]</sup>
+Mahdi (a.s).”[4]
 
 c. When His Eminence, Imam Zainul Abideen (a.s) was apparently taken as
 a prisoner he said inter alia in his sermon, “From us was the Messenger
@@ -446,12 +446,12 @@ in Paradise, the two grandsons
 
 ------------------------------------------------------------------------
 
-[1] Al-Burhan Fi Alamat-e-Sahibuz Zaman <sup>[2]</sup> Surah Nur 24:55
+[1] Al-Burhan Fi Alamat-e-Sahibuz Zaman [2] Surah Nur 24:55
 [3] Yanabiul Mawaddah Pg. 426; Majmaul Bayan; Tafsir Ayyashi [4]
 Yanabiul Mawaddah, Pg. 425
 
 of this community and the Mahdi who would slay the
-Dajjal.”<sup>[1]</sup>
+Dajjal.”[1]
 
 d. His Eminence, Imam Zainul Abideen (a.s) said, “Our Qaim has the
 characteristics of seven prophets: From our forefather Adam (a.s), from
@@ -463,7 +463,7 @@ Ibrahim is the concealed birth and going away from among the people.
 From Musa (a.s) it is fear and occultation. From Isa (a.s) it is the
 controversies that people created about him. From Ayyub (a.s) it is
 release and success after trials and tribulations. From the Holy Prophet
-(a.s) is the armed uprising.”<sup>[2]</sup>
+(a.s) is the armed uprising.”[2]
 
 ### 6. His Eminence, Imam Muhammad Baqir (a.s)
 
@@ -481,7 +481,7 @@ Abu Basir asked, “How would it be known that the Almighty Allah is
 pleaseda”
 
 He replied, “He (God) will put mercy and kindness in his
-heart.”<sup>[3]</sup>
+heart.”[3]
 
 His Eminence, Imam Muhammad Baqir (a.s) mentioned the names of the
 twelve Imams and successors of the Holy Prophet
@@ -493,7 +493,7 @@ Pg. 319
 
 (a.s) that he had introduced and appointed and said, “The last and the
 twelfth of them is the one under whose leadership Isa bin Maryam will
-perform the prayer.”<sup>[1]</sup>
+perform the prayer.”[1]
 
 ### 7. His Eminence, Imam Ja'far as-Sadiq (a.s)
 
@@ -534,13 +534,13 @@ follows:
 *When I saw that people have become deviated in religion*
 
 I said ‘Bismillah’ and became a Ja’fari with the
-Ja’faris.”<sup>[1]</sup>
+Ja’faris.”[1]
 
 b. His Eminence, Imam Ja'far Sadiq (a.s) said, “Our Master, that is Imam
 Mahdi (a.s) shall reappear and he is from the progeny of this person.”
 And so saying he pointed towards Musa Ibne Ja'far. “And he shall fill
 the earth with justice just as it would be full of injustice and
-oppression and the world shall be reformed through him.”<sup>[2]</sup>
+oppression and the world shall be reformed through him.”[2]
 
 c. His Eminence, Imam Ja'far Sadiq (a.s) said, “The Khalaf-e-Salih (The
 righteous successor) is from my descendants and he is the Mahdi, whose
@@ -575,7 +575,7 @@ occultation of our Qaim. They shall be steadfast on our guardianship and
 keep aloof from our enemies. They are from us and we are from them. They
 are pleased with our Imamate and we are satisfied with their adherence.
 Therefore, blessed are they. I swear to Allah, that they shall be with
-us in our rank in Paradise.”<sup>[1]</sup>
+us in our rank in Paradise.”[1]
 
 This tradition shows that His Eminence, Imam Mahdi (a.s) shall purify
 the earth of Allah’s enemies and destroy the oppressors.
@@ -639,13 +639,13 @@ will the Qaim of your progeny arise ?’
 
 He replied, ‘His likeness is to the Hour (Qiyamat), that only the
 Almighty Allah knows about it and it will arrive all of a
-sudden.’”<sup>[1]</sup>
+sudden.’”[1]
 
 b. Hasan bin Khalid has narrated from Imam Ali bin Musa ar-Reza (a.s)
 that he said, “One who has no abstemiousness, has no faith and one who
 has no dissimulation cannot be a believer. And the most honorable of you
 near Allah, is the most pious; that is one who is most particular about
-dissimulation.”<sup>[2]</sup> His Eminence was asked, “O son of Allah’s
+dissimulation.”[2] His Eminence was asked, “O son of Allah’s
 Messenger, till what time ?”
 
 He replied, “Till the appointed day, and that is the day of the
@@ -669,7 +669,7 @@ of Allah! Thus follow him. Because the truth is in him and with him. And
 it is the statement that He says:
 
 *If We please, We should send down upon them a sign from the heaven so
-that their necks should stoop to it.”<sup>[3]</sup>*
+that their necks should stoop to it.”[3]*
 
 ------------------------------------------------------------------------
 
@@ -679,9 +679,9 @@ And the Almighty Allah has said:
 
 **“And listen on the day when the crier shall cry from a near place. The
 day when they shall hear the cry in truth; that is the day of coming
-forth.”<sup>[1]</sup>**
+forth.”[1]**
 
-“That is the advent of my son, Mahdi Qaim (a.s).”<sup>[2]</sup>
+“That is the advent of my son, Mahdi Qaim (a.s).”[2]
 
 These were some traditions narrated from Imam Reza (a.s) regarding Imam
 Mahdi (a.s). The most important point derived from all these traditions
@@ -709,7 +709,7 @@ Allah would reform his affairs in a single night just as He reformed the
 affair of His Kaleem (who conversed with Allah), Musa (a.s) when he went
 to get fire, but he returned in such a way that he had become a prophet
 and messenger of Allah.” Then he said: “The best deed of my Shias is to
-wait for the reappearance.”<sup>[3]</sup>
+wait for the reappearance.”[3]
 
 ------------------------------------------------------------------------
 
@@ -748,7 +748,7 @@ prolonged, and his sincere followers will wait for him and those who
 doubt shall reject him. And his deniers will ridicule about him and
 those who fix the time of his reappearance shall be proved liars. The
 people of falsehood shall be destroyed and the Muslims and the people of
-submission shall get salvation.”<sup>[1]</sup>
+submission shall get salvation.”[1]
 
 ------------------------------------------------------------------------
 
@@ -763,7 +763,7 @@ following traditions narrated from him:
 a. Saqar bin Abu Dalf says: I heard Ali bin Muhammad bin Ali ar-Reza
 (a.s) say, "The Imam after me is my son Hasan and after him, his son
 Qaim who would fill the earth with justice and equity after it would be
-fraught with injustice and oppression."<sup>[1]</sup>
+fraught with injustice and oppression."[1]
 
 b. The great religious jurisprudent, Sayyid Abdul Azim Hasani says: I
 came to my master Ali bin Muhammad (a.s). When His Eminence turned his
@@ -807,7 +807,7 @@ oppression."
 Abdul Azim confessed to what Imam Hadi (a.s) commanded him and brought
 faith on the occultation of His Eminence, Imam Mahdi (a.s). After that
 His Eminence, Hadi (a.s) turned to him and said, "O Abal Qasim! This is
-the religion Allah likes for His slaves."<sup>[1]</sup>
+the religion Allah likes for His slaves."[1]
 
 ### 12. His Eminence, Imam Hasan Askari (a.s)
 
@@ -876,7 +876,7 @@ support it with their hearts.
 O Ahmad! This is the command of Allah and one of the divine secrets and
 one of the Unseen matters of Allah. So remember what I am telling you
 and keep it confidential and be of the thankful ones so that you may
-reside in the position of Illyeen<sup>[1]</sup> with us."<sup>[2]</sup>
+reside in the position of Illyeen[1] with us."[2]
 
 Here we conclude the prophecies of the Messenger of Islam (a.s) and the
 Infallible Imams (a.s) regarding Imam Mahdi (a.s). The conclusion

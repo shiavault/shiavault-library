@@ -1,9 +1,6 @@
 Abu Hurayrah Follows the Umayyads:
 ==================================
 
-  
-  
-
 From the biography of Abu Hurayrah revealed before, it became clear that
 his company to the Prophet was only for satiating his belly as he
 himself stated recurringly, saying that he took al-Siffah as his shelter
@@ -16,8 +13,7 @@ Uthman, he began to show himself after choosing seclusion, and appear
 before people after being hidden.
 
 When the war broke out between Ali and Mu'awiyah, or in other words when
-struggle erupted publicly between the Umayyads and Hashimites, <span
-id="_anchor_401"></span>401  after being out of sight during the era of
+struggle erupted publicly between the Umayyads and Hashimites, 401  after being out of sight during the era of
 the Prophet and his two successors Abu Bakr and Umar, and Muslims were
 divided into several groups and sects, Abu Hurayrah tilted toward the
 side suiting his temper and agreeing with his self constitution and
@@ -32,7 +28,7 @@ gluttony from different sorts of his appetising foods, attaining his
 desire of his (Mu'awiyah's) gifts and splendour grants.
 
 While indigence and hunger of Abu Hurayrah reaching a degree that he
-falls unconscious, <span id="_anchor_402"></span>402  with people
+falls unconscious, 402  with people
 placing their feet on his neck! Would it be possible for him to forsake
 the Umayyad State with its broad domain and tasty foods, and turn toward
 Ali the poor ascetic man whose food was only cured meant? Such a
@@ -45,9 +41,8 @@ loyalty to them, showered him with their favours and extended to him
 their support and presents! Consequently, in a short time, his condition
 turned from distress into ease, from hardship into comfort, and from
 poverty into opulence. Besides, after he used to cover his body with a
-ragged garment, <span id="_anchor_403"></span>403  he began to put on
-clothes of tissue of silk and wool, and stretched linen. <span
-id="_anchor_404"></span>404
+ragged garment, 403  he began to put on
+clothes of tissue of silk and wool, and stretched linen. 404
 
 The first consideration made by the Umayyads toward Abu Hurayrah as a
 reward for his support to them, was appointing him a ruler over
@@ -59,8 +54,7 @@ abundant grants, building him a palace at Aqiq with granting him a land
 (as a fief) in Aqiq and Dhu al-Hulayfah. Being unsatisfied with all
 this, they even gave him in marriage Bisrah bint Ghazwan, the sister of
 the Emir Utbah ibn Ghazwan, whom he used to serve during the days of his
-destitution and poverty in return for filling his belly. <span
-id="_anchor_405"></span>405
+destitution and poverty in return for filling his belly. 405
 
 His vainglory and ostentation made him feel joyous, with his origin and
 descent making him transgress the boundaries of etiquette and veneration
@@ -79,7 +73,7 @@ the daughter of Ghazwan in return for feeding my belly and for heel of
 my leg, and she used to task me with mounting the horse standing and
 come in barefooted. After that Allah gave her in marriage to me, when I
 imposed upon her to mount (the horse) standing and come in barefooted.
-<span id="_anchor_406"></span>406
+406
 
 The favour Abu Hurayrah did for Mu'awiyah was not through striving
 (Jihad) with his sword or wealth, but was striving with traditions he
@@ -102,7 +96,7 @@ trustworthy and his companions, pointing to Uthman. (this hadith was
 reported by Ahmad with reliable chain of transmitters).
 
 As soon as Uthman transcribed the masahif, Abu Hurayrah entered upon him
-saying. <span id="_anchor_407"></span>407  You have verily hit the mark
+saying. 407  You have verily hit the mark
 and succeeded! I testify that I heard the Messenger of Allah saying: The
 staunchest and strongest in loving me among my Ummah, are people coming
 after me, believing in God and me without seeing me, and acting
@@ -121,7 +115,7 @@ meeting me with it in the heavens.
 Further, Ibn Asakir, Ibn Adi and al-Khatib al Baghdadi reported from him
 as saying: I heard the Messenger of Allah saying: Allah verily entrusted
 His revelation to three men: me and Gabriel and Mu'awiyah. In another
-narration. <span id="_anchor_408"></span>408  From Abu Hurayrah, with a
+narration. 408  From Abu Hurayrah, with a
 chain of transmitters, (the Messenger of Allah said:)" The trustworthy
 men are three: Gabriel and me and Mu'awiyah.
 
@@ -130,7 +124,7 @@ known with being so pretty, saying: Subhan Allah (Glory be to God), how
 best your family nourished you! by God I have never seen a face better
 
 than yours except the face of Mu'awiyah when being on the minbar
-(tribune) of the messenger of Allah. <span id="_anchor_409"></span>409
+(tribune) of the messenger of Allah. 409
  There are numerous reports in this regard.
 
 He exaggerated in backing and supporting the Umayyads to the extent that
@@ -139,18 +133,13 @@ warning them against slandering or insulting them.
 
 Al-Ajjaj al-Rajiz is reported to have said: Abu Hurayrah said to me:
 Wherefrom are you? I said: I am from the people of Iraq. He said: The
-speckled of the Sham <span id="_anchor_410"></span>410  are about to
+speckled of the Sham 410  are about to
 come to you and collect your alms. When they come go and receive them,
 and if they enter (the house) you have to be in the farthest place,
 leaving a distance between you and it (alm-sadaqah). Be careful and
 never slander them, as by so doing your reward will verily vanish while
 they taking your Sadaqah, and if you be patient this sadaqah will be
-placed in your scale on the Day of Resurection. <span
-id="_anchor_411"></span>411
-
-  
-  
-  
+placed in your scale on the Day of Resurection. 411
 
 401. Refer to my book on Abu Hurayrah, in which you can find a separate
 chapter titled "How the Umayyad State was Established?"

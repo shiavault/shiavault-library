@@ -6,49 +6,29 @@ and staying awake a portion of the night - after midnight - in the
 worship of Allah (Glory and Greatness be to Him) has been mentioned, of
 which, we present some of these verses:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُسْتَغْفِرِينَ بِالأَسْحٌارِ.
-  </p>
-</blockquote>
+> وَالْمُسْتَغْفِرِينَ بِالأَسْحٌارِ.
 
 ***“…and those who ask forgiveness in the morning times.”***
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نٌافِلَةً لَّكَ.
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نٌافِلَةً لَّكَ.
 
 ***“Say your special (tahajjud) prayer during some part of the
 night…”***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيٌامًا.
-  </p>
-</blockquote>
+> وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيٌامًا.
 
 ***“And they who pass the night prostrating themselves before their Lord
 and standing.”***
 
-<blockquote dir="rtl">
-  <p>
-تَتَجٌافَى جُنُوبُهُمْ عَنِ الْمَضٌاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
-وَطَمَعًا وَمِمٌّا رَزَقْنٌاهُمْ يُنفِقُونَ.
-  </p>
-</blockquote>
+> تَتَجٌافَى جُنُوبُهُمْ عَنِ الْمَضٌاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
+> وَطَمَعًا وَمِمٌّا رَزَقْنٌاهُمْ يُنفِقُونَ.
 
 *“Their sides draw away from (their) beds, they call upon their Lord in
 fear and in hope, and they spend (benevolently) out of what We have
 given them.”*
 
-<blockquote dir="rtl">
-  <p>
-كٌانُوا قَلِيلاً مِّنَ اللَّيْلِ مٌا يَهْجَعُونَ. وَبِلأَسْحٌارِ هُمْ
-يَسْتَغْفِرُونَ
-  </p>
-</blockquote>
+> كٌانُوا قَلِيلاً مِّنَ اللَّيْلِ مٌا يَهْجَعُونَ. وَبِلأَسْحٌارِ هُمْ
+> يَسْتَغْفِرُونَ
 
 ***“They used to sleep but little in the night. And in the morning they
 asked forgiveness.”***
@@ -128,5 +108,4 @@ the companion and friend in the grave.[^12]
 [^11]: Bihar Al-Anwar, Vol. 87, Pg. 152; Tawhid Shaikh aduq, Pg. 17
 
 [^12]: Bihar Al-Anwar, Vol. 87, Pg. 161; Irshad Al-Qulub, Pg. 316
-
 

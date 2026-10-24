@@ -102,4 +102,3 @@ said, “My shirt, prayer and pardon will not be of avail for him.”
 Following this manly and generous act, a thousand persons of the
 Khazraj embraced Islam.”[^19]
 
-

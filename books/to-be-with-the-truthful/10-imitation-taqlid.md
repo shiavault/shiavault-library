@@ -178,4 +178,3 @@ its non-existence, as stated by Allah, the Glorified in the Holy Qur’ān:
 ***“We have not neglected in the Book (the Qur’ān) anything ....”
 (6:38)***
 
-

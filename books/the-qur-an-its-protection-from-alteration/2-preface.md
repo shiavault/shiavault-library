@@ -20,6 +20,5 @@ presented as a paper at the "Islamic Thought conference" in Tehran in
 January 1992. It is the pleasure of Ahlul Bayt Assembly of North America
 to present this booklet to the seekers of truth.
 
-
 ABANA, Toronto, Canada
 

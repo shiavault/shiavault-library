@@ -31,4 +31,3 @@ some basic knowledge no knowledge is possible; therefore, in Sohravadi’s
 view there must be some basic self-evident truths as foundations for
 other knowledge (2/18).
 
-

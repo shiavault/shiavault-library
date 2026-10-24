@@ -598,4 +598,3 @@ eloquence, for, the most eloquent among Arabs were Banu Jurhum, though
 they were not famous for wisdom or wit, yet 'Ali surpassed even Sahban
 ibn Wa'il and Qays ibn Sa'dah in eloquence.
 
-

@@ -179,4 +179,3 @@ Why women do not attend the Jum'a prayer? Are they exempted?
 
 A. Yes. They are exempted.
 
-

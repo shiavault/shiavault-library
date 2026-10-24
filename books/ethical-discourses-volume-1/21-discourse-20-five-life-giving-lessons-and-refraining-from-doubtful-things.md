@@ -1,18 +1,14 @@
 Discourse 20: Five Life Giving Lessons and Refraining from Doubtful Things
 ==========================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ : أَيُّهَا النَّاسُ! لاَ تُعْطُوا الْحِكْمَةَ
-غَيْرَ أَهْلِها فَتَظْلِمُوهَا، وَلاَ تَمْنَعُوهَا أَهْلَهَا
-فَتَظْلِمُوهُمْ، وَ لاَ تُعَاقِـبُوا ظَالِماً فَيَبْطُلَ فَضْلُكُمْ،
-وَ لاَ تُرَاؤُوا النَّاسَ فَيَحْبَطَ عَمَلُكُمْ، وَ لاَ تَمْنَعُوا
-الْمَوْجُودَ فَيَقِلَّ خَيْرُكُمْ، اَيُّهَا النَّاسُ! إِنَّ
-الأَشْيَاءَ ثَلاثَةٌ: أَمْرٌ اسْـتَبَانَ رُشْدُهُ فَاتَّبِعُوهُ، وَ
-أَمْرٌ اسْـتَبَانَ غَـيُّهُ فَاجْـتَنِبُوهُ، وَ أَمْرٌ اخْتُلِفَ
-عَلَيْكُمْ فَرُدُّوهُ إِلـى اللٌّهِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ : أَيُّهَا النَّاسُ! لاَ تُعْطُوا الْحِكْمَةَ
+> غَيْرَ أَهْلِها فَتَظْلِمُوهَا، وَلاَ تَمْنَعُوهَا أَهْلَهَا
+> فَتَظْلِمُوهُمْ، وَ لاَ تُعَاقِـبُوا ظَالِماً فَيَبْطُلَ فَضْلُكُمْ،
+> وَ لاَ تُرَاؤُوا النَّاسَ فَيَحْبَطَ عَمَلُكُمْ، وَ لاَ تَمْنَعُوا
+> الْمَوْجُودَ فَيَقِلَّ خَيْرُكُمْ، اَيُّهَا النَّاسُ! إِنَّ
+> الأَشْيَاءَ ثَلاثَةٌ: أَمْرٌ اسْـتَبَانَ رُشْدُهُ فَاتَّبِعُوهُ، وَ
+> أَمْرٌ اسْـتَبَانَ غَـيُّهُ فَاجْـتَنِبُوهُ، وَ أَمْرٌ اخْتُلِفَ
+> عَلَيْكُمْ فَرُدُّوهُ إِلـى اللٌّهِ.
 
 The Messenger of Allah (S) has said, “O' mankind!  Do not convey wisdom
 to those people who are not worthy (of receiving such teachings), as you
@@ -62,19 +58,11 @@ governments of the world through the guidance of their self-proclaimed
 “scholars” and “intellectuals”.  
  The Qur'an contains many different expressions such as:  
 
-<blockquote dir="rtl">
-  <p>
-هُدىً لِّمُتَّقِينَ
-  </p>
-</blockquote>
+> هُدىً لِّمُتَّقِينَ
 
  ”A guidance for those who have consciousness (of Allah).”[^2]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِـي ذٌلِكَ لَأَيَاتٍ لِّقَومٍِ يَسْمَعُونَ
-  </p>
-</blockquote>
+> إِنَّ فِـي ذٌلِكَ لَأَيَاتٍ لِّقَومٍِ يَسْمَعُونَ
 
 “Surely in that (the day and the night) are signs for a people who
 listen.”[^3]
@@ -101,12 +89,8 @@ will hold a person responsible for his spiritual illnesses (and not his
 physical sicknesses), just as it has been mentioned in the traditions
 that:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَخَذَ اللٌّهُ عَلى أَهْلِ الْجَهْلِ أَنْ يَتَعَلَّمُوا، حَتّى
-أَخَذَ عَلى أَهْلِ الْعِلْمِ أَنْ يُعَلِّمُوا.
-  </p>
-</blockquote>
+> مَا أَخَذَ اللٌّهُ عَلى أَهْلِ الْجَهْلِ أَنْ يَتَعَلَّمُوا، حَتّى
+> أَخَذَ عَلى أَهْلِ الْعِلْمِ أَنْ يُعَلِّمُوا.
 
 “Allah has not taken a covenant from the ignorant people to learn until
 he took a covenant from the scholars to teach (the ignorant
@@ -147,11 +131,7 @@ relation to it because if you do not give it to the person (yet you are
 able to) then Allah (SwT) will cut off the bounties that would come to
 you since:
 
-<blockquote dir="rtl">
-  <p>
-كَمَالُ الْجُودِ بَذْلُ الْمَوْجُودِ.
-  </p>
-</blockquote>
+> كَمَالُ الْجُودِ بَذْلُ الْمَوْجُودِ.
 
 “The perfection of a person is that he gives what he has.”
 
@@ -173,11 +153,7 @@ This tradition is in relation to the actions in which the Islamic ruling
 is one of doubt or obscurity and in some traditions, in place of the
 phrase:
 
-<blockquote dir="rtl">
-  <p>
-رُدُّوهُ اِلَى اللٌّهِ…
-  </p>
-</blockquote>
+> رُدُّوهُ اِلَى اللٌّهِ…
 
 “Return the (ruling of that particular act) back to Allah.”  
  it has been mentioned that in those types of actions where we have a
@@ -185,11 +161,7 @@ doubt as to its ruling, we must exercise precaution, because the
 questionable actions are the precursor to the forbidden acts.  
  There are some people who have are habituated in saying:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَكْرُوهٍ جَايِزٌ.
-  </p>
-</blockquote>
+> كُلُّ مَكْرُوهٍ جَايِزٌ.
 
 “All the makruh (reprehensible) acts are permitted to be performed.”
 
@@ -228,5 +200,4 @@ actions that he performs, the utmost of precaution must be exercised!
 [^3]: Surat Yunus (10), Verse 67
 
 [^4]: Bihar al-Anwar, vol. 2, pg. 80
-
 

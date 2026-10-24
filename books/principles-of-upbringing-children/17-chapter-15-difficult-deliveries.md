@@ -144,4 +144,3 @@ she would have achieved martyrdom.[^4]
 
 [^4]: Makarim al-akhlaq, v 1, p. 268
 
-

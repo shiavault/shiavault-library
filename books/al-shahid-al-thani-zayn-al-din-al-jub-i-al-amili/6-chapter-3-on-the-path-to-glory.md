@@ -627,4 +627,3 @@ the \`Alawids.
 
 [^26]: Risalat Ibn al-\`Awdi (a manuscript).
 
-

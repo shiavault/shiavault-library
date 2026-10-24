@@ -1,17 +1,13 @@
 Thirty-Seventh Hadith: The Knowledge Of God
 ===========================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيِّ
-بْنِ مُحَمَّدٍ عَمَّنْ ذَكَرَهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ
-عِيسَى عَنْ مُحَمَّدِ بْنِ حَمْرَانَ عَنِ الفَضْلِ بْنِ السَّكَنِ عَنْ
-أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ أَمِيرُ
-المُؤْمِنِينَ عَلَيْهِ السَّلامُ: إعْرِفُوا اللهَ بِاللهِ وَالرَّسُولَ
-بِالرِّسَالَةِ وَأُولِي الأَمْرِ بِالأَمْرِ بِالمَعْرُوفِ وَالعَدْلِ
-وَالإحْسَانِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيِّ
+> بْنِ مُحَمَّدٍ عَمَّنْ ذَكَرَهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ
+> عِيسَى عَنْ مُحَمَّدِ بْنِ حَمْرَانَ عَنِ الفَضْلِ بْنِ السَّكَنِ عَنْ
+> أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ أَمِيرُ
+> المُؤْمِنِينَ عَلَيْهِ السَّلامُ: إعْرِفُوا اللهَ بِاللهِ وَالرَّسُولَ
+> بِالرِّسَالَةِ وَأُولِي الأَمْرِ بِالأَمْرِ بِالمَعْرُوفِ وَالعَدْلِ
+> وَالإحْسَانِ.
 
 With a continuous chain of authorities reaching up to Muhammad ibn
 Ya’qub al-Kulayni, from ‘Ali ibn Muhammad, from someone who reported it,
@@ -97,11 +93,7 @@ right) meaning: إعرفوهم بِالأَمْرِ بِالمَعْرُوفِ �
 وَالإحْسَانِ. Or it is probably a conjunct of the phrase إعرفوا الله
 بالله meaning:
 
-<blockquote dir="rtl">
-  <p>
-إعرفوهم بِالأَمْرِ بِالمَعْرُوفِ وَالعَدْلِ وَالإحْسَانِ.
-  </p>
-</blockquote>
+> إعرفوهم بِالأَمْرِ بِالمَعْرُوفِ وَالعَدْلِ وَالإحْسَانِ.
 
 The Meaning Of The Phrase ‘Know God By God’
 -------------------------------------------
@@ -157,19 +149,11 @@ if one were to know God through the existential aspect of things, which
 is their Godward aspect, he would be knowing God by God, and it is this
 Godward aspect of things which is referred to in these noble verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ.﴾
-  </p>
-</blockquote>
+> ﴿وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ.﴾
 
 ***He is with you where you may be.*** (***57:4***)
 
-<blockquote dir="rtl">
-  <p>
-﴿كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ.﴾
-  </p>
-</blockquote>
+> ﴿كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ.﴾
 
 ***Everything is fated to perish save His Face.*** (***28:88***)
 
@@ -186,22 +170,14 @@ gnostics and the yearnings of the people of the heart and the *awliya’.*
 At times it is expressed as the ‘inaccessible phoenix’ (*‘anqa
 al-mughrib*) in the idiom of the gnostics:
 
-<blockquote dir="rtl">
-  <p>
-عنقا شكار كسي نشود دام بازگير
-  </p>
-</blockquote>
+> عنقا شكار كسي نشود دام بازگير
 
 *Take thy net away for none can ever catch the phoenix.*[^7]
 
 and at times referred to as *‘ama’* or *‘amd:*
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ أنَّهُ قِيلَ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: أَيْنَ
-كَانَ رَبُّكَ قَبْلَ أنْ يَخْلُقَ الخَلَقَ؟ قَالَ: فِي عَمَاءٍ.
-  </p>
-</blockquote>
+> رُوِيَ أنَّهُ قِيلَ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: أَيْنَ
+> كَانَ رَبُّكَ قَبْلَ أنْ يَخْلُقَ الخَلَقَ؟ قَالَ: فِي عَمَاءٍ.
 
 It has been narrated that the Prophet (S) was asked, “Where was your
 Lord before He created the creation!” He replied, “In an ama
@@ -259,11 +235,7 @@ the plane of the manifestation (*zuhur*) of Names and Attributes, which,
 as said, is also called the station of divinity or ‘the station of
 *Allah’,* and the verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***God is the Light of the heavens and the earth.*** (***24:35***)
 
@@ -274,11 +246,7 @@ which is the ultimate goal and end of wayfaring. And it may be said that
 the aforementioned plane is the one referred to in these words of God,
 the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَى.﴾
-  </p>
-</blockquote>
+> ﴿فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَى.﴾
 
 ***A bow’s length away or nearer.*** (***53:9***)
 
@@ -309,12 +277,8 @@ visible and the inviting call (*adhan*) of multiplicity can be heard,
 one is not a traveler, though one may imagine oneself to be in journey
 and claim to be wayfaring. God, the Exalted, has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ
-ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ
+> ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ.﴾
 
 ***Whoever leaves his home as an emigrant towards God and His Messenger,
 then depth overtakes him, his reward has indeed fallen on God.***
@@ -448,12 +412,8 @@ Exalted, is witness that this author has in view no purpose by this
 discourse other than to familiarize his brothers-in-faith with the
 Divine teachings.
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْتَغْفِرُ اللهَ مِنَ الزَّلَلِ وَالفَشَلِ وَالكَسَلِ. وَالحَمْدُ
-للهِ أَوَّلاً وَآخِراً.
-  </p>
-</blockquote>
+> وَأَسْتَغْفِرُ اللهَ مِنَ الزَّلَلِ وَالفَشَلِ وَالكَسَلِ. وَالحَمْدُ
+> للهِ أَوَّلاً وَآخِراً.
 
 I beseech God’s forgiveness from lapses and front lethargy and laziness,
 and all praise is God’s, firstly and lastly.
@@ -514,5 +474,4 @@ journey, the mi’raj.
 
 [^12]: This is a reference to a well-known fiqhi rule which states:
 عَلَى اليَدِ مَا أَخَذَتْ حَتَّى تُؤَدِّيَهُ.
-
 

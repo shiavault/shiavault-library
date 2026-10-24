@@ -1,18 +1,14 @@
 Wordly Rewards of The Tradition of The Cloak
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ أَبي رَسُولُ اللهِ ( صلى الله عليه وآله ) : يا عَلِيُ وَ الَّذي
-بَعَثَني بِالحَقِّ نَبِيّاً وَ اصطَفاني بِالرِّسالَةِ نَجِيّا ، ما
-ذُكِرَ خَبَرُنا هذا في مَحفِلٍ مِن مَحافِلِ أَهلِ الأَرضِ وَ فِيهِ
-جَمعٌ مِن شِيعَتِنا وَ مُحِبّيِنا وَ فِيهِم مَهمُومٌ إِلا ّوَ فَرَّجَ
-اللهُ هَمَّهُ وَ لا مَغمُومٌ إِلاّ وَ كَشَفَ اللهُ غَمَّهُ وَ لا
-طالِبُ حاجَةٍ إِلاّ وَ قَضى اللهُ حاجَتَهُ. ، فَقالَ عَلِيٌّ ( عليه
-السَّلام ) : إذَاً والله فُزنا وَ سُعِدنا ، وَ كَذلِكَ شِيعَتُنا
-فَازوا وَ سُعِدوا في الدُّنيا وَ الآخِرَةِ وَ رَبِّ الكَعبَةِ "
-  </p>
-</blockquote>
+> فَقالَ أَبي رَسُولُ اللهِ ( صلى الله عليه وآله ) : يا عَلِيُ وَ الَّذي
+> بَعَثَني بِالحَقِّ نَبِيّاً وَ اصطَفاني بِالرِّسالَةِ نَجِيّا ، ما
+> ذُكِرَ خَبَرُنا هذا في مَحفِلٍ مِن مَحافِلِ أَهلِ الأَرضِ وَ فِيهِ
+> جَمعٌ مِن شِيعَتِنا وَ مُحِبّيِنا وَ فِيهِم مَهمُومٌ إِلا ّوَ فَرَّجَ
+> اللهُ هَمَّهُ وَ لا مَغمُومٌ إِلاّ وَ كَشَفَ اللهُ غَمَّهُ وَ لا
+> طالِبُ حاجَةٍ إِلاّ وَ قَضى اللهُ حاجَتَهُ. ، فَقالَ عَلِيٌّ ( عليه
+> السَّلام ) : إذَاً والله فُزنا وَ سُعِدنا ، وَ كَذلِكَ شِيعَتُنا
+> فَازوا وَ سُعِدوا في الدُّنيا وَ الآخِرَةِ وَ رَبِّ الكَعبَةِ "
 
 **"O \`Ali!" my father Allah’s Messenger, peace be upon him and his
 Household, added, "I swear this by Him Who has sent me with the truth as
@@ -64,12 +60,8 @@ world is indeed a great test especially for the believers and no one can
 escape the test of Allah (SWT) either in their wealth, property, or
 children as He (SWT) said,
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
-الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
+> الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ
 
 ***“And We will most certainly try you with somewhat of fear and hunger
 and loss of property and lives and fruits.”*** ***(2:155)***
@@ -128,11 +120,7 @@ follows the same ideology where a believer seeks the door of Hazrat
 Abbas ibn Ali (AS) to relieve their stress by reciting the following
 recommended prayer of intercession:
 
-<blockquote dir="rtl">
-  <p>
-"يا مفرج الكرب عن وجه أخيك الحسين فرج كربي بحق أخيك الحسين"
-  </p>
-</blockquote>
+> "يا مفرج الكرب عن وجه أخيك الحسين فرج كربي بحق أخيك الحسين"
 
 (Oh reliever of the anguish from your brother Husain, relieve my anguish
 for the sake of your brother Husain)
@@ -152,5 +140,4 @@ us the success of obeying and loving the Prophet (SA) and his purified
 AhlulBayt (AS), to increase our love and obedience to them such that we
 attain the great status of being among the Shi’as and devotees of His
 Chosen guides, and to dedicate our whole existence for their service.
-
 

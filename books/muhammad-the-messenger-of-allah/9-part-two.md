@@ -73,4 +73,3 @@ the Islamic life. For life, in all its dimensions and aspects, emerges
 from the same source, moves along the same path and ends at the same
 point.
 
-

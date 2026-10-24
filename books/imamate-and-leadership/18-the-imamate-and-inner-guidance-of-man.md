@@ -112,8 +112,6 @@ family, and the Inerrant Imams, so they must count as Imams from
 Ibrahim's line who were entrusted with inner guidance and the knowledge
 of the unseen.
 
-  
-
 **( 160 )**
 
 Imam Ja'far al-Sadiq peace be upon him is reported in al- Kafi to have

@@ -146,4 +146,3 @@ eclipses took place in one and the same month:
 the solar and the lunar eclipses took place in the month of Ramadan in
 1311. These eclipses cannot help the Mirza".
 
-

@@ -339,4 +339,3 @@ term “Muhajireen” to restrict Ali's freedom of movement.
 And yet, it was Ali, if anyone, who would not be tempted to exploit his
 influence with the army, if that is what Umar was afraid of.
 
-

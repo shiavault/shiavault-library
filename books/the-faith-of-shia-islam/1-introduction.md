@@ -556,4 +556,3 @@ benefit is entirely for ourselves, or to forbid that which contains no
 evil, because none on His laws are without aim, and He has no need of
 His servants.
 
-

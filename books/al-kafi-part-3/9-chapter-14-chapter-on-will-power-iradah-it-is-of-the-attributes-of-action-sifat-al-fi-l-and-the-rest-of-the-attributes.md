@@ -159,13 +159,11 @@ All-hearing, the All-seeing, the All-mighty, the All-wise, the Rich, the
 King, the Clement, the Just and the Generous." The opposite of knowledge
 is ignorance.
 
-
 The opposite of power is inability. The opposite of life is death. The
 opposite of honor is humiliation. The opposite of wisdom is error. The
 opposite of clemency is haste and ignorance. The opposite of justice is
 oppression and tyranny. (So, by proving any of His essential attributes
 its opposite is negated.)
-
 
 **Chapter 15 : Chapter On the Coming into the Existence of the Names of
 Allah H 305, Ch. 15, h 1**
@@ -335,5 +333,4 @@ some thing else. There is nothing between the Creator and the created.
 All is the Creator of things but not from a thing that was there
 already. Allah's names are His names but He is different from His Own
 names and the names are other than Him."
-
 

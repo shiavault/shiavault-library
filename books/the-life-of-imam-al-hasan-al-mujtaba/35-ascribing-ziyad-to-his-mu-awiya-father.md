@@ -668,4 +668,3 @@ them from among the barbaric deeds. That is up to readers:
 
 [^1] Al-Bayan, vol. 1, p. 95.
 
-

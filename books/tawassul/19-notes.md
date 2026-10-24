@@ -142,4 +142,3 @@ p. [^259]:
 [^49] Sunan Tirmidhi, vol. 5, p. 569, Matba'ah al-Halabi, Egypt, cited
 in al-Mausu'ah
 
-

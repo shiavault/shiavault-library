@@ -17,12 +17,8 @@ responsibility of feeding and clothing the wife rests with the husband.
 
 The Holy Quran entrusts this function to the husband thus:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّمُونَ عَلىَ النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
-بَعْضَهُمْ عَلىَ‏ بَعْضٍ وَ بِمَا أَنفَقُواْ مِنْ أَمْوَلِهِم
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّمُونَ عَلىَ النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
+> بَعْضَهُمْ عَلىَ‏ بَعْضٍ وَ بِمَا أَنفَقُواْ مِنْ أَمْوَلِهِم
 
 ***Men are in charge of women, because Allah hath made the one of them
 to excel the other, and because they spend of their property (for the
@@ -72,11 +68,7 @@ for love and affection. She has been created for radiating love and
 affection. The Holy Quran considers a woman who possesses two qualities
 to be good:
 
-<blockquote dir="rtl">
-  <p>
-فَالصَّلِحَتُ قَنِتَتٌ حَفِظَتٌ لِّلْغَيْبِ بِمَا حَفِظَ الله
-  </p>
-</blockquote>
+> فَالصَّلِحَتُ قَنِتَتٌ حَفِظَتٌ لِّلْغَيْبِ بِمَا حَفِظَ الله
 
 ***So good women are the obedient, guarding in secret that which Allah
 hath guarded. …..*** ***(Sura an- Nisa’, 4: 34)***
@@ -113,11 +105,7 @@ Prophet, “Consult with your companions. Don’t ignore them. Don’t ignore
 the Muslims. Respect their personalities. But deciding the programmes is
 your duty.”
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلىَ الله
-  </p>
-</blockquote>
+> فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلىَ الله
 
 ***…..And when thou art resolved, then put the trust in Allah. …..***
 ***(Sura Ali- Imran, 3:159)***
@@ -225,11 +213,7 @@ ten days. Therefore, we cannot insist on following strict laws and
 regulations in the day to day life! According to Quran, the best course
 is:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَ الْإِحْسان
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَ الْإِحْسان
 
 ***Indeed Allah enjoins justice and kindness…(Sura an-Nahl, 16: 90)***
 
@@ -327,5 +311,4 @@ will harm the household one day or the other!
 Although you are a Mu'min, you are worse than Shimr because you are too
 harsh and stubborn in enforcing the regulations. This attitude might
 render your pious wife and daughter rebellious sometime in the future.
-
 

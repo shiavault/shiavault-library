@@ -278,4 +278,3 @@ many chains of transmission.
 
 [^3]: Rooh (spirit of) al-Islam, p.292.
 
-

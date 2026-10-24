@@ -57,4 +57,3 @@ constantly so watch what you are doing and how you are doing.[^3]
 
 [^3]: Tuhaf al-‘Uqul, p. 455.
 
-

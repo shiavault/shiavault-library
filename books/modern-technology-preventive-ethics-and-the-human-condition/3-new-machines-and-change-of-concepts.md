@@ -20,4 +20,3 @@ the cell phone and the concept of “communication”, the internet and
 than my prefatory remarks in this paper where the focus is philosophical
 reflection on ethics and technology.
 
-

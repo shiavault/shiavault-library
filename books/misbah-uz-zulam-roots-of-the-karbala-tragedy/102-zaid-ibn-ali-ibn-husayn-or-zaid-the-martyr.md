@@ -28,4 +28,3 @@ to state that the matter of Zaid has no connection with the matter of
 the three Caliphs. The above objection of Ahlul Sunnat is not worth
 countering.
 
-

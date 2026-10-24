@@ -95,4 +95,3 @@ he kills him and lets someone else take the head and use it to seek
 favour with Ibn Ziyad. We have mentioned the story from Khawli only to
 follow in the footsteps of those who wrote about the Imam's martyrdom.
 
-

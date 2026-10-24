@@ -95,7 +95,6 @@ accompanied by Shah Shaheed in this journey.
 Dhil-Qa'dah 1246 H (6th May 1831 G) took place wherein Saiyid Sahib,
 Shah Shaheed and the majority of Mujdhidin attained their martyrdom.
 
-
 **A glimpse of his biography:**
 
 As far as we could understand by looking at his biography, Shah Shaheed
@@ -272,7 +271,6 @@ A Persian Mathnawi (long narrative poem) known as Silk-e-Noor (a thread
 of light) on the subject of Tauhid (The Oneness of Allah).
 An Urdu Mathnawi (long narrative poem) also on the subject of Tauhid.
 A Persian Mathnawi (long narrative poem) in explanation of a Hadith.
-
 
 **The history of Taqwiyat-ul-Iman**
 
@@ -485,7 +483,6 @@ understood and appreciated in terms of its importance and qualitative
 superiority in all the previous ages as much as it could be realized and
 appreciated during the present time of ours.
 
-
 **The orderly arrangement of Taqwiyat-ul-Iman**
 
 Prior to arranging Taqwiyat-ul-1man in an orderly shape, Shah Shaheed
@@ -644,7 +641,5 @@ And last but not least, our ultimate supplication is that the praise is
 to Allah, the Cherisher and Sustainer of the worlds, and our salutations
 and greetings to the Lord of all the Messengers.
 
-
 Ghulam Rasool Mehr
-
 

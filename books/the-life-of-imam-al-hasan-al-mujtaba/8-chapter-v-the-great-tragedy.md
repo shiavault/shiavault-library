@@ -883,4 +883,3 @@ hidden sadness, and he criticized the people for their usurping the
 rights of his father. We will explain that in the Time of the two
 Sheikhs.
 
-

@@ -110,4 +110,3 @@ coincidence.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 9, pg. 312
 
-

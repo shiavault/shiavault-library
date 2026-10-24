@@ -211,4 +211,3 @@ was qualified to take power, whilst the Banu Umayya possessed no such
 qualities. Is Abu Sulaiman going to suggest to us that no one in the
 entire Ummah was superior to Yazeed?
 
-

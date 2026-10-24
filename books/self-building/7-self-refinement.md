@@ -130,14 +130,10 @@ punishments.
 
 For example: Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر عليه السلام قال: لما خلق الله العقل استنطقه. ثم قال له:
-اقبل, فاقبل. ثم قال له: ادبر. فادبر ثم قال: قعزتى وجلالى! ما خلقت خلقا
-احب الى منك ولا اكملتك الا فيمن احب. اما انى اياك آمر واياك انهى واياك
-اثيب.
-  </p>
-</blockquote>
+> عن ابي جعفر عليه السلام قال: لما خلق الله العقل استنطقه. ثم قال له:
+> اقبل, فاقبل. ثم قال له: ادبر. فادبر ثم قال: قعزتى وجلالى! ما خلقت خلقا
+> احب الى منك ولا اكملتك الا فيمن احب. اما انى اياك آمر واياك انهى واياك
+> اثيب.
 
 *“When God Almighty created the reason, it was blessed with the power of
 speech. Then it was ordered by Him to come and it obeyed; then it was
@@ -151,33 +147,21 @@ the rewards and punishment accordingly.”*[^2]
 
 Also the Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ كَذَٰلِكَ يُبَيِّنُ اللَّهُ
-  </p>
-</blockquote>
+> لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ كَذَٰلِكَ يُبَيِّنُ اللَّهُ
 
 ***“Thus, God expoundeth unto you His revelations so that ye may
 understand. (2:242)***
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
-بِهَا
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
+> بِهَا
 
 ***“Have they not traveled in the land, and have they hearts wherewith
 to feel and ears wherewith to hear.”the Holy- Qur’an (22:46)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَعْقِلُونَ إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ
-الَّذِينَ لَا
-  </p>
-</blockquote>
+> يَعْقِلُونَ إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ
+> الَّذِينَ لَا
 
 ***“Lo! The worst of beasts in God's Sight are the deaf, the dumb, who
 have no sense. (8: 22)***
@@ -187,11 +171,7 @@ discovering the realities are introduced by God-Almighty in the Holy
 Qur’an in the category of beasts and even worst than them, be cause they
 have not used their minds. God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَيَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لَا يَعْقِلُونَ
 
 ***“…He hath set uncleanness upon those who have no sense. (10:100)***
 
@@ -204,37 +184,25 @@ It is because of this reason that the reason has been praised in the
 Holy Qur’an and traditions e.g. Imam al-Sadiq (a.s.) replying to a
 beggar said:
 
-<blockquote dir="rtl">
-  <p>
-بعض اصحابنا رفعه الى ابي عبدالله عليه السلام قال: قلت له ما العقل؟
-قال: ما عبد به الرحمان واكتسب به الجنان.
-  </p>
-</blockquote>
+> بعض اصحابنا رفعه الى ابي عبدالله عليه السلام قال: قلت له ما العقل؟
+> قال: ما عبد به الرحمان واكتسب به الجنان.
 
 *“It is because of the existence of reason that God-Almighty gets
 worshipped, and one makes his entry into Paradise.”*[^3]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: من كان عاقلا كان له دين ومن كان له دين
-دخل الجنة.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: من كان عاقلا كان له دين ومن كان له دين
+> دخل الجنة.
 
 *“Whoever is wise and intelligent possesses religion, and whoever has
 religion will enter into the Paradise.”*[^4]
 
 Imam al-Kadhim (a.s.) said to Hasham:
 
-<blockquote dir="rtl">
-  <p>
-قال ابوالحسن موسى بن جعفر عليه السلام (في حديث): يا هشام! ان الله على
-الناس حجتين: حجة ظاهرة وحجة باطنة فاما الظاهرة فالرسل والانبيا
-والايمه. واما الباطنة بالعقول.
-  </p>
-</blockquote>
+> قال ابوالحسن موسى بن جعفر عليه السلام (في حديث): يا هشام! ان الله على
+> الناس حجتين: حجة ظاهرة وحجة باطنة فاما الظاهرة فالرسل والانبيا
+> والايمه. واما الباطنة بالعقول.
 
 *“God-Almighty has blessed the human beings with two proofs:*
 
@@ -244,54 +212,34 @@ within our existence.”*[^5]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابوعبدالله عليه السلام: اكمل الناس عقلا احسنهم خلقا
-  </p>
-</blockquote>
+> قال ابوعبدالله عليه السلام: اكمل الناس عقلا احسنهم خلقا
 
 *“The most perfect human beings from the point of view of reason are
 those who are the best in moral conduct.”*[^6]
 
-<blockquote dir="rtl">
-  <p>
-قال ابوعبدالله عليه السلام: العقل دليل المؤمن
-  </p>
-</blockquote>
+> قال ابوعبدالله عليه السلام: العقل دليل المؤمن
 
 *“The reason is the guide of a believer.”*[^7]
 
 Imam al-Ridha’ [^8] (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا عليه السلام: صديق كل امر عقلة وعدوه جهله.
-  </p>
-</blockquote>
+> قال الرضا عليه السلام: صديق كل امر عقلة وعدوه جهله.
 
 *“The reason is the friend of everyone and the ignorance is his
 enemy.”*[^9]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين (ع): اعجاب المر بنفسه دليل على ضعف عقله
-  </p>
-</blockquote>
+> قال امير المؤمنين (ع): اعجاب المر بنفسه دليل على ضعف عقله
 
 *“Egotism of a person is the indication of his wisdom's weakness.”*[^10]
 
 Imam al-Kadhim (a.s.) said to Hasham:
 
-<blockquote dir="rtl">
-  <p>
-قال موسى بن جعفرعليه السلام: يا هشام! من اراد الغنى بالامل وراحة القلب
-من الحسد السلامة في الدين فليتضرع الى الله في مسالته بان يكمل عقلة.
-فمن عقل قنع بما يكفيه ومن قنع بما يكفيه استغنى ومن لم يقنع بما يكقيه
-لم يدرك الغنى ابدا.م.
-  </p>
-</blockquote>
+> قال موسى بن جعفرعليه السلام: يا هشام! من اراد الغنى بالامل وراحة القلب
+> من الحسد السلامة في الدين فليتضرع الى الله في مسالته بان يكمل عقلة.
+> فمن عقل قنع بما يكفيه ومن قنع بما يكفيه استغنى ومن لم يقنع بما يكقيه
+> لم يدرك الغنى ابدا.م.
 
 *“Whoever desires to become contented without possessing health, a
 tranquil heart free from jealousy and soundness in religion must cry
@@ -303,12 +251,8 @@ wants.”*[^11]
 
 Imam al Kadhim (a.s.) [^12]said:
 
-<blockquote dir="rtl">
-  <p>
-قال موسى بن جعفر عليه السلام: يا هشام! ان العقلا تركوا فضول الدنيا,
-فكيف الذنوب, وترك الدنيا من الفضل وترك الذنوب من الفرض.
-  </p>
-</blockquote>
+> قال موسى بن جعفر عليه السلام: يا هشام! ان العقلا تركوا فضول الدنيا,
+> فكيف الذنوب, وترك الدنيا من الفضل وترك الذنوب من الفرض.
 
 *“A wise person avoids even extra worldly-affairs what to say about
 sins, while quitting extra worldly-affairs is optional and avoiding of
@@ -316,24 +260,16 @@ sins is mandatory.”*[^13]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال موسى بن جعفر (ع): يا هشام! ان العقال لا يكذب وان كان فيه هواه.
-  </p>
-</blockquote>
+> قال موسى بن جعفر (ع): يا هشام! ان العقال لا يكذب وان كان فيه هواه.
 
 *“A wise person will never tell a lie, even if his self is tempted to do
 so.”*[^14]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال موسى بن جعفر عليه السلام: يا هشام! لا دين لمن لامروة له ولامروة
-لمن لا عقل له وان اعطهم الناس قدر الذى لا يرى الدنيا لنفسه خطرا. اما
-ان ابدانكم ليس لها ثمن الا الجنة فلا تبيعوها بغيرها.
-  </p>
-</blockquote>
+> قال موسى بن جعفر عليه السلام: يا هشام! لا دين لمن لامروة له ولامروة
+> لمن لا عقل له وان اعطهم الناس قدر الذى لا يرى الدنيا لنفسه خطرا. اما
+> ان ابدانكم ليس لها ثمن الا الجنة فلا تبيعوها بغيرها.
 
 *“Whoever lacks compassion does not have religion; whoever lacks wisdom
 does not have compassion; the most valuable person is the one who does
@@ -388,46 +324,30 @@ consideration that Islam encourages us to think about the ultimate
 consequences of our actions. e.g.: Commander of the Faithful Imam ‘Ali
 (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-كان امير المؤمنين عليه السلام يقول: نبه بالتفكر قلبك.
-  </p>
-</blockquote>
+> كان امير المؤمنين عليه السلام يقول: نبه بالتفكر قلبك.
 
 *“By means of pondering deeply, make your heart aware and
 knowledgeable.”*[^16]
 
 Also said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: ان التفكر يدعو الى البر والعمل به.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: ان التفكر يدعو الى البر والعمل به.
 
 *“Pondering invites a person towards good works and actions.”*[^17]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: التدبير قبل العمل يؤمنك من الندم.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: التدبير قبل العمل يؤمنك من الندم.
 
 *“Thinking about the ultimate consequences before action makes you safe
 against feeling sorry later on.”*[^18]
 
 A man approached the Holy Prophet (S) and asked him:
 
-<blockquote dir="rtl">
-  <p>
-ان رجلا اتى رسول الله صلى الله عليه وآله فقال: يا رسول الله اوصنى.
-فقال له: فهل انت مستوص ان اوصيتك؟ حتى قال ذالك ثالثا في كلها يقول
-الرجل: نعم يا رسول الله, فقال له رسول الله: فانى اوصيك اذا هممت بامر,
-فتدبر عاقبته, فان يك رشدا فامضه وان يك غيا فانته عنه.
-  </p>
-</blockquote>
+> ان رجلا اتى رسول الله صلى الله عليه وآله فقال: يا رسول الله اوصنى.
+> فقال له: فهل انت مستوص ان اوصيتك؟ حتى قال ذالك ثالثا في كلها يقول
+> الرجل: نعم يا رسول الله, فقال له رسول الله: فانى اوصيك اذا هممت بامر,
+> فتدبر عاقبته, فان يك رشدا فامضه وان يك غيا فانته عنه.
 
 *“Oh Messenger of God! Please advise me.*
 
@@ -443,23 +363,15 @@ it.”*[^19]
 
 Also, he said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: انما اهلك الناس العجلة ولو ان الناس
-تشبتوا لم يهلك احد.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: انما اهلك الناس العجلة ولو ان الناس
+> تشبتوا لم يهلك احد.
 
 *“People were ruined because of being hasty. If they would have pondered
 about their actions none of them would have been ruined.”*[^20]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: الاناة من الله العجلة من الشيطان.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: الاناة من الله العجلة من الشيطان.
 
 *“Delay and thinking about the consequences are blessings from
 God-Almighty while haste is from Shaitan.”*[^21]
@@ -467,11 +379,7 @@ God-Almighty while haste is from Shaitan.”*[^21]
 The following has been quoted from a tradition by the Infallible Imams
 (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-واروى: التكفر مرآتك ترايك سيأتك وحسناتك
-  </p>
-</blockquote>
+> واروى: التكفر مرآتك ترايك سيأتك وحسناتك
 
 *“Pondering is like a mirror which shows your goodness and
 evilness.”*[^22]
@@ -510,12 +418,8 @@ able to discover his psychic diseases, because, after all, one is more
 knowledgeable about his ownself as compared to others. God-Almighty has
 said:
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ وَلَوْ أَلْقَىٰ
-مَعَاذِيرَهُ
-  </p>
-</blockquote>
+> بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ وَلَوْ أَلْقَىٰ
+> مَعَاذِيرَهُ
 
 ***“Oh! But man is telling witness against himself, although he tenders
 his excuses. (75:14-15)***
@@ -527,12 +431,8 @@ imperious-self (*nafse-ammarah*) makes the animalistic passions so
 charming, attractive, and appealing before our eyes that the evil deeds
 committed by us appears as virtuous acts. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا ۖ فَإِنَّ اللَّهَ
-يُضِلُّ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ
-  </p>
-</blockquote>
+> أَفَمَن زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا ۖ فَإِنَّ اللَّهَ
+> يُضِلُّ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ
 
 ***“Is he, the evil of whose deeds is made fair-seeming unto him so that
 he deemeth it good, (other than Satan's dupe)” God verily sendeth whom
@@ -546,24 +446,16 @@ we possess vices, plenty of diseases, and with this reality should
 investigate the self. The Commander of the Faithful Imam ‘Ali (a.s.) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ان المؤمن لايصبح ولايمسى الا ونفسه ظنون عنده فلا
-يزال زاريا عليها ومستزيدا لها.
-  </p>
-</blockquote>
+> قال على عليه السلام: ان المؤمن لايصبح ولايمسى الا ونفسه ظنون عنده فلا
+> يزال زاريا عليها ومستزيدا لها.
 
 *“A believer is continuously pessimistic about his self, always
 criticizes, and demands better deeds from him.”*[^23]
 
 In praising the characteristics of the pious, he said:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): فهم لانفسهم متهمون ومن اعمالهم مشفقون واذاذكى احد منهم
-خال مما يقال له فيقول: انا اعلم بنفسى من غيرى وربـى اعلم منى بنفسى.
-  </p>
-</blockquote>
+> قال على (ع): فهم لانفسهم متهمون ومن اعمالهم مشفقون واذاذكى احد منهم
+> خال مما يقال له فيقول: انا اعلم بنفسى من غيرى وربـى اعلم منى بنفسى.
 
 *“Their souls before them are always blamed' and criticized and they are
 always afraid of their deeds. While one of them is being praised, he is
@@ -657,11 +549,7 @@ the greatest services for us.
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: احب اخوانى الى عيوبى.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: احب اخوانى الى عيوبى.
 
 *“The one who points out my faults to me is my best brother.”*[^25]
 
@@ -683,11 +571,7 @@ this manner he could learn a lesson from the faults of other people, in
 continuation of his efforts for achieving self-refinement. The Holy
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: السعيد من وعظ بغيره.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: السعيد من وعظ بغيره.
 
 *“Fortunate is the one who learns a lesson from the faults of
 others.”*[^26]
@@ -798,11 +682,7 @@ Don't you want to live with the people? Others do possess the same
 characteristics, look at Mr. so and so, they all possess the some
 characteristics even greater than yours. Do you alone want to be good?
 
-<blockquote dir="rtl">
-  <p>
-خواهي نشوی رسوا همرنگ جماعت باش.
-  </p>
-</blockquote>
+> خواهي نشوی رسوا همرنگ جماعت باش.
 
 *“If you don't want to be insulted then better join the crowd.”*
 
@@ -950,23 +830,15 @@ because, it is opposed by a most powerful deceitful enemy called the
 imperious-self, who is not alone and is supported by many of his friends
 and partisans. God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
-  </p>
-</blockquote>
+> إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
 
 ***“The (human) soul is certainly prone to evil, unless my Lord do
 bestow His Mercy. (12:53)***
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: العقل والشهوة ضدان, ومؤيد العقل العلم ومؤيد
-والشهوة الهوى, والنفس متنازعة بينهما. فايهما قهر كانت في جانبه.
-  </p>
-</blockquote>
+> قال على عليه السلام: العقل والشهوة ضدان, ومؤيد العقل العلم ومؤيد
+> والشهوة الهوى, والنفس متنازعة بينهما. فايهما قهر كانت في جانبه.
 
 *“The reason and lust are opposite to each other; knowledge supports
 reason while the lust is supported by the passions and inordinate
@@ -976,12 +848,8 @@ self.”*[^27]
 
 And, he said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الشر كامن في طبيعة كل احد فان غلبه صاحبه بطن وان
-لم يغلبه ظهر.
-  </p>
-</blockquote>
+> قال على عليه السلام: الشر كامن في طبيعة كل احد فان غلبه صاحبه بطن وان
+> لم يغلبه ظهر.
 
 *“Evil and mischief are hidden inside every self; in case the master of
 self takes over his control, they remain hidden, but when opposite
@@ -997,12 +865,8 @@ objective that they had issued plenty of instructions to mankind. e.g.:
 
 The Commander of the Faithful Imam ' ‘Ali (a.s.) had said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اياكم وغلبة الشهوات على قلوبكم فان بدايتها ملكة
-ونهايتها هلكة.
-  </p>
-</blockquote>
+> قال على عليه السلام: اياكم وغلبة الشهوات على قلوبكم فان بدايتها ملكة
+> ونهايتها هلكة.
 
 *“Be careful! Passions do not take over control of your hearts; because
 in the beginning they will take you as their possessions, and will ruin
@@ -1010,34 +874,22 @@ you eventually.”*[^29]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من لم يملك شهوته لم يملك عقله.
-  </p>
-</blockquote>
+> قال على عليه السلام: من لم يملك شهوته لم يملك عقله.
 
 *“Whoever does not take possession of his passions and desires will not
 be the master of his reason either.”*[^30]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): غلبة الشهوة اعظم هلك وملكها اشرف ملك.
-  </p>
-</blockquote>
+> قال على (ع): غلبة الشهوة اعظم هلك وملكها اشرف ملك.
 
 *“The domination of passions is the -worst kind of catastrophe, and
 triumph over them is -one of the most precious possessions.”*[^31]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: من ملك نفسه اذا رغب واذا رهب واذا اشتهى واذا
-غضب واذا رضى حرم الله جسده على النار.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: من ملك نفسه اذا رغب واذا رهب واذا اشتهى واذا
+> غضب واذا رضى حرم الله جسده على النار.
 
 *“Whoever at the time of seduction, fear, lust, wrath, and consent, is
 in control of his self; God-Almighty will make the Hell' s fire
@@ -1045,12 +897,8 @@ forbidden for his body.”*[^32]
 
 The Commander of the Faithful Imam ' ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: غالبوا انفسكم على ترك المعاصى يسهل عليكم مقادتها
-الى الطاعات.
-  </p>
-</blockquote>
+> قال على عليه السلام: غالبوا انفسكم على ترك المعاصى يسهل عليكم مقادتها
+> الى الطاعات.
 
 *“Take control of your self and do not allow him to indulge in sins, so
 that it is easier to guide him towards worships.”*[^33]
@@ -1071,12 +919,8 @@ subdued eventually.
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اذا صعب عليك نفسك فاصعب لها تذل لك وخادع نفسك عن
-نفسك تنقد لك.
-  </p>
-</blockquote>
+> قال على عليه السلام: اذا صعب عليك نفسك فاصعب لها تذل لك وخادع نفسك عن
+> نفسك تنقد لك.
 
 *“lf self showed stubbornness and did not surrender against you, then
 deal harshly till be becomes tame. Act deceitfully against him until
@@ -1084,12 +928,8 @@ becomes obedient.”*[^34]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الشهوات اعلال قاتلات افضل دوائها اقتنا الصبر
-عنها.
-  </p>
-</blockquote>
+> قال على عليه السلام: الشهوات اعلال قاتلات افضل دوائها اقتنا الصبر
+> عنها.
 
 *“Lusts and passions of self are most fatal diseases, and the best
 medicines are patience and perseverance against them.”*[^35]
@@ -1213,5 +1053,4 @@ exceptions of Imam al-Baqir (a.s.) and al-Sadiq (a.s.) [Tr].
 [^34]: Ghirar al-Hukm, vol. 1, p-319.
 
 [^35]: Ghirar al-Hukm, vol. 1, p-72.
-
 

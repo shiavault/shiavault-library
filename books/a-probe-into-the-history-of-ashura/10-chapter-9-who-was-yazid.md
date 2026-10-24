@@ -46,4 +46,3 @@ pressed Imam Husayn to take the oath of allegiance i.e. to acknowledge
 him to be the lawful successor of his (i.e. Imam Husayn's) grandfather,
 the Prophet of Allah.
 
-

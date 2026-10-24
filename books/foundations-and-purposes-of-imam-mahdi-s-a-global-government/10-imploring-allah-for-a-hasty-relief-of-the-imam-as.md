@@ -146,7 +146,6 @@ Nabata narrated:
 The Leader of the faithful (AS) said, "The master of this kingdom is
 the forsaken, the deserted, and the lonely one."[^66]
 
-
 **Conclusion**
 
 In this work, we have shown that the existence of al-Badaa plays a
@@ -331,5 +330,4 @@ Hadith 15; Bihar al-Anwar, v52, p118, Hadith 46.
 [^69] Nahj al-Balagha, Sermon 189/190.
 [^70] Mafatih al-Jinan, around the end of the book, under Du'aa in the
 absence of the Imam (AS); Bihar al-Anwar, v53, p187, Hadith 18.
-
 

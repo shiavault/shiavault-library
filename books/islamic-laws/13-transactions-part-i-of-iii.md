@@ -890,4 +890,3 @@ buyer can cancel the transaction.
 **Issue 2149:** Swearing in the matter of transaction is Makrooh, if it
 is true, and haraam, if it is false.
 
-

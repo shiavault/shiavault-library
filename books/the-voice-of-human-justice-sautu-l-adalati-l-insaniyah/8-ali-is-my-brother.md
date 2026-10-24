@@ -310,4 +310,3 @@ might become aware that it was not utilized by the Prophet's Family, and
 was collected only to assist the indigent persons and to meet common
 needs of the Muslims
 
-

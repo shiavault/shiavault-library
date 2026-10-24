@@ -396,11 +396,7 @@ should it not be forbidden? Does it not destroy the humanity of man? If
 certain people create an atmosphere in society that keeps the people
 away from religion, should they be free?
 
-<blockquote dir="rtl">
-  <p>
-﴿وَصَدٌّ عَن سَبِيلِ اللّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ﴾
-  </p>
-</blockquote>
+> ﴿وَصَدٌّ عَن سَبِيلِ اللّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ﴾
 
 ***“But to keep [people] from Allah’s way, and to be unfaithful to Him,
 and [to keep people from] the Holy Mosque.”***[^6]
@@ -434,12 +430,8 @@ arguments, which one should be given preeminence over the
 other—religious interests or worldly interests? For us religious
 interests are preeminent, as stated in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَاِنْ عَرَضَ بَلاءٌ فَقَدِّمْ مالَكَ دُونَ نَفْسِكَ، فَاِنْ
-تَجَاوَزَ البَلاءُ فَقَدِّمْ مالَكَ وَ نَفْسَكَ دُونَ دِينِكَ﴾
-  </p>
-</blockquote>
+> ﴿فَاِنْ عَرَضَ بَلاءٌ فَقَدِّمْ مالَكَ دُونَ نَفْسِكَ، فَاِنْ
+> تَجَاوَزَ البَلاءُ فَقَدِّمْ مالَكَ وَ نَفْسَكَ دُونَ دِينِكَ﴾
 
 ***If your life is in danger, sacrifice your property for your life. If
 you have to choose, between remaining alive in unbelief and being slain
@@ -447,11 +439,7 @@ in faith, sacrifice your life and property for religion*****.**[^7]
 
 At this point, if man is killed, there is nothing wrong.
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ هَلْ تَرَبَّصُوْنَ بِنا الاّ اِحْدَى الْحُسْنَيَيْنِ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ هَلْ تَرَبَّصُوْنَ بِنا الاّ اِحْدَى الْحُسْنَيَيْنِ﴾
 
 ***“Say, ‘Do you await anything to befall us except one of the two
 excellences?**’”*[^8]
@@ -522,5 +510,4 @@ own country and to leave and return at will). [Trans.]
 [^7]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah, vol. 8, p. 250.
 
 [^8]: Surah at-Tawbah 9:52.
-
 

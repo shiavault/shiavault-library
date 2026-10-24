@@ -14,11 +14,7 @@ The Charisma of the Shaykh's Sayings
 
 Imam Ali (a) has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-ان على كلّ حقِّ حقيقة، وعلى كل صواب نوراُ
-  </p>
-</blockquote>
+> ان على كلّ حقِّ حقيقة، وعلى كل صواب نوراُ
 
 "Together with every righteous affair there is a truth, and with every
 correct matter, a light"[^1]
@@ -214,15 +210,11 @@ cannot be explained and described to most of the people. In this
 respect, a beautiful *hadith* is quoted from Imam al-Sadiq (a) as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-"لايقدر الخلائق على كنه صفة الله عز وجل، فكما لايُقدر على كنه صفة الله
-عز وجل فكذلك لايقدر على كنه صفة رسول الله –صلى الله عليه وآله- وكما
-لايقدر على كنه صفة الرسول –ص- فكذلك لايقدر على كنه صفة الامام – عليه
-السلام- وكما لايقدر على كنه صفة الامام -ع- كذلك لايقدر على كنه صفة
-المؤمن"
-  </p>
-</blockquote>
+> "لايقدر الخلائق على كنه صفة الله عز وجل، فكما لايُقدر على كنه صفة الله
+> عز وجل فكذلك لايقدر على كنه صفة رسول الله –صلى الله عليه وآله- وكما
+> لايقدر على كنه صفة الرسول –ص- فكذلك لايقدر على كنه صفة الامام – عليه
+> السلام- وكما لايقدر على كنه صفة الامام -ع- كذلك لايقدر على كنه صفة
+> المؤمن"
 
 "Masses are unable of perceiving the innermost core of Almighty Allah's
 (s) Attributes, and as they are unable of accessing the essence of
@@ -275,5 +267,4 @@ will be known."
 [^4]: Ibid, XXII, 348.
 
 [^5]: Mizan al-Hikmah, I, 390: 1400.
-
 

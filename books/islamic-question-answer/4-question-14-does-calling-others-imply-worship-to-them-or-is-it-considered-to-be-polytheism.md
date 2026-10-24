@@ -153,7 +153,6 @@ be talked about a its proper place.
 (Mo'min :60)
 (Jinn :18)
 
-
 **Question 15 : What is Badaa', and why do the Shi'ahs believe in
 it?**
 
@@ -173,7 +172,6 @@ his life.
 
 That is why the Holy Quran expresses this truth in the form of an
 all-inclusive and abiding principle, as follows:
-
 
 **Question 16 : Do the Shia believe in the distortion of the Quran?**
 
@@ -485,7 +483,6 @@ interpretation of sura Ahzab. same as above.
 Eltekan, vol.1 p.67 Al-Dor Al-Manthur, vol.5 p.180 at the beginning of
 the interpretation of sura Ahzab.
 
-
 **Question 17 : What is the opinion of the Shia regarding the
 companions?**
 
@@ -567,7 +564,6 @@ These are the ones whom the eternal verses of the Quran, extolls, by
 mentioning them as the founders of the stronghold of Islam's power and
 prestige. Let us refer to some of these verses of the divine book
 regarding this group of companions:
-
 
 The first pioneers:
 
@@ -715,5 +711,4 @@ Jamea Al-Usool, vol. 11 p.12. Hadith 7973
 
 For further explanation, refer to the commentary of the holy Quran ,
 Sura Munafiqun.
-
 

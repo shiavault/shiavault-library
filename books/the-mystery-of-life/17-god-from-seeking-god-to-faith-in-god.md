@@ -53,9 +53,7 @@ and then their idol while performing the Haj pilgrimage.
 e) The Holy Qur’an has also pointed out that Arabs thought idols would
 provide them with intercession with God:
 
-<p dir="rtl">
 و يقولون هولاء شفعانا عندالله
-</p>
 
 ***“They say´ These are our intercessors with God. “ (10:18)***
 
@@ -228,17 +226,11 @@ of our receptions will be confined to natural appearances; only if we
 can step far beyond these superficial causes may we find God, the direct
 truth behind all events:
 
-<p dir="rtl">
 بی سبب بيند چو ديـده شـد گذار تو که در حبسی، سبب را گوش دار
-</p>
 
-<p dir="rtl">
 با سببــــها از مسبـّـب غافلــی سـوی اين روپوشـها زآن مايلــی
-</p>
 
-<p dir="rtl">
 هين ز سايه شخص را ميکن طلب در مسبــب رو گذر کـن از سبب
-</p>
 
 *(Those who have made great effort in life and succeeded in ignoring the
 pleasures of natural life, stepping beyond their natural self, achieve
@@ -263,13 +255,9 @@ Our theoretical intelligence sometimes pays attention only to
 superficial reasons, failing to penetrate deep into the mysterious ways
 the universe works.
 
-<p dir="rtl">
 اين سبــب را محـرم آمد عقــل ما و آن سبـبها راسـت محـــرم انبيا
-</p>
 
-<p dir="rtl">
 وآن سببــها کانبيـا را رهبــر است آن سببها زين سبـبها برتـر است
-</p>
 
 *(It is indeed the very hidden causes that guide prophets on their
 mission. By contact with these causes, they can perform miracles in this
@@ -319,9 +307,7 @@ perfection reasoning. Here, existence arises from essentiality. This
 reasoning has roots in Islamic prayers and hadith. As the Sabah prayer
 by Imam Ali reads:
 
-<p dir="rtl">
 يا من دلّ علی ذاته بذاته
-</p>
 
 *“O God, the God Whose nature is itself a reason for the existence of
 His nature.”*
@@ -329,9 +315,7 @@ His nature.”*
 And let us quote from Imam Zain-ul-abedin in the Abu Hamzeh Thumali
 prayer:
 
-<p dir="rtl">
 بک عرفتک و انت دللتنی عليک و لو لا انت ما ادر ما انت
-</p>
 
 *“I discovered You through You Yourself; You reasoned me toward
 Yourself. If not for You, how could I ever know You?”*
@@ -533,9 +517,7 @@ can harness his lusts and desires.
 7- Such a man will realize that every action of his in this world leads
 to reactions.
 
-<p dir="rtl">
 اين جهان کوه است و فعل ما ندا ســوی ما آيـــد نداها را صــدا
-</p>
 
 *(This world is like a mountain, and our actions are shouts; their
 reactions come back to us.)*
@@ -632,9 +614,7 @@ in fact, provide man with awareness of himself, which leads to awareness
 about the universe, and eventually development on the path of
 intelligible life. As Iqbal Lahouri says:
 
-<p dir="rtl">
 چيست دين؟ برخاستن از روی خاک تا که آگه گـردد از خود جان پــاک
-</p>
 
 *(What is religion? It is rising from the earth - this world - so that
 you can be aware of your pure soul.)*
@@ -809,13 +789,9 @@ existence will illuminate. The tranquility that remembering God creates
 in man will balance his entire existence. As Jalal-addin Muhammad Molawi
 (Rumi) says:
 
-<p dir="rtl">
 اين قـــدر گفتيـم، باقی فکر کن فکر گر راکد بود، رو ذکـــر کن
-</p>
 
-<p dir="rtl">
 ذکـــر آرد فکـر را در اهتـــزاز ذکر را خورشيد اين افسرده ساز
-</p>
 
 *(Now go and think about the rest, and if your thoughts lead nowhere,
 remember God and call out for him, for that will elevate your thoughts.
@@ -1151,17 +1127,11 @@ material at hand on the subject is also mere personal ideas or literary
 metaphors that satisfy just a few. As the famous Iranian poet Sheikh
 Mahmoud Shabestari says,
 
-<p dir="rtl">
 عدم آيينه، عالم عکــس و انســان چو چشم عکس در وی شخص پنهان
-</p>
 
-<p dir="rtl">
 تو چشم عکسی و او نـور ديده است به ديده ديده، را ديده که ديـده است؟
-</p>
 
-<p dir="rtl">
 جهان انسان شد و انسـان جهانــی از اين پاکيــزهتر نبــود بيـــــانی
-</p>
 
 *(Absent is the mirror, and the universe is like a reflection. Someone
 is hidden in him, like the eye of the reflection. You are the eye of the
@@ -1200,9 +1170,7 @@ and the universe. We can categorize them into ten groups:
 1- Surrounding: The Qur’an believes that God surrounds and dominates
 everything, material or abstract.
 
-<p dir="rtl">
 و کان الله بکل شی محيطا
-</p>
 
 ***“And God encompasses everything.”(4:126)***
 
@@ -1213,9 +1181,7 @@ existence, like the human soul which controls its entire actions.
 God has established the universe, like man's existence is founded upon
 his soul.
 
-<p dir="rtl">
 الله لا اله الا هو الحی القيوم
-</p>
 
 ***“God, there is no god but He, the Living, the Everlasting.”
 (2:255)***
@@ -1224,18 +1190,14 @@ his soul.
 physically near; it is a relationship of soul with physique, far beyond
 time and place.
 
-<p dir="rtl">
 و هو معکم اينما کنتم
-</p>
 
 ***“He is with you, wherever you are.” (20:111)***
 
 4- Creation and Production: Various verses in the Qur’an refer to this
 form of relation:
 
-<p dir="rtl">
 لا اله هو خالق کل شی فاعبدوه
-</p>
 
 ***“That then is God your Lord; there is no God but He, the creator of
 everything. So serve Him.”( 6:102)***
@@ -1251,9 +1213,7 @@ normally people think that God has created everything and then left them
 on their own, whereas God is always protective of the universe and
 everything in it.
 
-<p dir="rtl">
 ان ربی علی کل شی حفيظ
-</p>
 
 ***“Verily, my Creator and Nurturer is the Protector over all things.”
 (11:57)***
@@ -1267,9 +1227,7 @@ is God's will that makes events continue in a fixed, orderly fashion.
 7- Creation and Nurture: Over 1000 verses in the Qur’an emphasize this
 form of relationship.
 
-<p dir="rtl">
 و هو رب کل شی
-</p>
 
 ***“And He is the Creator-Nurturer of everything.” (6:64)***
 
@@ -1278,9 +1236,7 @@ dominates and takes care of its creations.
 
 8- Worship: Everything worships God.
 
-<p dir="rtl">
 ان کل من فی السموات و الارض الا اتی الرحمن عبدا
-</p>
 
 ***“Nothing is there in the heavens and earth but it comes to the
 All-merciful as a servant. “ (19:93)***
@@ -1290,9 +1246,7 @@ Here, worship means complete submission of all creatures to God's will.
 9- Divinity: God is the absolute dominant upon all levels and basics of
 the universe.
 
-<p dir="rtl">
 فسبحان الذی بيده ملکوت کل شی و اليه ترجعون
-</p>
 
 ***“So glory be to Him, in whose hand is the dominion of everything, and
 unto whom you shall be returned.” (36:83)***
@@ -1311,9 +1265,7 @@ the fundamentals of the universe.
 
 10- Light: As the Holy Qur’an says:
 
-<p dir="rtl">
 الله نور السموات و الارض
-</p>
 
 ***“God is the light of the heavens and the earth.”( 24:35)***
 
@@ -1322,5 +1274,4 @@ control over the whole universe. God exists in the universe,
 illuminating it without becoming connected or united with it, just like
 light which penetrates into transparent things without becoming part of
 them.
-
 

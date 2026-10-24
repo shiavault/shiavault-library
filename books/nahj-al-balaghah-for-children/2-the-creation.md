@@ -12,4 +12,3 @@ or the assistance of a helper.
 
 (Sermon 155)
 
-

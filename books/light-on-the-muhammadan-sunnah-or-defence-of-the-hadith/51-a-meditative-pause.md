@@ -1,10 +1,6 @@
 A Meditative Pause:
 ===================
 
-  
-  
-  
-
 I see it necessary here to make a short pause for making known the
 perplexity afflicting me while citing the reports about this collecting
 (of the Qur'an) and that much of contradiction they imply. One report
@@ -64,7 +60,7 @@ about riwayah and the
 troubles it caused for hadith, which is relevant to the theme of my book
 "in every place there is a trace of Tha'labah."!
 
-In his book al-Tibyan, <span id="_anchor_466"></span>466  while
+In his book al-Tibyan, 466  while
 discussing the necessity of the tawatur of the Qur’an and the
 ambiguities it encountered on this way, al-Allamah Tahir al-Jaza'iri
 writes.
@@ -199,7 +195,7 @@ knowledge, the truth would not have necessarily been so.
 
 Al-Nasa'i, through a sahih chain, reported that Abd Allah ibn 'Amr said:
 I have collected the Qur’an and used to read it wholly every night.
-<span id="_anchor_467"></span>467  When this news reached the Prophet
+467  When this news reached the Prophet
 (S), he said to him: Read it through a month (the hadith).
 
 Ibn Abi Dawud, through a hasan chain, reported that Muhammad ibn Ka'b

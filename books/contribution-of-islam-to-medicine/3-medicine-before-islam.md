@@ -182,4 +182,3 @@ care of charitable organizations. Very few hospitals in the Islamic era
 were private. Thus, patients fees constituted an unimportant source of
 funding.
 
-

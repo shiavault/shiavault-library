@@ -245,4 +245,3 @@ them.
 
 [^2]: Bihar al-Anwar, IV, p. 143.
 
-

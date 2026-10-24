@@ -15,4 +15,3 @@ justice in the world of Islam, and I pray it will be accepted.
 
 The Author
 
-

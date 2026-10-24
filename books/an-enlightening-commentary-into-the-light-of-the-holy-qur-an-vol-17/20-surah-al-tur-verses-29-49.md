@@ -4,17 +4,9 @@ Surah al-Tur, Verses 29 - 49
 Surah al-Tur - Verses 29-30
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ فَمَا أنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَآ مَجْنُونٍ
-  </p>
-</blockquote>
+> فَذَكِّرْ فَمَا أنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَآ مَجْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-أمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ
-  </p>
-</blockquote>
+> أمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ
 
 ***29. Thus, remind [people] that by the Grace of Allah, you are neither
 a soothsayer, nor a madman.***  
@@ -71,17 +63,9 @@ faith.
 Surah al-Tur - Verses 31-32
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُم مِّنَ الْمُتَرَبِّصِينَ
-  </p>
-</blockquote>
+> قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُم مِّنَ الْمُتَرَبِّصِينَ
 
-<blockquote dir="rtl">
-  <p>
-أمْ تَأمُرُهُمْ أحْلَآمُهُم بِهَذَا أمْ هُمْ قَوْمٌ طَاغُونَ
-  </p>
-</blockquote>
+> أمْ تَأمُرُهُمْ أحْلَآمُهُم بِهَذَا أمْ هُمْ قَوْمٌ طَاغُونَ
 
 ***31. Say [O Muhammad SAW unto them]: “Wait! I am with you among the
 waiters! [You await my death and I await triumph over you.]”***  
@@ -106,17 +90,9 @@ desires.
 Surah al-Tur - Verses 33-34
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ يَقُولُونَ تَقَوَّلَهُ بَل لَآ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أمْ يَقُولُونَ تَقَوَّلَهُ بَل لَآ يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَأتُوا بِحَدِيثٍ مِّثْلِهِ إِن كَانُوا صَادِقِينَ
-  </p>
-</blockquote>
+> فَلْيَأتُوا بِحَدِيثٍ مِّثْلِهِ إِن كَانُوا صَادِقِينَ
 
 ***33. Or do they say: “He has forged it [the Holy Qur’an and has
 attributed it to God Almighty]?” Nay! [There is no such thing but the
@@ -134,17 +110,9 @@ convert because of their vile disposition of mind.
 Surah al-Tur - Verses 35-36
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أمْ هُمُ الْخَالِقُونَ
-  </p>
-</blockquote>
+> أمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أمْ هُمُ الْخَالِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-أمْ خَلَقُوا السَّمَاوَاتِ وَالْأرْضَ بَل لَآ يُوقِنُونَ
-  </p>
-</blockquote>
+> أمْ خَلَقُوا السَّمَاوَاتِ وَالْأرْضَ بَل لَآ يُوقِنُونَ
 
 ***35. Were they created out of nothing? Or were they themselves the
 creators?***  
@@ -183,11 +151,7 @@ Command.”
 Surah al-Tur - Verse 37
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ عِندَهُمْ خَزَائِنُ رَبِّكَ أمْ هُمُ الْمُصَيْطِرُونَ
-  </p>
-</blockquote>
+> أمْ عِندَهُمْ خَزَائِنُ رَبِّكَ أمْ هُمُ الْمُصَيْطِرُونَ
 
 ***37. Or are with them the treasures of your Lord? Or are they wield
 sway in this world?***
@@ -211,12 +175,8 @@ heavens on your own and may directly receive Divine Revelation?"
 Surah al-Tur - Verse 38
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأتِ مُسْتَمِعُهُم
-بِسُلْطَانٍ مُّبِينٍ
-  </p>
-</blockquote>
+> أمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأتِ مُسْتَمِعُهُم
+> بِسُلْطَانٍ مُّبِينٍ
 
 ***38. Or have they a stairway [leading to heaven] by means of which
 they listen [to secrets of the heavens]? If it is true, then their
@@ -244,11 +204,7 @@ statements.
 Surah al-Tur - Verse 39
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ
-  </p>
-</blockquote>
+> أمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ
 
 ***39. Or has He only daughters and you have sons?***
 
@@ -268,11 +224,7 @@ exposing the falsity of such baseless argument.
 Surah al-Tur - Verse 40
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ تَسْألُهُمْ أجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ
-  </p>
-</blockquote>
+> أمْ تَسْألُهُمْ أجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ
 
 ***40. Or is it that you ask a wage from them [for your Prophetic Call]
 so that they are burdened with a load of debt?***
@@ -304,11 +256,7 @@ excuses by those who find faults with everything.
 Surah al-Tur - Verse 41
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
-  </p>
-</blockquote>
+> أمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
 
 ***41. Or that the Unseen is with them and they write it down [on the
 Preserved Tablet]?***
@@ -329,11 +277,7 @@ claim is a gross lie.
 Surah al-Tur - Verse 42
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ يُرِيدُونَ كَيْدًا فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ
-  </p>
-</blockquote>
+> أمْ يُرِيدُونَ كَيْدًا فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ
 
 ***42. Or do they intend employ some stratagem to efface the truth? But
 those who disbelieve are themselves plotted against!***
@@ -355,11 +299,7 @@ Call.
 Surah al-Tur - Verse 43
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ لَهُمْ إِلَهٌ غَيْرُ اللَّهِ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> أمْ لَهُمْ إِلَهٌ غَيْرُ اللَّهِ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
 
 ***43. Or have they a god other than Allah? Glorified is Allah from all
 that they ascribe as partners [to Him].***
@@ -378,12 +318,8 @@ and is convinced.”
 Surah al-Tur - Verse 44
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يَرَوْا كِسْفًا مِّنَ السَّمَاء سَاقِطًا يَقُولُوا سَحَابٌ
-مَّرْكُومٌ
-  </p>
-</blockquote>
+> وَإِن يَرَوْا كِسْفًا مِّنَ السَّمَاء سَاقِطًا يَقُولُوا سَحَابٌ
+> مَّرْكُومٌ
 
 ***44. They are so obdurate that even if they see a piece of the heaven
 falling down, they would say: “Clouds gathered in heaps [but it is not
@@ -415,17 +351,9 @@ something else.
 Surah al-Tur - Verses 45-46
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَرْهُمْ حَتَّی يُلَآقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ
-  </p>
-</blockquote>
+> فَذَرْهُمْ حَتَّی يُلَآقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَآ يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَآ هُمْ يُنصَرُونَ
-  </p>
-</blockquote>
+> يَوْمَ لَآ يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَآ هُمْ يُنصَرُونَ
 
 ***45. Therefore leave them alone till they meet their Day in which they
 will be afflicted with Divine Wrath and lightning.***  
@@ -454,12 +382,8 @@ of torment.
 Surah al-Tur - Verse 47
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَلِكَ وَلَكِنَّ
-أكْثَرَهُمْ لَآ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَلِكَ وَلَكِنَّ
+> أكْثَرَهُمْ لَآ يَعْلَمُونَ
 
 ***47. And indeed, for those who do wrong, there is another chastisement
 besides this in this world or in purgatory; but most of them know
@@ -496,18 +420,10 @@ of the Noble Prophet (S) upon return.
 Surah al-Tur - Verses 48-49
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأعْيُنِنَا وَسَبِّحْ بِحَمْدِ
-رَبِّكَ حِينَ تَقُومُ
-  </p>
-</blockquote>
+> وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأعْيُنِنَا وَسَبِّحْ بِحَمْدِ
+> رَبِّكَ حِينَ تَقُومُ
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ
 
 ***48. Therefore, wait patiently for the Decision of your Lord for
 indeed you are under Our Eyes and Protection. Glorify the Praises of
@@ -559,5 +475,4 @@ morning, praying silently to our Maker, and a prolonged life.
 [^1]: Majma‘ al-Bayan, under 50:40.
 
 [^2]: Tafsir Qurtubi, under the blessed Verses in question.
-
 

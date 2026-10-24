@@ -38,7 +38,6 @@ nation in their practical life through complete adherence to the Book of
 Allah and the traditions of His generous Messenger (s.a.w.) as had been
 incarnated in Imam Ali Abi Talib (a.s.).
 
-
 Al-Balagh Foundation
 
 **THE IMAM AND THE CALIPH**
@@ -635,5 +634,4 @@ grave?"(134)
 This way of life adopted by Imam Ali (a.s.) represents a further aspect
 of the general social justice which he was very keen on embodying in the
 living practice of the life of the people.
-
 

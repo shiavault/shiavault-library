@@ -17,23 +17,11 @@ curbing the base traits and planting the sapling of virtue in his mind.
 Normally people struggle to make a smooth transformation in their
 natures.
 
-<blockquote dir="rtl">
-  <p>
-فَلَا اقْتَحَمَ الْعَقَبَةَ
-  </p>
-</blockquote>
+> فَلَا اقْتَحَمَ الْعَقَبَةَ
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا أَدْرَئكَ مَا الْعَقَبَةُ
-  </p>
-</blockquote>
+> وَ مَا أَدْرَئكَ مَا الْعَقَبَةُ
 
-<blockquote dir="rtl">
-  <p>
-فَكُّ رَقَبَة
-  </p>
-</blockquote>
+> فَكُّ رَقَبَة
 
 ***But he hath not attempted the ascent—***  
 ***Ah! what will convey unto thee what the Ascent is!—***  
@@ -51,13 +39,9 @@ mean traits in a person are also like the untrained elephant. Believe
 me, all the Prophets (s.a.) came to the world, with their books, for the
 sole purpose of guiding the people to curb their *nafse ammara!*
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِى بَعَثَ فىِ الْأُمِّيِّنَ رَسُولًا مِّنهُْمْ يَتْلُواْ
-عَلَيهِْمْ ءَايَتِهِ وَ يُزَكِّيهِمْ وَ يُعَلِّمُهُمُ الْكِتَبَ وَ
-الحِْكْمَة
-  </p>
-</blockquote>
+> هُوَ الَّذِى بَعَثَ فىِ الْأُمِّيِّنَ رَسُولًا مِّنهُْمْ يَتْلُواْ
+> عَلَيهِْمْ ءَايَتِهِ وَ يُزَكِّيهِمْ وَ يُعَلِّمُهُمُ الْكِتَبَ وَ
+> الحِْكْمَة
 
 ***He it is who hath sent among the unlettered ones a messenger of their
 own, to recite unto them His revelations and to make them grow, and to
@@ -86,29 +70,13 @@ traits can totally uproot a person.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْانسَنَ خُلِقَ هَلُوعًا
-  </p>
-</blockquote>
+> إِنَّ الْانسَنَ خُلِقَ هَلُوعًا
 
-<blockquote dir="rtl">
-  <p>
-إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
-  </p>
-</blockquote>
+> إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا مَسَّهُ الخَْيرُْ مَنُوعًا
-  </p>
-</blockquote>
+> وَ إِذَا مَسَّهُ الخَْيرُْ مَنُوعًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الْمُصَلِّين
-  </p>
-</blockquote>
+> إِلَّا الْمُصَلِّين
 
 ***Lo! Man was created anxious,***  
 ***Fretful when evil befalleth him***  
@@ -125,11 +93,7 @@ fickleness as a negative trait. Such persons get upset by minor things.
 There are also persons who have the trait of patience and forbearance.
 About them the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُوَفىَّ الصَّبرُِونَ أَجْرَهُم بِغَيرِْ حِسَاب
-  </p>
-</blockquote>
+> إِنَّمَا يُوَفىَّ الصَّبرُِونَ أَجْرَهُم بِغَيرِْ حِسَاب
 
 ***…Verily the steadfast will be paid their wages without stint.***
 ***(Sura az-Zumar, 39: 10)***
@@ -223,12 +187,8 @@ who had fasted the entire day. In addition, it was not that they went
 without food for only one day. They bore this hardship for three
 consecutive days!
 
-<blockquote dir="rtl">
-  <p>
-وَ يُطْعِمُونَ الطَّعَامَ عَلىَ‏ حُبِّهِ مِسْكِينًا وَ يَتِيمًا وَ
-أَسِيرًا
-  </p>
-</blockquote>
+> وَ يُطْعِمُونَ الطَّعَامَ عَلىَ‏ حُبِّهِ مِسْكِينًا وَ يَتِيمًا وَ
+> أَسِيرًا
 
 ***And, (while needing it for themselves) they give away food, out of
 love for Him, to the poor and the orphan and the captive..( Sura Insan,
@@ -238,11 +198,7 @@ The lady who bears hardships with calmness and the man who faces
 difficulties with courage will rise on the Day of Resurrection with Amir
 al Mu’minin (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-ْ وَ يُؤْثِرُونَ عَلىَ أَنفُسِهِمْ وَ لَوْ كاَنَ بهِِمْ خَصَاصَة
-  </p>
-</blockquote>
+> ْ وَ يُؤْثِرُونَ عَلىَ أَنفُسِهِمْ وَ لَوْ كاَنَ بهِِمْ خَصَاصَة
 
 ***…. And prefer (the needy) over their own selves, though their own lot
 be poverty;… (Sura Hashr, 59: 9)***
@@ -304,12 +260,8 @@ supererogatory prayer. It is even more felicitous than Salathul Layl.
 Salatul Layl is highly meritorious and according to the Holy Quran
 brings the person to the elevated place, the *Maqame Mahmood!*
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ الَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسىَ أَن يَبْعَثَكَ
-رَبُّكَ مَقَامًا محَّْمُودًا
-  </p>
-</blockquote>
+> وَ مِنَ الَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسىَ أَن يَبْعَثَكَ
+> رَبُّكَ مَقَامًا محَّْمُودًا
 
 ***And (in a part) of the night, forsake sleep for prayer, in addition
 to (what is incumbent on) thee; Maybe that exalteth thee thy Lord unto a
@@ -397,5 +349,4 @@ they stopped working for some time. Jibrael (a.s.) told the Prophet (s),
 “The angels here stop working for sometime because the material with
 which they build comes from the world. When the material comes, the
 angels work. When it stops coming, the angels too stop the work.”
-
 

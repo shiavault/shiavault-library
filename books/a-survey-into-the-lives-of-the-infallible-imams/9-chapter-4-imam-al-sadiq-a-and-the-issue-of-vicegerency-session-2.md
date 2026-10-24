@@ -620,11 +620,7 @@ religious jurists. He is al-Sayyid al-Murtada’s brother.” When Abu Ishaq
 Sabi[^9], his contemporaneous scientist, dies he recites an ode in
 praise of him,[^10]
 
-<blockquote dir="rtl">
-  <p>
-ارايت من حملوا علی الاعواد ارايت كيف خبا ضياء النادي
-  </p>
-</blockquote>
+> ارايت من حملوا علی الاعواد ارايت كيف خبا ضياء النادي
 
 *Did you see who they were carrying upon the coffin?*
 
@@ -783,5 +779,4 @@ used to refer to the citizens of this caliphate. The ruling elite of the
 state belonged to the Isma‘ili branch of the Shi‘ism.
 
 [^13]: Nahj al-Balaghah, Fayd al-Islam, wisdom [hikmah] 139.
-
 

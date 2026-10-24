@@ -213,4 +213,3 @@ that Harun had with Musa...” (Sahih al-Bukhari V:81, Ch. 39).
 [^21]: For the second Caliph's words to the consultative members, see
 Mukhtasar Ta'rikh Ibn Asakir XVIII:35.
 
-

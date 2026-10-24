@@ -130,7 +130,6 @@ acts as a source of inspiration to my down-trodden Shi'a brothers and
 sisters who have to put up with the Salafi Nasibi propaganda onslaught
 on a daily basis.
 
-
 Your brother in Islam,
 Abdul Hakeem Oranu
 
@@ -289,7 +288,6 @@ Uthman".
 Unfortunately Shah's efforts to protect Mu'awiya and his supporters are
 in vain because it is an established fact that Mu'awiya and his
 clansmen:
-
 
 **Opposed the khilafath of Imam Ali (as)**
 
@@ -583,5 +581,4 @@ light of Ibn Taymeeya incorrect views, deemed him to be a kaafir. (taken
 from Anwar al Bari Volume 11 page 190).
 
 We further read in Anwar al Bari Volume 11 page 119 that:
-
 

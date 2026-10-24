@@ -56,4 +56,3 @@ other special (mystic) matters.
 o The Red Jafr comprised of rules and matters about and involving
 wars.
 
-

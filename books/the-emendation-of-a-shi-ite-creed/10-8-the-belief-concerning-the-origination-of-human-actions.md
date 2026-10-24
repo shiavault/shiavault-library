@@ -61,4 +61,3 @@ which can be adduced in support of this.
 
 [^1]: N, qala Abu Ja‘far .(without ash-Shaykh).
 
-

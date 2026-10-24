@@ -17,4 +17,3 @@ tease our brothers and sisters or misbehave towards our class-mates.
 
 We should not forget that Almighty Allah does not like the evil-doers.
 
-

@@ -47,12 +47,8 @@ commanders on the battle-field.
 
 In a tradition, Imam as-sadiq (a.s) states:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَنَعَ قِيرَاطاً مِنَ الزَّكَاةِ فَلَيْسَ بِمُؤْمِنٍ وَ لاَ
-مُسْلِمٍ وَ لاَ كَرَامَةَ.
-  </p>
-</blockquote>
+> مَنْ مَنَعَ قِيرَاطاً مِنَ الزَّكَاةِ فَلَيْسَ بِمُؤْمِنٍ وَ لاَ
+> مُسْلِمٍ وَ لاَ كَرَامَةَ.
 
 “One, who withholds (even) one carat of zakat, is neither a Mu'min nor a
 Muslim and possesses no esteem and value!”[^1]
@@ -76,11 +72,7 @@ affluent ones would fall in jeopardy.
 
 It has been narrated that Imam Musa b. Ja'far (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-حَصِّنوا أَمْوَالَكُمْ بِالزَّكَاةِ.
-  </p>
-</blockquote>
+> حَصِّنوا أَمْوَالَكُمْ بِالزَّكَاةِ.
 
 “Protect your possessions by means of zakat.”[^3]
 
@@ -95,5 +87,4 @@ Faithful (a.s).[^4]
 [^3]: Ibid., vol. 6, pg. 6 (no. 11)
 
 [^4]: Tafsir-e-Namunah, vol. 8, pg. 10
-
 

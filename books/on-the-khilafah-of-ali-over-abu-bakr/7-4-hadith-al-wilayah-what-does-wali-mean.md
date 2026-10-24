@@ -13,12 +13,8 @@ Usually, its exact definition in any given situation is dictated by its
 context. ‘Allamah al-Albani (d. 1420 H) records that the Prophet,
 *sallallahu ‘alaihi wa alihi*, said:
 
-<blockquote dir="rtl">
-  <p>
-ما تريدون من علي؟ ما تريدون من علي؟ ما تريدون من علي؟ إن عليا مني وأنا
-منه وهو ولي كل مؤمن بعدي .(صحيح)
-  </p>
-</blockquote>
+> ما تريدون من علي؟ ما تريدون من علي؟ ما تريدون من علي؟ إن عليا مني وأنا
+> منه وهو ولي كل مؤمن بعدي .(صحيح)
 
 “What do you want from ‘Ali? What do you want from ‘Ali? Verily, ‘Ali is
 from me and I am from him, and he is the *wali* of every believer after
@@ -28,14 +24,10 @@ But, despite weirdly denouncing the authenticity of this *hadith*, which
 is graded *sahih* above by ‘Allamah al-Albani, Shaykh Ibn Taymiyyah (d.
 728 H) also attacks the word *wali* in it:
 
-<blockquote dir="rtl">
-  <p>
-و كذلك قوله هو ولي كل مؤمن بعدي كذب على رسول الله صلى الله عليه و سلم
-بل هو في حياته و بعد مماته ولي كل مؤمن و كل مؤمن وليه في المحيا و
-الممات فالولاية التي هي ضد العداوة لا تختص بزمان وأما الولاية التي هي
-الإمارة فيقال فيها والي كل مؤمن بعدي
-  </p>
-</blockquote>
+> و كذلك قوله هو ولي كل مؤمن بعدي كذب على رسول الله صلى الله عليه و سلم
+> بل هو في حياته و بعد مماته ولي كل مؤمن و كل مؤمن وليه في المحيا و
+> الممات فالولاية التي هي ضد العداوة لا تختص بزمان وأما الولاية التي هي
+> الإمارة فيقال فيها والي كل مؤمن بعدي
 
 And similarly his statement “he is the *wali* of every believer after
 me”, it is a lie upon the Messenger of Allah. Rather he (the Prophet),
@@ -53,13 +45,9 @@ Shi’ah assert), he would have used the second word, and not the first.
 
 Shaykh Ibn Taymiyyah also proposes another word:
 
-<blockquote dir="rtl">
-  <p>
-فقول القائل علي ولي كل مؤمن بعدي كلام يمتنع نسبته إلى النبي صلى الله
-عليه و سلم فإنه إن أراد الموالاة لم يحتج ان يقول بعدي و إن أراد
-الإمارة كان ينبغي أن يقول وال على كل مؤمن
-  </p>
-</blockquote>
+> فقول القائل علي ولي كل مؤمن بعدي كلام يمتنع نسبته إلى النبي صلى الله
+> عليه و سلم فإنه إن أراد الموالاة لم يحتج ان يقول بعدي و إن أراد
+> الإمارة كان ينبغي أن يقول وال على كل مؤمن
 
 Therefore, the statement of the speaker “’Ali is the *wali* of every
 believer after me”, it is a statement that cannot be attributed to the
@@ -74,14 +62,10 @@ immediately coupled with “over”.
 
 Interestingly, Shaykh al-Albani agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-فالحديث ليس فيه دليل البتة على أن عليا رضي الله عنه هو الأحق بالخلافة
-من الشيخين كما تزعم الشيعة لأن الموالاة غير الولاية التي هي بمعنى
-الإمارة، فإنما يقال فيها: والي كل مؤمن. هذا كله من بيان شيخ الإسلام
-وهو قوي متين كما ترى
-  </p>
-</blockquote>
+> فالحديث ليس فيه دليل البتة على أن عليا رضي الله عنه هو الأحق بالخلافة
+> من الشيخين كما تزعم الشيعة لأن الموالاة غير الولاية التي هي بمعنى
+> الإمارة، فإنما يقال فيها: والي كل مؤمن. هذا كله من بيان شيخ الإسلام
+> وهو قوي متين كما ترى
 
 There is no proof at all in the *hadith* that ‘Ali, may Allah be pleased
 with him, was more deserving of the *khilafah* (succession to the
@@ -108,44 +92,28 @@ three words – in references to authority and power. In fact, it has been
 used in that sense in several places in the Qur’an! The Shi’i
 *mufassir*, Shaykh al-Tabarsi (d. 548 H), for instance, says:
 
-<blockquote dir="rtl">
-  <p>
-)والذين كفروا أولياؤهم الطاغوت (أي :متولي أمورهم وأنصارهم
-  </p>
-</blockquote>
+> )والذين كفروا أولياؤهم الطاغوت (أي :متولي أمورهم وأنصارهم
 
 (And those who disbelieve, their *awliya* [plural of *wali*] are the
 evil ones) [2:257], meaning: **their rulers and helpers**.[^6]
 
 Al-Kashani (d. 1091 H) supports him:
 
-<blockquote dir="rtl">
-  <p>
-)الله ولي الذين آمنوا (متولي أمورهم
-  </p>
-</blockquote>
+> )الله ولي الذين آمنوا (متولي أمورهم
 
 (Allah is the *Wali* of those who believe) [2:257] **their Ruler**.[^7]
 
 ‘Allamah al-Majlisi (d. 1111 H) also says:
 
-<blockquote dir="rtl">
-  <p>
-والولي المتولي للأمور والناصر والمحب
-  </p>
-</blockquote>
+> والولي المتولي للأمور والناصر والمحب
 
 The *wali* is the **ruler**, and the **helper**, and the **lover**.[^8]
 
 The Sunni position is the same as well. Imam Ibn Jawzi (d. 597 H)
 submits:
 
-<blockquote dir="rtl">
-  <p>
-قوله تعالى) :الله ولي الذين آمنوا (أي: متولي أمورهم، يهديهم، وينصرهم،
-ويعينهم.
-  </p>
-</blockquote>
+> قوله تعالى) :الله ولي الذين آمنوا (أي: متولي أمورهم، يهديهم، وينصرهم،
+> ويعينهم.
 
 Allah the Most High’s Statement: (Allah is the *Wali* of those who
 believe) [2:257] meaning: **their Ruler**, Who guides them, and helps
@@ -153,22 +121,14 @@ them, and supports them.[^9]
 
 Imam al-Baydhawi (d. 685 H) supports him:
 
-<blockquote dir="rtl">
-  <p>
-)الله ولي الذين آمنوا (محبهم أو متولي أمورهم
-  </p>
-</blockquote>
+> )الله ولي الذين آمنوا (محبهم أو متولي أمورهم
 
 (Allah is the *Wali* of those who believe) [2:257] their Lover or
 **their Ruler**.[^10]
 
 Al-Tha’labi (d. 427 H) says something similar too:
 
-<blockquote dir="rtl">
-  <p>
-)الله ولي الذين آمنوا (أي ناصرهم ومعينهم وقيل محبهم وقيل متولي أمرهم
-  </p>
-</blockquote>
+> )الله ولي الذين آمنوا (أي ناصرهم ومعينهم وقيل محبهم وقيل متولي أمرهم
 
 (Allah is the *Wali* of those who believe) [257], meaning their Helper
 and Supporter. It is said: their Lover. And it is said: **their
@@ -176,11 +136,7 @@ Ruler**.[^11]
 
 The same submission was made by al-Khazan (d. 725 H):
 
-<blockquote dir="rtl">
-  <p>
-(والله ولي الذين آمنوا (أي ناصرهم ومعينهم وقيل محبم ومتولي أمورهم
-  </p>
-</blockquote>
+> (والله ولي الذين آمنوا (أي ناصرهم ومعينهم وقيل محبم ومتولي أمورهم
 
 (Allah is the *Wali* of those who believe), meaning: their Helper and
 Supporter. It is said: their Lover and **Ruler**.[^12]
@@ -188,31 +144,19 @@ Supporter. It is said: their Lover and **Ruler**.[^12]
 Al-Mahalli (d. 864 H) and al-Suyuti (d. 911 H) in their *Tafsir
 al-Jalalayn*, mince no words about this:
 
-<blockquote dir="rtl">
-  <p>
-}أنت ولينا {متولي أمورنا
-  </p>
-</blockquote>
+> }أنت ولينا {متولي أمورنا
 
 (You are our *Wali*) **our Ruler**.[^13]
 
 They also say:
 
-<blockquote dir="rtl">
-  <p>
-{إن وليي الله} متولي أموري
-  </p>
-</blockquote>
+> {إن وليي الله} متولي أموري
 
 {My *Wali* is Allah) [7:196] **my Ruler**.[^14]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-{فهو وليهم} متولي أمورهم
-  </p>
-</blockquote>
+> {فهو وليهم} متولي أمورهم
 
 {he is their *wali*} [16:63] **their ruler**.[^15]
 
@@ -225,34 +169,22 @@ their Helper and **Ruler**.[^16]
 
 Shaykh Ibn ‘Ashur, in turn, corroborates al-Nasafi:
 
-<blockquote dir="rtl">
-  <p>
-)فهو وليهم اليوم....( والمعنى : فالشيطان وليّ المشركين اليوم ، أي
-متولّي أمرهم
-  </p>
-</blockquote>
+> )فهو وليهم اليوم....( والمعنى : فالشيطان وليّ المشركين اليوم ، أي
+> متولّي أمرهم
 
 (he is their *wali* today) [16:63].... the meaning is: “Shaytan is the
 *wali* of the pagans today”, meaning **their ruler**.[^17]
 
 ‘Allamah Rashid Ridha (d. 1354 H), a Salafi scholar, says too:
 
-<blockquote dir="rtl">
-  <p>
-(وهو وليهم بما كانوا يعملون) .... و}وليهم { متولي أمورهم
-  </p>
-</blockquote>
+> (وهو وليهم بما كانوا يعملون) .... و}وليهم { متولي أمورهم
 
 (And He will be their *Wali* because of what they used to do)
 [6:127].... And {their *Wali*} is **their Ruler**.[^18]
 
 He also says:
 
-<blockquote dir="rtl">
-  <p>
-)والله وليهما (أي متولي أمورهما
-  </p>
-</blockquote>
+> )والله وليهما (أي متولي أمورهما
 
 (And Allah is their *Wali*) [3:122] meaning, **their Ruler**.[^19]
 
@@ -265,12 +197,8 @@ implications. He only seeks to undermine the Shi’i claims by all means,
 including by crook. We say this because Shaykh Ibn Taymiyyah himself has
 said these words in the same *Minhaj al-Sunnah*:
 
-<blockquote dir="rtl">
-  <p>
-وكل هؤلاء العلماء الذين ذكرناهم يعلمون أن عدل عمر كان أتم من عدل من
-ولي بعده وعلمه كان أتم من علم من ولى بعده
-  </p>
-</blockquote>
+> وكل هؤلاء العلماء الذين ذكرناهم يعلمون أن عدل عمر كان أتم من عدل من
+> ولي بعده وعلمه كان أتم من علم من ولى بعده
 
 All of these *‘ulama* that we have mentioned knew that the fairness of
 ‘Umar is more perfect that the fairness of anyone **who became the**
@@ -279,11 +207,7 @@ knowledge of anyone **who became the** ***wali*** **after him**.[^20]
 
 He also writes:
 
-<blockquote dir="rtl">
-  <p>
-و وجدنا عليا إذ ولي قد استعمل أقاربه
-  </p>
-</blockquote>
+> و وجدنا عليا إذ ولي قد استعمل أقاربه
 
 And we found that **when ‘Ali became the** ***wali***, he appointed his
 relatives as governors.[^21]
@@ -294,16 +218,12 @@ about friendship above?
 An even more surprising stunt pulled by Shaykh Ibn Taymiyyah is in these
 words:
 
-<blockquote dir="rtl">
-  <p>
-الفرق بين الولاية بالفتح و الولاية بالكسر معروف فالولاية ضد العداوة و
-هي المذكوره في هذه النصوص ليست هي الولاية بالكسر التي هي الإمارة و
-هؤلاء الجهال يجعلون الولي هو الأمير و لم يفرقوا بين الولاية و الولاية
-و الأمير يسمى الوالي لا يسمى الولي و لكن قد يقال هو ولي الأمر كما يقال
-وليت أمركم و يقال أولو الأمر و أما إطلاق القول بالمولى وإراده الوالي
-فهذا لا يعرف بل يقال في الولي المولى و لا يقال الوالي
-  </p>
-</blockquote>
+> الفرق بين الولاية بالفتح و الولاية بالكسر معروف فالولاية ضد العداوة و
+> هي المذكوره في هذه النصوص ليست هي الولاية بالكسر التي هي الإمارة و
+> هؤلاء الجهال يجعلون الولي هو الأمير و لم يفرقوا بين الولاية و الولاية
+> و الأمير يسمى الوالي لا يسمى الولي و لكن قد يقال هو ولي الأمر كما يقال
+> وليت أمركم و يقال أولو الأمر و أما إطلاق القول بالمولى وإراده الوالي
+> فهذا لا يعرف بل يقال في الولي المولى و لا يقال الوالي
 
 The difference between *walayah* and *wilayah* is well-known. The
 *walayah* which is the opposite of enmity is what is mentioned in these
@@ -349,13 +269,9 @@ the word *wali* (ولي) above, without conjoining it with *amr*, to mean
 ruler! Elsewhere, he has also employed the same word, in the same form,
 along with *amr*:
 
-<blockquote dir="rtl">
-  <p>
-وكان أبو بكر معلما للصبيان في الجاهلية وفي الإسلام كان خياطا ولما ولي
-أمر المسلمين منعه الناس عن الخياطة فقال إني محتاج إلى القوت فجعلوا له
-كل يوم ثلاثة دراهم من بيت المال
-  </p>
-</blockquote>
+> وكان أبو بكر معلما للصبيان في الجاهلية وفي الإسلام كان خياطا ولما ولي
+> أمر المسلمين منعه الناس عن الخياطة فقال إني محتاج إلى القوت فجعلوا له
+> كل يوم ثلاثة دراهم من بيت المال
 
 Abu Bakr was a teacher of children during the *Jahiliyyah*. But, during
 the Islamic era, he was a tailor. When he became the *wali* of the *amr*
@@ -366,22 +282,14 @@ Treasury every day.[^23]
 Nobody is a better refuter of Shaykh Ibn Taymiyyah than himself! He says
 somewhere:
 
-<blockquote dir="rtl">
-  <p>
-و وجدنا عليا إذ ولي قد استعمل أقاربه
-  </p>
-</blockquote>
+> و وجدنا عليا إذ ولي قد استعمل أقاربه
 
 And we found that when ‘Ali became the *wali*, he appointed his
 relatives as governors.[^24]
 
 Elsewhere, he states:
 
-<blockquote dir="rtl">
-  <p>
-ولما ولي أمر المسلمين منعه الناس عن الخياطة
-  </p>
-</blockquote>
+> ولما ولي أمر المسلمين منعه الناس عن الخياطة
 
 When he (Abu Bakr) became the *wali* of the *amr* of the Muslims, the
 people forbade him from tailoring.[^25]
@@ -402,11 +310,7 @@ synonyms.
 For instance, al-Jawhari (d. 393 H), who came more than 300 years before
 Shaykh Ibn Taymiyyah (d. 728 H), states:
 
-<blockquote dir="rtl">
-  <p>
-وكل من ولى أمر واحد فهو وليه.
-  </p>
-</blockquote>
+> وكل من ولى أمر واحد فهو وليه.
 
 Every person who is the *wali* of the *amr* of anyone, he is thereby the
 latter’s *wali*.[^26]
@@ -414,11 +318,7 @@ latter’s *wali*.[^26]
 He is corroborated by Ibn Faris (d. 395 H), another highly recognized
 Sunni lexicographer:
 
-<blockquote dir="rtl">
-  <p>
-وكل من ولى أمر آخر فهو وليه
-  </p>
-</blockquote>
+> وكل من ولى أمر آخر فهو وليه
 
 Every person who is the *wali* of the *amr* of anyone, he is thereby the
 latter’s *wali*.[^27]
@@ -426,11 +326,7 @@ latter’s *wali*.[^27]
 The most well-known and highest-regarded classical Sunni lexicographer,
 Ibn Manzur (d. 711 H), also submits:
 
-<blockquote dir="rtl">
-  <p>
-كل من ولي أمر واحد فهو وليه
-  </p>
-</blockquote>
+> كل من ولي أمر واحد فهو وليه
 
 Every person who is the *wali* of the *amr* of anyone, he is thereby the
 latter’s *wali*.[^28]
@@ -438,11 +334,7 @@ latter’s *wali*.[^28]
 Finally, the highly authoritative Shi’ah lexicographer, al-Turayhi (d.
 1085 H) caps it all:
 
-<blockquote dir="rtl">
-  <p>
-والولي: الوالي، وكل من ولي أمر أحد فهو وليه.
-  </p>
-</blockquote>
+> والولي: الوالي، وكل من ولي أمر أحد فهو وليه.
 
 The *wali* is the *wali*, and every person who is the *wali* of the
 *amr* of anyone, he is thereby the latter’s *wali*.[^29]
@@ -567,5 +459,4 @@ p. 410
 
 [^29]: Fakhr al-Din al-Turayhi, Majma’ al-Bahrayn (2nd edition, 1408 H)
 [annotator: Sayyid Ahmad al-Husayni], vol. 4, p. 554
-
 

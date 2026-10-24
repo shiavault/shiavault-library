@@ -1950,4 +1950,3 @@ the Battle of the Ditch, which took place after the Battle of Uhud.
 
 [^47]: Seerah-i Ibn Hisham, vol. II, page 104.
 
-

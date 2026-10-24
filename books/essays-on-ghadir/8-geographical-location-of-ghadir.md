@@ -590,4 +590,3 @@ history. Some scholars have listed two hundred and fifty Companions of
 the Prophet, complete with names and descriptions, as belonging to this
 class.
 
-

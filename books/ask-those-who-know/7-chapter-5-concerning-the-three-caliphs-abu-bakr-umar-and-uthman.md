@@ -2636,4 +2636,3 @@ If you deny them and do not agree to their veracity, then you have
 denied your own "*Sahih*" collections and your reliable books which have
 reported them. Then you have destroyed all of your beliefs.”
 
-

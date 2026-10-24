@@ -265,4 +265,3 @@ He took him inside the gown. Then the holy Prophet said,
 ***“People of the house, God wants to remove all kinds of uncleanness
 from you and to purify you thoroughly. (33:33)”.***
 
-

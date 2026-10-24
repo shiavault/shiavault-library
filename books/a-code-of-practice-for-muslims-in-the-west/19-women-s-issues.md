@@ -357,4 +357,3 @@ translated from Arabic. Original source not traceable.]
 [^6]: Translator's Note: Translated from Arabic. Orignal source not
 traceable.
 
-

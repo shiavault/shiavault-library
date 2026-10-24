@@ -5494,4 +5494,3 @@ able to procure it.
 would not be able to get water, and then offered the prayers with
 *tayammum*.
 
-

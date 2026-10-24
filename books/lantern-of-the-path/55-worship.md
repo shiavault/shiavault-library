@@ -29,4 +29,3 @@ recognition of the matter and respect for it. He does not see Allah's
 will in preparing people to obey His command and choosing that for
 them.'
 
-

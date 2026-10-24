@@ -84,27 +84,15 @@ expenditure and upkeep is low.”*
 *“But when it come to the discussion of 'spouse* selection' and 'its
 criteria and standards' ,Islam says be very careful.
 
-<blockquote dir="rtl">
-  <p>
-إياكم و خضراء الدمن.
-  </p>
-</blockquote>
+> إياكم و خضراء الدمن.
 
 *“Avoid the greenery (herbs) growing over a sewer (cesspool).”*
 
-<blockquote dir="rtl">
-  <p>
-إياكم و تزويج الحمقاء.
-  </p>
-</blockquote>
+> إياكم و تزويج الحمقاء.
 
 *“Avoid marrying stupid and silly (insane) ones.”*
 
-<blockquote dir="rtl">
-  <p>
-فانظر ما تقلده.
-  </p>
-</blockquote>
+> فانظر ما تقلده.
 
 *“See what you are putting around your neck.”*
 
@@ -176,11 +164,7 @@ A reflection of the Prophet's (S) saying:
 A man came to the Muhammad (S) to seek guidance in connection with the
 selection of a spouse. He (S) said to him:
 
-<blockquote dir="rtl">
-  <p>
-عليك بذات الدين.
-  </p>
-</blockquote>
+> عليك بذات الدين.
 
 *“It is (binding) upon you to have a religious spouse.”* [^1]
 
@@ -190,17 +174,9 @@ On another occasion, he (S) ordered all people of all ages:
 
 And again in another case he (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من تزوج امرأة لمالها وكله الله إليه, و من تزوجها لجمالها رآي
-  </p>
-</blockquote>
+> من تزوج امرأة لمالها وكله الله إليه, و من تزوجها لجمالها رآي
 
-<blockquote dir="rtl">
-  <p>
-فيها ما يكره , و من تزوجها لدينها جمع الله له ذلك.
-  </p>
-</blockquote>
+> فيها ما يكره , و من تزوجها لدينها جمع الله له ذلك.
 
 *“A man who marries a woman for the sake of her wealth, Allah leaves him
 in his own condition, and the one who marries her (only) for her beauty,
@@ -336,12 +312,8 @@ of view.
 The Prophet (S) said about the virtues and qualities of a suitable and
 decent spouse:
 
-<blockquote dir="rtl">
-  <p>
-إذا جاءكم من ترضون خلقه و دينه فزوجوه و إن لاتفعلوا تكن فتنة في الإرض
-و فساد كبير.
-  </p>
-</blockquote>
+> إذا جاءكم من ترضون خلقه و دينه فزوجوه و إن لاتفعلوا تكن فتنة في الإرض
+> و فساد كبير.
 
 *“When someone with whose morality and religion you are pleased comes to
 you (for marriage), conclude the marriage. If you do not do it, then a
@@ -475,11 +447,7 @@ environment, habits, etc to this person.
 
 The prophet of Islam (S) said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-تزوجوا في الحجر الصالح فإن العرق دساس.
-  </p>
-</blockquote>
+> تزوجوا في الحجر الصالح فإن العرق دساس.
 
 *“Marry from a decent family, for genealogy affect very much.”*
 
@@ -515,11 +483,7 @@ children.
 
 The Muhammad (S) said in this connection:
 
-<blockquote dir="rtl">
-  <p>
-إختاروا لنطفكم فإن الأبناء تشبه الأخوال.
-  </p>
-</blockquote>
+> إختاروا لنطفكم فإن الأبناء تشبه الأخوال.
 
 *“Choose a proper and suitable place for your semen, because children
 become similar to their* *maternal uncles.”* [^3]
@@ -636,11 +600,7 @@ He was asked, *“What is mind?”*
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-ما عبد به الرحمن واكتسب به الجنان.
-  </p>
-</blockquote>
+> ما عبد به الرحمن واكتسب به الجنان.
 
 *“It is a ting by which Allah is worshiped and paradise is achieved.”*
 
@@ -649,11 +609,7 @@ upon him) possessed?”
 
 Imam said:
 
-<blockquote dir="rtl">
-  <p>
-تلك النكراءو تلك الشيطنة, و هي شبيهة بالعقل و ليست بالعقل.
-  </p>
-</blockquote>
+> تلك النكراءو تلك الشيطنة, و هي شبيهة بالعقل و ليست بالعقل.
 
 *“What he had was deception (trickery) and craftiness and that has a
 resemblance with reason but is not the reason itself.”* [^6]
@@ -714,11 +670,7 @@ But alas! She was no more the same Hamida she used to be before
 marriage. Her felicity, sound mind and joyous spirit were withered and
 destroyed by that witless devil.
 
-<blockquote dir="rtl">
-  <p>
-(فاعتبروا يا أولي الأبصار)
-  </p>
-</blockquote>
+> (فاعتبروا يا أولي الأبصار)
 
 *“O you watchful people, take lesson!”*
 
@@ -824,12 +776,8 @@ and does not have a share of faith and modesty.
 Islam has emphasized and stressed this point. The Prophet Muhammad (S)
 said:
 
-<blockquote dir="rtl">
-  <p>
-إذا أراد أحدكم أن يتزوج المرأة فليسأل عن شعرها, كما يسأل عن وجهها, فإن
-الشعر أحد الجمالين.
-  </p>
-</blockquote>
+> إذا أراد أحدكم أن يتزوج المرأة فليسأل عن شعرها, كما يسأل عن وجهها, فإن
+> الشعر أحد الجمالين.
 
 *“When one of you intends to marry a woman, he should ask about*
 
@@ -894,11 +842,7 @@ faith, religiousness, modesty and the real and noble values, and
 considers beauty as a 'completing distinction' the passage of time
 cannot wear out and erode that life.
 
-<blockquote dir="rtl">
-  <p>
-إن الذين آمنوا و عملوا الصالحات سيجعل لهم الرحمان ودا.
-  </p>
-</blockquote>
+> إن الذين آمنوا و عملوا الصالحات سيجعل لهم الرحمان ودا.
 
 *“Surely (as for) those who believe and do good deeds, for* *them will
 Allah bring about love.”*
@@ -907,11 +851,7 @@ Allah places such and intense love and immense and profound fondness as
 a reward in the hearts of faithful spouses that cannot be wiped out and
 annihilated even by the termination of youth's livelihood.
 
-<blockquote dir="rtl">
-  <p>
-ما عندكم ينفد و ما عندالله باق.
-  </p>
-</blockquote>
+> ما عندكم ينفد و ما عندالله باق.
 
 *“What is with you passes away (finishes) and what is with Allah is
 enduring.”*
@@ -1115,11 +1055,7 @@ spouses is equality (balance of the personalities of the couple).
 Piety and divine values are the standards and criteria of superiority,
 nobility, and graciousness.
 
-<blockquote dir="rtl">
-  <p>
-إن أكرمكم عندالله أتقاكم إن الله عليم خبير.
-  </p>
-</blockquote>
+> إن أكرمكم عندالله أتقاكم إن الله عليم خبير.
 
 ***“Surely, the most*** ***honourable*** ***of you with Allah is your
 most pious one”.(49:13)***
@@ -1141,11 +1077,7 @@ less of a distance, the better.
 A man questioned the prophet of Islam (S): “Whom must we marry?” He
 replied:
 
-<blockquote dir="rtl">
-  <p>
-الأكفاء
-  </p>
-</blockquote>
+> الأكفاء
 
 *“Those suitable (good matches).”*
 
@@ -1153,11 +1085,7 @@ He asked, *“Who are suitable matches?”*
 
 The Muhammad (S) responded:
 
-<blockquote dir="rtl">
-  <p>
-المؤمنون بعضهم أكفاء بعض.
-  </p>
-</blockquote>
+> المؤمنون بعضهم أكفاء بعض.
 
 *“Some of the believers are the matches of each other.”*
 
@@ -1166,12 +1094,8 @@ foundation of being a match.
 
 Imam As-Sadiq (a.s) said about Fatima Zahra (s.a):
 
-<blockquote dir="rtl">
-  <p>
-لولا أن الله خلق أميرالمؤمنين عليه السلام لم يكن لفاطمة كفو علي وجه
-الارض, آدم فما دونه.
-  </p>
-</blockquote>
+> لولا أن الله خلق أميرالمؤمنين عليه السلام لم يكن لفاطمة كفو علي وجه
+> الارض, آدم فما دونه.
 
 *“Had Allah not created Ali (a.s), there would have been no match and*
 *equivalent on the earth for Fatima (s.a), from the age of* *Adam (a.s)
@@ -1203,11 +1127,7 @@ one makes the other take up his or her colour.
 Some of the reasons described by Islam for not marrying an irreligious
 one are as follows:
 
-<blockquote dir="rtl">
-  <p>
-لأن المرأة تأخذ من أدب زوجها و يقهرها علي دينه.
-  </p>
-</blockquote>
+> لأن المرأة تأخذ من أدب زوجها و يقهرها علي دينه.
 
 *“Because the woman is influenced by her husband's conduct, and he
 forces her to accept his belief.”* [^10]
@@ -1237,11 +1157,7 @@ designed programme.
 
 Imam Ja’far As-Sadiq (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-العارفة لاتوضع إلا عندالعارف.
-  </p>
-</blockquote>
+> العارفة لاتوضع إلا عندالعارف.
 
 *“An intelligent and wise someone must not be placed except beside a
 sage and wise man.”*
@@ -1278,15 +1194,11 @@ sometimes called him by the name of 'dear and beloved Zaid.' With regard
 to the decency of Zainab, it is sufficient to say that Allah Himself had
 her married to His prophet (after being divorced by Zaid).
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ
-عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي
-نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ
-أَنْ تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا
-زَوَّجْنَاكَهَا
-  </p>
-</blockquote>
+> وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ
+> عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي
+> نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ
+> أَنْ تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا
+> زَوَّجْنَاكَهَا
 
 > “ And when you said to him to whom Allah had shown favor and to whom
 > you had shown a favor: Keep your wife to yourself and be careful of
@@ -1848,12 +1760,8 @@ other attributes and peculiarities.
 
 The Qur’an's just logic in this regard:
 
-<blockquote dir="rtl">
-  <p>
-الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ
-وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ
-  </p>
-</blockquote>
+> الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ
+> وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ
 
 ***“The impure women are for the impure men, and the impure men are for
 the impure women,*** ***and the pure women are for the pure men, and the
@@ -2038,11 +1946,7 @@ might view each other's merits as demerits and dismaying.
 
 Ali (a.s) the commander of believers said:
 
-<blockquote dir="rtl">
-  <p>
-من أبغض شيْا أبعض أن ينظر إليه وأن يذكر عنده.
-  </p>
-</blockquote>
+> من أبغض شيْا أبعض أن ينظر إليه وأن يذكر عنده.
 
 *“If a person does not like a thing, he does not like to look at it and
 hear about it.”*
@@ -2555,5 +2459,4 @@ p326, p 317.
 edition.
 
 [^22]: Nahjul Balagha, sermon 153, Subhi saleh.
-
 

@@ -1,11 +1,7 @@
 About the Author
 ================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
 
 **In the name of Allah the Beneficent the Merciful**
 
@@ -38,5 +34,4 @@ title.
 The present book is divided into eight parts like the eight gates of
 Paradise. It was first published by the efforts of his sons in 1369 A.H.
 in Isfahan. It was published in two volume in 1398 A.H.
-
 

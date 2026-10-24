@@ -657,4 +657,3 @@ the indulgent, the chaste, and the seeker of chastity.
 
 67. God surely likes exchanging salaams.
 
-

@@ -1,18 +1,10 @@
 2. His Golden Medical Dissertation
 ==================================
 
-  
-
-  
-
 The sciences of Imām al-Ridā, peace be on him, were not confined to the
 precepts of Islamic law; rather they included all kinds of science of
 which was medicine. The Imām was unique in medicine, and the clear proof
 of that is this dissertation which al-Mamūn called  
-
-  
-
-  
 
 *al-Risāla al-Dhahabiya* *fi al-Tibb* (the golden medical dissertation).
 As al-Mamūn admired the dissertation, he gave the Medal of Doctor to the
@@ -60,12 +52,6 @@ Al-Mamūn asked the Imām to open for him horizons to the science of
 systems of mans body, to guide him to useful and harmful foodstuffs, and
 those things which put right and harmed mans body.
 
-  
-
-  
-
-  
-
 The Imām answered him, saying: I have of it knowledge of what I have
 personally tested and came to know about its accuracy by experience and
 by the passage of time in addition to what I was told by my ancestors of
@@ -106,12 +92,6 @@ and named it *Āfiyat al-Bariya fi Sharh al-Dhahabiya*. He was a
 contemporary of Sultān Husayn al-Safawi.
 
 8. Al-Mawlā Mohammed b. al-Hājj Mohammed Hasan al-Mashhadi al-Mudarris.
-
-  
-
-  
-
-  
 
 9. Al-Sayyid Shams al-Din Mohammed Badi al-Radawi al-Mashhadi explained
 *al-Dhahabiya* and ended it in 1125 A. H.
@@ -155,17 +135,10 @@ ancient calligraphy. An ancient copy, handwritten by Abd al-Rahmān b.
 Abd Allah al-Karkhi in 715 A. H., is available at the Imām al-Hakim
 Library, serial 237.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F315) The translation in the script of the author is available
 at the Imām Amir al-Mu'minin Library, serial 237.  
-  
-
-  
-
-  
 
 ### 3. Al-Mamūn praises the Golden Medical Dissertation
 
@@ -202,10 +175,6 @@ understood it by mind, I found it to be a most precious item to post, a
 great treasure, and a most useful thing, so I ordered it to be written
 in gold due to its being precious, good, abundantly blessed, and I
 called  
-
-  
-
-  
 
 it *al-Mudahhaba* (the golden one) and deposited it at the depository of
 wisdom after I had it copied down by the descendants of Hāshim, the
@@ -247,12 +216,6 @@ praise gives an account of the following:
 As for the contents of the Imāms medical dissertation, they are as
 follows:
 
-  
-
-  
-
-  
-
 Firstly, the betterment of the body, protecting it from diseases, and
 making it enjoy perfect health, for the medical dissertation includes
 general programs for it.
@@ -292,10 +255,6 @@ publications of the al-Haydariya Press. It was printed in the year 1385
 A. H., and it reads as follows: In the Name of Allah, the Most Gracious,
 the Most Merciful. Know, Commander of the faithful, when  
 
-  
-
-  
-
 Allah tries a servant with a disease, he appoints for him a medicine in
 order to cure himself with it, and for every kind of disease there is a
 kind of medicine, conduct, and prescription.
@@ -331,12 +290,6 @@ them. Then he answers whatever he likes; and the tongue explains on his
 behalf with many tools of which are the wind of the heart, the steam of
 the stomach, and the help of the two lips; and the two lips have no
 strength except by the means of man, and they are in need of each other.
-
-  
-
-  
-
-  
 
 The wise Imām has shown mans body; this wonderful body through which
 Allahs mighty power, His marvelous creation, and His firm regulation
@@ -380,11 +333,6 @@ seventy times
 [[1]](#_F316) Robert Foblbith, Your Body the Marvelous, the Odd, p.
 13.  
  [[2]](#_F317) Ibid.  
-  
-
-  
-
-  
 
 per minute. So their average amounts to one hundred thousand times a
 day,  forty million times a year, and over two thousand millions in
@@ -424,16 +372,9 @@ to wherever it desires; and by it man is distinguished from the rest of
 animals. Allah has singled out the brain for man,  and through it He
 has  ennobled man over all His creatures.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F318) Al-Tibb Mihrāb al-Imān, pp. 141-142.  
-  
-
-  
-
-  
 
 Surely, the brain is a world of wonders. No creature can match it in
 greatness, for it contains stores which never are full and it preserves
@@ -476,10 +417,6 @@ outer ears, they convey sounds.
 Sound results from the vibration of the molecules of a matter, so it
 does not travel unless there is a material means such as liquid air,  
 
-  
-
-  
-
 gases, solid bodies, and the like. Medical books have mentioned
 important researches regarding sound, which reveals the Wise Creators
 mightiness and marvelous creation.[[1]](#_ftn319)
@@ -520,11 +457,6 @@ high
 
 [[1]](#_F319) Ibid., pp. 191-202.  
  [[2]](#_F320) Ibid., pp. 204-206.  
-  
-
-  
-
-  
 
 opens and shuts very quickly. Besides Allah has surrounded it by tears
 in order to purify and moisten it. So glory belongs to the Creator, the
@@ -561,17 +493,10 @@ arises in the brain, which inspires the tongue to perform it, and that
 occurs through a wonderful operation which the concerned in this
 research have mentioned.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F321) In some versions, the  origin of happiness is in the
 kidneys.  
-  
-
-  
-
-  
 
 The Imām, peace be on him, has mentioned that the reward and punishment
 which the heart and the brain bring about to mans body. Both reward and
@@ -612,12 +537,6 @@ it is the most vital and sensitive of them, for it is affected by the
 extravagance of food which results in fatness, which is one of the
 blights which destroy mans body.
 
-  
-
-  
-
-  
-
 Certainly taking care of nutrition, especially in the prim of life, has
 a great effect on the health condition in the years that follow as well
 as it lengthens the period of youth; and it is one of the most modern
@@ -657,10 +576,6 @@ grandfather, Mohammed, may Allah bless him and his family, ordered Ali,
 peace be on him, to have one meal on every day and two meals on the
 following day; that should be according to an amount which should be
 neither increase  
-
-  
-
-  
 
 nor decrease; raise your hand from food while you feel appetite for it;
 and let your drink be immediately after your food.
@@ -705,10 +620,6 @@ and its beginning is March (Ādhār); and the number of its days is thirty
 days; and therein day and night are good; the earth becomes soft; and
 the power of phlegm terminates; the blood becomes  
 
-  
-
-  
-
 exited; and one must use light food and meat; and he must refrain from
 eating onions and garlic and sour (things); and he must use laxative
 therein; and he must use therein bloodletting and cupping.
@@ -752,10 +663,6 @@ cleaning the urinary tracts and removing cystic calcali from them.
 He, peace be on him, has said: May (Ayyār) is thirty-one days; the winds
 become clear there in; it is at the end of the season of spring; one
 must refrain from salty foods, thick meat such as heads  
-
-  
-
-  
 
 and beef, and yogurt; entering the bathroom at the beginning of day is
 useful therein; and sport before lunch is reprehensible therein.
@@ -802,10 +709,6 @@ He, peace be on him, has said: August (Āb) is thirty-one years; the
 simoom (hot wind) becomes intense therein; cold becomes exited at night;
 the north wind blows; temper becomes good through patting  
 
-  
-
-  
-
 and moistening; it is useful to drink yogurt; one must refrain from
 having sexual intercourse and laxative, decrease sport, and smell cold
 flowers.
@@ -845,10 +748,6 @@ vitality and activity of the body.
 He, peace be on him, has said: November ((Tishrin al-Thāni) is thirty
 days; seasonal rain comes down in it; one must not drink water at night,
 decrease entering the bathroom and having sexual  
-
-  
-
-  
 
 intercourse, take a mouthful of warm water in the early morning every
 day, avoid eating vegetables such as celery, mint, and watercress.
@@ -891,12 +790,6 @@ enter the bathroom, for the blood-circle becomes active through it; and
 he has warned them against having fresh fish, yogurt, and candy, for
 they harm their bodies.
 
-  
-
-  
-
-  
-
 He, peace be on him, has said: February (Shibāt) is twenty-eight days;
 the winds become different in it; rain increases; grass appears; water
 flows in the hollow; it is useful to eat garlic, the meat of bird and
@@ -938,11 +831,6 @@ ripe; and then
 ------------------------------------------------------------------------
 
 [[1]](#_F322) A rotl is about 340 grams.  
-  
-
-  
-
-  
 
 he must squeeze them, clarify their water, and leaves it to be cold.
 Then he must return it to the container again, measure it with a stick,
@@ -982,11 +870,6 @@ brings about the most important health advantages to the
 ------------------------------------------------------------------------
 
 [[1]](#_F323) A dirham is 5.5 grams.  
-  
-
-  
-
-  
 
 body and protects it from many diseases. He has mentioned its
 ingredients and how it is prepared. This drink contains important
@@ -1026,16 +909,9 @@ the toilet for relieving  nature and stay wherein as long as you relieve
 you nature; do not stay wherein for a long time; for that gives rise to
 elephantiasis.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F324) Tibb al-Ridā, pp. 58-59.  
-  
-
-  
-
-  
 
 Sleep is one of the elements necessary for mans life and the health of
 his body. Indeed Allah has created in mans body some organs which give
@@ -1074,16 +950,9 @@ tooth-pastes.[[1]](#_ftn325)
 The second prescription concerns tooth-paste; the Imām has mentioned its
 ingredients which treat tooth-decay.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F325) This was announced by BBC.  
-  
-
-  
-
-  
 
 He has said: And know, O Commander of the faithful, that mans sates on
 which Allah, the Exalted, has built him and made him move about in them
@@ -1123,10 +992,6 @@ lifetime, for therein mans strength, activity, and radiance are perfect.
 The third stage begins from thirty-five and ends in sixty years; and in
 this stage mans knowledge is perfect; his affairs are regulated; that is
 through his experiences in affairs and his knowledge in events,  
-
-  
-
-  
 
 for in this age his intellectual activity is perfect, but his bodily
 forces become weak.
@@ -1174,11 +1039,6 @@ eyes, and it is useful to tooth-ache; and
 neck vertebras.  
  [[2]](#_F327) *Al-akhda'ayn* are two veins in the back of the neck to
 the right and left of it.  
-  
-
-  
-
-  
 
 perhaps bloodletting replaces all of that; and one may use cupping under
 the chin in order to treat *al-qalda*[[1]](#_ftn328) in the mouth, the
@@ -1213,8 +1073,6 @@ makes easy bloodletting. During all what we have mentioned regarding
 bringing forth blood, it is obligatory to refrain from women twelve
 hours before that.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F328) *Al-qalda'* is an ulcer in the skin of the mouth and
@@ -1224,11 +1082,6 @@ forearm upwards.
  [[3]](#_F330) *Al-qifāl* is the vein which appears at the elbow.  
  [[4]](#_F331) *Al-bāsaliq* is the outward vein from the elbow to the
 forearm.  
-  
-
-  
-
-  
 
 One must use cupping on a clear day on which there is neither clouds nor
 strong winds; and he must bring forth blood equals to its change which
@@ -1271,11 +1124,6 @@ water; and then the boiled meat is taken out and mixed with the boiled
 vegetables along with vinegar.  
  [[4]](#_F335) *Al-masūs* is meat which is cooked and placed into
 vinegar or it is the meat of birds.  
-  
-
-  
-
-  
 
 mixed with rose water and some camphor; and drink after your food some
 of that drinks which I have prescribed to you; and be careful of
@@ -1322,17 +1170,10 @@ freckles; eating salty meat and fish after cupping and bloodletting
 gives rise to vitiligo and mange; eating sheeps kidneys and bowels
 disorders the bladder.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F336) See the previous footnotes.  
  [[2]](#_F337) In a version eating eggs.  
-  
-
-  
-
-  
 
 Entering the bathroom during fullness gives rise to colic; washing with
 cold water after eating fish brings about hemiplegia; eating citron at
@@ -1379,16 +1220,9 @@ This part of the dissertation contains health advantages of great
 importance; if men put them into practice, medicine will be preventive,
 and they will be in no need of the clinic of physicians.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F338) In a version eating onions.  
-  
-
-  
-
-  
 
 He, peace be on him, has said: And if you like to enter the bathroom and
 you feel no ache in your head, then start, during entering the bathroom,
@@ -1426,10 +1260,6 @@ must decrease turning it; and when he uses it, he must hasten to wash it
 and rub his body with some rose oil; if it burns his body, Allah
 forbids, he must take peeled lentils, crush it,mix it with rose water
 and vinegar, and rub with it the area which has been burnt  
-
-  
-
-  
 
 by the depilatory (paste), for he recovers with the permission of Allah,
 the Exalted; and if he wants to avoid the (bad) effects of the
@@ -1472,10 +1302,6 @@ and to be a memorizer must eat every day three pieces of ginger mixed
 with honey jam, and must nourish (his own body) with mustard along with
 his food every day; and he who wants to increase his reason must have
 every three pieces of *hilija* along with *Ibloj*  
-
-  
-
-  
 
 sugar[[1]](#_ftn339); and he who does not want his finger-nail to split
 a part or to become yellow or black must not clip it except on Thursday;
@@ -1525,11 +1351,6 @@ does
 ------------------------------------------------------------------------
 
 [[1]](#_F339) *Ibloj* sugar is a kind of plant.  
-  
-
-  
-
-  
 
 not want to be infected by yellows must not enter a house at once in
 summer and must not goes out of it at once in the early morning in
@@ -1567,12 +1388,6 @@ is obligatory on the traveler to be careful of heat. When he travels, he
 must be neither full nor hungry; rather he must be on a moderate level.
 He must have cold foods such as fresh meat, jelly, vinegar, oil, sour
 grapes juice, and others.
-
-  
-
-  
-
-  
 
 And know, O Commander of the faithful, that hard walking in intense heat
 harms exhausted bodies when they are empty of food, but it is useful to
@@ -1613,10 +1428,6 @@ dangers.
 
 Similarly, the Imām, peace be on him, has presented the kinds of water
 which the traveler must drink and must not drink, for the latter  
-
-  
-
-  
 
 harms his general health. He has accurately described water to the
 extent that none before or after him has described it in this manner.
@@ -1660,11 +1471,6 @@ of mine and directs his own body through it is safe, with 
 these matters, if they belong to him, for some interests in agreement
 with that al-Ma'mūn and his companions were famous for adopting the
 viewpoints of the wise men."  
-  
-
-  
-
-  
 
 Allahs permission, from all diseases; and his own body is good with
 Allahs help and power, for He gives well-being to whomever He wishes and
@@ -1708,18 +1514,12 @@ and his family, and on the authority of his pure fathers, peace be on
 them. A group of  researchers has stated that this dissertation is one
 of the works of Imām al-Ridā, peace be on him.[[1]](#_ftn341)
 
-  
-
 ------------------------------------------------------------------------
 
 [[341]](#_F341) Kashf al-Zinūn, vol. 2, p. 1076. Hidāyat al-'Ārifin,
 vol. 1, p. 668. Mu'jam al-Mu'allifin, vol. 7, p. 250. Al-Dhari'a, vol.
 15, pp. 17-18. Kashf al-Hujub wa al-Astār, pp. 366-367. Al-Bihār, vol.
 1, p. 11. Mustaddrak al-Wasā'il, vol. 3, p. 344.  
-
-  
-
-  
 
 Any how, this dissertation is among the treasures of Prophet and of the
 members of the House (*ahl al-Bayt)*, peace be on them, and of the
@@ -1731,11 +1531,8 @@ Cairo by al-Maāhid Press, near al-Azhar, in the year 1340 A. H., and
 then it was printed by al-Allāma Abd al-Wāsi, who classified it into ten
 chapters, which are as follows:
 
-  
-
 ------------------------------------------------------------------------
 
 Al-Najāshi, p. 159. Al-Amāli, al-Tawhid, al-'Uyūn, and others.  
  [[342]](#_F342) Sahifat al-Ridā, p. 2.  
-  
 

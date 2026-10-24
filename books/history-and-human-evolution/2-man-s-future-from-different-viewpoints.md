@@ -68,4 +68,3 @@ changed their form without changing the content, then some people say:
 let us drop this matter once for all. And this is one type of view and
 theory.
 
-

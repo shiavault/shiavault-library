@@ -1603,4 +1603,3 @@ as Qabus Nameh, Reuben Levy, G.M.S. London, 1951, Chap. 2.
 
 [^139]: Ibid., p. 5.
 
-

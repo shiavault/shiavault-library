@@ -144,4 +144,3 @@ popular works in Persian based on the doctrine of wahdat al-wujūd and
 al-insān al-kāmil. It is not possible, however, in this short historical
 review to deal with all such figures.
 
-

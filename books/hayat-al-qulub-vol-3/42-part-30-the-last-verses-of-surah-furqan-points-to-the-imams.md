@@ -6,12 +6,8 @@ Imams
 
 Almighty Allah says in Surah Furqan:
 
-<blockquote dir="rtl">
-  <p>
-وَعِبَادُ الرَّحْمَانِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا
-وَإِذَا خَاطَبَهُمْ الْجَاهِلُونَ قَالُوا سَلَامًا.
-  </p>
-</blockquote>
+> وَعِبَادُ الرَّحْمَانِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا
+> وَإِذَا خَاطَبَهُمْ الْجَاهِلُونَ قَالُوا سَلَامًا.
 
 ***And the servants of the Beneficent God are they who walk on the earth
 in humbleness, and when the ignorant address them, they say: Peace.
@@ -27,11 +23,7 @@ them safe from sins or say something good to them or salutes them.
 According to traditions this was also revealed in praise of the legatees
 who do goodness with the enemy.
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا.
-  </p>
-</blockquote>
+> وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا.
 
 ***And they who pass the night prostrating themselves before their Lord
 and standing. (Surah Furqan 25:64)***
@@ -40,14 +32,10 @@ Traditions say that this verse was revealed in praise of the Holy Imams
 (a.s.) and Barqi in *Mahasin* from Sulaiman Ibne Khalid has narrated
 that while reading Quran, when he reached this verse of Surah Furqan:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلَا يَقْتُلُونَ
-النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ
-وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا. يُضَاعَفْ لَهُ الْعَذَابُ
-يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا.
-  </p>
-</blockquote>
+> وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلَا يَقْتُلُونَ
+> النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ
+> وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا. يُضَاعَفْ لَهُ الْعَذَابُ
+> يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا.
 
 ***And they who do not call upon another god with Allah and do not slay
 the soul, which Allah has forbidden except in the requirements of
@@ -60,13 +48,9 @@ Imam Sadiq (a.s.) said these verses were revealed for us. And by Allah,
 He has advised us although He knew we would never commit fornication.
 Sulaiman says then I read this verse:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُوْلَئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
-رَحِيمًا.
-  </p>
-</blockquote>
+> إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُوْلَئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
+> رَحِيمًا.
 
 ***Except him who repents and believes and does a good deed; so these
 are they of whom Allah changes the evil deeds to good ones… (Surah
@@ -102,12 +86,8 @@ other place. Insha Allah.
 Sulaiman has said in the tradition of *Mahasin* that I read the
 remaining verses till I reached the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ
-مَرُّوا كِرَامًا.
-  </p>
-</blockquote>
+> وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ
+> مَرُّوا كِرَامًا.
 
 ***And they who do not bear witness to what is false, and when they pass
 by what is vain, they pass by nobly. (Surah Furqan 25:72)***
@@ -119,12 +99,8 @@ and do not pay any heed to them. When I read this verse the Hazrat said:
 This verse is in our praise and our qualities are mentioned in it. After
 that I read this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا ذُكِّرُوا بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّوا
-عَلَيْهَا صُمًّا وَعُمْيَانًا.
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا ذُكِّرُوا بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّوا
+> عَلَيْهَا صُمًّا وَعُمْيَانًا.
 
 ***And they who, when reminded of the communications of their Lord, do
 not fall down thereat deaf and blind. (Surah Furqan 25:73)***
@@ -134,13 +110,9 @@ verses, which are in our praise, are recited before you, you believe in
 them and do not doubt it, rather you think and ponder over it. Sulaiman
 says then I recited:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا
-وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ
-إِمَامًا.
-  </p>
-</blockquote>
+> وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا
+> وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ
+> إِمَامًا.
 
 ***And they who say: O our Lord! grant us in our wives and our offspring
 the joy of our eyes, and make us guides to those who guard (against
@@ -185,12 +157,8 @@ so my eyes illuminated and I become happy. Then he said: ‘and make us
 guides to those who guard’. It means we follow the pious ones who were
 before us and people who came after us should follow us.
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا
-تَحِيَّةً وَسَلَامًا.
-  </p>
-</blockquote>
+> أُوْلَئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا
+> تَحِيَّةً وَسَلَامًا.
 
 ***These shall be rewarded with high places because they were
 patient…(Surah Furqan 25:75)***
@@ -206,5 +174,4 @@ Furqan 25:75)***
 It means that angels come to welcome them and give them news of peace
 and salutations from Allah. They will forever remain in elevated houses
 and palaces of Paradise.
-
 

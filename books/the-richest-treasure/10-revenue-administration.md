@@ -32,4 +32,3 @@ cultivator’s ruin is the rulers who are bent feverishly on accumulating
 wealth at all costs, out of the fear that their rule might not last
 long. Such are the people who do not learn from examples or precedents.
 
-

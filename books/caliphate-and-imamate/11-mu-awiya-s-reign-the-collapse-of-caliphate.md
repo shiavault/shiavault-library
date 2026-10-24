@@ -245,4 +245,3 @@ pernicious crimes (*mubiqa*) committed by Mu'awiya.[^13]
 
 [^13]: Tabari, Ta'rikh, 146.
 
-

@@ -9,4 +9,3 @@ know how any given person would die. He gave his allegiance to Muslim
 Ibn Aqeel in Kufah. He also was a close friend of Maytham Al-Tammar, a
 loyal companion of Imam Ali.
 
-

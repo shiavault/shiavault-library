@@ -823,4 +823,3 @@ can also be known as the al-Qa‘dah.
 
 [^26]: Surat al-Nisa’ 4:128.
 
-

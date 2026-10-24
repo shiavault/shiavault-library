@@ -1,19 +1,15 @@
 Twenty-Seventh Hadith: Prayer And Concentration
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى الشَّيْخِ الأَجَلِّ والثِقَةِ الجَلِيلِ
-مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِي، رِضْوَانُ اللهِ عَلَيْهِ، عَنْ
-عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ
-مَحْبُوبٍ عَنْ عُمَرَ بْنِ يَزِيدَ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
-السَّلامُ قَالَ: فِي التَّوْرَاةِ مَكْتُوبٌ: يَا ابْنَ آدَمَ،
-تَفَرَّغْ لِعِبَادَتِي أَمْلَأْ قَلْبَكَ غِنىً وَلا أَكِلْكَ إلَى
-طَلَبِكَ وَعَلَيَّ أنْ أَسُدَّ فَاقَتَكَ وَأَمْلَأَ قَلْبَكَ خَوْفاً
-مِنِّي. وَإنْ لا تَفْرَغْ لِعِبَادَتِي أَمْلَأْ قَلْبَكَ شُغْلاً
-بِالدُّنْيَا ثُمَّ لا أَسُدَّ فَاقَتَكَ وَأَكِلْكَ إلَى طَلَبِكَ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى الشَّيْخِ الأَجَلِّ والثِقَةِ الجَلِيلِ
+> مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِي، رِضْوَانُ اللهِ عَلَيْهِ، عَنْ
+> عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ
+> مَحْبُوبٍ عَنْ عُمَرَ بْنِ يَزِيدَ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ قَالَ: فِي التَّوْرَاةِ مَكْتُوبٌ: يَا ابْنَ آدَمَ،
+> تَفَرَّغْ لِعِبَادَتِي أَمْلَأْ قَلْبَكَ غِنىً وَلا أَكِلْكَ إلَى
+> طَلَبِكَ وَعَلَيَّ أنْ أَسُدَّ فَاقَتَكَ وَأَمْلَأَ قَلْبَكَ خَوْفاً
+> مِنِّي. وَإنْ لا تَفْرَغْ لِعِبَادَتِي أَمْلَأْ قَلْبَكَ شُغْلاً
+> بِالدُّنْيَا ثُمَّ لا أَسُدَّ فَاقَتَكَ وَأَكِلْكَ إلَى طَلَبِكَ.
 
 With my chain of transmitters reaching up to the most venerable shaykh
 and the trustworthy authority Muhammad ibn Ya’qub al-Kulayni (R) who
@@ -38,12 +34,8 @@ for the sake of worship (*‘ibadah*) means ‘emptying’ it for the sake of
 worship of attention to anything else. The lexicographers explain the
 verb *mala’a* (filled) as follows:
 
-<blockquote dir="rtl">
-  <p>
-مَلأَ الإنَاءَ ماءً ومِنَ الماءِ وبالماءِ: وضعَ فيهِ بقَدرِ ما
-يأخُذُهُ.
-  </p>
-</blockquote>
+> مَلأَ الإنَاءَ ماءً ومِنَ الماءِ وبالماءِ: وضعَ فيهِ بقَدرِ ما
+> يأخُذُهُ.
 
 He ‘filled’ the vessel with water, i.e. he put in it a quantity that it
 can hold.
@@ -51,11 +43,7 @@ can hold.
 *Akilu* is a variant in the first person of *yakilu.* The lexicographers
 explain its usage as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَكلَ إليهِ الأمرَ: أيْ سلَّمَهُ وفَوَّضهُ وترَكه ُإلَيه واكتَفَى به.
-  </p>
-</blockquote>
+> وَكلَ إليهِ الأمرَ: أيْ سلَّمَهُ وفَوَّضهُ وترَكه ُإلَيه واكتَفَى به.
 
 He ‘entrusted’ him with the matter, means, he turned it over to him,
 delegated it to him, left it to him, and put it completely in his
@@ -115,15 +103,11 @@ making light of *salat* and not giving it its due importance. These
 pages cannot contain all the traditions that exist in this context, and
 sere we will mention a few of them for the sake of lesson.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمَّدِ بْنِ يَعْقُوبَ بِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ
-عَلَيْهِ السَّلامُ قَالَ: لا تَتَهَاوَنْ بِصَلاتِكَ فَإنَّ النَّبِيَّ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ عِنْدَ مَوْتِهِ: لَيْسَ مِنِّي
-مَنِ اسْتَخَفَّ بِصَلاتِهِ، لَيْسَ مِنِّي مَنْ شَرِبَ مُسْكِراً، لا
-يَرِدُ عَلَيَّ الحَوْضَ لا وَاللهِ.
-  </p>
-</blockquote>
+> عَنْ مُحَمَّدِ بْنِ يَعْقُوبَ بِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ
+> عَلَيْهِ السَّلامُ قَالَ: لا تَتَهَاوَنْ بِصَلاتِكَ فَإنَّ النَّبِيَّ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ عِنْدَ مَوْتِهِ: لَيْسَ مِنِّي
+> مَنِ اسْتَخَفَّ بِصَلاتِهِ، لَيْسَ مِنِّي مَنْ شَرِبَ مُسْكِراً، لا
+> يَرِدُ عَلَيَّ الحَوْضَ لا وَاللهِ.
 
 Muhammad ibn Ya’qub (al-Kulayni) reports with his isnad from Abu Ja’far
 (A) that he said to Zurarah (R): Don’t be negligent in regard to your
@@ -132,13 +116,9 @@ makes light of his prayers does not belong to me, nor the one who takes
 intoxicating drinks, and, by God, he will not return to me at the Pond
 (of al-Kawthar).”[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أَبِي بَصِيرٍقاَلَ: قَالَ أَبُو الحَسَنِ الأَوَّلُ
-عَلَيْهِ السَّلامُ: لَمَّا حَضَرَتْ أَبِي الوَفَاةُ قَالَ لِي: يَا
-بُنَيَّ، لا يَنَالُ شَفَاعَتَنَا مَنِ اسْتَخَفَّ بِالصَّلاةِ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أَبِي بَصِيرٍقاَلَ: قَالَ أَبُو الحَسَنِ الأَوَّلُ
+> عَلَيْهِ السَّلامُ: لَمَّا حَضَرَتْ أَبِي الوَفَاةُ قَالَ لِي: يَا
+> بُنَيَّ، لا يَنَالُ شَفَاعَتَنَا مَنِ اسْتَخَفَّ بِالصَّلاةِ.
 
 Al-Kulayni reports with his isnad from Abu Basir that Abu al-Hasan
 al-Awwal (Imam al-Kazim) (A) said: At the time of his death my father
@@ -270,14 +250,10 @@ attention of the heart, on which depends the soul and essence of worship
 and without which it has no value and acceptability near God, the
 Exalted, as mentioned in sacred traditions.
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنْ أِبِي جَعْفَرٍ وَأَبِي عَبْدِاللهِ
-عَلَيْهِمَا السَّلامُ أَنَّهُمَا قَالا: إِنَّمَا لَكَ مِنْ صَلاتِكَ
-مَا أَقْبَلْتَ عَلَيْهِ مِنْهَا، فَإنْ أَوْهَمَهَا كُلَّهَا أَوْ
-غَفِلَ عَنْ آدَابِهَا لُفَّتْ فَضُرِبَ بِهَا وَجْهُ صَاحِبِهَا.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنْ أِبِي جَعْفَرٍ وَأَبِي عَبْدِاللهِ
+> عَلَيْهِمَا السَّلامُ أَنَّهُمَا قَالا: إِنَّمَا لَكَ مِنْ صَلاتِكَ
+> مَا أَقْبَلْتَ عَلَيْهِ مِنْهَا، فَإنْ أَوْهَمَهَا كُلَّهَا أَوْ
+> غَفِلَ عَنْ آدَابِهَا لُفَّتْ فَضُرِبَ بِهَا وَجْهُ صَاحِبِهَا.
 
 In al-Kafi, al-Kulayni reports with his isnad from Abu Ja’far and Abu
 ‘Abd Allah (A) that they said to Fudayl ibn Yasar: The reward that you
@@ -285,19 +261,15 @@ derive from your salat is limited to the extent that you offer it with
 an attentive heart. And if someone should vitiate all of it or neglect
 its etiquette, it is wound up and thrown at the face of its offerer.[^4]
 
-<blockquote dir="rtl">
-  <p>
-وَرَوَى الشَّيْخُ الأَقْدَمُ مُحَمَّدُ بْنُ الحَسَنِ رِضْوَانُ اللهِ
-عَلَيْهِ فِي التَّهْذِيبِ بِإسْنَادِهِ عَنِ الثُّمَالِيِّ قَالَ:
-رَأَيْتُ عَلِيَّ بْنَ الحُسَيْنِ عَلَيْهِمَا السَّلامُ يُصَلِّي
-فَسَقَطَ رِدَاؤُهُ عَنْ مَنْكِبِهِ فَلَمْ يُسَوِّهِ حَتَّى فَرَغَ مِنْ
-صَلاتِهِ. قَالَ: فَسَأَلْتُهُ عَنْ ذَلِكَ، فَقَالَ: وَيْحَكَ!
-أَتَدْرِي بَيْنَ يَدَيْ مَنْ كُنْتُ؟ إنَّ العَبْدَ لا يُقْبَلُ مِنْهُ
-صَلاةٌ إلا مَا أَقْبَلَ مِنْهَا. فَقُلْتُ: جُعِلْتُ فِدَاكَ،
-هَلَكْنَا! قَالَ: كَلا، إنَّ اللهَ مُتَمِّمٌ ذَلِكَ لِلْمُؤْمِنِينَ
-بِالنَّوَافِلِ.
-  </p>
-</blockquote>
+> وَرَوَى الشَّيْخُ الأَقْدَمُ مُحَمَّدُ بْنُ الحَسَنِ رِضْوَانُ اللهِ
+> عَلَيْهِ فِي التَّهْذِيبِ بِإسْنَادِهِ عَنِ الثُّمَالِيِّ قَالَ:
+> رَأَيْتُ عَلِيَّ بْنَ الحُسَيْنِ عَلَيْهِمَا السَّلامُ يُصَلِّي
+> فَسَقَطَ رِدَاؤُهُ عَنْ مَنْكِبِهِ فَلَمْ يُسَوِّهِ حَتَّى فَرَغَ مِنْ
+> صَلاتِهِ. قَالَ: فَسَأَلْتُهُ عَنْ ذَلِكَ، فَقَالَ: وَيْحَكَ!
+> أَتَدْرِي بَيْنَ يَدَيْ مَنْ كُنْتُ؟ إنَّ العَبْدَ لا يُقْبَلُ مِنْهُ
+> صَلاةٌ إلا مَا أَقْبَلَ مِنْهَا. فَقُلْتُ: جُعِلْتُ فِدَاكَ،
+> هَلَكْنَا! قَالَ: كَلا، إنَّ اللهَ مُتَمِّمٌ ذَلِكَ لِلْمُؤْمِنِينَ
+> بِالنَّوَافِلِ.
 
 Al-Shaykh Muhammad ibn al-Hasan al-Tusi (R) reports in al-Tahdhib with
 his isnad from Abu Hamzah al-Thumali that he said, “I saw ‘Ali ibn
@@ -311,15 +283,11 @@ then we (i.e. the like of us) are doomed!” He replied, “No indeed.
 Verily God compensates for that for the faithful by the means of
 supererogatory prayers.”[^5]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ الخِصَالِ: بِإسْنَادِهِ عَنْ عِلِيٍّ عَلَيْهِ السَّلامُ فِي
-حَدِيثِ الأرْبَعْمِائَةِ قَالَ: لا يَقُومَنَّ أَحَدُكُمْ فِي الصَّلاةِ
-مُتَكاسِلاً وَلا نَاعِساً، وَلا يُفَكِّرَنَّ فِي نَفْسِهِ فَإنَّهُ
-بَيْنَ يَدَيْ رَبِّهِ عَزَّ وَجَلَّ، وَإنَّمَا لِلْعَبْدِ مِنْ
-صَلاتِهِ مَا أقْبَلَ عَلَيْهِ مِنْهَا بِقَلْبِهِ.
-  </p>
-</blockquote>
+> وَعَنِ الخِصَالِ: بِإسْنَادِهِ عَنْ عِلِيٍّ عَلَيْهِ السَّلامُ فِي
+> حَدِيثِ الأرْبَعْمِائَةِ قَالَ: لا يَقُومَنَّ أَحَدُكُمْ فِي الصَّلاةِ
+> مُتَكاسِلاً وَلا نَاعِساً، وَلا يُفَكِّرَنَّ فِي نَفْسِهِ فَإنَّهُ
+> بَيْنَ يَدَيْ رَبِّهِ عَزَّ وَجَلَّ، وَإنَّمَا لِلْعَبْدِ مِنْ
+> صَلاتِهِ مَا أقْبَلَ عَلَيْهِ مِنْهَا بِقَلْبِهِ.
 
 In al-Khisal, (al-Shaykh al-Saduq) reports with his isnad from ‘Ali (A)
 that he said, “None of you should ever stand for salat in a lazy or
@@ -333,18 +301,14 @@ There are many traditions on this theme and concerning the merit of
 attentiveness. Here we will cite some of them, which are sufficient for
 those who will take lesson.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الحُسَيْنِ صَدُوقِ الطَّائِفَةِ
-بِإسْنَادِهِ عَنْ عَبْدِاللهِ بْنِ يَعْفُورَ قَالَ: قَالَ أَبُو
-عَبْدِاللهِ الصَّادِقُ جَعْفَرُ بْنُ مُحَمَّدٍ عَلَيْهِ السَّلامُ: يَا
-عَبْدَاللهِ، إذَا صَلَّيْتَ صَلاةَ فَرِيضَةٍ فَصَلِّهَا لِوَقْتِهَا
-صَلاةَ مُوَدِّعٍ يَخَافُ أنْ لا يَعُودَ إِلَيْهَا، ثُمَّ اصْرِفْ
-بِبَصَرِكَ إلَى مَوْضِعِ سُجُودِكَ، فَلَوْ تَعْلَمُ مَنْ عَنْ
-يَمِينِكَ وَعَنْ شَمَالِكَ لأحْسَنْتَ صَلاتَكَ، وَاعْلَمْ أَنَّكَ
-بَيْنَ يَدَيْ مَنْ يَرَاكَ وَلا تَرَاهُ.
-  </p>
-</blockquote>
+> عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الحُسَيْنِ صَدُوقِ الطَّائِفَةِ
+> بِإسْنَادِهِ عَنْ عَبْدِاللهِ بْنِ يَعْفُورَ قَالَ: قَالَ أَبُو
+> عَبْدِاللهِ الصَّادِقُ جَعْفَرُ بْنُ مُحَمَّدٍ عَلَيْهِ السَّلامُ: يَا
+> عَبْدَاللهِ، إذَا صَلَّيْتَ صَلاةَ فَرِيضَةٍ فَصَلِّهَا لِوَقْتِهَا
+> صَلاةَ مُوَدِّعٍ يَخَافُ أنْ لا يَعُودَ إِلَيْهَا، ثُمَّ اصْرِفْ
+> بِبَصَرِكَ إلَى مَوْضِعِ سُجُودِكَ، فَلَوْ تَعْلَمُ مَنْ عَنْ
+> يَمِينِكَ وَعَنْ شَمَالِكَ لأحْسَنْتَ صَلاتَكَ، وَاعْلَمْ أَنَّكَ
+> بَيْنَ يَدَيْ مَنْ يَرَاكَ وَلا تَرَاهُ.
 
 Muhammad ibn ‘Ali ibn al-Husayn, the saduq of the community, reports
 with his isnad from ‘Abd Allah ibn Abi Ya’fur that Imam al-Sadiq (A)
@@ -356,17 +320,13 @@ your left or right, you take more care in offering your salat; then know
 that you stand in front of Someone Who sees you and you don’t see
 Him.”[^7]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ
-أنَّهُ قَالَ: إنِّي لأُحِبُّ الرَّجُلَ المُؤْمِنَ مِنْكُمْ إذَا قَامَ
-فِي صَلاةِ فَرِيضَةٍ أنْ يُقْبِلَ بِقَلْبِهِ إلَى اللهِ تَعَالَى وَلا
-يُشْغِلَ قَلْبَهُ بِأَمْرِ الدُّنْيَا فَلَيْسَ مِنْ عَبْدٍ يُقْبِلُ
-بِقَلْبِهِ فِي صَلاتِهِ إلَى اللهِ تَعَالَى إلا أَقْبَلَ اللهُ إلَيْهِ
-بِوَجْهِهِ وَأَقْبَلَ بِقُلُوبِ المُؤْمِنِينَ إلَيْهِ بِالمَحَبَّةِ
-بَعْدَ حُبِّ اللهِ إيَّاهُ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ
+> أنَّهُ قَالَ: إنِّي لأُحِبُّ الرَّجُلَ المُؤْمِنَ مِنْكُمْ إذَا قَامَ
+> فِي صَلاةِ فَرِيضَةٍ أنْ يُقْبِلَ بِقَلْبِهِ إلَى اللهِ تَعَالَى وَلا
+> يُشْغِلَ قَلْبَهُ بِأَمْرِ الدُّنْيَا فَلَيْسَ مِنْ عَبْدٍ يُقْبِلُ
+> بِقَلْبِهِ فِي صَلاتِهِ إلَى اللهِ تَعَالَى إلا أَقْبَلَ اللهُ إلَيْهِ
+> بِوَجْهِهِ وَأَقْبَلَ بِقُلُوبِ المُؤْمِنِينَ إلَيْهِ بِالمَحَبَّةِ
+> بَعْدَ حُبِّ اللهِ إيَّاهُ.
 
 Imam al-Sadiq (A) said, “Dear to me is the believer from among you who
 attends to God with his heart at the time of prayer and does not
@@ -387,14 +347,10 @@ nescience. And the Commander of the Faithful (A) and his noble
 descendants say in the supplications known as the *Munajat
 al-Sha’baniyyah:*
 
-<blockquote dir="rtl">
-  <p>
-اِلَهِي هَبْ لِي كَمَالَ الانْقِطَاعِ إلَيْكَ وَأَنِرْ أَبْصَارَ
-قُلُوبِنَا بِضِيَاءِ نَظَرِهَا إلَيْكَ حَتَّى تَخْرِقَ أَبْصَارُ
-القُلُوبِ حُجُبَ النُّورِ فَتَصِلَ إلَى مَعْدِنِ العَظَمَةِ وَتَصِيرَ
-أَرْوَاحُنَا مُعَلَّقَةً بِعِزِّ قُدْسِكَ.
-  </p>
-</blockquote>
+> اِلَهِي هَبْ لِي كَمَالَ الانْقِطَاعِ إلَيْكَ وَأَنِرْ أَبْصَارَ
+> قُلُوبِنَا بِضِيَاءِ نَظَرِهَا إلَيْكَ حَتَّى تَخْرِقَ أَبْصَارُ
+> القُلُوبِ حُجُبَ النُّورِ فَتَصِلَ إلَى مَعْدِنِ العَظَمَةِ وَتَصِيرَ
+> أَرْوَاحُنَا مُعَلَّقَةً بِعِزِّ قُدْسِكَ.
 
 My God, grant me the utmost absorption in Thee and illuminate the vision
 of our hearts with the light of Thy Vision, until the sight of the
@@ -420,14 +376,10 @@ God’s love and to seek His Face. But as to the like of us, who don’t
 belong to this field and valley, we would do better to stick to other
 traditions like the following ones:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ ثَوَابِ الأَعْمَالِ: بِإسْنَادِهِ عَمَّنْ سَمِعَ أَبَا
-عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: مَنْ صَلَّى رَكْعَتَيْنِ
-يَعْلَمُ مَا يَقُولُ فِيهِمَا انْصَرَفَ وَلَيْسَ بَيْنَهُ وَبَيْنَ
-اللهِ ذَنْبٌ إلا غُفِرَ لَهُ.
-  </p>
-</blockquote>
+> عَنْ ثَوَابِ الأَعْمَالِ: بِإسْنَادِهِ عَمَّنْ سَمِعَ أَبَا
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: مَنْ صَلَّى رَكْعَتَيْنِ
+> يَعْلَمُ مَا يَقُولُ فِيهِمَا انْصَرَفَ وَلَيْسَ بَيْنَهُ وَبَيْنَ
+> اللهِ ذَنْبٌ إلا غُفِرَ لَهُ.
 
 In the Thawab al-a’mal, al-Shaykh al-Saduq reports with his chain of
 transmitters from someone who heard Imam al-Sadiq (A) that he used to
@@ -553,12 +505,8 @@ equally and uniformly present before His Sanctity. They are all
 manifestations of His unfolding Will, as mentioned in the following
 sacred tradition from *al-Kafi*
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ: خَلَقَ اللهُ المَشِيَّةَ
-بِنَفْسِهَا ثُمَّ خَلَقَ الأَشْيَاءَ بِالمَشِيَّةِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ: خَلَقَ اللهُ المَشِيَّةَ
+> بِنَفْسِهَا ثُمَّ خَلَقَ الأَشْيَاءَ بِالمَشِيَّةِ.
 
 Imam al-Sadiq (A) said, “God created the Will by itself. Then He brought
 all things into existence through the agency of the Will.”[^11]
@@ -598,11 +546,7 @@ mystic path remain in the state of annihilation in Names (*fana’
 al-asmai*) and do not come to themselves. Perhaps the following sacred
 tradition is a reference to this group of *awliya’:*
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أَوْلِيائِي تَحْتَ قِبابِي لا يَعْرِفُهُمْ غَيْرِي.
-  </p>
-</blockquote>
+> إنَّ أَوْلِيائِي تَحْتَ قِبابِي لا يَعْرِفُهُمْ غَيْرِي.
 
 Verily, My awliya’, under My vault (i.e. the sky), are known to none
 except Me.[^12]
@@ -615,12 +559,8 @@ reaching the last stage of annihilation in Essence and total swoon, his
 journey ends and complete annihilation is attained. Some have said that
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ
-ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ
+> ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ.﴾
 
 *Whoso goes forth from his house an emigrant to God and His Messenger,
 and then death overtakes him, his wage shall have fallen on God.(4:100)*
@@ -629,11 +569,7 @@ And sometimes the wayfarer may recover from this station, whereupon, by
 virtue of his capacity and in accordance with the scope of his permanent
 prototype, he devotes himself to the guidance of the creatures:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الْمُدَّثِّرُ. قُمْ فَأَنذِرْ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الْمُدَّثِّرُ. قُمْ فَأَنذِرْ.﴾
 
 ***O thou shrouded in thy mantle, arise, and warn!*** (***74:1-2***)
 
@@ -663,18 +599,14 @@ was experienced by Imam al-Sadiq (A) during the course of *‘ibadah* is
 something that is not possible for others. It is narrated from Sayyid
 Ibn Tawus (Q) as mentioned in the *Falah al-sa’il,* that he said:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ رُوِيَ أنَّ مَوْلانَا جَعْفَرَ بْنَ مُحَمَّدٍ الصَّادِقَ
-عَلَيْهِ السَّلامُ كَانَ يَتْلُو القُرْآنَ فِي صَلاتِهِ فَغُشِيَ
-عَلَيْهِ. فَلَمَّا أَفَاقَ سُئِلَ: مَا الَّذِي أَوْجَبَ مَا انْتَهَتْ
-حَالُكَ إلَيْهِ؟ فَقَالَ مَا مَعْنَاهُ: مَا زِلْتُ أُكَرِّرُ آيَاتِ
-القُرْآنِ حَتَّى بَلَغْتُ إلَى حَالٍ كَأَنَّنِي سَمِعْتُهَا
-مُشَافَهَةً مِمَّنْ أَنْزَلَهَا عَلَى المُكَاشَفَةِ وَالعِيَانِ.
-فَلَمْ تَقُمِ القُوَّةُ البَشَرِيَّةُ بِمُكَاشَفَةِ الجَلالَةِ
-الإلَهِيَّةِ.
-  </p>
-</blockquote>
+> فَقَدْ رُوِيَ أنَّ مَوْلانَا جَعْفَرَ بْنَ مُحَمَّدٍ الصَّادِقَ
+> عَلَيْهِ السَّلامُ كَانَ يَتْلُو القُرْآنَ فِي صَلاتِهِ فَغُشِيَ
+> عَلَيْهِ. فَلَمَّا أَفَاقَ سُئِلَ: مَا الَّذِي أَوْجَبَ مَا انْتَهَتْ
+> حَالُكَ إلَيْهِ؟ فَقَالَ مَا مَعْنَاهُ: مَا زِلْتُ أُكَرِّرُ آيَاتِ
+> القُرْآنِ حَتَّى بَلَغْتُ إلَى حَالٍ كَأَنَّنِي سَمِعْتُهَا
+> مُشَافَهَةً مِمَّنْ أَنْزَلَهَا عَلَى المُكَاشَفَةِ وَالعِيَانِ.
+> فَلَمْ تَقُمِ القُوَّةُ البَشَرِيَّةُ بِمُكَاشَفَةِ الجَلالَةِ
+> الإلَهِيَّةِ.
 
 It has been narrated that our master, Ja’far ibn Muhammad al Sadiq (A)
 was once reciting the Qur’an in his *salat*. He went into a swoon, and
@@ -688,12 +620,8 @@ The states that occurred to the Noble Messenger (S) were such that the
 like of them have not been experienced by any other creature, as
 mentioned in this famous tradition:
 
-<blockquote dir="rtl">
-  <p>
-لِي مَعَ اللهِ حَالٌ لا يَسَعُهُ مَلَكٌ مُقَرَّبٌ وَلا نَبِيٌّ
-مُرْسَلٌ.
-  </p>
-</blockquote>
+> لِي مَعَ اللهِ حَالٌ لا يَسَعُهُ مَلَكٌ مُقَرَّبٌ وَلا نَبِيٌّ
+> مُرْسَلٌ.
 
 I experience a state with God for which neither an archangel nor an
 apostolic prophet has the capacity.[^14]
@@ -705,12 +633,8 @@ must refrain from negating their truth. Rather, we must acquiesce to
 them, for acquiescence to the affair of the *awliya’* is very beneficial
 and its negation—may God be our refuge—is greatly harmful.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إنِّي مُسَلِّمٌ لأَمْرِهِمْ صَلَوَاتُ اللهِ عَلَيْهِمْ
-أَجْمَعِينَ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إنِّي مُسَلِّمٌ لأَمْرِهِمْ صَلَوَاتُ اللهِ عَلَيْهِمْ
+> أَجْمَعِينَ.
 
 O God, I acquiesce in their affair, may God’s benedictions be upon them
 all.
@@ -737,21 +661,13 @@ material for their building, as mentioned in *hadith*, and there are
 many verses in the Sacred Book of God that indicate the incarnation of
 works, like these statements of God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
-  </p>
-</blockquote>
+> ﴿فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
 
 ***And whoso doth good an atom’s weight will see it, and whoso doth ill
 an atom’s weight will see it.*** (***99:7-8***)
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
-  </p>
-</blockquote>
+> ﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
 
 ***And they find all that they did confronting them.*** (***18:49***)
 
@@ -760,20 +676,16 @@ possession of hidden *malakuti* forms are many and scattered throughout
 the various chapters and here we will confine ourselves to a few of
 them.
 
-<blockquote dir="rtl">
-  <p>
-رَوَى الصَّدُوقُ قُدِّسَ سِرُّهُ بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ
-جَعْفَرِ بْنِ مُحَمَّدٍ الصَّادِقُ عَلَيْهِ السَّلامُ قَالَ: مَنْ
-صَلَّى الصَّلَوَاتِ المَفْرُوضَاتِ فِي أَوَّلِ وَقْتِهَا فَأَقَامَ
-حُدُودَهَا، رَفَعَهَا المَلَكُ إلَى السَّمَاءِ بَيْضَاءَ نَقِيَّةً
-وَهِيَ تَهْتِفُ بِهِ: حَفِظَكَ اللهُ كَمَا حَفِظْتَنِي وَاسْتَوْدَعَكَ
-اللهُ كَمَا اسْتَوْدَعْتَنِي مَلَكاً كَرِيماً. وَمَنْ صَلاّهَا بَعْدَ
-وَقْتِهَا مِنْ غَيْرِ عِلَّةٍ فَلَمْ يُقِمْ حُدُودَهَا رَفَعَهَا
-المَلَكُ سَوْدَاءَ مُظْلِمَةً وَهِيَ تَهْتِفُ بِهِ: ضَيَّعْتَنِي
-ضَيَّعَكَ اللهُ كَمَا ضَيَّعْتَنِي وَلا رَعَاكَ اللهُ كَمَا لَمْ
-تَرْعَنِي.
-  </p>
-</blockquote>
+> رَوَى الصَّدُوقُ قُدِّسَ سِرُّهُ بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ
+> جَعْفَرِ بْنِ مُحَمَّدٍ الصَّادِقُ عَلَيْهِ السَّلامُ قَالَ: مَنْ
+> صَلَّى الصَّلَوَاتِ المَفْرُوضَاتِ فِي أَوَّلِ وَقْتِهَا فَأَقَامَ
+> حُدُودَهَا، رَفَعَهَا المَلَكُ إلَى السَّمَاءِ بَيْضَاءَ نَقِيَّةً
+> وَهِيَ تَهْتِفُ بِهِ: حَفِظَكَ اللهُ كَمَا حَفِظْتَنِي وَاسْتَوْدَعَكَ
+> اللهُ كَمَا اسْتَوْدَعْتَنِي مَلَكاً كَرِيماً. وَمَنْ صَلاّهَا بَعْدَ
+> وَقْتِهَا مِنْ غَيْرِ عِلَّةٍ فَلَمْ يُقِمْ حُدُودَهَا رَفَعَهَا
+> المَلَكُ سَوْدَاءَ مُظْلِمَةً وَهِيَ تَهْتِفُ بِهِ: ضَيَّعْتَنِي
+> ضَيَّعَكَ اللهُ كَمَا ضَيَّعْتَنِي وَلا رَعَاكَ اللهُ كَمَا لَمْ
+> تَرْعَنِي.
 
 Al-Shaykh al-Saduq (Q) reports with his isnad from Imam al-Sadiq (A)
 that he said: When someone offers an obligatory salat at the beginning
@@ -794,33 +706,25 @@ traditions indicate that all existents have a *malakuti* life, or rather
 the world of *malakut* is Life and consciousness through and through, as
 spelled out by this Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا
-يَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا
+> يَعْلَمُونَ.﴾
 
 ***Surely, the abode of the Hereafter is life, did they but know.***
 (***29:64***)
 
-<blockquote dir="rtl">
-  <p>
-وَفِي الكَافِي بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
-فِي حَدِيثٍ طَوِيلٍ: إذَا بَعَثَ اللهُ المُؤْمِنَ مِنْ قَبْرِهِ خَرَجَ
-مَعَهُ مِثَالٌ يَقْدِمُ أَمَامَهُ. كُلَّمَا رَأَى المُؤْمِنُ هَوْلاً
-مِنْ أَهْوَالِ يَوْمِ القِيَامَةِ قَالَ لَهُ المِثَالُ: لا تَفْزَعْ
-وَلا تَحْزَنْ وَأَبْشِرْ بِالسُّرُورِ وَالكَرَامَةِ مِنَ اللهِ عَزَّ
-وَجَلَّ، حَتَّى يَقِفَ بَيْنَ يَدَيِ اللهِ عَزَّ وَجَلَّ فَيُحَاسِبُهُ
-حِسَاباً يَسِيراً وَيَأْمُرُ بِهِ إلَى الجَنَّةِ، وَالمِثَالُ
-أَمَامَهُ، فَيَقُولُ لَهُ المُؤْمِنُ: يَرْحَمُكَ اللهَ، نِعْمَ
-الخَارِجُ! خَرَجْتَ مَعِيَ مِنْ قَبْرِي وَمَا زِلْتَ تُبَشِّرُنِي
-بِالسُّرُورِ وَالكَرَامَةِ مِنَ اللهِ حَتَّى رَأَيْتُ ذَلِكَ.
-فَيَقُولُ مَنْ أَنْتَ؟ فَيَقُولُ: أَنَا السُّرُورُ الَّذِي كُنْتَ
-أَدْخَلْتَ عَلَى أَخِيكَ المُؤْمِنِ فِي الدُّنْيَا، خَلَقَنِيَ اللهُ
-عَزَّ وَجَلَّ مِنْهُ لأُبَشِّرَكَ.
-  </p>
-</blockquote>
+> وَفِي الكَافِي بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> فِي حَدِيثٍ طَوِيلٍ: إذَا بَعَثَ اللهُ المُؤْمِنَ مِنْ قَبْرِهِ خَرَجَ
+> مَعَهُ مِثَالٌ يَقْدِمُ أَمَامَهُ. كُلَّمَا رَأَى المُؤْمِنُ هَوْلاً
+> مِنْ أَهْوَالِ يَوْمِ القِيَامَةِ قَالَ لَهُ المِثَالُ: لا تَفْزَعْ
+> وَلا تَحْزَنْ وَأَبْشِرْ بِالسُّرُورِ وَالكَرَامَةِ مِنَ اللهِ عَزَّ
+> وَجَلَّ، حَتَّى يَقِفَ بَيْنَ يَدَيِ اللهِ عَزَّ وَجَلَّ فَيُحَاسِبُهُ
+> حِسَاباً يَسِيراً وَيَأْمُرُ بِهِ إلَى الجَنَّةِ، وَالمِثَالُ
+> أَمَامَهُ، فَيَقُولُ لَهُ المُؤْمِنُ: يَرْحَمُكَ اللهَ، نِعْمَ
+> الخَارِجُ! خَرَجْتَ مَعِيَ مِنْ قَبْرِي وَمَا زِلْتَ تُبَشِّرُنِي
+> بِالسُّرُورِ وَالكَرَامَةِ مِنَ اللهِ حَتَّى رَأَيْتُ ذَلِكَ.
+> فَيَقُولُ مَنْ أَنْتَ؟ فَيَقُولُ: أَنَا السُّرُورُ الَّذِي كُنْتَ
+> أَدْخَلْتَ عَلَى أَخِيكَ المُؤْمِنِ فِي الدُّنْيَا، خَلَقَنِيَ اللهُ
+> عَزَّ وَجَلَّ مِنْهُ لأُبَشِّرَكَ.
 
 In al-Kafi, al-Kulayni reports with his isnad from Imam al-Sadiq (A)
 that he said in the course of a long tradition: When the man of faith is
@@ -849,13 +753,9 @@ Evil deeds and beliefs will appear in dark and ugly forms, causing
 extreme grief and agony to their owners, as stated by a group of
 exegetes under this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
-بَعِيدًا.﴾
-  </p>
-</blockquote>
+> ﴿يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
+> بَعِيدًا.﴾
 
 ***The day every soul shall find what it has done of good brought
 forward, and what it has done n f evil; it will wish if there were only
@@ -864,13 +764,9 @@ a far span between itself and that,*** (***3:30***)
 And we are led to the same interpretation by this statement of God, the
 Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ.
-فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
-  </p>
-</blockquote>
+> ﴿يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ.
+> فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
 
 ***Upon that day men shall issue in scatterings to see their works, and
 whoso has done an atom’s weight of good shall see it, and whoso has done
@@ -890,11 +786,7 @@ resurrection, although the former supports the latter and the word
 similar signification to what it has in this statement of God, the
 Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا.﴾
-  </p>
-</blockquote>
+> ﴿فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا.﴾
 
 (***Then We sent unto her [i.e. Mary***) ***Our Spirit,***) ***that
 presented itself to her in the form of a man without fault.***
@@ -943,27 +835,19 @@ shortcomings and, then, those of the *nawafil*, for as mentioned in the
 noble traditions the *nawafil* compensate for the defects of the
 *fara’id* and cause them to be accepted.
 
-<blockquote dir="rtl">
-  <p>
-فِي العِلَلِ: بِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ
-قَالَ: إنَّمَا جُعِلَتِ النَّافِلَةُ لِيَتُمَّ بِهَا مَا يَفْسُدُ مِنَ
-الفَرِيضَةِ.
-  </p>
-</blockquote>
+> فِي العِلَلِ: بِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ
+> قَالَ: إنَّمَا جُعِلَتِ النَّافِلَةُ لِيَتُمَّ بِهَا مَا يَفْسُدُ مِنَ
+> الفَرِيضَةِ.
 
 In the ‘Ilal al-shara’i, (al-Shaykh al-Saduq) reports with his isnad
 from Abu Ja’far (A)that he said; “Verily the supererogatory acts of
 worship have been laid down in order to compensate for that which is
 vitiated out of the obligatory acts.”[^18]
 
-<blockquote dir="rtl">
-  <p>
-وَرَوَى الشَّيْخُ قُدِّسَ سِرُّهُ بِإسْنَادِهِ عَنْ أبِي بَصِيرٍ
-قَالَ: قَالَ أبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: يُرْفَعُ لِلرَّجُلِ
-مِنَ الصَّلاةِ رُبُعُهَا أَوْ ثُُمْنُهَا أَوْ نِصْفُهَا أَوْ أَكْثَرُ
-بِقَدَرِ مَا سَهَا. وَلَكِنَّ اللهَ يُتِمُّ ذَلِكَ بِالنَّوَافِلِ.
-  </p>
-</blockquote>
+> وَرَوَى الشَّيْخُ قُدِّسَ سِرُّهُ بِإسْنَادِهِ عَنْ أبِي بَصِيرٍ
+> قَالَ: قَالَ أبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: يُرْفَعُ لِلرَّجُلِ
+> مِنَ الصَّلاةِ رُبُعُهَا أَوْ ثُُمْنُهَا أَوْ نِصْفُهَا أَوْ أَكْثَرُ
+> بِقَدَرِ مَا سَهَا. وَلَكِنَّ اللهَ يُتِمُّ ذَلِكَ بِالنَّوَافِلِ.
 
 Al-Shaykh al-Tusi (Q) reports with his isnad from Abu Basir that Imam
 al-Sadiq (A) said, “Out of the salat offered by a man only .a half of it
@@ -1004,44 +888,40 @@ difficulty lies ahead of us, and how narrow and dark is the path! Now
 consider the following tradition and guess the enormousness of the
 matter from this brief *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ ذُخْرِ الطَّائِفَةِ وَفَخْرِهَا وَعِمَادِهَا مُحَمَّدِ بْنِ
-مُحَمَّدِ بْنِ النُّعْمَانِ المُفِيدِ، رِضْوَانُ اللهِ عَلَيْهِ، فِي
-الإرْشَادِ: عَنْ سَعِيدِ بْنِ كُلْثُومٍ قَالَ: كُنْتُ عِنْدَ
-الصَّادِقِ جَعْفَرِ بْنِ مُحَمَّدٍ عَلَيْهِمَا السَّلامُ فَذَكَرَ
-أَمِيرَ المُؤْمِنِينَ عَلِيَّ بْنَ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ
-فَأَطْرَاهُ وَمَدَحَهُ بِمَا هُوَ أَهْلُهُ، ثُمَّ قَالَ: وِاللهِ، مَا
-أَكَلَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ مِنَ الدُّنْيَا
-حَرَاماً قَطُّ حَتَّى مَضَى لِسَبِيلِهِ. وَمَا عُرِضَ لَهُ أَمْرَانِ
-قَطُّ هُمَا للهِ رِضىً إلا أَخَذَ بِأَشَدِّهِمَا عَلَيْهِ فِي دِينِهِ.
-وَمَا نَزَلَتْ بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ نَازِلَةٌ
-إلاّ دَعَاهُ فَقَدَّمَهُ ثِقَةً بِهِ. وَمَا أَطَاقَ أَحَدٌ عَمَلَ
-رَسُولِ اللهِ مِنْ هَذِهِ الأُمَّةِ غَيْرُهُ. وَإنْ كَانَ لَيَعْمَلُ
-عَمَلِ رَجُلٍ كَأَنَّ وَجْهَهُ بَيْنَ الجَنَّةِ وَالنَّارِ؛ يَرْجُو
-ثَوَابَ هَذِهِ وَيَخَافُ عِقَابَ هَذِهِ. وَلَقَدْ أَعْتَقَ مِنْ
-مَالِهِ أَلْفَ مَمْلُوكٍ فِي طَلَبِ وَجْهِ اللهِ وَالنَّجَاةِ مِنَ
-النَّارِ مِمَّا كَدَّ بِيَدَيْهِ وَرَشَحَ مِنْهُ جَبِينُهُ. وَإنْ
-كَانَ لَيُقَوِّتُ أَهْلَهُ بِالزَّيْتِ وَالخَلِّ وَالعَجْوَةِ. وَمَا
-كَانَ لِبَاسُهُ إلاّ الكَرَابِيسُ. إذَا فَضَلَ شَيْءٌ عَنْ يَدِهِ مِنْ
-كُمِّهِ دَعَا بالجَلَمِ فَقَصَّهُ. وَمَا أَشْبَهَهُ مِنْ وُلْدِهِ وَلا
-أَهْلِ بَيْتِهِ أَحَدٌ أَقْرَبُ شُبْهاً بِهِ فِي لِبَاسِهِ وَفِقْهِهِ
-مِنْ عَلِيِّ بْنِ الحُسَيْنِ عَلَيْهِمَا السَّلامُ. وَلَقَدْ دَخَلَ
-أَبُو جَعْفَرٍ - ابْنُهُ - عَلَيْهِمَا السَّلامُ عَلَيْهِ فَإذَا هُوَ
-قَدْ بَلَغَ مِنَ العِبَادَةِ مَا لَمْ يَبْلُغْهُ أَحَدٌ فَرَآهُ قَدِ
-اصْفَرَّ لَوْنُهُ مِنَ السَّهَرِ وَرَمَصَتْ عَيْنَاهُ مِنَ البُكَاءِ
-وَدَبِرَتْ جَبْهَتُهُ وَانْخَرَمَ أَنْفُهُ مِنَ السُّجُودِ وَوَرُمَتْ
-سَاقَاهُ وَقَدَمَاهُ مِنَ القِيَامِ فِي الصَّلاةِ، فَقَالَ أبُو
-جَعْفَرٍ عَلَيْهِ السَّلامُ: فَلَمْ أَمْلِكْ حِينَ رَأَيْتُهُ بِتِلْكَ
-الحَالِ البُكَاءَ، فَبَكَيْتُ رَحْمَةً لَهُ. وَإذَا هُوَ يُفَكِّرُ،
-فَالْتَفَتَ إلَيَّ بَعْدَ هُنَيْهَةٍ مِنْ دُخُولِي فَقَالَ: يَا
-بُنَيَّ، أَعْطِنِي بَعْضَ تِلْكَ الصُّحُفِ الَّتِي فِيهَا عِبَادَةُ
-عَلِيِّ بْنِ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ. فَأَعْطَيْتُهُ،
-فَقَرَأَ فِيهَا شَيْئاً يَسِيراً ثُمَّ تَرَكَهَا مِنْ يَدِهِ
-تَضَجُّراً وَقَالَ: مَنْ يَقْوَى عَلَى عِبَادَةِ عَلِيٍّ عَلَيْهِ
-السَّلامُ؟
-  </p>
-</blockquote>
+> عَنْ ذُخْرِ الطَّائِفَةِ وَفَخْرِهَا وَعِمَادِهَا مُحَمَّدِ بْنِ
+> مُحَمَّدِ بْنِ النُّعْمَانِ المُفِيدِ، رِضْوَانُ اللهِ عَلَيْهِ، فِي
+> الإرْشَادِ: عَنْ سَعِيدِ بْنِ كُلْثُومٍ قَالَ: كُنْتُ عِنْدَ
+> الصَّادِقِ جَعْفَرِ بْنِ مُحَمَّدٍ عَلَيْهِمَا السَّلامُ فَذَكَرَ
+> أَمِيرَ المُؤْمِنِينَ عَلِيَّ بْنَ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ
+> فَأَطْرَاهُ وَمَدَحَهُ بِمَا هُوَ أَهْلُهُ، ثُمَّ قَالَ: وِاللهِ، مَا
+> أَكَلَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ مِنَ الدُّنْيَا
+> حَرَاماً قَطُّ حَتَّى مَضَى لِسَبِيلِهِ. وَمَا عُرِضَ لَهُ أَمْرَانِ
+> قَطُّ هُمَا للهِ رِضىً إلا أَخَذَ بِأَشَدِّهِمَا عَلَيْهِ فِي دِينِهِ.
+> وَمَا نَزَلَتْ بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ نَازِلَةٌ
+> إلاّ دَعَاهُ فَقَدَّمَهُ ثِقَةً بِهِ. وَمَا أَطَاقَ أَحَدٌ عَمَلَ
+> رَسُولِ اللهِ مِنْ هَذِهِ الأُمَّةِ غَيْرُهُ. وَإنْ كَانَ لَيَعْمَلُ
+> عَمَلِ رَجُلٍ كَأَنَّ وَجْهَهُ بَيْنَ الجَنَّةِ وَالنَّارِ؛ يَرْجُو
+> ثَوَابَ هَذِهِ وَيَخَافُ عِقَابَ هَذِهِ. وَلَقَدْ أَعْتَقَ مِنْ
+> مَالِهِ أَلْفَ مَمْلُوكٍ فِي طَلَبِ وَجْهِ اللهِ وَالنَّجَاةِ مِنَ
+> النَّارِ مِمَّا كَدَّ بِيَدَيْهِ وَرَشَحَ مِنْهُ جَبِينُهُ. وَإنْ
+> كَانَ لَيُقَوِّتُ أَهْلَهُ بِالزَّيْتِ وَالخَلِّ وَالعَجْوَةِ. وَمَا
+> كَانَ لِبَاسُهُ إلاّ الكَرَابِيسُ. إذَا فَضَلَ شَيْءٌ عَنْ يَدِهِ مِنْ
+> كُمِّهِ دَعَا بالجَلَمِ فَقَصَّهُ. وَمَا أَشْبَهَهُ مِنْ وُلْدِهِ وَلا
+> أَهْلِ بَيْتِهِ أَحَدٌ أَقْرَبُ شُبْهاً بِهِ فِي لِبَاسِهِ وَفِقْهِهِ
+> مِنْ عَلِيِّ بْنِ الحُسَيْنِ عَلَيْهِمَا السَّلامُ. وَلَقَدْ دَخَلَ
+> أَبُو جَعْفَرٍ - ابْنُهُ - عَلَيْهِمَا السَّلامُ عَلَيْهِ فَإذَا هُوَ
+> قَدْ بَلَغَ مِنَ العِبَادَةِ مَا لَمْ يَبْلُغْهُ أَحَدٌ فَرَآهُ قَدِ
+> اصْفَرَّ لَوْنُهُ مِنَ السَّهَرِ وَرَمَصَتْ عَيْنَاهُ مِنَ البُكَاءِ
+> وَدَبِرَتْ جَبْهَتُهُ وَانْخَرَمَ أَنْفُهُ مِنَ السُّجُودِ وَوَرُمَتْ
+> سَاقَاهُ وَقَدَمَاهُ مِنَ القِيَامِ فِي الصَّلاةِ، فَقَالَ أبُو
+> جَعْفَرٍ عَلَيْهِ السَّلامُ: فَلَمْ أَمْلِكْ حِينَ رَأَيْتُهُ بِتِلْكَ
+> الحَالِ البُكَاءَ، فَبَكَيْتُ رَحْمَةً لَهُ. وَإذَا هُوَ يُفَكِّرُ،
+> فَالْتَفَتَ إلَيَّ بَعْدَ هُنَيْهَةٍ مِنْ دُخُولِي فَقَالَ: يَا
+> بُنَيَّ، أَعْطِنِي بَعْضَ تِلْكَ الصُّحُفِ الَّتِي فِيهَا عِبَادَةُ
+> عَلِيِّ بْنِ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ. فَأَعْطَيْتُهُ،
+> فَقَرَأَ فِيهَا شَيْئاً يَسِيراً ثُمَّ تَرَكَهَا مِنْ يَدِهِ
+> تَضَجُّراً وَقَالَ: مَنْ يَقْوَى عَلَى عِبَادَةِ عَلِيٍّ عَلَيْهِ
+> السَّلامُ؟
 
 The pride of the community and its authority, its treasure and pillar,
 Muhammad ibn Muhammad ibn al-Nu’man al-Mufid (R) reports in al-Irshad
@@ -1081,13 +961,9 @@ gave it to him. He read a little from it and then set it aside in
 exasperation. Then he declared, “Who has the strength to worship like
 ‘Ali ibn Abi Talib (A)!”[^21]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ: كَانَ عَلِيُّ بْنُ
-الحُسَيْنِ عَلَيْهِمَا السَّلامُ يُصَلِّي فِي اليَوْمِ وَاللَّيْلَةِ
-أَلْفَ رَكْعَةٍ، وَكَانَتِ الرِّيحُ تُمَيِّلُهُ مِثْلَ السُّنْبُلَةِ.
-  </p>
-</blockquote>
+> وَعَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ: كَانَ عَلِيُّ بْنُ
+> الحُسَيْنِ عَلَيْهِمَا السَّلامُ يُصَلِّي فِي اليَوْمِ وَاللَّيْلَةِ
+> أَلْفَ رَكْعَةٍ، وَكَانَتِ الرِّيحُ تُمَيِّلُهُ مِثْلَ السُّنْبُلَةِ.
 
 Imam al-Baqir (A) said, “Ali ibn al-Husayn (A) used to offer one
 thousand rak’ahs of salat in every day and night. The wind would sway
@@ -1126,12 +1002,8 @@ Yours and to the extent of our capacity. How will You deal with this
 handful of dust? Will it be with anything except compassion and
 magnanimity?
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ رَحْمَتُكَ الوَاسِعَةُ؟ أيْنَ أيَادِيكَ الشَّامِلَةُ؟ أيْنَ
-فَضْلُكَ العَمِيمُ؟ أَيْنَ كَرَمُكَ يَا كَرِيمُ؟
-  </p>
-</blockquote>
+> أَيْنَ رَحْمَتُكَ الوَاسِعَةُ؟ أيْنَ أيَادِيكَ الشَّامِلَةُ؟ أيْنَ
+> فَضْلُكَ العَمِيمُ؟ أَيْنَ كَرَمُكَ يَا كَرِيمُ؟
 
 Where is Your all-inclusive compassion? Where is Your all-inclusive
 help? Where is Your universal magnanimity? Where is Your generosity, O
@@ -1177,12 +1049,8 @@ understanding that no existent possesses anything of itself and that
 there is no power, honor or authority except through God, and listens to
 the voice of the *malakuti* caller and the call from the Unseen that:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ.﴾
 
 ***O mankind, you have the ones that have need of God; He is the
 All-sufficient, the All-laudable,*** (***35:15***)
@@ -1209,11 +1077,7 @@ together with association with the poor-given this choice I will select
 the company of the poor and will not surrender myself to the disgrace of
 associating with the rich and:
 
-<blockquote dir="rtl">
-  <p>
-النّارُ خَيرٌ منَ العَارِ.
-  </p>
-</blockquote>
+> النّارُ خَيرٌ منَ العَارِ.
 
 The Fire is better than dishonor.
 
@@ -1230,11 +1094,7 @@ absolutely All-sufficient will bring absolute self-sufficiency,
 immersing the heart in the ocean of honor and contentment and filling it
 with freedom from need:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ.﴾
-  </p>
-</blockquote>
+> ﴿وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ.﴾
 
 ***Yet honor belongs to God, arid to His Messenger and the faithful.***
 (***63:8***)
@@ -1245,15 +1105,11 @@ servant, or, rather, He becomes his hearing, vision, and limbs, and this
 nearness is the outcome of the *nawafil* as mentioned in this tradition
 of *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي: بِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ فِي
-حَدِيثٍ: وَإنَّهُ لَيَتَقَرَّبُ إلَيَّ بِالنَّافِلَةِ حَتَّى
-أُحِبُّهُ، فَإذَا أَحْبَبْتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ
-وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنْطِقُ بِهِ
-وَيَدَهُ الَّتِي يَبْطِشُ بِهَا.
-  </p>
-</blockquote>
+> الكَافِي: بِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ فِي
+> حَدِيثٍ: وَإنَّهُ لَيَتَقَرَّبُ إلَيَّ بِالنَّافِلَةِ حَتَّى
+> أُحِبُّهُ، فَإذَا أَحْبَبْتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ
+> وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنْطِقُ بِهِ
+> وَيَدَهُ الَّتِي يَبْطِشُ بِهَا.
 
 In al-Kafi, (al-Kulayni reports) with his isnad from Abu Ja’far (A) that
 in a hadith qudsi God says, “...And verily he seeks nearness to Me
@@ -1270,22 +1126,14 @@ Majesty fills the entire heart of the devotee, who no longer sees any
 greatness, majesty or efficiency in anything other than God, having
 perceived in his heart the fact signified by this statement:
 
-<blockquote dir="rtl">
-  <p>
-لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
-  </p>
-</blockquote>
+> لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
 
 No one is effective in the realm of existence except God.
 
 There is a reference to this point in the *hadith* under exposition,
 where it says:
 
-<blockquote dir="rtl">
-  <p>
-تَفَرَّغْ لِعِبَادَتِي أَمْلَأْ قَلْبَكَ غِنىً.
-  </p>
-</blockquote>
+> تَفَرَّغْ لِعِبَادَتِي أَمْلَأْ قَلْبَكَ غِنىً.
 
 Empty yourself for My worship so that I may fill your heart with ghina.
 
@@ -1390,5 +1238,4 @@ heart, as remarked by al-Jawhari.
 
 [^23]: Usul al-Kafi, ii, “kitab al-’iman wa al-kufr” “bab man adha
 al-muslimin” hadith no. 8.
-
 

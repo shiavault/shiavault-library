@@ -234,4 +234,3 @@ surely kill him. You should know that he is having a very exalted
 status. He is the prophet of this Ummah and he shall arise with the
 sword and Jihad.”
 
-

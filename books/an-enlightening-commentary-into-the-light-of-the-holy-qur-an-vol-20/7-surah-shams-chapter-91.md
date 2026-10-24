@@ -8,11 +8,7 @@ Surah Shams, Chapter 91
 The Contents of the Surah
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -50,73 +46,29 @@ the 'purification of the carnal soul' is his constant duty.
 Surah Shams, Verses 1-10
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّمْسِ وَضُحَاهَا
-  </p>
-</blockquote>
+> وَالشَّمْسِ وَضُحَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالْقَمَرِ إِذَا تَلَاهَا
-  </p>
-</blockquote>
+> وَالْقَمَرِ إِذَا تَلَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّهَارِ إِذَا جَلَّاهَا
-  </p>
-</blockquote>
+> وَالنَّهَارِ إِذَا جَلَّاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذَا يَغْشَاهَا
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذَا يَغْشَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاء وَمَا بَنَاهَا
-  </p>
-</blockquote>
+> وَالسَّمَاء وَمَا بَنَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالْأَرْضِ وَمَا طَحَاهَا
-  </p>
-</blockquote>
+> وَالْأَرْضِ وَمَا طَحَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
-  </p>
-</blockquote>
+> فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَن زَكَّاهَا
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَن زَكَّاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ خَابَ مَن دَسَّاهَا
-  </p>
-</blockquote>
+> وَقَدْ خَابَ مَن دَسَّاهَا
 
 ***1. “By the Sun and its Brightness,"***  
 ***2. “By the Moon when it follows it (reflects the Sun's light),"***  
@@ -515,36 +467,16 @@ of Satan.
 Surah Shams, Verses 11-15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا
-  </p>
-</blockquote>
+> كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا
 
-<blockquote dir="rtl">
-  <p>
-إِذِ انبَعَثَ أَشْقَاهَا
-  </p>
-</blockquote>
+> إِذِ انبَعَثَ أَشْقَاهَا
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا
-  </p>
-</blockquote>
+> فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ
-فَسَوَّاهَا
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ
+> فَسَوَّاهَا
 
-<blockquote dir="rtl">
-  <p>
-ولَا يَخَافُ عُقْبَاهَا
-  </p>
-</blockquote>
+> ولَا يَخَافُ عُقْبَاهَا
 
 ***11. “The Thamood (people) rejected (their prophet) through their
 inordinate wrong doing,"***  
@@ -829,5 +761,4 @@ vol. 6, p. 7168.
 [^12]: Surah Hud, No. 11, Verse 67
 
 [^13]: Surah Hud, No. 11, Verse 66
-
 

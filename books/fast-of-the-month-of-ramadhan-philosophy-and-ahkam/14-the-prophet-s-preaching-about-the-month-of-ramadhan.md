@@ -125,4 +125,3 @@ al-Qummi al-Saduq, quotes one tradition indicating that the Messenger of
 Allah (S) has said, "The sleep of someone fasting is like adoration, and
 his breath praises the Almighty."
 
-

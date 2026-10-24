@@ -6,23 +6,15 @@ During the period of Ghaibat it is the duty to help Imam az-Zaman (aj).
 Because one who has helped Imam (as) has actually helped Allah. As Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ
-عَزِيزٌ
-  </p>
-</blockquote>
+> وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ
+> عَزِيزٌ
 
 ***Indeed Allah helps those who help Allah. Certainly Allah is all
 powerful, the mighty. (Qur’an, Surah Hajj 22:40)***
 
 Elsewhere, Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
-  </p>
-</blockquote>
+> إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
 
 ***If you help Allah, He shall help you and make you firm-footed.***
 ***(Qur’an, Surah Muhammad 47:7)***
@@ -34,12 +26,8 @@ not have any kind of need because He is the absolute cause and Himself
 is Self- sufficient and all the creatures are in need of Him, whereas He
 Himself says:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ
-الْحَمِيدُ
-  </p>
-</blockquote>
+> أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ
+> الْحَمِيدُ
 
 ***You all are poor in relation to Allah while Allah is the self-
 sufficient, the praised one. (Qur’an, Surah Fatir 35:15)***
@@ -70,11 +58,7 @@ in this life their success over their enemies depends upon the time and
 circumstances. Thus sometimes our friends are in power and sometimes
 they are overpowered. The phrase:
 
-<blockquote dir="rtl">
-  <p>
-وَيُثَبِّتْ أَقْدَامَكُمْ
-  </p>
-</blockquote>
+> وَيُثَبِّتْ أَقْدَامَكُمْ
 
 ***And makes them firm-footed… (Qur’an, Surah Muhammad 47:7)***
 
@@ -100,24 +84,15 @@ to perform an Istikhara to ask the Almighty whether I should present
 some traditional report of the Holy Imams (as) to illustrate this point
 further, but when I opened the Holy Qur’an the following verse appeared:
 
-<blockquote dir="rtl">
-  <p>
-ۗ وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ
-عَزِيزٌ.
-  </p>
-</blockquote>
+> ۗ وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ
+> عَزِيزٌ.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
-وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ.
-  </p>
-</blockquote>
+> الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
+> وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ.
 
 ***And surely Allah will help him who helps His cause; most surely Allah
 is Strong, Mighty. Those who, should We establish them in the land, will
 keep up prayer and pay the poor-rate and enjoin good and forbid evil;
 and Allah’s is the end of affairs. (Qur’an, Surah Hajj 22:40-41)***
-
 

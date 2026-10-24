@@ -59,4 +59,3 @@ speak such truth! Later, he said that the love of Ali (a.s.) was
 inscribed on his heart. This shows that the love of Ali (a.s.) is not a
 voluntary action.
 
-

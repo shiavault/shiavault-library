@@ -2087,4 +2087,3 @@ intellect, sound judgment and conscience, and by your prayers to your
 God so that He completes His blessings on you and completes your
 religion!
 
-

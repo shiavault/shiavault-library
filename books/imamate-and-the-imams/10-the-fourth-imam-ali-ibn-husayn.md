@@ -449,4 +449,3 @@ to Umm Salamah and some of them to his daughter, Fatimah.
 
 [^41]: Biharul Anwar, Vol 46, p. 96.
 
-

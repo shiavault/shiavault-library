@@ -24,4 +24,3 @@ about names like Abdun-Nabi and Abdul- Husayn. At the same time, those
 who criticize the Shias for using these names, they themselves call
 their bosses “my master’ and they have no problem with it!
 
-

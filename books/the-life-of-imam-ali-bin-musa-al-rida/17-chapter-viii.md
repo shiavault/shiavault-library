@@ -1,10 +1,6 @@
 Chapter Viii
 ============
 
-  
-
-  
-
 ON THE HOLY QUR ĀN
 ==================
 
@@ -29,18 +25,11 @@ and sought refuge in Him from the Fire.[[3]](#_ftn401)
 Before we present some examples of his interpretations on some verses,
 we would like to mention some points relating to the subject:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F399) 'Uyūn Akhbār al-Ridā, vol. 2, p. 180.  
  [[2]](#_F400) Ibid., p. 180. Bihār al-Anwār, vol. 12, p. 23.  
  [[3]](#_F401) 'Uyūn Akhbār al-Ridā, vol. 2, p. 180.  
-  
-
-  
-
-  
 
 His Mentioning some Words
 -------------------------
@@ -91,11 +80,6 @@ down from the heaven is *Bismil lāhir rahmānir rahim*
 ------------------------------------------------------------------------
 
 [[1]](#_F402) Ibid., p. 183.  
-  
-
-  
-
-  
 
 (in the Name of Allah, the Most Gracious, the Most Merciful). It was
 also narrated on the authority of Imām al-Ridā, peace be on him, who
@@ -135,8 +119,6 @@ the interpreters of the Qurān. The following are some of them:
 their hearts and upon their hearing and there is a covering over their
 eyes, and there is a great punishment for them.[[5]](#_ftn407)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F403) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 1, p. 21.  
@@ -144,11 +126,6 @@ eyes, and there is a great punishment for them.[[5]](#_ftn407)
  [[3]](#_F405) 'Uyūn Akhbār al-Ridā, vol. 2, p. 180.  
  [[4]](#_F406) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 1, p. 20.  
  [[5]](#_F407) Qur'ān, 2, 7.  
-  
-
-  
-
-  
 
 The Imām, peace be on him, said: *Al-khatm* means setting a seal upon
 the hearts of the unbelievers as a punishment for their
@@ -194,11 +171,6 @@ characteristic different from the characteristics
  [[3]](#_F410) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 1, p. 106.  
  [[4]](#_F411) Qur'ān, 2, 35.  
  [[5]](#_F412) 'Uyūn Akhbār al-Rida.  
-  
-
-  
-
-  
 
 (of the trees) in all the gardens of the world. The concourse
 *(tazāhum)* and contradiction *(tanāfi)* were little in that Garden or
@@ -233,19 +205,12 @@ the land; nor does she irrigate the tilth, sound, without a blemish in
 her. They said: Now you have brought the truth; so they sacrificed her,
 though they had not the mind to do (it).[[4]](#_ftn416)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F413) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 1, p. 188.  
  [[2]](#_F414) Qur'ān, 2, 55.  
  [[3]](#_F415) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 1, p. 255.  
  [[4]](#_F416) Qur'ān, 2, 67-71.  
-  
-
-  
-
-  
 
 The Imām, peace be on him, gave an explanation of them,  and Ahmed b.
 Abū Nasr al-Bizanti has narrated his explanation of them, saying: [I
@@ -298,10 +263,6 @@ that,
  the killed one was brought to life, and he said: O Allahs Messenger,  
  my cousin had killed me, and not the one who has been accused of  
 
-  
-
-  
-
 murdering me! Through that they came to know the murderer. Then a
 companion of Mūsā, the Messenger of Allah, said: This cow has a story.
 What is the story? asked Mūsā. The companion replied: They said: A young
@@ -334,8 +295,6 @@ peace be on him, said: It means a sheep, and this has been appointed
 according to the least of the people in ability, that the poor and the
 rich can (offer it).[[5]](#_ftn421)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F417) Al-'Ayyāshi, Tafsir.  
@@ -343,11 +302,6 @@ rich can (offer it).[[5]](#_ftn421)
  [[3]](#_F419) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 2, p. 355.  
  [[4]](#_F420) Qur'ān, 2, 196.  
  [[5]](#_F421) Mawāhib al-Rahmān fi Tafsir al-Qur'ān.  
-  
-
-  
-
-  
 
 8. Regarding the words of Him, the Exalted: And when he turns back, he
 runs along in the land that he may cause mischief in it and destroy the
@@ -390,11 +344,6 @@ him, explained the
  [[4]](#_F425) Qur'ān, 2, 210.  
  [[5]](#_F426) Ibid., 89, 22.  
  [[6]](#_F427) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 3, p. 270.  
-  
-
-  
-
-  
 
 ambiguous verses. As for these words of him, peace be on him: In this
 manner it was revealed means the clarifying and interpretative
@@ -429,8 +378,6 @@ him.[[5]](#_ftn432) The speech of the Imām, peace be on him, is not part
 of interpretation; rather it is part of the conclusion through the
 surface structure of the verse about what he has mentioned.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F428) Ibid., 4, 270.  
@@ -438,11 +385,6 @@ surface structure of the verse about what he has mentioned.
  [[3]](#_F430) Al-Qummi, Tafsir.  
  [[4]](#_F431) Qur'ān, 3, 33-34.  
  [[5]](#_F432) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 5, p. 328.  
-  
-
-  
-
-  
 
 12. Regarding the words of Him, the Most High: And when Allah said: O
 Īsā, I am going to terminate the period of your stay (on earth) and
@@ -479,19 +421,12 @@ therefore, the grade of the prophets is other than that of the
 Allah-fearing; the grade of the Allah-fearing is other that of the good,
 and so on.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F433) Qur'ān, 3, 54.  
  [[2]](#_F434) 'Uyūn Akhbār al-Ridā.  
  [[3]](#_F435) Mawāhib al-Rahmān fi Tafsir al-Qur'ān.  
  [[4]](#_F436) Al-'Ayyāshi, Tafsir.  
-  
-
-  
-
-  
 
 14. Regarding the words of Him, the Most High: You shall certainly be
 tried respecting your wealth and your souls.[[1]](#_ftn437)
@@ -537,11 +472,6 @@ Imām al-Ridā, peace be on him, was asked about the will of the
  [[5]](#_F441) Qur'ān, 4, 3.  
  [[6]](#_F442) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 7, p. 279.  
  [[7]](#_F443) Qur'ān, 4, 26.  
-  
-
-  
-
-  
 
 servants and the will of Allah, the Exalted, and he replied: The will of
 the servants is the pronoun and the action which appears after that. As
@@ -584,11 +514,6 @@ after them, should not singled out other than
  [[2]](#_F445) Qur'ān, 4, 34.  
  [[3]](#_F446) Mawāhib al-Rahmān fi Tafsir al-Qur'ān, vol. 8, p. 195.  
  [[4]](#_F447) Qur'ān, 4, 58.  
-  
-
-  
-
-  
 
 them with it, and should not withhold it from them.[[1]](#_ftn448)
 
@@ -636,11 +561,6 @@ His prophets.[[7]](#_ftn454)
  [[5]](#_F452) Al-Mizān, vol. 5, 120.  
  [[6]](#_F453) Qur'ān, 4, 141.  
  [[7]](#_F454) Al-Mizān, vol. 5, 120.  
-  
-
-  
-
-  
 
 hypocrites strive to deceive Allah, and He shall requite their deceit to
 them.[[1]](#_ftn455)
@@ -687,11 +607,6 @@ If he heads for the land of polytheism in order to enter it, then a
 [[1]](#_F455) Qur'ān, 4, 142.  
  [[2]](#_F456)Al-Mizān.  
  [[3]](#_F457) Qur'ān, 5, 33.  
-  
-
-  
-
-  
 
 war should be waged against its people, answered the
 Imām.[[1]](#_ftn458)
@@ -737,11 +652,6 @@ established for Him the limited meaning of the attribute which
  [[2]](#_F459) Qur'ān, 5, 101.  
  [[3]](#_F460) Al-'Ayyāshi, Tafsir.  
  [[4]](#_F461) Qur'ān, 6, 19.  
-  
-
-  
-
-  
 
 is in us and which is different from other attributes, namely His power
 is like that of us, His knowledge is like that of us, and so on. If His
@@ -784,11 +694,6 @@ Surely Ibrāhim lived in a society where three types of worship
  [[2]](#_F463) Qur'ān, 6, 38.  
  [[3]](#_F464) Al-Mizān, vol. 7, 106.  
  [[4]](#_F465) Qur'ān, 6, 77.  
-  
-
-  
-
-  
 
 dominated: the worship of Venus, the worship of the moon, and the
 worship of the sun. That was when he came out of the cave where he was
@@ -828,11 +733,6 @@ How good you are, O son of Allahs Messenger![[1]](#_ftn466)
 ------------------------------------------------------------------------
 
 [[1]](#_F466) Al-Mizān, vol. 7, 205.  
-  
-
-  
-
-  
 
 whomsoever Allah intends that He would guide him aright, He expands his
 breast for Islam.[[1]](#_ftn467)
@@ -877,11 +777,6 @@ for His servants and the good provisions*.[[4]](#_ftn470)
  [[2]](#_F468) Al-Mizān, vol. 7, 348.  
  [[3]](#_F469) Qur'ān, 7, 32.  
  [[4]](#_F470) Qurb al-Isnād.  
-  
-
-  
-
-  
 
 them the narrative of him to whom We gave our communications, but he
 withdraws himself from them, so the Shaitan overtakes him, so he is of
@@ -922,11 +817,6 @@ He, peace be on him, said: Allah has prohibited escaping from
 [[1]](#_F471) Qur'ān, 7, 175.  
  [[2]](#_F472) Al-Qummi, Tafsir.  
  [[3]](#_F473) Qur'ān, 8, 15.  
-  
-
-  
-
-  
 
 attack) results in murdering (them), taking them as prisoners, and
 abolishing the religion of Allah, the Great and Almighty, and (this
@@ -971,11 +861,6 @@ Allah, peace be on him, said: Surely, Allah, the Great and
  [[4]](#_F477) Qur'ān, 11, 34.  
  [[5]](#_F478) Al-'Ayyāshi, Tafsir.  
  [[6]](#_F479) Qur'ān, 11, 46.  
-  
-
-  
-
-  
 
 Almighty, said to Nūh: *He is not of your family*. For he (Nūhs son) was
 disobedient, and He (Allah) regarded those who followed him (Nūh) as
@@ -1024,11 +909,6 @@ killing and fornication.[[3]](#_ftn482)
 [[1]](#_F480) Al-Mizān, vol. 11, 245.  
  [[2]](#_F481) Qur'ān, 12, 24.  
  [[3]](#_F482) Al-Mizān, vol. 11, p. 166.  
-  
-
-  
-
-  
 
 shall sow for seven years continuously, then what you reap leave it in
 its ear except a little of which you eat.[[1]](#_ftn483)
@@ -1070,11 +950,6 @@ tribulation, that it may be a tribulation against them.
 ------------------------------------------------------------------------
 
 [[1]](#_F483) Qur'ān, 12, 47.  
-  
-
-  
-
-  
 
 However, it was Allah who has saved them at my hand. The King said: My
 view agrees with your view. Yusuf said: Surely I call Allah to witness
@@ -1122,11 +997,6 @@ entrust him with an office, to the extent that he said to him: *Place me
 
 [[1]](#_F484) Al-Burhān.  
  [[2]](#_F485) Qur'ān, 12, 55.  
-  
-
-  
-
-  
 
 surely I am a good keeper, knowing well. As for al-Mamūn, he has forced
 me to be his heir apparent.
@@ -1174,11 +1044,6 @@ Al-Mamūn asked Imām al-Ridā, peace be on him, and he, peace
  [[4]](#_F489) Qur'ān, 12, 106.  
  [[5]](#_F490) Al-'Ayyāshi, Tafsir.  
  [[6]](#_F491) Ibid., 12, 110.  
-  
-
-  
-
-  
 
 be on him, answered: [Allah says:] Till the apostles gave up hope (of
 their people) and (their people came to) think that they proved them to
@@ -1225,11 +1090,6 @@ the scholar and found him either sitting or
  [[6]](#_F497) Qur'ān, 15, 85.  
  [[7]](#_F498) Al-Mizān, vol. 11, p. 297.  
  [[8]](#_F499) Qur'ān, 18, 66.  
-  
-
-  
-
-  
 
 resting (on his elbow) in one of the islands of the sea. Mūsā, peace be
 on him,  greeted him, but he denied the greetings, for there were no
@@ -1281,11 +1141,6 @@ purity of the prophets and of their being the choice of
  [[2]](#_F501) Qur'ān, 21, 19.  
  [[3]](#_F502) Al-Mizān, vol. 14, 281.  
  [[4]](#_F503) Qur'ān, 21, 72-73.  
-  
-
-  
-
-  
 
 Allahs creatures. He, peace be on him, said: Then Allah, the Great and
 Almighty, honored him (i.e. Ibrāhim) when He placed it (i.e. the
@@ -1327,11 +1182,6 @@ up
 
 [[1]](#_F504) Al-Mizān, vol. 14, p. 308.  
  [[2]](#_F505) Qur'ān, 22, 28.  
-  
-
-  
-
-  
 
 towards Him in cases of hot weather and chilling cold, during security
 and fear, incessantly doing so, and due to all the benefits in it of
@@ -1371,8 +1221,6 @@ infallible?
 
 Yes, answered the Imām.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F506) Al-Mizān, vol. 14, p. 377-378.  
@@ -1381,11 +1229,6 @@ Yes, answered the Imām.
  [[4]](#_F509) Qur'ān, 24, 35.  
  [[5]](#_F510) Al-Mizān, vol. 15, p. 139.  
  [[6]](#_F511) Ibid., 28, 15.  
-  
-
-  
-
-  
 
 Tell me about these words of Allah: *So Mūsā struck him with his fist
 and killed him. He said: This is on account of Satans doing*. 
@@ -1424,12 +1267,6 @@ him. *So when he desired to seize him who was an enemy to them both, he
 said: O Mūsā, do you want to kill me as you killed a person yesterday?
 You desire nothing but that you should be a tyrant in the land, and you
 do not desire to be of those who act aright*.
-
-  
-
-  
-
-  
 
 So al-Mamūn said: May Allah reward you well on behalf of His prophets, O
 Abū al-Hasan.[[1]](#_ftn512)
@@ -1477,11 +1314,6 @@ inheritance to those whom We chose from among Our
  [[4]](#_F515) Qur'ān, 31, 10.  
  [[5]](#_F516) Al-Qummi, Tafsir.  
  [[6]](#_F517) Qur'ān, 35, 32.  
-  
-
-  
-
-  
 
 servants, and he, peace be on him, said: They are the children of
 Fātima. *And of them is he who foremost in deeds of goodness* is the
@@ -1520,17 +1352,10 @@ mentioned. It is more likely that the tradition is not correct from the
 beginning, for al-Ridā is more exalted than concluding his claim, which
 you have heard, through the verse.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F518) Al-Mizān, vol. 17, p. 49.  
  [[2]](#_F519) Qur'ān, 36, 40.  
-  
-
-  
-
-  
 
 Al-Sayyid al-Tābatabāi commented on the statement of al-Ālūsi, saying:
 It was vague for him (al-Ālūsi) to attain the reality of the night and
@@ -1570,12 +1395,6 @@ him: namely, the day comes before the night, namely, He (Allah) created
 the day before the night because the day precedes the night; and it is
 not as (some people) imagine that there are days and nights, and then
 the place of each of them is specified.
-
-  
-
-  
-
-  
 
 And the words of the objector (al-Ālūsi): And through arithmetic it has
 an approximate viewpoint, he does not know the meaning of his statement
@@ -1620,11 +1439,6 @@ Uryah in front of the coffin. Uryah was placed in front
 
 [[1]](#_F520) Al-Mizān, vol. 17, pp. 95-96.  
  [[2]](#_F521) Qur'ān, 38, 21-22.  
-  
-
-  
-
-  
 
 (of the coffin), and he defeated the polytheists. So Dāwud find that
 difficult and again wrote to his companion in order to place Uryah in
@@ -1666,10 +1480,6 @@ saying: During the days of Dāwud, a widow never get married after the
 death of her husband. Dāwud, peace be on him, was the first man whom
 Allah permitted to marry the widow whose husband had  
 
-  
-
-  
-
 been killed. Accordingly, he married Uryahs wife after he had been
 killed, and her waiting period had been over. This made the people
 accused Dāwud of killing Uryah.[[1]](#_ftn522)
@@ -1703,8 +1513,6 @@ in the Garden is the highest of all grades, and he who visits him in his
 grade of position in the Garden certainly visits Allah, the Blessed and
 Exalted.[[5]](#_ftn526)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F522) Al-Mizān, vol. 17, 200.  
@@ -1712,11 +1520,6 @@ Exalted.[[5]](#_ftn526)
  [[3]](#_F524) Al-Mizān, vol. 17, 229.  
  [[4]](#_F525) Qur'ān, 48, 10.  
  [[5]](#_F526) Al-Mizān, vol. 18, 225-226.  
-  
-
-  
-
-  
 
 59. Regarding the words of Him, the Exalted: And in the night, give Him
 glory too, and at the setting of the stars[[1]](#_ftn527), he, peace be
@@ -1752,8 +1555,6 @@ shall be bright, looking to their Lord [[7]](#_ftn533), he, peace be on
 him, said: They mean that they (the faces) will be bright and wait for
 the reward of their Lord.[[8]](#_ftn534)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F527) Qur'ān, 52, 49.  
@@ -1764,11 +1565,6 @@ the reward of their Lord.[[8]](#_ftn534)
  [[6]](#_F532) Al-Kharā'ijj wa al-Jarā'ih.  
  [[7]](#_F533) Qur'ān, 75, 22-23.  
  [[8]](#_F534) Al-Mizān, vol. 20,116.  
-  
-
-  
-
-  
 
 63. Regarding the glorification in the words of Him, the Exalted: And
 give glory to Him (a) long (part of the) night[[1]](#_ftn535), Ahmed b.
@@ -1812,11 +1608,6 @@ the way?* He means with your people, *and show the way*
  [[5]](#_F539) Qur'ān, 90, 11.  
  [[6]](#_F540) Al-Mizān, vol. 20, p. 295.  
  [[7]](#_F541) Qur'ān, 93, 6-8.  
-  
-
-  
-
-  
 
 means that He show them the way to recognize you. *And find you in want
 and make you to be free from want?*  He says: He has made you to be free
@@ -1841,5 +1632,4 @@ that he took great care of it during his lectures and researches.
 [[1]](#_F542) Al-Burhān.  
  [[2]](#_F543) Qur'ān, 112, 1.  
  [[3]](#_F544) Al-Mizān, vol. 20, p. 391.  
-  
 

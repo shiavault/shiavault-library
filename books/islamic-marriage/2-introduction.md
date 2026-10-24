@@ -46,4 +46,3 @@ Islamic Marriage is of two types; permanent and temporary (*Muta’*).
 Since this book was compiled mostly for those entering into a permanent
 alliance, the topic of *Muta’* has not been covered.
 
-

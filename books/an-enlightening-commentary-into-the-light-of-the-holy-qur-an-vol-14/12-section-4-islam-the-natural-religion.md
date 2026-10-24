@@ -4,14 +4,10 @@ Section 4: Islam, the Natural Religion
 Surah Ar-Room – Verse 28
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ضَرَبَ لَكُم مَثَلاً مِنْ أَنفُسِكُمْ هَل لَكُم مِن مَا مَلَكَتْ
-أَيْمَانُكُم مِن شُرَكَآءَ فِي مَا رَزَقْنَاكُمْ فَاَنتُمْ فِيهِ
-سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَلِكَ نُفَصّـِلُ
-الاَيَاتِ لِقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> ضَرَبَ لَكُم مَثَلاً مِنْ أَنفُسِكُمْ هَل لَكُم مِن مَا مَلَكَتْ
+> أَيْمَانُكُم مِن شُرَكَآءَ فِي مَا رَزَقْنَاكُمْ فَاَنتُمْ فِيهِ
+> سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَلِكَ نُفَصّـِلُ
+> الاَيَاتِ لِقَوْمٍ يَعْقِلُونَ
 
 ***28. “He sets forth to you a parable relating to yourselves. Have you
 among those whom your right hands possess partners in what We have given
@@ -103,12 +99,8 @@ it for yourself.
 Surah Ar-Room – Verse 29
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلِ اتَّبَعَ الَّذِينَ ظَلَمُوا أَهْوَآءَهُم بِغَيْرِ عِلْمٍ فَمَن
-يَهْدِي مَنْ أَضَلَّ اللَّهُ وَمَا لَهُم مِن نَاصِرِينَ
-  </p>
-</blockquote>
+> بَلِ اتَّبَعَ الَّذِينَ ظَلَمُوا أَهْوَآءَهُم بِغَيْرِ عِلْمٍ فَمَن
+> يَهْدِي مَنْ أَضَلَّ اللَّهُ وَمَا لَهُم مِن نَاصِرِينَ
 
 ***29. “Nay! Those who are unjust follow their low desires without any
 knowledge, so who can guide him whom Allah leaves astray? And they shall
@@ -171,13 +163,9 @@ darkness so that there will remain no helper for them.
 Surah Ar-Room – Verse 30
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدّ‌ِينِ حَنِيفاً فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدّ‌ِينُ
-الْقَيّـِمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدّ‌ِينِ حَنِيفاً فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدّ‌ِينُ
+> الْقَيّـِمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
 
 ***30. “So set your face to the religion being upright, the nature
 (framed) of Allah, in which He has created mankind. There is no altering
@@ -376,12 +364,8 @@ of Surah Al- ‘Ankabut.
 Surah Ar-Room – Verse 31
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلاَةَ وَلاَ تَكُونُوا
-مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلاَةَ وَلاَ تَكُونُوا
+> مِنَ الْمُشْرِكِينَ
 
 ***31. “Turn you to Him, and fear Him, and perform the prayer and be not
 of the idolaters,”***
@@ -457,12 +441,8 @@ prayer, and avoiding polytheism.
 Surah Ar-Room – Verse 32
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعاً كُلُّ حِزْبٍ
-بِمَا لَدَيْهِمْ فَرِحُونَ
-  </p>
-</blockquote>
+> مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعاً كُلُّ حِزْبٍ
+> بِمَا لَدَيْهِمْ فَرِحُونَ
 
 ***32. “Of those who split up their religion, and have become sects,
 every party rejoicing in what is with them.”***
@@ -522,13 +502,9 @@ they are?
 Surah Ar-Room – Verse 33
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُم مُّنِيبِينَ إِلَيْهِ
-ثُمَّ إِذَآ أَذَاقَهُم مِنْهُ رَحْمَةً إِذَا فَرِيقٌ مّـِنْهُم
-بِرَبّـِهِمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُم مُّنِيبِينَ إِلَيْهِ
+> ثُمَّ إِذَآ أَذَاقَهُم مِنْهُ رَحْمَةً إِذَا فَرِيقٌ مّـِنْهُم
+> بِرَبّـِهِمْ يُشْرِكُونَ
 
 ***33. “And when harm afflicts men, they call upon their Lord, turning
 to Him, then, when He makes them taste of mercy from Him, behold, some
@@ -619,18 +595,10 @@ appearance of the verse.
 Surah Ar-Room – Verses 34-35
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَكْفُرُوا بِمَآ ءَاتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> لِيَكْفُرُوا بِمَآ ءَاتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَاناً فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا
-بِهِ يُشْرِكُونَ
-  </p>
-</blockquote>
+> أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَاناً فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا
+> بِهِ يُشْرِكُونَ
 
 ***34. “That they may be ungrateful for what We have given them. ‘Take
 your enjoyment, certainly you will soon know’.”***  
@@ -692,12 +660,8 @@ of what they associate with Him”.
 Surah Ar-Room – Verse 36
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَآ أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ
-سَيّـِئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ
-  </p>
-</blockquote>
+> وَإِذَآ أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ
+> سَيّـِئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ
 
 ***36. “And when We make people taste of mercy they rejoice in it, and
 if an evil befalls them for what their own hands have forwarded, behold,
@@ -773,12 +737,8 @@ separate from the other.
 Surah Ar-Room – Verse 37
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ لَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ
-وَيَقْدِرُ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَوَ لَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ
+> وَيَقْدِرُ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
 
 ***37. “Do they not see that Allah enlarges the provision for whomever
 He pleases and straitens? Verily there are signs in this for a people
@@ -849,13 +809,9 @@ determinations, change of intentions, and losing of courage.”*[^10]
 Surah Ar-Room – Verse 38
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَتِ ذَا الْقُرْبَي حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ذَلِكَ
-خَيْرٌ لّـِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ وَأُوْلَئِكَ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> فَاَتِ ذَا الْقُرْبَي حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ذَلِكَ
+> خَيْرٌ لّـِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ وَأُوْلَئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 ***38. “So give what is due to kindred, the needy, and the wayfarer,
 that is best for those who seek the pleasure of Allah, and those are
@@ -980,13 +936,9 @@ obedience to Him.*
 Surah Ar-Room – Verse 39
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ ءَاتَيْتُم مِن رِباً لِيَرْبُوَا فِي أَمْوَالِ النَّاسِ فَلاَ
-يَرْبُوا عِندَ اللَّهِ وَمآ ءَاتَيْتُم مِن زَكَاةٍ تُرِيدُونَ وَجْهَ
-اللَّهِ فَأُوْلَئِكَ هُمُ الْمُضْعِفُونَ
-  </p>
-</blockquote>
+> وَمَآ ءَاتَيْتُم مِن رِباً لِيَرْبُوَا فِي أَمْوَالِ النَّاسِ فَلاَ
+> يَرْبُوا عِندَ اللَّهِ وَمآ ءَاتَيْتُم مِن زَكَاةٍ تُرِيدُونَ وَجْهَ
+> اللَّهِ فَأُوْلَئِكَ هُمُ الْمُضْعِفُونَ
 
 ***39. “And that which you give in present so that it may increase in
 the property of men it will not increase with Allah, and whatever you
@@ -1119,13 +1071,9 @@ increased into seven hundred times, as Surah Al-Baqarah, No. 2, verse
 Surah Ar-Room – Verse 40
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
-يُحْيِيكُمْ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَلِكُم مِن شَيْءٍ
-سُبْحَانَهُ وَتَعَالي عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
+> يُحْيِيكُمْ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَلِكُم مِن شَيْءٍ
+> سُبْحَانَهُ وَتَعَالي عَمَّا يُشْرِكُونَ
 
 ***40. “Allah is He Who created you, then gave you sustenance, then He
 shall make you die, then He shall bring you to life; is there any of
@@ -1216,5 +1164,4 @@ Tafsir-i-Nur-uth-Thaqalayn.
 [^14]: Surah Al-’An‘am, No. 6, verse 160
 
 [^15]: Nur-uth-Thaqalayn, Vol. 4, P. 190
-
 

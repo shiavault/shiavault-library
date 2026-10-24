@@ -340,4 +340,3 @@ God blessed Ali's name to all eternity. His name is the symbol of love
 of God, and the symbol of Justice and Truth. His name will endure as
 long as Love of God, and Justice and Truth, will endure in this world.
 
-

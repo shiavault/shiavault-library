@@ -20,11 +20,7 @@ In explaining the religious concepts, the Shi‘a follow only the Qur’an
 and *sunnah* and conduct themselves in accordance with the Qur’anic
 injunction:
 
-<blockquote dir="rtl">
-  <p>
-وَجَادِلهْـُمْ بِالَّتيِ هِيَ أَحْسَنُ
-  </p>
-</blockquote>
+> وَجَادِلهْـُمْ بِالَّتيِ هِيَ أَحْسَنُ
 
 ***“And debate with them in the best manner.***”[^1]
 
@@ -70,5 +66,4 @@ arenas, they can prevent the usurping rulers from opposing them and in
 this way prepare the way for the rule of the true Islamic views.
 
 [^1]: Surah Naml (16), Verse 125
-
 

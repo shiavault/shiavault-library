@@ -47,4 +47,3 @@ of history, man's confidence in the future and the total rejection by
 him of pessimism about the destiny of mankind, which is extraordinarily
 bleak, according to certain theories.
 
-

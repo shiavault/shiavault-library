@@ -106,4 +106,3 @@ a particular position in relation to it, this matter is better
 clarified. God willing in the following discussion we will refer to
 this.
 
-

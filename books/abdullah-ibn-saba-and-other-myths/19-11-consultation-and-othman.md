@@ -314,4 +314,3 @@ Should anybody read the events of the years 11—37 Hejri from Tabari's
 book, he would realize how much the events have been invented and/or
 converted.
 
-

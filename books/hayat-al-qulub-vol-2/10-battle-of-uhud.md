@@ -47,14 +47,10 @@ The Prophet agreed to this counsel, and with a party left the city to
 select a suitable position for the anticipated battle, camped on ground
 near the road to Iraq. As mentioned in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ
-لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ. إِذْ هَمَّتْ طَائِفَتَانِ
-مِنْكُمْ أَنْ تَفْشَلَا وَاللَّهُ وَلِيُّهُمَا ۗ وَعَلَى اللَّهِ
-فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ.
-  </p>
-</blockquote>
+> وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ
+> لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ. إِذْ هَمَّتْ طَائِفَتَانِ
+> مِنْكُمْ أَنْ تَفْشَلَا وَاللَّهُ وَلِيُّهُمَا ۗ وَعَلَى اللَّهِ
+> فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ.
 
 ***“And when you did go forth early in the morning from your family to
 lodge the believers in encampments for war and Allah is Hearing,
@@ -293,16 +289,12 @@ was married on the eve of the Battle of Uhud and he had stayed in
 Medina. He copulated with his wife and the following verse was revealed
 in his justification:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ
-وَإِذَا كَانُوا مَعَهُ عَلَىٰ أَمْرٍ جَامِعٍ لَمْ يَذْهَبُوا حَتَّىٰ
-يَسْتَأْذِنُوهُ ۚ إِنَّ الَّذِينَ يَسْتَأْذِنُونَكَ أُولَٰئِكَ
-الَّذِينَ يُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ ۚ فَإِذَا اسْتَأْذَنُوكَ
-لِبَعْضِ شَأْنِهِمْ فَأْذَنْ لِمَنْ شِئْتَ مِنْهُمْ وَاسْتَغْفِرْ
-لَهُمُ اللَّهَ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ
+> وَإِذَا كَانُوا مَعَهُ عَلَىٰ أَمْرٍ جَامِعٍ لَمْ يَذْهَبُوا حَتَّىٰ
+> يَسْتَأْذِنُوهُ ۚ إِنَّ الَّذِينَ يَسْتَأْذِنُونَكَ أُولَٰئِكَ
+> الَّذِينَ يُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ ۚ فَإِذَا اسْتَأْذَنُوكَ
+> لِبَعْضِ شَأْنِهِمْ فَأْذَنْ لِمَنْ شِئْتَ مِنْهُمْ وَاسْتَغْفِرْ
+> لَهُمُ اللَّهَ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
 
 ***“Only those are believers who believe in Allah and His Apostle, and
 when they are with him on a momentous affair they go not away until they
@@ -354,12 +346,8 @@ where he remained till his flesh dropped off and he went to Hell.
 At length the fugitive companions of the Prophet began to return to him
 regarding which the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ
-الَّذِينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ
+> الَّذِينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِرِينَ
 
 ***“Do you think that you will enter the garden while Allah has not yet
 known those who strive hard from among you, and (He has not) known the
@@ -370,12 +358,8 @@ knew who would fight and who would flee. But the Almighty Allah does not
 reward or punish according to His knowledge but on the basis of the acts
 one performs.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كُنْتُمْ تَمَنَّوْنَ الْمَوْتَ مِنْ قَبْلِ أَنْ تَلْقَوْهُ
-فَقَدْ رَأَيْتُمُوهُ وَأَنْتُمْ تَنْظُرُونَ.
-  </p>
-</blockquote>
+> وَلَقَدْ كُنْتُمْ تَمَنَّوْنَ الْمَوْتَ مِنْ قَبْلِ أَنْ تَلْقَوْهُ
+> فَقَدْ رَأَيْتُمُوهُ وَأَنْتُمْ تَنْظُرُونَ.
 
 ***“And certainly you desired death before you met it, so indeed you
 have seen it and you look (at it).”***[^4]
@@ -392,14 +376,10 @@ Allah provided another opportunity in the Battle of Uhud in which they
 fled, except for a few, who remained steadfast because of the Taufeeq of
 Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ ۚ
-أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ وَمَنْ
-يَنْقَلِبْ عَلٰى عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئًا ۗ
-وَسَيَجْزِي اللَّهُ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ ۚ
+> أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ وَمَنْ
+> يَنْقَلِبْ عَلٰى عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئًا ۗ
+> وَسَيَجْزِي اللَّهُ الشَّاكِرِينَ
 
 ***“And Muhammad is no more than an apostle; the apostles have already
 passed away before him; if then he dies or is killed will you turn back
@@ -415,60 +395,40 @@ began to flee the battlefield. When they returned, they began to justify
 that they had run away because they thought that he was dead, so the
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا
-مُؤَجَّلًا ۗ وَمَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَنْ
-يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا ۚ وَسَنَجْزِي الشَّاكِرِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا
+> مُؤَجَّلًا ۗ وَمَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَنْ
+> يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا ۚ وَسَنَجْزِي الشَّاكِرِينَ
 
 ***“And a soul will not die but with the permission of Allah; the term
 is fixed; and whoever desires the reward of this world, I shall give him
 of it, and whoever desires the reward of the hereafter I shall give him
 of it, and I will reward the grateful.”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا
-وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا
-اسْتَكَانُوا ۗ وَاللَّهُ يُحِبُّ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا
+> وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا
+> اسْتَكَانُوا ۗ وَاللَّهُ يُحِبُّ الصَّابِرِينَ
 
 ***“And how many a prophet has fought with whom were many worshippers of
 the Lord; so they did not become weak-hearted on account of what befell
 them in Allah’s way, nor did they weaken, nor did they abase themselves;
 and Allah loves the patient.”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ قَوْلَهُمْ إِلَّا أَنْ قَالُوا رَبَّنَا اغْفِرْ لَنَا
-ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا
-وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ قَوْلَهُمْ إِلَّا أَنْ قَالُوا رَبَّنَا اغْفِرْ لَنَا
+> ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا
+> وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 
 ***“And their saying was no other than that they said: Our Lord! forgive
 us our faults and our extravagance in our affair and make firm our feet
 and help us against the unbelieving people.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الْآخِرَةِ ۗ
-وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الْآخِرَةِ ۗ
+> وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
 
 ***“So Allah gave them the reward of this world and better reward of the
 hereafter and Allah loves those who do good (to others).”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تُطِيعُوا الَّذِينَ كَفَرُوا
-يَرُدُّوكُمْ عَلٰى أَعْقَابِكُمْ فَتَنْقَلِبُوا خَاسِرِينَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تُطِيعُوا الَّذِينَ كَفَرُوا
+> يَرُدُّوكُمْ عَلٰى أَعْقَابِكُمْ فَتَنْقَلِبُوا خَاسِرِينَ.
 
 ***“O you who believe! if you obey those who disbelieve they will turn
 you back upon your heels, so you will turn back losers.”***[^10]
@@ -477,22 +437,14 @@ According to the report of Ali bin Ibrahim in this verse ‘disbelievers’
 implies Abdullah bin Ubayy who set out for Uhud with the Prophet but
 returned from half the way and frightened his companions of death.
 
-<blockquote dir="rtl">
-  <p>
-بَلِ اللَّهُ مَوْلَاكُمْ ۖ وَهُوَ خَيْرُ النَّاصِرِينَ
-  </p>
-</blockquote>
+> بَلِ اللَّهُ مَوْلَاكُمْ ۖ وَهُوَ خَيْرُ النَّاصِرِينَ
 
 ***“Nay! Allah is your Patron and He is the best of the
 helpers.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ بِمَا أَشْرَكُوا
-بِاللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا ۖ وَمَأْوَاهُمُ
-النَّارُ ۚ وَبِئْسَ مَثْوَى الظَّالِمِينَ
-  </p>
-</blockquote>
+> سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ بِمَا أَشْرَكُوا
+> بِاللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا ۖ وَمَأْوَاهُمُ
+> النَّارُ ۚ وَبِئْسَ مَثْوَى الظَّالِمِينَ
 
 ***“We will cast terror into the hearts of those who disbelieve, because
 they set up with Allah that for which He has sent down no authority, and
@@ -501,13 +453,9 @@ their abode is the fire, and evil is the abode of the unjust.”***[^12]
 According to the report of Ali bin Ibrahim, in this verse it implies the
 idolaters of Quraish who had come to fight the Holy Prophet (S).
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُمْ بِإِذْنِهِ ۖ
-حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُمْ
-مِنْ بَعْدِ مَا أَرَاكُمْ مَا تُحِبُّونَ
-  </p>
-</blockquote>
+> وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُمْ بِإِذْنِهِ ۖ
+> حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُمْ
+> مِنْ بَعْدِ مَا أَرَاكُمْ مَا تُحِبُّونَ
 
 ***“And certainly Allah made good to you His promise when you slew them
 by His permission, until when you became weak-hearted and disputed about
@@ -522,27 +470,19 @@ argue among yourselves and you disobeyed the instructions of the Prophet
 and left the pass unattended. At last the Almighty Allah gave you help,
 victory and booty as you had wished.
 
-<blockquote dir="rtl">
-  <p>
-مِنْكُمْ مَنْ يُرِيدُ الدُّنْيَا وَمِنْكُمْ مَنْ يُرِيدُ الْآخِرَةَ ۚ
-ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنْكُمْ ۗ
-وَاللَّهُ ذُو فَضْلٍ عَلَى الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> مِنْكُمْ مَنْ يُرِيدُ الدُّنْيَا وَمِنْكُمْ مَنْ يُرِيدُ الْآخِرَةَ ۚ
+> ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنْكُمْ ۗ
+> وَاللَّهُ ذُو فَضْلٍ عَلَى الْمُؤْمِنِينَ
 
 ***“…of you were some who desired this world and of you were some who
 desired the hereafter; then He turned you away from them that He might
 try you; and He has certainly pardoned you, and Allah is Gracious to the
 believers.”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ وَالرَّسُولُ
-يَدْعُوكُمْ فِي أُخْرَاكُمْ فَأَثَابَكُمْ غَمًّا بِغَمٍّ لِكَيْلَا
-تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ وَلَا مَا أَصَابَكُمْ ۗ وَاللَّهُ
-خَبِيرٌ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ وَالرَّسُولُ
+> يَدْعُوكُمْ فِي أُخْرَاكُمْ فَأَثَابَكُمْ غَمًّا بِغَمٍّ لِكَيْلَا
+> تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ وَلَا مَا أَصَابَكُمْ ۗ وَاللَّهُ
+> خَبِيرٌ بِمَا تَعْمَلُونَ
 
 ***“When you ran off precipitately and did not wait for any one, and the
 Apostle was calling you from your rear, so He gave you another sorrow
@@ -555,13 +495,9 @@ running away and being killed and the second grief is domination of
 Khalid bin Walid and whatever was lost from them was the booty of war
 and what they achieved was the death of their brothers.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنْزَلَ عَلَيْكُمْ مِنْ بَعْدِ الْغَمِّ أَمَنَةً نُعَاسًا
-يَغْشَىٰ طَائِفَةً مِنْكُمْ ۖ وَطَائِفَةٌ قَدْ أَهَمَّتْهُمْ
-أَنْفُسُهُمْ
-  </p>
-</blockquote>
+> ثُمَّ أَنْزَلَ عَلَيْكُمْ مِنْ بَعْدِ الْغَمِّ أَمَنَةً نُعَاسًا
+> يَغْشَىٰ طَائِفَةً مِنْكُمْ ۖ وَطَائِفَةٌ قَدْ أَهَمَّتْهُمْ
+> أَنْفُسُهُمْ
 
 ***“Then after sorrow He sent down security upon you, a calm coming upon
 a party of you, and*** ***(there was) another party whom their own souls
@@ -579,26 +515,18 @@ confessing to what they thought. The first group the Almighty Allah said
 is the group of believers and the second, the group of hypocrites,
 regarding whom He says:
 
-<blockquote dir="rtl">
-  <p>
-يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ يَقُولُونَ
-هَلْ لَنَا مِنَ الْأَمْرِ مِنْ شَيْءٍ قُلْ إِنَّ الْأَمْرَ كُلَّهُ
-لِلَّهِ يُخْفُونَ فِي أَنْفُسِهِمْ مَا لَا يُبْدُونَ لَكَ
-  </p>
-</blockquote>
+> يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ يَقُولُونَ
+> هَلْ لَنَا مِنَ الْأَمْرِ مِنْ شَيْءٍ قُلْ إِنَّ الْأَمْرَ كُلَّهُ
+> لِلَّهِ يُخْفُونَ فِي أَنْفُسِهِمْ مَا لَا يُبْدُونَ لَكَ
 
 ***“…they entertained about Allah thoughts of ignorance quite unjustly,
 saying: We have no hand in the affair. Say: Surely the affair is wholly
 (in the hands) of Allah. They conceal within their souls what they would
 not reveal to you.”***
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ لَوْ كَانَ لَنَا مِنَ الْأَمْرِ شَيْءٌ مَا قُتِلْنَا
-هَاهُنَا قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ
-عَلَيْهِمُ الْقَتْلُ إِلٰى مَضَاجِعِهِمْ
-  </p>
-</blockquote>
+> يَقُولُونَ لَوْ كَانَ لَنَا مِنَ الْأَمْرِ شَيْءٌ مَا قُتِلْنَا
+> هَاهُنَا قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ
+> عَلَيْهِمُ الْقَتْلُ إِلٰى مَضَاجِعِهِمْ
 
 ***“They say: Had we any hand in the affair, we would not have been
 slain here. Say: Had you remained in your houses, those for whom
@@ -930,12 +858,8 @@ where he wept and said, “I never was in a place where my anger was so
 much excited. If Allah helps me I will do this to seventy of the Quraish
 in the same manner;” upon which Jibraeel was sent down with this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ عَاقَبْتُمْ فَعَاقِبُواْ بِمِثْلِ مَا عُوقِبْتُم بِهِ وَلَئِن
-صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرينَ
-  </p>
-</blockquote>
+> وَإِنْ عَاقَبْتُمْ فَعَاقِبُواْ بِمِثْلِ مَا عُوقِبْتُم بِهِ وَلَئِن
+> صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرينَ
 
 ***“And if you take your turn, then retaliate with the like of that with
 which you were afflicted; but if you are patient, it will certainly be
@@ -962,12 +886,8 @@ helper upon that which I see, then he said: If I gain an upper hand on
 the polytheists, I will definitely cut off their limbs. So the Almighty
 Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ ۖ
-وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ
-  </p>
-</blockquote>
+> وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ ۖ
+> وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ
 
 ***“And if you take your turn, then retaliate with the like of that with
 which you were afflicted; but if you are patient, it will certainly be
@@ -1160,12 +1080,8 @@ Uhud and companions said: O Messenger of Allah (S), you had promised us
 help, why this has happened and they had forgotten their terms. The
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمَّا أَصَابَتْكُمْ مُصِيبَةٌ قَدْ أَصَبْتُمْ مِثْلَيْهَا
-قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِنْدِ أَنْفُسِكُمْ 
-  </p>
-</blockquote>
+> أَوَلَمَّا أَصَابَتْكُمْ مُصِيبَةٌ قَدْ أَصَبْتُمْ مِثْلَيْهَا
+> قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِنْدِ أَنْفُسِكُمْ
 
 ***“What! when a misfortune befell you, and you had certainly afflicted
 (the unbelievers) with twice as much, you began to say: Whence is this?
@@ -1181,12 +1097,8 @@ At last they reported this matter to the Holy Prophet (S) who said: “The
 Almighty Allah has appointed this place as their burial ground and
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ
-عَلَيْهِمُ الْقَتْلُ إِلٰى مَضَاجِعِهِمْ
-  </p>
-</blockquote>
+> قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ
+> عَلَيْهِمُ الْقَتْلُ إِلٰى مَضَاجِعِهِمْ
 
 ***“Say: Had you remained in your houses, those for whom slaughter was
 ordained would certainly have gone forth to the places where they would
@@ -1240,12 +1152,8 @@ headed in another direction. That arrow also turned in whichever
 direction that man went. At last it pierced his head and was consigned
 to Hell. So the Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمْ تَقْتُلُوهُمْ وَلٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ
-إِذْ رَمَيْتَ وَلٰكِنَّ اللَّهَ رَمٰى
-  </p>
-</blockquote>
+> فَلَمْ تَقْتُلُوهُمْ وَلٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ
+> إِذْ رَمَيْتَ وَلٰكِنَّ اللَّهَ رَمٰى
 
 ***“So you did not slay them, but it was Allah Who slew them, and you
 did not smite when you*** ***smote (the enemy), but it was Allah Who
@@ -1493,11 +1401,7 @@ only known to Allah and his final end will be known on Judgment Day.
 Thus Kulaini etc. have narrated through reliable chains that people
 asked Imam Muhammad Baqir (a.s.) about the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ
-  </p>
-</blockquote>
+> وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ
 
 ***“And others are made to await Allah’s command…”***[^29]
 
@@ -1724,5 +1628,4 @@ their consensus is also wrong. Rather, most of them include Abu Bakr,
 Umar and Uthman among those who ran away.
 
 [^29]: Surah Taubah 9:106
-
 

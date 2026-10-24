@@ -221,4 +221,3 @@ day.
 [^1]: For a better understanding of this matter, refer to Martyr Murtada
 Mutahhari's The End of Prophecy.
 
-

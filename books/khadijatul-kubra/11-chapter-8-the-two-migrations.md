@@ -138,4 +138,3 @@ migrated to Abyssinia in 615 and 616. He appears to have been the only
 member of the clan of Bani Hashim to leave Makka for Abyssinia with the
 other refugees. All other members of Bani Hashim stayed in Makka.
 
-

@@ -205,4 +205,3 @@ cost of having to slide between calling a proposition of type 3 a
 necessity proposition or an assertoric according to the dictates of the
 exegetical moment.
 
-

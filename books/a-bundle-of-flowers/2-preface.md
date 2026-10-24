@@ -248,4 +248,3 @@ And Peace to all who follow guidance.
 Sayyid Kamal Faqih Imani  
  Esfahan-Iran
 
-

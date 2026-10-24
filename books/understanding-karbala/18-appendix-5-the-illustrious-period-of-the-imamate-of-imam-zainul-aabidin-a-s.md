@@ -293,4 +293,3 @@ Majlisi
 
 [^3]: Religious verdict
 
-

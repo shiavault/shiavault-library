@@ -21,9 +21,9 @@ through marriage. The Quranic verse says
 لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ
 فِي ذَلِكَ لآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ .﴾**
 
-**<span style="font-weight: 400">“And one of His signs is that He
+**“And one of His signs is that He
 created mates for you from yourselves that you may find rest in them,
-and He</span>**
+and He**
 
 put between you love and compassion; most surely there are signs in this
 for a people who reflect.”
@@ -46,7 +46,7 @@ be able to choose a suitable partner for themselves again but too many
 times, the wronged and oppressed children are forgotten when the parents
 walk away.
 
-**<span style="font-weight: 400">One factor is most effective in
+**One factor is most effective in
 elaborating and explaining the reason for this situation, (of course, it
 cannot be said that this factor is the only one), but this factor is to
 start out with wrong calculations and estimations, (those very wrong,
@@ -54,7 +54,7 @@ unweighed and unconsidered ideas from the foundation of life), instead
 of a correct and exact study and estimation in the selection of a life
 partner. If correct principles were observed in the process of spouse
 selection, the major portion of separations, divorces and partings would
-not</span>**
+not**
 
 have dried up and withered from the tree of life.
 
@@ -87,5 +87,4 @@ With compliments
 Institution of imam Sadiq (a.s)  
  AYATOLLAH JAFAR SUBHANI  
  1995, 1st of Moharram, 1415, Hijrah
-
 

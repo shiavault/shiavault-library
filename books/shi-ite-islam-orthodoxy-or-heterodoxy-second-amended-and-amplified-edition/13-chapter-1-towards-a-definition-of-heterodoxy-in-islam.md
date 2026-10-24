@@ -2123,4 +2123,3 @@ y luchas intestinas en la cristianidad primitiva (Valencia 1970:
 they borrowed from one another but rather that they have the same
 spiritual origin: God.
 
-

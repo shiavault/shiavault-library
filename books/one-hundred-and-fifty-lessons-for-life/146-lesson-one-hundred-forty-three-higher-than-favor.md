@@ -3,12 +3,8 @@ Lesson One Hundred Forty Three: Higher Than Favor
 
 Imam Hadi (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلشّاكِرُ اَسْعَدُ بالشُّكْرِ مِنْهُ بِالنِّعْمَةِ الَّتى أَوجَبَتِ
-الشُّكْرَ لاَنَّ النَّعَمَ مَتاعٌ وَ الشُّكْرَ نِعَمٌ وَ عُقْبى
-  </p>
-</blockquote>
+> اَلشّاكِرُ اَسْعَدُ بالشُّكْرِ مِنْهُ بِالنِّعْمَةِ الَّتى أَوجَبَتِ
+> الشُّكْرَ لاَنَّ النَّعَمَ مَتاعٌ وَ الشُّكْرَ نِعَمٌ وَ عُقْبى
 
 Translation
 -----------
@@ -36,5 +32,4 @@ then receives something additional which is even better : additional
 rewards both for this world and the hereafter.
 
 [^1]: Tuhaful Uqul, page 362
-
 

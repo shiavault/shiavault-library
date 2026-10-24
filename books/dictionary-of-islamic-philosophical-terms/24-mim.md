@@ -1103,4 +1103,3 @@ muwalladah (pl. muwalladat)
 primary action or movement like the movement of the key in the keyhole
 by the movement of the hand; opposed to mubasharah (q.v.).
 
-

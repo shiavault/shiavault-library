@@ -13,12 +13,8 @@ destruction.
 Ibn al-Qayyim in his book *Zad al-ma’ad fi huda khayr al-‘ibad*[^1] says
 as such:
 
-<blockquote dir="rtl">
-  <p>
-يجِب هدم المشاهد التي بُنِيَت على القبور، ولا يجوز إبقاءها بعد القدرة
-على هدمها وإبطالها يوماً واحِد
-  </p>
-</blockquote>
+> يجِب هدم المشاهد التي بُنِيَت على القبور، ولا يجوز إبقاءها بعد القدرة
+> على هدمها وإبطالها يوماً واحِد
 
 *It is obligatory to destroy the structure constructed over the grave
 and after gaining power for their destruction it is not permissible to
@@ -74,32 +70,16 @@ destruction.
 
 Sulayman bin Bulayhid says in his questions:
 
-<blockquote dir="rtl">
-  <p>
-ما ول عُلماء المدينة المُنوَّرة زادهم الله فَهماً وعِلماً في البِناء
-على القبور واتخاذها مساجِد هل هُو جائز أولا وإذا
-  </p>
-</blockquote>
+> ما ول عُلماء المدينة المُنوَّرة زادهم الله فَهماً وعِلماً في البِناء
+> على القبور واتخاذها مساجِد هل هُو جائز أولا وإذا
 
-<blockquote dir="rtl">
-  <p>
-كان غير جائز بل ممنوع مَنهِيُ عنه نهياً شديداً فهل يجب هدمها ومنع
-الصلاة عندها أم لا؟ وإذا كان البِناء في
-  </p>
-</blockquote>
+> كان غير جائز بل ممنوع مَنهِيُ عنه نهياً شديداً فهل يجب هدمها ومنع
+> الصلاة عندها أم لا؟ وإذا كان البِناء في
 
-<blockquote dir="rtl">
-  <p>
-مسبلة كالبقيع وهو مانع مِن الإنتفاع بالمقدار المبني عليه فهل هو غصبُ
-يجب رفعه لِما فيه من ظلم المستحقين
-  </p>
-</blockquote>
+> مسبلة كالبقيع وهو مانع مِن الإنتفاع بالمقدار المبني عليه فهل هو غصبُ
+> يجب رفعه لِما فيه من ظلم المستحقين
 
-<blockquote dir="rtl">
-  <p>
-ومنعهم استحقافهم أم لا؟
-  </p>
-</blockquote>
+> ومنعهم استحقافهم أم لا؟
 
 *What are the views of the scholars of Medina who, may God increase
 their knowledge and insight, about construction over the graves and
@@ -115,25 +95,13 @@ that, then is this act not usurpation of a portion of the* *waqf?*
 The scholars of Medina under threat and compulsion gave replies to the
 questions of Shaykh as follows:
 
-<blockquote dir="rtl">
-  <p>
-أما البِناء على القبور فهو ممنوع إجماعاً لصحة الأحاديث الواردة في منعه
-ولِهذا افتى كثير من العلماء بوُجوب
-  </p>
-</blockquote>
+> أما البِناء على القبور فهو ممنوع إجماعاً لصحة الأحاديث الواردة في منعه
+> ولِهذا افتى كثير من العلماء بوُجوب
 
-<blockquote dir="rtl">
-  <p>
-هَدمه مستندين بحديث عليُّ رضي الله عنه أنه قال: لأبي الهياد ألا ابعثُك
-على ما بعثتني عليه رسول الله (صلى الله
-  </p>
-</blockquote>
+> هَدمه مستندين بحديث عليُّ رضي الله عنه أنه قال: لأبي الهياد ألا ابعثُك
+> على ما بعثتني عليه رسول الله (صلى الله
 
-<blockquote dir="rtl">
-  <p>
-عليه وأله) أن لا تدع تمثالاً إلا طمسته ولا قبراً إلا سوَّيته
-  </p>
-</blockquote>
+> عليه وأله) أن لا تدع تمثالاً إلا طمسته ولا قبراً إلا سوَّيته
 
 *Construction over the graves is forbidden. Based on some traditions
 proving its prohibition, a group have given verdict (fatwa) for the
@@ -186,12 +154,8 @@ details follow.
 The Holy Qur’an reckons the respect of Divine rites to be a sign of
 piety and purity of heart. It says:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ
-  </p>
-</blockquote>
+> ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ
 
 ***“And whoever respects the signs of Allah, this surely is (the
 outcome) of the piety of hearts. (Hajj 22:32).”***
@@ -282,12 +246,8 @@ them into a heap of ruins?
 
 The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***“Say; I do not ask of you any reward for it but love for my near
 relatives. (Shura 26:23)”***
@@ -311,20 +271,12 @@ About the companions of Kahf (the Cave), Qur’an narrates that when their
 condition became known to the people of that time and they came near the
 entrance of the cave, they expressed two views about their graves
 
-<blockquote dir="rtl">
-  <p>
-ابْنُوا عَلَيْهِمْ بُنْيَانًا
-  </p>
-</blockquote>
+> ابْنُوا عَلَيْهِمْ بُنْيَانًا
 
 ***“…..Erect an edifice over them…., (Kahf 18:21)”***
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ غَلَبُوا عَلَىٰ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِمْ
-مَسْجِدًا
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ غَلَبُوا عَلَىٰ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِمْ
+> مَسْجِدًا
 
 ***“….Those who prevailed in their affair said: We will certainly raise
 a mosque over them….. (Kahf 18:21)”***
@@ -352,18 +304,10 @@ elegant and profound parable begins with the sentence **الله نور السم
 After setting forth this parable which itself is having a lengthy
 discussion, Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
-  </p>
-</blockquote>
+> رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
 
 ***“In houses which Allah has permitted to be exalted and that His name
 may be remembered in them; there, glorify Him therein in the mornings
@@ -395,12 +339,8 @@ devoid of a ceiling and at present even *Masjid al-Haram* is without a
 ceiling. The verses of the Qur’an too show that by *house* is meant a
 place possessing a ceiling. It says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ
-يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِنْ فِضَّةٍ
-  </p>
-</blockquote>
+> وَلَوْلَا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ
+> يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِنْ فِضَّةٍ
 
 ***“And were it not that all people had been a single nation, We would
 certainly have assigned to those who disbelieve in the Beneficent God
@@ -417,12 +357,8 @@ elevation i.e. raising the base and the walls and protecting them from
 tumbling down as Qur’an has used the same meaning in the following
 verse,
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
-وَإِسْمَاعِيلُ
-  </p>
-</blockquote>
+> وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
+> وَإِسْمَاعِيلُ
 
 ***“And when Ibrahim and Ismail raised the foundations of the House***
 ***(Baqarah 2:127)”***
@@ -472,11 +408,7 @@ and Fatima) included amongst them?”
 
 The Holy Prophet (s) replied[^7]
 
-<blockquote dir="rtl">
-  <p>
-نعم مِن أفضلها
-  </p>
-</blockquote>
+> نعم مِن أفضلها
 
 *“Yes, it is the most important of all of them.”*
 
@@ -632,25 +564,13 @@ that it is permissible, desirable and popular.
 This matter is so fundamental that one of the Wahhabi writers too
 confesses to it as such:
 
-<blockquote dir="rtl">
-  <p>
-هذا امر عمَّ البلاد وطبَّق الأرض شرقاً وغرباً بحيث لا بلدة مِن بلاد
-الإسلام إلا فيها قبور ومشاهد بل مساجد
-  </p>
-</blockquote>
+> هذا امر عمَّ البلاد وطبَّق الأرض شرقاً وغرباً بحيث لا بلدة مِن بلاد
+> الإسلام إلا فيها قبور ومشاهد بل مساجد
 
-<blockquote dir="rtl">
-  <p>
-المُسلمين غالباً لا تخلو عن قبرٍ ومشهد ولا يَسع عقل عاقل أن هذا مُنكر
-يبلُغ الى ما ذكرت من شناعة ويسكُت
-  </p>
-</blockquote>
+> المُسلمين غالباً لا تخلو عن قبرٍ ومشهد ولا يَسع عقل عاقل أن هذا مُنكر
+> يبلُغ الى ما ذكرت من شناعة ويسكُت
 
-<blockquote dir="rtl">
-  <p>
-عُلماء الإسلام.
-  </p>
-</blockquote>
+> عُلماء الإسلام.
 
 *“This matter has reached the common places, East and the West to such
 an extent that there is no Islamic country where there is no holy grave
@@ -673,18 +593,10 @@ the polytheists of his time!?
 
 Surprising is the reply of scholars of Medina who say;
 
-<blockquote dir="rtl">
-  <p>
-اما البناء على القُبور فهو ممنُوع غجماعاً لصحة الأحاديث الواردة في
-منعِها ولهذا افتى كثير مِن العُلماء بوُجوب
-  </p>
-</blockquote>
+> اما البناء على القُبور فهو ممنُوع غجماعاً لصحة الأحاديث الواردة في
+> منعِها ولهذا افتى كثير مِن العُلماء بوُجوب
 
-<blockquote dir="rtl">
-  <p>
-هدمِه.
-  </p>
-</blockquote>
+> هدمِه.
 
 *“Construction over the graves is forbidden according to the consensus
 of scholars because of the correct traditions which have come in this
@@ -722,26 +634,14 @@ C. Hadith of Abu Al-Hayyaj
 Now it is the time to closely examine the hadith which the Wahhabi
 scholars narrate. Here we produce a tradition from Sahih Muslim:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يَحيى بن يحيى وأبو بكر بن أبى شيبة وزُهير بن حربٍ قال: يحيى
-اخبرنا وال الأخران ، حدَّثنا: وكيعُ عن
-  </p>
-</blockquote>
+> حدثنا يَحيى بن يحيى وأبو بكر بن أبى شيبة وزُهير بن حربٍ قال: يحيى
+> اخبرنا وال الأخران ، حدَّثنا: وكيعُ عن
 
-<blockquote dir="rtl">
-  <p>
-سفيان عن حبيب بن أتى ثابت عن أبى وائل عن أبى الهياج الأسجى قال لي عليٌ
-بن أبي طالب ألا ابعثك على ما
-  </p>
-</blockquote>
+> سفيان عن حبيب بن أتى ثابت عن أبى وائل عن أبى الهياج الأسجى قال لي عليٌ
+> بن أبي طالب ألا ابعثك على ما
 
-<blockquote dir="rtl">
-  <p>
-بعثني عليه رسول الله (صلى الله عليه وأله) أن لا تدع تمثالاُ إلا طمسه
-ولا قبراً مُشرفاً إلا سوَّيته.
-  </p>
-</blockquote>
+> بعثني عليه رسول الله (صلى الله عليه وأله) أن لا تدع تمثالاُ إلا طمسه
+> ولا قبراً مُشرفاً إلا سوَّيته.
 
 *Narrated to* *us Yahya bin Yahya, Abu Bakr bin Abi Shayba and Zuhayr
 bin Harb (on the authority of) Waki’ who narrates from Sufyan who
@@ -787,21 +687,13 @@ tradition and other traditions narrated by them.
 
 1. For example he narrates from Ahmad bin Hanbal about Waki’ that:
 
-<blockquote dir="rtl">
-  <p>
-إنه أخطأ في خمس مائة حديثٍ
-  </p>
-</blockquote>
+> إنه أخطأ في خمس مائة حديثٍ
 
 *“He has committed mistakes in 500 traditions*.”[^13]
 
 He also narrates from Muhammad ibn Nasr al-Marwazi about Waki’ that:
 
-<blockquote dir="rtl">
-  <p>
-كان يحدُث بالمغنى ولم يكُن مِن أهل اللسان
-  </p>
-</blockquote>
+> كان يحدُث بالمغنى ولم يكُن مِن أهل اللسان
 
 *“He used to narrate the tradition according to its meaning (rather than
 narrating the precise text) while his mother-tongue was not
@@ -809,11 +701,7 @@ Arabic.”*[^14]
 
 2. About Sufyan al-Thawri, he narrates from Ibn al-Mubarak that:
 
-<blockquote dir="rtl">
-  <p>
-حدث سُفيان بحديث فجِسته وهو يُدلسه فلما رانى إستحيى
-  </p>
-</blockquote>
+> حدث سُفيان بحديث فجِسته وهو يُدلسه فلما رانى إستحيى
 
 *“Sufyan was narrating a tradition when I suddenly arrived and noticed
 that he was deceiving in tradition. When he saw me, he felt
@@ -829,21 +717,13 @@ eventually he was unsuccessful.[^16]
 
 3. About Habib ibn Abi Thabit, he narrates from Ibn Hibban that:
 
-<blockquote dir="rtl">
-  <p>
-كانمُدلَّسا
-  </p>
-</blockquote>
+> كانمُدلَّسا
 
 *“He was deceiving in tradition.”*
 
 He also narrates from al-Qattan that:
 
-<blockquote dir="rtl">
-  <p>
-لا يُتابع عليه وليست محفوظةً
-  </p>
-</blockquote>
+> لا يُتابع عليه وليست محفوظةً
 
 ***“His traditions cannot be followed because they are not
 firm.”***[^17]
@@ -864,11 +744,7 @@ reference of tradition possesses such shortcomings, then no jurisprudent
 The ‘instruction’ of tradition is no less important than its reference
 as the following words in this tradition testify:
 
-<blockquote dir="rtl">
-  <p>
-ولا قبراً مُشرفاً إلا سوَّيته
-  </p>
-</blockquote>
+> ولا قبراً مُشرفاً إلا سوَّيته
 
 Now we will discuss the meaning of these two words i.e. (a). **مُشرفاً**
 and (b). **سوَّيته**
@@ -876,22 +752,14 @@ and (b). **سوَّيته**
 (a). The word **مشرف**in dictionary means high and elevated and it has
 been said that
 
-<blockquote dir="rtl">
-  <p>
-المُشرف من الأماكن: العالي والمُطِلُّ على غيره
-  </p>
-</blockquote>
+> المُشرف من الأماكن: العالي والمُطِلُّ على غيره
 
  **مشرف** is a high place overlooking the other place.”[^19]
 
 The author of *al-Qamus* who is having greater validity in the
 arrangement of meaning of words says:
 
-<blockquote dir="rtl">
-  <p>
-الشرف مُحركه : العُلو ومن البعير سنامه
-  </p>
-</blockquote>
+> الشرف مُحركه : العُلو ومن البعير سنامه
 
 **شرف** with vowel of **(راء)** is named as something ‘high’ and ‘the
 hump of a camel’.
@@ -904,11 +772,7 @@ kind of height.
 (b). The word **سوَّيته** in dictionary means ‘to restore equilibrium’,
 ‘to make equal’ and ‘to set right the crooked’.
 
-<blockquote dir="rtl">
-  <p>
-سوَّى الشئ: جعله سوياً يُقال: سوَّيت المُعوج فما استوى ، صنعه مُستوياً
-  </p>
-</blockquote>
+> سوَّى الشئ: جعله سوياً يُقال: سوَّيت المُعوج فما استوى ، صنعه مُستوياً
 
 **سوَّى الشئ.** He made it straight; Arab says - I wanted to set right
 the crooked which was not smoothened. It also comes in the meaning of ‘a
@@ -916,11 +780,7 @@ faultless product’.
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ فَسَوَّىٰ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ فَسَوَّىٰ
 
 ***“Who creates, then makes complete. (A’la 87:2)”***
 
@@ -940,11 +800,7 @@ following reasons:
 Firstly, the word **سوَّيته** does not mean ‘to destroy’ or ‘to
 demolish’ and if it meant so then they should have said:
 
-<blockquote dir="rtl">
-  <p>
-ولا قبراً مُشرفاً إلا سوَّيته بالأرض
-  </p>
-</blockquote>
+> ولا قبراً مُشرفاً إلا سوَّيته بالأرض
 
 Level them to the ground while we do not find such words in the
 tradition.
@@ -961,11 +817,7 @@ In the book *al-Fiqh ‘ala al-madhahib al-‘arba’a*, as per the verdicts
 (*fatawa*) of the four well-known Imams (Hanifa, Malek, Shafe’i and
 Hanbal), we read as such:
 
-<blockquote dir="rtl">
-  <p>
-ويندُب ارتفاع التُراب فوق القبر بقدر شِبرٍ
-  </p>
-</blockquote>
+> ويندُب ارتفاع التُراب فوق القبر بقدر شِبرٍ
 
 “It is recommended (mustahab) that the soil of grave be higher than the
 ground by one span.”[^20]
@@ -989,11 +841,7 @@ Incidentally, Muslim, the author of *Sahih* has himself brought this
 tradition and another tradition which we shall soon discuss under the
 title
 
-<blockquote dir="rtl">
-  <p>
-باب الأمر بتوسية القبر
-  </p>
-</blockquote>
+> باب الأمر بتوسية القبر
 
 and similarly al-Tirmidhi and al-Nasa’i have brought this tradition in
 their *Sunan* under the aforementioned title. This title gives the
@@ -1010,12 +858,8 @@ Here we produce another tradition which Muslim has narrated in his
 *Sahih* and this tradition too contains the same contents which we have
 approved.
 
-<blockquote dir="rtl">
-  <p>
-كُنا مع فضالة بن عُبيد بأرض الرُّوم برودسٍ فتوَفَّى صاحب لنا فامر
-فصالة بن عُبيد بقبره فسوَّى ثم قال سمعت رسول الله يأمر بتسوِيتها.
-  </p>
-</blockquote>
+> كُنا مع فضالة بن عُبيد بأرض الرُّوم برودسٍ فتوَفَّى صاحب لنا فامر
+> فصالة بن عُبيد بقبره فسوَّى ثم قال سمعت رسول الله يأمر بتسوِيتها.
 
 *The narrator says: “We were with Fudala bin ‘Ubayd in Rome when one of
 our companions died. Fudala ordered that his grave be made uniform and
@@ -1042,12 +886,8 @@ proving this interpretation.
 Now let us see how the famous commentator of *Sahih Muslim*, al-Nawawi,
 interprets the tradition. He says:
 
-<blockquote dir="rtl">
-  <p>
-إن السُنة أن القبر لا يُرفع عن الأرض رفعاً كثيراً ولا يُسنَّم بل يُرفع
-نحو شبرٍ ويُسطَّح
-  </p>
-</blockquote>
+> إن السُنة أن القبر لا يُرفع عن الأرض رفعاً كثيراً ولا يُسنَّم بل يُرفع
+> نحو شبرٍ ويُسطَّح
 
 *“It is* *Sunnah* *(tradition) that the grave should not possess
 excessive height above the ground and should hot have a shape of a hump
@@ -1071,11 +911,7 @@ abandon this *Sunnah* just because surfacing of the grave is the motto
 of the *rawafid.* When we say that the *Sunnah* is surfacing of grave
 (having no difference with the tradition of Abu al-Hayyaj) it is because
 
-<blockquote dir="rtl">
-  <p>
-لأنه لم يُرد تسؤِيته بالإرض وإنما أراد تسطيحه جمعاً بين الأخبار...
-  </p>
-</blockquote>
+> لأنه لم يُرد تسؤِيته بالإرض وإنما أراد تسطيحه جمعاً بين الأخبار...
 
 *The objective is not to make the grave on par with the ground but the
 objective is to make the surface of the grave flat and even although
@@ -1094,19 +930,11 @@ Abu al-Hayyaj to level all the elevated graves on par with the ground,
 still the tradition never bears testimony over the necessity of
 destroying the structures over the graves since Imam (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-ولا قبراً إلا سوَّيته
-  </p>
-</blockquote>
+> ولا قبراً إلا سوَّيته
 
 i.e. **‘destroy the graves’**, but has not said:
 
-<blockquote dir="rtl">
-  <p>
-ولا بناءً ولا قُبة إلا سوَّيتهما
-  </p>
-</blockquote>
+> ولا بناءً ولا قُبة إلا سوَّيتهما
 
 *‘There is no building and no dome (dome of grave) unless I made them
 separate’.*
@@ -1147,11 +975,7 @@ and far ones.
 Over here we shall narrate the verdicts of the four scholars of Sunni
 school of thought:
 
-<blockquote dir="rtl">
-  <p>
-يُكره ان يُبنى على القبر بيت أو قُبة أو مدرسة أو مسجد
-  </p>
-</blockquote>
+> يُكره ان يُبنى على القبر بيت أو قُبة أو مدرسة أو مسجد
 
 “It is makruh (abominable) to build a house, dome, school or mosque over
 the grave.”[^25]
@@ -1178,11 +1002,7 @@ its competency based on logical reasoning.
 
 Muslim narrates in his *Sihah* in the chapter:
 
-<blockquote dir="rtl">
-  <p>
-النهى عن تجصيص القبر والبناء عليه
-  </p>
-</blockquote>
+> النهى عن تجصيص القبر والبناء عليه
 
 *‘Prohibition to plaster-mould or make construction on a grave’*
 
@@ -1191,18 +1011,10 @@ with two texts. The first one is:
 
 1.
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة ، حدثنا حفص بن غياث ، عن ابن جريج ، عن أبى
-الزُبير ، عن جابر قال نهى رسول
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة ، حدثنا حفص بن غياث ، عن ابن جريج ، عن أبى
+> الزُبير ، عن جابر قال نهى رسول
 
-<blockquote dir="rtl">
-  <p>
-الله أن يُجصص القبر وأن يُقعد عليه وأن يُبنى عليه
-  </p>
-</blockquote>
+> الله أن يُجصص القبر وأن يُقعد عليه وأن يُبنى عليه
 
 “It is narrated from Abu Bakr bin Shaybah, (who said) Hafs bin Ghiyath
 narrated to us, from Ibn Jurayh, and from Abu al Zubayr from Jabir who
@@ -1211,59 +1023,35 @@ prohibited anyone from sitting or constructing over them”
 
 2.
 
-<blockquote dir="rtl">
-  <p>
-حدثني هارون بن عبد الله ، حدثنا حجاج بن محمد وحدثني محمد بن رافع حدثنا
-عبد الرازق جميعاً عن ابن جُريح
-  </p>
-</blockquote>
+> حدثني هارون بن عبد الله ، حدثنا حجاج بن محمد وحدثني محمد بن رافع حدثنا
+> عبد الرازق جميعاً عن ابن جُريح
 
-<blockquote dir="rtl">
-  <p>
-قال اخبرني أبو الزبير ، أنه سمع جابر بن عبد الله يقول سمعت النبي بمثله
-  </p>
-</blockquote>
+> قال اخبرني أبو الزبير ، أنه سمع جابر بن عبد الله يقول سمعت النبي بمثله
 
 Here the text of the tradition is indicated to be the same but its chain
 of narration differs slightly from the first.
 
 3.
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى بن يحيى ، اخبرنا اسماعيل بن عُليَّة عن أيُوب عن ابي الزُبير
-عن جابر قال نهى عن تجصيص القبور.
-  </p>
-</blockquote>
+> حدثنا يحيى بن يحيى ، اخبرنا اسماعيل بن عُليَّة عن أيُوب عن ابي الزُبير
+> عن جابر قال نهى عن تجصيص القبور.
 
 *“The Holy Prophet (s) prohibited the plastering of graves.”*[^26]
 
 *Sahih al-Tirmidhi* narrates one tradition with one chain of narration
 in the chapter:
 
-<blockquote dir="rtl">
-  <p>
-كراهية تجصيص القبور والكتابة عليها
-  </p>
-</blockquote>
+> كراهية تجصيص القبور والكتابة عليها
 
 *‘Abominability of plaster moulding and writing* *on graves’*
 
 4.
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الرحمن بن الأسود ، اخبرنا محمد بن ربيعة عن ابن جُريح ، عن
-ابي الزبير عن جابر قال: نهى رسول
-  </p>
-</blockquote>
+> حدثنا عبد الرحمن بن الأسود ، اخبرنا محمد بن ربيعة عن ابن جُريح ، عن
+> ابي الزبير عن جابر قال: نهى رسول
 
-<blockquote dir="rtl">
-  <p>
-الله (صلى الله عليه وأله) عن تجصيص القبور وان يُكتب عليها وأن يُبنى
-عليها وأن توطاء
-  </p>
-</blockquote>
+> الله (صلى الله عليه وأله) عن تجصيص القبور وان يُكتب عليها وأن يُبنى
+> عليها وأن توطاء
 
 *“The Holy Prophet (s) prohibited us from plastering* *the graves and
 writing on them, and from making and constructing over them.”*
@@ -1274,36 +1062,20 @@ that they have permitted growing of flowers over the grave.[^27]
 Ibn Maja narrates a tradition with two texts and two chains of narration
 in his *Sahih* in the chapter entitled:
 
-<blockquote dir="rtl">
-  <p>
-ما جاء في النهى عن البناء على القبور وتجصيصها والكتابة عليها
-  </p>
-</blockquote>
+> ما جاء في النهى عن البناء على القبور وتجصيصها والكتابة عليها
 
 *‘What it is been said, is about prohibition of building,
 plaster-moulding and writing on graves (engraving)’*
 
 5. & 6.
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ازهر بن مروان ، ومحمد بن زياد قال حدثنا عبد الوارث ، عن أيوب عن
-أبى الزُبير عن جابر قال نهى رسول
-  </p>
-</blockquote>
+> حدثنا ازهر بن مروان ، ومحمد بن زياد قال حدثنا عبد الوارث ، عن أيوب عن
+> أبى الزُبير عن جابر قال نهى رسول
 
-<blockquote dir="rtl">
-  <p>
-الله عن تجصيص القُبور. حدثنا عبد الله بن سعيد ، حدثنا حفص عن ابن جُريح
-عن سُليمان بن مُوسى عن جابر
-  </p>
-</blockquote>
+> الله عن تجصيص القُبور. حدثنا عبد الله بن سعيد ، حدثنا حفص عن ابن جُريح
+> عن سُليمان بن مُوسى عن جابر
 
-<blockquote dir="rtl">
-  <p>
-قال: نهى رسول الله ان يُكتب على القبر شئ
-  </p>
-</blockquote>
+> قال: نهى رسول الله ان يُكتب على القبر شئ
 
 *It is narrated from Azhar ibn Marwan, Muhammad-ibn-Ziad said Abdul
 Wareth has narrated to us from Ayub from Abi-Zubair from Jaber that
@@ -1325,25 +1097,13 @@ with two chains of narration and two texts:
 
 7. & 8.
 
-<blockquote dir="rtl">
-  <p>
-اخبرنا يُوسف بن سعيد قال حدثنا حجاج عن ابن جُريح قال اخبرني ابو
-الزُبير انه سمع جابر يقُول نهى رسول الله
-  </p>
-</blockquote>
+> اخبرنا يُوسف بن سعيد قال حدثنا حجاج عن ابن جُريح قال اخبرني ابو
+> الزُبير انه سمع جابر يقُول نهى رسول الله
 
-<blockquote dir="rtl">
-  <p>
-عن تجصيص القُبور أو يُبنى عليها أو يجلس عليها أحد. أخبرنا عمران بن
-موسى قال حدثنا عبد الوارث قال
-  </p>
-</blockquote>
+> عن تجصيص القُبور أو يُبنى عليها أو يجلس عليها أحد. أخبرنا عمران بن
+> موسى قال حدثنا عبد الوارث قال
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ايُوب عن ابى الزُبير عن جابر قال نهى رسول الله عن تجصص القُبور.
-  </p>
-</blockquote>
+> حدثنا ايُوب عن ابى الزُبير عن جابر قال نهى رسول الله عن تجصص القُبور.
 
 *Yousuf bin Saeed reported to us that Hajjaj narrated from ibn Jarih who
 said I heard from Abu Zubair who heard Jabir he said that Prophet (s) of
@@ -1360,32 +1120,16 @@ two texts:
 
 9. & 10.
 
-<blockquote dir="rtl">
-  <p>
-حدثنا احمد بن حنبل ، حدثنا عبد الرزاق حدثنا ابن جريح ، اخبرني ابو
-الزبير انه سمع جابراً يقول سمعت النبي
-  </p>
-</blockquote>
+> حدثنا احمد بن حنبل ، حدثنا عبد الرزاق حدثنا ابن جريح ، اخبرني ابو
+> الزبير انه سمع جابراً يقول سمعت النبي
 
-<blockquote dir="rtl">
-  <p>
-نهى ان يُقعد على القبر وان يُجصص ويُبنى عليه.
-  </p>
-</blockquote>
+> نهى ان يُقعد على القبر وان يُجصص ويُبنى عليه.
 
-<blockquote dir="rtl">
-  <p>
-حدثنا مسدد وعثمان بن ابى شيبة قال حدثنا حفص بن غياث عن ابن جُريح عن
-سُليمان بن موسى وعن ابى الزبير
-  </p>
-</blockquote>
+> حدثنا مسدد وعثمان بن ابى شيبة قال حدثنا حفص بن غياث عن ابن جُريح عن
+> سُليمان بن موسى وعن ابى الزبير
 
-<blockquote dir="rtl">
-  <p>
-عن جابر بهذا الحديث قال ابو داود قال: عثمان أو يُزاد عليه وزاد سُليمان
-بن موسى أو أن يُكتب عليه.
-  </p>
-</blockquote>
+> عن جابر بهذا الحديث قال ابو داود قال: عثمان أو يُزاد عليه وزاد سُليمان
+> بن موسى أو أن يُكتب عليه.
 
 *“…..Abu Dawud says: “The Holy Prophet (s) has prohibited us* *from
 writing over the grave or from raising it.”*
@@ -1395,18 +1139,10 @@ Jabir as follows:
 
 11.
 
-<blockquote dir="rtl">
-  <p>
-عن عبد الرزاق عن ابن جُريح اخبرني ابو الزبير انه سمع جابر بن عبد الله
-يقول سمعت النبي ينهى ان يقعد الرجل
-  </p>
-</blockquote>
+> عن عبد الرزاق عن ابن جُريح اخبرني ابو الزبير انه سمع جابر بن عبد الله
+> يقول سمعت النبي ينهى ان يقعد الرجل
 
-<blockquote dir="rtl">
-  <p>
-على القبر وان يُجصص وان يُبنى عليها.
-  </p>
-</blockquote>
+> على القبر وان يُجصص وان يُبنى عليها.
 
 From Abd al-Razzaq from Ibn Joraih who reported from Abu Zubair that
 Jabir Ibn Abdullah said that I heard from Prophet (s), he prohibited
@@ -1444,11 +1180,7 @@ it is weak.”
 
 He narrates from Ahmad bin Hanbal that if Ibn Jurayh says:
 
-<blockquote dir="rtl">
-  <p>
-قال فلان قال فلان واخبرتُ جاء بمناكيرٍ
-  </p>
-</blockquote>
+> قال فلان قال فلان واخبرتُ جاء بمناكيرٍ
 
 *“..that so and so said such and such then he has narrated a false
 tradition.”*
@@ -1459,12 +1191,8 @@ bitten by snake and scorpion).
 
 From al-Darqutni, who says:
 
-<blockquote dir="rtl">
-  <p>
-تجنب تدليس ابن جُريح فإنه قبيح التدليس لا يُدلس إلا فيما سمعه مِن
-مجروج
-  </p>
-</blockquote>
+> تجنب تدليس ابن جُريح فإنه قبيح التدليس لا يُدلس إلا فيما سمعه مِن
+> مجروج
 
 *Keep away from the craftiness (presenting the false to be true) of Ibn
 Jurayh for he plays a dirty hypocrisy. Whenever he hears a tradition
@@ -1578,11 +1306,7 @@ yet the scholars and the *fuqaha* have not taken this tradition to be
 anything but in the *makruh* sense. For example, al-Tirmidhi in his
 *Sahih* narrates the tradition under the chapter:
 
-<blockquote dir="rtl">
-  <p>
-كراهية تجصيص القُبور
-  </p>
-</blockquote>
+> كراهية تجصيص القُبور
 
 A clear proof that it is *makruh* is the same which al-Sindi,
 commentator of *Sahih Ibn Maja* narrates from al-Hakim al-Naysaburi who
@@ -1598,23 +1322,15 @@ construction over the grave except that if the land is endowed.
 The commentator of *Sahih Muslim* in his commentary of this tradition
 writes:
 
-<blockquote dir="rtl">
-  <p>
-أما البناء فإن كان في مِلك الباني فمكروه وإن كان في مقبرة مسبلة فحرامً
-نصَّ عليه الشافعِي والأصحاب.
-  </p>
-</blockquote>
+> أما البناء فإن كان في مِلك الباني فمكروه وإن كان في مقبرة مسبلة فحرامً
+> نصَّ عليه الشافعِي والأصحاب.
 
 “Construction over the grave in the land belonging to the owner of the
 grave is makruh and in the endowed land is haram. Al-Shafi’i has
 emphasised upon this matter and even brought the tradition under the
 title of chapter.”[^34]
 
-<blockquote dir="rtl">
-  <p>
-كراهة تجصيص القبر والبناء عليه
-  </p>
-</blockquote>
+> كراهة تجصيص القبر والبناء عليه
 
 However, it is obvious that a thing being *makruh* does not become an
 obstacle. The fact being that sometimes due to a series of affairs that
@@ -1644,18 +1360,10 @@ examine some more traditions which are referred to by the Wahhabis.
 
 1. Ibn Maja narrates in his *Sahih* as such:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن يحيى ، حدثنا محمد بن عبد الله الرقاشى ، حدثنا وهب ،
-حدثنا عبد الرحمن بن يزيد بن جابرة ، عن
-  </p>
-</blockquote>
+> حدثنا محمد بن يحيى ، حدثنا محمد بن عبد الله الرقاشى ، حدثنا وهب ،
+> حدثنا عبد الرحمن بن يزيد بن جابرة ، عن
 
-<blockquote dir="rtl">
-  <p>
-القاسم بن مخيمرة عن ابي سعيد: إن النبي نهى أن يُبنى على القبر
-  </p>
-</blockquote>
+> القاسم بن مخيمرة عن ابي سعيد: إن النبي نهى أن يُبنى على القبر
 
 Mohammad Ibn Yahya, Muhammad Ibn Abdullah, Al-Riqashi, Wahab, Abdur
 Rahman Ibn Yazid Ibn Jaber, have narrated to us from Qasim ibn
@@ -1665,35 +1373,19 @@ construction on graves.”[^35]
 Ahmad bin Hanbal in his *al-Musnad* narrates one tradition with two
 chains of narration. Here we narrate both of them:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ، حسن ، حدثنا ابن لهيعه ، حدثنا بُريد ابن أبى حبيب عن ناعم مولى
-اُم سلمة عن أم سلمة قالت: نهى رسول
-  </p>
-</blockquote>
+> حدثنا ، حسن ، حدثنا ابن لهيعه ، حدثنا بُريد ابن أبى حبيب عن ناعم مولى
+> اُم سلمة عن أم سلمة قالت: نهى رسول
 
-<blockquote dir="rtl">
-  <p>
-الله ان يُبنى على القبر أو يُجصص
-  </p>
-</blockquote>
+> الله ان يُبنى على القبر أو يُجصص
 
 2. *Narrated Hassan, Ibn Lahiaah narrated, Baraid Ibn Abi Habib narrated
 from Naim servant of Umme Salamah. She said: ‘Prophet of God prohibited
 to build (construction) on grave or plaster-moulding.’*[^36]
 
-<blockquote dir="rtl">
-  <p>
-عليً بن اسحاق حدثنا عبد الله ، ابن لهيعه ، حدثني بُريد بن أبى حبيب عن
-ناعم مولى أم سلمة ، أن النبي نهى أن
-  </p>
-</blockquote>
+> عليً بن اسحاق حدثنا عبد الله ، ابن لهيعه ، حدثني بُريد بن أبى حبيب عن
+> ناعم مولى أم سلمة ، أن النبي نهى أن
 
-<blockquote dir="rtl">
-  <p>
-يُجصص قبر أو يُبنى عليه أو يُجلس
-  </p>
-</blockquote>
+> يُجصص قبر أو يُبنى عليه أو يُجلس
 
 *3. Ali Ibn Ishaq narrated, Abdullah ibn Lahiaah, narrated Boraid ibn
 Abi Habib from Naeem, servant of Umme Salama: ‘Prophet prohibited to
@@ -1710,12 +1402,8 @@ be fabricators of traditions and known liars.[^38]
 The major problem of the second and third traditions is the presence of
 ‘Abdulla ibn Lahi’a. Al-Dhahabi writes about him as such:
 
-<blockquote dir="rtl">
-  <p>
-قال ابن معين ضعيف لا يحتج به قال الحميدى عن يحيى ابن سعيد انه كان لا
-يراه شيئاً
-  </p>
-</blockquote>
+> قال ابن معين ضعيف لا يحتج به قال الحميدى عن يحيى ابن سعيد انه كان لا
+> يراه شيئاً
 
 *Ibn Ma’in has said that he is weak and his tradition cannot be argued
 upon*[^39]*.*
@@ -1767,12 +1455,8 @@ founders of Wahhabism such as Ibn al-Qayyim and Ibn Taymiyya.
 
 The former says:
 
-<blockquote dir="rtl">
-  <p>
-يجب هدم المشاهد التي بُنِيت على القبور ولا يجوز إبقاءها بعد القُدرة
-على هدمها وإبطالها يوماً واحداً.
-  </p>
-</blockquote>
+> يجب هدم المشاهد التي بُنِيت على القبور ولا يجوز إبقاءها بعد القُدرة
+> على هدمها وإبطالها يوماً واحداً.
 
 *“It is obligatory to destroy the structures made over the graves and
 after gaining power for its destruction it is not permissible to let it
@@ -2056,5 +1740,4 @@ p. 444.
 
 [^43]: al-Samhudi, Wafa’ al-wafa’ fi akhbar dar al-Mustafa, vol. 2 p.
 96.
-
 

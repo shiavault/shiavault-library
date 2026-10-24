@@ -430,4 +430,3 @@ Munjid fi al a'allam, Beirut, Dar ul Mashriq, 1976
 
 [^11]: Razi Ale Yasin - 'Sulh-ul Hasan'.
 
-

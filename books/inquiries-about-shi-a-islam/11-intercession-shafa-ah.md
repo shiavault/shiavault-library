@@ -115,4 +115,3 @@ lightly.”[^13]
 
 [^13]: al-Majlisi, Bihar al-Anwar, 82:236
 
-

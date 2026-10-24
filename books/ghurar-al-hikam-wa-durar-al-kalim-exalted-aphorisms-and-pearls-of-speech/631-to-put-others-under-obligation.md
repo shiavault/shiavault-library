@@ -126,20 +126,11 @@ obligation with your favours for indeed favours and good turns are
 nullified by the repulsiveness of [putting others under] obligations.
 
 > 28ـ يا أهْلَ المَعْرُوفِ والإحْسانِ لاتَمُنُّوا بِإحْسانِكُمْ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-الإحْسانَ وَالمَعْرُوفَ يُبْطِلُهُ قُبْحُ الاِمْتِنانِ.
-  </p>
-</blockquote>
+> الإحْسانَ وَالمَعْرُوفَ يُبْطِلُهُ قُبْحُ الاِمْتِنانِ.
 
 29. Beware of putting obligations with your good acts for indeed
 [putting others under] obligation spoils favours.
 
 > 29ـ إيّاكَ والمَنَّ بِالمَعْرُوفِ فَإنَّ الاِمْتِنانَ يُكَدِّرُ
-<blockquote dir="rtl">
-  <p>
-الإحْسانَ.
-  </p>
-</blockquote>
-
+> الإحْسانَ.
 

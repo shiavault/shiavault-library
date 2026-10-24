@@ -1,11 +1,7 @@
 Suratul Baqarah: Verse 152
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-)١٥٢ ( فَٱذۡكُرُونِىٓ أَذۡكُرۡكُمۡ وَٱشكُرُواْ لِى وَلَا تَكفُرُونِ
-  </p>
-</blockquote>
+> )١٥٢ ( فَٱذۡكُرُونِىٓ أَذۡكُرۡكُمۡ وَٱشكُرُواْ لِى وَلَا تَكفُرُونِ
 
 ***Therefore remember Me, I will remember you, and be thank­ful to Me,
 and do not be ungrateful to Me*** (152)***.***
@@ -260,5 +256,4 @@ discussion and other traditions used the word 'forgetfulness' to convey
 that same idea.
 
 We shall give some more details of this subject elsewhere.
-
 

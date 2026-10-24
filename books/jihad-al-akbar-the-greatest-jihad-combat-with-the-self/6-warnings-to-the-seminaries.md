@@ -272,4 +272,3 @@ one of you but shall come to it [hell]’ (Q 19:71), he replied, “We
 passed through hell and it was extinguished.” ‘Ilm al-Yaqin, vol. 2, p.
 917.
 
-

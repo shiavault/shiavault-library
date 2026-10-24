@@ -176,7 +176,6 @@ went to Bibi Zainab's tent. Imaam Hussain could not say a word. He gave
 the 'alam to Bibi Zainab and sat down on the floor! The brother sister
 performed aza-e-Abbas.
 
-
 **Hazrat Ali Akber (as)**
 
 Hazrat Ali Akber was the son of Imaam Hussain. He was a handsome young
@@ -411,5 +410,4 @@ would be dug water and fish would appear underneath. Just as Imam had
 said when they finished digging a spring of water appeared with fish in
 it and then disappeared. Imam is buried there at what is today called
 Mashhad in IRAN.
-
 

@@ -62,4 +62,3 @@ follow his example and get married so that he may save himself from
 intellectual and spiritual degeneration and also help increase the
 Muslim population."
 
-

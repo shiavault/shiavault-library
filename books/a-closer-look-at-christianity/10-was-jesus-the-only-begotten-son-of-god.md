@@ -87,4 +87,3 @@ not, nor is He Begotten, And there is none like unto Him.’”*** God does
 not beget, and does not need to beget. He is ONE and only ONE, and
 nothing is equal to Him.
 
-

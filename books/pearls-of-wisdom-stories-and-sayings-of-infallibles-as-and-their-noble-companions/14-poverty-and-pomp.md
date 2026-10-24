@@ -22,4 +22,3 @@ It is equal and the same, O King! Bahlool retorted. Three armlengths for
 me, inspite of my poverty and three armlengths for you, in spite your
 pomp and wealth.
 
-

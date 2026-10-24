@@ -34,4 +34,3 @@ a group upon whom is the mercy.”*[^3]
 
 [^3]: Ghaibah-Nu’mani/200
 
-

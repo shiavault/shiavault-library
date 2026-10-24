@@ -219,14 +219,10 @@ participate in the burial ceremonies of an old woman by the name of
 said to Abu Ja\`far Neyshābūrī, who was present and wondered at Imam’s
 (A) presence so far from Madina:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّني وَمَنْ جَرَى مَجْرايَ مِنْ أَهْلِ الْبَيْتِ، لا بُدَّ لَنا
-مِنْ حُضورِ جَنائِزِكُمْ في أيِّ بَلَدٍ كُنْتُمْ، فَاتَّقوا اللهَ في
-اَنْفُسِكُمْ وَأَحْسِنوا الأَعْمالَ، لِتُعينونا عَلى خَلاصِكُمْ
-وَفَكِّ رِقابِكُمْ مِنَ النّارِ
-  </p>
-</blockquote>
+> اِنَّني وَمَنْ جَرَى مَجْرايَ مِنْ أَهْلِ الْبَيْتِ، لا بُدَّ لَنا
+> مِنْ حُضورِ جَنائِزِكُمْ في أيِّ بَلَدٍ كُنْتُمْ، فَاتَّقوا اللهَ في
+> اَنْفُسِكُمْ وَأَحْسِنوا الأَعْمالَ، لِتُعينونا عَلى خَلاصِكُمْ
+> وَفَكِّ رِقابِكُمْ مِنَ النّارِ
 
 **“I, and whoever is the Imam of the Ahl al-Bayt after me in my place,
 has to be present in the escorting of your dead bodies, in which ever
@@ -265,12 +261,8 @@ also been buried near Lady Fatima Masuma (A) explains why we find the
 following passage in Lady Fatima Masuma’s (A) salutation (zīyārat),
 where we recite:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكُنَّ يا بَناتِ رَسولِ اللهِ، السَّلامُ عَلَيْكُنَّ
-وَرَحْمَةُ اللهِ وَبَرَكاتُهُ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكُنَّ يا بَناتِ رَسولِ اللهِ، السَّلامُ عَلَيْكُنَّ
+> وَرَحْمَةُ اللهِ وَبَرَكاتُهُ
 
 **“Salutation on you, O daughters of the Prophet of Allah, Salutations
 and Mercy and the Blessings of Allah be on all of you.”**
@@ -300,12 +292,8 @@ ago![^19]
 The above does not seem surprising if one looks at the tradition of
 Prophet Muhammad (S):
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ اللهَ حَرَّمَ لُحُومَنا عَلَى الأَرْضِ فَلا يَطْعُمُ مِنْها
-شَيْئاً
-  </p>
-</blockquote>
+> اِنَّ اللهَ حَرَّمَ لُحُومَنا عَلَى الأَرْضِ فَلا يَطْعُمُ مِنْها
+> شَيْئاً
 
 **“Indeed Allah has made our flesh forbidden to the earth, and the
 ground never consumes from our bodies.”**[^20]
@@ -357,5 +345,4 @@ al-Sīyāsīyah Li al-Imām al-Ridā, p. 428.
 
 [^20]: Bihār al-Anwār, vol. 22, p. 550; Man Lā Yahduruh-u al-Faqīh, vol.
 1, p. 121.
-
 

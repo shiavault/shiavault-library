@@ -25,4 +25,3 @@ masculinity and femininity, except decimal numbers; for they stay in one
 form. Compound ordinal numbers are like compound cardinal numbers in
 that both their parts are indeclinable on a *fathah*
 
-

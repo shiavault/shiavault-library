@@ -244,4 +244,3 @@ http://www.al-islam.org/the-hereafter/.
 
 [^7]: Refer to 24:22.
 
-

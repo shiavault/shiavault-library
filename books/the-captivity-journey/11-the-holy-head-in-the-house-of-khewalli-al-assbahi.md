@@ -16,4 +16,3 @@ never live in the same house with you, be happy! As your enemy tomorrow
 It was narrated that she helped in killing him when Al-Mukhtar took
 revenge from the killers of the Master of Martyrs (Q)
 
-

@@ -756,9 +756,7 @@ loss. (The contentment of Allah is our contentment; Ahlul Bayt. We
 became patient before His affliction and He will reward us with the
 reward of the patient).
 
-
 7-1-1964 AD. / 1383 A.H.
 Kadhimiyya-Baghdad
 Muhammad Sadiq as-Sadr
-
 

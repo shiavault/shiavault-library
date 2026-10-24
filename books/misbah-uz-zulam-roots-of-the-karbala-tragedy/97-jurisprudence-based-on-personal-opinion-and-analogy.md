@@ -134,4 +134,3 @@ to come in the following pages, if Allah the High wills.
 
 [^6]: Muqaddimah Hidaya, Maulavi Abdul Hai Lakhnavi, Pg. 9.
 
-

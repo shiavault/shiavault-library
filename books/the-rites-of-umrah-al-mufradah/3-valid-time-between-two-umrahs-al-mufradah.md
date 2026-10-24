@@ -87,4 +87,3 @@ the tasks of caravan?
 **Answer:** It is not necessary to become Muhrim, except that they
 return in the next month (another lunar month).
 
-

@@ -27,4 +27,3 @@ The martyr who sacrifices himself and dies for the sake of his faith
 finds his place in Paradise. He receives blessings from the prophets and
 the righteous. He is alive and provided for by Allah, The Exalted.
 
-

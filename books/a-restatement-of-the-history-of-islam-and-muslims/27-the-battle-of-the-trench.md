@@ -307,4 +307,3 @@ In the same year, i.e. in 5 A.H. (A.D. 627), Hajj (pilgrimage to Makkah)
 was made mandatory for all those Muslims who were in good financial
 standing and were in good physical health.
 
-

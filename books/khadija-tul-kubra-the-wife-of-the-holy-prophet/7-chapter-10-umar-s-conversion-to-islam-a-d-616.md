@@ -86,7 +86,6 @@ Muslim.
 At that time, Umar ibn al-Khattab was a mature man of thirty to
 thirty-five years of age. (The Life of Muhammad, Cairo, 1935)
 
-
 **Chapter 12 The Death of Khadija tul-Kubra and Abu Talib A. D. 619**
 
 The five paladins of Makka had trampled upon the covenant of the
@@ -322,13 +321,10 @@ pagans of Arabia. His deeds are an integral part of the story of Islam,
 and they are also the most eloquent testimony of his faith in Allah and
 His Messenger - in Islam!
 
-
 May Allah bless His loving slaves, Khadija and Abu Talib. Both of them
 put obedience to Him ahead of everything else in life.
 
-
 **Chapter 13 : Khadija, the Mother of Believers**
-
 
 Before Islam, Khadija was the Princess of Makka. When the sun of Islam
 rose above the horizon, Allah was pleased to make her the Princess of
@@ -435,5 +431,4 @@ one's ability to win salvation, and no one who has displeased one's
 mother, will ever win salvation. The Prophet of Islam has thus made the
 winning of the pleasure of one's mother - a woman - a
 condition-precedent for one to win salvation and to enter paradise.
-
 

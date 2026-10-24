@@ -15,4 +15,3 @@ Section 2: The Rights of Children
 
 **Chapter six :** **Supplication**
 
-

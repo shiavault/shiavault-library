@@ -36,12 +36,8 @@ his knowledge, guidance, and direction, which he be free of need of all,
 as has been related about Khalil ibn Ahmad that he said about the
 *Imamah* of Amir al-Mu’minin (peace be upon him):
 
-<blockquote dir="rtl">
-  <p>
-إِحْتِيَاجُ الْكُلِّ إِلَيْهِ وَاسْتِغَنَاؤُهُ عَنِ الْكُلِّ دَلِيلٍ
-عَلَى أَنَّهُ إِمَامٌ الْكُلِّ.
-  </p>
-</blockquote>
+> إِحْتِيَاجُ الْكُلِّ إِلَيْهِ وَاسْتِغَنَاؤُهُ عَنِ الْكُلِّ دَلِيلٍ
+> عَلَى أَنَّهُ إِمَامٌ الْكُلِّ.
 
 “The dependence of all others on him and his independence from all
 others are proof that he is the Imam of all.”[^1]
@@ -66,13 +62,9 @@ in *Nahj al-Balagha*, they are قوام الله, or the Divine Guardians[^2]
 over the creation, and on the basis of another tradition, they are the
 ship of salvation.
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ مَنْ عَرَفَهُمْ وَعَرَفُوهُ وَلاَ
-يَدْخُلُ النَّارَ إِلاَّ مَنْ أَنْكَرَهُمْ وَهُمْ سَفَنٌ النَّجَاةِ
-وَأَمَانٌ الأُمَّةِ مِنَ الضَّلاَلِ وَالإِخْتِلاِفِ.
-  </p>
-</blockquote>
+> لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ مَنْ عَرَفَهُمْ وَعَرَفُوهُ وَلاَ
+> يَدْخُلُ النَّارَ إِلاَّ مَنْ أَنْكَرَهُمْ وَهُمْ سَفَنٌ النَّجَاةِ
+> وَأَمَانٌ الأُمَّةِ مِنَ الضَّلاَلِ وَالإِخْتِلاِفِ.
 
 “None shall enter Paradise except one who recognizes them and whom they
 recognize, and none shall enter Hell except one who denies them; they
@@ -98,13 +90,9 @@ thousand proofs of this issue in *Alfain*, and in fact this issue has
 its roots in the unity of Allah, and like the principle of Divine Unity,
 it comprises unity of rulership and authority over creation:
 
-<blockquote dir="rtl">
-  <p>
-لَهُ الْحُكْمُ وَلَهُ الأَمْرُ وَهُوَ السُّلْطَانُ وَهُوَ الحَاكِمُ
-وَهُوَ الوَلِيُّ وَهُوَ العَالِمُ بِمَصَالِحِ عِبَادِهِ لاَ أَمْرٌ وَ
-لاَ نَهِيٌّ لِأَحَدٍ دُوْنِهِ.
-  </p>
-</blockquote>
+> لَهُ الْحُكْمُ وَلَهُ الأَمْرُ وَهُوَ السُّلْطَانُ وَهُوَ الحَاكِمُ
+> وَهُوَ الوَلِيُّ وَهُوَ العَالِمُ بِمَصَالِحِ عِبَادِهِ لاَ أَمْرٌ وَ
+> لاَ نَهِيٌّ لِأَحَدٍ دُوْنِهِ.
 
 *“His is the command and rule, He is the King and the Ruler and the One
 in authority, He is the one who is cognizant of the interests of His
@@ -114,12 +102,8 @@ In the issue of the necessity of sinlessness and being the most
 knowledgeable as well, abundant rational, Qur’anic, and narrational
 proofs exist, among which is this verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَهْدِي إِلى الْحَقِّ أَحَقُّ أَنْ يَتْبَعَ أَمَّنْ لاَ
-يَهْدِي إِلاَّ أَنْ يُهْدى
-  </p>
-</blockquote>
+> أَفَمَنْ يَهْدِي إِلى الْحَقِّ أَحَقُّ أَنْ يَتْبَعَ أَمَّنْ لاَ
+> يَهْدِي إِلاَّ أَنْ يُهْدى
 
 ***“Then is one who guides to the truth more worthy to be followed, or
 one who does not find guidance except by being guided?***”[^4]
@@ -130,28 +114,16 @@ issue of the necessity of sinlessness.
 Regarding the principle that the earth shall not remain without a Proof
 and Imam, in addition to verses such as:
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***“And every people has a guide.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ وَصَّلْنَا لَهُمْ الْقَوْلَ
-  </p>
-</blockquote>
+> وَلَقَدْ وَصَّلْنَا لَهُمْ الْقَوْلَ
 
 ***“And certainly we conveyed them the verses of Qur’an
 continuously.”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلُّ أُنَاسِ بِإِمَامِهِمْ
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلُّ أُنَاسِ بِإِمَامِهِمْ
 
 ***“The day when We will call every people with their leader.”***[^7]
 
@@ -173,18 +145,14 @@ Imams from Ahl al-Bait (peace be upon them). In this regard, we will
 suffice with only a portion of the supplication of the day of \`Arafah
 from Imam Zain al-‘Abidin (peace be upon him). That personage says:
 
-<blockquote dir="rtl">
-  <p>
-اللَّـهُـمَّ إِنَّكَ أَيَّدْتَ دِينَكَ فِي كُلِّ أَوَانٍ بِإِمَامٍ
-أَقَمْتَهُ عَلَمًا لِعِبَادِكَ وَ مَنَارًا فِي‌ بِلاَدِكَ بَعْدَ أَنْ
-وَصَلْتَ حَبْلَهُ بِحَبْلِكَ وَ جَعَلْتَهُ الذَّرِيعَةَ إِلَى
-رِضْوَانِكَ وَ افْتَرَضْتَ طَاعَتَهُ وَ حَذَّرْتَ مَعْصِيَتَهُ وَ
-أَمَرْتَ بِامْتِثَالِ أَوَامِرِهِ وَ الِانْتِهَآءِ عِنْدَ نَهْيِهِ وَ
-أَن لاَ يَتَقَدَّمَهُ مُتَقَدِّمٌوَ لاَ يَتَأَخَّرَ عَنْهُ مُتَأَخِّرٌ
-فَهُوَ عِصْمَةُ اللاَئِذِينَ وَ كَهْفُ الْمُؤْمِنِينَ وَ عُرْوَةُ
-الْمُتَمَسِّكِينَ وَ بَهَآءُ الْعَالَمِينَ
-  </p>
-</blockquote>
+> اللَّـهُـمَّ إِنَّكَ أَيَّدْتَ دِينَكَ فِي كُلِّ أَوَانٍ بِإِمَامٍ
+> أَقَمْتَهُ عَلَمًا لِعِبَادِكَ وَ مَنَارًا فِي‌ بِلاَدِكَ بَعْدَ أَنْ
+> وَصَلْتَ حَبْلَهُ بِحَبْلِكَ وَ جَعَلْتَهُ الذَّرِيعَةَ إِلَى
+> رِضْوَانِكَ وَ افْتَرَضْتَ طَاعَتَهُ وَ حَذَّرْتَ مَعْصِيَتَهُ وَ
+> أَمَرْتَ بِامْتِثَالِ أَوَامِرِهِ وَ الِانْتِهَآءِ عِنْدَ نَهْيِهِ وَ
+> أَن لاَ يَتَقَدَّمَهُ مُتَقَدِّمٌوَ لاَ يَتَأَخَّرَ عَنْهُ مُتَأَخِّرٌ
+> فَهُوَ عِصْمَةُ اللاَئِذِينَ وَ كَهْفُ الْمُؤْمِنِينَ وَ عُرْوَةُ
+> الْمُتَمَسِّكِينَ وَ بَهَآءُ الْعَالَمِينَ
 
 “Allah! You have supported your religion in every age with an Imam whom
 You established as a standard for Your servants and a beacon in Your
@@ -285,11 +253,7 @@ In a tradition that Shaykh Saduq narrates in the book *Kamal al-Din*
 from Imam Muhammad at-Taqi (peace be upon him), the ninth Imam, it has
 come:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِمَامَ بَعْدِي ابْنِي عَلِّي)...(
-  </p>
-</blockquote>
+> إِنَّ الإِمَامَ بَعْدِي ابْنِي عَلِّي)...(
 
 *“The Imam after me is my son ‘Ali - Imam ‘Ali al-Naqi* *(peace be upon
 him) - whose command is my command, whose speech is my speech, and
@@ -382,5 +346,4 @@ Volume 1, Page 403
 Ma’ani al-Akhbar
 
 [^10]: Irshad of Shaykh Mufid, Page 364
-
 

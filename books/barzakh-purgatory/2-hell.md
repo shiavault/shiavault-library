@@ -562,4 +562,3 @@ the grave and this unfortunate man is also squeezed in the grave.
 
 [^27]: Kitabul Iman
 
-

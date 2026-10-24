@@ -36,4 +36,3 @@ the Imam would have continued giving him more and more. But when he
 changed his talk and praised and thanked the Imam himself, the Imam did
 not continue his help.
 
-

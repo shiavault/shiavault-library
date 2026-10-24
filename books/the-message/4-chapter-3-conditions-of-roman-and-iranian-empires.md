@@ -689,4 +689,3 @@ Khan Hidayat (page 232).
 Christianity. He had thus invented a new religion by the admixture of a
 local and a foreign faith.
 
-

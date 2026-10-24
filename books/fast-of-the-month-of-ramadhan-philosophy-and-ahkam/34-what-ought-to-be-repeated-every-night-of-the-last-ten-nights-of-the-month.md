@@ -44,4 +44,3 @@ send blessings unto Muhammad (S) and the progeny of Muhammad, for You
 are Capable of doing so, and not to punish me with the punishment that I
 de­serve."
 
-

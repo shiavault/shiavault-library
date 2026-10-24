@@ -603,4 +603,3 @@ a Persian word meaning clean.
 Yes! Salman was clean-hearted. And, he was a member of the Prophet's
 family.
 
-

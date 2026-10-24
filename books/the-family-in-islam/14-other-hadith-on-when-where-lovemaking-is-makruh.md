@@ -487,4 +487,3 @@ reached 60 billion dollars.
 Gulf States to the end of 1993 reached 194 billion dollars the interest
 upon which loans reached 18 billion dollars yearly.
 
-

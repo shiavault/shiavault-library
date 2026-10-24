@@ -67,4 +67,3 @@ obloquy and ignominy upon us.[^4]
 
 [^4]: Tuhaf al-‘Uqul, p. 488.
 
-

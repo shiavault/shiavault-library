@@ -428,4 +428,3 @@ vol. 7 p. 20, Muruju ath-Thahab, vol. 2, ash-Shia wal Hakimun, p.
 
 [^19]: Ibid., p. 186.
 
-

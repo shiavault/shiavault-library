@@ -463,4 +463,3 @@ individual life. Only then can we use this invaluable source which is a
 great Divine trust and the al-thaql al-'akbar, for the benefit of
 humanity in the contemporary era.
 
-

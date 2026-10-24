@@ -52,4 +52,3 @@ greatness, and His capability in re-creating the dead.”*
 *“And guard yourselves against the Day on which you shall be returned to
 Allah.”*
 
-

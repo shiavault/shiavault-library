@@ -203,4 +203,3 @@ between shi’ites and sunnis”.
 ([^2]) Haweiat Altesheia’a, P.193, Ahlilbeit insitution. Beirut sec.
 Edition, 1981.
 
-

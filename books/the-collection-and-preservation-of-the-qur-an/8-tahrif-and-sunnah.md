@@ -151,4 +151,3 @@ Arqam and has authenticated it. al-Dhahabi has not criticized it. The
 words in the actual traditions vary, but the meaning conveyed is
 constant.
 
-

@@ -175,7 +175,6 @@ is hoped that the greatness of Muslims will be returned to them along
 with their independence and autonomy. Allah alone grants success and is
 the sole refuge.
 
-
 The holy city of Qum
 Muhammad Shirazi
 8th Jamada II 1415 Hijra. (1995)
@@ -456,5 +455,4 @@ classifications.
 19 Like monetary fine or banishment or death by stoning, and this
 appears in the writings of certain of their historians like Akthum bin
 Saifi.
-
 

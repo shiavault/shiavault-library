@@ -234,4 +234,3 @@ imminent return. She wished Fitnah was not her cousin, in which case she
 would treat her quite differently. She wished she could reform her
 cousin, but she was at a loss as to how to do so.
 
-

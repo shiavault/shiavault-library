@@ -19,4 +19,3 @@ of the House, and to purify you thoroughly.” Qur’an (33: 33)***
 relatives; and whoever earns good, We give him more of good therein;
 surely Allah is Forgiving, Grateful.” Qur’an (53:23)***
 
-

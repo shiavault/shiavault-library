@@ -34,11 +34,7 @@ After circumambulating and offering Salaat for it the next rite is
 *sa'ee* (Striving). Here again one is reminded of this lion hearted
 lady. Allah (swt)'s words come to one’s mind:
 
-<blockquote dir="rtl">
-  <p>
-اذكرونى اذكركم
-  </p>
-</blockquote>
+> اذكرونى اذكركم
 
 ***"You think of me and I will not forget you."***
 
@@ -82,5 +78,4 @@ Lady Fatima Bint al-Asad. A lady of such high pity that she became a
 guest of Allah (swt) in His own house. It was in preparation of
 welcoming one of the greatest personalities on earth. A special door was
 opened in the wall of Kaba for the arrival of Door of Knowledge.
-
 

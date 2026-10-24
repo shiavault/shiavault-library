@@ -1,11 +1,7 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 Two questions stand at the centre of the Sunni-Shi’i disagreement:
 
@@ -60,11 +56,7 @@ The *khalifah* is the one who takes the place of another one, who is
 physically absent for one reason or another. Imam Ibn al-‘Athir (d. 606
 H), an ace Sunni lexicographer, explains:
 
-<blockquote dir="rtl">
-  <p>
-الخليفة من يقوم مقام الذاهب ويسد مسده
-  </p>
-</blockquote>
+> الخليفة من يقوم مقام الذاهب ويسد مسده
 
 The *khalifah* is whoever stands in the position of the one who is
 physically absent and substitutes for him.[^2]
@@ -92,14 +84,10 @@ to fill the roles for him. Whoever he appointed was therefore known as
 his *amir* (i.e. the *amir* appointed by him)[^4]. Imam Ahmad (d. 241 H)
 records one of his explicit instructions concerning such deputies:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا روح ثنا بن جريج أنا زياد عن بن شهاب ان
-أبا سلمة بن عبد الرحمن أخبره انه سمع أبا هريرة يقول قال رسول الله صلى
-الله عليه و سلم من أطاعني فقد أطاع الله ومن عصاني فقد عصى الله ومن
-أطاع أميري فقد أطاعني ومن عصى أميري فقد عصاني
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا روح ثنا بن جريج أنا زياد عن بن شهاب ان
+> أبا سلمة بن عبد الرحمن أخبره انه سمع أبا هريرة يقول قال رسول الله صلى
+> الله عليه و سلم من أطاعني فقد أطاع الله ومن عصاني فقد عصى الله ومن
+> أطاع أميري فقد أطاعني ومن عصى أميري فقد عصاني
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Ruh – Ibn Jurayj –
 Ziyad – Ibn Shihab – Abu Salamah b. ‘Abd al-Rahman – Abu Hurayrah:
@@ -111,11 +99,7 @@ disobeys my** ***amir*** **has disobeyed me**.”[^5]
 
 Shaykh al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^6]
 
@@ -146,14 +130,10 @@ The Shi’i claim apparently has support in authentic Sunni reports. For
 instance, this is an authentic *hadith* documented in the *Musnad* of
 Imam Ahmad:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني سريج بن يونس عن عمر بن عبيد عن سماك بن حرب عن
-جابر بن سمرة قال سمعت رسول الله صلى الله عليه و سلم يقول يكون من بعدي
-اثنا عشر أميرا فتكلم فخفي علي فسألت الذي يلينى أو إلى جنبي فقال كلهم
-من قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني سريج بن يونس عن عمر بن عبيد عن سماك بن حرب عن
+> جابر بن سمرة قال سمعت رسول الله صلى الله عليه و سلم يقول يكون من بعدي
+> اثنا عشر أميرا فتكلم فخفي علي فسألت الذي يلينى أو إلى جنبي فقال كلهم
+> من قريش
 
 ‘Abd Allah – Shurayh b. Yunus – ‘Umar b. ‘Ubayd – Simak b. Harb – Jabir
 b. Samurah:
@@ -165,44 +145,28 @@ them will be from Quraysh**.”[^8]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح وهذا إسناد حسن من أجل سماك
-  </p>
-</blockquote>
+> حديث صحيح وهذا إسناد حسن من أجل سماك
 
 **It is a** ***sahih hadith***, and this chain is *hasan* due to
 Simak.[^9]
 
 Imam al-Tirmidhi (d. 279 H) says about the same *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan sahih*[^10]
 
 And ‘Allamah al-Albani (d. 1420 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^11]
 
 Imam Ahmad further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا مؤمل بن إسماعيل ثنا حماد بن سلمة حدثنا
-داود بن هند عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى الله عليه و
-سلم يقول يكون لهذه الأمة اثنا عشر خليفة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا مؤمل بن إسماعيل ثنا حماد بن سلمة حدثنا
+> داود بن هند عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى الله عليه و
+> سلم يقول يكون لهذه الأمة اثنا عشر خليفة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Mumal b. Isma’il –
 Hamad b. Salamah – Dawud b. Hind – al-Shu’bi – Jabir b. Samurah:
@@ -212,11 +176,7 @@ this** ***Ummah*** **TWELVE** ***KHALIFAHS***.”[^12]
 
 Shaykh al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 It is a *sahih* *hadith*.[^13]
 
@@ -228,14 +188,10 @@ been weaker.
 
 Ahmad again documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا هاشم ثنا زهير ثنا زياد بن خيثمة عن الأسود
-بن سعيد الهمداني عن جابر بن سمرة قال سمعت رسول الله صلى الله عليه و
-سلم أو قال قال رسول الله صلى الله عليه و سلم يكون بعدي اثنا عشر خليفة
-كلهم من قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا هاشم ثنا زهير ثنا زياد بن خيثمة عن الأسود
+> بن سعيد الهمداني عن جابر بن سمرة قال سمعت رسول الله صلى الله عليه و
+> سلم أو قال قال رسول الله صلى الله عليه و سلم يكون بعدي اثنا عشر خليفة
+> كلهم من قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Hashim – Zuhayr –
 Ziyad b. Khaythamah – al-Aswad b. Sa’id al-Hamdani – Jabir b. Samurah:
@@ -246,11 +202,7 @@ TWELVE** ***KHALIFAHS*****, all of them from Quraysh**.”[^14]
 
 Al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 It is a *sahih* *hadith*[^15]
 
@@ -258,14 +210,10 @@ In some other *ahadith*, their direct appointment by the Prophet is
 stated, as well as their primary identities. Imam Ibn Abi ‘Asim (d. 287
 H) records:
 
-<blockquote dir="rtl">
-  <p>
-ثنا أبو بكر، ثنا عمرو بن سعد أبو داود الحفري، عن شريك، عن الركين عن
-القاسم بن حسان، عن زيد بن ثابت قال قال رسول الله صلى الله عليه وسلم:
-إني تارك فيكم الخليفتين من بعدي، كتاب الله وعترتي أهل بيتي وإنهما لن
-يتفرقا حتى يردا علي الحوض.
-  </p>
-</blockquote>
+> ثنا أبو بكر، ثنا عمرو بن سعد أبو داود الحفري، عن شريك، عن الركين عن
+> القاسم بن حسان، عن زيد بن ثابت قال قال رسول الله صلى الله عليه وسلم:
+> إني تارك فيكم الخليفتين من بعدي، كتاب الله وعترتي أهل بيتي وإنهما لن
+> يتفرقا حتى يردا علي الحوض.
 
 Abu Bakr – ‘Amr b. Sa’d Abu Dawud al-Hafri – Sharik – al-Rakin –
 al-Qasim b. Hisan – Zayd b. Thabit:
@@ -277,25 +225,17 @@ until they meet me at the Lake-Font.”[^16]
 
 ‘Allamah al-Albani declares:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 It is a *sahih* *hadith*.[^17]
 
 Imam Ahmad too documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا الأسود بن عامر ثنا شريك عن الركين عن
-القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
-انى تارك فيكم خليفتين كتاب الله حبل ممدود ما بين السماء والأرض أو ما
-بين السماء إلى الأرض وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا على
-الحوض
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا الأسود بن عامر ثنا شريك عن الركين عن
+> القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
+> انى تارك فيكم خليفتين كتاب الله حبل ممدود ما بين السماء والأرض أو ما
+> بين السماء إلى الأرض وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا على
+> الحوض
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – al-Aswad b. ‘Amir
 – Sharik – al-Rakin – al-Qasim b. Hisan – Zayd b. Thabit:
@@ -308,12 +248,8 @@ from each other until they meet me at the Lake-Font.”[^18]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح بشواهده دون قوله : " وإنهما لن يتفرقا حتى يردا علي الحوض "
-وهذا إسناد ضعيف لسوء حفظ شريك
-  </p>
-</blockquote>
+> حديث صحيح بشواهده دون قوله : " وإنهما لن يتفرقا حتى يردا علي الحوض "
+> وهذا إسناد ضعيف لسوء حفظ شريك
 
 **The** ***hadith*** **is** ***sahih*** **through its** ***shawahid***
 **(witnesses)**, except his statement “Both shall never separate from
@@ -321,14 +257,10 @@ each other until they meet me at the Lake-Font.”[^19]
 
 Ahmad further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا أبو أحمد الزبيري ثنا شريك عن الركين عن
-القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
-إني تارك فيكم خليفتين كتاب الله وأهل بيتي وإنهما لن يتفرقا حتى يردا
-على الحوض جميعا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا أبو أحمد الزبيري ثنا شريك عن الركين عن
+> القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
+> إني تارك فيكم خليفتين كتاب الله وأهل بيتي وإنهما لن يتفرقا حتى يردا
+> على الحوض جميعا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Abu Ahmad
 al-Zubayri – Sharik – al-Rakin – al-Qasim b. Hisan – Zayd b. Thabit:
@@ -340,12 +272,8 @@ together at the Lake-Font.”[^20]
 
 Al-Arnaut again says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح بشواهده دون قوله : " وإنهما لن يتفرقا حتى يردا علي الحوض
-جميعا "
-  </p>
-</blockquote>
+> حديث صحيح بشواهده دون قوله : " وإنهما لن يتفرقا حتى يردا علي الحوض
+> جميعا "
 
 **The** ***hadith*** **is** ***sahih*** **through its** ***shawahid***,
 except his statement, “Both shall never separate from each other until
@@ -353,13 +281,9 @@ they meet me together at the Lake-Font.”[^21]
 
 Imam al-Haythami (d. 807 H) too copies this report from *Musnad Ahmad*:
 
-<blockquote dir="rtl">
-  <p>
-عن زيد بن ثابت قال : قال رسول الله صلى الله عليه و سلم: إني تارك فيكم
-خليفتين : كتاب الله عز و جل حبل ممدود ما بين السماء والأرض - أو ما بين
-السماء إلى الأرض - وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> عن زيد بن ثابت قال : قال رسول الله صلى الله عليه و سلم: إني تارك فيكم
+> خليفتين : كتاب الله عز و جل حبل ممدود ما بين السماء والأرض - أو ما بين
+> السماء إلى الأرض - وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
 
 Narrated Zayd b. Thabit:
 
@@ -371,11 +295,7 @@ from each other until they meet me at the Lake-Font.”[^22]
 
 And he passes this verdict:
 
-<blockquote dir="rtl">
-  <p>
-رواه أحمد وإسناده جيد
-  </p>
-</blockquote>
+> رواه أحمد وإسناده جيد
 
 Ahmad has narrated it **and its chain is good (*****jayyid*****)**.
 
@@ -388,12 +308,8 @@ according to the authentic *ahadith* above. Something to note at this
 point is that the word *khalifah* is both singular and plural, as
 submitted by Imam al-Raghib al-Isfahani (d. 501 H):
 
-<blockquote dir="rtl">
-  <p>
-والخليفة يقال للواحد والجمع ، وهاهنا [هو] جمع ، فإن الخليفة لم يرد به
-آدم عليه السلام فقط ، بل أريد هو وصالحو أولاده ، فهم خلفاؤه
-  </p>
-</blockquote>
+> والخليفة يقال للواحد والجمع ، وهاهنا [هو] جمع ، فإن الخليفة لم يرد به
+> آدم عليه السلام فقط ، بل أريد هو وصالحو أولاده ، فهم خلفاؤه
 
 **The word** ***khalifah*** **is used to refer to a single person or to
 a group**. Here (under Qur’an 2:30), it is plural. This is because the
@@ -445,23 +361,15 @@ They have no other choice if they still want to maintain their flocks
 and the attendant benefits. However, it in indeed a very dangerous game
 actually, in the light of this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-ولا تلبسوا الحق بالباطل وتكتموا الحق وأنتم تعلمون
-  </p>
-</blockquote>
+> ولا تلبسوا الحق بالباطل وتكتموا الحق وأنتم تعلمون
 
 And mix not the Truth with falsehood, nor conceal the Truth while you
 know.[^24]
 
 Then, Allah adds:
 
-<blockquote dir="rtl">
-  <p>
-إن الذين يكتمون ما أنزلنا من البينات والهدى من بعد ما بيناه للناس في
-الكتاب أولئك يلعنهم الله ويلعنهم اللاعنون
-  </p>
-</blockquote>
+> إن الذين يكتمون ما أنزلنا من البينات والهدى من بعد ما بيناه للناس في
+> الكتاب أولئك يلعنهم الله ويلعنهم اللاعنون
 
 **Those who conceal the clear proofs, evidences and the guidance**,
 which We have sent down, after We have made it clear for the people in
@@ -580,5 +488,4 @@ al-Adab, Jami’ah Tanta; 1st edition, 1412 H) [annotator: Dr. Muhammad
 [^24]: Qur’an 2:42
 
 [^25]: Qur’an 2:159
-
 

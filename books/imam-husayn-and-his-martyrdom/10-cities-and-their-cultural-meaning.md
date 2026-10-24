@@ -22,4 +22,3 @@ cities there is often the burgeoning of new ideas. Let us therefore
 examine the matter a little more closely. It will reveal the hidden
 springs of some very interesting history.
 
-

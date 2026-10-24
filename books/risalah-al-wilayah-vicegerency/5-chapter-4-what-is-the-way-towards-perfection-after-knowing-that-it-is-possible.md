@@ -1339,4 +1339,3 @@ remembrance, and continuous in Your service, and make my day deeds
 accepted by You; so that all my actions and deeds be one united deed,
 and my state of servitude be eternal.”
 
-

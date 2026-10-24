@@ -246,4 +246,3 @@ this book)
 
 121. Al-Wulat wel-Qudhat by al-Kindi
 
-

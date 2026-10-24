@@ -131,4 +131,3 @@ made it a prosperous place.
 
 ![](/sites/default/files/part5b.gif)
 
-

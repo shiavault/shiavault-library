@@ -3234,4 +3234,3 @@ you are clear about your Lord, your Religion, your Prophet, your Wasi,
 and your Wali. So, let us move on to continue our journey in the 4rth
 important case study of this book.
 
-

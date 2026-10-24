@@ -589,4 +589,3 @@ under 3: 61-63.
 
 [^9]: Please see glossary for more details.
 
-

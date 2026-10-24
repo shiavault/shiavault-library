@@ -12,4 +12,3 @@ not live after that moment. Later on, during the uprising of the
 Tawabeen, Al-Mukhtar ordered to cut Harmalah's arms and legs and throw
 him in the fire.
 
-

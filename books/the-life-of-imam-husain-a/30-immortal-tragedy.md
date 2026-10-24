@@ -30,7 +30,7 @@ Progeny, who were restorers of the rights of the persecuted and
 oppressed people and those who always strived to establish truth.
 
 Vanguard of Ibn Saad’s troops marched forward on Thursday at the time of
-late afternoon on 9<sup>th</sup> Mohurrum to fight the Holy Imam because
+late afternoon on 9th Mohurrum to fight the Holy Imam because
 strict orders had arrived from Ibn Ziyad for the Commander-in-Chief to
 make haste in the battle so that the views of soldiers may not change
 and there may not appear some groups in their ranks.
@@ -168,7 +168,7 @@ will grant you a day until tomorrow. Then if you surrender, we will send
 you to our governor, Ubaidullah bin Ziyad but if you refuse we will not
 leave you (any longer).”**[3]**
 
-Battle was postponed till 10<sup>th</sup> of Mohurrum and companions of
+Battle was postponed till 10th of Mohurrum and companions of
 Ibn Saad waited for the next day to see if the Imam would agree to
 surrender to their demands or not.
 
@@ -182,7 +182,7 @@ Imam (‘a) permitted his companions to go away
 ---------------------------------------------
 
 Imam (‘a) gathered his companions and Ahle Bayt (‘a) on the eve of
-10<sup>th</sup> Mohurrum and asked them to go away anywhere from there
+10th Mohurrum and asked them to go away anywhere from there
 and leave him alone to his destiny. His Eminence wanted to make them
 aware of his real position. So he told them:
 
@@ -695,7 +695,7 @@ Day of Ashura
 -------------
 
 In the sky of the world no dawn ever broke as the dawn break of the
-10<sup>th</sup> of Mohurrum and the sun of no other day arose like the
+10th of Mohurrum and the sun of no other day arose like the
 sorrowful sun of that day…,because no tragedy in history is as painful
 and as terrible as the Tragedy of the day of Ashura**[3]** on the plains
 of Kerbala, as there did not remain a single calamity that did not

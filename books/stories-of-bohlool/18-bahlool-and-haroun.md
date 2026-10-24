@@ -12,4 +12,3 @@ blessings from His slaves, first of all He took their intellect away.
 Reason is amongst subsistence. It is sorrowful that Allah took this
 blessing away from me.”
 
-

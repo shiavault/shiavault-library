@@ -853,4 +853,3 @@ the ideas of Ibn Tufail (L. Gauthier, op. cit., p. 26).
 Aristotle's works as well as his medical work Kulliyat. Cf. G. Sarton,
 op. cit., p. 355
 
-

@@ -38,4 +38,3 @@ links him closely to the Illuminationist tradition. Lastly, Mulla Sadra
 is also known with a more popular name in Iran, namely as ‘akhund’,
 meaning a learned person.
 
-

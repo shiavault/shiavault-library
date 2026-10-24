@@ -418,4 +418,3 @@ that lie may abide with you for ever." John 14:16 By the above statement
 of Jesus, it is quite clear that his mission was only for a time and not
 for all times and that which was to be permanent had yet to come :-
 
-

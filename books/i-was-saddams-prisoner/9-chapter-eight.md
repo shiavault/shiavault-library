@@ -147,4 +147,3 @@ thousands of innocent Muslims?"
 with his fist and I was on the floor as the chair tilted.” You are
 Khomeini's spy-and with that label I was sent back to the cell.
 
-

@@ -14,4 +14,3 @@ for presecular spiritual insights has been a significant route for the
 spiritual, enabling it to bypass the secular extremes of that age and
 emerge into the 21st century with clear voice.
 
-

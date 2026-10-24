@@ -25,4 +25,3 @@ companions of the Prophet (peace be upon him and his descendants) had
 evinced their exaltation ,but there existed no ears, sense of
 responsibility ,and undertaking.
 
-

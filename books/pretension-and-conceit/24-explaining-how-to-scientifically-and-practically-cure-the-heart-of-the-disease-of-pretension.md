@@ -140,4 +140,3 @@ life in contempt while holding the Hereafter with high regards. The
 status of the creation drops from his heart. The reason for pretension
 collapses, and the paths of sincerity will be facilitated for him…
 
-

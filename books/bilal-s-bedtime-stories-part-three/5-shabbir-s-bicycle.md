@@ -45,7 +45,6 @@ to school with four of his friends, all riding on their bicycles. How he
 enjoys himself now. He is grateful to his father for giving him a good
 piece of advise and for all his help In learning how to ride.
 
-
 **Mend It In Time**
 
 There was Mummy again in Habiba's room drawing the curtains and
@@ -135,5 +134,4 @@ Then she gave her some sweets. When Jenny was ready to leave, the lady
 said: Wait for a moment, I am just coming." She went into her room and
 brought something and put it into Jenny's hand. Jenny was surprised.
 Guess what it was. THE GLITTERING SILVER COINS.
-
 

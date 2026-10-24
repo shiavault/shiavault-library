@@ -344,4 +344,3 @@ al-Ma'ida: "Verily, your wali are: Allah, His Messenger, and the
 Believers," in his Al-Tafsir al-Kabir, similar to which is transmitted
 from Imam Ahmad's Musnad by the Balkhi researcher.
 
-

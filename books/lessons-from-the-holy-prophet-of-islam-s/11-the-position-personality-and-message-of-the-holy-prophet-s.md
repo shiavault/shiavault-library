@@ -451,4 +451,3 @@ Islamic countries on the occasion of the Holy Prophet’s Be’that
 
 [^4]: Sura al-Jumua, Ayah 2
 
-

@@ -370,4 +370,3 @@ when you smote,” at the same time it includes the opposite for Allah
 also says and you did not smite” this negates the ascription of the act
 to man thus proving the concept of intermediacy.
 
-

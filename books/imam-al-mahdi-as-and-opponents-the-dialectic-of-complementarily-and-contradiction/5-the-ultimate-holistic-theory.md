@@ -37,7 +37,6 @@ This is the case when each and every party begins their distinctive
 path, when one ascends to an elevated position, while the second
 descends to its highest level of ambitions.
 
-
 **Islamic Traditions Supporting the Holistic Approach**
 
 At this stage we feel the need to elaborate on the meaning of the
@@ -65,9 +64,7 @@ wings, both of which, would be used for his soul to ascend to Heaven.
 The Holy Qur'an described the different levels for believers in
 paradise as follows:
 
-<p dir="rtl">
 "ولكل درجات مما عملوا."
-</p>
 
 "Each will have rank according to whatever they have done."
 
@@ -76,11 +73,9 @@ Qur'an 46:19
 And the Hadeeth related to Ja'afar bin Abi Taleb we read in the
 historical account as follows:
 
-<p dir="rtl">
 عن علي بن أبي طالب قال : ( بينما أنا مع النبي في خير أبي طالب التفت إلى
 جعفر فقال : أما أن الله قد وصلك بجناحين يطير بهما إلى الجنة كما وصلت
 بجناح ابن عمك )
-</p>
 
 The second - descending steps (Ad-Darakat) - is recorded by the fact
 that when the Prophet (saws) was present amongst a group of Muslims,
@@ -100,25 +95,20 @@ had passed away. His name was Ben Zayd bin Tabut, who was an influential
 high-standing Jew who, despite being a hypocrite and a disbeliever had
 converted to Islam, at least in name.
 
-<p dir="rtl">
 "فلما نزل رسول الله صلى الله عليه وسلم بقباء من طريق عمق سرح الناس ظهره
 ، وأخذتهم ريح شديدة حتى أشفق، وقال الناس : يا رسول الله ما شأن هذه
 الريح؟ فزعموا أنه قال " مات اليوم منافق عظيم النفاق، ولذلك عصفت ، وليس
 عليكم منها بأس إن شاء الله " وكان موته غائظا للمنافقين - قال جابر بن عبد
 الله رضي الله عنهما : فرجعنا إلى المدينة فوجدنا منافقا عظيم النفاق مات
 يومئذ - وسكنت الريح آخر النهار فجمع الناس ظهرهم."
-</p>
 
 The Qur'an has also made the position of hypocrites explicitly clear
 with regards to the Hell fire:
 
-<p dir="rtl">
 "إن المنافقين في الدرك الأسفل من النار، ولن تجد لهم نصيرا."
-</p>
 
 "The hypocrites will be in the lowest depths of the fire: no helper
 wilt thou find for them:" Qur'an 4:145
-
 
 It reflects the very fact that this person, while being a member of the
 Muslim Society of Madinah, was able to reach his form of perfection,
@@ -130,7 +120,6 @@ complementarity, albeit in opposite direction.
 
 Another Islamic tradition states the following:
 
-<p dir="rtl">
 "قال الباقر (ع) : " يا إبراهيم ! إن الله تبارك وتعالى لم يزل عالما
 قديما خلق الأشياء لا من شئ . ومن زعم أن الله - عز وجل - خلق الأشياء من
 شئ فقد كفر ، لأنه لو كان ذلك الشئ الذي خلق منه الأشياء قديما معه في
@@ -151,7 +140,6 @@ Another Islamic tradition states the following:
 الله فما صنع بالطينتين ؟ قال : " مزج بينهما بالماء الأول والماء الثاني ،
 ثم عركها عرك الأديم ، ثم أخذ من ذلك قبضة فقال : هذه إلى الجنة ولا أبالي
 ، وأخذ قبضة أخرى وقال : هذه إلى النار ولا أبالي ."
-</p>
 
 'Summery: When Almighty God created human beings from clay, He mixed
 the pure with the impure and then declared that this one is going to the
@@ -188,5 +176,4 @@ contradiction then ultimately reaching complementarity.
 After studying the theoretical aspects of our approach, it now becomes
 appropriate to examine Imam Al-Mahdi's (as) relationship to his
 opponents in the light of the abovementioned holistic method.
-
 

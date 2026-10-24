@@ -3590,4 +3590,3 @@ Some others claim it to be 930 years. The last two traditions show that
 it was probably 936 years and it is usual to mention the figure in tens
 (i.e. 930 instead of 936).
 
-

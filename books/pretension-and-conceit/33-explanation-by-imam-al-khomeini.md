@@ -95,4 +95,3 @@ they seek forgiveness of Allāh for such a sentiment despite their lofty
 status with Allāh, for the good deeds of the kind ones are the bad deeds
 of those close to Him.
 
-

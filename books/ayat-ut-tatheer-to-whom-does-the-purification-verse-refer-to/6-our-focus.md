@@ -46,4 +46,3 @@ the three above-mentioned possibilities is correct, while depending
 first and foremost on Allah (SWT), secondly on the Qur’an, and thirdly
 on our minds, our logical reasoning, and our intelligence.
 
-

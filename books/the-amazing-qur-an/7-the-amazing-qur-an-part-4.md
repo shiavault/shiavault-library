@@ -230,4 +230,3 @@ is not something which is obvious to one's eyes or a result of one's
 experience, and this fact, in itself, suffices as proof of the Qur'an's
 authenticity.
 
-

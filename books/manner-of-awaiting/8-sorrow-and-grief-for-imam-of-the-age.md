@@ -59,4 +59,3 @@ sun and separation of this dearest soul on earth.”*[^4]
 
 [^4]: Takaleef al-Anaam/189.
 
-

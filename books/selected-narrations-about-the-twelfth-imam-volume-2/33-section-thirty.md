@@ -192,4 +192,3 @@ al-Haqq (al-Arba\`īn), p. 203, no. 35, with the following wording: “When
 our Qā’im departs nothing will remain from Islam and when nothing
 remains from Islam, nothing will remain from this world.”
 
-

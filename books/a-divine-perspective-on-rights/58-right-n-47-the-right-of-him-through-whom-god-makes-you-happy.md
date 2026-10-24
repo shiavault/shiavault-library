@@ -1,25 +1,17 @@
 Right n. 47: The Right of Him through whom God makes you Happy
 ==============================================================
 
-<blockquote dir="rtl">
-  <p>
-حق من سرك الله به وعلى يديه
-  </p>
-</blockquote>
+> حق من سرك الله به وعلى يديه
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ مَنْ سَرَّكَ اللهُ بهِ وَعلَى يَدَيهِ، فَإنْ كَانَ
-تَعَمَّدَهَا لَكَ حَمِدْتَ اللهَ أَوّلاً ثُمَّ شَكَرْتَهُ عَلَى ذلِكَ
-بقَدْرِهِ فِي مَوْضِعِ الجَزَاءِ وَكَافَأتَهُ عَلَى فَضْلِ
-الابْتِدَاءِ وَأَرْصَدْتَ لَهُ الْمُكَافَأَةَ، وَإنْ لَمْ يَكُنْ
-تَعَمَّدَهَا حَمِدْتَ اللهَ وَشَكَرتَهُ وعَلِمْتَ أنَّهُ مِنْهُ،
-تَوَحَّدَكَ بهَا وأَحْبَبتَ هذا إذ كَانَ سَبَباً مِنْ أَسْبَاب نِعَمِ
-اللهِ عَلَيْكَ وَترْجُو لَهُ بَعْدَ ذلِكَ خَيرًا، فإنَّ أَسْبَابَ
-النِّعَمِ بَرَكَةٌ حَيثُ مَا كَانتْ وَإنْ كَانَ لَمْ يَتَعَمَّدَ. ولا
-قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ مَنْ سَرَّكَ اللهُ بهِ وَعلَى يَدَيهِ، فَإنْ كَانَ
+> تَعَمَّدَهَا لَكَ حَمِدْتَ اللهَ أَوّلاً ثُمَّ شَكَرْتَهُ عَلَى ذلِكَ
+> بقَدْرِهِ فِي مَوْضِعِ الجَزَاءِ وَكَافَأتَهُ عَلَى فَضْلِ
+> الابْتِدَاءِ وَأَرْصَدْتَ لَهُ الْمُكَافَأَةَ، وَإنْ لَمْ يَكُنْ
+> تَعَمَّدَهَا حَمِدْتَ اللهَ وَشَكَرتَهُ وعَلِمْتَ أنَّهُ مِنْهُ،
+> تَوَحَّدَكَ بهَا وأَحْبَبتَ هذا إذ كَانَ سَبَباً مِنْ أَسْبَاب نِعَمِ
+> اللهِ عَلَيْكَ وَترْجُو لَهُ بَعْدَ ذلِكَ خَيرًا، فإنَّ أَسْبَابَ
+> النِّعَمِ بَرَكَةٌ حَيثُ مَا كَانتْ وَإنْ كَانَ لَمْ يَتَعَمَّدَ. ولا
+> قُوَّةَ إلا باللهِ.
 
 **And the right of him through whom God makes you happy is that**[^1]
 **if he intentionally made you happy, you should first praise God and
@@ -59,11 +51,7 @@ review a few of them here.
  Abi Hamzeh al-Thumali quoted on the authority of Imam Sadiq on the
 authority of God’s Prophet:
 
-<blockquote dir="rtl">
-  <p>
-مَن سَرَّ مُؤمِناً فَقَدْ سَرَّني وَمَنْ سَرَّني فَقَدْ سَرَّ اللهَ.
-  </p>
-</blockquote>
+> مَن سَرَّ مُؤمِناً فَقَدْ سَرَّني وَمَنْ سَرَّني فَقَدْ سَرَّ اللهَ.
 
 *“Whoever makes a believer happy has indeed made me happy. Whoever makes
 me happy has made God happy.”*[^2]
@@ -73,13 +61,9 @@ make the people happy. This can play a very important role in fostering
 social unity, and in eliminating hard feelings and animosities. Jabir
 narrated that Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-تَبَسُّم المُؤمِنِ في وَجهِ المُؤمِنِ حَسَنةٌ وَصَرْفُ القَذى عَنهُ
-حَسَنَةٌ وَما عُبِدَ اللهُ بِشَيءٍ أَحَبُّ إلَيهِ مِن إدخَالِ
-السُّرورِ عَلى المُؤمِنِ.
-  </p>
-</blockquote>
+> تَبَسُّم المُؤمِنِ في وَجهِ المُؤمِنِ حَسَنةٌ وَصَرْفُ القَذى عَنهُ
+> حَسَنَةٌ وَما عُبِدَ اللهُ بِشَيءٍ أَحَبُّ إلَيهِ مِن إدخَالِ
+> السُّرورِ عَلى المُؤمِنِ.
 
 *“The smile of a believer at another believer is a good deed. Removing a
 speck from your brother’s eye is a good deed. No form of worshipping God
@@ -102,12 +86,8 @@ he will be fed at proper times. Then Moses asked: “Where will he be fed
 from?” God said: “He will be fed from wherever God wills.”[^4] We also
 see a similar concept in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَلِكَ لِمَن يَشَاء
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَلِكَ لِمَن يَشَاء
 
 ***“God forgiveth not that partners should be set up with Him; but He
 forgiveth anything else, to whom He pleaseth …” [The Holy Qur’an,
@@ -117,12 +97,8 @@ Therefore, we realize that those who make people happy go to Heaven and
 have a special rank there. In the sixth tradition in the above-mentioned
 chapter, we read that Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَرى أَحَدُكُم إذا أدْخَلَ عَلى مُؤمِنٍ سُروراً أنَّهُ عَليهِ
-أدخَلَهُ فَقَط، بَل واللهِ عَلَينا، بَل وَاللهِ عَلى رَسولِ اللهِ.
-  </p>
-</blockquote>
+> لا يَرى أَحَدُكُم إذا أدْخَلَ عَلى مُؤمِنٍ سُروراً أنَّهُ عَليهِ
+> أدخَلَهُ فَقَط، بَل واللهِ عَلَينا، بَل وَاللهِ عَلى رَسولِ اللهِ.
 
 *“When one of you makes a believer happy, you should not think that you
 have only made him happy. No, I swear by God, you have also made us
@@ -179,17 +155,13 @@ Making Others Happy Will Always Accompany You
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أدْخَلَ عَلى مُؤمِنٍ سُروراً خَلَقَ اللّهُ مِن ذلِكَ السّرورِ
-خَلقاً فَيلْقاهُ عِندَ مَوتِهِ فَيَقولُ لهُ: أبْشِرْ يا وَليَّ اللّهِ
-بِكَرامَةٍ مِن اللّهِ وَرِضوانٍ، ثُمَّ لا يَزالُ مَعَهُ حَتىّ
-يُدخِلَهُ قَبرَهُ، فَيَقولُ لهُ مِثلَ ذلِكَ فإذا بَعثَ يَلقاهُ
-فَيَقولُ لهُ مِثلَ ذلِكَ، ثُمَّ لا يَزالُ مَعهُ عِندَ كُلِّ هَولٍ
-يُبَشّرُهُ وَيَقولُ لهُ مِثلَ ذلِكَ، فَيَقولُ لهُ: مَن أنتَ رَحمَكَ
-اللّهُ؟ فَيَقولُ لهُ: أنا السّرورُ الّذي أدخَلتَهُ عَلى فُلان.
-  </p>
-</blockquote>
+> مَن أدْخَلَ عَلى مُؤمِنٍ سُروراً خَلَقَ اللّهُ مِن ذلِكَ السّرورِ
+> خَلقاً فَيلْقاهُ عِندَ مَوتِهِ فَيَقولُ لهُ: أبْشِرْ يا وَليَّ اللّهِ
+> بِكَرامَةٍ مِن اللّهِ وَرِضوانٍ، ثُمَّ لا يَزالُ مَعَهُ حَتىّ
+> يُدخِلَهُ قَبرَهُ، فَيَقولُ لهُ مِثلَ ذلِكَ فإذا بَعثَ يَلقاهُ
+> فَيَقولُ لهُ مِثلَ ذلِكَ، ثُمَّ لا يَزالُ مَعهُ عِندَ كُلِّ هَولٍ
+> يُبَشّرُهُ وَيَقولُ لهُ مِثلَ ذلِكَ، فَيَقولُ لهُ: مَن أنتَ رَحمَكَ
+> اللّهُ؟ فَيَقولُ لهُ: أنا السّرورُ الّذي أدخَلتَهُ عَلى فُلان.
 
 *“Whoever makes a believer happy, God will create from that happiness a
 creature who will meet him at the time of his death and say to him:
@@ -204,12 +176,8 @@ the happiness you had brought to so and so in his lifetime’.”*[^7]
 In the last tradition in that chapter, we read that Hisham ibn Hakam
 quoted on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-مِن أحَبِّ الأعْمالِ إلى اللهِ عَزَّ وَجَلَّ إدخالُ السُّرورِ عَلى
-المُؤمِنِ: إشْباعُ جُوعَتِهِ أو تَنفِيسُ كُربَتِهِ أو قَضاءُ دَينِهِ.
-  </p>
-</blockquote>
+> مِن أحَبِّ الأعْمالِ إلى اللهِ عَزَّ وَجَلَّ إدخالُ السُّرورِ عَلى
+> المُؤمِنِ: إشْباعُ جُوعَتِهِ أو تَنفِيسُ كُربَتِهِ أو قَضاءُ دَينِهِ.
 
 *“One of the most beloved deeds for God is making a believer happy. That
 includes feeding him if he is hungry, or helping fend off his
@@ -236,5 +204,4 @@ thank that person.”
 [^7]: Usul al-Kafi, vol.2, pp.191-192.
 
 [^8]: Ibid.
-
 

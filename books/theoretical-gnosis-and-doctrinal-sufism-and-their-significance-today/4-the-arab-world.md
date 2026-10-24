@@ -94,4 +94,3 @@ few years ago, the woman saint, Sayyidah Fātimah al-
 Yashrutiyyah, gave the title al-Rihlah ila’l-Haqq to her major work on
 Sufism on the basis of a dream of Ibn ‘Arabī.24
 
-

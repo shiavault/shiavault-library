@@ -332,4 +332,3 @@ In another verse, the testimony of angels is added to that of God's:
 has revealed it in His knowledge; and the Angels also testify. And God
 is sufficient witness*** (4:166).
 
-

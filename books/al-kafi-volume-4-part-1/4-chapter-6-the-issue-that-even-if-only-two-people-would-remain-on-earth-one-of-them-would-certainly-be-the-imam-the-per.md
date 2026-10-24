@@ -48,7 +48,6 @@ al-Nahdi from his father from Yunus ibn ya'qub from abu 'Abdallah who
 has said the following. "Would there remain no one except two people one
 of them will certainly be the Imam."
 
-
 **Chapter 7 : Knowing the Imam (a.s.) and Belief in His Divine
 Authority H 446, Ch. 7, h 1**
 
@@ -363,5 +362,4 @@ al-Mu'mini said, "A good deed means is to acknowledge our Divine
 authority and have our love in one's heart. Evil means denying our
 Divine authority and harboring in one's heart hatered towards us." Amir
 al-Mu'minin (a.s.) then read the verses to him.
-
 

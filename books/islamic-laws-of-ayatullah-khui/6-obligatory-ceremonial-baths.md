@@ -332,4 +332,3 @@ the bath for middle Istihaza) as well as after recommended bath (See:
 Article No. 651), although as a precautionary measure it is recommended
 that one should also perform ablutions.
 
-

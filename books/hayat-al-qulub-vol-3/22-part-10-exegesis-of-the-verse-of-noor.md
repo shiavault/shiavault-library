@@ -7,17 +7,13 @@ personalities and the exalted houses denote the houses of Ahlul Bayt
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ
-فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا
-كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونِةٍ لَا
-شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ
-تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ
-يَشَاءُ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ
-شَيْءٍ عَلِيمٌ.
-  </p>
-</blockquote>
+> اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ
+> فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا
+> كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونِةٍ لَا
+> شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ
+> تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ
+> يَشَاءُ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ
+> شَيْءٍ عَلِيمٌ.
 
 ***Allah is the light of the heavens and the earth; a likeness of His
 light is as a niche in which is a lamp, the lamp is in a glass, (and)
@@ -426,17 +422,13 @@ Subhanallah, Allah has no examples. So:
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ. رِجَالٌ لَا
-تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ
-الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ
-الْقُلُوبُ وَالْأَبْصَارُ. لِيَجْزِيَهُمْ اللَّهُ أَحْسَنَ مَا
-عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ
-بِغَيْرِ حِسَابٍ.
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ. رِجَالٌ لَا
+> تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ
+> الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ
+> الْقُلُوبُ وَالْأَبْصَارُ. لِيَجْزِيَهُمْ اللَّهُ أَحْسَنَ مَا
+> عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ
+> بِغَيْرِ حِسَابٍ.
 
 ***In houses which Allah has permitted to be exalted and that His name
 may be remembered in them; there glorify Him therein in the mornings and
@@ -459,12 +451,8 @@ the earth which provide light to those in the sky just as the stars
 provide light to those who are on the earth. And some have said that
 they are the houses of the prophets, as the Lord Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House! and to purify you a (thorough) purifying. (Sura Ahzab
@@ -472,12 +460,8 @@ the House! and to purify you a (thorough) purifying. (Sura Ahzab
 
 And He has also said:
 
-<blockquote dir="rtl">
-  <p>
-رَحْمَةُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ
-حَمِيدٌ مَجِيدٌ.
-  </p>
-</blockquote>
+> رَحْمَةُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ
+> حَمِيدٌ مَجِيدٌ.
 
 ***The mercy of Allah and His blessings are on you, O people of the
 house… (Sura Hud 11:73)***
@@ -498,13 +482,9 @@ and to relate those attributes to Allah which rightfully belong to Him,
 all of which are made up of wisdom and reason. Then it is mentioned as
 to who are the reciters of glorification. So Allah says:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ.
-  </p>
-</blockquote>
+> رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ.
 
 ***Men whom neither merchandise nor selling diverts from the remembrance
 of Allah and the keeping up of prayer and the giving of poor-rate; they
@@ -579,12 +559,8 @@ Kulaini has narrated from Imam Sadiq (a.s.) in the explanation of the
 verse of Houses (24:36) that it means the houses of prophets said that
 Allah has made four of them the noblest of all houses as He has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ.
 
 ***Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of Imran above the nations. (Sura Ale-Imran 3:33)***
@@ -605,14 +581,10 @@ grace to others over us is entering the houses through the back.[^3]
 
 The third and the fourth verses:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
-الظَّمْآنُ مَاءً حَتَّى إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا حَتَّى
-إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِنْدَهُ
-فَوَفَّاهُ حِسَابَهُ وَاللَّهُ سَرِيعُ الْحِسَابِ.
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
+> الظَّمْآنُ مَاءً حَتَّى إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا حَتَّى
+> إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِنْدَهُ
+> فَوَفَّاهُ حِسَابَهُ وَاللَّهُ سَرِيعُ الْحِسَابِ.
 
 ***And (as for) those who disbelieve, their deeds are like the mirage in
 a desert, which the thirsty man deems to be water; until when he comes
@@ -660,14 +632,10 @@ whose light he can walk.
 
 And as has been mentioned in another verse:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَى نُورُهُمْ بَيْنَ
-أَيْدِيهِمْ وَبِأَيْمَانِهِمْ بُشْرَاكُمْ الْيَوْمَ جَنَّاتٌ تَجْرِي
-مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ هُوَ الْفَوْزُ
-الْعَظِيمُ.
-  </p>
-</blockquote>
+> يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَى نُورُهُمْ بَيْنَ
+> أَيْدِيهِمْ وَبِأَيْمَانِهِمْ بُشْرَاكُمْ الْيَوْمَ جَنَّاتٌ تَجْرِي
+> مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ هُوَ الْفَوْزُ
+> الْعَظِيمُ.
 
 ***On that day you will see the faithful men and the faithful
 women—their light running before them and on their right hand—good news
@@ -697,12 +665,8 @@ guide him towards Paradise.
 
 The fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنزَلْنَا
-وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ.
-  </p>
-</blockquote>
+> فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنزَلْنَا
+> وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ.
 
 ***Therefore believe in Allah and His Apostle and the Light which We
 have revealed. (Sura Hadid 57:12)***
@@ -728,17 +692,13 @@ Qiyamat.[^4]
 
 The sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
-يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ
-يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنْ الْمُنكَرِ وَيُحِلُّ
-لَهُمْ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمْ الْخَبَائِثَ وَيَضَعُ
-عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ عَلَيْهِمْ
-فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
-النُّورَ الَّذِي أُنزِلَ مَعَهُ أُوْلَئِكَ هُمْ الْمُفْلِحُونَ.
-  </p>
-</blockquote>
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
+> يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ
+> يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنْ الْمُنكَرِ وَيُحِلُّ
+> لَهُمْ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمْ الْخَبَائِثَ وَيَضَعُ
+> عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ عَلَيْهِمْ
+> فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
+> النُّورَ الَّذِي أُنزِلَ مَعَهُ أُوْلَئِكَ هُمْ الْمُفْلِحُونَ.
 
 ***Those who follow the Apostle-Prophet, the Ummi, whom they find
 written down with them in the Taurat and the Injeel (who) enjoins them
@@ -787,12 +747,8 @@ means Ali Ibne Abi Talib (a.s.).[^5]
 
 The Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
-اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ.
-  </p>
-</blockquote>
+> يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
+> اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ.
 
 ***They desire to put out the light of Allah with their mouths but Allah
 will perfect His light, though the unbelievers may be averse. (Sura Saf
@@ -813,12 +769,8 @@ mentioned in another verse:
 Light of Allah means Imamate. People asked for the explanation of the
 subsequent verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ.
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ.
 
 ***He it is Who sent His Apostle with the guidance and the true
 religion, that He may make it overcome the religions, all of them,
@@ -886,13 +838,9 @@ they come to me on the pond of Kauthar.
 
 The Eighth verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
-يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
-تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
+> يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
+> تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.
 
 ***O you who believe! Be careful of (your duty to) Allah and believe in
 His Apostle: He will give you two portions of His mercy, and make for
@@ -927,23 +875,19 @@ may have nothing but grass to eat.[^6]
 
 The Ninth verse:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَى نُورُهُمْ بَيْنَ
-أَيْدِيهِمْ وَبِأَيْمَانِهِمْ بُشْرَاكُمْ الْيَوْمَ جَنَّاتٌ تَجْرِي
-مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ هُوَ الْفَوْزُ
-الْعَظِيمُ. يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ
-لِلَّذِينَ آمَنُوا انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ قِيلَ
-ارْجِعُوا وَرَاءَكُمْ فَالْتَمِسُوا نُورًا فَضُرِبَ بَيْنَهُمْ بِسُورٍ
-لَهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِنْ قِبَلِهِ
-الْعَذَابُ. يُنَادُونَهُمْ أَلَمْ نَكُنْ مَعَكُمْ قَالُوا بَلَى
-وَلَكِنَّكُمْ فَتَنْتُمْ أَنْفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ
-وَغَرَّتْكُمْ الْأَمَانِيُّ حَتَّى جَاءَ أَمْرُ اللَّهِ وَغَرَّكُمْ
-بِاللَّهِ الْغَرُورُ. فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَلَا
-مِنْ الَّذِينَ كَفَرُوا مَأْوَاكُمْ النَّارُ هِيَ مَوْلَاكُمْ وَبِئْسَ
-الْمَصِيرُ.
-  </p>
-</blockquote>
+> يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَى نُورُهُمْ بَيْنَ
+> أَيْدِيهِمْ وَبِأَيْمَانِهِمْ بُشْرَاكُمْ الْيَوْمَ جَنَّاتٌ تَجْرِي
+> مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ هُوَ الْفَوْزُ
+> الْعَظِيمُ. يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ
+> لِلَّذِينَ آمَنُوا انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ قِيلَ
+> ارْجِعُوا وَرَاءَكُمْ فَالْتَمِسُوا نُورًا فَضُرِبَ بَيْنَهُمْ بِسُورٍ
+> لَهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِنْ قِبَلِهِ
+> الْعَذَابُ. يُنَادُونَهُمْ أَلَمْ نَكُنْ مَعَكُمْ قَالُوا بَلَى
+> وَلَكِنَّكُمْ فَتَنْتُمْ أَنْفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ
+> وَغَرَّتْكُمْ الْأَمَانِيُّ حَتَّى جَاءَ أَمْرُ اللَّهِ وَغَرَّكُمْ
+> بِاللَّهِ الْغَرُورُ. فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَلَا
+> مِنْ الَّذِينَ كَفَرُوا مَأْوَاكُمْ النَّارُ هِيَ مَوْلَاكُمْ وَبِئْسَ
+> الْمَصِيرُ.
 
 ***On that day you will see the faithful men and the faithful
 women—their light running before them and on their right hand—good news
@@ -987,16 +931,12 @@ and it is a very bad place for your return.
 
 It is mentioned at another place:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا
-عَسَى رَبُّكُمْ أَنْ يُكَفِّرَ عَنْكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ
-جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يَوْمَ لَا يُخْزِي
-اللَّهُ النَّبِيَّ وَالَّذِينَ آمَنُوا مَعَهُ نُورُهُمْ يَسْعَى بَيْنَ
-أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا
-نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا
+> عَسَى رَبُّكُمْ أَنْ يُكَفِّرَ عَنْكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ
+> جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يَوْمَ لَا يُخْزِي
+> اللَّهُ النَّبِيَّ وَالَّذِينَ آمَنُوا مَعَهُ نُورُهُمْ يَسْعَى بَيْنَ
+> أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا
+> نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
 
 ***O you who believe! Turn to Allah a sincere turning; maybe your Lord
 will remove from you your evil and cause you to enter gardens beneath
@@ -1070,12 +1010,8 @@ were waiting for calamities to fall on the faithful.
 
 The tenth verse:
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَلَا مِنْ الَّذِينَ
-كَفَرُوا.
-  </p>
-</blockquote>
+> فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَلَا مِنْ الَّذِينَ
+> كَفَرُوا.
 
 ***So today ransom shall not be accepted from you nor from those who
 disbelieved…(Sura Hadid 57:15)***
@@ -1085,11 +1021,7 @@ verse is neither the Jews nor the Christians; and Allah has not aimed
 here at anyone except the Ahle Qibla (those having common prayer
 direction).
 
-<blockquote dir="rtl">
-  <p>
-مَأْوَاكُمْ النَّارُ هِيَ مَوْلَاكُمْ وَبِئْسَ الْمَصِيرُ.
-  </p>
-</blockquote>
+> مَأْوَاكُمْ النَّارُ هِيَ مَوْلَاكُمْ وَبِئْسَ الْمَصِيرُ.
 
 Your abode is the fire; it is your friend and evil is the resort…
 
@@ -1137,14 +1069,10 @@ entering Paradise. Then he recited the verse:
 
 The Eleventh verse:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنْ الظُّلُمَاتِ إِلَى
-النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمْ الطَّاغُوتُ
-يُخْرِجُونَهُمْ مِنْ النُّورِ إِلَى الظُّلُمَاتِ أُوْلَئِكَ أَصْحَابُ
-النَّارِ هُمْ فِيهَا خَالِدُونَ.
-  </p>
-</blockquote>
+> اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنْ الظُّلُمَاتِ إِلَى
+> النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمْ الطَّاغُوتُ
+> يُخْرِجُونَهُمْ مِنْ النُّورِ إِلَى الظُّلُمَاتِ أُوْلَئِكَ أَصْحَابُ
+> النَّارِ هُمْ فِيهَا خَالِدُونَ.
 
 ***Allah is the guardian of those who believe. He brings them out of the
 darkness into the light; and (as to) those who disbelieve, their
@@ -1218,14 +1146,10 @@ proof was complete for them.
 
 The twelfth verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ
-وَأَنزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا فَأَمَّا الَّذِينَ آمَنُوا
-بِاللَّهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ
-وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُسْتَقِيمًا.
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ
+> وَأَنزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا فَأَمَّا الَّذِينَ آمَنُوا
+> بِاللَّهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ
+> وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُسْتَقِيمًا.
 
 ***O people! surely there has come to you manifest proof from your Lord
 and We have sent to you clear light. Then as for those who believe in
@@ -1262,13 +1186,9 @@ proof (Burhan) means Muhammad (S) and Light (Noor) and the Straight Path
 
 The Thirteenth verse:
 
-<blockquote dir="rtl">
-  <p>
-أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
-بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
-مِنْهَا كَذَلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُوا يَعْمَلُونَ.
-  </p>
-</blockquote>
+> أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
+> بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
+> مِنْهَا كَذَلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُوا يَعْمَلُونَ.
 
 ***Is he who was dead then We raised him to life and made for him a
 light by which he walks among the people, like him whose likeness is
@@ -1341,13 +1261,9 @@ the matter of the Wilayat of the Imams.
 
 The Fourteenth verse:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِي مُؤْمِنًا
-وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدْ الظَّالِمِينَ إِلَّا
-تَبَارًا.
-  </p>
-</blockquote>
+> رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِي مُؤْمِنًا
+> وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدْ الظَّالِمِينَ إِلَّا
+> تَبَارًا.
 
 ***My Lord! forgive me and my parents and him who enters my house
 believing, and the believing men and the believing women; and do not
@@ -1524,5 +1440,4 @@ correlated if possibly, ‘Zeenat’ might mean both physical and spiritual
 adoration, and the Wilayat of Ahlul Bayt (a.s.) is the greatest and the
 noblest of all spiritual adorations. In every tradition, the narrator
 has mentioned accordingly to his knowledge and condition.
-
 

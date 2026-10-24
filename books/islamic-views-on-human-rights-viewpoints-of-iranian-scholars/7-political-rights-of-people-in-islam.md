@@ -846,4 +846,3 @@ hadith 2, p. 208.
 [^36]: The mentioned articles haven’t undergone any change in
 reconsidering of constitution in 1989
 
-

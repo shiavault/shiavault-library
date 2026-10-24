@@ -458,4 +458,3 @@ Certainly the leaders did not seek revenge for the blood of 'Uthman.
 They only pretended to do that as a means of destroying the Imam's
 caliphate.
 
-

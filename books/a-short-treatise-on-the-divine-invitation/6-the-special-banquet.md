@@ -15,11 +15,7 @@ extensions (*masādīq*) of the special Divine banquet:
 The Holy Prophet (s) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-...وَهُوَ شَهْرٌ دُعِيـتُمْ فِيهِ إِلـى ضِيَافَةِ اللٌّهِ...
-  </p>
-</blockquote>
+> ...وَهُوَ شَهْرٌ دُعِيـتُمْ فِيهِ إِلـى ضِيَافَةِ اللٌّهِ...
 
 “…It is a month in which you have been called to the Banquet of
 Allāh…”[^1]
@@ -27,12 +23,8 @@ Allāh…”[^1]
 Imām Muhammad al-Bāqir (‘a) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-...شَهْرُ رَمَضَانِ شَهْرُ رَمَضَانِ وَالصَّائِمُوْنَ فِيـهِ
-أَضْـيَافُ اللٌّهِ...
-  </p>
-</blockquote>
+> ...شَهْرُ رَمَضَانِ شَهْرُ رَمَضَانِ وَالصَّائِمُوْنَ فِيـهِ
+> أَضْـيَافُ اللٌّهِ...
 
 “…The month of Ramadān is the month of Ramadān, and those who are
 fasting therein are the guests of Allāh…[^2]”  
@@ -44,12 +36,8 @@ fasting therein are the guests of Allāh…[^2]”
 Imām al-Sādiq (‘a) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ ضَيْفَ اللٌّهِ عَزَّ وَجَلَّ رَجُلٌ حَجَّ وَاعْتَمَرَ، فَهُوَ
-ضَيْفُ اللٌّهِ حَتّى يَرْجِعَ إِلـى مَنْزِلِهِ...
-  </p>
-</blockquote>
+> إِنَّ ضَيْفَ اللٌّهِ عَزَّ وَجَلَّ رَجُلٌ حَجَّ وَاعْتَمَرَ، فَهُوَ
+> ضَيْفُ اللٌّهِ حَتّى يَرْجِعَ إِلـى مَنْزِلِهِ...
 
 “Surely the guest of Allāh is the one who performs hajj and ‘umrah until
 he returns back to his house…[^3]”  
@@ -61,12 +49,8 @@ he returns back to his house…[^3]”
 The above tradition of Imām al-Sādiq (‘a) mentions the second kind of
 guest as:
 
-<blockquote dir="rtl">
-  <p>
-...وَرَجُلٌ كَانَ فِي صَلاَتِهِ، فَهُوَ فِي كَـنْفِ اللٌّهِ حَتَّى
-يَنْصَرِفَ...
-  </p>
-</blockquote>
+> ...وَرَجُلٌ كَانَ فِي صَلاَتِهِ، فَهُوَ فِي كَـنْفِ اللٌّهِ حَتَّى
+> يَنْصَرِفَ...
 
 “…and one who is in his prayers, and thus under Divine protection, until
 he leaves his prayer…[^4]”
@@ -74,12 +58,8 @@ he leaves his prayer…[^4]”
 Imām al-Sādiq (‘a) is also reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلَّى صَلاَةً فَرِيضَةً وَعَقَّبَ إِلـى أُخْرَى فَهُوَ ضَيْفُ
-اللٌّهِ، وَحَقٌّ عَلَى اللٌّهِ أَنْ يُكْرِمَ ضَيْفَهُ...
-  </p>
-</blockquote>
+> مَنْ صَلَّى صَلاَةً فَرِيضَةً وَعَقَّبَ إِلـى أُخْرَى فَهُوَ ضَيْفُ
+> اللٌّهِ، وَحَقٌّ عَلَى اللٌّهِ أَنْ يُكْرِمَ ضَيْفَهُ...
 
 “Whosoever prays an obligatory prayer and follows it with another, then
 he is a guest of Allāh, and it is upon Allāh to venerate His guest…[^5]”
@@ -88,13 +68,9 @@ Imām Hasan al-Mujtabā (‘a) was known to say the following whenever he
 would reach the door of the mosque:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِلٌـهِي ضَيْفُكَ بِـبَابِكَ، يَا مُحْسِنُ قَدْ أَتَاكَ الْمُسِيءُ،
-فَتَجَاوَزْ عَنْ قَبِيحِ مَا عِنْدِي بِجَمِيلِ مَا عِنْدَك يَا
-كَرِيـمُ.
-  </p>
-</blockquote>
+> إِلٌـهِي ضَيْفُكَ بِـبَابِكَ، يَا مُحْسِنُ قَدْ أَتَاكَ الْمُسِيءُ،
+> فَتَجَاوَزْ عَنْ قَبِيحِ مَا عِنْدِي بِجَمِيلِ مَا عِنْدَك يَا
+> كَرِيـمُ.
 
 “O God, Your guest is at Your door; O Virtuous One, certainly the bad
 doer has come to you; so overlook the ugliness that I possess with the
@@ -112,11 +88,7 @@ Ibn Fahd al-Hillī in his *‘Uddat al-Dā’ī* narrates a sacred tradition
 the following:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَهْلُ طَاعَـتِي فِي ضِيَافَـتِي.
-  </p>
-</blockquote>
+> أَهْلُ طَاعَـتِي فِي ضِيَافَـتِي.
 
 “The obedient people are My guests…[^7]”  
   
@@ -127,11 +99,7 @@ the following:
 The Holy Prophet (s) in a sacred tradition is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ اللٌّهَ سُبْحَانَهُ يَقُولُ أَهْلُ ذِكْرِي فِي ضِيَافَتِي...
-  </p>
-</blockquote>
+> وَإِنَّ اللٌّهَ سُبْحَانَهُ يَقُولُ أَهْلُ ذِكْرِي فِي ضِيَافَتِي...
 
 “And surely Allāh, free is He from imperfections, Says: Those who
 remember Me are My guests….[^8]”  
@@ -143,15 +111,11 @@ remember Me are My guests….[^8]”
 The Holy Prophet (s) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-...مَا جَلَسَ قَوْمٌ فِي بَيْتٍ مِنْ بُـيُوتِ اللٌّهِ، يَدْرُسُونَ
-كِتَابَ اللٌّهِ، وَيَتَعَاطَوْنَهُ بَيْـنَهُمْ إِلاَّ كَانُوا
-أَضْـيَافَ اللٌّهِ تَعَالـى، وَأَظَلَّتْ عَلَيْهِمُ الْمَلاَئِكَةُ
-بِأَجْنِحَتِهَا مَا دَامُوا فِيهِ، حَتَّى يَخُوضُوا فِي حَدِيثٍ
-غَيْرِهِ...
-  </p>
-</blockquote>
+> ...مَا جَلَسَ قَوْمٌ فِي بَيْتٍ مِنْ بُـيُوتِ اللٌّهِ، يَدْرُسُونَ
+> كِتَابَ اللٌّهِ، وَيَتَعَاطَوْنَهُ بَيْـنَهُمْ إِلاَّ كَانُوا
+> أَضْـيَافَ اللٌّهِ تَعَالـى، وَأَظَلَّتْ عَلَيْهِمُ الْمَلاَئِكَةُ
+> بِأَجْنِحَتِهَا مَا دَامُوا فِيهِ، حَتَّى يَخُوضُوا فِي حَدِيثٍ
+> غَيْرِهِ...
 
 “No people sit in a house from among the houses of Allāh studying the
 Book of Allāh and exchanging information between themselves, save that
@@ -165,13 +129,9 @@ talking about something else…[^9]”
 It is reported in a tradition that the Holy Prophet (s) said:  
   
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَ أَخَاهُ فِي بَيْتِهِ قَالَ اللٌّهُ عَزَّ وَجَلَّ لَهُ:
-أَنْتَ ضَيْفِي وَزَائِرِي، عَلَيَّ قِرَاكَ، وَقَدْ أَوْجَبْتُ لَكَ
-الْجَنَّةَ بِحُبِّكَ إِيَّاهُ...
-  </p>
-</blockquote>
+> مَنْ زَارَ أَخَاهُ فِي بَيْتِهِ قَالَ اللٌّهُ عَزَّ وَجَلَّ لَهُ:
+> أَنْتَ ضَيْفِي وَزَائِرِي، عَلَيَّ قِرَاكَ، وَقَدْ أَوْجَبْتُ لَكَ
+> الْجَنَّةَ بِحُبِّكَ إِيَّاهُ...
 
 “Whosoever visits his brother at his home, (in the way of Allāh), Allāh,
 the Invincible and Majestic, Says: ‘You are My guest and My visitor, and
@@ -186,15 +146,11 @@ In one of the *ziyārāt* of Imām al-Husayn (‘a), we are taught to address
 him saying:  
   
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللٌّهِ: أَنَا ضَيْفُ اللٌّهِ وَضَيْفُكَ، وَجَارُ
-اللٌّهِ وَجَارُكَ، وَلِكُلِّ ضَيْفٍ وَجَارٍ قِرًى، وَقِرَايَ فِي هٌذَا
-الْوَقْتِ أَنْ تَسْأَلَ اللٌّهَ سُبْحَانَهُ وَتَعَالـى أَنْ
-يَرْزُقَنِي فَكَاكَ رَقَـبَتِي مِنَ النَّارِ، إِنَّهُ سَمِيعُ
-الدُّعَاءِ ...
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللٌّهِ: أَنَا ضَيْفُ اللٌّهِ وَضَيْفُكَ، وَجَارُ
+> اللٌّهِ وَجَارُكَ، وَلِكُلِّ ضَيْفٍ وَجَارٍ قِرًى، وَقِرَايَ فِي هٌذَا
+> الْوَقْتِ أَنْ تَسْأَلَ اللٌّهَ سُبْحَانَهُ وَتَعَالـى أَنْ
+> يَرْزُقَنِي فَكَاكَ رَقَـبَتِي مِنَ النَّارِ، إِنَّهُ سَمِيعُ
+> الدُّعَاءِ ...
 
 “O Abā ‘Abdillāh, I am the guest of Allāh and your guest as well, and
 Allāh is my refuge; and you too are my refuge; and for every guest and
@@ -223,5 +179,4 @@ Fire; surely He is All-Hearing of Prayer…[^11]”
 [^10]: al-Kāfī, vol. 2, pg. 176.
 
 [^11]: Mafātīh al-Jinān, pg. 292.
-
 

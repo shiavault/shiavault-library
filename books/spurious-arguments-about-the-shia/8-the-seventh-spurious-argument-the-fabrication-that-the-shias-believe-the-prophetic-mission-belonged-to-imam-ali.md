@@ -26,4 +26,3 @@ hundred times; saying Allahu Akbar thirty four times, Subhan Allah
 (Glory be to Allah) thirty-three times and saying al Hamdu lillah
 (Praise be to Allah) thirty-three times.
 
-

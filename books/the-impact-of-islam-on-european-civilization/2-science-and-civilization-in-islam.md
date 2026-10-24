@@ -51,4 +51,3 @@ physics, chemistry, biology and astronomy and established new sciences
 such as optics, algebra, laboratory chemistry, trigonometry, geology,
 and sociology.
 
-

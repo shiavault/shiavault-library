@@ -110,12 +110,8 @@ work), we have edited and re-published this work once again.
 We remind the readers of one point in relation to the importance of
 developing the noble ethical traits, just as an \`Arab poet has stated:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّمٌا الأُمَمُ، الأَخْلاٌقُ مٌا بَقِيَتْ فَإِنْ هُمْ ذَهَبَتْ
-أَخْلاٌقُهُمْ ذَهَبُوا
-  </p>
-</blockquote>
+> فَإِنَّمٌا الأُمَمُ، الأَخْلاٌقُ مٌا بَقِيَتْ فَإِنْ هُمْ ذَهَبَتْ
+> أَخْلاٌقُهُمْ ذَهَبُوا
 
 *So then surely they are (the true) nations,*  
 *Whose etiquette has remained behind (for us);*  
@@ -624,12 +620,8 @@ Muhammad ibn Maskuyah (d. 431 AH). As for the importance and worth of
 this book, it is sufficient to state that the late Muhaqqiq at-Tusi has
 written a poem in relation to this book, of which the first line states:
 
-<blockquote dir="rtl">
-  <p>
-بِنَفْسِي کِتٌاباً حٌازَ كُلِّ فَضِيلَةٍ وَ صٌارَ لِتَكْمِيلِ
-لْبَرِيَّةِ ضٌامِناً
-  </p>
-</blockquote>
+> بِنَفْسِي کِتٌاباً حٌازَ كُلِّ فَضِيلَةٍ وَ صٌارَ لِتَكْمِيلِ
+> لْبَرِيَّةِ ضٌامِناً
 
 *“I sacrifice my soul for a Book*  
 *That contains all virtuous traits,*  
@@ -769,5 +761,4 @@ Book and the Wisdom…” Surah al-Jumu\`ah (62), Verse 2.
 completed to a certain level by two noble writers. This book has been
 printed under the name of: “Ethics from the point of view of the Qur’an”
 and “The Ethics of the Qur’an”.
-
 

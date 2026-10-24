@@ -567,4 +567,3 @@ Jawzī, Sibt, Tadhkirat al-Khawās, p. 240.
 
 [^37]: Samhūdī, Wafā’ al-Wafā’, vol. 1, p. 127.
 
-

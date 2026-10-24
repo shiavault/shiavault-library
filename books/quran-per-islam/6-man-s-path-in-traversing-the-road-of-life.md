@@ -426,4 +426,3 @@ and the heart, in the usage of the Holy Qur'an is the soul because in
 several places, understanding and awareness comes from the soul and is
 related to the heart. XXVI: 193-195
 
-

@@ -8,21 +8,13 @@ reaching] its people, nor does it protect the one who seeks refuge in
 it.
 
 > 1ـ اَلْفُجُورُ دارُ حِصْن ذَلِيل، لايَمْنَعُ أهْلَهُ، ولايُحْرِزُ مَنْ
-<blockquote dir="rtl">
-  <p>
-لَجَأَ إلَيْهِ.
-  </p>
-</blockquote>
+> لَجَأَ إلَيْهِ.
 
 2. Beware of immoral gatherings, for indeed they anger the Most Merciful
 and take you to the fire of hell.
 
 > 2ـ إيّاكَ وَمَحاضِرَ الفُسُوقِ، فَإنَّها مُسْخِطَةٌ لِلرَّحْمنِ،
-<blockquote dir="rtl">
-  <p>
-مُصْلِيَةٌ لِلنِّيرانِ.
-  </p>
-</blockquote>
+> مُصْلِيَةٌ لِلنِّيرانِ.
 
 3. Wickedness is from the traits of the disbelievers.
 
@@ -69,5 +61,4 @@ people.
 committed it.
 
 > 13ـ مُذيعُ الفاحِشَةِ كَفاعِلِها.
-
 

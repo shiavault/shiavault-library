@@ -13,4 +13,3 @@ separation from them is very hard for me.”
 parents and respect their parents’ pleasure, because the pleasure of
 parents comes under the pleasure of God.
 
-

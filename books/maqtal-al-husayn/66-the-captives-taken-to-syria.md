@@ -229,4 +229,3 @@ place to always be unprofitable.
 [^17]: These verses were composed by the ‘Allama shaikh ‘Abd al-Husayn
 al-A’sam al-Najafi, may Allah have mercy on his soul.
 
-

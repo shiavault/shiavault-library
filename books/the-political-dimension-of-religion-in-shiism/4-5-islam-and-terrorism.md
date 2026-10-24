@@ -90,7 +90,6 @@ House. It looks like the project is temporarily postponed from both
 circumstantial purposes (Iraqian crisis and the respect of the traveling
 warrant for the Palestinian problem) and diplomatic purposes.
 
-
 **Bibliography:**
 
 Samuel Hungtington - 'The Clash of Civilizations and the Remaking of
@@ -101,5 +100,4 @@ third Wave"
 Ali Beman Eghbalizarch - "Religion and Politics in the Islamic World"
 April 2008, Bucharest BIRCA MIRCEA, FACULTY of SOCIOLOGY, from Bucharest
 University.
-
 

@@ -128,11 +128,9 @@ their deeds would be nullified.
 Let us now see what Allah (s.w.t.) and the Holy Infallibles (a.s.) have
 to say about this.
 
-<p dir="rtl">
 كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ وَعَسَى أَن
 تَكْرَهُواْ شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَى أَن تُحِبُّواْ شَيْئًا
 وَهُوَ شَرٌّ لَّكُمْ وَاللّهُ يَعْلَمُ وَأَنتُمْ لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 2:216] Fighting is enjoined on you, and it is an object of
 dislike to you; and it may be that you dislike a thing while it is good
@@ -175,20 +173,16 @@ Commands are not clear, and that with the help of analogy and conjecture
 the reason of an Order is deduced although Allah (s.w.t.) is the only
 one Who Knows the real reasons.
 
-<p dir="rtl">
 يَا أَيُّهَا النَّاسُ كُلُواْ مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
 وَلاَ تَتَّبِعُواْ خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
 مُّبِينٌ
-</p>
 
 [Shakir 2:168] O men! eat the lawful and good things out of what is in
 the earth, and do not follow the footsteps of the Shaitan; surely he is
 your open enemy.
 
-<p dir="rtl">
 إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاء وَأَن تَقُولُواْ عَلَى
 اللّهِ مَا لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 2:169] He only enjoins you evil and indecency, and that you may
 speak against Allah what you do not know.
@@ -208,14 +202,12 @@ behaviours that have led many people to their destruction. Beware of
 giving fatwa to people on the basis of your own opinion and of following
 a religion without knowledge.’”
 
-<p dir="rtl">
 إِنَّا أَنزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا
 النَّبِيُّونَ الَّذِينَ أَسْلَمُواْ لِلَّذِينَ هَادُواْ
 وَالرَّبَّانِيُّونَ وَالأَحْبَارُ بِمَا اسْتُحْفِظُواْ مِن كِتَابِ
 اللّهِ وَكَانُواْ عَلَيْهِ شُهَدَاء فَلاَ تَخْشَوُاْ النَّاسَ
 وَاخْشَوْنِ وَلاَ تَشْتَرُواْ بِآيَاتِي ثَمَنًا قَلِيلاً وَمَن لَّمْ
 يَحْكُم بِمَا أَنزَلَ اللّهُ فَأُوْلَـئِكَ هُمُ الْكَافِرُونَ
-</p>
 
 [Shakir 5:44] Surely We revealed the Taurat in which was guidance and
 light; with it the prophets who submitted themselves (to Allah) judged
@@ -226,13 +218,11 @@ and fear Me, and do not take a small price for My communications; and
 whoever did not judge by what Allah revealed, those are they that are
 the unbelievers.
 
-<p dir="rtl">
 وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ
 بِالْعَيْنِ وَالأَنفَ بِالأَنفِ وَالأُذُنَ بِالأُذُنِ وَالسِّنَّ
 بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِ فَهُوَ كَفَّارَةٌ
 لَّهُ وَمَن لَّمْ يَحْكُم بِمَا أنزَلَ اللّهُ فَأُوْلَـئِكَ هُمُ
 الظَّالِمُونَ
-</p>
 
 [Shakir 5:45] And We prescribed to them in it that life is for life, and
 eye for eye, and nose for nose, and ear for ear, and tooth for tooth,
@@ -240,13 +230,11 @@ and (that there is) reprisal in wounds; but he who foregoes it, it shall
 be an expiation for him; and whoever did not judge by what Allah
 revealed, those are they that are the unjust.
 
-<p dir="rtl">
 وَمِنَ الإِبْلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ قُلْ آلذَّكَرَيْنِ
 حَرَّمَ أَمِ الأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ
 الأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَاء إِذْ وَصَّاكُمُ اللّهُ بِهَـذَا
 فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللّهِ كَذِبًا لِيُضِلَّ النَّاسَ
 بِغَيْرِ عِلْمٍ إِنَّ اللّهَ لاَ يَهْدِي الْقَوْمَ الظَّالِمِينَ
-</p>
 
 [Shakir 6:144] And two of camels and two of cows. Say: Has He forbidden
 the two males or the two females or that which the wombs of the two
@@ -255,20 +243,16 @@ Who, then, is more unjust than he who forges a lie against Allah that he
 should lead astray men without knowledge? Surely Allah does not guide
 the unjust people.
 
-<p dir="rtl">
 وَلاَ تَقُولُواْ لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
 وَهَـذَا حَرَامٌ لِّتَفْتَرُواْ عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
 يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ
-</p>
 
 [Shakir 16:116] And, for what your tongues describe, do not utter the
 lie, (saying) This is lawful and this is unlawful, in order to forge a
 lie against Allah; surely those who forge the lie against Allah shall
 not prosper.
 
-<p dir="rtl">
 مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ
-</p>
 
 [Shakir 16:117] A little enjoyment and they shall have a painful
 punishment.
@@ -287,11 +271,9 @@ in Hell’.
 From Verse 117 it can be said that those that issue Fatwas based on
 opinion do get some profit from it.
 
-<p dir="rtl">
 فَإِن لَّمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
 أَهْوَاءهُمْ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى
 مِّنَ اللَّهِ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
-</p>
 
 [Shakir 28:50] But if they do not answer you, then know that they only
 follow their low desires; and who is more erring than he who follows his
@@ -302,19 +284,15 @@ This has been commented upon by Imam Musa Al Kazim (a.s.) that this is
 the person who does not act according to the orders of the Imam (a.s.)
 of his time and makes his own opinions as being religious ordinances.
 
-<p dir="rtl">
 وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ
 لَهُ قَرِينٌ
-</p>
 
 [Shakir 43:36] And whoever turns himself away from the remembrance of
 the Beneficent Allah, We appoint for him a Shaitan, so he becomes his
 associate.
 
-<p dir="rtl">
 وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ وَيَحْسَبُونَ أَنَّهُم
 مُّهْتَدُونَ
-</p>
 
 [Shakir 43:37] And most surely they turn them away from the path, and
 they think that they are guided aright:
@@ -875,5 +853,4 @@ then my Fatwas would have destroyed me.
 
 The truth has been delivered to you. My proof over you is now completed.
 Who will be able to guide the one whom Allah (s.w.t.) has left alone?
-
 

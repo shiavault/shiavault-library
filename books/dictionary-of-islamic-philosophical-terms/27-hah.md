@@ -55,4 +55,3 @@ thing. According to the Peripatetic philosophers, it is eternal; for
 being a mere potentiality, it is the principle of all becoming and,
 therefore, could not have become itself. See also surah.
 
-

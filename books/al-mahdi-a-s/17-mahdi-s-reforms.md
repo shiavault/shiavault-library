@@ -473,7 +473,5 @@ mystic scholar Shaikh Sulaiman-ibn-Khawja Kalan Husseini Balkhi Qunduzi
 who died in the year 1294 A.H. This book was printed in the
 publishing-house of 'Akhtar'.
 
-
 **THE END**
-
 

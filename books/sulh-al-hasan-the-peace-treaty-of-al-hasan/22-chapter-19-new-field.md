@@ -1,8 +1,6 @@
 Chapter 19: New Field
 =====================
 
-  
-
 I hope you will agree with me that there are accurate criteria to
 evaluate the character of men when they are worried during their
 attempts. These criteria are their attitudes towards their stipulations.
@@ -32,8 +30,6 @@ moral unless it depends on moral means.
 
 It is an act of kindness that all people, since the beginning of
 society, have agreed on the morality of the oath and of the promise to  
-
-  
 
 guarantee mutual interests. Apart from this all Divine religions have
 agreed on fulfilling the covenant.
@@ -72,8 +68,6 @@ forgiveness for it in this world or the next."
 I (i.e., the author) say: If we return to our subject, we will see that
 the stipulations which al-Hasan b. 'Ali, peace be on him, imposed on
 Mu'awiya in the Peace Treaty were certain pledges and strong oaths  
-
-  
 
 which history had never witnessed before. Moreover, Mu'awiya himself had
 written their final copy with his pen and stamped them with his stamp.
@@ -114,8 +108,6 @@ for his cleverness in avoiding the
 
 [[1]](#n1) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, pp. 6, 7,
 and 16.
-
-  
 
 failure in the plans he made to achieve his interests.
 
@@ -160,8 +152,6 @@ al-Hasan al-Basri said: "Mu'awiya had four qualities ...." Concerning
 these words see these books: Nahj al-Balagha, al-Kamil fi Ta'rikh, and
 Muruj al-Dhahab.
 
-  
-
 conditions regarding their lives and belongings.
 
 3. Through breaking al-Hasan's Peace Treaty, Mu'awiya thought that he
@@ -200,8 +190,6 @@ understand the language of the supreme commander who distributed the
 leaders according to the battles, and the days according to the
 occasions, then he distinguished his brother and the day of his brother
 when he said: "Abu Abd Allah, there is no day like your day."
-
-  
 
 Surely, the time occasions showed the steps of the plan one by one. It
 was necessary for one step to wake the other, the latter step to hire
@@ -245,8 +233,6 @@ people dispraised Marwan, for he belonged to al-Ju'di b. Dirham. The
 protection in the church at Bousir. I (i.e., the author) wonder: Why did
 Marwan not seek protection in the Mosques? See Ibn al-Athir, al-Kamil fi
 al-Ta'rikh, vol. 5, pp. 159- 60.
-
-  
 
 from the religious laws. In the course of time, the people were very
 indignant with the Umayyads and were read to sacrifice their lives to

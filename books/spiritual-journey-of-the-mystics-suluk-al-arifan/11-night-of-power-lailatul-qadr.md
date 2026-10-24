@@ -803,4 +803,3 @@ and Asad al-Ghabe vol. 3, p. 20 [Author].
 of Hajj Sheikh Abbas al-Qummi in the deeds of the 23rd night of Ramadhan
 [Author].
 
-

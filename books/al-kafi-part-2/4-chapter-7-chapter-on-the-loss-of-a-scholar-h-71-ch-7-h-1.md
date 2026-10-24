@@ -67,7 +67,6 @@ the words of Allah that say, "Have they not considered that We have
 taken over the land and reduced its borders?" the reference here is to
 the death of the scholars."
 
-
 **Chapter 8 : Chapter on Meeting the Scholars and Associating with Them
 H 77, Ch. 8, h 1**
 
@@ -125,5 +124,4 @@ from Mis'ar ibn Kidam who has said the following.
 "(Imam) abu Ja'far (a.s.) has said, 'The place where I may sit with one
 who I trust is more comforting to my soul than working for one whole
 year.'"
-
 

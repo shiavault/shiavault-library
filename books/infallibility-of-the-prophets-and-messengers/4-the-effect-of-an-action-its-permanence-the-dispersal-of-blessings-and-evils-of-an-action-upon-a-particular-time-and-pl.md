@@ -116,4 +116,3 @@ and Siraat.
 [^5]: Beharul Anwaar, Vol.41, Pg.168, Ilalush Sharaae, Page 124,
 Basaerud Darajaat, Pg.58.
 
-

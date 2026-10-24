@@ -27,4 +27,3 @@ With whose light we could find our way
 
 **Ibn Moshaya**
 
-

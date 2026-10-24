@@ -374,4 +374,3 @@ p. 173
 
 [^5] Bukhari, Kitab al Nikah, vol. VIII
 
-

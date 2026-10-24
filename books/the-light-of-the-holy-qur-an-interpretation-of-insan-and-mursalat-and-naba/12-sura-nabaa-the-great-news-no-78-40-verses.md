@@ -60,4 +60,3 @@ time it takes to say a single prayer.
 (1) Majma'-al-Bayan, vol.10, p.420.
 (2) Tafsir-I-Borhan, vol. 4, p.419.
 
-

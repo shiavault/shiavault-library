@@ -71,4 +71,3 @@ Finally, I supplicate to Almighty God to help me, out of His infinite
 mercy, and lead me, as well as everybody, to success, for His being is
 the one and only source of success.
 
-

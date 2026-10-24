@@ -20,13 +20,9 @@ The contemporary venerated jurisconsult, Ayatullah Sayyid al-Shubayri
 al-Zanjani (may Allah protect his noble spirit) was asked about the
 authenticity of Ziyarat ‘Ashura\` and he responded saying:
 
-<blockquote dir="rtl">
-  <p>
-بغض النظر عن التأييدات الغيبية الواردة بطرق معتبرة حول زيارة عاشوراء
-والتي برأسها دليل على اعتبار هذه الزيارة الشريفة، فإنَّ السند المذكور
-في مصباح المتهجد في ذيل هذه الزيارة سند صحيح.
-  </p>
-</blockquote>
+> بغض النظر عن التأييدات الغيبية الواردة بطرق معتبرة حول زيارة عاشوراء
+> والتي برأسها دليل على اعتبار هذه الزيارة الشريفة، فإنَّ السند المذكور
+> في مصباح المتهجد في ذيل هذه الزيارة سند صحيح.
 
 Disregarding what has been narrated from reliable sources about its
 endorsement from the unseen realm (*al-ta’yidat al-ghaybiyya*), which in
@@ -52,18 +48,14 @@ Shaykh Muhammad al-Sanad, one of the contemporary Shi’a scholars, when
 asked about the veracity of the different supplications and *ziyarat*,
 including Ziyarat ‘Ashura\`, says:
 
-<blockquote dir="rtl">
-  <p>
-ان مضأمين الزيارات والأدعية المدرجة في السؤال لا يقتصر ورود مضمونها
-على تلك الزيارات والأدعية فهناك العديد من الزيارات الأخرى والاًدعية
-الأخرى بأسانيد اُخرى قريبة المضمون معنىً ولفظاً لقطعات من الاُولى، كما
-أن هذه الزيارات والأدعية قد ورد كثير من مضامينها في الروايات الواردة
-في المعارف، وهي في كثير من طوائفها مستفيضة بل بعضها متواتر معنوي أو
-إجمالي، وعلى هذا فالدغدغة في أسانيد هذه الزيارة أو تلك أو هذا الدعاء
-وذاك تنطوي على عدم المام بهذه الحقيقة العلمية المرتبطة بعلم الحديث
-والرواية
-  </p>
-</blockquote>
+> ان مضأمين الزيارات والأدعية المدرجة في السؤال لا يقتصر ورود مضمونها
+> على تلك الزيارات والأدعية فهناك العديد من الزيارات الأخرى والاًدعية
+> الأخرى بأسانيد اُخرى قريبة المضمون معنىً ولفظاً لقطعات من الاُولى، كما
+> أن هذه الزيارات والأدعية قد ورد كثير من مضامينها في الروايات الواردة
+> في المعارف، وهي في كثير من طوائفها مستفيضة بل بعضها متواتر معنوي أو
+> إجمالي، وعلى هذا فالدغدغة في أسانيد هذه الزيارة أو تلك أو هذا الدعاء
+> وذاك تنطوي على عدم المام بهذه الحقيقة العلمية المرتبطة بعلم الحديث
+> والرواية
 
 Indeed the contents of the ziyarat and supplications under question do
 not only appear in their respective places, but there are a number of
@@ -118,11 +110,7 @@ effusion that rains down perpetually and requires receptive
 containers.  
  The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-أَنْزَلَ مِنَ السَّماءِ ماءً فَسالَتْ أَوْدِيَةٌ بِقَدَرِها
-  </p>
-</blockquote>
+> أَنْزَلَ مِنَ السَّماءِ ماءً فَسالَتْ أَوْدِيَةٌ بِقَدَرِها
 
 ***He sends down water from the sky whereat the valleys are flooded to
 [the extent of] their capacity…(13:17)***
@@ -136,5 +124,4 @@ separate treatise on establishing the veracity of Ziyarat ‘Ashura\`
 [^2]: http://www.alhodacenter.com/ashora/details.php?id=2996
 
 [^3]: http://www.rafed.net/research/05/06.html
-
 

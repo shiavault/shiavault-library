@@ -670,4 +670,3 @@ fi al-Tarikh: 2/398.
 
 [^65]: Tarikh al-Tabari: 5/89.
 
-

@@ -92,4 +92,3 @@ otherwise, it may find a deviant course. This is the very thing that
 occurred in the societies that banned polygam y and, in return, were
 affected by poly-girlfriends or poly-paramours.
 
-

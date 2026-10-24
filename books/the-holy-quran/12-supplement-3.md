@@ -361,4 +361,3 @@ wal-Laylah) 28 Manhaj-us-Sadiqin, Comentary, vol. 1, p. 114
 39 Maani-ul-Akhbar, p. 32, tradition 8; and, Tafsir Furat-ul-Kufi, vol.
 1, p. 52
 
-

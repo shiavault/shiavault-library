@@ -40,4 +40,3 @@ Faith."
 
 Al-Muhajjat-ul-Bayda, vol. 3, p. 85
 
-

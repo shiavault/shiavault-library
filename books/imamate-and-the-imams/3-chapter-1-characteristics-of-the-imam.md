@@ -11,23 +11,15 @@ called Imam. Both meanings are mentioned in the Holy Quran too.
 
 The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنا لَمّا صَبَرُوا
-وَكانُوا بِآياتِنا يُوقِنُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنا لَمّا صَبَرُوا
+> وَكانُوا بِآياتِنا يُوقِنُونَ
 
 ***“And We appointed, from among them, leaders, giving guidance under
 Our command, so long as they persevered with patience and continued to
 have faith in Our Signs.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْناهُمْ أَئِمَّةً يَدْعُونَ إِلَى‏‌ النّارِ وَيَوْمَ القِيامِةِ
-لا يُنْصَرُونَ
-  </p>
-</blockquote>
+> وَجَعَلْناهُمْ أَئِمَّةً يَدْعُونَ إِلَى‏‌ النّارِ وَيَوْمَ القِيامِةِ
+> لا يُنْصَرُونَ
 
 ***“And we made them (but) leaders inviting to the Fire; and on the Day
 of Judgment no help shall they find.”***[^2]
@@ -216,14 +208,10 @@ The Necessity of Obeying the Imam
 The Holy Quran has placed obeying the Imam in the same rank as obeying
 the Almighty Allah and His Messenger (S);
 
-<blockquote dir="rtl">
-  <p>
-يا أَيُّها الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ
-وَأُولِى‏‌ الأمْرِ مِنْكُمْ فَإِنْ تَنازَعْتُمْ فِى‏‌ شَى‏‌ءٍ
-فَرُدُّوهُ إِلَى‏‌ اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ
-بِاللَّهِ وَاليَوْمِ الآخِرِ ذ لِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
-  </p>
-</blockquote>
+> يا أَيُّها الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ
+> وَأُولِى‏‌ الأمْرِ مِنْكُمْ فَإِنْ تَنازَعْتُمْ فِى‏‌ شَى‏‌ءٍ
+> فَرُدُّوهُ إِلَى‏‌ اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ
+> بِاللَّهِ وَاليَوْمِ الآخِرِ ذ لِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
 
 ***“O ye who believe! Obey God, and obey the Messenger, and those
 charged with authority among you. If ye differ in anything among
@@ -277,22 +265,14 @@ Husayn Ibn Abil ‘Ala’ says, “I asked Imam Sadiq (a.s.), ‘Is obeying the
 successors of Messenger of Allah (S) obligatory?’ Imam Sadiq (a.s.)
 answered, ‘Yes. They are the people about whom the Exalted Allah said,
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ وَأُولِى‏‌ الأمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> أَطِيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ وَأُولِى‏‌ الأمْرِ مِنْكُمْ
 
 ***‘Obey Allah and obey the Apostle’***
 
 And He stated,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّما وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلاةَ وَيُؤْتُونَ الزَّكاةَ وَهُمْ راكِعُونَ
-  </p>
-</blockquote>
+> إِنَّما وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلاةَ وَيُؤْتُونَ الزَّكاةَ وَهُمْ راكِعُونَ
 
 ***‘(Your (real) friends are (no less than) God, His Apostle, and the
 (fellowship of) believers,- those who establish regular prayers and
@@ -338,12 +318,8 @@ the prophets and Imams and benefits them from His treasure of sciences
 and maxims like no one else. Therefore, their knowledge is superior to
 that of the people in their own age. The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَهْدِى‏‌ إِلَى‏‌ الْحَقِّ أَحَقُّ أَنْ يَتَّبَعَ أَمَّنْ لا
-يَهِدِّى‏‌ إِلّا أَنْ يُهْدى‏‌ فَما لَكُمْ كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> أَفَمَنْ يَهْدِى‏‌ إِلَى‏‌ الْحَقِّ أَحَقُّ أَنْ يَتَّبَعَ أَمَّنْ لا
+> يَهِدِّى‏‌ إِلّا أَنْ يُهْدى‏‌ فَما لَكُمْ كَيْفَ تَحْكُمُونَ
 
 ***“Is then He Who gives guidance to truth more worthy to be followed,
 or he who finds not guidance (himself) unless he is guided? What then is
@@ -351,11 +327,7 @@ the matter with you? How judge ye?”***[^10]
 
 And also,
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُؤْتَ الحِكْمَةَ فَقَدْ أُوتِىَ خَيْراً كَثِيراً
-  </p>
-</blockquote>
+> وَمَنْ يُؤْتَ الحِكْمَةَ فَقَدْ أُوتِىَ خَيْراً كَثِيراً
 
 ***He to whom wisdom is granted receiveth indeed a benefit overflowing;
 but none will grasp the Message but men of understanding.***[^11]
@@ -396,12 +368,8 @@ Conclusion of Prophethod and Accomplishment of Religion
 As the Holy Quran explicitly states, the Prophet of Islam is the last
 prophet and there will be no prophets after him.
 
-<blockquote dir="rtl">
-  <p>
-ما كانَ مُحَمَّدٌ أَبا أَحَدٍ مِنْ رِجالِكُمْ وَلكِنْ رَسُولَ اللَّهِ
-وَخاتَمَ النَّبِيِّينَ وَكانَ اللَّهُ بِكُلِّ شَى‏‌ءٍ عَلِيما
-  </p>
-</blockquote>
+> ما كانَ مُحَمَّدٌ أَبا أَحَدٍ مِنْ رِجالِكُمْ وَلكِنْ رَسُولَ اللَّهِ
+> وَخاتَمَ النَّبِيِّينَ وَكانَ اللَّهُ بِكُلِّ شَى‏‌ءٍ عَلِيما
 
 ***Muhammad is not the father of any of your men, but (he is) the
 Apostle of God, and the Seal of the Prophets: and God has full knowledge
@@ -425,13 +393,9 @@ religion been completed, as is explicitly stated in the Holy Quran.
 
 The Holy Quran says,
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلا تَخْشَوْهُمْ
-وَاخْشَوْنِ اليَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ
-عَلَيْكُمْ نِعْمَتِى‏‌ وَرَضِيتُ لَكُمُ الإِسْلامَ دِيناً
-  </p>
-</blockquote>
+> الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلا تَخْشَوْهُمْ
+> وَاخْشَوْنِ اليَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ
+> عَلَيْكُمْ نِعْمَتِى‏‌ وَرَضِيتُ لَكُمُ الإِسْلامَ دِيناً
 
 ***This day have I perfected your religion for you, completed My favor
 upon you, and have chosen for you Islam as your religion.***[^19]
@@ -608,11 +572,7 @@ and said, ‘The Exalted Allah has ordered not to distance you from myself
 so that you hear my words and remember them.’ Then this Quranic verse
 was revealed,
 
-<blockquote dir="rtl">
-  <p>
-وَتَعِيَها أُذُنٌ واعِيَةٌ
-  </p>
-</blockquote>
+> وَتَعِيَها أُذُنٌ واعِيَةٌ
 
 ***…and that ears (that should hear the tale and) retain its memory
 should bear its (lessons) in remembrance.***[^21]***”*** [^22]
@@ -872,12 +832,8 @@ teachings of the Holy Quran should be so comprehensive that they fulfill
 religious requirements of all times, places, and conditions. The Holy
 Quran introduces itself this way,
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَّلْنا عَلَيْكَ الكِتابَ تِبْياناً لِكُلِّ شَى‏‌ءٍ وَهُدىً
-وَرَحْمَةً وَبُشْرى‏‌ لِلْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَنَزَّلْنا عَلَيْكَ الكِتابَ تِبْياناً لِكُلِّ شَى‏‌ءٍ وَهُدىً
+> وَرَحْمَةً وَبُشْرى‏‌ لِلْمُسْلِمِينَ
 
 ***And We have sent down to thee the Book explaining all things, a
 Guide, a Mercy, and Glad Tidings to Muslims.***[^43]
@@ -977,11 +933,7 @@ Almighty Allah stated, ‘Everything is mentioned in the Quran.’”[^45]
 Barid Ibn Mu’awiyyah has narrated Imam Sadiq (a.s.) or Imam Baqir (a.s.)
 who said about the Quranic verse,
 
-<blockquote dir="rtl">
-  <p>
-وَما يَعْلَمُ تَأْوِيلَهُ إِلّا اللَّهُ وَالرّاسِخُونَ فِى‏‌ العِلْمِ
-  </p>
-</blockquote>
+> وَما يَعْلَمُ تَأْوِيلَهُ إِلّا اللَّهُ وَالرّاسِخُونَ فِى‏‌ العِلْمِ
 
 ***(no one knows its hidden meanings except God and those who are firmly
 grounded in knowledge***[^46]***),*** “The Messenger of Allah (S) was
@@ -1110,12 +1062,8 @@ society. This precious innate power is called practical wisdom or the
 conscience. The Holy Quran considers this recognition as an innate
 sense.
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَما سَوّاها\* فَأَلْهَمَها فُجُورَها وَتَقْواها\* قَدْ
-أَفْلَحَ مَنْ زَكّاها\* وَقَدْ خابَ مَنْ دَسّاها
-  </p>
-</blockquote>
+> وَنَفْسٍ وَما سَوّاها\* فَأَلْهَمَها فُجُورَها وَتَقْواها\* قَدْ
+> أَفْلَحَ مَنْ زَكّاها\* وَقَدْ خابَ مَنْ دَسّاها
 
 ***By the Soul, and the proportion and order given to it; And its
 enlightenment as to its wrong and its right; Truly he succeeds that
@@ -1175,11 +1123,7 @@ authority was given to him too.
 
 The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-النَّبِىُّ أَوْلى‏‌ بِالمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِىُّ أَوْلى‏‌ بِالمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***“The Prophet is closer to the Believers than their own
 selves.”***[^53]
@@ -1192,11 +1136,7 @@ worships and present them to the people.
 
 Abu Basir says, “I asked Imam Sadiq (a.s.) about the Quranic verse:
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ وَأُولِى‏‌ الأمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> أَطِيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ وَأُولِى‏‌ الأمْرِ مِنْكُمْ
 
 ***‘Obey God, and obey the Messenger, and those charged with authority
 among you.’***
@@ -1239,12 +1179,8 @@ aware of real interest of the Muslims –through revelation– and away from
 fault or wrongdoing, he issued necessary commandments to maintain these
 interests. The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-ما ضَلَّ صاحِبُكُمْ وَما غَوى‏‌\* وَما يَنْطِقُ عَنِ الهَوى‏‌\* إِنْ
-هُوَ إِلّا وَحْىٌ يُوحى‏‌\* عَلَّمَهُ شَدِيدُ القُوى
-  </p>
-</blockquote>
+> ما ضَلَّ صاحِبُكُمْ وَما غَوى‏‌\* وَما يَنْطِقُ عَنِ الهَوى‏‌\* إِنْ
+> هُوَ إِلّا وَحْىٌ يُوحى‏‌\* عَلَّمَهُ شَدِيدُ القُوى
 
 ***“Your Companion is neither astray nor being misled. Nor does he say
 (aught) of (his own) Desire. It is no less than inspiration sent down to
@@ -1257,22 +1193,14 @@ Fuzayl Ibn Yasar said, “I heard from Imam Sadiq (a.s.), ‘The Almighty
 Allah trained His Prophet with the best method. When his learning
 completed, Allah told him,
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّکَ لَعَلى خُلُقٍ عَظِیمٍ
-  </p>
-</blockquote>
+> وَإِنَّکَ لَعَلى خُلُقٍ عَظِیمٍ
 
 ***‘And thou (standest) on an exalted standard of character.’***[^57]
 
 Then He presented the command of religion and the Ummah (Islamic nation)
 to the Prophet (S) to guide the people. Allah then told the people,
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاکُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاکُمْ عَنْهُ فَانْتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاکُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاکُمْ عَنْهُ فَانْتَهُوا
 
 ***‘So take what the Apostle assigns to you, and deny yourselves that
 which he withholds from you.’***[^58]
@@ -1324,11 +1252,7 @@ heritage shares of family members, but set nothing for the forefather.
 The Prophet (S) defined one-sixth of the dead property for the
 forefather and Allah verified it. That is why Allah said,
 
-<blockquote dir="rtl">
-  <p>
-هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِکْ بِغَیْرِ حِسَابٍ
-  </p>
-</blockquote>
+> هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِکْ بِغَیْرِ حِسَابٍ
 
 ***‘Such are Our Bounties: whether thou bestow them (on others) or
 withhold them, no account will be asked.’***[^60]”[^61]
@@ -1344,12 +1268,8 @@ Imam Sadiq (a.s.) stated, “By Allah that the Exalted Allah relegated the
 religious issues to no one but His Messenger (S) and the Imams (a.s.).
 Allah stated,
 
-<blockquote dir="rtl">
-  <p>
-إِنّا أَنْزَلْنا إِلَيْكَ الكِتابَ‏بِالحَقِّ لِتَحْكُمَ بَيْنَ‏النّاسِ
-بِما أَراكَ اللَّهُ
-  </p>
-</blockquote>
+> إِنّا أَنْزَلْنا إِلَيْكَ الكِتابَ‏بِالحَقِّ لِتَحْكُمَ بَيْنَ‏النّاسِ
+> بِما أَراكَ اللَّهُ
 
 ***‘We have sent down to thee the Book in truth, that thou mightest
 judge between men, as guided by God: so be not (used) as an advocate by
@@ -1624,5 +1544,4 @@ Manaqib Kharazmi, p. 199.
 [^67]: Usul Al-Kafi, Vol 1, p. 204.
 
 [^68]: Biharul Anwar, Vol 68, p. 389.
-
 

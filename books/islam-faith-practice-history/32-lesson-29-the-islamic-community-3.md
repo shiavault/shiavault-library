@@ -205,4 +205,3 @@ Question 4: [10 points]
 Question 5: [10 points]  
  What are the three levels of amr and nahi?
 
-

@@ -113,7 +113,6 @@ organic human body as easily as separate thinking and material
 substances could be combined. [Essay IV iii 6] But the ultimate origin
 of thinking itself is another matter.
 
-
 **The Existence of God**
 
 According to Locke, the existence of God is an instance of demonstrable
@@ -240,5 +239,4 @@ conduct by means of which we may secure eternal happiness, Locke argued,
 morality is the most vital aspect of study for all human agents. [Essay
 II xii 11] In what ways do human faculties establish the foundations of
 moral knowledge?
-
 

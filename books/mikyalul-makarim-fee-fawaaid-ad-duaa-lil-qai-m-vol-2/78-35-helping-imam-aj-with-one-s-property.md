@@ -8,22 +8,14 @@ lowly or exalted, woman or man. There is no difference with regard to
 social status. However, each has to contribute depending upon his
 capability. As Allah says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
 
 ***Allah does not impose upon any soul a duty but to the extent of its
 ability. (Qur’an, Surah Baqarah 2:286)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا
 
 ***Allah does not lay on any soul a burden except to the extent to which
 He has granted it. (Qur’an, Surah Talaq 65:7)***
@@ -36,11 +28,7 @@ is no better deed than earmarking a few Dirhams for Imam (as). The
 Almighty Allah makes this Dirham equal to Mt. Uhad in Paradise for this
 donor.” After this Imam (as) said, “The Almighty Allah says in His book:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
 
 ***Who is it that will offer of Allah a goodly gift, so He will multiply
 it to him manifold.***
@@ -54,12 +42,8 @@ correct report it is narrated from Ishaq bin Ammar that he asked His
 Eminence, Abu Ibrahim Imam Musa bin Ja’far (as) regarding the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-وَلَهُ أَجْرٌ كَرِيمٌ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> وَلَهُ أَجْرٌ كَرِيمٌ
 
 ***Who is there that will offer to Allah a good loan so He will double
 it for him, and he shall have an excellent reward. (Qur’an, Surah Hadid
@@ -77,11 +61,7 @@ better than two million dirhams spent in other charitable deeds.[^5] And
 in a correct tradition from His Eminence, Abu Abdullah Imam Sadiq (as)
 it is mentioned with regard to the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
 
 ***And those who join that which Allah has bidden to be joined. (Qur’an,
 Surah Raad 13:21)***
@@ -100,12 +80,8 @@ One who thinks that the Imam is in need of what he takes from the
 people, is an infidel, it is not except that the people are needful that
 the Imam accepts from them. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
-وَصَلِّ عَلَيْهِمْ
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
+> وَصَلِّ عَلَيْهِمْ
 
 ***Take alms out of their property, you would cleanse them and purify
 them thereby. (9:103)***
@@ -114,11 +90,7 @@ In *Man Laa Yahzarul Faqih* it is mentioned in the Chapter of doing good
 to Imam (as) that Imam Ja’far Sadiq (as) was asked regarding the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا
 
 ***Who is there that will offer to Allah a good loan…(2:245)***
 
@@ -138,11 +110,7 @@ In the 20th volume of Biharul Anwar it is narrated from Sawaabul Aamaal
 through the author’s own chain of narrators from Ishaq bin Ammar that he
 asked Imam Ja’far Sadiq (as) the explanation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
 
 ***Who is it that will offer of Allah a goodly gift, so He will multiply
 it to him manifold. (Qur’an, Surah Baqarah 2:245)***
@@ -169,11 +137,7 @@ less for us. Then he said: O Mufaddal, it is an obligation that the
 Almighty Allah has laid down on our Shias in His Book. Then he recited
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ
-  </p>
-</blockquote>
+> لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ
 
 ***By no means shall you attain to righteousness until you spend
 (benevolently) out of what you love. (Qur’an, Surah Aale Imran 3:92)***
@@ -187,11 +151,7 @@ In the same book, it is narrated from Hasan bin Musa that he said: Our
 associates have narrated that His Eminence, Abu Abdullah Imam Sadiq (as)
 was asked regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
 
 ***And those who join that which Allah has bidden to be joined. (Qur’an,
 Surah Raad 13:21)***
@@ -346,5 +306,4 @@ Taufeeq to me and all the believers.
 [^13]: Al-Ihtijaaj, Shaykh Tabarsi, Vol. 2, Pg. 281
 
 [^14]: Usool Kafi, Vol. 1, Pg. 333, Tr. no. 2
-
 

@@ -12,12 +12,8 @@ Holding ceremonies is a means of expressing love
 The Holy Qur’an invites the Muslims to love the Holy Prophet (S) and his
 *Ahl al-Bayt* (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ ﴾
-  </p>
-</blockquote>
+> ﴿ قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ ﴾
 
 ***“Say, I do not ask of you any reward for it except the affection for
 {my} relatives.”***[^1]
@@ -32,12 +28,8 @@ Holding ceremonies is a way of paying tribute to the Prophet (S)
 The Qur’an considers the act of honoring the station of the Messenger of
 Allah (S) and helping him as a criterion for uprightness and felicity.
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَالَّذِينَ آمَنُواْ بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُواْ
-النُّورَ الَّذِيَ أُنزِلَ مَعَهُ أُوْلَـئِكَ هُمُ الْمُفْلِحُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَالَّذِينَ آمَنُواْ بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُواْ
+> النُّورَ الَّذِيَ أُنزِلَ مَعَهُ أُوْلَـئِكَ هُمُ الْمُفْلِحُونَ ﴾
 
 ***“Those who believe in him, honor him, and help him and follow the
 light that has been sent down with him, they are the felicitous.”***[^2]
@@ -69,11 +61,7 @@ Holding of ceremonies is the same as following and obeying God
 
 God hails the Holy Prophet (S) in the Glorious Qur’an, and states:
 
-<blockquote dir="rtl">
-  <p>
-ورفعنا لك ذكرك
-  </p>
-</blockquote>
+> ورفعنا لك ذكرك
 
 ***“Did We not exalt your name?”***[^3]
 
@@ -95,13 +83,9 @@ Sending down revelation is not less significant than sending down table-spread {
 The Glorious Qur’an thus quotes a prophet of God, ‘Isa (Jesus) (*‘a*) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا
-مَآئِدَةً مِّنَ السَّمَاء تَكُونُ لَنَا عِيداً لِّأَوَّلِنَا
-وَآخِرِنَا وَآيَةً مِّنكَ وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا
+> مَآئِدَةً مِّنَ السَّمَاء تَكُونُ لَنَا عِيداً لِّأَوَّلِنَا
+> وَآخِرِنَا وَآيَةً مِّنكَ وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ ﴾
 
 ***“Said Jesus son of Mary, ‘O Allah! Our Lord! Send down to us a table
 from the sky, to be a festival for us, for the first ones and the last
@@ -162,5 +146,4 @@ unfounded.
 
 [^5]: Husayn ibn Muhammad ad-Diyar Bakri, Tarikh al-Khamis (Beirut),
 vol. 1, p. 223.
-
 

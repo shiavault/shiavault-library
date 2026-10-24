@@ -8,11 +8,7 @@ He is the one who will intercede for us with Allah. He is that same name
 of Allah whose tawassul is ordered for us. As mentioned in the
 traditions in the explanation of Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
-  </p>
-</blockquote>
+> وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
 
 ***And for Allah are the most beautiful names. So call Him by them.
 (Qur’an, Surah Araaf 7:180)***
@@ -27,11 +23,7 @@ said: Whenever you are involved in hardships and calamities you must ask
 for the help of Allah, the Mighty and Sublime through us, and that is
 the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
-  </p>
-</blockquote>
+> وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
 
 ***And for Allah are the most beautiful names. So call Him by
 them.***[^2]
@@ -69,5 +61,4 @@ intercessor.”
 [^2]: Biharul Anwar, Vol. 94, Pg. 22
 
 [^3]: Biharul Anwar, Vol. 94, Pg. 35
-
 

@@ -59,11 +59,7 @@ topic concerning رجس Page 187; Tehran edition.
 Ibn Athir, a renowned lexicographer writes in his book Al-Nihayeh as
 such:
 
-<blockquote dir="rtl">
-  <p>
-الرجس: القذر. وقد يعبر به عن الحرام و الفعل القبيح
-  </p>
-</blockquote>
+> الرجس: القذر. وقد يعبر به عن الحرام و الفعل القبيح
 
 رجس refers to something filthy and sometimes it refers to forbidden and
 indecent acts. An-Nihayeh-Fi-Gharib al-hadith wal-Athar 2/200; Egyptian
@@ -71,12 +67,8 @@ edition 1383 A.H.
 
 Allama Ibn Manzur has said:
 
-<blockquote dir="rtl">
-  <p>
-الرجس: القذر. وقد يعبر به عن الحرام و الفعل القبيح والعذاب و اللعنه و
-الكفر
-  </p>
-</blockquote>
+> الرجس: القذر. وقد يعبر به عن الحرام و الفعل القبيح والعذاب و اللعنه و
+> الكفر
 
 رجس refers to filth. Sometimes, it is interpreted as forbidden and
 indecent acts, punishment, curse and infidelity. Lisan al-Arab al-Muhit;
@@ -84,12 +76,8 @@ topic concerning رجس 1/1128.
 
 Firuzabadi says:
 
-<blockquote dir="rtl">
-  <p>
-الرجس: القذر وكل ما استقذر من العمل، والعمل المؤدي إلى العذاب و الشك
-والعقاب و الغضب
-  </p>
-</blockquote>
+> الرجس: القذر وكل ما استقذر من العمل، والعمل المؤدي إلى العذاب و الشك
+> والعقاب و الغضب
 
 رجس refers to things, which are filth as well as every evil and polluted
 deed that leads to punishment, suspicion, evil retribution and anger.
@@ -98,12 +86,8 @@ Al-Qamoos al-Muhit; topic concerning رجس 2/227; Egyptian edition.
 
 Jauhari writes:
 
-<blockquote dir="rtl">
-  <p>
-الرجس: القذر، وقال الفراء في قوله تعالى: (وَيَجْعَلُ الرِّجْسَ عَلَى
-الَّذِينَ لاَ يَعْقِلُونَ)، إنه العقاب والغضب
-  </p>
-</blockquote>
+> الرجس: القذر، وقال الفراء في قوله تعالى: (وَيَجْعَلُ الرِّجْسَ عَلَى
+> الَّذِينَ لاَ يَعْقِلُونَ)، إنه العقاب والغضب
 
 Al-Sihah; topic concerning رجس 2/930; Egyptian edition; research by
 Ahmad Abdul-Ghafur Attar.
@@ -113,23 +97,15 @@ book “Mukhtar al-Sihah/ 234.
 
 Fayumi says:
 
-<blockquote dir="rtl">
-  <p>
-الرجس: النتن، والرجس: القذر. قال الفارابي: وكل شيء ستقذر منه فهو رجس.
-وقال النقاش: الرجس النجس. وقال في البارع: وربما قالوا: الرجا والنجا،
-أي جعلوهما بمعنى
-  </p>
-</blockquote>
+> الرجس: النتن، والرجس: القذر. قال الفارابي: وكل شيء ستقذر منه فهو رجس.
+> وقال النقاش: الرجس النجس. وقال في البارع: وربما قالوا: الرجا والنجا،
+> أي جعلوهما بمعنى
 
 Al-Mesbah al-Munir; topic concerning رجس 1/266.
 
 Ibn Farsi says:
 
-<blockquote dir="rtl">
-  <p>
-الرجس: القذر لانه لطخ وخلط
-  </p>
-</blockquote>
+> الرجس: القذر لانه لطخ وخلط
 
 Mu.’jam Maqa.’es al-Lugha 2/490.
 
@@ -149,11 +125,7 @@ used the adjective of “Wasi” for Amir al-Muminin (a.s.).
 wal-Nehayah’[^2] have omitted the word “Wasi” from the Prophet’s hadith
 on Yaum ud-Dar:
 
-<blockquote dir="rtl">
-  <p>
-فأيكم يؤازرني هذا الأمر وأن يكون أخي و وصيي و خليفتي فيكم
-  </p>
-</blockquote>
+> فأيكم يؤازرني هذا الأمر وأن يكون أخي و وصيي و خليفتي فيكم
 
 In place of that, they have inserted the word و كذا و كذا
 
@@ -174,5 +146,4 @@ important and renowned Seerah.
 [^1]: Volume 19/72-75
 
 [^2]: Volume 3/40
-
 

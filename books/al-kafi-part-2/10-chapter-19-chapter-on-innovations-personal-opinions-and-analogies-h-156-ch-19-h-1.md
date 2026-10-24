@@ -351,4 +351,3 @@ Allah lest you will not be believers. Every means, ancestral and
 relative relations and intimacy, innovations and doubts will be cut off
 except for what is established in the holy Quran."
 
-

@@ -13,11 +13,7 @@ a seal on your intellect [as your intelligence will be gauged by your
 writing].
 
 > 2ـ إذا كَتَبْتَ كِتاباً فَأعِدْ فيهِ النَّظَرَ قَبْلَ خَتْمِهِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّما تَخْتِمُ عَلى عَقْلِكَ.
-  </p>
-</blockquote>
+> فَإنَّما تَخْتِمُ عَلى عَقْلِكَ.
 
 3. The writing of a man is the symbol of his intellect and the evidence
 of his merit.
@@ -45,5 +41,4 @@ his nobility.
 [any] solace.
 
 > 8ـ مَنْ تَسَلّى بِالكُتُبِ لَمْ تَفُتْهُ سُلْوَةٌ.
-
 

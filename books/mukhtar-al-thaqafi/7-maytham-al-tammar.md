@@ -21,4 +21,3 @@ Maytham al-Tammar said:
 *They will release Mukhtar from prison. He will kill the unjust tyrant.
 He will kick his face with his leg.*
 
-

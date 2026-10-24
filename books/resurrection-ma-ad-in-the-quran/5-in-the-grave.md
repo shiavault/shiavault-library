@@ -32,12 +32,8 @@ the grave is expanded as far as the eye can see and the foods of
 Paradise will be brought there for him and the breeze of Paradise will
 welcome him. It is this, which is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّآ إِن كَانَ مِنَ الْمُقَرَّبِينَ \* فَرَوْحٌ وَرَيْحَانٌ
-وَجَنَّتُ نَعِيمٍ‏
-  </p>
-</blockquote>
+> فَأَمَّآ إِن كَانَ مِنَ الْمُقَرَّبِينَ \* فَرَوْحٌ وَرَيْحَانٌ
+> وَجَنَّتُ نَعِيمٍ‏
 
 ***If he is one of those drawn nigh (to Allah), then happiness and
 bounty and a garden of bliss (shall be his). (56:88-89)***
@@ -67,23 +63,15 @@ prophet?’ He would reply: ‘I don’t know.’ So they would tell him:
 would be opened to Hell before him and the scalding fluids of Hell would
 come down to him. It is about this that is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّآ إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّآلِّينَ \* فَنُزُلٌ مِّنْ
-حَمِيمٍ
-  </p>
-</blockquote>
+> وَأَمَّآ إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّآلِّينَ \* فَنُزُلٌ مِّنْ
+> حَمِيمٍ
 
 ***And if he is one of the rejecters, the erring ones. He shall have an
 entertainment of boiling water… (56:92-93)***
 
 That is, in the grave he would be greeted by boiling water,
 
-<blockquote dir="rtl">
-  <p>
-وَتَصْلِيَةُ جَحِيمٍ
-  </p>
-</blockquote>
+> وَتَصْلِيَةُ جَحِيمٍ
 
 ***And burning in hell. (56:94)***
 
@@ -226,11 +214,7 @@ unlikely to get salvation after that.”[^10]
 
 Imam Sajjad (as) said after reciting the verse of:
 
-<blockquote dir="rtl">
-  <p>
-وَمِن وَرَآئِهِم بَرْزَخٌ إِلَى‏ يَوْمِ يُبْعَثُونَ‏
-  </p>
-</blockquote>
+> وَمِن وَرَآئِهِم بَرْزَخٌ إِلَى‏ يَوْمِ يُبْعَثُونَ‏
 
 ***…and before them is a barrier until the day they are raised.
 (23:100)***
@@ -302,5 +286,4 @@ would never find pythons in them.[^14]
 [^13]: Biharul Anwar, Vol. 6, Pg. 280.
 
 [^14]: Maad az Deedgah Imam Khomeini, Pg. 171.
-
 

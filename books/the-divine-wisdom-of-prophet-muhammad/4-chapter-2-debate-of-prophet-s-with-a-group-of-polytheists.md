@@ -529,4 +529,3 @@ al-Allama Abu Mansur Ahmed Ibn Ali al-Tabarsi. d. 599 A.H.]**
 
 [^1]: Please see glossary for more details.
 
-

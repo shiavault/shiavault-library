@@ -11,11 +11,7 @@ Flaws And Faults
 flaw in himself but does not do so.
 
 > 2ـ أعْجَزُ النّاسِ مَنْ قَدَرَ عَلى أنْ يُزيلَ النَّقْصَ عَنْ نَفْسِهِ
-<blockquote dir="rtl">
-  <p>
-ولَمْ يَفْعَلْ.
-  </p>
-</blockquote>
+> ولَمْ يَفْعَلْ.
 
 3. Verily everyone has faults, so do not expose that which is hidden
 from you, for indeed Allah, the Glorified, has hidden them out of
@@ -24,12 +20,8 @@ return] Allah, the Glorified, will hide that which you would like to
 remain hidden.
 
 > 3ـ إنَّ لِلنّاسِ عُيُوباً، فَلا تَكْشِفْ ما غابَ عَنْكَ، فَإنَّ اللّهَ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ يَحْلُمُ عَلَيْها، واسْتُرِ العَوْرَةَ مَا اسْتَطَعْتَ
-يَسْتُرِ اللّهُ سُبْحانَهُ ما تُحِبُّ سَتْـرَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ يَحْلُمُ عَلَيْها، واسْتُرِ العَوْرَةَ مَا اسْتَطَعْتَ
+> يَسْتُرِ اللّهُ سُبْحانَهُ ما تُحِبُّ سَتْـرَهُ.
 
 4. The inner hearts will soon become aware of the secret faults.
 
@@ -43,51 +35,31 @@ remain hidden.
 is evil,’ and he knows it is in him, how can he be annoyed?
 
 > 6ـ عَجِبْتُ لِمَنْ يُقالُ: إنَّ فيهِ الشَّـرَّ الَّذي يَعْلَمُ أنَّهُ
-<blockquote dir="rtl">
-  <p>
-فيهِ كَيْفَ يَسْخَطُ.
-  </p>
-</blockquote>
+> فيهِ كَيْفَ يَسْخَطُ.
 
 7. I am amazed at the one who is described with a good trait that he
 knows is not in him, how can he be pleased?
 
 > 7ـ عَجِبْتُ لِمَنْ يُوصَفُ بِالخَيْرِ الَّذي يَعْلَمُ أنَّهُ لَيْسَ
-<blockquote dir="rtl">
-  <p>
-فيهِ كَيْفَ يَرضى.
-  </p>
-</blockquote>
+> فيهِ كَيْفَ يَرضى.
 
 8. Those with faults love to spread the faults of people so that they
 get a greater excuse for their own faults.
 
 > 8ـ ذَوُوا العُيُوبِ يُحِبُّونَ إشاعَةَ مَعائِبِ النّاسِ لِيَتَّسِعَ
-<blockquote dir="rtl">
-  <p>
-لَهُمُ العُذْرُ في مَعائِبِهِمْ.
-  </p>
-</blockquote>
+> لَهُمُ العُذْرُ في مَعائِبِهِمْ.
 
 9. I am amazed at one who disapproves of the faults of people while he
 has more faults himself and does not see them.
 
 > 9ـ عَجِبْتُ لِمَنْ يُنْكِرُ عُيُوبَ النّاسِ ونَفْسُهُ أكْثَرُ شَـيْء
-<blockquote dir="rtl">
-  <p>
-مَعاباً وَلايُبْصِرُها.
-  </p>
-</blockquote>
+> مَعاباً وَلايُبْصِرُها.
 
 10. The eyes of the lover are blind to the faults of his beloved, and
 his ears are deaf to the ugliness of his evils.
 
 > 10ـ عَيْنُ المُحِبِّ عَمِيَّةٌ عَنْ مَعائِبِ المَحْبُوبِ، وأُذُنُهُ
-<blockquote dir="rtl">
-  <p>
-صَمّاءٌ عَنْ قُبْحِ مَساويهِ.
-  </p>
-</blockquote>
+> صَمّاءٌ عَنْ قُبْحِ مَساويهِ.
 
 11. Covering up the faults [of others] is generosity and virtue.
 
@@ -97,51 +69,31 @@ his ears are deaf to the ugliness of his evils.
 faults of other people.
 
 > 12ـ كَفى بِالمَرْءِ شُغْلاً (شُغْلُهُ) بِمَعائِبِه ِ عَنْ مَعائِبِ
-<blockquote dir="rtl">
-  <p>
-النّاسِ.
-  </p>
-</blockquote>
+> النّاسِ.
 
 13. Let what one knows of his own faults hold him back from [disclosing]
 what he knows of the faults of others.
 
 > 13ـ لِيَكُفَّ مَنْ عَلِمَ مِنْكُمْ عَنْ عَيْبِ غَيْرِهِ ما يَعْرِفُ
-<blockquote dir="rtl">
-  <p>
-مِنْ عَيْبِ نَفْسِهِ.
-  </p>
-</blockquote>
+> مِنْ عَيْبِ نَفْسِهِ.
 
 14. Let that which you know of your own faults prevent you from
 mentioning the faults of others.
 
 > 14ـ لِيَنْهَكَ عَنْ ذِكْرِ مَعائِبِ النّاسِ ما تَعْرِفُ مِنْ
-<blockquote dir="rtl">
-  <p>
-مَعائِبـِكَ.
-  </p>
-</blockquote>
+> مَعائِبـِكَ.
 
 15. Let the most preferred people in your eyes be the ones who guide you
 to your faults and help you to reform yourself.
 
 > 15ـ لِيَكُنْ آثَرُ النّاسِ عِنْدَكَ مَنْ أهْدى إلَيْكَ عَيْبَكَ
-<blockquote dir="rtl">
-  <p>
-وأعانَكَ عَلى نَفْسِكَ.
-  </p>
-</blockquote>
+> وأعانَكَ عَلى نَفْسِكَ.
 
 16. Let the most beloved of all people to you be one who guides you to
 the right and discloses your faults to you.
 
 > 16ـ لِيَكُنْ أحَبُّ النّاسِ إلَيْكَ مَنْ هَداكَ إلى مَراشِدِكَ،
-<blockquote dir="rtl">
-  <p>
-وكَشَفَ لَكَ عَنْ مَعائِبـِكَ
-  </p>
-</blockquote>
+> وكَشَفَ لَكَ عَنْ مَعائِبـِكَ
 
 17. Not every fault is manifested.
 
@@ -194,11 +146,7 @@ himself.
 himself, then that is a fool.
 
 > 28ـ مَنْ أنْكَرَ عُيُوبَ النّاسِ، ورَضِيَها لِنَفْسِهِ، فَذلِكَ
-<blockquote dir="rtl">
-  <p>
-الأحْمَقُ.
-  </p>
-</blockquote>
+> الأحْمَقُ.
 
 29. One who belittles others for that which he himself does, then that
 is an imbecile.
@@ -216,12 +164,8 @@ may meet you with a similar fault; indeed you have joined together in
 the love of this transitory [life] and have rejected the Hereafter.
 
 > 31ـ ما يَمْنَعُ أحَدَكُمْ أنْ يَلْقى أخاهُ بِما يَكْرَهُ مِنْ عَيْبِهِ
-<blockquote dir="rtl">
-  <p>
-إلاّ مَخافَةُ أنْ يَلْقاهُ بِمِثْلِهِ قَدْ تَصافَيْتُمْ عَلى حُبِّ
-العاجِلِ ورَفْضِ الآجِلِ.
-  </p>
-</blockquote>
+> إلاّ مَخافَةُ أنْ يَلْقاهُ بِمِثْلِهِ قَدْ تَصافَيْتُمْ عَلى حُبِّ
+> العاجِلِ ورَفْضِ الآجِلِ.
 
 32. He who mentions your faults has not guarded you in your absence.
 
@@ -231,11 +175,7 @@ the love of this transitory [life] and have rejected the Hereafter.
 absence has spared no efforts in advising you.
 
 > 33ـ ما أَلاكَ جُهْداً فِي النَّصيحَةِ مَنْ دَلَّكَ عَلى عَيْبِكَ
-<blockquote dir="rtl">
-  <p>
-وحَفِظَ غَيْبَكَ.
-  </p>
-</blockquote>
+> وحَفِظَ غَيْبَكَ.
 
 34. A person’s cognizance of his own faults is the most beneficial
 knowledge.
@@ -247,22 +187,14 @@ you have of your own faults that which will keep you occupied from
 finding faults in others.
 
 > 35ـ لاتَتَّبِعَنَّ عُيُوبَ النّاسِ فَإنَّ لَكَ مِنْ عُيُوبِكَ إنْ
-<blockquote dir="rtl">
-  <p>
-عَقَلْتَ ما يَشْغَلُكَ أنْ تَعيبَ أحَداً.
-  </p>
-</blockquote>
+> عَقَلْتَ ما يَشْغَلُكَ أنْ تَعيبَ أحَداً.
 
 36. Do not fault others for that which you do yourself, and do not
 punish (or rebuke) others for the sin that you permit yourself [to
 indulge in].
 
 > 36ـ لاتَعِبْ غَيْرَكَ بِما تَأْتِيهِ، وَلاتُعاقِبْ (وَلا تُعاتِبْ)
-<blockquote dir="rtl">
-  <p>
-غَيْرَكَ بِذَنْب تُرَخِّصُ لِنَفْسِكَ فيهِ.
-  </p>
-</blockquote>
+> غَيْرَكَ بِذَنْب تُرَخِّصُ لِنَفْسِكَ فيهِ.
 
 37. Pursuing the faults [of others] is from the gravest evils.
 
@@ -296,11 +228,7 @@ secrets.
 affection of the hearts forbidden to him.
 
 > 43ـ مَنْ تَتَبَّعَ خَفِيّاتِ العُيُوبِ حَرَمَهُ اللّهُ مَوَدّاتِ
-<blockquote dir="rtl">
-  <p>
-القُلُوبِ.
-  </p>
-</blockquote>
+> القُلُوبِ.
 
 44. Hide the flaw of your brother because of what you know is in
 yourself.
@@ -311,14 +239,9 @@ yourself.
 Glorified, will hide for you that which you would like to remain hidden.
 
 > 45ـ أُسْتُرِ العَوْرَةَ مَا اسْتَطَعْتَ يَسْتُـرِ اللّهُ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-مِنْكَ ما تُحِبُّ سَتْـرَهُ.
-  </p>
-</blockquote>
+> مِنْكَ ما تُحِبُّ سَتْـرَهُ.
 
 46. The most hated of all people is the fault-finder.
 
 > 46ـ أمْقَتُ النّاسِ اَلعَيّابُ.
-
 

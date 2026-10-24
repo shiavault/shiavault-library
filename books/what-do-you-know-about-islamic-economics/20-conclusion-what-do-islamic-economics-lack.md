@@ -87,4 +87,3 @@ why can't he say the same about the Islamic stance, even though the
 latter expresses the viewpoint of a third economic doctrine which
 differs from both of the other two?!
 
-

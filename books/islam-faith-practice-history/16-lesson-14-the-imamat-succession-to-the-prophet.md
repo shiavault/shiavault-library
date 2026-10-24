@@ -329,4 +329,3 @@ path.
 [^4]: Ibn Hanbal, Musnad, vol. 3 (Beirut) p. 17; al-Amini, al-Ghadir,
 vol. 1, p. 55; Ghayatu 'l-Marām, p. 212
 
-

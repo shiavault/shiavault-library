@@ -1011,37 +1011,27 @@ that imamate to the imamate of Masoomeen (as)?
 3. How can I change this figure that Allah has included as a part of
 His Kalima “La illha illala” in twelve letters?
 
-<p dir="rtl">
 لااله الا الله
-</p>
 
 How can I increase or decrease when Allah has included twelve letters in
 the kalima of His prophet RasoolAllah (saw) “Muhammad Rasool Allah”?
 
-<p dir="rtl">
 محمد رسول الله
-</p>
 
 5. Whoever is a momin, he has an ‘ameer’ (master) who is called “Ameerul
 Momineen (as)”. This word also has twelve letters.
 
-<p dir="rtl">
 امیر المؤمنین (ع)
-</p>
 
 6. The same Ameerul Momineen (as) whose name is Ali (as) ibn Abi Talib
 (as). His name also has twelve letters.
 
-<p dir="rtl">
 علی ابن ابی طالب (ع)
-</p>
 
 7. “Kitab la raiba fi” (the book in which there is no doubt) also
 contains twelve letters.
 
-<p dir="rtl">
 کتاب لا ریب فیه
-</p>
 
 8. There are twelve hours in the day and twelve hours in the night. The
 Ashari system has been established through out the world, but by the

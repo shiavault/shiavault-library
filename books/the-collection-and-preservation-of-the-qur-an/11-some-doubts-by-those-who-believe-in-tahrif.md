@@ -145,35 +145,19 @@ result" or "the consequence" and also "that to which the matter
 eventually resorts". Based on these, we find them used in the following
 *ayah*s.
 
-<blockquote dir="rtl">
-  <p>
-ويعلمك من تأويل الاحاديث
-  </p>
-</blockquote>
+> ويعلمك من تأويل الاحاديث
 
 ***"And teach you the interpretation of the stories". (Qur’an, 12:6)***
 
-<blockquote dir="rtl">
-  <p>
-نبئنا بتأويله
-  </p>
-</blockquote>
+> نبئنا بتأويله
 
 ***"Tell us the meaning thereof”. (Qur’an, 12:36)***
 
-<blockquote dir="rtl">
-  <p>
-هذا تأويل رؤياي
-  </p>
-</blockquote>
+> هذا تأويل رؤياي
 
 ***"This is the meaning of my vision". (Qur’an, 12:100)***
 
-<blockquote dir="rtl">
-  <p>
-ذلك تأويل مالم تستطع عليه صبرا
-  </p>
-</blockquote>
+> ذلك تأويل مالم تستطع عليه صبرا
 
 ***"That is the meaning of things over which you were unable to hold
 patience'". (Qur’an, 18:72)***
@@ -188,11 +172,7 @@ Similarly, *tanzil* is an infinitive deriving from *an‑nuzul,* mean­ing
 that which was sent down. In the Qur’an, we find this use in many
 verses:
 
-<blockquote dir="rtl">
-  <p>
-انه لقرآن كريم في كتاب مكنون لا يمسه الا المطهرون تنزيل من رب العالمين
-  </p>
-</blockquote>
+> انه لقرآن كريم في كتاب مكنون لا يمسه الا المطهرون تنزيل من رب العالمين
 
 ***"This is indeed A Qur’an, most honourable, In a Book well‑guarded,
 which none shall touch but those who are clean, Sent down from the Lord
@@ -260,5 +240,4 @@ that the present Qur’an has no addition.
 [^5]: al Wafi, v2, kitab al hujjah, chapter 76, p.130
 
 [^6]: al Wafi, v2, kitab al hujjah, chapter 76, p.130
-
 

@@ -180,7 +180,7 @@ Kam , Khataul [Mahad al Imam Abul Hassan Ali Nadwi], 2002, pp. 26-[^32]:
 
 [^54]      Faruqi, op. cit., pp. 24 –[^25]:
 
-[^55]      Faruqi, op. cit., p.[^103]:
+[^55]      Faruqi, op. cit., p.103.
 
 [^56]      Metcalf, op. cit., p. [^103]:
 
@@ -222,21 +222,21 @@ in Pakistan , 1998, pp. 62-[^78]:
 Khalifa over the whole Muslim world, an idea in which the Deobandi ulema
 strongly believed.
 
-[^70]      Faruqi, Zia-ul-Hazan, op. cit.,  p.[^46]:
+[^70]      Faruqi, Zia-ul-Hazan, op. cit.,  p.46.
 
 [^71]      op.cit., p. [^55]:
 
 [^72]      Sikand, op.cit., pp. 87-[^8]:
 
 [^73]      Miyan, Syed Mohammad, Jamiat-ul-Ulama Kiya Hay , (part I), [
-Jamiat-ul-Ulama U.P. (publication division)], n.d. p.[^9]:
+Jamiat-ul-Ulama U.P. (publication division)], n.d. p.9.
 
 [^74]      Sikand, op. cit., p. [^89]:
 
 [^75]      Faruqi, op. cit., pp. 10-[^11]:
 
 [^76]      Madani, Syed Hussain Ahmed , Muttahida Qaumiyat Aur Islam ,
-New Delhi [Al-Jamiat Books Depot], n.d. p.[^15]:
+New Delhi [Al-Jamiat Books Depot], n.d. p.15.
 
 [^77]      Faruqi, op. cit., pp. 70-[^71]:
 
@@ -247,7 +247,7 @@ Lucknow’s Nadwatul-ulama,” in: Mashirul-Hasan (ed.), Knowledge, Power
 and Politics: Educational Institutions in India , New Delhi [Role
 Books], 1990, p. [^225]:
 
-[^80]      Quoted in Faruqi, op.cit, p.[^79]: Also in Numan Muhammad,
+[^80]      Quoted in Faruqi, op.cit, p.79. Also in Numan Muhammad,
 Muslim India: Rise and Growth of the All India Muslim League, Allahabad
 [Kitabistan Publishers], 1942, pp. 213-14.
 
@@ -257,7 +257,7 @@ Thought: A Reconstruction, Islamabad [Alhamra Publishing], 2002, pp.
 
 [^82]      Faruqi, op.cit., p. [^104]:
 
-[^83]      Faruqi, op.cit., p.[^118]:
+[^83]      Faruqi, op.cit., p.118.
 
 [^84]      Sikand, op.cit., p. [^92]:
 
@@ -276,7 +276,7 @@ News, 21 July [^2007]:
 
 [^89]      Anzar, Uzma , “Islamic Education: A Brief History of madrassa
 with Comments on Curricular and Pedagogical Practices”,
-\<http://www.frcu.eun.eg/www/universities/ html/azhar.html\#faculties\>.
+<http://www.frcu.eun.eg/www/universities/ html/azhar.html\#faculties>.
 
 [^90]      Malik, Jamal, Colonization of Islam: Dissolution of
 Traditional Institutions in Pakistan, Dhaka [The University Press
@@ -350,7 +350,7 @@ Islamabad [Ministry of Religious Affairs], 1979, pp. 108-[^109]:
 
 [^114] op.cit., p. [^268]:
 
-[^115] Darul-Uloom Deoband, “Aayna Darul-Ulom”, December, 1994, p.[^18]:
+[^115] Darul-Uloom Deoband, “Aayna Darul-Ulom”, December, 1994, p.18.
 
 [^116] Jamia-Hafsa, a leading religious madrassa in Islamabad,
 challenged the writ of the government in 2007, when the administration
@@ -789,7 +789,7 @@ April, [^2008]:
 [^288]   Daily Times Monitor, " Madrassas Seek to Shed Terror Label",
 Dawn (Islamabad) , November 10, [^2008]:
 
-[^289]   Ahmad, The News , op. cit., p.[^15]:
+[^289]   Ahmad, The News , op. cit., p.15.
 
 [^290]   Ahmad, Noman, op. cit., The News , April 20,  [^2008]:
 

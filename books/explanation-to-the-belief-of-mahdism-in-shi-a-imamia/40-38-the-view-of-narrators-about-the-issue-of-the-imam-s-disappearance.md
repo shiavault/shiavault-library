@@ -23,4 +23,3 @@ Besides, those who have survived both the periods of the Ghaybat
 their experience. What was foretold, is narrated; and what was foretold
 took place.
 
-

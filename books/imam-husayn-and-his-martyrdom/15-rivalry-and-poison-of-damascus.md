@@ -41,4 +41,3 @@ the conscience of the people might awaken at any time, and sweep them
 away unless the holy man supported their cause. The holy man was
 prepared to die rather than surrender the principles for which he stood.
 
-

@@ -265,4 +265,3 @@ recorded as tradition 319 in al-Kafi's Rawda.
 [^9]: Ibn Qawlawayh al-Qummi, Kamil al-Ziyarat, p. 325, chapter 108, at
 the beginning of discussing rare incidents.
 
-

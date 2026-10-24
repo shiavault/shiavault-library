@@ -212,4 +212,3 @@ prophet among them.’”[^6]
 
 [^6]: Al-Khara’ij wa al-Jara’ih, 3, 1078, 1081
 
-

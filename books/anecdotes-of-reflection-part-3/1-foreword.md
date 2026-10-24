@@ -32,4 +32,3 @@ Islamic Education Board
  The World Federation of K S I Muslim Communities  
  Dhil Hijjah, 1426 / January 2006
 
-

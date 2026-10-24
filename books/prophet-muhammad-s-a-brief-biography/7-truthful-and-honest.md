@@ -30,4 +30,3 @@ case, grooming, inspiring and educating the young Muhammad (S) and
 finally introducing him as a model of emulation and messenger for all of
 mankind.
 
-

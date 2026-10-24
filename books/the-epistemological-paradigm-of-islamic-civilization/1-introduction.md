@@ -49,4 +49,3 @@ philosophy? Since philosophy is an activity of knowledge, I utilize an
 epistemological paradigm to illustrate how Islam plays this central role
 by stimulating philosophers to continue the search for truth.
 
-

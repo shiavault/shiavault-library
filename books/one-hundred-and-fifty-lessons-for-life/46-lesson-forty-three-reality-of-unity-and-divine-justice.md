@@ -3,11 +3,7 @@ Lesson Forty Three: Reality of unity and divine justice
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلتَّوْحِيْدُ أَنْ لاتَتَوَهْمَهُ و الْعَدْلُ أَنْ لا تَتَّهِمَهُ
-  </p>
-</blockquote>
+> اَلتَّوْحِيْدُ أَنْ لاتَتَوَهْمَهُ و الْعَدْلُ أَنْ لا تَتَّهِمَهُ
 
 Translation
 -----------
@@ -34,5 +30,4 @@ conformity with belief in His justice and wisdom.
 [^1]: Nahjul Balaghah, Bihar Al-Anwar, vol 5, page 52. Aalamu Aldeen,
 page 318, Khasa'is Al-A'ima, page 124. Mutashabah AlQur'an, vol 1, page
 105.
-
 

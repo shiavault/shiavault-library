@@ -1530,4 +1530,3 @@ that belt has always too much sunshine and too little rainfall.
 (Translator's note.) the greed and avarice which lead to enslavement,
 war and imperialism. 
 
-

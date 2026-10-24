@@ -62,7 +62,6 @@ for arguments sake pray for Mu'awiya's guidance, it was in the same way
 as he prayed for all to be guided to the right path whether Muslim or
 non Muslim.
 
-
 **Not all of Rasulullah's prayers were accepted**
 
 Even if for arguments sake we were to accept this dua, according to
@@ -194,7 +193,6 @@ Ibn Taymiyya in Minhaj al Sunnah page 207
 "One party has created virtues of Mu'awiya and these virtues have been
 presented as these hadith and all of these are lies".
 
-
 **Rasulullah's advice for Mu'awiya is also a fabrication**
 
 One tradition commonly cited by the advocates of Mu'awiya is this one,
@@ -212,7 +210,6 @@ hadith Ismail bin Buram is daif"
 
 Rasulullah (s) in fact did indeed give advice to his followers about
 how to react if Mu'awiya attained power.
-
 
 **Rasulullah (s) ordered the killing of Mu'awiya in the event of him
 becoming Khalifa**
@@ -242,5 +239,4 @@ kill him". The people confirmed that they had also heard the hadith, but
 said we have not carried out this action, so let us write to Umar on the
 matter, which they did, but Umar did not write back to resolve the
 matter, until he died"
-
 

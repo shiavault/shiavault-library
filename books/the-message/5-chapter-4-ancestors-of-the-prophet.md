@@ -2134,4 +2134,3 @@ page 54.
 
 [^32]: Tarikh-i Ibn Athir, vol. II, page 4 - a part of the footnote.
 
-

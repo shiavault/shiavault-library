@@ -11,11 +11,7 @@ Readiness And Preparation
 is behind you, driving you forward.
 
 > 2ـ تَخَفَّفُوا فَإنَّ الغايَةَ أمامَكُمْ، والسّاعَةَ مِنْ وَرائِكُمْ
-<blockquote dir="rtl">
-  <p>
-تَحْدُوكُمْ.
-  </p>
-</blockquote>
+> تَحْدُوكُمْ.
 
 3. Lighten your burden so as to catch up [with those who are ahead you],
 for indeed the last among you are only being awaited by the first among
@@ -27,21 +23,13 @@ you [who have preceded them].
 and travel on swift [and girded] mounts [of good deeds].
 
 > 4ـ تَيَسَّرْ لِسَفَرِكَ، وشِمْ بَرْقَ النَّجاةِ، وارْحَلْ مَطاياَ
-<blockquote dir="rtl">
-  <p>
-التَّشْمير.
-  </p>
-</blockquote>
+> التَّشْمير.
 
 5. Return from negligence, awake from slumber, prepare yourself for the
 move and gather provisions for the journey.
 
 > 5ـ ثُوبُوا (تُوبُوا) مِنَ الغَفْلَةِ، وتَنَبَّهُوا مِنَ الرَّقْدَةِ،
-<blockquote dir="rtl">
-  <p>
-وتَأهَّبُوا لِلنُّقْلَةِ، وَتَزَوَّدُوا لِلرِّحْلَةِ.
-  </p>
-</blockquote>
+> وتَأهَّبُوا لِلنُّقْلَةِ، وَتَزَوَّدُوا لِلرِّحْلَةِ.
 
 6. One who has prepared for his journey is delighted upon his arrival.
 
@@ -51,10 +39,5 @@ move and gather provisions for the journey.
 prepare your dwelling before your arrival.
 
 > 7ـ اِرْتَدْ لِنَفْسِكَ قَبْلَ يَوْمِ نُزُولِكَ ووَطِّ المَنْزِلَ
-<blockquote dir="rtl">
-  <p>
-قَبْلَ حُلُولِكَ.
-  </p>
-</blockquote>
-
+> قَبْلَ حُلُولِكَ.
 

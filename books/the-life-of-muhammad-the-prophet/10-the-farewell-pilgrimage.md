@@ -107,4 +107,3 @@ death. Receiving this news, Usamah and other companions went back. Abu
 Bakr and 'Umar were still in Medina; they had not joined the army
 camp..."
 
-

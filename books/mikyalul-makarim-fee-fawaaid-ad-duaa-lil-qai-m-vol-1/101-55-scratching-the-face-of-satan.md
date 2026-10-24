@@ -19,4 +19,3 @@ His Eminence.
 
 [^1]: Kafi; Vol. 2, Pg. 207
 
-

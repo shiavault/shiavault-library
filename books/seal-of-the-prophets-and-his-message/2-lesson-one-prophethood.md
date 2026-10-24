@@ -385,4 +385,3 @@ by the Prophets, those guides to Divine unity.
 
 [^4]: Will Durant, The Story of Civilization.
 
-

@@ -42,4 +42,3 @@ it, as there were many private sittings where the head of Imam Hussain
 places where they drink alcohol, sing songs, and listen to music while
 having the head of Imam Hussain (Q) between his hands.
 
-

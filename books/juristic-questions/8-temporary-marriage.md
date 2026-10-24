@@ -500,4 +500,3 @@ religious verdict.
 
 [^26]: This was the saying of Omar.
 
-

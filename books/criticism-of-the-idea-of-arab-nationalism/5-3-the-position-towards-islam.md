@@ -91,4 +91,3 @@ cultural implications; and Islamic action includes 'worldly' fields in
 its purview. Once again, Arab nationalism faces us with a contradiction
 that can only be explained by its anti-Islamic stance.
 
-

@@ -4,12 +4,8 @@ Section 4: The Fate of Those Who Disbelieved Noah
 Surah Hud – Verse 36
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاُوحِيَ إِلَي نُوحٍ أَنَّهُ لَن يُؤْمِنَ مِن قَوْمِكَ إِلاَّ مَن
-قَدْ ءَامَنَ فَلاَ تَبْتَئِسْ بِمَا كَانُوا يَفْعَلُونَ
-  </p>
-</blockquote>
+> وَاُوحِيَ إِلَي نُوحٍ أَنَّهُ لَن يُؤْمِنَ مِن قَوْمِكَ إِلاَّ مَن
+> قَدْ ءَامَنَ فَلاَ تَبْتَئِسْ بِمَا كَانُوا يَفْعَلُونَ
 
 ***36. “And it was revealed unto Noah: ‘None of your people will believe
 except those who have already believed, so do not grieve as to what they
@@ -54,12 +50,8 @@ necessary, accessible so that His prophet should know.
 Surah Hud – Verse 37
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاصْنَعِ الْفُلْكَ بِاَعْيُنِنَا وَوَحْيِنَا وَلا تُخَاطِبْنِي فِي
-الَّذينَ ظَلَمُوا إِنَّهُم مُّغْرَقُونَ
-  </p>
-</blockquote>
+> وَاصْنَعِ الْفُلْكَ بِاَعْيُنِنَا وَوَحْيِنَا وَلا تُخَاطِبْنِي فِي
+> الَّذينَ ظَلَمُوا إِنَّهُم مُّغْرَقُونَ
 
 ***37. “And make you the Ark under Our eyes, and as We reveal; and
 address Me not about those who are unjust; verily they shall be
@@ -93,13 +85,9 @@ someone, even Allah’s prophet is not rightful to mediate on his behalf.
 Surah Hud – Verse 38
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلأٌ مِن قَوْمِهِ
-سَخِرُوا مِنْهُ قَالَ إِن تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنكُم
-كَمَا تَسْخَرُونَ
-  </p>
-</blockquote>
+> وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلأٌ مِن قَوْمِهِ
+> سَخِرُوا مِنْهُ قَالَ إِن تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنكُم
+> كَمَا تَسْخَرُونَ
 
 ***38. “And he began making the Ark; and whenever the chiefs of his
 people passed by him they scoffed at him. He said: ‘If you scoff at us,
@@ -140,12 +128,8 @@ as you scoff ’.”***
 Surah Hud – Verse 39
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخزِيهِ وَيَحِلُّ عَلَيْهِ
-عَذَابٌ مُقِيمٌ
-  </p>
-</blockquote>
+> فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخزِيهِ وَيَحِلُّ عَلَيْهِ
+> عَذَابٌ مُقِيمٌ
 
 ***39. “So you shall know soon to whom a Penalty (that) will confound
 him comes, and upon whom there shall fall a lasting Penalty.”***
@@ -183,13 +167,9 @@ Majma‘-ul-Bayan for further information.
 Surah Hud – Verse 40
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا جَآءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ
-فِيهَا مِن كُلّ‌ٍ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلاَّ مَن سَبَقَ
-عَلَيْهِ الْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُ إِلاَّ قَلِيلٌ
-  </p>
-</blockquote>
+> حَتَّي إِذَا جَآءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ
+> فِيهَا مِن كُلّ‌ٍ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلاَّ مَن سَبَقَ
+> عَلَيْهِ الْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُ إِلاَّ قَلِيلٌ
 
 ***40. “(Thus it was) till, when Our Command came, and the oven gushed
 forth (water)! We said: “Embark therein, of each kind a pair, and your
@@ -249,12 +229,8 @@ of believers.
 Surah Hud – Verse 41
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ مَجْريهَا وَمُرْسَاهَا إِنَّ
-رَبّي لَغَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ مَجْريهَا وَمُرْسَاهَا إِنَّ
+> رَبّي لَغَفُورٌ رَحِيمٌ
 
 ***41. “And he (Noah) said: ‘Embark in it! In Allah’s Name shall be its
 sailing and its berthing. Verily my Lord is the Forgiving, the
@@ -279,13 +255,9 @@ pardon your offences.
 Surah Hud – Verse 42
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهِيَ تَجْرِي بِهِمْ فِي مَوْجٍ كَالْجِبَالِ وَنَادَي نوحٌ ابْنَهُ
-وَكَانَ فِي مَعْزِلٍ يَا بُنَيَّ ارْكَبْ مَعَنَا وَلاَ تَكُن مَعَ
-الكَافِرِينَ
-  </p>
-</blockquote>
+> وَهِيَ تَجْرِي بِهِمْ فِي مَوْجٍ كَالْجِبَالِ وَنَادَي نوحٌ ابْنَهُ
+> وَكَانَ فِي مَعْزِلٍ يَا بُنَيَّ ارْكَبْ مَعَنَا وَلاَ تَكُن مَعَ
+> الكَافِرِينَ
 
 ***42. “So, it sailed with them amid waves like mountains. And Noah
 called out to his son and he was aloof: ‘O my son! Embark with us and be
@@ -325,13 +297,9 @@ annihilation made no impact upon him.
 Surah Hud – Verse 43
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَاَوِي إِلَي جَبَلٍ يَعْصِمُني مِنَ الْمَآءِ قَالَ لاَ عَاصِمَ
-الْيَوْمَ مِنْ أَمْرِ اللَّهِ إِلاَّ مَن رَحِمَ وَحَالَ بَيْنَهُمَا
-الْمَوْجُ فَكَانَ مِنَ الْمُغْرَقِينَ
-  </p>
-</blockquote>
+> قَالَ سَاَوِي إِلَي جَبَلٍ يَعْصِمُني مِنَ الْمَآءِ قَالَ لاَ عَاصِمَ
+> الْيَوْمَ مِنْ أَمْرِ اللَّهِ إِلاَّ مَن رَحِمَ وَحَالَ بَيْنَهُمَا
+> الْمَوْجُ فَكَانَ مِنَ الْمُغْرَقِينَ
 
 ***43. “He said: ‘I will take refuge in a mountain; it will save me from
 the water.’ Said he (Noah): ‘Today, there is no protector from Allah’s
@@ -462,13 +430,9 @@ will be saved,’* he means the same term /najiyah/ (saved).
 Surah Hud – Verse 44
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلَ يَآ أَرْضُ ابْلَعِي مَآءَكِ وَيَا سَمَآءُ أَقْلِعِي وَغِيضَ
-الْمَآءُ وَقُضِيَ الأَمْرُ وَاسْتَوَتْ عَلي الْجُودِيّ وَقِيلَ بُعْداً
-لِلْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَقِيلَ يَآ أَرْضُ ابْلَعِي مَآءَكِ وَيَا سَمَآءُ أَقْلِعِي وَغِيضَ
+> الْمَآءُ وَقُضِيَ الأَمْرُ وَاسْتَوَتْ عَلي الْجُودِيّ وَقِيلَ بُعْداً
+> لِلْقَوْمِ الظَّالِمِينَ
 
 ***44. “And it was said: ‘O earth! Swallow down your water, and O sky!
 Withhold (your rain)!’ And the water abated, and the matter was ended,
@@ -529,12 +493,8 @@ Saying this, they abandoned their decision and dispersed in despair.
 Surah Hud – Verse 45
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَي نُوحٌ رَبَّهُ فَقَالَ رَبّ إِنَّ ابْنِي مِنْ أَهْلِي وَإِنَّ
-وَعْدَكَ الْحَقُّ وَأَنتَ أَحْكَمُ الْحَاكِمِينَ
-  </p>
-</blockquote>
+> وَنَادَي نُوحٌ رَبَّهُ فَقَالَ رَبّ إِنَّ ابْنِي مِنْ أَهْلِي وَإِنَّ
+> وَعْدَكَ الْحَقُّ وَأَنتَ أَحْكَمُ الْحَاكِمِينَ
 
 ***45. “And Noah called unto his Lord, and said: “O my Lord! Verily, my
 son is of my family, and certainly Your promise is true and You are the
@@ -568,13 +528,9 @@ just of Judges.”***
 Surah Hud – Verse 46
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ إِنَّهُ عَمَلٌ غَيْرُ
-صَالِحٍ فَلا تَسْأَلْنِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنّي أَعِظُكَ
-أَن تَكُونَ مِنَ الْجَاهِلِينَ
-  </p>
-</blockquote>
+> قَالَ يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ إِنَّهُ عَمَلٌ غَيْرُ
+> صَالِحٍ فَلا تَسْأَلْنِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنّي أَعِظُكَ
+> أَن تَكُونَ مِنَ الْجَاهِلِينَ
 
 ***46. “He (Allah) said: ‘O’ Noah! Verily he is not of your family.
 Verily he is (of) conduct other than righteous. So do not ask of Me that
@@ -621,12 +577,8 @@ be considered as of us.”*
 Surah Hud – Verse 47
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ إِنّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ
-عِلْمٌ وَإِلاَّ تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> قَالَ رَبّ إِنّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ
+> عِلْمٌ وَإِلاَّ تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِنَ الْخَاسِرِينَ
 
 ***47. “He (Noah) said: ‘O my Lord! Verily I seek refuge in You, lest I
 should ask You (for) that of which I have no knowledge. And unless You
@@ -651,13 +603,9 @@ forgive me and have Mercy on me I should be of the losers’.”***
 Surah Hud – Verse 48
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قِيلَ يَا نُوحُ اهْبِطْ بِسَلاَمٍ مِنَّا وَبَرَكَاتٍ عَلَيْكَ وَعَلَي
-اُمَمٍ مِمَّن مَعَكَ وَاُمَمٌ سَنُمَتّعُهُمْ ثُمَّ يَمَسُّهُم مِنَّا
-عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> قِيلَ يَا نُوحُ اهْبِطْ بِسَلاَمٍ مِنَّا وَبَرَكَاتٍ عَلَيْكَ وَعَلَي
+> اُمَمٍ مِمَّن مَعَكَ وَاُمَمٌ سَنُمَتّعُهُمْ ثُمَّ يَمَسُّهُم مِنَّا
+> عَذَابٌ أَلِيمٌ
 
 ***48. “It was said: ‘O Noah! Debark in peace from Us, and blessings
 upon you and on the nations of those with you; and nations whom We shall
@@ -699,13 +647,9 @@ afflict them from Us a painful chastisement’.”***
 Surah Hud – Verse 49
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ مِنْ أَنبَآءِ الْغَيْبِ نُوحِيهآ إِلَيْكَ مَا كُنتَ تَعْلَمُهَآ
-أَنتَ وَلاَ قَوْمُكَ مِن قَبْلِ هَذَا فَاصْبِرْ إِنَّ الْعَاقِبَةَ
-لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> تِلْكَ مِنْ أَنبَآءِ الْغَيْبِ نُوحِيهآ إِلَيْكَ مَا كُنتَ تَعْلَمُهَآ
+> أَنتَ وَلاَ قَوْمُكَ مِن قَبْلِ هَذَا فَاصْبِرْ إِنَّ الْعَاقِبَةَ
+> لِلْمُتَّقِينَ
 
 ***49. “(O Prophet!) these are of the tidings of the Unseen which We
 reveal unto you. Before this, neither you nor your people knew them.
@@ -811,5 +755,4 @@ Haqq (vol.9) from P. 270 onwards. See also Nafahat ul Azhar fi Khulasah
 ‘Abaqat ul Anwar, Part 4 P. 370.
 
 [^2]: Surah Nuh, No. 71, verse 26
-
 

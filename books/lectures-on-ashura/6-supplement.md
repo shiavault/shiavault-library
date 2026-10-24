@@ -522,4 +522,3 @@ shroud him. ]
 
 No power is greater than Allah's.
 
-

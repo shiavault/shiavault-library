@@ -143,4 +143,3 @@ And lastly, *Kitab al–Rahmah* which is an extensive book on all branches
 of jurisprudence. The contents of the book is based on Ahl al–Bayt
 narrations.
 
-

@@ -43,4 +43,3 @@ He thought deeply about her and said to himself, 'In fact, I am not a
 good person. How worthy it is to do good for others! I never thought
 such virtuous girls existed.''
 
-

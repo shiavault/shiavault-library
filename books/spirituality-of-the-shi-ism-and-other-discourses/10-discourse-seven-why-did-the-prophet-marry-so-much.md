@@ -58,15 +58,11 @@ and luxuriousness. He gave them a choice between divorce and a life of
 austerity and abandonment of adornments and luxury. The best witness to
 this fact is the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا النَّبِيُّ قُلْ لأَزْوَاجِكَ إِنْ كُنتُنَّ تُرِدْنَ
-الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ
-وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلاً \* وَإِنْ كُنتُنَّ تُرِدْنَ اللَّهَ
-وَرَسُولَهُ وَالدَّارَ الآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ
-لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا النَّبِيُّ قُلْ لأَزْوَاجِكَ إِنْ كُنتُنَّ تُرِدْنَ
+> الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ
+> وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلاً \* وَإِنْ كُنتُنَّ تُرِدْنَ اللَّهَ
+> وَرَسُولَهُ وَالدَّارَ الآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ
+> لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا ﴾
 
 ***“O prophet! Say unto your wives, ‘If you desire this world’s life and
 its adornment, then come, I will give you a gift and allow you a goodly
@@ -106,13 +102,9 @@ as he could not marry the wife of his own son by birth. After Zayd
 divorced Zaynab, the Prophet married her in order to oppose this false
 thought. There are various Qur’anic verses in this regard such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لا
-يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ
-إِذَا قَضَوْا مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ اللَّهِ مَفْعُولاً ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لا
+> يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ
+> إِذَا قَضَوْا مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ اللَّهِ مَفْعُولاً ﴾
 
 ***“So when Zayd took his need of her and divorced her, We wed her to
 you so that there will be no fault for believers regarding marriage to
@@ -210,12 +202,8 @@ of death was a recommendation regarding women.
 Regarding the importance of ritual prayer [salāt], the necessity of
 giving due consideration to servants, and advice about women he stated:
 
-<blockquote dir="rtl">
-  <p>
-«الصّلاة الصّلاة وما ملکت ايمانکم لا تکلفوهم ما لا يطيقون، الله الله
-في النّسا فانهنّ عوان بين ايديکم»
-  </p>
-</blockquote>
+> «الصّلاة الصّلاة وما ملکت ايمانکم لا تکلفوهم ما لا يطيقون، الله الله
+> في النّسا فانهنّ عوان بين ايديکم»
 
 “Ritual prayer, ritual prayer (is very important). Also, do not burden
 servants more than they can bear. For the love of Allah, (I advise you
@@ -293,5 +281,4 @@ Salām ibn Muslim and then with Kanānah ibn Rabī‘.
 [^12]: Al-Mīzān, vol. 4, p. 197; also Mīzān al-Hikmah, vol. 4, p. 3241.
 
 [^13]: From the yearbook, “Maktab-e Tashayyu‘”.
-
 

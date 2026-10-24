@@ -179,4 +179,3 @@ discontinued with your death which was never discontinued with the death
 of any other person, (and that thing is) Prophethood, announcement (of
 *Ghaib)* and the news of heaven."
 
-

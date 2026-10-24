@@ -12,4 +12,3 @@ chadar for you tomorrow.”
  Bravo to those mothers who are aware of wearing Islamic Hijaab and make
 their daughters too aware of this divine obligation.
 
-

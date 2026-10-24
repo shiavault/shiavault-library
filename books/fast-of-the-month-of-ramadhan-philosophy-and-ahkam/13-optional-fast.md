@@ -328,4 +328,3 @@ fill their water bags and prepare to go to Mina.
 [^2]: Explanation of the meaning of siyam al-beed, fasting the "white
 days," has already been indicated on p. 30 above.
 
-

@@ -47,4 +47,3 @@ The events related to the birth of the Twelfth Imam are more reliable,
 from the point of view of chain of narration and source, than most
 historical events that one sees.
 
-

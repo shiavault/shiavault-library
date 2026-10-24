@@ -267,4 +267,3 @@ others to be pure. He seeks truth wherever he finds it. He is always
 with truth and at war with falsehood.  
   
 
-

@@ -3,12 +3,8 @@ Lesson Eighty Eight: Our Promises Are Our Debts
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنّا أَهْلُ بَيْت نَرَى وَعْدَنا عَلَيْنا دَيْناً كَما صَنَعَ رَسُولُ
-اللّهِ(ص)
-  </p>
-</blockquote>
+> إنّا أَهْلُ بَيْت نَرَى وَعْدَنا عَلَيْنا دَيْناً كَما صَنَعَ رَسُولُ
+> اللّهِ(ص)
 
 Translation
 -----------
@@ -30,5 +26,4 @@ It revives the spirit of social cooperation. For all these reasons ,
 Islam strongly emphasizes the need to fulfill all promises.
 
 [^1]: Tuhaful Uqul, page 33
-
 

@@ -12,4 +12,3 @@ translated from Arabic to English, some of the beauty has been lost;
 ***“Over the peaks of mountains, guarded they lived; Never saved them
 the peaks they were deceived.”***
 
-

@@ -1,10 +1,6 @@
 Are Sahihayn Containing Most Correct Traditions?
 ================================================
 
-  
-  
-  
-
 Al-Imam Kamal al-Din ibn al-Hammam, in Sharh al-Hidayah, said: The
 utterance of that who said: ‘The most correct traditions are found in
 the two Sahihs and what al-Bukhari unilaterally reported, and then
@@ -14,8 +10,7 @@ impermissible to follow, since the veracity can never be attained but
 only when the traditions containing the conditions they stipulated. When
 supposing these provisions to be possessed by narrators of a hadith not
 found in the two books (Sahihayn), wouldn’t judging whatever recorded in
-the two books to be the most correct be despotism? <span
-id="_anchor_597"></span>597
+the two books to be the most correct be despotism? 597
 
 ### Amendment on al-Bukhari and Muslim:
 
@@ -49,13 +44,11 @@ permitting this, contrary to Muslim who used to observe the wording.
 In the two Sahihs more than two hundred old traditions, and about this
 al-Diya’ al-Muqaddasi has compiled a book calling it Ghara’ib
 al-Sahihayn, citing in it more than two hundred strange and odd
-traditions, from among those recorded in the Sahihayn. <span
-id="_anchor_598"></span>598
+traditions, from among those recorded in the Sahihayn. 598
 
 ### Who Considered al-Bukhari and Muslim More Authentic?
 
-Ibn Amir al-Hajj, in Sharh al-Tahrir, stated what could mean: <span
-id="_anchor_599"></span>599
+Ibn Amir al-Hajj, in Sharh al-Tahrir, stated what could mean: 599
 
 The point to which good attention should be given is that their
 authenticity more than others is only in respect of those succeeding
@@ -125,7 +118,7 @@ day (yawm al-nahr), where he performed circumambulation of ifadah
 (spreading) performing then the noon prayer at Makkah, returning then to
 Mina. In another narration, he performed the ifadah circumambulation,
 returning then to Mina where he performed the noon prayer. By these
-words, they seek honour (tajawwuh) <span id="_anchor_600"></span>600 and
+words, they seek honour (tajawwuh) 600 and
 say: He performed it again to show permissibility!
 
 and other such interpretations!! About these two narrations, Ibn Hazm
@@ -134,8 +127,7 @@ said: One of them is undoubtedly false.
 Muslim has also reported the hadith on isra’, in which he said (that was
 before sending down of revelation [wahy] to him). The huffaz have spoken
 against and weakened this statement. Muslim has also reported the
-hadith: “Allah created the earth on Saturday.” <span
-id="_anchor_601"></span>601 Also in his book he reported from Abu Sufyan
+hadith: “Allah created the earth on Saturday.” 601 Also in his book he reported from Abu Sufyan
 that he said to the Prophet (S), after embracing Islam: “O Messenger of
 Allah, would you kindly do me three favours: Get married to my daughter
 Umm Habibah, appoint my son Mu’awiyah as a scribe, and command me to
@@ -155,7 +147,7 @@ The traditionists say that when Muslim compiled his book he showed it to
 Abu Zar’ah al-Razi, who disapproved it and was enraged saying: And you
 called it al-Sahih, making it a ladder for the heretics and others … and
 when any opponent narrates any hadith for them, they would say: This can
-never be in Sahih Muslim. <span id="_anchor_602"></span>602 I have
+never be in Sahih Muslim. 602 I have
 previously cited other statements uttered by Abu Zar’ah and others in
 regard of Muslim and his book.
 
@@ -173,7 +165,7 @@ his (al-Bukhari’s) claim.”
 
 Concerning the saying of al-Hakim that the option made by al-Bukhari and
 Muslim in reporting the hadith from two reliable men from the Prophet
-(S), <span id="_anchor_603"></span>603 is incorrect forward and
+(S), 603 is incorrect forward and
 backward, rather had he reversed the issue and gave decision it would
 have been much safer for him. The same notion was held by someone who
 excelled him in the field of hadith, that is Abu Hatam Muhammad ibn
@@ -188,15 +180,11 @@ but only through the akhbar al-ahad”. (End of Ibn Hibban’s statement).
 
 Whoever fathoming and trying the depth of reports would realize that
 whatever stated by Ibn Hibban is nearer to truth. (End of al-Hazimi’s
-speech). <span id="_anchor_604"></span>604
+speech). 604
 
 These were the first class hadith books, and the following is a brief
 discussion of the second class ones which are: Sunan Abi Dawud, Sunan
-al-Tirmidhi and Sunan al-Nasa’i. <span id="_anchor_605"></span>605
-
-  
-  
-  
+al-Tirmidhi and Sunan al-Nasa’i. 605
 
 597. Tawjih al-nazar, p. 120, Sharh al-Shurut, p. 25.
 

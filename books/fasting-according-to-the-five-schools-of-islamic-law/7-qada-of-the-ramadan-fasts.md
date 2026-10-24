@@ -57,4 +57,3 @@ and breaks the fast after midday, he is liable to kaffarah by giving
 food to ten poor persons; if he is incapable of doing that, he will fast
 for three days.
 
-

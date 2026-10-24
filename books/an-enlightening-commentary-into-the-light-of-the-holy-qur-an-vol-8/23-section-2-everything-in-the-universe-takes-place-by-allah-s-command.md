@@ -4,12 +4,8 @@ Section 2: Everything in the Universe Takes Place by Allah’s Command
 Surah Al-Hijr – Verse 16
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَعَلْنَا فِي السَّمَآءِ بُرُوجاً وَزَيَّنَّاهَا
-لِلنَّاظِرِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ جَعَلْنَا فِي السَّمَآءِ بُرُوجاً وَزَيَّنَّاهَا
+> لِلنَّاظِرِينَ
 
 ***16. “And indeed, We have established constellations in the sky and We
 have decorated them for the beholders,”***
@@ -33,17 +29,9 @@ the power and splendour of Allah.
 Surah Al-Hijr – Verses 17 - 18
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَحَفِظْنَاهَا مِن كُلّ‌ِ شَيْطَانٍ رَّجِيمٍ
-  </p>
-</blockquote>
+> وَحَفِظْنَاهَا مِن كُلّ‌ِ شَيْطَانٍ رَّجِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنِ اسْتَرَقَ السَّمْعَ فَاَتْبَعَهُ شِهَابٌ مُّبِينٌ
-  </p>
-</blockquote>
+> إِلاَّ مَنِ اسْتَرَقَ السَّمْعَ فَاَتْبَعَهُ شِهَابٌ مُّبِينٌ
 
 ***17. “And We have guarded them against every accursed Satan.”***  
 ***18. “Save him who steals the hearing, so there pursues him a clear
@@ -103,25 +91,13 @@ forwardness.
 Surah Al-Hijr – Verses 19 - 21
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالاَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا
-فِيهَا مِن كُلّ‌ِ شَيْءٍ مَوْزُونٍ
-  </p>
-</blockquote>
+> وَالاَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا
+> فِيهَا مِن كُلّ‌ِ شَيْءٍ مَوْزُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِن مّـِن شَيْءٍ إِلاَّ عِنْدَنَا خَزَآئِنُهُ وَمَا نُنَزّ‌ِلُهُ
-إِلاَّ بِقَدَرٍ مَعْلُومٍ
-  </p>
-</blockquote>
+> وَإِن مّـِن شَيْءٍ إِلاَّ عِنْدَنَا خَزَآئِنُهُ وَمَا نُنَزّ‌ِلُهُ
+> إِلاَّ بِقَدَرٍ مَعْلُومٍ
 
 ***19. “And We have spread the earth, and We have cast therein firm
 mountains, and We have grown in it of every thing in due balance.”***  
@@ -398,12 +374,8 @@ been ascribed to it.
 Surah Al-Hijr – Verse 22
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَرْسَلْنَا الرّ‌ِيَاحَ لَوَاقِحَ فَاَنزَلْنَا مِنَ السَّمَآءِ مَآءً
-فَاَسْقَيْنَاكُمُوهُ وَمَآ أَنتُمْ لَهُ بِخَازِنِينَ
-  </p>
-</blockquote>
+> وَأَرْسَلْنَا الرّ‌ِيَاحَ لَوَاقِحَ فَاَنزَلْنَا مِنَ السَّمَآءِ مَآءً
+> فَاَسْقَيْنَاكُمُوهُ وَمَآ أَنتُمْ لَهُ بِخَازِنِينَ
 
 ***22. “And We send winds fertilizing, and We send down water from the
 sky, so We give it to you to drink of, while you are not its
@@ -451,24 +423,12 @@ valleys either as it evaporates.
 Surah Al-Hijr – Verses 23 - 25
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ
-  </p>
-</blockquote>
+> وإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا
-الْمُسْتَأْخِرِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا
+> الْمُسْتَأْخِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ إِنَّهُ حَكِيمٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ إِنَّهُ حَكِيمٌ عَلِيمٌ
 
 ***23. “And certainly We make alive and We cause to die and We are the
 (only) Heirs.”***  
@@ -557,5 +517,4 @@ also serving as sources of blessings. Again Surah An-Nūr, No. 24, verse
 43 says: “Do you not see that Allah directs the scattered clouds then He
 gathers them together and amasses them once again, and then you see the
 rain coming forth from their midst?...”
-
 

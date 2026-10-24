@@ -50,7 +50,6 @@ the prophets can be implemented as far as possible. The verse says:
 
 " And We do not postpone it, but to an appointed term. "
 
-
 **Commentary : Verse 105.106.107**
 
 (105) يَوْمَ يَأْتِ لا تَكَلَّمُ نَفْسٌ إِلاَّ بِإِذْنِهِ فَمِنْهُمْ
@@ -128,7 +127,6 @@ Allah does whatever He wishes. The verse says:
 except as your Lord pleases. Verily your Lord is the(Mighty)Doer of what
 He intends. "
 
-
 **Commentary : Verse 108**
 
 (108) وَ أَمَّا الَّذينَ سُعِدُوا فَفِي الْجَنَّةِ خالِدينَ فيها ما
@@ -138,7 +136,6 @@ He intends. "
 108 " And as for those who are happy, they shall be in Paradise,
 abiding therein, so long as the heavens and the earth endure, except as
 your Lord pleases: a gift without a break."(1)
-
 
 **Commentary :**
 
@@ -266,7 +263,6 @@ superstitious beliefs, and guides us in everything that we do
 strengthening and clarifying our ethical responsibilities, attitudes,
 conduct, and way of thinking.
 
-
 **Commentary : Verse 1109**
 
 (109) فَلا تَكُ في‏ مِرْيَةٍ مِمَّا يَعْبُدُ هؤُلاءِ ما يَعْبُدُونَ
@@ -307,5 +303,4 @@ take place in different circumstances and with different forms.
 In the meantime, though this sublime verse is addressed to the
 Prophet(p.b.u.h.) , it targets the people so that they may not be in
 doubt or be hesitant.
-
 

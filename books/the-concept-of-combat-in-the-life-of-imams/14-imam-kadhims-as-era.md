@@ -70,4 +70,3 @@ grandsons of the infallible Imams. Definitely, the Imams could mobilize
 the people better than their sons. Hence, the era of Musa ibn Ja'far
 (as) is the peak of struggle, which finally leads to his imprisonment.
 
-

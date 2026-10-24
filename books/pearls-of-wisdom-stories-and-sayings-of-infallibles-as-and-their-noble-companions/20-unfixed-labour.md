@@ -25,4 +25,3 @@ pay him more than what you promised him. But his wage must be fixed from
 the beginning. And remember, pay a worker before his sweat dries on his
 body.
 
-

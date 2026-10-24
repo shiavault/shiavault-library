@@ -1425,4 +1425,3 @@ regarded in the Shari'a as muwahhidun, i.e., monotheists. Tr
 
 [^45]: Ibid
 
-

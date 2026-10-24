@@ -72,30 +72,18 @@ Taghut?
 There is more than a relationship between them; Satan is Taghut and
 Taghut is Satan. As Glorious Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-اَلَّذِيْنَ ٰامَنُوْا يُقَاتِلُوْنَ فِيْ سَبِيْلِ الله
-  </p>
-</blockquote>
+> اَلَّذِيْنَ ٰامَنُوْا يُقَاتِلُوْنَ فِيْ سَبِيْلِ الله
 
 ***The believers fight in the path of Allah.***
 
-<blockquote dir="rtl">
-  <p>
-وَ الَّذِيْنَ کَفَرُوْا يُقَاتِلُوْنَ فِيْ سَبِيْلِ الطَّاغُوْتِ
-  </p>
-</blockquote>
+> وَ الَّذِيْنَ کَفَرُوْا يُقَاتِلُوْنَ فِيْ سَبِيْلِ الطَّاغُوْتِ
 
 ***And the non-believers fight in the path of Taghut.***
 
 Then it says:
 
-<blockquote dir="rtl">
-  <p>
-فَقَاتِلُوْآ اَوْلِيَآئَ الشَّيْطٰنِ اِنَّ کَيْدَ الشَّيْطٰنِ کَانَ
-ضَعِيْفًا
-  </p>
-</blockquote>
+> فَقَاتِلُوْآ اَوْلِيَآئَ الشَّيْطٰنِ اِنَّ کَيْدَ الشَّيْطٰنِ کَانَ
+> ضَعِيْفًا
 
 ***So you fight with the Satan's companions; certainly, the tactics of
 Satan are very weak.*** [^1]
@@ -137,17 +125,9 @@ achieve them; so he uses you for that purpose.
 If you think about these few sentences, you will notice a hidden message
 that is verified by the historical facts.
 
-<blockquote dir="rtl">
-  <p>
-حلقه ای در گردنم افکنده دوست
-  </p>
-</blockquote>
+> حلقه ای در گردنم افکنده دوست
 
-<blockquote dir="rtl">
-  <p>
-می کشد هر جا که خاطر خواه اوست
-  </p>
-</blockquote>
+> می کشد هر جا که خاطر خواه اوست
 
 *This friend has put a leash on my neck and drags me wherever he
 pleases.*
@@ -155,13 +135,9 @@ pleases.*
 The following verse of Chapter Nisa deserves our utmost attention and
 pondering.
 
-<blockquote dir="rtl">
-  <p>
-’’وَ مَنْ يُّشَاقِقِ الرَّسُوْلَ مِنْ بَعْدِ مَا تَبَيَّنَ لَہُ
-الْہُداٰي وَ يَتَّبِعْ غَيْرَ سَبِيْلِ الْمُومِنِيْنَ نُوَلِّہ مَا
-تَوَلّٰي۔‘‘
-  </p>
-</blockquote>
+> ’’وَ مَنْ يُّشَاقِقِ الرَّسُوْلَ مِنْ بَعْدِ مَا تَبَيَّنَ لَہُ
+> الْہُداٰي وَ يَتَّبِعْ غَيْرَ سَبِيْلِ الْمُومِنِيْنَ نُوَلِّہ مَا
+> تَوَلّٰي۔‘‘
 
 ***And if someone opposes the Prophet after clear guidance and follows a
 path other than*** ***that of the believers, we let him go wherever he
@@ -171,12 +147,8 @@ He will separate himself from the Muslims. Then we will tighten the
 leash he has put on. We will entangle him in the same Wilayat that he
 has accepted and the same group that he has joined.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله لا يُغَيِّرُ مَا بِقَوْمٍ حَتّٰي يُغَيِّرُوْا مَا
-بِاَنْفُسِہِمْ
-  </p>
-</blockquote>
+> اِنَّ الله لا يُغَيِّرُ مَا بِقَوْمٍ حَتّٰي يُغَيِّرُوْا مَا
+> بِاَنْفُسِہِمْ
 
 ***And the Lord does not change the condition of a nation until it
 changes itself.*** [^3]
@@ -187,11 +159,7 @@ there. This is the tradition of God or the law of creation.
 So far in this verse it was related to this world; then moving forward
 it talks about the next world.
 
-<blockquote dir="rtl">
-  <p>
-وَنُصْلِہ جَہَنَّمَ وَ سَآئَتْ مَصِيْرًا۔
-  </p>
-</blockquote>
+> وَنُصْلِہ جَہَنَّمَ وَ سَآئَتْ مَصِيْرًا۔
 
 ***He will go directly from here to hell and receive the permanent
 punishment and wrath of God.*** [^4]
@@ -343,11 +311,7 @@ start gazing at the pulpit.
 
 Think about it. A verse of Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-نُوَلِّہ مَا تَوَلّٰي
-  </p>
-</blockquote>
+> نُوَلِّہ مَا تَوَلّٰي
 
 ***We will further tighten the noose around the neck of a person who
 strays from the path of*** ***faith and the faithful**.*[^5]
@@ -369,17 +333,9 @@ not know him. Then Hajjaj said, "OK, I will introduce myself." He took
 off his turban, uncovered his face, looked at people and then read a
 couplet in Arabic:
 
-<blockquote dir="rtl">
-  <p>
-اَنَابْنُ جَلاٰوَطَلَاعِ الثَّنايٰا
-  </p>
-</blockquote>
+> اَنَابْنُ جَلاٰوَطَلَاعِ الثَّنايٰا
 
-<blockquote dir="rtl">
-  <p>
-اذٰانَزَعَ الْعَمَامَۃَ تَعْرِفُوني
-  </p>
-</blockquote>
+> اذٰانَزَعَ الْعَمَامَۃَ تَعْرِفُوني
 
 *When I take off my turban, you will recognize me.*
 
@@ -414,13 +370,9 @@ You know that he called Abdul Malik Bin Marwan commander of the
 believers. The servant opened the letter from Abdul Malik Bin Marwan and
 started to read it. The first sentence of the letter was:
 
-<blockquote dir="rtl">
-  <p>
-بِسْم الله الرَّحْمٰنِ الرَّحيمِ‘مِنْ اَمِيرِالْمُوْمِنينَ
-عَبْدِالْمَلِکِ بْنِ مَرْوان عَليٰ اَھْلِ الْکُوفَۃِ ۔ يٰااَھْلَ
-الْکُوفَۃِ سَلاٰم عَلَيْکُمْ
-  </p>
-</blockquote>
+> بِسْم الله الرَّحْمٰنِ الرَّحيمِ‘مِنْ اَمِيرِالْمُوْمِنينَ
+> عَبْدِالْمَلِکِ بْنِ مَرْوان عَليٰ اَھْلِ الْکُوفَۃِ ۔ يٰااَھْلَ
+> الْکُوفَۃِ سَلاٰم عَلَيْکُمْ
 
 *In the name of Allah, the most Gracious, most Merciful. From the
 commander of the believers, Abdul Malik Bin Marwan, to the inhabitants
@@ -432,13 +384,9 @@ said, "Stop. Be quiet." Then he turned towards the Kufians and said,
 believers gives you his regards and you don't even respond. O' servant!
 read it over." The servant started reading again:
 
-<blockquote dir="rtl">
-  <p>
-بِسْم الله الرَّحْمٰنِ الرَّحيمِ‘مِنْ اَمِيرِالْمُوْمِنينَ
-عَبْدِالْمَلِکِ بْنِ مَرْوان عَليٰ اَھْلِ الْکُوفَۃِ ۔ يٰااَھْلَ
-الْکُوفَۃِ سَلاٰم عَلَيْکُمْ
-  </p>
-</blockquote>
+> بِسْم الله الرَّحْمٰنِ الرَّحيمِ‘مِنْ اَمِيرِالْمُوْمِنينَ
+> عَبْدِالْمَلِکِ بْنِ مَرْوان عَليٰ اَھْلِ الْکُوفَۃِ ۔ يٰااَھْلَ
+> الْکُوفَۃِ سَلاٰم عَلَيْکُمْ
 
 *In the name of Allah, the most Gracious, most Merciful. From the
 commander of the believers, Abdul Malik Bin Marwan, to the inhabitants
@@ -446,11 +394,7 @@ of Kufa. O' Kufians, peace be on you.*
 
 At this point there was a loud sound:
 
-<blockquote dir="rtl">
-  <p>
-وَعَليٰ اَمِيرِالْمُوْمِنين السَّلام
-  </p>
-</blockquote>
+> وَعَليٰ اَمِيرِالْمُوْمِنين السَّلام
 
 *And peace be on you, o' commander of the faithful.*
 
@@ -461,13 +405,9 @@ believers, who in reality was the commander of the non-believers and
 debauchers. In other words these people by responding to the greetings
 of Hajjaj finished themselves off.
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُّشَاقِقِ الرَّسُوْلَ مِنْ بَعْدِ مَا تَبَيَّنَ لَہُ
-الْہُداٰي وَ يَتَّبِعْ غَيْرَ سَبِيْلِ الْمُوْمِنِيْنَ نُوَلِّہ مَا
-تَوَلّٰي۔
-  </p>
-</blockquote>
+> وَ مَنْ يُّشَاقِقِ الرَّسُوْلَ مِنْ بَعْدِ مَا تَبَيَّنَ لَہُ
+> الْہُداٰي وَ يَتَّبِعْ غَيْرَ سَبِيْلِ الْمُوْمِنِيْنَ نُوَلِّہ مَا
+> تَوَلّٰي۔
 
 *A person who quarrels with the Prophet and parts from him after the
 guided path becomes clear to him; and follows a path other than that of
@@ -506,17 +446,9 @@ accept his infidelity, was killed. The old man immediately responded,
 
 This is the history. History is a lesson.
 
-<blockquote dir="rtl">
-  <p>
-خوشتر ان باشد که وصف دلبران
-  </p>
-</blockquote>
+> خوشتر ان باشد که وصف دلبران
 
-<blockquote dir="rtl">
-  <p>
-گفته اید در حدیث دیگران
-  </p>
-</blockquote>
+> گفته اید در حدیث دیگران
 
 *It is more joyful to witness praise for the lovers*
 
@@ -526,29 +458,13 @@ History is a commentary on Qur'an; search Qur'an in history.
 
 Know that:
 
-<blockquote dir="rtl">
-  <p>
-مرد خردمند جهان دیده را
-  </p>
-</blockquote>
+> مرد خردمند جهان دیده را
 
-<blockquote dir="rtl">
-  <p>
-عمر دو با یست دراین روزگار
-  </p>
-</blockquote>
+> عمر دو با یست دراین روزگار
 
-<blockquote dir="rtl">
-  <p>
-تابه یکی تجربه اندوختن
-  </p>
-</blockquote>
+> تابه یکی تجربه اندوختن
 
-<blockquote dir="rtl">
-  <p>
-بادگری تجربه بردن به کار
-  </p>
-</blockquote>
+> بادگری تجربه بردن به کار
 
 *For the wise man who has seen the world*
 
@@ -565,11 +481,7 @@ What does the anecdote of Hajjaj tell us? There is no harm in mentioning
 that the same Hajjaj was brutally murdered by the same people for whom
 he had tyrannized people. Similarly it does not hurt to know that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ اَعٰانَ ظٰالِماًسَلَّطَہُ الله عَلَيْہِ
-  </p>
-</blockquote>
+> مَنْ اَعٰانَ ظٰالِماًسَلَّطَہُ الله عَلَيْہِ
 
 *One who helps an oppressor, God forces the same oppressor on him.* This
 is also a tradition.
@@ -583,12 +495,8 @@ We have related to you the earlier part of history; we have left it up
 to you to establish a link with the present. Now we revert back to the
 Qur'anic verses and start the process over.
 
-<blockquote dir="rtl">
-  <p>
-فَاِذَا قَرَاْتَ الْقُرْاٰنَ فَاسْتَعِذْ بِاِ الله مِنَ الشَّيْطٰنِ
-الرَّجِيْمِ
-  </p>
-</blockquote>
+> فَاِذَا قَرَاْتَ الْقُرْاٰنَ فَاسْتَعِذْ بِاِ الله مِنَ الشَّيْطٰنِ
+> الرَّجِيْمِ
 
 ***Once you have read Qur'an, seek refuge of God from the mischief of
 cursed Satan**.* [^6]
@@ -601,12 +509,8 @@ gain from Qur'an and prevent you from gaining more understanding and
 acting on it. So move to the safe haven of God to guard against the evil
 of cursed Satan.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّہ لَيْسَ لَہ سُلْطٰن عَلَي الَّذِيْنَ ٰامَنُوْا وَ عَلٰي
-رَبِّہِمْ يَتَوَکَّلُوْنَ
-  </p>
-</blockquote>
+> اِنَّہ لَيْسَ لَہ سُلْطٰن عَلَي الَّذِيْنَ ٰامَنُوْا وَ عَلٰي
+> رَبِّہِمْ يَتَوَکَّلُوْنَ
 
 ***Surely strife-creating Satan cannot overpower those who are believers
 and have faith and trust in Allah.*** [^7]
@@ -614,80 +518,44 @@ and have faith and trust in Allah.*** [^7]
 Satan does not have control over those who keep themselves sheltered
 under the Wilayat of God.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّمَا سُلْطٰنُہ عَلَي الَّذِيْنَ يَتَوَلَّوْنَہ
-  </p>
-</blockquote>
+> اِنَّمَا سُلْطٰنُہ عَلَي الَّذِيْنَ يَتَوَلَّوْنَہ
 
 ***Surely Satan subjugates only those who accept his Wilayat.***
 
 Those who have handed over their neck's leash themselves to Satan.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّمَا سُلْطٰنُہ عَلَي الَّذِيْنَ يَتَوَلَّوْنَہ
-  </p>
-</blockquote>
+> اِنَّمَا سُلْطٰنُہ عَلَي الَّذِيْنَ يَتَوَلَّوْنَہ
 
 ***Satan is able to control only those who consent to his Wilayat.***
 
-<blockquote dir="rtl">
-  <p>
-وَ الَّذِيْنَ ہُمْ بِہ مُشْرِکُوْنَ
-  </p>
-</blockquote>
+> وَ الَّذِيْنَ ہُمْ بِہ مُشْرِکُوْنَ
 
 ***And those who believe in the plurality of Allah.*** [^8]
 
 As we described earlier what is in Chapter Nisa.
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُّشَاقِقِ الرَّسُوْلَ
-  </p>
-</blockquote>
+> وَ مَنْ يُّشَاقِقِ الرَّسُوْلَ
 
 ***A person who quarrels with the Prophet and parts from him.***
 
-<blockquote dir="rtl">
-  <p>
-مِنْ بَعْدِ مَا تَبَيَّنَ لَہُ الْہُداٰي
-  </p>
-</blockquote>
+> مِنْ بَعْدِ مَا تَبَيَّنَ لَہُ الْہُداٰي
 
 ***After the guided path becomes clear to him.***
 
-<blockquote dir="rtl">
-  <p>
-وَ يَتَّبِعْ غَيْرَ سَبِيْلِ الْمُومِنِيْنَ
-  </p>
-</blockquote>
+> وَ يَتَّبِعْ غَيْرَ سَبِيْلِ الْمُومِنِيْنَ
 
 ***And follows a path other than that of believers.***
 
-<blockquote dir="rtl">
-  <p>
-نُوَلِّہ مَا تَوَلّٰي
-  </p>
-</blockquote>
+> نُوَلِّہ مَا تَوَلّٰي
 
 ***Whosoever's Wilayat one accepts, we make that person his Wali and
 ruler.***
 
-<blockquote dir="rtl">
-  <p>
-وَ نُصْلِہ جَہَنَّمَ وَ سَآئَتْ مَصِيْرًا
-  </p>
-</blockquote>
+> وَ نُصْلِہ جَہَنَّمَ وَ سَآئَتْ مَصِيْرًا
 
 ***And we throw him in hell and what a horrible ending it is.***
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله لا يَغْفِرُ اَنْ يُّشْرَکَ بِہ
-  </p>
-</blockquote>
+> اِنَّ الله لا يَغْفِرُ اَنْ يُّشْرَکَ بِہ
 
 ***God does not forgive someone who makes up a partner with Him.*** [^9]
 
@@ -695,11 +563,7 @@ Here we come back to the meanings of Oneness of God and polytheism so
 that we know what polytheism is and what Oneness of God is; and what sin
 God does not forgive.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله لا يَغْفِرُ اَنْ يُّشْرَکَ بِہ
-  </p>
-</blockquote>
+> اِنَّ الله لا يَغْفِرُ اَنْ يُّشْرَکَ بِہ
 
 God does not forgive a person who has accepted a partner with Him in
 Wilayat. He does not pardon someone who has turned polytheist, who has
@@ -711,11 +575,7 @@ remission of sins - healing of the wound caused by defiance, mistakes,
 slipping and ignorance - will not happen; the blemish and discoloration
 left by this sin will never go.
 
-<blockquote dir="rtl">
-  <p>
-وَ يَغْفِرُ مَا دُوْنَ ذٰلِکَ لِمَنْ يَّشَآئُ
-  </p>
-</blockquote>
+> وَ يَغْفِرُ مَا دُوْنَ ذٰلِکَ لِمَنْ يَّشَآئُ
 
 ***However, if man wishes, the sins lower than polytheism will be
 pardoned.***
@@ -723,11 +583,7 @@ pardoned.***
 Allah will exonerate a person who comes back to Him through penitence
 and remediation.
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُّشْرِکْ بِاِ الله فَقَدْ ضَلَّ ضَلٰلااً بَعِيْدًا
-  </p>
-</blockquote>
+> وَ مَنْ يُّشْرِکْ بِاِ الله فَقَدْ ضَلَّ ضَلٰلااً بَعِيْدًا
 
 ***And whoever declares a partner with God, he is gone very far from the
 guided path and has gone astray.*** [^10]
@@ -739,27 +595,15 @@ come back and it requires a lot of struggle and cleverness and a strong
 guide is needed. Those people, who have created a God's partner, have
 gone very far from the straight and guided way.
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ ضَلَّ ضَلٰلااً بَعِيْدًا
-  </p>
-</blockquote>
+> فَقَدْ ضَلَّ ضَلٰلااً بَعِيْدًا
 
 ***They are way off-track.***
 
-<blockquote dir="rtl">
-  <p>
-اِنْ يَّدْعُوْنَ مِنْ دُوْنِہ اِلَّاآ اِٰنثًا
-  </p>
-</blockquote>
+> اِنْ يَّدْعُوْنَ مِنْ دُوْنِہ اِلَّاآ اِٰنثًا
 
 ***There are a few women whom they call other than God.***
 
-<blockquote dir="rtl">
-  <p>
-وَ اِنْ يَّدْعُوْنَ اِلَّا شَيْطٰنًا مَّرِيْدًا
-  </p>
-</blockquote>
+> وَ اِنْ يَّدْعُوْنَ اِلَّا شَيْطٰنًا مَّرِيْدًا
 
 ***They do not call anyone other than the defiant Satan who is bereft of
 goodness and blessing.***[^11]
@@ -769,11 +613,7 @@ vowed to oppose God. And fundamentally there cannot be peace between God
 and Satan. At this point the Glorious Qur'an describes the devilish
 people and the nature of the satans of this world.
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ لااَ َاتَّخِذَنَّ مِنْ عِبَادِکَ نَصِيْبًا مَّفْرُوْضًا
-  </p>
-</blockquote>
+> وَ قَالَ لااَ َاتَّخِذَنَّ مِنْ عِبَادِکَ نَصِيْبًا مَّفْرُوْضًا
 
 ***Satan has sworn and said, "I will pull a certain segment of the
 servants of God to my side."***
@@ -782,11 +622,7 @@ In other words, "I will drag some of God's servants from the right path
 to ignorance; I will seize their intellect; I will trash their prudence;
 I will carry them into my Wilayat and obedience instead of Yours."
 
-<blockquote dir="rtl">
-  <p>
-وَّ لااَضِلَّنَّہُمْ وَ لااَمَنِّيَنَّہُمْ
-  </p>
-</blockquote>
+> وَّ لااَضِلَّنَّہُمْ وَ لااَمَنِّيَنَّہُمْ
 
 ***I will completely trap them in far out desires and wants.***
 
@@ -805,19 +641,11 @@ live a life of freedom and will not feel a prisoner to anyone.
 
 So the Satan says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لااَمَنِّيَنَّہُمْ
-  </p>
-</blockquote>
+> وَ لااَمَنِّيَنَّہُمْ
 
 ***I will trap them in far out desires and wants.***
 
-<blockquote dir="rtl">
-  <p>
-وَ لااَمُرَنَّہُمْ فَلَيُبَتِّکُنَّ اٰذَانَ الْاَنْعَامِ
-  </p>
-</blockquote>
+> وَ لااَمُرَنَّہُمْ فَلَيُبَتِّکُنَّ اٰذَانَ الْاَنْعَامِ
 
 ***I will command them to cut the ears of animals.***
 
@@ -834,11 +662,7 @@ mentions it as a sign of un-Godly traditions, ideas, ways and rituals.
 See how comical and shallow it is. Fundamentally all satanic rituals and
 traditions are like this one.
 
-<blockquote dir="rtl">
-  <p>
-وَ لااَٰمُرَنَّہُمْ فَلَيُغَيِّرُنَّ خَلْقَ الله
-  </p>
-</blockquote>
+> وَ لااَٰمُرَنَّہُمْ فَلَيُغَيِّرُنَّ خَلْقَ الله
 
 The Glorious Qur'an further relates the talk of the Satan. "I will order
 those who follow my directions to make changes in the divine creation,
@@ -861,30 +685,18 @@ not proceed forward and his satanism fails.
 
 After this God addresses us:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَّتَّخِذِ الشَّيْطٰنَ وَلِيًّا مِّنْ دُوْنِ الله فَقَدْ خَسِرَ
-خُسْرَانًا مُّبِيْنًا
-  </p>
-</blockquote>
+> وَمَنْ يَّتَّخِذِ الشَّيْطٰنَ وَلِيًّا مِّنْ دُوْنِ الله فَقَدْ خَسِرَ
+> خُسْرَانًا مُّبِيْنًا
 
 ***Whoever accepts the Wilayat of Satan instead of God's Wilayat, will
 be at a loss that is manifest.*** [^12]
 
-<blockquote dir="rtl">
-  <p>
-يَعِدُہُمْ وَ يُمَنِّيْہِمْ
-  </p>
-</blockquote>
+> يَعِدُہُمْ وَ يُمَنِّيْہِمْ
 
 ***The Satan makes promises to them and indulges them in far out desires
 and longings.*** [^13]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَعِدُہُمُ الشَّيْطٰنُ اِلَّا غُرُوْرًا
-  </p>
-</blockquote>
+> وَمَا يَعِدُہُمُ الشَّيْطٰنُ اِلَّا غُرُوْرًا
 
 ***And whatever promises Satan makes, they are nothing but deception,
 trickery and lies.*** [^14]
@@ -916,5 +728,4 @@ trickery and lies.*** [^14]
 [^13]: Ch. 4 Nisa verses 119-120.
 
 [^14]: Ch. 4 Nisa verses 119-120.
-
 

@@ -340,4 +340,3 @@ is 'NO'. It is just the product of his fertile imagination. It is these
 people who take upon themselves the task of producing 'authentic'
 history of Islam for the receptive minds of Westerners!
 
-

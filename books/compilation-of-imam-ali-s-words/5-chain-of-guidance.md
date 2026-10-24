@@ -322,4 +322,3 @@ man's freedom is tested as to how far he acts justly. In the light of
 this passage we can justify Iqbal's view that man chose freely to leave
 Heaven and come to this world.
 
-

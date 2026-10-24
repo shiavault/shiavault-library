@@ -3,13 +3,9 @@ Lesson One Hundred Forty One: Only A Name From Islam
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-يَاْتِى عَلَى النّاسِ زَمانٌ لا يَبْقى فِيهِمْ مِنَ الْقُرآنِ اِلاّ
-رَسْمُهُ وَ مِنَ الاِسْلامِ اِلاّ اِسْمُهُ، مَساجِدُهُم، يَوْمَئِذ
-عامَرَةٌ مِنَ البِناءِ، خَرابٌ مِنَ الْهُدى
-  </p>
-</blockquote>
+> يَاْتِى عَلَى النّاسِ زَمانٌ لا يَبْقى فِيهِمْ مِنَ الْقُرآنِ اِلاّ
+> رَسْمُهُ وَ مِنَ الاِسْلامِ اِلاّ اِسْمُهُ، مَساجِدُهُم، يَوْمَئِذ
+> عامَرَةٌ مِنَ البِناءِ، خَرابٌ مِنَ الْهُدى
 
 Translation
 -----------
@@ -38,5 +34,4 @@ society (which follows Islam in substance , not just in form), which has
 been backward or has not enjoyed an honorable status in the world ?
 
 [^1]: Nahajul Balagha
-
 

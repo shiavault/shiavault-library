@@ -166,4 +166,3 @@ participants, it is his own generosity. If he does not have money to
 offer any refreshment it, he should not take loan and should not burden
 himself in any way.
 
-

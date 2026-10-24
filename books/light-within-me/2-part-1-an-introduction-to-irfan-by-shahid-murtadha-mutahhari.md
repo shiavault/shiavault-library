@@ -2729,4 +2729,3 @@ by Sir Thomas Arnold and Alfred Guillaume pp. 211-212 
 
 [^18]: al-Qushayri, Risalah, p. 33
 
-

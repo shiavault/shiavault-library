@@ -55,4 +55,3 @@ does, neither does His messenger or any man of a sound reason.
 [^1]: Sahih al-Bukhari, vol. 2 p. 79, Chapt. Visiting of Graves,
 Funerals.
 
-

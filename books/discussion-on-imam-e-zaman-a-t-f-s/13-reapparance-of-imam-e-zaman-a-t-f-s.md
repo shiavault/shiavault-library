@@ -527,4 +527,3 @@ of the tradition under discussion.
 O Allah! Send blessings on Muhammad (s.a.w.a) and the progeny of
 Muhammad!
 
-

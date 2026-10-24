@@ -480,4 +480,3 @@ point where his uncle [al-Husayn] had come to the ground, and was killed
 there, as we shall see later. And this is the version recorded by
 al-Mufid in al-Irshad (pg.241; Najaf edition).
 
-

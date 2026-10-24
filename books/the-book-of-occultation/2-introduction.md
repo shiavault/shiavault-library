@@ -25,4 +25,3 @@ the Virtuous Imams and the dust of the threshold of narrators, Muhammad
 the son of Muhammad Taqi, may Allah resurrect them both with their pure
 masters and make them in their governance of their supporters and aides.
 
-

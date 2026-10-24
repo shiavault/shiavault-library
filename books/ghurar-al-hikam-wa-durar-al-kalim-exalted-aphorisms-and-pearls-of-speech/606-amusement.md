@@ -12,11 +12,7 @@ aimlessly so that you may be amused, and you have not been left without
 purpose so that you may indulge in vanities.
 
 > 2ـ أُهْجُرِ اللَّهْوَ فَإنَّكَ لَمْ تُخْلَقْ عَبَثاً فَتَلْهُوَ،وَ
-<blockquote dir="rtl">
-  <p>
-لَمْ تُتْرَكْ سُدىً فَتَلْغُوَ.
-  </p>
-</blockquote>
+> لَمْ تُتْرَكْ سُدىً فَتَلْغُوَ.
 
 3. The furthest of all people from righteousness is one who is
 [excessively] fond of amusement.
@@ -31,11 +27,7 @@ purpose so that you may indulge in vanities.
 amusement and jest.
 
 > 5ـ أبْعَدُ النّاسِ مِنَ النَّجاحِ اَلمُسْتَهْتَرُ بِاللَّهْوِ
-<blockquote dir="rtl">
-  <p>
-والمَزاحِ.
-  </p>
-</blockquote>
+> والمَزاحِ.
 
 6. Amusement is from the fruits of ignorance.
 
@@ -77,10 +69,5 @@ amusement and jest.
 entertainment does not become successful.
 
 > 15ـ لايُفْلِحُ مَنْ وَلِهَ بِاللَّعْبِ واسْتُهْتِرَ بِاللَّهْوِ
-<blockquote dir="rtl">
-  <p>
-والطَّرَبِ.
-  </p>
-</blockquote>
-
+> والطَّرَبِ.
 

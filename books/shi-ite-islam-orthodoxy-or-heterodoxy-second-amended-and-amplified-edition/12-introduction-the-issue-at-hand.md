@@ -313,4 +313,3 @@ Reading. Ed. Gabrielle Watling. Westport, CT: Greenwood Press, 2008.
 [^15]: Editor’s Note: The author is alluding to Descartes’ statement: “I
 will not argue with you unless you define your terms.”
 
-

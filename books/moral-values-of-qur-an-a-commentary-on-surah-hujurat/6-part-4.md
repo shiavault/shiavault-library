@@ -1,12 +1,8 @@
 Part 4
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ
-لا يَعْقِلُونَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ
+> لا يَعْقِلُونَ.﴾
 
 ***(As for) those who call out to you from behind the private chambers,
 surely most of them do not understand. (49:4)***
@@ -30,12 +26,8 @@ Be patient till the Prophet comes out
 The next verse contains many important meanings. It should be remembered
 what this verse says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا
-لَهُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا
+> لَهُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.﴾
 
 ***And if they wait patiently until you come out to them, it would
 certainly be better for them, and Allah is Forgiving, Merciful.
@@ -73,11 +65,7 @@ Muhammad was very much fond of fame, power, honor and respect; that he
 has extensively praised himself in Qur’an. What do these five verses of
 Qur’an from Surah Hujurat show?
 
-<blockquote dir="rtl">
-  <p>
-﴿لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ وَرَسُولِهِ… ﴾
-  </p>
-</blockquote>
+> ﴿لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ وَرَسُولِهِ… ﴾
 
 ***Be not forward in the presence of Allah and His Apostle…***
 
@@ -95,11 +83,7 @@ The duties are only for the benefit of Muslims
 The reply to all these foolish words and idle talks, allegations and
 indecent utterances is in the verse itself:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَكَانَ خَيْرًا لَهُمْ…﴾
-  </p>
-</blockquote>
+> ﴿لَكَانَ خَيْرًا لَهُمْ…﴾
 
 ***…it would certainly be better for them…***
 
@@ -217,12 +201,8 @@ Salam to your wife. When your wife comes to you say Salam, to her. When
 your child reaches you, say Salam to him or her also. The Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَى أَنفُسِكُمْ تَحِيَّةً
-مِنْ عِنْدِ اللَّهِ﴾
-  </p>
-</blockquote>
+> ﴿فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَى أَنفُسِكُمْ تَحِيَّةً
+> مِنْ عِنْدِ اللَّهِ﴾
 
 ***So when you enter houses, greet your people with a salutation from
 Allah…***[^4]
@@ -607,5 +587,4 @@ radiance.”
 [^11]: Madinatul Maajiz, Bahraini, pg.496
 
 [^12]: Fazailus Sadat
-
 

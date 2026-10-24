@@ -94,4 +94,3 @@ the name of his holiness, and sermons were delivered on the pulpits.
 
 [^2]: Ibid, vol. 29, p. 131.
 
-

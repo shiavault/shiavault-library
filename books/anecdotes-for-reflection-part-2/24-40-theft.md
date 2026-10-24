@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-أََلسَّارِقُ وَ السَّارِقَةُ فَاقْطَعُوا أََيْدِيَهُمَا
-  </p>
-</blockquote>
+> أََلسَّارِقُ وَ السَّارِقَةُ فَاقْطَعُوا أََيْدِيَهُمَا
 
 “And (as for) the man who steals and the woman who steals, cut off their
 hands.”[^1]
 
 Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-إِذَا سَرَقَ السَّارِقُ قُطِعَتْ يَدُهُ وَ غُرِمَ ماَ أَخَذَ
-  </p>
-</blockquote>
+> إِذَا سَرَقَ السَّارِقُ قُطِعَتْ يَدُهُ وَ غُرِمَ ماَ أَخَذَ
 
 “When a thief commits a theft, his hands are cut and he is made to
 indemnify what he has taken.”[^2]
@@ -211,5 +203,4 @@ delivered from this quandary.[^6]
 [^5]: Dastan-ha Wa Pand-ha, Volume 2, Page 71; Khazain Naraqi
 
 [^6]: Jawame’ al-Hikayat, Page 357
-
 

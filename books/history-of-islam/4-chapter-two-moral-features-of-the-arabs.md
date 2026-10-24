@@ -216,7 +216,6 @@ been severely distorted, the thoughts that the Arabs received from the
 Jews were extremely disturbed and distorted. Not only were Jewish
 instructions unhelpful but also they added to the Arabs’ confusion.
 
-
 **The Arab's Inferiority vis-à-vis Iran and Rome**
 
 As we have already noted, people of Hijaz used to have a tribal life in
@@ -341,5 +340,4 @@ the ignorant ones.” (Qur’an 2: 67)
 
 Depicting the miserable life of the idol-worshipping Arabs, Imam \`Ali
 (a.s) refers to their stupidity.[^113]
-
 

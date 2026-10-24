@@ -247,4 +247,3 @@ issue. My clothes can be washed. But be careful with how you treat the
 child” he continued. “What can restore his self-esteem after you have
 dealt with him in public like this?”
 
-

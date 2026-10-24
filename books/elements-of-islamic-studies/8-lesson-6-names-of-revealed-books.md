@@ -14,4 +14,3 @@ Many books were revealed (sent) to the Prophets by Allah.
 Now the Qur’an is the only authentic and true book which is to be
 followed by all men.
 
-

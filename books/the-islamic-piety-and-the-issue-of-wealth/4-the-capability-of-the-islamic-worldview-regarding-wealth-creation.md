@@ -265,4 +265,3 @@ decent life full of human dignity.  His bank and the micro-credit policy
 which he adopted have greatly affected the lives of his people in
 Bangeladesh and beyond.
 
-

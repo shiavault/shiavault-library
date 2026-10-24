@@ -962,4 +962,3 @@ should be remembered that this story also provides proof of Raj‘ah
 (Resurrection) like the recurring traditions mentioned by us earlier and
 that what happened to The Israelites would happen to this Ummah also.
 
-

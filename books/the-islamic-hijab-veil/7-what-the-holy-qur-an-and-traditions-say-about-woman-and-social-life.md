@@ -230,4 +230,3 @@ p, 23.
 
 [^12]: Al-Targhib wa al-Tarhib, vol. 3, p, 46.
 
-

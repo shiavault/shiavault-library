@@ -92,4 +92,3 @@ Holy Prophet but his behavior was quite different. When asked why they
 were not treated equally, the Holy Prophet said: I respected the sister
 more because she was more kind to her parents.[^15]
 
-

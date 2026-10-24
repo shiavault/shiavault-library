@@ -33,5 +33,3 @@ grade of its acceptance would be proportionate to this. Because the
 value of each deed depends on the mentality and condition of the person
 who is performing it.
 
-
-

@@ -20,4 +20,3 @@ Prophet Muhammad’s (S) words are kept in double quotations “ ”, while
 all others are in single quotation marks ‘ ’. The verses of Qur’an are
 in italics.
 
-

@@ -146,4 +146,3 @@ flow; they will dwell therein for ever; Allah well pleased with them,
 and they with him: all this for such as fear their lord and cherisher.
 (Chapter 98; verses 7, 8)***
 
-

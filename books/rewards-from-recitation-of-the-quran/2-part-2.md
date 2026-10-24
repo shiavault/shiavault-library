@@ -202,4 +202,3 @@ The Messenger of Allah (pbuh) has said that one who recites Surat Fatir
 seeking thereby to please Allah will be called upon by each of the eight
 gates of Paradise to enter from whichever he desires.
 
-

@@ -219,4 +219,3 @@ Hisham, Vol. 1, p.223; and A'lam Alwari, p.I41.
 [^16]: Bihar ul-Anwar, Vol. 22, p.203; Sirihi ibn Hisham, p.372;
 Musu'ati Alenabi, p.404.
 
-

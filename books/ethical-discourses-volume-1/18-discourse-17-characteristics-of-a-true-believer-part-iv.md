@@ -8,13 +8,9 @@ classified as being complete and one who possesses true faith. Up until
 now, sixteen characteristics were mentioned and in this discussion, we
 will cover six more.
 
-<blockquote dir="rtl">
-  <p>
-…بَرِيئاً مِنَ الْمُحَرَّمَاتِ، وَاقِفاً عِنْدَ الشُّبُهَاتِ، كَثِيرُ
-الْعِطَاءِ، قَلِيلُ الأَذى، عَوْناً لِلْغَرِيبِ، وَ أَباً
-لِلْيَـتِيمِ…
-  </p>
-</blockquote>
+> …بَرِيئاً مِنَ الْمُحَرَّمَاتِ، وَاقِفاً عِنْدَ الشُّبُهَاتِ، كَثِيرُ
+> الْعِطَاءِ، قَلِيلُ الأَذى، عَوْناً لِلْغَرِيبِ، وَ أَباً
+> لِلْيَـتِيمِ…
 
 ”(The true believer is one who) stays away from all prohibited things;
 is at a standstill when it comes to things which are doubtful (in the
@@ -79,13 +75,9 @@ earnings he gained on that night, he presented to the Prophet (S). The
 Munafiqun (Hypocrites) started to make fun of this person, then the
 following verse of the Qur\`an was revealed:
 
-<blockquote dir="rtl">
-  <p>
-أَلَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِــي
-الصَّدَقَاتِ وَالَّذِينَ لاَ يَجِدُونَ إِلاَّ جُهْدَهُمْ فَيَسْخَرُونَ
-مِنْهُمْ سَخِرَ اللٌّهُ مِــنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> أَلَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِــي
+> الصَّدَقَاتِ وَالَّذِينَ لاَ يَجِدُونَ إِلاَّ جُهْدَهُمْ فَيَسْخَرُونَ
+> مِنْهُمْ سَخِرَ اللٌّهُ مِــنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 “Those who taunt those of the Faithful, who give their Sadaqat (charity)
 freely, and also those who give to the extent of their earnings and
@@ -139,5 +131,4 @@ characteristics of a true believer who has perfected his faith!
   
 
 [^1]: Surat al-Tawbah (9), Verse 79
-
 

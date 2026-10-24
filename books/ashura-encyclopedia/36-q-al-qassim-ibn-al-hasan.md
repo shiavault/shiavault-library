@@ -10,4 +10,3 @@ Husayn ran to him and told the others to come and take him to the tents
 because he could not stand taking his body by himself. Al-Qassim was
 also known for being handsome.
 
-

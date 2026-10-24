@@ -132,4 +132,3 @@ which is less than disbelief.”*
 
 [^4]: The Qur’an 12:106.
 
-

@@ -214,4 +214,3 @@ to Allah. It does not matter if you injury yourself intentionally or
 unintentionally, so called fatwas will never be able to stop the azadari
 of Imam Hussain (as).
 
-

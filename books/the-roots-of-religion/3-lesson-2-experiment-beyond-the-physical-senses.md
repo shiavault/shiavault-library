@@ -327,4 +327,3 @@ mentioned in the text?
 
 [^2]: Usul al-kafi part one, pag. 78 (abridged version).
 
-

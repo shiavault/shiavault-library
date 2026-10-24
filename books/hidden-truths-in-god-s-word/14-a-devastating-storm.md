@@ -7,11 +7,7 @@ A Devastating Storm
 > جَاؤُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتْ
 > الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ
 > الظُّنُونَا {o} هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا
-<blockquote dir="rtl">
-  <p>
-زِلْزَالًا شَدِيدًا
-  </p>
-</blockquote>
+> زِلْزَالًا شَدِيدًا
 
 ***O you who have faith! Remember Allah’s blessings upon you when the
 hosts came at you, and We sent against them a strong wind, and hosts
@@ -167,12 +163,8 @@ Tawba which state:
 > تَعْمَلُونَ {o} سَيَحْلِفُونَ بِاللّهِ لَكُمْ إِذَا انقَلَبْتُمْ
 > إِلَيْهِمْ لِتُعْرِضُواْ عَنْهُمْ فَأَعْرِضُواْ عَنْهُمْ إِنَّهُمْ
 > رِجْسٌ وَمَأْوَاهُمْ جَهَنَّمُ جَزَاء بِمَا كَانُواْ يَكْسِبُونَ {o}
-<blockquote dir="rtl">
-  <p>
-يَحْلِفُونَ لَكُمْ لِتَرْضَوْاْ عَنْهُمْ فَإِن تَرْضَوْاْ عَنْهُمْ
-فَإِنَّ اللّهَ لاَ يَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> يَحْلِفُونَ لَكُمْ لِتَرْضَوْاْ عَنْهُمْ فَإِن تَرْضَوْاْ عَنْهُمْ
+> فَإِنَّ اللّهَ لاَ يَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ
 
 ***They will offer excuses to you when you return to them. Say: Do not
 make excuses; we will never believe you. Allah has informed us of you
@@ -234,5 +226,4 @@ else could have decisively foretold the aberrant actions of the
 hypocrites, and accurately announce their future words?  
  Undoubtedly this incident is a miracle of the Qur’an which has not been
 denied by any opponents of Islam.
-
 

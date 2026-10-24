@@ -186,4 +186,3 @@ Imamate, or divine guidance, that makes the entire New Testament
 relevant. Without such an authority figure, the Hebrew Scriptures,
 coupled with Rabbinical method, clearly suffice.
 
-

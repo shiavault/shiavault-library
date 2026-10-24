@@ -29,7 +29,6 @@ can you not notice such an obvious matter The verse continues saying:
 "... Indeed I have lived amongst you a lifetime before it. Have you
 then no sense ?'"
 
-
 **Commentar : Verse 17**
 
 (17) فَمَنْ أَظْلَمُ مِمَّنِ افْتَرى‏ عَلَى اللَّهِ كَذِباً أَوْ
@@ -56,7 +55,6 @@ any event, this action of theirs is a grave offence and those who
 perpetrate it will never be saved. The verse says:
 
 "... Verily the guilty ones will never prosper. "
-
 
 **Commentary : Verse 18**
 
@@ -111,7 +109,6 @@ verse says:
 "... Glory be to Him! High be He exalted above what they associate(with
 Him). "
 
-
 **Commentary : Verse 19**
 
 (19) وَ ما كانَ النَّاسُ إِلاَّ أُمَّةً واحِدَةً فَاخْتَلَفُوا وَ لَوْ
@@ -156,7 +153,6 @@ meet their painful fate. The verse says:
 
 "... and had not a Word already gone forth from your Lord, their
 differences would have been judged between them. "
-
 
 **Commentary : Verse 20**
 
@@ -203,5 +199,4 @@ Prophet(p.b.u.h.) should expect victory. The verse says:
 
 "... Wait you then, verily I, also with you, will be of those who
 wait'. ..."
-
 

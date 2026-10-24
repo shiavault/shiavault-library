@@ -8,12 +8,8 @@ alongside brothers with happiness, alongside the poor with selflessness
 and alongside the children of this world with magnanimity.
 
 > 1ـ اَلطَّعامُ يُؤْكَلُ عَلى ثَلاثَةِ أضْرُب: مَعَ الإخْوانِ
-<blockquote dir="rtl">
-  <p>
-بِالسُّرُورِ،وَ مَعَ الفُقَراءِ بِالإيثارِ، ومَعَ أبناءِ الدُّنيا
-بِالمُرُوءَةِ.
-  </p>
-</blockquote>
+> بِالسُّرُورِ،وَ مَعَ الفُقَراءِ بِالإيثارِ، ومَعَ أبناءِ الدُّنيا
+> بِالمُرُوءَةِ.
 
 2. How bad a food the forbidden [food] is!
 
@@ -32,11 +28,7 @@ ill [because of it].
 getting afflicted by sicknesses.
 
 > 5ـ قَلَّ مَنْ أكْثَرَ مِنْ فُضُولِ الطَّعامِ إلاّ لَزِمَتْهُ
-<blockquote dir="rtl">
-  <p>
-الأسْقامُ.
-  </p>
-</blockquote>
+> الأسْقامُ.
 
 6. Eating less food is more honorable for the soul and makes good health
 last longer.
@@ -47,11 +39,7 @@ last longer.
 this.
 
 > 7ـ كُلُوا الأُتْرُجَّ قَبْلَ الطَّعامِ وبَعْدَهُ ف آلُ مُحَمَّد
-<blockquote dir="rtl">
-  <p>
-يَفْعَلُونَ ذلِكَ.
-  </p>
-</blockquote>
+> يَفْعَلُونَ ذلِكَ.
 
 8. Whoever eats less, his aches [and ailments] are reduced.
 
@@ -65,14 +53,9 @@ this.
 the fruit of a variety of maladies.
 
 > 10ـ مَنْ غَرَسَ في نَفْسهِ مَحَبَّةَ أنْواعِ الطَّعامِ اِجْتَنى ثِمارَ
-<blockquote dir="rtl">
-  <p>
-فُنُونِ الأسْقامِ.
-  </p>
-</blockquote>
+> فُنُونِ الأسْقامِ.
 
 11. Decrease your [consumption of] food and your ailments will reduce.
 
 > 11ـ أقْلِلْ طَعاماً تُقْلِلْ سَقاماً.
-
 

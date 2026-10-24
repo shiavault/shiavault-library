@@ -8,31 +8,15 @@ they satisfied and staying or feeling weak and going astray?" The man
 replied, "They have gone away, O' Amir al-mu'minin." Then Amir
 al-mu'minin said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد أَرسل رجلاً من أصحابه، يَعْلَمُ له عِلمَ [أحوال] قوم من جند
-الكوفة، همّوا باللحاق بالخوارج، وكانوا على خوف منه (عليه السلام)،
-فلمّا عاد إليه الرجل قال له:
-  </p>
-</blockquote>
+> وقد أَرسل رجلاً من أصحابه، يَعْلَمُ له عِلمَ [أحوال] قوم من جند
+> الكوفة، همّوا باللحاق بالخوارج، وكانوا على خوف منه (عليه السلام)،
+> فلمّا عاد إليه الرجل قال له:
 
-<blockquote dir="rtl">
-  <p>
-أأمِنُوا فَقَطَنُوا، أم جبنوا فَظَعَنُوا؟
-  </p>
-</blockquote>
+> أأمِنُوا فَقَطَنُوا، أم جبنوا فَظَعَنُوا؟
 
-<blockquote dir="rtl">
-  <p>
-): . فقال (عليه السلام فقال الرجل: بل ظَعَنُوا يا أَميرالمؤمنين.
-  </p>
-</blockquote>
+> ): . فقال (عليه السلام فقال الرجل: بل ظَعَنُوا يا أَميرالمؤمنين.
 
 May Allah's mercy remain away from them
 
@@ -45,17 +29,13 @@ with them, and will leave them. Their departing from guidance, returning
 to misguidance and blindness, turning away from truth and falling into
 wrong is enough (for their chastisement).
 
-<blockquote dir="rtl">
-  <p>
-بُعْداً لَهُمْ (كَمَا بَعِدَتْ ثَمُودُ)! أَمَا لَوْ أُشْرِعَتِ
-الاْسِنَّةُ إِلَيْهِمْ وَصُبَّتِ السُّيُوفُ عَلَى هَامَاتِهمْ، لَقَدْ
-نَدِمُوا عَلَى مَا كَانَ مِنْهُمْ، إنَّ الشَّيْطَانَ الْيَوْمَ قَدِ
-اسْتَقَلَّهُمْ، وَهُوَ غَداً مُتَبَرِّىءٌ مِنْهُمْ، وَمُخلٍّ عَنْهُمْ،
-فَحَسْبُهُمْ بِخُرُوجِهمْ مِنَ الْهُدَى، وَارْتِكَاسِهِمْ فِي
-الضَّلاَل وَالْعَمَى، وَصَدِّهِمْ عَنِ الْحَقّ، وَجِمَاحِهمْ فِي
-التِيهِ.
-  </p>
-</blockquote>
+> بُعْداً لَهُمْ (كَمَا بَعِدَتْ ثَمُودُ)! أَمَا لَوْ أُشْرِعَتِ
+> الاْسِنَّةُ إِلَيْهِمْ وَصُبَّتِ السُّيُوفُ عَلَى هَامَاتِهمْ، لَقَدْ
+> نَدِمُوا عَلَى مَا كَانَ مِنْهُمْ، إنَّ الشَّيْطَانَ الْيَوْمَ قَدِ
+> اسْتَقَلَّهُمْ، وَهُوَ غَداً مُتَبَرِّىءٌ مِنْهُمْ، وَمُخلٍّ عَنْهُمْ،
+> فَحَسْبُهُمْ بِخُرُوجِهمْ مِنَ الْهُدَى، وَارْتِكَاسِهِمْ فِي
+> الضَّلاَل وَالْعَمَى، وَصَدِّهِمْ عَنِ الْحَقّ، وَجِمَاحِهمْ فِي
+> التِيهِ.
 
 Alternative Sources for Sermon 181
 ----------------------------------
@@ -94,5 +74,4 @@ the delay. On reaching there \`Abdullah found that all of them had left.
 When he returned to Amir al-mu'minin he spoke as in this sermon. The
 fate that befell al-Khirrit ibn Rashid an-Naji has been stated under
 Sermon 44.
-
 

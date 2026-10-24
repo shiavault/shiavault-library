@@ -148,4 +148,3 @@ the part of those who rely on it.
 
 [^2]: \* \* Not found in N.
 
-

@@ -454,4 +454,3 @@ his inward state is what was important. Was he dependent upon the flimsy
 net­work of the so-called sahaba (companions) or was he de­pendent upon
 the Creator of the network?
 
-

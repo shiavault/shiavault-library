@@ -17,4 +17,3 @@ and tafwid, Mur. ii. 142 -143.
 
 [^2]: MC, 157, 210, 213; BHA, no.119;FC, nos.95 -96; Affifi, 154.
 
-

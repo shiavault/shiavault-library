@@ -13,14 +13,10 @@ hereafter, while to neglect them causes perdition (42:23)***
 
 Addressing Mu’alla ibn Khunays, Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-يا مُعَلَّي ! لوْ أنَّ عَبْداً عَبَدَ اللّهَ مِائةً عامٍ بَيْنَ
-الرُّكْن و المَقامِ، يصُومُ النَّهارَ وَيَقوُمُ اللَّىلَ حَتَّي
-يَسْقُطُ حَاجباهُ عَلي عَيْنَيْهِ، وتَلْتَقِقي تَرَاقيهِ هَرَماً،
-جَاهِلاَ بحَقنَا لَهُ ثوَابٌّ.
-  </p>
-</blockquote>
+> يا مُعَلَّي ! لوْ أنَّ عَبْداً عَبَدَ اللّهَ مِائةً عامٍ بَيْنَ
+> الرُّكْن و المَقامِ، يصُومُ النَّهارَ وَيَقوُمُ اللَّىلَ حَتَّي
+> يَسْقُطُ حَاجباهُ عَلي عَيْنَيْهِ، وتَلْتَقِقي تَرَاقيهِ هَرَماً،
+> جَاهِلاَ بحَقنَا لَهُ ثوَابٌّ.
 
 O Mu’alla, if a servant of Allah worships Him between the Rukn (corner)
 and Maqam (standing-place) of Kabah for a hundred years, keeping fast on
@@ -50,12 +46,8 @@ pure drink of their knowledge.
 Should we wish to win Allah's favor, we must follow Ahl al-Bayt
 wholeheartedly, on the basis of the following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلُ إ إِن كُنتُمْ تُحِبُّونَ اَللَّهُ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اَللَّهُ
-  </p>
-</blockquote>
+> قُلُ إ إِن كُنتُمْ تُحِبُّونَ اَللَّهُ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اَللَّهُ
 
 ***Say, if you love Allah, then follow me, Allah will love you.
 (3:31)***
@@ -69,13 +61,9 @@ hellfire. Love for Ahl al-Bayt will make it possible for us to cross the
 The Holy Prophet has been quoted by Sheikh Qunduzi (a Hanafite scholar)
 to say:
 
-<blockquote dir="rtl">
-  <p>
-مَعْرِفَةَ آل مُحَمًّدٍ بَرَاءَةٌ مِنَ النَّارِ، وَحُبُّ آل مُحَمَّدٍّ
-جَوَازٌ عَلى اصَرَاطِ، وَالوِلأيةٌ لآل مُحَمَّدٍ أمَانٌ مِنَ
-العَذَابِ.
-  </p>
-</blockquote>
+> مَعْرِفَةَ آل مُحَمًّدٍ بَرَاءَةٌ مِنَ النَّارِ، وَحُبُّ آل مُحَمَّدٍّ
+> جَوَازٌ عَلى اصَرَاطِ، وَالوِلأيةٌ لآل مُحَمَّدٍ أمَانٌ مِنَ
+> العَذَابِ.
 
 Getting to know the family of Muhammad (S) is means for being saved from
 the fire. Love for the family of Muhammad (S) will ease crossing the
@@ -89,20 +77,16 @@ Sheikh Sulayman Qunduzi and Ibrahim ibn Muhammad Juwayni, two
 outstanding fair-minded Sunni scholars have quoted that the Holy Prophet
 (S) has said about Imam Ali (a.s.) and the Imams following him,
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِىُّ! أنا مَدِىنةٌّ العلمِ و اَنٌتَ باَبٌهَا، وَلنْ تٌؤْتَي
-المَديِنَةَ إلأ مِن قِبَلِ اَلبَابِ، وَكَذِبَ مِنْ زَعَمَ أنَّهُ
-يُحِبُّنِي وَىُبْغِضُكَ، لأِنَّكَ مِنَّيِ وَأنَا مِنْككَ. لَحْمُكَ
-لَحْمِي، و دَمُكَ مِنْ دَمِي، وَرُوحِكَ مِنْ رُوحِي، وسَرِيرَتُكَ مِنْ
-سَرِيرَتِي، وعَلانِيَتُكَ مِنْ عَلانِيَتِي، و رَبِحَ مَنْ تَولأكَ وَ
-خَسِرَ مَنْ عَادَاكَ، وَفَازَ مَنْ لَزِمَكَ وَهَلَكَ مَنْ فَارَقَكَ.
-مَثَلُكَ وَمَثَلُ الأئِمَّةِ مِنْ وُلدِكَ بَعْدِي مَثَلُ سَفِينَةِ
-نُوحٍ ؛ مَنْ رَكِبَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا غَرِقَ.
-وَمَثَلُكُمْ كَمَثَلِ النئُّجُمِ، كُلَّمَا غَابَ نَجْمٌ طَلَعَ نَجَمٌ
-أِليي ىَومِ القِيَامَةِ.
-  </p>
-</blockquote>
+> يَا عَلِىُّ! أنا مَدِىنةٌّ العلمِ و اَنٌتَ باَبٌهَا، وَلنْ تٌؤْتَي
+> المَديِنَةَ إلأ مِن قِبَلِ اَلبَابِ، وَكَذِبَ مِنْ زَعَمَ أنَّهُ
+> يُحِبُّنِي وَىُبْغِضُكَ، لأِنَّكَ مِنَّيِ وَأنَا مِنْككَ. لَحْمُكَ
+> لَحْمِي، و دَمُكَ مِنْ دَمِي، وَرُوحِكَ مِنْ رُوحِي، وسَرِيرَتُكَ مِنْ
+> سَرِيرَتِي، وعَلانِيَتُكَ مِنْ عَلانِيَتِي، و رَبِحَ مَنْ تَولأكَ وَ
+> خَسِرَ مَنْ عَادَاكَ، وَفَازَ مَنْ لَزِمَكَ وَهَلَكَ مَنْ فَارَقَكَ.
+> مَثَلُكَ وَمَثَلُ الأئِمَّةِ مِنْ وُلدِكَ بَعْدِي مَثَلُ سَفِينَةِ
+> نُوحٍ ؛ مَنْ رَكِبَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا غَرِقَ.
+> وَمَثَلُكُمْ كَمَثَلِ النئُّجُمِ، كُلَّمَا غَابَ نَجْمٌ طَلَعَ نَجَمٌ
+> أِليي ىَومِ القِيَامَةِ.
 
 O Ali, I am the city of knowledge and you are the gate thereof. The city
 cannot be entered except through its gate. The one who is thinking he
@@ -121,11 +105,7 @@ star will appear until the Judgment Day.[^3]
 Allah recommends His servants to resort to His covenant, which
 necessitates getting to know *Hablullah*:
 
-<blockquote dir="rtl">
-  <p>
-وَاَعْتَصِمُواْ بِحَبْلِ اَللَّهِ جَمِيعاً وَلَا تَفَرَّقُواْ
-  </p>
-</blockquote>
+> وَاَعْتَصِمُواْ بِحَبْلِ اَللَّهِ جَمِيعاً وَلَا تَفَرَّقُواْ
 
 ***And hold fast by the covenant of Allah all together and be not
 disunited. (3:13)***
@@ -133,12 +113,8 @@ disunited. (3:13)***
 Imam al-Baqir (a.s) has said about the meaning of this covenant with
 Allah:
 
-<blockquote dir="rtl">
-  <p>
-آلُ مُحَمَّدٍ، صَلْوَاتُ اللَّهِ عَلَيْهِمْ، هُمْ حَبْلُ اللَّهِ
-الْمَتِينُ الَّذِي أمَرَ بِللإعْتِصَامِ بِهِ.
-  </p>
-</blockquote>
+> آلُ مُحَمَّدٍ، صَلْوَاتُ اللَّهِ عَلَيْهِمْ، هُمْ حَبْلُ اللَّهِ
+> الْمَتِينُ الَّذِي أمَرَ بِللإعْتِصَامِ بِهِ.
 
 The Household of Muhammad is the covenant of Allah as recommended by
 Allah.[^4]
@@ -192,12 +168,8 @@ Quran.
 
 In verse 33 of the Quranic Chapter, the Allies (*al-Ahzab*), we read:
 
-<blockquote dir="rtl">
-  <p>
-لِىُزْهِبَ عَنكُمْ الرِّجْسَ أَهْلَ الْبَيْتِ ويُطَهِرَكُم تَطهِيراً
-إِنَّمَا ىُرِيدُ اللَّهُ
-  </p>
-</blockquote>
+> لِىُزْهِبَ عَنكُمْ الرِّجْسَ أَهْلَ الْبَيْتِ ويُطَهِرَكُم تَطهِيراً
+> إِنَّمَا ىُرِيدُ اللَّهُ
 
 Allah only desires to keep away the uncleanness from you, O people of
 the House (Ahl al-Bayt), and to purify you with a thorough purifying.
@@ -242,12 +214,8 @@ Reporting Tamimi, al-Awwam ibn Hawshab said, “One day when I went to see
 Aishah, she had seen Allah’s Messenger calling for Ali, Fatimah, Hasan
 and Husayn saying:
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ هَؤُلأءِ أهْلُ بَيْتِي، فأدْهِبْ عَنْهُمْ الرِّجْسَ
-وَطَهَّرْهُمْ تَطْهِيراً.
-  </p>
-</blockquote>
+> أَللَّهُمَّ هَؤُلأءِ أهْلُ بَيْتِي، فأدْهِبْ عَنْهُمْ الرِّجْسَ
+> وَطَهَّرْهُمْ تَطْهِيراً.
 
 O Allah, these are the people of my House (Ahl al-Bayt). So keep away
 uncleanness from them and purify them with a thorough purifying.[^6]
@@ -270,21 +238,17 @@ your Ahl al Bayt? He answered: you are good, you are good. [^7]
 Reporting Umar ibn Khattab, Isa ibn Abdullah ibn Malik says: I heard
 Allah’s Messenger saying:
 
-<blockquote dir="rtl">
-  <p>
-أيُّهَا النَّاسُ! إنِّي فَرْطٌ لَكُمْ وَإنَّكُمْ وَارِدُونَ عَلَىَّ
-الحوضَ؛ حَوْضاً أعْرَضَ مِمَّا بَيْنَ صَنْعَاءَ وَبُصْرَي، فِيهِ
-قِدْحَانٌ عَدَدَ النُّجُومِ مِنْ فِضَّةٍ، وَإنِّي سَائِلُكُم حِينَ
-تَرِدُونَ عَلىَّ عَنِ الثَقَلًيْنِ، فَانْظُرُو كَيفَ تُخَلَّفُونِّى
-فِيهِمَا: اسَّبَبِ الأكْبَرِ كِتَابِ اللَّهِ، طَرْفُهُ بِيَدِ اللَّهِ
-وطَرْفُهُ بِأيْدِكُمْ، فَاسْتَمْسِكُوا بِهِ وَلاتُبَدِّلُوا،
-وعَِتْرَتِي أهْلِبَيْتِي، فَأنَّهُ قَدْ نَبَّأنِيَ اللَّطِيفُ
-الخَبِيرُ أنَّهُمَا لَّن يَقْتَرِقَا حَتَّي يَرِدَا عَلَيَّ
-الحَوْضَ... أهْلُ بَيتِي مِنْ وَلِدِ عَلِيٍّ و فَاطِمَة و الحَسَنِ و
-الحُسَيْنِ و تِسْعَةٍ مِنْ صُلُبِ الحُسَيْنِ، أئِمَّةٍ أبْرَارٍ.
-عِتْرَتِي مِنْ لَحْمِي وَدَمِي.
-  </p>
-</blockquote>
+> أيُّهَا النَّاسُ! إنِّي فَرْطٌ لَكُمْ وَإنَّكُمْ وَارِدُونَ عَلَىَّ
+> الحوضَ؛ حَوْضاً أعْرَضَ مِمَّا بَيْنَ صَنْعَاءَ وَبُصْرَي، فِيهِ
+> قِدْحَانٌ عَدَدَ النُّجُومِ مِنْ فِضَّةٍ، وَإنِّي سَائِلُكُم حِينَ
+> تَرِدُونَ عَلىَّ عَنِ الثَقَلًيْنِ، فَانْظُرُو كَيفَ تُخَلَّفُونِّى
+> فِيهِمَا: اسَّبَبِ الأكْبَرِ كِتَابِ اللَّهِ، طَرْفُهُ بِيَدِ اللَّهِ
+> وطَرْفُهُ بِأيْدِكُمْ، فَاسْتَمْسِكُوا بِهِ وَلاتُبَدِّلُوا،
+> وعَِتْرَتِي أهْلِبَيْتِي، فَأنَّهُ قَدْ نَبَّأنِيَ اللَّطِيفُ
+> الخَبِيرُ أنَّهُمَا لَّن يَقْتَرِقَا حَتَّي يَرِدَا عَلَيَّ
+> الحَوْضَ... أهْلُ بَيتِي مِنْ وَلِدِ عَلِيٍّ و فَاطِمَة و الحَسَنِ و
+> الحُسَيْنِ و تِسْعَةٍ مِنْ صُلُبِ الحُسَيْنِ، أئِمَّةٍ أبْرَارٍ.
+> عِتْرَتِي مِنْ لَحْمِي وَدَمِي.
 
 O people, I am leading you and you will come to me at the pond; a pond -
 the expanse of which is from Sanaa to Busra and is as much as the
@@ -304,14 +268,10 @@ Musa ibn Abd-Rabbih says: I heard from Husayn ibn Ali in the Prophet’s
 Mosque at the time of his father Ali (a.s.), saying: I have heard the
 saying of Allah’s Messenger:
 
-<blockquote dir="rtl">
-  <p>
-ألأ إنَّ أهْلَ بَيتِي أمَانٌ لَكُمْ فَأحِبٌّوهُمْ لِحُبِّي و
-تَمَسَّكُوا بِهِمْ لَنْ تَضِلُّوا. عَلِيٌّ وسِبْطَايَ وَتِسْعَةٌ مِنْ
-وُلْدِ الحُسَيْن؛ أئِمَّةٌ أمَنَاءُ مَعْصُومُونَ. ألأ إنَّهُمْ أهْلُ
-بَيْتِي و عِتْرتِي، مِنْ لَحْمِي و دَمِّي .
-  </p>
-</blockquote>
+> ألأ إنَّ أهْلَ بَيتِي أمَانٌ لَكُمْ فَأحِبٌّوهُمْ لِحُبِّي و
+> تَمَسَّكُوا بِهِمْ لَنْ تَضِلُّوا. عَلِيٌّ وسِبْطَايَ وَتِسْعَةٌ مِنْ
+> وُلْدِ الحُسَيْن؛ أئِمَّةٌ أمَنَاءُ مَعْصُومُونَ. ألأ إنَّهُمْ أهْلُ
+> بَيْتِي و عِتْرتِي، مِنْ لَحْمِي و دَمِّي .
 
 Behold! My Ahl al-Bayt are security and mercy for you. Therefore, love
 them for my sake and resort to them so that you will never go astray…
@@ -342,14 +302,10 @@ Getting to know Ahl al-Bayt will lead to salvation, nearness to Allah
 and a true understanding of Islam. In this relation, Imam Ali (a.s) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-أسْعَدُ انَّاسِ مَنْ عَرَفِ فَضْلَنَا، وَتَقَرَّبَإ إلَي الَّلهِ
-بَنَا، وَأخْلَصَ حُبَّنَا، وَعَمِلَ بِمَا إلَىْهِ نَدَبْنَا،
-وَانْتَهَى عَمَّا عَنْهُ نَهَينَا، فَذَاكَ مِنَّا وَهُوَا فِى دَارِ
-الْمُقَامَةِ مَعَنَا.
-  </p>
-</blockquote>
+> أسْعَدُ انَّاسِ مَنْ عَرَفِ فَضْلَنَا، وَتَقَرَّبَإ إلَي الَّلهِ
+> بَنَا، وَأخْلَصَ حُبَّنَا، وَعَمِلَ بِمَا إلَىْهِ نَدَبْنَا،
+> وَانْتَهَى عَمَّا عَنْهُ نَهَينَا، فَذَاكَ مِنَّا وَهُوَا فِى دَارِ
+> الْمُقَامَةِ مَعَنَا.
 
 The happiest people are those who recognized our superiority and
 excellence, sought nearness to Allah through us, loved us sincerely,
@@ -360,15 +316,11 @@ eternal Paradise.[^10]
 Zara’ah says: I said to Imam al-Sadiq (a.s.): After getting to know
 Allah, which deed is most excellent? The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَىْءٍ بَعْدَ الْمَعْرِفَةِ يَعْدِلُ هَذِهِ الصَّلأةَ، وَلأ
-بَعْدَ الْمعْرِفَةِ وَاصَّلأةِ شَىْءٌ ىَعْدِلُ الَّزَّكَاةَ، وَلأ
-بَعْدَ ذَالِكَ شَىْءٌ يَعْدِلُ اصَّومَ، وَلأ بَعْدَ ذَلِكَ شَىْءٌ
-يَعْدِلُ الحَجَّ، وفَاتِحَةٌ ذَالِكَ كُلِّهِ مَعْرِفَتُنَا،
-وَخَاتِمَتُهُ مَعْرِفَتُنَا.
-  </p>
-</blockquote>
+> مَا مِنْ شَىْءٍ بَعْدَ الْمَعْرِفَةِ يَعْدِلُ هَذِهِ الصَّلأةَ، وَلأ
+> بَعْدَ الْمعْرِفَةِ وَاصَّلأةِ شَىْءٌ ىَعْدِلُ الَّزَّكَاةَ، وَلأ
+> بَعْدَ ذَالِكَ شَىْءٌ يَعْدِلُ اصَّومَ، وَلأ بَعْدَ ذَلِكَ شَىْءٌ
+> يَعْدِلُ الحَجَّ، وفَاتِحَةٌ ذَالِكَ كُلِّهِ مَعْرِفَتُنَا،
+> وَخَاتِمَتُهُ مَعْرِفَتُنَا.
 
 After getting to know Allah, nothing is equal to daily prayers. After
 prayer nothing is equal to paying the poor-rate; and after these nothing
@@ -384,12 +336,8 @@ injunctions.
 
 The Holy Prophet has been reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَنَّ الَّلهُ عَلَيْهِ بَمَعْرِفَةِ أهْلِ بَىتِي وَ وِلأىَتِهِمْ
-فَقَدْ جَمَعَ الَّلهُ لَهُ الْخَيْرَ كٌلَّهُ
-  </p>
-</blockquote>
+> مَنْ مَنَّ الَّلهُ عَلَيْهِ بَمَعْرِفَةِ أهْلِ بَىتِي وَ وِلأىَتِهِمْ
+> فَقَدْ جَمَعَ الَّلهُ لَهُ الْخَيْرَ كٌلَّهُ
 
 He, who has been favored by Allah to get to know my Ahl al-Bayt and
 their Imamate, has certainly had all the goods gathered for him by
@@ -398,22 +346,14 @@ Allah.[^12]
 Reporting Imam al-Sadiq (a.s.) in the interpretation of the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُؤْتَ ألْحِكْمَةَ فَقَدْ أُوتِيَ خَيْراً كَثِىرا.ً
-  </p>
-</blockquote>
+> وَمَن يُؤْتَ ألْحِكْمَةَ فَقَدْ أُوتِيَ خَيْراً كَثِىرا.ً
 
 ***He grants wisdom to whomsoever He pleases, and whosoever is granted
 wisdom, he indeed is given a great good… (2:269)***
 
 Abu-Basir says:
 
-<blockquote dir="rtl">
-  <p>
-طَاعَةٌ الَّلهِ وَ مَعْرَفَةٌ الإمَامِ
-  </p>
-</blockquote>
+> طَاعَةٌ الَّلهِ وَ مَعْرَفَةٌ الإمَامِ
 
 It )great good) is to obey Allah and to get to know the Imams.[^13]
 
@@ -446,12 +386,8 @@ choice has given it both dignity and superiority, making it distinct
 among all other places. Imam al-Sadiq (a.s.) has been reported as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-أنَّ الَّلهِ اِخْتَارَ مَنْ كُلَّ شيءٍ شَيْئاً وَ اَخْتا رَ مِنْ كُلِّ
-شَيْءٍ شَيْئاً وَاخْتَارَ مِنَ الأرْضٍ مَوضِعَ الْكَعْبَةِ.
-  </p>
-</blockquote>
+> أنَّ الَّلهِ اِخْتَارَ مَنْ كُلَّ شيءٍ شَيْئاً وَ اَخْتا رَ مِنْ كُلِّ
+> شَيْءٍ شَيْئاً وَاخْتَارَ مِنَ الأرْضٍ مَوضِعَ الْكَعْبَةِ.
 
 Allah has chosen one thing from among all things and has chosen the
 Kabah from among all the places on the earth.[^14]
@@ -463,11 +399,7 @@ Whoever enters that place shall be secure:
 
 > إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا
 > وَهُدًى لِلْعَالَمِينَ {96} فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ
-<blockquote dir="rtl">
-  <p>
-إِبْرَاهِيمَ ۖ
-  </p>
-</blockquote>
+> إِبْرَاهِيمَ ۖ
 
 > وَمَنْ دَخَلَهُ كَانَ آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ
 > الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ
@@ -480,13 +412,9 @@ standing-place of Ibrahim, and whoever enters it shall be secure.***
 
 Imam al-Sadiq (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ اتَى الكَعْبَة فَعَرَفَ مِنْ حَقَهَا و حُرمَتِهَا لَمْ يَخْرُجُ
-مِن مَكَّة إلأ وَقَدْ غَفَرَ الَّلهُ لَهُ ذُنُوبَهُ وَ كَفَاهُ الَّلهُ
-مَا يُهِمُّهُ مِنْ أَمْرِ دُنْياهُ وَآخِرَتِهِ.
-  </p>
-</blockquote>
+> مَنْ اتَى الكَعْبَة فَعَرَفَ مِنْ حَقَهَا و حُرمَتِهَا لَمْ يَخْرُجُ
+> مِن مَكَّة إلأ وَقَدْ غَفَرَ الَّلهُ لَهُ ذُنُوبَهُ وَ كَفَاهُ الَّلهُ
+> مَا يُهِمُّهُ مِنْ أَمْرِ دُنْياهُ وَآخِرَتِهِ.
 
 Whoever comes to the Kabah and recognizes part of its holiness, his sins
 will be forgiven by Allah Who is sufficient for his affairs this world
@@ -542,12 +470,8 @@ It is praiseworthy to pay attention to *ayyamullah* for learning lessons
 from the past events. Allah has mentioned *ayyamullah* in the Holy Quran
 to awaken nations:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مُو‌‍‎سَي بِأَيَتِنَآ أَنْ أَخْرَجْ قَوْمَكَ مِنَ
-اٌلظُّلُمَاتِ إِلَي اٌنُّورِ وَذَكِّرْهُم بِأَيَّمِ اٌلَّلهِ.
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مُو‌‍‎سَي بِأَيَتِنَآ أَنْ أَخْرَجْ قَوْمَكَ مِنَ
+> اٌلظُّلُمَاتِ إِلَي اٌنُّورِ وَذَكِّرْهُم بِأَيَّمِ اٌلَّلهِ.
 
 ***And certainly We sent Musa with Our communications, saying: Bring
 forth your people from utter*** ***darkness into light and remind them
@@ -565,11 +489,7 @@ piety are of the highest value. In this relation, the Holy Quran has
 delicate and precise references:
 
 > }11 يَرْفَعِ اٌالَّلهِ الَّزِينَ ءَ امَنُ اْمِنْكُم وَاٌللَّزِينَ
-<blockquote dir="rtl">
-  <p>
-أُوتُواْ اٌلْعِلْمَ دَرَجَتتٍج وَاٌلَّلهُ بِمَا تَعْمَلُونَ خَبِيرٌ {
-  </p>
-</blockquote>
+> أُوتُواْ اٌلْعِلْمَ دَرَجَتتٍج وَاٌلَّلهُ بِمَا تَعْمَلُونَ خَبِيرٌ {
 
 ***Allah will exalt those of you who believe, and those who are given
 knowledge, in high degrees; and Allah is Aware of what you do.
@@ -582,45 +502,29 @@ messenger, to please a believer as to please Allah and His messenger and
 to vex a believer as to vex Allah and His Messenger. Reporting the Holy
 Prophet, Imam al-Baqir (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ سَرَّ مُؤْمِناً فَقَدْ سَرَّنِي، وَمَنْ سَرَّنِي فَقَدْ سَرَّ
-الَّله.
-  </p>
-</blockquote>
+> مِنْ سَرَّ مُؤْمِناً فَقَدْ سَرَّنِي، وَمَنْ سَرَّنِي فَقَدْ سَرَّ
+> الَّله.
 
 Whoever makes a believer happy has indeed made me happy and whoever
 makes me happy has certainly made Allah happy.[^17]
 
-<blockquote dir="rtl">
-  <p>
-مَا عُبِدَ الَّلهُ بِشَيْءٍ أحَبَّ إليى الَّلهِ مِن اِدْخَالِ اسُّرُرِ
-عَلى الْمُؤْمِنِ.
-  </p>
-</blockquote>
+> مَا عُبِدَ الَّلهُ بِشَيْءٍ أحَبَّ إليى الَّلهِ مِن اِدْخَالِ اسُّرُرِ
+> عَلى الْمُؤْمِنِ.
 
 Allah has not been worshipped with anything better than making a
 believer happy.[^18]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-لَقَضَاءُ حَاجَةِ إمْرِئٍ مُؤْمِنٍ أحَبُّ الَى الَّلهِ مِنْ عِشْرِينَ
-حِجَةٍ كُلُّ حِجَّةٍ يُنْفِقُ فِيها صَاحِبُها مِائةٌ ألْفٍ.
-  </p>
-</blockquote>
+> لَقَضَاءُ حَاجَةِ إمْرِئٍ مُؤْمِنٍ أحَبُّ الَى الَّلهِ مِنْ عِشْرِينَ
+> حِجَةٍ كُلُّ حِجَّةٍ يُنْفِقُ فِيها صَاحِبُها مِائةٌ ألْفٍ.
 
 To meet the needs of a believer is better in Allah's view than Hajj
 performed by a pilgrim who spends a hundred thousand Dinars on each
 Hajj.[^19]
 
-<blockquote dir="rtl">
-  <p>
-أنْ اُشْبِعَ رَجُلاً مِنْ إخْوانِي أحَبُّ إلَيَّ مِنْ أنْ أدْخُلَ
-سُوقَكُمْ هَذَا فَأبْتَاعُ مِنْهَا رَاساً فَاُعْتِقُهُ.
-  </p>
-</blockquote>
+> أنْ اُشْبِعَ رَجُلاً مِنْ إخْوانِي أحَبُّ إلَيَّ مِنْ أنْ أدْخُلَ
+> سُوقَكُمْ هَذَا فَأبْتَاعُ مِنْهَا رَاساً فَاُعْتِقُهُ.
 
 If a man feeds one of my brothers-in-faith, it is better for me than
 entering the market, buying off a slave and setting him free in the way
@@ -630,31 +534,19 @@ of Allah.[^20]
 
 The Holy Prophet (S), about the superiority of scholars, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَضْلُ الْعَالِمِ عَلَى سَائِرِ النَّاسِ كَفَضْلِي عَلَى أدْنَاهُمُ.
-  </p>
-</blockquote>
+> فَضْلُ الْعَالِمِ عَلَى سَائِرِ النَّاسِ كَفَضْلِي عَلَى أدْنَاهُمُ.
 
 The superiority of men of knowledge to others is like my superiority to
 the humblest of them.[^21]
 
-<blockquote dir="rtl">
-  <p>
-فَضْلُ العالِمُ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ لَيْلَة الْبَدْرِ
-عَلَى سَائِرِ الْكَوَاكِبِ.
-  </p>
-</blockquote>
+> فَضْلُ العالِمُ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ لَيْلَة الْبَدْرِ
+> عَلَى سَائِرِ الْكَوَاكِبِ.
 
 The superiority of a scholar to a worshipper (with no knowledge) is like
 the superiority of the full moon to other stars.[^22]
 
-<blockquote dir="rtl">
-  <p>
-ثَللأثَةٌ يَشْفَعُونَ إلَى الَّلهِ عَزَّ وَجَلَّ فَيُشَفَّعُونَ:
-الأنْبِياءُ ثُمَّ العلَمَاءُ ثُمَّ الشُهَدَاءُ.
-  </p>
-</blockquote>
+> ثَللأثَةٌ يَشْفَعُونَ إلَى الَّلهِ عَزَّ وَجَلَّ فَيُشَفَّعُونَ:
+> الأنْبِياءُ ثُمَّ العلَمَاءُ ثُمَّ الشُهَدَاءُ.
 
 On the Day of Judgment, three groups will intercede with Allah and their
 intercession is accepted: the Prophets, the scholars (ulama) and the
@@ -662,11 +554,7 @@ martyrs.[^23]
 
 Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عَالِمٌ يُنْتَفَعُ بِعِلمِهِ أفْضَلُ مِنْ سَبْعيِنَ ألْفَ عَابِدٍ.
-  </p>
-</blockquote>
+> عَالِمٌ يُنْتَفَعُ بِعِلمِهِ أفْضَلُ مِنْ سَبْعيِنَ ألْفَ عَابِدٍ.
 
 A scholar (*alim*) who benefits from his knowledge is better than
 seventy thousand worshippers (with no knowledge).[^24]
@@ -675,11 +563,7 @@ seventy thousand worshippers (with no knowledge).[^24]
 
 About the people of piety, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنًّ أَكْرَمَكُمْ عِندَ اٌلَّلهِ أَتْقَكُمْ.
-  </p>
-</blockquote>
+> إِنًّ أَكْرَمَكُمْ عِندَ اٌلَّلهِ أَتْقَكُمْ.
 
 ***Surely the most honorable of you with Allah is the one among you most
 pious. (49:13)***
@@ -687,18 +571,10 @@ pious. (49:13)***
 The Holy Prophet says: On the Day of Judgment, Allah will address people
 in this way:
 
-<blockquote dir="rtl">
-  <p>
-أمَرْتُكُمْ فَضَيَّعْتُمْ مَا عَهِدْتُ إلَيْكُمْ فِيهِ، وَرَفَعْتُمْ
-أنْسَابَكُم! فَلْيَوْمَ أرْفَعُ نَسَبِي وَ أضَعُ أنْسَابَكُمْ، أيْنَ
-  </p>
-</blockquote>
+> أمَرْتُكُمْ فَضَيَّعْتُمْ مَا عَهِدْتُ إلَيْكُمْ فِيهِ، وَرَفَعْتُمْ
+> أنْسَابَكُم! فَلْيَوْمَ أرْفَعُ نَسَبِي وَ أضَعُ أنْسَابَكُمْ، أيْنَ
 
-<blockquote dir="rtl">
-  <p>
-الْمُتَّقُونَ؟ إنَّ أكْرَمَكُمْ عِنْدَ الَّلهِ أتْقَاكُم.
-  </p>
-</blockquote>
+> الْمُتَّقُونَ؟ إنَّ أكْرَمَكُمْ عِنْدَ الَّلهِ أتْقَاكُم.
 
 I ordered you (to obey and keep away from Satan) but you ignored the
 covenant and you exalted your ancestry (which is of no use for this
@@ -733,15 +609,11 @@ go astray nor will his life be wasted.
 Both Shiite and Sunni scholars have reported the following narration,
 reported by the Holy Prophet:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي تَارِكٌ فِيكُمْ مَا إنْ تَمَسَّكْتُمْ بِهِ لَنْ تَضِلُّوا
-بَعدي:أحَدُهُمَا أعْظَمُ مِنَ الأَخَرِ، كِتاَبَ الًّلهِ، حَبلٌ
-مَمْدُودٌ مِنَ السًّماءِ إلَى الأرْضِ، وَعِتْرَتِي أهْلَ
-بَيْتِي،وَلَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَليَّ الْحَوْضَ،فَانْظُرُوا
-كَيْفَ تُخَلَّفُونِّي فِيهِما.
-  </p>
-</blockquote>
+> إنِّي تَارِكٌ فِيكُمْ مَا إنْ تَمَسَّكْتُمْ بِهِ لَنْ تَضِلُّوا
+> بَعدي:أحَدُهُمَا أعْظَمُ مِنَ الأَخَرِ، كِتاَبَ الًّلهِ، حَبلٌ
+> مَمْدُودٌ مِنَ السًّماءِ إلَى الأرْضِ، وَعِتْرَتِي أهْلَ
+> بَيْتِي،وَلَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَليَّ الْحَوْضَ،فَانْظُرُوا
+> كَيْفَ تُخَلَّفُونِّي فِيهِما.
 
 Verily, I am leaving among you two valuable things. You will not go
 astray after me as long as you adhere to them. One is greater than the
@@ -756,14 +628,10 @@ The Truth Of Ahl Al- Bayt
 In view of Quranic verses and narrations previously mentioned and based
 on the Quranic verse, *Mubahalah* (mutual curse), which reads:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حآجَّكَ فِيهِ مِنم بَعْدِ ما جآءَكَ مِنَ اٌلْعِلْمِ فَقُل
-تَعَالَوْاْ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسآءَنَا
-وَنِسآءَكُم وَأَنْفُسَنَا وَأَنْفُسَكُم ثُمَّ نَبْتَهِلْ فَنَجْعَل
-لَّعْنَتَ اَلَّلهِ عَلَى اَلْكَذِبِيِنَ ‌‍‎
-  </p>
-</blockquote>
+> فَمَنْ حآجَّكَ فِيهِ مِنم بَعْدِ ما جآءَكَ مِنَ اٌلْعِلْمِ فَقُل
+> تَعَالَوْاْ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسآءَنَا
+> وَنِسآءَكُم وَأَنْفُسَنَا وَأَنْفُسَكُم ثُمَّ نَبْتَهِلْ فَنَجْعَل
+> لَّعْنَتَ اَلَّلهِ عَلَى اَلْكَذِبِيِنَ ‌‍‎
 
 ***But whoever disputes with you in this matter after what has come to
 you of knowledge, then say: Come let us call our sons and your sons and
@@ -778,14 +646,10 @@ light of Holy Prophet with only a physical difference.
 
 Imam al-Sadiq (a.s) in an important narration has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الَّلهَ كَانَا إذْ لأكَانَا، فَخَلْقَ اَلْكانَ وَالْمَكَانَ،
-َوخَلَقَ نُورَ الأنْوَارِ الَّذي نَوَّرَتْ مِنْهُ الأنْوارُ،وَأجْري
-فِيهِ نُورَهُ الَّذِي نَوَّرَتْ مِنْهُ الأنْوارُ‘ وَهُوَ النُّورُ
-الَّذِي خَلَقَ مِنْهُ مٌحمَّدا وعَلِيَّاً.
-  </p>
-</blockquote>
+> إنَّ الَّلهَ كَانَا إذْ لأكَانَا، فَخَلْقَ اَلْكانَ وَالْمَكَانَ،
+> َوخَلَقَ نُورَ الأنْوَارِ الَّذي نَوَّرَتْ مِنْهُ الأنْوارُ،وَأجْري
+> فِيهِ نُورَهُ الَّذِي نَوَّرَتْ مِنْهُ الأنْوارُ‘ وَهُوَ النُّورُ
+> الَّذِي خَلَقَ مِنْهُ مٌحمَّدا وعَلِيَّاً.
 
 Allah existed when ‘existence’ was not there. So He created the
 existence and space and created the light from which other lights were
@@ -807,11 +671,7 @@ of brotherhood between Muhammad and Ali so unity and brotherhood was
 manifest outwardly. It is for the same reason that the Holy Prophet has
 said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّكَ تَسْمَعُ مَا أسْمَعُ وَأسْمَعُ وَ تَرَى مَا أرى.
-  </p>
-</blockquote>
+> إنَّكَ تَسْمَعُ مَا أسْمَعُ وَأسْمَعُ وَ تَرَى مَا أرى.
 
 You hear whatever I hear and you see whatever I see.[^29]
 
@@ -822,11 +682,7 @@ Muhammad wherever he is present. Therefore, the Holy Prophet’s mission
 would not be perfect without the Imamate of Imam Ali. The Holy Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن لَّمْ تَفُعَلْ فَمَا بَلَّغْتَ رِسالَتَهُ
-  </p>
-</blockquote>
+> وَإِن لَّمْ تَفُعَلْ فَمَا بَلَّغْتَ رِسالَتَهُ
 
 ***If you do not do this, then you have not delivered His message.
 (5:67)***
@@ -838,11 +694,7 @@ without having love for Ali, for Ali is the gateway to Allah and the
 light of Muhammad and Ali itself is the beginning and end of this
 universe:
 
-<blockquote dir="rtl">
-  <p>
-بِكُمْ فَتَحَ الًّلهُ وَبِكُمْ يَخْتِمُ، وَإيَابُ الْخَلْقِ إلَيْكُمْ.
-  </p>
-</blockquote>
+> بِكُمْ فَتَحَ الًّلهُ وَبِكُمْ يَخْتِمُ، وَإيَابُ الْخَلْقِ إلَيْكُمْ.
 
 Allah began with you and with you He will conclude and the return of
 creation is towards you.[^30]
@@ -857,11 +709,7 @@ of the Holy Prophet have been manifested perfectly in the infallible
 Imams and all of them, as they themselves have said, are Allah's
 Attributes:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ، وَالَّلهِ، أسْماؤُهُ الْحُسنَى.
-  </p>
-</blockquote>
+> نَحْنُ، وَالَّلهِ، أسْماؤُهُ الْحُسنَى.
 
 By Allah, we are the Most Excellent Names (*al-asma al-husna*).[^31]
 
@@ -870,14 +718,10 @@ Ahl al-Bayt who have a right over them and observe that the right is
 incumbent on them. In this relation, one of the infallible Imams has
 been reported to say:
 
-<blockquote dir="rtl">
-  <p>
-ادُّنْيا وَمَا فِيها لِلَّهِ تَبَارَكَ وَتَعَالَى وَلِرَسُولِهِ؛
-فَمَنْ غَلَبَ عَلَى شَيْءٍ مِنْها فَلْيَتَّقِ الَّلهَ وَلْيُؤَدِّ حَقَ
-الَّلهِ تَبَارَكَ وَ تَعَالَي وَلْيَبُرَّ إخْوانَهُ، فَإنْ لَمْ
-يَفْعَلُ ذَالِكَ فَالَّلهُ وَرَسُلُهُ ونَحْنُ بُراءُ مِنهُ.
-  </p>
-</blockquote>
+> ادُّنْيا وَمَا فِيها لِلَّهِ تَبَارَكَ وَتَعَالَى وَلِرَسُولِهِ؛
+> فَمَنْ غَلَبَ عَلَى شَيْءٍ مِنْها فَلْيَتَّقِ الَّلهَ وَلْيُؤَدِّ حَقَ
+> الَّلهِ تَبَارَكَ وَ تَعَالَي وَلْيَبُرَّ إخْوانَهُ، فَإنْ لَمْ
+> يَفْعَلُ ذَالِكَ فَالَّلهُ وَرَسُلُهُ ونَحْنُ بُراءُ مِنهُ.
 
 The world and whatever is therein belongs to Allah, the Blessed and
 Almighty, His Messenger and us. Therefore, whoever obtains something
@@ -893,12 +737,8 @@ guide the world’s nations.
 Jabir Ibn Abdullah Ansari who was favored by the Ahl al-Bayt until the
 end of his life has said: When Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يأَآيُّهَا اٌلَّذِين ءَامَنُواْ أَطِىعُواْاٌللهَ وأَطِىعُوالرَّسُولَ
-وَأُوْلِى اٌلأْمْرِ مِنكُم
-  </p>
-</blockquote>
+> يأَآيُّهَا اٌلَّذِين ءَامَنُواْ أَطِىعُواْاٌللهَ وأَطِىعُوالرَّسُولَ
+> وَأُوْلِى اٌلأْمْرِ مِنكُم
 
 O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you …
@@ -907,24 +747,20 @@ I said to the Holy Prophet, “O Allah's Messenger, we know Allah and the
 Messenger, but who are those in authority the obedience to whom is equal
 to the obedience to you?" The Holy Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-هُمْ خُلْفَائِي، يَا جَابِرُ، وَأئِمَّةٌ الْمُسْلِمِيِنَ مِنْ بَعْدِي.
-أوَّلُهُمْ عَلِيُّ بْنُ أبِي طَالِبٍ، ثُمَّ الْحَسَنُ وَالْحُسَيْنُ،
-ثُمَّ عَلِيُّ بْنُ الْحُسَيْنُ، ثُمَّ مُحَمَّدُ بْنُ عَلِيِ
-الْمَعْرُوفُ فِي التَّوْرَاةِ بِالبَاقِرِ، وَسَتُدْرِكُهُ يَا جَابِرُ،
-فَإذَا لَقِيَتَهُ فَأقْرِئْهُ مِنَّي السًّلأمُ، ثُمَّ الصَّادِقُ
-جَعْفَرُ بْنٌ مُحَمَّدٍ، ثُمَّ مُوسَى بْنُ جَعْفَرٍ، ثُمَّ عَلِيُّ
-بْنُ مُوسَى، ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ، ثُمَّ عَلِيُّ بْنُ
-مُحَمَّدٍ، ثُمَّ الحَسَنُ بْنُ عَلِيٍّ، ثُمَّ سَمِيِّي وَ كَنِيِّي،
-حُجَّةٌ الَّلهِ فِي أرْضِهِ وَبَقِيَّتُهُ فِي عِبَادِهِ، اِبْنُ
-الْحَسَنِ بْنِ عَلِيٍّ، ذَالِكَ الَّذِي يَفْتَحُ الَّلهُ تَعَالَى
-ذِكْرُهُ عَلى يَدَيْهِ مَشَارِقَ الأرْضِ وَ مَغَارِبَهَا، ذَالِكَ
-الَّذِي يَغِيبُ عَنْ شِيعَتِهِ وَأوْلِيَاءِهِ غِيْبَةً لأيَثْبُتُ
-فِيهَا عَلَى الْقَوُلِ بِإمَامَتِهِ إلأ مَنِ امْتَحَنَ قَلْبَهُ
-لِلإيمَانِ.
-  </p>
-</blockquote>
+> هُمْ خُلْفَائِي، يَا جَابِرُ، وَأئِمَّةٌ الْمُسْلِمِيِنَ مِنْ بَعْدِي.
+> أوَّلُهُمْ عَلِيُّ بْنُ أبِي طَالِبٍ، ثُمَّ الْحَسَنُ وَالْحُسَيْنُ،
+> ثُمَّ عَلِيُّ بْنُ الْحُسَيْنُ، ثُمَّ مُحَمَّدُ بْنُ عَلِيِ
+> الْمَعْرُوفُ فِي التَّوْرَاةِ بِالبَاقِرِ، وَسَتُدْرِكُهُ يَا جَابِرُ،
+> فَإذَا لَقِيَتَهُ فَأقْرِئْهُ مِنَّي السًّلأمُ، ثُمَّ الصَّادِقُ
+> جَعْفَرُ بْنٌ مُحَمَّدٍ، ثُمَّ مُوسَى بْنُ جَعْفَرٍ، ثُمَّ عَلِيُّ
+> بْنُ مُوسَى، ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ، ثُمَّ عَلِيُّ بْنُ
+> مُحَمَّدٍ، ثُمَّ الحَسَنُ بْنُ عَلِيٍّ، ثُمَّ سَمِيِّي وَ كَنِيِّي،
+> حُجَّةٌ الَّلهِ فِي أرْضِهِ وَبَقِيَّتُهُ فِي عِبَادِهِ، اِبْنُ
+> الْحَسَنِ بْنِ عَلِيٍّ، ذَالِكَ الَّذِي يَفْتَحُ الَّلهُ تَعَالَى
+> ذِكْرُهُ عَلى يَدَيْهِ مَشَارِقَ الأرْضِ وَ مَغَارِبَهَا، ذَالِكَ
+> الَّذِي يَغِيبُ عَنْ شِيعَتِهِ وَأوْلِيَاءِهِ غِيْبَةً لأيَثْبُتُ
+> فِيهَا عَلَى الْقَوُلِ بِإمَامَتِهِ إلأ مَنِ امْتَحَنَ قَلْبَهُ
+> لِلإيمَانِ.
 
 Jabir, they are my successors and leaders of Muslims after me. The first
 of them is Ali ibn Abi-Talib, then Hasan and Husayn, then Ali ibn
@@ -943,15 +779,11 @@ related by the holy Imams is their resemblance to a good tree. Answering
 a question asked by Amr ibn Hurayth about the *good tree* mentioned in
 the Holy Quran, Imam al-Sadiq (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-رَسُولُ الَّلهِ أصْلَهَا، وَ أمِيرُ الْمُؤْمِنِينَ فَرْعُهَا،
-وَالأئِمَّةٌ مِنْ ذُرَّيَّتِهِمَا أغْصَانُهَا، وَعِلْمُ الأئِمَّةِ
-ثَمَرَتُهَا، وَشِيعَتُهُمُ الْمُؤْمِنَ وَ رَقْهَا. وَالَّلهِ، إنَّ
-الْمُؤْمِنَ لَيُولَدُ فَتُورِقُ وَرَقَةٌ فِيهَا، وَ إنَّ المُؤْمِنَ
-لَيَمُوتُ فَتْسُقُطُ وَرَقَةٌ مِنْهَا.
-  </p>
-</blockquote>
+> رَسُولُ الَّلهِ أصْلَهَا، وَ أمِيرُ الْمُؤْمِنِينَ فَرْعُهَا،
+> وَالأئِمَّةٌ مِنْ ذُرَّيَّتِهِمَا أغْصَانُهَا، وَعِلْمُ الأئِمَّةِ
+> ثَمَرَتُهَا، وَشِيعَتُهُمُ الْمُؤْمِنَ وَ رَقْهَا. وَالَّلهِ، إنَّ
+> الْمُؤْمِنَ لَيُولَدُ فَتُورِقُ وَرَقَةٌ فِيهَا، وَ إنَّ المُؤْمِنَ
+> لَيَمُوتُ فَتْسُقُطُ وَرَقَةٌ مِنْهَا.
 
 Allah’s Messenger is the root of the tree, Amir al-Muminin is its trunk,
 the Imams from his issue are its branches; the recognition of the Imams
@@ -970,43 +802,23 @@ thoroughly in order to know Ahl al-Bayt.
 
 Based on narrations, four truths are referred to as the first creatures:
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهُ النُّورُ
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهُ النُّورُ
 
 The first thing Allah created was light.[^34]
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهُ القَلمُ.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهُ القَلمُ.
 
 The first thing Allah created was pen.[^35]
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ العَقَلُ.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ العَقَلُ.
 
 The first thing Allah cre ated was intellect.[^36]
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ نُورِي.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ نُورِي.
 
 The first thing Allah created was my light.[^37]
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ رُوحِي.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ رُوحِي.
 
 The first thing Allah created was my soul.[^38]
 
@@ -1056,11 +868,7 @@ the blessing of this light. Actually, Allah made him a medium of
 realization between Himself and all other creation. Based on the Holy
 Quran (33:46), the Holy Prophet has described himself as the sun:
 
-<blockquote dir="rtl">
-  <p>
-أنَا اشَّمْسُ.
-  </p>
-</blockquote>
+> أنَا اشَّمْسُ.
 
 I am the sun.[^40]
 
@@ -1083,12 +891,8 @@ state of reduced individuation, so also are the heavenly creatures
 reduced individuation of the light of the Holy Prophet. In this
 relation, the Holy Prophet has been reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-أنَا اشَّمْسُ، وَعَلِّيٌّ الْقَمَرْ، وَ فَاطِمَةٌ الزُّهْرَةٌ،
-وَالْحَسَنُ وَالْحُسَيْنُ الْفَرْقَدَانِ.
-  </p>
-</blockquote>
+> أنَا اشَّمْسُ، وَعَلِّيٌّ الْقَمَرْ، وَ فَاطِمَةٌ الزُّهْرَةٌ،
+> وَالْحَسَنُ وَالْحُسَيْنُ الْفَرْقَدَانِ.
 
 I am the sun, Ali the moon, Fatimah Venus, Hasan and Husayn two
 stars.[^41]
@@ -1102,21 +906,13 @@ Muhammad (S) is the medium for realization of all creatures. They are
 indebted to him and he has a claim on all creatures for material and
 spiritual rights.
 
-<blockquote dir="rtl">
-  <p>
-. تُرْحَمُونَ لَعَلَّكُمْ وَالرَّسُولَ اللَّهَ وَأَطِيعُوا
-  </p>
-</blockquote>
+> . تُرْحَمُونَ لَعَلَّكُمْ وَالرَّسُولَ اللَّهَ وَأَطِيعُوا
 
 ***And obey Allah and the Apostle, that you may be shown mercy***
 ***(3:132)***
 
-<blockquote dir="rtl">
-  <p>
-… وَلِلرَّسُولِ خُمُسَهُ لِلَّهِ فَأَنَّ شَيْءٍ مِنْ غَنِمْتُمْ
-أَنَّمَا وَاعْلَمُو
-  </p>
-</blockquote>
+> … وَلِلرَّسُولِ خُمُسَهُ لِلَّهِ فَأَنَّ شَيْءٍ مِنْ غَنِمْتُمْ
+> أَنَّمَا وَاعْلَمُو
 
 ***And know that whatever thing you gain, a fifth of it is for Allah and
 for the Apostle… (8:41)***
@@ -1127,11 +923,7 @@ Hence, we should pay him what is due to him and the profit of what we
 give returns to ourselves thanks to the favor and generosity of the Holy
 Prophet.
 
-<blockquote dir="rtl">
-  <p>
-… لَكُمْ فَهُوَ أَجْرٍ مِنْ سَأَلْتُكُمْ مَا قُلْ
-  </p>
-</blockquote>
+> … لَكُمْ فَهُوَ أَجْرٍ مِنْ سَأَلْتُكُمْ مَا قُلْ
 
 ***Say: Whatever reward I have asked you, that is only for yourselves…
 (34:47)***
@@ -1146,11 +938,7 @@ hand of Allah's will.
 Pen, in one sense, is the truth of Muhammad (S) by whom Allah has sworn
 in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ
-  </p>
-</blockquote>
+> ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ
 
 ***Nun; I swear by the pen and what the angels write. (68:1)***
 
@@ -1158,11 +946,7 @@ Pen, in another sense, is the mission of the Holy Prophet who determines
 the happiness and prosperity of anyone who has the merit and spreads
 mercy for the nations with its guidance and binding laws:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
 
 ***And we have not sent you but as a mercy to the world. (21:107)***
 
@@ -1171,11 +955,7 @@ mercy for the nations with its guidance and binding laws:
 Intellect, in its primary meaning, is the truth of Muhammad (S) who is
 not only the first creation but also the most-loved by Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَعِزَّتِي وَجَلألِي، مَا خَلَقْتُ خَلَّقاً هُوَ أحَبُّ إلَيَّ مِنْكَ.
-  </p>
-</blockquote>
+> وَعِزَّتِي وَجَلألِي، مَا خَلَقْتُ خَلَّقاً هُوَ أحَبُّ إلَيَّ مِنْكَ.
 
 By my Glory and honor (I swear), I have not created anyone more loved to
 Me than you.[^42]
@@ -1193,31 +973,19 @@ Spirit, based on the Holy Qur'an, is from the realm of ‘Command’ that
 comes to existence with the word ‘Be’ and not from the position of
 creation, which is the origin of material elements:
 
-<blockquote dir="rtl">
-  <p>
- أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ
-  </p>
-</blockquote>
+>  أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ
 
 ***Surely, His is the creation and the command. (7:54)***
 
 The spirit whose truth is not known by anyone is the outcome of the
 Divine Decree and comes into existence with the word ‘Be’:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ
-  </p>
-</blockquote>
+> وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ
 
 ***And when He decrees an affair, He only says to it – Be - so there it
 is. (2:117)***
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْأَلُونَكَ عَنِ الرُّوحِ ۖ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي
-  </p>
-</blockquote>
+> وَيَسْأَلُونَكَ عَنِ الرُّوحِ ۖ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي
 
 ***And they ask you about the soul (spirit). Say: the soul is one of the
 commands of my Lord… (17:85)***
@@ -1225,11 +993,7 @@ commands of my Lord… (17:85)***
 Spirit is the first creation of Allah, as has been mentioned by the Holy
 Prophet:
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ رُوحِي.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ رُوحِي.
 
 The first thing Allah created was my spirit.
 
@@ -1237,51 +1001,31 @@ The Holy Prophet wishes to make others understand him using different
 expressions according to people's capacity. That is why, on one
 occasion, he says:
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهُ النُّورُ
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهُ النُّورُ
 
 The first thing Allah created was light.
 
 On another occasion, he says:
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهُ القَلمُ.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهُ القَلمُ.
 
 The first thing Allah created was pen.
 
 On other occasions, he says:
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ العَقَلُ.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ العَقَلُ.
 
 The first thing Allah created was intellect.
 
 Or,
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ نُورِي.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ نُورِي.
 
 The first thing Allah created was my light.
 
 And,
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا خَلَقَ الَّلهٌ رُوحِي.
-  </p>
-</blockquote>
+> أوَّلُ مَا خَلَقَ الَّلهٌ رُوحِي.
 
 The first thing Allah created was my spirit.
 
@@ -1292,12 +1036,8 @@ truth of Muhammad (S). Therefore, Allah created the truth of Muhammad
 own light and created other beings for his sake. In this relation, Imam
 al-Sadiq (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الَّلهُ الْمَشِيئَةَ بِنَفْسِهَا ثُمَّ خَلَقَ الأشْيَاءَ
-بِالْمَشِئةِ.
-  </p>
-</blockquote>
+> خَلَقَ الَّلهُ الْمَشِيئَةَ بِنَفْسِهَا ثُمَّ خَلَقَ الأشْيَاءَ
+> بِالْمَشِئةِ.
 
 Allah created the Divine decree by itself and then created all beings by
 means of the Divine decree.
@@ -1311,12 +1051,8 @@ light of His perfect beauty is the Grace of Muhammad (S) and the
 intuitive decree and the light of the Holy Prophet as mentioned in the
 following narration:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الَّلهَ خَلْقَ الْعَقَلَ، وَهُوَ أولُ خَلْقٍ مِنَ
-الرُّوحانِّيينَ، مِنْ يَمِينِ الْعَرْشِ مِنْ نُورِهِ
-  </p>
-</blockquote>
+> إنَّ الَّلهَ خَلْقَ الْعَقَلَ، وَهُوَ أولُ خَلْقٍ مِنَ
+> الرُّوحانِّيينَ، مِنْ يَمِينِ الْعَرْشِ مِنْ نُورِهِ
 
 Allah created intellect and it was the first of spiritual creations to
 be made from His light on the right side of the throne.[^43]
@@ -1333,12 +1069,8 @@ light, we should admit that Ahl al-Bayt are light in essence and this
 light is the light of Allah which cannot be put out by the puffing of
 the ignorant ones:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ
-مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ
+> مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
 
 ***They desire to put out the light of Allah with their mouth, but Allah
 will perfect His light, though the unbelievers may be averse. (61:8)***
@@ -1348,34 +1080,22 @@ form of *Ziyarah* (statements addressed to the Holy Infallibles when
 their tombs are visited) composed by Imam al-Hadi (a.s), is recited in
 the *Ziyarah* of all the infallibles; we read:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَكُم الَّلهُ أنْوارأ.
-  </p>
-</blockquote>
+> خَلَقَكُم الَّلهُ أنْوارأ.
 
 Allah created you in the form of light.[^44]
 
 Again in the same *Ziyarah*, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّ أرْوَاحَكُم وَ نُورَكُم وَطِينَتَكُمْ وَطِينَتَكُمْ وَاحِدَةٌ،
-طَبَتْ وَطَهُرَتْ.
-  </p>
-</blockquote>
+> وَأنَّ أرْوَاحَكُم وَ نُورَكُم وَطِينَتَكُمْ وَطِينَتَكُمْ وَاحِدَةٌ،
+> طَبَتْ وَطَهُرَتْ.
 
 Your souls, light and forms are the same; pure and pious
 altogether.[^45]
 
 In the famous *Ziyarah Warith*, we read:
 
-<blockquote dir="rtl">
-  <p>
-أشْهَدُ أنَّكَ كُنْتَ نُوراً فِي الأصْلأبِ الشَّمِخَةِ وَالأرْحَامِ
-الْمُطَهَّرَةِ.
-  </p>
-</blockquote>
+> أشْهَدُ أنَّكَ كُنْتَ نُوراً فِي الأصْلأبِ الشَّمِخَةِ وَالأرْحَامِ
+> الْمُطَهَّرَةِ.
 
 I testify that you were light in the lofty loins and pure wombs.[^46]
 
@@ -1383,12 +1103,8 @@ In the Books of *Maqtal* (story of Imam al-Husayn's martyrdom), we read
 that when Imam Ali ibn al-Husayn (al-Sajjad) was placing his father's
 body, with the head cut off, in the grave, he said:
 
-<blockquote dir="rtl">
-  <p>
-أبَتَاهُ، أمَّا الْدُّنْيَا فَبَعْدَكَ مُظْلِمَةٌ وَأمَّا الآخِرَةُ
-فَبِنُورِ وَجْهِكَ مُشْرِقة.
-  </p>
-</blockquote>
+> أبَتَاهُ، أمَّا الْدُّنْيَا فَبَعْدَكَ مُظْلِمَةٌ وَأمَّا الآخِرَةُ
+> فَبِنُورِ وَجْهِكَ مُشْرِقة.
 
 "O father, the world is in dark after you and the Hereafter is
 illuminated with your light."[^47]
@@ -1396,33 +1112,25 @@ illuminated with your light."[^47]
 The follower of Ahl al-Bayt, Abu-Khalid Kabuli says: I asked Imam
 al-Baqir to explain the following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-فَئَامِنُو بِاٌ لَّلهِ وَرسُولِهِ وَالنُّورِالَّذِى أنْزَلْنَا...
-  </p>
-</blockquote>
+> فَئَامِنُو بِاٌ لَّلهِ وَرسُولِهِ وَالنُّورِالَّذِى أنْزَلْنَا...
 
 ***Therefore believe in Allah and His Apostle and the Light which we
 have revealed…(64:8)***
 
 The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أبَا خَالِدِ! النُّورُ، وَالَّلهِ، الأيِمَّهٌ مِنْ آلِ مُحَمَّدٍ
-إلَى يَوْمِ الْقِيَامَةِ. وَهُم، وَالَّلهِ، نُورُ الَّلهِ، ألَّذِي
-أنْزَل. وَهُم، وَالَّلهِ، نُورُ الَّلهِ فِي السَّماواتِ وَفِي الأرْضِ.
-وَالَّلهِ يَا أبَا خَالِدٍ، لنُّور الأمامِ فِي قُلُوبِ الْمؤْمِنينَ
-أنْوَرُ مِنَ الشَّمْسِ الْمُضِيِئَةِ بِالَّهَارِ. وَهُم، وَالَّلهِ،
-يُنَوِّرُونَ قُلُوبَ الْمُؤْمِنِينَ، وَ يَحْجِبُ الَّلهُ عَزَّ وَجَلَّ
-نُورَهُمْ عَمَّنْ يَشَاءُ فَتُضِلُّهُم. وَالَّلهِ يَا أبَا خَالِدٍ، لأ
-يُجِبُّنَا عَبْدٌ وَ يَتَوَلأنَا حَتَّى يُطَهَّرَ الَّلهُ قَلَبَهُ،
-وَلأ يُطَهِّرُ الَّلهُ قَلَبَ عَبْدٍ حَتَّى يُسَلِّمَ لَنَا وَ يَكُونَ
-سِلْماً لَنَا؛ فَإذَا كَانَ سِلْماً لَنَا سَلَّمَهُ الّلهُ مِنْ
-شَدِيدِ الْحِسَابِ وَآمَنَهُ مِنْ فَزَعِ ذ ذيَوْمِ القِيَامَةِ
-الأكْبِرِ...
-  </p>
-</blockquote>
+> يَا أبَا خَالِدِ! النُّورُ، وَالَّلهِ، الأيِمَّهٌ مِنْ آلِ مُحَمَّدٍ
+> إلَى يَوْمِ الْقِيَامَةِ. وَهُم، وَالَّلهِ، نُورُ الَّلهِ، ألَّذِي
+> أنْزَل. وَهُم، وَالَّلهِ، نُورُ الَّلهِ فِي السَّماواتِ وَفِي الأرْضِ.
+> وَالَّلهِ يَا أبَا خَالِدٍ، لنُّور الأمامِ فِي قُلُوبِ الْمؤْمِنينَ
+> أنْوَرُ مِنَ الشَّمْسِ الْمُضِيِئَةِ بِالَّهَارِ. وَهُم، وَالَّلهِ،
+> يُنَوِّرُونَ قُلُوبَ الْمُؤْمِنِينَ، وَ يَحْجِبُ الَّلهُ عَزَّ وَجَلَّ
+> نُورَهُمْ عَمَّنْ يَشَاءُ فَتُضِلُّهُم. وَالَّلهِ يَا أبَا خَالِدٍ، لأ
+> يُجِبُّنَا عَبْدٌ وَ يَتَوَلأنَا حَتَّى يُطَهَّرَ الَّلهُ قَلَبَهُ،
+> وَلأ يُطَهِّرُ الَّلهُ قَلَبَ عَبْدٍ حَتَّى يُسَلِّمَ لَنَا وَ يَكُونَ
+> سِلْماً لَنَا؛ فَإذَا كَانَ سِلْماً لَنَا سَلَّمَهُ الّلهُ مِنْ
+> شَدِيدِ الْحِسَابِ وَآمَنَهُ مِنْ فَزَعِ ذ ذيَوْمِ القِيَامَةِ
+> الأكْبِرِ...
 
 “O Abu-Khalid, by Allah (I swear), the Imams are that light until the
 Day of Judgment; and by Allah, they are the light of Allah in the
@@ -1440,22 +1148,14 @@ To live with the love for Ahl al-Bayt and to follow them in all material
 and spiritual aspects is like living the life of Prophets. Reporting the
 Holy Prophet, Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّ أنْ يَحْيَا حَيَاةً تُشْبِهُ حَيَاةَ الأنْبِيَاءِ
-وَيَمُوتَ مِيتَةَ تُشْبِهُ مِيتَة الشُّهَدَاءِ وَ يَسْكُنَ الجِنَانَ
-الَّتِي غَرَسَهَا الرَّحمَنُ، فَليَتَوَلَّ عَلِيًّا وَلْيُوَالِ
-وَلِيَّهُ وَلْيَقْتَدِ بِلأئِمَّةِ مِنْ بَعْدِهِ، فَإنَّهُمْ عِتْرَتي
-خُلِقُوا مِنْ طِينَتِي.
-  </p>
-</blockquote>
+> مَنْ أحَبَّ أنْ يَحْيَا حَيَاةً تُشْبِهُ حَيَاةَ الأنْبِيَاءِ
+> وَيَمُوتَ مِيتَةَ تُشْبِهُ مِيتَة الشُّهَدَاءِ وَ يَسْكُنَ الجِنَانَ
+> الَّتِي غَرَسَهَا الرَّحمَنُ، فَليَتَوَلَّ عَلِيًّا وَلْيُوَالِ
+> وَلِيَّهُ وَلْيَقْتَدِ بِلأئِمَّةِ مِنْ بَعْدِهِ، فَإنَّهُمْ عِتْرَتي
+> خُلِقُوا مِنْ طِينَتِي.
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُمَّ ارزُقْهُمْ فَهْمِي وَ عِلْمي. وَوَيْلٌ لِلْمُخَالِفِينَ
-لَهُمْ مِنْ أمَّتِي؛ أللَّهُمَّ لأ تُنِلْهُمْ شَفَاعَتِي.
-  </p>
-</blockquote>
+> أللَّهُمَّ ارزُقْهُمْ فَهْمِي وَ عِلْمي. وَوَيْلٌ لِلْمُخَالِفِينَ
+> لَهُمْ مِنْ أمَّتِي؛ أللَّهُمَّ لأ تُنِلْهُمْ شَفَاعَتِي.
 
 If one likes to live a life similar to Prophets, die as a martyr, and
 dwell in a Paradise - all the trees of which are planted by Allah, one
@@ -1474,11 +1174,7 @@ Man has gone through certain stages to reach his material existence and
 the world; and he has to go through other stages to return to where he
 used to be with a qualitative difference:
 
-<blockquote dir="rtl">
-  <p>
-كَمَا بَدَأَكُمْ تَعُودُونَ
-  </p>
-</blockquote>
+> كَمَا بَدَأَكُمْ تَعُودُونَ
 
 ***As He brought you forth in the beginning, so also shall you all
 return. (7:29)***
@@ -1509,46 +1205,30 @@ worth mentioning’*. Then Allah wills to manifest man and man becomes *‘a
 thing worth mentioning’*. In this stage, man deserves the Divine Decree
 of ‘Be’:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
-فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
+> فَيَكُونُ
 
 ***His command, when He intends anything, is only to say to it - Be, so
 it is. (36:82)***
 
 This stage is materialized into an epiphany with an unimaginable speed:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
-  </p>
-</blockquote>
+> وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
 
 ***And Our Command is but one, as the twinkling of an eye. (54:50)***
 
 About ‘*a thing not worth mentioning*’, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَا يَذْكُرُ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ
-يَكُ شَيْئًا
-  </p>
-</blockquote>
+> أَوَلَا يَذْكُرُ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ
+> يَكُ شَيْئًا
 
 ***Does not man remember that We created him before, when he was
 nothing? (19:67)***
 
 And on his becoming ‘*a thing worth mentioning*’, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَىٰ عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ
-شَيْئًا مَذْكُورًا
-  </p>
-</blockquote>
+> هَلْ أَتَىٰ عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ
+> شَيْئًا مَذْكُورًا
 
 ***There surely came over man a period of time when he was a thing not
 worth mentioning. (76:1)***
@@ -1565,42 +1245,26 @@ did not exist externally, we were in the knowledge of Allah.
 One must say that Divine decree and His creation came together to create
 man:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ 
-  </p>
-</blockquote>
+> أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ
 
 ***Surely, His is the creation and the command. (7:54)***
 
 Commenting on this wonderful being, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ…
-  </p>
-</blockquote>
+> إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ…
 
 ***…Surely, I am going to create a mortal of the essence of the black
 mud fashioned in shape. (15:28)***
 
-<blockquote dir="rtl">
-  <p>
-…إِنِّي خَالِقٌ بَشَرًا مِنْ طِينٍ
-  </p>
-</blockquote>
+> …إِنِّي خَالِقٌ بَشَرًا مِنْ طِينٍ
 
 ***…Surely, I am going to create a mortal from dust. (38:71)***
 
 The above two and other verses refer to the material creation ‘in the
 lowest of the low’ and then Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ
-سَاجِدِينَ
-  </p>
-</blockquote>
+> فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ
+> سَاجِدِينَ
 
 ***So I have made him complete and breathed into him of my spirit, fall
 down making obeisance to him. (15:29)***
@@ -1615,12 +1279,8 @@ Allah’s knowledge or when they were created, were distinct from other
 human beings, as they are all from the same tree and light while other
 human beings are from different trees:
 
-<blockquote dir="rtl">
-  <p>
-أنَا وَ عَلِيٌّ مِنْ شَجَرَةٍ وَاحِدَةٍ، وَسَائِرُ النَّاس مِنْ شَجَرِ
-شَتَّي.
-  </p>
-</blockquote>
+> أنَا وَ عَلِيٌّ مِنْ شَجَرَةٍ وَاحِدَةٍ، وَسَائِرُ النَّاس مِنْ شَجَرِ
+> شَتَّي.
 
 Ali and I are from the same tree while other people are from a different
 tree.[^50]
@@ -1631,13 +1291,9 @@ narration, that Allah created them from light before the creation of
 other beings and bestowed knowledge upon them. The Holy Quran says about
 the importance and dignity of the man who is addressed to by Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِنْ
-وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا
-يَشَاءُ ۚ إِنَّهُ عَلِيٌّ حَكِيمٌ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِنْ
+> وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا
+> يَشَاءُ ۚ إِنَّهُ عَلِيٌّ حَكِيمٌ
 
 ***And it is not for any mortal that Allah should speak to him except by
 revelation or from behind a veil, or by sending a messenger and
@@ -1656,21 +1312,13 @@ Surely, you hear what I hear and see what I see.[^51]
 Imam Ali (a.s.) had reached the highest stage of knowledge that a
 creature could reach, in a way that he would decisively say:
 
-<blockquote dir="rtl">
-  <p>
-مَا كُنْتُ أعْبُدُ رَبَّاً أرَهُ.
-  </p>
-</blockquote>
+> مَا كُنْتُ أعْبُدُ رَبَّاً أرَهُ.
 
 I do not serve a Lord whom I have not seen.[^52]
 
 It was also Imam Ali (a.sز) who said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُشِفَ لِيَ الغِطَاءُ مَا ازْدَدْتُ يَقِيناً.
-  </p>
-</blockquote>
+> لَوْ كُشِفَ لِيَ الغِطَاءُ مَا ازْدَدْتُ يَقِيناً.
 
 If all the veils were removed, a bit would not add to my certainty.[^53]
 
@@ -1678,11 +1326,7 @@ Since there was no veil between him and Allah and he was a medium
 between people and Allah due to his knowledge, and so the Holy Prophet
 had said:
 
-<blockquote dir="rtl">
-  <p>
-أنَا وَ عَلِيٌ مِن نُورٍ وَاحِدٍ.
-  </p>
-</blockquote>
+> أنَا وَ عَلِيٌ مِن نُورٍ وَاحِدٍ.
 
 Ali and I are from the same light.[^54]
 
@@ -1698,12 +1342,8 @@ The Capacity Of Ahl Al-Bayt
 
 Commenting on the capacity of the angels, Imam Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-الثَابِتَةٌ و فِي الأرَضِينَ السُّفْنلَى أقْدَامُهُم، وَالمَارِقَةٌّ
-مِنَ السَّمَاءِ الْعُلْيَا أعْنَاقُهُم.
-  </p>
-</blockquote>
+> الثَابِتَةٌ و فِي الأرَضِينَ السُّفْنلَى أقْدَامُهُم، وَالمَارِقَةٌّ
+> مِنَ السَّمَاءِ الْعُلْيَا أعْنَاقُهُم.
 
 Among them are those also whose steps are fixed on earth but their necks
 are projecting into the skies.[^55]
@@ -1722,11 +1362,7 @@ their truth whether they want or not.
 Since perfect men have reached up to the *Umm al-Kitab* (Mother of the
 Book), it has become tangible for them:
 
-<blockquote dir="rtl">
-  <p>
-فِي كِتَابٍ مَكْنُونٍ  لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ 
-  </p>
-</blockquote>
+> فِي كِتَابٍ مَكْنُونٍ  لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
 
 ***In a book that is protected; none shall touch it save the purified
 ones. (56:78-79)***
@@ -1739,15 +1375,11 @@ the Holy Quran that Allah showed to His Messenger during the Night
 Ascension the future of the universe until the Judgment Day and its
 aftermath:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَنَا فَتَدَلَّىٰ  فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ 
-فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ  مَا كَذَبَ الْفُؤَادُ مَا
-رَأَىٰ  أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ  وَلَقَدْ رَآهُ نَزْلَةً
-أُخْرَىٰ  عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ  عِنْدَهَا جَنَّةُ
-الْمَأْوَىٰ 
-  </p>
-</blockquote>
+> ثُمَّ دَنَا فَتَدَلَّىٰ  فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ
+> فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ  مَا كَذَبَ الْفُؤَادُ مَا
+> رَأَىٰ  أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ  وَلَقَدْ رَآهُ نَزْلَةً
+> أُخْرَىٰ  عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ  عِنْدَهَا جَنَّةُ
+> الْمَأْوَىٰ
 
 ***Then he drew near; then he bowed, so he was the measure of two bows
 or closer still. And He revealed to His servant what He revealed. The
@@ -1768,12 +1400,8 @@ cannot be compared with anyone else in a way that one second of their
 prayer is better than the prayer of men and jinn together. In this
 relation, the Holy Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-لَضَرْبَهٌ عَلِيٍّ يَوْمَ الْخَنْدَقِ أفْضَلُ مِنْ عِبَادَةِ
-الثَّقَلَيْنِ.
-  </p>
-</blockquote>
+> لَضَرْبَهٌ عَلِيٍّ يَوْمَ الْخَنْدَقِ أفْضَلُ مِنْ عِبَادَةِ
+> الثَّقَلَيْنِ.
 
 One blow of Ali’s sword in the Battle of the Ditch is better than the
 prayer of men and jinn.[^56]
@@ -1789,18 +1417,10 @@ leaning on Imam Ali and Ibn Abbas. Leaning on one of the pillars of
 Medina Mosque, which was then the trunk of a palm tree, said to the
 people who were gathered in the mosque:
 
-<blockquote dir="rtl">
-  <p>
-ألأ فَمَنْ. إنَّهُ لَمْ يَمُتْ نَبِيٌ قَطٌّ إلأ خَلَفَ تِرْكَةً؛ وَ
-قَدْ خَلَّفْتُ فِيكُمُ الْتَّقَلَيْنِ كِتَابَ الَّلهِ وَ أهْلَ بَيْتِي
-  </p>
-</blockquote>
+> ألأ فَمَنْ. إنَّهُ لَمْ يَمُتْ نَبِيٌ قَطٌّ إلأ خَلَفَ تِرْكَةً؛ وَ
+> قَدْ خَلَّفْتُ فِيكُمُ الْتَّقَلَيْنِ كِتَابَ الَّلهِ وَ أهْلَ بَيْتِي
 
-<blockquote dir="rtl">
-  <p>
-. ضَيَّعَهُمْ ضَيَّعَهُ الَّلهُ
-  </p>
-</blockquote>
+> . ضَيَّعَهُمْ ضَيَّعَهُ الَّلهُ
 
 No prophet has passed away without leaving something behind him. I too
 leave behind me for you two valuable things, namely the Book of Allah
@@ -1809,14 +1429,10 @@ Allah.[^57]
 
 Imam Ali (a.s.) too has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الَّلهَ تَبَارَكَ وَ تَعَالى طَهَّرَنَا و عَصَمَنَاَ وَجَعَلَنَا
-شُهَدَاءَ عَلَى خَلْقِهِ وَحُجَّتَهُ فِي أرْ ضِهِ؛ وَ جَعَلَنَا مَعَ
-الْقُرْآنِ وَجَعَلَ الْقُرْآنَ مَعَنَا لأ نُفارِقُهُ و لأ
-يُفَارِقُنَا.
-  </p>
-</blockquote>
+> إنَّ الَّلهَ تَبَارَكَ وَ تَعَالى طَهَّرَنَا و عَصَمَنَاَ وَجَعَلَنَا
+> شُهَدَاءَ عَلَى خَلْقِهِ وَحُجَّتَهُ فِي أرْ ضِهِ؛ وَ جَعَلَنَا مَعَ
+> الْقُرْآنِ وَجَعَلَ الْقُرْآنَ مَعَنَا لأ نُفارِقُهُ و لأ
+> يُفَارِقُنَا.
 
 Allah, the Blessed and Exalted, has purified us from uncleanness making
 us infallible. He made us the witness upon people setting us as a proof
@@ -1846,11 +1462,7 @@ Messenger and he asks you what you have done about these two valuable
 things, what will your answer be?”  
  Ibn Dharr started weeping bitterly and said,
 
-<blockquote dir="rtl">
-  <p>
-!أمَّا الأكْبَرُ فَمَزَّقَنَاهُ، وَأمَّا الأصْغَرُ فَقَتَلَاهُ
-  </p>
-</blockquote>
+> !أمَّا الأكْبَرُ فَمَزَّقَنَاهُ، وَأمَّا الأصْغَرُ فَقَتَلَاهُ
 
 “Alas! We have torn apart the Greater one and killed the smaller
 one.”[^59]
@@ -1877,18 +1489,14 @@ Ahl Al-Bayt And Knowledge
 The Holy Quran says that when Prophet Sulayman (Solomon) sent back the
 emissaries of Queen Sheba, he said to the chiefs of his court:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا أَيُّهَا الْمَلَأُ أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ
-أَنْ يَأْتُونِي مُسْلِمِينَ  قَالَ عِفْرِيتٌ مِنَ الْجِنِّ أَنَا
-آتِيكَ بِهِ قَبْلَ أَنْ تَقُومَ مِنْ مَقَامِكَ ۖ وَإِنِّي عَلَيْهِ
-لَقَوِيٌّ أَمِينٌ  قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا
-آتِيكَ بِهِ قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَآهُ
-مُسْتَقِرًّا عِنْدَهُ قَالَ هَٰذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي
-أَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَنْ شَكَرَ فَإِنَّمَا يَشْكُرُ
-لِنَفْسِهِ ۖ وَمَنْ كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ 
-  </p>
-</blockquote>
+> قَالَ يَا أَيُّهَا الْمَلَأُ أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ
+> أَنْ يَأْتُونِي مُسْلِمِينَ  قَالَ عِفْرِيتٌ مِنَ الْجِنِّ أَنَا
+> آتِيكَ بِهِ قَبْلَ أَنْ تَقُومَ مِنْ مَقَامِكَ ۖ وَإِنِّي عَلَيْهِ
+> لَقَوِيٌّ أَمِينٌ  قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا
+> آتِيكَ بِهِ قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَآهُ
+> مُسْتَقِرًّا عِنْدَهُ قَالَ هَٰذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي
+> أَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَنْ شَكَرَ فَإِنَّمَا يَشْكُرُ
+> لِنَفْسِهِ ۖ وَمَنْ كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ
 
 ***He said: O chiefs! Which of you can bring to me her throne before
 they come to me in submission? One audacious among the Jinn said: I will
@@ -1903,12 +1511,8 @@ ungrateful, then surely my Lord is Self sufficient, Honoured,
 In another place of the Holy Quran, we read about one who has the
 knowledge of the Book:
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلًا ۚ قُلْ كَفَىٰ بِاللَّهِ
-شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ
-  </p>
-</blockquote>
+> وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلًا ۚ قُلْ كَفَىٰ بِاللَّهِ
+> شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ
 
 ***And those who disbelieve say, “You are not a messenger.” Say, “Allah
 is sufficient as a witness between me and you. So is he who has
@@ -1928,12 +1532,8 @@ than twenty!
 Abu-Said Khidri, a reporter of *hadith* accepted by Sunni scholars,
 says:
 
-<blockquote dir="rtl">
-  <p>
-سَألْتُ رَسُولَ الًّلهِ عَنْ قَولِالَّلهِ تَعَالَى: (وَمَنْ عِنْدَهُ
-عِلْمُ الْكِتَابِ) قَالَ: ذَالِكَ أخِي عَليٌّ بْنُ أبِي طَالِبِ.
-  </p>
-</blockquote>
+> سَألْتُ رَسُولَ الًّلهِ عَنْ قَولِالَّلهِ تَعَالَى: (وَمَنْ عِنْدَهُ
+> عِلْمُ الْكِتَابِ) قَالَ: ذَالِكَ أخِي عَليٌّ بْنُ أبِي طَالِبِ.
 
 I asked Allah’s Messenger, Who is the one intended by Allah’s saying,
 ‘so is he who the knowledge of the Book’” The Holy Prophet answered, “He
@@ -1942,11 +1542,7 @@ is my brother, Ali ibn Abi-Talib.”[^60]
 Imam Ali (a.s.), having been asked about the meaning of the same verse,
 has said:
 
-<blockquote dir="rtl">
-  <p>
-أنَا هُوَ الَّذِي عِنْدَه عِلْمُ الْكِتابِ
-  </p>
-</blockquote>
+> أنَا هُوَ الَّذِي عِنْدَه عِلْمُ الْكِتابِ
 
 I am the one with whom is the knowledge of the Book.[^61]
 
@@ -1958,35 +1554,23 @@ in twinkling of an eye” -***,
 
 the Imam, spreading his fingers and putting them on his chest, said:
 
-<blockquote dir="rtl">
-  <p>
-. كُلُّهُ الْكِتَابِ عِلْمُ ، الَّلهُ وَ ، عِنْدَنَا وَ
-  </p>
-</blockquote>
+> . كُلُّهُ الْكِتَابِ عِلْمُ ، الَّلهُ وَ ، عِنْدَنَا وَ
 
 By Allah, the entire knowledge of the Book is with us.[^62]
 
 Referring to Ahl al-Bayt, Allah’s Messenger said:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ خُزَّانِي عَلَى عِلْمِي مِنْ بَعْدِكَ : قَالَ لِيَ الَّلهُ
-تَعَالَى
-  </p>
-</blockquote>
+> هُمْ خُزَّانِي عَلَى عِلْمِي مِنْ بَعْدِكَ : قَالَ لِيَ الَّلهُ
+> تَعَالَى
 
 Allah has told me: They are the treasurers of My Knowledge after
 you.4[^63]
 
 Imam Zayn al-Abidin (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ أبْوَابُ الَّله‘ ونَحْنُ الصِّرَاطُ الْمُسْتَقِيمُ، وَنَحْنُ
-عَيْبَةٌ عِلْمِهِ، وَنَحْنُ تَرَاجِمَةٌ وَحْيهِ، وَ نَحْنُ أرْكَانُ
-تَوْحِيدِهِ، وَنَحْنُ مَوضِعُ سِرِّهِ.
-  </p>
-</blockquote>
+> نَحْنُ أبْوَابُ الَّله‘ ونَحْنُ الصِّرَاطُ الْمُسْتَقِيمُ، وَنَحْنُ
+> عَيْبَةٌ عِلْمِهِ، وَنَحْنُ تَرَاجِمَةٌ وَحْيهِ، وَ نَحْنُ أرْكَانُ
+> تَوْحِيدِهِ، وَنَحْنُ مَوضِعُ سِرِّهِ.
 
 We are the gates to Allah; the straight path; the container of His
 knowledge; the interpreters of His revelation; the pillars of
@@ -1994,13 +1578,9 @@ monotheism; and the closet of His secrets.[^64]
 
 Imam Ali Amir al-Muminin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-ألأ إنَّ الْعِلْمَ الَّذِي هَبَطَ بِهِ آدَمُ وَ جَمِيعَ مَا فُضِّلَتْ
-بِهِ النَّبِيُّونَ إلَى خَاتَمِ النَّبِيِّينَ وَالْمُرْسَلِينَ،
-مُحَمَّدٍ! فَأيْنَ يُتَاهُ بِكُم؟ وَأيْنَ تَدهَبُونَ؟
-  </p>
-</blockquote>
+> ألأ إنَّ الْعِلْمَ الَّذِي هَبَطَ بِهِ آدَمُ وَ جَمِيعَ مَا فُضِّلَتْ
+> بِهِ النَّبِيُّونَ إلَى خَاتَمِ النَّبِيِّينَ وَالْمُرْسَلِينَ،
+> مُحَمَّدٍ! فَأيْنَ يُتَاهُ بِكُم؟ وَأيْنَ تَدهَبُونَ؟
 
 Beware! The knowledge brought down by Adam and the excellent deeds of
 the Prophets, up to the last one of them, is with the Progeny of the
@@ -2009,12 +1589,8 @@ are you going?[^65]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ، أهْلَ البَيتِ، مَفَاتِيحُ الرَّحْمَةِ وَمَوْضِعُ الرِّسَالَةِ
-وَ مُخْتَلَفُ الْمَلأئِكَةِ وَمَعْدِنُ الْعِلْمِ.
-  </p>
-</blockquote>
+> نَحْنُ، أهْلَ البَيتِ، مَفَاتِيحُ الرَّحْمَةِ وَمَوْضِعُ الرِّسَالَةِ
+> وَ مُخْتَلَفُ الْمَلأئِكَةِ وَمَعْدِنُ الْعِلْمِ.
 
 We, the Ahl al-Bayt, are the keys of Mercy, the destination of the
 Prophetic mission, the haunt of angels, and the source of
@@ -2022,13 +1598,9 @@ knowledge.[^66]
 
 Imam Zayn al-Abidin has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَنْقِمُ النَّاسُ مِنَّا؟ فَنَحْنُ، وَالَّلهِ، شَجَرَةُ
-النُّبُوَّةِ وَبَيْتُ الرَّحْمَةِ وَمَعْدِنُ الْعِلْمِ وَمُخْتَلْفُ
-الْمَلأئِكَةِ.
-  </p>
-</blockquote>
+> مَا يَنْقِمُ النَّاسُ مِنَّا؟ فَنَحْنُ، وَالَّلهِ، شَجَرَةُ
+> النُّبُوَّةِ وَبَيْتُ الرَّحْمَةِ وَمَعْدِنُ الْعِلْمِ وَمُخْتَلْفُ
+> الْمَلأئِكَةِ.
 
 Why do people harbor grudge against us? By Allah, we are the tree of
 Prophethood, the house of mercy, the source of knowledge and the haunt
@@ -2065,12 +1637,8 @@ Allah’sMessenger, they start weeping.
 
 Imam Ali (a.s) has been reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَبَدْتُكَ طَمَعاً فِي جَنَّتِكَ وَلأ خَوْفَاً مِنْ نَارِكَ!
-وَلَكِنْ وَجَدْتُكَ أهُلاً لِلْعِبَادَةِ فَعَبَدْتُكَ.
-  </p>
-</blockquote>
+> مَا عَبَدْتُكَ طَمَعاً فِي جَنَّتِكَ وَلأ خَوْفَاً مِنْ نَارِكَ!
+> وَلَكِنْ وَجَدْتُكَ أهُلاً لِلْعِبَادَةِ فَعَبَدْتُكَ.
 
 I served You (O Lord) not on account of desire for Paradise or fear of
 Hellfire; but I found You the worthiest of being worshipped. So, I
@@ -2078,13 +1646,9 @@ decided to serve You.[^68]
 
 The Imam (a.s.) also says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ قَوماً عَبَدوا الَّلهَ رَغَبَة، فَتِلكَ عِبَادَهُ التُّجَّارِ!
-وَإنَّ قَوْماً عَبَدوالًّلهَ رَهْبَةً، فَتِلْكَ عِبَادَةُ الْعَبِيدِ!
-وَإنَّ قَوماً عَبَدوا الَّلهَ شُكْراً، فَتِلْكَ عِبَادَةُ الأحْرَارِ.
-  </p>
-</blockquote>
+> إنَّ قَوماً عَبَدوا الَّلهَ رَغَبَة، فَتِلكَ عِبَادَهُ التُّجَّارِ!
+> وَإنَّ قَوْماً عَبَدوالًّلهَ رَهْبَةً، فَتِلْكَ عِبَادَةُ الْعَبِيدِ!
+> وَإنَّ قَوماً عَبَدوا الَّلهَ شُكْراً، فَتِلْكَ عِبَادَةُ الأحْرَارِ.
 
 Some people serve Allah out of desire for reward. This is the prayer of
 the merchants. Others serve Allah out of fear, which is the prayer of
@@ -2101,11 +1665,7 @@ praying so much so that Aishah said, “O Allah’sMessenger! Why are you
 making yourself so tired while Allah has forgiven your faults (if at all
 there were any) in the past and future?” The Holy Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-اَفَلأ أكُونُ عَبْداً شَكُوراً؟
-  </p>
-</blockquote>
+> اَفَلأ أكُونُ عَبْداً شَكُوراً؟
 
 "Should I not be a grateful servant before Allah?"[^70]
 
@@ -2114,11 +1674,7 @@ Imam al-Baqir (a.s.) has further said:
 Allah’s Messenger prayed so much so that Allah revealed the following
 verse,
 
-<blockquote dir="rtl">
-  <p>
-طه مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ
-  </p>
-</blockquote>
+> طه مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ
 
 ***Ta-Ha! We have not revealed the Quranto you that you may be
 exhausted. (20:1-2)***
@@ -2137,23 +1693,15 @@ then was obligatory for all.
 Devotion is to coordinate all activities and inactivates, as well as
 life and death with the will of Allah based on a pure intention:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ
+> الْعَالَمِينَ
 
 ***Say: Surely my prayer and my sacrifice and my life and my death are
 (all) for Allah, the Lord of the worlds. (6:162)***
 
 Imam al-Sadiq (a.s.) has been reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-الْعُبُودِيَّةٌ جَوْهَرَةٌ كُنْهُهَا الرُّبُوبِيَّةٌ
-  </p>
-</blockquote>
+> الْعُبُودِيَّةٌ جَوْهَرَةٌ كُنْهُهَا الرُّبُوبِيَّةٌ
 
 Serving Allah is a noble act leading to Godliness.
 
@@ -2164,48 +1712,28 @@ To attain devotion, one must go through certain stages as follows:
 ***Stage one*** is to control oneself by promoting the quality of prayer
 with a pure intention as required by Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ...
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ...
 
 ***And as for those who strive hard for us, we will most certainly guide
 them in Our ways… (29:69)***
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا...
-  </p>
-</blockquote>
+> إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا...
 
 ***If you are careful of your duty to Allah, H e will grant you a
 distinction… (8:29)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ...
-  </p>
-</blockquote>
+> إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ...
 
 ***Surely prayer keeps (one) away from indecency and evil. (29:45)***
 
-<blockquote dir="rtl">
-  <p>
-كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ
-قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ
+> قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***Fasting is prescribed for you, as it was prescribed for those before
 you, so that you may guard against evil. (2:183)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ
-...
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ
+> ...
 
 ***O you who believe! Seek assistance through patience and prayer.
 (2:153)***
@@ -2228,11 +1756,7 @@ disruption.
 
 Based on the following holy verse,
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
 
 ***Allah does not impose upon any soul a duty but to the extent of its
 ability (2:286)***
@@ -2263,11 +1787,7 @@ is internalized for him so that he can realize it whenever he wishes.
 that man can do extraordinary deeds in relation to his body. In this
 connection, Imam al-Sadiq (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا ضَعُفَ بَدَنٌ عَمَّا قَوِيَتْ عَلَيْهِ النَّيَّةٌ.
-  </p>
-</blockquote>
+> مَا ضَعُفَ بَدَنٌ عَمَّا قَوِيَتْ عَلَيْهِ النَّيَّةٌ.
 
 Body does not show weakness when there is strong intention.[^71]
 
@@ -2287,11 +1807,7 @@ permission. This permission is to grant a kind of authority, which is
 the source of miracles, and if Allah does not will, he denies the
 authority:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ...
-  </p>
-</blockquote>
+> وَمَا كَانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ...
 
 ***And it was not meet for an apostle that he should bring a sign except
 with Allah's permission. (40:***78***)***
@@ -2314,16 +1830,12 @@ everyone can do so to the extent of his affinity with Allah.
 Imam al-Sadiq (a.s) has reported Allah's Messenger as saying that Allah
 Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-مَا تَقَّرَّبَ إلَيَّ عَبْدٌ بِشَيْءٍ أحَبَّ الَيَّ مِمَّا افْتَرضْتُ
-عَلَيْهِ، وَانَّهُ لَيَتَقَرَّبُ الَّيَّ بالنَّافِلَةِ حَتَي أحِبَّهُ،
-فَإذَا أحْبَبتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ وَبَصَرَهُ
-الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنْطِقُ بِهِ وَيَدَهُ
-الَّذِي يَبْطِشُ بِهَا. إنْ دَعَانِي أجَبْتُهُ وَإنْ سألَنِي
-أعْطَيْتُهُ.
-  </p>
-</blockquote>
+> مَا تَقَّرَّبَ إلَيَّ عَبْدٌ بِشَيْءٍ أحَبَّ الَيَّ مِمَّا افْتَرضْتُ
+> عَلَيْهِ، وَانَّهُ لَيَتَقَرَّبُ الَّيَّ بالنَّافِلَةِ حَتَي أحِبَّهُ،
+> فَإذَا أحْبَبتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ وَبَصَرَهُ
+> الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنْطِقُ بِهِ وَيَدَهُ
+> الَّذِي يَبْطِشُ بِهَا. إنْ دَعَانِي أجَبْتُهُ وَإنْ سألَنِي
+> أعْطَيْتُهُ.
 
 A servant cannot seek nearness to Me through any means that may be more
 beloved to Me than (carrying out) religious duties. He may seek My
@@ -2352,11 +1864,7 @@ prayer that he did not feel the pain.
 Imam al-Sadiq (a.s.) reported that when Imam Zayn al-Abidin (a.s.) was
 reading a part of Imam Ali's Book on prayer, he would say to himself,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِيِقُ هَذَا؟ مَنْ يُطِيقُ هَذَا؟
-  </p>
-</blockquote>
+> مَنْ يُطِيِقُ هَذَا؟ مَنْ يُطِيقُ هَذَا؟
 
 "Who can have such tolerance? Who can have such tolerance?"
 
@@ -2379,12 +1887,8 @@ answered, “Should I not be a grateful servant?”[^74]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ أبِي يُصَلَّي فِي جَوفِ الَّيلِ فَيَسْجُدُ السَّجْدَةَ فَيُطِيلُ
-حَتَّي نَقُولَ: إنَّهُ رَاقِدٌ.
-  </p>
-</blockquote>
+> كَانَ أبِي يُصَلَّي فِي جَوفِ الَّيلِ فَيَسْجُدُ السَّجْدَةَ فَيُطِيلُ
+> حَتَّي نَقُولَ: إنَّهُ رَاقِدٌ.
 
 My father prayed in the middle of the night. His prostration would be so
 long that we would think that he had gone to sleep.[^75]
@@ -2428,22 +1932,14 @@ linking them to the Morning Prayer and would be engaged in recommended
 acts of worship until sunrise. Then he would prolong his prostration
 until Noon Prayer, saying:
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُمَّ إنِّي أسْألُكَ الرَّاحَةعِنْدَ الْمَوتِ وَالْعَفْوَ عِنْدَ
-الْحِسَابِ.
-  </p>
-</blockquote>
+> أللَّهُمَّ إنِّي أسْألُكَ الرَّاحَةعِنْدَ الْمَوتِ وَالْعَفْوَ عِنْدَ
+> الْحِسَابِ.
 
 O Allah! I am asking You to ease death and forgiveness at Reckoning.
 
 In one of his prayers, he would say:
 
-<blockquote dir="rtl">
-  <p>
-عَظُمَ الدَّنْبُ فَلْيَحْسُنِ الْعَفْوُ مِنْ عِنْدِكَ.
-  </p>
-</blockquote>
+> عَظُمَ الدَّنْبُ فَلْيَحْسُنِ الْعَفْوُ مِنْ عِنْدِكَ.
 
 Grave has been the sin of Your servant; so, let forgiveness from You be
 nice.
@@ -2481,27 +1977,23 @@ for gaining nearness to Allah in readiness to meet Him.
 
 Imam al-Hadi (a.s.) describes Ahl al-Bayt as such:
 
-<blockquote dir="rtl">
-  <p>
-أسَّلامُ عَلَيْكُم يَا أهْلَ بَيتِ النُّبُوَّةِ، وَمَوضِعَ
-الرِّسالَةِ، وَمُخْتَلَفَ الْملائِكَةِ، وَمَهْبِطَ الْوَحْىِ،
-وَمَعْدِنَ الرَّحْمَةِ، وَخُزَّانَ الْعِلْمِ، وَ مُنْتَهَى الْحِلْمِ،
-وَأُصُولَ الْكَرَمِ، وَقَادَةَ الأُمَمِ، وَأوْلِياءَ النِّعَمِ،
-وَعَنَاصِرَ الأبْرارِ وَ دَعَائِمَ الأخْيَارِ، وَسَاسَة الْعِبادِ،
-وأرْكَانَ البِلادِ، وَأبْوَابَ الأْيمَانِ، وَأُمَناءَ الرَّحْمنِ،
-وَسُلالَة النَّبِيِّينَ، وَصَفْوَةَ الْمُرسَلينَ، وَعِتْرَةَ خِيَرَةِ
-رَبِّ الْعالَمينَ وَرَحْمَةٌ اللَّهِ وَ بَرَكاتُهُ، أسَّلامُ عَلى
-أئِمَّةِ الْهُدى، وَمَصَابِيحِ الدُّجى، وَأعْلامِ التُّقى، وَ ذَوِى
-النُّهى، وَأُولِى الْحِجى، وَ كَهْفِ الْوَرى، وَوَرَثَةِ الأنْبِياءِ،
-وَمَثَلِ الأعْلى، وَالدَّعْوَةِ الْحُسْنى، وَحُجَجِ اللَّهِ أهْلِ
-الدُّنْيا وَالأخِرَةِ والأُّولى وَرَحْمَةُ وَبَرَكاتُهُ، ألسَّلامُ
-عَلى مَحَالِّ مَعْرِفَةِ اللَّهِ، وَمَسَاكِنِ وَ بَرَكَاةِ اللَّهِ،
-وَمَعَادِنِ حِكْمَةِ اللَّهِ، وَحَفَظَةِ سِرِّ اللَّهِ، وَحَمَلَةِ
-كِتابِ اللَّهِ، وَأوْصِياءِ نَبِيِّ اللَّهِ، وَذُّرِّيَّةِ رَسُولِ
-اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَلِهِ وَرَحْمَةُ اللَّهِ
-وَبَرَكاتُهُ، أسَّلامُ عَلَى الدُّعَاةِ الَى اللَّهِ.
-  </p>
-</blockquote>
+> أسَّلامُ عَلَيْكُم يَا أهْلَ بَيتِ النُّبُوَّةِ، وَمَوضِعَ
+> الرِّسالَةِ، وَمُخْتَلَفَ الْملائِكَةِ، وَمَهْبِطَ الْوَحْىِ،
+> وَمَعْدِنَ الرَّحْمَةِ، وَخُزَّانَ الْعِلْمِ، وَ مُنْتَهَى الْحِلْمِ،
+> وَأُصُولَ الْكَرَمِ، وَقَادَةَ الأُمَمِ، وَأوْلِياءَ النِّعَمِ،
+> وَعَنَاصِرَ الأبْرارِ وَ دَعَائِمَ الأخْيَارِ، وَسَاسَة الْعِبادِ،
+> وأرْكَانَ البِلادِ، وَأبْوَابَ الأْيمَانِ، وَأُمَناءَ الرَّحْمنِ،
+> وَسُلالَة النَّبِيِّينَ، وَصَفْوَةَ الْمُرسَلينَ، وَعِتْرَةَ خِيَرَةِ
+> رَبِّ الْعالَمينَ وَرَحْمَةٌ اللَّهِ وَ بَرَكاتُهُ، أسَّلامُ عَلى
+> أئِمَّةِ الْهُدى، وَمَصَابِيحِ الدُّجى، وَأعْلامِ التُّقى، وَ ذَوِى
+> النُّهى، وَأُولِى الْحِجى، وَ كَهْفِ الْوَرى، وَوَرَثَةِ الأنْبِياءِ،
+> وَمَثَلِ الأعْلى، وَالدَّعْوَةِ الْحُسْنى، وَحُجَجِ اللَّهِ أهْلِ
+> الدُّنْيا وَالأخِرَةِ والأُّولى وَرَحْمَةُ وَبَرَكاتُهُ، ألسَّلامُ
+> عَلى مَحَالِّ مَعْرِفَةِ اللَّهِ، وَمَسَاكِنِ وَ بَرَكَاةِ اللَّهِ،
+> وَمَعَادِنِ حِكْمَةِ اللَّهِ، وَحَفَظَةِ سِرِّ اللَّهِ، وَحَمَلَةِ
+> كِتابِ اللَّهِ، وَأوْصِياءِ نَبِيِّ اللَّهِ، وَذُّرِّيَّةِ رَسُولِ
+> اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَلِهِ وَرَحْمَةُ اللَّهِ
+> وَبَرَكاتُهُ، أسَّلامُ عَلَى الدُّعَاةِ الَى اللَّهِ.
 
 Peace be on you, O Household of the Prophet! You are the center of the
 Divine mission. Unto you the angels return to adopt your opinions and to
@@ -2535,23 +2027,15 @@ trustees of Allah. For this reason, they made a covenant to prepare the
 ground for the advent of the root of Ahl al-Bayt, namely, the Holy
 Prophet.
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يُخْلِ سُبْحَانَهُ خَلْقَهُ مِنْ نَبِيٍّ مُرْسَلٍ أوْ كِتَابٍ
-مُنْزَلٍ أوِّ حُجَّةٍ لأزِمَةٍ.
-  </p>
-</blockquote>
+> وَلَمْ يُخْلِ سُبْحَانَهُ خَلْقَهُ مِنْ نَبِيٍّ مُرْسَلٍ أوْ كِتَابٍ
+> مُنْزَلٍ أوِّ حُجَّةٍ لأزِمَةٍ.
 
 Allah never allowed His creation to remain without a Prophet deputed by
 Him, or a book sent down from Him or a binding argument.[^82]
 
 Based on this, the Holy Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> نَحْنُ الآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ.
 
 We are the last ones in this world but foremost on the Judgment
 Day.[^83]
@@ -2559,11 +2043,7 @@ Day.[^83]
 Shiite and Sunni reference books of *Hadith* have reported Allah’s
 Messenger as saying:
 
-<blockquote dir="rtl">
-  <p>
-آدَمُ وَمَنْ دُونَهُ تَحْتَ لِوَائِي يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> آدَمُ وَمَنْ دُونَهُ تَحْتَ لِوَائِي يَوْمَ الْقِيَامَةِ.
 
 Adam as well as all the other human beings will be under my banner on
 the Judgment Day. [^84]
@@ -2594,11 +2074,7 @@ the universe will merge into an absolute contraction and the second
 darkness begins after the passage of millions of years of the first
 darkness. At that time, Allah will say:
 
-<blockquote dir="rtl">
-  <p>
-لِمَنِ اٌمُلْكُ اٌلْيَوْمَ؟
-  </p>
-</blockquote>
+> لِمَنِ اٌمُلْكُ اٌلْيَوْمَ؟
 
 ***To whom belongs the kingdom today? (40:16)***
 
@@ -2614,11 +2090,7 @@ Allah on that day. With his being the Face of Allah and His Light, the
 scene of the final gathering will be illuminated and an eternal day
 would emerge:
 
-<blockquote dir="rtl">
-  <p>
-وَأشْرَقَتِ اٌلأَرْضُ بِنُورِ رَبِّهاَ وَوُضِعَ الْكِتَبُ...
-  </p>
-</blockquote>
+> وَأشْرَقَتِ اٌلأَرْضُ بِنُورِ رَبِّهاَ وَوُضِعَ الْكِتَبُ...
 
 ***And the earth shall beam with the light of its Lord and the Book
 shall be laid down. (39:69)***
@@ -2635,13 +2107,9 @@ secrets will be disclosed and then the Reckoning will begin.
 
 Reporting the Holy Prophet (S), Imam al-Baqir (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-أنَا أوَّلُ وَافِدٍ عَلى العَزِيزِ الْجَبَّارِ يَوْمَ القِيَامَة،
-وَكِتَابُهُ ؤأهْلُ بَيْتِي، ثُمَّ أمَّتِي، ثُمَّ أسْألُهُمْ مَا
-فَعَلْتُمْ بِكِتَابِ اللَّهِ وِأهْلِ بَيْتِي؟
-  </p>
-</blockquote>
+> أنَا أوَّلُ وَافِدٍ عَلى العَزِيزِ الْجَبَّارِ يَوْمَ القِيَامَة،
+> وَكِتَابُهُ ؤأهْلُ بَيْتِي، ثُمَّ أمَّتِي، ثُمَّ أسْألُهُمْ مَا
+> فَعَلْتُمْ بِكِتَابِ اللَّهِ وِأهْلِ بَيْتِي؟
 
 I will be the first to stand before Allah along with His Book and Ahl
 al-Bayt and then my ummah. Then I will ask my ummah, “How did you treat
@@ -2656,13 +2124,9 @@ glorifying Allah until He put each of those pure souls in a body at the
 proper time and revealed them among people for their guidance as a
 favor:
 
-<blockquote dir="rtl">
-  <p>
-خَلْقَكُمُ اللَّهُ أنْوَاراً فَجَعَلَكُمْ بِعَرْشِهِ مُحْدِقِينَ
-حَتَّي مَنَّ عَلَيْنَا بِكُمْ فَجَعَلَكُمْ بُيُوتٍ أذِنَ اللًّهُ أنْ
-تُرْفَعَ وَيُدْكَرَ فِيهَا اسْمُهُ.
-  </p>
-</blockquote>
+> خَلْقَكُمُ اللَّهُ أنْوَاراً فَجَعَلَكُمْ بِعَرْشِهِ مُحْدِقِينَ
+> حَتَّي مَنَّ عَلَيْنَا بِكُمْ فَجَعَلَكُمْ بُيُوتٍ أذِنَ اللًّهُ أنْ
+> تُرْفَعَ وَيُدْكَرَ فِيهَا اسْمُهُ.
 
 Allah created you in the form of light; He then kept you closely
 attached with his Throne until you were sent down to this world as a
@@ -2673,12 +2137,8 @@ O Ahl al-Bayt, you were like Noah’s Ark from the time you were placed
 around Allah’s Throne to save those who have fallen into the whirlpool
 of tribulation:
 
-<blockquote dir="rtl">
-  <p>
-فَبَلَغَ اللَّهُ بِكُمْ أشْرَفَ مَحَلِّ الْمُكَرَّمِينَ وأعلَى
-مَنَازِلِ الْمُقَرَّبِينَ وَ أرْفَعَ دَرَجَاتِ الْمُرْسَلِينَ.
-  </p>
-</blockquote>
+> فَبَلَغَ اللَّهُ بِكُمْ أشْرَفَ مَحَلِّ الْمُكَرَّمِينَ وأعلَى
+> مَنَازِلِ الْمُقَرَّبِينَ وَ أرْفَعَ دَرَجَاتِ الْمُرْسَلِينَ.
 
 Allah made you reach the noblest position of glory, the highest station
 that was nearest to Him, and the loftiest status among those of the
@@ -2693,14 +2153,10 @@ saying: When Adam fell from heaven, he was deprived of associating with
 the angels and lost a garment of dignity which covered his private
 parts, he said to Allah,
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُمَّ بِجَاهِ مُحَمَّدٍ وَعَلِيٍّ وَ فَاطِمَةَ وَالْحَسَنِ
-وَالحُسَيْنِ وَ الطَّيَّبِينَ مِنْ آلِهِمْ لَمَّا تَفَضَّلَتَ
-بِقَبُولِ تَوْبَتِي وَ غُفْرَانِ زَلَّتِي وَإعَادَتِي مِنْ كَرَامَتِكَ
-إلَى مَرْتَبَتِي.
-  </p>
-</blockquote>
+> أللَّهُمَّ بِجَاهِ مُحَمَّدٍ وَعَلِيٍّ وَ فَاطِمَةَ وَالْحَسَنِ
+> وَالحُسَيْنِ وَ الطَّيَّبِينَ مِنْ آلِهِمْ لَمَّا تَفَضَّلَتَ
+> بِقَبُولِ تَوْبَتِي وَ غُفْرَانِ زَلَّتِي وَإعَادَتِي مِنْ كَرَامَتِكَ
+> إلَى مَرْتَبَتِي.
 
 “O Allah! By the honor of Muhammad, Ali, Fatimah, Hasan and Husayn and
 the purified ones of Ahl al-Bayt, do me a favor by accepting my
@@ -2711,12 +2167,8 @@ pleasure, send my bounties and blessings to you, restore your position
 by My grace, and make perfect for you your share of My mercy.” This is
 the meaning of Allah’s words,
 
-<blockquote dir="rtl">
-  <p>
-فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ
-هُوَ التَّوَّابُ الرَّحِيمُ
-  </p>
-</blockquote>
+> فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ
+> هُوَ التَّوَّابُ الرَّحِيمُ
 
 ***"Then Adam received some words form his Lord, So He turned to him
 mercifully; surely He is oft-returning (to mercy), the Merciful.
@@ -2725,12 +2177,8 @@ mercifully; surely He is oft-returning (to mercy), the Merciful.
 Abu-Dharr, touching the door of Kabah said I have heard Allah’s
 Messenger say:
 
-<blockquote dir="rtl">
-  <p>
-ألأ إنَّ مَثَلَ أهْلِ بَيْتِي فِيكُمْ مَثَلُ سَفِينَةِ نُوحٍ؛ مَنْ
-رَكِبَهَا نَجَا، وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ.
-  </p>
-</blockquote>
+> ألأ إنَّ مَثَلَ أهْلِ بَيْتِي فِيكُمْ مَثَلُ سَفِينَةِ نُوحٍ؛ مَنْ
+> رَكِبَهَا نَجَا، وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ.
 
 Beware! The parable of my Ahl al-Bayt among you is like Noah’s Ark.
 Whoever enters it will be saved and whoever refuses to enter it will
@@ -2749,13 +2197,9 @@ shore of safety.
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ سَفِينَةٌ النَّجَاةِ؛ مَنْ تَعَلَّقَ بِهَا نَجَا، وَ مَنْ حَادَ
-عَنْهَا هَلَكَ. فَمَنْ كَانَ لَهُ إلَى اللَّهِ حَاجَةَ فَلْيَسْألْ
-بِنَا أهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> نَحْنُ سَفِينَةٌ النَّجَاةِ؛ مَنْ تَعَلَّقَ بِهَا نَجَا، وَ مَنْ حَادَ
+> عَنْهَا هَلَكَ. فَمَنْ كَانَ لَهُ إلَى اللَّهِ حَاجَةَ فَلْيَسْألْ
+> بِنَا أهْلَ الْبَيْتِ.
 
 We are the boat of salvation. Whoever holds on to it will be saved, and
 whomever keeps away from it will meet perdition, whoever has a request
@@ -2763,17 +2207,13 @@ from Allah should ask for it through us, the Ahl al-Bayt. [^91]
 
 Addressing Kumayl, Imam Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-يَا كُمَيْلُ! قَالَ رَسُولُ اللَّهِ قَوْلاً – وَاُلمُهَاجِرُونَ
-وَالأنْصَارُ مُتَوَا فِرُونَ يَوماً بَعْدَ الْعَصْرِ يَومَ الْنِّصْفِ
-مِنْ شَهْرِ رَمَضَانَ- قَاىِماً عَلْى قَدَمَيْهِ فَوْقَ مِنْبَرِهِ.
-عَلِيٌ وَا بْنَايَ مِنْهُ الْطَّيِّبُونَ مِنِّي، وَهُمُ الطَّيِّبُونَ
-بَعْدَ أُمِّهِمْ، وَهُم سَفِينَةٌ مَنْ رَكَبِهَا نَجَا وَمَنْ
-تَخَلَّفَ عَنْهَا هَوَى؛ النَّاجِي فِي الْجَنَّةِ وَالهَاوِي فِي
-لَظَى.
-  </p>
-</blockquote>
+> يَا كُمَيْلُ! قَالَ رَسُولُ اللَّهِ قَوْلاً – وَاُلمُهَاجِرُونَ
+> وَالأنْصَارُ مُتَوَا فِرُونَ يَوماً بَعْدَ الْعَصْرِ يَومَ الْنِّصْفِ
+> مِنْ شَهْرِ رَمَضَانَ- قَاىِماً عَلْى قَدَمَيْهِ فَوْقَ مِنْبَرِهِ.
+> عَلِيٌ وَا بْنَايَ مِنْهُ الْطَّيِّبُونَ مِنِّي، وَهُمُ الطَّيِّبُونَ
+> بَعْدَ أُمِّهِمْ، وَهُم سَفِينَةٌ مَنْ رَكَبِهَا نَجَا وَمَنْ
+> تَخَلَّفَ عَنْهَا هَوَى؛ النَّاجِي فِي الْجَنَّةِ وَالهَاوِي فِي
+> لَظَى.
 
 O Kumayl! One day, while the Helpers (Ansar) and the Immigrants
 (Muhajirun) who had gathered to follow for the Afternoon Prayer in
@@ -2785,11 +2225,7 @@ Hellfire.[^92]
 
 Imam Ali (a.s.) has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اتَّبَعَ أمْرَنَا سَبَقَ، مَنْ رَكِبَ غَيْرَ سَفِنَتِنَا غَرَقَ.
-  </p>
-</blockquote>
+> مَنِ اتَّبَعَ أمْرَنَا سَبَقَ، مَنْ رَكِبَ غَيْرَ سَفِنَتِنَا غَرَقَ.
 
 Whoever follows our command will be successful and whoever enters any
 ship other than ours will be drowned.[^93]
@@ -2798,25 +2234,17 @@ As we know, stars help those traveling by sea to come to the shore of
 safety. In a narration, the Holy Prophet (S) compares Ahl al-Bayt with
 stars in terms of safety:
 
-<blockquote dir="rtl">
-  <p>
-الْنُّجُومُ أمَانٌ لأِهْلِ الأرْضِ مِنَ الْغَرقِ، وَأهْلُ بَيْتِي
-أمَانٌ لأُمَّتِي مِنْ الإخْتِلأفِ؛ فَإذَا خَالَفَتُهَا قَبِيلَةَ مِنَ
-الْعَرَبِ اخْتَلَفُوا فَصَارُوا حِزْبَ إبْلِيسَ.
-  </p>
-</blockquote>
+> الْنُّجُومُ أمَانٌ لأِهْلِ الأرْضِ مِنَ الْغَرقِ، وَأهْلُ بَيْتِي
+> أمَانٌ لأُمَّتِي مِنْ الإخْتِلأفِ؛ فَإذَا خَالَفَتُهَا قَبِيلَةَ مِنَ
+> الْعَرَبِ اخْتَلَفُوا فَصَارُوا حِزْبَ إبْلِيسَ.
 
 Stars are a source of guidance for those living on the earth and my Ahl
 al-Bayt are a source of safety from differences. So, if any Arab tribe
 challenges them, they will be engaged with discrepancies among each
 other and hence become a party to Satan.[^94]
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا مَثَلُ أهْلِ بَيْتِي فِيكُمْ مَثَلُ بَابِ حِطَّةٍ فِي بَنِي
-إسْرَائيلَ؛ مَنْ دَخَلَهُ غُفِرَ لَهُ.
-  </p>
-</blockquote>
+> إنَّمَا مَثَلُ أهْلِ بَيْتِي فِيكُمْ مَثَلُ بَابِ حِطَّةٍ فِي بَنِي
+> إسْرَائيلَ؛ مَنْ دَخَلَهُ غُفِرَ لَهُ.
 
 Verily, the parable of my Ahl al-Bayt is like the gate of *Hittah*
 (forgiveness) for the children of Israel. Whoever goes through it will
@@ -2824,34 +2252,22 @@ be forgiven.[^95]
 
 Imam Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ بَابُ حِطَّةٍ، وَهُوَ بَابُ السَّللأمُ، مَنْ دَخَلَهُ نَجَا،
-وَمَنْ تَخَلَّفَ عَنْهُ هَوَى.
-  </p>
-</blockquote>
+> نَحْنُ بَابُ حِطَّةٍ، وَهُوَ بَابُ السَّللأمُ، مَنْ دَخَلَهُ نَجَا،
+> وَمَنْ تَخَلَّفَ عَنْهُ هَوَى.
 
 We are the gate of *Hittah*, which is the gate of peace and safety.
 Whoever enters through it will be saved and whoever refuses will meet
 perdition.[^96]
 
-<blockquote dir="rtl">
-  <p>
-ألأ إنَّ الْعِلْمَ الَّذِي فِي هَبَطَ بِهِ آدَمُ وَجَميَعَ مَا
-فُضِّلَتْ بِهِ الَّبِيُّونَ إلَى خَاتَمِ النَّبِيِّنَ فِي عِتْرَةِ
-خَاتَمِ النَّبِيِّينَ فِي عِتْرَةِ خَاتِمِ النَّبِيِّينَ، فَأيْنَ
-يُتَاهُ بِكُمْ؟ وَأيْنَ تَدْهَبُونَ؟ وَإنَّهُم فِيكُمْ كَأصْحَابِ
-الْكَهْفِ، وَمَثَلٌهُمْ بَابُ حِطَّةٍ، وَهُمْ بَابُ حِطَّةٍ، وَهُم
-بَابُ حِطَّةٍ، وَهُمْ بَابُ السِّلْمِ فِي قَولِهِ تَعَالَى:
-  </p>
-</blockquote>
+> ألأ إنَّ الْعِلْمَ الَّذِي فِي هَبَطَ بِهِ آدَمُ وَجَميَعَ مَا
+> فُضِّلَتْ بِهِ الَّبِيُّونَ إلَى خَاتَمِ النَّبِيِّنَ فِي عِتْرَةِ
+> خَاتَمِ النَّبِيِّينَ فِي عِتْرَةِ خَاتِمِ النَّبِيِّينَ، فَأيْنَ
+> يُتَاهُ بِكُمْ؟ وَأيْنَ تَدْهَبُونَ؟ وَإنَّهُم فِيكُمْ كَأصْحَابِ
+> الْكَهْفِ، وَمَثَلٌهُمْ بَابُ حِطَّةٍ، وَهُمْ بَابُ حِطَّةٍ، وَهُم
+> بَابُ حِطَّةٍ، وَهُمْ بَابُ السِّلْمِ فِي قَولِهِ تَعَالَى:
 
-<blockquote dir="rtl">
-  <p>
-. يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً
-وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ
-  </p>
-</blockquote>
+> . يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً
+> وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ
 
 Beware, the knowledge that Adam brought with him and the knowledge of
 all Prophets are with the Ahl al-Bayt. So why are you bewildered and
@@ -2859,31 +2275,23 @@ where are you bound to go? Ahl al-Bayt among you are like the People of
 the Cave and like the Gate of Hittah. They are the gate to peace and
 safety mentioned in the words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا
-تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا
+> تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ
 
 ***O you who believe! Enter into submission one and all, and do not
 follow the footsteps of Shaitan (2:208)***[^97]
 
 Addressing Imam Ali (a.s.) the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُكُمْ يَا عَلِيُّ مَثَلُ بَيْتِ اللَّهِ الْحَرَامِ؛ مَنْ دَخَلَهُ
-كَانَ فَمَنْ أحَبَّكُمْ وَوَالأكُم كَانَ آمِناً مِنْ عَذَابِ النَّارِ.
-وَ مَنْ أبْغَضَكُمْ كَانَ اُلْقِيَ فِي النَّارِ. يَا عَلِيُ وَلِلَّهِ
-عَلَى اٌلنَّاسِ حِجُّ اٌلبَيْتِ مَنِ اٌسْتَطَاعَ إِلَيهِ سَبِيلاً
-وَمَنْ كَانَا لهُ عُدْرٌ فَلَهُ عُدْرُهُ. وَمَنْ كَانَ فَقِيراً فَلَهُ
-عُدْرُهُ. وَمَنْ كَانَا مَرِضاً فَلَهُ عُدْرُهُ، إنَّ اللَّهَ
-لأيَعْدُرُ غَنِياً وَ لأ فَقِيراً فَلَهُ عُدْرُهُ. إنَّ اللَّهَ
-لأيعْدُرُ غَنِّياً وَلأ فَقِيراً وَلأ مَريضاً وَلأ صَحِيحاً وَلأ
-بَصِيراً فِي تَفْرِيطِهِ فِي مُوَالأتِكُمْ وَمَحَبَّتِكُمْ.
-  </p>
-</blockquote>
+> مَثَلُكُمْ يَا عَلِيُّ مَثَلُ بَيْتِ اللَّهِ الْحَرَامِ؛ مَنْ دَخَلَهُ
+> كَانَ فَمَنْ أحَبَّكُمْ وَوَالأكُم كَانَ آمِناً مِنْ عَذَابِ النَّارِ.
+> وَ مَنْ أبْغَضَكُمْ كَانَ اُلْقِيَ فِي النَّارِ. يَا عَلِيُ وَلِلَّهِ
+> عَلَى اٌلنَّاسِ حِجُّ اٌلبَيْتِ مَنِ اٌسْتَطَاعَ إِلَيهِ سَبِيلاً
+> وَمَنْ كَانَا لهُ عُدْرٌ فَلَهُ عُدْرُهُ. وَمَنْ كَانَ فَقِيراً فَلَهُ
+> عُدْرُهُ. وَمَنْ كَانَا مَرِضاً فَلَهُ عُدْرُهُ، إنَّ اللَّهَ
+> لأيَعْدُرُ غَنِياً وَ لأ فَقِيراً فَلَهُ عُدْرُهُ. إنَّ اللَّهَ
+> لأيعْدُرُ غَنِّياً وَلأ فَقِيراً وَلأ مَريضاً وَلأ صَحِيحاً وَلأ
+> بَصِيراً فِي تَفْرِيطِهِ فِي مُوَالأتِكُمْ وَمَحَبَّتِكُمْ.
 
 O Ali! The parable of you, Ahl al-Bayt, is like the sacred House of
 Allah. Whoever has entered it is safe. So whoever loves you will be
@@ -2899,13 +2307,9 @@ sick or the healthy who fail to love you, the Ahl al-Bayt. [^98]
 
 The Holy Prophet (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-إجْعَلُوا أهْلَ بَيتي مِنْكُم مَكَانَ الرَّاسِ مِنْ الجَسَدِ وَمَكَانَ
-العَيْنَيْنِ مِنَ الرَّاسِ. فَإنَّ الجَسَدَ لأ يَهْتَدي إلأ بِالرَّأسِ
-وَلأيَهْتَدي الرَّأسُ إلأبِالْعَيْنَيْنِ.
-  </p>
-</blockquote>
+> إجْعَلُوا أهْلَ بَيتي مِنْكُم مَكَانَ الرَّاسِ مِنْ الجَسَدِ وَمَكَانَ
+> العَيْنَيْنِ مِنَ الرَّاسِ. فَإنَّ الجَسَدَ لأ يَهْتَدي إلأ بِالرَّأسِ
+> وَلأيَهْتَدي الرَّأسُ إلأبِالْعَيْنَيْنِ.
 
 Consider my Ahl al-Bayt as the head is to the body and the two eyes are
 to the head. The body cannot find the way except with the head and the
@@ -2944,21 +2348,13 @@ tempted by Satan, among the devoted servants of Allah, engaged in good
 deeds, helpful to people, and is propagating knowledge and faith is
 considered as Imam:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
-  </p>
-</blockquote>
+> قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
 
 ***He said: Surely I will make you an Imam of men. (2:124)***
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
-إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ
-الزَّكَاةِ ۖ وَكَانُوا لَنَا عَابِدِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
+> إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ
+> الزَّكَاةِ ۖ وَكَانُوا لَنَا عَابِدِينَ
 
 ***And we made them Imams who guided people by Our Command, and We
 revealed to them the doing of good and the keeping up of the prayer and
@@ -2970,13 +2366,9 @@ path makes man reach the station of nearness to Allah, to achieve a
 great victory, and to be saved from eternal. Commenting on the Straight
 Path, Imam Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-الصِّرَاطُ الْمُسْتَقِيمُ فِي الدُّنْيَا مَا قَصُرَ عَنِ الغُلُوِّ
-وَارْتَفَعَ عَنِ التَّقْصِيرِ وَاسْتَقَامَ، وَفِي الآخِرَةِ طَرِيقُ
-الْمُؤْمِنِينَ إلَى الْجَنَّةِ.
-  </p>
-</blockquote>
+> الصِّرَاطُ الْمُسْتَقِيمُ فِي الدُّنْيَا مَا قَصُرَ عَنِ الغُلُوِّ
+> وَارْتَفَعَ عَنِ التَّقْصِيرِ وَاسْتَقَامَ، وَفِي الآخِرَةِ طَرِيقُ
+> الْمُؤْمِنِينَ إلَى الْجَنَّةِ.
 
 The straight path in this world is a path without extremes, it is right
 and firm; and in the Hereafter, it is the believers' path towards
@@ -2998,13 +2390,9 @@ Holy Prophet and Ahl al-Bayt are commissioned by Allah to express these
 facts. Without seeking help from their extensive knowledge on the Holy
 Qur'an, we will certainly go astray:
 
-<blockquote dir="rtl">
-  <p>
-… هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
-وَالْحِكْمَةَ
-  </p>
-</blockquote>
+> … هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
+> وَالْحِكْمَةَ
 
 ***He it is who raised among the illiterates an Apostle from among
 themselves, who recites to them His communications and purifies them,
@@ -3017,11 +2405,7 @@ those words including the word *Sirat* through them.
 
 Commenting on the holy verse:
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
 
 ***‘Keep us on the right path*** ***(1:6)***’
 
@@ -3046,12 +2430,8 @@ Without Ahl al-Bayt, there will be neither straight path in the meaning
 of the Holy Quran nor any understanding of its subtleties. In this
 relation, Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الطَّرِيقُ وَصِراطُ اللَّهِ الْمُسْتَقِيمُ إلَى اللَّهِ
-تَعَالَى.
-  </p>
-</blockquote>
+> نَحْنُ الطَّرِيقُ وَصِراطُ اللَّهِ الْمُسْتَقِيمُ إلَى اللَّهِ
+> تَعَالَى.
 
 We (Ahl al-Bayt) are the Road and the Straight Path towards Allah.[^102]
 
@@ -3078,16 +2458,12 @@ truth for people. Hence, people are required to refer to them in order
 to understand all truths. Elaborating the word *Sirat*, Imam al-Sadiq
 (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَهُمَا صِراطانِ. صِرَاطٌ فِي الدُّنْيَا وَ صِرَاطٌ فِي الآخِرَةِ.
-فَأمَّا الصِّراطُ فِي الدُّنْيَا فَهُوَاالأمَامُ الْمُقْتَرَضُ
-الطَّاعِةِ؛ مَنْ عَرَفَهُ فِي الدُّنْيَا واقْتَدي بِأمْرِهِ مَرَّ
-عَلَي الصِّرَاطِ الَّذي هُوَا جِسْرُ جَهَنَّمَ فِي الأخِرَةِ. وَ
-مَنْلَمْ يَعْرِفْهُ فِي الآخِرَةِ فَتَرَدَّى فِي الدُّنْيَا زَلَّتْ
-قَدَمُهُ عَنِ الصِّرَاطِ فِي الآخِرَةِ فَتَرَدَّي فِي نَارِ جَهَنَّمَ.
-  </p>
-</blockquote>
+> وَهُمَا صِراطانِ. صِرَاطٌ فِي الدُّنْيَا وَ صِرَاطٌ فِي الآخِرَةِ.
+> فَأمَّا الصِّراطُ فِي الدُّنْيَا فَهُوَاالأمَامُ الْمُقْتَرَضُ
+> الطَّاعِةِ؛ مَنْ عَرَفَهُ فِي الدُّنْيَا واقْتَدي بِأمْرِهِ مَرَّ
+> عَلَي الصِّرَاطِ الَّذي هُوَا جِسْرُ جَهَنَّمَ فِي الأخِرَةِ. وَ
+> مَنْلَمْ يَعْرِفْهُ فِي الآخِرَةِ فَتَرَدَّى فِي الدُّنْيَا زَلَّتْ
+> قَدَمُهُ عَنِ الصِّرَاطِ فِي الآخِرَةِ فَتَرَدَّي فِي نَارِ جَهَنَّمَ.
 
 There are actually two Sirats: one in this world and another in the
 Hereafter. Sirat in this world is the Imam and to follow him is
@@ -3109,11 +2485,7 @@ Was Salman, the Persian, not a Zoroastrian first and then became a
 Christian? And, by following Ahl al-Bayt, he reached such a supreme
 station about which the Holy Prophet has said,
 
-<blockquote dir="rtl">
-  <p>
-سَلْمَانُ مِنَّا أهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> سَلْمَانُ مِنَّا أهْلَ الْبَيْتِ.
 
 Salman is from us, Ahl al-Bayt.[^105]
 
@@ -3126,11 +2498,7 @@ No one under the sky or on the earth is as truthful as Abu-Dharr.[^106]
 Was Bilal not an Ethiopian black? By following Ahl al-Bayt, he reached
 such a station about which the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
 
 ***Surely, the most honorable of you with Allah is the one among you the
 most careful of his duty. (49:13)***
@@ -3177,11 +2545,7 @@ as to be able to administer all the affairs as Allah’s vicegerent with
 His permission. Even angels who are abstract beings and each of them is
 assigned with a special duty -
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ 
-  </p>
-</blockquote>
+> وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ
 
 ***And there is none of us but has an assigned place*** ***(37:164) -***
 
@@ -3198,11 +2562,7 @@ between him and Allah.
 Based on this imperative need, Allah chose a vicegerent for Himself and
 made him rule over universe:
 
-<blockquote dir="rtl">
-  <p>
-…إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
-  </p>
-</blockquote>
+> …إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
 
 ***I am going to place in the earth a khalifah - Vicegerent- (2:30)***
 
@@ -3213,11 +2573,7 @@ only element, which can collect within itself all Attributes of Allah’s
 and become the most active element of universe thanks to its mere
 passiveness.
 
-<blockquote dir="rtl">
-  <p>
-… وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا
-  </p>
-</blockquote>
+> … وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا
 
 ***And He taught Adam all the names (2:31)***
 
@@ -3227,17 +2583,13 @@ Since a *khalifah* knows all the Names, he can be a teacher for all
 creatures. Since Allah has made *khalifah* teacher of angels, He has
 made him teacher of all other creatures too.
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى
-الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِنْ
-كُنْتُمْ صَادِقِينَ  قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا
-عَلَّمْتَنَا ۖ إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ  قَالَ يَا آدَمُ
-أَنْبِئْهُمْ بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ
-قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ
-وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ
-  </p>
-</blockquote>
+> وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى
+> الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِنْ
+> كُنْتُمْ صَادِقِينَ  قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا
+> عَلَّمْتَنَا ۖ إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ  قَالَ يَا آدَمُ
+> أَنْبِئْهُمْ بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ
+> قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ
+> وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ
 
 ***And He taught Adam all the names and then presented them to the
 angels; then He said: Tell me the names of those if you are right. They
@@ -3273,11 +2625,7 @@ After receiving the baptism of Allah, he will reach a position where he
 can do extraordinary works with the permission of Allah. Then his heart
 becomes Allah's Throne and finds Allah sitting on it:
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ
-  </p>
-</blockquote>
+> الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ
 
 ***The All-Compassionate sat himself upon the throne. (20:5)***
 
@@ -3285,12 +2633,8 @@ becomes Allah's Throne and finds Allah sitting on it:
 
 In a sacred *Hadith* (Words of Almighty Allah), we read:
 
-<blockquote dir="rtl">
-  <p>
-لأيَسَعُنِي أرْضِي وَلاسَمَانِي، وَلَكِنْ يَسَعُنِي قَلَبُ عَبْديَ
-الْمُؤْمِنَ.
-  </p>
-</blockquote>
+> لأيَسَعُنِي أرْضِي وَلاسَمَانِي، وَلَكِنْ يَسَعُنِي قَلَبُ عَبْديَ
+> الْمُؤْمِنَ.
 
 I am not contained in heaven or the earth; but I am contained in the
 heart of my believing servant.[^107]
@@ -3299,11 +2643,7 @@ It is a believer’s heart that can undertake the vicegerency of Allah’s
 Most Excellent Names by which Allah rules over the universe. Referring
 to the creation of the Holy Prophet, another sacred *Hadith* reads:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لأكَ لَمَا خَلَقْتُ الأفْلأكَ.
-  </p>
-</blockquote>
+> لَوْ لأكَ لَمَا خَلَقْتُ الأفْلأكَ.
 
 Were it not for your sake, I would not have created the universe.[^108]
 
@@ -3321,11 +2661,7 @@ Imam Ali (a.s), it has been said that he was together with the Holy
 Prophet in the invisible World. One of these lights became Prophet and
 the other became Imam. In this connection, the Holy Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-خُلِقْتُ أنَا وَعَلِيٌ مِنْ نُورٍ وَاحِدٍ.
-  </p>
-</blockquote>
+> خُلِقْتُ أنَا وَعَلِيٌ مِنْ نُورٍ وَاحِدٍ.
 
 Ali and I were created from the same light.[^110]
 
@@ -3333,12 +2669,8 @@ Imam Ali (a.s.) who is Allah’s intimate friend is the heart of Allah’s
 Messenger as he shares with him everything except Prophethood. The Holy
 Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-آدَمُ وَمَنْ دُونَهُ تَحْتَ لِوَائِي يَومَ الْقِيَامَةِ؛ فَإذَا حَكَمَ
-اللَّهُ بَيْنَ الْعِبَادِ أخَذَ أمِيرُالْمُؤْمِنِينَ اللَّوَاءَ.
-  </p>
-</blockquote>
+> آدَمُ وَمَنْ دُونَهُ تَحْتَ لِوَائِي يَومَ الْقِيَامَةِ؛ فَإذَا حَكَمَ
+> اللَّهُ بَيْنَ الْعِبَادِ أخَذَ أمِيرُالْمُؤْمِنِينَ اللَّوَاءَ.
 
 Adam and others are under my banner on the Judgment Day. When Allah
 judges among His servants, Amir al-Mu'minin (i.e. Imam Ali) will hold
@@ -3355,22 +2687,14 @@ is united with the Imamate of Ali.
 Any station that is attained by a person must be through the Ahl al-
 Bayt. In this relation, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ
-  </p>
-</blockquote>
+> وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ
 
 ***And seek means of nearness to Him. (5:35)***
 
 We are advised to "*hold fast to Allah's cord.*" Ahl al-Bayt have been
 reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ حَبْلُ اللَّهِ الْمَتِينُ.
-  </p>
-</blockquote>
+> نَحْنُ حَبْلُ اللَّهِ الْمَتِينُ.
 
 We are the firm cord of Allah.3
 
@@ -3378,12 +2702,8 @@ It is a requirement to follow the Imamate of Ali (a.s.) and the Holy
 Imams (a.s.). in order to receive the Divine Grace - whether it is
 knowledge or daily food. The Holy Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-أنَا مَدِينَةٌ الْعِلْمِ وَ عَليٌّ بَابُهَا، فَلأتُؤتَى الْبُيُتُ
-إلإمِنْ أبْوَابِهَا.
-  </p>
-</blockquote>
+> أنَا مَدِينَةٌ الْعِلْمِ وَ عَليٌّ بَابُهَا، فَلأتُؤتَى الْبُيُتُ
+> إلإمِنْ أبْوَابِهَا.
 
 I am the city of knowledge and Ali is its gate. Whoever wishes to enter
 the city and seek its wisdom must first come to the gate.
@@ -3395,23 +2715,15 @@ Imam answered, “On account of their acceptance of Ali's Imamate.”[^112]
 Imam al-Ridha (a.s) is reported as saying in the famous narration of
 *Salsalat al-Dhahab* (Golden Chain),
 
-<blockquote dir="rtl">
-  <p>
-لأ إلَهَ إلأ اللَّهُ حِصْنِي؛ فَمَنْ دَخَلَ حِصْنِي أمِنَ مِنْ
-عَذَابِي.
-  </p>
-</blockquote>
+> لأ إلَهَ إلأ اللَّهُ حِصْنِي؛ فَمَنْ دَخَلَ حِصْنِي أمِنَ مِنْ
+> عَذَابِي.
 
 (Almighty Allah says) There is no god but Allah is my fortress. Whoever
 enters it will be safe from punishment.
 
 Imam al-Ridha (a.s) adds,
 
-<blockquote dir="rtl">
-  <p>
-...بِشُرُوطِهَا وَأنَا مِنْ شُرُوطِهَا.
-  </p>
-</blockquote>
+> ...بِشُرُوطِهَا وَأنَا مِنْ شُرُوطِهَا.
 
 Accepting my Imamate is the requirement for entering the fortress.[^113]
 
@@ -3422,28 +2734,16 @@ is the task of the other two.
 
 Allah has professed His unity, Prophethood and Imamate:
 
-<blockquote dir="rtl">
-  <p>
-شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ
-  </p>
-</blockquote>
+> شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ
 
 ***Allah bears witness that there is no god but He… (3:18)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ
-  </p>
-</blockquote>
+> وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ
 
 ***…and Allah knows that you are most surely His Apostle … (63:1)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Only Allah is your Wali and His Apostle and those who believe, those
 who keep up prayer and pay the poor-rate while they bow. (5:55)***
@@ -3463,12 +2763,8 @@ when Allah’s Messenger, accompanied by (Archangel) Gabriel at the
 Ascension Night reached the third heaven, the angels ran away first and
 then started falling in prostration, saying:
 
-<blockquote dir="rtl">
-  <p>
-سُبُّوحٌ قُدُّوسٌ‘ رَبُّنَا ورَبُّ الْمَلأئِكَةِ وَلرُّوحِ، مَاأشْبَهَ
-هَذا النُّورَ بِنُورِ ربَّنَا!
-  </p>
-</blockquote>
+> سُبُّوحٌ قُدُّوسٌ‘ رَبُّنَا ورَبُّ الْمَلأئِكَةِ وَلرُّوحِ، مَاأشْبَهَ
+> هَذا النُّورَ بِنُورِ ربَّنَا!
 
 Glory and Holiness be to our Lord; Lord of angels and the Spirit. How
 close this light to the light of our Lord is.[^115]
@@ -3477,23 +2773,15 @@ At any rate, Allah’s vicegerency among people is a features of the Ahl
 al-Bayt. According to a narration, Imam al-Ridha (a.s.) has been
 reported to say:
 
-<blockquote dir="rtl">
-  <p>
-الأئِمَّةٌّ خُلَفَاءُ اللَّهِ عَزَّ وَجَلَّ فِي أرْضِهِ.
-  </p>
-</blockquote>
+> الأئِمَّةٌّ خُلَفَاءُ اللَّهِ عَزَّ وَجَلَّ فِي أرْضِهِ.
 
 The Imams are Allah's vicegerents on the earth.[^116]
 
 In *al-Ziyarah al-Jamiah al-Kabirah*, Imam al-Hadi (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَ أعزَّكُّمْ بِهُداهُ، وَخَصَّكُمْ بِبُرْهَانِهِ، وَانْتَجَبَكُم
-لِنُورِهِ، وَأيَّدَ كُم بِرُوحِهِ، وَ رَضِيَكُمْ خُلْفَاءَكُمْ
-خُلْفَاءَ فِي أرْضِهِ، وَحُجَجاً عَلْى بَرِيَّتِهِ.
-  </p>
-</blockquote>
+> وَ أعزَّكُّمْ بِهُداهُ، وَخَصَّكُمْ بِبُرْهَانِهِ، وَانْتَجَبَكُم
+> لِنُورِهِ، وَأيَّدَ كُم بِرُوحِهِ، وَ رَضِيَكُمْ خُلْفَاءَكُمْ
+> خُلْفَاءَ فِي أرْضِهِ، وَحُجَجاً عَلْى بَرِيَّتِهِ.
 
 He strengthened you with His omnipotence, equipped you with His
 guidance, distinguished you with His clear Proofs, glorified you with
@@ -3504,13 +2792,9 @@ Ali ibn Hassan says: Imam al-Ridha (a.s.) was asked about the *Ziyarah*
 of Imam al-Kadhim (a.s). He answered: Perform prayer near mosques and
 say,
 
-<blockquote dir="rtl">
-  <p>
-السَّلأمُ عَلَى أولِيَاءِ اللَّهِ وَ أصْفِيَاءِهِ. السَّلأمُ عَلَى
-أمَنَاءِ اللَّهِ وَ أحِبَّاءِهِ. السَّلامُ عَلَى أنْصَارِ اللَّهِ
-وَخُلَفَاءِهِ.
-  </p>
-</blockquote>
+> السَّلأمُ عَلَى أولِيَاءِ اللَّهِ وَ أصْفِيَاءِهِ. السَّلأمُ عَلَى
+> أمَنَاءِ اللَّهِ وَ أحِبَّاءِهِ. السَّلامُ عَلَى أنْصَارِ اللَّهِ
+> وَخُلَفَاءِهِ.
 
 “Peace be upon the favorites of Allah and the chosen ones. Peace be upon
 the trustees of Allah and the beloved ones. Peace be upon the supporters
@@ -3518,12 +2802,8 @@ of Allah and His representatives.”[^117]
 
 About *khalifah*, Amir al-Muminin (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي. يُنَادَى بِهِ يومَ الْقِيَامَةِ: أيْنَ خَلِيفَةُ اللَّهِ
-فِي أرْضِهِ؟
-  </p>
-</blockquote>
+> هُوَ الَّذِي. يُنَادَى بِهِ يومَ الْقِيَامَةِ: أيْنَ خَلِيفَةُ اللَّهِ
+> فِي أرْضِهِ؟
 
 On the Judgment Day, Allah’s vicegerent will be called, “Where is
 Allah’s representative on His earth.”[^118]
@@ -3531,11 +2811,7 @@ Allah’s representative on His earth.”[^118]
 In Dua Arafah, Imam Zayn al-Abidin (a.s.) describes the Ahl al-Bayt as
 Allah’s representatives on the earth:
 
-<blockquote dir="rtl">
-  <p>
-وَخُلَفَائِكَ فِي أرْضِكَ.
-  </p>
-</blockquote>
+> وَخُلَفَائِكَ فِي أرْضِكَ.
 
 …and Your vicegerents on Your lands.[^119]
 
@@ -3550,11 +2826,7 @@ successors of the Holy Prophet. To be the Prophet’s successor and
 representative is their Divine right and no one else deserves it. The
 Holy Quran reads:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَنَالُ عَهْدِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> لَا يَنَالُ عَهْدِي الظَّالِمِينَ
 
 ***My covenant does not include the unjust. (2:124)***
 
@@ -3563,18 +2835,14 @@ characteristics of the Holy Prophet except prophethood. It is only the
 Ahl al-Bayt who have such features. About Amir al-Muminin and the Imams
 after him, the Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ سَيِّدُ الأوْصِيَاءِ. اللُّحُوقُ بِهِ سَعَادَةٌ، وَاالْموتُ فِي
-طَاعَتِهِ شَهَادَةٌ. وَاسْمُهُ فِي التَّورَاةِ مَقْرُونٌ إلَى اسْمي.
-وَزَوجَتُهُ الصِّدِيقَةٌ الْكُبْرَى إبْنَتِي. وَابْنَاهُ سَيِّدَا
-شَبَابِ أهْلِ الْجَنَّةِ ابْنَايَ.وَهُوَ وَهُمَاوَالأئِمَةٌ بَعدَهُمْ
-حُجَجُ اللَّهِ عَلَى خَلْقِهِ بَعْدَ النَّبِيِّينَ. وَهُم أبْوابُ
-الْعِلمِ فِي أمَّتِي. مَنْ تَبَعَهُم نَجَا مِنَ النَّارِ، وَمَنِ
-اقْتَدى بِهِمْ هُدِيَ إلَى صِرَاطٍ مُسْتَقِيمٍ. لَمْ يَهَبَبِ اللَّهُ
-عَزَّ وَجَلَّ مَحَبَّتَهُمِّ لِعَبْدٍ إلأ أدْخَلَهُ اللَّهُ الْجَنَّة.
-  </p>
-</blockquote>
+> فَهُوَ سَيِّدُ الأوْصِيَاءِ. اللُّحُوقُ بِهِ سَعَادَةٌ، وَاالْموتُ فِي
+> طَاعَتِهِ شَهَادَةٌ. وَاسْمُهُ فِي التَّورَاةِ مَقْرُونٌ إلَى اسْمي.
+> وَزَوجَتُهُ الصِّدِيقَةٌ الْكُبْرَى إبْنَتِي. وَابْنَاهُ سَيِّدَا
+> شَبَابِ أهْلِ الْجَنَّةِ ابْنَايَ.وَهُوَ وَهُمَاوَالأئِمَةٌ بَعدَهُمْ
+> حُجَجُ اللَّهِ عَلَى خَلْقِهِ بَعْدَ النَّبِيِّينَ. وَهُم أبْوابُ
+> الْعِلمِ فِي أمَّتِي. مَنْ تَبَعَهُم نَجَا مِنَ النَّارِ، وَمَنِ
+> اقْتَدى بِهِمْ هُدِيَ إلَى صِرَاطٍ مُسْتَقِيمٍ. لَمْ يَهَبَبِ اللَّهُ
+> عَزَّ وَجَلَّ مَحَبَّتَهُمِّ لِعَبْدٍ إلأ أدْخَلَهُ اللَّهُ الْجَنَّة.
 
 He is the master of all vicegerents. Prosperity has been attached with
 him. Death in obedience to him is martyrdom. His name is attached to
@@ -3588,18 +2856,14 @@ Allah will enter heaven.[^120]
 
 Imam Husayn (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللَّهَ اصْطَفَى مُحَمَّداً عَلَى خَلْقِهِ، وَأكرَمَهُ
-بِنُبُوَّتِهِ، وَاخْتَارَهُ لِرِسَالَتِهِ.ثُمَّ قَبَضَهُ اللَّهُ
-إلَيهِ وَقَدْ نَصَحَ لِعِبَادِهِ، وَبَلَّغَ مَاأرْسِلَ بِهِ. وَكُنَّا
-أهْلَهُ وَأوْلِيَاءَهُ وَأوْصِيَاءَهُ وَوَرَثَتَهُ وَأحَقَّ النَّاسِ
-بِمَقَامِهِ فِي النَّاسِ.فَاسْتَأثَرَ عَلَينَا قَومُنَا بِذَالِكَ
-فَرَضِينَا، وَكَرِهْنَا الفُرقَة، وَأجَبْنَا الْعَافِيَة وَ نَحْنُ
-نَعلَمُ أنَّا أحَقُّ بِذَالِكَ أحَقِّ الْمُسْتَحَقَّ عَلَينَا مِمَّنْ
-تَولأهُ.
-  </p>
-</blockquote>
+> إنَّ اللَّهَ اصْطَفَى مُحَمَّداً عَلَى خَلْقِهِ، وَأكرَمَهُ
+> بِنُبُوَّتِهِ، وَاخْتَارَهُ لِرِسَالَتِهِ.ثُمَّ قَبَضَهُ اللَّهُ
+> إلَيهِ وَقَدْ نَصَحَ لِعِبَادِهِ، وَبَلَّغَ مَاأرْسِلَ بِهِ. وَكُنَّا
+> أهْلَهُ وَأوْلِيَاءَهُ وَأوْصِيَاءَهُ وَوَرَثَتَهُ وَأحَقَّ النَّاسِ
+> بِمَقَامِهِ فِي النَّاسِ.فَاسْتَأثَرَ عَلَينَا قَومُنَا بِذَالِكَ
+> فَرَضِينَا، وَكَرِهْنَا الفُرقَة، وَأجَبْنَا الْعَافِيَة وَ نَحْنُ
+> نَعلَمُ أنَّا أحَقُّ بِذَالِكَ أحَقِّ الْمُسْتَحَقَّ عَلَينَا مِمَّنْ
+> تَولأهُ.
 
 Allah chose Muhammad for his people, honored him with prophethood, and
 chose him for the mission. He then took his soul after he had advised
@@ -3614,12 +2878,8 @@ Authentic narrations indicate that Allah’sMessenger appointed Imam Ali
 (a.s.) and the eleven other Imams as his successors according to Allah's
 decree. Describing Ahl al-Bayt, Amir al-Muminin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الأئِمَّةٌ الطَّاهِرُونَ وَالعِتْرَةُ الْمَعْصُومُونَ
-وَالذُّرِّيَّةٌ الأكْرَمُونَ وَالْخُلَفَاءُ الرَّاشِدُونَ
-  </p>
-</blockquote>
+> هُمُ الأئِمَّةٌ الطَّاهِرُونَ وَالعِتْرَةُ الْمَعْصُومُونَ
+> وَالذُّرِّيَّةٌ الأكْرَمُونَ وَالْخُلَفَاءُ الرَّاشِدُونَ
 
 They are purified Imams, infallible household of noble offspring and
 guided vicegerents.[^122]
@@ -3630,27 +2890,19 @@ morality and faith of the Holy Prophet in a way that the fair-minded
 Sunni scholars have referred to it by reporting that Holy Prophet has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أرَادَ أنْ يَنْظُرَ إلَى آدَمَ فِي عِلْمِهِ، وَ إلَى يَحْيَ بْنِ
-زَكَرِيَّا فِي زُهْدِهِ، وَإلَى مُوسَى بْنِ عِمْرَانَ فِي بَطْشِهِ،
-فَلْيَنْظُرْ إلَى عَلِيِّ بْنِ أبِي طَالِبٍ.
-  </p>
-</blockquote>
+> مَنْ أرَادَ أنْ يَنْظُرَ إلَى آدَمَ فِي عِلْمِهِ، وَ إلَى يَحْيَ بْنِ
+> زَكَرِيَّا فِي زُهْدِهِ، وَإلَى مُوسَى بْنِ عِمْرَانَ فِي بَطْشِهِ،
+> فَلْيَنْظُرْ إلَى عَلِيِّ بْنِ أبِي طَالِبٍ.
 
 One who wishes to look at Adam’s knowledge, Noah’s understanding, John’s
 piety and Moses’ firm acts should look at Ali ibn Abu-Talib.[^123]
 
 A Similar narration reports the Holy Prophet as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أرَادَ أنْ يَنْظُرَ إلَى آدَمَ فِي عِلْمِهِ، وَإلَى نُوحٍ فِي
-تَقْوَاهُ، وَإلَى إبْرَاهِيمَ فِي حِلْمِهِ، وَ إلَى مُوسَى فِي
-هَيْبَتِهِ، وَ إلَى عِيسَى فِي عِبَادَتِهِ فَلْيَنْظُرُ إلَى عَلِيِّ
-بْنِ أبِي طَالِبٍ.
-  </p>
-</blockquote>
+> مَنْ أرَادَ أنْ يَنْظُرَ إلَى آدَمَ فِي عِلْمِهِ، وَإلَى نُوحٍ فِي
+> تَقْوَاهُ، وَإلَى إبْرَاهِيمَ فِي حِلْمِهِ، وَ إلَى مُوسَى فِي
+> هَيْبَتِهِ، وَ إلَى عِيسَى فِي عِبَادَتِهِ فَلْيَنْظُرُ إلَى عَلِيِّ
+> بْنِ أبِي طَالِبٍ.
 
 One who wishes to look at Adam in his knowledge, Noah in his piety,
 Abraham in his tolerance, Moses in his formidableness and Jesus in his
@@ -3664,33 +2916,21 @@ that of the Holy Prophet. Hence they ignored Allah’schoosing the Holy
 Prophet and the Ahl al-Bayt, and resorted to their own choice even
 though the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ
-الْخِيَرَةُ ۚ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ
+> الْخِيَرَةُ ۚ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ
 
 ***And your Lord creates and chooses whom He pleases; To choose is not
 theirs, glory be to Allah, and exalted be He above what they associate
 with Him. (28:68***)
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ 
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
 
 ***And it behooves not a believing woman that they should have any
 choice in their matter when Allah and His Apostle have decided a***
 ***matter… (33:36)***
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> مَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
 ***What has happened to you? How do you judge? (68:36)***
 
@@ -3698,38 +2938,26 @@ To prove the right of Ahl al-Bayt (a.s.) and denounce those who have
 chosen others as leaders thus preparing the way for division among the
 Muslim nation, Imam al-Ridha (a.s.) resorts to the Holy Quran and says:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو
-الْفَضْلِ الْعَظِيمِ
-  </p>
-</blockquote>
+> ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو
+> الْفَضْلِ الْعَظِيمِ
 
 ***That is the grace of Allah: He gives it to whom He pleases. And Allah
 is the Lord of mighty grace. (57:21)***
 
 In this relation, Amir al-Muminin says:
 
-<blockquote dir="rtl">
-  <p>
-عِتْرَتُهُ خَيْرُ الْعِتَرِ، وَاُسْرَتٌهُ خَيْرُ الاُسَرِ،
-وَشَجَرَتُهُ خَيْرُ الشَجَرِ.
-  </p>
-</blockquote>
+> عِتْرَتُهُ خَيْرُ الْعِتَرِ، وَاُسْرَتٌهُ خَيْرُ الاُسَرِ،
+> وَشَجَرَتُهُ خَيْرُ الشَجَرِ.
 
 Muhammad’s descendants are the best descendants, his kinsmen ar ethe
 best of kin and his tree of lineage is the best of trees.[^125]
 
 Addressing Abd al-Rahman ibn Awf, the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّكُمْ أصْحَابِي، وَعَلِيُّ بْنُ أبِي طَالِبٍ أخِي وَمِنِّي وَأنَا
-مِنْ عَلِيٍّ. فَهُوَبَابُ عِلْمِي وَوَصِيِّي. وَهُوَا وَ فَاطِمَةٌ
-وَالْحَسَنُ وَالحُسَينُ هُمْ خَيْرُ الأرْضِ عُنْصُراً وَ شَرَفاً وَ
-كَرَماً.
-  </p>
-</blockquote>
+> إنَّكُمْ أصْحَابِي، وَعَلِيُّ بْنُ أبِي طَالِبٍ أخِي وَمِنِّي وَأنَا
+> مِنْ عَلِيٍّ. فَهُوَبَابُ عِلْمِي وَوَصِيِّي. وَهُوَا وَ فَاطِمَةٌ
+> وَالْحَسَنُ وَالحُسَينُ هُمْ خَيْرُ الأرْضِ عُنْصُراً وَ شَرَفاً وَ
+> كَرَماً.
 
 You are my companions. Ali ibn Abu-Talib is from me and I am from him.
 He is the gate of my knowledge and my successor. Ali, Fatimah, Zasan and
@@ -3744,11 +2972,7 @@ nothing but pure belief in Allah as the One and Only God. Their will and
 wrath are those of Allah. In this connection, Imam Husayn (a.s.) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-رَضَا اللَّهِ رِضَانَا أهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> رَضَا اللَّهِ رِضَانَا أهْلَ الْبَيْتِ.
 
 Allah’s will is our will. [^127]
 
@@ -3768,11 +2992,7 @@ Allah’s will is our will.
 
 In this relation that Imam Husayn (a.s.) say:
 
-<blockquote dir="rtl">
-  <p>
-وَأسِيرُ بِسِيرَةِ جَدِّي وَأبِي.
-  </p>
-</blockquote>
+> وَأسِيرُ بِسِيرَةِ جَدِّي وَأبِي.
 
 I live in the style of my grandfather - the Holy Prophet and my father -
 Ali.[^128]
@@ -3781,26 +3001,18 @@ Some people are believers in the surface, but are unbelievers from the
 viewpoint of the Holy Quran. They turn their back on Allah when their
 interests are not in line with their belief:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا
-فَرِيقٌ مِنْهُمْ مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا
+> فَرِيقٌ مِنْهُمْ مُعْرِضُونَ
 
 ***And when they are called to Allah and His Apostle that he may judge
 between them, a party of them turn aside. (24:48)***
 
 They desire for Allah not for His sake, but for theirs:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا
-أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ
-يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا
-كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا
+> أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ
+> يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا
+> كَانُوا يَعْمَلُونَ
 
 ** **  
 ***And when affliction touches a man, he calls on us, whether lying on
@@ -3814,13 +3026,9 @@ are just merchants. However, for godly people, whatever they do is aimed
 to seek Allah’s pleasure. Those who pray sitting or lying on their sides
 even when they cannot perform prayer standing:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
-وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
-خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
+> وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
+> خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
 
 ***Those who remember Allah - standing and sitting and lying on their
 sides and reflect on the creation of the heavens and the earth.
@@ -3833,12 +3041,8 @@ determined the criterion of godly amity and detachment. Based on this
 criterion, Ahl al-Bayt’s deeds are Allah-oriented so much so that they
 have made Satan submissive. The Holy Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ شَيْطانِي كَافِراً، فَأعَانَنِي اللَّهُ عَلَيهِ حَتَّى أسْلَمَ
-بِيَدَيَّ.
-  </p>
-</blockquote>
+> كَانَ شَيْطانِي كَافِراً، فَأعَانَنِي اللَّهُ عَلَيهِ حَتَّى أسْلَمَ
+> بِيَدَيَّ.
 
 My Satan was unbeliever; but Allah helped me against him until he
 embraced Islam through me.[^129]
@@ -3854,12 +3058,8 @@ through. It is said that few spiritualist followers have ever reached
 this station, for it especially belongs to the Holy Prophet, the Holy
 Imams and the saints. Imam Husayn (a.s.) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّا أهْلُ بَيتٍ نَسْالُ اللَّهَ فَيُعْطِينَا، فَإذَا أرَادَ أرَادَ
-مَا نَكْرَهُ فِيمَا يُحِبُّ رَضِينَا.
-  </p>
-</blockquote>
+> إنَّا أهْلُ بَيتٍ نَسْالُ اللَّهَ فَيُعْطِينَا، فَإذَا أرَادَ أرَادَ
+> مَا نَكْرَهُ فِيمَا يُحِبُّ رَضِينَا.
 
 We, the Ahl al-Bayt, beseech Allah and He grants us. So, if He wills to
 do that which we abhor, provided that it will bring about His pleasure,
@@ -3870,13 +3070,9 @@ Ala ibn Kamil says: I was sitting in the presence of Imam al-Sadiq
 rose up and then sat down saying, “Surely we belong to Allah and unto
 Him do we return.” He kept on repeating so until he said,
 
-<blockquote dir="rtl">
-  <p>
-إنَّا لَنُحِبُّ أنْ نُعَافَى فِي أنْفُسِنَا وَ أوْلأدِنَا وَ
-أمْوالِنَا، فَإذَا وَقَعَ الْقَضَاءُ فَلَيسَ لَنَا أنْ نُحِبَّ مَا
-لَمْ يُحِبَّ اللَّهُ لَنَا.
-  </p>
-</blockquote>
+> إنَّا لَنُحِبُّ أنْ نُعَافَى فِي أنْفُسِنَا وَ أوْلأدِنَا وَ
+> أمْوالِنَا، فَإذَا وَقَعَ الْقَضَاءُ فَلَيسَ لَنَا أنْ نُحِبَّ مَا
+> لَمْ يُحِبَّ اللَّهُ لَنَا.
 
 We favor safety as regards life, property and our children but when
 there is Divine decree, we do not love what Allah does not love for
@@ -3884,12 +3080,8 @@ us.[^131]
 
 In this connection, Imam al-Baqir (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-نَدْعُو اللَّهِ فِي مَا نُحِبُّ، فَإذَا وَقَعَ الَّذِي نَكْرَهُ لَمْ
-نُخَالِفِ اللَّهِ عَزَّ وَ جَلَّ فِيمَا أحَبَّ.
-  </p>
-</blockquote>
+> نَدْعُو اللَّهِ فِي مَا نُحِبُّ، فَإذَا وَقَعَ الَّذِي نَكْرَهُ لَمْ
+> نُخَالِفِ اللَّهِ عَزَّ وَ جَلَّ فِيمَا أحَبَّ.
 
 We call on Allah for what we love to be given to us but if something
 happens that we do not love, we will not oppose it. [^132]
@@ -3904,12 +3096,8 @@ his child was better. So, I asked,“How is the child?” The Imam answered,
 when he was alive, you were sad but now that he has passed away you are
 no longer sad?” The Imam said,
 
-<blockquote dir="rtl">
-  <p>
-إنَّا أهْلَ الْبَيتِ نَجْزَعُ قَبَلَ المُصيبَةِ، فَإذَا وَقَعَ أمْرُ
-اللَّهِ رَضِينَا بِقَضاَءِهِ وَسَلَّمْنَا لأِمْرِهِ.
-  </p>
-</blockquote>
+> إنَّا أهْلَ الْبَيتِ نَجْزَعُ قَبَلَ المُصيبَةِ، فَإذَا وَقَعَ أمْرُ
+> اللَّهِ رَضِينَا بِقَضاَءِهِ وَسَلَّمْنَا لأِمْرِهِ.
 
 We, Ahl al-Bayt, wail before calamity comes; but when Divine decree
 comes, we are pleased with it and submit to His Decree.[^133]
@@ -3920,12 +3108,8 @@ him. He went inside and then returned. He was asked if the wailing was
 for death of anyone. He answered affirmatively. The attendants condoled
 him and they were surprised at his patience. The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّا أهْلَ الْبَيتِ نُطِيعُ اللَّهَ فِي مَا نُحِبُّ وَ نَحْمَدُهُ فِي
-مَا نَكْرَهُ.
-  </p>
-</blockquote>
+> إنَّا أهْلَ الْبَيتِ نُطِيعُ اللَّهَ فِي مَا نُحِبُّ وَ نَحْمَدُهُ فِي
+> مَا نَكْرَهُ.
 
 We, Ahl al-Bayt, obey Allah for what we love and praise Him for what is
 unpleasant.[^134]
@@ -3965,12 +3149,8 @@ or oblivion in the realm of pragmatic intellect.
 
 About the Ahl al-Bayt’s infallibility, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a thorough purifying. (33:33)***
@@ -4000,44 +3180,28 @@ this unity.
 As for Almighty Allah, knowledge and act are exactly the same and the
 two are exactly in His power:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَعْزُبُ عَنْ رَبِّكَ مِنْ مِثْقَالِ ذَرَّةٍ فِي الْأَرْضِ وَلَا
-فِي السَّمَاءِ وَلَا أَصْغَرَ مِنْ ذَٰلِكَ وَلَا أَكْبَرَ إِلَّا فِي
-كِتَابٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَمَا يَعْزُبُ عَنْ رَبِّكَ مِنْ مِثْقَالِ ذَرَّةٍ فِي الْأَرْضِ وَلَا
+> فِي السَّمَاءِ وَلَا أَصْغَرَ مِنْ ذَٰلِكَ وَلَا أَكْبَرَ إِلَّا فِي
+> كِتَابٍ مُبِينٍ
 
 ***And there does not lie concealed from your Lord the weight of an atom
 in the earth or in the heaven. (10:61)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ رَبُّكَ نَسِيًّا
-  </p>
-</blockquote>
+> وَمَا كَانَ رَبُّكَ نَسِيًّا
 
 ***And your Lord is not forgetful. (19:64)***
 
 Allah is pragmatically free from any evil deed. One of these indecencies
 is injustice about which the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
-  </p>
-</blockquote>
+> وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
 
 ***And your Lord does not deal unjustly with anyone. (18:49)***
 
 In the sight of Almighty Allah, every evil deed, however small, is
 blameworthy. He says exonerating Himself from it:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِنْدَ رَبِّكَ مَكْرُوهًا 
-  </p>
-</blockquote>
+> كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِنْدَ رَبِّكَ مَكْرُوهًا
 
 ***All this - the evil of it - is hateful in the sight of your Lord.
 (17:38)***
@@ -4058,21 +3222,17 @@ Husham ibn al-Hakam, I did not find but four best words only when I
 asked him, “Is the Imam infallible?” He answered, “Yes, he is.” I asked,
 “For what reason?” He said,
 
-<blockquote dir="rtl">
-  <p>
-إنَّ جَمِيعَ الذُّنُوبِ لَهَا أرْبَعَةٌ أوْجُهٍ لأ خَامِسَ لَهَا:
-الْحِرْصُ وَ الُحَسَدُ وَ الْغَضَبُ وَالشَّهْوَةُ. فَلأ يَجُوزُ أنْ
-يَكُونَ حَرِيصاً عَلَى هَذِهِ الدُنْيَا وَهِيَ تَحْتَ خَاتَمِهِ.
-وَلأيَجُوزُ أنْ يَكُونَ حَرِصاً عَلَى هَذِهِ الدُّنْيَا وَهِيَ تَحْتَ
-خَاتَمِهِ. وَلأ يَجُوزُ أنْ يَكُونَ حَسُودَاً لأنَّ الإنْسَانَ إنَّمَا
-يَحْسِدُ مَنْ هُوَا فَوقَهُ. وَلأ يَجُوزُ أنْ يَغْضَبَ لِشَيْءٍ إلأ
-أنْ يَكُونَ غَضَبُهُ للَّهِ عَزَّ وَجَلَّ. وَ لأ يَجُوزُ أنْ يَتَّبِعَ
-الشَّهَوَاتِ وَ يُؤثِرَ الْدُّنْيَا عَلَى الآخِرَةِ،لأنَّ اللَّهِ
-حَبَّبَ إلَيْهِ الآخِرَةَ كَمَا حَبَّبَ إلَيْنَا الدُّنْيَا... فَهَلْ
-رَأيْتَ أحَداً تَرَكَ وَجْهَا حَسَناً لِوَجْهٍ قَبِيحٍ وَطَعَاماً
-لِطَعَامٍ مُرٍّ...
-  </p>
-</blockquote>
+> إنَّ جَمِيعَ الذُّنُوبِ لَهَا أرْبَعَةٌ أوْجُهٍ لأ خَامِسَ لَهَا:
+> الْحِرْصُ وَ الُحَسَدُ وَ الْغَضَبُ وَالشَّهْوَةُ. فَلأ يَجُوزُ أنْ
+> يَكُونَ حَرِيصاً عَلَى هَذِهِ الدُنْيَا وَهِيَ تَحْتَ خَاتَمِهِ.
+> وَلأيَجُوزُ أنْ يَكُونَ حَرِصاً عَلَى هَذِهِ الدُّنْيَا وَهِيَ تَحْتَ
+> خَاتَمِهِ. وَلأ يَجُوزُ أنْ يَكُونَ حَسُودَاً لأنَّ الإنْسَانَ إنَّمَا
+> يَحْسِدُ مَنْ هُوَا فَوقَهُ. وَلأ يَجُوزُ أنْ يَغْضَبَ لِشَيْءٍ إلأ
+> أنْ يَكُونَ غَضَبُهُ للَّهِ عَزَّ وَجَلَّ. وَ لأ يَجُوزُ أنْ يَتَّبِعَ
+> الشَّهَوَاتِ وَ يُؤثِرَ الْدُّنْيَا عَلَى الآخِرَةِ،لأنَّ اللَّهِ
+> حَبَّبَ إلَيْهِ الآخِرَةَ كَمَا حَبَّبَ إلَيْنَا الدُّنْيَا... فَهَلْ
+> رَأيْتَ أحَداً تَرَكَ وَجْهَا حَسَناً لِوَجْهٍ قَبِيحٍ وَطَعَاماً
+> لِطَعَامٍ مُرٍّ...
 
 All sins are rooted in greed, jealousy, wrath and lust. How can the Imam
 be greedy of the world when the whole world is under his command? How
@@ -4097,12 +3257,8 @@ properly and convey it to others. This is only possible through
 intuition, for a man, in the world of illusion, presents his
 imaginations on the findings of intellect hence misleads others:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا
-وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا
+> وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
 
 ***Have you not seen those who have changed Allah's favor for
 ungratefulness and made their people to alight into the abode of
@@ -4113,11 +3269,7 @@ perdition? (14:28)***
 Should man live in the sanctuary of pure reason, he will be immune from
 inward and outward Satans:
 
-<blockquote dir="rtl">
-  <p>
-لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ
 
 ***I will certainly lie in wait for them in thy straight path. (7:16)***
 
@@ -4131,12 +3283,8 @@ Therefore, those who have traversed the major sections of the path by
 performing their religions obligations and have reached the stage of
 devotion are immune from temptations:
 
-<blockquote dir="rtl">
-  <p>
-...وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ  إِلَّا عِبَادَكَ مِنْهُمُ
-الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> ...وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ  إِلَّا عِبَادَكَ مِنْهُمُ
+> الْمُخْلَصِينَ
 
 ***I will certainly cause them all to deviate, except the servants from
 among them, the devoted ones.*** ***(15:39-40)***
@@ -4149,11 +3297,7 @@ relation to perceptions, for the receiver of message is an abstract soul
 and the sender of message is Allah Who is pure knowledge. About the
 cognitive *ismah*, Imam Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-مَا شَكَكْتُ فِي الْحَقِّ مُدأريتُهُ.
-  </p>
-</blockquote>
+> مَا شَكَكْتُ فِي الْحَقِّ مُدأريتُهُ.
 
 I have never had any doubt since the time I was presented with the
 truth.
@@ -4174,12 +3318,8 @@ stage. One who has reached this latest stage considers Satan as the most
 hostile enemy of his inward and outward being. Hence, he suppresses
 Satan in the hardest way and comes under the guardianship of Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ ۖ وَهُوَ يَتَوَلَّى
-الصَّالِحِينَ
-  </p>
-</blockquote>
+> إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ ۖ وَهُوَ يَتَوَلَّى
+> الصَّالِحِينَ
 
 ***Surely, my guardian is Allah Who revealed the book and He befriends
 the good. (7:196)***
@@ -4187,11 +3327,7 @@ the good. (7:196)***
 It is the same righteous ones who will inherit the earth due to their
 *ismah* in perceptions and deeds:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
-  </p>
-</blockquote>
+> أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 ***My righteous servants shall inherit it. (21:105)***
 
@@ -4205,11 +3341,7 @@ ones’* has a general meaning. Therefore, everyone can reach the station
 of *ismah* with endeavor, discipline and worship. Whatever is gained in
 the universe is due to Allah's favor:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللَّهِ ۖ
-  </p>
-</blockquote>
+> وَمَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللَّهِ ۖ
 
 ***And whatever favor is bestowed on you it is from Allah. (16:53)***
 
@@ -4220,22 +3352,14 @@ being's existence is contingent on the Necessary Being. Hence, if there
 is any perfection in man, it comes from Allah. Even the true agent
 behind teaching common knowledge is Allah:
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ
-  </p>
-</blockquote>
+> عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ
 
 ***He taught man what he knew not. (***96:***5)***
 
 We plough the land, sow the seeds and irrigate it but it is Allah who
 makes the seeds grow and come to fruition:
 
-<blockquote dir="rtl">
-  <p>
-أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ
-  </p>
-</blockquote>
+> أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ
 
 ***Is it you that cause it to grow, or are we the causers of growth?
 (56:64)***
@@ -4253,11 +3377,7 @@ can become *masum* in the future with the same method. One who enjoys
 Divine training may reach a stage of *ismah* where one will be immune
 from error in scientific issues:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا
-  </p>
-</blockquote>
+> إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا
 
 ***If you are careful of your duty to Allah, He will grant you
 distinction. (8:29)***
@@ -4274,11 +3394,7 @@ like other virtues, *ismah* too has certain ranks.
 *Ismah* is not exclusive. What is exclusive is Prophethood and Imamate
 which none can attain with endeavor even if one is totally purified:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
-  </p>
-</blockquote>
+> اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
 
 ***Allah best knows where He places His message. (6:124)***
 
@@ -4291,11 +3407,7 @@ Man enjoys such capacity that he can prepare for himself the ground for
 the manifestation of such blessing with knowledge and practice so that
 Allah will grant the station of *ismah to* him or her:
 
-<blockquote dir="rtl">
-  <p>
-وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ
-  </p>
-</blockquote>
+> وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ
 
 ***And He gives you of all that you ask Him. (14:34)***
 
@@ -4317,12 +3429,8 @@ way man has suppressed the inner enemy and carnal desires.
 A follower of the spiritual path and a *masum* see the evil nature and
 the result of the sin as it really is:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
 
 ***As for those who swallow the property of the orphans unjustly, surely
 they only swallow fire into their bellies. (4:10)***
@@ -4332,17 +3440,13 @@ from even thinking of sinning. At the end of the story of Aqil who
 requested more than his right from the public fund, Imam Ali (a.s.)
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَأجَبُ مِنْ ذَالِكَ طَارِقٌ طَرَقِنَا بِمَلْفُوفَةٍ فِي وَ عَا ئِهَا
-وَ مَعْجُوجَنَةٍ. شَنِئتُهَا كَأنَّمَا عُجِنَتْ بِرِيقِ حَيَّةٍ
-أوْقَيْئهَا. فَقُلْتُ: أصِلَةٌ أمْ زَكَاةٌ أمْ صَدَقَةٌ؟ فَذَالِكَا
-مُحَرَّمٌ عَلَينَا أهْلَ الْبَيْتِ. فَقَالَ: لأ ذَا وَلأ ذَاكَ؛ وَ
-لَكِنَّهَا هَدِيَّةٌ. فَقُلْتً: هَبْلَتُكَ الْهُبُولُ! أعَنْ دِينِ
-اللَّهِ أتَيْتَنِيلِتَخْدَعَنِي؟ أمُخْتَبِطٌ أنْتَ أمْ ذُو جِنَّةٍ أمْ
-تَهْجُرُ؟
-  </p>
-</blockquote>
+> وَأجَبُ مِنْ ذَالِكَ طَارِقٌ طَرَقِنَا بِمَلْفُوفَةٍ فِي وَ عَا ئِهَا
+> وَ مَعْجُوجَنَةٍ. شَنِئتُهَا كَأنَّمَا عُجِنَتْ بِرِيقِ حَيَّةٍ
+> أوْقَيْئهَا. فَقُلْتُ: أصِلَةٌ أمْ زَكَاةٌ أمْ صَدَقَةٌ؟ فَذَالِكَا
+> مُحَرَّمٌ عَلَينَا أهْلَ الْبَيْتِ. فَقَالَ: لأ ذَا وَلأ ذَاكَ؛ وَ
+> لَكِنَّهَا هَدِيَّةٌ. فَقُلْتً: هَبْلَتُكَ الْهُبُولُ! أعَنْ دِينِ
+> اللَّهِ أتَيْتَنِيلِتَخْدَعَنِي؟ أمُخْتَبِطٌ أنْتَ أمْ ذُو جِنَّةٍ أمْ
+> تَهْجُرُ؟
 
 A stranger incident is that a man comes to us in the night with a closed
 flask of honey paste yet I disliked it as though it was the saliva of a
@@ -4363,12 +3467,8 @@ has been internalized in them. Their description shows that they are
 watchful not to be caught in the trap of Satan. They are neither
 ignorant nor forgetful:
 
-<blockquote dir="rtl">
-  <p>
-لأ يَغْشَاهُمْ نَومَ الْعُيُونِ وَلأ سَهُوُ الْعُقُولِ، وَلأ فَتْرَاةُ
-الأبْدَانِ وَلأ غَفَلَةٌ النَّسْيَانِ.
-  </p>
-</blockquote>
+> لأ يَغْشَاهُمْ نَومَ الْعُيُونِ وَلأ سَهُوُ الْعُقُولِ، وَلأ فَتْرَاةُ
+> الأبْدَانِ وَلأ غَفَلَةٌ النَّسْيَانِ.
 
 The sleep of the eye or the slip of the wit or languor of the body or
 the effect of forgetfulness does not effect then.[^136]
@@ -4391,12 +3491,8 @@ satisfy our senses lawfully.
 The Holy Prophet says about the infallibility of the Ahl al-Bayt and
 himself:
 
-<blockquote dir="rtl">
-  <p>
-أنَا وَ عَلِيٌ وَالْحَسَنُ وَالحُسَينُ وَ تِسْعَةٌ مِنْ وُلْدِ
-الْحُسَيْنِ مُطَهَّرُونَ وَ مَعصُومُونَ.
-  </p>
-</blockquote>
+> أنَا وَ عَلِيٌ وَالْحَسَنُ وَالحُسَينُ وَ تِسْعَةٌ مِنْ وُلْدِ
+> الْحُسَيْنِ مُطَهَّرُونَ وَ مَعصُومُونَ.
 
 I, Ali, Hasan, Husayn and the nine of the sons of Husayn are purified
 from uncleanness and are infallible.[^137]
@@ -4404,12 +3500,8 @@ from uncleanness and are infallible.[^137]
 About himself and Lady Fatimah and the twelve Imams (a.s), the Holy
 Prophet )s) has also said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّا أهْلُ الْبَيتِ قَدْ أذْهَبَ اللَّهُ عَنَّا الْفَوَاحِشَ مَا
-ظَهَرَ مِنْهَا وَمَا بَطَنَ.
-  </p>
-</blockquote>
+> إنَّا أهْلُ الْبَيتِ قَدْ أذْهَبَ اللَّهُ عَنَّا الْفَوَاحِشَ مَا
+> ظَهَرَ مِنْهَا وَمَا بَطَنَ.
 
 We are Ahl al-Bayt. Allah has purified us from all overt and covert
 uncleanness.[^138]
@@ -4417,12 +3509,8 @@ uncleanness.[^138]
 In a clear statement on the *ismah* of the Prophets and the Imams, Imam
 al- Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-الأنْبِيَاءُ وَالأوْصِيَاءُ لأ ذُنُوبَ لَهُمْ، لأنَّهُم مَعْصُومُونَ
-مُطَهَّرُونَ.
-  </p>
-</blockquote>
+> الأنْبِيَاءُ وَالأوْصِيَاءُ لأ ذُنُوبَ لَهُمْ، لأنَّهُم مَعْصُومُونَ
+> مُطَهَّرُونَ.
 
 The Prophets and their successors have no sin, for they are infallible
 and purified.[^139]
@@ -4442,11 +3530,7 @@ good qualities is the reason for their being Allah’s favorites. In the
 Holy Quran, Allah has praised them with their best quality, which is a
 thorough purification and their access to the hidden truth:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
-  </p>
-</blockquote>
+> لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
 
 ***None shall touch it save the purified ones. (56:79)***
 
@@ -4457,11 +3541,7 @@ chosen directly by Allah. Self-purification, awareness of the hidden
 truths and realization of Allah’s commands have made Ahl al-Bayt Allah’s
 favorites:
 
-<blockquote dir="rtl">
-  <p>
-وَيُحِبُّ الْمُتَطَهِّرِينَ
-  </p>
-</blockquote>
+> وَيُحِبُّ الْمُتَطَهِّرِينَ
 
 ***He loves those who purify themselves. (2:222)***
 
@@ -4470,19 +3550,11 @@ Such morality like justice, reliance on Allah, patience, faith,
 certainty, repentance, jihad and self-sacrifice have made Ahl al-Bayt
 Allah’s most favorites:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ
 
 ***Surely, Allah loves those who turn much to Him. (2:222)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ
 
 ***Surely, Allah loves those who trust Him (3:159)***
 
@@ -4498,39 +3570,27 @@ and Fatimah were walking towards Allah’s Messenger. As soon as he saw
 them, he took his cloak (*kisa*) which was on the bed and covered them,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُمَّ هَؤُلأءِ أهْلُ بَيْتِي، فَأذْهِبْ عَنَهُمُ الرِّجْسَ
-وَطَهِّرْهُمْ تَطْهِيراً.
-  </p>
-</blockquote>
+> أللَّهُمَّ هَؤُلأءِ أهْلُ بَيْتِي، فَأذْهِبْ عَنَهُمُ الرِّجْسَ
+> وَطَهِّرْهُمْ تَطْهِيراً.
 
 O Allah! These are my household and my favorite ones; so, remove
 wickedness from them and make them pure a perfect purification.
 
 At this time, Almighty Allah revealed the Verse of Purification:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a thorough purifying. (33:33)***[^140]
 
 Imam Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-أتَى رَجُلٌ إلَى النَّبِيِّ فَقَالَ: يا رَسُولُ اللَّهِ، أيُّ
-الْخَلَقِ أحَبُّ إلَيكَ؟ فَقَالَ رَسُولُ اللَّهِ ـ وَأنَا إلَى
-جَنْبَهِ ـ: هَذَا وَ ابْنَاهُ وَ أُمُّهُمَا. هُم مِنِّي وَأنَا
-مِنْهُمْ. وَهُمْ مَعِي فِي الْجنَّةِ هَكَذَا. وَ جَمَعَ بَيْنَ
-إصْبِعَيْهِ ـ.
-  </p>
-</blockquote>
+> أتَى رَجُلٌ إلَى النَّبِيِّ فَقَالَ: يا رَسُولُ اللَّهِ، أيُّ
+> الْخَلَقِ أحَبُّ إلَيكَ؟ فَقَالَ رَسُولُ اللَّهِ ـ وَأنَا إلَى
+> جَنْبَهِ ـ: هَذَا وَ ابْنَاهُ وَ أُمُّهُمَا. هُم مِنِّي وَأنَا
+> مِنْهُمْ. وَهُمْ مَعِي فِي الْجنَّةِ هَكَذَا. وَ جَمَعَ بَيْنَ
+> إصْبِعَيْهِ ـ.
 
 A man came to Allah’s Messenger saying, “O Allah’s Messenger! Who is
 your most favorite one?” The Holy Prophet said, “This (Ali), his two
@@ -4544,12 +3604,8 @@ Anyone who wishes to be Allah’s favorite must endeavor to purify himself
 internally and externally by obeying Him, His Prophet (s.a.w), and Ahl
 al- Bayt. In this relation, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ
 
 ***Say: If you love Allah, then follow me, Allah will love you and
 forgive you your faults, and Allah is forgiving, Merciful. (3:31)***
@@ -4559,12 +3615,8 @@ has emphatically ordered his ummah to love Ahl al-Bayt from the bottom
 of their hearts and to obey them under all circumstances in order to be
 Allah’s favorite. He has said:
 
-<blockquote dir="rtl">
-  <p>
-أحِبُّوا اللَّهَ لِمَا يَغْدُوكُم مِنْ نِعَمِهِ، وَأحِبُونِي بِحُبِّ
-اللَّهِ، وَأحِبُّوا أهْلَ بَيْتِي لِحُبِّي.
-  </p>
-</blockquote>
+> أحِبُّوا اللَّهَ لِمَا يَغْدُوكُم مِنْ نِعَمِهِ، وَأحِبُونِي بِحُبِّ
+> اللَّهِ، وَأحِبُّوا أهْلَ بَيْتِي لِحُبِّي.
 
 Love Allah for the blessings He has bestowed on you; love me because of
 your love for Allah; and love my household because of your love for
@@ -4572,16 +3624,12 @@ me.[^142]
 
 In another important narration, the Holy Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أنْ يَحْيَا حَياتي وَ يَمُوتَ مَمَاتِي وَ يَسْكُنُ جَنَّة
-وَيَسْكُنَ جَنَّةَ عَدَنٍ غَرَسَهَا رَبِّي فَلْيُوَالِ عَلِياً مِن
-بَعَدي وَليُوَالِ وَلِيَّهُ وَليَقْتَدِ بِالِمَّةِ مِنْ بَعْدِي؛
-فَإنَّهُمْ عِتْرَتِي، خُلِقُوا مِنْ طِينَتِي وَرُزِقُو فَهْماً
-وَعِلْمَاً. وَوَيْلٌ لِلمُكَذِّبِينَ بِفَضْلِهِمْ، القَاطِعِينَ
-فِيهِمْ صِلَتِي، لأ أنَالَهُمُ، اللَّهُ شَفَاعَتِي.
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أنْ يَحْيَا حَياتي وَ يَمُوتَ مَمَاتِي وَ يَسْكُنُ جَنَّة
+> وَيَسْكُنَ جَنَّةَ عَدَنٍ غَرَسَهَا رَبِّي فَلْيُوَالِ عَلِياً مِن
+> بَعَدي وَليُوَالِ وَلِيَّهُ وَليَقْتَدِ بِالِمَّةِ مِنْ بَعْدِي؛
+> فَإنَّهُمْ عِتْرَتِي، خُلِقُوا مِنْ طِينَتِي وَرُزِقُو فَهْماً
+> وَعِلْمَاً. وَوَيْلٌ لِلمُكَذِّبِينَ بِفَضْلِهِمْ، القَاطِعِينَ
+> فِيهِمْ صِلَتِي، لأ أنَالَهُمُ، اللَّهُ شَفَاعَتِي.
 
 Anyone who wishes to live and to pass away like me and to abide in an
 eternal Paradise the trees of which have been planted by my Lord must
@@ -4603,12 +3651,8 @@ The criterion for being Allah’s favorite is being like the Ahl al-Bayt
 who have asked us to compare ourselves with them to see whether we are
 liked or disliked by Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَإنَّكُمْ وَسِيَلَتِي إلَى اللَّهِ، وَبِحُبِّكُمْ وَبِقَرْبِكُمُ
-أرُجُو نَجَاةٌ مِنَ اللَّهِ.
-  </p>
-</blockquote>
+> فَإنَّكُمْ وَسِيَلَتِي إلَى اللَّهِ، وَبِحُبِّكُمْ وَبِقَرْبِكُمُ
+> أرُجُو نَجَاةٌ مِنَ اللَّهِ.
 
 You, the Ahl al-Bayt, are our means towards Allah. We set our hope on
 your station and love to be saved by Allah.[^144]
@@ -4628,12 +3672,8 @@ was part of the said formula, he said: yes.[^145]
 The same matter is expressed by Imam al-Ridha (a.s.) in a *Hadith* in
 *Salsalat al- Dhahab* (Golden Chain) in another way of reporting:
 
-<blockquote dir="rtl">
-  <p>
-كَلِمَةٌ لأإلَهَ إلأ اللَّهُ حِصْنِي، فَمَنْ دَخَلَ حِصْنِي أمِنَ مِنْ
-عَذَابِي؛ بِشُرُوطِهَا وَ أنَا مِنْ شُرُوطِهَا.
-  </p>
-</blockquote>
+> كَلِمَةٌ لأإلَهَ إلأ اللَّهُ حِصْنِي، فَمَنْ دَخَلَ حِصْنِي أمِنَ مِنْ
+> عَذَابِي؛ بِشُرُوطِهَا وَ أنَا مِنْ شُرُوطِهَا.
 
 There is no god but Allah is my fortress. Whoever enters it will be
 immune from my punishment on one condition, which is acceptance of my
@@ -4649,11 +3689,7 @@ When one, by devotion, becomes Allah’s vicegerent, one becomes a
 manifestation of Allah; hence, to respect him and his commands is to
 respect Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ
 
 ***Surely, those who swear allegiance to you do but swear allegiance to
 Allah. (48:10)***
@@ -4664,11 +3700,7 @@ where his pleasure is the pleasure of Allah. Allah attaches great
 importance to what pleases the Holy Prophet and his Ahl al-Bayt so much
 so that He says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ
-  </p>
-</blockquote>
+> فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ
 
 ***We shall surely turn you to a kiblah which you shall like. (2:144)***
 
@@ -4676,32 +3708,20 @@ In the Holy Quran, Allah has explicated the moral values and lifestyle
 of Ahl al-Bayt explicitly and implicitly so as to set models for us.
 Here are some examples:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ
-اللَّهِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ
+> اللَّهِ
 
 ***Surely those who believed and those who fled (Their home) and strove
 hard in the way of Allah (2:218)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنْكُمْ جَزَاءً
-وَلَا شُكُورًا
-  </p>
-</blockquote>
+> إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنْكُمْ جَزَاءً
+> وَلَا شُكُورًا
 
 ***We only feed you for Allah’s sake we desire from you neither reward
 nor thanks. (76:9)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ
+> الْعَالَمِينَ
 
 ***Surely my prayer and my sacrifice and my life and my death are (all)
 for Allah. (6:162)***
@@ -4727,11 +3747,7 @@ problems of this world and the punishment of the Hereafter. Allah knows
 whom He should bestow His mercy upon as a result of his merit and whom
 He should send to convey His communication and to guide people:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ ۚ
-  </p>
-</blockquote>
+> وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ ۚ
 
 ***Allah chooses especially whom He pleases for His mercy. (2:105)***
 
@@ -4739,22 +3755,14 @@ He should send to convey His communication and to guide people:
 especially those related to retribution and blood money as Allah's
 mercy:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ تَخْفِيفٌ مِنْ رَبِّكُمْ وَرَحْمَةٌ ۗ
-  </p>
-</blockquote>
+> ذَٰلِكَ تَخْفِيفٌ مِنْ رَبِّكُمْ وَرَحْمَةٌ ۗ
 
 ***This is alleviation from your Lord and a mercy. (2:178)***
 
 3. The Holy Quran considers sublime morality, softness and courtesy as
 Allah’s mercy on human beings:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ
 
 ***Thus, it is due to mercy from Allah that you deal with them gently.
 (3:159)***
@@ -4762,12 +3770,8 @@ Allah’s mercy on human beings:
 4. The Holy Quran considers the removal of punishment of those who
 deserve it on the Judgment Day as a mercy of Allah:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ ۚ وَذَٰلِكَ الْفَوْزُ
-الْمُبِينُ
-  </p>
-</blockquote>
+> مَنْ يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ ۚ وَذَٰلِكَ الْفَوْزُ
+> الْمُبِينُ
 
 ***He from whom is averted on that day, Allah indeed has shown mercy to
 him and this is a manifest achievement. (6:16)***
@@ -4779,14 +3783,10 @@ Therefore, one who has committed an indecent act out of ignorance and
 then has repented will receive Allah’s mercy for He is the Most
 Merciful:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ
-عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ أَنَّهُ
-مَنْ عَمِلَ مِنْكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ
-وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ
+> عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ أَنَّهُ
+> مَنْ عَمِلَ مِنْكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ
+> وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَحِيمٌ
 
 ***And when those who believe in our communications come to you, say:
 Peace be on you, your Lord has ordained mercy on Himself, (so) that if
@@ -4796,11 +3796,7 @@ aright, then He is Forgiving, Merciful. (6:54)***
 6. The Holy Quran, in most verses, has been introduced as mercy from  
  Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ جَاءَكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ
-  </p>
-</blockquote>
+> فَقَدْ جَاءَكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ
 
 ***So indeed there has come to you clear proof from your Lord, and
 guidance and mercy. (6:157)***
@@ -4809,12 +3805,8 @@ guidance and mercy. (6:157)***
 perdition if they do not seek Allah’s mercy or they do not expose
 themselves to it:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ
-الْخَاسِرِينَ
-  </p>
-</blockquote>
+> فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ
+> الْخَاسِرِينَ
 
 ***So were it not for the grace of Allah and His mercy on you, you would
 certainly have been among the losers. (2:64)***
@@ -4824,23 +3816,15 @@ spiritual values does not consider Allah’s mercy without reason rather
 considers it as a source of salvation, happiness, a cause for entering
 Paradise and something special for the benefactors:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِنَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِنَ الْمُحْسِنِينَ
 
 ***Surely the mercy of Allah is nigh to those who d o good. (7: 56)***
 
 9. The Holy Quran considers Allah’s mercy a factor, which rids man of
 hardships, liberates him from enemy and from the oppressors and tyranny:
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْجَيْنَاهُ وَالَّذِينَ مَعَهُ بِرَحْمَةٍ مِنَّا وَقَطَعْنَا
-دَابِرَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا ۖ
-  </p>
-</blockquote>
+> فَأَنْجَيْنَاهُ وَالَّذِينَ مَعَهُ بِرَحْمَةٍ مِنَّا وَقَطَعْنَا
+> دَابِرَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا ۖ
 
 ***So We delivered him and those with him by mercy from Us, and We cut
 off the last of those who rejected our communications. (7:72)***
@@ -4849,12 +3833,8 @@ off the last of those who rejected our communications. (7:72)***
 sublimity of spirit, which is a source of Divine grace, as Allah’s
 mercy:
 
-<blockquote dir="rtl">
-  <p>
-فَوَجَدَا عَبْدًا مِنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِنْدِنَا
-وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا
-  </p>
-</blockquote>
+> فَوَجَدَا عَبْدًا مِنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِنْدِنَا
+> وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا
 
 ***Then they found one from among our servants whom We had granted
 knowledge from ourselves. (18:65)***
@@ -4862,24 +3842,16 @@ knowledge from ourselves. (18:65)***
 11. The Holy Quran considers the Holy Prophet source of mercy to the
 worlds:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
 
 ***And We have not sent you but as a mercy to the worlds. (21:107)***
 
 12. The Holy Quran considers regeneration of plants in the spring as a
 sign of Allah's mercy:
 
-<blockquote dir="rtl">
-  <p>
-فَانْظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ
-بَعْدَ مَوْتِهَا ۚ إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ
-كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> فَانْظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ
+> بَعْدَ مَوْتِهَا ۚ إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ
+> كُلِّ شَيْءٍ قَدِيرٌ
 
 ***Look then at the signs of Allah’s mercy, how He gives life to the
 earth after its death, most surely He will raise the dead to life; and
@@ -4890,23 +3862,15 @@ every being as something comprehensive and the smallest thing which
 cannot be seen even with the most powerful scientific devices is not
 outside Allah’s mercy:
 
-<blockquote dir="rtl">
-  <p>
-وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ
-  </p>
-</blockquote>
+> وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ
 
 ***And My mercy encompasses all things. (7:156)***
 
 14. The Holy Quran considers the unbeliever’s despair of Allah’s mercy
 as features of unbelievers:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ
-الْكَافِرُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ
+> الْكَافِرُونَ
 
 ***Surely none despairs of Allah’s mercy except the unbelieving people.
 (12:87)***
@@ -4917,11 +3881,7 @@ it is best for people to seek Allah’s mercy through faith, righteous
 deeds and sublime morality instead of spending their lifetimes in
 gaining extra wealth and property:
 
-<blockquote dir="rtl">
-  <p>
-وَرَحْمَتُ رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ
-  </p>
-</blockquote>
+> وَرَحْمَتُ رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ
 
 ***And the mercy your Lord is better than what they amass. (43:32)***
 
@@ -4945,19 +3905,15 @@ years of his mission was that it is impossible to understand the Holy
 Quran without them. Zayd ibn Arqam, a trustworthy Sunni narrator, is
 reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-قَامَ رَسُولُ اللَّهِ يَوماً فِينَا خَطِيباً بِمَاءٍ يُدْعَي خُماًّ،
-بَيْنَ مَكَّة وَالْمَدِينَةِ، فَحَمِدَ اللَّهَ وَأثنَى عَلَيهِ
-وَوَعَظَ وَذَكَّرَ ثُمَّ قَالَ: "أمَّا بَعْدُ، ألأ أيُّهَا النَّاسُ،
-فَإنَّمَا أنَا بَشَرٌ يُوشَكُ أنْ يَاتِيَ رَسُولُ رَبِّي فأُجِيبُ.
-وَأنَا تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: أوَّلُهُمَا كِتَابُ اللَّهِ،
-فِيهِ الْهُدى وَالنُّورُ، فَخُذُوا بِكِتَابِ اللَّهِ وَاسْتَمْسِكُوا
-بِهِ." فَحَثَ عَلَى كِتَابِ اللَّهِ وَ رَغَّبَ فِيهِ، ثُمَّ قَال:
-"وَأهْلُ بَيتِي. أذْكَّرُكُمُ اللَّهَ فِي أهْلِ بَيْتِي أُذَكَّرُكُمُ
-اللَّهَ فِي أهْلِ بَيتِي أذَكَّرُكُمُ اللَّهَ فِي أهْلِ بَيتِي."
-  </p>
-</blockquote>
+> قَامَ رَسُولُ اللَّهِ يَوماً فِينَا خَطِيباً بِمَاءٍ يُدْعَي خُماًّ،
+> بَيْنَ مَكَّة وَالْمَدِينَةِ، فَحَمِدَ اللَّهَ وَأثنَى عَلَيهِ
+> وَوَعَظَ وَذَكَّرَ ثُمَّ قَالَ: "أمَّا بَعْدُ، ألأ أيُّهَا النَّاسُ،
+> فَإنَّمَا أنَا بَشَرٌ يُوشَكُ أنْ يَاتِيَ رَسُولُ رَبِّي فأُجِيبُ.
+> وَأنَا تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: أوَّلُهُمَا كِتَابُ اللَّهِ،
+> فِيهِ الْهُدى وَالنُّورُ، فَخُذُوا بِكِتَابِ اللَّهِ وَاسْتَمْسِكُوا
+> بِهِ." فَحَثَ عَلَى كِتَابِ اللَّهِ وَ رَغَّبَ فِيهِ، ثُمَّ قَال:
+> "وَأهْلُ بَيتِي. أذْكَّرُكُمُ اللَّهَ فِي أهْلِ بَيْتِي أُذَكَّرُكُمُ
+> اللَّهَ فِي أهْلِ بَيتِي أذَكَّرُكُمُ اللَّهَ فِي أهْلِ بَيتِي."
 
 One day, Allah’s Messenger stopped at Ghadir Khumm, a place between
 Mecca and Medina, and delivered a sermon. After praising Allah, he said,
@@ -4977,24 +3933,16 @@ Judgment Day.
 
 In this relation, Imam al-Baqir (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا أحَدُكُم حِينَ يَبْلُغُ نَفَسُهُ هَهُنَا يَنْزِلُ عَلَيْهِ
-مَلَكُ الْمَوْتِ فَيَقُولُ:أمَّا مَا كُنْتَ تَرْجُو فَقَدْ
-أعْطِيَتَهُ! وَ أمَّا مَا كُنْتَ تَخَافُهُ فَقَدْ أمِنْتَ مِنْهُ!" وَ
-يُفْتَحُ لَهُ بَابٌ إلى مَنْزِلِهِ مِنَ الْجِنَّةِ، وَيُقَالُ لَهُ: "
-أنْظُرْ إلَى مَسْكَنِكَ فِي الْجنَّةِ، وَانْظُرْ هَذَا رَسُولُ اللَّهِ
-وَعَلِيٌ وَالحَسَنُ وَالحُسَيْنُ رُفَقَؤكَ". وَ هُوَ قَوْلُ اللَّهِ:
-  </p>
-</blockquote>
+> إنَّمَا أحَدُكُم حِينَ يَبْلُغُ نَفَسُهُ هَهُنَا يَنْزِلُ عَلَيْهِ
+> مَلَكُ الْمَوْتِ فَيَقُولُ:أمَّا مَا كُنْتَ تَرْجُو فَقَدْ
+> أعْطِيَتَهُ! وَ أمَّا مَا كُنْتَ تَخَافُهُ فَقَدْ أمِنْتَ مِنْهُ!" وَ
+> يُفْتَحُ لَهُ بَابٌ إلى مَنْزِلِهِ مِنَ الْجِنَّةِ، وَيُقَالُ لَهُ: "
+> أنْظُرْ إلَى مَسْكَنِكَ فِي الْجنَّةِ، وَانْظُرْ هَذَا رَسُولُ اللَّهِ
+> وَعَلِيٌ وَالحَسَنُ وَالحُسَيْنُ رُفَقَؤكَ". وَ هُوَ قَوْلُ اللَّهِ:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ  لَهُمُ الْبُشْرَىٰ فِي
-الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَاتِ
-اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ  لَهُمُ الْبُشْرَىٰ فِي
+> الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَاتِ
+> اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.
 
 When the breath of one of you comes to his throat, the Angel of Death
 comes down on him saying, “You were granted what you longed for; you
@@ -5008,18 +3956,14 @@ friends.”[^148]And these are the words of Allah:
 
 The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذي نَفْسِي بِيَدَهِ، لأ تُفَارِقُ رُوحٌ جَسَدَ صَاحِبِهَا حَتَّى
-تَأكُلَ مِنْ ثِمَارِ الْجَنَّةِ أوْ مِنْ شَجَرَةِ الزُّقُومِ. وَحِينَ
-تَرَى مَلَكَ الْمَوْتِ تَرَانِي وَتَرَى عَلِياًّ وَ فَاطِمَة وَ
-حَسَنَا وَ حُسَيْنَا. فَإنْ كَانَ يُحِبُّنَا، قُلْتُ: "يَا مَلَكَ
-الْمَوْت، إرْفِقْ بِهِ؛ إنَّهُ كَانَ يُحِبُّنِي وَيُحِبُّ أهْلَ
-بَيتِي." وَ إنْ كَانَ يُبغِضُنَا، قُلْتُ: "يَا مَلَكَ الْمَوتِ،
-شَدِّدَدْ عَلَيْهِ؛ إنَّهُ كَانَ يُبْغِضُنِي وَ يُبْغِضُ أهْلَ
-بَيْتِي."
-  </p>
-</blockquote>
+> وَالَّذي نَفْسِي بِيَدَهِ، لأ تُفَارِقُ رُوحٌ جَسَدَ صَاحِبِهَا حَتَّى
+> تَأكُلَ مِنْ ثِمَارِ الْجَنَّةِ أوْ مِنْ شَجَرَةِ الزُّقُومِ. وَحِينَ
+> تَرَى مَلَكَ الْمَوْتِ تَرَانِي وَتَرَى عَلِياًّ وَ فَاطِمَة وَ
+> حَسَنَا وَ حُسَيْنَا. فَإنْ كَانَ يُحِبُّنَا، قُلْتُ: "يَا مَلَكَ
+> الْمَوْت، إرْفِقْ بِهِ؛ إنَّهُ كَانَ يُحِبُّنِي وَيُحِبُّ أهْلَ
+> بَيتِي." وَ إنْ كَانَ يُبغِضُنَا، قُلْتُ: "يَا مَلَكَ الْمَوتِ،
+> شَدِّدَدْ عَلَيْهِ؛ إنَّهُ كَانَ يُبْغِضُنِي وَ يُبْغِضُ أهْلَ
+> بَيْتِي."
 
 I swear by the One in Whose hand is my life, a soul never leaves the
 body of a person without eating of the fruits of Paradise or of the
@@ -5040,15 +3984,11 @@ they themselves have referred to it. Obviously, only those having a pure
 heart and righteous deeds believe it. In this relation, Imam al-Baqir
 (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ رَسُولَ اللَّهِ بَابُ اللَّهِ الَّذي لأيُؤتَي إلأ مِنْهُ،
-وَسَبِيلَهُ الَّذِي مَنْ سَلْكَهُ وَصَلَ إلَى اللَّهِ عَزَّ وَ جَلَّ.
-وَكَذَالِكَ كَانَ أمِيرُ الْمُؤْمِنِينَ مِنْ بَعْدِهِ، وَجَرَى
-لِلأئِمَّةِ وَاحِداً بَعْدَ وَاحِدٍ. جَعَلْهُمُ اللَّهُ عَزَّ وَجَلَّ
-أرِّكَانَ الأرْضِ أنْ تَمِيدَ بِأهْلِهَا.
-  </p>
-</blockquote>
+> إنَّ رَسُولَ اللَّهِ بَابُ اللَّهِ الَّذي لأيُؤتَي إلأ مِنْهُ،
+> وَسَبِيلَهُ الَّذِي مَنْ سَلْكَهُ وَصَلَ إلَى اللَّهِ عَزَّ وَ جَلَّ.
+> وَكَذَالِكَ كَانَ أمِيرُ الْمُؤْمِنِينَ مِنْ بَعْدِهِ، وَجَرَى
+> لِلأئِمَّةِ وَاحِداً بَعْدَ وَاحِدٍ. جَعَلْهُمُ اللَّهُ عَزَّ وَجَلَّ
+> أرِّكَانَ الأرْضِ أنْ تَمِيدَ بِأهْلِهَا.
 
 Surely, Allah’s Messenger is Allah’s gate through which only one can
 enter and the path of Allah through which only one can reach Allah. Amir
@@ -5058,15 +3998,11 @@ that it will not shake its habitants.[^150]
 
 Imam Zayn al-Abidin (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الَّذِينَ بِنَا يُمْسِكُ اللَّهُ السَّمَاءَ أنْ تَقَعَ عَلَي
-الأرْضِ إلأ بِإذْنِهِ، وَبِنَا يُمْسِكُ الأرْضَ أنْ تَمِيدَ
-بِأهْلِهَا، وَبِنَا يُنْزِلَ الْغَيْثَ، وَبِنَا يَنْشُرُ الرَّحْمَة وَ
-يُخْرِجُ بَرَكَاتِ الأرْضِ. وَلَوْ لأ مَافِي الأرْضِ مِنَّا لَسَاخَتْ
-بِأهْلِهَا.
-  </p>
-</blockquote>
+> نَحْنُ الَّذِينَ بِنَا يُمْسِكُ اللَّهُ السَّمَاءَ أنْ تَقَعَ عَلَي
+> الأرْضِ إلأ بِإذْنِهِ، وَبِنَا يُمْسِكُ الأرْضَ أنْ تَمِيدَ
+> بِأهْلِهَا، وَبِنَا يُنْزِلَ الْغَيْثَ، وَبِنَا يَنْشُرُ الرَّحْمَة وَ
+> يُخْرِجُ بَرَكَاتِ الأرْضِ. وَلَوْ لأ مَافِي الأرْضِ مِنَّا لَسَاخَتْ
+> بِأهْلِهَا.
 
 We are the ones for whose sake Allah holds the earth firm so that it
 will not fall down except by His permission and preserves the earth for
@@ -5077,13 +4013,9 @@ earth.[^151]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-النُّجُومُ أمَانٌ لأِهْلِ السَّمَاءِ، فَإذَا ذَهَبَتِ النُّجُومُ
-ذَهَبَ أهْلُ السَّمَاءِ. وَ أهْلُ بَيْتِي أمَانٌ لأهْلِ الأرْضِ، فإذَا
-ذَهَبَ أهْلُ بَيتِي ذَهَبَ أهْلُ الأرْضِ.
-  </p>
-</blockquote>
+> النُّجُومُ أمَانٌ لأِهْلِ السَّمَاءِ، فَإذَا ذَهَبَتِ النُّجُومُ
+> ذَهَبَ أهْلُ السَّمَاءِ. وَ أهْلُ بَيْتِي أمَانٌ لأهْلِ الأرْضِ، فإذَا
+> ذَهَبَ أهْلُ بَيتِي ذَهَبَ أهْلُ الأرْضِ.
 
 The heavenly beings feel safe and secure with stars. Whenever the stars
 disappear, the heavenly beings leave, too. My Ahl al-Bayt too make the
@@ -5092,12 +4024,8 @@ beings will leave too.[^152]
 
 Amir al-Muminin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ بَيْتُ الُّنُّبُوةِ وَ مَعْدِنُ الْحِكْمَةِ وَ أمَانٌ لأهْلِ
-الأرْضِ وَنَجَاةٌ لِمَنْ طَلْبَ.
-  </p>
-</blockquote>
+> نَحْنُ بَيْتُ الُّنُّبُوةِ وَ مَعْدِنُ الْحِكْمَةِ وَ أمَانٌ لأهْلِ
+> الأرْضِ وَنَجَاةٌ لِمَنْ طَلْبَ.
 
 We, Ahl al-Bayt, are the household of Prophethood, the source of wisdom,
 the safety for the earthly beings and salvation for those seeking
@@ -5145,11 +4073,7 @@ to attaining virtues and perfection by following the path of the
 infallible Imams. Evidently we cannot reach their rank, for they have
 achieved such a position that even Archangel Gabriel could not reach:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ دَنَوْتُ.أُنْمُلَةً لأحْتَرَقْتُ.
-  </p>
-</blockquote>
+> لَوْ دَنَوْتُ.أُنْمُلَةً لأحْتَرَقْتُ.
 
 If I go foreword by an inch, I will burn myself.[^154]
 
@@ -5158,11 +4082,7 @@ If I go foreword by an inch, I will burn myself.[^154]
 Allah has made Ahl al-Bayt models for human beings to follow so that
 everyone, according to his capacity, will benefit from their knowledge:
 
-<blockquote dir="rtl">
-  <p>
-أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا
-  </p>
-</blockquote>
+> أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا
 
 ***He sends down water from the cloud and then watercourses flow with
 water according to their measure. (13:17)***
@@ -5173,11 +4093,7 @@ its capacity. The riverbed, which is deeper and wider can benefit more
 from the water of life and be promoted to an excellent position. In this
 relation, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ
 
 ***Certainly, you have in the Apostle of Allah an excellent exemplar.
 (33:21)***
@@ -5193,14 +4109,10 @@ angels and hearing their glorification as well as the devotees better
 know that they cannot possibly reach sublime positions without adhering
 to Ahl al-Bayt. In this relation, the Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-الرُّوحُ وَالرَّاحَةٌ وَالنَّضْرَةُ وَالْيُسْرُ وَالْيَسَارُ
-وَالرِّضَا وَ الرِّضْوَانُ وَالمَخْرَجُ وَالْفَلَجُ وَالقُرْبُ
-وَالمَحَبَّةٌ مِنَ اللَّهِ وَرَسُولِهِ لِمَنْ أحَبَّ عَلِياً
-وَانْتُمَّ بِالأوْصِيَاءِ مِنْ بَعْدِهِ
-  </p>
-</blockquote>
+> الرُّوحُ وَالرَّاحَةٌ وَالنَّضْرَةُ وَالْيُسْرُ وَالْيَسَارُ
+> وَالرِّضَا وَ الرِّضْوَانُ وَالمَخْرَجُ وَالْفَلَجُ وَالقُرْبُ
+> وَالمَحَبَّةٌ مِنَ اللَّهِ وَرَسُولِهِ لِمَنْ أحَبَّ عَلِياً
+> وَانْتُمَّ بِالأوْصِيَاءِ مِنْ بَعْدِهِ
 
 Happiness, convenience, mercy, tiumph, wealtj, improvement, pleasure,
 contentment, solution of problems, amd love for Allah and His Messenge
@@ -5208,15 +4120,11 @@ are all for the one who loves Ali and follows the Imams after him.[^155]
 
 Imam al-Rida (a.s.) says too:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أنْ يَنْظُرُ إلَى اللَّهِ بِغَيْرِ حِجَابٍ وَ يَنْظُرَ
-اللَّهِ إلَيْهِ بِغَيْرِحِجَابِ فَلْيَتَوَلَّ آلَ مُحَمَّدٍ
-وَلْيَتَبَرَّا مُحَمَّدٍ وَلْيَتَبَرَّأْ مِنْ عَدُوِّهِمْ وَلْيَتَامَّ
-بِإمَامِ الْمُؤْنِينَ مِنْهُم، فإنّهُ إذَا كَانَ يَوْمُ الْقِيَامَةِ
-نَظَرَ اللَّهُ إلَيْهِ نَظَرَ إلَى اللَّهِ بِغَيْرِ حِجَابِ.
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أنْ يَنْظُرُ إلَى اللَّهِ بِغَيْرِ حِجَابٍ وَ يَنْظُرَ
+> اللَّهِ إلَيْهِ بِغَيْرِحِجَابِ فَلْيَتَوَلَّ آلَ مُحَمَّدٍ
+> وَلْيَتَبَرَّا مُحَمَّدٍ وَلْيَتَبَرَّأْ مِنْ عَدُوِّهِمْ وَلْيَتَامَّ
+> بِإمَامِ الْمُؤْنِينَ مِنْهُم، فإنّهُ إذَا كَانَ يَوْمُ الْقِيَامَةِ
+> نَظَرَ اللَّهُ إلَيْهِ نَظَرَ إلَى اللَّهِ بِغَيْرِ حِجَابِ.
 
 Whoever is glad to see (the Mercy of Allah) without any veil and Allah
 sees him (i.e. spreads mercy on him) without veil must accept the
@@ -5237,11 +4145,7 @@ with a small or medium capacity, by adhering to Ahl al-Bayt, can somehow
 comprehend their truth. However, those who are submerged in worldly
 affairs and do not wish to get out of this state are *like –*
 
-<blockquote dir="rtl">
-  <p>
-…كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِنْهَا …
-  </p>
-</blockquote>
+> …كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِنْهَا …
 
 ***… him whose likeness is that of one in the other darkness whence he
 cannot come forth*** ***(6:122).***
@@ -5251,11 +4155,7 @@ and Ahl al-Bayt, for their hearts are so dark that there is a veil
 between them and Allah. This veil is the result of sins, corruption,
 bias and rancor:
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَاهُمْ يَنْظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَتَرَاهُمْ يَنْظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ
 
 ***And you will see them looking towards you, yet they do not see.
 (7:198)***
@@ -5263,11 +4163,7 @@ bias and rancor:
 They can see, but they have no insight. Prejudice has covered their
 inner sight:
 
-<blockquote dir="rtl">
-  <p>
-أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي
-  </p>
-</blockquote>
+> أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي
 
 ***Their eyes were under a cover from My Reminder. (18:101)***
 
@@ -5278,11 +4174,7 @@ a group of people cannot see Allah with their insight, it is because
 they are under a cover of ignorance whereas Allah is Manifest and pure
 Light:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ
-  </p>
-</blockquote>
+> اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ
 
 ***Allah is the light of the heavens and the earth. (24:35)***
 
@@ -5290,11 +4182,7 @@ None of the visible and invisible truths, i.e. Divine signs, is under a
 cover. It is man who is under the cover of sins and is deprived of
 seeing Allah. In this relation, Amir al-Muminin (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-ألْحَمْدُ للَّهِ الْمُتَجَلِي لِخَلْقِهِ بِخَلْقِهِ.
-  </p>
-</blockquote>
+> ألْحَمْدُ للَّهِ الْمُتَجَلِي لِخَلْقِهِ بِخَلْقِهِ.
 
 Praise be to Allah who is Manifest before His creation because of
 themselves.[^157]
@@ -5317,12 +4205,8 @@ with the soil. Evidently, the soil must be good, for if the soil is
 contaminated, seeds will not grow and will perish. Therefore, seeds will
 not grow or bear fruit unless there is the means of a good soil:
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ ۖ وَالَّذِي
-خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ
-  </p>
-</blockquote>
+> وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ ۖ وَالَّذِي
+> خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ
 
 ***And as for the good land, its vegetation springs for the (abundantly)
 by the permission of its Lord, and (as for) that which is inferior (its
@@ -5353,12 +4237,8 @@ wisdom of the Holy Quran. There is not a bit of corruption, defect or
 fault, whether overt or covert, in Ahl al-Bayt. In this connection, the
 Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّا أهْلُ الْبَيْتِ قَد أذْهَبَ الَّلهُ عَنَّا الْفَوَاحِشَ مَا
-ظَهَرَ مِنْهَا وَمَا بَطَنَ.
-  </p>
-</blockquote>
+> إنَّا أهْلُ الْبَيْتِ قَد أذْهَبَ الَّلهُ عَنَّا الْفَوَاحِشَ مَا
+> ظَهَرَ مِنْهَا وَمَا بَطَنَ.
 
 We, Ahl al-Bayt, are those from whom Allah has removed any hidden or
 manifest uncleanness.[^158]
@@ -5366,24 +4246,16 @@ manifest uncleanness.[^158]
 Allah’s Messenger has said the following regarding the revelation of the
 Verse of Purification:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ أهْلُ بَيْتٍ طَهَّرَ هُمُ اللَّهُ.
-  </p>
-</blockquote>
+> نَحْنُ أهْلُ بَيْتٍ طَهَّرَ هُمُ اللَّهُ.
 
 We, Ahl al-Bayt, are purified by Allah.[^159]
 
 In an important fragment, Imam Ali (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا أمَرَ اللَّهُ عَزَّ وَجَلَّ بِطَاعَةِ الرَّسُولِ لأنَّهُ
-مَعْصُومٌ مُطَهَّرٌ لأنَّهُ مَعْصُومٌ مُطَهَّرٌ لأيَامُرُ
-بِمَعصِيَتِهِ. وَإنَّمَا أمَرَ بِطَاعَةِ أولَى الأمْرِ لأنَّهُمْ
-مَعْصُومُونَ مُطَهَّرُونَ لأئَامُرُونَ بِمَعصِيَتِهِ.
-  </p>
-</blockquote>
+> إنَّمَا أمَرَ اللَّهُ عَزَّ وَجَلَّ بِطَاعَةِ الرَّسُولِ لأنَّهُ
+> مَعْصُومٌ مُطَهَّرٌ لأنَّهُ مَعْصُومٌ مُطَهَّرٌ لأيَامُرُ
+> بِمَعصِيَتِهِ. وَإنَّمَا أمَرَ بِطَاعَةِ أولَى الأمْرِ لأنَّهُمْ
+> مَعْصُومُونَ مُطَهَّرُونَ لأئَامُرُونَ بِمَعصِيَتِهِ.
 
 Allah has decreed (His creatures) to obey the Messenger, for he is
 infallible and purified and he does not order to sin. He has decreed to
@@ -5392,14 +4264,10 @@ do not order to sin.[^160]
 
 Imam Hasan (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أهلُ بَيتٍ أكْرَمَنَا اللَّهُ بِالإسْلأمِ، وَاخْتَارَنَا
-وَاصْطَفَانَا وَاجْتَبَانَا فأذْهَبَ عَنَّا الرِّجْسَ وَ طَهَّرِنَا
-تَطْهِيراً. وَالرِّجْسُ هُوَ الْشَّكُّ، فَلأ نَشُكُّ، فَلأ نَشُكُ فِي
-اللَّهِ الْحَقِّ وَ دِينِهِ. وَطَّهَّرَنَا مِنْ كُلِّ أفَنٍ وَغَيَّةٍ.
-  </p>
-</blockquote>
+> إنَّ أهلُ بَيتٍ أكْرَمَنَا اللَّهُ بِالإسْلأمِ، وَاخْتَارَنَا
+> وَاصْطَفَانَا وَاجْتَبَانَا فأذْهَبَ عَنَّا الرِّجْسَ وَ طَهَّرِنَا
+> تَطْهِيراً. وَالرِّجْسُ هُوَ الْشَّكُّ، فَلأ نَشُكُّ، فَلأ نَشُكُ فِي
+> اللَّهِ الْحَقِّ وَ دِينِهِ. وَطَّهَّرَنَا مِنْ كُلِّ أفَنٍ وَغَيَّةٍ.
 
 We, Ahl al-Bayt, are those whom Allah has honored by Islam, chosen from
 among all creatures, removed any uncleanness, and purified a thorough
@@ -5409,37 +4277,25 @@ error.[^161]
 
 Imam al-Baqir (a.s.) too has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّا لأ نُوصَفُ. وَكَيفُ يُوصَفُ قَوْمٌ رَفَعَ اللَّهُ عَنْهُمُ
-الرِّجْسَ؟
-  </p>
-</blockquote>
+> إنَّا لأ نُوصَفُ. وَكَيفُ يُوصَفُ قَوْمٌ رَفَعَ اللَّهُ عَنْهُمُ
+> الرِّجْسَ؟
 
 We cannot be described. How can a group from whom Allah has removed
 uncleanness be described?[^162]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الشَّكَّ وَالمَعْصِيةَ فِي النَّارِ،لَيْسَا مِنَّا وَلأإلَيْنَا.
-  </p>
-</blockquote>
+> إنَّ الشَّكَّ وَالمَعْصِيةَ فِي النَّارِ،لَيْسَا مِنَّا وَلأإلَيْنَا.
 
 Doubt and sin are in Fire. They are neither from us no do they come to
 us.[^163]
 
 In *al-Ziyarah al-Jamiah al-Kabirah*, Imam al-Hadi (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَأشْهَدُ أنَّكُمْ الأئِمَّةٌ الرَّاشِدُونَ الْمَهْدِيُّونَ
-الْمَعصُومُونَ المُكَرَّمُونَ... عَصَمَكُمُ اللَّهُ مِنَ الزَّلَلْ،
-وَآمَنَكُمْ مِنَ الْفِتَنِ، وَ طَهَّرَكُمْ مِنْ الدَّنَسِ، وَ أْهَبَ
-عَنْكُمُ الرِّجْسَ وَ طهَّرَكُمْ تَطْهِيراً.
-  </p>
-</blockquote>
+> وَأشْهَدُ أنَّكُمْ الأئِمَّةٌ الرَّاشِدُونَ الْمَهْدِيُّونَ
+> الْمَعصُومُونَ المُكَرَّمُونَ... عَصَمَكُمُ اللَّهُ مِنَ الزَّلَلْ،
+> وَآمَنَكُمْ مِنَ الْفِتَنِ، وَ طَهَّرَكُمْ مِنْ الدَّنَسِ، وَ أْهَبَ
+> عَنْكُمُ الرِّجْسَ وَ طهَّرَكُمْ تَطْهِيراً.
 
 I bear witness that all of you are guide leaders, rightly guided,
 infallible, highly reveredÖ Allah preserved you guiltless and free from
@@ -5453,22 +4309,14 @@ realize the dignity that they deserve through their mediation, be immune
 from infidelity, carnal desires and sins, have a happy life in this
 world and finally meet Allah and abide in Paradise forever:
 
-<blockquote dir="rtl">
-  <p>
-كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ
-إِلَى النُّورِ
-  </p>
-</blockquote>
+> كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ
+> إِلَى النُّورِ
 
 ***This is a Book which We have revealed to you that you may bring forth
 men from utter darkness into light. (14:1)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ
 
 ***O you who believe, obey Allah and obey the Apostle and those in
 authority from among you. (4:59)***
@@ -5490,12 +4338,8 @@ and in this relation he is trying hard to reach the peak of perfection.
 If man is truly devoted to Allah, this inclination motivates him to walk
 on the path of Him:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا
-فَمُلَاقِيهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا
+> فَمُلَاقِيهِ
 
 ***O man! Surely you must strive (to attain) to your Lord, a hard
 striving until you meet Him. (84:6)***
@@ -5509,11 +4353,7 @@ prophethood of Muhammad who was the first manifestation of Allah and he
 must profess the Imamate of Ali, for he is the gate to the Holy
 Prophet’s knowledge:
 
-<blockquote dir="rtl">
-  <p>
-أنَا مَدِينَةٌ الْعِلْمِ، وَ عَلِيٌ بَابُهَا.
-  </p>
-</blockquote>
+> أنَا مَدِينَةٌ الْعِلْمِ، وَ عَلِيٌ بَابُهَا.
 
 I am the city of knowledge and Ali is its gate.[^165]
 
@@ -5527,16 +4367,12 @@ Allah's Messenger nor can one meet Allah.
 
 Addressing Imam Ali (a.s.), Allah’s Messenger says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أنْ يَلْقَى اللَّهَ عَزَّ وَجَلَّ آمِناً مُطَهَّراً
-لأيَحْزُنُهُ الْفَزَعُ الأكْبَرُّ فَلْيَتَوَلَّكَ وَلْيَتَوَلَّ
-ابْنَيْكَ الحَسَنَ وَالحُسَيْنَ، وَعَلِيَّ بْنَ الْحُسَينِ وَمُحَمَّدَ
-بْنَ عَلِيٍّ وَ جَعْفَرَ بْنَ مُحَمَّدٍ وَ مُوسَى بْنَ جَعْفَرٍ وَ
-عَلِيَّ بْنَ مُوسَى وَ مُحَمَّداً وَ عَلِياً وَالْحَسَنَ ثُمَّ
-الْمَهْدِيَّ، وَهُوَ خَاتَمُهُمْ.
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أنْ يَلْقَى اللَّهَ عَزَّ وَجَلَّ آمِناً مُطَهَّراً
+> لأيَحْزُنُهُ الْفَزَعُ الأكْبَرُّ فَلْيَتَوَلَّكَ وَلْيَتَوَلَّ
+> ابْنَيْكَ الحَسَنَ وَالحُسَيْنَ، وَعَلِيَّ بْنَ الْحُسَينِ وَمُحَمَّدَ
+> بْنَ عَلِيٍّ وَ جَعْفَرَ بْنَ مُحَمَّدٍ وَ مُوسَى بْنَ جَعْفَرٍ وَ
+> عَلِيَّ بْنَ مُوسَى وَ مُحَمَّداً وَ عَلِياً وَالْحَسَنَ ثُمَّ
+> الْمَهْدِيَّ، وَهُوَ خَاتَمُهُمْ.
 
 Whoever is pleased to meet Allah safe, purified and not sad about the
 horror of the Judgment Day must wholeheartedly accept the leadership of
@@ -5546,16 +4382,12 @@ and then al-Mahdi - their seal.[^166]
 
 In an important narration, Allah’s Messenger is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا بَالُ أقْوامٍ إذَا ذُكِرَ عِنْدَهُمْ آلُ إبْرَاهِيمَ فَرِحُو
-وَاستبْشَرَوا، وَإذَا ذُكِرَا عِنْدَهُمْ آلُ مُحَّمَّدٍ اشْمَأزَّتْ
-قُلُوبُهُمْ؟ وَالَّذي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْ أنَّ عَبْداً
-جَاءَ يَوْمَ الْقِيَامَةِ بِعَمَلِ سَبْعِينَ نَبِّياً مَا قَبِلَ
-اللَّهُ ذَالِكَ مِنْهُ حَتَّي يَلْقَاهُ بِوِلأيَتِي وَوِلأيَةِ أهْلِ
-بَيْتِي.
-  </p>
-</blockquote>
+> مَا بَالُ أقْوامٍ إذَا ذُكِرَ عِنْدَهُمْ آلُ إبْرَاهِيمَ فَرِحُو
+> وَاستبْشَرَوا، وَإذَا ذُكِرَا عِنْدَهُمْ آلُ مُحَّمَّدٍ اشْمَأزَّتْ
+> قُلُوبُهُمْ؟ وَالَّذي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْ أنَّ عَبْداً
+> جَاءَ يَوْمَ الْقِيَامَةِ بِعَمَلِ سَبْعِينَ نَبِّياً مَا قَبِلَ
+> اللَّهُ ذَالِكَ مِنْهُ حَتَّي يَلْقَاهُ بِوِلأيَتِي وَوِلأيَةِ أهْلِ
+> بَيْتِي.
 
 What is the matter with the people who get happy whenever they are
 reminded of the family of Ibrahim but they are disturbed whenever they
@@ -5566,13 +4398,9 @@ he meets Him bearing love for me and my Ahl al- Bayt. [^167]
 
 In *al-Ziyarah al-Jamiah al-Kabirah*, Imam al-Hadi (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَأشْرَقَتِ الأرْضُ بِنُورِكُمْ، وَفَازَ الْفَائِزُونَ بِوِلايَتِكُمْ،
-بِكُمْ يُسْلَكُ إلَى الرِّضْوانِ، وَعَلى مَنْ جَحَدَ وِلايَتَكُمْ
-غَضَبُ الرَّحْمَنِ.
-  </p>
-</blockquote>
+> وَأشْرَقَتِ الأرْضُ بِنُورِكُمْ، وَفَازَ الْفَائِزُونَ بِوِلايَتِكُمْ،
+> بِكُمْ يُسْلَكُ إلَى الرِّضْوانِ، وَعَلى مَنْ جَحَدَ وِلايَتَكُمْ
+> غَضَبُ الرَّحْمَنِ.
 
 Your light lights up the earth; those who love and cherish you attain
 their end and conduct themselves to Paradise; and those who forsake your
@@ -5582,11 +4410,7 @@ One who is inclined towards the peak of Perfection must first get to
 know Ahl al-Bayt and then adhere to them. In this connection, the Holy
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ
-  </p>
-</blockquote>
+> إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ
 
 ***If you love Allah, then follow me, Allah will love you. (3:31)***
 
@@ -5598,11 +4422,7 @@ instinctively. If the Ahl al-Bayt are His favorites, it is because they
 are the best path for meeting Allah. In *al-Ziyarah al-Jamiah
 al-Kabirah*, Imam al-Hadi (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الْصِّرَاطُ الْمُسْتَقِيمُ.
-  </p>
-</blockquote>
+> نَحْنُ الْصِّرَاطُ الْمُسْتَقِيمُ.
 
 We are the straight path.
 
@@ -5613,11 +4433,7 @@ lead us to the peak of perfection.
 Furthermore, Ahl al-Bayt are extended from Allah's grace which is the
 truth of Muhammad extended to all borders of the earth:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ
 
 ***Have you not considered the work of your Lord, how he extends the
 shade? (25:45)***
@@ -5625,11 +4441,7 @@ shade? (25:45)***
 Whoever is inclined towards the peak of perfection will grasp it in
 order to reach Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ
-  </p>
-</blockquote>
+> وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ
 
 ***And seek means of nearness to Him. (5:35)***
 
@@ -5966,5 +4778,4 @@ order to reach Allah:
 [^166]: Kitab al-Ghaybay by al-Tusi: 136
 
 [^167]: Al-Amali; 140
-
 

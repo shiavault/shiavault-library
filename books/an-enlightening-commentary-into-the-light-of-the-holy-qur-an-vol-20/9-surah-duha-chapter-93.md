@@ -8,11 +8,7 @@ Surah Duha, Chapter 93
 The Contents of Surah Duha
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -82,43 +78,19 @@ one of the two Suras.
 Surah Duha, Verses 1-5
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالضُّحَى
-  </p>
-</blockquote>
+> وَالضُّحَى
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذَا سَجَى
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذَا سَجَى
 
-<blockquote dir="rtl">
-  <p>
-مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى
-  </p>
-</blockquote>
+> مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى
 
-<blockquote dir="rtl">
-  <p>
-وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى
-  </p>
-</blockquote>
+> وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى
-  </p>
-</blockquote>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى
 
 ***1. “By the Glorious Morning Light,"***  
 ***2. “And by the Night when it is still,***  
@@ -339,41 +311,17 @@ them[^5].
 Surah Duha, Verses 6-11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَجِدْكَ يَتِيمًا فَآوَى
-  </p>
-</blockquote>
+> أَلَمْ يَجِدْكَ يَتِيمًا فَآوَى
 
-<blockquote dir="rtl">
-  <p>
-وَوَجَدَكَ ضَالًّا فَهَدَى
-  </p>
-</blockquote>
+> وَوَجَدَكَ ضَالًّا فَهَدَى
 
-<blockquote dir="rtl">
-  <p>
-وَوَجَدَكَ عَائِلًا فَأَغْنَى
-  </p>
-</blockquote>
+> وَوَجَدَكَ عَائِلًا فَأَغْنَى
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ
-  </p>
-</blockquote>
+> فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
-  </p>
-</blockquote>
+> وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
-  </p>
-</blockquote>
+> وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
 
 ***6. “Did He not find you an orphan and sheltered (you)?"***  
 ***7. “And He found you wandering and guided (you).”***  
@@ -703,5 +651,4 @@ supporters of the rights of the orphans.*
 al-Kafi, vol, 6, Tradition 2.
 
 [^13]: Furu'-i-Kafi. vol. 6, p. 438.
-
 

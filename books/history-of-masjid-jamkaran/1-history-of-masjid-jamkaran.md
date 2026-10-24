@@ -97,4 +97,3 @@ habitation.'“
 
 *Picture of Masjid Jamkaran*
 
-

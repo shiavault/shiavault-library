@@ -28,9 +28,7 @@ orderliness becomes a mere hallucination.
 even taking his consciousness away. As Jalal-addin Muhammad Molawi
 (Rumi) says:
 
-<p dir="rtl">
 میگريزند از خـودی در بيخودی يا به مستی يا به شغل ای مهتدی
-</p>
 
 *With the occupation or infatuation they acquire, they are fleeing from
 self-consciousness toward unconsciousness, but they do not know that
@@ -47,10 +45,8 @@ unable to consider the phenomenon of life. The second group, although
 developed people, regard life as a part of the whole universe, heading
 for the aim of creation. The second group are quite joyous people.
 
-<p dir="rtl">
 به جهان خرّم از آنم که جهان خرّم از اوست عاشقم بر همه عالم که همه
 عالم از اوست
-</p>
 
 *I love this world because God has created it. The beauty of the world
 comes from God.*
@@ -130,10 +126,8 @@ value and significance.
 have no meaning at all. As Nasser Khusro, the renowned Iranian poet
 says:
 
-<p dir="rtl">
 روزگار و چرخ و انجم سر به سر بازيستی گر نه اين روز دراز دهر را
 فرداستی
-</p>
 
 *All this world and stars are not all of what there is; someday, all
 this will come to an end.*
@@ -309,9 +303,7 @@ pure conscience, and its deep aspect is drops pouring into the ocean of
 eternity, elevating the human character with its waves all the way to
 God.” That is a life with an aim - intelligible life, which means:
 
-<p dir="rtl">
 انّ صلوتی و نسکی و محيای و مماتی لله رب العالمين
-</p>
 
 ***“My prayers, worship and death are at the will of God, the Creator of
 the universe.” (6:162)***
@@ -354,13 +346,9 @@ is impossible without moving along the path of divine attraction,
 serious work and effort is a crucial fundamental man with an objective
 life. As Jalal-addin Muhammad Molawi says:
 
-<p dir="rtl">
 دوســت دارد يار اين آشفتـــگی کوشــش بيهوده به از خفتگــی
-</p>
 
-<p dir="rtl">
 اندرين ره مـیتراش و مـیخراش تا دم آخــر دمی فارغ مبــاش
-</p>
 
 *All this anxiety and effort - however it may be - is appreciated and
 approved of by God. He likes desperation and anxiety, and creates
@@ -435,5 +423,4 @@ and soul of all of man's worldly activities relate to the other world.
 This form of life - worldly in appearance but in fact aiming for the
 other world - will never make man feel nihilistic, and its many problems
 are easily tolerable for man.
-
 

@@ -260,4 +260,3 @@ a partner?
  2. Have you heard that some religions believe that God is three and
 some believe that He is two? Which religions are these?
 
-

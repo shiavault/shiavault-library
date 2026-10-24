@@ -1,10 +1,6 @@
 Companions and Hadith Relating:
 ===============================
 
-  
-  
-  
-
 Though sahih traditions were reported about the Prophet’s forbiddance
 from writing his hadith, and authentic reports have successively
 affirmed that this order was heeded by the Companions, who abstained
@@ -16,8 +12,7 @@ being extremely severe and precautious in accepting the akhbar
 
 Al-Dhahabi, in Tadhkirat al-huffaz, says:
 
-It is reported on the authority of Marasil ibn Abi Mulaykah, <span
-id="_anchor_55"></span>55 that Abu Bakr, after the Prophet’s demise,
+It is reported on the authority of Marasil ibn Abi Mulaykah, 55 that Abu Bakr, after the Prophet’s demise,
 gathered people and addressed them saying: You relate from the Messenger
 of Allah, upon whom be God’s peace and benediction, traditions regarding
 which you disagree, and consequently severer controversy shall occur
@@ -37,13 +32,13 @@ Messenger of Allah, and disseminating among people everywhere? They
 said: Do you forbid us? He said: No, stay with me. By God, you shall
 never leave me as long as I am alive…we are better aware, and we can
 take from you and reciprocate with you. Thus they kept his company,
-never parting him till his death. <span id="_anchor_56"></span>56  In
+never parting him till his death. 56  In
 Tadhkirat al-huffaz, al-Dhahabi reported from Shu’bah, from Sa’id ibn
 Ibrahim from his father, that Umar detained Ibn Mas’ud, Abu al-Darda’
 and Abu Mas’ud al-Ansari, saying to them: You have narrated hadith
-abundantly from the Messenger of Allah. <span id="_anchor_57"></span>57
+abundantly from the Messenger of Allah. 57
  It is reported that he had detained them in Medina, but they were set
-free by Uthman. <span id="_anchor_58"></span>58
+free by Uthman. 58
 
 Ibn Asakir has reported on the authority of al-Sa’ib ibn Yazid that he
 said: I heard Umar ibn al-Khattab addressing Abu Hurayrah thus: You
@@ -51,8 +46,7 @@ should abandon reporting hadith from the Messenger of Allah, or
 otherwise I shall deport you to the land of Dous (his homeland). He also
 said to Ka’b al-Ahbar: You should stop reporting hadith from the first
 one (Abu Hurayrah), or otherwise I shall exile you to the land of apes.
-And they were treated in the same way by Uthman ibn Affan. <span
-id="_anchor_59"></span>59
+And they were treated in the same way by Uthman ibn Affan. 59
 
 Ibn Sa’d and Ibn Asakir reports from Mahmud ibn Labid that he said: I
 heard Uthman ibn Affan addressing people from over the pulpit: It is
@@ -63,10 +57,10 @@ conscious of his Companions, but I heard him declaring: “Whoever
 ascribing to me something I never said, he shall verily occupy his
 (destined) abode in Fire.”
 
-In Jami‘ bayan al-’ilm wa fadlihi, <span id="_anchor_60"></span>60  Ibn
+In Jami‘ bayan al-’ilm wa fadlihi, 60  Ibn
 Abd al-Barr reports from al-Shi’bi, from Qurdah ibn Ka’b that he said:
 We went out taking the direction of Iraq, when we were accompanied by
-Umar till the region of Sirar, <span id="_anchor_61"></span>61  who said
+Umar till the region of Sirar, 61  who said
 to us: Do you know the reason for my accompanying you? We said: May it
 be you intended to dignify and honour us? He said: “Nevertheless, there
 was some necessary need I wanted to be met. You are going to a country
@@ -83,13 +77,13 @@ as to divert their attention (from the Qur’an). Recite the Qur’an with
 intonation, and lessen in narrating hadith from the Messenger of Allah,
 whence I will do the same. Then when Qurdah reached that region, its
 people said to him: Relate to us (hadith). He replied: We are forbidden
-by Umar. <span id="_anchor_62"></span>62
+by Umar. 62
 
 In the book al-Umm of al-Shafi’i, al-Rabi’ ibn Sulayman reported: When
 Qurdah arrived there, they said to him: Relate (hadith) to us. He said:
 We are forbidden by Umar…and Umar used to say: Decrease number of
 traditions you report from the Messenger of Allah except those that can
-be applied in life. <span id="_anchor_63"></span>63
+be applied in life. 63
 
 No wonder to see Umar doing so, since the only sources he used to depend
 on were the Qur’an and the practical Sunnah (the Prophet’s acts).
@@ -108,7 +102,7 @@ Prophet till he returned home. And another time he (Sa’d) was inquired
 about something which he couldn’t conceive, when he said: I am afraid of
 reporting one hadith to which you may add a hundred! (It is to be known
 that Sa’d was considered among the leading Companions and the ten men
-promised with paradise, <span id="_anchor_64"></span>64  as claimed by
+promised with paradise, 64  as claimed by
 them [Sunnites]).
 
 ‘Amr ibn Maymun is reported to have said: “I kept on frequenting to Abd
@@ -136,7 +130,7 @@ Al-Bukhari reported on the authority of al-Sa’ib ibn Yazid that he said:
 I kept company with Talhah ibn Ubayd Allah, Sa’d ibn Abi Waqqas,
 al-Miqdad ibn al-Aswad and Abd al-Rahman ibn Awf (for a long time)
 without hearing any of them relating any hadith from the Messenger of
-Allah for fear of addition and omission. <span id="_anchor_65"></span>65
+Allah for fear of addition and omission. 65
 
 Ahmad and Abu Ya’la reported on the authority of Dujayn as saying: I
 entered the Medina when meeting Aslam, the slave of Umar ibn al-Khattab.
@@ -151,7 +145,7 @@ Layla that he said: I said to Zayd ibn Arqam: Relate to us (some hadith)
 from the Messenger of Allah. He said: I became old and forgetful, and to
 relate hadith from the Messenger of Allah is quite a hard task.
 
-In Ta’wil mukhtalif al-hadith, <span id="_anchor_66"></span>66  Ibn
+In Ta’wil mukhtalif al-hadith, 66  Ibn
 Qutaybah says: A large number of dignified Companions and favourites of
 the Messenger of Allah, upon whom be God’s peace and benediction, like
 Abu Bakr, al-Zubayr, Abu Ubaydah and al-Abbas ibn Abd al-Muttalib used
@@ -175,8 +169,7 @@ reverentially fearful from standing in awe of narrating the traditions
 of the Messenger of Allah, with lessening number of narrations, for fear
 of addition and omission. Besides, they used to relate those traditions
 which they have recurringly heard from the Prophet, without declaring
-expressly their hearing, or saying: The Messenger of Allah said. <span
-id="_anchor_67"></span>67
+expressly their hearing, or saying: The Messenger of Allah said. 67
 
 ### Companions’ Strictness in Admitting the Reports
 
@@ -205,7 +198,7 @@ hadith from anyone but only when his narration being testified by
 another one, which being the
 
 provision of the correct affirmation (isnad). Al-Dhahabi in his Tarjumah
-<span id="_anchor_68"></span>68  says, that he (Abu Bakr) was the first
+68  says, that he (Abu Bakr) was the first
 to take precautions in accepting the reports.
 
 Ibn Shahab reports on the authority of Qubaysah that a grandmother came
@@ -221,7 +214,7 @@ satisfied and gave her that share.
 Such was the practice of Abu Bakr, whereas Umar was even much severer
 and more precautious in accepting the hadith.
 
-In Ta’wil mukhtalif al-hadith. <span id="_anchor_69"></span>69  Ibn
+In Ta’wil mukhtalif al-hadith. 69  Ibn
 Qutaybah is reported to have said: Umar used to be so strict toward
 whoever was abundantly narrating (the hadith), or that bringing any
 report related to rules, without introducing a witness confirming his
@@ -229,7 +222,7 @@ words, beside ordering them to lessen the number of traditions they
 narrating. His intention behind this was preventing people from going
 too far in narrating the traditions, and keeping them from any kind of
 forgery or foisting or fabrication at the hands of the hypocrites,
-debauchees and bedouins. <span id="_anchor_70"></span>70  He was so keen
+debauchees and bedouins. 70  He was so keen
 and serious in safeguarding the hadith that he once slapped Abu Hurayrah
 for narrating the hadith, threatening him with exile to his homeland in
 case of keeping on narrating.
@@ -271,7 +264,7 @@ of khabar al-wahid, it should be verified and investigated as he
 (narrator) is liable to lapse or forgetfulness or other things. It is
 known for all how he (Umar) dealt with Abu Hurayrah and others, in a way
 that traditions reported by Aby Hurayrah couldn’t increase in number but
-only after death of Umar, <span id="_anchor_71"></span>71  when someone
+only after death of Umar, 71  when someone
 reported a hadith from Abu Salamah, from Abu Hurayrah, to whom I (Ibn
 Battal) said: Could you narrate this during the days of Umar? He
 replied: Had I reported in the time of Umar what I am relating to you

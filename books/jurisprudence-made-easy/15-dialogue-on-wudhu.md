@@ -111,4 +111,3 @@ afresh. Otherwise, you need not worry.  That is, if you have already
 moved on to another act, such as you are in the process of saying
 prayer.
 
-

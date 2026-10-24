@@ -7,13 +7,9 @@ personalities. There are some verses about this.
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللَّهِ كُفْرًا
-وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ. جَهَنَّمَ يَصْلَوْنَهَا
-وَبِئْسَ الْقَرَارُ.
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللَّهِ كُفْرًا
+> وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ. جَهَنَّمَ يَصْلَوْنَهَا
+> وَبِئْسَ الْقَرَارُ.
 
 ***Have you not seen those who have changed Allah’s favor for
 ungratefulness and made their people to alight into the abode of
@@ -85,11 +81,7 @@ their enmity is disbelief and hypocrisy which will take to Hell.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنْ النَّعِيمِ.
-  </p>
-</blockquote>
+> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنْ النَّعِيمِ.
 
 ***Then on that day you shall most certainly be questioned about the
 boons. (Surah Takhathur 102:8)***
@@ -159,11 +151,7 @@ Ibrahim and Shaykh Tabarsi have narrated from Imam Sadiq (a.s.) that
 ‘favor’ refers to Ahlul Bayt (a.s.) and you will be questioned about it.
 So at some other place you have:
 
-<blockquote dir="rtl">
-  <p>
-وَقِفُوهُمْ إِنَّهُمْ مَسْئُولُونَ.
-  </p>
-</blockquote>
+> وَقِفُوهُمْ إِنَّهُمْ مَسْئُولُونَ.
 
 ***And stop them, for they shall be questioned. (Surah Saffat 37:24)***
 
@@ -213,11 +201,7 @@ About the houses where he lived 5. To be born without any defects.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً.
-  </p>
-</blockquote>
+> وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً.
 
 ***And made complete to you His favors outwardly and inwardly? (Surah
 Luqman 31:20)***
@@ -236,13 +220,9 @@ our love in the heart. Then the Imam said: By Allah! Those who accepted
 this ‘favor’ only outwardly and did not accept it inwardly and whole
 heartedly about them Allah says this in this verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي
-الْكُفْرِ مِنْ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ
-تُؤْمِنْ قُلُوبُهُمْ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي
+> الْكُفْرِ مِنْ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ
+> تُؤْمِنْ قُلُوبُهُمْ.
 
 ***O Apostle! Let not those grieve you who strive together in hastening
 to unbelief from among those who say with their mouths: We believe, and
@@ -253,11 +233,7 @@ love and Wilayat.
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ.
-  </p>
-</blockquote>
+> فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ.
 
 ***Which then of the bounties of your Lord will you deny? (Surah Rahman
 55:6)***
@@ -279,11 +255,7 @@ servants because of these two.
 Kulaini has narrated through reliable chains from Imam Sadiq (a.s.) that
 he recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْكُرُوا آلَاءَ اللَّهِ لَعَلَّكُمْ تُفْلِحُونَ.
-  </p>
-</blockquote>
+> فَاذْكُرُوا آلَاءَ اللَّهِ لَعَلَّكُمْ تُفْلِحُونَ.
 
 ***…therefore remember the benefits of Allah, that you may be
 successful. (Surah Araf 7:69)***
@@ -295,12 +267,8 @@ Allah.[^1]
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-يَعْرِفُونَ نِعْمَةَ اللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمْ
-الْكَافِرُونَ.
-  </p>
-</blockquote>
+> يَعْرِفُونَ نِعْمَةَ اللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمْ
+> الْكَافِرُونَ.
 
 ***They recognize the favor of Allah, yet they deny it, and most of them
 are ungrateful. (Surah Nahl:83)***
@@ -309,12 +277,8 @@ Ali Ibne Ibrahim said that the ‘favor’ of Allah are the Holy Imams.
 
 Kulaini has related from Imam Sadiq (a.s.) regarding this verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.
 
 ***Only Allah is your Vali and His Apostle and those who believe, those
 who keep up prayers and pay the poor-rate while they bow. (Surah Maida
@@ -337,12 +301,8 @@ them are unbelievers in it.
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ
-خَيْرٌ مِمَّا يَجْمَعُونَ.
-  </p>
-</blockquote>
+> قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ
+> خَيْرٌ مِمَّا يَجْمَعُونَ.
 
 ***Say: In the grace of Allah and in His mercy… in that they should
 rejoice; it is better than that which they gather. (Surah Yunus
@@ -378,12 +338,8 @@ away from your Wilayat and he shall never be guided towards Allah that
 does not get guidance towards you in your Wilayat, and it is the
 statement of my Lord:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
-اهْتَدَى.
-  </p>
-</blockquote>
+> وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
+> اهْتَدَى.
 
 ***And most surely I am most Forgiving to him who repents and believes
 and does good…(Surah Taha 20:82)***
@@ -396,22 +352,14 @@ without your Wilayat is as if he met without anything of the world and
 religion, rather he has left the world sans faith. Indeed Allah has
 revealed this verse on me:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِنْ رَبِّكَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِنْ رَبِّكَ.
 
 ***O Apostle! Deliver what has been revealed to you from your Lord…
 (Surah Maida 5:67)***
 
 The Prophet (S) said: O Ali! It is about your Wilayat.
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ.
-  </p>
-</blockquote>
+> وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ.
 
 ***…and if you do it not, then you have not delivered His message…
 (Surah Maida 5:67)***
@@ -434,12 +382,8 @@ and silver which is accumulated by the enemies of Ali (a.s.).
 
 Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُمْ مِنْ
-الْخَاسِرِينَ.
-  </p>
-</blockquote>
+> فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُمْ مِنْ
+> الْخَاسِرِينَ.
 
 ***…so were it not for the grace of Allah and His mercy on you, you
 would certainly have been among the losers. (Surah Baqarah 2:64)***
@@ -450,11 +394,7 @@ Sadiq (a.s.) that the ‘grace’ of Allah is the Holy Prophet (S) and the
 
 Eighth verse:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَفْتَحْ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا.
-  </p>
-</blockquote>
+> مَا يَفْتَحْ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا.
 
 ***Whatever Allah grants to men of (His) mercy, there is none to
 withhold it…(Surah Fatir 35:2)***
@@ -465,13 +405,9 @@ for guidance of the people.
 
 Ninth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً وَلَكِنْ يُدْخِلُ
-مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمُونَ مَا لَهُمْ مِنْ وَلِيٍّ
-وَلَا نَصِيرٍ.
-  </p>
-</blockquote>
+> وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً وَلَكِنْ يُدْخِلُ
+> مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمُونَ مَا لَهُمْ مِنْ وَلِيٍّ
+> وَلَا نَصِيرٍ.
 
 ***And if Allah had pleased He would surely have made them a single
 community, but He makes whom He pleases enter into His mercy, and the
@@ -487,11 +423,7 @@ Wilayat of Ali Ibne Abi Talib (a.s.).
 
 Tenth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ.
-  </p>
-</blockquote>
+> وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ.
 
 ***…and Allah chooses especially whom He pleases for His mercy… (Surah
 Baqarah 2:105)***
@@ -503,23 +435,15 @@ mercy is distributed among all the creatures.
 
 Eleventh verse:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ
-عَلِيمٌ.
-  </p>
-</blockquote>
+> ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ
+> عَلِيمٌ.
 
 ***That is Allah’s grace; He grants it to whom He pleases… (Surah Juma
 62:4)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ.
-  </p>
-</blockquote>
+> وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ.
 
 ***And do not covet that by which Allah has made some of you excel
 others…(Surah Nisa 4:32)***
@@ -529,11 +453,7 @@ Bayt (a.s.).
 
 Twelfth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ.
-  </p>
-</blockquote>
+> وَلِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ.
 
 ***…and that you should exalt the greatness of Allah for His having
 guided you and that you may give thanks. (Surah Baqarah 2:185)***
@@ -543,11 +463,7 @@ the roots of religion or the Ma’refat of the Infallible Imams (a.s.).
 
 Also in the explanation of this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَرْضَى لِعِبَادِهِ الْكُفْرَ وَإِنْ تَشْكُرُوا يَرْضَهُ لَكُمْ.
-  </p>
-</blockquote>
+> وَلَا يَرْضَى لِعِبَادِهِ الْكُفْرَ وَإِنْ تَشْكُرُوا يَرْضَهُ لَكُمْ.
 
 ***...and He does not like ungratefulness in His servants; and if you
 are grateful, He likes it in you… (Surah Zumar 39:7)***
@@ -558,11 +474,7 @@ recognition (Ma’refat).
 
 Thirteenth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ.
-  </p>
-</blockquote>
+> وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ.
 
 ***And to give (it) the lie you make your means of subsistence. (Surah
 Waqiah 56:82)***
@@ -572,12 +484,8 @@ which Allah bestowed for the sake of Muhammad and Aale Muhammad. And
 with it a condition has been stipulated for you. You give thanks but
 falsify his Vicegerent, Ali Ibne Abi Talib (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَا إِذَا بَلَغَتْ الْحُلْقُومَ. وَأَنْتُمْ حِينَئِذٍ
-تَنظُرُونَ.
-  </p>
-</blockquote>
+> فَلَوْلَا إِذَا بَلَغَتْ الْحُلْقُومَ. وَأَنْتُمْ حِينَئِذٍ
+> تَنظُرُونَ.
 
 ***Why is it not then that when it (soul) comes up to the throat. And
 you at that time look on… (Surah Waqiah 56:83-84)***
@@ -587,11 +495,7 @@ the Vicegerent of the Prophet, Ali Ibne Abi Talib (a.s.), who gives good
 tidings of Paradise to his friends and the bad news of Hell to his
 enemies.
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَكِنْ لَا تُبْصِرُونَ.
-  </p>
-</blockquote>
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَكِنْ لَا تُبْصِرُونَ.
 
 ***And We are nearer to it than you… (Surah Waqiah 56:85)***
 
@@ -606,5 +510,4 @@ nations, actually it is a warning to this nation. That is why in this
 nation it refers to the Wilayat of Ahlul Bayt (a.s.). It has come in
 many traditions that it was the duty of all the nations to accept the
 Wilayat of the Holy Prophet (S) and his Progeny.
-
 

@@ -69,7 +69,6 @@ In the event that the magician is performing haram acts, then it is
 also haram to give him money, and if he is not performing haram acts,
 then it is not haram (to give him money). S
 
-
 264 – Rule: It is haram to invite music performers to perform,
 regardless whether it is a gathering for women or men. ABGKLMST
 
@@ -135,7 +134,6 @@ her husband)?
 Answer: It is haram for the wife to leave the house without the
 permission of her husband and it does not matter if the woman’s father
 has given her permission. G
-
 
 **Rules Relating to the Preparation of Things for the Wedding
 Ceremony**
@@ -343,7 +341,6 @@ something that contradicts the speech of those who have knowledge
 regards to a type of music such that the person doubts whether it is
 entertaining music or not, then in this case, listening to it, according
 to, Ihtiyat Wajib, is not permitted. T
-
 
 292 – Question: What is the meaning of entertaining music?
 
@@ -668,5 +665,4 @@ Women and young girls must not read the Qur’an while in the presence of
 non-Mahram men. Also, if a man recites (the Qur’an) with a pleasing
 voice and it causes the women to become excited, this (too) is a
 problem. G
-
 

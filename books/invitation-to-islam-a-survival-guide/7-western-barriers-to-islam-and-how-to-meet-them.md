@@ -469,4 +469,3 @@ and arts would be irresistible. The best strategy in dealing with
 secularized Westerners is to develop these areas in one’s personal life
 and aggressively share them.
 
-

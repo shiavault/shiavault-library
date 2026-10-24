@@ -128,4 +128,3 @@ states, brings our senses face to face with reality: ‘I mean using
 expressions thatrepresent things as in a state of activity (*ósa
 energoûnta semaínei* )[^36] .
 
-

@@ -55,4 +55,3 @@ Hence, the departure day of the Hussain convoy from Sham was on the
 twentieth of the month of Safar, accordingly they have stayed in Sham
 for twenty days.
 
-

@@ -454,4 +454,3 @@ intentionally he had no right to take revenge, but the act could be
 compensated by payment of 'diya' money (prescribed compensation). In
 spite of this the Prophet decided to meet his demand.  
 
-

@@ -7,31 +7,19 @@ Vain Desire
 capture you they will take you into the farthest depths of destruction.
 
 > 1ـ اِغْلِبُوا أهْوائَـكُمْ، وهارِبُوها، فَإنَّها إنْ تُقَيِّدْكُمْ
-<blockquote dir="rtl">
-  <p>
-تُورِدْكُمْ مِنَ الهَلَكَةِ أبْعَدَ غايَة.
-  </p>
-</blockquote>
+> تُورِدْكُمْ مِنَ الهَلَكَةِ أبْعَدَ غايَة.
 
 2. Beware of allowing vain desire to gain control over you for indeed
 its beginning is temptation and its end is tribulation.
 
 > 2ـ إيّاكُمْ وتَمَكُّنَ الهَوى مِنْكُمْ، فَإنَّ أوَّلَهُ فِتْنَةٌ،
-<blockquote dir="rtl">
-  <p>
-وآخِرَهُ مِحْنَةٌ.
-  </p>
-</blockquote>
+> وآخِرَهُ مِحْنَةٌ.
 
 3. Indeed, the thing I fear most for you is [the result of your]
 following vain desires and having lengthy aspirations.
 
 > 3ـ اَلا وإنَّ أخْوَفَ ما أخافُ عَلَيْكُمْ اِتِّباعُ الهَوى، وطُولُ
-<blockquote dir="rtl">
-  <p>
-الأمَلِ.
-  </p>
-</blockquote>
+> الأمَلِ.
 
 4. Vain desire destroys.
 
@@ -57,21 +45,13 @@ following vain desires and having lengthy aspirations.
 blind, ruin your place of [final] return and destroy you.
 
 > 9ـ إنَّكَ إنْ أطَعْتَ هَواكَ أصَمَّكَ وأعْماكَ وأفْسَدَ مُنْقَلَبَكَ
-<blockquote dir="rtl">
-  <p>
-وَأرْداكَ.
-  </p>
-</blockquote>
+> وَأرْداكَ.
 
 10. Verily if you allow vain desire rule over you, it will deafen you,
 blind you and destroy you.
 
 > 10ـ إنَّكُمْ إنْ أمَّرْتُمْ عَلَيْكُمُ الهَوى أصَمَّكُمْ، وأعْماكُمْ،
-<blockquote dir="rtl">
-  <p>
-وَأرْداكُمْ.
-  </p>
-</blockquote>
+> وَأرْداكُمْ.
 
 11. The bane of the intellect is vain desire.
 
@@ -81,11 +61,7 @@ blind you and destroy you.
 destruction.
 
 > 12ـ إذا غَلَبَتْ عَلَيْكُمْ أهْوائُـكُمْ أوْرَدَتْكُمْ مَوارِدَ
-<blockquote dir="rtl">
-  <p>
-الهَلَكَةِ.
-  </p>
-</blockquote>
+> الهَلَكَةِ.
 
 13. Oppose vain desire and you will be safe; turn away from this world
 and you will benefit.
@@ -96,11 +72,7 @@ and you will benefit.
 breaks loose from the entanglements of this world.
 
 > 14ـ رَحِمَ اللّهُ امْرَءاً غالَبَ الهَوى وأفْلَتَ مِنْ حَبائِلِ
-<blockquote dir="rtl">
-  <p>
-الدُّنْيا.
-  </p>
-</blockquote>
+> الدُّنْيا.
 
 15. The cornerstone of religion is opposing vain desire.
 
@@ -131,11 +103,7 @@ ones.
 rejects his [false] aspiration, hits the target and acquires recompense.
 
 > 21ـ طُوبى لِمَنْ كابَدَ هَواهُ، وكَذَّبَ مُناهُ، وَرَمى غَرَضاً،
-<blockquote dir="rtl">
-  <p>
-وأحْرَزَ عِوَضاً.
-  </p>
-</blockquote>
+> وأحْرَزَ عِوَضاً.
 
 22. Yielding to vain desire corrupts the intellect.
 
@@ -167,11 +135,7 @@ and battle it the way an enemy would battle his enemy, [if successful]
 you may gain mastery over it.
 
 > 28ـ غالِبِ الهَوى مُغالَبَةَ الخَصْمِ خَصْمَهُ، وحارِبْهُ مُحارَبَةَ
-<blockquote dir="rtl">
-  <p>
-العَدُوِّ عَدُوَّهُ لَعَلَّكَ تَمْلِكْهُ.
-  </p>
-</blockquote>
+> العَدُوِّ عَدُوَّهُ لَعَلَّكَ تَمْلِكْهُ.
 
 29. In succumbing to vain desire there is every [form of] deviation.
 
@@ -298,11 +262,7 @@ humiliates him and misguides him.
 and wrongdoing, and deviates and turns away from the clear open path.
 
 > 56ـ مَنْ نَظَرَ بِعَيْنِ هَواهُ اِفْتَتَنَ وجارَ، وعَنْ نَهْجِ
-<blockquote dir="rtl">
-  <p>
-السَّبيلِ زاغَ وَحارَ.
-  </p>
-</blockquote>
+> السَّبيلِ زاغَ وَحارَ.
 
 57. Nothing opposes reason like vain desire.
 
@@ -338,21 +298,13 @@ and exerting a lot of efforts for his worldly life.[^1]
 Satan towards the path of blindness.
 
 > 64ـ هَلَكَ مَنْ أضَلَّهُ الهَوى، واسْتَقادَهُ الشَّيْطانُ إلى سَبيلِ
-<blockquote dir="rtl">
-  <p>
-العَمى.
-  </p>
-</blockquote>
+> العَمى.
 
 65. Your vain desire is a greater enemy towards you than all [other]
 enemies, so overpower it otherwise it will destroy you.
 
 > 65ـ هَواكَ أعْدى عَلَيْكَ مِنْ كُلِّ عَدُوّ فَأغْلِبْهُ وإلاّ
-<blockquote dir="rtl">
-  <p>
-أهْلَكَكَ.
-  </p>
-</blockquote>
+> أهْلَكَكَ.
 
 66. Never let your vain desire relegate your knowledge.
 
@@ -368,11 +320,7 @@ do not follow your vain desires, for indeed the one who alights at this
 stop is on the brink of a collapsing bank.
 
 > 68ـ لاتَرْكَنُوا إلى جُهّالِكُمْ (جِهالَتِكُمْ) ولاتَنْقادُوا
-<blockquote dir="rtl">
-  <p>
-لأهْوائِكُمْ، فَإنَّ النّازِلَ بِهذا المَنْزِلِ عَلى شَفا جُرُف هار.
-  </p>
-</blockquote>
+> لأهْوائِكُمْ، فَإنَّ النّازِلَ بِهذا المَنْزِلِ عَلى شَفا جُرُف هار.
 
 69. Vain desire is the greater of the two enemies.
 
@@ -392,22 +340,14 @@ away] from those things that are forbidden for you, for indeed being
 stingy with oneself is the essence of honour.
 
 > 72ـ اِمْلِكْ عَلَيْكَ هَواكَ، وشُحَّ بِنَفْسِكَ عَمّا لايَحِلُّ لَكَ
-<blockquote dir="rtl">
-  <p>
-فَإنَّ الشُّحَّ بِالنَّفْسِ حَقيقَةُ الكَرَمِ.
-  </p>
-</blockquote>
+> فَإنَّ الشُّحَّ بِالنَّفْسِ حَقيقَةُ الكَرَمِ.
 
 73. Be cautious of the vain desire that pulls the souls down, dropping
 them [to the lowest levels], and causes them to become more distanced
 from [the place of] success [and prosperity].
 
 > 73ـ اِحْذَرُوا هَوىً، هَوى بِالأَنْفُسِ هُوِيّاً، وأبْعَدَها عَنْهُ
-<blockquote dir="rtl">
-  <p>
-قَرارَةَ الفَوْزِ قَصِيّاً.
-  </p>
-</blockquote>
+> قَرارَةَ الفَوْزِ قَصِيّاً.
 
 74. The smallest vain desire can corrupt the intellect.
 
@@ -482,5 +422,4 @@ tribulation.
 
 [^1]: Taken from Khutba no. 83 of Nahj al-Balāgha where the human being
 and his life on this earth is beautifully described.
-
 

@@ -91,4 +91,3 @@ i
 | (as)  | Peace be upon him - Used for noble personalities [Masculine]       |
 | (as)  | Peace be upon her - Used for noble personalities [Feminine]        |
 
-

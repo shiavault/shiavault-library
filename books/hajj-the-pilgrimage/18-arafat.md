@@ -230,4 +230,3 @@ In any case, you are entitled to spend this day as you wish. What you
 are requested to do is only to stop and then leave the plain (Arafat) at
 sunset!
 
-

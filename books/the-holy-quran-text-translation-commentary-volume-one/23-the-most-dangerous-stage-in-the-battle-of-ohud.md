@@ -426,10 +426,8 @@ SHOULD DIE OR BE SLAIN, WILL YOU THEN TURN BACK ON YOUR HEELS (RECANT)?
 AND IF ANY ONE SHOULD (RECANT AND) TURN ABOUT ON HIS HEELS, HE WILL NOT
 HARM ALLAH THE LEAST, AND SOON WILL ALLAH REWARD THE THANKS GIVERS.
 
-<p dir="rtl">
 وَمَا كَانَ لِنَفْس أَن تَمُوتَ إِلاَّ بِإِذْنِ اللهِ كِتَـاباً
 مُّؤَجّلاً وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ
-</p>
 
 مِنْهَا وَمَن يُرِدْ ثَوَابَ الاَْخِرَةِ نُؤْتِهِ مِنْهَا وَسَنَجْزِي
 الشَّـاكِرِينَ(( 145 ))
@@ -464,5 +462,4 @@ NASEEBEH, a water carrier woman stayed at his side and fought bravely.
 This verse is to reproach and admonish those multitude, and majority who
 wavered and ran away, leaving the prophet alone in the battle-field for
 the enemy!
-
 

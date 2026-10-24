@@ -405,4 +405,3 @@ al-Sunan 1/270.
 [^10]: Ibn Husham’s al-Sirah 1/424, al-Rawd al-Anif 1/264, Bahjat al-
 Mahafil 1/128, Zayni Dahlan’s 1/302 and al-Sirah al-Halabiyyah; 2/3.
 
-

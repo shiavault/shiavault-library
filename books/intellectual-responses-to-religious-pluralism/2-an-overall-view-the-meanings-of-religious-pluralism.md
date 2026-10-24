@@ -143,4 +143,3 @@ seeking of understanding across lines of difference.  It means holding
 those deepest differences, even our religious ones, not in isolation,
 but in dialogue and a relationship with one another.
 
-

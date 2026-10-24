@@ -4,11 +4,7 @@ The Second Characteristic of a Fironic System
 The second characteristic of the Fironic system as expressed by the Holy
 Quran is
 
-<blockquote dir="rtl">
-  <p>
-يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ
-  </p>
-</blockquote>
+> يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ
 
 ***“... killing your children and sparing your women" (Surah al-Baqarah,
 2: 49)***
@@ -48,5 +44,4 @@ alive for making them immodest, hence spreading corruption and nudity in
 the society. The Quran said this is the Fironic system which was
 assassinating your children and stripping your women, and we relieved
 you from this system, how?
-
 

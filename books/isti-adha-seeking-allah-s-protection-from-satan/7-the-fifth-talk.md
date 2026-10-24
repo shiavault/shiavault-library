@@ -1,20 +1,12 @@
 The Fifth Talk
 ==============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -58,12 +50,8 @@ Satan runs away from the men of piety
 The examples of aspects of *Isti’adha* are briefly explained from the
 Holy Qur’an.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -85,13 +73,9 @@ Need for trust on Allah (S.w.T.)
 
 Allah (S.w.T.) says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
-الرَّجِيمِ إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ
-وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
+> الرَّجِيمِ إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ
+> وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***So when you recite the Qur’an, seek refuge with Allah from the
 accursed Shaitan, Surely he has no authority over those who believe and
@@ -108,12 +92,8 @@ then all his pleadings for protection will be of no avail. According to
 the verse quoted above, Satan would gain ascendance over him. In the
 later verse of the Qur’an there is a reference towards this aspect:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم
-بِهِ مُشْرِكُونَ
-  </p>
-</blockquote>
+> إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم
+> بِهِ مُشْرِكُونَ
 
 ***Verily, his authority is only over those who befriend him and those
 who associate others with Him. (Sura an-Nahl, 16:100)***
@@ -128,17 +108,9 @@ Satan has nothing to do with the sincere people
 Another important aspect of *Isti’adha* is sincerity. This saying of
 Satan is recorded in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ
 
 ***He said: Then by Thy Might I will surely make them live an evil life,
 all, Except Thy servants from among them, the purified ones. (Sura Sad,
@@ -197,12 +169,8 @@ absolute facts.
 Therefore, about the sacrifices that we make in the way of Allah
 (S.w.T.), the Holy Book categorically says:
 
-<blockquote dir="rtl">
-  <p>
-لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِن يَنَالُهُ
-التَّقْوَى
-  </p>
-</blockquote>
+> لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِن يَنَالُهُ
+> التَّقْوَى
 
 ***There does not reach Allah their flesh nor their blood, but to Him is
 acceptable the guarding (against evil, Taqwa) on your part... (Sura
@@ -210,7 +178,6 @@ al-Hajj, 22:37)***
 
 Until the last vestiges of Haram are not removed Isti’adha is not possible
 --------------------------------------------------------------------------
-
 
 As long as even one morsel of *Haram* food is in the body of a person,
 he is himself like Satan. Beating drums seeking protection from Satan is
@@ -224,13 +191,9 @@ seed to ensure the health and sturdiness of the tree.
 
 Allah (S.w.T.) says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ كُلُواْ مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
-وَلاَ تَتَّبِعُواْ خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
-مُّبِينٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ كُلُواْ مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
+> وَلاَ تَتَّبِعُواْ خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
+> مُّبِينٌ
 
 ***O men! Eat the lawful and good things out of what is in the earth,
 and do not follow the footsteps of the Shaitan; surely he is your open
@@ -244,5 +207,4 @@ abstain from eating it. Avoid using *Haram* food and clothes. The use of
 these will have such deleterious effect on the person that he becomes
 the victim of fears and doubts.
 ** **
-
 

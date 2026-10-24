@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ لا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا
-اللَّهَ عَدْواً
-  </p>
-</blockquote>
+> وَ لا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا
+> اللَّهَ عَدْواً
 
 ***“And do not abuse those whom they call upon besides Allah, lest
 exceeding the limits they should abuse Allah”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إن الله لا يحب الفحش و التفحش
-  </p>
-</blockquote>
+> إن الله لا يحب الفحش و التفحش
 
 ***“Surely, Allah does not like obscene language and abusiveness”***[^2]
 
@@ -223,5 +215,4 @@ flames and killed.[^8]
 [^7]: Muntahal Aa’maal, vol. 2, pg. 127; Miskaah al-Anwaar.
 
 [^8]: Dunyaa-e-Jawaan, pg. 64; Jawaan, vol. 2, pg. 21.
-
 

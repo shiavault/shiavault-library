@@ -586,4 +586,3 @@ deviated from the path of truth and are advancing toward perdition; and
 those who have bought themselves, who have chosen the path of salvation
 and liberated themselves.” (*Nahj al-Balagha*, section 133)
 
-

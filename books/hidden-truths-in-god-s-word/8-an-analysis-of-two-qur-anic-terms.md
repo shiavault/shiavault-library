@@ -4,11 +4,7 @@ An Analysis of Two Qur’anic Terms
 > 1)      وَأَنجَيْنَا مُوسَى وَمَن مَّعَهُ أَجْمَعِينَ {o} ثُمَّ
 > أَغْرَقْنَا الْآخَرِينَ {o} إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ
 > أَكْثَرُهُم مُّؤْمِنِينَ {o} وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ
-<blockquote dir="rtl">
-  <p>
-الرَّحِيمُ
-  </p>
-</blockquote>
+> الرَّحِيمُ
 
 ***And We saved Musa and those with him, all of them. Then We drowned
 the others. Most surely there is a sign in this, but most of them do not
@@ -22,11 +18,7 @@ believe. And most surely your Lord is the Mighty, the Merciful.
 > فَأَنجَيْنَاهُ وَمَن مَّعَهُ فِي الْفُلْكِ الْمَشْحُونِ {o} ثُمَّ
 > أَغْرَقْنَا بَعْدُ الْبَاقِينَ {o} إِنَّ فِي ذَلِكَ لَآيَةً وَمَا
 > كَانَ أَكْثَرُهُم مُّؤْمِنِينَ {o} وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ
-<blockquote dir="rtl">
-  <p>
-الرَّحِيمُ
-  </p>
-</blockquote>
+> الرَّحِيمُ
 
 ***So We delivered him and those with him in the laden ark. Then We
 drowned the rest afterwards. Most surely there is a sign in this, but
@@ -39,11 +31,7 @@ the Merciful. (al-Shu’ara’, 26/119-122)***
 
 > فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ
 > أَكْثَرُهُم مُّؤْمِنِينَ {o} وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ
-<blockquote dir="rtl">
-  <p>
-الرَّحِيمُ
-  </p>
-</blockquote>
+> الرَّحِيمُ
 
 ***So they gave him the lie, then We destroyed them. Most surely there
 is a sign in this, but most of them do not believe. And most surely your
@@ -55,11 +43,7 @@ Lord is the Mighty, the Merciful. (al-Shu‘ara’, 26/139-140)***
 
 > فَأَخَذَهُمُ الْعَذَابُ إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ
 > أَكْثَرُهُم مُّؤْمِنِينَ {o} وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ
-<blockquote dir="rtl">
-  <p>
-الرَّحِيمُ
-  </p>
-</blockquote>
+> الرَّحِيمُ
 
 ***So the punishment overtook them. Most surely there is a sign in this,
 but most of them do not believe. And most surely your Lord is the
@@ -72,11 +56,7 @@ Mighty, the Merciful. (al-Shu‘ara’, 26/158-159)***
 
 > وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَاء مَطَرُ الْمُنذَرِينَ {o} إِنَّ
 > فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ {o} وَإِنَّ
-<blockquote dir="rtl">
-  <p>
-رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***And We rained down upon them a rain, and evil was the rain on those
 warned. Most surely there is a sign in this, but most of them do not
@@ -91,11 +71,7 @@ believe. And most surely your Lord is the Mighty, the Merciful.
 > فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ
 > عَذَابَ يَوْمٍ عَظِيمٍ {o} إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ
 > أَكْثَرُهُم مُّؤْمِنِينَ {o} وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ
-<blockquote dir="rtl">
-  <p>
-الرَّحِيمُ
-  </p>
-</blockquote>
+> الرَّحِيمُ
 
 ***But they called him a liar, so the punishment of the day of covering
 overtook them; surely it was the punishment of a grievous day. Most
@@ -354,11 +330,7 @@ carrying out his mission, if he had to face frustration, defeat and even
 torture, he should resolutely see his mission through and stay in place.
 The Qur’an states that other Prophets had this steadfastness:
 
-<blockquote dir="rtl">
-  <p>
-وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ كُلٌّ مِّنَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ كُلٌّ مِّنَ الصَّابِرِينَ
 
 ***And Ismail and Idris and Zulkifl; all were of the patient ones [when
 delivering their messages]. (al-Anbiya’, 21/85)***
@@ -507,15 +479,10 @@ one way to understand this is to ponder over His repeated emphasis in
 all the foregoing verses, of these two of His great attributes. We thus
 realise that true Power and Mercy belongs to God alone. Indeed,
 
-<blockquote dir="rtl">
-  <p>
- وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+>  وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***And most surely your Lord is the Mighty, the Merciful. (al-Shu‘ara’,
 26/68)***
 
 [^1]: Nahj al-Balagha, sermon 160
-
 

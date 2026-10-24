@@ -194,4 +194,3 @@ through a rational examination of the relation between the assumption
 and the sorts of religious experiences that are important to Christian
 life.
 
-

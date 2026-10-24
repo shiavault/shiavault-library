@@ -20,4 +20,3 @@ the rights of others] and forgiving the offences [of others].
 
 > 4ـ ما أدْرَكَ المَجْدَ مَنْ فاتَهُ الجِدُّ.
 
-

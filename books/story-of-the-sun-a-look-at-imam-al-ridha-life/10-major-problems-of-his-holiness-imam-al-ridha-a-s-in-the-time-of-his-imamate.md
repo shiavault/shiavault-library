@@ -447,4 +447,3 @@ successor.
 
 [^23]: Bihar al-Anwar, nol. 49, p. 136.
 
-

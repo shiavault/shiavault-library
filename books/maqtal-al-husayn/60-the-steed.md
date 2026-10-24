@@ -94,4 +94,3 @@ Mahdi Bahr al-’Ulum.
 [^7]: These verses were composed by Abu Thib Shaikh Yousuf al-Qatifi who
 died in 1200 A.H./1786 A.D.
 
-

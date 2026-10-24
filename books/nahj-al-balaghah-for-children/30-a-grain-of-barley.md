@@ -21,4 +21,3 @@ I would not do it.
 
 (Sermon 224)
 
-

@@ -43,4 +43,3 @@ that he will take more back, but the person who had taken the loan
 himself gives more back, then this is no problem, rather, this is
 Mustahab.
 
-

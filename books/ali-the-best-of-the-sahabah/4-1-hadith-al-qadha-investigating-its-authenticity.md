@@ -3,14 +3,10 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-و إما قوله قال رسول الله صلى الله عليه و سلم لاقضاكم علي والقضاء
-يستلزم العلم و الدين فهذا الحديث لم يثبت و ليس له إسناد تقوم به الحجة
-... لم يروه أحد في السنن المشهورة و لا المساند المعروفة لا بإسناد صحيح
-و لا ضعيف و إنما يروي من طريق من هو معروف بالكذب
-  </p>
-</blockquote>
+> و إما قوله قال رسول الله صلى الله عليه و سلم لاقضاكم علي والقضاء
+> يستلزم العلم و الدين فهذا الحديث لم يثبت و ليس له إسناد تقوم به الحجة
+> ... لم يروه أحد في السنن المشهورة و لا المساند المعروفة لا بإسناد صحيح
+> و لا ضعيف و إنما يروي من طريق من هو معروف بالكذب
 
 As for his statement, “The Messenger of Allah, peace be upon him, said:
 ‘**The best judge among you is ‘Ali**’”, and justice dispensation
@@ -23,14 +19,10 @@ only narrated through the route of notorious liars**.[^1]
 
 Meanwhile, Imam Ibn Majah (d. 273 H) records in his *Sunan*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن المثنى ثنا عبد الوهاب بن عبد المجيد ثنا خالد الحذاء، عن
-أبي قلابة، عن أنس بن مالك، أن رسول الله صلى الله عليه وسلم قال :أرحم
-أمتي بأمتي أبو بكر وأشدهم في دين الله عمر وأصدقهم حياء عثمان وأقضاهم
-علي بن أبي طالب.
-  </p>
-</blockquote>
+> حدثنا محمد بن المثنى ثنا عبد الوهاب بن عبد المجيد ثنا خالد الحذاء، عن
+> أبي قلابة، عن أنس بن مالك، أن رسول الله صلى الله عليه وسلم قال :أرحم
+> أمتي بأمتي أبو بكر وأشدهم في دين الله عمر وأصدقهم حياء عثمان وأقضاهم
+> علي بن أبي طالب.
 
 Muhammad b. al-Muthanna – ‘Abd al-Wahhab b. ‘Abd al-Majid – Khalid
 al-Haza – Abi Qilabah – Anas b. Malik:
@@ -51,23 +43,15 @@ The first narrator, Muhammad b. al-Muthanna is *thiqah* (trustworthy)
 without absolutely any doubt. Al-Hafiz (d. 852 H) for instance says
 about him:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن المثنى بن عبيد العنزي بفتح النون والزاي أبو موسى البصري ….ثقة
-ثبت
-  </p>
-</blockquote>
+> محمد بن المثنى بن عبيد العنزي بفتح النون والزاي أبو موسى البصري ….ثقة
+> ثبت
 
 Muhammad b. al-Muthanna b. ‘Ubayd al-‘Unaza, Abu Musa al-Basri....
 ***Thiqah*** **(trustworthy),** ***thabt*** **(accurate)**.[^3]
 
 Elsewhere, he adds about him:
 
-<blockquote dir="rtl">
-  <p>
-روى عنه) خ (مائة حديث وثلاثة أحاديث ومسلم سبعمائة واثنتين وسبعين حديثا
-  </p>
-</blockquote>
+> روى عنه) خ (مائة حديث وثلاثة أحاديث ومسلم سبعمائة واثنتين وسبعين حديثا
 
 Al-Bukhari narrated 103 *ahadith* from him (in his *Sahih*), and Muslim
 also narrated 772 *ahadith* (from him in his *Sahih*).[^4]
@@ -76,12 +60,8 @@ Apparently, he was a super-weight in Sunni *ahadith*.
 
 Al-Hafiz also says about the second narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الوهاب بن عبد المجيد بن الصلت الثقفي أبو محمد البصري ثقة تغير قبل
-موته بثلاث سنين
-  </p>
-</blockquote>
+> عبد الوهاب بن عبد المجيد بن الصلت الثقفي أبو محمد البصري ثقة تغير قبل
+> موته بثلاث سنين
 
 ‘Abd al-Wahhab b. ‘Abd al-Majid b. al-Salt al-Thaqafi, Abu Muhammad
 al-Basri: ***Thiqah*** **(trustworthy)**. He changed (i.e. his memory
@@ -89,11 +69,7 @@ weakened) 3 years before his death.[^5]
 
 In his *Lisan*, he gives further, crucial information about him:
 
-<blockquote dir="rtl">
-  <p>
-لكنه ما ضر تغيره حديثه فإنه ما حدث بحديث في زمن التغير
-  </p>
-</blockquote>
+> لكنه ما ضر تغيره حديثه فإنه ما حدث بحديث في زمن التغير
 
 But, his change (in memory) does not harm his *ahadith*, for he never
 narrated a single *hadith* during the period of the change.[^6]
@@ -101,13 +77,9 @@ narrated a single *hadith* during the period of the change.[^6]
 So, what about the remaining narrators? Shaykh al-Arnauṭ saves us a lot
 of time with this *tahqiq*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عفان ثنا وهيب ثنا خالد الحذاء عن أبي
-قلابة عن أنس بن مالك عن النبي صلى الله عليه و سلم .... إسناده صحيح على
-شرط الشيخين
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عفان ثنا وهيب ثنا خالد الحذاء عن أبي
+> قلابة عن أنس بن مالك عن النبي صلى الله عليه و سلم .... إسناده صحيح على
+> شرط الشيخين
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Affan – Wuhayb –
 **Khalid al-Haza** – **Abu Qilabah** – **Anas b. Malik** – the Prophet,
@@ -124,13 +96,9 @@ like the others too in this regard. The ‘Allamah writes:
 
 > أخرجه الترمذي (2 / 309) وابن ماجه (154) وابن حبان (2218) و (2219)
 > والحاكم (3 / 422) من طريق عبد الوهاب بن عبد المجيد الثقفي حدثنا خالد
-<blockquote dir="rtl">
-  <p>
-الحذاء عن أبي قلابة عن أنس قال: قال رسول الله صلى الله عليه وسلم:
-فذكره، وقال الترمذي: " حديث حسن صحيح ". وقال الحاكم: " هذا إسناد صحيح
-على شرط الشيخين ". ووافقه الذهبي وهو كما قالا.
-  </p>
-</blockquote>
+> الحذاء عن أبي قلابة عن أنس قال: قال رسول الله صلى الله عليه وسلم:
+> فذكره، وقال الترمذي: " حديث حسن صحيح ". وقال الحاكم: " هذا إسناد صحيح
+> على شرط الشيخين ". ووافقه الذهبي وهو كما قالا.
 
 Al-Tirmidhi (2/309), Ibn Majah (154), Ibn Hibban (2218) and al-Hakim
 (3/422) narrated it through the route of **‘ABD AL-WAHHAB B. ‘ABD
@@ -151,14 +119,10 @@ notorious liars is itself a sickening rape of the truth!
 There is equally a *mutaba’ah* for Muhammad b. al-Muthanna copied by
 Imam al-Haythami (d. 807 H):
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أحمد بن مكرم بن خالد البرتي، حدثنا علي بن المديني، حدثنا عبد
-الوهاب الثقفي، حدثنا خالد الحذاء، عن أبي قلابة عن أنس بن مالك قال: قال
-رسول الله - صلى الله عليه وسلم :ارحم أمتي بأمتي أبو بكر، وأشدهم في أمر
-الله عمر، وأصدقهم حياء عثمان، وأقضاهم علي
-  </p>
-</blockquote>
+> أخبرنا أحمد بن مكرم بن خالد البرتي، حدثنا علي بن المديني، حدثنا عبد
+> الوهاب الثقفي، حدثنا خالد الحذاء، عن أبي قلابة عن أنس بن مالك قال: قال
+> رسول الله - صلى الله عليه وسلم :ارحم أمتي بأمتي أبو بكر، وأشدهم في أمر
+> الله عمر، وأصدقهم حياء عثمان، وأقضاهم علي
 
 **Ahmad b. Makram b. Khalid al-Birti** – **‘Ali b. al-Madini** – ‘Abd
 al-Wahhab al-Thaqafi – Khalid al-Haza – Abu Qilabah – Anas b. Malik:
@@ -174,13 +138,9 @@ only have to find out the status of the first two narrators. Once again,
 Shaykh al-Arnauṭ saves us time. Imam Ibn Hibban (d. 354 H) records this
 chain in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أحمد بن مكرم بن خالد البرتي قال حدثنا علي بن المديني قال حدثنا
-معن بن عيسى قال حدثنا مالك بن أنس عن صفوان بن سليم عن عطاء بن يسار عن
-أبي سعيد الخدري
-  </p>
-</blockquote>
+> أخبرنا أحمد بن مكرم بن خالد البرتي قال حدثنا علي بن المديني قال حدثنا
+> معن بن عيسى قال حدثنا مالك بن أنس عن صفوان بن سليم عن عطاء بن يسار عن
+> أبي سعيد الخدري
 
 **Ahmad b. Makram b. Khalid al-Birti** –**‘Ali b. al-Madini** – Ma’n b.
 ‘Isa – Malik b. Anas – Safwan b. Sulaym – ‘Aṭa b. Yasar – Abu Sa’id
@@ -188,12 +148,8 @@ al-Khudri[^10]
 
 Al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط البخاري رجاله ثقات رجال الصحيح غير علي بن المديني
-فمن رجال البخاري
-  </p>
-</blockquote>
+> إسناده صحيح على شرط البخاري رجاله ثقات رجال الصحيح غير علي بن المديني
+> فمن رجال البخاري
 
 **Its chain is** ***sahih*** **upon the standard of al-Bukhari. Its
 narrators are** ***thiqah*** **(trustworthy)**, narrators of the
@@ -208,13 +164,9 @@ well, upon the standard of *Sahih al-Bukhari*!
 The *hadith* has equally been transmitted from other Sahabah, apart from
 Anas. Imam al-Haythami for instance records:
 
-<blockquote dir="rtl">
-  <p>
-عن جابر بن عبد الله الأنصاري قال : قال رسول الله صلى الله عليه و سلم :
-أرحم أمتي بأمتي أبو بكر وأرفق أمتي لأمتي عمر وأصدق أمتي حياء عثمان
-وأقضى أمتي علي بن أبي طالب
-  </p>
-</blockquote>
+> عن جابر بن عبد الله الأنصاري قال : قال رسول الله صلى الله عليه و سلم :
+> أرحم أمتي بأمتي أبو بكر وأرفق أمتي لأمتي عمر وأصدق أمتي حياء عثمان
+> وأقضى أمتي علي بن أبي طالب
 
 Narrated **Jabir b. ‘Abd Allah al-Ansari**:
 
@@ -225,11 +177,7 @@ judge of my** ***Ummah*** **is ‘Ali b. Abi Talib**”.[^12]
 
 He comments:
 
-<blockquote dir="rtl">
-  <p>
-رواه الطبراني في الأوسط وإسناده حسن
-  </p>
-</blockquote>
+> رواه الطبراني في الأوسط وإسناده حسن
 
 Al-Tabarani narrated it in *al-Awsaṭ*, **and its chain is**
 ***hasan***.[^13]
@@ -252,12 +200,8 @@ It has gone missing in the same *al-Awsat* after the time of al-Haytami.
 Finally, ‘Allamah al-Albani has copied *Hadith al-Qadha* from yet
 another Sahabi, namely Ibn ‘Umar:
 
-<blockquote dir="rtl">
-  <p>
-أرأف أمتي بأمتي أبو بكر وأشدهم في دين الله عمر وأصدقهم حياء عثمان
-وأقضاهم علي
-  </p>
-</blockquote>
+> أرأف أمتي بأمتي أبو بكر وأشدهم في دين الله عمر وأصدقهم حياء عثمان
+> وأقضاهم علي
 
 The most compassionate of my *Ummah* to my *Ummah* is Abu Bakr, and the
 most severe of them in the religion of Allah is ‘Umar. The most shy of
@@ -265,11 +209,7 @@ them is ‘Uthman **and the best judge among them is ‘Ali**.[^15]
 
 The ‘Allamah says:
 
-<blockquote dir="rtl">
-  <p>
-(صحيح) ... [ع] عن ابن عمر.
-  </p>
-</blockquote>
+> (صحيح) ... [ع] عن ابن عمر.
 
 ***Sahih*** ... (Narrated) by **Ibn ‘Umar**[^16]
 
@@ -333,5 +273,4 @@ b. Ādam al-Ashqudri al-Albani, Ṣahih al-Jami’ al-Ṣaghir wa Ziyadatuhu
 (Al-Maktab al-Islami), vol. 1, p. 211, \# 868
 
 [^16]: Ibid
-
 

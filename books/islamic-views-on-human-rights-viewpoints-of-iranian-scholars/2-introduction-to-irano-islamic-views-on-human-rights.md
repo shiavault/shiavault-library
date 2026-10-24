@@ -589,4 +589,3 @@ yourselves to Adam”.
 
 [^17]: Nahj al-Balaghah
 
-

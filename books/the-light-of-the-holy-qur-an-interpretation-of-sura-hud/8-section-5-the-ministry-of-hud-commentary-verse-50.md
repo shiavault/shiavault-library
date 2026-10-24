@@ -49,7 +49,6 @@ they have been sources of good or evil. They were of no use. No false
 accusation could have been more humiliating than considering such
 worthless things as significant!
 
-
 **Commentary : Verse 51**
 
 (51) يا قَوْمِ لا أَسْئَلُكُمْ عَلَيْهِ أَجْراً إِنْ أَجْرِيَ إِلاَّ
@@ -77,7 +76,6 @@ everything; that is my Creator and it is He Who provides for my needs.
 In principle, if I take any steps in the direction of your guidance and
 happiness, it is for the sake of being obedient to His commandments and
 therefore I expect Him to provide me with my sustenance, not you.
-
 
 **Commentary : Verse 52**
 
@@ -147,7 +145,6 @@ expanding the spiritual state of its society.
 At any rate, turning away from the prophets and neglecting them is a
 grave sin.
 
-
 **Commentary : Verse 53**
 
 (53) قالُوا يا هُودُ ما جِئْتَنا بِبَيِّنَةٍ وَ ما نَحْنُ بِتارِكي‏
@@ -173,7 +170,6 @@ not abandon our gods for your word, nor are we believers in you! '"
 The prophets met with fierce resistance from the idol worshippers in
 the first stage of their call, but they never neglected their duty in
 propagating Allah's message.
-
 
 **Commentary : Verse 54**
 
@@ -203,5 +199,4 @@ The resistance and challenging spirit of Hud(a.s.)provides the reason
 for his legitimacy and the decisiveness of his path. It exhibits the
 fact that prophets fear Allah only and are not frightened by any other
 power.
-
 

@@ -167,4 +167,3 @@ establish. If this objection is applicable here, then we may conclude
 that the argument is nothing but a detailed pseudoargument which reveals
 one's intuition about the non-existential nature of evils.
 
-

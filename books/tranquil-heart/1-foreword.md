@@ -40,4 +40,3 @@ prayers in relation to this great personality.  We hope that the reader
 is able to benefit from these stories and thereby be able to pay more
 attention to their prayers.
 
-

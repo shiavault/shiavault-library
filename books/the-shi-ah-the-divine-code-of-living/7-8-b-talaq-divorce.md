@@ -196,4 +196,3 @@ This is called zihar.
 These are explained in the relevant books. Such incidents seldom take
 place today as they were particular to the Arabs of pre-Islamic days.
 
-

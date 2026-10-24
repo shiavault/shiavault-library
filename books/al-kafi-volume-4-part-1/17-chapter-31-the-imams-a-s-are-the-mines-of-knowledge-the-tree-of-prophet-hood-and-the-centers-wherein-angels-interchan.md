@@ -39,7 +39,6 @@ Whoever remains true to our covenant he has remained true to the
 covenant of Allah. Whoever disregards his covenant with us he has
 disregarded his covenant and responsibility towards Allah."
 
-
 **Chapter 32 : The Imams (a.s.) are the Heirs of Knowledge to Inherit
 it one from the other H 590, Ch. 32, h 1**
 
@@ -129,5 +128,4 @@ al-Harith ibn al- Mughirah from abu 'Abdallah (a.s.) who has said the
 following. "The Knowledge that came with Adam was not taken away. No man
 of knowledge has ever died without his knowledge being inherited. The
 earth does not remain without a man of knowledge."
-
 

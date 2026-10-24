@@ -524,4 +524,3 @@ knowledge of hidden truths whenever they wished.
 
 [^24]: Ibid., Vol. II, p.294.
 
-

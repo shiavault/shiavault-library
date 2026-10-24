@@ -436,4 +436,3 @@ Will they allow us after twelve centuries to pull these fables out .of
 the traditions and history of Islam and throw them away in order to open
 the way for a true understanding of Islam for all people?
 
-

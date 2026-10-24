@@ -240,4 +240,3 @@ ideology, because whatever is connected with action and economy is
 controlled by the despotic government and opposition to government is
 treated to be a revolt against it.
 
-

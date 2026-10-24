@@ -17,9 +17,7 @@ The Mission is extremely grateful to Haji Muhammad Husseii Karmalli,
 Dar es Salaam, for his help in checking the rnanuscrip and making useful
 suggestions
 
-
 S. SAEED AKHTAR RIZVI
 Gopalpur, (India)
 31st August, 1979.
-
 

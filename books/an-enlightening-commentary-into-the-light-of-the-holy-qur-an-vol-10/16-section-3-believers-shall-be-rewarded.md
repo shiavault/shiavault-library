@@ -4,13 +4,9 @@ Section 3: Believers Shall Be Rewarded
 Surah Al-Hajj – Verse 23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ
-جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الاَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ
-أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤاً وَلِبَاسُهُمْ فِيهَا حَرِيرٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ
+> جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الاَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ
+> أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤاً وَلِبَاسُهُمْ فِيهَا حَرِيرٌ
 
 ***23. “Verily, Allah will admit those who believe and do righteous
 deeds into gardens beneath which rivers flow, they shall be adorned
@@ -52,12 +48,8 @@ and those deprivations are compensated.
 Surah Al-Hajj – Verse 24
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُدُوا إِلَي الطَّيّـِبِ مِنَ الْقَوْلِ وَهُدُوا إِلَي صِرَاطِ
-الْحَمِيدِ
-  </p>
-</blockquote>
+> وَهُدُوا إِلَي الطَّيّـِبِ مِنَ الْقَوْلِ وَهُدُوا إِلَي صِرَاطِ
+> الْحَمِيدِ
 
 ***24. “And they are guided unto the purest of speeches, and they are
 guided to the Path (of Him who is) Worthy of (all) Praise.”***
@@ -107,14 +99,10 @@ those who fought against Ali (as), Hamzat-ibn-‘Abd-ul-Mutalib, and
 Surah Al-Hajj – Verse 25
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ
-وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَآءً
-الْعَاكِفُ فِيهِ وَالْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ
-نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ
+> وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَآءً
+> الْعَاكِفُ فِيهِ وَالْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ
+> نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ
 
 ***25. “Verily those who disbelieved, and hinder (the believers) from
 the way of Allah and the Sacred Mosque which We have made equally for
@@ -365,5 +353,4 @@ nearness and pleasure of Allah.
 [^8]: Nur-uth-Thaqalayn, vol. 3, P. 482
 
 [^9]: Kanz-ul-‘Irfan, vol. 1, P. 335
-
 

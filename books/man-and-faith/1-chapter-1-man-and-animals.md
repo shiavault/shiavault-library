@@ -300,4 +300,3 @@ system.
 
 [^2]: Well-known theory of Descartes
 
-

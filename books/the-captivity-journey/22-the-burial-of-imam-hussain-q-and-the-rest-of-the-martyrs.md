@@ -144,4 +144,3 @@ hearts defending him, and now I am going back to Bin Ziad’s prison (May
 God curse him). As for you, congratulations to you, you shall not be
 terrified or blamed for not helping us".
 
-

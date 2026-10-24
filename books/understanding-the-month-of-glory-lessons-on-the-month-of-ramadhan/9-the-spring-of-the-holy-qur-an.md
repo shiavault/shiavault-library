@@ -161,4 +161,3 @@ holy month:
 
     • The need of guidance for human beings
 
-

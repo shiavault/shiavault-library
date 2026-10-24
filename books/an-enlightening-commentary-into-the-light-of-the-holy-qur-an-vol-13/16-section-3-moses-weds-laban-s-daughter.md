@@ -4,12 +4,8 @@ Section 3: Moses Weds Laban’s Daughter
 Surah Al-Qasas - Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَي رَبّـِي أَن
-يَهْدِيَنِي سَوَآءَ السَّبِيلِ
-  </p>
-</blockquote>
+> وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَي رَبّـِي أَن
+> يَهْدِيَنِي سَوَآءَ السَّبِيلِ
 
 ***22. “And when he turned his face towards Madyan, he said: ‘I do hope
 that my Lord will guide me in the right path’.”***
@@ -47,21 +43,13 @@ The Arabic word /tilqa’/ here means: ‘direction’.
 Surah Al-Qasas - Verses 23-24
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ اُمَّةً مِنَ النَّاسِ
-يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ قَالَ مَا
-خَطْبُكُمَا قَالَتَا لاَنَسْقِي حَتَّي يُصْدِرَ الرّ‌ِعَآءُ وَأَبُونَا
-شَيْخٌ كَبِيرٌ
-  </p>
-</blockquote>
+> وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ اُمَّةً مِنَ النَّاسِ
+> يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ قَالَ مَا
+> خَطْبُكُمَا قَالَتَا لاَنَسْقِي حَتَّي يُصْدِرَ الرّ‌ِعَآءُ وَأَبُونَا
+> شَيْخٌ كَبِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-فَسَقَي لَهُمَا ثُمَّ تَوَلَّي إِلَي الظّـِلّ‌ِ فَقَالَ رَبّ‌ِ إِنّـِي
-لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
-  </p>
-</blockquote>
+> فَسَقَي لَهُمَا ثُمَّ تَوَلَّي إِلَي الظّـِلّ‌ِ فَقَالَ رَبّ‌ِ إِنّـِي
+> لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
 
 ***23. “And when he arrived at the watering (place) in Madyan, he found
 on it a group of men watering (their flocks), and besides them he found
@@ -198,14 +186,10 @@ grass for your sheep and the salt of your bread.”*[^1]
 Surah Al-Qasas - Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَجآءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَي اسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِي
-يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُ
-وَقَصَّ عَلَيْهِ الْقَصَصَ قَالَ لاَ تَخَفْ نَجَوْتَ مِنَ الْقَوْمِ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَجآءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَي اسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِي
+> يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُ
+> وَقَصَّ عَلَيْهِ الْقَصَصَ قَالَ لاَ تَخَفْ نَجَوْتَ مِنَ الْقَوْمِ
+> الظَّالِمِينَ
 
 ***25. “Afterwards one of the two (damsels) came to him walking
 bashfully. She said: ‘Verily my father invites you that he may give you
@@ -295,12 +279,8 @@ worthy student.
 Surah Al-Qasas - Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ إِحْدَاهُمَا يَآ أَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ
-اسْتَأْجَرْتَ الْقَوِيُّ الأَمِينُ
-  </p>
-</blockquote>
+> قَالَتْ إِحْدَاهُمَا يَآ أَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ
+> اسْتَأْجَرْتَ الْقَوِيُّ الأَمِينُ
 
 ***26. “One of the two (damsels) said: ‘O my father! Employ him. Verily
 the best of those that you can employ is the strong man, the faithful
@@ -355,14 +335,10 @@ not collude with the tyrants.
 Surah Al-Qasas - Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنّـِي أُرِيدُ أَنْ اُنكِحَكَ إِحْدَي ابْنَتَيَّ هَاتَيْنِ
-عَلَي أَن تَأْجُرَنِي ثَمَانِيَ حِجَجٍ فَإِنْ اَتْمَمْتَ عَشْراً
-فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِي إِن
-شَآءَ اللَّهُ مِنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> قَالَ إِنّـِي أُرِيدُ أَنْ اُنكِحَكَ إِحْدَي ابْنَتَيَّ هَاتَيْنِ
+> عَلَي أَن تَأْجُرَنِي ثَمَانِيَ حِجَجٍ فَإِنْ اَتْمَمْتَ عَشْراً
+> فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِي إِن
+> شَآءَ اللَّهُ مِنَ الصَّالِحِينَ
 
 ***27. “He said: ‘Verily I intend to wed one of these two daughters of
 mine to you on condition that you serve me for eight years, but if you
@@ -792,12 +768,8 @@ occupied its place.
 Surah Al-Qasas - Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ ذَلِكَ بَيْنِي وَبَيْنَكَ أَيَّمَا الاَجَلَيْنِ قَضَيْتُ فَلاَ
-عُدْوَانَ عَلَيَّ وَاللَّهُ عَلَي مَا نَقُولُ وَكِيلٌ
-  </p>
-</blockquote>
+> قَالَ ذَلِكَ بَيْنِي وَبَيْنَكَ أَيَّمَا الاَجَلَيْنِ قَضَيْتُ فَلاَ
+> عُدْوَانَ عَلَيَّ وَاللَّهُ عَلَي مَا نَقُولُ وَكِيلٌ
 
 ***28. “(Moses accepted Shu‘ayb’s suggestion and) said: ‘This shall be
 (an agreement) between me and you, whichever of the two terms I fulfil,
@@ -906,5 +878,4 @@ to do.”*[^31]
 
 [^31]: ’Atyab-ul-Bayan, Manhaj-us.Sadiqin, Majma‘-ul-Bayan, Safi,
 Burhan, following the verse
-
 

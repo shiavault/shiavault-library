@@ -1247,4 +1247,3 @@ pronounced as Karbala’.
 
 [^74]: We have given his biography earlier.
 
-

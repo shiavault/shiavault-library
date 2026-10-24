@@ -1,11 +1,7 @@
 Prayer For Thorough Purification
 ================================
 
-<blockquote dir="rtl">
-  <p>
-وَ اَذهِب عَنهُمُ الرَّجسَ وَ طَهِّرهُم تَطهِيراً
-  </p>
-</blockquote>
+> وَ اَذهِب عَنهُمُ الرَّجسَ وَ طَهِّرهُم تَطهِيراً
 
 **Remove from them any impurity and purify them a thorough
 purification.**
@@ -104,12 +100,8 @@ Messengers, Awsiya', and Imams *MUST* be purified and protected from is:
 
 This is exactly what Allah (SWT) mentioned in the Qur’an Al-Kareem,
 
-<blockquote dir="rtl">
-  <p>
-بَلْ عِبَادٌ مُكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ
-بِأَمْرِهِ يَعْمَلُونَ.
-  </p>
-</blockquote>
+> بَلْ عِبَادٌ مُكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ
+> بِأَمْرِهِ يَعْمَلُونَ.
 
 ***“Nay! They are honored servants. They do not precede Him in speech
 and (only) according to His Commandment do they act.” (21:26-27)***
@@ -126,5 +118,4 @@ hinder their success.
 related to this topic:
 
 <http://www.al-islam.org/taharah-ismah-masumeen-dr-hatem-abu-shahba>
-
 

@@ -1,11 +1,7 @@
 22)  Understand my testament and do not disregard it, for indeed the best speech is that which is is beneficial.
 ================================================================================================================
 
-<blockquote dir="rtl">
-  <p>
-"و تفهّم وصيّتي ولا تذهبنّ عنك صفحا فانّ خير القول ما نفع"
-  </p>
-</blockquote>
+> "و تفهّم وصيّتي ولا تذهبنّ عنك صفحا فانّ خير القول ما نفع"
 
 Sometimes the act of implementing a will is ceremonial; in such cases it
 does not make any difference whether the person for whom a will is drawn
@@ -21,5 +17,4 @@ taking it seriously clashes with the writer's intention that he had in
 making this will applicable and practical. Such negligence on the part
 of the reader is not in keeping with the writer's intentions. Therefore,
 Imam ‘Ali (as) emphasizes that his son should take this will seriously.
-
 

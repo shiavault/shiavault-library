@@ -153,4 +153,3 @@ apostleship; so  If these (people) disbelieve in it, indeed we have
 find a unique moral model before him. This human prototype will clarify
 man’s way towards moral perfection.
 
-

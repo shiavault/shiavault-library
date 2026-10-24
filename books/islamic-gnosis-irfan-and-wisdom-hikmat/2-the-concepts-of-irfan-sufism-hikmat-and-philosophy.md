@@ -79,4 +79,3 @@ any intellectual or rational efforts to understand the problems of all
 existence, even if this leads to the rejection of certain and
 established gnosis, or even the rejection of objective existence.
 
-

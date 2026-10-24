@@ -3,12 +3,8 @@ Lesson Sixty Two: Do Not Dwell On The Past
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لاتُشْغِلْ قَلْبَكَ الْهَمَّ عَلَى مافاتَ فَيُشْغِلَكَ عَنِ
-الاْسْتِعْدادِ بِما هُوَ آت.
-  </p>
-</blockquote>
+> لاتُشْغِلْ قَلْبَكَ الْهَمَّ عَلَى مافاتَ فَيُشْغِلَكَ عَنِ
+> الاْسْتِعْدادِ بِما هُوَ آت.
 
 Translation
 -----------
@@ -27,5 +23,4 @@ constructively to build a better today and tomorrow. Surely, they will
 be the ones who will succeed.
 
 [^1]: Ghurarol-hekam, page 289
-
 

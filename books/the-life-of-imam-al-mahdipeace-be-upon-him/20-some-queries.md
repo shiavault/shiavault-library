@@ -23,17 +23,17 @@ a. The Messenger of Allah (a.s) said:
 
 “My Ahle Bayt are security for the inhabitants of the earth. If my Ahle
 Bayt are not there, the inhabitants of the earth shall be
-destroyed.”<sup>[1]</sup>
+destroyed.”[1]
 
 b. The Messenger of Allah (a.s) said:
 
 “This religion shall always be upright till there are twelve chiefs from
 Quraish. When they pass away, the earth will swallow all its
-inhabitants.”<sup>[2]</sup>
+inhabitants.”[2]
 
 ------------------------------------------------------------------------
 
-[1] Zakhairul Uqbah, Pg 17, Kanzul Ummal, 6/116 <sup>[2]</sup>
+[1] Zakhairul Uqbah, Pg 17, Kanzul Ummal, 6/116 [2]
 Muntakhabul Athar, Pg. 27, quoted from Kashful Astar
 
 c. His Eminence, Amirul Momineen (a.s) said:
@@ -53,7 +53,7 @@ path of truth, His Eminence would have appeared. The great scholar, Tusi
 (a.r.) has pointed towards these two causes mentioned above. He says:
 
 “The existence of His Eminence is a grace; his authority is another
-grace.”<sup>[1]</sup>
+grace.”[1]
 
 Thirdly: While he is in occultation, Imam Mahdi (a.s) is kind on his
 Shias and he prays for them and there is no obstacle in his prayer and
@@ -131,7 +131,7 @@ g. His Eminence, like the sun, gives benefit to all, although one who is
 blind is not able to take benefit from him. As the Almighty Allah says:
 
 *“And whoever is blind in this, he shall (also) be blind in the
-hereafter, and more erring from the way.”<sup>[1]</sup>*
+hereafter, and more erring from the way.”[1]*
 
 It is explained in this way:
 
@@ -150,7 +150,7 @@ stands below the shining sun and the rays of the sun surround
 
 him. By this eight doors of Paradise of spirituality are opened up for
 him and the rays of guidance and guardianship (Wilayat) cover
-him...<sup>[1]</sup>
+him...[1]
 
 Fifthly: We do not know the Hidden wisdom of the occultation of His
 Eminence as many traditions have explained.
@@ -181,7 +181,7 @@ part ways. O son of Fazl! This is an affair of Allah and the secret and
 mystery of the occultation is from the secrets and mysteries of Allah.
 As we have faith that Allah is the wisest one we must have certainty
 that all His actions are based on wisdom. Even though we may not be
-aware of the hidden wisdom in detail.”<sup>[2]</sup>
+aware of the hidden wisdom in detail.”[2]
 
 ------------------------------------------------------------------------
 

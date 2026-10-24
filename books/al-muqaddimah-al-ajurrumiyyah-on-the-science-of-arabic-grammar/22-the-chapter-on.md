@@ -30,8 +30,5 @@ house and nowoman )
 
 and if you wish, you can say:
 
-<p dir="rtl">
 لارجلٌ في الدار ولاامرأةٌ
-</p>
-
 

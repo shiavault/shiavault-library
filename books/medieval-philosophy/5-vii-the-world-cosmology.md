@@ -145,7 +145,6 @@ body -- although, as Aquinas says, the soul separated from the body is
 not entirely complete but has an inclination to the body as the
 necessary instrument for its complete and full activity.
 
-
 **IX. Ethics and Politics**
 
 In opposition to the voluntarism of Augustinian thought, Aquinas holds
@@ -213,7 +212,6 @@ entrusted the spiritual good of the same citizens; and since the
 material must be coordinated with the spiritual, the state, although
 complete in itself, must recognize the rights of the Church in matters
 of morality and religion.
-
 
 **The Philosophy of John Duns Scotus**
 
@@ -365,7 +363,6 @@ Regarding the attributes of God, Scotus holds that the essential
 attribute is His infinity. In regard to the other attributes, Scotus
 does not differ from the common opinion of the Scholastics, i.e., that
 God is one, uncaused, the Creator, and so forth.
-
 
 **The World: Cosmological Doctrine**
 
@@ -544,5 +541,4 @@ reacting affectively to it.
 3. Summa Theol., Part I, q. 76, a. 1; Contra Gent., II, 57 and 58).
 4. Summa Theol., Part I, q. 75, a. 6' Contra Gent., II, 78, 79 and
 82).
-
 

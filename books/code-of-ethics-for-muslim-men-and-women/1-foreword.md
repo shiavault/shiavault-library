@@ -11,10 +11,7 @@ we become familiar with how we should carry ourselves when around
 members of the same sex and more importantly, those of the opposite
 sex.
 
-<p dir="rtl">
 و سلام عليكم و رحمة الله و بركاته
-</p>
-
 
 **Notes before you read this Book**
 
@@ -93,5 +90,4 @@ Ayatullah al-Udhma al-haj as-Sayyid ‘Ali al-Husaini as-Seestani
 T
 
 Ayatullah al-Udhma al-haj ash-Shaykh Mirza Jawad al-Tabrizi
-
 

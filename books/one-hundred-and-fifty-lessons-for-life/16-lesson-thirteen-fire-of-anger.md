@@ -3,12 +3,8 @@ Lesson Thirteen: Fire of Anger
 
 Imam Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إنَّ هَذا الْغَضَبَ جَمْرَةٌ مِنَ الشَّيْطانِ تُوْقَدُ فِى قَلْبِ
-ابْنِ آدَمَ"
-  </p>
-</blockquote>
+> "إنَّ هَذا الْغَضَبَ جَمْرَةٌ مِنَ الشَّيْطانِ تُوْقَدُ فِى قَلْبِ
+> ابْنِ آدَمَ"
 
 Translation
 -----------
@@ -30,5 +26,4 @@ be too late to prevent it from burning and ruining our lives and those
 of others.
 
 [^1]: Bihar al-Anwar, volume 73, page 278, AlKafi Volume 2, page 302
-
 

@@ -1691,4 +1691,3 @@ English equivalent for it, as is the case with nUmarous other Qur'anic
 diction words. Words like "path," "way," or "highway" do not seem to me
 to convey the same meaning.
 
-

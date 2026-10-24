@@ -4,17 +4,9 @@ Ahadith, The Traditions
 1. The Inferno of Husayni Love
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قال النبيٌُّ (ص):
-  </p>
-</blockquote>
+> قال النبيٌُّ (ص):
 
-<blockquote dir="rtl">
-  <p>
-إن لقتل الحُسين حرارةٌ في قلوب المؤمنين لا تبرد أبداً
-  </p>
-</blockquote>
+> إن لقتل الحُسين حرارةٌ في قلوب المؤمنين لا تبرد أبداً
 
 The Holy Prophet (S) said: Surely, there exists in the hearts of the
 Mu'mineen, with respect to the martyrdom of Husayn (A.S.), a heat that
@@ -27,18 +19,10 @@ never subsides.
 
 Imam Ridha’ (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-مَن كان يوم عاشوراء يوم مُصيبته وحُزنه وبُكائه يجعل الله عزَّ وجل يوم
-القيامة يوم فرحه وسروره
-  </p>
-</blockquote>
+> مَن كان يوم عاشوراء يوم مُصيبته وحُزنه وبُكائه يجعل الله عزَّ وجل يوم
+> القيامة يوم فرحه وسروره
 
 The one for whom the day of A'ashura is a day of tragedy, grief and
 weeping, Allah The Mighty, The Glorious, shall make the Day of Judgment,
@@ -51,19 +35,11 @@ a day of joy and happiness for him.
 
 Imam Ridha’ (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-كان أبي (ع) إذا دخل شهر المُحرَّم لا يُرى ضاحِكاً وكانت الكابة تغلب
-عليه حتَّى تمضي عشرة أيَّام فإذا كان يوم العاشر كان ذلك يوم مصيبَته
-وحُزنه وبُكائه
-  </p>
-</blockquote>
+> كان أبي (ع) إذا دخل شهر المُحرَّم لا يُرى ضاحِكاً وكانت الكابة تغلب
+> عليه حتَّى تمضي عشرة أيَّام فإذا كان يوم العاشر كان ذلك يوم مصيبَته
+> وحُزنه وبُكائه
 
 With the advent of the month of Muharram, my father Imam Kadhim (A.S.)
 would never be seen laughing; gloom and sadness would overcome him for
@@ -77,18 +53,10 @@ would dawn, it would be a day of tragedy, grief and weeping for him.
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبيُّ (ص):
-  </p>
-</blockquote>
+> قال النبيُّ (ص):
 
-<blockquote dir="rtl">
-  <p>
-يا فاطمة كلُّ عينٍ باكية يوم القيامة إلاَّ عينٌ بكَت على مُصاب الحُسين
-(ع) فإنها ضاحِكة مُستبشرة بنعيم الجنة
-  </p>
-</blockquote>
+> يا فاطمة كلُّ عينٍ باكية يوم القيامة إلاَّ عينٌ بكَت على مُصاب الحُسين
+> (ع) فإنها ضاحِكة مُستبشرة بنعيم الجنة
 
 O' Fatimah! Every eye shall be weeping on the Day of Judgment except the
 eye which has shed tears over the tragedy of Husayn (A.S.) for surely,
@@ -100,18 +68,10 @@ bounties and comforts of Paradise.
 5. Reward of the Martyred Companions
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-إن سرَّك أن يكون لك من الثواب مِثلُ ما لمَن استُشهد مع الحُسين فقُل
-متى ما ذكرته يا ليتني كُنت معهم فأفوز فوزاً عظيما
-  </p>
-</blockquote>
+> إن سرَّك أن يكون لك من الثواب مِثلُ ما لمَن استُشهد مع الحُسين فقُل
+> متى ما ذكرته يا ليتني كُنت معهم فأفوز فوزاً عظيما
 
 Imam Ridha’ (A.S.) said (to one of his companions): If you desire that
 for you be the reward equivalent to that of those martyred along with
@@ -125,12 +85,8 @@ had been with them! A great achievement would I have achieved'.*
 
 Abu Haroon al‑Makfoof said:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي هارون المكفُوف قال دخلتُ على أبي عبد اللهِ فقال لي أنشِدني
-فأنشدتُه فقال لا كما تُنشدون وكما ترثِيه عند قبرهِ فأنشدتهُ
-  </p>
-</blockquote>
+> عن أبي هارون المكفُوف قال دخلتُ على أبي عبد اللهِ فقال لي أنشِدني
+> فأنشدتُه فقال لا كما تُنشدون وكما ترثِيه عند قبرهِ فأنشدتهُ
 
 I presented myself before Imam Sadiq (A.S.) whereupon he said to me:
 *"Recite for me a poetry"* and so I recited for him. He said *"Not in
@@ -144,18 +100,10 @@ grave of* *Husayn* (A.S.)" and so I recited for him (again).
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-ما مِن أحد قال في الحُسين شِعراً فبكى وأبكى بِه إلاَّ أوجب الله له
-الجنَّة وغفر لهُ
-  </p>
-</blockquote>
+> ما مِن أحد قال في الحُسين شِعراً فبكى وأبكى بِه إلاَّ أوجب الله له
+> الجنَّة وغفر لهُ
 
 There is none who recites poetry about Husayn (A.S.) and weeps and makes
 others weep by means of it, except that Allah makes Paradise incumbent
@@ -168,17 +116,9 @@ upon him and forgives his sins.
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-فقال الصادق (ع):
-  </p>
-</blockquote>
+> فقال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي جعل في الناس مَن يفِد إلينا ويمدحُنا ويرثِي لنا
-  </p>
-</blockquote>
+> الحمد لله الذي جعل في الناس مَن يفِد إلينا ويمدحُنا ويرثِي لنا
 
 All praise is for Allah, who has placed amongst the people, those who
 arrive in our presence, eulogizing us and reciting elegies about us.
@@ -191,18 +131,10 @@ arrive in our presence, eulogizing us and reciting elegies about us.
 Imam Ridha’ (A.S.) said (to De'bil, a poet sincerely devoted to the
 Ahlul Bayt):
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-أُحب أن تُنشدني شعراً فإنَّ هذه الأيام أياَّمُ حُزنٍ كانت علينا أهل
-البيتِ
-  </p>
-</blockquote>
+> أُحب أن تُنشدني شعراً فإنَّ هذه الأيام أياَّمُ حُزنٍ كانت علينا أهل
+> البيتِ
 
 I desire that you recite for me poetry, for surely, these days (of the
 month of Muharram) are the days of grief and sorrow, which have passed
@@ -215,18 +147,10 @@ over us, Ahlul Bayt.
 
 Imam 'Ali (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال عليٌّ (ع):
-  </p>
-</blockquote>
+> قال عليٌّ (ع):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الله اختار لنا شيعةً ينصُروننا ويَفرحون لِفرحِنا ويحزنون
-لِحُزنِنا
-  </p>
-</blockquote>
+> إنَّ الله اختار لنا شيعةً ينصُروننا ويَفرحون لِفرحِنا ويحزنون
+> لِحُزنِنا
 
 Surely, Allah has chosen for us followers (Shiites), who assist us and
 are happy at our happiness and are sad in our sadness.
@@ -238,18 +162,10 @@ are happy at our happiness and are sad in our sadness.
 
 Imam 'Ali Ibn al‑Husayn (A.S.) used to say:
 
-<blockquote dir="rtl">
-  <p>
-كان عليٌّ بن الحسين (ع) يقول:
-  </p>
-</blockquote>
+> كان عليٌّ بن الحسين (ع) يقول:
 
-<blockquote dir="rtl">
-  <p>
-أيٌّما مؤمن دَمعت عيناه لِقتل الحُسين (ع) ومَن معه حتَّى تسِيل على
-خدَّيه بوَّأه الله في الجنة غُرفاً
-  </p>
-</blockquote>
+> أيٌّما مؤمن دَمعت عيناه لِقتل الحُسين (ع) ومَن معه حتَّى تسِيل على
+> خدَّيه بوَّأه الله في الجنة غُرفاً
 
 Every Mu'min, whose eyes shed tears upon the killing of Husayn Ibn 'Ali
 (A.S.) and his companions, such that the tears roll down his cheeks,
@@ -262,17 +178,9 @@ Allah shall accommodate him in the elevated rooms of Paradise.
 
 Imam Sajjad (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال عليٌّ بن الحُسين (ع):
-  </p>
-</blockquote>
+> قال عليٌّ بن الحُسين (ع):
 
-<blockquote dir="rtl">
-  <p>
-إني لم أذكُر مصرَع بني فاطمة إلاَّ خنقتني لذلك عبرةٌ
-  </p>
-</blockquote>
+> إني لم أذكُر مصرَع بني فاطمة إلاَّ خنقتني لذلك عبرةٌ
 
 Surely, I have never brought to mind the martyrdom of the children of
 Fatimah (A.S.) except that I have been choked with tears due to it.
@@ -286,19 +194,11 @@ For those unable to go for the ziarat of Imam Husayn (A.S.) on the day
 of A'ashura, Imam Baqir (A.S.) mentions the manner of performing
 A'zadari as follows:
 
-<blockquote dir="rtl">
-  <p>
-قال الباقر (ع):
-  </p>
-</blockquote>
+> قال الباقر (ع):
 
-<blockquote dir="rtl">
-  <p>
-ثُم ليَندُب الحُسين (ع) ويَبكيه ويأمُر من في داره بالبُكاء عليه ويُقيم
-في داره مُصيبته بإظهار الجَزع عليه ويتلاقُون بالبُكاء بعضُهم بعضاً في
-البُيوت ولَيُعزِّ بعضهم بعضاً بمُصاب الحُسين (ع)
-  </p>
-</blockquote>
+> ثُم ليَندُب الحُسين (ع) ويَبكيه ويأمُر من في داره بالبُكاء عليه ويُقيم
+> في داره مُصيبته بإظهار الجَزع عليه ويتلاقُون بالبُكاء بعضُهم بعضاً في
+> البُيوت ولَيُعزِّ بعضهم بعضاً بمُصاب الحُسين (ع)
 
 He should mourn over Husayn (A.S.), weep for him and instruct the
 members of the house to weep for him. He should establish the mourning
@@ -313,19 +213,11 @@ consolation to each other over the calamities which befell him.
 
 Imam Baqir (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الباقر (ع):
-  </p>
-</blockquote>
+> قال الباقر (ع):
 
-<blockquote dir="rtl">
-  <p>
-مرَّ عليٌّ بكربلاء في اثنين مِن أصحابه قال فلماَّ مرَّ بها ترقرقت
-عيناه للِبُكاء ثم قال هذا مناخُ ركابهم وهذا مُلقى رِحالِهم وهاهُنا
-تُهراق دِماؤهم طُوبى لك مِن تُربةِ عليكِ تُهراق دماء الأحبَّة
-  </p>
-</blockquote>
+> مرَّ عليٌّ بكربلاء في اثنين مِن أصحابه قال فلماَّ مرَّ بها ترقرقت
+> عيناه للِبُكاء ثم قال هذا مناخُ ركابهم وهذا مُلقى رِحالِهم وهاهُنا
+> تُهراق دِماؤهم طُوبى لك مِن تُربةِ عليكِ تُهراق دماء الأحبَّة
 
 Amirul Mu'mineen (A.S.), along with two of his companions, happened to
 pass by Karbala’ and as he did so, tears filled his eyes. He said (to
@@ -341,18 +233,10 @@ be spilled upon you."*
 
 Imam Baqir (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الباقر (ع):
-  </p>
-</blockquote>
+> قال الباقر (ع):
 
-<blockquote dir="rtl">
-  <p>
-ما مِن رجُل ذكرنا عنده يخرُج من عينيه ماءٌ ولو مثل جناح البعُوضة إلا
-بَنى الله له بيتاً في الجنة وجعل ذلك الدَّمع حِجاباً بينه وبين النار
-  </p>
-</blockquote>
+> ما مِن رجُل ذكرنا عنده يخرُج من عينيه ماءٌ ولو مثل جناح البعُوضة إلا
+> بَنى الله له بيتاً في الجنة وجعل ذلك الدَّمع حِجاباً بينه وبين النار
 
 He who remembers us, or in whose presence, we are remembered, and (as a
 result) tears flow from his eyes, even though they may be in the measure
@@ -367,18 +251,10 @@ hell).
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-وأمَّا عليٌّ بن الحُسين (ع) فبكى على الحُسين (ع) عشرين سنةً وما وُضع
-بين يديه طعامٌ إلا بكى
-  </p>
-</blockquote>
+> وأمَّا عليٌّ بن الحُسين (ع) فبكى على الحُسين (ع) عشرين سنةً وما وُضع
+> بين يديه طعامٌ إلا بكى
 
 \`As for A'li Ibn al‑Husayn (A.S.), he cried over Husayn (A.S.) for
 twenty years (after the tragedy of Karbala’); never would any food be
@@ -391,19 +267,11 @@ placed before him except that he would begin to weep.
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ق):
-  </p>
-</blockquote>
+> قال الصادق (ق):
 
-<blockquote dir="rtl">
-  <p>
-فلمَّا مات إبراهيم ابن رسول الله (ص) هُملت عينُ رسول الله (ص) بالدُموع
-ثُم قال النبيُّ (ص) تدمعُ العينُ ويََحزن القلبُ ولا نقول ما يُسخِط
-الرَّب وإنا بِك يا إبراهيم لمَحزُونُون
-  </p>
-</blockquote>
+> فلمَّا مات إبراهيم ابن رسول الله (ص) هُملت عينُ رسول الله (ص) بالدُموع
+> ثُم قال النبيُّ (ص) تدمعُ العينُ ويََحزن القلبُ ولا نقول ما يُسخِط
+> الرَّب وإنا بِك يا إبراهيم لمَحزُونُون
 
 When Ibrahim, the son of the Holy Prophet (S) died, tears filled the
 eyes of the Holy Prophet (S.A.W), whereupon he said, " The *eyes are
@@ -418,17 +286,9 @@ you"*
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي عبد الله (ع) قال:
-  </p>
-</blockquote>
+> عن أبي عبد الله (ع) قال:
 
-<blockquote dir="rtl">
-  <p>
-مَن دُُكرنا عنده ففاضت عيناه حرَّم الله وجهه على النارِ
-  </p>
-</blockquote>
+> مَن دُُكرنا عنده ففاضت عيناه حرَّم الله وجهه على النارِ
 
 He in whose presence we (and our miseries) are mentioned and, as a
 result, his eyes pour out tears, Allah shall make his face forbidden
@@ -441,18 +301,10 @@ upon the fire of hell.
 
 Imam Sadiq (A.S.) said to Fudhail:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع) للفضيل
-  </p>
-</blockquote>
+> قال الصادق (ع) للفضيل
 
-<blockquote dir="rtl">
-  <p>
-تجلِسون وتُحدِّثون قُلت نعم قال تِلك المجالس أحِبُها فأحيُوا أمرنا
-رحِم الله مَن أحيا أمرنا
-  </p>
-</blockquote>
+> تجلِسون وتُحدِّثون قُلت نعم قال تِلك المجالس أحِبُها فأحيُوا أمرنا
+> رحِم الله مَن أحيا أمرنا
 
 Do you sit together, talk and discuss amongst yourselves? Fudhail
 replied: Yes. The Imam then said: I approve of these sittings. So keep
@@ -467,19 +319,11 @@ revive our issue and mission!
 Imam Sadiq (A.S.) said (to Masma', one of those who mourned over Imam
 Husayn (A.S.)):
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-رَحِِمَ الله دمعَتك أما إنك مِن الذين يُعدًًًًًًًًّون مِن أهل الجَزع
-لنا والذين يَفرحون لفَرحنا ويَحزنون لحُزننا أما إنك سَتَرى عند موتِك
-حُضور أبائي لكَ
-  </p>
-</blockquote>
+> رَحِِمَ الله دمعَتك أما إنك مِن الذين يُعدًًًًًًًًّون مِن أهل الجَزع
+> لنا والذين يَفرحون لفَرحنا ويَحزنون لحُزننا أما إنك سَتَرى عند موتِك
+> حُضور أبائي لكَ
 
 May Allah have mercy upon your tears! Do know that you are regarded as
 being of those who are deeply concerned about us and of those who are
@@ -496,18 +340,10 @@ Imam Sadiq (A.S.) (while sitting on the prayer mat prayed for the
 mourners and those going for the ziarat of the Ahlul Bayt (A.S.) as
 follows):
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ص):
-  </p>
-</blockquote>
+> قال الصادق (ص):
 
-<blockquote dir="rtl">
-  <p>
-وارحَم تِلك الأعين التي جَرت دُموعُها رحمَةً لنا وارحم تِلك القُلوب
-التي جَزعت واحترقت لنا وارحَم الصًَرخة التي كانت لنا
-  </p>
-</blockquote>
+> وارحَم تِلك الأعين التي جَرت دُموعُها رحمَةً لنا وارحم تِلك القُلوب
+> التي جَزعت واحترقت لنا وارحَم الصًَرخة التي كانت لنا
 
 O' Lord, have mercy upon those eyes, which have shed tears in compassion
 for us; and upon those hearts, which have been restless and blistered
@@ -520,19 +356,11 @@ for us; and upon those wailings, which have been for us.
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-جعفر بن مُحمد (ع) قال:
-  </p>
-</blockquote>
+> جعفر بن مُحمد (ع) قال:
 
-<blockquote dir="rtl">
-  <p>
-مَن دَمعت عيناه فينا دمعةً لِدمٍ سُفِك لنا أو حقٍّ لنا نُقِصناه أو
-عِرض انتُهِك لنا أو لأحد مِن شيعتنا بوّأه الله تعالى فيها في الجنة
-حُقباَ
-  </p>
-</blockquote>
+> مَن دَمعت عيناه فينا دمعةً لِدمٍ سُفِك لنا أو حقٍّ لنا نُقِصناه أو
+> عِرض انتُهِك لنا أو لأحد مِن شيعتنا بوّأه الله تعالى فيها في الجنة
+> حُقباَ
 
 He whose eyes shed tears for our blood which has been shed, or for our
 rights which have been usurped, or for the humiliation meted out to us
@@ -546,17 +374,9 @@ long time.
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال أبو عبد الله (ع):
-  </p>
-</blockquote>
+> قال أبو عبد الله (ع):
 
-<blockquote dir="rtl">
-  <p>
-يا زُرارَة إنَّ السماء بَكت على الحُسين (ع) أربعين صباحاً
-  </p>
-</blockquote>
+> يا زُرارَة إنَّ السماء بَكت على الحُسين (ع) أربعين صباحاً
 
 O' Zurarah! The sky had cried for forty days over (the martyrdom of)
 Husayn (A.S.)
@@ -568,19 +388,11 @@ Husayn (A.S.)
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ النبيَّ (ص) حين جاءته وفاة جعفر بن أبي طالبٍ (ع) وزيد بن حارثة
-كان إذا دخل بيته كَثُر بُكاؤه عليهما جِداً ويقول كانا يُحدَّثاني
-ويُؤانِساني فذهَبا جميعاً
-  </p>
-</blockquote>
+> إنَّ النبيَّ (ص) حين جاءته وفاة جعفر بن أبي طالبٍ (ع) وزيد بن حارثة
+> كان إذا دخل بيته كَثُر بُكاؤه عليهما جِداً ويقول كانا يُحدَّثاني
+> ويُؤانِساني فذهَبا جميعاً
 
 After the news of the martyrdom of Ja'far Ibn Abi Talib (A.S.) and Zaid
 Ibn Harithah reached the Holy Prophet (S), whenever he entered his
@@ -595,19 +407,11 @@ together".
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال أبو عبد الله (ع):
-  </p>
-</blockquote>
+> قال أبو عبد الله (ع):
 
-<blockquote dir="rtl">
-  <p>
-نفَسُ المهمُوم لِظُلمنا تسبيح وهَمُه لأمرنا عبادة وكِتمانه لِسرِّنا
-جهادٌ في سبيل الله ثم قال أبو عبد الله (ع) يَجِب أن يُكتب هذا الحديث
-بالذهَب
-  </p>
-</blockquote>
+> نفَسُ المهمُوم لِظُلمنا تسبيح وهَمُه لأمرنا عبادة وكِتمانه لِسرِّنا
+> جهادٌ في سبيل الله ثم قال أبو عبد الله (ع) يَجِب أن يُكتب هذا الحديث
+> بالذهَب
 
 The breath of one who is aggrieved upon the injustice and oppression
 subjected to us, is *tasbeeh* (glorification of Allah), and his grief
@@ -623,18 +427,10 @@ The Imam (A.S.) then added: This tradition ought to be written in gold.
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-وكَّل الله بِقبر الحُسين (ع) أربعة ألافٍ ملكٍ شُعثٍ غُبرٍ يبكونه إلى
-يوم القيامة
-  </p>
-</blockquote>
+> وكَّل الله بِقبر الحُسين (ع) أربعة ألافٍ ملكٍ شُعثٍ غُبرٍ يبكونه إلى
+> يوم القيامة
 
 Allah has appointed to the grave of Imam Husayn (A.S.), four thousand
 anguished and grief‑stricken angels, who weep over him (and shall
@@ -647,18 +443,10 @@ continue to do so) up to the Day of Judgment.
 
 Imam Ridha’ (A.S.) said (to Rayyan Ibn Shabib):
 
-<blockquote dir="rtl">
-  <p>
-عن الرِّضا (ع) أنه قال:
-  </p>
-</blockquote>
+> عن الرِّضا (ع) أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-يا ابن شبيب إن كُنت باكِياً لشئِ فابكِ لِلحُسين بن عليِّ (ع) فإنه
-ذُبِح كما يُذبَح الكَبشُ
-  </p>
-</blockquote>
+> يا ابن شبيب إن كُنت باكِياً لشئِ فابكِ لِلحُسين بن عليِّ (ع) فإنه
+> ذُبِح كما يُذبَح الكَبشُ
 
 O' Son of Shabib! If you have to cry over something, then do so over
 Husayn Ibn 'Ali (A.S.) for surely, he was slaughtered in the manner in
@@ -671,17 +459,9 @@ which a ram is slaughtered.
 
 Imam Ridha’ (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-مَن جلس مجلِساً يُحيىَ فيه أمرُنا لم يَمُت قلبه يوم تمُوت القُلوب
-  </p>
-</blockquote>
+> مَن جلس مجلِساً يُحيىَ فيه أمرُنا لم يَمُت قلبه يوم تمُوت القُلوب
 
 He who sits in a gathering in which our affairs (and our path and aims)
 are discussed and revived, his heart shall not die on the day (Day of
@@ -694,18 +474,10 @@ Judgment) when hearts shall die (of fear).
 
 Imam Ridha’ (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-فعَلى مِثل الحُسين فليبكِ الباكون فإنَّ البُكاء عليه يَحُطُّ الذنوب
-العِظام
-  </p>
-</blockquote>
+> فعَلى مِثل الحُسين فليبكِ الباكون فإنَّ البُكاء عليه يَحُطُّ الذنوب
+> العِظام
 
 Those who weep should weep over the likes of Husayn (A.S.) for surely,
 weeping over him does away with one's great sins.
@@ -717,18 +489,10 @@ weeping over him does away with one's great sins.
 
 Imam Ridha’ (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-يا ابن شبيب إن بكيتَ على الحُسين (ع) حتَّى تصير دُموعُك على خدَّيك غفر
-الله لك كُلَّ ذنبٍ أذنبتَهُ صغيراً كان أو كبيراً قليلاً كان أو كثيراً
-  </p>
-</blockquote>
+> يا ابن شبيب إن بكيتَ على الحُسين (ع) حتَّى تصير دُموعُك على خدَّيك غفر
+> الله لك كُلَّ ذنبٍ أذنبتَهُ صغيراً كان أو كبيراً قليلاً كان أو كثيراً
 
 O' Son of Shabib! Should you weep for Husayn (A.S.) in the measure that
 tears roll down your cheeks, Allah would forgive all the sins committed
@@ -742,18 +506,10 @@ they be meagre or immense.
 
 Imam Ridha’ (A.S.) said (to Ibn Shabib):
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا (ع):
-  </p>
-</blockquote>
+> قال الرضا (ع):
 
-<blockquote dir="rtl">
-  <p>
-يا بن شبيب إن سرَّك أن تكون معنا في الدرجات العُلى مِن الجنان فاحزن
-لِحُزننا وافرح لِفرحنا
-  </p>
-</blockquote>
+> يا بن شبيب إن سرَّك أن تكون معنا في الدرجات العُلى مِن الجنان فاحزن
+> لِحُزننا وافرح لِفرحنا
 
 O' Son of Shabib! If it makes you happy (and you desire) to be with us
 in the elevated ranks of paradise, then be sad in our grief and happy at
@@ -766,18 +522,10 @@ our happiness.
 
 Imam Ridha’ (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن الرضا (ع) قال:
-  </p>
-</blockquote>
+> عن الرضا (ع) قال:
 
-<blockquote dir="rtl">
-  <p>
-مِن ترك السَّعيَ في حوائجه في يوم عاشوراء قضى الله له حوائج الدنيا
-والأخرة
-  </p>
-</blockquote>
+> مِن ترك السَّعيَ في حوائجه في يوم عاشوراء قضى الله له حوائج الدنيا
+> والأخرة
 
 One who refrains from seeking his (worldly) desires on the day of
 A'ashura, Allah shall grant him his desires of this world and the
@@ -790,17 +538,9 @@ hereafter.
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصَّادق (ع):
-  </p>
-</blockquote>
+> قال الصَّادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-وإنَّ زائِره لينقلِبُ وما عليه مِن ذنبٍ
-  </p>
-</blockquote>
+> وإنَّ زائِره لينقلِبُ وما عليه مِن ذنبٍ
 
 The zaair (pilgrim) of Imam Husayn (A.S.) turns back (from his
 pilgrimage) such that not a single sin remains upon him.
@@ -813,17 +553,9 @@ pilgrimage) such that not a single sin remains upon him.
 (Regarding someone who goes for pilgrimage to the shrine of Imam Husayn
 (A.S.)), Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-وإنه ليرَى مَن يبكُيِه فيستغفر له ويَسأل أباءه (ع) أن يستغفِروا له
-  </p>
-</blockquote>
+> وإنه ليرَى مَن يبكُيِه فيستغفر له ويَسأل أباءه (ع) أن يستغفِروا له
 
 One who weeps for Imam Husayn (A.S.), surely, the Imam (A.S.) observes
 him and seeks forgiveness for him and requests his holy fathers to
@@ -836,18 +568,10 @@ him and seeks forgiveness for him and requests his holy fathers to
 
 The Holy Prophet (S) (said to H. Fatimah (A.S.)):
 
-<blockquote dir="rtl">
-  <p>
-قال النبيُّ (ص):
-  </p>
-</blockquote>
+> قال النبيُّ (ص):
 
-<blockquote dir="rtl">
-  <p>
-فإذا كان القيامة تشفعين أنتِ لِلنساء وأنا أشفعُ لِلرجال وكلُ مَ، بكىَ
-مِنهُم على مُصاب الحُسين أخذنا بيَده وأدخلناه الجنة.
-  </p>
-</blockquote>
+> فإذا كان القيامة تشفعين أنتِ لِلنساء وأنا أشفعُ لِلرجال وكلُ مَ، بكىَ
+> مِنهُم على مُصاب الحُسين أخذنا بيَده وأدخلناه الجنة.
 
 On the Day of Judgment, you shall intercede for the ladies and I shall
 intercede for the men; every person who has wept over the tragedy of
@@ -860,19 +584,11 @@ Husayn (A.S.), we shall take him by the hand and lead him into Paradise.
 
 A'bdullah Ibn Sinaan says:
 
-<blockquote dir="rtl">
-  <p>
-عن عبد الله بن سنان قال:
-  </p>
-</blockquote>
+> عن عبد الله بن سنان قال:
 
-<blockquote dir="rtl">
-  <p>
-دخلتُ على سيِّدي أبي عبد الله جَعفر بن مُحمد (ع) في يوم عاشوراء
-فأفيتُه كاسفَ اللَّون ظاهر الحُزن ودُمُوعه تنحَدِر مِن عينيه
-كاللُّؤلُؤِ المُتساقط
-  </p>
-</blockquote>
+> دخلتُ على سيِّدي أبي عبد الله جَعفر بن مُحمد (ع) في يوم عاشوراء
+> فأفيتُه كاسفَ اللَّون ظاهر الحُزن ودُمُوعه تنحَدِر مِن عينيه
+> كاللُّؤلُؤِ المُتساقط
 
 I arrived in the presence of my master, Imam Sadiq (A.S.) on the day of
 A'ashura and found him pale and grief‑stricken, with tears streaming
@@ -885,20 +601,12 @@ from his eyes like falling pearls.
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-عن النبيُّ (ص) إلى أن قال:
-  </p>
-</blockquote>
+> عن النبيُّ (ص) إلى أن قال:
 
-<blockquote dir="rtl">
-  <p>
-....نحن لا ملائكةُ ولا أنبياء بل نفرُ مِن فُقراء أُمَّة مُحمد (ص)
-فيقولون بِما نلتُم هذه الكرامة فيقُولون لم تكُن أعمالُنا شديدةً ولم
-نصُم الدَّهر ولم نقُم اللَّيل ولكن أقمنا على الصَّلوات الخمس وإذا
-سَمِعنا ذِكر مُحمدٍ (ص) فاضَت دُموعنا على خُدودنا
-  </p>
-</blockquote>
+> ....نحن لا ملائكةُ ولا أنبياء بل نفرُ مِن فُقراء أُمَّة مُحمد (ص)
+> فيقولون بِما نلتُم هذه الكرامة فيقُولون لم تكُن أعمالُنا شديدةً ولم
+> نصُم الدَّهر ولم نقُم اللَّيل ولكن أقمنا على الصَّلوات الخمس وإذا
+> سَمِعنا ذِكر مُحمدٍ (ص) فاضَت دُموعنا على خُدودنا
 
 (On the Day of Judgment, a group would be seen in the most excellent and
 honourable of states. They would be asked if they were of the Angels or
@@ -918,18 +626,10 @@ tears would roll down our cheeks".
 
 Imam Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع):
-  </p>
-</blockquote>
+> قال الصادق (ع):
 
-<blockquote dir="rtl">
-  <p>
-ويَنظر إلى زُوَّرهِ وهو أعرفُ بِهم وبأسمائهم وأسماء أبائهم ودرجاتِهم
-ومنزلتِهم عند الله عزَّ وجلَّ مِن أحدكم بولدِه
-  </p>
-</blockquote>
+> ويَنظر إلى زُوَّرهِ وهو أعرفُ بِهم وبأسمائهم وأسماء أبائهم ودرجاتِهم
+> ومنزلتِهم عند الله عزَّ وجلَّ مِن أحدكم بولدِه
 
 He (Imam Husayn) sees those, who come to his shrine and he knows them by
 their names, their father's names and their ranks in the eyes of Allah,
@@ -942,19 +642,11 @@ The Mighty, The Glorious, better than you know your own children!
 
 Imam A'li (A.S.) said to Ibn A'bbas:
 
-<blockquote dir="rtl">
-  <p>
-قال عليٌّ (ع) لإبن عبَّاس:
-  </p>
-</blockquote>
+> قال عليٌّ (ع) لإبن عبَّاس:
 
-<blockquote dir="rtl">
-  <p>
-فجلس عيِسىَ وجلس الحوارِيُّون معه فبكى وبكى الحَواريُّون وهُم لا يدرون
-لِمَ جلس ولِمَ بكى فقالوا يا رُوحَ الله وكلمته ما يُبكيكَ قال أتعلمون
-أيَّ أرضٍ هذه قالوا لا قال هذه أرضُ يُقتل فيها فرخُ الرَّسول أحمد (ص)
-  </p>
-</blockquote>
+> فجلس عيِسىَ وجلس الحوارِيُّون معه فبكى وبكى الحَواريُّون وهُم لا يدرون
+> لِمَ جلس ولِمَ بكى فقالوا يا رُوحَ الله وكلمته ما يُبكيكَ قال أتعلمون
+> أيَّ أرضٍ هذه قالوا لا قال هذه أرضُ يُقتل فيها فرخُ الرَّسول أحمد (ص)
 
 (Once when he happened to pass by Karbala’), Isa (A.S.) sat down and
 began to weep. His disciples who were observing him, followed suit and
@@ -971,21 +663,12 @@ Ahmad (S) shall be killed.
 
 Abu Baseer narrates that Imam Baqir (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي بصير عن أبي جعفر قال:
-  </p>
-</blockquote>
+> عن أبي بصير عن أبي جعفر قال:
 
-<blockquote dir="rtl">
-  <p>
-بَكت الإنس والجِنُّ والطَّيرُ والوَحشُ على الحُسين بن عليُّ (ع)
-  </p>
-</blockquote>
+> بَكت الإنس والجِنُّ والطَّيرُ والوَحشُ على الحُسين بن عليُّ (ع)
 
 The humans, the jinn, the birds and the wild beasts (all) mourned and
 wept over (the tragedy which befell) Husayn Ibn A'li (A.S.)
 
 *Kaamil al‑Ziyaaraat*, pg. 79.
-
 

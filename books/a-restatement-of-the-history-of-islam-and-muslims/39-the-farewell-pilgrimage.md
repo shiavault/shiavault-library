@@ -138,4 +138,3 @@ revealed, which he (Mohammed) received as an announcement of approaching
 death. *(Introduction to the translation of Holy Qur’an, Lahore,
 Pakistan, 1975)*
 
-

@@ -17,12 +17,8 @@ tongue and praying for His Eminence is a way of helping by the tongue.
 That which proves this also is that which is mentioned under the
 exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَا
-  </p>
-</blockquote>
+> وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
+> رُدُّوهَا
 
 ***“And when you are greeted with a greeting, greet with a better
 (greeting) than it or return it.” (Qur’an, Surah Nisa 4:86)***
@@ -98,5 +94,4 @@ that enable the acceptance of our *Dua*.
 
 [^3]: Kharaij; Chapter 11, Regarding the Miracles of Imam Ali bin
 Muhammad al-Hadi (as).
-
 

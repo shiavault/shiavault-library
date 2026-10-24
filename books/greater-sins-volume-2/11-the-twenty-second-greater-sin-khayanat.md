@@ -1102,4 +1102,3 @@ stealing it is absolutely Harām.
 
 [^20]: Bihār al-Anwār
 
-

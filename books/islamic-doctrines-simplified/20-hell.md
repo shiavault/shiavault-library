@@ -33,4 +33,3 @@ Surely, the dwellers of Hell will cry out from the intense punishment
 but will find none to help. There is no escape and instead it will be
 said to them: 'Fie! You have no right to say a word.'
 
-

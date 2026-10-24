@@ -241,4 +241,3 @@ with tenderness, symmetry of disposition, and inflexible integrity. His
 greatest legacy to the world of Islam will remain forever his sublime
 character.
 
-

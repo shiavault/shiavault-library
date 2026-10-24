@@ -326,4 +326,3 @@ Call for blessings on him and salute him with a good salutation'
 
 [^22]: Kohl, p.78.
 
-

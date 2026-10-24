@@ -66,4 +66,3 @@ duty, nor Allah sent any messages for him, nor any instructions.
 6. Consequently, the prophets are like leading lights for mankind,
 acting as reformers.
 
-

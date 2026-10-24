@@ -4,17 +4,9 @@ Sermon 189: One belief is that which is firm and steadfast in hearts….
 *Steadfast and transient belief and the obligation of migration
 (hijrah)*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبته (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبته (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في الايمان ووجوب الهجرة
-  </p>
-</blockquote>
+> في الايمان ووجوب الهجرة
 
 One belief is that which is firm and steadfast in hearts, and one is
 that which remains temporarily in the heart and the breast up to a
@@ -22,23 +14,15 @@ certain time. If you were to acquit (yourself) before any person, you
 should wait till death approaches him, for that is the time limit for
 being acquitted.
 
-<blockquote dir="rtl">
-  <p>
-فَمِنَ الاْيمَانِ مَا يَكُونُ ثَابِتاً مُسْتَقِرّاً فِي الْقُلُوبِ،
-وَمِنْهُ مَا يَكُونُ عَوَارِىَ بَيْنَ الْقُلُوبِ وَالصُّدورِ، إِلَى
-أَجَل مَعْلُوم، فَإِذَا كَانَتْ لَكُمْ بَرَاءَةٌ مِنْ أَحَد فَقِفُوهُ
-حَتّى يَحْضُرَهُ الْمَوْتُ، فَعِنْدَ ذَلِكَ يَقَعُ حدُّ الْبَرَاءَةِ.
-  </p>
-</blockquote>
+> فَمِنَ الاْيمَانِ مَا يَكُونُ ثَابِتاً مُسْتَقِرّاً فِي الْقُلُوبِ،
+> وَمِنْهُ مَا يَكُونُ عَوَارِىَ بَيْنَ الْقُلُوبِ وَالصُّدورِ، إِلَى
+> أَجَل مَعْلُوم، فَإِذَا كَانَتْ لَكُمْ بَرَاءَةٌ مِنْ أَحَد فَقِفُوهُ
+> حَتّى يَحْضُرَهُ الْمَوْتُ، فَعِنْدَ ذَلِكَ يَقَعُ حدُّ الْبَرَاءَةِ.
 
 The obligation of migration
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وجوب الهجرة
-  </p>
-</blockquote>
+> وجوب الهجرة
 
 And migration stands as its original position. Allah has no need towards
 him who secretly accepts belief or him who openly does so. Migration
@@ -49,61 +33,41 @@ therefore free from the obligation of migration) does not apply to him
 to whom the proof (of Allah) reaches and who hears it and his heart
 preserves it. [^1]
 
-<blockquote dir="rtl">
-  <p>
-وَالْهِجْرَةُ قَائِمَةٌ عَلَى حَدِّهَا الاْوَّلِ، مَا كَانَ لله تعالى
-فِي أَهْلِ الاْرْضِ حَاجَةٌ مِنْ مُسْتَسِرِّ الاْمَّةِ وَمُعْلِنِهَا،
-لاَ يَقَعُ اسْمُ الْهِجْرَةِ عَلَى أَحَد إلاَّ بِمَعْرِفَةِ الْحُجَّةِ
-في الاْرْضِ، فَمَنْ عَرَفَهَا وَأَقَرَّ بِهَا فَهُوَ مُهَاجِرٌ، وَلاَ
-يَقَعُ اسْمُ الاسْتِضْعَافِ عَلَى مَنْ بَلَغَتْهُ الْحُجَّةُ
-فَسَمِعَتْهَا أُذُنُهُ وَوَعَاهَا قَلْبُهُ.
-  </p>
-</blockquote>
+> وَالْهِجْرَةُ قَائِمَةٌ عَلَى حَدِّهَا الاْوَّلِ، مَا كَانَ لله تعالى
+> فِي أَهْلِ الاْرْضِ حَاجَةٌ مِنْ مُسْتَسِرِّ الاْمَّةِ وَمُعْلِنِهَا،
+> لاَ يَقَعُ اسْمُ الْهِجْرَةِ عَلَى أَحَد إلاَّ بِمَعْرِفَةِ الْحُجَّةِ
+> في الاْرْضِ، فَمَنْ عَرَفَهَا وَأَقَرَّ بِهَا فَهُوَ مُهَاجِرٌ، وَلاَ
+> يَقَعُ اسْمُ الاسْتِضْعَافِ عَلَى مَنْ بَلَغَتْهُ الْحُجَّةُ
+> فَسَمِعَتْهَا أُذُنُهُ وَوَعَاهَا قَلْبُهُ.
 
 Arduousness of belief
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-صعوبة الايمان
-  </p>
-</blockquote>
+> صعوبة الايمان
 
 Certainly, our case is difficult and complicated. No one can bear it
 except a believer whose heart Allah has tried with belief. Our
 traditions will not be preserved except by trustworthy hearts and (men
 of) solid understanding.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَمْرَنا صَعْبٌ مُسْتَصْعَبٌ، لاَ يَحْتَمِلُهُ إِلاَّ عَبْدٌ
-مُؤْمِنٌ امْتَحَنَ اللهُ قَلْبَهُ لِلاِيمَانِ، وَلاَ يَعِي حَدِيثَنَا
-إِلاَّ صُدُورٌ أَمِينَةٌ، وَأَحْلاَمٌ رَزِينَةٌ.
-  </p>
-</blockquote>
+> إِنَّ أَمْرَنا صَعْبٌ مُسْتَصْعَبٌ، لاَ يَحْتَمِلُهُ إِلاَّ عَبْدٌ
+> مُؤْمِنٌ امْتَحَنَ اللهُ قَلْبَهُ لِلاِيمَانِ، وَلاَ يَعِي حَدِيثَنَا
+> إِلاَّ صُدُورٌ أَمِينَةٌ، وَأَحْلاَمٌ رَزِينَةٌ.
 
 The knowledge of the successor (wasi), his challenge "Ask me before you miss me" and prophecy about the Umayyads
 ----------------------------------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-علم الوصي
-  </p>
-</blockquote>
+> علم الوصي
 
 O people! Ask me before you lose me, because certainly I am acquainted
 with the passages of the sky more than the passages of the earth,[^2]
 and before that mischief springs upon its feet which would trample even
 the nosestring and destroy the wits of the people.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، سَلُوني قَبْلَ أَنْ تَفْقِدُوني، فَلاَنَا بِطُرُقِ
-السَّماءِ أَعْلَمُ مِنِّي بِطُرُقِ الاْرْضِ، قَبْلَ أَنْ تَشْغَرَ
-بِرِجْلِهَا فِتْنَةٌ تَطَأُ فِي خِطَامِهَا وَتَذْهَبُ بِأَحْلاَمِ
-قَوْمِهَا.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، سَلُوني قَبْلَ أَنْ تَفْقِدُوني، فَلاَنَا بِطُرُقِ
+> السَّماءِ أَعْلَمُ مِنِّي بِطُرُقِ الاْرْضِ، قَبْلَ أَنْ تَشْغَرَ
+> بِرِجْلِهَا فِتْنَةٌ تَطَأُ فِي خِطَامِهَا وَتَذْهَبُ بِأَحْلاَمِ
+> قَوْمِهَا.
 
 Alternative Sources for Sermon 189
 ----------------------------------
@@ -205,5 +169,4 @@ and those who made such a claim had to face only disgrace and humility.
 About the prophecies made by Amir al-mu'minin see Ibn Abi'l-Hadid, Sharh
 Nahjul Balaghah, vol. 7, pp. 47-51; al-Qadi Nuru'l-Lah al-Mar\`ashi,
 Ihqaq al-haqq (New ed.), vol. 8, pp. 87-182.
-
 

@@ -112,4 +112,3 @@ day, to the prisoners belonging to Ahlul Bayt:
 between you and him he would not have treated you in this manner and
 would not have sent you to Syria in this terrible plight".
 
-

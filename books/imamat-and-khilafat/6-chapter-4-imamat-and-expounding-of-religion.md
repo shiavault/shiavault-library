@@ -283,4 +283,3 @@ Prophet, similarly the authentic expounding of religion also has come to
 an end. Now there is nothing except what is deduced and inferred from
 the Qur'an and the Prophetic traditions.
 
-

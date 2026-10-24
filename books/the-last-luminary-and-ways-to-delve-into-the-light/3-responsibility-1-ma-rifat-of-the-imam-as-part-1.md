@@ -15,12 +15,8 @@ us to have a ma’rifah of our Imam (as).
 It has been related from Imam Ja’far b. Muhammad as-Sadiq (as) that the
 Prophet of Allah said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَ لَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيـتَةً
-جَاهِلِـيَّةً
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَ لَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيـتَةً
+> جَاهِلِـيَّةً
 
 “One who dies while he does not have ma’rifah of the Imam (as) of his
 time, dies the death of Jahiliyyah (the period of Ignorance before the
@@ -29,16 +25,12 @@ time of the Prophet (saws))”[^1]
 In another tradition, this one from the eleventh Imam, Hasan ‘Ali
 al-’Askari (as), it is mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّ الأَرْضَ لاَ تَخْلُو مِنْ حُجَّةِ اللٌّهِ عَلـى خَلْقِهِ وَ
-أَنَّ مَنْ مَاتَ وَ لَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيـتَةً
-جَاهِلِيَّةً فَقَالَ: إِنَّ هٌذَا حَقٌّ كَمَا أَنَّ النَّارَ حَقٌّ
-فَقِيلَ: يَا ابْنَ رَسُولِ اللٌّهِ فَمَنِ الْحُجَّةُ وَ الإِمَامُ
-بَعْدَكَ؟ فَقَالَ: إِبْـنِـي مُحَمَّدٌ هُوَ الإِمَامُ وَ الْحُجَّةُ
-بَعْدِي فَمَنْ مَاتَ وَ لَمْ يَعْرِفْهُ مَاتَ مِيـتَةً جَاهِلِيَّةً
-  </p>
-</blockquote>
+> أَنَّ الأَرْضَ لاَ تَخْلُو مِنْ حُجَّةِ اللٌّهِ عَلـى خَلْقِهِ وَ
+> أَنَّ مَنْ مَاتَ وَ لَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيـتَةً
+> جَاهِلِيَّةً فَقَالَ: إِنَّ هٌذَا حَقٌّ كَمَا أَنَّ النَّارَ حَقٌّ
+> فَقِيلَ: يَا ابْنَ رَسُولِ اللٌّهِ فَمَنِ الْحُجَّةُ وَ الإِمَامُ
+> بَعْدَكَ؟ فَقَالَ: إِبْـنِـي مُحَمَّدٌ هُوَ الإِمَامُ وَ الْحُجَّةُ
+> بَعْدِي فَمَنْ مَاتَ وَ لَمْ يَعْرِفْهُ مَاتَ مِيـتَةً جَاهِلِيَّةً
 
 “Unquestionably, the Earth can never remain devoid of a hujjat (proof)
 of Allah over His creations. Indeed the person who dies without
@@ -160,5 +152,4 @@ sec. 46, no. 9
 better known as Ibne Abi Zainab; al-Ghaybah of Shaykh Tusi; Najm
 al-Thaqib of Shaykh Tabrisi Nuri; Kamal ad-Din wa Tamam an-Ni’mah of
 Shaykh Saduq.
-
 

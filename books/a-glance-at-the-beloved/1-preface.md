@@ -1,20 +1,12 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرَّحْمَنِ الرَّحِيمِ و صلى الله عليك يا وليّ العصر أدركنا 
-  </p>
-</blockquote>
+> بسم الله الرَّحْمَنِ الرَّحِيمِ و صلى الله عليك يا وليّ العصر أدركنا
 
 The Holy Prophet (s.a.w.s.) says,
 
-<blockquote dir="rtl">
-  <p>
-"فهؤلاء مصابيح الدجى و أئمة الهدى و أعلام التقى من أحبهم وتولاهم كنت
-ضامناً له على الله الجنة"
-  </p>
-</blockquote>
+> "فهؤلاء مصابيح الدجى و أئمة الهدى و أعلام التقى من أحبهم وتولاهم كنت
+> ضامناً له على الله الجنة"
 
 'They (Imams) are the lamps in darkness and the Imams of guidance and
 signs of piety. One who loves them and accepts their Mastership, then I
@@ -88,5 +80,4 @@ this topic in 10 parts and deal with each separately. The practical
 aspects of these 10 parts will become clear as we progress.
 
 [^1]: Bihar al-Anwar, Vol. 36, Pg. 296
-
 

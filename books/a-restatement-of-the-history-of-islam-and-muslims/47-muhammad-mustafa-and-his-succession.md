@@ -402,4 +402,3 @@ distinguish them from the government of Ali ibn Abi Talib which was
 *not* a product of Saqifa. Ali's government was the (restored) Kingdom
 of Heaven on Earth.
 
-

@@ -206,4 +206,3 @@ must be very careful in selecting such a person. The most important
 condition is that he/she besides being trustworthy must also be a Muslim
 who will raise the children according to the teachings of Islam.
 
-

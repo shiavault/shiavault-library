@@ -74,20 +74,12 @@ follow the manners approved by him you would able to earn his love and
 blessings. And if you are from those who are unaware and aloof of that
 leader, it is regretful. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا
-وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ قَالَ رَبِّ لِمَ حَشَرْتَنِي
-أَعْمَىٰ وَقَدْ كُنْتُ بَصِيرًا.
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا
+> وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ قَالَ رَبِّ لِمَ حَشَرْتَنِي
+> أَعْمَىٰ وَقَدْ كُنْتُ بَصِيرًا.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ
-الْيَوْمَ تُنْسَىٰ
-  </p>
-</blockquote>
+> قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ
+> الْيَوْمَ تُنْسَىٰ
 
 ***And whoever turns away from My reminder, his shall be a straitened
 life, and We will raise him on the day of resurrection, blind. He shall
@@ -104,11 +96,7 @@ neck, and this cannot be achieved except if you keep up the remembrance
 of your master in the world and the hereafter as the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
 
 ***(Remember) the day when We will call every people with their Imam.
 (Qur’an, Surah Isra 17:71)***
@@ -123,12 +111,8 @@ it is a divine bounty that Allah has bestowed you with through the
 Barakat of your master. And be thankful to Allah for that and gift it to
 the Imam of the Time (aj) and say verbally and with your heart:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا
-بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا
+> بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا
 
 ***O chief! distress has afflicted us and our family and we have brought
 scanty money, so give us full measure and be charitable to us; surely
@@ -158,11 +142,7 @@ Allah as he is only the intermediary with God and he is the door of
 Allah through which He must be approached. Allah, the Mighty and Sublime
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا
-  </p>
-</blockquote>
+> وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا
 
 ***And go into the houses by their doors. (Qur’an, Surah Baqarah
 2:189)***
@@ -203,5 +183,4 @@ deviations; He is proximate and the hearer of prayers.
 [^1]: Kamaluddin, Vol. 1, Pg. 302, Chapter 26, Tr. no. 11
 
 [^2]: Usool Kafi, Vol. 1, Pg. 339
-
 

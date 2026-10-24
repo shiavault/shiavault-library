@@ -412,4 +412,3 @@ also Sunan by Ibn Majah, Kitab al-Fitan, Sakhr serial no. 4076.
 [^8]: Sahih by Muslim, Kitab al-Iman, Sakhr serial no. 225 and Musnad by
 Ahmad, Baqi Musnad al-Mukthirin, Sakhr serial no. 14193 & 14595.
 
-

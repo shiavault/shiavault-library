@@ -1,14 +1,10 @@
 Chapter 9: O Aba ‘Abdillah…
 ===========================
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللَّهِ لَقَدْ عَظُمَتِ الرَّزِيَّةُ وَجَلَّتْ
-وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنَا وَعَلَى جَمِيعِ أَهْلِ
-الإِسْلامِ وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى
-جَمِيعِ أَهْلِ السَّمَاوَاتِ
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللَّهِ لَقَدْ عَظُمَتِ الرَّزِيَّةُ وَجَلَّتْ
+> وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنَا وَعَلَى جَمِيعِ أَهْلِ
+> الإِسْلامِ وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى
+> جَمِيعِ أَهْلِ السَّمَاوَاتِ
 
 O Aba ‘Abdillah, I swear by Allah, the loss is great; and the calamity
 on us and all the enthusiasts of Islam because of what befell you is
@@ -18,11 +14,7 @@ the inhabitants of the heavens in the heavens as great and severe.
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللَّهِ...
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللَّهِ...
 
 O utterly obedient servant of Allah...
 
@@ -49,11 +41,7 @@ with Aba ‘Abdillah al-Husayn (AS). When such an encounter is made
 possible, the heart breaks and the rivers of tears flow and the believer
 melts down before *al-witr al-mawtur*.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللَّهِ لَقَدْ عَظُمَتِ الرَّزِيَّةُ
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللَّهِ لَقَدْ عَظُمَتِ الرَّزِيَّةُ
 
 O utterly obedient servant of Allah, by Allah, the loss is great.
 
@@ -63,11 +51,7 @@ of sorrow for what befell on Imam al-Husayn (AS). Al-Kashani supporting
 this view says, “*Juddida nida’uhu litajdid al-huzn...*”[^1] (calling
 the Imam was renewed due the renewal of sorrow...).
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ عَظُمَتِ الرَّزِيَّةُ
-  </p>
-</blockquote>
+> لَقَدْ عَظُمَتِ الرَّزِيَّةُ
 
 By Allah, the loss is great.
 
@@ -94,13 +78,9 @@ from there. ‘Abdullah bin ‘Abbas in reference to the impediment that
 hampered the Holy Prophet (S) to write down the important direction,
 would employ the word *raziyya* and say:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الرَّزِيَّةَ كُلَّ الرَّزِيَّة مَا حَالَ بَيْنَ رَسُوْلِ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَبَيْنَ أَنْ يَكْتُبَ لَهُمْ ذَلِكَ
-الْكِتَابُ...
-  </p>
-</blockquote>
+> إِنَّ الرَّزِيَّةَ كُلَّ الرَّزِيَّة مَا حَالَ بَيْنَ رَسُوْلِ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَبَيْنَ أَنْ يَكْتُبَ لَهُمْ ذَلِكَ
+> الْكِتَابُ...
 
 Surely the calamity, a total calamity hindered the Messenger of Allah
 from writing for them that testament..[^3]
@@ -109,11 +89,7 @@ The verb رَزَءَ *raza’a* or *razi’a* literally means ‘he lessened’
 ‘he diminished’[^4]. Al-Firuzabadi in his *al-Qamus al-Muhit*, giving an
 example of how this verb is used, says:
 
-<blockquote dir="rtl">
-  <p>
-مَا رَزِئْتُهُ بِْالْكَسْرِ مَا نَقَصْتُهُ
-  </p>
-</blockquote>
+> مَا رَزِئْتُهُ بِْالْكَسْرِ مَا نَقَصْتُهُ
 
 *Ma razi’tuhu* means I have not lessened[^5]
 
@@ -127,12 +103,8 @@ earth. Only those who comprehend the greatness of such a Divine leader
 can tangibly feel the loss. Amir al-mu’minin ‘Ali (AS) says in a
 meaningful tradition:
 
-<blockquote dir="rtl">
-  <p>
-فَكُلَّمَا عَظُمَ قَدْرُ الشَّيْ‏ءِ الْمُتَنَافَسِ فِيهِ عَظُمَتِ
-الرَّزِيَّةُ لِفَقْدِه
-  </p>
-</blockquote>
+> فَكُلَّمَا عَظُمَ قَدْرُ الشَّيْ‏ءِ الْمُتَنَافَسِ فِيهِ عَظُمَتِ
+> الرَّزِيَّةُ لِفَقْدِه
 
 ...so, the greater the value of the envied entity the greater the
 calamity of its loss.
@@ -145,15 +117,11 @@ sanctity was violated leave such wounds in the hearts of his lovers that
 make them tearful forever. Ibrahim bin Abi Mahmud narrates from Imam
 al-Ridha\` (AS):
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ يَوْمَ الْحُسَيْنِ اَقْرَحَ جُفُوْنَنَا وَاَسْبَلَ دُمُوْعَنَا
-وَاَذَلَّ عَزِيْزَنَا، بِاَرْضِ كَرْبٍ وَبَلاَءٍ، وَاَوْرَثَتْنَا
-الْكَرْبُ وَالْبَلاَءُ اِلى يَوْمِ الانْقِضَاءِ، فَعَلَى مِثْلِ
-الْحُسَيْنِ فَلْيَبْكِ الْبَاكُوْنَ، فَاِنَّ الْبُكَاءَ عَلَيْهِ يَحُط
-الذُّنُوْبَ الْعِظَامَ
-  </p>
-</blockquote>
+> اِنَّ يَوْمَ الْحُسَيْنِ اَقْرَحَ جُفُوْنَنَا وَاَسْبَلَ دُمُوْعَنَا
+> وَاَذَلَّ عَزِيْزَنَا، بِاَرْضِ كَرْبٍ وَبَلاَءٍ، وَاَوْرَثَتْنَا
+> الْكَرْبُ وَالْبَلاَءُ اِلى يَوْمِ الانْقِضَاءِ، فَعَلَى مِثْلِ
+> الْحُسَيْنِ فَلْيَبْكِ الْبَاكُوْنَ، فَاِنَّ الْبُكَاءَ عَلَيْهِ يَحُط
+> الذُّنُوْبَ الْعِظَامَ
 
 Surely the day of al-Husayn wounded our eyes and made our tears pour
 down and dishonored our venerated ones in the land of sorrow and
@@ -165,16 +133,12 @@ likes of al-Husayn, for surely weeping over him wipes out major sins
 Imam al-Mahdi (AS) in his well-known *Ziyarat al-Nahiya* addressing Imam
 al-Husayn (AS) cries:
 
-<blockquote dir="rtl">
-  <p>
-فَلَئِنْ اَخَّرَتْنِي الدُّهُوُرُ،وَعَاقَنِيْ عَنْ نَصْرِكَ
-الْمَقْدُوْرُ،وَلَمْ اَكُنْ لِمَنْ حَارَبَكَ مُحَارِبًا، وَلِمَنْ
-نَصَبَ لَكَ الْعَدَاوَةَ مُنَاصِبًا، فَلأنْدُبَنَّكَ صَبَاحًا
-وَمَسَاءً، وَلاَبْكِيَنَّ عَلَيْكَ بَدَلَ الدّمُوْعِ دَمًا، حَسْرَةً
-عَلَيْكَ وَتَأسُّفًا عَلَى مَا دَهَاكَ وَتَلَهُّفًا، حَتَّى اَمُوْتَ
-بِلَوْعَةِ الْمُصَابِ وَغُصَّةِ الاكْتِيَابِ
-  </p>
-</blockquote>
+> فَلَئِنْ اَخَّرَتْنِي الدُّهُوُرُ،وَعَاقَنِيْ عَنْ نَصْرِكَ
+> الْمَقْدُوْرُ،وَلَمْ اَكُنْ لِمَنْ حَارَبَكَ مُحَارِبًا، وَلِمَنْ
+> نَصَبَ لَكَ الْعَدَاوَةَ مُنَاصِبًا، فَلأنْدُبَنَّكَ صَبَاحًا
+> وَمَسَاءً، وَلاَبْكِيَنَّ عَلَيْكَ بَدَلَ الدّمُوْعِ دَمًا، حَسْرَةً
+> عَلَيْكَ وَتَأسُّفًا عَلَى مَا دَهَاكَ وَتَلَهُّفًا، حَتَّى اَمُوْتَ
+> بِلَوْعَةِ الْمُصَابِ وَغُصَّةِ الاكْتِيَابِ
 
 But as I have been hindered by the course of time and as (Allah’s)
 decree has prevented me from helping you, and as I could not fight those
@@ -184,11 +148,7 @@ will weep blood in place of tears, out of my anguish for you and my
 sorrow for all that befell you, until I meet death from the pain of the
 catastrophe and the choking grief.[^7]
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ عَظُمَتِ الرَّزِيَّةُ
-  </p>
-</blockquote>
+> لَقَدْ عَظُمَتِ الرَّزِيَّةُ
 
 By Allah, the loss is great.
 
@@ -209,13 +169,9 @@ undertake this sacred journey and meet the calamities with open arms.
 Imam al-Husayn (AS) made it very clear to them when he resolved to
 embark on his journey to ‘Iraq that martyrdom is what awaits him:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ فِيْنَا بَاذِلاً مُهْجَتَهُ، مُوَطنًا عًلى لِقَاءِ اللهِ
-نَفْسَهُ فَلْيَرْحَلْ مَعَنَا فَإِنّيْ رَاحِلٌ مُصْبِحًا إِنْ شَاءَ
-اللهُ تَعَالى...
-  </p>
-</blockquote>
+> مَنْ كَانَ فِيْنَا بَاذِلاً مُهْجَتَهُ، مُوَطنًا عًلى لِقَاءِ اللهِ
+> نَفْسَهُ فَلْيَرْحَلْ مَعَنَا فَإِنّيْ رَاحِلٌ مُصْبِحًا إِنْ شَاءَ
+> اللهُ تَعَالى...
 
 Whosoever is ready to sacrifice his soul for us, and has stationed
 himself for meeting Allah, he must leave with us, for surely I will
@@ -234,12 +190,8 @@ if the Imam (AS) would say ‘yes’ [to Yazid], not only would the
 difficult situation be over, but he would be saved from that place, and
 perhaps the next era would be his era...[^9]
 
-<blockquote dir="rtl">
-  <p>
-وَجَلَّتْ وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنَاوَعَلَى جَمِيعِ أَهْلِ
-الإِسْلامِ
-  </p>
-</blockquote>
+> وَجَلَّتْ وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنَاوَعَلَى جَمِيعِ أَهْلِ
+> الإِسْلامِ
 
 ...and the calamity on us and all the enthusiasts of Islam because of
 what befell on you is great and severe...
@@ -255,41 +207,25 @@ as well as sincere companions faced has enormously hurt our spirits and
 the spirit of every lover of Islam. In revealing the magnitude of the
 tragedy, Imam al-Hasan (AS) addressing his brother says:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَوْمَ كَيَوْمِكَ يَا اَبَا عَبْدِ الله
-  </p>
-</blockquote>
+> لاَ يَوْمَ كَيَوْمِكَ يَا اَبَا عَبْدِ الله
 
 There is no day like your Day O Aba ‘Abdillah.[^11]
 
 And Imam Zayn al-’Abidin (AS) in one of his sermons says:
 
-<blockquote dir="rtl">
-  <p>
-وَهَذِهِ الرَّزِيَّةُ الَّتِيْ لاَ مِثْلهَا رَزِيَّةٌ.
-  </p>
-</blockquote>
+> وَهَذِهِ الرَّزِيَّةُ الَّتِيْ لاَ مِثْلهَا رَزِيَّةٌ.
 
 ...and this is a calamity the like of which there is no calamity.[^12]
 
 And ‘Abdullah bin al-Fadhl narrates from Imam al-Sadiq (AS):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ يَوْمَ قُتِلَ الْحُسَيْنُ اَعْظَمُ مُصِيْبَةً مِنْ جَمِيْعِ
-سَائِرِ الاَيّامِ...
-  </p>
-</blockquote>
+> إِنَّ يَوْمَ قُتِلَ الْحُسَيْنُ اَعْظَمُ مُصِيْبَةً مِنْ جَمِيْعِ
+> سَائِرِ الاَيّامِ...
 
 Indeed the day of the martyrdom of al-Husayn is a day of greater
 calamity then all other days...[^13]
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى جَمِيعِ أَهْلِ الإِسْلامِ
-  </p>
-</blockquote>
+> وَعَلَى جَمِيعِ أَهْلِ الإِسْلامِ
 
 and on all the members of the enthusiasts of Islam
 
@@ -314,11 +250,7 @@ befalls him.
 In one of his counsels to his contemporary, Imam al-Baqir (AS)
 describing the Ahl al-Bayt (AS), says:
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ مَوَاضِعُ الرِّسَالَةِ وَنَحْنُ الدِّيْنُ‏...
-  </p>
-</blockquote>
+> وَنَحْنُ مَوَاضِعُ الرِّسَالَةِ وَنَحْنُ الدِّيْنُ‏...
 
 And we are the places of the Divine Message, and we are the
 Religion...[^15]
@@ -326,14 +258,10 @@ Religion...[^15]
 And in another tradition, Imam al-Sadiq (AS) informs his companion
 Dawud:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَاوُدَ نَحْنُ الصَّلاَةُ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ
-وَنَحْنُ الزَّكَاةُ وَنَحْنُ الصِّيَامُ وَنَحْنُ الْحَجُّ وَنَحْنُ
-الشَّهْرُ الْحَرَامُ وَنَحْنُ الْبَلَدُ الْحَرَامُ وَنَحْنُ كَعْبَةُ
-اللَّهِ وَنَحْنُ قِبْلَةُ اللَّه...
-  </p>
-</blockquote>
+> يَا دَاوُدَ نَحْنُ الصَّلاَةُ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ
+> وَنَحْنُ الزَّكَاةُ وَنَحْنُ الصِّيَامُ وَنَحْنُ الْحَجُّ وَنَحْنُ
+> الشَّهْرُ الْحَرَامُ وَنَحْنُ الْبَلَدُ الْحَرَامُ وَنَحْنُ كَعْبَةُ
+> اللَّهِ وَنَحْنُ قِبْلَةُ اللَّه...
 
 O Dawud, we are the prayer (*al-salat*) in the Book of Allah, the
 Invincible and Exalted, and we are the poor rate (*zakat*), and we are
@@ -346,12 +274,8 @@ These traditions inform us that the Imams of the Ahl al-Bayt (AS) were
 epitomes of religion. Therefore love for religion in the true sense is
 love for them, and vice versa.
 
-<blockquote dir="rtl">
-  <p>
-وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى جَمِيعِ
-أَهْلِ السَّمَاوَاتِ
-  </p>
-</blockquote>
+> وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى جَمِيعِ
+> أَهْلِ السَّمَاوَاتِ
 
 And the calamity that befell on you is reckoned by all the inhabitants
 of the heavens in the heavens as severe and great.
@@ -363,25 +287,17 @@ representative of Allah on earth.
 
 Imam ‘Ali bin Musa al-Ridha (AS) addressing to Ibn Shabib says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَكَتِ السَّمَاوَاتُ السَّبْعُ وَالأَرَضُونَ لِقَتْلِهِ...
-  </p>
-</blockquote>
+> وَلَقَدْ بَكَتِ السَّمَاوَاتُ السَّبْعُ وَالأَرَضُونَ لِقَتْلِهِ...
 
 Certainly, the seven heavens and earths cried because of his martyrdom
 (i.e. of al-Husayn (AS)).
 
 And Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَبَا عَبْدِ اللَّهِ الْحُسَيْنَ: لَمَّا قَضَى بَكَتْ عَلَيْهِ
-السَّمَاوَاتُ السَّبْعُ وَالأَرَضُونَ السَّبْعُ وَ مَا فِيهِنَّ وَمَا
-بَيْنَهُنَّ وَمَنْ يَنْقَلِبُ فِي الْجَنَّةِ وَالنَّارِ مِنْ خَلْقِ
-رَبِّنَا وَمَا يُرَى وَ مَا لاَ يُرَى‏
-  </p>
-</blockquote>
+> إِنَّ أَبَا عَبْدِ اللَّهِ الْحُسَيْنَ: لَمَّا قَضَى بَكَتْ عَلَيْهِ
+> السَّمَاوَاتُ السَّبْعُ وَالأَرَضُونَ السَّبْعُ وَ مَا فِيهِنَّ وَمَا
+> بَيْنَهُنَّ وَمَنْ يَنْقَلِبُ فِي الْجَنَّةِ وَالنَّارِ مِنْ خَلْقِ
+> رَبِّنَا وَمَا يُرَى وَ مَا لاَ يُرَى‏
 
 Indeed when Aba ‘Abdillah al-Husayn bin ‘Ali (AS) left this world, the
 seven heavens and the seven earths and whatever is in and between them,
@@ -402,23 +318,15 @@ elevate their noble spirits).
 Following is a verse of the Holy Qur\`an that clearly informs us about
 the possibility of the sky weeping:
 
-<blockquote dir="rtl">
-  <p>
-فَما بَكَتْ عَلَيْهِمُ السَّماءُ وَالأَرْضُ وَما كانُوا مُنْظَرينَ
-  </p>
-</blockquote>
+> فَما بَكَتْ عَلَيْهِمُ السَّماءُ وَالأَرْضُ وَما كانُوا مُنْظَرينَ
 
 ***So neither the sky wept for them, nor the earth; nor were they
 granted any respite. (44:29)***
 
 Commenting on this verse, Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ تَبْكِ السَّمَاءُ عَلىَ أَحَدٍ مُنْذُ قُتِلَ يَحْيَى بْنِ
-زَكَرِيَّا، حَتَّى قُتِلَ الْحُسَيْنُ، فَبَكَتْ عَلَيْهِ‏
-  </p>
-</blockquote>
+> لَمْ تَبْكِ السَّمَاءُ عَلىَ أَحَدٍ مُنْذُ قُتِلَ يَحْيَى بْنِ
+> زَكَرِيَّا، حَتَّى قُتِلَ الْحُسَيْنُ، فَبَكَتْ عَلَيْهِ‏
 
 The sky did not cry over anyone ever since Yahya bin Zakariyya was
 slain, until al-Husayn (AS) was slain, whereupon it cried over him.[^18]
@@ -426,13 +334,9 @@ slain, until al-Husayn (AS) was slain, whereupon it cried over him.[^18]
 And Imam Muhammad al-Baqir (AS) is reported to have said the following
 about the abovementioned verse:
 
-<blockquote dir="rtl">
-  <p>
-مَا بَكَتِ السَّماَءُ عَلىَ أَحَدٍ بَعْدَ يَحْيَى بْنَ زَكَرِيَّا،
-إِلاَّ عَلىَ الْحُسَيْنِ بْنِ عَلِيّ، فَإِنَّهَا بَكَتْ عَلَيْهِ
-أَرْبَعِيْنَ يَوْمًا
-  </p>
-</blockquote>
+> مَا بَكَتِ السَّماَءُ عَلىَ أَحَدٍ بَعْدَ يَحْيَى بْنَ زَكَرِيَّا،
+> إِلاَّ عَلىَ الْحُسَيْنِ بْنِ عَلِيّ، فَإِنَّهَا بَكَتْ عَلَيْهِ
+> أَرْبَعِيْنَ يَوْمًا
 
 The sky did not cry for anyone after Yahya bin Zakariyya save on
 al-Husayn bin ‘Ali (AS), for surely it cried over him for forty
@@ -442,12 +346,8 @@ The verse as well as the comments of the Ahl al-Bayt (AS) clearly reveal
 to us that the sky manifests sorrow and expresses its lamentation as
 well.
 
-<blockquote dir="rtl">
-  <p>
-وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى جَمِيعِ
-أَهْلِ السَّمَاوَاتِ
-  </p>
-</blockquote>
+> وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى جَمِيعِ
+> أَهْلِ السَّمَاوَاتِ
 
 And the calamity that befell on you is reckoned by all the inhabitants
 of the heavens in the heavens as severe and great.
@@ -467,14 +367,10 @@ Consider the following traditions:
 
 Imam al-Ridha (AS) tells Ibn Shabib:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَزَلَ إِلَى الأَرْضِ مِنَ الْمَلاَئِكَةِ أَرْبَعَةُ آلاَفٍ
-لِنَصْرِهِ فَوَجَدُوهُ قَدْ قُتِلَ فَهُمْ عِنْدَ قَبْرِهِ شُعْثٌ
-غُبْرٌ إِلَى أَنْ يَقُومَ الْقَائِمُ فَيَكُونُونَ مِنْ أَنْصَارِهِ
-وَشِعَارُهُمْ يَا لَثَارَاتِ الْحُسَيْنِ
-  </p>
-</blockquote>
+> وَلَقَدْ نَزَلَ إِلَى الأَرْضِ مِنَ الْمَلاَئِكَةِ أَرْبَعَةُ آلاَفٍ
+> لِنَصْرِهِ فَوَجَدُوهُ قَدْ قُتِلَ فَهُمْ عِنْدَ قَبْرِهِ شُعْثٌ
+> غُبْرٌ إِلَى أَنْ يَقُومَ الْقَائِمُ فَيَكُونُونَ مِنْ أَنْصَارِهِ
+> وَشِعَارُهُمْ يَا لَثَارَاتِ الْحُسَيْنِ
 
 Four thousand angels descended on earth to aid him, but (when they were
 allowed to reach there) they found him martyred. **So they remained at
@@ -484,13 +380,9 @@ him. Their slogan will be, ‘Vengeance for the blood of al-Husayn (AS)!’
 
 Imam al-Sadiq (AS) tells a companion called Fudhayl:
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ لاَ تَأْتُونَهُ يَعْنِي قَبْرَ الْحُسَيْنِ فَإِنَّ
-أَرْبَعَةَ آلاَفِ مَلَكٍ يَبْكُونَ عِنْدَ قَبْرِهِ إِلَى يَوْمِ
-الْقِيَامَةِ.
-  </p>
-</blockquote>
+> مَا لَكُمْ لاَ تَأْتُونَهُ يَعْنِي قَبْرَ الْحُسَيْنِ فَإِنَّ
+> أَرْبَعَةَ آلاَفِ مَلَكٍ يَبْكُونَ عِنْدَ قَبْرِهِ إِلَى يَوْمِ
+> الْقِيَامَةِ.
 
 What is the matter with you that you do not visit him [the grave of Imam
 al-Husayn (AS)]? Surely four thousand angels constantly weep near his
@@ -502,19 +394,15 @@ following conversation between Imam al-Sadiq (AS) and Abu Basir, his
 loyal companion, who had lost his physical eyesight, but was endowed
 with spiritual effulgence:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا بَصِيرٍ إِذَا نَظَرْتُ إِلَى وُلْدِ الْحُسَيْنِ أَتَانِي مَا
-لاَ أَمْلِكُهُ بِمَا أَتَى إِلَى أَبِيهِمْ وَآلِهِمْ يَا أَبَا بَصِيرٍ
-إِنَّ فَاطمَةَ لَتَبْكِيهِ وَتَشْهَقُ...فَلاَ تَزَالُ الْمَلاَئِكَةُ
-مُشْفِقِينَ يَبْكُونَ لِبُكَائِهَا وَيَدْعُونَ اللَّهَ
-وَيَتَضَرَّعُونَ إِلَيْهِ إِلَى أَنْ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ
-إِنَّ هَذَا الأَمْرَ عَظِيمٌ قَالَ غَيْرُهُ أَعْظَمُ مِنْهُ مَا لَمْ
-تَسْمَعْهُ ثُمَّ قَالَ يَا بَا بَصِيرٍ أَ مَا تُحِبُّ أَنْ تَكُونَ
-فِيمَنْ يُسْعِدُ فَاطمَةَ فَبَكَيْتُ حِينَ قَالَهَا فَمَا قَدَرْتُ
-عَلَى الْمَنْطقِ وَمَا قَدَرْتُ عَلَى كَلاَمِي مِنَ الْبُكَاءِ.
-  </p>
-</blockquote>
+> يَا أَبَا بَصِيرٍ إِذَا نَظَرْتُ إِلَى وُلْدِ الْحُسَيْنِ أَتَانِي مَا
+> لاَ أَمْلِكُهُ بِمَا أَتَى إِلَى أَبِيهِمْ وَآلِهِمْ يَا أَبَا بَصِيرٍ
+> إِنَّ فَاطمَةَ لَتَبْكِيهِ وَتَشْهَقُ...فَلاَ تَزَالُ الْمَلاَئِكَةُ
+> مُشْفِقِينَ يَبْكُونَ لِبُكَائِهَا وَيَدْعُونَ اللَّهَ
+> وَيَتَضَرَّعُونَ إِلَيْهِ إِلَى أَنْ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ
+> إِنَّ هَذَا الأَمْرَ عَظِيمٌ قَالَ غَيْرُهُ أَعْظَمُ مِنْهُ مَا لَمْ
+> تَسْمَعْهُ ثُمَّ قَالَ يَا بَا بَصِيرٍ أَ مَا تُحِبُّ أَنْ تَكُونَ
+> فِيمَنْ يُسْعِدُ فَاطمَةَ فَبَكَيْتُ حِينَ قَالَهَا فَمَا قَدَرْتُ
+> عَلَى الْمَنْطقِ وَمَا قَدَرْتُ عَلَى كَلاَمِي مِنَ الْبُكَاءِ.
 
 Imam al-Sadiq (AS) said: O Aba Basir, when I look at the progeny of
 al-Husayn (AS), I am overcome due to what happened to their father and
@@ -578,5 +466,4 @@ raza’a
 [^20]: ‘Allama Majlisi, Bihar al-Anwar, v. 45, p. 222
 
 [^21]: Shaykh al-Nuri, Mustadrak al-Wasa’il, v.10, p. 314
-
 

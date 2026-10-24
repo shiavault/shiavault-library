@@ -283,4 +283,3 @@ unity and continuity of their matter. This sort of unity and continuity
 is not incompatible with the multiplicity of forms and their generation
 and corruption.
 
-

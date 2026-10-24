@@ -711,4 +711,3 @@ into a tree. This relation is not similar to that existing between a
 plank of wood and a chair, for in this case only external factors turn
 the former into the latter.
 
-

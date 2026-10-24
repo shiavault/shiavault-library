@@ -240,4 +240,3 @@ in his al-Kabeer from Abdullah ibn Mas’ud.
 
 [^4]: Sahih al-Bukhari, vol. 6 p. 117.
 
-

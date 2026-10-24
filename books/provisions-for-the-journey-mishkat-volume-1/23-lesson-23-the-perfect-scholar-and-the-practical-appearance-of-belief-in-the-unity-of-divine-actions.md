@@ -63,11 +63,7 @@ clear reasoning so much so that they did not have any response in the
 face of his strong logic and the only option they had was to throw him
 in the fire of their wrath:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا حَرِّقُوهُ وَانْصُرُوا الهَتکُمْ إِنْ کُنْتُمْ فَاعِلِين
-  </p>
-</blockquote>
+> قَالُوا حَرِّقُوهُ وَانْصُرُوا الهَتکُمْ إِنْ کُنْتُمْ فَاعِلِين
 
 ***“They said: Burn him and help your gods, if you are going to do
 anything.”***[^2]
@@ -79,12 +75,8 @@ states:
 
 On that day, Prophet Abraham (*‘a*) only said,
 
-<blockquote dir="rtl">
-  <p>
-« يَا أَحَدُ يَا أَحَدُ يَا صَمَدُ يَا صَمَدُ يَا مَنْ لَمْ يَلِدْ
-وَلَمْ يُولَدْ وَلَمْ يَکُنْ لَهُ کُفُوًا أَحَدٌ »
-  </p>
-</blockquote>
+> « يَا أَحَدُ يَا أَحَدُ يَا صَمَدُ يَا صَمَدُ يَا مَنْ لَمْ يَلِدْ
+> وَلَمْ يُولَدْ وَلَمْ يَکُنْ لَهُ کُفُوًا أَحَدٌ »
 
 ***“O One! O One! O Refuge! O Refuge! O He who begets not, nor is He
 begotten, O He whom none is like [Him].”***
@@ -541,11 +533,7 @@ last world is not coupled with pain and tiredness. Man does not expend
 any effort to procure or derive benefit from the pleasure of the
 hereafter and not even after using it:
 
-<blockquote dir="rtl">
-  <p>
-... لاَ يَمَسُّنَا فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
-  </p>
-</blockquote>
+> ... لاَ يَمَسُّنَا فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
 
 ***“…toil shall not touch us therein nor shall fatigue therein afflict
 us.”***[^11]
@@ -554,11 +542,7 @@ The hereafter is higher than this world in regard to quality and also
 from the point of view of the length of durability of its
 everlastingness:
 
-<blockquote dir="rtl">
-  <p>
-وَالآخِرَةُ خَيْرٌ وَأَبْقَی
-  </p>
-</blockquote>
+> وَالآخِرَةُ خَيْرٌ وَأَبْقَی
 
 ***“While the hereafter is better and more lasting.”***[^12]
 
@@ -625,5 +609,4 @@ al-Iman wa al-Kufr.
 [^11]: Surat Fatir 35:35.
 
 [^12]: Surat al-A‘la 87:17.
-
 

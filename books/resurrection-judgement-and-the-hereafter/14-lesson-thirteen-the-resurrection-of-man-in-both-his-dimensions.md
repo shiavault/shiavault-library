@@ -671,4 +671,3 @@ belief in resurrection and the restoration of life to the body which is
 so strongly emphasized by the revealed religions, especially, the
 Qur'an.
 
-

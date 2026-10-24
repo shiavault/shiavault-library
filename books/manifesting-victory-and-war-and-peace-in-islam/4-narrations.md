@@ -78,4 +78,3 @@ believe that even the victory of Muslims in the battle of Khyber and the
 Oath delivered by the companions of the Holy Prophet (PBUH) were due to
 the results of the peace pact of Hodaibiyah.
 
-

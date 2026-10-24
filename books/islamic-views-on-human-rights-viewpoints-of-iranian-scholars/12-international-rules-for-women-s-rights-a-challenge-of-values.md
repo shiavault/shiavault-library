@@ -873,4 +873,3 @@ Magazine, no.4, seventh year, 1993, p.877
 
 [^49]: Katarina Tomasevski, op. cit. p.119
 
-

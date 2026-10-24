@@ -12,12 +12,8 @@ guardians of their families.
 The Almighty Allah regards men as the guardians of their families and
 states in the Holy Qur'an that:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
-بَعْضَهُمْ عَلَىٰ بَعْضٍ
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
+> بَعْضَهُمْ عَلَىٰ بَعْضٍ
 
 ***  
  "Men are the maintainers of women, because Allah has made some of them
@@ -134,13 +130,9 @@ Family love and friendship is more precious than anything else and that
 is why Allah has regarded it as one of the signs of power and a great
 blessing which mankind has been endowed with, Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
-إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
+> إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***"..And one of His signs is that He created mates for you from
 yourselves that you may find rest in them and He put between you love
@@ -1143,14 +1135,10 @@ This is why the holy religion of Islam appoints men to act as guardians
 of their families and makes them responsible for their family affairs.
 Allah states in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
-بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ
-فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ
-ۚ
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
+> بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ
+> فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ
+> ۚ
 
 ***"Men are the maintainers of women because Allah has made some of them
 to excel others and because they spend out of their property; the good
@@ -1354,13 +1342,9 @@ prescribed stages can punish her.
 
 Allah states in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي
-الْمَضَاجِعِ وَاضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا
-عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا 
-  </p>
-</blockquote>
+> وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي
+> الْمَضَاجِعِ وَاضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا
+> عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا
 
 ***"...And (as to} those on whose part you fear desertion admonish them.
 and leave them alone in the sleeping places and beat them; then if they
@@ -1495,12 +1479,8 @@ a trivial matter, and that such an allegation needs definite proof.
 
 Allah states in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ
 
 ***"*** ***O you who believe! avoid most of suspicion, for surely
 suspicion in some cases is a sin..."*** ***(49:12)***
@@ -1805,12 +1785,8 @@ and indifference towards one's family.
 
 Allah states in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ۚ
-  </p>
-</blockquote>
+> قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ۚ
 
 ***"Say to the believing men that they cast down their looks and guard
 their private parts..."*** ***(24:30).***
@@ -2385,12 +2361,8 @@ also be questioned by Allah in the next world regarding his negligence.
 
 Allah states in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
-وَقُودُهَا النَّاسُ وَالْحِجَارَةُ 
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
+> وَقُودُهَا النَّاسُ وَالْحِجَارَةُ
 
 ***"O you who believe! Save yourselves and your families from a fire
 whose fuel is men and stones..."*** ***(66:6).***
@@ -2578,24 +2550,16 @@ the female sex. They arc ashamed of having daughters and feel belittled.
 In the age of ignorance, people used to bury their baby daughters alive.
 The Holy Qur'an mentions their deeds and states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا بُشِّرَ أَحَدُهُمْ بِالْأُنْثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا
-وَهُوَ كَظِيمٌ
-  </p>
-</blockquote>
+> وَإِذَا بُشِّرَ أَحَدُهُمْ بِالْأُنْثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا
+> وَهُوَ كَظِيمٌ
 
 ***  
  "And when a daughter is announced to one of them, his face becomes
 black and he is full of wrath."*** ***( 16:58).***
 
-<blockquote dir="rtl">
-  <p>
-يَتَوَارَىٰ مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ
-عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا
-يَحْكُمُونَ
-  </p>
-</blockquote>
+> يَتَوَارَىٰ مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ
+> عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا
+> يَحْكُمُونَ
 
 ***"He hides himself from the people because of the evil of that which
 is announced to him. Shall he keep it with disgrace or bury it (alive)
@@ -2890,13 +2854,9 @@ resolved.
 
 Allah states in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ
-وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ
-بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا
-  </p>
-</blockquote>
+> وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ
+> وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ
+> بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا
 
 ***"And if you fear a breach between the two, then appoint a judge from
 his people and a judge from her people; if they both desire agreement,
@@ -3348,5 +3308,4 @@ torment for the deceased person against his sins.
 [^131]: Ibid, 7th Khurdad, 1349 Solar Hijri
 
 [^132]: Ibid, 22nd Esfand, 1350 Solar Hijri
-
 

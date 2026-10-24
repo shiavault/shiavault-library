@@ -61,7 +61,6 @@ honest, truthful and so on. This is the viewpoint of the evolutionists,
 and the Allamah's ideas lead to such a conclusion, though he does not
 say so explicitly.
 
-
 **Q: Does man have a natural inclination towards evil?**
 
 A: That is what it means. However, evil is relative, and from the
@@ -97,5 +96,4 @@ The principles which he regards as permanent are not of much relevance
 here, like the principle of necessity in general, the principle of
 employment and other similar things whose discussion will be fruitless
 here.
-
 

@@ -7,10 +7,6 @@ The scope of this book is not so vast as to include all the luminaries
 that lived during this period. Therefore we have selected some of the
 most noteworthy personalities and written about them in brief.
 
-  
-  
-  
-
 [![ back](images/back.gif)  
  Back](37.htm)
 

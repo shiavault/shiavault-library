@@ -99,4 +99,3 @@ resources. ***“O*** ***you who believe! Neither forbid the (use of) good
 (things) that Allah has allowed for you nor exceed the limits because
 Allah does*** ***not*** ***love those who exceed the limits.”*** (5:87)
 
-

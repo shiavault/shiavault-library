@@ -3,12 +3,8 @@ Lesson Fifty One: Signs of an Oppressor
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لِلظّالِمِ ثلاثُ عَلامات: يَظْلِمُ مَنَ فَوْقَهُ بِالْمَعْصِيَةِ وَ
-مَنْ دُوْنَهُ بِالْغَلَبَةِ، وَ يُظاهِرُ الْقَوْمَ الظَّلَمَةِ
-  </p>
-</blockquote>
+> لِلظّالِمِ ثلاثُ عَلامات: يَظْلِمُ مَنَ فَوْقَهُ بِالْمَعْصِيَةِ وَ
+> مَنْ دُوْنَهُ بِالْغَلَبَةِ، وَ يُظاهِرُ الْقَوْمَ الظَّلَمَةِ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ Another sign of an oppressor is that he selects his friends and
 companions from among the unjust.
 
 [^1]: Nahjul Balaghah
-
 

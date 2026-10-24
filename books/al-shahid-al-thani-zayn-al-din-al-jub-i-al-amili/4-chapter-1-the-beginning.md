@@ -508,4 +508,3 @@ long time during which he wrote a part of his biography.
 
 [^12]: Rawdat al-jannat, Vol. III, p. 363.
 
-

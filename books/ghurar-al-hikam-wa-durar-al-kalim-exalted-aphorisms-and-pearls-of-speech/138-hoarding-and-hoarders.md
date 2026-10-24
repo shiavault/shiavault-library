@@ -8,11 +8,7 @@ Hoarding And Hoarders
 excuse (i.e. Allah).
 
 > 1ـ اَلمُحْتَكِرُ البَخيْلُ جامِعٌ لِمَنْ لايَشْكُرُهُ،وَقادِمٌ عَلى
-<blockquote dir="rtl">
-  <p>
-مَنْ لايَعْذُرُهُ.
-  </p>
-</blockquote>
+> مَنْ لايَعْذُرُهُ.
 
 2. Hoarding is a vice.
 
@@ -38,5 +34,4 @@ the people by hoarding.
 7. Hoarding is the practice of the vicious.
 
 > 7ـ اَلإحْتِكارُ شِيمَةُ الفُجّارِ.
-
 

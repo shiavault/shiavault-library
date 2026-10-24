@@ -20,4 +20,3 @@ qualities of the vile.
 
 > 4ـ لادينَ لِخَدَّاع.
 
-

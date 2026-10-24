@@ -57,4 +57,3 @@ neither poetry nor prose.
  8) The mentioning of series of truths and principles that govern the
 human life, i.e. Sociology, Economics, Government, etc.
 
-

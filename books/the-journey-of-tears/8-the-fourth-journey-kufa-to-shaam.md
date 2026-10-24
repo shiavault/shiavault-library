@@ -369,4 +369,3 @@ ourselves ignorant of Quraan or Islamic way of life, is Yazid's way. To
 oppress anyone, is Yazid's way. To indulge in any un-Islamic activity,
 is Yazid's way. We can not mourn Husayn and follow Yazid!!
 
-

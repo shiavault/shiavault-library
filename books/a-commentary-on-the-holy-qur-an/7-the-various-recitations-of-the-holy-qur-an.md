@@ -46,7 +46,6 @@ ibne Abi Taleb
 7 Yazeed ibne Qeeqaa' Makhzoomi, from Abdullah ibne Abbas, who learnt
 from Ameerul Momineen Ali ibne Abi Taleb.
 
-
 **WHAT IS ISLAM?**
 
 The Islamic Way of Inviting Mankind to the Truth The following verse of
@@ -79,7 +78,6 @@ that historians have ever repeated.
 are many more of such open declarations by impartial scholars of the
 non-Muslim world who earnestly seek the truth. To quote all of them
 would need a separate volume in itself.
-
 
 **The Meaning of Deen and Maz'hab**
 
@@ -194,7 +192,6 @@ Howbeit, when the Spirit of Truth is come, he will guide you unto all
 truth for he shall not speak of himself but whatsoever he shall hear,
 that shall he speak; he will show you things to come. (St John's Gospel,
 16:13)
-
 
 **Islam: What does it Mean, and Who are the Muslims?**
 
@@ -313,5 +310,4 @@ Fur-e-deen, the articles of the practice of the faith.
 
 In the following pages I will deal only with the first, the Usool-e-
 deen, the basis of Islam.
-
 

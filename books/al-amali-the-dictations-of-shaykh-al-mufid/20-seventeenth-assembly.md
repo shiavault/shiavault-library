@@ -198,4 +198,3 @@ also."
  And may Allah bless our master Muhammad the Prophet, the unlearned, and
 his progeny.
 
-

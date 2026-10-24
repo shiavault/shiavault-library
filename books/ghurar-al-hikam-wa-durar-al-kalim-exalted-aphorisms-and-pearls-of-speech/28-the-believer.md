@@ -21,21 +21,13 @@ this world or the Hereafter].
 is for Allah, whose taking is for Allah and whose leaving is for Allah.
 
 > 4ـ اَلمُؤْمِنُ مَنْ كانَ حُبُّهلِلّهِ، وبُغْضُهلِلّهِ، وأخذُهلِلّهِ،
-<blockquote dir="rtl">
-  <p>
-وتَرْكُهُ لِلّهِ.
-  </p>
-</blockquote>
+> وتَرْكُهُ لِلّهِ.
 
 5. A believer is thankful in [times of] comfort, patient in tribulation
 and fearful in affluence.
 
 > 5ـ اَلمُؤْمِنُ شاكِرٌ فيِ السَّـرّاءِ، صابِرٌ فِي البَلاءِ، خائفٌ فِي
-<blockquote dir="rtl">
-  <p>
-الرَّخاءِ.
-  </p>
-</blockquote>
+> الرَّخاءِ.
 
 6. A believer is moderate in [times of] affluence, [and] keeps away from
 the [pleasures of this] world.
@@ -46,11 +38,7 @@ the [pleasures of this] world.
 reforms these two except thankfulness and repentance.
 
 > 7ـ اَلمُؤْمِنُ بَيْنَ نِعْمَة وخَطيئَة لا يُصلِحُهُما إلاّ الشُّكرُ
-<blockquote dir="rtl">
-  <p>
-وَالإسْتِغْفارُ.
-  </p>
-</blockquote>
+> وَالإسْتِغْفارُ.
 
 8. A believer is dignified, honourable, self-reliant, cautious and
 sorrowful.
@@ -61,11 +49,7 @@ sorrowful.
 thankful for blessings and patient in the face of tribulation.
 
 > 9ـ المُؤْمِنُ دائِمُ الذِّكرِ، كَثيرُ الفِكرِ، عَلَى النَّعماءِ
-<blockquote dir="rtl">
-  <p>
-شاكِرٌ، وَفِي البَلاءِ صابِرٌ.
-  </p>
-</blockquote>
+> شاكِرٌ، وَفِي البَلاءِ صابِرٌ.
 
 10. A believer is modest, independent, certain and pious.
 
@@ -80,21 +64,13 @@ thankful for blessings and patient in the face of tribulation.
 hoping for the mercy of his Lord.
 
 > 12ـ اَلمُؤْمِنُ حَذِرٌ مِنْ ذُنُوبِهِ أبَداً يَخافُ البَلاءَ ويَرجُو
-<blockquote dir="rtl">
-  <p>
-رَحمَةَ رَبِّهِ.
-  </p>
-</blockquote>
+> رَحمَةَ رَبِّهِ.
 
 13. To a believer, this world is his arena, action is his endeavour,
 death is his gift and Paradise is his prize.
 
 > 13ـ اَلمُؤْمِنُ الدُّنْيا مِضْمارُهُ، والعَمَلُ هِمَّتُهُ، والمَوتُ
-<blockquote dir="rtl">
-  <p>
-تُـحْفَتُهُ، والجَنَّةُ سَبْقَتُهُ.
-  </p>
-</blockquote>
+> تُـحْفَتُهُ، والجَنَّةُ سَبْقَتُهُ.
 
 14. A believer is one who has purified his heart of vileness.
 
@@ -104,11 +80,7 @@ death is his gift and Paradise is his prize.
 whose silence is much and whose actions are sincere.
 
 > 15ـ اَلمُؤْمِنُ قَريبٌ أمْرُهُ، بَعيدٌ هَمُّهُ، كَثيرٌ صَمْتُه، خالِصٌ
-<blockquote dir="rtl">
-  <p>
-عَمَلُهُ.
-  </p>
-</blockquote>
+> عَمَلُهُ.
 
 16. A believer is eager in [his] obedience [to Allah] and refrains from
 what is forbidden.
@@ -119,22 +91,14 @@ what is forbidden.
 [himself] humbler than a slave.
 
 > 17ـ اَلمُؤْمِنُ نَفْسُهُ أصْلَبُ مِنَ الصَّلْدِ، وهُوَ أذَلُّ مِنَ
-<blockquote dir="rtl">
-  <p>
-العَبْدِ.
-  </p>
-</blockquote>
+> العَبْدِ.
 
 18. When a believer observes, he takes lesson; and when he is quiet, he
 contemplates; and when he speaks, he remembers [Allah]; and when he is
 given, he is grateful; and when he undergoes hardship, he is patient.
 
 > 18ـ اَلمؤمِنُ إذا نَظَرَ اعْتَبَـرَ، وإذا سَكَتَ تَفَكَرَّ، وإذا
-<blockquote dir="rtl">
-  <p>
-تَكَلَّمَ ذَكَرَ، وَإذا اُعْطِيَ شَكَرَ، وإذَا ابْتُِليَ صَبَـرَ.
-  </p>
-</blockquote>
+> تَكَلَّمَ ذَكَرَ، وَإذا اُعْطِيَ شَكَرَ، وإذَا ابْتُِليَ صَبَـرَ.
 
 19. When a believer is admonished, he restrains himself; and when he is
 warned, he becomes cautious; and when he is shown an example, he learns
@@ -142,11 +106,7 @@ warned, he becomes cautious; and when he is shown an example, he learns
 oppressed, he forgives.
 
 > 19ـ اَلمُؤْمِنُ إذا وُعِظَ اِزْدَجَرَ، وإذا حُذِّرَ حَذِرَ، وإذا
-<blockquote dir="rtl">
-  <p>
-عُبِّرَ اِعْتَبـَرَ، وإذا ذُكِّرَ ذَكَّرَ، وإذا اُظْلِمَ غَفَرَ.
-  </p>
-</blockquote>
+> عُبِّرَ اِعْتَبـَرَ، وإذا ذُكِّرَ ذَكَّرَ، وإذا اُظْلِمَ غَفَرَ.
 
 20. The persistence of a believer is [in] his renunciation [of worldly
 pleasures], his interest is [in] his religiosity, his dignity is [in]
@@ -155,36 +115,24 @@ are many, his status is elevated and he has managed [to gain] his
 freedom and salvation.
 
 > 20ـ اَلمُؤْمِنُ دَأْبُهُ زِهادَتُهُ، وَهَمُّهُ دِيانَتُهُ، وعِزُّهُ
-<blockquote dir="rtl">
-  <p>
-قَناعَتُهُ، وجِدُّهُ لآخِرَتِهِ، قَد كَثُرَتْ حَسَناتُهُ، وعَلَتْ
-دَرَجاتُهُ، وشَارَفَ خَلاصَهُ ونَجاتَهُ.
-  </p>
-</blockquote>
+> قَناعَتُهُ، وجِدُّهُ لآخِرَتِهِ، قَد كَثُرَتْ حَسَناتُهُ، وعَلَتْ
+> دَرَجاتُهُ، وشَارَفَ خَلاصَهُ ونَجاتَهُ.
 
 21. A believer looks at this world with eyes that derive lesson, and
 consumes from it only what is necessary, and hears in it with ears of
 hatred and enmity [towards it].
 
 > 21ـ اَلمُؤمِنُ يَنْظُرُ إلَى الدُّنيا بِعَيْنِ الإعتِبارِ، ويَقْتاتُ
-<blockquote dir="rtl">
-  <p>
-فيها بِبَطْنِ الإضْطِرارِ، ويَسْمَعُ فيها بِأُذُنِ المَقْتِ
-والإبْغاضِ.
-  </p>
-</blockquote>
+> فيها بِبَطْنِ الإضْطِرارِ، ويَسْمَعُ فيها بِأُذُنِ المَقْتِ
+> والإبْغاضِ.
 
 22. The believers blame themselves and are fearful of their past
 mistakes; they detest this world, eagerly yearn for the Hereafter and
 hasten towards [acts of] obedience.
 
 > 22ـ اَلمُؤمنونَ لأنْفُسِهِمْ مُتَّهِمُونَ، ومِنْ فارِطِ زَلَلِهِمْ
-<blockquote dir="rtl">
-  <p>
-وَجِلُونَ، ولِلدُّنْيا عائِفُونَ، وإلَى الآخِرَةِ مُشْتاقُونَ، وإلَى
-الطّاعاتِ مُسارِعُونَ.
-  </p>
-</blockquote>
+> وَجِلُونَ، ولِلدُّنْيا عائِفُونَ، وإلَى الآخِرَةِ مُشْتاقُونَ، وإلَى
+> الطّاعاتِ مُسارِعُونَ.
 
 23. A believer is one who bears with the harm that people inflict [on
 him] but nobody is ever harmed by him.
@@ -196,31 +144,19 @@ his world, while the vicious is one who safeguards his world by
 [sacrificing] his Hereafter.
 
 > 24ـ اَلمُؤمِنُ مَنْ وَقى دينَهُ بِدُنْياهُ، والفاجِرُ مَنْ وَقى
-<blockquote dir="rtl">
-  <p>
-دُنْياهُ بدِينهِِ.
-  </p>
-</blockquote>
+> دُنْياهُ بدِينهِِ.
 
 25. A believer is faithful to himself and struggles against his vain
 desires and feelings.
 
 > 25ـ اَلمُؤمِنُ أمينٌ عَلى نَفْسِهِ، مُغالِبٌ (مُجاهِدٌ) لِهَواهُ
-<blockquote dir="rtl">
-  <p>
-وحِسِّهِ.
-  </p>
-</blockquote>
+> وحِسِّهِ.
 
 26. Be careful of the opinions of believers, for Allah, the Glorified,
 effectuates the truth through their tongues.
 
 > 26ـ إتَّقُوا ظُنُونَ المُؤمِنينَ، فَإنَّ اللّهَ سُبْحانَهُ أجْرَى
-<blockquote dir="rtl">
-  <p>
-الحقَّ على ألْسِنَتِهِمْ.
-  </p>
-</blockquote>
+> الحقَّ على ألْسِنَتِهِمْ.
 
 27. The most honourable of believers is the most sagacious of them.
 
@@ -230,11 +166,7 @@ effectuates the truth through their tongues.
 giving, anger and pleasure are all for [the sake of] Allah.
 
 > 28ـ أفضلُ المُؤْمِنينَ إيماناً مَنْ كانَ لِلّهِ أخذُهُ، وعَطاهُ،
-<blockquote dir="rtl">
-  <p>
-وسَخَطُهُ، وَرِضاهُ.
-  </p>
-</blockquote>
+> وسَخَطُهُ، وَرِضاهُ.
 
 29. Believers are indeed compassionate.[^1]
 
@@ -248,21 +180,13 @@ giving, anger and pleasure are all for [the sake of] Allah.
 is in his religion and his sorrow is in his heart.
 
 > 31ـ إنَّ بِشْرَ المُؤمِنِ في وَجْهِهِ، وقُوَّتَهُ في دينِهِ، وحُزْنَهُ
-<blockquote dir="rtl">
-  <p>
-في قَلْبِهِ.
-  </p>
-</blockquote>
+> في قَلْبِهِ.
 
 32. Verily a believer feels ashamed if an act which goes against his
 faith is committed by him.
 
 > 32ـ إنَّ المُؤْمِنَ لَيَسْتَحْيي إذا مَضى لَهُ عَمَلٌ في غَيرِ ما
-<blockquote dir="rtl">
-  <p>
-عُقِدَ عَلَيْهِ ايمانُهُ.
-  </p>
-</blockquote>
+> عُقِدَ عَلَيْهِ ايمانُهُ.
 
 33. The goal of a believer is Paradise.
 
@@ -277,11 +201,7 @@ the Glorified.
 obeyed his Lord and disobeyed his lower-self.
 
 > 35ـ قَدْ أحْيا عَقْلَهُ، وأماتَ شَهْوَتَهُ، وأطاعَ رَبَّهُ وعَصى
-<blockquote dir="rtl">
-  <p>
-نَفْسَهُ.
-  </p>
-</blockquote>
+> نَفْسَهُ.
 
 36. How many a believer has succeeded through patience and thinking
 positively.
@@ -296,11 +216,7 @@ positively.
 inclination towards good deeds and an aversion towards bad deeds.
 
 > 38ـ لِلْمُؤْمِنِ عَقْلٌ وَفِىٌّ، وحِلْمٌ مَرْضِيٌّ، ورَغْبَةٌ فِي
-<blockquote dir="rtl">
-  <p>
-الحَسَناتِ، وفِرارٌ مِنَ السَّيِّئاتِ.
-  </p>
-</blockquote>
+> الحَسَناتِ، وفِرارٌ مِنَ السَّيِّئاتِ.
 
 39. A believer has three times: a time for whispering to his Lord, a
 time for assessing himself (or in another narration: a time for making
@@ -308,22 +224,14 @@ arrangements for his livelihood) and a time when he freely enjoys
 himself with what is lawful and pleasant.
 
 > 39ـ لِلْمُؤْمِنِ ثلاثُ ساعات، ساعَةٌ يُناجي فيها رَبَّهُ، وساعَةٌ
-<blockquote dir="rtl">
-  <p>
-يُحاسِبُ فيها نَفْسَهُ، (وساعَةٌ يَرُمُّ فيها مَعاشَهُ) وساعَةٌ
-يُخَلّي بَينَ نَفْسِهِ ولَذَّتِها فيما يَحِلُّ ويَجْمُلُ.
-  </p>
-</blockquote>
+> يُحاسِبُ فيها نَفْسَهُ، (وساعَةٌ يَرُمُّ فيها مَعاشَهُ) وساعَةٌ
+> يُخَلّي بَينَ نَفْسِهِ ولَذَّتِها فيما يَحِلُّ ويَجْمُلُ.
 
 40. The faith of a believer is not perfected until he deems comfort to
 be a trial and affliction to be a blessing.
 
 > 40ـ لايَكْمُلُ إيمانُ المُؤْمِنِ حَتّى يَعُدَّ الرَّخاءَ فِتْنَةً،
-<blockquote dir="rtl">
-  <p>
-والبَلاءَ نِعْمَةً.
-  </p>
-</blockquote>
+> والبَلاءَ نِعْمَةً.
 
 41. A believer is never found to be envious, malevolent or miserly.
 
@@ -337,41 +245,25 @@ be a trial and affliction to be a blessing.
 crosses his mind.
 
 > 43ـ يَنْبَغي لِلْمُؤْمِنِ أنْ يَسْتَحييَ إذَا اتَّصَلَتْ لَهُ فِكْرَةٌ
-<blockquote dir="rtl">
-  <p>
-في غَيرِ طاعَة.
-  </p>
-</blockquote>
+> في غَيرِ طاعَة.
 
 44. It behoves a believer to remain obedient and to cover himself with
 piety and contentment.
 
 > 44ـ يَنْبَغي لِلْمُؤْمِنِ أنْ يَلْزَمَ الطَّاعَةَ، ويَلْتَحِفَ
-<blockquote dir="rtl">
-  <p>
-الوَرَعَ والقَناعَةَ.
-  </p>
-</blockquote>
+> الوَرَعَ والقَناعَةَ.
 
 45. A believer is tested with affliction just like the purity of gold
 and silver is tested with fire.
 
 > 45ـ يُمْتَحَنُ المُؤْمِنُ بِالبَلاءِ، كَما يُمْتَحَنُ بِالنّارِ
-<blockquote dir="rtl">
-  <p>
-اَلخِلاصُ.
-  </p>
-</blockquote>
+> اَلخِلاصُ.
 
 46. There are three signs of a believer: truthfulness, certitude and
 [having] short hopes.
 
 > 46ـ لِلْمُؤْمِنِ ثَلاثُ عَلامات: الصِّدْقُ، واليَقينُ، وقَصْرُ
-<blockquote dir="rtl">
-  <p>
-الأمَلِ.
-  </p>
-</blockquote>
+> الأمَلِ.
 
 47. A believer is never found to be anything but content.
 
@@ -393,12 +285,8 @@ would still not hate me, and if I were to bestow the whole world to a
 hypocrite to make him love me he would still not love me.
 
 > 49ـ لَو ضَرَبْتُ خَيْشُومَ المُؤْمِنِ على أنْ يُبْغِضَني ما أبْغَضَني،
-<blockquote dir="rtl">
-  <p>
-وَلَو صَبَبْتُ الدُّنيا بِجُمْلَتِها عَلَى المُنافِقِ على أنْ
-يُحِبَّني ما أحَبَّني.
-  </p>
-</blockquote>
+> وَلَو صَبَبْتُ الدُّنيا بِجُمْلَتِها عَلَى المُنافِقِ على أنْ
+> يُحِبَّني ما أحَبَّني.
 
 50. One who believes is safe.
 
@@ -444,11 +332,7 @@ concerned about what [food] will end his pangs of hunger and which of
 his two attires he will wear.
 
 > 59ـ لايَكونُ الرَّجُلُ مُؤْمِناً حتّى لايُباليَ بِماذا أسَدَّ فَوْرَةَ
-<blockquote dir="rtl">
-  <p>
-جُوعِهِ، ولابِأيِّ ثَوبَيْهِ ابْتَذَلَ.
-  </p>
-</blockquote>
+> جُوعِهِ، ولابِأيِّ ثَوبَيْهِ ابْتَذَلَ.
 
 60. The cheerfulness of a believer is in his face and his sorrow is in
 his heart. He has the broadest chest (i.e. has great patience, knowledge
@@ -460,15 +344,11 @@ going and of soft temperament. He is firmer than a hard rock but humbler
 than a slave.
 
 > 60ـ بِشْرُ المُؤْمِنِ في وَجْهِهِ، وحُزْنُهُ في قَلْبِهِ، أوْسَعُ
-<blockquote dir="rtl">
-  <p>
-شَيْء صَدْراً، وأذَلُّ شَيْء نَفْساً، يَكْرَهُ الرِّفْعةَ، ويَشْنَأُ
-السُّمْعَةَ، طَويلٌ غَمُّهُ، بَعيدٌ هَمُّهُ، كَثيرٌ صَمْتُهُ،
-مَشْغُولٌ وَقْتُهُ، صَبُورٌ شَكُورٌ، مَغْمُورٌ بِفِكْرَتِهِ، ضَنينٌ
-بِخُلَّتِهِ، سَهْلُ الخليقَةِ، لَيِّـنُ العَريكَةِ، نَفْسُهُ أصْلَبُ
-مِنَ الصُّلْدِ، وهُوَ أذَلُّ مِنَ العَبْدِ.
-  </p>
-</blockquote>
+> شَيْء صَدْراً، وأذَلُّ شَيْء نَفْساً، يَكْرَهُ الرِّفْعةَ، ويَشْنَأُ
+> السُّمْعَةَ، طَويلٌ غَمُّهُ، بَعيدٌ هَمُّهُ، كَثيرٌ صَمْتُهُ،
+> مَشْغُولٌ وَقْتُهُ، صَبُورٌ شَكُورٌ، مَغْمُورٌ بِفِكْرَتِهِ، ضَنينٌ
+> بِخُلَّتِهِ، سَهْلُ الخليقَةِ، لَيِّـنُ العَريكَةِ، نَفْسُهُ أصْلَبُ
+> مِنَ الصُّلْدِ، وهُوَ أذَلُّ مِنَ العَبْدِ.
 
 61. The beauty of a believer’s face is from the special favour of Allah
 on him.
@@ -479,11 +359,7 @@ on him.
 doubt of a hypocrite is seen in his actions.
 
 > 62ـ إنَّ المُؤْمِنَ يُرى يَقينُهُ في عَمَلِهِ وإنَّ المُنافِقَ يُرى
-<blockquote dir="rtl">
-  <p>
-شَكُّهُ في عَمَلِهِ.
-  </p>
-</blockquote>
+> شَكُّهُ في عَمَلِهِ.
 
 63. A believer is sagacious and intelligent.
 
@@ -516,11 +392,7 @@ admission.
 speech and returning trusts [to their rightful owners].
 
 > 69ـ ثَلاثٌ هُنَّ زَيْنُ المُؤْمِنِ: تَقْوَى اللّهِ، وصِدْقُ الحَديثِ،
-<blockquote dir="rtl">
-  <p>
-وأداءُ الأمانَةِ.
-  </p>
-</blockquote>
+> وأداءُ الأمانَةِ.
 
 70. The beauty of a believer is his piety.
 
@@ -535,11 +407,7 @@ sorrow is due to his sin.
 forbidden and hastening towards virtues.
 
 > 72ـ طَرْفُ المُؤْمِنِ نَزاهَتُهُ عَنِ المَحارِمِ، ومُبادِرَتُهُ إلَى
-<blockquote dir="rtl">
-  <p>
-المَكارِمِ.
-  </p>
-</blockquote>
+> المَكارِمِ.
 
 73. A believer is easy going, polite, approachable and reliable.
 
@@ -563,12 +431,8 @@ amazed and say: It is incredible how he was saved from a place where the
 best of us[^2] got corrupted.
 
 > 77ـ إذا صَعَدَتْ رُوحُ المُؤْمِنِ إلَى السَّماءِتَعَجَّبَتِ
-<blockquote dir="rtl">
-  <p>
-المَلائِكَةُ وقالَتْ عَجَباً كَيْفَ نَجا مِنْ دار فَسَدَ فيها
-خِيارُنا.
-  </p>
-</blockquote>
+> المَلائِكَةُ وقالَتْ عَجَباً كَيْفَ نَجا مِنْ دار فَسَدَ فيها
+> خِيارُنا.
 
 78. A believer is sorrowful in his thoughts [about himself], sparing in
 his friendship.
@@ -617,5 +481,4 @@ punishment of Allah].
 
 [^2]: Other copies have ‘the best of them’ – and this seems to be more
 correct.
-
 

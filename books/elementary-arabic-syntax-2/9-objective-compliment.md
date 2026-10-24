@@ -60,4 +60,3 @@ verbs that have the meaning of giving take more than one objective
 compliment. For example: **أعطیَ الغنيُّ الفقیرَ مالاً** (The rich
 person gave the poor person money.)
 
-

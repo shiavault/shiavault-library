@@ -40,7 +40,6 @@ come in future. That which is dotted into the hearts is the inspired
 kind and that which is struck against the ears is the order of the
 angel."
 
-
 **Chapter 51 : If Secrets would be kept the Imams (a.s.) can tell
 everyone what is for and against them H 690, Ch. 51, h 1**
 
@@ -70,5 +69,4 @@ al-Husayn ibn Ali (a.s.) opened it to a small degree (told a few things
 about future to his supporters just before their martyrdom)." The Imam
 (a.s.) then said, "O abu Muhammad, those people had a tie (zip) over
 their mouths."
-
 

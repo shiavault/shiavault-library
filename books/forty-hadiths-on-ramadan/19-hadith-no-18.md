@@ -11,4 +11,3 @@ you, it does so with forgiveness of sins. This is a month in which good
 deeds are multiplied and of goodness accepted.*Wasail al-Shia'h, vol.
 10, pg. 312*
 
-

@@ -1,19 +1,11 @@
 Suratul Baqarah: Verses 116 ― 117
 =================================
 
-<blockquote dir="rtl">
-  <p>
-(١١٦) وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدً۬ا‌ۗ سُبحَـٰنَهُ ۥ‌ۖ بَل لَّهُ
-ۥ مَا فِى ٱلسَّمَـٰوَٲتِ وَٱلأَرۡضِ‌ۖ كُلٌّ۬ لَّهُ ۥقَـٰنِتُونَ
-  </p>
-</blockquote>
+> (١١٦) وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدً۬ا‌ۗ سُبحَـٰنَهُ ۥ‌ۖ بَل لَّهُ
+> ۥ مَا فِى ٱلسَّمَـٰوَٲتِ وَٱلأَرۡضِ‌ۖ كُلٌّ۬ لَّهُ ۥقَـٰنِتُونَ
 
-<blockquote dir="rtl">
-  <p>
-(١١٧) بَدِيعُ ٱلسَّمَـٰوَٲتِ وَٱلأَرۡضِ‌ۖ وَإِذَا قَضَىٰٓ أَمرً۬ا
-فَإِنَّمَا يَقُولُ لَهُ ۥ كُن فَيَكُونُ
-  </p>
-</blockquote>
+> (١١٧) بَدِيعُ ٱلسَّمَـٰوَٲتِ وَٱلأَرۡضِ‌ۖ وَإِذَا قَضَىٰٓ أَمرً۬ا
+> فَإِنَّمَا يَقُولُ لَهُ ۥ كُن فَيَكُونُ
 
 ***And they say: “Allah has taken to himself a son”. Glory be to Him;
 rather, whatever is in the heavens and the earth is His; all are
@@ -168,5 +160,4 @@ self from all other beings. It follows that every thing is unique; and
 does not have any similarity or likeness to any other thing. And it is
 Allah who has given every thing its uniqueness, distinction and
 originality, as He is the Originator of the heavens and of the earth.
-
 

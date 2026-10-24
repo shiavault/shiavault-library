@@ -110,13 +110,9 @@ the Creator.
 In regard to dread and terror that prevails over the Resurrection, the
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ
-وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَی النَّاسَ سُكَاری وَمَا
-هُمْ بِسُكَاری وَلَك‍ِنَّ عَذَابَ اللهِ شَدِيدٌ
-  </p>
-</blockquote>
+> يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ
+> وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَی النَّاسَ سُكَاری وَمَا
+> هُمْ بِسُكَاری وَلَك‍ِنَّ عَذَابَ اللهِ شَدِيدٌ
 
 ***“On the day when you shall see it, every woman giving suck shall quit
 in confusion what she*** ***suckled, and every pregnant woman shall lay
@@ -221,12 +217,8 @@ of the earth would boil.”
 In the Gracious Qur’an kinds of food for the dwellers of hell are
 mentioned, amongst which is refuse [*ghislin*]:
 
-<blockquote dir="rtl">
-  <p>
-فَلَيْسَ لَهُ الْيَوْمَ هَهُنَا حَمِيمٌ \* وَلاَ طَعَامٌ إِلاَّ مِنْ
-غِسْلِينٍ
-  </p>
-</blockquote>
+> فَلَيْسَ لَهُ الْيَوْمَ هَهُنَا حَمِيمٌ \* وَلاَ طَعَامٌ إِلاَّ مِنْ
+> غِسْلِينٍ
 
 ***“Therefore, he has not today a true friend, nor any food except
 refuse.”***[^4]
@@ -273,12 +265,8 @@ Forget me not’.”
 
 Allah in the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فَيهَا زَفِيرٌ
-وَشَهِيقٌ
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فَيهَا زَفِيرٌ
+> وَشَهِيقٌ
 
 ***“So as to those who are unhappy, they shall be in the fire; for them
 shall be sighing and groaning in it.”***[^5]
@@ -342,13 +330,9 @@ servitude and obedience to Allah and by means of faith and good works
 have attained the highest human levels and in the end have got the
 capacity of ascending the spiritual realms [or celestial world]:
 
-<blockquote dir="rtl">
-  <p>
-وَبَشِّرِ الَّذِينَ آمَنُوا وَعَم‍لُوا الصَّالِحَاتِ أَنَّ لَهُمْ
-جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ... وَلَهُمْ فِيهَا
-أَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ فِيهَا خَالِدُون
-  </p>
-</blockquote>
+> وَبَشِّرِ الَّذِينَ آمَنُوا وَعَم‍لُوا الصَّالِحَاتِ أَنَّ لَهُمْ
+> جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ... وَلَهُمْ فِيهَا
+> أَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ فِيهَا خَالِدُون
 
 ***“And convey good news to those who believe and do good deeds, that
 they shall have gardens in which rivers flow…and they shall have pure
@@ -356,14 +340,10 @@ mates in them, and in them, they shall abide.”***[^7]
 
 In another verse, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ‌ جَنَّاتٍ تَجْرِي مِنْ
-تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاكِنَ طَيِّبَةً فِي
-جَنَّاتِ عَدْنٍ وَرِضْوَانٌ مِن اللهِ أَكْبَرُ ذَلِكَ هُوَ الْفَوْزُ
-الْعَظِيمُ
-  </p>
-</blockquote>
+> وَعَدَ اللهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ‌ جَنَّاتٍ تَجْرِي مِنْ
+> تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاكِنَ طَيِّبَةً فِي
+> جَنَّاتِ عَدْنٍ وَرِضْوَانٌ مِن اللهِ أَكْبَرُ ذَلِكَ هُوَ الْفَوْزُ
+> الْعَظِيمُ
 
 ***“Allah has promised to the believing men and believing women gardens,
 beneath which rivers flow, to abide in them, and goodly dwellings in
@@ -421,12 +401,8 @@ and under its auspices everything has an intellect and a conscience and
 the ability to speak; it is for this reason that even the trees and
 stones speak:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هَذِهِ‌ الْحَيَوةُ الدُّنْيا إِلاَّ لَهْوٌ وَلَعِبٌ وَإِنَّ
-الدَّارَ الآخ‍ِرَةَ لَه‍ِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا هَذِهِ‌ الْحَيَوةُ الدُّنْيا إِلاَّ لَهْوٌ وَلَعِبٌ وَإِنَّ
+> الدَّارَ الآخ‍ِرَةَ لَه‍ِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
 
 ***“And the life of this world is nothing but a sport and a play; and as
 for the next Abode; that most surely is the life—did they but
@@ -440,11 +416,7 @@ bodies of the dwellers of hell will give evidence about their crimes and
 sins, they will say, “How did you provide evidence about our works.”
 Those organs will reply thus:
 
-<blockquote dir="rtl">
-  <p>
-... أَنْطَقَنَا اللهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ...
-  </p>
-</blockquote>
+> ... أَنْطَقَنَا اللهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ...
 
 ***“…Allah who makes everything speak has made us speak…”***[^11]
 
@@ -520,5 +492,4 @@ entangled in pride, egotism, self-admiration and bigheadedness.
 [^10]: Surat al-‘Ankabut 29:64.
 
 [^11]: Surat Ha Mim (or Fussilat) 41:21.
-
 

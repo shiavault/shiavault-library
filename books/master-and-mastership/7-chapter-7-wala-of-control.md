@@ -719,4 +719,3 @@ Islam has laid the greatest stress on Wilayat.[^4]
 
 [^4]: Al-Wasail al-Shi'ah, Vol. 1, p. 4.
 
-

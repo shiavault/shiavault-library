@@ -70,112 +70,39 @@ O most merciful.
 
 O Allah, bless Muhammad and his family, the purified ones.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد وأل محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد وأل محمد
 
-<blockquote dir="rtl">
-  <p>
-إلهي وقف السائلون ببابك
-  </p>
-</blockquote>
+> إلهي وقف السائلون ببابك
 
-<blockquote dir="rtl">
-  <p>
-ولاذ الفقراء بجنابك
-  </p>
-</blockquote>
+> ولاذ الفقراء بجنابك
 
-<blockquote dir="rtl">
-  <p>
-ووقفت سفينة المساكين على ساحل
-  </p>
-</blockquote>
+> ووقفت سفينة المساكين على ساحل
 
-<blockquote dir="rtl">
-  <p>
-بحر جودك وكرمك
-  </p>
-</blockquote>
+> بحر جودك وكرمك
 
-<blockquote dir="rtl">
-  <p>
-يرجون الجواز إلى ساحة رحمتك ونعمتك
-  </p>
-</blockquote>
+> يرجون الجواز إلى ساحة رحمتك ونعمتك
 
-<blockquote dir="rtl">
-  <p>
-إلهي إن كنت لا ترحم في هذا الشهر الشريف
-  </p>
-</blockquote>
+> إلهي إن كنت لا ترحم في هذا الشهر الشريف
 
-<blockquote dir="rtl">
-  <p>
-إلا لمن اخلص لك في صيامه وقيامه
-  </p>
-</blockquote>
+> إلا لمن اخلص لك في صيامه وقيامه
 
-<blockquote dir="rtl">
-  <p>
-فمن للمذنب المقصر
-  </p>
-</blockquote>
+> فمن للمذنب المقصر
 
-<blockquote dir="rtl">
-  <p>
-إذا غرق في بحر ذنوبه واثامه
-  </p>
-</blockquote>
+> إذا غرق في بحر ذنوبه واثامه
 
-<blockquote dir="rtl">
-  <p>
-إلهي إن كنت لا ترحم إلا المطيعين فمن للعاصين
-  </p>
-</blockquote>
+> إلهي إن كنت لا ترحم إلا المطيعين فمن للعاصين
 
-<blockquote dir="rtl">
-  <p>
-وإن كنت لا تقبل إلا من العاملين ، فمن للمُقصرين
-  </p>
-</blockquote>
+> وإن كنت لا تقبل إلا من العاملين ، فمن للمُقصرين
 
-<blockquote dir="rtl">
-  <p>
-إلهي ربح الصائمون وفاز القائمون
-  </p>
-</blockquote>
+> إلهي ربح الصائمون وفاز القائمون
 
-<blockquote dir="rtl">
-  <p>
-ونجى المُخلصون ، ونحن عبيدك المُذنبون
-  </p>
-</blockquote>
+> ونجى المُخلصون ، ونحن عبيدك المُذنبون
 
-<blockquote dir="rtl">
-  <p>
-فارحمنا برحمتك واعتقنا من النار بعفوك يا كريم
-  </p>
-</blockquote>
+> فارحمنا برحمتك واعتقنا من النار بعفوك يا كريم
 
-<blockquote dir="rtl">
-  <p>
-يا ارحم الراحمين
-  </p>
-</blockquote>
+> يا ارحم الراحمين
 
-<blockquote dir="rtl">
-  <p>
-وصلى الله على محمد وأله الطاهرين
-  </p>
-</blockquote>
-
+> وصلى الله على محمد وأله الطاهرين
 

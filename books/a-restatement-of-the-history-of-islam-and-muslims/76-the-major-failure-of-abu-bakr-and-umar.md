@@ -288,4 +288,3 @@ familiar experience of its citizens. The Muslim umma has indeed paid a
 very high price for its failure to accept the plan of Muhammad, the
 Apostle of God, for transfer of authority.
 
-

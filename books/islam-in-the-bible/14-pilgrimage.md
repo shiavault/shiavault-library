@@ -82,4 +82,3 @@ early stage, and was prophesied by Jesus himself to be someday moved
 from Jerusalem to another place. In sum, Islamic pilgrimage is basically
 the same as that of the Bible.
 
-

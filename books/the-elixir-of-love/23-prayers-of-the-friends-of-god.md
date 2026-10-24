@@ -21,13 +21,9 @@ this.
 
 The Holy Prophet (s) described his joy in prayers as follows:
 
-<blockquote dir="rtl">
-  <p>
-"جعل الله جل ثناؤه قرة عيني في الصلاة، وحبب الى الصلاة كما حبب الى
-الجائع الطعام، والى الظمآن الماء، وان الجائع اذا اكل شبع، وإن الظمآن
-اذا شرب روي، وأنا لا أشبع من الصلاة"
-  </p>
-</blockquote>
+> "جعل الله جل ثناؤه قرة عيني في الصلاة، وحبب الى الصلاة كما حبب الى
+> الجائع الطعام، والى الظمآن الماء، وان الجائع اذا اكل شبع، وإن الظمآن
+> اذا شرب روي، وأنا لا أشبع من الصلاة"
 
 "Allah-Great is His Adoration-made the delight of my eyes in prayers and
 made prayers beloved to me as He made food beloved to the hungry and
@@ -53,14 +49,10 @@ To be courteous in the presence of the Almighty lord by performers of
 prayer is one of the issues that Islam has greatly stressed. Imam
 al-Sajjad (a) said in this relation:
 
-<blockquote dir="rtl">
-  <p>
-"حق الصلاة ان تعلم انها وفادة الى الله عز وجل، وانك فيها قائم بين يدي
-الله عز وجل فاذا علمت ذلك قمت مقام الذليل الحقير، الراغب الراهب،
-الراجي الخائف، المسكين المتضرع، والمعظم لمن كان بين يديه بالسكون
-والوقار، وتُقبل عليها بقلبك وتقيمها بحدودها وحقوقها"
-  </p>
-</blockquote>
+> "حق الصلاة ان تعلم انها وفادة الى الله عز وجل، وانك فيها قائم بين يدي
+> الله عز وجل فاذا علمت ذلك قمت مقام الذليل الحقير، الراغب الراهب،
+> الراجي الخائف، المسكين المتضرع، والمعظم لمن كان بين يديه بالسكون
+> والوقار، وتُقبل عليها بقلبك وتقيمها بحدودها وحقوقها"
 
 "The right accorded to prayer is that you should know prayer as entering
 the presence of Allah the Most High, and that, when saying prayer, you
@@ -97,11 +89,7 @@ The quintessence of prayer is remembering God and sincere presence of
 the performer's heart in the sacred companionship of Most Exalted God.
 Thus the Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-"لايقبل الله صلاة عبد لا يَحظر قلبه مع بدنه"
-  </p>
-</blockquote>
+> "لايقبل الله صلاة عبد لا يَحظر قلبه مع بدنه"
 
 "God would not accept the prayer of a person whose heart is not present
 with his body."[^3]
@@ -134,11 +122,7 @@ not dealing with
 Islamic traditions have greatly emphasized performing prayers at their
 due time. Imam al-Sadiq (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"فضل الوقت الأول على الآخر كفضل الآخرة على الدنيا"
-  </p>
-</blockquote>
+> "فضل الوقت الأول على الآخر كفضل الآخرة على الدنيا"
 
 "Superiority of performing prayers at due time over performing it at the
 end of (prayer) time is like the superiority of the Hereafter to this
@@ -216,5 +200,4 @@ times.'
 
 [^7]: This Masjid was located down "Sarcheshmah Avenue". However, due to
 road expansion it was divided into two sections.
-
 

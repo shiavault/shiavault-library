@@ -130,4 +130,3 @@ the speedy penalty, I would have avoided it." The solution for this
 confusion is sought in the statement of the imām, may his shade be
 prolonged, in this regard.
 
-

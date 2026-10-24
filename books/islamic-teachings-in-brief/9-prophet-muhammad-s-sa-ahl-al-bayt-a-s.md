@@ -56,7 +56,6 @@ and deeds of the Ahl al-Bayt of the Holy Prophet (SA) are the criteria
 and bases (for following) like those of the Holy Prophet (SA) himself.
 Therefore, the beliefs of Shi'ahs are based on these facts.
 
-
 **THE EXPRESSLY STATED VIRTUES OF 'ALI (AS) AND ALL THE AHL AL-BAYT
 (AS)**
 
@@ -144,7 +143,6 @@ al-Kawthar. They are the Allah's Book, Quran and the Ahl al-Bayt. You
 will not go astray after me as long as you remain in touch with them
 intimately and seek refuge under these two".
 
-
 **IMAMAH**
 
 A government organization established in a country to handle public
@@ -216,7 +214,6 @@ Islamic sciences and commandments without any deviation and lead the
 people. Otherwise, the programme of general guidance will be disrupted
 and people would have a plea against the system of guidance of Allah.
 
-
 **THE IMAM IS INDISPENSABLE**
 
 Due to its error and mistake, men's wisdom cannot enable them to do
@@ -238,7 +235,6 @@ Therefore, in any case, the existence of the Imam is necessary to
 safeguard the real Islamic sciences and laws of the religion of Allah,
 so that people could benefit from his guidance whenever they find the
 ability to receive it.
-
 
 **THE HOLY PROPHET'S (SA) STATEMENT ABOUT WILAYAH**
 
@@ -289,7 +285,6 @@ objective of its dignified bearer, one will undoubtedly acknowledge that
 the matter of Imamah and wilayah has been resolved and made clear for
 the Muslims.
 
-
 **APPOINTMENT OF A SUCCESSOR BY THE HOLY PROPHET (SA)**
 
 The Holy Prophet (SA) did not content himself with only general remarks
@@ -324,5 +319,4 @@ Besides, the Holy Prophet (SA) h as specifically appointed the Leader
 of the Faithful, 'Ali (AS), as his successor. Hadrat 'Ali (AS) has also
 nominated the next Imam as his successor. In the like manner, each Imam
 has appointed the next Imam to serve as his successor.
-
 

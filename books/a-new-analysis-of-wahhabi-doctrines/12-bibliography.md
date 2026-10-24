@@ -61,11 +61,7 @@ at-Tawhid.*
 
 *Usul al-Kafi.*
 
-<blockquote dir="rtl">
-  <p>
-پشت جلد
-  </p>
-</blockquote>
+> پشت جلد
 
 The emergence of the Wahhabi sect in the 12th century AH became the
 source of many religious and political disputes and disagreements in the
@@ -85,5 +81,4 @@ of the religious innovations, deviations and speculative interpretations
 existing in this nascent sect. The book, *A New Analysis of Wahhabi
 Doctrines*, attempts to do so, and it has been written by utilizing
 references published by Wahhabi institutions in the Hijaz.
-
 

@@ -65,7 +65,6 @@ the Day of Judgment. The verse continues saying:
 "... Verily I see you in prosperity and I fear for you the punishment
 of an all- encompassing Day'. "
 
-
 **Commentary : Verse 85**
 
 (85) وَ يا قَوْمِ أَوْفُوا الْمِكْيالَ وَ الْميزانَ بِالْقِسْطِ وَ لا
@@ -111,7 +110,6 @@ monotheism, a healthy economy is of primary importance. It also shows
 that anarchy in an economic system can be a major source of corruption
 in any society.
 
-
 **Commentary : Verse 86**
 
 (86) بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنينَ وَ ما
@@ -145,7 +143,6 @@ baqiatullah/.
 (1) Bihar ul 'Anwar, vol. 46, p. 259
 
 (2) Tafsir- us- Safi, vol. 2, p. 468
-
 
 **Commentary : Verse 87**
 
@@ -194,7 +191,6 @@ remember Allah and His Court of Justice. For these reasons, man would be
 kept away from idol worship, blind obedience, short selling goods, and
 all types of fraud under the light of prayer.
 
-
 **Commentary : Verse 88**
 
 (88) قالَ يا قَوْمِ أَ رَأَيْتُمْ إِنْ كُنْتُ عَلى‏ بَيِّنَةٍ مِنْ
@@ -235,5 +231,4 @@ continues saying:
 
 "... My success is only with Allah. On Him do I rely and unto Him I
 turn(repentant)'. "
-
 

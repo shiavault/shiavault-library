@@ -1,17 +1,13 @@
 Discourse 4: Good Of This World And The Next Life
 =================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الصَّادِقُ: حَدَّثَنِي أَبِي عَنْ أَبِـيهِ أَنَّ رَجُلاً مِنْ
-أَهْلِ الْكُوفَةِ كَـتَبَ إِلـى الْحُسَينِ بْنِ عَلِيٍّ: يَا سَيِّدِي
-أَخْـبِرْنِي بِخَيْرِ الدُّنْـيَا وَ الآخِرَةِ. فَكَتَبَ: بِسْمِ
-اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. أَمَّا بَعْدُ فَإِنَّ مَنْ طَلَبَ رِضى
-اللٌّهَ بِسَخَطِ النَّاسِ كَفَّاهُ اللٌّهُ أُمُورُ النَّاسِ وَ مَنْ
-طَلَبَ رِضى النَّاسَ بِسَخَطِ اللٌّهِ وَكَلَّهُ اللٌّهُ إِلـى
-النَّاسِ، وَ السَّلاَمُ.
-  </p>
-</blockquote>
+> قَالَ الصَّادِقُ: حَدَّثَنِي أَبِي عَنْ أَبِـيهِ أَنَّ رَجُلاً مِنْ
+> أَهْلِ الْكُوفَةِ كَـتَبَ إِلـى الْحُسَينِ بْنِ عَلِيٍّ: يَا سَيِّدِي
+> أَخْـبِرْنِي بِخَيْرِ الدُّنْـيَا وَ الآخِرَةِ. فَكَتَبَ: بِسْمِ
+> اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. أَمَّا بَعْدُ فَإِنَّ مَنْ طَلَبَ رِضى
+> اللٌّهَ بِسَخَطِ النَّاسِ كَفَّاهُ اللٌّهُ أُمُورُ النَّاسِ وَ مَنْ
+> طَلَبَ رِضى النَّاسَ بِسَخَطِ اللٌّهِ وَكَلَّهُ اللٌّهُ إِلـى
+> النَّاسِ، وَ السَّلاَمُ.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said, “My father narrated to
 me from his father (as) that a man from Kufah wrote a letter to Husayn
@@ -40,11 +36,7 @@ creations, then Allah will leave you at the whims of the people such
 that you will have to ask them for whatever you need. You will need to
 ask from people who:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَمْلِكُونَ لِأَنْفُسِهِمْ نَـفْعاً وَلاَ ضَرًّا…
-  </p>
-</blockquote>
+> لاَ يَمْلِكُونَ لِأَنْفُسِهِمْ نَـفْعاً وَلاَ ضَرًّا…
 
 “They neither possess the ability to bring any profit nor harm to their
 selves…”[^2]
@@ -60,12 +52,8 @@ dilemma of either pleasing the Creator or pleasing the creation. In this
 instance, we are told that we must place the pleasure of the Creator
 above all else:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحَاتِ سَيَجْعَلَ لَهُمُ
-الرَّحْمٌنُ وُدًّا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحَاتِ سَيَجْعَلَ لَهُمُ
+> الرَّحْمٌنُ وُدًّا
 
 “Those who possess true faith and perform righteous deeds, shortly shall
 the All-Merciful (al-Rahman) place true love amongst them.”[^3]
@@ -137,5 +125,4 @@ it, and then see what Allah (SwT) would want and expect from us!
 [^2]: Surat al-Raad (13), verse 16
 
 [^3]: Surat Mariam (19), verse 96
-
 

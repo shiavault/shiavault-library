@@ -3,23 +3,11 @@ Sermon 33: Verily, God sent Muhammad (S) ...
 
 *At the time of setting out for the Battle of Jamal*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-عند خروجه لقتال أهل البصرة
-  </p>
-</blockquote>
+> عند خروجه لقتال أهل البصرة
 
-<blockquote dir="rtl">
-  <p>
-]وفيها حكمة مبعث الرسل، ثمّ يذكر فضله ويذم الخارجين[
-  </p>
-</blockquote>
+> ]وفيها حكمة مبعث الرسل، ثمّ يذكر فضله ويذم الخارجين[
 
 \`Abdullah ibn \`Abbas says that when Amir al-mu’minin set out for war
 with the people of Basrah he came to his audience at Dhi Qar and saw
@@ -30,48 +18,32 @@ the fact that I may establish right and ward off wrong.”
 
 Then he came out and spoke:
 
-<blockquote dir="rtl">
-  <p>
-قال عبدالله بن عباس (رحمه الله): دخلت على أَميرالمؤمنين صلوات الله
-عليه بذي قار وهو يخصِف نعله، فقال لي: ما قيمة هذا النعل؟ فقلت: لا
-قيمةَ لها! قال: والله لَهِيَ أَحَبُّ إِليَّ من إِمرتكم، إِلاّ أَن
-أُقيم حقّاً، أَوأَدفع باطلاً،
-  </p>
-</blockquote>
+> قال عبدالله بن عباس (رحمه الله): دخلت على أَميرالمؤمنين صلوات الله
+> عليه بذي قار وهو يخصِف نعله، فقال لي: ما قيمة هذا النعل؟ فقلت: لا
+> قيمةَ لها! قال: والله لَهِيَ أَحَبُّ إِليَّ من إِمرتكم، إِلاّ أَن
+> أُقيم حقّاً، أَوأَدفع باطلاً،
 
-<blockquote dir="rtl">
-  <p>
-ثمّ خرج(عليه السلام) فخطب الناس فقال:
-  </p>
-</blockquote>
+> ثمّ خرج(عليه السلام) فخطب الناس فقال:
 
 Verily, Allah sent Muhammad (S) when none among the Arabs read a book or
 claimed prophethood. He guided the people till he took them to their
 (correct) position and their salvation. So their spears (i.e. officers)
 became straight and their conditions settled down.
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ سُبحانَه بَعَثَ مُحَمَّداً (صلى الله عليه وآله)، وَلَيْسَ
-أَحَدٌ مِنَ الْعَرَبِ يَقْرَأُ كِتَاباً، وَلاَ يَدَّعِي نُبُوَّةً،
-فَسَاقَ النَّاسَ حَتَّى بَوَّأَهُمْ مَحَلَّتَهُم، وَبَلَّغَهُمْ
-مَنْجَاتَهُمْ، فَاسْتَقَامَتْ قَنَاتُهُمْ، وَاطْمَأَنَّتْ صِفَاتُهُمْ.
-  </p>
-</blockquote>
+> إنَّ اللهَ سُبحانَه بَعَثَ مُحَمَّداً (صلى الله عليه وآله)، وَلَيْسَ
+> أَحَدٌ مِنَ الْعَرَبِ يَقْرَأُ كِتَاباً، وَلاَ يَدَّعِي نُبُوَّةً،
+> فَسَاقَ النَّاسَ حَتَّى بَوَّأَهُمْ مَحَلَّتَهُم، وَبَلَّغَهُمْ
+> مَنْجَاتَهُمْ، فَاسْتَقَامَتْ قَنَاتُهُمْ، وَاطْمَأَنَّتْ صِفَاتُهُمْ.
 
 By Allah, surely I was in their lead till it took shape with its walls.
 I did not show weakness or cowardice. My existing march is also like
 that. I shall certainly pierce the wrong till right comes out of its
 side.
 
-<blockquote dir="rtl">
-  <p>
-أَمَا وَاللهِ إنْ كُنْتُ لَفِي سَاقَتِهَا حَتَّى تَوَلَّتْ
-بِحَذَافِيرِهَا، مَا عَجَزْتُ،وَلاَ جَبُنْتُ، وَإِنَّ مَسِيرِي هذَا
-لِمثْلِهَا، فَلاَنْقُبَنَّ الْبَاطِلَ حَتَّى يَخْرُجَ الْحَقُّ مِنْ
-جَنْبِهِ.
-  </p>
-</blockquote>
+> أَمَا وَاللهِ إنْ كُنْتُ لَفِي سَاقَتِهَا حَتَّى تَوَلَّتْ
+> بِحَذَافِيرِهَا، مَا عَجَزْتُ،وَلاَ جَبُنْتُ، وَإِنَّ مَسِيرِي هذَا
+> لِمثْلِهَا، فَلاَنْقُبَنَّ الْبَاطِلَ حَتَّى يَخْرُجَ الْحَقُّ مِنْ
+> جَنْبِهِ.
 
 What (cause of conflict) is there between me and the Quraysh? By Allah,
 I have fought them when they were unbelievers and I shall fight them
@@ -90,29 +62,17 @@ whereupon they have become as the former poet says:
 *And surrounded (protected) you with thoroughbred horses and
 tawny-coloured spears (strong spears).*[^1]
 
-<blockquote dir="rtl">
-  <p>
-مَالي وَلِقُرَيْش! وَاللهِ لَقَدْ قَاتَلْتُهُمْ كَافِرِينَ،
-وَلاَقَاتِلَنَّهُمْ مَفْتُونِينَ، وَإِنِّي لَصَاحِبُهُمْ بِالاْمْسِ،
-كَمَا أَنَا صَاحِبُهُمُ الْيَوْمَ! وَاللّهِ ما تَنْقِمُ مِنّا قُرَيْشٌ
-اِلاّ اَنَّ اللّه اَخْتارَنا عَلَيْهِمْ، فَاَدْخَلْناهُمْ فى
-حَيِّزِنا، فَكانُوا كَما قالَ الاْوَّلُ:
-  </p>
-</blockquote>
+> مَالي وَلِقُرَيْش! وَاللهِ لَقَدْ قَاتَلْتُهُمْ كَافِرِينَ،
+> وَلاَقَاتِلَنَّهُمْ مَفْتُونِينَ، وَإِنِّي لَصَاحِبُهُمْ بِالاْمْسِ،
+> كَمَا أَنَا صَاحِبُهُمُ الْيَوْمَ! وَاللّهِ ما تَنْقِمُ مِنّا قُرَيْشٌ
+> اِلاّ اَنَّ اللّه اَخْتارَنا عَلَيْهِمْ، فَاَدْخَلْناهُمْ فى
+> حَيِّزِنا، فَكانُوا كَما قالَ الاْوَّلُ:
 
-<blockquote dir="rtl">
-  <p>
-اَدَمْتَ لَعَمْرى شُرْبَكَ الْمَحْضَ صابِحاً \*\*\* وَ اَكْلَكَ
-بِالزُّبْدِ الْمُقَشَّرَةَ الْبُجْرا
-  </p>
-</blockquote>
+> اَدَمْتَ لَعَمْرى شُرْبَكَ الْمَحْضَ صابِحاً \*\*\* وَ اَكْلَكَ
+> بِالزُّبْدِ الْمُقَشَّرَةَ الْبُجْرا
 
-<blockquote dir="rtl">
-  <p>
-وَ نَحْنُ وَهَبْناكَ الْعَلاءَ وَ لَمْ تَكُنْ \*\*\* عَلِيّاً، وَ
-حُطْنا حَوْلَكَ الْجُرْدَ وَالسُّمْرا
-  </p>
-</blockquote>
+> وَ نَحْنُ وَهَبْناكَ الْعَلاءَ وَ لَمْ تَكُنْ \*\*\* عَلِيّاً، وَ
+> حُطْنا حَوْلَكَ الْجُرْدَ وَالسُّمْرا
 
 Alternative Sources for Sermon 33
 ---------------------------------
@@ -133,5 +93,4 @@ the mouthful of water. You were minority like the handful greedy and a
 spark of the hasty. You were as down-trodden as the dust under feet. You
 drank dirty water. You ate untanned skin. You were abased and condemned.
 But Allah has rescued you through my father Muhammad (S). . .
-
 

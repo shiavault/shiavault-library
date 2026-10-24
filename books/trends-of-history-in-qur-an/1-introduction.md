@@ -1949,4 +1949,3 @@ discussion will require more time and space than available to us.
 
 [^5]: (Tafsir Mauzu'i).
 
-

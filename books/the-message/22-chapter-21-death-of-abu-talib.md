@@ -375,4 +375,3 @@ verses of the poem in his Seerah vol. I, pp. 352 - 353.
 
 [^10]: Usulul Kafi, page 244.
 
-

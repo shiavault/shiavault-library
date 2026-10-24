@@ -128,4 +128,3 @@ necessary that agents be autonomous beings, and the role played by
 intended action in the constitution of this autonomy is a rich and still
 untapped source of insight.
 
-

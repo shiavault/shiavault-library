@@ -166,4 +166,3 @@ heritage?
 an extension in the beliefs of fatalism?  
  5. What position should we take when confronted by these factors?
 
-

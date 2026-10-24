@@ -467,4 +467,3 @@ al-Mohaqqiq al-Hilli as is Masalik
 fundamental nature of woman, and not allied to some particular man-made
 ideology
 
-

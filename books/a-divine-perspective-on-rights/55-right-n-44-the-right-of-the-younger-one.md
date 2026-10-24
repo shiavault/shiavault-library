@@ -1,21 +1,13 @@
 Right n. 44: The Right of the Younger One
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-حق الصغير
-  </p>
-</blockquote>
+> حق الصغير
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الصَّغِيرِ فَرَحْمتُهُ وتَثقِيفُهُ وتَعْلِيمُهُ
-وَالعَفْوُ عَنْهُ وَالسِّترُ عَلَيهِ وَالرِّفْقُ بهِ وَالمَعُونَةُ لهُ
-وَالسِّترُ عَلَى جَرَائِرِ حَدَاثتِهِ فَإنّهُ سَبَبٌ لِلتَّوبَةِ
-وَالْمُدَارَاةُ لَهُ وتَرْكُ مُمَاحَكَتِهِ، فَإنَّ ذَلِكَ أَدنى
-لِرُشْدِهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الصَّغِيرِ فَرَحْمتُهُ وتَثقِيفُهُ وتَعْلِيمُهُ
+> وَالعَفْوُ عَنْهُ وَالسِّترُ عَلَيهِ وَالرِّفْقُ بهِ وَالمَعُونَةُ لهُ
+> وَالسِّترُ عَلَى جَرَائِرِ حَدَاثتِهِ فَإنّهُ سَبَبٌ لِلتَّوبَةِ
+> وَالْمُدَارَاةُ لَهُ وتَرْكُ مُمَاحَكَتِهِ، فَإنَّ ذَلِكَ أَدنى
+> لِرُشْدِهِ.
 
 **And the right of him who is younger than you is that you have
 compassion on him, train and educate him, pardon him, and cover up his
@@ -39,11 +31,7 @@ instructs us to overlook their mistakes.
 
 The Noble Prophet has said the following regarding child-rearing:
 
-<blockquote dir="rtl">
-  <p>
-أكْرِموا أوْلادَكُم وَأحْسِنوا آدابَكُم.
-  </p>
-</blockquote>
+> أكْرِموا أوْلادَكُم وَأحْسِنوا آدابَكُم.
 
 *“Respect your children and improve your behavior.”*[^1]
 
@@ -58,13 +46,9 @@ Encouraging Children
 Imam Hasan gathered his children and his brother’s children once and
 told them:
 
-<blockquote dir="rtl">
-  <p>
-إنّكُم صِغارٌ اليَومَ ويوشَكُ أنْ تَكونوا كِبارَ قَومٍ آخَرينَ،
-فَتَعَلَّموا العِلمَ فَمَنْ لَمْ يَستَطِعْ مِنكُم أنْ يحْفَظَهُ
-فَلْيَكْتُبْهُ وَليَضَعْهُ في بَيتِهِ.
-  </p>
-</blockquote>
+> إنّكُم صِغارٌ اليَومَ ويوشَكُ أنْ تَكونوا كِبارَ قَومٍ آخَرينَ،
+> فَتَعَلَّموا العِلمَ فَمَنْ لَمْ يَستَطِعْ مِنكُم أنْ يحْفَظَهُ
+> فَلْيَكْتُبْهُ وَليَضَعْهُ في بَيتِهِ.
 
 *“You are all children today, but will soon be great men in the future,
 so acquire knowledge. Whoever of you does not have a good memory, should
@@ -96,32 +80,20 @@ Ibn Masoud narrated that once when a man went to see the Prophet , he
 was afraid to talk. The Prophet said: “Do not be afraid. I am not a
 king.”[^3] The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كانَ عِندَهُ صَبِيٌّ فَليَتَصَابَ لَهُ.
-  </p>
-</blockquote>
+> مَن كانَ عِندَهُ صَبِيٌّ فَليَتَصَابَ لَهُ.
 
 *“Whoever has a child should behave like a child with him.”*[^4]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كانَ عِندَهُ وَلَدٌ صَبا.
-  </p>
-</blockquote>
+> مَن كانَ عِندَهُ وَلَدٌ صَبا.
 
 *“Whoever has a child should play with him.”*
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ عَبداً أعانَ وَلَدَهُ عَلى بِرِّهِ بالإحْسانِ إلَيهِ
-وَالتّألُّفِ لهُ وَتَعليمِهِ وَتَأدِيبِهِ.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ عَبداً أعانَ وَلَدَهُ عَلى بِرِّهِ بالإحْسانِ إلَيهِ
+> وَالتّألُّفِ لهُ وَتَعليمِهِ وَتَأدِيبِهِ.
 
 *“May God’s mercy be upon a servant (of God) who helps his child in
 righteousness through goodness to him and friendliness towards him, and
@@ -149,12 +121,8 @@ is one of the major moral issues that should be used in the education of
 children. It is sometimes more effective to overlook other people’s
 mistakes and act as if you know nothing about them. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-صَلاحُ حالِ التّعايُشِ وَالتّعاشُرِ مِلءُ مِكيالٍ ثُلثاهُ فِطنَتُه
-وثُلثُهُ تَغافُلٌ.
-  </p>
-</blockquote>
+> صَلاحُ حالِ التّعايُشِ وَالتّعاشُرِ مِلءُ مِكيالٍ ثُلثاهُ فِطنَتُه
+> وثُلثُهُ تَغافُلٌ.
 
 *“Goodness of companionship and living together is a full measure,
 two-thirds of which is (possessing) understanding and one third of it is
@@ -163,11 +131,7 @@ overlooking (the shortcomings of others).”* [^6]
 The Prophet of Islam has stressed the importance of overlooking other
 people’s mistakes as we can read in the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-المُؤمِنُ نِصفُهُ تَغافُلٌ.
-  </p>
-</blockquote>
+> المُؤمِنُ نِصفُهُ تَغافُلٌ.
 
 *“Half of (the nature of) the believer is overlooking mistakes.”*[^7]
 
@@ -211,5 +175,4 @@ v.1, p.110.
 [^6]: Tuhaf al-‘Uqul, p.264.
 
 [^7]: Guftar-i-Falsafi, v.1, p.405.
-
 

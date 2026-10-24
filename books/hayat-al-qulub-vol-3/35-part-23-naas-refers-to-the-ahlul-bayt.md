@@ -11,11 +11,7 @@ who is ‘Naas’, ‘Shabih Naas’ and ‘Na-naas’. The Hazrat told Imam Hus
 (a.s.) to reply. He said: ‘Naas’ is the Holy Prophet (S) and we are from
 him only and included in the ‘Naas’ as Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ.
-  </p>
-</blockquote>
+> ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ.
 
 ***Then hasten on from the Place from which the people hasten on… (Surah
 Baqarah 2:199)***
@@ -28,11 +24,7 @@ it. And we are included in what is applicable to the Prophet. ‘Ashbahun
 Naas’ (resembling the people) are our Shias. They are from us and they
 are similar to us. That is why Ibrahim said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي.
-  </p>
-</blockquote>
+> فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي.
 
 ***…then whoever follows me, he is surely of me… (Surah Ibrahim
 14:36)***
@@ -40,11 +32,7 @@ are similar to us. That is why Ibrahim said:
 And ‘Na-naas’ are our enemies and pointed with his hands towards his
 opponents. And after that he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ.
-  </p>
-</blockquote>
+> أُوْلَئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ.
 
 ***…they are as cattle, nay, they are in worse errors… (Surah Araf
 7:179)***
@@ -90,5 +78,4 @@ has said: And man says: What has befallen her. On the day of Judgement I
 will ask the earth and it will tell me all about itself. According to
 the tradition of Kulaini, he said that if it were the earthquake of
 Qiyamat the earth would have answered me.
-
 

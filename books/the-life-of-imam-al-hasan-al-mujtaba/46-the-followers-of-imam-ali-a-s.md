@@ -615,4 +615,3 @@ afflicted. If a ewe got lost on the bank of the Euphrates, you would be
 questioned about it on the Day of the Resurrection.’ So ‘Umar wept when
 he heard this speech from him.”
 
-

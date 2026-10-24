@@ -64,7 +64,6 @@ Prophet's Mosque, which runs from Surat al-Shams to the end of the
 Qur'an. 51 Despite all this, the authenticity of the attribution of each
 these codices to 'Ali (A) is a matter that requires a separate study.
 
-
 **9. Script of Early Qur'anic Manuscripts**
 
 Doubtlessly the script of the Qur'an in the times of the Prophet (S),
@@ -105,5 +104,4 @@ Incidentally, the scholars of the Ottoman Empire had proscribed for a
 long time the printing of the Qur'an 56 in the vast regions under
 Ottoman rule although the process of printing had become prevalent in
 its domains. 57
-
 

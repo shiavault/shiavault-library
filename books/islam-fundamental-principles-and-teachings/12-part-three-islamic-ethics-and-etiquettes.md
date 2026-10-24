@@ -713,4 +713,3 @@ Marriage is not allowed between mah}ram relatives and therefore a woman
 does not wear h}ija\>b from her mah}ram relatives. Non-mah}ram relatives
 are those such as cousins, brothers- or sisters-in-law, etc.
 
-

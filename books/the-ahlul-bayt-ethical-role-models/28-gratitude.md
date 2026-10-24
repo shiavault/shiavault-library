@@ -215,4 +215,3 @@ Mahasin).
 
 [^10]: Quoted from Nahj ul-Balagha.
 
-

@@ -91,4 +91,3 @@ and such day?" This clearly indicates that the Imam acknowledged the
 person who was inviting the people in Khurasan, or probably he had been
 a messenger of Imam.
 
-

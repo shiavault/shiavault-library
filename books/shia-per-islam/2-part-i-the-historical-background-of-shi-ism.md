@@ -556,4 +556,3 @@ and just cause, nor a falsehood to be rejected and disproven through
 another falsehood. There are many Quranic verses concerning this
 matter.
 
-

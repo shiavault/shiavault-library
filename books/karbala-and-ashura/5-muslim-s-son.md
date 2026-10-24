@@ -167,4 +167,3 @@ Mohammad foretold, God will give Ja’far two wings instead of his two cut
 off hands in Paradise. With these two wings, Ja’far will fly in Paradise
 anywhere he likes.
 
-

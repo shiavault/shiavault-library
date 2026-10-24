@@ -18,4 +18,3 @@ al-Kaf’ami, pg. 550.
 
 [^2]: Muhaddith Nuri (related from the book Mizar Qadim)
 
-

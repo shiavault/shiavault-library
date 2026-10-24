@@ -72,7 +72,6 @@ people." Because of the greatness of the position Abraham them asked, "O
 Lord, can it be in my descendants also?" The Lord said, 'My covenant
 does not go to the unjust ones."
 
-
 **Chapter 3 : The Difference among he Messengers, the Prophets and the
 al-Muhaddath H 421, Ch. 3, h 1**
 
@@ -156,5 +155,4 @@ I then asked, may Allah keep you well, "How would one know that what
 one sees in his dream is true and that it is from the angel?" The Imam
 (a.s.) said, "He receives help for success to know the angel. Allah has
 your book the last book and your Prophet the last of prophets."
-
 

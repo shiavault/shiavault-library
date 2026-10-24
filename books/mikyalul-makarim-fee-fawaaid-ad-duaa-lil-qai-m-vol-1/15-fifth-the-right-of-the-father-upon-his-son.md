@@ -75,4 +75,3 @@ Judgment. And success with the group that is the best of groups.
 
 [^5]: Amali; Shaykh at-Taifa Abi Ja’far Muhammad bin Hasan Tusi
 
-

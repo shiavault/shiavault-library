@@ -103,7 +103,5 @@ the 18th of Zil-Hijja is accordingly celebrated as a day of rejoicing
 among the lovers and adherents of Imam Ali, and is known as
 Eid-e-Ghadir.
 
-
 Rukhsana Mushtaq (Pakistan)
-
 

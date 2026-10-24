@@ -429,4 +429,3 @@ the poor was so deep that he used to pray: "O Allah, keep me poor in my
 life and at my death and raise me at resurrection among those who are
 poor." (Nasai, Chapter: Pardon) Abdul Ghani
 
-

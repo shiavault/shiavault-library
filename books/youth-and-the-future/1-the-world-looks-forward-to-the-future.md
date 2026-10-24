@@ -81,7 +81,6 @@ It may happen, in our life, that certain essential moves, in which we
 break the obstacles of motion and remove the hindrances of the road,
 allow us to fly towards the future with the wings of hope!
 
-
 **Caring for the Future**
 
 If you look around yourself, you will see that people are one of three
@@ -195,7 +194,6 @@ society as a complete entity, like the responsibility of a state, which
 is the great shepherd and the first chief regarding the affairs of their
 subjects and guiding them towards great signposts.
 
-
 **The Future - Hope**
 
 Indeed, one cannot think of the future without looking at it through
@@ -278,5 +276,4 @@ and painful). He (s.a.w.) replied to him: "Praise be to Allah" Thus, the
 man was surprised saying: "I say a long, dark night, while you say:
 'Praise be to Allah.'" He (s.a.w.) said: "Praise be to Allah because it
 has passed."
-
 

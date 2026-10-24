@@ -162,4 +162,3 @@ Give my love to Soghra, my daughter who is ill"
 [^1]: The word "Chehlum" or “Arba’in” in Arabic, denotes the traditional
 memorial held on the 40th day after death.
 
-

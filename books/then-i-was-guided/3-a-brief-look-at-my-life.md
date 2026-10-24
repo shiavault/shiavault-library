@@ -101,4 +101,3 @@ sages.
 [^1]: Al-Ishfa prayers, also called al-Tarawih, becase of the rest taken
 between every second prayer. Named “al-Ishfa”
 
-

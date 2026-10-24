@@ -55,4 +55,3 @@ no *Tahrif.* This is evidenced in every law of Shari’ah, and it has been
 successfully applied by the *Ahl ul-Bayt (‘a)* to their directive to
 recite a complete Surah or a complete *ayah*.
 
-

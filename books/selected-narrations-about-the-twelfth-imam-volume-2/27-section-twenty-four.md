@@ -54,4 +54,3 @@ Muḥammad b. \`Alī b. Mūsā al-Riḍā, \`Alī refers to his son Imam \`Alī 
 Muḥammad b. \`Alī b. Mūsā al-Riḍā, and al-Ḥasan refers to his son Imam
 al-Ḥasan al-\`Askarī, Allah’s blessings be on them all.
 
-

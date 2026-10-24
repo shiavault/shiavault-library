@@ -26,4 +26,3 @@ Almighty hasten his auspicious reappearance.
 
 Muhammad Taqi Misbah Yazdi
 
-

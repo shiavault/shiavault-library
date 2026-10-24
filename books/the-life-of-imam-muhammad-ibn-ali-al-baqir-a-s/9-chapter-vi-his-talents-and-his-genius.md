@@ -2056,374 +2056,374 @@ peace be on him, on monotheism.
 
 ###
 
-[^1] Safinat al-Bihar, vol.[^2]:
+[^1]: Safinat al-Bihar, vol.2.
 
-[^2] ‘Aqidat al-Shi‘a, p.[^123]:
+[^2]: ‘Aqidat al-Shi‘a, p.123.
 
-[^3] Al-Manaqib, vol.3, p.[^331]:
+[^3]: Al-Manaqib, vol.3, p.331.
 
-[^4] Al-Imam Zayd, p.[^22]:
+[^4]: Al-Imam Zayd, p.22.
 
-[^5] ‘Uyyun al-Akhbar wa Funun al-Athar, p.[^213]:
+[^5]: ‘Uyyun al-Akhbar wa Funun al-Athar, p.213.
 
-[^6] Nasikh al-Tawarikh, vol.2, p.[^219]:
+[^6]: Nasikh al-Tawarikh, vol.2, p.219.
 
-[^7] Ibid, p.[^217]:
+[^7]: Ibid, p.217.
 
-[^8] Ibid.
+[^8]: Ibid.
 
-[^9] A‘lam al-Wara, p.[^270]:
+[^9]: A‘lam al-Wara, p.270.
 
-[^10] Al-Khisal, p.[^4]:
+[^10]: Al-Khisal, p.4.
 
-[^11] Ibid, p.[^5]:
+[^11]: Ibid, p.5.
 
-[^12] Ibid, p.[^10]:
+[^12]: Ibid, p.10.
 
-[^13] Ibid, p.[^11]:
+[^13]: Ibid, p.11.
 
-[^14] Ibid, p.[^14]:
+[^14]: Ibid, p.14.
 
-[^15] Ibid.
+[^15]: Ibid.
 
-[^16] Ibid, p.[^15]:
+[^16]: Ibid, p.15.
 
-[^17] Ibid, p.[^17]:
+[^17]: Ibid, p.17.
 
-[^18] Usul al-Kafi, vol.2, p.[^616]:
+[^18]: Usul al-Kafi, vol.2, p.616.
 
-[^19] Al-Khisal, p.[^31]:
+[^19]: Al-Khisal, p.31.
 
-[^20] Ibn al-Maghazili, Manaqib ‘Ali b. Abi Talib, p.[^40]:
+[^20]: Ibn al-Maghazili, Manaqib ‘Ali b. Abi Talib, p.40.
 
-[^21] Ibid, p.[^42]:
+[^21]: Ibid, p.42.
 
-[^22] Ibid, p.[^44]:
+[^22]: Ibid, p.44.
 
-[^23] Ibid, p.[^64]:
+[^23]: Ibid, p.64.
 
-[^24] Yanabi‘ al-Mawadda, p.[^266]:
+[^24]: Yanabi‘ al-Mawadda, p.266.
 
-[^25] Ibn al-Maghazili, Manaqib ‘Ali b. Abi Talib, p.[^40]:
+[^25]: Ibn al-Maghazili, Manaqib ‘Ali b. Abi Talib, p.40.
 
-[^26] Al-Khisal, p.[^34]:
+[^26]: Al-Khisal, p.34.
 
-[^27] Ibid, p.[^35]:
+[^27]: Ibid, p.35.
 
-[^28] Ibid, p.[^36]:
+[^28]: Ibid, p.36.
 
-[^29] Ibid.
+[^29]: Ibid.
 
-[^30] Ibid, p.[^41]:
+[^30]: Ibid, p.41.
 
-[^31] Ibid, p.[^47]:
+[^31]: Ibid, p.47.
 
-[^32] Ibid, p.[^58]:
+[^32]: Ibid, p.58.
 
-[^33] Ibid, p.[^60]:
+[^33]: Ibid, p.60.
 
-[^34] Ibid, p.[^71]:
+[^34]: Ibid, p.71.
 
-[^35] Al-‘Aqd al-Farid, vol.5, p.[^277]:
+[^35]: Al-‘Aqd al-Farid, vol.5, p.277.
 
-[^36] Safinat al-Bihar, vol.2, p.[^409]:
+[^36]: Safinat al-Bihar, vol.2, p.409.
 
-[^37] Al-Khisal, p.[^78]:
+[^37]: Al-Khisal, p.78.
 
-[^38] Ibid, p.[^84]:
+[^38]: Ibid, p.84.
 
-[^39] Ibid, p.[^94]:
+[^39]: Ibid, p.94.
 
-[^40] Ibid, p.[^106]:
+[^40]: Ibid, p.106.
 
-[^41] Ibid, p.[^108]:
+[^41]: Ibid, p.108.
 
-[^42] Ibid, p.[^138]:
+[^42]: Ibid, p.138.
 
-[^43] Ibid, p.[^147]:
+[^43]: Ibid, p.147.
 
-[^44] Ibid, p.[^164]:
+[^44]: Ibid, p.164.
 
-[^45] Ibid, p.[^167]:
+[^45]: Ibid, p.167.
 
-[^46] Ibid, p.[^180]:
+[^46]: Ibid, p.180.
 
-[^47] Ibid, p.[^188]:
+[^47]: Ibid, p.188.
 
-[^48] Ibid, p.[^203]:
+[^48]: Ibid, p.203.
 
-[^49] Ibid, p.[^205]:
+[^49]: Ibid, p.205.
 
-[^50] Ibid, [^208]:
+[^50]: Ibid, [^208]:
 
-[^51] Ibid, p.[^217]:
+[^51]: Ibid, p.217.
 
-[^52] Ibid, p.[^221]:
+[^52]: Ibid, p.221.
 
-[^53] Ibid, p.[^228]:
+[^53]: Ibid, p.228.
 
-[^54] Ibid, p.[^231]:
+[^54]: Ibid, p.231.
 
-[^55] Ibid,p.[^236]:
+[^55]: Ibid,p.236.
 
-[^56] Ibid, p.[^240]:
+[^56]: Ibid, p.240.
 
-[^57] Ibid, p.[^247]:
+[^57]: Ibid, p.247.
 
-[^58] Ibid, p.[^260]:
+[^58]: Ibid, p.260.
 
-[^59] Ibid, p.[^262]:
+[^59]: Ibid, p.262.
 
-[^60] Ibid, p.[^267]:
+[^60]: Ibid, p.267.
 
-[^61] Ibid, [^288]:
+[^61]: Ibid, [^288]:
 
-[^62] Ibid, p.[^292]:
+[^62]: Ibid, p.292.
 
-[^63] Ibid, p.[^300]:
+[^63]: Ibid, p.300.
 
-[^64] Ibid.
+[^64]: Ibid.
 
-[^65] Ibid, p.[^308]:
+[^65]: Ibid, p.308.
 
-[^66] Ibid, [^310]:
+[^66]: Ibid, [^310]:
 
-[^67] Ibid, p.[^311]:
+[^67]: Ibid, p.311.
 
-[^68] Ibid, p.[^403]:
+[^68]: Ibid, p.403.
 
-[^69] Ibid, p.[^414]:
+[^69]: Ibid, p.414.
 
-[^70] Ibid, p.[^415]:
+[^70]: Ibid, p.415.
 
-[^71] Ibid, p.[^416]:
+[^71]: Ibid, p.416.
 
-[^72] Al-Bayan wa al-Tabiyyin, vol.2, p.[^263]:
+[^72]: Al-Bayan wa al-Tabiyyin, vol.2, p.263.
 
-[^73] Ibid, p.[^262]:
+[^73]: Ibid, p.262.
 
-[^74] Al-Saduq, p.[^257]:
+[^74]: Al-Saduq, p.257.
 
-[^75] Ibid, p.[^9]:
+[^75]: Ibid, p.9.
 
-[^76] Ibid, p.[^11]:
+[^76]: Ibid, p.11.
 
-[^77] Ibid, p.[^18]:
+[^77]: Ibid, p.18.
 
-[^78] Ibid, p.[^54]:
+[^78]: Ibid, p.54.
 
-[^79] Usul al-Kafi.
+[^79]: Usul al-Kafi.
 
-[^80] Wasilat al-Mal fi ‘Ad Manaqib al-Al, p.[^61]:
+[^80]: Wasilat al-Mal fi ‘Ad Manaqib al-Al, p.61.
 
-[^81] Ibn al-Maghazili, al-Manaqib, p.[^85]:
+[^81]: Ibn al-Maghazili, al-Manaqib, p.85.
 
-[^82] Siyar A‘lam al-Nubala’, vol.4, p.[^242]:
+[^82]: Siyar A‘lam al-Nubala’, vol.4, p.242.
 
-[^83] Al-Sirat al-Sawi, p.
+[^83]: Al-Sirat al-Sawi, p.
 
-[^84] Al-Karajiki, al-Istinsar, ‘ala al-A’imma al-Athar, p.[^8]:
+[^84]: Al-Karajiki, al-Istinsar, ‘ala al-A’imma al-Athar, p.8.
 
-[^85] Ibid.
+[^85]: Ibid.
 
-[^86] Al-Khisal, p.[^49]:
+[^86]: Al-Khisal, p.49.
 
-[^87] Ibid, p.[^109]:
+[^87]: Ibid, p.109.
 
-[^88] Ibid, p.[^119]:
+[^88]: Ibid, p.119.
 
-[^89] Ibid,p.[^180]:
+[^89]: Ibid,p.180.
 
-[^90] Ibid, p.[^215]:
+[^90]: Ibid, p.215.
 
-[^91] Ibid, p.[^398]:
+[^91]: Ibid, p.398.
 
-[^92] Ibid, p.[^454]:
+[^92]: Ibid, p.454.
 
-[^93] Usul al-Kafi, vol.1, p.[^23]:
+[^93]: Usul al-Kafi, vol.1, p.23.
 
-[^94] Al-Khisal, p.[^95]:
+[^94]: Al-Khisal, p.95.
 
-[^95] Usul al-Kafi, vol.1, p.[^220]:
+[^95]: Usul al-Kafi, vol.1, p.220.
 
-[^96] Al-Khisal, p.[^103]:
+[^96]: Al-Khisal, p.103.
 
-[^97] Al-Saduq, al-Amali, p.[^178]:
+[^97]: Al-Saduq, al-Amali, p.178.
 
-[^98] Kamil al-Ziyarat, p.[^108]:
+[^98]: Kamil al-Ziyarat, p.108.
 
-[^99] Tarikh Dimashq, vol.51, pp.37-[^38]:
+[^99]: Tarikh Dimashq, vol.51, pp.37-[^38]:
 
-[^100] ‘Illal al-Sharai‘, p.[^158]:
+[^100]: ‘Illal al-Sharai‘, p.158.
 
-[^101] Al-Sirat al-Sawi, p.[^119]:
+[^101]: Al-Sirat al-Sawi, p.119.
 
-[^102] Ibn Sa‘d, al-Tabaqat, vol.8, p.[^463]:
+[^102]: Ibn Sa‘d, al-Tabaqat, vol.8, p.463.
 
-[^103] Al-Khawarizmi, al-Manaqib, p.[^226]:
+[^103]: Al-Khawarizmi, al-Manaqib, p.226.
 
-[^104] Al-Maghazili, p.[^245]:
+[^104]: Al-Maghazili, p.245.
 
-[^105] Nasikh al-Tawarikh, vol.2, p.[^204]:
+[^105]: Nasikh al-Tawarikh, vol.2, p.204.
 
-[^106] Al-Bayan fi Tafsir al-Qur’an, p.[^25]:
+[^106]: Al-Bayan fi Tafsir al-Qur’an, p.25.
 
-[^107] Usul al-Kafi.
+[^107]: Usul al-Kafi.
 
-[^108] Al-Bayan fi Tafsir al-Qur’an, p.[^210]:
+[^108]: Al-Bayan fi Tafsir al-Qur’an, p.210.
 
-[^109] Al-Wafi, p.[^274]:
+[^109]: Al-Wafi, p.274.
 
-[^110] Nasikh al-Tawarikh, vol.1, p.[^434]:
+[^110]: Nasikh al-Tawarikh, vol.1, p.434.
 
-[^111] Tafsir al-Alusi, vol.1, p.[^39]:
+[^111]: Tafsir al-Alusi, vol.1, p.39.
 
-[^112] Furu‘ al-Kafi, vol.3, p.[^312]:
+[^112]: Furu‘ al-Kafi, vol.3, p.312.
 
-[^113] Ghayat al-Nihaya fi Tabaqat al-Qurra’, vol.2, p.[^202]:
+[^113]: Ghayat al-Nihaya fi Tabaqat al-Qurra’, vol.2, p.202.
 
-[^114] Al-Qurtubi, Tafsir, vol.1, p.[^9]:
+[^114]: Al-Qurtubi, Tafsir, vol.1, p.9.
 
-[^115] Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.[^67]:
+[^115]: Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.67.
 
-[^116] Al-Tabari, Tafsir, vol.1, p.[^15]:
+[^116]: Al-Tabari, Tafsir, vol.1, p.15.
 
-[^117] Al-Qurtubi, Tafsir, vol.1, p.[^36]:
+[^117]: Al-Qurtubi, Tafsir, vol.1, p.36.
 
-[^118] Al-Bayan fi Tafsir al-Qur’an, p.[^183]:
+[^118]: Al-Bayan fi Tafsir al-Qur’an, p.183.
 
-[^119] Ibid, p.[^185]:
+[^119]: Ibid, p.185.
 
-[^120] Ibid, p.[^191]:
+[^120]: Ibid, p.191.
 
-[^121] Usul al-Kafi.
+[^121]: Usul al-Kafi.
 
-[^122] Ibid.
+[^122]: Ibid.
 
-[^123] Al-Wafi, vol.2, p.[^130]:
+[^123]: Al-Wafi, vol.2, p.130.
 
-[^124] Al-Tibyan, vol.1, p.[^4]:
+[^124]: Al-Tibyan, vol.1, p.4.
 
-[^125] Al-Ansari, Fara’id al-Usul.
+[^125]: Al-Ansari, Fara’id al-Usul.
 
-[^126] Al-Bayan fi Tafsir al-Qur’an, p.[^267]:
+[^126]: Al-Bayan fi Tafsir al-Qur’an, p.267.
 
-[^127] Fara’id al-Usul, p.[^28]:
+[^127]: Fara’id al-Usul, p.28.
 
-[^128] Ibid.
+[^128]: Ibid.
 
-[^129] Al-Shaykh al-Tusi, al-Fihrast, p.[^98]:
+[^129]: Al-Shaykh al-Tusi, al-Fihrast, p.98.
 
-[^130] Al-Njashi.
+[^130]: Al-Njashi.
 
-[^131] Koran, al-Furqan, [^70]:
+[^131]: Koran, al-Furqan, [^70]:
 
-[^132] Al-Bidaya wa al-Nihaya, vol.9, p.[^301]:
+[^132]: Al-Bidaya wa al-Nihaya, vol.9, p.301.
 
-[^133] Koran, Taha, [^82]:
+[^133]: Koran, Taha, [^82]:
 
-[^134] Al-Fusul al-Muhimma, p.[^227]:
+[^134]: Al-Fusul al-Muhimma, p.227.
 
-[^135] Koran, Taha, [^83]:
+[^135]: Koran, Taha, [^83]:
 
-[^136] Majjma‘ al-Bayan (Beirut), vol.7, p.[^23]:
+[^136]: Majjma‘ al-Bayan (Beirut), vol.7, p.23.
 
-[^137] Koran, al-Ma’ida, [^67]:
+[^137]: Koran, al-Ma’ida, [^67]:
 
-[^138] Khasa’is al-Wahi al-Mubin, p.[^30]:
+[^138]: Khasa’is al-Wahi al-Mubin, p.30.
 
-[^139] Majjma‘ al-Bayan, vol.4, p.[^223]:
+[^139]: Majjma‘ al-Bayan, vol.4, p.223.
 
-[^140] Koran, al-Muddathir, [^11]:
+[^140]: Koran, al-Muddathir, [^11]:
 
-[^141] Majjma‘ al-Bayan, vol.11, p.[^378]:
+[^141]: Majjma‘ al-Bayan, vol.11, p.378.
 
-[^142] Koran, al-Qadr, [^4]:
+[^142]: Koran, al-Qadr, [^4]:
 
-[^143] Da‘a’im al-Islam, vol.1, p.[^334]:
+[^143]: Da‘a’im al-Islam, vol.1, p.334.
 
-[^144] Koran, al-Shu‘ara’, [^94]:
+[^144]: Koran, al-Shu‘ara’, [^94]:
 
-[^145] Usul al-Kafi, vol.1, p.[^47]:
+[^145]: Usul al-Kafi, vol.1, p.47.
 
-[^146] Koran, al-Baqara, [^57]:
+[^146]: Koran, al-Baqara, [^57]:
 
-[^147] Usul al-Kafi, vol.1, p.[^146]:
+[^147]: Usul al-Kafi, vol.1, p.146.
 
-[^148] Koran, al-Anbiya’, [^7]:
+[^148]: Koran, al-Anbiya’, [^7]:
 
-[^149] Usul al-Kafi, vol.1, p.[^211]:
+[^149]: Usul al-Kafi, vol.1, p.211.
 
-[^150] Koran, al-Zumar, [^9]:
+[^150]: Koran, al-Zumar, [^9]:
 
-[^151] Usul al-Kafi, vol.1, p.[^212]:
+[^151]: Usul al-Kafi, vol.1, p.212.
 
-[^152] Koran, al-‘Ankabut, [^49]:
+[^152]: Koran, al-‘Ankabut, [^49]:
 
-[^153] Majjma‘ al-Bayan, vol.7, p.[^288]:
+[^153]: Majjma‘ al-Bayan, vol.7, p.288.
 
-[^154] Usul al-Kafi, vol.1, p.[^212]:
+[^154]: Usul al-Kafi, vol.1, p.212.
 
-[^155] Koran, al-Isra’, [^17]:
+[^155]: Koran, al-Isra’, [^17]:
 
-[^156] Usul al-Kafi, vol.1, p.[^215]:
+[^156]: Usul al-Kafi, vol.1, p.215.
 
-[^157] Koran, Fatir, [^32]:
+[^157]: Koran, Fatir, [^32]:
 
-[^158] Usul al-Kafi, vol.1, p.[^214]:
+[^158]: Usul al-Kafi, vol.1, p.214.
 
-[^159] Majjma‘ al-Bayan, vol.7, p.[^409]:
+[^159]: Majjma‘ al-Bayan, vol.7, p.409.
 
-[^160] Koran, al-Hijr, [^75]:
+[^160]: Koran, al-Hijr, [^75]:
 
-[^161] Usul al-Kafi, vol.1, p.[^219]:
+[^161]: Usul al-Kafi, vol.1, p.219.
 
-[^162] Koran, al-Jinn, [^16]:
+[^162]: Koran, al-Jinn, [^16]:
 
-[^163] Usul al-Kafi, vol.1, p.[^220]:
+[^163]: Usul al-Kafi, vol.1, p.220.
 
-[^164] Koran, al-Ra‘d, [^43]:
+[^164]: Koran, al-Ra‘d, [^43]:
 
-[^165] Usul al-Kafi, vol.1, p.[^229]:
+[^165]: Usul al-Kafi, vol.1, p.229.
 
-[^166] Koran, al-Nisa’, [^54]:
+[^166]: Koran, al-Nisa’, [^54]:
 
-[^167] Usul al-Kafi, vol.1, p.[^206]:
+[^167]: Usul al-Kafi, vol.1, p.206.
 
-[^168] Koran, al-Hijr, [^29]:
+[^168]: Koran, al-Hijr, [^29]:
 
-[^169] Tafsir al-Burhan, p.[^55]:
+[^169]: Tafsir al-Burhan, p.55.
 
-[^170] Koran, Yousif, [^24]:
+[^170]: Koran, Yousif, [^24]:
 
-[^171] Al-Bidaya wa al-Nihaya, vol.9, p.[^310]:
+[^171]: Al-Bidaya wa al-Nihaya, vol.9, p.310.
 
-[^172] Koran, al-An‘am, [^103]:
+[^172]: Koran, al-An‘am, [^103]:
 
-[^173] The tradition has been ascribed to Imam al-Jawad.
+[^173]: The tradition has been ascribed to Imam al-Jawad.
 
-[^174] Sharh Nahjj al-Balagha, vol.13, p.[^51]:
+[^174]: Sharh Nahjj al-Balagha, vol.13, p.51.
 
-[^175] Usul al-Kafi, vol.1, p.[^82]:
+[^175]: Usul al-Kafi, vol.1, p.82.
 
-[^176] Ibid, pp.88-[^89]:
+[^176]: Ibid, pp.88-[^89]:
 
-[^177] The great Moslem Philosopher, Sadr al-Din al-Shirazi,
+[^177]: The great Moslem Philosopher, Sadr al-Din al-Shirazi,
 
 has discussed that objectively in his book
 
 ‘al-Shawahid al-Rabawiya’.
 
-[^178] Usul al-Kafi, vol.1, p.[^92]:
+[^178]: Usul al-Kafi, vol.1, p.92.
 
-[^179] Ibid.
+[^179]: Ibid.
 
-[^180] Al-Nishu’ wa al-Irtiqa’, p.[^47]:
+[^180]: Al-Nishu’ wa al-Irtiqa’, p.47.
 
-[^181] Usul al-Kafi, vol.1, p.[^107]:
+[^181]: Usul al-Kafi, vol.1, p.107.
 
-[^182] Ibid, p.[^123]:
+[^182]: Ibid, p.123.
 
-[^183] Ibid, p.[^108]:
+[^183]: Ibid, p.108.
 
-[^184] Jami‘ al-Sa‘adat, vol.1, p.[^117]:
+[^184]: Jami‘ al-Sa‘adat, vol.1, p.117.

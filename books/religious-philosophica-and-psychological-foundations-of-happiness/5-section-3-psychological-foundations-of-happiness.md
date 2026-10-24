@@ -548,4 +548,3 @@ positive outlook. For those who sleep less than eight hours, every hour
 of sleep sacrificed results in an 8 percent less positive feeling about
 the day (Pilcher & Ott, 1998; Panos, 1997; cited in Niven, 2000).
 
-

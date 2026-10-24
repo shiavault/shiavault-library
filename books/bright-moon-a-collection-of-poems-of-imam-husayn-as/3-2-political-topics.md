@@ -17,59 +17,23 @@ taken distance from his bad conduct and deeds
 If he would have done so, he would have had at least one good quality
 among all these evils he has![^1]
 
-<blockquote dir="rtl">
-  <p>
-اقرب الشر الي الخير
-  </p>
-</blockquote>
+> اقرب الشر الي الخير
 
-<blockquote dir="rtl">
-  <p>
-اللهُ يعلَم أَنَّ مَا
-  </p>
-</blockquote>
+> اللهُ يعلَم أَنَّ مَا
 
-<blockquote dir="rtl">
-  <p>
-يبدِي يزيدُ لِغَيرِهِ
-  </p>
-</blockquote>
+> يبدِي يزيدُ لِغَيرِهِ
 
-<blockquote dir="rtl">
-  <p>
-وَ بِأَنَّهُ لَم يکتُبـ
-  </p>
-</blockquote>
+> وَ بِأَنَّهُ لَم يکتُبـ
 
-<blockquote dir="rtl">
-  <p>
-ـهُ بِخَيرِهِ وَ بِمِيرِهِ
-  </p>
-</blockquote>
+> ـهُ بِخَيرِهِ وَ بِمِيرِهِ
 
-<blockquote dir="rtl">
-  <p>
-لَو أَنصَفَ النَّفسَ الخَؤُو
-  </p>
-</blockquote>
+> لَو أَنصَفَ النَّفسَ الخَؤُو
 
-<blockquote dir="rtl">
-  <p>
-نَ لَقَصَرَت مِن سَيرِهِ
-  </p>
-</blockquote>
+> نَ لَقَصَرَت مِن سَيرِهِ
 
-<blockquote dir="rtl">
-  <p>
-وَ لَکَانَ ذَلِکَ مِنهُ أَد
-  </p>
-</blockquote>
+> وَ لَکَانَ ذَلِکَ مِنهُ أَد
 
-<blockquote dir="rtl">
-  <p>
-نَي شَرّهِ مِن خَيرِهِ
-  </p>
-</blockquote>
+> نَي شَرّهِ مِن خَيرِهِ
 
 Time of Wrongs
 --------------
@@ -86,71 +50,27 @@ Freemen are of no value and have become slaves of their own slaves
 Someone whose pastime is amassing wealth, is ignorant, capricious and
 uninformed.[^2]
 
-<blockquote dir="rtl">
-  <p>
-عصر الخطايا
-  </p>
-</blockquote>
+> عصر الخطايا
 
-<blockquote dir="rtl">
-  <p>
-وَقَعنَا فِي الخَطَا يا والَبلاَيا
-  </p>
-</blockquote>
+> وَقَعنَا فِي الخَطَا يا والَبلاَيا
 
-<blockquote dir="rtl">
-  <p>
-وَفِي زَمَنِ انتِقَاضٍ وَ اشتِبَاهِ
-  </p>
-</blockquote>
+> وَفِي زَمَنِ انتِقَاضٍ وَ اشتِبَاهِ
 
-<blockquote dir="rtl">
-  <p>
-تفَانَي الخَيرُ، وَالصُِلَحاءُ ذَلُّوا
-  </p>
-</blockquote>
+> تفَانَي الخَيرُ، وَالصُِلَحاءُ ذَلُّوا
 
-<blockquote dir="rtl">
-  <p>
-و عَزَّ بِذُلِّهِم أَهلُ السَّفَاهِ
-  </p>
-</blockquote>
+> و عَزَّ بِذُلِّهِم أَهلُ السَّفَاهِ
 
-<blockquote dir="rtl">
-  <p>
-وَ بَاءَ الآمِرُونَ بِکُلِّ عُرفٍ
-  </p>
-</blockquote>
+> وَ بَاءَ الآمِرُونَ بِکُلِّ عُرفٍ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا عَن مُنکَرٍ فَي النّاسِ نَاهِ
-  </p>
-</blockquote>
+> فَمَا عَن مُنکَرٍ فَي النّاسِ نَاهِ
 
-<blockquote dir="rtl">
-  <p>
-فَصارَ الحُرُّ لِلمَملُوکِ عَبداً
-  </p>
-</blockquote>
+> فَصارَ الحُرُّ لِلمَملُوکِ عَبداً
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لِلحُرِِّ مِن قَدرٍ وَ جَاهِ
-  </p>
-</blockquote>
+> فَمَا لِلحُرِِّ مِن قَدرٍ وَ جَاهِ
 
-<blockquote dir="rtl">
-  <p>
-فَهَذَا شُغلُهُ طَمَعٌ وَ جَمعٌ
-  </p>
-</blockquote>
+> فَهَذَا شُغلُهُ طَمَعٌ وَ جَمعٌ
 
-<blockquote dir="rtl">
-  <p>
-وَ هَذا غَافِلٌ سَکرَانُ لاَه
-  </p>
-</blockquote>
+> وَ هَذا غَافِلٌ سَکرَانُ لاَه
 
 Honorable Death
 ---------------
@@ -161,35 +81,15 @@ like
 If I would be given a choice between life and death; I will consider it
 better to move beautifully towards death.[^3]
 
-<blockquote dir="rtl">
-  <p>
-الموت بالعزة
-  </p>
-</blockquote>
+> الموت بالعزة
 
-<blockquote dir="rtl">
-  <p>
-أَذُلُّ الحَياةِ وَ ذُلُّ المَماتِ؟!
-  </p>
-</blockquote>
+> أَذُلُّ الحَياةِ وَ ذُلُّ المَماتِ؟!
 
-<blockquote dir="rtl">
-  <p>
-وَ کُلاً اَراهُ طَعاماً وَ بيلاً
-  </p>
-</blockquote>
+> وَ کُلاً اَراهُ طَعاماً وَ بيلاً
 
-<blockquote dir="rtl">
-  <p>
-فَإن کانَ لابُدَّ مِن اِحداهُما
-  </p>
-</blockquote>
+> فَإن کانَ لابُدَّ مِن اِحداهُما
 
-<blockquote dir="rtl">
-  <p>
-فَسَيري إلَي المَوتِ سَيراً جَميلاً
-  </p>
-</blockquote>
+> فَسَيري إلَي المَوتِ سَيراً جَميلاً
 
 The Fallen in front of Me
 -------------------------
@@ -219,107 +119,39 @@ Prophet of Islam (swaws)? While your faith and deeds are imperfect.
 
 The problem lies in you and not in the religion of Allah.[^4]
 
-<blockquote dir="rtl">
-  <p>
-الصريع امامي
-  </p>
-</blockquote>
+> الصريع امامي
 
-<blockquote dir="rtl">
-  <p>
-اَبي عَليُّ وَجَدّي خَاتُمُ الرُّسُلِ
-  </p>
-</blockquote>
+> اَبي عَليُّ وَجَدّي خَاتُمُ الرُّسُلِ
 
-<blockquote dir="rtl">
-  <p>
-وَ المُر تَضُونَ لِدينِ اللهِ مِن قَبلي
-  </p>
-</blockquote>
+> وَ المُر تَضُونَ لِدينِ اللهِ مِن قَبلي
 
-<blockquote dir="rtl">
-  <p>
-وَ اللهُ يعلَمُ وَ القُرآنُ ينطِقُهُ
-  </p>
-</blockquote>
+> وَ اللهُ يعلَمُ وَ القُرآنُ ينطِقُهُ
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الَّذي بِيدي مَن لَيسَ يملِکُ لي
-  </p>
-</blockquote>
+> إنَّ الَّذي بِيدي مَن لَيسَ يملِکُ لي
 
-<blockquote dir="rtl">
-  <p>
-ما يرتَجَي بِامرِءٍ لا قائِلَ عَذلاً
-  </p>
-</blockquote>
+> ما يرتَجَي بِامرِءٍ لا قائِلَ عَذلاً
 
-<blockquote dir="rtl">
-  <p>
-وَ لا يزيغُ اِلي قَولٍ وَ لا عَمَلٍ
-  </p>
-</blockquote>
+> وَ لا يزيغُ اِلي قَولٍ وَ لا عَمَلٍ
 
-<blockquote dir="rtl">
-  <p>
-وَ لايري خائِفاً في سِرَّهِ وَ جَلاً
-  </p>
-</blockquote>
+> وَ لايري خائِفاً في سِرَّهِ وَ جَلاً
 
-<blockquote dir="rtl">
-  <p>
-وَ لا يحاذِرُ مِن هِفوٍ وَ لا زَلَلٍ
-  </p>
-</blockquote>
+> وَ لا يحاذِرُ مِن هِفوٍ وَ لا زَلَلٍ
 
-<blockquote dir="rtl">
-  <p>
-يا وَيحَ نَفسي مِمّن لَيسَ يرحَمُها
-  </p>
-</blockquote>
+> يا وَيحَ نَفسي مِمّن لَيسَ يرحَمُها
 
-<blockquote dir="rtl">
-  <p>
-أَما لَهُ في کِتابِ اللهِ مِن مَثَلٍ
-  </p>
-</blockquote>
+> أَما لَهُ في کِتابِ اللهِ مِن مَثَلٍ
 
-<blockquote dir="rtl">
-  <p>
-أَمالَهُ في حَديثِ النّاسِ مَعتَبِرٌ
-  </p>
-</blockquote>
+> أَمالَهُ في حَديثِ النّاسِ مَعتَبِرٌ
 
-<blockquote dir="rtl">
-  <p>
-مِنَ العَمالِقَةِ العادِيةِ الاُوَلِ
-  </p>
-</blockquote>
+> مِنَ العَمالِقَةِ العادِيةِ الاُوَلِ
 
-<blockquote dir="rtl">
-  <p>
-يا أيهَا الرَّجُلُ المَغبُونُ شِيمَتُهُ
-  </p>
-</blockquote>
+> يا أيهَا الرَّجُلُ المَغبُونُ شِيمَتُهُ
 
-<blockquote dir="rtl">
-  <p>
-اِنّي وَرِثتُ رَسُولَ اللهِ عَن رُسُلِ
-  </p>
-</blockquote>
+> اِنّي وَرِثتُ رَسُولَ اللهِ عَن رُسُلِ
 
-<blockquote dir="rtl">
-  <p>
-أَأَنتَ أَولي بِهِ مِن آلِهِ فَبِما
-  </p>
-</blockquote>
+> أَأَنتَ أَولي بِهِ مِن آلِهِ فَبِما
 
-<blockquote dir="rtl">
-  <p>
-تَري اِعتلَلتَ وَ ما فِي الدّينِ مِن عِلَلٍ
-  </p>
-</blockquote>
+> تَري اِعتلَلتَ وَ ما فِي الدّينِ مِن عِلَلٍ
 
 Vicious Flies
 -------------
@@ -354,131 +186,47 @@ and turbulence and disobedience is sufficient for them
 Less is the number of people who are disobedient to God and God is not
 enough for them and God leaves them to their own fate.[^5]
 
-<blockquote dir="rtl">
-  <p>
-حشرات الشريرة
-  </p>
-</blockquote>
+> حشرات الشريرة
 
-<blockquote dir="rtl">
-  <p>
-ذَهَب الَّذِينَ أُحِبُّهُم
-  </p>
-</blockquote>
+> ذَهَب الَّذِينَ أُحِبُّهُم
 
-<blockquote dir="rtl">
-  <p>
-وَ بَقيتُ فِيمَن لاَ أُحِبُّه
-  </p>
-</blockquote>
+> وَ بَقيتُ فِيمَن لاَ أُحِبُّه
 
-<blockquote dir="rtl">
-  <p>
-فِيمَن أَرَاهُ يسُبُّني
-  </p>
-</blockquote>
+> فِيمَن أَرَاهُ يسُبُّني
 
-<blockquote dir="rtl">
-  <p>
-ظَهرَ المَغِيبِ وَ لاَ أَسُبُّه
-  </p>
-</blockquote>
+> ظَهرَ المَغِيبِ وَ لاَ أَسُبُّه
 
-<blockquote dir="rtl">
-  <p>
-يبغي فَسَادِي مَا استَطَاعَ
-  </p>
-</blockquote>
+> يبغي فَسَادِي مَا استَطَاعَ
 
-<blockquote dir="rtl">
-  <p>
-وَ اَمرُهُ مِمَّا أرُبُّه
-  </p>
-</blockquote>
+> وَ اَمرُهُ مِمَّا أرُبُّه
 
-<blockquote dir="rtl">
-  <p>
-حَنقاً يدُبُّ إلَي الضَّرّا
-  </p>
-</blockquote>
+> حَنقاً يدُبُّ إلَي الضَّرّا
 
-<blockquote dir="rtl">
-  <p>
-ءِوَذَاکَ مِمّاَ لاَ أَدُبُّه
-  </p>
-</blockquote>
+> ءِوَذَاکَ مِمّاَ لاَ أَدُبُّه
 
-<blockquote dir="rtl">
-  <p>
-وَ يري ذُبَابَ الشَّرَّ مِن
-  </p>
-</blockquote>
+> وَ يري ذُبَابَ الشَّرَّ مِن
 
-<blockquote dir="rtl">
-  <p>
-حَولي يطِنُّ وَ لاَ يذُبُّه
-  </p>
-</blockquote>
+> حَولي يطِنُّ وَ لاَ يذُبُّه
 
-<blockquote dir="rtl">
-  <p>
-وَ إذَا خَبَا وَ غرَ الصُّدُو
-  </p>
-</blockquote>
+> وَ إذَا خَبَا وَ غرَ الصُّدُو
 
-<blockquote dir="rtl">
-  <p>
-رِفَلاَ يزَالُ بِهِ يشِبُّه
-  </p>
-</blockquote>
+> رِفَلاَ يزَالُ بِهِ يشِبُّه
 
-<blockquote dir="rtl">
-  <p>
-أَفَلاَ يعِيجُ بِعَقلِهِ
-  </p>
-</blockquote>
+> أَفَلاَ يعِيجُ بِعَقلِهِ
 
-<blockquote dir="rtl">
-  <p>
-أَفَلاَ يثُوبُ إلَيهِ لُبُّه
-  </p>
-</blockquote>
+> أَفَلاَ يثُوبُ إلَيهِ لُبُّه
 
-<blockquote dir="rtl">
-  <p>
-أَفَلاَ يرَي اَنَّ فِعلَهُ
-  </p>
-</blockquote>
+> أَفَلاَ يرَي اَنَّ فِعلَهُ
 
-<blockquote dir="rtl">
-  <p>
-مِمَّا يسُورُ إلَيهِ غِبُّه
-  </p>
-</blockquote>
+> مِمَّا يسُورُ إلَيهِ غِبُّه
 
-<blockquote dir="rtl">
-  <p>
-حَسبِي بِرَبِّي کَافِياً
-  </p>
-</blockquote>
+> حَسبِي بِرَبِّي کَافِياً
 
-<blockquote dir="rtl">
-  <p>
-مَا أَختَشِي وَ البَغي حَسبُه
-  </p>
-</blockquote>
+> مَا أَختَشِي وَ البَغي حَسبُه
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَلَّ مَن يبغي عَلَيـ
-  </p>
-</blockquote>
+> وَ لَقَلَّ مَن يبغي عَلَيـ
 
-<blockquote dir="rtl">
-  <p>
-ـِه فَمَا کَفَاهُ اللهُ رَبُّه
-  </p>
-</blockquote>
+> ـِه فَمَا کَفَاهُ اللهُ رَبُّه
 
 O Soul! Be Patient
 ------------------
@@ -494,35 +242,15 @@ desire I wish for most
 I am the grandson of Prophet of Allah (swaws), whose existence was clean
 of any kind of vice, impurity and obscenity.[^6]
 
-<blockquote dir="rtl">
-  <p>
-يا نفس کوني هونا
-  </p>
-</blockquote>
+> يا نفس کوني هونا
 
-<blockquote dir="rtl">
-  <p>
-يا نَفسُ صَبراً فَالمُني بَعدَ العَطَشِ
-  </p>
-</blockquote>
+> يا نَفسُ صَبراً فَالمُني بَعدَ العَطَشِ
 
-<blockquote dir="rtl">
-  <p>
-وَ أنَّ رُوحي فِي الجِهادِ مُنکَمَش
-  </p>
-</blockquote>
+> وَ أنَّ رُوحي فِي الجِهادِ مُنکَمَش
 
-<blockquote dir="rtl">
-  <p>
-لا اَرهَبُ المَوتَ إذِ المَوتُ وَحَش
-  </p>
-</blockquote>
+> لا اَرهَبُ المَوتَ إذِ المَوتُ وَحَش
 
-<blockquote dir="rtl">
-  <p>
-جَدّي رَسُولُ اللهِ ما فيهِ فَحَش
-  </p>
-</blockquote>
+> جَدّي رَسُولُ اللهِ ما فيهِ فَحَش
 
 Forgetting Oneself and …
 ------------------------
@@ -540,71 +268,27 @@ solitude and there he will be separated from his family and friends
 The positions he held in this world could not help him in retaining his
 land and his wealth and prevent others from taking them from him.[^7]
 
-<blockquote dir="rtl">
-  <p>
-تناسي النفس و …
-  </p>
-</blockquote>
+> تناسي النفس و …
 
-<blockquote dir="rtl">
-  <p>
-فَإنَّ سُدُورَهُ أَمسَي غُرُوراً
-  </p>
-</blockquote>
+> فَإنَّ سُدُورَهُ أَمسَي غُرُوراً
 
-<blockquote dir="rtl">
-  <p>
-وَ حَلَّ بِهِ مُلِمَّاتُ الزَّوَالِ
-  </p>
-</blockquote>
+> وَ حَلَّ بِهِ مُلِمَّاتُ الزَّوَالِ
 
-<blockquote dir="rtl">
-  <p>
-وَ عُرِّي عَن ثِيابٍ کَانَ فيهَا
-  </p>
-</blockquote>
+> وَ عُرِّي عَن ثِيابٍ کَانَ فيهَا
 
-<blockquote dir="rtl">
-  <p>
-وَ أُلبِسَ بَعدُ أَثوَابَ انتِقَالِ
-  </p>
-</blockquote>
+> وَ أُلبِسَ بَعدُ أَثوَابَ انتِقَالِ
 
-<blockquote dir="rtl">
-  <p>
-وَ بَعدَ رُکُوبِهِ الأَفرَاسَ تَيهاً
-  </p>
-</blockquote>
+> وَ بَعدَ رُکُوبِهِ الأَفرَاسَ تَيهاً
 
-<blockquote dir="rtl">
-  <p>
-يهَادي بَينَ أعنَاقِ الرِّجالِ
-  </p>
-</blockquote>
+> يهَادي بَينَ أعنَاقِ الرِّجالِ
 
-<blockquote dir="rtl">
-  <p>
-إلي قَبرٍ يغَادِرُ فِيهِ فَرداً
-  </p>
-</blockquote>
+> إلي قَبرٍ يغَادِرُ فِيهِ فَرداً
 
-<blockquote dir="rtl">
-  <p>
-نَأَي مِنهُ الأَقَارِبُ والمَوَالِي
-  </p>
-</blockquote>
+> نَأَي مِنهُ الأَقَارِبُ والمَوَالِي
 
-<blockquote dir="rtl">
-  <p>
-تَخَلَّي عَن مُوَرَّثِهِ وَ وَلَّي
-  </p>
-</blockquote>
+> تَخَلَّي عَن مُوَرَّثِهِ وَ وَلَّي
 
-<blockquote dir="rtl">
-  <p>
-وَ لَم تُحجِبهُ مَأثَرَةُ المَعَالِي
-  </p>
-</blockquote>
+> وَ لَم تُحجِبهُ مَأثَرَةُ المَعَالِي
 
 Shots on Target
 ---------------
@@ -633,95 +317,35 @@ descendance of Jebra’eel stopped
 O you the calamities of this world! Now we have been chosen for each
 other and the merciful and beneficent Allah is enough for me.[^8]
 
-<blockquote dir="rtl">
-  <p>
-مرامي المصيبة
-  </p>
-</blockquote>
+> مرامي المصيبة
 
-<blockquote dir="rtl">
-  <p>
-يا نَکَبَاتِ الدَّهرِ دُولي دُولي
-  </p>
-</blockquote>
+> يا نَکَبَاتِ الدَّهرِ دُولي دُولي
 
-<blockquote dir="rtl">
-  <p>
-وَ أَقصِري اِن شِئتِ أَو أَطِيلي
-  </p>
-</blockquote>
+> وَ أَقصِري اِن شِئتِ أَو أَطِيلي
 
-<blockquote dir="rtl">
-  <p>
-رَمَيتَني رَميةً لاً مَقيلِ
-  </p>
-</blockquote>
+> رَمَيتَني رَميةً لاً مَقيلِ
 
-<blockquote dir="rtl">
-  <p>
-بکُلِّ خَطبٍ فَادِحٍ جَليلِ
-  </p>
-</blockquote>
+> بکُلِّ خَطبٍ فَادِحٍ جَليلِ
 
-<blockquote dir="rtl">
-  <p>
-وَ کُلِّ غِبءٍ (عبء) أَيدٍ ثَقيلِ
-  </p>
-</blockquote>
+> وَ کُلِّ غِبءٍ (عبء) أَيدٍ ثَقيلِ
 
-<blockquote dir="rtl">
-  <p>
-أَوَّلَ مَا رُزِئتُ بِالرَّسُولِ
-  </p>
-</blockquote>
+> أَوَّلَ مَا رُزِئتُ بِالرَّسُولِ
 
-<blockquote dir="rtl">
-  <p>
-وَ بَعدُ بالطَّاهِرةِ البَتُولِ
-  </p>
-</blockquote>
+> وَ بَعدُ بالطَّاهِرةِ البَتُولِ
 
-<blockquote dir="rtl">
-  <p>
-وَ الوَالِدِ البَرِّ بِنَا الوَصُولِ
-  </p>
-</blockquote>
+> وَ الوَالِدِ البَرِّ بِنَا الوَصُولِ
 
-<blockquote dir="rtl">
-  <p>
-وَبالشَّقِيقِ الحَسَنِ الجَليلِ
-  </p>
-</blockquote>
+> وَبالشَّقِيقِ الحَسَنِ الجَليلِ
 
-<blockquote dir="rtl">
-  <p>
-وَ البَيتِ ذِي التَّأوِيلِ والتَّنزِيلِ
-  </p>
-</blockquote>
+> وَ البَيتِ ذِي التَّأوِيلِ والتَّنزِيلِ
 
-<blockquote dir="rtl">
-  <p>
-وَ زَورُنَا المَعرُوفُ مِن جِبريلَ
-  </p>
-</blockquote>
+> وَ زَورُنَا المَعرُوفُ مِن جِبريلَ
 
-<blockquote dir="rtl">
-  <p>
-فَمالَهُ فِي الرَّزءِ مِن عَديلٍ
-  </p>
-</blockquote>
+> فَمالَهُ فِي الرَّزءِ مِن عَديلٍ
 
-<blockquote dir="rtl">
-  <p>
-مالَکَ عَنّي اليومَ مِن عُدُولِ
-  </p>
-</blockquote>
+> مالَکَ عَنّي اليومَ مِن عُدُولِ
 
-<blockquote dir="rtl">
-  <p>
-وَ حَسبَي الرَّحمنُ مِن مَنيلِ
-  </p>
-</blockquote>
+> وَ حَسبَي الرَّحمنُ مِن مَنيلِ
 
 [^1]: Kashf al Ghammah, vol. 2, p. 35; A’yaan al-Shia, vol. 1, p. 621.
 
@@ -741,5 +365,4 @@ al Ghammah, vol. 2, p. 34.
 [^7]: Adab al-Husayn wal Hamasah, p. 53.
 
 [^8]: Bihar Al-Anwar, vol. 78, p. 125; Kashf al Ghammah, vol. 2, p. 38.
-
 

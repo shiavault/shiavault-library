@@ -283,4 +283,3 @@ of them” (Usul al-kafi II:131). His disinterest in the fate of the Call
 and of the Ummah would have actually make him derelict in his
 obligations and trustworthiness.
 
-

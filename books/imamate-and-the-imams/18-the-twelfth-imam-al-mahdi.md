@@ -1225,4 +1225,3 @@ in the year 1432 A.H.
 
 [^67]: Biharul Anwar, Vol 52, p. 358.
 
-

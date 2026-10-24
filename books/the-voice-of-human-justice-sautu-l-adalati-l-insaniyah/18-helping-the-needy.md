@@ -708,4 +708,3 @@ hand it over to government only when none of their relatives,
 neighbours, acquaintances, and residents of their town is entitled to
 it.
 
-

@@ -179,4 +179,3 @@ The Hijaz did not take sides in the conflict between the pro-Alid and
 pro-Umayyad parties, but it staged a movement which may be called "the
 movement of the Companion's descendants" (abna' al-sahabah).
 
-

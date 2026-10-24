@@ -68,12 +68,8 @@ that of idol worshipers. This is because they were also of the view that
 the idols they worshiped were able to intercede for them with Allah.
 Addressing them, Allah the Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ
-وَكَانَ الْكَافِرُ عَلَى رَبِّهِ ظَهِيرًا
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ
+> وَكَانَ الْكَافِرُ عَلَى رَبِّهِ ظَهِيرًا
 
 ***And they serve besides Allah that which neither profits them nor
 causes them harm; and the unbeliever is a partisan against his Lord.***
@@ -210,5 +206,4 @@ See 'Ayan al-Shi'a, vol. 10, p. 296.
 [^11]: Ibid, p. 259.
 
 [^12]: Ibid, vol. 4, p. 87.
-
 

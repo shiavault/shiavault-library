@@ -3,12 +3,8 @@ Lesson Eighty One: Devilish People
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إذا رَأَيْتُمُ الرَّجُلَ لايُبالِى مَا قالَ أَوْ ما قِيْلَ فِيْهِ
-فَإنَّهُ لَبَغيَّةٌ أَوْ شَيْطانٌ
-  </p>
-</blockquote>
+> إذا رَأَيْتُمُ الرَّجُلَ لايُبالِى مَا قالَ أَوْ ما قِيْلَ فِيْهِ
+> فَإنَّهُ لَبَغيَّةٌ أَوْ شَيْطانٌ
 
 Translation
 -----------
@@ -26,5 +22,4 @@ said about himself. Such persons are mean, shameless , devilish.
 
 [^1]: Bihar al-Anwar, volume 74, page 147. Al-Kafi, vol 2, page 323.
 Wasa'il Al-Shia, vol 16, page 34. Tuhafu AlUqul, page 44.
-
 

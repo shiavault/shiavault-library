@@ -1,13 +1,9 @@
 Pleasant Fragrance of The Holy Prophet
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ : يا أُمّاهُ إِنّي أَشَمُّ عِندَكِ رائِحَةً طَيِّبَةً كَأَنَّها
-رائِحَةُ جَدِي رَسُولِ اللهِ ( صلى الله عليه وآله ) ، فَقُلتُ : نَعَم
-إِنَّ جَدَّكَ تَحتَ الكِساء ،
-  </p>
-</blockquote>
+> فَقالَ : يا أُمّاهُ إِنّي أَشَمُّ عِندَكِ رائِحَةً طَيِّبَةً كَأَنَّها
+> رائِحَةُ جَدِي رَسُولِ اللهِ ( صلى الله عليه وآله ) ، فَقُلتُ : نَعَم
+> إِنَّ جَدَّكَ تَحتَ الكِساء ،
 
 **I replied. "O mother," he said, "I can smell a pleasing scent as if it
 is the scent of my grandfather the Messenger of Allah, peace be upon him
@@ -72,5 +68,4 @@ So Imam Hasan (AS) recognized his grandfather’s presence at home just by
 his purified scent. Sure enough, Lady Fatima (AS) confirms that
 deduction and informs Hasan that his grandfather is indeed under the
 cloak.
-
 

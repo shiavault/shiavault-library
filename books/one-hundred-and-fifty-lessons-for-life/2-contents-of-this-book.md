@@ -29,4 +29,3 @@ these traditions and then for being able to act on them.
 
 Qom, Nasir Makarim Shirazi, 1976
 
-

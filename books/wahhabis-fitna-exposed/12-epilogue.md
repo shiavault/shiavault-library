@@ -285,4 +285,3 @@ places forbidden.
 
 [^9]: Qur’an, 61:8.
 
-

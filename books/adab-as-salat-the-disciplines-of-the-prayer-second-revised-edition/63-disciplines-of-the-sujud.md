@@ -49,4 +49,3 @@ with Allah, and forsaking other than Allah, the Exalted.
 
 [^2]: Misbāh ash-Sharī'ah, ch. 16, on “The Sujūd.”
 
-

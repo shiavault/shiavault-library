@@ -41,4 +41,3 @@ learned Ayatullah shall be a guide, Inshallah, for the young individuals
 who are on the threshold of embarking on married life. Our sincere good
 wishes and blessings for all such young persons!
 
-

@@ -227,4 +227,3 @@ May Allah bless His devout slaves, Khadija; Abu Talib and his wife,
 Fatima bint Asad. All three of them were the “instruments” through which
 He consolidated Islam, and made it viable.
 
-

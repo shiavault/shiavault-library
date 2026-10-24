@@ -235,4 +235,3 @@ Nor is every book pleasing, educational, instructive and advantageous.
 Crime, horror and sex films are not worthy of appreciation. Rather they
 turn youth into untimely old age.
 
-

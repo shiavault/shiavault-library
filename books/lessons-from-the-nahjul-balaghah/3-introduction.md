@@ -338,4 +338,3 @@ when they embraced Islam.
 
 [^2]: This title is still found in many books of our Sunni brethren.
 
-

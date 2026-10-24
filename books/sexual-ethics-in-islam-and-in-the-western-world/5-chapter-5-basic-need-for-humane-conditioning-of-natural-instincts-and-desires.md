@@ -106,11 +106,7 @@ human refinement, such as when it asserts that a conscientiously
 righteous person is one who has been able to refine, discipline and
 purify his natural instincts and desires.
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَن زَكَّاهَا
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَن زَكَّاهَا
 
 ***“He will indeed be successful who purifies it” (Sura ash-Shams, 91:
 9)***
@@ -558,5 +554,4 @@ political fields.
  Likewise, limitation on, and regulation of, sexual behaviour and the
 related activities, consistent with the needs of chastity and rectitude,
 should also be acceptable to everyone
-
 

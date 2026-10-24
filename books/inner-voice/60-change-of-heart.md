@@ -46,4 +46,3 @@ you too”.
 The enemy of a few minutes ago was now a faithful follower of the Holy
 Prophet (S.A.). This is the change of heart which really matters.
 
-

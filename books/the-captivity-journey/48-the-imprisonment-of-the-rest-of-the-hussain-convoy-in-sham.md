@@ -64,4 +64,3 @@ Messenger of Allah to
 his private house, and he refused to eat lunch or dinner without the
 presence of the Imam (Q).
 
-

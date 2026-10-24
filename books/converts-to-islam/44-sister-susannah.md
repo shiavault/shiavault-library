@@ -107,4 +107,3 @@ Susannah
 sustenance from the heaven and the earth. Is there a god With Allah?
 Say: Bring your proof if you are truthful.***
 
-

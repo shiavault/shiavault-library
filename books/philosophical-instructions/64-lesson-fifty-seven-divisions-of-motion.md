@@ -250,4 +250,3 @@ which it previously lacked, although it previously may have possessed
 something similar or more perfect, as was mentioned regarding the
 relation between the potential and the actual.
 
-

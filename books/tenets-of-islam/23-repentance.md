@@ -8,4 +8,3 @@ Qur'an and the traditions of the Holy Prophet clearly indicate. common
 sense also appeals that one must take steps to ward off any possible
 harm.
 
-

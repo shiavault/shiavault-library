@@ -128,13 +128,9 @@ the plural form‑have had no existence; only “Religion” (in its singular
 form) has existed. All prophets preached and taught the same faith, the
 same path, and the same purpose:
 
-<blockquote dir="rtl">
-  <p>
-شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
-أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
-وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ
-  </p>
-</blockquote>
+> شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
+> أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
+> وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ
 
 ***“He has ordained for you the religion that He charged Noah with, and
 that we have revealed to thee, and that we charged Abraham with, Moses
@@ -150,5 +146,4 @@ than one religion is based on the outlook about man and society that
 mankind is one and a single species and those men are not different in
 their human essence. In the same way, human society, as an objective
 entity, represents a single species, not a plurality of kinds.
-
 

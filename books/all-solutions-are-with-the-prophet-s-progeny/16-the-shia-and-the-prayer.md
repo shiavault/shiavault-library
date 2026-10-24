@@ -333,4 +333,3 @@ inside his house and away from people, because such things are from
 Satan, whereas our religion is a religion of ease and a civilized way of
 life for all humankind.
 
-

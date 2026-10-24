@@ -275,4 +275,3 @@ these words are followed by the text as given in the tradition above.
 (Bukhari, Kitab-ul-Muzalim: Bab: Kasr-ul- Salib Ibn Majah,
 Kitab-ul-Fitan al-Dajjal.)
 
-

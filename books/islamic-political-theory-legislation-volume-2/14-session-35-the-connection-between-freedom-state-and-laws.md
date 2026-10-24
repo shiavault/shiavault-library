@@ -77,21 +77,13 @@ Man’s possession of this freedom is creational. Nowadays, nobody denies
 it nor regards himself as totally under compulsion, having no freewill
 of his own. The Qur’an emphasizes this:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقُلِ الْحَقُّ مِن رَّبَكُمْ فَمَن شَاءَ فَلْيُؤْمِن وَمَن شَاء
-فَلْيَكْفُرْ...﴾
-  </p>
-</blockquote>
+> ﴿وَقُلِ الْحَقُّ مِن رَّبَكُمْ فَمَن شَاءَ فَلْيُؤْمِن وَمَن شَاء
+> فَلْيَكْفُرْ...﴾
 
 “And say, ‘[This is] the truth from your Lord: let anyone who wishes
 believe it, and let anyone who wishes disbelieve it’...”[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا﴾
 
 ***“Indeed We have guided him to the way, be he grateful or
 ungrateful.**”*[^3]
@@ -229,12 +221,8 @@ persistent and unrelenting in warning and frightening the people of
 divine wrath that one of the well-known titles of all apostles is
 “warner” [*nadhir* or *mundhir*]:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِنْ
-أُمَّةٍ إِلاَّ خَلاَ فِيهَا نَذِيرٌ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِنْ
+> أُمَّةٍ إِلاَّ خَلاَ فِيهَا نَذِيرٌ﴾
 
 “Indeed We have sent you with the truth as a bearer of good news and as
 a warner; and there is not a nation but a warner has passed in it.”[^4]
@@ -334,14 +322,10 @@ and manifestation of our evil deeds in this world. But why has He
 ordered one who commits a specific offense like adultery [*zina*] to be
 punished and embarrassed in front of people?
 
-<blockquote dir="rtl">
-  <p>
-﴿ٱلزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِئَةَ
-جَلْدَةٍ وَلاَ تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
-كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ﴾
-  </p>
-</blockquote>
+> ﴿ٱلزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِئَةَ
+> جَلْدَةٍ وَلاَ تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
+> كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ﴾
 
 “As for the fornicatress and the fornicator, strike each of them a
 hundred lashes, and let not pity for them overcome you in Allah’s law,
@@ -607,5 +591,4 @@ http://www.al-islam.org/at-tawhid/kalam.htm. [Trans.]
 [^4]: Surah Fatir (or al-Mala’ikah) 35:24.
 
 [^5]: Surah an-Nur 24:2.
-
 

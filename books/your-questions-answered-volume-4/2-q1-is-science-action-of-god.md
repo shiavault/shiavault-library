@@ -287,4 +287,3 @@ It is Allah who appoints Prophets and Imams. Hadhrat Isma'il and Hadhrat
 Ishaq were prophets as designated by Allah. (I advise you to read
 'Prophethood' published by this Mission).
 
-

@@ -248,4 +248,3 @@ so it is.***
 ***(83) Therefore glory be to Him in Whose hand is the kingdom of all
 things, and to Him you shall be brought back.***
 
-

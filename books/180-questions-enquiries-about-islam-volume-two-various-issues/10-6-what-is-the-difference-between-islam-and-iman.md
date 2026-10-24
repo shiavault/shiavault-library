@@ -3,12 +3,8 @@
 
 In verse 14 of Suratul Hujurat, we read:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتِ الأََعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَ لٌكِنْ قُولُوا
-أَسْلَمْنَا وَ لَمَّا يَدْخُلِ الإِِيْمَانُ فِي قُلُوبِكُمْ
-  </p>
-</blockquote>
+> قَالَتِ الأََعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَ لٌكِنْ قُولُوا
+> أَسْلَمْنَا وَ لَمَّا يَدْخُلِ الإِِيْمَانُ فِي قُلُوبِكُمْ
 
 ***“The dwellers of the desert say: We believe. Say: You do not believe
 but say, We submit; and faith has not yet entered into your hearts.”***
@@ -29,23 +25,15 @@ benefits, yet Iman always stems from knowledge, awareness and spiritual
 motives and it is due to this Iman that taqwa (piety) manifests itself.
 This is witnessed in an eloquent statement of the Noble Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-اَلإِسْلاَمُ عَلاَنِيَيَّةٌةُ وَ الإِيـمَانُ فِي الْقَلْبِ‏.
-  </p>
-</blockquote>
+> اَلإِسْلاَمُ عَلاَنِيَيَّةٌةُ وَ الإِيـمَانُ فِي الْقَلْبِ‏.
 
 “Islam is (a) proclaimed (issue), whereas Iman is housed in the
 heart.”[^2]
 
 In another tradition, Imam as-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-اَلإِسْلاَمُ يُحْقَنُ بِهِ الدَّمُ وَ تُؤَدَّى بِهِ الأََمَانَةُ وَ
-تُسْتَحَلُّ بِهِ الْفُرُوجُ وَ الثَّوَابُ عَلـى الإِِيـمَانِ.
-  </p>
-</blockquote>
+> اَلإِسْلاَمُ يُحْقَنُ بِهِ الدَّمُ وَ تُؤَدَّى بِهِ الأََمَانَةُ وَ
+> تُسْتَحَلُّ بِهِ الْفُرُوجُ وَ الثَّوَابُ عَلـى الإِِيـمَانِ.
 
 “By means of Islam, the blood (of man) is safeguarded, trusts are
 returned, matrimony becomes lawful; but rewards are on account of
@@ -55,12 +43,8 @@ And it is for this very reason that in some traditions the concept of
 Islam has been confined to the vocal testimony, whereas Iman has been
 emphasized as being testimony in conjunction with deeds.
 
-<blockquote dir="rtl">
-  <p>
-اَلإِِيـمَانُ إِقْرَارٌ وَ عَمَلٌ وَ الإِِسْلاَمُ إِقْرَارٌ بِلاَ
-عَمَلٍ.
-  </p>
-</blockquote>
+> اَلإِِيـمَانُ إِقْرَارٌ وَ عَمَلٌ وَ الإِِسْلاَمُ إِقْرَارٌ بِلاَ
+> عَمَلٍ.
 
 “True faith is to testify and to act while submission (al-Islam) is to
 testify prior to acting.”[^4]
@@ -68,14 +52,10 @@ testify prior to acting.”[^4]
 This meaning is also seen under the discussion 'Islam and Iman'; Fudhail
 ibne Yasar states: I heard Imam as-Sadiq (a.s.) say:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِيـمَانَ يُشَارِكُ الإِِسْلاَمَ وَ لاَ يُشَارِكُهُ
-الإِِسْلاَمُ إِنَّ الإِِيـمَانَ مَا وَقَرَ فِي الْقُلُوبِ وَ
-الإِِسْلاَمَ مَا عَلَيْهِ الْمَنَاكِحُ وَ الْمَوَارِيثُ وَ حِقْنِ
-الدِّمَآءِ.
-  </p>
-</blockquote>
+> إِنَّ الإِيـمَانَ يُشَارِكُ الإِِسْلاَمَ وَ لاَ يُشَارِكُهُ
+> الإِِسْلاَمُ إِنَّ الإِِيـمَانَ مَا وَقَرَ فِي الْقُلُوبِ وَ
+> الإِِسْلاَمَ مَا عَلَيْهِ الْمَنَاكِحُ وَ الْمَوَارِيثُ وَ حِقْنِ
+> الدِّمَآءِ.
 
 “Verily, «man teams up with Islam but Islam does not team up with «man.
 Indeed, Iman is that which settles into the heart whereas Islam is that,
@@ -101,5 +81,4 @@ and 2
 [^5]: Ibid., no. 3
 
 [^6]: Tafsir-e-Namuna, vol. 22, pg. 210
-
 

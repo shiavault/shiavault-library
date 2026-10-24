@@ -153,4 +153,3 @@ Sayyid Mujtaba Musavi Lari
 
 Rabi’ul Aww’al, 1387 (1967)
 
-

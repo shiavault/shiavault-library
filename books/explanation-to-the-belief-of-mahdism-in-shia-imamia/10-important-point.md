@@ -638,4 +638,3 @@ should here like to offer my apologies, in case, I have been short of
 politeness. I bank on the funds of their understanding and their
 forgiveness.
 
-

@@ -49,4 +49,3 @@ Mount Sinai was of that kind. It could have moved the mountain if God
 had so desired. It can be said that by making this statement, he laid
 the foundation of the theory of the laser.
 
-

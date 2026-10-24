@@ -77,7 +77,6 @@ as Caliph. This explains why they are unanimous in saying that the
 Prophet did not nominate his successor. But as a piece of historical
 evidence, this unanimity is of no value.
 
-
 **Chapter Two : The Parties**
 
 We have seen that the birth of the Islamic State gave rise to
@@ -492,5 +491,4 @@ propaganda and intrigue.
 Feelings of animosity against Imam Ali, lurking paganism, trial
 jealousy and ambition, all combined together to make these parties
 coalesce into one solid block against him.
-
 

@@ -46,4 +46,3 @@ oppressed and is on the look-out for the oppressors."
 
 Nahjul-Balagha, Letter 53
 
-

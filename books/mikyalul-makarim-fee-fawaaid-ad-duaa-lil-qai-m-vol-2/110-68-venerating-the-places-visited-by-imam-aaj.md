@@ -17,12 +17,8 @@ Discussion One: We are the Signs and Companions
 1. The proof of their being mustahab (recommended) is based on the
 Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ
-  </p>
-</blockquote>
+> ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ
 
 ***And whoever respects the signs of Allah, this surely is (the outcome)
 of the piety of hearts. (Qur’an, Surah Hajj 22:32)***
@@ -45,11 +41,7 @@ penalties, Hajj and its rituals etc.
 
 Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ َ
-  </p>
-</blockquote>
+> وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ َ
 
 ***And (as for) the camels, We have made them of the signs of the
 religion of Allah for you. (Qur’an, Surah Hajj 22:36)***
@@ -79,23 +71,15 @@ It can be further explained that the Almighty Allah mentioned some laws
 in Surah Hajj, commanded monotheism, sincerity and aloofness from
 polytheism and then He said:
 
-<blockquote dir="rtl">
-  <p>
-حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ
-  </p>
-</blockquote>
+> حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ
 
 ***Being upright for Allah, not associating aught with Him. (Qur’an,
 Surah Hajj 22:31)***
 
 Then He informs about the consequences of polytheism saying:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُشْرِكْ بِاللَّهِ فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ
-فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ
-  </p>
-</blockquote>
+> وَمَنْ يُشْرِكْ بِاللَّهِ فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ
+> فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ
 
 ***And whoever associates (others) with Allah, it is as though he had
 fallen from on high, then the birds snatch him away or the wind carries
@@ -104,11 +88,7 @@ him off to a far-distant place. (Qur’an, Surah Hajj 22:31)***
 Then He explained the signs of monotheism and faith in the following
 words:
 
-<blockquote dir="rtl">
-  <p>
-ومن يعظم شعائر الله فإنها من تقوى القلوب.
-  </p>
-</blockquote>
+> ومن يعظم شعائر الله فإنها من تقوى القلوب.
 
 ***And whoever respects the signs of Allah, this surely is (the outcome)
 of the piety of hearts.***
@@ -161,11 +141,7 @@ descendants and followers etc. all such things deserve attention and
 there is supplication of month of Rajab, quoted from Hazrat Hujjat (as).
 And the Almighty Allah says to Prophet Isa (as):
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
-  </p>
-</blockquote>
+> وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
 
 ***And when you brought forth the dead by My permission. (Qur’an, Surah
 Maidah 5:110)***
@@ -219,11 +195,7 @@ divine will and the supporters and defenders of the religion of Allah,
 as mentioned in the supplication of month of Rajab, quoted from Hazrat
 Hujjat (as). And the Almighty Allah says to Prophet Isa (as):
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
-  </p>
-</blockquote>
+> وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
 
 ***And when you brought forth the dead by My permission. (Qur’an, Surah
 Maidah 5:110)***
@@ -261,12 +233,8 @@ description of the Imam in which Imam Muhammad Baqir (as) says: When the
 Imam is a fetus he hears the talk (of people) in the womb and when he is
 born, the following is inscribed on his right arm:
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ
-لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ
+> لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 ***And the word of your Lord has been accomplished truly and justly;
 there is none who can change His words, and He is the Hearing, the
@@ -316,11 +284,7 @@ fixed in it by His sunnats. And in another Ziarat regarding His Eminence
 (aj) it is mentioned: Peace be on the elevated self of Allah. And that
 which is explained in the verse:
 
-<blockquote dir="rtl">
-  <p>
-تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ
-  </p>
-</blockquote>
+> تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ
 
 ***You know what is in my mind (Nafs), and I do not know what is in Your
 mind.*** ***(Qur’an, Surah Maidah 5:116)***
@@ -338,17 +302,9 @@ His Eminence; it does not contradict the fact that His Eminence is the
 gatherer and the gathered one also, he is the account taker as well as
 the account giver as mentioned in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِلَيْنَا إِيَابَهُمْ.
-  </p>
-</blockquote>
+> إِنَّ إِلَيْنَا إِيَابَهُمْ.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
 
 ***Surely to Us is their turning back. Then surely upon Us is the taking
 of their account.*** ***(Qur’an, Surah Ghashiyah 88:25-26)***
@@ -425,11 +381,7 @@ people.
 
 3. Among the evidences is the saying of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
 
 ***In houses which Allah has permitted to be exalted and that His name
 may be remembered in them.*** ***(Qur’an, Surah Noor 24:36)***
@@ -456,22 +408,14 @@ from quoting them all for the sake of brevity: The point of evidence is
 that here the word ‘permitted’ is in the meaning of command like in the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَدَاعِيًا إِلَى اللَّهِ بِإِذْنِهِ
-  </p>
-</blockquote>
+> وَدَاعِيًا إِلَى اللَّهِ بِإِذْنِهِ
 
 ***And as one inviting to Allah by His permission.*** ***(Qur’an, Surah
 Ahzab 33:46)***
 
 Or it is in the meaning of intention, like in the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
-  </p>
-</blockquote>
+> وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
 
 ***And [O Prophet, remember the time when the Almighty Allah said to Isa
 (as)] when you brought forth the dead by My permission.*** ***(Qur’an,
@@ -511,12 +455,8 @@ and this is present in all places that they have stayed, as is clear.
 
 4. For example the statement of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِالْوَادِ
-الْمُقَدَّسِ طُوًى
-  </p>
-</blockquote>
+> إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِالْوَادِ
+> الْمُقَدَّسِ طُوًى
 
 ***Therefore put off your shoes; surely you are in the sacred valley,
 Tuwa.*** ***(Qur’an, Surah Taha 20:12)***
@@ -574,12 +514,8 @@ who resides in these houses has made my heart loving.
 
 8. For example, the statement of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ
-إِلَّا أَنْ يُؤْذَنَ لَكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ
+> إِلَّا أَنْ يُؤْذَنَ لَكُمْ
 
 ***O you who believe! do not enter the houses of the Prophet unless
 permission is given to you.*** ***(Qur’an, Surah Ahzab 33:53)***
@@ -647,12 +583,8 @@ biographies. It is mentioned in traditional reports that the sand on
 which fell the hooves of the horse of Jibraeel (as) on the day Firon’s
 forces drowned, was that it moved, therefore Samiri said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِنْ
-أَثَرِ الرَّسُولِ فَنَبَذْتُهَا
-  </p>
-</blockquote>
+> قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِنْ
+> أَثَرِ الرَّسُولِ فَنَبَذْتُهَا
 
 ***I saw (Jibraeel) what they did not see, so I took a handful (of the
 dust) from the footsteps of the messenger, then I threw it in the
@@ -674,11 +606,7 @@ Tahiyaat and recitations in Masjids and other religious places show that
 these are ones to be respected. And that which shows the recommended
 nature of these places is the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
 
 ***In houses which Allah has permitted to be exalted and that His name
 may be remembered in them.*** ***(Qur’an, Surah Nun 24:36)***
@@ -845,5 +773,4 @@ Tr. no. 2
 251, Tr. no. 5
 
 [^17]: Jannatul Maawa, Pg. 270, Incident no. 34
-
 

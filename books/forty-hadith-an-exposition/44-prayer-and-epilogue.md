@@ -38,4 +38,3 @@ conclusion.
 [^1]: This is a reference to the following couplet from Rumi’s Mathnawi
 (daftar 5, bayt 1537). چاره آن دل عطاري مبدليست داد اورا قابليت شرط نيست
 
-

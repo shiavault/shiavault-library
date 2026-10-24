@@ -8,10 +8,5 @@ disgraceful actions [and traits] are such that very few gain salvation
 from them.
 
 > 1ـ إسْتَكْثِرْ مِنَ المَحامِدِ، فَإنَّ المَذامَّ قَلَّ مَنْ يَنْجُو
-<blockquote dir="rtl">
-  <p>
-مِنْها.
-  </p>
-</blockquote>
-
+> مِنْها.
 

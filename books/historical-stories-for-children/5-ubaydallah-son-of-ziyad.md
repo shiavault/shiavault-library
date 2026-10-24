@@ -54,4 +54,3 @@ himself,the latter cut off the tyrant's head and brought it before Imam
 As-Sajjad (a.s) (the fourth Shi'ite Imam), who expressed satisfaction at
 the death of one of the bitterest enemies of Islam.
 
-

@@ -550,4 +550,3 @@ to another country (or city) with the existence of deserving people in
 permitted for the Religious Authority, with observing the benefit of the
 needy, to transfer it to another country (or city).
 
-

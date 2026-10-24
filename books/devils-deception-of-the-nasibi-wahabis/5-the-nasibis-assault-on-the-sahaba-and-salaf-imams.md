@@ -336,4 +336,3 @@ khalifa since he describes the twelve as rightly guided ruling by the
 Quran and Sunnah. He cites as his evidence Sharh Fiqh Akbar the Hanafi
 Book of Aqaid.
 
-

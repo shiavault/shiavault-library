@@ -45,4 +45,3 @@ trial of broken homes prove this."[^2]
 
 [^2]: Dr. E.S. Sonners.
 
-

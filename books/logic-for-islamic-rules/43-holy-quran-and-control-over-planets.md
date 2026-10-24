@@ -62,7 +62,7 @@ and the words of the Holy Quran ***made subservient to***
 *** you whatsoever is in the heavens****[1]* would then fit him
 perfectly.
 
-Besides from the 34<sup>th</sup> verse of Surah Rahman it is known that
+Besides from the 34th verse of Surah Rahman it is known that
 man will be able to travel in space with the help of present knowledge,
 industrial know-how and potentialities. As it is stated:
 

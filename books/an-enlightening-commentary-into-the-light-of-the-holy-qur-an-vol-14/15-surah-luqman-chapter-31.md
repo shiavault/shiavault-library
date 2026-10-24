@@ -10,11 +10,7 @@ Surah Luqman, Chapter 31
 The Feature of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -55,5 +51,4 @@ rewards, and honour is for the sake that recitation is a preliminary for
 contemplation, and a thinking which in turn is a preliminary for action.
 Therefore, we must not expect those abundant virtues for a mere
 recitation.
-
 

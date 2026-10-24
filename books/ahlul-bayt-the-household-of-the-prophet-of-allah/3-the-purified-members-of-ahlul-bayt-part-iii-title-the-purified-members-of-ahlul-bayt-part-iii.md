@@ -42,7 +42,6 @@ and whoever turned away from it was PERISHED."إن مثل أهل بيتي فيك
 
 Reference:
 
-
 o al-Mustadrak, by al-Hakim, v2, p343, v3, pp 150-151 on the authority
 of Abu Dhar. al-Hakim said this tradition is authentic (Sahih).
 
@@ -65,11 +64,9 @@ o al-Jami'i al-Sagheer, by Jalaludeen al-suyuti: v2,\#2442 (المجلد
 o Kanz al-U'ummal, by al-Muttaqi al-Hindi: v12,\#34144 (المجلد الثاني
 عشر \>\> الفصل الأول في فضلهم مجملا);
 
-<p dir="rtl">
 مثل أهل بيتي مثل سفينة نوح: من ركبها نجا، ومن تخلف عنها غرق التخريج
 (مفصلا): البزار عن ابن عباس، وعن ابن الزبير، الحاكم في المستدرك عن أبي
 ذر
-</p>
 
 Reference:
 
@@ -85,7 +82,6 @@ o Mustadrak al-Hakim: v2,\# 449/3312 (المجلد الثاني \>\> - 27 -كت�
 o Mu'ujam al-Kabir, by al-Tabarani: (باب الظاء \>\> أحاديث عبد الله بن
 العباس بن عبد المطلب بن هاشم بن عبد مناف \>\> سعيد بن جبير عن ابن
 عباس);
-
 
 **The purified members of Ahlul Bayt (Part IV)**
 
@@ -109,7 +105,6 @@ o Mishkat al-Masabih, by Khatib al-Tabrizi, English Version, Tradition
 
 Content: More virtues
 
-<p dir="rtl">
 أخبرني أبو بكر إسماعيل بن الفقيه بالري، حدثنا أبو حاتم محمد بن إدريس،
 حدثنا كثير بن يحيى، حدثنا أبو عوانة داود بن أبي عوف، عن عبد الرحمن بن
 أبي زياد: أنه سمع عبد الله بن الحارث بن نوفل يقول: حدثنا أبو سعيد
@@ -117,7 +112,6 @@ Content: More virtues
 فاطمة -رضي الله تعالى عنها- فقال: (أني وإياك وهذا النائم -يعني: عليا-
 وهما -يعني: الحسن والحسين- لفي مكان واحد يوم القيامة). هذا حديث صحيح
 الإسناد، ولم يخرجاه.
-</p>
 
 Reference:
 
@@ -146,7 +140,6 @@ o Majma' al-Zawa'id, by al-Haythami, v9, p163
 
 o Tadhkirat al-Khawas al-Ummah, Sibt Ibn al-Jawzi al-Hanafi, pp 28-33
 
-<p dir="rtl">
 إني لا أجد لنبي إلا نصف عمر الذي كان قبله وإني أوشك أن أدعى فأجيب فما
 أنتم قائلون قالوا نصحت قال أليس تشهدون أن لا إله إلا الله وأن محمدا عبده
 ورسوله وأن الجنة حق وأن النار حق وأن البعث بعد الموت حق قالوا نشهد قال
@@ -158,7 +151,6 @@ o Tadhkirat al-Khawas al-Ummah, Sibt Ibn al-Jawzi al-Hanafi, pp 28-33
 فتهلكوا ولا تقصروا عنهما. فتهلكوا ولا تعلوهم فإنهم أعلم منكم من كنت أولى
 به من نفسه فعلي وليه اللهم وال من والاه وعاد من عاداه. (طب عن أبي الطفيل
 عن زيد بن أرقم).
-</p>
 
 Reference:
 
@@ -293,12 +285,10 @@ knowledge and understanding as myself. Woe unto those who deny their
 virtues and those who disregard their relationship and affinity with me,
 for my intercession shall never reach them."
 
-<p dir="rtl">
 من سره أن يحيى حياتي ويموت مماتي ويسكن جنة عدن التي غرسها ربي فليوال
 عليا من بعدي وليوال وليه، وليقتد بأهل بيتي من بعدي، فإنهم عترتي، خلقوا
 من طينتي، ورزقوا فهمي وعلمي، فويل للمكذبين بفضلهم من أمتي، القاطعين فيهم
 صلتي، لا أنالهم الله شفاعتي.
-</p>
 
 Reference:
 
@@ -352,15 +342,12 @@ Reference:
 o Abu Ja'far Ahmad al-Muhibb al-Tabari, Al-Riyad al-nadira (Cairo,
 n.d.), II, 199
 
-<p dir="rtl">
 إن لكل بني أب عصبة ينتمون إليها إلا ولد فاطمة فأنا وليهم وأنا عصبتهم
 وهم عترتي خلقوا من طينتي، ويل للمكذبين بفضلهم، من أحبهم أحبه الله ومن
 أبغضهم أبغضه الله. (ك وابن عساكر - عن جابر).
-</p>
 
 Reference:
 
 o Kanz al-U'ummal, by al-Muttaqi al-Hindi, vol 11, \#34168 (لإكمال من
 الفصل الأول في فضل أهل البيت مجملا)
-
 

@@ -18,4 +18,3 @@ example: **أسوَد.** It is formed from triliteral verbs that do not
 denote such things in various forms that do not have a ruling, for
 example: **کَریم.**
 
-

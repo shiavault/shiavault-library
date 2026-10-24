@@ -192,4 +192,3 @@ with utmost accuracy and free from any error, prove beyond any iota of
 doubt the divine source of its revelation.  
   
 
-

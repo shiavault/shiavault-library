@@ -72,4 +72,3 @@ Yúnus is explained by Allah as ”***al-ghamm***—grief”, and not as sin or
 injustice; that is why Allah said ”***najjayna***—delivered” and not
 “forgiven”.
 
-

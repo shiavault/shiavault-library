@@ -65,25 +65,17 @@ commissioned a man named Abu Al-Aswad Al-Du'ali for the task. In his
 book**(** **نزهة الالبا في طبقات الادبا** **)** Al-Anbari,** الانباري**
 reports the following anecdote
 
-<p dir="rtl">
 دخلت علی امير المومنين علي بن ابي طالب ( عليه السلام) فوجدت في يده
-</p>
 
-<p dir="rtl">
 رقعة، فقلت ما هذه يا أمير المؤمنين؟ فقال: إنِّي تأملت کلام العرب فوجدته
 قد
-</p>
 
-<p dir="rtl">
 فسُد بمخالطة هذه الحمراء –يعني الاعاجم- فأردت أن اضع شيئا يرجعون إليه،
 ويعتمدون عليه. ثمَّ القی إليَّ الرقعة وفيها مکتوب: ألکلام کله إسم وفعل
 وحرف. فالاسم ما أنبأ عن المُسمَّی، والفعل ما أُنبیءَ به، والحرف ما افاد
 معنی. وقال لي:
-</p>
 
-<p dir="rtl">
 إنحَ هذا النحو، واضف إليه ما وقع إليك.
-</p>
 
 I came to The Leader of the Believers, Ali Ibn Abi Talib, and found that
 he was holding a note in his hand. I asked, "What is this, Oh Leader of
@@ -98,23 +90,15 @@ approach and add to it what comes to your mind."
 
 Al-Du'ali continued to say,
 
-<p dir="rtl">
 وضعت بابي العطف والنعت ثم بابي التعجب والاستفهام، إلی ان وصلت الی
-</p>
 
-<p dir="rtl">
 باب إنَّ واخواتها، ما خلا لکنَّ. فلما عرضتها علی عليٍّ (عليه السلام)
 أمرني
-</p>
 
-<p dir="rtl">
 بضم لکنَّ إليها. وکنت کلما وضعت بابا من ابواب النحو عرضتها عليه (رضي
 الله عنه) إلی ان حصلت ما فيه الکفاية. قال ما أحسنَ هذا النحو الذي نحوته!
-</p>
 
-<p dir="rtl">
 فلذلك سُميَّ النحو.
-</p>
 
 I wrote two chapters on conjunctions and attributes then two chapters on
 exclamation and interrogatives. Then I wrote about**إنَّ واخواتها** and
@@ -204,9 +188,7 @@ non-Arab Muslim reading the Quran and that man was assigning the
 end-words voweling incorrectly. The verse in question was from FaaTir
 (Chapter \#35. Verse \# 28):
 
-<p dir="rtl">
 **إنما يخشی اللهَ من عبادهِ العلماءُ**
-</p>
 
 ***Those truly fear Allah, Among His Servants Who have knowledge***
 
@@ -226,17 +208,13 @@ According to some historians, Al-Du'ali at first hesitated but was later
 persuaded when his own daughter made a terrible mistake in the use of
 the declensional endings, by confusing the expressions:
 
-<p dir="rtl">
 **ما أَحسنُ السماءِ؟ / ما أحسنَ السماءَ!**
-</p>
 
 How beautiful is the sky!/What is the most beautiful thing in the sky?
 
 She was reported to have said:
 
-<p dir="rtl">
 **ما أحسنُ السماءَ؟ / ما أحسنَ السماءِ!**
-</p>
 
 The origin of the "dot," notation of the three short vowels, and the
 Nunation is ascribed to 'Abu Al-'Aswad, and the names of the vowels
@@ -302,5 +280,4 @@ learning situations in which the students feel a need to master the
 grammar in order to comprehend and communicate in the target language. A
 detailed pedagogy scheme on how to teach and learn grammar is provided
 in a section that follows the presentation of the rules.
-
 

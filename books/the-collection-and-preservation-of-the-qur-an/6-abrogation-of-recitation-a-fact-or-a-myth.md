@@ -22,19 +22,11 @@ astray by abandoning that which* *God has ordained. The ordi­nance of
 stoning was indeed prescribed for the adulterers in the book of God …..
 And then, among verses we read, there was a verse which said*[^1]
 
-<blockquote dir="rtl">
-  <p>
-ان لا ترغبوا عن ابائكم فانه كفر بكم أن ترغبوا عن آبائكم
-  </p>
-</blockquote>
+> ان لا ترغبوا عن ابائكم فانه كفر بكم أن ترغبوا عن آبائكم
 
 *or it was*
 
-<blockquote dir="rtl">
-  <p>
-ان كفرا بكم أن ترغبوا عن آبائكم
-  </p>
-</blockquote>
+> ان كفرا بكم أن ترغبوا عن آبائكم
 
 And Suyuti has mentioned: Ibn Ashtah has reported from Layth b. Sa'ad,
 who said:
@@ -48,27 +40,15 @@ was rejected, has been reported in several forms; among them are:
 
 (i)
 
-<blockquote dir="rtl">
-  <p>
-اذا زنى الشيخ والشيخة فارجموهما البتة . نكالا من الله والله عزيز حكيم
-  </p>
-</blockquote>
+> اذا زنى الشيخ والشيخة فارجموهما البتة . نكالا من الله والله عزيز حكيم
 
 and (ii)
 
-<blockquote dir="rtl">
-  <p>
-الشيخ والشيخة فارجموهما البتة بما قضيا من اللذة
-  </p>
-</blockquote>
+> الشيخ والشيخة فارجموهما البتة بما قضيا من اللذة
 
 and (iii)
 
-<blockquote dir="rtl">
-  <p>
-ان الشيخ والشيخة اذا زنيا فارجموهما البتة
-  </p>
-</blockquote>
+> ان الشيخ والشيخة اذا زنيا فارجموهما البتة
 
 Whatever be the case, there is nothing in the Qur’an today which
 indicates the law of stoning the adulterers. And if the reports are to
@@ -96,19 +76,11 @@ Tradition n. 3
 among things revealed was an ayah of rajm. So the Prophet (‘s) stoned
 and after him we stoned too*". Then Umar added: "*We used to recite*[^4]
 
-<blockquote dir="rtl">
-  <p>
-ولا ترغبوا عن آبائكم فانه كفربكم
-  </p>
-</blockquote>
+> ولا ترغبوا عن آبائكم فانه كفربكم
 
 or
 
-<blockquote dir="rtl">
-  <p>
-ان كفرا بكم ان ترغبوا عن آبائكم
-  </p>
-</blockquote>
+> ان كفرا بكم ان ترغبوا عن آبائكم
 
 Tradition n. 4
 --------------
@@ -135,12 +107,8 @@ Tradition n. 6
 
 *It was read before my father who was 80, from the codex of Aisha*:
 
-<blockquote dir="rtl">
-  <p>
-ان لله وملئكته يصلون على النبي يا ايها الذين آمنوا صلو عليه وسلموا
-تسليما وعلى الذين يصلون الصفوف الاولى
-  </p>
-</blockquote>
+> ان لله وملئكته يصلون على النبي يا ايها الذين آمنوا صلو عليه وسلموا
+> تسليما وعلى الذين يصلون الصفوف الاولى
 
 She says: \`*This was before Uthman changed the texts*'.
 
@@ -157,23 +125,15 @@ harden the way the hearts of your predecessors had hardened. We used to
 read a Surah which we compared, in length and severity, with the Surah
 of Bara’ah, but I have now forgotten it, except a verse which says*:
 
-<blockquote dir="rtl">
-  <p>
-لو كان لابن آدم واديان من مال لا بتغى واديا ثالثا ولا يملأ جوف ابن آدم
-الا التراب
-  </p>
-</blockquote>
+> لو كان لابن آدم واديان من مال لا بتغى واديا ثالثا ولا يملأ جوف ابن آدم
+> الا التراب
 
 *And we used to read a Surah which we compared with one of the
 musabbihat (Surahs which begin with sabbaha or yusab­bihu) but I have
 forgotten it except a verse I remember*[^7]:
 
-<blockquote dir="rtl">
-  <p>
-يا ايها الذين آمنوا لم تقولون ما لا تفعلون, فتكتب شهادة في اعناقكم
-فتسألون عنها يوم القيامة
-  </p>
-</blockquote>
+> يا ايها الذين آمنوا لم تقولون ما لا تفعلون, فتكتب شهادة في اعناقكم
+> فتسألون عنها يوم القيامة
 
 Tradition n. 8
 --------------
@@ -196,19 +156,11 @@ Tradition n. 10
 (j) Umrah reports from Aisha: "*Among that which was revealed in the
 Qur’an, is the follow­ing verse*:
 
-<blockquote dir="rtl">
-  <p>
-عشر رضعات معلومات يحرمن
-  </p>
-</blockquote>
+> عشر رضعات معلومات يحرمن
 
 *then it was abrogated to read*
 
-<blockquote dir="rtl">
-  <p>
-خمس معلومات
-  </p>
-</blockquote>
+> خمس معلومات
 
 *and they remained in the Qur’an till the Prophet (‘s) died.*[^10]
 
@@ -218,11 +170,7 @@ Tradition n. 11
 (k) Miswar b. Makhramah reports: "*Umar inquired from Abdul Rahman b.
 Awf if he had found the following ayah in the Qur’an*:
 
-<blockquote dir="rtl">
-  <p>
-............أن جاهدوا كما جاهدتم اول مرة
-  </p>
-</blockquote>
+> ............أن جاهدوا كما جاهدتم اول مرة
 
 *Abdul Rahman answered that the ayah had disappeared along with the lost
 parts of the Qur’an*.[^11]
@@ -235,26 +183,18 @@ them one day: *"Inform me about those two verses of the Qur’an which
 were never recorded". None would answer, not even Abul Kanood, Sa'ad b.
 Malik who was there. Then Ibn Muslimah recited*[^12]:
 
-<blockquote dir="rtl">
-  <p>
-ان الذين آمنوا وهاجروا و جاهدوا في سبيل الله باموالهم وانفسهم الا
-أبشروا انتم المفلحون والذين آووهم ونصروهم وجادلوا عنهم قوم الذين غضب
-الله عليهم اولئك لا تعلم نفس ما اخفي لهم من قرة اعين جزاء بما كانوا
-يعلمون
-  </p>
-</blockquote>
+> ان الذين آمنوا وهاجروا و جاهدوا في سبيل الله باموالهم وانفسهم الا
+> أبشروا انتم المفلحون والذين آووهم ونصروهم وجادلوا عنهم قوم الذين غضب
+> الله عليهم اولئك لا تعلم نفس ما اخفي لهم من قرة اعين جزاء بما كانوا
+> يعلمون
 
 And it has been narrated in various ways that the copies of Ibn Abbas
 and Ubayy b. Ka'ab contained two extra *Surah*s: Al‑Khala' and Al‑Hafd.
 It reads[^13]:
 
-<blockquote dir="rtl">
-  <p>
-اللهم انا نستعينك ونستغفرك ونثني عليك ولا نكفرك ونخلع ونترك من يفجرك
-اللهم اياك نعبد ولك نصلى ونسجد واليك نسعى ونحفد نرجو رحمتك ونخشي عذابك
-ان عذابك بالكافرين ملحق
-  </p>
-</blockquote>
+> اللهم انا نستعينك ونستغفرك ونثني عليك ولا نكفرك ونخلع ونترك من يفجرك
+> اللهم اياك نعبد ولك نصلى ونسجد واليك نسعى ونحفد نرجو رحمتك ونخشي عذابك
+> ان عذابك بالكافرين ملحق
 
 It is now evident that to say that certain parts of the Qur’an have been
 excluded from recitation means to confirm interpola­tion and omission in
@@ -337,5 +277,4 @@ p.50
 [^13]: al-Itqan, v1, p.122, 213
 
 [^14]: Al‑Ahkam fi Usul il Ahkam, Amedi v3 p.217
-
 

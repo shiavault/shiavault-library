@@ -210,4 +210,3 @@ for contemporary scientists.
 [^2]: A quantity expressing how much of a system's thermal energy is
 unavailable for conversion into mechanical work.
 
-

@@ -1336,4 +1336,3 @@ Zuhayr bin Durayd Tamimi and his son’s name was Haseen, one of the
 commanders in the troops of Yazid at Karbala. In another tradition the
 name of the father of Sinan bin Anas is quoted.
 
-

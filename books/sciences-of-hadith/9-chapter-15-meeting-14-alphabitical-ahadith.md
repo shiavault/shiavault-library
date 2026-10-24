@@ -3,33 +3,25 @@ Chapter 15 : Meeting 14: Alphabitical Ahadith
 
 Meeting 14: Alphabetical Ahadith
 
-
 I would like to bring this course to an end by quoting twenty six
 Hadith in the English alphabetical order.
 
-
 Anger
 
-<p dir="rtl">
 الغضب مفتاح كل شرّ.
-</p>
 
 "Anger is the key to all evils." [al-Behar, vol.73, p.263]
 
 Bravery
 
-<p dir="rtl">
 الشجاعة صبر ساعة.
-</p>
 
 "Bravery is to be patient for an hour." [al-Behar, vol.78,p.11]
 
 Complaint
 
-<p dir="rtl">
 اوحي الله الي اخي العُزير: يا عُزير! ان اصابتک مصيبة فلا تشکني الي
 خلقي.
-</p>
 
 "The Almighty Allah revealed to my brother Ozair: O Ozair! Should any
 calamity inflict you, then do not complain against Me to My creation."
@@ -37,18 +29,14 @@ calamity inflict you, then do not complain against Me to My creation."
 
 Divorce
 
-<p dir="rtl">
 ما احلّ الله شيئا ابغض اليه من الطلاق.
-</p>
 
 "Allah has not made any Halal more despised to Him than divorce."
 [Kanzul-Ommal, H. 27871]
 
 Evil
 
-<p dir="rtl">
 شرّ الناس من باع آخرته بدنياه و شرّ من ذلک من باع آخرته بدنيا غيره.
-</p>
 
 "An evil man is one who sells his hereafter for his Donya and more evil
 than him is the one who sells his hereafter for the Donya of someone
@@ -56,9 +44,7 @@ else." [al-Behar, vol.77 p.46]
 
 Friendship
 
-<p dir="rtl">
 صحبة الاشرار تکسب الشرّ کالريح اذا مرّت بالنتن حملت نتنا.
-</p>
 
 "Friendship with evil people earns evil; like the wind when it blows
 over stink it will carry its evil smell." [Mizanul-Hikma, vol.4,
@@ -66,19 +52,15 @@ p.1584]
 
 Generous
 
-<p dir="rtl">
 السخي قريب من الله، قريب من الناس، قريب من الجنة.
-</p>
 
 "The generous are close to God, close to people and close to Paradise."
 [al-Behar, vol. 73, p.308]
 
 Hitting
 
-<p dir="rtl">
 ان اعتي الناس علي الله عز و جلّ من قتل غير قاتله و من ضرب من لم
 يضربه.
-</p>
 
 "Verily, the most tyrannical person in the sight of the Almighty God is
 the one who kills he who did not kill him, or hits he who did not hit
@@ -86,9 +68,7 @@ him." [al-Kaafi, vol.7 p.274]
 
 Intercession
 
-<p dir="rtl">
 لاشفعنّ يوم القيامة لمن کان في قلبه جناح بعوضة ايمان.
-</p>
 
 "Surely I will intercede on the Day of Judgment for whoever there is
 faith in his heart even (as little as) the weight of the wing of a fly."
@@ -96,29 +76,23 @@ faith in his heart even (as little as) the weight of the wing of a fly."
 
 Jealousy
 
-<p dir="rtl">
 اياکم و الحسد فانه يأکل الحسنات کما تأکل النار الحطب.
-</p>
 
 "Avoid jealousy, for surely it destroys good deeds as fire destroys
 firewood." [Jame'ul-Akhbar p.451]
 
 Knowledge
 
-<p dir="rtl">
 اطلبوا العلم و لو بالصين.
-</p>
 
 "Seek knowledge even in China." [Kanzul-Ommal, H.28697]
 
 Love (for Allah)
 
-<p dir="rtl">
 يقول الله عزّ و جلّ: اذا کان الغالب علي العبد الاشتغال بي جعلت بُغيته و
 لذّته في ذکري. فاذا جعلت بغيته و لذته في ذکري عشقني و عشقته فاذا عشقني و
 عشقته رفعت الحجاب فيما بيني و بينه و صيرت ذلک تغالبا عليه لايسهو اذا سها
 الناس.
-</p>
 
 "The Almighty Allah says: 'When a devotee spends most of his time for
 Me, I make his wish and desire in Remembering Me. Then when I make his
@@ -130,19 +104,15 @@ become absent minded when people are absent minded." [Kanzul-Ommal, H.
 
 Marriage
 
-<p dir="rtl">
 ما بني في الاسلام بناء احبّ الي عزّ و جلّ و اعزّ من التزويج
-</p>
 
 "No construction has been built in Islam more favorable and dearer to
 the Almighty Allah than marriage." [al-Behar, vol.103, p.220]
 
 Narration
 
-<p dir="rtl">
 اعقلوا الخبر اذا سمعتموه عقل رعاية لا عقل رواية فانّ رواة العلم کثير و
 رعاته فليل.
-</p>
 
 "When you hear a narration hear it to guard (practice) it not for just
 merely narrating it. For surely the narrators of knowledge are many but
@@ -150,10 +120,8 @@ those who guard (practice) it are few." [Nahjul-Balagha, Words 98]
 
 Orphan
 
-<p dir="rtl">
 انا و کافل اليتيم کهاتين في الجنة اذا اتقي الله عزّ و جلّ- و اشار
 بالسبابة و الوسطي.
-</p>
 
 "The sponsor of an orphan and I are (so close) like these two if he
 fears Allah." The Prophet (P) then showed his index finger and the
@@ -161,10 +129,8 @@ middle one." [Noorul-Thaqalayn, vol.5 p.597]
 
 Polytheism
 
-<p dir="rtl">
 يا ابن مسعود! اياک ان تشرک بالله طرفة عين و ان نشرت بالمنشار او قطّعت
 او صلبت او اُحرقت بالنار.
-</p>
 
 "O Ibn Mas'oud! Don't ever associate any partner with Allah even for a
 blink of an eye, even if you were sawed by a saw or mutilated or
@@ -172,19 +138,15 @@ crucified or burned by fire." [Makaremul-Akhlaq vol.2 p.357]
 
 Quran
 
-<p dir="rtl">
 ينبغي للمؤمن ان لا يموت حتي يتعلم القرآن او يکون في تعلّمه.
-</p>
 
 "It is the duty of a believer to learn the Quran before he dies or be
 in the process of learning it."
 
 Reverence
 
-<p dir="rtl">
 يا نوف انه ليس من رجل اعظم منزلة عند الله من رجل بکي من خشية الله و احب
 في الله و ابغض في الله.
-</p>
 
 "O Nouf! No one has greater position with the Almighty Allah than the
 one who cries in reverence of Allah and loves for Allah and dislikes for
@@ -192,10 +154,8 @@ Him." [al-Behar, vol.87, p.201]
 
 Satan
 
-<p dir="rtl">
 الفتن ثلاث: حب النساء و هو سيف الشيطان و شرب الخمر و هو فخ الشيطان و حب
 الدينار و الدرهم و هو سهم الشيطان.
-</p>
 
 "The trials are three: Love of (non-Mahram) women which are the sword
 of Satan, drinking alcohol which is the trap of Satan and loving dollars
@@ -203,18 +163,14 @@ and cents which are the arrows of Satan." [al-Khesal, p.113]
 
 Transgression
 
-<p dir="rtl">
 اوحي الله الي اخي العُزير: يا عزير! اعصني بقدر طاقتک عن عذابي.
-</p>
 
 "Allah revealed to my brother Ozair: O Ozair! Transgress (disobey) Me
 inasmuch as you can tolerate My torment!" [Kanzul-Ommal, H.32341]
 
 Usury
 
-<p dir="rtl">
 من اکل الربا ملاء الله عز و جلّ بطنه من نار جهنم بقدر ما اکل.
-</p>
 
 "Whoever earns through usury the Almighty Allah will fill his stomach
 with hell-fire inasmuch as he has earned from usury." [Thawabul-A'mal,
@@ -222,19 +178,15 @@ vol.2. p.336]
 
 Victory
 
-<p dir="rtl">
 بالصبر يتوقع الفرج و من يدمن قرع الباب يلج.
-</p>
 
 "Victory is expected by patience and whoever knocks on a door it will
 eventually open." [al-Behar, vol.71:p. 96]
 
 Worshipping
 
-<p dir="rtl">
 العبودية خمسة اشياء: خلاء البطن و قراءة القرآن و قيام الليل و التضرع
 عند الصبح و البکاء من خشية الله.
-</p>
 
 "Worshipping is five things: empty stomach, recitation of the Quran,
 standing at night (for prayer), supplication at dawn and crying in
@@ -242,11 +194,9 @@ reverence of Allah." [Mostadrakul-Wasa'el, vol.11 p.244]
 
 Xen
 
-<p dir="rtl">
 ليس کل اصحاب رسول الله (ص) يسأله عن الشيء فيفهم. کان منهم من يسأله و
 لايستفهمه حتي ان کانوا ليحبون ان يجييء الاعرابي و الطاري فيسأل رسول الله
 (ص) حتي يسمعوا.
-</p>
 
 Imam Ali (a.s): "Not all those who were asking the Prophet (P) would
 understand his answers. There were some who would not understand the
@@ -255,11 +205,9 @@ so that they could understand it. [al-Kaafi 1:64]
 
 Youth
 
-<p dir="rtl">
 ان احبّ الخلائق الي الله عز و جلّ شابّ حدث السن في صورة حسنة جعل شبابه
 و جماله لله و في طاعته ذلک الذي يباهي به الرحمن ملائکته يقول: هذا عبدي
 حقا.
-</p>
 
 "Surely, the most favorable people to Allah is a youth with a nice face
 who makes his youth and beauty for Allah's sake and His obedience. That
@@ -268,13 +216,10 @@ saying: This is truly My devotee." [Kanzul-Omal, h. 43103]
 
 Zealousness
 
-<p dir="rtl">
 من تعصب او تُعصب له فقد خلع ربقة الايمان من عنقه.
-</p>
 
 "Whoever is zealous or is a zealot for him he has removed the lasso of
 faith from his neck." [al-Kafi, vol.2p.308]
-
 
 END NOTES:
 
@@ -667,5 +612,4 @@ http://www.ihic.org.au/courses.php?cat\_id=9&a\_id =
 165. Al Kaafi vol.5 p.338
 
 166. Al-Tabresi: Al Ehtejaj vol.2 pp.499-500
-
 

@@ -227,4 +227,3 @@ nearer (to Allah). And do not avoid asking for small matters because of
 its smallness, for the provider of the small is also the provider of the
 big."
 
-

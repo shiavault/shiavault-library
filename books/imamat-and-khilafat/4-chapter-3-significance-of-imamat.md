@@ -409,4 +409,3 @@ is it a fact that the Holy Prophet himself has nominated his successor?
 Similarly what is agreeing to reason in regard to the other two sense of
 Imamat.
 
-

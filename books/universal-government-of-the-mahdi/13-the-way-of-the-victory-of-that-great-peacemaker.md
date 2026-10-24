@@ -122,11 +122,7 @@ answers for above questions, including:
 
 1- It is quoted from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-انّ قائمنا ادا قام اشرقت الارض بنور ربّها و استغنی العباد من ضوءالشّمس
-  </p>
-</blockquote>
+> انّ قائمنا ادا قام اشرقت الارض بنور ربّها و استغنی العباد من ضوءالشّمس
 
 (When our al-Qa’im rises, the earth will be shined by the light of his
 God and servants of God won’t need sunlight anymore!)[^1]
@@ -155,13 +151,9 @@ between these two?
 2) It is quoted in another hadith from Abu Basir from Imam Sadiq (as)
 that:
 
-<blockquote dir="rtl">
-  <p>
-انّه اذا تناهت الامور الی صاحب هذا الامر رفع الله تبارک و تعالی لَه
-کلَّ منخفض من الأرض، و خفّض له کلّ مرتفع حتّی تکون الدّنیا عنده بمنزلة
-راحته، فایّکم لو کانت فی راحته شعرة لم یبصرها
-  </p>
-</blockquote>
+> انّه اذا تناهت الامور الی صاحب هذا الامر رفع الله تبارک و تعالی لَه
+> کلَّ منخفض من الأرض، و خفّض له کلّ مرتفع حتّی تکون الدّنیا عنده بمنزلة
+> راحته، فایّکم لو کانت فی راحته شعرة لم یبصرها
 
 (When the main owner of guardianship (Mahdi(as)) takes the
 responsibilities of matters, almighty God will rise up any deep place of
@@ -205,19 +197,11 @@ of weapons.
 
 3) It is quoted from Imam Baqir (as) that he said:
 
-<blockquote dir="rtl">
-  <p>
-ذخر لصاحبکم الصّعب!
-  </p>
-</blockquote>
+> ذخر لصاحبکم الصّعب!
 
-<blockquote dir="rtl">
-  <p>
-قلت: و ما الصّعب؟ قال: ما کان من سحاب فیه رعد و صاعقة او برق، فصاحبکم
-یرکبه، أما انّه سیرکب السّحاب و یرقی فی الأسباب؛ اسباب السّماوات
-السّبع و الارضین!
-  </p>
-</blockquote>
+> قلت: و ما الصّعب؟ قال: ما کان من سحاب فیه رعد و صاعقة او برق، فصاحبکم
+> یرکبه، أما انّه سیرکب السّحاب و یرقی فی الأسباب؛ اسباب السّماوات
+> السّبع و الارضین!
 
 (That indomitable equipment is reserved for your guardian and friend
 (Mahdi (as)).[^3]
@@ -253,13 +237,9 @@ all aspects parallel to that.
 4) Another wonderful hadith, which is quoted by Jabir from Imam Baqir
 (as), says:
 
-<blockquote dir="rtl">
-  <p>
-انّما سمّی المهدی لانّه یهدی الی امر خفی؛ حتّی انه یبعث الی رجل لا
-یعلم النّاس له ذنب فیقتله حتّی ان احدهم یتکلّم فی بیته فیخاف ان یشهد
-علیه الجدار
-  </p>
-</blockquote>
+> انّما سمّی المهدی لانّه یهدی الی امر خفی؛ حتّی انه یبعث الی رجل لا
+> یعلم النّاس له ذنب فیقتله حتّی ان احدهم یتکلّم فی بیته فیخاف ان یشهد
+> علیه الجدار
 
 (He is named Mahdi (guided one) because he is guided to hidden matters,
 until he sends for a person whom people consider him to be innocent and
@@ -334,19 +314,11 @@ fighting.
 In all of these expressions the sword is a metaphor about power and
 fighting; we also read in Islamic narratives:
 
-<blockquote dir="rtl">
-  <p>
-“الجنّة تحت ضلال السّیوف”
-  </p>
-</blockquote>
+> “الجنّة تحت ضلال السّیوف”
 
 (Paradise is under the shadow of swords).
 
-<blockquote dir="rtl">
-  <p>
-“السّیوف مقالید الجنّة”
-  </p>
-</blockquote>
+> “السّیوف مقالید الجنّة”
 
 (Swords are the keys to paradise!)
 
@@ -367,11 +339,7 @@ polluted existence from the way, and undoubtedly, there is no way other
 than this for correcting a group of people, because it has been said
 that:
 
-<blockquote dir="rtl">
-  <p>
-النّاس لایقیمهم الّا السّیف
-  </p>
-</blockquote>
+> النّاس لایقیمهم الّا السّیف
 
 (People won’t be corrected except by sword!)
 
@@ -436,5 +404,4 @@ physician who takes blood from the patient very carefully!
 [^3]: Bihar al-Anwar, vol. 12, page 182.
 
 [^4]: Bihar al-Anwar, vol. 13.
-
 

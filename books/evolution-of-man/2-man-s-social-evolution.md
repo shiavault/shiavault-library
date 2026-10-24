@@ -163,4 +163,3 @@ schools of thought are already in that blind alley). No other factor but
 religion can safeguard the greater part of human evolution in connection
 to his own nature.
 
-

@@ -236,4 +236,3 @@ al-Tabari, Tarikh, Vol. 6, p. 202.
 
 [^21]: al-Mufid, Al-Irshad.
 
-

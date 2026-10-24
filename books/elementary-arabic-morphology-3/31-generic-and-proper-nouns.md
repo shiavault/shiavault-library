@@ -33,4 +33,3 @@ start with *āb* or *um*, for example: **أبو** **یوسف** and nicknames,
 which can either be positive or negative, for example: **المصطفی** which
 is the nickname of the last Prophet, Muhammad (s).
 
-

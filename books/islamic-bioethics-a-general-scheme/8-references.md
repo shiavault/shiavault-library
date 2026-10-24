@@ -83,4 +83,3 @@ Tehran: Islamic Culture and Relations Organization; Question 1285.
 27. Khamenei SA. Practical Laws of Islam (Ajwibat al-Istifta’at).
 Tehran: Islamic Culture and Relations Organization; Question 1284.
 
-

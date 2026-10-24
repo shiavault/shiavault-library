@@ -74,4 +74,3 @@ limited time and undergo zawaal and thus these objects cannot be
 considered as gods. An example is the fact that every material object,
 living or non-living undergoes zawaal according to God’s plan for it.
 
-

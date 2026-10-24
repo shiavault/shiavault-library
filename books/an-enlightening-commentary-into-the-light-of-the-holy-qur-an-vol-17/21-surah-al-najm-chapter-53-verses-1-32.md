@@ -10,11 +10,7 @@ Surah al-Najm, Chapter 53, Verses 1 - 32
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -49,25 +45,13 @@ that the teachings may shed their light on their lives.
 Surah al-Najm - Verses 1-2
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَی
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَی
 
-<blockquote dir="rtl">
-  <p>
-مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَی
-  </p>
-</blockquote>
+> مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَی
 
 ***1. By the star when it goes down.***  
 ***2. Indeed, your companion [Prophet Muhammad (S)] has neither gone
@@ -171,17 +155,9 @@ by his enemies.
 Surah al-Najm - Verses 3-4
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنطِقُ عَنِ الْهَوَی
-  </p>
-</blockquote>
+> وَمَا يَنطِقُ عَنِ الْهَوَی
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلاّ وَحْيٌ يُوحَی
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلاّ وَحْيٌ يُوحَی
 
 ***3. Nor does he speak of concupiscent desire.***  
 ***4. His word is only a Revelation revealed to him.***
@@ -257,35 +233,15 @@ recited the blessed Verse:
 Surah al-Najm - Verses 5-9
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَهُ شَدِيدُ الْقُوَی
-  </p>
-</blockquote>
+> عَلَّمَهُ شَدِيدُ الْقُوَی
 
-<blockquote dir="rtl">
-  <p>
-ذُو مِرَّةٍ فَاسْتَوَی
-  </p>
-</blockquote>
+> ذُو مِرَّةٍ فَاسْتَوَی
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ بِالاُفُقِ الْأعْلَی
-  </p>
-</blockquote>
+> وَهُوَ بِالاُفُقِ الْأعْلَی
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَنَا فَتَدَلَّی
-  </p>
-</blockquote>
+> ثُمَّ دَنَا فَتَدَلَّی
 
-<blockquote dir="rtl">
-  <p>
-فَكَانَ قَابَ قَوْسَيْنِ أوْ أدْنَی
-  </p>
-</blockquote>
+> فَكَانَ قَابَ قَوْسَيْنِ أوْ أدْنَی
 
 ***5. He has been taught [Divine Revelation, namely the Holy Qur’an] by
 the Omnipotent Lord.***  
@@ -332,17 +288,9 @@ which spiritual, rather than perceptive, proximity is being intended.
 Surah al-Najm - Verses 10-11
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأوْحَی إِلَی عَبْدِهِ مَا أوْحَی
-  </p>
-</blockquote>
+> فَأوْحَی إِلَی عَبْدِهِ مَا أوْحَی
 
-<blockquote dir="rtl">
-  <p>
-مَا كَذَبَ الْفُؤَادُ مَا رَأی
-  </p>
-</blockquote>
+> مَا كَذَبَ الْفُؤَادُ مَا رَأی
 
 ***10. Therefore, [Allah] revealed unto His servant whatever He
 revealed.***  
@@ -496,29 +444,13 @@ Essence."*
 Surah al-Najm - Verses 12-15
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَتُمَارُونَهُ عَلَی مَا يَرَی
-  </p>
-</blockquote>
+> أفَتُمَارُونَهُ عَلَی مَا يَرَی
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ رَآهُ نَزْلَةً اُخْرَی
-  </p>
-</blockquote>
+> وَلَقَدْ رَآهُ نَزْلَةً اُخْرَی
 
-<blockquote dir="rtl">
-  <p>
-عِندَ سِدْرَةِ الْمُنْتَهَی
-  </p>
-</blockquote>
+> عِندَ سِدْرَةِ الْمُنْتَهَی
 
-<blockquote dir="rtl">
-  <p>
-عِندَهَا جَنَّةُ الْمَأوَی
-  </p>
-</blockquote>
+> عِندَهَا جَنَّةُ الْمَأوَی
 
 ***12. Will you then dispute with him about what he saw?***  
 ***13. And indeed he saw him at another descent.***  
@@ -585,23 +517,11 @@ Promised Paradise.[^11]
 Surah al-Najm - Verses 16-18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَغْشَی السِّدْرَةَ مَا يَغْشَی
-  </p>
-</blockquote>
+> إِذْ يَغْشَی السِّدْرَةَ مَا يَغْشَی
 
-<blockquote dir="rtl">
-  <p>
-مَا زَاغَ الْبَصَرُ وَمَا طَغَی
-  </p>
-</blockquote>
+> مَا زَاغَ الْبَصَرُ وَمَا طَغَی
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ رَأی مِنْ آيَاتِ رَبِّهِ الْكُبْرَی
-  </p>
-</blockquote>
+> لَقَدْ رَأی مِنْ آيَاتِ رَبِّهِ الْكُبْرَی
 
 ***16. When that covered the lote tree which did cover it!***  
 ***17. The sight turned not aside nor did it transgress beyond the
@@ -638,29 +558,13 @@ Prophet (S) saw were some of Divine Signs rather than all of Them.
 Surah al-Najm - Verses 19-22
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتُمُ اللَآتَ وَالْعُزَّی
-  </p>
-</blockquote>
+> أفَرَأيْتُمُ اللَآتَ وَالْعُزَّی
 
-<blockquote dir="rtl">
-  <p>
-وَمَنَاةَ الثَّالِثَةَ الْاُخْرَی
-  </p>
-</blockquote>
+> وَمَنَاةَ الثَّالِثَةَ الْاُخْرَی
 
-<blockquote dir="rtl">
-  <p>
-ألَكُمُ الذَّكَرُ وَلَهُ الْاُنثَی
-  </p>
-</blockquote>
+> ألَكُمُ الذَّكَرُ وَلَهُ الْاُنثَی
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ إِذًا قِسْمَةٌ ضِيزَی
-  </p>
-</blockquote>
+> تِلْكَ إِذًا قِسْمَةٌ ضِيزَی
 
 ***19. Have you then considered al-Lat and al-‘Uzza***[^12]  
 ***20. And Manat, the other third?***  
@@ -697,13 +601,9 @@ you falsely claim that angels are daughters of God.
 Surah al-Najm - Verse 23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هِيَ إِلاّ أسْمَاء سَمَّيْتُمُوهَا أنتُمْ وَآبَاؤُكُم مَّا أنزَلَ
-اللَّهُ بِهَا مِن سُلْطَانٍ إِن يَتَّبِعُونَ إِلاّ الظَّنَّ وَمَا
-تَهْوَی الْأنفُسُ وَلَقَدْ جَاءهُم مِّن رَّبِّهِمُ الْهُدَی
-  </p>
-</blockquote>
+> إِنْ هِيَ إِلاّ أسْمَاء سَمَّيْتُمُوهَا أنتُمْ وَآبَاؤُكُم مَّا أنزَلَ
+> اللَّهُ بِهَا مِن سُلْطَانٍ إِن يَتَّبِعُونَ إِلاّ الظَّنَّ وَمَا
+> تَهْوَی الْأنفُسُ وَلَقَدْ جَاءهُم مِّن رَّبِّهِمُ الْهُدَی
 
 ***23. They are but names which you have named, you and your fathers,
 for which Allah has sent down no authority as to their veracity.
@@ -750,17 +650,9 @@ room for producing pretexts.
 Surah al-Najm - Verses 24-25
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ لِلإِنسَانِ مَا تَمَنَّی
-  </p>
-</blockquote>
+> أمْ لِلإِنسَانِ مَا تَمَنَّی
 
-<blockquote dir="rtl">
-  <p>
-فَلِلَّهِ الْآخِرَةُ وَالْاُولَی
-  </p>
-</blockquote>
+> فَلِلَّهِ الْآخِرَةُ وَالْاُولَی
 
 ***24. Or shall man have what he wishes?***  
 ***25. But to Allah belong the Hereafter and the world.***
@@ -779,12 +671,8 @@ desire be them possible or impossible, plausible or groundless.
 Surah al-Najm - Verse 26
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَآ تُغْنِي شَفَاعَتُهُمْ شَيْئًا
-إِلاّ مِن بَعْدِ أن يَأذَنَ اللَّهُ لِمَن يَشَاء وَيَرْضَی
-  </p>
-</blockquote>
+> وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَآ تُغْنِي شَفَاعَتُهُمْ شَيْئًا
+> إِلاّ مِن بَعْدِ أن يَأذَنَ اللَّهُ لِمَن يَشَاء وَيَرْضَی
 
 ***26. And there are many angels in the heavens, whose intercession will
 avail nothing except after Allah has given leave for whom He wills and
@@ -810,19 +698,11 @@ with God Almighty on anyone's behalf without His leave.
 Surah al-Najm - Verses 27-28
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ لَآ يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ
-الْـمَلَآئِكَةَ تَسْمِيَةَ الْاُنثَی
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ لَآ يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ
+> الْـمَلَآئِكَةَ تَسْمِيَةَ الْاُنثَی
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَهُم بِهِ مِنْ عِلْمٍ إِن يَتَّبِعُونَ إِلاّ الظَّنَّ وَإِنَّ
-الظَّنَّ لَآ يُغْنِي مِنَ الْحَقِّ شَيْئًا
-  </p>
-</blockquote>
+> وَمَا لَهُم بِهِ مِنْ عِلْمٍ إِن يَتَّبِعُونَ إِلاّ الظَّنَّ وَإِنَّ
+> الظَّنَّ لَآ يُغْنِي مِنَ الْحَقِّ شَيْئًا
 
 ***27. Indeed, those who believe not in the Hereafter, name the angels
 with female names.***  
@@ -860,12 +740,8 @@ acknowledgement of superstitions beacons error and insensibility.
 Surah al-Najm - Verse 29
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأعْرِضْ عَن مَّن تَوَلَّی عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلاّ
-الْحَيَاةَ الدُّنْيَا
-  </p>
-</blockquote>
+> فَأعْرِضْ عَن مَّن تَوَلَّی عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلاّ
+> الْحَيَاةَ الدُّنْيَا
 
 ***29. Therefore, withdraw from him who turns away from Our Reminder and
 desires noting but the life of this world.***
@@ -885,12 +761,8 @@ transcend perceptible bounds.
 Surah al-Najm - Verse 30
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ مَبْلَغُهُم مِّنَ الْعِلْمِ إِنَّ رَبَّكَ هُوَ أعْلَمُ بِمَن
-ضَلَّ عَن سَبِيلِهِ وَهُوَ أعْلَمُ بِمَنِ اهْتَدَی
-  </p>
-</blockquote>
+> ذَلِكَ مَبْلَغُهُم مِّنَ الْعِلْمِ إِنَّ رَبَّكَ هُوَ أعْلَمُ بِمَن
+> ضَلَّ عَن سَبِيلِهِ وَهُوَ أعْلَمُ بِمَنِ اهْتَدَی
 
 ***30. That is their utmost extent of knowledge and cognition. Indeed,
 your Lord it is He Who knows best those who have gone astray from His
@@ -909,13 +781,9 @@ Guidance so that thereby Divine Final Argument reaches everyone.
 Surah al-Najm - Verse 31
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأرْضِ لِيَجْزِيَ
-الَّذِينَ أسَاؤُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أحْسَنُوا
-بِالْحُسْنَی
-  </p>
-</blockquote>
+> وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأرْضِ لِيَجْزِيَ
+> الَّذِينَ أسَاؤُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أحْسَنُوا
+> بِالْحُسْنَی
 
 ***31. And to Allah belong all that is in the heavens and all that is in
 the earth, that He may requite those who do evil with that which they
@@ -939,14 +807,10 @@ reward those who do good with what is best.
 Surah al-Najm - Verse 32
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الإِثْمِ وَالْفَوَاحِشَ إِلاّ
-اللَّمَمَ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ هُوَ أعْلَمُ بِكُمْ إِذْ
-أنشَأكُم مِّنَ الْأرْضِ وَإِذْ أنتُمْ أجِنَّةٌ فِي بُطُونِ
-اُمَّهَاتِكُمْ فَلَآ تُزَكُّوا أنفُسَكُمْ هُوَ أعْلَمُ بِمَنِ اتَّقَی
-  </p>
-</blockquote>
+> الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الإِثْمِ وَالْفَوَاحِشَ إِلاّ
+> اللَّمَمَ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ هُوَ أعْلَمُ بِكُمْ إِذْ
+> أنشَأكُم مِّنَ الْأرْضِ وَإِذْ أنتُمْ أجِنَّةٌ فِي بُطُونِ
+> اُمَّهَاتِكُمْ فَلَآ تُزَكُّوا أنفُسَكُمْ هُوَ أعْلَمُ بِمَنِ اتَّقَی
 
 ***32. Those who avoid great sins and vices except the inadvertently
 committed sins, indeed your Lord is of Great Forgiveness. He knows you
@@ -1218,5 +1082,4 @@ al-Bayan; Usul Kafi.
 [^22]: Tafsir Nur, vol. 11, p. 325.
 
 [^23]: Wasa’il al-Shi‘a, vol. 15., p. 238.
-
 

@@ -46,5 +46,3 @@ It is very difficult to avoid perspiration and it will create a lot of
 difficulties, whereas it is not difficult to control urinating, and this
 itself is a difference between them.
 
-
-

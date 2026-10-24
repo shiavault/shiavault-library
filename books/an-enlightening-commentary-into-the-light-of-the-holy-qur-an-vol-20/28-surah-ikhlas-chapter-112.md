@@ -8,11 +8,7 @@ Surah Ikhlas, Chapter 112
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -109,37 +105,17 @@ verses of Surah Hadid up to*
 Surah Ikhlas, Verses 1-4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الصَّمَدُ
-  </p>
-</blockquote>
+> اللَّهُ الصَّمَدُ
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَلِدْ وَلَمْ يُولَدْ
-  </p>
-</blockquote>
+> لَمْ يَلِدْ وَلَمْ يُولَدْ
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
 
 ***1. “Say: He, Allah, is One,"***  
 ***2. “Allah, the Eternal,"***  
@@ -679,5 +655,4 @@ and unite us on the Resurrection Day with the reality of monotheism.*
 [^25]: Surah Ta-Ha, No. 10, Verse 14
 
 [^26]: Surah Fatiha, No. 1, Verse 5
-
 

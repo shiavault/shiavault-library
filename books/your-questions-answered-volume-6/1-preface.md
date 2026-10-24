@@ -14,9 +14,7 @@ As it happens many of the questions are on burning topics of the
 current social environment, and I hope this volume will prove more
 popular and useful than the previous ones in this series.
 
-
 Dar es Salaam
 15th March 1965
 Syed Saeed Akhtar Rizvi
-
 

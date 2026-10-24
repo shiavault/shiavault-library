@@ -28,4 +28,3 @@ values of interest which fully normalize the claims and demands and
 needs in every society for which laws and provisions were made for the
 interest of individual human beings.
 
-

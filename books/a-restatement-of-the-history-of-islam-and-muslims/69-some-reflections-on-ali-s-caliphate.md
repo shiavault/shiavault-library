@@ -64,4 +64,3 @@ mankind. He, therefore, designated as his successor a man he knew would
 give continuity to his work. Such a man was Ali ibn Abi Talib, as noted
 before.
 
-

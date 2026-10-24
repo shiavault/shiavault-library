@@ -116,4 +116,3 @@ Holy Jamkaran Mosque has been narrated in the following books:
 
 4. Alzam an-Nasib, Vol.2, p.55.
 
-

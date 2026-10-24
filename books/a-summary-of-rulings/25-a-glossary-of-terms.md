@@ -760,4 +760,3 @@ them.
 
 • Zuhr Noon time or the noon-time prayer (Salatuz- Zuhr).
 
-

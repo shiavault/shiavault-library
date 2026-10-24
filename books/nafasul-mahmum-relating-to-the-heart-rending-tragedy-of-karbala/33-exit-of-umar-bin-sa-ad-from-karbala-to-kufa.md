@@ -112,4 +112,3 @@ Hashimites or the Shi’ah. While Abdul Malik was even more ruthless than
 Hajjaj and even more prepared to break faith and violate amnesties. His
 enmity with the Prophet (S)’s family is well-known in history.
 
-

@@ -265,4 +265,3 @@ to get his right.
 
 [^7]: Refer to 3:191.
 
-

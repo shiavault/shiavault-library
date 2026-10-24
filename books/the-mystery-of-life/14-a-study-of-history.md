@@ -381,20 +381,14 @@ originate from God.
 This piece of poetry by the Iranian poet Anvari shows a very clear
 historical trend:
 
-<p dir="rtl">
 اگر محـــوّل حال جهانيــان نه قضاســت چرا مجاری احوال بر خـلاف
 رضـاسـت
-</p>
 
-<p dir="rtl">
 بلی قضاست به هر نيک و بد عنان کش خلق بدآن دليل که تدبيرهای جمله
 خطاسـت
-</p>
 
-<p dir="rtl">
 هـزار نقــش بـــرآرد زمانـــه و نبــــود يکی چنانکـــه در آيينـة
 تصور ماسـت
-</p>
 
 *(If the events and developments of the world are not based on destiny,
 how come they are not always to our satisfaction? Indeed, it is fate
@@ -432,12 +426,10 @@ harmony with his fellow beings.
 man. However, what is useful to man must also be in accordance with the
 fundamentals of human life.
 
-<p dir="rtl">
 انزل من السماء ماء فسالت اودية بقدرها فاحتمل السيل زبدا رابيا و مما
 يوقدون عليه فی النار ابتغاء حليه او متاع زبد مثله کذلک يضرب الله الحق و
 الباطل فاما الزبد فيذهب جفاء و اما ما ينفع الناس فيمکث فی الارض کذلک
 يضرب الله الامثال
-</p>
 
 ***“God sends down water from the sky, and the rivers flow each
 according to its vastness; and the flood causes foam on the surface of
@@ -585,5 +577,4 @@ society remains unsolved
 51- Neglecting lying and other sins
 
 52- Deceit and hoodwinking.
-
 

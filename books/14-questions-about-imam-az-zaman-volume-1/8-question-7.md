@@ -48,4 +48,3 @@ affair.”[^2]
 
 [^2]: Khurshid al-Maghrib, Muhammad Ridha’ Hakimi, p. 264
 
-

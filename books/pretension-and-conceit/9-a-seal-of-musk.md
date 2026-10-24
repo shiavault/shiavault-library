@@ -309,4 +309,3 @@ himself as being outside the limit of dereliction, having the attitude
 as if he is doing Allah. Praise to Him, a favor because of them, such is
 conceit."
 
-

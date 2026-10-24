@@ -15,4 +15,3 @@ Notes
 
 [^7] The Holy Quran 9: 129
 
-

@@ -32,11 +32,7 @@ when he gains possession [of something] he grants generously, and when
 he is asked [for something] he accords [it].
 
 > 6ـ اَلْكَريمُ إذا قَدَرَ صَفَحَ، وإذا مَلَكَ سَمَحَ، وإذا سُئِلَ
-<blockquote dir="rtl">
-  <p>
-أنْجَحَ.
-  </p>
-</blockquote>
+> أنْجَحَ.
 
 7. A noble-minded person rejects disgrace and honours his neighbour.
 
@@ -51,85 +47,53 @@ he has to repay.
 rewards in everything good that he does.
 
 > 9ـ اَلْكَريمُ يَرْفَعُ نَفْسَهُ في كُلِّ ما أسْداهُ عَنْ حُسْنِ
-<blockquote dir="rtl">
-  <p>
-المُجازاتِ.
-  </p>
-</blockquote>
+> المُجازاتِ.
 
 10. When a noble-minded person needs you he excuses you [from helping
 him] and when you need him he suffices you.
 
 > 10ـ اَلْكَريمُ إذَا احْتاجَ إلَيْكَ أعْفاكَ، وإذَا احْتَجْتَ إلَيْهِ
-<blockquote dir="rtl">
-  <p>
-كَفاكَ.
-  </p>
-</blockquote>
+> كَفاكَ.
 
 11. The noble-minded person forgives despite having the power [to exact
 revenge], is just in his rule, restrains his harm [from others] and
 bestows [favours] generously.
 
 > 11ـ اَلْكَريمُ يَعْفُو مَعَ القُدْرَةِ، ويَعْدِلُ فِي الإمْرَةِ،
-<blockquote dir="rtl">
-  <p>
-ويَكُفُّ إسائَتَهُ وَيَبْذُلُ إحْسانَهُ.
-  </p>
-</blockquote>
+> ويَكُفُّ إسائَتَهُ وَيَبْذُلُ إحْسانَهُ.
 
 12. The noble-minded person is felicitous and worthy of reward in the
 sight of Allah, and is loved and venerated in the sight of the people.
 
 > 12ـ اَلْكَريمُ عِنْدَ اللّهِ مَحْبُورٌ مُثابٌ، وعِنْدَ النّاسِ
-<blockquote dir="rtl">
-  <p>
-مَحْبُوبٌ مُهابٌ.
-  </p>
-</blockquote>
+> مَحْبُوبٌ مُهابٌ.
 
 13. A noble-minded person is one who safeguards his honour with his
 wealth while the wicked person is one safeguards his wealth by
 [sacrificing] his honour.
 
 > 13ـ اَلْكَريمُ مَنْ صانَ عِرْضَهُ بِمالِهِ، واللَئِيمُ مَنْ صانَ
-<blockquote dir="rtl">
-  <p>
-مالَهُ بِعِرْضِهِ.
-  </p>
-</blockquote>
+> مالَهُ بِعِرْضِهِ.
 
 14. Be cautious of the noble-minded person when you offend him, and the
 forbearing one when you injure him, and the courageous one when you
 torment him.
 
 > 14ـ إحْذَرِ الكَريمَ إذا أهَنْـتَهُ، والحَليمَ إذا جَرَحْتَهُ،
-<blockquote dir="rtl">
-  <p>
-والشُّجاعَ إذا أوْجَعْتَهُ.
-  </p>
-</blockquote>
+> والشُّجاعَ إذا أوْجَعْتَهُ.
 
 15. Be cautious of the assault of the noble-minded person when he is
 hungry and the insolence of the wicked one when he is satiated.
 
 > 15ـ اِحْذَرُوا صَوْلَةَ الكَريمِ إذا جاعَ، وأشَرَ اللَّئيمِ إذا
-<blockquote dir="rtl">
-  <p>
-شَبَعَ.
-  </p>
-</blockquote>
+> شَبَعَ.
 
 16. Be cautious of the authority of the noble-minded person when he is
 humiliated and the vehemence of the wicked one when he is elevated [to a
 position of power].
 
 > 16ـ اِحْذَرُوا سَطْوَةَ الكَريمِ إذا وُضِعَ، وسَوْرَةَ اللَّئِيمِ إذا
-<blockquote dir="rtl">
-  <p>
-رُفِعَ.
-  </p>
-</blockquote>
+> رُفِعَ.
 
 17. The noble-minded person feigns inattention and pretends to be
 deceived.
@@ -183,11 +147,7 @@ attributes.
 favours [to others] and keeps ties with near relatives.
 
 > 27ـ ذُوالكَرَمِ جَمِيلُ الشِّيَمِ، مُسْد لِلنِّعَمِ، وَصُولٌ
-<blockquote dir="rtl">
-  <p>
-لِلرَّحِمِ.
-  </p>
-</blockquote>
+> لِلرَّحِمِ.
 
 28. The success of a noble-minded person brings deliverance.
 
@@ -220,42 +180,26 @@ wicked one if you honour him and of the forbearing one if you force him
 into a difficult position.
 
 > 34ـ كُنْ مِنَ الكَريمِ عَلى حَذَر إنْ أهَنْـتَهُ، ومِنَ اللَّئيمِ إنْ
-<blockquote dir="rtl">
-  <p>
-أكْرَمْتَهُ،وَ مِنَ الحَليمِ إنْ أحْرَجْتَهُ.
-  </p>
-</blockquote>
+> أكْرَمْتَهُ،وَ مِنَ الحَليمِ إنْ أحْرَجْتَهُ.
 
 35. The merit of initiating good deeds and performing generous acts
 belongs to the noble-minded people.
 
 > 35ـ لِلْكِرامِ فَضيلَةُ المُبادَرَةِ إلى فِعْلِ المَعْرُوفِ، وإسْداءِ
-<blockquote dir="rtl">
-  <p>
-الصَّنايِـعِ.
-  </p>
-</blockquote>
+> الصَّنايِـعِ.
 
 36. The one who has honoured you has made you uncomfortable if you are
 noble-minded and the one who has offended you has made you comfortable
 if you are forbearing.
 
 > 36ـ لَقَدْ أتْعَبَكَ مَنْ أكْرَمَكَ إنْ كُنْتَ كَريماً، ولَقَدْ
-<blockquote dir="rtl">
-  <p>
-أراحَكَ مَنْ أهانَكَ إنْ كُنْتَ حَليماً.
-  </p>
-</blockquote>
+> أراحَكَ مَنْ أهانَكَ إنْ كُنْتَ حَليماً.
 
 37. Indeed I am happier to [get to] know a noble-minded person than to
 acquire an expensive and precious jewel.
 
 > 37ـ لأنَا أشَدُّ اِغْتِباطاً بِمَعْرِفَةِ الكَريمِ مِنْ إمْساكي عَلَى
-<blockquote dir="rtl">
-  <p>
-الجَوْهَرِ النَّفيسِ الغالِي الثَّمَنِ.
-  </p>
-</blockquote>
+> الجَوْهَرِ النَّفيسِ الغالِي الثَّمَنِ.
 
 38. It is not the habit of noble-minded people to delay bounties.
 
@@ -270,11 +214,7 @@ people.
 than accompanying the wicked in order to gain favour.
 
 > 40ـ لُزُومُ الكَريمِ عَلَى الهَوانِ خَيْرٌ مِنْ صُحْبَةِ اللَّئيمِ
-<blockquote dir="rtl">
-  <p>
-عَلَى الإحْسانِ.
-  </p>
-</blockquote>
+> عَلَى الإحْسانِ.
 
 41. The pleasure of the noble-minded people is in feeding [others]
 whereas the pleasure of the wicked people is in eating [themselves].
@@ -303,11 +243,7 @@ feigning inattention towards that which he knows.
 others] while the joy of the wicked is in evil retribution.
 
 > 46ـ مَسَرَّةُ الكِرامِ في بَذْلِ العَطاءِ، ومَسَرَّةُ اللِّئامِ في
-<blockquote dir="rtl">
-  <p>
-سُوءِ الجَزاءِ.
-  </p>
-</blockquote>
+> سُوءِ الجَزاءِ.
 
 47. A high-minded person is never spiteful.
 
@@ -317,11 +253,7 @@ others] while the joy of the wicked is in evil retribution.
 before he is asked.
 
 > 48ـ لايَسْتَحِقُّ اسْمَ الكَرَمِ إلاّ مَنْ بَدَأَ بِنَوالِهِ قَبْلَ
-<blockquote dir="rtl">
-  <p>
-سُؤالِهِ.
-  </p>
-</blockquote>
+> سُؤالِهِ.
 
 49. A person does not ennoble himself until he belittles his wealth.
 
@@ -340,5 +272,4 @@ of disgrace.
 52. The noble-minded one is bright whereas the wicked one is immature.
 
 > 52ـ اَلْكَريمُ أبْلَجُ، اَللََّئيمُ مُلَهْوَجٌ.
-
 

@@ -264,4 +264,3 @@ on the 25th of Muharram 95 Hijri. His eldest son Muhammad Ibn ‘Ali al
 Baqir arranged the burial and laid him to rest in the grave yard of
 Jannatul Baqii beside his uncle Imam Hasan. (as)
 
-

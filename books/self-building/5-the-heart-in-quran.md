@@ -14,12 +14,8 @@ pine-shaped heart. e.g.:
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
-بِهَا
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
+> بِهَا
 
 ***“Have they not traveled in the land and have they hearts wherewith to
 feel and ears wherewith to hear.” (22:46)***
@@ -29,23 +25,15 @@ feel and ears wherewith to hear.” (22:46)***
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا
-يُبْصِرُونَ بِهَا
-  </p>
-</blockquote>
+> لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا
+> يُبْصِرُونَ بِهَا
 
 ***“Having hearts wherewith they understand not, and having eyes
 wherewith they see not.” (7:179)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
-  </p>
-</blockquote>
+> وَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
 
 ***“And their hearts are sealed, so that they apprehend not.” (9:87)***
 
@@ -54,12 +42,8 @@ And said:
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ
-مِّنْهُ
-  </p>
-</blockquote>
+> أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ
+> مِّنْهُ
 
 ***“These are they into whose hearts He has impressed faith and
 strengthened them with a spirit from Him.” (58:22)***
@@ -69,24 +53,16 @@ strengthened them with a spirit from Him.” (58:22)***
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-فَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم
-مُّسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> فَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم
+> مُّسْتَكْبِرُونَ
 
 ***“And as for those who believe not in the Hereafter there hearts
 refuse to know, for they are proud.” (16:22)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ
-وَأَبْصَارِهِمْ ۖ وَأُولَٰئِكَ هُمُ الْغَافِلُونَ
-  </p>
-</blockquote>
+> أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ
+> وَأَبْصَارِهِمْ ۖ وَأُولَٰئِكَ هُمُ الْغَافِلُونَ
 
 ***“Such are they whose hearts and ears and eyes God hath sealed. And
 such are the heedless.”*** ***(16:108)***
@@ -96,12 +72,8 @@ such are the heedless.”*** ***(16:108)***
 
 God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَحْذَرُ الْمُنَافِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم
-بِمَا فِي قُلُوبِهِمْ
-  </p>
-</blockquote>
+> يَحْذَرُ الْمُنَافِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم
+> بِمَا فِي قُلُوبِهِمْ
 
 ***“The Hypocrites fear lest a surah should be revealed concerning them,
 proclaiming what is in their hearts.”*** ***(9: 64)***
@@ -111,24 +83,16 @@ proclaiming what is in their hearts.”*** ***(9: 64)***
 
 God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ
-عَلِيمٌ
-  </p>
-</blockquote>
+> وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ
+> عَلِيمٌ
 
 ***“And whosoever believeth in God, He guideth his heart. And God is
 knower of all things.”*** ***(64:11)***
 
 And God said:
 
-<blockquote dir="rtl">
-  <p>
-شهيدوَهُوَ إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ أَوْ
-أَلْقَى السَّمْعَ
-  </p>
-</blockquote>
+> شهيدوَهُوَ إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ أَوْ
+> أَلْقَى السَّمْعَ
 
 ***“Most surely there is a reminder in this for him who has a heart or
 he gives ear and is a witness.”*** ***(50: 37)***
@@ -138,12 +102,8 @@ he gives ear and is a witness.”*** ***(50: 37)***
 
 God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ
-هَوَاهُ
-  </p>
-</blockquote>
+> وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ
+> هَوَاهُ
 
 ***“And obey not him whose heart we have made heedless of Our
 Remembrance, who followeth his own lust.”*** ***(18:28)***
@@ -153,22 +113,14 @@ Remembrance, who followeth his own lust.”*** ***(18:28)***
 
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
 
 ***“Verily in the remembrance of God do hearts find rest.” (13:28)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ
-لِيَزْدَادُوا إِيمَانًا
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ
+> لِيَزْدَادُوا إِيمَانًا
 
 ***“He it is who sent down peace of reassurance into the hearts of the
 believers that they might add faith unto their faith.”*** ***(48:4)***
@@ -178,13 +130,9 @@ believers that they might add faith unto their faith.”*** ***(48:4)***
 
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَسْتَأْذِنُكَ الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ
-وَالْيَوْمِ الْآخِرِ وَارْتَابَتْ قُلُوبُهُمْ فَهُمْ فِي رَيْبِهِمْ
-يَتَرَدَّدُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَسْتَأْذِنُكَ الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ
+> وَالْيَوْمِ الْآخِرِ وَارْتَابَتْ قُلُوبُهُمْ فَهُمْ فِي رَيْبِهِمْ
+> يَتَرَدَّدُونَ
 
 ***“They alone ask leave of thee who believe not in God and the Last
 Day, and whose hearts feel doubt, so in their doubt they waver.”
@@ -195,23 +143,15 @@ Day, and whose hearts feel doubt, so in their doubt they waver.”
 
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً
-  </p>
-</blockquote>
+> وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً
 
 ***“And places compassion and mercy in the hearts of those who followed
 him.” (57:27)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
- هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ وَأَلَّفَ بَيْنَ
-قُلُوبِهِمْ
-  </p>
-</blockquote>
+>  هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ وَأَلَّفَ بَيْنَ
+> قُلُوبِهِمْ
 
 ***“He it is who supporteth thee with His Help and with the believers.
 And (as for the believers) hath attuned their hearts.”*** ***(8:
@@ -222,11 +162,7 @@ And (as for the believers) hath attuned their hearts.”*** ***(8:
 
 God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ
-  </p>
-</blockquote>
+> وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ
 
 ***“If thou hadst been stern and fierce of heart they would have
 dispersed from round about thee.”*** ***(3:159)***
@@ -250,24 +186,16 @@ The heart possesses such exalted position in the Holy Qur’an that it is
 mentioned when the topic of revelation i.e. communication between God
 and men is discussed. God-Almighty said to Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ
-الْمُنذِرِينَ
-  </p>
-</blockquote>
+> نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ
+> الْمُنذِرِينَ
 
 ***“Which is the true spirit hath brought down, upon the heart, that
 thou mayest be (one) of the warners.” (26:193-194)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ
-قَلْبِكَ بِإِذْنِ اللَّهِ
-  </p>
-</blockquote>
+> قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ
+> قَلْبِكَ بِإِذْنِ اللَّهِ
 
 ***“Say (O Muhammad, to mankind) who is enemy to Gabriel! For he it is
 who hath revealed (this scripture) to thy heart by God's leave.”
@@ -276,12 +204,8 @@ who hath revealed (this scripture) to thy heart by God's leave.”
 The heart's position is so eminent that it sees the revealing angel and
 hears his voice. God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ مَا كَذَبَ الْفُؤَادُ مَا
-رَأَىٰ
-  </p>
-</blockquote>
+> فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ مَا كَذَبَ الْفُؤَادُ مَا
+> رَأَىٰ
 
 ***“And He revealed unto His slave (Prophet Muhammad) that which he
 revealed. The Heart lied not (in seeing the angel) what it saw.”
@@ -301,36 +225,24 @@ times it is sick).
 
 God-Almighty in Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ
-بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ
+> بِقَلْبٍ سَلِيمٍ
 
 ***“The day when wealth and sons avail not (any man). Save him who
 bringeth unto God a whole heart“*** ***(26: 88-89)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ
 
 ***“Lo! therein verily is a reminder for him who hath a heart”
 (50:37)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ هَٰذَا مَا
-تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ مَّنْ خَشِيَ الرَّحْمَٰنَ
-بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُّنِيبٍ
-  </p>
-</blockquote>
+> وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ هَٰذَا مَا
+> تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ مَّنْ خَشِيَ الرَّحْمَٰنَ
+> بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُّنِيبٍ
 
 ***“And the Garden is brought nign for those who kept from evil, no
 longer distant. (And it is said): that is that which ye were promised,
@@ -343,35 +255,23 @@ his return to God-Almighty with a pure and humble heart. On the other
 side the Holy Qur’an introduces some examples of hearts which are sick
 as follows:
 
-<blockquote dir="rtl">
-  <p>
-فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا
-  </p>
-</blockquote>
+> فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا
 
 ***“In their hearts is a disease, and God increaseth their disease.
 (2:10)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ
-رِجْسِهِمْ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ
+> رِجْسِهِمْ
 
 ***“But as for those in whose hearts is disease, it only addeth
 wickedness to their wickedness. (9:125)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ مَّا
-وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا
-  </p>
-</blockquote>
+> وَإِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ مَّا
+> وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا
 
 ***“And when the hypocrites, and those in whose hearts is a disease were
 saying: God and His Messenger promised us naught but delusion.
@@ -379,12 +279,8 @@ saying: God and His Messenger promised us naught but delusion.
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-فَتَرَى الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ فِيهِمْ
-يَقُولُونَ نَخْشَىٰ أَن تُصِيبَنَا دَائِرَةٌ
-  </p>
-</blockquote>
+> فَتَرَى الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ فِيهِمْ
+> يَقُولُونَ نَخْشَىٰ أَن تُصِيبَنَا دَائِرَةٌ
 
 ***“And thou seest those in whose heart is a disease race towards them,
 saying: We fear lest a change offortune befall us. (5: 52)***
@@ -412,12 +308,8 @@ Therefore, those who leave this world with such contaminated hearts will
 not be returning to God with a pure and sound heart to be worthy of the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ
-بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ
+> بِقَلْبٍ سَلِيمٍ
 
 ***“The day when wealth and sons avail not (any man). Save him who
 bringeth unto God a whole heart.”*** ***(26: 88-89)***
@@ -441,14 +333,10 @@ Judgment with similar condition, and will have no other choice except to
 be condemned into Hell to live a painful eternal life full of anguish
 and torture. God-Almighty in Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ
-يَوْمَ الْقِيَامَةِ أَعْمَىٰ قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ
-وَقَدْ كُنتُ بَصِيرًا قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا
-ۖ وَكَذَٰلِكَ الْيَوْمَ تُنسَىٰ
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ
+> يَوْمَ الْقِيَامَةِ أَعْمَىٰ قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ
+> وَقَدْ كُنتُ بَصِيرًا قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا
+> ۖ وَكَذَٰلِكَ الْيَوْمَ تُنسَىٰ
 
 ***“But he who turneth away from remembrance” of Me, his will be a
 narrow life, and I shall bring him blind to the assembly on the Day of
@@ -459,19 +347,11 @@ manner thou art forgotten this Day. (20:124-126)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى أَفَلَمْ
-يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا
-أَوْ آذَانٌ يَسْمَعُونَ بِهَا
-  </p>
-</blockquote>
+> فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى أَفَلَمْ
+> يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا
+> أَوْ آذَانٌ يَسْمَعُونَ بِهَا
 
-<blockquote dir="rtl">
-  <p>
-الْقُلُوبُ الَّتِي فِي الصُّدُورِ
-  </p>
-</blockquote>
+> الْقُلُوبُ الَّتِي فِي الصُّدُورِ
 
 ***“Have they not traveled in the land, and have they hearts where with
 to feel and ears wherewith to hear ? For indeed it is not the eyes that
@@ -480,25 +360,17 @@ blind. (22:46)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ
-وَأَضَلُّ سَبِيلًا
-  </p>
-</blockquote>
+> وَمَن كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ
+> وَأَضَلُّ سَبِيلًا
 
 ***“Whoso is blind in here will be blind in the Hereafter, and yet
 further from the road.”(17:22)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ
-لَهُمْ أَوْلِيَاءَ مِن دُونِهِ ۖ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ
-عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا
-  </p>
-</blockquote>
+> وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ
+> لَهُمْ أَوْلِيَاءَ مِن دُونِهِ ۖ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ
+> عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا
 
 ***“And he whom God guideth, he is led aright, while, as for him whom He
 sendeth astray, for them thou wilt find no protecting friends beside
@@ -525,12 +397,8 @@ self's world.
 
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
-النُّورَالَّذِي أُنزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
+> النُّورَالَّذِي أُنزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ
 
 ***“Then those who believe in him (Muhammad) honor him, help him, and
 follow the light which is sent down with him: They are the successful.
@@ -538,24 +406,16 @@ follow the light which is sent down with him: They are the successful.
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَكُم مِّنَ اللَّهِ نُورٌ وَكِتَابٌ مُّبِينٌ
-  </p>
-</blockquote>
+> قَدْ جَاءَكُم مِّنَ اللَّهِ نُورٌ وَكِتَابٌ مُّبِينٌ
 
 ***“Now hath come unto you light from God and a plain scripture.
 (5:15)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ مِّن
-رَّبِّهِ ۚ فَوَيْلٌ لِّلْقَاسِيَةِ قُلُوبُهُم مِّن ذِكْرِ اللَّهِ ۚ
-أُولَٰئِكَ فِي ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> أَفَمَن شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ مِّن
+> رَّبِّهِ ۚ فَوَيْلٌ لِّلْقَاسِيَةِ قُلُوبُهُم مِّن ذِكْرِ اللَّهِ ۚ
+> أُولَٰئِكَ فِي ضَلَالٍ مُّبِينٍ
 
 ***“Is he whose bosom God hath expanded for the surrender (unto Him), so
 that he followeth a light from His Lord (as he who disbelieveth) ? Then
@@ -576,12 +436,8 @@ environment of illumination and belief.
 
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ
-إِلَى النُّورِ
-  </p>
-</blockquote>
+> كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ
+> إِلَى النُّورِ
 
 ***“We have revealed unto thee (Muhammad) that thereby thou mayst bring
 forth mankind from darkness unto light. (14:1)***
@@ -597,14 +453,10 @@ joy, cheerfulness, beauty, and in the Next World will be utilizing the
 same illumination accumulated by them in this material world.
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُهُم بَيْنَ
-أَيْدِيهِمْ وَبِأَيْمَانِهِم بُشْرَاكُمُ الْيَوْمَ جَنَّاتٌ تَجْرِي
-مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ الْفَوْزُ
-الْعَظِيمُ
-  </p>
-</blockquote>
+> يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُهُم بَيْنَ
+> أَيْدِيهِمْ وَبِأَيْمَانِهِم بُشْرَاكُمُ الْيَوْمَ جَنَّاتٌ تَجْرِي
+> مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ الْفَوْزُ
+> الْعَظِيمُ
 
 ***“On the day when thou (Muhammad) wilt see the believers, men and
 women, their light shining forth before them and on their right hands
@@ -616,13 +468,9 @@ Yes! The illumination for the eternal world must be arranged in this
 world, and it is because of this reason that the pagans and hypocrites
 do not have illumination in the Next World. God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
-انظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ارْجِعُوا وَرَاءَكُمْ
-فَالْتَمِسُوا نُورًا
-  </p>
-</blockquote>
+> يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
+> انظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ارْجِعُوا وَرَاءَكُمْ
+> فَالْتَمِسُوا نُورًا
 
 ***“On the Day when the hypocritical men and the hypocritical women will
 say unto those who believe, look on us that we may borrow from your
@@ -638,14 +486,10 @@ three categories:
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر عليه السلام قال: القلوب ثلاثة: قلب منكوس لايعثرعلى شيء من
-الخير وهو قلب الكافر وقلب فيه نكتة سودا فالخير والشر يعتلجان, فما كان
-منه أقوى غلب عليه, وقلب مفتوح فيه مصباح يزهر فلا يطفا نوره الى القيامة
-وهو قلب المؤمن.
-  </p>
-</blockquote>
+> عن ابي جعفر عليه السلام قال: القلوب ثلاثة: قلب منكوس لايعثرعلى شيء من
+> الخير وهو قلب الكافر وقلب فيه نكتة سودا فالخير والشر يعتلجان, فما كان
+> منه أقوى غلب عليه, وقلب مفتوح فيه مصباح يزهر فلا يطفا نوره الى القيامة
+> وهو قلب المؤمن.
 
 *“There are three kinds of hearts:*
 
@@ -662,13 +506,9 @@ believer.”*[^1]
 
 Imam al-Sadiq (a.s.) has quoted from his learned father:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: كان ابي يقول: ما من سيء افسد للقلب من
-الخطيئة, ان القلب ليواقع الخطيئة فما تزال حتى تغلب عليه فيصير اسفله
-اعلاه واعلاه أسفله.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: كان ابي يقول: ما من سيء افسد للقلب من
+> الخطيئة, ان القلب ليواقع الخطيئة فما تزال حتى تغلب عليه فيصير اسفله
+> اعلاه واعلاه أسفله.
 
 *“There is nothing worst than sinning for the heart. When the heart is
 encountered with sin, it struggles against the sin until sin becomes
@@ -676,14 +516,10 @@ victorious thus, making the heart as a reversed heart.”*[^2]
 
 Imam al-Sajjad (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن علي بن الحسين عليه السلام في حديث طويل يقول فيه: الاان للعبد اربع
-اعين: عينان يبصر بهما امر دينه ودنياه, وعينان يبصر بهما امر آخرته.
-فاذا أراد الله بعيد خيرا فتح له العينين اللتين في قلبه فابصر بهما
-الغيب وامر آخرته واذا اراد به غيرذالك ترك القلب بما فيه.
-  </p>
-</blockquote>
+> عن علي بن الحسين عليه السلام في حديث طويل يقول فيه: الاان للعبد اربع
+> اعين: عينان يبصر بهما امر دينه ودنياه, وعينان يبصر بهما امر آخرته.
+> فاذا أراد الله بعيد خيرا فتح له العينين اللتين في قلبه فابصر بهما
+> الغيب وامر آخرته واذا اراد به غيرذالك ترك القلب بما فيه.
 
 *“A man possesses four eyes, with two apparent eyes he sees the affairs
 relevant to his world, and with two esoteric eyes sees the affairs
@@ -694,12 +530,8 @@ welfare, leaves the heart with his esoteric eyes closed.”*[^3]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: ان للقلب اذنين، روح الايمان يساره
-بالخير والشيطان يساره بالشر فايهما ظهر على صاحبه غلبه.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: ان للقلب اذنين، روح الايمان يساره
+> بالخير والشيطان يساره بالشر فايهما ظهر على صاحبه غلبه.
 
 *“The heart possesses two ears, the spirit of belief slowly invites him
 towards righteous deeds, while the Satan slowly invites him towards evil
@@ -708,26 +540,18 @@ heart's control.”*[^4]
 
 Imam al-Sadiq (a.s.) quotes from the Holy Prophet (S)
 
-<blockquote dir="rtl">
-  <p>
-عن الصادق عليه السلام قال: قال رسول الله صلى الله عليه وآله: شر العمى
-عمى القلب.
-  </p>
-</blockquote>
+> عن الصادق عليه السلام قال: قال رسول الله صلى الله عليه وآله: شر العمى
+> عمى القلب.
 
 *“The darkness of the heart is the worst kind of darkness.”*[^5]
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر عليه السلام قال: ما من عبد الاوفى قلبه نكتة بيضا فإذا أذنب
-ذنبا خرج في النكتة نكتة سودا. فان تاب ذهب ذالك السواد، وان تمادى في
-الذنوب زاد ذالك السواد حتى يغطى البياض، فإذا غظى البياض لم يرجع صاحبه
-الى خير ابدا وهو قول الله تعالى: كلا بل ران على قلوبهم ماكانوا
-يكسبـون.
-  </p>
-</blockquote>
+> عن ابي جعفر عليه السلام قال: ما من عبد الاوفى قلبه نكتة بيضا فإذا أذنب
+> ذنبا خرج في النكتة نكتة سودا. فان تاب ذهب ذالك السواد، وان تمادى في
+> الذنوب زاد ذالك السواد حتى يغطى البياض، فإذا غظى البياض لم يرجع صاحبه
+> الى خير ابدا وهو قول الله تعالى: كلا بل ران على قلوبهم ماكانوا
+> يكسبـون.
 
 *“Initially there is a white spot and light within the heart of a human
 being and as a result of his committing sin, a block spot appears. If
@@ -741,11 +565,7 @@ hearts.’**”*[^6]
 
 The Commander of the Faithful Imam‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ومن قل ورعه مات قلبه ومن مات قلبه دخل النار.
-  </p>
-</blockquote>
+> قال على عليه السلام: ومن قل ورعه مات قلبه ومن مات قلبه دخل النار.
 
 *“Every one who lacks self restraint and piety will have a dead heart;
 whoever have a dead heart will enter inside the Hell.”*[^7]
@@ -753,13 +573,9 @@ whoever have a dead heart will enter inside the Hell.”*[^7]
 He further emphasized this matter in his last will addressing to his
 son:
 
-<blockquote dir="rtl">
-  <p>
-فيما اوصى به امير المؤمنين عليه السلام ابنه, قال: يا بني ان البلا
-القاقة واشد من ذالك مرض البدن واشد من ذلك مرض القلب. وان من النعم سعة
-المال وافضل من ذالك صحة البدن وافضل من ذالك تقوى القلوب.
-  </p>
-</blockquote>
+> فيما اوصى به امير المؤمنين عليه السلام ابنه, قال: يا بني ان البلا
+> القاقة واشد من ذالك مرض البدن واشد من ذلك مرض القلب. وان من النعم سعة
+> المال وافضل من ذالك صحة البدن وافضل من ذالك تقوى القلوب.
 
 *“Oh my son! The poverty is one of the most horrible calamity,. But
 still severe than poverty is the bodily sickness; and the sickness of
@@ -770,16 +586,12 @@ heart is even superior than sound health.”*[^8]
 There is a narration quoted from Anas bin Malik from the Holy Prophet
 (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-انس من مالك قال قال رسول الله صلى الله عليه وآله: ناجى داود ربه فقال
-الهي لكل ملك خزانة فاين خزانتك؟ قال جل جلاله: لى خزينة اعظم من العرش
-واوسع من الكرسى واطيب من الجنة وازين من الملكوت. ارضها المعرفة واسمأها
-اليمان وشمسها الشوق وقمرها المح بة ونجومها الخواطروصاحبها العقل ومطرها
-الرحمة واثمرها الطاعة وثمرها الحكمة. ولها اربعة ابواب: العلم والحلب
-والصبر والرضا. والاوهى القلب.
-  </p>
-</blockquote>
+> انس من مالك قال قال رسول الله صلى الله عليه وآله: ناجى داود ربه فقال
+> الهي لكل ملك خزانة فاين خزانتك؟ قال جل جلاله: لى خزينة اعظم من العرش
+> واوسع من الكرسى واطيب من الجنة وازين من الملكوت. ارضها المعرفة واسمأها
+> اليمان وشمسها الشوق وقمرها المح بة ونجومها الخواطروصاحبها العقل ومطرها
+> الرحمة واثمرها الطاعة وثمرها الحكمة. ولها اربعة ابواب: العلم والحلب
+> والصبر والرضا. والاوهى القلب.
 
 *“The prophet David (a.s.) asked God; ‘Oh God! All the emperors possess
 treasure then where is Your treasure ? God-Almighty replied: ‘I possess
@@ -923,12 +735,8 @@ and return towards God-Almighty.
 
 God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَا إِذْ جَاءَهُم بَأْسُنَا تَضَرَّعُوا وَلَٰكِن قَسَتْ
-قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلَوْلَا إِذْ جَاءَهُم بَأْسُنَا تَضَرَّعُوا وَلَٰكِن قَسَتْ
+> قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ
 
 ***“If only, when our disaster came on them, they had been humble! But
 their hearts were hardened and the devil made all that they used to do
@@ -936,26 +744,18 @@ seem fair unto them! (6:43)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ فِي ضَلَالٍ مُّبِينٍ فَوَيْلٌ لِّلْقَاسِيَةِ قُلُوبُهُم
-مِّن ذِكْرِ اللَّهِ
-  </p>
-</blockquote>
+> أُولَٰئِكَ فِي ضَلَالٍ مُّبِينٍ فَوَيْلٌ لِّلْقَاسِيَةِ قُلُوبُهُم
+> مِّن ذِكْرِ اللَّهِ
 
 ***“Then woe unto those whose hearts are hardened against remembrance of
 God. Such are in plain error. (39:22)***
 
 Imam aI-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفرعليه السلام قال: ما من عبد مؤمن الاوفى قلبه نكتة بيضا فان
-اذنب وثنى خرج من تلك النكتة سواد فان تمادى في الذنوب اتسع ذالك السواد
-حتى يغطى البيضا فاذا غطى البيضا لم يرجع صاحبه الى خيرا بدا وهو قول
-الله كلا بل ران على قلوبهم ما كانوا يكسبون.
-  </p>
-</blockquote>
+> عن ابي جعفرعليه السلام قال: ما من عبد مؤمن الاوفى قلبه نكتة بيضا فان
+> اذنب وثنى خرج من تلك النكتة سواد فان تمادى في الذنوب اتسع ذالك السواد
+> حتى يغطى البيضا فاذا غطى البيضا لم يرجع صاحبه الى خيرا بدا وهو قول
+> الله كلا بل ران على قلوبهم ما كانوا يكسبون.
 
 *“There is a white spot inside the heart of each believer. Once he
 commits a sin or repeats it, a black spot appears inside the heart. In
@@ -964,23 +764,15 @@ size filling the entire heart with blackness. When this happens the
 owner of such heart never returns towards goodness, and this, is what
 God meant in the verse:*
 
-<blockquote dir="rtl">
-  <p>
-كلا بل ران على قلوبهم ما كانوا يكسبون.
-  </p>
-</blockquote>
+> كلا بل ران على قلوبهم ما كانوا يكسبون.
 
 ***“Nay, but that which they have earned is rust upon their
 hearts.”***[^11]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال اميرالمؤمنين عليه السلام: ما جفت الدموع الالقسوة القلوب وما قست
-القلوب الا لكثرة الذنوب.
-  </p>
-</blockquote>
+> قال اميرالمؤمنين عليه السلام: ما جفت الدموع الالقسوة القلوب وما قست
+> القلوب الا لكثرة الذنوب.
 
 *“The tears of eye never get dried but for the sake of hardheartedness,.
 the heart never acquires hard-heartedness but for the sake of excess of
@@ -988,12 +780,8 @@ sins.”*[^12]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: من علامات الشفا: جمود العين وقسوة
-القلب وشدة الحرص في طلب الرزق الاصرار على الذنب.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: من علامات الشفا: جمود العين وقسوة
+> القلب وشدة الحرص في طلب الرزق الاصرار على الذنب.
 
 *“The following four things are the indicators of human cruelty:*
 
@@ -1006,13 +794,9 @@ against hard-heartedness.
 
 Imam al-Sajjad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال علي بن الحسين (ع) في دعائه: الهى اليك أشكو قلبا قاسيا، مع الوسواس
-متقلبا وبالرين الطبع متلبسا وعينا عن البكا من خوفك جامدة وإلى ما تسرها
-طامحه.
-  </p>
-</blockquote>
+> قال علي بن الحسين (ع) في دعائه: الهى اليك أشكو قلبا قاسيا، مع الوسواس
+> متقلبا وبالرين الطبع متلبسا وعينا عن البكا من خوفك جامدة وإلى ما تسرها
+> طامحه.
 
 *“Oh God! I do complain to you against hard-heartedness –the heart which
 by means of whims and passions is in the state of continuous revolution
@@ -1097,14 +881,10 @@ called as physicians of self in the traditions.
 The Commander of the Faithful Imam ‘Ali (a.s.) said about the Holy
 Prophet (S).
 
-<blockquote dir="rtl">
-  <p>
-طبيب دوار بطبه قد احكم مرهمه واحمى مواسمه يضع من ذالك حيث الحاجة اليه,
-من قلوب عمى وآذان صم والسنة بكم. متبع بد وائه مواضع الغفلة ومواطن
-الحيرة لم يستضيئوا باضوا الحكمة ولم يقدحوا بزناد العلوم الثاقبة, فهم
-فى ذالك كالانعام السائمة الصخورالقاسية.
-  </p>
-</blockquote>
+> طبيب دوار بطبه قد احكم مرهمه واحمى مواسمه يضع من ذالك حيث الحاجة اليه,
+> من قلوب عمى وآذان صم والسنة بكم. متبع بد وائه مواضع الغفلة ومواطن
+> الحيرة لم يستضيئوا باضوا الحكمة ولم يقدحوا بزناد العلوم الثاقبة, فهم
+> فى ذالك كالانعام السائمة الصخورالقاسية.
 
 *“Muhammad (S) was a traveling physician who continuously endeavored for
 the treatment of souls. He had prepared ready-made ointments and
@@ -1120,24 +900,16 @@ diseased hearts.
 
 God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي
-الصُّدُورِ
-  </p>
-</blockquote>
+> قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي
+> الصُّدُورِ
 
 ***“There hath come unto you an exhortation from your Lord. A balm for
 that which is in the breasts. (10:57)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
-لِّلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
+> لِّلْمُؤْمِنِينَ
 
 ***“And We reveal of the Qur’an that which is a healing and a mercy for
 believers. (17:82)***
@@ -1145,12 +917,8 @@ believers. (17:82)***
 The Commander of the Faithful Imam ‘Ali (a.s.) said about the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: وتعلموا القرآن فانه أحسن الحديث وتفقهوا فيه فانه
-ربيع القلوب واستشفوا بنوره فانه شفا الصدور.
-  </p>
-</blockquote>
+> قال على عليه السلام: وتعلموا القرآن فانه أحسن الحديث وتفقهوا فيه فانه
+> ربيع القلوب واستشفوا بنوره فانه شفا الصدور.
 
 *“Learn the Holy Qur’an because, it is the best of learning; pay
 attentions towards its verses because they are like the springs rain;
@@ -1159,13 +927,9 @@ the healing of your hearts.”*[^16]
 
 At some other place he said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: واعلموا انه ليس على احد بعد القرآن من فاقة ولا
-لاحد قبل القرآن من غنى فاستشفوه من ادوائكم واستعينوا به على لاوايكم
-فان فيه شفا من اكبر الدا وهو الكفر والغى والضلال.
-  </p>
-</blockquote>
+> قال على عليه السلام: واعلموا انه ليس على احد بعد القرآن من فاقة ولا
+> لاحد قبل القرآن من غنى فاستشفوه من ادوائكم واستعينوا به على لاوايكم
+> فان فيه شفا من اكبر الدا وهو الكفر والغى والضلال.
 
 *“Know that anyone who possesses the Holy Qur’an would not require any
 thing else, and whoever is deprived of it will never be free from want.
@@ -1282,5 +1046,4 @@ authenticity of this statement [Tr].
 [^16]: Nahjul al-Balagha, sermon-110.
 
 [^17]: Nahjul al-Balagha, sermon-176.
-
 

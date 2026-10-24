@@ -181,4 +181,3 @@ of him and is inimical to him, is a polytheist. And if he is ignorant
 but is neither inimical nor friendly with his enemies, he is ignorant
 and not a polytheist.”
 
-

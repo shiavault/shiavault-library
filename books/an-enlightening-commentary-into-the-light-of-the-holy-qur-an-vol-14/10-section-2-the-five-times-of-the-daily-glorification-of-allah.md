@@ -4,24 +4,12 @@ Section 2: The Five Times of the Daily Glorification of Allah
 Surah Ar-Room – Verses 11-13
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَبْدَؤُا الخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> اللَّهُ يَبْدَؤُا الخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُـجْرِمُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُـجْرِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكَن لَهُم مِن شُرَكَآئِهِمْ شُفَعَآءُ وَكَانُوا
-بِشُرَكَآئِهِمْ كَافِرِينَ
-  </p>
-</blockquote>
+> وَلَمْ يَكَن لَهُم مِن شُرَكَآئِهِمْ شُفَعَآءُ وَكَانُوا
+> بِشُرَكَآئِهِمْ كَافِرِينَ
 
 ***11. “Allah originates the creation, then reproduces it, then unto Him
 you shall be returned.”***  
@@ -109,25 +97,13 @@ hostile to them and deny that (men) had worshipped them.”***
 Surah Ar-Room – Verses 14-16
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَمَّا الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ فَهُمْ فِي
-رَوْضَةٍ يُحْبَرُونَ
-  </p>
-</blockquote>
+> فَاَمَّا الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ فَهُمْ فِي
+> رَوْضَةٍ يُحْبَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ كَفَرُوا وَكَذَّبُوا بِاَيَاتِنَا وَلِقَآءِي
-الأَخِرَةِ فَأُوْلَئِكَ فِي الْعَذَابِ مُحْضَرُونَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ كَفَرُوا وَكَذَّبُوا بِاَيَاتِنَا وَلِقَآءِي
+> الأَخِرَةِ فَأُوْلَئِكَ فِي الْعَذَابِ مُحْضَرُونَ
 
 ***14. “And on the Day when the Hour will come, that Day they shall be
 divided;”***  
@@ -223,18 +199,10 @@ for some people who are not amendable).*
 Surah Ar-Room – Verses 17-18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
-  </p>
-</blockquote>
+> فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالأَرْضِ وَعَشِيّاً وَحِينَ
-تُظْهِرُونَ
-  </p>
-</blockquote>
+> وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالأَرْضِ وَعَشِيّاً وَحِينَ
+> تُظْهِرُونَ
 
 ***17. “So glory be to Allah, when you enter the evening and when you
 enter the morning.”***  
@@ -313,12 +281,8 @@ is lost from him at night will be recompensed.”*[^3]
 Surah Ar-Room – Verse 19
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُخْرِجُ الْحَيَّ مِنَ الْمَيّـِتِ وَيُخْرِجُ الْمَيّـِتَ مِنَ
-الْحيّ‌ِ وَيُحْيِ الاَرْضَ بَعْدَ مَوْتِهَا وَكَذَلِكَ تُخْرَجُونَ
-  </p>
-</blockquote>
+> يُخْرِجُ الْحَيَّ مِنَ الْمَيّـِتِ وَيُخْرِجُ الْمَيّـِتَ مِنَ
+> الْحيّ‌ِ وَيُحْيِ الاَرْضَ بَعْدَ مَوْتِهَا وَكَذَلِكَ تُخْرَجُونَ
 
 ***19. “He brings forth the living from the dead and brings forth dead
 from the living, and gives life to the earth after its death, and thus
@@ -452,5 +416,4 @@ earth by means of justice is also more significant than rainfall.
 
 [^4]: Narrated from the book of Kafi, according to Nur-uth-Thaqalayn,
 Vol. 4, P. 173
-
 

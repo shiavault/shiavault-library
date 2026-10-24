@@ -42,4 +42,3 @@ Dr. Ali Peiravi
  Ms. Lisa Zaynab Morgan  
 <peiravi@netscape.net>
 
-

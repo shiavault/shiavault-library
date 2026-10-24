@@ -547,4 +547,3 @@ interest both are Harām in this case.
 
 [^13]: Wasa’il ul-Shia
 
-

@@ -35,4 +35,3 @@ The following are conjunctions:
 For example: **کِتابی** (my book), **کتابُ ﺇبراهیمَ** (Ibrāhīm's book),
 **کتابُ المُعَلّم** (the teacher's book)
 
-

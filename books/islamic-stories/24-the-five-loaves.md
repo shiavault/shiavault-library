@@ -35,4 +35,3 @@ As such the guest shared one part from your loaves and seven from those
 of your friend. So you should get one dirham and your friend should
 receive seven dirhams.
 
-

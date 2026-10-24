@@ -102,4 +102,3 @@ The mean earth with the sublime heaven does not compare!
 What ignorance to compare the Mu'tazilite and Greek ideas with the
 teachings of the Nahj al-balaghah !
 
-

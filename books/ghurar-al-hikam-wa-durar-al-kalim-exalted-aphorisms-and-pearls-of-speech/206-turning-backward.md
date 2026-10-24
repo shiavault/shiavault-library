@@ -21,15 +21,10 @@ gives you good advice.
 extravagance, lack of consideration and too many excuses.
 
 > 4ـ يُسْتَدَلُّ علَى الإدْبارِ بِأرْبَع:سُوْءُ التَّدْبيرِ، وقُبْحُ
-<blockquote dir="rtl">
-  <p>
-التَّبْذيرِ، وقِلَّةُ الإعْتِبارِ، وكَثْرَةُ الاعْتِذارِ
-(الاغْتِرارِ).
-  </p>
-</blockquote>
+> التَّبْذيرِ، وقِلَّةُ الإعْتِبارِ، وكَثْرَةُ الاعْتِذارِ
+> (الاغْتِرارِ).
 
 5. The merits in advancing forward are the demerits in turning backward.
 
 > 5ـ المَحاسِنُ فِي الإقبالِ هِيَ المَساوي فِي الإدْبارِ.
-
 

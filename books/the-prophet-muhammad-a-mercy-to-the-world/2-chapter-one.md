@@ -348,7 +348,6 @@ religion. Allah will complete this matter until a rider may travel from
 San'a to Hadramaut with nothing to fear but the wolf getting to his
 sheep.'
 
-
 **Migration of the Messenger of Allah**
 
 The Quraysh and their allies make the decision that Muhammad must be
@@ -425,5 +424,4 @@ yet, then they should come forward." It is reported that nobody did.
 Having discharged all his tasks in Mecca, Ali set off for Yathreb
 together with his mother Fatimah bint Assad, Fatimah the daughter of the
 Prophet, and Fatimah daughter of Zubair.
-
 

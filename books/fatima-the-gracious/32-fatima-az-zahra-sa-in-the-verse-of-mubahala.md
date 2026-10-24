@@ -106,4 +106,3 @@ chaste as Fatima az-Zahra (sa) was. The Prophet called Fatima az-Zahra
 (sa) alone to join him, because she was the only woman capable of
 fulfilling the qualifications of the verse.
 
-

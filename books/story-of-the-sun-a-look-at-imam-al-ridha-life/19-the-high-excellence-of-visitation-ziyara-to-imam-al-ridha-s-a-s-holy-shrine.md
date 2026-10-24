@@ -291,4 +291,3 @@ people are Shiʿa (See Muʿjam al-Buldan, vol. 1, p. 56).
 quoted from the noble volume Wasa’il al-Shi‘a, vol. 10, chapter 82 up to
 chapter 88, Abwab al-Mazar.
 
-

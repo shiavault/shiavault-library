@@ -36,4 +36,3 @@ we must know that this is not the correct method to follow.  We must
 return back to the original reason for the corruption found in these
 places (and why this new generation should not go to these places).
 
-

@@ -466,4 +466,3 @@ the eminent forerunners. Our great national poet Allama Iqbal perceived
 this bitter fact and versed this passion: ‘the shrines are devoid of
 mystic savour; and schools are depleted of innovation of ideas.’
 
-

@@ -4,36 +4,16 @@ Section 8: Salih Preaches Righteousness to the People of Thamud
 Surah Ash-Shu‘ara - Verses 141-145
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلاَ تَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
-  </p>
-</blockquote>
+> إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
-رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
+> رَبِّ الْعَالَمِينَ
 
 ***141. “The Thamud (people) belied the messengers.”***  
 ***142. “When their brother Salih said to them: ‘Will you not fear
@@ -111,35 +91,15 @@ from the Lord of the worlds.”***
 Surah Ash-Shu‘ara - Verses 146-150
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ
-  </p>
-</blockquote>
+> أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> فِي جَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ
-  </p>
-</blockquote>
+> وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ
-  </p>
-</blockquote>
+> وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
 ***146. “Will you be left secure, in (the enjoyment of) all that you
 have here?”***  
@@ -202,17 +162,9 @@ retribution of their deeds.
 Surah Ash-Shu‘ara - Verses 151-152
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُطِيعُوا أَمْرَ الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> وَلاَ تُطِيعُوا أَمْرَ الْمُسْرِفِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يُفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ
 
 ***151. “And do not obey the bidding of the extravagant,”***  
 ***152. “Those who make mischief in the earth, and amend not.”***
@@ -363,18 +315,10 @@ Hereafter and religion.”*[^12]
 Surah Ash-Shu‘ara - Verses 153-154
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ
-  </p>
-</blockquote>
+> قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا فَأْتِ بِآيَةٍ إِن كُنتَ مِنَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> مَا أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا فَأْتِ بِآيَةٍ إِن كُنتَ مِنَ
+> الصَّادِقِينَ
 
 ***153. “They said: ‘You are only of the bewitched ones’,”***  
 ***154. “You are no more than a mortal, like us, so bring you a sign if
@@ -421,23 +365,11 @@ and bewitched.
 Surah Ash-Shu‘ara - Verses 155-157
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
-  </p>
-</blockquote>
+> قَالَ هَذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَلاَ تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ
-  </p>
-</blockquote>
+> فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ
 
 ***155. “He said: ‘Here is a she-camel; she shall have her portion of
 water (one day), and you have your portion of water on an appointed
@@ -511,18 +443,10 @@ The verse says:
 Surah Ash-Shu‘ara - Verses 158-159
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَخَذَهُمُ الْعَذَابُ إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ
-أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> فَأَخَذَهُمُ الْعَذَابُ إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ
+> أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***158. “So the punishment overtook them; verily in this there is sign,
 but most of them do not believe.”***  
@@ -617,5 +541,4 @@ liar both are set in a row
 which originally means: ‘root and the base of something’. It is
 sometimes used in the sense of ‘to kill’ and sometimes in the sense of
 ‘to hamstrung’ an animal’, too.
-
 

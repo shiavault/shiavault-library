@@ -118,4 +118,3 @@ Issue 32: Eating and drinking things, which are Najis, is Haram.
 [^1]: For a better understanding on the method of slaughtering according
 to Islamic Law, see Issue 438.
 
-

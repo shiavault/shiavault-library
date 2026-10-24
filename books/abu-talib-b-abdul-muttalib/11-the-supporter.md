@@ -83,4 +83,3 @@ Then, he began chanting to confront the Quraishi might:
 
 *And till I'll be buried.*
 
-

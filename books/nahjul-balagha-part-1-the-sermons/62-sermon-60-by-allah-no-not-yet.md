@@ -4,35 +4,19 @@ Sermon 60: By Allah! No, not yet….
 *When Amir al-mu'minin was told that the Kharijites had been totally
 killed, he said:*
 
-<blockquote dir="rtl">
-  <p>
-وقال (عليه السلام)
-  </p>
-</blockquote>
+> وقال (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا قتل الخوارج
-  </p>
-</blockquote>
+> لمّا قتل الخوارج
 
-<blockquote dir="rtl">
-  <p>
-فقيل له: يا أميرالمؤمنين، هلك القوم بأجمعهم، فقال:
-  </p>
-</blockquote>
+> فقيل له: يا أميرالمؤمنين، هلك القوم بأجمعهم، فقال:
 
 By Allah! No, not yet. They still exist in the loins of men and wombs of
 women. Whenever a chief would appear from among them, he would be cut
 down till the last of them would turn thieves and robbers. [^1]
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ وَالله، إِنَّهُمْ نُطَفٌ فِي أَصْلاَبِ الرِّجَالِ، وَقَرَارَاتِ
-النِّسَاءِ، كُلَّمَا نَجَمَ مِنْهُمْ قَرْنٌ قُطِعَ، حَتَّى يَكُونَ
-آخِرُهُمْ لُصُوصاً سَلاَّبِينَ.
-  </p>
-</blockquote>
+> كَلاَّ وَالله، إِنَّهُمْ نُطَفٌ فِي أَصْلاَبِ الرِّجَالِ، وَقَرَارَاتِ
+> النِّسَاءِ، كُلَّمَا نَجَمَ مِنْهُمْ قَرْنٌ قُطِعَ، حَتَّى يَكُونَ
+> آخِرُهُمْ لُصُوصاً سَلاَّبِينَ.
 
 Alternative Sources for Sermon 60
 ---------------------------------
@@ -81,5 +65,4 @@ Yahya al-Kindi, al-Mukhtar ibn \`Awf al-Azdi (Abu Hamzah ash-Shari),
 Abrahah ibn as-Sabbah and Balj ibn \`Uqbah al-Asadi: were killed by
 \`Abd al-Malik ibn \`Atiyyah as-Sa\`di in the reign of Marwan ibn
 Muhammad (the last of the Umayyad caliphs).
-
 

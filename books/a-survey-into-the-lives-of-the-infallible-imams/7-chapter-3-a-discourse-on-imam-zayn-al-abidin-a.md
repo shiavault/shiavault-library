@@ -35,11 +35,7 @@ al-Husayn, he is filled with awe by his level of spirituality and the
 Islam he practiced. What was his type of Islam? What kind of soul was
 this?
 
-<blockquote dir="rtl">
-  <p>
-اينهمه آوازها از شه بود گرچه ازحلقوم عبدالله بود
-  </p>
-</blockquote>
+> اينهمه آوازها از شه بود گرچه ازحلقوم عبدالله بود
 
 ***These voices belonged to the king even if they were from the throat
 of his servant.***
@@ -136,5 +132,4 @@ I saw eighteen Josephs fall onto the ground before my eyes, one after
 the other.” 
 
 [^1]: Surat Yusuf 12:84.
-
 

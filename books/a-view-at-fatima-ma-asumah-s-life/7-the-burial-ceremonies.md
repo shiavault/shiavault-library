@@ -40,4 +40,3 @@ Respecting the Lady’s Shrine Musa bin Hkazraj intailed his orchard for
 the Muslims, in order that the followers of Ali “a.s.” could bury their
 deads surrounding the holy grave.
 
-

@@ -14,4 +14,3 @@ It is helpful to note that "accidental" here should be taken to mean
 could be called "evil" so far as they actually cause some sorts of
 nonexistence and privation.
 
-

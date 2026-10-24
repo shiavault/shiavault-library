@@ -37,4 +37,3 @@ There is a little difference between *Adhaan* and *Iqamah*. While saying
  and repeated twice and "*laa ilaaha illal Laah*" at the end is to be
 said only once.
 
-

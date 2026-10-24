@@ -92,7 +92,6 @@ al-Sayqal who has said the following.
 "Imam abu Ja'far (a.s.) has said, 'Discussing knowledge is study and
 study is a good prayer.'"
 
-
 **Chapter 10 : Chapter on Giving Knowledge as Charity H 91, Ch. 10, h
 1**
 
@@ -133,5 +132,4 @@ saying, 'O Israelites, do not speak the words of wisdom to the ignorant
 people because you will be doing injustice to them (words of wisdom). Do
 not keep them (words of wisdom) from those who deserve lest you will do
 injustice to them (deserving people).'"
-
 

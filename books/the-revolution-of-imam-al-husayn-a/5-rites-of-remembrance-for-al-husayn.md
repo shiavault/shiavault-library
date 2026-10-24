@@ -3446,4 +3446,3 @@ be replaced by founding blood banks in the name of al-Husayn where those
 desiring to shed their blood as an act of consolation could give it to
 the sick, the wounded and the needy.
 
-

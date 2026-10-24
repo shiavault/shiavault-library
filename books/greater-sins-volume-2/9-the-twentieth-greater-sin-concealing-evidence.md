@@ -351,4 +351,3 @@ priority to the more important alternative.
 
 [^9]: al-Kāfi
 
-

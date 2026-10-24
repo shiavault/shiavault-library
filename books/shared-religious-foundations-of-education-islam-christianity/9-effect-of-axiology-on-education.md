@@ -242,4 +242,3 @@ discipline. The fourth and final feature of a Christian University is
 the celebration of ‘rationality’ and ‘conversation’ in the quest for the
 truth (Markham, 2004).
 
-

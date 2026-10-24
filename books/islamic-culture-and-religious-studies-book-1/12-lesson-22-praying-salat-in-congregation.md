@@ -144,7 +144,6 @@ to anyone who is reluctant in joining Salaatul Jama'at?
 5. What are your experiences in Salaatul Jama'at? These days do many
 Muslims pray in congregation?
 
-
 **ANECDOTE**
 
 **Prayer of the Mercy-Seeking Servant**
@@ -161,5 +160,4 @@ performance.
 The wicked repent their sins and those who know Allah (S.W.T.) confess
 deficiency in worship. The pious hope for Your mercy, like beggars. Do
 to me what is worthy of You, and do not deal with me as I deserve."
-
 

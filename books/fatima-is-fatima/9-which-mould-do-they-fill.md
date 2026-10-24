@@ -793,4 +793,3 @@ meet the enemy. They take whatever the West gives and do whatever they
 want them to do. They become exactly as Westerners had willed they would
 be.
 
-

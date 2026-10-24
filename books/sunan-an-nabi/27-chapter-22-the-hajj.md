@@ -48,12 +48,8 @@ valley, and in the last part of the night and after the prayers.[^10]
 informed me from Jabir ibn ‘Abdillah that the *talbiya* of the Holy
 Prophet was:
 
-<blockquote dir="rtl">
-  <p>
-لَبَّيْكَ أَللٌّهُمَّ لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ إِنَّ
-الْحَمْدَ وَ النِّعْمَةَ لَكَ وَ الْمُلْكَ لاَ شَرِيكَ لَكَ.
-  </p>
-</blockquote>
+> لَبَّيْكَ أَللٌّهُمَّ لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ إِنَّ
+> الْحَمْدَ وَ النِّعْمَةَ لَكَ وَ الْمُلْكَ لاَ شَرِيكَ لَكَ.
 
 *“I am here, O Allah!, I am here. I am here, no partners do You have, I
 am here. Verily the praise and bounties are Yours as is the kingdom, no
@@ -108,5 +104,4 @@ to Allah.[^16]
 [^15]: al-Muqni\`: 70
 
 [^16]: Ibid., 46
-
 

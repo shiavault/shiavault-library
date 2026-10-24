@@ -11,7 +11,6 @@ following. "I heards al-Rida (a.s.) saying, "Ali ibn 'Abdallah (or
 Divine Authority) in the descendants of Ali and Fatima (a.s.) he would
 not be like the people."
 
-
 H 980, Ch. 88, h 2
 
 Al-Husayn ibn Muhammad has narrated from Mu'alla ibn Muhammad who has
@@ -50,7 +49,6 @@ who reject you from your own people and other such people the same?
 Leadership with Divine Authority) would be considered as having
 committed twice as much sin and the good deed from our own people who
 are virtuous would also considered as of twice as much value."
-
 
 **Chapter 89 : The Obligation and Duty of the People at the Time of the
 Passing away of the Imam (a.s.) H 983, Ch. 89, h 1**
@@ -195,7 +193,6 @@ The narrator has said that he then asked the Imam (a.s.), "If people
 would come to the Imam then by what means would they recognize him?" He
 said, "The Imam is granted serenity, dignity and an awesome presence."
 
-
 **Chapter 90 : When the Imam learns that Leadership with Divine
 Authority has come to him? H 986, Ch. 90, h 1**
 
@@ -332,5 +329,4 @@ After a few days only the news of the passing away of abu Ibrahim reach
 the city. We calculated the time and found out that it was exactly the
 time abu al-Hassan had done those things; his delaying to come for rest
 at night and taking charge of the trust with ('Umm Ahamd)."
-
 

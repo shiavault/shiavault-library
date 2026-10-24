@@ -3601,4 +3601,3 @@ who best knows the Arabs' defects?”
 Holy Qur'an titled Al-Durr al-Manthur as he explains the meaning of
 Surat al-Bayyinah.
 
-

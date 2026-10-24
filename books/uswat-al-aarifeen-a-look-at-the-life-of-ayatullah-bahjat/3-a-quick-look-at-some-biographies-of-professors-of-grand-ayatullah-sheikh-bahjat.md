@@ -428,4 +428,3 @@ the world.
  More than 1,200 men of virtue and prominent mujtahids used to attend
 his classes in the seminary.
 
-

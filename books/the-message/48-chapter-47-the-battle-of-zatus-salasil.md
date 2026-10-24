@@ -221,4 +221,3 @@ Yabis (the dry desert) are one and the same place.
 [^7]: Tarikh-i Tabari, vol. III, page 30; Seerah-i Halabi, vol. III,
 page 215 and Mughazi Waqidi, vol. II, pp. 769 - 774.
 
-

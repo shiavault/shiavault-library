@@ -7,21 +7,13 @@ Praise And Extolment
 these two have a foul odour in the heart.
 
 > 1ـ اِحْتَرِسُوا مِنْ سَوْرَةِ الإطْراءِ والمَدْحِ، فَإنَّ لَهُما ريحاً
-<blockquote dir="rtl">
-  <p>
-خبيثَةً فِي القَلْبِ.
-  </p>
-</blockquote>
+> خبيثَةً فِي القَلْبِ.
 
 2. Beware of praising anyone for something that is not in him, for
 indeed his action affirms his attribute and belies you.
 
 > 2ـ إيّاكَ أنْ تُثْنِيَ عَلى أحَد بِما لَيْسَ فيهِ، فَإنَّ فِعْلَهُ
-<blockquote dir="rtl">
-  <p>
-يَصْدُقُ عَنْ وَصْفِهِ وَيُكَذِّبُكَ.
-  </p>
-</blockquote>
+> يَصْدُقُ عَنْ وَصْفِهِ وَيُكَذِّبُكَ.
 
 3. The ugliest truth is a person’s praise for himself.
 
@@ -34,12 +26,8 @@ withhold from him your favour, he will label you with every scandal and
 will attribute every ugly act to you.
 
 > 4ـ إنَّ مادِحَكَ لَخادِعٌ لِعَقْلِكَ غاشٌّ لَكَ في نَفْسِكَ بِكاذِبِ
-<blockquote dir="rtl">
-  <p>
-الإطْراءِ وزُورِ الثَّناءِ، فَإنْ حَرَمْتَهُ نَوالَكَ أوْ مَنَعْتَهُ
-إفْضالَكَ، وَسَمَكَ بِكُلِّ فَضيحَة، ونَسَبَكَ إلى كُلِّ قَبيحَة.
-  </p>
-</blockquote>
+> الإطْراءِ وزُورِ الثَّناءِ، فَإنْ حَرَمْتَهُ نَوالَكَ أوْ مَنَعْتَهُ
+> إفْضالَكَ، وَسَمَكَ بِكُلِّ فَضيحَة، ونَسَبَكَ إلى كُلِّ قَبيحَة.
 
 5. Commendation causes vainglory and brings one closer to heedlessness.
 
@@ -56,13 +44,9 @@ accountable for what they say and make me better than what they think of
 me.
 
 > 7ـ إذا زُكِّيَ أحَدٌ مِنَ المُتَّقينَ، خافَ مِمّا يُقالُ لَهُ
-<blockquote dir="rtl">
-  <p>
-فَيَقُولُ: أنَا أعْلَمُ بِنَفْسي مِنْ غَيْري، ورَبّي أعْلَمُ بِنَفْسي
-مِنّي، اَللّهُمَّ لاتُؤاخِذْني بِما يَقُولُونَ، واجْعَلْني أفْضَلَ
-مِمّا يَظُنُّونَ.
-  </p>
-</blockquote>
+> فَيَقُولُ: أنَا أعْلَمُ بِنَفْسي مِنْ غَيْري، ورَبّي أعْلَمُ بِنَفْسي
+> مِنّي، اَللّهُمَّ لاتُؤاخِذْني بِما يَقُولُونَ، واجْعَلْني أفْضَلَ
+> مِمّا يَظُنُّونَ.
 
 8. Recommendation of the evil ones is one of the greatest sins.
 
@@ -94,21 +78,13 @@ righteous.
 closer to heedlessness.
 
 > 14ـ كَثْرَةُ الثَّناءِ مَلَقٌ يُحْدِثُ الزَّهْوَ ويُدْني مِنَ
-<blockquote dir="rtl">
-  <p>
-الغِرَّةِ.
-  </p>
-</blockquote>
+> الغِرَّةِ.
 
 15. Every praiser has the right to a good reward or a handsome gift from
 whom he praises.
 
 > 15ـ لِكُلِّ مُثْن عَلى مَنْ أثْنى عَلَيْهِ مَثُوبَةٌ مِنْ جَزاء
-<blockquote dir="rtl">
-  <p>
-أوعارِفَةٌ مِنْ عَطاءِ.
-  </p>
-</blockquote>
+> أوعارِفَةٌ مِنْ عَطاءِ.
 
 16. One who praises you has [actually] slaughtered you.
 
@@ -118,11 +94,7 @@ whom he praises.
 you for that which you have not done.
 
 > 17ـ مَنْ مَدَحَكَ بِما لَيْسَ فيكَ فَهُوَ خَليقٌ أنْ يَذُمُّكَ بِما
-<blockquote dir="rtl">
-  <p>
-لَيْسَ فيكَ.
-  </p>
-</blockquote>
+> لَيْسَ فيكَ.
 
 18. One who is praised for that which is not in him is ridiculed by it.
 
@@ -148,10 +120,5 @@ mocking you, and if you do not give him that which fulfils his wants, he
 will be excessive in his blame and defamation of you.
 
 > 22ـ مادِحُكَ بِما لَيْسَ فيكَ مُسْتَهْزِيٌ بِكَ، فَإنْ لَمْ تُسْعِفْهُ
-<blockquote dir="rtl">
-  <p>
-بِنَوالِكَ بالَغَ في ذَمِّكَ وهِجائِكَ.
-  </p>
-</blockquote>
-
+> بِنَوالِكَ بالَغَ في ذَمِّكَ وهِجائِكَ.
 

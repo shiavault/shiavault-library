@@ -66,4 +66,3 @@ man's taste and it is only through obstinate resistance to lower
 impulses that he can fulfill his mission of breaking down the barriers
 that confront him and thus ascend to the realm of higher values.
 
-

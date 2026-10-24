@@ -12,4 +12,3 @@ a. I met five students (f). **قابلتُ خَمسَ طالباتٍ.  **
 
 b. Five students (m) came.**خَمسَةُ طلابٍ.**   **حضَرَ**
 
-

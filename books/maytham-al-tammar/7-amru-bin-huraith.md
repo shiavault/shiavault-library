@@ -16,4 +16,3 @@ Maytham kept silent. Amru bin Harith was puzzled. He wondered:
 Days and years passed. Unjust rulers succeeded each other over Kufa.
 They treated its people rudely.
 
-

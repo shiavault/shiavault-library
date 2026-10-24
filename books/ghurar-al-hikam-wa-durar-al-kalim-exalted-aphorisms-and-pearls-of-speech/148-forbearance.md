@@ -15,11 +15,7 @@ Almighty.
 3. Forbearance puts out the fire of rage and acrimoniousness stokes it.
 
 > 3ـ اَلْحِلْمُ يُطْفِيءُ نارَ الْغَضَبِ، والْحِدَّةُ تُؤَجِّجُ
-<blockquote dir="rtl">
-  <p>
-إحْراقَهُ.
-  </p>
-</blockquote>
+> إحْراقَهُ.
 
 4. Be forbearing and you will be honoured.
 
@@ -38,11 +34,7 @@ be pleased.
 understanding.
 
 > 7ـ احْتَجِبْ عَنِ الغَضَبِ بِالْحِلْمِ، وغُضَّ عَنِ الوَهْمِ
-<blockquote dir="rtl">
-  <p>
-بِالْفَهْمِ.
-  </p>
-</blockquote>
+> بِالْفَهْمِ.
 
 8. The strongest of all people is the one who overcomes his anger with
 his forbearance.
@@ -53,11 +45,7 @@ his forbearance.
 self-restraint despite having power [to exact revenge].
 
 > 9ـ أفْضَلُ الحِلْمِ كَظْمُ الغَيْظِ، ومِلْكُ النَّفْسِ مَعَ
-<blockquote dir="rtl">
-  <p>
-القُدْرَةِ.
-  </p>
-</blockquote>
+> القُدْرَةِ.
 
 10. The most courageous of people is the one who defeats ignorance with
 forbearance.
@@ -123,11 +111,7 @@ organized.
 reward of the virtuous.
 
 > 24ـ إنْ كانَ فِي الغَضَبِ الإنْتِصارُ، فَفِي الْحِلْمِ ثَوابُ
-<blockquote dir="rtl">
-  <p>
-الأبـْرارِ.
-  </p>
-</blockquote>
+> الأبـْرارِ.
 
 25. Verily forbearance is only suppression of anger and self-restraint.
 
@@ -141,11 +125,7 @@ reward of the virtuous.
 increase his sorrow by your forbearance towards him.
 
 > 27ـ إذا حَلُمْتَ عَنِ السَّفِيهِ غَمَمْتَهُ، فَزِدْهُ غَمّاً
-<blockquote dir="rtl">
-  <p>
-بِحِلْمِكَ عَنْهُ.
-  </p>
-</blockquote>
+> بِحِلْمِكَ عَنْهُ.
 
 28. When you are forbearing with an ignorant person, you have given him
 the best reply.
@@ -156,11 +136,7 @@ the best reply.
 head, taking no notice of it, and it will pass you by.
 
 > 29ـ إذا سَمِعْتَ مِنَ الْمَكْرُوهِ ما يُؤْذيكَ فَتَطَأْطَأْ لَهُ
-<blockquote dir="rtl">
-  <p>
-يُخْطِكَ.
-  </p>
-</blockquote>
+> يُخْطِكَ.
 
 30. When forbearance brings about corruption [and defiance in the
 enemy], forgiveness becomes a weakness.
@@ -184,21 +160,13 @@ anger.
 sweeter than this in outcome, nor more tasteful in effect.
 
 > 34ـ تَجَرَّعِ الغُصَصَ، فَإنّي لَمْ أرَ جُرْعَةً أحْلى مِنْها عاقِبَةً
-<blockquote dir="rtl">
-  <p>
-وَلا ألَذَّ مَغَبَّةً.
-  </p>
-</blockquote>
+> وَلا ألَذَّ مَغَبَّةً.
 
 35. Gulp down the pains of forbearance, for indeed it is the cornerstone
 of wisdom and the fruit of knowledge.
 
 > 35ـ تَجَرَّعْ مَضَضَ الحِلْمِ، فَإنَّهُ رَأْسُ الحِكْمَةِ، وثَمَرةُ
-<blockquote dir="rtl">
-  <p>
-العِلْمِ.
-  </p>
-</blockquote>
+> العِلْمِ.
 
 36. The fruit of forbearance is kindness.
 
@@ -238,21 +206,13 @@ behaviour of the people].
 forbearing is tested.
 
 > 44ـ عِنْدَ غَلَبَةِ الغَيْظِ والْغَضَبِ يُخْتَبـَرُ حِلْمُ
-<blockquote dir="rtl">
-  <p>
-الْحُلَماءِ.
-  </p>
-</blockquote>
+> الْحُلَماءِ.
 
 45. The strength [required] for forbearance in times of anger is greater
 than the strength [needed] for vengeance.
 
 > 45ـ قُوَّةُ الحِلْمِ عِنْدَ الغَضَبِ أفْضَلُ مِنَ القُوَّةِ عَلَى
-<blockquote dir="rtl">
-  <p>
-الإنْتِقامِ.
-  </p>
-</blockquote>
+> الإنْتِقامِ.
 
 46. Forbearance is sufficient as veneration.
 
@@ -274,22 +234,14 @@ than the strength [needed] for vengeance.
 men.
 
 > 50ـ وَجَدْتُ الحِلْمَ والإحْتِمالَ أنْصَرَ لي مِنْ شَِجْعانِ
-<blockquote dir="rtl">
-  <p>
-الرِّجالِ.
-  </p>
-</blockquote>
+> الرِّجالِ.
 
 51. Do not disgrace yourselves in order to alleviate your anger, and if
 an ignorant person acts ignorantly towards you then let your forbearance
 prevail over him.
 
 > 51ـ لاتَفْضَحُوا أنْفُسَكُمْ لِتَشْفُوا غَيْظَكُمْ، وإنْ جَهِلَ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ جاهِلٌ فَلْيَسَعْهُ حِلْمُكُمْ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ جاهِلٌ فَلْيَسَعْهُ حِلْمُكُمْ.
 
 52. There is no virtue like forbearance.
 
@@ -324,10 +276,5 @@ not to have noticed].
 and his nobility [is evinced] from his abundant benefactions.
 
 > 59ـ يُسْتَدَلُّ عَلى حِلْمِ الرَّجُلِ بِكَثْرَةِ احْتِمالِهِ، وعَلى
-<blockquote dir="rtl">
-  <p>
-نُبْلِهِ بِكَثْرَةِ إنْعامِهِ.
-  </p>
-</blockquote>
-
+> نُبْلِهِ بِكَثْرَةِ إنْعامِهِ.
 

@@ -69,12 +69,8 @@ others and say: Today a companion of the Imam passed over me.”[^3]
 It is narrated from His Eminence, Abu Abdillah Sadiq (as) that he said
 regarding the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَىٰ أُمَّةٍ مَعْدُودَةٍ
-لَيَقُولُنَّ مَا يَحْبِسُهُ
-  </p>
-</blockquote>
+> وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَىٰ أُمَّةٍ مَعْدُودَةٍ
+> لَيَقُولُنَّ مَا يَحْبِسُهُ
 
 ***“And if We hold back from them the punishment until a stated period
 of time…” (Qur’an, Surah Hud 11:8)***
@@ -84,11 +80,7 @@ the people of Badr and companions of the Holy Imam (as).”
 
 Ali bin Ibrahim says under the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ
-  </p>
-</blockquote>
+> سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ
 
 ***“One demanding, demanded the chastisement which must befall.”
 (Qur’an, Surah Maarij 70:1)***
@@ -214,12 +206,8 @@ great trials and going through very difficult times. They would be
 involved in different types of problems and calamities. This is also
 mentioned in the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
-الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
+> الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ
 
 ***“And We will most certainly try you with somewhat of fear and hunger
 and loss of property and lives and fruits.” (Qur’an, Surah Baqarah
@@ -365,5 +353,4 @@ another tradition from His Eminence on the same topic.
 [^17]: Bihar, Vol. 51, Pg. 77
 
 [^18]: Falah as-Saail, Pg. 200, Biharul Anwar; Vol. 86, Pg. 81
-
 

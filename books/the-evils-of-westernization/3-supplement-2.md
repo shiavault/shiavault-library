@@ -172,4 +172,3 @@ Iranian adaptation".... (p. 58)
 
 Westernization is not an isolated phenomenon confined to Iran.
 
-

@@ -266,4 +266,3 @@ Sunni and Shi'ah gnostics.
 [^12]: Another tradition cited in the books of the Sunni and Shi'ah
 gnostics.
 
-

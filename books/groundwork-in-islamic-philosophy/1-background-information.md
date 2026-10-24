@@ -35,7 +35,6 @@ produced a trenchant critique of culture, and the elaboration of
 metaphysics and epistemology was carried on in the theosophical schools
 of Islamic mysticism.
 
-
 **Introduction**
 
 Relative to Western philosophy, the field of Islamic philosophy has
@@ -116,19 +115,18 @@ western philosophy are the proofs from religious experience. This is a
 theme also present in Islamic philosophy and the second part of this
 project will examine this issue.
 
-
 **Philosophy and Islam**
 
 Philosophy is concerned with the fundamental questions about nature and
 reality. Al-Kindi called philosophy the most exalted science, since it
-dealt with issues which are universal. Al-Kindi (Alkindus, 800 &endash;
+dealt with issues which are universal. Al-Kindi (Alkindus, 800 –
 873 CE) is recognized as the first Arab or Muslim philosopher. He
 defines philosophy as the love of wisdom, from the Greek words philo
 (friend) and sophia (wisdom) [Kindi, pp.18-19].
 
 Ibn Rushd (Averroes) goes a step further and states that the Quran
 makes the study of philosophy obligatory upon all believers. Ibn Rushd
-(Averroes, 1128 &endash; 1198 CE) is considered a major Aristotelian
+(Averroes, 1128 – 1198 CE) is considered a major Aristotelian
 Muslim and Spanish philosopher. He states that philosophy is nothing
 more than the study of beings and reflection upon them.
 
@@ -147,7 +145,7 @@ Al-Ghazzali finds serious problems with the philosophers of his era. He
 writes, "they have abandoned all the religious duties of Islam imposes
 on its followers." He thinks that the kind of reasoning used by
 philosophers would never result in the proof of the existence of God.
-Al-Ghazzali (Algazel, 1058 &endash; 1111 CE) was an extremely
+Al-Ghazzali (Algazel, 1058 – 1111 CE) was an extremely
 influential orthodox Muslim thinker who rebuffed many of the claims of
 the 'philosophers' who claimed they could proof God by reason alone.
 
@@ -195,7 +193,6 @@ positions, as is similar among certain Muslim groups. The irritating
 problem, however, is to uphold the conclusion of these theists on purely
 philosophical grounds, in the face of a challenge from radical
 skepticism.
-
 
 **Analytical Arguments**
 
@@ -401,5 +398,4 @@ reality is being sought which would explain, or make sense of, the
 complex and plethora of phenomena in the world. Even here, the
 non-theistic skeptic will ask what reason do we have to think that the
 universe is not simply an "unintelligible brute fact"? [Hick, p. 21].
-
 

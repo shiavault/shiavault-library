@@ -23,24 +23,16 @@ it is prohibited to mention his proper name (in any gathering).
 
 The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي لاَ يُسَمِّيهِ بِاسْمِهِ ظَاهِراً قَبْلَ قِيَامِهِ إِلاَّ
-كَافِرٌ بِهِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي لاَ يُسَمِّيهِ بِاسْمِهِ ظَاهِراً قَبْلَ قِيَامِهِ إِلاَّ
+> كَافِرٌ بِهِ
 
 “He is the one whom no one calls by his (proper) name openly before his
 advent, except the one who disbelieves in him.”[^1]
 
 The Messenger of Allah has also said:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ يَحِلُّ لِأَحَدٍ أَنْ يُسَمِّيهِ أَوْ يُكَـنِّيهِ بِاسْمِهِ وَ
-كُنْيَتِهِ قَبْلَ خُرُوجِهِ صَلَوَاتُ اللٌّهِ عَلَيْهِ
-  </p>
-</blockquote>
+> فَلاَ يَحِلُّ لِأَحَدٍ أَنْ يُسَمِّيهِ أَوْ يُكَـنِّيهِ بِاسْمِهِ وَ
+> كُنْيَتِهِ قَبْلَ خُرُوجِهِ صَلَوَاتُ اللٌّهِ عَلَيْهِ
 
 “It is not permitted for anyone to call him by his name or his title
 before his advent, may the blessings of Allah be upon him.”[^2]
@@ -103,12 +95,8 @@ mention the titles of Imam al-Mahdi (ajtf). However, according to
 precaution it is not permitted and this is how we should tread in these
 regards (by observing this precaution).
 
-<blockquote dir="rtl">
-  <p>
-فِي حَدِيثِ الْخِضْرِ: وَ أَشْهَدُ عَلـى رَجُلٍ مِنْ وُلْدِ الْحُسَينِ
-لاَ يُكَنَّى وَ لاَ يُسَمَّى حَتَّى يَظْهَرَ أَمْرُهُ
-  </p>
-</blockquote>
+> فِي حَدِيثِ الْخِضْرِ: وَ أَشْهَدُ عَلـى رَجُلٍ مِنْ وُلْدِ الْحُسَينِ
+> لاَ يُكَنَّى وَ لاَ يُسَمَّى حَتَّى يَظْهَرَ أَمْرُهُ
 
 In the tradition of al-Khidhr it has been mentioned: “And I bear witness
 to that man who will come from the children of al-Husain (as) whose
@@ -156,5 +144,4 @@ also in the meaning of Ihtiyat Mustahab.
 
 [^10]: Kamal ad-Din wa Tamam an-Ni’mah, vol. 1, pg. 315; al-Ihtijaj, pg.
 267
-
 

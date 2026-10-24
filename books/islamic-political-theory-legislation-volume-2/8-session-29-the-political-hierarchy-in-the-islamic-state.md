@@ -299,12 +299,8 @@ worship is that which is done solely because of love and reverence for
 God—the same worship the Commander of the Faithful (*‘a*) described in
 one of his litanies [*munajat*]:
 
-<blockquote dir="rtl">
-  <p>
-اِلٰهى مَا عَبَدْتُكَ خَوْفاً مِنْ عِقَابِكَ وَ لاَ طَمَعًا فِي
-ثَوابِكَ وَلٰكِنْ وَجَدْتُكَ أهْلاً لِلْعِبَادَةِ فَعَبْدتُك.
-  </p>
-</blockquote>
+> اِلٰهى مَا عَبَدْتُكَ خَوْفاً مِنْ عِقَابِكَ وَ لاَ طَمَعًا فِي
+> ثَوابِكَ وَلٰكِنْ وَجَدْتُكَ أهْلاً لِلْعِبَادَةِ فَعَبْدتُك.
 
 “My Lord, I have not worshipped You out of fear of Your chastisement or
 out of greed for Your reward, but I found You worthy of worship so I
@@ -313,14 +309,10 @@ worshipped You.”[^2]
 In another place, Imam ‘Ali (*‘a*) divides the worshippers into three
 groups:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ قَوْماً عَبَدُوا اللهَ رَغْبَةً فَتِلْكَ عِبَادَةُ التُّجَّارِ،
-وَإِنَّ قَوْماً عَبَدُوا اللهَ رَهْبَةً فَتِلْكَ عِبَادَةُ الْعَبِيدِ،
-وَإِنَّ قَوْماً عَبَدُوا اللهَ شُكْراً فَتِلْكَ عِبَادَةُ
-الاَْحْرَارِ.
-  </p>
-</blockquote>
+> إِنَّ قَوْماً عَبَدُوا اللهَ رَغْبَةً فَتِلْكَ عِبَادَةُ التُّجَّارِ،
+> وَإِنَّ قَوْماً عَبَدُوا اللهَ رَهْبَةً فَتِلْكَ عِبَادَةُ الْعَبِيدِ،
+> وَإِنَّ قَوْماً عَبَدُوا اللهَ شُكْراً فَتِلْكَ عِبَادَةُ
+> الاَْحْرَارِ.
 
 “A group of people worship Allah out of desire for reward; this is the
 worship of traders. Another group worship out of fear; this is the
@@ -526,5 +518,4 @@ obedience to law or custom can be regarded as moral. [Trans.]
 [^2]: Bihar al-Anwar, vol. 41, p. 14.
 
 [^3]: Nahj al-Balaghah, Saying 237.
-
 

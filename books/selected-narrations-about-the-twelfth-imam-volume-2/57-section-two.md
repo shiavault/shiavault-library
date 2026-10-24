@@ -595,4 +595,3 @@ in accordance with Islamic law—Ed.
 [^13]: Kifāyat al-muhtadī (al-\`Arba\`īn), p. 122, under no. 32; Kashf
 al-ḥaqq (al-Arba\`īn), p. 32, no. 7.
 
-

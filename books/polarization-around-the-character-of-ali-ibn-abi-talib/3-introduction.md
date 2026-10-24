@@ -243,11 +243,7 @@ excludes another group.
 Islam is also the law of love. The Qur'an presents the Holy Prophet as a
 mercy for all Being: *(rahmatan li'l alamin )*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ  
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
 
 ***We have not sent thee, save as a mercy unto all beings (Anbiya',
 21:107).***
@@ -291,11 +287,7 @@ punish before the crime? If he is my murderer, I cannot kill my own
 murderer: he is to murder me, not I him." It was about this person that
 'Ali said:
 
-<blockquote dir="rtl">
-  <p>
-اُرِيد حياتهُ وَيَرِيدُ قَتليِ
-  </p>
-</blockquote>
+> اُرِيد حياتهُ وَيَرِيدُ قَتليِ
 
 I want him to live; he wants to kill me.' (i.e., "I have love for him,
 but he is my enemy and has malevolent designs against me.")
@@ -326,12 +318,8 @@ if it be only to a few.
 
 'Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أَعجَز النَّاسِ مَن عَجَزَ عَنِ اكتِسَابِ الإِخوَانِ, وَ أَعجَزُ مِنهُ
-مَن ضَيَّعَ ظَفِرَ بِهِ مِنْهُم.
-  </p>
-</blockquote>
+> أَعجَز النَّاسِ مَن عَجَزَ عَنِ اكتِسَابِ الإِخوَانِ, وَ أَعجَزُ مِنهُ
+> مَن ضَيَّعَ ظَفِرَ بِهِ مِنْهُم.
 
 The most powerless person is he who is unable to find any friends, and
 more powerless than these is the one who loses his friends and remains
@@ -529,11 +517,7 @@ affection for individuals, is also concerned about society.
 The greatest sin is a sin which appears small in the eyes of man and
 seems to be of no importance. Amir al-mu'minin said:
 
-<blockquote dir="rtl">
-  <p>
-أشَدُّ الذُّنُوبِ مَا اسْتَهَانَ بِهِ صَاحِبُهُ
-  </p>
-</blockquote>
+> أشَدُّ الذُّنُوبِ مَا اسْتَهَانَ بِهِ صَاحِبُهُ
 
 The most serious sin is the sin which the sinner imagines to be slight
 and insignificant.[^8]
@@ -573,5 +557,4 @@ shared.
 [^7]: Biharu 'l-anwar, vo1.42, pp.193-194 (Tehran, new edition).
 
 [^8]: Nahju 'l-balaghah, Saying no. 340.
-
 

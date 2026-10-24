@@ -94,7 +94,6 @@ his compilation to 'Uthman, who wanted to destroy it. 18 Similarly, the
 compilation made by 'Ali ibn Abi Talib (A) was retained by him and later
 preserved by his family.
 
-
 **2. The 'Uthmani Codices**
 
 The copies of the Qur'an prepared by 'Uthman's order by the committee
@@ -217,5 +216,4 @@ Uzbekistan at Tashkand that the aforesaid codex is kept under lock and
 key by the governor of Tashkand. But a photographic copy of it, of the
 same size as the original (65x50), is kept at the Islamic Centre for
 display for visitors.
-
 

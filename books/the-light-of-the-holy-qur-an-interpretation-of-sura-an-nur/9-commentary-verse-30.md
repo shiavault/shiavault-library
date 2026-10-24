@@ -34,7 +34,6 @@ verse.[^1]
 [^1] Wasa'il-ush-Shi'ah, Vol. 14, p. 139, Nur-uth-Thaqalyn, Al-mazan,
 and Ruh ul-Ma'ani
 
-
 **Commentary:**
 
 Sin must be prevented from its origin and piety must be set out from
@@ -203,7 +202,6 @@ other men (therein)."[^3]
 [^2] Ibid
 
 [^3] E'aqaab Al-A'amal
-
 
 **Commentary : Verse 31**
 
@@ -567,5 +565,4 @@ circulation of tempting pictures, blue movies, sexy novels and stories,
 are not permitted. Undoubtedly Islamic society must be free from such
 matters that lead people, girls and boys, to centers of corruption and
 wickedness.
-
 

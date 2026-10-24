@@ -3,12 +3,8 @@ Lesson Twenty Nine: Counsel
 
 Imam Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إِتَّعِظُوا بِمَنْ كانَ قَبْلَكُمْ قَبْلَ أَنْ يَتَّعِظَ بِكُمْ مِنْ
-بَعْدَكُمْ"
-  </p>
-</blockquote>
+> "إِتَّعِظُوا بِمَنْ كانَ قَبْلَكُمْ قَبْلَ أَنْ يَتَّعِظَ بِكُمْ مِنْ
+> بَعْدَكُمْ"
 
 Translation
 -----------
@@ -28,5 +24,4 @@ and fate of our predecessors rather than repeat the same mistakes and
 leave a trail of misfortunes for the posterity to learn from.
 
 [^1]: Nahjul Balaghah, sermon 31
-
 

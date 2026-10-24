@@ -81,4 +81,3 @@ blame.
 
 [^5]: Surah Al Hamd 1:5-7
 
-

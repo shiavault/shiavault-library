@@ -7,10 +7,5 @@ Secret Conversation
 articulating scholar or the cautious listener [who can keep secrets].
 
 > 1ـ لاخَيْـرَ فِي الْمُناجاةِ إلاّ لِرَجُلَيْنِ:عالِم ناطِق، أوْ
-<blockquote dir="rtl">
-  <p>
-مُسْتَمِع واع.
-  </p>
-</blockquote>
-
+> مُسْتَمِع واع.
 

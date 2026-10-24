@@ -26,5 +26,3 @@ Ali Ibn Abi Talib (a.s). And it invites the pure souls to follow the
 lofty exemplar and makes their feelings of sacrifice and faith
 stronger.
 
-
-

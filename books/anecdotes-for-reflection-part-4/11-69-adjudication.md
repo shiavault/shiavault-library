@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ اللَّهُ يَقْضِي بِالْحَق
-  </p>
-</blockquote>
+> وَ اللَّهُ يَقْضِي بِالْحَق
 
 *“**And Allah judges with the truth**”*[^1]
 
 Imam Sadiq (peace be upon him) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَكَمَ فِي دِرْهَمَيْنِ بِغَيْرِ مَا أَنْزَلَ اللَّهُ عَزَّ وَ
-جَلَّ فَهُوَ كَافِرٌ بِاللَّهِ الْعَظِيمِ
-  </p>
-</blockquote>
+> مَنْ حَكَمَ فِي دِرْهَمَيْنِ بِغَيْرِ مَا أَنْزَلَ اللَّهُ عَزَّ وَ
+> جَلَّ فَهُوَ كَافِرٌ بِاللَّهِ الْعَظِيمِ
 
 *“One who passes a judgment with respect to (even) two dirhams in a
 manner other than what God has stipulated has exhibited ‘kufr’ with
@@ -252,5 +244,4 @@ pg. 302.
 
 [^9]: Qadhawatha-e-Amirul Mu’mineen (peace be upon him), pg. 103; Wafi,
 vol. 2.
-
 

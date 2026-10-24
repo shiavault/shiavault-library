@@ -124,11 +124,11 @@ the head to the body and as the two eyes to the head. The head is not
 rightly guided without the eyes. For details refer to our book
 al-Murajaat, murajaa no.6 -13.
 
-*<span style="font-size: 16pt">The matter is determined when Taym[1] is
-absent</span>*
+*The matter is determined when Taym[1] is
+absent*
 
-*<span style="font-size: 16pt">And they[2] are not asked permission when
-they are present.</span>*
+*And they[2] are not asked permission when
+they are present.*
 
 Yes! The matter had been determined in the Saqeefa[3] while the Prophet
 (s) was lying between his family and his close companions for three
@@ -148,15 +148,15 @@ houses.[4]
 
 The poet of the Nile, Hafidh Ibraheem had said in a famous poem:
 
-*<span style="font-size: 16pt">And a saying to Ali said by Umar,</span>*
+*And a saying to Ali said by Umar,*
 
-*<span style="font-size: 16pt">Honored is the listener and great is the
-sayer</span>*
+*Honored is the listener and great is the
+sayer*
 
-*<span style="font-size: 16pt">I burn your house and let you not alive
-longer in it</span>*
+*I burn your house and let you not alive
+longer in it*
 
-*<span style="font-size: 16pt">If you do not pay homage</span>*
+*If you do not pay homage*
 
 ------------------------------------------------------------------------
 
@@ -175,14 +175,14 @@ quoted from al-Mahasin wa Anfas al-Jawahir, ibn Khanzabah in al-Ghurar
 and Abu Makhnaf in a detailed book talking about the homage of the
 Saqeefa.
 
-*<span style="font-size: 16pt">Even if the daughter of al-Mustafa[1] is
-in it.</span>*
+*Even if the daughter of al-Mustafa[1] is
+in it.*
 
-*<span style="font-size: 16pt">No one save Abu Hafs[2] that has said
-it</span>*
+*No one save Abu Hafs[2] that has said
+it*
 
-*<span style="font-size: 16pt">Before the knight and protector of
-Adnan[3]</span>*
+*Before the knight and protector of
+Adnan[3]*
 
 If it has been supposed that there was no clear tradition showing that
 the caliphate was to be for one of the Prophets family and if it has
@@ -273,11 +273,11 @@ wedding procession[2] whereas the Prophet (s) was still lain down among
 his pure lovers. Imam Ali (s) then could not but to recite this verse of
 one of the poets:
 
-*<span style="font-size: 16pt">Some people began saying whatever they
-like</span>*
+*Some people began saying whatever they
+like*
 
-*<span style="font-size: 16pt">And tyrannized when Zayd was afflicted
-with calamities[3]</span>*
+*And tyrannized when Zayd was afflicted
+with calamities[3]*
 
 Imam Ali (s) knew well that people had determined to turn the caliphate
 away from him and that if he had asked for his right (the caliphate)
@@ -316,14 +316,14 @@ force.[2]
 He protested against those, who had extorted his right, and how eloquent
 his protest was when he said to Abu Bakr:
 
-<span style="font-size: 16pt; font-style: italic">If you protested
-against your opponents with kinship,</span>
+If you protested
+against your opponents with kinship,
 
-<span style="font-size: 16pt; font-style: italic">The others were
-worthier of the Prophet and closer than you</span>
+The others were
+worthier of the Prophet and closer than you
 
-<span style="font-size: 16pt; font-style: italic">And if you ruled them
-by the shura,</span>
+And if you ruled them
+by the shura,
 
 ------------------------------------------------------------------------
 
@@ -365,8 +365,8 @@ from his hand. Umar struck the sword against a rock and it broke and
 then he took them out of the house drawing them violently with their
 collars... Refer to Sharh Nahjol Balagha, vol. 2 p.19.
 
-*<span style="font-size: 16pt">How is that while the people of the shura
-were absent?[1]</span>*
+*How is that while the people of the shura
+were absent?[1]*
 
 ------------------------------------------------------------------------
 
@@ -449,7 +449,7 @@ like the gate of repentance.
  No one deserves it save Abu Hasan Ali  
  O Abu Hasan, be determined for it  
  For you are the only well-qualified one for the hoped matter*  
-  
+
 His speech had no any effect on Imam. Ali said: The messenger of Allah
 has promised me with something and I am still keeping to it. Abu Sufyan
 left Ali and went to al-Abbas bin Abdul Muttalib in his house. He said
@@ -525,19 +525,19 @@ How brave Jafar bin Abu Talib was with his three thousand soldiers when
 they attacked bravely Hercules and his two hundred thousand soldiers.[2]
 Jafar recited:
 
-*<span style="font-size: 16pt">How nice Paradise is and its becoming
-near!</span>*
+*How nice Paradise is and its becoming
+near!*
 
-<span style="font-size: 16pt; font-style: italic">How good it is with
-its cold drinks</span>
+How good it is with
+its cold drinks
 
-*<span style="font-size: 16pt">And the Romans are waiting for their near
-torment</span>*
+*And the Romans are waiting for their near
+torment*
 
-<span style="font-size: 16pt; font-style: italic">They are unbelievers
-and strangers for me</span>
+They are unbelievers
+and strangers for me
 
-*<span style="font-size: 16pt">I will strike them in the meeting</span>*
+*I will strike them in the meeting*
 
 When the fighting became so violent, Jafar broke into on his horse. He
 slaughtered his horse and attacked the enemy. His hands were cut and
@@ -564,31 +564,31 @@ And how great the situation of Abdullah bin Rawaha was when he
 encouraged himself to face an army of two hundred thousand soldiers! He
 recited:
 
-*<span style="font-size: 16pt">O my soul, if you are not killed, you
-will die</span>*
+*O my soul, if you are not killed, you
+will die*
 
-*<span style="font-size: 16pt">This is the death you are in now</span>*
+*This is the death you are in now*
 
-*<span style="font-size: 16pt">Whatever you have wished, you have been
-given</span>*
+*Whatever you have wished, you have been
+given*
 
-*<span style="font-size: 16pt">If you do one of them, you will be guided
-then</span>*
+*If you do one of them, you will be guided
+then*
 
-*<span style="font-size: 16pt">He also recited:</span>*
+*He also recited:*
 
-*<span style="font-size: 16pt">O my soul, I swear that you must submit
-to death</span>*
+*O my soul, I swear that you must submit
+to death*
 
-*<span style="font-size: 16pt">Willingly or you will be forced to
-it</span>*
+*Willingly or you will be forced to
+it*
 
-*<span style="font-size: 16pt">As people have got ready to meet the
-hope</span>*
+*As people have got ready to meet the
+hope*
 
-*<span style="font-size: 16pt">So why you hate Paradise</span>*
+*So why you hate Paradise*
 
-*<span style="font-size: 16pt">How long you have been reassured</span>*
+*How long you have been reassured*
 
 Then he got off his horse. One of his cousins came to him with a piece
 of meat and said: Support yourself with this for you have got much
@@ -1533,11 +1533,11 @@ moaned in a way that all the people began to cry and the meeting shook.
 She waited until they stopped crying and became quiet. She began her
 speech with praising Allah and then her eloquence streamed
 
-*<span style="font-size: 16pt">She preached the people in the best of
-speeches</span>*
+*She preached the people in the best of
+speeches*
 
-*<span style="font-size: 16pt">As if she talked with the tongue of
-al-Mustafa</span>*[1]
+*As if she talked with the tongue of
+al-Mustafa*[1]
 
 The sights submitted and the souls surrendered. If politics was not
 prevailing over the minds at those days, she would turn back the strayed
@@ -2004,38 +2004,38 @@ in their prayers as He has imposed upon them shahada.
 
 Imam ash-Shafiiy said, as mentioned in as-Sawaiqul Muhriqa:
 
-*<span style="font-size: 16pt">O people of the Prophets family,</span>*
+*O people of the Prophets family,*
 
-*<span style="font-size: 16pt">loving you is an obligation imposed by
-Allah in His Qur'an.</span>*
+*loving you is an obligation imposed by
+Allah in His Qur'an.*
 
-*<span style="font-size: 16pt">It suffices you, with your high
-position,</span>*
+*It suffices you, with your high
+position,*
 
-*<span style="font-size: 16pt">that whoever dose not pray for you (in
-his prayer)</span>*
+*that whoever dose not pray for you (in
+his prayer)*
 
-*<span style="font-size: 16pt">his prayer will not be accepted.</span>*
+*his prayer will not be accepted.*
 
 Sheikh ibnul Arabi said, as in as-Sawaiqul Muhriqa:
 
-*<span style="font-size: 16pt">I find my allegiance to the progeny of
-Taha[3] an obligation</span>*
+*I find my allegiance to the progeny of
+Taha[3] an obligation*
 
-*<span style="font-size: 16pt">that, in spite of my farness, will make
-me near to Allah.</span>*
+*that, in spite of my farness, will make
+me near to Allah.*
 
-*<span style="font-size: 16pt">The Beneficent has not asked for a reward
-in return to informing of guidance</span>*
+*The Beneficent has not asked for a reward
+in return to informing of guidance*
 
-*<span style="font-size: 16pt">except to love the relatives (of the
-Prophet (s)).</span>*
+*except to love the relatives (of the
+Prophet (s)).*
 
 Allama an-Nabhani said in his book ash-Sharaf al-Muabbad: O progeny of
 Taha, you are a progeny of the best of the Prophets.
 
-*<span style="font-size: 16pt">Your grandfather is elite and you are
-elite.</span>*
+*Your grandfather is elite and you are
+elite.*
 
 ------------------------------------------------------------------------
 
@@ -2046,8 +2046,8 @@ narrators, the historians and by everyone, who has recorded the events
 of the tenth year of hijra, in which this event has taken place.  
  **[3]** Prophet Muhammad (s).
 
-*<span style="font-size: 16pt">Allah has purified you from uncleanness,
-O you Ahlul Bayt, since long before, so you are the purest.</span>*
+*Allah has purified you from uncleanness,
+O you Ahlul Bayt, since long before, so you are the purest.*
 
 Your grandfather has not asked for reward, when informing the mission,
 save loving and kindness to his relatives.
@@ -3488,19 +3488,19 @@ them. Ibn Khillikan mentioned more details about the matter. He said
 that Mutammim bin Nuwayra, Maliks brother, stood beside Abu Bakr leaning
 on his bow and began reciting his poem:
 
-*<span style="font-size: 16pt">The best one you have killed O you son of
-al-Azwar,</span>*
+*The best one you have killed O you son of
+al-Azwar,*
 
-*<span style="font-size: 16pt">When the wind wept behind the
-houses.</span>*
+*When the wind wept behind the
+houses.*
 
-*<span style="font-size: 16pt">Have you invited him by Allah and then
-you betrayed him?</span>*
+*Have you invited him by Allah and then
+you betrayed him?*
 
-*<span style="font-size: 16pt">If he has invited you with a
-pact,</span>*
+*If he has invited you with a
+pact,*
 
-*<span style="font-size: 16pt">He will never betray you.</span>*
+*He will never betray you.*
 
 He made a sign to Abu Bakr. Abu Bakr said: by Allah, I have neither
 invited him nor have I betrayed him.
@@ -3523,16 +3523,16 @@ people. When the Prophet (s) died, he stopped taking the zakat[2] and he
 spread (the zakat that had been already in his hand) among his
 people.[3] He recited:
 
-*<span style="font-size: 16pt">I said: Take back your monies.</span>*
+*I said: Take back your monies.*
 
-*<span style="font-size: 16pt">I am not afraid nor expecting what
-tomorrow will bring.[4]</span>*
+*I am not afraid nor expecting what
+tomorrow will bring.[4]*
 
-*<span style="font-size: 16pt">If a right one will undertake the
-religion,</span>*
+*If a right one will undertake the
+religion,*
 
-*<span style="font-size: 16pt">We will obey[5] and say: the religion is
-that of Muhammad.</span>*
+*We will obey[5] and say: the religion is
+that of Muhammad.*
 
 ------------------------------------------------------------------------
 

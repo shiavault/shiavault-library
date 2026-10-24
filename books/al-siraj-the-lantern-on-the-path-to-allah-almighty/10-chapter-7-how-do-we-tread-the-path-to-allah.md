@@ -546,4 +546,3 @@ expose himself to being the object of suspicion. The dignity of a
 believer is one of the issues of righteousness with which Allah, the
 most Exalted One, never entrusted His servant.
 
-

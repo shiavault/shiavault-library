@@ -298,4 +298,3 @@ Allah wills.
 
 [^1]: Al-Bihar: v.10.
 
-

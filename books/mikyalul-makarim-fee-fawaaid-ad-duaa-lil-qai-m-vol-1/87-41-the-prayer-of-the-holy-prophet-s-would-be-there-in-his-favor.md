@@ -17,4 +17,3 @@ mentioned in the coming pages, *Insha Allah Taala*.
 
 [^1]: Ihtijaaj; Vol. 1, Pg. 88
 
-

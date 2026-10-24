@@ -7,11 +7,7 @@ Virtues And Vices
 propensity for vices.
 
 > 1ـ أكْرِهْ نَفْسَكَ عَلَى الفَضائِلِ، فَإنَّ الرَّذائِلَ أنْتَ
-<blockquote dir="rtl">
-  <p>
-مَطْبُوعٌ عَلَيْها.
-  </p>
-</blockquote>
+> مَطْبُوعٌ عَلَيْها.
 
 2. Ascending towards virtues is a hardship that saves.
 
@@ -27,12 +23,8 @@ are unsure about, fulfil that which is obligatory and perform the acts
 that are recommended, then you have perfected the virtues of faith.
 
 > 4ـ إذَا اتَّقَيْتَ المُحَرماتِ، وتَوَرَّعْتَ عَنِ الشُّبَهاتِ
-<blockquote dir="rtl">
-  <p>
-وأدَّيْتَ المَفْرُوضاتِ، وَتَنَفَّلْتَ بِالنَّوافِلِ فَقَدْ أكْمَلْتَ
-فِي الدِّينِ اَلفَضائِلَ.
-  </p>
-</blockquote>
+> وأدَّيْتَ المَفْرُوضاتِ، وَتَنَفَّلْتَ بِالنَّوافِلِ فَقَدْ أكْمَلْتَ
+> فِي الدِّينِ اَلفَضائِلَ.
 
 5. The peak of [all] merits is controlling anger and eradicating lustful
 desires.
@@ -64,11 +56,7 @@ character.
 not through excessive wealth and eminent feats.
 
 > 11ـ اَلفَضِيلَةُ بِحُسْنِ الكَمالِ، وَمَكارِمِ الأفْعالِ، لابِكَثْرَةِ
-<blockquote dir="rtl">
-  <p>
-المالِ وجَلالَةِ الأعْمالِ.
-  </p>
-</blockquote>
+> المالِ وجَلالَةِ الأعْمالِ.
 
 12. Virtue is overcoming [one’s bad] habit.
 
@@ -87,11 +75,7 @@ lineage].
 desires has acquired virtue.
 
 > 15ـ فازَ بِالفَضيلَةِ مَنْ غَلَبَ غَضَبَهُ، وَمَلَكَ نَوازِعَ
-<blockquote dir="rtl">
-  <p>
-شَهْوَتِهِ.
-  </p>
-</blockquote>
+> شَهْوَتِهِ.
 
 16. It suffices as a merit for a man to humble himself.
 
@@ -105,21 +89,13 @@ desires has acquired virtue.
 benefit through his intellect and benefits others by his speech.
 
 > 18ـ لِلإنْسانِ فَضيلَتانِ: عَقْلٌ، ومَنْطِقٌ، فَبِالعَقْلِ يَسْتَفيدُ،
-<blockquote dir="rtl">
-  <p>
-وبِالمَنْطِقِ يُفيدُ.
-  </p>
-</blockquote>
+> وبِالمَنْطِقِ يُفيدُ.
 
 19. Lineage is not defined by the fathers and mothers, rather [it is
 defined] by the praiseworthy merits.
 
 > 19ـ لَيْسَتِ الأنْسابُ بِالآباءِ والأُمَّهاتِ لكِنَّها بِالفَضائِلِ
-<blockquote dir="rtl">
-  <p>
-المَحْمُوداتِ.
-  </p>
-</blockquote>
+> المَحْمُوداتِ.
 
 20. One whose merits are few, his means are weak.
 
@@ -138,11 +114,7 @@ forbearing with under obligation.
 virtues.
 
 > 23 ـ مِنْ أفْضَلِ الفَضائِلِ اِصْطِناعُ الصَّنايِـعِ، وَبَثُّ
-<blockquote dir="rtl">
-  <p>
-المَعْـرُوفِ.
-  </p>
-</blockquote>
+> المَعْـرُوفِ.
 
 24. Through the gaining of merits the enemy is subdued.
 
@@ -152,21 +124,13 @@ virtues.
 being kind to the people of virtue.
 
 > 25ـ جِماعُ الفَضْلِ فِي اصْطِناعِ الحُرِّ، والإحْسانِ إلى أهْلِ
-<blockquote dir="rtl">
-  <p>
-الخَيْرِ.
-  </p>
-</blockquote>
+> الخَيْرِ.
 
 26. Safeguarding the tongue and doing good to others are from the best
 merits of a human being.
 
 > 26ـ حِفْظُ اللِّسانِ وبَذْلُ الإحْسانِ مِنْ أفْضَلِ فَضائِلِ
-<blockquote dir="rtl">
-  <p>
-الإنْسانِ.
-  </p>
-</blockquote>
+> الإنْسانِ.
 
 27. Become distinguished by virtues and renounce vices.
 
@@ -176,22 +140,14 @@ merits of a human being.
 of the seeker and being moderate in what one seeks.
 
 > 28ـ أفْضَلُ الفَضائِلِ بَذْلُ الرَّغائِبِ، وإسْعافُ الطَّالِبِ
-<blockquote dir="rtl">
-  <p>
-والإجْمالُ فِي المَطالِبِ.
-  </p>
-</blockquote>
+> والإجْمالُ فِي المَطالِبِ.
 
 29. The best of virtues is establishing ties with the one who has
 distanced himself, being cordial with the one who is averse, and holding
 the hand of the one who stumbles.
 
 > 29ـ أفْضَلُ الفَضائِلِ صِلَةُ الهاجِرِ، وإيناسُ النّافِرِ، والأخْذُ
-<blockquote dir="rtl">
-  <p>
-بِيَدِ العاثِرِ.
-  </p>
-</blockquote>
+> بِيَدِ العاثِرِ.
 
 30. Verily only the virtuous know the merit of the people of virtue.
 
@@ -201,5 +157,4 @@ the hand of the one who stumbles.
 open-handedness.
 
 > 31ـ يُسْتَدَلُّ عَلى فَضْلِكَ بِعَمَلِكَ، وَعَلى كَرَمِكَ بِبَذْلِكَ.
-
 

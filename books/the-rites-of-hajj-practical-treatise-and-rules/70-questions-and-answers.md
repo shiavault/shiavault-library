@@ -71,4 +71,3 @@ fatwa, can these people act according to your fatwa in this issue?
 first journey, and if it is not their first journey, then they can act
 according to Fatwas of those great scholars.
 
-

@@ -39,4 +39,3 @@ his claim.
 [^1]: Another possible translation as mentioned by ‘Allāma Khwānsari (r)
 is: From opposition (to vain desires) loftiness is achieved.
 
-

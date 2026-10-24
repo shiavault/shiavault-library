@@ -83,4 +83,3 @@ trusties of Allah in His lawful and unlawful things. ..."
 
 Tuhaful-'Uqul, p.172
 
-

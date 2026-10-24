@@ -44,7 +44,6 @@ You have accepted Your servant. Accept my prayer, and grant me Your
 blessings and mercy. Accept me, for I have forsaken all disobedience to
 You.
 
-
 **Objectives and Benefits**
 
 "And proclaim among people the Pilgrimage; they will come to you on
@@ -161,7 +160,6 @@ fulfillment of man's social interests.
 
 [ 17 ]
 
-
 **Some Useful Terms**
 
 Wajib (واجب ) - obligatory, necessary, incumbent. An act which must be
@@ -207,7 +205,6 @@ circumambulation.
 7. The door of Ka'ba.
 
 [ 18 ]
-
 
 **Conditions Under Which Hajj Becons Compulsory**
 
@@ -502,5 +499,4 @@ to show off, a person's umrah will be invalid unless it is repeated.
 After the cutting of a piece of hair or nail, everything which was
 forbidden for the pilgrim will be lawful except for hunting and cutting
 (unearthing) trees, plants or grass that grows in the sacred area.
-
 

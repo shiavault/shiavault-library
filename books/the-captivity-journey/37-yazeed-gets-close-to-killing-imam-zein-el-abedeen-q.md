@@ -46,4 +46,3 @@ brother, while these people advised you to kill us".
 
 Then Yazeed kept quiet.
 
-

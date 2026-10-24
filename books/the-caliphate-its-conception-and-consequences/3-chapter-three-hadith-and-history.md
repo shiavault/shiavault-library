@@ -875,4 +875,3 @@ found any statement showing that the Prophet (P) designated Imam Ali as
 his successor.
 16. This omission must, therefore, be entirely ignored.
 
-

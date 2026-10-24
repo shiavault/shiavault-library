@@ -51,4 +51,3 @@ A: This is permissible. Allah (s.w.t.) says: "...and seek means of
 nearness to Him..." (Qur'an, 5:35) and they (a.s.) are your means of
 approach to Allah (s.w.t.). This is permissible. (FM, p. 421)
 
-

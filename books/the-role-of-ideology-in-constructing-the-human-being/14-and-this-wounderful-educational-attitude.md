@@ -70,7 +70,6 @@ go astray at all, the Book of Allah, a tough rope stretched out from
 Heaven to earth and my house hold Ahlilbait surely they wouldn’t leave
 each other till they reach me at the end (the Day of Judgement) [^41]
 
-
 **Summary**
 
 The Islamic ideology is the central foundation of the Islamic thinking,
@@ -303,5 +302,4 @@ Dar Ehyaalturaath alarabi pub: 1st, , 1328 H.
 
 [^41] Behaar el anwaar 23: 106 and kenzel aumaal 1: 172, the Hadeth has
 many other ways from both sides.
-
 

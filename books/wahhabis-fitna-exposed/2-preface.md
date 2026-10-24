@@ -80,4 +80,3 @@ Bihaqqi Muhammadin wa ‘alihi ‘t-tahireen.
 
 [^1]: Qur’an, 12:86
 
-

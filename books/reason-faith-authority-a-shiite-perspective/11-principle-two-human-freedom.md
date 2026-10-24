@@ -9,4 +9,3 @@ therefore needs to be served or obeyed. In a well known hadith, Imam Ali
 
 *“Do not be a servant of other people. God has created you free.”*
 
-

@@ -95,4 +95,3 @@ As in bathing a deceased person, it is wajib that the person dressing
 the deceased in the Kafan, must get the permission of the heir of the
 deceased.
 
-

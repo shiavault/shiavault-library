@@ -298,4 +298,3 @@ not so for the Muslims); and he was allowed to keep fast continuously
 for two or more days without breaking the fast at night (while it is
 haram for his ummah).
 
-

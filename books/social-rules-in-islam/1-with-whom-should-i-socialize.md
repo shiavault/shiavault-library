@@ -12,11 +12,7 @@ friendship?
 Many narrations confirm that every person is attracted to one like
 himself
 
-<blockquote dir="rtl">
-  <p>
-کل امرء یمیل الی مثله
-  </p>
-</blockquote>
+> کل امرء یمیل الی مثله
 
 or every bird nests with its type.
 
@@ -92,5 +88,4 @@ with you as a friend, he is your mate otherwise not.” [^5]
 [^4]: Nahjul Balaghah, sermon 31
 
 [^5]: Tuhaf al-Uqool , 357
-
 

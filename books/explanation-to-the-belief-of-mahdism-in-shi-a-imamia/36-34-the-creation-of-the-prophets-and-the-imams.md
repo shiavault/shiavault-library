@@ -31,4 +31,3 @@ Islamic principle and belief, the extra ordinary type of creation of the
 Imams cannot be wired of taking into consideration the miracle in the
 birth of Jesus Bin Maryam.
 
-

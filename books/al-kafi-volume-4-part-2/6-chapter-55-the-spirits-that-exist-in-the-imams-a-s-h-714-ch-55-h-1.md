@@ -77,7 +77,6 @@ trifle or maintain false hopes. The other four spirits sleep, become
 unaware, may maintain false hope or trifle. With the Holy Spirit things
 are seen."
 
-
 **Chapter 56 : The Spirit with which the Imams (a.s.) are Protected H
 717, Ch. 56, h 1**
 
@@ -174,5 +173,4 @@ certainly support (the believers), so pagans do not (seek) to hasten it.
 Allah is far Glorious and Exalted than to be considered equal to idols."
 (16:1) He sends the angels with the Spirit. The Spirit is (a creature)
 other than the angels (a.s.)."
-
 

@@ -59,4 +59,3 @@ Darul- Qur’anul-Kareem
  Ali al-Kurani al-Aamili  
  23/5/1417 A.H.
 
-

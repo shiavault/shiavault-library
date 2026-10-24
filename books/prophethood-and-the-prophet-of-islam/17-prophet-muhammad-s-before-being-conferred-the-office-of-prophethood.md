@@ -155,11 +155,7 @@ Quran has also absolutely negated deviation and infidelity for the Holy
 Prophet (S) even before he was vested with the office of prophethood. It
 even says:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَى‏ / مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى‏
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَى‏ / مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى‏
 
 ***“I swear by the star when it goes down. Your companion does not err,
 nor does he go astray…” (53:1-2)***
@@ -275,12 +271,8 @@ Allamah Majlisi has written with regard to this:
 It is narrated that some companions of Imam Muhammad Baqir (a.s.) asked
 him about the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ ارْتَضَى‏ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً
-  </p>
-</blockquote>
+> إِلَّا مَنِ ارْتَضَى‏ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً
 
 ***“Except to him whom He chooses as an apostle; for surely He makes a
 guard to march before him and after him.” (72:27)***
@@ -329,5 +321,4 @@ searched, he could not find anything.[^17]
 [^16]: Nahjul Balagha, Sermon 194.
 
 [^17]: Biharul Anwar, Vol. 15, Pg. 361.
-
 

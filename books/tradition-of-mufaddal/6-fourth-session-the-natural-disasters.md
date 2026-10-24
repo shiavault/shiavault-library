@@ -612,4 +612,3 @@ inclined to speak to you thereof."
 I returned from the Imam (as) with a gift as no one else had ever
 received.
 
-

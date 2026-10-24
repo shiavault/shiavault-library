@@ -4,7 +4,7 @@ Does the Prophet Also Seek Counsel?
 **Question:** When the Holy Prophet (a.s.) was in contact with the
 Almighty Allah, why did he need to seek counsel from his companions in
 martial and social affairs? The Almighty Allah has commanded to him in
-the 38<sup>th</sup> verse of Surah Shura that in this matter it is
+the 38th verse of Surah Shura that in this matter it is
 necessary for him to seek advice and counsel. When he was the most wise
 and knowledgeable of all, why did the Almighty command him to seek
 counsel?

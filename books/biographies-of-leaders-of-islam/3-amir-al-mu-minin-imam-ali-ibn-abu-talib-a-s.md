@@ -603,4 +603,3 @@ courage and wisdom, the man who brought back to the world the pattern of
 simple and sublime Islamic life which prevailed during the days of his
 cousin, the holy Prophet of Islam (P.B.U.H.).
 
-

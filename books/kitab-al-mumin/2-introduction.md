@@ -23,12 +23,8 @@ tormented, killed, burnt and expelled from their homes but still have
 not ceased holding on to their (Ahl al‑Bayt's) rope. They are those
 concerning whom Imam al‑Sadiq [a.s][^1] commented:
 
-<blockquote dir="rtl">
-  <p>
-نحنُ نصبر وشيعتُنا أصبرُ منّا؛ وذلك أنّا صبرنا على ما نعلمُ، وصَبروا
-هُم على ما لا يعلمون.
-  </p>
-</blockquote>
+> نحنُ نصبر وشيعتُنا أصبرُ منّا؛ وذلك أنّا صبرنا على ما نعلمُ، وصَبروا
+> هُم على ما لا يعلمون.
 
 “We are patient but our Shi'ah are even more patient than us; and that
 is because we bear patience over what we know whilst they bear patience
@@ -70,13 +66,9 @@ remembrance of their Lord.
 These are they whom Amir al-Mu'minin (the Commander of the Faithful,
 namely Imam 'Ali ibn Abi Talib [a.s]) described with the words:
 
-<blockquote dir="rtl">
-  <p>
-مُره العُيون من البكاءِ، خمصُ البطون من الصّيام، صُفرُ الألوانِ من
-السّهر؛ على وُجوههِم غَبرةُ الخاشِعين، اولئِك إخواني الذّاهِبون، فحقَّ
-لنا أن نظمأَ إليهم ونعضَّ الأيدي على فراقِهم.
-  </p>
-</blockquote>
+> مُره العُيون من البكاءِ، خمصُ البطون من الصّيام، صُفرُ الألوانِ من
+> السّهر؛ على وُجوههِم غَبرةُ الخاشِعين، اولئِك إخواني الذّاهِبون، فحقَّ
+> لنا أن نظمأَ إليهم ونعضَّ الأيدي على فراقِهم.
 
 “Their eyes are swollen due to weeping; their stomachs are hollow due to
 fasting; their colour is pale because of wakefulness; on their faces are
@@ -114,5 +106,4 @@ When used for others, it only refers to that person.
 
 [^2]: Al-Qummi, Ali ibn Ibrahim: al-Tafsir 489 [19], and Al-Majlisi:
 Bihar al-Anwar 71/84 [27].
-
 

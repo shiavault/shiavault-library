@@ -159,4 +159,3 @@ rite, a ritual, which activates the 'living artist' or individual to
 become 'Husayn ('a)-like' for 'being Husayn ('a)' as Ali Shariati
 presents him belongs to Husayn ('a) alone.
 
-

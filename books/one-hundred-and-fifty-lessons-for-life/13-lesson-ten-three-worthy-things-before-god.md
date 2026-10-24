@@ -3,13 +3,9 @@ Lesson Ten: Three Worthy Things Before God
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-"ثَلثُ تَخْرُقُ الْحُجُبَ وَ تَنْتَهِىْ إلَى مَا بَيْنَ يَدَي اللّهِ:
-صَرِيْرُ أَقْلامِ الْعُلَمَاءِ، وَ وَطْىُ أَقْدامِ الُْمجَاهِديْنَ، وَ
-صَوْتُ مَغازِلِ الُْمحْصَناتِ"
-  </p>
-</blockquote>
+> "ثَلثُ تَخْرُقُ الْحُجُبَ وَ تَنْتَهِىْ إلَى مَا بَيْنَ يَدَي اللّهِ:
+> صَرِيْرُ أَقْلامِ الْعُلَمَاءِ، وَ وَطْىُ أَقْدامِ الُْمجَاهِديْنَ، وَ
+> صَوْتُ مَغازِلِ الُْمحْصَناتِ"
 
 Translation
 -----------
@@ -38,5 +34,4 @@ And actually, these three things, knowledge, holy war, and work
 constitute the foundation of an honorable human community.
 
 [^1]: from the book “Ashahab fil Hikam wal Adab”, page 22
-
 

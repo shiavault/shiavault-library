@@ -27,12 +27,8 @@ In the Du’a of ‘Ahd (The Supplication of the Pact to the Imam)[^1] which
 has been narrated by Imam Ja’far b. Muhammad as-Sadiq (as), we pray the
 following:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ أَرِنِي الطَّلْعَةَ الرَّشِيدَةَ وَ الْغُرَّةَ
-الْـحَمِيدَةَ وَاكْحُلْ نَاظِرِي بِنَظْرَةٍ مِنِّي إِلَيْهِ...
-  </p>
-</blockquote>
+> أَللّٰهُمَّ أَرِنِي الطَّلْعَةَ الرَّشِيدَةَ وَ الْغُرَّةَ
+> الْـحَمِيدَةَ وَاكْحُلْ نَاظِرِي بِنَظْرَةٍ مِنِّي إِلَيْهِ...
 
 “O’Allah! Show me the appearance of the one who is rightly guided and
 the finest of those deserving praise; and beautify my sight with the
@@ -40,25 +36,17 @@ ability to look upon him...”[^2]
 
 Later on in this same supplication we appeal to Allah  and say:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ إِنِّي أَسْئَلُكَ أَنْ تُرِيَنِي وَلِيَّ أَمْرِكَ ظَاهِراً
-نَافِذَ الأَمْرِ...
-  </p>
-</blockquote>
+> أَللّٰهُمَّ إِنِّي أَسْئَلُكَ أَنْ تُرِيَنِي وَلِيَّ أَمْرِكَ ظَاهِراً
+> نَافِذَ الأَمْرِ...
 
 “O Allah I ask that you show me the authority of your affairs manifestly
 as he carries out your orders...”[^3]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا تَـمَنَّـى أَحَدُكُمُ الْقَائِمَ فَلْيَتَمَنَّهُ فِي عَافِيَةٍ
-فَإِنَّ اللٌّهَ بَعَثَ مُحَمَّداً رَحْمَةً وَ يَبْعَثُ الْقَائِمَ
-نَقِمَةً
-  </p>
-</blockquote>
+> إِذَا تَـمَنَّـى أَحَدُكُمُ الْقَائِمَ فَلْيَتَمَنَّهُ فِي عَافِيَةٍ
+> فَإِنَّ اللٌّهَ بَعَثَ مُحَمَّداً رَحْمَةً وَ يَبْعَثُ الْقَائِمَ
+> نَقِمَةً
 
 “Anytime one of you has the desire (to see) al-Qa\`im (ajtf), then you
 should desire that (you see him while) you are in a good (spiritual)
@@ -67,33 +55,21 @@ al-Qa\`im (ajtf) as an avenger.”[^4]
 
 In addition, it has been mentioned in Du’a al-Nudbah[^5]:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَرِهِ سَيِدَّهُ يَا شَدِيدَ الْقُوىٰ...
-  </p>
-</blockquote>
+> وَ أَرِهِ سَيِدَّهُ يَا شَدِيدَ الْقُوىٰ...
 
 “And allow him (Imam al-Mahdi) to see his Master, O’ the
 Almighty...”[^6]
 
 In another supplication[^7], it has been mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْنَا مِمَّنْ تَقَرُّ عَيْنُهُ بِرُؤْيِتَهِ
-  </p>
-</blockquote>
+> وَاجْعَلْنَا مِمَّنْ تَقَرُّ عَيْنُهُ بِرُؤْيِتَهِ
 
 “And make us of those whose eyes are delighted by seeing.”[^8]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَ سُورَةَ بَنِـي إِسْرَائِيلَ فِي كُلِّ لَيْلَةِ جُمْعَةٍ
-لَمْ يَمُتْ حَـتَّى يُدْرِكَ الْقَائِمَ فَيَكُونَ مِنْ أَصْحَابِهِ
-  </p>
-</blockquote>
+> مَنْ قَرَأَ سُورَةَ بَنِـي إِسْرَائِيلَ فِي كُلِّ لَيْلَةِ جُمْعَةٍ
+> لَمْ يَمُتْ حَـتَّى يُدْرِكَ الْقَائِمَ فَيَكُونَ مِنْ أَصْحَابِهِ
 
 “A person who recites Surah Bani Isra\`il (17) every Thursday night will
 not die until he sees al-Qa\`im (ajtf) and becomes one of his
@@ -101,13 +77,9 @@ companions.”[^9]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَ بَعْدَ كُلِّ فَرِيضَةٍ هٌذَا الدُّعَاءَ فَإِنَّهُ يَرى
-الإِمَامَ م ح م د بْنِ الْحَسَنِ عَلَيْهِ وَ عَلـى أَبَائِهِ
-أَلسَّلاَمُ فِي الْيَقْظَةِ أَوْ فِي الْـمَنَامِ
-  </p>
-</blockquote>
+> مَنْ قَرَأَ بَعْدَ كُلِّ فَرِيضَةٍ هٌذَا الدُّعَاءَ فَإِنَّهُ يَرى
+> الإِمَامَ م ح م د بْنِ الْحَسَنِ عَلَيْهِ وَ عَلـى أَبَائِهِ
+> أَلسَّلاَمُ فِي الْيَقْظَةِ أَوْ فِي الْـمَنَامِ
 
 “A person who recites the following supplication after every obligatory
 Salat will definitely see Imam (م ح م د) Ibn al-Hasan, may peace be upon
@@ -116,12 +88,8 @@ dreams.”[^10]
 
 Then the Imam recited the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ. أَللّٰهُمَّ بَلِّغْ مَوْلاَنَا
-صَاحِبَ الزَّمَانِ أَيْنَمَا كَانَ وَ حَيْثُمَا كَانَ...
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ. أَللّٰهُمَّ بَلِّغْ مَوْلاَنَا
+> صَاحِبَ الزَّمَانِ أَيْنَمَا كَانَ وَ حَيْثُمَا كَانَ...
 
 “In the Name of Allah, the Most Gracious, the Most Merciful. O’ Allah!
 Convey to our Master, Sahib al-Zaman (ajtf), wherever he is and
@@ -152,5 +120,4 @@ pg. 334; Biharul Anwar, vol. 102
 [^9]: Biharul Anwar, vol. 86, pg. 61, sec. 38, no. 69
 
 [^10]: Ibid.
-
 

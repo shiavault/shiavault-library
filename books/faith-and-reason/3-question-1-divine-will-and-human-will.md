@@ -438,4 +438,3 @@ Also see: Surat al-Zumar (39), Verse 51:  فَأَصَابَهُمْ سَيّ
 has delegated His authority to the human being in the realm of his
 volitional actions and so He does not take part in human actions. (Tr.)
 
-

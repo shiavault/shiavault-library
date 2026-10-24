@@ -106,4 +106,3 @@ who shall be there in the last period of time. There will be no prophet
 among them and Divine Proof will be hidden from them inspite of that
 they will believe in black upon white (writings/books).”
 
-

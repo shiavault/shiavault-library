@@ -51,4 +51,3 @@ different features of both Arabic and English literature. ***Virtue
 Prevails*** is the third book of the martyr's works to be published by
 our foundation.
 
-

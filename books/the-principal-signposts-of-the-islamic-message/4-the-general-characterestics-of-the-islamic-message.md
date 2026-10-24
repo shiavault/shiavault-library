@@ -741,4 +741,3 @@ Therefore, Islam attaches great importance and care to the cultivation
 of good intentions and directs man toward them, so as to tie him to
 Allah the Exalted and to serve Him alone.
 
-

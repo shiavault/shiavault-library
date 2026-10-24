@@ -64,4 +64,3 @@ Blind is the eye that does not see You . . . . .”
 loose he who found You? Truly he has failed who is contended with other
 than You
 
-

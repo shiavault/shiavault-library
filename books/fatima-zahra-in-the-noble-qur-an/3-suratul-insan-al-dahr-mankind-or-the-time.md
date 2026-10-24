@@ -56,11 +56,7 @@ In addition, it is well-known among the scholars of the Ahlus Sunnah
 that the revelation of these verses was in Medina, just as al-Qurtubi
 has mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ الْجَمْهُورُ مَدِينَةَ.
-  </p>
-</blockquote>
+> وَ قَالَ الْجَمْهُورُ مَدِينَةَ.
 
 The well-known opinion of the scholars (is that it was revealed in)
 Medina.[^1]
@@ -112,17 +108,9 @@ This opinion is so well known and acknowledged by the scholars that
 Muhammad b. Idris al-Shafi, one of the four Imams of the Ahlus Sunnah,
 composed the following (well-known) poem:
 
-<blockquote dir="rtl">
-  <p>
-الى م الى م و حتى متى أعاتب فى حب هذا الفتى!
-  </p>
-</blockquote>
+> الى م الى م و حتى متى أعاتب فى حب هذا الفتى!
 
-<blockquote dir="rtl">
-  <p>
-و هل زوجت فاطم غيره ؟ و فى غيره هل اتى هل اتى ؟!
-  </p>
-</blockquote>
+> و هل زوجت فاطم غيره ؟ و فى غيره هل اتى هل اتى ؟!
 
 Till when, till when, and until what time?
 
@@ -159,12 +147,8 @@ Merits of Recitation of Suratul Insan
 
 It has been narrated from the Noble Prophet that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَ سُوْرَةُ  هَلْ أَتَى كَانَ جَزَاؤُهُ عَلى اللهِ جَنَّةً
-وَ حَرِيراً.
-  </p>
-</blockquote>
+> مَنْ قَرَأَ سُوْرَةُ  هَلْ أَتَى كَانَ جَزَاؤُهُ عَلى اللهِ جَنَّةً
+> وَ حَرِيراً.
 
 A person who recites chapter “Hal Ata”, his reward with Allah will be
 paradise and garments of silk.[^11]
@@ -179,15 +163,11 @@ Section One: Verses 1 to 4
 
 **In the Name of Allah, the All-Beneficent, the All-Merciful**
 
-<blockquote dir="rtl">
-  <p>
-“ هَلْ أَتَى عَلىٰ الإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ
-شَيْئاً مَذْكُوراً ۞ إِنَّا خَلَقْنَا الإِنْسَانَ مِنْ نُطْفَةٍ
-أَمْشَاجٍ نَبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعاً بَصِيراً ۞ إِنَّــا
-هَدَيْـنَاهُ السَّبِيلَ إِمَّا شَاكِراً وَإِمَّا كَفُوراً ۞ إِنَّا
-أَعْــتَدْنَا لِلْكَافِرِينَ سَلاَسِلاً وَأَغْلاَلاً وَسَعِيـراً “
-  </p>
-</blockquote>
+> “ هَلْ أَتَى عَلىٰ الإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ
+> شَيْئاً مَذْكُوراً ۞ إِنَّا خَلَقْنَا الإِنْسَانَ مِنْ نُطْفَةٍ
+> أَمْشَاجٍ نَبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعاً بَصِيراً ۞ إِنَّــا
+> هَدَيْـنَاهُ السَّبِيلَ إِمَّا شَاكِراً وَإِمَّا كَفُوراً ۞ إِنَّا
+> أَعْــتَدْنَا لِلْكَافِرِينَ سَلاَسِلاً وَأَغْلاَلاً وَسَعِيـراً “
 
 ***“Has there not come over the human being a period of time when he was
 a thing not worth mentioning?*** ****** ***Surely We have created the
@@ -232,11 +212,7 @@ meaning to exist given that these two verses come one after another.
 
 In regards to the exegesis of the sentence
 
-<blockquote dir="rtl">
-  <p>
-‘لـَمْ يَكُنْ شَيْئاً مَذْكُوراً’ –
-  </p>
-</blockquote>
+> ‘لـَمْ يَكُنْ شَيْئاً مَذْكُوراً’ –
 
 ***‘he was not even a thing worth mentioning’,*** numerous opinions are
 cited.
@@ -515,18 +491,14 @@ breathe.[^19]
 Section Two: Verses 5 to 11
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ إِنَّ الأَبْرَارَ يَشْرَبُونَ مِنْ كَأْسٍ كَانَ مِزَاجُهَا كَافُوراً
-۞ عَيْناً يَشْرَبُ بِهَا عِبَادُ اللهِ يُفَـجِّرُونَهَا تَفْجِيراً ۞
-يُوفُـونَ بِالنَّذْرِ وَيَخَافُونَ يَوْماً كَانَ شَرُّهُ
-مُسْـتَطِيـراً ۞ وَيُطْعِمُونَ الطَّعَامَ عَلىٰ حُبِّهِ مِسْكِيناً
-وَيَتِيماً وَأَسِيراً ۞ إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللهِ لاَ
-نُرِيدُ مِنْكُمْ جَزَاءً وَلاَ شُكُوراً ۞ إِنَّا نَخَافُ مِنْ رَبِّنَا
-يَوْماً عَبُوساً قَمْطَرِيراً ۞ فَوَقَاهُمُ اللهُ شَرَّ ذٰلِكَ
-الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُوراً “
-  </p>
-</blockquote>
+> “ إِنَّ الأَبْرَارَ يَشْرَبُونَ مِنْ كَأْسٍ كَانَ مِزَاجُهَا كَافُوراً
+> ۞ عَيْناً يَشْرَبُ بِهَا عِبَادُ اللهِ يُفَـجِّرُونَهَا تَفْجِيراً ۞
+> يُوفُـونَ بِالنَّذْرِ وَيَخَافُونَ يَوْماً كَانَ شَرُّهُ
+> مُسْـتَطِيـراً ۞ وَيُطْعِمُونَ الطَّعَامَ عَلىٰ حُبِّهِ مِسْكِيناً
+> وَيَتِيماً وَأَسِيراً ۞ إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللهِ لاَ
+> نُرِيدُ مِنْكُمْ جَزَاءً وَلاَ شُكُوراً ۞ إِنَّا نَخَافُ مِنْ رَبِّنَا
+> يَوْماً عَبُوساً قَمْطَرِيراً ۞ فَوَقَاهُمُ اللهُ شَرَّ ذٰلِكَ
+> الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُوراً “
 
 ***“Surely the righteous shall drink from a cup the admixture of which
 is camphor.*** ****** ***A fountain from which the servants of Allah
@@ -845,12 +817,8 @@ in such a way that wherever they are and (whenever they) wish to drink
 from it, it will be ready for them! In regards to the starting place and
 spring of this drink, Imam Muhammad al-Baqir has stated:
 
-<blockquote dir="rtl">
-  <p>
-هِيَ عَيْنٌ فِي دَارِ النَّبِــيِّ تُفَجِّرُ إِلـٰى دَوْرِ
-الأَنْبِيَاءِ وَ الْمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> هِيَ عَيْنٌ فِي دَارِ النَّبِــيِّ تُفَجِّرُ إِلـٰى دَوْرِ
+> الأَنْبِيَاءِ وَ الْمُؤْمِنِينَ.
 
 This is a spring which runs from the house of the Prophet and goes
 through the houses of all of the other prophets and the true
@@ -943,11 +911,7 @@ to their fasting), they still gave it up for the love of Allah .
 This is the same thing which can be seen in verse 92 of Chapter Ale
 Imran (3) that states:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ}
-  </p>
-</blockquote>
+> لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ}
 
 ***You shall never attain righteousness until you spend out of that
 which you love***.
@@ -1015,12 +979,8 @@ acts of the righteous individuals!
 
 In a tradition from the Messenger of Allah we read that:
 
-<blockquote dir="rtl">
-  <p>
-إِسْتَوْصُوا بِالأَسْرىٰ خَيْراً وَ كَانَ أَحَدُهُمْ يُؤْثِرُ
-أَسِيرَهُ بِطَعَامِهِ.
-  </p>
-</blockquote>
+> إِسْتَوْصُوا بِالأَسْرىٰ خَيْراً وَ كَانَ أَحَدُهُمْ يُؤْثِرُ
+> أَسِيرَهُ بِطَعَامِهِ.
 
 Deal with the prisoners in the best of ways and prefer them (the
 prisoners) over your own selves by even giving them your food.[^31]
@@ -1046,11 +1006,7 @@ an action will have absolutely no spiritual or Divine reward.
 
 In a famous tradition from the Noble Prophet of Islam we read:
 
-<blockquote dir="rtl">
-  <p>
-لاَ عَمَلٌ إِلاَّ بِالنِّيَّةِ وَ إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ.
-  </p>
-</blockquote>
+> لاَ عَمَلٌ إِلاَّ بِالنِّيَّةِ وَ إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ.
 
 There is no action (accepted) except with an intention (attached to it)
 and surely all actions are based on their intentions.
@@ -1060,23 +1016,15 @@ sacred essence of Allah , since Allah does not have a physical face and
 this has also been emphasized in other verses of the Qur’an, such as
 Suratul Baqarah (2), verse 272:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا تُنْفِقُونَ إِلاَّ ابْتِغَاءَ وَجْهُ اللهِ
-  </p>
-</blockquote>
+> وَ مَا تُنْفِقُونَ إِلاَّ ابْتِغَاءَ وَجْهُ اللهِ
 
 …***and you do not spend but to seek Allah‘s pleasure***…
 
 In addition, in Suratul Kahf (18), verse 28, when describing the
 righteous companions of the Prophet we read that:
 
-<blockquote dir="rtl">
-  <p>
-وَ اصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَ
-الْعَشِيِّ يُرِيدُونَ وَجْهَهُ
-  </p>
-</blockquote>
+> وَ اصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَ
+> الْعَشِيِّ يُرِيدُونَ وَجْهَهُ
 
 ***And withhold yourself with those who call on their Lord Morning and
 evening desiring His goodwill…***
@@ -1196,25 +1144,17 @@ we can better understand in the light of the following traditions:
 
 1. The Noble Prophet has stated that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَطْعَمَ ثَلاَثَةَ نَفَرً مِنَ الْمُسْلِمِينَ أَطْعَمَهُ اللهُ
-مِنْ ثَلاَث ِجَنَانِ فِي مَلَكُوتِ السَّمٰوَاتِ.
-  </p>
-</blockquote>
+> مَنْ أَطْعَمَ ثَلاَثَةَ نَفَرً مِنَ الْمُسْلِمِينَ أَطْعَمَهُ اللهُ
+> مِنْ ثَلاَث ِجَنَانِ فِي مَلَكُوتِ السَّمٰوَاتِ.
 
 A person who feeds three Muslims will be fed by Allah from the food of
 three gardens of paradise in the celestial heavens.[^33]
 
 2. Imam Jaʿfar as-Sadiq has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَطْعَمَ مُؤْمِناً حَتَّى يَشْبَعَهُ لَمْ يَدْرِ أَحَدٌ مِنْ
-خَلْقِ اللهِ مَا لَهُ مِنَ الأَجْرِ فِي الآخِرَةِ، لاَ مَلَكٌ
-مُقَرَّبٌ، وَ لاَ نَبِيٌّ مُرْسَلٌ إِلاَّ اللهَ رَبَّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> مَنْ أَطْعَمَ مُؤْمِناً حَتَّى يَشْبَعَهُ لَمْ يَدْرِ أَحَدٌ مِنْ
+> خَلْقِ اللهِ مَا لَهُ مِنَ الأَجْرِ فِي الآخِرَةِ، لاَ مَلَكٌ
+> مُقَرَّبٌ، وَ لاَ نَبِيٌّ مُرْسَلٌ إِلاَّ اللهَ رَبَّ الْعَالَمِينَ.
 
 Not a single person from the creations of Allah can comprehend the
 reward given in the next life to a person who feeds a believer until he
@@ -1223,13 +1163,9 @@ prophets only Allah, the Lord of the Universe.[^34]
 
 3. In another tradition also from Imam Jaʿfar as-Sadiq we read:
 
-<blockquote dir="rtl">
-  <p>
-لَإِنْ أَطْعَمَ مُؤْمِناً مُحْتَاجاً أَحَبَّ إِلَـيَّ مِنْ أَنْ
-أَزُورُهُ، وَ لَإِنْ أَزُورُهُ أَحَبُّ إِلَـيَّ مِنْ أَنْ أَعْتَقَ
-عَشْرَ رِقَابٍ.
-  </p>
-</blockquote>
+> لَإِنْ أَطْعَمَ مُؤْمِناً مُحْتَاجاً أَحَبَّ إِلَـيَّ مِنْ أَنْ
+> أَزُورُهُ، وَ لَإِنْ أَزُورُهُ أَحَبُّ إِلَـيَّ مِنْ أَنْ أَعْتَقَ
+> عَشْرَ رِقَابٍ.
 
 If I was to feed a needy believer, then this would be more beloved to me
 than going to visit him (which also has a great reward), and if I was to
@@ -1253,14 +1189,10 @@ general (even if they are not believers and Muslims) has been considered
 as one of the best actions, as can be seen in a tradition from the Noble
 Prophet of Islam :
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أَفْضَلِ الأَعْمَالِ عِنْدَ اللهِ إِبْرَادُ الْكِبَادِ الْحَارَةٌ
-وَ إِشْبَاعُ الْكِبَادِ الْجَائِعَةٌ وَ الَّذِي نَفْسِ مُحَمَّدٍ
-بِيَدِهِ لاَ يُؤْمِنُ بِي عَبْدٌ يُبِيتُ شَبَعَانِ وَ أَخُوهُ - أَوْ
-قَالَ جَارُهُ - الْمُسْلِمُ جَائِعٌ.
-  </p>
-</blockquote>
+> مِنْ أَفْضَلِ الأَعْمَالِ عِنْدَ اللهِ إِبْرَادُ الْكِبَادِ الْحَارَةٌ
+> وَ إِشْبَاعُ الْكِبَادِ الْجَائِعَةٌ وَ الَّذِي نَفْسِ مُحَمَّدٍ
+> بِيَدِهِ لاَ يُؤْمِنُ بِي عَبْدٌ يُبِيتُ شَبَعَانِ وَ أَخُوهُ - أَوْ
+> قَالَ جَارُهُ - الْمُسْلِمُ جَائِعٌ.
 
 One of the best actions in the sight of Allah is to cool the burning
 livers [help alleviate a person’s difficulties] and feed the hungry
@@ -1277,23 +1209,19 @@ regards too, there are numerous traditions.[^37]
 Section Three: Verses 12 to 22
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ وَجَزَاهُمْ بِـمَا صَبَرُوا جَنَّةً وَحَرِيراً ۞ مُتَّكِئِينَ
-فِــيهَا عَلىٰ الأَرَائِكِ لاَ يَرَوْنَ فِيهَا شَمْساً وَلاَ
-زَمْهَرِيراً ۞ وَدَانِيَةً عَلَيْهِمْ ظِــلاَلُـهَا وَذُلِّلَتْ
-قُطُوفُهَا تَــذْلِيلاً ۞ وَيُطَافُ عَلَيْهِمْ بِـآنِيَةٍ مِنْ
-فِـضَّةٍ وَأَكْـوَابٍ كَانَتْ قَوَارِيرَ ۞ قَـوَارِيرَ مِنْ فِضَّةٍ
-قَدَّرُوهَا تَقْدِيراً ۞ وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا
-زَنْجَبِيلاً ۞ عَيْناً فِيهَا تُسَمَّى سَلْسَبِيلاً ۞ وَيَطُوفُ
-عَلَيْهِمْ وِلْدَانٌ مُخَلَّــدُونَ إِذَا رَأَيْتَهُمْ حَسِبْـتَهُمْ
-لُؤْلُؤاً مَـنْـثُوراً ۞ وَإِذَا رَأَيْتَ ثَــمَّ رَأَيْتَ نَـعِيماً
-وَمُــلْكاً كَبِـيراً ۞ عَالِيَهُمْ ثِـيَابُ سُنْدُسٍ خُضْرٌ
-وَإِسْـتَبْرَقٌ وَحُلُّوا أَسَاوِرَ مِنْ فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ
-شَرَاباً طَهُوراً ۞ إِنَّ هٰذَا كَانَ لَـكُمْ جَزَآءً وَكَانَ
-سَعْـيُكُمْ مَشْكُوراً “
-  </p>
-</blockquote>
+> “ وَجَزَاهُمْ بِـمَا صَبَرُوا جَنَّةً وَحَرِيراً ۞ مُتَّكِئِينَ
+> فِــيهَا عَلىٰ الأَرَائِكِ لاَ يَرَوْنَ فِيهَا شَمْساً وَلاَ
+> زَمْهَرِيراً ۞ وَدَانِيَةً عَلَيْهِمْ ظِــلاَلُـهَا وَذُلِّلَتْ
+> قُطُوفُهَا تَــذْلِيلاً ۞ وَيُطَافُ عَلَيْهِمْ بِـآنِيَةٍ مِنْ
+> فِـضَّةٍ وَأَكْـوَابٍ كَانَتْ قَوَارِيرَ ۞ قَـوَارِيرَ مِنْ فِضَّةٍ
+> قَدَّرُوهَا تَقْدِيراً ۞ وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا
+> زَنْجَبِيلاً ۞ عَيْناً فِيهَا تُسَمَّى سَلْسَبِيلاً ۞ وَيَطُوفُ
+> عَلَيْهِمْ وِلْدَانٌ مُخَلَّــدُونَ إِذَا رَأَيْتَهُمْ حَسِبْـتَهُمْ
+> لُؤْلُؤاً مَـنْـثُوراً ۞ وَإِذَا رَأَيْتَ ثَــمَّ رَأَيْتَ نَـعِيماً
+> وَمُــلْكاً كَبِـيراً ۞ عَالِيَهُمْ ثِـيَابُ سُنْدُسٍ خُضْرٌ
+> وَإِسْـتَبْرَقٌ وَحُلُّوا أَسَاوِرَ مِنْ فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ
+> شَرَاباً طَهُوراً ۞ إِنَّ هٰذَا كَانَ لَـكُمْ جَزَآءً وَكَانَ
+> سَعْـيُكُمْ مَشْكُوراً “
 
 ***“And reward them, because they were patient, with garden and silk,***
 ****** ***Reclining therein on raised couches, they shall find therein
@@ -1345,22 +1273,14 @@ bearing trials and tribulations). In verse 24 of Suratul Rad (13) we
 read that the angels will say the following words to the people of
 paradise:
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ
-  </p>
-</blockquote>
+> سَلاَمٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ
 
 Peace be upon all of you due to the patience which you showed.
 
 In verse 111 of Suratul Muminun (23), it is mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَزَيْـتُهُمُ الْيَوْمَ بِـمَا صَبَرُوا أَنَّـهُمْ هُمُ
-الْفَائِزُونَ
-  </p>
-</blockquote>
+> إِنِّي جَزَيْـتُهُمُ الْيَوْمَ بِـمَا صَبَرُوا أَنَّـهُمْ هُمُ
+> الْفَائِزُونَ
 
 ***Surely I will reward those people on that Day (the Day of Judgment)
 due to the patience which they had and indeed those people will be the
@@ -1395,16 +1315,12 @@ platforms which the inhabitants of paradise will rest upon. The famous
 commentator of the Ahlus Sunnah, al-Alusi, in his tafsir, Ruhul Maani
 has narrated a tradition from Ibne Abbas that:
 
-<blockquote dir="rtl">
-  <p>
-بَيْنَا أَهْلَ الْجَنَّةِ فِي الْجَنَّةِ إِذَا رَأَوْا ضَوْءَا
-كَضَوْءِ الشَّمْسِ، وَ قَدْ أَشْرَقَتِ الْجَنَانُ بِهِ فَيَقُولُ
-أَهْلُ الْجَنَّةِ يَا رِضْوَانَ مَا هٰذَا؟ وَ قَدْ قَالَ رَبَّنَا لاَ
-يَرَوْنَ فِيهَا شَمْساً وَ لاَ زَمْهَرِيراً، فَيَقُولُ لَهُمْ
-رِضْوَانٌ لَيْسَ هٰذَا بِشَمْسٍ، وَ لاَ قَمَرٍ، وَ لٰكِنْ عَلِيٌّ وَ
-فَاطِمَةَ ضَحِكاً، وَ أَشْرَقَتِ الْجَنَانِ مِنْ نُورِ ثَغرَيهِمَا.
-  </p>
-</blockquote>
+> بَيْنَا أَهْلَ الْجَنَّةِ فِي الْجَنَّةِ إِذَا رَأَوْا ضَوْءَا
+> كَضَوْءِ الشَّمْسِ، وَ قَدْ أَشْرَقَتِ الْجَنَانُ بِهِ فَيَقُولُ
+> أَهْلُ الْجَنَّةِ يَا رِضْوَانَ مَا هٰذَا؟ وَ قَدْ قَالَ رَبَّنَا لاَ
+> يَرَوْنَ فِيهَا شَمْساً وَ لاَ زَمْهَرِيراً، فَيَقُولُ لَهُمْ
+> رِضْوَانٌ لَيْسَ هٰذَا بِشَمْسٍ، وَ لاَ قَمَرٍ، وَ لٰكِنْ عَلِيٌّ وَ
+> فَاطِمَةَ ضَحِكاً، وَ أَشْرَقَتِ الْجَنَانِ مِنْ نُورِ ثَغرَيهِمَا.
 
 When the people of paradise will be in paradise, suddenly they will see
 a light which will resemble the light of the sun through which paradise
@@ -1493,12 +1409,8 @@ world!
 
 In a narration from Imam Jafar as-Sadiq it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-يَنْفُذُ الْبَصَرُ فِي فِضَّةِ الْجَنَّةِ كَمَا يَنْفُذُ فِي
-الْزُجَاجِ.
-  </p>
-</blockquote>
+> يَنْفُذُ الْبَصَرُ فِي فِضَّةِ الْجَنَّةِ كَمَا يَنْفُذُ فِي
+> الْزُجَاجِ.
 
 In paradise, a person’s eyes will penetrate through silver just like a
 person’s eyes can see through tumblers made of crystal in this transient
@@ -1650,11 +1562,7 @@ In some verses of the Qurʼan, such as verse 30 of Suratul Kahf (18), we
 are told that the people of paradise will be beautified with bracelets
 of gold:
 
-<blockquote dir="rtl">
-  <p>
-.يُحَلَّونَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ.
-  </p>
-</blockquote>
+> .يُحَلَّونَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ.
 
 …***They will be adorned therein with bracelets of gold…***
 
@@ -1674,11 +1582,7 @@ difference in the style of the bracelets which men and women wear,
 however from verse 53 of Suratul Zukhruf (43) quoting the words of the
 Pharaoh:
 
-<blockquote dir="rtl">
-  <p>
-“ فَلَوْ لاَ أَلْقى عَلَيْهِ أَسْوِرَةٌ مِنْ ذَهَبٍ “
-  </p>
-</blockquote>
+> “ فَلَوْ لاَ أَلْقى عَلَيْهِ أَسْوِرَةٌ مِنْ ذَهَبٍ “
 
 ***Why has he (Moses) not been given bracelets of gold?***
 
@@ -1753,13 +1657,9 @@ contained in this blessing is greater than any other gifts!
 In a tradition from the Messenger of Allah, We can deduce that the
 source of this pure drink is located in paradise:
 
-<blockquote dir="rtl">
-  <p>
-فَـيُـسْقَونَ مِنْهَا شَرْبَةً فَيُطَهِّرُ اللهُ بِهَا قُلُوبُهُمْ
-مِنَ الْحَسَدِ!... وَ ذٰلِكَ قَوْلِ اللهِ عَزَّوَجَلَّ وَ سَقَاهُمْ
-رَبُهُّمْ شَرَاباً طَهُوراً
-  </p>
-</blockquote>
+> فَـيُـسْقَونَ مِنْهَا شَرْبَةً فَيُطَهِّرُ اللهُ بِهَا قُلُوبُهُمْ
+> مِنَ الْحَسَدِ!... وَ ذٰلِكَ قَوْلِ اللهِ عَزَّوَجَلَّ وَ سَقَاهُمْ
+> رَبُهُّمْ شَرَاباً طَهُوراً
 
 So then Allah will give them a drink through which their hearts will be
 purified from jealousy! … And this is the meaning of the words of Allah,
@@ -1806,14 +1706,10 @@ to his house.
 Section Four: Verses 23 to 26
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنْـزِيلاً ۞ فَاصْبِرْ
-لِحُكْمِ رَبِّكَ وَلاَ تُطِعْ مِنْهُمْ آثـِماً أَوْ كَـفُوراً ۞
-وَاذْكُـرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلاً ۞ وَمِنَ اللَّيْلِ
-فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلاً طَوِيلاً
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنْـزِيلاً ۞ فَاصْبِرْ
+> لِحُكْمِ رَبِّكَ وَلاَ تُطِعْ مِنْهُمْ آثـِماً أَوْ كَـفُوراً ۞
+> وَاذْكُـرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلاً ۞ وَمِنَ اللَّيْلِ
+> فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلاً طَوِيلاً
 
 ***“Surely We ourselves have revealed the Qur’an to you revealing (it)
 in portions. Therefore wait patiently for the command of your Lord, and
@@ -2034,17 +1930,13 @@ attain success!
 Section Five: Verses 27 to 31
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ إِنَّ هٰؤُلاَءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ
-يَوْماً ثَقِيلاً ۞ نَحْنُ خَلَقْنَاهُمْ وَشَدَدْنَا أَسْرَهُمْ وَإِذَا
-شِــئْنَا بَدَّلْنَا أَمْثَالَهُمْ تَبْدِيلاً ۞ إِنَّ هٰذِهِ
-تَذْكِرَةٌ فَمَنْ شَآءَ اتَّخَذَ إِلـىٰ رَبِّهِ سَبِيلاً ۞ وَمَا
-تَشَآءُونَ إِلاَّ أَنْ يَشَآءَ اللهُ إِنَّ اللهَ كَانَ عَــلِيمًا
-حَكِيماً ۞ يُدْخِلُ مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمِينَ
-أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا “
-  </p>
-</blockquote>
+> “ إِنَّ هٰؤُلاَءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ
+> يَوْماً ثَقِيلاً ۞ نَحْنُ خَلَقْنَاهُمْ وَشَدَدْنَا أَسْرَهُمْ وَإِذَا
+> شِــئْنَا بَدَّلْنَا أَمْثَالَهُمْ تَبْدِيلاً ۞ إِنَّ هٰذِهِ
+> تَذْكِرَةٌ فَمَنْ شَآءَ اتَّخَذَ إِلـىٰ رَبِّهِ سَبِيلاً ۞ وَمَا
+> تَشَآءُونَ إِلاَّ أَنْ يَشَآءَ اللهُ إِنَّ اللهَ كَانَ عَــلِيمًا
+> حَكِيماً ۞ يُدْخِلُ مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمِينَ
+> أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا “
 
 ***“Surely these people love the transitory world and neglect a grievous
 day before them.*** ****** ***We created them and made firm their make,
@@ -2124,12 +2016,8 @@ even a whisper of true faith within them, then in reality, this is a
 grace and mercy from their Lord! This can be seen in verse 133 of
 Suratul Anʿam (6) where we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ رَبُّكَ الْغَنِيُّ ذُو الْرَحْمَةِ إِنْ يَشَأْ يُذْهِبْكُمْ وَ
-يَسْتَخْلِفُ مِنْ بَعْدِكُمْ مَا يَشَآءُ
-  </p>
-</blockquote>
+> وَ رَبُّكَ الْغَنِيُّ ذُو الْرَحْمَةِ إِنْ يَشَأْ يُذْهِبْكُمْ وَ
+> يَسْتَخْلِفُ مِنْ بَعْدِكُمْ مَا يَشَآءُ
 
 ***And your Lord is the Self-Sufficient, Possessor of Mercy. If He
 wishes, He would remove all of you and bring others in your place.***
@@ -2150,11 +2038,7 @@ making process, make the choice.” In reality, this point merely
 emphasizes what was mentioned in the beginning of this chapter in the
 third verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ أَمَّا شَاكِراً وَ أَمَّا كَفُوراً
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ أَمَّا شَاكِراً وَ أَمَّا كَفُوراً
 
 ***Surely We have shown him the way: he may be thankful or
 unthankful.***
@@ -2201,12 +2085,8 @@ all affairs, they do so by holding onto this verse due to some
 pre-conceived notions they have in regards to this issue. Actually, he
 himself (Fakhr ad-Din al-Razi) has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَ اعْلَمْ أَنَّ هٰذِهِ الأَيَةِ مِنْ جُمْلَةِ الأَيَاتِ الَّتِي
-تَلاَطَمَتْ فِيهَا أَمْوَاجٌ الْجَبْرِ وَ الْقَدْرِ.
-  </p>
-</blockquote>
+> وَ اعْلَمْ أَنَّ هٰذِهِ الأَيَةِ مِنْ جُمْلَةِ الأَيَاتِ الَّتِي
+> تَلاَطَمَتْ فِيهَا أَمْوَاجٌ الْجَبْرِ وَ الْقَدْرِ.
 
 Know that this verse is one of those verses in which the rough waves of
 compulsion and predestination ride![^56]
@@ -2493,5 +2373,4 @@ anything except that Allah (first) decides that thing (before-hand).”
 [^57]: A detailed discussion on the issue of this verse which deals with
 the intention can be seen in vol. 19 of Tafsir Namuna, pp. 461-468
 (under the commentary of verse 37 of Suratul Zumur) of Tafsir Namuna.
-
 

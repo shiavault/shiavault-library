@@ -25,4 +25,3 @@ when the Messenger of Allah, may the blessing of Allah be upon him and
 his progeny affirmed that his ancestors were all chaste and so described
 them, he confirmed that they were believers.
 
-

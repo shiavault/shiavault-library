@@ -4,17 +4,9 @@ Section 1: Judgment Getting Nigh
 Surah Al-’Anbiya’ – Verse 1
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُّعْرِضُونَ
-  </p>
-</blockquote>
+> اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُّعْرِضُونَ
 
 ***1. “Nigh unto mankind has drawn (the day) of their Reckoning, while
 they turn away in heedlessness.”***
@@ -57,27 +49,15 @@ asleep and does not open his eyes even when he is called.
 Surah Al-’Anbiya’ – Verses 2 - 4
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا يَأْتِيهِم مِن ذِكْرٍ مِن رَّبّـِهِم مُّحْدَثٍ إِلاَّ اسْتَمَعُوهُ
-وَهُمْ يَلْعَبُونَ
-  </p>
-</blockquote>
+> مَا يَأْتِيهِم مِن ذِكْرٍ مِن رَّبّـِهِم مُّحْدَثٍ إِلاَّ اسْتَمَعُوهُ
+> وَهُمْ يَلْعَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-لاَهِيَةً قُلُوبُهُمْ وَأَسَرُّوا النَّجْوَي الَّذِينَ ظَلَمُوا هَلْ
-هَذَآ إِلاَّ بَشَرٌ مّـِثْلُكُمْ أَفَتَأْتُونَ السّـِحْرَ وَأَنتُمْ
-تُبْصِرُونَ
-  </p>
-</blockquote>
+> لاَهِيَةً قُلُوبُهُمْ وَأَسَرُّوا النَّجْوَي الَّذِينَ ظَلَمُوا هَلْ
+> هَذَآ إِلاَّ بَشَرٌ مّـِثْلُكُمْ أَفَتَأْتُونَ السّـِحْرَ وَأَنتُمْ
+> تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّـِي يَعْلَمُ الْقَوْلَ فِي السَّمَآءِ وَالاَرْضِ وَهُوَ
-السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> قَالَ رَبّـِي يَعْلَمُ الْقَوْلَ فِي السَّمَآءِ وَالاَرْضِ وَهُوَ
+> السَّمِيعُ الْعَلِيمُ
 
 ***2. “Never comes to them a new reminder from their Lord, but they
 listen to it while they play.”***  
@@ -147,12 +127,8 @@ minds and the decisions that are concealed in the hearts.
 Surah Al-’Anbiya’ – Verse 5
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ قَالُوا أَضْغَاثُ أَحْلاَمٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ
-فَلْيَأْتِنَا بِاَيَةٍ كَمَآ اُرْسِلَ الاَوَّلُونَ
-  </p>
-</blockquote>
+> بَلْ قَالُوا أَضْغَاثُ أَحْلاَمٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ
+> فَلْيَأْتِنَا بِاَيَةٍ كَمَآ اُرْسِلَ الاَوَّلُونَ
 
 ***5. “‘Nay!’, They say: ‘(These are) medleys of dreams! Nay! he has
 forged it! Nay! he is a poet! Let him then bring us a sign like the ones
@@ -215,19 +191,11 @@ styles of the enemy.
 Surah Al-’Anbiya’ – Verses 6 - 7
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَآ ءَامَنَتْ قَبْلَهُم مِن قَرْيَةٍ أَهْلَكْنَاهَآ أَفَهُمْ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> مَآ ءَامَنَتْ قَبْلَهُم مِن قَرْيَةٍ أَهْلَكْنَاهَآ أَفَهُمْ
+> يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا قَبْلَكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
-فَسْاَلُوا أَهْلَ الذّ‌ِكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا قَبْلَكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
+> فَسْاَلُوا أَهْلَ الذّ‌ِكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
 
 ***6. “There did not believe before them any town which We destroyed;
 will these (now) believe?”***  
@@ -280,12 +248,8 @@ The verse continues saying:
 Surah Al-’Anbiya’ – Verse 8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلْنَاهُمْ جَسَداً لاَّ يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا
-خَالِدِينَ
-  </p>
-</blockquote>
+> وَمَا جَعَلْنَاهُمْ جَسَداً لاَّ يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا
+> خَالِدِينَ
 
 ***8. “And We did not make them (such) bodies not eating the food, nor
 were they immortals.”***
@@ -409,12 +373,8 @@ of the Islamic affairs, but he must also be pious and God-fearing.
 Surah Al-’Anbiya’ – Verse 9
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَاَنجَيْنَاهُمْ وَمَن نَّشَآءُ
-وَأَهْلَكْنَا الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَاَنجَيْنَاهُمْ وَمَن نَّشَآءُ
+> وَأَهْلَكْنَا الْمُسْرِفِينَ
 
 ***9. “Then We fulfilled the promise unto them. So We delivered them and
 whomever We would, and We destroyed the extravagant ones.”***
@@ -440,12 +400,8 @@ out the surface of the ground from the dirt of their beings.
 Surah Al-’Anbiya’ – Verse 10
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَاباً فِيهِ ذِكْرُكُمْ أَفَلاَ
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَاباً فِيهِ ذِكْرُكُمْ أَفَلاَ
+> تَعْقِلُونَ
 
 ***10. “We have sent down to you a Book wherein is your Reminder. Have
 you then no sense?”***
@@ -502,5 +458,4 @@ Muhammad-ibn-Musal-Shirazi.
 [^5]: ’Ihghagh-ul-Haghgh, vol. 3, p. 482
 
 [^6]: Ghamus-ul-Muhit
-
 

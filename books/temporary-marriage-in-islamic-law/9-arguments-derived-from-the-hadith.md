@@ -420,4 +420,3 @@ al-Musnad, VI, 436; Muslim, IV, 48.
 [^55]. Abu Ja'far Muhammad b. al-Hasan al Tusi, Shaykh al Ta'ifa, (d.
 460/1068), al-Khilaf, Tehran, 1372/1952-53, 11, 179-80.
 
-

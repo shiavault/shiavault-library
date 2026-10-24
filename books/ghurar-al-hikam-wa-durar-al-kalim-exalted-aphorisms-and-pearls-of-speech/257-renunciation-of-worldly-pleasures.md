@@ -22,11 +22,7 @@ and is the loftiest thing that is observed; it is praised by everyone
 but left [unpractised] by the majority of people.
 
 > 4ـ اَلزُّهْدُ أقَلُّ ما يُوجَدُ، وأجَلُّ ما يُعْهَدُ، ويَمْدَحُهُ
-<blockquote dir="rtl">
-  <p>
-الكُلُّ، ويَتْـرُكُهُ الجُلُّ.
-  </p>
-</blockquote>
+> الكُلُّ، ويَتْـرُكُهُ الجُلُّ.
 
 5. Renounce the pleasures of this world and [divine] mercy will descend
 upon you.
@@ -43,11 +39,7 @@ happy with your place of return [in the Hereafter] and will reform your
 flaws, and do not be negligent, for you are not neglected.
 
 > 7ـ اِزْهَدْ فِي الدُّنيا يُبَصِّرْكَ اللّهُ عُيُوبَها، ولا تَغْفُلْ
-<blockquote dir="rtl">
-  <p>
-فَلَسْتَ بِمَغْفول عَنكَ.
-  </p>
-</blockquote>
+> فَلَسْتَ بِمَغْفول عَنكَ.
 
 8. The best act of worship is renouncing worldly pleasures.
 
@@ -81,11 +73,7 @@ for [knowledge and] intelligence.
 desire for the reign of a just ruler.
 
 > 14ـ إنَّ الزُّهدَ فِي وِلايَةِ الظّالِمِ بِقَدْرِ الرَّغْبَةِ في
-<blockquote dir="rtl">
-  <p>
-وِلايَةِ العادِلِ.
-  </p>
-</blockquote>
+> وِلايَةِ العادِلِ.
 
 15. Verily, renunciation of worldly pleasures means shortening
 aspirations, being grateful for blessings and keeping away from that
@@ -96,14 +84,10 @@ through manifest and clear proofs and books that are open and
 unambiguous.
 
 > 15ـ إنَّ الزَّهادَةَ قَصْرُ الأمَلِ، والشُّكْرُ علَى النِّعَمِ
-<blockquote dir="rtl">
-  <p>
-والوَرَعُ عَنِ المَحارِمِ، فإنْ غَرَبَ ذلِكَ عَنْكُمْ فلا يَغْلِبِ
-الحَرامُ صَبْرَكُمْ، وَلا تَنْسَوا عِنْدَ النِّعَمِ شُكْرَكُمْ، فَقَدْ
-أعْذَرَ اللّهُ سُبْحانَهُ إلَيْكُم بِحُجَج مُسْفِرَة ظاهِرَة، وكُتُب
-بارِزَةِ العُذرِ واضِحَة.
-  </p>
-</blockquote>
+> والوَرَعُ عَنِ المَحارِمِ، فإنْ غَرَبَ ذلِكَ عَنْكُمْ فلا يَغْلِبِ
+> الحَرامُ صَبْرَكُمْ، وَلا تَنْسَوا عِنْدَ النِّعَمِ شُكْرَكُمْ، فَقَدْ
+> أعْذَرَ اللّهُ سُبْحانَهُ إلَيْكُم بِحُجَج مُسْفِرَة ظاهِرَة، وكُتُب
+> بارِزَةِ العُذرِ واضِحَة.
 
 16. Renunciation of worldly pleasures is affluence.
 
@@ -163,21 +147,13 @@ absent until that which is present [and available] perishes.
 evanescent world.
 
 > 29ـ إنْ كُنْتُمْ فِي البَقاءِ راغِبينَ، فَازْهَدُوا في عالَمِ
-<blockquote dir="rtl">
-  <p>
-الفَناءِ.
-  </p>
-</blockquote>
+> الفَناءِ.
 
 30. If you renounce worldly pleasures, you will be free from the
 wretchedness of this world and prosperous in the everlasting abode.
 
 > 30ـ إنْ كُنْتمْ زَهَدْتُمْ خَلَصْتُمْ مِنْ شَقاءِ الدُّنيا، وفُزْتُمْ
-<blockquote dir="rtl">
-  <p>
-بِدارِ البَقاءِ.
-  </p>
-</blockquote>
+> بِدارِ البَقاءِ.
 
 31. Through renunciation of worldly pleasures, wisdom is brought forth.
 
@@ -191,11 +167,7 @@ wretchedness of this world and prosperous in the everlasting abode.
 faith while desire for this world corrupts conviction.
 
 > 33ـ حُسْنُ الزُّهْدِ مِنْ أفْضَلِ الإيمانِ، والرَّغْبَةُ فِي الدُّنيا
-<blockquote dir="rtl">
-  <p>
-تُفْسِدُ الإيقانَ.
-  </p>
-</blockquote>
+> تُفْسِدُ الإيقانَ.
 
 34. The foundation of generosity is renunciation of worldly pleasures.
 
@@ -215,11 +187,7 @@ his certainty about that which is everlasting.
 praiseworthy asceticism.
 
 > 37ـ ظَلَفُ النَّفْسِ عَنْ لَذَّاتِ الدُّنيا هُوَ الزُّهْدُ
-<blockquote dir="rtl">
-  <p>
-المَحْمُودُ.
-  </p>
-</blockquote>
+> المَحْمُودُ.
 
 38. Espouse the renunciation of worldly pleasures, for indeed it helps
 the religion.
@@ -241,11 +209,7 @@ disappears, for indeed neither will it remain for you nor will you
 remain for it.
 
 > 41ـ لِيَكُنْ زُهْدُكَ فيما يَنْفَدُ ويَزُولُ، فَإنَّهُ لا يَبْقى لَكَ
-<blockquote dir="rtl">
-  <p>
-وَلا تَبْقى لَهُ.
-  </p>
-</blockquote>
+> وَلا تَبْقى لَهُ.
 
 42. He who renounces worldly pleasures will never become poor.
 
@@ -281,11 +245,7 @@ his religion.
 avarice and adorn himself with piety.
 
 > 49ـ لايَنْفَعُ زُهْدُ مَنْ لَمْ يَتَخَلَّ عَنِ الطَّمَعِ، ويَتَحَلَّ
-<blockquote dir="rtl">
-  <p>
-بِالوَرَعِ.
-  </p>
-</blockquote>
+> بِالوَرَعِ.
 
 50. Verily the hearts of those who renounce worldly pleasures weep even
 when they laugh, and their sadness intensifies even when they are
@@ -293,12 +253,8 @@ when they laugh, and their sadness intensifies even when they are
 are [apparently] delighted with what they are given.
 
 > 50ـ إنَّ الزّاهِدينَ فِي الدُّنيا لَتَبْكي قُلُوبُهُمْ وإنْ ضَحِكُوا،
-<blockquote dir="rtl">
-  <p>
-ويَشْتَدُّ حُزْنُهمْ وإنْ فَرِحُوا، ويَكْثُرُ مَقْتُهُمْ أنْفُسَهُمْ
-وإنِ اغْتُبِطُوا بِما أُوتُوا.
-  </p>
-</blockquote>
+> ويَشْتَدُّ حُزْنُهمْ وإنْ فَرِحُوا، ويَكْثُرُ مَقْتُهُمْ أنْفُسَهُمْ
+> وإنِ اغْتُبِطُوا بِما أُوتُوا.
 
 51. When the one who renounces worldly pleasures flees from the people,
 seek him out.
@@ -322,23 +278,15 @@ outer garment, and have subscribed themselves to the ways of the
 Messiah, Isa son of Maryam (‘a).
 
 > 54ـ طُوبى لِلزّاهِدينَ فِي الدُّنيا، الرّاغِبينَ فِي الآخِرَةِ،
-<blockquote dir="rtl">
-  <p>
-أُولئكَ اتَّخَذُوا الأرْضَ بِساطاً، وتُرابَها فِراشاً، ومائَها طيباً،
-والقُرآنَ شِعاراً،وَ الدُّعاءَ دِثاراً، وقَرَضُوا الدُّنيا على مِنهاجِ
-المَسيحِ عيسَى بْنَ مَريَمَ ـ على نبِيِّنا وَآله وعلَيهِ السّلامُ.
-  </p>
-</blockquote>
+> أُولئكَ اتَّخَذُوا الأرْضَ بِساطاً، وتُرابَها فِراشاً، ومائَها طيباً،
+> والقُرآنَ شِعاراً،وَ الدُّعاءَ دِثاراً، وقَرَضُوا الدُّنيا على مِنهاجِ
+> المَسيحِ عيسَى بْنَ مَريَمَ ـ على نبِيِّنا وَآله وعلَيهِ السّلامُ.
 
 55. One who neither despairs over the past nor becomes overjoyed with
 the future has taken asceticism from both its sides.
 
 > 55ـ مَنْ لَمْ يَأْسَ عَلَى الماضي وَلَمْ يَفْرَحْ بِالآتي فَقَدْ أخَذَ
-<blockquote dir="rtl">
-  <p>
-الزُّهْدَ بِطَرَفَيْهِ.
-  </p>
-</blockquote>
+> الزُّهْدَ بِطَرَفَيْهِ.
 
 56. One who renounces [the pleasures of] this world makes light of the
 tribulations [he faces in it].
@@ -359,11 +307,7 @@ the garden of the abode [of perpetual bliss in the Hereafter].
 have a share in the Garden of the Abode.
 
 > 59ـ مَنْ لَمْ يَزْهَدْ فِي الدُّنيا لَمْ يَكُنْ لَهُ نَصيبٌ في جَنَّةِ
-<blockquote dir="rtl">
-  <p>
-المَأوى.
-  </p>
-</blockquote>
+> المَأوى.
 
 60. Repose is in renouncing worldly pleasures.
 
@@ -373,11 +317,7 @@ have a share in the Garden of the Abode.
 not look at it with the eyes of the adoring, attached one.
 
 > 61ـ أُنْظُر إلى الدُّنيا نَظَرَ الزّاهِدِ المُفارِقِ، ولا تَنْظُرْ
-<blockquote dir="rtl">
-  <p>
-إلَيْها نَظَرَ العاشِقِ الوامِقِ.
-  </p>
-</blockquote>
+> إلَيْها نَظَرَ العاشِقِ الوامِقِ.
 
 62. Renounce the pleasures of this world and turn away from it, and be
 careful that death does not descend upon you (while you are a runaway
@@ -386,15 +326,10 @@ heart is attached to anything of it as a result of which you are
 destroyed.
 
 > 62ـ اِزْهَدْ فِي الدُّنيا، واغْزِفْ عَنْها، وإيّاكَ أنْ يَنْزِلَ بِكَ
-<blockquote dir="rtl">
-  <p>
-المَوْتُ (وأنْتَ ابِقٌ مِنْ رَبِّكَ في طَلَبِها فَتَشْقى) وقَلْبُكَ
-مُتَعَلِّقٌ بِشَيء مِنْها فَتَهْلِكَ.
-  </p>
-</blockquote>
+> المَوْتُ (وأنْتَ ابِقٌ مِنْ رَبِّكَ في طَلَبِها فَتَشْقى) وقَلْبُكَ
+> مُتَعَلِّقٌ بِشَيء مِنْها فَتَهْلِكَ.
 
 [^1]: Zuhd is a term that means being uninterested in and indifferent
 towards worldly pleasures, material wealth etc. and it is considered to
 be one of the qualities of the pious people.
-
 

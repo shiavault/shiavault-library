@@ -359,4 +359,3 @@ resemblance with Yusuf is imprisonment, the resemblance with Isa is that
 it would be said regarding him that he has died while he would not be so
 and the resemblance with Muhammad is armed uprising.”
 
-

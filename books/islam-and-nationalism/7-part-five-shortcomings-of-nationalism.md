@@ -339,4 +339,3 @@ p.85.
 [^2]: Harold J. Lasky: Nationalism and the Future of Civilization,
 London 1971, p.66.
 
-

@@ -2099,4 +2099,3 @@ in a particular manner. He believes that even the assassination of ‘Umar
 was the result of the Satanic plans of this party and Abu Lu'lu was only
 an agent and not the real culprit.
 
-

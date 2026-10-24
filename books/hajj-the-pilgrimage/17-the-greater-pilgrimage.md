@@ -57,4 +57,3 @@ you are, put on your Ihram, turn your back to Mecca and move on ...!
 What place is holier and more respectful than Mecca? Continue on; you
 will see ...!
 
-

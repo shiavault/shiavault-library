@@ -1,23 +1,15 @@
 Right n. 36: The Right of the Creditor
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-حق الغريم الطالب
-  </p>
-</blockquote>
+> حق الغريم الطالب
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الغَرِيمِ الطَّالِب لَكَ، فَإنْ كُنْتَ مُوسِرًا
-أَوفَيتَهُ وَكَفَيتَهُ وَأَغْنَيتَهُ وَلَمْ ترْدُدْهُ وتَمْطُلْهُ
-فَإنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ - قَالَ – «مَطَلُ
-الغَنِيِّ ظُلْمٌ». وَإنْ كُنْتَ مُعْسِرًا أَرْضَيتَهُ بحُسْنِ القَوْلِ
-وَطَلَبتَ إلَيهِ طَلَباً جَمِيلاً وَرَدَدتَهُ عَنْ نفْسِكَ ردًّا
-لَطِيفًا، وَلَمْ تَجْمَعَ عَلَيْهِ ذهَابَ مَالِهِ وَسُوءَ
-مُعَامَلَتِهِ فَإنَّ ذلِكَ لؤمٌ. ولا قُوَّةَ إلاّ باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الغَرِيمِ الطَّالِب لَكَ، فَإنْ كُنْتَ مُوسِرًا
+> أَوفَيتَهُ وَكَفَيتَهُ وَأَغْنَيتَهُ وَلَمْ ترْدُدْهُ وتَمْطُلْهُ
+> فَإنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ - قَالَ – «مَطَلُ
+> الغَنِيِّ ظُلْمٌ». وَإنْ كُنْتَ مُعْسِرًا أَرْضَيتَهُ بحُسْنِ القَوْلِ
+> وَطَلَبتَ إلَيهِ طَلَباً جَمِيلاً وَرَدَدتَهُ عَنْ نفْسِكَ ردًّا
+> لَطِيفًا، وَلَمْ تَجْمَعَ عَلَيْهِ ذهَابَ مَالِهِ وَسُوءَ
+> مُعَامَلَتِهِ فَإنَّ ذلِكَ لؤمٌ. ولا قُوَّةَ إلاّ باللهِ.
 
 **And the right of him to whom you owe**[^1] **is that you should pay
 him back if you have the means to do so. You should meet his need, make
@@ -51,12 +43,8 @@ Charity is recommended in Islam. In addition, an important form of loan
 in Islam is an interest-free loan. This is considered by the Qur’an to
 be loaning to God as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ
-لَكُمْ وَاللَّهُ شَكُورٌ حَلِيمٌ
-  </p>
-</blockquote>
+> إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ
+> لَكُمْ وَاللَّهُ شَكُورٌ حَلِيمٌ
 
 ***“If ye loan to God, a beautiful loan, He will double it to your
 (credit), and He will grant you Forgiveness: for God is most Ready to
@@ -66,12 +54,8 @@ appreciate (service), Most Forbearing.” [The Holy Qur’an, al-Tagabun
 This implies that loaning to God will be rewarded by Him and is a cause
 of forgiveness and divine appreciation. In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-وَلَهُ أَجْرٌ كَرِيمٌ
-  </p>
-</blockquote>
+> مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> وَلَهُ أَجْرٌ كَرِيمٌ
 
 ***“Who is he that will loan to God a beautiful loan? For (God) will
 increase it manifold to his credit, and he will have (besides) a liberal
@@ -79,12 +63,8 @@ Reward.”[The Holy Qur’an, al-Hadid 57:11]***
 
 In another verse the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُصَّدِّقِينَ وَالْمُصَّدِّقَاتِ وَأَقْرَضُوا اللَّهَ قَرْضًا
-حَسَنًا يُضَاعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الْمُصَّدِّقِينَ وَالْمُصَّدِّقَاتِ وَأَقْرَضُوا اللَّهَ قَرْضًا
+> حَسَنًا يُضَاعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ
 
 ***“For those who give in charity, men and women, and loan to God a
 beautiful loan, it shall be increased manifold (to their credit), and
@@ -94,13 +74,9 @@ they shall have (besides) a liberal reward.” [The Holy Qur’an, al-Hadid
 Some consider loaning to God to be just charity while others also
 include giving interest-free loans to believers:
 
-<blockquote dir="rtl">
-  <p>
-مَّن ذَا الَّذِي يُقْرِضُ اللّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-أَضْعَافًا كَثِيرَةً وَاللّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ
-تُرْجَعُونَ
-  </p>
-</blockquote>
+> مَّن ذَا الَّذِي يُقْرِضُ اللّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> أَضْعَافًا كَثِيرَةً وَاللّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ
+> تُرْجَعُونَ
 
 ***“Who is he that will loan to God a beautiful loan, which God will
 double unto his credit and multiply many times? It is God that giveth
@@ -116,20 +92,12 @@ God and intends to help others. On the contrary, there is the question
 of usury that has extremely detrimental social effects. We read in the
 following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ وَذَرُواْ مَا بَقِيَ
-مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ وَذَرُواْ مَا بَقِيَ
+> مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ مِّنَ اللّهِ وَرَسُولِهِ
-وَإِن تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَالِكُمْ لاَ تَظْلِمُونَ وَلاَ
-تُظْلَمُونَ
-  </p>
-</blockquote>
+> فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ مِّنَ اللّهِ وَرَسُولِهِ
+> وَإِن تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَالِكُمْ لاَ تَظْلِمُونَ وَلاَ
+> تُظْلَمُونَ
 
 ***“O ye who believe! Fear God, and give up what remains of your demand
 for usury, if ye are indeed believers. If ye do it not, take notice of
@@ -142,17 +110,13 @@ to be like staging a war against God and the Prophet . If one repents
 from doing this heinous act, then he can take back his money without
 taking any interest. In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَأْكُلُونَ الرِّبَا لاَ يَقُومُونَ إِلاَّ كَمَا يَقُومُ
-الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ذَلِكَ بِأَنَّهُمْ
-قَالُواْ إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا وَأَحَلَّ اللّهُ الْبَيْعَ
-وَحَرَّمَ الرِّبَا فَمَن جَاءهُ مَوْعِظَةٌ مِّن رَّبِّهِ فَانتَهَىَ
-فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللّهِ وَمَنْ عَادَ فَأُوْلَـئِكَ
-أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ يَمْحَقُ اللّهُ الْرِّبَا
-وَيُرْبِي الصَّدَقَاتِ وَاللّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
-  </p>
-</blockquote>
+> الَّذِينَ يَأْكُلُونَ الرِّبَا لاَ يَقُومُونَ إِلاَّ كَمَا يَقُومُ
+> الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ذَلِكَ بِأَنَّهُمْ
+> قَالُواْ إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا وَأَحَلَّ اللّهُ الْبَيْعَ
+> وَحَرَّمَ الرِّبَا فَمَن جَاءهُ مَوْعِظَةٌ مِّن رَّبِّهِ فَانتَهَىَ
+> فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللّهِ وَمَنْ عَادَ فَأُوْلَـئِكَ
+> أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ يَمْحَقُ اللّهُ الْرِّبَا
+> وَيُرْبِي الصَّدَقَاتِ وَاللّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
 
 ***“Those who devour usury will not stand except as stand one whom the
 Evil one by his touch hath driven to madness. That is because they say:
@@ -170,11 +134,7 @@ care for sympathy, love, cooperation and the like. It may also refer to
 the way they will be resurrected in the Hereafter since our looks in the
 Hereafter portray our deeds in this world. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-آكِلُ الرِّبا لا يخْرُجُ مِن الدُّنيا حَتىّ يَتَخَبَّطُهُ الشَّيطانُ.
-  </p>
-</blockquote>
+> آكِلُ الرِّبا لا يخْرُجُ مِن الدُّنيا حَتىّ يَتَخَبَّطُهُ الشَّيطانُ.
 
 *“A usurer shall not depart this world without Satan driving him
 insane.”*[^2]
@@ -204,24 +164,16 @@ also result in animosities and class disputes while engaging in trade
 does not. Usury is discussed in the following verses of the Holy Qur’an
 as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ الرِّبَا أَضْعَافًا
-مُّضَاعَفَةً وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ الرِّبَا أَضْعَافًا
+> مُّضَاعَفَةً وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“O ye who believe! Devour not usury, doubled and multiplied; but fear
 God; that ye may (really) prosper.” [The Holy Qur’an, Al-i-Imran
 3:130]***
 
-<blockquote dir="rtl">
-  <p>
-وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُواْ عَنْهُ وَأَكْلِهِمْ أَمْوَالَ
-النَّاسِ بِالْبَاطِلِ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا
-أَلِيمًا
-  </p>
-</blockquote>
+> وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُواْ عَنْهُ وَأَكْلِهِمْ أَمْوَالَ
+> النَّاسِ بِالْبَاطِلِ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا
+> أَلِيمًا
 
 ***“…That they took usury, though they were forbidden; and that they
 devoured men's substance wrongfully. We have prepared for those among
@@ -236,12 +188,8 @@ if he does not have enough money to pay it back, the Imam recommends us
 to give him time to do so. We also read the following verse in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَن
-تَصَدَّقُواْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَن
+> تَصَدَّقُواْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
 ***“If the debtor is in a difficulty, grant him time till it is easy for
 him to repay. But if ye remit it by way of charity, that is best for you
@@ -266,12 +214,8 @@ both sides are clearly described here. Now let us look at some related
 material presented in volume 2 of Shafi by the late Fayz. In a tradition
 the reward for giving more time is mentioned: Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أرَادَ أنْ يُظِلَّهُ اللهُ يَومَ لا ظِلَّ إلاّ ظِلُّهُ…
-فَليُنْظِرْ مُعْسِراً أوْ يَدَعْ لهُ مِن حَقِّهِ.
-  </p>
-</blockquote>
+> مَن أرَادَ أنْ يُظِلَّهُ اللهُ يَومَ لا ظِلَّ إلاّ ظِلُّهُ…
+> فَليُنْظِرْ مُعْسِراً أوْ يَدَعْ لهُ مِن حَقِّهِ.
 
 *“Those who desire to be in the Shade of God on the Day on which there
 is no other shade, should give time to debtors who are unable to pay
@@ -279,13 +223,9 @@ back their debt or remit it.”*[^3]
 
 Imam Sadiq narrated that once the Prophet climbed the pulpit and said:
 
-<blockquote dir="rtl">
-  <p>
-أيُّها النّاسُ! لِيُبَلِّغِ الشّاهِدُ الغائِبَ مِنكم. ألا وَمَن
-أنْظَرَ مُعْسِراً كانَ لهُ عَلى اللهِ في كُلّ يَومٍ ثَوابُ صَدَقَةٍ
-بِمِثْلِ مَالِهِ حَتىّ يَستَوفِيَهُ.
-  </p>
-</blockquote>
+> أيُّها النّاسُ! لِيُبَلِّغِ الشّاهِدُ الغائِبَ مِنكم. ألا وَمَن
+> أنْظَرَ مُعْسِراً كانَ لهُ عَلى اللهِ في كُلّ يَومٍ ثَوابُ صَدَقَةٍ
+> بِمِثْلِ مَالِهِ حَتىّ يَستَوفِيَهُ.
 
 *“O People! You who are present and can witness to what I say! Deliver
 my words to those who are absent. Beware! God will reward the one who
@@ -295,12 +235,8 @@ postponed.”*
 
 Then Imam Sadiq recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَن
-تَصَدَّقُواْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَن
+> تَصَدَّقُواْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
 ***“If the debtor is in a difficulty, grant him time till it is easy for
 him to repay. But if ye remit it by way of charity, that is best for you
@@ -308,22 +244,14 @@ if ye only knew.” [The Holy Qur’an, al-Baqarah 2:280]***
 
 Then he said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ مُعسِرٌ فَتَصَدَّقوا عَليهِ بما لَكُم عَلَيه فهوَ خَيرٌ لَكُم.
-  </p>
-</blockquote>
+> إنَّهُ مُعسِرٌ فَتَصَدَّقوا عَليهِ بما لَكُم عَلَيه فهوَ خَيرٌ لَكُم.
 
 *“He is a poor person, so give charity to him from what he owes you, and
 it will be better for you.”*[^4]  
  The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-كَما لا يَحِلُّ لِغرِيمِكَ أنْ يَمطُلَكَ وَهُوَ مُوسِرٌ فَكذلِكَ لا
-يحِلُّ لكَ أنْ تُعسِرَهُ إذا عَلِمتَ أنَّه مُعْسِرٌ.
-  </p>
-</blockquote>
+> كَما لا يَحِلُّ لِغرِيمِكَ أنْ يَمطُلَكَ وَهُوَ مُوسِرٌ فَكذلِكَ لا
+> يحِلُّ لكَ أنْ تُعسِرَهُ إذا عَلِمتَ أنَّه مُعْسِرٌ.
 
 *“Just as it is not permissible for your creditor to postpone the
 repayment of a loan if he is well to do, similarly it is not permissible
@@ -334,12 +262,8 @@ Imam Sadiq was told that Abdul Rahman ibn Seyabeh who had passed away
 had an unpaid debt to someone. They had asked the creditor to forgive
 his debt, but he had not accepted to do so. The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-وَيحَهُ! أمَا يَعلَمُ أنَّ لهُ بِكُلِّ دِرهَمٍ عَشَرةً إذا حَلَّلَهُ
-وإنْ لم يحَلِّلْهُ فإنمَّا هوَ دِرهَمٌ بِدِرهَمٍ.
-  </p>
-</blockquote>
+> وَيحَهُ! أمَا يَعلَمُ أنَّ لهُ بِكُلِّ دِرهَمٍ عَشَرةً إذا حَلَّلَهُ
+> وإنْ لم يحَلِّلْهُ فإنمَّا هوَ دِرهَمٌ بِدِرهَمٍ.
 
 *“Woe to him! Does he not know that for each Dirham that he forgives he
 shall be rewarded ten Dirhams? But if he does not forgive, he can only
@@ -357,5 +281,4 @@ p.291.
 [^4]: Shafi, v.2, p.110.
 
 [^5]: Ibid.
-
 

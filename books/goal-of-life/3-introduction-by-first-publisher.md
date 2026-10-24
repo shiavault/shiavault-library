@@ -47,4 +47,3 @@ an important discourse on life, such as presented here to avail its
 sublime spiritual revolution, to illuminate the dark paths of
 modernistic materialism through a precise knowledge of the goal of life.
 
-

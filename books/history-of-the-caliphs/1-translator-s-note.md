@@ -32,4 +32,3 @@ and transfer it to others.
  A. Ebrahimi  
  Translator
 
-

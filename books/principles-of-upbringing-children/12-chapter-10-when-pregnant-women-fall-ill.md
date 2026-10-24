@@ -48,4 +48,3 @@ infection." [^1]
 
 [^1]: Biography Pish az tawalud, p. 182
 
-

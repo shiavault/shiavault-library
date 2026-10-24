@@ -8,11 +8,7 @@ Surah Inshirah, Chapter 94
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -66,61 +62,25 @@ Muhammad unhappy and brought the grief out from his heart.”*[^1]
 Surah Inshirah, Verses 1-8
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
-  </p>
-</blockquote>
+> أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
 
-<blockquote dir="rtl">
-  <p>
-وَوَضَعْنَا عَنكَ وِزْرَكَ
-  </p>
-</blockquote>
+> وَوَضَعْنَا عَنكَ وِزْرَكَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَنقَضَ ظَهْرَكَ
-  </p>
-</blockquote>
+> الَّذِي أَنقَضَ ظَهْرَكَ
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعْنَا لَكَ ذِكْرَكَ
-  </p>
-</blockquote>
+> وَرَفَعْنَا لَكَ ذِكْرَكَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> إِنَّ مَعَ الْعُسْرِ يُسْرًا
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا فَرَغْتَ فَانصَبْ
-  </p>
-</blockquote>
+> فَإِذَا فَرَغْتَ فَانصَبْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى رَبِّكَ فَارْغَبْ
-  </p>
-</blockquote>
+> وَإِلَى رَبِّكَ فَارْغَبْ
 
 ***1. “Have We not expanded for you your breast?”***  
 ***2. “And We removed from you your burden,"***  
@@ -523,5 +483,4 @@ us the success of being grateful for them.*
 Tafsir-i-Fakhr-i-Razi, vol 32, p. 2.
 
 [^8]: Shawahid-al-Tanzil, vol. 2, p. 349 (Tradition 1116-1119).
-
 

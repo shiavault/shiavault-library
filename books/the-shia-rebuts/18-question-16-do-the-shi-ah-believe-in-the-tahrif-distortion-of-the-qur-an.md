@@ -11,11 +11,7 @@ consider pieces of evidence that follow:
 1. The Lord of the worlds has guaranteed the Muslims to preserve and
 protect the heavenly scripture, i.e. the Qur’an, saying:
 
-<blockquote dir="rtl">
-  <p>
-"إنا نحن نزلنا الذكر وإنا له لحافظون."
-  </p>
-</blockquote>
+> "إنا نحن نزلنا الذكر وإنا له لحافظون."
 
 ***“Indeed We have sent down the Reminder and indeed We will preserve
 it.”***[^1]
@@ -30,32 +26,20 @@ always in the company of the Holy Prophet (S) and one of the scribers of
 the revelation, has called people on various occasions to abide by this
 very Qur’an. Below are some of what he has said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"واعلموا أن هذا القرءان هو الناصح الذي لا يغش والهادي الذي لا يضلّ."
-  </p>
-</blockquote>
+> "واعلموا أن هذا القرءان هو الناصح الذي لا يغش والهادي الذي لا يضلّ."
 
 “Know that this Qur’an is the adviser that never deceives and the guide
 that never misleads.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-"إن الله سبحانه لم يعظ أحداً بمثل هذا القرءان فإنه حبل الله والتين
-سببه المبين."
-  </p>
-</blockquote>
+> "إن الله سبحانه لم يعظ أحداً بمثل هذا القرءان فإنه حبل الله والتين
+> سببه المبين."
 
 “Allah, the Glorified, has not admonished anyone as He has done through
 lines of this Qur’an; it is Allah’s strong cord and His trustworthy
 means.”[^3]
 
-<blockquote dir="rtl">
-  <p>
-"ثم أنزل عليه الكتاب نوراً لا تطفأ مصابيحه وسراجاً لا يخبوا توقّده
-ومنهاجاً لا يضلّ نهجه وفرقاناً لا يخمد برهانه."
-  </p>
-</blockquote>
+> "ثم أنزل عليه الكتاب نوراً لا تطفأ مصابيحه وسراجاً لا يخبوا توقّده
+> ومنهاجاً لا يضلّ نهجه وفرقاناً لا يخمد برهانه."
 
 Then, Allah sent to him the Book as a light whose flames cannot be
 extinguished, a lamp whose gleam does not die, a way whose direction
@@ -95,11 +79,7 @@ narrations in this regard. We shall only quote one of them:
 
 Imam as-Sadiq (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-"ما لم يُوافق من الحديث القرءان فهو زُخرف."
-  </p>
-</blockquote>
+> "ما لم يُوافق من الحديث القرءان فهو زُخرف."
 
 “Any statement that is not in accord with the Qur’an is futile and
 false.”[^5]
@@ -160,11 +140,7 @@ Qur’an.”[^11]
 **f.** Shaykh Zayn ad-Din al-‘Amili (d. 877 AH) explains the following
 verse,
 
-<blockquote dir="rtl">
-  <p>
-"إنا نحن نزلنا الذكر وإنا له لحافظون."
-  </p>
-</blockquote>
+> "إنا نحن نزلنا الذكر وإنا له لحافظون."
 
 ***“Indeed We have sent down the Reminder and indeed We will preserve
 it”***[^12]
@@ -194,11 +170,7 @@ entirety of it has been compiled in the lifetime of the Holy Prophet
 **i.** Fayd al-Kashani, the author of the book, *Al-Wafi* (d. 1091 AH),
 who mentions the verse,
 
-<blockquote dir="rtl">
-  <p>
-"إنا نحن نزلنا الذكر وإنا له لحافظون."
-  </p>
-</blockquote>
+> "إنا نحن نزلنا الذكر وإنا له لحافظون."
 
 ***“Indeed We have sent down the Reminder and indeed We will preserve
 it,”***[^17]
@@ -288,13 +260,9 @@ to read a *surah* which was similar in size to *Surah at-Tawbah*
 (*Bara‘ah*) in length, and all that I remember of it is only one verse,
 and that is:
 
-<blockquote dir="rtl">
-  <p>
-"لو أن لإبن أدم واديان من الذهب لابتغى إليهما ثالثاً ولو أن له ثالثاً
-لبتغى إليهما رابعاً لأيملاء و جوف إبن أدم إلا التراب و يتوب الله على
-من تاب."
-  </p>
-</blockquote>
+> "لو أن لإبن أدم واديان من الذهب لابتغى إليهما ثالثاً ولو أن له ثالثاً
+> لبتغى إليهما رابعاً لأيملاء و جوف إبن أدم إلا التراب و يتوب الله على
+> من تاب."
 
 “Should the Children of Adam have two valleys of gold, he would ask for
 a third and should he have three he would ask for a fourth. Nothing can
@@ -379,5 +347,4 @@ commentary on Surah al-Ahzab.
 
 [^24]: Ad-Durr al-Manthur, vol. 5, p. 180, the beginning of the
 commentary on Surah al-Ahzab.
-
 

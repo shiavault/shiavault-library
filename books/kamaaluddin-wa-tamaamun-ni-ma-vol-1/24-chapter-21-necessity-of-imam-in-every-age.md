@@ -356,13 +356,9 @@ Mighty and Sublime does not send chastisement on a community till the
 prophet does not go away from it. As Allah, the Mighty and Sublime says
 with reference to the incident of Prophet Nuh (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ
-فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ
-عَلَيْهِ
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ
+> فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ
+> عَلَيْهِ
 
 ***Until when Our command came and water came forth from the valley, We
 said: Carry in it two of all things, a pair, and your own family- except
@@ -372,25 +368,17 @@ Thus Allah, the Mighty and Sublime commanded Prophet Nuh (a.s.) to take
 the believers with him and separate from the community and not mingle
 with them. And Allah, the Mighty and Sublime said:
 
-<blockquote dir="rtl">
-  <p>
-وَوَحْيِنَا وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا إِنَّهُمْ
-مُغْرَقُونَ
-  </p>
-</blockquote>
+> وَوَحْيِنَا وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا إِنَّهُمْ
+> مُغْرَقُونَ
 
 ***… and do not speak to Me in respect of those who are unjust; surely
 they shall be drowned.***[^2]
 
 In the same way in the case of Prophet Lut (a.s.) He said:
 
-<blockquote dir="rtl">
-  <p>
-نْ يَصِلُوا إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ
-وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ ۖ إِنَّهُ
-مُصِيبُهَا مَا أَصَابَهُمْ
-  </p>
-</blockquote>
+> نْ يَصِلُوا إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ
+> وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ ۖ إِنَّهُ
+> مُصِيبُهَا مَا أَصَابَهُمْ
 
 ***So remove your followers in a part of the night- and let none of you
 turn back- except your wife, for surely whatsoever befalls them shall
@@ -404,13 +392,9 @@ first He orders the prophet who is among them, to leave them and go
 away. Similarly when Prophet Ibrahim (a.s.) feared that divine wrath
 would befall his people, he went away from them saying:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي
-عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا فَلَمَّا اعْتَزَلَهُمْ
-وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ
-  </p>
-</blockquote>
+> وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي
+> عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا فَلَمَّا اعْتَزَلَهُمْ
+> وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ
 
 ***And I will withdraw from you and what you call on besides Allah, and
 I will call upon my Lord; may be I shall not remain unblessed in calling
@@ -422,12 +406,8 @@ bottom¬most layer of Hell, those who had harassed Prophet Ibrahim
 (a.s.), tortured him, threw him into the inferno and Allah also saved
 Prophet Lut (a.s.) as mentioned by the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَنَجَّيْنَاهُ وَلُوطًا إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا
-لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَنَجَّيْنَاهُ وَلُوطًا إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا
+> لِلْعَالَمِينَ
 
 ***And We delivered him as well as Lut (removing them) to the land which
 We had blessed for all people.***[^5]
@@ -435,23 +415,15 @@ We had blessed for all people.***[^5]
 And Allah bestowed Ibrahim (a.s.) with Ishaq and Yaqoob as Allah, the
 Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا
-صَالِحِينَ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا
+> صَالِحِينَ
 
 ***And We gave him Ishaq and Yaqoob, a son’s son, and We made (them) all
 good.***[^6]
 
 And the Almighty Allah said regarding the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ
-  </p>
-</blockquote>
+> وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ
 
 ***But Allah was not going to chastise them while you were among
 them.***[^7]
@@ -507,5 +479,4 @@ no strength except by Allah.
 [^6]: Surah Anbiya 21:72
 
 [^7]: Surah Anfaal 8:33
-
 

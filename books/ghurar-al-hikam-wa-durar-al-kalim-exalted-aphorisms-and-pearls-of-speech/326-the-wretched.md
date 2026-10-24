@@ -25,4 +25,3 @@ striving to acquire [worldly gain].
 [^1]: Since any worldly gains he has will be transferred to his heirs
 after his death.
 
-

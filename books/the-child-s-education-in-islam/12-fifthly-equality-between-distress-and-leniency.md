@@ -117,7 +117,6 @@ neither create hostility or criminality or psychological chilliness or
 frustration and scruple or excess depending on others, babied conduct
 and personal weakness.[^37].
 
-
 **Sixthly : Equity Between Children**
 
 The first child in the family is in position of love, sympathy and
@@ -312,5 +311,4 @@ entirely and engaged them with it or to intervene by distancing them
 from each other but when the issue demand reproach or spiritual
 punishment, the better to focus both of them to concord with
 implementation of equity between the children.
-
 

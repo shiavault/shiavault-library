@@ -800,4 +800,3 @@ William C.
  Chittick. London: Muhammadī Trust of Great Britain of Northern Ireland,
 1988.
 
-

@@ -1,22 +1,14 @@
 Status of Ahlul Bayt In Divine Words
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيراً
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيراً
 
 ***“Allah only desires to keep away the impurities from you, O people of
 the House! And to purify you a (thorough) purifying “ (Qur'an, 33:33)***
 
-<blockquote dir="rtl">
-  <p>
-قل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى
-  </p>
-</blockquote>
+> قل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى
 
 ***“ Say: I do not ask of you any reward for it but love for my near
 relatives “(Qur'an, 42:23)***
@@ -24,12 +16,8 @@ relatives “(Qur'an, 42:23)***
 In the Prophet’s Sunnah
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
-الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيماً
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيماً
 
 ***“Surely Allah and His angels bless the Prophet; O you who believe!
 Call for divine blessings for him and salute him with a (becoming)
@@ -46,13 +34,9 @@ upon you. The Prophet fell silent for such long time that we wished such
 a question had not been asked at all. After a while, the Prophet (S)
 replied: Say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وآل محمد كما صليت على ابراهيم و آل ابراهيم. و بارك
-على محمد وآل محمد كما باركت على ابراهيم و آل ابراهيم في العالمين. إنك
-حميد مجيد
-  </p>
-</blockquote>
+> اللهم صل على محمد وآل محمد كما صليت على ابراهيم و آل ابراهيم. و بارك
+> على محمد وآل محمد كما باركت على ابراهيم و آل ابراهيم في العالمين. إنك
+> حميد مجيد
 
 In salutation too, you may recite what you have just learnt. “[^1]
 
@@ -68,20 +52,12 @@ said: “Do not send imperfect salutations upon me. “ The people inquired:
 
 The Prophet (S) said: “That you say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد
-  </p>
-</blockquote>
+> اللهم صل على محمد
 
 (O Allah send salutations on Muhammad) and conclude. Desist from such a
 recitation, rather say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وآل محمد
-  </p>
-</blockquote>
+> اللهم صل على محمد وآل محمد
 
 (O Allah sends salutations on Muhammad and his progeny)
 
@@ -96,5 +72,4 @@ Sunan-Abu Davoud; Book of Salat; 1/257-258; Sunan-Nesaei, Beirut print,
 Sunan-Tirmidhi, 1/179-180 & Kitab al-Tafsir, Tafsir Sura al-Ahzab, Ayah
 56, 12/95; Sunan-Darami; 1/309-310; Muwatta-Malik, 1/179-180 and
 Musnad-Ahmad 1/162, 3/47, 4/118, 119, 241, 243, 244 & 424; 5/274.
-
 

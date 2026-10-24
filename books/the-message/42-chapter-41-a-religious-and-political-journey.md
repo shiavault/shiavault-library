@@ -892,4 +892,3 @@ ehram there while going to Makkah.
 
 [^24]: Seerah-i Ibn Hisham, vol. II, page 323.
 
-

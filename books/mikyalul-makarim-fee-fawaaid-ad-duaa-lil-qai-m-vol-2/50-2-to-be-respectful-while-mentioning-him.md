@@ -168,11 +168,7 @@ would be fraught with injustice and oppression.”[^15]
 Ahmad Muhammad bin Ziyad Azadi said: I asked my master, Musa Ibne Ja’far
 (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةًوَبَاطِنَةً 
-  </p>
-</blockquote>
+> وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةًوَبَاطِنَةً
 
  ***“And made complete to you His favors outwardly and inwardly...”
 (Qur’an, Surah Luqman 31:20)***
@@ -261,14 +257,10 @@ Taurat and indeed Musa bin Imran (as) had given the glad tidings of you
 and your successors from your family after you. Then the Messenger of
 Allah (S) recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّـهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا
-الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ
-الَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي
-ارْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا..
-  </p>
-</blockquote>
+> وَعَدَ اللَّـهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا
+> الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ
+> الَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي
+> ارْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا..
 
 ***Allah has promised to those of you who believe and do good that He
 will most certainly make them rulers in the earth as He made rulers
@@ -287,20 +279,12 @@ occultation. And blessed be those who remain firm on their Wilayat. It
 is about these people that the Almighty Allah has mentioned in His Book
 as follows:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ 
-  </p>
-</blockquote>
+> الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
 
 ***Those who believe in the unseen. (Qur’an, Surah Baqarah 2:3)***
 
-<blockquote dir="rtl">
-  <p>
- أُولَـٰئِكَ حِزْبُ اللَّـهِ أَلَا إِنَّ حِزْبَ اللَّـهِ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+>  أُولَـٰئِكَ حِزْبُ اللَّـهِ أَلَا إِنَّ حِزْبَ اللَّـهِ هُمُ
+> الْمُفْلِحُونَ
 
 ***These are Allah’s party: now surely the party of Allah are the
 successful ones. (Qur’an, Surah Mujadilah 58:22)***
@@ -724,12 +708,8 @@ ring on the finger of the right hand. Ibrahim said: O Allah, make me
 among their Shias and followers. The Almighty Allah said: I have indeed
 made you as such. Then He revealed the following about him:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِن شِيعَتِهِ لَإِبْرَاهِيمَ إِذْ جَاءَ رَبَّهُ بِقَلْبٍ
-سَلِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّ مِن شِيعَتِهِ لَإِبْرَاهِيمَ إِذْ جَاءَ رَبَّهُ بِقَلْبٍ
+> سَلِيمٍ
 
 ***And most surely Ibrahim followed his way. When he came to his Lord
 with a free heart… (Qur’an, Surah Saffat 37:83-84)***
@@ -1181,5 +1161,4 @@ precaution.
 [^36]: Kamaluddin, Vol. 2, Pg. 653, Chapter 57, Tr. No. 17
 
 [^37]: Wasailush Shia, Vol. 11, Pg. 489, Chapter 33, Tr. No. 12
-
 

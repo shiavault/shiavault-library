@@ -12,4 +12,3 @@ slogans. The revolutionaries went to Mukhtar 's house.
 Street clashes took place in Kufa. The Ruler's soldiers and the police
 surrendered. Then the Ruler himself escaped to al-Hejaz.
 
-

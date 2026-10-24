@@ -34,4 +34,3 @@ appear.
 reappearance of the Mahdi (‘a) as he will bring relief and justice to
 the oppressed believers.
 
-

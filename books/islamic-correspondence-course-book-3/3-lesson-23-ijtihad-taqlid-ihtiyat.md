@@ -280,4 +280,3 @@ In short, during the Occultation (ghaybat) of the Present Imam (a.s.),
 there are three ways of following the shari’a: ijtihad, taqlid and
 ihtiyat.
 
-

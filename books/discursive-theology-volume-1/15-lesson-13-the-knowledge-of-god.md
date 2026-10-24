@@ -62,11 +62,7 @@ knowledge of the creatures cannot be the most perfect knowledge. This is
 so while the Essence of God possesses all perfections in the highest
 degree possible:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلِلَّهِ الأسْمَاءُ الْحُسْنَى ﴾
-  </p>
-</blockquote>
+> ﴿ وَلِلَّهِ الأسْمَاءُ الْحُسْنَى ﴾
 
 ***“To Allah belong the Best Names.”***[^2]
 
@@ -153,11 +149,7 @@ explain God’s eternal knowledge of the creatures. Traditions (*aḥādith*)
 also confirm this view. For instance, it is thus stated in some
 traditions:
 
-<blockquote dir="rtl">
-  <p>
-عِلمُهُ بِهِ قَبْلَ كَوْنِهِ كَعِلْمِهِ بِهِ بَعْدَ كَوْنِهِ.
-  </p>
-</blockquote>
+> عِلمُهُ بِهِ قَبْلَ كَوْنِهِ كَعِلْمِهِ بِهِ بَعْدَ كَوْنِهِ.
 
 “His knowledge of it prior to its existence is like His knowledge of it
 after its existence.”[^4]
@@ -174,12 +166,8 @@ to their creation necessitates God’s knowledge of His Essence, just as
 the existence of the creatures depends on the existence of the Divine
 Essence:[^6]
 
-<blockquote dir="rtl">
-  <p>
-فَكانَ عِلْمُهُ بِجَميعِ ما عَداهُ لازِمًا لِعِلْمِهِ لِذاتِهِ، كَما
-أنَّ وُجودَ ما عَداهُ تابِعٌ لِوُجودِ ذاتِهِ
-  </p>
-</blockquote>
+> فَكانَ عِلْمُهُ بِجَميعِ ما عَداهُ لازِمًا لِعِلْمِهِ لِذاتِهِ، كَما
+> أنَّ وُجودَ ما عَداهُ تابِعٌ لِوُجودِ ذاتِهِ
 
 God’s Present Knowledge of the Creatures in the Present
 -------------------------------------------------------
@@ -234,12 +222,8 @@ therefore, is present before God and He has intuitive knowledge of it.
 In his *Tajrīd al-I‘tiqād*, Muḥaqqiq al-Ṭūsī has expressed the said
 argument in these words:
 
-<blockquote dir="rtl">
-  <p>
-ألأحْكامُ وَالتَّجَرُّدُ، وَإسْتِنادُ كُلِّ شَيْءٍ إلَيْهِ دَلائِلُ
-العِلْمِ.
-  </p>
-</blockquote>
+> ألأحْكامُ وَالتَّجَرُّدُ، وَإسْتِنادُ كُلِّ شَيْءٍ إلَيْهِ دَلائِلُ
+> العِلْمِ.
 
 That is to say that the laws and stability of the universe, the
 immateriality of the Divine Essence and emanation of the existence of
@@ -343,5 +327,4 @@ been mentioned 41 and 42 times, respectively, in the Qur’an.
 [^12]: Fāḍil Miqdād, Irshād al-Ṭālibīn, pp. 206-207.
 
 [^13]: Ibid.
-
 

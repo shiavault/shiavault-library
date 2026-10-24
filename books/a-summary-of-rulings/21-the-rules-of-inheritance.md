@@ -112,4 +112,3 @@ When there was no one other than (the child) in his level, then, if the
 child is born alive, all of the property is for him, otherwise, it is
 divided among the heirs.
 
-

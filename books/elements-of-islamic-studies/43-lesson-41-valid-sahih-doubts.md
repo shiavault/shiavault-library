@@ -47,4 +47,3 @@ prayer offer two *rak’at*s of *Salat al-ihtiyat* by standing and two
  Note: In last the mentioned four cases, two *sajdah* of *sahw* should
 be done for the unwanted *qiyam*.
 
-

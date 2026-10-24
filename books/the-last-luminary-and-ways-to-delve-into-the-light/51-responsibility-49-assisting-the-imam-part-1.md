@@ -28,4 +28,3 @@ struggling (jihad) on the side of the Imam; bearing difficulties with
 patience, and giving up one’s life and property for the sake of the
 Imam.
 
-

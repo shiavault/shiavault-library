@@ -41,4 +41,3 @@ Imams. The issues, which are worthy of discussion, are not limited to
 what I have said. However, I will mention some of the topics so that the
 interested scholars work on them. Some of these topics are given below.
 
-

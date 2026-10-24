@@ -1,18 +1,14 @@
 Tenth Hadith: Desire And Hope
 =============================
 
-<blockquote dir="rtl">
-  <p>
-بِالأَسْنَادِ المُتَّصِلَةِ إلَى رَئِيسِ المُحَدِّثِينَ مُحَمَّدِ بْنِ
-يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنِ الحُسَيْنِ بْنِ مُحَمَّدٍ،
-عَنْ مُعَلَّى بْنِ مُحَمَّدٍ، عَنِ الوَشَّاءِ، عَنْ عَاصِمِ بْنِ
-حَمِيدٍ، عَنْ أَبِي حَمْزَةَ، عَنْ يَحْيَى بْنِ عَقِيلٍ قَالَ: قَالَ
-أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: إنَّمَا أَخَافُ عَلَيْكُمُ
-اثْنَتَيْنِ: إتِّبَاعَ الهَوَى وَطُولَ الأَمَلِ. أَمَّا اتِّبَاعُ
-الهَوَى فَإنَّهُ يَصُدُّ عَنِ الحَقِّ وَأَمّا طُولُ الأَمَلِ فَيُنْسِي
-الآخِرَةَ.
-  </p>
-</blockquote>
+> بِالأَسْنَادِ المُتَّصِلَةِ إلَى رَئِيسِ المُحَدِّثِينَ مُحَمَّدِ بْنِ
+> يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنِ الحُسَيْنِ بْنِ مُحَمَّدٍ،
+> عَنْ مُعَلَّى بْنِ مُحَمَّدٍ، عَنِ الوَشَّاءِ، عَنْ عَاصِمِ بْنِ
+> حَمِيدٍ، عَنْ أَبِي حَمْزَةَ، عَنْ يَحْيَى بْنِ عَقِيلٍ قَالَ: قَالَ
+> أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: إنَّمَا أَخَافُ عَلَيْكُمُ
+> اثْنَتَيْنِ: إتِّبَاعَ الهَوَى وَطُولَ الأَمَلِ. أَمَّا اتِّبَاعُ
+> الهَوَى فَإنَّهُ يَصُدُّ عَنِ الحَقِّ وَأَمّا طُولُ الأَمَلِ فَيُنْسِي
+> الآخِرَةَ.
 
 Muhammad ibn Ya’qub (al-Kulayni) (R) reports from al-Husayn ibn
 Muhammad, he from Mu’alla ibn Muhammad, from al-Washsha’, from ‘Asim ibn
@@ -119,11 +115,7 @@ all the modes of his inner being acquire a human dimension and the inner
 devil of the carnal self is converted to faith, as the Prophet of God
 remarked about himself:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ شَيْطَانِي آمِنٌ بِيَدِي.
-  </p>
-</blockquote>
+> إنَّ شَيْطَانِي آمِنٌ بِيَدِي.
 
 The devil inside me has been converted to faith at my hand.
 
@@ -156,20 +148,12 @@ brightening the gleams of Divine light in the domain of the inner being.
 
 Denouncing submission to desires, God Almighty says in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَا تَتَّبِعْ الْهَوَى فَيُضِلَّكَ عَنْ سَبِيلِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَا تَتَّبِعْ الْهَوَى فَيُضِلَّكَ عَنْ سَبِيلِ اللَّهِ.﴾
 
 ***And follow not desire lest it lead thee astray from the way of
 God.*** (***38:26***)
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنْ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنْ اللَّهِ.﴾
 
 ***And who is further astray than he who follows his desire without
 guidance from God?*** (***28:50***)
@@ -177,20 +161,16 @@ guidance from God?*** (***28:50***)
 And in a tradition of *al-Kafi* from Imam al-Baqir (A), the Imam is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: يَقُولُ اللهُ عَزَّ
-وَجَلَّ: وَعِزَّتِي وَجَلالِي وَعَظَمَتِي وَكِبْرِيَائِي وَنُورِي
-وَعُلُوِّي وَارْتِفَاعِ مَكَانِي، لا يُؤْثِرُ عَبْدٌ هَوَاهُ عَلَى
-هَوَايَ إلا شَتَّتُّ عَلَيْهِ أَمْرَهُ وَلَبَسْتُ عَلَيْهِ دُنْيَاهُ
-وَشَغَلْتُ قَلْبَهُ بِهَا وَلَمْ أُؤْتَهُ مِنْهَا إلا مَا قَدَّرْتُ
-لَهُ. وَعِزَّتِي وَجَلالِي وَعَظَمَتِي وَكِبْرِيَائِي وَنُورِي
-وَعُلُوِّي وَارْتِفَاعِ مَكَانِي، لا يُؤْثِرُ عَبْدٌ هَوَايَ عَلَى
-هَوَاهُ إلا اسْتَحْفَظْتُهُ مَلائِكَتِي وَكَفَّلْتُ السَّمَاوَاتِ
-والأَرَضِينَ رِزْقَهُ وَكُنْتُ لَهُ مِنْ وَرَاءِ تِجَارَةِ كُلِّ
-تَاجِرٍ وَأَتَتْهُ الدُّنْيَا وَهِيَ رَاغِمَةٌ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: يَقُولُ اللهُ عَزَّ
+> وَجَلَّ: وَعِزَّتِي وَجَلالِي وَعَظَمَتِي وَكِبْرِيَائِي وَنُورِي
+> وَعُلُوِّي وَارْتِفَاعِ مَكَانِي، لا يُؤْثِرُ عَبْدٌ هَوَاهُ عَلَى
+> هَوَايَ إلا شَتَّتُّ عَلَيْهِ أَمْرَهُ وَلَبَسْتُ عَلَيْهِ دُنْيَاهُ
+> وَشَغَلْتُ قَلْبَهُ بِهَا وَلَمْ أُؤْتَهُ مِنْهَا إلا مَا قَدَّرْتُ
+> لَهُ. وَعِزَّتِي وَجَلالِي وَعَظَمَتِي وَكِبْرِيَائِي وَنُورِي
+> وَعُلُوِّي وَارْتِفَاعِ مَكَانِي، لا يُؤْثِرُ عَبْدٌ هَوَايَ عَلَى
+> هَوَاهُ إلا اسْتَحْفَظْتُهُ مَلائِكَتِي وَكَفَّلْتُ السَّمَاوَاتِ
+> والأَرَضِينَ رِزْقَهُ وَكُنْتُ لَهُ مِنْ وَرَاءِ تِجَارَةِ كُلِّ
+> تَاجِرٍ وَأَتَتْهُ الدُّنْيَا وَهِيَ رَاغِمَةٌ.
 
 The Prophet (S) said: God Almighty said: “By My honor, My Glory, My
 Greatness, My Light, My Loftiness, and by the Highness of My Station!
@@ -211,25 +191,17 @@ transmission may be a weak one, and to discuss this matter further is
 not possible here. There is another tradition reported from Amir al
 Mu’minin (A), which is different from the one we have expounded:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي أَخْوَفُ مَا أَخَافُ عَلَيْكُمُ اثْنَتَيْنِ: إتِّبَاعُ الهَوَى
-وَطُولُ الأَمَلِ.
-  </p>
-</blockquote>
+> إنِّي أَخْوَفُ مَا أَخَافُ عَلَيْكُمُ اثْنَتَيْنِ: إتِّبَاعُ الهَوَى
+> وَطُولُ الأَمَلِ.
 
 I am apprehensive for you concerning two things: Submission to desire
 and entertaining of endless hope.[^3]
 
 In *al-Kafi* Imam al-Sadiq (A) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إحْذَرُوا أَهْوَاءَكُمْ كَمَا تَحْذَرُونَ أَعْدَاءَكُمْ، فَلَيْسَ
-شَيْءٌ أَعْدَى لِلرِّجَالِ مِنِ اتِّبَاعِ أَهْوَائِهِمْ وَحَصَائِدِ
-أَلْسِنَتِهِمْ.
-  </p>
-</blockquote>
+> إحْذَرُوا أَهْوَاءَكُمْ كَمَا تَحْذَرُونَ أَعْدَاءَكُمْ، فَلَيْسَ
+> شَيْءٌ أَعْدَى لِلرِّجَالِ مِنِ اتِّبَاعِ أَهْوَائِهِمْ وَحَصَائِدِ
+> أَلْسِنَتِهِمْ.
 
 Be apprehensive of your desires in the same way as you are apprehensive
 of your enemies. For there is no greater enemy for human beings than
@@ -254,12 +226,8 @@ anxious lest the tree of *nubuwwah* (prophethood) and *wilayah* - of
 which the believers are the leaves- should shed its foliage and become
 as if autumn stricken. Look what the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-تَنَاكَحُوا وَتَنَاسَلُوا، فَإنِّي أُبَاهِي بِكُمُ الأُمَمَ، وَلَوْ
-بَالسَّقْطِ.
-  </p>
-</blockquote>
+> تَنَاكَحُوا وَتَنَاسَلُوا، فَإنِّي أُبَاهِي بِكُمُ الأُمَمَ، وَلَوْ
+> بَالسَّقْطِ.
 
 Marry and procreate, for indeed I shall be proud of you over other
 nations, even though it should be on account of an aborted fetus.[^5]
@@ -274,22 +242,14 @@ befriend their pure progeny, relieve their blessed hearts from their
 fear, anguish and uncertainty on your account. In a verse of the Surat
 *Hud* of the Quran the Prophet (S) is addressed thus
 
-<blockquote dir="rtl">
-  <p>
-﴿فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ.﴾
-  </p>
-</blockquote>
+> ﴿فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ.﴾
 
 ***So be steady as thou hast been commanded, thou and those who have
 turned*** (***unto Allah***) ***with thee.*** (***11:112***)
 
 And the Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-شَيَّبَتْنِي سُورَةُ هُودٍ لِمَكَانِ هَذِهِ الآيَةِ.
-  </p>
-</blockquote>
+> شَيَّبَتْنِي سُورَةُ هُودٍ لِمَكَانِ هَذِهِ الآيَةِ.
 
 The Surat Hud caused my hair to turn grey on account of this verse of
 it.[^6]
@@ -315,11 +275,7 @@ front of others on their account! And you know that the Prophet of God
 (S) and Amir al-Mu’minin (A) are the true fathers of the ummah, for in
 the Prophet’s own words:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا وَعَلِيٌّ أَبَوَا هَذِهِ الأُمَّةِ.
-  </p>
-</blockquote>
+> أَنَا وَعَلِيٌّ أَبَوَا هَذِهِ الأُمَّةِ.
 
 I and ‘Ali are the two fathers of this ummah.[^7]
 
@@ -359,11 +315,7 @@ from it. Their grades are various. There are the victims of desire who
 take gold and wealth and the like to be their god; there are others
 about whom Almighty God informs us in these words:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَرَأَيْتَ مَنْ اتَّخَذَ إِلَهَهُ هَوَاهُ؟﴾
-  </p>
-</blockquote>
+> ﴿أَرَأَيْتَ مَنْ اتَّخَذَ إِلَهَهُ هَوَاهُ؟﴾
 
 ***Hast thou seen him who has taken his desire*** (***hawa***) ***to be
 his god?*** (***25:43***)
@@ -399,11 +351,7 @@ himself of the desires of the self in order not to be kept from the path
 of righteousness and of truth, so that the doors of compassion and
 benevolence are opened to him, whatever his station and stage:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهُ وَلِيُّ الِهدَايَةِ.
-  </p>
-</blockquote>
+> وَاللهُ وَلِيُّ الِهدَايَةِ.
 
 Indeed God is the Lord of guidance.
 
@@ -506,11 +454,7 @@ in prayer before his Lord for such lengthy hours that his blessed feet
 became swollen and the following verse was sent down to him by the Most
 Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿طه. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى.﴾
-  </p>
-</blockquote>
+> ﴿طه. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى.﴾
 
 ***Ta Ha. We have not sent down the Quran upon thee to cause thee
 distress.*** (***20:1, 2***)
@@ -537,18 +481,14 @@ fire that never cools down, and a regret and shame which knows no end.
 My dear, look what the Commander of the Faithful (A) says, in *Du’a
 Kumayl*, in his supplications to the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْتَ تَعْلَمُ ضَعْفِي عَنْ قَلِيلٍ مِنْ بَلاءِ الدُّنْيَا
-وَعُقُوبَاتِهَا وَمَا يَجْرِي فِيهَا مِنَ المَكَارِهِ عَلَى أَهْلِهَا،
-عَلَى أَنَّ ذَلِكَ بَلاءٌ وَمَكْرُوهٌ قَلِيلٌ مَكْثُهُ يَسِيرٌ
-بَقَاؤُهُ قَصِيرٌ مُدَّتُهٌ، فَكَيْفَ احْتِمَالِي لِبَلاءِ الآخِرَةِ
-وَجَلِيلِ وُقُوعِ المَكَارِهِ فِيهَا وَهُوَ بَلاءٌ تَطُولُ مُدَّتُهُ
-وَيَدُومُ مَقَامُهُ وَلا يُخَفَّفُ عَنْ أَهْلِهِ لأَنَّهُ لا يَكُونُ
-إلا عَنْ غَضَبِكَ وَانْتِقَامِكَ وَسَخَطِكَ وَهَذَا مَا لا تَقُومُ
-لَهُ السَّمَاوَاتُ وَالأَرْضُ.
-  </p>
-</blockquote>
+> وَأَنْتَ تَعْلَمُ ضَعْفِي عَنْ قَلِيلٍ مِنْ بَلاءِ الدُّنْيَا
+> وَعُقُوبَاتِهَا وَمَا يَجْرِي فِيهَا مِنَ المَكَارِهِ عَلَى أَهْلِهَا،
+> عَلَى أَنَّ ذَلِكَ بَلاءٌ وَمَكْرُوهٌ قَلِيلٌ مَكْثُهُ يَسِيرٌ
+> بَقَاؤُهُ قَصِيرٌ مُدَّتُهٌ، فَكَيْفَ احْتِمَالِي لِبَلاءِ الآخِرَةِ
+> وَجَلِيلِ وُقُوعِ المَكَارِهِ فِيهَا وَهُوَ بَلاءٌ تَطُولُ مُدَّتُهُ
+> وَيَدُومُ مَقَامُهُ وَلا يُخَفَّفُ عَنْ أَهْلِهِ لأَنَّهُ لا يَكُونُ
+> إلا عَنْ غَضَبِكَ وَانْتِقَامِكَ وَسَخَطِكَ وَهَذَا مَا لا تَقُومُ
+> لَهُ السَّمَاوَاتُ وَالأَرْضُ.
 
 (My Lord) You know my frailness before a little of the afflictions and
 torments of this world and before the kind of calamities that affect its
@@ -566,11 +506,7 @@ your obliviousness increases day by day!
 O slumberous heart! Awake and arise! Get ready for the journey to the
 Hereafter!
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ نُودِيَ فِيكُمْ بِالرَّحِيلِ.
-  </p>
-</blockquote>
+> فَقَدْ نُودِيَ فِيكُمْ بِالرَّحِيلِ.
 
 The call of the caravan’s departure has been sounded and all around
 there is the clamor of those who depart and take leave. The agents of
@@ -578,13 +514,9 @@ there is the clamor of those who depart and take leave. The agents of
 moment nearer and nearer to the gates of the Hereafter and yet you are
 neglectful, unmindful and ignorant!
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إنِّي أَسْأَلُكَ التَّجَافِي عَنْ دَارِ الغُرُورِ
-والإنَابَةَ إلَى دَارِ السُّرُورِ والإسْتِعْدَادِ لِلْمَوْتِ قَبْلَ
-حُلُولِ الفَوْتِ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إنِّي أَسْأَلُكَ التَّجَافِي عَنْ دَارِ الغُرُورِ
+> والإنَابَةَ إلَى دَارِ السُّرُورِ والإسْتِعْدَادِ لِلْمَوْتِ قَبْلَ
+> حُلُولِ الفَوْتِ.
 
 O God, I implore Thee to save me from the house of illusion and the
 abode of delirium and help me return to the abode of joy. Grant me the
@@ -603,5 +535,4 @@ ability and preparedness to die before such an opportunity is lost.
 [^6]: Al-Tabarsi, Majma’ al-bayan, vol. 3.
 
 [^7]: Al-Amini, al-Ghadir, vol. 3, p. 100.
-
 

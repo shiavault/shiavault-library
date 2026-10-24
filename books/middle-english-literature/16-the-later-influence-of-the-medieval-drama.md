@@ -6,4 +6,3 @@ sixteenth at which we have thus hastily glanced--folk-plays, mummings
 and disguisings, secular pageants, Mystery plays, Moralities, and
 Interludes--have little but a historical importance.
 
-

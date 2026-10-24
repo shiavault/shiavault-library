@@ -12,13 +12,9 @@ The relationship between a husband and wife is not like that of
 neighbors or friends; it is much more extreme—on the verge of unity. The
 Quran expresses this nicely:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
-لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ
-فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
+> لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ
+> فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 
 ***“And of His signs is that He has created for you, from yourselves,
 spouses that you may gain peace through them and He has set among you
@@ -29,11 +25,7 @@ The statement, ‘*He has created for you, from yourselves, spouses*’,
 indicates the intensity of the connection and relationship. In another
 verse regarding husbands and wives it states:
 
-<blockquote dir="rtl">
-  <p>
-...هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ...
-  </p>
-</blockquote>
+> ...هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ...
 
 ***“They (women) are a garment for you (men) and you are a garment for
 them.”***[^2]
@@ -62,11 +54,7 @@ are as follows:
 Wives and husbands must behave properly with one another and observe
 fine etiquette. The Quran declares:
 
-<blockquote dir="rtl">
-  <p>
-...وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ...
-  </p>
-</blockquote>
+> ...وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ...
 
 ***“And consort with them (your wives) in honor and equity***
 **[*****ma‘ruf*****]*****.”***[^3]
@@ -82,12 +70,8 @@ supportive, trustworthy, loyal, well-wishing, and polite with one other.
 Various Hadith also emphasize sociability and geniality between spouses.
 The Prophet of Islam (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن النبیّ (ص)، قال: «أکمل المؤمنین إیماناً، احسنهم خلقاً، و خیارکم
-خیارکم لنسائه.»
-  </p>
-</blockquote>
+> عن النبیّ (ص)، قال: «أکمل المؤمنین إیماناً، احسنهم خلقاً، و خیارکم
+> خیارکم لنسائه.»
 
 The most complete persons in faith are those who have the best manners
 and the good among you are those who are good with their wives.[^4]
@@ -100,14 +84,10 @@ home to apply cosmetics and adorn themselves for their husbands, wear
 their best clothes, be neat and clean, and apply fragrant perfumes. Imam
 Sadiq (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی عبدالله (ع) قال: «جاءت امرأة إلی رسول الله (ص)، و قالت: یا رسول
-الله! ما حقّ الزوج علی المرأة؟»—فی حدیث إلی أن—قال: «و علیها أن تتطیّب
-بأطیب طیبها، و تلبس أحسن ثیابها، و تتزیّن بأحسن زینتها، و تعرض نفسها
-علیه غدوة و عشیّة، و أکثر من ذلک حقوقه علیها.»
-  </p>
-</blockquote>
+> عن أبی عبدالله (ع) قال: «جاءت امرأة إلی رسول الله (ص)، و قالت: یا رسول
+> الله! ما حقّ الزوج علی المرأة؟»—فی حدیث إلی أن—قال: «و علیها أن تتطیّب
+> بأطیب طیبها، و تلبس أحسن ثیابها، و تتزیّن بأحسن زینتها، و تعرض نفسها
+> علیه غدوة و عشیّة، و أکثر من ذلک حقوقه علیها.»
 
 A woman came to the Prophet of Allah (S) and asked, ‘What are the rights
 of a husband regarding his wife?’ He replied, ‘Her duty is to perfume
@@ -121,13 +101,9 @@ and clean, perfumed and well-dressed, he must style his hair and face
 regularly, and make himself handsome for his wife. Imam Ja‘far ibn
 Muhammad (‘a) has cited the Prophet of Allah (S) through his fathers:
 
-<blockquote dir="rtl">
-  <p>
-جعفر بن محمد، عن أبیه، عن جدّه علی بن الحسین، عن علیّ (ع)، قال: قال
-رسول الله (ص): «لیتهیّأ أحدکم لزوجته کما تتهیّأ زوجته له»—قال جعفر بن
-محمّد (ع):—«یعنی یتهیّأ بالنظافة.»
-  </p>
-</blockquote>
+> جعفر بن محمد، عن أبیه، عن جدّه علی بن الحسین، عن علیّ (ع)، قال: قال
+> رسول الله (ص): «لیتهیّأ أحدکم لزوجته کما تتهیّأ زوجته له»—قال جعفر بن
+> محمّد (ع):—«یعنی یتهیّأ بالنظافة.»
 
 ‘Each of you must prepare yourselves for your wives; just as your wives
 prepare themselves for you.’ Then Imam Ja‘far (‘a) stated, ‘This means
@@ -135,12 +111,8 @@ that each of you must be neat and clean.’[^6]
 
 The Prophet of Allah has stated:
 
-<blockquote dir="rtl">
-  <p>
-قال النبیّ (ص): «حقّ المرأة علی زوجها أن یسدّ جوعتها، و أن یستر
-عورتها، و لا یقبح لها وجهاً، فإذا فعل ذلک فقد و الله أدّیٰ حقّها.»
-  </p>
-</blockquote>
+> قال النبیّ (ص): «حقّ المرأة علی زوجها أن یسدّ جوعتها، و أن یستر
+> عورتها، و لا یقبح لها وجهاً، فإذا فعل ذلک فقد و الله أدّیٰ حقّها.»
 
 The rights of a wife regarding her husband are that he must provide her
 nourishment and clothing and must not appear to her with an ugly
@@ -149,14 +121,10 @@ rights.[^7]
 
 Hasan ibn al-Jahm has said:
 
-<blockquote dir="rtl">
-  <p>
-حسن بن الجهم، قال: رأیت أبالحسن (ع) اختضب، فقلت: —جعلت فداک—أختضبت؟
-فقال: «نعم، إنّ التهیئة ممّا یزید فی عفّة النساء، و لقد ترک النساء
-العفّة بترک أزواجهنّ التهیئة»،—ثمّ قال: —«أيسرّک أن تراها علی ما تراک
-علیه إذا کنت علی غیر تهیئة؟» قلت: لا. قال: «فهو ذلک.»
-  </p>
-</blockquote>
+> حسن بن الجهم، قال: رأیت أبالحسن (ع) اختضب، فقلت: —جعلت فداک—أختضبت؟
+> فقال: «نعم، إنّ التهیئة ممّا یزید فی عفّة النساء، و لقد ترک النساء
+> العفّة بترک أزواجهنّ التهیئة»،—ثمّ قال: —«أيسرّک أن تراها علی ما تراک
+> علیه إذا کنت علی غیر تهیئة؟» قلت: لا. قال: «فهو ذلک.»
 
 I saw Imam Musa ibn Ja‘far (‘a) who had dyed his hair. I said, ‘May I be
 sacrificed for you! You have dyed your hair!?’ He replied, ‘Yes. Surely
@@ -178,12 +146,8 @@ and gratification. Whenever one party is inclined to sexual acts, the
 other must prepare themselves and not bring excuses. The Prophet of
 Islam (S) would instruct women as follows:
 
-<blockquote dir="rtl">
-  <p>
-أبو بصیر عن أبی جعفر (ع) قال: قال رسول الله (ص) للنساء: «لا تطولنّ
-صلاتکنّ لتمنعنّ ازواجکنّ.»
-  </p>
-</blockquote>
+> أبو بصیر عن أبی جعفر (ع) قال: قال رسول الله (ص) للنساء: «لا تطولنّ
+> صلاتکنّ لتمنعنّ ازواجکنّ.»
 
 Do not lengthen your *Salat* to forestall your husbands (from sexual
 pleasure).[^9]
@@ -195,21 +159,13 @@ significant effect on good relations between spouses and bolsters the
 constitution of their family. Addressing men, Amir al-Mu’minin (‘a) has
 declared:
 
-<blockquote dir="rtl">
-  <p>
-عن علیّ (ع) قال: قال رسول الله (ص): «إذا أتی أحدکم امرأته فلا یعجلها.»
-  </p>
-</blockquote>
+> عن علیّ (ع) قال: قال رسول الله (ص): «إذا أتی أحدکم امرأته فلا یعجلها.»
 
 Whenever you approach your wives, do not hurry (in lovemaking).[^10]
 
 According to a Hadith, Imam Ridha (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن الرضا (ع) —فی حدیث إلی أن—قال: «و اشتهت منک مثل الذی تشتهیه منها.»
-  </p>
-</blockquote>
+> عن الرضا (ع) —فی حدیث إلی أن—قال: «و اشتهت منک مثل الذی تشتهیه منها.»
 
 Your wives expect from you similar to that which you expect from
 them.[^11]
@@ -237,13 +193,9 @@ In Islam, the responsibility of guardianship, supervision, and
 management of the family have been set on the shoulders of men. Allah,
 the Exalted, has stated in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء بِمَا فَضَّلَ اللّهُ بَعْضَهُمْ
-عَلَى بَعْضٍ وَبِمَا أَنفَقُواْ مِنْ أَمْوَالِهِمْ فَالصَّالِحَاتُ
-قَانِتَاتٌ حَافِظَاتٌ لِّلْغَيْبِ بِمَا حَفِظَ اللّهُ...
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء بِمَا فَضَّلَ اللّهُ بَعْضَهُمْ
+> عَلَى بَعْضٍ وَبِمَا أَنفَقُواْ مِنْ أَمْوَالِهِمْ فَالصَّالِحَاتُ
+> قَانِتَاتٌ حَافِظَاتٌ لِّلْغَيْبِ بِمَا حَفِظَ اللّهُ...
 
 *“Men are the protectors and supervisors of women because of the
 advantage Allah has given some over others and because they support them
@@ -302,12 +254,8 @@ and preventing social and ethical corruption within the family
 In Islam, it is a man’s duty to provide for all living expenses of the
 family. Ishaq ibn ‘Ammar asked the noble Imam Sadiq (‘a):
 
-<blockquote dir="rtl">
-  <p>
-سأل إسحاق بن عمّار أباعبدالله (ع) عن حقّ المرأة علی زوجها قال: «یشبع
-بطنها، و یکسوها، و إن جهلت غفر لها.»
-  </p>
-</blockquote>
+> سأل إسحاق بن عمّار أباعبدالله (ع) عن حقّ المرأة علی زوجها قال: «یشبع
+> بطنها، و یکسوها، و إن جهلت غفر لها.»
 
 ‘What are the rights of a wife upon her husband?’ He replied, ‘He must
 fill her stomach and provide her clothing and if she makes a mistake, he
@@ -320,14 +268,10 @@ God. He must honor her, be gentle with her, forgive her mistakes, and
 refrain from strictness and stubbornness. Islam regards this attitude a
 wife’s right and a husband’s duty. Imam Sajjad (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-قال علیّ بن الحسین (ع): «و أمّا حق الزوجة: فأن تعلم أنّ الله جعلها
-سکناً و أُنساً، فتعلم أنّ ذلک نعمة من الله علیک فتکرمها و ترفق بها، و
-إن کان حقّک علیها اُوجب، فإنّ لها عليک أنّ ترحمها؛ لأنّها أسيرتک، و
-تطعمها و تکسوها، و إذا جهلت عفوت عنها.»
-  </p>
-</blockquote>
+> قال علیّ بن الحسین (ع): «و أمّا حق الزوجة: فأن تعلم أنّ الله جعلها
+> سکناً و أُنساً، فتعلم أنّ ذلک نعمة من الله علیک فتکرمها و ترفق بها، و
+> إن کان حقّک علیها اُوجب، فإنّ لها عليک أنّ ترحمها؛ لأنّها أسيرتک، و
+> تطعمها و تکسوها، و إذا جهلت عفوت عنها.»
 
 The rights of a wife are that you must know that Allah has made her (an
 instrument of) peace and friendship; then you must know that she is a
@@ -350,12 +294,8 @@ from the fires of Hell and invite her to Heaven.
 This is one of the results and requirements of supervision, which is the
 responsibility of men. The Quran proclaims:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا
-وَقُودُهَا النَّاسُ وَالْحِجَارَةُ...
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا
+> وَقُودُهَا النَّاسُ وَالْحِجَارَةُ...
 
 ***“O people of faith! Save yourselves and your families from the Fire
 whose fuel is humans and stones.”***[^15]
@@ -367,11 +307,7 @@ which have been indicated in various Hadith. All these responsibilities
 can be epitomized in one phrase: taking good care of one’s husband. Amir
 al-Mu’minin (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-قال علیّ (ع): «جهادُ المرأة حُسن التّبعُّل.»
-  </p>
-</blockquote>
+> قال علیّ (ع): «جهادُ المرأة حُسن التّبعُّل.»
 
 The jihad of a woman is taking good care of her husband.[^16]
 
@@ -417,13 +353,9 @@ and lovemaking; except where religiously prohibited
 
 Imam Sadiq (‘a) has cited the Prophet of Allah (S) through his fathers:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی عبدالله (ع) عن آبائه (ع) قال: قال النبیّ (ص): «ما إستفاد امرئ
-مسلم فائدة بعد الإسلام أفضل من زوجة مسلمة تسرّه إذا نظر إلیها، و تطیعه
-إذا أمرها، و تحفظه إذا غاب عنها فی نفسها و ماله.»
-  </p>
-</blockquote>
+> عن أبی عبدالله (ع) عن آبائه (ع) قال: قال النبیّ (ص): «ما إستفاد امرئ
+> مسلم فائدة بعد الإسلام أفضل من زوجة مسلمة تسرّه إذا نظر إلیها، و تطیعه
+> إذا أمرها، و تحفظه إذا غاب عنها فی نفسها و ماله.»
 
 No Muslim man has gained more benefit after becoming Muslim than through
 a Muslim wife who gives him a feeling of happiness when he looks at her,
@@ -432,14 +364,10 @@ property when he is absent.[^17]
 
 Imam Muhammad Baqir (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی جعفر (ع) قال: جاءت امرأة إلی النبیّ (ص) فقالت: یا رسول الله! ما
-حق الزوج علی المرأة؟ فقال لها: «أن تطیعه، و لا تعصیه، و لا تصدّق من
-بیته إلّا بإذنه، و لا تصوم تطوّعاً إلّا بإذنه، و لا تمنعه نفسها و إن
-کانت علی ظهر قتب، و لا تخرج من بیتها إلّا بإذنه.»
-  </p>
-</blockquote>
+> عن أبی جعفر (ع) قال: جاءت امرأة إلی النبیّ (ص) فقالت: یا رسول الله! ما
+> حق الزوج علی المرأة؟ فقال لها: «أن تطیعه، و لا تعصیه، و لا تصدّق من
+> بیته إلّا بإذنه، و لا تصوم تطوّعاً إلّا بإذنه، و لا تمنعه نفسها و إن
+> کانت علی ظهر قتب، و لا تخرج من بیتها إلّا بإذنه.»
 
 A woman came to the Prophet (S) and said, ‘O Messenger of Allah! What
 are the rights of men upon their wives?’ He replied, ‘She must obey him
@@ -483,5 +411,4 @@ of a camel. And she must not exit her home without his permission.[^18]
 [^17]: - Wasa’il ush-Shi‘ah, vol. 20, p. 41.
 
 [^18]: - Ibid, p. 158.
-
 

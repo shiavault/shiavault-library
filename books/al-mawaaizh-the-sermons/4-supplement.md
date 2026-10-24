@@ -1,7 +1,6 @@
 Supplement
 ==========
 
-<p dir="rtl">
 من نام على سطح غير محجّر، فقد برئت منه الذمّة.
 وكره أن ينام الرجل في بيت وحده.
 وكره أن يغشى الرجل إمرأته وهي حائض، فإن فعل وخرج الولد مجنون أو به برص
@@ -11,7 +10,6 @@ Supplement
 وكره أن يأتي الرجل أهله وقد احتلم حتى يغتسل من الاحتلام. فإن فعل ذلك
 وخرج الولد مجنوناً فلا يلومنّ إلاّ نفسه.
 وكره البول على شطّ نهر جار.
-</p>
 
 "No responsibility is taken of those who sleep on a surface (of a
 house) without a fence." He disliked for men to sleep alone in a house.
@@ -35,7 +33,6 @@ al-Khissal; 2:520.
 10. This statement seems to be within the comment of the compiler.
 Probably, it is said by Amir ul-Mu'minin (a).
 
-<p dir="rtl">
 وكره أن يحدث الرجل تحت شجرة أو نخلة قد أثمرت.
 وكره أن يحدث الرجل وهو قائم.
 وكره أن ينتعل الرجل وهو قائم.
@@ -44,7 +41,6 @@ Probably, it is said by Amir ul-Mu'minin (a).
 يا عليّ، من خاف الله عزّ وجلّ أخاف منه كلّ شيء، ومن لم يخف الله عزّ
 وجلّ أخافه من كلّ شيء.
 يا عليّ، ثمانية لا يقبل الله منهم الصلاة:
-</p>
 
 He disliked for men to excrete under a fruitful tree (including
 date-palm trees).
@@ -57,7 +53,6 @@ O Ali, as for him who fears Allah, Allah will make everything fear him,
 and will make him who does not fear Him fear everything.
 O Ali, Allah will not accept the prayers of eight classes:
 
-<p dir="rtl">
 العبد الآبق حتّى يرجع إلى مولاه، والناشز وزوجها عليها ساخط، ومانع
 الزكاة، وتارك الوضوء، والجارية المدركة تصلّي بغير خمار، وإمام قوم يصلّي
 بهم وهم له كارهون، والسكران والزنين ـ وهو الذي يدافع البول والغائط. يا
@@ -66,7 +61,6 @@ O Ali, Allah will not accept the prayers of eight classes:
 عزّ وجلّ بهنّ فهو من أفضل الناس: مَن أتى الله بما افترض عليه فهو من أعبد
 الناس، ومَن ورع عن محارم الله عزّ وجلّ، فهو من أورع الناس، ومَن قنع بما
 رزقه الله، فهو من أغنى الناس.
-</p>
 
 The fugitive slaves until they return to their masters, the
 recalcitrant wives whose husbands are angry at them, those who refrain
@@ -84,7 +78,6 @@ obligatory duties of Allah properly. The most pious of people is he who
 abstains from the forbidden matters. The wealthiest of people is he who
 satisfies himself with that which Allah has given to him.
 
-<p dir="rtl">
 يا عليّ، ثلاث لا تطيقها هذه الاُمّة: المواساة للأخ في ماله، وإنصاف
 الناس من نفسه، وذكر الله على كلّ حال، وليس هو سبحان الله والحمد لله ولا
 إله إلاّ الله والله أكبر، ولكن إذا ورد على ما يحرم عليه خاف الله عّز
@@ -92,7 +85,6 @@ satisfies himself with that which Allah has given to him.
 يا عليّ، ثلاثة لا ينتصفون من ثلاثة: حرّ من عبد، وعالم من جاهل، وقويّ من
 ضعيف. يا عليّ، سبعة من كنّ فيه فقد استكمل حقيقة الايمان وأبواب الجنّة
 مفتّحة له:
-</p>
 
 O Ali, the umma cannot stand three characters: to console the friends
 by offering them one's fortune, to consider people fairly, and to
@@ -116,7 +108,6 @@ such an aggressive spirit. It is not an encouragement to avoid treating
 them fairly. It is only an invitation to treat them courteously and
 stand their harm.
 
-<p dir="rtl">
 مَن أسبغ وضوءه، وأحسن صلاته، وأدّى زكاة ماله، وكفّ غضبه، وسجن لسانه،
 واستغفر الله لذنبه، وأدّت النصيحة لأهل بيت نبيّه.
 يا عليّ، لعن الله ثلاثة: آكل زاده وحده، وراكب الفلاة وحده، والنائم في
@@ -126,7 +117,6 @@ stand their harm.
 يا عليّ، ثلاثة يحسن فيهنّ الكذب: المكيدة في الحرب، وعدتك زوجتك،
 والإصلاح بين الناس.
 يا عليّ، ثلاثة مجالستهم تميت القلب:
-</p>
 
 To perform the (ritual) ablution properly, offer the prayers perfectly,
 defray the zakat, suppress the anger, control the tongue, seek Allah's
@@ -141,7 +131,6 @@ O Ali, lying is acceptable in three situations: in trickeries of war,
 promising one's wife, and reconciliation between two parties.
 O Ali, sitting with three ones deadens the heart:
 
-<p dir="rtl">
 مجالسة الأنذال، ومجالسة الأغنياء، والحديث مع النساء.
 يا عليّ، ثلاثة من حقائق الايمان: الإنفاق من الإقتار، وإنصافك الناس من
 نفسك، وبذل العلم للمتعلّم.
@@ -150,7 +139,6 @@ O Ali, sitting with three ones deadens the heart:
 يا عليّ، ثلاث فرحات للمؤمن في الدنيا: لقاء الإخوان، وتفطير الصائم،
 والتهجّد في آخر الليل.
 يا عليّ، أنهاك عن ثلاث خصال: الحسد والحرص والكبر.
-</p>
 
 To sit with the mean and the rich and to talk with women (excessively).
 O Ali, within the realities of faith is to spend in times of hardship,
@@ -166,7 +154,6 @@ night.
 O Ali, I warn you against three characters: envy, acquisitiveness, and
 arrogance.
 
-<p dir="rtl">
 يا عليّ، أربع خصال من الشقاء: جمود العين، وقساوة القلب، وبُعد الأمل،
 وحبّ البقاء. يا عليّ، ثلاثٌ درجات وثلاثٌ كفّارات وثلاثٌ مهلكات وثلاثٌ
 منجيات. فأمّا الدرجات: فإسباغ الوضوء في السبرات، وانتظار الصلاة بعد
@@ -175,7 +162,6 @@ arrogance.
 فشحُّ مطاع، وهوى متّبع، وإعجاب المرء بنفسه. وأمّا المنجيات: فخوف الله
 تعالى في السرِّ والعلانية، والقصد في الغناء والفقر، وكلمة العدل في الرضا
 والسخط.
-</p>
 
 O Ali, four things are signs of unhappiness: solidity of the eye,
 hardheartedness, long hope, and fondness of the worldly survival.
@@ -194,14 +180,12 @@ Allah, Exalted is He, openly and secretly, to be moderate in richness
 and poverty, and to say the right in situations of satisfaction and
 dissatisfaction.
 
-<p dir="rtl">
 يا عليّ، لا رضاع بعد فطام، ولا يتمّ بعد احتلام. يا عليّ، سِر سنتين بّر
 والديك، سِر سنة صل رحمك، سِر ميلاً عد مريضاً، سِر ميلين شيّع جنازة، سِر
 ثلاثة أميال أجب دعوة، سِر أربعة أميال زُر أخاً في الله، سِر خمسة أميال
 أجب الملهوف، سِر ستّة أميال انصر المظلوم، وعليك بالاستغفار. يا عليّ،
 للمؤمن ثلاث علامات: الصلاة، والزكاة، والصيام. وللمتكلّف ثلاث علامات:
 يتملّق إذا حضر، ويغتاب إذا غاب، ويشمت بالمعصية.
-</p>
 
 O Ali, suckling after weaning is void and orphanage after puberty is
 meaningless. O Ali, walk for two years so as to treat your parents
@@ -225,7 +209,6 @@ causes you to walk a distance that takes two years.
 13. In al-Faqih and al-Bihar, 'act of disobedience' replaces
 'misfortune'.
 
-<p dir="rtl">
 وللظّالم ثلاث علامات: يقهر من دونه بالغلبة، ومن فوقه بالمصيبة، ويظاهر
 الظلمة. وللمرائي ثلاث علامات: ينشط إذا كان عند الناس، ويكسل إذا كان
 وحده، ويحبّ أن يحمد في جميع اُموره. وللمنافق ثلاث علامات: إذا حدّث كذب،
@@ -233,7 +216,6 @@ causes you to walk a distance that takes two years.
 التفّاح الحامض، وأكل الكزبرة والجبن، وسؤر الفارة، وقراءة كتابة القبور،
 والمشي بين إمرأتين، وطرح القمّلة، والحجامة في النقرة، والبول في الماءِ
 الراكد.
-</p>
 
 The unjust enjoys three characteristics: he dominates him who is less
 powerful than he is by means of his powers, dominates him who is more
@@ -251,7 +233,6 @@ urinate in stagnant water.
 14. In al-Faqih, 'misfortune' replaces 'acts of disobedience (to
 God)'.
 
-<p dir="rtl">
 يا عليّ، العيش في ثلاثة: دار قوراء نوراء، وجارية حسناء، وفرس قبّاء. يا
 عليّ، والله لو أنّ المتواضع في قعر بئر لبعث الله عزّ وجلّ إليه ريحاً
 ترفعه فوق الأخيار في دولة الأشرار. يا عليّ، من انتمى إلى غير مواليه
@@ -259,7 +240,6 @@ God)'.
 آوى محدثاً فعليه لعنة الله. فقيل: يا رسول الله، وما ذلك الحدث؟ قال:
 القتل. يا عليّ، المؤمن من أمنه المسلمون على أموالهم ودمائهم، والمسلم من
 سلم المسلمون من يده ولسانه، والمهاجر من هاجر السيئات.
-</p>
 
 O Ali, nice life lies in three: wide house, beautiful maiden, and
 handsome horse. O Ali, if the modest, in the government of the evils,
@@ -277,7 +257,6 @@ with their estates and souls. The true Muslim is only he whom Muslims
 are saved from his hand -physical harm- and tongue- verbal harm-. The
 true Muhajir -emigrant- is that who deserts the sins.
 
-<p dir="rtl">
 يا عليّ، أوثق عرى الإيمان الحبّ في الله، والبغض في الله. يا عليّ، من
 أطاع إمرأته أكبّه الله عزّ وجلّ على وجهه في النّار. فقال عليّ عليه
 السلام: وما تلك الطاعة؟ قال: يأذن لها في الذهاب إلى الجماعات والعرسات
@@ -285,7 +264,6 @@ true Muhajir -emigrant- is that who deserts the sins.
 بالإسلام نخوة الجاهليّة وتفاخرها بآبائها، ألا إنّ الناس من آدم، وآدم من
 تراب، وأكرمهم عند الله أتقاهم. يا عليّ، من السحت: ثمن الميتة، وثمن
 الكلب، وثمن الخمر، ومهر الزانية، والرشوة في الحكم، وأجر الكاهن.
-</p>
 
 O Ali, the firmest handle of faith is to support and hate for the sake
 of Allah. O Ali, for those who obey their wives, Allah will turn them on
@@ -306,7 +284,6 @@ ill-gotten properties.
 15. 'Public bathrooms' replaces 'collections' in other reference books
 that refer to this narration.
 
-<p dir="rtl">
 يا عليّ، مَن تعلّم علماً ليماري به السفهاء، أو يجادل به العلماء، أو
 يدعو الناس إلى نفسه، فهو من أهل النار. يا عليّ، إذا مات العبد قال الناس:
 مَا خلّف؟ وقالت الملائكة: ما قَدّم؟ يا عليّ، الدّنيا سجن المؤمن وجنّة
@@ -314,7 +291,6 @@ that refer to this narration.
 تبارك وتعالى إلى الدنيا "أخدمي من خدمني، وأتعبي من خدمك". يا عليّ، إن
 الدنيا لو عدلت عند الله تبارك وتعالى جناح بعوضة لما سقى الكافر منها شربة
 ماء.
-</p>
 
 O Ali, as for those who learn (knowledge) for the purpose of disputing
 with the foolish ones, vying proudly with the scholars, or attracting
@@ -333,5 +309,4 @@ it equals for Him the amount of a mosquito's wing.
 16. Refer to Jami ul-Akhbar; 177, Oddat ud-Da'ee; 111, al-Odad
 ul-Qawiyya; 150, Mekarim ul-Akhlaq; 439, Keshf ul-Ghumma; 2:183, and
 Bihar ul-Anwar; 77:54 H.3 and 78:203 H.40.
-
 

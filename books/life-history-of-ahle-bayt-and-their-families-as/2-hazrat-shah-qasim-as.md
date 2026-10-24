@@ -369,4 +369,3 @@ He cries out in a trembling voice :
 
 "Assalaamu 'alaika, Ya 'aba 'Abdillah !!!"
 
-

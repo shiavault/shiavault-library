@@ -60,4 +60,3 @@ al-Saqqa, et al. Egypt, 1335/1936; Alfred Guillaume, The Life of
 Muhammad, a translation of [Ibn] Ishaq's Sirat Rasul Allah, London,
 1955.
 
-

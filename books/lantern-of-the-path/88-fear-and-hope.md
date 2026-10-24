@@ -32,4 +32,3 @@ strengthens the connection of love; while open hope fulfils a man's
 expectations regarding his incapacity and shortcomings in the things he
 has done during his life.
 
-

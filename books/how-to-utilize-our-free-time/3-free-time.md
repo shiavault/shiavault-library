@@ -109,7 +109,6 @@ order to renew one's activity. This is a part of work, not free time. It
 is something desirable due to its being the time which distributes more
 abundance to other times.
 
-
 **Utilizing Free Time**
 
 Leisure is defined by those concerned as free time and in which one is
@@ -220,7 +219,6 @@ in time of need.
 In these meetings and sessions, we may, also, become acquainted with a
 great number of educated people, writers, authors, and personalities who
 participate in such cultural, ideological and literary activities.
-
 
 **3- Listening and Watching:**
 
@@ -516,7 +514,6 @@ while I was sinning against Allah?"!! Indeed, the Imam's answer is a
 precious lesson which has to be taken into consideration by the Muslim
 youth.
 
-
 **Sleeping and Staying up at Night**
 
 No doubt, sleep is a natural need of man. Allah, the Glorified, granted
@@ -558,7 +555,6 @@ not confirm either prodigality or negligence in any thing. In this
 regard, the Almighty, Allah says: "And thus We made you a nation justly
 balanced." (Holy Qur'an (2: 143)
 
-
 **A Final Word**
 
 This is the glass of our age before us - Allah's deposit upon our
@@ -597,5 +593,4 @@ on them."
 - "This world is a passage, while the next world is the place of
 dwelling; so, take your passage (as a way by performing good deeds) to
 your abode.
-
 

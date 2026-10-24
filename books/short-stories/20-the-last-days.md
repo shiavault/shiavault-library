@@ -109,4 +109,3 @@ created to achieve perfection through the worship of Allah the Almighty.
 When one dies, one will reap what one has sown. Oh, you who think you
 are safe, be careful! You will not be spared.
 
-

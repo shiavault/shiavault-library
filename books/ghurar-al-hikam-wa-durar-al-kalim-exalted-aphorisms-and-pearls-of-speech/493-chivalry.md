@@ -16,10 +16,5 @@ than chivalry.
 brothers and fulfilling one’s obligation towards his neighbours.
 
 > 3ـ نِظامُ الفُتُوَّةِ اِحْتِمالُ عَثَراتِ الإخْوانِ،وَ حُسْنُ
-<blockquote dir="rtl">
-  <p>
-تَعَهُّدِ الجيرانِ.
-  </p>
-</blockquote>
-
+> تَعَهُّدِ الجيرانِ.
 

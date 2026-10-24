@@ -856,4 +856,3 @@ translation of his book in Arabic by Khalili, pp. 139-143
 
 [^11]: Ibid., Sermon No. 235
 
-

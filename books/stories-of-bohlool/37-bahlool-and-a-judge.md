@@ -41,4 +41,3 @@ yourself want. That is their right.”
 The judge became helpless at Bahlool's answer and was compelled to give
 the orphans the 900 dinars.
 
-

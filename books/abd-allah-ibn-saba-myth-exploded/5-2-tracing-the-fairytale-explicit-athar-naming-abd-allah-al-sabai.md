@@ -5,14 +5,10 @@ There is only one report in the Sunni books mentioning a man named ‘Abd
 Allah al-Sabai. This is the *riwayah* as documented by Imam Ibn Abi
 ‘Asim (d. 287 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا محمد بن الحسن الأسدي حدثنا هارون بن
-صالح عن الحارث بن عبد الرحمن عن أبي الجلاس قال سمعت عليا يقول لعبدالله
-السبائي ويلك ما أفضي إلى رسول الله صلى الله عليه وسلم بشيء كتمه أحدا
-من الناس ولقد سمعته يقول إن بين يدي الساعة ثلاثين كذابا وإنك أحدهم
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا محمد بن الحسن الأسدي حدثنا هارون بن
+> صالح عن الحارث بن عبد الرحمن عن أبي الجلاس قال سمعت عليا يقول لعبدالله
+> السبائي ويلك ما أفضي إلى رسول الله صلى الله عليه وسلم بشيء كتمه أحدا
+> من الناس ولقد سمعته يقول إن بين يدي الساعة ثلاثين كذابا وإنك أحدهم
 
 Abu Bakr b. Abi Shaybah – Muhammad b. al-Hasan al-Asadi – **Harun b.
 Salih** – al-Harith b. ‘Abd al-Rahman – **Abu al-Jalas**:
@@ -25,18 +21,10 @@ you are one of them.”[^1]
 
 ‘Allamah al-Albani (d. 1420 H) has this verdict on it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف، أبو الجلاس كوفي مجهول كما في " التقريب ". وهارون بن صالح
-مجهول أيضا، وفي " التقريب ": مستور.
-  </p>
-</blockquote>
+> إسناده ضعيف، أبو الجلاس كوفي مجهول كما في " التقريب ". وهارون بن صالح
+> مجهول أيضا، وفي " التقريب ": مستور.
 
-<blockquote dir="rtl">
-  <p>
-والحديث أخرجه أبو يعلى من طريقين آخرين عن الأسدي به
-  </p>
-</blockquote>
+> والحديث أخرجه أبو يعلى من طريقين آخرين عن الأسدي به
 
 **Its chain is** ***dha’if*****. Abu al-Jalas Kufi is** ***majhul***
 **(unknown)**, as stated in *al-Taqrib*. **Harun b. Salih too is**
@@ -48,14 +36,10 @@ from al-Asadi with it.[^2]
 So, let us find out the other two chains recorded by Imam Abu Ya’la (d.
 307 H). This is the first:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو كريب محمد بن العلاء حدثنا محمد بن الحسن الأسدي حدثنا هارون
-بن صالح الهمداني عن الحارث بن عبد الرحمن عن أبي الجلاس قال سمعت عليا
-يقول لعبد الله السبائي : ويلك ! والله ما أفضى إلي بشيء كتمه أحدا من
-الناس ولقد سمعته يقول : إن بين يدي الساعة ثلاثين كذابا وإنك لأحدهم
-  </p>
-</blockquote>
+> حدثنا أبو كريب محمد بن العلاء حدثنا محمد بن الحسن الأسدي حدثنا هارون
+> بن صالح الهمداني عن الحارث بن عبد الرحمن عن أبي الجلاس قال سمعت عليا
+> يقول لعبد الله السبائي : ويلك ! والله ما أفضى إلي بشيء كتمه أحدا من
+> الناس ولقد سمعته يقول : إن بين يدي الساعة ثلاثين كذابا وإنك لأحدهم
 
 Abu Kurayb Muhammad b. al-‘Ala – Muhammad b. al-Hasan al-Asadi – **Harun
 b. Salih al-Hamdani** – al-Harith b. ‘Abd al-Rahman – **Abu al-Jalas**:
@@ -68,21 +52,13 @@ them.”[^3]
 
 The annotator, Shaykh Dr. Asad comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف
-  </p>
-</blockquote>
+> إسناده ضعيف
 
 Its chain is *dha’if*.[^4]
 
 What about the second? Abu Ya’la says:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا محمد بن الحسن بإسناده مثله
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا محمد بن الحسن بإسناده مثله
 
 Abu Bakr b. Abi Shaybah narrated to us – Muhammad b. al-Hasan narrated
 the like of it to us with his chain.[^5]
@@ -106,18 +82,10 @@ Allah al-Sabai. But, there were other ‘Abd Allahs as well, from the same
 lineage of Saba, who were also known with that title. Imam al-Dhahabi
 (d. 748 H) tells us about one of them:
 
-<blockquote dir="rtl">
-  <p>
-(وقعة النهروان)
-  </p>
-</blockquote>
+> (وقعة النهروان)
 
-<blockquote dir="rtl">
-  <p>
-وفيها سارت الخوارج لحرب علي، فكانت بينهم وقعة النهروان، وكان على
-الخوارج عبد الله بن وهب السبائي، فهزمهم علي وقتل أكثرهم، وقتل ابن وهب.
-  </p>
-</blockquote>
+> وفيها سارت الخوارج لحرب علي، فكانت بينهم وقعة النهروان، وكان على
+> الخوارج عبد الله بن وهب السبائي، فهزمهم علي وقتل أكثرهم، وقتل ابن وهب.
 
 The Incident of al-Nahrawan
 
@@ -133,15 +101,11 @@ However, there is some evidence that the “ ‘Abd Allah al-Sabai” in the
 report of Abu Ya’la was actually ‘Abd Allah b. Saba, and none else.
 Al-Hafiz Ibn Kathir (d. 774 H) copies:
 
-<blockquote dir="rtl">
-  <p>
-وقال الحافظ أبو يعلى : حدثنا أبو كريب، حدثنا محمد بن الحسن الأسدي،
-حدثنا هارون بن صالح الهمداني ، عن الحرص بن عبد الرحمن، عن أبي الجلاس
-قال : سمعت علياً يقول لعبد الله بن سبأ ، ويلك والله ما أفضي إليَّ بشيء
-كتمه أحداً من الناس ، ولقد سمعت رسول الله صلى الله عليه وسلم يقول : إن
-بين يدي الساعة ثلاثين كذاباً وإنك لأحدهم .
-  </p>
-</blockquote>
+> وقال الحافظ أبو يعلى : حدثنا أبو كريب، حدثنا محمد بن الحسن الأسدي،
+> حدثنا هارون بن صالح الهمداني ، عن الحرص بن عبد الرحمن، عن أبي الجلاس
+> قال : سمعت علياً يقول لعبد الله بن سبأ ، ويلك والله ما أفضي إليَّ بشيء
+> كتمه أحداً من الناس ، ولقد سمعت رسول الله صلى الله عليه وسلم يقول : إن
+> بين يدي الساعة ثلاثين كذاباً وإنك لأحدهم .
 
 **Al-Hafiz Abu Ya’la said**: Abu Kurayb – Muhammad b. al-Hasan al-Asadi
 – Harun b. Salih al-Hamdani – al-Hars b. ‘Abd al-Rahman – Abu al-Jalas:
@@ -154,14 +118,10 @@ them.”[^7]
 
 Al-Hafiz too submits:
 
-<blockquote dir="rtl">
-  <p>
-وقال أبو يعلي الموصلي في مسنده ثنا أبو كريب ثنا محمد بن الحسن الأسدي
-ثنا هارون بن صالح عن الحارث بن عبد الرحمن عن أبي الجلاس سمعت عليا يقول
-لعبد الله بن سبا والله ما أفضى إلي بشئ كتمه أحدا من الناس ولقد سمعت
-يقول إن بين يدي الساعة ثلاثين كذابا وانك لأحدهم
-  </p>
-</blockquote>
+> وقال أبو يعلي الموصلي في مسنده ثنا أبو كريب ثنا محمد بن الحسن الأسدي
+> ثنا هارون بن صالح عن الحارث بن عبد الرحمن عن أبي الجلاس سمعت عليا يقول
+> لعبد الله بن سبا والله ما أفضى إلي بشئ كتمه أحدا من الناس ولقد سمعت
+> يقول إن بين يدي الساعة ثلاثين كذابا وانك لأحدهم
 
 **Abu Ya’la al-Mawsili said in his** ***Musnad***: Abu Kurayb – Muhammad
 b. al-Hasan al-Asadi – Harun b. Salih – al-Harith b. ‘Abd al-Rahman –
@@ -205,5 +165,4 @@ by al-Hafiz.
 [^8]: Shihab al-Din Abu al-Fadhl Ahmad b. ‘Ali b. Hajar al-‘Asqalani,
 Lisan al-Mizan (Beirut: Manshurat Muasassat al-A’lami li al-Matbu’at;
 2nd edition, 1390 H), vol. 3, p. 289-290, \# 1225
-
 

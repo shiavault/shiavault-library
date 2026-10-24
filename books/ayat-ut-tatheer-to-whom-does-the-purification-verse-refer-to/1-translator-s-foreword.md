@@ -62,4 +62,3 @@ able to explain and convey it to others as well. May Allah (SWT) gather
 us with those whom Imam Ali (AS) referred to at the conclusion of
 Hadeeth Al-Kisaa as *“those who attained success and felicity!”*
 
-

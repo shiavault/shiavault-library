@@ -40,4 +40,3 @@ which it had to face in those days from Bani Umayya, and all the
 favorable and unfavorable conditions which prevailed in the year 61 A.H.
 come into existence once again.
 
-

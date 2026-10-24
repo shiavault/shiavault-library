@@ -602,4 +602,3 @@ considered probable that it might have sucked that quantity of milk, the
 child does not become Mahram of anyone, though it is better to observe
 precaution.
 
-

@@ -178,4 +178,3 @@ Marxist Systems) in Ikhtarnalak, 160.
 dis­regards other capitalist economic thinkers who believe that the
 source of economic problem is the distribution of economic wealth.
 
-

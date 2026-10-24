@@ -153,4 +153,3 @@ evil and relative good?
  4. Are earthquakes and hurricanes only harmful?  
  5. What positive effects can undesirable events have upon one’s psyche?
 
-

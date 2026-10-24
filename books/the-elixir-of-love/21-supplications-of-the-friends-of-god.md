@@ -113,11 +113,7 @@ There are some points in this intuition to be pondered about:
 1 The analogy of taking one's vain desire as his god, as the HolyQur'an
 clearly asserts:
 
-<blockquote dir="rtl">
-  <p>
-(أفرأيت من اتخذ الهه هواه)
-  </p>
-</blockquote>
+> (أفرأيت من اتخذ الهه هواه)
 
 (Then seest thou such a one as takes as his god his own vain desire?)
 (al-Jathiyah: 23)
@@ -130,11 +126,7 @@ into a "two Rial coin" in the realm of intuition!
 should give away in the way of his Beloved what he is fond of rather
 than what is of no interest to him to give away:
 
-<blockquote dir="rtl">
-  <p>
-(لن تنالوا البر حتى تنفقوا مما تحبون)
-  </p>
-</blockquote>
+> (لن تنالوا البر حتى تنفقوا مما تحبون)
 
 (By no means shall you attain righteousness unless you give (freely) of
 that which you love.) (Ale 'Imran: 92)
@@ -152,12 +144,8 @@ in this regard as follows:
 whispering prayer to Him, practice benevolence to God's creatures by
 learning it from the Ahl al-Bayt (a) (about whom the Holy Qur'an says):
 
-<blockquote dir="rtl">
-  <p>
-ويطعمون الطعام على حبه مسكيناُ ويتيماُ وأسيرا إنما نطعمكم لوجه الله
-لانريد منكم جزاءً ولا شكوراٌ
-  </p>
-</blockquote>
+> ويطعمون الطعام على حبه مسكيناُ ويتيماُ وأسيرا إنما نطعمكم لوجه الله
+> لانريد منكم جزاءً ولا شكوراٌ
 
 (And they feed for the sake of Allah, the indigent, the orphan, and the
 captive -( saying), 'We feed you for the sake of Allah alone: no reward
@@ -176,12 +164,8 @@ supplicant should know what to say in his whispered prayer to God and
 what to request from Him. In his commentary on supplications, the
 reverend Shaykh emphasized on supplicatory phrases such as:
 
-<blockquote dir="rtl">
-  <p>
-"يا غاية آمال العارفين" و "يا منتهى أمل الآملين" و "يا نعيمي وجنتي ويا
-دنياي وآخرتي"
-  </p>
-</blockquote>
+> "يا غاية آمال العارفين" و "يا منتهى أمل الآملين" و "يا نعيمي وجنتي ويا
+> دنياي وآخرتي"
 
 *"Ya ghayati amali'l arifin", "Ya muntaha amali'l amilin",* and " *Ya na
 'imi wa Jannati wa Ya dunya i* *wa akhirati"* (O Goal of the hopes of
@@ -245,11 +229,7 @@ intercession."
 
 And then he would recite the following verse from the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-(ان النفس لأمارة بالسوء الا ما رحم ربي)
-  </p>
-</blockquote>
+> (ان النفس لأمارة بالسوء الا ما رحم ربي)
 
 (The (human) soul is certainly prone to evil, unless my Lord bestow his
 Mercy.) (Yusuf: 53)
@@ -287,11 +267,7 @@ One of the important conditions for a supplication to be answered is the
 lawfulness (being *halal)* of one's food. A person asked the Holy
 Prophet (s): 'I would like my supplications replied'. His Holiness said:
 
-<blockquote dir="rtl">
-  <p>
-"طهر مأكلك ولا تدخل بطنك الحرام"
-  </p>
-</blockquote>
+> "طهر مأكلك ولا تدخل بطنك الحرام"
 
 "Purify your food and avoid eating *haram* (unlawful)"[^4]
 
@@ -367,5 +343,4 @@ Zaynabiya in Damascus (Syria).
 [^3]: See "How to reach the Reality of Monotheism", Chapter Two Part 3
 
 [^4]: Mizan al-Hikmah, IV, 1658: 5599.
-
 

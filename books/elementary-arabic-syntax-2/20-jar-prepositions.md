@@ -28,4 +28,3 @@ refer to apparent verbs or words that are similar to verbs, for example:
 they can refer to implied verbs, for example: **الکتابُ علیَ الطاوَلةِ**
 (The book is on the table.)
 
-

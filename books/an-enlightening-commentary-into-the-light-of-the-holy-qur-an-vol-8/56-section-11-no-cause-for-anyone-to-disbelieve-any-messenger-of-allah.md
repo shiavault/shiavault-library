@@ -4,12 +4,8 @@ Section 11: No Cause for Anyone to Disbelieve Any Messenger of Allah
 Surah Isra’ – Verse 94
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَآءَهُمُ الْهُدَي إِلاَّ
-أَن قَالُوا أَبَعَثَ اللَّهُ بَشَراً رَسُولاً
-  </p>
-</blockquote>
+> وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَآءَهُمُ الْهُدَي إِلاَّ
+> أَن قَالُوا أَبَعَثَ اللَّهُ بَشَراً رَسُولاً
 
 ***94. “And nothing prevented the people from believing when the
 guidance came to them except that they said: ‘Has Allah raised up a
@@ -52,12 +48,8 @@ as a useful prescription.
 Surah Isra’ – Verse 95
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَوْ كَانَ فِي الاَرْضِ مَلآئِكَةٌ يَمْشُونَ مُطْمَئِنّـِينَ
-لَنَزَّلْنَا عَلَيْهِم مِنَ السَّمَآءِ مَلَكاً رَسُولاً
-  </p>
-</blockquote>
+> قُل لَوْ كَانَ فِي الاَرْضِ مَلآئِكَةٌ يَمْشُونَ مُطْمَئِنّـِينَ
+> لَنَزَّلْنَا عَلَيْهِم مِنَ السَّمَآءِ مَلَكاً رَسُولاً
 
 ***95. “Say: ‘Had there been in the earth angels walking at peace, We
 would certainly have sent down an angel from heaven to them as
@@ -103,21 +95,13 @@ the Lord and it is not an elective office.
 Surah Isra’ – Verses 96 - 97
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كَفَي بِاللَّهِ شَهِيداً بَيْنِي وَبَيْنَكُمْ إِنَّهُ كَانَ
-بِعِبَادِهِ خَبِيراً بَصِيراً
-  </p>
-</blockquote>
+> قُلْ كَفَي بِاللَّهِ شَهِيداً بَيْنِي وَبَيْنَكُمْ إِنَّهُ كَانَ
+> بِعِبَادِهِ خَبِيراً بَصِيراً
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ
-لَهُمْ أَوْلِيَآءَ مِن دُونِهِ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ
-عَلَي وُجُوهِهِمْ عُمْياً وَبُكْماً وَصُمّاً مَأْوَاهُمْ جَهَنَّمُ
-كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيراً
-  </p>
-</blockquote>
+> وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ
+> لَهُمْ أَوْلِيَآءَ مِن دُونِهِ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ
+> عَلَي وُجُوهِهِمْ عُمْياً وَبُكْماً وَصُمّاً مَأْوَاهُمْ جَهَنَّمُ
+> كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيراً
 
 ***96. “Say: ‘Allah suffices as a witness between me and you; verily He,
 of his servants, is All-Aware, All-Seeing.”***
@@ -221,12 +205,8 @@ for them the blaze.”***
 Surah Isra’ – Verse 98
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ جَزَآؤُهُم بِاَنَّهُمْ كَفَرُوا بِاَيَاتِنَا وَقَالُوا أَءِذَا
-كُنَّا عِظَاماً وَرُفَاتاً أَءِنَّا لَمَبْعُوثُونَ خَلْقاً جَدِيداً
-  </p>
-</blockquote>
+> ذَلِكَ جَزَآؤُهُم بِاَنَّهُمْ كَفَرُوا بِاَيَاتِنَا وَقَالُوا أَءِذَا
+> كُنَّا عِظَاماً وَرُفَاتاً أَءِنَّا لَمَبْعُوثُونَ خَلْقاً جَدِيداً
 
 ***98. “That is their recompense, for they disbelieved in Our signs and
 said: ‘What! When we become (mere) bones and decayed dust, shall we,
@@ -253,13 +233,9 @@ is because of their astonishment, or considering as impossible.
 Surah Isra’ – Verse 99
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَم يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّماوَاتِ وَالاَرْضَ
-قَادِرٌ عَلَي أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلاً لاَّ
-رَيْبَ فِيهِ فَاَبَي الظَّالِمُونَ إِلاَّ كُفُوراً
-  </p>
-</blockquote>
+> أَوَلَم يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّماوَاتِ وَالاَرْضَ
+> قَادِرٌ عَلَي أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلاً لاَّ
+> رَيْبَ فِيهِ فَاَبَي الظَّالِمُونَ إِلاَّ كُفُوراً
 
 ***99. “Have they not consider that Allah Who has created the heavens
 and the earth is able to create the like of them? And He has appointed
@@ -318,12 +294,8 @@ but the unjust refuse aught save disbelieve.”***
 Surah Isra’ – Verse 100
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبّـِي إِذاً
-لاَمْسَكْتُمْ خَشْيَةَ الإِنفَاقِ وَكَانَ الإِنسَانُ قَتُوراً
-  </p>
-</blockquote>
+> قُل لَوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبّـِي إِذاً
+> لاَمْسَكْتُمْ خَشْيَةَ الإِنفَاقِ وَكَانَ الإِنسَانُ قَتُوراً
 
 ***100. “Say: ‘If you possessed the treasures of the mercy of my Lord,
 then you would definitely withhold (them) for fear of spending, and man
@@ -364,5 +336,4 @@ of Hell.
 [^2]: Tafsir Nūr-uth-Thaqalayn
 
 [^3]: An-Nazi‘at, No. 79, verse 27
-
 

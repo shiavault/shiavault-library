@@ -708,4 +708,3 @@ Chief Justice: I think that many of you are exhausted now and are in
 need for rest, so I will conclude this session and we’ll resume after
 the weekend on Monday at 10AM. Thank you, court is dismissed.
 
-

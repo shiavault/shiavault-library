@@ -71,4 +71,3 @@ The serious division of this journey finished, and finally the caravan
 arrived the Iranian regions, but this caravan had to pass all the towns
 and villages one by one throughout this journey.
 
-

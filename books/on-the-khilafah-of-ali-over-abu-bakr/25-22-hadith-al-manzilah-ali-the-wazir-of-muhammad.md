@@ -7,12 +7,8 @@ al-salam*, we will be focusing exclusively on one of them only in this
 research: the *wizarah*. Musa had supplicated to Allah in this manner,
 as narrated by the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قال رب اشرح لي صدري ويسر لي أمري واحلل عقدة من لساني يفقهوا قولي واجعل
-لي وزيرا من أهلي هارون أخي
-  </p>
-</blockquote>
+> قال رب اشرح لي صدري ويسر لي أمري واحلل عقدة من لساني يفقهوا قولي واجعل
+> لي وزيرا من أهلي هارون أخي
 
 He (Musa) said, “O my Lord! Open for me my chest, and make my assignment
 easy for me. And make loose the knot from my tongue, that they
@@ -21,11 +17,7 @@ family, Harun my brother**.[^1]
 
 Expectedly, his *du’a* was granted:
 
-<blockquote dir="rtl">
-  <p>
-ولقد آتينا موسى الكتاب وجعلنا معه أخاه هارون وزيرا
-  </p>
-</blockquote>
+> ولقد آتينا موسى الكتاب وجعلنا معه أخاه هارون وزيرا
 
 And indeed We gave Musa the Book, **and We appointed his brother Harun
 as a** ***wazir***.[^2]
@@ -41,99 +33,63 @@ Allah, so high that He personally chose to make the appointments.
 So, who was a *wazir*? What were his functions? The Book of Allah has
 given us an example: Haman, the *wazir* of Fir’aun. The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-إن فرعون وهامان وجنودهما كانوا خاطئين
-  </p>
-</blockquote>
+> إن فرعون وهامان وجنودهما كانوا خاطئين
 
 Verily, Fir’aun and **Haman** and their soldiers were people who made
 mistakes.[^3]
 
 Imam al-Tabari (d. 310 H) starts the identifications:
 
-<blockquote dir="rtl">
-  <p>
-وقال فرعون … لوزيره وزير السوء هامان
-  </p>
-</blockquote>
+> وقال فرعون … لوزيره وزير السوء هامان
 
 Fir’aun said … to **his** ***wazir***, the evil *wazir*, **Haman**.[^4]
 
 Al-Hafiz Ibn Kathir (d. 774 H) follows his footsteps here:
 
-<blockquote dir="rtl">
-  <p>
-{وهامان} وهو: وزيره في مملكته
-  </p>
-</blockquote>
+> {وهامان} وهو: وزيره في مملكته
 
 {and Haman}, he was his *wazir* in his kingdom.[^5]
 
 Shaykh al-Zuhayli also explains the names:
 
-<blockquote dir="rtl">
-  <p>
-فرعون ملك مصر وهامان وزير فرعون
-  </p>
-</blockquote>
+> فرعون ملك مصر وهامان وزير فرعون
 
 Fir’aun was the king of Egypt **and Haman was the** ***wazir*** **of
 Fir’aun**.[^6]
 
 Shaykh al-Maraghi also states:
 
-<blockquote dir="rtl">
-  <p>
-وهامان وزير فرعون
-  </p>
-</blockquote>
+> وهامان وزير فرعون
 
 Haman was the *wazir* of Fir’aun.[^7]
 
 Shaykh ‘Ali Shiri, the annotator of *Tarikh Dimashq*, has the same
 submission:
 
-<blockquote dir="rtl">
-  <p>
-هامان وزير فرعون
-  </p>
-</blockquote>
+> هامان وزير فرعون
 
 Haman was the *wazir* of Fir’aun.[^8]
 
 Imam al-Tha’alabi (d. 875 H) says as well:
 
-<blockquote dir="rtl">
-  <p>
-وهامان: هو وزير فرعون وأكبر رجاله
-  </p>
-</blockquote>
+> وهامان: هو وزير فرعون وأكبر رجاله
 
 Haman: **he was the** ***wazir*** **of Fir’aun** and the most senior of
 his men.[^9]
 
 And Imam al-Alusi (d. 1270 H) solidly stands with him:
 
-<blockquote dir="rtl">
-  <p>
-}إلى فرعون وهامان {وزير فرعون
-  </p>
-</blockquote>
+> }إلى فرعون وهامان {وزير فرعون
 
 {To Fir’aun and Haman} the *wazir* of Fir’aun.[^10]
 
 The Salafi Imam, Shaykh Ibn Baz (d. 1420 H), corroborates everyone else:
 
-<blockquote dir="rtl">
-  <p>
-قال بعض أهل العلم في شرح هذا الحديث : إنما يحشر مضيع الصلاة مع فرعون
-وهامان وقارون وأبي بن خلف؛ لأنه إن ضيعها من أجل الرئاسة والملك
-والإمارة شابه فرعون الذي طغى وبغى بأسباب وظيفته فيحشر معه إلى النار
-يوم القيامة، وإن ضيعها بأسباب الوظيفة والوزارة شابه هامان وزير فرعون
-الذي طغى وبغى بسبب الرئاسة فيحشر معه إلى النار يوم القيامة
-  </p>
-</blockquote>
+> قال بعض أهل العلم في شرح هذا الحديث : إنما يحشر مضيع الصلاة مع فرعون
+> وهامان وقارون وأبي بن خلف؛ لأنه إن ضيعها من أجل الرئاسة والملك
+> والإمارة شابه فرعون الذي طغى وبغى بأسباب وظيفته فيحشر معه إلى النار
+> يوم القيامة، وإن ضيعها بأسباب الوظيفة والوزارة شابه هامان وزير فرعون
+> الذي طغى وبغى بسبب الرئاسة فيحشر معه إلى النار يوم القيامة
 
 Some of the people of knowledge said in the commentary of this *hadith*:
 The one who abandons *Salat* will be gathered with Fir’aun, Haman, Qarun
@@ -150,12 +106,8 @@ the Day of *al-Qiyamah*.[^11]
 Then, another top Salafi scholar, Shaykh al-‘Uthaymin (d. 1421 H), seals
 the list:
 
-<blockquote dir="rtl">
-  <p>
-ففرعون غره الملك والسلطان فاستكبر هو وجنوده في الأرض بغير الحق وهامان
-غرته الوزارة لأنه وزير فرعون
-  </p>
-</blockquote>
+> ففرعون غره الملك والسلطان فاستكبر هو وجنوده في الأرض بغير الحق وهامان
+> غرته الوزارة لأنه وزير فرعون
 
 As for Fir’aun, he was deceived by kingdom and power. So, he became
 arrogant - he and his soldiers - without right. **As for Haman, he was
@@ -170,11 +122,7 @@ initially lived together in the same city: Musa and his *wazir*, and
 Fir’aun and his *wazir*. The rank and power of the *wazir* are indicated
 in this verse:
 
-<blockquote dir="rtl">
-  <p>
-إن فرعون وهامان وجنودهما كانوا خاطئين
-  </p>
-</blockquote>
+> إن فرعون وهامان وجنودهما كانوا خاطئين
 
 Verily, Fir’aun and Haman and ***their*** **soldiers** were people who
 made mistakes.[^13]
@@ -190,34 +138,22 @@ to say, Musa was the sovereign leaders of the Israelites and his
 this, and none ever will till the Hour. The true followers of Musa also
 accepted this fact:
 
-<blockquote dir="rtl">
-  <p>
-قالوا آمنا برب العالمين رب موسى وهارون
-  </p>
-</blockquote>
+> قالوا آمنا برب العالمين رب موسى وهارون
 
 They said: “We believe in the Lord of the worlds, **the Lord of Musa and
 Harun**.”[^14]
 
 Those were their two leaders and masters. Interestingly, they also said:
 
-<blockquote dir="rtl">
-  <p>
-فألقي السحرة سجدا قالوا آمنا برب هارون وموسى
-  </p>
-</blockquote>
+> فألقي السحرة سجدا قالوا آمنا برب هارون وموسى
 
 So the magicians prostrated. They said: “**We believe in the Lord of
 Harun and Musa**.”[^15]
 
 The Qur’an too leaves no one in doubt:
 
-<blockquote dir="rtl">
-  <p>
-ولقد مننا على موسى وهارون ونجيناهما وقومهما من الكرب العظيم ونصرناهم
-فكانوا هم الغالبين وآتيناهما الكتاب المستبين وهديناهما الصراط المستقيم
-  </p>
-</blockquote>
+> ولقد مننا على موسى وهارون ونجيناهما وقومهما من الكرب العظيم ونصرناهم
+> فكانوا هم الغالبين وآتيناهما الكتاب المستبين وهديناهما الصراط المستقيم
 
 And, indeed, **We favoured Musa and Harun. And We saved them both and**
 ***their*** **people from the Terrible Distress**. And We gave them both
@@ -227,12 +163,8 @@ The followers of Musa were apparently also those of his *wazir*.
 
 All these take us back to *Hadith al-Manzilah*:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه و سلم لعلي أنت مني بمنزلة هارون من موسى
-إلا أنه لا نبي بعدي
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه و سلم لعلي أنت مني بمنزلة هارون من موسى
+> إلا أنه لا نبي بعدي
 
 The Messenger of Allah, peace be upon him, said to ‘Ali: “**You are to
 me of the status of Harun to Musa**, except that there is no prophet
@@ -245,11 +177,7 @@ except Harun. Therefore, there was no other *wazir* for Muhammad except
 ‘Ali. This fact too is confirmed in *Hadith al-Wirathah*, which – as we
 have proved in this book – has a *sahih* chain:
 
-<blockquote dir="rtl">
-  <p>
-أنت أخي وصاحبي ووارثي ووزيري
-  </p>
-</blockquote>
+> أنت أخي وصاحبي ووارثي ووزيري
 
 You are my brother, and my companion, and my inheritor, **AND MY**
 ***WAZIR***.[^17]
@@ -271,15 +199,11 @@ commander-in-chief of the armed forces, the *wazir* also functions as
 the chief adviser *and* helper of the ruler. Imam Ibn Hibban (d. 354 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا الحسين بن عبد الله القطان قال حدثنا موسى بن مروان الرقي قال
-حدثنا الوليد عن زهير بن محمد عن عبد الرحمن بن القاسم عن أبيه عن عائشة
-قالت قال رسول الله صلى الله عليه وسلم إذا أراد الله بالأمير خيرا جعل
-له وزير صدق إن نسي ذكره وإن ذكر أعانه وإذا أراد الله به غير ذلك جعل له
-وزير سوء إن نسي لم يذكره وإن ذكر لم يعنه
-  </p>
-</blockquote>
+> أخبرنا الحسين بن عبد الله القطان قال حدثنا موسى بن مروان الرقي قال
+> حدثنا الوليد عن زهير بن محمد عن عبد الرحمن بن القاسم عن أبيه عن عائشة
+> قالت قال رسول الله صلى الله عليه وسلم إذا أراد الله بالأمير خيرا جعل
+> له وزير صدق إن نسي ذكره وإن ذكر أعانه وإذا أراد الله به غير ذلك جعل له
+> وزير سوء إن نسي لم يذكره وإن ذكر لم يعنه
 
 Al-Husayn b. ‘Abd Allah al-Qattan – Musa b. Marwan al-Raqiyy – al-Walid
 – Zuhayr b. Muhammad – ‘Abd al-Rahman b. al-Qasim – his father –
@@ -297,21 +221,13 @@ help him.”[^18]
 
 ‘Allamah al-Albani (d. 1420 H) comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^19]
 
 Shaykh al-‘Arnaut agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 A *sahih hadith*[^20]
 
@@ -344,14 +260,10 @@ of the best Messenger of Allah.
 On that note, we would like to conclude our book with these words of
 Shaykh Ibn Taymiyyah (d. 728 H):
 
-<blockquote dir="rtl">
-  <p>
-ففي هذا الخبر إخبار عمر بين المهاجرين والأنصار أن أبا بكر سيد المسلمين
-وخيرهم وأحبهم إلى رسول الله صلى الله عليه و سلم ذلك علة مبايعته فقال
-بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله عليه و
-سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
-  </p>
-</blockquote>
+> ففي هذا الخبر إخبار عمر بين المهاجرين والأنصار أن أبا بكر سيد المسلمين
+> وخيرهم وأحبهم إلى رسول الله صلى الله عليه و سلم ذلك علة مبايعته فقال
+> بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله عليه و
+> سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
 
 In this report is the declaration of ‘Umar among the Muhajirun and the
 Ansar that Abu Bakr was the *sayyid* of the Muslims and the best of
@@ -432,5 +344,4 @@ Muhammad Nasir al-Din al-Albani and Shu’ayb al-Arnaut], vol. 10, p. 345,
 [^21]: Abu al-‘Abbas Ahmad b. ‘Abd al-Halim b. Taymiyyah al-Harrani,
 Minhaj al-Sunnah al-Nabawiyyah (Muasassat Qurtubah; 1st edition, 1406 H)
 [annotator: Dr. Muhammad Rashad Salim], vol. 8, p. 565
-
 

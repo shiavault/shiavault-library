@@ -54,4 +54,3 @@ sun was shining on me. I missed my prayer, and my friend told me that he
 tried several times to wake me up but without success, so he left me to
 rest.
 
-

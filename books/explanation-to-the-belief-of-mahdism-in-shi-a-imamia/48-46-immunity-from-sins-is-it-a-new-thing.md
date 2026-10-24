@@ -21,4 +21,3 @@ Hasan Askari (as). It is well understood and well acknowledged. But what
 to do with ignorance? It is man’s arrogance to reject; his reason is his
 taste.
 
-

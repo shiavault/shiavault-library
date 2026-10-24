@@ -269,4 +269,3 @@ Obviously the Arabian Peninsula is situated to the north of Jerusalem.
 We previously made it clear that Paran is Mecca. Therefore, this
 prophecy indicates to the advent of the Prophet of Islam.
 
-

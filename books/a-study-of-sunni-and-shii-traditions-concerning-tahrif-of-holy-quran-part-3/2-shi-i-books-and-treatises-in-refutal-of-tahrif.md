@@ -74,4 +74,3 @@ change by a vast majority (jumhur) of Twelver Shi'i scholars, and
 whoever among them has spoken of deletions in it, his view has been
 rejected and considered unacceptable by them."32
 
-

@@ -120,8 +120,6 @@ With the publication of this book, we wish Dr. Fakhr-Rohani more
 success and graceful opportunities to render services to the Ahl al-Bayt
 and to throw light on the afflictions they endured throughout history.
 
-
 Muhammad al-Hassoun
 1st Ramadan 1427/25th September 2006
-
 

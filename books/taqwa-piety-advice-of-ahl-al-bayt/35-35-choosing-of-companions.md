@@ -154,4 +154,3 @@ observe Taqwa in relation to that.
 
 [^7]: Javan, vol. 1, p. 322 quoted from Al-Nadharat, vol. 1, p. 245
 
-

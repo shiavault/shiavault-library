@@ -619,4 +619,3 @@ by the Prophet.
 
 the troops to fight against the brother of Allah’s Apostle.
 
-

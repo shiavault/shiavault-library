@@ -94,7 +94,6 @@ What is more important is for the child to be made aware of the
 attendant with the risks of the child acquiring certain "permanent"
 addictions in result.
 
-
 **Allow the Child his Moments of Privacy**
 
 The son got married. The lingering display of the henna-dyed decorative
@@ -177,7 +176,6 @@ human will always prefer his moments of privacy and comfort. Personal
 privacy is now considered a human right and there already exists laws
 against its intrusion in many countries. Childhood is no excuse for
 deprivation of privacy. The excuse is childish!
-
 
 **Save the Child from Risk of School Antipathy**
 
@@ -304,5 +302,4 @@ landed in a trouble when he repeated it during the dinner time that
 evening at home. That was way back in 1946. Have things changed with
 regard to the antipathy…?……Much? Then the author wouldn't be mentioning
 the story!
-
 

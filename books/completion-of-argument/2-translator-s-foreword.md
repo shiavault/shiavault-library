@@ -51,4 +51,3 @@ Religion.
  January 19, 2006 - 18th Zilhajj 1426 (Eid-e-Ghadeer)  
 *Email:* ***<sayedathar@hotmail.com>***
 
-

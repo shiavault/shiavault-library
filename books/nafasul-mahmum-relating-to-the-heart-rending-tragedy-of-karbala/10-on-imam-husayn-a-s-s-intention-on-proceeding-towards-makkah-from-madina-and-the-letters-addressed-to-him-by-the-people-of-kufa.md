@@ -204,4 +204,3 @@ through his will (made to Umar bin Sa’ad) apprising Imam of the treason
 of the Kufans and stopping him from coming there besides dispatching his
 two infant sons towards Imam to convey the message.
 
-

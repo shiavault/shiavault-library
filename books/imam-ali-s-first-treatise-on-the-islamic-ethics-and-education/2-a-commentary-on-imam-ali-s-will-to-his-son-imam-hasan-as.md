@@ -1,22 +1,14 @@
 A Commentary On Imam ‘Ali's Will To His Son Imam Hasan (as)
 ===========================================================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-"مِنَ الوالِدِ الفانِ، المُقرِّ للزَمانِ، المُدْبِرِ العُمُرِ،
-المستسلمُ للدَّهر، الذامِّ للدُنيا، الساكن مَساكِنَ المَوتى، والظاعِنَ
-عنها غدا، الى المَولُود المؤمِّل ما لا يُدرَكُ، السالكُ سبيلَ مَن قد
-هَلَكَ، غَرَضَ الاسقام، ورهينةَ الايَّام، ورَميَّةَ المصائب، وعبدَ
-الدنيا، وتاجرَ الغُرور، وغريمَ المنايا، واسيرَ الموت، وحليفَ الهموم،
-وقَرينَ الاحزان، ونَصْبِ الآفات، وصَريعَِ الشهوات، وخَليفَةَ الأموات"
-  </p>
-</blockquote>
+> "مِنَ الوالِدِ الفانِ، المُقرِّ للزَمانِ، المُدْبِرِ العُمُرِ،
+> المستسلمُ للدَّهر، الذامِّ للدُنيا، الساكن مَساكِنَ المَوتى، والظاعِنَ
+> عنها غدا، الى المَولُود المؤمِّل ما لا يُدرَكُ، السالكُ سبيلَ مَن قد
+> هَلَكَ، غَرَضَ الاسقام، ورهينةَ الايَّام، ورَميَّةَ المصائب، وعبدَ
+> الدنيا، وتاجرَ الغُرور، وغريمَ المنايا، واسيرَ الموت، وحليفَ الهموم،
+> وقَرينَ الاحزان، ونَصْبِ الآفات، وصَريعَِ الشهوات، وخَليفَةَ الأموات"
 
 ***“From an aged father who is near death, who concedes to the conquest
 of time, whose life is departing, who has submitted himself to the
@@ -54,12 +46,8 @@ true in the case of man, who, according to rational and narrative
 reasoning is created to stay and to be ever lasting and not to be
 mortal.
 
-<blockquote dir="rtl">
-  <p>
-"قال رسول الله(ص): ما خُلقتُم لِفَناءٍ بل خُلِقتُم لِبقاء وانما
-تُنقَلون مِنْ دارٍ اِلى دار"
-  </p>
-</blockquote>
+> "قال رسول الله(ص): ما خُلقتُم لِفَناءٍ بل خُلِقتُم لِبقاء وانما
+> تُنقَلون مِنْ دارٍ اِلى دار"
 
 *Said the Prophet (S): “You have not been created for extinction;
 rather, you have been created for eternal life. You are only moved from
@@ -78,12 +66,8 @@ person of your Lord, the Lord of glory and honor."***
 And in the Surah al-Qasas, verse 88, this notion is taken care of with
 the word "perishable":
 
-<blockquote dir="rtl">
-  <p>
-"وَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ لَا إِلَهَ إِلَّا هُوَ كُلُّ
-شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ"
-  </p>
-</blockquote>
+> "وَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ لَا إِلَهَ إِلَّا هُوَ كُلُّ
+> شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ"
 
 ***"And call not with Allah any other god: there is no god but He; every
 thing is perishable but He; His is the judgment, and to him you shall be
@@ -108,12 +92,8 @@ Imam.
 Although man is capable of dominating the earth and the time, and God
 has made him a dominant factor over all creation,
 
-<blockquote dir="rtl">
-  <p>
-"أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ
-وَمَا فِي الْأَرْضِ"
-  </p>
-</blockquote>
+> "أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ
+> وَمَا فِي الْأَرْضِ"
 
 ***“Do you not see that Allah has made what is in the heavens and what
 is in the earth subservient to you?”***[^4]
@@ -121,12 +101,8 @@ is in the earth subservient to you?”***[^4]
 He is a vulnerable and weak creature, a victim to the system of the
 truth.
 
-<blockquote dir="rtl">
-  <p>
-"يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ"
-  </p>
-</blockquote>
+> "يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ"
 
 ***“O men! You are they who stand in need of Allah, and Allah is He who
 is the self-sufficient, the praised one.”***[^5]
@@ -214,22 +190,14 @@ commands.
 3. Whose life is departing
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ المدبر العمر”
-  </p>
-</blockquote>
+> “ المدبر العمر”
 
 Life is a precious commodity at man's disposal; it could be used in a
 profitable bargain or in a hazardous one. It is amazing that people lose
 it very easily but are jealous towards the wealth of the rich. The great
 Prophet of Islam (S) told Abu Dharr, giving him a piece of advice:
 
-<blockquote dir="rtl">
-  <p>
-"كُن على عُمرِك اشحَّ منك على دِرهَمِكَ و دينارِك"
-  </p>
-</blockquote>
+> "كُن على عُمرِك اشحَّ منك على دِرهَمِكَ و دينارِك"
 
 *"Be more miserly of your life than you are of your dirham and
 dinar.*"[^7]
@@ -241,12 +209,8 @@ far-fetched desires?
 
 Imam ‘Ali (as) has stated, regarding this:
 
-<blockquote dir="rtl">
-  <p>
-"رَحِمَ الله امرءً عَلِمَ ان نَفَسُه خُطاهُ الى أجله فبادر عَمَلَه و
-قصر أمله"
-  </p>
-</blockquote>
+> "رَحِمَ الله امرءً عَلِمَ ان نَفَسُه خُطاهُ الى أجله فبادر عَمَلَه و
+> قصر أمله"
 
 *"May God have mercy on the person who recognizes that each one of his
 breaths is a step toward his death and, therefore, hastens to perform
@@ -254,12 +218,8 @@ good deeds and curtails his desires”.*[^8]
 
 Imam ‘Ali (as) has stated as well:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الَّليلَ وَالنَّهارَ يَعمَلانِ فِيكَ فَاعمَل فِيهِمَا
-وَيأخُذَانِ مِنكَ فَخُذ مِنهُمَا"
-  </p>
-</blockquote>
+> "اِنَّ الَّليلَ وَالنَّهارَ يَعمَلانِ فِيكَ فَاعمَل فِيهِمَا
+> وَيأخُذَانِ مِنكَ فَخُذ مِنهُمَا"
 
 *“Day and night leave a mark on you; therefore leave a mark on them.
 They take from you; therefore take from them."*[^9]
@@ -268,13 +228,9 @@ Of course, if our life is spent for God, it is a big asset and a
 profitable bargain; or else, death is better. Imam ‘Ali ibn al-Husayn
 (as) in the supplication of Makarim al-Akhlaq asks God:
 
-<blockquote dir="rtl">
-  <p>
-"وعَمّر لِي مَا كَانَ عُمرِي بِْذلَةً في طَاعَتِكَ فاِذا كَانَ عُمرِي
-مَرتَعاً لِلشَيطَانِ فاقبِضنِي اِلَيكَ قَبلَ اَن تَستَبِقَ مَقتَكَ
-اِليَّ او يَستَحكِمَ غَضَبُكَ عَليَّ"
-  </p>
-</blockquote>
+> "وعَمّر لِي مَا كَانَ عُمرِي بِْذلَةً في طَاعَتِكَ فاِذا كَانَ عُمرِي
+> مَرتَعاً لِلشَيطَانِ فاقبِضنِي اِلَيكَ قَبلَ اَن تَستَبِقَ مَقتَكَ
+> اِليَّ او يَستَحكِمَ غَضَبُكَ عَليَّ"
 
 *"Let me live as long as my life is in unsparing devotion to Your
 obedience. But if my life becomes a pasture for Satan, then seize me to
@@ -287,14 +243,10 @@ have done lots of good deeds prior to the age of sixty. This is because,
 as the God's Prophet (S) has said, “A man will not have any excuse in
 such cases."
 
-<blockquote dir="rtl">
-  <p>
-"اَبنَاءُ الأربَعِين زَرعٌ قَد دَنَا حَصَادُهُ، اَبنَاءُ الخَمْسِينِ
-مَاذَا قَدَّمتُم ومَاذَا أخَّرتُم، اَبنَاءُ السِّتينِ هَلِمُّوا اِلى
-الحِسابِ لا عُذرَ لَكُم، اَبنَاءُ السَبْعِينِ عُدُّوا اَنفُسَكُم مِنَ
-المَوتَى"
-  </p>
-</blockquote>
+> "اَبنَاءُ الأربَعِين زَرعٌ قَد دَنَا حَصَادُهُ، اَبنَاءُ الخَمْسِينِ
+> مَاذَا قَدَّمتُم ومَاذَا أخَّرتُم، اَبنَاءُ السِّتينِ هَلِمُّوا اِلى
+> الحِسابِ لا عُذرَ لَكُم، اَبنَاءُ السَبْعِينِ عُدُّوا اَنفُسَكُم مِنَ
+> المَوتَى"
 
 “*The forty-year olds are like a field whose time of harvest is near.
 Fifty-year olds, what have you sent forward and what have you left
@@ -307,11 +259,7 @@ vigilant individuals, we do not know the significance of this great
 asset.
 Imam (as) has stated in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"لا يَعرِفُ قَدرَ مَا بَقِيَ مِن عُمرِهِ اِلاّ نَبِيٌّ او صِدِّيق"
-  </p>
-</blockquote>
+> "لا يَعرِفُ قَدرَ مَا بَقِيَ مِن عُمرِهِ اِلاّ نَبِيٌّ او صِدِّيق"
 
 *“No one knows the value of the remainder of his life save a prophet or*
 *an eminently truthful believer.”*[^12]
@@ -378,14 +326,10 @@ then metaphorically attributed those in human acts to the world.
 For instance, in the Sermon 32 of Nahj al-Balaghah he metaphorically
 states:
 
-<blockquote dir="rtl">
-  <p>
-"أيُّها النّاس اِنّا قَد اصبَحنَا في دَهْرٍ عَنُودٍ و زَمَنٍ كَنودٍ
-يُعَدُّ فِيهِ المُحسِنُ مُسِيئاً ويَزدَادُ الظَالِمُ فِيهِ عُتوّاً لا
-نَنتَفِعُ بِمَا عَلِمنَا وَلا نَسألُ عَمَّا جَهِلنا وَلا نَتَخَوَّفُ
-قَارِعَةً حَتّى تَحِلَّ بِنا"
-  </p>
-</blockquote>
+> "أيُّها النّاس اِنّا قَد اصبَحنَا في دَهْرٍ عَنُودٍ و زَمَنٍ كَنودٍ
+> يُعَدُّ فِيهِ المُحسِنُ مُسِيئاً ويَزدَادُ الظَالِمُ فِيهِ عُتوّاً لا
+> نَنتَفِعُ بِمَا عَلِمنَا وَلا نَسألُ عَمَّا جَهِلنا وَلا نَتَخَوَّفُ
+> قَارِعَةً حَتّى تَحِلَّ بِنا"
 
 "*O people! We are living in a time of perversity and an age of
 ingratitude in which a good-doer is considered an evildoer, and the
@@ -425,40 +369,24 @@ But in the Islamic world-view, which is based on monotheism, nothing is
 bad in nature and the world is not absurd. On the one hand the Holy
 Qur’an states that Allah has created the whole world flawless.
 
-<blockquote dir="rtl">
-  <p>
-"الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ"
-  </p>
-</blockquote>
+> "الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ"
 
 ***“Who made good every thing that he has created”.***[^13]
 
-<blockquote dir="rtl">
-  <p>
-"مَا تَرَى فِي خَلْقِ الرَّحْمَانِ مِنْ تَفَاوُتٍ"
-  </p>
-</blockquote>
+> "مَا تَرَى فِي خَلْقِ الرَّحْمَانِ مِنْ تَفَاوُتٍ"
 
 ***“You see no incongruity in the creation of the Beneficent
 God”.***[^14]
 
 On the other hand, the Qur’an rejects the absurdity of the world.
 
-<blockquote dir="rtl">
-  <p>
-"وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا
-لَاعِبِينَ"
-  </p>
-</blockquote>
+> "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا
+> لَاعِبِينَ"
 
 ***“And we did not create the heavens and the earth and what is between
 them in sport”.***[^15]
 
-<blockquote dir="rtl">
-  <p>
-"وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا باطلا"
-  </p>
-</blockquote>
+> "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا باطلا"
 
 ***“And We did not create the heaven and the earth and what is between
 them in vain”.***[^16]
@@ -491,13 +419,9 @@ liking towards it is considered bad?
 This is especially important when we consider that Islam is a religion
 of innate nature and no command is issued contrary to it.
 
-<blockquote dir="rtl">
-  <p>
-"فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ"
-  </p>
-</blockquote>
+> "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ"
 
 ***“Then set your face upright for religion in the right state - the
 nature made by Allah in which He has made men, there is no altering of
@@ -512,13 +436,9 @@ world into an aim rather than a means, is considered improper.
 When the Holy Qur’an introduces the dwellers of hell and their
 characteristics, it emphasizes the same fact:
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ
-الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
-غَافِلُونَ "
-  </p>
-</blockquote>
+> "إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ
+> الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
+> غَافِلُونَ "
 
 ***"Surely those who do not hope in Our meeting and are pleased with
 this world's life and are content with it, and those who are heedless of
@@ -531,16 +451,12 @@ means.
 The Holy Qur’an, as well, blames those people who prefer the
 materialistic world to God or to the Prophet (S) or to the holy wars:
 
-<blockquote dir="rtl">
-  <p>
-"قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
-وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
-وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
-إِلَيْكُمْ مِنْ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
-فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللَّهُ بِأَمْرِهِ وَاللَّهُ لَا يَهْدِي
-الْقَوْمَ الْفَاسِقِينَ"
-  </p>
-</blockquote>
+> "قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
+> وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
+> وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
+> إِلَيْكُمْ مِنْ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
+> فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللَّهُ بِأَمْرِهِ وَاللَّهُ لَا يَهْدِي
+> الْقَوْمَ الْفَاسِقِينَ"
 
 ***"Say: If your fathers and your sons and your brethren and your mates
 and your kinsfolk and property which you have acquired, and the
@@ -555,12 +471,8 @@ considered bad only if they intrude on justice and rightfulness.
 As it is expressed in other verses, too, the world is not only good,
 but it is considered as an ornament and a bridge to victory.
 
-<blockquote dir="rtl">
-  <p>
-"الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا وَالْبَاقِيَاتُ
-الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا"
-  </p>
-</blockquote>
+> "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا وَالْبَاقِيَاتُ
+> الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا"
 
 ***“Wealth and children are an adornment of the life of this world; and
 the ever-abiding, the good works, are better with your lord in reward
@@ -569,12 +481,8 @@ and better in expectation”.***[^23]
 What is wrong is to consider the world as an aim. In this regard Allah
 commands the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-"فَأَعْرِضْ عَنْ مَنْ تَوَلَّى عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا
-الْحَيَاةَ الدُّنْيَا ذَلِكَ مَبْلَغُهُمْ مِنْ الْعِلْمِ"
-  </p>
-</blockquote>
+> "فَأَعْرِضْ عَنْ مَنْ تَوَلَّى عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا
+> الْحَيَاةَ الدُّنْيَا ذَلِكَ مَبْلَغُهُمْ مِنْ الْعِلْمِ"
 
 ***"Therefore, turn aside from him who turns his back upon our reminder
 and does not desire anything but this world's life. This is their goal
@@ -583,11 +491,7 @@ of knowledge".***[^24]
 Imam ‘Ali (as), too, in Nahj al-Balaghah introduces those who are
 world-mongers, blaming them:
 
-<blockquote dir="rtl">
-  <p>
-"ولبئس المتجر أن ترى الدنيا لنفسك ثمنا ومماتك عند الله عوضا"
-  </p>
-</blockquote>
+> "ولبئس المتجر أن ترى الدنيا لنفسك ثمنا ومماتك عند الله عوضا"
 
 *“It is an evil transaction that you consider the world to be a price
 for your self and a substitute for what there is with God for
@@ -599,15 +503,11 @@ provisions for the next world, his action is not only not considered
 improper, but rather, it is considered proper. Imam ‘Ali (as), in Hikmah
 131, in blaming the world-mongers, explicitly explains:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الدُّنيَا دَارُ صِدقٍ لِمَن صَدَقَها وَدَارُ عَافِيَةٍ لِمَن
-فَهِمَ عَنهَا وَدَارُ غِنىً لِمَن تَزَوَّدَ مِنهَا وَدَارُ مَوعِظَةٍ
-لِمَن اتَّعَظَ بِها، مَسْجِدُ اَحبَّاءِ الله ومُصَلَّى مَلائِكَةِ الله
-ومَهبِطَ وَحِي الله وَمَتْجَرِ اَولياءِ الله اكتَسَبُوا فِيهَا
-الرَّحمَةَ ورَبِحُوا فِيهَا الجَنَّةَ"
-  </p>
-</blockquote>
+> "اِنَّ الدُّنيَا دَارُ صِدقٍ لِمَن صَدَقَها وَدَارُ عَافِيَةٍ لِمَن
+> فَهِمَ عَنهَا وَدَارُ غِنىً لِمَن تَزَوَّدَ مِنهَا وَدَارُ مَوعِظَةٍ
+> لِمَن اتَّعَظَ بِها، مَسْجِدُ اَحبَّاءِ الله ومُصَلَّى مَلائِكَةِ الله
+> ومَهبِطَ وَحِي الله وَمَتْجَرِ اَولياءِ الله اكتَسَبُوا فِيهَا
+> الرَّحمَةَ ورَبِحُوا فِيهَا الجَنَّةَ"
 
 *"The world is an abode of truth and rightfulness for those who
 encounter it with truth, an abode of well-being for those who understand
@@ -626,12 +526,8 @@ The world would be considered ill-favored if we counted it as our final
 aim but it would be a proper place if it were used for obtaining God's
 pleasure. Imam ‘Ali (as) in Nahj al-Balaghah has stated:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَنِعمَ دَارِ مَن لَم يَرضَ بِهَا دَاراً وَمَحَلِ مَن لَم يُوطِنهَا
-مَحَلّاً"
-  </p>
-</blockquote>
+> "وَلَنِعمَ دَارِ مَن لَم يَرضَ بِهَا دَاراً وَمَحَلِ مَن لَم يُوطِنهَا
+> مَحَلّاً"
 
 *"It (the world) is an excellent home for one who is not content with it
 as a home, and (an excellent) place of residence for one who does not
@@ -641,12 +537,8 @@ In another place, Imam ‘Ali (as) emphasizes that this world is a
 transitory shelter, not a permanent one. The more we provide provisions
 for the Hereafter, the better it is.
 
-<blockquote dir="rtl">
-  <p>
-"انما الدُّنيا دارُ مَجازٍ، والآخرةُ دارُ قرار، فخُذوا مِن مَمَرِّكُم
-لِمَقَرِّكم"
-  </p>
-</blockquote>
+> "انما الدُّنيا دارُ مَجازٍ، والآخرةُ دارُ قرار، فخُذوا مِن مَمَرِّكُم
+> لِمَقَرِّكم"
 
 *"This world is transitory, the Hereafter is permanent. Therefore take
 (provisions) from your place of passage for your place of
@@ -670,13 +562,9 @@ Imam ‘Ali (as) envisioned dormant dangers behind the pleasure-seeking
 ways of the Muslims in the newly established Muslim communities. In Imam
 ‘Ali’s estimation, such comforts would cause the fall of any community.
 
-<blockquote dir="rtl">
-  <p>
-"وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا
-فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا
-تَدْمِيرًا"
-  </p>
-</blockquote>
+> "وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا
+> فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا
+> تَدْمِيرًا"
 
 ***“And when we wish to destroy a town, we send our commandment to the
 people of it who lead easy lives, but they transgress therein; thus the
@@ -686,12 +574,8 @@ destruction”.***
 Imam ‘Ali (as), in sermon 151, refers to this destructive disaster
 (i.e. pleasure-seeking) and emphasizes:
 
-<blockquote dir="rtl">
-  <p>
-"ثُمَّ اِنَّكُم مَعْشَر العَرَبِ اَغرَاضُ بَلايَا قَدْ اقْتَرَبَت
-فَاتَّقُوا سَكَراتِ النِّعمَةَ وَاحذَرُوا بَوائِقَ النّقِمَةَ"
-  </p>
-</blockquote>
+> "ثُمَّ اِنَّكُم مَعْشَر العَرَبِ اَغرَاضُ بَلايَا قَدْ اقْتَرَبَت
+> فَاتَّقُوا سَكَراتِ النِّعمَةَ وَاحذَرُوا بَوائِقَ النّقِمَةَ"
 
 *"You, O company of Arabs, are the targets of calamities that have drawn
 near; therefore, guard yourselves against the intoxications of wealth
@@ -708,11 +592,7 @@ death to terminate his hardships. Ibn Muljim cleft his forehead and Imam
 ‘Ali (as), the bravest man in the history of Islam, stated: *“By the
 Lord of the Ka’ba, I have won”.*
 
-<blockquote dir="rtl">
-  <p>
-"فُزتُ وَرَبِّ الكَعْبَةِ"
-  </p>
-</blockquote>
+> "فُزتُ وَرَبِّ الكَعْبَةِ"
 
 All this led Imam ‘Ali (as) to blame the world more than anybody else
 and warn people against it.[^31]
@@ -720,11 +600,7 @@ and warn people against it.[^31]
 6. A Dweller of the Abode of the Dead
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-“الساكن مساكن الموتى”
-  </p>
-</blockquote>
+> “الساكن مساكن الموتى”
 
 Due to pastimes and pleasures, men sometimes fail to comprehend clear
 issues.
@@ -735,14 +611,10 @@ places.
 The Holy Qur’an, upon the drowning of the followers of Pharaoh,
 emphasizes that:
 
-<blockquote dir="rtl">
-  <p>
-"كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
-وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا
-آخَرِينَ فَمَا بَكَتْ عَلَيْهِمْ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا
-مُنظَرِينَ"
-  </p>
-</blockquote>
+> "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
+> وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا
+> آخَرِينَ فَمَا بَكَتْ عَلَيْهِمْ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا
+> مُنظَرِينَ"
 
 ***“How many of the gardens and fountains, have they left! And
 cornfields and noble places! And goodly things wherein they rejoiced;
@@ -753,18 +625,14 @@ heaven and the earth did not weep for them, nor were they respited”.
 Imam ‘Ali (as), too, having returned from Siffin, arrived at a graveyard
 next to Kufa and said,
 
-<blockquote dir="rtl">
-  <p>
-"يَا اَهلَ الدِّيارِ المُوحِشَةِ وَالمَحَالِّ المُقفِرَةِ وَالقُبُورِ
-المُظلِمَةِ يَا اَهلَ التُربَةِ يَا اَهلَ الغُربَةِ يَا اَهلَ
-الوَحدَةِ يَا اَهلَ الوَحشَةِ اَنتُم لَنا فَرَطٌ سَابِقٌ وَنَحنُ لَكُم
-تَبَعٌ لاحِقٌ امَّا الدُورُ فَقَد سُكِنَت وامَّا الازوَاجُ فَقَد
-نُكِِحَت وامَّا الاموَالُ فَقَد قُسِّمَت، هَذا خَبرُ مَا عِندَنَا
-فَمَا خَبَرُ مَا عِندَكُم؟ ثُمَّ اِلتَفَتَ اِلى اَصحَابِهِ فَقَالَ:
-امَا لَو اُذِنَ لَهُم في الكَلامِ لاخْبَروكُم اَنَّ خَيرَ الزَادِ
-التَقوَى".
-  </p>
-</blockquote>
+> "يَا اَهلَ الدِّيارِ المُوحِشَةِ وَالمَحَالِّ المُقفِرَةِ وَالقُبُورِ
+> المُظلِمَةِ يَا اَهلَ التُربَةِ يَا اَهلَ الغُربَةِ يَا اَهلَ
+> الوَحدَةِ يَا اَهلَ الوَحشَةِ اَنتُم لَنا فَرَطٌ سَابِقٌ وَنَحنُ لَكُم
+> تَبَعٌ لاحِقٌ امَّا الدُورُ فَقَد سُكِنَت وامَّا الازوَاجُ فَقَد
+> نُكِِحَت وامَّا الاموَالُ فَقَد قُسِّمَت، هَذا خَبرُ مَا عِندَنَا
+> فَمَا خَبَرُ مَا عِندَكُم؟ ثُمَّ اِلتَفَتَ اِلى اَصحَابِهِ فَقَالَ:
+> امَا لَو اُذِنَ لَهُم في الكَلامِ لاخْبَروكُم اَنَّ خَيرَ الزَادِ
+> التَقوَى".
 
 *"O dwellers of desolate houses, vacant places and dark graves! O people
 of dust! O strangers! O people of solitude! O desolate ones! You have
@@ -785,11 +653,7 @@ too will happen to you some day.
 7. Which he will leave tomorrow
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-“والظاعن عنها غداً”
-  </p>
-</blockquote>
+> “والظاعن عنها غداً”
 
 Despite the fact that we know that nobody is eternal in this world, due
 to pleasure-seeking we behave as if we were going to live in this world
@@ -798,22 +662,18 @@ Imam ‘Ali (as), however, teaches us to study the lives of our
 predecessors, including the Prophets and the rich. He concludes that the
 only eternal being is God Himself.
 
-<blockquote dir="rtl">
-  <p>
-"فَلَو اَنَّ اَحَداً يَجِدُ اِلى البَقَاءِ سُلَّماً اَو لِدَفعِ
-المَوتِ سَبِيلاً لَكَانَ ذَلِكَ سُلَيمانُ بنَ دَاودَ عليه السَّلامُ
-الَّذي سُخِّر لَهُ مُلكُ الجِنِّ وَالأِنسِ مَعَ النُبوَّةِ وَعَظِيمِ
-العَرِيقَةِ فَلَمَّا استَوفَى طُعمَتَه وَاستَكمَلَ مُدَّتَه رَمَتهُ
-قِسِيُّ الفَنَاءِ بِنِبَالِ المَوتِ وَاصبَحَت الدِّيارُ مِنهُ خَالِيَة
-وَالمَسَاكِنُ مُعَطَّلَة وَوَرِثَها قَومٌ آخَرُونَ وَاِنَّ لَكُم في
-القُرُونِ السَابِقَةِ لَعِبْرَة! اَينَ العَمَالِقَةُ وَابنَاءُ
-العَمَالِقَةِ اَينَ الفَراعِنَةُ وَابنَاءُ الفَراعِنَةِ اَينَ اَصحَابُ
-مَدائِنِ الرَسِّ الَّذِينَ قَتَلوا النَبِيّينَ وأطفأُوا سُنَنَ
-المُرسَلِينَ وَاحْيَوا سُنَنَ الجَبَّارِينَ اَينَ الَّذِينَ سَارُوا
-بِالجُيوشِ وَهَزَمُوا بِالالُوفِ وَعَسكَرُوا العَسَاكِرَ وَمَدَّنوا
-المَدَائِنَ".
-  </p>
-</blockquote>
+> "فَلَو اَنَّ اَحَداً يَجِدُ اِلى البَقَاءِ سُلَّماً اَو لِدَفعِ
+> المَوتِ سَبِيلاً لَكَانَ ذَلِكَ سُلَيمانُ بنَ دَاودَ عليه السَّلامُ
+> الَّذي سُخِّر لَهُ مُلكُ الجِنِّ وَالأِنسِ مَعَ النُبوَّةِ وَعَظِيمِ
+> العَرِيقَةِ فَلَمَّا استَوفَى طُعمَتَه وَاستَكمَلَ مُدَّتَه رَمَتهُ
+> قِسِيُّ الفَنَاءِ بِنِبَالِ المَوتِ وَاصبَحَت الدِّيارُ مِنهُ خَالِيَة
+> وَالمَسَاكِنُ مُعَطَّلَة وَوَرِثَها قَومٌ آخَرُونَ وَاِنَّ لَكُم في
+> القُرُونِ السَابِقَةِ لَعِبْرَة! اَينَ العَمَالِقَةُ وَابنَاءُ
+> العَمَالِقَةِ اَينَ الفَراعِنَةُ وَابنَاءُ الفَراعِنَةِ اَينَ اَصحَابُ
+> مَدائِنِ الرَسِّ الَّذِينَ قَتَلوا النَبِيّينَ وأطفأُوا سُنَنَ
+> المُرسَلِينَ وَاحْيَوا سُنَنَ الجَبَّارِينَ اَينَ الَّذِينَ سَارُوا
+> بِالجُيوشِ وَهَزَمُوا بِالالُوفِ وَعَسكَرُوا العَسَاكِرَ وَمَدَّنوا
+> المَدَائِنَ".
 
 *“If there was one who could find a ladder to eternal life or a way to
 repel death, that would have been Solomon, the son of David, to whom the
@@ -834,18 +694,14 @@ armies and built cities?”*[^33]
 Imam ‘Ali (as) encourages people to prepare provisions and to make
 themselves ready for leaving this world and heading towards death.
 
-<blockquote dir="rtl">
-  <p>
-"تَجَهَّزُوا رَحِمَكُم الله فَقَد نُودِيَ فِيكُم بِالرَّحِيلِ واقِلّوا
-العَرجَةَ على الدُّنَيا وَانقَلِبُوا بِصَالِحِ مَا بِحَضرَتِكُم مِنَ
-الزَّادِ فَاِنَّ اَمَامَكُم عَقَبَةً كَئُوداً وَمَنَازِلَ مَخُوفَةً
-مَهُولَةً لابُدَّ مِنَ الورُودِ عَلَيهَا وَالوقُوفَ عِندَهَا واعلَمُوا
-اَنَّ مَلاحِظَ المَنِيَّةِ نَحوَكُم دَانِيَةٌ وَكَانَّكُم بِمَخالِبِها
-وَقَد نَشِبَتْ فِيكُم وَقَد دَهَمَتكُم فِيها مُفظِعاتُ الامُورِ
-وَمُعضِلاتُ المَحْذُورِ فَقَطِّعُوا عَلائِقَ الدُّنيا وَاستَظهِرُوا
-بِزَادِ التَقوَى"
-  </p>
-</blockquote>
+> "تَجَهَّزُوا رَحِمَكُم الله فَقَد نُودِيَ فِيكُم بِالرَّحِيلِ واقِلّوا
+> العَرجَةَ على الدُّنَيا وَانقَلِبُوا بِصَالِحِ مَا بِحَضرَتِكُم مِنَ
+> الزَّادِ فَاِنَّ اَمَامَكُم عَقَبَةً كَئُوداً وَمَنَازِلَ مَخُوفَةً
+> مَهُولَةً لابُدَّ مِنَ الورُودِ عَلَيهَا وَالوقُوفَ عِندَهَا واعلَمُوا
+> اَنَّ مَلاحِظَ المَنِيَّةِ نَحوَكُم دَانِيَةٌ وَكَانَّكُم بِمَخالِبِها
+> وَقَد نَشِبَتْ فِيكُم وَقَد دَهَمَتكُم فِيها مُفظِعاتُ الامُورِ
+> وَمُعضِلاتُ المَحْذُورِ فَقَطِّعُوا عَلائِقَ الدُّنيا وَاستَظهِرُوا
+> بِزَادِ التَقوَى"
 
 *"May God have mercy on you; prepare yourselves, for you have been
 summoned for the departure! Lessen your desire to stay in this world and
@@ -934,5 +790,4 @@ al-Balaghah and Twenty lectures.
 [^33]: . Nahj al-Balaghah, Sermon 182.
 
 [^34]: . Nahj al-Balaghah, Sermon 204.
-
 

@@ -51,4 +51,3 @@ Bait. To confront tyranny in any age is the only power of Shi’ism among
 Muslims, even alone Shia is the dread of a tyrant no matter whether a
 ruler or a caliph or a king.
 
-

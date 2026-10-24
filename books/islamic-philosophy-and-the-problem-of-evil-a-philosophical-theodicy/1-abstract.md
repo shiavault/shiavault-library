@@ -17,4 +17,3 @@ problem of creation-dualism and the problem of evils and Divine wisdom.*
 **Keywords: Evil, God's decree, God's wisdom, Islamic philosophy,
 Avicenna, Mulla Sadra.**
 
-

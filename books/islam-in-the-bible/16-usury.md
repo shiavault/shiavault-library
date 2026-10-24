@@ -108,4 +108,3 @@ contexts, the sum of Biblical teaching comes down firmly against it. The
 Islamic form of banking finds support not only in the Qur'an but in the
 Bible as well.
 
-

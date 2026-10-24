@@ -80,7 +80,6 @@ joke or a play (Did ye then think that We had created you in jest) (Holy
 Qur'an: 23:110), (Does man think that he will be left
 uncontrolled -without purpose-?) (Holy Qur'an: 75:36)
 
-
 **Man without Responsibilities**
 
 Have you ever thought about a man without responsibility? Would you
@@ -117,7 +116,6 @@ danger.
 Therefore, among the beautifulness and wisdom of this universe is the
 responsibility that surrounds it and the competition in doing good.
 
-
 **The Beginning of Responsibility**
 
 Here you are leaving your childhood playground in order to start a new
@@ -149,5 +147,4 @@ work, which you are responsible for it; it is closer to a workshop, in
 that you are working toward a particular purpose, which is seeking
 Allah's pleasure: (O man! Verily thou art ever toiling on towards thy
 Lord painful toiling, but thou shalt meet Him) (Holy Qur'an: 84:6).
-
 

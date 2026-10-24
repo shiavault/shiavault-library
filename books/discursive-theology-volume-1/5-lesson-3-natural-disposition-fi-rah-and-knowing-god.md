@@ -260,12 +260,8 @@ In numerous verses, the Holy Qur’an has also stated the fact that in
 times of danger and crisis, the human being seeks refuge in One God. One
 can point to the following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللّهَ مُخْلِصينَ لَهُ
-الدِّينَ فَلَمّا نَجّاهُمْ إِلَى الْبَرِّ إِذا هُمْ يُشْرِكُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللّهَ مُخْلِصينَ لَهُ
+> الدِّينَ فَلَمّا نَجّاهُمْ إِلَى الْبَرِّ إِذا هُمْ يُشْرِكُونَ ﴾
 
 ***“When they board the ship, they invoke Allah putting exclusive faith
 in Him, but when He delivers them to land, behold, they ascribe partners
@@ -413,13 +409,9 @@ Qur’an and traditions. The most explicit verse in this regard is verse
 30 of *Sūrat al-Rūm* which has become known as the Verse of Human Nature
 (*āyat al-* *fiṭrah*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ٭ ذَٰلِكَ ٱلدِّينُ
-ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ٭ ذَٰلِكَ ٱلدِّينُ
+> ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ ﴾
 
 ***“So set your heart on the religion as a people of pure faith, the
 origination of Allah according to which He originated mankind. There is
@@ -428,11 +420,7 @@ people do not know.”***[^23]
 
 The Holy Prophet (*ṣ*) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَوْلودٍ يولَدُ عَلَى الفِطْرَةِ.
-  </p>
-</blockquote>
+> كُلُّ مَوْلودٍ يولَدُ عَلَى الفِطْرَةِ.
 
 ***“Everyone begotten is born in the state of fiṭrah.”***
 
@@ -454,41 +442,17 @@ religion and to quote them is beyond the scope of the discussion.
 It is appropriate for us to end this discourse with some couplets from
 Naẓīrī Nayshābūrī:
 
-<blockquote dir="rtl">
-  <p>
-غير من در پس اين پرده سخنسازي هست
-  </p>
-</blockquote>
+> غير من در پس اين پرده سخنسازي هست
 
-<blockquote dir="rtl">
-  <p>
-راز در دل نتوان داشت كه غمّازي هست
-  </p>
-</blockquote>
+> راز در دل نتوان داشت كه غمّازي هست
 
-<blockquote dir="rtl">
-  <p>
-بلبلان! گل ز گلستان به شبستان آريد
-  </p>
-</blockquote>
+> بلبلان! گل ز گلستان به شبستان آريد
 
-<blockquote dir="rtl">
-  <p>
-كه در اين كنج قفس زمزمه پردازي هست
-  </p>
-</blockquote>
+> كه در اين كنج قفس زمزمه پردازي هست
 
-<blockquote dir="rtl">
-  <p>
-تو مپندار كه اين قصّه به خود ميگويم
-  </p>
-</blockquote>
+> تو مپندار كه اين قصّه به خود ميگويم
 
-<blockquote dir="rtl">
-  <p>
-گوش نزديك لبم آر كه آوازي هست
-  </p>
-</blockquote>
+> گوش نزديك لبم آر كه آوازي هست
 
 Review Questions
 ----------------
@@ -619,5 +583,4 @@ Irtibāt-e Insān wa Jahān (The Relationship of Man and the World), vol.
 [^24]: Tafsīr Burhān, vol. 3, p. 261.
 
 [^25]: Nahj al-Balāghah, Sermon 110.
-
 

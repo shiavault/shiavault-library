@@ -251,4 +251,3 @@ and Lisan al-Mizan, vol. 4, pp. 589-590.
 
 [^12]: - Fayz al-Qadir, vol. 1, p. 589.
 
-

@@ -230,4 +230,3 @@ Fu'ad 'Abdul 'l-Baqi) (tr.)
 pardon". But with a slight change of accent it may come to mean, stupid
 or cattle tenderer. (tr.)
 
-

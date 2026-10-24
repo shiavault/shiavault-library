@@ -4,12 +4,8 @@ Section 6: Fight in Self-Defence Permitted
 Surah Al-Hajj – Verse 39
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِاَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ
-عَلَي نَصْرِهِمْ لَقَدِيرٌ
-  </p>
-</blockquote>
+> اُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِاَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ
+> عَلَي نَصْرِهِمْ لَقَدِيرٌ
 
 ***39. “To those against whom war is made, permission is given (to
 fight) for they have been oppressed, and verily Allah is well able to
@@ -82,15 +78,11 @@ to the generality of the verse.[^2]
 Surah Al-Hajj – Verse 40
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ اُخْرِجُوا مِن دِيَارِهِم بِغَيْرِ حَقٍّ إِلآَّ أَن
-يَقُولُوا رَبُّنَا اللَّهُ وَلَوْلاَ دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم
-بِبَعْضٍ لَّهُدّ‌ِمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ
-يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيراً وَلَيَنصُرَنَّ اللَّهُ مَن
-يَنصُرُهُ إِنَّ اللَّهَ لَقَويٌ عَزِيزٌ
-  </p>
-</blockquote>
+> الَّذِينَ اُخْرِجُوا مِن دِيَارِهِم بِغَيْرِ حَقٍّ إِلآَّ أَن
+> يَقُولُوا رَبُّنَا اللَّهُ وَلَوْلاَ دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم
+> بِبَعْضٍ لَّهُدّ‌ِمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ
+> يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيراً وَلَيَنصُرَنَّ اللَّهُ مَن
+> يَنصُرُهُ إِنَّ اللَّهَ لَقَويٌ عَزِيزٌ
 
 ***40. “(They are) those who have been expelled from their homes without
 right, except that they say: ‘Our Lord is Allah’. And had Allah not
@@ -210,13 +202,9 @@ was done through the way of Allah’s help and assistant.
 Surah Al-Hajj – Verse 41
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِن مَكَّنَّاهُمْ فِي الاَرْضِ أَقَامُوا الصَّلاَةَ
-وءَاتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنكَرِ وَلِلَّهِ عَاقِبَةُ الاُمُورِ
-  </p>
-</blockquote>
+> الَّذِينَ إِن مَكَّنَّاهُمْ فِي الاَرْضِ أَقَامُوا الصَّلاَةَ
+> وءَاتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنكَرِ وَلِلَّهِ عَاقِبَةُ الاُمُورِ
 
 ***41. “Those who, if We establish them in the land, perform the prayer,
 and pay the alms, and enjoin good and forbid evil, and unto Allah
@@ -693,25 +681,13 @@ And, this was the consequence of mildness and kindness of the Prophet
 Surah Al-Hajj – Verses 42 - 44
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يُكَذّ‌ِبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ
-وَثَمُودُ
-  </p>
-</blockquote>
+> وَإِن يُكَذّ‌ِبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ
+> وَثَمُودُ
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ
-  </p>
-</blockquote>
+> وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْحَابُ مَدْيَنَ وَكُذّ‌ِبَ مُوسَي فَاَمْلَيْتُ لِلْكَافِرِينَ
-ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ نَكِيرِ
-  </p>
-</blockquote>
+> وَأَصْحَابُ مَدْيَنَ وَكُذّ‌ِبَ مُوسَي فَاَمْلَيْتُ لِلْكَافِرِينَ
+> ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ نَكِيرِ
 
 ***42. “And if they belie you (O’ Prophet) then already before them did
 the people of Noah and ‘Ad and Thamud belie (prophets),”***  
@@ -768,12 +744,8 @@ how (severe) will be My punishment (of them).”***[^18]
 Surah Al-Hajj – Verse 45
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَاَيّـِن مِن قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ
-خَاوِيَةٌ عَلَي عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ
-  </p>
-</blockquote>
+> فَكَاَيّـِن مِن قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ
+> خَاوِيَةٌ عَلَي عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ
 
 ***45. “So how many of townships We did destroy while they were unjust,
 and (their walls) have fallen down over their roofs, and (how many a)
@@ -851,13 +823,9 @@ plants and tilths watered by it.
 Surah Al-Hajj – Verse 46
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الاَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
-بِهَآ أَوْ ءَاذَانٌ يَسْمَعُونَ بِهَا فَإِنَّهَا لاَ تَعْمَي
-الاَبْصَارُ وَلَكِن تَعْمَي الْقُلُوبُ الَّتِي فِي الصُّدُور
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الاَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
+> بِهَآ أَوْ ءَاذَانٌ يَسْمَعُونَ بِهَا فَإِنَّهَا لاَ تَعْمَي
+> الاَبْصَارُ وَلَكِن تَعْمَي الْقُلُوبُ الَّتِي فِي الصُّدُور
 
 ***46. “Have they not traveled in the land so that they should have
 hearts wherewith to understand (the truth), or ears wherewith to hear
@@ -982,12 +950,8 @@ both of them to obtain the facts.[^23]
 Surah Al-Hajj – Verse 47
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
-وَإِنَّ يَوْماً عِندَ رَبّـِكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ
-  </p>
-</blockquote>
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+> وَإِنَّ يَوْماً عِندَ رَبّـِكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ
 
 ***47. “And they demand of you to hasten on the punishment! While does
 never Allah fail His promise; and verily a day with your Lord is as a
@@ -1056,12 +1020,8 @@ An Islamic narration indicates:
 Surah Al-Hajj – Verse 48
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَاَيّـِن مِن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ
-أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَكَاَيّـِن مِن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ
+> أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ
 
 ***48. “And how may of townships I did give a respite while (the people
 therein) were unjust, then I did seize them, and unto Me is the return
@@ -1143,5 +1103,4 @@ be safe from events.’
 [^23]: Taken from Al-Mizan, the Commentary, vol. 14, p. 392
 
 [^24]: Majma‘-ul-Bayan, following the verse under discussion.
-
 

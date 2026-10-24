@@ -75,9 +75,7 @@ and his successors (a.s.) have talked about occultation itself, its
 peculiarities, etc., they have spoken about longevity as well. For
 instance,
 
-<p dir="rtl">
 .« إنُّ لِقائم منّا غيبه يطول امد.ها »
-</p>
 
 “Surely for the Qaem among us, there is an occultation, the duration of
 which will be long.61”
@@ -98,16 +96,12 @@ particularity of Hazrat Mahdi (a.t.f.s.), much before his birth,
 endorsed by traditions from both Shia as well as Sunni references. Imam
 Reza (a.s.) foretells,
 
-<p dir="rtl">
 .« إذا خرج كان في سن الشّيوخ و منظر الشّباب »
-</p>
 
 “When (Mahdi) reappears, he will be old in age but young in
 appearance.63” Another tradition predicts,
 
-<p dir="rtl">
 .« و إن من علاماته أن لا يهرم بمرور الأيام و اللّيالي »
-</p>
 
 “And from his signs is that he will not become old by the passage of
 days and nights.64”
@@ -241,9 +235,7 @@ hair, etc. So, on what basis can we accept the youth of Imam-e-Zaman
 Moreover, a few Quranic verses are used in support of these criticisms,
 one of which is the oft-quoted one,
 
-<p dir="rtl">
 .« كلّ نفسٍ ذائقه الموت »
-</p>
 
 “Every soul has to taste death66.”
 
@@ -510,5 +502,4 @@ ignorance?’ If it is scientific, you should know that a scientist could
 never declare longevity as impossible. And if your discussions are based
 on ignorance, then we have no arguments with the ignorant and you too
 kindly take off your scholarly guise.
-
 

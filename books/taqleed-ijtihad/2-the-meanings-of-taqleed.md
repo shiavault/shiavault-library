@@ -7,11 +7,7 @@ that the word “Taqleed” means several things. You wear a necklace or put
 a wreath around your neck, you will be doing “taqleed”. The word
 “taqleed” comes from the root word “qaladat”. Qaladat means:
 
-<blockquote dir="rtl">
-  <p>
-"القلادة: ما جعل في العنق."
-  </p>
-</blockquote>
+> "القلادة: ما جعل في العنق."
 
 “Something you put around your neck”.
 
@@ -57,5 +53,4 @@ published in Kuwait.
 
 [^3]: Nahjul Balagha, khutba 125, p 182, organized by Dr. Sahmi Saleh,
 published in Beirut.
-
 

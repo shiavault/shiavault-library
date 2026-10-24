@@ -290,7 +290,7 @@ his opposition to their policies and ruling practices.”**[4]**
 
 **[1]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 37  
  **[2]** Farooq Safizaada: Article quoted in Kayhan Farhangi, Issue 170,
 Azar 79, Pg. 80  
@@ -346,12 +346,12 @@ Ibne Abi Talib (a.s.)* [History and political biography of Ali (a.s.)],
 Pg. 29; quoted from *Tarikh Tabari,* Vol. 5, Pg. 76  
  **[2]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 44  
  **[3]** [Ali (a.s.) and Umar]  
  **[4]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 41
 
 Amirul Momineen (a.s.) in the background of these scathing protests
@@ -656,7 +656,7 @@ of some who believe that Imam  
  [1]** Muhammad Waizzaada Khorasani: Article quoted in Kitab Naqd
 Magazine, Issue No. 19, (Vol. 2), Summer 80, Pg. 21 [This article is
 also quoted with many additional parts in *Collected Papers of
-International Conference on Imam Ali* 1<sup>st</sup> Edition 1381, Vol.
+International Conference on Imam Ali* 1st Edition 1381, Vol.
 2  
  **[2]** Asghar Qaidan: *Tahleeli Bar Mawaze Siyasi Ali Ibne Abi Talib
 (a.s.)* [Research on political stands of Ali Ibne Abi Talib (a.s.)], Pg.

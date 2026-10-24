@@ -56,4 +56,3 @@ verbs which indicate sound or sickness, for example: **المُشاء.**
 **أفعَل** indicating a color, for example: **الحَمرَاء.** All other
 *mamdūd* nouns do not have grammatical rules, for example: **الأناء.**
 
-

@@ -27,4 +27,3 @@ you like a crazy person.”
 
 The businessman was ashamed of his behavior and understood Bahlool well.
 
-

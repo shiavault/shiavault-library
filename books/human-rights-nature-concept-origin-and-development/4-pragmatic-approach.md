@@ -13,4 +13,3 @@ agreed upon catalogue of Human Rights, which should be minimal
 definitional guide to understand the essence of human rights and
 fundamental freedoms[^13] .
 
-

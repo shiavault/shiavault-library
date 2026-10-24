@@ -224,4 +224,3 @@ Question 4: [10 points]
  List the ethical rights of brotherhood as described in Chapter 49 of
 the Qur’ān.
 
-

@@ -8,11 +8,7 @@ against his self will acquire it, and this is the greatest reward of
 Allah for the one who is cognizant of it.
 
 > 1ـ ألا وإنَّ الجِهادَ ثَمَنُ الجَنَّةِ، فَمَنْ جاهَدَ نَفْسَهُ
-<blockquote dir="rtl">
-  <p>
-مَلَكَها، وهِيَ أكْرَمُ ثَوابِ اللّهِ لِمَنْ عَرَفَها.
-  </p>
-</blockquote>
+> مَلَكَها، وهِيَ أكْرَمُ ثَوابِ اللّهِ لِمَنْ عَرَفَها.
 
 2. The best *Jihād* is the struggle of a man against his [carnal] soul.
 
@@ -22,11 +18,7 @@ Allah for the one who is cognizant of it.
 and its weaning away from the pleasures of this world.
 
 > 3ـ أفْضَلُ الجِهادِ جِهادُ النَّفْسِ عَنِ الهَوى، وفِطامُها عَنْ
-<blockquote dir="rtl">
-  <p>
-لَذّاتِ الدُّنيا.
-  </p>
-</blockquote>
+> لَذّاتِ الدُّنيا.
 
 4. The first thing that you disavow from *Jihād* is struggling against
 your selves.
@@ -37,11 +29,7 @@ your selves.
 your selves and obedience to those who have authority among you.
 
 > 5ـ آخِرُ ما تَفْقِدُونَ مُجاهَدَةُ أهْوائِكُمْ وطاعَةُ أُولِي الأَمْرِ
-<blockquote dir="rtl">
-  <p>
-مِنْكُمْ.
-  </p>
-</blockquote>
+> مِنْكُمْ.
 
 6. Indeed the best *Jihād* is the struggle of a man against his [carnal]
 soul.
@@ -52,22 +40,14 @@ soul.
 protects it from destruction.
 
 > 7ـ إنَّ مُجاهَدَةَ النَّفْسِ لَتَزِمُّها عَنِ المَعاصِي، وتَعْصِمُها
-<blockquote dir="rtl">
-  <p>
-عَنِ الرَّدى.
-  </p>
-</blockquote>
+> عَنِ الرَّدى.
 
 8. Verily the one who struggles with his [lower] self, in obedience to
 Allah and against disobedience to Him, has the status of a virtuous
 martyr in the sight of Allah.
 
 > 8ـ إنَّ المُجاهِدَ نَفْسَهُ عَلى طاعَةِ اللّهِ وَعَنْ مَعاصِيهِ،
-<blockquote dir="rtl">
-  <p>
-عِنْدَاللّهِ سُبْحانَهُ بِمَنْزِلَةِ بَرّ شَهيد.
-  </p>
-</blockquote>
+> عِنْدَاللّهِ سُبْحانَهُ بِمَنْزِلَةِ بَرّ شَهيد.
 
 9. Indeed the one who struggles against his [lower] self, overcomes his
 anger and is careful in obeying [the commandments of] Allah, is raised
@@ -76,12 +56,8 @@ stands in prayer by night, and is granted the rank of the patient
 soldier [who fights in His way].
 
 > 9ـ إنَّ المُجاهِدَ نَفْسَهُ، والمُغالِبَ غَضَبَهُ، والمُحافِظَ عَلى
-<blockquote dir="rtl">
-  <p>
-طاعَةِ رَبِّهِ، يَرْفَعُ اللّهُ سُبْحانَهُ لَهُ ثَوابَ الصَّائِمِ
-القائِمِ ويُنيلُهُ دَرَجَةَ المُرابِطِ الصّابِرِ.
-  </p>
-</blockquote>
+> طاعَةِ رَبِّهِ، يَرْفَعُ اللّهُ سُبْحانَهُ لَهُ ثَوابَ الصَّائِمِ
+> القائِمِ ويُنيلُهُ دَرَجَةَ المُرابِطِ الصّابِرِ.
 
 10. Verily if you struggle against your [lower] self you will obtain the
 pleasure of Allah.
@@ -114,11 +90,7 @@ your bad habits, [by this] your soul will become pure, your intellect
 will become perfect and the reward of your Lord will be complete.
 
 > 16ـ جاهِدْ شَهْوَتَكَ، وغالِبْ غَضَبَك،وَخالِفْ سُوءَ عادَتِكَ، تَزْكُ
-<blockquote dir="rtl">
-  <p>
-نَفْسُكَ، ويَكْمُلْ عَقْلُكَ، وتَسْتَكْمِلْ ثَوابَ رَبِّكَ.
-  </p>
-</blockquote>
+> نَفْسُكَ، ويَكْمُلْ عَقْلُكَ، وتَسْتَكْمِلْ ثَوابَ رَبِّكَ.
 
 17. Fight against your [lower] self in obedience to Allah the way an
 enemy would fight his enemy, and overpower it the way a rival would
@@ -126,12 +98,8 @@ overpower his opponent, for indeed the strongest person is the one who
 subdues his self.
 
 > 17ـ جاهِدْ نَفْسَكَ عَلى طاعَةِ اللّهِ مُجاهَدَة العَدُوِّ عَدُوَّهُ،
-<blockquote dir="rtl">
-  <p>
-وغالِبْها مُغالَبَةَ الضِّدِّ ضِدَّهُ، فَإنَّ أقْوىَ النّاسِ مَنْ
-قَوِيَ على نَفْسِهِ.
-  </p>
-</blockquote>
+> وغالِبْها مُغالَبَةَ الضِّدِّ ضِدَّهُ، فَإنَّ أقْوىَ النّاسِ مَنْ
+> قَوِيَ على نَفْسِهِ.
 
 18. Struggle against your [lower] self and call it to account the way a
 partner would hold his partner accountable, and demand from it the right
@@ -140,23 +108,15 @@ most felicitous of people is the one who undertakes to hold his self to
 account.
 
 > 18ـ جاهِدْ نَفْسَكَ وحاسِبْها مُحاسَبَةَ الشَّريكِ شَريكَهُ وطالِبْها
-<blockquote dir="rtl">
-  <p>
-بِحُقُوقِ اللّهِ مُطالَبَةَ الخَصْمِ خَصْمَهُ، فَإنَّ أسْعَدَ النّاسِ
-مَنِ انْتَدَبَ لِمحاسَبَةِ نَفْسِهِ.
-  </p>
-</blockquote>
+> بِحُقُوقِ اللّهِ مُطالَبَةَ الخَصْمِ خَصْمَهُ، فَإنَّ أسْعَدَ النّاسِ
+> مَنِ انْتَدَبَ لِمحاسَبَةِ نَفْسِهِ.
 
 19. Struggling against the [lower] self is the price of Paradise, so the
 one who struggles against it will acquire it, and this is the greatest
 reward of Allah for the one who is cognizant of it.
 
 > 19ـ جِهادُ النَّفْسِ ثَمَنُ الجَنَّةِ، فَمَنْ جاهَدَها مَلَكَها وهِيَ
-<blockquote dir="rtl">
-  <p>
-أكْرَمُ ثَوابِ اللّهِ لِمَنْ عَرَفَها.
-  </p>
-</blockquote>
+> أكْرَمُ ثَوابِ اللّهِ لِمَنْ عَرَفَها.
 
 20. Struggling against the self with knowledge is a symbol of
 intelligence.
@@ -180,11 +140,7 @@ self.
 self, that you always prevail over it and fight its vain desires.
 
 > 24ـ كَفاكَ في مُجاهَدَةِ نَفْسِكَ أنْ لاتَزالَ أبَداً لَها مُغالِباً،
-<blockquote dir="rtl">
-  <p>
-وعَلى أهْوِيَتِها مُحارِباً.
-  </p>
-</blockquote>
+> وعَلى أهْوِيَتِها مُحارِباً.
 
 25. One who fights his [lower] self perfects his piety.
 
@@ -217,5 +173,4 @@ self, that you always prevail over it and fight its vain desires.
 32. There is no *Jihād* like struggle against the self.
 
 > 32ـ لا جِهادَ كَجِهادِ النَّفْسِ.
-
 

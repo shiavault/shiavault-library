@@ -461,4 +461,3 @@ him) conveyed the story of Karbala and the martyrdom of Husain (a.s.) to
 Yazeed bin Muawiyah (may the curse of Allah be upon him) and to Amr Ibn
 Saeed Ibn Aas,126 who was the governor of Medina.
 
-

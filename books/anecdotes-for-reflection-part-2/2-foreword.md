@@ -35,4 +35,3 @@ Islamic Education Board
  The World Federation of K S I Muslim Communities  
  Muharram 1426 / February 2005
 
-

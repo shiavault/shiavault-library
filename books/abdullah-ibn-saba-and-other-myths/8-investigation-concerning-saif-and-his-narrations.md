@@ -118,4 +118,3 @@ depended on Saif's in their narrations and we shall compare and contrast
 his narrations with others to find out the methods he used in forging
 them and the value of his stories.
 
-

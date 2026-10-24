@@ -40,14 +40,10 @@ verses about the creation of Hadhrat Adam (*‘a*), the creation of man
 has been explained in such a manner that his weakness and possibility of
 going astray is clearly indicated:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي جَاعِلٌ فِي الأَرْضِ
-خَلِيفَةً قَالُواْ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ
-الدِّمَاء وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّي
-أَعْلَمُ مَا لاَ تَعْلَمُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي جَاعِلٌ فِي الأَرْضِ
+> خَلِيفَةً قَالُواْ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ
+> الدِّمَاء وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّي
+> أَعْلَمُ مَا لاَ تَعْلَمُونَ﴾
 
 “When your Lord said to the angels, ‘Indeed I am going to set a viceroy
 on the earth,’ they said, ‘Will you set in it someone who will cause
@@ -62,21 +58,13 @@ the creation of man which is unknown to the angels.
 Similarly, in some other verses God mentions some moral weaknesses of
 man, as in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا ٭ إِذَا مَسَّهُ الشَّرُّ جَزُوعًا ٭
-وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا ٭ إِذَا مَسَّهُ الشَّرُّ جَزُوعًا ٭
+> وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا﴾
 
 “Indeed man has been created covetous: anxious when an ill befalls him
 and grudging when good comes his way.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الإِنسَانَ لَظَلُومٌ كَفَّارٌ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الإِنسَانَ لَظَلُومٌ كَفَّارٌ﴾
 
 “Indeed man is most unfair and ungrateful!”[^3]
 
@@ -332,12 +320,8 @@ servants, and for this reason, there is no difference among individuals
 as they are all equal in servitude to God. As the Holy Prophet (*s*)
 says,
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُؤْمِنُونَ كَأَسْنَانِ الْمَشْطِ يَتَسَاوُونَ فِي الْحُقُوقِ
-بَيْنَهُمْ
-  </p>
-</blockquote>
+> أَلْمُؤْمِنُونَ كَأَسْنَانِ الْمَشْطِ يَتَسَاوُونَ فِي الْحُقُوقِ
+> بَيْنَهُمْ
 
 “The believers are like the teeth of a comb; they are all equal in
 rights.”[^5]
@@ -452,5 +436,4 @@ October-November 2006, Iran has a population of approximately 70
 million. [Trans.]
 
 [^5]: Bihar al-Anwar, vol. 9, p. 49.
-
 

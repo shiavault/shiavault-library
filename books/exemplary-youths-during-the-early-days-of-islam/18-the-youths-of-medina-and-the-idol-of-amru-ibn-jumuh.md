@@ -60,4 +60,3 @@ in that holy place.”[^1]
 [^1]: Ibn Hishām, Al-Sīrah al-Nabawiyyah, vol. 1, p. 245; Zendegānī-ye
 Hadrat-e Muhammad (The Life of Prophet Muhammad), vol. 1, p. 242.
 
-

@@ -125,4 +125,3 @@ self-sacrifice.
 [^1]: Meaning that when one is selfless, others serve and obey him as
 though they were his slaves.
 
-

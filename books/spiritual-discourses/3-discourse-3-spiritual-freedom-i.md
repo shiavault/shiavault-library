@@ -353,4 +353,3 @@ This is an example of a perfect man who is spiritually free while he
 enjoys the rank of a ruler and in this way he grants social liberty to
 others. I pray God to make us a follower of Ali, peace be upon him.
 
-

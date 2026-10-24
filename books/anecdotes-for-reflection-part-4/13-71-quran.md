@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ‏
-  </p>
-</blockquote>
+> إِنَّ هذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ‏
 
 ***“Surely this Qur’an guides to that which is most upright”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا آمَنَ بِالْقُرْآنِ مَنِ اسْتَحَلَّ مَحَارِمَهُ
-  </p>
-</blockquote>
+> مَا آمَنَ بِالْقُرْآنِ مَنِ اسْتَحَلَّ مَحَارِمَهُ
 
 ***“One who regards as lawful that which the Qur'an considers to be
 unlawful, has not brought faith upon it”***[^2]
@@ -64,11 +56,7 @@ made you take this decision?*
 
 He replied: *I was reading the Qur'an when I came across this verse:*
 
-<blockquote dir="rtl">
-  <p>
-وَ فِي السَّماءِ رِزْقُكُمْ وَ ما تُوعَدُونَ
-  </p>
-</blockquote>
+> وَ فِي السَّماءِ رِزْقُكُمْ وَ ما تُوعَدُونَ
 
 ***“And in the heaven is your sustenance and what you are threatened
 with.”***[^4]
@@ -108,12 +96,8 @@ him and his holy progeny) said to me: “Recite the Qur'an so that I may
 listen to it.”* *I recited the chapter al-Nisaa till I reached the verse
 41:*
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذا جِئْنا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَ جِئْنا بِكَ عَلى‏
-هؤُلاءِ شَهِيداً
-  </p>
-</blockquote>
+> فَكَيْفَ إِذا جِئْنا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَ جِئْنا بِكَ عَلى‏
+> هؤُلاءِ شَهِيداً
 
 **“*****How will it be then, when We bring from every people a witness
 and bring you as a witness against these?”***
@@ -249,5 +233,4 @@ vol. 2, pg. 55.
 يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَ يُبَشِّرُ الْمُؤْمِنِينَ
 
 [^10]: Raahnamaa-e-Sa’adat, vol. 2, pg. 478; Humaa-e-Sa’adat, pg. 96.
-
 

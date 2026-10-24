@@ -277,11 +277,7 @@ sustenance from the words of wisdom. Therefore, in the Holy Qur’an,
 there is mention at several places that Allah considers the infidels and
 morons as dead persons. For example, the Book says,
 
-<blockquote dir="rtl">
-  <p>
-﴿أَمْوَاتٌ غَيْرُ أَحْيَاءٍ وَمَا يَشْعُرُونَ…﴾
-  </p>
-</blockquote>
+> ﴿أَمْوَاتٌ غَيْرُ أَحْيَاءٍ وَمَا يَشْعُرُونَ…﴾
 
 ***“They (the infidels) are dead, not living, but they have no knowledge
 of this.”*** **(16:21)**
@@ -558,5 +554,4 @@ to Allah throughout one’s life will not be sufficient. Every morning and
 evening one must crave for His Forgiveness for the mistakes committed!”
 
 There are more details on the subject in the next chapter.
-
 

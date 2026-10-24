@@ -329,4 +329,3 @@ rational proof, gnostic visions are considered a powerful corroboration,
 and in reality, that which is understood by the philosophy by means of
 reason is found by the gnostic by means of visions of the heart.
 
-

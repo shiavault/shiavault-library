@@ -894,4 +894,3 @@ could do it and from among the divinely purified ones only Husayn was
 now left in the world, to face the situation. The sacrifice the task
 needed was the Greatest One, i.e., the ‘*Zibhe Azeem*'.
 
-

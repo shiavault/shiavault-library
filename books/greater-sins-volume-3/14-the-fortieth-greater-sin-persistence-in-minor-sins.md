@@ -621,4 +621,3 @@ prone to commit.
 
 [^22]: Wasa’il ul-Shia Vol. 3 page 29
 
-

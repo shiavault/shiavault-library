@@ -329,4 +329,3 @@ Al-Mīzān, vol. 9, p. 163; Al-Ghadīr, vol. 3, p. 330; Bihār al-Anwār,
 vol. 38, p. 167; Sharh Nahj al-Balāghah, vol. 3, p. 401; Ghāyat
 al-Marām, p. 71; Tārīkh Baghdād, vol. 13, p. 19.
 
-

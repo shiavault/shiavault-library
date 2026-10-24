@@ -327,4 +327,3 @@ Lesson 55
  (c) Intentionally not doing *Ghusl janabat* up to *subh al-sadiq*.  
  2. What is *kaffarah* for an old aged person who cannot fast
 
-

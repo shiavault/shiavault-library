@@ -44,12 +44,8 @@ Islamic texts in relation to this topic so that may be known that what
 we discuss here is the view expressed in the Islamic works.  
  I started out my discussion with a verse of the Qurʾan which states:
 
-<blockquote dir="rtl">
-  <p>
-] أُدْعُ إِلـى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَ  الْمَوْعِظَةِ
- الْحَسَنَةِ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ [
-  </p>
-</blockquote>
+> ] أُدْعُ إِلـى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَ  الْمَوْعِظَةِ
+>  الْحَسَنَةِ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ [
 
 *“Call others to the path of your Lord through wisdom and good
 exhortation and argue with them in the best possible manner.”*[^1]
@@ -115,5 +111,4 @@ time.  Thus, it is clear that the ways through which we can guide people
 are not all the same, nor are they equal!
 
 [^1]: Suratul Nahl (16), Verse 125
-
 

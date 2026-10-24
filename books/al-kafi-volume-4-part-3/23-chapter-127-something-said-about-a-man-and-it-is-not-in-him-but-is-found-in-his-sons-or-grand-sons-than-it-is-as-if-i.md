@@ -43,7 +43,6 @@ even if he may not have committed them but such acts are found in his
 sons or his grandsons after him then he will be it (the one who has in
 reality his practiced such acts)."
 
-
 **Chapter 128 : All the Imams (a.s.) rise for and with authority of
 Allah, the Most High and guide to Him Allah**
 
@@ -112,7 +111,6 @@ We will call every nation with her Imam (leader) . . ." (17:71) The Imam
 (a.s.) said, "It refers to the Imam who is with them and he is al-Qa'im
 of the people of that time."
 
-
 **Chapter 129 : Compensation and Imam (a.s.)**
 
 1
@@ -179,5 +177,4 @@ from ibn Bukayr who has said the following
 "I heard abu 'Abdallah (a.s.) say, 'I procure payment of one Dirham
 from a person of you when I am the wealthiest of the people of the city
 of al-Madina . I accept such payments just to purify you."
-
 

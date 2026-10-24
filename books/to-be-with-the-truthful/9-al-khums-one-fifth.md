@@ -185,4 +185,3 @@ Sunni 'ulamā', admitting its veracity.
 
 [^4]: Ibid., Vol. II, p. 136, "bāb mā yustakhraj min al-bahr".
 
-

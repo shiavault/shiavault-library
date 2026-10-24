@@ -34,11 +34,7 @@ it or making a mistake in it.
 
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-سَنُقْرِئُكَ فَلَا تَنسَى‏
-  </p>
-</blockquote>
+> سَنُقْرِئُكَ فَلَا تَنسَى‏
 
 ***“We will make you recite so you shall not forget…” (87:6)***
 
@@ -148,13 +144,9 @@ Qirtas.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ نَزَّلْنَا عَلَيْكَ كِتَباً فِى قِرْطَاسٍ فَلَمَسُوهُ
-بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُواْ إِنْ هَذَآ إِلَّا سِحْرٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> وَ لَوْ نَزَّلْنَا عَلَيْكَ كِتَباً فِى قِرْطَاسٍ فَلَمَسُوهُ
+> بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُواْ إِنْ هَذَآ إِلَّا سِحْرٌ
+> مُبِينٌ
 
 ***“And if We had sent to you a writing on a paper, then they had
 touched it with their hands, certainly those who disbelieve would have
@@ -484,23 +476,15 @@ them.
 
 In this way was realized the divine promise when God said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَفِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَفِظُونَ
 
 ***“Surely We have revealed the Reminder and We will most surely be its
 guardian.” (15:9)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ
-تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ
+> تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
 
 ***“Falsehood shall not come to it from before it nor from behind it; a
 revelation from the Wise, the Praised One.” (41:42)***
@@ -556,5 +540,4 @@ Pg. 78.
 [^23]: Suyuti, Al-Itqan, Vol. 1, Pg. 79.
 
 [^24]: Suyuti, Al-Itqan, Vol. 1, Pg. 79.
-
 

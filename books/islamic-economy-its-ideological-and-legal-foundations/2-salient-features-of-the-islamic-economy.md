@@ -118,4 +118,3 @@ providing subsistence for every individual. The Ima'm (\`a) says, while
 speaking of the duties of the wali'y al-amr [leader] toward the needy:
 "He keeps giving him from zaka'h till he makes him needless."
 
-

@@ -70,4 +70,3 @@ it.
 
 [^1]: Complex ignorance: ignorance of one’s own ignorance. [Trans.]
 
-

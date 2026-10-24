@@ -436,4 +436,3 @@ alleged that some of the most faithful pioneers of Islam such as Abu
 Darr (RA) and Ammar Yasir (RA) were the students of Abdullah Ibn Saba
 during the reign of Uthman.
 
-

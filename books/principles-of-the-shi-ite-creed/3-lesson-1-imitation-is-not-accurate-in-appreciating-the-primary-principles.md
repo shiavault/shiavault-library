@@ -43,4 +43,3 @@ secondary principles and beliefs and divine commands, if the person is
 not an expert, that is, a jurisprudent, he should consult a qualified
 jurisprudent and follow his opinions and insights.
 
-

@@ -896,4 +896,3 @@ stipulated that if it is lost or damaged he will have to give him
 compensation for it, he cannot demand from the lender the compensation
 which he gives to the rightful owner of the property.
 
-

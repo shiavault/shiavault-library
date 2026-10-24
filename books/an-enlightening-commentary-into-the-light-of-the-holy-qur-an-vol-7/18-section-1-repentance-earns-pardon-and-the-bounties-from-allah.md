@@ -4,18 +4,10 @@ Section 1: Repentance Earns Pardon and the Bounties from Allah
 Surah Hud – Verse 1
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الر كِتَابٌ اُحْكِمَتْ ءَايَاتُهُ ثُمَّ فُصِّلَتْ مِن لَدُنْ حَكِيمٍ
-خَبِيرٍ
-  </p>
-</blockquote>
+> الر كِتَابٌ اُحْكِمَتْ ءَايَاتُهُ ثُمَّ فُصِّلَتْ مِن لَدُنْ حَكِيمٍ
+> خَبِيرٍ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -69,12 +61,8 @@ All-Aware.”***
 Surah Hud – Verse 2
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلاَّ تَعْبُدُوا إِلاَّ اللَّهَ إِنَّنِي لَكُم مِنْهُ نَذِيرٌ
-وَبَشِيرٌ
-  </p>
-</blockquote>
+> أَلاَّ تَعْبُدُوا إِلاَّ اللَّهَ إِنَّنِي لَكُم مِنْهُ نَذِيرٌ
+> وَبَشِيرٌ
 
 ***2. “(It teaches) that you should worship none but Allah. Verily, I am
 for you from Him, a warner and a bearer of glad tidings.”***
@@ -109,14 +97,10 @@ tidings.”***
 Surah Hud – Verse 3
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُمَتّعْكُم
-مَتَاعاً حَسَناً إِلَي أَجَلٍ مُسَمّيً وَيُؤْتِ كُلَّ ذِي فَضْلٍ
-فَضْلَهُ وَإِن تَوَلَّوْا فَإِنّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ
-كَبِيرٍ
-  </p>
-</blockquote>
+> وَأَنِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُمَتّعْكُم
+> مَتَاعاً حَسَناً إِلَي أَجَلٍ مُسَمّيً وَيُؤْتِ كُلَّ ذِي فَضْلٍ
+> فَضْلَهُ وَإِن تَوَلَّوْا فَإِنّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ
+> كَبِيرٍ
 
 ***3. “And that you seek the forgiveness of Allah and turn unto Him in
 repentance so that He may provide you with a goodly provision to an
@@ -175,11 +159,7 @@ Penalty of a Great Day.”***
 Surah Hud – Verse 4
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَي اللَّهِ مَرْجِعُكُمْ وَهُوَ عَلَي كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> إِلَي اللَّهِ مَرْجِعُكُمْ وَهُوَ عَلَي كُلِّ شَيْءٍ قَدِيرٌ
 
 ***4. “To Allah is your return and He is All-Powerful over
 everything.”***
@@ -209,13 +189,9 @@ The verse continues saying:
 Surah Hud – Verse 5
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلآ إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ أَلا حِينَ
-يَستَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
-إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-  </p>
-</blockquote>
+> أَلآ إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ أَلا حِينَ
+> يَستَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+> إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
 
 ***5. “Behold! They fold up their breasts to hide them from him (the
 Prophet)! Behold! Even when they cover themselves with their garments,
@@ -261,12 +237,8 @@ is in the hearts.”***
 Surah Hud – Verse 6
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِن دَآبَّةٍ فِي الاَرْضِ إِلاَّ عَلَي اللَّهِ رِزْقُهَا
-وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِي كِتَابٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَمَا مِن دَآبَّةٍ فِي الاَرْضِ إِلاَّ عَلَي اللَّهِ رِزْقُهَا
+> وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِي كِتَابٍ مُبِينٍ
 
 ***6. “And there is no moving creature on the earth but its sustenance
 is on Allah, and He knows its resting place and its depository. All is
@@ -346,14 +318,10 @@ discovery, and acquisition of those resources.
 Surah Hud – Verse 7
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي سِتَّةِ أَيَّامٍ
-وَكَانَ عَرْشُهُ عَلَي الْمَآءِ لِيَبْلُوَكُمْ اَيُّكُمْ أَحْسَنُ
-عَمَلاً وَلَئِن قُلْتَ إِنَّكُم مَبْعُوثُونَ مِن بَعْدِ الْمَوْتِ
-لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ هَذَآ إِلا سِحْرٌ مُبِينٌ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي سِتَّةِ أَيَّامٍ
+> وَكَانَ عَرْشُهُ عَلَي الْمَآءِ لِيَبْلُوَكُمْ اَيُّكُمْ أَحْسَنُ
+> عَمَلاً وَلَئِن قُلْتَ إِنَّكُم مَبْعُوثُونَ مِن بَعْدِ الْمَوْتِ
+> لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ هَذَآ إِلا سِحْرٌ مُبِينٌ
 
 ***7. “And He it is Who created the heavens and the earth within Six
 Days (periods), and His Throne was over the water so that He might try
@@ -420,13 +388,9 @@ manifest sorcery’.”***
 Surah Hud – Verse 8
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَي اُمَّةٍ مَعْدُودَةٍ
-لَيَقُولُنَّ مَا يَحْبِسُهُ أَلاَ يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفاً
-عَنْهُمْ وَحَاقَ بِهِم مَاكَانُوا بِهِ يَسْتَهْزِءُونَ
-  </p>
-</blockquote>
+> وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَي اُمَّةٍ مَعْدُودَةٍ
+> لَيَقُولُنَّ مَا يَحْبِسُهُ أَلاَ يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفاً
+> عَنْهُمْ وَحَاقَ بِهِم مَاكَانُوا بِهِ يَسْتَهْزِءُونَ
 
 ***8. “And if We postpone the penalty from them until a limited period
 of time, they will surely say: ‘What prevents it?’ Beware! On the day it
@@ -480,5 +444,4 @@ will not deal with them here for the sake of brevity.
 [^1]: Surah ‘Ankabut, No. 29, verse 60
 
 [^2]: Surah Ar-Ra‘d, No. 13, verse 43
-
 

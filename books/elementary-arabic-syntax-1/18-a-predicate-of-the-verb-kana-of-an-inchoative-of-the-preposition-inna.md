@@ -9,4 +9,3 @@ in the section of nominative nouns.[^1]
 
 [^1]: Refer to questions 28-31
 
-

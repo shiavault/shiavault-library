@@ -1151,4 +1151,3 @@ Hashim ibn Muhammed (one of the sixth century A.H. scholars) in Misbah
 al-Anwar and by al-Jaza’iri in Al-Anwar al-Nu\`maniyya through a
 different chain of isnad; so, you may refer to it.
 
-

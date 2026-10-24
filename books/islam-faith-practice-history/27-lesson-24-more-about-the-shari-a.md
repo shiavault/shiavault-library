@@ -228,4 +228,3 @@ obligatory.
  Explain in your own words the relationship between “beliefs” and
 “laws”.
 
-

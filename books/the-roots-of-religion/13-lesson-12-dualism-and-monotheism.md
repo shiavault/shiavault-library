@@ -196,4 +196,3 @@ spiritual and intellectual domains?
 13. What was an error made by the ancient Iranians who considered
 extremes of heat and cold and poisonous animals to be evil?
 
-

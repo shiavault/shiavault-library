@@ -380,4 +380,3 @@ from those acting obstinately. For the people of Medina who preferred
 Jerusalem, God made the Kaaba the Muslims' kiblah so that these two
 could be identified.[^82]
 
-

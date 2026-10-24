@@ -3,7 +3,6 @@ Memorable Words and Speeches of the Commander of the Faithful
 
 **His Words about God**
 
-
 (This is) a brief account of some of the words of (the Commander of the
 faithful), peace be on him, concerning the necessity of knowing God, the
 Exalted, His unity and the denial of anthropomorphism (tashbih),
@@ -40,7 +39,6 @@ fully reported, would make this book too long.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 Among the speeches recorded on his authority, peace be on him, about
 the denial of any comparison of God (with human qualities) is that which
 al-Sha'bi reported. He said that the Commander of the faithful, peace be
@@ -57,9 +55,7 @@ contains, yet from Whom nothing on earth or in heaven is hidden."
 for perjury is required of you, for you were only swearing by something
 else."
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 The historians (ahl al-sira wa 'ulama al-naqala)report that a man 1
 came to the Commander of the faithful, peace be on him, and asked:
@@ -82,9 +78,7 @@ His message."
 In this account there is evidence that (the Commander of the faithful)
 denied the possibility of direct vision of God, the Mighty and High.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 [Al-Hasan b. Abi al-Hasan al-Basri reported:]
 
@@ -141,13 +135,11 @@ reward you with kindness.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 This account clarifies, through the words of the Commander of the
 faithful, peace be on him, the meaning of (divine) justice and the
 prohibition of (belief in) the doctrine of determinism (jabr), (in
 addition to) establishing the wisdom in the actions of God, the Exalted,
 and denying that there is any futility in them.
-
 
 His Words about Knowledge ('Ilm)
 
@@ -217,9 +209,7 @@ worshippers to His (true) religion.
 Then he breathed a deep sigh and said: "Oh, how I long to see them." He
 took his hand from mine and said to me: "Go now, if you wish."
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Among the words of (the Commander of the faithful), peace be on him,
 urging people to knowledge (ma'rifa), explaining its merit, and the
@@ -265,7 +255,6 @@ hears, One Who answers."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 Among his statements, peace be on him, about the description of the one
 who possesses knowledge ('alim) and the training of one who seeks to
 possess knowledge is what is reported by al-Harith al-A'war. He said: I
@@ -290,7 +279,6 @@ knowledge ('alim) dies, a breach is made in Islam which can only be
 filled by his successor and the one who seeks after knowledge. The
 angels ask for forgiveness for him and those in heaven and on earth pray
 for him."
-
 
 His Words concerning Heresy.
 
@@ -366,9 +354,7 @@ there will be dread punishment. Indeed this (agreement with the Book and
 the family) is a sweet pleasant drink, so drink. But that (opposition)
 is salty and brackish, so avoid it.' "
 
-
 His Words about this World and the Next
-
 
 (Here is an extract from) his words, peace be on him, describing the
 world and warning against it.5
@@ -381,7 +367,6 @@ its possessions. For whenever one who possesses (the world) seeks to
 take ease from it, it diverts him from it to what is hateful."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 (These are some of ) his words, peace be on him, regarding getting
 ready to go to the next world, preparing to meet God, may His Name be
@@ -464,9 +449,7 @@ actions without the account (to be settled). Tomorrow is (the day) for
 the account (to be settled) without (the opportunity for performing)
 good actions."
 
-
 His Words about Companions, Ascetics and his Shi'a
-
 
 Among the speeches which he, peace be on him, gave, mentioning the
 choice companions and ascetics, is that which Sa'sa'a b. Suhan al'Abdi
@@ -491,7 +474,6 @@ had remained heedless (of his words).
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 (These are some of) his words, peace be on him, concerning his sincere
 Shi'a. The historians (naqalat al-athar) report that one evening he,
 peace be on him, left the mosque. It was a moon-lit night. He headed
@@ -511,9 +493,7 @@ through weeping, hunched backs through standing (in prayer), hollow
 stomachs through fasting, dry lips through prayer, and there is the dust
 of those who show humility on them."8
 
-
 His Words concerning Death
-
 
 Among his words, peace be on him, warning and mentioning death is (the
 speech) which has become well-known. From it (is the following):9
@@ -539,9 +519,7 @@ not for transitory existence. For you will travel from one abode to
 another. So make provision for where you are going and where you will
 dwell for ever. Peace (be with you)."
 
-
 Speeches Urging Men to Himself and his Family
-
 
 (There are) among his speeches, peace be on him, those which urge men
 (to follow) him, give evidence of his own outstanding merit and of his
@@ -600,9 +578,7 @@ realised. Through us, the rope of humiliation will be removed from your
 necks. It is through us, not you, that God brings conquest. It is
 through us, not you, that He sets the seal (on life)."
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Another extract from his speech, peace be on him, urging (men) to
 himself and his family, peace be on him, are his words:
@@ -669,7 +645,6 @@ before al-Walid b.'Uqba who was our governor at that time. He sent for
 me and imprisoned me until someone spoke to him about me and then he
 freed me.
 
-
 Speeches about those who refrained from Pledging Allegiance to him and
 those who broke their Pledge.
 
@@ -698,7 +673,6 @@ Sa'd, Ibn Maslama, Usama,'Abd Allah and Hassan b. Thabit which I
 dislike. Truth (will be decided) between them and me."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 (These are some of) his words, peace be upon him, when Talha and
 al-Zubayr reneged on their pledge of allegiance and set out for Mecca to
@@ -790,9 +764,7 @@ him? By God, the dogs of al-Haw'ab14 bark at her but does one who
 reflects interpret and one who ponders ponder? The sinful party has
 established itself. Where are the good?"
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 When the Commander of the faithful, peace be on him, headed for Basra,
 he stopped at al-Rabadha. The last (of the returning) pilgrims met him
@@ -879,7 +851,6 @@ Then he made a prayer against them.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 ['Abd al-Hamid b. 'Imran al-'Ijli reported on the authority of Salama
 b. Kuhayl, who said:] When the people of Kufa met the Commander of the
 faithful, peace be on him, at Dhu Qar, they welcomed him and said:
@@ -925,7 +896,6 @@ judgement on anything which they have done well and show them the evil
 (which will result) from their actions."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Among his speeches, peace be on him, is (the speech he made) when he
 left Dhu Qar setting out for Basra. After praising and glorifying God
@@ -974,7 +944,6 @@ call), then forgiveness will be given and the right course will have
 been accepted. There should be no ingratitude to God. If they refuse, I
 will let them have the edge of the sword. There is sufficiency in it as
 a healer of a false man and a helper of a believer."
-
 
 His Words before and after the Battle of the Camel
 

@@ -968,4 +968,3 @@ al-Khulafa’, Government Press, Lahore, 1870, p. 255
 
 [^63]: Al-Baghdadi, op. cit., 138 – 39.
 
-

@@ -123,4 +123,3 @@ special because the blessing of being the daughter of the Prophet is
 offered to her and because of the kindness and respect which has been
 devoted to her.
 
-

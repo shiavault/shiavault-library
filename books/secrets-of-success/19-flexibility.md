@@ -98,4 +98,3 @@ In other words we consider flexibility as a sign of defeat and disgrace.
 But both wisdom and Shariat say that it is a principle of success to
 show flexibility to an extent, which does not harm our original aim.
 
-

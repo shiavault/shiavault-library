@@ -33,17 +33,9 @@ Tenth Abbasade Caliph & Then The caliphs afterwards.
 Forty Discourses from Imam Ali Naqi (as)
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن الامام علي النقي عليه السلام
-  </p>
-</blockquote>
+> عن الامام علي النقي عليه السلام
 
 1. There is no security from the evil of the one who is disregarded &
 humiliated in his own eyes. [^1]
@@ -121,11 +113,7 @@ such time he knows it (for sure). [^9]
 does not reach it, is upon beneficence. And this is the word of Allah
 wherein he says.
 
-<blockquote dir="rtl">
-  <p>
-«ومن يخرج من بيته مهاجراًال الله و رسوله ... الاية»
-  </p>
-</blockquote>
+> «ومن يخرج من بيته مهاجراًال الله و رسوله ... الاية»
 
 'The one who comes out of his house as a migrant towards Allah & His
 prophet then the death finds him (on that way) his reward is upon
@@ -191,11 +179,7 @@ there would be no physician to stop it (death) & no friend to benefit
 you. [^19]
 
 > 19- أُذکُر مَصرَعَکَ بَينَ يَدَي أهلِکَ وَلا طَبيبَ يَمنَعُکَ وَلا
-<blockquote dir="rtl">
-  <p>
-حَبيبَ يَنفَعُکَ
-  </p>
-</blockquote>
+> حَبيبَ يَنفَعُکَ
 
 > (اعيان الشيعة (الطبع الجديد) ج2 ص39)
 
@@ -284,101 +268,37 @@ departed. [^27]
 
 > 27- شعرا نشده الامام عليه السلام،يخاطب به التوکل العباسی:
 
-<blockquote dir="rtl">
-  <p>
-باتُوا عَلی قُلَلِ الأَجبال تَحرُسُهُم
-  </p>
-</blockquote>
+> باتُوا عَلی قُلَلِ الأَجبال تَحرُسُهُم
 
-<blockquote dir="rtl">
-  <p>
-غُلبُ الرِّجالِ فَلَم تَنفعهُم القُلَلُ
-  </p>
-</blockquote>
+> غُلبُ الرِّجالِ فَلَم تَنفعهُم القُلَلُ
 
-<blockquote dir="rtl">
-  <p>
-وَاستُنزلوُا بَعدَ عِزٍّعَن مَعاقِلِهِم
-  </p>
-</blockquote>
+> وَاستُنزلوُا بَعدَ عِزٍّعَن مَعاقِلِهِم
 
-<blockquote dir="rtl">
-  <p>
-وَأسکِنُوا حُفَراً يا بِئسَ ما نَزَلوُا
-  </p>
-</blockquote>
+> وَأسکِنُوا حُفَراً يا بِئسَ ما نَزَلوُا
 
-<blockquote dir="rtl">
-  <p>
-ناداهُمُ صارخٌ مِن بَعدِ دَفنِهِمُ
-  </p>
-</blockquote>
+> ناداهُمُ صارخٌ مِن بَعدِ دَفنِهِمُ
 
-<blockquote dir="rtl">
-  <p>
-أَينَ الأَساوِرُوَالتّيجانُ وَالحُلَلُ
-  </p>
-</blockquote>
+> أَينَ الأَساوِرُوَالتّيجانُ وَالحُلَلُ
 
-<blockquote dir="rtl">
-  <p>
-اَينَ الوُجوُهُ الَّتي کانَت مُنَعَّمَةً
-  </p>
-</blockquote>
+> اَينَ الوُجوُهُ الَّتي کانَت مُنَعَّمَةً
 
-<blockquote dir="rtl">
-  <p>
-مِن دُونِها تُضرَبُ الأَستارُ وَالکلَلُ
-  </p>
-</blockquote>
+> مِن دُونِها تُضرَبُ الأَستارُ وَالکلَلُ
 
-<blockquote dir="rtl">
-  <p>
-فَأَفصَحَ القَبرُ عَنهُم حينَ ساءَلَهُم
-  </p>
-</blockquote>
+> فَأَفصَحَ القَبرُ عَنهُم حينَ ساءَلَهُم
 
-<blockquote dir="rtl">
-  <p>
-تِلکَ الوُجوُهُ عَلَيها الدّوُدُ يَقتَتِلُ
-  </p>
-</blockquote>
+> تِلکَ الوُجوُهُ عَلَيها الدّوُدُ يَقتَتِلُ
 
-<blockquote dir="rtl">
-  <p>
-قَد طالَما أَکَلوُادَ هراً وَقَد شَرِبُوا
-  </p>
-</blockquote>
+> قَد طالَما أَکَلوُادَ هراً وَقَد شَرِبُوا
 
-<blockquote dir="rtl">
-  <p>
-فَأَصبَحُوا اليَومَ بَعدَ الأَکلِ قَد أکِلُوا
-  </p>
-</blockquote>
+> فَأَصبَحُوا اليَومَ بَعدَ الأَکلِ قَد أکِلُوا
 
-<blockquote dir="rtl">
-  <p>
-وَطالَما عَمَّروُا دوُراً لِتُسکِنَهُم
-  </p>
-</blockquote>
+> وَطالَما عَمَّروُا دوُراً لِتُسکِنَهُم
 
-<blockquote dir="rtl">
-  <p>
-فَفارَقُوا الدّوُرَ وَالأَهلينَ وَانتَقَلوُا
-  </p>
-</blockquote>
+> فَفارَقُوا الدّوُرَ وَالأَهلينَ وَانتَقَلوُا
 
-<blockquote dir="rtl">
-  <p>
-وَطالَما کَنَّزوُا الأَموالَ وَادَّخَروُا
-  </p>
-</blockquote>
+> وَطالَما کَنَّزوُا الأَموالَ وَادَّخَروُا
 
-<blockquote dir="rtl">
-  <p>
-فَفَرَّقُوها عَلَی الأَعداءِ وَارتَحَلوُا
-  </p>
-</blockquote>
+> فَفَرَّقُوها عَلَی الأَعداءِ وَارتَحَلوُا
 
 > (اعيان الشيعة (الطبع الجديد) ج2 ص38)
 
@@ -543,5 +463,4 @@ cause of (people's) despise, scorn, & ignorance.[^39]
 [^38]: Ayun ush-Shia, Vol. 2, P 39, Modem Print
 
 [^39]: Ayun ush-Shia, Vol. 2, P 39, Modem Print
-
 

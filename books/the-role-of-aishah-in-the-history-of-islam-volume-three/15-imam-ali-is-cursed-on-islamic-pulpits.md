@@ -77,7 +77,6 @@ I said: "By God! What I knew was much finer than these innovations and
 unfamiliar ways!" Marwan said: "The people never lingered our sermons.
 So we were compelled to place the sermon before the prayer."(372)
 
-
 **A group of people refuses to curse**
 
 O Muawiyah! In cursing 'Ali you are cursing God and the Prophet from
@@ -334,7 +333,6 @@ the Prophet in favour of that party, and thus she resorted also to other
 traditions in reproach of the Alawite party. These two matters are what
 Hakim had warned her against, and to which she had paid no attention.
 
-
 **A tradition from 'A'ishah**
 
 'A'ishah! Had you forgotten this tradition?
@@ -395,7 +393,6 @@ some, or cavilling at others. What we are investigating are the
 traditions, which we will mention in the last part of this book. Our
 task is to survey the traditions which are narrated from the Prophet,
 and that is why we have stepped in this course.
-
 
 **Conclusion and Purpose**
 
@@ -633,7 +630,6 @@ continue to deal with her traditions in the second part. May we succeed
 in winning God's satisfaction in following this objective! May God be a
 witness to what we have narrated!
 
-
 Sayyid Murtada 'Askari
 
 Addendum The effort made by the Sunnis in correcting and explaining a
@@ -750,5 +746,4 @@ reference.(412)
 Thus the mountain of Thawr was first discovered in the second half of
 the 7th century, and then after another seven centuries, namely in the
 14th century, it was registered on a geographical map!
-
 

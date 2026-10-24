@@ -31,4 +31,3 @@ earth will be lush green and flushed with vegetation.[^6]
 
 [^6]: (Muntakhab al-Asar, p. 157.)
 
-

@@ -1,37 +1,29 @@
 Twenty-Second Hadith: The Aversion For Death
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى رُكْنِ الإسْلامِ وَثِقَتِهِ مُحَمَّدِ
-بْنِ يَعْقُوبَ الكُلَيْنِي عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ
-بْنِ مُحَمَّدٍ، عَنْ بَعْضِ أَصْحَابِهِ، عَنِ الحَسَنِ بْنِ عَلِيِّ
-بْنِ أبِي عُثْمَانَ، عَنْ وَاصِلٍ، عَنْ عَبْدِاللهِ بْنِ سِنَانٍ، عَنْ
-أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: جَاءَ رَجُلٌ إلَى أبِي
-ذَرٍّ فَقَالَ: يَا أبَا ذَرٍّ، مَا لَنَا نَكْرَهُ المَوْتَ؟ فَقَالَ:
-لأنَّكُمْ عَمَّرْتُمُ الدُّنْيَا وَأَخْرَبْتُمُ الآخِرَةَ
-فَتَكْرَهُونَ أنْ تُنْقَلُوا مِنْ عُمْرانٍ إلى خَرابٍ. فَقِالَ لَهُ:
-فَكَيْفَ تَرَى قُدُومَنَا عَلَى اللهِ؟ فَقَالَ: أمَّا المُحْسِنُ
-مِنْكُمْ فَكَالغَائِبِ يَقْدِمُ عَلَى أَهْلِهِ، وَأَمَّا المُسِيءُ
-مِنْكُمْ فَكَالآبِقِ يُرَدُّ عَلَى مَوْلاهُ. قَالَ: فَكَيْفَ تَرَى
-حَالَنَا عِنْدَ اللهِ؟ قَالَ: إعْرِضُوا أَعْمَالَكُمْ عَلَى الكِتَابِ:
-إنَّ اللهَ يَقُولُ: ﴿إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ. وَإِنَّ
-الْفُجَّارَ لَفِي جَحِيمٍ.﴾ قَالَ: فَقَالَ الرَّجُلُ: فَأَيْنَ
-رَحْمَةُ اللهِ؟ قَالَ: ﴿رَحْمَةَ اللَّهِ قَرِيبٌ مِنْ الْمُحْسِنِينَ.﴾
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى رُكْنِ الإسْلامِ وَثِقَتِهِ مُحَمَّدِ
+> بْنِ يَعْقُوبَ الكُلَيْنِي عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ
+> بْنِ مُحَمَّدٍ، عَنْ بَعْضِ أَصْحَابِهِ، عَنِ الحَسَنِ بْنِ عَلِيِّ
+> بْنِ أبِي عُثْمَانَ، عَنْ وَاصِلٍ، عَنْ عَبْدِاللهِ بْنِ سِنَانٍ، عَنْ
+> أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: جَاءَ رَجُلٌ إلَى أبِي
+> ذَرٍّ فَقَالَ: يَا أبَا ذَرٍّ، مَا لَنَا نَكْرَهُ المَوْتَ؟ فَقَالَ:
+> لأنَّكُمْ عَمَّرْتُمُ الدُّنْيَا وَأَخْرَبْتُمُ الآخِرَةَ
+> فَتَكْرَهُونَ أنْ تُنْقَلُوا مِنْ عُمْرانٍ إلى خَرابٍ. فَقِالَ لَهُ:
+> فَكَيْفَ تَرَى قُدُومَنَا عَلَى اللهِ؟ فَقَالَ: أمَّا المُحْسِنُ
+> مِنْكُمْ فَكَالغَائِبِ يَقْدِمُ عَلَى أَهْلِهِ، وَأَمَّا المُسِيءُ
+> مِنْكُمْ فَكَالآبِقِ يُرَدُّ عَلَى مَوْلاهُ. قَالَ: فَكَيْفَ تَرَى
+> حَالَنَا عِنْدَ اللهِ؟ قَالَ: إعْرِضُوا أَعْمَالَكُمْ عَلَى الكِتَابِ:
+> إنَّ اللهَ يَقُولُ: ﴿إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ. وَإِنَّ
+> الْفُجَّارَ لَفِي جَحِيمٍ.﴾ قَالَ: فَقَالَ الرَّجُلُ: فَأَيْنَ
+> رَحْمَةُ اللهِ؟ قَالَ: ﴿رَحْمَةَ اللَّهِ قَرِيبٌ مِنْ الْمُحْسِنِينَ.﴾
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أبُو عَبْدِاللهِ عَلَيْهِ السَّ‍لامُ: وَكَتَبَ رَجُلٌ إلَى أَبِي
-ذَرٍّ، رَضِيَ اللهُ عَنْهُ: يَا أَبَا ذَرٍّ، أَطْرِفْنِي بِشَيْءٍ مِنَ
-العِلْمِ. فَكَتَبَ إلَيْهِ: العِلْمُ كَثِيرٌ، وَلَكِنْ إنْ قَدِرْتَ
-أنْ لا تُسِيءَ إلَى مَنْ تُحِبُّهُ فَافْعَلْ. قَالَ: فَقَالَ لَهُ
-الرَّجُلُ: وَهَلْ رَأَيْتَ أَحَداً يُسِيءُ إلَى مَنْ يُحِبُّهُ؟
-فَقَالَ لَهُ: نَعَمْ، نَفْسُكَ أَحَبُّ الأنْفُسِ إلَيْكَ، فَإذَا
-أَنْتَ عَصَيْتَ اللهَ فَقَدْ أسَأْتَ إلَيْهَا.
-  </p>
-</blockquote>
+> قَالَ أبُو عَبْدِاللهِ عَلَيْهِ السَّ‍لامُ: وَكَتَبَ رَجُلٌ إلَى أَبِي
+> ذَرٍّ، رَضِيَ اللهُ عَنْهُ: يَا أَبَا ذَرٍّ، أَطْرِفْنِي بِشَيْءٍ مِنَ
+> العِلْمِ. فَكَتَبَ إلَيْهِ: العِلْمُ كَثِيرٌ، وَلَكِنْ إنْ قَدِرْتَ
+> أنْ لا تُسِيءَ إلَى مَنْ تُحِبُّهُ فَافْعَلْ. قَالَ: فَقَالَ لَهُ
+> الرَّجُلُ: وَهَلْ رَأَيْتَ أَحَداً يُسِيءُ إلَى مَنْ يُحِبُّهُ؟
+> فَقَالَ لَهُ: نَعَمْ، نَفْسُكَ أَحَبُّ الأنْفُسِ إلَيْكَ، فَإذَا
+> أَنْتَ عَصَيْتَ اللهَ فَقَدْ أسَأْتَ إلَيْهَا.
 
 With my continuous sanad reaching up to the pillar of Islam and its
 reliable authority, Muhammad ibn Ya’qub al-Kulayni, from Muhammad ibn
@@ -135,13 +127,9 @@ fear of the reckoning is due to our own inequity and our self-deceptive
 and fraudulent evaluation of our own selves. In the noble *al-Kafi*, the
 following *musnad* tradition of Hadrat Musa ibn Ja’far (A) is recorded:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: لَيْسَ مِنّا مَنْ لَمْ يُحَاسِبْ فِيْ كُلِّ يَوْمٍ نَفْسَهُ،
-فَإنْ عَمِلَ حَسَناً اسْتَزَادَ اللهَ مِنْهُ وَحَمِدَ اللهَ عَلَيْهِ،
-وَإنْ عَمِلَ شَيْئاً اسْتَغْفَرَ اللهَ مِنْهُ وَتَابَ إلَيْهِ.
-  </p>
-</blockquote>
+> قَالَ: لَيْسَ مِنّا مَنْ لَمْ يُحَاسِبْ فِيْ كُلِّ يَوْمٍ نَفْسَهُ،
+> فَإنْ عَمِلَ حَسَناً اسْتَزَادَ اللهَ مِنْهُ وَحَمِدَ اللهَ عَلَيْهِ،
+> وَإنْ عَمِلَ شَيْئاً اسْتَغْفَرَ اللهَ مِنْهُ وَتَابَ إلَيْهِ.
 
 The Imam (A) said, “One who does not examine and evaluate himself every
 day is not one of us (i.e. he is not a follower of the Prophet and the
@@ -164,11 +152,7 @@ has been mentioned in *ahadith* that Amir al-Mu’minin (A) is the
 reported to have stated, “We are the *Sirat*.” In the blessed
 *al-Ziyarat al-jami’ah*, it is stated:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتُمُ السَّبِيلُ الأَعْظَمُ وَالصِّرَاطُ الأَقْوَمُ.
-  </p>
-</blockquote>
+> أَنْتُمُ السَّبِيلُ الأَعْظَمُ وَالصِّرَاطُ الأَقْوَمُ.
 
 You (the Ahl al-Bayt) are the greatest path (sabil) and the firmest way
 (Sirat).[^5]
@@ -182,11 +166,7 @@ will be no fear upon him in those realms. Hence, here, we are ourselves
 responsible for the malady, and its remedy is in our own hands, as
 pointed out by Hadrat Amir al-Mu’minin in verses ascribed to him:
 
-<blockquote dir="rtl">
-  <p>
-دَوَاؤُكَ فِيكَ وَمَا تَشْعُرُ وَدَاؤُكَ مِنْكَ وَمَا تُبْصِرُ
-  </p>
-</blockquote>
+> دَوَاؤُكَ فِيكَ وَمَا تَشْعُرُ وَدَاؤُكَ مِنْكَ وَمَا تُبْصِرُ
 
 The remedy lies in you and you perceive not  
  The malady arises from you and you discern not.[^6]
@@ -194,14 +174,10 @@ The remedy lies in you and you perceive not
 And the noble *al-Kafi* records the following *musnad* tradition of al’
 Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ لِرَجُلٍ: إنَّكَ قَدْ
-جُعِلْتَ طَبِيبَ نَفْسِكَ وَبُيِّنَ لَكَ الدَّاءُ وَعُرِّفْتَ آيَةَ
-الصِّحَّةِ وَدُلِلْتَ عَلَى الدَّوَاءِ، فَانْظُرْ كَيْفَ قِيَامُكَ
-عَلَى نَفْسِكَ.
-  </p>
-</blockquote>
+> قَالَ أبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ لِرَجُلٍ: إنَّكَ قَدْ
+> جُعِلْتَ طَبِيبَ نَفْسِكَ وَبُيِّنَ لَكَ الدَّاءُ وَعُرِّفْتَ آيَةَ
+> الصِّحَّةِ وَدُلِلْتَ عَلَى الدَّوَاءِ، فَانْظُرْ كَيْفَ قِيَامُكَ
+> عَلَى نَفْسِكَ.
 
 The Imam (A) said to a man, “Verily, you have been made your own doctor.
 The malady has been described to you, the sign of health ho also been
@@ -218,11 +194,7 @@ although they may regard it with fear and anxiety on account of their
 awe of the Majesty of God, the Exalted, and the dignity of that Sacred
 Essence. And hence, the Messenger of Allah (S) used to say;
 
-<blockquote dir="rtl">
-  <p>
-فَأَيْنَ هَوْلُ المُطَّلَعِ؟
-  </p>
-</blockquote>
+> فَأَيْنَ هَوْلُ المُطَّلَعِ؟
 
 So where is the terror of him who knows?
 
@@ -230,12 +202,8 @@ And Hadrat Amir al-Mu’minin (A) had a terrific fear and horror on the
 night of the nineteenth of Ramadan (the night of his assassination),
 although he used to say:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ، لابْنُ أَبِي طَالِبٍ آنَسُ بِالمَوْتِ مِنَ الطِّفْلِ بِثَدْيِ
-أُمِّهِ.
-  </p>
-</blockquote>
+> وَاللهِ، لابْنُ أَبِي طَالِبٍ آنَسُ بِالمَوْتِ مِنَ الطِّفْلِ بِثَدْيِ
+> أُمِّهِ.
 
 By God, the son of Abu Talib is more intimate with death than an infant
 with its mother’s bosom.
@@ -325,21 +293,13 @@ and evil works and deeds of the Children of Adam, which return to them
 in that world. This has also been referred to in the noble verses of the
 Qur’an, as in the following utterance of God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
-  </p>
-</blockquote>
+> ﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
 
 ***And they find all that they did confronting them.*** (***18:49***)
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا هِيَ أَعْمَالُكُمْ تُرَدُّ إِلَيْكُمْ.
-  </p>
-</blockquote>
+> إنَّمَا هِيَ أَعْمَالُكُمْ تُرَدُّ إِلَيْكُمْ.
 
 Indeed, these are your own works that are being returned to you.[^11]
 
@@ -450,5 +410,4 @@ hadith no. 6.
 [^10]: Bihar al-’anwar, xviii, 292.
 
 [^11]: Al-Majlisi, ‘Ilm al-yaqin, ii, 884.
-
 

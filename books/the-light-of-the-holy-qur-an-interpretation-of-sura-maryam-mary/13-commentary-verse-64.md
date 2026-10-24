@@ -52,7 +52,6 @@ forgetful. The verse says:
 
 "…And your Lord is not forgetful."
 
-
 **Commentary : Verse 65**
 
 65- رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ
@@ -94,5 +93,4 @@ and the term /rabb-us-samawat-i-wal-'ard/ (the Lord of the heavens and
 the earth) in this verse is an indication to the Unity of
 administrationship in running the life of man with the whole universal
 being.
-
 

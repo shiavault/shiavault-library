@@ -244,4 +244,3 @@ sentences in question ('These are gharaniq, who are high in position and
 their intercession is acceptable') you will certainly observe they will
 be contradictory to the verses preceding and succeeding them.
 
-

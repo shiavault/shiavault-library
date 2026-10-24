@@ -364,4 +364,3 @@ http://al-islam.org/nahjul/index.htm (Eds.)
 
 [^8]: Ibid., pp. 27-32. (Eds.)
 
-

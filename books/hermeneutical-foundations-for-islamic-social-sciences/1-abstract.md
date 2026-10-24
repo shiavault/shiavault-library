@@ -36,4 +36,3 @@ Keywords: hermeneutics, sacred science, Islamized science,
 interpretation, understanding, philosophy of the social sciences,
 Bultmann, Gadamer, Nasr, Plantinga.
 
-

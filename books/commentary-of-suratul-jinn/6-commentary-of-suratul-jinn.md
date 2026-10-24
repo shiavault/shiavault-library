@@ -6,12 +6,8 @@ Commentary of Suratul Jinn
 Commentary of Verse 1
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا
-إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا
-  </p>
-</blockquote>
+> قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا
+> إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا
 
 “*Say (O' Muhammad to the people), 'It has been revealed to me (from
 Allah) that a group from amongst the Jinn has listened (to the
@@ -70,12 +66,8 @@ Qur'an.
 Commentary of Verse 2
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَنْ نُشْرِكَ بِرَبِّنَا
-أَحَدًا
-  </p>
-</blockquote>
+> يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَنْ نُشْرِكَ بِرَبِّنَا
+> أَحَدًا
 
 “*(This Qur'an which we heard) guides (people) to the right path, so
 then we have believed in it and we shall never join in worship anyone or
@@ -108,12 +100,8 @@ Commentary of Verse 3
 
    
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا
-وَلَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا
+> وَلَدًا
 
    
  “And *verily He (Our Lord - Allah) glory be to Him has not taken a
@@ -171,12 +159,8 @@ this word is used as well.
 is quoted as saying:  
   
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَمْدُ لِلٌّهِ الْفٌاشِي فِي الْخَلْقِ حَمْدُهُ وَ الْغٌالِبَ
-جُنْدُهُ وَ الْمُتَعَالَى جَدُّهُ.
-  </p>
-</blockquote>
+> اَلْحَمْدُ لِلٌّهِ الْفٌاشِي فِي الْخَلْقِ حَمْدُهُ وَ الْغٌالِبَ
+> جُنْدُهُ وَ الْمُتَعَالَى جَدُّهُ.
 
 “*All praise belongs to Allah who has spread His praise throughout His
 creation and whose army is victorious and who is the Highest over His
@@ -185,12 +169,8 @@ Greatness.”*
  In another hadith it has been mentioned that Anas ibn Malik said:  
   
 
-<blockquote dir="rtl">
-  <p>
-كٌانَ الرَّجُلُ إِذٌا قَرَأَ سُوْرَةُ الْبَقَرَةُ جَدُّ فِي
-اَعْيُنِنٌا
-  </p>
-</blockquote>
+> كٌانَ الرَّجُلُ إِذٌا قَرَأَ سُوْرَةُ الْبَقَرَةُ جَدُّ فِي
+> اَعْيُنِنٌا
 
 “*Whenever a person would read Suratul Baqarah, he would be seen as
 great in our eyes.”*[^4]  
@@ -210,12 +190,8 @@ spouse!
  This hypothesis is substantiated by the contents of Suratul Saffat
 (37), verse 158:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ
-الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ
-  </p>
-</blockquote>
+> وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ
+> الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ
 
 *“They have said that there is a relationship between Him and the
 Jinn.”*  
@@ -224,11 +200,7 @@ Jinn.”*
 Commentary of Verse 4
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
-  </p>
-</blockquote>
+> وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
 
   “And *verily he (the dimwitted one - the Devil/Shaytan) among us has
 been telling confused lies about Allah (in order to try and misguide
@@ -278,12 +250,8 @@ are very far away from the water are referred to as **'شطّ'.**
 Commentary of Verse 5
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ
-كَذِبًا 
-  </p>
-</blockquote>
+> وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ
+> كَذِبًا
 
 “And *verily we thought that Man or Jinn could never tell lies about
 Allah (however, we are definitely wrong).”*  
@@ -319,12 +287,8 @@ Commentary of Verse 6
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ
-الْجِنِّ فَزَادُوهُمْ رَهَقًا
-  </p>
-</blockquote>
+> وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ
+> الْجِنِّ فَزَادُوهُمْ رَهَقًا
 
   “And *verily men from among human beings would seek refuge with men
 from among the Jinn and this increased the rebelliousness of those
@@ -349,11 +313,7 @@ One such superstition was that whenever a group of \`Arabs would enter
 into a valley in the evening, they would say:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِعَزِيزِ هَذَا الْوَادِي مِنْ شَرِّ سُفُهاءُ قَوْمِهِ
-  </p>
-</blockquote>
+> أَعُوذُ بِعَزِيزِ هَذَا الْوَادِي مِنْ شَرِّ سُفُهاءُ قَوْمِهِ
 
 “*I seek refuge from the great one of this valley from the evil of the
 chief of his (Shaytan) tribe.”*[^5]  
@@ -382,12 +342,8 @@ foretold.
 Commentary of Verse 7
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ
-أَحَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ
+> أَحَدًا
 
   “And *verily they (those people) thought just as you all thought that
 Allah would never bring raise up a single person (as a Messenger).”*  
@@ -418,11 +374,7 @@ Noble Prophet (prayers of Allah be upon him and his family).
     
  Some commentators have suggested that the phrase:
 
-<blockquote dir="rtl">
-  <p>
-'أَنْ لَنْ يَبْعَثَ اللهُ أَحَداً'
-  </p>
-</blockquote>
+> 'أَنْ لَنْ يَبْعَثَ اللهُ أَحَداً'
 
 or that 'Allah (Glorified and Exalted is He) would never appoint anyone'
 refers to the denial of the Resurrection and not the denial of the
@@ -452,12 +404,8 @@ Commentary of Verse 8
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا
-وَشُهُبًا
-  </p>
-</blockquote>
+> وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا
+> وَشُهُبًا
 
  “*And* *verily we searched the heavens however we found in them, strong
 protecting missiles waiting for us.”*  
@@ -476,12 +424,8 @@ strong protectors, guardians and missiles.[^7]
 Commentary of Verse 9
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَنْ
-يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
-  </p>
-</blockquote>
+> وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَنْ
+> يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
 
 “*And* *verily we used to sit near by and try to listen (to the news
 coming from the heavens), but shooting missiles now await those who try
@@ -546,12 +490,8 @@ is the meaning that is conveyed in this verse.
 Commentary of Verse 10
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ
-بِهِمْ رَبُّهُمْ رَشَدًا
-  </p>
-</blockquote>
+> وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ
+> بِهِمْ رَبُّهُمْ رَشَدًا
 
   “And *verily we do not know if He intends evil to those who are in the
 Earth or if their Lord intends guidance for them.”*  
@@ -606,12 +546,8 @@ Commentary of Verse 11
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا
-طَرَائِقَ قِدَدًا
-  </p>
-</blockquote>
+> وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا
+> طَرَائِقَ قِدَدًا
 
 “*And* *among us, certainly some of us are righteous and others are not.
 Verily, all of us are following different paths.”*  
@@ -672,12 +608,8 @@ Commentary of Verse 12
 
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ
-نُعْجِزَهُ هَرَبًا
-  </p>
-</blockquote>
+> وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ
+> نُعْجِزَهُ هَرَبًا
 
 “And *verily we thought that we could never challenge Allah whether we
 stayed on the Earth if we fled elsewhere.”*  
@@ -719,12 +651,8 @@ Commentary of Verse 13
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَنْ يُؤْمِنْ
-بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
-  </p>
-</blockquote>
+> وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَنْ يُؤْمِنْ
+> بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
 
  “And *verily we have surely listened to the guidance (of the Qur'an)
 and so we believe in it. And whoever believes in his Lord will not fear
@@ -777,12 +705,8 @@ records, thus, there is no mention for the reward of their acts.
 Commentary of Verse 14
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ
-أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا
-  </p>
-</blockquote>
+> وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ
+> أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا
 
    
   “And *verily among us are Muslims and among us are those who have
@@ -810,11 +734,7 @@ Commentary of Verse 15
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
-  </p>
-</blockquote>
+> وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
 
 “*And* *however, as for the deviators from the Truth, they shall be the
 fuel for hell.”*  
@@ -837,12 +757,8 @@ and tyrant. 
 never been an oppressor or tyrant, just as the hadith from the Noble
 Prophet of Islam (prayers of Allah be upon him and his family) states:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُؤْمِنُ مَنْ آمَنَهُ النٌّاسَ عَلـى أَنْفُسِهِمْ وَ
-أَمْوٌالِهِمْ.
-  </p>
-</blockquote>
+> أَلْمُؤْمِنُ مَنْ آمَنَهُ النٌّاسَ عَلـى أَنْفُسِهِمْ وَ
+> أَمْوٌالِهِمْ.
 
 “*The true believer is one with whom other people's lives and wealth are
 protected.”*[^10]  
@@ -851,11 +767,7 @@ protected.”*[^10]
 his family) it is mentioned that:  
   
 
-<blockquote dir="rtl">
-  <p>
-لْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسٌانِهِ وَ يَدِهِ.
-  </p>
-</blockquote>
+> لْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسٌانِهِ وَ يَدِهِ.
 
 “*The Muslim is one whom other Muslims are protected from his tongue and
 his hand (verbal or physical assault).”*[^11]  
@@ -878,12 +790,8 @@ Commentary of Verse 16
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً
-غَدَقًا
-  </p>
-</blockquote>
+> وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً
+> غَدَقًا
 
 “*And* *had they (the Jinn and Mankind) remained steadfast in their
 religion (of al-Islam), We would certainly have given them abundant
@@ -957,12 +865,8 @@ something that many people find difficult to hold on to. 
 Commentary of Verse 17
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-لِنَفْتِنَهُمْ فِيهِ ۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ
-عَذَابًا صَعَدًا
-  </p>
-</blockquote>
+> لِنَفْتِنَهُمْ فِيهِ ۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ
+> عَذَابًا صَعَدًا
 
 “*So that We may try them with respect to it; and whoever turns away
 from the reminder of his Lord, He will make him enter into an afflicting
@@ -1017,11 +921,7 @@ found in Suratul Muddathir (74), verse 17 in which it will be said to a
 group of the polytheists:  
   
 
-<blockquote dir="rtl">
-  <p>
-سَأُرْهِقُهُ صَعُودًا
-  </p>
-</blockquote>
+> سَأُرْهِقُهُ صَعُودًا
 
 ”*I will make a distressful punishment overtake him.”*  
     
@@ -1043,11 +943,7 @@ perpetual, painful and grievous punishment.
 Taha (20), verse 124 where we read:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا ..
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا ..
 
 “*And* *whoever forsakes the remembrance of Me (Allah) then without
 doubt such a person will have a cramped, confined life.”*  
@@ -1057,22 +953,14 @@ mentions the following from the speech of Prophet Sulayman ibn Dawud
 (peace be upon him):  
   
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ
-  </p>
-</blockquote>
+> هَٰذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ
 
 “*This is from the grace of my Lord so that He may test me - am I
 grateful or I be ungrateful.”*  
     
  Also, in Suratul Anfal (8), verse 28 it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ
 
 “*You (all) should know that without doubt your wealth and your children
 are all a test (for you.)”*  
@@ -1084,11 +972,7 @@ Commentary of Verse 18
 
  
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
-  </p>
-</blockquote>
+> وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
 
    
  “And *verily the Masajid (places of worship) are solely reserved for
@@ -1120,11 +1004,7 @@ He).
 upon him and his family), it is stated:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَجُعِلْتُ لِيَ الأَرْضَ مَسْجِداً وَ طَهُوراً 
-  </p>
-</blockquote>
+> أَجُعِلْتُ لِيَ الأَرْضَ مَسْجِداً وَ طَهُوراً
 
 ”*The whole Earth was made a place of prostration and purifier
 (tayammum) for me.”*[^14]  
@@ -1243,11 +1123,7 @@ try to rely on verses of the Qur'an such as the above verse under
 discussion:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
-  </p>
-</blockquote>
+> وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
 
 “And verily the Masajid (mosques) are only for Allah, so then do not
 call upon other than Allah in them.”[^18]  
@@ -1287,13 +1163,9 @@ as well.
     
  In verse 103 of Suratul Tawbah (9) we read the following:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
-وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ ۗ وَاللَّهُ سَمِيعٌ
-عَلِيمٌ
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
+> وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ ۗ وَاللَّهُ سَمِيعٌ
+> عَلِيمٌ
 
 *“(O' Prophet Muhammad!) Take from their (the believers) wealth some
 Sadaqah.  This act will purify them and make them clean and (at the time
@@ -1304,12 +1176,8 @@ All-Hearing, All-Knowing.”*
  Also, in verse 97 of Surah Yusuf (12), Yusuf's brothers speaking to
 their father Ya\`qub, ask of him:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
-خَاطِئِينَ
-  </p>
-</blockquote>
+> قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
+> خَاطِئِينَ
 
 *“O' our father (Ya\`qub), please ask forgiveness (from Allah) for our
 sins.  Verily we are the ones who had committed an error.”*  
@@ -1318,11 +1186,7 @@ sins.  Verily we are the ones who had committed an error.”*
 their request, rather, he cooperated with them and said in verse 98 of
 Surah Yusuf (12):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي
-  </p>
-</blockquote>
+> قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي
 
 “*Soon shall I seek forgiveness for you from My Lord*.”  
     
@@ -1334,12 +1198,8 @@ and is actually one of the clear commandments of Allah.
 Commentary of Verse 19
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ
-عَلَيْهِ لِبَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ
+> عَلَيْهِ لِبَدًا
 
 “And *then surely when the servant of Allah (Muhammad) stood up calling
 upon Him (and calling others towards himself and read the Qur'an to
@@ -1392,11 +1252,7 @@ Commentary of Verse 20
 
  
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
 
 “*Say (O' Muhammad): Surely I only call upon my Lord, and I do not
 associate anyone or anything with Him.”*  
@@ -1419,11 +1275,7 @@ polytheism!
 Commentary of Verse 21
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
-  </p>
-</blockquote>
+> قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
 
  ”*Say (O' Muhammad): Surely I do not control for you evil and nor (do I
 control for you) any good.”*  
@@ -1440,12 +1292,8 @@ upon a person.
 Commentary of Verse 22
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ
-دُونِهِ مُلْتَحَدًا
-  </p>
-</blockquote>
+> قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ
+> دُونِهِ مُلْتَحَدًا
 
 “*Say (O' Muhammad): Surely I have no protection from Allah from anybody
 and nor can I find any place of refuge from other than Him.”*  
@@ -1515,12 +1363,8 @@ and thus, these two words go along with one another.
 Commentary of Verse 23
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا بَلَاغًا مِنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَنْ يَعْصِ اللَّهَ
-وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
-  </p>
-</blockquote>
+> إِلَّا بَلَاغًا مِنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَنْ يَعْصِ اللَّهَ
+> وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
 
  “*(It is) only a delivering (of revelation) from Allah and (delivering
 of) His messages; and he who disobeys Allah and His Messenger, then
@@ -1538,11 +1382,7 @@ He).[^21]
  This verse is somewhat similar to what is found in Suratul Maidah (5),
 verse 92 in which it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-…أَنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
-  </p>
-</blockquote>
+> …أَنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
 
 “…*know that only a clear deliverance of the message is (incumbent) on
 Our Apostle.”*  
@@ -1550,14 +1390,10 @@ Our Apostle.”*
  In verse 188 of Suratul A\`raf (7), it is mentioned:  
   
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَاءَ
-اللَّهُ ۚ وَلَوْ كُنْتُ أَعْلَمُ الْغَيْبَ لَاسْتَكْثَرْتُ مِنَ
-الْخَيْرِ وَمَا مَسَّنِيَ السُّوءُ ۚ إِنْ أَنَا إِلَّا نَذِيرٌ
-وَبَشِيرٌ لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُلْ لَا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَاءَ
+> اللَّهُ ۚ وَلَوْ كُنْتُ أَعْلَمُ الْغَيْبَ لَاسْتَكْثَرْتُ مِنَ
+> الْخَيْرِ وَمَا مَسَّنِيَ السُّوءُ ۚ إِنْ أَنَا إِلَّا نَذِيرٌ
+> وَبَشِيرٌ لِقَوْمٍ يُؤْمِنُونَ
 
 “*Say: I do not control any benefit or harm for my own soul except as
 Allah pleases; and had I known the unseen I would have had much of good
@@ -1589,11 +1425,7 @@ on various other verses of the Qur'an in which these words have been
 used in the same meaning such as in verse 62 of Suratul A\`raf (7) where
 it is stated:
 
-<blockquote dir="rtl">
-  <p>
-أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي
-  </p>
-</blockquote>
+> أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي
 
 “*I convey to you the messages of my Lord.”*  
     
@@ -1611,12 +1443,8 @@ eternity.
 Commentary of Verse 24
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ
-نَاصِرًا وَأَقَلُّ عَدَدًا
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ
+> نَاصِرًا وَأَقَلُّ عَدَدًا
 
 “*Until when they all see that which they are threatened with, then
 shall they know who is weaker in helping and fewer in number.”*  
@@ -1652,12 +1480,8 @@ all-encompassing one, then it will apply to all of these explanations.
     
  In addition, in verse 75 of Surah Maryam (19), it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-… حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا
-السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا
-  </p>
-</blockquote>
+> … حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا
+> السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا
 
 “*Until they see what they were threatened with, either the punishment
 or the hour; then they shall know who is in more evil plight and weaker
@@ -1688,21 +1512,13 @@ or conceited.
     
  However, with the likes of Fir\`awn, we see him foolishly proclaim:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا رَبُّكُمُ الْأَعْلَىٰ
-  </p>
-</blockquote>
+> أَنَا رَبُّكُمُ الْأَعْلَىٰ
 
 “*I am your lord, the most high!”*[^24]  
     
  We also see Fir\`awn proclaim to the masses that:
 
-<blockquote dir="rtl">
-  <p>
-… وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِنْ تَحْتِي...
-  </p>
-</blockquote>
+> … وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِنْ تَحْتِي...
 
 “*And* *these rivers that flow beneath me by my permission.”*[^25]  
     
@@ -1713,23 +1529,15 @@ ability or command.
     
  In verse 110 of Suratul Kahf (18), we read the following:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَىٰ إِلَيَّ …
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَىٰ إِلَيَّ …
 
 “*Say (O' Muhammad), verily I am only a human being just like you.  It
 has been revealed to me (by Allah)…”*  
     
  In another place in the Qur'an, it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-..وَمَا أَدْرِي مَا يُفْعَلُ بِي وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا
-مَا يُوحَىٰ إِلَيَّ وَمَا أَنَا إِلَّا نَذِيرٌ مُبِينٌ
-  </p>
-</blockquote>
+> ..وَمَا أَدْرِي مَا يُفْعَلُ بِي وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا
+> مَا يُوحَىٰ إِلَيَّ وَمَا أَنَا إِلَّا نَذِيرٌ مُبِينٌ
 
 “*And* *I do not know what will happen to me or to you and I follow
 nothing except that which has been revealed (by Allah) to me and I am
@@ -1737,12 +1545,8 @@ not but a clear warner to you.”*[^26]
     
  In yet another verse of the Qur'an, we read the following:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ
-الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ …
-  </p>
-</blockquote>
+> قُلْ لَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ
+> الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ …
 
 ”*Say (O' Muhammad!) I do not say to you that with me are the treasures
 of Allah nor do I have knowledge of the Unseen nor do I say (to you)
@@ -1752,11 +1556,7 @@ that I am an angel.”*[^27]
 reached to a level of temporal power over the creations, they still did
 not change and people such as Prophet Sulayman (peace be upon him) said:
 
-<blockquote dir="rtl">
-  <p>
-..هَٰذَا مِنْ فَضْلِ رَبِّي…
-  </p>
-</blockquote>
+> ..هَٰذَا مِنْ فَضْلِ رَبِّي…
 
 “..*This is from the grace of my Lord.”*[^28]  
     
@@ -1797,22 +1597,14 @@ Prophets.
  In order to ridicule and make fun of the companions of Musa (peace be
 upon him), Fir\`awn said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ
-  </p>
-</blockquote>
+> إِنَّ هَٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ
 
 “*Most surely, this is a small group of people.”*[^29]  
     
  The polytheists of \`Arabia are quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ
-بِمُعَذَّبِينَ
-  </p>
-</blockquote>
+> وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ
+> بِمُعَذَّبِينَ
 
 “*We have more wealth and more children and we will not be
 punished.”*[^30]  
@@ -1821,11 +1613,7 @@ punished.”*[^30]
 or faith will stand up in front of a believer and people around him and
 addressing him say:
 
-<blockquote dir="rtl">
-  <p>
-.. أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا
-  </p>
-</blockquote>
+> .. أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا
 
 “*I have greater wealth than you and am mightier in followers.”*[^31]  
     
@@ -1834,12 +1622,8 @@ Prophets and leaders appointed by Allah (Glorified and Exalted is He)
 will never rely on having a large group of people around him.  Their
 thought pattern and logic will be:
 
-<blockquote dir="rtl">
-  <p>
-.. كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ
-اللَّهِ ..
-  </p>
-</blockquote>
+> .. كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ
+> اللَّهِ ..
 
 “*How often has a small party of people defeated a large party of people
 by the permission of Allah.”*[^32]  
@@ -1848,12 +1632,8 @@ by the permission of Allah.”*[^32]
 quoted as saying:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهٌا النٌّاسُ لاٌ تَسْتَوْحِشُوا فِي طَرِيقِ الْهُدى لِقِلَّةِ
-أَهْلِهِ.
-  </p>
-</blockquote>
+> أَيُّهٌا النٌّاسُ لاٌ تَسْتَوْحِشُوا فِي طَرِيقِ الْهُدى لِقِلَّةِ
+> أَهْلِهِ.
 
 “*O' people! Do not be frightened while on the path of guidance due to
 the small number of people on it.”*[^33]  
@@ -1871,12 +1651,8 @@ Ahzab also display this fact to us.
 Commentary of Verse 25
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي
-أَمَدًا
-  </p>
-</blockquote>
+> قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي
+> أَمَدًا
 
  ”*Say (O' Muhammad): I do not know whether that with which you are
 threatened with is close or if my Lord will appoint for it (the Day of
@@ -1935,22 +1711,14 @@ upon him and his family) in the form of a desert \`Arab, and of the many
 questions that he asked the Prophet, one of them was:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَخْبِرْنِي عَنِ السٌّاعَةِ
-  </p>
-</blockquote>
+> أَخْبِرْنِي عَنِ السٌّاعَةِ
 
 *“Tell me, when will the Day of Judgement take place?” *  
     
  The Prophet (blessings of Allah be upon him and his family) replied:  
   
 
-<blockquote dir="rtl">
-  <p>
-مٌا الْمَسْئُولُ عَنْهٌا بِأَعْلَمَ مِنَ السٌّائِلِ
-  </p>
-</blockquote>
+> مٌا الْمَسْئُولُ عَنْهٌا بِأَعْلَمَ مِنَ السٌّائِلِ
 
 *“The person whom you are asking this question to (regarding this issue)
 is no more knowledgeable that the one who is asking the question!”*  
@@ -1958,22 +1726,14 @@ is no more knowledgeable that the one who is asking the question!”*
  Once again, the desert \`Arab, this time in a loud voice asked:  
   
 
-<blockquote dir="rtl">
-  <p>
-يٌا مُحَمَّدَ! مَتـى السٌّاعَةُ؟؟ 
-  </p>
-</blockquote>
+> يٌا مُحَمَّدَ! مَتـى السٌّاعَةُ؟؟
 
 *“O' Muhammad! When will the Day of Judgement be??” *  
     
  The Prophet (blessings of Allah be upon him and his family) replied:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَيْحَكَ أَنَهٌّا كٌائِنَةٌ فَمٌا أَعْدَدْتَ لَها؟
-  </p>
-</blockquote>
+> وَيْحَكَ أَنَهٌّا كٌائِنَةٌ فَمٌا أَعْدَدْتَ لَها؟
 
 *“Woe upon you! The Day of Judgement WILL COME!  Go ahead* *and tell me
 what you have prepared for that day?” *  
@@ -1984,22 +1744,14 @@ lot, but I love Allah and His Messenger.” 
  The Prophet (blessings of Allah be upon him and his family) replied:  
   
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْتَ مَعَ مَنْ أَحْـبَبْتَ
-  </p>
-</blockquote>
+> فَأَنْتَ مَعَ مَنْ أَحْـبَبْتَ
 
 ”*Thus, you will be with those people who you love!”*  
     
  Anas, one of the companions of the Prophet relates that:  
   
 
-<blockquote dir="rtl">
-  <p>
-فَما فَرِحَ الْمُسْلِمُونَ بِشَيْءٍ فَرِحَهُمْ بِهذٌا الْحَدِيثِ
-  </p>
-</blockquote>
+> فَما فَرِحَ الْمُسْلِمُونَ بِشَيْءٍ فَرِحَهُمْ بِهذٌا الْحَدِيثِ
 
 *“The Muslims were not delighted with any other speech, as they were
 with this one.”*[^34]  
@@ -2008,11 +1760,7 @@ with this one.”*[^34]
 Commentary of Verse 26
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
 
 “*The Knower of the Unseen! So then He does not reveal His secrets to
 anyone.”*  
@@ -2030,12 +1778,8 @@ except to those people whom He wants to give this knowledge to.[^35]
 Commentary of Verse 27
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
-  </p>
-</blockquote>
+> إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
 
 “*Except to him whom He is pleased with from among (His) Messengers so
 then surely He places before him and behind him a guard.”*
@@ -2080,12 +1824,8 @@ Commentary of Verse 28
 
  
 
-<blockquote dir="rtl">
-  <p>
-لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا
-لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
-  </p>
-</blockquote>
+> لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا
+> لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
 
  ”*So that He may know that they have truly delivered the messages of
 their Lord, and He encompasses what is with them and He records the
@@ -2301,5 +2041,4 @@ previously, the word رسالات was used in relation to the personage of the
 Prophet of Islam (blessings of Allah be upon him and his family), it is
 highly unlikely that this (second) explanation is correct - thus, the
 truth lies in the commentary given.
-
 

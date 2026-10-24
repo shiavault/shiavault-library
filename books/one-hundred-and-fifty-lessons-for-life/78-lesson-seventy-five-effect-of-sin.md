@@ -3,12 +3,8 @@ Lesson Seventy Five: Effect Of Sin
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يَمُوتُ بالذُّنُوبِ أَكْثَرُ مِمَّنْ يَمُوتُ بِالآجالِ وَ مَنْ
-يَعِيشُ بِالإِحْسانِ أَكْثَرُ مِمَّنْ يَعِيشُ بِالأَعْمارِ
-  </p>
-</blockquote>
+> مَنْ يَمُوتُ بالذُّنُوبِ أَكْثَرُ مِمَّنْ يَمُوتُ بِالآجالِ وَ مَنْ
+> يَعِيشُ بِالإِحْسانِ أَكْثَرُ مِمَّنْ يَعِيشُ بِالأَعْمارِ
 
 Translation
 -----------
@@ -34,5 +30,4 @@ life span. Hence, sin shortens life, and beneficence prolongs it.
 
 [^1]: Safinat’ul-Bihar. Mustadrak Alwasail, vol 11, page 327. AlAmali,
 page 305.
-
 

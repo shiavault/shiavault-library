@@ -7,11 +7,7 @@ Perfection
 pursuits and fulfilling the needs of the seeker.
 
 > 1ـ اَلْكَمالُ في ثَلاث، اَلصَّبْرُ عَلَى النَّوائِبِ، والتَّوَرُّعُ
-<blockquote dir="rtl">
-  <p>
-فِي المَطالِبِ، وَإسْعافُ الطّالِبِ.
-  </p>
-</blockquote>
+> فِي المَطالِبِ، وَإسْعافُ الطّالِبِ.
 
 2. Perfection [of what is desired] is non-existent in this world.
 
@@ -25,10 +21,5 @@ pursuits and fulfilling the needs of the seeker.
 is his own feeling of imperfection [in himself].
 
 > 4ـ مِنْ كَمالِ الإنْسانِ ووُفُورِ فَضْلِهِ اِسْتِشْعارُهُ بِنَفْسِهِ
-<blockquote dir="rtl">
-  <p>
-النُّقْصانَ.
-  </p>
-</blockquote>
-
+> النُّقْصانَ.
 

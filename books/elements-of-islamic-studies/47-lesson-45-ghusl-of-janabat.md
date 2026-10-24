@@ -40,4 +40,3 @@ Quran more than seven ayats. (This applies to the Surahs in which no
 be *haram*); (3) take a Quran or carry it from one place to other, even
 without touching it.
 
-

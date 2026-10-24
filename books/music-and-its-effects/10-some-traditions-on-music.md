@@ -87,4 +87,3 @@ because for everything are its people.
 Ar-Ridha (a.s.) mentioned the participation in the musical gatherings.  
   
 
-

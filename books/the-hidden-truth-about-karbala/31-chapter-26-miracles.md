@@ -516,4 +516,3 @@ Maqtal of Abu Makhnaf.
 
 [^55]: Ibid., vol. 2 p 291.
 
-

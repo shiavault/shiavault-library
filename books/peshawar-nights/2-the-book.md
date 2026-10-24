@@ -24,4 +24,3 @@ discussions in a book in Persian, published in Teheran as
 Shabhaye-Peshawar, or Peshawar Nights. The following is a translation of
 that book.
 
-

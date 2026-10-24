@@ -55,4 +55,3 @@ vol. 50, sect. 2, p. 239, no. 4.
 chap. 37, pp. 283–284, no. 3; I\`lām al-warā, chap. 2, sect. 2,; Biḥār
 al-anwār, vol. 51, chap. 2, p. 30, no. 4.
 
-

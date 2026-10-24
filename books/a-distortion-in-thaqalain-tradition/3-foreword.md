@@ -29,4 +29,3 @@ It is worth mentioning that according to some sources the Holy Prophet
 The present pamphlet studies this tradition and its reporters,
 critically examines them and shows the truth to those who seek it.
 
-

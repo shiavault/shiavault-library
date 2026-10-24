@@ -34,4 +34,3 @@ human is the key to knowing God and the world. As a prophetic hadith
 says, “one who knows himself knows his lord;” or knowing the self is the
 most beneficiary knowledge and the key to all knowledge.[^13]
 
-

@@ -208,7 +208,6 @@ The women succeeded in uncovering the deviated policy adopted by the
 Ummayyad house to steer the life of the people as they wished, mislead
 the ummah, and deceive the weak-willed people among the ummah.
 
-
 **RESULTS OF THE UPRISING**
 
 Elsewhere, we have explained that Imam Hussein's (a.s.) uprising aimed,
@@ -257,7 +256,6 @@ to follow in his footsteps on the path of sacred jihad.
 And we promise to be loyal to him, and to ready ourselves to sacrifice
 ourselves in defending the great message of Islam. And praise be to
 Allah, the Lord of the worlds.
-
 
 **ENDNOTES**
 
@@ -444,5 +442,4 @@ of Lights), vol. 10, p. 184.
 
 67 Extracts from the address of Zainab in Damascus. It is reported in
 full in al- Ihtijaj (Protests with Citation of Evidence).
-
 

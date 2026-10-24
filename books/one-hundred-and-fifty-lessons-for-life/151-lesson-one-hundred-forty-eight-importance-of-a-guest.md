@@ -3,12 +3,8 @@ Lesson One Hundred Forty Eight: Importance of A Guest
 
 The Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-اِذا اَرادَ اللّهُ بِقَوْم خَيْراً أَهْدَى اِلَيْهِمْ هَدِيَّةً.
-قالُوا وَ ما تِلْكَ الْهَدِيَّة؟ قالَ: اَلضَّيْفُ
-  </p>
-</blockquote>
+> اِذا اَرادَ اللّهُ بِقَوْم خَيْراً أَهْدَى اِلَيْهِمْ هَدِيَّةً.
+> قالُوا وَ ما تِلْكَ الْهَدِيَّة؟ قالَ: اَلضَّيْفُ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ alive, a guest is honored and respected as a divine gift notwithstanding
 the absence of family relationship or any ulterior motives.
 
 [^1]: Bihar al-Anwar, volume 15, page 241. Jami' Al-Akhbar, page 136.
-
 

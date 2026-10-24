@@ -429,4 +429,3 @@ until you die of thirst."
 "O God, make him die of thirst and never forgive him", cried al-
 Husayn, peace be on him.
 
-

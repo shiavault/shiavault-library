@@ -203,4 +203,3 @@ With grief her heart shattered, she silently prayed
 
 The severed head of her Brother, she saw on a spear raised.
 
-

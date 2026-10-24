@@ -76,4 +76,3 @@ Most of the deliveries were performed by midwives at home. For
 complicated obstetrics Al-Zahrawi offered advice to midwives as
 mentioned
 
-

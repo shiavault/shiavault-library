@@ -306,4 +306,3 @@ takes a proper first step, but his second step falters or deviates, this
 is no reason for saying that the first step was also deviant, rather the
 cause of the faltering or deviation should be sought in the second step.
 
-

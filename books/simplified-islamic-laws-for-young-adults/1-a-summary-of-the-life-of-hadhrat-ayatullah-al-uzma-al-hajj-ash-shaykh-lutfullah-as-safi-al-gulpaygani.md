@@ -123,11 +123,7 @@ Sinless Progeny of the Prophet ('a), and every morning, after his Salat,
 after the recitation of Dua' al-Ahad, those around him hear his heart
 crying out in love for the Hidden Imam, with the plea:
 
-<blockquote dir="rtl">
-  <p>
-”اَلْعَجَلُ اَلْعَجَلُ يَا مَوْلاَياَ يَا صَاحِبُ الزَّمَانَ “
-  </p>
-</blockquote>
+> ”اَلْعَجَلُ اَلْعَجَلُ يَا مَوْلاَياَ يَا صَاحِبُ الزَّمَانَ “
 
 It has also been noted that on Friday afternoons, he can be spotted in
 Masjid Jamkaran, which is just outside the holy City of Qum, sitting
@@ -306,5 +302,4 @@ Muslim Ummah into 73 Sects
 
 • A Reply to “The Belief of Mahdiism in Shi’a Imamia” (Reply to the
 doctorate thesis written by Mr. Abdul-Aziz Sachedina)
-
 

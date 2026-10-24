@@ -1,9 +1,7 @@
 Al-hijr (hijr Was an Inhabited Town)
 ====================================
 
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
 
@@ -250,7 +248,6 @@ BEWITCHED.
 
 [ 402 ]
 
-
 **THE COMMENTARY
 
 OBSTINACY AND DENIAL OF SENSIBLES (VERSE NO. 10 - 15)**
@@ -312,7 +309,6 @@ SKY, AND ADORNED IT FOR THE BEHOLDERS.
 
 18- EXCEPT HE WHO LISTENED SECRETLY (EAVES DROPPED) THEN PURSUED HIM A
 CLEAR SHOOTING-STAR.
-
 
 **THE COMMENTARY
 DEVILS ARE DRIVEN AWAY BY SHOOTINGِSTARS (VERSE NO. 16 - 18)**
@@ -439,7 +435,6 @@ twelve names we have just given, refers to members of the animal
 kingdom; and hence the name ZODIAC which means in Greek, \`\`the circle
 of animals.''
 
-
 **TRANSLATOR'S NOTE)**
 
 وَالاَْرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِىَ وَأَنْبَتْنَا
@@ -506,7 +501,6 @@ increase in elevation, mountainous area are generally cooler than
 adjacent low lands. For this reason, along with their great natural
 beauty, and their seclusion, mountains are important for recreation.
 
-
 **QUOTED FROM INTERNATIONAL ENCYCLOPEDIA
 TRANSLATOR'S NOTE)**
 
@@ -544,5 +538,4 @@ COME AFTER.
 
 25- AND THAT, YOUR LORD WILL GATHER THEM TOGETHER; AND HE IS ALL-WISE,
 ALL-KNOWING.
-
 

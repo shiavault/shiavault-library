@@ -136,4 +136,3 @@ And whatever is quoted solely by him (Majlisi in Biharul Anwar through
 Abu Makhnaf) (with due respects) is not considered as authentic in my
 view.
 
-

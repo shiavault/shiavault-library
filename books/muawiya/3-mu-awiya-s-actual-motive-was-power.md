@@ -156,7 +156,6 @@ This sermon by Mu'awiya's own grandson destroys the notion that he
 sought Uthman's revenge. He clearly pointed out that his opposition was
 without any basis rather he just fought for attaining power.
 
-
 **Abu Sulaiman questions the justice of Imam 'Ali (as)**
 
 In his defence of Mu'awiya Abu Sulaiman further uses his psychic
@@ -186,7 +185,6 @@ behalf that they would justify their opposition saying:
 
 Ansar.org states:"Uthman's murderers are in the army of Ali, and these
 murderers are unjust".
-
 
 **Mu'awiya did not apply Qisas against Amr bin Aas**
 
@@ -273,7 +271,6 @@ is unsubstantiated and we challenge Abu Sulaiman to cite us a single
 source where he had referred to Yazeed as his Crown Prince and ordered
 people to give baya on this position.
 
-
 **Mu'awiya made Yazeed his Khalifa during his lifetime**
 
 The sources of history tell us quite the opposite. Abu Sulaiman's
@@ -327,5 +324,4 @@ Apostle [Saheeh Al-Bukhari, Book of "Afflictions", vol.7, \#6694]"
 According to IbnUmar baya was given to Yazeed "in accordance with the
 conditions enjoined by Allah and His Apostle" clearly these conditions
 are connected with giving baya to a khalifa not a Crown Prince.
-
 

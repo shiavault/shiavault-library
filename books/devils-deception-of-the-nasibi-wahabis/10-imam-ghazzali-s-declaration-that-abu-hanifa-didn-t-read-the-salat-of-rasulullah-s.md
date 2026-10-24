@@ -346,7 +346,6 @@ The Messenger: The bedouin has succeeded if he is true.
 These are the requirements to be a Muslim, possessed by Sunni and Shia
 alike. So rather than blindly following your leaders do some homework.
 
-
 The Ulema of Ahlul Sunnah have warned against issuing takfeer on
 Muslims
 
@@ -522,5 +521,4 @@ to the Imamate and Leadership (over the Ummah) and that Fatima az Zahra
 is Chief of the Women of Paradise. These people are correct in their
 aqeedah, since this is an aqeedah that cannot be deemed kufr nor Fisq
 (Al Haqaiq ul Khafeeya un al Shia al Fatimeeya page 103 printed Cairo)
-
 

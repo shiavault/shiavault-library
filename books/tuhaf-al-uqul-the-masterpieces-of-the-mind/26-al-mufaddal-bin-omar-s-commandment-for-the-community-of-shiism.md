@@ -241,4 +241,3 @@ on everybody. Zakat: The obligatory payment made annually under Islamic
 law on certain kinds of property and used for charitable and religious
 objects.
 
-

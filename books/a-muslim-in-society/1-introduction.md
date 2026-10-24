@@ -44,4 +44,3 @@ of this society and those who may enter it, God willing.
 
 AI-Balagh Foundation
 
-

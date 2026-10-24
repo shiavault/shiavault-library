@@ -93,4 +93,3 @@ al-Ithnā ‘Ashariyyah.
 
 [^6]: Intisār al-Haqq, pp. 11-14.
 
-

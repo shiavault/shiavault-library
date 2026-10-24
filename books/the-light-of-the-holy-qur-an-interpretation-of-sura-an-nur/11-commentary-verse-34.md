@@ -42,7 +42,6 @@ It is often of no avail to give advice to the dark hearted persons.
 Their likeness is the iron nail which naturally does not go into a
 stone.
 
-
 **Section 5 : Allah Is Light Commentary : Verse 35**
 
 Allah, He is the Light of the Heavens and the Earth - Similitude of the
@@ -413,5 +412,4 @@ clear extension of them, but it is not limited to them only.
 And also if some commentators have interpreted this Divine Light as the
 holy Qur'an or intellectual reasons, or the holy Prophet (p.b.u.h.), it
 has a root in common with the commentary of the above verse, too.
-
 

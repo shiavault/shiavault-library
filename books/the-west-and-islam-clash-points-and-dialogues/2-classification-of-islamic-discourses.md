@@ -65,4 +65,3 @@ the common ground shared by the three kinds of discourse, we deem it
 useful, from the analytical point of view, to assume their independence
 from one another.
 
-

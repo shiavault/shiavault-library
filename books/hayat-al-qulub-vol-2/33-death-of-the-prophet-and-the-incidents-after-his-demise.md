@@ -169,14 +169,10 @@ from his body, a person arrived and offered condolence to those people.
 People used to hear his voice but were unable to see the speaker. He
 said, “Peace be upon you and the mercy of Allah and His blessings.
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ
-يَوْمَ الْقِيَامَةِ ۖ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ
-الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ
-الْغُرُورِ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ
+> يَوْمَ الْقِيَامَةِ ۖ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ
+> الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ
+> الْغُرُورِ
 
 ***“Every soul shall taste of death, and you shall only be paid fully
 your reward on the resurrection day; then whoever is removed far away
@@ -651,12 +647,8 @@ front and recited the funeral prayer. After that he told the companions
 and ten persons at a time prayed in congregation. Then Amirul Momineen
 (a.s.) stood up among them and recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا
-أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا
+> أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
 
 ***“Surely Allah and His angels bless the Prophet; O you who believe!
 call for (Divine) blessings on him and salute him with a (becoming)
@@ -677,12 +669,8 @@ all the angels, Muhajir and Ansar prayed upon him. Amirul Momineen
 (a.s.) says, “The Holy Prophet (S) in the time of his health say that
 this verse of:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
-الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
 
 ***“Surely Allah and His angels bless the Prophet; O you who believe!
 call for (Divine) blessings on him and salute him with a (becoming)
@@ -806,14 +794,10 @@ but all could hear their voices. He said: “Peace be upon you, and the
 mercy of Allah and His blessings. Indeed divine reward gives comfort in
 every calamity and then he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ
-يَوْمَ الْقِيَامَةِ ۖ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ
-الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ
-الْغُرُورِ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ
+> يَوْمَ الْقِيَامَةِ ۖ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ
+> الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ
+> الْغُرُورِ
 
 ***“Every soul shall taste of death, and you shall only be paid fully
 your reward on the resurrection day; then whoever is removed far away
@@ -910,15 +894,11 @@ Bakr fearing that soon you will be free and they would not be able to
 usurp your rights. Amirul Momineen (a.s.) kept the spade down and
 recited the following verses:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ. الم ﴿١﴾ أَحَسِبَ النَّاسُ أَنْ
-يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ ﴿٢﴾ وَلَقَدْ
-فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ
-صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ ﴿٣﴾ أَمْ حَسِبَ الَّذِينَ
-يَعْمَلُونَ السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ. الم ﴿١﴾ أَحَسِبَ النَّاسُ أَنْ
+> يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ ﴿٢﴾ وَلَقَدْ
+> فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ
+> صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ ﴿٣﴾ أَمْ حَسِبَ الَّذِينَ
+> يَعْمَلُونَ السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ
 
 ***“In the name of Allah, the Beneficent, the Merciful. Alif Lam Mim. Do
 men think that they will be left alone on saying, We believe, and not be
@@ -1041,5 +1021,4 @@ Hamidiya Press, Delhi). Thus it is very likely that the prophet was
 indeed administered poison which led to his death – Translator.
 
 [^10]: Surah Ankabut 29:1-4
-
 

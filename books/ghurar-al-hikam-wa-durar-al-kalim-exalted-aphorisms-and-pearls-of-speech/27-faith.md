@@ -20,41 +20,25 @@ separate.
 who do not part ways.
 
 > 4ـ اَلإيمانُ والعِلْمُ (وَ العمَلُ) أخَوانِ تَوْأمانِ، ورَفيقانِ لا
-<blockquote dir="rtl">
-  <p>
-يَفْتَرِقانِ.
-  </p>
-</blockquote>
+> يَفْتَرِقانِ.
 
 5. Faith is a tree, its root is certitude, its branch is piety, its
 sunlight is modesty and its fruit is generosity.
 
 > 5ـ الإيمانُ شَجَرَةٌ، أصْلُهَا الْيَقينُ، وفَرْعُهَا التُّقى،
-<blockquote dir="rtl">
-  <p>
-ونُورُهَا الْحَياءُ، وَثَمَرُهَا السَّخاءُ.
-  </p>
-</blockquote>
+> ونُورُهَا الْحَياءُ، وَثَمَرُهَا السَّخاءُ.
 
 6. Faith, sincerity, certitude and piety are [encapsulated in]
 patience and acceptance of what has been decreed [by Allah].
 
 > 6ـ الإيمانُ، والإخْلاصُ، واليَقينُ، والوَرَعُ، اَلصَّبْرُ والرِّضا بما
-<blockquote dir="rtl">
-  <p>
-يَأتي بِهِ القَدَرُ.
-  </p>
-</blockquote>
+> يَأتي بِهِ القَدَرُ.
 
 7. Faith and action are twin brothers and companions who do not part
 ways; Allah does not accept one without its counterpart.
 
 > 7ـ اَلإيمانُ والعَمَلُ أخَوانِ تَوْأمانِ، ورَفيقانِ لايَفْترِقانِ، لا
-<blockquote dir="rtl">
-  <p>
-يَقْبَلُ اللّهُ أحَدَهُما إلاّ بِصاحِبِهِ.
-  </p>
-</blockquote>
+> يَقْبَلُ اللّهُ أحَدَهُما إلاّ بِصاحِبِهِ.
 
 8. The best [sign of] faith is trustworthiness.
 
@@ -68,11 +52,7 @@ ways; Allah does not accept one without its counterpart.
 most on Allah, the Glorified.
 
 > 10ـ أقْوىَ النَّاسِ إيمانَاً أكثَرُهُمْ تَوَكُّلاً عَلَى اللّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ.
 
 11. The closest people to Allah, the Glorified, are the ones with
 the greatest faith.
@@ -83,11 +63,7 @@ the greatest faith.
 and the worst traits are cruelty and aggression.
 
 > 12ـ أفضلُ الإيمانِ الإخلاصُ والإحسانُ، وأقْبَحُ الشِّيَمِ اَلتَّجافي
-<blockquote dir="rtl">
-  <p>
-وَالعُدْوانُ.
-  </p>
-</blockquote>
+> وَالعُدْوانُ.
 
 13. The best faith is [based on] complete certitude, and the
 greatest honour is [in] doing good deeds.
@@ -180,11 +156,7 @@ and the zenith of happiness.
 forbearance and knowledge.
 
 > 34ـ ثَلاثٌ مَنْ كُنَّ فيهِ كَمُلَ ايمانُهُ، اَلعَقْلُ، والحِلمُ،
-<blockquote dir="rtl">
-  <p>
-والعِلْمُ.
-  </p>
-</blockquote>
+> والعِلْمُ.
 
 35. Three things, if possessed, perfect one’s faith: that when one
 is pleased, his pleasure does not lead him towards vice; and when he
@@ -192,34 +164,22 @@ gets angry, his anger does not draw him away from the truth; and when he
 is in a position of power, he never takes that which is not his.
 
 > 35ـ ثلاثٌ مَنْ كُنَّ فيهِ استَكْمَلَ الإيمانَ: مَنْ إذا رَضىَ لَمْ
-<blockquote dir="rtl">
-  <p>
-يُخْرِجْهُ رِضاهُ إلى باطِل، وإذا غَضِبَ لَمْ يُخْرِجْهُ غَضَبُهُ عَنْ
-حقّ، وإذا قَدَرَ لَمْ يَأخُذْما لَيسَلَهُ.
-  </p>
-</blockquote>
+> يُخْرِجْهُ رِضاهُ إلى باطِل، وإذا غَضِبَ لَمْ يُخْرِجْهُ غَضَبُهُ عَنْ
+> حقّ، وإذا قَدَرَ لَمْ يَأخُذْما لَيسَلَهُ.
 
 36. Three things, if possessed, perfect one’s faith: justice in
 anger and contentment, moderation in poverty and wealth, and maintaining
 a balance between fear and hope.
 
 > 36ـ ثلاثٌ مَنْ كُنَّ فيهِ فَقَدْ أكمَلَ الإيمانَ: العَدْلُ في الغَضَبِ
-<blockquote dir="rtl">
-  <p>
-والرِّضا، وَالقَصدُ في الفَقْرِ وَالغِناءِ، وَاعْتِدالُ الخَوفِ
-والرَّجاءِ.
-  </p>
-</blockquote>
+> والرِّضا، وَالقَصدُ في الفَقْرِ وَالغِناءِ، وَاعْتِدالُ الخَوفِ
+> والرَّجاءِ.
 
 37. Three things are from the treasures of faith: concealing
 misfortune, charity and sickness.
 
 > 37ـ ثلاثٌ مِنْ كُنُوزِ الإيمانِ: كِتمانُ المُصيبَةِ، والصَّدَقَةُ،
-<blockquote dir="rtl">
-  <p>
-وَالمَرَضُ.
-  </p>
-</blockquote>
+> وَالمَرَضُ.
 
 38. Virtuous chastity and contentment with what suffices are from
 the pillars of faith.
@@ -230,22 +190,14 @@ the pillars of faith.
 modesty are from the signs of faith and religiousness.
 
 > 39ـ خَفْضُ الصَّوتِ وغَضُّ البَصَرِ، ومَشيُ القَصْدِ، مِنْ أمارَةِ
-<blockquote dir="rtl">
-  <p>
-الإيمانِ وحُسنِ التَدَيُّنِ.
-  </p>
-</blockquote>
+> الإيمانِ وحُسنِ التَدَيُّنِ.
 
 40. Contently remaining obedient [to Allah], performing good deeds
 and hastening towards noble traits are from the perfections of faith and
 the best virtues.
 
 > 40ـ دَوامُ الطَّاعاتِ، وفِعْلُ الخَيْراتِ، والمُبادَرَةُ إلَى
-<blockquote dir="rtl">
-  <p>
-المَكْرُماتِ مِنْ كَمالِ الإيمانِ، وأفضَلِ الإحسانِ.
-  </p>
-</blockquote>
+> المَكْرُماتِ مِنْ كَمالِ الإيمانِ، وأفضَلِ الإحسانِ.
 
 41. The embellishment of faith is piety.
 
@@ -257,22 +209,14 @@ comfort for the one who entrusts [his affairs to Allah] and a shield for
 the one who endures patiently.
 
 > 42ـ وقالَ ـ عليه السّلام ـ في ذِكرِ الإيمانِ: زُلْفى لِمَنِ ارْتَقَبَ،
-<blockquote dir="rtl">
-  <p>
-وَثِقَةٌ لِمَنْ تَوَكَّلَ، وراحَةٌ لِمَنْ فَوَّضَ، وجُنَّةٌ لِمنْ
-صَبَرَ.
-  </p>
-</blockquote>
+> وَثِقَةٌ لِمَنْ تَوَكَّلَ، وراحَةٌ لِمَنْ فَوَّضَ، وجُنَّةٌ لِمنْ
+> صَبَرَ.
 
 43. The embellishment of faith is [in] purity of one’s innermost
 thoughts [and secrets] and [performing] good deeds in the open.
 
 > 43ـ زَيْنُ الإيمانِ طَهارَةُ السَّـرائرِ، وَحُسْنُ العَمَلِ فيِ
-<blockquote dir="rtl">
-  <p>
-الظَّاهِرِ.
-  </p>
-</blockquote>
+> الظَّاهِرِ.
 
 44. Ask Allah for [strong] faith and act upon the ordinances of the
 Qur’an.
@@ -296,21 +240,13 @@ Qur’an.
 way salt spoils honey.
 
 > 48ـ صُنْ ايمانَكَ مِنَ الشَّكِّ: فَإنَّ الشَّكَّ يُفْسِدُ الإيمانَ
-<blockquote dir="rtl">
-  <p>
-كَما يُفْسِدُ المِلْحُ العَسَلَ.
-  </p>
-</blockquote>
+> كَما يُفْسِدُ المِلْحُ العَسَلَ.
 
 49. Make your faith sincere, for this is the path to Paradise and
 safety from hellfire.
 
 > 49ـ عَلَيْكُمْ بِإخلاصِ الإيمانِ فَإنَّهُ السَّبيلُ إلَى الجَنَّةِ
-<blockquote dir="rtl">
-  <p>
-والنَّجاةِ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> والنَّجاةِ مِنَ النَّارِ.
 
 50. It is on truth and trust that faith is based.
 
@@ -326,22 +262,14 @@ the sake of Allah and establishing ties with each other for the sake of
 Allah, the Glorified.
 
 > 52ـ غايَةُ الإيمانِ المُوالاةُ فيِ اللّهِ، والمُعاداةُ فيِ اللّهِ،
-<blockquote dir="rtl">
-  <p>
-والتَّباذُلُ فيِ اللّهِ، وَالتَّواصُلُ فيِ اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> والتَّباذُلُ فيِ اللّهِ، وَالتَّواصُلُ فيِ اللّهِ سُبْحانَهُ.
 
 53. One type of faith is that which is firmly fixed in the hearts
 and another is that which shifts between the hearts and breasts [without
 being firmly fixed in the hearts].
 
 > 53ـ فَمِنَ الإيمانِ ما يَكُونُ ثابِتاً مُسْتَقِرّاً فِي القُلُوبِ
-<blockquote dir="rtl">
-  <p>
-ومِنْهُ ما يَكونُ عَوارِىَ بَينَ القُلُوبِ والصُّدُورِ.
-  </p>
-</blockquote>
+> ومِنْهُ ما يَكونُ عَوارِىَ بَينَ القُلُوبِ والصُّدُورِ.
 
 54. Allah, the Glorified, has prescribed faith as a purification
 from doubt.
@@ -352,21 +280,13 @@ from doubt.
 traditions of Islam and its ordinances.
 
 > 55ـ قَدْ أوْجَبَ الإيمانُ عَلى مُعْتَقِدِهِ إقامَةَ سُنَنِ الإسلامِ
-<blockquote dir="rtl">
-  <p>
-والفَرْضِ.
-  </p>
-</blockquote>
+> والفَرْضِ.
 
 56. Strengthen your faith with certitude, for this is the best
 religion.
 
 > 56ـ قَوُّوا إيمانَكم(قَوِّ إيمانَك) باليَقينِ فَإنَّهُ أفْضَلُ
-<blockquote dir="rtl">
-  <p>
-الدّينِ.
-  </p>
-</blockquote>
+> الدّينِ.
 
 57. How can he who resents the truth taste the sweetness of faith?
 
@@ -381,11 +301,7 @@ sincere with the creatures.
 aspirations and false amusements of this world, has lied.
 
 > 59ـ كَذِبَ مَنِ ادَّعى الإيمانَ وهُوَ مَشْغُوفٌ(مَشعُوفٌ) مِنَ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا بِخُدَعِ الأمانيِّ وزُورِ المَلاهي.
-  </p>
-</blockquote>
+> الدُّنيا بِخُدَعِ الأمانيِّ وزُورِ المَلاهي.
 
 60. The conception of faith is [achieved through] the recitation of
 the Qur’an.
@@ -405,22 +321,14 @@ polytheist.
 love, hate, pleasure and displeasure are [all] for the sake of Allah.
 
 > 63ـ مَنْ أحبَّ أنْ يَكْمُلَ إيمانُهُ فَلْيَكُنْ حُبُّه لِلّهِ،
-<blockquote dir="rtl">
-  <p>
-وبُغضُهِ لِلّهِ، ورِضاهُ لِلّهِ، وسَخَطُهُ لِلّهِ.
-  </p>
-</blockquote>
+> وبُغضُهِ لِلّهِ، ورِضاهُ لِلّهِ، وسَخَطُهُ لِلّهِ.
 
 64. One who gives for the sake of Allah, withholds for the sake of
 Allah, loves for the sake of Allah and hates for the sake of Allah, has
 perfected [his] faith.
 
 > 64ـ مَنْ أعْطى فيِ اللّهِ، ومَنَعَ فِي اللّهِ، وأحَبَّ فِي اللّهِ،
-<blockquote dir="rtl">
-  <p>
-وأبْغَضَ فِي اللّهِ، فَقَدِ اسْتكْملَ الإيمانَ.
-  </p>
-</blockquote>
+> وأبْغَضَ فِي اللّهِ، فَقَدِ اسْتكْملَ الإيمانَ.
 
 65. The basis of faith is unwavering certitude.
 
@@ -451,52 +359,32 @@ complete is guided.
 Glorified, loves and hates the one whom Allah, the Glorified, hates.
 
 > 71ـ لايَكْمُلُ إيمانُ عَبْد حتّى يُحِبَّ مَنْ أحَبَّهُ اللّهُ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ، ويُبْغِضَ مَنْ أبْغَضَهُ اللّهُ سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ، ويُبْغِضَ مَنْ أبْغَضَهُ اللّهُ سُبْحانَهُ.
 
 72. The faith of a servant is not true until he is more confident of
 what is in the Hand of Allah, the Glorified, than what is in his own
 hand.
 
 > 72ـ لا يَصْدُقُ إيمانُ عَبْد حَتّى يَكُونَ بِما في يَدِ اللّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ أوْثَقَ مِنْهُ بِما في يَدهِ.
-  </p>
-</blockquote>
+> سُبْحانَهُ أوْثَقَ مِنْهُ بِما في يَدهِ.
 
 73. Nothing that is preserved by human beings is like faith in Allah
 and good deeds.
 
 > 73ـ لاشَْيءَ يَدَّخِرُهُ الإنْسانُ كَالإيمانِ بِاللّهِ وصَنايعِ
-<blockquote dir="rtl">
-  <p>
-الإحْسانِ.
-  </p>
-</blockquote>
+> الإحْسانِ.
 
 74. The faith of a man is deduced by his submission and obedience
 [to Allah].
 
 > 74ـ يُسْتَدَلُّ عَلى إيمانِ الرَّجُلِ بِالتَّسْليمِ ولُزومِ
-<blockquote dir="rtl">
-  <p>
-الطَّاعَةِ.
-  </p>
-</blockquote>
+> الطَّاعَةِ.
 
 75. The faith [of a person] is deduced by increased fear [of Allah],
 controlling lust and overcoming lowly desires.
 
 > 75ـ يُسْتَدَلُّ عَلَى الإيمانِ بِكَثْرَةِ التُّقى، ومِلْكِ
-<blockquote dir="rtl">
-  <p>
-الشَّهْوَةِ، وغَلَبَةِ الهَوى.
-  </p>
-</blockquote>
+> الشَّهْوَةِ، وغَلَبَةِ الهَوى.
 
 76. Faith requires certitude.
 
@@ -518,5 +406,4 @@ Allah.
 80. Have faith and you will be safe.
 
 > 80ـ آمِنْ تَأمَنْ.
-
 

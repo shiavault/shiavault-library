@@ -106,4 +106,3 @@ course of extremism and overdoing.
 [^5]: - As is maintained by some other traditions, the sixty-day fasting
 is completed by the recommended fasting during the month of Sha\`ban.
 
-

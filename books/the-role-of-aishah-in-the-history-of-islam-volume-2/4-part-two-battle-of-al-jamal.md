@@ -293,7 +293,6 @@ convinced that I am right and innocent in this war, and there is not the
 slightest doubt and anxiety in my deeds, and I am fully aware of what I
 am doing."
 
-
 I would indeed be your son on condition that you abandon fighting and
 bloodshed.
 
@@ -641,5 +640,4 @@ my invitation, I will pardon them and will connive at their guilt and
 blunder. But if they continue their unruliness and disobedience, I will
 respond to them with sharp swords since it is the sword, which is the
 greatest supporter of right and the destroyer of wrong."74
-
 

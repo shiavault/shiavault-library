@@ -28,4 +28,3 @@ fifth Imam and the large number of illustrious men of science and
 Shi'ite scholars who were trained by him in different Islamic sciences.
 These names are listed in books of biographies of famous men in Islam.
 
-

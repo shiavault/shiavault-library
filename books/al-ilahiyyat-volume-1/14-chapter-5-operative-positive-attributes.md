@@ -27,4 +27,3 @@ He grants life and causes death, He sustains and grants blessings, is
 merciful, forgiving and has other names and attributes which will reach
 you at the end of the chapter, by His will.
 
-

@@ -481,4 +481,3 @@ following verse:
 their vain desires, diverging from the truth that hath come to thee...
 (Chapter 5; verse 51)***
 
-

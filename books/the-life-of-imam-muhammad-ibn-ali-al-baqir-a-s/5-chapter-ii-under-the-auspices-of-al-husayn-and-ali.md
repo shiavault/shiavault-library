@@ -1155,108 +1155,108 @@ from them knowledge, wisdom, and sound judgments.
 
 ###
 
-[^1] Tarikh Dimashq, vol.51, p.[^38]: Siyar A‘lam al-Nubala’, vol.4,
+[^1]: Tarikh Dimashq, vol.51, p.38. Siyar A‘lam al-Nubala’, vol.4,
 p.241.
 
-[^2] Al-Ya‘qubi, Tarikh, vol.2, p.[^61]:
+[^2]: Al-Ya‘qubi, Tarikh, vol.2, p.61.
 
-[^3] Ibid, vol.2, p.[^46]:
+[^3]: Ibid, vol.2, p.46.
 
-[^4] Tahdhib al-Tahdhib, vol.7, p.[^305]:
+[^4]: Tahdhib al-Tahdhib, vol.7, p.305.
 
-[^5] Hulyat al-Awliya’, vol.3, p.[^309]:
+[^5]: Hulyat al-Awliya’, vol.3, p.309.
 
-[^6] Tabaqat al-Fuqaha’, p.[^34]:
+[^6]: Tabaqat al-Fuqaha’, p.34.
 
-[^7] Al-Ya‘qubi, Tarikh, vol.2, p.[^48]:
+[^7]: Al-Ya‘qubi, Tarikh, vol.2, p.48.
 
-[^8] Hulyat al-Awliya’, vol.3, p.[^141]:
+[^8]: Hulyat al-Awliya’, vol.3, p.141.
 
-[^9] Tahdhib al-Tahdhib, vol.7, p.[^305]:
+[^9]: Tahdhib al-Tahdhib, vol.7, p.305.
 
-[^10] Imam Zayn al-‘Abidin, p.[^73]:
+[^10]: Imam Zayn al-‘Abidin, p.73.
 
-[^11] Al-Bidaya wa al-Nihaya, vol.9, p.[^104]:
+[^11]: Al-Bidaya wa al-Nihaya, vol.9, p.104.
 
-[^12] Wasilat al-Mal fi ‘Ad Manaqib al-Al, p.[^208]:
+[^12]: Wasilat al-Mal fi ‘Ad Manaqib al-Al, p.208.
 
-[^13] Saffwat al-Safwa.
+[^13]: Saffwat al-Safwa.
 
-[^14] Wasilat al-Mal fi ‘Ad Manaqib al-Al, p.[^208]:
+[^14]: Wasilat al-Mal fi ‘Ad Manaqib al-Al, p.208.
 
-[^15] Radi al-Din al-Tubrisi, Makarim al-Akhlaq, p.[^143]:
+[^15]: Radi al-Din al-Tubrisi, Makarim al-Akhlaq, p.143.
 
-[^16] Al-Dur al-Nazim, p.[^181]: Al-Anwar al-Bahiya, p.103.
+[^16]: Al-Dur al-Nazim, p.181. Al-Anwar al-Bahiya, p.103.
 
-[^17] Bihar al-Anwar, vol.2, p.[^83]:
+[^17]: Bihar al-Anwar, vol.2, p.83.
 
-[^18] Al-Dur al-Nazim, p.[^179]:
+[^18]: Al-Dur al-Nazim, p.179.
 
-[^19] Durr al-Abkar fi Safwat al-Akhyar.
+[^19]: Durr al-Abkar fi Safwat al-Akhyar.
 
-[^20] A‘lam al-Wara, p.[^360]:
+[^20]: A‘lam al-Wara, p.360.
 
-[^21] Al-Dur al-Nazim, p.[^179]:
+[^21]: Al-Dur al-Nazim, p.179.
 
-[^22] Ahmed Fahmi, Imam Zayn al-‘Abidin, pp.72-[^73]:
+[^22]: Ahmed Fahmi, Imam Zayn al-‘Abidin, pp.72-[^73]:
 
-[^23] Hulyat al-Awliya’, vol.3, p.[^136]:
+[^23]: Hulyat al-Awliya’, vol.3, p.136.
 
-[^24] Ibid.
+[^24]: Ibid.
 
-[^25] Ibid.
+[^25]: Ibid.
 
-[^26] Da‘a’im al-Islam, vol.2, p.[^188]:
+[^26]: Da‘a’im al-Islam, vol.2, p.188.
 
-[^27] Ibid, p.[^156]:
+[^27]: Ibid, p.156.
 
-[^28] Nihayat al-Irab, vol.21, pp.327-[^331]:
+[^28]: Nihayat al-Irab, vol.21, pp.327-[^331]:
 
-[^29] Hayat al-Imam al-Husayn, vol.3, p.[^327]:
+[^29]: Hayat al-Imam al-Husayn, vol.3, p.327.
 
-[^30] Koran, 47, 22-[^23]:
+[^30]: Koran, 47, 22-[^23]:
 
-[^31] Koran, 13, [^25]:
+[^31]: Koran, 13, [^25]:
 
-[^32] Koran,33, [^57]:
+[^32]: Koran,33, [^57]:
 
-[^33] Al-Ithaf bi Hub al-Ashraf, p.[^282]:
+[^33]: Al-Ithaf bi Hub al-Ashraf, p.282.
 
-[^34] Tuhaf al-‘Uqul, p.[^282]:
+[^34]: Tuhaf al-‘Uqul, p.282.
 
-[^35] Wasa’il al-Shi‘a, vol.3, p.[^232]:
+[^35]: Wasa’il al-Shi‘a, vol.3, p.232.
 
-[^36] Many authors ascribed these golden words
+[^36]: Many authors ascribed these golden words
 
 to Imam al-Baqir.
 
-[^37] Al-Khazzaz, Kifayat al-Athar, p.[^319]:
+[^37]: Al-Khazzaz, Kifayat al-Athar, p.319.
 
-[^38] Imam Zayn al-‘Abidin, al-Sahifa al-Sajjadiya, supplication
-no.[^25]:
+[^38]: Imam Zayn al-‘Abidin, al-Sahifa al-Sajjadiya, supplication
+no.25.
 
-[^39] Hayat al-Imam ‘Ali b. al-Husayn, p.[^426]:
+[^39]: Hayat al-Imam ‘Ali b. al-Husayn, p.426.
 
-[^40]Ibn al-Sabbagh, al-Fusul al-Muhimma, p.[^233]:
+[^40]Ibn al-Sabbagh, al-Fusul al-Muhimma, p.233.
 
-[^41] Ithbat al-Hudat, vol.5, p.[^264]:
+[^41]: Ithbat al-Hudat, vol.5, p.264.
 
-[^42] Ibid, p.[^268]:
+[^42]: Ibid, p.268.
 
-[^43] Al-Barqi, al-Mahasin, vol.2, p.[^635]:
+[^43]: Al-Barqi, al-Mahasin, vol.2, p.635.
 
-[^44] Al-Khisal, p.[^185]:
+[^44]: Al-Khisal, p.185.
 
-[^45] Al-Khara’ijj, p.[^20]:
+[^45]: Al-Khara’ijj, p.20.
 
-[^46] Roudat al-Kafi.
+[^46]: Roudat al-Kafi.
 
-[^47] Al-Kashi, Rijal, p.[^76]:
+[^47]: Al-Kashi, Rijal, p.76.
 
-[^48] Al-‘Aqd al-Farid, vol.5, p.[^204]:
+[^48]: Al-‘Aqd al-Farid, vol.5, p.204.
 
-[^49] Ibn Abi al-Thaljj al-Baghdadi, Tarikh al-A’imma, p.[^5]:
+[^49]: Ibn Abi al-Thaljj al-Baghdadi, Tarikh al-A’imma, p.5.
 
-[^50] ‘Aqidat al-Shi‘a, p.[^123]:
+[^50]: ‘Aqidat al-Shi‘a, p.123.
 
-[^51] Ibn ‘Asakir, Tarikh, vol.51, pp.44-[^45]:
+[^51]: Ibn ‘Asakir, Tarikh, vol.51, pp.44-[^45]:

@@ -31,7 +31,6 @@ In 1341/1962 he became a collaborator of Maktab-i-Islam a
 In 1342/1963 he travelled to Germany for medical  
  treatment and returning to Iran after a stay of several months  
  he wrote a book called Western Civilization Through Muslim  
-  
 
 **( 6 )**
 
@@ -77,7 +76,6 @@ This book has also been translated iii to Japanese Spanish
 Sayyid Mujtaba Musawi Lari has also written a pamphlet  
  on Tawhid (divine unity) which was translated in England  
  under the title Knowing God and published several times in  
-  
 
 **( 7 )**
 

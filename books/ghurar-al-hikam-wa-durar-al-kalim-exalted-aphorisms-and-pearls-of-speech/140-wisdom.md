@@ -16,31 +16,19 @@ departs from it [soon after].
 be from the mouths of hypocrites.
 
 > 3ـ اَلْحِكْمَةُ ضالَّةُ كُلِّ مُؤْمِن، فَخُذُوها ولَوْ مِنْ أفْواهِ
-<blockquote dir="rtl">
-  <p>
-المُنافِقينَ.
-  </p>
-</blockquote>
+> المُنافِقينَ.
 
 4. Wisdom is a tree that grows in the heart and bears [its] fruit on the
 tongue.
 
 > 4ـ اَلْحِكْمَةُ شَجَرَةٌ تَنْبُتُ فِي الْقَلْبِ، وتُثْمِرُ عَلَى
-<blockquote dir="rtl">
-  <p>
-اللِّسانِ.
-  </p>
-</blockquote>
+> اللِّسانِ.
 
 5. Fill your heart with wisdom and don the attire of tranquillity for
 these two are the ornaments of the virtuous.
 
 > 5ـ اِسْتَشْعِرِ الْحِكْمَةَ، وتَجَلْبَبِ السَّكِينَةَ، فَإنَّهُما
-<blockquote dir="rtl">
-  <p>
-حِلْيَةُ الأبـْرارِ.
-  </p>
-</blockquote>
+> حِلْيَةُ الأبـْرارِ.
 
 6. The beginning of wisdom is abandoning [worldly] pleasures and its end
 is loathing the transitory.
@@ -51,11 +39,7 @@ is loathing the transitory.
 remain within his limits.
 
 > 7ـ أفْضَلُ الحِكْمَةِ مَعْرِفَةُ الإنْسانِ نَفْسَهُ، ووُقُوفُهُ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-قَدْرِهِ.
-  </p>
-</blockquote>
+> قَدْرِهِ.
 
 8. Wisdom guides [one] to the right.
 
@@ -74,12 +58,8 @@ power, for indeed [even] if you do not get of His wisdom that which can
 heal you, you will not lose of His power that which will suffice you.
 
 > 11ـ إذا ضَلَلْتَ عَنْ حِكْمَةِ اللّهِ فَقِفْ عِنْدَ قُدْرَتِهِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّكَ إنْ فاتَكَ مِنْ حِكْمَتِهِ ما يَشْفِيكَ فَلَنْ يَفُوتَكَ مِنْ
-قُدْرَتِهِ ما يَكْفِيكَ.
-  </p>
-</blockquote>
+> فَإنَّكَ إنْ فاتَكَ مِنْ حِكْمَتِهِ ما يَشْفِيكَ فَلَنْ يَفُوتَكَ مِنْ
+> قُدْرَتِهِ ما يَكْفِيكَ.
 
 12. Through wisdom, the veil of knowledge is removed.
 
@@ -93,11 +73,7 @@ heal you, you will not lose of His power that which will suffice you.
 the Eternal Paradise.
 
 > 14ـ ثَمَرَةُ الْحِكْمَةِ التَّنَزُّهُ عَنِ الدُّنيا، والوَلَهُ
-<blockquote dir="rtl">
-  <p>
-بِجَنَّةِ المَأْوى.
-  </p>
-</blockquote>
+> بِجَنَّةِ المَأْوى.
 
 15. The beauty of wisdom is kindness and good amicability.
 
@@ -108,11 +84,7 @@ this world] and being infatuated with the Eternal Abode [of the
 Hereafter].
 
 > 16ـ حَدُّ الْحِكْمَةِ اَلإعْراضُ عَنْ دارِ الفَناءِ، والتَّوَلُّهُ
-<blockquote dir="rtl">
-  <p>
-بِدارِ البَقاءِ.
-  </p>
-</blockquote>
+> بِدارِ البَقاءِ.
 
 17. The wisdom of a lowly person elevates him and the ignorance of a
 respectable person degrades him.
@@ -123,21 +95,13 @@ respectable person degrades him.
 property of every believer.
 
 > 18ـ خُذِ الحِكْمَةَ أنّى كانَتْ، فَإنَّ الحِكْمَةَ ضالَّةُ كُلِّ
-<blockquote dir="rtl">
-  <p>
-مُؤْمِن.
-  </p>
-</blockquote>
+> مُؤْمِن.
 
 19. Take wisdom from the one who brings it to you, and look at what he
 is said and do not look at who said it.
 
 > 19ـ خُذِ الحِكْمَةَ مِمَّنْ أتاكَ بِها، وانْظُرْ إلى ما قالَ،
-<blockquote dir="rtl">
-  <p>
-ولاتَنْظُرْهُ إلى مَنْ قالَ.
-  </p>
-</blockquote>
+> ولاتَنْظُرْهُ إلى مَنْ قالَ.
 
 20. The embellishment of wisdom is being uninterested in the pleasures
 of this world.
@@ -178,11 +142,7 @@ it may be.
 felicity] when he is not aided by wisdom?
 
 > 28ـ كَيْفَ يَصْبِرُ عَلى مُبايَنَةِ الأضْدادِ مَنْ لَمْ تُعِنْهُ
-<blockquote dir="rtl">
-  <p>
-الحِكْمَةُ.
-  </p>
-</blockquote>
+> الحِكْمَةُ.
 
 29. Every time wisdom grows stronger, lust grows weaker.
 
@@ -218,11 +178,7 @@ can be learnt from the past].
 those who are at your level and to be fair to those who are below you.
 
 > 36ـ مِنَ الحِكْمَةِ طاعَتُكَ لِمَنْ فَوْقَكَ وإجْلالُكَ مَنْ في
-<blockquote dir="rtl">
-  <p>
-طَبَقَتِكَ، وَإنْصافُكَ لِمَنْ دُوْنَكَ.
-  </p>
-</blockquote>
+> طَبَقَتِكَ، وَإنْصافُكَ لِمَنْ دُوْنَكَ.
 
 37. It is from [the dictates of] wisdom that you should not dispute with
 the one who is above you; you should not humiliate the one who is below
@@ -233,13 +189,9 @@ have no knowledge of; and you should not leave the matter when it comes
 in front of you and seek it when it has passed.
 
 > 37ـ مِنَ الحِكْمَةِ أنْ لاتُنازِعَ مَنْ فَوْقَكَ، ولاتَسْتَذِلَّ مَنْ
-<blockquote dir="rtl">
-  <p>
-دُونَكَ، وَلاتَتَعاطى ما لَيْسَ في قُدْرَتِكَ، ولا يُخالِفَ لِسانُكَ
-قَلْبَكَ، ولاقَوْلُكَ فِعْلَكَ، ولاتَتَكَلَّمَ فِيما لاتَعْلَمُ،
-ولاتَتْرُكَ الأمـْرَ عِنْدَ الإقْبالِ، وتَطْلُبَهُ عِنْدَ الإدْبارِ.
-  </p>
-</blockquote>
+> دُونَكَ، وَلاتَتَعاطى ما لَيْسَ في قُدْرَتِكَ، ولا يُخالِفَ لِسانُكَ
+> قَلْبَكَ، ولاقَوْلُكَ فِعْلَكَ، ولاتَتَكَلَّمَ فِيما لاتَعْلَمُ،
+> ولاتَتْرُكَ الأمـْرَ عِنْدَ الإقْبالِ، وتَطْلُبَهُ عِنْدَ الإدْبارِ.
 
 38. Gatherings of wisdom are the plantations of the praiseworthy.
 
@@ -256,5 +208,4 @@ in front of you and seek it when it has passed.
 41. There is no wisdom except with safeguarding [from sin].
 
 > 41ـ لاحِكْمَةَ إلاّ بِعِصْمَة.
-
 

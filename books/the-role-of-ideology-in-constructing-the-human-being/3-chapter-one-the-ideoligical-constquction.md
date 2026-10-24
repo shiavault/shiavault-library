@@ -100,4 +100,3 @@ said “When I found that He has chosen foe me the religion of His angles,
 apostles and prophets I knew that He has honored me with this does not
 forget me so I loved his meeting,”[^6]
 
-

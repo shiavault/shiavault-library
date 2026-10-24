@@ -1,83 +1,31 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-طلع النور المبين
-  </p>
-</blockquote>
+> طلع النور المبين
 
-<blockquote dir="rtl">
-  <p>
-من نور خير المرسلين
-  </p>
-</blockquote>
+> من نور خير المرسلين
 
-<blockquote dir="rtl">
-  <p>
-نور أمن وسلام
-  </p>
-</blockquote>
+> نور أمن وسلام
 
-<blockquote dir="rtl">
-  <p>
-نور حق ويقين
-  </p>
-</blockquote>
+> نور حق ويقين
 
-<blockquote dir="rtl">
-  <p>
-جاءنا الهادي البشير
-  </p>
-</blockquote>
+> جاءنا الهادي البشير
 
-<blockquote dir="rtl">
-  <p>
-مطرق العاني الأسير
-  </p>
-</blockquote>
+> مطرق العاني الأسير
 
-<blockquote dir="rtl">
-  <p>
-مرشد الساعي إذا
-  </p>
-</blockquote>
+> مرشد الساعي إذا
 
-<blockquote dir="rtl">
-  <p>
-ما أخطأ الساعي المسير
-  </p>
-</blockquote>
+> ما أخطأ الساعي المسير
 
-<blockquote dir="rtl">
-  <p>
-دينه حق صُراح
-  </p>
-</blockquote>
+> دينه حق صُراح
 
-<blockquote dir="rtl">
-  <p>
-دينه ملك كبير
-  </p>
-</blockquote>
+> دينه ملك كبير
 
-<blockquote dir="rtl">
-  <p>
-هو في الدنيا نعيم
-  </p>
-</blockquote>
+> هو في الدنيا نعيم
 
-<blockquote dir="rtl">
-  <p>
-وهو في الأخرى متاع
-  </p>
-</blockquote>
+> وهو في الأخرى متاع
 
 This book is dedicated to Prophet Muhammad b. ‘Abd Allah,
 
@@ -87,5 +35,4 @@ peace be upon them both.
 
 Then, it is also dedicated to Shaykh Abubakar Bello Salati, may Allah
 protect him and help him.
-
 

@@ -163,7 +163,6 @@ It is narrated from Imam abu Ja'far (a.s.) who said when he was asked,
 because it excludes Him from being ignored altogether and from being
 analogized or considered similar to the creatures."
 
-
 **Chapter 3 : Chapter on (the Issue) that only He is proof of His Own
 Existence H 222, Ch. 3, h 1**
 
@@ -225,5 +224,4 @@ Honorable than being defined by means of His creatures.
 In fact, the existence of the creatures is proved through the existence
 of Allah.'" The Imam (a.s.) said, "May Allah bestow up on you
 blessings."
-
 

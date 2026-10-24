@@ -95,4 +95,3 @@ dealing with the Absolute Who has neither limit nor person- ification,
 and the need of man who is composed of feeling and intellect to worship
 God by both of his feeling and intellect ... !
 
-

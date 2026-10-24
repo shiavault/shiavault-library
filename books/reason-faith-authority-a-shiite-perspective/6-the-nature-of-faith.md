@@ -72,4 +72,3 @@ entire reality including acts, heart and mind to God.
 Faith may also have degrees according to different degrees of the
 required knowledge or different degrees of the consequent acts.
 
-

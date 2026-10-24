@@ -298,4 +298,3 @@ fifty of hijra and chapter eight in our book al-Fusool al-Muhimma.
 
 [^15]: Related to the progeny of Abu Talib.
 
-

@@ -954,4 +954,3 @@ Jahiliyya. His challenge to Ali, therefore, was not only or even
 primarily a physical one; it was a metaphysical one. Islam as a moral
 force, met the ultimate threat in Muawiya and in the Umayyads.
 
-

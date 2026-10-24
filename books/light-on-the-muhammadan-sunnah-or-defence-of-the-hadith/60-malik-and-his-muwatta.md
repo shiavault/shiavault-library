@@ -13,16 +13,13 @@ ibn Zayd in Basrah.
 Of Malik’s sayings: This science is religion, so you should know from
 whom you take your religion. I have realized (time of) seventy among
 
-those who say: ‘The Messenger of Allah said in these pillars’, <span
-id="_anchor_547"></span>547 but I never learnt anything from them. If
+those who say: ‘The Messenger of Allah said in these pillars’, 547 but I never learnt anything from them. If
 the treasury was committed to the charge of anyone of them he would be
 trustworthy. He used to exert his opinion in cases of ijtihad and in
-respect of men of knowledge attained in his town. <span
-id="_anchor_548"></span>548
+respect of men of knowledge attained in his town. 548
 
 Al-Shafi’i is reported to have said: Verily the most authentic and
-veracious book after the Book of Allah being Muwatta’ of Malik. <span
-id="_anchor_549"></span>549 Al-Dihlawi, in Hujjat Allah al-balighah,
+veracious book after the Book of Allah being Muwatta’ of Malik. 549 Al-Dihlawi, in Hujjat Allah al-balighah,
 writes: The first class of hadith books can be realized through reading
 three books: al-Muwatta’ and Sahih al-Bukhari and Sahih Muslim. And the
 second class were books that could not reach the position of al-Muwatta’
@@ -39,8 +36,7 @@ saying: Al-Muwatta’ is the first source, and Sahih al-Bukhari is the
 second source … and Malik narrated a hundred thousand traditions of
 which he selected ten thousand in al-Muwatta’, keeping then on referring
 them to the Book (Qur’an) and Sunnah (practical Sunnah) till sorting out
-only five hundred traditions (i.e. the confirmed [musnad] hadith). <span
-id="_anchor_550"></span>550 In another narration by Ibn al-Habbab: “…
+only five hundred traditions (i.e. the confirmed [musnad] hadith). 550 In another narration by Ibn al-Habbab: “…
 and he kept on referring them to the Book and Sunnah and testing them
 with old traditions and akhbar till they were sifted to only five
 hundred traditions.
@@ -49,14 +45,12 @@ In al-Dibaj al-mudhahhab fi ma’rifat a’yan al-madhhab (i.e. al-Maliki),
 Ibn Farhun writes: Atiq al-Zubaydi said: Malik compiled al-Muwatta’ with
 about ten thousand traditions. He every year kept on reviewing it and
 dropping from it till only the extant traditions remained of it, and had
-very few of them remained he would have dropped it as a whole. <span
-id="_anchor_551"></span>551
+very few of them remained he would have dropped it as a whole. 551
 
 In Sharh al-Muwatta’ al-Zarqani writes: He (Malik) year to year kept
 
 on extracting and refining them to the extent he found more convenient
-for Muslims and more typical in religion. <span
-id="_anchor_552"></span>552
+for Muslims and more typical in religion. 552
 
 Ibn al-Habbab states that Malik narrated a hundred thousand traditions
 recording ten thousand from among them in al-Muwatta’, which he kept on
@@ -87,8 +81,7 @@ al-Barr.
 
 From Malik incongruous narrations were reported that differ in order of
 chapters, and in number till reaching twenty different copies, and they
-amounted to thirty according to other traditionists. <span
-id="_anchor_553"></span>553
+amounted to thirty according to other traditionists. 553
 
 Al-Shaykh Abd al-Aziz al-Dihlawi (d. 1139 H), in his book Bustan
 al-muhaddithin, writes: The copies of al-Muwatta’ that are extant
@@ -105,8 +98,7 @@ Muwatta’ Ibn Wahb, with diminishing of reference to other copies.
 
 Among the narrations there is great incongruity including bringing
 forward and backward, addition and omission, the greatest and most ample
-of which being the additions of the narration of Abu Mus’ab. <span
-id="_anchor_554"></span>554 Ibn Hazm said: In Abu Mus’ab’s narration
+of which being the additions of the narration of Abu Mus’ab. 554 Ibn Hazm said: In Abu Mus’ab’s narration
 there is addition exceeding all other Muwatta’s with about one hundred
 traditions.
 
@@ -123,10 +115,9 @@ copy narrated by Yahya ibn al-Laythi, which was exposed by al-Zarqani,
 and the one narrated by Muhammad ibn al-Hasan al-Shaybani, companion of
 Abu Hanifah, which contained many things that were not found in the copy
 of Yahya, as he used to mix what he narrated from Malik with his
-opinions, saying “Often: Muhammad said.” <span
-id="_anchor_555"></span>555
+opinions, saying “Often: Muhammad said.” 555
 
-### Cause and Time of Its Compilation: <span id="_anchor_556"></span>556
+### Cause and Time of Its Compilation: 556
 
 Al-Muwatta’ was compiled during the last days of the reign of al-Mansur,
 in the year 148H. The reason for this — as reported by al-Shafi’i — was
@@ -155,10 +146,6 @@ Malik admitted this fact, and al-Daraqutni compiled a booklet containing
 the traditions recorded by Malik in al-Muwatta’ and other books, that
 were contradictory (to the Messenger’s Sunnah). This booklet is kept at
 al-Zahiriyyah Library in Damascus.
-
-  
-  
-  
 
 547. Pillars of the mosque.
 

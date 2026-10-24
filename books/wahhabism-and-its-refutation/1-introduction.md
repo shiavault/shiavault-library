@@ -11,4 +11,3 @@ a history book in which he told about Wahhabism in full detail.
 (Mir'atal-Haramain, pp. 99 vol. III; five volumes in Turkish, Matba'a-i
 Bahriye, Istanbul, 1301-1306.)
 
-

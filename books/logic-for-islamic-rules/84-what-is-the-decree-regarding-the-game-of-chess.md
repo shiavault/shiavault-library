@@ -54,7 +54,7 @@ expertise and superiority.
 Let us see what Chantal himself says:
 
 It is sufficient to prove that chess is a tiring game by saying that
-after the 40<sup>th</sup> step if there is no result the game is
+after the 40th step if there is no result the game is
 postponed as happened in Reg or Veg and it was calculated that after the
 first four steps the total possible tricks were 318976584 and in the
 first ten step were 169518829100544Then he mentions those people are

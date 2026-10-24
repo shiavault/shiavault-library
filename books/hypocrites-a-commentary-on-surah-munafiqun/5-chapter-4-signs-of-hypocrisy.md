@@ -1,12 +1,10 @@
 Chapter 4 : Signs of Hypocrisy
 ==============================
 
-<p dir="rtl">
 وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ
 لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ
 عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ أَنَّى
 يُؤْفَكُونَ
-</p>
 
 “When you look at them, their exteriors please you. When they speak,
 you listen to their words. They are as (worthless as hollow) pieces of
@@ -43,7 +41,6 @@ amongst the believers while, in reality, they are predators and hold a
 deep-rooted animosity. Of course, this peace and tranquility does not
 prevent them from speaking their minds at necessary times.
 
-
 **They are Both Outspoken and Eloquent Speakers**
 
 This point is clear. The hypocrite does not believe what he is
@@ -58,7 +55,6 @@ listen to their words.”
 We must not be tricked by a group's generous speech. At the very least
 we should consider the possibility that one is speaking this way to
 trick us, not because they care for us.
-
 
 THEY ARE AS WORTHLESS AS HOLLOW PIECES OF TIMBER PROPPED UP
 
@@ -205,7 +201,6 @@ feelings. He knew that the truth would not be changed by writing or
 erasing a word. He agreed with everything that his opponent proposed in
 order to protect the peace treaty.
 
-
 **History Repeats Itself**
 
 The first student of the Prophet of Islam (a) faced this very hardship.
@@ -312,7 +307,6 @@ hypocrites. They are scared of any commotion, change or sound which they
 think is to their detriment. This is seen in the verse under
 explanation, “They think that every cry is against them.”
 
-
 THEY ARE ENEMIES IN A LEAGUE OF THEIR OWN
 
 The holy religion of Islam claims to be the last heavenly religion
@@ -400,42 +394,41 @@ would always supplicate to Allah to rid our society of their evil.
 
 **Notes:**
 
-[^12] 62:4
+[^12]: 62:4
 
-[^13] T?abarasi-, Majmu ?Al-Baya-n, volume 10, under the commentary of
+[^13]: T?abarasi-, Majmu ?Al-Baya-n, volume 10, under the commentary of
 Su-rah Muna-fiqu-n
 
-[^14] Ru-h? al-Baya-n, under the explanation of the same verse
+[^14]: Ru-h? al-Baya-n, under the explanation of the same verse
 
-[^15] Shaykh Mufi-d, Irsha-d, page 61; ?Alla-mah Majli-si-, Bih?a-r
+[^15]: Shaykh Mufi-d, Irsha-d, page 61; ?Alla-mah Majli-si-, Bih?a-r
 al-Anwar, volume 20, page 368
 
-[^16] Ibn Kathi-r, al-Ka-mil, volume 2, page 138; ?Alla-mah Majli-si-,
+[^16]: Ibn Kathi-r, al-Ka-mil, volume 2, page 138; ?Alla-mah Majli-si-,
 Bih?a-r al-Anwa-r, volume 20, page 353
 
-[^17] Ibn Kathi-r, al-Ka-mil, volume 3, page 162
+[^17]: Ibn Kathi-r, al-Ka-mil, volume 3, page 162
 
-[^18] Halabi-, Si-rah, volume 3, page 24
+[^18]: Halabi-, Si-rah, volume 3, page 24
 
-[^19] ?Alla-mah Majli-si-, Bih?a-r al-Anwa-r, volume 20, page 353
+[^19]: ?Alla-mah Majli-si-, Bih?a-r al-Anwa-r, volume 20, page 353
 
-[^20] Shaykh T?abarasi-, Majmu? al-Baya-n, volume 9, page 117
+[^20]: Shaykh T?abarasi-, Majmu? al-Baya-n, volume 9, page 117
 
-[^21] Halabi-, Si-rah, volume 3, pages 25-26
+[^21]: Halabi-, Si-rah, volume 3, pages 25-26
 
-[^22] This is the age of the first three caliphs, namely Abu Bakr, ?Umar
+[^22]: This is the age of the first three caliphs, namely Abu Bakr, ?Umar
 and ?Uthma-n. During this time, Islam spread to far away lands and,
 because of the dominance of the Islamic society and culture, all
 opposition parties were forced to swallow their hatred.
 
-[^23] Ibn Khaldu-n, Muqadamah, page 416
+[^23]: Ibn Khaldu-n, Muqadamah, page 416
 
-[^24] 2:207
+[^24]: 2:207
 
-[^25] 2:204
+[^25]: 2:204
 
-[^26] Ima-m ?Ali- (a), Nahj al-Bala-ghah, sermon 205
+[^26]: Ima-m ?Ali- (a), Nahj al-Bala-ghah, sermon 205
 
-[^27] Sharef al-Di-n ?A-muli-, Abu Hurayrah, page 27 (Arabic version
-
+[^27]: Sharef al-Di-n ?A-muli-, Abu Hurayrah, page 27 (Arabic version
 

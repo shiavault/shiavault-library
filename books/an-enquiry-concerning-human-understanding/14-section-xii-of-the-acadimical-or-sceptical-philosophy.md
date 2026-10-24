@@ -378,4 +378,3 @@ to their miserable existence.
 It is true; so fatal an event is very little to be dreaded. Nature is
 always too strong for principle.
 
-

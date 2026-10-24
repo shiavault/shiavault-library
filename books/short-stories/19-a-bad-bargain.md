@@ -77,4 +77,3 @@ my wealth. How stupid he is! He never thought I was testing him. My bank
 balance is good and I am not in debt to anyone! Anyway, it was a good
 experience for me, even if it was a bad bargain."
 
-

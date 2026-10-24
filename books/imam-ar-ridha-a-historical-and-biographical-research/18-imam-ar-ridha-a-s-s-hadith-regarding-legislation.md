@@ -1136,4 +1136,3 @@ Great Support He is!
 
 [^15]: Aali 'Imran:110
 
-

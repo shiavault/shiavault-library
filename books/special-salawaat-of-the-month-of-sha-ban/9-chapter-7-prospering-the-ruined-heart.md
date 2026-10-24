@@ -19,37 +19,21 @@ a heart when it is inclined to strong will, will gain and will have a
 strong motive; but if it is not moving towards Allah’s will, it is
 ruined. Commander of Faithfull, Ali Ibn Abu Talib says,
 
-<blockquote dir="rtl">
-  <p>
-بالطاعة یکون الفوز
-  </p>
-</blockquote>
+> بالطاعة یکون الفوز
 
 “Salvation is in obedience of Allah”. He also said,
 
-<blockquote dir="rtl">
-  <p>
-طاعةالله مفتاح کل سداد وصلاح کل فساد
-  </p>
-</blockquote>
+> طاعةالله مفتاح کل سداد وصلاح کل فساد
 
 “Obeying God is the key to all the good and the way to correct all the
 depraved” and advised us,
 
-<blockquote dir="rtl">
-  <p>
-اکرم نفسک ما اعانتک علی طاعة الله
-  </p>
-</blockquote>
+> اکرم نفسک ما اعانتک علی طاعة الله
 
 “Appreciate yourself by obeying God, as much as you can” and informed us
 that,
 
-<blockquote dir="rtl">
-  <p>
-اجدر الناس برحمةالله اقومهم بالطاعة
-  </p>
-</blockquote>
+> اجدر الناس برحمةالله اقومهم بالطاعة
 
 “Those who obeyed God the most, deserve most of God’s mercy”[^2]
 
@@ -158,11 +142,7 @@ moments for acting seriously. The only different between them and kids
 is their age. They only think about the momentary enjoyments. Their
 picture is in the Surah of Anbiya as,
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ‏
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ‏
 
 > اقْتَرَبَ لِلنَّاسِ حِسابُهُمْ وَ هُمْ في‏ غَفْلَةٍ مُعْرِضُونَ (1)
 
@@ -188,11 +168,7 @@ and some think that they can find it in political power. Nevertheless,
 Quran denies all of them and threatens those who ask honor from such
 approaches in Surah of Humazah.[^3]
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ
 
 > وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ (1) الَّذِي جَمَعَ مالاً وَ عَدَّدَهُ
 > (2) يَحْسَبُ أَنَّ مالَهُ أَخْلَدَهُ (3) كَلاَّ لَيُنْبَذَنَّ فِي
@@ -241,11 +217,7 @@ In these phrases of Dua with the intention that the honor is in the
 obedience of Allah, we request Allah to not dishonor us with the
 disobedience. Imam Ali also said,
 
-<blockquote dir="rtl">
-  <p>
-کل عز لا یویده الدین مذله
-  </p>
-</blockquote>
+> کل عز لا یویده الدین مذله
 
 > میزان الحکمه ج 3 443ص
 
@@ -273,5 +245,4 @@ obedience and do not humiliate me by disobedience”
 [^5]: میزان الحکمه ج 3 443ص
 
 [^6]: میزان الحکمه ج 3 443ص
-
 

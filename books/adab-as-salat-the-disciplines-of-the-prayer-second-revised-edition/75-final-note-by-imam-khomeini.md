@@ -10,4 +10,3 @@ or incomplete; whereas observing them would inspire the salāt with a
 heavenly spirit.  
  Imām Khomeinī.
 
-

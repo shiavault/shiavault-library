@@ -60,4 +60,3 @@ producing this work, especially the staff of the Translation Office.
 
 **The Ahl al-Bayt** **(*****‘a*****) World Assembly**
 
-

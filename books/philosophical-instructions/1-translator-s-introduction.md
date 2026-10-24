@@ -549,7 +549,7 @@ inconsistencies that remain.
 References
 ----------
 
-[^1] His interpretation of the Qur’ān is the twenty volume*Al-Mīzān fī
+[^1]: His interpretation of the Qur’ān is the twenty volume*Al-Mīzān fī
 Tafsīr al-Qur’ān* (Tehran: Dār al-Kitāb al-Islamiyyah, n.d.). The
 English translation by Sayyid Saeed Akhtar Rizvi, has reached eight
 volumes published in Tehran by the World Organization for Islamic
@@ -565,29 +565,29 @@ Javādī Amulī and Ayatullah Husayni Tehrani.
 [^2]*Seh Aṣl (Three Roots [of Evil]),* ed., Seyyid Hossein Nasr,
 (Tehran: University of Tehran Press).
 
-[^3] ‘Allāmah Ṭabāṭabā’ī ’s*Uṣul-e Falsafah va Ravish-e Ri’ālīsm,* 2nd
+[^3]: ‘Allāmah Ṭabāṭabā’ī ’s*Uṣul-e Falsafah va Ravish-e Ri’ālīsm,* 2nd
 ed. (Tehran: Ṣadrā, 1368/1989) with the extensive annotations of Shahīd
 Muṭahharī was completed in 1332/[^1953]: Bāqir Ṣadr ’s*Fasafatūna,* 10th
 ed. (Beirut: Dar al-Ta‘āruf, 1980) was completed in A. H. L. 1379 (c.
 1959).
 
-[^4] See ‘Allāmah Ayatullah Sayyid Muḥammad Ḥusayn Ḥusaynī
+[^4]: See ‘Allāmah Ayatullah Sayyid Muḥammad Ḥusayn Ḥusaynī
 Ṭehrāni,*Mihr-e Tābān* (Tehran: Bāqir al-‘Ulūm, n.d.), pp. 60-[^62]:
 
-[^5] Ibn Sīnā,*Al-Ishārāt wa al-Tanbīhāt* , ed. Sulayman Dunyā, (Beirut:
+[^5]: Ibn Sīnā,*Al-Ishārāt wa al-Tanbīhāt* , ed. Sulayman Dunyā, (Beirut:
 Mu’assassah al-Nu‘mān 1413/1992), Vol. II, p. [^147]:
 
-[^6] See the article on Islamic philosophy in modern Persia by Mehdi
+[^6]: See the article on Islamic philosophy in modern Persia by Mehdi
 Aminrazavi in*History of Islamic Philosophy,* 2 vols., ed., Seyyed
 Hossein Nasr and Oliver Leaman (London: Routledge, 1995), 1037-[^1050]:
 
-[^7] A few pages are devoted to a discussion of modern Western
+[^7]: A few pages are devoted to a discussion of modern Western
 philosophy in the*Risā’il Ḥikmiyyah* of Ayatullah Mīrzā ‘Alī Akbar
 Mudarris Yazdī Ḥakamī (d. A. H. L. 1344 (c. 1926), (Tehran: Vizārat-e
 Irshād-e Islāmī, 1365/1986).
 
-[^8] Muḥammad ‘Alī Furūghī,*Sayr-e Ḥikmat dar Urūpā (The Course of
+[^8]: Muḥammad ‘Alī Furūghī,*Sayr-e Ḥikmat dar Urūpā (The Course of
 Philosophy in Europe),* (Tehran: Zavār, 1360/1981).
 
-[^9] William C. Chittick,*The Self-Disclosure of God* (Albany: State
+[^9]: William C. Chittick,*The Self-Disclosure of God* (Albany: State
 University of New York Press, 1998), p. xx.

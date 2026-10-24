@@ -46,7 +46,5 @@ In short the Holy Qur’an should remain away from the reach of polluted
 hands, with this exception when there is likelihood of their guidance it
 can be presented to them.
 
-
 [^1]: Surah Tawbahh 9:6
-
 

@@ -176,4 +176,3 @@ Then he said: "O Almighty Lord! I beseech You in the name of this grave
 and the master of this grave to show me the path by means of which You
 as well as Your Prophet may be pleased with me".
 
-

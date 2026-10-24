@@ -59,4 +59,3 @@ Whenever a person doubts that the Sa’y is incomplete, for example six
 rounds or less, this person should return and complete the amount that
 has not been performed from the Sa’y and his/her Sa’y is correct.
 
-

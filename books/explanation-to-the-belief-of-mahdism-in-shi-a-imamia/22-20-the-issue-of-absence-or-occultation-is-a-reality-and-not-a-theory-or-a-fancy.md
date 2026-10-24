@@ -37,4 +37,3 @@ religious position was not theirs to hold, nor that of the political
 position. They were only occupants while the right was that of the
 Imams.
 
-

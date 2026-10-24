@@ -479,4 +479,3 @@ rely on the prosecution evidence so far in deciding guilt or not.
 And now the court is dismissed and will resume tomorrow morning at 10AM.
 Thank you. Court is dismissed!
 
-

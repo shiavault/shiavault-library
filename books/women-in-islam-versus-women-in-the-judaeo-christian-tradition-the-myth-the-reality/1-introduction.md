@@ -107,4 +107,3 @@ religious books are saying, and many others do not even care.
 
 [^1]: The Globe and Mail, Oct. 4, 1994.
 
-

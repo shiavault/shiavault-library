@@ -722,4 +722,3 @@ Al-Ya'qubi and Ibn A'tham, too, mention this point in their history
 with the difference that they do not mention the name of 'Abd
 ar-Rahman.147 The ill-omened result
 
-

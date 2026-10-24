@@ -672,4 +672,3 @@ money that I abrogate is that of Ibn Rabiya bin Hars Ibn Abdul Muttalib,
 who was fostered by Banu Laith and killed by Hudail. It was among the
 first murders of Jahilya”.
 
-

@@ -1,20 +1,12 @@
 Suratul Baqarah: Verses 100 ―101
 ================================
 
-<blockquote dir="rtl">
-  <p>
-(١٠٠) أَوَكلَّمَا عَـٰهَدُواْ عَهدً۬ا نَّبَذَهُ ۥفَرِيقٌ۬ مِّنهُم‌ۚ
-بَلۡ أَكثَرُهُمۡ لَا يُؤۡمِنُون
-  </p>
-</blockquote>
+> (١٠٠) أَوَكلَّمَا عَـٰهَدُواْ عَهدً۬ا نَّبَذَهُ ۥفَرِيقٌ۬ مِّنهُم‌ۚ
+> بَلۡ أَكثَرُهُمۡ لَا يُؤۡمِنُون
 
-<blockquote dir="rtl">
-  <p>
-(١٠١) وَلَمَّا جَآءَهُمۡ رَسُولٌ۬ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٌ۬
-لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٌ۬ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلكِتَـٰبَ
-كِتَـٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ كَأَنَّهُمۡ لَا يَعلَمُونَ
-  </p>
-</blockquote>
+> (١٠١) وَلَمَّا جَآءَهُمۡ رَسُولٌ۬ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٌ۬
+> لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٌ۬ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلكِتَـٰبَ
+> كِتَـٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ كَأَنَّهُمۡ لَا يَعلَمُونَ
 
 ***What! whenever they make a covenant, a party of them cast it aside?
 Nay, most of them do not believe*** (100).
@@ -44,5 +36,4 @@ the Jews' adverse attitude towards the truth: they were so steeped in
 falsehood that they concealed the foretellings of the Torah about the
 Prophet of Islam, and refused to believe in the Qur'an which verified
 that which they hod in their hands.
-
 

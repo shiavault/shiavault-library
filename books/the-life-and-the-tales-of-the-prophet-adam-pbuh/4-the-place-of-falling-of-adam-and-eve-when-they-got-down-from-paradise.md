@@ -98,7 +98,6 @@ others and so people would not have to argue about it with God, and so
 everyone would die and live with its knowledgement and Allah is no
 oppressor of (His) bondmen.
 
-
 **Crying of Adam (PUH) for paradise**
 
 It was told that Adam (PUH) cried for paradise until it was like great
@@ -317,7 +316,6 @@ absent, may our souls be a ransom to him. It is not a speech to show
 their virtues and their levels, however, but it was necessary to show
 this in this position.
 
-
 **Having a tent for them in the place of the Holy House**
 
 From Abi Jafar Al-Baqir (PUH) from his fathers (PUT): God sent to
@@ -516,5 +514,4 @@ but what he had done was something disliked, and this is the truth that
 we believe in and no doubt we have about it for what we had explained.
 [the previous paragraph was a highly philosophical in its terms and
 might contain uncorrect translations].
-
 

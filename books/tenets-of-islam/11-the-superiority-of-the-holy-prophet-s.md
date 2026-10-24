@@ -8,4 +8,3 @@ husband is the best of all successors; you are the chief of all the
 women of the world, and your sons, Hasan and Husayn are the chiefs of
 the youth of Paradise, but their father is superior to them.”
 
-

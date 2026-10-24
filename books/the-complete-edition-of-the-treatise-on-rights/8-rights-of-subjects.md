@@ -55,7 +55,6 @@ thank Him. And there is no power but in God.
 شَاكِراً، وَمَـــــنْ شَكَرَ الله أَعْطَاهُ فِيمَا أَنعَمَ عَلَيْهِ. ولا
 قُوَّةَ إلا باللهِ.
 
-  
   
 
 **( 40 )**
@@ -162,7 +161,6 @@ surely great. And there is no power but in God.
 اللَّذَّةِ الَّتِي لا بُدَّ مِنْ قَضَائِهَــا وَذَلِكَ عَظِيـــــمٌ.
 وَلا قُوَّةَ إلا باللهِ.
 
-  
   
 
 **( 42 )**
@@ -217,7 +215,5 @@ torment God's creature. And there is no power but in God.
 
  
 
-  
   
-
 

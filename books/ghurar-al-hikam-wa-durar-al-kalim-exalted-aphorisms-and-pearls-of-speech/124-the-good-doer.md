@@ -8,12 +8,8 @@ will make the good-doer abstain from his benevolence and will encourage
 the evildoer to continue his evil.
 
 > 1ـ لايَكُنِ المُحْسِنُ والمُسيءُ عِنْدَكَ سَواءً، فَإنَّ ذلِكَ
-<blockquote dir="rtl">
-  <p>
-يُزَهِّدُ المُحْسِنَ فِي الإحْسانِ، ويُتابِـعُ المُسِيءَ إلَى
-الإسائَةِ.
-  </p>
-</blockquote>
+> يُزَهِّدُ المُحْسِنَ فِي الإحْسانِ، ويُتابِـعُ المُسِيءَ إلَى
+> الإسائَةِ.
 
 2. The charitable one needs the beggar.
 
@@ -45,12 +41,8 @@ evil when you see it, act obediently [upon the commandments of Allah]
 and vie to acquire noble traits, then you are righteous and successful.
 
 > 8ـ إذا رَأيْتُمُ الخَيْـرَ فَسارَعْتُمْ إلَيْهِ، ورَأيْتُمُ الشَّـرَّ
-<blockquote dir="rtl">
-  <p>
-فَتَباعَدتُمْ عَنْهُ، وكُنْتُمْ بِالطّاعاتِ عامِلِينَ، وفِي المَكارِمِ
-مُتَنافِسِينَ، كُنْتُمْ مُحْسِنينَ فائِزِينَ.
-  </p>
-</blockquote>
+> فَتَباعَدتُمْ عَنْهُ، وكُنْتُمْ بِالطّاعاتِ عامِلِينَ، وفِي المَكارِمِ
+> مُتَنافِسِينَ، كُنْتُمْ مُحْسِنينَ فائِزِينَ.
 
 9. The worst of the benevolent ones is the one who puts others under
 obligation by his favour.
@@ -70,10 +62,5 @@ he finds a support [to hold on to].
 about them, and by their good deeds and virtuous conduct.
 
 > 12ـ يُسْتَدَلُّ عَلَى المُحْسِنيِنَ بِما يَجْري لَهُمْ عَلى اَلْسُنِ
-<blockquote dir="rtl">
-  <p>
-الأَخْيارِ، وحُسْنِ الأفْعالِ، وجَمِيلِ السّيرَةِ.
-  </p>
-</blockquote>
-
+> الأَخْيارِ، وحُسْنِ الأفْعالِ، وجَمِيلِ السّيرَةِ.
 

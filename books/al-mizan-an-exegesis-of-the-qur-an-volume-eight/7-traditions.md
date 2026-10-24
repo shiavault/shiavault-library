@@ -148,4 +148,3 @@ sisters together" (ibid.)
 
 The author says: There are other traditions also of the same meaning.
 
-

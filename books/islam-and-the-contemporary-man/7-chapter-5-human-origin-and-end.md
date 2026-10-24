@@ -125,23 +125,15 @@ Qur’an—which treats of human life and conduct and eschatology in
 numerous verses—makes no mention of reincarnation. On the contrary, it
 states that there is only one life in this world:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنْتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ۖ
-ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنْتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ۖ
+> ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
 ***“You were lifeless and He gave you life, then He will make you die,
 and then He shall bring you to life, and then you will be brought back
 to Him.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
-فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِنْ سَبِيلٍ
-  </p>
-</blockquote>
+> قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
+> فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِنْ سَبِيلٍ
 
 ***“They will say, ‘Our Lord! Twice did You make us die, and twice did
 You give us life. We admit our sins. Is there any way out [of this
@@ -211,17 +203,9 @@ Let us now consider more thoroughly Qur’an’s treatment of this subject.
 In respect to the final outcome, the Qur’an distinguishes two groups:
 those who will attain to felicity in Heaven and those damned to Hell—
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ
 
 ***“As for the wretched, they shall be in the Fire… As for the
 felicitous, they will be in Paradise.”***[^6]
@@ -232,12 +216,8 @@ entry into Heaven, the damned who will certainly enter Hell, and the
 oppressed [*mustad‘afin*], those whose cases are unsettled. Regarding
 the latter group, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا
-يَتُوبُ عَلَيْهِمْ
-  </p>
-</blockquote>
+> وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا
+> يَتُوبُ عَلَيْهِمْ
 
 ***“[They] are waiting God’s edict: either He shall punish them, or turn
 to them clemently…”***[^7]
@@ -245,29 +225,13 @@ to them clemently…”***[^7]
 And in yet another division, the Qur’an points to two groups of
 felicitous people:
 
-<blockquote dir="rtl">
-  <p>
-وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً
-  </p>
-</blockquote>
+> وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ
-  </p>
-</blockquote>
+> فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
-  </p>
-</blockquote>
+> وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ السَّابِقُونَ
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ السَّابِقُونَ
 
 ***“You will be three groups: the People of the Right Hand—and what are
 the People of the Right Hand? And the People of the Left Hand—and what
@@ -294,13 +258,9 @@ Adam from the Qur’an, not from the Torah or the Evangel or any other
 mythic source. The Qur’an very clearly describes Adam as a human
 individual and the progenitor of humankind:
 
-<blockquote dir="rtl">
-  <p>
-يَأ أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
-نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
-كَثِيرًا وَنِسَاءً ۚ
-  </p>
-</blockquote>
+> يَأ أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
+> نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
+> كَثِيرًا وَنِسَاءً ۚ
 
 ***“O humankind! Be wary of your Lord who created you from a single
 soul, and created its mate from it, and, from the two of them, scattered
@@ -319,12 +279,8 @@ But as regards Adam’s sin, the popular conception is incorrect. The
 Qur’an makes it clear that prior to Adam and Eve’s descent to earth,
 religion had not yet been ordained:
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي
-هُدًى
-  </p>
-</blockquote>
+> قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي
+> هُدًى
 
 ***“We said, ‘Descend together. When guidance comes to you from
 Me…’”***[^11]
@@ -344,22 +300,14 @@ The truth is that God meant for humankind to live and procreate on the
 earth from the very start. When God intended to create Adam, he thus
 addressed the angels:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
-  </p>
-</blockquote>
+> إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
 
 ***“…Indeed I am going to set a vicegerent on the earth…”***[^12]
 
 The angels also knew that the human being was meant to live on the
 earth. This is evident from the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ
-  </p>
-</blockquote>
+> أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ
 
 ***“…Will You set in [the earth] one who will cause corruption in it,
 and shed blood…”***[^13]
@@ -367,13 +315,9 @@ and shed blood…”***[^13]
 Even Satan knew that Adam and Eve’s presence in Paradise was not
 permanent and that they had to leave in order to procreate:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ
-إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا
-قَلِيلًا
-  </p>
-</blockquote>
+> قَالَ أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ
+> إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا
+> قَلِيلًا
 
 ***“Said [Satan], ‘Do You see this one whom You have honored above me?
 If You respite me until the Day of Resurrection, I will surely
@@ -382,12 +326,8 @@ destroy*** ***his progeny*****,** ***all except a few.”***[^14]
 Thus, the stratagem he contrived for deceiving them pertained to their
 procreative aspect:
 
-<blockquote dir="rtl">
-  <p>
-فَوَسْوَسَ لَهُمَا الشَّيْطَانُ لِيُبْدِيَ لَهُمَا مَا وُورِيَ
-عَنْهُمَا مِنْ سَوْآتِهِمَا
-  </p>
-</blockquote>
+> فَوَسْوَسَ لَهُمَا الشَّيْطَانُ لِيُبْدِيَ لَهُمَا مَا وُورِيَ
+> عَنْهُمَا مِنْ سَوْآتِهِمَا
 
 ***“Then Satan tempted them to expose to them what was hidden from them
 of their nakedness [i.e., their genitalia]…”***[^15]
@@ -400,34 +340,22 @@ religion is much higher than what he had in Paradise before coming to
 the earth. Though life in the earth is afflicted with hardship (the
 Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ فَلَا
-يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ
-  </p>
-</blockquote>
+> فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ فَلَا
+> يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ
 
 ***“…do not let [Satan] expel you two [Adam and Even] from Paradise, or
 you will be miserable…”***[^16]
 
 Also, He said:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ
 
 ***“Certainly We created man in travail.”***[^17]
 
 But it is the prelude to the eternal life of the Hereafter. Life in this
 world is a test:
 
-<blockquote dir="rtl">
-  <p>
-وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ
-  </p>
-</blockquote>
+> وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ
 
 ***“…We will inflict on you good and ill as a test…”***[^18]
 
@@ -487,5 +415,4 @@ unaware. [trans.]
 [^17]: Surah al-Balad 90:4.
 
 [^18]: Surah al-Anbiya’ 21:35.
-
 

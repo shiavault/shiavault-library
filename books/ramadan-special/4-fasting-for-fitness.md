@@ -86,9 +86,7 @@ often been said.
 "The man eager for success has the lean, hungry look". A bit of
 starvation can give you that eagerness in a hurry.
 
-
 **Try a fast for spiritual and physical fitness**
-
 
 **Sighting of the Moon**
 
@@ -96,13 +94,11 @@ It is obligatory to see the first night moon of the holy month of
 Ramadhan. After seeing the first night moon turn towards Qiblah, raise
 your hands and recite:
 
-<p dir="rtl">
 رَبِّى وَ رَبُّكَ اللَّهُ رَبُّ الْعَالَمِينَ اللَّهُمَّ أَهِلَّهُ
 عَلَيْنَا بِالْأَمْنِ وَ الْإِيمَانِ وَ السَّلامَةِ وَ الْإِسْلامِ وَ
 الْمُسَارَعَةِ إِلَى مَا تُحِبُّ وَ تَرْضَى اللَّهُمَّ بَارِكْ لَنَا فِى
 شَهْرِنَا هَذَا وَ ارْزُقْنَا خَيْرَهُ وَ عَوْنَهُ وَ اصْرِفْ عَنَّا
 ضُرَّهُ وَ شَرَّهُ وَ بَلاءَهُ وَ فِتْنَتَهُ
-</p>
 
 Translation: My Lord and your Lord is Allah, the Lord of the worlds. O
 Allah for us let this month be a period of peace, faith, safety and
@@ -111,5 +107,4 @@ Thou likes and approves. O Allah pour out much blessings on us in this
 month, make available for us its generous good and assistance, and keep
 us safe from the harm, evil, misfortune and mischief that may try to
 trap us in this month.
-
 

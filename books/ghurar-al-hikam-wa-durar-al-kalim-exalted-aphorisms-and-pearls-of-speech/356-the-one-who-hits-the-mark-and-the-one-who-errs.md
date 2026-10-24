@@ -16,4 +16,3 @@ and haste is [a reason for] regret.
 
 > 3ـ ما كُلُّ رام يُصيبُ.
 
-

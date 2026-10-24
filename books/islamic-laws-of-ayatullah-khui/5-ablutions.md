@@ -833,4 +833,3 @@ time for prayers the prayers offered by him with jabira ablutions are in
 order and he can also offer later prayers with that ablutions if the
 excuse still exists.
 
-

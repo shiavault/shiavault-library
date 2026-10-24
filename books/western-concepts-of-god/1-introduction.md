@@ -49,7 +49,6 @@ communicated, the relation between such knowledge and logic, the nature
 of divine causality, and the relation between the divine and the human
 will.
 
-
 **A. Sources of Western Concepts of God**
 
 Sources of western concepts of the divine have been threefold:
@@ -92,7 +91,6 @@ interdependent and mutually reinforcing.
 
 Regardless of these differing approaches, theism broadly construed has
 been a dominant theme for much of the history of Western thought.
-
 
 **B. Historical Overview**
 
@@ -588,5 +586,4 @@ desert.
 
 God knows all things in their unity, timelessly; but on our temporal
 level it makes sense to differentiate time as well as events.
-
 

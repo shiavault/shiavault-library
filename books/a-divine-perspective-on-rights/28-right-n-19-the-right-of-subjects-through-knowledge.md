@@ -1,24 +1,16 @@
 Right n. 19: The Right of Subjects through Knowledge
 ====================================================
 
-<blockquote dir="rtl">
-  <p>
-حق الرعية بالعلم
-  </p>
-</blockquote>
+> حق الرعية بالعلم
 
-<blockquote dir="rtl">
-  <p>
-وأمَّا حَقُّ رَعِيَّتِكَ بالعِلْمِ فَأَنْ تَعْلَمَ أَنَّ اللهَ قَدْ
-جَعَلَكَ لَهُمْ فِيمَا آتاكَ مِنَ الْعِلْمِ وَولاّكَ مِنْ خَزَانةِ
-الْحِكْمَةِ، فَإنْ أَحْسَنْتَ فِيمَا ولاّكَ اللهُ مِنْ ذلِكَ وَقُمْتَ
-بهِ لَهُمْ مَقَامَ الخَازِنِ الشَّفِيقِ النَّاصِحِ لِمَولاهُ فِي
-عَبيدِهِ، الصَّابرِ الْمُحْتَسِب الَّذِي إذَا رأَى ذا حَاجَةٍ أَخرَجَ
-لَهُ مِنَ الأَمْوَالِ الَّتِي فِي يَدَيهِ كُنْتَ رَاشِدًا، وَكُنْتَ
-لِذَلِكَ آمِلاً مُعْتَقِدًا وَإلاّ كُنْتَ لَهُ خَائِنًا وَلِخَلقِهِ
-ظَالِمًا وَلِسَلْبهِ وَعِزِّهِ مُتَعَرِّضًا.
-  </p>
-</blockquote>
+> وأمَّا حَقُّ رَعِيَّتِكَ بالعِلْمِ فَأَنْ تَعْلَمَ أَنَّ اللهَ قَدْ
+> جَعَلَكَ لَهُمْ فِيمَا آتاكَ مِنَ الْعِلْمِ وَولاّكَ مِنْ خَزَانةِ
+> الْحِكْمَةِ، فَإنْ أَحْسَنْتَ فِيمَا ولاّكَ اللهُ مِنْ ذلِكَ وَقُمْتَ
+> بهِ لَهُمْ مَقَامَ الخَازِنِ الشَّفِيقِ النَّاصِحِ لِمَولاهُ فِي
+> عَبيدِهِ، الصَّابرِ الْمُحْتَسِب الَّذِي إذَا رأَى ذا حَاجَةٍ أَخرَجَ
+> لَهُ مِنَ الأَمْوَالِ الَّتِي فِي يَدَيهِ كُنْتَ رَاشِدًا، وَكُنْتَ
+> لِذَلِكَ آمِلاً مُعْتَقِدًا وَإلاّ كُنْتَ لَهُ خَائِنًا وَلِخَلقِهِ
+> ظَالِمًا وَلِسَلْبهِ وَعِزِّهِ مُتَعَرِّضًا.
 
 **And the right of your subjects through knowledge is that you should
 know that God established you over them through what He has granted you
@@ -95,36 +87,24 @@ people to be abused and debased.
 should be given the chance to benefit from the fruits of this act. If
 not, he is like those admonished in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ
-تَتْلُونَ الْكِتَابَ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ
+> تَتْلُونَ الْكِتَابَ أَفَلاَ تَعْقِلُونَ
 
 ***“Do ye enjoin right conduct on the people, and forget (to practice
 it) yourselves.”[The Holy Qur’an, al-Baqarah 2:44]***
 
 Regarding the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء إِنَّ اللَّهَ
-عَزِيزٌ غَفُورٌ
-  </p>
-</blockquote>
+> إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء إِنَّ اللَّهَ
+> عَزِيزٌ غَفُورٌ
 
 ***“Those truly fear God, among His servants, who have knowledge.” [The
 Holy Qur’an, al-Fatir 35:28]***
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-العَالِمُ مَن صَدَّقَ فِعْلُهُ قَولَهُ وَمَنْ لَمْ يُصَدِّقْ قَولُهُ
-فِعْلَهُ فَلَيسَ بِعالِمٍ.
-  </p>
-</blockquote>
+> العَالِمُ مَن صَدَّقَ فِعْلُهُ قَولَهُ وَمَنْ لَمْ يُصَدِّقْ قَولُهُ
+> فِعْلَهُ فَلَيسَ بِعالِمٍ.
 
 *“A knowledgeable person is one whose deeds confirm his words. One whose
 deeds do not confirm his words is not a knowledgeable person.”*[^1]
@@ -133,11 +113,7 @@ deeds do not confirm his words is not a knowledgeable person.”*[^1]
 his students with patience and kindness. The Prophet of God said the
 following regarding scholars:
 
-<blockquote dir="rtl">
-  <p>
-عُلَماءُ أُمَّتِي كَأنْبِياءِ بَني إسْرائِيلَ.
-  </p>
-</blockquote>
+> عُلَماءُ أُمَّتِي كَأنْبِياءِ بَني إسْرائِيلَ.
 
 *“My nation’s scholars are like the Prophet of the Israelites.”*[^2]
 
@@ -153,11 +129,7 @@ knowledge in the student in the process of teaching. This is because
 knowledge without sincerity is similar to jewelry hanging around a pig’s
 neck as Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُعَلِّقُوا الجَواهِرَ في أعْناقِ الخَنازِيرِ.
-  </p>
-</blockquote>
+> لا تُعَلِّقُوا الجَواهِرَ في أعْناقِ الخَنازِيرِ.
 
 *“Do not hang jewels around a pig’s neck.”*[^3]
 
@@ -165,11 +137,7 @@ neck as Imam Ali said:
 student ready to learn. Jabir Jo’afi quoted on the authority of Imam
 Baqir:
 
-<blockquote dir="rtl">
-  <p>
-زَكاةُ العِلمِ تَعلِيمُهُ عِبادَ اللهِ.
-  </p>
-</blockquote>
+> زَكاةُ العِلمِ تَعلِيمُهُ عِبادَ اللهِ.
 
 *“The alms due to be paid on your knowledge is teaching it to God’s
 servants.”*[^4]
@@ -181,12 +149,8 @@ doing it himself.
 8 - A good teacher should be determined to express what is right as much
 as is in his power to do so. The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا ظَهَرَتِ البِدَعُ في أُمَّتِي فَلْيُظْهِرِ العالِمُ عِلْمَهُ
-فَمَنْ لَمْ يَفْعَل فَعَلَيْهِ لَعنَةُ اللهِ.
-  </p>
-</blockquote>
+> إذَا ظَهَرَتِ البِدَعُ في أُمَّتِي فَلْيُظْهِرِ العالِمُ عِلْمَهُ
+> فَمَنْ لَمْ يَفْعَل فَعَلَيْهِ لَعنَةُ اللهِ.
 
 *“When innovations (in religion) appear in my nation, then let the
 person of knowledge confront it. Whoever does not do so, upon him be the
@@ -215,11 +179,7 @@ and not to commit the forbidden acts or what might harm them.
 5 - A good teacher should not be haughty with his students. Rather he
 should be humble with them since the Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-لِينُوا لِمَنْ تُعَلِّمونَ وَلِمَنْ تَتَعَلَّمونَ مِنْهُ.
-  </p>
-</blockquote>
+> لِينُوا لِمَنْ تُعَلِّمونَ وَلِمَنْ تَتَعَلَّمونَ مِنْهُ.
 
 *“Be gentle with those you teach and those you learn from.”*
 
@@ -290,12 +250,8 @@ from the Holy Qur’an.
 know the answer to a question asked for which he does not know the
 answer. He should do so bravely since Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا سُئِلْتُم عَمّا لا تَعْلَمونَ فَاهْرُبوا… تَقولونَ: اللهُ
-أعْلَمُ.
-  </p>
-</blockquote>
+> إذَا سُئِلْتُم عَمّا لا تَعْلَمونَ فَاهْرُبوا… تَقولونَ: اللهُ
+> أعْلَمُ.
 
 *“If you are asked about what you know not, then flee.” He was asked
 how. He replied: “Flee by saying God knows best.”*
@@ -315,13 +271,9 @@ and the reward that God has established for them.
 
 1 - God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ طَلَبَ عِلْماً فَأدْرَكَهُ كَتَبَ اللهُ لهُ كِفْلَينِ مِن
-الأجْرِ، وَمَن طَلبَ عِلماً فَلَم يُدْرِكْهُ كَتَبَ اللهُ له كِفلاً
-مِن الأجْرِ.
-  </p>
-</blockquote>
+> مَنْ طَلَبَ عِلْماً فَأدْرَكَهُ كَتَبَ اللهُ لهُ كِفْلَينِ مِن
+> الأجْرِ، وَمَن طَلبَ عِلماً فَلَم يُدْرِكْهُ كَتَبَ اللهُ له كِفلاً
+> مِن الأجْرِ.
 
 *“God will grant two rewards to whoever seeks knowledge and acquires it.
 And God will grant one reward to those who seek knowledge, but do not
@@ -329,17 +281,13 @@ acquire it.”*
 
 2 - God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّ أنْ يَنْظُرَ إلى عُتَقاءِ اللهِ مِن النّارِ فَلْيَنْظُرْ
-إلى المُتَعَلّمِينَ: فَوالّذي نَفْسي بِيَدِهِ ما مِنْ مُتَعَلِّمٍ
-يَخْتَلِفُ إلى بابِ العَالِمِ إلاّ كَتَبَ اللهُ له بِكُلِّ قَدَمٍ
-عِبادَةَ سَنَةٍ وَبَنى اللهُ لهُ بِكُلِّ قَدَمٍ مَدينَةً في الجَنَّةِ
-وَيَمْشِي عَلى الأرْضِ وَهِيَ تَسْتَغْفِرُ له وَيْمْسِي وَيُصْبِحُ
-مَغْفوراً لهُ وَشَهِدَتِ المَلائِكَةُ أنَّهُم عُتَقاءُ اللهِ مِن
-النّارِ.
-  </p>
-</blockquote>
+> مَنْ أَحَبَّ أنْ يَنْظُرَ إلى عُتَقاءِ اللهِ مِن النّارِ فَلْيَنْظُرْ
+> إلى المُتَعَلّمِينَ: فَوالّذي نَفْسي بِيَدِهِ ما مِنْ مُتَعَلِّمٍ
+> يَخْتَلِفُ إلى بابِ العَالِمِ إلاّ كَتَبَ اللهُ له بِكُلِّ قَدَمٍ
+> عِبادَةَ سَنَةٍ وَبَنى اللهُ لهُ بِكُلِّ قَدَمٍ مَدينَةً في الجَنَّةِ
+> وَيَمْشِي عَلى الأرْضِ وَهِيَ تَسْتَغْفِرُ له وَيْمْسِي وَيُصْبِحُ
+> مَغْفوراً لهُ وَشَهِدَتِ المَلائِكَةُ أنَّهُم عُتَقاءُ اللهِ مِن
+> النّارِ.
 
 *“Whoever likes to see those saved by God from the Fire (of Hell) should
 take a look at those who seek knowledge. I swear by the One who
@@ -353,13 +301,9 @@ angels witness that they have been freed by God from the Fire.”*[^9]
 
 3- God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن طَلَبَ العِلْمَ فَهُو كالصّائِمِ نَهارَهُ وَالقَائِمِ لَيْلَهُ
-وإنَّ باباً مِن العِلْمِ يَتَعَلَّمُهُ الرَّجُلُ خَيرٌ لهُ مِن أنْ
-يَكونَ أبو قُبَيسٍ ذَهَباً فأنْفَقَهُ في سَبيلِ اللهِ.
-  </p>
-</blockquote>
+> مَن طَلَبَ العِلْمَ فَهُو كالصّائِمِ نَهارَهُ وَالقَائِمِ لَيْلَهُ
+> وإنَّ باباً مِن العِلْمِ يَتَعَلَّمُهُ الرَّجُلُ خَيرٌ لهُ مِن أنْ
+> يَكونَ أبو قُبَيسٍ ذَهَباً فأنْفَقَهُ في سَبيلِ اللهِ.
 
 *“Whoever seeks knowledge is like one who fasts in the daytime and stays
 up at night to worship God. For him each chapter that he learns is
@@ -368,12 +312,8 @@ sake of God.”*[^10]
 
 4- God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن جَاءَهُ المَوتُ وهُوَ يَطْلُبُ العِلمَ لِيُحيِيَ بهِ الإسْلامَ
-كانَ بَينَهُ وَبَيْنَ الأنْبِياءِ دَرَجَةٌ واحِدَةٌ في الجَنَّةِ.
-  </p>
-</blockquote>
+> مَن جَاءَهُ المَوتُ وهُوَ يَطْلُبُ العِلمَ لِيُحيِيَ بهِ الإسْلامَ
+> كانَ بَينَهُ وَبَيْنَ الأنْبِياءِ دَرَجَةٌ واحِدَةٌ في الجَنَّةِ.
 
 *“Whoever dies while seeking knowledge with the intention of reviving
 Islam, then there is one rank in Heaven between him and the
@@ -404,5 +344,4 @@ Muslims turn when they pray.
 [^10]: Zayn al-Din al-Juba’i al-‘Amili.
 
 [^11]: Ibid.
-
 

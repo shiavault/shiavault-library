@@ -3,12 +3,8 @@ Lesson Thirty: Speech and Silence
 
 Imam Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"لاَ خَيْرَ فِى الصَّمْتِ عَنِ الْحُكْمِ كَما أنَّهُ لا خَيْرَ فِى
-القَوْلِ بالْجَهْلِ"
-  </p>
-</blockquote>
+> "لاَ خَيْرَ فِى الصَّمْتِ عَنِ الْحُكْمِ كَما أنَّهُ لا خَيْرَ فِى
+> القَوْلِ بالْجَهْلِ"
 
 Translation
 -----------
@@ -29,5 +25,4 @@ sufficient information should not mislead people through their improper
 interference. That silence and this speech both cause misfortune.
 
 [^1]: Nahjul Balaghah
-
 

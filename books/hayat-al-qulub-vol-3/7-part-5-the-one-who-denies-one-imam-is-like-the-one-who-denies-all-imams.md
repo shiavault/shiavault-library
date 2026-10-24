@@ -122,11 +122,7 @@ which have been promised to him by the Lord of the world. Verily Allah
 has made His servants aware of the true path and He has also put signs
 on that path and has informed them how to proceed on this path saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنْ الْمُتَّقِينَ.
-  </p>
-</blockquote>
+> إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنْ الْمُتَّقِينَ.
 
 ***Allah only accepts from those who guard (against evil). (Sura Maida
 5:27)***
@@ -145,13 +141,9 @@ gate of the knowledge of the messenger are the true Imams, as the Holy
 Prophet (S) has said: I am the city of knowledge and wisdom and Ali is
 its gate and Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا وَلَكِنَّ
-الْبِرَّ مَنْ اتَّقَى وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا وَاتَّقُوا
-اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ.
-  </p>
-</blockquote>
+> وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا وَلَكِنَّ
+> الْبِرَّ مَنْ اتَّقَى وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا وَاتَّقُوا
+> اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ.
 
 ***And it is not righteousness that you should enter the houses at their
 backs, but righteousness is this that one should guard (against evil);
@@ -163,14 +155,10 @@ authority), that is, of the true Imams, with the obedience of the
 Prophet and joined the obedience of the prophet with His own obedience
 saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي
-شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنتُمْ تُؤْمِنُونَ
-بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي
+> شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنتُمْ تُؤْمِنُونَ
+> بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا.
 
 ***O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you; then if you quarrel about anything, refer it
@@ -181,11 +169,7 @@ So the one who discards the obedience of the true Walis has obeyed
 neither Allah nor the messenger. And their obedience is the confession
 of what Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ.
-  </p>
-</blockquote>
+> خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ.
 
 ***Decorate yourself near every mosque… (Sura Araf 7:31)***
 
@@ -197,12 +181,8 @@ obedience of the true Imams. Then added: Seek those houses about which,
 Allah has said, in Surah Noor, which is revealed in praise of the Ahlul
 Bayt (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ.
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ.
 
 ***In houses which Allah has permitted to be exalted and that His name
 may be remembered in them; there glorify Him therein in the mornings and
@@ -215,13 +195,9 @@ that the remembrance of Allah must continue therein. Thereafter the
 Hazrat said: You have been certainly informed as to which are those
 houses and who are their residents. It is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ.
-  </p>
-</blockquote>
+> رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ.
 
 ***Men whom neither merchandise nor selling diverts from the remembrance
 of Allah and the keeping up of prayer and the giving of poor-rate; they
@@ -241,12 +217,8 @@ chastisement. The one who is unwise is restlessly wandering and the one
 who is wise is guided and that here sight means the heart as says the
 Lord of the universe:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِنْ تَعْمَى الْقُلُوبُ
-الَّتِي فِي الصُّدُورِ.
-  </p>
-</blockquote>
+> فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِنْ تَعْمَى الْقُلُوبُ
+> الَّتِي فِي الصُّدُورِ.
 
 ***Eyes are not blind but blind hearts within their chests. (Sura Haj
 22:46)***
@@ -262,13 +234,9 @@ Also it has been reliably narrated from Imam Sadiq (a.s.) that Abdullah
 bin Alkawar, who was a Khariji, went to Ali (a.s.) and requested for the
 explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
-وَنَادَوْا أَصْحَابَ الْجَنَّةِ أَنْ سَلَامٌ عَلَيْكُمْ لَمْ
-يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ.
-  </p>
-</blockquote>
+> وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
+> وَنَادَوْا أَصْحَابَ الْجَنَّةِ أَنْ سَلَامٌ عَلَيْكُمْ لَمْ
+> يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ.
 
 ***And on the most elevated places there shall be men who know all by
 their marks, and they shall call out to the dwellers of the garden:
@@ -306,11 +274,7 @@ whereby man attains higher ranks near Allah and in heavens (Paradise).
 Moreover, it is narrated with reliable sources that Imam Sadiq (a.s.)
 was asked to explain the meaning of the holy verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا.
-  </p>
-</blockquote>
+> وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا.
 
 ***Who is given wisdom has been granted a great good. (Sura Baqarah
 2:269)***
@@ -321,13 +285,9 @@ Allah and the recognition of the Imam.[^3]
 Moreover, it is reported with authentic chains of narrators that someone
 had asked Imam Baqir (a.s.) to explain the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
-بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
-مِنْهَا.
-  </p>
-</blockquote>
+> أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
+> بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
+> مِنْهَا.
 
 ***Is the dead man whom We make alive creating a Noor (light) for him
 wherein he walks among people is like the one who is in the darkness of
@@ -343,13 +303,9 @@ It is authentically narrated from Imam Sadiq (a.s.) that Abu Abdullah
 Jadali went to Amirul Momineen (a.s.). The Hazrat told him: O Abu
 Abdullah! Do you want me to explain to you the purport of the verse:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ
-يَوْمَئِذٍ آمِنُونَ. وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ
-فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ.
-  </p>
-</blockquote>
+> مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ
+> يَوْمَئِذٍ آمِنُونَ. وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ
+> فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ.
 
 ***Whoever brings good, he shall have better than it; and they shall be
 secure from terror on the day. And whoever brings evil, these shall be
@@ -413,5 +369,4 @@ many divine books have been altered thus depriving people of the divine
 knowledge and the traditions of the messenger and the words of Imams.
 Such people have, without understanding religion and essential problems
 declared themselves as Scholars and wise men.
-
 

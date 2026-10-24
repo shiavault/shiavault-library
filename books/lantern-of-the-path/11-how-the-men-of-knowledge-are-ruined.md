@@ -6,18 +6,10 @@ is the ray of gnosis and the heart of belief. Whoever is denied caution
 is not a man of knowledge, even if he can split hairs in dealing with
 obscure items of knowledge. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-...إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء....
-  </p>
-</blockquote>
-
-
+> ...إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء....
 
 ***Only those of His servants who are possessed of knowledge fear
 Allah.*** (35:28)
-
 
 Men of knowledge are ruined by eight things: greed and miserliness,
 showing off and partisanship, love of praise, delving into things whose
@@ -44,6 +36,4 @@ remedy where it will be of benefit.' They asked ‘Isa (‘a), 'With whom
 shall we sit, O Spirit of Allah?' 'With one the sight of whom reminds
 you of Allah,' he replied, 'and whose speech increases you in knowledge,
 and whose actions make you desire the next world.'
-
-
 

@@ -123,12 +123,8 @@ and see what I see, except that you are not a prophet ...”[^19]
 18. In al-Bihar: From ‘Abd al-Hamid ibn Abi al-Hadid from Abi Ja’far
 Muhammad ibn ‘Ali al-Baqir (as) in his explanation of the ayah:
 
-<blockquote dir="rtl">
-  <p>
- إِلاَّ مَنِ ارْتَــضَى مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا 
-  </p>
-</blockquote>
+>  إِلاَّ مَنِ ارْتَــضَى مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا 
 
 **“*****Except to him whom He chooses as a messenger; for surely He
 makes a guard to march before him and after him.*****”** (Surat al-Jinn:
@@ -334,12 +330,8 @@ standing up for his rights?’ He (as) said: “Allah did not make it
 compulsory (on anyone) to stand up alone except the Prophet (S), He
 (SwT) said:
 
-<blockquote dir="rtl">
-  <p>
- فَقَاتِلْ فِي سَبِيلِ اللٌّهِ لاَ تُكَلَّفُ إِلاَّ نَفْسَكَ
-وَحَرِّضِ الْمُؤْمِنِينَ... 
-  </p>
-</blockquote>
+>  فَقَاتِلْ فِي سَبِيلِ اللٌّهِ لاَ تُكَلَّفُ إِلاَّ نَفْسَكَ
+> وَحَرِّضِ الْمُؤْمِنِينَ... 
 
 **“*****Fight in the way of Allah, this is not made obligatory for you
 except in relation to yourself, and rouse the believers ...*****”**
@@ -348,11 +340,7 @@ except in relation to yourself, and rouse the believers ...*****”**
 so this does not apply to anyone but the Holy Prophet. And He said for
 other than him:
 
-<blockquote dir="rtl">
-  <p>
- ... إِلاَّ مُتَحَرِّفًا لِقِتَالٍ أَوْ مُتَحَيِّزًا إِلَى فِئَةٍ 
-  </p>
-</blockquote>
+>  ... إِلاَّ مُتَحَرِّفًا لِقِتَالٍ أَوْ مُتَحَيِّزًا إِلَى فِئَةٍ 
 
 ***“...Unless he turns aside as a stratagem of war or withdraws to a
 company ...*****”** (Surat al-Anfal (8): 16)
@@ -428,12 +416,8 @@ al-Ikhtisas and by other narrators.[^83]
 68. Also: In his narration from Abi Basir who said: I asked Aba
 ‘Abdillah about the words of Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
- وَكَذٌلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا مَا كُنْتَ
-تَدْرِي مَا الْكِتَابُ وَلاَ الإِيـمَانُ... 
-  </p>
-</blockquote>
+>  وَكَذٌلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا مَا كُنْتَ
+> تَدْرِي مَا الْكِتَابُ وَلاَ الإِيـمَانُ... 
 
 **“*****And thus did we reveal to you a spirit by our command. You did
 not know what the book was nor what the faith was ...*****”** (Surat
@@ -474,11 +458,7 @@ said: I asked Aba al-Hasan (as): “Did the Noble Prophet (S) see his
 Lord?” He replied: “Yes, he saw Him with his heart. Have you not heard
 that Allah said:
 
-<blockquote dir="rtl">
-  <p>
- مَا كَذَبَ الْفُؤَادُ مَا رَأى 
-  </p>
-</blockquote>
+>  مَا كَذَبَ الْفُؤَادُ مَا رَأى 
 
 **“*****The heart was not untrue in (making him see) what he
 saw.*****”**[^91]
@@ -751,5 +731,4 @@ and al-’Ilal
 [^100]: Majma’ al-Bayan 10:378, Surat al-Muzammil (73)
 
 [^101]: Bihar al-Anwar 15:401
-
 

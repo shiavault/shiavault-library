@@ -37,4 +37,3 @@ says: “
 
 ***And the pleasure of Allah is the greatest (bliss)” (Qur’an 9:72).***
 
-

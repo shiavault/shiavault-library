@@ -153,11 +153,7 @@ the dawn of resurrection. The Messenger of Allah (s.a.w.a.) has
 underlined the significance of Imam al-Asr's (a.s.) recognition through
 the famous tradition,
 
-<blockquote dir="rtl">
-  <p>
-"من مات ولم يعرف إمام زمانه مات ميتة جاهليّة"
-  </p>
-</blockquote>
+> "من مات ولم يعرف إمام زمانه مات ميتة جاهليّة"
 
 *"One who dies without recognizing the Imam of his time, dies the death
 of ignorance (i.e. unbelief)."*[^2]
@@ -195,11 +191,7 @@ his book "Faraaedus Simtain" and Shaikh Sulayman Qundoozi in his famous
 work "Yanaabee' al-Mawaddah" have recorded that the Holy Prophet
 (s.a.w.a.) said,
 
-<blockquote dir="rtl">
-  <p>
-"من أنكر خروج المهدي فقد كفر"
-  </p>
-</blockquote>
+> "من أنكر خروج المهدي فقد كفر"
 
 *"One who denies the reappearance of Mahdi, is an unbeliever."*
 
@@ -293,11 +285,7 @@ Occultation means that people are not aware of his place of abode. Even
 when they see their Imam az-Zaman (a.t.f.s.), they do not recognize him.
 Imam Sadeq (a.s.) says,
 
-<blockquote dir="rtl">
-  <p>
-"يرونهُ و لا يعرفونه"
-  </p>
-</blockquote>
+> "يرونهُ و لا يعرفونه"
 
 *"They see him but do not recognize him."*[^3]
 
@@ -356,11 +344,7 @@ In the major occultation, an important duty is to await the reappearance
 of Imam az-Zaman (a.t.f.s.). Imam Sadeq (a.s.) relates from the Holy
 Prophet (s.a.w.a.),
 
-<blockquote dir="rtl">
-  <p>
-"أفضل أعمال أمتي انتظار الفرج"
-  </p>
-</blockquote>
+> "أفضل أعمال أمتي انتظار الفرج"
 
 *"The best act of my nation is to await the reappearance."*[^6]
 
@@ -476,39 +460,31 @@ supplications for him.
 recite the following invocation in the Qunoot. This is also called as
 *Doa al-Salaamati*.
 
-<blockquote dir="rtl">
-  <p>
-اَللّـهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ بْنِ الْحَسَنِ صَلَواتُكَ
-عَلَيْهِ وَعَلى آبائِه في هذِهِ السَّاعَةِ وَفي كُلِّ ساعَة وَلِيّاً
-وَحافِظاً وَقائِداً وَناصِراً وَدَليلاً وَعَيْنا حَتّى تُسْكِنَهُ
-اَرْضَكَ طَوْعاً وَتُمَتِّعَهُ فيها طَويلاً
-  </p>
-</blockquote>
+> اَللّـهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ بْنِ الْحَسَنِ صَلَواتُكَ
+> عَلَيْهِ وَعَلى آبائِه في هذِهِ السَّاعَةِ وَفي كُلِّ ساعَة وَلِيّاً
+> وَحافِظاً وَقائِداً وَناصِراً وَدَليلاً وَعَيْنا حَتّى تُسْكِنَهُ
+> اَرْضَكَ طَوْعاً وَتُمَتِّعَهُ فيها طَويلاً
 
 (b) After Salat (prayer) al-Subh (morning prayers), we must recite the
 brief Doa al-Ahd. It is a salutation, a covenant and a supplication, all
 put together.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ بَلِّغْ مَولايَ صاحِبَ الزَّمانِ صَلواتُ الله عَلَيْهِ عَنْ
-جَمِيعِ المُؤْمِنِينَ وَالمُؤْمِناتِ فِي مَشارِقِ الاَرْضِ
-وَمَغارِبِها وَبَرِّها وَبَحْرِها وَسَهْلِها وَجَبَلِها، حَيِّهِمْ
-وَمَيِّتِهِمْ وَعَنْ وَالِدَيَّ وَوُلْدِي وَعَنِّي مِنَ الصَّلَواتِ
-وَالتَّحِياتِ زِنَةَ عَرْشِ الله وَمِدادَ كَلِماتِهِ وَمُنْتَهى رِضاهُ
-وَعَدَدَ ما أحْصاهُ كِتابُهُ وَأَحاطَ بِهِ عِلْمُهُ، اللّهُمَّ إِنِّي
-أُجَدِّدُ لَهُ فِي هذا اليَوْمِ وَفِي كُلِّ يَوْمٍ عَهْداً وَعَقْداً
-وَبَيْعَةً فِي رَقَبَتِي، اللّهُمَّ كَما شَرَّفْتَنِي بِهذا
-التَّشْرِيفِ وَفَضَّلْتَنِي بِهِذِهِ الفَضِيلَةِ وَخَصَصْتَنِي
-بِهِذِهِ النِّعْمَةِ فَصَلِّ عَلى مَوْلايَ وَسَيِّدِي صاحِبِ
-الزَّمانِ، وَاجْعَلْنِي مِنْ أَنْصارِهِ وَأَشْياعِهِ وَالذَّابِّينَ
-عَنْهُ وَاجْعَلْنِي مِنَ المُسْتَشْهَدِينَ بَيْنَ يَدَيْهِ طائِعاً
-غَيْرَ مُكْرَهٍ فِي الصَفِّ الَّذِي نَعَتَّ أَهْلَهُ فِي كِتابِكَ،
-فَقُلْتَ: صَفّا كَأَنَّهُمْ بُنْيانٌ مَرْصوصٌ عَلى طاعَتِكَ وَطاعَةِ
-رَسُولِكَ وَآلِهِ عَلَيْهِمُ السَّلامُ ؛ اللّهُمَّ هذِهِ بَيْعَةٌ لَهُ
-فِي عُنُقِي إِلى يَوْمِ القِيامَةِ
-  </p>
-</blockquote>
+> اللّهُمَّ بَلِّغْ مَولايَ صاحِبَ الزَّمانِ صَلواتُ الله عَلَيْهِ عَنْ
+> جَمِيعِ المُؤْمِنِينَ وَالمُؤْمِناتِ فِي مَشارِقِ الاَرْضِ
+> وَمَغارِبِها وَبَرِّها وَبَحْرِها وَسَهْلِها وَجَبَلِها، حَيِّهِمْ
+> وَمَيِّتِهِمْ وَعَنْ وَالِدَيَّ وَوُلْدِي وَعَنِّي مِنَ الصَّلَواتِ
+> وَالتَّحِياتِ زِنَةَ عَرْشِ الله وَمِدادَ كَلِماتِهِ وَمُنْتَهى رِضاهُ
+> وَعَدَدَ ما أحْصاهُ كِتابُهُ وَأَحاطَ بِهِ عِلْمُهُ، اللّهُمَّ إِنِّي
+> أُجَدِّدُ لَهُ فِي هذا اليَوْمِ وَفِي كُلِّ يَوْمٍ عَهْداً وَعَقْداً
+> وَبَيْعَةً فِي رَقَبَتِي، اللّهُمَّ كَما شَرَّفْتَنِي بِهذا
+> التَّشْرِيفِ وَفَضَّلْتَنِي بِهِذِهِ الفَضِيلَةِ وَخَصَصْتَنِي
+> بِهِذِهِ النِّعْمَةِ فَصَلِّ عَلى مَوْلايَ وَسَيِّدِي صاحِبِ
+> الزَّمانِ، وَاجْعَلْنِي مِنْ أَنْصارِهِ وَأَشْياعِهِ وَالذَّابِّينَ
+> عَنْهُ وَاجْعَلْنِي مِنَ المُسْتَشْهَدِينَ بَيْنَ يَدَيْهِ طائِعاً
+> غَيْرَ مُكْرَهٍ فِي الصَفِّ الَّذِي نَعَتَّ أَهْلَهُ فِي كِتابِكَ،
+> فَقُلْتَ: صَفّا كَأَنَّهُمْ بُنْيانٌ مَرْصوصٌ عَلى طاعَتِكَ وَطاعَةِ
+> رَسُولِكَ وَآلِهِ عَلَيْهِمُ السَّلامُ ؛ اللّهُمَّ هذِهِ بَيْعَةٌ لَهُ
+> فِي عُنُقِي إِلى يَوْمِ القِيامَةِ
 
 ### e) Sadaqah
 
@@ -535,13 +511,9 @@ Allah the Almighty has appointed the infallible Imams (a.s.) as the
 media and doors for approaching Him. Presently, Imam az-Zaman (a.t.f.s.)
 is that door through whom Allah is approached. The Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا
-الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا
-يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا
+> الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا
+> يَعْمَلُونَ
 
 ***And Allah's are the best names, therefore call on Him thereby, and
 leave alone those who violate the sanctity of His names; they shall be
@@ -593,12 +565,8 @@ Rather, its beats translate into the most effective of words. A broken
 heart narrates a thousand incidents in a few seconds. In Doa al-Nudbah,
 we cry,
 
-<blockquote dir="rtl">
-  <p>
-بِنَفْسِي أَنْتَ مِنْ مُغَيَّبٍ لَمْ يَخْلُ مِنّا بِنَفْسِي
-أَنْتَ مِنْ نازِحٍ مانَزَحَ عَنّا
-  </p>
-</blockquote>
+> بِنَفْسِي أَنْتَ مِنْ مُغَيَّبٍ لَمْ يَخْلُ مِنّا بِنَفْسِي
+> أَنْتَ مِنْ نازِحٍ مانَزَحَ عَنّا
 
 **"May our lives be sacrificed on him who is distanced from the eyes but
 the hearts are not devoid of him. He is physically far from us but his
@@ -693,11 +661,7 @@ hereunder:
 
 Numerous traditions contain the following sentence,
 
-<blockquote dir="rtl">
-  <p>
-"يملأ الأرض قسطاً وعدلاً كما ملئت جوراً وظلماً"
-  </p>
-</blockquote>
+> "يملأ الأرض قسطاً وعدلاً كما ملئت جوراً وظلماً"
 
 *"He will fill the earth with justice and equity as it would be fraught
 with injustice and oppression."*
@@ -731,11 +695,7 @@ torn to shreds. All because of a single ailment - disunity and
 factionalism. But after the reappearance, all this will change. Factions
 will unite on one platform. In Doa al-Nudbah, we read,
 
-<blockquote dir="rtl">
-  <p>
-"أيْنَ جامِعُ الْكَلِمَةِ عَلَى التَّقْوى"
-  </p>
-</blockquote>
+> "أيْنَ جامِعُ الْكَلِمَةِ عَلَى التَّقْوى"
 
 **"Where is the one who will gather the people on piety and devotion?"**
 
@@ -748,11 +708,7 @@ earth will gain new life and there will be vitality and vigor
 everywhere. Grains and fruits will be in immeasurable abundance. In one
 ziyarat, we salute Imam az-Zaman (a.t.f.s.) with the following sentence,
 
-<blockquote dir="rtl">
-  <p>
-"السلام عليك يا ربيع الأنام  ونضرة الأيام"
-  </p>
-</blockquote>
+> "السلام عليك يا ربيع الأنام  ونضرة الأيام"
 
 **"Peace be on you, O spring of creation and brightness of days."**
 
@@ -809,5 +765,4 @@ targets of his sword.
 [^15]: Mafaateeh al-Jinaan, A'maal for Friday
 
 [^16]: Behaar al-Anwaar, vol. 52, p. 336
-
 

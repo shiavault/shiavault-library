@@ -174,12 +174,8 @@ by Allah (SwT).
 In relation to the Mahr and its importance, Imam Ali ibn Abi Talib (as)
 has stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنّ أَحَقَّ شُرُوطِ أَنْ يُوَفّى بِهِ ما إسْتَحْلَلْتُمْ بِهِ
-الْفُرُوجَ
-  </p>
-</blockquote>
+> إِنّ أَحَقَّ شُرُوطِ أَنْ يُوَفّى بِهِ ما إسْتَحْلَلْتُمْ بِهِ
+> الْفُرُوجَ
 
 *"This (the Mahr) is the most important of all the conditions through
 which, the private parts (intercourse) have been made lawful and
@@ -189,17 +185,13 @@ We conclude the section on the importance of the Mahr with a stern
 warning from our Prophet Muhammad (S) about those men who refuse to give
 their wives that which they promised them:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ظَلَمَ إِمْرَأَةً مَهْرَها فَهُوَ عِنْدَ اللهِ زانٍ. يَقُولُ
-اللهُ عَزَّ وَجَلَّ يَوْمَ الْقِيامَةِ: عَبْدِي زَوَّجْتُكَ أَمَّتِي
-عَلى عَهْدِي فَلَمْ تُوَفَّ بِعَهْدِي وَظَلَمْتَ أَمَّتِي؟ فَيُؤخَذُ
-مِنْ حَسَناتِهِ فَيَدْفَعُ إِلَيْها بِقَدَرٍ حَقِّها. فَإِذا لَمْ
-يَبْقَ لَهُ حَسَنَةُ أُمِرَ بِهِ إِلى النّارِ بِنَكَثَهُ الْعَهْدَ.
-قالَ اللهُ تَعالى: (وَأَوْفُوا بِالْعَهْدِ إِنْ الْعَهْدَ كانَ
-مَسْئولاً(
-  </p>
-</blockquote>
+> مَنْ ظَلَمَ إِمْرَأَةً مَهْرَها فَهُوَ عِنْدَ اللهِ زانٍ. يَقُولُ
+> اللهُ عَزَّ وَجَلَّ يَوْمَ الْقِيامَةِ: عَبْدِي زَوَّجْتُكَ أَمَّتِي
+> عَلى عَهْدِي فَلَمْ تُوَفَّ بِعَهْدِي وَظَلَمْتَ أَمَّتِي؟ فَيُؤخَذُ
+> مِنْ حَسَناتِهِ فَيَدْفَعُ إِلَيْها بِقَدَرٍ حَقِّها. فَإِذا لَمْ
+> يَبْقَ لَهُ حَسَنَةُ أُمِرَ بِهِ إِلى النّارِ بِنَكَثَهُ الْعَهْدَ.
+> قالَ اللهُ تَعالى: (وَأَوْفُوا بِالْعَهْدِ إِنْ الْعَهْدَ كانَ
+> مَسْئولاً(
 
 *"The man who oppresses his wife in relation to the Mahr is considered
 as a fornicator in the eyes of Allah. On the Day of Judgement, Allah
@@ -218,5 +210,4 @@ shall be questioned about.)"*
 accordance to the fatawa of Ayatullah al-Uzma al-Hajj as-Sayyid Ali
 al-Husaini as- Sistani. Muqallidin of other Maraja should check their
 rulings on these and other issues contained in this discussion.
-
 

@@ -58,4 +58,3 @@ mentioned in No.1.
 
 Note 3. There is no need of *wudhu* after *Ghusl al-Janabat*.
 
-

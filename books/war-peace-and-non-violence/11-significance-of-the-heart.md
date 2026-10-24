@@ -53,7 +53,6 @@ of the orphan." Narrated from Imam Ali (A) who said:
 
 "Companionship of the nobles gives vitality to the hearts."
 
-
 **Intention and Conduct**
 
 Islamic teachings strenuously emphasise on the importance of purifying
@@ -228,5 +227,4 @@ for the establishment of the leadership council of religious
 authorities. He calls for the establishment of the universal Islamic
 government to encompass all the Muslim countries. These and other ideas
 are discussed in detail in his books.
-
 

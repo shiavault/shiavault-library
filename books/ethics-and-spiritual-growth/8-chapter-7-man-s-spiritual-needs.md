@@ -837,4 +837,3 @@ addressed to Malik al-Ashtar.
 
 [^22]: The Persian daily Ittila'at, Adhar Mah, 1342 H. Sh.
 
-

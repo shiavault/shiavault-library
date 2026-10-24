@@ -66,4 +66,3 @@ The Tour Operator who will be responsible looking after you in Israel
 will come and pick you up at the border and drive you to
 Bait-ul-Muqaddas.
 
-

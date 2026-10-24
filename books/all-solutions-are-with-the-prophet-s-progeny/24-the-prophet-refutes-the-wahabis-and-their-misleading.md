@@ -28,4 +28,3 @@ wiping one’s body against holy shrines and sacred places.
 The Wahabis have reached an extent that they beat the hajjis for doing
 so and accuse them of polytheism.
 
-

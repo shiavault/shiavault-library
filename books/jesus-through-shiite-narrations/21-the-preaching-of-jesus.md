@@ -702,4 +702,3 @@ enough trouble of its own. (NIV)
 
 [^75]: Bihar, 14, 317, 17
 
-

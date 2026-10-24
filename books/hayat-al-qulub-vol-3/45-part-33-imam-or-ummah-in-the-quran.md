@@ -5,13 +5,9 @@ Verses that mention Imam or Ummah; Their interpretation
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
-بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنْكَرِ وَأُوْلَئِكَ هُمْ
-الْمُفْلِحُونَ.
-  </p>
-</blockquote>
+> وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
+> بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنْكَرِ وَأُوْلَئِكَ هُمْ
+> الْمُفْلِحُونَ.
 
 ***And among from you there should be a party who invite to good and
 enjoin what is right and forbid the wrong, and those it is that shall be
@@ -27,14 +23,10 @@ these qualities.[^1]
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ
-بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنْ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ
-وَلَوْ آمَنَ أَهْلُ الْكِتَابِ لَكَانَ خَيْرًا لَهُمْ مِنْهُمْ
-الْمُؤْمِنُونَ…
-  </p>
-</blockquote>
+> كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ
+> بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنْ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ
+> وَلَوْ آمَنَ أَهْلُ الْكِتَابِ لَكَانَ خَيْرًا لَهُمْ مِنْهُمْ
+> الْمُؤْمِنُونَ…
 
 ***You are the best of the nations raised up for (the benefit of) man,
 you enjoin what is right and forbid the wrong and believe in Allah, and
@@ -58,18 +50,14 @@ In another authentic tradition from Imam Sadiq (a.s.) in the explanation
 of this verse it is mentioned that it is the nation on which the prayer
 of Ibrahim became incumbent, as the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنْ الْبَيْتِ
-وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ
-الْعَلِيمُ. رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ
-ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ
-عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ. رَبَّنَا وَابْعَثْ
-فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمْ
-الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ
-الْحَكِيمُ.
-  </p>
-</blockquote>
+> وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنْ الْبَيْتِ
+> وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ
+> الْعَلِيمُ. رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ
+> ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ
+> عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ. رَبَّنَا وَابْعَثْ
+> فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمْ
+> الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ
+> الْحَكِيمُ.
 
 ***And when Ibrahim and Ismail raised the foundations of the house: Our
 Lord! Accept from us, surely thou art the hearing the knowing, Our Lord
@@ -89,14 +77,10 @@ progeny away from polytheism and idol-worship and protect them from all
 these things, so that Imamate can be from them, and that people may
 follow them, and then said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا
-وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ. رَبِّ إِنَّهُنَّ
-أَضْلَلْنَ كَثِيرًا مِنْ النَّاسِ فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي
-وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا
+> وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ. رَبِّ إِنَّهُنَّ
+> أَضْلَلْنَ كَثِيرًا مِنْ النَّاسِ فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي
+> وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ رَحِيمٌ.
 
 ***And when Ibrahim said: My Lord! Make this city secure and save me and
 my sons from worshipping idols. My Lord! Surely they have led many men
@@ -111,11 +95,7 @@ Muhammad from whom the Prophet was raised and the Almighty Allah has
 turned the hearts of the people towards them and that is the aim of the
 prayer of Ibrahim:
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلْ أَفْئِدَةً مِنْ النَّاسِ تَهْوِي إِلَيْهِمْ.
-  </p>
-</blockquote>
+> فَاجْعَلْ أَفْئِدَةً مِنْ النَّاسِ تَهْوِي إِلَيْهِمْ.
 
 ***…therefore make the hearts of some people yearn towards them… (Surah
 Ibrahim 14:37)***
@@ -132,12 +112,8 @@ progeny.[^2]
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ هَذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ
-فَاتَّقُونِ.
-  </p>
-</blockquote>
+> وَإِنَّ هَذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ
+> فَاتَّقُونِ.
 
 ***And surely this your nation is one nation and I am your Lord,
 therefore be careful (of your duty) to Me. (Surah Mu’minin 23:52)***
@@ -148,12 +124,8 @@ Mahyar and Ibne Shahr Aashob have narrated from Imam Baqir (a.s.) that
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
-وَكَانُوا بِآيَاتِنَا يُوقِنُونَ.
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
+> وَكَانُوا بِآيَاتِنَا يُوقِنُونَ.
 
 ***And we made of them Imams to guide by our command when they were
 patient and they were certain of our communications. (Surah Sajdah
@@ -161,13 +133,9 @@ patient and they were certain of our communications. (Surah Sajdah
 
 At another place after the mention of Firon and his army Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ
-الْقِيَامَةِ لَا يُنصَرُونَ. وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا
-لَعْنَةً وَيَوْمَ الْقِيَامَةِ هُمْ مِنْ الْمَقْبُوحِينَ.
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ
+> الْقِيَامَةِ لَا يُنصَرُونَ. وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا
+> لَعْنَةً وَيَوْمَ الْقِيَامَةِ هُمْ مِنْ الْمَقْبُوحِينَ.
 
 ***And we made them Imams who call to the fire and on the day of Qiyamat
 they shall not be assisted. And we caused a curse to follow them in this
@@ -220,12 +188,8 @@ brings divine revelation in their hearts.[^3]
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى
-النَّاسِ.
-  </p>
-</blockquote>
+> وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى
+> النَّاسِ.
 
 ***In this way we have made you the medium nation so that you be witness
 for the people. (Surah Baqarah 2:143)***
@@ -236,11 +200,7 @@ proof on the earth.
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ شَيْءٍ أحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ.
-  </p>
-</blockquote>
+> وَكُلَّ شَيْءٍ أحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ.
 
 ***…and We have recorded everything in a manifest Imam. (Surah Yaseen
 36:12)***
@@ -291,5 +251,4 @@ first, second and third (caliphs) and that Samri of this Ummat is the
 second fellow and the calf is the first one because in Quran there are
 many verses whose beginning portion is about one and the last portion
 about some other.
-
 

@@ -27,4 +27,3 @@ Allah, the Almighty. It is believed that even if Ali (peace be upon him)
 were not Fatima’s husband, Fatima (peace be upon her) would upraise for
 him.
 
-

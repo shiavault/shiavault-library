@@ -77,4 +77,3 @@ greeted your father).
 • Unnonated nouns: *fathah*, for example: **ذهَبتُ** **إلی** **بیروتَ**
 (I went to Beirut).
 
-

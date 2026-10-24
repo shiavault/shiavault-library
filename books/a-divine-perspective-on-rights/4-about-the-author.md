@@ -53,4 +53,3 @@ nearly fourteen centuries ago. However, unfortunately in our modern
 world, there are those who claim to respect human rights, but they do so
 only superficially
 
-

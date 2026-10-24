@@ -223,4 +223,3 @@ gratitude to You and to inspire me with Your remembrance…*
 
 [^3]: Nahj al-Balagha (The Peak of Eloquence), sermon 176.
 
-

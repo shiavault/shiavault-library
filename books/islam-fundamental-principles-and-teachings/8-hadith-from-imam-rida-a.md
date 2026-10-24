@@ -90,7 +90,6 @@ questions that the ruler had asked him for trial purposes.
 Baptist (Yah}ya\>) who was given the book and prophethood while he was a
 young boy, as mentioned in the Qur’an, Mary (19): 12.
 
-
 **Hadith from Imam Jawad(A)**
 
 ‘He who trusts upon Allah, He guides him to felicity and happiness. He
@@ -147,7 +146,6 @@ the Imam, said, “Sir, the debts on me are less than one third of it but
 .Allah best knows to whom He entrusts His message.176 and took the money
 and left.
 
-
 **Hadith from Imam Hadi(A)**
 
 ‘Better than the good-deed is he who performs it. More striking than
@@ -176,7 +174,6 @@ the hereafter a substitute for the calamities of the world.’
 ‘Self-conceit restrains (one) from seeking knowledge and brings about
 scorn and ignorance.’ 176 This is in reference to Qur’anic verse
 [6:124].
-
 
 **The Eleventh Imam: Imam Askari**
 
@@ -220,7 +217,6 @@ Jesus Christ in his knowledge, noble virtues, and miracles.
 
 The Imam was known for his extensive worship to Allah, continuous night
 prayers, his good deeds as well as his nobility and awe.
-
 
 **Hadith from Imam Askari (A)**
 
@@ -357,7 +353,6 @@ This matter is one of the secrets of Allah, hidden from the servants of
 Allah. Thus I warn you about doubting about this for doubting the wish
 of Allah is Kufr (disbelief).’
 
-
 **Hadith from Imam Mahdi (A):**
 
 ‘Almighty Allah sent Muhammad peace be upon him as a Mercy to the
@@ -485,5 +480,4 @@ imprisonment and perpetual torment. Almighty Allah states, .So whoso
 does a speck’s weight of good will see it, and so whoso does a speck’s
 weight of evil will see it.186.
 186 The holy Qur’an, the Quake (99): 7-8
-
 

@@ -78,4 +78,3 @@ Muqtadir’s “The development of the U.N”, pg200.
 ul Aula, 1410 A.H, 26- 28 December, I had a look at the covenant as I
 has the honor of being the chairman of that committee.
 
-

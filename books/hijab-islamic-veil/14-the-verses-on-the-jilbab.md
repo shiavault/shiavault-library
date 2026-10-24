@@ -262,4 +262,3 @@ any extremes.4
 3. "Sunan", vol.2, p.658.
 4. "Urwatul Wusqa" chapter', issue 49.
 
-

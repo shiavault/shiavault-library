@@ -541,4 +541,3 @@ name.
 [^4]: Day of ‘Ashura is the tenth of Muharram, celebrated as a day of
 mourning (the anniversary of the martyrdom of Imam Hussayn.)
 
-

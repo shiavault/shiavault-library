@@ -69,4 +69,3 @@ into the **فَعلیَ** form, for example: **عَطشان** (thirsty)
 words or if they have an *alif-lām*. For example: **مَرَرتُ**
 **بأفضَلِ** **العلماء** (I passed by the best scholars).
 
-

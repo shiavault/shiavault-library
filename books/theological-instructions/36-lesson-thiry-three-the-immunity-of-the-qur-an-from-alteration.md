@@ -140,4 +140,3 @@ to the Qur’an? Why?
 the verses or chapters in the Qur’an contradicts the reality of
 immunity.
 
-

@@ -7,11 +7,7 @@ al-Mahdi (ajtf).
 In order to fulfill this responsibility, a true believer may for
 example, say something like the following line:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ صَلِّ عَلـىٰ مَوْلاَنَا صَاحِبِ الزَّمَانِ
-  </p>
-</blockquote>
+> أَللّٰهُمَّ صَلِّ عَلـىٰ مَوْلاَنَا صَاحِبِ الزَّمَانِ
 
 “O’Allah! Send your blessings upon our Master, the Master of the Time.”
 
@@ -39,5 +35,4 @@ the hands of Allah alone.
 [^1]: Such as those mentioned in Mafatih al-Jinan, sec. on Ziyarat,
 right after Ziyarat Jami’a under the heading of: “Greetings upon the
 Righteous Proofs of Allah”
-
 

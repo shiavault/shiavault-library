@@ -8,4 +8,3 @@ Omar Bin Saad, had buried his soldiers and performed the proper prayer
 for leaving the body of Imam Hussain (Q) and the bodies of his
 supporters.
 
-

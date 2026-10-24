@@ -24,4 +24,3 @@ to be able and wise enough to understand what you are doing just as any
 other duty. With special problems common to all of them, the true
 representatives of different nations are gathered here.
 
-

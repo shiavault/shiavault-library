@@ -126,4 +126,3 @@ obstacles, if Allah wills.
 lithographed in 1313 L.H. by the handwriting of Muhammad Hasan
 Jarfādaqānī).
 
-

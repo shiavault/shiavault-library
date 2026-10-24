@@ -292,4 +292,3 @@ jurist than Ja\`far ibn Muhammad al-Sadiq.
 
 [^7]: Zahara al-Islam, Vol. 4, p. 96.
 
-

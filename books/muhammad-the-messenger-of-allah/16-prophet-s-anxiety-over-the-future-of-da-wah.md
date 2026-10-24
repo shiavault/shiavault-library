@@ -20,4 +20,3 @@ Muslim was allowed to linger behind. But the prominent companions
 excused themselves and said that owing to the failing health of the
 Messenger of Allah (s.a.w.) they could not desert him.
 
-

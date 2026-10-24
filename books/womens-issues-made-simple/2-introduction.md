@@ -178,4 +178,3 @@ in some corner in Najaf or Qum, studying the questions of menstruation
 and parturition instead of concerning themselves with politics, and draw
 the conclusion that religion must be separate from politics…”
 
-

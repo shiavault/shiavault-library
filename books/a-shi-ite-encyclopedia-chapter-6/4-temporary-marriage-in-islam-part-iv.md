@@ -377,4 +377,3 @@ Sunnis while the above verse of Quran refers it as a "good thing"? Do
 Sunnis want to listen to this verse about something like temporary
 marriage? :-)
 
-

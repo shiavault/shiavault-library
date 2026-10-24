@@ -826,4 +826,3 @@ the ash on the wound and then the bleeding stopped. She had attended the
 event. She embraced her father while he was wounded and she was
 crying.
 
-

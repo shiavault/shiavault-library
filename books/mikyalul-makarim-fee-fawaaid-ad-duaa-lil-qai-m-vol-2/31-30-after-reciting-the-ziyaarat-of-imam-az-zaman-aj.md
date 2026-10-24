@@ -18,4 +18,3 @@ expects from us as proved from the Epistle in which he is reported to
 have said: And pray more for the reappearance, as in it lies your
 success.
 
-

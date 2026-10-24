@@ -7,14 +7,10 @@ First verse
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى
-أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا
-بِالْعَدْلِ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ إِنَّ اللَّهَ كَانَ
-سَمِيعًا بَصِيرًا.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى
+> أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا
+> بِالْعَدْلِ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ إِنَّ اللَّهَ كَانَ
+> سَمِيعًا بَصِيرًا.
 
 ***Surely Allah commands you to make over trusts to their owners and
 that when you judge between people you judge with justice; surely Allah
@@ -121,13 +117,9 @@ of Ali Ibne Abi Talib (a.s.).
 
 Second Verse
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
-وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
-وَحَمَلَهَا الْإِنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا.
-  </p>
-</blockquote>
+> إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
+> وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
+> وَحَمَلَهَا الْإِنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا.
 
 ***Surely We offered the trust to the heavens and the earth and the
 mountains, but they refused to be unfaithful to it and feared from it,
@@ -138,12 +130,8 @@ There are many traditions in the explanation of this verse.
 
 The first: It points to the previous verse:
 
-<blockquote dir="rtl">
-  <p>
-يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ
-يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا.
-  </p>
-</blockquote>
+> يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ
+> يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا.
 
 ***He will put your deeds into a right state for you, and forgive you
 your faults; and whoever obeys Allah and His Apostle, he indeed achieves
@@ -306,5 +294,4 @@ of the punishment, took up the burden on that day. Thirdly, due to both
 the reasons, Haml (acceptance) might mean betrayal of trust i.e. not to
 accept as has been mentioned earlier. But the second reason is more
 appropriate.
-
 

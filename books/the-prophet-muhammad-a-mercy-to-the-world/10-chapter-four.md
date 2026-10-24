@@ -375,7 +375,6 @@ in performing the prayers at the Mosque whenever he went elsewhere. It
 seems that the above incident took place at one of the quarters which he
 was checking.
 
-
 **His Helping and Hospitality**
 
 He never ignored anyone's need even if she were a bondmaid, nor did he
@@ -506,5 +505,4 @@ sever their ties from me." The Messenger of Allah, reciting a Qur'anic
 verse, said, e Repel (evil) with that which is fairer and behold, he
 between whom and thee there is enmity shall be as if he were a loyal
 friend f 161 161 The Holy Qur'an, (41): 34.
-
 

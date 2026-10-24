@@ -88,7 +88,6 @@ authority is not able to see the crescent for some reason, is it his
 duty to inform the religious authority that he has observed the
 crescent?
 
-
 A: It is not his duty to do so, unless his not doing so can cause some
 depravity.
 
@@ -214,5 +213,4 @@ and its ruling does not differ from that of the naked eye since the
 standard is to say it has been by eyes. However, computerized
 photographing of the crescent moon or the like which could not be
 considered as real sighting is problematic.
-
 

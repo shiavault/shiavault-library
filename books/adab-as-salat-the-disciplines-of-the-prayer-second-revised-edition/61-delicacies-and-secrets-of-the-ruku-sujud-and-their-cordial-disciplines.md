@@ -99,4 +99,3 @@ in our ways.”***[^4]
 
 [^4]: Sūrah al-'Ankabūt 29:69.
 
-

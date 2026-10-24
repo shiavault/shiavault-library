@@ -112,4 +112,3 @@ A’adab
 It is recommended for one to perform Ghusl (Mustahab) and be in Wudhu
 all the time when going to the Holy Haram.
 
-

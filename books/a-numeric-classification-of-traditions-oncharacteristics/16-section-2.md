@@ -504,8 +504,7 @@ sharp as a sword!’ The Imam (MGB) said, ‘No that is not so. They have
 lied about the Prophet (MGB) having said that since Ahad which means
 Sunday is one of the Names of the Honorable the Exalted God.’ The man
 said, ‘May I be your ransom! What about Mondays?’ The Imam (MGB) said,
-‘It has been named after those two.’**<span
-style="font-weight: 400">**[[680]](footnotes_3.htm#b0680)**</span>** The
+‘It has been named after those two.’****[[680]](footnotes_3.htm#b0680)**** The
 man said, ‘But Monday was known as Monday before those two.’ Abu
 Abdullah as-Sadiq (MGB) told him, ‘Once you are told something try to
 understand it! Indeed the Blessed the Sublime God already knew the day

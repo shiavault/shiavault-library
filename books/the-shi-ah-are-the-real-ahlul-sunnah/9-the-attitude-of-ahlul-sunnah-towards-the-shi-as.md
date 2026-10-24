@@ -144,4 +144,3 @@ titled Haqaiq an Ameer al-Mumineen Yazid ibn Mu'awiyah (facts about the
 commander of the faithful Yazid son of Mu\`awiyah) to be taught as a
 curriculum text book at its public schools.
 
-

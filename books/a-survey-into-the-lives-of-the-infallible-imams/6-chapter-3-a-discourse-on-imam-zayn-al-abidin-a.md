@@ -35,9 +35,7 @@ al-Husayn, he is filled with awe by his level of spirituality and the
 Islam he practiced. What was his type of Islam? What kind of soul was
 this?
 
-<p dir="rtl">
 اينهمه آوازها از شه بود گرچه ازحلقوم عبدالله بود
-</p>
 
 *These voices belonged to the king even if they were from the throat of
 his servant.*

@@ -238,27 +238,27 @@ the Prophet in the room where he died.
 
 **Notes:**
 
-[^4] See Qur'an 20:1 and 36:1. These are letters which appear at the
+[^4]: See Qur'an 20:1 and 36:1. These are letters which appear at the
 head of 29 surahs of the Qur'an. Muslim tradition has generally used
 Taha and Yasin as names of the Prophet.
-[^5] al-Bukhari, Muhammad ibn Isma'il, as-Sahih, 8 vols. (Beirut:
+[^5]: al-Bukhari, Muhammad ibn Isma'il, as-Sahih, 8 vols. (Beirut:
 Daru'l-Fikr, n.d.), vol. 4, p. 262.
-[^6] me'od me'od is a Hebrew phrase meaning 'exceedingly'. See Gen.
+[^6]: me'od me'od is a Hebrew phrase meaning 'exceedingly'. See Gen.
 17:2, 6 and 20.
-[^7] al-Bayhaqi, Abu Bakr Ahmad ibn al-Husayn, Dala'ilu 'n-Nubuwwah, ed.
+[^7]: al-Bayhaqi, Abu Bakr Ahmad ibn al-Husayn, Dala'ilu 'n-Nubuwwah, ed.
 'Abdu 'r-Rahman Muhammad 'Uthman, 3 vols. (Cairo: Daru'n-Nasr
 li't-Tiba\`ah, 1389/1969), vol.1, p.133.
-[^8] The words mahmud and muhammad are both derived from the root h-m-d
+[^8]: The words mahmud and muhammad are both derived from the root h-m-d
 meaning to praise; hence Muhammad is derived from God's name Mahmud, the
 All-Praised.
-[^9] See al-Hakim, Abu \`Abdillah Muhammad ibn \`Abdillah an-Naysaburi,
+[^9]: See al-Hakim, Abu \`Abdillah Muhammad ibn \`Abdillah an-Naysaburi,
 al-Mustadrak 'ala Sahihayn, 4 vols. (Beirut: Daru'l-Fikr, 1398/ 1978),
 vol. 3, pp. 219 - 20.
 [^10] It is held in Shi\`i tradition that neither the Prophet nor his
 descendants can accept charity (sadaqah), but rather only the fifth
 (khums) of a Muslim's savings, in money or in property. They can also
 accept a gift (hadiyyah). See below, pp. 102.
-[^11] Muslim, Abu 'l-Husayn, Muslim ibn al-Hajjaj al-Qushayri
+[^11]: Muslim, Abu 'l-Husayn, Muslim ibn al-Hajjaj al-Qushayri
 an-Naysaburi, as-Sahih, with Nawawi's Commentary, 18 vols. (Beirut:
 Daru'l-Fikr, 1389/1978), vol. 7, p.46.
 

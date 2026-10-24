@@ -68,7 +68,6 @@ frame that the initial episodes of these events impose.
 they be cursed for what they uttered! Nay, Allah’s hands are widely
 outstretched; He spends (of His bounty) as He wills] Al Maidah v. 64
 
-
 **Relation Between Both Inevitabilities**
 
 Although these two inevitabilities are different in shape and
@@ -117,7 +116,6 @@ Both this and that are things that rulers and oppressive terrorist
 regimes seek.
 
 **Al Quran position towards these two inevitabilities
-
 
 ** Al Quran has a clear position towards these two inevitabilities. In
 dealing with the historical and behavioural inevitability the Holy Quran
@@ -197,5 +195,4 @@ regulations and reasonable laws resulting from casualty dogma.
 
 We find in the Holy Quran many verses other than those mentioned above,
 that confirm clearly and accurately the casualty doctrine.
-
 

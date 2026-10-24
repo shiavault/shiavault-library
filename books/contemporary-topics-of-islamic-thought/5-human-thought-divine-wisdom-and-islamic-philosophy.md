@@ -869,4 +869,3 @@ Publications, 1999).
 [^14]: See Muhammad Riga Hakimi, Maktab-e Tafkik (Qom: Markaz-e
 Barressiha-ye Islami, 1373/1994).
 
-

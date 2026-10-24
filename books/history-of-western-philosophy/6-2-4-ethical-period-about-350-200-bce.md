@@ -41,7 +41,6 @@ self-interest of the individual is the highest good; from here follows
 justice and right, laws and institutions, practical rules of action but
 only as means.
 
-
 **2.4.2 Skepticism and eclecticism**
 
 Skepticism was contemporary with Stoicism and Epicureanism. After
@@ -70,7 +69,6 @@ means of government." Subsequently, Eclecticism made its way into nearly
 all the schools, into the Academy [Plate], the Lyceum [Aristotle] and
 the Stoa; the Epicureans alone remained true to their creed.
 
-
 **2.4.3 Stoicism continued**
 
 Zeno [336-264 BCE] b Citium, Cyprus, came to Athens in 314, and in 294
@@ -92,7 +90,6 @@ represented by Musonius Rufus [first century CE], Seneca [3-65 CE],
 Epictitus [first century CE] and Emperor Marcus Aurelius [121-180]: the
 other scientific, whose sole aim was to preserve intact and interpret
 the old doctrine.
-
 
 **2.4.3.1 Logic and the theory of knowledge**
 
@@ -127,5 +124,4 @@ sage. Consequently, the stoics gave considerable attention to formal
 logic, particularly the syllogism, which they regarded as its most
 important phase [they made minor additions to Aristotle's scheme of
 syllogism and revised his table of categories].
-
 

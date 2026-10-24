@@ -330,4 +330,3 @@ story of Ibn Saba in this regard has served to cover the face of those
 power- hungry individuals, and yet another way to attack Imam Ali and
 his true followers.
 
-

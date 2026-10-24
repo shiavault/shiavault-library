@@ -300,4 +300,3 @@ society and the individuals from the effects which otherwise would rise.
 It is not very difficult to see these problems both in the West and in
 the "Islamic" countries.
 
-

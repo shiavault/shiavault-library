@@ -20,23 +20,11 @@ sudden, he remembered that Imam al-Husayn (as) and his children and the
 entire family were thirsty. He dropped the water that was in his hands
 back into the river and recited the famous poem,
 
-<blockquote dir="rtl">
-  <p>
-يا نفس من بعد الحسين هوني وبعده لا کنت ان تکوني
-  </p>
-</blockquote>
+> يا نفس من بعد الحسين هوني وبعده لا کنت ان تکوني
 
-<blockquote dir="rtl">
-  <p>
-هذا حسين وارد المنون وتشربين بارد المعين
-  </p>
-</blockquote>
+> هذا حسين وارد المنون وتشربين بارد المعين
 
-<blockquote dir="rtl">
-  <p>
-تالله ما هذا فعال ديني
-  </p>
-</blockquote>
+> تالله ما هذا فعال ديني
 
 *“O soul! You should be debased for al-Husayn (as) and never live after
 him.*
@@ -100,5 +88,4 @@ for three days in a row while they themselves were forced to remain
 hungry all this time.
 
 [^1]: Muqarram, Maqtal al-Husayn (as), p. 267.
-
 

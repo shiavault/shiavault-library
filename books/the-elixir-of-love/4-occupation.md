@@ -5,11 +5,7 @@ Tailoring is one of the praiseworthy professions in Islam. "Luqman the
 Sage" had chosen this as his occupation[^1]. It is quoted from the Holy
 Prophet (s) who said:
 
-<blockquote dir="rtl">
-  <p>
-عمل الابرار من الرجال الخياطة، وعمل الأبرار من النساء الغزل
-  </p>
-</blockquote>
+> عمل الابرار من الرجال الخياطة، وعمل الأبرار من النساء الغزل
 
 "The job of the righteous men is tailoring and the job of the pious
 women is spinning."[^2]
@@ -37,22 +33,14 @@ provide for his simple livelihood, he would never accept.
 
 The Holy Prophet (s) said in a *Hadith:*
 
-<blockquote dir="rtl">
-  <p>
-من أكل من كد يده، كان يوم القيامة في عداد الأنبياء ويأخذ ثواب الأنبياء
-  </p>
-</blockquote>
+> من أكل من كد يده، كان يوم القيامة في عداد الأنبياء ويأخذ ثواب الأنبياء
 
 "Whoever earns one's own living, they will be ranked among the Prophets
 and rewarded as Prophets."[^3]
 
 And in another *hadith,* he said:
 
-<blockquote dir="rtl">
-  <p>
-العبادة عشر أجزاءٍ تسعة أجزاء في طلب الحلال
-  </p>
-</blockquote>
+> العبادة عشر أجزاءٍ تسعة أجزاء في طلب الحلال
 
 "
 Divine worship has ten parts, nine of which comprises earning lawful
@@ -68,20 +56,12 @@ replied:
 
 The Holy Prophet (s) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-ان الله تعالى يحب أن يرى عبده تعباً في طلب الحلال
-  </p>
-</blockquote>
+> ان الله تعالى يحب أن يرى عبده تعباً في طلب الحلال
 
 "God likes to see his servant tired out in the way of earning his lawful
 sustenance." [^5]
 
-<blockquote dir="rtl">
-  <p>
-ملعون ملعون من ضيع من يعول
-  </p>
-</blockquote>
+> ملعون ملعون من ضيع من يعول
 
 "Cursed is the one, cursed is the one who does not provide for his
 family's sustenance."[^6]
@@ -130,21 +110,13 @@ A Reward for Equity
 Equity in all tasks, especially in transactions is an important issue
 that has been highly stressed in Islam. Imam Ali (a) said:
 
-<blockquote dir="rtl">
-  <p>
-الإنصاف أفضل الفضائل
-  </p>
-</blockquote>
+> الإنصاف أفضل الفضائل
 
 "Equity is the best of virtues."[^8]
 
 And he further said.
 
-<blockquote dir="rtl">
-  <p>
-ان أعظم المثوبة مثوبة الأنصاف
-  </p>
-</blockquote>
+> ان أعظم المثوبة مثوبة الأنصاف
 
 "The greatest reward is one granted for equity:' [^9]
 
@@ -272,5 +244,4 @@ him."[^13]
 
 [^13]: "Sarmaye Sokhan" (The capital of speech), I, 611-613, slightly
 abridged.
-
 

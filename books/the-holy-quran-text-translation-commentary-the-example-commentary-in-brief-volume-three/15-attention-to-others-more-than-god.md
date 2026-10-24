@@ -151,7 +151,6 @@ LORD IS ALL-FORGIVING, COMPASSIONATE.
 
 [ 266 ]
 
-
 **THE COMMENTARY
 JOSEPH IS ACQUITTED OF ALL CHARGES (VERSE NO. 50 - 53)**
 
@@ -305,11 +304,9 @@ believed and were pious.''
 THEM, BUT THEY DENIED HIM. (THINKING HOW COULD OUR JOSEPH BE IN SUCH A
 HIGH POSITION)
 
-<p dir="rtl">
 وَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ قَالَ ائْتُونِي بِأَخ لَّكُمْ مِنْ
 أَبِيكُمْ أَلاَ تَرَوْنَ أَنِّي أُوفِي الْكَيْلَ وَأَنَا خَيْرُ
 الْمُنزِلِينَ
-</p>
 
 (( 59 ))
 
@@ -609,5 +606,4 @@ SO DID WE PLAN FOR JOSEPH; BECAUSE BY THE KING'S LAW HE HAD NO RIGHT TO
 SEIZE HIS BROTHER, EXCEPT THAT GOD WILLED. WE RAISE THE GRADES OF THOSE
 WHOM WE WILL, AND ABOVE ALL THOSE WHO HAVE KNOWLEDGE THERE IS (ONE WHO
 IS MORE) KNOWING.
-
 

@@ -113,4 +113,3 @@ a good example for them by leading a simple life.
 2. You should be happy with a few simple things and not want so many
 things.
 
-

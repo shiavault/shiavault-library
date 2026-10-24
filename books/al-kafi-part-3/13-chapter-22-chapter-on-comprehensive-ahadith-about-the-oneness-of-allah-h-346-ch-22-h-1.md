@@ -408,4 +408,3 @@ excelling people. May Allah protect you and us through guidance and make
 you and us steadfast in piety. I ask Allah for forgiveness for myself
 and for you."
 
-

@@ -637,4 +637,3 @@ al-Tousi in al-Wasilah ila Nayl al-Fadhilah, 'Allamah al-Hilli
 (647-726H) in Qawa'ed al-Ahkam fi Masa'el al-Halal wal-Haram, Muhammad
 Jawad al-Hussain al-'Amili in Miftah al-Karamah, vol. 10, p 26.
 
-

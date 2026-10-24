@@ -520,4 +520,3 @@ relates the incident in brief, but the commentators have their own
 explanations according to some Islamic traditions. Most of them narrate
 the story as follows:ِ
 
-

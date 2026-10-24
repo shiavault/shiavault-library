@@ -37,4 +37,3 @@ universe of such magnitude with such a systematic perfection, uniting
 millions and millions of galaxies in a well-knit system? How could
 nature give life and sense to creatures when itself it has none?
 
-

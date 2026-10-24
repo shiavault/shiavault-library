@@ -668,4 +668,3 @@ their ways or face their doom.
 
 [^17]: - Qur’an Ch: 57 Vs: 23.
 
-

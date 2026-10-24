@@ -178,4 +178,3 @@ assembled there congratulated him, and some refreshment was provided.
 The gathering dispersed, while all were saying, “Praise be to Allah,
 Lord of the worlds.”
 
-

@@ -126,13 +126,9 @@ cautious of Allah's wrath by much remembrance of Him. Fear Allah by
 piety and draw close to Allah by obeying Him. He is Near and Answering.
 Allah, the Blessed and Most High, says:*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
-لَعَلَّهُمْ يَرْشُدُونَ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
+> لَعَلَّهُمْ يَرْشُدُونَ
 
 ***“And when My servants ask you concerning Me, then surely l am very
 near; I answer the prayer of the supplicant when he calls on Me, so they
@@ -194,5 +190,4 @@ al-Hasan (as).
 
 [^4]: Tuhaf al-Uqool an Aal al-Rasool, chapter of what was reported from
 Imam Hasan (as), p.163.
-
 

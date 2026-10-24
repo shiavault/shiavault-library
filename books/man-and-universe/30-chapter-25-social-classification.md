@@ -658,4 +658,3 @@ advancement of societies is towards the formation of a single society
 and a single culture. In Islam the philosophy of Mahdism is based on
 this idea about the future of Islam, man and the world.
 
-

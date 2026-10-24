@@ -130,4 +130,3 @@ In the being of Adam for the Imam-e-Qaim.
 
 [^9]: Ghayat al-Maraam Pg. 698
 
-

@@ -14,22 +14,13 @@ well thought-out, [for by this] you will remain safe from censure and
 regret.
 
 > 2ـ اَخْرِجْ مِنْ مالِكَ الحُقُوقَ، وأشْرِكْ فيهِ الصَّدِيقَ، ولْيَكُنْ
-<blockquote dir="rtl">
-  <p>
-كَلامُكَ في تَقْديِر، وهِمَّتـُكَ في تَفْكِير، تَأْمَنِ المَلامَةَ
-والنَّدامَةَ.
-  </p>
-</blockquote>
+> كَلامُكَ في تَقْديِر، وهِمَّتـُكَ في تَفْكِير، تَأْمَنِ المَلامَةَ
+> والنَّدامَةَ.
 
 3. The right of Allah, the Glorified, upon you in times of ease is piety
 and gratitude, and in times of hardship, [to have] contentment and
 patience.
 
 > 3ـ حَقُ اللّهِ سُبْحانَهُ عَلَيْكُمْ فِي اليُسْرِ اَلْبِرُّ والشُّكْرُ
-<blockquote dir="rtl">
-  <p>
-وفِي العُسْرِ اَلرِّضا وَالصَّبْرُ.
-  </p>
-</blockquote>
-
+> وفِي العُسْرِ اَلرِّضا وَالصَّبْرُ.
 

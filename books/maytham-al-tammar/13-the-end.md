@@ -39,4 +39,3 @@ hands and legs.
 
 ![](http://beta.al-islam.org/sites/default/files/pg4a.jpg)
 
-

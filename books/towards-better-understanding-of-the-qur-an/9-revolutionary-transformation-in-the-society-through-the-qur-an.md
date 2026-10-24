@@ -56,4 +56,3 @@ wrote innumerable books. Different scientific disciplines were derived
 from the Qur’an and spread across the world by Muslim thinkers. The
 world was illumined with the light of the Qur’an and culture of Islam”.
 
-

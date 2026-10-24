@@ -35,10 +35,5 @@ the ink of the writers but with the blood of the martyrs. Such is each
 and every epic of heroism... Such is the epic of martyrdom of Imam
 al-Husayn (ﻉ).
 
-<blockquote dir="rtl">
-  <p>
-اللهم أرزقنا شفاعة الحسين
-  </p>
-</blockquote>
-
+> اللهم أرزقنا شفاعة الحسين
 

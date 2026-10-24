@@ -1131,4 +1131,3 @@ trans., pp. 98-99. (London: George G. Harrap & Co., 1966), pp. 185-186.
 
 [^24]: Russell, Bertrand, op. cit., p. 50
 
-

@@ -249,4 +249,3 @@ Amin Damaj & Co., Beirut, n.d. 3: 99.  
 
 [^11]: See Ibn Hisham, 4: 190; Ya'qubi, 2: 76
 
-

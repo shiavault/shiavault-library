@@ -33,11 +33,7 @@ behind them, while the simplest acts gain in value on account of the
 purely good intentions behind them. Anyone who strives in the way of God
 will also be guided by God toward His path:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ﴾
 
 ***“As for those who strive in Us, We shall surely guide them*** ***in
 Our ways.”***[^1]
@@ -45,22 +41,14 @@ Our ways.”***[^1]
 Intention is the indispensable prerequisite for the acceptance of a
 deed. Imam as-Sadiq (*‘a*) quotes a statement of God, the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ أَقْبَلْ إِلاَّ مَا كَانَ خَالِصًا لي.
-  </p>
-</blockquote>
+> لَمْ أَقْبَلْ إِلاَّ مَا كَانَ خَالِصًا لي.
 
 “I do not accept anyone except the one who is sincere to Me.”[^2]  
  Intention magnifies a small deed. Imam as-Sadiq (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَرَادَ اللهَ بِالْقَلِيلِ مِنْ عَمَلِهِ أَظْهَرَهُ اللهُ
-أَكْثَرَ مِمَّا أَرَادَ، وَ مَنْ أَرَادَ ٱلنَّاسَ بِالْكَثِيرِ مِنْ
-عَمَلِهِ أَبَى اللهُ إِلاَّ أَنْ يُقَلِّلَهُ في عَيْنِ مَنْ سَمِعَهُ.
-  </p>
-</blockquote>
+> مَنْ أَرَادَ اللهَ بِالْقَلِيلِ مِنْ عَمَلِهِ أَظْهَرَهُ اللهُ
+> أَكْثَرَ مِمَّا أَرَادَ، وَ مَنْ أَرَادَ ٱلنَّاسَ بِالْكَثِيرِ مِنْ
+> عَمَلِهِ أَبَى اللهُ إِلاَّ أَنْ يُقَلِّلَهُ في عَيْنِ مَنْ سَمِعَهُ.
 
 “Anyone who performs a small act for the sake of God, God will make it
 bigger than he wishes in the sight of others. And anyone who performs a
@@ -75,12 +63,8 @@ For the sake of God, Hadhrat Ibrahim (*‘a*) left his wife and son in the
 scorching desert of Makka. He then asked God to draw the hearts of
 people toward them.[^4] The Holy Qur’an also states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
-ٱلرَّحْمٰنُ وُدًّا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
+> ٱلرَّحْمٰنُ وُدًّا ﴾
 
 ***“Indeed those who have faith and do righteous deeds—the
 All-beneficent will endear them {to His creation}.”***[^5]
@@ -96,11 +80,7 @@ hands. If someone works sincerely for the sake of God, God will
 compensate his sincerity in a manner beyond his expectations.[^6]  
  Imam as-Sadiq (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْقَلْبُ حَرَمُ اللهِ وَ لاَ تُسْكِنُوا حَرَمَ اللهِ غَيْر الله.
-  </p>
-</blockquote>
+> أَلْقَلْبُ حَرَمُ اللهِ وَ لاَ تُسْكِنُوا حَرَمَ اللهِ غَيْر الله.
 
 “The heart is the sanctuary of Allah; so do not allow anyone to dwell
 therein except Allah.”[^7]
@@ -110,11 +90,7 @@ Examples of sincerity {ikhlas}
 
 Regarding an attribute of the pious {*muttaqin*} ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا زكّيَ أَحَدُهُم خَافَ مِمَّا يُقَالُ لَهُ.
-  </p>
-</blockquote>
+> إِذَا زكّيَ أَحَدُهُم خَافَ مِمَّا يُقَالُ لَهُ.
 
 “When anyone of them is spoken of highly, he is afraid of what is said
 about him.”[^8]  
@@ -161,12 +137,8 @@ can never be erased, nor affected by heat and cold, poverty and wealth,
 anonymity and popularity?  
  Imam ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-أَخْلَصْ للهِ عَمَلَكَ وَ عِلْمَكَ وَ بُغْضَكَ وَ أَخْذَكَ وَ تَركَكَ
-وَ كَلاَمَكَ وَ صُمْتَكَ.
-  </p>
-</blockquote>
+> أَخْلَصْ للهِ عَمَلَكَ وَ عِلْمَكَ وَ بُغْضَكَ وَ أَخْذَكَ وَ تَركَكَ
+> وَ كَلاَمَكَ وَ صُمْتَكَ.
 
 “Purify your work, knowledge, anger, acceptance, refusal, speech and
 silence for the sake of Allah.”[^10]
@@ -379,11 +351,7 @@ acquired no gain.
 
 Imam ‘Ali (*‘a*) also said:
 
-<blockquote dir="rtl">
-  <p>
-لَبِئْسَ ٱلْمَتْجَرُ أَنْ تَرى ٱلدُّنْيَا لِنَفْسِكَ ثَمَنًا.
-  </p>
-</blockquote>
+> لَبِئْسَ ٱلْمَتْجَرُ أَنْ تَرى ٱلدُّنْيَا لِنَفْسِكَ ثَمَنًا.
 
 “What a bad business it is that you would regard the world as your price
 and rate!”[^30]
@@ -445,12 +413,8 @@ not attain their objective. The gain and outcome of the works of those
 who strive in the way of God and the hereafter, however, are certain.
 The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ أَرَادَ ٱلأَخِرَةَ وَ سَعَىٰ لَهَا سَعْيَهَا وَ هُوَ
-مُؤْمِنٌ فَأُوْلَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ أَرَادَ ٱلأَخِرَةَ وَ سَعَىٰ لَهَا سَعْيَهَا وَ هُوَ
+> مُؤْمِنٌ فَأُوْلَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا ﴾
 
 ***“Whoever desires the Hereafter and strives for it with an effort
 worthy of it, should he be faithful—the endeavor of such will be
@@ -482,12 +446,8 @@ In the expression of the Glorious Qur’an, the false deities are
 incapable of creating even a single fly.[^33] And concerning the
 impotence of mankind, it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ أَرَادَ ٱلأَخِرَةَ وَ سَعَىٰ لَهَا سَعْيَهَا وَ هُوَ
-مُؤْمِنٌ فَأُوْلَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ أَرَادَ ٱلأَخِرَةَ وَ سَعَىٰ لَهَا سَعْيَهَا وَ هُوَ
+> مُؤْمِنٌ فَأُوْلَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا ﴾
 
 **“Whoever desires the Hereafter and strives for it with an effort
 worthy of it, should he be faithful—the endeavor of such will be
@@ -495,16 +455,12 @@ well-appreciated.”**[^34]
 
 In another place, it poses these questions:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ اللَّيْلَ سَرْمَدًا
-إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ
-بِضِيَاءٍ ۖ أَفَلَا تَسْمَعُونَ قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ
-عَلَيْكُمُ النَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ
-إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِلَيْلٍ تَسْكُنُونَ فِيهِ ۖ
-أَفَلَا تُبْصِرُونَ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ اللَّيْلَ سَرْمَدًا
+> إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ
+> بِضِيَاءٍ ۖ أَفَلَا تَسْمَعُونَ قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ
+> عَلَيْكُمُ النَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ
+> إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِلَيْلٍ تَسْكُنُونَ فِيهِ ۖ
+> أَفَلَا تُبْصِرُونَ﴾
 
 ***“Say, ‘Tell me, if Allah were to make the night perpetual*** ***over
 you until the Day of Resurrection, what god other than Allah could bring
@@ -599,11 +555,7 @@ hardships on the Day of Resurrection. Regarding the Commander of the
 Faithful and Hadhrat Fatimah’s (*‘a*) sincere act of feeding the
 helpless, the orphan and the prisoner, the Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا نَخَافُ مِنْ رَبِّنَا يَومًا عَبُوسًا قَمْطَرِيرًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا نَخَافُ مِنْ رَبِّنَا يَومًا عَبُوسًا قَمْطَرِيرًا ﴾
 
 ***“Indeed we fear from our Lord a day, frowning and fateful.”***[^42]
 
@@ -620,12 +572,8 @@ generate motives in man.
 Gratitude for the infinite blessings of God is also one of the righteous
 intentions in worship. ‘Ali (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لَمْ يَتَوَعِّدَ اللهُ عَلىٰ مَعْصِيَتِهِ لَكانَ يَجِبُ اَلا
-يُعْصىٰ شُكْراً لِنِعْمَتِهِ.
-  </p>
-</blockquote>
+> لَوْ لَمْ يَتَوَعِّدَ اللهُ عَلىٰ مَعْصِيَتِهِ لَكانَ يَجِبُ اَلا
+> يُعْصىٰ شُكْراً لِنِعْمَتِهِ.
 
 “Even if Allah had not warned of chastisement those disobedient to Him,
 it was obligatory by way of gratitude for his favors that He should not
@@ -639,12 +587,8 @@ God in the universe and recognizes Him as Witness over him, he will not
 cheat and commit sins out of respect for God. It is stated in a
 *hadith*, thus:
 
-<blockquote dir="rtl">
-  <p>
-أَعْبُدُ اللهَ كَأَنَّكَ تَراهُ، فَإِنْ لَمْ تكن تَرَاهُ فَإِنَّهُ
-يَرَاكَ.
-  </p>
-</blockquote>
+> أَعْبُدُ اللهَ كَأَنَّكَ تَراهُ، فَإِنْ لَمْ تكن تَرَاهُ فَإِنَّهُ
+> يَرَاكَ.
 
 “Worship God as if you can see Him. Even if you cannot see Him, He can
 surely see you.”[^44]
@@ -673,12 +617,8 @@ wisdom {*hikmah*} par excellence within a period of forty days, after
 which an unbelievable stage of insight {*basirah*} and certainty
 {*yaqin*} will be:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَخْلَصَ الْعِبادَةِ للهِ أَرْبَعِيْنَ صَباحاً ظَهَرتْ يَنابيعُ
-الْحِكْمَةَ مِنْ قَلْبِهِ عَلىٰ لِسانِه.
-  </p>
-</blockquote>
+> مَنْ أَخْلَصَ الْعِبادَةِ للهِ أَرْبَعِيْنَ صَباحاً ظَهَرتْ يَنابيعُ
+> الْحِكْمَةَ مِنْ قَلْبِهِ عَلىٰ لِسانِه.
 
 “He who sincerely worships Allah for forty days, springs of wisdom shall
 flow from his heart to his tongue.”[^47]
@@ -701,11 +641,7 @@ accountability and the book of deeds, since, his awareness has not
 reached the stage of certainty he will go away from sincerity. This
 certainty. is also available through worship. The Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ ﴾
 
 ***“And worship your Lord until certainty (or death) comes to
 you.”***[^49]
@@ -744,12 +680,8 @@ fasted for three days without any food visited the Prophet while turning
 pale. *Surah ad-Dahr* (or *al-Insan*) was revealed about them which
 points out this sincere act:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا نُطْعِمُكُم لِوَجْهِ اللهِ لاَ نُرِيدُ مِنْكُم جَزَاءً وَ
-لاَ شُكُورًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا نُطْعِمُكُم لِوَجْهِ اللهِ لاَ نُرِيدُ مِنْكُم جَزَاءً وَ
+> لاَ شُكُورًا ﴾
 
 ***“{Saying,} ‘We feed you only for the sake of Allah. We do not want
 any reward from you nor any thanks.”***[^50]
@@ -903,11 +835,7 @@ The sincere person discharges his duty in the way of God without taking
 into account the satisfaction and pleasure of anyone in particular, and
 he is also not afraid of any censure:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُجَاهِدُونَ فِي سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ يُجَاهِدُونَ فِي سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ﴾
 
 ***“Wage jihad in the way of Allah, not fearing the blame of any
 blamer.”***[^54]
@@ -929,12 +857,8 @@ regionalism and factionalism (which are incompatible with the spirit of
 sincerity).  
  The Holy Qur’an declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ قَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَارىٰ عَلىٰ شئٍ وَ قَالَتِ
-ٱلنَّصَارىٰ لَيْسَتِ ٱلْيَهُود علىٰ شئٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ قَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَارىٰ عَلىٰ شئٍ وَ قَالَتِ
+> ٱلنَّصَارىٰ لَيْسَتِ ٱلْيَهُود علىٰ شئٍ ﴾
 
 ***“The Jews say, ‘The Christians stand on nothing,’ and the Christians
 say, ‘The Jews stand on nothing’.”***[^55]
@@ -999,11 +923,7 @@ accompanied by glow and perspicacity.”[^56]
 This is the same “*furqan*” {criterion} that the Holy Qur’an regards as
 a result of God-wariness {*taqwa*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِن تَتَّقُواْ اللّهَ يَجْعَل لَّكُمْ فُرْقَاناً ﴾
-  </p>
-</blockquote>
+> ﴿ إِن تَتَّقُواْ اللّهَ يَجْعَل لَّكُمْ فُرْقَاناً ﴾
 
 ***“If you are wary of Allah, He shall appoint a*** ***criterion***[^57]
 ***for you.”***[^58]
@@ -1011,11 +931,7 @@ a result of God-wariness {*taqwa*}:
 It also argues that if you are conscious of God, He will bestow a light
 on you which will light your way:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِ ﴾
 
 ***“And give you a light to walk by.”***[^59]
 
@@ -1219,5 +1135,4 @@ truth and falsehood. {Qur’an Translator}
 [^61]: Surah an-Nahl 16:66: “And lo! In the cattle there is a lesson for
 you. We give you to drink of that which is in their bellies, from
 betwixt the refuse and the blood, pure milk palatable to the drinkers.”
-
 

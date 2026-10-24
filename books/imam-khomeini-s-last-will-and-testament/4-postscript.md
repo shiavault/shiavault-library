@@ -38,4 +38,3 @@ present-day character.
 
 [^1]: The manuscript of the document (in persian) is in 29 pages.
 
-

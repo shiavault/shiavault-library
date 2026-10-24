@@ -857,4 +857,3 @@ Kabir Publications 1348 H. Sh.), pp. 337-339
 [^30]: From Kelidha-ye khushbakhti, trans. from English by Ahmad Aram
 (Tehran- Shirkat-e Sahami-ye Intishar, 1347 H Sh.), pp. 101-102.
 
-

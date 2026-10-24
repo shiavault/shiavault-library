@@ -21,4 +21,3 @@ overgrown, while its spirit and human ethos have made very little
 headway. The divergence between various views concerning the future is
 rooted in this matter.
 
-

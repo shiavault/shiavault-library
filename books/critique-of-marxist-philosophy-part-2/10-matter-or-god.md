@@ -39,4 +39,3 @@ its theory of contradictions is able to account neither for the
 progression of the elements in the atomic table nor for the formation of
 chemical compounds.
 
-

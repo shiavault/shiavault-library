@@ -246,4 +246,3 @@ question of compulsion and obligation in respect of it.
 It is not a sound analogy to compare factual realities to conventional
 matters.
 
-

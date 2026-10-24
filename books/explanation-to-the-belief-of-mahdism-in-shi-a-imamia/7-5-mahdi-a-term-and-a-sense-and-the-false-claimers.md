@@ -108,4 +108,3 @@ tyranny and deliver justice. Therefore, the claims although met the
 acceptance of the people. In some cases, this claim furnished an avenue
 for various revolts and scattered uprisings.
 
-

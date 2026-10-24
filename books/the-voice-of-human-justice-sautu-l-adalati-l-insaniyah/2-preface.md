@@ -67,4 +67,3 @@ biography of a person who was second to the Prophet of Islam.
 
 Michael Na'imah
 
-

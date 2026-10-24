@@ -791,4 +791,3 @@ Anwar 45/201-241 and other sources which are present in large numbers.
 
 [^1]: Surah Dukhan 44:29
 
-

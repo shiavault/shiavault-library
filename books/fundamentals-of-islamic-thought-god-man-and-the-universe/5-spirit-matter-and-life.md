@@ -1563,4 +1563,3 @@ Trans.
 
 [^29]: Bihzad, “Darvin va Nazariya-yi Takamul,” p.947. Trans.
 
-

@@ -8,12 +8,8 @@ provision [for the journey], so take from this world the provisions that
 you can hold on to (or that will protect you) tomorrow.
 
 > 1ـ ألا وقَدْ اُمِرْتُمْ بِالظَّعْنِ، ودُلِلْتُمْ عَلَى الزَّادِ،
-<blockquote dir="rtl">
-  <p>
-فَتَزَوَّدُوا مِنَ الدُّنيا ما تَحُوزونَ (تَحْرُزُونَ) بِِهِ
-أنْفُسَكُمْ غَداً.
-  </p>
-</blockquote>
+> فَتَزَوَّدُوا مِنَ الدُّنيا ما تَحُوزونَ (تَحْرُزُونَ) بِِهِ
+> أنْفُسَكُمْ غَداً.
 
 2. Verily the wasting of provisions is from corruption.
 
@@ -24,22 +20,14 @@ you can hold on to (or that will protect you) tomorrow.
 and [have been] driven upon the course.
 
 > 3ـ تَزَوَّدُوا مِنْ أيّامِ الفَناءِ لِلبَقاءِ، فَقَدْ دُلِلْتُمْ علَى
-<blockquote dir="rtl">
-  <p>
-الزَّادِ، واُمِرْتُمْ بِالظَّعْنِ، وَحُثِثْتُمْ عَلَى المَسيرِ.
-  </p>
-</blockquote>
+> الزَّادِ، واُمِرْتُمْ بِالظَّعْنِ، وَحُثِثْتُمْ عَلَى المَسيرِ.
 
 4. Take from this world the provisions that you can hold on to (or that
 will protect you) tomorrow and take from the transient for the
 everlasting.
 
 > 4ـ تَزَوَّدُوا مِنَ الدُّنيا ما تَحْرُزُونَ (تَحُوزُونَ) بِهِ
-<blockquote dir="rtl">
-  <p>
-أنْفُسَكُمْ غَداً، وخُذُوا مِنَ الفَناءِ للبَقاءِ.
-  </p>
-</blockquote>
+> أنْفُسَكُمْ غَداً، وخُذُوا مِنَ الفَناءِ للبَقاءِ.
 
 5. The provision of a person for the Hereafter is piety and
 God-wariness.
@@ -50,22 +38,14 @@ God-wariness.
 [for the Hereafter].
 
 > 6ـ عَلَيْكَ بِحُسْنِ التَأهُّبِ والاِسْتِعْدادِ، والاِستِكْثارِ مِنَ
-<blockquote dir="rtl">
-  <p>
-الزَّادِ.
-  </p>
-</blockquote>
+> الزَّادِ.
 
 7. I am amazed at the one who knows that he will surely be moving away
 from his world, how can he not acquire a goodly provision for his
 Hereafter?!
 
 > 7ـ عَجِبْتُ لِمَنْ عَرَفَ أنَّهُ مُنْتَقِلٌ عَنْ دُنياهُ كَيْفَ
-<blockquote dir="rtl">
-  <p>
-لايُحسِنُ التَّزَوُّدَ لأُخراهُ.
-  </p>
-</blockquote>
+> لايُحسِنُ التَّزَوُّدَ لأُخراهُ.
 
 8. Every person is approaching that which he has sent forward and will
 be recompensed for his actions.
@@ -94,10 +74,5 @@ tomorrow, so make arrangements for your arrival and send forth
 [provisions] for your day.
 
 > 13ـ ما قَدَّمْتَ اليَومَ تَقْدِمْ علَيْهِ غَداً، فَامْهَدْ لِقَدَمِكَ،
-<blockquote dir="rtl">
-  <p>
-وقَدِّمْ لِيَومِكَ.
-  </p>
-</blockquote>
-
+> وقَدِّمْ لِيَومِكَ.
 

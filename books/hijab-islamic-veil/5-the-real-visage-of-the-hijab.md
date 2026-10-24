@@ -55,4 +55,3 @@ that society is only a place for work and activity. It is opposite of
 the western system of the present era which mixes work with sexual
 enjoyment. Islam separates these two environments completely.
 
-

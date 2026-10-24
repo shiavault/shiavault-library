@@ -310,4 +310,3 @@ and power."(18:109)
 
 [^3]: Dau Hazar Danishman dar Justuju-yi Khuda-yi Buzurg, p. 13.
 
-

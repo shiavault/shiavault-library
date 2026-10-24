@@ -349,4 +349,3 @@ go even further and enter the domain of deviant sexual behaviour?
 **Answer:** All of this is *haram* even if there might be difference in
 the degree of prohibition.
 
-

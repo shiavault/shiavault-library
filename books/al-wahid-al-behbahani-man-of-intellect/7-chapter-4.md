@@ -560,4 +560,3 @@ whatsoever you spend, you will find near Allah. It seems we have reached
 al-Sayyid Haydar’s stores...go and buy us some yogurt, as we have guests
 today: your sister and her husband.
 
-

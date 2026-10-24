@@ -53,7 +53,6 @@ holy city. All around, there were expressions of great joy. The children
 got together and in loud voices chanted the following welcoming
 poem: -
 
-
 "TALA-AL BADRU ALAINA MIN THANAYATIL WADAI WAJABAS-SHUKRU ALAINA MA
 DA'A - LLAHA DAI" "The full moon is shining on us from the area of
 gardens. We must offer thanks (to Allah) so long as anyone prays before
@@ -123,7 +122,6 @@ the people of that city as ANSAR (helpers) and those who had migrated
 from Mecca as MUHAJIREEN (immigrants). All these people, i.e. the Ansar
 and the muhajireen got together and united in the common bond of
 brotherhood of Islam.
-
 
 **Nazr: A Vow With Allah To Be Fulfilled**
 
@@ -226,5 +224,4 @@ upon being granted his wish when he fulfills the Nazr which he had
 pledged, his faith in Allah is enhanced. As faith increases, one tries
 to refrain from sins and endeavours to do more virtuous deeds in order
 to please and be nearer to Allah.
-
 

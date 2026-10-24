@@ -233,4 +233,3 @@ Yanabiʿ al-Mawadda, v. 2, ch. 59, p. 468
 [^6]: Al-Sawaiq al-Muhariqa, p. 175; Mustadrak al-Ḥakim, Chapter on the
 Virtues of Fatima; Manaqib al-Imam ʿ’Ali of Ibn al-Maghazali, p. 351
 
-

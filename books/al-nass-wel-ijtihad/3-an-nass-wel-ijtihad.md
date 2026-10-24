@@ -3,7 +3,7 @@ An-nass Wel-ijtihad
 
 ***A word written by: Sadruddeen Sharafuddeen***
 
-**<span style="font-size: 19pt">(1)</span>**
+**(1)**
 
 I followed up this book step by step and found its firm structure when
 growing little by little with the deliberateness of innovation,
@@ -44,7 +44,7 @@ he carried out the affairs of people, he came back to complete his work
 (book), which he often stopped. His memory was very accurate in keeping
 and recording all his affairs.
 
-**<span style="font-size: 19pt">(2)</span>**
+**(2)**
 
 He often asked me to discuss his complete works. He might want me, out
 of this discussion, to understand and concentrate on intellectual
@@ -75,7 +75,7 @@ in the moments of
 
 terror.
 
-**<span style="font-size: 19pt">(3)</span>**
+**(3)**
 
 After three years I went out[1] to find that my father was no longer
 there, alas! But I found that the book had been published with a rich
@@ -92,7 +92,7 @@ introduction for the book. If I succeeded in this word, it would be a
 bit of service, and if not, it would just carry out an obligation from
 among many obligations I had towards my father.
 
-**<span style="font-size: 19pt">(4)</span>**
+**(4)**
 
 *Nass* and *ijtihad* are two idioms from among the idioms of the Islamic
 jurisprudence. Sayyid al-Hakeem has explained them in details in the
@@ -122,7 +122,7 @@ has collected, through his wide research, which have been innovated by
 famous companions of the Prophet (s) and by their successors that have
 contradicted the basic rules of ijtihad.
 
-**<span style="font-size: 19pt">(5)</span>**
+**(5)**
 
 It would be better in this situation to put forth this question:
 
@@ -213,7 +213,7 @@ from grudges and personal tendencies to make our present active and
 productive. It will connect our movement with the productive movements
 of the past before they have been separated from their true origins.
 
-**<span style="font-size: 19pt">(6)</span>**
+**(6)**
 
 Many people think that connecting ijtihad to the nass will weaken its
 ability of progressiveness and prevent it from keeping pace with the
@@ -252,7 +252,7 @@ with the Book the essence of this Sharia, which Allah has issued to
 manage all the affairs of the world with all its creatures in a perfect
 structure with great contents and eternal surviving.
 
-**<span style="font-size: 19pt">(7)</span>**
+**(7)**
 
 When has ijtihad been determined as a principle?
 
@@ -307,7 +307,7 @@ Imam Ali (s) has followed by his will a custom having got used to
 ijtihad even it has had another idiom rather than ijtihad. It has been
 called acting according to ones opinion.
 
-**<span style="font-size: 19pt">(8)</span>**
+**(8)**
 
 After this I ask myself:
 

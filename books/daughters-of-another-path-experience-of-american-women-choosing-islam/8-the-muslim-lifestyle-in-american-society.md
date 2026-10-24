@@ -468,4 +468,3 @@ the wife and mother, and I love it. I'm very, very grateful to have this
 opportunity, and it wouldn't be possible if I weren't married. There are
 no areas not open to me as a Muslim woman.
 
-

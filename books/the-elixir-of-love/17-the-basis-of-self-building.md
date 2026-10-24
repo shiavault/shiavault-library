@@ -6,11 +6,7 @@ perfection and the way to attain it, from the Qur' anic viewpoint is
 through self-building and purification of the soul. Following numerous
 swearing, the Exalted Allah asserts:
 
-<blockquote dir="rtl">
-  <p>
-(قد أفلح من زكّـاها)
-  </p>
-</blockquote>
+> (قد أفلح من زكّـاها)
 
 (Truly he succeeds (attains salvation) that purifies it,) (al-Shams: 9)
 
@@ -23,11 +19,7 @@ the first step in purification of soul is "monotheism". Thereupon, the
 first message of all Divine messengers was, "*La ilaha illa Allah-*there
 is no god-but Allah":
 
-<blockquote dir="rtl">
-  <p>
-(وما أرسلنا من قبلك من رسول الا نوحي اليه انه لآ اله الا انا فاعبدون)
-  </p>
-</blockquote>
+> (وما أرسلنا من قبلك من رسول الا نوحي اليه انه لآ اله الا انا فاعبدون)
 
 (Not a messenger did we send before you without this inspiration sent by
 Us to him: that there is no god but I; therefore worship and serve Me.)
@@ -35,11 +27,7 @@ Us to him: that there is no god but I; therefore worship and serve Me.)
 
 The first sayings of the Holy Prophet (s) addressed to the people was:
 
-<blockquote dir="rtl">
-  <p>
-"يا ايها الناس! قولوا: لا إله الله، تفلحوا"
-  </p>
-</blockquote>
+> "يا ايها الناس! قولوا: لا إله الله، تفلحوا"
 
 O people! Say 'There is no god but Allah', so that you attain
 Salvation."[^1]
@@ -53,11 +41,7 @@ The sign indicating that man has attained true monotheism-in the perfect
 and real sense of the word-is that he can like Divine angels and through
 Divine Essence witness the oneness of the Exalted God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-(شهد الله أنه لآ اله الا هو والملئكة واولوا العلم)
-  </p>
-</blockquote>
+> (شهد الله أنه لآ اله الا هو والملئكة واولوا العلم)
 
 (There is no god but He: that is the witness of Allah, His angels, and
 those endowed with knowledge...) (Ale 'Imran: 18)
@@ -147,12 +131,8 @@ desires). This type of polytheism is the source of obstacles to
 intellectual and emotional cognition, and the beginning of polytheism in
 the first and the second sense:
 
-<blockquote dir="rtl">
-  <p>
-(أفاريت من اتخذ إله هواه وأضله الله على علم وختم على سمعه وقلبه وجعل
-على بصره غشاوة فمن يهديه من بعد الله أفلا تذـّكرون)
-  </p>
-</blockquote>
+> (أفاريت من اتخذ إله هواه وأضله الله على علم وختم على سمعه وقلبه وجعل
+> على بصره غشاوة فمن يهديه من بعد الله أفلا تذـّكرون)
 
 (Then seest thou such a one as takes as his god his own vain desire?
 Allah has, knowing (him as such), left him astray, and sealed his
@@ -196,11 +176,7 @@ And maybe this is what is meant by nearness of the way to reach God,
 which Abu Hamza Thumali has quoted Sayyid al-Sajidin (Ali ibn al-Husayn)
 (a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-"وأن الراحل اليك قريبُ المسافة"
-  </p>
-</blockquote>
+> "وأن الراحل اليك قريبُ المسافة"
 
 "For the one who is faring the path toward You, the distance is
 short."[^7]
@@ -263,11 +239,7 @@ The border between monotheism and polytheism is so narrow, subtle, and
 unnoticeable that no eyes can see it. The Holy Prophet (s) said in a
 *hadith:*
 
-<blockquote dir="rtl">
-  <p>
-"وإن الشرك أخفى من دبيب النمل على صفاة سوداء في ليلة ظلماء"
-  </p>
-</blockquote>
+> "وإن الشرك أخفى من دبيب النمل على صفاة سوداء في ليلة ظلماء"
 
 "Verily, polytheism is more imperceptible than an ant moving on a black
 stone at a dark night."[^8]
@@ -317,11 +289,7 @@ Hereafter. The reverend Shaykh turned to me and said unprecedentedly:
 
 "Recite this supplication a lot:
 
-<blockquote dir="rtl">
-  <p>
-"ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة"
-  </p>
-</blockquote>
+> "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة"
 
 (O God! Grant me benefit in this world and benefit in the Hereafter)."
 
@@ -382,5 +350,4 @@ passion (or impulse)?) (al-Furqan: 43).
 [^7]: Mafatih al-Jinan, the supplication of Abu Hamza Thumali.
 
 [^8]: Mizan al-Hikmah, VI, 2724: 9316.
-
 

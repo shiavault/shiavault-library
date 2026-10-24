@@ -15,12 +15,8 @@ some of them.
 
 We start with the Verse of *al-Mubahala*:
 
-<blockquote dir="rtl">
-  <p>
-فمن حاجك فيه من بعد ما جاءك من العلم فقل تعالوا ندع أبناءنا وأبناءكم
-ونساءنا ونساءكم وأنفسنا وأنفسكم ثم نبتهل فنجعل لعنت الله على الكاذبين
-  </p>
-</blockquote>
+> فمن حاجك فيه من بعد ما جاءك من العلم فقل تعالوا ندع أبناءنا وأبناءكم
+> ونساءنا ونساءكم وأنفسنا وأنفسكم ثم نبتهل فنجعل لعنت الله على الكاذبين
 
 And whoever disputes with you concerning him after what has come to you
 of knowledge, then say: “Come, let us call *our* sons and your sons,
@@ -51,15 +47,11 @@ want any harm to come their way. Therefore, if he must involve himself
 and to withdraw from it if he has the slightest doubt in his claims.
 Shaykh Ibn Taymiyyah (d. 728 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-والنفوس تحنوا على أقاربها مالا تحنوا على غيرهم وكانوا يعلمون انه رسول
-الله صلى الله عليه و سلم ويعلمون انهم أن باهلوه نزلت البهلة عليهم وعلى
-أقاربهم واجتمع خوفهم على أنفسهم وعلى أقاربهم فكان ذلك أبلغ في امتناعهم
-و إلا فالإنسان قد يختار أن يهلك ويحيا ابنه والشيخ الكبير قد يختار
-الموت إذا بقى أقاربه في نعمة ومال وهذا موجود كثير
-  </p>
-</blockquote>
+> والنفوس تحنوا على أقاربها مالا تحنوا على غيرهم وكانوا يعلمون انه رسول
+> الله صلى الله عليه و سلم ويعلمون انهم أن باهلوه نزلت البهلة عليهم وعلى
+> أقاربهم واجتمع خوفهم على أنفسهم وعلى أقاربهم فكان ذلك أبلغ في امتناعهم
+> و إلا فالإنسان قد يختار أن يهلك ويحيا ابنه والشيخ الكبير قد يختار
+> الموت إذا بقى أقاربه في نعمة ومال وهذا موجود كثير
 
 **The hearts (lit: the souls) care for their closest people what they do
 not care for others**. They (the non-Muslim disputants) knew that he was
@@ -78,21 +70,13 @@ people *closest* to his heart, those people whom he cared most for. So,
 who were the *closest* persons to the heart of the Messenger of Allah
 during his lifetime? This is where trouble sets in for our dear Shaykh:
 
-<blockquote dir="rtl">
-  <p>
-فعلم انه أراد الأقربين إلينا من الذكور والإناث من الأولاد والعصبة
-  </p>
-</blockquote>
+> فعلم انه أراد الأقربين إلينا من الذكور والإناث من الأولاد والعصبة
 
-<blockquote dir="rtl">
-  <p>
-ولهذا دعا الحسن والحسين من الأبناء ودعا فاطمة من النساء ودعا عليا من
-رجاله ولم يكن عنده أحد أقرب إليه نسبا من هؤلاء وهم الذين أدار عليهم
-الكساء والمباهلة إنما تحصل بالأقربين إليه و إلا فلو بأهلهم بالابعدين
-في النسب وان كانوا أفضل عند الله لم يحصل المقصود فان المراد انهم يدعون
-الأقربين كما يدعوا هو الأقرب إليه
-  </p>
-</blockquote>
+> ولهذا دعا الحسن والحسين من الأبناء ودعا فاطمة من النساء ودعا عليا من
+> رجاله ولم يكن عنده أحد أقرب إليه نسبا من هؤلاء وهم الذين أدار عليهم
+> الكساء والمباهلة إنما تحصل بالأقربين إليه و إلا فلو بأهلهم بالابعدين
+> في النسب وان كانوا أفضل عند الله لم يحصل المقصود فان المراد انهم يدعون
+> الأقربين كما يدعوا هو الأقرب إليه
 
 Know that He (Allah in the Verse of *al-Mubahala*) intended the closest
 people to us - males and females – from the children and the blood
@@ -125,11 +109,7 @@ misses the fact that al-‘Abbas was legally a *closer* blood relative to
 the Prophet than ‘Ali! This is why the right of the uncle to inherit
 overrules that of the cousin, as Imam al-Hakim (d. 403 H) states:
 
-<blockquote dir="rtl">
-  <p>
-ولا خلاف بين أهل العلم إن ابن العم لا يرث مع العم
-  </p>
-</blockquote>
+> ولا خلاف بين أهل العلم إن ابن العم لا يرث مع العم
 
 There is no difference of opinion among the scholars that the cousin
 cannot inherit with the presence of the uncle.[^4]
@@ -141,14 +121,10 @@ selected both al-‘Abbas and ‘Ali, and possibly some other cousins like
 Ibn ‘Abbas. Sensing the frailty of his own submission, Shaykh Ibn
 Taymiyyah attempts to apply some cosmetics to it:
 
-<blockquote dir="rtl">
-  <p>
-وآية المباهلة نزلت سنة عشر لما قدم وفد نجران ولم يكن النبي صلى الله
-عليه و سلم قد بقي من أعمامه إلا العباس والعباس لم يكن من السابقين
-الأولين ولا كان له به اختصاص كعلي و أما بنو عمه فلم يكن فيهم مثل علي
-وكان جعفر قد قتل قبل ذلك
-  </p>
-</blockquote>
+> وآية المباهلة نزلت سنة عشر لما قدم وفد نجران ولم يكن النبي صلى الله
+> عليه و سلم قد بقي من أعمامه إلا العباس والعباس لم يكن من السابقين
+> الأولين ولا كان له به اختصاص كعلي و أما بنو عمه فلم يكن فيهم مثل علي
+> وكان جعفر قد قتل قبل ذلك
 
 The Verse of *al-Mubahala* was revealed in 10 AH when the delegation of
 Najran arrived. The Prophet, peace be upon him, had no other uncle other
@@ -184,14 +160,10 @@ mentioned the categories to which they belonged, deliberately leaving
 them open *for a clear point*. Then the Prophet filled in the names.
 Imam al-Hakim (d. 403 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-وقد تواترت الاخبار في التفاسير عن عبد الله بن عباس وغيره أن رسول الله
-صلى الله عليه وسلم أخذ يوم المباهلة بيد علي وحسن وحسين وجعلوا فاطمة
-وراءهم ثم قال هؤلاء أبناءنا وأنفسنا نساؤنا فهلموا أنفسكم وأبناءكم
-ونساءكم ثم نبتهل فنجعل لعنة الله على الكاذبين
-  </p>
-</blockquote>
+> وقد تواترت الاخبار في التفاسير عن عبد الله بن عباس وغيره أن رسول الله
+> صلى الله عليه وسلم أخذ يوم المباهلة بيد علي وحسن وحسين وجعلوا فاطمة
+> وراءهم ثم قال هؤلاء أبناءنا وأنفسنا نساؤنا فهلموا أنفسكم وأبناءكم
+> ونساءكم ثم نبتهل فنجعل لعنة الله على الكاذبين
 
 There have been *mutawatir* reports in the *tafsir* books from ‘Abd
 Allah b. ‘Abbas and others that the Messenger of Allah, peace be upon
@@ -203,15 +175,11 @@ Allah upon the liars (among us).”[^8]
 
 Shaykh Ibn Taymiyyah corroborates him:
 
-<blockquote dir="rtl">
-  <p>
-وأما اية الابتهال ففي الصحيح أنها لما نزلت أخذ النبي صلى الله عليه و
-سلم بيد علي وفاطمة وحسن وحسين ليباهل بهم لكن خصهم بذلك لأنهم كانوا
-أقرب إليه من غيرهم فإنه لم يكن ولد ذكر إذ ذاك يمشي معه ولكن كان يقول
-عن الحسن إن ابني هذا سيد فهما ابناه ونساؤه إذ لم يكن قد بقى له بنت إلا
-فاطمة رضي الله عنها
-  </p>
-</blockquote>
+> وأما اية الابتهال ففي الصحيح أنها لما نزلت أخذ النبي صلى الله عليه و
+> سلم بيد علي وفاطمة وحسن وحسين ليباهل بهم لكن خصهم بذلك لأنهم كانوا
+> أقرب إليه من غيرهم فإنه لم يكن ولد ذكر إذ ذاك يمشي معه ولكن كان يقول
+> عن الحسن إن ابني هذا سيد فهما ابناه ونساؤه إذ لم يكن قد بقى له بنت إلا
+> فاطمة رضي الله عنها
 
 As for the Verse of *al-Ibtihal* (another word for *al-Mubahala*), what
 is narrated **in the** ***sahih*** **(*****hadith*****)** is that when
@@ -251,13 +219,9 @@ Qur’an. Shaykh Ibn Taymiyyah would have us believe that this love was
 based only upon blood relationship. However, Imam Ahmad (d. 241 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا إسماعيل ثنا ليث عن عمرو بن مرة عن معاوية
-بن سويد بن مقرن عن البراء بن عازب قال كنا جلوسا عند النبي صلى الله
-عليه و سلم فقال ... ان أوسط عرى الإيمان ان تحب في الله وتبغض في الله
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا إسماعيل ثنا ليث عن عمرو بن مرة عن معاوية
+> بن سويد بن مقرن عن البراء بن عازب قال كنا جلوسا عند النبي صلى الله
+> عليه و سلم فقال ... ان أوسط عرى الإيمان ان تحب في الله وتبغض في الله
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Isma’il – Layth –
 ‘Amr b. Marrah – Mu’awiyah b. Suwayd b. Muqarran – al-Bara b. ‘Azim:
@@ -269,32 +233,20 @@ Allah.”[^10]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-حديث حسن بشواهده
-  </p>
-</blockquote>
+> حديث حسن بشواهده
 
 It is a *hadith* that is *hasan* through its witnesses.[^11]
 
 ‘Allamah al-Albani (d. 1420 H) also records this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إن أوثق عرى الإسلام: أن تحب في الله و تبغض في الله
-  </p>
-</blockquote>
+> إن أوثق عرى الإسلام: أن تحب في الله و تبغض في الله
 
 Verily, **the strongest handhold of Islam is that you love for the sake
 of Allah** and hate for the sake of Allah.[^12]
 
 The ‘Allamah states:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^13]
 
@@ -338,13 +290,9 @@ As expected, Umm al-Muminin ‘Aishah was not happy about the state of
 things, and did challenge the Messenger of Allah on it. Al-Hafiz (d. 852
 H) states:
 
-<blockquote dir="rtl">
-  <p>
-وأخرج أحمد وأبو داود والنسائي بسند صحيح عن النعمان بن بشير قال استأذن
-أبو بكر على النبي صلى الله عليه وسلم فسمع صوت عائشة عاليا وهي تقول
-والله لقد علمت أن عليا أحب إليك من أبي
-  </p>
-</blockquote>
+> وأخرج أحمد وأبو داود والنسائي بسند صحيح عن النعمان بن بشير قال استأذن
+> أبو بكر على النبي صلى الله عليه وسلم فسمع صوت عائشة عاليا وهي تقول
+> والله لقد علمت أن عليا أحب إليك من أبي
 
 Ahmad, Abu Dawud and al-Nasai have recorded **with a** ***sahih***
 **chain** from al-Nu’man b. Bashir:
@@ -356,15 +304,11 @@ my father**.”[^14]
 
 Imam Ahmad also has this:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا أبو نعيم ثنا يونس ثنا العيزار بن حريث قال
-قال النعمان بن بشير قال استأذن أبو بكر على رسول الله صلى الله عليه و
-سلم فسمع صوت عائشة عاليا وهى تقول والله لقد عرفت ان عليا أحب إليك من
-أبي ومنى مرتين أو ثلاثا فاستأذن أبو بكر فدخل فأهوى إليها فقال يا بنت
-فلانة الا أسمعك ترفعين صوتك على رسول الله صلى الله عليه و سلم
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا أبو نعيم ثنا يونس ثنا العيزار بن حريث قال
+> قال النعمان بن بشير قال استأذن أبو بكر على رسول الله صلى الله عليه و
+> سلم فسمع صوت عائشة عاليا وهى تقول والله لقد عرفت ان عليا أحب إليك من
+> أبي ومنى مرتين أو ثلاثا فاستأذن أبو بكر فدخل فأهوى إليها فقال يا بنت
+> فلانة الا أسمعك ترفعين صوتك على رسول الله صلى الله عليه و سلم
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Abu Na’im – Yunus
 – al-‘Ayzar b. Hurayth – al-Nu’man b. Bashir:
@@ -379,11 +323,7 @@ your voice upon the Messenger of Allah, peace be upon him?”[^15]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن
-  </p>
-</blockquote>
+> إسناده حسن
 
 Its chain is *hasan*.[^16]
 
@@ -400,12 +340,8 @@ Yet, despite that, Umm al-Muminin ‘Aishah continued to re-write history
 after the death of the Messenger. ‘Allamah al-Albani reports her:
 
 > فقال الإمام أحمد (6/241) : حدثنا عبد الواحد الحداد عن كهمس عن عبد الله
-<blockquote dir="rtl">
-  <p>
-بن شقيق، قال: قلت لعائشة: أي الناس كان أحب إلى رسول الله صلى الله عليه
-وسلم؟ قالت: عائشة، قلت: فمن الرجال؟ قالت: أبوها ".
-  </p>
-</blockquote>
+> بن شقيق، قال: قلت لعائشة: أي الناس كان أحب إلى رسول الله صلى الله عليه
+> وسلم؟ قالت: عائشة، قلت: فمن الرجال؟ قالت: أبوها ".
 
 Imam Ahmad (6/241) records: ‘Abd al-Wahid al-Hadad – Kahmas – ‘Abd Allah
 b. Shaqiq:
@@ -417,11 +353,7 @@ father.”[^17]
 
 The ‘Allamah states:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح رجاله كلهم ثقات رجال الصحيح.
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح رجاله كلهم ثقات رجال الصحيح.
 
 I say: **This chain is** ***sahih***. Its narrators are trustworthy,
 narrators of the *Sahih*.[^18]
@@ -495,5 +427,4 @@ al-Ummah (Riyadh: Dar al-Ma’arif; 1st edition, 1412 H), vol. 3, p. 254,
 \# 1124
 
 [^18]: Ibid
-
 

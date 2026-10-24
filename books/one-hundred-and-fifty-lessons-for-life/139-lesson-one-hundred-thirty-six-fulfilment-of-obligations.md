@@ -3,12 +3,8 @@ Lesson One Hundred Thirty Six: Fulfilment of Obligations
 
 Imam Al-Sajjad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ بِمَا افْتَرَضَ اللّهِ عَلَيْهِ فَهُوَ مِنْ أَعْبَدِ
-النّاسِ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ بِمَا افْتَرَضَ اللّهِ عَلَيْهِ فَهُوَ مِنْ أَعْبَدِ
+> النّاسِ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ neglectful of their necessary obligations and yet consider themselves as
 highly devoted to Islam are under a serious delusion.
 
 [^1]: Wasa’il ‘ush-Shi’a’. Volume 11, page 206. Al-Kafi, vol 2, page 81.
-
 

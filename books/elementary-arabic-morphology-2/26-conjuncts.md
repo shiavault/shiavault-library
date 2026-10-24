@@ -75,4 +75,3 @@ tenses of conjuncts.
 example: **أُحِبُّ** **أيَّ** **التلامذةِ** **یدرسُ** (I love whichever
 student who studies)
 
-

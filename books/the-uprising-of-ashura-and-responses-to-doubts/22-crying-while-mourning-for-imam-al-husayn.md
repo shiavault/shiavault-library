@@ -78,35 +78,15 @@ Imam al-Sadiq (as) and went to sit in a corner. Imam al-Sadiq (as) asked
 him to recite some poetry. Sayyid Humayri recited the following poem of
 lamentation for Imam al-HuuHsayn,
 
-<blockquote dir="rtl">
-  <p>
-أمرِرْ على جدثِ الحسينِ فقلْ لأعظمِهِ الزکيّهْ
-  </p>
-</blockquote>
+> أمرِرْ على جدثِ الحسينِ فقلْ لأعظمِهِ الزکيّهْ
 
-<blockquote dir="rtl">
-  <p>
-آأعظماً لازلتِ منْ وطفاءِ ساکبةً رويّةْ
-  </p>
-</blockquote>
+> آأعظماً لازلتِ منْ وطفاءِ ساکبةً رويّةْ
 
-<blockquote dir="rtl">
-  <p>
-وإذا مررتَ بقبرِهِ فأطلْ بهِ وقفَ المطيّةْ
-  </p>
-</blockquote>
+> وإذا مررتَ بقبرِهِ فأطلْ بهِ وقفَ المطيّةْ
 
-<blockquote dir="rtl">
-  <p>
-وابك المطهّرَ للمطهّرِ والمطهّرةِ النقيّةْ
-  </p>
-</blockquote>
+> وابك المطهّرَ للمطهّرِ والمطهّرةِ النقيّةْ
 
-<blockquote dir="rtl">
-  <p>
-کبکاءِ معولةٍ أتتْ يوماً لواحدِها المنيّةْ
-  </p>
-</blockquote>
+> کبکاءِ معولةٍ أتتْ يوماً لواحدِها المنيّةْ
 
 Humayri says, “I saw the tears of Ja‘far ibn Muhammad flowing on the
 sides of his cheeks, and loud voices of wailing were heard in the Imam’s
@@ -179,12 +159,8 @@ Bani Umayyah. The people of Kufah picked up their weapons and went
 towards the grave of al-Husayn (as) while reciting this verse of the
 Qur’an along the way,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَتُوبُوا إِلَى بَارِئِکُمْ فَاقْتُلُوا أَنْفُسَکُمْ ذَلِکُمْ خَيْرٌ
-لَکُمْ عِنْدَ بَارِئِکُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ فَتُوبُوا إِلَى بَارِئِکُمْ فَاقْتُلُوا أَنْفُسَکُمْ ذَلِکُمْ خَيْرٌ
+> لَکُمْ عِنْدَ بَارِئِکُمْ ﴾
 
 ***‘…*** ***therefore turn to your Creator (penitently) and slay
 yourselves, that will be better for you with your Creator.’***[^12]
@@ -226,5 +202,4 @@ Al-Mu‘jam al-Kabir, vol. 3, p. 127.
 [^12]: Surat al-Baqarah 2:54.
 
 [^13]: Mawsu‘ah Al al-Nabi (s), p. 764; Tarikh Tabari, vol. 4, p. 451.
-
 

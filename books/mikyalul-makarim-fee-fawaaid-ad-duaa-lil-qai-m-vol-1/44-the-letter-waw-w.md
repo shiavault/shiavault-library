@@ -17,12 +17,8 @@ Allah. On the basis of this, all believers who are superior and
 righteous would be the *Awliya* of the Almighty Allah and that which
 proves this is the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ
 
 ***“Now surely the friends of Allah- they shall have no fear nor shall
 they grieve. Those who believe and guarded (against evil)…” (Qur’an,
@@ -153,15 +149,11 @@ necessary that you must love His Eminence more than you love your
 father, your children and even more than you love yourself as elaborated
 in the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
-وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
-وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
-إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
-فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ
-  </p>
-</blockquote>
+> قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
+> وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
+> وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
+> إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
+> فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ
 
 ***“Say: If your fathers and your sons and your brethren and your mates
 and your kinsfolk and property which you have acquired, and the
@@ -380,5 +372,4 @@ presence are forever and therefore pleasure of the believers is
 unending. (The Author)
 
 [^10]: Ghaibat Nomani, Pg. 214
-
 

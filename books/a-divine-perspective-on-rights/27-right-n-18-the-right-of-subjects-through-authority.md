@@ -1,26 +1,18 @@
 Right n. 18: The Right of Subjects through Authority
 ====================================================
 
-<blockquote dir="rtl">
-  <p>
-حق الرعية بالسلطان
-  </p>
-</blockquote>
+> حق الرعية بالسلطان
 
-<blockquote dir="rtl">
-  <p>
-فأَمَّا حُقُوقُ رَعِيَّتِكَ بالسُّلْطَانِ فَأَنْ تَعْلَمَ أَنَّكَ
-إنَّمَا اسْتَرْعَيْتَهُمْ بفَضْلِ قُوَّتِكَ عَلَيْهِمْ فَإنَّهُ
-إنَّمَا أَحَلَّهُمْ مَحَلَّ الرَّعِيَّةِ لَكَ ضَعْفُهُمْ وَذُلُّهُمْ،
-فَمَا أَوْلَى مَنْ كَفَاكَهُ ضَعْفُهُ وَذُلُّهُ حَتَّى صَيَّرَهُ لَكَ
-رَعِيَّةً وَصَيَّرَ حُكْمَكَ عَلَيْهِ نَافِذاً، لا يَمْتَنِعُ مِنْكَ
-بعِزَّةٍ وَلا قُوَّةٍ وَلا يَسْتَنْصِرُ فِيمَا تَعَاظَمَهُ مِنْكَ إلا
-[باللهِ] بالرَّحْمَةِ وَالْحِيَاطَةِ وَالأَناةِ، وَمَا أَولاكَ إذَا
-عَرَفْتَ مَا أَعْطَاكَ الله مِنْ فَضْلِ هذِهِ الْعِزَّةِ وَالقُوَّةِ
-الَّتِي قَهَرْتَ بهَا أَنْ تَكُونَ لِلّهِ شَاكِراً، وَمَنْ شَكَرَ الله
-أَعْطَاهُ فِيمَا أَنعَمَ عَلَيْهِ. ولا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> فأَمَّا حُقُوقُ رَعِيَّتِكَ بالسُّلْطَانِ فَأَنْ تَعْلَمَ أَنَّكَ
+> إنَّمَا اسْتَرْعَيْتَهُمْ بفَضْلِ قُوَّتِكَ عَلَيْهِمْ فَإنَّهُ
+> إنَّمَا أَحَلَّهُمْ مَحَلَّ الرَّعِيَّةِ لَكَ ضَعْفُهُمْ وَذُلُّهُمْ،
+> فَمَا أَوْلَى مَنْ كَفَاكَهُ ضَعْفُهُ وَذُلُّهُ حَتَّى صَيَّرَهُ لَكَ
+> رَعِيَّةً وَصَيَّرَ حُكْمَكَ عَلَيْهِ نَافِذاً، لا يَمْتَنِعُ مِنْكَ
+> بعِزَّةٍ وَلا قُوَّةٍ وَلا يَسْتَنْصِرُ فِيمَا تَعَاظَمَهُ مِنْكَ إلا
+> [باللهِ] بالرَّحْمَةِ وَالْحِيَاطَةِ وَالأَناةِ، وَمَا أَولاكَ إذَا
+> عَرَفْتَ مَا أَعْطَاكَ الله مِنْ فَضْلِ هذِهِ الْعِزَّةِ وَالقُوَّةِ
+> الَّتِي قَهَرْتَ بهَا أَنْ تَكُونَ لِلّهِ شَاكِراً، وَمَنْ شَكَرَ الله
+> أَعْطَاهُ فِيمَا أَنعَمَ عَلَيْهِ. ولا قُوَّةَ إلا باللهِ.
 
 **Then the right of your subjects through authority is that**[^1] **you
 should know that you have authority over them due to your power over
@@ -59,33 +51,21 @@ human rights, and honoring everybody's rights. This is what is meant by
 justice based upon rights. God has invited all men to justice in the
 Holy Qur’an as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ
 
 ***“God commands justice, the doing of good...” [The Holy Qur’an,
 al-Naĥl 16:90]***
 
 The Prophet Muhammad said:
 
-<blockquote dir="rtl">
-  <p>
-يَبْقى المُلكُ بِالعَدْلِ مَع الكُفْرِ، وَلا يَبْقى بِالجَورِ مَع
-الإيمَانِ.
-  </p>
-</blockquote>
+> يَبْقى المُلكُ بِالعَدْلِ مَع الكُفْرِ، وَلا يَبْقى بِالجَورِ مَع
+> الإيمَانِ.
 
 *“Rule can be sustained with unbelief, but it can never last with
 oppression.”*[^3]  
  He also said:
 
-<blockquote dir="rtl">
-  <p>
-عَدْلُ سَاعَةٍ خَيرٌ مِن عِبادَةِ سِتِّينَ سَنَة.
-  </p>
-</blockquote>
+> عَدْلُ سَاعَةٍ خَيرٌ مِن عِبادَةِ سِتِّينَ سَنَة.
 
 *“An hour of justice is better than sixty years of worship.”*
 
@@ -95,13 +75,9 @@ The Difference between Generosity and Justice
 Imam Ali beautifully expressed the difference between generosity and
 justice. When asked about this, he replied:
 
-<blockquote dir="rtl">
-  <p>
-العَدْلُ يَضَعُ الأمُورَ مَواضِعَها وَالجُودُ يُخرِجُها مِن جِهَتِها
-وَالعَدْلُ سائِسٌ عامٌّ فَالجُودُ عارِضٌ خاصٌّ فالعَدلُ أشْرَفُهُما
-وَأفْضَلُهُما.
-  </p>
-</blockquote>
+> العَدْلُ يَضَعُ الأمُورَ مَواضِعَها وَالجُودُ يُخرِجُها مِن جِهَتِها
+> وَالعَدْلُ سائِسٌ عامٌّ فَالجُودُ عارِضٌ خاصٌّ فالعَدلُ أشْرَفُهُما
+> وَأفْضَلُهُما.
 
 *“Justice puts everything in its right place, but generosity takes them
 out of their places. Justice is a universal caretaker, but generosity
@@ -116,14 +92,10 @@ declared man's prosperity and development subject to the development of
 ethics and the practice of justice. Let us look at the following verse
 in this regard:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ
-بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا
-تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ
-ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ
+> بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا
+> تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ
+> ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
 
 ***“O ye who believe! Stand out firmly for God, as witnesses to fair
 dealing, and let not the hatred of others to make you swerve to wrong
@@ -153,15 +125,11 @@ Justice in Speaking
 
 Consider the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْرَبُواْ مَالَ الْيَتِيمِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
-حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ الْكَيْلَ وَالْمِيزَانَ
-بِالْقِسْطِ لاَ نُكَلِّفُ نَفْسًا إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ
-فَاعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَى وَبِعَهْدِ اللّهِ أَوْفُواْ
-ذَلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَلاَ تَقْرَبُواْ مَالَ الْيَتِيمِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
+> حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ الْكَيْلَ وَالْمِيزَانَ
+> بِالْقِسْطِ لاَ نُكَلِّفُ نَفْسًا إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ
+> فَاعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَى وَبِعَهْدِ اللّهِ أَوْفُواْ
+> ذَلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ***“And come not nigh to the orphan’s property, except to improve it,
 until he attains the age of full strength; give measure and weigh with
@@ -189,13 +157,9 @@ Justice in Judgment
 
 Consider the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُكُمْ أَن تُؤدُّواْ الأَمَانَاتِ إِلَى أَهْلِهَا
-وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ إِنَّ
-اللّهَ نِعِمَّا يَعِظُكُم بِهِ إِنَّ اللّهَ كَانَ سَمِيعًا بَصِيرًا
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُكُمْ أَن تُؤدُّواْ الأَمَانَاتِ إِلَى أَهْلِهَا
+> وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ إِنَّ
+> اللّهَ نِعِمَّا يَعِظُكُم بِهِ إِنَّ اللّهَ كَانَ سَمِيعًا بَصِيرًا
 
 ***“God doth command you to render back your trusts to those to whom
 they are due. And when you judge between man and man that ye judge with
@@ -212,13 +176,9 @@ misjudge.
  In addition, God has established justice and doing good deeds as equal
 to one another as expressed in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاء ذِي
-الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَالْبَغْيِ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاء ذِي
+> الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَالْبَغْيِ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ***“God commands justice, the doing of good, and liberality to kith and
 kin, and He forbids all shameful deeds, and injustice and rebellion. He
@@ -227,14 +187,10 @@ instructs you that ye may receive admonition.” [The Holy Qur’an, al-Naĥl
 
 Also, consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم
-بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن
-سَبِيلِ اللَّهِ إِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ
-عَذَابٌ شَدِيدٌ بِمَا نَسُوا يَوْمَ الْحِسَابِ
-  </p>
-</blockquote>
+> يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم
+> بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن
+> سَبِيلِ اللَّهِ إِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ
+> عَذَابٌ شَدِيدٌ بِمَا نَسُوا يَوْمَ الْحِسَابِ
 
 ***“O David! We did indeed make thee a vicegerent on earth. So, judge
 thou between men in truth (and justice). Nor follow thou the lusts (of
@@ -261,12 +217,8 @@ put in effect, even if it is done a little.”[^5]
 Hasan ibn Ali quoted on the authority of Ibn Mahbooh on the authority of
 Mu\`awiyah ibn Wahab on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-العَدْلُ أحْلى مِن الشَّهْدِ وَألْيَنُ مِن الزَّبَدِ وَأطْيَبُ رِيحاً
-مِن المِسْكِ.
-  </p>
-</blockquote>
+> العَدْلُ أحْلى مِن الشَّهْدِ وَألْيَنُ مِن الزَّبَدِ وَأطْيَبُ رِيحاً
+> مِن المِسْكِ.
 
 *“Justice is sweeter than honey, softer than butter, and more fragrant
 than musk.”*[^6]
@@ -275,14 +227,10 @@ It has been narrated that Ibn Abi Ya’fur asked Imam Sadiq : “How is
 one’s justice recognized among Muslims so that his witnessing for or
 against someone can be accepted?” The Imam replied:
 
-<blockquote dir="rtl">
-  <p>
-أنْ تَعرِفوهُ بِالسَّتْرِ وَالعَفافِ وَكَفِّ البَطْنِ وَالفَرْجِ
-واليَدِ وَاللِّسانِ، ويُعرَفُ باجْتِنابِ الكَبائِرِ الَّتي أوعَدَ الله
-عَلَيها النّارَ مِن شُربِ الخَمْرِ والزِّنا وَالرِّبا وَعُقوقِ
-الوالِدَينِ والفَرارِ مِن الزَّحْفِ وَغَيرِ ذلِكَ.
-  </p>
-</blockquote>
+> أنْ تَعرِفوهُ بِالسَّتْرِ وَالعَفافِ وَكَفِّ البَطْنِ وَالفَرْجِ
+> واليَدِ وَاللِّسانِ، ويُعرَفُ باجْتِنابِ الكَبائِرِ الَّتي أوعَدَ الله
+> عَلَيها النّارَ مِن شُربِ الخَمْرِ والزِّنا وَالرِّبا وَعُقوقِ
+> الوالِدَينِ والفَرارِ مِن الزَّحْفِ وَغَيرِ ذلِكَ.
 
 *“You will recognize it through his modesty and chastity, and his
 restraining his stomach, private parts, hand and tongue. It will be
@@ -296,15 +244,11 @@ Mutual Rights of the People and the Ruler
 Imam Ali expresses the mutual rights of the people and the ruler in
 *Nahjul Balaghah* as follows:
 
-<blockquote dir="rtl">
-  <p>
-أيُّها النّاسُ! إنَّ لي عَلَيكمُ حَقّاً وَلَكم عَلَيَّ حَقٌّ. فأمّا
-حقُّكُم عَليَّ فالنَّصِيحَةُ وَتَوفِيرُ فَيئِكُم عَليكُم وَتَعلِيمُكُم
-كَيلا تَجْهَلوا وتَأدِيبُكُم كَيما تَعَلَّمُوا. وأمّا حَقِّي عَلَيكُم
-فَالوَفاءُ بِالبَيعَةِ وَالنَّصِيحَةُ في المَشْهَدِ وَالمَغِيبِ
-والإجَابَةُ حِينَ أدْعوكُم وَالطَّاعَةُ حِين آمُرُكُم.
-  </p>
-</blockquote>
+> أيُّها النّاسُ! إنَّ لي عَلَيكمُ حَقّاً وَلَكم عَلَيَّ حَقٌّ. فأمّا
+> حقُّكُم عَليَّ فالنَّصِيحَةُ وَتَوفِيرُ فَيئِكُم عَليكُم وَتَعلِيمُكُم
+> كَيلا تَجْهَلوا وتَأدِيبُكُم كَيما تَعَلَّمُوا. وأمّا حَقِّي عَلَيكُم
+> فَالوَفاءُ بِالبَيعَةِ وَالنَّصِيحَةُ في المَشْهَدِ وَالمَغِيبِ
+> والإجَابَةُ حِينَ أدْعوكُم وَالطَّاعَةُ حِين آمُرُكُم.
 
 *“O people! I have rights incumbent upon you, and you have rights
 incumbent upon me. Your rights incumbent upon me include my advising
@@ -323,19 +267,15 @@ allegiance, and give him counsel sincerely both in private and public.
 The people should also stand ready to respond to the call of the ruler
 and obey his orders. Imam Ali also said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعْظَمُ ما افْتَرَضَ سُبْحانَهُ مِن تِلكَ الحُقوقِ حَقُّ الوَالي
-عَلى الرَّعِيَّةِ. وَحَقُّ الرَّعِيَّةِ عَلى الوالي فَريضَةٌ فَرَضَها
-اللهُ سُبحانَهُ لِكُلٍّ عَلى كُلٍّ فَجَعَلَها نِظاماً لأُلْفَتِهِم
-وَعِزّاً لِدِينِهِم فَلَيْسَتْ تَصْلُحُ الرَّعِيَّةُ إلاّ بِصَلاحِ
-الوُلاةِ وَلا تَصْلُحُ الوُلاةُ إلاّ بِاسْتِقامَةِ الرَّعِيَّةِ. فإذا
-أدَّتِ الرَّعِيَّةُ إلى الوالي حَقَّهُ وأدّى الوالي إلَيها حَقَّها
-عَزَّ الحَقُّ بَيْنَهُم وَقَامَت مَناهِجُ الدِّينِ وَاعْتَدَلَتْ
-مَعالِمُ العَدْلِ وَجَرَتْ على أَذْلالِها السُّنَنُ فَصَلُحَ بِذلِكَ
-الزَّمانُ وَطُمِعَ في بَقاءِ الدَّولَةِ وَبَئِسَتْ مَطامِعُ الأعْداء.
-  </p>
-</blockquote>
+> وَأَعْظَمُ ما افْتَرَضَ سُبْحانَهُ مِن تِلكَ الحُقوقِ حَقُّ الوَالي
+> عَلى الرَّعِيَّةِ. وَحَقُّ الرَّعِيَّةِ عَلى الوالي فَريضَةٌ فَرَضَها
+> اللهُ سُبحانَهُ لِكُلٍّ عَلى كُلٍّ فَجَعَلَها نِظاماً لأُلْفَتِهِم
+> وَعِزّاً لِدِينِهِم فَلَيْسَتْ تَصْلُحُ الرَّعِيَّةُ إلاّ بِصَلاحِ
+> الوُلاةِ وَلا تَصْلُحُ الوُلاةُ إلاّ بِاسْتِقامَةِ الرَّعِيَّةِ. فإذا
+> أدَّتِ الرَّعِيَّةُ إلى الوالي حَقَّهُ وأدّى الوالي إلَيها حَقَّها
+> عَزَّ الحَقُّ بَيْنَهُم وَقَامَت مَناهِجُ الدِّينِ وَاعْتَدَلَتْ
+> مَعالِمُ العَدْلِ وَجَرَتْ على أَذْلالِها السُّنَنُ فَصَلُحَ بِذلِكَ
+> الزَّمانُ وَطُمِعَ في بَقاءِ الدَّولَةِ وَبَئِسَتْ مَطامِعُ الأعْداء.
 
 *“The most important of these rights which God the Almighty has made
 incumbent are the rights of the ruler incumbent upon the people, and the
@@ -356,17 +296,13 @@ disappointed.”*[^9]
 
 Imam Ali continues:
 
-<blockquote dir="rtl">
-  <p>
-وَإذا غَلَبَتِ الرَّعِيَّةُ وَاليَها أوْ أَجْحَفَ الوالي بِرَعِيَّتِهِ
-اخْتَلَفَتْ هُنالِكَ الكَلِمَةُ وَظَهَرَتْ مَعالِمُ الجَورِ وَكَثُرَ
-الإدْغالُ في الدِّينِ وَتُرِكَتْ مَحَاجُّ السُّنَنِ فَعُمِلَ بِالهَوَى
-وَعُطِّلَتِ الأحْكامُ وَكَثُرَت عِلَلُ النُّفُوسِ فلا يُسْتَوحَشُ
-لِعَظِيمِ حَقٍّ عُطِّلَ وَلا لِعَظِيمِ باطِلٍ فُعِلَ فَهُنالِكَ
-تُذَّلُ الأبْرارُ وَتَعِزُّ الأشْرارُ وَتَعْظُمُ تَبِعاتُ اللهِ عِنْدَ
-العِبادِ
-  </p>
-</blockquote>
+> وَإذا غَلَبَتِ الرَّعِيَّةُ وَاليَها أوْ أَجْحَفَ الوالي بِرَعِيَّتِهِ
+> اخْتَلَفَتْ هُنالِكَ الكَلِمَةُ وَظَهَرَتْ مَعالِمُ الجَورِ وَكَثُرَ
+> الإدْغالُ في الدِّينِ وَتُرِكَتْ مَحَاجُّ السُّنَنِ فَعُمِلَ بِالهَوَى
+> وَعُطِّلَتِ الأحْكامُ وَكَثُرَت عِلَلُ النُّفُوسِ فلا يُسْتَوحَشُ
+> لِعَظِيمِ حَقٍّ عُطِّلَ وَلا لِعَظِيمِ باطِلٍ فُعِلَ فَهُنالِكَ
+> تُذَّلُ الأبْرارُ وَتَعِزُّ الأشْرارُ وَتَعْظُمُ تَبِعاتُ اللهِ عِنْدَ
+> العِبادِ
 
 *“But if on the other hand, the people do not pay any attention to their
 ruler, or the ruler oppresses the people, then there will be discord and
@@ -394,14 +330,10 @@ will be on the verge of collapse.
 Imam Ali expressed the following in a letter he wrote to the border
 patrol:
 
-<blockquote dir="rtl">
-  <p>
-أمَّا بَعْدُ فإنَّ حَقّاً عَلى الوالي أنْ لا يُغَيِّرَهُ عَلى
-رَعِيَّتِهِ فَضْلٌ نَالَهُ ولا طَوْلٌ خُصَّ بِهِ وإنْ يَزِيدَهُ ما
-قَسَّمَ اللهُ لهُ مِن نِعْمَةٍ دُنُوّاً مِن عِبادِهِ وَعَطْفاً عَلى
-إخْوانِهِ.
-  </p>
-</blockquote>
+> أمَّا بَعْدُ فإنَّ حَقّاً عَلى الوالي أنْ لا يُغَيِّرَهُ عَلى
+> رَعِيَّتِهِ فَضْلٌ نَالَهُ ولا طَوْلٌ خُصَّ بِهِ وإنْ يَزِيدَهُ ما
+> قَسَّمَ اللهُ لهُ مِن نِعْمَةٍ دُنُوّاً مِن عِبادِهِ وَعَطْفاً عَلى
+> إخْوانِهِ.
 
 *“Moreover, the right that is incumbent upon the ruler is not to
 withdraw his donations to the people from the blessings that he obtains.
@@ -413,12 +345,8 @@ treat his brothers with kindness and benefit from their affection”*[^11]
 Imam Ali himself acted accordingly, and his rule was truly a just rule.
 He was like a kind and sympathetic father for the society and said:
 
-<blockquote dir="rtl">
-  <p>
-أَأقْنَعُ أنْ يُقالَ أمِيرُ المُؤمِنِينَ ولا أُشارِكُهُم مَكارِهَ
-الدَّهْرِ؟
-  </p>
-</blockquote>
+> أَأقْنَعُ أنْ يُقالَ أمِيرُ المُؤمِنِينَ ولا أُشارِكُهُم مَكارِهَ
+> الدَّهْرِ؟
 
 *“Should I be content with being called the Commander of the Faithful,
 and not share their hardships in this world?”*[^12]
@@ -433,14 +361,10 @@ This was put into practice during the rule of Imam Ali and the Imam made
 the following recommendations to Malik al-Ashtar in his well-known
 letter to him:
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْعِرْ قَلْبَكَ الرَّحْمَةَ لِلرَّعِيَّةِ، وَالْمَحَبَّةَ لَهُمْ،
-وَاللُّطْفَ بِهِمْ، وَلا تَكُونَنَّ عَلَيْهِمْ سَبُعاً ضارِياً
-تَغْتَنِمُ أَكْلَهُمْ، فَإنَّهُمْ صِنْفانِ: إمّا أَخٌ لَكَ فِي
-الدِّينِ، وَإمّا نَظِيرٌ لَكَ فِي الْخَلْق.
-  </p>
-</blockquote>
+> وَأَشْعِرْ قَلْبَكَ الرَّحْمَةَ لِلرَّعِيَّةِ، وَالْمَحَبَّةَ لَهُمْ،
+> وَاللُّطْفَ بِهِمْ، وَلا تَكُونَنَّ عَلَيْهِمْ سَبُعاً ضارِياً
+> تَغْتَنِمُ أَكْلَهُمْ، فَإنَّهُمْ صِنْفانِ: إمّا أَخٌ لَكَ فِي
+> الدِّينِ، وَإمّا نَظِيرٌ لَكَ فِي الْخَلْق.
 
 *“Let your heart harbor feelings of mercy for your subjects, and love
 and kindness for them. Do not be like a rapacious beast of prey against
@@ -454,13 +378,9 @@ Imam Sajjad said:
 
 Imam Ali said the following in his letter to Malik al-Ashtar:
 
-<blockquote dir="rtl">
-  <p>
-فَإنَّ فِي النّاسِ عُيُوباً إلْوالِي أَحَقُّ مَنْ سَتَرَها، فَلا
-تَكْشِفَنَّ عَمّا غابَ عَنْكَ مِنْها، فَإنَّما عَلَيْكَ تَطْهِيرُ ما
-ظَهَرَ لَكَ.
-  </p>
-</blockquote>
+> فَإنَّ فِي النّاسِ عُيُوباً إلْوالِي أَحَقُّ مَنْ سَتَرَها، فَلا
+> تَكْشِفَنَّ عَمّا غابَ عَنْكَ مِنْها، فَإنَّما عَلَيْكَ تَطْهِيرُ ما
+> ظَهَرَ لَكَ.
 
 *“Indeed people have faults, and the ruler is the one who is most
 suitable to cover up their faults. Therefore do not reveal those faults
@@ -477,15 +397,11 @@ He should realize that he does not possess any power on his own and it
 is in fact God who has granted him this power. He should realize that he
 himself is only a weak person. Imam Ali instructs Malik al-Ashtar:
 
-<blockquote dir="rtl">
-  <p>
-وَإذا أَحْدَثَ لَكَ ما أَنْتَ فِيهِ مِنْ سُلْطانِكَ أُبَّهَةً أَوْ
-مَخِيلَةً فَانْظُرْ إلى عِظَمِ مُلْكِ اللهِ فَوْقَكَ وَقُدْرَتِهِ
-مِنْكَ عَلى ما لا تَقْدِرُ عَلَيْهِ مِنْ نَفْسِكَ، فَإنَّ ذٰلِكَ
-يُطامِنُ إلَيْكَ مِنْ طِماحِكَ، وَيَكُفُّ عَنْكَ مِنْ غَرْبِكَ،
-وَيَفِيُ إلَيْكَ بِما عَزَبَ عَنكَ مِنْ عَقْلِكَ.
-  </p>
-</blockquote>
+> وَإذا أَحْدَثَ لَكَ ما أَنْتَ فِيهِ مِنْ سُلْطانِكَ أُبَّهَةً أَوْ
+> مَخِيلَةً فَانْظُرْ إلى عِظَمِ مُلْكِ اللهِ فَوْقَكَ وَقُدْرَتِهِ
+> مِنْكَ عَلى ما لا تَقْدِرُ عَلَيْهِ مِنْ نَفْسِكَ، فَإنَّ ذٰلِكَ
+> يُطامِنُ إلَيْكَ مِنْ طِماحِكَ، وَيَكُفُّ عَنْكَ مِنْ غَرْبِكَ،
+> وَيَفِيُ إلَيْكَ بِما عَزَبَ عَنكَ مِنْ عَقْلِكَ.
 
 *“Should you ever feel proud and haughty due to your rule, consider the
 Majesty of God’s dominion above you and His power over you in what you
@@ -523,5 +439,4 @@ has given to you.”
 [^11]: Nahjul Balaghah, Fayz al-Islam, sermon no. 50.
 
 [^12]: Nahjul Balaghah, Subhi Salih, no.45.
-
 

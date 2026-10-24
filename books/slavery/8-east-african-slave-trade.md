@@ -155,4 +155,3 @@ was economy.
 
 [^6]: Ibid, p. 24.
 
-

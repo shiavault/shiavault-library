@@ -4,13 +4,9 @@ Section 15: Persecution of the Israelites
 Surah al-‘Araf – Verse 127
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَلأُ مِنْ قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَى وَقَوْمَهُ
-لِيُفْسِدُوا فِي الاَرْضِ وَيَذَرَكَ وءَالِهَتَكَ قَالَ سَنُقَتِّلُ
-أَبْنَآءَهُمْ وَنَسْتَحْيِي نِسَآءَهُمْ وإِنَّا فَوْقَهُمْ قَاهِرُونَ
-  </p>
-</blockquote>
+> وَقَالَ الْمَلأُ مِنْ قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَى وَقَوْمَهُ
+> لِيُفْسِدُوا فِي الاَرْضِ وَيَذَرَكَ وءَالِهَتَكَ قَالَ سَنُقَتِّلُ
+> أَبْنَآءَهُمْ وَنَسْتَحْيِي نِسَآءَهُمْ وإِنَّا فَوْقَهُمْ قَاهِرُونَ
 
 **127*****. “And the chiefs of Pharaoh’s people said: ‘Will you leave
 Moses and his people to make mischief in the land, and to desert you and
@@ -47,13 +43,9 @@ to destroy them. The verse ends thus:
 Surah al-‘Araf – Verse 128
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مُوسَى لِقَوْمِهِ اسْتَعِينُوا بِاللّهِ وَاصْبِرُوا إِنَّ
-الاَرْضَ لِلّهِ يُورِثُهَا مَنْ يَشَآءُ مِنْ عِبَادِهِ وَالْعَاقِبَةُ
-لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> قَالَ مُوسَى لِقَوْمِهِ اسْتَعِينُوا بِاللّهِ وَاصْبِرُوا إِنَّ
+> الاَرْضَ لِلّهِ يُورِثُهَا مَنْ يَشَآءُ مِنْ عِبَادِهِ وَالْعَاقِبَةُ
+> لِلْمُتَّقِينَ
 
 **128*****. “Moses said to his people: ‘Seek help from Allah and endure.
 Verily the earthbelongs to Allah; He grants its inheritance to whomever
@@ -88,13 +80,9 @@ ones.”***
 Surah al-‘Araf – Verse 129
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا اُوذِينَا مِنْ قَبْلِ أَنْ تَأْتِيَنَا وَمِنْ بَعْدِ مَا
-جِئْتَنَا قَالَ عَسَى رَبُّكُمْ أَنْ يُهْلِكَ عَدُوَّكُمْ
-وَيَسْتَخْلِفَكُمْ فِي الاَرْضِ فَيَنْظُرَ كَيْفَ تَعْمَلُونَ
-  </p>
-</blockquote>
+> قَالُوا اُوذِينَا مِنْ قَبْلِ أَنْ تَأْتِيَنَا وَمِنْ بَعْدِ مَا
+> جِئْتَنَا قَالَ عَسَى رَبُّكُمْ أَنْ يُهْلِكَ عَدُوَّكُمْ
+> وَيَسْتَخْلِفَكُمْ فِي الاَرْضِ فَيَنْظُرَ كَيْفَ تَعْمَلُونَ
 
 **129*****. “They said: ‘We have been hurt before you came to us and
 (also) after you came to us.’ He said: ‘Maybe that your Lord will
@@ -132,5 +120,4 @@ An Islamic government is a means of trial not a means of seeking
 pleasure. Then, the verse concludes as follows:
 
 ***“…then He observes how you act.”***
-
 

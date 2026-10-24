@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اَلزَّانِيَّةُ وَ الزَّانِـي فَاجْلِدُوا کُلُّ واَحِدٍ مِنْهُماَ
-مِائَةَ جَلدَةٍ
-  </p>
-</blockquote>
+> اَلزَّانِيَّةُ وَ الزَّانِـي فَاجْلِدُوا کُلُّ واَحِدٍ مِنْهُماَ
+> مِائَةَ جَلدَةٍ
 
 *”The woman and the man guilty of adultery or fornication - flog each of
 them with a hundred stripes.”*[^1]
 
 The Noble Prophet (s.a.w) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِذاَ ظَهَرَ الزِّناَ مِنْ بَعْدِي کَثُرَ مَوْتُ الْفُجْأَةِ
-  </p>
-</blockquote>
+> إِذاَ ظَهَرَ الزِّناَ مِنْ بَعْدِي کَثُرَ مَوْتُ الْفُجْأَةِ
 
 *“After my death, when fornication increases, sudden deaths shall (also)
 increase.”*[^2]
@@ -168,12 +160,8 @@ him immensely and the craving for committing adultery with the lady
 remained so deeply embedded in his heart that he would always recite the
 following verses:
 
-<blockquote dir="rtl">
-  <p>
-ياَ رُبَّ قاَئِلَةٍ يَوماً وَ قَد تعبتْ أَينَ الطَّرِيقُ إِلـى
-حَمَّامِ مَنْجَابِ
-  </p>
-</blockquote>
+> ياَ رُبَّ قاَئِلَةٍ يَوماً وَ قَد تعبتْ أَينَ الطَّرِيقُ إِلـى
+> حَمَّامِ مَنْجَابِ
 
 “What happened to the lady, who had become exhausted? And had asked:
 Where is the way to the Minjab bath?”
@@ -230,5 +218,4 @@ Dastan-ha-e-Zindagi-e-’Ali , pg. 145
 
 [^10]: Dastan-ha Wa Pand-ha, vol. 3, pg. 138; Tafsir al-Manar, under the
 discussion related to verse 104 of Surat Ale ‘Imran.
-
 

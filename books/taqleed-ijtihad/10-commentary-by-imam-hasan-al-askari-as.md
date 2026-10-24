@@ -147,4 +147,3 @@ commentary by Imam al-Askari (as).”
 
 [^1]: Commentary on Faqih, vol 5, p 142 – 213
 
-

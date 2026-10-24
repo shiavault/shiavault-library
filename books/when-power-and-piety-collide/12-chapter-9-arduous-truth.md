@@ -1,12 +1,8 @@
 Chapter 9: Arduous Truth
 ========================
 
-<blockquote dir="rtl">
-  <p>
- ثُمَّ إِلَى رَبِّهِمْ مَرْجِعُهُمْ فَيُنَبِّئُهُمْ بِمَا كَانُوا
-يَعْمَلُونَ
-  </p>
-</blockquote>
+>  ثُمَّ إِلَى رَبِّهِمْ مَرْجِعُهُمْ فَيُنَبِّئُهُمْ بِمَا كَانُوا
+> يَعْمَلُونَ
 
 ***In the end will they return to their Lord, and We shall then tell
 them the truth of all that they did. (Holy Qur’an, 6:108)***
@@ -1606,5 +1602,4 @@ al-Ashraf, 5:36
 [^155]: Tarikh al-Tabari, 4:251
 
 [^156]: Tarikh al-Tabari, 4:339
-
 

@@ -4,13 +4,9 @@ Surah al-Ghafir, Verses 64 - 85
 Surah al-Ghafir - Verse 64
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ قَرَاراً وَالسَّمَاءَ بِنَاءً
-وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ
-ذَلِكُمُ اللَّهُ رَبُّكُمْ فَتَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ قَرَاراً وَالسَّمَاءَ بِنَاءً
+> وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ
+> ذَلِكُمُ اللَّهُ رَبُّكُمْ فَتَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
 
 ***64. Allah, it is He Who has made for you the earth as a dwelling
 place and the sky as a canopy, and has given you shape and made your
@@ -109,12 +105,8 @@ world of existence and He is worthy to be worshipped for His Lordship.
 Surah al-Ghafir - Verse 65
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الْحَيُّ لا إِلَهَ إِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ
-الدِّينَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> هُوَ الْحَيُّ لا إِلَهَ إِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ
+> الدِّينَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
 
 ***65. He is the Ever-Living, there is no god but Allah. Therefore,
 invoke Him, having made your worship pure for Him Alone. All the praises
@@ -157,13 +149,9 @@ Bounties encompassing all human existence, particularly that of life.
 Surah al-Ghafir - Verse 66
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِنْ دُونِ
-اللَّهِ لَمَّا جَاءَنِيَ الْبَيِّنَاتُ مِنْ رَبِّي وَأُمِرْتُ أَنْ
-أُسْلِمَ لِرَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِنْ دُونِ
+> اللَّهِ لَمَّا جَاءَنِيَ الْبَيِّنَاتُ مِنْ رَبِّي وَأُمِرْتُ أَنْ
+> أُسْلِمَ لِرَبِّ الْعَالَمِينَ
 
 ***66. Say: “I have been forbidden to worship those whom you worship
 besides Allah, since there have come to me Signs from my Lord and I am
@@ -233,14 +221,10 @@ Essence as the only Object of worship.
 Surah al-Ghafir - Verse 67
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ
-عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلاً ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ
-ثُمَّ لِتَكُونُوا شُيُوخاً وَمِنْكُمْ مَنْ يُتَوَفَّی مِنْ قَبْلُ
-وَلِتَبْلُغُوا أَجَلاً مُسَمّیً وَلَعَلَّكُمْ تَعْقِلُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ
+> عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلاً ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ
+> ثُمَّ لِتَكُونُوا شُيُوخاً وَمِنْكُمْ مَنْ يُتَوَفَّی مِنْ قَبْلُ
+> وَلِتَبْلُغُوا أَجَلاً مُسَمّیً وَلَعَلَّكُمْ تَعْقِلُونَ
 
 ***67. It is He Who has created you from dust, then from semen, then
 from a clot, then brings you forth as an infant [from womb], then [makes
@@ -355,12 +339,8 @@ and even some children or young adults die before reaching youth.
 Surah al-Ghafir - Verse 68
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي يُحْيِي وَيُمِيتُ فَإِذَا قَضَی أَمْراً فَإِنَّمَا
-يَقُولُ لَهُ كُنْ فَيَكُونُ
-  </p>
-</blockquote>
+> هُوَ الَّذِي يُحْيِي وَيُمِيتُ فَإِذَا قَضَی أَمْراً فَإِنَّمَا
+> يَقُولُ لَهُ كُنْ فَيَكُونُ
 
 ***68. It is He Who gives life and causes death. And when He decides
 upon a thing He says to it only: “Be!” and it is.***
@@ -411,19 +391,11 @@ the creation of the being.
 Surah al-Ghafir - Verses 69 - 70
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَی الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ أَنَّی
-يُصْرَفُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَی الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ أَنَّی
+> يُصْرَفُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَذَّبُوا بِالْكِتَابِ وَبِمَا أَرْسَلْنَا بِهِ رُسُلَنَا
-فَسَوْفَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> الَّذِينَ كَذَّبُوا بِالْكِتَابِ وَبِمَا أَرْسَلْنَا بِهِ رُسُلَنَا
+> فَسَوْفَ يَعْلَمُونَ
 
 ***69. See you not those who dispute about the Ayat (Verses, Signs) of
 Allah? How are they turning away [from Truth]?***  
@@ -497,17 +469,9 @@ Thus they are warned at the close of the Verse:
 Surah al-Ghafir - Verses 71 - 72
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذِ الْأَغْلالُ فِي أَعْنَاقِهِمْ وَالسَّلاسِلُ يُسْحَبُونَ
-  </p>
-</blockquote>
+> إِذِ الْأَغْلالُ فِي أَعْنَاقِهِمْ وَالسَّلاسِلُ يُسْحَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-فِي الْحَمِيمِ ثُمَّ فِي النَّارِ يُسْجَرُونَ
-  </p>
-</blockquote>
+> فِي الْحَمِيمِ ثُمَّ فِي النَّارِ يُسْجَرُونَ
 
 ***71. When iron collars will be rounded over their necks and the chains
 they shall be dragged along,***  
@@ -541,18 +505,10 @@ water and they will turn into kindling in Hell.
 Surah al-Ghafir - Verses 73 - 74
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تُشْرِكُونَ
-  </p>
-</blockquote>
+> ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تُشْرِكُونَ
 
-<blockquote dir="rtl">
-  <p>
-مِنْ دُونِ اللَّهِ قَالُوا ضَلُّوا عَنَّا بَلْ لَمْ نَكُنْ نَدْعُوا
-مِنْ قَبْلُ شَيْئاً كَذَلِكَ يُضِلُّ اللَّهُ الْكَافِرِينَ
-  </p>
-</blockquote>
+> مِنْ دُونِ اللَّهِ قَالُوا ضَلُّوا عَنَّا بَلْ لَمْ نَكُنْ نَدْعُوا
+> مِنْ قَبْلُ شَيْئاً كَذَلِكَ يُضِلُّ اللَّهُ الْكَافِرِينَ
 
 ***73. Then it will be said to them: “Where are [all] those whom you
 used to associate in worship as partners***  
@@ -615,19 +571,11 @@ astray.
 Surah al-Ghafir - Verses 75 - 76
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكُمْ بِمَا كُنْتُمْ تَفْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ
-وَبِمَا كُنْتُمْ تَمْرَحُونَ
-  </p>
-</blockquote>
+> ذَلِكُمْ بِمَا كُنْتُمْ تَفْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ
+> وَبِمَا كُنْتُمْ تَمْرَحُونَ
 
-<blockquote dir="rtl">
-  <p>
-ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَی
-الْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَی
+> الْمُتَكَبِّرِينَ
 
 ***75. That [torment] was because you had been exulting in the earth
 without any right and that you used to rejoice extremely [in your
@@ -734,12 +682,8 @@ Bounties exceed torments.
 Surah al-Ghafir - Verse 77
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَإِمَّا نُرِيَنَّكَ بَعْضَ
-الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ
-  </p>
-</blockquote>
+> فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَإِمَّا نُرِيَنَّكَ بَعْضَ
+> الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ
 
 ***77. Therefore, [O Prophet] be patient! Indeed the Promise of Allah is
 true and whether We show you some part of what We have promised them or
@@ -784,14 +728,10 @@ on the battlefield of Badr.
 Surah al-Ghafir - Verse 78
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا رُسُلاً مِنْ قَبْلِكَ مِنْهُمْ مَنْ قَصَصْنَا
-عَلَيْكَ وَمِنْهُمْ مَنْ لَمْ نَقْصُصْ عَلَيْكَ وَمَا كَانَ لِرَسُولٍ
-أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ فَإِذَا جَاءَ أَمْرُ
-اللَّهِ قُضِيَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا رُسُلاً مِنْ قَبْلِكَ مِنْهُمْ مَنْ قَصَصْنَا
+> عَلَيْكَ وَمِنْهُمْ مَنْ لَمْ نَقْصُصْ عَلَيْكَ وَمَا كَانَ لِرَسُولٍ
+> أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ فَإِذَا جَاءَ أَمْرُ
+> اللَّهِ قُضِيَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ
 
 ***78. And verily We have sent Messengers before you of some of them We
 have related to you their story. And of some We have not related to you
@@ -899,25 +839,13 @@ loss.”*
 Surah al-Ghafir - Verses 79 - 81
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَنْعَامَ لِتَرْكَبُوا مِنْهَا
-وَمِنْهَا تَأْكُلُونَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَنْعَامَ لِتَرْكَبُوا مِنْهَا
+> وَمِنْهَا تَأْكُلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِيهَا مَنَافِعُ وَلِتَبْلُغُوا عَلَيْهَا حَاجَةً فِي
-صُدُورِكُمْ وَعَلَيْهَا وَعَلَی الْفُلْكِ تُحْمَلُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِيهَا مَنَافِعُ وَلِتَبْلُغُوا عَلَيْهَا حَاجَةً فِي
+> صُدُورِكُمْ وَعَلَيْهَا وَعَلَی الْفُلْكِ تُحْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيُرِيكُمْ آيَاتِهِ فَأَيَّ آيَاتِ اللَّهِ تُنْكِرُونَ
-  </p>
-</blockquote>
+> وَيُرِيكُمْ آيَاتِهِ فَأَيَّ آيَاتِ اللَّهِ تُنْكِرُونَ
 
 ***79. Allah it is He Who has made quadrupeds for you that you may ride
 on some of them and of some you eat.***  
@@ -1041,13 +969,9 @@ consequence of which they fail to perceive them.
 Surah al-Ghafir - Verse 82
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً
-وَآثَاراً فِي الْأَرْضِ فَمَا أَغْنَی عَنْهُمْ مَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً
+> وَآثَاراً فِي الْأَرْضِ فَمَا أَغْنَی عَنْهُمْ مَا كَانُوا يَكْسِبُونَ
 
 ***82. Have they not traveled through the land and seen what was the end
 of those before them [and the manner of their perdition]? They were more
@@ -1077,20 +1001,12 @@ number failed to resist Divine Wrath and were entangled with torment.
 Surah al-Ghafir - Verses 83 - 84
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَرِحُوا بِمَا
-عِنْدَهُمْ مِنَ الْعِلْمِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
-يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> فَلَمَّا جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَرِحُوا بِمَا
+> عِنْدَهُمْ مِنَ الْعِلْمِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
+> يَسْتَهْزِئُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ
-وَكَفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ
-  </p>
-</blockquote>
+> فَلَمَّا رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ
+> وَكَفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ
 
 ***83. Then when their Messengers came to them with clear miracles, they
 were glad with that which they had of the knowledge [failing to
@@ -1179,13 +1095,9 @@ Almighty to torment in Hell.
 Surah al-Ghafir - Verse 85
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمْ يَكُ يَنْفَعُهُمْ إِيمَانُهُمْ لَمَّا رَأَوْا بَأْسَنَا سُنَّتَ
-اللَّهِ الَّتِي قَدْ خَلَتْ فِي عِبَادِهِ وَخَسِرَ هُنَالِكَ
-الْكَافِرُونَ
-  </p>
-</blockquote>
+> فَلَمْ يَكُ يَنْفَعُهُمْ إِيمَانُهُمْ لَمَّا رَأَوْا بَأْسَنَا سُنَّتَ
+> اللَّهِ الَّتِي قَدْ خَلَتْ فِي عِبَادِهِ وَخَسِرَ هُنَالِكَ
+> الْكَافِرُونَ
 
 ***85. Then their Faith could not avail them when they saw Our
 chastisement. This has been the way of Allah in dealing with His
@@ -1281,5 +1193,4 @@ vol. 8, p. 289.
 [^15]: Tafsir Nur al-Thiqalayn, under the blessed Verse in question.
 
 [^16]: Atyab al-Bayan, under the blessed Verse in question.
-
 

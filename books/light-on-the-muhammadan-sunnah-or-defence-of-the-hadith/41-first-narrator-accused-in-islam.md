@@ -1,10 +1,6 @@
 First Narrator Accused in Islam:
 ================================
 
-  
-  
-  
-
 Ibn Qutaybah, in Ta'wil mukhtalif al-hadith, said: "When Abu Hurayrah
 reported that abundance of traditions the similar of which none among
 his Companions and the foremost in Islam could never relate, he was
@@ -13,11 +9,11 @@ you hear this alone? who heard it other than you? A'ishah was the
 severest in
 
 disapproving his narrations, due to the prolongation of their lives."
-<span id="_anchor_376"></span>376
+376
 
 "Among those charging Abu Hurayrah with falsification, were Umar, Uthman
 and Ali and others. Thus he was truly — as stated by the great Islamic
-writer Mustafa Sadiq al-Rafi'i <span id="_anchor_377"></span>377  – the
+writer Mustafa Sadiq al-Rafi'i 377  – the
 first narrator accused in Islam." "When A'ishah said to him: You relate
 a hadith that I never heard from the Prophet (S), he gave her an
 impolite answer (as reported by Ibn Sa'd, al-Bukhari and Ibn Kathir and
@@ -37,8 +33,7 @@ of Allah, when he had no choice but to submit. Then he said: She is
 verily more knowledgeable than me, and I never heard it from the
 Prophet, but from al-Fadl ibn al-Abbas. Thus he quoted a dead man
 deluding people that he heard the hadith from the Messenger of Allah
-(S), as said by Ibn Qutaybah in Ta'wil mukhtalif al-hadith" <span
-id="_anchor_378"></span>378
+(S), as said by Ibn Qutaybah in Ta'wil mukhtalif al-hadith" 378
 
 "Ali (may God be pleased with him) was evil-minded toward him, saying
 about him: He is verily the biggest liar among people, or he said: The
@@ -52,9 +47,9 @@ intimate friend?
 When he related the hadith, "Whenever anyone of you gets up of bed, he
 should wash his hands before placing them in the pot, as none among you
 knows where has his hand passed the night," A'ishah never approved it
-saying: What to do with the mortar? <span id="_anchor_379"></span>379
+saying: What to do with the mortar? 379
  And when al-Zubayr heard his traditions he said: He said the truth, he
-lied. <span id="_anchor_380"></span>380
+lied. 380
 
 Abu Hassan al-A'raj is reported to have said: Two men entered upon
 A'ishah (may God be pleased with her) saying: Abu Hurayrah relates from
@@ -65,13 +60,12 @@ Messenger of Allah (upon whom be God's peace and benediction) has verily
 told a lie. What the Messenger of Allah said being: The pre-Islamic
 people used to say: Evil omen is verily in the mount, woman and house.
 Then she cited: "Naught of disaster befalleth in the earth or in
-yourselves but it is in a Book before We bring it into being... <span
-id="_anchor_381"></span>381
+yourselves but it is in a Book before We bring it into being... 381
 
 Ibn Mas'ud disapproved his saying: "Whoever washes or carries a dead
 (corpus), he should perform the rite of ablution," using harsh words
 against him, saying then: O people, do not be contaminated (najis) of
-your dead. <span id="_anchor_382"></span>382
+your dead. 382
 
 Muhammad ibn al-Hasan reported from Abu Hanifah to have said: "I imitate
 the mufti judges among the Companions like Abu Bakr, Umar, Uthman, Ali
@@ -86,7 +80,7 @@ in mind at the end of his life, and he used to issue verdicts from his
 intellect, and I never imitate his intellect. Concerning Abu Hurayrah,
 he used to narrate whatever reaching his ears without meditating the
 meaning and without discerning between the abrogating (nasikh) and
-abrogated (mansukh)." <span id="_anchor_383"></span>383
+abrogated (mansukh)." 383
 
 Abu Yusuf is reported to have said: I said to Abu Hanifah: Every report
 reaching me from the Messenger of Allah contradicts our analogy (qiyas),
@@ -99,7 +93,7 @@ The same is true.
 
 When I began to enumerate the Companions, he said: All the Companions
 are just except some referring among them to Abu Hurayrah and Anas ibn
-Malik. <span id="_anchor_384"></span>384
+Malik. 384
 
 Ibrahim al-Nakha'i is reported to have said: Our companions used to
 claim some of the traditions reported by Abu Hurayrah and reporting of
@@ -110,11 +104,10 @@ Al-Thawri reported from Mansur ibn Ibrahim as saying: They (Companions)
 were observing something in the traditions of the Messenger of Allah,
 and were never approving of all the traditions of Abu Hurayrah except
 those describing the paradise or fire, or urging toward a virtuous deed,
-or forbidding from an evil mentioned in the Qur'an. <span
-id="_anchor_385"></span>385
+or forbidding from an evil mentioned in the Qur'an. 385
 
 Abu Shamah reported from al-A'mash that he said: Ibrahim was known of
-correct hadith, <span id="_anchor_386"></span>386 and whenever hearing
+correct hadith, 386 and whenever hearing
 any hadith I would come toward him and put it before him. Once a day I
 brought him some traditions of Abu Salih that he reported from Abu
 Hurayrah, when he said: Forget about
@@ -126,27 +119,22 @@ Abu Ja'far al-Iskafi is reported to have said: Our Shaykhs were of the
 opinion that Abu Hurayrah was fraudulent and of disapproved narration...
 he was beaten by Umar who said to him: You have been relating so many
 traditions, and I see you to be falsifying traditions of the Messenger
-of Allah. <span id="_anchor_387"></span>387  
+of Allah. 387  
 
 Ibn al-Athir said: Concerning narration of Abu Hurayrah, there was much
-suspicion regarding it due to its abundance. <span
-id="_anchor_388"></span>388
+suspicion regarding it due to its abundance. 388
 
 In al-Ahkam, al-Amudi writes: The Companions disapproved multiplicity of
 narrations of Abu Hurayrah since with multiplicity one can never be
 immune against difference and inexactitude with which that whose
 narration is less can never be inflicted.
 
-One day, the issue of Misrat <span id="_anchor_389"></span>389  took
+One day, the issue of Misrat 389  took
 place in the meeting of al-Rashid regarding which a quarrel erupted
 among the attendants, who started to produce loud voices, with some of
 whom arguing with the hadith related by Abu Hurayrah. One of them
 refuted the hadith saying: Abu Hurayrah is suspected in whatever he
 narrates, the example of whom was followed by al-Rashid.
-
-  
-  
-  
 
 376. See p. 48.
 

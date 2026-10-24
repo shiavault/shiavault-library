@@ -725,4 +725,3 @@ if someone is waiting for him, it is better that he should break his
 fast first and offer the prayers later. However, as far as possible, he
 should try to offer the prayers during the prime time (Fadheelat).
 
-

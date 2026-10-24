@@ -168,4 +168,3 @@ no. 16.
 [^9]: Kamāl al-dīn, vol. 2, chap. 39, p. 411, no. 6; Biḥār al-anwār,
 vol. 51, chap. 1, p. 73, no. 19.
 
-

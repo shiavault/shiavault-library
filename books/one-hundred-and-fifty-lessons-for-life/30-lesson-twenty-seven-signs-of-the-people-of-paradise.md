@@ -3,12 +3,8 @@ Lesson Twenty Seven: Signs of the People of Paradise
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إنَّ لاَِهْلِ الْجَنَّةِ اَرْبَعَ عَلامات: وَجْهٌ مُنْبَسِطٌ وَ
-لِسانٌ فَصِيْحٌ وَ قَلْبٌ رَحِيْمٌ وَ يَدٌ مُعْطِيَةٌ"
-  </p>
-</blockquote>
+> "إنَّ لاَِهْلِ الْجَنَّةِ اَرْبَعَ عَلامات: وَجْهٌ مُنْبَسِطٌ وَ
+> لِسانٌ فَصِيْحٌ وَ قَلْبٌ رَحِيْمٌ وَ يَدٌ مُعْطِيَةٌ"
 
 Translation
 -----------
@@ -32,5 +28,4 @@ with hearts yearning to help people, and hands not holding back
 assistance – Yes! these are the signs of the people of paradise.
 
 [^1]: Irshad al-Qulub
-
 

@@ -3900,4 +3900,3 @@ Morris Cornforth.
 [^75]: For clarification, see the book Our Economics, by the author, pp.
 93-100.
 
-

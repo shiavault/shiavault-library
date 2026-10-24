@@ -80,4 +80,3 @@ from them. He stopped the rain and cultivation of crops. The people of
 Sabah became impoverished and deprived. Now they weighed and distributed
 among themselves the same bread for consumption.”
 
-

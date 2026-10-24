@@ -50,4 +50,3 @@ Tahir Ridha Jaffer
  Qum, Iran  
  12th of May, 2006 ce
 
-

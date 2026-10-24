@@ -104,4 +104,3 @@ Ihram on the 10th of Dhulhijja at Munna which is Idd
 
 • Snacks like Ghatia, chevda, Khari Puri, cookies, cheese and buns.
 
-

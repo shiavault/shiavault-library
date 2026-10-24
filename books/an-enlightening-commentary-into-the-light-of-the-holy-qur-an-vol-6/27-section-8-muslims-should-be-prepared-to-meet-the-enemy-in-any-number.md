@@ -4,19 +4,11 @@ Section 8: Muslims Should be Prepared to Meet the Enemy in Any Number
 Surah Al-Anfal – Verses 58-59
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْبِذْ إِلَيْهِمْ عَلَىٰ
-سَوَاءٍ ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْخَائِنِينَ
-  </p>
-</blockquote>
+> وَإِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْبِذْ إِلَيْهِمْ عَلَىٰ
+> سَوَاءٍ ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْخَائِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا سَبَقُوا ۚ إِنَّهُمْ لَا
-يُعْجِزُونَ
-  </p>
-</blockquote>
+> وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا سَبَقُوا ۚ إِنَّهُمْ لَا
+> يُعْجِزُونَ
 
 **58*****. “And if you fear treachery from a people, break off (the
 covenant) with them in like manner. Verily Allah does not like the
@@ -61,15 +53,11 @@ continues saying:
 Surah Al-Anfal – Verse 60
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ
-الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ وَآخَرِينَ
-مِنْ دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ ۚ وَمَا
-تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ
-وَأَنْتُمْ لَا تُظْلَمُونَ
-  </p>
-</blockquote>
+> وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ
+> الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ وَآخَرِينَ
+> مِنْ دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ ۚ وَمَا
+> تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ
+> وَأَنْتُمْ لَا تُظْلَمُونَ
 
 **60*****. “And prepare against them whatever you can of (military)
 power and of war-horses, to frighten thereby the enemy of Allah, and
@@ -199,12 +187,8 @@ sufficiently in stables, not those which are left free.
 Surah Al-Anfal – Verse 61
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ
-إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ
+> إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 ***61. “And if they incline to peace, then you (too) incline to it and
 put your trust in Allah; verily He is the All-Hearing, the
@@ -230,12 +214,8 @@ All-Knowing.”***
 Surah Al-Anfal – Verse 62
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ يُرِيدُوا أَنْ يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ ۚ هُوَ
-الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَإِنْ يُرِيدُوا أَنْ يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ ۚ هُوَ
+> الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ
 
 ***62. “And if they intend to deceive you, Allah is indeed sufficient
 for you. It is He Who strengthened you with His help and with (the
@@ -276,13 +256,9 @@ of) the believers.”***
 Surah Al-Anfal – Verse 63
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ
-جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ
-بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ
+> جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ
+> بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ حَكِيمٌ
 
 **63*****. “And He caused affection between their hearts. Had you spent
 all that is in the earth, you could not have caused affection between
@@ -323,12 +299,8 @@ Mighty, the Wise.”***
 Surah Al-Anfal – Verse 64
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ حَسْبُكَ اللَّهُ وَمَنِ اتَّبَعَكَ مِنَ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ حَسْبُكَ اللَّهُ وَمَنِ اتَّبَعَكَ مِنَ
+> الْمُؤْمِنِينَ
 
 **64*****. “O Prophet! Allah suffices you, and the believers who follow
 you.”***
@@ -361,5 +333,4 @@ useless. The verse says:
 [^4]: Tafsir-ul-Furqan, taken from Durr-ul-Manthur, vol. 3, p. 199
 
 [^5]: Al-Qadir, vol. 3, p. 51
-
 

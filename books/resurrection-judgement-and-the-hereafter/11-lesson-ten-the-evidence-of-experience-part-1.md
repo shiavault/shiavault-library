@@ -314,4 +314,3 @@ regards as definite, it suffices to give us a sense of a vast and
 unknown realm that psychic science has only just begun to explore. (Du
 *Sarchishma-yi Akhlaq va Din,* p. 354)
 
-

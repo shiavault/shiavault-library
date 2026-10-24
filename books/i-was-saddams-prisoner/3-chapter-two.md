@@ -53,4 +53,3 @@ environment he added *"Inna Anzalnahu Fi Thamani Khamseen”* - Verily we
 have sent him down to No: 58…………  
    
 
-

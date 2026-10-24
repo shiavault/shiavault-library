@@ -56,4 +56,3 @@ If he has forgotten more than three rounds, he should return and perform
 the missed ones. It is better, though, that having done so, he should,
 as a matter of precaution, perform another full tawaf,
 
-

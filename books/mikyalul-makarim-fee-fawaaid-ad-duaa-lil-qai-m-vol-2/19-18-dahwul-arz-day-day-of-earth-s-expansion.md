@@ -35,4 +35,3 @@ best form of Allah’s remembrance.
 
 [^1]: Iqbaalul Aamaal, Pg. 312; Zaad al-Maad, Pg. 236
 
-

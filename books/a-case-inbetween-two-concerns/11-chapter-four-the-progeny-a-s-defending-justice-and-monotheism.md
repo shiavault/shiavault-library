@@ -133,7 +133,6 @@ Imam(A.S.) said:
 (Aye Aye O old man! You may never climb a hill or descend into a valley
 only by the destiny and fate of Allah).
 
-
 **2. (Destiny and Fate) is the Divine System in the Universe and in
 Man’s life**
 
@@ -188,5 +187,4 @@ I heard the Messenger of Allah (S.A.) saying:
 
 (Allah (Exalted be His Supremacy) said: that who does not accept my
 destiny and fate ought to seek a god other than Me.).([^6])
-
 

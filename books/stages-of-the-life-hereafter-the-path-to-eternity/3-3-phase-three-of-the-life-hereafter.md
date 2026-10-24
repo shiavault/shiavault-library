@@ -4,11 +4,7 @@
 Wahshat al-Qabr: Grave's Loneliness
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وحشة القبر
-  </p>
-</blockquote>
+> وحشة القبر
 
 According to the book titled Man la Yahdhuruhu al-Faqih, there are
 tremendous horrors in the grave; therefore, when the deceased person is
@@ -33,14 +29,10 @@ is frightful, horrific." It has also been narrated that Fatima az-Zahra
 (peace be with her) said once to her revered husband, Commander of the
 Faithful Ali (as), by way of her will:
 
-<blockquote dir="rtl">
-  <p>
-وروي : انَّ فاطمة عليها السلام لمّا احتضرت أوصت علياً عليه السلام
-فقالت : «اذا أنا مت، فتول أنت غسلي وجهزّني ، وصلّ عليَّ وانزلني قبري
-وألحدني ، وسوّ التراب عليّ، واجلس عند رأسي قبالة وجهي ، فأكثر من تلاوة
-القرآن والدعاء فانّها ساعة يحتاج الميت فيها الى أُنس الأحياء»
-  </p>
-</blockquote>
+> وروي : انَّ فاطمة عليها السلام لمّا احتضرت أوصت علياً عليه السلام
+> فقالت : «اذا أنا مت، فتول أنت غسلي وجهزّني ، وصلّ عليَّ وانزلني قبري
+> وألحدني ، وسوّ التراب عليّ، واجلس عند رأسي قبالة وجهي ، فأكثر من تلاوة
+> القرآن والدعاء فانّها ساعة يحتاج الميت فيها الى أُنس الأحياء»
 
 "When I die, wash my body and outfit me [with the shrouds], perform
 prayers for me, get me inside the grave, place the grave stone, bury me
@@ -50,17 +42,13 @@ the company of those alive." We are told on p. 148, Vol. 1, of Mustadrak
 al-Wasa'il that Ibn Tawoos, may Allah‎ have mercy on his soul, has
 quoted the Prophet (P) as saying:
 
-<blockquote dir="rtl">
-  <p>
-«لا يأتي على الميت ساعة أشدّ من أول ليلة فارحموا موتاكم بالصدقة ، فان
-لم تجدوا فليصل أحدكم ركعتين يقرا فيهما فاتحة الكتاب مرّة وآية الكرسي
-مرّة ، وقل هو الله احد مرّتين ، وفي الثانية فاتحة الكتاب مرّة والهاكم
-التكاثر عشر مرّات ويسلم ويقول : اللّهمّ صلّ على محمّد وآل محمّد وابعث
-ثوابها الى قبر ذلك الميت فلان بن فلان ، فيبعث الله مِن ساعته الف ملك
-الى قبره مع كل ملك ثوب وحلة ويوسع في قبره من الضيق الى يوم ينفخ في
-الصور ويعطى المصلي بعدد ما طلعت عليه الشمس حسنات ويرفع له أربعون درجة»
-  </p>
-</blockquote>
+> «لا يأتي على الميت ساعة أشدّ من أول ليلة فارحموا موتاكم بالصدقة ، فان
+> لم تجدوا فليصل أحدكم ركعتين يقرا فيهما فاتحة الكتاب مرّة وآية الكرسي
+> مرّة ، وقل هو الله احد مرّتين ، وفي الثانية فاتحة الكتاب مرّة والهاكم
+> التكاثر عشر مرّات ويسلم ويقول : اللّهمّ صلّ على محمّد وآل محمّد وابعث
+> ثوابها الى قبر ذلك الميت فلان بن فلان ، فيبعث الله مِن ساعته الف ملك
+> الى قبره مع كل ملك ثوب وحلة ويوسع في قبره من الضيق الى يوم ينفخ في
+> الصور ويعطى المصلي بعدد ما طلعت عليه الشمس حسنات ويرفع له أربعون درجة»
 
 "There is nothing harder for the deceased person than the first night in
 the grave; so, send mercy to your dead by offering charity on his
@@ -108,15 +96,10 @@ Da\`awat that the Prophet (P) has said that if one recites the following
 supplication three times when a deceased person is buried, the torment
 from the latter will be lifted till the Trumpet is blown:
 
-<blockquote dir="rtl">
-  <p>
-(اللّهمَّ إنِّي أسألكَ بحق محمدٍ وآل محمدٍ أن لا تُعَذِبَ هذا
-المَيِتَ)
-  </p>
-</blockquote>
+> (اللّهمَّ إنِّي أسألكَ بحق محمدٍ وآل محمدٍ أن لا تُعَذِبَ هذا
+> المَيِتَ)
 
 Lord! I plead to You through the status reserved with you for Muhammad
 (P) and the Progeny of Muhammad (P) not to torment this deceased person
 till the Day when the trumpet is blown."
-
 

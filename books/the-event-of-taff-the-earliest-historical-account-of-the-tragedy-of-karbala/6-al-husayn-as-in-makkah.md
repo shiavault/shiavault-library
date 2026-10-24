@@ -597,4 +597,3 @@ towards Makkah, as reported in Ibsar al-‘Ain (pg.16).
 (pg.197) with a slight difference. Al-Tabari has also related it on the
 authority of Mu’awiyah bin ‘Ammar from Imam al-Baqir (as) (5:347).
 
-

@@ -18,4 +18,3 @@ Maytham was astonished because no one knew his real name. So, he said:
 
 Since that day, Maytham had not left the Imam.
 
-

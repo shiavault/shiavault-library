@@ -220,4 +220,3 @@ Bear in mind that these are not the direct acts of Yazid as such; they
 were perpetrated by his father, Muawiya. However, the heinous acts that
 he himself committed after his succession surpasses those of his father.
 
-

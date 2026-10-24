@@ -1,13 +1,9 @@
 Discourse 40: Training of the Soul
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إِبْنِ عَبَّاسِ قَالَ: قَالَ رَسُولُ اللٌّهِ : يُرى جَزَآءُ مَا
-قُدِّمَ، وَ قِلَّةُ غِنًا مَا خُلِّفَ وَ لَعَلَّهُ مَنْ حَقَّ مُنِعَهُ
-وَ مَنْ بَاطَلَ جَمْعَهُ.
-  </p>
-</blockquote>
+> عَنْ إِبْنِ عَبَّاسِ قَالَ: قَالَ رَسُولُ اللٌّهِ : يُرى جَزَآءُ مَا
+> قُدِّمَ، وَ قِلَّةُ غِنًا مَا خُلِّفَ وَ لَعَلَّهُ مَنْ حَقَّ مُنِعَهُ
+> وَ مَنْ بَاطَلَ جَمْعَهُ.
 
 It has been narrated from b. 'Abbas that the Messenger of Allah (S)
 said, “That which is sent forth will be seen and that which is left
@@ -32,13 +28,9 @@ this tradition, the person will see all of these things there. This same
 issue can also be seen in various verses of the Qur\`an and in one
 particular verse of the Qur\`an in which we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْذَرْنَاكُمْ عَذَاباً قَرِيـباً يَوْمَ يَنْظُرُ الْمَرْءُ
-مَا قَدَّمَتْ يَدَاهُ وَ يَقُولُ الْكَافِرُ يَا لَيْتَنِـي كُنْتُ
-تُرَاباً
-  </p>
-</blockquote>
+> إِنَّا أَنْذَرْنَاكُمْ عَذَاباً قَرِيـباً يَوْمَ يَنْظُرُ الْمَرْءُ
+> مَا قَدَّمَتْ يَدَاهُ وَ يَقُولُ الْكَافِرُ يَا لَيْتَنِـي كُنْتُ
+> تُرَاباً
 
 “Verily, We have warned you of a penalty near - the Day when man will
 see (the deeds) which his hands have sent forth, and the Unbeliever will
@@ -126,11 +118,7 @@ soul was contained within giving that one dry date by his own hands.
 As for that which will truly benefit a person on the Day of Resurrection
 is a pure heart (Qalb-e-Saleem) just as we read in the Noble Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ اَتَـى اللٌّهَ بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> إِلاَّ مَنْ اَتَـى اللٌّهَ بِقَلْبٍ سَلِيمٍ
 
 “Except for the one who comes to Allah with a pure heart
 (Qalb-e-Saleem)”[^3]
@@ -155,11 +143,7 @@ training of a person.
 We are of the firm belief that all of our actions help him us achieve
 perfection and reach the ultimate aim and purpose of life which is:
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ لِيَعْـبُدُونَ
-  </p>
-</blockquote>
+> إِلاَّ لِيَعْـبُدُونَ
 
 And this purpose is the worship and cognizance of Allah (SwT).
 
@@ -168,11 +152,7 @@ servants - meaning the perfect human being - and this ultimate goal can
 not be accomplished except with a pure intention and thus, it has been
 mentioned in Bihar al-Anwar (volume 76, Page 210) that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الأََعْمَالُ بِالنِّيَّاتِ.
-  </p>
-</blockquote>
+> إِنَّمَا الأََعْمَالُ بِالنِّيَّاتِ.
 
 “Surely all actions are  based on the intention.”
 
@@ -220,12 +200,8 @@ Bahurul 'Ulum, however the first and second section - meaning almost
 two-thirds of this treatise expound upon important issues which form the
 basis of the tradition found on page 22, which states:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَخْلَصَ لِلٌّهِ أَرْبَعِينَ صَـبَاحاً، جَرَتْ يَنَابِيعُ
-الْحِكْمَةِ مِنْ قَلْبِهِ إِلـى لِسَانِهِ.
-  </p>
-</blockquote>
+> مَنْ أَخْلَصَ لِلٌّهِ أَرْبَعِينَ صَـبَاحاً، جَرَتْ يَنَابِيعُ
+> الْحِكْمَةِ مِنْ قَلْبِهِ إِلـى لِسَانِهِ.
 
 “One who sincerely dedicates himself to Allah for forty mornings will
 have springs of wisdom (al-Hikmah) flow from his heart to his tongue.”
@@ -282,5 +258,4 @@ person (and not the physical heart) - (Tafsir-e-Namuna, vol. 15, pp.
 
 [^6]: This work can be read at: www.al-islam.org/al-tawhid/sayrsuluk/
 (Tr.)
-
 

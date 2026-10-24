@@ -35,4 +35,3 @@ is a cause of advancement of his reappearance and victory.
 
 [^1]: Biharul Anwar; Vol. 8, Pg. 121
 
-

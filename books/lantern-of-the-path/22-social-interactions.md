@@ -20,22 +20,13 @@ compassionate when you forbid evil.
 
 Never abandon good counsel in any circumstance. As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَقُولُواْ لِلنَّاسِ حُسْناً
-  </p>
-</blockquote>
-
-
+> وَقُولُواْ لِلنَّاسِ حُسْناً
 
 ***Speak to men good words.*** (2:83)
-
 
 Cut yourself off from what makes you forget to remember Allah, when
 temptation distracts you from obedience to Him, for that comes from the
 friends and helpers of Satan. Do not allow the sight of them to move you
 to dissimulation with the truth, for that would be a terrible loss
 indeed. We seek refuge with Almighty Allah.
-
 

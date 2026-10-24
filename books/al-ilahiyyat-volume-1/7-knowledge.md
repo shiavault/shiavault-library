@@ -707,8 +707,8 @@ known that Zaid was sitting in this house, after his departure, when His
 first knowledge remains, becomes ignorance, and if is removed, change
 becomes a must.”[^10]
 
-<span id="misconception-analyzed">[Misconception
-Analyzed](#misconception-analyzed)</span>
+[Misconception
+Analyzed](#misconception-analyzed)
 This misconception is extremely weak, and its rebuttal is:
 
 **First:** The revocation might. If knowledge of details requires it to
@@ -764,8 +764,8 @@ that is, Zaid sitting for a while at home, then he came out of it at
 another time, is relevant to sitting and coming out once and there is no
 sense here for advancing and delaying.
 
-<span id="another-way-resolve-misconception">[Another Way to Resolve
-Misconception](#another-way-resolve-misconception)</span>
+[Another Way to Resolve
+Misconception](#another-way-resolve-misconception)
 This misconception is based on the supposition that His knowledge of
 things, Praised is He, is incidental through the drawn images that stand
 through Him, Glory to Him, the change in what is known will then be
@@ -1013,5 +1013,4 @@ abstractions and its explanations.
 [^16]: Ibid., sermon 198.
 
 [^17]: Ibid., sermon 86.
-
 

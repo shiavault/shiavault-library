@@ -370,11 +370,7 @@ unconditional verses in a different way.
 
 One is a part of Ayatul-kursi (2:255-257) and is well-known;
 
-<blockquote dir="rtl">
-  <p>
-لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
-  </p>
-</blockquote>
+> لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
 
 «La ikraha fid-din. Qat-tabayanar-rushdo min al-ghayy.»
 
@@ -436,11 +432,7 @@ force them to leave their religion and embrace Islam.” The Holy Prophet
 told them: “No. Now that they have chosen to go with the Jews, let them
 go with them.” And the commentators say that it was then that the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
-  </p>
-</blockquote>
+> لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
 
 «La ikraha fid-din. Qat-tabayanar-rushdo min al-ghayy» (2:256)
 
@@ -581,5 +573,4 @@ The third series of verses make it perfectly clear to us that the call
 of Islam is not sounded with any force of arms.
 
 And in the fourth group Islam decisively announces its love of peace.
-
 

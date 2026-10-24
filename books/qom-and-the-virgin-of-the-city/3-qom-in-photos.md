@@ -78,7 +78,7 @@ governorate
 ![](images/049.jpg)
 
 ![](images/050.jpg)  
-  
+
  As you are at the outskirts of the city, you will see these two
 minarets, which visitors’ hearts beat to see.
 
@@ -104,7 +104,7 @@ as a guest among the people of Qom
 ![](images/051_c.jpg)
 
 ![](images/052.jpg)  
-  
+
  Al-Masjid al-A’dham (great mosque): it has been established by the late
 leader Sayyid Buroojardi in 1374 A.H. It lies beside the pure shrine of
 Lady Fatima al-Ma’ssooma (s). After the Islamic Revolution, the mosque

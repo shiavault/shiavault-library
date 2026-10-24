@@ -32,4 +32,3 @@ neglecting materialistic supremacy, but putting it in its rightful
 place. It is with the satisfaction of God that Muslims seek
 materialistic supremacy.
 
-

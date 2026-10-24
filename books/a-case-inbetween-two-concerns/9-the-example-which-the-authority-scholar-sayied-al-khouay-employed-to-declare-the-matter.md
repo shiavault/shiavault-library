@@ -252,4 +252,3 @@ This is arrogance and ignorance from those who adhere to it; and
 malfunctioning and impotence from those who rely on it; end of AL Shaikh
 AL Mufeed’s discussion.
 
-

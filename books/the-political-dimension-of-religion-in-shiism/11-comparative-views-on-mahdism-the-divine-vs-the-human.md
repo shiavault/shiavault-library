@@ -314,4 +314,3 @@ mankind from which others branched: (a) desire for worldly gains, which
 he considered as a natural phenomenon and (b) religious differences,
 which were not natural, but based on the revolt of mischief-makers.
 
-

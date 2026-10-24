@@ -175,23 +175,23 @@ toys need not be expensive and very attractive.
 
 The games for children can be categorized as:
 
-<span style="font-size: 16pt">Games which a child can play
-individually.</span>
+Games which a child can play
+individually.
 
-<span style="font-size: 16pt">Games which two or more children can play
-together.</span>
+Games which two or more children can play
+together.
 
-<span style="font-size: 16pt">Educational games which give a fillip to
-mental capability of the children.</span>
+Educational games which give a fillip to
+mental capability of the children.
 
-<span style="font-size: 16pt">Outdoor games which provide growth to the
-physique of the children.</span>
+Outdoor games which provide growth to the
+physique of the children.
 
-<span style="font-size: 16pt">Games which promote in the children the
-capability of defense and attack.</span>
+Games which promote in the children the
+capability of defense and attack.
 
-<span style="font-size: 16pt">Games that promote the spirit of
-co-operation amongst the children.</span>
+Games that promote the spirit of
+co-operation amongst the children.
 
 In the beginning a child plays alone. It must be left alone
 

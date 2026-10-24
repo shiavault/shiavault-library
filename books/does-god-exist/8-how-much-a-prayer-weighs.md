@@ -51,7 +51,6 @@ stunned silence. The lady thanked him and left the store. The customer
 handed a fifty-dollar ($50) bill to the grocer and said, "It was worth
 every penny of it." Only God knows how much a prayer weighs.
 
-
 **Pray to Almighty God**
 
 The holy Qur'an says:
@@ -211,7 +210,6 @@ all emperors on this earth.
 Moral of the Story: If you ask in Prayer, ask only from Allah (SWT),
 and if you seek help, seek it only from Allah (SWT).
 
-
 **Conclusion**
 
 In the end, it has to be said that the so called ups and downs are a
@@ -241,5 +239,4 @@ Finally, imaging our Solar system and comparing different planets of it
 make us understand how small and insignificant we really are in the
 overall scheme of things. Certainly puts the Creator on a different
 level!
-
 

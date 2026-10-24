@@ -39,4 +39,3 @@ Ali Raza Swalehi
 
 *1st Mah-e-Ramadhan 1429 AH.*
 
-

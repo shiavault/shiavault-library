@@ -59,22 +59,14 @@ In addition to the verse you have mentioned:
 there are others that proclaim the universality and perpetuality of the
 message of Islam. The following are some examples:
 
-<blockquote dir="rtl">
-  <p>
-وَأُوحِيَ إِلَيَّ هَٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ
-ۚ
-  </p>
-</blockquote>
+> وَأُوحِيَ إِلَيَّ هَٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ
+> ۚ
 
 ***“…And this Qur’an has been revealed to me that I may warn thereby you
 and whomever it may reach…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ
-يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ
+> يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ
 
 ***“…Indeed it is an august Book: falsehood cannot approach it, neither
 from before it nor from behind it…”***[^4]
@@ -87,32 +79,20 @@ other revealed books also imply the Noble Prophet’s superiority, for the
 Noble Qur’an is the Prophet’s message, and a prophet’s merit is
 determined by his message
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ
-  </p>
-</blockquote>
+> وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ
 
 ***“…We have sent down the Book to you as a clarification of all
 things…”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-وَآتَيْنَاهُ الْإِنْجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِمَا
-بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَهُدًى وَمَوْعِظَةً لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَآتَيْنَاهُ الْإِنْجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِمَا
+> بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَهُدًى وَمَوْعِظَةً لِلْمُتَّقِينَ
 
 ***“We have sent down to you the Book with the truth, confirming what
 was before it of the Book and as a guardian over it…”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
-أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
-وَعِيسَىٰ ۖ
-  </p>
-</blockquote>
+> شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
+> أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
+> وَعِيسَىٰ ۖ
 
 ***“He has prescribed for you the religion which He had enjoined upon
 Noah and which We have also revealed to you, and which We had enjoined
@@ -144,12 +124,8 @@ will be the masses of unbelievers (who constitute the majority of
 humankind), the “intellectually destitute,” those concerning whom God,
 the Exalted, says
 
-<blockquote dir="rtl">
-  <p>
-وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا
-يَتُوبُ عَلَيْهِمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا
+> يَتُوبُ عَلَيْهِمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ
 
 ***“There are others waiting God’s edict: He shall either punish them or
 turn to them clemently…”***[^10]
@@ -579,12 +555,8 @@ Is the world, from the Islamic perspective, in a state of flux?
 Change and evolution in the elements of this world is obvious and
 indubitable. The Qur’an thus expresses this truth:
 
-<blockquote dir="rtl">
-  <p>
-مَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا
-بِالْحَقِّ وَأَجَلٍ مُسَمًّى
-  </p>
-</blockquote>
+> مَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا
+> بِالْحَقِّ وَأَجَلٍ مُسَمًّى
 
 ***“We did not create the heavens and the earth and whatever is between
 them except with the truth and for a specified term…”***[^19]
@@ -609,22 +581,14 @@ From the Qur’anic point of view, the order that rules the cosmos and the
 laws that the elements of creation follow spring from the immutable and
 universal Divine Norm:
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ
-لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ
-تَحْوِيلًا
-  </p>
-</blockquote>
+> فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ
+> لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ
+> تَحْوِيلًا
 
 ***“…You will never find any change in God’s Norm, and you will never
 find any revision in God’s Norm.”***[^20]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبِّي عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> إِنَّ رَبِّي عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
 
 ***“Indeed my Lord is on a straight path.”***[^21]
 
@@ -679,23 +643,15 @@ Of course, with every new development new laws emerge that previously
 had no application. This, however, does not violate the governing Divine
 Norm, as God Himself asserts in His Book:
 
-<blockquote dir="rtl">
-  <p>
-مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ
-مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ
+> مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“For any sign that We abrogate or remove from memories, We bring
 another which is better than it, or similar to it…”***[^22]
 
 And regarding the expansion of the world He says,
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ
-  </p>
-</blockquote>
+> وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ
 
 ***“We have built the sky with might, and indeed it is We who are its
 expanders.”***[^23]
@@ -716,25 +672,13 @@ the tiny atom to the complex human being, is the natural and inherent
 progressive motion of each creature. Regarding human creation, for
 instance, the Qur’an explains:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنْسَانِ
-مِنْ طِينٍ
-  </p>
-</blockquote>
+> الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنْسَانِ
+> مِنْ طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِنْ رُوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ
-وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَا تَشْكُرُونَ
-  </p>
-</blockquote>
+> ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِنْ رُوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ
+> وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَا تَشْكُرُونَ
 
 ***“[God…] perfected everything that He created, and commenced man’s
 creation from clay. Then He made his progeny from an extract of a base
@@ -746,22 +690,14 @@ development in relation to human beings and other creatures. And in a
 number of verses the ultimate end of this trajectory is identified as
 meeting God, the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا
-فَمُلَاقِيهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا
+> فَمُلَاقِيهِ
 
 ***“O man! You are laboring toward you Lord laboriously, and you will
 encounter Him.”***[^25]
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِلَى اللَّهِ
-الْمَصِيرُ
-  </p>
-</blockquote>
+> وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِلَى اللَّهِ
+> الْمَصِيرُ
 
 ***“To God belongs the kingdom of the heavens and the earth, and toward
 God is the destination.”***[^26]
@@ -769,11 +705,7 @@ God is the destination.”***[^26]
 The Qur’an further asserts that the origin of existence is God, and it
 is to Him that all creatures return in perfection:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
 ***“God originates the creation, then He will bring it back, then you
 will be brought back to Him.”***[^27]
@@ -793,12 +725,8 @@ extinguished by death. His eternal felicity, which is his existential
 perfection, rests on faith and righteous conduct. These two constitute
 his true growth and spiritual advancement:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
-بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
+> بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
 
 ***“Indeed man is at a loss, except those who have faith and do
 righteous deeds…”***[^28]
@@ -808,12 +736,8 @@ elevates one nearer to God) and the performance of righteous deeds
 (which fortifies one’s beliefs) that are the main factors of human
 progress:
 
-<blockquote dir="rtl">
-  <p>
-إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ
-يَرْفَعُهُ ۚ
-  </p>
-</blockquote>
+> إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ
+> يَرْفَعُهُ ۚ
 
 ***“…To Him ascends the good word, and righteous conduct elevates
 it…”***[^29]
@@ -834,11 +758,7 @@ existential properties, and it is accompanied by knowledge. Qur’anic
 verses articulate the highest state of human perfection at length; one
 such verse is the following:
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
-  </p>
-</blockquote>
+> لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
 
 ***“There they will have whatever they wish, and with Us there is yet
 more.”***[^30]
@@ -908,22 +828,14 @@ The Noble Qur’an, the heavenly book of the sacred religion of Islam,
 explicitly testifies that Prophet Muhammad is the Seal of the Prophets
 and that the Qur’an is the final indissoluble book of God:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
-اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ
-  </p>
-</blockquote>
+> مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
+> اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ
 
 ***“… [Muhammad] is the apostle of God and the Seal of the
 Prophets…”***[^35]
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ
-يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ
+> يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
 
 ***“…Indeed [the Qur’an] is an august book: falsehood cannot approach
 it, neither from before it not from behind it, a gradually sent down
@@ -1128,12 +1040,8 @@ any being other than God]. Nevertheless, this bestowal in no way limits
 His omnipotence, for He is capable of taking away, at will, what He has
 bestowed:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ فَمَنْ يَمْلِكُ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ أَنْ يُهْلِكَ
-الْمَسِيحَ ابْنَ مَرْيَمَ وَأُمَّهُ وَمَنْ فِي الْأَرْضِ جَمِيعًا ۗ
-  </p>
-</blockquote>
+> قُلْ فَمَنْ يَمْلِكُ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ أَنْ يُهْلِكَ
+> الْمَسِيحَ ابْنَ مَرْيَمَ وَأُمَّهُ وَمَنْ فِي الْأَرْضِ جَمِيعًا ۗ
 
 ***“…Say, ‘Who can avail anything against God should He wish to destroy
 the Messiah, son of Mary, and his mother, and everyone upon the
@@ -1364,19 +1272,11 @@ Him—inviolable is His Name. This is the path of perfection that Islam
 sets forth. It is so valuable that to succeed in attaining to even the
 lowest stages of this journey is a praiseworthy achievement.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ
 
 ***“…Be wary of God with the wariness due to Him…”***[^47]
 
-<blockquote dir="rtl">
-  <p>
-فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ
-  </p>
-</blockquote>
+> فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ
 
 ***“So flee toward God. Indeed I am a manifest Warner to you from
 Him.”***[^48]
@@ -1451,11 +1351,7 @@ the Prophet was more elevated in status than ‘*Ali*?
 
 When God said to Abraham,
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
-  </p>
-</blockquote>
+> قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
 
 ***“…I am making you the Imam of mankind…”***[^49]
 
@@ -1466,11 +1362,7 @@ already been entrusted with the duty of guiding and preaching to
 humankind. Moreover, in His Book, God in several instances describes an
 “*imam”* as one who is responsible for the guidance of humankind.
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا
 
 ***“…We made them Imams who guide by Our command…”***[^51]
 
@@ -1579,11 +1471,7 @@ The Sufis’ Remark Concerning the Qur’anic Statement “He Is the First and H
 
 Some Sufis are of the opinion that the pronoun in the verse,
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الْأَوَّلُ وَالْآخِرُ
-  </p>
-</blockquote>
+> هُوَ الْأَوَّلُ وَالْآخِرُ
 
 ***“He is the First and the Last.”***[^55]
 
@@ -1594,45 +1482,25 @@ would be to doubt the authenticity of the *hadith*s in question. But the
 truth is that there are many similar pronouns in the Qur’an whose
 antecedent is undoubtedly God:
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ يَهْدِينِ …
-  </p>
-</blockquote>
+> فَهُوَ يَهْدِينِ …
 
 ***“…It is He who guides me.”***[^56]
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ يَشْفِينِ …
-  </p>
-</blockquote>
+> فَهُوَ يَشْفِينِ …
 
 ***“…It is He who cures me.”***[^57]
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي فِي السَّمَاءِ إِلَٰهٌ وَفِي الْأَرْضِ إِلَٰهٌ ۚ وَهُوَ
-الْحَكِيمُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي فِي السَّمَاءِ إِلَٰهٌ وَفِي الْأَرْضِ إِلَٰهٌ ۚ وَهُوَ
+> الْحَكِيمُ الْعَلِيمُ
 
 ***“It is He who is God in the sky, and God on the earth; and He is the
 All-wise, the All-knowing.”***[^58]
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ …
-  </p>
-</blockquote>
+> وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ …
 
 ***“…He is the All-exalted, the All-great.”***[^59]
 
-<blockquote dir="rtl">
-  <p>
-الْحَيِّ الَّذِي لَا يَمُوتُ.…
-  </p>
-</blockquote>
+> الْحَيِّ الَّذِي لَا يَمُوتُ.…
 
 ***“…The Living One who does not die…”***[^60]
 
@@ -1649,11 +1517,7 @@ the last to depart him (he buried the Prophet’s sacred body). But
 leaving these *hadith*s aside, the verse in question (57:3) seems to be
 indicating God, Who has always been and will always be.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ إِلَىٰ رَبِّكَ الْمُنْتَهَىٰ
-  </p>
-</blockquote>
+> وَأَنَّ إِلَىٰ رَبِّكَ الْمُنْتَهَىٰ
 
 ***“Indeed toward your Lord is the journey.”***[^61]
 
@@ -1669,11 +1533,7 @@ state that in the creation of contingent beings, God is a “partial
 cause.”[^62] But how is this conceivable in light of the Qur’an’s
 assertion that
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ
-  </p>
-</blockquote>
+> لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ
 
 ***“…Nothing is like Him…”***[^63]
 
@@ -1729,11 +1589,7 @@ Self-Sufficient Being.
 It may be objected that the ascription of causality to God’s creatures
 runs against the Qur’anic verse,
 
-<blockquote dir="rtl">
-  <p>
-هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ…
-  </p>
-</blockquote>
+> هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ…
 
 ***“…Is there any creator other than God…”***[^65]
 
@@ -1744,20 +1600,12 @@ latter understanding is verified by the Qur’an itself where it confirms
 that there are other “creators” beside God. Among the verses to this
 effect are the following:
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 ***“So blessed is God, the best of creators.”***[^66]
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي
-فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي
-  </p>
-</blockquote>
+> وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي
+> فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي
 
 ***“…And when you [i.e., Jesus Christ] would create from clay the form
 of a bird, with My leave, and you would breathe into it and it would
@@ -1766,27 +1614,15 @@ become a bird, with my leave…”***[^67]
 This reading is further corroborated by the Qur’an where it alludes to
 the universal principle of causality
 
-<blockquote dir="rtl">
-  <p>
-وَبَدَأَ خَلْقَ الْإِنْسَانِ مِنْ طِينٍ
-  </p>
-</blockquote>
+> وَبَدَأَ خَلْقَ الْإِنْسَانِ مِنْ طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ
 
 ***“…And commenced man’s creation from clay. Then He made his progeny
 from an extract of base fluid.”***[^68]
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ
-مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ
-  </p>
-</blockquote>
+> خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ
+> مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ
 
 ***“… [God] created you from a single soul, and created its mate from
 it, and, from the two of them, scattered numerous men and
@@ -1895,12 +1731,8 @@ Curtailing an individual’s rights to uphold an important truth is an
 adversity for the affected individual but not injustice. Similarly, the
 punishment inflicted on a criminal, though unpleasant for him, is just—
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا
-اعْتَدَىٰ عَلَيْكُمْ ۚ
-  </p>
-</blockquote>
+> فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا
+> اعْتَدَىٰ عَلَيْكُمْ ۚ
 
 ***“…So should anyone aggress against you, assail him in the manner he
 assailed you…”***[^73]
@@ -1931,11 +1763,7 @@ ourselves have actually been established by God. In this light, God
 cannot be held accountable for the adversities that befall His
 creatures:
 
-<blockquote dir="rtl">
-  <p>
-وَيَفْعَلُ اللَّهُ مَا يَشَاءُ
-  </p>
-</blockquote>
+> وَيَفْعَلُ اللَّهُ مَا يَشَاءُ
 
 ***“…God does whatever He wishes…”***[^75]
 
@@ -1945,12 +1773,8 @@ God being exonerated because of His status.) In other words, the
 pleasant things we enjoy are favors He bestows on us out of His mercy
 and the hardships we encounter are the suspension of these favors:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ
-وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ ۚ
-  </p>
-</blockquote>
+> مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ
+> وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ ۚ
 
 ***“Whatever mercy God unfolds for the people no one can withhold; and
 whatever He withholds no one can release, except Him…”***[^76]
@@ -1965,22 +1789,14 @@ chastisement would constitute an injustice that God would not commit. In
 cases where human beings are condemned to eternal chastisement, it is
 due to their own disobedience:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ
-أَنْفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ
+> أَنْفُسَهُمْ يَظْلِمُونَ
 
 ***“Indeed God does not wrong people in the least; rather it is people
 who wrong themselves.”***[^77]
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا
-كُنْتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا
+> كُنْتُمْ تَعْمَلُونَ
 
 ***“Today no one will be done any injustice, nor will you be requited
 except for what you used to do.”***[^78]
@@ -1998,13 +1814,9 @@ child’s affliction is in effect the manifestation of the parents’ guilt,
 not its punishment. As regards compensation to hunted animals, the
 Qur’an explicitly states that animals will also be resurrected:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
-إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ
-شَيْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
-  </p>
-</blockquote>
+> وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
+> إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ
+> شَيْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
 
 ***“There is no animal on land, nor a bird that flies with its wings,
 but they are communities like you. We have not omitted anything from the
@@ -2031,19 +1843,11 @@ there really is injustice, where a creature’s right is violated, it will
 definitely be avenged; if not in this world then, as guaranteed by the
 Qur’an, in the Hereafter:
 
-<blockquote dir="rtl">
-  <p>
-لَا ظُلْمَ الْيَوْمَ
-  </p>
-</blockquote>
+> لَا ظُلْمَ الْيَوْمَ
 
 ***“…There will be no injustice today…”***[^80]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ
 
 **—*****“…God does not break His promise.”***[^81]
 
@@ -2334,5 +2138,4 @@ above. [trans.]
 [^80]: Surah al-Ghafir (or Mu’min) 40:17.
 
 [^81]: Surah al-Ra‘d 13:31.
-
 

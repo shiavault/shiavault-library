@@ -123,7 +123,6 @@ if he speaks, his life becomes embittered; and if he divorces her, he
 may feel the pang of separation. A wife who is beautiful but of evil
 character is a great calamity; such a one had better be divorced.
 
-
 The Prophet said, "He who seeks a wife for the sake of her beauty or
 wealth will lose both."
 
@@ -285,5 +284,4 @@ be erected on the Judgment Day.
 4. About ten shillings.
 5. The formula for divorce has to be repeated thrice to make it
 complete.
-
 

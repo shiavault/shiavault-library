@@ -709,4 +709,3 @@ Anwar, vol. XIX, page 131.
 
 [^14]: Seerah-i Ibn Hisham, vol. I, page 516.
 
-

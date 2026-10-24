@@ -117,23 +117,15 @@ The second point which must be mentioned is that in many of the verses
 of the Qur’an we see that humanity on a whole has been condemned – for
 example:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا ۝ إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
-۝ وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
-  </p>
-</blockquote>
+> إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا ۝ إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
+> ۝ وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
 
 ***Indeed man has been created covetous: anxious when an ill befalls him
 and grudging when good comes his way**.*[^3]
 
 In another place in the Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-...إِنَّهُ كَانَ ظَلُوماً جَهُولاً
-  </p>
-</blockquote>
+> ...إِنَّهُ كَانَ ظَلُوماً جَهُولاً
 
 ***…Indeed he (the human being) is most unjust and senseless.***[^4]
 
@@ -141,22 +133,14 @@ In yet another place in the Qur’an we read that the human being is one
 whose rejection of the bounties of God is transparent and apparent for
 everyone to see:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِنْسَانَ لَكَفُورٌ مُبِينٌ
-  </p>
-</blockquote>
+> إِنَّ الإِنْسَانَ لَكَفُورٌ مُبِينٌ
 
 ***Man is indeed a manifest ingrate.***[^5]
 
 In one more place, the human being has been considered as a creation
 that anytime a blessing reaches him, he goes into a state of rebellion:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِنْسَانَ لَيَطْغَى أَنْ رَآهُ اسْتَغْنَى
-  </p>
-</blockquote>
+> إِنَّ الإِنْسَانَ لَيَطْغَى أَنْ رَآهُ اسْتَغْنَى
 
 ***Indeed man becomes rebellious, when he considers himself without
 need.***[^6]
@@ -177,13 +161,9 @@ people who possess God-consciousness and submit to the orders of Allah,
 and principally [the existence of] humanity themselves have been
 introduced as the ultimate purpose behind the creation of the universe:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
-وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
-كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
+> وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
+> كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
 
 ***Certainly We have honoured the Children of Adam, and carried them
 over land and sea, and provided them with all the good things, and given
@@ -212,12 +192,8 @@ future.
 
 The Imam (a.s.) started off by saying:
 
-<blockquote dir="rtl">
-  <p>
-مَعَاشِرَ النَّاسِ إِنَّ النِّسَاءَ نَوَاقِصُ الْإِيمَانِ نَوَاقِصُ
-الْحُظُوظِ نَوَاقِصُ الْعُقُولِ.
-  </p>
-</blockquote>
+> مَعَاشِرَ النَّاسِ إِنَّ النِّسَاءَ نَوَاقِصُ الْإِيمَانِ نَوَاقِصُ
+> الْحُظُوظِ نَوَاقِصُ الْعُقُولِ.
 
 *O’ people! Women are ‘deficient’ in faith, ‘deficient’ in shares, and
 ‘deficient’ in intelligence.*
@@ -225,15 +201,11 @@ The Imam (a.s.) started off by saying:
 He then went on to explain the reasons behind each of these three forms
 of ‘deficiency’ and states:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا نُقْصَانُ إِيمَانِهِنَّ فَقُعُودُهُنَّ عَنِ الصَّلَاةِ وَ
-الصِّيَامِ فِي أَيَّامِ حَيْضِهِنَّ وَ أَمَّا نُقْصَانُ عُقُولِهِنَّ
-فَشَهَادَةُ امْرَأَتَيْنِ كَشَهَادَةِ الرَّجُلِ الْوَاحِدِ وَ أَمَّا
-نُقْصَانُ حُظُوظِهِنَّ فَمَوَارِيثُهُنَّ عَلَى الْأَنْصَافِ مِنْ
-مَوَارِيثِ الرِّجَالِ
-  </p>
-</blockquote>
+> فَأَمَّا نُقْصَانُ إِيمَانِهِنَّ فَقُعُودُهُنَّ عَنِ الصَّلَاةِ وَ
+> الصِّيَامِ فِي أَيَّامِ حَيْضِهِنَّ وَ أَمَّا نُقْصَانُ عُقُولِهِنَّ
+> فَشَهَادَةُ امْرَأَتَيْنِ كَشَهَادَةِ الرَّجُلِ الْوَاحِدِ وَ أَمَّا
+> نُقْصَانُ حُظُوظِهِنَّ فَمَوَارِيثُهُنَّ عَلَى الْأَنْصَافِ مِنْ
+> مَوَارِيثِ الرِّجَالِ
 
 *As regards to the ‘deficiency’ in their faith, it is their abstention
 from prayers and fasting during their menstrual period. As regards to
@@ -303,24 +275,16 @@ we will offer a more-in-depth commentary on this issue.
 At the end of the sermon, the Imam (a.s.) brings a short conclusion and
 states that:
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا شِرَارَ النِّسَآءِ وَ كُونُوا مِنْ خِيَارِهِنَّ عَلَى
-حَذَرٍ
-  </p>
-</blockquote>
+> فَاتَّقُوا شِرَارَ النِّسَآءِ وَ كُونُوا مِنْ خِيَارِهِنَّ عَلَى
+> حَذَرٍ
 
 *So beware of the evils of women. Be on your guard even from those of
 them who are (reportedly) good.*
 
 He concludes his sermon and says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَا تُطِيعُوهُنَّ فِي الْمَعْرُوفِ حَتَّى لَا يَطْمَعْنَ فِي
-الْمُنْكَرِ
-  </p>
-</blockquote>
+> وَ لَا تُطِيعُوهُنَّ فِي الْمَعْرُوفِ حَتَّى لَا يَطْمَعْنَ فِي
+> الْمُنْكَرِ
 
 *Do not obey them even in good things so that they may not attract you
 to the evil things.*
@@ -369,13 +333,9 @@ has actually been considered as a noble trait. For example in regards to
 weaning a child off of his mother’s milk, we read the following in
 Suratul Baqarah:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
-لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ... فَإِنْ أَرَادَا فِصَالاً
-عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا
-  </p>
-</blockquote>
+> وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
+> لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ... فَإِنْ أَرَادَا فِصَالاً
+> عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا
 
 ***Mothers shall suckle their children for two full years — that for
 such as desire to complete the suckling … And if the couple desire to
@@ -478,5 +438,4 @@ reproach.” (Eccles. 42:13-14)
 [^7]: Al-Qur’an, Suratul Isra’ (17), 70
 
 [^8]: Al-Qur’an, Suratul Baqarah (2), verse 233
-
 

@@ -99,4 +99,3 @@ why do they say his left rib? maybe they meant from the his sand remains
 and God knows better and it is all up to Him and no power except by
 Him.
 
-

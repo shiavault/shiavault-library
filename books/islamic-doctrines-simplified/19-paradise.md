@@ -44,4 +44,3 @@ High.
 Life in Paradise will be everlasting. Thus man never dies there nor is
 transferred to another world.
 
-

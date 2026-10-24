@@ -18,4 +18,3 @@ others; Prentice-Hall Inc., U.S.A.
 
 7. The Bridal Bed, by Joseph Braddock; Corgi Books, U.S.A.
 
-

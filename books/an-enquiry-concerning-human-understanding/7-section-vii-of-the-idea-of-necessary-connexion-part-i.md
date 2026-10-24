@@ -303,4 +303,3 @@ or show why the power is deficient in one case, not in another. Thirdly,
 This self-command is very different at different times. A man in health
 possesses more of it than one languishing with sickness.
 
-

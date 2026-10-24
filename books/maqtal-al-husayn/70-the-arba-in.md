@@ -410,4 +410,3 @@ Vol. 1, p. 382.
 [^20]: Kitab al-Umm, Vol. 1, p. 116. al-Mazni, Al-Mukhtasar, Vol. 1, p.
 90. al-Ghazali, Al-Wajiza, Vol. 1, p. 32.
 
-

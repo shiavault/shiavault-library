@@ -10,4 +10,3 @@ bibliographical references, are the following:
 • Iranian solar year designated by the abbreviation Sh (for Shamsi) and
 Gregorian year, e.g. 1256 Sh /1877 AD
 
-

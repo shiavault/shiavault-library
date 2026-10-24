@@ -1,12 +1,8 @@
 Section Twelve
 ==============
 
-<blockquote dir="rtl">
-  <p>
-وَلَعَنَ اللّهُ أُمَّةً أَسْرَجَتْ وَأَلْجَمَتْ وَتَنَقَّبَتْ
-لِقِتالِكَ
-  </p>
-</blockquote>
+> وَلَعَنَ اللّهُ أُمَّةً أَسْرَجَتْ وَأَلْجَمَتْ وَتَنَقَّبَتْ
+> لِقِتالِكَ
 
 “And may the curse of Allah be upon the nation that carried out, saw and
 were silent at your killing.”
@@ -54,5 +50,4 @@ considered to be out of the fold of Islam!
 
 One wonders if these same things can not be seen in all ages where truth
 is pitted against falsehood...
-
 

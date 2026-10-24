@@ -81,4 +81,3 @@ night and did not even inform Abu Bakr and Umar.
 [^2]: Ref. Maarijun Nubuwwah, Chapter 40, Pg. 221; Habibus Sayr;
 Rauzatus Safa, Pg. 135, Vol. 2.
 
-

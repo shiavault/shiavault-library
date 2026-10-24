@@ -762,4 +762,3 @@ and winter schools of young futurists on the more regular base.
 On something greater in the foreseeable future hardly it is possible to
 expect.
 
-

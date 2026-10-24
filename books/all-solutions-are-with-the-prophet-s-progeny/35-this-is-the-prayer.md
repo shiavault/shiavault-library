@@ -148,4 +148,3 @@ prayer while sitting in his chair, a patient, who cannot move, can offer
 it while lying down, a handicapped person can offer it in the way
 possible to him, and so on.
 
-

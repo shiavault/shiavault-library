@@ -209,4 +209,3 @@ denying it?
 7- Explain how intercession does not contradict with the claim that
 people’s prosperity depends on their own attempts and hard work.
 
-

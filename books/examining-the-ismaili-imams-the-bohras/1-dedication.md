@@ -1,14 +1,10 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا دَخَلُوْا عَلَيْہِ قَالُوْا يٰٓاَيُّہَا الْعَزِيْزُ مَسَّـنَا
-وَاَہْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَۃٍ مُّزْجٰىۃٍ فَاَوْفِ لَنَا
-الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا۰ۭ اِنَّ اللہَ يَجْزِي
-الْمُتَصَدِّقِيْنَ۸۸
-  </p>
-</blockquote>
+> فَلَمَّا دَخَلُوْا عَلَيْہِ قَالُوْا يٰٓاَيُّہَا الْعَزِيْزُ مَسَّـنَا
+> وَاَہْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَۃٍ مُّزْجٰىۃٍ فَاَوْفِ لَنَا
+> الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا۰ۭ اِنَّ اللہَ يَجْزِي
+> الْمُتَصَدِّقِيْنَ۸۸
 
 ***…Then, when they entered into his presence, they said, “O Aziz!
 Distress has befallen our family, and us, and we have brought [just] a
@@ -27,5 +23,4 @@ opportunity to study in her city and granting me the blessings of her
 proximity, through which I was able to complete this book.
 
 [^1]: Surah Yusuf (12), Ayah 88
-
 

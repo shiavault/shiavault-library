@@ -685,4 +685,3 @@ critics.
 
 [^1] Ansab al-Ashraf, Q 11/200.
 
-

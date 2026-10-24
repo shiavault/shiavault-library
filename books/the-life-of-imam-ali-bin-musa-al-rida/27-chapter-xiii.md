@@ -1,10 +1,6 @@
 Chapter Xiii
 ============
 
-  
-
-  
-
 THE TIME OF THE IMĀM
 ====================
 
@@ -38,12 +34,6 @@ was made by Atā al-Khurasāni, better known as Ibn al-Muqanna. That
 satellite appeared and the people saw it from a two-month distance, and
 then it disappeared from them, and concerning it Abū al-Alā al-Maarri
 has said:
-
-  
-
-  
-
-  
 
 Be watchful! The satellite whose head is masked
 
@@ -86,19 +76,12 @@ Depository of Wisdom *(Bayt al-Hikma)* after he had received them as
 well as he brought to it may books form Khurasān. Wherever he heard of a
 book, he brought the book to it.[[4]](#_ftn1372)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1369) Al-A'lām, vol. 5, p. 29.  
  [[2]](#_F1370) Ibn Khullakān, Wafayāt al-A'yān, vol. 2, p. 426.  
  [[3]](#_F1371) Rihlat Ibn Jubayr, p. 208.  
  [[4]](#_F1372) Hayāt al-Imām Mohammed al-Jawād, p. 197.  
-  
-
-  
-
-  
 
 Sahl b. Hārūn b. Rāhbūn was a scribe in the Depository of Wisdom, and
 then he was appointed by al-Mamūn as a keeper of the philosophical books
@@ -139,11 +122,6 @@ House of Wisdom), and
 ------------------------------------------------------------------------
 
 [[1]](#_F1373) Tamhid Li Tārikh al-Falsafa, p. 47.  
-  
-
-  
-
-  
 
 others. They chose books from what they found. When they brought them to
 al-Mamūn, he ordered them to carry the books to the Depository of
@@ -186,11 +164,6 @@ others. The argument of Shiites concerning this method
 
 [[1]](#_F1374) Ibn al-Nadim, al-Fihrast, p. 339.  
  [[2]](#_F1375) 'Asr al-Ma'mūn, vol. 1, p. 375.  
-  
-
-  
-
-  
 
 of interpreting is that it is the Imāms who were singled out for the
 knowledge of the Qurān, and that it is they who were knowledgeable in
@@ -224,18 +197,11 @@ companions (of the Prophet). Then, after him, the pure Imāms began,
 through their lectures,  interpreting the Qurān, the causes of the
 revelation of the Qurān, and the excellence of reciting its verses.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1376) Al-Tibyān, vol. 1, p. 4.  
  [[2]](#_F1377) Hayāt al-Imām al-Bāqir, vol. 1, p. 181.  
  [[3]](#_F1378) Ibid.  
-  
-
-  
-
-  
 
 #### 2. The Hadith (Tradition)
 
@@ -276,11 +242,6 @@ included the eminent jurists and scholars such as Zarāra,
 
 [[1]](#_F1379) Hayāt al-Imām al-Mohammed al-Jawād, p. 194.  
  [[2]](#_F1380) Muqaddamat al-Muqni' wa al-Hidāya, p. 10.  
-  
-
-  
-
-  
 
 Mohammed b. Muslim, Jābir b. Yazid al-Jufi, Abū Hanifa, and the like.
 These jurists and scholars recorded what they had heard from the pure
@@ -323,11 +284,6 @@ As for theology, it was widespread in that time. The scholars and
 
 [[1]](#_F1381) Tamhid Li Tārikh al-Falsafa al-Islāmiya, pp. 202-203.  
  [[2]](#_F1382) Hayāt al-Imām al-Mohammed al-Jawād, p. 195.  
-  
-
-  
-
-  
 
 the theologians discussed important researches on this science in order
 to defend their beliefs. On the top of the theologians was Hishām b.
@@ -367,10 +323,6 @@ throughout history. An example of the marvelous architectural designs is
 the ponds which were made in Sāmrā, which the poets adored, and which
 astonished the minds of the scholars, in addition to that there were
 wonderful paintings and the Hanging  
-
-  
-
-  
 
 Gardens the like of which has not been made even in this century when
 architecture and technology have reached top.
@@ -412,10 +364,6 @@ Kūfa was more important than Yathrib, for in it was the greatest mosque
 addition, there were seminars including hundreds of students who studied
 under professors specialist in Islamic sciences  
 
-  
-
-  
-
 such as jurisprudence, the interpretation of the Qurān, the hadith
 (tradition), and Arabic. The school of Kūfa objectively took care of the
 sciences of the members of the House (*ahl al-Bayt)*, peace be on them.
@@ -456,11 +404,6 @@ of the science of interpreting the Holy Qurān. Among
  [[2]](#_F1384) Tārikh al-Islām, vol. 2, p. 338.  
  [[3]](#_F1385) Hayāt al-Imām Mohammed al-Jawād, p. 191.  
  [[4]](#_F1386) Tārikh al-Falsafa fi al-Islām, p. 39.  
-  
-
-  
-
-  
 
 the prominent scholars in this science was Abū Amrū b. al-Alā. Besides
 Basrah was the school of prosody and linguistics. Among the specialists
@@ -477,10 +420,7 @@ summoned in order to test Imām al-Ridā, peace be on him, but they went
 out of the palace and announced the Imāms excellence and mentioned with
 admiration his many scientific abilities.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1387) Hayāt al-Imām Mohammed al-Jawād, p. 192.  
-  
 

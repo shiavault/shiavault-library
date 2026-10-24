@@ -62,4 +62,3 @@ unholy clutches of pagan cultures. The monotheistic culture of the
 Qur'an alone is capable of emancipating human beings from all kinds of
 servitude and indignities.
 
-

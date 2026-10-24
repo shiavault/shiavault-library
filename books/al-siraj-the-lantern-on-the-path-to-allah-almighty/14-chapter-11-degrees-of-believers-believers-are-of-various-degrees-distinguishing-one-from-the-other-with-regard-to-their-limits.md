@@ -29,4 +29,3 @@ the King, the all-Knowing, to grant us those who will complete this
 speech; surely none loses hope of His mercy except those who are mean.  
   
 
-

@@ -138,4 +138,3 @@ piety has to be exercised in all cases.
 
 [^12]: Safeenat al-Bihar, vol. 2, p. 114.
 
-

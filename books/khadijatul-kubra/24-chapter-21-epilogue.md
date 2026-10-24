@@ -50,4 +50,3 @@ death on the same "wavelength" as the Pleasure and the Will of Allah. In
 correlating her work and her aims with the Pleasure and the Will of
 Allah, she found the Supreme Triumph of her sainted life.
 
-

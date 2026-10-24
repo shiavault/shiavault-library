@@ -157,7 +157,6 @@ official spokeswoman of the government. Similarly, Omar freely
 fabricated some narrations concerning himself such as "The Agreements"
 (al Mowafiqaat).
 
-
 **Chapter 4 : Meeting 3 The Evil COoncequences Of The Hadith
 Prohibition**
 
@@ -195,11 +194,9 @@ different from the narration of Ayesha, etc.
 Today the Tashahud of the Hanafi and Hanbali based on a narration from
 Ibn Mas'oud is as follows:
 
-<p dir="rtl">
 التحيات لله و الصلوات و الطيبات . السلام عليك ايها النبي و رحمة الله و
 برکاته. السلام علينا و علي عباد الله الصالحين. اشهد ان لا اله الا الله و
 اشهد ان محمدا عبده و رسوله.
-</p>
 
 The Malikis Tashahud however, following a narration from Omar Ibn
 Khattab is as follows: التحيات الزاکيات لله الطيبات الصلوات لله.
@@ -362,7 +359,6 @@ audience said: No, this is from the pocket of Abu Horayrah! [^24]
 For further information about Abu Horayrah and his mischief in Islam
 please study the two following scholarly works:
 
-
 1) Abu Horayrah written by the late Allama Sharafu-Ddin al-Ameli
 2) Sheikh al-Modhayrah written by the late Abu Rayyah
 3. Ka'bul-Ahbar and other Jewish and Christian monks
@@ -395,10 +391,8 @@ Motivations Behind Fabrications
 For instance, the followers of Imam Shafe'i fabricated a Hadith
 relating it to Abu Horayrah claiming that the Prophet (P) said:
 
-<p dir="rtl">
 يکون في امتي رجل يقال له محمد بن ادريس اضر من ابليس و يکون في امتي رجل
 يقال له ابوحنيفه هو سراج امتي.
-</p>
 
 "There shall be a man in my Ummah who will be called Muhammad ibn
 Idris, he is worse than Iblis. And there shall be a man in my Ummah who
@@ -408,9 +402,7 @@ will be called Abu-Hanifa, he is the lantern of my Ummah!" [^26]
 
 For instance Abu-Horayrah fabricated the following narration:
 
-<p dir="rtl">
 ان الله ائتمن علي وحيه ثلاثة: انا و علي و معاوية.
-</p>
 
 "Allah concerning His revelation trusted three: I (the Prophet (P)),
 Gabriel and Mo'awiyah!" [^27]
@@ -421,12 +413,9 @@ For instance, the Christians fabricated a Hadith in which Jesus is
 shown as the only infallible person who is free from the original sin!
 Bukhari narrated from Abu Horayrah:
 
-<p dir="rtl">
 کل ابن آدم يطعن الشيطان في جنبه حين يولد غير عيسي بن مريم ذهب يطعن فطعن
 في الحجاب
-</p>
 
 "Satan hits the side of all the children of Adam at birth save Jesus
 son of Mary. He went to hit him too but he hit a veil."
-
 

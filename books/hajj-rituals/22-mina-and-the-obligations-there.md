@@ -378,4 +378,3 @@ performs either of them, it is, evidently, not necessary to repeat the
 tawaf and sa'y, although one should, as a matter of precaution, repeat
 them.
 
-

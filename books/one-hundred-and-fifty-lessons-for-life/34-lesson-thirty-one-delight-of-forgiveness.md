@@ -3,12 +3,8 @@ Lesson Thirty One: Delight of Forgiveness
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-"إذا قَدَرْتَ عَلى عَدُوِّكَ فَاجْعَلِ الْعَفْوَ شُكْراً لِلقُدْرَةِ
-عَلَيْهِ"
-  </p>
-</blockquote>
+> "إذا قَدَرْتَ عَلى عَدُوِّكَ فَاجْعَلِ الْعَفْوَ شُكْراً لِلقُدْرَةِ
+> عَلَيْهِ"
 
 Translation
 -----------
@@ -30,5 +26,4 @@ vengeance after victory not only deprive themselves from a great human
 virtue, but also endanger their victory.
 
 [^1]: Nahjul Fasahah
-
 

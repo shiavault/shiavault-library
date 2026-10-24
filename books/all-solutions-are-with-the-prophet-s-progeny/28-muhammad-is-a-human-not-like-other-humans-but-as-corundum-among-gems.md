@@ -82,4 +82,3 @@ the scent* *of* *musk*.”[^3]
 
 [^3]: Sahih al-Bukhari, vol. 4 p. 165.
 
-

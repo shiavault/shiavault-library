@@ -145,4 +145,3 @@ Mootah, and Zayd was killed in it.
 first permanent civil appointment made in Islam. Akib took charge of his
 duties as governor of Makkah in January 630.
 
-

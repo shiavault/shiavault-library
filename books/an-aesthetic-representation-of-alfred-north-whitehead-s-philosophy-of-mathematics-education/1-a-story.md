@@ -266,4 +266,3 @@ unchanging world of eternity.
 As for the rabbit, Whitehead was in the fields looking for another human
 to take to the World of Heavens for a taste of eternity.
 
-

@@ -899,4 +899,3 @@ man, the holy QUR'AN, for ever
 HUSSAIN passed a quite life of supplication, discharging the duties of
 the Imam in the place of his Grandfather the holy Prophet.
 
-

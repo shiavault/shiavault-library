@@ -139,4 +139,3 @@ Maulana Azad Library, Aligarh Muslim University, Aligarh.
 38- Muhammad Faizbakhsh, Tarikh-i Farahbakhsh, translated by W. Hoey
 Memoirs of Delhi and Faizabad, Allahabad, 1888-89, vol. II, pp. iii-iv.
 
-

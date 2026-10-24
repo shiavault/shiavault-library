@@ -59,4 +59,3 @@ Kadhi of Kenya and, prior to that, of Zanzibar. What! Do we count him
 same Sheikh of whom the “Ahlul Tawheed” were proud, then and now? What
 have they to say?
 
-

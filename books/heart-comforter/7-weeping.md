@@ -1188,4 +1188,3 @@ Al-Tamhis.
 
 [^81]: Al-Kafi, Vol. 2, pp. 20, 198.
 
-

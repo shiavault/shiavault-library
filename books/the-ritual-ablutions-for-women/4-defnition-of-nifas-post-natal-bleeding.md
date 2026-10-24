@@ -196,4 +196,3 @@ one of this book.
 
 [^1]: al‑'Amili, op. cit., vol. 2, p. 579
 
-

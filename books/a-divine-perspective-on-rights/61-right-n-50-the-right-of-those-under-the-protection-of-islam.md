@@ -1,26 +1,18 @@
 Right n. 50: The Right of Those Under the Protection of Islam
 =============================================================
 
-<blockquote dir="rtl">
-  <p>
-حق أهل الذمة
-  </p>
-</blockquote>
+> حق أهل الذمة
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ أَهْلِ الذِّمَّةِ فَالحُكْمُ فِيهِمْ أَنْ تَقبَلَ
-مِنْهُمْ مَا قَبِلَ اللهُ، وَتَفِي بمَا جَعَلَ اللهُ لَهُمْ مِنْ
-ذِمَّتِهِ وَعَهْدِهِ وَتكِلُهُمْ إلَيهِ فِيمَا طَلبُوا مِنْ
-أَنْفُسِهِمْ وَأُجْبرُِوا عَلَيْهِ وَتحْكُمَ فِيهِمْ بمَا حَكَمَ اللهُ
-بهِ عَلَى نفْسِكَ فِيمَا جَرَى بَيْنَكَ [وَبيْنَهمْ] مِنْ مُعَامَلَةٍ
-وَلْيَكُنْ بَينَكَ وَبيْنَ ظُلْمِهِمْ مِنْ رِعَايَةِ ذِمَّةِ اللَّهِ
-وَالْوَفَاءِ بعَهْدِهِ وَعَهْدِ رَسُولِ اللَّهِ – صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ – حَائِلٌ فَإنَّهُ بَلَغَنَا أنَّهُ قَالَ «مَنْ
-ظَلَمَ مُعَاهِدًا كُنْتُ خَصْمَهُ» فَاتَّقِ اللَّهَ. ولا حَوْلَ ولا
-قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ أَهْلِ الذِّمَّةِ فَالحُكْمُ فِيهِمْ أَنْ تَقبَلَ
+> مِنْهُمْ مَا قَبِلَ اللهُ، وَتَفِي بمَا جَعَلَ اللهُ لَهُمْ مِنْ
+> ذِمَّتِهِ وَعَهْدِهِ وَتكِلُهُمْ إلَيهِ فِيمَا طَلبُوا مِنْ
+> أَنْفُسِهِمْ وَأُجْبرُِوا عَلَيْهِ وَتحْكُمَ فِيهِمْ بمَا حَكَمَ اللهُ
+> بهِ عَلَى نفْسِكَ فِيمَا جَرَى بَيْنَكَ [وَبيْنَهمْ] مِنْ مُعَامَلَةٍ
+> وَلْيَكُنْ بَينَكَ وَبيْنَ ظُلْمِهِمْ مِنْ رِعَايَةِ ذِمَّةِ اللَّهِ
+> وَالْوَفَاءِ بعَهْدِهِ وَعَهْدِ رَسُولِ اللَّهِ – صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ – حَائِلٌ فَإنَّهُ بَلَغَنَا أنَّهُ قَالَ «مَنْ
+> ظَلَمَ مُعَاهِدًا كُنْتُ خَصْمَهُ» فَاتَّقِ اللَّهَ. ولا حَوْلَ ولا
+> قُوَّةَ إلا باللهِ.
 
 **And the right of those under the protection of Islam is that you
 should accept from them what God has accepted from them, and fulfill
@@ -39,13 +31,9 @@ Therefore, fear God. And there is no power but in God.**
 The Arabic word ‘Dhimma' means a pledge or a covenant. It has appeared
 in the following verses, for example:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ وَإِن يَظْهَرُوا عَلَيْكُمْ لاَ يَرْقُبُواْ فِيكُمْ إِلاًّ
-وَلاَ ذِمَّةً يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ
-وَأَكْثَرُهُمْ فَاسِقُونَ
-  </p>
-</blockquote>
+> كَيْفَ وَإِن يَظْهَرُوا عَلَيْكُمْ لاَ يَرْقُبُواْ فِيكُمْ إِلاًّ
+> وَلاَ ذِمَّةً يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ
+> وَأَكْثَرُهُمْ فَاسِقُونَ
 
 ***“How (can there be such a league), seeing that if they get an
 advantage over you, they respect not in you the ties either of kinship
@@ -53,12 +41,8 @@ or of covenant? With (fair words from) their mouth they entice you, but
 their hearts are averse from you; and most of them are rebellious and
 wicked.” [The Holy Qur’an, al-Tawbah 9:8]***
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَرْقُبُونَ فِي مُؤْمِنٍ إِلاًّ وَلاَ ذِمَّةً وَأُوْلَـئِكَ هُمُ
-الْمُعْتَدُونَ
-  </p>
-</blockquote>
+> لاَ يَرْقُبُونَ فِي مُؤْمِنٍ إِلاًّ وَلاَ ذِمَّةً وَأُوْلَـئِكَ هُمُ
+> الْمُعْتَدُونَ
 
 ***“In a believer they respect not the ties either of kinship or of
 covenant! It is they who have transgressed all bounds. [The Holy Qur’an,
@@ -94,14 +78,10 @@ are under the protection of Islam. Now let us see that based on the
 Qur’an, what duties we have towards the people of the Book. Consider the
 following verse in this regard:
 
-<blockquote dir="rtl">
-  <p>
-قَاتِلُواْ الَّذِينَ لاَ يُؤْمِنُونَ بِاللّهِ وَلاَ بِالْيَوْمِ
-الآخِرِ وَلاَ يُحَرِّمُونَ مَا حَرَّمَ اللّهُ وَرَسُولُهُ وَلاَ
-يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُواْ الْكِتَابَ حَتَّى
-يُعْطُواْ الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
-  </p>
-</blockquote>
+> قَاتِلُواْ الَّذِينَ لاَ يُؤْمِنُونَ بِاللّهِ وَلاَ بِالْيَوْمِ
+> الآخِرِ وَلاَ يُحَرِّمُونَ مَا حَرَّمَ اللّهُ وَرَسُولُهُ وَلاَ
+> يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُواْ الْكِتَابَ حَتَّى
+> يُعْطُواْ الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
 
 ***Fight those who believe not in God nor the Last Day, nor hold that
 forbidden which has been forbidden by God and His Apostle, nor
@@ -193,11 +173,7 @@ twelve thousand cow skins. These were all burnt.
 The poll-tax cannot be taken from those other than the people of the
 Book. The Qur’an says the following regarding the Pagans:
 
-<blockquote dir="rtl">
-  <p>
-فَاقْتُلُواْ الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ
-  </p>
-</blockquote>
+> فَاقْتُلُواْ الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ
 
 ***“Then fight and slay the Pagans wherever ye find them.” [The Holy
 Qur’an, al-Tawbah 9:5]***
@@ -254,16 +230,12 @@ The Responsibilities of the Muslims
 
 In a sermon to the people of the Kufa, Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَد بَلغَني أنَّ الرَّجُلَ مِنهُم كانَ يَدخُلُ عَلى المَرأةِ
-المُسْلِمَةِ وَالأُخرى المُعاهِدَةِ فَيَنْتَزِعُ حِجْلَها وَقُلَبَها
-وَقَلائِدَها وَرُعائَها ما تَمْتَنِعُ مِنهُ إلاّ بالاسْتِرجاعِ
-وَالاسْتِرحَامِ ثُمَّ انْصَرَفوا وافِرينَ ما نالَ رَجُلاً مِنهُم
-كَلِمٌ ولا أُريقَ لهُم دَمٌ، فَلَو أنَّ امْرَءً مُسلِماً ماتَ مِن
-بَعدِ هذا أسَفاً ما كانَ بهِ مَلوماً بَل كانَ بهِ عِندي جَديراً.
-  </p>
-</blockquote>
+> وَلَقَد بَلغَني أنَّ الرَّجُلَ مِنهُم كانَ يَدخُلُ عَلى المَرأةِ
+> المُسْلِمَةِ وَالأُخرى المُعاهِدَةِ فَيَنْتَزِعُ حِجْلَها وَقُلَبَها
+> وَقَلائِدَها وَرُعائَها ما تَمْتَنِعُ مِنهُ إلاّ بالاسْتِرجاعِ
+> وَالاسْتِرحَامِ ثُمَّ انْصَرَفوا وافِرينَ ما نالَ رَجُلاً مِنهُم
+> كَلِمٌ ولا أُريقَ لهُم دَمٌ، فَلَو أنَّ امْرَءً مُسلِماً ماتَ مِن
+> بَعدِ هذا أسَفاً ما كانَ بهِ مَلوماً بَل كانَ بهِ عِندي جَديراً.
 
 *“I have been informed that their men (soldiers from the army of
 Mu\`awiyah) would enter the house of the Muslim woman, and the woman
@@ -291,11 +263,7 @@ One of the main moral issues regarding the people under the protection
 of Islam is respecting their covenant as expressed by Imam Sajjad . God
 has said the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُواْ بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً
-  </p>
-</blockquote>
+> وَأَوْفُواْ بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً
 
 ***“And fulfill (every) engagement, for (every) engagement will be
 enquired into (On the Day of Reckoning).” [The Holy Qur’an, Bani Israil
@@ -303,11 +271,7 @@ enquired into (On the Day of Reckoning).” [The Holy Qur’an, Bani Israil
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
 
 ***“Those who faithfully observe their trusts and their covenants.” [The
 Holy Qur’an, al-Mu’minun 23:8]***
@@ -320,11 +284,7 @@ from traditions from the Noble Prophet and the Immaculate Imams .
 
 Ali ibn Ibrahim narrated that he heard Imam Sadiq say:
 
-<blockquote dir="rtl">
-  <p>
-عِدَةُ المُؤمِنِ أخاهُ نَذْرٌ لا كَفّارَةَ لهُ.
-  </p>
-</blockquote>
+> عِدَةُ المُؤمِنِ أخاهُ نَذْرٌ لا كَفّارَةَ لهُ.
 
 *“The believer’s promise to his brother is a vow that has no
 expiation.”*[^15]
@@ -332,24 +292,16 @@ expiation.”*[^15]
 One must honor a promise just as one honors a vow. The Noble Prophet
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كانَ يُؤمِنُ بِاللهِ وَاليَومِ الآخَرِ فَلْيَفِ بِوَعْدِهِ.
-  </p>
-</blockquote>
+> مَن كانَ يُؤمِنُ بِاللهِ وَاليَومِ الآخَرِ فَلْيَفِ بِوَعْدِهِ.
 
 *“Whoever believes in God and the Resurrection Day should honor his
 promise.”*[^16]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-أقْرَبُكُم مِنّي غَداً في المَوقِفِ أصْدَقُكُم في الحَديثِ وأدّاكُم
-للأمانَةِ وأوْفاكُم بِالعَهْدِ وَأحْسَنُكُم خُلُقاً وأقْرَبُكُم مِن
-النّاسِ.
-  </p>
-</blockquote>
+> أقْرَبُكُم مِنّي غَداً في المَوقِفِ أصْدَقُكُم في الحَديثِ وأدّاكُم
+> للأمانَةِ وأوْفاكُم بِالعَهْدِ وَأحْسَنُكُم خُلُقاً وأقْرَبُكُم مِن
+> النّاسِ.
 
 *“The nearest of you to me tomorrow, at the station (in the Hereafter),
 will be the most truthful of you in speech, the best of you in
@@ -362,13 +314,9 @@ Be it a Muslim or a Pagan
 
 The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ لم يَجْعَلِ اللهُ تَعالى فِيهِنَّ رُخْصَةٌ: أدَاءُ الأمانَةِ
-إلى البَرِّ وَالفاجِرِ، وَالوَفاءُ بِالعَهدِ لِلبَرِّ وَالفاجِرِ، وبرّ
-الوالِدَينِ برّين كانا أو فاجِرَينِ.
-  </p>
-</blockquote>
+> ثَلاثٌ لم يَجْعَلِ اللهُ تَعالى فِيهِنَّ رُخْصَةٌ: أدَاءُ الأمانَةِ
+> إلى البَرِّ وَالفاجِرِ، وَالوَفاءُ بِالعَهدِ لِلبَرِّ وَالفاجِرِ، وبرّ
+> الوالِدَينِ برّين كانا أو فاجِرَينِ.
 
 *“There are three things in which God, the Exalted, has not given any
 concession:*  
@@ -388,21 +336,13 @@ in the Hereafter. The Holy Qur’an instructs us not to mistreat those
 opponents of Islam who do not mistreat us. Consider the following verse
 of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
-الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ
-وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
+> الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ
+> وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ
-وَأَخْرَجُوكُم مِّن دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَن
-تَوَلَّوْهُمْ وَمَن يَتَوَلَّهُمْ فَأُوْلَئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ
+> وَأَخْرَجُوكُم مِّن دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَن
+> تَوَلَّوْهُمْ وَمَن يَتَوَلَّهُمْ فَأُوْلَئِكَ هُمُ الظَّالِمُونَ
 
 ***“God forbids you not, with regard to those who fight you not for
 (your) Faith nor drive you out of your homes, from dealing kindly and
@@ -417,14 +357,10 @@ The Holy Qur’an invites the people of the Book to be in harmony with the
 Muslims on ideological issues, and admonishes them against disunion as
 we can read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
-وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
-وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ فَإِن
-تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
+> وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
+> وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ فَإِن
+> تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ
 
 ***Say: “O’ People of the Book! Come to common terms as between us and
 you that we worship none but God; that we associate no partners with
@@ -471,5 +407,4 @@ state.
 [^17]: Tarikh Ya’qubi, v.2, p.392.
 
 [^18]: Ibid.
-
 

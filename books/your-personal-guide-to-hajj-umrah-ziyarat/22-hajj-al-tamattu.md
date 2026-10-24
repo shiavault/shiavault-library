@@ -301,4 +301,3 @@ in Wudhu, and to recite "Allahu Akber" with every throw.
 
 ![](/sites/default/files/40.png)
 
-

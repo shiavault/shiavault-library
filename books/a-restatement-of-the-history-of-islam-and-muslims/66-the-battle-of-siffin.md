@@ -978,4 +978,3 @@ of killing a Muslim. They could not kill anyone for the sake of material
 power. They were, therefore, handicapped in their “competition” with the
 Umayyads.
 
-

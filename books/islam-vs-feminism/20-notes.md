@@ -108,4 +108,3 @@ Afshar (1996), p. 143.
 
 [^36]: Ziba Mir-Hosseini (1996), p. 163.
 
-

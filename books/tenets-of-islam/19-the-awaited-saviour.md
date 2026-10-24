@@ -38,4 +38,3 @@ occultation in the same way as the sun is beneficial even when it is
 under the cloud or a lamp is beneficial even when it is behind a
 curtain.
 
-

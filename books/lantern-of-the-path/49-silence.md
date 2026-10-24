@@ -37,4 +37,3 @@ the subtleties of silence, and has been entrusted with its treasures,
 then both his speech and silence are worship. No one is privy to this
 worship of his except the King of all, the All-compelling.
 
-

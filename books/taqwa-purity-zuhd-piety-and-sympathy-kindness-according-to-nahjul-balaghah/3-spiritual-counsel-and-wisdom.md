@@ -38,4 +38,3 @@ the soul, invade other hearts; but if they do not convey the message of
 the soul, are no more than empty literary devices, which do not go
 beyond the listener's ear-drum.
 
-

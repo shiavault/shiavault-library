@@ -722,4 +722,3 @@ Ahriman could do no hurt.
 
 Thus endeth the history of the march into Mazinderan.
 
-

@@ -1,8 +1,6 @@
 Chapter 15: the Motives of the Two Parties For Making Peace
 ===========================================================
 
-  
-
 No wonder Mu'awiya was the first to ask al-Hasan for making peace.
 [[1]](#r1) So he accepted al-Hasan's conditions to take one thing from
 him, that was government.
@@ -32,8 +30,6 @@ authority over a certain country,
 he asked the advice of his companions in al-Mada'in: "Indeed Mu'awiya
 has summoned us to an affair in which there is neither dignity nor
 justice." Other references indicate that, too.
-
-  
 
 and arranging marriages between them and the Umayyad princesses.
 
@@ -74,8 +70,6 @@ truth by nature. Thus even Islam was unable to reform them.
 
 Al-Hasan lost his first battle because of the treason of his soldiers or
 because of the skillful discords his enemy used. So he had to face  
-
-  
 
 his second battle which the treason of the soldiers did not affect, the
 deviation of their natures did not harm, and the tricks of the enemy and
@@ -118,8 +112,6 @@ sky.
 
 Suddenly, al-Hasan b. 'Ali became a great reformer. He embodied the good
 news his grandfather the Apostle of Allah, may Allah bless  
-
-  
 
 him and his family, gave in the tradition which we have mentioned
 before: "Indeed this (grand) son of mine is a lord, and Allah will make
@@ -165,8 +157,6 @@ who said: "The succession (Khilafa) after me will last for thirty
 called 'al-Fitan'), and al-Bayhaqi (in his book called 'al-Dala'il) have
 narrated this tradition in this way: "Then  
 
-  
-
 Government was the sweet dream for which Mu'awiya sacrificed every dear
 thing. He did not know that Islam refused unlawful ways and did not hand
 over government to the freed prisoners and their children.
@@ -209,8 +199,6 @@ became Muslim after the Conquest (of Mecca)." I (i.e., the author) say:
 As for the pledge of allegiance which Mu'awiya imposed on the people
 with his known ways, it made the unlawful lawful.
 
-  
-
 right." [[1]](#r3) Also it is clear in what Mu'awiya wrote to Ziyad b.
 Abih when he mentioned al-Hasan, peace be on him: "As for that al-Hasan
 has gained power over you, he has the right to do that." [[2]](#r4)
@@ -249,8 +237,6 @@ Al-Majlisi, Bihar al-Anwar, vol. 10, p. 98. [[4]](#n6) Ibn Qutayba
 al-Dinawari, al-Imama wa al-Siyasa, pp. 159- 60. [[5]](#n7) Al-Mas'udi,
 Hamish b. al-Athir, vol. 6, p. 67. [[6]](#n8) Al-Tabari, Ta'rikh, vol.
 6, p. 3.
-
-  
 
 authority of al-Hasan and to their ugly attitude towards him so that
 they would revolt against him (i.e., Mu'awiya).
@@ -292,8 +278,6 @@ Mu'awiya went on making the Syrians ignorant of the great Muslim
 
 [[1]](#n9) Al-Mas'udi, Hashim b. al-Athir, vol. 5, p. 216.
 
-  
-
 figures till the end of his lifetime. This policy of his was the means
 which he used to gather large groups of people and dispatch them to
 fight against Imam 'Ali at Siffin, and then to fight against al Hasan at
@@ -333,8 +317,6 @@ to prevent their names from entering Sham. Also this indicates that the
 Syrians took care of their Islam very much. We think that Sham (Syria)
 during the Umayyad dynasty was still full of the non- Muslim majority
 that belonged to Rome and Armenia.
-
-  
 
 and other Muslim countries to bear witness for that. From this summons
 he wanted nothing but to pave the way to achieve his future objectives

@@ -1902,4 +1902,3 @@ loyalty.
 
 [^77]: . Qur’an, Ch: 40, Vs: 7.
 
-

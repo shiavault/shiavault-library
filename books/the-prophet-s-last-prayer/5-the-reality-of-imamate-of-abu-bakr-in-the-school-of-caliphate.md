@@ -307,4 +307,3 @@ or do research.
 There is no power and strength except from Allah, the High and the
 Mighty
 
-

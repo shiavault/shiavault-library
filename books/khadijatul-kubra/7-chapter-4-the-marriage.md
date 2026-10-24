@@ -372,4 +372,3 @@ future "Lady of Heaven." The father and mother showered their love upon
 her, and she brought hope and happiness and the blessings and the mercy
 of Allah with her into their home.
 
-

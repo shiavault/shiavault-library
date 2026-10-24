@@ -53,7 +53,6 @@ their testimony that on the Day of Judgment they would not say, "We were
 not aware of this (fact),." (7:172) that Muhammad is My messenger and
 Ali is Amir al-Mu'minin (commander of the faithful)."
 
-
 **Chapter 108 : Enlightening Points Deduced from the Holy Quran about
 Leadership with Divine Authority) H , Ch. 108, h 1**
 
@@ -735,7 +734,6 @@ have faith in it it would be better for you. If you would reject (Wilaya
 of Imam Ali (Leadership with Divine Authority) (know) that to Allah
 belongs all that is in the heavens and in the earth."
 
-
 H , Ch. 108, h 59
 
 Ahmad Mihran has narrated -may Allah grant him blessings- from 'Abd
@@ -831,7 +829,6 @@ the words of Allah, the Most High. "and by the witness (Muhammad) and
 that which is witnessed (the Day of Judgment)," (85:3) The Imam (a.s.)
 said, "They are The Holy Prophet (s.a) and Amir al- Mu'minin Ali
 (a.s.)."
-
 
 H , Ch. 108, h 69
 
@@ -1506,5 +1503,4 @@ harvest in this life will be given it but will have no share in the
 hereafter." (42:20) The Imam (a.s.) said, "They will have no share in
 government of truth at the time of Al-Qa'im, the one who will rise with
 Divine Authority)."
-
 

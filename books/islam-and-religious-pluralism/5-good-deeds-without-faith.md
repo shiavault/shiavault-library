@@ -171,16 +171,12 @@ strongly combated them.The Qur’ān also points out the error of Muslims
 who have fallen prey to such deception. Here are some of the verses in
 this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلاَّ أَيَّاماً مَّعْدُودَةً قُلْ
-أَتَّخَذْتُمْ عِنْدَ اللٌّهِ عَهْدًا فَلَنْ يُخْلِفَ اللٌّهُ عَهْدَهُ
-أَمْ تَقُولُونَ عَلَى اللٌّهِ مَا لاَ تَعْلَمُونَ بَلَى مَنْ كَسَبَ
-سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيـئَتُهُ فَأُوْلٌـئِكَ أَصْحَابُ
-النَّارِ هُمْ فِيهَا خَالِدُون وَالَّذِينَ آمَنُوا وَعَمِلُوا
-الصَّالِحَاتِ أُولٌـئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلاَّ أَيَّاماً مَّعْدُودَةً قُلْ
+> أَتَّخَذْتُمْ عِنْدَ اللٌّهِ عَهْدًا فَلَنْ يُخْلِفَ اللٌّهُ عَهْدَهُ
+> أَمْ تَقُولُونَ عَلَى اللٌّهِ مَا لاَ تَعْلَمُونَ بَلَى مَنْ كَسَبَ
+> سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيـئَتُهُ فَأُوْلٌـئِكَ أَصْحَابُ
+> النَّارِ هُمْ فِيهَا خَالِدُون وَالَّذِينَ آمَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ أُولٌـئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
 
 ***“And they said, the Fire shall not touch us except for (a few)
 numbered days. Say: have you taken a covenant with God, for God shall
@@ -193,13 +189,9 @@ inhabitants of Paradise; they shall abide therein forever.***”[^2]
 b) In another place, the Qur’ān says in answer to the conjecture of the
 Jews:
 
-<blockquote dir="rtl">
-  <p>
-وَغَرَّهُمْ فِي دِينِهِمْ مَّا كَانُوا يَفْتَرُونَ فَــكَيْفَ إِذَا
-جَمَعْنَاهُمْ لِيَوْمٍ لاَّ رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا
-كَسَبَتْ وَهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَغَرَّهُمْ فِي دِينِهِمْ مَّا كَانُوا يَفْتَرُونَ فَــكَيْفَ إِذَا
+> جَمَعْنَاهُمْ لِيَوْمٍ لاَّ رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا
+> كَسَبَتْ وَهُمْ لاَ يُظْلَمُونَ
 
 ***“And their forgeries deceived them in their religion. So how will
 they be when We gather them for a day in which*** ***there is no doubt
@@ -209,15 +201,11 @@ not be wronged.*****”**[^3]
 c) In another place, the Christians have been added to the Jews, and
 together they have been opposed by the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
-وَقَـالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلاَّ مَنْ كَـانَ هُوداً أَوْ
-نَصَارَى تِلْكَ أَمَانِيُّـهُمْ قُلْ هَـاتُوا بُرْهَانَكُم إِنْ
-كُنْــتُمْ صَادِقِينَ بَلَى مَنْ أَسْلَمَ وَجْهَهُ لِلٌّهِ وَهُوَ
-مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّـهِ وَلاَ خَوْفٌ عَلَـيْهِمْ
-وَلاَ هُـمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> وَقَـالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلاَّ مَنْ كَـانَ هُوداً أَوْ
+> نَصَارَى تِلْكَ أَمَانِيُّـهُمْ قُلْ هَـاتُوا بُرْهَانَكُم إِنْ
+> كُنْــتُمْ صَادِقِينَ بَلَى مَنْ أَسْلَمَ وَجْهَهُ لِلٌّهِ وَهُوَ
+> مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّـهِ وَلاَ خَوْفٌ عَلَـيْهِمْ
+> وَلاَ هُـمْ يَحْزَنُونَ
 
 ***“And they said, None shall enter Paradise except those who are Jews
 or Christians; this is their fancy. Say: bring your proof, if you are
@@ -232,15 +220,11 @@ thinking of the People of the Book, and in the face of they who without
 reason considered themselves superior, adopted such an opinion about
 themselves. The Qur’ān says, refuting these immature fancies:
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ بِأَمَانِيِّكُمْ وَلاَ أَمَانِيِّ أَهْلِ الْكِـتَابِ مَنْ
-يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلاَ يَجِدْ لَهُ مِـنْ دُونِ اللٌّهِ
-وَلِيًّا وَلاَ نَصِيرًا وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ
-أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُوْلٌـئِكَ يَدْخُلُونَ الْجَنَّةَ وَلاَ
-يُظْلَمُونَ نَقِيـرًا
-  </p>
-</blockquote>
+> لَّيْسَ بِأَمَانِيِّكُمْ وَلاَ أَمَانِيِّ أَهْلِ الْكِـتَابِ مَنْ
+> يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلاَ يَجِدْ لَهُ مِـنْ دُونِ اللٌّهِ
+> وَلِيًّا وَلاَ نَصِيرًا وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ
+> أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُوْلٌـئِكَ يَدْخُلُونَ الْجَنَّةَ وَلاَ
+> يُظْلَمُونَ نَقِيـرًا
 
 ***“(This) shall not be in accordance with your vain desires nor in
 accordance with the vain desires of the followers of the Book. Whoever
@@ -258,33 +242,21 @@ These verses have also been taken as proof of the acceptance of the good
 deeds of all people, whether Muslim or non-Muslim. In Sūratul Zilzāl, we
 read:
 
-<blockquote dir="rtl">
-  <p>
-فَـمَنْ يَّعْمَلْ مِثْقٌالَ ذَرَّةٍ خَيْراً يَرَهُ وَ مَنْ يَّعْمَلْ
-مِثْقٌالَ ذَرَّةٍ شَرّاً يَرَهُ
-  </p>
-</blockquote>
+> فَـمَنْ يَّعْمَلْ مِثْقٌالَ ذَرَّةٍ خَيْراً يَرَهُ وَ مَنْ يَّعْمَلْ
+> مِثْقٌالَ ذَرَّةٍ شَرّاً يَرَهُ
 
 ***“So whoever does an atom’s weight of good shall see it, and whoever
 does an atom’s weight of evil shall see it**.*”[^6]
 
 Elsewhere, God says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ لاٌ يُضِيعُ أَجْرَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ لاٌ يُضِيعُ أَجْرَ الْمُحْسِنِينَ
 
 ***“Verily God does not waste the reward of those who do good.***”[^7]
 
 And in another place, He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنٌّا لاٌ نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً
-  </p>
-</blockquote>
+> إِنٌّا لاٌ نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً
 
 ***“Verily We do not waste the reward of those who do good.***”[^8]
 
@@ -305,13 +277,9 @@ f) There is another verse which is frequently referred to in this
 discussion, and it is said that it clearly points to the assertion of
 this group:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هٌادُوا وَالصٌّابِؤُونَ
-وَالنَّصٌارَى مَنْ آمَنَ بِاللٌّهِ وَالْيَوْمِ الآخِرِ وعَمِلَ
-صٌالِحًا فَلاَ خَوْفٌ عَلَيْهِمْ وَلاٌ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هٌادُوا وَالصٌّابِؤُونَ
+> وَالنَّصٌارَى مَنْ آمَنَ بِاللٌّهِ وَالْيَوْمِ الآخِرِ وعَمِلَ
+> صٌالِحًا فَلاَ خَوْفٌ عَلَيْهِمْ وَلاٌ هُمْ يَحْزَنُونَ
 
 ***“Indeed the faithful, the Jews, the Sabaeans, and the
 Christians—those who have faith in God and the Last Day and act
@@ -333,19 +301,11 @@ made great cultural, medical, economical, or political contributions to
 humanity shall have a great reward.Of course, these people can argue on
 the basis of verses like:
 
-<blockquote dir="rtl">
-  <p>
-إِنٌّا لاٌ نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً
-  </p>
-</blockquote>
+> إِنٌّا لاٌ نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً
 
 *“We don’t waste the reward of one who does good,”* and:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يَّعْمَلْ مِثْقٌالَ ذَرَّةٍ خَيْراً يَرَهُ
-  </p>
-</blockquote>
+> فَمَنْ يَّعْمَلْ مِثْقٌالَ ذَرَّةٍ خَيْراً يَرَهُ
 
 *“So whoever does an atom’s weight of good shall see it,”*
 
@@ -398,13 +358,9 @@ not have the wilāyah (Divinely-ordained guardianship) of the Ahlul Bait
 In Sūrat Ibrāhīm, God compares the actions of unbelievers to ashes which
 are scattered by a strong wind and lost:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ أَعْمٌالُهُمْ كَرَمٌادٍ
-اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عٌاصِفٍ لاَّ يَقْدِرُونَ مِمٌّا
-كَسَبُوا عَلَى شَيْءٍ ذٌلِكَ هُوَ الضَّلاَلُ الْبَعِيدُ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ أَعْمٌالُهُمْ كَرَمٌادٍ
+> اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عٌاصِفٍ لاَّ يَقْدِرُونَ مِمٌّا
+> كَسَبُوا عَلَى شَيْءٍ ذٌلِكَ هُوَ الضَّلاَلُ الْبَعِيدُ
 
 ***“A parable of those who defy their Lord: their deeds are like ashes
 over which the wind blows hard on a*** ***tempestuous day: they have no
@@ -420,13 +376,9 @@ Prophets are all null and void if they are not coupled with belief in
 God. Their greatness is nothing but a fancy, like a mirage. The words of
 the verse are as below:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا أَعْمٌالُهُمْ كَسَرٌابٍ بَقِيعَةٍ يَحْسَبُهُ
-الظَّمْآنُ مٌاءٍ حَتَّى إِذٌا جٌاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
-اللٌّهَ عِندَهُ فَوَفٌّاهُ حِسٌابَهُ وَاللٌّهُ سَرِيعُ الْحِسٌابِ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا أَعْمٌالُهُمْ كَسَرٌابٍ بَقِيعَةٍ يَحْسَبُهُ
+> الظَّمْآنُ مٌاءٍ حَتَّى إِذٌا جٌاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
+> اللٌّهَ عِندَهُ فَوَفٌّاهُ حِسٌابَهُ وَاللٌّهُ سَرِيعُ الْحِسٌابِ
 
 ***“As for the faithless, their works are like a mirage in a plain,
 which the thirsty man supposes to be water. When he comes to it, he
@@ -437,14 +389,10 @@ This is the parable of the good deeds of unbelievers, which appear
 outwardly to be good. So woe upon their evil deeds! We read their
 parable in the following verse in these words:
 
-<blockquote dir="rtl">
-  <p>
-أَوْ كَظُلُمٌاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشٌاهُ مَوْجٌ مِّنْ فَوْقِهِ
-مَوْجٌ مِّنْ فَوْقِهِ سَحٌابٌ ظُلُمٌاتٌ بَعْضُهٌا فَوْقَ بَعْضٍ إِذٌا
-أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرٌاهَا وَمَنْ لَّمْ يَجْعَلِ اللٌّهُ
-لَهُ نُوراً فَمٌا لَهُ مِنْ نُّورٍ
-  </p>
-</blockquote>
+> أَوْ كَظُلُمٌاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشٌاهُ مَوْجٌ مِّنْ فَوْقِهِ
+> مَوْجٌ مِّنْ فَوْقِهِ سَحٌابٌ ظُلُمٌاتٌ بَعْضُهٌا فَوْقَ بَعْضٍ إِذٌا
+> أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرٌاهَا وَمَنْ لَّمْ يَجْعَلِ اللٌّهُ
+> لَهُ نُوراً فَمٌا لَهُ مِنْ نُّورٍ
 
 ***“Or like the manifold darkness in a deep sea, covered by billow upon
 billow, overcast by clouds, manifold [layers of] darkness, one on the
@@ -570,5 +518,4 @@ forsaken!”
 [^12]: Al-Qur'ān Sūratul Nūr (24), Verse 40
 
 [^13]: Wasā'ilush Shī\`a, Volume 1, Part 1, Page 90
-
 

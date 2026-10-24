@@ -3,12 +3,8 @@ Lesson Thirty Six:What Breaks Man’s Back
 
 Imam Al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلثُ قَاصِماتُ الظَّهْرِ: رَجُلٌ إسْتَكْثَرَ عَمَلَهُ وَ نَسِىَ
-ذُنُوبَهُ وَ أَعْجَبَ بِرَأيِهِ
-  </p>
-</blockquote>
+> ثَلثُ قَاصِماتُ الظَّهْرِ: رَجُلٌ إسْتَكْثَرَ عَمَلَهُ وَ نَسِىَ
+> ذُنُوبَهُ وَ أَعْجَبَ بِرَأيِهِ
 
 Translation
 -----------
@@ -33,5 +29,4 @@ will be repeatedly involved in mistakes and finally their backs will
 break under the burden of the resulting problems .
 
 [^1]: Wasa’il ‘ush-Shi’a, volume 1, page 73
-
 

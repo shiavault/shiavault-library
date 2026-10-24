@@ -15,12 +15,8 @@ which Muhammad brought”).
 According to the definition of Islam you offer in that book, we would
 not be justified in construing Qur’anic verse,
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
-وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
+> وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
 
 ***“Should anyone follow a religion other than Islam, it shall never be
 accepted from him…”***[^2]
@@ -58,13 +54,9 @@ etymologic meaning. As a matter of fact, in Islamic sources, the word is
 used in both senses. For an example of its usage in its etymologic
 meaning, it suffices to note the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ
-مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ
-إِبْرَاهِيمَ خَلِيلًا
-  </p>
-</blockquote>
+> وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ
+> مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ
+> إِبْرَاهِيمَ خَلِيلًا
 
 ***“And who has a better religion than him who submits***
 **[*****aslama*****: past participle, from** ***islam*****]** ***his
@@ -74,12 +66,8 @@ This verse indicates that the creed of Abraham was a manifestation of
 *islam* in the sense of submission to God. One finds *islam* used in
 this sense also in the words of Jacob’s children:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ آبَائِكَ إِبْرَاهِيمَ
-وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَٰهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ
-  </p>
-</blockquote>
+> قَالُوا نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ آبَائِكَ إِبْرَاهِيمَ
+> وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَٰهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ
 
 ***“They said, ‘We will worship your God, and the God of your fathers,
 Abraham, Ishmael, and Isaac, the One God, and to Him do we
@@ -108,18 +96,13 @@ As to your point that people all around the world know
 
 islam
 
-  
 as the religion brought by Muhammad, there is no question about that. In
 fact, it was Abraham who first introduced this
 
 name:
 
-<blockquote dir="rtl">
-  <p>
-مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ
-قَبْلُ
-  </p>
-</blockquote>
+> مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ
+> قَبْلُ
 
 ***“…the faith of your father, Abraham. He named you Muslims***
 ***before…”***[^6]
@@ -252,11 +235,7 @@ Below that line you quote, we have clarified what we mean by
 “independent self.” We mean the illusion of an independent identity that
 most people have. When this illusion is erased, egoism vanishes:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
-  </p>
-</blockquote>
+> لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
 
 ***“They do not venture to speak ahead of Him, and they act by His
 command.”***[^9]
@@ -338,12 +317,8 @@ A Point Concerning Job’s Supplication
 In volume 17 of “*Tafsir al-Mizan*”, you make the following observation
 regarding the verse
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ
-الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ
-  </p>
-</blockquote>
+> وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ
+> الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ
 
 ***“And remember Our servant Job when he called out to his
 Lord…”***[^10]**: “**
@@ -390,11 +365,7 @@ issue, however, pertains to Qur’anic hermeneutics not religious law.
 A Point Concerning The Qur’anic Phrase Saying, “It is a great prophecy”
 -----------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ نَبَأٌ عَظِيمٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ نَبَأٌ عَظِيمٌ
 
 ***“It is a great prophecy…”***[^11]
 
@@ -412,22 +383,14 @@ Judgment?
 It is true that prior to the verse in question the subject is the Day of
 Judgment, but verse 65
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَنَا مُنْذِرٌ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَنَا مُنْذِرٌ
 
 **(*****“Say, ‘I am just a warner…’”*****)**
 
 terminates that topic and begins a new one. This reading is corroborated
 by the *Surah*’s ending with this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ
-  </p>
-</blockquote>
+> وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ
 
 ***“And you will surely learn its naba’*** ***(tidings) in due
 time;”***[^12]
@@ -467,5 +430,4 @@ meaning of the word while also functioning as a proper noun. [trans.]
 [^11]: Surah Sad 38:67.
 
 [^12]: Surah Sad 38:88.
-
 

@@ -177,4 +177,3 @@ the sacredness of the House of God, the tradition of the pilgrimage, the
 worship of the gods, the genuineness of ethics, the respect of families
 and all of the honors and values of our ancestors to the winds.”
 
-

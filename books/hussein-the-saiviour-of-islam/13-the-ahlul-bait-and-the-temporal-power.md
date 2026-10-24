@@ -400,4 +400,3 @@ revelation of the Sura-e-Tahreem (Sura No. 66). The fact that Hasan was
 poisoned by- none else other than one of his wives hired by Ma'aviah,
 proves the kind of women, some of his wives were.
 
-

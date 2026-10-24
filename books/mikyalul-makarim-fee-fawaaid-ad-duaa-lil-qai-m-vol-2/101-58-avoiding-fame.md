@@ -117,4 +117,3 @@ of me as I am attached to my loneliness and my friend is with me.**
 
 [^4]: Ghaibat Nomani, Pg. 107
 
-

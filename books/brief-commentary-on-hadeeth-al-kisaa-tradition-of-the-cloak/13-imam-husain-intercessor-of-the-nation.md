@@ -1,12 +1,8 @@
 Imam Husain –Intercessor of The Nation
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ : وَ عَلَيكَ السَّلامُ يا وَلَدِي وَ يا شافِع أُمَّتِي قَد
-أَذِنتُ لَكَ
-  </p>
-</blockquote>
+> فَقالَ : وَ عَلَيكَ السَّلامُ يا وَلَدِي وَ يا شافِع أُمَّتِي قَد
+> أَذِنتُ لَكَ
 
 *My father replied, "Peace be upon you too, O my son and intercessor of
 my people. I allow you."*
@@ -105,5 +101,4 @@ recommendation for a job or reaching out to a connection in our network
 that may accelerate our application process or grant us acceptance of
 our need by virtue of our close association with the source whom we are
 targeting.
-
 

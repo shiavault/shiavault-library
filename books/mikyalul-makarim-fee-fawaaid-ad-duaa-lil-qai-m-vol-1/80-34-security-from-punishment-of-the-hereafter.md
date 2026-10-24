@@ -6,14 +6,10 @@ is that: That person will remain safe from the punishment of the
 Hereafter and the terrors of the day of *Qiyamat*. This is supported by
 many verses of the Holy Qur’an. For example:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ
-وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ
-صَالِحًا فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ
-وَلَا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ
+> وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ
+> صَالِحًا فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ
+> وَلَا هُمْ يَحْزَنُونَ
 
 ***“Surely those who believe, and those who are Jews, and the
 Christians, and the Sabeans, whoever believes in Allah and the Last day
@@ -49,11 +45,7 @@ Or it may be that good deed means *Marefat* of the Imams (as) as
 mentioned in *Tafseer Ayyashi* from Imam Ja’far Sadiq (as) that he said
 regarding the statement of Allah, the Mighty and the High:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَعْمَلْ عَمَلًا صَالِحًا
-  </p>
-</blockquote>
+> فَلْيَعْمَلْ عَمَلًا صَالِحًا
 
 ***“…he should do good deeds…” (Qur’an, Surah Kahf 18:110)***
 
@@ -63,11 +55,7 @@ He said:
 
 It is narrated from Imam Muhammad Baqir (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ِ
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ِ
 
 ***“And (as for) those who believe and do good deeds…” (Qur’an, Surah
 Baqarah 2:82)***
@@ -83,12 +71,8 @@ Eminence, the Master of the Time (aj) is eligible in both the senses.
 
 2. Statement of Allah, the Mighty and the High in Surah Baqarah:
 
-<blockquote dir="rtl">
-  <p>
-بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ
-عِنْدَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ
+> عِنْدَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
 ***“Yes! whoever submits himself entirely to Allah and he is the doer of
 good (to others) he has his reward from his Lord, and there is no fear
@@ -100,12 +84,8 @@ from*Tafseer Ayyashi* and other sources that:
 
 Imam Muhammad Baqir (as) said regarding the verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
+> الْقُرْبَىٰ
 
 ***“Surely Allah enjoins the doing of justice and the doing of good (to
 others) and the giving to the kindred.” (Qur’an, Surah Nahl 16:90)***
@@ -130,20 +110,12 @@ the persons about whom the verse of the Holy Qur’an has mentioned,
 
 3. Statement of Allah, the Mighty and the High:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
-بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
+> بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَرِحِينَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ وَيَسْتَبْشِرُونَ
-بِالَّذِينَ لَمْ يَلْحَقُوا بِهِمْ مِنْ خَلْفِهِمْ أَلَّا خَوْفٌ
-عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> فَرِحِينَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ وَيَسْتَبْشِرُونَ
+> بِالَّذِينَ لَمْ يَلْحَقُوا بِهِمْ مِنْ خَلْفِهِمْ أَلَّا خَوْفٌ
+> عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
 ***“And reckon not those who are killed in Allah’s way as dead; nay,
 they are alive (and) are provided sustenance from their Lord; Rejoicing
@@ -160,12 +132,8 @@ verse.
 
 4. The statement of the Almighty Allah that:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ
 
 ***“Now surely the friends of Allah- they shall have no fear nor shall
 they grieve.” (Qur’an, Surah Yunus 10:62)***
@@ -183,12 +151,8 @@ sensible people.
 
 5. The noble verse of Surah Ahqaaf says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلَا
-خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلَا
+> خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
 ***“Surely those who say, Our Lord is Allah, then they continue on the
 right way, they shall have no fear nor shall they grieve.” (Qur’an,
@@ -219,11 +183,7 @@ The trustworthy and prominent Shaykh, Ali bin Ibrahim Qummi in his
 *Tafseer* through authentic chain of narrators says that His Eminence,
 Abu Abdillah Sadiq (as) said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
-  </p>
-</blockquote>
+> وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
 
 ***“And on the most elevated places there shall be men who know all by
 their marks.” (Qur’an, Surah Araaf 7:46)***
@@ -272,5 +232,4 @@ have neither fear nor sorrow.
 [^6]: Kafi; Vol. 1, Pg. 220
 
 [^7]: Tafseer Qummi, Vol. 1, Pg. 231
-
 

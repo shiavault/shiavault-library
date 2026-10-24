@@ -58,4 +58,3 @@ true teachings of Islam taught by them, so that we live a good and
 decent life in this world and earn the pleasure of God in the life
 hereafter.
 
-

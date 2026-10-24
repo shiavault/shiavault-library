@@ -22,4 +22,3 @@ al-Islamiyyah, Tehran AH 1388 (lunar reckoning).
 7. Nuri, Mirza Husain, *Mustadrak al-Wasa’il*, First Print, Institute of
 Al al-Bayt li-Ihya’ at-Turath, Qum AH 1407 (lunar reckoning).
 
-

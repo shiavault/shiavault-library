@@ -10,11 +10,7 @@ Surah ‘Isra’, Chapter 17
 The Content of Surah ‘Isra’
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -56,5 +52,4 @@ be attained merely just by reading; on the contrary, they will be
 brought about when the recitation is coupled with and backed up by
 meditation, reflection and, consequently, by the obtaining of clues for
 practical purposes.
-
 

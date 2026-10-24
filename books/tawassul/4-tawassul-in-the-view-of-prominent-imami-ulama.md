@@ -129,4 +129,3 @@ of the companions of the Prophet (S.A.W.A.) is not binding on the Muslim
 ummah, except perhaps for a few jurisprudents, unless it is related from
 Prophet Muhammad (S.A.W.A.) himself.
 
-

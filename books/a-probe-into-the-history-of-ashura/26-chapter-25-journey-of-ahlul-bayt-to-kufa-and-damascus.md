@@ -110,4 +110,3 @@ Shi'ah school, however, this distinction is enjoyed by the Holy Prophet
 as well as by Lady Fatima Zahra and the twelve Imams whose infallibility
 is proved by reason as well as by narrations.
 
-

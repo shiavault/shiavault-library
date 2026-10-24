@@ -304,4 +304,3 @@ Let the inferred cause be exactly proportioned (as it should be) to the
 known effect; and it is impossible that it can possess any qualities,
 from which new or different effects can be inferred.
 
-

@@ -81,4 +81,3 @@ entering the era of normal activities of life. If the lessons learnt in
 Ramadhan have left their marks upon our character, we are entitled to
 enjoy Eid-ul-Fitr.
 
-

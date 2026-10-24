@@ -1159,4 +1159,3 @@ mood. This principle is also remembered as the principle of general and
 inclusive intellectual concepts. (For details refer to Metaphysics of
 Paul Fulkia; pg. 92-96).
 
-

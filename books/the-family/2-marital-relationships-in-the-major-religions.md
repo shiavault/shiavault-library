@@ -99,7 +99,6 @@ married before the age of twenty.
 One of the sayings of Confucius says 'if a house stands on a firm
 foundation then the world is safe and sound'.
 
-
 **Conclusion**
 
 After that brief summary of the family system among various
@@ -146,7 +145,6 @@ nature like the church's prohibition of divorce, and the inquisition and
 extreme quelling of any opposition together with the social gulf between
 the elite and nobility and the poor and miserable. All these matters
 have fuelled these philosophies. 28
-
 
 **Section Two : The Call of Nature 29**
 
@@ -519,5 +517,4 @@ note).
 53 Sometimes the family would give some sugar to the notary although
 many of them did not even accept this.
 54 Seas of Lights; Volume 2; Page 272.
-
 

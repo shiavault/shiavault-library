@@ -79,4 +79,3 @@ hands twice; gargling three times; rinsing the nose three times, (all
 these are before *wudhu*). Washing the face and hands during *wudhu*
 twice, etc.
 
-

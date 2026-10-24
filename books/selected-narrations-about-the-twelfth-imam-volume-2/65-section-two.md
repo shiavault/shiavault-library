@@ -586,4 +586,3 @@ narrated from Shaykh Muḥammad al-Kūfī.
 [^12]: What is within the brackets is the quote of the person who
 narrated from Shaykh Muḥammad al-Kūfī.
 
-

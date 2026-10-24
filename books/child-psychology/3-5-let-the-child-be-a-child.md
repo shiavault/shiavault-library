@@ -83,7 +83,6 @@ while he as a child gropes in the dark for light, that is, knowledge
 leading to faith and then conviction, which he attains one after the
 other regarding the Unseen later in his adult life.
 
-
 **6- Spare the Child from Inferiority Complex**
 
 (Part 1 of 3) A young person enters a crowded mosque or imambara
@@ -196,5 +195,4 @@ have n traversed the earth and seen what have remained of those in the
 past who thought themselves to be mighty and ever-lasting. and sensed
 themselves superior in material terms during their time of pomp in this
 life.
-
 

@@ -153,4 +153,3 @@ Prayers and upon its manner and spirit.
 
 [^5]: Surah Taha 20:14
 
-

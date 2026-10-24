@@ -201,4 +201,3 @@ others but also possessed himself. As we mentioned in the beginning, it
 is only by studying his life that we find the others and try to practice
 them too.
 
-

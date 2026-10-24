@@ -86,4 +86,3 @@ the needy. As a matter of precaution, he must refrain from eating it; if
 he did so, as a matter of precaution (al ahwat), he must pay its price
 to the poor.
 
-

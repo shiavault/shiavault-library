@@ -491,4 +491,3 @@ tremble. (21:28)
 And will avail not aught any intercession with Him save Of him whom He
 hath permitted (34:23)
 
-

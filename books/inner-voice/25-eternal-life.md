@@ -46,4 +46,3 @@ is very appropriate to commemorate the martyrdom of Imam Husain (A.S.)
 and his companions. Their memory has been, and will be, kept alive by
 the grace of Allah, in whose name they sacrificed their lives.
 
-

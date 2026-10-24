@@ -12,14 +12,10 @@ How is it possible that a person refrains from renouncing those who are
 worthy of being repudiated whereas God, the Most High, says in the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ كَانَتْ لَکُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
-مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْکُمْ وَمِمَّا
-تَعْبُدُونَ مِنْ دُونِ اللهِ كَفَرْنَا بِکُمْ وَبَدَا بَيْنَنَا
-وَبَيْنَکُمُ الْعَدَاوَةُ وَالْبَغْضَآءُ أَبَداً
-  </p>
-</blockquote>
+> قَدْ كَانَتْ لَکُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
+> مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْکُمْ وَمِمَّا
+> تَعْبُدُونَ مِنْ دُونِ اللهِ كَفَرْنَا بِکُمْ وَبَدَا بَيْنَنَا
+> وَبَيْنَکُمُ الْعَدَاوَةُ وَالْبَغْضَآءُ أَبَداً
 
 ***“There is certainly a good exemplar for you in Abraham and those who
 were with him, when they said to their own people, ‘Indeed we repudiate
@@ -62,12 +58,8 @@ and to act against the orders and commandments of the Noble Prophet (S)
 such that they deserve that the Muslims distance themselves from them –
 as the Noble Qur’an has stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُؤْذُونَ اللهَ وَرَسُولَهُ لَعَنَهُمُ اللهُ فِي
-الدُّنْيا وَالآخِرَةِ وَأَعَدَّ لَهُمْ عَذاباً مُهِيناً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُؤْذُونَ اللهَ وَرَسُولَهُ لَعَنَهُمُ اللهُ فِي
+> الدُّنْيا وَالآخِرَةِ وَأَعَدَّ لَهُمْ عَذاباً مُهِيناً
 
 ***“Indeed those who torment God and His Apostle are cursed by God in
 this world and in the Hereafter, and He has prepared a humiliating
@@ -93,5 +85,4 @@ even after they left this world and up until the Day of Judgement.
 [^1]: Al-Qurʾan, Suratul Mumtahina (60), verse 4
 
 [^2]: Al-Qur’an, Suratul Ahzab (33), verse 57
-
 

@@ -24,4 +24,3 @@ touch."
 
 Usd-ul-Ghabah, vol. 2, p. 269
 
-

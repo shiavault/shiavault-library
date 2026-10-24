@@ -44,4 +44,3 @@ lives and thoughts. Therefore, a new stimulant to their souls was
 necessary to activate their lives and try to restore Islamic conduct to
 the society.
 
-

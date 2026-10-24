@@ -222,7 +222,6 @@ us just because what the followers of falsehood have done?" O Dawud, our
 authority over them was strongly stressed up on at the time of the
 covenant."
 
-
 **Chapter 21 : Chapter on al-Ruh, the Spirit H 342, Ch. 21, h 1**
 
 It is narrated from a number of our people from Ahmad ibn Muhammad ibn
@@ -276,5 +275,4 @@ and newly invented form. Allah selected and chose it over the other
 various forms and gave His-own possessive case just like He has done so
 about Ka'bah and the spirit saying, 'My house' 'I have blown My spirit
 in Him.'"
-
 

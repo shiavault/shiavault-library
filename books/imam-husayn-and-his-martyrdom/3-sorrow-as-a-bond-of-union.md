@@ -16,4 +16,3 @@ be convinced that some events of sorrow and apparent defeat are really
 the very things which are calculated to bring about, or lead us towards,
 the union of humanity.
 
-

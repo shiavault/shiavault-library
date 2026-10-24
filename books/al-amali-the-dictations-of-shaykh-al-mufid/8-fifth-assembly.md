@@ -234,4 +234,3 @@ me that he said: "One who acts without any understanding and vision, is
 like a person walking behind a mirage on a levelled desert, the faster
 he runs the farthest he ends up.
 
-

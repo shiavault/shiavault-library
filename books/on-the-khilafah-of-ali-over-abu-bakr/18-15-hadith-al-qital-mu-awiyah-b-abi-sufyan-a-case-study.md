@@ -22,17 +22,13 @@ The Messenger of Allah, *sallallahu ‘alaihi wa alihi*, had predicted
 Mu’awiyah’s insurrection, and had described him and his armies in some
 very strong terms. Imam al-Bukhari (d. 256 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا مسدد قال حدثنا عبد العزيز بن مختار قال حدثنا خالد الحذاء عن
-عكرمة قال لي ابن عباس ولابنه علي انطلقا إلى أبي سعيد فاسمعا من حديثه
-فانطلقنا فإذا هو في حائط يصلحه فأخذ رداءه فاحتبى ثم أنشأ يحدثنا حتى
-أتى ذكر بناء المسجد فقال كنا نحمل لبنة لبنة وعمار لبنتين لبنتين فرآه
-النبي صلى الله عليه و سلم فينفض التراب عنه ويقول (ويح عمار تقتله الفئة
-الباغية يدعوهم إلى الجنة ويدعونه إلى النار) . قال يقول عمار أعوذ بالله
-من الفتن
-  </p>
-</blockquote>
+> حدثنا مسدد قال حدثنا عبد العزيز بن مختار قال حدثنا خالد الحذاء عن
+> عكرمة قال لي ابن عباس ولابنه علي انطلقا إلى أبي سعيد فاسمعا من حديثه
+> فانطلقنا فإذا هو في حائط يصلحه فأخذ رداءه فاحتبى ثم أنشأ يحدثنا حتى
+> أتى ذكر بناء المسجد فقال كنا نحمل لبنة لبنة وعمار لبنتين لبنتين فرآه
+> النبي صلى الله عليه و سلم فينفض التراب عنه ويقول (ويح عمار تقتله الفئة
+> الباغية يدعوهم إلى الجنة ويدعونه إلى النار) . قال يقول عمار أعوذ بالله
+> من الفتن
 
 Musaddad – ‘Abd al-‘Aziz b. Mukhtar – Khalid al-Khudha – ‘Ikrimah:
 
@@ -51,13 +47,9 @@ refuge with Allah from affliction.’”[^1]
 This *hadith* is *mutawatir*, as Imam Ibn ‘Abd al-Barr (d. 463 H)
 states:
 
-<blockquote dir="rtl">
-  <p>
-وتواترت الآثار عن النبي صلى الله عليه وسلم أنه قال تقتل عمار الفئة
-الباغية وهذا من إخباره بالغيب وأعلام نبوته صلى الله عليه وسلم وهو من
-أصح الأحاديث
-  </p>
-</blockquote>
+> وتواترت الآثار عن النبي صلى الله عليه وسلم أنه قال تقتل عمار الفئة
+> الباغية وهذا من إخباره بالغيب وأعلام نبوته صلى الله عليه وسلم وهو من
+> أصح الأحاديث
 
 **The reports are** ***mutawatir*** **from the Prophet**, peace be upon
 him, stating that he said, “’Ammar will be murdered by a *baghi* group”.
@@ -67,12 +59,8 @@ prophethood, peace be upon him, and it is one of the most authentic
 
 Al-Hafiz (d. 852 H) also submits:
 
-<blockquote dir="rtl">
-  <p>
-وتواترت الأحاديث عن النبي صلى الله عليه وسلم أن عمارا تقتله الفئة
-الباغية وأجمعوا على أنه قتل مع علي بصفين
-  </p>
-</blockquote>
+> وتواترت الأحاديث عن النبي صلى الله عليه وسلم أن عمارا تقتله الفئة
+> الباغية وأجمعوا على أنه قتل مع علي بصفين
 
 **The** ***ahadith*** **are** ***mutawatir*** **from the Prophet**,
 peace be upon him, that ‘Ammar would be murdered by the *baghi* group,
@@ -85,13 +73,9 @@ army of ‘Ali, and was murdered by the troops of Mu’awiyah. As such,
 Mu’awiyah and his armies were the *baghi* group. Al-Hafiz Ibn Kathir (d.
 774 H) explains further:
 
-<blockquote dir="rtl">
-  <p>
-وهذا مقتل عمار بن ياسر رضي الله عنه مع أمير المؤمنين علي بن أبي طالب
-قتله أهل الشام وبان وظهر بذلك سر ما أخبره به الرسول صلى الله عليه وسلم
-من أنه تقتله الفئة الباغية وبان بذلك أن عليا محق وأن معاوية باغ
-  </p>
-</blockquote>
+> وهذا مقتل عمار بن ياسر رضي الله عنه مع أمير المؤمنين علي بن أبي طالب
+> قتله أهل الشام وبان وظهر بذلك سر ما أخبره به الرسول صلى الله عليه وسلم
+> من أنه تقتله الفئة الباغية وبان بذلك أن عليا محق وأن معاوية باغ
 
 This was the murder of ‘Ammar b. Yasir, may Allah be pleased with him,
 on the side of Amir al-Muminin ‘Ali b. Abi Talib. He was murdered by the
@@ -102,14 +86,10 @@ Truth and that Mu’awiyah was a** ***baghi*** **person**.[^4]
 
 Al-Hafiz agrees, but with some caution:
 
-<blockquote dir="rtl">
-  <p>
-وذهب جمهور أهل السنة إلى تصويب من قاتل مع علي لامتثال قوله تعالى وان
-طائفتان من المؤمنين اقتتلوا الآية ففيها الامر بقتال الفئة الباغية وقد
-ثبت ان من قاتل عليا كانوا بغاة وهؤلاء مع هذا التصويب متفقون على أنه لا
-يذم واحد من هؤلاء بل يقولون اجتهدوا فأخطأوا
-  </p>
-</blockquote>
+> وذهب جمهور أهل السنة إلى تصويب من قاتل مع علي لامتثال قوله تعالى وان
+> طائفتان من المؤمنين اقتتلوا الآية ففيها الامر بقتال الفئة الباغية وقد
+> ثبت ان من قاتل عليا كانوا بغاة وهؤلاء مع هذا التصويب متفقون على أنه لا
+> يذم واحد من هؤلاء بل يقولون اجتهدوا فأخطأوا
 
 The majority of the Ahl al-Sunnah are of the opinion that those who
 fought on the side of ‘Ali were correct, based on His statement, “If two
@@ -125,12 +105,8 @@ In simpler words, the murderers of ‘Ammar were free from blame,
 according to the Ahl al-Sunnah wa al-Jama’ah! Imam al-Nawawi (d. 676 H)
 reiterates this:
 
-<blockquote dir="rtl">
-  <p>
-قال العلماء هذا الحديث حجة ظاهرة في أن عليا رضي الله عنه كان محقا
-مصيبا والطائفة الأخرى بغاة لكنهم مجتهدون فلا إثم عليهم لذلك
-  </p>
-</blockquote>
+> قال العلماء هذا الحديث حجة ظاهرة في أن عليا رضي الله عنه كان محقا
+> مصيبا والطائفة الأخرى بغاة لكنهم مجتهدون فلا إثم عليهم لذلك
 
 The scholars said: This *hadith* is explicit proof that ‘Ali, may Allah
 be pleased with him, was upon the Truth and was correct, **and that the
@@ -145,12 +121,8 @@ the *hadith* that need to be looked into in order to deal with their
 acquittal by the Ahl al-Sunnah. First, we must understand that being a
 *baghi* person or group is *haram*, as Allah has declared:
 
-<blockquote dir="rtl">
-  <p>
-إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر
-والبغي يعظكم لعلكم تذكرون
-  </p>
-</blockquote>
+> إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر
+> والبغي يعظكم لعلكم تذكرون
 
 Verily, Allah commands you to do justice and kindness, and to give to
 kith and kin, and **forbids** corrupt behaviours, evil deeds **and**
@@ -161,12 +133,8 @@ Therefore, Mu’awiyah and his armies were an *illegitimate* group. Allah
 Himself BANNED them. In line with this, it is obligatory for Muslims as
 a whole to rise in arms against every *baghi* group within the *Ummah*:
 
-<blockquote dir="rtl">
-  <p>
-وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما فإن بغت إحداهما على
-الأخرى فقاتلوا التي تبغي حتى تفيء إلى أمر الله
-  </p>
-</blockquote>
+> وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما فإن بغت إحداهما على
+> الأخرى فقاتلوا التي تبغي حتى تفيء إلى أمر الله
 
 If two groups among the believers fight each other, then make peace
 between them both. **But if one of them is the** ***baghi*** **against
@@ -198,11 +166,7 @@ working for Shaytan. We will say more on this below. Meanwhile, even
 claim), would that have exonerated them from the crimes they committed?
 The Qur’an says “no”:
 
-<blockquote dir="rtl">
-  <p>
-إن فرعون وهامان وجنودهما كانوا خاطئين
-  </p>
-</blockquote>
+> إن فرعون وهامان وجنودهما كانوا خاطئين
 
 Verily, Fir’aun and Haman and their soldiers were people **who made
 mistakes**.[^9]
@@ -210,22 +174,14 @@ mistakes**.[^9]
 Yet, they will fully answer for their crimes on the Day of Resurrection.
 Moreover, we read this in the Book of Allah:
 
-<blockquote dir="rtl">
-  <p>
-قالوا يا أبانا استغفر لنا ذنوبنا إنا كنا خاطئين
-  </p>
-</blockquote>
+> قالوا يا أبانا استغفر لنا ذنوبنا إنا كنا خاطئين
 
 They said: “O our father! Ask forgiveness for our sins. Indeed, we have
 been people **who made mistakes**.”[^10]
 
 This is a similar verse:
 
-<blockquote dir="rtl">
-  <p>
-إنا آمنا بربنا ليغفر لنا خطايانا
-  </p>
-</blockquote>
+> إنا آمنا بربنا ليغفر لنا خطايانا
 
 We have believed in our Lord, that He may forgive us **our
 mistakes**.[^11]
@@ -239,14 +195,10 @@ argument, that the *baghi* group had *mistakenly* killed those pious
 people. Still, the Book of Allah has clear provisions concerning such a
 case:
 
-<blockquote dir="rtl">
-  <p>
-وما كان لمؤمن أن يقتل مؤمنا إلا خطأ ومن قتل مؤمنا خطأ فتحرير رقبة
-مؤمنة ودية مسلمة إلى أهله إلا أن يصدقوا ... فمن لم يجد فصيام شهرين
-متتابعين توبة من الله وكان الله عليما حكيما ومن يقتل مؤمنا متعمدا
-فجزاؤه جهنم خالدا فيها وغضب الله عليه ولعنه وأعد له عذابا عظيما
-  </p>
-</blockquote>
+> وما كان لمؤمن أن يقتل مؤمنا إلا خطأ ومن قتل مؤمنا خطأ فتحرير رقبة
+> مؤمنة ودية مسلمة إلى أهله إلا أن يصدقوا ... فمن لم يجد فصيام شهرين
+> متتابعين توبة من الله وكان الله عليما حكيما ومن يقتل مؤمنا متعمدا
+> فجزاؤه جهنم خالدا فيها وغضب الله عليه ولعنه وأعد له عذابا عظيما
 
 It is NOT for a believer to kill a believer except by mistake. **And
 whoever kills a believer** ***by mistake*****, he must set free a
@@ -284,11 +236,7 @@ shadow over their Islamic credentials. Whenever anyone is descried as
 “calling to Hellfire”, it means that he is a *kafir*. ‘Allamah
 al-‘Uthaymin (d. 1421 H) states:
 
-<blockquote dir="rtl">
-  <p>
-)وجعلناهم أئمة يدعون إلى النار (يعني بذلك قادة الكفار
-  </p>
-</blockquote>
+> )وجعلناهم أئمة يدعون إلى النار (يعني بذلك قادة الكفار
 
 (And We made them leaders inviting to the Fire), He is referring to
 **the leaders of the** ***kuffar***.[^13]
@@ -298,11 +246,7 @@ leaders are the leaders of the *kuffar*.
 
 Imam al-Alusi (d. 1270 H) also says:
 
-<blockquote dir="rtl">
-  <p>
-}يدعون إلى النار… { والمراد جعلهم ضالين مضلين
-  </p>
-</blockquote>
+> }يدعون إلى النار… { والمراد جعلهم ضالين مضلين
 
 {Inviting to the Fire} … what is intended is: **He made them misled
 misleaders**.[^14]
@@ -313,12 +257,8 @@ by Shaytan, and who also function as his soldiers, workers and callers.
 In any case, Allah Himself has given a clear Verdict about people like
 them:
 
-<blockquote dir="rtl">
-  <p>
-ولا تنكحوا المشركين حتى يؤمنوا ولعبد مؤمن خير من مشرك ولو أعجبكم أولئك
-يدعون إلى النار والله يدعو إلى الجنة والمغفرة بإذنه
-  </p>
-</blockquote>
+> ولا تنكحوا المشركين حتى يؤمنوا ولعبد مؤمن خير من مشرك ولو أعجبكم أولئك
+> يدعون إلى النار والله يدعو إلى الجنة والمغفرة بإذنه
 
 And do not marry to **idolaters** till they believe, and verily a
 believing slave is better than an idolater, even though he pleases you.
@@ -377,5 +317,4 @@ al-‘Azim wa Sab’ al-Mathani (Beirut: Dar Ihya al-Turath al-‘Arabi), vol.
 20, p. 83
 
 [^15]: Qur’an 2:221
-
 

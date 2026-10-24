@@ -1,11 +1,7 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the name of God the Most Gracious, the Dispenser of Grace***
 
@@ -185,5 +181,4 @@ Holy Najaf
  Baqir Sharif al-Qurashi
 
 [^1]: Samarra’, the capital of the Abbasid State at that time
-
 

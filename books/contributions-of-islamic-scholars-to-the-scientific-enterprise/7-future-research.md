@@ -25,4 +25,3 @@ in the Islamic world several centuries earlier, where it slowly and
 gradually advanced in ways that have been largely ignored but scholars
 in Western Europe.
 
-

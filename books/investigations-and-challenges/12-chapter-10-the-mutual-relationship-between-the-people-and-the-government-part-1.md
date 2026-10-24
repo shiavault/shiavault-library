@@ -180,11 +180,7 @@ Will and the Owner of everything, there is no sense in imagining that
 somebody has a right over God. Everything that everybody owns belongs to
 God:
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
-  </p>
-</blockquote>
+> لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
 
 ***To Him belongs whatever is in the heavens and whatever is in the
 earth. (2:255)***
@@ -193,12 +189,8 @@ Who else can have any right? Out of His grace and favor to His servants,
 corresponding to His right over them, He has set rights for them upon
 Himself:
 
-<blockquote dir="rtl">
-  <p>
-وَ جَعَلَ جَزَاءَهُمْ عَلَيْهِ مُضَاعَفَةَ ٱلثَّوَابِ تَفَضُّلاً
-مِنْهُ.
-  </p>
-</blockquote>
+> وَ جَعَلَ جَزَاءَهُمْ عَلَيْهِ مُضَاعَفَةَ ٱلثَّوَابِ تَفَضُّلاً
+> مِنْهُ.
 
 *He has laid upon Himself (the obligation of) their reward equal to
 several times the recompense as a mark of His bounty and the generosity
@@ -236,13 +228,9 @@ establish the balance between the two sets of rights. Of course, apart
 from it, other rights have also been determined. For instance, in the
 Qur’an He says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ
-فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا
-ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ
+> فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا
+> ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ
 
 ***And it was a must for Us to help the faithful. (30:47)***
 
@@ -250,12 +238,8 @@ Who has given this right? What right do people themselves have? It is
 God Who has given this right to the faithful if they remain steadfast in
 their faith, He shall assist them:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ إِنَّهُمْ
-لَهُمُ الْمَنْصُورُونَ وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ إِنَّهُمْ
+> لَهُمُ الْمَنْصُورُونَ وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ
 
 ***Certainly Our Decree has gone beforehand in favor of Our servants,
 the apostles, that they will indeed receive [Allah’s] help, and indeed
@@ -268,25 +252,17 @@ succor to those who are treading His path, send hidden assistances and
 provide causes for them to emerge triumphant. What is given in return
 for this right? In return, it is to help God and His religion:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ
-وَيُثَبِّتْ أَقْدَامَكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ
+> وَيُثَبِّتْ أَقْدَامَكُمْ
 
 ***O you who have faith! If you help Allah, He will help you and make
 your feet steady. (47:7)***
 
 If they are steadfast in faith, God will also help them:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
-تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا
-تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+> تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا
+> تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ
 
 ***Indeed those who say, ‘Our Lord is Allah!’ and then remain steadfast,
 the angels descend upon them, [saying,] ‘Do not fear, nor be grieved!’
@@ -302,24 +278,16 @@ favor for His servants. In simpler terms, we cannot determine a duty for
 God, but out of His compassion and generosity to His servants, He has
 fixed a duty for Himself. For example, He says:
 
-<blockquote dir="rtl">
-  <p>
-كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ
-  </p>
-</blockquote>
+> كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ
 
 ***Your Lord has made mercy incumbent upon Himself. (6:54)***
 
 In the language of the Qur’an, *kataba* means a very heavy
 responsibility. Regarding prayer, He says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا
-وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ
-ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا
-  </p>
-</blockquote>
+> فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا
+> وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ
+> ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا
 
 ***The Prayer is indeed a timed prescription [kitaban mawqutan] for the
 faithful. (4:103)***
@@ -327,12 +295,8 @@ faithful. (4:103)***
 Whenever He refers to a very heavy duty, He says “*kitab*” [a written
 one]. Concerning fasting, He also says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
-كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
+> كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***O you who have faith! Prescribed [kutiba] for you is fasting.
 (2:183)***
@@ -340,11 +304,7 @@ one]. Concerning fasting, He also says:
 That is, fasting is a definite duty and it must certainly be observed.
 Regarding Himself, God also uses the same term and says:
 
-<blockquote dir="rtl">
-  <p>
-كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ
-  </p>
-</blockquote>
+> كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ
 
 ***Your Lord has made [kataba] mercy incumbent upon Himself. (6:54)***
 
@@ -1080,5 +1040,4 @@ duty, it has the least right. Accordingly, the only duty of states is
 the maintenance of security and the only right of such states over
 people is to levy taxes as much as necessary for the maintenance of the
 society’s security.
-
 

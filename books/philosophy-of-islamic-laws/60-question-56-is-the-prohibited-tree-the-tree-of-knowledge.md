@@ -168,7 +168,6 @@ from, the Paradise and that was his tree of prohibition. Though in some
 traditions wheat is mentioned as the prohibited tree whose prohibition
 had an aspect of trial.
 
-
 [^1]: Surah Baqarah 2:31
 
 [^2]: Surah Aaraf 7:27
@@ -176,5 +175,4 @@ had an aspect of trial.
 [^3]: Surah Aaraf 7:20
 
 [^4]: Surah Aaraf 7:22
-
 

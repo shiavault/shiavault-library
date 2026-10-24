@@ -8,4 +8,3 @@ Brief Bibliography
 - The last several pages have been produced from the book: The Early
 History of Islam by Sayyid Safdar Husayn.
 
-

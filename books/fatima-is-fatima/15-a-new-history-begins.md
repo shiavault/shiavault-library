@@ -503,4 +503,3 @@ To Khadijah? To Muhammad? To Ali? To Husayn? To Zaynab?
 
 **To herself!!**
 
-

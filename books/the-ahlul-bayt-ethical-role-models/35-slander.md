@@ -17,4 +17,3 @@ excuse[^1].”
 [^1]: Quoted from Safinat ul-Bihar; 1/110 (as quoted from Uyounu Akhbar
 ir-Ridha)
 
-

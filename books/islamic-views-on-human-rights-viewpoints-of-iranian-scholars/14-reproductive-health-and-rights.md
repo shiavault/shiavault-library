@@ -1075,4 +1075,3 @@ Medical Researches and Morality,Vol. 5, p. 139
 
 [^50]: Ibid.
 
-

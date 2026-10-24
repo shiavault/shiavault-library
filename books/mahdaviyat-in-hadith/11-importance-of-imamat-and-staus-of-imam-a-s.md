@@ -120,7 +120,6 @@ been capsuled in a pair of hands. Allah - through the phrase has defined
 the foundation of Imamat and through the phrase He has elucidated the
 responsibility of Imamat.
 
-
 **The Origin of Patience**
 
 Patience has various levels. In logical terminology it is a 'sum total'
@@ -198,5 +197,4 @@ should neither think about the bounties of Paradise nor about the
 punishments of Hell. It is extremely difficult to reach to this stage of
 patience. And this stage too demands a remarkable amount of restrain on
 the 'Nafs'.
-
 

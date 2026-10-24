@@ -114,4 +114,3 @@ ignorance - it has already been given as an alternative explanation in
 the commentary. This latter part is narrated also in Majma'u 'l-bayan
 from the same Imam (a.s.).
 
-

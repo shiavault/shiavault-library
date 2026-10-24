@@ -723,4 +723,3 @@ beer true and all others would have been false. 
 
 [^2]: Sharh al-Nahjul Balagha, vol. II, p. 539.
 
-

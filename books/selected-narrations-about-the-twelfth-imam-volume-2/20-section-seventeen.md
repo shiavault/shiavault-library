@@ -165,4 +165,3 @@ al-anwār, vol. 51, chap. 6, p. 146, no. 14, with a slight difference;
 Ithbāt al-hudāt, vol. 3, chap. 32, p. 473, sect. 5, no. 152, with a
 slight difference.
 
-

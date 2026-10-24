@@ -183,4 +183,3 @@ Muslim, Kitab al-Imara, Hadith 3438; Musnad Ahmad ibn Hanbal, Part 1,
 
 [^21]: Noble Qur’an, 11:113
 
-

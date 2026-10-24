@@ -65,4 +65,3 @@ Months after months passed. The patience and hunger of the besieged
 increased. They ate the leaves of the trees. The Prophet [s] took pity
 on the hungry children.
 
-

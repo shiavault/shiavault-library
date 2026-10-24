@@ -103,4 +103,3 @@ materialistic and worldly pleasures either in terms of quantity or
 quality. In this way the relationship of the divine legal system with
 ethical system and the divine concept of universe becomes clear.
 
-

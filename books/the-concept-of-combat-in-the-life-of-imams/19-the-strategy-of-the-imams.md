@@ -144,4 +144,3 @@ as true examples and epitomes.
 
 [^1]: Bihar-ul-Anwar, Vol. 23, P. 194, Tradition 20
 
-

@@ -38,14 +38,10 @@ Actions that are performed by a person – be they good or bad – its
 consequences affect his children and his grandchildren as Imam Ja’far
 Sadiq (as) has mentioned in the interpretation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ
-وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ
-رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنْزَهُمَا
-رَحْمَةً مِنْ رَبِّكَ ۚ
-  </p>
-</blockquote>
+> وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ
+> وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ
+> رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنْزَهُمَا
+> رَحْمَةً مِنْ رَبِّكَ ۚ
 
 ***“And as for the wall, it belonged to two orphan boys in the city, and
 there was beneath it a treasure belonging to them, and their father was
@@ -75,11 +71,7 @@ something that neither reason nor Qur’an agrees to.
 Reason considers it injustice and injustice is a defect that Allah
 cannot be associated with. In the Holy Qur’an it is also mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
-  </p>
-</blockquote>
+> وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
 
 ***“And no bearer of burden shall bear the burden of another.” (Qur’an,
 Surah Anaam 6:164)***
@@ -249,11 +241,7 @@ In *Ihtijaaj* it is narrated from Amirul Momineen (as) that he said:
 about everything that happened in the past, that which will happen and
 is happening till the Judgment Day, the verse is as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
 
 ***“Allah makes to pass away and establishes what He pleases, and with
 Him is the basis of the Book.”(Qur’an, Surah Raad 13:39)*** [^4]
@@ -601,5 +589,4 @@ proved by the traditions of the Family of Infallibility.
 [^16]: Kafi; Vol. 1, Pg. 340
 
 [^17]: Ghaibat Nomani, Pg. 90
-
 

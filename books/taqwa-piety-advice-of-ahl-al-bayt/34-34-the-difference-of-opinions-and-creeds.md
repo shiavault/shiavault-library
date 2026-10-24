@@ -543,4 +543,3 @@ deprivations.
 
 [^17]: Qur'an, 49:10.
 
-

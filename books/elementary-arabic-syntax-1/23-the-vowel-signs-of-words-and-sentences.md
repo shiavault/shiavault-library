@@ -11,4 +11,3 @@ declinable word, but this state does not change the word at all.
  Or: **إن** **صَدَقَ** **القَصدُ** **حَسُنَ** **العَمَلُ** (If the
 intention is truthful the deed will be good.)
 
-

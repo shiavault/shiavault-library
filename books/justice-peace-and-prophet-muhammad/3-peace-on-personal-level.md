@@ -24,5 +24,3 @@ your strongest emotions, and live according to the voice of reason and
 conscience. Only those who can conquer their egos can truly establish
 peace in society.
 
-
-

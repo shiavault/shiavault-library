@@ -158,4 +158,3 @@ Detailed Answer
 [^12]: Mafatih al-Jinan, Ziyarat of Imam al-Mahdi ( ع) on Fridays:
 أَلسَّلاَمُ عَلَيْکَ أَيُّهَا الْمُهَذَّبُ الْخَائِفُ...
 
-

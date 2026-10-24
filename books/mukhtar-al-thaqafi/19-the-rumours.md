@@ -28,4 +28,3 @@ The army chased him. It found him at a village in Wasit and executed
 him. Al-Shimr himself beheaded Imam Husayn. He took his head to Kufa and
 Damascus.
 
-

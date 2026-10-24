@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-يا أَيُّهَا الَّذِينَ آمَنُوا لا تَتَوَلَّوْا قَوْماً غَضِبَ اللَّهُ
-عَلَيْهِمْ‏
-  </p>
-</blockquote>
+> يا أَيُّهَا الَّذِينَ آمَنُوا لا تَتَوَلَّوْا قَوْماً غَضِبَ اللَّهُ
+> عَلَيْهِمْ‏
 
 ***“O you who believe! Do not make friends with a people with whom Allah
 is wroth.”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-الْغَضَبُ يُفْسِدُ الْإِيمَانَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ
-  </p>
-</blockquote>
+> الْغَضَبُ يُفْسِدُ الْإِيمَانَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ
 
 ***“Anger corrupts faith just as vinegar corrupts honey.”***[^2]
 
@@ -220,5 +212,4 @@ truthful and correct speech.
 [^8]: Muntahal Aa’maal, vol. 2, pg.130.
 
 [^9]: Lataaif al-Tawaaif, pg. 94.
-
 

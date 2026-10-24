@@ -58,7 +58,6 @@ This shows that Ibn Taimia considered this deviant group as Sunni
 Muslim in variance with the consensus identifying them as extremists,
 heretics and idolaters who did not worship only Allah.
 
-
 **9 - Whom does the Wahabi serve?**
 
 Muslims are obliged to give first priority to upholding Muslims'
@@ -132,7 +131,6 @@ Wahabis have also consistently helped pro-West regimes to put down
 liberation movements and to suppress the Islamic reawakening movement
 which has given them and other unpopular regimes a strong cause for
 worry.
-
 
 **10 - The true faith regarding visiting the Prophet's**
 
@@ -211,7 +209,6 @@ Ibn Taimai said: Ahmed ibn Hanbal, as reported in Minsak al-Mirwithi,
 allowed asking for the Prophet's intercession and supplicating at his
 tomb. Other sources such as Ibn Abi al-Dunia, al-Baihaqi, al-Tabarani
 have also confirmed this, according to Ibn Taimia. 41
-
 
 **11 - Anti Wahabia books**
 
@@ -334,5 +331,4 @@ p. 199.
 40. Tahtheeb al-Tah'theeb, vol. 7, p. 339.
 
 41. Ibn Taimia, Al-Tawasil wa la-Wasila, pp. 105-106.
-
 

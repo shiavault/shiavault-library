@@ -90,4 +90,3 @@ these cases they are like any other regular verb. For example: **أخذتُ
 tense. For example:  
  کاد **الولدُ یَغرقُ**
 
-

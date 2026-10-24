@@ -16,4 +16,3 @@ streets of Kufa.
 Thus the head of Imam Hussain (Q) was the first head to be put on a
 spear.
 
-

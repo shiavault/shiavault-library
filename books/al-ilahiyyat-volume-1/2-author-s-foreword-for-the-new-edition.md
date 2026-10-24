@@ -100,4 +100,3 @@ Praise is due to Allah, Lord of the Worlds.
 **Hassan Makki al-Amili**
 Holy Shawwal 1411 A.H./April 1991
 
-

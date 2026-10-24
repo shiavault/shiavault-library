@@ -30,4 +30,3 @@ Muslim looked at Habib. Then he looked at Imam Husayn [a] and said:
 
 *By the Lord of Kaaba, I will!*
 
-

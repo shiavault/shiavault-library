@@ -51,7 +51,5 @@ Al-Ghadear Center for studies is interested to introduce this book in
 its new dress after its edition has been sold out wishing to achieve the
 benefit it aims.
 
-
 Al-Ghadeer Center for Islamic Studies
-
 

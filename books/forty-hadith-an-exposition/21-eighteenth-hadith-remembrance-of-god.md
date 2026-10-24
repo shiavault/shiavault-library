@@ -1,23 +1,19 @@
 Eighteenth Hadith: Remembrance Of God
 =====================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَنَدِ المُتَّصِلِ إلَى فَخْرِ الطَّائِفَةِ وَذُخْرِهَا مُحَمَّدِ
-بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنْ مُحَمَّدِ بْنِ يَحْيَى،
-عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى، عَنِ ابْنِ مَحْبُوبٍ، عَنْ
-عَبْدِاللهِ بْنِ سِنَانٍ، عَنْ أبِي حَمْزَةَ الثَّمَالِيِّ، عَنْ أبِي
-جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: مَكْتُوبٌ فِي التَّوْرَاةِ الَّتِي
-لَمْ تُغَيَّرْ أَنَّ مُوسَى عَلَيْهِ السَّلامُ سَأَلَ رَبَّهُ فَقَالَ:
-يَا رَبِّ أَقَرِيبٌ أَنْتَ مِنِّي فَأُنَاجِيكَ أَمْ بَعِيدٌ
-فَأُنَادِيكَ؟ فَأَوْحَى اللهُ عَزَّ وَجَلَّ إِلَيْهِ: يَا مُوسَى أَنَا
-جَلِيسُ مَنْ ذَكَرَنِي. فَقَالَ مُوسَى: فَمَنْ فِي سِتْرِكَ يَوْمَ لا
-سِتْرَ إلا سِتْرَكَ؟ فَقَالَ: الَّذِينَ يَذْكُرُونَنِي فَأَذْكُرُهُمْ
-وَيَتَحَابُّونَ فِيَّ فَأُحِبُّهُمْ. فَأُولَئِكَ الَّذِينَ إَذَا
-أَرَدْتُ أَنْ أُصِيبَ أَهْلَ الأرْضِ بِسُوءٍ ذَكَرْتَهُمْ فَدَفَعْتُ
-عَنْهُمْ بِهِمْ.
-  </p>
-</blockquote>
+> بِالسَنَدِ المُتَّصِلِ إلَى فَخْرِ الطَّائِفَةِ وَذُخْرِهَا مُحَمَّدِ
+> بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنْ مُحَمَّدِ بْنِ يَحْيَى،
+> عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى، عَنِ ابْنِ مَحْبُوبٍ، عَنْ
+> عَبْدِاللهِ بْنِ سِنَانٍ، عَنْ أبِي حَمْزَةَ الثَّمَالِيِّ، عَنْ أبِي
+> جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: مَكْتُوبٌ فِي التَّوْرَاةِ الَّتِي
+> لَمْ تُغَيَّرْ أَنَّ مُوسَى عَلَيْهِ السَّلامُ سَأَلَ رَبَّهُ فَقَالَ:
+> يَا رَبِّ أَقَرِيبٌ أَنْتَ مِنِّي فَأُنَاجِيكَ أَمْ بَعِيدٌ
+> فَأُنَادِيكَ؟ فَأَوْحَى اللهُ عَزَّ وَجَلَّ إِلَيْهِ: يَا مُوسَى أَنَا
+> جَلِيسُ مَنْ ذَكَرَنِي. فَقَالَ مُوسَى: فَمَنْ فِي سِتْرِكَ يَوْمَ لا
+> سِتْرَ إلا سِتْرَكَ؟ فَقَالَ: الَّذِينَ يَذْكُرُونَنِي فَأَذْكُرُهُمْ
+> وَيَتَحَابُّونَ فِيَّ فَأُحِبُّهُمْ. فَأُولَئِكَ الَّذِينَ إَذَا
+> أَرَدْتُ أَنْ أُصِيبَ أَهْلَ الأرْضِ بِسُوءٍ ذَكَرْتَهُمْ فَدَفَعْتُ
+> عَنْهُمْ بِهِمْ.
 
 Muhammad ibn Ya’qub al-Kulayni (R) from Muhammad ibn Yahya, from Ahmad
 ibn Muhammad ibn ‘Isa, from Ibn Mahbub, from ‘Abd Allah ibn Sinan, from
@@ -82,23 +78,15 @@ reality. However, that which is mentioned in the noble verses of the
 Glorious Book of God regarding the attribution of nearness and proximity
 to God Almighty, such as the verses,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِي إِذَا دَعَانِي.﴾
-  </p>
-</blockquote>
+> ﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِي إِذَا دَعَانِي.﴾
 
 ***And when My servants question thee concerning Me,*** (***tell them
 that***) ***I am near to answer the call of the caller, when he calls to
 Me.*** (***2:186***)
 
-<blockquote dir="rtl">
-  <p>
-﴿وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ وَنَحْنُ أَقْرَبُ إِلَيْهِ
-مِنْ حَبْلِ الْوَرِيدِ.﴾
-  </p>
-</blockquote>
+> ﴿وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ وَنَحْنُ أَقْرَبُ إِلَيْهِ
+> مِنْ حَبْلِ الْوَرِيدِ.﴾
 
 ***And We know what his soul whispers within him, and We are nearer to
 him than the jugular vein.*** (***50:16***)
@@ -119,12 +107,8 @@ preference for concealed remembrance (*dhikr al-khafi*) and the
 desirability of remembrance within the heart and secretly can be
 inferred. This is also indicated by the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ الْجَهْرِ
-مِنْ الْقَوْلِ بِالْغُدُوِّ وَالْآصَالِ.﴾
-  </p>
-</blockquote>
+> ﴿وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ الْجَهْرِ
+> مِنْ الْقَوْلِ بِالْغُدُوِّ وَالْآصَالِ.﴾
 
 ***Remember thy Lord in thy soul, humbly and fearfully, not loud of
 voice, at morn and eventide.*** (***7:205***)
@@ -139,14 +123,10 @@ negligent is like one who fights against the *muharibun* (i.e. those who
 have taken up arms against God and Islam). The following tradition is
 mentioned in the *‘Uddat al-dai* of Ibn Fahd:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَنْ ذَكَرَ اللهَ فِي
-السُّوقِ مُخْلِصاً عِنْدَ غَفْلَةِ النَّاسِ وَشُغْلِهِمْ بِمَا هُمْ
-فِيهِ كَتَبَ اللهُ لَهُ ألْفَ حَسَنَةٍ وَيَغْفِرُ اللهُ لَهُ يَوْمَ
-القِيَامَةِ مَغْفِرَةً لَمْ تَخْطُرْ عَلَى قَلْبِ بَشَرٍ.
-  </p>
-</blockquote>
+> قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَنْ ذَكَرَ اللهَ فِي
+> السُّوقِ مُخْلِصاً عِنْدَ غَفْلَةِ النَّاسِ وَشُغْلِهِمْ بِمَا هُمْ
+> فِيهِ كَتَبَ اللهُ لَهُ ألْفَ حَسَنَةٍ وَيَغْفِرُ اللهُ لَهُ يَوْمَ
+> القِيَامَةِ مَغْفِرَةً لَمْ تَخْطُرْ عَلَى قَلْبِ بَشَرٍ.
 
 The narrator says that the Prophet (S) said, “One who recalls God in the
 marketplace, with sincerity, in the midst of the people’s obliviousness
@@ -165,12 +145,8 @@ this matter is also mentioned in other traditions. This remembrance
 stands in opposition to the neglect (*nisyan*) mentioned by God Almighty
 in relation to one who forgets God’s *ayat* (signs, verses):
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا. قَالَ
-كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنسَى.﴾
-  </p>
-</blockquote>
+> ﴿قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا. قَالَ
+> كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنسَى.﴾
 
 ***He shall say, ‘O my Lord, why hast Thou raised me blind, and I was
 wont to see?’ God shall say, ‘Even so it is. Our ayat came unto thee,
@@ -218,11 +194,7 @@ Beauty, he wanted to discover the identity of those who shall achieve
 the union, so that he may fulfill his duty in all its aspects. Hence he
 asked:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ فِي سِتْرِكَ يَوْمَ لا سِتْرَ إلا سِتْرَكَ؟
-  </p>
-</blockquote>
+> فَمَنْ فِي سِتْرِكَ يَوْمَ لا سِتْرَ إلا سِتْرَكَ؟
 
 Who are they that shall be in Thy refuge on the day when there shall be
 no refuge except Thy refuge?
@@ -252,12 +224,8 @@ Let it be known to you that *tadhakkur* (remembrance) is the result of
 considered to precede that of *tadhakkur.* Khwajah ‘Abd Allah al-’Ansari
 says:
 
-<blockquote dir="rtl">
-  <p>
-التَّذَكُّرُ فَوْقَ التَّفَكُّرِ. فَإنَّ التَّفّكُّرَ طَلَبٌ
-وَالتَّذَكُّرَ وُجُودٌ.
-  </p>
-</blockquote>
+> التَّذَكُّرُ فَوْقَ التَّفَكُّرِ. فَإنَّ التَّفّكُّرَ طَلَبٌ
+> وَالتَّذَكُّرَ وُجُودٌ.
 
 Tadhakkur stands above tafakkur, for verily tafakkur is the search (of
 the Beloved) and tadhakkur is the attainment (of the Beloved).
@@ -348,11 +316,7 @@ faculties, are accompanied with the remembrance of God, making no move
 against their duties. Thereupon, their movements and pauses begin and
 end with the *dhikr* of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿بِاِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا.﴾
-  </p>
-</blockquote>
+> ﴿بِاِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا.﴾
 
 ***In the Name of Allah shall be its course and its berthing.***
 (***11:41***)
@@ -422,14 +386,10 @@ and *tayammun*.
 Some Traditions Concerning Dhikr
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِسَنَدٍ صَحِيحٍ عَنِ الفُضَيْلِ بْنِ يَسَارٍ قَالَ: قَالَ
-أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: مَا مِنْ مَجْلِسٍ يَجْتَمِعُ
-فِيهِ أَبْرَارٌ وَفُجَّارٌ فَيَقُومُونَ عَلَى غَيْرِ ذِكْرِ اللهِ
-عَزَّ وَجَلَّ إلا كَانَ حَسْرَةً عَلَيْهِمْ يَوْمَ القِيَامَةِ.
-  </p>
-</blockquote>
+> الكَافِي بِسَنَدٍ صَحِيحٍ عَنِ الفُضَيْلِ بْنِ يَسَارٍ قَالَ: قَالَ
+> أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: مَا مِنْ مَجْلِسٍ يَجْتَمِعُ
+> فِيهِ أَبْرَارٌ وَفُجَّارٌ فَيَقُومُونَ عَلَى غَيْرِ ذِكْرِ اللهِ
+> عَزَّ وَجَلَّ إلا كَانَ حَسْرَةً عَلَيْهِمْ يَوْمَ القِيَامَةِ.
 
 In al-Kafi, it is reported with a sahih chain of transmission from
 al-Fudayl ibn Yasir that Imam Ja’far al-Sadiq (A) said, “There is no
@@ -445,15 +405,11 @@ long as there is opportunity, a human being must take advantage of his
 gatherings and assemblies, letting them not remain empty of God’s
 remembrance.
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِسَنَدٍ مَوْثُوقٍ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ:
-مَنْ أَرَادَ أَنْ يَكْتَالَ بِالمِكْيَالِ الأَوْفَى فَلْيَقُلْ إذَا
-أَرَادَ أنْ يَقُومَ مِنْ مَجْلِسِهِ: ﴿سُبْحَانَ رَبِّكَ رَبِّ
-الْعِزَّةِ عَمَّا يَصِفُونَ. وَسَلَامٌ عَلَى الْمُرْسَلِينَ.
-وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
-  </p>
-</blockquote>
+> الكَافِي بِسَنَدٍ مَوْثُوقٍ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ:
+> مَنْ أَرَادَ أَنْ يَكْتَالَ بِالمِكْيَالِ الأَوْفَى فَلْيَقُلْ إذَا
+> أَرَادَ أنْ يَقُومَ مِنْ مَجْلِسِهِ: ﴿سُبْحَانَ رَبِّكَ رَبِّ
+> الْعِزَّةِ عَمَّا يَصِفُونَ. وَسَلَامٌ عَلَى الْمُرْسَلِينَ.
+> وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
 
 In al-Kafi, it is reported with a muwaththaq chain of transmission from
 Imam al-Baqir (A) that he said, “Whoever desires to receive the full
@@ -471,16 +427,12 @@ Also it is reported in a *mursal* tradition from Imam al-Sadiq (A) that
 recitation of these verses at the time of the end of a gathering is an
 atonement for sins.[^6]
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنِ ابْنِ فَضَالٍ رَفَعَهُ قَالَ: قَالَ اللهُ
-عَزَّ وَجَلَّ لِعِيسَى عَلَيْهِ السَّلامُ: يَا عِيسَى اذْكُرْنِي فِي
-نَفْسِكَ أَذْكُرْكَ فِي نَفْسِي، وَاذْكُرْنِي فِي مَلَإ[كَ] أَذْكُرْكَ
-فِي مَلَإٍ خَيْرٍ مِنْ مَلَإ الآدَمِيِّينِ. يَا عِيسَى أَلِنْ لِي
-قَلْبَكَ وَأَكْثِرْ ذِكْرِي فِي الخَلَوَاتِ وَاعْلَمْ أنَّ سُرُورِي
-أَنْ تُبَصْبِصَ إلّيَّ وَكُنْ فِي ذَلِكَ حَيّاً وَلا تَكُنْ مَيِّتاً.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنِ ابْنِ فَضَالٍ رَفَعَهُ قَالَ: قَالَ اللهُ
+> عَزَّ وَجَلَّ لِعِيسَى عَلَيْهِ السَّلامُ: يَا عِيسَى اذْكُرْنِي فِي
+> نَفْسِكَ أَذْكُرْكَ فِي نَفْسِي، وَاذْكُرْنِي فِي مَلَإ[كَ] أَذْكُرْكَ
+> فِي مَلَإٍ خَيْرٍ مِنْ مَلَإ الآدَمِيِّينِ. يَا عِيسَى أَلِنْ لِي
+> قَلْبَكَ وَأَكْثِرْ ذِكْرِي فِي الخَلَوَاتِ وَاعْلَمْ أنَّ سُرُورِي
+> أَنْ تُبَصْبِصَ إلّيَّ وَكُنْ فِي ذَلِكَ حَيّاً وَلا تَكُنْ مَيِّتاً.
 
 Al-Kafi, in a marfu’ hadith, narrates with its chain of transmission
 from Ibn Faddal, from one of the Imams (A) that he said, “God Almighty
@@ -495,29 +447,21 @@ and don’t be dead.’[^7]
 this alludes to the intensity of eagerness and humility. By ‘life’ in
 remembrance is meant the presence and attention of the heart.
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-إنَّ اللهَ عَزَّ وَجَلَّ يَقُولُ: مَنْ شُغِلَ بِذِكْرِي عَنْ
-مَسْأَلَتِي أَعْطَيْتُهُ أَفْضَلَ مَا أُعْطِي مَنْ سَأَلَنِي.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> إنَّ اللهَ عَزَّ وَجَلَّ يَقُولُ: مَنْ شُغِلَ بِذِكْرِي عَنْ
+> مَسْأَلَتِي أَعْطَيْتُهُ أَفْضَلَ مَا أُعْطِي مَنْ سَأَلَنِي.
 
 Imam al-Sadiq (A) said: Verily God Almighty has said, “One who is kept
 by My remembrance from asking something of Me, I bestow upon him the
 best of what I have bestowed upon any petitioner that has asked anything
 of Me.”[^8]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَحْمَدَ بْنِ فَهْدٍ فِي عُدَّةِ الدَّاعِي عَنْ رَسُولِ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ: إعْلَمُوا أَنَّ خَيْرَ
-أَعْمَالِكُمُ عِنْدَ مَلِيكِكُمْ وَأَزْكَاهَا وَأَرْفَعَهَا فِي
-دَرَجَاتِكُمْ وَخَيْرَ مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ ذِكْرُ اللهِ
-سُبْحَانَهُ وَتَعَالَى. فَإنَّهُ أَخْبَرَ عَنْ نَفْسِهِ فَقَالَ: أَنَا
-جَلِيسُ مَنْ ذَكَرَنِي.
-  </p>
-</blockquote>
+> عَنْ أَحْمَدَ بْنِ فَهْدٍ فِي عُدَّةِ الدَّاعِي عَنْ رَسُولِ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ: إعْلَمُوا أَنَّ خَيْرَ
+> أَعْمَالِكُمُ عِنْدَ مَلِيكِكُمْ وَأَزْكَاهَا وَأَرْفَعَهَا فِي
+> دَرَجَاتِكُمْ وَخَيْرَ مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ ذِكْرُ اللهِ
+> سُبْحَانَهُ وَتَعَالَى. فَإنَّهُ أَخْبَرَ عَنْ نَفْسِهِ فَقَالَ: أَنَا
+> جَلِيسُ مَنْ ذَكَرَنِي.
 
 Ahmad ibn Fahd narrates in ‘Uddat al-Dai from the Messenger of Allah (S)
 that he said, “The best of your acts near God and the purest and
@@ -529,11 +473,7 @@ The traditions concerning the excellence of *dhikr,* its manner,
 etiquette and conditions are so many that to mention them is beyond the
 capacity of these pages.
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمْدُ للهِ أَوَّلاً وَآخِراً وَظَاهِراً وَبَاطِناً.
-  </p>
-</blockquote>
+> وَالحَمْدُ للهِ أَوَّلاً وَآخِراً وَظَاهِراً وَبَاطِناً.
 
 And praise is God’s at the beginning and the end, inwardly and
 outwardly.
@@ -559,5 +499,4 @@ No.3.
 [^8]: . Ibid., bab al-’ishtighal bi dhikr Allah, hadith No.l.
 
 [^9]: ‘Uddat al-da’i, 238.
-
 

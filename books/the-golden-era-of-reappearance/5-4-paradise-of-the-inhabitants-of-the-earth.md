@@ -21,11 +21,7 @@ prior to the reappearance*[^3]*. “*
 Some commentators and interpreters have explained the above concept
 thus:
 
-<blockquote dir="rtl">
-  <p>
-و من نسل علي (ع) القائم المهدي (ع) الذي يبدل الارض غير الارض
-  </p>
-</blockquote>
+> و من نسل علي (ع) القائم المهدي (ع) الذي يبدل الارض غير الارض
 
 “ And from the progeny of Hazrath Ali(a.s.) will be the Qaem, the Mahdi,
 who will change the earth with ta different one.” ( Al-Ghaibah by
@@ -74,5 +70,4 @@ of his government.’)
 
 [^6]: (أن الله على كل شيء قدير “ Surely Allah has power over all things.
 "- Surah Baqarah (2): Verse 148
-
 

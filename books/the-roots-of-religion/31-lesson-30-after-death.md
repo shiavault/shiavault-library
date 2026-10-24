@@ -475,4 +475,3 @@ Who will not be able to benefit from the intercession of Ahlul Bayt?
 
 [^1]: Nahjul Balaghah
 
-

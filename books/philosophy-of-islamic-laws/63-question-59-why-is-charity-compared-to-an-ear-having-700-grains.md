@@ -87,4 +87,3 @@ commentary of the above ayat
 
 [^3]: Surah Nur 24:35
 
-

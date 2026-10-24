@@ -162,12 +162,8 @@ foolishness and stupidity. For this reason, ignorance includes behaving
 in an unwise, foolish or senseless manner and this sense has been
 employed in many verses of the Qur’an. For example:
 
-<blockquote dir="rtl">
-  <p>
-... وَإِلاَّ تَصْرِفْ عَنِّي كَيدَهُنَّ أَصْبُ إِلَيهِنَّ وَأَكُنْ مِن
-الْجَاهِلِينَ
-  </p>
-</blockquote>
+> ... وَإِلاَّ تَصْرِفْ عَنِّي كَيدَهُنَّ أَصْبُ إِلَيهِنَّ وَأَكُنْ مِن
+> الْجَاهِلِينَ
 
 ***“If You do not turn away their schemes from me, I will incline
 towards them and become one of the ignorant.”***[^6]
@@ -179,12 +175,8 @@ incorrect and furthermore in most cases lack of knowledge is an excuse.
 Whereas this word is mostly used for reproach and in inexcusable
 instances such as when Allah reproaches the brothers of Joseph:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ
-جَاهِلُونَ
-  </p>
-</blockquote>
+> هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ
+> جَاهِلُونَ
 
 ***“Did you realize what you did to Joseph and his brother when you were
 ignorant?”***[^7]
@@ -199,13 +191,9 @@ In addition, when Prophet Moses (*‘a*) told his people that Allah has
 given you orders to slaughter a cow, they asked him if he was deriding
 them.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يأْمُرُكُمْ أَنْ
-تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ
-بِاللَّهِ أَنْ أَكُونَ مِنْ الْجَاهِلِينَ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يأْمُرُكُمْ أَنْ
+> تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ
+> بِاللَّهِ أَنْ أَكُونَ مِنْ الْجَاهِلِينَ
 
 ***“And when Moses said to his people, ‘Indeed Allah commands you to
 slaughter a cow,’ they said, ‘Do you take us in derision?’ He said, ‘I
@@ -236,16 +224,12 @@ high-minded.”[^9]
 The Gracious Qur’an explains the way of fighting a foolish enemy in the
 following way:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَسْتَوِي الْحَسَنَةُ وَلاَ السَّيئَةُ ادْفَعْ بِالَّتِي هِيَ
-أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
-وَلِيٌّ حَمِيمٌ \* وَمَا يلَقَّاهَا إِلاَّ الَّذِينَ صَبَرُوا وَمَا
-يلَقَّاهَا إِلاَّ ذُو حَظٍّ عَظِيمٍ \* وَإِمَّا يَنْزَغَنَّكَ مِن
-الشَّيطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ إِنَّهُ هُوَ السَّمِيعُ
-الْعَلِيمُ
-  </p>
-</blockquote>
+> وَلاَ تَسْتَوِي الْحَسَنَةُ وَلاَ السَّيئَةُ ادْفَعْ بِالَّتِي هِيَ
+> أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
+> وَلِيٌّ حَمِيمٌ \* وَمَا يلَقَّاهَا إِلاَّ الَّذِينَ صَبَرُوا وَمَا
+> يلَقَّاهَا إِلاَّ ذُو حَظٍّ عَظِيمٍ \* وَإِمَّا يَنْزَغَنَّكَ مِن
+> الشَّيطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ إِنَّهُ هُوَ السَّمِيعُ
+> الْعَلِيمُ
 
 ***“And not alike are good and evil. Repel [evil] with what is best. [If
 you do so,] behold, he between whom and you was enmity, will be as
@@ -268,13 +252,9 @@ surround the Noble Prophet (S) seeking to be in his presence. On the
 basis of the words of Allah, the reason for this was the attributes of
 mercy and forbearance which the Noble Prophet (S) possessed:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِن اللّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا غَلِيظَ
-الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ
-لَهُمْ وَشَاوِرْهُمْ فِي الأَمْرِ...
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِن اللّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا غَلِيظَ
+> الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ
+> لَهُمْ وَشَاوِرْهُمْ فِي الأَمْرِ...
 
 ***“It is by Allah’s mercy that you are gentle to them; and had you been
 harsh and hardhearted, surely they would have scattered from around you.
@@ -284,12 +264,8 @@ their affairs…”***[^11]
 And also in regard to the logic of the conduct of the righteous servants
 of Allah, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الأَرْضِ هَوْنًا
-وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلاَمًا
-  </p>
-</blockquote>
+> وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الأَرْضِ هَوْنًا
+> وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلاَمًا
 
 ***“The servants of the All-Beneficent are those who walk humbly on the
 earth, and when the ignorant address them, say ‘Peace.”***[^12]
@@ -473,11 +449,7 @@ worldly leaders, to relinquish firmness in accomplishing his goals and
 to show compromise and pliability with his enemies. In regard to their
 demands, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تُطِعْ الْمُكَذِّبِينَ \* وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
-  </p>
-</blockquote>
+> فَلاَ تُطِعْ الْمُكَذِّبِينَ \* وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
 
 ***“So do not yield to the rejecters, who are eager that you should be
 pliant, so that they (too) may be pliant.”***[^19]
@@ -489,15 +461,11 @@ fact compromise with the enemy, and it is for this reason that Allah
 strongly prohibits this action and asks the Noble Prophet (S) to
 strictly enforce His laws on this matter:
 
-<blockquote dir="rtl">
-  <p>
-وَأَن احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلاَ تَتَّبِعْ
-أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ
-اللَّهُ إِلَيْكَ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يرِيدُ اللَّهُ
-أَنْ يصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ وَإِنَّ كَثِيرًا مِن النَّاسِ
-لَفَاسِقُونَ
-  </p>
-</blockquote>
+> وَأَن احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلاَ تَتَّبِعْ
+> أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ
+> اللَّهُ إِلَيْكَ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يرِيدُ اللَّهُ
+> أَنْ يصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ وَإِنَّ كَثِيرًا مِن النَّاسِ
+> لَفَاسِقُونَ
 
 ***“Judge between them by what Allah has sent down, and do not follow
 their low desires. Beware of them lest they should beguile you from part
@@ -571,12 +539,8 @@ and other acts of worship and servitude while teaching them cultural
 activities. Some interpreters of the Qur’an say that the following verse
 was revealed in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلاَ أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
-قَلِيلاً
-  </p>
-</blockquote>
+> وَلَوْلاَ أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
+> قَلِيلاً
 
 ***“And had it not been that We had established you, you would certainly
 have been near to incline to them a little.”***[^21]
@@ -651,11 +615,7 @@ pursuing your objectives, you must have complete trust in Allah. The
 second point is that if you want to be beloved and honorable, you must
 have piety. Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ...
-  </p>
-</blockquote>
+> ... إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ...
 
 ***“…Indeed the noblest of you in the sight of Allah is the most pious
 among you…”***[^23]
@@ -719,11 +679,7 @@ Allah.”[^24]
 In the Gracious Qur’an, there are many verses with regard to trust in
 Allah, amongst which is this verse:
 
-<blockquote dir="rtl">
-  <p>
-... وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> ... وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
 ***“And in Allah let all the faithful put their trust.”***[^25]
 
@@ -1018,15 +974,11 @@ account of coveting the world or for material rewards.
 Allah, the Exalted, mentions humility and respect towards parents after
 mentioning worship and servitude to Him:
 
-<blockquote dir="rtl">
-  <p>
-وَقَضَى رَبُّكَ أَلاَّ تَعْبُدُوا إِلاَّ إِيَّاهُ وَبِالْوَالِدَيْنِ
-إِحْسَانًا إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ
-كِلاَهُمَا فَلاَ تَقُلْ لَهُمَا أُفٍّ وَلاَ تَنْهَرْهُمَا وَقُلْ
-لَهُمَا قَوْلاً كَرِيمًا \* وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِن
-الرَّحْمَةِ وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
-  </p>
-</blockquote>
+> وَقَضَى رَبُّكَ أَلاَّ تَعْبُدُوا إِلاَّ إِيَّاهُ وَبِالْوَالِدَيْنِ
+> إِحْسَانًا إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ
+> كِلاَهُمَا فَلاَ تَقُلْ لَهُمَا أُفٍّ وَلاَ تَنْهَرْهُمَا وَقُلْ
+> لَهُمَا قَوْلاً كَرِيمًا \* وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِن
+> الرَّحْمَةِ وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
 
 ***“Your Lord has decreed that you shall not worship anyone except Him,
 and [He has enjoined] kindness to parents, should they reach old age at
@@ -1133,5 +1085,4 @@ al-Islam.
 [^32]: Bihar al-Anwar, vol. 2, p. 42.
 
 [^33]: Surat al-Zumar 39:36.
-
 

@@ -11,11 +11,7 @@ it is love which can transmute a substance. Love, absolutely, is the
 "elixir" and has the properties of the philosopher's stone, which
 changes one nature into another, and people also are different natures.
 
-<blockquote dir="rtl">
-  <p>
-اَلنَّاسُ مَعَادِنِ كَمَعَادِنِ الذَّهَبِ وَالفِضَّةِ
-  </p>
-</blockquote>
+> اَلنَّاسُ مَعَادِنِ كَمَعَادِنِ الذَّهَبِ وَالفِضَّةِ
 
 People are mines, like gold-mines and silver-mines.
 
@@ -192,5 +188,4 @@ ills, The remedy of our pride and vainglory, Our Plato and our Galen!
 [^5]: Rumi, Mathnavi
 
 [^6]: Adapted from Nicholson's translation of Rumi, Mathnavi, bk. 1
-
 

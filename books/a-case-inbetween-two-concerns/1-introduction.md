@@ -21,7 +21,6 @@ daily life.
 
 From Allah the Sublime we obtain success and content.
 
-
 Imam Ali Foundation
 Holy Qum
 
@@ -170,13 +169,10 @@ this book to the dear readers anticipates that it really could have
 participated in introducing the proper solution for this complicated
 question.
 
-
 [And Allah does guide those whom He wills, to the straight path] Al
 Baquarah v. 213.
 
-
 Al Rissalah Center
-
 
 **Prologue of the Book**
 
@@ -279,5 +275,4 @@ Muhammad(A.S.) in defending both dogmas (monotheism. Al Tawheed.) and
 Then the book ends with a proper epilogue.
 
 And from Him the Sublime we ask assistance and success.
-
 

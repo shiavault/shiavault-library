@@ -81,4 +81,3 @@ distant from the Holy Prophet Muhammad (s).
 
 [^2]: Al-Zamakhshari, Tafsir al-Kashshaf.
 
-

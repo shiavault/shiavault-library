@@ -19,4 +19,3 @@ by strong winds.
 
 (Sermon 198)
 
-

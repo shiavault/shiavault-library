@@ -99,22 +99,14 @@ their spirit.
 
 Qur’an says about Islam's Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَكُمْ
-  </p>
-</blockquote>
+> وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَكُمْ
 
 > Say: He is only a hearer. Say: A hearer of good for you… (9:61)
 
 And somewhere else it says:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ
 
 ***It was by the mercy of Allah that thou wast lenient with them (O
 Muhammad), for if thou hadst been stern and fierce of heart they would
@@ -122,12 +114,8 @@ have dispersed from round about thee.(3:159)***
 
 And again it says:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
-عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ
-  </p>
-</blockquote>
+> لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
+> عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ
 
 ***There hath come unto you a messenger, (one) of yourselves, unto whom
 aught that ye are overburdened is grievous, full of concern for you, for
@@ -276,5 +264,4 @@ negative relation with one of the tendencies, are all concentrated in
 this part. 
 
 [^2]: Extracted from Ehyaol Oloum, 365/2 to 367
-
 

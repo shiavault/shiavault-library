@@ -1335,4 +1335,3 @@ Their "*salam*" should be replied by saying "*'alayk*." There is no
 objection to congratulating them on special occasions. (MMS, pp. 31-32,
 Q63)
 
-

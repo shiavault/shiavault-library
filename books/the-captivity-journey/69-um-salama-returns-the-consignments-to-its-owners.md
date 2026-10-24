@@ -17,4 +17,3 @@ those that should be with the Hujjatu Allah on earth in all times.
 And when Imam Zein El-Abedeen returned to Medina, she gave back the
 consignments to him.
 
-

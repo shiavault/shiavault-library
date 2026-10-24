@@ -2405,7 +2405,7 @@ Hajjaj bin Abdullah Sareemi took up the job of killing Muawiyah.
 Amr bin Tamimi accepted the duty of eliminating Amr Aas.
 
 They unanimously decided that the assassinations shall be carried out on
-the 18<sup>th</sup> night of the month of Ramadan at the time when those
+the 18th night of the month of Ramadan at the time when those
 three persons come out for the Morning Prayer. They stayed in Mecca for
 the month and performed Umrah in the month of Rajab. After that they set
 out to accomplish their respective tasks.
@@ -2534,7 +2534,7 @@ transferred to the eternal abode during this great month. That is why he
 used to break his fasts with barley bread and a piece of salt. On the
 basis of what historians say he never had more that three morsels. His
 Eminence used to spend the nights of this month in worship. When the
-18<sup>th</sup> night arrived, the Imam perceived the shattering
+18th night arrived, the Imam perceived the shattering
 calamity that was to befall him and he looked sorrowful and aggrieved.
 The stars were seen to be trembling and their shivering light fell on
 the earth; as if they were throwing a forlorn light on the face of the

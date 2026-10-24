@@ -14,4 +14,3 @@ of the singular (1-5) and plural forms (6-10):
 
 **10. هُنَّ   هي5**
 
-

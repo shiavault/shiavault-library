@@ -56,4 +56,3 @@ not live long after the tortuous trials she had to bear. The exact date
 and place of her death is not clear but it is probable that she died in
 the year 62 A.H. some six months after her return. 
 
-

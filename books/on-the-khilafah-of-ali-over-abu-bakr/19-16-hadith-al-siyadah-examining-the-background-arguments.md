@@ -3,14 +3,10 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-ففي هذا الخبر إخبار عمر بين المهاجرين والأنصار أن أبا بكر سيد المسلمين
-وخيرهم وأحبهم إلى رسول الله صلى الله عليه و سلم ذلك علة مبايعته فقال
-بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله عليه و
-سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
-  </p>
-</blockquote>
+> ففي هذا الخبر إخبار عمر بين المهاجرين والأنصار أن أبا بكر سيد المسلمين
+> وخيرهم وأحبهم إلى رسول الله صلى الله عليه و سلم ذلك علة مبايعته فقال
+> بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله عليه و
+> سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
 
 In this report is the declaration of ‘Umar among the Muhajirun and the
 Ansar that **Abu Bakr was the** ***sayyid*** **of the Muslims** and the
@@ -51,13 +47,9 @@ In order to determine what the term *sayyid* indicates in the spiritual
 context, we must examine the following *hadith*, documented by Imam
 Muslim (d. 261 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثني الحكم بن موسى أبو صالح حدثنا هقل (يعني ابن زياد) عن الأوزاعي
-حدثني أبو عمار حدثني عبدالله بن فروخ حدثني أبو هريرة قال قال رسول الله
-أنا سيد ولد آدم يوم القيامة
-  </p>
-</blockquote>
+> حدثني الحكم بن موسى أبو صالح حدثنا هقل (يعني ابن زياد) عن الأوزاعي
+> حدثني أبو عمار حدثني عبدالله بن فروخ حدثني أبو هريرة قال قال رسول الله
+> أنا سيد ولد آدم يوم القيامة
 
 Al-Hakam b. Musa Abu Salih – Hiql b. Ziyad – al-Awza’i – Abu ‘Ammar –
 ‘Abd Allah b. Farukh – Abu Hurayrah:
@@ -67,13 +59,9 @@ Adam on the Day of Resurrection.”[^4]
 
 Imam Ahmad (d. 241 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن سعيد قال ثنا أبو حيان قال ثنا أبو
-زرعة بن عمرو بن جرير عن أبي هريرة قال ... رسول الله صلى الله عليه و
-سلم ... أنا سيد الناس يوم القيامة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن سعيد قال ثنا أبو حيان قال ثنا أبو
+> زرعة بن عمرو بن جرير عن أبي هريرة قال ... رسول الله صلى الله عليه و
+> سلم ... أنا سيد الناس يوم القيامة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya b. Sa’id –
 Abu Hayyan – Abu Zur’ah b. ‘Amr b. Jarir – Abu Hurayrah:
@@ -83,11 +71,7 @@ Abu Hayyan – Abu Zur’ah b. ‘Amr b. Jarir – Abu Hurayrah:
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^6]
 
@@ -97,22 +81,14 @@ they are connected with the Hereafter. This is how the scholars of the
 Ahl al-Sunnah understand the reports too. Imam al-Nawawi (d. 676 H), for
 instance, states:
 
-<blockquote dir="rtl">
-  <p>
-تفضيل نبينا صلى الله عليه وسلم على جميع الخلائق
-  </p>
-</blockquote>
+> تفضيل نبينا صلى الله عليه وسلم على جميع الخلائق
 
-<blockquote dir="rtl">
-  <p>
-قوله صلى الله عليه وسلم أنا سيد ولد آدم يوم القيامة ... وهذا الحديث
-دليل لتفضيله صلى الله عليه وسلم على الخلق كلهم لأن مذهب أهل السنة أن
-الآدميين أفضل من الملائكة وهو صلى الله عليه وسلم أفضل الآدميين وغيرهم
-وأما الحديث الآخر لا تفضلوا بين الأنبياء فجوابه من خمسة أوجه الأول:
-أنه صلى الله عليه وسلم قاله قبل أن يعلم أنه سيد ولد آدم فلما علم أخبر
-به
-  </p>
-</blockquote>
+> قوله صلى الله عليه وسلم أنا سيد ولد آدم يوم القيامة ... وهذا الحديث
+> دليل لتفضيله صلى الله عليه وسلم على الخلق كلهم لأن مذهب أهل السنة أن
+> الآدميين أفضل من الملائكة وهو صلى الله عليه وسلم أفضل الآدميين وغيرهم
+> وأما الحديث الآخر لا تفضلوا بين الأنبياء فجوابه من خمسة أوجه الأول:
+> أنه صلى الله عليه وسلم قاله قبل أن يعلم أنه سيد ولد آدم فلما علم أخبر
+> به
 
 Superiority of our Prophet, peace be upon him, over the entire creation
 
@@ -129,12 +105,8 @@ it.[^7]
 
 Imam al-Mubarakfuri (d. 1282 H) has a similar view:
 
-<blockquote dir="rtl">
-  <p>
-قوله أنا سيد ولد آدم يوم القيامة ولا فخر أي ولا أقوله تفاخرا بل اعتداد
-بفضله
-  </p>
-</blockquote>
+> قوله أنا سيد ولد آدم يوم القيامة ولا فخر أي ولا أقوله تفاخرا بل اعتداد
+> بفضله
 
 His statement, “I am the *sayyid* of the descendants of Adam on the Day
 of Resurrection, and I am not boastful”, meaning: I am not saying it for
@@ -150,15 +122,11 @@ report to prove the superiority of both Abu Bakr and ‘Umar over the
 *Ummah*. ‘Allamah al-Albani (d. 1420 H) states:
 
 > قال عبد الله بن أحمد في " زوائد المسند " (1 / 80) : حدثني وهب بن بقية
-<blockquote dir="rtl">
-  <p>
-الواسطي حدثنا عمر (في الأصل: عمرو) بن يونس اليمامي عن عبد الله بن عمر
-اليمامي عن الحسن بن زيد بن حسن حدثني أبي عن أبيه عن علي رضي الله عنه
-قال: " كنت عند النبي صلى الله عليه وسلم، فأقبل أبو بكر وعمر رضي الله
-عنهما، فقال: " يا علي هذان سيدا كهول أهل الجنة وشبابها بعد النبيين
-والمرسلين ".
-  </p>
-</blockquote>
+> الواسطي حدثنا عمر (في الأصل: عمرو) بن يونس اليمامي عن عبد الله بن عمر
+> اليمامي عن الحسن بن زيد بن حسن حدثني أبي عن أبيه عن علي رضي الله عنه
+> قال: " كنت عند النبي صلى الله عليه وسلم، فأقبل أبو بكر وعمر رضي الله
+> عنهما، فقال: " يا علي هذان سيدا كهول أهل الجنة وشبابها بعد النبيين
+> والمرسلين ".
 
 ‘Abd Allah b. Ahmad said in *Zawaid al-Musnad* (1/80):
 
@@ -174,11 +142,7 @@ the prophets and messengers.”[^9]
 
 Our ‘Allamah comments:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا سند حسن
-  </p>
-</blockquote>
+> قلت: وهذا سند حسن
 
 I say: This chain is *hasan*.[^10]
 
@@ -189,14 +153,10 @@ concerning its true origin. The correct opinion of the Messenger of
 Allah, which is universally confirmed, is that there will be only youth
 in *Jannah*. Imam Ahmad b. Hanbal records, for instance:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا سليمان بن داود ثنا عمران عن قتادة عن شهر
-بن حوشب عن عبد الرحمن بن غنم عن معاذ بن جبل انه سأل النبي صلى الله
-عليه و سلم أو سمع النبي صلى الله عليه و سلم يقول يدخل أهل الجنة الجنة
-جردا مردا مكحلين بنى ثلاثين أو ثلاث وثلاثين
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا سليمان بن داود ثنا عمران عن قتادة عن شهر
+> بن حوشب عن عبد الرحمن بن غنم عن معاذ بن جبل انه سأل النبي صلى الله
+> عليه و سلم أو سمع النبي صلى الله عليه و سلم يقول يدخل أهل الجنة الجنة
+> جردا مردا مكحلين بنى ثلاثين أو ثلاث وثلاثين
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) Sulayman b. Dawud –
 ‘Imran – Qatadah – Shahr b. Hawshab – ‘Abd al-Rahman b. Ghanam – Mu’adh
@@ -208,45 +168,29 @@ thirty or thirty-three years**.”[^11]
 
 Shaykh al-Arnaut declares:
 
-<blockquote dir="rtl">
-  <p>
-حسن لغيره
-  </p>
-</blockquote>
+> حسن لغيره
 
 *Hasan li ghayrihi*[^12]
 
 In his *Sahih al-Jami’ al-Saghir*, the ‘Allamah copies a similar
 *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-يدخل أهل الجنة الجنة جردا مردا كأنهم مكحلون أبناء ثلاث وثلاثين
-  </p>
-</blockquote>
+> يدخل أهل الجنة الجنة جردا مردا كأنهم مكحلون أبناء ثلاث وثلاثين
 
 The people of Paradise will enter Paradise hairless, beardless, with
 their eyes anointed with kohl, **aged thirty-three years**.[^13]
 
 And the ‘Allamah says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^14]
 
 Imam al-Tirmidhi (d. 279 H) also documents a *shahid*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن بشار و أبو هشام الرفاعي قالا حدثنا معاذ بن هشام عن أبيه
-عن عامر الأحول عن شهر بن حوشب عن أبي هريرة قال قال رسول الله صلى الله
-عليه و سلم أهل الجنة جرد مرد كحل لا يفنى شبابهم ولا تبلى ثيابهم
-  </p>
-</blockquote>
+> حدثنا محمد بن بشار و أبو هشام الرفاعي قالا حدثنا معاذ بن هشام عن أبيه
+> عن عامر الأحول عن شهر بن حوشب عن أبي هريرة قال قال رسول الله صلى الله
+> عليه و سلم أهل الجنة جرد مرد كحل لا يفنى شبابهم ولا تبلى ثيابهم
 
 Muhammad b. Bashar and Abu Hisham al-Rufa’i – Mu’adh b. Hisham – his
 father – ‘Amir al-Ahwal – Shahr b. Hawshab – Abu Hurayrah:
@@ -258,21 +202,13 @@ worn.”[^15]
 
 Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن غريب
-  </p>
-</blockquote>
+> هذا حديث حسن غريب
 
 This *hadith* is *hasan gharib*.[^16]
 
 ‘Allamah al-Albani supports him:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^17]
 
@@ -280,12 +216,8 @@ Since there will be no elderly folks in Paradise, how then will Abu Bakr
 and ‘Umar be their *sayyids* in there? Al-Mubarakfuri – apparently
 troubled by these facts - attempts to explain away the fatal problem:
 
-<blockquote dir="rtl">
-  <p>
-لم يكن في الجنة كهل ... وقيل سيدا من مات كهلا من المسلمين فدخل الجنة
-لأنه ليس فيها كهل
-  </p>
-</blockquote>
+> لم يكن في الجنة كهل ... وقيل سيدا من مات كهلا من المسلمين فدخل الجنة
+> لأنه ليس فيها كهل
 
 **There will be NO elderly person in Paradise** ... And it is said they
 (i.e. Abu Bakr and ‘Umar) both will be *sayyids* of **those who died as
@@ -302,11 +234,7 @@ get out of hand when questions are asked about the fortunate people of
 *Jannah* who died as infants, babies or children in this world? The
 *hadith* mentions only two categories for the people of Paradise:
 
-<blockquote dir="rtl">
-  <p>
-" يا علي هذان سيدا كهول أهل الجنة وشبابها بعد النبيين والمرسلين ".
-  </p>
-</blockquote>
+> " يا علي هذان سيدا كهول أهل الجنة وشبابها بعد النبيين والمرسلين ".
 
 “O ‘Ali! These two are the two *sayyids* of the elderly ones of the
 people of Paradise (*Ahl al-Jannah*) and of its youth, after the
@@ -340,17 +268,13 @@ Things get even a lot messier when one considers the case of Bilal b.
 Rabah, the well-known *muezzin* of the Prophet. Imam Ibn Sa’d (d. 230 H)
 records about him:
 
-<blockquote dir="rtl">
-  <p>
-قال أخبرنا محمد بن عمر قال أخبرنا موسى بن محمد بن إبراهيم بن الحارث
-التيمي عن أبيه قال توفي بلال بدمشق سنة عشرين ودفن عند الباب الصغير في
-مقبرة دمشق وهو بن بضع وستين سنة قال أخبرنا محمد بن عمر سمعت شعيب بن
-طلحة من ولد أبي بكر الصديق يقول كان بلال ترب أبي بكر قال محمد بن عمر
-فإن كان هذا هكذا وقد توفي أبو بكر سنة ثلاث عشرة وهو بن ثلاث وستين سنة
-فبين هذا وبين ما روي لنا في بلال سبع سنين وشعيب بن طلحة أعلم بميلاد
-بلال حين يقول هو ترب أبي بكر فالله أعلم
-  </p>
-</blockquote>
+> قال أخبرنا محمد بن عمر قال أخبرنا موسى بن محمد بن إبراهيم بن الحارث
+> التيمي عن أبيه قال توفي بلال بدمشق سنة عشرين ودفن عند الباب الصغير في
+> مقبرة دمشق وهو بن بضع وستين سنة قال أخبرنا محمد بن عمر سمعت شعيب بن
+> طلحة من ولد أبي بكر الصديق يقول كان بلال ترب أبي بكر قال محمد بن عمر
+> فإن كان هذا هكذا وقد توفي أبو بكر سنة ثلاث عشرة وهو بن ثلاث وستين سنة
+> فبين هذا وبين ما روي لنا في بلال سبع سنين وشعيب بن طلحة أعلم بميلاد
+> بلال حين يقول هو ترب أبي بكر فالله أعلم
 
 Muhammad b. ‘Umar – Musa b. Muhammad b. Ibrahim b. al-Harith al-Tamimi –
 his father: “Bilal died in Damascus in the year 20 AH, and was buried at
@@ -371,15 +295,11 @@ elderly category. Yet, he was the *sayyid* of ‘Umar in the same way that
 Abu Bakr was, as the son of al-Khattab himself testified! Imam al-Hakim
 (d. 403 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو عبد الله الصفار أحمد بن عبد الله ثنا أحمد بن مهران الأصبهاني
-ثنا خالد بن مخلد وحدثنا أبو العباس محمد بن يعقوب ثنا بحر بن نصر ثنا
-عبد الله بن وهب قالا : ثنا عبد العزيز بن أبي سلمة الماجشون عن محمد بن
-المنكدر عن جابر قال قال عمر : رضي الله عنه أبو بكر سيدنا وأعتق سيدنا
-يعني بلالا
-  </p>
-</blockquote>
+> حدثنا أبو عبد الله الصفار أحمد بن عبد الله ثنا أحمد بن مهران الأصبهاني
+> ثنا خالد بن مخلد وحدثنا أبو العباس محمد بن يعقوب ثنا بحر بن نصر ثنا
+> عبد الله بن وهب قالا : ثنا عبد العزيز بن أبي سلمة الماجشون عن محمد بن
+> المنكدر عن جابر قال قال عمر : رضي الله عنه أبو بكر سيدنا وأعتق سيدنا
+> يعني بلالا
 
 Abu ‘Abd Allah al-Saffar Ahmad b. ‘Abd Allah – Ahmad b. Mahran
 al-Isbahani – Khalid b. Mukhlid AND Abu al-‘Abbas Muhammad b. Ya’qub –
@@ -391,35 +311,23 @@ al-Majishun – Muhammad b. al-Munkadar – Jabir:
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح ولم يخرجاه
-  </p>
-</blockquote>
+> صحيح ولم يخرجاه
 
 It is *sahih*, and they both (i.e. al-Bukhari and Muslim) have not
 recorded it.[^21]
 
 Imam al-Dhahabi (d. 748 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^22]
 
 Contrary to the mistake of al-Hakim, Imam al-Bukhari (d. 256 H) has
 actually recorded it:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو نعيم حدثنا عبد العزيز بن أبي سلمة عن محمد بن المنكدر أخبرنا
-جابر بن عبد الله رضي الله عنهما قال : كان عمر يقول أبو بكر سيدنا وأعتق
-سيدنا . يعني بلالا
-  </p>
-</blockquote>
+> حدثنا أبو نعيم حدثنا عبد العزيز بن أبي سلمة عن محمد بن المنكدر أخبرنا
+> جابر بن عبد الله رضي الله عنهما قال : كان عمر يقول أبو بكر سيدنا وأعتق
+> سيدنا . يعني بلالا
 
 Abu Na’im – ‘Abd al-‘Aziz b. Abi Salamah – Muhammad b. al-Munkadar –
 Jabir b. ‘Abd Allah, may Allah be pleased with them both:
@@ -512,5 +420,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 3, p.
 al-Bukhari al-Ju’fi, al-Jami’ al-Sahih al-Mukhtasar (Beirut: Dar Ibn
 Kathir; 3rd edition, 1407 H) [annotator: Dr. Mustafa Dib al-Bagha], vol.
 3, p. 1371, \# 3544
-
 

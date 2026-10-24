@@ -971,4 +971,3 @@ b) Of being cruel to the creatures (human beings) of God
 
 c) Of being unthankful to God and his creatures.
 
-

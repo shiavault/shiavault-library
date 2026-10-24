@@ -4,13 +4,9 @@ Section 2: Ingratitude of Men
 Surah Yunus – Verse 11
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ يُعَجِّلُ اللّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُم بِالْخَيْرِ
-لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ فَنَذَرُ الَّذِينَ لايَرْجُونَ
-لِقَآءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ
-  </p>
-</blockquote>
+> وَلَوْ يُعَجِّلُ اللّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُم بِالْخَيْرِ
+> لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ فَنَذَرُ الَّذِينَ لايَرْجُونَ
+> لِقَآءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ
 
 ***11. “And if Allah were to hasten on for men the ill (they have
 earned) as they would hasten on the good, surely their term would
@@ -47,14 +43,10 @@ contumacy, wandering blindly.”***
 Surah Yunus – Verse 12
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ الإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِداً
-أَوْ قَآئِماً فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَن لَمْ
-يَدْعُنَآ إِلَي ضُرّ‌ٍ مَسَّهُ كَذَلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا
-كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ الإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِداً
+> أَوْ قَآئِماً فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَن لَمْ
+> يَدْعُنَآ إِلَي ضُرّ‌ٍ مَسَّهُ كَذَلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا
+> كَانُوا يَعْمَلُونَ
 
 ***12. “And when an affliction touches a man, he calls Us (while
 reclining) on his side, or sitting, or standing. But when We remove from
@@ -94,13 +86,9 @@ acts of the mischief makers seemingly beautiful for them.
 Surah Yunus – Verse 13
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَهْلَكْنَا الْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا
-وَجَآءَتْهُمْ رُسُلُهُم بِالبَيِّنَاتِ وَمَا كَانُوا لِيُؤْمِنُوا
-كَذَلِكَ نَجْزِي الْقَوْمَ الْمُـجْرِمِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَهْلَكْنَا الْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا
+> وَجَآءَتْهُمْ رُسُلُهُم بِالبَيِّنَاتِ وَمَا كَانُوا لِيُؤْمِنُوا
+> كَذَلِكَ نَجْزِي الْقَوْمَ الْمُـجْرِمِينَ
 
 ***13. “And certainly We destroyed the generations before you when they
 were unjust, and their messengers came to them with clear arguments and
@@ -137,12 +125,8 @@ The verse continues saying:
 Surah Yunus – Verse 14
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلْنَاكُمْ خَلآئِفَ فِي الأَرْضِ مِنْ بَعْدِهِمْ لِنَنْظُرَ
-كَيْفَ تَعْمَلُونَ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلْنَاكُمْ خَلآئِفَ فِي الأَرْضِ مِنْ بَعْدِهِمْ لِنَنْظُرَ
+> كَيْفَ تَعْمَلُونَ
 
 ***14. “Then We made you successors in the earth after them to see how
 you behave.”***
@@ -165,15 +149,11 @@ involved in this category for such punishments.
 Surah Yunus – Verse 15
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ لاَ
-يَرْجُونَ لِقَآءَنَا ائْتِ بِقُرْءَانٍ غَيْرِ هَذَآ أَوْ بَدِّ لْهُ
-قُلْ مَايَكُونُ لِي أَنْ اُبَدِّ لَهُ مِن تِلْقَآئِ نَفْسِي إِنْ
-أَتَّبِعُ إِلاَّ مَا يُوحَي إِلَيَّ إِنّي أَخَافُ إِنْ عَصَيْتُ رَبّي
-عَذَابَ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وإِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ لاَ
+> يَرْجُونَ لِقَآءَنَا ائْتِ بِقُرْءَانٍ غَيْرِ هَذَآ أَوْ بَدِّ لْهُ
+> قُلْ مَايَكُونُ لِي أَنْ اُبَدِّ لَهُ مِن تِلْقَآئِ نَفْسِي إِنْ
+> أَتَّبِعُ إِلاَّ مَا يُوحَي إِلَيَّ إِنّي أَخَافُ إِنْ عَصَيْتُ رَبّي
+> عَذَابَ يَوْمٍ عَظِيمٍ
 
 ***15. “And when Our Clear Signs are recited unto them, those who do not
 expect the meeting with Us, say: ‘Bring us a Qur’an other than this, or
@@ -230,12 +210,8 @@ were to disobey my Lord the Penalty of a Great Day (to come).’”***
 Surah Yunus – Verse 16
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَوْ شَآءَ اللَّهُ مَا تَلَوْتُهُ عَلَيْكُمْ وَلآ أَدْرَاكُمْ بِهِ
-فَقَدْ لَبِثْتُ فِيكُمْ عُمُراً مِن قَبْلِهِ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> قُل لَوْ شَآءَ اللَّهُ مَا تَلَوْتُهُ عَلَيْكُمْ وَلآ أَدْرَاكُمْ بِهِ
+> فَقَدْ لَبِثْتُ فِيكُمْ عُمُراً مِن قَبْلِهِ أَفَلاَ تَعْقِلُونَ
 
 ***16. “Say: ‘Had Allah so willed, I would not have recited it to you,
 nor would He have taught it to you. Indeed I have lived amongst you a
@@ -267,12 +243,8 @@ no sense?’”***
 Surah Yunus – Verse 17
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَي عَلَي اللَّهِ كَذِباً أَوْ كَذَّبَ
-بِايَاتِهِ إِنَّهُ لا يُفْلِحُ الْمُـجْرِمُونَ
-  </p>
-</blockquote>
+> فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَي عَلَي اللَّهِ كَذِباً أَوْ كَذَّبَ
+> بِايَاتِهِ إِنَّهُ لا يُفْلِحُ الْمُـجْرِمُونَ
 
 ***17. “Who is then more unjust than he who forges a lie against Allah,
 or belies His Signs? Verily the guilty ones will never prosper.”***
@@ -300,14 +272,10 @@ The verse says:
 Surah Yunus – Verse 18
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لا يَضُرُّهُمْ وَلا يَنفَعُهُمْ
-وَيَقُولُونَ هَؤُلآءِ شُفَعَآؤُنَا عِندَ اللَّهِ قُلْ اَتُنَبِّؤُنَ
-اللَّهَ بِمَا لا يَعلَمُ فِي السَّمَاوَاتِ وَلا فِي الأَرْضِ
-سُبْحَانَهُ وَتَعَالَي عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لا يَضُرُّهُمْ وَلا يَنفَعُهُمْ
+> وَيَقُولُونَ هَؤُلآءِ شُفَعَآؤُنَا عِندَ اللَّهِ قُلْ اَتُنَبِّؤُنَ
+> اللَّهَ بِمَا لا يَعلَمُ فِي السَّمَاوَاتِ وَلا فِي الأَرْضِ
+> سُبْحَانَهُ وَتَعَالَي عَمَّا يُشْرِكُونَ
 
 ***18. “And they worship, besides Allah, what can neither hurt them nor
 profit them, and they say: ‘These are our intercessors with Allah.’ Say:
@@ -360,13 +328,9 @@ Him).”***
 Surah Yunus – Verse 19
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ النَّاسُ إِلآَّ اُمَّةً وَاحِدَةً فَاخْتَلَفُوا وَلَوْلاَ
-كَلِمَةٌ سَبَقَتْ مِن رَّبّكَ لَقُضِيَ بَيْنَهُمْ فِيمَا فِيهِ
-يَخْتَلِفُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ النَّاسُ إِلآَّ اُمَّةً وَاحِدَةً فَاخْتَلَفُوا وَلَوْلاَ
+> كَلِمَةٌ سَبَقَتْ مِن رَّبّكَ لَقُضِيَ بَيْنَهُمْ فِيمَا فِيهِ
+> يَخْتَلِفُونَ
 
 ***19. “And mankind were only one community, then they differed, and had
 not a Word already gone forth from your Lord, their differences would
@@ -413,13 +377,9 @@ differences would have been judged between them.”***
 Surah Yunus – Verse 20
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ لَوْلآ اُنزِلَ عَلَيْهِ ءَايَةٌ مِن رَبِّهِ فَقُلْ
-إِنَّمَا الْغَيْبُ لِلَّهِ فَانتَظِرُوا إِنّي مَعَكُم مِنَ
-الْمُنْتَظِرِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ لَوْلآ اُنزِلَ عَلَيْهِ ءَايَةٌ مِن رَبِّهِ فَقُلْ
+> إِنَّمَا الْغَيْبُ لِلَّهِ فَانتَظِرُوا إِنّي مَعَكُم مِنَ
+> الْمُنْتَظِرِينَ
 
 ***20. “And they say: ‘Why is not a Sign sent down to him from his
 Lord?’ Say then: ‘ Verily the Unseen is only for Allah (to*** ***know).
@@ -464,5 +424,4 @@ wait’.”***
 [^1]: Some commentators state that Allah is aware of the world of Unseen
 and whatever stands in the way of divine miracles to be sent down is
 itself invisible, none is aware but Allah.
-
 

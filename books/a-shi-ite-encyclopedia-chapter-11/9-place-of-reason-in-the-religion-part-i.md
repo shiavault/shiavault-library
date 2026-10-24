@@ -71,7 +71,6 @@ comprehends them except those who have knowledge. [29:43]"
 Shi'ite reference: Usul al-Kafi, Chapter of "Reason and Ignorance",
 first part of the Tradition \#12
 
-
 **(Part III)**
 
 In this part the Imam talks about the meaning of heart in Quran. Imam
@@ -170,7 +169,6 @@ rejected.
 Shi'ite reference: Usul al-Kafi, Chapter of "Reason and Ignorance", a
 part of Tradition \#12
 
-
 **(Part V)**
 
 Tradition \#12 continued:
@@ -227,7 +225,6 @@ except what comes out of it through deeds and the words.
 Shi'ite reference: Usul al-Kafi, Chapter of "Reason and Ignorance", a
 part of Tradition \#12
 
-
 **(Part VI)**
 
 Tradition \#12 continued:
@@ -280,5 +277,4 @@ do NOT sell it for anything less than that.
 
 Shi'ite reference: Usul al-Kafi, Chapter of "Reason and Ignorance", a
 part of Tradition \#12
-
 

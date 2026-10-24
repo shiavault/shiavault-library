@@ -164,4 +164,3 @@ prevented mankind from producing a similar discourse. In either case,
 the prophecy has been fulfilled, and the Qur'an is still standing
 unequalled.
 
-

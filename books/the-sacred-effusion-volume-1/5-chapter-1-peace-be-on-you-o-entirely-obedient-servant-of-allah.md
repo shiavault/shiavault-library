@@ -1,33 +1,21 @@
 Chapter 1: Peace be on you, O entirely obedient servant of Allah
 ================================================================
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
 
 Peace be on You, O entirely obedient servant of Allah
 
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 Peace be unto You
 
 *Salam* is an infinitive noun commonly translated as “peace”. Its
 literal import, however, is:
 
-<blockquote dir="rtl">
-  <p>
-التَّعَرّي مِنَ الآفَاتِ الظَّاهِرَةِ وَالْبَاطنَةِ
-  </p>
-</blockquote>
+> التَّعَرّي مِنَ الآفَاتِ الظَّاهِرَةِ وَالْبَاطنَةِ
 
 “to be free from calamities, whether apparent or hidden.”[^1]
 
@@ -39,13 +27,9 @@ It is clear that the Imam (AS) already enjoys the state of *salam* and
 is in fact one of the manifestations of Allah’s attribute *al-Salam.* In
 one of the *ziyarat* when addressing him we say:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَوْمَ وُلِدْتَ وَيَوْمَ تَمُوْتُ وَيَوْمَ
-تُبْعَثُ حَيّا، اَشْهَدُ اَنّكَ حَيّ شَهِيْدٌ تُرْزَقُ عِنْدَ
-رَبّكَ...
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَوْمَ وُلِدْتَ وَيَوْمَ تَمُوْتُ وَيَوْمَ
+> تُبْعَثُ حَيّا، اَشْهَدُ اَنّكَ حَيّ شَهِيْدٌ تُرْزَقُ عِنْدَ
+> رَبّكَ...
 
 You were at peace the day you were born, and will be at peace the day
 you die, and the day you will be raised alive. Surely I bear witness
@@ -60,32 +44,20 @@ In a tradition about the nocturnal ascent (*al-mi’raj*) of the Holy
 Prophet (S) it is reported that when the Holy Prophet (S) encountered a
 group of Angels, Divine Apostles and Prophets, it was said to him:
 
-<blockquote dir="rtl">
-  <p>
-يَا مُحَمَّدُ سَلِّمْ عَلَيْهِمْ
-  </p>
-</blockquote>
+> يَا مُحَمَّدُ سَلِّمْ عَلَيْهِمْ
 
 O Muhammad, convey your salutations to them.
 
 So he (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
-  </p>
-</blockquote>
+> أَلسَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
 
 May the peace of Allah, His mercy and His blessings be upon you
 
 Thereupon Allah revealed unto him:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلامَُ وَالتَّحِيَّةُ وَالرَّحْمَةُ وَالْبَرَكَاتُ أَنْتَ
-وَذُرِّيَّتُكَ
-  </p>
-</blockquote>
+> أَلسَّلامَُ وَالتَّحِيَّةُ وَالرَّحْمَةُ وَالْبَرَكَاتُ أَنْتَ
+> وَذُرِّيَّتُكَ
 
 “Peace, benedictions, mercy and blessings, are you and your progeny.[^3]
 
@@ -97,12 +69,8 @@ level of *salam* in which there is no kind of imperfection whatsoever is
 that of *al-Salam al-Mutlaq (the Absolute Peace)*, which solely belongs
 to Almighty Allah. The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الَّذِي لا إِلهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ
-السَّلامُ الْمُؤْمِنُ الْمُهَيْمِنُ...
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الَّذِي لا إِلهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ
+> السَّلامُ الْمُؤْمِنُ الْمُهَيْمِنُ...
 
 ***He is Allah, other than Whom there is no God, the Sovereign Lord, the
 Holy One, the Peace [Free from every kind of imperfection], the Securer,
@@ -111,12 +79,8 @@ the Guardian...(59:23)***
 Commenting on the Divine Name *al-Salam*, ‘Allama al-Tabataba\`i in his
 *Tafsir al-Mizan* says:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّلاَمُ مِنْ أَسْمَائِهِ تَعَالَى لأَنَّ ذَاتَهُ الْمُتَعَالِيَةَ
-نَفْسُ الْخَيْرِ الَّذِيْ لاَ شَرَّ فِيْهِ‏...
-  </p>
-</blockquote>
+> وَالسَّلاَمُ مِنْ أَسْمَائِهِ تَعَالَى لأَنَّ ذَاتَهُ الْمُتَعَالِيَةَ
+> نَفْسُ الْخَيْرِ الَّذِيْ لاَ شَرَّ فِيْهِ‏...
 
 And *al-Salam* is among His Names, for His Exalted Essence is sheer
 goodness wherein there is no evil...[^4]
@@ -124,11 +88,7 @@ goodness wherein there is no evil...[^4]
 And in a tradition, Hadhrat Fatima al-Zahra’ (AS) referring to this kind
 of *salam* says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ هُوَ السَّلاَمُ، وَمِنْهُ السّلاَمُ، وَإِلَيْهِ السّلاَم .
-  </p>
-</blockquote>
+> إنَّ اللهَ هُوَ السَّلاَمُ، وَمِنْهُ السّلاَمُ، وَإِلَيْهِ السّلاَم .
 
 Surely only Allah is *the Absolute Peace* and from Him alone comes peace
 and unto Him alone returns peace[^5]
@@ -137,11 +97,7 @@ The Holy Prophet (S) is reported to have once informed Hadhrat Khadija
 (AS) that Gabriel was nearby and he sent his *salams* to her. Thereupon
 she said:
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ السّلاَمُ وَلِلّهِ السَّلاَمُ وَعَلىَ جِبْرَائِيل السَّلاَمُ .
-  </p>
-</blockquote>
+> اَللهُ السّلاَمُ وَلِلّهِ السَّلاَمُ وَعَلىَ جِبْرَائِيل السَّلاَمُ .
 
 Allah is the Absolute Peace, and to Him alone belongs peace and upon
 Gabriel be peace.[^6]
@@ -149,11 +105,7 @@ Gabriel be peace.[^6]
 And since the Absolute Peace loves us, He always invites us to His abode
 of peace:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَدْعُو إِلى‏ دارِ السَّلامِ
-  </p>
-</blockquote>
+> وَاللَّهُ يَدْعُو إِلى‏ دارِ السَّلامِ
 
 ***And Allah invites to the abode of peace...(10:24)***
 
@@ -167,14 +119,10 @@ every kind of imperfection whatsoever. His call will remain constant,
 for the stages of *salam* have no end. In his commentary on the above
 verse, *al-Bahrani* narrates the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْعَلاَء ا بْن عَبْدِ الْكَرِيْمِ، قَالَ: سَمِعْتُ أَبَا
-جَعْفَريَقُوْلُ فِيْ قَوْلِ اللهِ عَزَّ وَجَلَّ: وَاللَّهُ يَدْعُوا
-إِلىَ‏ دارِ السَّلامِ، فَقَالَ: إِنَّ السَّلاَمَ، هُوَ اللهُ عَز
-وَجَلَّ، وَدَارُهُ الَّتِي خَلَقَهَا لأَوْلِيَائِهِ اَلْجَنَّةُ.
-  </p>
-</blockquote>
+> عَنِ الْعَلاَء ا بْن عَبْدِ الْكَرِيْمِ، قَالَ: سَمِعْتُ أَبَا
+> جَعْفَريَقُوْلُ فِيْ قَوْلِ اللهِ عَزَّ وَجَلَّ: وَاللَّهُ يَدْعُوا
+> إِلىَ‏ دارِ السَّلامِ، فَقَالَ: إِنَّ السَّلاَمَ، هُوَ اللهُ عَز
+> وَجَلَّ، وَدَارُهُ الَّتِي خَلَقَهَا لأَوْلِيَائِهِ اَلْجَنَّةُ.
 
 Al-’Ala\` bin ‘Abd al-Karim reports: I heard Abu Ja’far al-Baqir (AS)
 saying about the verse ‘And Allah calls towards the abode of peace’:
@@ -191,11 +139,7 @@ of the All-Beloved. And scholars of insight have said that the journey
 to perfection never ends. Therefore it is very apt to constantly call
 every one to the abode of the Absolute Peace.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 Peace be unto You
 
@@ -219,11 +163,7 @@ month of Ramadhan we seek the Divine Names in their perfect form. In
 fact the innate nature of every human being has been faishioned to
 aspire for the Infinite.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 You are at peace from my side
 
@@ -252,24 +192,16 @@ vision the deeds of his followers:
 
 1. We humbly express in the well-known *Ziyarat al-Jami’a al-Kabira*:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتُمُ الصِّرَاط الاَقْوَمُ وَشُهَدَاءُ دَارِ الْفَنَاءِ
-  </p>
-</blockquote>
+> أَنْتُمُ الصِّرَاط الاَقْوَمُ وَشُهَدَاءُ دَارِ الْفَنَاءِ
 
 ...You are the upright path and **the witnesses of the abode of
 extinction** [i.e. the world...][^10]
 
 2. Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللَّهِ فِي قَوْلِهِ وَقُلِ اعْمَلُوا فَسَيَرَى
-اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ الْمُؤْمِنُونَ
-هَاهُنَا الائِمَّةُ الطاهِرَةُ
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللَّهِ فِي قَوْلِهِ وَقُلِ اعْمَلُوا فَسَيَرَى
+> اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ الْمُؤْمِنُونَ
+> هَاهُنَا الائِمَّةُ الطاهِرَةُ
 
 Believers referred to in the verse “And say, go on working: Allah will
 see your conduct, and His ***Apostle and the believers [as well]”
@@ -281,15 +213,11 @@ they do so, they get upset:
 1. Thiqat al-Islam al-Kulayni narrates the following tradition in his
 al-Kafi:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ سَمَاعَةَ عَنْ أَبِي عَبْدِ اللَّهِ قَالَ سَمِعْتُهُ يَقُولُ مَا
-لَكُمْ تَسُوءُونَ رَسُولَ اللَّهِ فَقَالَ رَجُلٌ كَيْفَ نَسُوؤُهُ
-فَقَالَ أَمَا تَعْلَمُونَ أَنَّ أَعْمَالَكُمْ تُعْرَضُ عَلَيْهِ
-فَإِذَا رَأَى فِيهَا مَعْصِيَةً سَاءَهُ ذَلِكَ فَلاَ تَسُوءُوا رَسُولَ
-اللَّهِ وَ سُرُّوهُ
-  </p>
-</blockquote>
+> عَنْ سَمَاعَةَ عَنْ أَبِي عَبْدِ اللَّهِ قَالَ سَمِعْتُهُ يَقُولُ مَا
+> لَكُمْ تَسُوءُونَ رَسُولَ اللَّهِ فَقَالَ رَجُلٌ كَيْفَ نَسُوؤُهُ
+> فَقَالَ أَمَا تَعْلَمُونَ أَنَّ أَعْمَالَكُمْ تُعْرَضُ عَلَيْهِ
+> فَإِذَا رَأَى فِيهَا مَعْصِيَةً سَاءَهُ ذَلِكَ فَلاَ تَسُوءُوا رَسُولَ
+> اللَّهِ وَ سُرُّوهُ
 
 Suma’a reports: I heard him (i.e. Imam al-Sadiq (AS)) say: What is the
 matter with you? Why do you displease the Messenger of Allah (S)?
@@ -300,17 +228,13 @@ displease the Messenger of Allah (S) but (rather) make him happy.[^12]
 
 2. Al-Kulayni also narrates the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَبْدِ اللَّهِ بْنِ أَبَانٍ الزَّيَّاتِ وَكَانَ مَكِيناً عِنْدَ
-الرِّضَا قَالَ: قُلْتُ لِلرِّضَا: ادْعُ اللَّهَ لِي وَلِأَهْلِ بَيْتِي
-فَقَالَ أَ وَلَسْتُ أَفْعَلُ وَاللَّهِ إِنَّ أَعْمَالَكُمْ لَتُعْرَضُ
-عَلَيَّ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ قَالَ فَاسْتَعْظَمْتُ ذَلِكَ
-فَقَالَ لِي أَ مَا تَقْرَأُ كِتَابَ اللَّهِ عَزَّ وَجَلَّ وَ قُلِ
-اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ
-قَالَ هُوَ وَاللَّهِ عَلِيُّ بْنُ أَبِي طالِبٍ
-  </p>
-</blockquote>
+> عَنْ عَبْدِ اللَّهِ بْنِ أَبَانٍ الزَّيَّاتِ وَكَانَ مَكِيناً عِنْدَ
+> الرِّضَا قَالَ: قُلْتُ لِلرِّضَا: ادْعُ اللَّهَ لِي وَلِأَهْلِ بَيْتِي
+> فَقَالَ أَ وَلَسْتُ أَفْعَلُ وَاللَّهِ إِنَّ أَعْمَالَكُمْ لَتُعْرَضُ
+> عَلَيَّ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ قَالَ فَاسْتَعْظَمْتُ ذَلِكَ
+> فَقَالَ لِي أَ مَا تَقْرَأُ كِتَابَ اللَّهِ عَزَّ وَجَلَّ وَ قُلِ
+> اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ
+> قَالَ هُوَ وَاللَّهِ عَلِيُّ بْنُ أَبِي طالِبٍ
 
 ‘Abdullah bin Aban al-Zayyat, a distinguished personality near Imam
 al-Ridha (AS), reports: I said to al-Ridha (AS): Pray to Allah for me
@@ -337,11 +261,7 @@ one should perpetually seek Divine Succor and make a firm resolve to
 leave all those things that are forbidden, however minute they may seem
 to appear.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 May peace from Allah be upon you
 
@@ -359,11 +279,7 @@ of existence and we know that there is no Absolutely High save Allah,
 *al-salamu ‘alayka* either means peace from Allah be upon you, or ‘peace
 of Allah’ be upon you.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 I surrender all my affairs to you
 
@@ -381,11 +297,7 @@ forced on anyone. When surrending ourself to the Imam (AS) let us
 secretly ask the Imam (AS) to assist us and make us serious and keep us
 steadfast in our commitment.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 Peace be unto You
 
@@ -416,11 +328,7 @@ when we say*: al-salamu ‘alayka*, we can mean *Absolute Peace without
 any limitations, be upon you.* In this case, therefore, we are seeking
 the highest level of peace for Imam al-Husayn (AS)*.*
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 May peace from Allah **envelop You**
 
@@ -432,11 +340,7 @@ freedom from every apparent and hidden calamity that is according to his
 noble essence. Therefore *al-salamu ‘alayka* would mean: “May Allah
 **envelop** you with the state of peace.”
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 Peace from Allah envelop **you**
 
@@ -504,11 +408,7 @@ in our hearts and lift the veils, so that when we convey our humble
 salutations, we are privileged to listen to the sacred response of our
 Imam (AS).
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 May Allah always envelop you with peace
 
@@ -520,11 +420,7 @@ continuity and permanence. Hence we can either translate it as “*May
 Allah always envelop you with peace*” or “*You will always be enveloped
 with peace from my side*”[^17].
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 I am at peace with you
 
@@ -585,16 +481,12 @@ that the more the fear of being attacked the more the reward for
 visiting al-Husayn (AS). ‘Allama Majlisi quotes Muhammad bin Muslim
 saying:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِيْ اَبُو جَعْفَرٍ مُحَمّدُ بْنِ عَلِيّ : هَلْ تَاْتِيْ قَبْرَ
-الْحُسَيْنِ ؟ قُلْتُ: نَعَمْ عَلى خَوْفٍ وَوَجِلٍ. فَقَالَ لَهُ: مَا
-كَانَ مِنْ هَذاَ اَشَدّ فَالثّوَابُ فِيْهِ عَلى قَدَرِ الْخَوْفِ
-وَمَنْ خَافَ فِيْ إِتْيَانِهِ آمَنَ اللهُ رُوْعَتَهُ يَوْمَ يَقُوْمُ
-النَّاسُ لِرَبِّ الْعَالَمِيْنَ وَانْصَرَفَ بِالْمَغْفِرَةِ
-وَسَلَّمَتْ عَلَيْهِ الْمَلآئِكَةُ،وَزَارَهُ النَّبِي وَدَعَا لَهُ...
-  </p>
-</blockquote>
+> قَالَ لِيْ اَبُو جَعْفَرٍ مُحَمّدُ بْنِ عَلِيّ : هَلْ تَاْتِيْ قَبْرَ
+> الْحُسَيْنِ ؟ قُلْتُ: نَعَمْ عَلى خَوْفٍ وَوَجِلٍ. فَقَالَ لَهُ: مَا
+> كَانَ مِنْ هَذاَ اَشَدّ فَالثّوَابُ فِيْهِ عَلى قَدَرِ الْخَوْفِ
+> وَمَنْ خَافَ فِيْ إِتْيَانِهِ آمَنَ اللهُ رُوْعَتَهُ يَوْمَ يَقُوْمُ
+> النَّاسُ لِرَبِّ الْعَالَمِيْنَ وَانْصَرَفَ بِالْمَغْفِرَةِ
+> وَسَلَّمَتْ عَلَيْهِ الْمَلآئِكَةُ،وَزَارَهُ النَّبِي وَدَعَا لَهُ...
 
 Imam Abu Ja’far Muhammad bin ‘Ali (al-Baqir) (AS) said to me: Do you
 come to the grave of al-Husayn (AS)? I said: Yes, but in dread and fear.
@@ -613,18 +505,14 @@ traditions:
 1. ‘Allama Majlisi in vol. 101 of his *Bihar al-Anwar* quotes Ibn Abi
 Ya’fur to have said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لاَبِيْ عَبْدِ اللهِ : دَعَانِيْ الشَّوْقُ إِلَيْكَ اَنْ
-تَجَشَّمْتُ إِلَيْكَ عَلى مَشَقَّةٍ فَقَالَ لِيْ: لاَ تَشْكُ رَبَّكَ
-فَهَلاَّ اَتَيْتَ مَنْ كَانَ اَعْظَمُ حَقًّا “ عًلًيْكَ مِنِّيْ؟
-فَكاَن َمِنْ قَوْلِهِ: “فَهَلاَّ اَتَيْتَ مَنْ كَانَ اَعْظَمُ حَقًّا
-عَلَيْكَ مِنِّيْ اَشَدُّ عَلَيَّ مِنْ قَوْلِهِ “ لاَ تَشْكُ رَبَّكَ “
-. قُلْتُ: وَمَنْ اَعْظَمُ عَلَيَّ حَقًّا مِنْكَ ؟ قَالَ:اَلْحُسَيْنِ
-بْنِ عَلِيّ اَلاَ اَتَيْتَ الْحُسَيْنَ فَدَعَوْتَ اللهَ عِنْدَهُ
-وَشَكَوْتَ إِلَيْهِ حَوَايِجَكَ؟
-  </p>
-</blockquote>
+> قُلْتُ لاَبِيْ عَبْدِ اللهِ : دَعَانِيْ الشَّوْقُ إِلَيْكَ اَنْ
+> تَجَشَّمْتُ إِلَيْكَ عَلى مَشَقَّةٍ فَقَالَ لِيْ: لاَ تَشْكُ رَبَّكَ
+> فَهَلاَّ اَتَيْتَ مَنْ كَانَ اَعْظَمُ حَقًّا “ عًلًيْكَ مِنِّيْ؟
+> فَكاَن َمِنْ قَوْلِهِ: “فَهَلاَّ اَتَيْتَ مَنْ كَانَ اَعْظَمُ حَقًّا
+> عَلَيْكَ مِنِّيْ اَشَدُّ عَلَيَّ مِنْ قَوْلِهِ “ لاَ تَشْكُ رَبَّكَ “
+> . قُلْتُ: وَمَنْ اَعْظَمُ عَلَيَّ حَقًّا مِنْكَ ؟ قَالَ:اَلْحُسَيْنِ
+> بْنِ عَلِيّ اَلاَ اَتَيْتَ الْحُسَيْنَ فَدَعَوْتَ اللهَ عِنْدَهُ
+> وَشَكَوْتَ إِلَيْهِ حَوَايِجَكَ؟
 
 I said to Abu ‘Abdillah [al-Sadiq (AS)]: My fervent desire to meet you
 called me to bear the difficulties to come to you. The Imam (AS) said:
@@ -641,23 +529,19 @@ needs?[^22]
 al-Ja’fari, one of the companions of Imam al-Hadi (AS) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-دَخَلْتُ عَلى اَبِي الْحَسَنِ عَلِيّ بْنِ مُحَمّد وَهُوَ مَحْمُوْمٌ
-عَلِيْلٌ، فَقَالَ لِيْ: يَا اَبَا هِاشَمِ اِبْعَثْ رَجُلاً مِنْ
-مَوَالِيْنَا اِلى الْحَائِرِ يَدْعُو اللهَ لِيْ، فَخَرَجْتُ مِنْ
-عِنْدِهِ، فَاسْتَقْبَلَنِيْ عَلِيّ بْنِ بِلاَل فَاَعْلَمْتُهُ مَا
-قَالَ لِيْ، وَسَاَلْتُهُ اَنْ يَكُوْنَ الرَّجُلُ الَّذِيْ يَخْرُجُ
-فَقَالَ: اَلسَّمْعُ وَالطاعَةُ، وَلَكِنَّنِيْ اَقُوْلُ: اِنَّهُ
-اَفْضَل مِنَ الْحَائِرِ إِذْ كَانَ بِمَنْزِلَةِ مَنْ فِي الْحَائِرِ،
-وَدُعَاؤُهُ لِنَفْسِهِ أَفْضَل مِنْ دُعَائِيْ لَهُ بِالْحَائِرِ،
-فَاَعْلَمْتُهُ مَا قَالَ، فَقَالَ لِيْ: قُلْ لَهُ: كَانَ رَسُوْلُ
-اللهِ َ أَفْضَل مِنَ الْبَيْتِ وَالْحَجَرِ، وَكَانَ يَطوْفُ
-بِالْبَيْتِ وَيَسْتَلِمُ الْحَجَرَ، وَاِنَّ اللهَ تَعَالى بِقَاعًا
-يُحِبُّ اَنْ يُدْعى فِيْهَا فَيَسْتَجِيْبُ لِمَنْ دَعَاهُ،
-وَالْحَائِرُ مِنْهَا
-  </p>
-</blockquote>
+> دَخَلْتُ عَلى اَبِي الْحَسَنِ عَلِيّ بْنِ مُحَمّد وَهُوَ مَحْمُوْمٌ
+> عَلِيْلٌ، فَقَالَ لِيْ: يَا اَبَا هِاشَمِ اِبْعَثْ رَجُلاً مِنْ
+> مَوَالِيْنَا اِلى الْحَائِرِ يَدْعُو اللهَ لِيْ، فَخَرَجْتُ مِنْ
+> عِنْدِهِ، فَاسْتَقْبَلَنِيْ عَلِيّ بْنِ بِلاَل فَاَعْلَمْتُهُ مَا
+> قَالَ لِيْ، وَسَاَلْتُهُ اَنْ يَكُوْنَ الرَّجُلُ الَّذِيْ يَخْرُجُ
+> فَقَالَ: اَلسَّمْعُ وَالطاعَةُ، وَلَكِنَّنِيْ اَقُوْلُ: اِنَّهُ
+> اَفْضَل مِنَ الْحَائِرِ إِذْ كَانَ بِمَنْزِلَةِ مَنْ فِي الْحَائِرِ،
+> وَدُعَاؤُهُ لِنَفْسِهِ أَفْضَل مِنْ دُعَائِيْ لَهُ بِالْحَائِرِ،
+> فَاَعْلَمْتُهُ مَا قَالَ، فَقَالَ لِيْ: قُلْ لَهُ: كَانَ رَسُوْلُ
+> اللهِ َ أَفْضَل مِنَ الْبَيْتِ وَالْحَجَرِ، وَكَانَ يَطوْفُ
+> بِالْبَيْتِ وَيَسْتَلِمُ الْحَجَرَ، وَاِنَّ اللهَ تَعَالى بِقَاعًا
+> يُحِبُّ اَنْ يُدْعى فِيْهَا فَيَسْتَجِيْبُ لِمَنْ دَعَاهُ،
+> وَالْحَائِرُ مِنْهَا
 
 I came to Abu al-Hasan (Imam ‘Ali al-Naqi (AS)) while he had fever and
 was unwell. He said to me: ‘O Aba Hisham, send one of our followers to
@@ -674,11 +558,7 @@ would circumambulate round the Ka’bah and touch the Hajar; and indeed
 Allah has places where He loves to be called, so that he may respond to
 the call of the caller, and the Ha’ir is one among them.[^23]
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 Peace be unto You
 
@@ -691,11 +571,7 @@ a true beliver has an all-embracing heart, and thus yearns for the
 betterment of others too. Perhaps that is why we are encouraged to greet
 others with *al-salam*. The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-السّلاَمُ اِسْم مِنْ أَسْمَاءِ اللهِ تَعَالى فَافْشُوهُ بَيْنَكُمْ
-  </p>
-</blockquote>
+> السّلاَمُ اِسْم مِنْ أَسْمَاءِ اللهِ تَعَالى فَافْشُوهُ بَيْنَكُمْ
 
 *Al-Salam* is a name from among the names of Almighty Allah. Therefore,
 spread the same between yourselves...[^24]
@@ -703,13 +579,9 @@ spread the same between yourselves...[^24]
 In fact the word *muslim* has originally been derived from Allah’s Name
 *al-Salam*. The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-تَسَمّى اللهُ باِسْمَينِ سَمَّى بِهمَا أُمّتِى هُوَ السَّلاَمُ
-وَسَمَّى أُمّتِي المُسْلِمِينَ، وَهُوَ الْمُؤْمِنُ وَسَمَّى أُمَّتِى
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> تَسَمّى اللهُ باِسْمَينِ سَمَّى بِهمَا أُمّتِى هُوَ السَّلاَمُ
+> وَسَمَّى أُمّتِي المُسْلِمِينَ، وَهُوَ الْمُؤْمِنُ وَسَمَّى أُمَّتِى
+> الْمُؤْمِنِينَ
 
 Allah named Himself with two names with which he [also] named my nation:
 He is *al-Salam* and He named my nation *muslims*, and He is *al-Mu’min*
@@ -719,11 +591,7 @@ Perhaps due to this reason, scholars like Sayyid al-Shubbar in his
 *al-Anwar al-Lami’a* and ‘Allama Majlisi in his *Bihar al-Anwar* believe
 that one of the meanings of *al-salamu ‘alayka* is[^26]:
 
-<blockquote dir="rtl">
-  <p>
-اِسْمُ السَّلاَمِ عَلَيْكَ
-  </p>
-</blockquote>
+> اِسْمُ السَّلاَمِ عَلَيْكَ
 
 May Allah always envelop you with His Name *al-Salam.*
 
@@ -733,11 +601,7 @@ of the same. It should be understood however that the levels of peace
 are infinite. Therefore invoking peace for others while we greet them
 should never cease.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 I declare that Absolute Peace envelops you
 
@@ -748,22 +612,14 @@ manifestation”. In this case the phrase is taken as declarative and
 al-Asma’*, Mulla Hadi Sabzaw³ari when discussing about the Divine Name
 *al-Salam* says:
 
-<blockquote dir="rtl">
-  <p>
-...أَحَدُ مَعَانِي قَوْلِنَا: سلام عليك، اَنّ السّلاَمَ الْمُؤْمِنَ
-الْمُهَيْمِنَ مُحِيْط عَلَيْكَ وَأَنْتَ مَظْهَرُهُ.
-  </p>
-</blockquote>
+> ...أَحَدُ مَعَانِي قَوْلِنَا: سلام عليك، اَنّ السّلاَمَ الْمُؤْمِنَ
+> الْمُهَيْمِنَ مُحِيْط عَلَيْكَ وَأَنْتَ مَظْهَرُهُ.
 
 ...one of the meanings of our statement ‘*salamun ‘alayk*” is that the
 Peace, the Securer, the Guardian envelops you and you are His
 manifestation.[^27]
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ
 
 Peace be unto you
 
@@ -776,14 +632,10 @@ application of *al-salam*. Look at the following traditions:
 
 1. ‘Allama Majlisi narrates the following in his *Bihar al-Anwar*:
 
-<blockquote dir="rtl">
-  <p>
-جَاءَتْ جَارِيَةٌ لِلْحَسَنِ بِطاقِ رَيْحَانٍ فَقَالَ لَهَا أَنْتَ
-حُرٌّ لِوَجْهِ اللَّهِ فَقِيلَ لَهُ فِي ذَلِكَ فَقَالَ أَدَّبَنَا
-اللَّهُ تَعَالَى فَقَالَ إِذا حُيِّيتُمْ الْآيَةَ وَكَانَ أَحْسَنُ
-مِنْهَاإِعْتَاقَهَا
-  </p>
-</blockquote>
+> جَاءَتْ جَارِيَةٌ لِلْحَسَنِ بِطاقِ رَيْحَانٍ فَقَالَ لَهَا أَنْتَ
+> حُرٌّ لِوَجْهِ اللَّهِ فَقِيلَ لَهُ فِي ذَلِكَ فَقَالَ أَدَّبَنَا
+> اللَّهُ تَعَالَى فَقَالَ إِذا حُيِّيتُمْ الْآيَةَ وَكَانَ أَحْسَنُ
+> مِنْهَاإِعْتَاقَهَا
 
 One of the slave women of Imam al-Hasan (AS) came to him with a bouquet
 of aromatic plants, whereupon the Imam (AS) said to her: You are free
@@ -801,12 +653,8 @@ but embraces other examples of its etymological definition too such as
 
 2. Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْمُرَادُ بِالتَّحِيَّةِ فِيْ قَوْلِهِ تِعِالى: وَإِذَا حُيّيْتُمْ
-بِتَحِيَّةٍ السَّلاَمُ وَغَيْرُهُ مِنَ الْبِرّ وَالاِحْسَانِ.
-  </p>
-</blockquote>
+> اَلْمُرَادُ بِالتَّحِيَّةِ فِيْ قَوْلِهِ تِعِالى: وَإِذَا حُيّيْتُمْ
+> بِتَحِيَّةٍ السَّلاَمُ وَغَيْرُهُ مِنَ الْبِرّ وَالاِحْسَانِ.
 
 *Al-tahiyyah* (greeting) in the verse **‘*****And when you are greeted
 with a greeting...*****’** is to greet and perform other acts of virtue
@@ -820,13 +668,9 @@ exemplify.
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا عَلَى أَنفُسِكُمْ تَحِيَّةً
-مِّنْ عِندِ اللَّهِ مُبَارَكَةً طيِّبَةً كَذَلِكَ يُبَيِّنُ اللَّهُ
-لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُون
-  </p>
-</blockquote>
+> فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا عَلَى أَنفُسِكُمْ تَحِيَّةً
+> مِّنْ عِندِ اللَّهِ مُبَارَكَةً طيِّبَةً كَذَلِكَ يُبَيِّنُ اللَّهُ
+> لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُون
 
 ***So when you enter houses, greet yourselves with a salutation from
 God, blessed and pleasant. Thus does God clarify His signs for you so
@@ -834,12 +678,8 @@ that you may apply reason. (24:61)***
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا دَخَلَ اَحَدُكُمْ بَيْتَهُ فَلْيُسَلِّمْ، فَإِنَّهُ يَنْزِلُهُ
-الْبَرَكَةُ، وَتَؤْنِسُهُ الْمَلآئِكَةُ
-  </p>
-</blockquote>
+> إِذَا دَخَلَ اَحَدُكُمْ بَيْتَهُ فَلْيُسَلِّمْ، فَإِنَّهُ يَنْزِلُهُ
+> الْبَرَكَةُ، وَتَؤْنِسُهُ الْمَلآئِكَةُ
 
 When one enters his house, he must say *salam*, for that makes blessings
 descend on the house and the angels become fond of it.[^30]
@@ -850,11 +690,7 @@ speech or do they portray the loftier aspects of the reality of
 utters and what the heart and mind feel and what the actions portray,
 then how can we claim the honesty of the *musallim* (greeter)?
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللَّهِ
 
 O Aba ‘Abdillah
 
@@ -872,11 +708,7 @@ jugular veins as يَااَلله *Ya Allah*, because the Essence of Allah is
 Exalted. In the well-known verse of the Throne (*Ayat al-Kursi*) we
 declare this reality of Allah’s Exalted Essence as:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الْعَلِيُّ الْعَظِيْمِ
-  </p>
-</blockquote>
+> وَهُوَ الْعَلِيُّ الْعَظِيْمِ
 
 ***And He Alone is always the Extremely High & Great (2:255)***[^32]
 
@@ -894,11 +726,7 @@ as we shall soon expound means ‘the utterly submissive slave of Allah’)
 we are seeking his closeness, or in other words ‘the attributes that
 personifies his exalted being’.
 
-<blockquote dir="rtl">
-  <p>
-أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَبَا عَبْدِ اللَّهِ
 
 O Father of ‘Abdullah
 
@@ -915,20 +743,12 @@ He was mercilessly martyred by the enemies after Imam al-Husayn (AS)
 read *adhan* in his ear following his birth. In the well-known *Ziyarat
 al-Nahiya al-Muqaddasa* Imam al-Zaman (AS) addresses this new born as:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلى عَبْدِ اللهِ بن الحُسَيْن الطفْلِ الرَّضِيْعِ...
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلى عَبْدِ اللهِ بن الحُسَيْن الطفْلِ الرَّضِيْعِ...
 
 Perpetual peace be unto ‘Abdillah, the one who was still
 breastfeeding...[^33]
 
-<blockquote dir="rtl">
-  <p>
-أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَبَا عَبْدِ اللَّهِ
 
 Obedient Slave of Allah
 
@@ -945,13 +765,9 @@ after his birth which subtly alludes to the submissive state of Imam
 (AS) ever since his childhood. In a tradition narrated in *Bihar
 al-Anwar*, Asma’ is quoted to have said:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا كَانَ فِيْ يَوْمِ سَابِعِهِ جَاءَنِيْ النَّبِيّ فَقَالَ:
-هَلُمِّي اِبْنِيْ فَاَتَيْتُ بِهِ... ثُمَّ وَضَعَهُ فِيْ حِجْرِهِ
-ثُمَّ قَالَ: يَا اَبَا عَبْدِ اللهِ عَزِيْزٌ عَلَيَّ ثُمَّ بَكَى...
-  </p>
-</blockquote>
+> فَلَمَّا كَانَ فِيْ يَوْمِ سَابِعِهِ جَاءَنِيْ النَّبِيّ فَقَالَ:
+> هَلُمِّي اِبْنِيْ فَاَتَيْتُ بِهِ... ثُمَّ وَضَعَهُ فِيْ حِجْرِهِ
+> ثُمَّ قَالَ: يَا اَبَا عَبْدِ اللهِ عَزِيْزٌ عَلَيَّ ثُمَّ بَكَى...
 
 ‘On the seventh day after his birth, the Prophet (S) came to me and
 said: ‘Bring me my son.’ So I brought Husayn to him...Then he kept him
@@ -961,11 +777,7 @@ me...then he burst into tears...’[^34]
 This tradition indicates that the Imam (AS) got the teknonym since his
 very early childhood and thus enjoyed an exalted status since then.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللَّهِ
 
 O Utterly Submissive Servant of Allah
 
@@ -979,17 +791,13 @@ extremely vast. Consider the following narrations:
 
 1. ‘Ibad bin Suhayb is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لِلصَّادِقِ جَعْفَر بْنِ مُحَمَّد: اَخْبِرْنِيْ عَنْ اَبِيْ
-ذَرّ، اَهُوَ اَفْضَلُ اَمْ اَنْتُمْ اَهْلُ الْبَيْت؟ فَقَالَ: يَا
-ابْنَ صُهَيْب كَمْ شُهُورُ السَّنَة فَقُلْتُ: اِثْنَا عَشَرَ شَهْرًا،
-فَقَالَ: وَكَمِ الْحُرُم مِنْهَا؟ قُلْتُ: اَرْبَعَةَ اَشْهُر، قَالَ:
-فَشَهْرُ رَمَضَان مِنْهَا؟ قُلْتُ: لاَ، قَالَ: فَشَهْرُ رَمَضَان
-اَفْضَلُ اَمِ الاَشْهُرِ الحُرُم؟ فَقُلْتُ: بَلْ شَهْرُ رَمَضَان،
-قَالَ: فَكَذَلِكَ نَحْنُ اَهْلُ الْبَيْت لاَ يُقَاسُ بِنَا اَحَدٌ.
-  </p>
-</blockquote>
+> قُلْتُ لِلصَّادِقِ جَعْفَر بْنِ مُحَمَّد: اَخْبِرْنِيْ عَنْ اَبِيْ
+> ذَرّ، اَهُوَ اَفْضَلُ اَمْ اَنْتُمْ اَهْلُ الْبَيْت؟ فَقَالَ: يَا
+> ابْنَ صُهَيْب كَمْ شُهُورُ السَّنَة فَقُلْتُ: اِثْنَا عَشَرَ شَهْرًا،
+> فَقَالَ: وَكَمِ الْحُرُم مِنْهَا؟ قُلْتُ: اَرْبَعَةَ اَشْهُر، قَالَ:
+> فَشَهْرُ رَمَضَان مِنْهَا؟ قُلْتُ: لاَ، قَالَ: فَشَهْرُ رَمَضَان
+> اَفْضَلُ اَمِ الاَشْهُرِ الحُرُم؟ فَقُلْتُ: بَلْ شَهْرُ رَمَضَان،
+> قَالَ: فَكَذَلِكَ نَحْنُ اَهْلُ الْبَيْت لاَ يُقَاسُ بِنَا اَحَدٌ.
 
 I asked al-Sadiq (AS), Ja’far bin Muhammad (upon whom be peace): Inform
 me whether Abu Dharr is better than you the Ahl al-Bayt (AS)? The Imam
@@ -1004,17 +812,13 @@ case with us, the Ahl al-Bayt; none can be compared to us.’[^35]
 2. Jabir al-Ju’fi, a companion of Imam al-Baqir is reported to have
 narrated that Imam al-Baqir (AS) once said to him:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا مِنَ اللهِ بِمَكَانٍ وَمَنْزِلَةٍ رَفِيْعَةٍ ! فَلَوْلاَ نَحْنُ
-مَا خَلَقَ اللهُ تعَالى سَمَاءًا وَلاَ اَرْضًا، وَلاَجَنَّةً
-وَلاَنَارًا، وَلاَ شَمْسًا وَلاَقَمَرًا، وَلاَجِنِّيًّا وَلاَ
-إِنْسِيًّا. يَا جَابِر، إِنَّا اَهْلُ الْبَيْتِ لاَ يُقَاسُ بِنَا
-اَحَدٌ، مَنْ قَاسَ بِنَا احدًا مِنَ الْبَشَرِ فَقَدْ كَفَرَ . يَا
-جَابِرُ، بِنَا الله أنْقَذَكُمْ، وَبِنَا هَدَاكُمْ،وَنَحْنُ وَاللهِ
-دَلّلْنَاكُمْ عَلى رَبِّكُمْ...
-  </p>
-</blockquote>
+> اِنَّا مِنَ اللهِ بِمَكَانٍ وَمَنْزِلَةٍ رَفِيْعَةٍ ! فَلَوْلاَ نَحْنُ
+> مَا خَلَقَ اللهُ تعَالى سَمَاءًا وَلاَ اَرْضًا، وَلاَجَنَّةً
+> وَلاَنَارًا، وَلاَ شَمْسًا وَلاَقَمَرًا، وَلاَجِنِّيًّا وَلاَ
+> إِنْسِيًّا. يَا جَابِر، إِنَّا اَهْلُ الْبَيْتِ لاَ يُقَاسُ بِنَا
+> اَحَدٌ، مَنْ قَاسَ بِنَا احدًا مِنَ الْبَشَرِ فَقَدْ كَفَرَ . يَا
+> جَابِرُ، بِنَا الله أنْقَذَكُمْ، وَبِنَا هَدَاكُمْ،وَنَحْنُ وَاللهِ
+> دَلّلْنَاكُمْ عَلى رَبِّكُمْ...
 
 Surely we have an exalted status near Allah! Were we not there, Allah
 would not have created any heaven nor earth, nor any Paradise nor Hell
@@ -1026,16 +830,12 @@ and, I swear by Allah we have guided you to your Lord...[^36]
 
 3. Imam ‘Ali (AS) is reported to have said to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-اِعْلَمْ يَا اَبَاذَرّ اَنَا عَبْدُ اللهِ عَزَّوَجَلَّ وَخَلِيْفَتُهُ
-عَلى عِبَادِهِ لاَ تَجْعَلُوْنَا اَرْبَابًا وَقُوْلُوْا فِيْ فَضْلِنَا
-مَا شِئْتُمْ فَاِنَّكُمْ لاَ تَبْلُغُوْنَ كُنْهَ مَا فِيْنَا وَلاَ
-نِهَايَتَهُ، فَاِنَّ اللهَ عَزَّوَجَلَّ قَدْ اَعْطانَا اَكْبَرُ
-وَاَعْظَمُ مِمَّا يَصِفُهُ وَاصِفُكُمْ اَوْ يَخْطرُ عَلى قَلْبِ
-اَحَدِكُمْ فَإِذَا عَرَفْتُمُوْنَا هَكَذَا فَاَنْتُمُ الْمُؤْمِنُوْن .
-  </p>
-</blockquote>
+> اِعْلَمْ يَا اَبَاذَرّ اَنَا عَبْدُ اللهِ عَزَّوَجَلَّ وَخَلِيْفَتُهُ
+> عَلى عِبَادِهِ لاَ تَجْعَلُوْنَا اَرْبَابًا وَقُوْلُوْا فِيْ فَضْلِنَا
+> مَا شِئْتُمْ فَاِنَّكُمْ لاَ تَبْلُغُوْنَ كُنْهَ مَا فِيْنَا وَلاَ
+> نِهَايَتَهُ، فَاِنَّ اللهَ عَزَّوَجَلَّ قَدْ اَعْطانَا اَكْبَرُ
+> وَاَعْظَمُ مِمَّا يَصِفُهُ وَاصِفُكُمْ اَوْ يَخْطرُ عَلى قَلْبِ
+> اَحَدِكُمْ فَإِذَا عَرَفْتُمُوْنَا هَكَذَا فَاَنْتُمُ الْمُؤْمِنُوْن .
 
 Know, O Abu Dharr, that I am an utterly submissive servant of Allah on
 the earth and His vicegerent over His other servants; do not consider us
@@ -1046,11 +846,7 @@ better and greater than what describers among you describe or what has
 penetrated in the imagination of anyone; so when you know us in this
 way, you surely are the believers.[^37]
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
 
 Peace be unto you O Aba ‘Abdillah
 
@@ -1061,21 +857,13 @@ before us, and we address him using the second person pronoun “*kaf*’,
 it is apt to begin our address with his teknonym. Imam al-Ridha (AS) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا ذَكَرْتَ الرَّجُلَ وَهُوَ حَاضِرٌ فَكَنِّهِ وَإِذَا كَانَ غائباً
-فسَمِّهِ
-  </p>
-</blockquote>
+> إذَا ذَكَرْتَ الرَّجُلَ وَهُوَ حَاضِرٌ فَكَنِّهِ وَإِذَا كَانَ غائباً
+> فسَمِّهِ
 
 If you mention a man in his presence, then do so using his teknonym
 (*kunya*), and if he were to be absent, then call him by his name.[^38]
 
-<blockquote dir="rtl">
-  <p>
-أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَبَا عَبْدِ اللَّهِ
 
 O father of ‘Abdullah
 
@@ -1083,12 +871,8 @@ It is important to look at the root meaning of the word ‘*ab*’ in *Aba
 ‘Abdillah* which we normally translate as ‘father’. In the Arabic
 language the word اب ‘*ab*’ literally means:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ كُلّ مَنْ كَانَ سَبَبًا فِى اِيْجَادِ شَيْءٍ اَوْ اِصْلاَحِهِ
-اَوْ ظُهُوْرِهِ
-  </p>
-</blockquote>
+> هُوَ كُلّ مَنْ كَانَ سَبَبًا فِى اِيْجَادِ شَيْءٍ اَوْ اِصْلاَحِهِ
+> اَوْ ظُهُوْرِهِ
 
 Whosoever is a cause in the existence of a thing or its reform or its
 manifestation is known as ‘*ab*’.[^39]
@@ -1099,22 +883,14 @@ And since Imam al-Husayn (AS) converges with the Muhammadan Light
 caravan of human beings. Therefore he is Abu ‘Abdillah. Whatever grace
 any servant of Allah receives is through the Muhammadan Light.
 
-<blockquote dir="rtl">
-  <p>
-أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَبَا عَبْدِ اللَّهِ
 
 O father of ‘Abdullah
 
 In a well-known tradition, we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الآباَءُ ثَلاَثَة: اَبٌ ولّدكَ وَاَبٌ عَلَّمَكَ وَاَبٌ
-زَوَّجَكَ
-  </p>
-</blockquote>
+> إِنَّمَا الآباَءُ ثَلاَثَة: اَبٌ ولّدكَ وَاَبٌ عَلَّمَكَ وَاَبٌ
+> زَوَّجَكَ
 
 Indeed there are only **three fathers**: the father who was the reason
 for your birth, the father who taught you, and the father who married
@@ -1131,18 +907,14 @@ inspiration from him even before his birth. Consider the following
 narratives from ‘Allama Majlisi’s *Bihar al-Anwar* and Bahrani’s
 *al-’Awalim*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللهِ، قَالَ: إِنَّ إِسْمَاعِيْلَ الَّذِيْ قَالَ
-اللهُ تَعَالى: وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيْلَ اِنَّهُ كَانَ
-صَادِقَ الْوَعْدِ وَكَانَ رَسُوْلاً نَبِيًا لَمْ يَكُنْ إِسْمَاعِيْلُ
-بْنِ اِبْرَاهِيْمَ بَلْ كَانَ نَبِيًّا مِنَ الاَنْبِيَاءِ، بَعَثَهُ
-اللهُ عَزَّوَجَلَّ إِلى قَوْمِهِ فَأخَذُوْهُ فَسَلَخُوْا فَرْوَةَ
-رَأسِهِ وَوَجْهِهِ، فَاَتَاهُ مَلَكٌ، فَقَالَ: إِنَّ اللهَ جَلَّ
-جَلاَلُهُ بَعَثَنِيْ إِلَيْكَ فَمُرْنِي بِمَا شِئْتَ، فَقَالَ: لِيْ
-اُسْوَةٌ بِمَا يُصْنَعُ بِالْحُسَيْنِ...
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللهِ، قَالَ: إِنَّ إِسْمَاعِيْلَ الَّذِيْ قَالَ
+> اللهُ تَعَالى: وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيْلَ اِنَّهُ كَانَ
+> صَادِقَ الْوَعْدِ وَكَانَ رَسُوْلاً نَبِيًا لَمْ يَكُنْ إِسْمَاعِيْلُ
+> بْنِ اِبْرَاهِيْمَ بَلْ كَانَ نَبِيًّا مِنَ الاَنْبِيَاءِ، بَعَثَهُ
+> اللهُ عَزَّوَجَلَّ إِلى قَوْمِهِ فَأخَذُوْهُ فَسَلَخُوْا فَرْوَةَ
+> رَأسِهِ وَوَجْهِهِ، فَاَتَاهُ مَلَكٌ، فَقَالَ: إِنَّ اللهَ جَلَّ
+> جَلاَلُهُ بَعَثَنِيْ إِلَيْكَ فَمُرْنِي بِمَا شِئْتَ، فَقَالَ: لِيْ
+> اُسْوَةٌ بِمَا يُصْنَعُ بِالْحُسَيْنِ...
 
 It is reported from Abi ‘Abdillah (al-Sadiq (AS)) who said: ‘Indeed the
 Isma’il that Almighty Allah talks about in the verse ***‘And mention in
@@ -1154,20 +926,16 @@ so an angel came to him, and said: ‘Surely Allah sent me to you; so
 order me to do what you want.’ He said: ‘I have model of emulation of
 what will happen to al-Husayn (upon whom be peace)...[^41]
 
-<blockquote dir="rtl">
-  <p>
-وَرُوِيَ اَنَّ نُوْحًا لَمَّا رَكِبَ فِي السَّفِيْنَةِ طافَتْ بِهِ
-جَمِيْعَ الدُّنْيَا، فَلَمَّا مَرَّتْ بِكَرْبَلاَ اَخَذَتْهُ الاَرْضُ
-وَخَافَ نُوْح اَلْغَرْقَ، فَدَعَا رَبَّهُ، وَقَالَ: إِلَهِيْ طفْتُ
-جَمِيْعَ الدُّنْيَا وَمَا اَصَابَنِيْ فَزَعٌ مِثْلَ مَا اَصَابَنِيْ
-فِيْ هَذِهِ الاَرْضِ، فَنَزَلَ جِبْرَئِيْلُ، وَقَالَ يَا نُوْحُ فِي
-هَذَا الْمَوْضِعِ يُقْتَلُ الْحُسَيْنُ سِبْط مُحَمَّدٍ خَاتَمِ
-الاَنْبِيَاءِ، وَابْنِ خَاتَمِ الاَوْصِيَاءِ، فَقَالَ: وَمَنِ
-الْقَاتِلُ لَهُ يَا جَبْرَئِيْلُ؟ قَالَ: قَاتِلُهُ لَعِيْنُ اَهْلِ
-سَبْعِ سَمَاوَات وَسَبْعِ اَرَضِيْنَ، فَلَعَنَهُ نُوْح اَرْبَعَ
-مَرَّاتٍ...
-  </p>
-</blockquote>
+> وَرُوِيَ اَنَّ نُوْحًا لَمَّا رَكِبَ فِي السَّفِيْنَةِ طافَتْ بِهِ
+> جَمِيْعَ الدُّنْيَا، فَلَمَّا مَرَّتْ بِكَرْبَلاَ اَخَذَتْهُ الاَرْضُ
+> وَخَافَ نُوْح اَلْغَرْقَ، فَدَعَا رَبَّهُ، وَقَالَ: إِلَهِيْ طفْتُ
+> جَمِيْعَ الدُّنْيَا وَمَا اَصَابَنِيْ فَزَعٌ مِثْلَ مَا اَصَابَنِيْ
+> فِيْ هَذِهِ الاَرْضِ، فَنَزَلَ جِبْرَئِيْلُ، وَقَالَ يَا نُوْحُ فِي
+> هَذَا الْمَوْضِعِ يُقْتَلُ الْحُسَيْنُ سِبْط مُحَمَّدٍ خَاتَمِ
+> الاَنْبِيَاءِ، وَابْنِ خَاتَمِ الاَوْصِيَاءِ، فَقَالَ: وَمَنِ
+> الْقَاتِلُ لَهُ يَا جَبْرَئِيْلُ؟ قَالَ: قَاتِلُهُ لَعِيْنُ اَهْلِ
+> سَبْعِ سَمَاوَات وَسَبْعِ اَرَضِيْنَ، فَلَعَنَهُ نُوْح اَرْبَعَ
+> مَرَّاتٍ...
 
 It is narrated that when Nuh (AS) boarded the Ark, it transported him
 throughout the world; and when he passed by Karbala, the earth forced
@@ -1181,19 +949,15 @@ would kill him, O Gabriel? Gabriel said: His killer is one whom the
 inhabitants of seven heavens and the seven earths curse; so Nuh (AS)
 curses him four times...[^42]
 
-<blockquote dir="rtl">
-  <p>
-وَرُوِيَ اَنَّ اِبْرَاهِيْمَ مَرَّ فِيْ اَرْضِ كَرْبَلاَ وَهُوَ
-رَاكِبٌ فَرَسًا فَعَثَرَ بِهِ وَسَقَط إِبْرَاهِيْمُ وَشَجَّ رَأْسُهُ
-وَسَالَ دَمُهُ، فَاَخَذَ فِيْ الاِسْتِغْفَارِ، وَقَالَ: إِلهِيْ اَيُّ
-شَيْءٍ حَدَثَ مِنِّيْ؟ فَنَزَلَ إِلَيْهِ جَبْرَئِيْلُ وَقَالَ: يَا
-إِبْرَاهِيْمُ مَا حَدَثَ مِنْكَ ذَنْبٌ، وَلكِن يُقْتَلُ هُنَا سِبْط
-خَاتَمِ الاَنْبِيَاءِ، وَابْنُ خَاتَمِ الاَوْصِيَاءِ، فَسَالَ دَمُكَ
-مُوَافَقَةً لِدَمِهِ. قَالَ: يَا جَبْرَئِيْلُ وَمَنْ يَكُوْنُ
-قَاتِلُهُ؟ لَعِينُ أَهْلِ السَّمَاوَاتِ وَالأَرَضِينَ... فَرَفَعَ
-إِبْرَاهِيْمُ يَدَيْهِ وَلَعَنَ يَزِيْدَ لَعْنًا كَثِيْرًا ...
-  </p>
-</blockquote>
+> وَرُوِيَ اَنَّ اِبْرَاهِيْمَ مَرَّ فِيْ اَرْضِ كَرْبَلاَ وَهُوَ
+> رَاكِبٌ فَرَسًا فَعَثَرَ بِهِ وَسَقَط إِبْرَاهِيْمُ وَشَجَّ رَأْسُهُ
+> وَسَالَ دَمُهُ، فَاَخَذَ فِيْ الاِسْتِغْفَارِ، وَقَالَ: إِلهِيْ اَيُّ
+> شَيْءٍ حَدَثَ مِنِّيْ؟ فَنَزَلَ إِلَيْهِ جَبْرَئِيْلُ وَقَالَ: يَا
+> إِبْرَاهِيْمُ مَا حَدَثَ مِنْكَ ذَنْبٌ، وَلكِن يُقْتَلُ هُنَا سِبْط
+> خَاتَمِ الاَنْبِيَاءِ، وَابْنُ خَاتَمِ الاَوْصِيَاءِ، فَسَالَ دَمُكَ
+> مُوَافَقَةً لِدَمِهِ. قَالَ: يَا جَبْرَئِيْلُ وَمَنْ يَكُوْنُ
+> قَاتِلُهُ؟ لَعِينُ أَهْلِ السَّمَاوَاتِ وَالأَرَضِينَ... فَرَفَعَ
+> إِبْرَاهِيْمُ يَدَيْهِ وَلَعَنَ يَزِيْدَ لَعْنًا كَثِيْرًا ...
 
 It is narrated that [Prophet] Ibrahim (AS) passed by the land of Karbala
 while he was riding his horse. The horse made him stumble and Ibrahim
@@ -1219,11 +983,7 @@ lesson of utter submission, even at the cost of sacrificing everything.
 Consequently, we rightfully address him as Abu ‘Abdillah (the father or
 tutor of a truly submissive servant of Allah.)
 
-<blockquote dir="rtl">
-  <p>
-عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> عَبْدِ اللَّهِ
 
 Servant of Allah
 
@@ -1247,29 +1007,17 @@ are *‘Ibad Allah* (totally submissive servants of Allah) and
 consequently manifestations of His Most Beautiful Attributes as well. It
 is for this reason perhaps that Imam ‘Ali (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الاَسْمَآءُ الْحُسْنى
-  </p>
-</blockquote>
+> نَحْنُ الاَسْمَآءُ الْحُسْنى
 
 We are the Most Beautiful Names of Allah[^44]
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ
 
 Peace be unto you, O obedient servant of Allah
 
 In the Arabic rhetoric there is a rule that says:
 
-<blockquote dir="rtl">
-  <p>
-تَعْلِيْقُ الْحُكْمِ بِالْوَصْفِ مُشْعِرٌبِالْعِلِّيَّةِ
-  </p>
-</blockquote>
+> تَعْلِيْقُ الْحُكْمِ بِالْوَصْفِ مُشْعِرٌبِالْعِلِّيَّةِ
 
 When a statement is qualified with a certain attribute the quality
 denotes the reason behind the statement.
@@ -1444,5 +1192,4 @@ Imam  as follows: اشهد انك قد اقمت الصلاة...I bear witness
 established prayer. (Author)
 
 [^46]: Muhammad al-Rayshahri, Kimyaye Mahabbat, p. 115
-
 

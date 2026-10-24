@@ -19,23 +19,15 @@ They were living their lives under this Fironic system.
 From the very beginning of the Quran in Surah al-Baqarah, the story of
 Bani Israel begins. They were reminded and told:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ
-عَلَيْكُمْ
-  </p>
-</blockquote>
+> يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ
+> عَلَيْكُمْ
 
 ***"O children of Israel! Remember My favor which I bestowed on you…"
 (Surah al-Baqarah, 2: 40)***
 
 And then the Quran continues to say:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ
 
 ***" we excelled you over everyone else in the entire world" (Surah
 al-Baqarah, 2:122)***
@@ -43,11 +35,7 @@ al-Baqarah, 2:122)***
 Then amongst the bounties which the Quran counted, the first one which
 was reminded to them was:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ
-  </p>
-</blockquote>
+> وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ
 
 ***"And we delivered you from the people of Firon" (Surah al-Baqarah, 2:
 49)***
@@ -77,11 +65,7 @@ The Quran says that the Fironic System was the worst system on earth for
 humanity since the existence of the world. There were two major evils in
 this system, one of which was phrased by the Quran as:
 
-<blockquote dir="rtl">
-  <p>
-يَسُومُونَكُمْ سُوءَ الْعَذَابِ
-  </p>
-</blockquote>
+> يَسُومُونَكُمْ سُوءَ الْعَذَابِ
 
 ***".. who was taking you towards divine punishment" (Surah al-Baqarah,
 2: 49)***
@@ -92,5 +76,4 @@ being lives his life, that system drags the entire community, nation and
 country towards final destruction (i.e. punishment). We can call such
 systems as the Systems of Hell or corrupt systems. Now, we have to take
 guidance from this narration of the Holy Quran.
-
 

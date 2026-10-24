@@ -48,4 +48,3 @@ Imam as-Sajyad (as) said,
 
 [^3]: Kamaaluddin Vol.1, Pg.322. & Vol.2. Pg.524.
 
-

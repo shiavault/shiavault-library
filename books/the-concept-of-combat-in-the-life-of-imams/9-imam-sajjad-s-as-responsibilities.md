@@ -96,4 +96,3 @@ a better situation during the time of Imam Baqir (as).
 
 [^3]: Bihar-ul-Anwar, Vol. 46, P. 144, Tradition 29
 
-

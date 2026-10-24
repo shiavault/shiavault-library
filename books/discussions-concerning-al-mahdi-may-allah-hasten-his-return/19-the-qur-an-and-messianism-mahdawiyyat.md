@@ -17,21 +17,13 @@ Allah elevate their word—have authority and *Imamah* are many in number.
 
 Among them is the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 **“You are but a warner, and every people has a guide.**”[^1]
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَنَالُ عَهْدِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> لاَ يَنَالُ عَهْدِي الظَّالِمِينَ
 
 “My covenant reaches not the oppressors (and only that group of your
 descendants is worthy of this position who are pure and
@@ -39,11 +31,7 @@ infallible).”[^2]
 
 and the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يَتْبَعَ
-  </p>
-</blockquote>
+> أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يَتْبَعَ
 
 “Thus is one who guides to the truth worthier of being followed?”[^3]
 
@@ -53,12 +41,8 @@ station of *Imamah*, and his being more knowledgeable than others, and
 this issue is among the exclusive convictional principles of the Shi‘a.
 And from the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ
-وَأُولِي الأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ
+> وَأُولِي الأَمْرِ مِنْكُمْ
 
 “O’ ye who have brought faith! Obey Allah and obey the Messenger and
 those in authority among you (the trustees of the Prophet).”[^4]
@@ -96,16 +80,12 @@ Revealed About the Twelfth Imam*) has collected all of them.
 
 Among those verses is this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لِيَسْتَخْلِفَنَّهُمْ فِي الأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
-قَبْلِهِمْ وَلِيُمَكِّنَنَّ لَهَمُ دِيْنَهُمْ الَّذِي ارْتَضَى لَهُمْ
-وَلِيُبِدَّلَنَهُم مِنْ بَعْدِ خَوْفِهِمْ أَمْناًا يَعْبُدُونِنِي لاَ
-يُشْرِكُونَ بِي شَيْئاُ وَمَنْ كَفَرَ بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ
-الفَاسِقُونَ
-  </p>
-</blockquote>
+> وَعَدَ اللهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لِيَسْتَخْلِفَنَّهُمْ فِي الأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
+> قَبْلِهِمْ وَلِيُمَكِّنَنَّ لَهَمُ دِيْنَهُمْ الَّذِي ارْتَضَى لَهُمْ
+> وَلِيُبِدَّلَنَهُم مِنْ بَعْدِ خَوْفِهِمْ أَمْناًا يَعْبُدُونِنِي لاَ
+> يُشْرِكُونَ بِي شَيْئاُ وَمَنْ كَفَرَ بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ
+> الفَاسِقُونَ
 
 **“Allah has promised those who have believed among you and do good
 deeds that He shall certainly make them rulers in the earth as He made
@@ -116,24 +96,16 @@ after that, it is they who are the iniquitous.”**[^5]
 
 and this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَنْ نَمُنَّ عَلى الَّذِينَ اسْتُضْعِفُوا فِي الأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَنْ نَمُنَّ عَلى الَّذِينَ اسْتُضْعِفُوا فِي الأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
 
 **“And we desire bestow a favor on those deemed weak in the land and
 make them leaders and make them inheritors.**”[^6]
 
 and the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الأَرْضَ
-يَرِثُهَا عِبَادِي الصَّالِحُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الأَرْضَ
+> يَرِثُهَا عِبَادِي الصَّالِحُونَ
 
 **“And verily We have written in the Zabur (Psalms) after the
 Remembrance that my righteous servants will inherit the earth.”**[^7]
@@ -151,5 +123,4 @@ Remembrance that my righteous servants will inherit the earth.”**[^7]
 [^6]: Surah Qasas (28), Verse 5
 
 [^7]: Surah al-Anbiya’ (21), Verse105
-
 

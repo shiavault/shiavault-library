@@ -1,10 +1,6 @@
 Ka’b Al-ahbar: 245
 ==================
 
-  
-  
-  
-
 He is Ka’b ibn Mani’ al-Himyari, from Al Dhi Ra’in, and it is said that
 he belongs to Dhu al-Kila’. His surname was Abu Ishaq, and he was one of
 the eminent rabbis of the Jews, known with the title Ka’b al-Ahbar. He
@@ -12,11 +8,10 @@ embraced Islam during the time of Umar, and settled at al-Madinah in the
 period of his caliphate, keeping his company during the conquest of
 Quds. Then he shifted to the Sham during the reign of Uthman, when
 Mu’awiyah chose and appointed him as one of his consultants, due to his
-abundant knowledge. <span id="_anchor_246"></span>246 Also they were
+abundant knowledge. 246 Also they were
 claiming that it was Mu’awiyah who ordered
 
-him to relate tales in the land of Sham, <span
-id="_anchor_247"></span>247 becoming thus the first of Akhbaris in
+him to relate tales in the land of Sham, 247 becoming thus the first of Akhbaris in
 respect of the Jewish and Islamic traditions.”
 
 Through Ka’b and Ibn Munabbih and others from among the Jews who
@@ -28,11 +23,10 @@ About him al-Dhahabi, in Tadhkirat al-huffaz, writes: “He came from
 Yemen during the caliphate of Umar, when the Companions and others began
 to take and report from him, with some of the Followers (Tabi’un)
 reporting from him without referring to the chain of narrators. He died
-at Hams <span id="_anchor_248"></span>248 (Syria) in 32 or 33 or 37
+at Hams 248 (Syria) in 32 or 33 or 37
 (Hijrah), after disseminating throughout the Sham and other Islamic and
 Jewish countries his narrations and tales derived from Akhbar, as done
-by Tamim al-Dari in the Christian reports. <span
-id="_anchor_249"></span>249
+by Tamim al-Dari in the Christian reports. 249
 
 ### Reason Behind his Embracing Islam:
 
@@ -50,7 +44,7 @@ witnessing advent of Islam, I said to myself: Maybe my father has kept
 from me some knowledge! So I unsealed the letter seeing in it the
 characteristics of Muhammad and his Ummah! Only then I became Muslim!
 
-Abd Allah ibn Umar <span id="_anchor_250"></span>250 reported that One
+Abd Allah ibn Umar 250 reported that One
 of the Yemenis came to Ka’b al-Ahbar and said to him: The Jewish Rabbi
 so and so sent me to hand you a letter. Ka’b said: Give it. The man
 said: He says to you: Weren’t you an honourable influential master! So
@@ -72,19 +66,15 @@ wish!”
 In al-Isabah, Ibn Hajar says that he related from the Prophet mursal
 traditions, and from him (Ka’b) some of the Companions reported, like
 Ibn Umar, Abu Hurayrah, Ibn Abbas, Ibn al-Zubayr and Mu’awiyah beside
-others. <span id="_anchor_251"></span>251
+others. 251
 
 Al-Dhahabi, in Siyar A’lam al-nubala’, writes: From him hadith was
-reported by Abd Allah ibn Hanzalah, <span id="_anchor_252"></span>252
+reported by Abd Allah ibn Hanzalah, 252
 Aslam mawla of Umar, Tubay’ al-Himyari and Abu Salam al-Aswad. Also from
 him a number of the Followers, like ‘Ata’ ibn Yasar and others, reported
 some mursal traditions (with no reference to chain of transmitters).
 Some of his narrations appeared in Sunan of Abu Dawud and of al-Tirmidhi
-and al-Nasa’i. <span id="_anchor_253"></span>253
-
-  
-  
-  
+and al-Nasa’i. 253
 
 245. Professor Sa'id al-Afghani, in an article published in al-Risalah
 Journal, stated that the first Zionist being Abd Allah ibn Saba'. In

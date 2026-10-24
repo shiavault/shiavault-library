@@ -1,12 +1,8 @@
 Chapter 8: Legacy of the Quraysh on the Hadith
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ جَاء الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ
-زَهُوقًا
-  </p>
-</blockquote>
+> وَقُلْ جَاء الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ
+> زَهُوقًا
 
 ***Truth has arrived, and falsehood has perished; verily falsehood by
 its nature perishes. (Holy Qur’an, 17:81)***
@@ -611,5 +607,4 @@ Hashim)
 
 [^52]: Ibn Abd al-Birr, Al-Istiab, 1:65; Ibn Hajar, Al-Isabah, 1:154;
 Ibn Atheer, Al-Kamil fil-Tarikh, 3:162; Tarikh al-Tabari, 6:77
-
 

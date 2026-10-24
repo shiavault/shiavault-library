@@ -51,4 +51,3 @@ think about Hajj.
 
 Dr. Ali Shariati
 
-

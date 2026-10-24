@@ -138,4 +138,3 @@ books of tafsir," and he goes on to say: "He is mentioned by
 author lauds him and describes him as ‘accurate in transmitting,
 trustworthy.'"
 
-

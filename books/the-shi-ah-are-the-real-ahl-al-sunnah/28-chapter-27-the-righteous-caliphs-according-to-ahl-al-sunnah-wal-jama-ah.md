@@ -87,7 +87,7 @@ believers according to the text of the Holy Qur'an and the Sunnah. Yet
 he did not recognize Ali's caliphate even when it actually took place!
 How strange!
 
-[^122] Al-Hajjaj ibn Yusuf al-Thaqafi is the one who is very well known
+[^122]: Al-Hajjaj ibn Yusuf al-Thaqafi is the one who is very well known
 for his promiscuity, apostasy, crimes, and total lack of respect for the
 faith. Al-Hakim has recorded on p. 556, Vol. 3, of his Al-Mustadrak, and
 Ibn Asakir has also recorded on p. 69, Vol. 4, of his book, the fact
@@ -104,11 +104,11 @@ cadaver; why don't they go round the mansion of the commander of the
 faithful Abd al-Malik? Don't they know that someone's successor is
 better than his messenger?"
 
-[^123] This is stated on p. 140 of al-Suyuti's book Tarikh al-Khualfa,
+[^123]: This is stated on p. 140 of al-Suyuti's book Tarikh al-Khualfa,
 p. 140. Kanz al-Ummal, Vol. 6, p. 67, and also in the history books of
 Ibn Asakir and al-Dhahabi.
 
-[^124] Read it and do not forget the statement of the Prophet which
+[^124]: Read it and do not forget the statement of the Prophet which
 al-Bukhari and Muslim recorded and which says: "Loving Ali ibn Abu Talib
 is a sign of iman (conviction), and hating him is a sign of hypocrisy,"
 and the hypocrites during the time of the Prophet used to be identified

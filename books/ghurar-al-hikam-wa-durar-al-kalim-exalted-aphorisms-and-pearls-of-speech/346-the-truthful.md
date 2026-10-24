@@ -49,20 +49,11 @@ may be deemed a liar by you.
 achieve with his deception.
 
 > 11ـ يَبْلُغُ الصّادِقُ بِصِدْقِهِ ما لايَبْلُغُهُ الكاذِبُ
-<blockquote dir="rtl">
-  <p>
-بِاحْتِيالِهِ.
-  </p>
-</blockquote>
+> بِاحْتِيالِهِ.
 
 12. The truthful one earns three things with his honesty: the virtue of
 being considered reliable, becoming beloved and being revered.
 
 > 12ـ يَكْتَسِبُ الصّادِقُ بِصِدْقِهِ ثَلاثاً: حُسْنِ الثِّقَةِ بِهِ،
-<blockquote dir="rtl">
-  <p>
-والمَحَبَّةَ لَهُ، وَالمَهابَةَ عَنْهُ.
-  </p>
-</blockquote>
-
+> والمَحَبَّةَ لَهُ، وَالمَهابَةَ عَنْهُ.
 

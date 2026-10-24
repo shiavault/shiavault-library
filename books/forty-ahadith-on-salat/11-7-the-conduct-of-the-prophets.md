@@ -1,19 +1,9 @@
 7. The Conduct of the Prophets  
 ================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): أَلصَّلاَةُ مِنْ شَرَائِعِ الدِّينِ وَ
-فِيهَا مَرْضَاةُ الرَّبِّ عَزَّ وَ جَلَّ وَ هِيَ مِنْهَاجُ
-الأَنْـبِيَاءِ.
-  </p>
-</blockquote>
-
-<blockquote dir="rtl">
-  <p>
- 
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): أَلصَّلاَةُ مِنْ شَرَائِعِ الدِّينِ وَ
+> فِيهَا مَرْضَاةُ الرَّبِّ عَزَّ وَ جَلَّ وَ هِيَ مِنْهَاجُ
+> الأَنْـبِيَاءِ.
 
 The Messenger of Allah (peace be upon him and his progeny) said: “The
 prayer is one of the (primary) dictates of religion, in it lies the
@@ -22,5 +12,4 @@ of the Prophets.”** **
  Biharul Anwar, Volume 82, Page 231  
       
   
-
 

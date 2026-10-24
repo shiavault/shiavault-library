@@ -15,4 +15,3 @@ letter to Waleed bin Utba bin Abu Sufyan, who was appointed the governor
 of Madina by Mu’awiyah, to demand the oath of allegiance from Husayn ibn
 Ali (a.s.) immediately.
 
-

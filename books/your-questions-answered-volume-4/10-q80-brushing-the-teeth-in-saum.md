@@ -173,4 +173,3 @@ follow the commandments of Allah? 'Pure love' does not demand sexual
 intercourse. And it is better to "ruin" your life in this world, rather
 than ruining it in the hereafter.
 
-

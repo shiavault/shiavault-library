@@ -756,34 +756,33 @@ long introduction, dated rajab 1, 1398 H by the author written for the
 8th edition of the book titled 'Materialism in Iran', this will appear
 at the end of the serial.
 
-[^2] ... they follow only surmise, merely conjecturing. (6:116)
+[^2]: ... they follow only surmise, merely conjecturing. (6:116)
 
-[^3] Irving William Knobloch, The Evidence of God in an Expanding
+[^3]: Irving William Knobloch, The Evidence of God in an Expanding
 Universe, cf. Russell, Mysticism and Logic (Penguin Books 1953), "A Free
 Mans Worship"
 
-[^4] See Russell, Mysticism and Worship, (Penguin Books 1953), "A Free
+[^4]: See Russell, Mysticism and Worship, (Penguin Books 1953), "A Free
 Mans Worship", pp.50-59
 
-[^5] As the original source of Einsteins statement quoted by the author
+[^5]: As the original source of Einsteins statement quoted by the author
 was not accessible to the translator, a parallel statement of his has
 been cited here from Ideas and Opinions by Albert Einstein (Calcutta:
 Rup & Co, 1984, first published by Bonanza Books, New York), based on
 Mein Weltbild, edited by Carl Seerling, trans and revised by Sonja
 Bargmann, pp. 40 (Tr.)
 
-[^6] Irving William Knobloch, op. Cit, the article by Walter Oscar
+[^6]: Irving William Knobloch, op. Cit, the article by Walter Oscar
 Lundberg
 
 [^7] Will Durrant, The Story of Civilization, Persian transl. Tarikhe
 Tamaddun, v18 p350
 
-[^8] Ibid., p360
+[^8]: Ibid., p360
 
-[^9] George Sarton, Six Wings: Men of Science in the Renaissance
+[^9]: George Sarton, Six Wings: Men of Science in the Renaissance
 (Bloomington: Indiana University Press, 1957), Persian transl. Shish
 Bal, pp296-8
 
-[^10] Ibid, p303
-
+[^10]: Ibid, p303
 

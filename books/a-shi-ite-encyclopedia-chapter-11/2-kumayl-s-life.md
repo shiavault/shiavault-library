@@ -78,4 +78,3 @@ English version of Kumayl's Invocation as close as possible to the
 original Arabic text, based on the meanings of the equivalent roots in
 both Arabic and English lexicons.
 
-

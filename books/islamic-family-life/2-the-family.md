@@ -366,4 +366,3 @@ hereafter.
 [^1]: (a.s.) is the abbreviation of -Arabic phrase \`alayhi(or ha
 /himu)'s-saldm (may peace be upon him/her/them).
 
-

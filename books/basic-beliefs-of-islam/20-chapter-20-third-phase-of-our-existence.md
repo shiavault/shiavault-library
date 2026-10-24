@@ -470,4 +470,3 @@ will be on the Day of Judgment, but the souls of the rebellious people
 like Firaun, Namrood, Yazid and other enemies of the Prophets and Imams
 will be exposed to the punishment soon af ter their death.
 
-

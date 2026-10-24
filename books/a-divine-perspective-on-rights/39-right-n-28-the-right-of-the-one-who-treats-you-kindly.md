@@ -1,22 +1,14 @@
 Right n. 28: The Right of the One Who Treats You Kindly
 =======================================================
 
-<blockquote dir="rtl">
-  <p>
-حق ذي المعروف
-  </p>
-</blockquote>
+> حق ذي المعروف
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ ذِي المَعْرُوفِ عَلَيكَ فَأَنْ تَشْكُرَهُ وتَذْكُرَ
-مَعْرُوفَهُ وتَنْشُرَ لَهُ الْمَقالَةَ الْحَسَنَةَ، وَتُخلِصَ لَهُ
-الدُّعَاءَ فِيمَا بَينَكَ وبَيْنَ اللَّهِ سُبْحَانَهُ، فَإنّكَ إذَا
-فَعَلْتَ ذَلِكَ كُنْتَ قَدْ شَكَرْتَهُ سِرًّا وَعَلانِيَةً. ثُمَّ إنْ
-أَمْكَنَ مُكَافَأَتَهُ بالْفِعْلِ كَافَأتَهُ وإلاّ كُنْتَ مُرْصِدًا
-لَهُ مُوطِّنًا نَفْسَكَ عَلَيْهَا.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ ذِي المَعْرُوفِ عَلَيكَ فَأَنْ تَشْكُرَهُ وتَذْكُرَ
+> مَعْرُوفَهُ وتَنْشُرَ لَهُ الْمَقالَةَ الْحَسَنَةَ، وَتُخلِصَ لَهُ
+> الدُّعَاءَ فِيمَا بَينَكَ وبَيْنَ اللَّهِ سُبْحَانَهُ، فَإنّكَ إذَا
+> فَعَلْتَ ذَلِكَ كُنْتَ قَدْ شَكَرْتَهُ سِرًّا وَعَلانِيَةً. ثُمَّ إنْ
+> أَمْكَنَ مُكَافَأَتَهُ بالْفِعْلِ كَافَأتَهُ وإلاّ كُنْتَ مُرْصِدًا
+> لَهُ مُوطِّنًا نَفْسَكَ عَلَيْهَا.
 
 **And the right of him who treats you kindly is that you should thank
 him and acknowledge his kindness; and spread the good word around about
@@ -46,13 +38,9 @@ Goodness and Evil are not Equal
 
 The Holy Qur’an teaches us that goodness and evil are not equal:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
-أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
-وَلِيٌّ حَمِيمٌ
-  </p>
-</blockquote>
+> وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
+> أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
+> وَلِيٌّ حَمِيمٌ
 
 ***Nor can Goodness and Evil be equal. Repel (Evil) with what is better:
 Then will he between whom and thee was hatred become as it were thy
@@ -68,12 +56,8 @@ Response to Courteous Greetings
 
 We read in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حُيِّيْتُم بِتَحِيَّةٍ فَحَيُّواْ بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَا إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ حَسِيبًا
-  </p>
-</blockquote>
+> وَإِذَا حُيِّيْتُم بِتَحِيَّةٍ فَحَيُّواْ بِأَحْسَنَ مِنْهَا أَوْ
+> رُدُّوهَا إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ حَسِيبًا
 
 ***“When a (courteous) greeting is offered you, meet it with a greeting
 still more courteous, or (at least) of equal courtesy. God takes careful
@@ -90,12 +74,8 @@ Manaqib we read: “A slave maid brought a flower to give to Imam Hasan .
 The Imam returned her favor by freeing her from the bonds of slavery.
 When asked why, he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حُيِّيْتُم بِتَحِيَّةٍ فَحَيُّواْ بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَا إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ حَسِيبًا
-  </p>
-</blockquote>
+> وَإِذَا حُيِّيْتُم بِتَحِيَّةٍ فَحَيُّواْ بِأَحْسَنَ مِنْهَا أَوْ
+> رُدُّوهَا إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ حَسِيبًا
 
 ***“When a (courteous) greeting is offered you, meet it with a greeting
 still more courteous, or (at least) of equal courtesy.” [The Holy
@@ -110,11 +90,7 @@ Good, the Reward for Good
 
 We read the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ جَزَاء الْإِحْسَانِ إِلَّا الْإِحْسَانُ
-  </p>
-</blockquote>
+> هَلْ جَزَاء الْإِحْسَانِ إِلَّا الْإِحْسَانُ
 
 ***“Is there any Reward for Good - other than Good?” [The Holy Qur’an,
 al-Rahman 55:60]***
@@ -124,15 +100,11 @@ this verse has been interpreted as unity of God, His recognition and
 submission to God. However, these are clear instances of good. In
 general, it includes any good deeds or words. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-”آيَةٌ في كِتابِ اللهِ مُسْجَلَةٌ.“ قلتُ: ”ما هِيَ؟“ قالَ: ”قَولُ
-اللهِ عَزَّ وَجَلَّ: "هل جزاء الاحسان الا الاحسان" جَرَتْ في الكافِرِ
-وَالمُؤمِنِ وَالبَرِّ والفَاجِرِ، وَمَن صُنِعَ إلَيهِ مَعرُوفٌ
-فَعَليهِ أنْ يُكافِئَ بهِ، ولَيسَ المُكافأةُ أنْ تَصْنَعَ كَما صُنِعَ
-حتىّ يَربى، فإنْ صَنَعْتَ كما صُنِعَ كان لهُ الفَضْلَ بالإبتِداءِ.“
-  </p>
-</blockquote>
+> ”آيَةٌ في كِتابِ اللهِ مُسْجَلَةٌ.“ قلتُ: ”ما هِيَ؟“ قالَ: ”قَولُ
+> اللهِ عَزَّ وَجَلَّ: "هل جزاء الاحسان الا الاحسان" جَرَتْ في الكافِرِ
+> وَالمُؤمِنِ وَالبَرِّ والفَاجِرِ، وَمَن صُنِعَ إلَيهِ مَعرُوفٌ
+> فَعَليهِ أنْ يُكافِئَ بهِ، ولَيسَ المُكافأةُ أنْ تَصْنَعَ كَما صُنِعَ
+> حتىّ يَربى، فإنْ صَنَعْتَ كما صُنِعَ كان لهُ الفَضْلَ بالإبتِداءِ.“
 
 *“There is a verse in God’s Book that is unrestricted.” He was asked:
 “Which verse?” Imam Sadiq said: “It is the Almighty God’s words:* ***“Is
@@ -153,12 +125,8 @@ The Response to God’s Favor
 
 We read the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا وَأَحْسِن كَمَا أَحْسَنَ اللَّهُ
-إِلَيْكَ
-  </p>
-</blockquote>
+> وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا وَأَحْسِن كَمَا أَحْسَنَ اللَّهُ
+> إِلَيْكَ
 
 ***"Nor forget thy portion in this world: but do thou good, as God has
 been good to thee."[The Holy Qur’an, al-Qasas 28:77]***
@@ -168,12 +136,8 @@ Favors. He asks God for many things and expects a lot from Him. Then how
 can he ignore other people’s needs and neglect their requests. We read
 the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ
-لَكُمْ وَاللَّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ
+> لَكُمْ وَاللَّهُ غَفُورٌ رَّحِيمٌ
 
 ***“Let them forgive and overlook, do you not wish that God should
 forgive you?” [The Holy Qur’an, al-Nur 24:22]***
@@ -199,43 +163,27 @@ Abu Basir quoted on the authority of Imam Baqir that an Arab from the
 Bani Tameen tribe went to see the Prophet and said: “Please advise me.”
 The advice that the Prophet gave him was as follows:
 
-<blockquote dir="rtl">
-  <p>
-تَحَبَّبْ إلى النّاسِ يُحِبُّوكَ.
-  </p>
-</blockquote>
+> تَحَبَّبْ إلى النّاسِ يُحِبُّوكَ.
 
 *“Be affectionate to people so that they love you.”*[^3]
 
 Suma’at quoted on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-مُجامَلَةُ النّاسِ ثُلُثُ العَقْلِ.
-  </p>
-</blockquote>
+> مُجامَلَةُ النّاسِ ثُلُثُ العَقْلِ.
 
 *“One third of the intellect is to be friendly with the people.”*[^4]
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-التَّوَدُّدُ إلى النّاسِ نِصْفُ العَقْلِ.
-  </p>
-</blockquote>
+> التَّوَدُّدُ إلى النّاسِ نِصْفُ العَقْلِ.
 
 *“Half of the intellect is to show love to people.”*[^5]
 
 Thus, we realize that we must treat others with kindness especially
 those who have done us a favor. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أولِيَ مَعْروفاً فَليُكافيءْ بهِ فإنْ لَمْ يَستَطِعْ
-فَلْيَذْكُرْهُ فإنْ ذَكَرَهُ فَقَد شَكَرَهُ.
-  </p>
-</blockquote>
+> مَن أولِيَ مَعْروفاً فَليُكافيءْ بهِ فإنْ لَمْ يَستَطِعْ
+> فَلْيَذْكُرْهُ فإنْ ذَكَرَهُ فَقَد شَكَرَهُ.
 
 *“Whoever receives a favor should compensate it. If he cannot do so, at
 least he should mention it. Thus if he mentions it, he has thanked the
@@ -243,13 +191,9 @@ one who has done him a favor.”*[^6]
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-اصْنَعِ المَعْروفَ إلى مَن هُوَ أهْلُهُ وإلى مَن هو لَيسَ أهْلَهُ،
-فإنْ أصَبْتَ أهلَهُ فهو أهلُهُ وإنْ لم تُصِبْ أهْلَهُ فَأنْتَ مِن
-أهْلِهِ.
-  </p>
-</blockquote>
+> اصْنَعِ المَعْروفَ إلى مَن هُوَ أهْلُهُ وإلى مَن هو لَيسَ أهْلَهُ،
+> فإنْ أصَبْتَ أهلَهُ فهو أهلُهُ وإنْ لم تُصِبْ أهْلَهُ فَأنْتَ مِن
+> أهْلِهِ.
 
 *“Treat with kindness those who are worthy of it and those who are not
 worthy of it. For if you treat with kindness the one who is worthy of
@@ -278,5 +222,4 @@ Hereafter. This is the reward of one who does good.
 
 [^6]: Tarjumeh wa Sharh-i-Risalat al-Huquq, Sepehri, p.149, quoted from
 Sharh-i-Shabab al-Akhbar, pp. 201 & 328.
-
 

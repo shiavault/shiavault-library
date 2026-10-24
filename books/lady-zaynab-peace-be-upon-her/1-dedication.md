@@ -16,4 +16,3 @@ To you, Imam al-Husain (a.s.), I dedicate this work hoping for
 acceptance because you have been the guide and inspirer of seekers of
 Righteousness, Justice and real Humanity.
 
-

@@ -247,4 +247,3 @@ al-’Ummal, page 155, Vol. 6.
 [^11]: This is transmitted by al-Muttaqi al-Hindi from Ibn Abu ‘Asim on
 page 397, Vol. 6, of Kanz al-’Ummal.
 
-

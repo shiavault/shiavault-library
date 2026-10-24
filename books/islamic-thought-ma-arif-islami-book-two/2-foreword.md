@@ -73,4 +73,3 @@ their responsibilities admirably. 
 [^1]: - Ma‘ārif-e Islāmī (Qum: Office of the Supreme Leader in the
 Universities, Spring 1379 AHS (2000)), volumes 1-2.
 
-

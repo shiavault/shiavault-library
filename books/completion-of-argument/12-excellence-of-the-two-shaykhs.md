@@ -449,4 +449,3 @@ Prophet (as) from the battle of Uhad
 
 [^14]: Arjahul Matalib, Maulana Ubaidullah Amritsari Pg. 23
 
-

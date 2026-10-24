@@ -20,4 +20,3 @@ difficult to get rid of this habit later”.
 The youngster, with help of advice from his friends, left smoking and
 promised never to smoke again.
 
-

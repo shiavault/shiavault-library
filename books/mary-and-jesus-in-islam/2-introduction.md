@@ -22,13 +22,13 @@ the original Bible[^1] as a revelation from the Almighty to him. Islam
 does not preach that Jesus was crucified or killed but did ascend to
 heaven.[^2] Many Christians regard Jesus as a deity and worship him
 
-[^1] “Bible” is a Greek word which means “books.” The original Bible,
+[^1]: “Bible” is a Greek word which means “books.” The original Bible,
 which was written in Aramaic, mother tongue of Jesus Christ, was lost.
 John, Mark, Matthew and Luke rewrote it from memory, putting a great
 deal of their own personal views in it, thus altering the original
 pristine message brought by Jesus.
 
-[^2] Jesus is not the only one who is believed to be alive and living in
+[^2]: Jesus is not the only one who is believed to be alive and living in
 heaven. Enoch (Idris) is also believed to be alive. Both al-Khidr and
 Imam al-Mehdi, peace be upon both of them, are believed to be alive and
 living on earth.
@@ -96,5 +96,4 @@ their churches, the choir (an adaptation from the pagan chorus), the
 appointment of women as top church “officials,” the endorsement of
 homosexuality and the appointment of gay and lesbian “ordained”
 ministers...
-
 

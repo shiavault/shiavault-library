@@ -219,4 +219,3 @@ comprised of parts, whether actively or potentially?
 
 9- Explain the peculiarities of the cause that bestows existence.
 
-

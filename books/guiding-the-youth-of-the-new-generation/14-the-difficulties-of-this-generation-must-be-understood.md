@@ -9,29 +9,13 @@ trouble the youth of today which did not trouble the youth of the past. 
 
 In these regards, the poet Mawlawi, has stated:
 
-<blockquote dir="rtl">
-  <p>
-حسرت وزارى كه در بيمارى است
-  </p>
-</blockquote>
+> حسرت وزارى كه در بيمارى است
 
-<blockquote dir="rtl">
-  <p>
-وقت بيمارى هم از بيدارى است
-  </p>
-</blockquote>
+> وقت بيمارى هم از بيدارى است
 
-<blockquote dir="rtl">
-  <p>
-هر كه او بيدارتر پردردتر
-  </p>
-</blockquote>
+> هر كه او بيدارتر پردردتر
 
-<blockquote dir="rtl">
-  <p>
-هر که او هشيارتر رخ زردتر
-  </p>
-</blockquote>
+> هر که او هشيارتر رخ زردتر
 
 *“Remorse and humility occur at the time of illness: the time of illness
 is wholly wakefulness (of conscience).  The more wakeful any one is, the
@@ -63,17 +47,9 @@ advancements)?”* 
 
 In the words of a poet:
 
-<blockquote dir="rtl">
-  <p>
-سخن درست بگويم نمی توانم ديد
-  </p>
-</blockquote>
+> سخن درست بگويم نمی توانم ديد
 
-<blockquote dir="rtl">
-  <p>
-كه می خورند حريفان و من نظاره كنم
-  </p>
-</blockquote>
+> كه می خورند حريفان و من نظاره كنم
 
 *“I must speak the truth that I cannot stand to see,*  
 *My opponents living well while I simply watch on.”*
@@ -92,17 +68,9 @@ industry.  However we see that Japan was able to reach to a level where
 they are very easily able to compete with the Western nations, whereas
 we see the condition that Iran is in?!”*
 
-<blockquote dir="rtl">
-  <p>
-ما و ليلى همسفر بوديم اندر راه عشق
-  </p>
-</blockquote>
+> ما و ليلى همسفر بوديم اندر راه عشق
 
-<blockquote dir="rtl">
-  <p>
-او به مطلبها رسيد و ما هنوز آواره ايم
-  </p>
-</blockquote>
+> او به مطلبها رسيد و ما هنوز آواره ايم
 
 *“Layla* *and I were traveling together on the path of love, She reached
 to that what she was searching for, while I still have yet to get
@@ -166,11 +134,7 @@ person would have understood that what the person was saying was going
 against his own words!  For example, a person would first say that no
 action can take place without a cause:
 
-<blockquote dir="rtl">
-  <p>
-أَبـى  اللٌّهُ أَنْ يَجْرِى  الأُمُورَ إِلاٌّ بَأَسْبٌابِهٌا
-  </p>
-</blockquote>
+> أَبـى  اللٌّهُ أَنْ يَجْرِى  الأُمُورَ إِلاٌّ بَأَسْبٌابِهٌا
 
 *“Allah is much greater than that He would perform actions except for a
 cause.”*
@@ -178,11 +142,7 @@ cause.”*
 The person would state this fact and everyone would agree with him and
 if right after saying this, he were to say:
 
-<blockquote dir="rtl">
-  <p>
-             إِذٌا جـٌاءَ  الْقَدَرُ عَمِيَ  الْبَصَرُ
-  </p>
-</blockquote>
+>              إِذٌا جـٌاءَ  الْقَدَرُ عَمِيَ  الْبَصَرُ
 
 *“When fate comes the eyes are blinded.”*
 
@@ -220,5 +180,4 @@ fell off of the camel onto the ground and started crying:  “واعطشاه”
 we are thirsty!)”
 
 [^1]: A city just outside of present day Mashhad, Iran. (tr.)
-
 

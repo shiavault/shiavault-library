@@ -21,4 +21,3 @@ that the noblest families of Arabia would consider it a signal honour if
 this scion of the Holy Prophet's family were to ask for their daughter
 in marriage.
 
-

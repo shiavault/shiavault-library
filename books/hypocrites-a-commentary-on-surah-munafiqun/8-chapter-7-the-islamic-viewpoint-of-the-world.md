@@ -1,21 +1,17 @@
 Chapter 7 : the Islamic Viewpoint of the World
 ==============================================
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
 أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ وَمَن يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ هُمُ
 الْخَاسِرُونَ
-</p>
 
 “Oh believers! Do not Let your riches or your children divert you from
 the remembrance of Allah. If any one acts this way, the loss is his
 own.”[^51]
 
-<p dir="rtl">
 وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
 الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَى أَجَلٍ قَرِيبٍ
 فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
-</p>
 
 “Spend something (in charity) out of the substance which We have
 bestowed upon you, before death should come to any of you and he should
@@ -23,10 +19,8 @@ say, 'Oh my Lord! Why didn't you give me respite for a little while?
 Then I would have given (largely) in charity, and I would have been one
 of the righteous.'”[^52]
 
-<p dir="rtl">
 وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاء أَجَلُهَا وَاللَّهُ خَبِيرٌ
 بِمَا تَعْمَلُونَ
-</p>
 
 “But Allah will not grant respite to any soul when its appointed time
 when has come, and Allah is well acquainted with (all) that you
@@ -93,7 +87,6 @@ One who thinks that gold, silver and mansions are the goals of life
 will not respect any moral principles. Such a person will abandon truth,
 justice, equity and other ethical virtues.
 
-
 **Death Cannot Be Delayed**
 
 People whose highest goal in this world will wish to prolong their
@@ -118,20 +111,19 @@ now.”[^58]
 
 **Notes:**
 
-[^51] 62:9
+[^51]: 62:9
 
-[^52] 62:10
+[^52]: 62:10
 
-[^53] 62:11
+[^53]: 62:11
 
-[^54] Shaykh S?adu-q, Man la- yadharah al-Faqi-h, page 353
+[^54]: Shaykh S?adu-q, Man la- yadharah al-Faqi-h, page 353
 
-[^55] Ima-m ?Ali- bin Abi- T?a-lib, Nahj al-Bala-ghah, sermon 207
+[^55]: Ima-m ?Ali- bin Abi- T?a-lib, Nahj al-Bala-ghah, sermon 207
 
-[^56] Refer to 24:37
+[^56]: Refer to 24:37
 
-[^57] Ima-m ?Ali- bin Abi- T?a-lib, Nahj al-Bala-ghah, sermon 80
+[^57]: Ima-m ?Ali- bin Abi- T?a-lib, Nahj al-Bala-ghah, sermon 80
 
-[^58] 32:12
-
+[^58]: 32:12
 

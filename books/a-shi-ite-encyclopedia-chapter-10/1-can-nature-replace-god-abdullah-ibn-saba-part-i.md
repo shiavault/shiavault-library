@@ -116,4 +116,3 @@ For instance, see the index of Vol. 15, English version, under the name
 of Sayf Ibn Umar or Abdullah Ibn Saba). Therefore, Sayf's character and
 his history should be studied and analyzed with a great care.
 
-

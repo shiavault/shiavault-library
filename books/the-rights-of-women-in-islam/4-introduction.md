@@ -226,4 +226,3 @@ the book Hayy ibn Yaqzan by Ibn Tufayl.
 
 [^2]: Zanjani, Ibrahim Mahdavi – Payman-e Muqaddas ya mithaq-e izdivaj.
 
-

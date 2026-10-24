@@ -73,4 +73,3 @@ contemporary academy.  The Thomist is committed in principle to such an
 encounter, open to disagreement as well as agreement, as good reasoning
 in the pursuit of truth demands. [57]
 
-

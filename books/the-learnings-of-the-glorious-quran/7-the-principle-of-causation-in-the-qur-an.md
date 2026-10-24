@@ -687,4 +687,3 @@ causes. Therefore, causation principle, as a necessary and general one,
 can meet miracles and extraordinary events, without creating any
 problem.
 
-

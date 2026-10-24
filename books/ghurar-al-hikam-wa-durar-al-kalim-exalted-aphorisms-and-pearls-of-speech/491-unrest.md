@@ -11,11 +11,7 @@ Unrest
 udders for milking nor a back strong enough for riding.
 
 > 2ـ كُنْ فِي الفِتْنَةِ كَابْنِ اللَّبُونِ، لاضَرْعَ فَيُحْلَبَ
-<blockquote dir="rtl">
-  <p>
-ولاظَهْرَ فَيُرْكَبَ.
-  </p>
-</blockquote>
+> ولاظَهْرَ فَيُرْكَبَ.
 
 3. One who ignites the fire of sedition will become fuel for it.
 
@@ -29,10 +25,5 @@ udders for milking nor a back strong enough for riding.
 the believer will get destroyed while the non-Muslim shall remain safe.
 
 > 5ـ قَدْلَعَمْري يَهْلِكُ في لَهَبِ الفِتْنَةِ المُؤْمِنُ، ويَسْلَمُ
-<blockquote dir="rtl">
-  <p>
-فيها غَيْرُ المُسْلِمِ.
-  </p>
-</blockquote>
-
+> فيها غَيْرُ المُسْلِمِ.
 

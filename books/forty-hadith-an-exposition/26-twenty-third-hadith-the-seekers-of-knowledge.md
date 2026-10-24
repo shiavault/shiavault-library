@@ -1,32 +1,28 @@
 Twenty-Third Hadith: The Seekers Of Knowledge
 =============================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلَى حُجَّةِ الفِرْقَةِ وَثِقَتِهَا مُحَمَّدِ
-بْنِ يَعْقُوبَ الكُلَيْنِيِّ رَضِيَ اللهُ عَنْهُ عَنْ عَلِيِّ بْنِ
-إبْرَاهِيمَ رَفَعَهُ إلَى أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-طَلَبَةُ العِلْمِ ثَلاثَةٌ فَاعْرِفُهُْمْ بِأَعْيَانِهِمْ
-وَصِفَاتِهِمْ: صِنْفٌ يَطْلُبُهُ لِلْجَهْلِ وَالمِرَاءِ، وَصِنْفٌ
-يَطْلُبُهُ لِلاسْتِطَالَةِ وَالخَتْلِ، وَصِنْفٌ يَطْلُبُهُ لِلْفِقْهِ
-وَالعَقْلِ. فَصَاحِبُ الجَهْلِ وَالمِرَاءِ مُوذٍ مُمَارٍ مُتَعَرِّضٌ
-لِلْمَقَالِ فِي أَنْدِيَةِ الرِّجَالِ بِتَذَاكُرِ العِلْمِ وَصِفَةِ
-الحِلْمِ، قَدْ تَسَرْبَلَ بِالخُشُوعِ وَتَخَلَّى مِنَ الوَرَعِ فَدَقَّ
-اللهُ مِنْ هَذَا خَيْشُومَهُ وَقَطَعَ مِنْهُ حَيْزُومَهُ. وَصَاحِبُ
-الإسْتِطَالَةِ وَالخَتْلِ ذو خَبٍّ وَمَلَقٍ وَيَسْتَطِيلُ عَلَى
-مِثْلِهِ مِنْ أَشْبَاهِهِ وَيَتَواضَعُ لِلأَغْنِيَاءِ مِنْ دُونِهِ،
-فَهُوَ لِحَلْوَائِهِمْ هَاضِمٌ وَلِدِينِهِ حَاطِمٌ، فَأَعْمَى اللهُ
-عَلَى هَذَا خَبَرَهُ وَقَطَعَ مِنْ آثَارِ العُلَمَاءِ أَثَرَهُ.
-وَصَاحِبُ الفِقْهِ وَالعَقْلِ ذو كَآبَةٍ وَحُزْنٍ وَسَهَرٍ؛ قَدْ
-تَحَنَّكَ فِي بُرْنُسِهِ وَقَامَ اللَّيْلَ فِي حِنْدِسِهِ يَعْمَلُ
-وَيَخْشَى وَجِلاً دَاعِياً مُشْفِقاً مُقْبِلاً عَلَى شَأْنِهِ عَارِفاً
-بِأَهْلِ زَمَانِهِ مُسْتَوْحِشاً مِنْ أَوْثَقِ إخْوَانِهِ، فَشَدَّ
-اللهُ مِنْ هَذَا أَرْكَانَهُ وَأَعْطَاهُ يَوْمَ القِيَامَةِ أَمَانَهُ.
-وحدَّثَني به محمد بن محمود أبو عبدالله القزويني عن عِدَّة من أصحابنا
-منهم جعفر بن محمد الصيقل بقزوين عن أحمد بن عيسى العلوي عن عباد بن صهيب
-البصري عن أبي عبدالله عَلَيْهِ السَّلامُ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلَى حُجَّةِ الفِرْقَةِ وَثِقَتِهَا مُحَمَّدِ
+> بْنِ يَعْقُوبَ الكُلَيْنِيِّ رَضِيَ اللهُ عَنْهُ عَنْ عَلِيِّ بْنِ
+> إبْرَاهِيمَ رَفَعَهُ إلَى أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> طَلَبَةُ العِلْمِ ثَلاثَةٌ فَاعْرِفُهُْمْ بِأَعْيَانِهِمْ
+> وَصِفَاتِهِمْ: صِنْفٌ يَطْلُبُهُ لِلْجَهْلِ وَالمِرَاءِ، وَصِنْفٌ
+> يَطْلُبُهُ لِلاسْتِطَالَةِ وَالخَتْلِ، وَصِنْفٌ يَطْلُبُهُ لِلْفِقْهِ
+> وَالعَقْلِ. فَصَاحِبُ الجَهْلِ وَالمِرَاءِ مُوذٍ مُمَارٍ مُتَعَرِّضٌ
+> لِلْمَقَالِ فِي أَنْدِيَةِ الرِّجَالِ بِتَذَاكُرِ العِلْمِ وَصِفَةِ
+> الحِلْمِ، قَدْ تَسَرْبَلَ بِالخُشُوعِ وَتَخَلَّى مِنَ الوَرَعِ فَدَقَّ
+> اللهُ مِنْ هَذَا خَيْشُومَهُ وَقَطَعَ مِنْهُ حَيْزُومَهُ. وَصَاحِبُ
+> الإسْتِطَالَةِ وَالخَتْلِ ذو خَبٍّ وَمَلَقٍ وَيَسْتَطِيلُ عَلَى
+> مِثْلِهِ مِنْ أَشْبَاهِهِ وَيَتَواضَعُ لِلأَغْنِيَاءِ مِنْ دُونِهِ،
+> فَهُوَ لِحَلْوَائِهِمْ هَاضِمٌ وَلِدِينِهِ حَاطِمٌ، فَأَعْمَى اللهُ
+> عَلَى هَذَا خَبَرَهُ وَقَطَعَ مِنْ آثَارِ العُلَمَاءِ أَثَرَهُ.
+> وَصَاحِبُ الفِقْهِ وَالعَقْلِ ذو كَآبَةٍ وَحُزْنٍ وَسَهَرٍ؛ قَدْ
+> تَحَنَّكَ فِي بُرْنُسِهِ وَقَامَ اللَّيْلَ فِي حِنْدِسِهِ يَعْمَلُ
+> وَيَخْشَى وَجِلاً دَاعِياً مُشْفِقاً مُقْبِلاً عَلَى شَأْنِهِ عَارِفاً
+> بِأَهْلِ زَمَانِهِ مُسْتَوْحِشاً مِنْ أَوْثَقِ إخْوَانِهِ، فَشَدَّ
+> اللهُ مِنْ هَذَا أَرْكَانَهُ وَأَعْطَاهُ يَوْمَ القِيَامَةِ أَمَانَهُ.
+> وحدَّثَني به محمد بن محمود أبو عبدالله القزويني عن عِدَّة من أصحابنا
+> منهم جعفر بن محمد الصيقل بقزوين عن أحمد بن عيسى العلوي عن عباد بن صهيب
+> البصري عن أبي عبدالله عَلَيْهِ السَّلامُ.
 
 With my chain of transmission reaching up to the proof of the sect and
 its authority, Muhammad ibn Ya’qub al-Kulayni (R) from ‘Ali ibn Ibrahim,
@@ -71,12 +67,8 @@ is meant is: “Know them *themselves,* so that they become determined and
 specified and are not mistaken with others.” Similarly, it is said
 رَأَيْتُهُ بِعَيْنِهِ I saw him himself and:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيءٍ فيهِ حَلالٌ وحَرامٌ فهُوَ لكَ حَلالٌ حتَّى تَعرِفَ
-الحَرامَ بِعَينِهِ.
-  </p>
-</blockquote>
+> كُلُّ شَيءٍ فيهِ حَلالٌ وحَرامٌ فهُوَ لكَ حَلالٌ حتَّى تَعرِفَ
+> الحَرامَ بِعَينِهِ.
 
 Everything that contains halal and haram is halal for you so far as you
 know that which is haram itself.
@@ -104,11 +96,7 @@ probably means concealing the truth or pretending not to know it or
 absence of its acceptance. Later on, we will discuss it in further
 detail. Al-Majlisi says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-الجَهل: السَّفاهَةُ وتَركُ الحِلمِ. وقيلَ: ضِدّ العِلمِ.
-  </p>
-</blockquote>
+> الجَهل: السَّفاهَةُ وتَركُ الحِلمِ. وقيلَ: ضِدّ العِلمِ.
 
 Jahl means foolishness and imprudence. It is also said to be the
 opposite of reason.
@@ -118,11 +106,7 @@ and is derived from the same verbal root as *jadal* (dialectic) which is
 one of the Five Topics (*al-sina’at al-khams*) in logic. Al-Jawhari, in
 *al-Sihah,* says:
 
-<blockquote dir="rtl">
-  <p>
-يُقالُ: مارَيتُ الرجُلَ أُمارِيهِ مِراءً إذا جَادَلتُهُ.
-  </p>
-</blockquote>
+> يُقالُ: مارَيتُ الرجُلَ أُمارِيهِ مِراءً إذا جَادَلتُهُ.
 
 Although here *kalam* means speech in general but the intended meaning
 is apparently that which has been mentioned. There is another possible
@@ -133,11 +117,7 @@ sections.
 on *kha’* and *sukun* on *ta’,* means deception and imposture.
 Al-Jawhari says:
 
-<blockquote dir="rtl">
-  <p>
-خَتَلَهُ وخَاتَلَه أيْ خَدَعَهُ. والتَّخَاتُل التَّخَادُع.
-  </p>
-</blockquote>
+> خَتَلَهُ وخَاتَلَه أيْ خَدَعَهُ. والتَّخَاتُل التَّخَادُع.
 
 As to the word *mumar,* we will explain later on why one who indulges in
 *mira’* is defined as *mumar,* (which being a verbal tautology does not
@@ -148,12 +128,8 @@ to *khibb,* for *khibb* (like *khatl*) also means deception.
 As to the phrase مُتَعَرّضٌ لِمَقال it means expressing opinions. A
 lexicographer gives the following instance of usage:
 
-<blockquote dir="rtl">
-  <p>
-يُقالُ: عَرضتُ له الشَّيءَ؛ إذا أظْهَرتُه لهُ. وَعَرَضَ له أمرُ كذا
-ويعرِضُ: أي ظَهَرَ.
-  </p>
-</blockquote>
+> يُقالُ: عَرضتُ له الشَّيءَ؛ إذا أظْهَرتُه لهُ. وَعَرَضَ له أمرُ كذا
+> ويعرِضُ: أي ظَهَرَ.
 
 *Andiyah* is plural of *nadi,* meaning a circle or club where people
 assemble for meeting and discussion. From it is derived *dar al-nadwah,*
@@ -174,11 +150,7 @@ discuss this sort.
 *Tasarbala* pertains to the derivative formation *tafa’lul,* meaning
 putting on a *sirbal-* a garment. According to the lexicographer:
 
-<blockquote dir="rtl">
-  <p>
-يُقالُ: سَربَلتُهُ فَتَسربَلَ. أيْ ألبَستُهُ السِّربَالَ.
-  </p>
-</blockquote>
+> يُقالُ: سَربَلتُهُ فَتَسربَلَ. أيْ ألبَستُهُ السِّربَالَ.
 
 *Tasarbala bi al-khushu’* means, ‘he has put on the garment of
 humility,’ appearing to be associated with it in the way a garment
@@ -290,12 +262,8 @@ invisible spheres and that inspiration is subject to the soul’s
 connection (with these spheres), you should know that, as pointed out by
 the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ العِلمُ بكَثرَةِ التَّعليمِ، بلْ هو نورٌ يقذِفُهُ بِقَلبِ منْ
-يَشَاءُ.
-  </p>
-</blockquote>
+> لَيسَ العِلمُ بكَثرَةِ التَّعليمِ، بلْ هو نورٌ يقذِفُهُ بِقَلبِ منْ
+> يَشَاءُ.
 
 Knowledge is not extensive learning. Rather, it is a light that God
 casts in the heart of whomever He wills.[^2]
@@ -317,11 +285,7 @@ and warnings to the students, for the link with the higher sources is
 strengthened through the purification of the soul. And that which the
 holy Lord, Exalted and Glorious, says in the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاتَّقُوا اللَّهَ وَيُعَلِّمُكُمْ اللَّهُ.﴾
-  </p>
-</blockquote>
+> ﴿وَاتَّقُوا اللَّهَ وَيُعَلِّمُكُمْ اللَّهُ.﴾
 
 ***And fear God, and God shall teach you.*** (***2:282***)
 
@@ -362,11 +326,7 @@ that all those branches of formal learning were all in all thick
 spiritual curtains each of them separated from the other by vast
 distances and we were ignorant of this fact.
 
-<blockquote dir="rtl">
-  <p>
-النَّاسُ نَيامٌ، فإذا مَاتُوا انْتَبَهُوا.
-  </p>
-</blockquote>
+> النَّاسُ نَيامٌ، فإذا مَاتُوا انْتَبَهُوا.
 
 The people are asleep and they wake up on death.[^3]
 
@@ -413,14 +373,10 @@ the victims of ignorance and misguidance. Thus in another tradition, we
 find that he considers the seekers of knowledge as constituting two
 groups:
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-مَنْ أَرَادَ الحَدِيثَ لِمَنْفَعَةِ الدُّنْيَا لَمْ يَكُنْ لَهُ فِي
-الآخِرَةِ نَصِيبٌ، وَمَنْ أَرَادَ بِهِ خَيْرَ الآخِرَةِ أَعْطَاهُ
-اللهُ خَيْرَ الدُّنْيَا وَالآخِرَةِ.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> مَنْ أَرَادَ الحَدِيثَ لِمَنْفَعَةِ الدُّنْيَا لَمْ يَكُنْ لَهُ فِي
+> الآخِرَةِ نَصِيبٌ، وَمَنْ أَرَادَ بِهِ خَيْرَ الآخِرَةِ أَعْطَاهُ
+> اللهُ خَيْرَ الدُّنْيَا وَالآخِرَةِ.
 
 In al-Kafi, al-Kulayni reports with his isnad from Abu ‘Abd Allah (A)
 that he said, “He who seeks (to learn) hadith for worldly benefit has no
@@ -437,13 +393,9 @@ here that we mention some relevant traditions and describe a little of
 their evil effects. In the noble *al-Kafi*, al-Kulayni reports with his
 *isnad* the following tradition on the authority of Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: إِيَّاكُمْ وَالمِرَاءَ
-وَالخُصُومَةَ فَإنَّهُمَا يُمْرِضاَنِ القُلُوبَ عَلَى الإِخْوَانِ
-وَيَنْبُتُ عَلَيْهِمَا النِّفَاقُ.
-  </p>
-</blockquote>
+> قَالَ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: إِيَّاكُمْ وَالمِرَاءَ
+> وَالخُصُومَةَ فَإنَّهُمَا يُمْرِضاَنِ القُلُوبَ عَلَى الإِخْوَانِ
+> وَيَنْبُتُ عَلَيْهِمَا النِّفَاقُ.
 
 Amir al-Mu’minin (A) said, “Beware of dispute and controversy, for they
 infect with enmity the hearts of brethren. They are the roots of
@@ -451,25 +403,17 @@ hypocrisy (nifaq), out of which hypocrisy grows.”[^5]
 
 There are other traditions in *al-Kafi* narrated from Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إيَّاكُمْ
-وَالخُصُومَةَ فَإنَّهَا تُشْغِلُ القَلْبَ وَتُورِثُ النِّفَاقَ
-وَتُكْسِبُ الضَّغَائِنَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إيَّاكُمْ
+> وَالخُصُومَةَ فَإنَّهَا تُشْغِلُ القَلْبَ وَتُورِثُ النِّفَاقَ
+> وَتُكْسِبُ الضَّغَائِنَ.
 
 Abu ‘Abd Allah (A) said, “Beware of controversy, because it discomfits
 the heart, gives rise to hypocrisy, and creates ill will within the
 heart.”[^6]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ جِبْرَئِيلُ
-لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: إيَّاكَ وَمُلاحَاةَ
-الرِّجَالِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ جِبْرَئِيلُ
+> لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: إيَّاكَ وَمُلاحَاةَ
+> الرِّجَالِ.
 
 Abu ‘Abd Allah (A) said: Gabriel said to the Prophet (S): “Beware of
 getting entangled in dispute and acrimonious debate with people.”[^7]
@@ -486,11 +430,7 @@ world of nature and the faculties of lust (*shahwah*)*,* anger
 (*ghadhab*) and diabolism (*shaytanah*) accompany him and are active in
 him, as has been mentioned in a tradition:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الشَّيْطَانَ يَجْرِي مَجْرَى الدَّم ِمِنْ بَنِي آدَمَ.
-  </p>
-</blockquote>
+> إنَّ الشَّيْطَانَ يَجْرِي مَجْرَى الدَّم ِمِنْ بَنِي آدَمَ.
 
 Satan circulates in mankind like the blood in veins.[^8]
 
@@ -501,16 +441,12 @@ immoral and vicious companion, produces a strong effect on the heart.
 Therefore, there are warnings in the noble traditions against keeping
 company with such persons:
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي: عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ
-أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: لا يَنْبَغِي لِلْمَرْءِ
-المُسْلِمِ أنْ يُوَاخِيَ الفَاجِرَ فَإنَّهُ يُزَيِّنُ لَهُ فِعْلَهُ
-وَيُحِبُّ أنْ يَكُونَ مِثْلَهُ وَلا يُعِينُهُ عَلَى أَمْرِ دُنْيَاهُ
-وَلا أَمْرِ مَعَادِهِ، وَمَدْخَلُهُ إلَيْهِ وَمَخْرَجُهُ مِنْ عِنْدِهِ
-شَيْنٌ عَلَيْهِ.
-  </p>
-</blockquote>
+> الكَافِي: عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ
+> أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: لا يَنْبَغِي لِلْمَرْءِ
+> المُسْلِمِ أنْ يُوَاخِيَ الفَاجِرَ فَإنَّهُ يُزَيِّنُ لَهُ فِعْلَهُ
+> وَيُحِبُّ أنْ يَكُونَ مِثْلَهُ وَلا يُعِينُهُ عَلَى أَمْرِ دُنْيَاهُ
+> وَلا أَمْرِ مَعَادِهِ، وَمَدْخَلُهُ إلَيْهِ وَمَخْرَجُهُ مِنْ عِنْدِهِ
+> شَيْنٌ عَلَيْهِ.
 
 Al-Kafi reports on the authority of Imam al-Sadiq (A) from Amir
 al-Mu’minin (A) that he said, “It does not behoove a Muslim to be on
@@ -520,12 +456,8 @@ to one either in the matters of the world or the Hereafter and it is a
 matter of disgrace for one to have social intercourse with such a
 person.”[^9]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ: لا يَنْبَغِي لِلْمَرْءِ
-المُسْلِمِ أنْ يُوَاخِيَ الفَاجِرَ وَلا الأَحْمَقَ وَلا الكَذَّابَ.
-  </p>
-</blockquote>
+> عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ: لا يَنْبَغِي لِلْمَرْءِ
+> المُسْلِمِ أنْ يُوَاخِيَ الفَاجِرَ وَلا الأَحْمَقَ وَلا الكَذَّابَ.
 
 Imam al-Sadiq (A) said, “It is not proper for a Muslim to fraternize
 with an immoral person, a fool, or a liar.”[^10]
@@ -555,11 +487,7 @@ people and being a vicious presence, which by itself is a vice and evil
 that is sufficient as an independent cause of one’s destruction. It is
 mentioned in a noble tradition of *al-Kafi:*
 
-<blockquote dir="rtl">
-  <p>
-مَنْ آذَى لِي وَلِيّاً فَقَدْ بَارَزَنِي بِالمُحَارَبَةِ.
-  </p>
-</blockquote>
+> مَنْ آذَى لِي وَلِيّاً فَقَدْ بَارَزَنِي بِالمُحَارَبَةِ.
 
 (God Almighty says) Whoever torments a friend of Mine has challenged Me
 to battle.[^11]
@@ -594,11 +522,7 @@ which is enough to shatter one when one reflects upon it for a while. It
 is that which Imam al-Sadiq (A) mentions after describing the signs of
 this group. The Imam (A) says:
 
-<blockquote dir="rtl">
-  <p>
-فَدَقَّ اللهُ مِنْ هَذَا خَيْشُومَهُ وَقَطَعَ مِنْهُ حَيْزُومَهُ.
-  </p>
-</blockquote>
+> فَدَقَّ اللهُ مِنْ هَذَا خَيْشُومَهُ وَقَطَعَ مِنْهُ حَيْزُومَهُ.
 
 As a result, God crushes his nose and severs his waist (it may also be
 translated to mean: Hence, may God crush his nose and sever his waist.)
@@ -692,14 +616,10 @@ has been said of four disciples of Imam al-Baqir (A) by Imam al-Sadiq
 (A). The following tradition is reported in *al-Wasa’il* from *Rijal
 al-Kashshi* with an isnad reaching up to Abu ‘Ubaydah al-Hadhdha’:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ، عَلَيْهِ السَّلامُ، يَقُولُ:
-زُرَارَةُ وَمُحَمَّدُ بْنُ مُسْلِمٍ وَأَبُو بَصِيرٍ وَبُرَيْدٌ مِنَ
-الَّذِينَ قَالَ اللهُ تَعَالَى فِيهِمْ: ﴿وَالسَّابِقُونَ
-السَّابِقُونَ. أُوْلَئِكَ الْمُقَرَّبُونَ.﴾
-  </p>
-</blockquote>
+> قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ، عَلَيْهِ السَّلامُ، يَقُولُ:
+> زُرَارَةُ وَمُحَمَّدُ بْنُ مُسْلِمٍ وَأَبُو بَصِيرٍ وَبُرَيْدٌ مِنَ
+> الَّذِينَ قَالَ اللهُ تَعَالَى فِيهِمْ: ﴿وَالسَّابِقُونَ
+> السَّابِقُونَ. أُوْلَئِكَ الْمُقَرَّبُونَ.﴾
 
 Abu ‘Ubaydah says: I heard Abu ‘Abd Allah (A) say: Zurarah, Muhammad ibn
 Muslim, Abu Basir, and Burayd (ibn Mu’awiyah) are amongst those
@@ -710,13 +630,9 @@ There are many traditions relating to this topic and the excellences of
 the learned (*ahl al-’ilm*) are more than can be expressed. It suffices
 to cite the following tradition of the Noble Prophet (S) about them:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَاءَهُ المَوْتُ وَهُوَ يَطْلُبُ العِلْمَ لِيُحْيِيَ بِهِ
-الإسْلامَ كَانَ بَيْنَهُ وَبَيْنَ الأنْبِيَاءِ دَرَجَةٌ وَاحِدَةٌ فِي
-الجَنَّةِ.
-  </p>
-</blockquote>
+> مَنْ جَاءَهُ المَوْتُ وَهُوَ يَطْلُبُ العِلْمَ لِيُحْيِيَ بِهِ
+> الإسْلامَ كَانَ بَيْنَهُ وَبَيْنَ الأنْبِيَاءِ دَرَجَةٌ وَاحِدَةٌ فِي
+> الجَنَّةِ.
 
 When death comes to one who is seeking knowledge to revive thereby
 Islam, there will be only one degree between him and the prophets in
@@ -761,12 +677,8 @@ Here, too, it is essential to remember the point that we mentioned while
 expounding the earlier part of the noble tradition. That point concerns
 this utterance of the Imam (A):
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْمَى اللهُ عَلَى هَذَا خَبَرَهُ وَقَطَعَ مِنْ آثَارِ العُلَمَاءِ
-أَثَرَهُ.
-  </p>
-</blockquote>
+> فَأَعْمَى اللهُ عَلَى هَذَا خَبَرَهُ وَقَطَعَ مِنْ آثَارِ العُلَمَاءِ
+> أَثَرَهُ.
 
 As a result, God blinds his vision and wipes out his traces from the
 record of the learned.
@@ -800,11 +712,7 @@ to God and the abode of His bounties. He derives great pleasure from
 praying to God Almighty and spends his nights in wakefulness and in
 performing the duties of devotion. Hence, the Imam (A) says:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ تَحَنَّكَ فِي بُرْنُسِهِ وَقَامَ اللَّيْلَ فِي حِنْدِسِهِ.
-  </p>
-</blockquote>
+> قَدْ تَحَنَّكَ فِي بُرْنُسِهِ وَقَامَ اللَّيْلَ فِي حِنْدِسِهِ.
 
 The first sentence apparently indicates engagement in worship. Another
 sign of this divine man of knowledge is that though fully attentive to
@@ -815,11 +723,7 @@ entirely fulfill the requirements of gratitude and true worship. This
 realization fills his heart with terror and it is about such people that
 God has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ.﴾
 
 ***Even so only those of His servants fear God who have knowledge.***
 (***35:28***)
@@ -834,11 +738,7 @@ pleasures appear alluring to him. Thereupon God confirms such a person
 and strengthens the supports that sustain his being, and grants him
 amnesty on the Day of Resurrection.
 
-<blockquote dir="rtl">
-  <p>
-فَيَا لَيْتَنَا كُنَّا مَعَكُمْ فَنَفُوزَ فَوْزاً عَظِيماً.
-  </p>
-</blockquote>
+> فَيَا لَيْتَنَا كُنَّا مَعَكُمْ فَنَفُوزَ فَوْزاً عَظِيماً.
 
 Oh, would that we had been with them, then should we have achieved a
 great success!
@@ -881,5 +781,4 @@ hadith 8.
 [^13]: Wasa’il al-Shi’ah, xviii, 105.
 
 [^14]: Sunan al-Darimi, i, 100.
-
 

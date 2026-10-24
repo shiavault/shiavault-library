@@ -192,4 +192,3 @@ Fatima was as close to the Prophet as his own body.
 [^12]: D. B. Macdonald, s.v. Allah in EI, i. 302; see Qur'an 53, 19 -20
 and 49 where Shi'ra is mentioned.
 
-

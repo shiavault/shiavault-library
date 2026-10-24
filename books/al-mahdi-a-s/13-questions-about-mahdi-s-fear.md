@@ -384,4 +384,3 @@ and support. In this regard, he has followed the path of his fathers and
 (if you have doubt) you may refer to the comprehensive books written on
 this subject.
 
-

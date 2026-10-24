@@ -339,4 +339,3 @@ It must be mentioned that these differences accord with a view which is
 accepted in ethics, and there are also other views, for information
 about which one must refer to books on ethics and the philosophy of law.
 
-

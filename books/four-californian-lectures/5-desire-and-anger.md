@@ -388,4 +388,3 @@ in Canada.
 [^2]: See, for example, G. Margoliouth's introduction to J. M. Rodwell's
 translation of The Koran (London: Everyman's Library, 1974) p. viii.
 
-

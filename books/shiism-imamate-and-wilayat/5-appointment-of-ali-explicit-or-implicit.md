@@ -517,4 +517,3 @@ Mu'assatu 'l-Muwahidi, 1976) pp. 166-186. [Also see section on Reminders
 by Imam 'Ali [a] in Ghadir Khumm: Appointment of Imam 'Ali in the
 Qur'an, Hadith, History]
 
-

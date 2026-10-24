@@ -76,4 +76,3 @@ bodies from ulcers through constant turning: "While We turned them now
 to the right, now to the left" (18:18)w So that they would not be
 affected with pressure sores.
 
-

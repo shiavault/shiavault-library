@@ -38,14 +38,10 @@ interpretation.
 In this respect, ‘Amr ibn Abi’l-Miqdam has reported on the authority of
 Jabir that he heard Imam al-Baqir (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا إدَّعَى أَحَدٌ مِنَ النَّاسِ أَنَّهُ جَمَعَ الْقُرْآنَ كُلَّهُ
-كَمَا أُنْزِلَ إلاَّ كَذَّابٌ؛ وَمَا جَمَعَهُ وَحَفِظَهُ كَمَا
-نَزَّلَهُ اللهُ تَعَالَى إلاَّ عَلِيُّ بْنُ أَبِي طَالِبٍ
-وَالأَئِمَّةُ مِنْ بَعْدِهِ.
-  </p>
-</blockquote>
+> مَا إدَّعَى أَحَدٌ مِنَ النَّاسِ أَنَّهُ جَمَعَ الْقُرْآنَ كُلَّهُ
+> كَمَا أُنْزِلَ إلاَّ كَذَّابٌ؛ وَمَا جَمَعَهُ وَحَفِظَهُ كَمَا
+> نَزَّلَهُ اللهُ تَعَالَى إلاَّ عَلِيُّ بْنُ أَبِي طَالِبٍ
+> وَالأَئِمَّةُ مِنْ بَعْدِهِ.
 
 *None may claim that he compiled the entire Qur’an as exactly as it was
 revealed but a liar. None compiled and preserved it as exactly as it was
@@ -60,16 +56,12 @@ transferred to the Holy Imams (‘a) thereafter.
 
 Abu-Basir has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا مُحَمَّدٍ! وَإنَّ عِنْدَنَا الْجَامِعَةَ. وَمَا يُدْرِيهِمْ
-مَا الْجَامِعَةُ؟ صَحِيفَةٌ طُولُهَا سَبْعُونَ ذِرَاعاً بِذِرَاعِ
-رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، وَإمْلاَئِهِ مَنْ فَلْقِ
-فِيهِ وَخَطِّ عَلِيٍّ بِيَمِينِهِ. فِيهَا كُلُّ حَلاَلٍ وَحَرَامٍ
-وَكُلُّ شَيْءٍ يَحْتَاجُ النَّاسُ إلَيْهِ حَتَّى الأَرْشَ مِنَ
-الْخَدْشِ.
-  </p>
-</blockquote>
+> يَا أَبَا مُحَمَّدٍ! وَإنَّ عِنْدَنَا الْجَامِعَةَ. وَمَا يُدْرِيهِمْ
+> مَا الْجَامِعَةُ؟ صَحِيفَةٌ طُولُهَا سَبْعُونَ ذِرَاعاً بِذِرَاعِ
+> رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، وَإمْلاَئِهِ مَنْ فَلْقِ
+> فِيهِ وَخَطِّ عَلِيٍّ بِيَمِينِهِ. فِيهَا كُلُّ حَلاَلٍ وَحَرَامٍ
+> وَكُلُّ شَيْءٍ يَحْتَاجُ النَّاسُ إلَيْهِ حَتَّى الأَرْشَ مِنَ
+> الْخَدْشِ.
 
 *O Abu-Muhammad, we do have the Jami’ah with us. What do they know about
 the Jami’ah? It is a seventy-cubit long document that was measured and
@@ -81,13 +73,9 @@ scratch.*[^2]
 Abu-Basir has also reported that he heard Imam al-Sadiq (‘a), talking
 about the verdicts of Ibn Shabramah, saying:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ هُوَ مِنَ الْجَامِعَةِ؟ أَمْلَى رَسُولُ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، وَخَطَّهُ عَلِيٌّ بِيَدِهِ. فِيهَا جَمِيعُ
-الْحَلاَلِ وَالْحَرَامِ حَتَّى أَرْشُ الْخَدْشِ فِيهِ.
-  </p>
-</blockquote>
+> أَيْنَ هُوَ مِنَ الْجَامِعَةِ؟ أَمْلَى رَسُولُ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، وَخَطَّهُ عَلِيٌّ بِيَدِهِ. فِيهَا جَمِيعُ
+> الْحَلاَلِ وَالْحَرَامِ حَتَّى أَرْشُ الْخَدْشِ فِيهِ.
 
 *How can he be compared with the Jami’ah? It is the dictations of
 Allah’s Messenger (S) and the handwriting of ‘Ali (‘a). It comprises all
@@ -254,15 +242,11 @@ it:
 Imam al-Ridha (‘a) has reported Imam ‘Ali Amir al-Mu'minin (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، يَقُولُ: طَلَبُ
-الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ... بِهِ يُطَاعُ الرَّبُّ،
-وَبِهِ تُوصَلُ الأَرْحَامُ، وَبِهِ يُعْرَفُ الْحَلاَلُ وَالْحَرَامُ.
-اَلعْلِمُ إمَامُ الْعَمَلِ، وَالْعَمَلُ تَابِعُهُ: يُلْهَمُهُ
-السُّعَدَاءُ وَيُحْرَمُهُ الأَشْقِيَاءُ.
-  </p>
-</blockquote>
+> سَمِعْتُ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، يَقُولُ: طَلَبُ
+> الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ... بِهِ يُطَاعُ الرَّبُّ،
+> وَبِهِ تُوصَلُ الأَرْحَامُ، وَبِهِ يُعْرَفُ الْحَلاَلُ وَالْحَرَامُ.
+> اَلعْلِمُ إمَامُ الْعَمَلِ، وَالْعَمَلُ تَابِعُهُ: يُلْهَمُهُ
+> السُّعَدَاءُ وَيُحْرَمُهُ الأَشْقِيَاءُ.
 
 *I heard the Messenger of Allah (S)* *saying, “Seeking knowledge is
 obligatory upon every Muslim… Through it, the Lord is obeyed (properly),
@@ -272,12 +256,8 @@ inspired in the blessed but withheld from the wretched.”*[^8]
 
 Imam al-Sadiq (‘a) is reported to have said,
 
-<blockquote dir="rtl">
-  <p>
-لَوْ عَلِمَ النَّاسُ مَا فِي الْعِلْمِ لَطَلَبُوهُ وَلَوْ بِسَفْكِ
-الْمُهَجِ وَخَوْضِ اللُّجَجِ.
-  </p>
-</blockquote>
+> لَوْ عَلِمَ النَّاسُ مَا فِي الْعِلْمِ لَطَلَبُوهُ وَلَوْ بِسَفْكِ
+> الْمُهَجِ وَخَوْضِ اللُّجَجِ.
 
 *Had people realized the benefits of knowledge, they would have
 certainly sought it even by exposing themselves to death and the toil of
@@ -285,17 +265,13 @@ tumults.*[^9]
 
 Zayd al-Zarrad has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَبُو جَعْفَرٍ الْبَاقِرُ عَلَيْهِ السَّلاَمُ: يَا بُنَيَّ؛
-إعْرِفْ مَنَازِلَ الشِّيعَةِ عَلَى قَدْرِ رِوَايَتِهِمْ
-وَمَعْرِفَتِهِمْ، فَإنَّ الْمَعْرِفَةَ هِيَ الدِّرَايَةُ
-لِلرِّوَايَةِ، وَبِالدِّرَايَاتِ لِلرِّوَايَاتِ يَعْلُو الْمُؤْمِنُ
-إلَى أَقْصَى دَرَجَاتِ الإيـمَانِ. إنِّي نَظَرْتُ فِي كِتَابٍ
-لِعَلِيٍّ عَلَيْهِ السَّلاَمُ فَوَجَدْتُ فِي الْكِتَابِ: إنَّ قِيمَةَ
-كُلِّ إمْرِئٍ وَقَدْرَهُ مَعْرِفَتُهُ.
-  </p>
-</blockquote>
+> قَالَ أَبُو جَعْفَرٍ الْبَاقِرُ عَلَيْهِ السَّلاَمُ: يَا بُنَيَّ؛
+> إعْرِفْ مَنَازِلَ الشِّيعَةِ عَلَى قَدْرِ رِوَايَتِهِمْ
+> وَمَعْرِفَتِهِمْ، فَإنَّ الْمَعْرِفَةَ هِيَ الدِّرَايَةُ
+> لِلرِّوَايَةِ، وَبِالدِّرَايَاتِ لِلرِّوَايَاتِ يَعْلُو الْمُؤْمِنُ
+> إلَى أَقْصَى دَرَجَاتِ الإيـمَانِ. إنِّي نَظَرْتُ فِي كِتَابٍ
+> لِعَلِيٍّ عَلَيْهِ السَّلاَمُ فَوَجَدْتُ فِي الْكِتَابِ: إنَّ قِيمَةَ
+> كُلِّ إمْرِئٍ وَقَدْرَهُ مَعْرِفَتُهُ.
 
 *Imam (Abu-Ja’far) al-Baqir ('a) said, “O Son, you can recognize the
 ranks of the Shi’ah according to their reports and knowledge. Verily,
@@ -307,14 +283,10 @@ knowledge.”*[^10]
 
 Imam al-Sadiq (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِعْرِفُوا مَنَازِلَ شِيعَتِنَا بِقَدْرِ مَا يُحْسِنُونَ مِنْ
-رِوَايَاتِهِمْ عَنَّا، فَإنَّا لاَ نَعُدُّ الْفَقِيهَ مِنْهُمْ
-فَقِيهاً حَتَّى يَكُونَ مُحَدَّثاً... اَلْمُؤْمِنُ يَكُونُ مُفَهَّماً،
-وَالْمُفَهَّمُ مُحَدَّثٌ.
-  </p>
-</blockquote>
+> إِعْرِفُوا مَنَازِلَ شِيعَتِنَا بِقَدْرِ مَا يُحْسِنُونَ مِنْ
+> رِوَايَاتِهِمْ عَنَّا، فَإنَّا لاَ نَعُدُّ الْفَقِيهَ مِنْهُمْ
+> فَقِيهاً حَتَّى يَكُونَ مُحَدَّثاً... اَلْمُؤْمِنُ يَكُونُ مُفَهَّماً،
+> وَالْمُفَهَّمُ مُحَدَّثٌ.
 
 *You can recognize the standings of our Shi’ah (i.e. adherents) through
 recognizing the amount of their reporting of our traditions in a
@@ -352,29 +324,21 @@ Prophet (S) and trustees of Divine revelation.
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ عَلَى غَيْرِ عِلْمٍ كَانَ مَا يُفْسِدُ أَكْثَرَ مِمَّا
-يُصْلِحُ.
-  </p>
-</blockquote>
+> مَنْ عَمِلَ عَلَى غَيْرِ عِلْمٍ كَانَ مَا يُفْسِدُ أَكْثَرَ مِمَّا
+> يُصْلِحُ.
 
 *He who acts without knowledge will bring about more corruption than
 correction.*[^12]
 
 Imam ‘Ali Amir al-Mu’minin (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ النَّاسَ آلُوا بَعْدَ رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ، إلَى ثَلاَثَةٍ: آلُوا إلَى عَالِمِ هُدىً مِنَ اللهِ قَدْ
-أَغْنَاهُ اللهُ بِمَا عَلِمَ عَنْ غَيْرِهِ، وَجَاهِلٍ مُدَّعٍ
-لِلْعِلْمِ لاَ عِلْمَ لَهُ، مُعْجَبٍ بِمَا عِنْدَهُ، قَدْ فَتَنَتْهُ
-الدُّنْيَا وَفَتَنَ غَيْرَهُ، وَمُتَعَلِّمٍ مِنْ عَالِمٍ عَلَى سَبِيلِ
-هُدىً مِنَ اللهِ وَنَجَاةٍ. ثُمَّ هَلَكَ مَنِ إدَّعَى وَخَابَ مَنِ
-إفْتَرَى.
-  </p>
-</blockquote>
+> إنَّ النَّاسَ آلُوا بَعْدَ رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ، إلَى ثَلاَثَةٍ: آلُوا إلَى عَالِمِ هُدىً مِنَ اللهِ قَدْ
+> أَغْنَاهُ اللهُ بِمَا عَلِمَ عَنْ غَيْرِهِ، وَجَاهِلٍ مُدَّعٍ
+> لِلْعِلْمِ لاَ عِلْمَ لَهُ، مُعْجَبٍ بِمَا عِنْدَهُ، قَدْ فَتَنَتْهُ
+> الدُّنْيَا وَفَتَنَ غَيْرَهُ، وَمُتَعَلِّمٍ مِنْ عَالِمٍ عَلَى سَبِيلِ
+> هُدىً مِنَ اللهِ وَنَجَاةٍ. ثُمَّ هَلَكَ مَنِ إدَّعَى وَخَابَ مَنِ
+> إفْتَرَى.
 
 *After the departure of Allah’s Messenger (S), the people separated into
 three groups. One group represented the scholars that were truly guided
@@ -390,13 +354,9 @@ forges lies.*[^13]
 
 Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَفْتَى النَّاسَ بِغَيْرِ عِلْمٍ وَلاَ هُدىً مِنَ اللهِ
-لَعَنَتْهُ مَلاَئِكَةُ الرَّحْمَةِ وَمَلاَئِكَةُ الْعَذَابِ،
-وَلَحِقَهُ وِزْرُ مَنْ عَمِلَ بِفِتْيَاهُ.
-  </p>
-</blockquote>
+> مَنْ أَفْتَى النَّاسَ بِغَيْرِ عِلْمٍ وَلاَ هُدىً مِنَ اللهِ
+> لَعَنَتْهُ مَلاَئِكَةُ الرَّحْمَةِ وَمَلاَئِكَةُ الْعَذَابِ،
+> وَلَحِقَهُ وِزْرُ مَنْ عَمِلَ بِفِتْيَاهُ.
 
 *He who gives a verdict without knowledge and true guidance will be
 cursed by the angels of mercy and the angels of chastisement and will be
@@ -406,12 +366,8 @@ Answering the question of his companion who asked him to mention the
 creatures’ duty towards Almighty Allah, Imam al-Sadiq (‘a) is reported
 to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَنْ يَقُولُوا مَا يَعْلَمُونَ، وَيَكُفُّوا عَمَّا لاَ يَعْلَمُونَ،
-فَإذَا فَعَلُوا أَدُّوا إلَى اللهِ حَقَّهُ.
-  </p>
-</blockquote>
+> أَنْ يَقُولُوا مَا يَعْلَمُونَ، وَيَكُفُّوا عَمَّا لاَ يَعْلَمُونَ،
+> فَإذَا فَعَلُوا أَدُّوا إلَى اللهِ حَقَّهُ.
 
 *They are required to say only that which they know and refrain from
 that which they do not know. If they do so, then they will have carried
@@ -468,25 +424,17 @@ report your traditions. Which one is better?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-الرَّاوِيَةُ لِحَدِيثِنَا يَشُدُّ بِهِ قُلُوبَ شِيعَتِنَا أَفْضَلُ
-مِنْ أَلْفِ عَابِدٍ.
-  </p>
-</blockquote>
+> الرَّاوِيَةُ لِحَدِيثِنَا يَشُدُّ بِهِ قُلُوبَ شِيعَتِنَا أَفْضَلُ
+> مِنْ أَلْفِ عَابِدٍ.
 
 *A reporter of our traditions who strengthens the hearts of our Shi’ah
 (partisans) is better than a thousand worshippers.*[^20]
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-تَذَاكَرُوا وَتَلاَقَوْا وَتَحَدَّثُوا؛ فَإنَّ الْحَدِيثَ جَلاَءٌ
-لِلْقُلُوبِ. إنَّ الْقُلُوبَ لَتَرِينُ كَمَا يَرِينُ السَّيْفُ،
-جَلاَؤهُ الْحَدِيدُ.
-  </p>
-</blockquote>
+> تَذَاكَرُوا وَتَلاَقَوْا وَتَحَدَّثُوا؛ فَإنَّ الْحَدِيثَ جَلاَءٌ
+> لِلْقُلُوبِ. إنَّ الْقُلُوبَ لَتَرِينُ كَمَا يَرِينُ السَّيْفُ،
+> جَلاَؤهُ الْحَدِيدُ.
 
 *Hold sessions of discussions, meet each other, and exchange discourses.
 Verily, discourses polish hearts. Just as swords rust and are then
@@ -494,13 +442,9 @@ polished by iron, so also do hearts rust.*[^21]
 
 Imam Ja’far al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَرَادَ الْحَدِيثَ لِمَنْفَعَةِ الدُّنْيَا لَمْ يَكُنْ لَهُ فِي
-الآخِرَةِ نَصِيبٌ؛ وَمَنْ أَرَادَ بِهِ خَيْرَ الآخِرَةِ أَعْطَاهُ
-اللهُ خَيْرَ الدُّنْيَا وَالآخِرَةِ.
-  </p>
-</blockquote>
+> مَنْ أَرَادَ الْحَدِيثَ لِمَنْفَعَةِ الدُّنْيَا لَمْ يَكُنْ لَهُ فِي
+> الآخِرَةِ نَصِيبٌ؛ وَمَنْ أَرَادَ بِهِ خَيْرَ الآخِرَةِ أَعْطَاهُ
+> اللهُ خَيْرَ الدُّنْيَا وَالآخِرَةِ.
 
 *
 *
@@ -514,12 +458,8 @@ the Next World.
 [^22]
 Imam al-Sadiq (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ مِنْ أَحَادِيثِنَا أَرْبَعِينَ حَدِيثاً بَعَثَهُ اللهُ
-يَوْمَ الْقِيَامَةِ عَالِماً فَقِيهاً.
-  </p>
-</blockquote>
+> مَنْ حَفِظَ مِنْ أَحَادِيثِنَا أَرْبَعِينَ حَدِيثاً بَعَثَهُ اللهُ
+> يَوْمَ الْقِيَامَةِ عَالِماً فَقِيهاً.
 
 *He who retains forty of our traditions, Almighty Allah, on the Day of
 Resurrection, will include him with the well-versed scholars.*[^23]
@@ -532,11 +472,7 @@ others?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إنْ كُنْتَ تُرِيدُ مَعَانِيَهُ فَلاَ بَأْسَ.
-  </p>
-</blockquote>
+> إنْ كُنْتَ تُرِيدُ مَعَانِيَهُ فَلاَ بَأْسَ.
 
 *If your intention is to explain its meaning, it is then agreed.*[^24]
 
@@ -959,11 +895,7 @@ strength of belief in Almighty Allah and thus confer sacredness upon
 them (i.e. cultures). It was one of the religious duties to seek
 knowledge, as expressed by the Hadith that states:
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ.
-  </p>
-</blockquote>
+> طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ.
 
 *Seeking of knowledge is obligatory upon every Muslim.*[^33]
 
@@ -1136,14 +1068,10 @@ time of the termination of your grief not yet come?”
 
 The Imam (‘a) raised his head, looked at him, and answered:
 
-<blockquote dir="rtl">
-  <p>
-وَيْلَكَ! وَاللهِ لَقَدْ شَكَا يَعْقُوبُ إلَى رَبِّهِ فِي أَقَلَّ مَا
-رَأَيْتُ حِينَ قَالَ: ”يَا أَسَفِي عَلَى يُوسُفَ!“ وَإنَّهُ فَقَدَ
-إبْناً وَاحِداً. وَإنِّي رَأَيْتُ أَبِي وَجَمَاعَةَ أَهْلِ بَيْتِي
-يُذَبَّحُونَ حَوْلِي.
-  </p>
-</blockquote>
+> وَيْلَكَ! وَاللهِ لَقَدْ شَكَا يَعْقُوبُ إلَى رَبِّهِ فِي أَقَلَّ مَا
+> رَأَيْتُ حِينَ قَالَ: ”يَا أَسَفِي عَلَى يُوسُفَ!“ وَإنَّهُ فَقَدَ
+> إبْناً وَاحِداً. وَإنِّي رَأَيْتُ أَبِي وَجَمَاعَةَ أَهْلِ بَيْتِي
+> يُذَبَّحُونَ حَوْلِي.
 
 *Woe to you! By Allah I swear, (Prophet) Jacob (‘a) complained to his
 Lord for less than what I have seen, saying, “O my sorrow for Joseph!”
@@ -1152,18 +1080,14 @@ and a group of my household lying slain around me!*[^35]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-بَكَى عَلِيُّ بْنُ الْحُسَيْنِ عَلَى الْحُسَيْنِ بْنِ عَلِيٍّ
-صَلَوَاتُ اللهِ عَلَيْهِمْ أَجْمَعِينَ عِشْرِينَ ـ أَوْ أَرْبَعِينَ ـ
-سَنَةً. وَمَا وُضِعَ بَيْنَ يَدَيْهِ طَعَامٌ إلاَّ بَكَى عَلَى
-الْحُسَيْنِ حَتَّى قَالَ لَهُ مَوْلىً لَهُ: ”جُعِلْتُ فِدَاكَ يَا بْنَ
-رَسُولِ اللهِ! إنِّي أَخَافُ عَلَيْكَ أَنْ تَكُونَ مِنَ
-الْهَالِكِينَ!“ قَالَ: ”إنَّمَا أَشْكُو بَثِّي وَحُزْنِي إلَى اللهِ.
-إنِّي لَمْ أَذْكُرْ مَصْرَعَ بَنِي فَاطِمَةَ إلاَّ حَنَقَتْنِيَ
-الْعَبْرَةُ.“
-  </p>
-</blockquote>
+> بَكَى عَلِيُّ بْنُ الْحُسَيْنِ عَلَى الْحُسَيْنِ بْنِ عَلِيٍّ
+> صَلَوَاتُ اللهِ عَلَيْهِمْ أَجْمَعِينَ عِشْرِينَ ـ أَوْ أَرْبَعِينَ ـ
+> سَنَةً. وَمَا وُضِعَ بَيْنَ يَدَيْهِ طَعَامٌ إلاَّ بَكَى عَلَى
+> الْحُسَيْنِ حَتَّى قَالَ لَهُ مَوْلىً لَهُ: ”جُعِلْتُ فِدَاكَ يَا بْنَ
+> رَسُولِ اللهِ! إنِّي أَخَافُ عَلَيْكَ أَنْ تَكُونَ مِنَ
+> الْهَالِكِينَ!“ قَالَ: ”إنَّمَا أَشْكُو بَثِّي وَحُزْنِي إلَى اللهِ.
+> إنِّي لَمْ أَذْكُرْ مَصْرَعَ بَنِي فَاطِمَةَ إلاَّ حَنَقَتْنِيَ
+> الْعَبْرَةُ.“
 
 *‘Ali ibn al-Husayn wept for (his father) Husayn ibn ‘Ali (peace of
 Allah be upon them all) for twenty or fourty years. Whenever he was
@@ -1204,15 +1128,11 @@ Fudhayl answered, “Yes, we do.”
 
 The Imam (‘a) commented,
 
-<blockquote dir="rtl">
-  <p>
-إنَّ تِلْكَ الْمَجَالِسَ أُحِبُّهَا، فَأَحْيُوا أَمْرَنَا يَا
-فُضَيْلُ. فَرَحِمَ اللهُ مَنْ أَحْيَا أَمْرَنَا. يَا فُضَيْلُ، مَنْ
-ذَكَرَنَا أَوْ ذُكِرْنَا عِنْدَهُ فَخَرَجَ مِنْ عَيْنِهِ مِثْلُ
-جَنَاحِ الذُّبَابِ غَفَرَ اللهُ لَهُ ذُنُوبَهُ وَلَوْ كَانَتْ أَكْثَرَ
-مِنْ زَبَدِ الْبَحْرِ.
-  </p>
-</blockquote>
+> إنَّ تِلْكَ الْمَجَالِسَ أُحِبُّهَا، فَأَحْيُوا أَمْرَنَا يَا
+> فُضَيْلُ. فَرَحِمَ اللهُ مَنْ أَحْيَا أَمْرَنَا. يَا فُضَيْلُ، مَنْ
+> ذَكَرَنَا أَوْ ذُكِرْنَا عِنْدَهُ فَخَرَجَ مِنْ عَيْنِهِ مِثْلُ
+> جَنَاحِ الذُّبَابِ غَفَرَ اللهُ لَهُ ذُنُوبَهُ وَلَوْ كَانَتْ أَكْثَرَ
+> مِنْ زَبَدِ الْبَحْرِ.
 
 *I love these assemblies. Bring to life our affairs (i.e. deeds), O
 Fudhayl. May Allah have mercy upon him who revitalizes our deeds! O
@@ -1238,13 +1158,9 @@ Husayn (‘a).”
 Imam al-Sadiq (‘a) then wept, his body heaving with sobs, and women also
 began to wail. When they stopped, the Imam (‘a) said to Abu-Harun:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَنْشَدَ فِي الْحُسَيْنِ فَأَبْكَى عَشَرَةً فَلَهُ الْجَنَّةُ…
-مَنْ أَنْشَدَ فِي الْحُسَيْنِ فَأَبْكَى وَاحِداً فَلَهُ الْجَنَّةُ.
-مَنْ ذَكَرَهُ فَبَكَى فَلَهُ الْجَنَّةُ.
-  </p>
-</blockquote>
+> مَنْ أَنْشَدَ فِي الْحُسَيْنِ فَأَبْكَى عَشَرَةً فَلَهُ الْجَنَّةُ…
+> مَنْ أَنْشَدَ فِي الْحُسَيْنِ فَأَبْكَى وَاحِداً فَلَهُ الْجَنَّةُ.
+> مَنْ ذَكَرَهُ فَبَكَى فَلَهُ الْجَنَّةُ.
 
 *If one recites an elegy about Husayn (‘a) and makes ten persons weep,
 Paradise will be his reward. If he makes nine persons weep, Paradise
@@ -1252,7 +1168,7 @@ will be the reward…If he makes even one person weep, Paradise will still
 be the reward. If one mentions Husayn (‘a)* *and weeps, Paradise will
 also be his reward.*[^39]
 
-<span id="logic-weeping">[Logic for Weeping](#logic-weeping)</span>
+[Logic for Weeping](#logic-weeping)
 If we take into consideration the following consequences of weeping, we
 can understand its significance:
 
@@ -1307,12 +1223,8 @@ humanity. Relying on this fact, the Holy Qur’an treated and criticized
 hardheartedness and praised tenderheartedness and reverence on many
 occasions, some of which are as follows:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
-أَوْ أَشَدُّ قَسْوَةً
-  </p>
-</blockquote>
+> ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
+> أَوْ أَشَدُّ قَسْوَةً
 
 ***Thenceforth were your hearts hardened: they became like a rock and
 even worse in hardness. (2:74)Thenceforth were your hearts hardened:
@@ -1320,14 +1232,10 @@ they became like a rock and even worse in hardness. (2:74)Thenceforth
 were your hearts hardened: they became like a rock and even worse in
 hardness. (2:74)***
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَنْ تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ
-اللَّهِ وَمَا نَزَلَ مِنَ الْحَقِّ وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا
-الْكِتَابَ مِنْ قَبْلُ فَطَالَ عَلَيْهِمُ الْأَمَدُ فَقَسَتْ
-قُلُوبُهُمْ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ
-  </p>
-</blockquote>
+> أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَنْ تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ
+> اللَّهِ وَمَا نَزَلَ مِنَ الْحَقِّ وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا
+> الْكِتَابَ مِنْ قَبْلُ فَطَالَ عَلَيْهِمُ الْأَمَدُ فَقَسَتْ
+> قُلُوبُهُمْ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ
 
 ***Has not the time arrived for the Believers that their hearts in all
 humility should engage in the remembrance of Allah and the Truth
@@ -1336,45 +1244,29 @@ given Revelation aforetime, but long ages passed over them and their
 hearts grew hard? For many among them are rebellious transgressors.
 (57:16)***
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا
-  </p>
-</blockquote>
+> أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا
 
 ***Do they not then earnestly seek to understand the Qur’an, or are
 there locks upon (their) hearts? (47:24)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ
-فَقَلِيلًا مَا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ
+> فَقَلِيلًا مَا يُؤْمِنُونَ
 
 ***They (i.e. the Jews) say, ‘Our hearts are the wrappings.’ Nay,
 Allah's curse is on them for their blasphemy. Little is it they believe.
 (2:88)***
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِلْقَاسِيَةِ قُلُوبُهُمْ مِنْ ذِكْرِ اللَّهِ ۚ أُولَٰئِكَ
-فِي ضَلَالٍ مُبِينٍ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِلْقَاسِيَةِ قُلُوبُهُمْ مِنْ ذِكْرِ اللَّهِ ۚ أُولَٰئِكَ
+> فِي ضَلَالٍ مُبِينٍ
 
 ***Woe to those whose hearts are hardened and cannot celebrate the
 praises of Allah! They are manifestly wandering in error. (39:22)***
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ
-تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ
-تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ اللَّهِ ۚ ذَٰلِكَ
-هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ ۚ وَمَنْ يُضْلِلِ اللَّهُ
-فَمَا لَهُ مِنْ هَادٍ
-  </p>
-</blockquote>
+> اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ
+> تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ
+> تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ اللَّهِ ۚ ذَٰلِكَ
+> هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ ۚ وَمَنْ يُضْلِلِ اللَّهُ
+> فَمَا لَهُ مِنْ هَادٍ
 
 ***Allah has revealed from time to time the most beautiful Message in
 the form of a Book, consistent with itself, yet repeating its teaching
@@ -1449,71 +1341,55 @@ Husayn ibn ‘Ali (‘a) was martyred on this day?”*
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-صُمْهُ مِنْ غَيْرِ تَبْيِيتٍ، وَأَفْطِرْهُ مِنْ غَيْرِ تَشْمِيتٍ،
-وَلاَ تَجْعَلْهُ يَوْمَ صَوْمٍ كُمْلاً، وَلْيَكُنْ إفْطَارُكَ بَعْدَ
-صَلاَةِ الْعَصْرِ بِسَاعَةٍ عَلَى شَرْبَةٍ مِنْ مَاءٍ، فَإنَّهُ فِي
-مِثْلِ ذَلِكَ الْوَقْتِ مِنْ ذَلِكَ الْيَوْمِ تَجَلَّتِ الْهَيْجَاءُ
-عَنْ آلِ رَسُولِ اللهِ وَانْكَشَفَتِ الْمَلْحَمَةُ عَنْهُمْ وَفِي
-الأَرْضِ مِنْهُمْ ثَلاَثُونَ صَرِيعاً فِي مَوَالِيهِمْ، يَعَزُّ عَلَى
-رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ مَصْرَعُهُمْ. وَلَوْ كَانَ
-فِي الدُّنْيَا يَوْمَئِذٍ حَيّاً لَكَانَ صَلَوَاتُ اللهِ عَلَيْهِ هُوَ
-الْمُعَزَّى بِهِمْ…
-  </p>
-</blockquote>
+> صُمْهُ مِنْ غَيْرِ تَبْيِيتٍ، وَأَفْطِرْهُ مِنْ غَيْرِ تَشْمِيتٍ،
+> وَلاَ تَجْعَلْهُ يَوْمَ صَوْمٍ كُمْلاً، وَلْيَكُنْ إفْطَارُكَ بَعْدَ
+> صَلاَةِ الْعَصْرِ بِسَاعَةٍ عَلَى شَرْبَةٍ مِنْ مَاءٍ، فَإنَّهُ فِي
+> مِثْلِ ذَلِكَ الْوَقْتِ مِنْ ذَلِكَ الْيَوْمِ تَجَلَّتِ الْهَيْجَاءُ
+> عَنْ آلِ رَسُولِ اللهِ وَانْكَشَفَتِ الْمَلْحَمَةُ عَنْهُمْ وَفِي
+> الأَرْضِ مِنْهُمْ ثَلاَثُونَ صَرِيعاً فِي مَوَالِيهِمْ، يَعَزُّ عَلَى
+> رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ مَصْرَعُهُمْ. وَلَوْ كَانَ
+> فِي الدُّنْيَا يَوْمَئِذٍ حَيّاً لَكَانَ صَلَوَاتُ اللهِ عَلَيْهِ هُوَ
+> الْمُعَزَّى بِهِمْ…
 
-<blockquote dir="rtl">
-  <p>
-يَا عَبْدَ اللهِ بْنَ سِنَانٍ! إنَّ أَفْضَلَ مَا تَأْتِي بِهِ فِي
-هَذَا الْيَوْمِ أَنْ تَعْمَدَ إلَى ثِيَابٍ طَاهِرَةٍ فَتَلْبَسُهَا
-وَتَتَسَلَّبُ… تُحَلِّلُ أَزْرَارَكَ وَتَكْشِفُ عَنْ ذِرَاعَيْكَ
-كَهَيْئَةِ أَصْحَابِ الْمَصَائِبِ، ثُمَّ تَخْرُجُ إلَى أَرْضٍ
-مُقْفَرَةٍ أَوْ مَكَانٍ لاَ يَرَاكَ بِهِ أَحَدٌ أَوْ تَعْمِدُ إلَى
-مَنْزِلٍ لَكَ خَالٍ، أَوْ فِي خِلْوَةٍ مُنْذُ حِينَ يَرْتَفِعُ
-النَّهَارَ فَتُصَلِّي أَرْبَعَ رَكَعَاتٍ تُحْسِنُ رُكُوعَهَا
-وَسُجُودَهَا وَخُشُوعَهَا، وَتُسَلِّمُ بَيْنَ كُلِّ رَكْعَتَيْنِ.
-تَقْرَأُ فِي الأُولَى سُورَةَ الْحَمْدِ وَ{قُلْ يَا أَيُّهَا
-الْكَافِرُونَ} وَفِي الثَّانِيَةِ الْحَمْدَ وَ{قُلْ هُوَ اللهُ أَحَدٌ}
-ثُمَّ تُصَلِّي رَكْعَتَيْنِ أُخْرَيَيْنِ تَقْرَأُ فِي الأُولَى
-الْحَمْدَ وَسُورَةَ الأَحْزَابِ وَفِي الثَّانِيَةِ الْحَمْدَ وَ{إذَا
-جَاءَكَ الْمُنَافِقُونَ} أَوْ مَا تَيَسَّرَ مِنَ الْقُرْآنِ.
-  </p>
-</blockquote>
+> يَا عَبْدَ اللهِ بْنَ سِنَانٍ! إنَّ أَفْضَلَ مَا تَأْتِي بِهِ فِي
+> هَذَا الْيَوْمِ أَنْ تَعْمَدَ إلَى ثِيَابٍ طَاهِرَةٍ فَتَلْبَسُهَا
+> وَتَتَسَلَّبُ… تُحَلِّلُ أَزْرَارَكَ وَتَكْشِفُ عَنْ ذِرَاعَيْكَ
+> كَهَيْئَةِ أَصْحَابِ الْمَصَائِبِ، ثُمَّ تَخْرُجُ إلَى أَرْضٍ
+> مُقْفَرَةٍ أَوْ مَكَانٍ لاَ يَرَاكَ بِهِ أَحَدٌ أَوْ تَعْمِدُ إلَى
+> مَنْزِلٍ لَكَ خَالٍ، أَوْ فِي خِلْوَةٍ مُنْذُ حِينَ يَرْتَفِعُ
+> النَّهَارَ فَتُصَلِّي أَرْبَعَ رَكَعَاتٍ تُحْسِنُ رُكُوعَهَا
+> وَسُجُودَهَا وَخُشُوعَهَا، وَتُسَلِّمُ بَيْنَ كُلِّ رَكْعَتَيْنِ.
+> تَقْرَأُ فِي الأُولَى سُورَةَ الْحَمْدِ وَ{قُلْ يَا أَيُّهَا
+> الْكَافِرُونَ} وَفِي الثَّانِيَةِ الْحَمْدَ وَ{قُلْ هُوَ اللهُ أَحَدٌ}
+> ثُمَّ تُصَلِّي رَكْعَتَيْنِ أُخْرَيَيْنِ تَقْرَأُ فِي الأُولَى
+> الْحَمْدَ وَسُورَةَ الأَحْزَابِ وَفِي الثَّانِيَةِ الْحَمْدَ وَ{إذَا
+> جَاءَكَ الْمُنَافِقُونَ} أَوْ مَا تَيَسَّرَ مِنَ الْقُرْآنِ.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ تُسَلِّمُ وَتُحَوِّلُ وَجْهَكَ نَحْوَ قَبْرِ الْحُسَيْنِ
-عَلَيْهِ السَّلاَمُ وَمَضْجَعِهِ. فَتُمَثِّلُ لِنَفْسِكَ مَصْرَعَهُ
-وَمَنْ كَانَ مَعَهُ مِنْ وُلْدِهِ وَأَهْلِهِ. وَتُسَلِّمُ وَتُصَلِّي
-عَلَيْهِ وَتَلْعَنُ قَاتِلِيهِ وَتَبْرَأُ مِنْ أَفْعَالِهِمْ، يَرْفَعِ
-اللهُ عَزَّ وَجَلَّ لَكَ بِذَلِكَ فِي الْجَنَّةِ مِنَ الدَّرَجَاتِ
-وَيَحِطَّ عَنْكَ مِنَ السَّيِّئَاتِ. ثُمَّ تَسْعَى مِنَ الْمَوْضِعِ
-الَّذِي أَنْتَ فِيهِ إنْ كَانَ صَحْرَاءَ أَوْ فَضَاءً أَوْ أَيَّ
-شَيْءٍ كَانَ خَطَوَاتٍ، تَقُولُ فِي ذَلِكَ: إنَّا للهِ وَإنَّا إلَيْهِ
-رَاجِعُونَ؛ رِضىً بِقَضَاءِ اللهِ وَتَسْلِيماً لأَمْرِهِ. وَلْيَكُنْ
-عَلَيْكَ فِي ذَلِكَ الْكَآبَةُ وَالْحُزْنُ. وَأَكْثِرْ مِنْ ذِكْرِ
-اللهِ سُبْحَانَهُ وَالاسْتِرْجَاعِ فِي ذَلِكَ الْيَوْمِ.
-  </p>
-</blockquote>
+> ثُمَّ تُسَلِّمُ وَتُحَوِّلُ وَجْهَكَ نَحْوَ قَبْرِ الْحُسَيْنِ
+> عَلَيْهِ السَّلاَمُ وَمَضْجَعِهِ. فَتُمَثِّلُ لِنَفْسِكَ مَصْرَعَهُ
+> وَمَنْ كَانَ مَعَهُ مِنْ وُلْدِهِ وَأَهْلِهِ. وَتُسَلِّمُ وَتُصَلِّي
+> عَلَيْهِ وَتَلْعَنُ قَاتِلِيهِ وَتَبْرَأُ مِنْ أَفْعَالِهِمْ، يَرْفَعِ
+> اللهُ عَزَّ وَجَلَّ لَكَ بِذَلِكَ فِي الْجَنَّةِ مِنَ الدَّرَجَاتِ
+> وَيَحِطَّ عَنْكَ مِنَ السَّيِّئَاتِ. ثُمَّ تَسْعَى مِنَ الْمَوْضِعِ
+> الَّذِي أَنْتَ فِيهِ إنْ كَانَ صَحْرَاءَ أَوْ فَضَاءً أَوْ أَيَّ
+> شَيْءٍ كَانَ خَطَوَاتٍ، تَقُولُ فِي ذَلِكَ: إنَّا للهِ وَإنَّا إلَيْهِ
+> رَاجِعُونَ؛ رِضىً بِقَضَاءِ اللهِ وَتَسْلِيماً لأَمْرِهِ. وَلْيَكُنْ
+> عَلَيْكَ فِي ذَلِكَ الْكَآبَةُ وَالْحُزْنُ. وَأَكْثِرْ مِنْ ذِكْرِ
+> اللهِ سُبْحَانَهُ وَالاسْتِرْجَاعِ فِي ذَلِكَ الْيَوْمِ.
 
-<blockquote dir="rtl">
-  <p>
-فَإذَا فَرَغْتَ مِنْ سَعْيِكَ وَفِعْلِكَ هَذَا، فَقِفْ فِي مَوْضِعِكَ
-الَّذِي صَلَّيْتَ فِيهِ ثُمَّ قُلْ: اَللَّهُمَّ عَذِّبِ الْفَجَرَةَ
-الَّذِينَ شَاقُّوا رَسُولَكَ وَحَارَبُوا أَوْلِيَاءَكَ وَعَبَدُوا
-غَيْرَكَ وَاسْتَحَلُّوا مَحَارِمَكَ، وَالْعَنِ القَادَةَ وَالأَتْبَاعَ
-وَمَنْ كَانَ مِنْهُمْ فَخَبَّ وَأَوْضَعَ مَعَهُمْ أَوْ رَضِيَ
-بِفِعْلِهِمْ لَعْناً كَثِيراً. اَللَّهُمَّ وَعَجِّلْ فَرَجَ آلِ
-مُحَمَّدٍ وَاجْعَلْ صَلَوَاتِكَ عَلَيْهِ وَعَلَيْهِمْ
-وَاسْتَنْقِذْهُمْ مِنْ أَيْدِي الْمُنَافِقِينَ الْمُضِلِّينَ
-وَالْكَفَرَةِ الْجَاحِدِينَ وَافْتَحْ لَهُمْ فَتْحاً يَسِيراً وَأَتِحْ
-لَهُمْ رَوْحاً وَفَرَجاً قَرِيباً وَاجْعَلْ لَهُمْ مِنْ لَدُنْكَ عَلَى
-عَدُوِّكَ وَعَدُوِّهِمْ سُلْطَاناً نَصِيراً. ثُمَّ ارْفَعْ يَدَيْكَ
-وَاقْنُتْ بِهَذا الدُّعَاءِ وَقُلْ وَأَنْتَ تُؤمِي إلَى أَعْدَاءِ آلِ
-مُحَمَّدٍ…
-  </p>
-</blockquote>
+> فَإذَا فَرَغْتَ مِنْ سَعْيِكَ وَفِعْلِكَ هَذَا، فَقِفْ فِي مَوْضِعِكَ
+> الَّذِي صَلَّيْتَ فِيهِ ثُمَّ قُلْ: اَللَّهُمَّ عَذِّبِ الْفَجَرَةَ
+> الَّذِينَ شَاقُّوا رَسُولَكَ وَحَارَبُوا أَوْلِيَاءَكَ وَعَبَدُوا
+> غَيْرَكَ وَاسْتَحَلُّوا مَحَارِمَكَ، وَالْعَنِ القَادَةَ وَالأَتْبَاعَ
+> وَمَنْ كَانَ مِنْهُمْ فَخَبَّ وَأَوْضَعَ مَعَهُمْ أَوْ رَضِيَ
+> بِفِعْلِهِمْ لَعْناً كَثِيراً. اَللَّهُمَّ وَعَجِّلْ فَرَجَ آلِ
+> مُحَمَّدٍ وَاجْعَلْ صَلَوَاتِكَ عَلَيْهِ وَعَلَيْهِمْ
+> وَاسْتَنْقِذْهُمْ مِنْ أَيْدِي الْمُنَافِقِينَ الْمُضِلِّينَ
+> وَالْكَفَرَةِ الْجَاحِدِينَ وَافْتَحْ لَهُمْ فَتْحاً يَسِيراً وَأَتِحْ
+> لَهُمْ رَوْحاً وَفَرَجاً قَرِيباً وَاجْعَلْ لَهُمْ مِنْ لَدُنْكَ عَلَى
+> عَدُوِّكَ وَعَدُوِّهِمْ سُلْطَاناً نَصِيراً. ثُمَّ ارْفَعْ يَدَيْكَ
+> وَاقْنُتْ بِهَذا الدُّعَاءِ وَقُلْ وَأَنْتَ تُؤمِي إلَى أَعْدَاءِ آلِ
+> مُحَمَّدٍ…
 
 *You may abstain from eating and drinking on that day but without a
 predetermined* *intention of ritual fasting and you may break your
@@ -1582,8 +1458,8 @@ reactions of the despotic ruling authorities to it during the various
 stages of history. However, let us now refer to a number of basic
 aspects briefly. (S)
 
-<span id="various-aspects-ziyarah">[The Various Aspects of
-Ziyarah](#various-aspects-ziyarah)</span>
+[The Various Aspects of
+Ziyarah](#various-aspects-ziyarah)
 **First Aspect**: This *ziyarah* represents the same set of principles
 represented by the rituals of Hajj according to the Islamic ruling, yet
 in a special framework and a restricted goal, which is to refine the
@@ -1595,14 +1471,10 @@ standard, namely Imam al-Husayn (‘a), and by responding to his call in
 the capacity of a caller to Almighty Allah. This response has been
 introduced in the following formula:
 
-<blockquote dir="rtl">
-  <p>
-لَبَّيْكَ دَاعِيَ اللهِ! إنْ كَانَ لَمْ يُجِبْكَ بَدَنِي عِنْدَ
-إسْتِغَاثَتِكَ وَلِسَانِي عِنْدَ إسْتِنْصَارِكَ، فَقَدْ أَجَابَكَ
-قَلْبِي وَسَمْعِي وَبَصَرِي. سُبْحَانَ رَبِّنَا إنْ كَانَ وَعْدُ
-رَبِّنَا لَمَفْعُولاً.
-  </p>
-</blockquote>
+> لَبَّيْكَ دَاعِيَ اللهِ! إنْ كَانَ لَمْ يُجِبْكَ بَدَنِي عِنْدَ
+> إسْتِغَاثَتِكَ وَلِسَانِي عِنْدَ إسْتِنْصَارِكَ، فَقَدْ أَجَابَكَ
+> قَلْبِي وَسَمْعِي وَبَصَرِي. سُبْحَانَ رَبِّنَا إنْ كَانَ وَعْدُ
+> رَبِّنَا لَمَفْعُولاً.
 
 *Here I am responding to you, O caller to Allah. If my body could not
 respond to your call when you called for aid and my tongue could not
@@ -1620,20 +1492,16 @@ clear-cut practice for their school. This line signifies the objection
 to oppression and injustice, which was declared by Imam al-Husayn (‘a)
 in his first sermon delivered to the people of al-Kufah, saying:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إِنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-قَالَ: مَنْ رَأى سُلْطَاناً جَائِراً مُسْتَحِلاًّ لِحَرَامِ اللهِ،
-نَاكِثاً لِعَهْدِهِ، مُخَالِفاً لِسُنَّةِ رَسُولِ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، يَعْمَلُ فِي عِبَادِ اللهِ بِالإثْمِ وَالْعُدْوَانِ،
-فَلَمْ يُغَيِّرْ عَلَيْهِ بِقَوْلٍ وَلاَ فِعْلٍ كَانَ حَقّاً عَلَى
-اللهِ أَنْ يُدْخِلَهُ مَدْخَلَهُ. أَلاَ وَإنَّ هَؤُلاَءِ قَدْ لَزِمُوا
-طَاعَةَ الشَّيْطَانِ، وَتَوَلَّوْا عَنْ طَاعَةِ الرَّحْمَنِ،
-وَأَظْهَرُوا الْفَسَادَ، وَعَطَّلُوا الْحُدُودَ، وَاسْتَأْثَرُوا
-بِالْفَيْءِ، وَأَحَلُّوا حَرَامَ اللهِ وَحَرَّمُوا حَلاَلَهُ، وَإنِّي
-أَحَقُّ بِهَذَا الأَمْرِ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إِنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> قَالَ: مَنْ رَأى سُلْطَاناً جَائِراً مُسْتَحِلاًّ لِحَرَامِ اللهِ،
+> نَاكِثاً لِعَهْدِهِ، مُخَالِفاً لِسُنَّةِ رَسُولِ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، يَعْمَلُ فِي عِبَادِ اللهِ بِالإثْمِ وَالْعُدْوَانِ،
+> فَلَمْ يُغَيِّرْ عَلَيْهِ بِقَوْلٍ وَلاَ فِعْلٍ كَانَ حَقّاً عَلَى
+> اللهِ أَنْ يُدْخِلَهُ مَدْخَلَهُ. أَلاَ وَإنَّ هَؤُلاَءِ قَدْ لَزِمُوا
+> طَاعَةَ الشَّيْطَانِ، وَتَوَلَّوْا عَنْ طَاعَةِ الرَّحْمَنِ،
+> وَأَظْهَرُوا الْفَسَادَ، وَعَطَّلُوا الْحُدُودَ، وَاسْتَأْثَرُوا
+> بِالْفَيْءِ، وَأَحَلُّوا حَرَامَ اللهِ وَحَرَّمُوا حَلاَلَهُ، وَإنِّي
+> أَحَقُّ بِهَذَا الأَمْرِ.
 
 *O people: Verily, Allah’s Messenger (S) has said, “He who realizes that
 an unjust ruler is violating the prohibitions of Allah, breaching his
@@ -1691,14 +1559,10 @@ Allah (i.e. jihad).
 
 Imam Muhammad al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مُرُوا شِيعَتَنَا بِزِيَارَةِ قَبْرِ الْحُسَيْنِ بْنِ عَلِيٍّ،
-عَلَيْهِمَا السَّلاَمُ، فَإنَّ إتْيَانَهُ مُفْتَرَضٌ عَلَى كُلِّ
-مُؤْمِنٍ يُقِرُّ لِلْحُسَيْنِ، عَلَيْهِ السَّلاَمُ، بِالإمَامَةِ مِنَ
-اللهِ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> مُرُوا شِيعَتَنَا بِزِيَارَةِ قَبْرِ الْحُسَيْنِ بْنِ عَلِيٍّ،
+> عَلَيْهِمَا السَّلاَمُ، فَإنَّ إتْيَانَهُ مُفْتَرَضٌ عَلَى كُلِّ
+> مُؤْمِنٍ يُقِرُّ لِلْحُسَيْنِ، عَلَيْهِ السَّلاَمُ، بِالإمَامَةِ مِنَ
+> اللهِ عَزَّ وَجَلَّ.
 
 *Command our followers to visit the tomb of Husayn ibn ‘Ali (‘a), for
 this deed is obligatory upon each and every believer who has confessed
@@ -1706,15 +1570,11 @@ to the divinely commissioned leadership of Husayn (‘a).*[^46]
 
 Imam Ja‘far al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَنَّ أَحَدَكُمْ حَجَّ دَهْرَهُ ثُمَّ لَمْ يَزُرِ الْحُسَيْنَ
-بْنَ عَلِيٍّ، عَلَيْهِمَا السَّلاَمُ، لَكَانَ تَارِكاً حَقّاً مِنْ
-حُقُوقِ اللهِ وَحُقُوقِ رَسُولِهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-لأَنَّ حَقَّ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ فَرِيضَةٌ مِنَ اللهِ
-عَزَّ وَجَلَّ وَاجِبَةٌ عَلَى كُلِّ مُسْلِمٍ.
-  </p>
-</blockquote>
+> لَوْ أَنَّ أَحَدَكُمْ حَجَّ دَهْرَهُ ثُمَّ لَمْ يَزُرِ الْحُسَيْنَ
+> بْنَ عَلِيٍّ، عَلَيْهِمَا السَّلاَمُ، لَكَانَ تَارِكاً حَقّاً مِنْ
+> حُقُوقِ اللهِ وَحُقُوقِ رَسُولِهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> لأَنَّ حَقَّ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ فَرِيضَةٌ مِنَ اللهِ
+> عَزَّ وَجَلَّ وَاجِبَةٌ عَلَى كُلِّ مُسْلِمٍ.
 
 *If you go on Hajj every year for your entire lifetime but miss visiting
 Husayn ibn ‘Ali (‘a), you will have abandoned one of the duties towards
@@ -1722,9 +1582,9 @@ Allah and towards His Messenger (S). Carrying* *out the duty towards
 Husayn (‘a) is verily obligatory upon each Muslim by a command of
 Almighty Allah.*[^47]
 
-<span id="commemorating-imam-al-husayns-martyrdom">[Commemorating Imam
+[Commemorating Imam
 al-Husayn’s
-Martyrdom](#commemorating-imam-al-husayns-martyrdom)</span>
+Martyrdom](#commemorating-imam-al-husayns-martyrdom)
 The ceremonies commemorating Imam al-Husayn’s martyrdom (*al-majalis
 al-husayniyyah*) are the assemblages that the followers of the Ahl
 al-Bayt (‘a) hold on the days of the great disaster, in Muharram and
@@ -1771,8 +1631,8 @@ for these ceremonies of commemorating Imam al-Husayn’s martyrdom are too
 extensive for one book, we will hereinafter refer to some of these
 aspects briefly:
 
-<span id="significance-and-aspects">[Significance and
-Aspects](#significance-and-aspects)</span>
+[Significance and
+Aspects](#significance-and-aspects)
 **First**: These ceremonies contribute to the preservation of the great
 event of Imam al-Husayn’s uprising, which also embodies a Divine
 proposal the purpose of which is to draw the Muslim nation’s attention
@@ -1888,22 +1748,18 @@ exchange discourses and say whatever we have in our minds freely.”*
 
 The Imam (‘a) commented:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا وَاللهِ، لَوَدِدْتُ أَنِّي مَعَكُمْ فِي بَعْضِ تِلْكَ
-الْمَوَاطِنِ. وَأَمَا وَاللهِ، إنِّي لأُحِبُّ رِيحَكُمْ
-وَأَرْوَاحَكُمْ. وَإنَّكُمْ عَلَى دِينِ اللهِ وَدِينِ مَلاَئِكَتِهِ.
-فَأَعِينُوا بِوَرَعٍ وَاجْتِهَادٍ.
-  </p>
-</blockquote>
+> أَمَا وَاللهِ، لَوَدِدْتُ أَنِّي مَعَكُمْ فِي بَعْضِ تِلْكَ
+> الْمَوَاطِنِ. وَأَمَا وَاللهِ، إنِّي لأُحِبُّ رِيحَكُمْ
+> وَأَرْوَاحَكُمْ. وَإنَّكُمْ عَلَى دِينِ اللهِ وَدِينِ مَلاَئِكَتِهِ.
+> فَأَعِينُوا بِوَرَعٍ وَاجْتِهَادٍ.
 
 *By Allah I swear, I do wish I were with you on even some of these
 occasions. By Allah I swear, I do love your fragrance and your souls.
 You are following the very religion of Allah and the religion of His
 angels. So, help (us) by means of piety and diligence.”*[^53]
 
-<span id="basic-objectives">[Basic
-Objectives](#basic-objectives)</span>
+[Basic
+Objectives](#basic-objectives)
 In view of the aforementioned display of the goals and outcomes of
 commemorating Imam al-Husayn’s uprising and martyrdom, we can ascertain
 that the nearer these ceremonies get to achieving their objectives in
@@ -2224,5 +2080,4 @@ Almighty Allah shall certainly award him Paradise and forgive his
 offenses. See al-Hurr al-’Amili, Wasa'il al-Shi’ah 10:464, H. 1.
 
 [^53]: - Al-Hurr al-Amili, Wasa'il al-Shi’ah 11:567, H. 5.
-
 

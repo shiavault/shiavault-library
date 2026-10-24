@@ -249,4 +249,3 @@ also help us take up new challenges, such as defending firm values
 against the wave of relativism and defending human identity against the
 naturalism connected to biotechnologies.
 
-

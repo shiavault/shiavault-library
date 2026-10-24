@@ -123,4 +123,3 @@ brotherhood.
 Thus Islam spread gradually, not with compulsion or at the point of a
 sword, but through noble character and kindness of Prophet Muhammad (S).
 
-

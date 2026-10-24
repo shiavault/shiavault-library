@@ -225,11 +225,7 @@ the prayer will not be accepted by God.[^28]
 
 On the exegesis {*tafsir*} of this noble verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ خُذُواْ زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ ﴾
-  </p>
-</blockquote>
+> ﴿ خُذُواْ زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ ﴾
 
 ***“Look to your adornment at every place of worship,”***[^29]
 
@@ -759,5 +755,4 @@ prayers {adhan} cannot be heard. See Imam Khomeini, Tawdhih al-Masa’il.
 
 [^52]: For familiarity with detailed issues about the prayer of a
 traveler and qadha prayer, see Imam Khomeini. Tawdhih al-Masa’il.
-
 

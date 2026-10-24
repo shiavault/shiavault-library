@@ -41,4 +41,3 @@ Revelation. These were different from the secretaries who wrote letters,
 pacts and treaties for the Prophet (S) or wrote agreements and contracts
 between parties in his presence. 1
 
-

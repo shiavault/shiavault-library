@@ -152,4 +152,3 @@ The army recuperated from the toil and fatigue of the long journey, and
 the Prophet gave it the signal to return home. He arrived in Medina
 after an absence of one month.
 
-

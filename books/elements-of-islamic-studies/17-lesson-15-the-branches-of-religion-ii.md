@@ -46,4 +46,3 @@ The Quranic command for this is as follows:
 it is for Allah, and for the Messenger and for his kinsmen, and the
 orphans, the poor and the wayfarer”. (8:41)***
 
-

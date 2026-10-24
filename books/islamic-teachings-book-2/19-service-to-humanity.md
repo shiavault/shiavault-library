@@ -38,4 +38,3 @@ non-Muslims?
 2. What instructions did Imam Ali (a) give to the governors regarding
 human rights?
 
-

@@ -65,4 +65,3 @@ examines here the subject with an insight singular­ly his own.
 
 [^1]: Al‑Ayyashi
 
-

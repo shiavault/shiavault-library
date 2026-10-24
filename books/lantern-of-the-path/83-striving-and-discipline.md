@@ -17,18 +17,12 @@ greatest pleasure of Allah.
 
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
-اللَّهَ لَمَعَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
+> اللَّهَ لَمَعَ الْمُحْسِنِينَ
 
 ***And [as for] those who strive hard for Us, We will most certainly
 guide them in our ways, and Allah is most surely with the doers of
 good.*** (29:69)
-
 
 When you see someone striving harder than you, upbraid yourself, and
 reproach yourself in order to encourage yourself to do more. Put a
@@ -48,5 +42,4 @@ from Allah as were attained by his forefathers.
 
 Rabi' ibn Khuthaym was asked why he did not sleep at night. 'Because I
 fear to spend the night in sleep,' he replied.
-
 

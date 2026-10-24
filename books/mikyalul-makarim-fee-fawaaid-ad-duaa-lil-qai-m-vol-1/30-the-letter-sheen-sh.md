@@ -50,12 +50,8 @@ but for the intelligent people this much would be sufficient.
 
 In *Kafi* under the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
-عَلَىٰ هَٰؤُلَاءِ شَهِيدًا
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
+> عَلَىٰ هَٰؤُلَاءِ شَهِيدًا
 
 ***“How will it be, then, when We bring from every people a witness and
 bring you as a witness against these?” (Qur’an, Surah Nisa 4:41)***
@@ -75,11 +71,7 @@ attribute untruth to us.”[^5]
 “I asked Abu Ja’far (as) about the words of Allah, to Whom belong Might
 and Majesty:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
-  </p>
-</blockquote>
+> وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
 
 ***“Thus we appointed you a midmost people… (Qur’an, Surah Baqarah
 2:143)***
@@ -124,5 +116,4 @@ him like a sword due to our bad character and acerbic words.
 [^7]: Kafi, Vol. 1, Pg. 191
 
 [^8]: Biharul Anwar; Vol. 51, Pg. 148
-
 

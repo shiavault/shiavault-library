@@ -209,4 +209,3 @@ been recorded in al-Manāqib; Biḥār al-anwār, vol. 37, chap. 50 / 16, pp.
 p. 267, no. 423; al-Ṭarā’if, p. 134, no. 212; Sharḥ al-akhbār, vol. 2,
 pp. 509–510, no. 900.
 
-

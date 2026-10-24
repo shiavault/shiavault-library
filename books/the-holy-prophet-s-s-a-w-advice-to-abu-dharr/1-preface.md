@@ -124,4 +124,3 @@ have to discuss about the meaning of the word "ummi".
 The meaning of the word "Ummi" Islamic exegetists have come up with
 three interpretations of the word "ummi ".
 
-

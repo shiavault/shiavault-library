@@ -23,11 +23,7 @@ Question And Answer
 ashamed to say: I do not know.
 
 > 5ـ لا يَسْتَحْيِيَنَّ أحَدٌ إذا سُئِلَ عَمّا لا يَعْلَمُ أنْ يَقُولَ:
-<blockquote dir="rtl">
-  <p>
-لا أعْلَمُ.
-  </p>
-</blockquote>
+> لا أعْلَمُ.
 
 6. Do not use harsh words [or foul language] even if you are unable to
 reply.
@@ -64,22 +60,14 @@ learns is similar to a learned person and verily the learned one who is
 oppressive is similar to an ignorant person.
 
 > 12ـ إذا سَألْتَ فَاسألْ تَفَقُّهاً، ولا تَسْألْ تَعَنُّتاً، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-الجاهِلَ المُتَعَلِّمَ شَبيهٌ بِالعالِمِ، وإنَّ العالِمَ المُتَعَسِّفَ
-شَبيهٌ بِالجاهِلِ.
-  </p>
-</blockquote>
+> الجاهِلَ المُتَعَلِّمَ شَبيهٌ بِالعالِمِ، وإنَّ العالِمَ المُتَعَسِّفَ
+> شَبيهٌ بِالجاهِلِ.
 
 13. If you are ignorant then learn, and when you are asked about that
 which you do not know then say: Allah and His Prophet know better.
 
 > 13ـ إذا كُنْتَ جاهِلاً فَتَعَلَّمْ، وإذا سُئِلْتَ عَمّا لا تَعْلَمْ
-<blockquote dir="rtl">
-  <p>
-فَقُلْ: اَللّهُ ورَسُولُهُ أعْلَمُ.
-  </p>
-</blockquote>
+> فَقُلْ: اَللّهُ ورَسُولُهُ أعْلَمُ.
 
 14. Too much asking leads to restlessness.
 
@@ -100,5 +88,4 @@ which you do not know then say: Allah and His Prophet know better.
 18. One who asks in his young age, answers in his old age.
 
 > 18ـ مَنْ سَألَ في صِغَرِهِ أجابَ في كِبَرِهِ.
-
 

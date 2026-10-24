@@ -1,23 +1,15 @@
 Section 1: The Existence of Allah Proved by Nature
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
 Surah An-Nahl – Verse 1
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَتَي أَمْرُ اللَّهِ فَلاَ تَسْتَعْجِلُوهُ سُبْحَانَهُ وَتَعَالَي
-عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> أَتَي أَمْرُ اللَّهِ فَلاَ تَسْتَعْجِلُوهُ سُبْحَانَهُ وَتَعَالَي
+> عَمَّا يُشْرِكُونَ
 
 ***1. “Allah’s commandment has come, hence do not seek to hasten it.
 Glory be to Him and Exalted is He above every thing with which they
@@ -72,13 +64,9 @@ day about which one must not make haste.
 Surah An-Nahl – Verse 2
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يُنَزّ‌ِلُ الْمَلآئِكَةَ بِالرُّوحِ مِنْ أَمْرِهِ عَلَي مَن يَشَآءُ
-مِنْ عِبَادِهِ أَنْ أَنذِرُوا اَنَّهُ لآ إلَهَ إِلآَّ أَنَاْ
-فَاتَّقُونِ
-  </p>
-</blockquote>
+> يُنَزّ‌ِلُ الْمَلآئِكَةَ بِالرُّوحِ مِنْ أَمْرِهِ عَلَي مَن يَشَآءُ
+> مِنْ عِبَادِهِ أَنْ أَنذِرُوا اَنَّهُ لآ إلَهَ إِلآَّ أَنَاْ
+> فَاتَّقُونِ
 
 ***2. “He sends down the angels with the inspiration of His commandment
 upon whomever of His servants He wills as to warn (people) that there is
@@ -121,11 +109,7 @@ no God but I, so be in awe of Me.”***
 Surah An-Nahl – Verse 3
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ السَّماوَاتِ وَالاَرْضَ بِالْحَقّ‌ِ تَعَالَي عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> خَلَقَ السَّماوَاتِ وَالاَرْضَ بِالْحَقّ‌ِ تَعَالَي عَمَّا يُشْرِكُونَ
 
 ***3. “He created the skies and the earth with the truth; Exalted is He
 above everything with which they associate Him.”***
@@ -158,11 +142,7 @@ The verse says:
 Surah An-Nahl – Verse 4
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الإِنسَانَ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ
-  </p>
-</blockquote>
+> خَلَقَ الإِنسَانَ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ
 
 ***4. “He created man out of semen, yet behold! He is an open
 adversary.”***
@@ -189,12 +169,8 @@ adversary.”***
 Surah An-Nahl – Verse 5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالاَنْعَامَ خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا
-تَأْكُلُونَ
-  </p>
-</blockquote>
+> وَالاَنْعَامَ خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا
+> تَأْكُلُونَ
 
 ***5. “And He created the cattle for you, therein is warmth and (other)
 advantages, and of them you eat.”***
@@ -221,11 +197,7 @@ the love unto the Creator as well as the spirit of His servitude in man.
 Surah An-Nahl – Verse 6
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ
 
 ***6. “And there is beauty in them for you when you drive them (home in
 the evening), and when you send them forth to pasture (in the
@@ -284,12 +256,8 @@ alone and to oneself.
 Surah An-Nahl – Verse 7
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَحْمِلُ أَثْقَالَكُمْ إِلَي بَلَدٍ لَّمْ تَكُونُوا بَالِغِيهِ
-إِلاَّ بِشِقّ‌ِ الاَنفُسِ إِنَّ رَبَّكُمْ لَرَؤُوفٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَتَحْمِلُ أَثْقَالَكُمْ إِلَي بَلَدٍ لَّمْ تَكُونُوا بَالِغِيهِ
+> إِلاَّ بِشِقّ‌ِ الاَنفُسِ إِنَّ رَبَّكُمْ لَرَؤُوفٌ رَّحِيمٌ
 
 ***7. “And they carry your heavy loads unto a land that you could not
 reach except with distress of (your) self. Verily your Lord is
@@ -322,12 +290,8 @@ their use as a means of transportation.
 Surah An-Nahl – Verse 8
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً
-وَيَخْلُقُ مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً
+> وَيَخْلُقُ مَا لاَ تَعْلَمُونَ
 
 ***8. “And (He created) horses, and mules and donkeys that you may ride
 upon them, and for ornament, and He creates what you do not know.”***
@@ -365,12 +329,8 @@ The verse continues saying:
 Surah An-Nahl – Verse 9
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَي اللَّهِ قَصْدُ السَّبِيلِ وَمِنْهَا جَآئِرٌ وَلَوْ شَآءَ
-لَهَدَاكُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> وَعَلَي اللَّهِ قَصْدُ السَّبِيلِ وَمِنْهَا جَآئِرٌ وَلَوْ شَآءَ
+> لَهَدَاكُمْ أَجْمَعِينَ
 
 ***9. “And upon Allah is to show the right way, and of them (the ways)
 are the deviating ones; and if He had willed He could have guided all of
@@ -440,5 +400,4 @@ path.
 [^2]: “And thus did We reveal to you an inspired book by Our command.”
 
 [^3]: Surah Al-Layl, No. 92, verse 12
-
 

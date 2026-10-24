@@ -116,4 +116,3 @@ Varanasi (India) June-July, 1950.
 [^6]: He is one of the Founders of the Bilal Muslim Mission; even at
 this age, he spends all his time in the noble work of tabligh
 
-

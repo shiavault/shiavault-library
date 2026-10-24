@@ -10,12 +10,8 @@ not be an exaggeration to state that acquiring recognition is possible
 only and only through complete submission to the Ahlul Bayt (a.s.). Imam
 Sadiq (a.s.) declares:
 
-<blockquote dir="rtl">
-  <p>
-انكم لا تكونون صالحين حتى تعرفوا. و لا تعرفون حتى تصدَّقوا. و لا
-تُصَدِّقون حتّى تُسلِموا
-  </p>
-</blockquote>
+> انكم لا تكونون صالحين حتى تعرفوا. و لا تعرفون حتى تصدَّقوا. و لا
+> تُصَدِّقون حتّى تُسلِموا
 
 'You cannot become from the virtuous ones until you have recognition.
 You will not have recognition until you have believed and confessed. You
@@ -38,12 +34,8 @@ converge in a person, he will never know the reality of faith. The
 lowest level of recognition of Imam (a.t.f.s) is in submission to his
 exhortations and prohibitions. As traditions declare:
 
-<blockquote dir="rtl">
-  <p>
-لا يكون العبد مؤمناً حتى يعرف الله و رسوله و الائمة كلّهم و إمام زمانه
-و يرد إليه و يسلم له.
-  </p>
-</blockquote>
+> لا يكون العبد مؤمناً حتى يعرف الله و رسوله و الائمة كلّهم و إمام زمانه
+> و يرد إليه و يسلم له.
 
 'A worshipper cannot become a believer unless he recognizes Allah and
 His Prophet (s.a.w.s.) and all the Imams (a.s.) and the Imam of his age
@@ -54,11 +46,7 @@ recognition, it assumes even more significance in this era of
 occultation. That is why traditions reiterate the concept of submission
 thus:
 
-<blockquote dir="rtl">
-  <p>
-و لم يجد في نفسه حرجاً ممّا قضينا و سلَّمَ لنا أهل البيت.
-  </p>
-</blockquote>
+> و لم يجد في نفسه حرجاً ممّا قضينا و سلَّمَ لنا أهل البيت.
 
 And he does not find any straitness in his heart as to what we have
 decided and submit to us - the Ahlul Bayt.[^3]
@@ -75,14 +63,10 @@ the extent this submission is weak, faith will be weak, dragging man
 towards idolatry. This is exactly what Imam Sadiq (a.s.) explains in
 this tradition:
 
-<blockquote dir="rtl">
-  <p>
- لو أن قوما عبدوا الله وحده لاشريك له
-وأقاموا الصلاة وآتوا الزكاة وحجوا البيت وصاموا شهر رمضا ثم قالوا لشئ
-صنعه الله أوصنعه النبي (صلى الله عليه وآله وسلم) ألا صنع خلاف الذي صنع
-أو وجدوا ذلك في قلوبهم لكانوا بذلك مشركين
-  </p>
-</blockquote>
+>  لو أن قوما عبدوا الله وحده لاشريك له
+> وأقاموا الصلاة وآتوا الزكاة وحجوا البيت وصاموا شهر رمضا ثم قالوا لشئ
+> صنعه الله أوصنعه النبي (صلى الله عليه وآله وسلم) ألا صنع خلاف الذي صنع
+> أو وجدوا ذلك في قلوبهم لكانوا بذلك مشركين
 
 'Surely if a nation worships Allah associating naught with Him, and
 establishes prayers, pays zakaat, performs Hajj, fasts in the month of
@@ -93,13 +77,9 @@ to this they turn polytheists.'
 
 Then Imam (a.s.) related the following verse,
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 'But no! by your Lord! They do not believe (in reality) until they make
 you a judge of that which has become a matter of disagreement among
@@ -108,11 +88,7 @@ you have decided and submit with entire submission.'
 
 Then Abu Abdillah (Imam Sadiq) (a.s.) said,
 
-<blockquote dir="rtl">
-  <p>
-فعليكم بالتسليم
-  </p>
-</blockquote>
+> فعليكم بالتسليم
 
 'Submission is obligatory upon you.'[^4]
 
@@ -220,15 +196,11 @@ it the status of the highest form of worship and therefore it is the
 best means to draw His attention. Imam Ali (a.s.) while recommending
 supplications to Imam Hasan (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمْ، أَنَّ الَّذِي بِيَدِهِ خَزَائِنُ السَّموَاتِ وَالأَرْضِ
-قَدْ أَذِنَ لَكَ فِي الدُّعَاءِ، وَتَكفَّلَ لَكَ
-بِالإِجَابَةِ،أَمَرَكَ أَنْ تَسْأَلَهُ لِيُعْطِيَكَ، وَتَسْتَرْحِمَهُ
-لِيَرْحَمَكَ، وَلَمْ يَجْعَلْ بَيْنَكَ وَبَيْنَهُ مَنْ يَحْجُبُكَ
-عَنْهُ
-  </p>
-</blockquote>
+> وَاعْلَمْ، أَنَّ الَّذِي بِيَدِهِ خَزَائِنُ السَّموَاتِ وَالأَرْضِ
+> قَدْ أَذِنَ لَكَ فِي الدُّعَاءِ، وَتَكفَّلَ لَكَ
+> بِالإِجَابَةِ،أَمَرَكَ أَنْ تَسْأَلَهُ لِيُعْطِيَكَ، وَتَسْتَرْحِمَهُ
+> لِيَرْحَمَكَ، وَلَمْ يَجْعَلْ بَيْنَكَ وَبَيْنَهُ مَنْ يَحْجُبُكَ
+> عَنْهُ
 
 'Know that the One in Whose hand is the treasure of the sky and the
 earth has permitted you to pray to Him and has guaranteed you a reply,
@@ -244,11 +216,7 @@ and are among the actions that Allah has recommended for His servants .
 Worship higher than this, is persistent beseeching, which Allah loves in
 a worshipper. About this Imam Sadiq (a.s.) reveals:
 
-<blockquote dir="rtl">
-  <p>
-إن الله كره إلحاح الناس بعضهم على بعض في المسألة و أحب ذلك لنفسه
-  </p>
-</blockquote>
+> إن الله كره إلحاح الناس بعضهم على بعض في المسألة و أحب ذلك لنفسه
 
 'Allah does not like the people to be persistent in their beseeching
 with each other. However, He loves that for Himself.'[^7]
@@ -274,14 +242,10 @@ reappearance.
 Imam Moosa Kazim (a.s.) declares with regards to the role of
 supplication in shortening calamities,
 
-<blockquote dir="rtl">
-  <p>
- ما من بلاء ينزل على عبدٍ مؤمنٍ فيلهمه الله الدّعاء ، إلاّ كان كشف ذلك
-البلاء وشيكاً ، وما من بلاء ٍينزل على عبدٍ مؤمن ٍفيمسك عن الدعاء إلاّ
-كان ذلك البلاء طويلاً ،فإذا نزل البلاء فعليكم بالدّعاء و التضرع الى
-الله عزَّ و جل
-  </p>
-</blockquote>
+>  ما من بلاء ينزل على عبدٍ مؤمنٍ فيلهمه الله الدّعاء ، إلاّ كان كشف ذلك
+> البلاء وشيكاً ، وما من بلاء ٍينزل على عبدٍ مؤمن ٍفيمسك عن الدعاء إلاّ
+> كان ذلك البلاء طويلاً ،فإذا نزل البلاء فعليكم بالدّعاء و التضرع الى
+> الله عزَّ و جل
 
 'No calamity reaches to a servant, but Allah inspires him with
 supplication (for removal of that calamity), except that the easing of
@@ -316,12 +280,8 @@ and Hazrat Haroon (a.s.). But Bani Israel managed to reduce this period
 of tyranny and oppression after pleading and begging in front of Allah.
 Imam's (a.s.) original phrase is as follows:
 
-<blockquote dir="rtl">
-  <p>
-لما طال على بني إسرائيل العذاب ضجوا وبكوا إلى الله أربعين صباحا فأوحى
-الله إلى موسى وهارون يخلصهم من فرعون ، فحط عنهم سبعين ومائة سنة
-  </p>
-</blockquote>
+> لما طال على بني إسرائيل العذاب ضجوا وبكوا إلى الله أربعين صباحا فأوحى
+> الله إلى موسى وهارون يخلصهم من فرعون ، فحط عنهم سبعين ومائة سنة
 
 'Then when the period of chastisement on Bani Israel lengthened, they
 cried in front of Allah for 40 mornings so that Allah reveals up on
@@ -331,12 +291,8 @@ reduced.
 
 Then Imam Sadiq (a.s.) declared:
 
-<blockquote dir="rtl">
-  <p>
-هكذا أنتم لو فعلتم لفرج الله عنا فأما إذ لم تكونوا فان الامر ينتهي إلى
-منتهاه 
-  </p>
-</blockquote>
+> هكذا أنتم لو فعلتم لفرج الله عنا فأما إذ لم تكونوا فان الامر ينتهي إلى
+> منتهاه
 
 'Your salvation is similar. If you also do it (cry intensely), Allah
 will hasten your salvation (faraj). And if you don't do it (cry), the
@@ -366,5 +322,4 @@ Tradition 2
 [^8]: Usul al-Kafi, Kitabud Dua, (chapter of Ilhaamod Dua), Tradition 2
 
 [^9]: Bihar al-Anwar, Vol. 52, Pg. 131, Tradition 34
-
 

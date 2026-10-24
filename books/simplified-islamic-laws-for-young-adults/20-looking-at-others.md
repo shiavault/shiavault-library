@@ -114,4 +114,3 @@ Issue 450: Girls and women are allowed to look at the head, face, hands
 and feet of Non-Mahram men, in that amount which is normally uncovered,
 as long as it is not done with the intention of deriving pleasure.
 
-

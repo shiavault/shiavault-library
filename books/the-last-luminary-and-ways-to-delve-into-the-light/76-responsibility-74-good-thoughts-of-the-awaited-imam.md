@@ -17,13 +17,9 @@ which would hurt or annoy him.
 Imam Muhammad b. ‘Ali al-Baqir (as) has stated that the Messenger of
 Allah said:
 
-<blockquote dir="rtl">
-  <p>
-مَا نَظَرَ اللٌّهُ عَزَّ وجَلَّ إِلـى وَلِيٍّ لَهُ يُجْهِدُ نَفْسَهُ
-بِالطَّاعَةِ لِإِمَامِهِ وَ النَّصِيحَةِ إِلاَّ كَانَ مَعَنَا فِي
-الرَّفِيقِ الأَعْلى
-  </p>
-</blockquote>
+> مَا نَظَرَ اللٌّهُ عَزَّ وجَلَّ إِلـى وَلِيٍّ لَهُ يُجْهِدُ نَفْسَهُ
+> بِالطَّاعَةِ لِإِمَامِهِ وَ النَّصِيحَةِ إِلاَّ كَانَ مَعَنَا فِي
+> الرَّفِيقِ الأَعْلى
 
 “Almighty Allah never looks at a servant and finds him working hard in
 obedience and compliance with his Imam, but that He includes him with us
@@ -31,11 +27,7 @@ in the most exalted rank. “[^1]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has stated that:
 
-<blockquote dir="rtl">
-  <p>
-كُونُوا لَنَا زَيْناً وَ لاَ تَكُونُوا عَلَيْنَا شَيْناً
-  </p>
-</blockquote>
+> كُونُوا لَنَا زَيْناً وَ لاَ تَكُونُوا عَلَيْنَا شَيْناً
 
 “Be a beauty for us (the Ahlul Bayt) and do not be a source of
 embarrassment for us.”[^2]
@@ -44,5 +36,4 @@ embarrassment for us.”[^2]
 no. 3
 
 [^2]: Biharul Anwar, vol. 68, pg. 151, sec. 19, no. 6
-
 

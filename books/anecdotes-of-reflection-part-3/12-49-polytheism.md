@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشْرِکْ بِاللٌّهِ إِِنَّ الشِّرْکَ لَظُلمٌ عَظِيمٌ
-  </p>
-</blockquote>
+> لاَ تُشْرِکْ بِاللٌّهِ إِِنَّ الشِّرْکَ لَظُلمٌ عَظِيمٌ
 
 *”Do not associate aught with Allah; most surely polytheism is a
 grievous iniquity.”*[^1]
 
 Imam Baqir (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-أََلْمَعاَصِيَ الَّتِــي يَرتَکِبُونَ فَهِيَ شِرْکُ طاَعَةٍ أََطاَعُوا
-فِيهاَ الشَّيطاَنَ
-  </p>
-</blockquote>
+> أََلْمَعاَصِيَ الَّتِــي يَرتَکِبُونَ فَهِيَ شِرْکُ طاَعَةٍ أََطاَعُوا
+> فِيهاَ الشَّيطاَنَ
 
 *“The commitment of sins on the part of people is (in reality)
 polytheism with respect to obedience (of Allah) - in which they obey the
@@ -135,11 +127,7 @@ After the death of Hisham Ibn Abdul Malik - the Umayyad Caliph, Walid
 Ibn Yazid took over the reins of the Caliphate in the year 125 ah. He
 was of those, about whom the Noble Prophet (s.a.w) had prophesized:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اَشَدُّ هَذِهِ الاُمَّةِ مِن فِرعَون لِقَومِه.
-  </p>
-</blockquote>
+> هُوَ اَشَدُّ هَذِهِ الاُمَّةِ مِن فِرعَون لِقَومِه.
 
 “From this Ummah there shall ascend to the caliphate a person, who shall
 be worse than what Firawn had been with respect to his people.”
@@ -224,5 +212,4 @@ author), pg. 22
 [^10]: Tatimmah al-Muntaha, pg. 90
 
 [^11]: Tarikh-e-Anbiya, vol. 1, pg. 134
-
 

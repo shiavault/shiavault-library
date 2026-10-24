@@ -564,4 +564,3 @@ occasion of the Holy Prophet’s (S) Be’that
 [^25]: Supreme Leader’s speech delivered on April 14, 2004 in a meeting
 with ordinary citizens
 
-

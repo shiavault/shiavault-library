@@ -60,4 +60,3 @@ Shah 'Abbas Safawi. In earlier times the text and the margins of this
 Qur'an written on parchment were pasted with a thick paper of the same
 color.
 
-

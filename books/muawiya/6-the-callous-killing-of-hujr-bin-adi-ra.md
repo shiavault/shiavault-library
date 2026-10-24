@@ -182,7 +182,6 @@ Subeh al-Sadiq pages 93 & 94 We should also point out that Tareekh ibne
 Wardee Volume 1 page 55 also confirms that Mu'awiya killed Hujr on
 account of his love of Imam 'Ali (as).
 
-
 **The killer of Hujr shall receive the wrath of Allah (swt)**
 
 Abu Sulaiman's admission "Muawiya's severity in killing Hijr" is at
@@ -193,7 +192,6 @@ the Fire. That is with the regards to the murder of any ordinary momin,
 Hujr was not an ordinary momin. In Kanz al Ummal Volume 7 page 87 we
 read that Hadhrath Ayesha narrated that Rasulullah (s) said "Whoever
 kills Hujr will incur the wrath of Allah".
-
 
 **The peace treaty with Imam Hasan (as)**
 
@@ -327,5 +325,4 @@ Suyuti's 'The Khalifas who took the right way' on page 9 admits:
 It is clear that the bayya was an agreement surrounding the peace
 treaty, nothing more. Thus the pathetic arguments of 'Abu Sulaiman are
 baseless.
-
 

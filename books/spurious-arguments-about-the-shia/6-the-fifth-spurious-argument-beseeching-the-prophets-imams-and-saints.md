@@ -165,4 +165,3 @@ his book al- Mansak ul-Kabir, “The sect of Abu Hanifa’ until he saidÖ
 “he turns until he stands towards the holy face with his back to the
 Qiblah and gives his greeting
 
-

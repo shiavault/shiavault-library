@@ -54,4 +54,3 @@ jeered at him "La 'ana Llahu Abaaka Wa Unimak-Ya Qadhir" - God curse
 your father and mother-you dirt!  
   
 
-

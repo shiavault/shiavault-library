@@ -128,4 +128,3 @@ relationship and the extent of its significance as a practical
 dedication to the relation between man and God? What follows is a
 summary of the necessary explanation concerning both questions:-
 
-

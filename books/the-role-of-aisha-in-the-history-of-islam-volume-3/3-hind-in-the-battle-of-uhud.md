@@ -533,4 +533,3 @@ there, at the age of 70 or 73. (al-Isti'ab 2/174-182, Usd al-ghabah
 63. Sahih of Muslim 7/173, and account of Salman, Bilal and Suhayb in
 Siyar al-a'lam an-nubala' 2/15.
 
-

@@ -13,4 +13,3 @@ comitted because every sin has a punishment and a result and we do not
 have  
  the strength to bear God’s punishment.
 
-

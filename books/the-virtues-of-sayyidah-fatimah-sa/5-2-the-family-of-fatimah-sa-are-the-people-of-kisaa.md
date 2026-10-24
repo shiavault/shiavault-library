@@ -2,14 +2,10 @@
 =======================================================
 
 > 3. عن صفية بنت شيبة، قالت: قالت عائشة رضي الله عنها: خرج النبي صلى
-<blockquote dir="rtl">
-  <p>
-الله عليه وسلم غداة وعليه مرط مرحل من شعر أسود. فجاء الحسن بن علي
-فأدخله، ثم جاء الحسين  فدخل معه ثم جاءت فاطمة رضي الله عنها فأدخلها،
-ثم جاء علي فأدخله، ثم قال: (إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
-عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا).
-  </p>
-</blockquote>
+> الله عليه وسلم غداة وعليه مرط مرحل من شعر أسود. فجاء الحسن بن علي
+> فأدخله، ثم جاء الحسين  فدخل معه ثم جاءت فاطمة رضي الله عنها فأدخلها،
+> ثم جاء علي فأدخله، ثم قال: (إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
+> عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا).
 
 Safiyyah the daughter of Shaybah narrates that Ayeshah (ra) said, “The
 Holy Prophet (saw) came out one morning wearing a cloak which had camel
@@ -38,5 +34,4 @@ them with a cloak. Ali (as) was behind him (saw), the Holy Prophet (saw)
 also covered him under the same cloak and then said, “Oh Allah! These
 are my ahl-ul-bait (‘people of the house’) so keep impurity away from
 them and totally purify them.”
-
 

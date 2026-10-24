@@ -314,4 +314,3 @@ unimportant
 
 [^3]: A derogatory term for Shias used by their opponents
 
-

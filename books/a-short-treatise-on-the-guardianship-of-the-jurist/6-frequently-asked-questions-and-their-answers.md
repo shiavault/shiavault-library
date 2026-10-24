@@ -432,4 +432,3 @@ impossible’.*
 
 [^24]: Ilalul Shara’I 1:254 and Uyun Akhbaril Redha, 2:101
 
-

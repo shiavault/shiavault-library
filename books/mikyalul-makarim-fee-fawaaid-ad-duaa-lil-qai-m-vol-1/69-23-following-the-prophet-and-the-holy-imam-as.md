@@ -19,14 +19,10 @@ believers are invited to gather before them. The gates of the heavens
 are opened. When the sun declines, the Prophet (S) says: O my Lord,
 carry out Your promise that You mentioned in Your Book by this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
-وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا َ
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
+> وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا َ
 
 ***“Allah has promised to those of you who believe and do good that He
 will most certainly make them rulers in the earth as He made rulers
@@ -104,5 +100,4 @@ confirms and He is having the source of the book (*Ummul Kitaab*).”[^2]
 
 [^2]: Ghaibat Tusi, Pg. 263, Allah makes to pass away and establishes
 what He pleases, and with Him is the basis of the Book.
-
 

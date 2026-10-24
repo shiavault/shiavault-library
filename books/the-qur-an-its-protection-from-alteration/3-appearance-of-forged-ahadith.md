@@ -90,10 +90,10 @@ ahadith to this effect may be seen in the books of both sects, including
 Sahih al-Bukhari, vol. 1 (kitabu l- ilm: bab ithm man kadhiba 'ala
 n-Nabi ) p. 38.
 
-[^9] Nahju 'l-Balaghah (translated by S. Ali Raza), vol. 2 (Tehran:
+[^9]: Nahju 'l-Balaghah (translated by S. Ali Raza), vol. 2 (Tehran:
 WOFIS, 1987), pp. 453-545.
-[^10] Ibn Abi l-Hadid, Sharh Nahji 'l-Balaghah, vol. 11 (Cairo: Daru
+[^10]: Ibn Abi l-Hadid, Sharh Nahji 'l-Balaghah, vol. 11 (Cairo: Daru
 'l-Ihyai 'l-Kutubi 'l-Arabiyyah) pp. 446.
-[^11] Ibid, vol. 4. p. 63.
-[^12] Ibid, vol. 4. p. 73.
+[^11]: Ibid, vol. 4. p. 63.
+[^12]: Ibid, vol. 4. p. 73.
 

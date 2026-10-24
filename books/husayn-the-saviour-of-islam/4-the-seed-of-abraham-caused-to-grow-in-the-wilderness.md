@@ -260,4 +260,3 @@ Israelites criticised the Christians similarly in return, while both of
 them were on the wrong track diametrically opposed to what they had been
 preached by their respective teachers, Moses and Jesus.
 
-

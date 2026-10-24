@@ -66,7 +66,6 @@ IV xi] ©1999-2002 Garth Kemerling.Last modified 27 October
 
 the Contact Page.
 
-
 **The Limits of Knowledge**
 
 One of the most basic themes of Locke's epistemology is that since we
@@ -84,7 +83,6 @@ of the present existence of causes for our sensory ideas. [Essay IV iii
 haste, laziness, and despair in our natural search for the truth about
 the most vital issues into which human knowers can fruitfully inquire.
 [Conduct 39-43]
-
 
 **Severe Restrictions**
 
@@ -219,5 +217,4 @@ reference to our own experiences anyway, Locke proposed that we can and
 should depend more often upon things we have personally observed with
 some regularity than upon what could turn out to be nothing more than
 the prejudices or false opinions of other people. [Essay IV xv 4-6]
-
 

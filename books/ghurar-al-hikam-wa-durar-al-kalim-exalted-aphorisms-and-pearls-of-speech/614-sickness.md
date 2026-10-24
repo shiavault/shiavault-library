@@ -11,11 +11,7 @@ Sickness
 poor relative.
 
 > 2ـ شَيْئانِ لايُؤْنَفُ مِنْهُما: اَلمَرَضُ، وذُوالقَرابَةِ
-<blockquote dir="rtl">
-  <p>
-المُفْتَقِرِ.
-  </p>
-</blockquote>
+> المُفْتَقِرِ.
 
 3. One who hides his sickness from the physicians has betrayed his body.
 
@@ -29,5 +25,4 @@ of curing him.
 5. Sickness in one of the two confinements.
 
 > 5ـ اَلمَرَضُ أحَدُ الحَبْسَيْنِ.
-
 

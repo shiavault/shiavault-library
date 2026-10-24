@@ -149,4 +149,3 @@ of one man by another.
 After the Prophet of Islam it was Ali ibn Abi Talib who called men to
 good morals.
 
-

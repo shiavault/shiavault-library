@@ -26,7 +26,6 @@ well-being of the human society. In the present world which is now mere
 one global village. there is no room for the people who are stereotypes
 or the children who are reared as such.
 
-
 **Who Is A Stereotype ?**
 
 A person who holds a false and prejudiced opinion about the entire
@@ -94,7 +93,6 @@ emotions and their consequent effects on their mental and physical
 health. What is more, they as adults will understand well the weaknesses
 of other stereotypes and forgive when or if they them- selves are the
 victims of prejudice or hate.
-
 
 **Handle the Child's Fragile Trust with Care**
 
@@ -192,5 +190,4 @@ disciplined a character as any other occupation that might be considered
 a career! It seems as if parents have to go a school to graduate in
 childrens up-bringing, such important is this subject in the human
 life!
-
 

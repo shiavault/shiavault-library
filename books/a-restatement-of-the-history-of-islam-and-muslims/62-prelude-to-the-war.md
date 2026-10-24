@@ -467,4 +467,3 @@ it than by capturing the caliphate itself. But behind the screen of the
 quest for vengeance, lurked the lust for power, and the fears of men,
 and the jealousy and implacable vindictiveness of a woman.
 
-

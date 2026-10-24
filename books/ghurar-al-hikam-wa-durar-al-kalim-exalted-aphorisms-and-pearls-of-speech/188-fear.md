@@ -12,11 +12,7 @@ impediment from vices.
 Hereafter.
 
 > 2ـ الخَوْفُ مِنَ اللّهِ في الدُّنيا، يُؤْمِنُ الخَوْفَ فِي الآخِرَةِ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ.
-  </p>
-</blockquote>
+> مِنْهُ.
 
 3. Fear [Allah] and you will be feared by the people.[^1]
 
@@ -60,11 +56,7 @@ most.
 you fear [in this world] and will bestow [upon you] what you hope for.
 
 > 12ـ خَفْ رَبَّكَ، وارْجُ رَحْمَتَهُ، يُؤْمِنْكَ مِمَّا تَخافُ
-<blockquote dir="rtl">
-  <p>
-وَيُنِلْكَ ما رَجَوْتَ.
-  </p>
-</blockquote>
+> وَيُنِلْكَ ما رَجَوْتَ.
 
 13. Fear [Allah] and you will be safe, and do not [wait to] be safe so
 that you may fear [Him].
@@ -76,11 +68,7 @@ mercy, and have hope of His mercy with the hoping of one who does not
 feel safe from His fear.
 
 > 14ـ خَفْ رَبَّكَ خَوْفاً يَشْغَلُكَ عَنْ رَجائِهِ، وارْجُهُ رَجاءَ
-<blockquote dir="rtl">
-  <p>
-مَنْ لا يَأمَنُ خَوْفَهُ.
-  </p>
-</blockquote>
+> مَنْ لا يَأمَنُ خَوْفَهُ.
 
 15. The best action is striking a balance between hope [of His mercy]
 and fear [of His wrath].
@@ -92,11 +80,7 @@ contemplation, for indeed fear [of Allah] is the best place to find
 security and is a restraint for the self from vices.
 
 > 16ـ خَفِ اللّهَ خَوْفَ مَنْ شَغَلَ بِالفِكْرِ قَلْبَهُ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-الخَوْفَ مَظِنَّةُ الأمْنِ، وَسِجنُ (وَشَجْنُ) النَّفسِ عَنِ المَعاصي.
-  </p>
-</blockquote>
+> الخَوْفَ مَظِنَّةُ الأمْنِ، وَسِجنُ (وَشَجْنُ) النَّفسِ عَنِ المَعاصي.
 
 17. Fear of Allah is the consolidation of faith.
 
@@ -128,21 +112,13 @@ afraid of his sin.
 obeys Him in secret and in the open.
 
 > 23ـ طُوبى لِمَنْ ألْزَمَ نَفْسَهُ مَخافَةَ رَبِّهِ، وأطاعَهُ فِي
-<blockquote dir="rtl">
-  <p>
-السِّـرِّ والجَهرِ.
-  </p>
-</blockquote>
+> السِّـرِّ والجَهرِ.
 
 24. Blessed be the one who fills himself with fear [of Allah], belies
 [false] hopes and eschews missteps.
 
 > 24ـ طُوبى لِمَنِ اسْتَشْعَرَ الوَجَلَ، وكَذَّبَ الأمَلَ وتَجَنَّبَ
-<blockquote dir="rtl">
-  <p>
-الزَّلَلَ.
-  </p>
-</blockquote>
+> الزَّلَلَ.
 
 25. Blessed be the one who fears Allah and thus becomes safe [from
 chastisement in the Hereafter].
@@ -159,11 +135,7 @@ comes upon him, how does he feel safe from the one whom (or the thing
 which) he is afraid of?!
 
 > 27ـ عَجِبْتُ لِمَنْ يَعْجُزُ عَنْ دَفْعِ ما عَراهُ كَيفَ يَقَعُ لَهُ
-<blockquote dir="rtl">
-  <p>
-الأمْنُ مِمَّن (ممَّا)يَخشاهُ.
-  </p>
-</blockquote>
+> الأمْنُ مِمَّن (ممَّا)يَخشاهُ.
 
 28. Fear [of Allah] is sufficient as knowledge.
 
@@ -257,5 +229,4 @@ himself that which is far.
 
 [^1]: Or in another reading: Fear [Allah] and you will be cautious [not
 to disobey Him].
-
 

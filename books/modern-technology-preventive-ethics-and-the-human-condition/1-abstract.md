@@ -25,4 +25,3 @@ I call preventive ethics in order to guide technology to the right path.
 
 **Keywords: Ethics, Technology, Bhilosophy.**
 
-

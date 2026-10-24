@@ -367,4 +367,3 @@ and all the believers, men and women, those alive or dead, for You are
 the master of the actions which survive after the doer passes away,
 A’amin, O Lord of the universe.
 
-

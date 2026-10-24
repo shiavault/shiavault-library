@@ -135,4 +135,3 @@ God?
 man sufficient in itself for the average man to know God, without
 resorting to intellectual reasoning? Why?
 
-

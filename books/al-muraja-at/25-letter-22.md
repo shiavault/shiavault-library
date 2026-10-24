@@ -88,4 +88,3 @@ their respective sahihs. He has heard hadith from Asma' and ‘Ayesha
 daughters of Abu Bakr. He is quoted in both sahihs by Ibn Abu Malka,
 Muhammad ibn Ja’far ibn al-Zubayr, and Hisham ibn ‘Umar.
 
-

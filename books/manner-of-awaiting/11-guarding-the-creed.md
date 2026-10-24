@@ -20,4 +20,3 @@ backs to Allah’s religion and become apostates.”*[^1]
 
 [^1]: Tafsir al-Askari (a.s.) / 345.
 
-

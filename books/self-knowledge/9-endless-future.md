@@ -27,4 +27,3 @@ cut off “(11:106-108)***
 take them out of the light into the darkness; they are the inmates of
 the fire, in it they shall abide.” (2:257)***
 
-

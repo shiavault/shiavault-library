@@ -413,4 +413,3 @@ where going from one end to another is considered travelling.
 other things, on the savings. See the Manual of Islamic Laws or the
 present translator's, Khums: An Islamic Tax for details.
 
-

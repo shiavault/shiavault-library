@@ -101,7 +101,6 @@ Allah.
 
 [^1] Al-Nawruz is the Persian New Year’s Day.
 
-
 **The Assassination of Imam Ali**
 
 Among the factors that urged Imam al-Hasan to make peace with Mu’awiya
@@ -710,5 +709,4 @@ about his victory, deserting Imam Ali and his son Imam al-Hasan.
 
 [^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p. 187.
 [^2] Samt al-Nujoom al-‘Awali, vol. 3, p. 48.
-
 

@@ -246,4 +246,3 @@ available guidance.
 
 [^3]: Life of Muhammad by Washington Irving, chapter 21.
 
-

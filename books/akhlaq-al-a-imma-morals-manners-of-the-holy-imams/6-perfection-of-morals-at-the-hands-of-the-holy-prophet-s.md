@@ -78,4 +78,3 @@ prophethood of the Holy Prophet (S) is to continue till the Day of
 Judgment, in the same way is to continue the examples of his good moral
 qualities.
 
-

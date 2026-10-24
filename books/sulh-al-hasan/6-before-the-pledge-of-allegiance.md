@@ -195,13 +195,9 @@ these differences and disasters would have not happened if the Caliphate
 had been given to its real owners. In other words if the people had
 obeyed Allah and His Apostle as in this verse***:***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
-وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
+> وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا
 
 ***"And it behooves not a believing man and a believing woman that they
 should have any choice in their matter when Allah and His Apostle have
@@ -521,5 +517,4 @@ me."
 
 [^11]: Place on the bank of the Euphrates, between \`Ana and Dir
 al-Sha'ar.
-
 

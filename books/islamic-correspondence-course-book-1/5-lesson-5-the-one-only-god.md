@@ -118,4 +118,3 @@ ourselves with the thought of any imitation-gods. If the universe —the
 creation— cannot be more than one, how can God —the Creator— be more
 than one?
 
-

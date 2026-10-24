@@ -37,7 +37,6 @@ recognized no boundaries and limits. The verse continues saying:
 "... and verily, Pharaoh was mighty on the earth, and verily, he was of
 the extravagant. "
 
-
 **Commentary : Verse 84**
 
 (84) وَ قالَ مُوسى‏ يا قَوْمِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ
@@ -69,7 +68,6 @@ above holy verse says:
 " And Moses said: "O my people! If you have(really)believed in Allah,
 then put trust in Him(alone)if you have surrendered(unto Him). "
 
-
 **Commentary : Verse 85**
 
 (85) فَقالُوا عَلَى اللَّهِ تَوَكَّلْنا رَبَّنا لا تَجْعَلْنا فِتْنَةً
@@ -95,7 +93,6 @@ holy verse continues saying:
 "... 'Our Lord! Make us not(subject)to a trial for the unjust people'.
 "
 
-
 **Commentary : Verse 86**
 
 (86) وَ نَجِّنا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكافِرينَ
@@ -112,7 +109,6 @@ them.
 The verse says:
 
 "And deliver us by your Mercy from the disbelieving people. "
-
 
 **Commentary : Verse 87**
 
@@ -151,5 +147,4 @@ the bestowal of Allah's favour and grace upon them. The verse continues
 saying:
 
 "... and give glad tidings to the believers'. "
-
 

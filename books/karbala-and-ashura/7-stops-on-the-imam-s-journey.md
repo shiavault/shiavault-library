@@ -482,4 +482,3 @@ until they reached *Karbāla’*.
 
 [^3]: The Holy Qur’an; Sura of al-Kahf 18:51.
 
-

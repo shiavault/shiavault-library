@@ -181,7 +181,6 @@ does not mean that we can use independent reasoning in general
 ordinances of religion and reject or enact an ordinance according to the
 benefit and interest.
 
-
 **Commentary : Verse 63**
 
 63. لاَ تَجْعَلُوا دُعَآءَ الرَّسُولِ بَيْنَكُمْ كَدُعَآءِ بَعْضِكُم
@@ -284,7 +283,6 @@ argument has got some problems that are referred to in theology.
 if the word /'ala/ is used after it, it means curse, and if there is
 none of them after it, it can mean both meanings.
 
-
 **Commentary : Verse 64**
 
 64. أَلآ إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالاَرْضِ قَدْ يَعْلَمُ
@@ -333,7 +331,6 @@ manifest things is hidden from him, this belief and opinion has got a
 very extraordinarily effect on him and it guarantees man to control him
 against these sins and deviations.
 
-
 **Supplication:**
 
 Oh Allah! May illuminate the lamp (Misbah) of our heart with the light
@@ -354,7 +351,5 @@ executing Your prescribed punishments and protect our society from being
 immodest and indecent; and verily You are All-Powerful over
 everything.
 
-
 The End of Sura An-Nur
-
 

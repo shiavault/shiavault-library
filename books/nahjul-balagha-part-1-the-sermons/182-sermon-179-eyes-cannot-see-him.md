@@ -5,29 +5,13 @@ Dhi\`lib al-Yamani asked Amir al-mu'minin whether he had seen Allah,
 when he replied, "Do I worship one whom I have not seen?" Then he
 enquired, "How have you seen Him?" Then Amir al-mu'minin replied:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد سأله ذِعلبٌ اليماني فقال: هل رأيت ربّك يا أميرالمؤمنين؟
-  </p>
-</blockquote>
+> وقد سأله ذِعلبٌ اليماني فقال: هل رأيت ربّك يا أميرالمؤمنين؟
 
-<blockquote dir="rtl">
-  <p>
-فقال(عليه السلام): أَفأَعْبُدُ مَا لا أَرَى ؟
-  </p>
-</blockquote>
+> فقال(عليه السلام): أَفأَعْبُدُ مَا لا أَرَى ؟
 
-<blockquote dir="rtl">
-  <p>
-قال: قال: وكيف تراه؟
-  </p>
-</blockquote>
+> قال: قال: وكيف تراه؟
 
 Eyes cannot see Him face to face, but hearts perceive Him through the
 realities of belief. He is near to things but not (physically)
@@ -40,17 +24,13 @@ sense (of sight). He is Merciful but cannot be attributed with weakness
 of heart. Faces feel low before His greatness and hearts tremble out of
 fear of Him.
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُدْرِكُهُ الْعُيُونُ بِمُشَاهَدَةِ الْعِيَانِ، وَلكِنْ تُدْرِكُهُ
-الْقُلُوبُ بِحَقَائِقِ الاْيمَانِ، قَرِيبٌ مِنَ الاْشْيَاءِ غَيْرُ
-مُلاَمِس، بَعِيدٌ مِنْهَا غَيْرُ مُبَايِن، مُتَكَلِّمٌ بِلاَ رَوِيَّة،
-مُرِيدٌ بِلاَ هِمَّة، صَانِعٌ لاَ بِجَارِحَة، لَطِيفٌ لاَ يُوصَفُ
-بِالْخَفَاءِ، كَبِيرٌ لاَ يُوصَفُ بِالْجَفَاءِ، بَصِيرٌ لاَ يُوصَفُ
-بِالْحَاسَّةِ، رَحِيمٌ لاَ يُوصَفُ بِالرِّقَّةِ، تَعْنُو الْوُجُوهُ
-لِعَظَمَتِهِ، وَتَجِبُ الْقُلُوبُ مِنْ مَخَافَتِهِ.
-  </p>
-</blockquote>
+> لاَ تُدْرِكُهُ الْعُيُونُ بِمُشَاهَدَةِ الْعِيَانِ، وَلكِنْ تُدْرِكُهُ
+> الْقُلُوبُ بِحَقَائِقِ الاْيمَانِ، قَرِيبٌ مِنَ الاْشْيَاءِ غَيْرُ
+> مُلاَمِس، بَعِيدٌ مِنْهَا غَيْرُ مُبَايِن، مُتَكَلِّمٌ بِلاَ رَوِيَّة،
+> مُرِيدٌ بِلاَ هِمَّة، صَانِعٌ لاَ بِجَارِحَة، لَطِيفٌ لاَ يُوصَفُ
+> بِالْخَفَاءِ، كَبِيرٌ لاَ يُوصَفُ بِالْجَفَاءِ، بَصِيرٌ لاَ يُوصَفُ
+> بِالْحَاسَّةِ، رَحِيمٌ لاَ يُوصَفُ بِالرِّقَّةِ، تَعْنُو الْوُجُوهُ
+> لِعَظَمَتِهِ، وَتَجِبُ الْقُلُوبُ مِنْ مَخَافَتِهِ.
 
 Alternative Sources for Sermon 179
 ----------------------------------
@@ -66,5 +46,4 @@ Alternative Sources for Sermon 179
 (5) al-Mufid, *al-'Ikhtisas,* 236;
 
 (6) Sibt, *Tadhkirah,* 157.
-
 

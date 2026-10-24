@@ -1126,4 +1126,3 @@ Adjustment, 4th ed., Boston: Houghton Mifflin Company, 1961, pp. 321,
 
 [^30]: Malm & Sorenson, op. cit., pp. 77-78.
 
-

@@ -40,4 +40,3 @@ Besides he promised to support the persecuted.
 Mukhtar was the first to pay homage to al-Husayn. Then thousands of
 people paid homage. Their number was eighteen thousand people.
 
-

@@ -163,4 +163,3 @@ same is mentioned by Ibn Qutaybah who includes Malik among wise sages on
 page 170 of his book Al-Ma’arif, recounting him on page 198 among men
 whose mother's pregnancy outlasted the normal period.
 
-

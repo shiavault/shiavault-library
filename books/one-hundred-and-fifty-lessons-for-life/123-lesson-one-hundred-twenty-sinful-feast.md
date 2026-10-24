@@ -3,12 +3,8 @@ Lesson One Hundred Twenty: Sinful Feast
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَنْبَغِى لِلْمُؤْمِنِ أَنْ يَجْلِسَ مَجْلِساً يُعْصَى اللّهُ
-فِيْهِ وَ لا يَقْدِرُ عَلَى تَغْيِيرِهِ
-  </p>
-</blockquote>
+> لا يَنْبَغِى لِلْمُؤْمِنِ أَنْ يَجْلِسَ مَجْلِساً يُعْصَى اللّهُ
+> فِيْهِ وَ لا يَقْدِرُ عَلَى تَغْيِيرِهِ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ lead him to commit sins.
 
 [^1]: Usul al-Kafi, , volume 2, page 374. Wasa'il Al-Shia, vol 16, page
 260.
-
 

@@ -1583,4 +1583,3 @@ prophet knew this.
 
 These have been dealt with above under the other points.
 
-

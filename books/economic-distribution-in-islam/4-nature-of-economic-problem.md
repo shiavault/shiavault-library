@@ -450,4 +450,3 @@ Exhortations of the Prophet).
 
 [^3]: Al-Kulaini, al-Kafi, vol. 5, p.67.
 
-

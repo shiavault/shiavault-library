@@ -310,4 +310,3 @@ life and need more "Surely Allah will raise for this community at the
 beginning of every century one who shall revive for it its faith."
 (34)
 
-

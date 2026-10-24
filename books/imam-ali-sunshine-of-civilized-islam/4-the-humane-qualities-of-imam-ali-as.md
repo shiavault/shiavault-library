@@ -2186,4 +2186,3 @@ jizya (tribute).
 [^9]: Here I am ‘Ali meant fortune-telling or divination and not
 astronomy.
 
-

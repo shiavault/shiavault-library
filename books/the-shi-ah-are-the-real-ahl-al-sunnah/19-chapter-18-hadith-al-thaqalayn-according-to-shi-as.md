@@ -66,7 +66,7 @@ rivers flow, abiding therein forever; Allah is well pleased with them
 and they with Him; such is the reward of whoever fears his Lord. (Holy
 Qur'an, 98:7-8)
 
-[^87] This hadith is recorded in al-Tirmidhi's Sahih, in Muslim's Sahih,
+[^87]: This hadith is recorded in al-Tirmidhi's Sahih, in Muslim's Sahih,
 in al-Hakim's Mustadrak al-Sahihayn, in Ahmad's Musnad, in al-Nasa'i's
 Khasais, in Ibn Sa\`d's Tabaqat, and by the books of al-Tabrani,
 al-Suyuti, Ibn Hajar, Ibn al-Athir, and many others [who all are
@@ -74,10 +74,10 @@ Sunnis]. For the numbers of pages and volumes, refer to page 82 and the
 pages following it [of the original Arabic text] of the book titled
 Al-Muraja\`at [by Sharafud-Din Sadr ad-Din al-Musawi al-Amili].
 
-[^88] Compilations of traditions they regard as authentic.
-[^89] Books upon which religious rulings are based.
-[^90] Al-Hakim, Mustadrak, Vol. 3, p. 124, and it is also recorded by
+[^88]: Compilations of traditions they regard as authentic.
+[^89]: Books upon which religious rulings are based.
+[^90]: Al-Hakim, Mustadrak, Vol. 3, p. 124, and it is also recorded by
 al-Dhahabi in his Talkhis.
-[^91] Al-Muttaqi al-Hindi, Kanz al-Ummal, Vol. 5, p. 30. Ibn Asakir,
+[^91]: Al-Muttaqi al-Hindi, Kanz al-Ummal, Vol. 5, p. 30. Ibn Asakir,
 Tarikh, Vol. 3, p. 119, Vol. 3.
 

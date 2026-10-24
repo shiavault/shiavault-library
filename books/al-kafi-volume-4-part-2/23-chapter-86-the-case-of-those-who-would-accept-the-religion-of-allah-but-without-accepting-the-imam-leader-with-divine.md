@@ -125,7 +125,6 @@ Imam who is just in his dealings and possesses authority from Allah even
 though they would be unjust in their dealings and have committed
 sins."
 
-
 **Chapter 87 : The Case of those who would Die without having an Imam
 from the Imams of Guidance Part of Previous Chapter H 975, Ch. 87, h
 1**
@@ -182,5 +181,4 @@ Whoever would claim to have heard from a source other than the one
 Allah has opened for him, he will be considered as polytheist. The
 source and door that Allah has opened is the one that trustworthy in the
 matters of the hidden secrets of Allah."
-
 

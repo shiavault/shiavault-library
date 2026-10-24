@@ -36,4 +36,3 @@ correct.
 [^2]: T, falamma kanati 'l-mujaza: N, falamma kanati 'l-af‘ali
 'l-mujaza, which is correct.
 
-

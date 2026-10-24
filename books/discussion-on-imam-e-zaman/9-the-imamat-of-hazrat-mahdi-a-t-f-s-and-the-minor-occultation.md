@@ -247,4 +247,3 @@ Mahdi (a.t.f.s.). Finally, if the Shias revere the cellar, it is because
 of the owner of the house and not because of the story of the well or
 any other such absurdity.
 
-

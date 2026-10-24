@@ -1,15 +1,11 @@
 Discourse 13: Two Despised Characteristics: Eating too Much and Looking at Others
 =================================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ إِيَّاكُمْ وَ فُضُولَ الْمَطْعَمِ فَإِنَّهُ
-يَسِمُ الْقَلْبَ بِالْقَسْوَةِ، وَ يُبْطِيءُ بِالْجَوَارِحِ عَنِ
-الطَّاعَةِ، وَ يُصِمُّ الْهِمَمَ عَنْ سَمَاعِ الْمَوْعِظَةِ وَ
-إِيَّاكُمْ وَ فُضُولَ النَّظَرِ، فَإِنَّ يَبْدُرُ الْهَوى، وَ يُولِدُ
-الْغَفْلَةَ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ إِيَّاكُمْ وَ فُضُولَ الْمَطْعَمِ فَإِنَّهُ
+> يَسِمُ الْقَلْبَ بِالْقَسْوَةِ، وَ يُبْطِيءُ بِالْجَوَارِحِ عَنِ
+> الطَّاعَةِ، وَ يُصِمُّ الْهِمَمَ عَنْ سَمَاعِ الْمَوْعِظَةِ وَ
+> إِيَّاكُمْ وَ فُضُولَ النَّظَرِ، فَإِنَّ يَبْدُرُ الْهَوى، وَ يُولِدُ
+> الْغَفْلَةَ.
 
 The Messenger of Allah (S) has said, “I warn you in relation to eating
 too much because surely this act poisons the heart by making it hard (no
@@ -137,11 +133,7 @@ Point to Consider: Many types of wealth and levels of status in this
 material world, as has been mentioned in the traditions and Nahjul
 Balagha, can be described as such:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ مِنَ الدُّنْـيَا سَمَاعُهُ أَعْظَمُ مِنْ عَيَانِهِ.
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ مِنَ الدُّنْـيَا سَمَاعُهُ أَعْظَمُ مِنْ عَيَانِهِ.
 
 “Everything that is in the world which is heard about (that people say)
 is greater than what can be seen of it (greater than it truly is).” [^2]
@@ -169,5 +161,4 @@ Almost all gifts of this world are just like this.!
 [^1]: Ibid., vol. 73, pg. 182
 
 [^2]: Nahj al-Balagha, Speech 114
-
 

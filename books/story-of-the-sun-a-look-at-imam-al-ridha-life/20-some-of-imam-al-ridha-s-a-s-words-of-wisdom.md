@@ -249,4 +249,3 @@ vol. 75, chapter on Imam al-Ridha’s (a.s.) Preaches.
 
 [^4]: ‘Uyun Akhbar al-Ridha (a.s.), vol. 2, p. 13.
 
-

@@ -1380,4 +1380,3 @@ and awakening (bidari).
 
 [^71]: 'Awarif al-Ma arif, Chap. 59, pp. 585-600.
 
-

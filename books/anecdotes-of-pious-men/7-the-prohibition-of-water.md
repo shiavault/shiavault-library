@@ -148,4 +148,3 @@ cause. I felt pity on you and came here to pray for you and ask Allah to
 lead you onto the right path. No, I did not have any such intentions as
 you were afraid of "
 
-

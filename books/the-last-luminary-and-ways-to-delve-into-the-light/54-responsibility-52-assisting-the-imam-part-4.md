@@ -12,12 +12,8 @@ al-’Ahd[^2] and others all of which are from the Ahlul Bayt (as).
 
 In Du’a al-’Ahd, we read the following:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْنِي مِنْ أَنْصَارِهِ وَ أَشْيَاعِهِ وَ الذَّابِّـينَ عَنْهُ
-وَاجْعَلْنِـي مِنَ الْـمُسْتَشْهَدِينَ بَيْنَ يَدَيْهِ
-  </p>
-</blockquote>
+> وَاجْعَلْنِي مِنْ أَنْصَارِهِ وَ أَشْيَاعِهِ وَ الذَّابِّـينَ عَنْهُ
+> وَاجْعَلْنِـي مِنَ الْـمُسْتَشْهَدِينَ بَيْنَ يَدَيْهِ
 
 “And place me among his helpers and followers and defenders and among
 those who (are blessed to) seek martyrdom in his presence.”
@@ -33,5 +29,4 @@ during his occultation, we should have the same wish.
 al-Kaf’ami, pg. 550
 
 [^2]: Refer to the footnote in the forty-eighth responsibility.
-
 

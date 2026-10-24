@@ -16,4 +16,3 @@ Today this theory is one of the Laws of Physics. How wonderful it is
 that in the 2nd century A. H., he could enunciate such a new and unique
 theory.
 
-

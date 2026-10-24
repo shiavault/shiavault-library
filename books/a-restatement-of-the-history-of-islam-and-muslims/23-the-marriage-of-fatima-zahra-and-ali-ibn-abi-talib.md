@@ -140,4 +140,3 @@ In the same year, i.e., in 2 A.H., public prayers on the two holidays
 for the Muslims, viz., Eid-ul-Fitr and Eid-ul-Adha, were made a *sunnat*
 (meritorious) for them.
 
-

@@ -153,4 +153,3 @@ It is important that while performing wudhoo, we should not waste the
 water we use. Israaf (Extravagance) is a great sin and Imam al-Sadiq
 (a.s.) has said, "To throw remaining food or water is Israaf …"
 
-

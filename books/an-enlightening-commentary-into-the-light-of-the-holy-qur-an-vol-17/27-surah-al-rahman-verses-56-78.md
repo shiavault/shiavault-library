@@ -4,18 +4,10 @@ Surah al-Rahman, Verses 56 - 78
 Surah al-Rahman - Verses 56-57
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ
-وَلَآ جَانٌّ
-  </p>
-</blockquote>
+> فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ
+> وَلَآ جَانٌّ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***56. In both Gardens of Paradise shall be chaste females restraining
 their glances, desiring none except their husbands with whom no man or
@@ -55,17 +47,9 @@ anew:
 Surah al-Rahman - Verses 58-59
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَأنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ
-  </p>
-</blockquote>
+> كَأنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***58. They are like rubies and coral.***  
 ***59. Then which of the Blessings of your Lord will you both [jinn and
@@ -89,17 +73,9 @@ men] deny?"***
 Surah al-Rahman - Verses 60-61
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ جَزَاء الْإِحْسَانِ إِلاّ الْإِحْسَانُ
-  </p>
-</blockquote>
+> هَلْ جَزَاء الْإِحْسَانِ إِلاّ الْإِحْسَانُ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***60. Is there any reward for good other than good?***  
 ***61. Then which of the Blessings of your Lord will you both [jinn and
@@ -134,17 +110,9 @@ men] deny?"***
 Surah al-Rahman - Verses 62-63
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِن دُونِهِمَا جَنَّتَانِ
-  </p>
-</blockquote>
+> وَمِن دُونِهِمَا جَنَّتَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***62. And besides these two Gardens, there are two other Gardens.***  
 ***63. Then which of the Blessings of your Lord will you both [jinn and
@@ -193,17 +161,9 @@ men] deny?"***
 Surah al-Rahman - Verses 64-65
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مُدْهَا مَّتَانِ
-  </p>
-</blockquote>
+> مُدْهَا مَّتَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***64. [The two Gardens appear] dark green [in color owing to the
 density of trees].***  
@@ -227,17 +187,9 @@ men] deny?"***
 Surah al-Rahman - Verses 66-67
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
-  </p>
-</blockquote>
+> فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***66. In the two Gardens shall be two springs gushing forth.***  
 ***67. Then which of the Blessings of your Lord will you both [jinn and
@@ -260,17 +212,9 @@ men] deny?"***
 Surah al-Rahman - Verses 68-69
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
-  </p>
-</blockquote>
+> فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***68. In the two Gardens there shall be fruits and date-palms and
 pomegranates.***  
@@ -298,17 +242,9 @@ men] deny?"***
 Surah al-Rahman - Verses 70-71
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهِنَّ خَيْرَاتٌ حِسَانٌ
-  </p>
-</blockquote>
+> فِيهِنَّ خَيْرَاتٌ حِسَانٌ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***70. There shall be women of fair face and good character in those
 Gardens.***  
@@ -358,17 +294,9 @@ men] deny?"***
 Surah al-Rahman - Verses 72-73
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-حُورٌ مَّقْصُورَاتٌ فِي الْخِيَامِ
-  </p>
-</blockquote>
+> حُورٌ مَّقْصُورَاتٌ فِي الْخِيَامِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***72. Wide-eyed huri's of Paradise guarded in pavilions.***  
 ***73. Then which of the Blessings of your Lord will you both [jinn and
@@ -402,17 +330,9 @@ men] deny?"***
 Surah al-Rahman - Verses 74-75
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَآ جَانٌّ
-  </p>
-</blockquote>
+> لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَآ جَانٌّ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***74. Whom no man or jinni has touched before people of Paradise.***  
 ***75. Then which of the Blessings of your Lord will you both [jinn and
@@ -450,17 +370,9 @@ men] deny?"***
 Surah al-Rahman - Verses 76-77
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مُتَّكِئِينَ عَلَی رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ
-  </p>
-</blockquote>
+> مُتَّكِئِينَ عَلَی رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***76. Reclining on couches covered by the best and the most beautiful
 green fabrics.***  
@@ -503,11 +415,7 @@ your share in future. Which of these Blessings do you deny?
 Surah al-Rahman - Verse 78
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ اسْمُ رَبِّكَ ذِی الْـجَلَآلِ وَالْإِكْرَامِ
-  </p>
-</blockquote>
+> تَبَارَكَ اسْمُ رَبِّكَ ذِی الْـجَلَآلِ وَالْإِكْرَامِ
 
 ***78. Blessed is the Name of your Lord, the Owner of Majesty and
 Honor.***
@@ -636,5 +544,4 @@ blessed Verse in question.
 [^14]: Ibid.
 
 [^15]: Tafsir Burhan; Tafsir Safi, under the blessed Verse in question.
-
 

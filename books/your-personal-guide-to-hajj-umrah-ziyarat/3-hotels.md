@@ -126,4 +126,3 @@ English Style Bathrooms.
 The only popular hotel is Zam Zam Hotel, again to be considered as a 2
 star hotel. Only a few rooms have attached English Style bathrooms.
 
-

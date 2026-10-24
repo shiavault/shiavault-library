@@ -12,12 +12,8 @@ and his family are our prophetic family. This fact is recognized by
 ‘ulama of the Ahl al-Sunnah as well. For instance, al-Hafiz Ibn Hajar
 al-‘Asqalani (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-ويستفاد من قصة العباس استحباب الاستشفاع بأهل الخير والصلاح وأهل بيت
-النبوة
-  </p>
-</blockquote>
+> ويستفاد من قصة العباس استحباب الاستشفاع بأهل الخير والصلاح وأهل بيت
+> النبوة
 
 It is learnt from the story of al-‘Abbas that it is recommended to seek
 the intercession of righteous people and the Prophetic Family.[^1]
@@ -25,11 +21,7 @@ the intercession of righteous people and the Prophetic Family.[^1]
 Imam al-Mubarakfuri (d. 1282 H) too, while commenting on a hadith,
 submits:
 
-<blockquote dir="rtl">
-  <p>
-}ما اختصنا {أي أهل البيت يريد به نفسه وسائر أهل بيت النبوة
-  </p>
-</blockquote>
+> }ما اختصنا {أي أهل البيت يريد به نفسه وسائر أهل بيت النبوة
 
 {What has been bestowed to us exclusively}, meaning the Ahl al-Bayt. He
 meant with it himself and the other members of the Prophetic Family.[^2]
@@ -37,13 +29,9 @@ meant with it himself and the other members of the Prophetic Family.[^2]
 Concerning the family of Prophet Ibrahim, Imam al-Zamakhshari (d. 538 H)
 says as well:
 
-<blockquote dir="rtl">
-  <p>
-وإلى ذلك أشارت الملائكة صلوات اللّه عليهم في قولهم }رحمت الله وبركاته
-عليكم أهل البيت { أرادوا أن هذه وأمثالها مما يكرمكم به رب العزة ويخصكم
-بالإنعام به يا أهل بيت النبوّة
-  </p>
-</blockquote>
+> وإلى ذلك أشارت الملائكة صلوات اللّه عليهم في قولهم }رحمت الله وبركاته
+> عليكم أهل البيت { أرادوا أن هذه وأمثالها مما يكرمكم به رب العزة ويخصكم
+> بالإنعام به يا أهل بيت النبوّة
 
 It was towards this that the angels, peace of Allah be upon them,
 indicated in their statement ***{Mercy of Allah and His Blessings be
@@ -57,12 +45,8 @@ by the angels. They were the Prophetic Family of his Ummah too.
 Al-Hafiz Ibn Kathir (d. 774 H) also mentions a report about the family
 of Prophet Dawud, ‘alaihi al-salam:
 
-<blockquote dir="rtl">
-  <p>
-وروي عنه أيضا أنه قال: وقف سائل على باب داود عليه السلام، فقال: يا أهل
-بيت النبوة تصدقوا علينا بشئ رزقكم الله
-  </p>
-</blockquote>
+> وروي عنه أيضا أنه قال: وقف سائل على باب داود عليه السلام، فقال: يا أهل
+> بيت النبوة تصدقوا علينا بشئ رزقكم الله
 
 It is also narrated from him that he said: “A beggar stopped at the door
 of Dawud, peace be upon him, and said, ‘O Prophetic Family! Give to us
@@ -72,12 +56,8 @@ Expectedly, prophetic families hold special positions in their
 respective Ummahs. For instance, Allah informs us about two of them in
 these verses:
 
-<blockquote dir="rtl">
-  <p>
-إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين ذرية بعضها
-من بعض والله سميع عليم
-  </p>
-</blockquote>
+> إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين ذرية بعضها
+> من بعض والله سميع عليم
 
 Verily, Allah chose Adam, Nuh, the family of Ibrahim and the family of
 Imran above the worlds. (They are) offspring, one of the other, and
@@ -97,12 +77,8 @@ his chosen family.
 Concerning the families of Prophet Nuh and Prophet Ibrahim, Allah
 informs us of how He chose them:
 
-<blockquote dir="rtl">
-  <p>
-ولقد أرسلنا نوحا وإبراهيم وجعلنا في ذريتهما النبوة والكتاب فمنهم مهتد
-وكثير منهم فاسقون
-  </p>
-</blockquote>
+> ولقد أرسلنا نوحا وإبراهيم وجعلنا في ذريتهما النبوة والكتاب فمنهم مهتد
+> وكثير منهم فاسقون
 
 And indeed, We sent Nuh and Ibrahim, and We placed prophethood and the
 Book in their offspring. Among them was he who was guided, but many of
@@ -111,11 +87,7 @@ them were disobedient to Allah.[^6]
 Explaining this verse, al-Hafiz Ibn Kathir states:
 
 > وقال فيه وفي إبراهيم (وجعلنا في ذريتهما النبوة والكتاب) [الحديد: 26]
-<blockquote dir="rtl">
-  <p>
-أي كل نبي من بعد نوح فمن ذريته. وكذلك إبراهيم
-  </p>
-</blockquote>
+> أي كل نبي من بعد نوح فمن ذريته. وكذلك إبراهيم
 
 He (Allah) says concerning him (i.e. Nuh) and Ibrahim ***{And We placed
 prophethood and the Book in the offspring} [al-Hadid: 26],*** meaning:
@@ -123,13 +95,9 @@ all prophets after Nuh were from his offspring. That was the case of
 Ibrahim too.[^7]  
  Imam al-Tabari (d. 310 H) too says:
 
-<blockquote dir="rtl">
-  <p>
-}وجعلنا في ذريتهما النبوة والكتاب {وكذلك كانت النبوة في ذريتهما،
-وعليهم أنزلت الكتب: التوراة، والإنجيل، والزبور، والفرقان، وسائر الكتب
-المعروفة
-  </p>
-</blockquote>
+> }وجعلنا في ذريتهما النبوة والكتاب {وكذلك كانت النبوة في ذريتهما،
+> وعليهم أنزلت الكتب: التوراة، والإنجيل، والزبور، والفرقان، وسائر الكتب
+> المعروفة
 
 ***{And We placed prophethood and the Book in the offspring}*** in the
 same manner, prophethood was in their offspring, and to them were
@@ -138,12 +106,8 @@ al-Furqan, and the other well-known scriptures.[^8]
 
 With regards to Prophet Ibrahim specifically, we read:
 
-<blockquote dir="rtl">
-  <p>
-ووهبنا له إسحاق ويعقوب وجعلنا في ذريته النبوة والكتاب وآتيناه أجره في
-الدنيا وإنه في الآخرة لمن الصالحين
-  </p>
-</blockquote>
+> ووهبنا له إسحاق ويعقوب وجعلنا في ذريته النبوة والكتاب وآتيناه أجره في
+> الدنيا وإنه في الآخرة لمن الصالحين
 
 ***And We bestowed on him Ishaq and Ya’qub, and We placed prophethood
 and the Book in his offspring, and We granted him his reward in this
@@ -152,13 +116,9 @@ righteous.***[^9]
 
 Al-Hafiz Ibn Kathir has this exegesis:
 
-<blockquote dir="rtl">
-  <p>
-}وجعلنا في ذريته النبوة والكتاب…{ وجعل في ذريته النبوة والكتاب فكل نبي
-بعث بعده فهو من ذريته وكل كتاب نزل من السماء على نبي من الانبياء من
-بعده فعلى أحد نسله وعقبه
-  </p>
-</blockquote>
+> }وجعلنا في ذريته النبوة والكتاب…{ وجعل في ذريته النبوة والكتاب فكل نبي
+> بعث بعده فهو من ذريته وكل كتاب نزل من السماء على نبي من الانبياء من
+> بعده فعلى أحد نسله وعقبه
 
 ***{And We placed prophethood and the Book in his offspring…}*** and He
 placed prophethood and the Book in his offspring. Therefore, all
@@ -177,11 +137,7 @@ were automatically from his offspring, his family.
 This process started with Adam, ‘alaihi al-salam, the first prophet. The
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-أولئك الذين أنعم الله عليهم من النبيين من ذرية آدم
-  </p>
-</blockquote>
+> أولئك الذين أنعم الله عليهم من النبيين من ذرية آدم
 
 ***Those were they unto whom Allah bestowed His Grace among the prophets
 from the offspring of Adam.***[^11]
@@ -199,12 +155,8 @@ was founded by his grandson, Ya’qub, ‘alaihi al-salam – who was also
 known as Israil. Commenting about his branch of the Ibrahimic tree,
 Allah states:
 
-<blockquote dir="rtl">
-  <p>
-ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات
-وفضلناهم على العالمين
-  </p>
-</blockquote>
+> ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات
+> وفضلناهم على العالمين
 
 ***And indeed, We gave the offspring of Israil the Book, and authority
 and prophethood, and We provided them with good things, AND WE MADE THEM
@@ -213,12 +165,8 @@ SUPERIOR ABOVE THE WORLDS.***[^12]
 We equally read about the families of Musa and Harun, ‘alaihima
 al-salam, also from the offspring of Ibrahim:
 
-<blockquote dir="rtl">
-  <p>
-وقال لهم نبيهم إن آية ملكه أن يأتيكم التابوت فيه سكينة من ربكم وبقية
-مما ترك آل موسى وآل هارون تحمله الملائكة
-  </p>
-</blockquote>
+> وقال لهم نبيهم إن آية ملكه أن يأتيكم التابوت فيه سكينة من ربكم وبقية
+> مما ترك آل موسى وآل هارون تحمله الملائكة
 
 ***And their Prophet said to them, “Verily! The sign of his (i.e.
 Talut’s) kingdom is that there shall come to you a wooden box, wherein
@@ -241,11 +189,7 @@ as well.
 The family of Dawud, ‘alaihi al-salam, was another branch of the
 Ibrahimic lineage. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-آل داوود شكرا وقليل من عبادي الشكور
-  </p>
-</blockquote>
+> آل داوود شكرا وقليل من عبادي الشكور
 
 “Work you, O family of Dawud, with thanks.” But few of My slaves are
 grateful.[^14]
@@ -257,14 +201,10 @@ and king.
 Then, there are two other branches of the tree of Ibrahim that we have
 not mentioned. Imam al-Bukhari (d. 256 H) records about them:
 
-<blockquote dir="rtl">
-  <p>
-}إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين - إلى
-قوله - يرزق من يشاء بغير حساب} قال ابن عباس }وآل عمران{ المؤمنون من آل
-إبراهيم وآل عمران وآل ياسين وآل محمد صلى الله عليه و سلم يقول {إن أولى
-الناس بإبراهيم للذين اتبعوه} وهم المؤمنون .
-  </p>
-</blockquote>
+> }إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين - إلى
+> قوله - يرزق من يشاء بغير حساب} قال ابن عباس }وآل عمران{ المؤمنون من آل
+> إبراهيم وآل عمران وآل ياسين وآل محمد صلى الله عليه و سلم يقول {إن أولى
+> الناس بإبراهيم للذين اتبعوه} وهم المؤمنون .
 
 {Verily, Allah chose Adam, Nuh, the family of Ibrahim and the family of
 Imran above the worlds ... Allah provides sustenance to whom He wills,
@@ -276,19 +216,11 @@ They are the believers”.[^15]
 
 Prof. Ibn Yasin also submits:
 
-<blockquote dir="rtl">
-  <p>
-}إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين {
-  </p>
-</blockquote>
+> }إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين {
 
-<blockquote dir="rtl">
-  <p>
-أخرج الطبري وابن أبي حاتم بسنديهما الحسن عن علي بن أبي طلحة عن ابن
-عباس قال: هم المؤمنون من آل إبراهيم وآل عمران: آل ياسين وآل محمد يقول
-الله عز وجل (إن أولى الناس بإبراهيم للذين اتبعوه).
-  </p>
-</blockquote>
+> أخرج الطبري وابن أبي حاتم بسنديهما الحسن عن علي بن أبي طلحة عن ابن
+> عباس قال: هم المؤمنون من آل إبراهيم وآل عمران: آل ياسين وآل محمد يقول
+> الله عز وجل (إن أولى الناس بإبراهيم للذين اتبعوه).
 
 ***{Verily, Allah chose Adam, Nuh, the family of Ibrahim and the family
 of Imran above the worlds}***
@@ -303,12 +235,8 @@ As authentically transmitted from Ibn ‘Abbas, radhiyallahu ‘anhu, the
 family of Muhammad is part of the family of Ibrahim mentioned in this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين ذرية بعضها
-من بعض والله سميع عليم
-  </p>
-</blockquote>
+> إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين ذرية بعضها
+> من بعض والله سميع عليم
 
 ***Verily, Allah chose Adam, Nuh, the family of Ibrahim and the family
 of Imran above the worlds. (They are) offspring, one of the other, and
@@ -382,5 +310,4 @@ min al-Tafsir bi al-Mathur (Madinah: Dar al-Mathar li al-Nashr wa
 al-Tawzi’ wa al-Taba’at; 1st edition, 1420 H), vol. 1, p. 411
 
 [^17]: Qur’an 3:33-34
-
 

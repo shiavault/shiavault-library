@@ -159,4 +159,3 @@ His death was slow and painful. He would lose consciousness for a while
 only to regain it and see before him form of Sa'id. Such is the fate of
 the brutal tyrants of the world.
 
-

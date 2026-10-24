@@ -181,7 +181,7 @@ does not have any relevance to the thoughts like peace-loving person
 of exegesis shows lack of knowledge of the meaning of that verse and the
 verses, which are concordant to that.
 
-Other than this the 17<sup>th</sup> verse of Surah Hajj does not have
+Other than this the 17th verse of Surah Hajj does not have
 the
 
 slightest of conformity to the meaning, which they construe. Its meaning

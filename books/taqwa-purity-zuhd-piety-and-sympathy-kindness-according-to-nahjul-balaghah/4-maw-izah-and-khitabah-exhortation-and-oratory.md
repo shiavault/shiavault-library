@@ -68,4 +68,3 @@ worldliness, *zuhd* (abstinence), desires, the dread of death, the
 dreads of the Day of Judgement, the need to take lesson from the history
 of past nations and peoples, etc.
 
-

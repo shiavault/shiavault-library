@@ -193,13 +193,9 @@ tayammum, which bring about purification of the soul, have been
 explained therein. Initially the believers are addressed and the rulings
 related to Wudu, are mentioned as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْـتُمْ إِلـى الصَّلاَةِ
-فَاغْسِلُوا وُجُوهَكُمْ وَ أَيْدِيَكُمْ إِلـى الْمَرافِقِ وَ امْسَحُوا
-بِرُؤُسِكُمْ وَ أَرْجُــلَكُمْ إِلـى الْكَعْـبَيْنِ‏
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْـتُمْ إِلـى الصَّلاَةِ
+> فَاغْسِلُوا وُجُوهَكُمْ وَ أَيْدِيَكُمْ إِلـى الْمَرافِقِ وَ امْسَحُوا
+> بِرُؤُسِكُمْ وَ أَرْجُــلَكُمْ إِلـى الْكَعْـبَيْنِ‏
 
 ***“O you who believe! When you rise up to prayer, wash your faces and
 your hands as far as the elbows, and wipe your heads and your feet to
@@ -255,12 +251,8 @@ superimposed upon the place of بِرُؤُسِكُمْ and not on the word
 
 Verse number 115 of Suratul Baqarah states:
 
-<blockquote dir="rtl">
-  <p>
-وَ لِلٌّهِ الْمَشْرِقُ وَ الْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ
-وَجْهُ اللٌّهِ‏
-  </p>
-</blockquote>
+> وَ لِلٌّهِ الْمَشْرِقُ وَ الْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ
+> وَجْهُ اللٌّهِ‏
 
 ***“To Allah belong the east and the West: Whithersoever ye turn, there
 is the presence of Allah.”***
@@ -356,11 +348,7 @@ fanaticism, stubbornness and egotism.[^16]
 In Suratul 'Ankabut, verse number 45, mentions an important philosophy
 with respect to the prayers when it says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشَاءِ وَ الْمُنْكَرِ
-  </p>
-</blockquote>
+> إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشَاءِ وَ الْمُنْكَرِ
 
 ***“Surely prayer keeps (one) away from indecency and evil.”***
 
@@ -429,11 +417,7 @@ It has been reported in a tradition that a youth from the Ansar
 despite this, he was prone to committing sins and evil deeds. When this
 was brought to the notice of the Noble Prophet (s.a.w), he said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ صَلاَتَهُ تَنْهاهُ يَوْماً.
-  </p>
-</blockquote>
+> إِنَّ صَلاَتَهُ تَنْهاهُ يَوْماً.
 
 “His prayers deter him for one day (only).”[^17]
 
@@ -441,13 +425,9 @@ This effect of the prayers is so significant that some of the traditions
 refer to it as a gauge for distinguishing the accepted prayers from
 those that that are not. As Imam as-sadiq (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّ أَنْ يَعْلَمَ أَ قُبِلَتْ صَلاَتُهُ أَمْ لَمْ تُقْبَلْ
-فَلْيَنْظُرْ هَلْ مَنَعَتْهُ صَلاَتُهُ عَنِ الْفَحْشَآءِ وَ
-الْمُنْكَرِ فَبِقَدْرِ مَا مَنَعَتْهُ قُبِلَتْ مِنْهُ.
-  </p>
-</blockquote>
+> مَنْ أَحَبَّ أَنْ يَعْلَمَ أَ قُبِلَتْ صَلاَتُهُ أَمْ لَمْ تُقْبَلْ
+> فَلْيَنْظُرْ هَلْ مَنَعَتْهُ صَلاَتُهُ عَنِ الْفَحْشَآءِ وَ
+> الْمُنْكَرِ فَبِقَدْرِ مَا مَنَعَتْهُ قُبِلَتْ مِنْهُ.
 
 “One, who desires to know if his prayer has been accepted or not, should
 observe if it has kept him away from indecency and evil, or not; the
@@ -456,11 +436,7 @@ that) has been accepted.”[^18]
 
 Continuing with the verse, Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَذِكْرُ اللٌّهِ أَكْبَرُ
-  </p>
-</blockquote>
+> وَ لَذِكْرُ اللٌّهِ أَكْبَرُ
 
 ***“The dhikr (remembrance) of Allah is superior and more virtuous.”***
 
@@ -476,11 +452,7 @@ evil).
 rest, and no other thing can be likened to it in significance and
 importance.
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ بِذِكْرِ اللٌّهِ تَطْمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> أَلاَ بِذِكْرِ اللٌّهِ تَطْمَئِنُّ الْقُلُوبُ
 
 *“**Surely by Allah's remembrance are the hearts set at rest**.”*[^19]
 
@@ -493,11 +465,7 @@ a man's heart.
 fundamental philosophy of prayer in Surat Taha, when Prophet Musa (a.s)
 is addressed as:
 
-<blockquote dir="rtl">
-  <p>
-أَقِمِ الصَّلاةَ لِذِكْرِي
-  </p>
-</blockquote>
+> أَقِمِ الصَّلاةَ لِذِكْرِي
 
 *“**And keep up prayer for My remembrance.**”*[^20]
 
@@ -506,11 +474,7 @@ him from divine chastisement, is greater than 'remembrance of Allah'.
 When he was asked: Not even Jihad in the way of Allah?  He replied: No
 (not even Jihad), for Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَذِكْرُ اللٌّهِ أَكْبَرُ
-  </p>
-</blockquote>
+> وَ لَذِكْرُ اللٌّهِ أَكْبَرُ
 
 Although the philosophy of prayer is not something that is hidden from
 anyone, a more careful study of the text of the Qur\`an and the
@@ -523,19 +487,11 @@ However, it should be a remembrance that brings about 'reflection', and
 a 'reflection' that leads to 'deeds'. In a tradition Imam as-sadiq
 (a.s), interpreting the sentence:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَذِكْرُ اللٌّهِ أَكْبَرُ
-  </p>
-</blockquote>
+> وَ لَذِكْرُ اللٌّهِ أَكْبَرُ
 
 said:
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرُ اللٌّهِ عِنْدَ مَا أَحَلَّ وَ حَرَّمَ‏.
-  </p>
-</blockquote>
+> ذِكْرُ اللٌّهِ عِنْدَ مَا أَحَلَّ وَ حَرَّمَ‏.
 
 “Remembrance of Allah at the time of performing a lawful or a forbidden
 act.”[^21]
@@ -589,12 +545,8 @@ philosophy behind the various acts of worship of Islam have been
 explained, immediately after referring to faith, speaks about prayers
 and explains:
 
-<blockquote dir="rtl">
-  <p>
-فَرَضَ اللٌّهُ الإِِيْمَانَ تَطْهِيراً مِنَ الشِّرْكِ وَ الصَّلاَةَ
-تَنْزِيهاً عَنِ الْكِبْرِ.
-  </p>
-</blockquote>
+> فَرَضَ اللٌّهُ الإِِيْمَانَ تَطْهِيراً مِنَ الشِّرْكِ وَ الصَّلاَةَ
+> تَنْزِيهاً عَنِ الْكِبْرِ.
 
 “Allah made faith obligatory in order to purify (the people) of
 polytheism, and the prayer, in order to clean (them) of pride.”[^23]
@@ -616,11 +568,7 @@ moral excellences within man.
 The Commander of the Faithful (a.s), mentioning the philosophy of the
 prayers, said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاَةُ قُرْبَانُ كُلِّ تَقِيٍّ.
-  </p>
-</blockquote>
+> الصَّلاَةُ قُرْبَانُ كُلِّ تَقِيٍّ.
 
 “The prayer is a means for the pious ones to attain nearness to
 Allah.”[^24]
@@ -635,11 +583,7 @@ within him.
 We find that the Commander of the Faithful (a.s), in his testament after
 being fatally injured on the head by the accursed b. Muljim, said:
 
-<blockquote dir="rtl">
-  <p>
-اللٌّهَ اللٌّهَ فِي الصَّلاَةِ فَإِنَّهَا عَمُودُ دِينِكُمْ‏.
-  </p>
-</blockquote>
+> اللٌّهَ اللٌّهَ فِي الصَّلاَةِ فَإِنَّهَا عَمُودُ دِينِكُمْ‏.
 
 “Fear Allah so far as the prayers are concerned for they are the pillars
 of your religion.”[^25]
@@ -651,12 +595,8 @@ established by means of prayers, were to get severed the other deeds too
 would lose their effect.  
  In a tradition, Imam as-sadiq (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-اَوَّلُ مَا يُحَاسَبُ بِهِ الْعُبدُ الصَّلوٌةَ فَإِِنْ قُبِلَتْ قُبِلَ
-سَائِرُ عَمَلِهِ وَ إِنْ رُدَّتْ رُدَّ ساَئِرُ عَمَلِهِ.
-  </p>
-</blockquote>
+> اَوَّلُ مَا يُحَاسَبُ بِهِ الْعُبدُ الصَّلوٌةَ فَإِِنْ قُبِلَتْ قُبِلَ
+> سَائِرُ عَمَلِهِ وَ إِنْ رُدَّتْ رُدَّ ساَئِرُ عَمَلِهِ.
 
 “The first thing that a servant shall be reckoned for (on the Day of
 Judgment) shall be his prayers. If they are accepted, all his other
@@ -693,12 +633,8 @@ Books of jurisprudence and traditions mention numerous things that act
 as impediments towards the acceptance of prayers - one of them being
 consumption of intoxicants. It has been reported in the traditions that:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُقْبَلُ صَلاَةُ شَارِبِ الْخَمْرِ أَرْبَعِينَ يَوْماً إِلاَّ أَنْ
-يَتُوبَ‏.
-  </p>
-</blockquote>
+> لاَ تُقْبَلُ صَلاَةُ شَارِبِ الْخَمْرِ أَرْبَعِينَ يَوْماً إِلاَّ أَنْ
+> يَتُوبَ‏.
 
 “The prayers of one who consumes intoxicants, shall not be accepted for
 forty days, except if he repents.”[^26]
@@ -844,5 +780,4 @@ Suratul 'Ankabut.
 [^31]: Tafsir-e-Namunah, vol. 16, pg. 284
 
 [^32]: Ibid., vol. 4, pg. 105
-
 

@@ -86,4 +86,3 @@ brothers in the faith. For example, if one does not associate with a
 person who is not worthy of associating with, this does not mean that he
 has broken off family ties (which is a sin in Islam).
 
-

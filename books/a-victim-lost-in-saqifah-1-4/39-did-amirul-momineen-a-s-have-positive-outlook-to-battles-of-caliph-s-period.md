@@ -12,7 +12,7 @@ Islamic battles…we see how much he supported these battles?”!**[1]**
 
 For the scrutiny of this claim, we invite you to read the translation of
 *Political Analysis of the life of Imam Hasan Mujtaba* by Allamah Ja’far
-Murtuza Amili. (2<sup>nd</sup> edition) pages 170-200. Which in fact is
+Murtuza Amili. (2nd edition) pages 170-200. Which in fact is
 to refute the conjecture propagated that Imams Hasan and Husain
 participated in battles during the rule of Caliphs.**[2]**
 
@@ -52,7 +52,7 @@ Decadence of Muslims), Pg. 88)
 **[3]** Sayyid Ahmad Mawassaqi: *Istiratazi-e-Wahdat* (Strategy of
 Unity), Vol. 1, Pg. 137  
 **[4]** Allamah Ja’far Murtuza Amili: *Tahlili Az Zindagi-e-Siyasi Imam
-Hasan Mujtaba (a.s.)* (1<sup>st</sup> Edition), Pgs. 193-194
+Hasan Mujtaba (a.s.)* (1st Edition), Pgs. 193-194
 
 “Accordingly if we accept and surrender to principle of battles and
 military action of Caliphs, we cannot deny the fact that most methods of
@@ -97,7 +97,7 @@ personally to the battlefield and get killed there.”!**[5]**
 **[1]** Abdullah Khanaqli Hamadani: *Siyasat Imam Ali-o-Hasnain Dar
 Raabita Ba Hukoomat-o-Futuhaat Kholafa,* Pgs. 58-59  
 **[2]** Sayyid Ja’far Murtuza Amili: *Tahlili Az Zindagi-e-Siyasi Imam
-Hasan Mujtaba (a.s.)* (1<sup>st</sup> Edition), Pg. 197  
+Hasan Mujtaba (a.s.)* (1st Edition), Pg. 197  
 **[3]** Abdullah Khanaqli Hamadani: *Siyasat Imam Ali-o-Hasnain Dar
 Raabita Ba Hukoomat-o-Futuhaat Kholafa,* Pg. 124  
 **[4]** Ibid. Pg. 130  

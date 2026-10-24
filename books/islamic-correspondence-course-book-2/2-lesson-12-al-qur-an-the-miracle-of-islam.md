@@ -276,4 +276,3 @@ sights of our hearts and our wisdom, and make it an example for life, as
 the Prophet said, "When calamities encompass you like the darkness of
 the night, reach for the Qur'an."
 
-

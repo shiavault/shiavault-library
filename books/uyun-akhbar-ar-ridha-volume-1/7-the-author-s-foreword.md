@@ -56,4 +56,3 @@ who regards friendship as obligatory!
 
 [^1]: Or ‘Wasi in Arabic; the one who will superintend my affairs.
 
-

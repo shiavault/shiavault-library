@@ -84,4 +84,3 @@ contradiction, the law of conversion, and the law of demonstration.
 Al-Sadr then goes by one on to deal with the four points of the
 dialectical logic one.
 
-

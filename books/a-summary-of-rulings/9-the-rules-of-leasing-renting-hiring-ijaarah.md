@@ -164,4 +164,3 @@ complete the construction of structure for a sum and that sum was more
 than the expenses of construction of the structure, it is permitted and
 there is no objection in it.
 
-

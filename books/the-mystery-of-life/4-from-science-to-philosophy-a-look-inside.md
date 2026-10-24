@@ -200,26 +200,16 @@ are constantly changing, for God's blessing flows into it from the world
 of supernatural. Jalal-addin Muhammad Molawi (Rumi) has supported the
 instructional theory in these verses of his poetry:
 
-<p dir="rtl">
 قرنها بگذشت و اين قـرن نُويســت ماه آن ماه اســت و آب آن آب نيسـت
-</p>
 
-<p dir="rtl">
 عدل آن عدل است و فضل آن فضل هم ليک مستبدل شــد اين قـرن و امــم
-</p>
 
-<p dir="rtl">
 قـــرن ها بر قرنها رفـت ای همــام ويــن معانــی بر قــرار و بــر
 دوام
-</p>
 
-<p dir="rtl">
 شد مبــدّل آب ايـن جــو چند بــار عکـس مـــاه و عکــس اختـر برقرار
-</p>
 
-<p dir="rtl">
 پــس بنايــش نيســت بر آب روان بلکـــــه بر اقطـــار اوج آسمـــان
-</p>
 
 *(Many centuries and eras have gone by, but the reflection of the moon
 shining on the stream of times is still coming from the same moon.
@@ -508,28 +498,18 @@ are greatly varied; thus, the contents of scientific theorems should
 never be regarded as absolute and continual explorations and research is
 always needed. As Jalal-addin Muhammad Molawi says,
 
-<p dir="rtl">
 تازه مــیگيـر و کهـن را مــیسپار که هر امسـالت فــزون است از سـه پار
-</p>
 
-<p dir="rtl">
 چيست نشانیّ آنک، هست جهانی دگر نو شــدن حال ها رفتن اين کهنه هاست
-</p>
 
-<p dir="rtl">
 روز نو و شـــام نـو، دام نو و بــاغ نـو هر نفس انديشه نو، نو خوشی و
 نو عناست
-</p>
 
-<p dir="rtl">
 عالم چون آب جوست بسته نمايد، وليک مــيرود و مــيرسد نونو، اين از
 کجاسـت
-</p>
 
-<p dir="rtl">
 نو زکجا مـي رسد؟ کهنه کجـا ميرود؟ گرنـه ورای نظــر عالـــم بی
 منتهــاست
-</p>
 
 (Don't let yourself get stuck in the past and the old; remember that
 your current year is worth more than your last three years altogether.
@@ -1042,9 +1022,7 @@ a) The scientist and the philosopher should both know that analyzing the
 components of nature for the purpose of scientific research does not
 damage their interrelation, for:
 
-<p dir="rtl">
 اگر يک ذرّه را برگيری از جای خلل يابـد همه عالـم سـراپای
-</p>
 
 *(Disturb one particle, and the harmony of the whole universe will be
 disturbed.)*
@@ -1058,10 +1036,8 @@ the universe, even though science cannot verify them as observable
 physical phenomena. The scientist should not fall into such a
 superficial approach in which:
 
-<p dir="rtl">
 ما ز آغاز و ز انجام جهان بی خبـريم اول و آخر اين کهنه کتاب افتاده
 است
-</p>
 
 *(We know nothing about the beginning and the end of this world; it
 seems that it is an ancient, great book whose first and last pages have
@@ -1071,9 +1047,7 @@ d) The scientist should realize that his contact with facts is done
 through his senses and experimental devices, so he can never directly
 achieve contact with all the facts of the universe:
 
-<p dir="rtl">
 ای خدا بنمای تو هر چيز را آن چنان که هست در خدعه سرا
-</p>
 
 *(O God, Who is aware of all obvious and hidden! Reveal everything in
 this deceitful world as it truly is.)*
@@ -1087,13 +1061,9 @@ knowledge of the universe, for his knowledge and sensory and mental
 activities are components of the universe themselves, and should be
 added to the components of nature. The wise human should say that:
 
-<p dir="rtl">
 کاشکی هستـی زبانـــی داشتــی تا ز هستـــان پرده ها برداشتـی
-</p>
 
-<p dir="rtl">
 هر چه گويی ای دم هستــی از آن پرده ای ديگـر بر آن بستــی، بدان
-</p>
 
 *(If only the universe could speak, and would thus reveal all its
 secrets, for all the theorizing, imagination, reasoning and
@@ -1411,9 +1381,7 @@ Even in normal doubts, contact with God can relieve man of the
 psychological stress and suffering it may lead to. As Jalal-addin
 Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 هر که را در جان خدا بنهد محک هر يقيــن را بازداند او ز شک
-</p>
 
 *(If man desires spiritual and mental development, God will be his best
 guide through the darkness of life, creating a light in him that can be
@@ -1548,5 +1516,4 @@ considers himself as the end and others as the means. In other words, he
 intends to dominate others. Such a science will lead to nothing but
 disaster and doom for man. It will alienate man from himself, which will
 make him also alienated from the universe and other human beings.
-
 

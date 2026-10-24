@@ -1017,4 +1017,3 @@ institutions, and free forgiveness of sin through the infinite grace of
 God, is what he really always thought was true and right. After all, all
 are born Muslim.
 
-

@@ -7,11 +7,8 @@ with non-Muslims minorities and with the enemies during the war time
 because the true worth of a society manifests when it is put under
 pressure.
 
-
 With Non-Muslim Minority in Medina
 ----------------------------------
-
-
 
 The Prophet and his followers were a persecuted minority in Mecca. When
 the torture became unbearable, he migrated to Medina, a city in northern
@@ -36,7 +33,6 @@ defending Medina against all enemies. The interior of Medina shall be a
 sacred place for all who accept this Charter. The allies of the Muslims
 and of the Jews shall be as respected as the principal parties of this
 Charter.
-
 
 This agreement between the first Muslim community and the Jewish
 community in Medina shows the sense of justice portrayed in the
@@ -68,11 +64,8 @@ the only model of a peaceful multi-cultural and multi-faith society was
 Spain under the Muslim rule—a Spain in which Christians, Jews and
 Muslims lived in peace and harmony.
 
-
 Non-Muslim Relatives & Neighbours
 ---------------------------------
-
-
 
 An Islamic injunction about loving and caring for a neighbour covers all
 kinds of neighbours:
@@ -91,10 +84,8 @@ says in the Qur’ãn:
 idol) with Me… then do not obey them; however, live with them in this
 world kindly…”*** **(Surah al-Luqman, 31:15)**
 
-
 With Enemies in the Battle Field
 --------------------------------
-
 
 The Qur’ãn instructs the Muslims to maintain justice even when dealing
 with their enemies.
@@ -124,7 +115,6 @@ days, ‘they made us ride, while they themselves walked, they gave us
 wheaten bread to eat when there was little of it; contenting themselves
 with dates.”
 
-
 The way the Prophet dealt with the prisoners was very revolutionary. The
 poor prisoners were released free; those who came from affluent families
 of Mecca were returned for a specified ransom. (See the Qur’ãn: Surah
@@ -152,7 +142,6 @@ non-combatants and also the environment:
 
 • “Do not poison the water of the infidels.”[^2]
 
-
 All this was done fourteen hundred years ago; long, long before
 the Geneva Convention came about.
 
@@ -162,7 +151,6 @@ disclosure of torture in Abu Ghuraib prison, I can proudly say that the
 example and teachings of Prophet Muhammad about Prisoners of War (POWs)
 are “definitively good and humane” even according to the standards of
 the 21st century.
-
 
 [^1]: Roderic H. Davison, Reform in the Ottoman Empire 1856-1876 (New
 Jersey: Princeton University Press, 1963) p. 116.
@@ -175,5 +163,4 @@ rider, must provide the fodder for your animal before taking care of
 your own needs. (4) Whenever you pass by a poll of water or a river let
 the animal quince its thirst. (5) Do not hit on its face because it also
 praises its Lord.
-
 

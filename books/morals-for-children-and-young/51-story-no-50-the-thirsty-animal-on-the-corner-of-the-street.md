@@ -17,4 +17,3 @@ wagged his tail and went away.
 hurt them.  
  But good children must, whoever it is, avoid hurting them.
 
-

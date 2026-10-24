@@ -37,4 +37,3 @@ invalidate all his attempts to repudiate that.
 3 - To prove that Yazeed does not relate to Islam, neither from near nor
 from far.
 
-

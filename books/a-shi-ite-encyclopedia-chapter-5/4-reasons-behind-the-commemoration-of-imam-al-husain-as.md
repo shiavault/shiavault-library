@@ -22,7 +22,6 @@ both). Still, I do not understand why people celebrate the
 Martyrdom, I mean I mourne it and I am sad at what
 happened, but celebrate is the wrong word.
 
-
 Brother, if you have tuned to SRI, you would have seen many reasons
 behind commemoration of the martyrdom of Imam Husain (AS). Since you
 mentioned that this subject has been discussed in SRI and MSA, then you
@@ -239,7 +238,6 @@ authorities.
 (7) al-Sawa'iq al-Muhriqah, by Ibn Hajar Haythami , Ch. 11, section 1,
 p247
 
-
 Thus the Messenger of Allah (PBUH&HF) used to say the phrase of "Shia
 of Ali". This phrase is not something invented later! Prophet Muhammad
 (PBUH&HF) said that the true followers of imam Ali will go to Paradise,
@@ -260,7 +258,6 @@ came
 towards us. The Holy Prophet said: He and his Shia will aquire
 salvation
 on the day of judgment."
-
 
 The "day of rising" could also refer to the day of rising of al-Mahdi
 (AS). But in more general term, it means the day of judgment.
@@ -457,5 +454,4 @@ Arabs inside Hijaz in the Arabian Peninsula (what is now known as the
 kingdom of Saudi Arabia) who have been Shia of Imam Ali (AS) from the
 time of Imam Ali till now despite the fact that Hijaz has had the most
 oppressive regimes since the early history of Islam.
-
 

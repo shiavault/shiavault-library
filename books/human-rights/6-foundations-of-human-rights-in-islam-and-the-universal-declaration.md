@@ -215,4 +215,3 @@ conformity with innate human needs - a fact which would give it a
 universal character, because the innate disposition does not differ
 between persons or classes.
 
-

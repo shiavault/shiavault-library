@@ -4,12 +4,8 @@ Chapter 1: Salawat
 The first phrase that frequently gets repeated in the beginning of each
 paragraph is Salawat, and in one paragraph it comes with detail.
 
-<blockquote dir="rtl">
-  <p>
-(اللهم صل علي محمد وال محمد صلاه کثيره تکون لهم رضاولحق محمد وال محمد
-اداء وقضاء)
-  </p>
-</blockquote>
+> (اللهم صل علي محمد وال محمد صلاه کثيره تکون لهم رضاولحق محمد وال محمد
+> اداء وقضاء)
 
 There are some points to be mentioned about these phrases:
 
@@ -19,12 +15,8 @@ The Root And The Foundation Of Salawat
 In the Surah of Ahzab, God Himself and His Angels send salawat on our
 prophet, and the Quran has ordered us to send Salawat as well.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يا أَيُّهَا
-الَّذينَ آمَنُوا صَلُّوا عَلَيْهِ وَ سَلِّمُوا تَسْليما
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يا أَيُّهَا
+> الَّذينَ آمَنُوا صَلُّوا عَلَيْهِ وَ سَلِّمُوا تَسْليما
 
 Allah sends His Salawat (Graces, Honours, Blessings, Mercy, etc.) on the
 Prophet (Muhammad) and also His angels too (ask Allah to bless and
@@ -63,12 +55,8 @@ Ahmad Ibn Davood Al-Qomi passed away in 368 H
 
 > 2)
 
-<blockquote dir="rtl">
-  <p>
--الصلوات و التحيات على أشرف البريات و آله الأئمة السادات‏ منسوب به
-خواجة نصير الدين محمد بن محمد بن الحسن
-  </p>
-</blockquote>
+> -الصلوات و التحيات على أشرف البريات و آله الأئمة السادات‏ منسوب به
+> خواجة نصير الدين محمد بن محمد بن الحسن
 
 > الطوسي المتوفى 672 .
 
@@ -85,11 +73,7 @@ Al-Salawat va Al-Tahyyat by great narrator Feyze Kashani passed away in
 
 4)
 
-<blockquote dir="rtl">
-  <p>
--الصلوات و التحيات‏ تالیف علم الهدى فرزند دانشمندومحقق فيض کاشانی.
-  </p>
-</blockquote>
+> -الصلوات و التحيات‏ تالیف علم الهدى فرزند دانشمندومحقق فيض کاشانی.
 
 Al-Salawat va Al-Tahyyat by Alam Al-Huda the son of Feyze Kashani. In
 this book he has gathered various kind of Salawat that are narrated from
@@ -98,39 +82,23 @@ invented. He also came up with some Salawat that he invented himself.
 
 5)
 
-<blockquote dir="rtl">
-  <p>
-صلوات و فضائل آن‏ فارسي للسيد محمد بن زين العابدين الرضوي المتخلص
-بفنائي.
-  </p>
-</blockquote>
+> صلوات و فضائل آن‏ فارسي للسيد محمد بن زين العابدين الرضوي المتخلص
+> بفنائي.
 
 Salawat and its reward in Persian by Seyed Mohammad Ibn Zeyn Al-Abedin
 Al-razavi with the nickname of Fanayi
 
 6)
 
-<blockquote dir="rtl">
-  <p>
-- الصلوات المنظوم‏
-  </p>
-</blockquote>
+> - الصلوات المنظوم‏
 
-<blockquote dir="rtl">
-  <p>
-تالیف مولى محسن بن المولى سميع بن المولى حسين بن علم الهدى بن المحدث
-الفيض
-  </p>
-</blockquote>
+> تالیف مولى محسن بن المولى سميع بن المولى حسين بن علم الهدى بن المحدث
+> الفيض
 
 Poetry Salawat by Mohsen Ibn Al-Mola Samie Ibn Al-Mola Husayn Ibn Alam
 Al-Huda Ibn Al-Mohadeth Al-Feyz. The poem starts with:
 
-<blockquote dir="rtl">
-  <p>
-رب بحق أحمد سيدنا المقدم مقترب مقرب منتجب و خاتم
-  </p>
-</blockquote>
+> رب بحق أحمد سيدنا المقدم مقترب مقرب منتجب و خاتم
 
 O, lord I swear by the right of Mohammad the master, close to you,
 beloved to you, chosen by you and the last prophet
@@ -142,13 +110,9 @@ Here we narrate some of the Ahadith:
 
 ### Hadith 1
 
-<blockquote dir="rtl">
-  <p>
-الطبرسی بسنده عن أنس بن مالك عن أبي طلحة قال دخلت على النبي ص فلم أره
-أشد استبشارا منه يومئذ و لا أطيب نفسا قلت يا رسول الله ما رأيتك قط
-أطيب نفسا و لا أشد استبشارا منك اليوم
-  </p>
-</blockquote>
+> الطبرسی بسنده عن أنس بن مالك عن أبي طلحة قال دخلت على النبي ص فلم أره
+> أشد استبشارا منه يومئذ و لا أطيب نفسا قلت يا رسول الله ما رأيتك قط
+> أطيب نفسا و لا أشد استبشارا منك اليوم
 
 > فقال: و ما يمنعني و قد خرج آنفا جبرائيل من عندي قال قال الله تعالى :من
 > صلى عليك صلاة صليت بها عليه عشر صلوات و محوت عنه عشر سيئات و كتبت له
@@ -239,13 +203,9 @@ Ibn Majeh” and “Sonan Ibn Mardooyeh and also some Ahadith from “Kaabe
 Ibn Ajareh” that someone asked the prophet: “We know how to say Salam to
 you but how must we send our Salawat on you?
 
-<blockquote dir="rtl">
-  <p>
-فقال رسول الله:" قل اللهم صل علی محمد و ال محمد کما صلیت علی ابراهیم
-انک حمید مجید اللهم بارک علی محمد و ال محمد کما بارکت علی ابراهیم و ال
-ابراهیم انک حمید مجید"
-  </p>
-</blockquote>
+> فقال رسول الله:" قل اللهم صل علی محمد و ال محمد کما صلیت علی ابراهیم
+> انک حمید مجید اللهم بارک علی محمد و ال محمد کما بارکت علی ابراهیم و ال
+> ابراهیم انک حمید مجید"
 
 Prophet answered: “O, Allah send your peace and blessings to Muhammad
 and his Households as you have sent your peace and passage to Abraham
@@ -263,13 +223,9 @@ Ansari”, “Burideh”, “Ibn Masuod”, “Kabe Ibn Ajareh” have also narr
 such Ahadith. Moreover the Commander of the Faithful also narrated same
 hadiths. [^3]
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله: " لا تصلوا على الصلاة البتراء" فقالوا: "و ما الصلاة
-البتراء؟" قال: "تقولون اللهم صل على محمد، و تمسكون، بل قولوا: اللهم صل
-على محمد و آل محمد"
-  </p>
-</blockquote>
+> قال رسول الله: " لا تصلوا على الصلاة البتراء" فقالوا: "و ما الصلاة
+> البتراء؟" قال: "تقولون اللهم صل على محمد، و تمسكون، بل قولوا: اللهم صل
+> على محمد و آل محمد"
 
 Ibn Hajar in the book of Savaaegh narrates, that the Prophet said, “Do
 not send an incomplete Salawat on me.” Some companion asked, what is the
@@ -344,16 +300,12 @@ your lord? And I answered yes you are.[^6]"
 
 Blessing, Dua and purification
 
-<blockquote dir="rtl">
-  <p>
-البحرانی بسنده عن ابن أبي حمزة، قال: سألت أبا عبد الله (عليه السلام)
-عن قول الله عز و جل: إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى
-النَّبِيِّ يا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَ سَلِّمُوا
-تَسْلِيماً، فقال: «الصلاة من الله عز و جل رحمة، و من الملائكة تزكية ،
-و من الناس دعاء، و أما قوله عز و جل: وَ سَلِّمُوا تَسْلِيماً، فإنه
-يعني التسليم له فيما ورد عنه».
-  </p>
-</blockquote>
+> البحرانی بسنده عن ابن أبي حمزة، قال: سألت أبا عبد الله (عليه السلام)
+> عن قول الله عز و جل: إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى
+> النَّبِيِّ يا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَ سَلِّمُوا
+> تَسْلِيماً، فقال: «الصلاة من الله عز و جل رحمة، و من الملائكة تزكية ،
+> و من الناس دعاء، و أما قوله عز و جل: وَ سَلِّمُوا تَسْلِيماً، فإنه
+> يعني التسليم له فيما ورد عنه».
 
 Bahrani narrates with the chain of narration from Ibn Abu Hamzeh. He
 said, “I asked Abu Abde Allah about the verse, “Allah sends His Salawat
@@ -380,5 +332,4 @@ obedient to him” means be obedient to whatever he brought from God.[^7]
 448
 
 [^7]: البرهان 4 ص 448
-
 

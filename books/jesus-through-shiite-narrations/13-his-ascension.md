@@ -325,4 +325,3 @@ supplications are made.
 
 [^25]: Tafsir Al-Qummi, 2, 3-8
 
-

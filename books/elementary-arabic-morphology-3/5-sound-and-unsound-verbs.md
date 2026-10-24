@@ -37,4 +37,3 @@ whose second and third root letters are weak, for example: **شَویَ.**
 weak letters are only considered sound or unsound when the mentioned
 letters are in its root.
 
-

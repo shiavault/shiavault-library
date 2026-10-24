@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-الشَّيْطانُ يَعِدُكُمُ الْفَقْرَ
-  </p>
-</blockquote>
+> الشَّيْطانُ يَعِدُكُمُ الْفَقْرَ
 
 ***“Shaitaan threatens you with poverty”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) has said:
 
-<blockquote dir="rtl">
-  <p>
-تحفة المومن فى الدنيا الفقر
-  </p>
-</blockquote>
+> تحفة المومن فى الدنيا الفقر
 
 ***“Poverty is a Mu'min’s gift in the world”***[^2]
 
@@ -211,5 +203,4 @@ give him so much money that he was left pleased and satisfied.[^8]
 [^7]: Pand-e-Taareekh, vol. 1, pg. 140; Kalimah-e-Tayyibah, pg. 111.
 
 [^8]: Lataaif al-Tawaaif, pg. 371.
-
 

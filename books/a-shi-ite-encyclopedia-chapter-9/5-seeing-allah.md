@@ -433,7 +433,6 @@ means the faith does not leave their hearts on the Day of Judgment."
 The questioner said: "May Allah relieve you, O Commander of the
 Believers, as you relieved me. You, indeed, resolved my problem."
 
-
 - Kitab al-Tawhid, pp 254-267, Hadith \#5
 - Bihar al-Anwar, v90/93, pp 127-140, Hadith \#2
 
@@ -707,5 +706,4 @@ Allah through their eyes, they have fallen into a clear kind of Shirk.
 May Allah grant us knowledge and Taqwa, save us from the Fitna of
 Satan, the accursed. ay Allah hasten the advent of our Imam (AS), and
 quench our thirst through his knowledge and his company.
-
 

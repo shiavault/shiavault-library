@@ -89,11 +89,7 @@ it’.”[^2]
 
 Mu‘awiyah did this heedless of the fact that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«شارب الخمر کعابد وثن.»
-  </p>
-</blockquote>
+> «شارب الخمر کعابد وثن.»
 
 “One who drinks alcohol is the same as one who worships idols.”[^3]
 
@@ -214,11 +210,7 @@ The son of Abu Sufiyan provided this improper verdict even though in the
 Holy Qur’an Allah, the High, clearly prohibits marrying two sisters at
 the same time:
 
-<blockquote dir="rtl">
-  <p>
-وَأَن تَجمَعُوا بَينَ الاُختَين
-  </p>
-</blockquote>
+> وَأَن تَجمَعُوا بَينَ الاُختَين
 
 ***“Forbidden to you…and that you should not have two sisters
 together.”***[^16]
@@ -276,11 +268,7 @@ their hand cut off.
 
 The Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-والسَّارِقُ وَالسَّارِقَة فَاقطَعُوا أَيدِيهُمَا ...
-  </p>
-</blockquote>
+> والسَّارِقُ وَالسَّارِقَة فَاقطَعُوا أَيدِيهُمَا ...
 
 ***“The Man who steals and the woman who steals, cut off their hands for
 what their hands have earned.”***[^21]
@@ -291,11 +279,7 @@ by Allah.
 
 Allah, the Most High, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَمَن يتَعَدَّ حُدُود اللهِ فَقَد ظَلَمَ نَفسَهُ ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَمَن يتَعَدَّ حُدُود اللهِ فَقَد ظَلَمَ نَفسَهُ ... ﴾
 
 ***“And whoever goes beyond the limits of Allah, he indeed does
 injustice to his own soul.”***[^22]
@@ -309,11 +293,7 @@ ibn Abu Sufiyan. Mu‘awiyah said to Miqdam, ‘Do you know that al-Hasan
 ibn ‘Ali has passed away?’ Miqdam quoted the Qur’anic verse that says we
 shall all return to Allah:
 
-<blockquote dir="rtl">
-  <p>
-«إِنّا للهِ وَإِنّا إِلَيهِ راجِعُونَ »
-  </p>
-</blockquote>
+> «إِنّا للهِ وَإِنّا إِلَيهِ راجِعُونَ »
 
 ***“We are from Allah and to whom we shall return.”***
 
@@ -321,11 +301,7 @@ Mu‘awiyah said, ‘Do you think al-Hasan death is a tragedy?’ Miqdam said,
 ‘Why should I not regard it as a tragedy when I know that the Holy
 Prophet used to put al-Hasan on his lap and say,
 
-<blockquote dir="rtl">
-  <p>
-«هذا منّي وحسين من علي.»
-  </p>
-</blockquote>
+> «هذا منّي وحسين من علي.»
 
 “This one is from me and al-Husayn is from ‘Ali’.”
 
@@ -360,11 +336,7 @@ commit adultery.[^24]
 Mu‘awiyah claimed this child for his father paying no heed to the fact
 that the Holy Prophet (S) had said,
 
-<blockquote dir="rtl">
-  <p>
-«الولد للفراش وللعاهر الحجر.»
-  </p>
-</blockquote>
+> «الولد للفراش وللعاهر الحجر.»
 
 “The child belongs to the owner of the bed, and is forbidden to the
 adulterer.”[^25]
@@ -372,23 +344,15 @@ adulterer.”[^25]
 It has been narrated on another authentic chain of transmission that the
 Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«من ادّعی أباً في الاسلام غير أبيه فالجنّة عليه حرام.»
-  </p>
-</blockquote>
+> «من ادّعی أباً في الاسلام غير أبيه فالجنّة عليه حرام.»
 
 “Heaven is forbidden to anyone who falsely claims someone as his
 father.”[^26]
 
 In addition:
 
-<blockquote dir="rtl">
-  <p>
-«ليس من رجل ادّعي بغير ابيه وهو يعلم اِلاّ کفر، ومن ادّعی ما ليس له
-فليس منّا.»
-  </p>
-</blockquote>
+> «ليس من رجل ادّعي بغير ابيه وهو يعلم اِلاّ کفر، ومن ادّعی ما ليس له
+> فليس منّا.»
 
 “Anyone who falsely claims that someone is his father, while he knows
 that it is not true has become an unbeliever [*kafir*] and anyone who
@@ -467,12 +431,8 @@ rising up in arms against the Imam of the Time.
 
 Muslim recounts that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-من خلع يداً من طاعة لقی الله يوم القيامة ولا حجّة له، ومن مات وليس في
-عنقه بيعة مات ميتة جاهلية.
-  </p>
-</blockquote>
+> من خلع يداً من طاعة لقی الله يوم القيامة ولا حجّة له، ومن مات وليس في
+> عنقه بيعة مات ميتة جاهلية.
 
 “A person who quits obeying the Muslim caliph will meet Allah on the Day
 of Judgment having no plea for himself, and anyone who dies without
@@ -769,11 +729,7 @@ Thirdly, when the following verse was revealed, Allah’s Prophet (S)
 called ‘Ali (as), Fatimah (as), al-Hasan (as) and al-Husayn (as). Then,
 he said, ‘O Allah! These people are the ones who belong to me’.”[^51]
 
-<blockquote dir="rtl">
-  <p>
-... فَقَُل تَعالَوا نَدعُ أَبناءَنا وَأَبناءَکُم...
-  </p>
-</blockquote>
+> ... فَقَُل تَعالَوا نَدعُ أَبناءَنا وَأَبناءَکُم...
 
 ***“And whoever disputes with you after what has come to you of the
 knowledge, then say: Come let us call our sons and your sons and our
@@ -855,12 +811,8 @@ used insulting language against ‘Ali (as) in the presence of Ibn ‘Abbas.
 Ibn ‘Abbas said, “O enemy of Allah! You have wronged the Holy Prophet
 (S). Do you not know that Allah has said,
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ يؤذُونَ اللهَ وَرَسُولَهُ لَعَنَهُمُ اللهُ فِي
-الدُّنيا وَالآخِرَةِ وَأَعَدِّ لَهُم عَذَاباً مُهِيناً ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ يؤذُونَ اللهَ وَرَسُولَهُ لَعَنَهُمُ اللهُ فِي
+> الدُّنيا وَالآخِرَةِ وَأَعَدِّ لَهُم عَذَاباً مُهِيناً ﴾
 
 ***‘Surely, as for those who speak evil things of Allah and His Apostle,
 Allah has cursed them in this world and the hereafter, and He has
@@ -876,11 +828,7 @@ protested, saying, ‘O Mu‘awiyah! Do I have to endure the pain of hearing
 them slandering ‘Ali (as) without you showing any indignation at it?
 Verily, I heard Allah’s Prophet (S) saying,
 
-<blockquote dir="rtl">
-  <p>
-«هو منّي بمنزلة هارون من موسى.»
-  </p>
-</blockquote>
+> «هو منّي بمنزلة هارون من موسى.»
 
 ‘Ali is to me what Aaron was to Moses’.”[^62]
 
@@ -910,33 +858,21 @@ The Holy Prophet (S) forbade the cursing ‘Ali (as)
 
 1. The Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«لاتسبّوا علياً؛ فانّه کان ممسوساً في ذات الله عزّ وجلّ.»
-  </p>
-</blockquote>
+> «لاتسبّوا علياً؛ فانّه کان ممسوساً في ذات الله عزّ وجلّ.»
 
 “Do not curse ‘Ali, because he is heedless of any dangers in the way of
 Allah.”[^65]
 
 2. The Holy Prophet (S) also said,
 
-<blockquote dir="rtl">
-  <p>
-«من سبّ علياً فقد سبّني، ومن سبّني فقد سبّ الله تعالی.»
-  </p>
-</blockquote>
+> «من سبّ علياً فقد سبّني، ومن سبّني فقد سبّ الله تعالی.»
 
 “Whoever vilifies ‘Ali has certainly vilified me. And whoever curses me
 has without doubt cursed Allah.”[^66]
 
 3. He also said,
 
-<blockquote dir="rtl">
-  <p>
-«عادی اللهُ من عادی علياً.»
-  </p>
-</blockquote>
+> «عادی اللهُ من عادی علياً.»
 
 “O Allah! Hate anyone who hates ‘Ali.”[^67]
 
@@ -946,11 +882,7 @@ went to see Umm Salamah. She asked me, ‘Do you curse the Holy Prophet
 Allah’, or a similar phrase. Umm Salamah then said, ‘On several
 occasions I heard the Holy Prophet (S) say:
 
-<blockquote dir="rtl">
-  <p>
-«من سبّ علياً فقد سبّني.»
-  </p>
-</blockquote>
+> «من سبّ علياً فقد سبّني.»
 
 ‘Whoever curses ‘Ali has certainly cursed me’.”[^68]
 
@@ -960,22 +892,14 @@ The judgment for anyone who curses Imam ‘Ali (as)
 1. On his own chain of transmission, al-Tirmidhi narrates from Umm
 Salamah that the Holy Prophet (S) always used to say,
 
-<blockquote dir="rtl">
-  <p>
-«لا يحبّ علياً منافقٌ ولا يبغضه مؤمنٌ.»
-  </p>
-</blockquote>
+> «لا يحبّ علياً منافقٌ ولا يبغضه مؤمنٌ.»
 
 “No hypocrite loves ‘Ali, and no believer hates ‘Ali.”[^69]
 
 2. Al-Tirmidhi also recounts that Imam ‘Ali (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«لقد عهد الی النبي الأمي صَلَّی اللهُ عَلَيهِ وآله: انّه لا يحبّك الاّ
-مؤمنٌ، ولا يبغضک الاّ منافقٌ.»
-  </p>
-</blockquote>
+> «لقد عهد الی النبي الأمي صَلَّی اللهُ عَلَيهِ وآله: انّه لا يحبّك الاّ
+> مؤمنٌ، ولا يبغضک الاّ منافقٌ.»
 
 “Verily, the unlettered Prophet (S) gave me a firm promise when he said
 that no one will love you except a true believer; and no one will hate
@@ -986,12 +910,8 @@ Another *hadith* narrated by Muslim confirms the above-mentioned
 
 3. Al-Tirmidhi relates that Abu Sa‘id said,
 
-<blockquote dir="rtl">
-  <p>
-«انّا کنّا لنعرف المنافقين ـ نحن معشر الانصار ـ ببغضهم علي بن ابي
-طالب.»
-  </p>
-</blockquote>
+> «انّا کنّا لنعرف المنافقين ـ نحن معشر الانصار ـ ببغضهم علي بن ابي
+> طالب.»
 
 “Indeed, the Helpers [*ansar*], used to recognize and distinguish who
 the hypocrites were by observing who hated ‘Ali ibn Abi Talib
@@ -1170,5 +1090,4 @@ Hanbal, Al-Musnad, vol. 10, p. 176, hadith 26569.
 [^71]: Muslim, Al-Sahih, vol. 1, p. 86, hadith 78.
 
 [^72]: Al-Tirmidhi, Sunan, vol. 5, p. 635, hadith 3717.
-
 

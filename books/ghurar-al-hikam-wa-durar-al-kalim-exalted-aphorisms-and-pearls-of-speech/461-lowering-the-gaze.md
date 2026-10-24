@@ -44,11 +44,7 @@ harm.
 situations, his life becomes bitter.
 
 > 10ـ مَنْ لَمْ يَتَغافَلْ وَلايَغُضَّ عَنْ كَثير مِنَ الأُمُورِ
-<blockquote dir="rtl">
-  <p>
-تَنَغَّصَتْ عيشَتُهُ.
-  </p>
-</blockquote>
+> تَنَغَّصَتْ عيشَتُهُ.
 
 11. One who frees his gaze occasions (or brings about) his [own]
 destruction.
@@ -75,11 +71,7 @@ destruction.
 blind to the consequence.
 
 > 16ـ إذا أبْصَرَتِ العَيْنُ الشَّهْوَةَ عَمِيَ القَلْبُ عَنِ
-<blockquote dir="rtl">
-  <p>
-العاقِبَةِ.
-  </p>
-</blockquote>
+> العاقِبَةِ.
 
 17. Blessed is the eye that forsakes its sleep in obedience [and
 worship] to Allah.
@@ -104,13 +96,8 @@ do not give it what it seeks thereby letting it occupy you from the
 remembrance of Allah.
 
 > 21ـ لَيْسَ فِي الجَوارِحِ أقَلَّ شُكْراً مِنَ العَيْنِ، فَلاتُعْطُوها
-<blockquote dir="rtl">
-  <p>
-سُؤْلَها فَتَشْغَلَكُمْ عَنْ ذِكْرِ اللّهِ.
-  </p>
-</blockquote>
+> سُؤْلَها فَتَشْغَلَكُمْ عَنْ ذِكْرِ اللّهِ.
 
 [^1]: This could mean: The matter is clear for those whose eyes are open
 to see.
-
 

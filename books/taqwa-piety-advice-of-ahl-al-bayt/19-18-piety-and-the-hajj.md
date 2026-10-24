@@ -554,4 +554,3 @@ Kaaba where he used to stand when he was building the Kaaba.
 
 [^13]: The Fourteen (traditions) of Sheikh Baha’ee, p. 92.
 
-

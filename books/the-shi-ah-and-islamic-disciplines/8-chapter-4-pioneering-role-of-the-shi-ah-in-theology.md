@@ -439,4 +439,3 @@ masters of intellectual sciences. He was handsome during his youth. He
 was a Shi’ah. He died in the year 776. This was quoted from al–Suyuti’s
 *Bughyat al–Wu’at.*
 
-

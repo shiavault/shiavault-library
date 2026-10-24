@@ -91,4 +91,3 @@ Khadija was born with Qalb Saleem or the "sound heart" such as only the
 chosen ones of Allah are born with. It was a heart brimming with deep
 convictions, dedication to Islam, and love for and gratitude to Allah.
 
-

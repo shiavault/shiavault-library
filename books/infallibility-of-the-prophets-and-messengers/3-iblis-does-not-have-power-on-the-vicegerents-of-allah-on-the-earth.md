@@ -238,4 +238,3 @@ Then what was that proof which Yusuf (A) saw and how he saw that? Yusuf
 (A) perceived two effects upon himself. As we shall see in the following
 pages.
 
-

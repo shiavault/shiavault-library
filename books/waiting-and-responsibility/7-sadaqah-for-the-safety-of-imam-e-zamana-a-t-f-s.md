@@ -150,4 +150,3 @@ provide us opportunities so that we can manifest our love towards Imam
 al-Muntazar al-Mahdi (a.s.) by giving alms for his safety and performing
 only those deeds which bring us closer.
 
-

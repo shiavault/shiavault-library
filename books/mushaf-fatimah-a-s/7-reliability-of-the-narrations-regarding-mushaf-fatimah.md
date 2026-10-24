@@ -106,4 +106,3 @@ Najaashi, v.1, p.204-205; and in Rijaal Tusi, p.366.
 [^5]: Kulayni, M. Usul al-Kaafi, v.1, p.241, hadith \#5; also in
 Majlisi, M. Bihaar al-Anwaar, v.26, p.41, hadith \#72.
 
-

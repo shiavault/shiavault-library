@@ -1,20 +1,12 @@
 Right n.1: The Greatest Right of God
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق الله الأكبر
-  </p>
-</blockquote>
+> حق الله الأكبر
 
-<blockquote dir="rtl">
-  <p>
-فأَمَّا حَقُّ اللهِ الأَكْبَرُ فَإنَّكَ تَعْبُدُهُ لا تُشْرِكُ بهِ
-شَيْئاً، فَإذَا فَعَلْتَ ذَلِكَ بإخلاصٍ جَعَلَ لَكَ عَلَى نَفْسِهِ
-أَنْ يَكفِيَكَ أَمْرَ الدُّنْيَا وَالآخِرَةِ وَيَحْفَظَ لَكَ مَا
-تُحِبُّ مِنْهَما.
-  </p>
-</blockquote>
+> فأَمَّا حَقُّ اللهِ الأَكْبَرُ فَإنَّكَ تَعْبُدُهُ لا تُشْرِكُ بهِ
+> شَيْئاً، فَإذَا فَعَلْتَ ذَلِكَ بإخلاصٍ جَعَلَ لَكَ عَلَى نَفْسِهِ
+> أَنْ يَكفِيَكَ أَمْرَ الدُّنْيَا وَالآخِرَةِ وَيَحْفَظَ لَكَ مَا
+> تُحِبُّ مِنْهَما.
 
 **Then the greatest right of God incumbent upon you is that you worship
 Him without associating anything with Him. When you do that with
@@ -28,14 +20,10 @@ Aims of the Prophets
 Certainly one of the major aims of the Prophets was to invite mankind to
 worship God, and fight against paganism:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللّهَ
-وَاجْتَنِبُواْ الطَّاغُوتَ فَمِنْهُم مَّنْ هَدَى اللّهُ وَمِنْهُم
-مَّنْ حَقَّتْ عَلَيْهِ الضَّلالَةُ فَسِيرُواْ فِي الأَرْضِ فَانظُرُواْ
-كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللّهَ
+> وَاجْتَنِبُواْ الطَّاغُوتَ فَمِنْهُم مَّنْ هَدَى اللّهُ وَمِنْهُم
+> مَّنْ حَقَّتْ عَلَيْهِ الضَّلالَةُ فَسِيرُواْ فِي الأَرْضِ فَانظُرُواْ
+> كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
 
 ***“For We assuredly sent amongst every People an apostle, (with the
 Command), "Serve God, and eschew Evil": of the People were some whom God
@@ -55,12 +43,8 @@ Worshipping God and being humble to Him is intrinsic in man’s nature.
 This naturally exists in all men, and has been manifested throughout
 history. The Noble Prophet of Islam said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَوْلُودٍ يُولَدُ عَلَى الفِطْرَةِ فَأَبَوَاهُ يُنَصِّرَانِهِ
-وَيُهَوِّدَانِهِ وَيُمَجِّسَانِه
-  </p>
-</blockquote>
+> كُلُّ مَوْلُودٍ يُولَدُ عَلَى الفِطْرَةِ فَأَبَوَاهُ يُنَصِّرَانِهِ
+> وَيُهَوِّدَانِهِ وَيُمَجِّسَانِه
 
 *“Each baby is born inherently innocent and God-worshipping. It is due
 to his parents that he becomes a Christian, a Jew or a Magian.”*[^2]
@@ -82,13 +66,9 @@ inclined towards the absolute Perfection, Beauty and Knowledge - the One
 that is the source of all perfections. Regarding man’s God-inclined
 nature the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
 
 ***“So set thou thy face steadily and truly to the Faith: (Establish)
 God's handiwork according to the pattern on which He has made mankind:
@@ -106,23 +86,15 @@ following points in the above verse:
 Islam and the one who does so is called a Muslim.  
  Regarding this intrinsic human inclination to God, Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-فَبَعَثَ فِيهِمْ رُسُلَهُ وَوَاتَرَ إِلَيْهِمْ أَنْبِيَاءَهُ
-لِيَسْتَأدُوهُمْ مِيثَاقَ فِطْرَتِهِ.
-  </p>
-</blockquote>
+> فَبَعَثَ فِيهِمْ رُسُلَهُ وَوَاتَرَ إِلَيْهِمْ أَنْبِيَاءَهُ
+> لِيَسْتَأدُوهُمْ مِيثَاقَ فِطْرَتِهِ.
 
 *“Then God appointed His Apostles among them and sent the Prophets one
 after another so that they ask the people to honor their natural divine
 inclinations.”*[^3]  
  In another sermon we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ كَلِمَة الإخْلاصِ فَإنَّها الْفِطْرَةُ.
-  </p>
-</blockquote>
+> وَ كَلِمَة الإخْلاصِ فَإنَّها الْفِطْرَةُ.
 
 *“The statements of Unity and Purity of God are indeed in harmony with
 man’s intrinsic nature.”*[^4]
@@ -179,13 +151,9 @@ The Meaning of Servant in the Qur’an
 There are two meanings for the Arabic word ‘*abd’* meaning servant as
 used in the Holy Qur’an. The Almighty God said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي
-الْقَتْلَى الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالأُنثَى
-بِالأُنثَى
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي
+> الْقَتْلَى الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالأُنثَى
+> بِالأُنثَى
 
 ***“O ye who believe! The law of equality is prescribed to you in cases
 of murder: the free for the free, the slave for the slave, the woman for
@@ -193,11 +161,7 @@ the woman.” [The Holy Qur’an, al-Baqarah 2:178]***
 
 In another verse the Almighty God said:
 
-<blockquote dir="rtl">
-  <p>
-ضَرَبَ اللّهُ مَثَلاً عَبْدًا مَّمْلُوكًا لاَّ يَقْدِرُ عَلَى شَيْءٍ
-  </p>
-</blockquote>
+> ضَرَبَ اللّهُ مَثَلاً عَبْدًا مَّمْلُوكًا لاَّ يَقْدِرُ عَلَى شَيْءٍ
 
 ***“God sets forth the Parable (of two men: one) a slave under the
 dominion of another; he has no power of any sort.” [The Holy Qur’an,
@@ -205,12 +169,8 @@ al-Naĥl 16:75]***
 
 We also note the following verse of the Holy Qur’an that says:
 
-<blockquote dir="rtl">
-  <p>
-إِن كُلُّ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَنِ
-عَبْدًا
-  </p>
-</blockquote>
+> إِن كُلُّ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَنِ
+> عَبْدًا
 
 ***“Not one of the beings in the heavens and the earth but must come to
 (God) Most Gracious as a servant.” [The Holy Qur’an, Maryam 19:93]***
@@ -219,33 +179,21 @@ Servant has been defined to mean man, whether free or a slave.[^7] The
 second meaning of servant is a sincere worshipper of God, as we read in
 the following verses of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبْدًا شَكُورًا
-  </p>
-</blockquote>
+> ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبْدًا شَكُورًا
 
 ***“O ye that are sprung from those whom We carried (in the Ark) with
 Noah! Verily he was a devotee most grateful.” [The Holy Qur’an, Bani
 Isra’il 17:3]***
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الْأقْصا
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الْأقْصا
 
 ***“Glory to (God) Who did take His servant for a Journey by night from
 the Sacred Mosque to the farthest Mosque.”***[^8] ***[The Holy Qur’an,
 Bani Isra’il 17:1]***
 
-<blockquote dir="rtl">
-  <p>
-وَ اذْكُرْ عَبْدَنا أيُّوبَ إذْ نادَى رَبَّةُ أنِّي مَسَّنِىَ
-الشَّيْطانُ بِنُصُبٍ وَ عَذَابٍ
-  </p>
-</blockquote>
+> وَ اذْكُرْ عَبْدَنا أيُّوبَ إذْ نادَى رَبَّةُ أنِّي مَسَّنِىَ
+> الشَّيْطانُ بِنُصُبٍ وَ عَذَابٍ
 
 ***“Commemorate Our Servant Job. Behold, he cried to his Lord: The Evil
 One has afflicted me with distress and suffering!" [The Holy Qur’an, Sad
@@ -257,34 +205,22 @@ servants. There are two forms of obedience to God. One form is obeying
 his decrees regarding what is forbidden and what is legitimate as in the
 following verses:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّنِي أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ
-الصَّلَاةَ لِذِكْرِي
-  </p>
-</blockquote>
+> إِنَّنِي أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ
+> الصَّلَاةَ لِذِكْرِي
 
 ***"Verily, I am God: There is no god but I: So serve thou Me (only),
 and establish regular prayer for celebrating My praise.” [The Holy
 Qur’an, Ta-Ha 20:14]***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
 
 ***“I have only created Jinn and men that they may serve Me.” [The Holy
 Qur’an, al-Dhariyat 51:56]***
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ
-خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى
-وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ
-الْمُبِينُ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ
+> خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى
+> وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ
+> الْمُبِينُ
 
 ***“There are among men some who serve God, as it were, on the verge: if
 good befalls them, they are, therewith, well content; but if a trial
@@ -301,12 +237,8 @@ that all harm or benefit is in the control of God, and none of the
 material powers in the world can bring us any harm or gain. God the
 Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَتَعْبُدُونَ مِن دُونِ اللّهِ مَا لاَ يَمْلِكُ لَكُمْ ضَرًّا
-وَلاَ نَفْعًا وَاللّهُ هُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> قُلْ أَتَعْبُدُونَ مِن دُونِ اللّهِ مَا لاَ يَمْلِكُ لَكُمْ ضَرًّا
+> وَلاَ نَفْعًا وَاللّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 ***Say: "Will ye worship, besides God, something which hath no power
 either to harm or benefit you? But God, - He it is that heareth and
@@ -314,14 +246,10 @@ knoweth all things."[The Holy Qur’an, al-Maida 5:76]***
 
 In another verse He said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا تَعْبُدُونَ مِن دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ
-إِفْكًا إِنَّ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ لَا يَمْلِكُونَ
-لَكُمْ رِزْقًا فَابْتَغُوا عِندَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ
-وَاشْكُرُوا لَهُ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا تَعْبُدُونَ مِن دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ
+> إِفْكًا إِنَّ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ لَا يَمْلِكُونَ
+> لَكُمْ رِزْقًا فَابْتَغُوا عِندَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ
+> وَاشْكُرُوا لَهُ إِلَيْهِ تُرْجَعُونَ
 
 ***"For ye do worship idols besides God, and ye invent falsehood. The
 things that ye worship besides God have no power to give you sustenance:
@@ -330,12 +258,8 @@ Him will be your return.”[The Holy Qur’an, al-‘Ankabut 29:17]***
 
 In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِي خَلَقَكُمْ
-وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِي خَلَقَكُمْ
+> وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***“O people! Adore your Guardian-Lord, who created you and those who
 came before you, that ye may have the chance to learn righteousness.”
@@ -362,12 +286,8 @@ form of gratitude is the proper application of blessings that we are
 given. For example, one way of expressing our gratitude for the eyes is
 looking at the Signs of God and taking heed therefrom:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ انظُرُواْ مَاذَا فِي السَّمَاوَاتِ وَالأَرْضِ وَمَا تُغْنِي
-الآيَاتُ وَالنُّذُرُ عَن قَوْمٍ لاَّ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُلِ انظُرُواْ مَاذَا فِي السَّمَاوَاتِ وَالأَرْضِ وَمَا تُغْنِي
+> الآيَاتُ وَالنُّذُرُ عَن قَوْمٍ لاَّ يُؤْمِنُونَ
 
 ***Say: "Behold all that is in the heavens and on earth"; but neither
 Signs nor Warners profit those who believe not.” [The Holy Qur’an, Yunus
@@ -375,23 +295,15 @@ Signs nor Warners profit those who believe not.” [The Holy Qur’an, Yunus
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-(الأبرارُ) غَضُّوا أَبْصَارَهُمْ عَمّا حَرَّمَ اللهُ عَلَيهِمْ
-وَوَقَفُوا أَسْمَاعَهُمْ عَلى العِلْمِ النَّافِعِ لَهُم.
-  </p>
-</blockquote>
+> (الأبرارُ) غَضُّوا أَبْصَارَهُمْ عَمّا حَرَّمَ اللهُ عَلَيهِمْ
+> وَوَقَفُوا أَسْمَاعَهُمْ عَلى العِلْمِ النَّافِعِ لَهُم.
 
 *“The pious ones close their eyes to the forbidden sights, and dedicate
 their ears to hearing useful knowledge.”*[^9]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-شُكْرُ كُلِّ نِعْمَةٍ الوَرَعُ عَمَّا حَرَّمَ اللهُ.
-  </p>
-</blockquote>
+> شُكْرُ كُلِّ نِعْمَةٍ الوَرَعُ عَمَّا حَرَّمَ اللهُ.
 
 *"Gratitude for each blessing is piety, abstinence and avoiding the
 divinely forbidden things.”*[^10]
@@ -409,13 +321,9 @@ care about the way their workers perform their duties and do not thank
 them, they will be discouraged and might even not do their basic duties.
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَكُونَنَّ الْمُحْسِنُ وَالمُسِيءُ عِنْدَكَ بِمَنـزِلَةٍ سَواءٍ،
-فَإنَّ فِي ذٰلِكَ تَزْهِيداً لإهْلِ الإحْسانِ فِي الإحْسانِ،
-وَتَدْرِيباً لإهْلِ الإساءَةِ عَلَى الإساءَةِ.
-  </p>
-</blockquote>
+> وَلا يَكُونَنَّ الْمُحْسِنُ وَالمُسِيءُ عِنْدَكَ بِمَنـزِلَةٍ سَواءٍ،
+> فَإنَّ فِي ذٰلِكَ تَزْهِيداً لإهْلِ الإحْسانِ فِي الإحْسانِ،
+> وَتَدْرِيباً لإهْلِ الإساءَةِ عَلَى الإساءَةِ.
 
 *“Do not let the good-doers and the wrongdoers have an equal station
 before you, since this will make the good-doers abstain from good deeds
@@ -423,12 +331,8 @@ and accustom the wrongdoers to sinning.”*[^11]
 
 Regarding this issue the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ مَا لَكُمْ كَيْفَ
-تَحْكُمُونَ
-  </p>
-</blockquote>
+> أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ مَا لَكُمْ كَيْفَ
+> تَحْكُمُونَ
 
 ***“Shall We then treat the People of Faith like the People of Sin? What
 is the matter with you? How judge ye?” [The Holy Qur’an, al-Qalam
@@ -451,35 +355,23 @@ the blessing
 
 Imam Sadiq said the following regarding the recognition of blessings:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَنْعَمَ اللهُ عَلَيْهِ نِعْمَةً فَعَرَفَهَا بِقَلْبِهِ فَقَدْ
-أَدَّى شُكْرَهَا.
-  </p>
-</blockquote>
+> مَنْ أَنْعَمَ اللهُ عَلَيْهِ نِعْمَةً فَعَرَفَهَا بِقَلْبِهِ فَقَدْ
+> أَدَّى شُكْرَهَا.
 
 *“Whoever recognizes that something he received is a blessing from God
 has indeed expressed his gratitude.”*[^12]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَدْنَى الشُّكْرِ رُؤْيَةُ النِّعْمَةِ مِنَ اللهِ.
-  </p>
-</blockquote>
+> وَأَدْنَى الشُّكْرِ رُؤْيَةُ النِّعْمَةِ مِنَ اللهِ.
 
 *“The lowest level of gratitude is to recognize that God is the source
 of the blessings that we receive.”*[^13]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-الثَّنَاءُ بِأَكْثَرَ مِنَ الإسْتِحْقَاقِ مَلَقٌ، وَالتَّقْصِيرُ عَنِ
-الإسْتِحْقَاقِ عِيٌّ أوْ حَسَدٌ
-  </p>
-</blockquote>
+> الثَّنَاءُ بِأَكْثَرَ مِنَ الإسْتِحْقَاقِ مَلَقٌ، وَالتَّقْصِيرُ عَنِ
+> الإسْتِحْقَاقِ عِيٌّ أوْ حَسَدٌ
 
 *“Praising someone more than he deserves is flattery, and falling short
 in praising someone as he deserves is (a result of) the inability to
@@ -489,22 +381,14 @@ We mentioned that God considers our being thankful for His blessings to
 be a form of worshipping. The following verses of the Holy Qur’an point
 this out:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ كُلُواْ مِن طَيِّبَاتِ مَا
-رَزَقْنَاكُمْ وَاشْكُرُواْ لِلّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ كُلُواْ مِن طَيِّبَاتِ مَا
+> رَزَقْنَاكُمْ وَاشْكُرُواْ لِلّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 
 ***“O ye who believe! Eat of the good things that We have provided for
 you, and be grateful to God, if it is Him ye worship.” [The Holy Qur’an,
 al-Baqarah 2:172]***
 
-<blockquote dir="rtl">
-  <p>
-بَلِ اللَّهَ فَاعْبُدْ وَكُن مِّنْ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> بَلِ اللَّهَ فَاعْبُدْ وَكُن مِّنْ الشَّاكِرِينَ
 
 ***“Nay, but worship God, and be of those who give thanks.”[The Holy
 Qur’an, al-Zumar 39:66]***
@@ -512,13 +396,9 @@ Qur’an, al-Zumar 39:66]***
 Great divine men have been grateful to God because of His blessings. The
 Almighty God said:
 
-<blockquote dir="rtl">
-  <p>
-لِتَسْتَوُوا عَلَى ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا
-اسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا سُبْحانَ الَّذِي سَخَّرَ لَنَا
-هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ
-  </p>
-</blockquote>
+> لِتَسْتَوُوا عَلَى ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا
+> اسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا سُبْحانَ الَّذِي سَخَّرَ لَنَا
+> هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ
 
 ***“In order that ye may sit firm and square on their backs, and when so
 seated, ye may celebrate the (kind) favor of your Lord, and say, "Glory
@@ -529,14 +409,10 @@ accomplished this (by ourselves).” [The Holy Qur’an, al-Zukhruf
 Solomon expresses his gratitude for God’s blessings as we read in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ
-أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ
-وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي
-عِبَادِكَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ
+> أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ
+> وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي
+> عِبَادِكَ الصَّالِحِينَ
 
 ***“So he smiled, amused at her speech; and he said: "O my Lord! So
 order me that I may be grateful for Thy favors, which thou hast bestowed
@@ -550,12 +426,8 @@ Another deed that is considered to be worshipping God is working in
 order to earn a living legitimately so that one does not become needy of
 others. In this regard, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن
-فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيراً لَّعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن
+> فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيراً لَّعَلَّكُمْ تُفْلِحُونَ
 
 ***“And when the Prayer is finished, then may ye disperse through the
 land, and seek of the Bounty of God: and celebrate the Praises of God
@@ -566,24 +438,16 @@ This verse implies that we can go to work even after the congregational
 Friday prayers. Even the Prophet went to the bazaar after the
 prayers.[^15] Imam Baqir quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-العِبَادَةُ سَبْعُونَ جُزْءاً أَفْضَلُهَا طَلَبُ الحَلالِ.
-  </p>
-</blockquote>
+> العِبَادَةُ سَبْعُونَ جُزْءاً أَفْضَلُهَا طَلَبُ الحَلالِ.
 
 *“There are seventy parts in worshipping, the most excellent of which is
 seeking to earn a legitimate income.”*[^16]
 
 Abu Hamzeh quoted the following on the authority of Imam Baqir :
 
-<blockquote dir="rtl">
-  <p>
-مَنْ طَلَبَ الدُّنْيَا اسْتِعْفَافاً عَنِ النَّاسِ وَسَعْياً عَلَى
-أَهْلِهِ وَتَعَطُّفاً عَلَى جَارِهِ لَقِيَ اللهَ عَزَّ وَجَلَّ يَوْمَ
-القِيَامَةِ وَوَجْهُهُ مِثْلَ القَمَرِ لَيْلَةَ البَدْرِ.
-  </p>
-</blockquote>
+> مَنْ طَلَبَ الدُّنْيَا اسْتِعْفَافاً عَنِ النَّاسِ وَسَعْياً عَلَى
+> أَهْلِهِ وَتَعَطُّفاً عَلَى جَارِهِ لَقِيَ اللهَ عَزَّ وَجَلَّ يَوْمَ
+> القِيَامَةِ وَوَجْهُهُ مِثْلَ القَمَرِ لَيْلَةَ البَدْرِ.
 
 *“Whoever strives hard in order to earn a living for his family, to be
 independent of others, to help his neighbors and save his honor will
@@ -630,12 +494,8 @@ Muhammad ibn Ali ibn Al-Husayn quoted on the authority of Fuzayl ibn
 Yasar that he told Imam Sadiq : “O’ Grandson of the Prophet! I have quit
 working.” Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَفْعَل ذَلِكَ! افْتَحْ بَابَكَ وَأَبْسِطْ رِزْقَكَ وَاسْتَرْزِقِ
-اللهَ رَبَّكَ.
-  </p>
-</blockquote>
+> لا تَفْعَل ذَلِكَ! افْتَحْ بَابَكَ وَأَبْسِطْ رِزْقَكَ وَاسْتَرْزِقِ
+> اللهَ رَبَّكَ.
 
 *“Do not do that! Open your shop’s doors and seek your sustenance from
 God—your Lord.”*[^22]
@@ -645,13 +505,9 @@ God—your Lord.”*[^22]
 Ruh ibn Abd al-Rahim quoted on the authority of Imam Sadiq regarding the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَّا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَن ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلَاةِ وَإِيتَاء الزَّكَاةِ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
-  </p>
-</blockquote>
+> رِجَالٌ لَّا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَن ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلَاةِ وَإِيتَاء الزَّكَاةِ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
 
 ***“By men whom neither traffic nor merchandise can divert from the
 Remembrance of God, nor from regular Prayer, nor from the practice of
@@ -659,13 +515,9 @@ regular Charity: Their (only) fear is for the Day when hearts and eyes
 will be transformed (in a world wholly new).” [The Holy Qur’an, al-Nur
 24:37]***
 
-<blockquote dir="rtl">
-  <p>
-)قَالَ) كَانُوا أصْحابَ تِجارَةٍ فَإذَا حَضَرَتِ الصَّلاةُ تَرَكُوا
-التِّجَارَةَ وَانْطَلَقُوا إلى الصَّلاةِ وَهُمْ أَعْظَمُ أَجْراً
-مِمَّنْ لمَ يَتَّجِرْ.
-  </p>
-</blockquote>
+> )قَالَ) كَانُوا أصْحابَ تِجارَةٍ فَإذَا حَضَرَتِ الصَّلاةُ تَرَكُوا
+> التِّجَارَةَ وَانْطَلَقُوا إلى الصَّلاةِ وَهُمْ أَعْظَمُ أَجْراً
+> مِمَّنْ لمَ يَتَّجِرْ.
 
 *“This verse is about people who did business, but stopped doing
 business whenever it was time to pray. These people will receive a
@@ -679,11 +531,7 @@ worshipping is of no value if one does not work. One must have a
 reasonable financial condition before he can sincerely attend to his
 worshipping. The Commander of the Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَجَدَ مَاءً وَتُراباً ثُمَّ افْتَقَرَ فَأَبْعَدَهُ اللهُ.
-  </p>
-</blockquote>
+> مَنْ وَجَدَ مَاءً وَتُراباً ثُمَّ افْتَقَرَ فَأَبْعَدَهُ اللهُ.
 
 *“If one has land and water but he is poor, God will deprive him of His
 Mercy.”*[^24]
@@ -704,12 +552,8 @@ hardships that we face which we cannot overcome by ourselves. Sometimes
 we need to rely on something or someone. The best One to rely on is God.
 Prayers and supplications are the means to approach God. He says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***And your Lord says: "Call on Me; I will answer your (Prayer): but
 those who are too arrogant to serve Me will surely find themselves in
@@ -719,13 +563,9 @@ We see that God likes us to pray and call on Him. God has promised to
 answer. This answering is conditional. Prayer is itself a form of
 worship as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي
-لَعَلَّهُمْ يَرْشُدُونَ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي
+> لَعَلَّهُمْ يَرْشُدُونَ
 
 ***“When My servants ask thee concerning Me, I am indeed close (to
 them): I listen to the prayer of every suppliant when he calleth on Me:
@@ -755,12 +595,8 @@ God has given him the blessings that he has. However, whenever he faces
 calamities and sees himself stuck with many problems, he turns to God.
 The Almighty God said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاء عَرِيضٍ
-  </p>
-</blockquote>
+> وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاء عَرِيضٍ
 
 ***“When We bestow favors on man, he turns away, and gets himself remote
 on his side (instead of coming to Us); and when evil seizes him, (he
@@ -770,25 +606,17 @@ comes) full of prolonged prayer!” [The Holy Qur’an, Ha-Mim 41:51]***
 
 There is a tradition from the Prophet Muhammad that says:
 
-<blockquote dir="rtl">
-  <p>
-الدُّعَاءُ هُوَ العِبَادَةُ.
-  </p>
-</blockquote>
+> الدُّعَاءُ هُوَ العِبَادَةُ.
 
 *“Supplication is a form of worship.”*[^26]
 
 In another tradition, Imam Sadiq was asked:
 
-<blockquote dir="rtl">
-  <p>
-مَا تَقُولُ في رَجُلَينِ دَخَلا المَسْجِدَ جَميعاً كَانَ أَحَدُهُما
-أكْثَرَ صَلاةً وَالآخَرُ دُعَاءً، أَيُّهُمَا أَفْضَلُ؟ قَالَ: «كُلٌّ
-حَسَنٌ.» قَالَ: «قَدْ عَلِمْتُ، وَلَكِنْ أَيُّهُمَا أَفْضَلُ؟» قَالَ:
-«أكْثَرُهُمَا دُعَاءً. أَمَا تَسْمَعُ قَوْلَ اللهِ تَعَالى: "اُدْعُوني
-أسْتَجِبْ لَكُمْ" » وَقَالَ: «هِي العِبادَةُ الكُبرَى. »
-  </p>
-</blockquote>
+> مَا تَقُولُ في رَجُلَينِ دَخَلا المَسْجِدَ جَميعاً كَانَ أَحَدُهُما
+> أكْثَرَ صَلاةً وَالآخَرُ دُعَاءً، أَيُّهُمَا أَفْضَلُ؟ قَالَ: «كُلٌّ
+> حَسَنٌ.» قَالَ: «قَدْ عَلِمْتُ، وَلَكِنْ أَيُّهُمَا أَفْضَلُ؟» قَالَ:
+> «أكْثَرُهُمَا دُعَاءً. أَمَا تَسْمَعُ قَوْلَ اللهِ تَعَالى: "اُدْعُوني
+> أسْتَجِبْ لَكُمْ" » وَقَالَ: «هِي العِبادَةُ الكُبرَى. »
 
 *“If two people enter a mosque, and one says more prayers and the other
 one says more supplications which one is better than the other?” The
@@ -804,13 +632,9 @@ Islam considers any looking that results in taking heed or acquiring
 knowledge and recognition for man to be a form of worshipping. Imam Ali
 said:
 
-<blockquote dir="rtl">
-  <p>
-النَّظَرُ إلى العَالمِ عِبادَةٌ والنَّظَرُ إلى الإمَامِ المُقْسِطِ
-عِبَادَةٌ وَالنَّظَرُ إلى الوَالِدَينِ بِرَأفَةٍ وَرَحمَةٍ عِبادَةٌ
-وَالنَّظَرُ إلى الأخِ يَوَدُّهُ في اللهِ عَزَّ وَجَلَّ عِبادَةٌ.
-  </p>
-</blockquote>
+> النَّظَرُ إلى العَالمِ عِبادَةٌ والنَّظَرُ إلى الإمَامِ المُقْسِطِ
+> عِبَادَةٌ وَالنَّظَرُ إلى الوَالِدَينِ بِرَأفَةٍ وَرَحمَةٍ عِبادَةٌ
+> وَالنَّظَرُ إلى الأخِ يَوَدُّهُ في اللهِ عَزَّ وَجَلَّ عِبادَةٌ.
 
 *“Looking at a scholar or a just leader, and kindly looking at one’s
 parents are considered to be various forms of worshipping God. Also
@@ -833,14 +657,10 @@ are in trouble and need Him.
 
 The Almighty God said:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ
-خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى
-وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ
-الْمُبِينُ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ
+> خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى
+> وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ
+> الْمُبِينُ
 
 ***“There are among men some who serve God, as it were, on the verge: if
 good befalls them, they are, therewith, well content; but if a trial
@@ -866,15 +686,11 @@ Muhammad ibn Yahya quoted on the authority of Ahmad ibn Muhammad ibn Isa
 on the authority of two other people on the authority of Imam Baqir on
 the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-ألا إنَّ لِكُلِّ عِبادَةٍ شِرَّةً ثُمَّ تَصِيرُ إلى فَتْرَةٍ، فَمَن
-صَارَتْ شِرَّةُ عِبَادَتِهِ إلى سُنَّتِي فَقَدِ اهْتَدَى، وَمَنْ
-خَالَفَ سُنَّتِي فَقَدْ ضَلَّ وَكَانَ عَمَلُهُ فِي تَبَابٍ. أمَا إنِّي
-أُصَلِّي وَأَنامُ وَأصُومُ وَأُفْطِرُ وَأَضْحَكُ وَأَبْكِي. فَمَنْ
-رَغِبَ عَن مِنْهاجِي وَسُنَّتي فَلَيْسَ مِنيّ.
-  </p>
-</blockquote>
+> ألا إنَّ لِكُلِّ عِبادَةٍ شِرَّةً ثُمَّ تَصِيرُ إلى فَتْرَةٍ، فَمَن
+> صَارَتْ شِرَّةُ عِبَادَتِهِ إلى سُنَّتِي فَقَدِ اهْتَدَى، وَمَنْ
+> خَالَفَ سُنَّتِي فَقَدْ ضَلَّ وَكَانَ عَمَلُهُ فِي تَبَابٍ. أمَا إنِّي
+> أُصَلِّي وَأَنامُ وَأصُومُ وَأُفْطِرُ وَأَضْحَكُ وَأَبْكِي. فَمَنْ
+> رَغِبَ عَن مِنْهاجِي وَسُنَّتي فَلَيْسَ مِنيّ.
 
 *“Indeed there is an eagerness for every worship, which then turns to
 lassitude. So one whose eagerness in worship leads to my Sunnah, he is
@@ -885,24 +701,16 @@ me.”*[^30]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-وقال: كَفَى بِالمَوتِ مَوعِظَةٌ وَكَفى بِاليَقِينِ غِنىً وكَفَى
-بِالعِبادَةِ شُغلاً.
-  </p>
-</blockquote>
+> وقال: كَفَى بِالمَوتِ مَوعِظَةٌ وَكَفى بِاليَقِينِ غِنىً وكَفَى
+> بِالعِبادَةِ شُغلاً.
 
 *“Death is the best admonition, certitude is the best wealth, and God's
 worship is the best occupation.”*
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ أَحَدٌ شِرَّةٌ وَلِكُلِّ شِرَّةٌ فَتْرَةٌ، فَطُوبَى لِمَن
-كَانَتْ فَتْرَتُهُ إلى خَيْرٍ.
-  </p>
-</blockquote>
+> لِكُلِّ أَحَدٌ شِرَّةٌ وَلِكُلِّ شِرَّةٌ فَتْرَةٌ، فَطُوبَى لِمَن
+> كَانَتْ فَتْرَتُهُ إلى خَيْرٍ.
 
 *“Each person has some eagerness. For each instance of eagerness, there
 is also some sluggishness. How prosperous are those who are inclined
@@ -910,11 +718,7 @@ towards the good even in their times of sluggishness.”*[^31]
 
 Hafs ibn Bakhtari quoted Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-لا تُكْرِهُوا إلى أَنْفُسِكُمُ العِبادَةَ.
-  </p>
-</blockquote>
+> لا تُكْرِهُوا إلى أَنْفُسِكُمُ العِبادَةَ.
 
 *“Do not force yourselves to worship God (when you are tired or
 unwilling to do so).”*[^32]
@@ -931,15 +735,11 @@ are instructed by the Prophet to avoid worshipping God when we are
 tired. Amr ibn Jamia quoted on the authority of Imam Sadiq on the
 authority of God’s Prophet:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ، إنَّ هَذا الدِّينَ مَتِينٌ فَأَوْغِلْ فِيهِ بِرِفْقٍ وَلا
-تُبَغِّضْ إلى نَفْسِكَ عِبَادَةَ رَبِّكَ فَإنَّ المُنْبَتَّ – يعني
-المُفْرِط – لا ظَهراً أبْقَى وَلا أرْضاً قَطَعَ. فَأعْمَلْ عَمَلَ مَنْ
-يَرْجُو أنْ يَمُوتَ هَرِماً وَاحْذَرْ حَذَرَ مَنْ يَتَخَوَّفُ أنْ
-يَمُوتَ غَداً.
-  </p>
-</blockquote>
+> يَا عَلِيُّ، إنَّ هَذا الدِّينَ مَتِينٌ فَأَوْغِلْ فِيهِ بِرِفْقٍ وَلا
+> تُبَغِّضْ إلى نَفْسِكَ عِبَادَةَ رَبِّكَ فَإنَّ المُنْبَتَّ – يعني
+> المُفْرِط – لا ظَهراً أبْقَى وَلا أرْضاً قَطَعَ. فَأعْمَلْ عَمَلَ مَنْ
+> يَرْجُو أنْ يَمُوتَ هَرِماً وَاحْذَرْ حَذَرَ مَنْ يَتَخَوَّفُ أنْ
+> يَمُوتَ غَداً.
 
 *“O Ali! This religion is strong; therefore enter into it with
 gentleness. Do not make the worship of your Lord hateful for yourself,
@@ -951,14 +751,10 @@ die tomorrow.”*[^33]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَرَّ بِي أَبِي وَأنَا بِالطَّوَافِّ وَأنا حَدَثٌ وَقَدِ اجْتَهَدْتُ
-في العِبَادَةِ فَرَآني وَأنَا أَتَصَبَّبُ عَرَقاً فَقَالَ لي: يَا
-جَعْفَرُ يا بُنَيَّ! إنَّ اللهَ إذا أَحَبَّ عَبْداً أدْخَلَهُ
-الجَنَّةَ وَرَضِيَ عَنْهُ بِاليَسِيرِ.
-  </p>
-</blockquote>
+> مَرَّ بِي أَبِي وَأنَا بِالطَّوَافِّ وَأنا حَدَثٌ وَقَدِ اجْتَهَدْتُ
+> في العِبَادَةِ فَرَآني وَأنَا أَتَصَبَّبُ عَرَقاً فَقَالَ لي: يَا
+> جَعْفَرُ يا بُنَيَّ! إنَّ اللهَ إذا أَحَبَّ عَبْداً أدْخَلَهُ
+> الجَنَّةَ وَرَضِيَ عَنْهُ بِاليَسِيرِ.
 
 *“Once when I was very young and was circumambulating the Holy House of
 God my father passed by and looked at me. When he saw that I was making
@@ -979,13 +775,9 @@ materialists from monotheists. A study of the verses of the Holy Qur’an
 clearly shows us that there is no power equal to God, and God is the
 cause of all things.
 
-<blockquote dir="rtl">
-  <p>
-أَمَّن يَهْدِيكُمْ فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ وَمَن يُرْسِلُ
-الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ أَإِلَهٌ مَّعَ اللَّهِ
-تَعَالَى اللَّهُ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> أَمَّن يَهْدِيكُمْ فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ وَمَن يُرْسِلُ
+> الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ أَإِلَهٌ مَّعَ اللَّهِ
+> تَعَالَى اللَّهُ عَمَّا يُشْرِكُونَ
 
 ***“Or, Who guides you through the depths of darkness on land and sea,
 and Who sends the winds as heralds of glad tidings, going before His
@@ -994,12 +786,8 @@ they associate with Him!” [The Holy Qur’an, al-Naml 27:63]***
 
 In another verse of the Holy Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا وَيَنشُرُ
-رَحْمَتَهُ وَهُوَ الْوَلِيُّ الْحَمِيدُ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا وَيَنشُرُ
+> رَحْمَتَهُ وَهُوَ الْوَلِيُّ الْحَمِيدُ
 
 ***“He is the One that sends down rain (even) after (men) have given up
 all hope, and scatters His Mercy (far and wide). And He is the
@@ -1008,13 +796,9 @@ Protector, Worthy of all Praise.” [The Holy Qur’an, al-Shura 42:28]***
 Regarding those who have not attained certitude and sincerity in their
 beliefs, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُم مُّنِيبِينَ إِلَيْهِ
-ثُمَّ إِذَا أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌ مِّنْهُم
-بِرَبِّهِمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُم مُّنِيبِينَ إِلَيْهِ
+> ثُمَّ إِذَا أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌ مِّنْهُم
+> بِرَبِّهِمْ يُشْرِكُونَ
 
 ***“When trouble touches men, they cry to their Lord, turning back to
 Him in repentance: but when He gives them a taste of Mercy as from
@@ -1023,12 +807,8 @@ their Lord.” [The Holy Qur’an, al-Rum 30:33]***
 
 Moreover, in another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
-الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
+> الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
 
 ***“Now, if they embark on a boat, they call on God, making their
 devotion sincerely (and exclusively) to Him; but when He has delivered
@@ -1037,12 +817,8 @@ to others)!” [The Holy Qur’an, al-Ankabut 29:65]***
 
 In addition, we read:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ
-تُشْرِكُونَ
-  </p>
-</blockquote>
+> قُلِ اللّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ
+> تُشْرِكُونَ
 
 ***Say "It is God that delivereth you from these and all (other)
 distresses: and yet ye worship false gods!" [The Holy Qur’an, al-An’am
@@ -1062,15 +838,11 @@ At the time of the revelation of the Holy Qur’an, the Christians
 considered Jesus to be the Lord. The Qur’an rejects this and considers
 this a blasphemy as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَفَرَ الَّذِينَ قالُوا إنَّ اللهَ هُوَ الْمَسِيحُ ابْنُ
-مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ اللهِ شَياً إنْ أرادَ أن يُهْلِكَ
-الْمَسِيحَ ابْنَ مَرْيَمَ وَ اُمُّهُ وَ مَن في الأرضِ جَمِيْعاً و للهِ
-مُلْكُ السَّمَواتِ وَ الارضِ وَ ما بَيْنَهُما يَخْلُقُ مَا يَشآءُ وَ
-اللهُ علَى كُلِّ شَيءٍ قَديرٌ
-  </p>
-</blockquote>
+> لَقَدْ كَفَرَ الَّذِينَ قالُوا إنَّ اللهَ هُوَ الْمَسِيحُ ابْنُ
+> مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ اللهِ شَياً إنْ أرادَ أن يُهْلِكَ
+> الْمَسِيحَ ابْنَ مَرْيَمَ وَ اُمُّهُ وَ مَن في الأرضِ جَمِيْعاً و للهِ
+> مُلْكُ السَّمَواتِ وَ الارضِ وَ ما بَيْنَهُما يَخْلُقُ مَا يَشآءُ وَ
+> اللهُ علَى كُلِّ شَيءٍ قَديرٌ
 
 ***In blasphemy indeed are those that say that God is Christ the son of
 Mary. Say: "Who then hath the least power against God, if His will were
@@ -1081,13 +853,9 @@ God hath power over all things." [The Holy Qur’an, al-Maida 5:17]***
 
 In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ كَفَرَ الَّذِينَ قَالُواْ إِنَّ اللّهَ ثَالِثُ ثَلاَثَةٍ وَمَا
-مِنْ إِلَـهٍ إِلاَّ إِلَـهٌ وَاحِدٌ وَإِن لَّمْ يَنتَهُواْ عَمَّا
-يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُواْ مِنْهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> لَّقَدْ كَفَرَ الَّذِينَ قَالُواْ إِنَّ اللّهَ ثَالِثُ ثَلاَثَةٍ وَمَا
+> مِنْ إِلَـهٍ إِلاَّ إِلَـهٌ وَاحِدٌ وَإِن لَّمْ يَنتَهُواْ عَمَّا
+> يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُواْ مِنْهُمْ عَذَابٌ أَلِيمٌ
 
 ***They do blaspheme who say: God is one of three in a Trinity: for
 there is no god except One God. If they desist not from their word (of
@@ -1103,13 +871,9 @@ his mother Mary both needed to eat food in order to stay alive is
 stressed in order to indicate their being human beings no different from
 other Prophets.
 
-<blockquote dir="rtl">
-  <p>
-مَّا الْمَسِيحُ ابْنُ مَرْيَمَ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ
-الرُّسُلُ وَأُمُّهُ صِدِّيقَةٌ كَانَا يَأْكُلاَنِ الطَّعَامَ انظُرْ
-كَيْفَ نُبَيِّنُ لَهُمُ الآيَاتِ ثُمَّ انظُرْ أَنَّى يُؤْفَكُونَ
-  </p>
-</blockquote>
+> مَّا الْمَسِيحُ ابْنُ مَرْيَمَ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ
+> الرُّسُلُ وَأُمُّهُ صِدِّيقَةٌ كَانَا يَأْكُلاَنِ الطَّعَامَ انظُرْ
+> كَيْفَ نُبَيِّنُ لَهُمُ الآيَاتِ ثُمَّ انظُرْ أَنَّى يُؤْفَكُونَ
 
 ***“Christ the son of Mary was no more than an apostle; many were the
 apostles that passed away before him. His mother was a woman of truth.
@@ -1123,12 +887,8 @@ of the One and Only God. In the following verse, the Holy Qur’an
 stresses that what they have stressed to worship is only servants of God
 who worship God themselves.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللّهِ عِبَادٌ أَمْثَالُكُمْ
-فَادْعُوهُمْ فَلْيَسْتَجِيبُواْ لَكُمْ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللّهِ عِبَادٌ أَمْثَالُكُمْ
+> فَادْعُوهُمْ فَلْيَسْتَجِيبُواْ لَكُمْ إِن كُنتُمْ صَادِقِينَ
 
 ***“Verily those whom ye call upon besides God are servants like unto
 you: Call upon them, and let them listen to your prayer, if ye are
@@ -1136,13 +896,9 @@ you: Call upon them, and let them listen to your prayer, if ye are
 
 We also read the following verses in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَدْعُونَ مِن دُونِهِ لاَ يَسْتَطِيعُونَ نَصْرَكُمْ وَلا
-أَنفُسَهُمْ يَنْصُرُونَ وَإِن تَدْعُوهُمْ إِلَى الْهُدَى لاَ
-يَسْمَعُواْ وَتَرَاهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لاَ يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَدْعُونَ مِن دُونِهِ لاَ يَسْتَطِيعُونَ نَصْرَكُمْ وَلا
+> أَنفُسَهُمْ يَنْصُرُونَ وَإِن تَدْعُوهُمْ إِلَى الْهُدَى لاَ
+> يَسْمَعُواْ وَتَرَاهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لاَ يُبْصِرُونَ
 
 ***"But those ye call upon besides Him, are unable to help you, and
 indeed to help themselves. If thou callest them to guidance, they hear
@@ -1153,14 +909,10 @@ The Qur’an addresses the People of the Book, and stresses the major
 belief in all religions to be in the Unity of God as we read in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
-وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
-وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ فَإِن
-تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
+> وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
+> وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ فَإِن
+> تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ
 
 ***“Say: "O People of the Book! Come to common terms as between us and
 you: That we worship none but God; that we associate no partners with
@@ -1176,14 +928,10 @@ Blasphemy in Worshipping
 
 The same is stressed regarding the worshipping of God:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا
-إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَمَن كَانَ يَرْجُو لِقَاء رَبِّهِ
-فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ
-أَحَدًا
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا
+> إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَمَن كَانَ يَرْجُو لِقَاء رَبِّهِ
+> فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ
+> أَحَدًا
 
 ***Say: "I am but a man like yourselves, (but) the inspiration has come
 to me, that your God is one God: whoever expects to meet his Lord, let
@@ -1192,17 +940,13 @@ partner.” [The Holy Qur’an, al-Kahf 18:110]***
 
 Abi al-Jarood quoted on the authority of Imam Baqir :
 
-<blockquote dir="rtl">
-  <p>
-سئل رسول الله صلى الله عليه وآله عن تفسير قول الله عز وجل: "فَمَنْ
-كانَ يَرْجُوا لِقَآءَ رَبِّهِ..". فَقالَ: «مَنْ صَلَّى مُرَاءاةَ
-النَّاسِ فَهُوَ مُشْرِكٌ. وَمَنْ زَكَّى مُرَاءاةَ النَّاسِ فَهُوَ
-مُشْرِكٌ. وَمَنْ صَامَ مُرَاءاةَ النَّاسِ فَهُوَ مُشْرِكٌ. وَمَنْ
-حَجَّ مُرَاءاةَ النَّاسِ فَهُوَ مُشْرِكٌ. وَمَنْ عَمِلَ عَمَلاً بِمَا
-أَمَرَهُ اللهُ عَزَّ وَجَلَّ مُرَاءاةَ النَّاسِ فَهُوَ مُشْرِكٌ. وَلا
-يَقْبَلُ اللهُ عَزَّ وَجَلَّ عَمَلَ مُراءٍ.»
-  </p>
-</blockquote>
+> سئل رسول الله صلى الله عليه وآله عن تفسير قول الله عز وجل: "فَمَنْ
+> كانَ يَرْجُوا لِقَآءَ رَبِّهِ..". فَقالَ: «مَنْ صَلَّى مُرَاءاةَ
+> النَّاسِ فَهُوَ مُشْرِكٌ. وَمَنْ زَكَّى مُرَاءاةَ النَّاسِ فَهُوَ
+> مُشْرِكٌ. وَمَنْ صَامَ مُرَاءاةَ النَّاسِ فَهُوَ مُشْرِكٌ. وَمَنْ
+> حَجَّ مُرَاءاةَ النَّاسِ فَهُوَ مُشْرِكٌ. وَمَنْ عَمِلَ عَمَلاً بِمَا
+> أَمَرَهُ اللهُ عَزَّ وَجَلَّ مُرَاءاةَ النَّاسِ فَهُوَ مُشْرِكٌ. وَلا
+> يَقْبَلُ اللهُ عَزَّ وَجَلَّ عَمَلَ مُراءٍ.»
 
 *“The Prophet was asked about the interpretation of the words of Allah,
 the Exalted:* ***“Whoever expects to meet his Lord…” (18:110)*** *. The
@@ -1215,16 +959,12 @@ accept the deeds of the hypocrites.”*[^35]
 
 Jarrah Mada’ini quoted on the authority of Imam Baqir :
 
-<blockquote dir="rtl">
-  <p>
-الرَّجُلُ يَعْمَلُ شَيْئاً مِنَ الثَّوَابِ لا يَطْلُبُ بِهِ وَجْهَ
-اللهِ إنمَّا يَطْلُبُ تَزْكِيَةَ النَّاسِ يَشْتَهِي أنْ تُسْمَعَ بهِ
-النّاسُ فَهَذا الَّذِي أَشْرَكَ بِعِبادَةِ رَبِّهِ. مَا مِنْ عَبْدٍ
-أَسَرَّ خَيراً فَذَهَبَتِ الأَيَّامُ أَبَداً حَتىّ يُظْهِرَ اللهُ لهُ
-خَيراً وَمَا مِنْ عَبْدٍ يُسِرُّ شَرّاً فَذَهَبَتِ الأَيَّامُ أَبَداً
-حَتىّ يُظْهِرَ اللهُ لهُ شَرّاً.
-  </p>
-</blockquote>
+> الرَّجُلُ يَعْمَلُ شَيْئاً مِنَ الثَّوَابِ لا يَطْلُبُ بِهِ وَجْهَ
+> اللهِ إنمَّا يَطْلُبُ تَزْكِيَةَ النَّاسِ يَشْتَهِي أنْ تُسْمَعَ بهِ
+> النّاسُ فَهَذا الَّذِي أَشْرَكَ بِعِبادَةِ رَبِّهِ. مَا مِنْ عَبْدٍ
+> أَسَرَّ خَيراً فَذَهَبَتِ الأَيَّامُ أَبَداً حَتىّ يُظْهِرَ اللهُ لهُ
+> خَيراً وَمَا مِنْ عَبْدٍ يُسِرُّ شَرّاً فَذَهَبَتِ الأَيَّامُ أَبَداً
+> حَتىّ يُظْهِرَ اللهُ لهُ شَرّاً.
 
 *“If one does a good deed with the intention of showing off, and not to
 please God, and likes the people to admire him, then he is ascribing
@@ -1238,13 +978,9 @@ day.”*[^36]
 The act of associating partners to God is described as follows in the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-حُنَفَاء لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ وَمَن يُشْرِكْ بِاللَّهِ
-فَكَأَنَّمَا خَرَّ مِنَ السَّمَاء فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي
-بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ
-  </p>
-</blockquote>
+> حُنَفَاء لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ وَمَن يُشْرِكْ بِاللَّهِ
+> فَكَأَنَّمَا خَرَّ مِنَ السَّمَاء فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي
+> بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ
 
 ***“Being true in faith to God, and never assigning partners to Him: if
 anyone assigns partners to God, he is as if he had fallen from Heaven
@@ -1269,13 +1005,9 @@ experience such anxiety.[^37]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ بَني أُمَيَّةَ أطلَقُوا لِلنَّاسِ تَعْليمَ الإيمَانِ وَلمَ
-يُطلِقُوا تَعْلِيمَ الشِّرْكِ لِكَيْ إذا حَمَلُوهُم عَلَيهِ لمَ
-يَعْرِفُوه.
-  </p>
-</blockquote>
+> إنَّ بَني أُمَيَّةَ أطلَقُوا لِلنَّاسِ تَعْليمَ الإيمَانِ وَلمَ
+> يُطلِقُوا تَعْلِيمَ الشِّرْكِ لِكَيْ إذا حَمَلُوهُم عَلَيهِ لمَ
+> يَعْرِفُوه.
 
 *“The Umayyad clan let the people learn faith freely, but they did not
 let them recognize blasphemy. That was done so that when the Umayyads
@@ -1298,36 +1030,24 @@ introduced to be the best deeds.
 Mus’adah ibn Sadaqah quoted on the authority of Imam Sadiq when asked
 about the Prophet’s statement:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الشِّرْكَ أَخْفى مِنْ دَبِيبِ النَّمْلِ عَلى صَفَاةٍ سَوْدَاءَ في
-لَيْلَةٍ ظَلْماءَ
-  </p>
-</blockquote>
+> إنَّ الشِّرْكَ أَخْفى مِنْ دَبِيبِ النَّمْلِ عَلى صَفَاةٍ سَوْدَاءَ في
+> لَيْلَةٍ ظَلْماءَ
 
 *“Blasphemy is more invisible than an ant walking on a black stone in a
 dark night.”*
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ المُؤمِنُونَ يَسُبّونَ مَا يَعْبُدُ المُشْرِكونَ مِن دُونِ اللهِ
-فَكانَ المُشرِكُونَ يَسُبُّونَ مَا يَعْبُدُ المُؤمِنُونَ، فَنَهى اللهُ
-المُؤمِنِينَ عَن سَبِّ آلِهَتِهِم لِكَيْلا يَسُبَّ الكُفّارُ إلَهَ
-المُؤمِنِينَ فَيَكونَ المُؤمِنُونَ قَد أَشْرَكُوا بِاللهِ مِنْ حَيْثُ
-لا يَعْلَمُونَ. فقَالَ اللهُ تَعالى:
-  </p>
-</blockquote>
+> كَانَ المُؤمِنُونَ يَسُبّونَ مَا يَعْبُدُ المُشْرِكونَ مِن دُونِ اللهِ
+> فَكانَ المُشرِكُونَ يَسُبُّونَ مَا يَعْبُدُ المُؤمِنُونَ، فَنَهى اللهُ
+> المُؤمِنِينَ عَن سَبِّ آلِهَتِهِم لِكَيْلا يَسُبَّ الكُفّارُ إلَهَ
+> المُؤمِنِينَ فَيَكونَ المُؤمِنُونَ قَد أَشْرَكُوا بِاللهِ مِنْ حَيْثُ
+> لا يَعْلَمُونَ. فقَالَ اللهُ تَعالى:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَسُبُّواْ الَّذِينَ يَدْعُونَ مِن دُونِ اللّهِ فَيَسُبُّواْ
-اللّهَ عَدْوًا بِغَيْرِ عِلْمٍ كَذَلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ
-عَمَلَهُمْ ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا
-كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلاَ تَسُبُّواْ الَّذِينَ يَدْعُونَ مِن دُونِ اللّهِ فَيَسُبُّواْ
+> اللّهَ عَدْوًا بِغَيْرِ عِلْمٍ كَذَلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ
+> عَمَلَهُمْ ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا
+> كَانُواْ يَعْمَلُونَ
 
 *“The believers used to revile the idols of the idolaters, as the
 idolaters reviled the Worshipped One of the believers. Then God
@@ -1424,5 +1144,4 @@ theory of relativity by Albert Einstein.
 [^37]: Tafsir-i-Namunah, v.14, p.96.
 
 [^38]: Al-Shafi, v.1, p.146.
-
 

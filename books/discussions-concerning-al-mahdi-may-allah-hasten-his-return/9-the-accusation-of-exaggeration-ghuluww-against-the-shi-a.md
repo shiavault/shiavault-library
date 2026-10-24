@@ -17,12 +17,8 @@ Answer:
 The issue of exaggerated beliefs has precedence among previous religious
 communities. About the Jews and Christians the Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ عُزَيْرُ ابْنُ اللهِ وَقَالَتِ النَّصَارَى
-المَسِيحُ ابْنُ اللهِ.
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ عُزَيْرُ ابْنُ اللهِ وَقَالَتِ النَّصَارَى
+> المَسِيحُ ابْنُ اللهِ.
 
 ***“And the Jews said, ‘Uzair is the Son of God,’ and the Christians
 said, ‘The Messiah is the Son of God.’ ”***[^1]
@@ -30,13 +26,9 @@ said, ‘The Messiah is the Son of God.’ ”***[^1]
 This disease is also found among the Muslims in various forms, as the
 hadith denotes:
 
-<blockquote dir="rtl">
-  <p>
-لَتَسْلُكَنَّ سُبُلَ مَنْ كَانَ قَبْلَكُمْ حَذْوَ النَّعْلِ
-بِالنَّعْلِ وَالْقُذَّةِ بِالْقُذَّةِ حَتىَّ لَوْ أَنَّ أَحَدَهُمْ
-دَخَلَ حِجْرَ ضَبٍّ لَدَخَلْتُمُوهُ.
-  </p>
-</blockquote>
+> لَتَسْلُكَنَّ سُبُلَ مَنْ كَانَ قَبْلَكُمْ حَذْوَ النَّعْلِ
+> بِالنَّعْلِ وَالْقُذَّةِ بِالْقُذَّةِ حَتىَّ لَوْ أَنَّ أَحَدَهُمْ
+> دَخَلَ حِجْرَ ضَبٍّ لَدَخَلْتُمُوهُ.
 
 *Verily you will follow the paths of those who have gone before you in
 an exact manner, to the extent that if one of them were to enter a
@@ -48,18 +40,10 @@ al-Mu’minin (peace be upon him).
 One group began believing in his divinity and praised him in their
 poetry as their deity. For example, they said
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ خَالِقُ الخَلاَئِقِ مَـنْ زَعْزَعَ أَرْكَانَ خَيْبَرَ جَذْمًا
-  </p>
-</blockquote>
+> أَنْتَ خَالِقُ الخَلاَئِقِ مَـنْ زَعْزَعَ أَرْكَانَ خَيْبَرَ جَذْمًا
 
-<blockquote dir="rtl">
-  <p>
-قَدْ رَضِينَا بِهِ إِمَامًا وَمَوْلىً وَسَجَـدْنَا لَهُ إِلهاً
-وَرَبًّـا
-  </p>
-</blockquote>
+> قَدْ رَضِينَا بِهِ إِمَامًا وَمَوْلىً وَسَجَـدْنَا لَهُ إِلهاً
+> وَرَبًّـا
 
 You created the universe,  
  the one who uprooted Khaybar’s firm foundations,  
@@ -70,11 +54,7 @@ A few said such words and poems out of hyperbole and exaggeration, not
 that they truly considered him their God. In addition, it has been
 narrated from Imam ‘Ali (peace be upon him) himself that he said,
 
-<blockquote dir="rtl">
-  <p>
-هَلَكَ فيَِّ رَجُلاَنِ: محُِبٌّ غَالٍ وَمُبْغِضٌ قَالٍ.
-  </p>
-</blockquote>
+> هَلَكَ فيَِّ رَجُلاَنِ: محُِبٌّ غَالٍ وَمُبْغِضٌ قَالٍ.
 
 *“Two groups of people will be destroyed on my account: the friend who
 exaggerates in his friendship and the enemy who dislikes me.”*[^3]
@@ -135,11 +115,7 @@ with the traditions, possesses are not incompatible with the Imam being
 a servant of Allah and, like the Prophet (peace be upon him and his
 family), being in need of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يمْلِكُ لِنَفْسِهِ نَفْعًا وَلاَ ضَرًّا.
-  </p>
-</blockquote>
+> وَلاَ يمْلِكُ لِنَفْسِهِ نَفْعًا وَلاَ ضَرًّا.
 
 *“And he controls neither his own benefit nor his loss.”*[^4]
 
@@ -186,5 +162,4 @@ forth.
 [^3]: Nahj al-Balaghah, edited by Subhi al-Salih, Short Sayings, no. 117
 
 [^4]: Bihar al-Anwar, vol. 76, p. 167, footnote 7
-
 

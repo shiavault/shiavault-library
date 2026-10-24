@@ -32,6 +32,6 @@ al-Baqir and therefore the one which should be accepted.
 
 **Notes:**
 
-[^16] Seen. 3.
-[^17] Ibn Hajar, Tadhib al- Tahdhib.
+[^16]: Seen. 3.
+[^17]: Ibn Hajar, Tadhib al- Tahdhib.
 

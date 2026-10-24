@@ -222,4 +222,3 @@ till now, Therefore, Mirza cannot claim to be Imam Mahdi.
 and not in spirit. It will continue to remain in existence but the
 instructions therein will no longer be put into practice
 
-

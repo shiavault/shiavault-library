@@ -20,11 +20,7 @@ path.
 loves comfort must prefer abstinence from pleasures in this world.
 
 > 4ـ مَنْ أحَبَّ السَّلامَةَ فَلْيُؤثِرِ الفَقْرَ، وَمَنْ أحَبَّ
-<blockquote dir="rtl">
-  <p>
-الرَّاحَةَ فَلْيُؤْثِرِ الزُّهْدَ فِي ِالدُّنيا.
-  </p>
-</blockquote>
+> الرَّاحَةَ فَلْيُؤْثِرِ الزُّهْدَ فِي ِالدُّنيا.
 
 5. One who has three [qualities] in him, will remain safe both in this
 world and the next: He enjoins good and follows it himself, He forbids
@@ -32,12 +28,8 @@ evil and keeps away from it himself, and he preserves the boundaries
 [and ordinances] of Allah, the Sublime and the Exalted.
 
 > 5ـ مَنْ كانَ فيه ثَلاثٌ سَلِمَتْ لَهُ الدُّنيا وَالآخِرَةُ: يَأمُرُ
-<blockquote dir="rtl">
-  <p>
-بِالمَعْرُوفِ وَيَأْتَمِرُ بِهِ، وَ يَنْهى عَنِ المُنْكَرِ وَيَنْتَهي
-عَنْهُ وَيُحافِظُ عَلى حُدُودِ اللّهِ جَلَّ وَعَلا.
-  </p>
-</blockquote>
+> بِالمَعْرُوفِ وَيَأْتَمِرُ بِهِ، وَ يَنْهى عَنِ المُنْكَرِ وَيَنْتَهي
+> عَنْهُ وَيُحافِظُ عَلى حُدُودِ اللّهِ جَلَّ وَعَلا.
 
 6. There is no preservation more averting [of harm] than security [that
 is granted by Allah].
@@ -51,5 +43,4 @@ is granted by Allah].
 8. Many a person remains safe after regret.
 
 > 8ـ رُبَّ سالِم بَعْدَ النَّدامَةِ.
-
 

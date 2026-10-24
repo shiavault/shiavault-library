@@ -79,4 +79,3 @@ famine, drought and scarcity of food.
 
 [^7]: - Fayz al-Qadir, vol. 4, p. 25.
 
-

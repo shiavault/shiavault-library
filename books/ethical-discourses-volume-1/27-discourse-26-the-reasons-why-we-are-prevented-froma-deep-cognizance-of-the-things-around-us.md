@@ -1,16 +1,12 @@
 Discourse 26: The Reasons Why We Are Prevented Froma Deep Cognizance (of the things around us)
 ==============================================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنْسِ قَالَ: خَطَبَنَا رَسُولُ اللٌّهِ عَلى نَاقَتِهِ
-الْعَضْبَاءُ، فَقَالَ: أَيُّهَا النَّاسُ، كَأَنَّ الْمَوْتَ فِيهَا
-عَلى غَيْرِنَا كُتِبَ، وَ كَأَنَّ الْحَقَّ عَلى غَيرِنَا وَجَبَ، وَ
-كَأَنَّ مَا نَسْمَعُ مِنَ الأَمْوَاتِ سَفْرٌ عَمَّا قَلِيلٌ إِلَيْنَا
-رَاجِعُونَ، نُبَوِّؤُهُمْ أَجْدَاثَهُمْ، وَ نَأْكُلُ تُرَاثَهُمْ،
-كَأَنَّا مُخَلَّدُونَ بَعْدَهُمْ…
-  </p>
-</blockquote>
+> عَنْ أَنْسِ قَالَ: خَطَبَنَا رَسُولُ اللٌّهِ عَلى نَاقَتِهِ
+> الْعَضْبَاءُ، فَقَالَ: أَيُّهَا النَّاسُ، كَأَنَّ الْمَوْتَ فِيهَا
+> عَلى غَيْرِنَا كُتِبَ، وَ كَأَنَّ الْحَقَّ عَلى غَيرِنَا وَجَبَ، وَ
+> كَأَنَّ مَا نَسْمَعُ مِنَ الأَمْوَاتِ سَفْرٌ عَمَّا قَلِيلٌ إِلَيْنَا
+> رَاجِعُونَ، نُبَوِّؤُهُمْ أَجْدَاثَهُمْ، وَ نَأْكُلُ تُرَاثَهُمْ،
+> كَأَنَّا مُخَلَّدُونَ بَعْدَهُمْ…
 
 Anas has narrated that, “The Prophet (S) spoke to us while he was
 (sitting) upon his camel named Al-'Adba\` and said, “O' Mankind!  It is
@@ -38,22 +34,14 @@ understanding - which the scholars have mentioned - include the love of
 self.  
  You all have definitely heard the saying:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ الشَّيْءِ يُعْمى وَ يُصِمُّ.
-  </p>
-</blockquote>
+> حُبُّ الشَّيْءِ يُعْمى وَ يُصِمُّ.
 
 “Love for (a particular) thing makes one blind and deaf.”[^3]  
  This uncontrolled love would result in a person not being able to see
 the reality of things around him and in the words of the Noble Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-…لَهُمْ أَعْيُنٌ لاَ يُبْصِرُونَ بِهَا وَ لَهُمْ آذَانٌ لاَ
-يَسْمَعُونَ بِهَا…
-  </p>
-</blockquote>
+> …لَهُمْ أَعْيُنٌ لاَ يُبْصِرُونَ بِهَا وَ لَهُمْ آذَانٌ لاَ
+> يَسْمَعُونَ بِهَا…
 
 “…They have eyes with which they do not see and they have ears with
 which they do not hear…”[^4]
@@ -76,21 +64,13 @@ that this will never come to your house?  Maybe you have made a covenant
 with yourselves that you have been given a respite and that you will
 remain alive for some time to come still!?”
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّ الْمَوْتَ فِيهَا عَلى غَيْرِنَا كُتِبَ.
-  </p>
-</blockquote>
+> كَأَنَّ الْمَوْتَ فِيهَا عَلى غَيْرِنَا كُتِبَ.
 
 In addition, some people feel that it is only others who must follow the
 Truth and obey the rulings of Allah (SwT) and that these laws were only
 put in place for others and that they are exempt from such rulings:
 
-<blockquote dir="rtl">
-  <p>
-وَ كَأَنَّ الْحَقَّ عَلى غَيْرِنَا وَجَبَ.
-  </p>
-</blockquote>
+> وَ كَأَنَّ الْحَقَّ عَلى غَيْرِنَا وَجَبَ.
 
 A similar important speech can also be seen in the enlightening words of
 the Commander of the Faithful,'Ali b. Abi Talib (as). One day, this
@@ -113,12 +93,8 @@ We must accept that it is very much possible that all of the things
 which are happening to other people can also one day happen to us and
 just as the 'Arab poet has once said:
 
-<blockquote dir="rtl">
-  <p>
-بَيْنَا يُرَى الإِنْسَانُ فِيهَا مُخْبِراً حَتّى يُرى خَبَراً مِنَ
-الأََخْــبَارِ.
-  </p>
-</blockquote>
+> بَيْنَا يُرَى الإِنْسَانُ فِيهَا مُخْبِراً حَتّى يُرى خَبَراً مِنَ
+> الأََخْــبَارِ.
 
 “At that time when a person is informed of the death of another person,
 it is then that his own death is also written and recorded (that it will
@@ -193,11 +169,7 @@ that tomorrow, we too will be in that same place that he is in right
 now. When a person thinks upon this issue, when he thinks about death,
 then he will definitely try and control his soul:
 
-<blockquote dir="rtl">
-  <p>
-…وَ لِلٌّهِ بِذِكْرِ الْمَوْتِ…
-  </p>
-</blockquote>
+> …وَ لِلٌّهِ بِذِكْرِ الْمَوْتِ…
 
 “…Control it (the soul) through the remembrance of death…”
 
@@ -208,12 +180,8 @@ front of us.
 
 A tradition from the Prophet (S) states:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لاَ أَنَّ الشَّيَاطِينَ يَحُومُونَ عَلى قُلُوبِ بَنِي آدَمَ،
-لَنَظَرُوا إِلـى مَلَكُوتِ السَّمٌوَاتِ.
-  </p>
-</blockquote>
+> لَوْ لاَ أَنَّ الشَّيَاطِينَ يَحُومُونَ عَلى قُلُوبِ بَنِي آدَمَ،
+> لَنَظَرُوا إِلـى مَلَكُوتِ السَّمٌوَاتِ.
 
 “Surely had the Devils not whispered into the hearts of the children of
 Adam, they would have been able to (just as Prophet Ibrahim) see into
@@ -222,12 +190,8 @@ the depths of the heavens.”[^6]
 Thus, we too could see into the heavens as Allah (SwT) permitted Prophet
 Ibrahim (as) to do for in the Qur\`an, it says:
 
-<blockquote dir="rtl">
-  <p>
-وَ كَذٌلِكَ نُرِيَ إِبْرَاهِيمَ مَلَكُوتَ السَّـمٌوَاتِ وَ الأَرْضِ وَ
-لِيَكُونَ مِنَ الْمُوقِـنِينَ
-  </p>
-</blockquote>
+> وَ كَذٌلِكَ نُرِيَ إِبْرَاهِيمَ مَلَكُوتَ السَّـمٌوَاتِ وَ الأَرْضِ وَ
+> لِيَكُونَ مِنَ الْمُوقِـنِينَ
 
 “And thus did We permit Ibrahim to glance into the depths of the heavens
 and the Earth so that he would of those who had certainty.”[^7] !  
@@ -300,5 +264,4 @@ vol. 3, pg. 9)
 [^6]: Bihar al-Anwar, vol. 56, pg. 163
 
 [^7]: Surat al-An\`am (7), Verse 75
-
 

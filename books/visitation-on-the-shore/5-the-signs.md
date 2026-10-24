@@ -129,4 +129,3 @@ Askari's (a.s.) successor was that same five year old child, who prayed
 over his father's body, demanded from him, the letters and gave news
 about the contents in the bag.
 
-

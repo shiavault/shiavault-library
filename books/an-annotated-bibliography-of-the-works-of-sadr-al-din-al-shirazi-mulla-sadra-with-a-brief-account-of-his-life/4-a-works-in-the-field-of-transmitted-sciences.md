@@ -230,4 +230,3 @@ hadith before Sadra. Following his esoteric hermeneutics, Sadra gives a
 full exposition of the*Hadith* . Three manuscripts of this short
 commentary have been listed.[^44]
 
-

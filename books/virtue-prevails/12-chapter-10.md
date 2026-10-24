@@ -99,4 +99,3 @@ struggle'."
 The call to prayer could be heard, so Sumayah and Ahmad arose and
 entered the mosque to perform their prayers.
 
-

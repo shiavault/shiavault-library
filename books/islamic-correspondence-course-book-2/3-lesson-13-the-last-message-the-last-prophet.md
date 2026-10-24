@@ -242,4 +242,3 @@ been forever cut off [after the Prophet of Islam], but the door of
 inspiration and illumination has not and will never be closed, and it is
 not possible for it to be interrupted."
 
-

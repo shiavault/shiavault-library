@@ -321,4 +321,3 @@ And this man has four daughters.
 But no, three of them died before he did. And now, he has only one
 child, a daughter, the youngest, Fatima.
 
-

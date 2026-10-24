@@ -7,31 +7,19 @@ The Father
 My child! Keep in mind that children are gifts of Allah. Do not belittle
 this fact. Holy Prophet (S.) once said:
 
-<blockquote dir="rtl">
-  <p>
-الولد الصالح ريحانة من رياحين الجنة
-  </p>
-</blockquote>
+> الولد الصالح ريحانة من رياحين الجنة
 
 “A righteous child is a flower from flowers of heaven.” [^1]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-من سعادة الرجل الولد الصالح
-  </p>
-</blockquote>
+> من سعادة الرجل الولد الصالح
 
 “Of the signs of prosperity, the righteous child is one.” [^2]
 
 And Imam Zain al-Abidin (as) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-من سعادة الرجل ان يكون له ولد يستعين بهم
-  </p>
-</blockquote>
+> من سعادة الرجل ان يكون له ولد يستعين بهم
 
 “One of the signs of a man's prosperity is having children from whom he
 gets helps.” [^3]
@@ -49,11 +37,7 @@ The Child
 Yes, a child is a gift, and man has been assigned obligations for this
 gift as Imam As-Sadiq (as) once said:
 
-<blockquote dir="rtl">
-  <p>
-البنون نعيم والبنات حسنات والله يسأل عن النعيم ويثيب على الحسنات
-  </p>
-</blockquote>
+> البنون نعيم والبنات حسنات والله يسأل عن النعيم ويثيب على الحسنات
 
 “Sons are gift and daughters are righteous deeds. Allah holds one
 responsible for a gift but be rewards one for righteous deeds.” [^6]
@@ -97,5 +81,4 @@ hidden science.
 [^5]: The Book Wafi, Part 12, pages 196-197.
 
 [^6]: The Book Wafi, part 12, pages 196-197.
-
 

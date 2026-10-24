@@ -206,4 +206,3 @@ at (in) Kufa.
 [^4]: Translated and abridged from: Kafi - by Kulaini; (Ehtejaj Bihar
 al-Anwar) by Majlisi.
 
-

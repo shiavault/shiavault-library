@@ -32,10 +32,8 @@ together so as to result in a complete sentence;** **مركَّب
 مفيد/جملة/كلام** (beneficial combination/sentence), or it may constitute
 a phrase; **مركَّب غير مفيد (non-beneficial combination).**
 
-<p dir="rtl">
 كلمة:
 -----
-</p>
 
 The Arabic ‘word’ ( كلمة) is divided into three types; إسم, فعل and
 حرف.  Stated otherwise, every word in the Arabic dictionary falls into
@@ -103,9 +101,7 @@ is the existence of this reality (or non-existence) which determines
 whether the sentence will be classified** **خَبَرِيّةٌ or**
 **إنشاﺋِﻴَّﺔ**
 
-<p dir="rtl">
 ### إسمِيّه/فعلِيَّه :
-</p>
 
 ###
 

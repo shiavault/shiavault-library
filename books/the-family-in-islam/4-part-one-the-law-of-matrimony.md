@@ -162,4 +162,3 @@ Constantine made adultery punishable by death, and any such dishonour
 during the age of Augustinian was punishable by execution or
 confiscation of possessions.
 
-

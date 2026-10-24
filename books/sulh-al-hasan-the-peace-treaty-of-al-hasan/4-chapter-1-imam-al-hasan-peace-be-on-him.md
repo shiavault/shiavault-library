@@ -1,8 +1,6 @@
 Chapter 1 : Imam Al-hasan (peace Be On Him)
 ===========================================
 
-  
-
 His father was the Commander of the faithful (Amir al-mu'minin), 'Ali b.
 Abu Talib. His mother was the mistress of the women of the worlds,
 Fatima the daughter of the Apostle of Allah, may Allah bless him and his
@@ -27,8 +25,6 @@ Islamic period. Also he gave him Kunya (i.e., the name by which an Arab
 is usually referred to and which refers to him as the father of someone,
 usually his eldest son) as Abu Muhammad. Al-Hasan had no Kunya other
 than this (Abu Muhammad).
-
-  
 
 ### His Nick-Names
 
@@ -68,8 +64,6 @@ When some handsomeness creeps into the insights of imaginations,
 
 He (al-Hasan) has the special share.
 
-  
-
 His forehead from under his forelock is like
 
 The full moon that illuminates the dark night.
@@ -107,8 +101,6 @@ pleasant or otherwise.
 They (the historians) said: "He (al-Hasan, peace be on him) was the best
 of all people in worshipping Allah and refraining from the life in this
 world."
-
-  
 
 ### His Ethics
 
@@ -148,8 +140,6 @@ lunch!" So he dismounted his camel and said: "Indeed, Allah does not
 love the proud." He began eating with them. Then he invited them, so he
 gave them food and clothes.
 
-  
-
 The following are some examples about al-Hasan's generosity: A man came
 to him and asked him for a need. He (al-Hasan) said to the man: "Write
 your need on a piece of paper and submit it to me." The man submitted
@@ -188,8 +178,6 @@ Our gifts are many
 
 The hopeful enjoy them.
 
-  
-
 Our selves give generously before the request
 
 For fear of losing face.
@@ -227,8 +215,6 @@ al-Hasan gave him one hundred and fifty thousand dirhams. Then the
 Hashimite man went to al-Husayn. So al-Husayn asked him: "Had you asked
 anyone for money before me?"  
  "I had asked al-Hasan," answered the Hashimite man. Al-  
-
-  
 
 Husayn said: "I cannot give more than what my master (al-Hasan) has
 given you." Then al-Husayn gave the Hashimite man one hundred and fifty
@@ -269,8 +255,6 @@ Allah bless him and his family, was limited. He was one of the four
 persons through whom the Prophet made the contest of prayer with the
 Christians of Najran. He was one of the five persons whom  
 
-  
-
 the Prophet covered with his cloak. He was one of the twelve Imams whose
 obedience Allah made incumbent on people. He was among those who were
 purified from sins as the Qur'an says. He was among those whose love
@@ -307,8 +291,6 @@ reported it on his authority. Allah granted al-Hasan plentiful knowledge
 and a high social position in the hearts of Muslims. Thus he (al-Hasan)
 was able to guide the community, to lead Muslims spiritually, to correct
 the Islamic beliefs, and to unify the people of monotheism.
-
-  
 
 Al-Hasan, peace be on him, performed the early morning prayer in the
 mosque of the Apostle of Allah, may Allah bless him and his family. He
@@ -349,8 +331,6 @@ her. She was the only inheritor of her father, may Allah bless him and
 his family. So she (Fatima, the Prophet's daughter) had the right to
 inherit her father as Solomon inherited David. For there is nothing that
 can specialize the general inheritance.
-
-  
 
 I make you swear by the relation which Allah has made close to you and
 by the blood relation to the Apostle of Allah, may Allah bless him
@@ -398,8 +378,6 @@ and 'Umar to be buried in it. So what is other than this (explanation)?
 Accordingly, we must admit that al-Hasan, peace be on him, was worthier
 of the Apostle of Allah and of his house than the others.
 
-  
-
 history. In this connection Allah, the Exalted, says: "And they who act
 unjustly shall know to what final next of turning they shall turn back."
 
@@ -440,8 +418,6 @@ but what you read.' He said: 'Have you seen that the Apostle of Allah,
 may Allah bless him and his family, asked the help of his wives when he
 was few in number and the polytheists were many?' She said: 'O Allah,
 no.' Al-Ahnaf said: 'Therefore, what is our guilt?"
-
-  
 
 back."
 

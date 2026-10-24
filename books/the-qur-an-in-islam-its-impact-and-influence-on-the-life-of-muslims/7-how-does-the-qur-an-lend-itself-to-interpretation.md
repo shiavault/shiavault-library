@@ -284,4 +284,3 @@ many of the benefits and virtues to be expected by the man of God and
 the lovers of Truth, including a certainty of faith and tranquillity of
 the heart.
 
-

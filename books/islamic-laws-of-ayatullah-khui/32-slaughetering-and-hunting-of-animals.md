@@ -598,4 +598,3 @@ It is also improper to drink water with one's left hand; to drink water
 from the side of the broken part of the pot, or from the side of its
 handle.
 
-

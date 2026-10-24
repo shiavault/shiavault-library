@@ -28,4 +28,3 @@ to the right path.
 [^1]: Because the deviant and misguided person is heedless of God and
 the Hereafter.
 
-

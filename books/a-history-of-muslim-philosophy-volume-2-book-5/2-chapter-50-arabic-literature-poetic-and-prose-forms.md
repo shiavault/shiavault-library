@@ -1691,4 +1691,3 @@ cf. Iqbal, Asrar-i Khudi.
 
 [^25]: Vide Risalat al-Ghufran, p. 183.
 
-

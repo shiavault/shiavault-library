@@ -7,10 +7,5 @@ Early Rising
 and consult each other, for success is in consultation.
 
 > 1ـ باكِرُوا فَالبَرَكَةُ فيِ المُباكَرَةِ، وشاوِرُوا فَالنُّجْحُ فيِ
-<blockquote dir="rtl">
-  <p>
-المُشاوَرَةِ.
-  </p>
-</blockquote>
-
+> المُشاوَرَةِ.
 

@@ -140,4 +140,3 @@ al-Madkhal ila Da'wat al-Ikhwan al-Muslimin (Amman, 1979); Ibrahim
 Ghanim, al-Fikr al-siyasi li al-Imam Hasan al-Banna (Cairo, 1992), and
 Rifa't al-Said, ,Hasan al-Banna: kayfa wa limadha? (Cairo, 1984).
 
-

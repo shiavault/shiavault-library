@@ -138,4 +138,3 @@ leading astray.
  5. Does this knowledge withdraw our duty and responsibility? Give an
 example.
 
-

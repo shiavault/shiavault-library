@@ -76,4 +76,3 @@ shame; anger pervades them and they hide their faces from others."
 
 [^2]: Wasail al-shiah
 
-

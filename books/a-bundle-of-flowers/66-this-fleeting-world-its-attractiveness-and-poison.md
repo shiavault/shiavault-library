@@ -29,4 +29,3 @@ of all vices."
 
 Al-Kafi, vol. 2, p. 315
 
-

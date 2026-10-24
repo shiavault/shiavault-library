@@ -63,4 +63,3 @@ ecologists.[^4] The Ikhwan were a marginal group, however, and their
 views should not be taken to represent the mainstream Islamic thought of
 their time.
 
-

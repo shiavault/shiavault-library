@@ -112,22 +112,14 @@ idol-worshipers.”[^8]
 This claim is opposed to *hadith*s quoted from the Holy Prophet (S)
 because he said the following about opposing the Jews,
 
-<blockquote dir="rtl">
-  <p>
-«صوموا عاشوراء وخالفوا فيه اليهود.»
-  </p>
-</blockquote>
+> «صوموا عاشوراء وخالفوا فيه اليهود.»
 
 “Fast on the day of ‘Ashura and by doing so oppose the Jews.”[^9]
 
 Also, Ya‘la ibn Shaddad narrates that he heard from his father that Holy
 Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«صلّوا في نعالکم وخالفوا اليهود.»
-  </p>
-</blockquote>
+> «صلّوا في نعالکم وخالفوا اليهود.»
 
 “Pray your prayers in your slippers and in this way oppose the
 Jews.”[^10]
@@ -135,11 +127,7 @@ Jews.”[^10]
 And it has been reported in another *hadith* that the Holy Prophet (S)
 said,
 
-<blockquote dir="rtl">
-  <p>
-«لا تشبّهوا باليهود.»
-  </p>
-</blockquote>
+> «لا تشبّهوا باليهود.»
 
 “Do not resemble the Jews in any way.”[^11]
 
@@ -246,11 +234,7 @@ Hadiths which prevent fasting on the day of ‘Ashura
 1. On his own chain of transmission Shaykh Saduq narrates that Imam
 al-Baqir (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«کان صومه قبل شهر رمضان، فلمّا نزل شهر رمضان ترك.»
-  </p>
-</blockquote>
+> «کان صومه قبل شهر رمضان، فلمّا نزل شهر رمضان ترك.»
 
 “The fast of the day of ‘Ashura used to be observed before the Qur’anic
 verse about the fast of the holy month of Ramadan, but after that it was
@@ -259,12 +243,8 @@ discontinued.”[^19]
 2. Kulayni on his own chain of transmission narrates from both Imam
 al-Baqir (as) and Imam al-Sadiq (as) that they said,
 
-<blockquote dir="rtl">
-  <p>
-«لا تصم في عاشوراء، ولا عرفة بمکة، ولا في المدينة، ولا في وطنك، ولا في
-مصر من الامصار.»
-  </p>
-</blockquote>
+> «لا تصم في عاشوراء، ولا عرفة بمکة، ولا في المدينة، ولا في وطنك، ولا في
+> مصر من الامصار.»
 
 “On the days of ‘Ashura and ‘Arafah, do not fast whether you are in
 Medina, your hometown, or any other city.”[^20]
@@ -273,11 +253,7 @@ Medina, your hometown, or any other city.”[^20]
 fasting on the day of ‘Ashura. Answering his question, Imam al-Baqir
 (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«صوم متروك بنزول شهر رمضان، والمتروك بدعة.»
-  </p>
-</blockquote>
+> «صوم متروك بنزول شهر رمضان، والمتروك بدعة.»
 
 “This is a fast which was discontinued after the Qur’anic verse enacting
 the fast of the holy month of Ramadan was revealed. Doing that which is
@@ -287,12 +263,8 @@ The narrator (Kulayni) says, “I asked this same question from Imam
 al-Sadiq’s (as) father, too. He gave the same answer as Imam al-Sadiq
 (as) and added,
 
-<blockquote dir="rtl">
-  <p>
-«أما انّه صوم يوم ما نزل به کتاب، ولا جرت به سنّة، الاّ سنّة آل زياد
-بقتل الحسين بن علي.»
-  </p>
-</blockquote>
+> «أما انّه صوم يوم ما نزل به کتاب، ولا جرت به سنّة، الاّ سنّة آل زياد
+> بقتل الحسين بن علي.»
 
 ‘Beware! This is a fast about which no Qur’anic verse has been revealed
 and is not an observed way of conduct. It was only the way of conduct
@@ -334,11 +306,7 @@ transformed heart…’”[^22]
 al-Rida (as) about fasting on the day of ‘Ashura. I also asked his
 opinion about what people say about this fast. The Imam (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«عن صوم ابن مرجانة تسألني.»
-  </p>
-</blockquote>
+> «عن صوم ابن مرجانة تسألني.»
 
 ‘You are asking me about the fast of the son of Marjanah?’”[^23]
 
@@ -346,11 +314,7 @@ opinion about what people say about this fast. The Imam (as) said,
 he said, “I heard ‘Ubayd Allah ibn Zurarah asking Imam al-Sadiq about
 fasting on the day of ‘Ashura. Imam al-Sadiq (as) replied saying,
 
-<blockquote dir="rtl">
-  <p>
-«من صامه کان حظّه من صيام ذلك اليوم حظّ ابن مرجانة وآل زياد.»
-  </p>
-</blockquote>
+> «من صامه کان حظّه من صيام ذلك اليوم حظّ ابن مرجانة وآل زياد.»
 
 ‘The reward for anyone fasting on that day will be given to the son of
 Marjanah and Ibn Ziyad’s partisans’.”[^24]
@@ -358,11 +322,7 @@ Marjanah and Ibn Ziyad’s partisans’.”[^24]
 Zayd says, “I asked what the reward of fasting on that day is.’ The Imam
 (as) replied,
 
-<blockquote dir="rtl">
-  <p>
-«النار، اعاذنا الله من النار، ومن عمل يقرب من النار.»
-  </p>
-</blockquote>
+> «النار، اعاذنا الله من النار، ومن عمل يقرب من النار.»
 
 “The Fire, may Allah save us from the Fire. Anyone who fasts on the day
 of ‘Ashura has made himself nearer to the Fire.”[^25]
@@ -692,5 +652,4 @@ p. 329.
 [^43]: Sawa‘iq al-Muhriqah, p. 221.
 
 [^44]: Al-Hadi Magazine, 7th year, no. 2.
-
 

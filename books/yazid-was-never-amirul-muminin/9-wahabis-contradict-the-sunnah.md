@@ -74,4 +74,3 @@ should Sunnis therefore stop using their left hands and, instead, use
 their right hands to clean themselves in the bathroom, just not to
 emulate Shias? One wonders how the Wahabis make their judgments!
 
-

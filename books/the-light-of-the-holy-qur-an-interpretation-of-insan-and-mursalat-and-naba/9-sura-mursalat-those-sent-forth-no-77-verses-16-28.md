@@ -28,7 +28,6 @@ Sura Mursalat (those Sent Forth) No.77 (verses 16-28)
 
 (28) وَيْلٌ يوْمَئِذٍ لِّلْمُكَذِّبِينَ
 
-
 16."Did We not destroy the men of old ?
 
 17. Then shall We make following (generations) follow them.
@@ -56,7 +55,6 @@ Resurrection is easy for Us to portend)
 drink (wholesome) sweet water?
 
 28. Ah woe, that Day, to the Rejecters of Truth!
-
 
 **Commentary:
 They see these Signs of Power, yet they reject the Resurrection**
@@ -246,5 +244,4 @@ The refrain is repeated: Ah woe, that Day, to the Rejecters of Truth.
 It is they who see these signs and the types of His Bounty and Power;
 the blessings by which they are continually benefited and, yet, deny the
 Resurrection, His Justice and His Wisdom.
-
 

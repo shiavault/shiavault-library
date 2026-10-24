@@ -83,4 +83,3 @@ well established in Sunnite creeds: MC, 129, art. 18 and 19; 163 -167;
 195, art. 23; 268; art. 27. For the philosophical Isma'ili explanation,
 see FC, nos. 93,94.
 
-

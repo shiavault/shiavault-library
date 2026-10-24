@@ -198,4 +198,3 @@ struggle [ijtihad], truthfulness and piety.”
 
 [^8]: Ghurar al-Hikam, vol. 7, p. 269.
 
-

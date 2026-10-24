@@ -18,4 +18,3 @@ his envy; indeed it is such an inherent part of his nature that it
 manifests itself unopposed and without apparent reason, causing him
 harm. A person's basic nature does not change, even with treatment.
 
-

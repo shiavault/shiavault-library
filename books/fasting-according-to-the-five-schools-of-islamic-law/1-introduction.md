@@ -131,4 +131,3 @@ it occurs only for a part of the day, unless where he has formed the
 niyyah of fasting before it and recovers subsequently, whereat he will
 continue his fast.
 
-

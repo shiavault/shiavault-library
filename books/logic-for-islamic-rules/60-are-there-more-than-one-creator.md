@@ -1,7 +1,7 @@
 Are There More Than One Creator?
 ================================
 
-**Question:** In the 14<sup>th</sup> verse of Surah Mominoon the
+**Question:** In the 14th verse of Surah Mominoon the
 Almighty Allah says: So blessed be Allah, the best of the Creators. When
 the Almighty Allah calls Himself the best of Creators does it mean that
 there exist other Creators also?

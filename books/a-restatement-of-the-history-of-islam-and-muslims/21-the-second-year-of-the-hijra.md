@@ -91,4 +91,3 @@ poor and the sick members of the community. But if there is no
 widows, the orphans and those members of the community who have no means
 of supporting themselves.
 
-

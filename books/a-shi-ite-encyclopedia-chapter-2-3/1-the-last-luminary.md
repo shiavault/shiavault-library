@@ -224,7 +224,5 @@ following English books:
 
 Please add $3 shipping and handling and send to:
 
-
 al-Khoei Foundation
-
 

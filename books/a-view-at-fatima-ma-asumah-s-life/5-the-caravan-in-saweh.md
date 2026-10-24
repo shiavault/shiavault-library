@@ -73,4 +73,3 @@ east and west. So the argument of Allah will be concluded on his
 creatures. So each one, on the earth, would have religion and knowledge.
 Bihaaril – Anwaar vol. 57, 213.
 
-

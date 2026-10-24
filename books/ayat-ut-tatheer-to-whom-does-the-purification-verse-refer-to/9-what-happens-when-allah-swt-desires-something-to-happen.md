@@ -118,4 +118,3 @@ any one of the wives disobeying Allah (SWT), she/they would be
 preventing His will from completing and happening, and that is
 impossible because His will could not be prevented from happening!
 
-

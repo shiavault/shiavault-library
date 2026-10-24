@@ -956,7 +956,6 @@ people differ.
 **FOOTNOTES:
 **
 
-
 1. Jeremiah, in the Bible.
 
 2. Goliath was a Philistine. The area had political connection with

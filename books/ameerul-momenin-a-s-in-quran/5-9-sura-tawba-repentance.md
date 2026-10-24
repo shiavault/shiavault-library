@@ -34,7 +34,6 @@ Moula Ali (asws) said, "I am the truthful". Buriba al Ajali narrates "I
 asked Imam Muhammad Baqir (as) regarding this ayah, Imam (as) said, "We
 are those who are truthful." (Usool al Kafi First Edition pg 198)
 
-
 **10. Sura Yunus (Jonas)**
 
 1. ayah 53 "And they ask you: Is this true? Say; Yes, by My Lord, it is
@@ -48,14 +47,12 @@ Baqir (as) was asked about this ayah, Imam (as) said, "Grace of Allah is
 RasoolAllah (saw) and His Mercy is Ameerul Momineen (asws)". (Tafseer e
 Furat pg 62)
 
-
 **11.Sura Hud**
 
 1. ayah 17 "Is he then who has with him clear proof from his Lord, and
 a witness from Him recites it" Ibn Masood narrates regarding this ayah,
 The proof is RasoolAllah (saw) and the witness is Ali (asws)." (Fazail
 ibn Shazaan pg 174)
-
 
 **13. Sura Raad (Thunder)**
 
@@ -81,5 +78,4 @@ Burida bin muawiyah narrates "I asked Imam Abu Jafar al Baqir (as)
 regarding this ayah, Imam (as) replied, "This ayah was revealed for Us.
 Ali (asws) is the first amongst Us and the greatest. He is the best
 after RasoolAllah (saw)." (Usool e Kafi First Edition pg 229)
-
 

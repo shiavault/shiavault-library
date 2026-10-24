@@ -15,4 +15,3 @@ So **نَصَرَ** becomes **یَنصَرُ** and **دَحرَجَ** becomes **
 must be replaced by a glottal stop and the first letter of the verb
 should not be given a vowel. For example; **یَنصَرُ** becomes **اُنصُر**
 
-

@@ -133,4 +133,3 @@ The Prophet (peace be upon him and his descendants) once said to her,
 treatment towards a maid signifies Fatima’s justice that she regardes
 the equality with her maid in the house chores.
 
-

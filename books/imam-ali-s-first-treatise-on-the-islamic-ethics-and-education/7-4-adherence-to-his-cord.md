@@ -1,11 +1,7 @@
 4) Adherence to His Cord
 ========================
 
-<blockquote dir="rtl">
-  <p>
-الاعتصام بحبله
-  </p>
-</blockquote>
+> الاعتصام بحبله
 
 Man in his life is constantly under the pressure of love for this world,
 love for possessions, love for positions and love for wife, children and
@@ -13,11 +9,7 @@ other desires; these factors may make him go astray. He would never have
 reached man's perfection if God had not prepared for him some mechanisms
 to protect him. God has said:
 
-<blockquote dir="rtl">
-  <p>
-"وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا"
-  </p>
-</blockquote>
+> "وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا"
 
 ***“And hold fast by the covenant of Allah altogether and be not
 disunited”***[^1]
@@ -34,14 +26,10 @@ covenants, as it is written in traditions.[^3]
 The tradition of Abi Sa'eed al-Khudri narrated from the Prophet
 confirms this fact: The Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-"ايُّها النّاسُ اِنِّي قَد تَرَكْتُ فِيكُم حَبلَينِ، اِن اتَّخَذتُم
-بِهِمَا لَن تَضِلُّوا بَعدِي، اَحَدُهُمَا اَكبَر مِنَ الآخَرِ: كِتابَ
-الله حَبلٌ مَمدُودٌ مِنَ السَّماءِ اِلى الارْضِ وَعِترَتِي اَهلَ
-بَيتِي اِنَّهُما لَن يَفتَرِقا حَتّى يَرِدَا عَليَّ الحَوضَ"
-  </p>
-</blockquote>
+> "ايُّها النّاسُ اِنِّي قَد تَرَكْتُ فِيكُم حَبلَينِ، اِن اتَّخَذتُم
+> بِهِمَا لَن تَضِلُّوا بَعدِي، اَحَدُهُمَا اَكبَر مِنَ الآخَرِ: كِتابَ
+> الله حَبلٌ مَمدُودٌ مِنَ السَّماءِ اِلى الارْضِ وَعِترَتِي اَهلَ
+> بَيتِي اِنَّهُما لَن يَفتَرِقا حَتّى يَرِدَا عَليَّ الحَوضَ"
 
 *"O people! I have left among you two cords (covenants). If you grasp
 them both, you will not go astray after me. One is greater than the
@@ -71,5 +59,4 @@ Satan’s mountains.
 pp.378-379.
 
 [^4]: . Safinah al-Bihar, vol.1, p.207.
-
 

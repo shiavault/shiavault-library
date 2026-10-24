@@ -33,4 +33,3 @@ life with comfort and ease.”
 “We are all servants of Allah and receive salary from Him; is it
 possible that He may give you subsistence and forget about me?”
 
-

@@ -48,4 +48,3 @@ rest of his shameful
 the Muslim World, or misusing Muslims money, or intrusion upon peoples
 dignity and lives.
 
-

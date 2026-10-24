@@ -492,4 +492,3 @@ Istanbul 1927, p.576+15.
 50. [Anonym], (in Ottoman Turkish, by a team of scholars), Turkche
 Qur'an Kerim terdjemesi, Islanbul 1344j1925p-26, p. 944.
 
-

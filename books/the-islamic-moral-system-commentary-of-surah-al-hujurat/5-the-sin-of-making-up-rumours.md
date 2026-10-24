@@ -3,13 +3,9 @@ The Sin of Making up Rumours
 
 ( Verse 6 )
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا إِنْ جٌاءَكُمْ فٌاسِقٌ بِنَبَأٍ
-فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْماً بِجَهٌالَةٍ فَتُصْبِحُوا عَلَى
-مٌا فَعَلْـتُمْ نٌادِمِينَ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا إِنْ جٌاءَكُمْ فٌاسِقٌ بِنَبَأٍ
+> فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْماً بِجَهٌالَةٍ فَتُصْبِحُوا عَلَى
+> مٌا فَعَلْـتُمْ نٌادِمِينَ
 
 ***O’ you who have true faith! If one who publicly and openly commits
 sins brings you any news (concerning another person) then ascertain its
@@ -73,11 +69,7 @@ witness to through one of the (five) natural senses. Thus, it is not
 permitted to base one’s testimony on an estimate, guess or assumption
 and according to the words of the Imam (peace be upon him):
 
-<blockquote dir="rtl">
-  <p>
-بِمِثْلِ هٌـذَا فَاشْهَدْ أَوْ دَعْ.
-  </p>
-</blockquote>
+> بِمِثْلِ هٌـذَا فَاشْهَدْ أَوْ دَعْ.
 
 *“Those things which you are required to testify concerning must be –
 just like the sun – plain and clear and in other than this event, you do
@@ -188,11 +180,7 @@ referred to him as an open sinner in this verse, rather in other verses
 too he has been referred to with this same attribute, as it has been
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ كٌانَ مُؤْمِناً كَمَنْ كٌانَ فٌاسِقاً لاٌ يَسْتَوُونَ
-  </p>
-</blockquote>
+> أَفَمَنْ كٌانَ مُؤْمِناً كَمَنْ كٌانَ فٌاسِقاً لاٌ يَسْتَوُونَ
 
 ***“So then is he who is a true believer similar to the person who is an
 open sinner – never can these two be considered as equal.”***[^4]
@@ -258,11 +246,7 @@ alcohol and in the state of being intoxicated, went into the Masjid and
 performed four Rak\`at of Salat al-Fajr and in place of the dhikr of the
 Ruku\` and Sujud, he said the following:
 
-<blockquote dir="rtl">
-  <p>
-أَشْرَبِي وَ أَسْقِـيـنِي
-  </p>
-</blockquote>
+> أَشْرَبِي وَ أَسْقِـيـنِي
 
 *“(O’ the one who loves me) Drink me (the alcohol) and satiate yourself
 with me!”*
@@ -270,11 +254,7 @@ with me!”*
 In addition, he recited the following poem in a loud voice which showed
 the burning passion and lust he felt for a woman named Rubab:
 
-<blockquote dir="rtl">
-  <p>
-عَلِقَ الْقَلْبُ الرُّبٌاباً بَعْدَ مٌا شٌابَتْ وَ شٌابـــاً
-  </p>
-</blockquote>
+> عَلِقَ الْقَلْبُ الرُّبٌاباً بَعْدَ مٌا شٌابَتْ وَ شٌابـــاً
 
 *“The heart is attracted to Rubab,* *after it drinks (alcohol) and is
 drunk.”*
@@ -406,5 +386,4 @@ deliver a lecture.
 
 [^10]: Ansab al-Ashraf, Volume 4, Page 23; Sahih al-Muslim, Volume 2,
 Page 52.
-
 

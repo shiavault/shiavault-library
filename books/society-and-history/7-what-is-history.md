@@ -247,12 +247,8 @@ The Quran itself refers to the beneficial aspects of the lives of such
 worthy people whom it considers as fit and imitable models. About the
 Prophet (S), the Quran says:
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّـهِ أُسْوَةٌ حَسَنَةٌ لِّمَن
-كَانَ يَرْجُو اللَّـهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّـهَ كَثِيرًا
-  </p>
-</blockquote>
+> لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّـهِ أُسْوَةٌ حَسَنَةٌ لِّمَن
+> كَانَ يَرْجُو اللَّـهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّـهَ كَثِيرًا
 
 ***“Verily, in the Messenger of Allah you have a good example for
 whosoever hopes for God and the Last Day, and remembers God much.”***
@@ -260,12 +256,8 @@ whosoever hopes for God and the Last Day, and remembers God much.”***
 
 About Abraham (A), the Quran says:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
-مَعَهُ...
-  </p>
-</blockquote>
+> قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
+> مَعَهُ...
 
 ***“You have a good example in Abraham and those with him ....”***
 (60:4)
@@ -581,11 +573,7 @@ soldiers of his army. As such an accident was never antici­pated, his
 soldiers became panicky and fled from the battlefield. The Umayyad
 dynasty was thus overthrown. It was on this occasion that it was said:
 
-<blockquote dir="rtl">
-  <p>
-ذَهَبَتِ الدَّوْلَة بِبِوْلَة
-  </p>
-</blockquote>
+> ذَهَبَتِ الدَّوْلَة بِبِوْلَة
 
 (“a dynasty was swept away by urine.”).
 
@@ -648,5 +636,4 @@ al‑Din Diya'iyan, p. 249, Appendix V.
 [^7]: Raymond Aron, op. cit., p. 27.
 
 [^8]: Ibid.
-
 

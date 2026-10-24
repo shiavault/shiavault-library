@@ -215,4 +215,3 @@ Shiite doctrine, imamate is among the fundamentals of religion. The same
 goes for the majority of the topics that are relevant to the question of
 resurrection.
 
-

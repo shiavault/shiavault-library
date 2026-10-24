@@ -379,4 +379,3 @@ sensible and free from personal bias.
 We shall see later how cruelly these well-intentioned, truthful and
 pious critics were dealt with.
 
-

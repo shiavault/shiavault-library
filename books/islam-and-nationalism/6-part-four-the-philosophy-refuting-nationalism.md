@@ -164,4 +164,3 @@ excuse of a common race.
 
 [^1]: The Descent of Man, p. 14.
 
-

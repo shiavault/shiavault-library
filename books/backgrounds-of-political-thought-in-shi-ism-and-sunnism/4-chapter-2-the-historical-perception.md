@@ -2512,4 +2512,3 @@ vol. 1, pp. 7-47.
 [^103]: For example, see Al-Ahkam as-Sultaniyyah, pp. 5-21 and Al-Ahkam
 as-Sultaniyyah by Abu Ya‘la, pp. 19-28.
 
-

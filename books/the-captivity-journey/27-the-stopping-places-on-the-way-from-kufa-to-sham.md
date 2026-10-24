@@ -40,4 +40,3 @@ and villages, as the authority in such situation would use terror as a
 way to impose its respect, and this is supported by the idea of them
 carrying the heads from one city to another.
 
-

@@ -86,7 +86,6 @@ But this theory relapsed at the dawn of its emergence at the stage of
 appliance; reality proved opposite to it, it became a mere theoretical
 study today.
 
-
 **Criticism of Historical Inevitability**
 
 Whatever the way these material inevitabilities follow to interpret
@@ -338,5 +337,4 @@ the Polytheists among his people; before it he told them in denouncement
 ([^13]) Al Assfar 6: 369 – 370.
 
 ([^14]) Al Milal wal Niha. Al Shahrestany 1: 91.
-
 

@@ -163,4 +163,3 @@ Favorable Angels,” hadīths 23-24, p. 258.  
 
 [^3]: Sūrah al-Hijr 15:9
 
-

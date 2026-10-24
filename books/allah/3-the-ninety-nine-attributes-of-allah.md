@@ -6801,4 +6801,3 @@ al-Qura in the 8th century B.C.
 
 [^11]: al-Bukhari, Sahih, Vol. 9, p. 206
 
-

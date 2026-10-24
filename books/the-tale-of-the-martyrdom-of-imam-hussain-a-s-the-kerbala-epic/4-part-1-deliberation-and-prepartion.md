@@ -24,4 +24,3 @@ army.
 
 ![](http://alhassanain.org/english/books/0762-the_tale_of_the_martyrdom_of_imam_hussain/images/image001.jpg)
 
-

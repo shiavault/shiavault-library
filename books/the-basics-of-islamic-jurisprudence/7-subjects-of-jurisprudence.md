@@ -760,4 +760,3 @@ for an eye concept while with *dīyah,* a fine is incurred.
 
 [^7]: An old unit of measurement.
 
-

@@ -409,4 +409,3 @@ any school of thought (Jafrī 174). The Imāmate, however, remained pure
 and pristine, led by the most God-fearing leading scholars and spiritual
 authorities of the age, the Imāms from the ahl al-bayt.
 
-

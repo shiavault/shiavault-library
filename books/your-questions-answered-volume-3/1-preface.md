@@ -17,9 +17,7 @@ our Shia Ithna-aseri youths.
 The Mission is grateful to Mr.Murtaza Bandali, Dar-es-Salaam, for his
 help in checking the proof and making useful suggestions.
 
-
 S. SAEED AKHTAR RIZVI
 Dar-es-Salaam
 31st December, 1975.
-
 

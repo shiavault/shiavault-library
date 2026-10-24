@@ -110,4 +110,3 @@ on the other. Nothing occurs outside of this system, which is none other
 than the divine norm mentioned by the Quran: "You will never find any
 change in the divine norm."(35:43)
 
-

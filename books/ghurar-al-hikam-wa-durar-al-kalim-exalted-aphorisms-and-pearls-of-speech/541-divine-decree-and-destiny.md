@@ -7,21 +7,13 @@ Divine Decree And Destiny
 be the one who resents the decree of Allah.
 
 > 1ـ أشَدُّ النّاسِ عَذاباً يَوْمَ القِيامَةِ المُتَسَخِّطُ لِقَضاءِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ.
 
 2. Verily Allah, the Glorified, manages affairs in accordance with what
 He decrees, not according to what pleases you.
 
 > 2ـ إنَّ اللّهَ سُبْحانَهُ يُجْرِى الأُمُورَ عَلى ما يَقْضيهِ لا عَلى
-<blockquote dir="rtl">
-  <p>
-ما تَرْتَضيهِ.
-  </p>
-</blockquote>
+> ما تَرْتَضيهِ.
 
 3. Verily Allah, the Exalted, does not give a servant more than what He
 has decreed for him in the Wise Reminder, even though his means [of
@@ -33,17 +25,13 @@ the most comfort in benefit among all people, and verily the one who
 disregards it and doubts in it will have to face the most harm.
 
 > 3ـ إنَّ اللّهَ تَعالى لَمْ يَجْعَلْ لِلْعَبْدِ وإنِ اشْتَدَّتْ
-<blockquote dir="rtl">
-  <p>
-حيلَتُهُ، وعَظُمَتْ طَلِبَتُهُ (وَإنْ عَظُمَتْ حيلَتُهُ واشْتَدَّتْ
-طَلِبَتُهُ)، وَقَوِيَتْ مَكيْدَتُهُ، أكْثَرَ مِمّا سُمِّيَ لَهُ فِي
-الذِّكْرِ الحَكيمِ، ولَمْ يَحُلْ بَيْنَ العَبْدِ في ضَعْفِهِ وقِلَّةِ
-حيلَتِهِ، أنْ يَبْلُغَ دُونَ ما سُمِّيَ لَهُ فيِ الذِّكْرِ الحَكيمِ،
-وإنَّ العارِفَ لِهذا، اَلعامِلَ بِهِ، أعْظَمُ النّاسِ راحَةً في
-مَنْفَعَة وإنَّ التّارِكَ لَهُ والشّاكَّ فيهِ لََأعْظَمُ النّاسِ
-شُغْلاً في مَضرَّة.
-  </p>
-</blockquote>
+> حيلَتُهُ، وعَظُمَتْ طَلِبَتُهُ (وَإنْ عَظُمَتْ حيلَتُهُ واشْتَدَّتْ
+> طَلِبَتُهُ)، وَقَوِيَتْ مَكيْدَتُهُ، أكْثَرَ مِمّا سُمِّيَ لَهُ فِي
+> الذِّكْرِ الحَكيمِ، ولَمْ يَحُلْ بَيْنَ العَبْدِ في ضَعْفِهِ وقِلَّةِ
+> حيلَتِهِ، أنْ يَبْلُغَ دُونَ ما سُمِّيَ لَهُ فيِ الذِّكْرِ الحَكيمِ،
+> وإنَّ العارِفَ لِهذا، اَلعامِلَ بِهِ، أعْظَمُ النّاسِ راحَةً في
+> مَنْفَعَة وإنَّ التّارِكَ لَهُ والشّاكَّ فيهِ لََأعْظَمُ النّاسِ
+> شُغْلاً في مَضرَّة.
 
 4. Divine decree works contrary to the estimations and planning [of the
 people].
@@ -136,11 +124,7 @@ troubled by warning.
 the choice and planning [of the people].
 
 > 24ـ يَجْرِى القَضاءُ بِالمَقاديرِ عَلى خِلافِ الاِخْتِيارِ
-<blockquote dir="rtl">
-  <p>
-والتَّدْبيرِ.
-  </p>
-</blockquote>
+> والتَّدْبيرِ.
 
 25. The worst of things is displeasure with the divine decree.
 
@@ -152,15 +136,10 @@ a secret of Allah, the Glorified, so do not trouble yourself with
 [trying to understand] it.
 
 > 26ـ وَسُئِلَ ـ عَلَيه السّلامُ ـ عَنِ القَدَرِ؟ فَقالَ: طَريقٌ
-<blockquote dir="rtl">
-  <p>
-مُظْلِمٌ فَلا تَسْلُكُوهُ، وبَحْرٌ عَميقٌ فَلا تَلِجُوهُ، وسِرُّ
-اللّهِ سُبْحانَهُ فَلا تَتَكَلَّفُوهُ.
-  </p>
-</blockquote>
+> مُظْلِمٌ فَلا تَسْلُكُوهُ، وبَحْرٌ عَميقٌ فَلا تَلِجُوهُ، وسِرُّ
+> اللّهِ سُبْحانَهُ فَلا تَتَكَلَّفُوهُ.
 
 27. Destiny overpowers precaution.
 
 > 27ـ اَلقَدَرُ يَغْلِبُ الحَذَرَ.
-
 

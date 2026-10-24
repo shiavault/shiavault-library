@@ -310,4 +310,3 @@ self, personality, or ego (Iqbal A. D., Shuzrat e Fikr e Iqbal, 1983:78)
 
 ii. Building of an ideal society by the developed individuals
 
-

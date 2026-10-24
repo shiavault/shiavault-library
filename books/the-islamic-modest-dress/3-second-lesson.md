@@ -498,4 +498,3 @@ serves just this purpose.
 
 [^2]: Sunan I al Daremi, Moqaddamah, p.32
 
-

@@ -7,7 +7,6 @@ the verses, narrations and historical events of people who had this
 ailment like Qaroon, Mansoor Duwaaniqi and … and should take admonition
 from them so that he may improve.
 
-
 **Lesson: 17 : Oppression**
 
 One of the meanest vices is injustice that will appear before you in
@@ -72,7 +71,6 @@ man.
 E: And do not think Allah to be heedless of what the unjust do; He only
 respites them to a day on which the eyes shall be fixed open.
 
-
 **Vicious effects of injustice**
 
 About the ominous consequences of oppression in this world the Holy
@@ -110,7 +108,6 @@ a man wakes up in the morning with no intention at all of oppressing
 anyone or of doing any injustice to anybody.
 9 - It has been recorded from Imam Baqir (a.s.): Oppression in this
 world turns into darkness in the other one
-
 
 **Harms of oppression**
 
@@ -274,7 +271,6 @@ of his passing away he said: O my dear son! Let it never be so that you
 oppress somebody who may not find any helper except God. Other parts on
 this topic mean vices will be narrated in subsequent lessons.
 
-
 **Lesson: 18 : Help in oppression**
 
 Just as oppression is prohibited, friendship with and help to the
@@ -409,7 +405,6 @@ breathed his last. When I went to the Imam, his eyes fell on me and at
 once he said: By God, I have acted as I had promised with your friend. I
 said: By God, you said the truth because he too said so at the time of
 his death.
-
 
 **Lesson: 19 : Tyrants should not be relied upon or supported**
 
@@ -691,7 +686,6 @@ enemy of Allah, he declared himself to be clear of him that he was an
 enemy of Allah, he declared himself to be clear of him; most surely
 Ibrahim was very tender-hearted, forbearing.
 
-
 **Lesson: 20 : Hypocrisy**
 
 One of the very dangerous vices is hypocrisy. When it appears in any
@@ -958,7 +952,6 @@ hypocrites come to you, they say: We bear witness that you are most
 surely Allah's Apostle; and Allah knows that you are most surely His
 Apostle, and Allah bears witness that the hypocrites are surely liars.
 
-
 **Lesson: 21 : Discussion of hypocrisy & hypocrites continued
 
 Some Important Points**
@@ -1101,5 +1094,4 @@ We give you the oath of your Holy self and of the high status of your
 Friends and of the blood of the martyrs of your path! Keep us far away
 from the evil of hypocrisy and selfishness and egotism and make us the
 possessors of good morals and attributes of your righteous slaves.
-
 

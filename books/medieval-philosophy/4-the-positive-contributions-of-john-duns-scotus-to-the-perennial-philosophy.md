@@ -21,7 +21,6 @@ is the basis of being. This new entitative perfection, which comes to
 the species (forma) and which indicates the passage from specific
 difference to individual determination, Scotus calls "thisness."
 
-
 **IV. The Decadence Of Scholastic Philosophy**
 
 During the Middle Ages there two celebrated centers of culture: the
@@ -60,7 +59,6 @@ when faith became weaker, these truths were denied, which is exactly
 what modern philosophy has done.
 
 On the Internet More About William of Ockham
-
 
 **V. Philosophical and Mystical Knowledge**
 
@@ -102,7 +100,6 @@ metaphysics does not know decadence, and for this reason Scholasticism
 has justly been included in the "philosophia perennis," the Perennial
 Philosophy, the philosophy of all times and of all places.
 
-
 **The Philosophy of Bonaventure
 
 I. Life and Works**
@@ -129,7 +126,6 @@ Bonaventure has been honored with the title "Doctor Seraphicus." His
 principal works are: Commentaries on the Four Books of Sentences of
 Peter Lombard; Itinerarium mentis in Deum; De reductione artium ad
 theologiam; and Breviloquium.
-
 
 II. Doctrine: General Notions
 
@@ -262,7 +258,6 @@ admits as valid); and from the concept of infinite goodness we can reach
 the consideration of the Trinity. In "similitudo" the soul attains to
 mystical union, the supreme degree of love between the creature and his
 Creator.
-
 
 The Philosophy of Thomas Aquinas
 
@@ -655,5 +650,4 @@ created universe.
 3. Summa Theol., Part I, q 1, a. 1; q. 12, a. 4; q. 32, a. 1; In Primum
 Librum Sent., q. 1, a. 1 and 2.
 4. Summa Theol., Part I, q. 2, a.1; Contra Gent., I, 11.
-
 

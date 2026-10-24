@@ -97,4 +97,3 @@ event. Fatimah said, “May Allah reward you for this news.” \`Ali was
 sitting there giving away handfuls of Dirhams to the needy so much so
 that there was nothing left for him.”[^3]
 
-

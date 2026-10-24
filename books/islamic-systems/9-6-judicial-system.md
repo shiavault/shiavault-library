@@ -52,4 +52,3 @@ accordance with the laws and rules of Islam alone.
 
 Praise be to Allah, Lord of the worlds
 
-

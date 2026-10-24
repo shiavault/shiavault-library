@@ -12,4 +12,3 @@ visualizing such scenes, then atonement is not obligatory for him, but
 the obligatory precaution is that it has all rulings of intercourse
 which has been mentioned in past articles.
 
-

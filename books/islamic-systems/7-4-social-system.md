@@ -67,4 +67,3 @@ It is our responsibility to form an Islamic society and keep it safe
 from subversive and corrupt elements by means of enjoining good and
 forbidding evil.
 
-

@@ -251,4 +251,3 @@ were born to avoid the swing of the pendulum between the logicist and
 irrationalist extremes (between Permenides and Heracleitus, between
 Charybdis and Scylla).
 
-

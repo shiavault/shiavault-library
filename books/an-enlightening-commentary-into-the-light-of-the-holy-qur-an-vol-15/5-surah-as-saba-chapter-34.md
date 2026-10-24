@@ -10,11 +10,7 @@ Surah As-Saba, Chapter 34
 The Feature of Surah As-Saba
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -41,5 +37,4 @@ be given so much good of this world and the next that has never come to
 his mind and which he has never desired or thought of.”* [^1]
 
 [^1]: Majma‘-ul-Bayan, Vol. 8, P. 375
-
 

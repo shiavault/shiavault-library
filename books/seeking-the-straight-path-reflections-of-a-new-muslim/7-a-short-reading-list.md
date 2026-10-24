@@ -31,4 +31,3 @@ high-quality works, including access to a glossary of Islamic terms.*
  Jazakallah to all those who helped with this work in any way, and to
 all those who helped me in my struggle. Alhumdolillaah.
 
-

@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّکّ لَعَلىَ خُلُقٍ عَظِيمٍ
-  </p>
-</blockquote>
+> اِنَّکّ لَعَلىَ خُلُقٍ عَظِيمٍ
 
 *(And certainly, you stand on sublime morality.)*[^1]
 
 The Holy Prophet (s.a.w.) said:
 
-<blockquote dir="rtl">
-  <p>
-بُعِثتُ لِأُتَمِّمَ مَکاَرِمَ الْاَخلاَقِ
-  </p>
-</blockquote>
+> بُعِثتُ لِأُتَمِّمَ مَکاَرِمَ الْاَخلاَقِ
 
 I have been sent (as a Prophet) to perfect the morals.[^2]
 
@@ -233,5 +225,4 @@ pg. 519.
 
 [^10]: Muntahal Aa’maal, vol. 1, pg. 212; Majmua’h Warraam Ibn Abi
 Farraas.
-
 

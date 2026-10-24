@@ -1,12 +1,8 @@
 Superior Position of The Ahlulbayt
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-و قالَ : أَللّهُمَّ إِنَّ هؤُلاءِ أَهلُ بَيتِي و خَاصَّتِي وَ حَامَّتي
-، لَحمُهُم لَحمِي وَ دَمُهُم دَمِي
-  </p>
-</blockquote>
+> و قالَ : أَللّهُمَّ إِنَّ هؤُلاءِ أَهلُ بَيتِي و خَاصَّتِي وَ حَامَّتي
+> ، لَحمُهُم لَحمِي وَ دَمُهُم دَمِي
 
 **And he prayed, "O Allah! These are my true household, my unique
 people, and my kin. Their flesh is my flesh; their blood is my blood,**
@@ -115,11 +111,7 @@ shares the same blood and flesh as his household because they are all
 created from the same light and from the same origin as cited in many
 narrations such as the Prophetic statement,
 
-<blockquote dir="rtl">
-  <p>
-خلق الله الناس من أشجار شتى وخلقني وأنت (يا علي) من شجرة واحدة.
-  </p>
-</blockquote>
+> خلق الله الناس من أشجار شتى وخلقني وأنت (يا علي) من شجرة واحدة.
 
 “*Allah created the people from different trees and He created me and
 you (Oh Ali) from the same tree*.”
@@ -139,5 +131,4 @@ the flesh and blood of the Prophet. After all, a fetus is developed from
 a drop of semen which is formed from the blood in the veins and mixed
 with flesh, which is also the origin. Hence, all of the *Members of the
 Cloak* come from the shared origin of the Prophet (SA).
-
 

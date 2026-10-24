@@ -79,4 +79,3 @@ are two cases. It is written in the form of a *yā'* if preceded by a
 if preceded by an *alif* or a *wāw*, for example: **قِراءَة.** The same
 rules apply to the feminine *alif*.
 
-

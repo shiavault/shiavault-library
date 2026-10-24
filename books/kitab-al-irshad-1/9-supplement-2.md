@@ -213,7 +213,6 @@ the matter is all (with Him)."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 The historians (naqalat al-athar) report that a man from the tribe of
 Asad stood before the Commander of the faithful, peace be on him and
 said to him: "Commander of the faithful, there is wonder among you, Banu
@@ -239,9 +238,7 @@ would make them responsible for the truth in its purity. If it is
 otherwise, do not give yourself sorrows for them and do not console
 sinful people."
 
-
 Some of his Words of Wisdom and Warning, Peace be on him
-
 
 May God have mercy on you, take your (eternal) abode from your
 transitory (life).
@@ -328,67 +325,51 @@ pastime.
 One who buys his soul and sets it free is not like the one who sells
 his soul and imprisons it.
 
-
 The one who gets to the shade first has been exposed to the sun. The
 one who gets to water first is thirsty.
 
-
 Good breeding takes the place of a good family.
-
 
 The man who is abstemious towards the world increases his renunciation
 of it whenever it increases its manifestation of itself to him.
 
-
 Affection is the greatest of traps. Knowledge is the noblest of
 qualities.
-
 
 If work is an effort then being concerned with avoiding (it) is an act
 of corruption
 
-
 The man who goes to the extreme in rivalry commits a sin. The man who
 falls short in it will be subjected to it.
-
 
 Forgiveness corrupts the wicked to the same extent as it restores the
 noble.
 
-
 Whoever loves noble actions avoids crimes.
-
 
 Men cast their eyes on a man whose thoughts adorn him.
 
-
 The ultimate generosity is that you should give what you are able.
-
 
 There is no distance for one who is present and no nearness for one who
 is separate.
 
-
 \*\*\*\*\*\*\*
 
 One of the greatest sins of a man is to be unaware of his faults.
-
 
 \*\*\*\*\*\*\*\*
 
 The perfection of moderation is a willingness to accept what is
 sufficient.
 
-
 \*\*\*\*\*\*\*\*
 
 Generosity is perfected through the adoption of noble deeds and the
 payment of debts.
 
-
 Nobility is revealed through loyalty to brotherhood in hard times and
 easy times.
-
 
 If the sinner is displeased, he slanders. If he is content, he lies. If
 he is covetous, he wounds.
@@ -398,67 +379,49 @@ he is covetous, he wounds.
 One who is not more concerned with his reason for what is, will more
 (inevitably) come to his death.
 
-
 Put up with an error by your friend for the time of an attack by your
 enemy.
 
-
 A good confession wipes out the act of committing a wrong.
-
 
 What money is spent to make you aware of reforming your character is
 not wasted.
 
-
 Acting moderately is easier than acting immoderately and restraint is
 greater in protection than profligacy.
-
 
 The evilest of provisions for the return (to God) is the committing of
 a crime against men.
 
-
 No benefit is wasted if it is received with thanks. No grace remains if
 it is received ungratefully.
-
 
 Time is of two kinds: time you have and time you owe. When you have it
 don't undervalue it and when you owe it, be steadfast.
 
-
 Often a mighty man is the humblest of creatures and a humble man is the
 mightiest of creatures.
-
 
 Whoever is not tested by affairs is deceived and the one who struggles
 against the truth is brought down.
 
-
 If the allotted span of life is known, hope is diminished.
-
 
 Thankfulness is the ornament of sufficiency and steadfastness is the
 ornament of tribulation.
 
-
 The value of each person lies in the good he does.
-
 
 People are the children of their own good actions.
 
-
 The person is found under his tongue.
 
-
 Whoever consults those with understanding is guided correctly.
-
 
 One who is satisfied with little can do without much. Those who cannot
 do without much have need of wicked men.
 
-
 Whoever has sound roots has branches which will bear fruit.
-
 
 Whoever gives hope to man regards him with awe. Whoever is deficient in
 the knowledge of anything, shames him.
@@ -495,39 +458,31 @@ the allotted time comes to an end, death is in view."
 are led towards their destinations until death takes part in their
 control."
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*
 
 One who followed certain truth and then was struck by doubt, should
 remain with his certain truth. Indeed certain truth cannot be removed by
 doubt.
 
-
 A believer is tired of himself while the people find themselves in
 comfortable position with regard to him.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 The man who is lazy does not love God's truth.
-
 
 The best kind of worship is steadfastness, silence, and waiting for
 relief.
 
-
 Steadfastness is of three types: steadfastness in tragedy,
 steadfastness against disobedience, and steadfastness in obedience.
-
 
 Clemency is the helper of the believer. Knowledge is his friend,
 gentleness his brother, piety his father and steadfastness is the
 commander of his troops.
 
-
 Three things (which will earn) the treasures of Heaven are: giving alms
 secretly, keeping tragedy hidden and keeping sickness hidden.
-
 
 Feel need for the one whose prisoner you wish to be, dispense with the
 one whose equal you wish to be and prefer the one whose leader you wish
@@ -550,14 +505,11 @@ with us is against us."
 Generosity belongs to the nobility of nature but over-generosity is a
 corruption of creation.
 
-
 The abandonment of a promise to a friend is the motive for being cut
 off (from his friendship).
 
-
 Rumours of anything among the ordinary people are evidence for the
 beginnings of its existence.
-
 
 Search out sustenance. It is guaranteed to one who looks for it.
 
@@ -574,37 +526,30 @@ says: By My strength and My majesty, I will support you even after
 The best kind of wealth is the abandonment of begging. The worst kind
 of poverty is the clinging to subservience.
 
-
 Good behaviour lies in protection from destruction. Gentleness is the
 alleviation of distress.
 
-
 A man who laughingly acknowledges hissing is better than one who
 behaves boldly towards God in tears.
-
 
 If it was not for discussion, the (different) schools of thought would
 be ignorant.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 No tool is more beneficial than intelligence. No enemy is more harmful
 than ignorance.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 One who widens his hopes lessens his effort.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 The most grateful of the people is the most satisfied of them. The most
 ungrateful of them is the most covetous of them.'
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 In such speeches as these wisdom may be gained. We have not included in
 this chapter of speeches, all of those which have been reported with

@@ -1,16 +1,12 @@
 Part 9
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ؛ لَوْ يُطِيعُكُمْ فِي
-كَثِيرٍ مِنْ الأَمْرِ لَعَنِتُّمْ، وَلَكِنَّ اللَّهَ حَبَّبَ
-إِلَيْكُمْ الإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ، وَكَرَّهَ
-إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ، أُوْلَئِكَ هُمْ
-الرَّاشِدُونَ. فَضْلاً مِنْ اللَّهِ وَنِعْمَةً، وَاللَّهُ عَلِيمٌ
-حَكِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ؛ لَوْ يُطِيعُكُمْ فِي
+> كَثِيرٍ مِنْ الأَمْرِ لَعَنِتُّمْ، وَلَكِنَّ اللَّهَ حَبَّبَ
+> إِلَيْكُمْ الإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ، وَكَرَّهَ
+> إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ، أُوْلَئِكَ هُمْ
+> الرَّاشِدُونَ. فَضْلاً مِنْ اللَّهِ وَنِعْمَةً، وَاللَّهُ عَلِيمٌ
+> حَكِيمٌ.﴾
 
 ***“And know that among you is Allah’s Apostle; should he obey you in
 many a matter, you would surely fall into distress, but Allah has
@@ -48,11 +44,7 @@ The Faithful feels disgusted due to sins
 Now as regards deeds, you should know who is a believer or a true
 faithful person? He is the one about whom God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience… (49:7)”***
@@ -90,11 +82,7 @@ makes no difference to him, as he abhors sin in itself.
  If sin becomes bitter to one, it is a sign of his piety, maturity,
 improvement and reform. Thereafter is said:
 
-<blockquote dir="rtl">
-  <p>
-﴿أُوْلَئِكَ هُمْ الرَّاشِدُونَ﴾
-  </p>
-</blockquote>
+> ﴿أُوْلَئِكَ هُمْ الرَّاشِدُونَ﴾
 
 ***“…these it is that are the followers of a right way. (49:7)”***
 
@@ -109,11 +97,7 @@ it.”***
 Yesterday I told you that this verse is not confirming predestination;
 rather it is a reply to predestination:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَضْلاً مِنْ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿فَضْلاً مِنْ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾
 
 ***“By grace from Allah and as a favor; and Allah is Knowing, Wise.
 (49:8)”***
@@ -143,11 +127,7 @@ Reach truth through practice
 One who is not a seeker of Faith, who is not one of those who want to
 give up sinning, how can one be worth:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience… (49:7)”***
@@ -183,11 +163,7 @@ in slander; he does not spread rumors (disturbing tranquility).
 disobedience” is there so that Momineen should try to be more and more
 pious and perfectly truthful.
 
-<blockquote dir="rtl">
-  <p>
-﴿أُوْلَئِكَ هُمْ الرَّاشِدُونَ﴾
-  </p>
-</blockquote>
+> ﴿أُوْلَئِكَ هُمْ الرَّاشِدُونَ﴾
 
 ***“…these it is that are the followers of a right way. (49:7)”***
 
@@ -207,11 +183,7 @@ disintegration and quarrelling with one another. This is a natural
 affair.  
  The angels had said on the first day of creation:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ؟﴾
-  </p>
-</blockquote>
+> ﴿أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ؟﴾
 
 ***“What! Wilt Thou place in it such as shall make mischief in it and
 shed blood?”***[^2]
@@ -239,11 +211,7 @@ their hearts are unaware of it. Had they certainty about grave and
 Barzakh, they would have never given any importance to this material
 world:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالآخِرَةُ خَيْرٌ وَأَبْقَى﴾
-  </p>
-</blockquote>
+> ﴿وَالآخِرَةُ خَيْرٌ وَأَبْقَى﴾
 
 ***“The Hereafter is better and ever lasting.”***[^3]
 
@@ -268,11 +236,7 @@ this material world and whatever is in it as great. Just peep into the
 world of Barzakh (life between death and resurrection) and then only you
 will know what is greatness:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالصَّافَّاتِ صَفًّا﴾
-  </p>
-</blockquote>
+> ﴿وَالصَّافَّاتِ صَفًّا﴾
 
 ***“I swear by those who draw themselves out in ranks.”***[^4]
 
@@ -370,5 +334,4 @@ from all sins and disobediences.
 [^5]: Nahjul Balagha
 
 [^6]: Wasaelush Shia Chapter of Sajdah
-
 

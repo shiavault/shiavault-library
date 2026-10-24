@@ -15,4 +15,3 @@ transliteration have been applied.
 The Arabic form of names has been used rather than the European ones
 such as Ibrahim and not Abraham.
 
-

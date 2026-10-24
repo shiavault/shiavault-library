@@ -19,24 +19,15 @@ The Beloved
 does not let you hear [his praise] praises you.
 
 > 4ـ إنَّما يُحِبُّكَ مَنْ لايَتَمَلَّقُكَ ويُثْني عَلَيْكَ مَنْ
-<blockquote dir="rtl">
-  <p>
-لايُسْمِعُكَ.
-  </p>
-</blockquote>
+> لايُسْمِعُكَ.
 
 5. Let the most beloved person to you and the one who has the greatest
 status in your eyes be the one who strives hardest in benefiting people.
 
 > 5ـ لِيَكُنْ أحَبُّ النَّاسِ إلَيْكَ وأخْظاهُمْ لَدَيْكَ أكْثَرُهُمْ
-<blockquote dir="rtl">
-  <p>
-سَعْياً في مَنافِعِ النّاسِ.
-  </p>
-</blockquote>
+> سَعْياً في مَنافِعِ النّاسِ.
 
 6. Let the most beloved person to you be the compassionate adviser.
 
 > 6ـ لِيَكُنْ أحَبُّ النّاسِ إلَيْكَ المُشْفِقُ النّاصِحُ.
-
 

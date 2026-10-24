@@ -171,4 +171,3 @@ put a man whose parents were slaves, in charge of the elders.
 (This will be discussed after examining the events which took place when
 the Prophet of God passed away).
 
-

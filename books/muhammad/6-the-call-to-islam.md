@@ -2069,4 +2069,3 @@ Allah have mercy upon Khabbab; he willingly accepted Islam, obediently
 migrated, lived as a mujahid, and supported Islam with his might. Surely
 Allah rewards the doers of good.”
 
-

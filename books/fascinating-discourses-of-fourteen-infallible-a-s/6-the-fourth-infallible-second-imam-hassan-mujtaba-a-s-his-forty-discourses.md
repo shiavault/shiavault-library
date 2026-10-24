@@ -30,10 +30,8 @@ I. The age of ProphetfPBUII.J (nearly 8 years)
 2. At the service of his father (37 year approx) 3. The period of
 Imamate 10 years.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام الحسين عليه السلام
 ------------------------------------------
-</p>
 
 1- اَلحَمدُ لِلّهِ الَّذی مَن تَکَلَّمَ سَمِعَ کَلامَهُ، وَمَن سَکَتَ
 عَلِمَ ما في نَفسِهِ، وَمَن عاشَ فَعَلَيهِ رِزقُهُ، وَمَن ماتَ فإِلَيهِ
@@ -424,5 +422,4 @@ desires. He is with those upon whom Allah has bestowed His beneficiences
 
 from among the Prophets & the truthfuls & the martyres & pious ones.
 (TUHFUL AQOOL P 232)
-
 

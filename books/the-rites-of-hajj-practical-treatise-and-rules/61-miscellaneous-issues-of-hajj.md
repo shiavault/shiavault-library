@@ -80,4 +80,3 @@ no problem (in day or night) but it is better to observe the precaution
 in the place that is out of Haram (that side which is beyond Masjid
 al-Tan’eem).
 
-

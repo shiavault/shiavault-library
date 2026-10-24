@@ -32,4 +32,3 @@ Or, if the prefixed noun is an adjective and the compliment to the
 prefixed noun is made definite by the *alif-lām* suffix, for example:  
 **المتَّبع الحقِّ منصورٌ** (He who follows the truth will be helped.)
 
-

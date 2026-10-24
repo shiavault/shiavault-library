@@ -66,4 +66,3 @@ Incidentally, the same is the reason behind the law forbidding liquor
 and gambling.  
   
 
-

@@ -96,4 +96,3 @@ from Meaani al-Akhbar, al-Khissal, and al-Amali.)
 
 [^5]: Quoted from al-Wafi; part 13 page 94 (as quoted from al- Kafi).
 
-

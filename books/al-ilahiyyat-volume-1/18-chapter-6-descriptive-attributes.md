@@ -868,11 +868,7 @@ not see how the most Praised One attributes “trickery”, “plotting” and
 “forgetfulness” to Himself, Praise belongs to Him, in many verses
 including this one:
 
-<blockquote dir="rtl">
-  <p>
-وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ، وَاللَّهُ خَيْرُ الْمَاكِرِينَ
-  </p>
-</blockquote>
+> وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ، وَاللَّهُ خَيْرُ الْمَاكِرِينَ
 
 ***They plot and plan, and Allah also plans, but Allah is the best of
 planners (Qur’an, 8:30)***
@@ -1090,5 +1086,4 @@ item.
 [^21]: Al-Saduq, Al-Tawhid, Chapter 12, hadith 10, p. 152.
 
 [^22]: Ibid., Chapter 12, hadith 11, p. 153.
-
 

@@ -713,4 +713,3 @@ Hujjat and Khalaf-e-Saleh i.e. Muhammad, then that Mahdi, whom we spoke
 about will be verified without paying any regard to the possibility of a
 new Mahdi coining in the future.
 
-

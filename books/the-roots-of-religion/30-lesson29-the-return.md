@@ -278,4 +278,3 @@ condition?
 
 [^1]: See Surah Hud and elsewhere.
 
-

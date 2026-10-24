@@ -39,4 +39,3 @@ there tormented.
 *Say: I seek refuge in the Lord of the dawn, from the evil of what he
 was created.*
 
-

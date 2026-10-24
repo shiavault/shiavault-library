@@ -903,17 +903,9 @@ Raka'ah of the three and four Raka'ah prayer between reciting Surah
 Al-Hamd (without the second Surah) or reciting the Tasbeehaat Al-Arba'
 three times. This Tasbeeh is:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللهِ وَ الحَمْدُ اللهِ
-  </p>
-</blockquote>
+> سُبْحانَ اللهِ وَ الحَمْدُ اللهِ
 
-<blockquote dir="rtl">
-  <p>
-وَلا إلهَ إلاّ اللهُ وَ الله أكبرُ
-  </p>
-</blockquote>
+> وَلا إلهَ إلاّ اللهُ وَ الله أكبرُ
 
 *“Glorified is Allah; the Praise is for Allah; there is no God except
 Allah and Allah is the Greatest”*
@@ -1102,41 +1094,17 @@ to prostrate only. It is not obligatory to perform any Zikr, however,
 the best manner is to perform the Zikr of Allah and it is better to
 select this Zikr:
 
-<blockquote dir="rtl">
-  <p>
-لا إلهَ إلاَّ اللّه‏ُ حَقّاً حَقاً،
-  </p>
-</blockquote>
+> لا إلهَ إلاَّ اللّه‏ُ حَقّاً حَقاً،
 
-<blockquote dir="rtl">
-  <p>
-لا إلهَ إلاَّ اللّه‏ُ إيماناً و تَصْدِيقاً،
-  </p>
-</blockquote>
+> لا إلهَ إلاَّ اللّه‏ُ إيماناً و تَصْدِيقاً،
 
-<blockquote dir="rtl">
-  <p>
-لا إلهَ إلاَّ اللّه‏ُ عُبُودِيَّةً وَرِقّاً،
-  </p>
-</blockquote>
+> لا إلهَ إلاَّ اللّه‏ُ عُبُودِيَّةً وَرِقّاً،
 
-<blockquote dir="rtl">
-  <p>
-سَجَدْتُ لَك يا رَبِّ تَعَبُّداً وَرِقّاً،
-  </p>
-</blockquote>
+> سَجَدْتُ لَك يا رَبِّ تَعَبُّداً وَرِقّاً،
 
-<blockquote dir="rtl">
-  <p>
-لا مُسْتَنْكِفاً وَلا مُسْتَكْبِراً،
-  </p>
-</blockquote>
+> لا مُسْتَنْكِفاً وَلا مُسْتَكْبِراً،
 
-<blockquote dir="rtl">
-  <p>
-بَلْ اَنْا عَبْدٌ ذَلِيلٌ ضَعِيفٌ خائِفٌ مُسْتَجِيرُ
-  </p>
-</blockquote>
+> بَلْ اَنْا عَبْدٌ ذَلِيلٌ ضَعِيفٌ خائِفٌ مُسْتَجِيرُ
 
 **Issue 413:** The Tashahhud in the second Raka'ah of all of the prayers
 is obligatory. Likewise, in the last Raka'ah of Salatul-Maghrib,
@@ -1145,23 +1113,11 @@ is obligatory. Likewise, in the last Raka'ah of Salatul-Maghrib,
 To sit after the second prostration in the state of stillness of the
 body, it suffices to say:
 
-<blockquote dir="rtl">
-  <p>
-أشْهَدُ أنّ لا اله الا اللهُ وحده لا شَريكَ لَهُ
-  </p>
-</blockquote>
+> أشْهَدُ أنّ لا اله الا اللهُ وحده لا شَريكَ لَهُ
 
-<blockquote dir="rtl">
-  <p>
-وَ أشْهَدُ أنّ مُحَمَداً عَبْدُهُ وَ رَسُوله
-  </p>
-</blockquote>
+> وَ أشْهَدُ أنّ مُحَمَداً عَبْدُهُ وَ رَسُوله
 
-<blockquote dir="rtl">
-  <p>
-اللهم صَلْ على مُحَمَدٍ وَال مُحَمَدٍ
-  </p>
-</blockquote>
+> اللهم صَلْ على مُحَمَدٍ وَال مُحَمَدٍ
 
 It is obligatory that it be performed in proper 'Arabic observing in it
 the proper order and continuity.
@@ -1212,41 +1168,17 @@ one desires in the supplication, even saying **سُبْحانَ الله** on
 time. However, the best manner supplication is the following
 supplication:
 
-<blockquote dir="rtl">
-  <p>
-لا اِلهَ اِلاَّ اللّه‏ُ الحَلِيمُ الكَرِيمُ،
-  </p>
-</blockquote>
+> لا اِلهَ اِلاَّ اللّه‏ُ الحَلِيمُ الكَرِيمُ،
 
-<blockquote dir="rtl">
-  <p>
-لا اِلهَ اِلاَّ اللّه‏ُ العَلِىُّ العَظِيمُ،
-  </p>
-</blockquote>
+> لا اِلهَ اِلاَّ اللّه‏ُ العَلِىُّ العَظِيمُ،
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللّه‏ِ رَبِّ السَّمواتٍ السَّبْعِ،
-  </p>
-</blockquote>
+> سُبْحانَ اللّه‏ِ رَبِّ السَّمواتٍ السَّبْعِ،
 
-<blockquote dir="rtl">
-  <p>
-وَرَبِّ الاَرَضِينَ السَّبْعِ،
-  </p>
-</blockquote>
+> وَرَبِّ الاَرَضِينَ السَّبْعِ،
 
-<blockquote dir="rtl">
-  <p>
-وَما فِيهِنَّ وَما بَيْنَهُنَّ وَرَبِّ العَرْشِ العَظِيمِ،
-  </p>
-</blockquote>
+> وَما فِيهِنَّ وَما بَيْنَهُنَّ وَرَبِّ العَرْشِ العَظِيمِ،
 
-<blockquote dir="rtl">
-  <p>
-وَالْحَمْدُ للّه‏ِ رَبِّ العالَمِينَ
-  </p>
-</blockquote>
+> وَالْحَمْدُ للّه‏ِ رَبِّ العالَمِينَ
 
 ### 1. Intention (Niyyah)
 
@@ -1637,17 +1569,9 @@ following manner:
 After the prayer, immediately make the intention for the prostration of
 forgetfulness, then, make a prostration and say in the prostration:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ وَ بِاللهِ السَّلامُ عَليْكَ أَيُّها النَّبِيُ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ وَ بِاللهِ السَّلامُ عَليْكَ أَيُّها النَّبِيُ
 
-<blockquote dir="rtl">
-  <p>
-وَرَحمَتُ اللهِ وَ بَرَكاتُهُ
-  </p>
-</blockquote>
+> وَرَحمَتُ اللهِ وَ بَرَكاتُهُ
 
 *“In the name of Allah and By Allah, Peace be upon you O Prophet and the
 Mercy of Allah and His* *Blessings”*
@@ -2386,43 +2310,23 @@ been done in the first Raka'ah completely.
 For example, divide Surah Ikhlaas (112) into five parts, then, recite
 before the first Rukoo':
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 Then, bow in Rukoo', then, raise the head and recite:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ
 
 Then, bow in Rukoo', then, raise the head and recite:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الصَّمَدُ
-  </p>
-</blockquote>
+> اللَّهُ الصَّمَدُ
 
 Then, bow in Rukoo', then, raise the head and recite:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَلِدْ وَلَمْ يُولَدْ
-  </p>
-</blockquote>
+> لَمْ يَلِدْ وَلَمْ يُولَدْ
 
 Then, bow in Rukoo', then, raise the head and recite:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
 
 After raising the head from (the fifth) Rukoo', prostrate the two
 prostrations, then, stand and do in the second Raka'ah the same as what
@@ -2481,89 +2385,32 @@ and make the Tashahhud and Salaam.
 one desire as a supplication. However, it is appropriate to recite this
 supplication with the intent of reward:
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمّ أَهْلَ الْكِبْرِيَاءِ وَالْعَظَمَةِ،
-  </p>
-</blockquote>
+> اللّهُمّ أَهْلَ الْكِبْرِيَاءِ وَالْعَظَمَةِ،
 
-<blockquote dir="rtl">
-  <p>
-وَأَهْلَ الْجُودِ وَالْجَبَرُوتِ،
-  </p>
-</blockquote>
+> وَأَهْلَ الْجُودِ وَالْجَبَرُوتِ،
 
-<blockquote dir="rtl">
-  <p>
-وَأَهْلَ الْعَفْوِ وَالرّحْمَةِ،
-  </p>
-</blockquote>
+> وَأَهْلَ الْعَفْوِ وَالرّحْمَةِ،
 
-<blockquote dir="rtl">
-  <p>
-وَأَهْلَ التّقْوَى وَالْمَغْفِرَةِ،
-  </p>
-</blockquote>
+> وَأَهْلَ التّقْوَى وَالْمَغْفِرَةِ،
 
-<blockquote dir="rtl">
-  <p>
-أَسْأَلُكَ بِحَقّ هذَا الْيَوْمِ الّذِي جَعَلْتَهُ لِلْمُسْلِمِينَ
-عِيداً،
-  </p>
-</blockquote>
+> أَسْأَلُكَ بِحَقّ هذَا الْيَوْمِ الّذِي جَعَلْتَهُ لِلْمُسْلِمِينَ
+> عِيداً،
 
-<blockquote dir="rtl">
-  <p>
-وَلِمُحَمّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِه ذُخْراً وَمَزِيداً
-  </p>
-</blockquote>
+> وَلِمُحَمّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِه ذُخْراً وَمَزِيداً
 
-<blockquote dir="rtl">
-  <p>
-أَنْ تُصَلّيَ عَلَى مُحَمّدٍ وَآلِ مُحَمّدٍ
-  </p>
-</blockquote>
+> أَنْ تُصَلّيَ عَلَى مُحَمّدٍ وَآلِ مُحَمّدٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ تُدْخِلَنِي فِي كُلّ خَيْرٍ أَدْخَلْتَ فِيهِ مُحَمّداً
-  </p>
-</blockquote>
+> وَأَنْ تُدْخِلَنِي فِي كُلّ خَيْرٍ أَدْخَلْتَ فِيهِ مُحَمّداً
 
-<blockquote dir="rtl">
-  <p>
-وَآلَ مُحَمّدٍ،
-  </p>
-</blockquote>
+> وَآلَ مُحَمّدٍ،
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ تُخْرِجَنِي مِنْ كُلِّ سُوءٍ أَخْرَجْتَ مِنْهُ مُحَمّداً
-  </p>
-</blockquote>
+> وَأَنْ تُخْرِجَنِي مِنْ كُلِّ سُوءٍ أَخْرَجْتَ مِنْهُ مُحَمّداً
 
-<blockquote dir="rtl">
-  <p>
-وَآلَ مُحَمّدٍ
-  </p>
-</blockquote>
+> وَآلَ مُحَمّدٍ
 
-<blockquote dir="rtl">
-  <p>
-صَلَوَاتُكَ عَلَيْهِ وَعَلَيْهِمْ.
-  </p>
-</blockquote>
+> صَلَوَاتُكَ عَلَيْهِ وَعَلَيْهِمْ.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمّ إِنّي أَسْأَلُكَ خَيْرَ مَا سَأَلَكَ عِبَادُكَ الصَّالِحُونَ،
-  </p>
-</blockquote>
+> اللّهُمّ إِنّي أَسْأَلُكَ خَيْرَ مَا سَأَلَكَ عِبَادُكَ الصَّالِحُونَ،
 
-<blockquote dir="rtl">
-  <p>
-وَأَعُوذُ بِكَ مِمَّا اسْتَعَاذَ مِنْهُ عِبَادُكَ الصَّالِحُونَ.
-  </p>
-</blockquote>
-
+> وَأَعُوذُ بِكَ مِمَّا اسْتَعَاذَ مِنْهُ عِبَادُكَ الصَّالِحُونَ.
 

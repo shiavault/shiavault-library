@@ -8,11 +8,7 @@ Surah Qari’ah, Chapter 101
 Contents of Surah Qari'ah
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -38,79 +34,31 @@ Hell on the Day of Judgement, Allah willing,"*[^1]
 Surah Qari’ah, Verses 1-11
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-الْقَارِعَةُ
-  </p>
-</blockquote>
+> الْقَارِعَةُ
 
-<blockquote dir="rtl">
-  <p>
-مَا الْقَارِعَةُ
-  </p>
-</blockquote>
+> مَا الْقَارِعَةُ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْقَارِعَةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْقَارِعَةُ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
-  </p>
-</blockquote>
+> يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
 
-<blockquote dir="rtl">
-  <p>
-وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
-  </p>
-</blockquote>
+> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ
-  </p>
-</blockquote>
+> فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
-  </p>
-</blockquote>
+> فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
 
-<blockquote dir="rtl">
-  <p>
-فَأُمُّهُ هَاوِيَةٌ
-  </p>
-</blockquote>
+> فَأُمُّهُ هَاوِيَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا هِيَهْ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا هِيَهْ
 
-<blockquote dir="rtl">
-  <p>
-نَارٌ حَامِيَةٌ
-  </p>
-</blockquote>
+> نَارٌ حَامِيَةٌ
 
 ***1. “The Calamity"***  
 ***2. “What is the Calamity?"***  
@@ -379,5 +327,4 @@ Your Grace keep us far from it.*
 [^5]: Nur-uth- Thaqalayn, vol. 5, p. 659, tradition 8.
 
 [^6]: Ibid. , tradition 7.
-
 

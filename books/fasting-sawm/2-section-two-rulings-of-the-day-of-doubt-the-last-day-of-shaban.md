@@ -54,4 +54,3 @@ appeared later that it is in the month of Ramadan?
 A: His sawm is correct and it is valid to be considered from the month
 of Ramadan.
 
-

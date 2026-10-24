@@ -64,4 +64,3 @@ Religion is not apolitical, and the state cannot remain indifferent to
 the beliefs of its citizens anymore if it takes itself seriously as an
 organisation based on the recognition of citizens.
 
-

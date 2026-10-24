@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ نَزَعْنَا مَا فىِ صُدُورِهِم مِّنْ غِلٍ‏ّ ‏
-  </p>
-</blockquote>
+> وَ نَزَعْنَا مَا فىِ صُدُورِهِم مِّنْ غِلٍ‏ّ ‏
 
 ***“And We will remove whatever of ill-feeling is in their
 breasts”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-المومن ليس بحقود
-  </p>
-</blockquote>
+> المومن ليس بحقود
 
 ***“A Mu'min is never malicious”***[^2]
 
@@ -239,5 +231,4 @@ pg. 156.
 39, pg. 270.
 
 [^9]: Muntahal Aa’maal, vol. 1, pg. 61.
-
 

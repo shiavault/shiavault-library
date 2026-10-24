@@ -211,4 +211,3 @@ to topic. Those interested may refer to The Elements of Islamic
 Metaphysics, Sayyid ‘Ali Quli Qara’i’s translation of ‘Allamah’s Bidayah
 al-Hikmah. [trans.]
 
-

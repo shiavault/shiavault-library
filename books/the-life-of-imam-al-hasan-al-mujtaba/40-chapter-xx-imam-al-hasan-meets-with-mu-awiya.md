@@ -346,4 +346,3 @@ They grieved very much and strongly repented of their deserting (Imam
 Ali) the Commander of the faithful and his son al-Hasan, peace be on
 them.
 
-

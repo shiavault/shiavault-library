@@ -739,4 +739,3 @@ the fabricated traditions Mu’awiya undertook for they brought about
 division and disagreements to the Muslims. Without doubt they were among
 the greatest sins of Mu’awiya, son of Hind!
 
-

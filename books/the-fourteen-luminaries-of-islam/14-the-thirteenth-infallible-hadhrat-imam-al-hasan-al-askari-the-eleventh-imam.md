@@ -301,4 +301,3 @@ magnificence of God and the world of creation.[^4]
 
 [^4]: Tuhaf al-‘Uqul ‘an Al al-Rasul, p. 516.
 
-

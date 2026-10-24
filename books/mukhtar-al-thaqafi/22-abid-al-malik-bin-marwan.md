@@ -36,4 +36,3 @@ Besides he demolished their houses.
 Mukhtar sent five thousand fighters to raise the siege. He released the
 Alawids and rebuilt their houses.
 
-

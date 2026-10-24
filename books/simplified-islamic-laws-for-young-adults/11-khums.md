@@ -79,4 +79,3 @@ in the detailed books of fiqh), are referred to as Kafir Dhimmi, and
 their lives and properties are protected (in exchange for paying the tax
 and accepting the conditions).
 
-

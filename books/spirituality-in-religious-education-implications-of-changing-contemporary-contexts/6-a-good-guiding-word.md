@@ -9,4 +9,3 @@ second is the exoteric form which is the public form by which the
 religion is usually identified, that is, through its rituals, practices,
 architecture and so on”.*
 
-

@@ -140,4 +140,3 @@ Qum, 2003
 *Cultural Affairs Department*
 Ahl al-Bayt (*‘a*) World Assembly
 
-

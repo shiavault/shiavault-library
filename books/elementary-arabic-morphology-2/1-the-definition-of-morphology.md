@@ -43,4 +43,3 @@ rivers, a river)
 
 • into a possessive noun form: **نَهرِﻱّ** (a person of the river)
 
-

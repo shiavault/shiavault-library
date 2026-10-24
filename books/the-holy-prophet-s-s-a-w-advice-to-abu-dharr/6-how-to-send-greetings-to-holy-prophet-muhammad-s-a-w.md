@@ -176,4 +176,3 @@ The phrase "May Allah be please with him" (RA) can be used for the
 companions, not for Prophet and his Ahlul-Bayt who are perfectly pure,
 flawless, and sinless.
 
-

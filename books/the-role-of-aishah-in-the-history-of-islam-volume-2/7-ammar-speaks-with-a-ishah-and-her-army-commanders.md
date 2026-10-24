@@ -531,4 +531,3 @@ fought as violently as before.107 107. at-Tabari 5/204, al-Ya'qubi
 Abu Mikhnaf, al- Mada'ini quoting Ibn Abi al-Hadid's Description of Nahj
 al-balaghah 2/421.
 
-

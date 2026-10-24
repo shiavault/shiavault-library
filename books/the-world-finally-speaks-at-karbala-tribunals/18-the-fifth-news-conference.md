@@ -190,4 +190,3 @@ was anxiously waiting for Thursday’s court session which will witness
 the closing statements for both the prosecution and the defense teams.
 It will be the semifinal stage of this suspenseful and exciting trial)!
 
-

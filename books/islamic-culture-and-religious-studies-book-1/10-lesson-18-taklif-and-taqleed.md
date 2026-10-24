@@ -84,7 +84,6 @@ provided all are satisfied by the learned people's verdict.
 4. What are the qualities of a Mujtahid?
 5. Who can be called a Marja'e Taqleed?
 
-
 **Lesson 19 : Wudhoo and Tayyamum**
 
 We perform Wudhoo to clean and prepare ourselves physically,
@@ -193,5 +192,4 @@ wipe the back of the hands for the last time.
 Practical
 
 Perform Wudhoo and Tayyamum in front of your teacher.
-
 

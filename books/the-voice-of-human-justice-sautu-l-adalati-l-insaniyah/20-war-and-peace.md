@@ -505,4 +505,3 @@ How much his efforts also resembled the words of the Prophet who, when
 asked as to which act is the noblest, replied: “The noblest act is that
 one should endeavour for the welfare of the world”.
 
-

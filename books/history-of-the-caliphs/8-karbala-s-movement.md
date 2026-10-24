@@ -92,38 +92,30 @@ combat you”, Imam wrote.
 
 Then he added:
 
-<blockquote dir="rtl">
-  <p>
-وأيم الله لقد تركت وأنا أخاف الله في تركه وما أظن الله راضياَ مني بترك
-محاكمتك اليه ولا عاذري دون الاعتذار اليه فيك وفي اوليائك القاسطين
-الملحدين حزب الظالمين وأولياء الشياطين…أولست قاتل حجر بن عدي وأصحابه
-المصلين العابدين الذين ينكرون الظلم ويستعظمون البدع ولا يخافون لومة
-لائم، ظلماَ وعدواناً بعد اعطائهم الأمان بالمواثيق والايمان المغلظة، أو
-لست قاتل عمرو بن الحمق الخزاعي، صاحب رسول الله الذي أبلته العبادة
-وصفرت لونه وانحلت جسمه،… أو لست المدعي زياد بن سمية المولود علي فراش
-عبيد عبد ثقيف وزعمت أنه ابن أبيك وقد قال رسول الله صلي الله عليه وآله
-وسلم, الولد للفراش وللعاهر الحجر، فتركت سنة رسول الله صلي الله عليه
-وآله وسلم وخالفت أمره متعمداً واتبعت هواك مكذباً بغير هدى من الله، ثم
-سلطه على العراقين فقطع أيدي المسلمين وسمل أعينهم وصلبهم علي جذوع
-النخل،
-  </p>
-</blockquote>
+> وأيم الله لقد تركت وأنا أخاف الله في تركه وما أظن الله راضياَ مني بترك
+> محاكمتك اليه ولا عاذري دون الاعتذار اليه فيك وفي اوليائك القاسطين
+> الملحدين حزب الظالمين وأولياء الشياطين…أولست قاتل حجر بن عدي وأصحابه
+> المصلين العابدين الذين ينكرون الظلم ويستعظمون البدع ولا يخافون لومة
+> لائم، ظلماَ وعدواناً بعد اعطائهم الأمان بالمواثيق والايمان المغلظة، أو
+> لست قاتل عمرو بن الحمق الخزاعي، صاحب رسول الله الذي أبلته العبادة
+> وصفرت لونه وانحلت جسمه،… أو لست المدعي زياد بن سمية المولود علي فراش
+> عبيد عبد ثقيف وزعمت أنه ابن أبيك وقد قال رسول الله صلي الله عليه وآله
+> وسلم, الولد للفراش وللعاهر الحجر، فتركت سنة رسول الله صلي الله عليه
+> وآله وسلم وخالفت أمره متعمداً واتبعت هواك مكذباً بغير هدى من الله، ثم
+> سلطه على العراقين فقطع أيدي المسلمين وسمل أعينهم وصلبهم علي جذوع
+> النخل،
 
 > أولست صاحب الحضرميين الذي كتب اليك ابن سميه أنهم على دين علي، فكتبت
 > اليه، اقتل من كان على دين علي ورأيه، فقتلتهم ومثل بهم بأمرك؛ ودين علي،
 > دين محمد صلي الله عليه وآله وسلم الذي كان يضرب عليه أباك والذي انتحالك
 > اياه اجلسك مجلسك هذا ولولا هموا1981 كان أفضل شرفك تجشم الرحلتين في طلب
-<blockquote dir="rtl">
-  <p>
-الخمور…فلا أعلم لنفسي وديني أفضل من جهادك، فان أفعله فهو قربة الى ربي
-وان أتركه فذنب أستغفرالله منه في كثير من تقصيري… فابشر يا معاوية
-بالقصاص وأيقن بالحساب واعلم أنّ لله كتاب لايغادر صغيرة ولا كبيرة الا
-أحصاها وليس الله بناس لك أخذك بالظّنة وقتلك أوليائه علي الشبهة والتهمة
-للناس بالبيعة لابنك غلام سفه يشرب الشراب ويلعب بالكلاب ولا أعلمك الا
-قد خسرت نفسك وأوبقت دينك وأكلت أمانتك وغششت رعيتك وتبوأت مقعدك النار
-فبعداَ لقوم الظالمين
-  </p>
-</blockquote>
+> الخمور…فلا أعلم لنفسي وديني أفضل من جهادك، فان أفعله فهو قربة الى ربي
+> وان أتركه فذنب أستغفرالله منه في كثير من تقصيري… فابشر يا معاوية
+> بالقصاص وأيقن بالحساب واعلم أنّ لله كتاب لايغادر صغيرة ولا كبيرة الا
+> أحصاها وليس الله بناس لك أخذك بالظّنة وقتلك أوليائه علي الشبهة والتهمة
+> للناس بالبيعة لابنك غلام سفه يشرب الشراب ويلعب بالكلاب ولا أعلمك الا
+> قد خسرت نفسك وأوبقت دينك وأكلت أمانتك وغششت رعيتك وتبوأت مقعدك النار
+> فبعداَ لقوم الظالمين
 
 “By Almighty Allah, I relinquished combating against you meanwhile I
 have fear of Him. I surmise not that Allah would be gratified with me
@@ -225,11 +217,7 @@ anything?”
  Yes, I can, she replied, both Qur'an and poem.  
  Imam demanded that she recite Qur'an. She prefaced,
 
-<blockquote dir="rtl">
-  <p>
-وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ…
-  </p>
-</blockquote>
+> وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ…
 
 “All means for discovering the hidden things are with Allah and no one
 else knows them but He…”  
@@ -239,11 +227,7 @@ else knows them but He…”
 “Certainly”, Imam answered.  
  The woman read,
 
-<blockquote dir="rtl">
-  <p>
-أنت نعم المتاع لو كنت تبقي غير أن لا بقاء للانسان
-  </p>
-</blockquote>
+> أنت نعم المتاع لو كنت تبقي غير أن لا بقاء للانسان
 
 “What a precious property you would be if you survived, what a pity no
 one will survive.”
@@ -253,17 +237,9 @@ In regard with the content of the poem, Imam burst into tears and said,
  “Have you composed anything concerning Mu'awiya?” he asked.  
  “Sure, I have,” She responded,
 
-<blockquote dir="rtl">
-  <p>
-رأيت الفتي يمضي ويجمع جهده رجاء الغني والوارثون قعود
-  </p>
-</blockquote>
+> رأيت الفتي يمضي ويجمع جهده رجاء الغني والوارثون قعود
 
-<blockquote dir="rtl">
-  <p>
-و ما للفتي الا نصيب من التقي اذا فارق الدنيا عليه يعود
-  </p>
-</blockquote>
+> و ما للفتي الا نصيب من التقي اذا فارق الدنيا عليه يعود
 
 “I saw a youth passing by and dreaming about riches while his heirs were
 waiting in an ambush. There is no one higher for a youth but piety, for
@@ -271,17 +247,9 @@ when passing away it would give him a hand.”
  Imam, ordering to offer her 1000 dhms as well, stated that his father
 had also composed regarding it,
 
-<blockquote dir="rtl">
-  <p>
-و من يطلب الدنيا لحال تسـرّه فسوف لعمري عن قليل يلومها
-  </p>
-</blockquote>
+> و من يطلب الدنيا لحال تسـرّه فسوف لعمري عن قليل يلومها
 
-<blockquote dir="rtl">
-  <p>
-اذا أدبرت كانت علي المرء فتنة وان اقبلت كانت قليلا دوامها
-  </p>
-</blockquote>
+> اذا أدبرت كانت علي المرء فتنة وان اقبلت كانت قليلا دوامها
 
 “Anyone, who seeks after this world to make him cheerful for a moment,
 by myself, he will regret presently; when he turns back on it, he faces
@@ -348,13 +316,9 @@ Walid concurred, but Marwan made an attempt threateningly to provoke him
 into arresting Imam. Imam, furious with Marwan, addressed Walid as
 saying,
 
-<blockquote dir="rtl">
-  <p>
-أيها الامير! انا اهل بيت النبوة ومعدن الرسالة ومختلف الملائكة ومحطّ
-الرحمة وبنا فتح الله وبنا ختم ويزيد رجل فاسق شارب خمر، قاتل النفس
-المحرمة معلن بالفسق ومثلي لا يبايع مثله “
-  </p>
-</blockquote>
+> أيها الامير! انا اهل بيت النبوة ومعدن الرسالة ومختلف الملائكة ومحطّ
+> الرحمة وبنا فتح الله وبنا ختم ويزيد رجل فاسق شارب خمر، قاتل النفس
+> المحرمة معلن بالفسق ومثلي لا يبايع مثله “
 
 O emir! We, Holy Prophet's household, are the mine of Prophetic mission,
 angels' companions and the fountain of mercy. Allah has commenced with
@@ -415,11 +379,7 @@ Dispatching Muslim to Kufa
 The first action Imam took was dispatching Muslim to Kufa. Imam
 addressed him as saying,
 
-<blockquote dir="rtl">
-  <p>
-وان رأيت الناس مجتمعين على بيعتي فالعجل لي بالخبر حتى أعمل علي حسب ذلك
-  </p>
-</blockquote>
+> وان رأيت الناس مجتمعين على بيعتي فالعجل لي بالخبر حتى أعمل علي حسب ذلك
 
 “Notify me swiftly to adopt a measure in case you perceived that the
 people are totally willing to swear allegiance to me.” [^27] “
@@ -885,13 +845,9 @@ Imam's martyrdom. It was 'Ashura morning when Hurr Ibn Yazid perceived
 how serious the situation was and allied himself with Imam. Many people
 might have had the same idea as Hurr. He told Imam:
 
-<blockquote dir="rtl">
-  <p>
-بابي أنت وأمي! ما ظننت الأمر فينتهي بهؤلاء القوم إلى ما أرى وظننت أنهم
-سيقبلون منك إحدى الخصال التي عرضتها عليهم فقلتُ في نفسي لا أبالي أن
-أطيع القوم في بعض أمورهم
-  </p>
-</blockquote>
+> بابي أنت وأمي! ما ظننت الأمر فينتهي بهؤلاء القوم إلى ما أرى وظننت أنهم
+> سيقبلون منك إحدى الخصال التي عرضتها عليهم فقلتُ في نفسي لا أبالي أن
+> أطيع القوم في بعض أمورهم
 
 “May my parents be sacrificed for you! I could never imagine that
 people's conditions might be culminated in such a phase I observe. I
@@ -1013,12 +969,8 @@ Hisham.[^91] The objection raised by 'Abd Allah Ibn 'Umar was on account
 of his extreme fear of bloodshedding.[^92] Touching upon his martyrdom
 in Iraq, 'Abd Allah Ibn Ja’far had written,
 
-<blockquote dir="rtl">
-  <p>
-إني أخاف أن يطفيء نور الارض روح الهدى وأمير المؤمنين، فلا تعجل الى
-العراق فاني آخذ لك الامان من يزيد “
-  </p>
-</blockquote>
+> إني أخاف أن يطفيء نور الارض روح الهدى وأمير المؤمنين، فلا تعجل الى
+> العراق فاني آخذ لك الامان من يزيد “
 
 I have a foreboding that the light of the earth will be extinguished as
 a result of your murder. The spirit of guidance and Amir al-Mu'minin is
@@ -1140,11 +1092,7 @@ It highlights not only the reverence of Mecca had to be observed but
 also Imam's life was at risk and he should have taken an action. In
 reacting to Ibn 'Umar, Imam had asserted:
 
-<blockquote dir="rtl">
-  <p>
-انّ القوم لايتركوني … فلا يزالون حتي أبايع واني كاره فيقتلونني “
-  </p>
-</blockquote>
+> انّ القوم لايتركوني … فلا يزالون حتي أبايع واني كاره فيقتلونني “
 
 “This group will never stop insisting on swearing allegiance on my part.
 As I will never do so, they will kill me.” [^100]
@@ -1225,12 +1173,8 @@ the end[^109] but he only contented himself with dispatching Muslim.
 To assess public support better, Imam dispatched an envoy, Muslim Ibn
 'Aqil who was trustworthy to Kufa. In a letter he wrote to Kufa,
 
-<blockquote dir="rtl">
-  <p>
-اني بعثت أخي وابن عمي وثقتي من أهل بيتي مسلم بن عقيل وقد أمرته أن يكتب
-الي بحالكم ورأيكم فقدموا مع ابن عمّي وبايعوه وانصروه “ “
-  </p>
-</blockquote>
+> اني بعثت أخي وابن عمي وثقتي من أهل بيتي مسلم بن عقيل وقد أمرته أن يكتب
+> الي بحالكم ورأيكم فقدموا مع ابن عمّي وبايعوه وانصروه “ “
 
 I have sent my brother, my cousin and the most truthful in my family,
 Muslim Ibn 'Aqil to you. I have demanded that he write about the
@@ -1253,12 +1197,8 @@ letter his envoy had written and could be the evidence of people's to
 him. At the last stage reacting to Ibn 'Abbas's objection, Imam said, I
 know that your intention is naught except advising but,
 
-<blockquote dir="rtl">
-  <p>
-ولكن مسلم بن عقيل كتب الي باجتماع أهل المصر على بيعتي ونصرتي وقد أجمعت
-على المسير اليه “
-  </p>
-</blockquote>
+> ولكن مسلم بن عقيل كتب الي باجتماع أهل المصر على بيعتي ونصرتي وقد أجمعت
+> على المسير اليه “
 
 Since Muslim has written to me that all have congregated to aid me and
 swear allegiance to me, I am decisive to travel.” [^114]
@@ -1366,7 +1306,6 @@ later,[^126] and frequently he stated,
 
 يا أيها الناس إذا كرهمتموني فدعوني أنصرف عنكم إلى مأمني الأرض
 
-  
 “
 
 O people! If you are reluctant to support me, at least let me return to
@@ -1541,13 +1480,9 @@ supposedly gained in Iraq.
 On the eve of 'Ashura Imam addressed his companions as saying, “Tomorrow
 there shall be naught but martyrdom,
 
-<blockquote dir="rtl">
-  <p>
-فأنتم في حل مني وهذا الليل قد غشيكم، فمن كانت له منم قوة فليضم رجلاَ
-من أهل بيتي اليه وتفرقوا في سوادكم، فعسى الله أن يأتي بالفتح أو أمر من
-عنده فيصبحوا على ما اسرّوا في انفسهم نادمين “
-  </p>
-</blockquote>
+> فأنتم في حل مني وهذا الليل قد غشيكم، فمن كانت له منم قوة فليضم رجلاَ
+> من أهل بيتي اليه وتفرقوا في سوادكم، فعسى الله أن يأتي بالفتح أو أمر من
+> عنده فيصبحوا على ما اسرّوا في انفسهم نادمين “
 
 You are all at liberty and it is the night at which you feel secure. Any
 of you who is more courageous can take one from my household with him
@@ -1647,13 +1582,9 @@ went to pay a visit to the Prophet's tomb, he fell asleep. He dreamed
 about the Holy Prophet together with a group of angels. Hugging him, the
 Prophet stated,
 
-<blockquote dir="rtl">
-  <p>
-يا حسين! كأنك عن قريب أراك مقتولاً مذبوحاً بأرض كرب وبلا من عصابة من
-أمتي وأنت في ذلك عطشان لا تسقى… يا حسين إن أباك وأمك قد قدموا عليَّ
-وهم اليك مشتاقون وأن لك في الجنة درجات لن تنالها الا بالشهادة “
-  </p>
-</blockquote>
+> يا حسين! كأنك عن قريب أراك مقتولاً مذبوحاً بأرض كرب وبلا من عصابة من
+> أمتي وأنت في ذلك عطشان لا تسقى… يا حسين إن أباك وأمك قد قدموا عليَّ
+> وهم اليك مشتاقون وأن لك في الجنة درجات لن تنالها الا بالشهادة “
 
 O Husayn! I foresee that in a near future you will be killed by a group
 from my Umma in Karbala while thirsty…. O Husayn! Your parents who are
@@ -1674,17 +1605,9 @@ In Khuzaymiyya, Zaynab (S) came to Imam and said, “At midnight I heard a
 yell, What was it?” Imam inquired. She replied “An invisible speaker was
 yelling out,
 
-<blockquote dir="rtl">
-  <p>
-ألا يا عيـن فاحتفلي بجهد ومن يبكي علي الشهداء بعدي
-  </p>
-</blockquote>
+> ألا يا عيـن فاحتفلي بجهد ومن يبكي علي الشهداء بعدي
 
-<blockquote dir="rtl">
-  <p>
-على قـوم تسوقهم المنايا بمقدار الـي انجـاز وعـدي
-  </p>
-</blockquote>
+> على قـوم تسوقهم المنايا بمقدار الـي انجـاز وعـدي
 
 “O eye! Rejoice as much as you can. Who shall shed tears for the martyrs
 after me? Death is approaching this tribe in order to make my vow
@@ -1696,13 +1619,9 @@ stressed.[^172]
 Others are when Imam arrived in Karbala. After he asked what the area
 was called, he stated,
 
-<blockquote dir="rtl">
-  <p>
-لقد مرّ أبي بهذا المكان عند مسيره الى صفين وأنا معه فوقف فسأل عنه
-فأخبر باسمه؛ فقال ها هنا محطّ ركابهم وها هنا مهراق دمائهم، فسئل عن
-ذلك،‌ فقال: ثقل لآل بيت محمد ينـزلون هاهنا “
-  </p>
-</blockquote>
+> لقد مرّ أبي بهذا المكان عند مسيره الى صفين وأنا معه فوقف فسأل عنه
+> فأخبر باسمه؛ فقال ها هنا محطّ ركابهم وها هنا مهراق دمائهم، فسئل عن
+> ذلك،‌ فقال: ثقل لآل بيت محمد ينـزلون هاهنا “
 
 Once my father on his way to Siffin asked the name of this area. When he
 was answered and while I was with him, he expressed that here would be
@@ -1714,12 +1633,8 @@ It was in the afternoon when Imam in Tha'labiyya lay down and fell
 asleep. As soon as he woke up he began sobbing. After 'Ali Akbar asked
 the reason, he said,
 
-<blockquote dir="rtl">
-  <p>
-انّي رأيت فارساً على فرس حتى وقف عليّ فقال: يا حسين! انّكم تسرعون
-المسير والمنايا لكم تسرع الي الجنّة. فعلمت أن أنفسنا قد نعيت الينا “
-  </p>
-</blockquote>
+> انّي رأيت فارساً على فرس حتى وقف عليّ فقال: يا حسين! انّكم تسرعون
+> المسير والمنايا لكم تسرع الي الجنّة. فعلمت أن أنفسنا قد نعيت الينا “
 
 There was a man on horseback who came nearer and stopped before us
 saying, “O Husayn! The fast you are proceeding on this way, the fast
@@ -1728,13 +1643,9 @@ bidding farewell to us.” [^174]
 
 In 'Ashura morning, Imam told his sister,
 
-<blockquote dir="rtl">
-  <p>
-يا أختاهّ اني رأيت جدي في المنام وأبي علياً وفاطمة أمي وأخي الحسن
-عليهم السلام فقالوا: انّك رائح الينا عن قريب وقد والله يا أختاه دنا
-الامر في ذلك لا شك
-  </p>
-</blockquote>
+> يا أختاهّ اني رأيت جدي في المنام وأبي علياً وفاطمة أمي وأخي الحسن
+> عليهم السلام فقالوا: انّك رائح الينا عن قريب وقد والله يا أختاه دنا
+> الامر في ذلك لا شك
 
 “O sister! Last night my forefather, my father 'Ali, my mother Fatima
 and my brother, Hasan, were all in my dream saying that I will join them
@@ -1978,21 +1889,13 @@ Mu'awiya's right to be a caliph. He overcame the Prophet's successor by
 deception and usurped his caliphate.[^200] 'Abd al-Rahman Ibn 'Abd Allah
 Yazani, one of Imam's companions in Karbala, had composed,
 
-<blockquote dir="rtl">
-  <p>
-أنا بن عبدالله من آل يزن ديني على دين حسين وحسن
-  </p>
-</blockquote>
+> أنا بن عبدالله من آل يزن ديني على دين حسين وحسن
 
 “I am 'Abd Allah's son from Yazan family. My religion is the same as
 those of Husayn and Hasan.” [^201]  
  Addressing Imam Husayn (a), Hajjaj Ibn Masruq had composed,
 
-<blockquote dir="rtl">
-  <p>
-ثم أباك ذا الندى عليّا ذاك الذي نعرفه الوصيّآ
-  </p>
-</blockquote>
+> ثم أباك ذا الندى عليّا ذاك الذي نعرفه الوصيّآ
 
 “You father, 'Ali, is sportsman like. He is the one whom we consider as
 the Prophet's successor.” [^202]
@@ -2006,17 +1909,9 @@ and his father, 'Ali believe.
 
 In some verses 'Uthman Ibn 'Ali Ibn Abi Talib had composed,
 
-<blockquote dir="rtl">
-  <p>
-اني أنا عثمان ذو المناخر شيخي علي ذو الفعال الطاهر
-  </p>
-</blockquote>
+> اني أنا عثمان ذو المناخر شيخي علي ذو الفعال الطاهر
 
-<blockquote dir="rtl">
-  <p>
-و ابن عـم النبي الطاهر أخو حسيـن خيـرة الاخائـر
-  </p>
-</blockquote>
+> و ابن عـم النبي الطاهر أخو حسيـن خيـرة الاخائـر
 
 > و سيد الكبار والاصاغر بعد الرسول والوصي الناصر2175
 
@@ -2551,5 +2446,4 @@ text); See also al-Ikhtilaf fil-laf¨, pp 47-49
 [^202]: Ibid vol. V, p. 199
 
 [^203]: Tarikh at-Tabari, vol. IV, pp 331, 336
-
 

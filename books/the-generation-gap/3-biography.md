@@ -365,4 +365,3 @@ piety in the world, and he abstained entirely from lusts. He lived in
 Medina long enough to greatly profit the sect that followed him, and to
 give his friends the advantage of the hidden science.
 
-

@@ -19,35 +19,15 @@ The surah of at-Tawhid is one of the shortest chapters of the Holy
 Qur'an. It establishes the pure belief in the Oneness of God, rejecting
 all types of 'shirk' in these words:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الصَّمَدُ
-  </p>
-</blockquote>
+> اللَّهُ الصَّمَدُ
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَلِدْ وَلَمْ يُولَدْ
-  </p>
-</blockquote>
+> لَمْ يَلِدْ وَلَمْ يُولَدْ
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ
-  </p>
-</blockquote>
+> وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
@@ -454,5 +434,4 @@ Likewise, when he sustained, He was called ar-Razzaq; when He forgave,
 He was called al-Ghaffar; when He avenged, He was called al-Qahhar; when
 He gave life, He was called al-Muhyi; when He gave death, lie was called
 al-Mumit.
-
 

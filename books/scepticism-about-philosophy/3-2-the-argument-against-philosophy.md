@@ -118,4 +118,3 @@ may show us that philosophy is not worth doing if truth is our goal.
 Pursuing philosophy is not a reliable method of finding to the truth
 about philosophical issues.
 
-

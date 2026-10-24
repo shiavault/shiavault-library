@@ -13,11 +13,7 @@ rejected such pleadings and for intimidating their opponents, they set
 forth some verses of Qur’an which are not having the least connection to
 what they claim and always raise the following verse as their slogan.
 
-<blockquote dir="rtl">
-  <p>
-وأن المساجد لله فلا تدعوا مع الله احداً
-  </p>
-</blockquote>
+> وأن المساجد لله فلا تدعوا مع الله احداً
 
 ***“The mosques belong to Allah; do not call anyone with Allah.***
 ***(Jinn 72:18)”***
@@ -27,85 +23,49 @@ greatest excuse in the hands of the Wahhabis, we shall present them here
 and then explain their contents. The Wahhabis prove their point by
 producing the afore-mentioned and the following verses.
 
-<blockquote dir="rtl">
-  <p>
-له دعوة الحق والذين يدعون من دونه لا يستجيبون لهم بشئ
-  </p>
-</blockquote>
+> له دعوة الحق والذين يدعون من دونه لا يستجيبون لهم بشئ
 
 ***“To Him is due the true prayer; and those whom they pray to beside
 Allah give them no answer.*** ***(Raad 13:14)”***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَا
-أَنْفُسَهُمْ يَنْصُرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَا
+> أَنْفُسَهُمْ يَنْصُرُونَ
 
 ***“And those whom you call upon besides Him are not able to*** ***help
 you, nor can they help themselves. (A’raf 7:197)”***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ
 
 ***“And those whom you call upon besides Him do not control a straw.
 (Fatir 35:13)”***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
 
 ***“Surely those whom you call on besides Allah are in a state of
 subjugation like yourselves.*** ***(A’raf 7:194)”***
 
-<blockquote dir="rtl">
-  <p>
-قل ادعوا الذين زعمتم من دونه فلا يملكون كشف الضُر عنكم ولا تحويلاً
-  </p>
-</blockquote>
+> قل ادعوا الذين زعمتم من دونه فلا يملكون كشف الضُر عنكم ولا تحويلاً
 
 ***“Say: Call on those whom you assert besides Him, so they shall not
 control the removal of distress from you nor (its) transference.***
 ***(Bani-Israel 17:56)”***
 
-<blockquote dir="rtl">
-  <p>
-أولئك الذين يدعون يبتغون إلى ربهم الوسيلة
-  </p>
-</blockquote>
+> أولئك الذين يدعون يبتغون إلى ربهم الوسيلة
 
 ***“Those whom they call upon, themselves seek the means of access to
 their Lord.*** ***(Bani-Israel 17:57)”***
 
-<blockquote dir="rtl">
-  <p>
-ولا تدع من دون الله ما لا ينفعك ولا يضُرك
-  </p>
-</blockquote>
+> ولا تدع من دون الله ما لا ينفعك ولا يضُرك
 
 ***“And do not call besides Allah on that which can neither benefit you
 nor harm you.*** ***(Yunus 11:106)”***
 
-<blockquote dir="rtl">
-  <p>
-إن تدعوهم لا يسمعوا دعاءكم
-  </p>
-</blockquote>
+> إن تدعوهم لا يسمعوا دعاءكم
 
 ***“If you call on them they shall not hear your call.*** ***(Fatir
 35:14)”***
 
-<blockquote dir="rtl">
-  <p>
-ومن أضل ممن يدعوا من دون الله من لا يستجيب له إلى يوم القيمة
-  </p>
-</blockquote>
+> ومن أضل ممن يدعوا من دون الله من لا يستجيب له إلى يوم القيمة
 
 ***“And who is in greater error than he who calls besides Allah upon
 those that will not answer him till the day of resurrection.***
@@ -119,28 +79,20 @@ off; this calling itself is *'ibada.*
 Al-San'ani narrating from *Kashf al-'irtiyab*, pages 273-274, mentions
 in his book *Tanzih al-i'tiqad* as such:
 
-<blockquote dir="rtl">
-  <p>
-وقد سمَّى الله الدعاء عبادة بقوله: ادعوني استجب لكم إن الذين يستكبرون
-عن عبادتي ، ومن هتف باسم نبي أو صالح بشئ أو قال اشفع لي إلى الله في
-حاجتي أو استشفع بك إلى الله في حاجتي أو نحو ذلك أو قال إقض دينى أو إشف
-مريضى أو نحو ذلك فقد دعا النبي والصالح والدعاء عبادة بل مُخّها فيكون
-قد بد غير الله وصار مشركاً إذ لا يُتمّ التوحيد إلا بتوحيده تعالى في
-الإلهية بإعتقاد أن لا خالق ولا رازق غيره العبادة بعدم عبادة غيره ولو
-ببعض العبادات وعُباد الأصنام إنما اشركوا لعدم توحيد الله في العبادة.
-  </p>
-</blockquote>
+> وقد سمَّى الله الدعاء عبادة بقوله: ادعوني استجب لكم إن الذين يستكبرون
+> عن عبادتي ، ومن هتف باسم نبي أو صالح بشئ أو قال اشفع لي إلى الله في
+> حاجتي أو استشفع بك إلى الله في حاجتي أو نحو ذلك أو قال إقض دينى أو إشف
+> مريضى أو نحو ذلك فقد دعا النبي والصالح والدعاء عبادة بل مُخّها فيكون
+> قد بد غير الله وصار مشركاً إذ لا يُتمّ التوحيد إلا بتوحيده تعالى في
+> الإلهية بإعتقاد أن لا خالق ولا رازق غيره العبادة بعدم عبادة غيره ولو
+> ببعض العبادات وعُباد الأصنام إنما اشركوا لعدم توحيد الله في العبادة.
 
 *“The Holy Qur’an has unconditionally declared pleadings and callings
 towards someone other than Allah as* *'ibada; the reason being that in
 the beginning of verse, it says* أدعوني أستجب لكم *and following that it
 says:*
 
-<blockquote dir="rtl">
-  <p>
-يستكبرون عن عبادتي
-  </p>
-</blockquote>
+> يستكبرون عن عبادتي
 
 *Therefore, anyone who calls the Prophet (s)* *and or a pious person or
 asks to intercede for fulfilling his or her needs, or says “You help in
@@ -164,11 +116,7 @@ it does not give the meaning of ‘worship’ at all.
 
 Like:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
 
 ***“He said: ‘O Lord! I called my nation (towards Thee) day and night.
 (Nuh 71:5)’”***
@@ -178,12 +126,8 @@ day and night!”?
 
 The Qur'an quotes Satan as saying:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ
-فَاسْتَجَبْتُمْ لِي
-  </p>
-</blockquote>
+> كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ
+> فَاسْتَجَبْتُمْ لِي
 
 ***“I did not have any authority upon you except that I called you
 (towards evil deeds) and you obliged.*** ***(Ibrahim 14:22)”***
@@ -221,12 +165,8 @@ calling towards these creatures is *'ibada* or worship. The most obvious
 witness to the fact that their pleadings and callings were accompanied
 with the belief in their divinity is this verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا أَغْنَتْ عَنْهُمْ آلِهَتُهُمُ الَّتِي يَدْعُونَ مِنْ دُونِ
-اللَّهِ مِنْ شَيْءٍ
-  </p>
-</blockquote>
+> فَمَا أَغْنَتْ عَنْهُمْ آلِهَتُهُمُ الَّتِي يَدْعُونَ مِنْ دُونِ
+> اللَّهِ مِنْ شَيْءٍ
 
 ***“So their gods whom they called upon besides Allah did not avail them
 ought.*** ***(Hud 11:101)”***
@@ -241,13 +181,9 @@ reckons him to be a beloved servant of Allah who has appointed him to
 the position of Prophethood and Imamate and promised to accept his
 prayers with regards to His slaves. As verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا
 
 ***“And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Apostle had (also) asked forgiveness
@@ -260,12 +196,8 @@ but refers to asking and calling in the sense of Ibadat and worship. For
 this reason, in one of the verses, the word of *'ibada* immediately
 follows the word of **دعوت**giving the same meaning. Like:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***“And your Lord says: Call upon Me, I will answer you, surely those
 who are too proud for My service shall soon enter hell abased.***
@@ -280,12 +212,8 @@ divine qualities.
 The master of the prostrators, Imam Zayn al-'Abidin (‘a) says in his
 supplication as such:
 
-<blockquote dir="rtl">
-  <p>
-فسميت دعاءك عبادة وتركه استكباراً وتوعَّدت على تركه دخول جهَّنهم
-داخرين
-  </p>
-</blockquote>
+> فسميت دعاءك عبادة وتركه استكباراً وتوعَّدت على تركه دخول جهَّنهم
+> داخرين
 
 ***“Thou have named Thy calling as worship and its abandonment as pride
 and Thou have promised a miserable entry into the fire for those who
@@ -295,46 +223,30 @@ And sometimes in two verses where the contents are similar, we see in
 one place the word of **عبادات** and in another place the word of
 **دعوت**Like:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا
-وَلَا نَفْعًا
-  </p>
-</blockquote>
+> قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا
+> وَلَا نَفْعًا
 
 ***“Say: Do you serve besides Allah that which does not control for you
 any harm, or any profit?*** ***(Maida: 76)”***
 
 In another verse it says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَنَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُنَا وَلَا يَضُرُّنَا
-  </p>
-</blockquote>
+> قُلْ أَنَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُنَا وَلَا يَضُرُّنَا
 
 ***“Say: Shall we call on that besides Allah, which does not benefit us
 nor harm us. (An’am: 71)”***
 
 In Sura Fatir, verse 13 it says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ
 
 ***“And those whom you call upon besides Him do not control a straw.”***
 
 In this verse, the word of **تدعون**is used whereas in another verse
 which contains the same contents the word of **تعبدون** is used.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ
-رِزْقًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ
+> رِزْقًا
 
 ***“Surely they whom you serve besides Allah do not control for you any
 sustenance.*** ***(Ankabut: 17)”***
@@ -342,12 +254,8 @@ sustenance.*** ***(Ankabut: 17)”***
 Sometimes, in one verse, both the words have appeared and has been used
 in the same meaning:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِنْ دُونِ
-اللَّهِ
-  </p>
-</blockquote>
+> قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِنْ دُونِ
+> اللَّهِ
 
 ***“Say: I am forbidden to serve those*** ***whom you call upon besides
 Allah.*** ***(An’am: 56)”***
@@ -388,5 +296,4 @@ denotes ‘worship’ and notدُعا . In some instances, such as salat, both
 Sura Ghafir verse 60.
 
 [^4]: The same is the content of Sura Ghafir, verse 66.
-
 

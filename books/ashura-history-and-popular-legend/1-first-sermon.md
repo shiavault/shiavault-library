@@ -797,4 +797,3 @@ al-Luhuf, 38; Bihar al-Anwar, vol. 45 p. 35, al-Mufid's Kitab al Irshad,
 p. 239, al-Muqarrim's Maqtal al-Husayn, p. 332; and al-Tabari's Ta'rikh,
 vi, p. 257.
 
-

@@ -1,13 +1,9 @@
 Part 6
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
-فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى
-مَا فَعَلْتُمْ نَادِمِينَ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
+> فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى
+> مَا فَعَلْتُمْ نَادِمِينَ﴾
 
 ***O you who believe! If an evildoer comes to you with a report, look
 carefully into it, lest you harm a people in ignorance, then be sorry
@@ -125,11 +121,7 @@ this word would have been accepted. Troops would have marched; killing,
 plundering and arresting them. But the Holy Prophet is the one about
 whom God in Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا يَنْطِقُ عَنْ الْهَوَى. إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى﴾
-  </p>
-</blockquote>
+> ﴿وَمَا يَنْطِقُ عَنْ الْهَوَى. إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى﴾
 
 ***“Nor does he speak out of desire. It is naught but revelation that is
 revealed…”***[^1]
@@ -374,5 +366,4 @@ unmindful of your Lord! May I be sacrificed for you, O Husain!
 [^1]: Surah Najm 53:3-4
 
 [^2]: Biharul Anwar, vol. 20
-
 

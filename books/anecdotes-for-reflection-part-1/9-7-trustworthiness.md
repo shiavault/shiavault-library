@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ اللهَ ياَمُرُكُمْ اَنْ تُؤَدُّوا الْاَماَناَتِ اَليَ اَهْلِهَا
-  </p>
-</blockquote>
+> اِنَّ اللهَ ياَمُرُكُمْ اَنْ تُؤَدُّوا الْاَماَناَتِ اَليَ اَهْلِهَا
 
 ***Surely Allah commands you to render back your trusts to their
 owners.***[^1]
 
 Imam Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْ اَنَّ قاَتِلَ عَلِيّ بْنِ اَبيِ طاَلِب انْتَمَنَى عَلىَ
-اَماَنَةٍ لَاَدَّيْتُهاَ اِلَيْهِ
-  </p>
-</blockquote>
+> فَلَوْ اَنَّ قاَتِلَ عَلِيّ بْنِ اَبيِ طاَلِب انْتَمَنَى عَلىَ
+> اَماَنَةٍ لَاَدَّيْتُهاَ اِلَيْهِ
 
 *(If the murderer of Imam Ali (a.s.) places a trust in my possession, I
 would surely return it back to him)*[^2]*62*
@@ -284,5 +276,4 @@ pg. 942.
 
 [^9]: Rahnamaa-e-Sa’adat, vol. 2, pg. 435; Naasikh al-Tawaareekh -
 Amirul Mu'mineen, pg. 676.
-
 

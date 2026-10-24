@@ -36,14 +36,10 @@ for human beings is God's Nearness, but all human beings do not travel
 on the straight path and do not attain the exalted position of
 God's-Nearness. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ
-الْمَيْمَنَةِ وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
-وَالسَّابِقُونَ السَّابِقُونَ أُولَٰئِكَ الْمُقَرَّبُونَ فِي جَنَّاتِ
-النَّعِيمِ
-  </p>
-</blockquote>
+> وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ
+> الْمَيْمَنَةِ وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
+> وَالسَّابِقُونَ السَّابِقُونَ أُولَٰئِكَ الْمُقَرَّبُونَ فِي جَنَّاتِ
+> النَّعِيمِ
 
 ***“And ye will be three kinds: (First) those on the right hand; what of
 those on the right hand? And those on the left hand, what of those on
@@ -59,14 +55,10 @@ attained the exalted position of God's Nearness. This verse clearly
 indicates that the objective or goal behind human movement must be God's
 Nearness. And the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ
-نَعِيمٍ وَأَمَّا إِن كَانَ مِنْ أَصْحَابِ الْيَمِينِ فَسَلَامٌ لَّكَ
-مِنْ أَصْحَابِ الْيَمِينِ وَأَمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ
-الضَّالِّينَ فَنُزُلٌ مِّنْ حَمِيمٍ وَتَصْلِيَةُ جَحِيمٍ
-  </p>
-</blockquote>
+> فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ
+> نَعِيمٍ وَأَمَّا إِن كَانَ مِنْ أَصْحَابِ الْيَمِينِ فَسَلَامٌ لَّكَ
+> مِنْ أَصْحَابِ الْيَمِينِ وَأَمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ
+> الضَّالِّينَ فَنُزُلٌ مِّنْ حَمِيمٍ وَتَصْلِيَةُ جَحِيمٍ
 
 ***“Thus, if he is of those brought nigh. Then breath of life, and
 plenty and a Garden of delight. And if he is of those on the right hand,
@@ -76,12 +68,8 @@ boiling water and roasting at Hell fire.” (56: 88-94)***
 
 Further, God-Almighty said in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ وَمَا أَدْرَاكَ
-مَا عِلِّيُّونَ كِتَابٌ مَّرْقُومٌ يَشْهَدُهُ الْمُقَرَّبُونَ
-  </p>
-</blockquote>
+> كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ وَمَا أَدْرَاكَ
+> مَا عِلِّيُّونَ كِتَابٌ مَّرْقُومٌ يَشْهَدُهُ الْمُقَرَّبُونَ
 
 ***“It is not so (as understood by unbelievers), Nay but the record of
 the righteous is in Illiyin. Ah, what will convey unto thee what Illiyin
@@ -94,13 +82,9 @@ goal of people's journeying and movement. Therefore, God's favorite
 servants are the most distinguished group among the people who have been
 bestowed eternal bliss. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَتِ الْمَلَائِكَةُ يَا مَرْيَمُ إِنَّ اللَّهَ يُبَشِّرُكِ
-بِكَلِمَةٍ مِّنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَجِيهًا
-فِي الدُّنْيَا وَالْآخِرَةِ وَمِنَ الْمُقَرَّبِينَ
-  </p>
-</blockquote>
+> إِذْ قَالَتِ الْمَلَائِكَةُ يَا مَرْيَمُ إِنَّ اللَّهَ يُبَشِّرُكِ
+> بِكَلِمَةٍ مِّنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَجِيهًا
+> فِي الدُّنْيَا وَالْآخِرَةِ وَمِنَ الْمُقَرَّبِينَ
 
 ***“And remember when the angels said: O Mary! Lo! God-Almighty giveth
 thee glad tidings of a word from him, Son of Mary, illustrious in the
@@ -115,12 +99,8 @@ to the interpretation of some verses has been also named “the Place of
 Nearness to the Most Magnificent King” (*Malik Muqtadar*). Also, the
 martyrs will be assigned this special position. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
-بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
+> بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
 
 ***“Think not of those who are slain in the way of God-Almighty, as
 dead. Nay, they are living with their Lord they have provision.
@@ -172,24 +152,16 @@ in plenty of Qur’anic verses and traditions is a real thing and cannot
 be metaphorical or figurative. For example: God-Almighty said in the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَىٰ رَبِّكِ
-رَاضِيَةً مَّرْضِيَّةً
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَىٰ رَبِّكِ
+> رَاضِيَةً مَّرْضِيَّةً
 
 ***“O Thou soul at piece! Return unto thy Lord, content in his good
 pleasure. (89:27-28)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-تُرْجَعُونَ ثُمَّ إِلَىٰ رَبِّكُمْ وَمَنْ أَسَاءَ فَعَلَيْهَا مَنْ
-عَمِلَ صَالِحًا فَلِنَفْسِهِ
-  </p>
-</blockquote>
+> تُرْجَعُونَ ثُمَّ إِلَىٰ رَبِّكُمْ وَمَنْ أَسَاءَ فَعَلَيْهَا مَنْ
+> عَمِلَ صَالِحًا فَلِنَفْسِهِ
 
 ***“Whoso doth right, it is for his soul, and whoso doth wrong, it is
 against it. And afterward unto your Lord ye will be brought back.
@@ -197,12 +169,8 @@ against it. And afterward unto your Lord ye will be brought back.
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ
-وَإِنَّا إِلَيْهِ رَاجِعُونَ
-  </p>
-</blockquote>
+> الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ
+> وَإِنَّا إِلَيْهِ رَاجِعُونَ
 
 ***“Who say, when a misfortune striketh them: Lo! We are God's and Lo!
 unto Him we are returning.”(2:156)***
@@ -269,5 +237,4 @@ complete and perfect so that he could attain God's Nearness, thus, being
 able to utilize divine blessings and favors to his maximum advantage and
 therefore, making his own essence a source of further benevolence and
 goodness.
-
 

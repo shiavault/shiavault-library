@@ -3,12 +3,8 @@ Lesson Eighty Nine: Illegitimate Property
 
 Imam Al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الرَّجُلَ إذا أَصابَ مالاً مِنْ حَرَام لَمْ يُقْبَلْ مِنْه حَجُّ
-وَ لا عُمْرَةٌ وَ لا صِلَةُ رَحِم
-  </p>
-</blockquote>
+> إنَّ الرَّجُلَ إذا أَصابَ مالاً مِنْ حَرَام لَمْ يُقْبَلْ مِنْه حَجُّ
+> وَ لا عُمْرَةٌ وَ لا صِلَةُ رَحِم
 
 Translation
 -----------
@@ -28,5 +24,4 @@ and sacred.
 
 [^1]: Safinat’ul-Bihar, volume one, page 213. Wasa'il Al-Shia, vol 17,
 page 91. AlAmali, page 680.
-
 

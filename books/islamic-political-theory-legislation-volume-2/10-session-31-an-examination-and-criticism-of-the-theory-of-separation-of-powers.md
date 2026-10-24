@@ -303,4 +303,3 @@ the Cultural Revolution Headquarters. [Trans.]
 
 [^3]: It is almost three decades now. [Trans.]
 
-

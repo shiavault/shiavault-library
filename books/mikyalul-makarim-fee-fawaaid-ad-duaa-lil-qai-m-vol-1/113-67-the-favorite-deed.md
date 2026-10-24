@@ -21,4 +21,3 @@ making believers happy.”[^2]
 
 [^2]: Kafi; Vol. 2, Pg. 189
 
-

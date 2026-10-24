@@ -324,4 +324,3 @@ version Isma‘il). Imam Muhammad al-Baqir has said that he was Isma‘il.
 ‘Ali Ibrahim has said that according to another narration he was
 Arsiyaa.
 
-

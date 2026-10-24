@@ -4,7 +4,6 @@ Chapterr 9 : Meeting 8 the Science of Al-mostalaahat (science of Derayatul-hadit
 Meeting 8: The Science of al-Mostalahaat (Science of Derayatul-Hadith(
 Part I
 
-
 In the next two lessons we shall learn about the third science of the
 sciences of Hadith; i.e. the science of al-Mostalaat (terminologies)
 which is also historically called 'science of Derayatul-Hadith
@@ -39,9 +38,7 @@ in which the Imams (a.s) have encouraged their followers to understand
 the Hadith more than mere narrating them. It is narrated from Imam Sadiq
 (a.s):
 
-<p dir="rtl">
 حديث تدريه خير من الف ترويه.
-</p>
 
 "To understand (Derayah) a Hadith is better than one thousand Hadith
 that you may narrate." [^81] The Science of Derayah in this sense
@@ -160,7 +157,6 @@ Imam al-Askari (a.s).
 narrators sometimes referred to the Imam (a.f) with al-Asl (the origin).
 Types of Hadith
 
-
 **Chapter 10: Meeting 9 The Science Of AL-Mostalahaat (SCIENCE OF
 DERAYATUL-HADITH(**
 
@@ -244,11 +240,9 @@ act upon it. When majority of scholars turn away from a Hadith it makes
 it weak. For instance Abu-Baseer in an authentic Hadith narrated from
 Imam Sadiq(a.s):
 
-<p dir="rtl">
 ان عرض للمرأة الطمث في شهر رمضان قبل الزوال فهي في سعة ان تأکل و تشرب؛
 و ان عرض لها بعد زوال الشمس فلتغتسل و لتعتدّ بصوم ذلک اليوم ما لم تأکل و
 تشرب.
-</p>
 
 "If a woman starts her menses before noon in the month of Ramadhan, she
 may eat and drink (does not keep her fast); but if she starts her menses
@@ -271,10 +265,8 @@ The majority of the Shi'a scholars view that the exception applies to
 the babies that are not more than three years old. The reference for
 this verdict is the following Hadith:
 
-<p dir="rtl">
 عن ابي نُمير قلت لابي عبدالله (ع): حدِّثني عن الصبي الي کم تغسله
 النساء؟ فقال الي ثلاث سنين.
-</p>
 
 Abu Nomair said: I asked Imam Sadiq (a.s): Please tell me about the age
 of a (dead) baby that women can perform his ritual bath? The Imam said:
@@ -291,9 +283,7 @@ of transmitters. For instance, there is a consensus that the usage of
 liquid enema voids the fast. [^90] The reference for this verdict is the
 following Hadith that is narrated from Imam Redha (a.s):
 
-<p dir="rtl">
 الصائم لايجوز له ان يحتقن.
-</p>
 
 "It is not permissible for a faster to use enema." [^91]
 
@@ -326,9 +316,7 @@ instance, the name of all of them is 'Hasan'. The example of Hadith
 Mosalsal is the following Hadith narrated from Imam Hasan (a.s) through
 a chain of transmitters whose names were all Hasan!
 
-<p dir="rtl">
 قال الحسن (ع): انّ احسن الحسَن الخُلق الحسَن.
-</p>
 
 It is narrated from Imam Hasan (a.s): "Verily the best beauty is the
 beauty of character." [^94]
@@ -381,9 +369,7 @@ chain of narrators. The last narrator in the Marfou' Hadith jumps from
 one or more than one narrator uplifting (Rafa'a) the chain to the Imam
 (a.s). The following is an example of a Marfou' Hadith:
 
-<p dir="rtl">
 محمد بن بعقوب عن علي بن ابراهيم عن ابيه رَفَعَه الي ابي عبدالله (ع)
-</p>
 
 4/4: Maqtoo' (broken): A Hadith is Maqtoo' if it is narrated from one
 of the narrators who has not even met the Ma'soom. Obviously a Maqtoo'
@@ -468,10 +454,8 @@ those that they don't have clear meanings. An example of an abrogating
 Hadith is what is narrated from the Prophet (P) concerning the
 visitation of the graveyards.
 
-<p dir="rtl">
 کنت نهيتکم عن زيارة القبور؛ فزوروها فانّها تزهّد في الدنيا و تذکّر
 الآخرة.
-</p>
 
 "I used to prohibit you from visiting the graves, but now you may visit
 them. For it detach you from the secular life and remind you of the
@@ -486,10 +470,8 @@ reappearance of Imam Mahdi (a.f).
 Imam Sadiq (a.s) with reference to the ambiguous Ahadith instructed the
 Shi'a scholars:
 
-<p dir="rtl">
 رُدّوا الينا علمَه فنحن اولي بذلک و لاتقولوا فيه بآرائکم و عليکم بالکف
 و التثبّت و الوقوف و انتم طالبون باحثون حتي يأتيکم البيان من عندنا.
-</p>
 
 "Return its knowledge to us, for we are preferred for (explaining) it.
 Do not say about it with your assumption. You shall abstain, verify and
@@ -620,5 +602,4 @@ teaching of a Hadith:
 4. Clarifying the syntax (Nahw) of the Hadith.
 
 Elucidating the text of the Hadith and its relevance to the subject.
-
 

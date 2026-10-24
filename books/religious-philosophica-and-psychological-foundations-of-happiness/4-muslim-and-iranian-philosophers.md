@@ -307,4 +307,3 @@ a standard and criterion for a happy life. If humans follow the way that
 God's prophets have introduced to them, they will become happy in this
 world and in the Hereafter (Tafsir al-Mizan interpretation).
 
-

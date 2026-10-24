@@ -136,6 +136,5 @@ So learn a lesson, O people who have vision! (Holy Qur'an, 59:2)
 Surely it is not the eyes that are blind, but blind are the hearts that
 are in the breasts. (Holy Qur'an, 22:46)
 
-[^74] This is recorded on p. 170 of Abu Zuhra's book Ahmad ibn Hanbal.
-
+[^74]: This is recorded on p. 170 of Abu Zuhra's book Ahmad ibn Hanbal.
 

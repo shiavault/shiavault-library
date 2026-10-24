@@ -68,9 +68,6 @@ know-how and potentialities. As it is stated:
 the regions of the heavens and the earth, then pass through; you cannot
 pass through but with authority.”***[^5]
 
-
-
-
 [^1]: Surah Jathiyah 45:13
 
 [^2]: Surah Luqman 31:20
@@ -84,5 +81,4 @@ direction was to send artificial satellites. The actions of man and his
 achievements verify what Qur’an has said more than 1400 years ago.
 
 [^5]: Surah Rahman 55:33
-
 

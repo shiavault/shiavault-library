@@ -63,4 +63,3 @@ producing this work, especially the staff of the Translation Office.
 **Ahl al-Bayt (as) World AssemblyAhl al-Bayt (as) World AssemblyAhl
 al-Bayt (as) World AssemblyAhl al-Bayt (as) World Assembly**
 
-

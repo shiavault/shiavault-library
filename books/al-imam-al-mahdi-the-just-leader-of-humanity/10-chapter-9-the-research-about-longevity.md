@@ -1082,4 +1082,3 @@ work translated into Persian, entitled: Vaqti ki insan pir mishavad
 
 [^12]: Muruj al-dhahab, Vol. 1 and 2
 
-

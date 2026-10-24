@@ -118,4 +118,3 @@ instruct him to grant his wife a divorce.  Should he choose not comply,
 and it was not feasible to force him to do so, the Marji’ could
 pronounce her divorced.
 
-

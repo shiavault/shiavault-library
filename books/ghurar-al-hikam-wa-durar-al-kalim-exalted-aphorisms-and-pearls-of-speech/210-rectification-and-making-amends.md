@@ -11,11 +11,7 @@ Rectification And Making Amends
 lost] earlier on and you will make your place of return a happy one.
 
 > 2ـ تَدارَكْ في آخِرِ عُمْرِكَ ما أضَعْتَهُ في أوَّلِهِ تَسْعَدْ
-<blockquote dir="rtl">
-  <p>
-بِمُنْقَلَبِكَ.
-  </p>
-</blockquote>
+> بِمُنْقَلَبِكَ.
 
 3. Proper rectification [of one’s mistakes] is the symbol of
 righteousness.
@@ -42,5 +38,4 @@ amends for his past mistakes.
 8. Hastening rectification is reformation.
 
 > 8ـ تَعْجيلُ الاسْتِدْراكِ إصْلاحٌ.
-
 

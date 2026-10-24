@@ -976,4 +976,3 @@ With these words, the holy Imam, in order to avoid bloodshed, issued
 orders to shift this camp into the interior of the burning desert and it
 was immediately done.
 
-

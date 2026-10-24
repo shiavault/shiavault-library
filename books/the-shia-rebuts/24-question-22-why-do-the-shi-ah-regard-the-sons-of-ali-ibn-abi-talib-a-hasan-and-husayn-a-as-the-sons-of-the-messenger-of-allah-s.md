@@ -20,14 +20,10 @@ substantiating this fact. Here are some of them:
 Allah}) (*‘a*) whereas ‘Isa, the child of Maryam (Mary) (*‘a*), can be
 traced back to Hadrat Ibrahim (*‘a*) through his mother:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلاًّ هَدَيْنَا وَنُوحًا
-هَدَيْنَا مِن قَبْلُ وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
-وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ وَكَذَٰلِكَ نَجْزِي
-الْمُحْسِنِينَ ٭ وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ ﴾
-  </p>
-</blockquote>
+> ﴿ وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلاًّ هَدَيْنَا وَنُوحًا
+> هَدَيْنَا مِن قَبْلُ وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
+> وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ وَكَذَٰلِكَ نَجْزِي
+> الْمُحْسِنِينَ ٭ وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ ﴾
 
 ***“And We gave him (Abraham) Isaac and Jacob and guided each of them.
 And Noah We had guided before, and from his (Abraham’s) offspring, David
@@ -40,15 +36,11 @@ Allah (S) as well as his offspring.
  Below is one of the instances:  
  Jalal ad-Din as-Suyuti narrates:
 
-<blockquote dir="rtl">
-  <p>
-"أرسل الحجّاج إلى يحيى بن يعمر فقال: بلغني أنك تزعم أن الحسن والحسين
-من ذرية النبيّ صلى الله عليه وأله وسلم – تجده في كتاب الله وقد قرأته
-من أوّله إلى أخره فلم أجده. قال: ألست تقرأ سورة الأنعام: ومِن ذريته
-داوود وسليمن حتى بلغ ويحيى؟ وعيسى قال: بلى. قال: أليس عيسى من ذرية
-إبراهيم وليس له أب؟ قال: صدقت."
-  </p>
-</blockquote>
+> "أرسل الحجّاج إلى يحيى بن يعمر فقال: بلغني أنك تزعم أن الحسن والحسين
+> من ذرية النبيّ صلى الله عليه وأله وسلم – تجده في كتاب الله وقد قرأته
+> من أوّله إلى أخره فلم أجده. قال: ألست تقرأ سورة الأنعام: ومِن ذريته
+> داوود وسليمن حتى بلغ ويحيى؟ وعيسى قال: بلى. قال: أليس عيسى من ذرية
+> إبراهيم وليس له أب؟ قال: صدقت."
 
 One day, Hajjaj (ibn Yusuf) ordered that Yahya ibn Ya‘mur should be
 brought and when he saw him he said to him: “I have been told that you
@@ -76,14 +68,10 @@ truthfulness of the said view is the verse of imprecation {*ayah
 al-mubahilah*} in *Surah* *Al ‘Imran*. Below is the verse along with the
 exegetes’ notes:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
-وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
-عَلَى الْكَاذِبِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
+> وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
+> عَلَى الْكَاذِبِينَ ﴾
 
 ***“Should anyone argue with you concerning him, after the knowledge
 that has come to you, say,*** ***‘Come! Let us call our sons and your
@@ -119,12 +107,8 @@ view. Here are some examples:
 **a.** Jalal ad-Din as-Suyuti narrates on the authority of Hakim, Ibn
 Marudiyyah and Abu Na‘im from Jabir ibn ‘Abd Allah (al-Ansari):
 
-<blockquote dir="rtl">
-  <p>
-"أنفسنا رسول الله صلى الله عليه وأله وسلم "وعليّ وأبناءنا والحسن
-والحسين نساءنا فاطمة."
-  </p>
-</blockquote>
+> "أنفسنا رسول الله صلى الله عليه وأله وسلم "وعليّ وأبناءنا والحسن
+> والحسين نساءنا فاطمة."
 
 ““*Anfusana*” {our selves} means the Messenger of Allah (S) and ‘Ali ibn
 Abi Talib, “*abna’na*” {our sons} means al-Hasan and al-Husayn, and
@@ -133,24 +117,16 @@ Abi Talib, “*abna’na*” {our sons} means al-Hasan and al-Husayn, and
 **b.** In his exegesis {*tafsir*}, Fakhr ad-Din ar-Razi mentions the
 said verse and says:
 
-<blockquote dir="rtl">
-  <p>
-"واعلم أن هذه الرواية كالمتفق على صحتها بين أهل التفسير والحديث."
-  </p>
-</blockquote>
+> "واعلم أن هذه الرواية كالمتفق على صحتها بين أهل التفسير والحديث."
 
 “Know that this tradition is an example of *hadith* on whose
 authenticity the *mufassirun* and *muhaddithun* have consensus of
 opinion.”[^5]  
  Then, he says:
 
-<blockquote dir="rtl">
-  <p>
-"المسألة الرابعة: هذه الأية دالة على أن الحسن والحسين كانا إبنيّ رسول
-الله صلى الله عليه وأله وسلم – وعد أن يدعوا أبناءه فدعا الحسن والحسين
-فوجب أن يكون إبنيّه."
-  </p>
-</blockquote>
+> "المسألة الرابعة: هذه الأية دالة على أن الحسن والحسين كانا إبنيّ رسول
+> الله صلى الله عليه وأله وسلم – وعد أن يدعوا أبناءه فدعا الحسن والحسين
+> فوجب أن يكون إبنيّه."
 
 “The fourth issue: The said verse testifies to the fact that al-Hasan
 and al-Husayn (*‘a*) were sons of the Messenger of Allah (S) because
@@ -159,11 +135,7 @@ when he was asked to call his “sons”, he called al-Hasan and al-Husayn
 
 **c.**In his exegesis, Abu ‘Abd Allah al-Qurtubi states:
 
-<blockquote dir="rtl">
-  <p>
-"أبناءنا دليل على أن ابناء البنات يسمّون أبناءا."
-  </p>
-</blockquote>
+> "أبناءنا دليل على أن ابناء البنات يسمّون أبناءا."
 
 ““*Abna’na*” {our sons} (in the stated verse) testifies to the fact that
 the sons of one’s daughter are considered that one’s sons.”[^7]
@@ -175,22 +147,14 @@ al-Hasan and Imam al-Husayn (*‘a*) are sons of the Prophet (S).
 **a.** The Messenger of Allah (S) thus says concerning al-Hasan and
 al-Husayn (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-"هذان إبناؤ من أحبّهما فقد أحبّني."
-  </p>
-</blockquote>
+> "هذان إبناؤ من أحبّهما فقد أحبّني."
 
 “These two are my sons. He who loves them loves me.”[^8]
 
 **b.** Pointing to Imam al-Hasan and Imam al-Husayn (*‘a*), the Holy
 Prophet (S) also says:
 
-<blockquote dir="rtl">
-  <p>
-"إن أبنيّ هذين ريحانتى من الدنيا."
-  </p>
-</blockquote>
+> "إن أبنيّ هذين ريحانتى من الدنيا."
 
 “Verily, these two sons of mine are my bunch of sweet basil in this
 world.”[^9]
@@ -215,5 +179,4 @@ commentary of the verse under discussion.
 hadith 106.
 
 [^9]: Ibid., p. 62, hadith 112.
-
 

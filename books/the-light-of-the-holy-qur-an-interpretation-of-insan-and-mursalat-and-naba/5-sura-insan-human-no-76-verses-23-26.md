@@ -10,7 +10,6 @@ Sura Insan (human) No. 76 (verses 23-26)
 
 (26) وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا
 
-
 23. "Surely We, Ourselves, have revealed the Holy Qur'an to you,
 revealing (it) in stages."
 
@@ -21,7 +20,6 @@ obey not from among them a guilty or an ungrateful one."
 
 26. And during the night prostrate thyself to Him; and glorify Him (a)
 long (part of the) night.
-
 
 **Commentary:
 Five Great Instructions for the Fulfillment of Allah's Command**
@@ -156,5 +154,4 @@ throughout his career of inviting people to Islam, are good examples for
 those who wish to follow the straight path.
 
 (1) Majma'-al-Bayan, vol. 10, p. 413.
-
 

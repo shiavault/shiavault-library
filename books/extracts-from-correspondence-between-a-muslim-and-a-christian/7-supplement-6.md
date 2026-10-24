@@ -98,7 +98,5 @@ the alterations. And after the advent of Islam, more altera- tions have
 been done; and changes are constantly made on the pretext of
 \`correction.'
 
-
 (END OF CORRESPONDENCE)
-
 

@@ -56,4 +56,3 @@ of history, or of poetry? Or is it a book about science and natural
 phenomena? Is it a book about Social manners and spirituality or a book
 about God’s Creation? Is it a book of Law? What is its general theme?
 
-

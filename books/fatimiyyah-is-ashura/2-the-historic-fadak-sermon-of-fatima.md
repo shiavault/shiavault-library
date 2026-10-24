@@ -528,4 +528,3 @@ dies or be slain, will you turn upon your heels?” (Sūrat Āle ʿImrān (3):
 
 [^40]: Noble Qurʾān, Sūrat Hūd (10): 121-122
 
-

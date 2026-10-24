@@ -62,12 +62,8 @@ and Salman Farsi.”
 It is narrated from Imam Ja’far Sadiq (a.s.) through authentic chains of
 narrators that when the Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبٰى
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبٰى
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives…”***[^1]
@@ -93,12 +89,8 @@ Prophet, known as Thabeet and Zaid bin Arqam (r.a.).”
 Ali bin Ibrahim has narrated through authentic chains of narrators from
 Imam Ja’far Sadiq (a.s.) that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ
-جَنَّاتُ الْفِرْدَوْسِ نُزُلًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ
+> جَنَّاتُ الْفِرْدَوْسِ نُزُلًا
 
 ***“Surely (as for) those who believe and do good deeds, their place of
 entertainment shall be the gardens of Paradise.”***[^2]
@@ -232,11 +224,7 @@ but may be He cancels it and also erases the chastisement. Because Allah
 erases whatever He likes and whatever He wants to establish, He does. At
 last, Salman (r.a.) said: You are unaware of the meaning of:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ
-  </p>
-</blockquote>
+> يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ
 
 ***“Allah makes to pass away and establishes what He pleases.”***[^4]
 
@@ -248,11 +236,7 @@ who are inimical to them and they are at peace with those who are at
 peace with them. Then Allah revealed the following verse in support of
 Salman’s (r.a.) statement:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ
-  </p>
-</blockquote>
+> قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ
 
 ***“Say: Whoever is the enemy of Jibraeel…”***[^5]
 
@@ -261,32 +245,20 @@ he helps the friends of Allah against their enemies and he descends with
 Ali’s greatness by the command of Allah they are My enemies and I am
 also their enemy.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهٗ نَزَّلَهٗ عَلٰى قَلْبِكَ بِإِذْنِ اللَّهِ
-  </p>
-</blockquote>
+> فَإِنَّهٗ نَزَّلَهٗ عَلٰى قَلْبِكَ بِإِذْنِ اللَّهِ
 
 ***“…for surely he revealed it to your heart by Allah’s command…”***[^6]
 
 How Jibraeel (a.s.) brought this Qur’an on your heart by Allah’s
 command?
 
-<blockquote dir="rtl">
-  <p>
-مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ
-  </p>
-</blockquote>
+> مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ
 
 ***“…verifying that which is before it…”***[^7]
 
 That verifies all the heavenly scriptures that descended before it…
 
-<blockquote dir="rtl">
-  <p>
-وَهُدًى وَبُشْرٰى لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَهُدًى وَبُشْرٰى لِلْمُؤْمِنِينَ
 
 ***“…and guidance and good news for the believers.”***[^8]
 
@@ -465,11 +437,7 @@ metal. He took off three Mithqal gold and gave it to that Jew. Then
 looking at the remaining gold, he said: O Allah: I have heard that You
 have said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنْسَانَ لَيَطْغٰى. أَنْ رَآهُ اسْتَغْنٰى.
-  </p>
-</blockquote>
+> إِنَّ الْإِنْسَانَ لَيَطْغٰى. أَنْ رَآهُ اسْتَغْنٰى.
 
 ***“Nay! man is most surely inordinate, because he sees himself free
 from want.”***[^9]
@@ -611,11 +579,7 @@ full strength on the ground and broke it into small pieces, he said: O
 Allah’s Messenger, allow me to fight the Jews and destroy them. His
 Eminence (S) said: O Ammar, Allah says:
 
-<blockquote dir="rtl">
-  <p>
-فَاعْفُوا وَاصْفَحُوا حَتّٰى يَأْتِيَ اللَّهُ بِأَمْرِهٖ
-  </p>
-</blockquote>
+> فَاعْفُوا وَاصْفَحُوا حَتّٰى يَأْتِيَ اللَّهُ بِأَمْرِهٖ
 
 ***“…but pardon and forgive, so that Allah should bring about His
 command…”***[^10]
@@ -625,12 +589,8 @@ promised.
  In the mentioned book it is narrated from Imam Zainul Abideen (a.s.)
 that the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهٗ ابْتِغَاءَ مَرْضَاتِ اللَّهِ ۗ
-وَاللَّهُ رَءُوفٌ بِالْعِبَادِ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهٗ ابْتِغَاءَ مَرْضَاتِ اللَّهِ ۗ
+> وَاللَّهُ رَءُوفٌ بِالْعِبَادِ
 
 ***“And among men is he who sells himself to seek the pleasure of Allah;
 and Allah is Affectionate to the servants.”***[^11]  
@@ -793,12 +753,8 @@ Abi Bakr.
  Furat bin Ibrahim has narrated from Imam Ja’far Sadiq (a.s.) in the
 exegesis of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ
-غَيْرُ مَمْنُونٍ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ
+> غَيْرُ مَمْنُونٍ
 
 ***“Except those who believe and do good, so they shall have a reward
 never to be cut off.”***[^12]
@@ -1155,14 +1111,10 @@ way of governance. So how can I inform you of all the good and bad
 things even though the Almighty Allah has restrained me in His clear
 verses from all that you order me to do? And He says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
-بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
-مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
+> بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
+> مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ
 
 ***“O you who believe! avoid most of suspicion, for surely suspicion in
 some cases is a sin, and do not spy nor let some of you backbite others.
@@ -1211,12 +1163,8 @@ Therefore, O Umar, what would be the condition of one who is the
 caretaker of the whole Ummah after the Messenger of Allah (S)? Certainly
 the Creator of the Universe says:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
-عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
+> عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***“(As for) that future abode, We assign it to those who have no desire
 to exalt themselves in the earth nor to make mischief and the good end
@@ -1581,13 +1529,9 @@ Salman quoted his answer. The Prophet announced to Quraish: “The lineage
 of man is his religion and his valor are his good manners; and the root
 of man is intelligence: the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
-أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
+> أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
 
 ***“O you men! surely We have created you of a male and a female, and
 made you tribes and families that you may know each other; surely the
@@ -1647,11 +1591,7 @@ but when I was passing by the iron mongers, I saw their hammers with
 which they pound the iron, and I recalled the statement of the Almighty
 Allah that is mentioned in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
-  </p>
-</blockquote>
+> وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
 
 ***“And for them are whips of iron.”***[^20]
 
@@ -2099,13 +2039,9 @@ from Allah and you still say that Salman was a Majus? Indeed he was
 never a Majus, he only displayed polytheism on the basis of Taqayyah and
 he kept his faith concealed, Have you not heard the Almighty say:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***“But no! by your Lord! they do not believe (in reality) until they
 make you a judge of that which has become a matter of disagreement among
@@ -2304,13 +2240,9 @@ my grave, I felt a great regret and I said: Alas, if I had also returned
 with them. Someone said from the corner of the grave: It is not
 possible. And he recited the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا
-كَلِمَةٌ هُوَ قَائِلُهَا ۖ وَمِنْ وَرَائِهِمْ بَرْزَخٌ إِلَىٰ يَوْمِ
-يُبْعَثُونَ
-  </p>
-</blockquote>
+> لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا
+> كَلِمَةٌ هُوَ قَائِلُهَا ۖ وَمِنْ وَرَائِهِمْ بَرْزَخٌ إِلَىٰ يَوْمِ
+> يُبْعَثُونَ
 
 ***“Haply I may do good in that which I have left. By no means! it is a
 (mere) word that he speaks; and before them is a barrier until the day
@@ -2324,11 +2256,7 @@ made me sit up. And told me to write my deeds. I said I don’t remember
 anything. He said: Have you not heard the statement of the Almighty
 Allah that He made in the Holy Qur’an?
 
-<blockquote dir="rtl">
-  <p>
-أَحْصَاهُ اللَّهُ وَنَسُوهُ
-  </p>
-</blockquote>
+> أَحْصَاهُ اللَّهُ وَنَسُوهُ
 
 ***“…Allah has recorded it…”***[^29]
 
@@ -2340,13 +2268,9 @@ index finger was my pen. I asked, “Where is the ink?” He replied: “It is
 your saliva.” Thus he began to tell me about whatever I had done in the
 world, and nothing was missed by him as the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ
-صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا
-حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
-  </p>
-</blockquote>
+> وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ
+> صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا
+> حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
 
 ***“And they will say: Ah! woe to us! what a book is this! it does not
 omit a small one nor a great one, but numbers them (all); and what they
@@ -2358,13 +2282,9 @@ around my neck. I felt as if all the mountains of the world have been
 placed on my neck. I asked him: “O Mamba, why have you done this to me?”
 He replied: “Have you not heard what your Lord has said:
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ ۖ وَنُخْرِجُ
-لَهُ يَوْمَ الْقِيَامَةِ كِتَابًا يَلْقَاهُ مَنْشُورًا. اقْرَأْ
-كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا.
-  </p>
-</blockquote>
+> وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ ۖ وَنُخْرِجُ
+> لَهُ يَوْمَ الْقِيَامَةِ كِتَابًا يَلْقَاهُ مَنْشُورًا. اقْرَأْ
+> كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا.
 
 ***“And We have made every man’s actions to cling to his neck, and We
 will bring forth to him on the resurrection day a book which he will
@@ -2437,12 +2357,8 @@ dead man. Salman said: Lay me down on the earth. When we placed his head
 on the ground, he said: “Give me the pillow.” We obliged him. Salman
 gazed at the heavens and said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ
-عَلَيْهِ إِنْ كُنْتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلْ مَنْ بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ
+> عَلَيْهِ إِنْ كُنْتُمْ تَعْلَمُونَ
 
 ***“Say: Who is it in Whose hand is the kingdom of all things and Who
 gives succor, but against*** ***Him Succor is not given, if you do but
@@ -2805,11 +2721,7 @@ among you like the runaway slave who is brought back to his master. Then
 he asked: What will be our condition before the Lord? Abu Dharr replied:
 “Present your deeds according to the Book of Allah as He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ. وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ.
-  </p>
-</blockquote>
+> إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ. وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ.
 
 ***“Most surely the righteous are in bliss, and most surely the wicked
 are in burning fire…”***[^34]
@@ -3052,20 +2964,16 @@ dishonesty in the religion of Allah. After that the Almighty Allah will
 save the people from their clutches. And Ali Ibn Ibrahim has mentioned
 in his *Tafsir:*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا
-تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ
-وَأَنْتُمْ تَشْهَدُونَ. ثُمَّ أَنْتُمْ هٰؤُلَاءِ تَقْتُلُونَ
-أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ
-تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ
-أُسَارٰى تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ
-أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا
-جَزَاءُ مَنْ يَفْعَلُ ذٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ
-الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ
-الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ.
-  </p>
-</blockquote>
+> وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا
+> تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ
+> وَأَنْتُمْ تَشْهَدُونَ. ثُمَّ أَنْتُمْ هٰؤُلَاءِ تَقْتُلُونَ
+> أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ
+> تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ
+> أُسَارٰى تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ
+> أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا
+> جَزَاءُ مَنْ يَفْعَلُ ذٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ
+> الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ
+> الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ.
 
 ***“And when We made a covenant with you: You shall not shed your blood
 and you shall not turn your people out of your cities; then you gave a
@@ -3115,15 +3023,11 @@ staff on Kaab’s head and said: “O son of a Jewess, what concern have you
 to interfere in the affairs of Muslims? The statement of the Almighty
 Allah is correct or your words? When He says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا
-فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ. يَوْمَ يُحْمَىٰ
-عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوٰى بِهَا جِبَاهُهُمْ
-وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هٰذَا مَا كَنَزْتُمْ لِأَنْفُسِكُمْ
-فَذُوقُوا مَا كُنْتُمْ تَكْنِزُونَ.
-  </p>
-</blockquote>
+> وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا
+> فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ. يَوْمَ يُحْمَىٰ
+> عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوٰى بِهَا جِبَاهُهُمْ
+> وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هٰذَا مَا كَنَزْتُمْ لِأَنْفُسِكُمْ
+> فَذُوقُوا مَا كُنْتُمْ تَكْنِزُونَ.
 
 ***“…and (as for) those who hoard up gold and silver and do not spend it
 in Allah’s way, announce to them a painful chastisement. On the day when
@@ -3553,12 +3457,8 @@ misappropriate public wealth, and started distributing money according
 to his wish to Marwan and other hypocrites, Abu Dharr began to protest
 about it in streets and publicly recite the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا
-فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ.
-  </p>
-</blockquote>
+> وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا
+> فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ.
 
 ***“…and (as for) those who hoard up gold and silver and do not spend it
 in Allah’s way, announce to them a painful chastisement…”***[^39]
@@ -3872,12 +3772,8 @@ Indeed, I will not omit praying for you in any position, because the
 Almighty Allah has commanded in the Holy Qur’an and promised its
 fulfillment:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ
-عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ
+> عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***“Call upon Me, I will answer you; surely those who are too proud for
 My service shall soon enter hell abased.”***[^41]
@@ -4236,5 +4132,4 @@ surprising due to some reasons as is very much obvious for those who are
 knowledgeable.
 
 [^41]: Surah Momin 40:60
-
 

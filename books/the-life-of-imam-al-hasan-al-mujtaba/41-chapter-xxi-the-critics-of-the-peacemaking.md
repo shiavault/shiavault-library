@@ -355,4 +355,3 @@ critics. He explained to them the reasons for his making peace. He
 answered their admonition with a skillful proof, a wonderful
 presentation, and an original opinion.
 
-

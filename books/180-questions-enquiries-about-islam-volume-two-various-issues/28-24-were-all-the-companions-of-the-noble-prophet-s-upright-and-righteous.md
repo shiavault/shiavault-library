@@ -46,11 +46,7 @@ them as special personalities and shove the entire history of Islam
 after the departure of the Noble Prophet (S) into oblivion? And should
 we flout the Islamic criterion of:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَکْرَمَکُمْ عِنْدَ اللٌّهِ أَتْـقَاکُمْ
-  </p>
-</blockquote>
+> إِنَّ أَکْرَمَکُمْ عِنْدَ اللٌّهِ أَتْـقَاکُمْ
 
 “Verily the most honoured of you in the sight of Allah (s.w.t.) s (he
 who is) the most righteous of you.”
@@ -102,12 +98,8 @@ Ziyad, who says: I approached Muhammad ibne Ka'b al-Quradhi and said to
 him: What do you have to say in connection with the companions of the
 Noble Prophet (S)? He replied:
 
-<blockquote dir="rtl">
-  <p>
-جَمِيْعُ أَصْحَابِ رَسُوْلِ اللهِ فِي الْجَنَّةِ مُحْسِنُهُمْ وَ
-مُسِيْئُهُمْ.
-  </p>
-</blockquote>
+> جَمِيْعُ أَصْحَابِ رَسُوْلِ اللهِ فِي الْجَنَّةِ مُحْسِنُهُمْ وَ
+> مُسِيْئُهُمْ.
 
 “All the companions are the inmates of Paradise - the righteous ones as
 well as the evil ones!”
@@ -115,13 +107,9 @@ well as the evil ones!”
 I said to him: From where do you state such a thing? Whereupon he
 recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ السَّابِقُونَ الأََوَّلُونَ مِنَ الْمُهَاجِرِينَ وَ الأََنْصَارِ وَ
-الَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللٌّهُ عَنْهُمْ وَ رَضُوا
-عَنْهُ
-  </p>
-</blockquote>
+> وَ السَّابِقُونَ الأََوَّلُونَ مِنَ الْمُهَاجِرِينَ وَ الأََنْصَارِ وَ
+> الَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللٌّهُ عَنْهُمْ وَ رَضُوا
+> عَنْهُ
 
 ***“And (as for) the foremost, the first of the Muhajirs and the Ansars,
 and those who followed them in goodness, Allah is well pleased with them
@@ -244,5 +232,4 @@ ones.[^4]
 the above verse.
 
 [^4]: Tafsir-e-Namuna, vol. 8, pg. 108
-
 

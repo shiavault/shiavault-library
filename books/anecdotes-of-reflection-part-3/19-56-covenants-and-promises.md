@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-أَوْفُوا بِعَهدِ اللهِ إِذاَ عَاهَدْتُمْ
-  </p>
-</blockquote>
+> أَوْفُوا بِعَهدِ اللهِ إِذاَ عَاهَدْتُمْ
 
 *”And fulfil the covenant of Allah when you have made a covenant.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ دِينَ لِمَنْ لاَ عَهِدَ لَهُ.
-  </p>
-</blockquote>
+> لاَ دِينَ لِمَنْ لاَ عَهِدَ لَهُ.
 
 *“One, who does not adhere to his covenants (and promises), has no
 religion.”*[^2]
@@ -205,5 +197,4 @@ pg. 128
 [^6]: Paighambar Wa Yaran, vol. 1, pg. 334
 
 [^7]: Dastan-ha-e-Ma, vol. 1, pg. 111; Kudak-e-Falsafi, vol. 2, pg. 17
-
 

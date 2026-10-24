@@ -114,24 +114,15 @@ derive independent benefit from it, underlining the significance of
 Caliphate, the status of Wilayah and Imamah. Allah, the High, informs
 us:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
 
 ***On that day We will call every people with their Imam. (Surah Bani
 Israel 17: 71)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every people. (Surah
 Ra’d 13:7)***
 
 His Holiness Ayatullah Lutfullah Saafi Golpaygani
-
 

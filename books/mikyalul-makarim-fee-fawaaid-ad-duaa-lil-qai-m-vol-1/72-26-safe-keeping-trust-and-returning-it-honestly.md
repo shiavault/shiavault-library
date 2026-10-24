@@ -194,11 +194,7 @@ Eminence, Abu Ja’far Baqir (as) that he said:
 “Allah, the Mighty and Sublime cannot be described and how can He be
 descried when He says in his book:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ
-  </p>
-</blockquote>
+> وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ
 
 ***“And they do not assign to Allah the attributes due to Him.” (Qur’an,
 Surah Anaam 6:91)***
@@ -208,11 +204,7 @@ Prophet (S) also has not been described perfectly. How can one describe
 a slave that the Almighty Allah has kept under seven veils and whose
 obedience He made as good as His obedience and He said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
 
 ***“And whatever the Apostle gives you, accept it, and from whatever he
 forbids you, keep back.”(Qur’an, Surah Hashr 59:7)*** [^10]
@@ -271,11 +263,7 @@ veils.”
 The word of ‘slave’ is the object; and this omission is quite common.
 For example:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ
-  </p>
-</blockquote>
+> اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ
 
 ***“Allah amplifies and straitens the means of subsistence for whom He
 pleases.” (Qur’an, Surah Raad 13:26)***
@@ -473,11 +461,7 @@ change and annihilation.
 
 I say: That which proves this is the statement of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ
-  </p>
-</blockquote>
+> وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ
 
 ***“And there will endure for ever the person of your Lord, the Lord of
 glory and honor.” (Qur’an, Surah Rahman 55:27)***
@@ -546,11 +530,7 @@ there the Almighty Allah would not have been worshipped.”[^18]
 
 Apparently the statement of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ
 
 ***“Everything is perishable but His face.” (Qur’an, Surah Qasas
 28:88)***
@@ -603,12 +583,8 @@ is clear to all.
 
 As for the Holy Qur’an; in it the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ
-أَهْلِهَا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ
+> أَهْلِهَا
 
 ***“Surely Allah commands you to make over trusts to their owners.”
 (Qur’an, Surah Nisa 4:58)***
@@ -617,12 +593,8 @@ As for the Holy Qur’an; in it the Almighty Allah says:
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ
-وَأَنْتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ
+> وَأَنْتُمْ تَعْلَمُونَ
 
 ***“Be not unfaithful to Allah and the Apostle, nor be unfaithful to
 your trusts while you know.” (Qur’an, Surah Anfaal 8:27)***
@@ -723,5 +695,4 @@ thousand devotees.”
 [^20]: Ihtijaaj; Vol. 2, Pg. 97
 
 [^21]: Nahjul Balagha, Sermon 184. (Sermon 224, Pg. 742 Fayd)
-
 

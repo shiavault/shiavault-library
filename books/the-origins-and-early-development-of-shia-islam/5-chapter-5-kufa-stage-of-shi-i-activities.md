@@ -1184,4 +1184,3 @@ I, p.3227
 slightly different readings in some cases. I have followed the Nahj al-
 Balagha's text.
 
-

@@ -532,12 +532,8 @@ invalidation.
 Ihram with correct Arabic accent and it is obligatory precaution to be
 said in this way:
 
-<blockquote dir="rtl">
-  <p>
-لَبّیْکَ اللّهُمَّ لَبَّیْکَ، لَبَّیْکَ لا شَریکَ لَکَ لَبَّیْکَ،
-اِنَّ الْحَمْدَ و النِّعْمَةَ لَکَ وَ الْمـُلْکَ، لا شَریکَ لَکَ
-  </p>
-</blockquote>
+> لَبّیْکَ اللّهُمَّ لَبَّیْکَ، لَبَّیْکَ لا شَریکَ لَکَ لَبَّیْکَ،
+> اِنَّ الْحَمْدَ و النِّعْمَةَ لَکَ وَ الْمـُلْکَ، لا شَریکَ لَکَ
 
 **Allah! I comply (and obey) you, again I comply you, and one more time
 I obey you, there is no partner for you, I comply you, solely you
@@ -1633,11 +1629,7 @@ himself/herself, and these three acts have been collected in the term
 “Fosuq” according to some cabbalas quoted from infallibles (a.s.) in the
 holy verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ
-  </p>
-</blockquote>
+> فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ
 
 ***..so whoever determines the performance of the pilgrimage therein,
 there shall be no intercourse nor fornication nor quarrelling amongst
@@ -1887,5 +1879,4 @@ Istighfar                                                                       
 | 32  | Tooth Extraction                                                    | One Sheep (as Mustahab precaution)                                                                            |
 | 33  | Covering the Head                                                   | One Sheep (as obligatory precaution)                                                                          |
 | 34  | Applying Oil                                                        | One Sheep (as obligatory precaution)                                                                          |
-
 

@@ -83,4 +83,3 @@ chapter bearing the heading “Al-Mukhtar's Uprising.”
 [^7]: al-Mas’udi, Muruj al-Thahab, Vol. 2, p. 105, where Yazid is
 discussed.
 
-

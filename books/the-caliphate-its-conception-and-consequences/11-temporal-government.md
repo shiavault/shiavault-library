@@ -1889,7 +1889,6 @@ utilize properly and beneficially, led to numerous vices.
 7. Imperialism and Capitalism were the direct result of these
 conquests.
 
-
 **Chapter Twelve : To Conclude**
 
 Thus have all the dimensions of this question over the succession been
@@ -1954,5 +1953,4 @@ closer enquiry into the matter. This brings us to the present book,
 which should greatly facilitate the recognition of the truth of the
 question of the succession, and enable all Muslims to be united- not
 merely on the basis of a majority perception, but united in truth.
-
 

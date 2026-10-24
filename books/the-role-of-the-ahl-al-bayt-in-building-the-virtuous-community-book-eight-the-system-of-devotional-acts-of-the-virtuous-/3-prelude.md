@@ -37,4 +37,3 @@ litanies, recitation of the Holy Qur'an, almsgiving, building good
 relations with others, doing charitable acts, seeking knowledge, and
 other obligatory and recommended devotional acts.
 
-

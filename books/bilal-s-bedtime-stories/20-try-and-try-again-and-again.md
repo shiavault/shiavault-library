@@ -36,4 +36,3 @@ The Qur'an teaches:
 
 (Sura An-Najm 53:39-41)
 
-

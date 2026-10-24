@@ -8,4 +8,3 @@ except during the period of reappearance – this person will earn the
 unlimited rewards of trying to seek knowledge. We have already explained
 this point in the chapter of Letter ‘K’ in Part Four of this book.
 
-

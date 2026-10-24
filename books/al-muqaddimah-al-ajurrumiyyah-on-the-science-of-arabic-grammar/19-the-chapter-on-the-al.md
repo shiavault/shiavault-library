@@ -25,4 +25,3 @@ except after the completion of the Kalām[^75] .
 Its Ṣāḥib (subject of the state i.e. the one who is in the particular
 state) does not occur except as an Ism Ma‘rifah[^76] .
 
-

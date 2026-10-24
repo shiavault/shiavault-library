@@ -259,4 +259,3 @@ Taken from Asthaghsa al Ahfaam quoting Munkhaul, by Allamah Ghazzali
 Tusi al Iraani page 192 published Majmaa al Juraayn Ludhanan (1276
 Hijri)
 
-

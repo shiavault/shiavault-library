@@ -15,10 +15,5 @@ One Who Is Neglectful And Falls Short
 has indeed made a loss in his life and is harmed by his death.
 
 > 3ـ مَنْ قَصَّرَ في أيّامِ أمَلِهِ قَبْلَ حُضُورِ أجَلِهِ فَقَدْ خَسِرَ
-<blockquote dir="rtl">
-  <p>
-عُمْرَهُ، وضَرَّهُ أجَلُهُ.
-  </p>
-</blockquote>
-
+> عُمْرَهُ، وضَرَّهُ أجَلُهُ.
 

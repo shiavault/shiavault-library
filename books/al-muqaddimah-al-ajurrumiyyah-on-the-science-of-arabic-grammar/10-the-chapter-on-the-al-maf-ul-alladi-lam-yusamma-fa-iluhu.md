@@ -65,4 +65,3 @@ were hit]
 **ضُرِب** نَ                                   [They (fem. pl.) were
 hit]
 
-

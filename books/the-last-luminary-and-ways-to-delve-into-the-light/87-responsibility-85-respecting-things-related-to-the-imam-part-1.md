@@ -42,4 +42,3 @@ information.
 [^2]: There are some places that shall be mentioned separately whose
 explanation shall be given in the next responsibility.
 
-

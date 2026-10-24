@@ -1,17 +1,9 @@
 Foreword
 ========
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه واله وسلم:
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه واله وسلم:
 
-<blockquote dir="rtl">
-  <p>
-أف لكل مسلم لا يجعل في كل جمعة يوما يتفقه فيه أمر دينه ويسأل عن دينه.
-  </p>
-</blockquote>
+> أف لكل مسلم لا يجعل في كل جمعة يوما يتفقه فيه أمر دينه ويسأل عن دينه.
 
 The Prophet of Allah, peace be upon him and his family has said:
 
@@ -19,5 +11,4 @@ The Prophet of Allah, peace be upon him and his family has said:
 the study of the details of his religion and to explore (the affairs) of
 his religion."
 Bihar al-Anwar, Volume 1, Page. 176
-
 

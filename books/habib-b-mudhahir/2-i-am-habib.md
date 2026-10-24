@@ -78,4 +78,3 @@ Bani Asad's attitude. Imam Husayn [s] said:
 
 There's neither might nor power but with Allah!
 
-

@@ -383,4 +383,3 @@ of that era. Banu Faddal and al-­Shalamghani had diverted from the right
 path, and, therefore, the Imams (A) forbade the Shi\`is from acting upon
 their verdicts, judgements and opinions.
 
-

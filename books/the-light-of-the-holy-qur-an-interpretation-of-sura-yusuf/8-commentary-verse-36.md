@@ -34,7 +34,6 @@ However, conjectures in the realm of ideas, if they are rooted in
 pursuing the vain way of one's ancestors or fanaticism based on
 ignorance are groundless, and hence, are of no avail.
 
-
 **Commentary : Verse 37**
 
 (37) وَ ما كانَ هذَا الْقُرْآنُ أَنْ يُفْتَرى‏ مِنْ دُونِ اللَّهِ وَ
@@ -61,7 +60,6 @@ saying:
 
 "... and a(clear)explanation of the Book, wherein there is no doubt,
 from the Lord of the Worlds. "
-
 
 **Commentary : Verse 38**
 
@@ -160,7 +158,6 @@ of letters, and geniuses. It continues saying:
 "... and call(to your aid)anyone you can, besides Allah, if you are
 truthful! '"
 
-
 **Commentary : Verse 39**
 
 (39) بَلْ كَذَّبُوا بِما لَمْ يُحيطُوا بِعِلْمِهِ وَ لَمَّا يَأْتِهِمْ
@@ -190,7 +187,6 @@ eventual fate of the oppressors, the verse continues saying:
 
 "... see then what was the end of the unjust ones. "
 
-
 **Commentary : Verse 40**
 
 (40) وَ مِنْهُمْ مَنْ يُؤْمِنُ بِهِ وَ مِنْهُمْ مَنْ لا يُؤْمِنُ بِهِ
@@ -209,5 +205,4 @@ The verse says:
 
 " And some of them believe in it and some of them do not believe in it;
 and your Lord knows best the mischief makers. "
-
 

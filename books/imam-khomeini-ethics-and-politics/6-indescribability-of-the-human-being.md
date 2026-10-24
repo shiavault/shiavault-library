@@ -154,25 +154,13 @@ from ethics and is traversing this path to no avail. This approach which
 is against nature can be well seen in the following couplets of Firdawsī
 (Ferdowsī):[18]
 
-<blockquote dir="rtl">
-  <p>
-درختى كه تلخ است وى را سرشت               گرش برنشانى به باغ بهشت
-  </p>
-</blockquote>
+> درختى كه تلخ است وى را سرشت               گرش برنشانى به باغ بهشت
 
-<blockquote dir="rtl">
-  <p>
-ور از جوى خُلد ش به هنگام آب                  به بيخ، انگبين ريزى و
-شهد ناب
-  </p>
-</blockquote>
+> ور از جوى خُلد ش به هنگام آب                  به بيخ، انگبين ريزى و
+> شهد ناب
 
-<blockquote dir="rtl">
-  <p>
-سر انجام گوهر به بار آورد؟                       همان ميوه تلخ بار
-آورد
-  </p>
-</blockquote>
+> سر انجام گوهر به بار آورد؟                       همان ميوه تلخ بار
+> آورد
 
  
 
@@ -276,23 +264,11 @@ the bramble. The person promised to do so but kept on procrastinating.
 In this manner, as the days passed by, the plant became stronger while
 the person became weaker and older:
 
-<blockquote dir="rtl">
-  <p>
-ﺧﺎﺮﺒُﻦﺪﺮ ﻗﻮّت ﻮﺒﺮﺧﺎﺴﺗﻦ                  ﺧﺎﺮﻜَﻦﺪﺮﭘﻴﺮﻯﻮﺪﺮﻜﺎﺴﺗﻦ
-  </p>
-</blockquote>
+> ﺧﺎﺮﺒُﻦﺪﺮ ﻗﻮّت ﻮﺒﺮﺧﺎﺴﺗﻦ                  ﺧﺎﺮﻜَﻦﺪﺮﭘﻴﺮﻯﻮﺪﺮﻜﺎﺴﺗﻦ
 
-<blockquote dir="rtl">
-  <p>
-ﺧﺎﺮﺒُﻦﻫﺮ ﺮﻮﺰ ﻮ ﻫﺮﺪﻢ ﺴﺒﺰ ﻮ ﺗﺮ         ﺧﺎﺮﻜَﻦﻫﺮ ﺮﻮﺰ ﺰﺍﺮ ﻮﺧﺷﻜﺗﺮ
-  </p>
-</blockquote>
+> ﺧﺎﺮﺒُﻦﻫﺮ ﺮﻮﺰ ﻮ ﻫﺮﺪﻢ ﺴﺒﺰ ﻮ ﺗﺮ         ﺧﺎﺮﻜَﻦﻫﺮ ﺮﻮﺰ ﺰﺍﺮ ﻮﺧﺷﻜﺗﺮ
 
-<blockquote dir="rtl">
-  <p>
-ﺍﻮ ﺠﻮﺍﻧﺗﺮﻣﻰ ﺷﻮﺪ، ﺗﻮﭙﻴﺮﺗﺮ               ﺰﻮﺪﺒﺎﺵﻮ ﺮﻮﺰﮔﺎﺮﺧﻮﺪ ﻣﺒﺮ
-  </p>
-</blockquote>
+> ﺍﻮ ﺠﻮﺍﻧﺗﺮﻣﻰ ﺷﻮﺪ، ﺗﻮﭙﻴﺮﺗﺮ               ﺰﻮﺪﺒﺎﺵﻮ ﺮﻮﺰﮔﺎﺮﺧﻮﺪ ﻣﺒﺮ
 
 *The thornbrush (is) in (process of gaining) strength and (in) ascent;*
 
@@ -340,11 +316,7 @@ chance of many tomorrows. So, man must always be wary and not give
 himself the promise of the never-to-come tomorrow:  
   
 
-<blockquote dir="rtl">
-  <p>
-ﻫﻴﻦﻣﮕﻮ: ﻓﺮﺪﺍ ﻛﻪﻓﺮﺪﺍﻫﺎﮔﺬﺷﺖ           ﺗﺎ ﺒﻛﻠﻰﻧﮕﺬﺮﺪ ﺍﻳﺎﻢﻛﺷﺖ
-  </p>
-</blockquote>
+> ﻫﻴﻦﻣﮕﻮ: ﻓﺮﺪﺍ ﻛﻪﻓﺮﺪﺍﻫﺎﮔﺬﺷﺖ           ﺗﺎ ﺒﻛﻠﻰﻧﮕﺬﺮﺪ ﺍﻳﺎﻢﻛﺷﺖ
 
 *Beware! Do not say ‘Tomorrow’—for (many) tomorrows have passed*
 
@@ -557,35 +529,15 @@ excellence against the Prophet of God, Hadrat[43] Mūsā (Moses) (*‘a*)
 and, as a result, destroyed himself. The Glorious Qur’an has made an
 example of the story of his life for mankind:
 
-<blockquote dir="rtl">
-  <p>
-ﺒﻠﻌﻢﺒﺎﻋﻭﺮ ﺮﺍﺧﻠﻖ ﺠﻬﺎﻥ                    ﺴُﻐﺒﻪ ﺷﺪﻤﺎﻧﻧﺪﻋﻴﺴﺎﻯ ﺯﻤﺎﻥ
-  </p>
-</blockquote>
+> ﺒﻠﻌﻢﺒﺎﻋﻭﺮ ﺮﺍﺧﻠﻖ ﺠﻬﺎﻥ                    ﺴُﻐﺒﻪ ﺷﺪﻤﺎﻧﻧﺪﻋﻴﺴﺎﻯ ﺯﻤﺎﻥ
 
-<blockquote dir="rtl">
-  <p>
-ﺴﺠﺪﻩﻧﺎﻮﺮﺪﻧﺪ ﻜﺲﺮﺍ ﺪﻮﻥِ ﺍﻮ              ﺼﺣﺖِ ﺮﻧﺠﻮﺮ ﺒﻮﺪﺍﻓﺴﻮﻥ ﺍﻮ
-  </p>
-</blockquote>
+> ﺴﺠﺪﻩﻧﺎﻮﺮﺪﻧﺪ ﻜﺲﺮﺍ ﺪﻮﻥِ ﺍﻮ              ﺼﺣﺖِ ﺮﻧﺠﻮﺮ ﺒﻮﺪﺍﻓﺴﻮﻥ ﺍﻮ
 
-<blockquote dir="rtl">
-  <p>
-ﭙﻧﺠﻪﺰﺪ ﺒﺎ ﻤﻮﺳﻰﺍﺰ ﻛﺒﺮ ﻮﻛﻤﺎﻞ          ﺁﻧﭽﻧﺎﻦ ﺷﺩﻛﻪ ﺷﻧﻳﺩﺳﺗﯽﺗﻭ ﺤﺎﻞ
-  </p>
-</blockquote>
+> ﭙﻧﺠﻪﺰﺪ ﺒﺎ ﻤﻮﺳﻰﺍﺰ ﻛﺒﺮ ﻮﻛﻤﺎﻞ          ﺁﻧﭽﻧﺎﻦ ﺷﺩﻛﻪ ﺷﻧﻳﺩﺳﺗﯽﺗﻭ ﺤﺎﻞ
 
-<blockquote dir="rtl">
-  <p>
-ﺻﺩ ﻫﺰﺍﺭﺍﺒﻟﻳﺲ ﻭﺒﻟﻌﻢ ﺩﺭﺟﻬﺎﻦ          ﻫﻣﭼﻧﻳﻦﺒﻭﺩﻩ ﺍﺴﺕﭙﻳﺩﺍ ﻭ ﻧﻬﺎﻦ
-  </p>
-</blockquote>
+> ﺻﺩ ﻫﺰﺍﺭﺍﺒﻟﻳﺲ ﻭﺒﻟﻌﻢ ﺩﺭﺟﻬﺎﻦ          ﻫﻣﭼﻧﻳﻦﺒﻭﺩﻩ ﺍﺴﺕﭙﻳﺩﺍ ﻭ ﻧﻬﺎﻦ
 
-<blockquote dir="rtl">
-  <p>
-ﺍﻳﻦﺩﻭ ﺮﺍ ﻣﺷﻬﻭﺮﮔﺮﺩﺍﻧﻳﺩ اِﻠﻪ               ﺗﺎ ﻜﻪ ﺑﺎﺷﺩ اﻳﻦ ﺩﻮ ﺑﺮﺑﺎﻗﻰ ﮔﻮاﻩ
-  </p>
-</blockquote>
+> ﺍﻳﻦﺩﻭ ﺮﺍ ﻣﺷﻬﻭﺮﮔﺮﺩﺍﻧﻳﺩ اِﻠﻪ               ﺗﺎ ﻜﻪ ﺑﺎﺷﺩ اﻳﻦ ﺩﻮ ﺑﺮﺑﺎﻗﻰ ﮔﻮاﻩ
 
 *To Bal‘am son of Bā‘ūr the people of the world became subject,*
 
@@ -712,5 +664,4 @@ acquired faith at the time of death, and there are the like of us![55]
 our deeds in life, how many virtues would we acquire and how many
 abominations and defects would we rid ourselves of.   
   
-
 

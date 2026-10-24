@@ -244,4 +244,3 @@ Tragic Saga of Karbala, p. 174-175, Nafasul Mahmoom, p. 318.
 
 [^10]: Life of Imam Husayn [s] [The Saviour], p. 150-151.
 
-

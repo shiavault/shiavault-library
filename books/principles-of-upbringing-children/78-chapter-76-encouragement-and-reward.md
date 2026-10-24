@@ -122,4 +122,3 @@ at preparing lots of very good dishes."
 
 [^2]: Gharar al hukm, p. 209
 
-

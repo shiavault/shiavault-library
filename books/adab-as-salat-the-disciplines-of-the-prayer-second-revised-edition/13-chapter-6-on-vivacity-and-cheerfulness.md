@@ -218,4 +218,3 @@ Nawādir ar-Rāwandī, p. 12.
 
 [^13]: Ibid., hadīth 2.
 
-

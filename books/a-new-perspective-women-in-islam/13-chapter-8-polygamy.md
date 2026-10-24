@@ -210,4 +210,3 @@ did after the permitted revelation.
 Prophet wishes to marry her, a privilege for you only, not the rest of
 the believers.” (33:50)***
 
-

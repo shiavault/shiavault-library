@@ -79,4 +79,3 @@ ruling.
 emergency Wuqufs is also invalidated and should act according to the
 previous ruling.
 
-

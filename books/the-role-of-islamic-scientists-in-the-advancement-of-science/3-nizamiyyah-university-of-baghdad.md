@@ -110,4 +110,3 @@ students graduated from it with high qualifications.
 
 [^1]: History of Islamic Civilization, Vol. 3 Georgi Zeydn.
 
-

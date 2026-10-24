@@ -44,7 +44,6 @@ a proof of forgery. These three devices are the most important for
 sifting the authentic AHADITH form the mass collected in the books of
 traditions.
 
-
 **ADDENDA\* THE SATANIC SUGGESTION!!!**
 
 It appears from a story narrated by many SUNNI (traditionist)
@@ -358,5 +357,4 @@ believe in the "sinless-ness" of the prophets; and that it was only
 after they were effected by the "sinless Imams" of the SHI'AS, and the
 "sinless Messiah" of the Christians that they also began to believe in
 the "sinless-ness" theory of all other prophets.
-
 

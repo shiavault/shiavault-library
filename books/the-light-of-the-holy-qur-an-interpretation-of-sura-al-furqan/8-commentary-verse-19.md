@@ -102,7 +102,6 @@ nothing of Allah and other nations makes the vast meaning of this verse
 more clear that how they are wallowing in moral corruption, and humane
 virtues can no longer be found in weathered land of their entity.
 
-
 **Commentary : Verse 20**
 
 20. وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلآَّ إِنَّهُمْ
@@ -188,5 +187,4 @@ knowledge operates in minute detail and nothing is hidden from Him. He
 sees and knows everything precisely.
 
 The End of Part 18
-
 

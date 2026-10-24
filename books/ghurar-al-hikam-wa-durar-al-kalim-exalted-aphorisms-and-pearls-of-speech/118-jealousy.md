@@ -15,11 +15,7 @@ Jealousy
 destruction of the envier or the death of the envied.
 
 > 3ـ اَلْحَسَدُ داءٌ عَياءٌ، لايَزُولُ إلاّ بِهَلْكِ الحاسِدِ، أوْ
-<blockquote dir="rtl">
-  <p>
-مَوْتِ المَحْسُودِ.
-  </p>
-</blockquote>
+> مَوْتِ المَحْسُودِ.
 
 4. Jealousy eats away good deeds just like fire consumes firewood.
 
@@ -30,11 +26,7 @@ possesses it is not cured except by realizing his hopes about the one
 whom he envies.
 
 > 5ـ اَلْحَسَدُ عَيْبٌ فاضِحٌ، وشُحٌّ (شَجىٌّ)فادِحٌ، لايَشْفي صاحِبَهُ
-<blockquote dir="rtl">
-  <p>
-إلاّ بُلُوغُ آمالِهِ فيمَنْ يَحْسُدُهُ.
-  </p>
-</blockquote>
+> إلاّ بُلُوغُ آمالِهِ فيمَنْ يَحْسُدُهُ.
 
 6. Be cautious of jealousy, for it disparages the self.
 
@@ -44,11 +36,7 @@ whom he envies.
 attribute and the trait of the Devil.
 
 > 7ـ إيّاكَ والحَسَدَ، فَإنَّهُ شَـرُّ شيمَة، وأقْبَحُ سَجِيَّة،
-<blockquote dir="rtl">
-  <p>
-وخَليقَةُ إبْلِيسَ.
-  </p>
-</blockquote>
+> وخَليقَةُ إبْلِيسَ.
 
 8. Jealousy is stressful.
 
@@ -109,11 +97,7 @@ Hereafter.
 possesses them].
 
 > 21ـ دَعِ الحَسَدَ، والكِذْبَ، والحِقْدَ، فَإنَّهُنَ ثَلاثَةٌ تَشينُ
-<blockquote dir="rtl">
-  <p>
-الدّينَ، وَتُهْلِكُ الرَّجُلَ.
-  </p>
-</blockquote>
+> الدّينَ، وَتُهْلِكُ الرَّجُلَ.
 
 22. The cornerstone of [all] depravities is jealousy.
 
@@ -140,11 +124,7 @@ enfeebler.
 too does jealousy corrode the body until it wears away.
 
 > 27ـ كَما أنَّ الصَّدَأَ يَأْكُلُ الحَديدَ حَتّى يُفْنِيَهُ، كَذلِكَ
-<blockquote dir="rtl">
-  <p>
-الحَسَدُ يُكْمِدُ الجَسَدَ حَتّى يُفْنِيَهُ.
-  </p>
-</blockquote>
+> الحَسَدُ يُكْمِدُ الجَسَدَ حَتّى يُفْنِيَهُ.
 
 28. Jealousy is not from the characteristics of the God-wary.
 
@@ -165,16 +145,11 @@ faith like fire consumes firewood; and do not have hatred for one
 another for this is severing [for the faith].
 
 > 31ـ لاتَحاسَدُوا فَإنَّ الحَسَدَ يَأْكُلُ الإيمانَ، كَما تَأْكُلُ
-<blockquote dir="rtl">
-  <p>
-النّارُ الحَطَبَ، وَلاتَباغَضُوا فَإنَّها الحالِقَةُ.
-  </p>
-</blockquote>
+> النّارُ الحَطَبَ، وَلاتَباغَضُوا فَإنَّها الحالِقَةُ.
 
 32. There is no malady like jealousy.
 
 > 32ـ لاداءَ كَالحَسَدِ.
 
 [^1]: Or from weakness and lack of resolve
-
 

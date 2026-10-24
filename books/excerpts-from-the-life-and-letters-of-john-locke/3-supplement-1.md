@@ -242,4 +242,3 @@ therefore, of the assistance of another, at least it is very useful
 impartially to show us their defects, and help us to try them by the
 plain and evident principle of reason or religion.
 
-

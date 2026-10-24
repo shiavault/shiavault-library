@@ -497,4 +497,3 @@ alleged claim, which was raised simply to compete with Sayyidah Zahra
 
 [^3]: A type of mush made of wheat or barley, also with sugar and dates.
 
-

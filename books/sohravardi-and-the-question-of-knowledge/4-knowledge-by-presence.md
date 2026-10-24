@@ -82,4 +82,3 @@ form, and knowledge and the object known are in some way united, there
 is no place for correspondence or non-correspondence, and thus talk of
 error is irrelevant.
 
-

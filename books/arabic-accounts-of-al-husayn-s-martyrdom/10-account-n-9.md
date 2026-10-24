@@ -13,4 +13,3 @@ already been cited, and there are other reports from him which are not
 from Abu Mikhnaf. So clearly he used other material to supplement Abu
 Mikhnaf s account.
 
-

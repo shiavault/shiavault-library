@@ -1221,4 +1221,3 @@ the path of monotheism.
 
 [^43]: Sahifat As-Sajjadiyyah, supplication no.47.
 
-

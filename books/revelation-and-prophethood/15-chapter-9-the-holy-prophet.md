@@ -378,7 +378,6 @@ severe. He mostly relied on arousing hope and avoided threatening and
 frightening. To one of his companions, whom he sent for preaching Islam,
 he said:
 
-
 "Be pleasant and do not be harsh. Tell the people what may please them
 and do not make them disgusted".
 
@@ -427,5 +426,4 @@ The Holy Prophet's character and behaviour like his sayings and his
 religion were comprehensive and all-sided. History does not at all
 remember any personality who like him ever attained perfection in all
 human dimensions. He was really a perfect man.
-
 

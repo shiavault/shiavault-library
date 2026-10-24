@@ -1,16 +1,12 @@
 Discourse 37: Three Things Which The Muslim Nation Does Not Have The Strength To Bear
 =====================================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، ثَلاَثٌ لاَ تُطِيقُهَا هٌذِهِ
-الأُمَّةِ: أَلْمُوَاسَاتُ لِلأَخِ فِي مَالِهِ وَ إِنْصَافُ النَّاسِ
-مِنْ نَفْسِهِ وَذِكْرُ اللٌّهِ عَلى كُلِّ حَالِهِ وَ لَيْسَ هُوَ:
-«سُبْحَانَ اللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَلاَ إِِلٌهَ إِلاَّ اللٌّهُ
-وَاللٌّهُ أََكْبَرُ» وَلٌكِنْ إِذَا وَرَدَ عَلى مَا يَحْرُمُ عَلَيْهِ
-خَافَ اللٌّهَ عَزَّ وَجَلَّ عِنْدَهُ وَ تَرْكِهِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، ثَلاَثٌ لاَ تُطِيقُهَا هٌذِهِ
+> الأُمَّةِ: أَلْمُوَاسَاتُ لِلأَخِ فِي مَالِهِ وَ إِنْصَافُ النَّاسِ
+> مِنْ نَفْسِهِ وَذِكْرُ اللٌّهِ عَلى كُلِّ حَالِهِ وَ لَيْسَ هُوَ:
+> «سُبْحَانَ اللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَلاَ إِِلٌهَ إِلاَّ اللٌّهُ
+> وَاللٌّهُ أََكْبَرُ» وَلٌكِنْ إِذَا وَرَدَ عَلى مَا يَحْرُمُ عَلَيْهِ
+> خَافَ اللٌّهَ عَزَّ وَجَلَّ عِنْدَهُ وَ تَرْكِهِ.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! There are three things
 which this nation shall not be able to bear: equality with their brother
@@ -90,11 +86,7 @@ husband and wife came to the Prophet (S). The Prophet (S) looked at them
 and without saying a word, smiled and read the following verse of the
 Qur\`an (from Suratul Hashr, verse 80):
 
-<blockquote dir="rtl">
-  <p>
-وَ يُؤْثَرُونَ عَلى أَنْفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَــةً
-  </p>
-</blockquote>
+> وَ يُؤْثَرُونَ عَلى أَنْفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَــةً
 
 “And they (the Ansar) prefer them (the Muhajirun) over themselves even
 if they are in an state of abject poverty!”[^2]
@@ -105,24 +97,16 @@ Division of One's Wealth in the Islamic Narrations
 1. It has been narrated from Abu Dharr that he has said, “I heard the
 Prophet (S) say:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا هُمْ إِخَوَانُكُمْ فَاكْسُوهُمْ مِــــمَّا تَكِسُونَ، وَ
-أَطْعِمُوهُمْ مِمَّا تُطْعِمُونَ، فَمَا رَوَى عَبْدَهُ بَعْدَ ذٌلِكَ
-إِلاَّ وَ رِدَائُهُ رِدَائَهُ، وَإِزَارُهُ إِزارَهُ، مِنْ غَيْرِ
-تَفَاوُتٍ.
-  </p>
-</blockquote>
+> إِنَّمَا هُمْ إِخَوَانُكُمْ فَاكْسُوهُمْ مِــــمَّا تَكِسُونَ، وَ
+> أَطْعِمُوهُمْ مِمَّا تُطْعِمُونَ، فَمَا رَوَى عَبْدَهُ بَعْدَ ذٌلِكَ
+> إِلاَّ وَ رِدَائُهُ رِدَائَهُ، وَإِزَارُهُ إِزارَهُ، مِنْ غَيْرِ
+> تَفَاوُتٍ.
 
 2. In the Tafsir of ‘Ali b. Ibrahim we read a tradition in regards to
 verses 70 to 72 of Suratul Nahl (16):
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَجُوزُ لِلرَّجُلِ أَنْ يَخُصَّ نَفْسَهُ بِشَيْءٍ مِنَ
-الْمَأْكُولِ دُونَ عَيَالِهِ.
-  </p>
-</blockquote>
+> لاَ يَجُوزُ لِلرَّجُلِ أَنْ يَخُصَّ نَفْسَهُ بِشَيْءٍ مِنَ
+> الْمَأْكُولِ دُونَ عَيَالِهِ.
 
 “It is not permissible for a person to prefer some food for himself (and
 eat that) and not to feed the  
@@ -211,11 +195,7 @@ When one enters into a gathering, he must be sure to remember Allah
 (SwT) and this Dhikr of Allah (SwT) would actually be the source of
 tranquility and serenity of the person in this world as:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ بِذِكْرِ اللٌّهِ تَطْمَئِنَّ الْقُلُوبِ
-  </p>
-</blockquote>
+> أَلاَ بِذِكْرِ اللٌّهِ تَطْمَئِنَّ الْقُلُوبِ
 
 “Now surely with the remembrance (Dhikr) of Allah are the hearts put at
 rest and ease.”[^4]
@@ -237,13 +217,9 @@ either a verbal recollection or a remembrance in the heart.
 
 We read in the traditions[^5] that Imam ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلذِّكْرُ ذِكْرَانِ: ذِكْرُ اللٌّهِ عَزَّ وَجَلَّ عِنْدَ الْمُصيِبَةِ
-وَأَفْضَلُ مِنْ ذٌلِكَ ذِكْرُ اللٌّهِ عِنْدَ مَا حَرَمَ اللٌّهُ
-عَلَيْكَ فَيَكُونَ حَاجِزاً.
-  </p>
-</blockquote>
+> أَلذِّكْرُ ذِكْرَانِ: ذِكْرُ اللٌّهِ عَزَّ وَجَلَّ عِنْدَ الْمُصيِبَةِ
+> وَأَفْضَلُ مِنْ ذٌلِكَ ذِكْرُ اللٌّهِ عِنْدَ مَا حَرَمَ اللٌّهُ
+> عَلَيْكَ فَيَكُونَ حَاجِزاً.
 
 “Dhikr is of two types: the remembrance of Allah, the Noble and Grand,
 at the time of tribulations and even greater than this is the
@@ -258,14 +234,10 @@ protection (from sins)!
 In a tradition from Imam Ja’far b. Muhammad as-Sadiq (as) we read that
 one day the Prophet (S) turned towards his companions and said:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّخَذُوا جِئْنَا! فَقَالُوا: يَا رَسُولَ اللٌّهِ، أَمْنَ عَدُوٌّ
-قَدْ أَظَلَّنَا؟ قَالَ لاَ، وَلٌكِنَّ مِنَ النَّارِ! قُولُوا سُبْحَانَ
-اللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَ لاَ إِلٌهَ إِلاَّ اللٌّهُ وَ اللٌّهُ
-أَكْبَرُ.
-  </p>
-</blockquote>
+> إِتَّخَذُوا جِئْنَا! فَقَالُوا: يَا رَسُولَ اللٌّهِ، أَمْنَ عَدُوٌّ
+> قَدْ أَظَلَّنَا؟ قَالَ لاَ، وَلٌكِنَّ مِنَ النَّارِ! قُولُوا سُبْحَانَ
+> اللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَ لاَ إِلٌهَ إِلاَّ اللٌّهُ وَ اللٌّهُ
+> أَكْبَرُ.
 
 “Take a shield for yourselves.”  The companions said, “O' Messenger of
 Allah! (Should we take up this shield) in the face of our enemies who
@@ -289,42 +261,26 @@ referred to as a “Tark-e-Awla” (leaving a more preferable option) - we
 see that he immediately asked Allah (SwT) forgiveness and pardon and
 said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْلِـــــي
-  </p>
-</blockquote>
+> قَالَ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْلِـــــي
 
 “He (Musa) said: Surely I have wronged myself, so forgive me.”[^8]
 
 In addition, when he was leaving Egypt, he stated:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ نَجَّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> قَالَ رَبِّ نَجَّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
 
 “He (Musa) said: My Lord save me from the oppressive people.”[^9]
 
 When he reached the city of Madyan, he said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَسى رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ
-  </p>
-</blockquote>
+> قَالَ عَسى رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ
 
 “He (Musa) said: Perhaps my Lord may guide me to the straight path…”
 
 When the sheep of (Prophet) Shu’aib (as) were fed, became satiated and
 made their way towards the shade, Musa (as) he stated:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلـيَّ مِنْ خَيْرِ فَقِيرٍ
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلـيَّ مِنْ خَيْرِ فَقِيرٍ
 
 “He (Musa) said: O' my Lord! I am in need of whatever goodness you can
 send to me.”[^10]
@@ -389,12 +345,8 @@ Allah (SwT) as there is no limit to it!
 According to the tradition mentioned in Usul al-Kafi, Imam Ja’far b.
 Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍِ إِلاَّ وَلَهُ حَدٌّ يُنْتَهى إِلَيْهِ، إِلاَّ
-الذِّكْرُ، فَلَيْسَ لَهُ حَدٌّ يُنْتَهى إِلَيْهِ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍِ إِلاَّ وَلَهُ حَدٌّ يُنْتَهى إِلَيْهِ، إِلاَّ
+> الذِّكْرُ، فَلَيْسَ لَهُ حَدٌّ يُنْتَهى إِلَيْهِ.
 
 “There is not a single thing (in the faith of Islam) except that there
 is a limit set for it so then when that limit is met, then that act is
@@ -403,16 +355,12 @@ limit and no end to it.”[^13]
 
 The Imam then said:
 
-<blockquote dir="rtl">
-  <p>
-فَرَضَ اللٌّهُ عَزَّ وَجَلَّ الْفَرَائِضَ، فَمَنْ أَدَّاهُنَّ فَهُوَ
-حَدُّهُنَّ، وَشَهْرُ رَمَضَانِ فَمَنْ صَامَهُ فَهُوَ حَدُّهُ،
-وَالْحَجُّ فَمَنْ حُجَّ حَدُّهُ، إِلاَّ الذِّكْرَ، فَاِنَّ اللٌّهَ
-عَزَّ وَجَلَّ لَمْ يَرْضِ مِنْهُ بِالْقَلِيلِ وَلَمْ يَجْعَلْ لَهُ
-حدّاً يُنْتَهى إِلَيْه، ثُمَّ تَلاَ: يَا أَيُّهَا الَّذِينَ آمَنُوا
-اذْكُرُوا اللٌّهَ ذِكْراً كَثِيراً وَسَبِّحُوهُ بُكْرَةً وَأََصِيلاً
-  </p>
-</blockquote>
+> فَرَضَ اللٌّهُ عَزَّ وَجَلَّ الْفَرَائِضَ، فَمَنْ أَدَّاهُنَّ فَهُوَ
+> حَدُّهُنَّ، وَشَهْرُ رَمَضَانِ فَمَنْ صَامَهُ فَهُوَ حَدُّهُ،
+> وَالْحَجُّ فَمَنْ حُجَّ حَدُّهُ، إِلاَّ الذِّكْرَ، فَاِنَّ اللٌّهَ
+> عَزَّ وَجَلَّ لَمْ يَرْضِ مِنْهُ بِالْقَلِيلِ وَلَمْ يَجْعَلْ لَهُ
+> حدّاً يُنْتَهى إِلَيْه، ثُمَّ تَلاَ: يَا أَيُّهَا الَّذِينَ آمَنُوا
+> اذْكُرُوا اللٌّهَ ذِكْراً كَثِيراً وَسَبِّحُوهُ بُكْرَةً وَأََصِيلاً
 
 “Allah, the Glorious and Noble, has obligated the Salat, so then whoever
 fulfills this act has fulfilled it to its prescribed amount; the month
@@ -437,14 +385,10 @@ he would not be negligent of the Dhikr of Allah (SwT)…
 The 6th Imam ends this tradition by stating the following very
 meaningful sentence:
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَيْتُ الَّذِي يَقْرَأُ فِيهِ الْقُرْآنَ، وَيَذْكُرُ اللٌّهَ
-عَزَّ وَجَلَّ فِيهِ تَكْثُرُ بَرَكَتُه، وَ تَحْضُرُهُ الْمَلاَئِكَةُ،
-وَتَهَرْ مِنْهُ الشَّيَاطِينَ، وَيَضِيءُ لِأَََهْلِ السَّمَآءِ كَمَا
-يُضِيءُ الْكَوْكَبُ الدُّرىُّ لِأََِهْلِ الأََرْضِ.
-  </p>
-</blockquote>
+> وَالْبَيْتُ الَّذِي يَقْرَأُ فِيهِ الْقُرْآنَ، وَيَذْكُرُ اللٌّهَ
+> عَزَّ وَجَلَّ فِيهِ تَكْثُرُ بَرَكَتُه، وَ تَحْضُرُهُ الْمَلاَئِكَةُ،
+> وَتَهَرْ مِنْهُ الشَّيَاطِينَ، وَيَضِيءُ لِأَََهْلِ السَّمَآءِ كَمَا
+> يُضِيءُ الْكَوْكَبُ الدُّرىُّ لِأََِهْلِ الأََرْضِ.
 
 “The house in which the Qur’an is read and in which Allah, the Glorious
 and Noble, is remembered will have its blessings multiplied, the Angels
@@ -456,12 +400,8 @@ This issue is of such importance that in the tradition, the remembrance
 of Allah (SwT) has been equated with the collection of all goodness of
 this life and the next life just as the Prophet of Allah (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَعْطَى لِساناً ذَاكراً فَقَدْ أَُعْطِيَ خَيْرَ الدُّنْـيَا وَ
-الأَخِرَةِ.
-  </p>
-</blockquote>
+> مَنْ أَعْطَى لِساناً ذَاكراً فَقَدْ أَُعْطِيَ خَيْرَ الدُّنْـيَا وَ
+> الأَخِرَةِ.
 
 “The person who has been given (by Allah) a remembering tongue (to extol
 His greatness) has been given goodness of both this life and the
@@ -474,12 +414,8 @@ this discussion, it would call for an independent book to be written!
 Thus, we close this part of the discussion with a short tradition from
 Imam Ja’far b. Muhammad as-Sadiq (as) as narrated in Usul al-Kafi:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَكْثَرَ ذِكْرَ اللٌّهِ عَزَّ وَجَلَّ أَحَبَهُ اللٌّهُ فِي
-جَنَّتِهِ.
-  </p>
-</blockquote>
+> مَنْ أَكْثَرَ ذِكْرَ اللٌّهِ عَزَّ وَجَلَّ أَحَبَهُ اللٌّهُ فِي
+> جَنَّتِهِ.
 
 “The person who remembers Allah, the Glorious and Noble much, Allah will
 cover Him with the grace of His shadow in His Paradise.”[^17]
@@ -503,11 +439,7 @@ In regards to the stages which one must traverse in the Dhikr of Allah
 1. The first stage is the Dhikr of His name, just as has been mentioned
 in the Qur\`an in the verse of Suratul Muzammil:
 
-<blockquote dir="rtl">
-  <p>
-وَ اذْكُرْ إِِسْمَ رَبِّكَ وَ تَبَتَّلْ إِلَيْهِ تَبْتِيلاً
-  </p>
-</blockquote>
+> وَ اذْكُرْ إِِسْمَ رَبِّكَ وَ تَبَتَّلْ إِلَيْهِ تَبْتِيلاً
 
 “And remember the name of your Lord and devote yourself completely to
 Him.”[^20]
@@ -515,11 +447,7 @@ Him.”[^20]
 2. The second stage is that of remembering the Sacred Essence of Allah
 (SwT) in the heart, just as we are told:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً
-  </p>
-</blockquote>
+> وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً
 
 “And remember your Lord within yourself humbly and fearing…”[^21]
 
@@ -530,11 +458,7 @@ person arrives at the state of the Dhikr of all of the characteristics
 of Beauty and Munificence of Allah (SwT) which are all present in His
 essence, just as we are told:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللٌّهَ ذِكْراً كَثِيراً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللٌّهَ ذِكْراً كَثِيراً
 
 “O' you who have true faith, remember Allah, a great deal of
 remembering…”[^22]
@@ -572,29 +496,17 @@ incantations and make such an innovation (Bid’ah) in gatherings famous
 and well-known (amongst the people). If we read in the traditions that
 the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-بَادِرُوا إِلـى رِيَاضِ الْجَنَّةِ.
-  </p>
-</blockquote>
+> بَادِرُوا إِلـى رِيَاضِ الْجَنَّةِ.
 
 “Make your way towards the gardens of Paradise.”  
  When he was asked:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا رِيَاضُ الْجَنَّةِ؟
-  </p>
-</blockquote>
+> وَ مَا رِيَاضُ الْجَنَّةِ؟
 
 “And what are the gardens of Paradise?”  
  The Prophet (S) replied:
 
-<blockquote dir="rtl">
-  <p>
-حَلْقُ الذِّكْرِ.
-  </p>
-</blockquote>
+> حَلْقُ الذِّكْرِ.
 
 “Gatherings of the remembrance (of Allah).”[^24]
 
@@ -620,20 +532,16 @@ Commander of the Faithful, ‘Ali b. Abi Talib (as) in which he asked the
 Prophet (S) in regards to the meaning of “keys” mentioned in this verse
 to which the Prophet (S) replied:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ! لَقَدْ سَئَلْتَ عَنْ عَظِيمِ الْمَقَالِيدِ، هُوَ أَنْ
-تَقُولَ عَشْراً إِذَا أَصْـبَحْتَ، وَعَشراً إِذَا أَمْسَيْتَ، لاَ
-إِلٌهَ إِلاَّ اللٌّهُ وَاللٌّهُ أَكْبَرُ، وَسُبْحَانَ اللٌّهِ
-وَالْحَمْدُ لِلٌّهِ، وَأَسْتَغْفِرُ اللٌّهَ وَلاَ قُوَّةَ إِلاَّ
-بِاللٌّهِ (هُوَ) الأَوَّلُ وَالآخِرَ وَالظَّاهِرُ وَالْبَاطِنُ لَهُ
-اَلْمُلْكُ وَلَهُ الْحَمْدُ (يُحْيِي وَيُمِيتُ) بِيَدِهِ الْخَيْرُ
-وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. مَنَ كَرَّرَ هٌذِهِ الْكَلِمَاتِ
-كُلِّ صَبَاحٍ وَ مَسَاءٍ عَشْرَ مَرَّاتٍ أَعْطَاهُ اللٌّهُ سِـتًّا،
-أَحَدَهَا أَنْ يَحْفُظَهُ اللٌّهُ مِنْ شَرِّ الشَّيْطَانِ و
-أَتْبَاعِهِ حَتَّى لاَيُسَلِّطُ عَلَيْهِ.
-  </p>
-</blockquote>
+> يَا عَلِيُّ! لَقَدْ سَئَلْتَ عَنْ عَظِيمِ الْمَقَالِيدِ، هُوَ أَنْ
+> تَقُولَ عَشْراً إِذَا أَصْـبَحْتَ، وَعَشراً إِذَا أَمْسَيْتَ، لاَ
+> إِلٌهَ إِلاَّ اللٌّهُ وَاللٌّهُ أَكْبَرُ، وَسُبْحَانَ اللٌّهِ
+> وَالْحَمْدُ لِلٌّهِ، وَأَسْتَغْفِرُ اللٌّهَ وَلاَ قُوَّةَ إِلاَّ
+> بِاللٌّهِ (هُوَ) الأَوَّلُ وَالآخِرَ وَالظَّاهِرُ وَالْبَاطِنُ لَهُ
+> اَلْمُلْكُ وَلَهُ الْحَمْدُ (يُحْيِي وَيُمِيتُ) بِيَدِهِ الْخَيْرُ
+> وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. مَنَ كَرَّرَ هٌذِهِ الْكَلِمَاتِ
+> كُلِّ صَبَاحٍ وَ مَسَاءٍ عَشْرَ مَرَّاتٍ أَعْطَاهُ اللٌّهُ سِـتًّا،
+> أَحَدَهَا أَنْ يَحْفُظَهُ اللٌّهُ مِنْ شَرِّ الشَّيْطَانِ و
+> أَتْبَاعِهِ حَتَّى لاَيُسَلِّطُ عَلَيْهِ.
 
 “O' ‘Ali! Surely you have asked about the greatest of keys! This great
 key which you have asked about is that even morning and evening you say
@@ -698,12 +606,8 @@ Yunus (as) was stated which has been narrated in the Qur\`an in Suratul
 Anbiya, Verse 87. Amongst the people of ‘Irfan, it is well known as the
 'Dhikr-e-Yunusiyyah':
 
-<blockquote dir="rtl">
-  <p>
-فَنَادَى فِي الظُّلُمَاتِ أَنْ لاَ إِلٌهَ إِلاَّ أَنْتَ سُبْحَانَكَ
-إِنِّي كُنْتُ مِنَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَنَادَى فِي الظُّلُمَاتِ أَنْ لاَ إِلٌهَ إِلاَّ أَنْتَ سُبْحَانَكَ
+> إِنِّي كُنْتُ مِنَ الظَّالِمِينَ
 
 “So then he cried out in the darkness that 'There is no creature worthy
 of worship except for You, glory be to You, surely I was of the
@@ -712,12 +616,8 @@ oppressors and unjust to my own self.'”
 grief and remorse was accepted and just as we read in verse 88 of
 Suratul Anbiya that:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ وَكَذٌلِكَ نُـنْجِي
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ وَكَذٌلِكَ نُـنْجِي
+> الْمُؤْمِنِينَ
 
 “So then We answered him (Yunus) and We saved him from the grief and
 thus do We always rescue the true believers.”[^30]
@@ -749,14 +649,10 @@ The Status of the Dhikr in the Words of Imam Ja’far b. Muhammad as-Sadiq
 Imam Ja’far b. Muhammad as-Sadiq (as) has stated the following in
 regards to Dhikr:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ ذَاكِراً لِلٌّهِ تَعَالـى عَلى الْحَقِيقَةِ فَهُوَ مُطِيعٌ
-وَ مَنْ كَانَ غَافِلاً عَنْهُ فَهُوَ عَاصٍ، وَ الطَّاعَةُ عَلاَمَةُ
-الْهِدَايَةِ، وَ الْمَعْصِيَةُ عَلاَمَةُ الضَّلاَلِةِ، وَ أَصْلُهُمَا
-مِنْ الذِكْرِ وَ الْغَفْلَةِ.
-  </p>
-</blockquote>
+> مَنْ كَانَ ذَاكِراً لِلٌّهِ تَعَالـى عَلى الْحَقِيقَةِ فَهُوَ مُطِيعٌ
+> وَ مَنْ كَانَ غَافِلاً عَنْهُ فَهُوَ عَاصٍ، وَ الطَّاعَةُ عَلاَمَةُ
+> الْهِدَايَةِ، وَ الْمَعْصِيَةُ عَلاَمَةُ الضَّلاَلِةِ، وَ أَصْلُهُمَا
+> مِنْ الذِكْرِ وَ الْغَفْلَةِ.
 
 “The person who remembers Allah, the Most High in the true sense (of the
 word), is (truly) His obedient servant and the one who is negligent of
@@ -764,16 +660,12 @@ Him is a sinner. Obedience (to Allah) is a sign of guidance and
 disobedience (to Allah) is a sign of misguidance and the source of these
 two (states) is the remembrance and negligence (of Allah).”
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلْ قَلْبَكَ قِبْلَةَ لِسَانِكَ، لاَ تُحَرِّكَهُ إِلاَّ
-بِإِشَارَةِ الْقَلْبِ وَ مَوَافِقَةِ الْعَقْلِِ وَ رضى الإِيْمَانَ
-فَإِنَّ اللٌّهَ عَالِمٌ بِسِرِّكَ وَ جَهْرِكَ وَكُنْ كَالنَّازِعِ
-رُوحَهُ أَوْ كَالْوَاقِفِ فِي الْعَرْضِ الأَكْبَرِ، غَيرَ شَاغِلٍ
-نَفْسَكَ عَمَّا عَنَّاكَ مِمَّا كَلَّفَكَ بِهِ رَبُّكَ فِي أَمْرِهِ وَ
-نَهْيِهِ وَ وَعْدِهِ وَ وَعِيدِهِ.
-  </p>
-</blockquote>
+> فَاجْعَلْ قَلْبَكَ قِبْلَةَ لِسَانِكَ، لاَ تُحَرِّكَهُ إِلاَّ
+> بِإِشَارَةِ الْقَلْبِ وَ مَوَافِقَةِ الْعَقْلِِ وَ رضى الإِيْمَانَ
+> فَإِنَّ اللٌّهَ عَالِمٌ بِسِرِّكَ وَ جَهْرِكَ وَكُنْ كَالنَّازِعِ
+> رُوحَهُ أَوْ كَالْوَاقِفِ فِي الْعَرْضِ الأَكْبَرِ، غَيرَ شَاغِلٍ
+> نَفْسَكَ عَمَّا عَنَّاكَ مِمَّا كَلَّفَكَ بِهِ رَبُّكَ فِي أَمْرِهِ وَ
+> نَهْيِهِ وَ وَعْدِهِ وَ وَعِيدِهِ.
 
 “So then make your heart the focus of your tongue - do not move it
 except at the suggestion of your heart and (do not move it except) with
@@ -788,28 +680,20 @@ Waver between what Allah the High has obligated you to perform from the
 commands and the prohibitions and the promises (of reward) and the
 warnings (of retribution).”
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَشْغَلَهَا بِدُونِ مَا كَلَّفَكَ، وَ اغْسُلْ قَلْبَكَ بِمَآءِ
-الْحُزْنِ، وَ اجْعَلْ ذِكْرَ اللٌّهِ مِنْ أَجَّلِ ذِكْرِهِ لَكَ
-ذَكْرَكَ وَ هُوَ غَنِيُّ عَنْكَ.
-  </p>
-</blockquote>
+> وَ لاَ تَشْغَلَهَا بِدُونِ مَا كَلَّفَكَ، وَ اغْسُلْ قَلْبَكَ بِمَآءِ
+> الْحُزْنِ، وَ اجْعَلْ ذِكْرَ اللٌّهِ مِنْ أَجَّلِ ذِكْرِهِ لَكَ
+> ذَكْرَكَ وَ هُوَ غَنِيُّ عَنْكَ.
 
 “And do not busy yourselves with things other than what He has ordered
 you to perform and wash your heart with the (spiritual) water of grief
 and make the remembrance of Allah just like His remembrance of you while
 He has no need for you.”
 
-<blockquote dir="rtl">
-  <p>
-فَذِكْرُهُ لَكَ أَجَلُّ وَ أَشْهى وَ أَتَمَّ مِنْ ذِكْرِكََ لَهُ وَ
-أَسْبَقُ، وَ مَعْرِفَتِكَ بِذِكْرِه لَكَ يُورِثُكَ الْخُضُوعَ و
-الإِسْتِحْيَاءُ وَ الإِنْكِسَارُ، وَ يَتَوَلَّدُ مِنْ ذٌلِكَ رُؤْيَةُ
-كَرَمِهِ وَ فَضْلِهِ السَّابِقِ، وَ تَصْغَرُ عِنْدَ ذٌلِكَ طَاعَاتِكَ،
-وَ إِنْ كَثُرَتْ فِي جَنْبِ مِنَنِهِ، فَتُخَلِّصُ لِوَجْهِهِ.
-  </p>
-</blockquote>
+> فَذِكْرُهُ لَكَ أَجَلُّ وَ أَشْهى وَ أَتَمَّ مِنْ ذِكْرِكََ لَهُ وَ
+> أَسْبَقُ، وَ مَعْرِفَتِكَ بِذِكْرِه لَكَ يُورِثُكَ الْخُضُوعَ و
+> الإِسْتِحْيَاءُ وَ الإِنْكِسَارُ، وَ يَتَوَلَّدُ مِنْ ذٌلِكَ رُؤْيَةُ
+> كَرَمِهِ وَ فَضْلِهِ السَّابِقِ، وَ تَصْغَرُ عِنْدَ ذٌلِكَ طَاعَاتِكَ،
+> وَ إِنْ كَثُرَتْ فِي جَنْبِ مِنَنِهِ، فَتُخَلِّصُ لِوَجْهِهِ.
 
 “Thus, His Dhikr of you is much more important, greater, more perfect,
 clearer and more needed for you than You remembering Him, and it also
@@ -823,15 +707,11 @@ greatness of Him over you even if your obedience to Him (up until this
 point) was great and even if your actions for Him (up until this point)
 were done with sincerity.”
 
-<blockquote dir="rtl">
-  <p>
-وَ رُؤيَتُكَ ذِكْرُكَ لَهُ تُورِثُكَ: الرِيَاءَ وَ الْعُجْبَ و
-السَّفَهَ و الْغَلْظَةَ فِي خَلْقِهِ، وَ إِسْتِكْثَارُ الطَّاعَةِ، وَ
-نِسْيَانُ فَضْلِهِ وَ كَرَمِهِ، وَ مَا يَزْدَادُ بِذٌلِكَ مِنَ اللٌّهِ
-إِلاَّ بُعْداً وَ لاَ تَسْتَجْلِبُ بِهِ عَلى مَضَيّ الأَيَّامِ إِلاَّ
-وَ حَضَّةُ.
-  </p>
-</blockquote>
+> وَ رُؤيَتُكَ ذِكْرُكَ لَهُ تُورِثُكَ: الرِيَاءَ وَ الْعُجْبَ و
+> السَّفَهَ و الْغَلْظَةَ فِي خَلْقِهِ، وَ إِسْتِكْثَارُ الطَّاعَةِ، وَ
+> نِسْيَانُ فَضْلِهِ وَ كَرَمِهِ، وَ مَا يَزْدَادُ بِذٌلِكَ مِنَ اللٌّهِ
+> إِلاَّ بُعْداً وَ لاَ تَسْتَجْلِبُ بِهِ عَلى مَضَيّ الأَيَّامِ إِلاَّ
+> وَ حَضَّةُ.
 
 “However as for your turning your attention to your Dhikr of Him
 (Allah), this will lead you to developing the traits of: pride, conceit,
@@ -842,14 +722,10 @@ munificence upon you and this would not increase anything within you
 except for (spiritual) distancing from Allah and you would not gain
 anything with the passing of time from this except the fear and terror.”
 
-<blockquote dir="rtl">
-  <p>
-وَ الذِّكْرُ ذِكْرَانِ: ذِكْرٌ خَالِصٌ يُوَافِقُهُ الْقَلْبُ، وَ
-ذِكْرٌ صَارِفٌ لَكَ يَنْفَى ذِكْرَ غَيْرِهِ، كَمَا قَالَ رَسُولُ
-اللٌّهِ: إِنِّي لاَ أُحْصِي ثَنَاءِ عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ
-عَلى نَفْسِكَ.
-  </p>
-</blockquote>
+> وَ الذِّكْرُ ذِكْرَانِ: ذِكْرٌ خَالِصٌ يُوَافِقُهُ الْقَلْبُ، وَ
+> ذِكْرٌ صَارِفٌ لَكَ يَنْفَى ذِكْرَ غَيْرِهِ، كَمَا قَالَ رَسُولُ
+> اللٌّهِ: إِنِّي لاَ أُحْصِي ثَنَاءِ عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ
+> عَلى نَفْسِكَ.
 
 “The Dhikr is of two types: the sincere Dhikr of Allah the Most High
 which takes place through the approval of the heart and the Dhikr which
@@ -858,16 +734,12 @@ than Him, just as the Noble Messenger (S) has said that, 'I am not able
 to speak Your praise (in the way which You deserve), rather, You are
 praised just as You Yourself have praised Yourself.'”
 
-<blockquote dir="rtl">
-  <p>
-فَرَسُولُ اللٌّهِ لَمْ يَجْعَلْ لِذِكْرِهِ لِلٌّهِ عَزَّ وَجَلَّ
-مِقْدَاراً، عِنْدَ عِلْمِهِ بِحَقِيقَةِ سَابِقَةِ ذِكْرِ اللٌّهِ عَزَّ
-وَجَلَّ لَهُ مِنْ قَبْلِ ذِكْرِهِ لَهُ، فَمِنْ دُونِهِ أَوْلـى، فَمَنْ
-أَرَادَ أَنْ يَذْكُرَ اللٌّهَ تَعَالـى فَلْيَعْلَمْ أَنَّهُ عَالِمٌ
-يَذْكُرُ اللٌّهُ الْعَبْدَ بِالتَّوْفِيقِ لِذِكْرِهِ، لاَيَقْدِرُ
-الْعَبْدُ عَلى ذِكْرِهِ.
-  </p>
-</blockquote>
+> فَرَسُولُ اللٌّهِ لَمْ يَجْعَلْ لِذِكْرِهِ لِلٌّهِ عَزَّ وَجَلَّ
+> مِقْدَاراً، عِنْدَ عِلْمِهِ بِحَقِيقَةِ سَابِقَةِ ذِكْرِ اللٌّهِ عَزَّ
+> وَجَلَّ لَهُ مِنْ قَبْلِ ذِكْرِهِ لَهُ، فَمِنْ دُونِهِ أَوْلـى، فَمَنْ
+> أَرَادَ أَنْ يَذْكُرَ اللٌّهَ تَعَالـى فَلْيَعْلَمْ أَنَّهُ عَالِمٌ
+> يَذْكُرُ اللٌّهُ الْعَبْدَ بِالتَّوْفِيقِ لِذِكْرِهِ، لاَيَقْدِرُ
+> الْعَبْدُ عَلى ذِكْرِهِ.
 
 “So then the Messenger of Allah (S) did not think that his sincere Dhikr
 of Allah was of any worth due to his knowledge of the past reality of
@@ -895,19 +767,11 @@ second stage of the Dhikr of Allah (SwT), the person would protect his
 tongue and without the permission of his heart, intellect and faith,
 would not speak anything.
 
-<blockquote dir="rtl">
-  <p>
-ذكر حق پاكست و چون پاكى رسيد                      رخت بر بندد برون آيد
-پليد
-  </p>
-</blockquote>
+> ذكر حق پاكست و چون پاكى رسيد                      رخت بر بندد برون آيد
+> پليد
 
-<blockquote dir="rtl">
-  <p>
-مى گريزد ضدّها از ضدّها                            شب گريزد چون بر
-افروزد ضياء
-  </p>
-</blockquote>
+> مى گريزد ضدّها از ضدّها                            شب گريزد چون بر
+> افروزد ضياء
 
 The Reality of Dhikr
 --------------------
@@ -940,19 +804,11 @@ compassion, blessing and forgiveness of Allah (SwT) since in the face of
 these never-ending traits, we see that whatever we bring forth and
 perform is still imperfect and with little to no value to it.
 
-<blockquote dir="rtl">
-  <p>
-و اندرين صورت شمارى بس حقير                   طاعت خود گر چه بنمايد
-كثير
-  </p>
-</blockquote>
+> و اندرين صورت شمارى بس حقير                   طاعت خود گر چه بنمايد
+> كثير
 
-<blockquote dir="rtl">
-  <p>
-كى بود لايق زما كار حسن                                در بر الطاف
-وفضل ذو المنن
-  </p>
-</blockquote>
+> كى بود لايق زما كار حسن                                در بر الطاف
+> وفضل ذو المنن
 
 Yes, it is through a person being mindful of these two ways that his
 humility, love, modesty, servitude, cognizance, shame, and humbleness
@@ -1053,5 +909,4 @@ attestation.[^34]
 
 [^34]: Misbahul Shariah wa Miftahul haqiqah, (The Lantern on the Path),
 pp. 20 to 25
-
 

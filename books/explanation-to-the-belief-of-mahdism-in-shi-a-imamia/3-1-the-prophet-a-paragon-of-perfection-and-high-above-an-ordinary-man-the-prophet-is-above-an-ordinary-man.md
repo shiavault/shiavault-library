@@ -34,4 +34,3 @@ a prophet and before his death. Appointment to the office of prophet
 hood is subject to better decency and wider ability. All it shows was
 that the Prophet was not a common man.
 
-

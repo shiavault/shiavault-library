@@ -3,17 +3,9 @@ Sermon 103: O people, look at the world ...
 
 *About abstemiousness and fear of Allah*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في التزهيد في الدنيا
-  </p>
-</blockquote>
+> في التزهيد في الدنيا
 
 O people! Look at the world like those who abstain from it, and turn
 away from it. By Allah, it would shortly turn out its inhabitants and
@@ -24,18 +16,14 @@ firmness inclines towards weakness and languidness. The majority of what
 pleases you here should not mislead you because that which would help
 you would be little.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، انْظُرُوا إِلى الدُّنْيَا نَظَرَ الزَّاهِدِينَ
-فِيهَا، الصَّادِفِينَ عَنْهَا؛ فَإِنَّهَا وَاللهِ عَمَّا قَلِيلٍ
-تُزِيلُ الثَّاوِيَ السَّاكِنَ، وَتَفْجَعُ الْمُتْرَفَ الاْمِنَ، لاَ
-يَرْجِعُ مَا تَوَلَّى مَنْهَا فَأَدْبَرَ، وَلاَ يُدْرَى مَا هُوَ آتٍ
-مِنْهَا فَيُنْتَظَرَ. سُرُورُهَا مَشُوبٌ بِالْحُزْنِ،
-وَجَلَدُالرِّجَالِ فَيهَا إِلَى الضَّعْفِ وَالْوَهْنِ فَلا
-يَغُرَّنَّكُمْ كَثْرَةُ مَا يُعْجِبُكُمْ فِيهَا لِقِلَّةِ مَا
-يَصْحَبُكُمْ مِنْهَا
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، انْظُرُوا إِلى الدُّنْيَا نَظَرَ الزَّاهِدِينَ
+> فِيهَا، الصَّادِفِينَ عَنْهَا؛ فَإِنَّهَا وَاللهِ عَمَّا قَلِيلٍ
+> تُزِيلُ الثَّاوِيَ السَّاكِنَ، وَتَفْجَعُ الْمُتْرَفَ الاْمِنَ، لاَ
+> يَرْجِعُ مَا تَوَلَّى مَنْهَا فَأَدْبَرَ، وَلاَ يُدْرَى مَا هُوَ آتٍ
+> مِنْهَا فَيُنْتَظَرَ. سُرُورُهَا مَشُوبٌ بِالْحُزْنِ،
+> وَجَلَدُالرِّجَالِ فَيهَا إِلَى الضَّعْفِ وَالْوَهْنِ فَلا
+> يَغُرَّنَّكُمْ كَثْرَةُ مَا يُعْجِبُكُمْ فِيهَا لِقِلَّةِ مَا
+> يَصْحَبُكُمْ مِنْهَا
 
 Allah may shower His mercy on him who ponders and takes lesson thereby,
 and when he takes lesson he achieves enlightenment. Whatever is present
@@ -44,24 +32,16 @@ next world is already in existence. Every countable thing would pass
 away. Every anticipation should be taken to be coming up and every thing
 that is to come up should be taken as just near.
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ امْرَأً تَفَكَّرَ فَاعْتَبَرَ، واعْتَبَرَ فَأَبْصَرَ،
-فَكَأَنَّ مَا هُوَ كَائِنٌ مِنَ الدٌّنْيَا عَنْ قَلِيل لَمْ يَكُنْ،
-وَكَأَنَّ مَا هُوَ كَائِنٌ مِنَ الاْخِرَةِ عَمَّا قَلَيل لَمْ يَزَلْ،
-وَكُلُّ مَعْدُود مُنْقَض، وَكُلُّ مُتَوَقَّع آت، وَكُلُّ آت قَرِيبٌ
-دَان.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ امْرَأً تَفَكَّرَ فَاعْتَبَرَ، واعْتَبَرَ فَأَبْصَرَ،
+> فَكَأَنَّ مَا هُوَ كَائِنٌ مِنَ الدٌّنْيَا عَنْ قَلِيل لَمْ يَكُنْ،
+> وَكَأَنَّ مَا هُوَ كَائِنٌ مِنَ الاْخِرَةِ عَمَّا قَلَيل لَمْ يَزَلْ،
+> وَكُلُّ مَعْدُود مُنْقَض، وَكُلُّ مُتَوَقَّع آت، وَكُلُّ آت قَرِيبٌ
+> دَان.
 
 A part of the same sermon on the attributes of a learned person
 ---------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-منها: في صفة العالم
-  </p>
-</blockquote>
+> منها: في صفة العالم
 
 Learned is he who knows his worth. It is enough for a man to remain
 ignorant if he knows not his worth. Certainly, the most hated man with
@@ -72,26 +52,18 @@ plantation of the next world he is slow. As though what he is active for
 is obligatory upon him whereas in whatever he is slow was not required
 of him.
 
-<blockquote dir="rtl">
-  <p>
-الْعَالِمُ مَنْ عَرَفَ قَدْرَهُ، وَكَفَى بِالْمَرءِ جَهْلاً أَلاَّ
-يَعْرِفَ قَدْرَهُ; وَإِنَّ مِنْ أَبْغَضَ الرِّجَالِ إِلَى اللهِ
-لَعَبْدٌ وَكَّلَهُ اللهُ إِلَى نَفْسِهِ، جَائِرٌ عَنْ قَصْدِ
-السَّبِيلِ، سَائِرٌ بَغَيْرِ دَلِيل، إِنْ دُعِيَ إِلَى حَرْثِ
-الدُّنْيَا عَمِلَ، أوْ إِلَى حَرْثِ الاْخِرَةِ كَسِلَ! كَأَنَّ مَا
-عَمِلَ لَهُ وَاجِبٌ عَلَيْهِ، وَكَأَنَّ مَا وَنَى فِيهِ سَاِقطٌ
-عَنْهُ!
-  </p>
-</blockquote>
+> الْعَالِمُ مَنْ عَرَفَ قَدْرَهُ، وَكَفَى بِالْمَرءِ جَهْلاً أَلاَّ
+> يَعْرِفَ قَدْرَهُ; وَإِنَّ مِنْ أَبْغَضَ الرِّجَالِ إِلَى اللهِ
+> لَعَبْدٌ وَكَّلَهُ اللهُ إِلَى نَفْسِهِ، جَائِرٌ عَنْ قَصْدِ
+> السَّبِيلِ، سَائِرٌ بَغَيْرِ دَلِيل، إِنْ دُعِيَ إِلَى حَرْثِ
+> الدُّنْيَا عَمِلَ، أوْ إِلَى حَرْثِ الاْخِرَةِ كَسِلَ! كَأَنَّ مَا
+> عَمِلَ لَهُ وَاجِبٌ عَلَيْهِ، وَكَأَنَّ مَا وَنَى فِيهِ سَاِقطٌ
+> عَنْهُ!
 
 A part of the same sermon concerning future times
 -------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-منها: في آخر الزمان
-  </p>
-</blockquote>
+> منها: في آخر الزمان
 
 There would be a time wherein only a sleeping (inactive) believer would
 be safe (such that) if he is present he is not recognised but if he is
@@ -100,15 +72,11 @@ banners of night journeys. They do not spread calumnies nor divulge
 secrets, nor slander. They are those for whom Allah opens the doors of
 His mercy and keeps off from them the hardships of His chastisement.
 
-<blockquote dir="rtl">
-  <p>
-وَذلِكَ زَمَانٌ لاَ يَنْجُو فِيهِ إِلاَّ كُلُّ مٌؤْمِنٍ نُوَمَةٍ إِنْ
-شَهِدَ لَمْ يُعْرَفْ، وَإِنْ غَابَ لَمْ يُفْتَقَدْ، أُولَئِكَ
-مَصَابِيحُ الْهُدَى، وَأَعْلاَمُ السُّرَى لَيْسُوا بِالْمَسَايِيحِ
-وَلاَ الْمَذَايِيعِ الْبُذُرِ أُولَئِكَ يَفْتَحُ اللهُ لَهُمْ
-أَبْوَابَ رَحْمَتِهِ، وَيَكْشِفُ عَنْهُمْ ضَرَّاءَ نِقْمَتِهِ
-  </p>
-</blockquote>
+> وَذلِكَ زَمَانٌ لاَ يَنْجُو فِيهِ إِلاَّ كُلُّ مٌؤْمِنٍ نُوَمَةٍ إِنْ
+> شَهِدَ لَمْ يُعْرَفْ، وَإِنْ غَابَ لَمْ يُفْتَقَدْ، أُولَئِكَ
+> مَصَابِيحُ الْهُدَى، وَأَعْلاَمُ السُّرَى لَيْسُوا بِالْمَسَايِيحِ
+> وَلاَ الْمَذَايِيعِ الْبُذُرِ أُولَئِكَ يَفْتَحُ اللهُ لَهُمْ
+> أَبْوَابَ رَحْمَتِهِ، وَيَكْشِفُ عَنْهُمْ ضَرَّاءَ نِقْمَتِهِ
 
 O people! A time will come to you when Islam would be capsized as a pot
 is capsized with all its contents. O people, Allah has protected you
@@ -118,15 +86,11 @@ put on trial. Allah the Sublimest of all speakers has said:
 ***Verily in this are signs and We do only try (the people).***
 **(Qur'an, 23:30)**
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، سَيَأْتي عَلَيْكُمْ زَمَانٌ يُكْفَأُ فِيهِ
-الاْسْلاَمُ، كَمَا يُكْفَأُ الاْنَاءُ بِمَا فِيهِ. أَيُّهَا النَّاسُ،
-إِنَّ اللهَ قَدْ أَعَاذَكُمْ مِنْ أَنْ يَجُورَ عَلَيْكُمْ، وَلَمْ
-يُعِذْكُمْ مِنْ أَنْ يَبْتَلِيكُمْ، وَقَدْ قَالِ جَلَّ مِنْ قَائِل:
-(إِنَّ فِي ذلِكَ لاَيَات وَإِنْ كُنَّا لَمُبْتَلِينَ).
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، سَيَأْتي عَلَيْكُمْ زَمَانٌ يُكْفَأُ فِيهِ
+> الاْسْلاَمُ، كَمَا يُكْفَأُ الاْنَاءُ بِمَا فِيهِ. أَيُّهَا النَّاسُ،
+> إِنَّ اللهَ قَدْ أَعَاذَكُمْ مِنْ أَنْ يَجُورَ عَلَيْكُمْ، وَلَمْ
+> يُعِذْكُمْ مِنْ أَنْ يَبْتَلِيكُمْ، وَقَدْ قَالِ جَلَّ مِنْ قَائِل:
+> (إِنَّ فِي ذلِكَ لاَيَات وَإِنْ كُنَّا لَمُبْتَلِينَ).
 
 **as-Sayyid ar-Radi says:** As regards Amir al-mu'minin's words *"kullu
 mu'minin nuwamah"* (every sleeping believer), he implies thereby one who
@@ -137,15 +101,11 @@ of *"midhya".* He is one who on hearing of an evil about some one
 spreads it and shouts about it. And *"al-budhur"* is the plural of
 *"badhur".* He is one who excels in foolishness and speaks rubbish.
 
-<blockquote dir="rtl">
-  <p>
-قال السيد الشريف: أما قوله (عليه السلام): «كلّ مؤمِن نُوَمَة» فإنما
-أَراد به: الخامل الذكر القليل الشر. والمساييح: جمع مِسياح، وهو: الذي
-يسيح بين الناس بالفساد والنمائم. والمذاييع: جمع مِذْياع، وهو: الذي إذا
-سمع لغيره بفاحشة أذاعها، ونوّه بها. والبُذُرُ: جمع بَذُور وهو: الذي
-يكثر سفهه ويلغو منطقه.
-  </p>
-</blockquote>
+> قال السيد الشريف: أما قوله (عليه السلام): «كلّ مؤمِن نُوَمَة» فإنما
+> أَراد به: الخامل الذكر القليل الشر. والمساييح: جمع مِسياح، وهو: الذي
+> يسيح بين الناس بالفساد والنمائم. والمذاييع: جمع مِذْياع، وهو: الذي إذا
+> سمع لغيره بفاحشة أذاعها، ونوّه بها. والبُذُرُ: جمع بَذُور وهو: الذي
+> يكثر سفهه ويلغو منطقه.
 
 Alternative Sources for Sermon 103
 ----------------------------------
@@ -169,5 +129,4 @@ Alternative Sources for Sermon 103
 (9) Ibn Tawus, *al-Malahim,* 27;
 
 (10) Ibn al-'Athir, *al-Nihayah,* V, 131.
-
 

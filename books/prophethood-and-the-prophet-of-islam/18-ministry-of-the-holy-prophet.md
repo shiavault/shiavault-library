@@ -122,13 +122,9 @@ Jibraeel (the trustworthy spirit) come down to him in a halo of light.
 Jibraeel held the arm of the Prophet and pressed it saying: O Muhammad,
 read. He asked: What should I read? Jibraeel said: O Muhammad,
 
-<blockquote dir="rtl">
-  <p>
-إقْرَأْ بِاسْمِ رَبِّكَ الَّذِى خَلَقَ / خَلَقَ الْإِنسَانَ مِن عَلَقٍ
-/ اقْرَأْ وَ رَبُّكَ الْأَكْرَمُ / الَّذِى عَلَّمَ بِالْقَلَمِ /
-عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ‏
-  </p>
-</blockquote>
+> إقْرَأْ بِاسْمِ رَبِّكَ الَّذِى خَلَقَ / خَلَقَ الْإِنسَانَ مِن عَلَقٍ
+> / اقْرَأْ وَ رَبُّكَ الْأَكْرَمُ / الَّذِى عَلَّمَ بِالْقَلَمِ /
+> عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ‏
 
 ***“Read in the name of your Lord Who created. He created man from a
 clot. Read and your Lord is Most Honorable, Who taught (to write) with
@@ -180,22 +176,14 @@ Ali ibn Sirri has narrated from Imam Ja’far Sadiq (a.s.) that he said:
 
 The first chapter to be revealed on the Messenger of Allah (S) was this:
 
-<blockquote dir="rtl">
-  <p>
-إقْرَأْ بِاسْمِ رَبِّكَ الَّذِى خَلَقَ
-  </p>
-</blockquote>
+> إقْرَأْ بِاسْمِ رَبِّكَ الَّذِى خَلَقَ
 
 ***“In the name of Allah, the Beneficent, the Merciful. Read in the name
 of your Lord…” (96:1)***
 
 And the last chapter was:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَآءَ نَصْرُ اللَّهِ وَالْفَتْحُ
-  </p>
-</blockquote>
+> إِذَا جَآءَ نَصْرُ اللَّهِ وَالْفَتْحُ
 
 ***“When there comes the help of Allah…” (110:1)***[^11]
 
@@ -224,5 +212,4 @@ Bayt (a.s.) as they were more knowledgeable than others.
 [^10]: Manaqib Aale Abi Talib, Vol. 1, Pg. 72.
 
 [^11]: Al-Kafi, Vol. 2, Pg. 628.
-
 

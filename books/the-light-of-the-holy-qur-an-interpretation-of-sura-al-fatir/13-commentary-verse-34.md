@@ -19,7 +19,6 @@ where it says:
 “And they say: ‘Praise belongs to Allah, Who has removed from us (all)
 sorrow; …”
 
-
 For this great merit which has been endowed on them, and, by the grace
 of Allah, all the factors of sadness have gone out from the environment
 of their living, and the sky of their spirit has been wiped out from the
@@ -50,7 +49,6 @@ by the attribute of His thankfulness, He bestows the eternal merits on
 us which never will the shade of sadness fall on them. His forgiveness
 has covered our abundant sins, and, by His thankfulness, He has given us
 a great deal of rewards for our small and scanty deeds.
-
 
 **Commentary : Verse 35**
 
@@ -98,9 +96,7 @@ sense of weakness and fatigue resulted from toil and pain, and thus,
 Therefore, in the Heaven, there is neither any factor of bodily toils,
 nor any means of spiritual pain.
 
-
-[^1] Rauh-ul-Ma'a-ly, Vol. 22, P. 184
-
+[^1]: Rauh-ul-Ma'a-ly, Vol. 22, P. 184
 
 **Commentary : Verse 36**
 
@@ -169,5 +165,4 @@ it has a vaster meaning. Thus, the word /kafu-r/ refers to those who
 have been ungrateful to all the divine bounties, and they have closed
 all the doors of His Mercy to them in this world. Therefore, in
 Hereafter, Allah will close all the doors of deliverance to them, too.
-
 

@@ -123,4 +123,3 @@ salaat mentioned in No. 6 above?
 
 8. How should a woman dress while performing salaat?
 
-

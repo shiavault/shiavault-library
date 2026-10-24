@@ -1,13 +1,9 @@
 Revelation of The Purification Verse
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ لأِبي : إِنَّ اللهَ قَد أَوحى إِلَيكُم يَقولُ : ﴿ … إِنَّمَا
-يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا ﴾
-  </p>
-</blockquote>
+> فَقالَ لأِبي : إِنَّ اللهَ قَد أَوحى إِلَيكُم يَقولُ : ﴿ … إِنَّمَا
+> يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا ﴾
 
 **He thus said to my father, “Allah has revealed to you saying, ‘Allah
 only desires to keep away the uncleanness from you, O people of the
@@ -19,12 +15,8 @@ purpose behind event of the cloak. Lady Fatima (AS) narrates that
 Jibrael (AS) delivers to her father the revelation of the Qur’anic verse
 instantaneously:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 ***“Allah only desires to keep away the uncleanness from you, O people
 of the House, and to purify you a thorough purifying.” (33:33)***
@@ -36,12 +28,8 @@ end of time. Allah (SWT) has expressed the *Irada* (desire) and as we
 know, whenever Allah (SWT) desires something it immediately happens
 according to his will,
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
-فَيَكُونُ.
-  </p>
-</blockquote>
+> إنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
+> فَيَكُونُ.
 
 *Verily, when He intends a thing, His Command is, “Be”, and It is!*
 
@@ -118,5 +106,4 @@ For a more detailed research on the analysis of the purification verse
 titled, *“To Whom Does the Purification Verse Refer To?”* you may refer
 to this link:
 <http://www.al-islam.org/ayat-at-tat-heer-dr-hatem-abu-shahba/>
-
 

@@ -35,4 +35,3 @@ Imam Musa al-Kazim (a.s.) said: *“Surely Allah has forbidden paradise to
 him who is impudent and abusive, who has no modesty, who cares neither
 about what he says nor about what is said on him.”*
 
-

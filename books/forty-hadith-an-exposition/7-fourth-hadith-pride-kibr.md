@@ -1,14 +1,10 @@
 Fourth Hadith: Pride (Kibr)
 ===========================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
-بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عِيسَى، عَنْ يُونُسَ، عَنْ
-أَبَانَ، عَنْ حَكِيمٍ قَالَ: سَأَلْتُ أَبَا عَبْدِاللهِ عَلَيْهِ
-السَّلامُ عَنْ أَدْنَى الإلْحَادِ، فَقَالَ: إنَّ الكِبَرَ أَدْنَاهُ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
+> بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عِيسَى، عَنْ يُونُسَ، عَنْ
+> أَبَانَ، عَنْ حَكِيمٍ قَالَ: سَأَلْتُ أَبَا عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ عَنْ أَدْنَى الإلْحَادِ، فَقَالَ: إنَّ الكِبَرَ أَدْنَاهُ.
 
 Muhammad ibn Ya’qub (al-Kulayni) from ‘Ali ibn Ibrahim, from Muhammad
 ibn ‘Isa, from Yunus, from Aban, from Hakim; who says: I asked Abu ‘Abd
@@ -102,23 +98,15 @@ As to the *kibr* towards the prophets and *awliya*’ of God, it was an
 attitude, which was more prevalent during their own days, and the Quran
 reports about it in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا؟﴾
-  </p>
-</blockquote>
+> ﴿أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا؟﴾
 
 ***Shall we put faith in two mortals like ourselves?*** (***23:47***)
 
 And someone from his people is reported to have said (about the Prophet
 [ S ]):
 
-<blockquote dir="rtl">
-  <p>
-﴿لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنْ الْقَرْيَتَيْنِ
-عَظِيمٍ.﴾
-  </p>
-</blockquote>
+> ﴿لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنْ الْقَرْيَتَيْنِ
+> عَظِيمٍ.﴾
 
 ***If only this Quran had been revealed to some great man of the two
 towns. [i.e. Makkah and al-Ta’if]*** (***43:31***)
@@ -221,12 +209,8 @@ origin and end makes them modest and humble-God Almighty had bestowed
 upon Luqman the gift of wisdom; yet the Quran reports of him as saying
 to his son:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا
-إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا
+> إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ.﴾
 
 ***Turn not thy cheek in scorn toward people, nor walk with pertness on
 the earth. Verily, God loveth not any braggart boaster.*** (***31:18***)
@@ -256,11 +240,7 @@ themselves to be worthy of every praise and appreciation. They think
 that everybody should obey their commands without any hesitation, and
 apply the following criterion to themselves:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.﴾
-  </p>
-</blockquote>
+> ﴿لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.﴾
 
 ***He*** (***i.e. God***) ***will not be questioned as to that which He
 does, but they will be questioned.*** (***21:23***)
@@ -428,14 +408,10 @@ expressed an inordinate sense of pride and arrogance here, in the other
 world this same arrogance and pride will bring you disgrace and
 humiliation, as mentioned in a tradition reported in *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-بِإسْنَادِهِ عَنْ دَاوُدَ بْنِ فَرْقَدٍ، عَنْ أَخِيهِ قَالَ سَمِعْتُ
-أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: إنَّ المُتَكَبِّرِينَ
-يُجْعَلُونَ فِي صُوَرِ الذَّرِّ فَيَتَوَطَّؤُهُمُ النَّاسُ حَتَّى
-يَفْرَغُوا مِنَ الحِسَابِ.
-  </p>
-</blockquote>
+> بِإسْنَادِهِ عَنْ دَاوُدَ بْنِ فَرْقَدٍ، عَنْ أَخِيهِ قَالَ سَمِعْتُ
+> أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: إنَّ المُتَكَبِّرِينَ
+> يُجْعَلُونَ فِي صُوَرِ الذَّرِّ فَيَتَوَطَّؤُهُمُ النَّاسُ حَتَّى
+> يَفْرَغُوا مِنَ الحِسَابِ.
 
 From Dawud ibn Farqad, from his brother, who said: I heard Imam al-Sadiq
 (A) saying: Verily the proud [on the Judgment Day] will be created in
@@ -444,13 +420,9 @@ until God is finished with the reckoning.[^3]
 
 In his last will, al Imam al-Sadiq (A) told his companions:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: وَإيَّاكُمْ وَالعَظَمَةَ وَالكِبَرَ فَإنَّ الكِبَرَ رِدَاءُ
-اللهِ عَزَّ وَجَلَّ، فَمَنْ نَازَعَ اللهَ رِدَاءَهُ قَصَمَهُ اللهُ
-وَأَذَلَّهُ يَوْمَ القِيَامَةِ.
-  </p>
-</blockquote>
+> قَالَ: وَإيَّاكُمْ وَالعَظَمَةَ وَالكِبَرَ فَإنَّ الكِبَرَ رِدَاءُ
+> اللهِ عَزَّ وَجَلَّ، فَمَنْ نَازَعَ اللهَ رِدَاءَهُ قَصَمَهُ اللهُ
+> وَأَذَلَّهُ يَوْمَ القِيَامَةِ.
 
 Refrain from pride and self-glorification, since pride is God Almighty’s
 mantle, and one who contests with God regarding His cloak, God will
@@ -468,23 +440,15 @@ humiliations also cannot be compared with our ideas of humiliation and
 disgrace. And the ultimate abode of the proud person is eternal
 damnation and hell. The tradition states:
 
-<blockquote dir="rtl">
-  <p>
-الكِبَرُ مَطَايَا النَّارِ.
-  </p>
-</blockquote>
+> الكِبَرُ مَطَايَا النَّارِ.
 
 i.e. ‘one who rides the mount of pride is taken by it into the
 hell-fire.’ He will not get any glimpse of Paradise as long as the
 traces of this vice are present in his heart. The Prophet (S) has been
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ يَدْخُلَ الجَنَّةَ مَنْ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ
-خَرْدَلٍ مِنْ كِبَرٍ.
-  </p>
-</blockquote>
+> لَنْ يَدْخُلَ الجَنَّةَ مَنْ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ
+> خَرْدَلٍ مِنْ كِبَرٍ.
 
 Never can the person who possesses a speck of pride inside his heart
 enter Paradise.[^5]
@@ -493,12 +457,8 @@ Imam al-Baqir (A) and Imam al-Sadiq (A) have also said something almost
 similar to this statement. In *al-Kafi* Imam al-Baqir (A) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-العِزُّ رِدَاءُ اللهِ وَالكِبَرُ إِزَارُهُ. فَمَنْ تَنَاوَلَ شَيْئاً
-مِنْهُ أَكَبَّهُ اللهُ فِي جَهَنَّمَ.
-  </p>
-</blockquote>
+> العِزُّ رِدَاءُ اللهِ وَالكِبَرُ إِزَارُهُ. فَمَنْ تَنَاوَلَ شَيْئاً
+> مِنْهُ أَكَبَّهُ اللهُ فِي جَهَنَّمَ.
 
 honor is God’s robe and pride His mantle; one who wants to acquire it
 will be thrown into hell by God Almighty.[^6]
@@ -508,16 +468,12 @@ proud, is different from the hell into which other sinners will go.
 Here, I shall again quote the same tradition the translation of which
 was given earlier:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ،
-عَنِ ابْنِ أَبِي عُمَيْرٍ، عَنْ عَبْدِاللهِ بْنِ بُكَيْرٍ، عَنْ أَبِي
-عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إِنَّ فِي جَهَنَّمَ لَوَادِياً
-لِلْمُتَكَبِّرِينَ يُقَالُ لَهُ سَقَرٌ. شَكَا (جَهَنَّمُ) إلَى اللهِ
-عَزَّ وَجَلَّ شِدَّةَ حَرِّهِ وَسَأَلَهُ أَنْ يَتَنَفَّسَ، فَأَذِنَ
-لَهُ، فَتَنَفَّسَ فَأَحْرَقَ جَهَنَّمَ.
-  </p>
-</blockquote>
+> مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ،
+> عَنِ ابْنِ أَبِي عُمَيْرٍ، عَنْ عَبْدِاللهِ بْنِ بُكَيْرٍ، عَنْ أَبِي
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إِنَّ فِي جَهَنَّمَ لَوَادِياً
+> لِلْمُتَكَبِّرِينَ يُقَالُ لَهُ سَقَرٌ. شَكَا (جَهَنَّمُ) إلَى اللهِ
+> عَزَّ وَجَلَّ شِدَّةَ حَرِّهِ وَسَأَلَهُ أَنْ يَتَنَفَّسَ، فَأَذِنَ
+> لَهُ، فَتَنَفَّسَ فَأَحْرَقَ جَهَنَّمَ.
 
 This is a highly trustworthy tradition, and can even be compared to
 sahih. Ibn Bukayr reports from al Imam al-Sadiq (A) that he said,
@@ -606,11 +562,7 @@ fail to comprehend it, unless, God forbid, we, belonging to the clan of
 the proud, leave the world without purifying ourselves from this
 abominable vice, and see it face to face:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ.﴾
-  </p>
-</blockquote>
+> ﴿فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ.﴾
 
 *What an evil abode is that of the arrogant!’*
 
@@ -650,12 +602,8 @@ Names, Attributes, and Essence are manifested, a stage for the
 appearance of the Real Monarch, who obliterates all signs and purges it
 of all stains and removes from it all limitations:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الْمُلُوكَ إِذَا دَخَلُوا قَرْيَةً أَفْسَدُوهَا وَجَعَلُوا
-أَعِزَّةَ أَهْلِهَا أَذِلَّةً.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الْمُلُوكَ إِذَا دَخَلُوا قَرْيَةً أَفْسَدُوهَا وَجَعَلُوا
+> أَعِزَّةَ أَهْلِهَا أَذِلَّةً.﴾
 
 ***Indeed, kings, when they enter a township, ruin it and degrade its
 men of honor.*** (***27:34***)
@@ -715,33 +663,21 @@ and *‘ilm* (knowledge) and imagines himself to be an *‘alim* and
 *Hakim.* He even associates himself with the Attributes of the Necessary
 Being and says that *hikmah* is one of the Attributes of God Almighty’
 
-<blockquote dir="rtl">
-  <p>
-الحِكْمَةُ هِيَ التَّشَبُّهُ بِالإلَهِ.
-  </p>
-</blockquote>
+> الحِكْمَةُ هِيَ التَّشَبُّهُ بِالإلَهِ.
 
 Wisdom is what makes [man] similar to God.
 
 At other times he groups himself with the prophets and messengers of
 God, and recites the Quranic phrase,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيُعَلِّمُهُمْ الْكِتَابَ وَالْحِكْمَةَ.﴾
-  </p>
-</blockquote>
+> ﴿وَيُعَلِّمُهُمْ الْكِتَابَ وَالْحِكْمَةَ.﴾
 
 *He teaches them the Book and Wisdom.*
 
 And sometimes reiterates the Prophet’s *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-الحِكْمَةُ ضَالَّةُ المُؤْمِنِ، وَمَنْ يُؤْتَ الحِكْمَةَ فَقَدْ
-أُوتِيَ خَيْراً كَثِيراً.
-  </p>
-</blockquote>
+> الحِكْمَةُ ضَالَّةُ المُؤْمِنِ، وَمَنْ يُؤْتَ الحِكْمَةَ فَقَدْ
+> أُوتِيَ خَيْراً كَثِيراً.
 
 Hikmah is the lost property of a mu’min; one who is endowed with hikmah
 has been given an immense measure of good.
@@ -879,11 +815,7 @@ were nourished with such a food that you will go mad if you are told
 about it, and will feel ashamed. But since everyone has to pass through
 this tribulation, it abates our shame of it.
 
-<blockquote dir="rtl">
-  <p>
-وَالبَلِيَّةُ إِذَا عَمَّتْ طَابَتْ.
-  </p>
-</blockquote>
+> وَالبَلِيَّةُ إِذَا عَمَّتْ طَابَتْ.
 
 A distress, which is common, becomes tolerable.
 
@@ -1155,11 +1087,7 @@ Pious, the unique wayfarer of the paths of heavens and the real guide,
 used to cry out in the mosque so loudly that he could be heard in the
 neighborhood:
 
-<blockquote dir="rtl">
-  <p>
-تَجَهَّزُوا – رَحِمَكُمُ اللهُ – فَقَدْ نُودِيَ فِيكُمْ بِالرَّحِيلِ.
-  </p>
-</blockquote>
+> تَجَهَّزُوا – رَحِمَكُمُ اللهُ – فَقَدْ نُودِيَ فِيكُمْ بِالرَّحِيلِ.
 
 Equip yourselves and be ready, your departure has already been
 announced.
@@ -1177,11 +1105,7 @@ God knows how many centuries of the Hereafter it will take for your soul
 to be refined in the furnace of Divine chastisement, and with a fire of
 which it has been said:
 
-<blockquote dir="rtl">
-  <p>
-﴿نَارُ اللَّهِ الْمُوقَدَةُ. الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ.﴾
-  </p>
-</blockquote>
+> ﴿نَارُ اللَّهِ الْمُوقَدَةُ. الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ.﴾
 
 ***It is the fire of Allah, kindled, which leapeth up over the
 hearts.*** (***109-6-7***)
@@ -1214,11 +1138,7 @@ wretched of beings and the basest of creatures. Satan was not guilty of
 pride towards God, but of pride towards the creature of God and had said
 to Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ.﴾
-  </p>
-</blockquote>
+> ﴿خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ.﴾
 
 ***Thou createdst me of fire., and him Thou didst create of clay.***
 (***7:12***)
@@ -1288,11 +1208,7 @@ man were unexpectedly to show you respect, you will be humble and modest
 with him. In any case, the snares and the skilful guiles of the self are
 so subtle that one cannot do anything except taking refuge in God.
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
-  </p>
-</blockquote>
+> وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
 
 And Praise is God’s, in the beginning and the end.
 
@@ -1312,5 +1228,4 @@ Persian translation by Ahmad Jannati ‘Ata’i, p. 327.
 [^6]: Usul al-Kafi, Vol. III, p. 423.
 
 [^7]: Usul al-Kafi, Vol. III, p. 424.
-
 

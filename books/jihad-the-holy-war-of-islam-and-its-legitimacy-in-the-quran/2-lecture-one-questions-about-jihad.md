@@ -673,4 +673,3 @@ Islam, and “Hajj” is the famous act of worship performed each year in
 Mecca, which the Muslims who are able to do so must perform once in a
 lifetime.
 
-

@@ -1733,4 +1733,3 @@ May 1979 (11 Urdibihisht 1358 AHS) by the terrorist group Furqan.
 whose life an attempt was made in 1979 (1358 AHS) by the terrorist group
 Furqan.
 
-

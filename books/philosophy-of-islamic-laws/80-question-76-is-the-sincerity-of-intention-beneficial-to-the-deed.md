@@ -35,5 +35,3 @@ they had not made any intention to pray. Thus in such a condition if a
 person makes an intention to pray his prayer is correct, because he has
 performed it with sincerity and inclination.
 
-
-

@@ -253,4 +253,3 @@ was the Prophet's mu'adhdhin, or the caller for the Salat. Mawlawī, in a
 couplet, says: “The soul is perfect and perfect is its call, The Chosen
 One said: “Relieve us, O Bilāl!”
 
-

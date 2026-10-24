@@ -364,4 +364,3 @@ of Janabat or touching a Mayyit (dead body).
 [^1]: This rule applies only to women, and for a complete explanation,
 please refer to Rule \#137.
 
-

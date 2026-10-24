@@ -2706,4 +2706,3 @@ and ad-Durr al-Manthoor vol.5 p.133.
 
 [^194]: Majma’ul Bayan, vol. 23 p.163.
 
-

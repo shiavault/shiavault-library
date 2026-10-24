@@ -291,4 +291,3 @@ Holy Prophet’s (S) Be’that
 
 [^10]: Sura at-Taubah, Ayah 33
 
-

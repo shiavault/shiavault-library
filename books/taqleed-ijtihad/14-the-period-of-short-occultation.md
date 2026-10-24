@@ -22,4 +22,3 @@ were able to use their minds for securing and strengthening the
 religion. This period also taught those, who were associated with Ahlul
 Bayt, the ways of waiting for the Last Imam (as).
 
-

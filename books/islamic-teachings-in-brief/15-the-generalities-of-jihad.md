@@ -285,7 +285,6 @@ underweight causes people to lose their confidence in him and gradually
 loses his customers and at last his own money.
 **THE GENERAL PENALTY OF SINS IN ISLAM**
 
-
 These indecent deeds are called mortal sins in Islam and the Almighty
 Allah has clearly promised to punish those who commit these sins. In
 addition to establishing severe punishments for some of these sins,
@@ -367,7 +366,6 @@ idleness. It is idleness that disrupts the economic and cultural
 activities of the society and gives rise to all kinds of moral decadence
 and superstitions.
 
-
 **AGRICULTURE AND ITS ADVANTAGES**
 
 Farming, which is the means for providing food for the society, is one
@@ -442,5 +440,4 @@ Asking for help in unnecessary cases is haram in Islam. Financial
 contribution to the needy, which is a part of Islamic provisions, only
 applies to those needy people whose earning is less than their expenses
 or to those who are disabled.
-
 

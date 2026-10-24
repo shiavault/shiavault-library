@@ -33,4 +33,3 @@ The Roots of our Religion are Five:
  the Prophet)  
  5. Qiyamah (Day of Judgment)
 
-

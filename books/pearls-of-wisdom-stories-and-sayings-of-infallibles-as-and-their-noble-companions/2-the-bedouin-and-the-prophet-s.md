@@ -38,4 +38,3 @@ calm it. When the people stopped chasing the camel, the owner followed
 it calmly, with a fistful of grass. Then without the need for running,
 yelling, he showed the grass to it.
 
-

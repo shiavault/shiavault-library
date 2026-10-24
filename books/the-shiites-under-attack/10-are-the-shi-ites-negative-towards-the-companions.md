@@ -377,4 +377,3 @@ they will be taken away from me. I will say: 'My Lord, these are my
 companions.' It will be said to me: 'You do not know what they innovated
 after you.' "
 
-

@@ -1,25 +1,21 @@
 Thirtieth Hadith: The Kinds of Hearts
 =====================================
 
-<blockquote dir="rtl">
-  <p>
-بِسَنَدي المُتَّصِلِ إِلى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
-الْكُلَيْنِي عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ
-مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَنْ هَارُونَ بْنِ الجَهْمِ عَنِ
-المُفَضَّلِ عَنْ سَعْدٍ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ:
-إنَّ القُلُوبَ أَرْبَعَةٌ: قَلْبٌ فِيهِ نِفَاقٌ وَإيمَانٌ، وَقَلْبٌ
-مَنْكُوسٌ، وَقَلْبٌ مَطْبُوعٌ، وَقَلْبٌ أَزْهَرُ أَجْرَدُ. فَقُلْتُ:
-مَا الأَزْهَرُ؟ قَالَ: فِيهِ كَهَيْئَةِ السِّرَاجِ. فَأَمَّا
-المَطْبُوعُ فَقَلْبُ المُنَافِقِ، وَأَمَّا الأَزْهَرُ فَقَلْبُ
-المُؤْمِنِ إنْ أَعْطَاهُ شَكَرَ وَإنِ ابْتَلاهُ صَبَرَ. وَأَمَّا
-المَنْكُوسُ فَقَلْبُ المُشْرِكِ. ثُمَّ قَرَأَ هَذِهِ الآيَةَ:
-﴿أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي
-سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾ فَأمَّا القَلْبُ الَّذِي فِيهِ
-إيمَانٌ وَنِفَاقٌ فَهُمْ قَوْمٌ كَانُوا بِالطَّائِفِ فَإنْ أَدْرَكَ
-أَحَدَهُمْ أَجَلُهُ عَلَى نِفَاقِهِ هَلَكَ، وَإنْ أَدْرَكَهُ عَلَى
-إيمَانِهِ نَجَا.
-  </p>
-</blockquote>
+> بِسَنَدي المُتَّصِلِ إِلى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
+> الْكُلَيْنِي عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ
+> مُحَمَّدِ بْنِ خَالِدٍ عَنْ أَبِيهِ عَنْ هَارُونَ بْنِ الجَهْمِ عَنِ
+> المُفَضَّلِ عَنْ سَعْدٍ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ:
+> إنَّ القُلُوبَ أَرْبَعَةٌ: قَلْبٌ فِيهِ نِفَاقٌ وَإيمَانٌ، وَقَلْبٌ
+> مَنْكُوسٌ، وَقَلْبٌ مَطْبُوعٌ، وَقَلْبٌ أَزْهَرُ أَجْرَدُ. فَقُلْتُ:
+> مَا الأَزْهَرُ؟ قَالَ: فِيهِ كَهَيْئَةِ السِّرَاجِ. فَأَمَّا
+> المَطْبُوعُ فَقَلْبُ المُنَافِقِ، وَأَمَّا الأَزْهَرُ فَقَلْبُ
+> المُؤْمِنِ إنْ أَعْطَاهُ شَكَرَ وَإنِ ابْتَلاهُ صَبَرَ. وَأَمَّا
+> المَنْكُوسُ فَقَلْبُ المُشْرِكِ. ثُمَّ قَرَأَ هَذِهِ الآيَةَ:
+> ﴿أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي
+> سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾ فَأمَّا القَلْبُ الَّذِي فِيهِ
+> إيمَانٌ وَنِفَاقٌ فَهُمْ قَوْمٌ كَانُوا بِالطَّائِفِ فَإنْ أَدْرَكَ
+> أَحَدَهُمْ أَجَلُهُ عَلَى نِفَاقِهِ هَلَكَ، وَإنْ أَدْرَكَهُ عَلَى
+> إيمَانِهِ نَجَا.
 
 With my continuous chain of transmission reaching up to the Thiqat al-
 Islam Muhammad ibn Ya’qub al-Kulayni (R) from a group of our companions,
@@ -48,11 +44,7 @@ Exposition
 
 *Mankus* means ‘inverted’ (*maqlub*)*.* [The lexicographers] explain:
 
-<blockquote dir="rtl">
-  <p>
-نَكَستُ الشَّيءَ أنْكُسهُ نَكساً: قَلَبتُه عَلى رأسِهِ.
-  </p>
-</blockquote>
+> نَكَستُ الشَّيءَ أنْكُسهُ نَكساً: قَلَبتُه عَلى رأسِهِ.
 
 (i.e. ‘I inverted something’ or ‘I put it means upside down’). According
 to *al-Sihah,* الولد المنكوس means a baby whose feet (at birth) come out
@@ -158,11 +150,7 @@ deficiency, wretchedness, *shirk,* and hypocrisy and attain to the
 higher levels of perfection and spiritual felicity. And this is not
 contrary to the famous *hadith* that states:
 
-<blockquote dir="rtl">
-  <p>
-الشَّقِيُّ شَقِيٌّ فِي بَطْنِ أُمِّهِ.
-  </p>
-</blockquote>
+> الشَّقِيُّ شَقِيٌّ فِي بَطْنِ أُمِّهِ.
 
 The wretched one is wretched in his mother’s womb.[^6]
 
@@ -316,11 +304,7 @@ all the Names-something whose explanation is not appropriate here. Hence
 God, the Exalted, at the station of the All-inclusive Name and the Lord
 of Man (*rabb al-insan*)*,* is on the Straight Path, as He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ رَبِّي عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ رَبِّي عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾
 
 ***Verily my Lord is on the Straight Path.*** (***11:56***)
 
@@ -338,11 +322,7 @@ service by every worshipper to that Sacred Essence and ascribing all
 help in all stations of expansiveness and straits (*qabd wa bast*)
 exclusively to that Sacred Being, by declaring:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.﴾
-  </p>
-</blockquote>
+> ﴿إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.﴾
 
 *Thee only we worship and Thee only we ask for help.* (*1:5*)
 
@@ -436,12 +416,8 @@ on their faces with their feet upwards, some on their bellies, and some
 on their hands and feet, like animals, the way they in fact walked in
 this world:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي
-سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾
-  </p>
-</blockquote>
+> ﴿أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي
+> سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾
 
 *Is he who goes inverted on his face more rightly guided or he who walks
 upright on a straight path?*[^10]
@@ -452,17 +428,13 @@ some noble traditions relating to the exegesis of this noble verse, the
 ‘Straight Path’ is interpreted as referring to Hadrat Amir al-Mu’minin
 and the Infallible Imams (A):
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الكَافِي بِإسْنَادِهِ عَنْ أبي الحسن الماضي عَلَيْهِ السَّلامُ
-قَالَ: قُلْتُ: ﴿أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى
-أَمَّنْ يَمْشِي سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾ قَالَ: إنَّ اللهَ
-ضَرَبَ مَثَلاً مَنْ حَادَ عَنْ وِلايَةِ عَلِيٍّ عَلَيْهِ السَّلامُ
-كَمَنْ يَمْشِي عَلَى وَجْهِهِ لا يَهْتَدِي لأَمْرِهِ. وَجَعَلَ مَنْ
-تَبِعَهُ سَوِيّاً عَلَى صِرَاطٍ مُسْتَقِيمٍ. وَالصِّرَاطُ
-المُسْتَقِيمُ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ.
-  </p>
-</blockquote>
+> عَنِ الكَافِي بِإسْنَادِهِ عَنْ أبي الحسن الماضي عَلَيْهِ السَّلامُ
+> قَالَ: قُلْتُ: ﴿أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى
+> أَمَّنْ يَمْشِي سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.﴾ قَالَ: إنَّ اللهَ
+> ضَرَبَ مَثَلاً مَنْ حَادَ عَنْ وِلايَةِ عَلِيٍّ عَلَيْهِ السَّلامُ
+> كَمَنْ يَمْشِي عَلَى وَجْهِهِ لا يَهْتَدِي لأَمْرِهِ. وَجَعَلَ مَنْ
+> تَبِعَهُ سَوِيّاً عَلَى صِرَاطٍ مُسْتَقِيمٍ. وَالصِّرَاطُ
+> المُسْتَقِيمُ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ.
 
 In al-Kafi, al-Kulayni reports with his isnad from Abu al-Hasan al-Madhi
 (Imam Musa al-Kazim) that Muhammad bin al-Fudayl says: When asked
@@ -666,5 +638,4 @@ al-mutlaq.
 [^15]: See Fifteenth, Sixteenth, and Twenty-first Hadith.
 
 [^16]: See Ninth, Twentieth and Twenty-sixth Hadith.
-
 

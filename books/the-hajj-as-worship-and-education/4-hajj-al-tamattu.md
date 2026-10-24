@@ -256,4 +256,3 @@ must appoint another person to do her circumambulation, then, she,
 performs her endeavor sa'y after the circumambulation of her
 representative.
 
-

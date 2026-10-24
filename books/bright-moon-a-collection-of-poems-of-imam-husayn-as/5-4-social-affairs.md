@@ -19,71 +19,27 @@ Why shouldn’t I judge myself fairly, before judging others?
 Doomed am I if my advices save others but for me they remain a bunch of
 rhyming words and tunes.[^1]
 
-<blockquote dir="rtl">
-  <p>
-ذو خمسين سنة
-  </p>
-</blockquote>
+> ذو خمسين سنة
 
-<blockquote dir="rtl">
-  <p>
-أَأَقصُدُ بالمَلاَمَةٍ قَصدَ غَيري
-  </p>
-</blockquote>
+> أَأَقصُدُ بالمَلاَمَةٍ قَصدَ غَيري
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمرِي کُلُّهُ بَادِي الخِلاَفِ
-  </p>
-</blockquote>
+> وَ أَمرِي کُلُّهُ بَادِي الخِلاَفِ
 
-<blockquote dir="rtl">
-  <p>
-إذَا عَاشَ امرُوزٌ خَمسِينَ عَاماً
-  </p>
-</blockquote>
+> إذَا عَاشَ امرُوزٌ خَمسِينَ عَاماً
 
-<blockquote dir="rtl">
-  <p>
-وَ لَم يرَفِيهِ آثارُ العَفَافِ
-  </p>
-</blockquote>
+> وَ لَم يرَفِيهِ آثارُ العَفَافِ
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ يرجَي لَهُ أَبداً رَشَادٌ
-  </p>
-</blockquote>
+> فَلاَ يرجَي لَهُ أَبداً رَشَادٌ
 
-<blockquote dir="rtl">
-  <p>
-فَقَد أَردَي بِنِيتِه التَّجافِي
-  </p>
-</blockquote>
+> فَقَد أَردَي بِنِيتِه التَّجافِي
 
-<blockquote dir="rtl">
-  <p>
-وَ لِمَ لاً أَبذُلُ الإنصَافَ مِنِّي
-  </p>
-</blockquote>
+> وَ لِمَ لاً أَبذُلُ الإنصَافَ مِنِّي
 
-<blockquote dir="rtl">
-  <p>
-وَ أَبلُغُ طَاقَتِي فِي الإنتِصَافِ
-  </p>
-</blockquote>
+> وَ أَبلُغُ طَاقَتِي فِي الإنتِصَافِ
 
-<blockquote dir="rtl">
-  <p>
-لِي الوَيلاَتُ إن نَفَعَت عِظَاتي
-  </p>
-</blockquote>
+> لِي الوَيلاَتُ إن نَفَعَت عِظَاتي
 
-<blockquote dir="rtl">
-  <p>
-سِوَاي وَ لَيسَ لي إلاَّ القَوَافِي
-  </p>
-</blockquote>
+> سِوَاي وَ لَيسَ لي إلاَّ القَوَافِي
 
 Friendship for the Sake of God
 ------------------------------
@@ -102,71 +58,27 @@ pains
 Human being is really blind not to see the transient nature of this
 world and this blindness has also made his heart turn a deaf ear.[^2]
 
-<blockquote dir="rtl">
-  <p>
-ولاء في سبيل الله
-  </p>
-</blockquote>
+> ولاء في سبيل الله
 
-<blockquote dir="rtl">
-  <p>
-وَ إن صَافَيتَ أو خَالَلتَ خلّلاً
-  </p>
-</blockquote>
+> وَ إن صَافَيتَ أو خَالَلتَ خلّلاً
 
-<blockquote dir="rtl">
-  <p>
-فَفِي الرَّحمنِ فَاجعَل مَن تُؤاخِي
-  </p>
-</blockquote>
+> فَفِي الرَّحمنِ فَاجعَل مَن تُؤاخِي
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَعدِل بِتَقوَي اللهِ شَيئاً
-  </p>
-</blockquote>
+> وَ لاَ تَعدِل بِتَقوَي اللهِ شَيئاً
 
-<blockquote dir="rtl">
-  <p>
-وَ دَع عَنکَ الضَّلالَهََ و التَّرَاخِي
-  </p>
-</blockquote>
+> وَ دَع عَنکَ الضَّلالَهََ و التَّرَاخِي
 
-<blockquote dir="rtl">
-  <p>
-فَکَيفَ تَنَالُ في الدُّنيا سُرُوراً
-  </p>
-</blockquote>
+> فَکَيفَ تَنَالُ في الدُّنيا سُرُوراً
 
-<blockquote dir="rtl">
-  <p>
-وَأيامُ الحَياةِ إلي انسِلاخِ
-  </p>
-</blockquote>
+> وَأيامُ الحَياةِ إلي انسِلاخِ
 
-<blockquote dir="rtl">
-  <p>
-وَ إنَّ سُرُورَها فِيمَا عَهِدنَا
-  </p>
-</blockquote>
+> وَ إنَّ سُرُورَها فِيمَا عَهِدنَا
 
-<blockquote dir="rtl">
-  <p>
-مَشُوبٌ بِالبُکاءِ وَ بِالصُّرَاخِ
-  </p>
-</blockquote>
+> مَشُوبٌ بِالبُکاءِ وَ بِالصُّرَاخِ
 
-<blockquote dir="rtl">
-  <p>
-فَقَد عَمِي ابنُ آدَمَ لا يرَاهَا
-  </p>
-</blockquote>
+> فَقَد عَمِي ابنُ آدَمَ لا يرَاهَا
 
-<blockquote dir="rtl">
-  <p>
-عَمَي أَفضَي إلَي صَمَمِ الصِّمَاخِ
-  </p>
-</blockquote>
+> عَمَي أَفضَي إلَي صَمَمِ الصِّمَاخِ
 
 Be Merciful to People
 ---------------------
@@ -187,47 +99,19 @@ suddenly from your hands
 Neither your gratitude will destroy the wealth, nor can your misery can
 keep.[^3]
 
-<blockquote dir="rtl">
-  <p>
-تسامح بالناس
-  </p>
-</blockquote>
+> تسامح بالناس
 
-<blockquote dir="rtl">
-  <p>
-إذَا جَادَتِ الدُّنيا عَلَيکَ فَجُدبِهَا
-  </p>
-</blockquote>
+> إذَا جَادَتِ الدُّنيا عَلَيکَ فَجُدبِهَا
 
-<blockquote dir="rtl">
-  <p>
-عَلَي النَّاسِ طُرّاً قَبلَ أَن تَتَفَلَّت
-  </p>
-</blockquote>
+> عَلَي النَّاسِ طُرّاً قَبلَ أَن تَتَفَلَّت
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ الجُودُ يفنِيهَا إذَا هِي أَقبَلَت
-  </p>
-</blockquote>
+> فَلاَ الجُودُ يفنِيهَا إذَا هِي أَقبَلَت
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ البُخلُ يبقِيهَا إذَا مَا تَولَّت
-  </p>
-</blockquote>
+> وَلاَ البُخلُ يبقِيهَا إذَا مَا تَولَّت
 
-<blockquote dir="rtl">
-  <p>
-فَما لََکَ غَير تَقوي اللهِ حِرُزٌ
-  </p>
-</blockquote>
+> فَما لََکَ غَير تَقوي اللهِ حِرُزٌ
 
-<blockquote dir="rtl">
-  <p>
-ولاوزرٌ وَ ما لَکَ مِن غِساثٌ
-  </p>
-</blockquote>
+> ولاوزرٌ وَ ما لَکَ مِن غِساثٌ
 
 Seeking Sustenance only from God
 --------------------------------
@@ -240,59 +124,23 @@ If you remain alive and travel to the far most places of the east and
 west of this world, you won’t be able to find anybody who could make you
 fortunate or unfortunate except Allah.[^4]
 
-<blockquote dir="rtl">
-  <p>
-فقر الي الله
-  </p>
-</blockquote>
+> فقر الي الله
 
-<blockquote dir="rtl">
-  <p>
-إذَا مَا عَضَّکَ الدَّهرُ
-  </p>
-</blockquote>
+> إذَا مَا عَضَّکَ الدَّهرُ
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَجنَح إلَي خَلقٍ
-  </p>
-</blockquote>
+> فَلاَ تَجنَح إلَي خَلقٍ
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَسأَل سِوَي اللهِ
-  </p>
-</blockquote>
+> وَ لاَ تَسأَل سِوَي اللهِ
 
-<blockquote dir="rtl">
-  <p>
-تَعَالَي قَاسِمِ الرِّزقِ
-  </p>
-</blockquote>
+> تَعَالَي قَاسِمِ الرِّزقِ
 
-<blockquote dir="rtl">
-  <p>
-فَلَو عِشتَ وَ طَوَّفتَ
-  </p>
-</blockquote>
+> فَلَو عِشتَ وَ طَوَّفتَ
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الغَربِ إلَي الشَّرقِ
-  </p>
-</blockquote>
+> مِنَ الغَربِ إلَي الشَّرقِ
 
-<blockquote dir="rtl">
-  <p>
-لَمَا صَادَفتَ مَن يقدِ
-  </p>
-</blockquote>
+> لَمَا صَادَفتَ مَن يقدِ
 
-<blockquote dir="rtl">
-  <p>
-ر أن يسعَدَ أَو يشقِي
-  </p>
-</blockquote>
+> ر أن يسعَدَ أَو يشقِي
 
 [^1]: Mausu’ah Kalimat al-Imam al-Husayn (as), p. 916.
 
@@ -303,5 +151,4 @@ fortunate or unfortunate except Allah.[^4]
 
 [^4]: Kashf al Ghammah, vol. 2, p. 34-35; Al-Fusul al-Muhimmah fi
 Ma’rifatul Aimmah, p. 171; A’yaan al-Shia, vol. 1, p. 621.
-
 

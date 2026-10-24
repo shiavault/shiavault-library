@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنْ لَيْسَ لِلْإِنْسانِ إِلاَّ ما سَعى‏
-  </p>
-</blockquote>
+> وَ أَنْ لَيْسَ لِلْإِنْسانِ إِلاَّ ما سَعى‏
 
 ***“And that man shall have nothing but what he strives for”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-الْمُؤْمِنَ إِذَا لَمْ يَكُنْ لَهُ حِرْفَةٌ يَعِيشُ بِدِينِهِ
-  </p>
-</blockquote>
+> الْمُؤْمِنَ إِذَا لَمْ يَكُنْ لَهُ حِرْفَةٌ يَعِيشُ بِدِينِهِ
 
 ***“If a Mu'min does not possess a profession, he shall endeavour to
 earn his livelihood by using his religion*** **(which is immensely
@@ -233,5 +225,4 @@ battle-dress!*[^8]
 147.
 
 [^8]: Tatimmah al-Muntaha, pg. 262.
-
 

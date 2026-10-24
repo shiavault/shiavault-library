@@ -340,4 +340,3 @@ to which he belonged.
 
 [^3]: The Prophet’s progeny.
 
-

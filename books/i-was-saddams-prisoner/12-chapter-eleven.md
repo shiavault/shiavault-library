@@ -84,4 +84,3 @@ to our cell, the Haras sexually assaulted him. Needless to say that
 Yahya recalled his experience with profound bitterness. "They are
 beasts, these Haras", he would say.
 
-

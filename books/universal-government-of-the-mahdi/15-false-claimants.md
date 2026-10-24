@@ -246,11 +246,7 @@ Yes! That Sun is still behind the clouds, and we should still wait for
 that day that clouds will disappear completely and the dark world shines
 by his essence; and perhaps the dawn is near.
 
-<blockquote dir="rtl">
-  <p>
-“الیس الصّبح بقریب”
-  </p>
-</blockquote>
+> “الیس الصّبح بقریب”
 
 [^1]: “Radwa” or “Razwa” is a mount near Medina; I have expressed the
 reason of mentioning the name of this mount in Nudba supplication in the
@@ -279,5 +275,4 @@ Dalgurki” and the book “What else Baha’is Say?” (بي بهايي باب
 [^6]: Refer to the books “What does Baha’i Say” and “Trial and Revision”
 and “Fine Words of Yar Gholi” and “Hadyat al-Namlat” and “Prince
 Dalgurki”.
-
 

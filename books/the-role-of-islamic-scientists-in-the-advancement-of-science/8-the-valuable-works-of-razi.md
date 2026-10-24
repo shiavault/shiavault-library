@@ -127,4 +127,3 @@ height. Figure (2) shows this method which is still used today.
 
 [^2]: History of Literature, by Dr. Safa
 
-

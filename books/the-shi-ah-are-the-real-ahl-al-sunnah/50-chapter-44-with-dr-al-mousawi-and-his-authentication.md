@@ -510,5 +510,5 @@ salutations are unto the man who was sent as a mercy for all the worlds,
 our master and leader Muhammad and unto his righteous and purified
 Progeny.
 
-[^300] Here, the author is referring to himself. \_\_ Tr.
+[^300]: Here, the author is referring to himself. \_\_ Tr.
 

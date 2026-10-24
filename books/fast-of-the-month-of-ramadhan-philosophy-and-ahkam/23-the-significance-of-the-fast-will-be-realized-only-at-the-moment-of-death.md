@@ -58,4 +58,3 @@ ugliest the eyes can ever see; each hair on his body was a flame of
 fire. Ibrahim (as) then said, "By Allah! Had a disbeliever cast one look
 at you, it would have sufficed him."
 
-

@@ -79,7 +79,6 @@ FOR WHOM HE WILL). AND THEY REJOICED IN THIS LOWER LIFE (IN THIS WORLD),
 AND THE LIFE OF THIS WORLD (IN COMPARISON WITH THE LIFE) IN THE
 HEREAFTER IS ONLY A TRIFLING ENJOYMENT.
 
-
 **THE COMMENTARY
 THE CRIMINAL MAMMONIST (VERSE NO. 25 - 26)**
 
@@ -229,10 +228,8 @@ heartedly turns attention to God, and His power, wisdom and mercy,
 knowing His presence everywhere and in every time, willing to help his
 servant, what can disturb such a mind and make such a heart anxious?
 
-<p dir="rtl">
 كَذَلِكَ أَرْسَلْنَاكَ فِي أُمَّة قَدْ خَلَتْ مِنْ قَبْلِهَا أُمَمٌ
 لِّتَتْلُوَا عَلَيْهِمْ الَّذِي أَوْحَيْنَا إِلَيْكَ وَهُمْ
-</p>
 
 [ 335 ]
 
@@ -543,5 +540,4 @@ earned. Then how can we associate any partner with such a sacred and
 supreme being!?'' The verse then says:ِ \`\`Just
 
 [ 344 ]
-
 

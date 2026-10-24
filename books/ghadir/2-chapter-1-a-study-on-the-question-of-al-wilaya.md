@@ -1412,4 +1412,3 @@ Al-Wasaya;and Sahih Al-Bokhari, vol 1, Kitab as-Salh
 
 [^14]: 'Umdatul Qari'
 
-

@@ -7,10 +7,5 @@ Spilling Blood
 wrath and the cessation of blessings.
 
 > 1ـ سَفْكُ الدِّماءِ بِغَيْرِ حَقِّها يَدْعُوا إلى حُلُولِ النِقْمَةِ
-<blockquote dir="rtl">
-  <p>
-وزَوالِ النِّعْمَةِ.
-  </p>
-</blockquote>
-
+> وزَوالِ النِّعْمَةِ.
 

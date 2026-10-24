@@ -68,7 +68,6 @@ delight your eyes with it." Then Allah revealed: (Surely you cannot
 guide whom you love, but Allah guides whom He pleases, and He knows best
 the followers of the right way). (4)
 
-
 **The Narrators of the First Three Traditions**
 
 We started with the narrators of the first three traditions for some
@@ -390,7 +389,6 @@ wanted to increase the number of the polytheists, who would join him to
 justify his polytheistic situation? This tradition couldn't be trusted
 for many reasons; the incomplete and suspicious series of narrators and
 that it was objected by true and reliable traditions.
-
 
 **The Narrators of the Two Last Traditions**
 Here we discuss the series of narrators of each of the fourth and the

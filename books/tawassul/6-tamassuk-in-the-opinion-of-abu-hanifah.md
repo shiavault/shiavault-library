@@ -41,4 +41,3 @@ creatures have no obligatory right on the Creator.[^24]
 This viewpoint, even if it is considered general, is confined to the
 followers of Abu Hanifah and cannot be imposed on all schools of Islam.
 
-

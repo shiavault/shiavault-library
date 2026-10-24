@@ -684,4 +684,3 @@ al-Sawa'iq al-muharriqa; and, so on
 
 [^28]: Jami' ahadith shi'a, Vol. 1
 
-

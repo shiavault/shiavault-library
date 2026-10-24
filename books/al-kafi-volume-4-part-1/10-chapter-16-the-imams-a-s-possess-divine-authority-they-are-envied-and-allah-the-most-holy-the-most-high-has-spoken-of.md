@@ -82,7 +82,6 @@ great Kingdom." (4:54)
 of Abraham, Whoever would obey them he has obeyed Allah and whoever
 would disobey them has disobeyed Allah and thus is the great kingdom."
 
-
 **Chapter 17 : The Imams (a.s.) are the Sings of whom Allah, the Most
 Holy, the Most High, has spoken in the Holy Quran H 530, Ch. 17, h 1**
 
@@ -109,5 +108,4 @@ al-Washsha' who has said that he asked Imam al-Rida (a.s.) about the
 meaning of the words of Allah, the Most High, "Through the signs and
 with the star people do find their way." (16:16) The Imams (a. s.) said,
 "We are the signs and the messenger of Allah is the star,"
-
 

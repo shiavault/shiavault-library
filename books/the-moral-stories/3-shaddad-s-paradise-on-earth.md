@@ -99,7 +99,6 @@ The Holy Quran has truly described such people in these words:
 
 Because he sees himself free from want." (96: 6-7)
 
-
 **Ka'aba Against The Might of Elephants**
 
 During the sixth century around 570 A.D., before the advent of Islam,
@@ -175,12 +174,10 @@ downfall, he cannot prevail against God.
 The Holy Qura'n has in eloquent words described this incident as
 follows:
 
-
 "Have you not considered how your Lord dealt with the companions of the
 elephant?
 
 Did He not cause their war to end in confusion, And send down (to prey)
 upon them birds in flocks, Casting against them stones of baked clay, So
 He rendered them like straw eaten up" (105: 1-5)
-
 

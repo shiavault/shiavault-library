@@ -78,11 +78,7 @@ postponed.[^2]
 narrated from Fudail bin Yasar that he said: I asked Imam Ja’far Sadiq
 (as) regarding the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ..
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ..
 
 ***(Remember) the day when We will call every people with their Imam.
 (Qur’an, Surah Isra 17:71)***
@@ -109,11 +105,7 @@ sign; for if you know the signs, it will not cause any harm to you
 whether this matter is advanced or postponed. Indeed Allah, the Mighty
 and Sublime has said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
 
 ***(Remember) the day when We will call every people with their Imam.
 (Qur’an, Surah Isra 17:71)***
@@ -280,5 +272,4 @@ faith for you, so should act on it…[^10]
 
 [^10]: Tafseer Al-Burhan; Sayyid Hashim Bahrani; Vol. 2, Pg. 34, Tr. No.
 3
-
 

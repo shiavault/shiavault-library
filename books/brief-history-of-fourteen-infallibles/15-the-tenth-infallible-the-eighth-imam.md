@@ -189,4 +189,3 @@ precautions; asking Allah for Paradise without enduring the related
 hardships; beseeching deliverance from the Hell-fire without refraining
 from lusts; remembering Allah without anticipating to encounter Him.
 
-

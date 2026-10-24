@@ -269,4 +269,3 @@ have rejected my attempts. You are still following your deviated ideas."
 Hamid left Fitnah alone. She understood that her wicked plan had
 backfired, destroying her life. She had lost everything.
 
-

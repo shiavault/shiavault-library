@@ -74,4 +74,3 @@ limit, which when crossed becomes fool-hardiness. Let this moral lesson
 suffice: refrain from doing anything which you would disapprove of if
 done by someone else.
 
-

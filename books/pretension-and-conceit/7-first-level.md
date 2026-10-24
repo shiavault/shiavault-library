@@ -16,4 +16,3 @@ In the **second** degree, he clears himself of or puts it above false
 beliefs, seeking distinction and prominence in the hearts whether
 explicitly or implicitly.
 
-

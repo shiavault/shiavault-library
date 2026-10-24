@@ -305,4 +305,3 @@ unto one who is dragged into hypocrisy!
 1 We will explain, by the Wilf of Aflah, how conviction is an act of
 the heart [of the innermost].
 
-

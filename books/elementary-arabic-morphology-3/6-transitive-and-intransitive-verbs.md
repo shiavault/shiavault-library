@@ -31,4 +31,3 @@ example: **رَغِبتُ في العلمِ.**
 29. A transitive verb is made intransitive if it is put in the forms of
 mutawa'ah, for example: **جمَّعتُهُ** **فَتَجَمَّعَ.**
 
-

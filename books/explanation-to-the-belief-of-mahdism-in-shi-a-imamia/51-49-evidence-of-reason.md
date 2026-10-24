@@ -88,4 +88,3 @@ the truth.” Abu Hanifa, a student of Imam Sadiq (as) too admits the
 greatness of the truth surrounding the Prophet’s Household, the Ahlul
 Bait. But all this is a lie to the writer. We leave him to Bukhari.
 
-

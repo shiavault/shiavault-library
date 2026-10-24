@@ -484,4 +484,3 @@ agreed on tearing the remains of the agreement into small bits. That
 meant the end of the boycott. Due to the failure of the Quraishi boycott
 of the faithful, new converts were won to Islam inside Mecca.
 
-

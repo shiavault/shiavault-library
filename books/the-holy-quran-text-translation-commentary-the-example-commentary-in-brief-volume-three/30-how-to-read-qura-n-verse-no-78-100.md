@@ -82,7 +82,6 @@ AND THEY ARE THE LIARS.
 
 THE COMMENTARY
 
-
 THE DEFAMED LIE (VERSE NO. 101 - 105)
 
 The reference here again is to some of the objections of the Pagan
@@ -181,7 +180,6 @@ painful punishment.
 This is because the wicked people accuse the man of God of foring lies,
 while they themselves are liars and beliers.
 
-
 مَنْ كَفَرَ بِاللهِ مِنْ بَعْدِ إِيمَانِهِ إِلاَّ مَنْ أُكْرِهَ
 وَقَلْبُهُ مُطْمَئِنٌّ بِالاِْيمَانِ وَلَكِنْ مَّنْ شَرَحَ بِالْكُفْرِ
 صَدْراً فَعَلَيْهِمْ غَضَبٌ مِّنْ اللهِ وَلَهُمْ عَذَابٌ عَظِيمٌ(( 106
@@ -226,11 +224,9 @@ ALL-FORGIVING, COMPASSIONATE.
 OF OTHERS), AND EVERY SOUL SHALL BE REQUITED FOR HIS DEEDS, AND THEY ARE
 NOT OPPRESSED.
 
-
 [ 515 ]
 
 THE COMMENTARY
-
 
 OCCASION OF THE REVELATION (VERSE NO. 106 - 111)
 
@@ -251,7 +247,6 @@ sufferance and confirmed his faith saying:ِ
 
 \`\`I know Amma"r better than all. He is full of faith from his tip to
 toe, and belief is mingled with his flesh and blood.''
-
 
 THE APOSTATE IN ISLAM (VERSE NO. 106)
 
@@ -300,7 +295,6 @@ all forgiving, compassionate.''
 This verse implies that an apostate can be forgiven if he repents and
 returns to belief and good deeds.
 
-
 وَضَرَبَ اللهُ مَثَلا قَرْيَةً كَانَتْ آمِنَةً مُّطْمَئِنَّةً
 يَأْتِيهَا رِزْقُهَا رَغَداً مِنْ كُلِّ مَكَان فَكَفَرَتْ بِأَنْعُمِ
 اللهِ فَأَذَاقَهَا اللهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا
@@ -327,9 +321,7 @@ OPPRESSORS.
 LAWFUL AND CLEAN, AND BE THANKFUL FOR ALLAH'S BOUNTY IF YOU ARE TO
 WORSHIP HIM.
 
-
 THE COMMENTARY
-
 
 THOSE WHO WERE UNGRATEFUL WERE AFFLICTED (VERSE NO. 112 - 114)
 
@@ -359,7 +351,6 @@ which is a rightful share of the poor and the needy in the other's
 wealth, and falsely ascribing to Allah any prohibition, or making
 superstitious taboos.
 
-
 IS THAT A SIMILITUDE OR NARRATIVE?
 
 The parable may be taken in general, but because the verbs in the verse
@@ -379,7 +370,6 @@ On the other hand the history of Mankind is full of such incidents that
 a nation, or a group of people, or a town, lived in abundance; and when
 they bacame thankless to God's bounty, they tasted hunger and terror
 after security and abundant supplies.
-
 
 إِنَّمَا حَرَّمَ عَلَيْكُمْ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيرِ
 وَمَا أُهِلَّ لِغَيْرِ اللهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغ وَلاَ عَاد
@@ -419,11 +409,9 @@ YOU BEFORE; AND WE OPPRESSED THEM NOT, BUT THEY OPPRESSED THEMSELVES.
 REPENTED AFTER THAT, AND BECAME RIGHTEOUS; YOUR LORD IS AFTER IT,
 ALL-FORGIVING, COMPASSIONATE.
 
-
 [ 520 ]
 
 THE COMMENTARY
-
 
 LIARS WILL NEVER PROSPER (VERSE NO. 115 - 119)
 
@@ -479,7 +467,6 @@ misfortune. Those who did evil deeds through ignorance, but repented and
 returned, and stationed among the righteous, they will find Allah
 All-forgiving, Compassionate.
 
-
 إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتاً للهِِ حَنِيفاً وَلَمْ يَكُنْ
 مِنَ الْمُشْرِكِينَ(( 120 ))
 
@@ -514,9 +501,7 @@ FAITH, (AS HE WAS) AND HE WAS NOT OF THE POLYTHEISTS.
 DIFFERED IN IT. AND YOUR LORD WILL JUDGE AMONG THEM IN THE RESURRECTION
 DAY, IN WHAT THEY WERE DIFFERING.
 
-
 THE COMMENTARY
-
 
 ABRAHAM, ALONE, WAS A NATION (VERSE NO. 120 - 124)
 
@@ -570,7 +555,6 @@ to the Resurrection Day, in which, God will judge on it and they will
 come to know how far have they gone astray from the path and creed of
 Abraham.
 
-
 ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
 وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ
 ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ(( 125 ))
@@ -581,7 +565,6 @@ BEST WHO HAS STRAYED FROM HIS PATH, AND HE KNOWS BEST THOSE WHO ARE
 GUIDED.
 
 [ 524 ]
-
 
 126- AND IF YOU PUNISHED, THEN PUNISH THE LIKE OF WHAT YOU HAVE BEEN
 PUNISHED; AND IF YOU BE PATIENT (FORGIVING) IT IS INDEED BETTER FOR THE
@@ -599,7 +582,5 @@ YOU)
 
 128- VERILY ALLAH IS WITH THOSE WHO ARE PIOUS AND THOSE WHO DO GOOD.
 
-
 THE COMMENTARY
-
 

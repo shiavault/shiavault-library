@@ -95,4 +95,3 @@ look at it I remember this world and its embellishments'."*[^4]
 
 [^4]: Nahj al Balaghah, sermon 159.
 
-

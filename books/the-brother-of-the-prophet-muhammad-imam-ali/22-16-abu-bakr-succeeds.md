@@ -989,4 +989,3 @@ Fadha-il Al-Khamsah Virtue of the Five) Part 2 p. 23.
 
 [^35]: Imam Ahmad in his Al-Musnad Part 1 p. 5.
 
-

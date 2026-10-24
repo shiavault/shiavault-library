@@ -89,11 +89,7 @@ apologizes for it in my left ear, I will surely accept his apology
 because I heard Amir al-Mu’minin ‘Ali ibn Abi Ṭalib (as) narrate a
 *hadith* from my grandfather the Prophet of Allah (S) that,[^10]
 
-<blockquote dir="rtl">
-  <p>
-لا يرد الحوض من لم يقبل العذر من محقّ او مبطل.
-  </p>
-</blockquote>
+> لا يرد الحوض من لم يقبل العذر من محقّ او مبطل.
 
 ***The one who does not accept apologies, whether the apology is true or
 not, will not pass the*** ***pond [hawd] of*** ***al-Kawthar’.”***
@@ -127,13 +123,9 @@ world’.”[^13]
 2. On his own chain of transmission, al-Hakim al-Neyshaburi recounts
 that, “Salman Farsi said, ‘Allah’s Prophet (S) used to say,
 
-<blockquote dir="rtl">
-  <p>
-«الحسن والحسين إبناي، من أحبّهما احبّني، ومن أحبّني أحبّه الله، ومن
-أحبّه الله أدخله الجنة، ومن أبغضهما أبغضني، ومن أبغضني أبغضه الله، ومن
-أبغضه الله أدخله النار.»
-  </p>
-</blockquote>
+> «الحسن والحسين إبناي، من أحبّهما احبّني، ومن أحبّني أحبّه الله، ومن
+> أحبّه الله أدخله الجنة، ومن أبغضهما أبغضني، ومن أبغضني أبغضه الله، ومن
+> أبغضه الله أدخله النار.»
 
 ‘Al-Hasan and al-Husayn are my two children. Whoever loves them has in
 fact loved me. Whoever loves me is loved by Allah and whoever is loved
@@ -144,11 +136,7 @@ Allah will be cast into the hell fire.’’”[^14]
 3. Also on his own chain of transmission, al-Hakim al-Neyshaburi has
 narrated that, “Ibn ‘Umar said, ‘The Prophet of Allah (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«الحسن والحسين سيدا شباب أهل الجنة وأبوهما خيرٌ منهما.»
-  </p>
-</blockquote>
+> «الحسن والحسين سيدا شباب أهل الجنة وأبوهما خيرٌ منهما.»
 
 ‘Al-Hasan and al-Husayn are the chiefs of the youths of Paradise, and
 their father is better than these two.’’”[^15]
@@ -171,12 +159,8 @@ Finally, the Prophet (S) managed to catch al-Husayn (as).
 on his head. Finally, they embraced and kissed each other. The Prophet
 (S) then said,
 
-<blockquote dir="rtl">
-  <p>
-حسين منّي وأنا منه، أحبّ الله من أحبّه، الحسن والحسين سبطان من
-الأسباط.
-  </p>
-</blockquote>
+> حسين منّي وأنا منه، أحبّ الله من أحبّه، الحسن والحسين سبطان من
+> الأسباط.
 
 ‘Al-Husayn is from me and I am from al-Husayn. Allah loves whoever loves
 al-Husayn. Al-Hasan and al-Husayn are two of my grandchildren’.”[^17]
@@ -450,5 +434,4 @@ Holy Prophet (s), but they met his companions.
 [^36]: ‘Allimu Awladakum Mahabbata Al-i Bayt-i al-Nabi (as), p. 133.
 
 [^37]: A‘lam al-Nisa’, vol. 1, p. 28.
-
 

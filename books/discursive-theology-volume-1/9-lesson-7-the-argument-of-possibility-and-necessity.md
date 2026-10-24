@@ -17,12 +17,8 @@ theologian, who, in turn, has learned it from Ibn Sīnā. The firmness of
 this argument has led Muḥaqqiq al-Ṭūsī to rely on it mostly in his book
 *Tajrīd al-Aqā’id* in proving the existence of God. In his words,
 
-<blockquote dir="rtl">
-  <p>
-اَلمَوْجودُ إنْ كانَ واجِباً فَهُوَ الْمَطْلوبُ، وَإلاّ اِسْتَلزَمَهُ
-دَفْعاً لِلدَّوْرِ وَالتَّسَلْسُلِ.
-  </p>
-</blockquote>
+> اَلمَوْجودُ إنْ كانَ واجِباً فَهُوَ الْمَطْلوبُ، وَإلاّ اِسْتَلزَمَهُ
+> دَفْعاً لِلدَّوْرِ وَالتَّسَلْسُلِ.
 
 That is to say, “If the existent (to whose existence there is no doubt)
 is the Necessary Being (*wajib al-wujūd*) by essence, our object of
@@ -240,5 +236,4 @@ p. 19.
 [^4]: This argument is made by ‘Allāmah Muḥammad Taqī Ja‘farī in his
 book Barguzīdeh-ye Afkār-e Russell (A Selection of Russell’s Ideas), p.
 71.
-
 

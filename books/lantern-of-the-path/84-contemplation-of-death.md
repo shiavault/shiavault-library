@@ -32,4 +32,3 @@ That is why some yearn for death while others hate it. The Holy Prophet
 said, 'If a person loves to meet Allah, Allah loves to meet him; and if
 a person hates to meet Allah, the Allah hates to meet him.'
 
-

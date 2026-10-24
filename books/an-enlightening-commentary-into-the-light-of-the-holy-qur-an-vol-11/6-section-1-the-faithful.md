@@ -4,25 +4,13 @@ Section 1: The Faithful
 Surah al-Mu’minun , Verses 1-2
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ فِي صَلاَتِهِمْ خَاشِعُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ فِي صَلاَتِهِمْ خَاشِعُونَ
 
 ***1. “Successful indeed are the believers, ”***  
 ***2. “Who are humble in their prayers, ”***
@@ -285,17 +273,9 @@ Almighty and Glorious.”*[^21]
 Surah al-Mu’minun - Verses 3-4
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ
 
 ***3. “And those who keep aloof from (what is) vain, ”***  
 ***4. “And those who are active in giving the poor due (zakat), ”***
@@ -647,24 +627,12 @@ when he is able not to use it.”*[^52]
 Surah al-Mu’minun - Verses 5-7
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عَلَي أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فإِنَّهُمْ
-غَيْرُ مَلُومِينَ
-  </p>
-</blockquote>
+> إِلاَّ عَلَي أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فإِنَّهُمْ
+> غَيْرُ مَلُومِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ ابْتَغَي وَرَآءَ ذَلِكَ فَأُوْلَئِكَ هُمُ الْعَادُونَ
-  </p>
-</blockquote>
+> فَمَنِ ابْتَغَي وَرَآءَ ذَلِكَ فَأُوْلَئِكَ هُمُ الْعَادُونَ
 
 ***5. “And those who guard their private parts, ”***  
 ***6. “Save from their wives or the (slaves) that their right hands
@@ -777,11 +745,7 @@ limbs, one of which is the stomach and the other is the pudendum
 Surah al-Mu’minun - Verse 8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لاَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لاَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
 
 ***8. “And those who are keepers of their trusts and their covenant,
 ”***
@@ -896,11 +860,7 @@ deposits to the good and the bad.”*[^69]
 Surah al-Mu’minun - Verse 9
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَلَي صَلَوَاتِهِمْ يُحَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَلَي صَلَوَاتِهِمْ يُحَافِظُونَ
 
 ***9. “And those who take care of their prayers, ”***
 
@@ -1011,17 +971,9 @@ training the self.
 Surah al-Mu’minun - Verses 10-11
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ هُمُ الْوَارِثُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ هُمُ الْوَارِثُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ
 
 ***10. “These, they are the heirs, ”***  
 ***11. “Those who will inherit the Paradise: Therein they will
@@ -1150,17 +1102,9 @@ And he also said:
 Surah al-Mu’minun - Verses 12-13
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الإِنسَانَ مِن سُلاَلَةٍ مِن طِينٍ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الإِنسَانَ مِن سُلاَلَةٍ مِن طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ
 
 ***12. “And certainly We created man from an extract of clay, ”***  
 ***13. “Then We placed him (as a drop of) sperm in a safe lodging;”***
@@ -1226,14 +1170,10 @@ are under His control.
 Surah al-Mu’minun - Verse 14
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً
-فَخَلَقْنَا الْمُضْغَةَ عِظَاماً فَكَسَوْنَا الْعِظَامَ لَحْماً ثُمَّ
-أَنشَأْنَاهُ خَلْقاً ءَاخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ
-الْخَالِقِينَ
-  </p>
-</blockquote>
+> ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً
+> فَخَلَقْنَا الْمُضْغَةَ عِظَاماً فَكَسَوْنَا الْعِظَامَ لَحْماً ثُمَّ
+> أَنشَأْنَاهُ خَلْقاً ءَاخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ
+> الْخَالِقِينَ
 
 ***14. “Then We created of the sperm a clot, then We made the clot a
 lump of flesh, then We made the lump of flesh bones, then We clothed the
@@ -1402,17 +1342,9 @@ Qur’an chooses its sentences and phrases.”*
 Surah al-Mu’minun - Verses 15-16
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّكُم بَعْدَ ذَلِكَ لَمَيّـِتُونَ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّكُم بَعْدَ ذَلِكَ لَمَيّـِتُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ
 
 ***15. “Then verily after that you shall die.”***  
 ***16. “Then verily on the Day of Resurrection you will beraised,
@@ -1572,12 +1504,8 @@ on that Day there will be no deed (that you can do).”*[^103]
 Surah al-Mu’minun - Verse 17
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ
-الْخَلْقِ غَافِلِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ
+> الْخَلْقِ غَافِلِينَ
 
 ***17. “And We have created above you seven paths, and We are never
 unmindful of (Our) creation.”***
@@ -1658,12 +1586,8 @@ presence.
 Surah al-Mu’minun - Verse 18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا مِنَ السَّمآءِ مَآءً بِقَدَرٍ فَاَسْكَنَّاهُ فِي الاَرْضِ
-وَإِنَّا عَلَي ذَهَابٍ بِهِ لَقَادِرُونَ
-  </p>
-</blockquote>
+> وَأَنزَلْنَا مِنَ السَّمآءِ مَآءً بِقَدَرٍ فَاَسْكَنَّاهُ فِي الاَرْضِ
+> وَإِنَّا عَلَي ذَهَابٍ بِهِ لَقَادِرُونَ
 
 ***18. “And We sent down water from the sky in measure, and We lodged it
 in the earth, and verily We are able to take it away”***
@@ -1734,12 +1658,8 @@ underground sources of water, not sources that are above the ground.
 Surah al-Mu’minun - Verse 19
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَنشَأْنَا لَكُم بِهِ جَنَّاتٍ مِن نَّخِيلٍ وَأَعْنَابٍ لَّكُمْ
-فِيهَا فَوَاكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ
-  </p>
-</blockquote>
+> فَاَنشَأْنَا لَكُم بِهِ جَنَّاتٍ مِن نَّخِيلٍ وَأَعْنَابٍ لَّكُمْ
+> فِيهَا فَوَاكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ
 
 ***19. “Then We produced for you therewith gardens of date palms and
 grapes, wherein is much fruit for you and whereof you eat;”***
@@ -1786,12 +1706,8 @@ water. Allah’s law is one and covers all things.
 Surah al-Mu’minun - Verse 20
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنبُتُ بِالدُّهْنِ َصِبْغٍ
-لّـِلأَكِلِينَ
-  </p>
-</blockquote>
+> وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنبُتُ بِالدُّهْنِ َصِبْغٍ
+> لّـِلأَكِلِينَ
 
 ***20. “And a tree springing out of Mount Sinai, which produces oil and
 seasoning for those who eat.”***
@@ -1865,18 +1781,10 @@ its various vitamins give power and strength to the body.
 Surah al-Mu’minun - Verses 21-22
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَكُمْ فِي الاَنْعَامِ لَعِبْرَةً نُسْقِيكُم مّـِمَّا فِي
-بُطُونِهَا وَلَكُمْ فِيهَا مَنَافِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ
-  </p>
-</blockquote>
+> وَإِنَّ لَكُمْ فِي الاَنْعَامِ لَعِبْرَةً نُسْقِيكُم مّـِمَّا فِي
+> بُطُونِهَا وَلَكُمْ فِيهَا مَنَافِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَيْهَا وَعَلَي الْفُلْكِ تُحْمَلُونَ
-  </p>
-</blockquote>
+> وَعَلَيْهَا وَعَلَي الْفُلْكِ تُحْمَلُونَ
 
 ***21. “And verily there is a lesson for you in the cattle. We give you
 to drink of that which is in their bellies, and you have many benefits
@@ -2190,5 +2098,4 @@ Abul-Qasim Imamy. P.236
 [^107]: Nur-uth-Thaqalayn, Vol. 3, p. 63
 
 [^108]: Man la yahduruhul-Faqih, Vol. 3, p. 372
-
 

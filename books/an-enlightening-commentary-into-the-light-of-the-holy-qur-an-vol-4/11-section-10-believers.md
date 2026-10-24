@@ -9,12 +9,8 @@ Hereafter -Reward for those Who endeavour in the way of the Lord.
 Surah An-Nisa', Verse 71
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ خُذُواْ حِذْرَكُمْ فَانفِرُواْ ثُبَاتٍ
-أَوِ انفِرُواْ جَمِيعًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ خُذُواْ حِذْرَكُمْ فَانفِرُواْ ثُبَاتٍ
+> أَوِ انفِرُواْ جَمِيعًا
 
 **71.** ***"O' you who have Faith! Take your precaution (keep weapon
 with yourselves), then either advance in parties or march off all
@@ -62,12 +58,8 @@ Muslims.
 Surah An-Nisa', Verse 72
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَابَتْكُم مُّصِيبَةٌ
-قَالَ قَدْ أَنْعَمَ اللّهُ عَلَيَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًا
-  </p>
-</blockquote>
+> وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَابَتْكُم مُّصِيبَةٌ
+> قَالَ قَدْ أَنْعَمَ اللّهُ عَلَيَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًا
 
 **72.** ***"And verily some of you there are that loiter; if then a
 misfortune befalls you he says: 'Allah has blessed me in this that I was
@@ -93,13 +85,9 @@ this that I was not present with them'."***
 Surah An-Nisa', Verse 73
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَصَابَكُمْ فَضْلٌ مِّنَ الله لَيَقُولَنَّ كَأَن لَّمْ تَكُن
-بَيْنَكُمْ وَبَيْنَهُ مَوَدَّةٌ يَا لَيتَنِي كُنتُ مَعَهُمْ فَأَفُوزَ
-فَوْزًا عَظِيمًا
-  </p>
-</blockquote>
+> وَلَئِنْ أَصَابَكُمْ فَضْلٌ مِّنَ الله لَيَقُولَنَّ كَأَن لَّمْ تَكُن
+> بَيْنَكُمْ وَبَيْنَهُ مَوَدَّةٌ يَا لَيتَنِي كُنتُ مَعَهُمْ فَأَفُوزَ
+> فَوْزًا عَظِيمًا
 
 **73.** ***"And if some grace from Allah befalls you, he would certainly
 say - as if there had not been any friendship between you and him - 'I
@@ -127,13 +115,9 @@ achievement!' "***
 Surah An-Nisa', Verse74
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلْيُقَاتِلْ فِي سَبِيلِ اللّهِ الَّذِينَ يَشْرُونَ الْحَيَاةَ
-الدُّنْيَا بِالآخِرَةِ وَمَن يُقَاتِلْ فِي سَبِيلِ اللّهِ فَيُقْتَلْ
-أَو يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> فَلْيُقَاتِلْ فِي سَبِيلِ اللّهِ الَّذِينَ يَشْرُونَ الْحَيَاةَ
+> الدُّنْيَا بِالآخِرَةِ وَمَن يُقَاتِلْ فِي سَبِيلِ اللّهِ فَيُقْتَلْ
+> أَو يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا
 
 **74.** ***" So let those fight in the way of Allah who sell the life of
 this world for the Hereafter , and whoever fights in the way of Allah,
@@ -170,15 +154,11 @@ effective factors in the progression of Muslims.
 Surah An-Nisa', Verse 75
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَكُمْ لاَ تُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَالْمُسْتَضْعَفِينَ
-مِنَ الرِّجَالِ وَالنِّسَاء وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ
-رَبَّنَا أَخْرِجْنَا مِنْ هَـذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا
-وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَاجْعَل لَّنَا مِن لَّدُنكَ
-نَصِيرً }
-  </p>
-</blockquote>
+> وَمَا لَكُمْ لاَ تُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَالْمُسْتَضْعَفِينَ
+> مِنَ الرِّجَالِ وَالنِّسَاء وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ
+> رَبَّنَا أَخْرِجْنَا مِنْ هَـذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا
+> وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَاجْعَل لَّنَا مِن لَّدُنكَ
+> نَصِيرً }
 
 **75.** ***"And what has happened to you that you should not fight in
 the way of Allah and for the weak among men, women and children who say:
@@ -230,13 +210,9 @@ government."* [^1]
 Surah An-Nisa', Verse 76
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُواْ يُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَالَّذِينَ
-كَفَرُواْ يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُواْ أَوْلِيَاء
-الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُواْ يُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَالَّذِينَ
+> كَفَرُواْ يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُواْ أَوْلِيَاء
+> الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا
 
 **76.** ***"Those who believe fight in the way of Allah, and those who
 disbelieve fight in the way of Taghut (Satan). Fight, therefore,
@@ -268,5 +244,4 @@ It is so, because their plots are founded on the Satanic forces. .
 
 [^1]: At-Tafsir-us-Safi, Vol. 1, P. 371, & Tafsir-ul-Burhan, Vol. 1,
 394.
-
 

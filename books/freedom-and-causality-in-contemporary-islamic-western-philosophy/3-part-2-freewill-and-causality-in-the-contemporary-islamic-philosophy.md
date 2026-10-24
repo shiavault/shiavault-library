@@ -1118,4 +1118,3 @@ ultimate (initial) principles’ (1993, p. 48)
 [^23]: Al Hashimi, 1997, Vol. 2, p. 37 & Al Ha’iri handwritings,
 pp.419-420
 
-

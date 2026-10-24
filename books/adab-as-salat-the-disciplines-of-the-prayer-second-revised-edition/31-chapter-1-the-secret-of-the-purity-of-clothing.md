@@ -181,4 +181,3 @@ Maxims, p. 32.
 
 [^7]: A poem by Mawlawī
 
-

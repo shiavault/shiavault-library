@@ -4,11 +4,7 @@ Section 5: The Kingdom of the Universe Belongs to Allah
 Surah Ya-Sin - Verse 68
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن نُعَمّـِرْهُ نُنَكّـِسْهُ فِي الْخَلْقِ أَفَلاَ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَن نُعَمّـِرْهُ نُنَكّـِسْهُ فِي الْخَلْقِ أَفَلاَ يَعْقِلُونَ
 
 ***68. “And whomever We cause to live long, We reverse him to an abject
 state in constitution; do they not then understand?”***
@@ -98,12 +94,8 @@ death.”*[^1]
 Surah Ya-Sin - Verse 69
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا عَلَّمْنَاهُ الشّـِعْرَ وَمَا يَنبَغِي لَهُ إِنْ هُوَ إِلاَّ
-ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ
-  </p>
-</blockquote>
+> وَمَا عَلَّمْنَاهُ الشّـِعْرَ وَمَا يَنبَغِي لَهُ إِنْ هُوَ إِلاَّ
+> ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ
 
 ***69. “And We have not taught him poetry, nor would it beseem him; it
 is naught but a Reminder and manifesting Qur’an,”***
@@ -153,11 +145,7 @@ Yes, with negation of poetry from the Prophet (S), the Qur’an adds:
 Surah Ya-Sin - Verse 70
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيُنذِرَ مَن كَانَ حَيّاً وَيَحِقَّ الْقَوْلُ عَلَي الْكَافِرِينَ
-  </p>
-</blockquote>
+> لِيُنذِرَ مَن كَانَ حَيّاً وَيَحِقَّ الْقَوْلُ عَلَي الْكَافِرِينَ
 
 ***70. “That it may warn him who is alive and the Word may be proved
 against the disbelievers.”***
@@ -279,18 +267,10 @@ whole value of man has also been put in this very section.
 Surah Ya-Sin - Verses 71-72
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُم مّـِمَّا عَمِلَتْ أَيْدِينَا
-أَنْعَاماً فَهُمْ لَهَا مَالِكُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُم مّـِمَّا عَمِلَتْ أَيْدِينَا
+> أَنْعَاماً فَهُمْ لَهَا مَالِكُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
-  </p>
-</blockquote>
+> وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
 
 ***71. “Have they not seen that We have created for them of that Our
 hands wrought cattle that of them they own?”***  
@@ -340,11 +320,7 @@ But man, who is in need of both of them is disobedient:
 Surah Ya-Sin - Verse 73
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ أَفَلاَ يَشْكُرُونَ
-  </p>
-</blockquote>
+> وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ أَفَلاَ يَشْكُرُونَ
 
 ***73. “And therein they have benefits and drinks, will they not then be
 grateful?”***
@@ -407,17 +383,9 @@ the pleasure of its drinkers and is the source of strength for the weak.
 Surah Ya-Sin - Verses 74-75
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذُوا مِن دُونِ اللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
-  </p>
-</blockquote>
+> وَاتَّخَذُوا مِن دُونِ اللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ
-  </p>
-</blockquote>
+> لاَ يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ
 
 ***74. “And they have taken gods besides Allah, haply they might be
 helped.”***  
@@ -458,12 +426,8 @@ that they themselves be willing to it is the sign of their humiliation.
 Surah Ya-Sin - Verse 76
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ يَحْزُنكَ قَوْلُهُمْ إِنَّا نعْلَمُ مَا يُسِرُّونَ وَمَا
-يُعْلِنُونَ
-  </p>
-</blockquote>
+> فَلاَ يَحْزُنكَ قَوْلُهُمْ إِنَّا نعْلَمُ مَا يُسِرُّونَ وَمَا
+> يُعْلِنُونَ
 
 ***76. “Therefore, let not their speech grieve you. Verily We know what
 they do in secret and what they do openly.”***
@@ -496,19 +460,11 @@ moments and He will always be their supporter and protector.
 Surah Ya-Sin - Verses 77-78
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَ الإِنسَانُ أَنَّا خَلَقْنَاهُ مِن نُّطْفَةٍ فَإِذَا هُوَ
-خَصِيمٌ مُّبِينٌ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَ الإِنسَانُ أَنَّا خَلَقْنَاهُ مِن نُّطْفَةٍ فَإِذَا هُوَ
+> خَصِيمٌ مُّبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ لَنَا مَثَلاً وَنَسِيَ خَلْقَهُ قَالَ مَن يُحْيِ الْعِظَامَ
-وَهِيَ رَمِيمٌ
-  </p>
-</blockquote>
+> وَضَرَبَ لَنَا مَثَلاً وَنَسِيَ خَلْقَهُ قَالَ مَن يُحْيِ الْعِظَامَ
+> وَهِيَ رَمِيمٌ
 
 ***77. “Has not man seen that We created him of a sperm-drop? Yet
 behold! He is an open disputant.”***  
@@ -662,12 +618,8 @@ dust at first?
 Surah Ya-Sin - Verse 79
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يُحْيِيهَا الَّذِي أَنشَاَهآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلّ‌ِ
-خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> قُلْ يُحْيِيهَا الَّذِي أَنشَاَهآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلّ‌ِ
+> خَلْقٍ عَلِيمٌ
 
 ***79. “Say: ‘He will enliven them who created them for the first time,
 and He knows all creation,”***
@@ -727,12 +679,8 @@ is clear with Him.
 Surah Ya-Sin - Verse 80
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَعَلَ لَكُم مِنَ الشَّجَرِ الأَخْضَرِ نَاراً فَإِذَآ أَنتُم
-مِنْهُ تُوقِدُونَ
-  </p>
-</blockquote>
+> الَّذِي جَعَلَ لَكُم مِنَ الشَّجَرِ الأَخْضَرِ نَاراً فَإِذَآ أَنتُم
+> مِنْهُ تُوقِدُونَ
 
 ***80. “He Who made for you fire from the green tree, and behold! from
 it you kindle (fire).”***
@@ -837,12 +785,8 @@ thousands years.
 Surah Ya-Sin - Verse 81
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ بِقَادِرٍ عَلَي أَن
-يَخْلُقَ مِثْلَهُم بَلَي وَهُوَ الْخَلاَّقُ الْعَلِيمُ
-  </p>
-</blockquote>
+> أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ بِقَادِرٍ عَلَي أَن
+> يَخْلُقَ مِثْلَهُم بَلَي وَهُوَ الْخَلاَّقُ الْعَلِيمُ
 
 ***81. “Is not He, Who created the heavens and the earth, able to create
 the like of them? Yes, (He can!) And he is the Creator (Omnipotent), the
@@ -899,18 +843,10 @@ the heavens and the earth is able to create the like man.
 Surah Ya-Sin - Verses 82-83
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَآ أَمْرُهُ إِذَآ أَرَادَ شَيْئاً أَن يَقُولَ لَهُ كُن فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّمَآ أَمْرُهُ إِذَآ أَرَادَ شَيْئاً أَن يَقُولَ لَهُ كُن فَيَكُونُ
 
-<blockquote dir="rtl">
-  <p>
-فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلّ‌ِ شَيْءٍ وَإِلَيْهِ
-تُرْجَعُونَ
-  </p>
-</blockquote>
+> فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلّ‌ِ شَيْءٍ وَإِلَيْهِ
+> تُرْجَعُونَ
 
 ***82. “His command, when he intends anything, is only to say to it
 ‘Be’, so it is.”***  
@@ -1031,5 +967,4 @@ the Resurrection is true.
 
 [^16]: Some more explanation may be studied in vol. 1, pp. 271-272 of
 the current commentary book
-
 

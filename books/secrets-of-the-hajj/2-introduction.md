@@ -76,12 +76,8 @@ obliged yourself to Him on the Day of Judgement.*
 *Know that Allah made the pilgrimage obligatory, and singled it out from
 all the acts of worship in respect of Himself when He said:*
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
-سَبِيلًا…
-  </p>
-</blockquote>
+> وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
+> سَبِيلًا…
 
 ***“Pilgrimage to the House is incumbent upon men for the sake of Allah,
 and [upon] everyone who is able to undertake the journey to it... “
@@ -116,5 +112,4 @@ Translator
 [^1]: This book has been translated into English by Fadlullah Haeri, and
 was originally published by Zahra Publications. The original title of
 the book in \`Arabic is Misbah al‑Shariyah wa Miftah al‑Haqiqah.
-
 

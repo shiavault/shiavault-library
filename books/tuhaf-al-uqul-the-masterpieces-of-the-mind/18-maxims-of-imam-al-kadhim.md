@@ -1026,4 +1026,3 @@ misfortune is one, while it is two for the impatient.
 35. Imam Al-Kadhim (peace be upon him) said: Only the sufferers of
 injustice can realize its intensity.
 
-

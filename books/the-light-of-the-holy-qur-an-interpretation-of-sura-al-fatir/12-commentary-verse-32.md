@@ -125,7 +125,6 @@ usually the foremost in all these affairs.
 
 Yes, the bearer of that heritage can be only such persons.
 
-
 **Commentary : Verse 33**
 
 (33) جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ
@@ -184,5 +183,4 @@ another kind of Alphabet, culture and dictionary. But, however, in order
 that an outline of those great bounties could be shown to us, the
 prisoners of this world, we must take help from the slight ability of
 these very words to explain those bounties.
-
 

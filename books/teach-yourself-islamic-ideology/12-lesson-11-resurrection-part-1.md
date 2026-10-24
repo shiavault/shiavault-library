@@ -324,4 +324,3 @@ being a material thing?
 
 4.Why are perceptions incorporeal substances?
 
-

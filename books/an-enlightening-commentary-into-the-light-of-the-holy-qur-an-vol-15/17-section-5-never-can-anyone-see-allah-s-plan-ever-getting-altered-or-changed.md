@@ -4,12 +4,8 @@ Section 5: Never Can Anyone See Allah’s Plan Ever Getting Altered or Changed
 Surah Al-Fatir - Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ عَالِمُ غَيْبِ السَّمَاوَاتِ وَالأَرْضِ إِنَّهُ عَلِيمٌ
-بِذَاتِ الصُّدُورِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ عَالِمُ غَيْبِ السَّمَاوَاتِ وَالأَرْضِ إِنَّهُ عَلِيمٌ
+> بِذَاتِ الصُّدُورِ
 
 ***38. “Verily Allah is the Knower of the unseen of the heavens and the
 earth; surely He knows all that is in the breasts (hearts).”***
@@ -47,13 +43,9 @@ knows it and compensates it accordingly.
 Surah Al-Fatir - Verse 39
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي جَعَلَكُمْ خَلآَئِفَ فِي الأَرْضِ فَمَن كَفَرَ فَعَلَيْهِ
-كُفْرُهُ وَلاَ يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ عِندَ رَبّـِهِمْ
-إِلاَّ مَقْتاً وَلاَ يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ إِلاَّ خَسَاراً
-  </p>
-</blockquote>
+> هُوَ الَّذِي جَعَلَكُمْ خَلآَئِفَ فِي الأَرْضِ فَمَن كَفَرَ فَعَلَيْهِ
+> كُفْرُهُ وَلاَ يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ عِندَ رَبّـِهِمْ
+> إِلاَّ مَقْتاً وَلاَ يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ إِلاَّ خَسَاراً
 
 ***39. “He is the One Who appointed you viceroys in the earth, so
 whoever disbelieves, his disbelief shall be against him, and their
@@ -143,15 +135,11 @@ obtain the increase of Wrath of Allah and loss.
 Surah Al-Fatir - Verse 40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ شُرَكَآءَكُمُ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ
-أَرُونِي مَاذَا خَلَقُوا مِنَ الأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي
-السَّمَاوَاتِ أَمْ ءَاتَيْنَاهُمْ كِتَاباً فَهُمْ عَلَي بَيّـِنَتٍ
-مّـِنْهُ بَلْ إِن يَعِدُ الظَّالِمُونَ بَعْضُهُم بَعْضاً اِلاَّ
-غُرُوراً
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ شُرَكَآءَكُمُ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ
+> أَرُونِي مَاذَا خَلَقُوا مِنَ الأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي
+> السَّمَاوَاتِ أَمْ ءَاتَيْنَاهُمْ كِتَاباً فَهُمْ عَلَي بَيّـِنَتٍ
+> مّـِنْهُ بَلْ إِن يَعِدُ الظَّالِمُونَ بَعْضُهُم بَعْضاً اِلاَّ
+> غُرُوراً
 
 ***40. “Say: ‘Have you seen your associates on whom you call, apart from
 Allah? Show me what they have created in the earth; or have they a
@@ -243,13 +231,9 @@ imitations.
 Surah Al-Fatir - Verse 41
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالأَرْضَ أَن تَزُولاَ وَلَئِن
-زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِن بَعْدِهِ إِنَّهُ كَانَ
-حَلِيماً غَفُوراً
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالأَرْضَ أَن تَزُولاَ وَلَئِن
+> زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِن بَعْدِهِ إِنَّهُ كَانَ
+> حَلِيماً غَفُوراً
 
 ***41. “Verily Allah holds the heavens and the earth lest they remove
 (from the orbit); and did they remove, none would hold them after Him;
@@ -356,13 +340,9 @@ bring forth a calamity.
 Surah Al-Fatir - Verse 42
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ
-لَّيَكُونُنَّ أَهْدَي مِنْ إِحْدَي الأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ
-مَّا زَادَهُمْ إِلاَّ نُفُوراً
-  </p>
-</blockquote>
+> وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ
+> لَّيَكُونُنَّ أَهْدَي مِنْ إِحْدَي الأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ
+> مَّا زَادَهُمْ إِلاَّ نُفُوراً
 
 ***42. “And they swore by Allah with the strongest oaths that if a
 Warner came to them, they would be more rightly guided than any one of
@@ -424,14 +404,10 @@ he (as) comes they stand against him.
 Surah Al-Fatir - Verse 43
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اسْتِكْبَاراً فِي الأَرْضِ وَمَكْرَ السّـِيئِ وَلاَ يَحِيقُ الْمَكْرُ
-السَّيّـِئُ اِلاَّ بِاَهْلِهِ فَهَلْ يَنظُرُونَ إِلاَّ سُنَّتَ
-الأَوَّلِينَ فَلَن تَجِد َلِسُنَّتِ اللَّهِ تَبْدِيلاً وَلَن تَجِدَ
-لِسُنَّتِ اللَّهِ تَحْوِيلاً
-  </p>
-</blockquote>
+> اسْتِكْبَاراً فِي الأَرْضِ وَمَكْرَ السّـِيئِ وَلاَ يَحِيقُ الْمَكْرُ
+> السَّيّـِئُ اِلاَّ بِاَهْلِهِ فَهَلْ يَنظُرُونَ إِلاَّ سُنَّتَ
+> الأَوَّلِينَ فَلَن تَجِد َلِسُنَّتِ اللَّهِ تَبْدِيلاً وَلَن تَجِدَ
+> لِسُنَّتِ اللَّهِ تَحْوِيلاً
 
 ***43. “On account of their arrogance in the earth, and devising evil;
 but evil devising encompasses only the devisers themselves; so do they
@@ -493,14 +469,10 @@ never shall you find in the course of Allah any change.”***
 Surah Al-Fatir - Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَسِيرُوا فِي الأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الَّذِينَ مِن قَبْلِهِمْ وَكَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَمَا
-كَانَ اللَّهُ لِيُعْجِزَهُ مِن شَيْءٍ فِي السَّمَاوَاتِ وَلاَ فِي
-الأَرْضِ إِنَّهُ كَانَ عَلِيماً قَدِيراً
-  </p>
-</blockquote>
+> أَوَلَمْ يَسِيرُوا فِي الأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الَّذِينَ مِن قَبْلِهِمْ وَكَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَمَا
+> كَانَ اللَّهُ لِيُعْجِزَهُ مِن شَيْءٍ فِي السَّمَاوَاتِ وَلاَ فِي
+> الأَرْضِ إِنَّهُ كَانَ عَلِيماً قَدِيراً
 
 ***44. “Have they not travelled in the earth and seen how was the end of
 those before them while they were stronger than them in power? Nor is
@@ -591,13 +563,9 @@ happen to them.
 Surah Al-Fatir - Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَي
-ظَهْرِهَا مِن دَآبَّةٍ وَلَكِن يُؤَخّـِرُهُمْ اِلَي أَجَلٍ مُّسَمًّي
-فَاِذَا جآءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيراً
-  </p>
-</blockquote>
+> وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَي
+> ظَهْرِهَا مِن دَآبَّةٍ وَلَكِن يُؤَخّـِرُهُمْ اِلَي أَجَلٍ مُّسَمًّي
+> فَاِذَا جآءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيراً
 
 ***45. “And if Allah were to seize the people (to punish them) for what
 they have earned, He would not leave on the back of it any creature; but
@@ -726,5 +694,4 @@ sincere Faith and Unity in our heart, and increase the light of piety in
 our speech and deeds.*
 
 [^1]: Nur-uth-Thaqalayn, Vol. 4, P. 370
-
 

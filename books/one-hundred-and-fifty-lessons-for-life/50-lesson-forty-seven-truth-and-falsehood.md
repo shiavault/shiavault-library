@@ -3,11 +3,7 @@ Lesson Forty Seven: Truth and Falsehood
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْحَقَّ ثَقِيْلٌ مَرِىءٌ، وَ إنَّ الْباطِلَ حَفِيفٌ وَبِىْءٌ
-  </p>
-</blockquote>
+> إنَّ الْحَقَّ ثَقِيْلٌ مَرِىءٌ، وَ إنَّ الْباطِلَ حَفِيفٌ وَبِىْءٌ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ becomes manifest when it is swallowed. The poison of falsehood also
 destroys different organs of society.
 
 [^1]: Bihar al-Anwar, volume 70, page 107
-
 

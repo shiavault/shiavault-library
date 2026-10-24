@@ -231,7 +231,6 @@ each and every day of our life, not only during the month of Ramadhan,
 the month of Allah, the month of forgiveness and mercy, but all our
 life.
 
-
 **Chapter 17 : When Fast is Prohibited**
 
 There are certain occasions when fast becomes unlawful; these are:
@@ -266,7 +265,6 @@ not to fast.
 Some Muslims, particularly Shi ‘as, may disagree with some of these
 eight items depending on who they follow as their marji’ taqlid. When in
 doubt, ask your marji’ or his representative, and Allah knows best.
-
 
 **Chapter 18 :It is the Month of the Holy Qur’an**
 
@@ -336,5 +334,4 @@ khbar, pp. 258-259).
 
 The Imam (as) has also said, "One who recites the Qur’an then dies and
 enters the fire is among those who took Allah’s signs lightly."
-
 

@@ -28,4 +28,3 @@ even unto death.”*** (Matthew 26:38). He himself said that it’s really
 his soul that was hesitating and not his body. These were Jesus’ own
 words.
 
-

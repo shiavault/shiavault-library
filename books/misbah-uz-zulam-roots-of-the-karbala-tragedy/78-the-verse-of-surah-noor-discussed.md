@@ -103,4 +103,3 @@ May Allah bless Muhammad and the Progeny of Muhammad.
 
 [^2]: Genesis 17:20
 
-

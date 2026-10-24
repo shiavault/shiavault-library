@@ -215,11 +215,7 @@ obligatory for us to be thankful to the Almighty Allah. Thus it is
 proved that there are countless justifications for us to be in service
 on the Holy Imam (as). Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا
-  </p>
-</blockquote>
+> وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا
 
 ***And if you would count Allah’s favors, you will not be able to number
 them.*** ***(Qur’an, Surah Nahl 16:18)***
@@ -293,5 +289,4 @@ trespassed the sanctity of Allah, the Mighty and Sublime.[^13]
 [^12]: Kaamiluz Ziaraat, Pg. 319, Chapter 105
 
 [^13]: Raudatul Kafi, Vol. 8, Pg. 102, Tr. No. 73
-
 

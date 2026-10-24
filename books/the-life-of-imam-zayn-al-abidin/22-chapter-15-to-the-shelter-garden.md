@@ -187,4 +187,3 @@ condolences.
 
 [^10]: Al-Kashi, Rijal, p. 76.
 
-

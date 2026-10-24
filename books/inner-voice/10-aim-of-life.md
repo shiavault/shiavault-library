@@ -43,4 +43,3 @@ and obey me”. (Qur’an, 51:56).***
 Forget this basic purpose of your creation and you have degraded
 yourself to a level far below than that of cow a maize.
 
-

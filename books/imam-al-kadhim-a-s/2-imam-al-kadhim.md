@@ -449,4 +449,3 @@ praise, social position and reputation. He did good, gave lavishly,
 helped the needy, and emancipated the slaves for the sake of Allah,
 demanding nothing in return.
 
-

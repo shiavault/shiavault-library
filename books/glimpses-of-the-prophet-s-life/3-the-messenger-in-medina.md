@@ -21,7 +21,6 @@ community" was one of the first activities of the Prophet in Medina.
 Muslims thus began to live a disciplined life and were kept on the
 alert.
 
-
 **The Battle Of Badr**
 
 It must be borned in mind that the migra- tion of Muslims to Medina was
@@ -127,7 +126,6 @@ act of benevolance which hardly finds any parallel in the history of
 mankind." The ransom fixed for the pris- oners was that those who knew
 to read and write should each teach ten Muslim boys the art. (13)
 
-
 **The Battle Of Uhud**
 
 Although the battle of Badr had resulted in a victory for the Muslims
@@ -176,7 +174,6 @@ was of the opinion that if Medina be fortified and defend ed against
 Quraysh, it could prove easier to repel the enemy from there. Leaders of
 the Muhajirun (immigrants) and Jews as well as were of the same
 opinion.
-
 
 (helpers)
 Ansar
@@ -260,5 +257,4 @@ loved (victory); of you were some who desired this world (booty) and of
 you were some who desired the next world; then He turned you away from
 them, that He may try you; and He pardoned you; and Allah is bounteous
 to the believers". (Qur'an, 3:152)
-
 

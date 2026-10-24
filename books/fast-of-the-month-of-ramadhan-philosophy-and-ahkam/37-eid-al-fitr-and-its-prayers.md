@@ -119,4 +119,3 @@ example, if noon is at 12:00 o'clock, the zawal is between 10:30 and
 prayers performed before or after the Eid prayer is, most likely, to
 highlight its great significance.
 
-

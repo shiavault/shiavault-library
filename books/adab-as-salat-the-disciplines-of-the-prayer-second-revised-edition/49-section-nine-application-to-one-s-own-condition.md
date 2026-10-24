@@ -143,4 +143,3 @@ hadīth 4, p. 196. 
 small matter, While in you is contained the biggest world. The poem is
 ascribed to Imām 'Alī ('a).
 
-

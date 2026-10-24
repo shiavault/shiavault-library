@@ -101,4 +101,3 @@ send him to me.”
 Prophet Mohammad said it to Imam ‘Ali exclusively, was used to every one
 to come to power in the Islamic State.
 
-

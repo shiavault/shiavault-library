@@ -8,12 +8,8 @@ There are the following verses in this connection:
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى
-النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا.
-  </p>
-</blockquote>
+> وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى
+> النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا.
 
 ***And thus We have made you a medium (just) nation that you may be the
 bearers of witness to the people and (that) the Apostle may be a bearer
@@ -21,25 +17,17 @@ of witness to you. (Sura Baqarah 2:143)***
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
-عَلَى هَؤُلَاءِ شَهِيدًا.
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
+> عَلَى هَؤُلَاءِ شَهِيدًا.
 
 ***How will it be, then, when We bring from every people a witness and
 bring you as a witness against these? (Sura Nisa 4:41)***
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
-وَالْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
-فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ.
-  </p>
-</blockquote>
+> وَقُلْ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
+> وَالْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
+> فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ.
 
 ***And say: Work; so Allah will see your work and (so will) His Apostle
 and the believers; and you shall be brought back to the Knower of the
@@ -48,14 +36,10 @@ Tawbah 9:105)***
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نَبْعَثُ فِي كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِمْ مِنْ
-أَنفُسِهِمْ وَجِئْنَا بِكَ شَهِيدًا عَلَى هَؤُلَاء وَنَزَّلْنَا
-عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً
-وَبُشْرَى لِلْمُسْلِمِينَ.
-  </p>
-</blockquote>
+> وَيَوْمَ نَبْعَثُ فِي كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِمْ مِنْ
+> أَنفُسِهِمْ وَجِئْنَا بِكَ شَهِيدًا عَلَى هَؤُلَاء وَنَزَّلْنَا
+> عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً
+> وَبُشْرَى لِلْمُسْلِمِينَ.
 
 ***And on the day when We will raise up in every people a witness
 against them from among themselves, and bring you as a witness against
@@ -65,16 +49,12 @@ everything, and a guidance and mercy and good news for those who submit.
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ
-عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ
-هُوَ سَمَّاكُمْ الْمُسْلِمينَ مِنْ قَبْلُ وَفِي هَذَا لِيَكُونَ
-الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ
-فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ
-مَوْلَاكُمْ فَنِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ.
-  </p>
-</blockquote>
+> وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ
+> عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ
+> هُوَ سَمَّاكُمْ الْمُسْلِمينَ مِنْ قَبْلُ وَفِي هَذَا لِيَكُونَ
+> الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ
+> فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ
+> مَوْلَاكُمْ فَنِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ.
 
 ***And strive hard in (the way of) Allah, (such) a striving as is due to
 Him; He has chosen you and has not laid upon you a hardship in religion;
@@ -86,13 +66,9 @@ Guardian and how excellent the Helper! (Sura Haj 22:78)***
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مِنْ كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا
-بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا
-كَانُوا يَفْتَرُونَ.
-  </p>
-</blockquote>
+> وَنَزَعْنَا مِنْ كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا
+> بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا
+> كَانُوا يَفْتَرُونَ.
 
 ***And We will draw forth from among every nation a witness and say:
 Bring your proof; then shall they know that the truth is Allah’s, and
@@ -100,13 +76,9 @@ that which they forged shall depart from them. (Sura Qasas 28:75)***
 
 Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرَقَتْ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ
-بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَهُمْ
-لَا يُظْلَمُونَ.
-  </p>
-</blockquote>
+> وَأَشْرَقَتْ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ
+> بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَهُمْ
+> لَا يُظْلَمُونَ.
 
 ***And the earth shall beam with the light of its Lord, and the Book
 shall be laid down, and the prophets and the witnesses shall be brought
@@ -115,13 +87,9 @@ shall not be dealt with unjustly. (Sura Zumar 39:69)***
 
 Eighth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنْ افْتَرَى عَلَى اللَّهِ كَذِبًا أُوْلَئِكَ
-يُعْرَضُونَ عَلَى رَبِّهِمْ وَيَقُولُ الْأَشْهَادُ هَؤُلَاءِ الَّذِينَ
-كَذَبُوا عَلَى رَبِّهِمْ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ.
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنْ افْتَرَى عَلَى اللَّهِ كَذِبًا أُوْلَئِكَ
+> يُعْرَضُونَ عَلَى رَبِّهِمْ وَيَقُولُ الْأَشْهَادُ هَؤُلَاءِ الَّذِينَ
+> كَذَبُوا عَلَى رَبِّهِمْ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ.
 
 ***And who is more unjust than he who forges a lie against Allah? These
 shall be brought before their Lord, and the witnesses shall say: These
@@ -130,15 +98,11 @@ on the unjust. (Sura Hud 11:18)***
 
 Ninth verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ كَانَ عَلَى بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ
-وَمِنْ قَبْلِهِ كِتَابُ مُوسَى إِمَامًا وَرَحْمَةً أُوْلَئِكَ
-يُؤْمِنُونَ بِهِ وَمَنْ يَكْفُرْ بِهِ مِنْ الْأَحْزَابِ فَالنَّارُ
-مَوْعِدُهُ فَلَا تَكُنْ فِي مِرْيَةٍ مِنْهُ إِنَّهُ الْحَقُّ مِنْ
-رَبِّكَ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ.
-  </p>
-</blockquote>
+> أَفَمَنْ كَانَ عَلَى بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ
+> وَمِنْ قَبْلِهِ كِتَابُ مُوسَى إِمَامًا وَرَحْمَةً أُوْلَئِكَ
+> يُؤْمِنُونَ بِهِ وَمَنْ يَكْفُرْ بِهِ مِنْ الْأَحْزَابِ فَالنَّارُ
+> مَوْعِدُهُ فَلَا تَكُنْ فِي مِرْيَةٍ مِنْهُ إِنَّهُ الْحَقُّ مِنْ
+> رَبِّكَ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ.
 
 ***Is he then who has with him clear proof from his Lord, and a witness
 from Him recites it and before it (is) the Book of Musa, a guide and a
@@ -148,11 +112,7 @@ do not believe. (Sura Hud 11:17)***
 
 Tenth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ.
-  </p>
-</blockquote>
+> وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ.
 
 ***And every soul shall come, with it a driver and a witness. (Sura Qaf
 50:21)***
@@ -265,12 +225,8 @@ Me? All the messengers will reply: We did convey. Then those communities
 will be asked: Did My messengers made you aware of My message? The
 disbelievers would deny as mentioned by Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ
-الْمُرْسَلِينَ.
-  </p>
-</blockquote>
+> فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ
+> الْمُرْسَلِينَ.
 
 ***Most certainly then We will question those to whom (the apostles)
 were sent, and most certainly We will also question the apostles; (Sura
@@ -278,11 +234,7 @@ Araf 7:6)***
 
 The disbelievers would say:
 
-<blockquote dir="rtl">
-  <p>
-(أَنْ تَقُولُوا) مَا جَاءَنَا مِنْ بَشِيرٍ وَلَا نَذِيرٍ.
-  </p>
-</blockquote>
+> (أَنْ تَقُولُوا) مَا جَاءَنَا مِنْ بَشِيرٍ وَلَا نَذِيرٍ.
 
 ***There came not to us a giver of good news or a warner…(Sura Maida
 5:19)***
@@ -293,12 +245,8 @@ telling the truth and those of their community are telling a lie who
 have denied the conveyance of message. Then the community of every
 messenger will be addressed:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ جَاءَكُمْ بَشِيرٌ وَنَذِيرٌ وَاللَّهُ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ.
-  </p>
-</blockquote>
+> فَقَدْ جَاءَكُمْ بَشِيرٌ وَنَذِيرٌ وَاللَّهُ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ.
 
 ***So indeed there has come to you a giver of good news and a warner;
 and Allah has power over all things. (Sura Maida 5:19)***
@@ -307,12 +255,8 @@ Imam (a.s.) said: He has power enough to make your organs speak in order
 to testify on your behalf that the messengers of Allah had conveyed the
 message to you. This is pointer to the Divine Word:
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
-عَلَى هَؤُلَاءِ شَهِيدًا.
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
+> عَلَى هَؤُلَاءِ شَهِيدًا.
 
 ***How will it be, then, when We bring from every people a witness and
 bring you as a witness against these? (Sura Nisa 4:41)***
@@ -330,12 +274,8 @@ their legatees. At that time all will confess their denial and
 misguidance and say: O Allah! Our hearts had become stony and we were of
 the misguided groups. Thereafter:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوْا الرَّسُولَ لَوْ
-تُسَوَّى بِهِمْ الْأَرْضُ وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا.
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوْا الرَّسُولَ لَوْ
+> تُسَوَّى بِهِمْ الْأَرْضُ وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا.
 
 ***On that day will those who disbelieve and disobey the Apostle desire
 that the earth were levelled with them, and they shall not hide any word
@@ -352,13 +292,9 @@ The subject matter of the third and the fourth verses is almost similar.
 
 The translation of the third verse is:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
-وَالْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
-فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ.
-  </p>
-</blockquote>
+> وَقُلْ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
+> وَالْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
+> فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ.
 
 ***And say: Work; so Allah will see your work and (so will) His Apostle
 and the believers; and you shall be brought back to the Knower of the
@@ -471,12 +407,8 @@ people are presented to the Holy Prophet (S) and when the Day of Arafat
 arrives, Allah nullifies the deeds of the enemies of us and of our Shias
 as He has said:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
-مَنْثُورًا.
-  </p>
-</blockquote>
+> وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
+> مَنْثُورًا.
 
 ***And We will proceed to what they have done of deeds, so We shall
 render them as scattered floating dust. (Sura Furqan 25:23)***
@@ -535,12 +467,8 @@ time Allah revealed this verse: *And say: Work*… till end. People asked:
 O Messenger of Allah! Who are ‘believers’? The Holy Prophet (S) replied:
 They are Aale Muhammad and then added:
 
-<blockquote dir="rtl">
-  <p>
-وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ
-بِمَا كُنتُمْ تَعْمَلُونَ.
-  </p>
-</blockquote>
+> وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ
+> بِمَا كُنتُمْ تَعْمَلُونَ.
 
 ***And you shall be brought back to the Knower of the unseen and the
 seen, then He will inform you of what you did. (Sura Tawbah 9:105)***
@@ -619,18 +547,14 @@ the time of the caliphate of Uthman, said addressing a group of
 Emigrants and Helpers: Tell me taking oath of Allah, do you know that
 Allah sent the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا
-رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ. وَجَاهِدُوا
-فِي اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ
-فِي الدِّينِ مِنْ حَرَجٍ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ هُوَ
-سَمَّاكُمْ الْمُسْلِمينَ مِنْ قَبْلُ وَفِي هَذَا لِيَكُونَ الرَّسُولُ
-شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ فَأَقِيمُوا
-الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ
-فَنِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا
+> رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ. وَجَاهِدُوا
+> فِي اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ
+> فِي الدِّينِ مِنْ حَرَجٍ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ هُوَ
+> سَمَّاكُمْ الْمُسْلِمينَ مِنْ قَبْلُ وَفِي هَذَا لِيَكُونَ الرَّسُولُ
+> شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ فَأَقِيمُوا
+> الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ
+> فَنِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ.
 
 ***O you who believe! Bow down and prostrate yourselves and serve your
 Lord, and do good that you may succeed. And strive hard in (the way of)
@@ -736,5 +660,4 @@ be specifically to these gentlemen and only they be meant by Ummat as
 mentioned in some traditions that this verse was revealed like this: Wa
 Ka Zali Ka… Two: The address may be to the entire Ummah, from the
 viewpoint given this adjective (of being) wusta or moderate.
-
 

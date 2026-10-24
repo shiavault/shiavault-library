@@ -40,4 +40,3 @@ that I am greatly indebted to you and owe you all my existence. I take
 this opportunity to give all my thanks and appreciation to you and my
 mother even though I shall never be able to compensate you enough.
 
-

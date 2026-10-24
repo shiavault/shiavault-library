@@ -4,14 +4,10 @@ Section 5: Every People Had the Guidance through an Apostle from Allah
 Surah An-Nahl – Verse 35
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ أَشْرَكُوا لَوْ شَآءَ اللَّهُ مَا عَبَدْنَا مِن
-دُونِهِ مِن شَيْءٍ نَحْنُ وَلآ ءَابَآؤُنَا وَلاَ حَرَّمْنَا مِن
-دُونِهِ مِن شَيْءٍ كَذَلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ فَهَلْ
-عَلَي الرُّسُلِ إِلاَّ الْبَلاَغُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ أَشْرَكُوا لَوْ شَآءَ اللَّهُ مَا عَبَدْنَا مِن
+> دُونِهِ مِن شَيْءٍ نَحْنُ وَلآ ءَابَآؤُنَا وَلاَ حَرَّمْنَا مِن
+> دُونِهِ مِن شَيْءٍ كَذَلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ فَهَلْ
+> عَلَي الرُّسُلِ إِلاَّ الْبَلاَغُ الْمُبِينُ
 
 ***35. “And those who associate (other gods with Allah) say: ‘If Allah
 had willed, we would not have worshipped aught besides Him, neither we
@@ -60,14 +56,10 @@ deliver the manifest message?”***
 Surah An-Nahl – Verse 36
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلّ‌ِ اُمَّةٍ رَسُولاً أَنِ اعْبُدُوا اللَّهَ
-وَاجْتَنِبُوا الطَّاغُوتَ فَمِنْهُم مَّنْ هَدَي اللَّهُ وَمِنْهُم مَنْ
-حَقَّتْ عَلَيْهِ الضَّلاَلَةُ فَسِيرُوا فِي الاَرْضِ فَانظُرُوا كَيْفَ
-كَانَ عَاقِبَةُ الْمُكَذّ‌ِبِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلّ‌ِ اُمَّةٍ رَسُولاً أَنِ اعْبُدُوا اللَّهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ فَمِنْهُم مَّنْ هَدَي اللَّهُ وَمِنْهُم مَنْ
+> حَقَّتْ عَلَيْهِ الضَّلاَلَةُ فَسِيرُوا فِي الاَرْضِ فَانظُرُوا كَيْفَ
+> كَانَ عَاقِبَةُ الْمُكَذّ‌ِبِينَ
 
 ***36. “And verily We have appointed a messenger in every nation (to
 say): ‘Serve Allah and shun false gods.’ Then, of them were some whom
@@ -142,12 +134,8 @@ would all be in vain.
 Surah An-Nahl – Verse 37
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن تَحْرِصْ عَلَي هُدَاهُمْ فَإِنَّ اللَّهَ لاَ يَهْدِي مَن يُضِلُّ
-وَمَا لَهُم مّـِن نَّاصِرِينَ
-  </p>
-</blockquote>
+> إِن تَحْرِصْ عَلَي هُدَاهُمْ فَإِنَّ اللَّهَ لاَ يَهْدِي مَن يُضِلُّ
+> وَمَا لَهُم مّـِن نَّاصِرِينَ
 
 ***37. “(O’ Prophet!) Even if you desire for their guidance, yet verily
 Allah does not guide those whom He leads astray, nor shall they have any
@@ -178,13 +166,9 @@ being interceded and assisted in the next world.
 Surah An-Nahl – Verse 38
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لاَ يَبْعَثُ اللَّهُ مَن
-يَمُوتُ بَلَي وَعْداً عَلَيْهِ حَقّاً وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لاَ يَبْعَثُ اللَّهُ مَن
+> يَمُوتُ بَلَي وَعْداً عَلَيْهِ حَقّاً وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ
+> يَعْلَمُونَ
 
 ***38. “And they swore by Allah with their most earnest oaths (that)
 Allah will not raise up him who dies. Yea! It (raising the dead) is a
@@ -245,12 +229,8 @@ Shi‘ites refute that.
 Surah An-Nahl – Verse 39
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيُبَيّـِنَ لَهُمُ الَّذِي يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ الَّذِينَ
-كَفَرُوا أَنَّهُمْ كَانُوا كَاذِبِينَ
-  </p>
-</blockquote>
+> لِيُبَيّـِنَ لَهُمُ الَّذِي يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ الَّذِينَ
+> كَفَرُوا أَنَّهُمْ كَانُوا كَاذِبِينَ
 
 ***39. “(They will be raised up) so that He may make clear to them that
 which they differed about, and that those who disbelieved might know
@@ -282,12 +262,8 @@ that they (themselves) were liars.”***
 Surah An-Nahl – Verse 40
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا قَوْلُنَا لِشَيْءٍ إِذَآ أَرَدْنَاهُ أَن نَّقُولَ لَهُ كُن
-فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّمَا قَوْلُنَا لِشَيْءٍ إِذَآ أَرَدْنَاهُ أَن نَّقُولَ لَهُ كُن
+> فَيَكُونُ
 
 ***40. “Verily, only Our word for a thing, when We intend it, is that We
 say: ‘Be!’, and it is.”***
@@ -346,5 +322,4 @@ existence.
 [^1]: Surah Al-Baqarah, No. 2, verse 256
 
 [^2]: Surah Al-Baqarah, No. 2, verse 257
-
 

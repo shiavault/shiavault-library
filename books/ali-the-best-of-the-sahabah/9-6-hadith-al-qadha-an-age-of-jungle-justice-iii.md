@@ -15,17 +15,13 @@ During his rule, a man came to ‘Umar b. al-Khaṭṭab with his personal
 religious problem. Imam Muslim (d. 261 H) records about how the
 *khalifah* handled it:
 
-<blockquote dir="rtl">
-  <p>
-حدثني عبدالله بن هاشم العبدي حدثنا يحيى (يعني ابن سعيد القطان) عن شعبة
-قال حدثني الحكم عن ذر عن سعيد بن عبدالرحمن بن أبزي عن أبيه أن رجلا أتى
-عمر فقال :إني أجنبت فلم أجد ماء فقال لا تصل فقال عمار أما تذكر يا أمير
-المؤمنين إذ أنا وأنت في سرية فأجنبنا فلم نجد ماء فأما أنت فلم تصل وأما
-أنا فتمعكت في التراب وصليت فقال النبي صلى الله عليه و سلم إنما كان
-يكفيك أن تضرب بيديك الأرض ثم تنفخ ثم تمسح بهما وجهك وكفيك فقال عمر اتق
-الله يا عمار قال إن شئت لم أحدث به
-  </p>
-</blockquote>
+> حدثني عبدالله بن هاشم العبدي حدثنا يحيى (يعني ابن سعيد القطان) عن شعبة
+> قال حدثني الحكم عن ذر عن سعيد بن عبدالرحمن بن أبزي عن أبيه أن رجلا أتى
+> عمر فقال :إني أجنبت فلم أجد ماء فقال لا تصل فقال عمار أما تذكر يا أمير
+> المؤمنين إذ أنا وأنت في سرية فأجنبنا فلم نجد ماء فأما أنت فلم تصل وأما
+> أنا فتمعكت في التراب وصليت فقال النبي صلى الله عليه و سلم إنما كان
+> يكفيك أن تضرب بيديك الأرض ثم تنفخ ثم تمسح بهما وجهك وكفيك فقال عمر اتق
+> الله يا عمار قال إن شئت لم أحدث به
 
 ‘Abd Allah b. Hisham al-‘Abdi – Yahya b. Sa’id al-Qaṭṭan – Shu’bah –
 al-Hakam – Dharr – Sa’id b. ‘Abd al-Rahman b. Abza – his father:
@@ -103,11 +99,7 @@ simply because he had forgotten, or did not know, the correct positions.
 Is ignorance an excuse for the adoption of personal opinions in the Law
 of Allah? The Qur’an answers:
 
-<blockquote dir="rtl">
-  <p>
-ومن لم يحكم بما أنزل الله فأولئك هم الكافرون
-  </p>
-</blockquote>
+> ومن لم يحكم بما أنزل الله فأولئك هم الكافرون
 
 Whosoever does NOT give rulings, verdicts, judgments, or commands based
 upon what Allah has revealed, **such people are the infidels**.[^2]
@@ -123,12 +115,8 @@ saved neither him, nor the man who came to him for judgment.
 Perhaps, the most disturbing part is that the ruling of *tayammum* is
 explicitly stated at two different places in the Book of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وإن كنتم مرضى أو على سفر أو جاء أحد منكم من الغائط أو لامستم النساء
-فلم تجدوا ماء فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم
-  </p>
-</blockquote>
+> وإن كنتم مرضى أو على سفر أو جاء أحد منكم من الغائط أو لامستم النساء
+> فلم تجدوا ماء فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم
 
 And if you are ill, or on a journey, or one of you comes after answering
 the call of nature, or you have had sexual intercourse with women **and
@@ -149,22 +137,18 @@ sided with Allah and His Messenger. One of the staunchest loyalists of
 ‘Umar was ‘Abd Allah b. Mas’ud, a very senior Sahabi. Imam Muslim
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى بن يحيى وأبو بكر بن أبي شيبة وابن نمير جميعا عن أبي معاوية
-قال أبو بكر حدثنا أبو معاوية عن الأعمش عن شقيق قال كنت جالسا مع عبد
-الله وأبي موسى فقال أبو موسى ثم يا أبا عبد الرحمن أرأيت لو أن رجلا
-أجنب فلم يجد الماء شهرا كيف يصنع بالصلاة فقال عبد الله لا يتيمم وإن لم
-يجد الماء شهرا قال أبو موسى فكيف بهذه الآية في سورة المائدة فلم تجدوا
-ماء فتيمموا صعيدا طيبا فقال عبدالله لو رخص لهم في هذه الآية لأوشك إذا
-برد عليهم الماء أن يتيمموا بالصعيد فقال أبو موسى لعبد الله ألم تسمع
-قول عمار بعثني رسول الله صلى الله عليه وسلم في حاجة فأجنبت فلم أجد
-الماء فتمرغت في الصعيد كما تمرغ الدابة ثم أتيت النبي صلى الله عليه
-وسلم فذكرت ذلك له فقال إنما كان يكفيك أن تقول بيديك هكذا ثم ضرب بيديه
-الأرض حصول واحدة ثم مسح الشمال على اليمين وظاهر كفيه ووجهه فقال عبد
-الله أو لم تر عمر لم يقنع بقول عمار
-  </p>
-</blockquote>
+> حدثنا يحيى بن يحيى وأبو بكر بن أبي شيبة وابن نمير جميعا عن أبي معاوية
+> قال أبو بكر حدثنا أبو معاوية عن الأعمش عن شقيق قال كنت جالسا مع عبد
+> الله وأبي موسى فقال أبو موسى ثم يا أبا عبد الرحمن أرأيت لو أن رجلا
+> أجنب فلم يجد الماء شهرا كيف يصنع بالصلاة فقال عبد الله لا يتيمم وإن لم
+> يجد الماء شهرا قال أبو موسى فكيف بهذه الآية في سورة المائدة فلم تجدوا
+> ماء فتيمموا صعيدا طيبا فقال عبدالله لو رخص لهم في هذه الآية لأوشك إذا
+> برد عليهم الماء أن يتيمموا بالصعيد فقال أبو موسى لعبد الله ألم تسمع
+> قول عمار بعثني رسول الله صلى الله عليه وسلم في حاجة فأجنبت فلم أجد
+> الماء فتمرغت في الصعيد كما تمرغ الدابة ثم أتيت النبي صلى الله عليه
+> وسلم فذكرت ذلك له فقال إنما كان يكفيك أن تقول بيديك هكذا ثم ضرب بيديه
+> الأرض حصول واحدة ثم مسح الشمال على اليمين وظاهر كفيه ووجهه فقال عبد
+> الله أو لم تر عمر لم يقنع بقول عمار
 
 Yahya b. Yahya, Abu Bakr b. Abi Shaybah and Ibn Numayr – Abu Mu’awiyah –
 al-A’mash – Shaqiq:
@@ -212,5 +196,4 @@ Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 [^4]: Abu al-Husayn Muslim b. al-Hajjaj al-Qushayri al-Naysaburi, Ṣahih
 Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 ‘Abd al-Baqi], vol. 1, p. 280, \#110
-
 

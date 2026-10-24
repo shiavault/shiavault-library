@@ -47,4 +47,3 @@ of moral and spiritual perfection. This combination of minimum
 requirements of justice with maximum aspiration of lofty morals is the
 most unique aspect of the religion of God which is Islam.
 
-

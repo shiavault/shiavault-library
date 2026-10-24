@@ -80,4 +80,3 @@ hands of people in order that one becomes completely dependant on his
 Lord and not to be a burden on others’ backs Ali (A.S.) says “The
 biggest wealth is in being despaired of what is at others’ hands” [^8]
 
-

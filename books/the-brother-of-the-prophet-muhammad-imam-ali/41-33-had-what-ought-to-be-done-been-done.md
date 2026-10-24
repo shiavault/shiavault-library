@@ -186,4 +186,3 @@ Fadha-il Al-Khansah)
 
 [^7]: Al-Hakim Al-Mustadrak part 3 p. 499.
 
-

@@ -547,7 +547,5 @@ grant us all the ability to correctly understand all the learnings of
 Islam, so that under their light we, can ensure our personal and social
 happiness, as well as our eternal moral perfection.
 
-
 The End
-
 

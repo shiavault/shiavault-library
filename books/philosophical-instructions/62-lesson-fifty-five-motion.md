@@ -194,4 +194,3 @@ line, and are not considered to be parts of them. Likewise, rest appears
 as the stopping of motion, not as something that exists in the midst of
 a single motion so as to be considered a part of it.
 
-

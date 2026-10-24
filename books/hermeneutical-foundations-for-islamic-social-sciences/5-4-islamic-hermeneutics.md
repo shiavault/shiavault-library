@@ -306,4 +306,3 @@ xxvi.
 Gadamer (1993), 414- 424; Gadamer (2004), 529-537; also Gadamer (1984),
 and Strauss and Gadamer (1978).
 
-

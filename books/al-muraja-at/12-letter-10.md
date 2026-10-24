@@ -326,4 +326,3 @@ Al-Sawa’iq al-Muhriqa; al-Nabhani on page 99 of his Al-Sharaf
 al-Mu'abbad, Imam Abu Bakr ibn Shihabud-Din in his Rashfatul Sadi, and
 by many others.
 
-

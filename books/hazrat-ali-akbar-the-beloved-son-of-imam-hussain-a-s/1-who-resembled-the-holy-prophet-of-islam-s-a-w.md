@@ -34,4 +34,3 @@ the Holy Prophet(S.A.W.). They saw both of them visiting the grave of
 Fatima(A.S.) and lamenting over the separation, as if they were parting
 for ever.
 
-

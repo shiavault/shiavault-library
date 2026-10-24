@@ -27,4 +27,3 @@ refined order of justice and the glorious devotions of the Holy Prophet
 flashed from there. This was the same place where the sincere and long
 awaited desires of the Apostle of God were fulfilled.
 
-

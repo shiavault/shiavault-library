@@ -16,14 +16,10 @@ limitations?
 Generally, *mut’ah* is forbidden except in cases of necessity. Shaykh
 al-Kulayni (d. 329 H) reports:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن علي بن يقطين قال: سألت
-أبا الحسن موسى عليه السلام عن المتعة فقال: وما أنت وذاك فقد أغناك الله
-عنها، قلت:إنما أردت أن أعلمها، فقال: هي في كتاب علي عليه السلام، فقلت:
-نزيدها وتزداد؟ فقال: وهل يطيبه إلا ذاك.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن علي بن يقطين قال: سألت
+> أبا الحسن موسى عليه السلام عن المتعة فقال: وما أنت وذاك فقد أغناك الله
+> عنها، قلت:إنما أردت أن أعلمها، فقال: هي في كتاب علي عليه السلام، فقلت:
+> نزيدها وتزداد؟ فقال: وهل يطيبه إلا ذاك.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – ‘Ali b. Yaqṭin:
 
@@ -36,11 +32,7 @@ pleases him except that?”[^1]
 
 Al-Majlisi (d. 1111 H) says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^2]
 
@@ -63,12 +55,8 @@ however.
 First and foremost, he must confirm the age of any woman he wishes to
 marry. She must NOT be underage, as al-Kulayni documents:
 
-<blockquote dir="rtl">
-  <p>
-علي، عن أبيه، عن ابن أبي عمير، عن جميل بن دراج قال: سألت أبا عبد الله
-عن الرجل يتمتع من الجارية البكر قال: لا بأس بذلك ما لم يستصغرها
-  </p>
-</blockquote>
+> علي، عن أبيه، عن ابن أبي عمير، عن جميل بن دراج قال: سألت أبا عبد الله
+> عن الرجل يتمتع من الجارية البكر قال: لا بأس بذلك ما لم يستصغرها
 
 ‘Ali – his father – Ibn Abi ‘Umayr – Jamil b. Darraj:
 
@@ -78,22 +66,14 @@ find her to be underage**.”[^4]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^5]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-قوله : ) ما لم يستصغرها ( أي لم يجدها صغيرة غير بالغة فلا يصح العقد
-حينئذ
-  </p>
-</blockquote>
+> قوله : ) ما لم يستصغرها ( أي لم يجدها صغيرة غير بالغة فلا يصح العقد
+> حينئذ
 
 His statement: {as long as he does not find her to be underage},
 meaning, he does not find her to be a child who has not reached the age
@@ -101,14 +81,10 @@ of maturity, in which case the union would be invalid.[^6]
 
 Al-Kulayni also reports about the age of maturity, for girls, in Islam:
 
-<blockquote dir="rtl">
-  <p>
-علي، عن أبيه، عن ابن أبي عمير، عن رجل، عن أبي عبد الله عليه السلام
-قال: قلت: الجارية ابنة كم لا تستصبي؟ ابنة ست أو سبع؟ فقال: لا ابنة تسع
-لا تستصبي وأجمعوا كلهم على أن ابنة تسع لا تستصبي إلا أن يكون في عقلها
-ضعف وإلا فهي إذا بلغت تسعا فقد بلغت.
-  </p>
-</blockquote>
+> علي، عن أبيه، عن ابن أبي عمير، عن رجل، عن أبي عبد الله عليه السلام
+> قال: قلت: الجارية ابنة كم لا تستصبي؟ ابنة ست أو سبع؟ فقال: لا ابنة تسع
+> لا تستصبي وأجمعوا كلهم على أن ابنة تسع لا تستصبي إلا أن يكون في عقلها
+> ضعف وإلا فهي إذا بلغت تسعا فقد بلغت.
 
 ‘Ali – his father – Ibn Abi ‘Umayr – **a man**:
 
@@ -120,23 +96,15 @@ longer a child, except if there is weakness in her intelligence.
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^8]
 
 In reality, the *hadith* is *mursal*. However, there is a strengthening
 *shahid* for it in this *hadith* of Shaykh al-Ṭusi (d. 460 H):
 
-<blockquote dir="rtl">
-  <p>
-عنه عن ابن محبوب عن أبي أيوب عن يزيد الكناسي عن أبي جعفر عليه السلام
-قال: الجارية إذا بلغت تسع سنين ذهب عنها اليتم وزوجت
-  </p>
-</blockquote>
+> عنه عن ابن محبوب عن أبي أيوب عن يزيد الكناسي عن أبي جعفر عليه السلام
+> قال: الجارية إذا بلغت تسع سنين ذهب عنها اليتم وزوجت
 
 And from him (i.e. Ahmad b. Muhammad) – Ibn Mahbub – Abu Ayub – Yazid
 ak-Kunasi – Abu Ja’far, peace be upon him:
@@ -146,24 +114,16 @@ married.[^9]
 
 ‘Allamah Al-Ruhani comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن أو صحيحه
-  </p>
-</blockquote>
+> حسن أو صحيحه
 
 *Hasan* or *Sahih*.[^10]
 
 Al-Kulayni too has this further *shahid*:
 
-<blockquote dir="rtl">
-  <p>
-عنه، عن الحسن، عن جعفر بن سماعة، عن آدم بياع اللؤلؤ، عن عبد الله بن
-سنان، عن أبي عبد الله عليه السلام قال: إذا بلغ الغلام ثلاث عشرة سنة
-كتبت له الحسنة وكتبت عليه السيئة وعوقب، وإذا بلغت الجارية تسع سنين
-فكذلك وذلك أنها تحيض لتسع سنين.
-  </p>
-</blockquote>
+> عنه، عن الحسن، عن جعفر بن سماعة، عن آدم بياع اللؤلؤ، عن عبد الله بن
+> سنان، عن أبي عبد الله عليه السلام قال: إذا بلغ الغلام ثلاث عشرة سنة
+> كتبت له الحسنة وكتبت عليه السيئة وعوقب، وإذا بلغت الجارية تسع سنين
+> فكذلك وذلك أنها تحيض لتسع سنين.
 
 From him (i.e. Humayd) – al-Hasan – Ja’far b. Sama’ah – Adam – ‘Abd
 Allah b.Sinan – Abu ‘Abd Allah, peace be upon him:
@@ -176,33 +136,21 @@ nine.”[^11]
 
 And al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^12]
 
 Al-Ruhani too concurs:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^13]
 
 Al-Kulayni also documents one more *shahid*:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، ومحمد بن يحيى، عن أحمد بن محمد جميعا، عن ابن
-أبي عمير، عن حماد، عن الحلبي عن أبي عبد الله عليه السلام قال: قال: إذا
-تزوج الرجل الجارية وهي صغيرة فلا يدخل بها حتى يأتي لها تسع سنين.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، ومحمد بن يحيى، عن أحمد بن محمد جميعا، عن ابن
+> أبي عمير، عن حماد، عن الحلبي عن أبي عبد الله عليه السلام قال: قال: إذا
+> تزوج الرجل الجارية وهي صغيرة فلا يدخل بها حتى يأتي لها تسع سنين.
 
 ‘Ali b. Ibrahim – his father AND Muhammad b. Yahya – Ahmad b. Muhammad –
 Ibn Abi ‘Umayr – Hammad – al-Halabi – Abu ‘Abd Allah, peace be upon him:
@@ -213,21 +161,13 @@ nine**.[^14]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^15]
 
 Al-Ruhani too says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^16]
 
@@ -262,14 +202,10 @@ then if he is able to confirm directly from the woman, that is even
 better. Whatever she says about herself is believed to be true.
 Al-Kulayni says:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن أحمد بن محمد بن عيسى، عن الحسين بن سعيد، عن فضالة،
-عن ميسر قال: قلت لأبي عبد الله عليه السلام : ألقى المرأة بالفلاة التي
-ليس فيها أحد فأقول لها:هل لك زوج؟ فتقول: لا، فأتزوجها؟ قال: نعم هي
-المصدقة على نفسها.
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن أحمد بن محمد بن عيسى، عن الحسين بن سعيد، عن فضالة،
+> عن ميسر قال: قلت لأبي عبد الله عليه السلام : ألقى المرأة بالفلاة التي
+> ليس فيها أحد فأقول لها:هل لك زوج؟ فتقول: لا، فأتزوجها؟ قال: نعم هي
+> المصدقة على نفسها.
 
 A number of our companions – Ahmad b. Muhammad b. ‘Isa – al-Husayn b.
 Sa’id – Faḍalah – Maysar:
@@ -281,11 +217,7 @@ is the trustworthy one concerning herself**.”[^18]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^19]
 
@@ -295,12 +227,8 @@ must establish that she is also *morally* eligible for *mut’ah*. The
 Qur’an has forbidden certain categories of men and women for marriage –
 whether permanently or temporarily:
 
-<blockquote dir="rtl">
-  <p>
-الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو مشرك
-وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو مشرك
+> وحرم ذلك على المؤمنين
 
 The **fornicator** shall not marry any but a **fornicatress** or an
 **idolatress**; and the fornicatress, none shall marry her but a
@@ -321,16 +249,12 @@ Islamic monotheism of her proposed husband. If he fails in either, he is
 
 Al-Ṭusi documents in this regard:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن عيسى عن محمد بن إسماعيل بن بزيع قال: سأل رجل الرضا
-عليه السلام وانا اسمع عن الرجل يتزوج المرأة متعة ويشترط عليها ان لا
-يطلب ولدها فتأتي بعد ذلك بولد فينكر الولد فشدد في ذلك وقال يجحد؟ وكيف
-يجحد اعظاما لذلك؟ قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا
-مأمونة ان الله يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا
-ينكحها إلا زان أو مشرك وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> أحمد بن محمد بن عيسى عن محمد بن إسماعيل بن بزيع قال: سأل رجل الرضا
+> عليه السلام وانا اسمع عن الرجل يتزوج المرأة متعة ويشترط عليها ان لا
+> يطلب ولدها فتأتي بعد ذلك بولد فينكر الولد فشدد في ذلك وقال يجحد؟ وكيف
+> يجحد اعظاما لذلك؟ قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا
+> مأمونة ان الله يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا
+> ينكحها إلا زان أو مشرك وحرم ذلك على المؤمنين
 
 Ahmad b. Muhammad b. ‘Isa – Muhammad b. Isma’il b. Bazi’:
 
@@ -348,33 +272,21 @@ for the believers}.[^21]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^22]
 
 Al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^23]
 
 This is equally emphasized in this noble *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-اليوم أحل لكم الطيبات وطعام الذين أوتوا الكتاب حل لكم وطعامكم حل لهم
-والمحصنات من المؤمنات والمحصنات من الذين أوتوا الكتاب من قبلكم إذا
-آتيتموهن أجورهن محصنين غير مسافحين ولا متخذي أخدان
-  </p>
-</blockquote>
+> اليوم أحل لكم الطيبات وطعام الذين أوتوا الكتاب حل لكم وطعامكم حل لهم
+> والمحصنات من المؤمنات والمحصنات من الذين أوتوا الكتاب من قبلكم إذا
+> آتيتموهن أجورهن محصنين غير مسافحين ولا متخذي أخدان
 
 Today, the good things are made *halal* to you; and the food of those
 who were given the Book is *halal* for you, and your food is *halal* for
@@ -392,14 +304,10 @@ woman or fornicatress is *haram*. Meanwhile, once a man or a woman has
 repented from *zina*, he or she no longer falls in the forbidden
 categories, as al-Kulayni confirms:
 
-<blockquote dir="rtl">
-  <p>
-حميد بن زياد، عن الحسن بن محمد بن سماعة، عن أحمد بن الحسن الميثمي، عن
-أبان، عن حكم بن حكيم، عن أبي عبد الله عليه السلام في قوله عز وجل:
-والزانية لا ينكحها إلا زان أو مشرك قال: إنما ذلك في الجهر ثم قال: لو
-أن إنسانا زنى ثم تاب تزوج حيث شاء.
-  </p>
-</blockquote>
+> حميد بن زياد، عن الحسن بن محمد بن سماعة، عن أحمد بن الحسن الميثمي، عن
+> أبان، عن حكم بن حكيم، عن أبي عبد الله عليه السلام في قوله عز وجل:
+> والزانية لا ينكحها إلا زان أو مشرك قال: إنما ذلك في الجهر ثم قال: لو
+> أن إنسانا زنى ثم تاب تزوج حيث شاء.
 
 Humayd b. Ziyad – al-Hasan b. Muhammad b. Sama’ah – Ahmad b. al-Hasan
 al-Maythami – Aban – Hakam b. Hakim – Abu ‘Abd Allah, peace be upon him,
@@ -413,11 +321,7 @@ they can marry wherever they wish (in the** ***halal***
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^26]
 
@@ -425,13 +329,9 @@ Also, to determine the moral and religious status of the Muslim woman,
 obviously, the Shi’i man must carry out thorough investigations, as
 al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن ابن محبوب، عن أبان، عن أبي مريم، عن
-أبي جعفر عليه السلام أنه سئل عن المتعة فقال: إن المتعة اليوم ليس كما
-كانت قبل اليوم إنهن كن يومئذ يؤمن واليوم لا يؤمن فاسألوا عنهن.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن ابن محبوب، عن أبان، عن أبي مريم، عن
+> أبي جعفر عليه السلام أنه سئل عن المتعة فقال: إن المتعة اليوم ليس كما
+> كانت قبل اليوم إنهن كن يومئذ يؤمن واليوم لا يؤمن فاسألوا عنهن.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – Ibn Mahbub – Aban – Abu Maryam:
 
@@ -442,11 +342,7 @@ the women) used to be faithful. But, today, they are not faithful.
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^28]
 
@@ -457,14 +353,10 @@ debauchery, but notices that people widely think of her as being
 promiscuous, he must forget about her in that case too. Al-Kulayni
 records:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن محمد بن عيسى، عن يونس، عن محمد بن الفضيل قال:سألت
-أبا الحسن عليه السلام عن المرأة الحسناء الفاجرة هل يجوز للرجل أن يتمتع
-منها يوما أو أكثر؟ فقال: إذا كانت مشهورة بالزنا فلا يتمتع منها ولا
-ينكحها.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن محمد بن عيسى، عن يونس، عن محمد بن الفضيل قال:سألت
+> أبا الحسن عليه السلام عن المرأة الحسناء الفاجرة هل يجوز للرجل أن يتمتع
+> منها يوما أو أكثر؟ فقال: إذا كانت مشهورة بالزنا فلا يتمتع منها ولا
+> ينكحها.
 
 ‘Ali b. Ibrahim – Muhammad b. ‘Isa – Yunus – Muhammad b. al-Fuḍayl:
 
@@ -476,11 +368,7 @@ her (permanently)**.”[^29]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq* (Reliable)[^30]
 
@@ -492,14 +380,10 @@ good reason or another. Or, she was once famous for *zina*; but, there
 have been rumours of her total repentance. What does the Shi’i man do in
 such a situation? Al-Kulayni has the answer:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير رفعه، عن عبد الله بن أبي
-يعفور، عن أبي عبد الله عليه السلام قال: سألته عن المرأة ولا أدري ما
-حالها أيتزوجها الرجل متعة؟ قال: يتعرض لها فإن أجابته إلى الفجور فلا
-يفعل
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير رفعه، عن عبد الله بن أبي
+> يعفور، عن أبي عبد الله عليه السلام قال: سألته عن المرأة ولا أدري ما
+> حالها أيتزوجها الرجل متعة؟ قال: يتعرض لها فإن أجابته إلى الفجور فلا
+> يفعل
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – ‘Abd Allah b. Abi
 Ya’fur:
@@ -511,11 +395,7 @@ NOT**.”[^31]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^32]
 
@@ -530,14 +410,10 @@ clean for marriage.
 Shaykh Ibn Taymiyyah (d. 728 H) presents the Sunni view on this, as
 well:
 
-<blockquote dir="rtl">
-  <p>
-وكذلك المرأة التى زنا بها الرجل فإنه لا يتزوج بها إلا بعد التوبة فى
-اصح القولين كما دل عليه الكتاب والسنة والآثار لكن إذا أراد أن يمتحنها
-هل هى صحيحة التوبة أم لا فقال عبدالله ابن عمر وهو المنصوص عن أحمد أنه
-يراودها عن نفسها فإن أجابته لم تصح توبتها وإن لم تجبه فقد تابت
-  </p>
-</blockquote>
+> وكذلك المرأة التى زنا بها الرجل فإنه لا يتزوج بها إلا بعد التوبة فى
+> اصح القولين كما دل عليه الكتاب والسنة والآثار لكن إذا أراد أن يمتحنها
+> هل هى صحيحة التوبة أم لا فقال عبدالله ابن عمر وهو المنصوص عن أحمد أنه
+> يراودها عن نفسها فإن أجابته لم تصح توبتها وإن لم تجبه فقد تابت
 
 The woman who committed fornication with the man is like that too. He
 cannot marry her except after repentance, according to the more correct
@@ -551,15 +427,11 @@ has (genuinely) repented**.[^33]
 
 Al-Kulayni continues further with the Shi’i position:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن محمد بن أحمد، عن أحمد بن الحسن، عن عمرو بن سعيد، عن
-مصدق بن صدقة، عن عمار بن موسى، عن أبي عبد الله عليه السلام قال: سألته
-عن الرجل يحل له أن يتزوج امرأة كان يفجر بها؟ فقال: إن آنس منها رشدا
-فنعم وإلا فليراودنها على الحرام فإن تابعته فهي عليه حرام وإن أبت
-فليتزوجها.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن محمد بن أحمد، عن أحمد بن الحسن، عن عمرو بن سعيد، عن
+> مصدق بن صدقة، عن عمار بن موسى، عن أبي عبد الله عليه السلام قال: سألته
+> عن الرجل يحل له أن يتزوج امرأة كان يفجر بها؟ فقال: إن آنس منها رشدا
+> فنعم وإلا فليراودنها على الحرام فإن تابعته فهي عليه حرام وإن أبت
+> فليتزوجها.
 
 Muhammad b. Yahya – Muhammad b. Ahmad – Ahmad b. al-Hasan – ‘Amr b.
 Sa’id – Musaddiq b. Sadaqah – ‘Ammar b. Musa:
@@ -572,21 +444,13 @@ him. But, if she refuses, then he should marry her**.”[^34]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^35]
 
 Al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^36]
 
@@ -610,13 +474,9 @@ al-salam*. The *Sunnah* has forbidden *nikah* to such people too, in
 addition to fornicators and idolaters. Al-Kulayni, for instance,
 documents:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن ابن محبوب، عن جميل بن صالح، عن فضيل
-ابن يسار، عن أبي عبد الله عليه السلام قال: لا يتزوج المؤمن الناصبة
-المعروفة بذلك.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن ابن محبوب، عن جميل بن صالح، عن فضيل
+> ابن يسار، عن أبي عبد الله عليه السلام قال: لا يتزوج المؤمن الناصبة
+> المعروفة بذلك.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – Ibn Mahbub – Jamil b. Salih –
 Fuḍayl b. Yasar – Abu ‘Abd Allah, peace be upon him:
@@ -626,34 +486,22 @@ that.[^37]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^38]
 
 Al-Ruhani agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^39]
 
 Al-Kulayni also says:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن عبد الرحمن بن أبي نجران، عن عبد الله
-بن سنان قال: سألت أبا عبد الله عليه السلام عن الناصب الذي قد عرف نصبه
-وعداوته هل نزوجه المؤمنة وهو قادر على رده وهو لا يعلم برده؟ قال: لا
-يزوج المؤمن الناصبة ولا يتزوج الناصب المؤمنة ولا يتزوج المستضعف مؤمنه.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن عبد الرحمن بن أبي نجران، عن عبد الله
+> بن سنان قال: سألت أبا عبد الله عليه السلام عن الناصب الذي قد عرف نصبه
+> وعداوته هل نزوجه المؤمنة وهو قادر على رده وهو لا يعلم برده؟ قال: لا
+> يزوج المؤمن الناصبة ولا يتزوج الناصب المؤمنة ولا يتزوج المستضعف مؤمنه.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – ‘Abd al-Rahman b. Abi Najran –
 ‘Abd Allah b. Sinan:
@@ -668,21 +516,13 @@ the believing woman.”[^40]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^41]
 
 And al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^42]
 
@@ -693,14 +533,10 @@ people are absolutely chaste, *nikah* to them is *haram* nonetheless.
 The other people similarly disqualified are the Khawarij and the
 Murjiah, according to this *hadith* of al-Kulayni:
 
-<blockquote dir="rtl">
-  <p>
-أبو علي الأشعري، عن محمد بن عبد الجبار، عن صفوان بن يحيى، عن عبد الله
-بن مسكان، عن يحيى الحلبي، عن عبد الحميد الطائي، عن زرارة بن أعين قال:
-قلت لأبي عبد الله عليه السلام :أتزوج بمرجئة أو حرورية؟ قال: لا، عليك
-بالبله من النساء
-  </p>
-</blockquote>
+> أبو علي الأشعري، عن محمد بن عبد الجبار، عن صفوان بن يحيى، عن عبد الله
+> بن مسكان، عن يحيى الحلبي، عن عبد الحميد الطائي، عن زرارة بن أعين قال:
+> قلت لأبي عبد الله عليه السلام :أتزوج بمرجئة أو حرورية؟ قال: لا، عليك
+> بالبله من النساء
 
 Abu ‘Ali al-Ash’ari – Muhammad b. ‘Abd al-Jabbar – Safwan b. Yahya –
 ‘Abd Allah b. Miskan – Yahya b. al-Halabi – ‘Abd al-Hamid al-Ṭai –
@@ -712,21 +548,13 @@ innocent ones among the women**.”[^43]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^44]
 
 Shaykh Hadi al-Najafi too says:
 
-<blockquote dir="rtl">
-  <p>
-الرواية صحيحة الإسناد
-  </p>
-</blockquote>
+> الرواية صحيحة الإسناد
 
 The report has a *sahih* chain[^45]
 
@@ -755,13 +583,9 @@ the Shi’i man in need of *mut’ah* is unable to find a suitable Muslim
 spouse? Well, the Book of Allah has made certain concessions in this
 regard:
 
-<blockquote dir="rtl">
-  <p>
-اليوم أحل لكم الطيبات وطعام الذين أوتوا الكتاب حل لكم وطعامكم حل لهم
-والمحصنات من المؤمنات والمحصنات من الذين أوتوا الكتاب من قبلكم إذا
-آتيتموهن أجورهن محصنين غير مسافحين ولا متخذي أخدان
-  </p>
-</blockquote>
+> اليوم أحل لكم الطيبات وطعام الذين أوتوا الكتاب حل لكم وطعامكم حل لهم
+> والمحصنات من المؤمنات والمحصنات من الذين أوتوا الكتاب من قبلكم إذا
+> آتيتموهن أجورهن محصنين غير مسافحين ولا متخذي أخدان
 
 Today, the good things are made *halal* to you; and the food of those
 who were given the Book is *halal* for you, and your food is *halal* for
@@ -797,13 +621,9 @@ However, a Muslim woman is absolutely forbidden from marrying absolutely
 ‘Allamah al-Hurr al-‘Amili (d. 1104 H) also records this *hadith* for
 the Shi’i man:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن الحسن بإسناده عن أحمد بن محمد بن عيسى، عن إسماعيل بن سعد
-الأشعري قال: سألته عن الرجل يتمتع من اليهودية والنصرانية قال: لا أري
-بذلك بأسا، قال: قلت: فالمجوسية؟ قال: أما المجوسية فلا.
-  </p>
-</blockquote>
+> محمد بن الحسن بإسناده عن أحمد بن محمد بن عيسى، عن إسماعيل بن سعد
+> الأشعري قال: سألته عن الرجل يتمتع من اليهودية والنصرانية قال: لا أري
+> بذلك بأسا، قال: قلت: فالمجوسية؟ قال: أما المجوسية فلا.
 
 Muhammad b. al-Hasan with his *isnad* from Ahmad b. Muhammad b. ‘Isa –
 Isma’il b. Sa’d al-Ash’ari:
@@ -815,23 +635,15 @@ woman, then no.”[^48]
 
 Ayatullah Sadiq al-Ruhani comments about the report:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq* (Reliable)[^49]
 
 The *hadith* can indeed be found in *al-Tahdhib* of al-Ṭusi:
 
-<blockquote dir="rtl">
-  <p>
-وعنه عن إسماعيل بن سعد الأشعري قال: سألته عن الرجل يتمتع من اليهودية
-والنصرانية قال: لا أرى بذلك بأسا قال: قلت بالمجوسية؟ قال: واما
-المجوسية فلا.
-  </p>
-</blockquote>
+> وعنه عن إسماعيل بن سعد الأشعري قال: سألته عن الرجل يتمتع من اليهودية
+> والنصرانية قال: لا أرى بذلك بأسا قال: قلت بالمجوسية؟ قال: واما
+> المجوسية فلا.
 
 And from him from Isma’il b. Sa’d al-Ash’ari:
 
@@ -842,11 +654,7 @@ woman, then no.”[^50]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^51]
 
@@ -854,15 +662,11 @@ Meanwhile, if the Shi’i man is able to find a chaste Jewess or a
 Christian woman who agrees to do *mut’ah* with him, there are still some
 other conditions which she must consent to. Al-Ṭusi reports:
 
-<blockquote dir="rtl">
-  <p>
-وروى محمد بن يعقوب عن محمد بن يحيى عن أحمد بن محمد عن الحسن بن محبوب
-عن معاوية بن وهب وغيره عن أبي عبد الله عليه السلام في الرجل المؤمن
-يتزوج باليهودية والنصرانية قال: إذا أصاب المسلمة فما يصنع باليهودية
-والنصرانية، فقلت له: يكون له فيها الهوى فقال: ان فعل فليمنعها من شرب
-الخمر واكل لحم الخنزير، واعلم أن عليه في دينه في تزويجه إياها غضاضة.
-  </p>
-</blockquote>
+> وروى محمد بن يعقوب عن محمد بن يحيى عن أحمد بن محمد عن الحسن بن محبوب
+> عن معاوية بن وهب وغيره عن أبي عبد الله عليه السلام في الرجل المؤمن
+> يتزوج باليهودية والنصرانية قال: إذا أصاب المسلمة فما يصنع باليهودية
+> والنصرانية، فقلت له: يكون له فيها الهوى فقال: ان فعل فليمنعها من شرب
+> الخمر واكل لحم الخنزير، واعلم أن عليه في دينه في تزويجه إياها غضاضة.
 
 Muhammad b. Ya’qub – Muhammad b. Yahya – Ahmad b. Muhammad – al-Hasan b.
 Mahbub – Mu’awiyah b. Wahb and others – Abu ‘Abd Allah, peace be upon
@@ -880,21 +684,13 @@ there is a blemish upon him in his religion.”[^52]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^53]
 
 And al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^54]
 
@@ -931,12 +727,8 @@ by the *Shari’ah*. To “deflower” her is, then, to have penetrative sex
 with her, whether her hymen is still intact or had been broken[^55].
 Ayatullah al-Ruhani states:
 
-<blockquote dir="rtl">
-  <p>
-وعن الشيخ في كتاب الفروع والحلي والمحقق والمصنف في جملة من كتبه وأكثر
-المتأخرين: إن المراد بالبكر غير المحصن
-  </p>
-</blockquote>
+> وعن الشيخ في كتاب الفروع والحلي والمحقق والمصنف في جملة من كتبه وأكثر
+> المتأخرين: إن المراد بالبكر غير المحصن
 
 And from Shaykh in *Kitab al-Furu’*, and al-Hilli, al-Muhaqqiq and the
 author in part of his books, and the majority of the later scholars:
@@ -945,13 +737,9 @@ author in part of his books, and the majority of the later scholars:
 First and foremost, it is *makruh* (disliked) to do *mut’ah* with a
 virgin, as al-Kulayni documents:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن حفص بن البختري، عن أبي
-عبد الله عليه‌ السلام قال: في الرجل يتزوج البكر متعة، قال: يكره للعيب
-على أهلها.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن حفص بن البختري، عن أبي
+> عبد الله عليه‌ السلام قال: في الرجل يتزوج البكر متعة، قال: يكره للعيب
+> على أهلها.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – Hafs b. al-Bakhtari:
 
@@ -961,21 +749,13 @@ upon her family**.”[^57]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^58]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-ويدل على كراهة التمتع بالبكر مطلقا
-  </p>
-</blockquote>
+> ويدل على كراهة التمتع بالبكر مطلقا
 
 And it proves that *mut’ah* with a virgin is *makruh* in all
 situations.[^59]
@@ -993,13 +773,9 @@ anyway, if the woman and her family agree.
 
 Al-Ṭusi too has the *hadith* through another *ṭariq*:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن أحمد بن يحيى عن يعقوب بن يزيد عن محمد ابن أبي عمير عن حفص بن
-البختري عن أبي عبد الله عليه السلام في الرجل يتزوج البكر متعة قال:
-يكره للعيب على أهلها.
-  </p>
-</blockquote>
+> محمد بن أحمد بن يحيى عن يعقوب بن يزيد عن محمد ابن أبي عمير عن حفص بن
+> البختري عن أبي عبد الله عليه السلام في الرجل يتزوج البكر متعة قال:
+> يكره للعيب على أهلها.
 
 Muhammad b. Ahmad b. Yahya – Ya’qub b. Yazid – Muhammad b. Abi ‘Umayr –
 Hafs b. al-Bakhtari:
@@ -1010,11 +786,7 @@ upon her family**.”[^60]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^61]
 
@@ -1023,13 +795,9 @@ well-respected? Well, even in such a case or in any other, he is still
 subject to further restrictions, as long as his proposed temporary
 spouse is a virgin. Al-Kulayni records:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد وعبد الله ابني محمد بن عيسى، عن علي بن الحكم، عن
-زياد بن أبي الحلال قال: سمعت أبا عبد الله عليه‌ السلام يقول: لا بأس
-بأن يتمتع بالبكر ما لم يفض إليها مخافة كراهية العيب على أهلها.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد وعبد الله ابني محمد بن عيسى، عن علي بن الحكم، عن
+> زياد بن أبي الحلال قال: سمعت أبا عبد الله عليه‌ السلام يقول: لا بأس
+> بأن يتمتع بالبكر ما لم يفض إليها مخافة كراهية العيب على أهلها.
 
 Muhammad b. Yahya – Ahmad and ‘Abd Allah, sons of Muhammad b. ‘Isa –
 ‘Ali b. al-Hakam – Ziyad b. Abi al-Hilal:
@@ -1041,11 +809,7 @@ her family.”[^62]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^63]
 
@@ -1055,13 +819,9 @@ Obviously, if sex is one of the aims of the Shi’i man in seeking a
 But, there is a quick issue here, on account of this *hadith* of
 al-Kulayni:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن حماد، عن الحلبي، عن أبي
-عبد الله عليه السلام في رجل دخل بامرأة قال: إذا التقى الختانان وجب
-المهر والعدة.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن حماد، عن الحلبي، عن أبي
+> عبد الله عليه السلام في رجل دخل بامرأة قال: إذا التقى الختانان وجب
+> المهر والعدة.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – Hammad – al-Halabi:
 
@@ -1071,11 +831,7 @@ dowry and the** ***‘iddah*** **become compulsory**.”[^64]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^65]
 
@@ -1092,14 +848,10 @@ However, if a Shi’i man commits to pay the dowry to a virgin without
 having intercourse with her, then he must fulfil his commitment.
 Al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن سهل بن زياد، وأحمد بن محمد جميعا، عن ابن محبوب، عن
-عبد الله بن سنان، عن أبي عبد الله عليه السلام قال: سمعته يقول: من
-اشترط شرطا مخالفا لكتاب الله فلا يجوز له ولا يجوز على الذي اشترط عليه
-والمسلمون عند شروطهم فيما وافق كتاب الله عزو جل.
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن سهل بن زياد، وأحمد بن محمد جميعا، عن ابن محبوب، عن
+> عبد الله بن سنان، عن أبي عبد الله عليه السلام قال: سمعته يقول: من
+> اشترط شرطا مخالفا لكتاب الله فلا يجوز له ولا يجوز على الذي اشترط عليه
+> والمسلمون عند شروطهم فيما وافق كتاب الله عزو جل.
 
 A number of our companions – Sahl b. Ziyad AND Ahmad b. Muhammad – Ibn
 Mahbub – ‘Abd Allah b. Sinan – Abu ‘Abd Allah, peace be upon him:
@@ -1112,34 +864,22 @@ Almighty**.[^66]
 
 Al-Majlisi submits:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^67]
 
 Al-Ruhani also concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^68]
 
 Al-Ṭusi also documents:
 
-<blockquote dir="rtl">
-  <p>
-عنه عن الحسن بن موسى الخشاب عن غياث بن كلوب عن إسحاق بن عمار عن جعفر
-عن أبيه عليه السلام ان علي بن أبي طالب عليه السلام كان يقول: من شرط
-لامرأته شرطا فليف لها به، فان المسلمين عند شروطهم إلا شرط حرم حلالا أو
-أحل حراما.
-  </p>
-</blockquote>
+> عنه عن الحسن بن موسى الخشاب عن غياث بن كلوب عن إسحاق بن عمار عن جعفر
+> عن أبيه عليه السلام ان علي بن أبي طالب عليه السلام كان يقول: من شرط
+> لامرأته شرطا فليف لها به، فان المسلمين عند شروطهم إلا شرط حرم حلالا أو
+> أحل حراما.
 
 From him (al-Saffar) – al-Hasan b. Musa al-Khashshab – Ghiyath b. Kalub
 – Ishaq b. ‘Ammar – Ja’far – his father, peace be upon him:
@@ -1151,11 +891,7 @@ permits an *haram*.”[^69]
 
 Al-Ruhani comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^70]
 
@@ -1173,13 +909,9 @@ for them. Then, what else does he do?
 He must enquire about her parents. If she has a father, then the Shi’i
 man must approach him for consent. Al-Kulayni documents:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى عن أحمد بن محمد، عن علي بن الحكم، عن علاء بن رزين، عن ابن
-أبي يعفور، عن أبي عبد الله عليه السلام قال: لا تزوج ذوات الآباء من
-الأبكار إلا بإذن آبائهن.
-  </p>
-</blockquote>
+> محمد بن يحيى عن أحمد بن محمد، عن علي بن الحكم، عن علاء بن رزين، عن ابن
+> أبي يعفور، عن أبي عبد الله عليه السلام قال: لا تزوج ذوات الآباء من
+> الأبكار إلا بإذن آبائهن.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – ‘Ali b. al-Hakam – ‘Ala b. Zarin
 – Ibn Abi Ya’fur – Abu ‘Abd Allah, peace be upon him, said:
@@ -1189,45 +921,29 @@ permission of their fathers.[^71]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^72]
 
 Then, he concludes:
 
-<blockquote dir="rtl">
-  <p>
-ويدل على عدم جواز تزويج البكر مطلقا بدون إذن الأب.
-  </p>
-</blockquote>
+> ويدل على عدم جواز تزويج البكر مطلقا بدون إذن الأب.
 
 And it proves the impermissibility, in all situations, of marriage to
 the virgin without the permission of the father.[^73]
 
 Al-Ruhani declares as well about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^74]
 
 So, whether it is for permanent marriage or *mut’ah*, the consent of the
 virgin woman’s father is obligatory. Al-Ṭusi records to this effect too:
 
-<blockquote dir="rtl">
-  <p>
-فاما رواه أحمد بن محمد عن محمد بن إسماعيل عن أبى الحسن ظريف عن ابان عن
-أبي مريم عن أبي عبد الله عليه السلام قال: العذراء التي لها أب لا تتزوج
-متعة إلا باذن أبيها.
-  </p>
-</blockquote>
+> فاما رواه أحمد بن محمد عن محمد بن إسماعيل عن أبى الحسن ظريف عن ابان عن
+> أبي مريم عن أبي عبد الله عليه السلام قال: العذراء التي لها أب لا تتزوج
+> متعة إلا باذن أبيها.
 
 Ahmad b. Muhammad – Muhammad b. Isma’il – Abu al-Hasan Zarif – Aban –
 Abu Maryam – Abu ‘Abd Allah, peace be upon him:
@@ -1237,33 +953,21 @@ the permission of her father.[^75]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^76]
 
 Al-Ruhani also states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^77]
 
 Meanwhile, there is a crucial point which al-Majlisi mentions here, that
 must be taken note of:
 
-<blockquote dir="rtl">
-  <p>
-ومنع جماعة من الأصحاب عن التمتع بالبكر مطلقا إلا بإذن أبيها والجد هنا
-كالأب.
-  </p>
-</blockquote>
+> ومنع جماعة من الأصحاب عن التمتع بالبكر مطلقا إلا بإذن أبيها والجد هنا
+> كالأب.
 
 A group of the companions unconditionally forbade *mut’ah* with the
 virgin except with the permission of her father; **and the grandfather
@@ -1287,13 +991,9 @@ As a result, they both want to set the terms of their *mut’ah*. First,
 they must agree on the dowry and the exact length of their union, as
 al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن سهل بن زياد، ومحمد بن يحيى، عن أحمد بن محمد جميعا،
-عن ابن محبوب عن جميل بن صالح، عن زرارة، عن أبي عبد الله عليه السلام
-قال: لا تكون متعة إلا بأمرين أجل مسمى وأجر مسمى.
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن سهل بن زياد، ومحمد بن يحيى، عن أحمد بن محمد جميعا،
+> عن ابن محبوب عن جميل بن صالح، عن زرارة، عن أبي عبد الله عليه السلام
+> قال: لا تكون متعة إلا بأمرين أجل مسمى وأجر مسمى.
 
 A number of our companions – Sahl b. Ziyad AND Muhammad b. Yahya – Ahmad
 b. Muhammad – Ibn Mahbub – Jamil b. Salih – Zurarah – Abu ‘Abd Allah,
@@ -1304,34 +1004,22 @@ and a specified** **dowry**.”[^79]
 
 ‘Allamah al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^80]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-ويدل على اشتراط المهر وتعيين المدة في المنقطع كما هو المذهب.
-  </p>
-</blockquote>
+> ويدل على اشتراط المهر وتعيين المدة في المنقطع كما هو المذهب.
 
 It proves that the dowry must be given and that the term must be
 specified, in temporary marriage, which is the standard opinion.[^81]
 
 Al-Ṭusi also records:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن عيسى عن علي بن الحكم عن ابان عن إسماعيل بن الفضل
-الهاشمي قال: سألت أبا عبد الله عليه السلام عن المتعة فقال: مهر معلوم
-إلى اجل معلوم.
-  </p>
-</blockquote>
+> أحمد بن محمد بن عيسى عن علي بن الحكم عن ابان عن إسماعيل بن الفضل
+> الهاشمي قال: سألت أبا عبد الله عليه السلام عن المتعة فقال: مهر معلوم
+> إلى اجل معلوم.
 
 Ahmad b. Muhammad b. ‘Isa – ‘Ali b. al-Hakam – Aban – Isma’il b. al-Faḍl
 al-Hashimi:
@@ -1341,11 +1029,7 @@ I asked Abu ‘Abd Allah, peace be upon him, about *mut’ah*. So, he said,
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^83]
 
@@ -1354,15 +1038,11 @@ sometimes called a “wage” in the Qur’an and *Sunnah*.
 
 Al-Kulayni also records about the exact format of the *mut’ah* contract:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن محمد بن الحسين، وعدة من أصحابنا، عن أحمد بن محمد، عن
-عثمان بن عيسى، عن سماعة، عن أبي بصير قال: لابد من أن تقول في هذه
-الشروط: أتزوجك متعة كذا وكذا يوما بكذا وكذا درهما نكاحا غير سفاح على
-كتاب الله عز وجل وسنة نبيه صلى الله عليه وآله وعلى أن لا ترثيني ولا
-أرثك وعلى أن تعتدي خمسة وأربعين يوما وقال: بعضهم حيضة.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن محمد بن الحسين، وعدة من أصحابنا، عن أحمد بن محمد، عن
+> عثمان بن عيسى، عن سماعة، عن أبي بصير قال: لابد من أن تقول في هذه
+> الشروط: أتزوجك متعة كذا وكذا يوما بكذا وكذا درهما نكاحا غير سفاح على
+> كتاب الله عز وجل وسنة نبيه صلى الله عليه وآله وعلى أن لا ترثيني ولا
+> أرثك وعلى أن تعتدي خمسة وأربعين يوما وقال: بعضهم حيضة.
 
 Muhammad b. Yahya – Muhammad b. al-Husayn AND a number of our companions
 – Ahmad b. Muhammad – ‘Uthman b. ‘Isa – Sama’ah – Abu Basir:
@@ -1377,23 +1057,15 @@ days”** and some of them said, “a menstruation.”[^86]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^87]
 
 Al-Kulayni again reports:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي نصر، عن ثعلبة قال: تقول: أتزوجك
-متعة على كتاب الله وسنة نبيه صلى الله عليه وآله نكاحا غير سفاح وعلى أن
-لا ترثيني ولا أرثك كذا وكذا يوما بكذا وكذا درهما وعلى أن عليك العدة.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي نصر، عن ثعلبة قال: تقول: أتزوجك
+> متعة على كتاب الله وسنة نبيه صلى الله عليه وآله نكاحا غير سفاح وعلى أن
+> لا ترثيني ولا أرثك كذا وكذا يوما بكذا وكذا درهما وعلى أن عليك العدة.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi Nasr – Tha’labah:
 
@@ -1406,11 +1078,7 @@ observe the** ***‘iddah***.”[^88]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن موقوف
-  </p>
-</blockquote>
+> حسن موقوف
 
 *Hasan Mawquf*.[^89]
 
@@ -1447,13 +1115,9 @@ period for their union must be explicitly stated.
 As for the dowry, it can be any amount, as long as both parties are
 satisfied with it. Al-Ṭusi documents:
 
-<blockquote dir="rtl">
-  <p>
-الحسين بن سعيد عن النضر عن عاصم بن حميد عن محمد مسلم قال: سألت أبا عبد
-الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه إلى
-ما شاء من الأجل
-  </p>
-</blockquote>
+> الحسين بن سعيد عن النضر عن عاصم بن حميد عن محمد مسلم قال: سألت أبا عبد
+> الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه إلى
+> ما شاء من الأجل
 
 Al-Husayn b. Sa’id – al-Naḍr – ‘Asim b. Humayd – Muhammad b. Muslim:
 
@@ -1463,21 +1127,13 @@ upon, up to** **whatsoever length of time he wishes**.”[^90]
 
 Al-Majlisi proclaims:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^91]
 
 Al-Ruhani also says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^92]
 
@@ -1492,13 +1148,9 @@ With regards to the inheritance of the *mut’ah* wife specifically, it
 occurs where both parties mutually stipulate it as a condition of their
 *nikah*. Al-Kulayni documents:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن أحمد بن محمد بن أبي نصر، عن أبي الحسن
-الرضا عليه السلام قال :تزويج المتعة نكاح بميراث ونكاح بغير ميراث فإن
-اشترطت كان وإن لم تشترط لم يكن.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن أحمد بن محمد بن أبي نصر، عن أبي الحسن
+> الرضا عليه السلام قال :تزويج المتعة نكاح بميراث ونكاح بغير ميراث فإن
+> اشترطت كان وإن لم تشترط لم يكن.
 
 ‘Ali b. Ibrahim – his father – Ahmad b. Muhammad b. Abi Nasr – Abu
 al-Hasan al-Riḍa, peace be upon him:
@@ -1510,33 +1162,21 @@ occur**.”[^93]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^94]
 
 Al-Ruhani also states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^95]
 
 This is also the *fatwa* of Shaykh al-Ṭusi:
 
-<blockquote dir="rtl">
-  <p>
-واما الميراث فإنه اشرط انها ترث ورثت وان لم يشترط فليس لها ولا له
-ميراث وليس يحتاج إلى أن يشترط انها لا ترث لان من شروط المتعة اللازمة
-ان لا يكون بينهما توارث
-  </p>
-</blockquote>
+> واما الميراث فإنه اشرط انها ترث ورثت وان لم يشترط فليس لها ولا له
+> ميراث وليس يحتاج إلى أن يشترط انها لا ترث لان من شروط المتعة اللازمة
+> ان لا يكون بينهما توارث
 
 As for inheritance, it is to be stipulated as a condition that she shall
 inherit and be inherited. If it is not stipulated as a condition, then
@@ -1547,15 +1187,11 @@ them.[^96]
 
 He too then documents this *shahid*:
 
-<blockquote dir="rtl">
-  <p>
-الحسين بن سعيد عن النضر عن عاصم بن حميد عن عن محمد مسلم قال: سألت أبا
-عبد الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه
-إلى ما شاء من الأجل، قلت: أرأيت ان حملت فقال: هو ولده فان أراد ان
-يستقبل أمرا جديدا فعل وليس عليها العدة منه وعليها من غيره خمسة وأربعون
-ليلة وان اشترطت الميراث فهما على شرطهما.
-  </p>
-</blockquote>
+> الحسين بن سعيد عن النضر عن عاصم بن حميد عن عن محمد مسلم قال: سألت أبا
+> عبد الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه
+> إلى ما شاء من الأجل، قلت: أرأيت ان حملت فقال: هو ولده فان أراد ان
+> يستقبل أمرا جديدا فعل وليس عليها العدة منه وعليها من غيره خمسة وأربعون
+> ليلة وان اشترطت الميراث فهما على شرطهما.
 
 Al-Husayn b. Sa’id – al-Naḍr – ‘Asim b. Humayd – Muhammad b. Muslim:
 
@@ -1572,21 +1208,13 @@ they both must comply with their condition**.”[^97]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^98]
 
 Then, al-Ruhani also states:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^99]
 
@@ -1603,13 +1231,9 @@ authentic *ahadith*.
 
 For instance, al-Kulayni says:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن ابن فضال، عن ابن بكير، عن محمد بن
-مسلم قال: سمعت أبا جعفر عليه السلام يقول في الرجل يتزوج المرأة متعة:
-إنهما يتوارثان ما لم يشترطا وإنما الشرط بعد النكاح.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن ابن فضال، عن ابن بكير، عن محمد بن
+> مسلم قال: سمعت أبا جعفر عليه السلام يقول في الرجل يتزوج المرأة متعة:
+> إنهما يتوارثان ما لم يشترطا وإنما الشرط بعد النكاح.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – Ibn Faḍḍal – Ibn Bukayr –
 Muhammad b. Muslim:
@@ -1621,22 +1245,14 @@ condition**; and the condition is only after the marriage.”[^100]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^101]
 
 Explaining it, al-Ṭusi submits:
 
-<blockquote dir="rtl">
-  <p>
-فالمراد بهذا الخبر إذا لم يشترطا الأجل فإنهما يتوارثان دون أن يكون
-المراد به شرط الميراث
-  </p>
-</blockquote>
+> فالمراد بهذا الخبر إذا لم يشترطا الأجل فإنهما يتوارثان دون أن يكون
+> المراد به شرط الميراث
 
 What is meant in this report is “if they have not stipulated the
 specified period as a condition”. In such a case, they both inherit each
@@ -1651,14 +1267,10 @@ inheritance is not automatic.
 
 Another *hadith* that needs clarification is this one by al-Ṭusi:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن أحمد بن يحيى عن أحمد بن محمد عن البرقي عن الحسن بن الجهم عن
-الحسن بن موسى عن سعيد بن يسار عن أبي عبد الله عليه السلام قال: سألته
-عن الرجل يتزوج المرأة متعة ولم يشترط الميراث قال: ليس بينهما ميراث
-اشترط أولم يشترط.
-  </p>
-</blockquote>
+> محمد بن أحمد بن يحيى عن أحمد بن محمد عن البرقي عن الحسن بن الجهم عن
+> الحسن بن موسى عن سعيد بن يسار عن أبي عبد الله عليه السلام قال: سألته
+> عن الرجل يتزوج المرأة متعة ولم يشترط الميراث قال: ليس بينهما ميراث
+> اشترط أولم يشترط.
 
 Muhammad b. Ahmad b. Yahya – Ahmad b. Muhammad – al-Barqi – al-Hasan b.
 al-Jahm – al-Hasan b. Musa – Sa’id b. Yasar:
@@ -1670,22 +1282,14 @@ exclusion of inheritance) is stipulated as a condition or not**.”[^103]
 
 Al-Ruhani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^104]
 
 And, al-Ṭusi explains:
 
-<blockquote dir="rtl">
-  <p>
-هذا الخبر المراد به ما قدمناه من أنه سواء اشترط أو لم يشترط فإنها لا
-ترث فإنه ليس لها ميراث، وإنما يحتاج ثبوته إلى شرط لا ارتفاعه
-  </p>
-</blockquote>
+> هذا الخبر المراد به ما قدمناه من أنه سواء اشترط أو لم يشترط فإنها لا
+> ترث فإنه ليس لها ميراث، وإنما يحتاج ثبوته إلى شرط لا ارتفاعه
 
 The meaning of this report is what we previously stated, that whether it
 (i.e. the exclusion of inheritance) is stipulated as a condition or not,
@@ -1696,11 +1300,7 @@ exclusion.[^105]
 Al-Majlisi, also commenting upon this submission of al-Ṭusi, elucidates
 further:
 
-<blockquote dir="rtl">
-  <p>
-قوله سواء اشترط أي :نفي الميراث
-  </p>
-</blockquote>
+> قوله سواء اشترط أي :نفي الميراث
 
 His statement “whether it is stipulated as a condition”, refers to the
 exclusion of inheritance.[^106]
@@ -1720,13 +1320,9 @@ union. If they had sexual intercourse during their *mut’ah*, or if their
 private parts touch, *‘iddah* becomes obligatory upon the woman.
 Al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن حماد، عن الحلبي، عن أبي
-عبد الله عليه السلام في رجل دخل بامرأة قال: إذا التقى الختانان وجب
-المهر والعدة.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن حماد، عن الحلبي، عن أبي
+> عبد الله عليه السلام في رجل دخل بامرأة قال: إذا التقى الختانان وجب
+> المهر والعدة.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – Hammad – al-Halabi:
 
@@ -1736,32 +1332,20 @@ dowry and the** ***‘iddah*** **become compulsory**.”[^107]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^108]
 
 Al-Ruhani also declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^109]
 
 Al-Kulayni further documents:
 
-<blockquote dir="rtl">
-  <p>
-علي، عن أبيه، عن ابن أبي عمير، عن حفص بن البختري، عن أبي عبد الله عليه
-السلام قال: إذا التقي الختانان وجب المهر والعدة والغسل.
-  </p>
-</blockquote>
+> علي، عن أبيه، عن ابن أبي عمير، عن حفص بن البختري، عن أبي عبد الله عليه
+> السلام قال: إذا التقي الختانان وجب المهر والعدة والغسل.
 
 ‘Ali – his father – Ibn Abi ‘Umayr – Hafs b. al-Bakhtari – Abu ‘Abd
 Allah, peace be upon him:
@@ -1771,21 +1355,13 @@ bath become obligatory.[^110]
 
 Al-Majlisi again states:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^111]
 
 And al-Ruhani once more submits:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^112]
 
@@ -1796,14 +1372,10 @@ private parts meet? If the answer is a “yes”, then she must observe the
 
 There are, however, some exceptions. For instance, al-Kulayni records:
 
-<blockquote dir="rtl">
-  <p>
-حميد بن زياد، عن ابن سماعة، عن محمد بن زياد، عن عبد الله بن سنان، عن
-أبي عبد الله عليه السلام قال: قضى أمير المؤمنين عليه السلام في المتوفى
-عنها زوجها ولم يمسها قال:لا تنكح حتى تعتد أربعة أشهر وعشرا، عدة
-المتوفى عنها زوجها.
-  </p>
-</blockquote>
+> حميد بن زياد، عن ابن سماعة، عن محمد بن زياد، عن عبد الله بن سنان، عن
+> أبي عبد الله عليه السلام قال: قضى أمير المؤمنين عليه السلام في المتوفى
+> عنها زوجها ولم يمسها قال:لا تنكح حتى تعتد أربعة أشهر وعشرا، عدة
+> المتوفى عنها زوجها.
 
 Humayd b. Ziyad – Ibn Sama’ah – Muhammad b. Ziyad – ‘Abd Allah b. Sinan
 – Abu ‘Abd Allah, peace be upon him:
@@ -1816,11 +1388,7 @@ dies.”[^113]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^114]
 
@@ -1830,13 +1398,9 @@ parts ever met that of her dead *mut’ah* husband, or not.
 The other exceptions to the *‘iddah* rule are given in this *hadith* of
 al-Kulayni:
 
-<blockquote dir="rtl">
-  <p>
-أبو علي الأشعري، عن محمد بن عبد الجبار، والرزاز، عن أيوب بن نوح، وحميد
-بن زياد، عن ابن سماعة جميعا، عن صفوان، عن محمد بن حكيم، عن محمد بن
-مسلم، عن أبي جعفر عليه السلام قال: التي لا تحبل مثلها لا عدة عليها.
-  </p>
-</blockquote>
+> أبو علي الأشعري، عن محمد بن عبد الجبار، والرزاز، عن أيوب بن نوح، وحميد
+> بن زياد، عن ابن سماعة جميعا، عن صفوان، عن محمد بن حكيم، عن محمد بن
+> مسلم، عن أبي جعفر عليه السلام قال: التي لا تحبل مثلها لا عدة عليها.
 
 Abu ‘Ali al-Ash’ari – Muhammad b. ‘Abd al-Jabbar AND al-Razzaz – Ayyub
 b. Nuh AND Humayd b. Ziyad – Ibn Sama’ah – Safwan – Muhammad b. Hakim –
@@ -1847,21 +1411,13 @@ upon her.[^115]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-حسن.
-  </p>
-</blockquote>
+> حسن.
 
 *Hasan*.[^116]
 
 Al-Ruhani agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^117]
 
@@ -1876,13 +1432,9 @@ whether he had intercourse with her or not.
 
 Al-Ṭusi also records:
 
-<blockquote dir="rtl">
-  <p>
-روى الحسين بن سعيد عن ابن أبي عمير عن حماد ابن عثمان قال: سألت أبا عبد
-الله عليه السلام عن التي قد يئست من المحيض والتي لا تحيض مثلها قال:
-ليس عليها عدة.
-  </p>
-</blockquote>
+> روى الحسين بن سعيد عن ابن أبي عمير عن حماد ابن عثمان قال: سألت أبا عبد
+> الله عليه السلام عن التي قد يئست من المحيض والتي لا تحيض مثلها قال:
+> ليس عليها عدة.
 
 Al-Husayn b. Sa’id – Ibn Abi ‘Umayr – Hammad b. ‘Uthman:
 
@@ -1892,11 +1444,7 @@ He said, “**There is no** ***‘iddah*** **upon her**.”[^118]
 
 Al-Ruhani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^119]
 
@@ -1921,11 +1469,7 @@ Let us now go into the various *‘iddah* counts for *mut’ah*. For women
 whose temporary husbands die, their *‘iddah* period is stipulated in
 this *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-والذين يتوفون منكم ويذرون أزواجا يتربصن بأنفسهن أربعة أشهر وعشرا
-  </p>
-</blockquote>
+> والذين يتوفون منكم ويذرون أزواجا يتربصن بأنفسهن أربعة أشهر وعشرا
 
 And those of you who die and leave wives behind them, **they (the wives)
 shall wait** **for four months and ten days**.[^121]
@@ -1936,14 +1480,10 @@ observe *‘iddah* for four months and ten days. It also does not matter,
 as discussed above, whether she had intercourse with her dead husband or
 not. Let us bring back al-Kulayni’s *hadith* once again:
 
-<blockquote dir="rtl">
-  <p>
-حميد بن زياد، عن ابن سماعة، عن محمد بن زياد، عن عبد الله بن سنان، عن
-أبي عبد الله عليه السلام قال: قضى أمير المؤمنين عليه السلام في المتوفى
-عنها زوجها ولم يمسها قال:لا تنكح حتى تعتد أربعة أشهر وعشرا، عدة
-المتوفى عنها زوجها.
-  </p>
-</blockquote>
+> حميد بن زياد، عن ابن سماعة، عن محمد بن زياد، عن عبد الله بن سنان، عن
+> أبي عبد الله عليه السلام قال: قضى أمير المؤمنين عليه السلام في المتوفى
+> عنها زوجها ولم يمسها قال:لا تنكح حتى تعتد أربعة أشهر وعشرا، عدة
+> المتوفى عنها زوجها.
 
 Humayd b. Ziyad – Ibn Sama’ah – Muhammad b. Ziyad – ‘Abd Allah b. Sinan
 – Abu ‘Abd Allah, peace be upon him:
@@ -1956,24 +1496,16 @@ whose husband dies.”[^122]
 
 Al-Majlisi rules:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^123]
 
 Al-Ṭusi also records:
 
-<blockquote dir="rtl">
-  <p>
-روى محمد بن أحمد بن يحيى عن علي بن إسماعيل عن صفوان عن عبد الرحمن بن
-الحجاج قال: سألت أبا عبد الله عليه السلام عن المرأة يتزوجها الرجل متعة
-ثم يتوفى عنها زوجها هل عليها العدة؟ فقال: تعتد أربعة أشهر وعشرا فإذا
-انقضت أيامها وهو حي فحيضة ونصف مثل ما يجب على الأمة
-  </p>
-</blockquote>
+> روى محمد بن أحمد بن يحيى عن علي بن إسماعيل عن صفوان عن عبد الرحمن بن
+> الحجاج قال: سألت أبا عبد الله عليه السلام عن المرأة يتزوجها الرجل متعة
+> ثم يتوفى عنها زوجها هل عليها العدة؟ فقال: تعتد أربعة أشهر وعشرا فإذا
+> انقضت أيامها وهو حي فحيضة ونصف مثل ما يجب على الأمة
 
 Muhammad b. Ahmad b. Yahya – ‘Ali b. Isma’il – Safwan – ‘Abd al-Rahman
 b. al-Hajjaj:
@@ -1987,11 +1519,7 @@ is obligatory upon the slave woman”[^124]
 
 Al-Ruhani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^125]
 
@@ -2001,13 +1529,9 @@ indicates, where both parties are alive at the expiration of the
 *mut’ah*, the woman only observes an *‘iddah* of one and a half month –
 forty-five days. Al-Kulayni reports this further confirmation:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن ابن فضال، عن ابن بكير، عن زرارة قال:
-عدة المتعة خمسة وأربعون يوما كأني أنظر إلى أبي جعفر عليه السلام يعقد
-بيده خمسة وأربعين فإذا جاز الاجل كانت فرقة بغير طلاق.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن ابن فضال، عن ابن بكير، عن زرارة قال:
+> عدة المتعة خمسة وأربعون يوما كأني أنظر إلى أبي جعفر عليه السلام يعقد
+> بيده خمسة وأربعين فإذا جاز الاجل كانت فرقة بغير طلاق.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – Ibn Faḍḍal – Ibn Bukayr –
 Zurarah:
@@ -2019,23 +1543,15 @@ there is separation (between the spouses) without divorce.[^126]
 
 And al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^127]
 
 However, there is some further explanation, which al-Ṭusi has recorded:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يعقوب عن علي بن إبراهيم عن أبيه عن ابن أبي عمير عن ابن أذينة
-عن زرارة عن أبي عبد الله عليه السلام أنه قال: عدة المتعة ان كانت تحيض
-فحيضة وإن كانت لا تحيض فشهر ونصف.
-  </p>
-</blockquote>
+> محمد بن يعقوب عن علي بن إبراهيم عن أبيه عن ابن أبي عمير عن ابن أذينة
+> عن زرارة عن أبي عبد الله عليه السلام أنه قال: عدة المتعة ان كانت تحيض
+> فحيضة وإن كانت لا تحيض فشهر ونصف.
 
 Muhammad b. Ya’qub – ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – Ibn
 Uzaynah – Zurarah – Abu ‘Abd Allah, peace be upon him:
@@ -2046,24 +1562,16 @@ half month.[^128]
 
 Al-Ruhani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^129]
 
 The Sunni Imam, ‘Abd al-Razzaq (d. 211 H), has a similar *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير قال: سمعت جابر بن عبد
-الله يقول: استمتعنا أصحاب النبي صلى الله عليه وسلم، حتى نهي عمرو بن
-حريث، قال: وقال جابر: إذا انقضى الأجل فبدا لهما أن يتعاودا، فليمهرها
-مهرا آخر، قال: وسأله بعضنا كم تعتد؟ قال: حيضة واحدة
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير قال: سمعت جابر بن عبد
+> الله يقول: استمتعنا أصحاب النبي صلى الله عليه وسلم، حتى نهي عمرو بن
+> حريث، قال: وقال جابر: إذا انقضى الأجل فبدا لهما أن يتعاودا، فليمهرها
+> مهرا آخر، قال: وسأله بعضنا كم تعتد؟ قال: حيضة واحدة
 
 ‘Abd al-Razzaq – Ibn Jurayj – Abu al-Zubayr – Jabir b. ‘Abd Allah:
 
@@ -2085,20 +1593,16 @@ menstruates, her *‘iddah* lasts till the end of a menstrual period.
 
 Then, there is this *hadith* of al-Kulayni:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، عن إسماعيل
-ابن الفضل الهاشمي قال: سألت أبا عبد الله عليه السلام عن المتعة فقال:
-الق عبد الملك بن جريج فسله عنها فإن عنده منها علما فلقيته فأملى علي
-منها شيئا كثيرا في استحلالها فكان فيما روى لي ابن جريج قال: ليس فيها
-وقت ولا عدد إنما هي بمنزلة الإماء يتزوج منهن كم شاء وصاحب الأربع نسوة
-يتزوج منهن ما شاء بغير ولي ولا شهود فإذا انقضى الاجل بانت منه بغير
-طلاق ويعطيها الشئ اليسير وعدتها حيضتان وإن كانت لا تحيض فخمسة وأربعون
-يوما فأتيت بالكتاب أبا عبد الله عليه السلام فعرضت عليه فقال: صدق وأقر
-به قال: ابن أذينة و كان زرارة بن أعين يقول هذا ويحلف أنه الحق إلا أنه
-كان يقول: إن كانت تحيض فحيضة وإن كانت لا تحيض فشهر ونصف.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، عن إسماعيل
+> ابن الفضل الهاشمي قال: سألت أبا عبد الله عليه السلام عن المتعة فقال:
+> الق عبد الملك بن جريج فسله عنها فإن عنده منها علما فلقيته فأملى علي
+> منها شيئا كثيرا في استحلالها فكان فيما روى لي ابن جريج قال: ليس فيها
+> وقت ولا عدد إنما هي بمنزلة الإماء يتزوج منهن كم شاء وصاحب الأربع نسوة
+> يتزوج منهن ما شاء بغير ولي ولا شهود فإذا انقضى الاجل بانت منه بغير
+> طلاق ويعطيها الشئ اليسير وعدتها حيضتان وإن كانت لا تحيض فخمسة وأربعون
+> يوما فأتيت بالكتاب أبا عبد الله عليه السلام فعرضت عليه فقال: صدق وأقر
+> به قال: ابن أذينة و كان زرارة بن أعين يقول هذا ويحلف أنه الحق إلا أنه
+> كان يقول: إن كانت تحيض فحيضة وإن كانت لا تحيض فشهر ونصف.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – ‘Umar b. Uzaynah –
 Isma’il b. al-Faḍl al-Hashimi:
@@ -2126,21 +1630,13 @@ and a half”.[^131]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^132]
 
 Ayatullah al-Ruhani also states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح أو حسن
-  </p>
-</blockquote>
+> صحيح أو حسن
 
 *Sahih* or *Hasan*.[^133]
 
@@ -2148,13 +1644,9 @@ Ayatullah al-Ruhani also states:
 era. He was apparently one of the few *Salaf* who still believed in
 *mut’ah*. Imam al-Dhahabi (d. 748 H) documents about him:
 
-<blockquote dir="rtl">
-  <p>
-قال أبو غسان زنيج: سمعت جريرا الضبي يقول: كان ابن جريج يرى المتعة،
-تزوج بستين امرأة. وقيل: إنه عهد إلى أولاده في أسمائهن لئلا يغلط أحد
-منهم ويتزوج واحدة مما نكح أبوه بالمتعة.
-  </p>
-</blockquote>
+> قال أبو غسان زنيج: سمعت جريرا الضبي يقول: كان ابن جريج يرى المتعة،
+> تزوج بستين امرأة. وقيل: إنه عهد إلى أولاده في أسمائهن لئلا يغلط أحد
+> منهم ويتزوج واحدة مما نكح أبوه بالمتعة.
 
 Abu Ghassan Zunayj said: I heard Jarir al-Ḍabi saying: “**Ibn Jurayj
 believed in the legitimacy of** ***mut’ah*****. He married sixty
@@ -2164,12 +1656,8 @@ had married in *mut’ah*.”[^134]
 
 He also records:
 
-<blockquote dir="rtl">
-  <p>
-وقال محمد بن عبد الله بن عبد الحكم، سمعت الشافعي يقول: استمتع ابن جريج
-بتسعين امرأة
-  </p>
-</blockquote>
+> وقال محمد بن عبد الله بن عبد الحكم، سمعت الشافعي يقول: استمتع ابن جريج
+> بتسعين امرأة
 
 Muhammad b. ‘Abd Allah b. ‘Abd al-Hakam said: I heard al-Shafi’i saying:
 “**Ibn Jurayj did** ***mut’ah*** **with ninety women**.”[^135]
@@ -2193,11 +1681,7 @@ Ahl al-Bayt. It then depends upon the choice of the two parties,
 whichever type they agreed upon in their *mut’ah* contract. Al-Majlisi
 submits in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وحمل الزائدة على الحيضة على الاستحباب لا يخلو من قوة
-  </p>
-</blockquote>
+> وحمل الزائدة على الحيضة على الاستحباب لا يخلو من قوة
 
 The classification of the addition upon the (single) menstruation as
 *mustahab* (recommended) is not devoid of strength.[^136]
@@ -2212,13 +1696,9 @@ immutably fixed at forty-five days. No options are given in such a case.
 What then happens if the woman in a concluded *mut’ah* is pregnant from
 it? How long is her *‘iddah*? Shaykh al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-حميد بن زياد، عن ابن سماعة، عن محمد بن زياد، عن عبد الله بن سنان، عن
-أبي عبد الله عليه السلام قال: الحبلى المتوفى عنها زوجها عدتها آخر
-الأجلين.
-  </p>
-</blockquote>
+> حميد بن زياد، عن ابن سماعة، عن محمد بن زياد، عن عبد الله بن سنان، عن
+> أبي عبد الله عليه السلام قال: الحبلى المتوفى عنها زوجها عدتها آخر
+> الأجلين.
 
 Humayd b. Ziyad – Ibn Sama’ah – Muhammad b. Ziyad – ‘Abd Allah b. Sinan
 – Abu ‘Abd Allah, peace be upon him:
@@ -2228,11 +1708,7 @@ The pregnant wife whose husband dies and leaves her, **her**
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^138]
 
@@ -2248,15 +1724,11 @@ a miscarriage, before four months and ten days, in that case, her
 
 Al-Kulayni also documents:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن أحمد بن محمد بن خالد، وعلي بن إبراهيم، عن أبيه، عن
-عثمان بن عيسى، عن سماعة قال: قال: المتوفى عنها زوجها الحامل أجلها آخر
-الأجلين إذا كانت حبلى فتمت لها أربعة أشهر وعشر ولم تضع فإن عدتها إلى
-أن تضع وإن كانت تضع حملها قبل أن يتم لها أربعة أشهر وعشرا تعتد بعدما
-تضع تمام أربعة أشهر و عشرا وذلك أبعد الأجلين.
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن أحمد بن محمد بن خالد، وعلي بن إبراهيم، عن أبيه، عن
+> عثمان بن عيسى، عن سماعة قال: قال: المتوفى عنها زوجها الحامل أجلها آخر
+> الأجلين إذا كانت حبلى فتمت لها أربعة أشهر وعشر ولم تضع فإن عدتها إلى
+> أن تضع وإن كانت تضع حملها قبل أن يتم لها أربعة أشهر وعشرا تعتد بعدما
+> تضع تمام أربعة أشهر و عشرا وذلك أبعد الأجلين.
 
 A number of our companions – Ahmad b. Muhammad b. Khalid AND ‘Ali b.
 Ibrahim – his father – ‘Uthman b. ‘Isa – Sama’ah:
@@ -2271,21 +1743,13 @@ that is the longer of the two periods.[^139]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-موثق وعليه الفتوى
-  </p>
-</blockquote>
+> موثق وعليه الفتوى
 
 *Muwaththaq*, and upon it is the *fatwa*.[^140]
 
 Al-Ruhani concurs too:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^141]
 
@@ -2294,24 +1758,16 @@ or in a *mut’ah*. What then about the temporary wife who is pregnant and
 her husband is alive, at the time of their separation? The Qur’an gives
 the answer very clearly:
 
-<blockquote dir="rtl">
-  <p>
-وأولات الأحمال أجلهن أن يضعن حملهن
-  </p>
-</blockquote>
+> وأولات الأحمال أجلهن أن يضعن حملهن
 
 And for those who are pregnant, their (waiting) period is until they
 deliver their pregnancies.[^142]
 
 Al-Kulayni also documents:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي نجران، عن عاصم بن حميد، عن محمد
-ابن قيس، عن أبي جعفر عليه السلام قال: الحامل أجلها أن تضع حملها وعليه
-نفقتها بالمعروف حتى تضع حملها.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي نجران، عن عاصم بن حميد، عن محمد
+> ابن قيس، عن أبي جعفر عليه السلام قال: الحامل أجلها أن تضع حملها وعليه
+> نفقتها بالمعروف حتى تضع حملها.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi Najran – ‘Asim b. Humayd –
 Muhammad b. Qays – Abu Ja’far, peace be upon him:
@@ -2322,21 +1778,13 @@ until she delivers her pregnancy.[^143]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^144]
 
 And al-Ruhani also declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح أو حسن
-  </p>
-</blockquote>
+> صحيح أو حسن
 
 *Sahih* or *Hasan*.[^145]
 
@@ -2349,12 +1797,8 @@ Children Of Mut’ah
 And, whatever pregnancy the woman has from *mut’ah* is legitimate, and
 so are all children from it. Al-Ṭusi reports:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن أبي نصر عن عاصم بن حميد عن محمد بن مسلم عن أبي عبد
-الله عليه السلام قال قلت له: أرأيت إن حبلت؟ قال: هو ولده.
-  </p>
-</blockquote>
+> أحمد بن محمد بن أبي نصر عن عاصم بن حميد عن محمد بن مسلم عن أبي عبد
+> الله عليه السلام قال قلت له: أرأيت إن حبلت؟ قال: هو ولده.
 
 Ahmad b. Muhammad b. Abi Nasr – ‘Asim b. Humayd – Muhammad b. Muslim:
 
@@ -2363,35 +1807,23 @@ pregnant?” He said, “**It is** ***his*** **child**.”[^146]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^147]
 
 Al-Ruhani agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^148]
 
 Al-Ṭusi again records:
 
-<blockquote dir="rtl">
-  <p>
-الحسين بن سعيد عن النضر عن عاصم بن حميد عن عن محمد مسلم قال: سألت أبا
-عبد الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه
-إلى ما شاء من الأجل، قلت: أرأيت ان حملت فقال: هو ولده فان أراد ان
-يستقبل أمرا جديدا فعل وليس عليها العدة منه وعليها من غيره خمسة وأربعون
-ليلة وان اشترطت الميراث فهما على شرطهما.
-  </p>
-</blockquote>
+> الحسين بن سعيد عن النضر عن عاصم بن حميد عن عن محمد مسلم قال: سألت أبا
+> عبد الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه
+> إلى ما شاء من الأجل، قلت: أرأيت ان حملت فقال: هو ولده فان أراد ان
+> يستقبل أمرا جديدا فعل وليس عليها العدة منه وعليها من غيره خمسة وأربعون
+> ليلة وان اشترطت الميراث فهما على شرطهما.
 
 Al-Husayn b. Sa’id – al-Naḍr – ‘Asim b. Humayd – Muhammad b. Muslim:
 
@@ -2409,36 +1841,24 @@ condition.”[^149]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^150]
 
 Al-Ruhani also states:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^151]
 
 Al-Ṭusi further documents:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن عيسى عن محمد بن إسماعيل بن بزيع قال: سأل رجل الرضا
-عليه السلام وانا اسمع عن الرجل يتزوج المرأة متعة ويشترط عليها ان لا
-يطلب ولدها فتأتي بعد ذلك بولد فينكر الولد فشدد في ذلك وقال يجحد؟ وكيف
-يجحد اعظاما لذلك؟ قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا
-مأمونة ان الله يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا
-ينكحها إلا زان أو مشرك وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> أحمد بن محمد بن عيسى عن محمد بن إسماعيل بن بزيع قال: سأل رجل الرضا
+> عليه السلام وانا اسمع عن الرجل يتزوج المرأة متعة ويشترط عليها ان لا
+> يطلب ولدها فتأتي بعد ذلك بولد فينكر الولد فشدد في ذلك وقال يجحد؟ وكيف
+> يجحد اعظاما لذلك؟ قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا
+> مأمونة ان الله يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا
+> ينكحها إلا زان أو مشرك وحرم ذلك على المؤمنين
 
 Ahmad b. Muhammad b. ‘Isa – Muhammad b. Isma’il b. Bazi’:
 
@@ -2456,31 +1876,19 @@ believers}.[^152]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^153]
 
 And al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^154]
 
 Then, he explains:
 
-<blockquote dir="rtl">
-  <p>
-)ويشترط عليها أن لا يطلب ولدها (أي يعزل عنها
-  </p>
-</blockquote>
+> )ويشترط عليها أن لا يطلب ولدها (أي يعزل عنها
 
 (and he imposes a condition upon her that he will not seek her child)
 meaning, **he will use (the contraceptive method of) coitus interruptus
@@ -2492,13 +1900,9 @@ the child, if pregnancy occurs during their union. This, obviously, is
 one of the reasons why *mut’ah* with promiscuous women is not allowed.
 Note especially this part of the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا مأمونة ان الله
-يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو
-مشرك وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا مأمونة ان الله
+> يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو
+> مشرك وحرم ذلك على المؤمنين
 
 **Then, the man said, “What if he accuses her (of fornication)?” He
 (al-Riḍa) said, “It is not appropriate for you to marry except a
@@ -2537,12 +1941,8 @@ is a relatively easier tool for successfully denying paternity or
 *claiming* adultery against the wife, in a permanent marriage[^157].
 Al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-محمد، عن أحمد، عن ابن محبوب، عن العلاء بن رزين، عن ابن أبي يعفور، عن
-أبي عبد الله عليه السلام قال: لا يلاعن الرجل المرأة التي يتمتع بها.
-  </p>
-</blockquote>
+> محمد، عن أحمد، عن ابن محبوب، عن العلاء بن رزين، عن ابن أبي يعفور، عن
+> أبي عبد الله عليه السلام قال: لا يلاعن الرجل المرأة التي يتمتع بها.
 
 Muhammad – Ahmad – Ibn Mahbub – al-‘Ala b. Razin – Ibn Abi Ya’fur – Abu
 ‘Abd Allah, peace be upon him:
@@ -2552,21 +1952,13 @@ The man does not do *li’an* against the woman with whom he does
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^159]
 
 Al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^160]
 
@@ -2583,14 +1975,10 @@ Christian woman for a certain period of time. However, as time passes,
 he sees a lot of good virtues –spiritual or mundane – in her, and wishes
 to extend their relationship. Al-Kulayni documents that he can do that:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن سهل بن زياد، وعلي بن إبراهيم، عن أبيه جميعا، عن عبد
-الرحمن بن أبي نجران، وأحمد بن أبي نصر، عن أبي بصير قال: لا بأس بأن
-تزيدك وتزيدها إذا انقطع الاجل فيما بينكما تقول: استحللتك بأجل آخر برضا
-منها ولا يحل ذلك لغيرك حتى تنقضي عدتها.
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن سهل بن زياد، وعلي بن إبراهيم، عن أبيه جميعا، عن عبد
+> الرحمن بن أبي نجران، وأحمد بن أبي نصر، عن أبي بصير قال: لا بأس بأن
+> تزيدك وتزيدها إذا انقطع الاجل فيما بينكما تقول: استحللتك بأجل آخر برضا
+> منها ولا يحل ذلك لغيرك حتى تنقضي عدتها.
 
 A number of our companions – Sahl b. Ziyad AND ‘Ali b. Ibrahim – his
 father – ‘Abd al-Rahman b. Abi Najran AND Ahmad b. Abi Nasr – Abu Basir:
@@ -2602,21 +1990,13 @@ anyone apart from you until she completes her *‘iddah*.[^161]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-حسن كالصحيح
-  </p>
-</blockquote>
+> حسن كالصحيح
 
 *Hasan ka al-Sahih*.[^162]
 
 And referring to the same *hadith*, al-Ruhani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح أبي بصير عن أبي جعفر عليه السلام في المتعة
-  </p>
-</blockquote>
+> صحيح أبي بصير عن أبي جعفر عليه السلام في المتعة
 
 The *sahih* report of Abu Basir from Abu Ja’far, peace be upon him, on
 *mut’ah*.[^163]
@@ -2627,15 +2007,11 @@ only be done after the end of the ongoing *mut’ah*.
 
 Al-Ṭusi also says:
 
-<blockquote dir="rtl">
-  <p>
-الحسين بن سعيد عن النضر عن عاصم بن حميد عن عن محمد مسلم قال: سألت أبا
-عبد الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه
-إلى ما شاء من الأجل، قلت: أرأيت ان حملت فقال: هو ولده فان أراد ان
-يستقبل أمرا جديدا فعل وليس عليها العدة منه وعليها من غيره خمسة وأربعون
-ليلة وان اشترطت الميراث فهما على شرطهما.
-  </p>
-</blockquote>
+> الحسين بن سعيد عن النضر عن عاصم بن حميد عن عن محمد مسلم قال: سألت أبا
+> عبد الله عليه السلام كم المهر - يعني في المتعة -؟ فقال: ما تراضيا عليه
+> إلى ما شاء من الأجل، قلت: أرأيت ان حملت فقال: هو ولده فان أراد ان
+> يستقبل أمرا جديدا فعل وليس عليها العدة منه وعليها من غيره خمسة وأربعون
+> ليلة وان اشترطت الميراث فهما على شرطهما.
 
 Al-Husayn b. Sa’id – al-Naḍr – ‘Asim b. Humayd – Muhammad b. Muslim:
 
@@ -2652,34 +2028,22 @@ both must comply with their condition.”[^164]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^165]
 
 Al-Ruhani, on his own, submits:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^166]
 
 Imam ‘Abd al-Razzaq of the Ahl al-Sunnah is not left out either:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير قال: سمعت جابر بن عبد
-الله يقول: استمتعنا أصحاب النبي صلى الله عليه وسلم، حتى نهي عمرو بن
-حريث، قال: وقال جابر: إذا انقضى الأجل فبدا لهما أن يتعاودا، فليمهرها
-مهرا آخر، قال: وسأله بعضنا كم تعتد؟ قال: حيضة واحدة
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير قال: سمعت جابر بن عبد
+> الله يقول: استمتعنا أصحاب النبي صلى الله عليه وسلم، حتى نهي عمرو بن
+> حريث، قال: وقال جابر: إذا انقضى الأجل فبدا لهما أن يتعاودا، فليمهرها
+> مهرا آخر، قال: وسأله بعضنا كم تعتد؟ قال: حيضة واحدة
 
 ‘Abd al-Razzaq – Ibn Jurayj – Abu al-Zubayr – Jabir b. ‘Abd Allah:
 
@@ -3297,5 +2661,4 @@ Muasassat Dar al-Kitab; 3rd edition, 1414 H), vol. 22, p. 36
 
 [^167]: Abu Bakr ‘Abd al-Razzaq b. Hamam al-Ṣa’nani, al-Muṣannaf
 [annotator: Habib al-Rahman al-A’ẓami], vol. 7, p. 499, \# 14025
-
 

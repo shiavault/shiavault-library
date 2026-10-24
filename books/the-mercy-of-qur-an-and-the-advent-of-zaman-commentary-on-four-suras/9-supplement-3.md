@@ -342,4 +342,3 @@ what is haram ( forbidden) for you is punished." Because breath, being a
 gift of the Rahman, is halal upon man, he must account for how he uses
 it.
 
-

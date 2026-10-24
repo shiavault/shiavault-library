@@ -31,4 +31,3 @@ Be they our teachers, or citizens nation-wide.
 
 *Talat June and Ali Peiravi*
 
-

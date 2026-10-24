@@ -236,4 +236,3 @@ righteousness in him.
 A tradition of the above meaning has been narrated in ad-Durru
 'I-manthur, from Ibn Mas'ud.
 
-

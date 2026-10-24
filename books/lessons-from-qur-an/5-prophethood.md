@@ -5067,4 +5067,3 @@ past Prophets to the Holy Prophet was with the purpose of providing
 consolation to him too. We implore Almighty Allah to count us among the
 loyal and obedient followers of the Holy Prophet of Islam.
 
-

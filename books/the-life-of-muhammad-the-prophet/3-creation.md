@@ -370,4 +370,3 @@ mail to 'Abdul Muttalib; the Quraish got nothing.
  It was then that 'Abdul-Muttalili dedicated one-fifth of his own share
 to the Ka'bah.
 
-

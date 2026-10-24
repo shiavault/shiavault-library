@@ -50,4 +50,3 @@ was a fool, but then he explained:
 I might then become arrogant and ill-treat my Muslim brothers the way he
 did to me.”
 
-

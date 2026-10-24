@@ -13,13 +13,9 @@ In refuting the notion of those who regard the Divine decree and
 providence as tantamount to the absence of freewill in the human being,
 Imām ‘Alī (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كانَ كَذٰلِكَ لَبَطَلَ الثَّوابُ وَالْعِقابُ، وَالأَمْرُ
-وَالنَّهْيُ وَالزَّجْرُ وَلَسَقَطَ مَعْنَى الْوَعْدِ وَالْوَعيدِ،
-وَلَمْ يَكُنْ عَلى مُسِىءٍ لائِمَةٌ وَلا لِمُحْسِنٍ مَحْمَدَةٌ.
-  </p>
-</blockquote>
+> لَوْ كانَ كَذٰلِكَ لَبَطَلَ الثَّوابُ وَالْعِقابُ، وَالأَمْرُ
+> وَالنَّهْيُ وَالزَّجْرُ وَلَسَقَطَ مَعْنَى الْوَعْدِ وَالْوَعيدِ،
+> وَلَمْ يَكُنْ عَلى مُسِىءٍ لائِمَةٌ وَلا لِمُحْسِنٍ مَحْمَدَةٌ.
 
 “If it was such, reward and punishment, command and prohibition and
 chastisement were false, and promise and warning baseless, and the
@@ -28,12 +24,8 @@ wrongdoer would not be condemned and the doer of good be praised.”[^1]
 Muḥammad ibn ‘Ajlān asked Imām al-Ṣādiq (*‘a*), “Had God compelled [His]
 servants in their actions?” The Imām (*‘a*) replied, thus:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ أَعْدَلُ مِنْ أنْ يُجْبِرَ عَبدًا عَلى فِعْلٍ ثُمَّ يُعَذِّبَهُ
-عَلَيهِ.
-  </p>
-</blockquote>
+> اللهُ أَعْدَلُ مِنْ أنْ يُجْبِرَ عَبدًا عَلى فِعْلٍ ثُمَّ يُعَذِّبَهُ
+> عَلَيهِ.
 
 “Allah is more just than that He would compel a servant to do something
 and thereafter punish him.”[^2]
@@ -41,11 +33,7 @@ and thereafter punish him.”[^2]
 Ḥasan ibn ‘Alī Washshā’ asked Imām al-Riḍā (*‘a*), “Does Allah compel
 [His] servants to commit sins?” The Imām (*‘a*) replied:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ أعْدَلُ وَأحْكَمُ مِنْ ذلِكَ.
-  </p>
-</blockquote>
+> اللهُ أعْدَلُ وَأحْكَمُ مِنْ ذلِكَ.
 
 “Allah is more just and wise than that (compelling His servants to
 commit sins).”[^3]
@@ -60,13 +48,9 @@ predetermination (*jabr*) as contrary to the Divine justice, and by
 citing the justice and wisdom of God, they have argued for the freewill
 of man. For instance, Wāṣil ibn ‘Aṭā has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْباري تَعالى عَدْلٌ حَكيمٌ... وَلا يَجوزُ أنْ يُريدَ مِنَ
-العِبادِ خِلافُ ما يَأمُرُ، وَيَحْتمُ عَلَيهِم شَيئاً ثمّ يُجازيهِمْ
-عَليهِ.
-  </p>
-</blockquote>
+> إنَّ الْباري تَعالى عَدْلٌ حَكيمٌ... وَلا يَجوزُ أنْ يُريدَ مِنَ
+> العِبادِ خِلافُ ما يَأمُرُ، وَيَحْتمُ عَلَيهِم شَيئاً ثمّ يُجازيهِمْ
+> عَليهِ.
 
 “Indeed God, the Exalted, is just and wise… It is not inconceivable [for
 Him] to desire for [His] servants that which is contrary to what He
@@ -87,11 +71,7 @@ freewill has no meaning other than this.[^5]
 Muḥaqqiq al-Ṭūsī has also considered self-evident the agency
 (*fā‘iliyyah*) and freewill of man, saying thus:
 
-<blockquote dir="rtl">
-  <p>
-وَالضَّرورَةُ قاضِيَةٌ بِاسْتِنادِ أَفْعالِنا إِلَيْنا.
-  </p>
-</blockquote>
+> وَالضَّرورَةُ قاضِيَةٌ بِاسْتِنادِ أَفْعالِنا إِلَيْنا.
 
 “Axiomatic perception testifies that our actions are traceable to
 us.”[^6]
@@ -132,21 +112,13 @@ injustice and oppression.[^8]
 action because according to the following verse, that which God creates
 is good:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ﴾
 
 ***“[It is He] who perfected everything that He created.”***[^9]
 
 And it is free from blemish as well:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ ﴾
 
 ***“[It is He] who has made everything faultless.”***[^10]
 
@@ -154,11 +126,7 @@ This is while some of the human actions are unacceptable and faulty. So,
 God can never be the agent and creator of these actions. The Holy Qur’an
 has thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَمَن شَاء فَلْيُؤْمِنْ وَمَن شَاءَ فَلْيَكْفُرْ ﴾
-  </p>
-</blockquote>
+> ﴿ فَمَن شَاء فَلْيُؤْمِنْ وَمَن شَاءَ فَلْيَكْفُرْ ﴾
 
 ***“Let anyone who wishes believe it, and let anyone who wishes
 disbelieve it.”***[^11]
@@ -202,12 +170,8 @@ subscribe to *tafwīḍ*) are described as the Magians (*majūs*) of the
 Muslim community (*ummah*). In *Thawāb al-A‘māl*, for instance, Shaykh
 al-Ṣadūq recorded Imām ‘Alī (*‘a*) to have said:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ أُمَّةٍ مَجوسٌ، وَمُجوسُ هذِهِ الأُمَّةِ الَّذينَ يَقولونَ لا
-قَدرَ.
-  </p>
-</blockquote>
+> لِكُلِّ أُمَّةٍ مَجوسٌ، وَمُجوسُ هذِهِ الأُمَّةِ الَّذينَ يَقولونَ لا
+> قَدرَ.
 
 “There is a Magian for every community and the Magians of this community
 are those who deny the Divine decree (*qadr*).”[^13]
@@ -219,12 +183,8 @@ refutation of the theory of *tafwīḍ*, this flaw has always been
 mentioned. For instance, it is thus stated in a tradition narrated by
 Imām al-Ṣādiq (*‘a*) from the Prophet (*ṣ*):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَعَمَ أَنَّ الْخَيرَ وَالشَّرَّ بِغَيْرِ مَشيَةِ اللهِ فَقَدْ
-أَخْرَجَ اللهَ عَنْ سُلطانِهِ.
-  </p>
-</blockquote>
+> مَنْ زَعَمَ أَنَّ الْخَيرَ وَالشَّرَّ بِغَيْرِ مَشيَةِ اللهِ فَقَدْ
+> أَخْرَجَ اللهَ عَنْ سُلطانِهِ.
 
 “Anyone who imagines that good and bad are outside the will of Allah has
 thrown Allah out of His sovereignty.”[^14]
@@ -232,12 +192,8 @@ thrown Allah out of His sovereignty.”[^14]
 In another *ḥadīth*, it is reported that Imām al-Bāqir (*‘a*) addressed
 Ḥasan al-Baṣrī, thus:
 
-<blockquote dir="rtl">
-  <p>
-إيّاكَ أَنْ تَقولَ بِالتَّفويضِ فَإِنَّ اللهَ عَزَّ وَجَلَّ لَمْ
-يُفَوِّضِ الأَمْرَ إِلى خَلْقِهِ وَهْنًا مِنْهُ وَضَعْفًا.
-  </p>
-</blockquote>
+> إيّاكَ أَنْ تَقولَ بِالتَّفويضِ فَإِنَّ اللهَ عَزَّ وَجَلَّ لَمْ
+> يُفَوِّضِ الأَمْرَ إِلى خَلْقِهِ وَهْنًا مِنْهُ وَضَعْفًا.
 
 “Never say ‘delegation’ (*tafwīḍ*) for Allah, the Blessed and Exalted,
 has not delegated the affair of creation and control to His creatures
@@ -245,12 +201,8 @@ out of weakness and impotence.”[^15]
 
 And Imām al-Ṣādiq (*‘a*) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ القَدَرِيَّةَ مَجوسُ هَذهِ الأُمَّةِ وَهُمُ الَّذينَ أَرادوا
-أَنْ يَصِفوا اللهَ بِعَدْلِهِ فَأَخْرَجوهُ مِنْ سُلْطانِهِ.
-  </p>
-</blockquote>
+> إِنَّ القَدَرِيَّةَ مَجوسُ هَذهِ الأُمَّةِ وَهُمُ الَّذينَ أَرادوا
+> أَنْ يَصِفوا اللهَ بِعَدْلِهِ فَأَخْرَجوهُ مِنْ سُلْطانِهِ.
 
 “Qadariyyah are the Magians of this community. They are those who want
 to describe God with justice but the consequence is that they got rid of
@@ -264,12 +216,8 @@ actions are only realized through the power of God, and man’s ability
 and freewill have no role at all in their realization. The author of
 *Al-Mawāqif* has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أَفْعالَ الْعِبادِ الإخْتِيارِيَّةَ واقِعَةٌ بِقَدَرِ اللهِ
-سُبحانَهُ وَتَعالى وَحْدَها.
-  </p>
-</blockquote>
+> إنَّ أَفْعالَ الْعِبادِ الإخْتِيارِيَّةَ واقِعَةٌ بِقَدَرِ اللهِ
+> سُبحانَهُ وَتَعالى وَحْدَها.
 
 “Indeed the voluntary actions of the servants are solely realized by the
 power of Allah, the Glorious and Exalted.”[^17]
@@ -311,13 +259,9 @@ its action; it is rather that of the connection between the receptacle
 dwelling place (*maḥall*). As Mīr Sayyid Sharīf Gurgānī and Fāḍil
 Qawshchī have said,
 
-<blockquote dir="rtl">
-  <p>
-ألمْرُادُ بِكَسْبِهِ إيّاهُ مُقارِنَتُهُ لِقُدْرَتِهِ وَإرادَتِهِ مِنْ
-غَيرِ أنْ يَكونَ هُناكَ مَعَهُ تَأثيرٌ أو مَدْخَلٌ في وُجودِهِ كونه
-مَحلاً لَهُ.
-  </p>
-</blockquote>
+> ألمْرُادُ بِكَسْبِهِ إيّاهُ مُقارِنَتُهُ لِقُدْرَتِهِ وَإرادَتِهِ مِنْ
+> غَيرِ أنْ يَكونَ هُناكَ مَعَهُ تَأثيرٌ أو مَدْخَلٌ في وُجودِهِ كونه
+> مَحلاً لَهُ.
 
 “That man ‘acquires’ his own action means that his ability and will have
 connection with the occurrence of the action without his ability having
@@ -333,12 +277,8 @@ problem of predestination. For instance, Aḥmad Amīn al-Miṣrī has
 regarded it as a new terminology for the theory of predestination,
 saying thus:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ – كَما تَرَى – لا يُقَدّمُ في الموضوعِ وَلا يُؤَخّرُ، فَهُوَ
-شِكْلٌ جَديدٌ في التَّعْبيرِ عَنِ الجبَرِ.
-  </p>
-</blockquote>
+> وَهُوَ – كَما تَرَى – لا يُقَدّمُ في الموضوعِ وَلا يُؤَخّرُ، فَهُوَ
+> شِكْلٌ جَديدٌ في التَّعْبيرِ عَنِ الجبَرِ.
 
 “And as you can see, it does not offer or suspend anything from the
 subject as it is [just] a new form of the expression of
@@ -391,12 +331,8 @@ raised his question again while the Imām (*‘a*) kept on refraining from
 dealing with the issue of *qadar*. When he repeated his question for the
 fourth time, the Imām (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لَمّا أبَيْتَ فَإنَّهُ أمْرٌ بَيْنَ الأَمْرَينِ، لا جَبْرَ
-وَلاتَفْويضَ
-  </p>
-</blockquote>
+> لَمّا أبَيْتَ فَإنَّهُ أمْرٌ بَيْنَ الأَمْرَينِ، لا جَبْرَ
+> وَلاتَفْويضَ
 
 “Since you insist, [then be it known that] the position is between two
 positions; there is neither predetermination (*jabr*) nor absolute
@@ -430,11 +366,7 @@ Someone asked Imām al-Ṣādiq (*‘a*), thus: “Has God compelled [His]
 servants to commit sins?” The Imām (*‘a*) said, “No.” The person asked,
 “What is the truth then?” The Imām (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لُطْفٌ مِنْ رَبِّكَ بَيْنَ ذلِكَ.
-  </p>
-</blockquote>
+> لُطْفٌ مِنْ رَبِّكَ بَيْنَ ذلِكَ.
 
 “The grace emanating from your Lord is between that.”[^23]
 
@@ -467,12 +399,8 @@ Known Only to the True Men of Learning
 Someone asked Imām al-Ṣādiq (*‘a*) about predestination and absolute
 freewill. The Imām (*‘a*) thus replied:
 
-<blockquote dir="rtl">
-  <p>
-لا جَبْرَ وَلا قَدَرَ وَلكِنْ مَنْزِلَةٌ بَينَهُما، فيهَا الحقُّ
-الَّتى لا يَعْلَمُها إلّا العالِمُ أَو مَنْ عَلَّمَها إيّاهُ العالِمُ.
-  </p>
-</blockquote>
+> لا جَبْرَ وَلا قَدَرَ وَلكِنْ مَنْزِلَةٌ بَينَهُما، فيهَا الحقُّ
+> الَّتى لا يَعْلَمُها إلّا العالِمُ أَو مَنْ عَلَّمَها إيّاهُ العالِمُ.
 
 “There is neither predestination nor absolute freewill, but between them
 is a position in which is the truth, and no one knows it except the
@@ -520,23 +448,15 @@ you a principle with which you will prevail over your opponents in a
 debate? Those who were present expressed interest and the Imām (*‘a*)
 thus said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ عَزَّ وَجَلَّ لَمْ يُطَعْ بِإِكراهٍ، وَلَمْ يُعْصَ
-بِغَلَبَةٍ وَلَمْ يُهْمِلِ العِبادَ في مُلْكِهِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ عَزَّ وَجَلَّ لَمْ يُطَعْ بِإِكراهٍ، وَلَمْ يُعْصَ
+> بِغَلَبَةٍ وَلَمْ يُهْمِلِ العِبادَ في مُلْكِهِ.
 
 “Indeed Allah, the Almighty and Glorious, is not obeyed by compulsion
 and not disobeyed by dominance, and He has not abandoned [His] servants
 in His dominion.”
 
-<blockquote dir="rtl">
-  <p>
-هُوَ المالِكُ لمَاّ مَلَّكَهُمْ، وَالقادِرُ عَلى ما أَقْدَرَهُمْ
-عَلَيهِ.
-  </p>
-</blockquote>
+> هُوَ المالِكُ لمَاّ مَلَّكَهُمْ، وَالقادِرُ عَلى ما أَقْدَرَهُمْ
+> عَلَيهِ.
 
 “He is the Master of the things to whom He is entitled, and He is
 Omnipotent over the things on which He has power.”[^27]
@@ -574,15 +494,11 @@ theology (*kalām*), and to examine them requires a separate book and it
 is beyond the scope of this discussion. It is sufficient for us to quote
 only part of that section which is related to *amr bayn al-amrayn*:
 
-<blockquote dir="rtl">
-  <p>
-وَلَسْنا نَدينُ بِجَبْرٍ وَلا تَفْويضٍ، لكِنّا نَقولُ بِمَنْزِلَةٍ
-بَينَ المنزِلَتَينِ وَهُوَ الإمْتحانُ وَالإخْتبارُ بِالإسْتِطاعَةِ
-الَّتي مَلَّكَنَا اللهُ وَتَعَبَّدَنا بِها عَلى ما شَهِدَ بِهِ الكتابُ
-وَدانَ بِهِ الأئمَّةُ الأبرارُ مِن آلِ الرَّسولِ صَلَواتُ اللهِ
-عَلَيهِم.
-  </p>
-</blockquote>
+> وَلَسْنا نَدينُ بِجَبْرٍ وَلا تَفْويضٍ، لكِنّا نَقولُ بِمَنْزِلَةٍ
+> بَينَ المنزِلَتَينِ وَهُوَ الإمْتحانُ وَالإخْتبارُ بِالإسْتِطاعَةِ
+> الَّتي مَلَّكَنَا اللهُ وَتَعَبَّدَنا بِها عَلى ما شَهِدَ بِهِ الكتابُ
+> وَدانَ بِهِ الأئمَّةُ الأبرارُ مِن آلِ الرَّسولِ صَلَواتُ اللهِ
+> عَلَيهِم.
 
 In the above line, by mentioning the essence of the Divine duty and test
 Imām al-Hādī (*‘a*) has demonstrated the incorrectness of the notion of
@@ -662,12 +578,8 @@ ideas of Ṣadr al-Muta’allihīn and has been adopted by the followers of
 transcendental wisdom (*ḥikmat-e muta‘āliyah*) after him.[^31] Ḥakīm
 Sabziwārī has brought out the said proof in this way:
 
-<blockquote dir="rtl">
-  <p>
-لكِنْ كَما الوُجودُ مَنْسوبٌ لَنا فَالفِعْلُ فِعْلُ اللهِ وَهُوَ
-فِعْلُنا
-  </p>
-</blockquote>
+> لكِنْ كَما الوُجودُ مَنْسوبٌ لَنا فَالفِعْلُ فِعْلُ اللهِ وَهُوَ
+> فِعْلُنا
 
 *Yet, as the existence is attributed to us,*
 
@@ -685,20 +597,12 @@ the book of the self which is a microcosm of the world of creation. For
 instance, it has been emphasized in the Holy Qur’an and traditions to
 study and reflect on it:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَفِي أَنْفُسِكُمْ أَفَلا تُبْصِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَفِي أَنْفُسِكُمْ أَفَلا تُبْصِرُونَ ﴾
 
 ***“And in your own souls [are signs]. Will you not then
 perceive?”***[^34]
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ.
-  </p>
-</blockquote>
+> مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ.
 
 ***“Whoever knows his self knows his Lord.”***
 
@@ -844,5 +748,4 @@ Al-Iḥtijāj (Mashhad: Nashr al-Murtaḍā, n.d.), pp. 449-453.
 
 [^36]: For information on their views, see ‘Alī Rabbānī Gulpāygānī,
 Al-Kalām al-Maqārin.
-
 

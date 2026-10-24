@@ -189,4 +189,3 @@ al-hadith, \`ilm rijal al-hadith and bibliography. Works dealing with
 one of the topics, invariably discussed issues connected with the other
 disciplines.
 
-

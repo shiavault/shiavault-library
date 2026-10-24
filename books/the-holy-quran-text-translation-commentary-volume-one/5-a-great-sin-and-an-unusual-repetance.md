@@ -555,7 +555,6 @@ ignorants and fools, and I seek refuge in Allah, lest I should be one of
 them.''
 VERSE NO. 68
 
-
 Moses answered: \`\`My Lord says that she is a cow neither old, nor
 virgin, middling between the too. Do not delay it and do as you are
 bidden.'' VERSE NO. 69
@@ -729,5 +728,4 @@ illiterates; and having heard the symptoms of the prophet from their
 fathers or grandfathers, they asked their rabbies about it, and they
 slyly rehearsed to them what they had written with their own hands as
 the writings of the scriptures and the Message of God.
-
 

@@ -247,4 +247,3 @@ tongues cannot count…’[^18]
 
 [^18]: Nuzhat al-Jalees, vol.2 p.184.
 
-

@@ -67,4 +67,3 @@ Translation Office.
 Ghaybat-e Kubra (Qum: Imam Khomeini Educational and Research Institute,
 Spring 1382 AHS (2003), 279 pp.
 
-

@@ -479,4 +479,3 @@ discarding all the prevailing injustices and iniquities. May God
 Almighty bring about his early reappearance and ease his coming,
 ALLAHOMMA AAMIN.
 
-

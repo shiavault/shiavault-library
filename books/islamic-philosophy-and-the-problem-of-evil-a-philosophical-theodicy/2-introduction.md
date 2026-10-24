@@ -66,4 +66,3 @@ Broadly, we may call any approach to solve the theoretical theistic
 problem of evil a "theodicy". Therefore, the present article seeks to
 provide a brief exploration of Muslim philosophers' theodicy.4
 
-

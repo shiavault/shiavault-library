@@ -186,7 +186,6 @@ uncovering Islamic legislative tendency and its accurate solution to the
 social and cultural matters and its concern to man's, as well as, the
 environmental issues.
 
-
 **How To Protect The Human Environment**
 
 Protecting the natural and social environment are among the most
@@ -462,5 +461,4 @@ and do not help one another in sin and aggression" is a broad foundation
 of environmental protection and preserving the natural system. Because
 the verse prohibits aggression on nature and life, as well as, calls for
 a collective relationship toward good and reformation.
-
 

@@ -9,4 +9,3 @@ possess an excellence over the Fridays of the other months, just as the
 Holy Prophet (peace be upon him and his progeny) possesses an excellence
 over the other prophets.*Bihar al-Anwar, vol. 69, pg. 376*
 
-

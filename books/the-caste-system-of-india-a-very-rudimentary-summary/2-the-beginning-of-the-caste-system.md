@@ -127,4 +127,3 @@ Perhaps because of this reason the untouchables were not only disallowed
 to touch the high caste communities but they also had to stand at a
 certain distance from the high castes.
 
-

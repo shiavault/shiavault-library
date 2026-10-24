@@ -101,4 +101,3 @@ fasting.
 would make up for wudhu.  As for her who is with a medium istihadh, she
 must do wudhu after ghusl [that is obligatory on her].
 
-

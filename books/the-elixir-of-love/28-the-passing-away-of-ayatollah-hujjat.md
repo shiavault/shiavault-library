@@ -157,11 +157,7 @@ to him. Thinking it was food or medicine, he said with a frown:
 I said it was turba. His face lit up immediately and took the glass and
 drank up the *turba* liquid. Then I heard him utter these words:
 
-<blockquote dir="rtl">
-  <p>
-"آخر زادي من الدنيا تربة الحسين"
-  </p>
-</blockquote>
+> "آخر زادي من الدنيا تربة الحسين"
 
 "My last provision from the world (is) the *turba* of (Imam) Husayn
 (a)."
@@ -192,11 +188,7 @@ intermediary! Who has an intermediary)?!"
 And he recited the following verse from the Holy Qur'an regarding the
 Ahl al-Bayt of the--Holy Prophet (s) and Imam Ali (a):
 
-<blockquote dir="rtl">
-  <p>
-(مثلا كلمة طيبة كشجرة طيبة أصلها ثابت وفرعها في السماء)
-  </p>
-</blockquote>
+> (مثلا كلمة طيبة كشجرة طيبة أصلها ثابت وفرعها في السماء)
 
 (A parable of goodly Word like a goodly tree, whose root is firmly
 fixed, and its branches (reach) to the heavens.) (Ibrahim, 24)
@@ -251,5 +243,4 @@ marja',
 [^4]: Or a similar statement like this.
 
 [^5]: Sirr-i Dilbaran, 206-214.
-
 

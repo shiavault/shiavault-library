@@ -17,21 +17,15 @@ them.
 
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَإِن جَاهَدَاكَ عَلى أَن تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ
-فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا وَاتَّبِعْ
-سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم
-بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَإِن جَاهَدَاكَ عَلى أَن تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ
+> فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا وَاتَّبِعْ
+> سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم
+> بِمَا كُنتُمْ تَعْمَلُونَ
 
 ***If they contend with you that you should associate with Me what you
 have no knowledge of, do not obey them. Keep company with them kindly in
 this world, but follow the way of him who turns to Me, then to Me is
 your return!*** (31:15)
-
 
 As far as companionship is concerned, keep their company and be gentle
 with them. Endure their hardship just as they endured yours when you
@@ -41,6 +35,4 @@ away from them nor raise your voice above theirs. To respect them is
 part of Allah's command; speak to them in the best possible way and be
 kind to them. Allah will not let the reward of those who do good go to
 waste.
-
-
 

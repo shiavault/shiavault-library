@@ -123,4 +123,3 @@ is Makruh to pray in a room which has any photograph. Therefore if one
 prays facing a wall on which a photograph of the Ka'bah is hung, it will
 be Makruh. - i.e., the thawab of Salah will be less than usual.
 
-

@@ -21,4 +21,3 @@ seeing him and to gift us with the great grace by virtue of him!
 
 [^1]: It means proof or authority. It refers to Imam al-Mahdi (aj).
 
-

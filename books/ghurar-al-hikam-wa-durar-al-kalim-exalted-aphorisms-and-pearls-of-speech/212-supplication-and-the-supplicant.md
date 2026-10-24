@@ -21,22 +21,14 @@ supplicate.
 reason that not all supplications are answered.
 
 > 4ـ إنَّ كَرَمَ اللّهِ سُبْحانَهُ لا يَنْقُضُ حِكْمَتَهُ، فَلِذلِكَ لا
-<blockquote dir="rtl">
-  <p>
-يَقَعُ الإجابَةُ في كُلِّ دَعْوَة.
-  </p>
-</blockquote>
+> يَقَعُ الإجابَةُ في كُلِّ دَعْوَة.
 
 5. Verily Allah, the Glorified, has wraths and chastisements, so if [any
 of] it descends upon you, repel it with supplication; for indeed nothing
 can repel tribulation except supplication.
 
 > 5ـ إنَّ لِلّهِ سُبْحانَهُ سَطَوات ونَقِمات، فَإذا نَزَلَتْ بِكُمْ
-<blockquote dir="rtl">
-  <p>
-فَادْفَعُوها بِالدُّعاءِ، فَإنَّهُ لايَدْفَعُ البَلاءَ إلاّ الدُّعاءُ.
-  </p>
-</blockquote>
+> فَادْفَعُوها بِالدُّعاءِ، فَإنَّهُ لايَدْفَعُ البَلاءَ إلاّ الدُّعاءُ.
 
 6. Supplication is the weapon of the close friends [of Allah].
 
@@ -48,12 +40,8 @@ lose hope in people and should not have hope in anyone other than Allah,
 the Glorified.
 
 > 7ـ إذا أرادَ أحَدُكُمْ أنْ لا يَسْألَ اللّهَ سُبْحانَهُ شَيْئاً إلاّ
-<blockquote dir="rtl">
-  <p>
-أعْطاهُ فَلْيَيئَسْ مِنَ النَّاسِ، وَلايَكُونُ لَهُ رَجاءٌ إلاّ اللّهُ
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> أعْطاهُ فَلْيَيئَسْ مِنَ النَّاسِ، وَلايَكُونُ لَهُ رَجاءٌ إلاّ اللّهُ
+> سُبْحانَهُ.
 
 8. When you have any need [that you wish for] from Allah, the Glorified,
 then start by sending salutations on the Prophet (s) and then ask Allah
@@ -61,13 +49,9 @@ for your need, for Allah, the Most High, is too generous to fulfil one
 of the two supplications that are made to Him and refuse the other.
 
 > 8ـ إذا كانَتْ لَكَ إلَى اللّهِ سُبْحانَهُ حاجَةٌ فَابْدأ بِالصَّلاةِ
-<blockquote dir="rtl">
-  <p>
-عَلَى النَّبيِّ صلَّى اللّه عليه وآله وسلَّم، ثُمَّ اسْألِ اللّهَ
-حاجَتَكَ، فإنَّ اللّهَ تعالى أكْرَمُ مِنْ أنْ يُسْألَ حاجَتَينِ
-فيَقْضِيَ إحديهُما وَيَمْنَعَ الأُخرى.
-  </p>
-</blockquote>
+> عَلَى النَّبيِّ صلَّى اللّه عليه وآله وسلَّم، ثُمَّ اسْألِ اللّهَ
+> حاجَتَكَ، فإنَّ اللّهَ تعالى أكْرَمُ مِنْ أنْ يُسْألَ حاجَتَينِ
+> فيَقْضِيَ إحديهُما وَيَمْنَعَ الأُخرى.
 
 9. Through supplication, tribulations are repelled.
 
@@ -77,11 +61,7 @@ of the two supplications that are made to Him and refuse the other.
 rather you are given [something] better than it.
 
 > 10ـ رُبَّما سَأَلْتَ الشَّيْءَ فَلَمْ تُعْطَهَ واُعْطيتَ خَيْراً
-<blockquote dir="rtl">
-  <p>
-مِنْهُ.
-  </p>
-</blockquote>
+> مِنْهُ.
 
 11. The weapon of a believer is supplication.
 
@@ -115,11 +95,7 @@ supplication than the one who is doing well but is not secure from
 tribulations.
 
 > 17ـ مَا المُبْتَلَى الَّذي قَدِ اشْتَدَّ بِهِ البَلاءُ أحْوَجَ إلَى
-<blockquote dir="rtl">
-  <p>
-الدُّعاءِ مِنَ المُعافَى الَّذي لا يَأمَنُ البَلاءَ.
-  </p>
-</blockquote>
+> الدُّعاءِ مِنَ المُعافَى الَّذي لا يَأمَنُ البَلاءَ.
 
 18. What a good weapon supplication is!
 
@@ -129,11 +105,7 @@ tribulations.
 while you have obstructed its path with [your] sins.
 
 > 19ـ لا تَسْتَبْطِئْ إجابَةَ دُعائِكَ وَقَدْسَدَدْتَ طريقَهُ
-<blockquote dir="rtl">
-  <p>
-بِالذُّنُوبِ.
-  </p>
-</blockquote>
+> بِالذُّنُوبِ.
 
 20. Never get disheartened by a delayed answer to [your] supplication,
 for indeed that which is granted is commensurate with the intention, and
@@ -141,12 +113,8 @@ sometimes the answer might be delayed so that it may result in a greater
 reward for the seeker and a more bountiful grant for the recipient.
 
 > 20ـ لا يُقَنَّطِنَّكَ تَأخِيرُ إجابَةِ الدُّعاءِ فَإنَّ العَطِيَّةَ
-<blockquote dir="rtl">
-  <p>
-على قَدْرِ النِّيَّةِ، ورُبَّما تَأخَّرَتِ الإجابَةُ لِيَكُونَ ذلِكَ
-أعْظَمَ لأِجْرِ السائِلِ، وَأجْزَلَ لِعَطاءِ النَّائِلِ.
-  </p>
-</blockquote>
+> على قَدْرِ النِّيَّةِ، ورُبَّما تَأخَّرَتِ الإجابَةُ لِيَكُونَ ذلِكَ
+> أعْظَمَ لأِجْرِ السائِلِ، وَأجْزَلَ لِعَطاءِ النَّائِلِ.
 
 21. Whoever asks Allah, He grants to him.
 
@@ -162,11 +130,7 @@ if He grants [your wishes to] you, He honours you [at the same time] and
 if He withholds from you, He does it for your own welfare [and benefit].
 
 > 23ـ لا تَسْألُوا إلاّ اللّهَ سُبْحانَهُ، فَإنَّهُ إنْ أعْطاكُمْ
-<blockquote dir="rtl">
-  <p>
-أكْرَمَكُمْ، وإنْ مَنَعَكُمْ خارَ(حاز) لَكُمْ.
-  </p>
-</blockquote>
+> أكْرَمَكُمْ، وإنْ مَنَعَكُمْ خارَ(حاز) لَكُمْ.
 
 24. Allah, spare our lives and their lives, restore the ties between us
 and them, rescue them [and guide them] from their misguidance, until
@@ -175,13 +139,9 @@ persistent in sinning and disloyalty [and in their enmity towards us]
 may desist from it.[^1]
 
 > 24ـ أللّهُمَّ احْقِنْ دِمائَنا ودِمائَهُمْ، وأصْلِحْ ذاتَ بَيْنِنا
-<blockquote dir="rtl">
-  <p>
-وبَيْنَهُمْ، وأنْقِذْهُم(وَ أهدِهِمْ) مِن ضَلالَتِهِمْ، حتّى يَعْرِفَ
-الحقَّ مَنْ جَهِلَهُ، ويَرْعَوِىَ عَنِ الغَيِّ والغَدْرِ مَنْ لَهِجَ
-بِهِ.
-  </p>
-</blockquote>
+> وبَيْنَهُمْ، وأنْقِذْهُم(وَ أهدِهِمْ) مِن ضَلالَتِهِمْ، حتّى يَعْرِفَ
+> الحقَّ مَنْ جَهِلَهُ، ويَرْعَوِىَ عَنِ الغَيِّ والغَدْرِ مَنْ لَهِجَ
+> بِهِ.
 
 25. Whoever knocks on the door of Allah, it is opened for him.
 
@@ -194,5 +154,4 @@ bowstring.
 
 [^1]: This was the supplication taught by Amīr al-Mu’minīn (‘a) to his
 men during the Battle of Siffīn.
-
 

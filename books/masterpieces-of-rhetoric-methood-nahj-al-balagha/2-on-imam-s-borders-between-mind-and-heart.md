@@ -361,4 +361,3 @@ and sayings – which is an essential criterion. You are not to do
 anything but to open this book so that you can know colours of Ibn Abi
 Talib’s emotion, with pouring strength and deep depth.
 
-

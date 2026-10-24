@@ -38,4 +38,3 @@ English prepositions at, in and on and attempts to account for their
 difficulties with these English prepositions through a comparative study
 of the Arabic prepositional system.
 
-

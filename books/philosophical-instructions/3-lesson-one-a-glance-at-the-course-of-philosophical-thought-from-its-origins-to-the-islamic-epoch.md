@@ -125,31 +125,23 @@ Theology is divided into two parts: metaphysics or general discussions
 of existence, and theology proper. The practical sciences are divided
 into three branches: morality, domestic economy and politics.
 
-
 natural sciences: the general principles of bodies,
-
 
 theoretical
 
 cosmogony, mineralogy, botany, zoology
 
-
 mathematics: arithmetic, geometry, astronomy, music
-
 
 theology: the general principles of existence, divinity
 
-
 philosophy
 
-
 ethics (regarding the individual)
-
 
 practical
 
 domestic economy (regarding the family)
-
 
 politics (regarding the community)
 
@@ -293,8 +285,8 @@ theosophy* (*ḥikmat muta‘āliyyah* ).
 References
 ----------
 
-[^1] Consider the first verses revealed to the Prophet (*ṣ* ), “Read! In
+[^1]: Consider the first verses revealed to the Prophet (*ṣ* ), “Read! In
 the Name of your Lord Who created… Who taught by the Pen….” (96:1, 4).
 
-[^2] Allusion is made here to several well-known hadiths attributed to
+[^2]: Allusion is made here to several well-known hadiths attributed to
 the Prophet (*ṣ* ).

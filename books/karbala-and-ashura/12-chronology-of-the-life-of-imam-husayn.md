@@ -22,4 +22,3 @@ Chronology of the Life of Imam Husayn
 | 10      | Muharram   | 61/680   | Massacre of Imam Husayn and his followers |
 | 11      | Muharram   | 61/680   | Captivity of Imam’s family                |
 
-

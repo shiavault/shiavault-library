@@ -604,4 +604,3 @@ the Graves”; Sahih al-Nisa’i, “Kitab al-Janazah”
 
 [^48]: Sahih al-Bukhari, Vol. 1, 342
 
-

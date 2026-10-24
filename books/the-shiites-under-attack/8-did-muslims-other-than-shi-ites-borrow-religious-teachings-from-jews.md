@@ -615,4 +615,3 @@ Zurarah said: I have never seen the Imam before this event saying to any
 other person: "You have lied." (Sayyid Hashim Ma'ruf, *Sirat A1-Imams
 Al-Ithna 'Ashar,* part 2, page 418).
 
-

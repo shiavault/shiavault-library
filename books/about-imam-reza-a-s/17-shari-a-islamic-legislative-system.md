@@ -139,4 +139,3 @@ As-Sadiq (a.s.) because the most violent of such confrontations took
 place during his time when promoters of various sects were free to
 express their views.
 
-

@@ -70,4 +70,3 @@ experiences they have had in the culture in which they live.
 **sudden conversion** : A religious change that occurs all at once with
 no prior warning.
 
-

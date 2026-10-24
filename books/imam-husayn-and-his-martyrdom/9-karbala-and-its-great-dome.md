@@ -30,4 +30,3 @@ is the deserted city of Kufa. The mosque is large, but bare and
 practically unused. The blue dome and the Mihrab of enamelled tiles bear
 witness to the ancient glory of the place.
 
-

@@ -227,4 +227,3 @@ To conclude, the criterion of the judiciary is the criterion which
 Allah has sent down through revelation and laid down for the people in
 order that they may establish justice and equity amongst themselves.
 
-

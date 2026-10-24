@@ -78,7 +78,6 @@ of the 'ummah's' departure from ineptitude and lethargy. Then the
 cling for so long and can use its limbs again after their long
 paralyis.
 
-
 **6. Despair of Change and Reform**
 
 Despair is a morbid, dangerous condition that marks frail characters
@@ -270,7 +269,6 @@ experience and go on with the march of reforms and struggle. They should
 discard the factors of despair; setting out to work with fresh
 determination and spirit.
 
-
 **Epilogue**
 
 There are some factors and reasons that actively help to hasten the
@@ -298,5 +296,4 @@ back, inspite of elements of weakness and decadence, making our way
 ahead more fruitful. This is the way we can resume our cultural
 triumphant and historical march; hoisting the banner of Islam, and
 leading the whole world on the road of guidance, prosperity and peace.
-
 

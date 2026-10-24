@@ -12,4 +12,3 @@ full of happiness. The Umayyads were racists. They preferred Arabs to
 non-Arabs. For this reason, Mukhtar abolished racial discrimination. He
 adopted justice instead.
 
-

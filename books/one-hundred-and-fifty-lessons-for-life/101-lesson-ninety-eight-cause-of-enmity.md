@@ -3,11 +3,7 @@ Lesson Ninety Eight: Cause Of Enmity
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلنَّاسُ أَعْداءُ مآ جَهِلُوا
-  </p>
-</blockquote>
+> اَلنَّاسُ أَعْداءُ مآ جَهِلُوا
 
 Translation
 -----------
@@ -27,5 +23,4 @@ we find that they have not really understood the depth and philosophy of
 religion.
 
 [^1]: Nahjul Balaghah, Aphorisms, phrase 172
-
 

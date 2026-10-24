@@ -198,4 +198,3 @@ to stem the flood of licentiousness and irreligiousness. Twists of the
 Middle East politics should not prevent them from standing shoulder to
 shoulder for the sake of common causes of ethics and morality.
 
-

@@ -83,7 +83,6 @@ and that refusal of permission where prudent and kept firm is apart of
 that very care and concern which in turn makes the child feel this world
 safe and secured.
 
-
 **Gaining Vision from Family History**
 
 A client brought his prospective (intended) partner to my office for a
@@ -165,7 +164,6 @@ The grasping power of a grown-up child with regard to the family
 history and the les- sons intended for him in the narration should not
 be under-estimated.
 
-
 family either late or from other elders of the local community. They
 wished they had heard it earlier and from the family so that they could
 not only have paid tribute to the grandfather while he was still alive
@@ -191,7 +189,6 @@ order to be able to monitor the direction and forge ahead. It never gets
 lost. We too need to look back into the family history, that is, if we
 have been made aware of it in good time, as we march on with the time
 with no repetition of past family mistakes.
-
 
 **School Enrollment with a Spring-Board**
 
@@ -278,7 +275,6 @@ its own and bloom into a flower with an unending fragrance throughout
 his schooling life. Such is the parental influence and impact on the
 child. No school. however good. can ever provide a substitute for this
 brand of a spring-board.
-
 
 **Mother's True Love for Son is Sharing his with his Wife**
 
@@ -454,5 +450,4 @@ loser in both the situations in his life time.
 Ironically, the wife, later also as a mother-in-law, keeps the cycle
 turning in adherence to the culture of intimidating her daughter-in-Iaw
 by possessing the son away from his wife.
-
 

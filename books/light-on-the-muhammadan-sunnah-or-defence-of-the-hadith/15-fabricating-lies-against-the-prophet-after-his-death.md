@@ -1,10 +1,6 @@
 Fabricating Lies Against the Prophet After His Death:
 =====================================================
 
-  
-  
-  
-
 While lies were fabricated against the Prophet during his lifetime, it
 is to be observed that lies were multiplied and spread after his demise,
 with numerous Companions being there, and religion rendered vulnerable,
@@ -15,7 +11,7 @@ abundance of traditions attributed to
 
 the Messenger of Allah appalled the eminent Companions. Muslim, in the
 introduction to his book, reported on the authority of Tawus that he
-said: This man (i.e. Bushayr <span id="_anchor_91"></span>91  ibn Ka’b)
+said: This man (i.e. Bushayr 91  ibn Ka’b)
 came near Ibn Abbas and started talking to him. Ibn Abbas said to him:
 Go back to so and so hadith, when he returned. Then he again said to
 him: Return to so and so hadith, and so did he, saying: I know not what
@@ -24,7 +20,7 @@ Or denied my hadith as a whole but recognized this one? Ibn Abbas said:
 We used to relate hadith from the Messenger of Allah when no one could
 dare fabricating lies against him. But when people plunged into
 narrating extensively (with falsification) from the Messenger of Allah,
-we gave up relating hadith from him. <span id="_anchor_92"></span>92
+we gave up relating hadith from him. 92
 
 Bushayr ibn Ka’b al-Adwi came to Ibn Abbas starting narrating with
 reiterating the clause: “Said the Messenger of Allah”, till Ibn Abbas
@@ -60,11 +56,11 @@ manifest in the chapter “The Righteous Fabricators” in this book.
 Al-Sam’ani is reported to have said: Whoever falsifies even one report
 (khabar), attributing it to the Messenger of Allah (upon whom be God’s
 peace and benediction), all the hadiths narrated by him should be
-rejected, <span id="_anchor_93"></span>93  and disregarded. It is
+rejected, 93  and disregarded. It is
 reported that Ahmad ibn Hanbal, Abu Bakr al-Hamidi and Abu Bakr
 al-Sayrafi have said: The narration of that who falsified the traditions
 of the Messenger of Allah should be rejected even if he repenting after
-that. <span id="_anchor_94"></span>94  Ibn Hajar al-Asqallani is
+that. 94  Ibn Hajar al-Asqallani is
 reported to have said: The ulama concur on considering fabrication of a
 lie against the Messenger of Allah (upon whom be God’s peace and
 benediction) as a rough thick act since it is among major sins.
@@ -80,7 +76,7 @@ whom a lie was fabricated, not regarding that on whose behalf it was
 lied. This argument is invalid outright, as threatening with torment
 concerns that whose hadith was falsified whether on his behalf or
 against him. And religion, thanks to God, is perfect needing not to be
-strengthened by falsity. <span id="_anchor_95"></span>95
+strengthened by falsity. 95
 
 ### To Lie Against the Prophet Is a Major Sin:
 
@@ -100,7 +96,7 @@ prohibiting falsity against common people, so how would be the case with
 that whose saying is legislation, speech is revelation (from God), and
 falsity against him is falsity against Allah the Most High.
 
-### Degrees of the Companions: <span id="_anchor_96"></span>96
+### Degrees of the Companions: 96
 
 The Companions were not at one level in fiqh and knowledge, nor of equal
 degree in recognition and apprehension. But they were in diversified
@@ -108,7 +104,7 @@ classes and dissimilar ranks, like all ordinary people throughout ages:
 “Such has been the way of Allah concerning His creation, and never shall
 thou find in the way of Allah any change.”
 
-In his Muqaddimah, <span id="_anchor_97"></span>97  Ibn Khaldun says:
+In his Muqaddimah, 97  Ibn Khaldun says:
 “The Companions in tot were not able to issue verdicts, nor religion was
 taken from them all. But this was specialty of the holders of the
 Qur’an, aware of its abrogating and abrogated (nasikh wa mansukh), and
@@ -123,7 +119,7 @@ this epithet, due to its (Book’s) being estranged among people and this
 state kept on to be as the prior matter in religion.”
 
 Muhammad ibn Sahl reports on the authority of Ibn Abi Khaythamah, from
-his father, <span id="_anchor_98"></span>98  as saying: Those who were
+his father, 98  as saying: Those who were
 responsible for issuing fatwa (verdict) during the lifetime of the
 Messenger of Allah, being three from among the Emigrants (Muhajiran):
 Umar, Uthman and Ali, and three from among the Helpers (Ansar): Ubayy
@@ -141,15 +137,15 @@ power, he used to call in these men for consultation.
 In Sahih Muslim, Masruq is reported to have said: I followed up the news
 about the Companions of the Messenger of Allah, upon whom be God’s peace
 and benediction, and discovered that all their knowledge ended with six
-people: Umar, Ali, Abd Allah, Mu’adh, <span id="_anchor_99"></span>99
+people: Umar, Ali, Abd Allah, Mu’adh, 99
  Abu al-Darda’ and Zayd ibn Thabit, and then nosed about the news of
 these six, finding their knowledge be originated from Ali and Abd Allah.
-<span id="_anchor_100"></span>100
+100
 
 In A‘lam al-muqi’in, Ibn al-Qayyim reports on the authority of Masruq
 that he said: I kept company with the Companions of Muhammad (upon whom
 be God’s peace and benediction), and they proved to be like ikhkhadhah
-<span id="_anchor_101"></span>101  (pool, pond), that quenching the
+101  (pool, pond), that quenching the
 (thirst of) equestrian and the passengers. And the pond at which if all
 the earth (people) stop, it would satisfy them, and Abd Allah is among
 that pond.
@@ -157,7 +153,7 @@ that pond.
 Al-Bukhari and Muslim reported that the Prophet (S) said: The parable of
 guidance and knowledge cared by Allah is that of abundant rain
 
-falling on a land, that may be pure <span id="_anchor_102"></span>102
+falling on a land, that may be pure 102
  (fertile) receiving the water and growing much pasture and grass. Or it
 might be barren so as to retain water inside it, with which Allah
 benefiting people through drinking, watering and cultivating the land.
@@ -184,7 +180,7 @@ one to another. The evidence for this can be clearly observed when Umar
 affirming his being content with Abd al-Rahman’s reporting, while
 telling Abu Musa al-Ash’ari when asking permission to enter upon him and
 narrate (hadith): Bring someone to testify and confirm your narration.
-<span id="_anchor_103"></span>103
+103
 
 ### Companions’ Reporting from Each Other and from the Followers:
 
@@ -204,7 +200,7 @@ different times and places, making it infeasible for all the Companions
 to attend each and every meeting by person, but some attending this
 meeting and some others that one.
 
-In his book al-Ihkam fi usul al-ahkam, <span id="_anchor_104"></span>104
+In his book al-Ihkam fi usul al-ahkam, 104
  al-Amudi reports that Ibn Abbas – due to his youth – has never heard
 from the Messenger of Allah but only four traditions. When reporting
 from the Messenger of Allah the hadith “Usury only occurs when buying on
@@ -218,7 +214,7 @@ ritual impurity (junub) during Month of Ramadan, his fasting is
 invalid”, he was questioned about its source. In reply he said: By the
 Lord of Ka’bah, it was not me who said it but it is uttered by Muhammad!
 Then he resumed by saying: It is reported to me by al-Fadl ibn al-Abbas.
-<span id="_anchor_105"></span>105
+105
 
 Al-Bara’ ibn ‘Azib is reported to have said: “You have to know that the
 traditions we are relating to you have not necessarily been heard from
@@ -226,19 +222,17 @@ the Messenger of Allah, upon whom be God’s peace and benediction, but
 only some of them we have heard, and some others we are relating to our
 companions.”
 
-In regard of the Tabi’un, they used to transmit the reports <span
-id="_anchor_106"></span>106  (khabar mursal), the fact whose evidence
+In regard of the Tabi’un, they used to transmit the reports 106  (khabar mursal), the fact whose evidence
 can be seen in what is reported from al-
 
 A’mash as saying: I said to Ibrahim al-Nakha’i: When relating anything
-to me you should mention its sanad <span id="_anchor_107"></span>107
+to me you should mention its sanad 107
  (chain of narrators). He said to him: When informing you: So and so
 reported to me from Abd Allah, it means he himself related to me. And
 when saying: I was told by Abd Allah, it indicates that some narrators
 reported to me from him. Thereafter al-Amudi is reported to have said:
 This habit remained so common among the Sahabah and Tabi’un with no one
-negating it, till rendering to a unanimity. <span
-id="_anchor_108"></span>108
+negating it, till rendering to a unanimity. 108
 
 At the time when the Companions were narrating from each other, they
 were also relating from the Tabi’un, the fact confirmed by hadith
@@ -249,8 +243,7 @@ magnates from the juniors) Ibn al-Salah and others are reported to have
 said: Ibn Abbas, the three Abds and Abu Hurayrah and others used to
 report from Ka’b al-Ahbar – the Jew who deceptively embraced Islam –
 during the caliphate of Umar, counting him among the leading Tabi\`un,
-making him then a master over Muslims. In his Alfiyyah, <span
-id="_anchor_109"></span>109  al-Suyuti says:
+making him then a master over Muslims. In his Alfiyyah, 109  al-Suyuti says:
 
 Seniors have been reporting from juniors,
 
@@ -283,8 +276,7 @@ they would start to exclaim: Inform us the names of your rijal! (i.e.
 refer us to chain of narrators).
 
 Ibn Sirin is reported to have said: They were not inquiring about the
-isnad (chain of transmission), but as the fitnah <span
-id="_anchor_110"></span>110  took place they began to say: Tell us the
+isnad (chain of transmission), but as the fitnah 110  took place they began to say: Tell us the
 names of your rijal.
 
 From him Muslim reports: People experienced an age where no one asking
@@ -313,11 +305,6 @@ are those who sit (holding back)”. Al-Hafiz al-Iraqi has collected
 twenty traditions of
 
 the same kind of this.
-
-  
-  
-  
-  
 
 91. Bushayr is the diminutive of the name Bishr. He was reporting from
 Abu Dharr and Abu al-Darda'' and authenticated by Ibn Sa'd' and

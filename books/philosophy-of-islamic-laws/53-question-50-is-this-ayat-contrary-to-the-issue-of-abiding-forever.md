@@ -46,8 +46,5 @@ and clear Qur’an, which is corroborating the Tafseer as mentioned above.
 This sentence makes it clear that this gift of Allah is going to remain
 intact and established forever and is never going to part.
 
-
-
 [^1]: Surah Rum 30:6
-
 

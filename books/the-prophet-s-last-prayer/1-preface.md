@@ -104,7 +104,6 @@ so that false statements could be separated from the true ones. The said
 story is an example of such events, which the great scholar Syed Murtaza
 Askari has dealt with.
 
-
 **The Cultural and Scientific**
 
 Institution of Allamah Askari
@@ -121,5 +120,4 @@ be derived from it?
 
 Due to this, it came to my mind that a discussion on it be presented to
 answer these queries.
-
 

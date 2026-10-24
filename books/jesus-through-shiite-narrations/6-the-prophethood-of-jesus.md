@@ -217,4 +217,3 @@ Apostle of Allah.’”[^14]
 
 [^14]: Wasa’il al-Shi‘ah, 5, 101, 6041
 
-

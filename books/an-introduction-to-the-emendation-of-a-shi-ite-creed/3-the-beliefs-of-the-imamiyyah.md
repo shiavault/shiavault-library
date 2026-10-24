@@ -1191,4 +1191,3 @@ vol.77, p.318, and the commentary of Ibn Abi 'l- Hadid, vol.6, pp.413-5.
 
 [^44]: Lisanu 'l-mizan, vol.4, p.248.
 
-

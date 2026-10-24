@@ -59,4 +59,3 @@ staff of the Translation Office.
 
 **The Ahl al–Bayt (as) World Assembly**
 
-

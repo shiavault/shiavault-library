@@ -244,4 +244,3 @@ Bayt on the Day of Judgment.
 
 [^13]: Qur'an, 102:8.
 
-

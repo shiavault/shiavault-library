@@ -161,4 +161,3 @@ etc. They will be recompensed in some way or other provided their
 disbelief is not due to stubbornness. In fact such people attain a
 degree of godliness unconsciously.
 
-

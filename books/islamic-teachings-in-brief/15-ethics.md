@@ -2168,4 +2168,3 @@ or to those who are disabled.
 
 [^7]: Bihar al-Anwar, vol. 23, p 19
 
-

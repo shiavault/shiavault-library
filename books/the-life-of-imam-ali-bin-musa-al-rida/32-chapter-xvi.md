@@ -1,10 +1,6 @@
 Chapter Xvi
 ===========
 
-  
-
-  
-
 THE AFFAIRS OF THE IMĀM
 -----------------------
 
@@ -36,17 +32,10 @@ What is his precondition? asked Dibil.
 
 He has said his statement:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1624) We have mentioned his biography in the research on the
 Companions of the Imām and the Narrators of his Traditions.  
-  
-
-  
-
-  
 
 The best brother whom I fraternize is he whose baggage I
 
@@ -103,17 +92,10 @@ have removed the pains of the heart after endurance.
 
 As for the Imām, he warmly received them, honored and magnified them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1625) Ibn 'Asākir, Tārikh, vol. 5, p. 331.  
  [[2]](#_F1626) 'Uyūn Akhbār al-Ridā, vol. 2, pp. 141-142.  
-  
-
-  
-
-  
 
 ### The Imām awards a Prize to Dibil
 
@@ -160,11 +142,6 @@ wore it and performed one thousand *rak'as* during one thousand nights
 and completed the Qur'ān one thousand times.'"  
  [[4]](#_F1630) Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 18, p. 29.
 Mu'jam al-'Udabā', vol. 4, p. 194.  
-  
-
-  
-
-  
 
 narrators have mentioned: The most lovable slave-wife to Dibil became
 ill. So he bandaged her with what he had of the garment of the Imām,
@@ -199,8 +176,6 @@ me, but I want to hear it from your own mouth. So he recited it, and
 al-Mamūn wept to the extent that his beard became wet out of his
 tears.[[6]](#_ftn1636)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1631) Al-Bihār, vol. 12, p. 71.  
@@ -209,11 +184,6 @@ tears.[[6]](#_ftn1636)
  [[4]](#_F1634) Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 18, p. 42.  
  [[5]](#_F1635) Mu'jam al-'Udabā', vol. 4, p. 194.  
  [[6]](#_F1636) Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 18, p. 42.  
-  
-
-  
-
-  
 
 A joke has been narrated about this excellent poem; the joke is as
 follows: When Dibil and his companions departed Marū, some highwaymen
@@ -259,19 +229,12 @@ understood answer each other through sounds and sighs.
 
 They tell through breaths about the secret of souls captives
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1637)*Fayya'* is a war booty gained without fighting.  
  [[2]](#_F1638) Nūr al-Absār, p. 147. Al-Itthāf, vol. 163. Al-Bihār,
 vol. 12, p. 71. Muqaddamat Diwān Di'bil, p. 53.  
  [[3]](#_F1639) Al-Dhari'a.  
-  
-
-  
-
-  
 
 to past love and another coming.
 
@@ -322,8 +285,6 @@ for the children of the Prophet and his family, hating the
 Banū of al-Zarqā  and al-Abalāt [[3]](#_ftn1642), Hind[[4]](#_ftn1643),
 what Sumayya[[5]](#_ftn1644)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1640) Mahsar and 'Arafāt are two places in Mecca.  
@@ -338,11 +299,6 @@ who lived before Islam. Al-'Abalāt was one of Quraysh tribes.
 of the Prophet, who created events and offenses in Islam.  
  [[5]](#_F1644) Sumayya was the mother of Ziyād, the criminal
 terrorist.  
-  
-
-  
-
-  
 
 had done, her son who showed unbelief and dissoluteness
 
@@ -402,11 +358,6 @@ destruction.
 the faithful. He was the testamentary trustee of Allah's Messenger and
 the gate of the city of his knowledge. If he had undertaken the
 caliphate, he would have protected the Muslims from the stumbles.  
-  
-
-  
-
-  
 
 him who was protected from stumbles.
 
@@ -450,8 +401,6 @@ patience and exited my longing.
 
 Schools of verses (of the Qurān) are without recitation,
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1650) The brother of the last of the messengers is Imām 'Ali,
@@ -468,11 +417,6 @@ al-Tathir, Āyat al-Tasaddiq bi al-Khātam, and others from among the
 verses which have praised and lauded the hero of Islam.  
  [[4]](#_F1653) Al-'Izzā and Menāt were two idols belonged to Quraysh,
 who served them apart from Allah.  
-  
-
-  
-
-  
 
 and the place of inspiration is (like) courtyards without
 
@@ -518,8 +462,6 @@ When was your knowledge of fasting and prayers? Where
 
 are those whom the loneliness of remoteness has wronged
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1654) He hints at the houses of the Sayyids from among the
@@ -533,11 +475,6 @@ reciting His Book.
 nickname of the master of worshippers, Imām Zayn al-'Ābidin, who had
 calluses like those of a camel in the places of his prostration due to
 his abundant prostration for Allah.  
-  
-
-  
-
-  
 
 (and made them like) branches separating in the horizons?
 
@@ -590,8 +527,6 @@ O Fātima, if you imagined al-Husayn, who was thrown to
 
 the ground and died thirsty by the Euphrates, then you, O
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1657) Di'bil hints at the generosity of the Household of the
@@ -605,11 +540,6 @@ show love for the Prophet and his family?
  [[4]](#_F1660) Di'bil means that the opponents of Islam were gentle to
 the Prophet through their speech, but their hearts contained enmity
 against him.  
-  
-
-  
-
-  
 
 Fātima, would strike your cheeks beside him and make
 
@@ -661,11 +591,6 @@ grief and distress from us.'
  "So Di'bil asked him: 'Whose grave is at Tūs?' 'It is mine,' answered
 the Imām, peace be on him." This (narration) has been mentioned in
 al-Manāqib (vol. 3, p. 450) and others.  
-  
-
-  
-
-  
 
 and his companions) stopped at the late night.
 
@@ -729,16 +654,9 @@ from among the foolish and the dirty.
 
 Taym and Adi will be asked about them and their
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1664) For they had renounced the world.  
-  
-
-  
-
-  
 
 homage which was the greatest sin.[[1]](#_ftn1665)
 
@@ -778,8 +696,6 @@ House of) Allah and as long as a dove coos in the trees.
 I will sacrifice my own soul for you; (your) middle-aged and youths
 release captives and collect blood-money (for the people).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1665) By Taym, he meant Abū Bakr; and by 'Adi, he meant 'Umar
@@ -795,11 +711,6 @@ among their childrenhostage to separation.
 the faithful; the testamentary trustee of Allah's Messenger and gate of
 the city of his knowledge. As for Di'bil, he has condemned those who
 swerved the caliphate from him and entrusted it to other than him.  
-  
-
-  
-
-  
 
 When death limits the steps of the horses, you release
 
@@ -846,8 +757,6 @@ family of Allahs Messenger are in the deserts!
 I will weep for them as long as the sun shines on earth and the caller
 of good calls (men) to prayer;
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1668)Di'bil means that he loves and is sincere to him who loves
@@ -862,11 +771,6 @@ Fear!'"
  [[3]](#_F1670)In a narration: "When Di'bil reached this line, Imām
 al-Ridā began turning over his palm of the hand and said: 'Yes, by
 Allah, they are contracted.'"  
-  
-
-  
-
-  
 
 (I will weep for them) as long as the sun shines and sets; and I will
 weep for them at night and in the early morning.
@@ -926,8 +830,6 @@ their thirst with their blood.
 
 For surely I hope for from the Most Gracious (Allah),
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1671)In a narration: "After Di'bil had finished reciting this
@@ -936,11 +838,6 @@ hand and said: 'Yes, byAllah, they are contracted.'"
  [[2]](#_F1672)When Di'bil had finished this line and the one after it,
 the Imām said to him: 'O Khazā'i, the Holy Spirit has spoken through
 your tongue.'"  
-  
-
-  
-
-  
 
 through showing love for them an uninterrupted life in
 
@@ -992,18 +889,11 @@ day came, then that day was the day of his calamity, his sadness, and
 his weeping, and he would say: This is the day on which al-Husayn was
 killed.[[3]](#_ftn1675)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1673)Di'bil, Divan.  
  [[2]](#_F1674)Al-Anwār al-Nu'māniya, vol. 3, p. 238.  
  [[3]](#_F1675)Ibid.  
-  
-
-  
-
-  
 
 And he, peace be on him, said: Surely the people who lived before Islam
 prohibited fighting in the month of Muharram, while therein (shedding)
@@ -1044,17 +934,10 @@ the Qāim, peace be on him, rises; they will be with him, among his
 supporters and Shiites; their slogan will be: Let us avenge the blood of
 al-Husayn![[2]](#_ftn1677)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1676)Ibid.  
  [[2]](#_F1677)Ibid., p. 239.  
-  
-
-  
-
-  
 
 The Tragedy of Karbelā has immortalized sadness and sorrow for the
 members of the House (*ahl al-Bayt)*, peace be on them, for they and
@@ -1099,11 +982,6 @@ sermon is of great importance, his
 ------------------------------------------------------------------------
 
 [[1]](#_F1678)Bihār al-Anwār, vol. 12, p. 29.  
-  
-
-  
-
-  
 
 Eminence, the late Yahyā b. Mohammed Ali has explained it and mentioned
 in the introduction to it: Surely the famous sermon which has been
@@ -1143,11 +1021,6 @@ His Oneness that is professed by someone who attempts to
 
 [[1]](#_F1679)Sharh Khuttbat al-Imām al-Ridā fi al-Tawhid, a manuscript
 available in Imām Amir al-Mu'minin's Library, no. 1728.  
-  
-
-  
-
-  
 
 fathom Him. It is not His reality that is attained by someone who
 strikes a similitude for Him. It is not He who is confirmed by him who
@@ -1186,10 +1059,6 @@ straight path concerning Him.
 Allah does not change with the changes undergone by creation, just as He
 does not become limited by delimiting that which is limited. He is One,
 not according to the explanation offered by number;  
-
-  
-
-  
 
 Outward, not according to the explanation of being immediate (to the
 senses); Manifest, not through the appearance of a vision (of Him);
@@ -1232,11 +1101,6 @@ lordship when there was none over whom He was Lord,
 ------------------------------------------------------------------------
 
 [[1]](#_F1680)Qur'ān, 51, 49.  
-  
-
-  
-
-  
 
 the reality of godhood when there was nothing for whom He was God, the
 meaning of Knower when there was nothing to be known, the meaning of
@@ -1277,10 +1141,6 @@ created?
 If something from behind limited Him, then something in front would
 limit Him. If perfection were seeking Him, imperfection would  
 
-  
-
-  
-
 be upon Him. How should that which does not transcend temporality be
 worthy of (the Name) Beginningless? How should that which does not
 transcend being produced produce the things (of the world)? There then
@@ -1319,16 +1179,9 @@ Praise belongs to Allah, Who from nothing was, nor from making a thing
 He sought help, nor from a thing He created (the creatures), nor from it
 He formed the things; rather He said to it, Be, and it is.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1681)Al-Tawhid, pp. 34-41.  
-  
-
-  
-
-  
 
 And I bear witness that there is no god but Allah, Who is unique and
 without partners, far above resisting rivals, vying with opposites,
@@ -1365,16 +1218,9 @@ This sermon summons men to do good, to refrain from the unlawful, and to
 renounce the world; it warns them against Allahs punishment and
 chastisement.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1682)Al-Durr al-Nazim, p. 215.  
-  
-
-  
-
-  
 
 Al-Mamūn asks the Imām for good Poetry
 --------------------------------------
@@ -1434,12 +1280,6 @@ concerning attracting enemy, that he may be a friend.
 
 So the Imām recited to him these lines:
 
-  
-
-  
-
-  
-
 I make peace with the possessor of malice, so I
 
 overcome and deafen him because of the favor of
@@ -1497,10 +1337,6 @@ siliver be with you. When someone asks you for something, you give him.
 When one of your uncles asks you to give him, then do not give him less
 than fifty dinars; as for more than this  
 
-  
-
-  
-
 amount, that is up to you. When one of your aunts asks you to give her,
 then do not give her less than fifty dinars; as for more than this
 amount, that is up to you. And when one of Quraysh asks you (to give
@@ -1543,11 +1379,6 @@ submissive, before whose force and
 ------------------------------------------------------------------------
 
 [[1]](#_F1683)Ibid., pp. 215-216.  
-  
-
-  
-
-  
 
 tremendousness all things are humble, whose knowledge encompasses all
 things and counts their number, so no great thing makes Him tired, no
@@ -1591,11 +1422,6 @@ any reward for it ( the toil of preaching) except the love of my
 relations* was revealed, they asked: 'O Apostle of Allah, who are your
 relations whose love you have made obligatory on us?' 'They are 'Ali,Fā
 tima, and their two sons, 'he replied."  
-  
-
-  
-
-  
 
 which He has described them such as keeping off from them every kind of
 uncleanness and His purifying them in these words of Him: *Verily Allah
@@ -1636,11 +1462,6 @@ the Qur'ān) have unanimously agreed that this verse was revealed
 regarding 'Ali, Fātima, al-Hasan, and al-Husayn, peace be on them.
 Similarly, the consensus (of scientists) such Ahmed b. Hanbal, and the
 like, has narrated that it was revealed concerning them."  
-  
-
-  
-
-  
 
 best of them in direction, the strongest (of them) in establishing the
 right of al-Mamūn and in summoning (men) to him, to the extent that he
@@ -1679,10 +1500,6 @@ authority, strength for setting the Muslims right,
  (him) with the truth and guidance, kindness and reverential fear. So  
  when the Commander of the faithful has become confident of him, we  
  have (also) become confident of him according to the view of the  
-
-  
-
-  
 
 religion and that in which is his righteousness; we have given him his
 demand, which is equal to his rank; we have written to him a letter of
@@ -1723,10 +1540,6 @@ takes precautions with respect to the affairs of religion and the world.
 
 This statement has terminated; it lauds the great efforts which al-  
 
-  
-
-  
-
 Fadl b. Sahl made for strengthening the government of al-Mamūn and
 establishing his state. It also praises his honesty, his refusing to
 accept many prizes and gifts, and his asking for abdicating the office
@@ -1762,10 +1575,6 @@ called al-Mahdi Mohammed b. Jafar al-
  Port *(Bandar)* of Hurmuz b. Sharwin, in respect of Daylam and its  
  king Mahors, concerning Cabul and its king Harmos then its king  
  Asfahid, regarding Ibn al-Barm, the mountains of Bidār Benda,  
-
-  
-
-  
 
 Arshistān, al-Ghour, and the like, in regard with Khurasān, and Bloun
 the leader *(shāhib)* of the mountain of al-Tibtt, regarding Kaymān and
@@ -1805,12 +1614,6 @@ give rest to it and honor it. Then we will give you of that which you
 take and of that which we have given to you in this letter, but you have
 left it today.
 
-  
-
-  
-
-  
-
 And we have given to al-Hasan b. Sahl the like of that which we have
 given to you, so the half of the gift we have given to him and his
 household is for you, and for that he sacrificed his own life for waging
@@ -1844,16 +1647,9 @@ Surety for it. He wrote it in his own handwriting in (the month of)
 Safar, (in the) year 202, (as a sign of) honoring *al-Habā* (praise) and
 confirming *al-Shart* (the condition).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1686)Qur'ān, 16, 91.  
-  
-
-  
-
-  
 
 ### Imām al-Ridās Signature
 
@@ -1894,11 +1690,6 @@ it as a reward or the like to any person; rather it is
 ------------------------------------------------------------------------
 
 [[1]](#_F1687)'Uyūn Akhbār al-Ridā, p. 2, 154-159.  
-  
-
-  
-
-  
 
 obligatory to spend it on the interests of the Muslims, improving their
 standard of living, refreshing them, and spreading welfare among them.
@@ -1939,10 +1730,6 @@ undertake the tasks of his job. When he passed through Basrah, which was
 under the domination of the Abbāsid government, he burnt the houses of
 the Abbāsids, so he was given the nickname of *Zayd al-Nār* (the Zayd of
 fire). When the revolt of Abū al-Sarāyā was  
-
-  
-
-  
 
 suppressed, Zayd disappeared. However, al-Hasan b. Sahl, looked for him,
 found him, and imprisoned him. He was still in prison until Ibrāhim, the
@@ -1986,11 +1773,6 @@ pure lady Fātima, better known as lady Masūma; he
 
 [[1]](#_F1688)Tanqih al-Maqāl, vol. 1, p. 471.  
  [[2]](#_F1689)Mir'āt al-Jinān, vol. 2, p. 13.  
-  
-
-  
-
-  
 
 asked her to come to him, for she was a favorite with him and dear to
 him. When the letter came to her, she prepared herself and traveled to
@@ -2028,18 +1810,11 @@ You have come to know about the conditions made between us; I do not
 interfere in this affair; therefore, exempt me from saying the prayer
 before the people.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1690)Jawharat al-Kalām, p. 146.  
  [[2]](#_F1691)Hayāt al-Imām Mūsā b. Ja'far, vol. 2, p. 439.  
  [[3]](#_F1692)Tuhfat al-'Ālam, p. 36. Al-Bihār.  
-  
-
-  
-
-  
 
 I only intend by that that the peoples heart should be assured and that
 they should know your great merit, replied al-Mamūn.
@@ -2080,12 +1855,6 @@ he became frightened and terrified. So al-Fadl b. Sahl hurried to him
 and said to him: O Commander of the faithful, if al-Ridā reaches the
 place of prayer for the festival, the people will break out in
 rebellion. So send instructions to him to go back.
-
-  
-
-  
-
-  
 
 Accordingly, al-Mamūn sent one of his policemen to the Imām to ask him
 to go back, so he, peace be on him, called for his boots and put them
@@ -2134,11 +1903,6 @@ He, peace be on him, replied: Surely, Allahs Messenger, may
 [[1]](#_F1693)Usūl al-Kāfi, vol. 1, p. 189-190. 'Uyūn Akhbār al-Ridā,
 vol. 2, pp. 150-151. Al-Manāqib, vol. 4, pp. 371-372. Kashf al-Ghumma.  
  [[2]](#_F1694)Al-Manāqib, vol. 4, p. 372.  
-  
-
-  
-
-  
 
 Allah bless him and his family, came to me yesterday nigh, and there was
 along with him the Commander of the faithful, Ali, peace be on him, and
@@ -2179,10 +1943,6 @@ Then ten successive clouds towered over the people, and the Imām told
 them that each cloud would rain in a certain city, and he mentioned the
 names of the cities. As a result the eleventh cloud  
 
-  
-
-  
-
 towered over them, so he, peace be on him, said: O People, that is the
 cloud which Allah, the Great and Almighty, has sent for you, so thank
 Allah for His favor toward you; go to your abodes and houses, for it has
@@ -2221,10 +1981,6 @@ statement if he carefully considers it and put it into practice.
 It was said: O Allahs Messenger, so-and-so has perished, for he has
 committed sins so-and-so. So Allahs Apostle, may Allah bless him and his
 family, said: Rather, he has saved himself (from  
-
-  
-
-  
 
 Allahs punishment), and Allah will not end his work except with a good
 final result; He will erase his evil deeds and change them into good
@@ -2266,11 +2022,6 @@ caliphs[[1]](#_ftn1695) through your taking this general
 caliphs' is an allusion to the greatest event, namely entrusting regency
 to Imām al-Ridā, and that it will be the point of history for the
 people. Perhaps he wanted to say that you would be the last caliph.  
-  
-
-  
-
-  
 
 honor and great pride out of the house of the sons of al-Abbās (and
 handing it over ) to the house of the sons of Ali.
@@ -2307,16 +2058,9 @@ his affair. But we must disparage him gradually, that we may picture him
 in the picture of him who is not worthy of this affair. Then we will
 scheme against him to turn his tribulation away from us.[[2]](#_ftn1696)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1696)'Uyūn Akhbār al-Ridā, vol. 2, pp. 169-170.  
-  
-
-  
-
-  
 
 Al-Mamūn has uncovered the motives which prompted him to appoint the
 Imām as a heir apparent after him as follows:
@@ -2360,10 +2104,6 @@ their questions, al-Mamūn would have able to remove him from regency.
 
 But this plan came to nothing, for the Imām answered all the  
 
-  
-
-  
-
 questions of the scholars who afterwards admitted his huge scientific
 abilities and his excellence over them.
 
@@ -2402,11 +2142,6 @@ kingdom of His
 ------------------------------------------------------------------------
 
 [[1]](#_F1697)Ibid., p. 153.  
-  
-
-  
-
-  
 
 authority! (O He who) is One in magnificence, so there is no opposite in
 the invincibility of His station! O He by whose magnificence of awe the
@@ -2441,17 +2176,10 @@ one! Bless Mohammed and the family of Mohammed!
 Then he supplicated Allah to drive away that which concerned him, and He
 removed from him al-Mamūns trickery and oppression.[[2]](#_ftn1699)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1698)Ibid., pp. 172-173.  
  [[2]](#_F1699)Hāmish al-Musbāh, p. 293.  
-  
-
-  
-
-  
 
 The Imām does not praise al-Mamūn
 ---------------------------------
@@ -2492,17 +2220,10 @@ penalty! I swear by Allah, you should accept regency or I will force you
 to (accept) it! You should do that; otherwise, I will strike off your
 head![[2]](#_ftn1701)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1700)'Uyūn Akhbār al-Ridā, vol. 2, p. 139.  
  [[2]](#_F1701)Ibid., p. 140.  
-  
-
-  
-
-  
 
 Through all his steps and works, the Imām, peace be on him, preferred
 Allahs good pleasure (to the worldly pleasures); he did not praise
@@ -2544,16 +2265,9 @@ children of Fātima al-Zahrā, peace be on her. Accordingly, al-Mamūn
 said: By Allah, you are closer to Allah Messenger (than
 us).[[1]](#_ftn1702)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1702)Kanz al-Fawā'id, p. 166.  
-  
-
-  
-
-  
 
 The members of the House (*ahl al-Bayt)*, peace be on them, were
 entitled to the caliphate not because of their nearness to Allahs
@@ -2594,17 +2308,10 @@ said to him: I have heard a thing which has saddened me. He mentioned
 the statement, so the Imām, peace be on him, said to him: I will not go
 to Baghdad. I will not see Baghdad; nor will it see me.[[2]](#_ftn1704)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1703)'Uyūn Akhbār al-Ridā, vol. 2, pp. 166-167.  
  [[2]](#_F1704)Ibid., pp., 224-225.  
-  
-
-  
-
-  
 
 This is one of the proofs of his Imāmate, for he did not leave Khurasān
 for Baghdad until al-Mamūn assassinated him.
@@ -2648,11 +2355,6 @@ and composed before him:
  And Allah is better than you for al-'Abbāss.  
  "You are right," al-Ma'mūn said. This has been mentioned in Wafayāt
 al-A'yān, vol. 3, pp. 209-211.   
-  
-
-  
-
-  
 
 al-Mamūn was like that of the Barāmika during the days of Hārūn
 al-Rashid. He was very skillful with political affairs, so concerning
@@ -2693,16 +2395,9 @@ be released; our wives will be divorced; we will make thirty pilgrimages
 (to Mecca) on foot, on the condition that we should kill al-Mamūn and
 make the authority pure for you, that the right may return to you.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1706)Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 9, pp. 31-32.  
-  
-
-  
-
-  
 
 The Imām was fully aware of their deception and their false statement.
 If they had been honest in their statement, they would have carried that
@@ -2744,11 +2439,6 @@ Al-Fadl vigorously opposed the Imām. He opposed the Imām
 al-Ridā,* has mentioned that al-Fadl was not a Shi'ite,  while Ibn
 Khulakān, in his book entitled *Wafayāt al-A'yān* (vol. 3, p. 209), and
 the like have mentioned that he was a Shi'ite.  
-  
-
-  
-
-  
 
 when he suggested a certain idea and summoned al-Mamūn to cancel it. The
 narrators have mentioned that al-Mamūn visited the Imām and recited to
@@ -2790,12 +2480,6 @@ your followers.
 Al-Mamūn responded to the Imāms view and said to him: Excellent is your
 saying, O my master! This is the viewpoint.
 
-  
-
-  
-
-  
-
 Then he ordered the armies to prepare themselves to leave (Khurasān) for
 Medina (Yathrib). When al-Fadl heard of that, he became sad, went in a
 hurry to al-Mamūn, and said to him: What is this view which you have
@@ -2835,5 +2519,4 @@ kingdom.[[1]](#_ftn1710)
 ------------------------------------------------------------------------
 
 [[1]](#_F1710)'Uyūn Akhbār al-Ridā, vol. 2, p. 160.  
-  
 

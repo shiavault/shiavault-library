@@ -5,12 +5,8 @@ As we have established, it is without doubt that the Messenger of Allah,
 sallallahu ‘alaihi wa alihi, said these words to the people at ‘Arafat
 during his last Hajj:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
-وعترتي أهل بيتي
-  </p>
-</blockquote>
+> يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
+> وعترتي أهل بيتي
 
 O mankind! I have left behind over you that which if you hold fast to it
 you will never go astray: the Book of Allah and my offspring, my Ahl
@@ -19,14 +15,10 @@ al-Bayt.
 So, what exactly was he trying to tell the world? Imam al-Mubarakfuri
 (d. 1282 H) quotes this under his commentary of the hadith:
 
-<blockquote dir="rtl">
-  <p>
-قال القاري والمراد بالأخذ بهم التمسك بمحبتهم ومحافظة حرمتهم والعمل
-بروايتهم والاعتماد على مقالتهم وهو لا ينافي أخذ السنة من غيرهم لقوله
-صلى الله عليه وسلم أصحابي كالنجوم بأيهم اقتديتم اهتديتم ولقوله تعالى
-فاسألوا أهل الذكر إن كنتم لا تعلمون
-  </p>
-</blockquote>
+> قال القاري والمراد بالأخذ بهم التمسك بمحبتهم ومحافظة حرمتهم والعمل
+> بروايتهم والاعتماد على مقالتهم وهو لا ينافي أخذ السنة من غيرهم لقوله
+> صلى الله عليه وسلم أصحابي كالنجوم بأيهم اقتديتم اهتديتم ولقوله تعالى
+> فاسألوا أهل الذكر إن كنتم لا تعلمون
 
 Al-Qari said: “The meaning of holding fast to them is to adhere to their
 love, to protect their honour, to follow their narrations, and to rely
@@ -62,13 +54,9 @@ al-Thaqalayn can be followed.
 
 But, al-Mubarakfuri still has one more quote:
 
-<blockquote dir="rtl">
-  <p>
-وقال ابن الملك التمسك بالكتاب العمل بما فيه وهو الائتمار بأوامر الله
-والانتهاء عن نواهيه ومعنى التمسك بالعترة محبتهم والاهتداء بهديهم
-وسيرتهم زاد السيد جمال الدين إذا لم يكن مخالفا للدين
-  </p>
-</blockquote>
+> وقال ابن الملك التمسك بالكتاب العمل بما فيه وهو الائتمار بأوامر الله
+> والانتهاء عن نواهيه ومعنى التمسك بالعترة محبتهم والاهتداء بهديهم
+> وسيرتهم زاد السيد جمال الدين إذا لم يكن مخالفا للدين
 
 Ibn al-Malik said: “Adherence to the Book of Allah is to follow whatever
 is in it – and that is to follow the Orders of Allah and desist from His
@@ -86,12 +74,8 @@ designated offspring of the Prophet intended in the hadith can go astray
 too and oppose Islam. This weird opinion of Sayyid Jamal al-Din however
 directly contradicts the explicit text of the riwayah:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
-وعترتي أهل بيتي
-  </p>
-</blockquote>
+> يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
+> وعترتي أهل بيتي
 
 O mankind! I have left behind over you that which if you hold fast to it
 you will NEVER go astray: the Book of Allah and my offspring, my Ahl
@@ -110,11 +94,7 @@ young Salafiyyah, which insists that the hadith commands to follow the
 Qur’an only, and nothing else. They cite the use of “it” in it – which
 is nominally singular – in support of their submission:
 
-<blockquote dir="rtl">
-  <p>
-إني قد تركت فيكم ما إن أخذتم به
-  </p>
-</blockquote>
+> إني قد تركت فيكم ما إن أخذتم به
 
 I have left behind over you that which if you hold fast to IT
 
@@ -125,12 +105,8 @@ argument. The “it” (ه) in the hadith is a reference to the “which” (م�
 before it. In Arabic, a combination of both is possible even if the
 allusion is to billions of items. For instance, Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إن الذين كفروا لو أن لهم ما في الأرض جميعا ومثله معه ليفتدوا به من
-عذاب يوم القيامة ما تقبل منهم ولهم عذاب أليم
-  </p>
-</blockquote>
+> إن الذين كفروا لو أن لهم ما في الأرض جميعا ومثله معه ليفتدوا به من
+> عذاب يوم القيامة ما تقبل منهم ولهم عذاب أليم
 
 ***As for those who disbelieve, lo! If all that WHICH is in the earth
 were theirs, and the likeness of IT with IT, to ransom them with IT from
@@ -141,11 +117,7 @@ We see that “it” here refers to everything in the earth – all the
 animals, all the constructions, all the minerals, all the lands and so
 on. Let us see another example:
 
-<blockquote dir="rtl">
-  <p>
-إن تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما
-  </p>
-</blockquote>
+> إن تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما
 
 ***If you avoid major sins, that WHICH you have been forbidden from IT,
 We shall remit from you your sins and admit you to a noble
@@ -159,15 +131,11 @@ Interestingly, the alternative hadith which our brothers from the Ahl
 al-Sunnah love to quote has the same wording too. Imam al-Bayhaqi (d.
 458 H) records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو عبد الله الحافظ أخبرني إسماعيل بن محمد بن الفضل الشعراني
-ثنا جدي ثنا بن أبي أويس ثنا أبي عن ثور بن زيد الديلي عن عكرمة عن بن
-عباس رضي الله عنهما أن رسول الله صلى الله عليه و سلم خطب الناس في حجة
-الوداع فقال يا أيها الناس أني قد تركت فيكم ما إن اعتصمتم به فلن تضلوا
-أبدا كتاب الله وسنة نبيه
-  </p>
-</blockquote>
+> أخبرنا أبو عبد الله الحافظ أخبرني إسماعيل بن محمد بن الفضل الشعراني
+> ثنا جدي ثنا بن أبي أويس ثنا أبي عن ثور بن زيد الديلي عن عكرمة عن بن
+> عباس رضي الله عنهما أن رسول الله صلى الله عليه و سلم خطب الناس في حجة
+> الوداع فقال يا أيها الناس أني قد تركت فيكم ما إن اعتصمتم به فلن تضلوا
+> أبدا كتاب الله وسنة نبيه
 
 Abu ‘Abd Allah al-Hafiz – Isma’il b. Muhammad b. al-Fadhl al-Sha’rani –
 my grandfather – Ibn Abi Uways – my father – Thawr b. Zayd al-Dayli –
@@ -187,12 +155,8 @@ Unfortunately for Sunnis though, this hadith of al-Bayhaqi has a dha’if
 chain, due to Ibn Abi Uways. He had a poor memory, as al-Hafiz (d. 852
 H) states:
 
-<blockquote dir="rtl">
-  <p>
-إسماعيل بن عبد الله بن عبد الله بن أويس بن مالك بن أبي عامر الأصبحي
-أبو عبد الله بن أبي أويس المدني صدوق أخطأ في أحاديث من حفظه
-  </p>
-</blockquote>
+> إسماعيل بن عبد الله بن عبد الله بن أويس بن مالك بن أبي عامر الأصبحي
+> أبو عبد الله بن أبي أويس المدني صدوق أخطأ في أحاديث من حفظه
 
 Isma’il b. ‘Abd Allah b. ‘Abd Allah b. Uways b. Malik b. Abi ‘Amir
 al-Asbahi, Abu ‘Abd Allah b. Abi Uways al-Madani: Saduq (very truthful),
@@ -201,15 +165,11 @@ he made mistakes in ahadith due to his memory.[^7]
 His memory crisis was, of course, very critical. Al-Hafiz provides
 further details:
 
-<blockquote dir="rtl">
-  <p>
-إسماعيل بن أبي أويس عبد الله بن عبد الله بن أويس بن مالك بن أبي عامر
-الأصبحي … قلت وروينا في مناقب البخاري بسند صحيح أن إسماعيل أخرج له
-أصوله وأذن له أن ينتقى منها … ما أخرجه البخاري عنه هو من صحيح حديثه
-لأنه كتب من أصوله وعلى هذا لا يحتج بشئ من حديثه غير ما في الصحيح من
-أجل ما قدح فيه النسائي وغيره إلا أن شاركه فيه غيره فيعتبر فيه
-  </p>
-</blockquote>
+> إسماعيل بن أبي أويس عبد الله بن عبد الله بن أويس بن مالك بن أبي عامر
+> الأصبحي … قلت وروينا في مناقب البخاري بسند صحيح أن إسماعيل أخرج له
+> أصوله وأذن له أن ينتقى منها … ما أخرجه البخاري عنه هو من صحيح حديثه
+> لأنه كتب من أصوله وعلى هذا لا يحتج بشئ من حديثه غير ما في الصحيح من
+> أجل ما قدح فيه النسائي وغيره إلا أن شاركه فيه غيره فيعتبر فيه
 
 Isma’il b. Abi Uways ‘Abd Allah b. ‘Abd Allah b. Uways b. Malik b. Abi
 Amir al-Asbahi … I say: We recorded in Manaqib al-Bukhari (Merits of
@@ -233,39 +193,27 @@ without a doubt.
 
 Shaykh Ibn Baz (d. 1420 H) also copies the hadith:
 
-<blockquote dir="rtl">
-  <p>
-اني تارك فيكم ما لن تضلوا إن اعتصمتم به :كتاب الله و سنتي
-  </p>
-</blockquote>
+> اني تارك فيكم ما لن تضلوا إن اعتصمتم به :كتاب الله و سنتي
 
 I am leaving behind over you that WHICH you will never go astray if you
 hold fast to IT: the Book of Allah and my Sunnah.[^9]
 
 Then, in a rather weird move, he says about it:
 
-<blockquote dir="rtl">
-  <p>
-أخرجها الحاكم بسند جيد
-  </p>
-</blockquote>
+> أخرجها الحاكم بسند جيد
 
 Al-Hakim recorded it with a good (jayyid) chain.[^10]
 
 Really? In that case, let us check the report as documented by Imam
 al-Hakim (d. 403 H) himself:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر أحمد بن إسحاق الفقيه أنبأ العباس بن الفضل الأسفاطي ثنا
-إسماعيل عن أبي أويس وأخبرني إسماعيل بن محمد بن الفضل الشعراني ثنا جدي
-عن ثور بن زيد الديلي عن عكرمة عن ابن عباس أن رسول الله صلى الله عليه
-وسلم خطب الناس في حجة الوداع فقال : قد يئس الشيطان بأن يعبد بأرضكم
-ولكنه رضي أن يطاع فيما سوى ذلك مما تحاقرون من أعمالكم فاحذروا يا أيها
-الناس إني قد تركت فيكم ما إن اعتصمتم به فلن تضلوا أبدا : كتاب الله
-وسنة نبيه صلى الله عليه وسلم
-  </p>
-</blockquote>
+> حدثنا أبو بكر أحمد بن إسحاق الفقيه أنبأ العباس بن الفضل الأسفاطي ثنا
+> إسماعيل عن أبي أويس وأخبرني إسماعيل بن محمد بن الفضل الشعراني ثنا جدي
+> عن ثور بن زيد الديلي عن عكرمة عن ابن عباس أن رسول الله صلى الله عليه
+> وسلم خطب الناس في حجة الوداع فقال : قد يئس الشيطان بأن يعبد بأرضكم
+> ولكنه رضي أن يطاع فيما سوى ذلك مما تحاقرون من أعمالكم فاحذروا يا أيها
+> الناس إني قد تركت فيكم ما إن اعتصمتم به فلن تضلوا أبدا : كتاب الله
+> وسنة نبيه صلى الله عليه وسلم
 
 Abu Bakr Ahmad b. Ishaq al-Faqih – al-‘Abbas b. al-Fadhl al-Asfati –
 Isma’il - Abu Uways:
@@ -286,12 +234,8 @@ Prophet, peace be upon him.[^11]
 The Salafi scholar, Shaykh Muqbil, states concerning this hadith in his
 tahqiq of al-Mustadrak:
 
-<blockquote dir="rtl">
-  <p>
-حديث ضعيف لأنه من طريق إسماعيل بن أبي أويس عن أبيه وفيهما كلام .وشاهده
-من طريق صالح بن موسى الطالحي وهو متروك
-  </p>
-</blockquote>
+> حديث ضعيف لأنه من طريق إسماعيل بن أبي أويس عن أبيه وفيهما كلام .وشاهده
+> من طريق صالح بن موسى الطالحي وهو متروك
 
 It is a dha’if hadith, because it is narrated through the route of
 Isma’il b. Abi Uways from his father, and there is criticism against
@@ -382,5 +326,4 @@ Hadi al-Wadi’i], vol. 1, p. 161, \# 318
 [^13]: Hasan b. ‘Ali al-Saqqaf al-Qurashi al-Hashimi al-Husayni, Sahih
 Sharh al-‘Aqidah al-Tahawiyyah (Amman: Dar Imam al-Nawawi; 1st edition,
 1416 H), p. 654, footnote \# 385
-
 

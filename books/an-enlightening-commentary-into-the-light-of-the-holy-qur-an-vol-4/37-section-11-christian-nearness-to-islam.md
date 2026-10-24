@@ -8,13 +8,9 @@ Muslims -The pious ones among the Christian priests and monks
 Surah Al-Ma'idah, Verse 78
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لُعِنَ الَّذِينَ كَفَرُواْ مِن بَنِي إِسْرَائِيلَ عَلَى لِسَانِ
-دَاوُودَ وَعِيسَى ابْنِ مَرْيَمَ ذَلِكَ بِمَا عَصَوا وَّكَانُواْ
-يَعْتَدُونَ
-  </p>
-</blockquote>
+> لُعِنَ الَّذِينَ كَفَرُواْ مِن بَنِي إِسْرَائِيلَ عَلَى لِسَانِ
+> دَاوُودَ وَعِيسَى ابْنِ مَرْيَمَ ذَلِكَ بِمَا عَصَوا وَّكَانُواْ
+> يَعْتَدُونَ
 
 **78.** ***"Those who disbelieved from among the Children of Israel were
 cursed by the tongue of David, and of Jesus, son of Mary, that was
@@ -36,12 +32,8 @@ disobeyed and used to transgress."***
 Surah Al-Ma'idah, Verse 79
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَانُواْ لاَ يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا
-كَانُواْ يَفْعَلُونَ
-  </p>
-</blockquote>
+> كَانُواْ لاَ يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا
+> كَانُواْ يَفْعَلُونَ
 
 **79.** ***"They used not to restrain each other from any dishonour they
 committed. Certainly evil was that which they were doing! "***
@@ -71,13 +63,9 @@ of *Allah* (S).
 Surah Al-Ma'idah, Verse 80
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَرَى كَثِيراً مِّنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُواْ لَبِئْسَ
-مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ اللّهُ عَلَيْهِمْ وَفِي
-الْعَذَابِ هُمْ خَالِدُونَ
-  </p>
-</blockquote>
+> تَرَى كَثِيراً مِّنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُواْ لَبِئْسَ
+> مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ اللّهُ عَلَيْهِمْ وَفِي
+> الْعَذَابِ هُمْ خَالِدُونَ
 
 **80.** ***"You see many of them making friends with those who
 disbelieve. Surely evil is that which their selves send before for them
@@ -101,12 +89,8 @@ chastisement shall they abide."***
 Surah Al-Ma'idah, Verse 81
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ كَانُوا يُؤْمِنُونَ بِالله والنَّبِيِّ وَمَا أُنزِلَ إِلَيْهِ
-مَا اتَّخَذُوهُمْ أَوْلِيَاء وَلَـكِنَّ كَثِيراً مِّنْهُمْ فَاسِقُونَ
-  </p>
-</blockquote>
+> وَلَوْ كَانُوا يُؤْمِنُونَ بِالله والنَّبِيِّ وَمَا أُنزِلَ إِلَيْهِ
+> مَا اتَّخَذُوهُمْ أَوْلِيَاء وَلَـكِنَّ كَثِيراً مِّنْهُمْ فَاسِقُونَ
 
 **81.** ***"And if they had believed in Allah and the Prophet and what
 was sent down to him, they would not have taken them for friends, but,
@@ -139,15 +123,11 @@ them are evil-doers."***
 Surah Al-Ma'idah, Verse 82
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُواْ الْيَهُودَ
-وَالَّذِينَ أَشْرَكُواْ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَّوَدَّةً
-لِّلَّذِينَ آمَنُواْ الَّذِينَ قَالُوَاْ إِنَّا نَصَارَى ذَلِكَ
-بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لاَ
-يَسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُواْ الْيَهُودَ
+> وَالَّذِينَ أَشْرَكُواْ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَّوَدَّةً
+> لِّلَّذِينَ آمَنُواْ الَّذِينَ قَالُوَاْ إِنَّا نَصَارَى ذَلِكَ
+> بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لاَ
+> يَسْتَكْبِرُونَ
 
 **82.** ***"Certainly you will find the most hostile of people to those
 who believe are the Jews and pagans; and you will certainly find the
@@ -195,13 +175,9 @@ and because they do not behave proudly."***
 Surah Al-Ma'idah, Verse 83
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَمِعُواْ مَا أُنزِلَ إِلَى الرَّسُولِ تَرَى أَعْيُنَهُمْ
-تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُواْ مِنَ الْحَقِّ يَقُولُونَ
-رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
-  </p>
-</blockquote>
+> وَإِذَا سَمِعُواْ مَا أُنزِلَ إِلَى الرَّسُولِ تَرَى أَعْيُنَهُمْ
+> تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُواْ مِنَ الْحَقِّ يَقُولُونَ
+> رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
 
 **83.** ***"And when they hear what has been sent down to the Messenger,
 you see their eyes overflowing with tears because of what they recognize
@@ -232,26 +208,14 @@ belief and having a good end.
 Surah Al-Ma'idah, Verses 84 - 86
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَنَا لاَ نُؤْمِنُ بِاللّهِ وَمَا جَاءنَا مِنَ الْحَقِّ
-وَنَطْمَعُ أَن يُدْخِلَنَا رَبَّنَا مَعَ الْقَوْمِ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَمَا لَنَا لاَ نُؤْمِنُ بِاللّهِ وَمَا جَاءنَا مِنَ الْحَقِّ
+> وَنَطْمَعُ أَن يُدْخِلَنَا رَبَّنَا مَعَ الْقَوْمِ الصَّالِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَثَابَهُمُ اللّهُ بِمَا قَالُواْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا
-الأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاء الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> فَأَثَابَهُمُ اللّهُ بِمَا قَالُواْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا
+> الأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاء الْمُحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِآيَاتِنَا أُوْلَـئِكَ أَصْحَابُ
-الْجَحِيمِ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِآيَاتِنَا أُوْلَـئِكَ أَصْحَابُ
+> الْجَحِيمِ
 
 **84.** ***"And what (reason) have we that we should not believe in
 Allah and in the Truth that has come to us, while we long for our Lord
@@ -279,5 +243,4 @@ Truth), mentioned in the verse, is: the Qur'an, Islam, and the holy
 personality of the Prophet (S).
 
 [^1]: At-Tafsir-ul-Burhan, vol. 1, p. 492
-
 

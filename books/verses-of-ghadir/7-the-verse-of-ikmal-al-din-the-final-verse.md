@@ -993,4 +993,3 @@ al-Maghazi 2/1089, al-Halabi: al-Sirah al-Halabiyyah (the margin of)
 [^26]: The Hijri year is lunar and each month begins at the approximate
 new moon; therefore, months may be either thirty or twenty nine days.
 
-

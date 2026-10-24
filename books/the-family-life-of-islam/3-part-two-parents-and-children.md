@@ -156,7 +156,6 @@ expected to help his parent in earning his livelihood, so it has been
 named viziership. For each of these periods, the Islamic shari \`ah has
 given some guidelines.
 
-
 First Stage: It has been explained that the child should not be
 burdened with books in this period. But this does not mean that his
 mind's faculties remain suspended. On the contrary, the atmosphere of
@@ -328,9 +327,7 @@ Islamic limits, then that child surely will be the apple of the parents'
 eyes and the delight of their hearts; and it is this child who, in his
 turn, may be hoped to fulfil his obligation towards his parents.
 
-
 Referring to such offspring, the Holy Prophet said that "The virtuous
 child is a flower from the flowers of Paradise." Also he said: "Among
 the good fortunes of a man is the virtuous child."
-
 

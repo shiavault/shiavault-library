@@ -141,4 +141,3 @@ did so because they believed in the advent of different and alternative
 futures to the ones they were experiencing. Has this been so and what
 responsibility do we, Western futures thinkers, have from now on?
 
-

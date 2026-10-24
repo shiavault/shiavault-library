@@ -40,4 +40,3 @@ precursor of Dr. Ali Shari'ati, who, despite exercising far greater
 influence than Jalal on the youth, could not surpass Jalal Ali Ahmad in
 literary excellence.
 
-

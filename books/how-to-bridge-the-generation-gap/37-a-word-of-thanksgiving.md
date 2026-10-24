@@ -66,4 +66,3 @@ who follow them, it is the day when the span allotted to life on the
 earth will come to an end, and the will of God, to create and resurrect
 human being, will be carried into effect.”
 
-

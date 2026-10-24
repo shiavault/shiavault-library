@@ -66,4 +66,3 @@ adopt that militant obedience of the "Abedeen", who can doubt that
 Almighty Providence will once again pour forth the bounty of His grace
 upon a perishing world?
 
-

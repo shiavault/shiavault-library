@@ -18,35 +18,15 @@ and forgive me my sins , O God of the worlds,
 
 and forgive me, O one who forgives the sinners.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعل صيامي فيه صيام الصائمين
-  </p>
-</blockquote>
+> اللهم اجعل صيامي فيه صيام الصائمين
 
-<blockquote dir="rtl">
-  <p>
-وقيامي في قيام القائمين
-  </p>
-</blockquote>
+> وقيامي في قيام القائمين
 
-<blockquote dir="rtl">
-  <p>
-ونبهني في عن نومة الغافلين
-  </p>
-</blockquote>
+> ونبهني في عن نومة الغافلين
 
-<blockquote dir="rtl">
-  <p>
-وهب لي جُرمي فيه يا إله العالمين
-  </p>
-</blockquote>
+> وهب لي جُرمي فيه يا إله العالمين
 
-<blockquote dir="rtl">
-  <p>
-واغف عني يا عافياً عن المجرمين
-  </p>
-</blockquote>
+> واغف عني يا عافياً عن المجرمين
 
 2nd day
 -------
@@ -61,29 +41,13 @@ grant me the opportunity to recite Your verses (of the Qur'an),
 
 by Your mercy, O the most Merciful.
 
-<blockquote dir="rtl">
-  <p>
-اللهم قربني فيه إلى مرضاتك
-  </p>
-</blockquote>
+> اللهم قربني فيه إلى مرضاتك
 
-<blockquote dir="rtl">
-  <p>
-وجنبني فيه من سخطك ونقماتك
-  </p>
-</blockquote>
+> وجنبني فيه من سخطك ونقماتك
 
-<blockquote dir="rtl">
-  <p>
-ووفقني فيه لقرائة اياتك
-  </p>
-</blockquote>
+> ووفقني فيه لقرائة اياتك
 
-<blockquote dir="rtl">
-  <p>
-برحمتك يا ارحم الراحمين
-  </p>
-</blockquote>
+> برحمتك يا ارحم الراحمين
 
 3rd day
 -------
@@ -98,29 +62,13 @@ grant me a share in every blessing You send down,
 
 by You generosity, O the most Generous.
 
-<blockquote dir="rtl">
-  <p>
-اللهم ارزقني فيه الذهن والتنبيه
-  </p>
-</blockquote>
+> اللهم ارزقني فيه الذهن والتنبيه
 
-<blockquote dir="rtl">
-  <p>
-وباعدني فيه من السفاهة والتموية
-  </p>
-</blockquote>
+> وباعدني فيه من السفاهة والتموية
 
-<blockquote dir="rtl">
-  <p>
-واجعل لي نصيباً من كل خير تُنزل فيه
-  </p>
-</blockquote>
+> واجعل لي نصيباً من كل خير تُنزل فيه
 
-<blockquote dir="rtl">
-  <p>
-بجودك يا اجود الأجودين
-  </p>
-</blockquote>
+> بجودك يا اجود الأجودين
 
 4th day
 -------
@@ -139,35 +87,15 @@ Protect me, with Your protection and cover,
 
 O the most discerning of those who see.
 
-<blockquote dir="rtl">
-  <p>
-اللهم قوني فيه على اقامة امرك
-  </p>
-</blockquote>
+> اللهم قوني فيه على اقامة امرك
 
-<blockquote dir="rtl">
-  <p>
-واذقني فيه حلاوة ذكرك
-  </p>
-</blockquote>
+> واذقني فيه حلاوة ذكرك
 
-<blockquote dir="rtl">
-  <p>
-واوزعني في لأداء شكرك بكرمك
-  </p>
-</blockquote>
+> واوزعني في لأداء شكرك بكرمك
 
-<blockquote dir="rtl">
-  <p>
-واحفظني فيه بحفظك وسترك
-  </p>
-</blockquote>
+> واحفظني فيه بحفظك وسترك
 
-<blockquote dir="rtl">
-  <p>
-يا أبصر الناظرين
-  </p>
-</blockquote>
+> يا أبصر الناظرين
 
 5th day
 -------
@@ -182,29 +110,13 @@ and place me among Your close friends,
 
 by Your kindness, O the most Merciful.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعلني فيه من المستغفرين
-  </p>
-</blockquote>
+> اللهم اجعلني فيه من المستغفرين
 
-<blockquote dir="rtl">
-  <p>
-واجعلني فيه من عبادك الصالحين القانتين
-  </p>
-</blockquote>
+> واجعلني فيه من عبادك الصالحين القانتين
 
-<blockquote dir="rtl">
-  <p>
-واجعلني فيه من أوليائك المُقربين
-  </p>
-</blockquote>
+> واجعلني فيه من أوليائك المُقربين
 
-<blockquote dir="rtl">
-  <p>
-برأفتك يا ارحم الراحمين
-  </p>
-</blockquote>
+> برأفتك يا ارحم الراحمين
 
 6th day
 -------
@@ -223,29 +135,13 @@ by Your kindness and Your power,
 
 O the ultimate wish of those who desire.
 
-<blockquote dir="rtl">
-  <p>
-اللهم لا تخذلني في لتعرض معصيتك
-  </p>
-</blockquote>
+> اللهم لا تخذلني في لتعرض معصيتك
 
-<blockquote dir="rtl">
-  <p>
-ولا تضربني بسياط نقمتك
-  </p>
-</blockquote>
+> ولا تضربني بسياط نقمتك
 
-<blockquote dir="rtl">
-  <p>
-وزحزحني فيه من مُوجبات سخطك
-  </p>
-</blockquote>
+> وزحزحني فيه من مُوجبات سخطك
 
-<blockquote dir="rtl">
-  <p>
-بمنك واياديك يا منتهى رغبة الراغبين
-  </p>
-</blockquote>
+> بمنك واياديك يا منتهى رغبة الراغبين
 
 7th day
 -------
@@ -260,23 +156,11 @@ grant me that I remember You continuously through the day,
 
 by Your assistance, O the Guide of those who stray.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اعني فيه على صيامه وقيامه
-  </p>
-</blockquote>
+> اللهم اعني فيه على صيامه وقيامه
 
-<blockquote dir="rtl">
-  <p>
-وجنبني فيه من هفواته واثامه
-  </p>
-</blockquote>
+> وجنبني فيه من هفواته واثامه
 
-<blockquote dir="rtl">
-  <p>
-وارزقني فيه ذكرك بدوامه بتوفيقك يا هادي المُضلين
-  </p>
-</blockquote>
+> وارزقني فيه ذكرك بدوامه بتوفيقك يا هادي المُضلين
 
 8th day
 -------
@@ -293,23 +177,11 @@ and keep company with the noble-­minded,
 
 O the shelter of the hopeful.
 
-<blockquote dir="rtl">
-  <p>
-اللهم ارزقني فيه رحمة الأيتام
-  </p>
-</blockquote>
+> اللهم ارزقني فيه رحمة الأيتام
 
-<blockquote dir="rtl">
-  <p>
-وإطعام الطعام وإفشاء السلام
-  </p>
-</blockquote>
+> وإطعام الطعام وإفشاء السلام
 
-<blockquote dir="rtl">
-  <p>
-وصحبة الكرام يا ملجأ الأملين
-  </p>
-</blockquote>
+> وصحبة الكرام يا ملجأ الأملين
 
 9th day
 -------
@@ -324,29 +196,13 @@ lead me to Your all-­encompassing pleasure,
 
 by Your love, O the hope of the desirous.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعل لي فيه نصيباً من رحمتك الواسعة
-  </p>
-</blockquote>
+> اللهم اجعل لي فيه نصيباً من رحمتك الواسعة
 
-<blockquote dir="rtl">
-  <p>
-واهدني فيه لبراهينك الساطعة
-  </p>
-</blockquote>
+> واهدني فيه لبراهينك الساطعة
 
-<blockquote dir="rtl">
-  <p>
-وخذ بناصيتي إلى مرضاتك الجامعة
-  </p>
-</blockquote>
+> وخذ بناصيتي إلى مرضاتك الجامعة
 
-<blockquote dir="rtl">
-  <p>
-بمحبتك يا أمل المُشتاقين
-  </p>
-</blockquote>
+> بمحبتك يا أمل المُشتاقين
 
 10th day
 --------
@@ -361,29 +217,13 @@ and place me among those who are near to you,
 
 by Your favour, O goal of the seekers.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعلني فيه من المتوكلين عليك
-  </p>
-</blockquote>
+> اللهم اجعلني فيه من المتوكلين عليك
 
-<blockquote dir="rtl">
-  <p>
-واجعلني فيه من الفائزين لديك
-  </p>
-</blockquote>
+> واجعلني فيه من الفائزين لديك
 
-<blockquote dir="rtl">
-  <p>
-واجعلني فيه من المقربين إليك
-  </p>
-</blockquote>
+> واجعلني فيه من المقربين إليك
 
-<blockquote dir="rtl">
-  <p>
-بإحسانك يا غاية الطالبين
-  </p>
-</blockquote>
+> بإحسانك يا غاية الطالبين
 
 11th day
 --------
@@ -398,29 +238,13 @@ bar me from anger and the fire [of Hell],
 
 by Your help, O the helper of those who seek help.
 
-<blockquote dir="rtl">
-  <p>
-اللهم حبب إليّ فيه الأحسان
-  </p>
-</blockquote>
+> اللهم حبب إليّ فيه الأحسان
 
-<blockquote dir="rtl">
-  <p>
-وكره إليّ فيه الفُسوق والعصيان
-  </p>
-</blockquote>
+> وكره إليّ فيه الفُسوق والعصيان
 
-<blockquote dir="rtl">
-  <p>
-وحرم عليّ فيه السخط والنيران
-  </p>
-</blockquote>
+> وحرم عليّ فيه السخط والنيران
 
-<blockquote dir="rtl">
-  <p>
-بعونك يا غياث المُستغثين
-  </p>
-</blockquote>
+> بعونك يا غياث المُستغثين
 
 12th day
 --------
@@ -437,35 +261,15 @@ and keep me safe from all that I fear,
 
 by Your protection, O the protector of the frightened.
 
-<blockquote dir="rtl">
-  <p>
-اللهم زيني فيه بالستر والعفاف
-  </p>
-</blockquote>
+> اللهم زيني فيه بالستر والعفاف
 
-<blockquote dir="rtl">
-  <p>
-واستُرني فيه بلباس القُنو والعفاف
-  </p>
-</blockquote>
+> واستُرني فيه بلباس القُنو والعفاف
 
-<blockquote dir="rtl">
-  <p>
-واحملني فيه على العدل والأنصاف
-  </p>
-</blockquote>
+> واحملني فيه على العدل والأنصاف
 
-<blockquote dir="rtl">
-  <p>
-وامني فيه من كُل ما اخاف
-  </p>
-</blockquote>
+> وامني فيه من كُل ما اخاف
 
-<blockquote dir="rtl">
-  <p>
-بعصمتك يا عصمة الخائفين
-  </p>
-</blockquote>
+> بعصمتك يا عصمة الخائفين
 
 13th day
 --------
@@ -482,29 +286,13 @@ and keep company with the good,
 
 by Your help, O the beloved of the destitute.
 
-<blockquote dir="rtl">
-  <p>
-اللهم طهرني فيه من الدنس والأقذار
-  </p>
-</blockquote>
+> اللهم طهرني فيه من الدنس والأقذار
 
-<blockquote dir="rtl">
-  <p>
-وصبرني فيه على كائنات الأقدار
-  </p>
-</blockquote>
+> وصبرني فيه على كائنات الأقدار
 
-<blockquote dir="rtl">
-  <p>
-ووفقني في للتقى وصُحبة الأبرار
-  </p>
-</blockquote>
+> ووفقني في للتقى وصُحبة الأبرار
 
-<blockquote dir="rtl">
-  <p>
-بعونك يا قُرة عين المساكين
-  </p>
-</blockquote>
+> بعونك يا قُرة عين المساكين
 
 14th day
 --------
@@ -519,29 +307,13 @@ do not make me a target for afflictions and troubles,
 
 by Your honor, O the honor of the Muslims.
 
-<blockquote dir="rtl">
-  <p>
-اللهم لا تؤاخذني فيه بالعثرات
-  </p>
-</blockquote>
+> اللهم لا تؤاخذني فيه بالعثرات
 
-<blockquote dir="rtl">
-  <p>
-واقلني فيه من الخطايا والهفوات
-  </p>
-</blockquote>
+> واقلني فيه من الخطايا والهفوات
 
-<blockquote dir="rtl">
-  <p>
-ولا تجعلني فيه غرضاً للبلايا والأفات
-  </p>
-</blockquote>
+> ولا تجعلني فيه غرضاً للبلايا والأفات
 
-<blockquote dir="rtl">
-  <p>
-بعزتك يا عز المُسلمين
-  </p>
-</blockquote>
+> بعزتك يا عز المُسلمين
 
 15th day
 --------
@@ -554,23 +326,11 @@ expand my chest through the repentance of the humble,
 
 by Your security, O the shelter of the fearful.
 
-<blockquote dir="rtl">
-  <p>
-اللهم ازرقني فيه طاعة الخاشعين
-  </p>
-</blockquote>
+> اللهم ازرقني فيه طاعة الخاشعين
 
-<blockquote dir="rtl">
-  <p>
-واشرح فيه صدري بانابة المُخبتين
-  </p>
-</blockquote>
+> واشرح فيه صدري بانابة المُخبتين
 
-<blockquote dir="rtl">
-  <p>
-بامانك يا امان الخائفين
-  </p>
-</blockquote>
+> بامانك يا امان الخائفين
 
 16th day
 --------
@@ -585,29 +345,13 @@ lead me in it, by Your mercy, to the permanent abode,
 
 by Your Godship, O the God of the worlds.
 
-<blockquote dir="rtl">
-  <p>
-اللهم وقِفني فيه لمُوافقة الأبرار
-  </p>
-</blockquote>
+> اللهم وقِفني فيه لمُوافقة الأبرار
 
-<blockquote dir="rtl">
-  <p>
-وجنبني فيه مراتقة الأشرار
-  </p>
-</blockquote>
+> وجنبني فيه مراتقة الأشرار
 
-<blockquote dir="rtl">
-  <p>
-واوني فيه برحمتك إلى دار القرار
-  </p>
-</blockquote>
+> واوني فيه برحمتك إلى دار القرار
 
-<blockquote dir="rtl">
-  <p>
-بالهيتك يا إله العالمين
-  </p>
-</blockquote>
+> بالهيتك يا إله العالمين
 
 17th day
 --------
@@ -626,35 +370,15 @@ of the (people of the) world.
 
 Bless Muhammad and his family, the Pure.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اهدني فيه لصالح الأعمال
-  </p>
-</blockquote>
+> اللهم اهدني فيه لصالح الأعمال
 
-<blockquote dir="rtl">
-  <p>
-واقض لي فيه الحوائج والأمال
-  </p>
-</blockquote>
+> واقض لي فيه الحوائج والأمال
 
-<blockquote dir="rtl">
-  <p>
-يا من لا يحتاج إلى التفسير والسؤال
-  </p>
-</blockquote>
+> يا من لا يحتاج إلى التفسير والسؤال
 
-<blockquote dir="rtl">
-  <p>
-يا عالماً بما في صدور العالمين
-  </p>
-</blockquote>
+> يا عالماً بما في صدور العالمين
 
-<blockquote dir="rtl">
-  <p>
-صل على محمد وأله الطاهرين
-  </p>
-</blockquote>
+> صل على محمد وأله الطاهرين
 
 18th day
 --------
@@ -671,29 +395,13 @@ by Your light,
 
 O the illuminator of the hearts of those who know.
 
-<blockquote dir="rtl">
-  <p>
-اللهم نبهني فيه لبركات اسحارة
-  </p>
-</blockquote>
+> اللهم نبهني فيه لبركات اسحارة
 
-<blockquote dir="rtl">
-  <p>
-ونور فيه قلبي بضياء انواره
-  </p>
-</blockquote>
+> ونور فيه قلبي بضياء انواره
 
-<blockquote dir="rtl">
-  <p>
-وخُذ بكل اعضاء إلى التبا اثاره
-  </p>
-</blockquote>
+> وخُذ بكل اعضاء إلى التبا اثاره
 
-<blockquote dir="rtl">
-  <p>
-بنورك يا منور قلوب العارفين
-  </p>
-</blockquote>
+> بنورك يا منور قلوب العارفين
 
 19th day
 --------
@@ -708,29 +416,13 @@ do not deprive me of the acceptance of its good deeds,
 
 O the Guide towards the clear truth.
 
-<blockquote dir="rtl">
-  <p>
-اللهم وفِر فيه حظي من بركاته
-  </p>
-</blockquote>
+> اللهم وفِر فيه حظي من بركاته
 
-<blockquote dir="rtl">
-  <p>
-وسهل سبيلي إلي خيراته
-  </p>
-</blockquote>
+> وسهل سبيلي إلي خيراته
 
-<blockquote dir="rtl">
-  <p>
-ولا تحرمني قبول حساناته
-  </p>
-</blockquote>
+> ولا تحرمني قبول حساناته
 
-<blockquote dir="rtl">
-  <p>
-يا هادياً إلى الحق المبين
-  </p>
-</blockquote>
+> يا هادياً إلى الحق المبين
 
 20th day
 --------
@@ -747,29 +439,13 @@ O the One who sends down tranquility
 
 into the hearts of believers.
 
-<blockquote dir="rtl">
-  <p>
-اللهم افتح لي فيه ابواب الجنان
-  </p>
-</blockquote>
+> اللهم افتح لي فيه ابواب الجنان
 
-<blockquote dir="rtl">
-  <p>
-واغلق عني فيه ابواب النيران
-  </p>
-</blockquote>
+> واغلق عني فيه ابواب النيران
 
-<blockquote dir="rtl">
-  <p>
-ووقفني فيه لتلاوة القران
-  </p>
-</blockquote>
+> ووقفني فيه لتلاوة القران
 
-<blockquote dir="rtl">
-  <p>
-يا مُنزل السكينة في قلوب
-  </p>
-</blockquote>
+> يا مُنزل السكينة في قلوب
 
 21st day
 --------
@@ -784,29 +460,13 @@ make Paradise an abode and a resting place for me,
 
 O the One who fulfills the requests of the needy.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعل لي فيه إلى مرضاتك دليلاً
-  </p>
-</blockquote>
+> اللهم اجعل لي فيه إلى مرضاتك دليلاً
 
-<blockquote dir="rtl">
-  <p>
-ولا تجعل للشيطان فيه عليّ سبيلا
-  </p>
-</blockquote>
+> ولا تجعل للشيطان فيه عليّ سبيلا
 
-<blockquote dir="rtl">
-  <p>
-واجعل الجنة لي منزلا ومقيلا
-  </p>
-</blockquote>
+> واجعل الجنة لي منزلا ومقيلا
 
-<blockquote dir="rtl">
-  <p>
-يا قاضي حوائج الطالبين
-  </p>
-</blockquote>
+> يا قاضي حوائج الطالبين
 
 22nd day
 --------
@@ -823,35 +483,15 @@ and give me a place in the comforts of Paradise,
 
 O the one who answers the call of the distressed.
 
-<blockquote dir="rtl">
-  <p>
-اللهم افتح لي فيه ابواب فضلك
-  </p>
-</blockquote>
+> اللهم افتح لي فيه ابواب فضلك
 
-<blockquote dir="rtl">
-  <p>
-وانزل عليّ فيه بركاتك
-  </p>
-</blockquote>
+> وانزل عليّ فيه بركاتك
 
-<blockquote dir="rtl">
-  <p>
-ووفقني فيه لموجبات مرضاتك
-  </p>
-</blockquote>
+> ووفقني فيه لموجبات مرضاتك
 
-<blockquote dir="rtl">
-  <p>
-واسكني فيه بحبُوحات جناتك
-  </p>
-</blockquote>
+> واسكني فيه بحبُوحات جناتك
 
-<blockquote dir="rtl">
-  <p>
-يا مُجيب دعوة المُضطرين
-  </p>
-</blockquote>
+> يا مُجيب دعوة المُضطرين
 
 23rd day
 --------
@@ -866,29 +506,13 @@ examine my heart with (for) the piety of the hearts,
 
 O One who overlooks the shortcomings of the sinners.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اغسلني فيه من الذنوب
-  </p>
-</blockquote>
+> اللهم اغسلني فيه من الذنوب
 
-<blockquote dir="rtl">
-  <p>
-وطهرني في من العُيوب
-  </p>
-</blockquote>
+> وطهرني في من العُيوب
 
-<blockquote dir="rtl">
-  <p>
-وامتحن قلبي فيه بتقوى القُلوب
-  </p>
-</blockquote>
+> وامتحن قلبي فيه بتقوى القُلوب
 
-<blockquote dir="rtl">
-  <p>
-يا مقيل عثرات المُذنبين
-  </p>
-</blockquote>
+> يا مقيل عثرات المُذنبين
 
 24th day
 --------
@@ -905,29 +529,13 @@ and not disobey You,
 
 O One who is generous with those who ask.
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسئلك فيه ما يُرضيك
-  </p>
-</blockquote>
+> اللهم إني أسئلك فيه ما يُرضيك
 
-<blockquote dir="rtl">
-  <p>
-وأعوذ بك مما يؤذيك
-  </p>
-</blockquote>
+> وأعوذ بك مما يؤذيك
 
-<blockquote dir="rtl">
-  <p>
-واسئلك التوفيق فيه لأن أطيعك ولا اعصيك
-  </p>
-</blockquote>
+> واسئلك التوفيق فيه لأن أطيعك ولا اعصيك
 
-<blockquote dir="rtl">
-  <p>
-يا اجود السائلين
-  </p>
-</blockquote>
+> يا اجود السائلين
 
 25th day
 --------
@@ -942,29 +550,13 @@ following the way of Your last Prophet,
 
 O the Guardian of the hearts of the Prophets.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعلني فيه مُحباً لأوليائك
-  </p>
-</blockquote>
+> اللهم اجعلني فيه مُحباً لأوليائك
 
-<blockquote dir="rtl">
-  <p>
-ومُعادياً لأعدائك
-  </p>
-</blockquote>
+> ومُعادياً لأعدائك
 
-<blockquote dir="rtl">
-  <p>
-مُستناً بسُنة خاتم أنبيائك
-  </p>
-</blockquote>
+> مُستناً بسُنة خاتم أنبيائك
 
-<blockquote dir="rtl">
-  <p>
-يا عاصم قُلوب النبيين
-  </p>
-</blockquote>
+> يا عاصم قُلوب النبيين
 
 26th day
 --------
@@ -979,29 +571,13 @@ my flaws concealed,
 
 O the best of those who hear.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعل سعيي فيه مشكوراً
-  </p>
-</blockquote>
+> اللهم اجعل سعيي فيه مشكوراً
 
-<blockquote dir="rtl">
-  <p>
-وذنبي فيه مغفوراً
-  </p>
-</blockquote>
+> وذنبي فيه مغفوراً
 
-<blockquote dir="rtl">
-  <p>
-وعملي فيه مقبولا وعيبي فيه مستوراً
-  </p>
-</blockquote>
+> وعملي فيه مقبولا وعيبي فيه مستوراً
 
-<blockquote dir="rtl">
-  <p>
-يا اسمع السامعين
-  </p>
-</blockquote>
+> يا اسمع السامعين
 
 27th day
 --------
@@ -1018,29 +594,13 @@ and decrease for me [my] sins and burdens,
 
 O the Compassionate with His righteous servants.
 
-<blockquote dir="rtl">
-  <p>
-اللهم ارزقني فيه فضل ليلة القدر
-  </p>
-</blockquote>
+> اللهم ارزقني فيه فضل ليلة القدر
 
-<blockquote dir="rtl">
-  <p>
-وصيّر امور فيه من العُسر إلى اليُسر واقبل معاذيري
-  </p>
-</blockquote>
+> وصيّر امور فيه من العُسر إلى اليُسر واقبل معاذيري
 
-<blockquote dir="rtl">
-  <p>
-وحط عني الذنب والوزر
-  </p>
-</blockquote>
+> وحط عني الذنب والوزر
 
-<blockquote dir="rtl">
-  <p>
-يا رؤفا بعباده الصالحين
-  </p>
-</blockquote>
+> يا رؤفا بعباده الصالحين
 
 28th day
 --------
@@ -1055,29 +615,13 @@ make closer the means to approach You, from all the means,
 
 O One who is not preoccupied by the requests of the beseechers.
 
-<blockquote dir="rtl">
-  <p>
-اللهم وفِر حظي فيه من النوافل
-  </p>
-</blockquote>
+> اللهم وفِر حظي فيه من النوافل
 
-<blockquote dir="rtl">
-  <p>
-واكرمني فيه باحضار المسائل
-  </p>
-</blockquote>
+> واكرمني فيه باحضار المسائل
 
-<blockquote dir="rtl">
-  <p>
-وقرب فيه وسيلتي إليك من بين الوسائل
-  </p>
-</blockquote>
+> وقرب فيه وسيلتي إليك من بين الوسائل
 
-<blockquote dir="rtl">
-  <p>
-يا من لا يشغله الحاح المُلحين
-  </p>
-</blockquote>
+> يا من لا يشغله الحاح المُلحين
 
 29th day
 --------
@@ -1092,17 +636,9 @@ purify my heart from the darkness of false accusations,
 
 O the Merciful to His believing servants.
 
-<blockquote dir="rtl">
-  <p>
-اللهم غشني فيه بالرحمة وارزقني فيه التوفيق والعصمة
-  </p>
-</blockquote>
+> اللهم غشني فيه بالرحمة وارزقني فيه التوفيق والعصمة
 
-<blockquote dir="rtl">
-  <p>
-وطهر قلبي من غياهب التُهمة يا رحيماً بعباده المؤمنين
-  </p>
-</blockquote>
+> وطهر قلبي من غياهب التُهمة يا رحيماً بعباده المؤمنين
 
 30th day
 --------
@@ -1119,22 +655,9 @@ for the sake of our leader, Muhammad, and his purified family.
 
 Praise be to Allah, the Lord of the worlds.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعل صيامي فيه بالشكر والقبول
-  </p>
-</blockquote>
+> اللهم اجعل صيامي فيه بالشكر والقبول
 
-<blockquote dir="rtl">
-  <p>
-على ما ترضاه ويرضاه الرسول ، مُحكمة فروعه برصول
-  </p>
-</blockquote>
+> على ما ترضاه ويرضاه الرسول ، مُحكمة فروعه برصول
 
-<blockquote dir="rtl">
-  <p>
-بحق سيدنا محمد وأله الطاهرين والحمد لله رب العالمين
-  </p>
-</blockquote>
-
+> بحق سيدنا محمد وأله الطاهرين والحمد لله رب العالمين
 

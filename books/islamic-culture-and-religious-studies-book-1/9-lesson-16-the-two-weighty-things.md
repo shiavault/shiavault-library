@@ -120,7 +120,6 @@ A Holy Saying:
 my Ahlul-bayt, they shall never be separated from each other till they
 meet at the spring of Kauthar" The Holy Prophet of Islam (s.a.w.w.)
 
-
 **SOMETHING TO THINK ABOUT …**
 
 1. The final messenger, our Holy Prophet Muhammad (s.a.w.w.) soon after
@@ -151,7 +150,6 @@ behind a spiritual guide?
 5. "The Holy Qur'an and the Ahlulbayt shall never be separated from one
 another." Analyse this tradition. Do Muslims practice this hadith
 today?
-
 
 **Lesson 17 : Why Ali Ibn Abi Talib As Imam?**
 
@@ -375,5 +373,4 @@ Mukkalaf to learn and appreciate the laws of Islam.
 
 After that we will look at the basic rules regarding Wudhoo, Tayyamum,
 Ghusle- Jum'ah and Congregational prayers.
-
 

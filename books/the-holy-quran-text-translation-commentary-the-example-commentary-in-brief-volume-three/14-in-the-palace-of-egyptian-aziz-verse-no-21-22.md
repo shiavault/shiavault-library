@@ -528,4 +528,3 @@ camel, and then leave her alone, by putting your trust in Allah;'' but
 of surety, he would not say to the apostle, Danial; \`\`take a sword
 first and then enter the well of the lions.''
 
-

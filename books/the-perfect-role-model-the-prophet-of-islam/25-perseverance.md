@@ -149,4 +149,3 @@ betrayal of none can harm him."[^6]
 
 [^6]: Bihar al-Anwar, vol. 17, p. 343.
 
-

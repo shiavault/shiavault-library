@@ -143,4 +143,3 @@ Abul-Hadid, and you will find out what atrocities befell Ahl al-Bayt
 (as) and their Shi’ahs in those days. Imam al-Baqir (as) has made a
 statement in this regard to which we refer the researchers.
 
-

@@ -41,4 +41,3 @@ Ihram in the way that its effects remain until the time of Ihram has no
 problem, unless the pilgrim had intended for decoration for Ihram from
 the beginning.
 
-

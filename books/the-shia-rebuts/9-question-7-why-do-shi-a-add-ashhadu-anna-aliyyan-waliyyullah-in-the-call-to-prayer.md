@@ -18,13 +18,9 @@ is part of any of the two.
 *awliya’*, and the following verse explicitly points to his *wilayah*
 over the Muslims:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ ﴾
 
 ***“Your guardian is only Allah, His Apostle, and the faithful who
 maintain the prayer and give the zakat while bowing down.”***[^1]
@@ -35,29 +31,13 @@ doing *ruku‘* {bowing down in prayer}, gave his ring to a poor
 person.[^2] When this verse which refers to ‘Ali (*‘a*) was revealed,
 Hassan ibn Thabit versified this event in the following poem:
 
-<blockquote dir="rtl">
-  <p>
-فأنت الذي أعطيت إذ أنت راكع
-  </p>
-</blockquote>
+> فأنت الذي أعطيت إذ أنت راكع
 
-<blockquote dir="rtl">
-  <p>
-فدتك نفوس القوم يا خير راكع
-  </p>
-</blockquote>
+> فدتك نفوس القوم يا خير راكع
 
-<blockquote dir="rtl">
-  <p>
-فأنزل فيك الله خير ولاية
-  </p>
-</blockquote>
+> فأنزل فيك الله خير ولاية
 
-<blockquote dir="rtl">
-  <p>
-وبينهما في مُحكمات الشرائع
-  </p>
-</blockquote>
+> وبينهما في مُحكمات الشرائع
 
 *You are the one who donated, while doing ruku‘. May the souls of the
 folk be sacrificed to you, O the best of those who bow down!*  
@@ -66,11 +46,7 @@ through the decrees of the Shari‘ah.*
 
 3. The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إنما الأعمال بالنّيات.
-  </p>
-</blockquote>
+> إنما الأعمال بالنّيات.
 
 “Verily, actions are (judged) by intention.”
 
@@ -85,11 +61,7 @@ cases be justified?
 
 1. Authentic historical references confirm that the following phrase:
 
-<blockquote dir="rtl">
-  <p>
-حيّ على خير العمل
-  </p>
-</blockquote>
+> حيّ على خير العمل
 
 *Hayya ‘ala khayr al-‘amal*
 
@@ -103,11 +75,7 @@ such.[^4]
 
 2. The sentence,
 
-<blockquote dir="rtl">
-  <p>
-الصلوة خير من النوم
-  </p>
-</blockquote>
+> الصلوة خير من النوم
 
 *As-salatu khayrun mina ’n-nawm*
 
@@ -117,11 +85,7 @@ was not part of the *adhan* during the time of the Holy Prophet (S) but
 has been included therein later on,[^5] and as such, in the book,
 *Al-Umm*, Imam ash-Shafi‘i says:
 
-<blockquote dir="rtl">
-  <p>
-"أكره في الأذان الصلوة خير من النوم لأن أبا محذورة لم يذكره."
-  </p>
-</blockquote>
+> "أكره في الأذان الصلوة خير من النوم لأن أبا محذورة لم يذكره."
 
 It is not pleasing for me that we say in the *adhan*: ‘*as-salatu
 khayrun mina ’n-nawm*’ because Abu Mahdhurah (one of the narrators and
@@ -150,5 +114,4 @@ mut‘ah an-nisa’i wa mut‘ah al-hajj wa hayya ‘ala khayr al-‘amal”.
 [^5]: Kanz al-‘Ummal, “kitab as-salah,” vol. 4, p. 270.
 
 [^6]: Quoted in Dala’il as-Sidq, vol. 3, “al-qism ath-thani,” p. 97.
-
 

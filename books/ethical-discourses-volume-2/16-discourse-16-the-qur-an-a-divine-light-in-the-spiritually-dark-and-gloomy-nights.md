@@ -1,21 +1,17 @@
 Discourse 16: The Qur’an: A Divine Light In The (Spiritually) Dark And Gloomy Nights]
 =====================================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي سَعِيدِ الْخُدْرِيِّ قَالَ: خَطَبَـنَا رَسُولُ اللٌّهِ
- قَالَ فِي خُطْـبَتِهِ: أَيُّهَا النَّاسُ، إِنَّكُمْ فِي زَمَانِ
-هُدْنَةِ، وَ إِنَّ السَّيْرَ بِكُمْ سَرِيعٌ، وَ قَدْ رَأَيْتُمُ
-اللَّيْلَ وَ النَّهَارَ كَيْفَ يُـبْلِيَانِ كُلَّ جَدِيدٍ، وَ
-يُقَرِّبَانِ كُلَّ بَعِيدٍ، وَ يَأْتِـيَانِ بِكُلِّ مَوْعُودٍ. فَقَالَ
-لَهُ الْمِقْدادُ: يا نَبِيَّ اللٌّهِ، وَ مَا الْهُدْنَةُ؟ فَقال: دَارُ
-بَلاَءِ وَ انْـقِطَاعِ، فَإِذَا الْـتَبَسَتْ عَلَيْكُمُ الأُمُورُ
-كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، فَعَلَيْكُمْ بِالْقُرْآنِ، فَإِنَّهُ
-شَافِعٌ مُشَفَّعُ، وَ صَادِقٌ مُصَدَّقٌ، وَ مَنْ جَعَلَهُ أَمَامَهُ
-قَادَهُ اِلــى الْجَنَّةِ، وَ مَنْ جَعَلَهُ خَلْفَهُ سَاقَهُ إِلـى
-النَّارِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي سَعِيدِ الْخُدْرِيِّ قَالَ: خَطَبَـنَا رَسُولُ اللٌّهِ
+>  قَالَ فِي خُطْـبَتِهِ: أَيُّهَا النَّاسُ، إِنَّكُمْ فِي زَمَانِ
+> هُدْنَةِ، وَ إِنَّ السَّيْرَ بِكُمْ سَرِيعٌ، وَ قَدْ رَأَيْتُمُ
+> اللَّيْلَ وَ النَّهَارَ كَيْفَ يُـبْلِيَانِ كُلَّ جَدِيدٍ، وَ
+> يُقَرِّبَانِ كُلَّ بَعِيدٍ، وَ يَأْتِـيَانِ بِكُلِّ مَوْعُودٍ. فَقَالَ
+> لَهُ الْمِقْدادُ: يا نَبِيَّ اللٌّهِ، وَ مَا الْهُدْنَةُ؟ فَقال: دَارُ
+> بَلاَءِ وَ انْـقِطَاعِ، فَإِذَا الْـتَبَسَتْ عَلَيْكُمُ الأُمُورُ
+> كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، فَعَلَيْكُمْ بِالْقُرْآنِ، فَإِنَّهُ
+> شَافِعٌ مُشَفَّعُ، وَ صَادِقٌ مُصَدَّقٌ، وَ مَنْ جَعَلَهُ أَمَامَهُ
+> قَادَهُ اِلــى الْجَنَّةِ، وَ مَنْ جَعَلَهُ خَلْفَهُ سَاقَهُ إِلـى
+> النَّارِ.
 
 It has been narrated from Abu Sa’id al-Khudri that he said, “The
 Messenger of Allah (S) spoke to us and said, 'O' People! You are in a
@@ -48,11 +44,7 @@ It is amazing to see that we are living in a time in which there is no
 peace or tranquility - everything is being overturned and changed at a
 fast pace. In the words of the late ‘Allamah Iqbal:
 
-<blockquote dir="rtl">
-  <p>
-ما زنده به آنيم كه آرام نگيريم    موجيم كه آسودگى ما عدم ماست
-  </p>
-</blockquote>
+> ما زنده به آنيم كه آرام نگيريم    موجيم كه آسودگى ما عدم ماست
 
 The upsurges of water are in constant motion (on the ocean), however if
 they were to be stable and calm, then it would cease to be called a
@@ -77,12 +69,8 @@ After this, the Prophet (S) then issued the following statement which
 has been mentioned in various books of tradition as an independent
 saying:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا الْـتَبَسَتْ عَلَيْكُمُ الأُمُورُ كَقِطَعِ اللَّيْلِ
-الْمُظْلِمِ فَعَلَيْكُمْ بِالْقُرْآنِ…
-  </p>
-</blockquote>
+> فَإِذَا الْـتَبَسَتْ عَلَيْكُمُ الأُمُورُ كَقِطَعِ اللَّيْلِ
+> الْمُظْلِمِ فَعَلَيْكُمْ بِالْقُرْآنِ…
 
 In this tradition, the Prophet (S) advises us that, “If events come upon
 you which resemble the darkness of the night (events which are full of
@@ -112,11 +100,7 @@ stick to the verses of the Qur\`an which suit their purpose and leave
 aside all other verses of the Qur\`an. Through this, they have actually
 become a living example of the verse that states:
 
-<blockquote dir="rtl">
-  <p>
-نُؤْمِنُ بِبَعْضٍ وَ نَكْفُرُ بِبَعْضٍ
-  </p>
-</blockquote>
+> نُؤْمِنُ بِبَعْضٍ وَ نَكْفُرُ بِبَعْضٍ
 
 “We believe in part of it and disbelieve in part of it.”[^3]
 
@@ -136,13 +120,9 @@ These types of people take the guidance of the Qur\`an when they need to
 solve any difficulty and are a living example of the verse of the
 Qur\`an that reads:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ وَ رَبَّكَ لاَ يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُوا فِي أَنْـفُسِهِمْ حَرَجاً مِمَّا
-قَضَيْتَ وَ يُسَلِّمُوا تَسْلِيماً
-  </p>
-</blockquote>
+> فَلاَ وَ رَبَّكَ لاَ يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُوا فِي أَنْـفُسِهِمْ حَرَجاً مِمَّا
+> قَضَيْتَ وَ يُسَلِّمُوا تَسْلِيماً
 
 “But no by your Lord! In actuality, they do not believe until they make
 you a judge of that which has become a matter of disagreement among
@@ -151,11 +131,7 @@ have decided and submit (to you) with entire submission.”[^4]
 
 We have all heard the saying record in Nahj al-Balagha which states:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِِسْلاَمُ هُوَ التَّسْلِيمُ.
-  </p>
-</blockquote>
+> أَلإِِسْلاَمُ هُوَ التَّسْلِيمُ.
 
 “Islam is Taslim (complete submission).”[^5]
 
@@ -175,11 +151,7 @@ rhetoric and expression (of the ‘Arabic language)…
 
 Without doubt, we all believe and accept that:    
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ رَطْبٍ وَ لاَ يَابِسٍ إِلاَّ فِي كِتَابٍ مُبُينٍ
-  </p>
-</blockquote>
+> وَ لاَ رَطْبٍ وَ لاَ يَابِسٍ إِلاَّ فِي كِتَابٍ مُبُينٍ
 
 “There is nothing wet or dry except that it is recorded in the manifest
 book.”[^6]
@@ -273,5 +245,4 @@ with evil and good…” (Tafsir-e-Namuna, vol. 1, pg. 526)
 [^5]: Nahj al-Balagha, Short saying 120
 
 [^6]: Surat al-Anam (6), verse 59
-
 

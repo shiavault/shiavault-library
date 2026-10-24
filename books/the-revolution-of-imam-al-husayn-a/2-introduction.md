@@ -1060,4 +1060,3 @@ Muhibb al-Din al-Khatib (1371) 232.
 
 [^22]: Al-Sayyid Muhsin al-Amin, Iqna’ al-La’im, op.cit., 211.
 
-

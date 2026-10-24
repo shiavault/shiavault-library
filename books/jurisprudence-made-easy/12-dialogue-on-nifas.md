@@ -71,4 +71,3 @@ and Medina - albeit by way of passing through them, entering and staying
 in other mosques and leaving anything inside.  You may refer to the
 Dialogue on Haydh.
 
-

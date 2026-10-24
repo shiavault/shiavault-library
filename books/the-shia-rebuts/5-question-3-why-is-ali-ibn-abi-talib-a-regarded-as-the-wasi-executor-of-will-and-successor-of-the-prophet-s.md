@@ -22,21 +22,13 @@ When the Prophet (S) received from God the commission to invite his
 relatives to the doctrine of monotheism as it is confirmed by the the
 verse,
 
-<blockquote dir="rtl">
-  <p>
-وأنذ عشيرتك الأقربين.
-  </p>
-</blockquote>
+> وأنذ عشيرتك الأقربين.
 
 ***“Warn the nearest of your kinsfolk,”***[^1]
 
 he addressed them by saying:
 
-<blockquote dir="rtl">
-  <p>
-فأيكم يوازرني في هذا الأم على أن يكون أخي ووزيري وخليفتي ووصيّي فيكم؟
-  </p>
-</blockquote>
+> فأيكم يوازرني في هذا الأم على أن يكون أخي ووزيري وخليفتي ووصيّي فيكم؟
 
 “Which of you will assist me in this affair so that he would my brother
 {*akhi*}, minister {*waziri*}, successor {*khalifati*}, and the executor
@@ -46,11 +38,7 @@ The only person who gave a positive response to this heavenly call was
 ‘Ali ibn Abi Talib (*‘a*). Then, facing his relatives, the Messenger of
 Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-"إن هذا أخي ووصيّي خليفتي فيكم فاسمعوا له وأطيعوه."
-  </p>
-</blockquote>
+> "إن هذا أخي ووصيّي خليفتي فيكم فاسمعوا له وأطيعوه."
 
 “Verily, he (‘Ali) is my brother, the executor of my will and my
 successor among you. So, listen to him and obey him.”[^2]
@@ -60,11 +48,7 @@ successor among you. So, listen to him and obey him.”[^2]
 
 The Prophet (S) said to ‘Ali (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-أما ترضى أن تكون منّي بمنزلة هارون من موسى إلا أنه لا نبيّ بعدي؟
-  </p>
-</blockquote>
+> أما ترضى أن تكون منّي بمنزلة هارون من موسى إلا أنه لا نبيّ بعدي؟
 
 “Are you not satisfied that you are to me as Harun (Aaron) is to Musa
 (Moses) except that there will be no prophet after me?”[^3]
@@ -80,11 +64,7 @@ place called Ghadir Khumm the Messenger of Allah (S) introduced ‘Ali
 (*‘a*) before a mammoth assembly (of pilgrims) as the *wali* {guardian}
 of the believers, male or female, saying:
 
-<blockquote dir="rtl">
-  <p>
-"من كُنت مولاه فهذا عليّ مولاه."
-  </p>
-</blockquote>
+> "من كُنت مولاه فهذا عليّ مولاه."
 
 “Of whosoever I am master {*mawla*}, then ‘Ali is also his master
 {*mawla*}.”
@@ -92,11 +72,7 @@ of the believers, male or female, saying:
 The important and noteworthy point is that at the beginning of his
 speech, the Prophet (S) asked:
 
-<blockquote dir="rtl">
-  <p>
-ألست أولى بكم من أنفسكم؟
-  </p>
-</blockquote>
+> ألست أولى بكم من أنفسكم؟
 
 “Have I more authority over you than you have over yourselves?”
 
@@ -107,15 +83,11 @@ conclude that the Prophet (S) had established ‘Ali (*‘a*) in the same
 position which he had. And on that very day Hassan ibn Thabit versified
 the historic event of Ghadir as follows:
 
-<blockquote dir="rtl">
-  <p>
-يناديهم يوم الغدير نبيّهم بخمّ واسمع بالرّسول مناديا فقال: فمن مولاكم
-ونبيّكم؟ فقالوا: ولم يدلوا أهناك التعاميا إلهك ومولانا أنت نبيّن ولم
-تلق منا في الولاية عاصيا فقال له: قم يا عليّ فإنني رضيتك من بعدي
-إماماً وهادياً فمن كنت مولاه فهذا ولّيه فكونوا له اتباع صدق مواليا
-هناك دعا: اللهم وال وليّه وكن للذي عادى عليّا معاديا.
-  </p>
-</blockquote>
+> يناديهم يوم الغدير نبيّهم بخمّ واسمع بالرّسول مناديا فقال: فمن مولاكم
+> ونبيّكم؟ فقالوا: ولم يدلوا أهناك التعاميا إلهك ومولانا أنت نبيّن ولم
+> تلق منا في الولاية عاصيا فقال له: قم يا عليّ فإنني رضيتك من بعدي
+> إماماً وهادياً فمن كنت مولاه فهذا ولّيه فكونوا له اتباع صدق مواليا
+> هناك دعا: اللهم وال وليّه وكن للذي عادى عليّا معاديا.
 
 *Their Prophet calls on them on the day of Ghadir Khumm; now, listen to
 the call of the Prophet:*  
@@ -165,5 +137,4 @@ successive reliable narrators. {Trans.}
 
 [^6]: See, for example, Ibn Hajar, As-Sawa’iq al-Muhriqah (Egypt, 2nd
 Edition), Book 9, Chapter 2, p. 122.
-
 

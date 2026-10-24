@@ -61,4 +61,3 @@ ultimate goal of the acknowledgement of God and knowledge.[^4]
 
 [^4]: Ibid.
 
-

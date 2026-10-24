@@ -113,7 +113,6 @@ nicely with your parents so that your children may also be good to you.
 Quranic verses and traditions explicitly to the truth of our stand. Some
 of them have also been mentioned in our another book Maad.
 
-
 **Lesson: 57 : Duties of parents toward children**
 
 Children are the trust from Allah given to parents so that they may be
@@ -262,7 +261,6 @@ narrations prove that in the school of thought of the Holy Imams Faith
 is fundamental is and deeds according to it. All things must be weighted
 in this balance.
 
-
 **Lesson: 58 : Family relationship Blood relations**
 
 In the Islamic plan of actions emphatic orders have been given
@@ -343,7 +341,6 @@ the maintenance of all these connections.
 
 There is, it seems, nothing more now here to explain this intention.
 
-
 **Lesson: 59 : Behaviour with neighbours and their rights**
 
 Islam has made much recommendation in this matter
@@ -418,7 +415,6 @@ Jew make a nice kind of sitting. And perhaps it can be said: The wording
 is common which makes no difference between big and small. Environment.
 Wherever and whenever it is called neighbour it applies in these
 traditions. It is difficult to believe that it is obligatory.
-
 
 **Lesson: 60 : Rights of family members and Islamic Behaviour in
 marital life**
@@ -542,7 +538,6 @@ helpless and whose family life is very disturbed and who have turned
 their world into a hell… At the end of this discussion let all of us try
 our best to observe our Islamic and human rights.
 
-
 **Lesson: 61 : Rights and collusion between government and the
 people**
 
@@ -558,7 +553,6 @@ allegiance Bait to me and not ignore well-wishing for me both openly and
 secretly, to respond to my call whenever I call you and to obey me when
 I order you. It is written in Ali's (a.s.) letter to the chiefs of
 staff:
-
 
 **Lesson: 62 : Islamic brotherhood: The basis and foundation of human
 unity**
@@ -734,7 +728,6 @@ peace that is made by encroaching the rights of either of the parties is
 not only temporary but it also results in a feeling of dislike for
 Islam.
 
-
 **Lesson: 63 : Permanent peace**
 
 A peace or treaty based on justice and fair play is one of the moral
@@ -803,7 +796,6 @@ Imam Sadiq (a.s.) says to Mufaddal: When you see scuffle between our
 friends, use my money to make peace between them. Imam Sadiq (a.s.) also
 said: A peacemaker is not a liar even if he for making peace between two
 parties speaks against the facts.
-
 
 **Lesson: 64 : Islam and racial supremacy**
 
@@ -892,7 +884,6 @@ most careful of his duty; surely Allah is Knowing, Aware.
 By the way, Islam has not only disregarded the imaginary and material
 superiorities but has explicitly rejected them.
 
-
 **Lesson: 65 : Backbiting prohibited**
 
 One of the sins which corrupts the society and which creates a state of
@@ -970,7 +961,6 @@ to the tongue but it also involves signals and gestures. Similarly, just
 as backbiting is Haraam, so is also sitting in a meeting where
 backbiting is being done.
 
-
 **Reasons of backbiting**
 
 1. Jealousy makes one point out the weak points of others whereby one
@@ -1039,7 +1029,6 @@ as for those who love that scandal should circulate respecting those who
 believe, they shall have a grievous chastisement in this world and the
 Hereafter.
 
-
 **Lesson: 66 : The calamity called spying**
 
 One of the mean habits is peeping into the private lives of people. In
@@ -1079,7 +1068,6 @@ he has received from one even to one person. All these acts are sinful
 and some of them are, greater tan the great sins. The one who commits it
 is a criminal and deserves to be punished according to Shariat.
 
-
 **Lesson: 67 : The crime of defamation or slander**
 
 Making false allegation against an innocent person is on of the meanest
@@ -1094,7 +1082,6 @@ calumny and a manifest sin.
 2. And those who speak evil things of the believing men and the
 believing women without their having earned it, they are guilty indeed
 of a false accusation and a manifest sin.
-
 
 Traditions
 
@@ -1123,7 +1110,6 @@ It must also be kept in mind that the spread of this cowardly misdeed
 in a society becomes the cause of the dislocation of social justice and
 indulgence in falsity and entanglement of the innocent and the freeing
 of the criminal and the loss of collective trust.
-
 
 **Lesson: 68 : What is the spreading of indecency?**
 
@@ -1198,7 +1184,6 @@ character of people so severely that they introduce even the most honest
 man as the most dishonest. For example, during the last hundred years,
 just look what they had done with great men like Ayatollah Sheikh
 Fazlullah Noori and Ayatollah Kaashaani and Shaheed Behishti and…
-
 
 **Conclusion**
 
@@ -1275,5 +1260,4 @@ blind in the hereafter; and more erring from the way.
 At the end we hope that the Lord Almighty will, by His Grace, will
 guide us to perfect manliness and will not disgrace us tomorrow on the
 Day of final Judgement.
-
 

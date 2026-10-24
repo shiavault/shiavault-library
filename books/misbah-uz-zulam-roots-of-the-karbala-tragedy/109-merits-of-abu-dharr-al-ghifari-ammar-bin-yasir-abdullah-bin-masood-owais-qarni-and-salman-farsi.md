@@ -67,4 +67,3 @@ ways due to the corruption of the Caliph.
 
 [^6]: Vol. 2, Pg. 292.
 
-

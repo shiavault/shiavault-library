@@ -112,4 +112,3 @@ teachings is reflected, albeit imperfectly, upon many of the pages which
 follow. We also wish to thank Miss Kathleen O'Brien who aided us in many
 ways in preparing the manuscript for publication.
 
-

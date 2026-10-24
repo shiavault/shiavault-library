@@ -43,4 +43,3 @@ Questions
 3. Why did Imam al-Sadiq (a) not allow his disciple to work for him on
 the farm?
 
-

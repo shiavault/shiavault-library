@@ -4,15 +4,11 @@ Section 7
 Surah An-Nisa', Verse 36
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدُواْ اللّهَ وَلاَ تُشْرِكُواْ بِهِ شَيْئًا وَبِالْوَالِدَيْنِ
-إِحْسَانًا وَبِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَالْجَارِ
-ذِي الْقُرْبَى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالجَنبِ وَابْنِ
-السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ إِنَّ اللّهَ لاَ يُحِبُّ مَن
-كَانَ مُخْتَالاً فَخُورًا
-  </p>
-</blockquote>
+> وَاعْبُدُواْ اللّهَ وَلاَ تُشْرِكُواْ بِهِ شَيْئًا وَبِالْوَالِدَيْنِ
+> إِحْسَانًا وَبِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَالْجَارِ
+> ذِي الْقُرْبَى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالجَنبِ وَابْنِ
+> السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ إِنَّ اللّهَ لاَ يُحِبُّ مَن
+> كَانَ مُخْتَالاً فَخُورًا
 
 **36.** ***"And worship Allah and do not associate anything with Him,
 and do good to the parents, and to the kindred, and the orphans and the
@@ -131,13 +127,9 @@ At the end, the verse warns us, saying:
 Surah An-Nisa', Verse 37
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ
-مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا
-مُّهِينًا
-  </p>
-</blockquote>
+> الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ
+> مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا
+> مُّهِينًا
 
 **37.** ***"Those who are niggardly and enjoin people to niggardliness
 and hide what Allah has given them out of His grace; and We have
@@ -176,13 +168,9 @@ So, when it says that their punishment is ***"a humiliating chastisement
 Surah An-Nisa', Verse 38
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ رِئَـاء النَّاسِ وَلاَ
-يُؤْمِنُونَ بِاللّهِ وَلاَ بِالْيَوْمِ الآخِرِ وَمَن يَكُنِ
-الشَّيْطَانُ لَهُ قَرِينًا فَسَاء قِرِينًا
-  </p>
-</blockquote>
+> وَالَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ رِئَـاء النَّاسِ وَلاَ
+> يُؤْمِنُونَ بِاللّهِ وَلاَ بِالْيَوْمِ الآخِرِ وَمَن يَكُنِ
+> الشَّيْطَانُ لَهُ قَرِينًا فَسَاء قِرِينًا
 
 **38.** ***"And (the arrogant ones are) those who spend their wealth to
 be seen by people and neither believe in Allah nor in the Last Day; and
@@ -217,12 +205,8 @@ charity is also the spiritual growth of the giver of charity.
 Surah An-Nisa', Verse 39
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَاذَا عَلَيْهِمْ لَوْ آمَنُواْ بِاللّهِ وَالْيَوْمِ الآخِرِ
-وَأَنفَقُواْ مِمَّا رَزَقَهُمُ اللّهُ وَكَانَ اللّهُ بِهِم عَلِيمًا
-  </p>
-</blockquote>
+> وَمَاذَا عَلَيْهِمْ لَوْ آمَنُواْ بِاللّهِ وَالْيَوْمِ الآخِرِ
+> وَأَنفَقُواْ مِمَّا رَزَقَهُمُ اللّهُ وَكَانَ اللّهُ بِهِم عَلِيمًا
 
 **39.** ***"And what (harm) would it have done them if they had believed
 in Allah and the Last Day, and spent in charity of what Allah had
@@ -249,12 +233,8 @@ give them an appropriate reward and retribution accordingly.
 Surah An-Nisa', Verse 40
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً
-يُضَاعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً
+> يُضَاعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا
 
 **40.** ***"Verily Allah does not do injustice even of the weight of an
 atom, and if there he a good deed He multiplies it and gives from
@@ -292,12 +272,8 @@ reward is manifold: (ten-fold, hundred-fold, or more).
 Surah An-Nisa', Verse 41
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى
-هَـؤُلاء شَهِيدًا
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى
+> هَـؤُلاء شَهِيدًا
 
 **41.** ***"How will it be, then, when We bring from every people a
 witness and We bring you a witness over those (witnesses)?"***
@@ -369,12 +345,8 @@ the Messenger of Allah is a witness over us"* [^11]
 Surah An-Nisa', Verse 42
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُواْ وَعَصَوُاْ الرَّسُولَ لَوْ
-تُسَوَّى بِهِمُ الأَرْضُ وَلاَ يَكْتُمُونَ اللّهَ حَدِيثًا
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُواْ وَعَصَوُاْ الرَّسُولَ لَوْ
+> تُسَوَّى بِهِمُ الأَرْضُ وَلاَ يَكْتُمُونَ اللّهَ حَدِيثًا
 
 **42.** ***"On that Day will those who disbelieve and disobey the
 Messenger wish that the earth were levelled with them, and they will not
@@ -420,17 +392,13 @@ phrases like that.
 Surah An-Nisa', Verse 43
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ وَلاَ جُنُبًا إِلاَّ
-عَابِرِي سَبِيلٍ حَتَّىَ تَغْتَسِلُواْ وَإِن كُنتُم مَّرْضَى أَوْ
-عَلَى سَفَرٍ أَوْ جَاء أَحَدٌ مِّنكُم مِّن الْغَآئِطِ أَوْ لاَمَسْتُمُ
-النِّسَاء فَلَمْ تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيدًا طَيِّبًا
-فَامْسَحُواْ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ اللّهَ كَانَ عَفُوًّا
-غَفُورًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ وَلاَ جُنُبًا إِلاَّ
+> عَابِرِي سَبِيلٍ حَتَّىَ تَغْتَسِلُواْ وَإِن كُنتُم مَّرْضَى أَوْ
+> عَلَى سَفَرٍ أَوْ جَاء أَحَدٌ مِّنكُم مِّن الْغَآئِطِ أَوْ لاَمَسْتُمُ
+> النِّسَاء فَلَمْ تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيدًا طَيِّبًا
+> فَامْسَحُواْ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ اللّهَ كَانَ عَفُوًّا
+> غَفُورًا
 
 **43.** ***"O' you who have Faith! do not approach prayer when you are
 intoxicated, until you know what you say, nor when you are polluted -
@@ -508,12 +476,8 @@ ordinance is a kind of facilitation and discount for you, since:
 Surah An-Nisa', Verse 44
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُواْ نَصِيبًا مِّنَ الْكِتَابِ
-يَشْتَرُونَ الضَّلاَلَةَ وَيُرِيدُونَ أَن تَضِلُّواْ السَّبِيلَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُواْ نَصِيبًا مِّنَ الْكِتَابِ
+> يَشْتَرُونَ الضَّلاَلَةَ وَيُرِيدُونَ أَن تَضِلُّواْ السَّبِيلَ
 
 **44.** ***"Have you not seen those who were given a portion of the
 Book? They buy error and desire that you should also go astray from the
@@ -538,12 +502,8 @@ glasses of hypocrisy, jealousy, and materiality.
 Surah An-Nisa', Verse 45
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللّهُ أَعْلَمُ بِأَعْدَائِكُمْ وَكَفَى بِاللّهِ وَلِيًّا وَكَفَى
-بِاللّهِ نَصِيرًا
-  </p>
-</blockquote>
+> وَاللّهُ أَعْلَمُ بِأَعْدَائِكُمْ وَكَفَى بِاللّهِ وَلِيًّا وَكَفَى
+> بِاللّهِ نَصِيرًا
 
 **45.** ***"And Allah knows well your enemies; and Allah is sufficient
 as a Guardian, and Allah is sufficient as a Helper."***
@@ -568,16 +528,12 @@ a Helper."***
 Surah An-Nisa', Verse 46
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مِّنَ الَّذِينَ هَادُواْ يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
-وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ
-وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ وَلَوْ
-أَنَّهُمْ قَالُواْ سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانظُرْنَا لَكَانَ
-خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَكِن لَّعَنَهُمُ اللّهُ بِكُفْرِهِمْ
-فَلاَ يُؤْمِنُونَ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> مِّنَ الَّذِينَ هَادُواْ يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
+> وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ
+> وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ وَلَوْ
+> أَنَّهُمْ قَالُواْ سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانظُرْنَا لَكَانَ
+> خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَكِن لَّعَنَهُمُ اللّهُ بِكُفْرِهِمْ
+> فَلاَ يُؤْمِنُونَ إِلاَّ قَلِيلاً
 
 **46.** ***"Some of those who are Jews change the words from their
 places and say: "We heard and disobeyed", and (impolitely tell the
@@ -618,14 +574,10 @@ disbelief, so they do not believe; save a few."***
 Surah An-Nisa', Verse 47
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ أُوتُواْ الْكِتَابَ آمِنُواْ بِمَا نَزَّلْنَا
-مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا
-فَنَرُدَّهَا عَلَى أَدْبَارِهَا أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّا
-أَصْحَابَ السَّبْتِ وَكَانَ أَمْرُ اللّهِ مَفْعُولاً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ أُوتُواْ الْكِتَابَ آمِنُواْ بِمَا نَزَّلْنَا
+> مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا
+> فَنَرُدَّهَا عَلَى أَدْبَارِهَا أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّا
+> أَصْحَابَ السَّبْتِ وَكَانَ أَمْرُ اللّهِ مَفْعُولاً
 
 **47.** ***"O' you who have been given the Scripture! believe in what We
 have revealed, confirming that which is ( already) with you, before We
@@ -693,13 +645,9 @@ history of the world, is an *Allah's* way of treatment.
 Surah An-Nisa', Verse 48
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَلِكَ لِمَن يَشَاء وَمَن يُشْرِكْ بِاللّهِ فَقَدِ افْتَرَى إِثْمًا
-عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَلِكَ لِمَن يَشَاء وَمَن يُشْرِكْ بِاللّهِ فَقَدِ افْتَرَى إِثْمًا
+> عَظِيمًا
 
 **48.** ***"Verily Allah does not forgive that anything should be
 associated with Him, and forgives what is besides that to whom He
@@ -745,12 +693,8 @@ Divine forgiveness.
 Surah An-Nisa', Verse 49
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنفُسَهُمْ بَلِ اللّهُ
-يُزَكِّي مَن يَشَاء وَلاَ يُظْلَمُونَ فَتِيلاً
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنفُسَهُمْ بَلِ اللّهُ
+> يُزَكِّي مَن يَشَاء وَلاَ يُظْلَمُونَ فَتِيلاً
 
 **49.** ***"Have you not seen those who consider themselves pure? Nay!
 Allah purifies whom He pleases, and they shall not be wronged even the
@@ -781,12 +725,8 @@ a date-stone."***
 Surah An-Nisa', Verse 50
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-انظُرْ كَيفَ يَفْتَرُونَ عَلَى اللّهِ الكَذِبَ وَكَفَى بِهِ إِثْمًا
-مُّبِينًا
-  </p>
-</blockquote>
+> انظُرْ كَيفَ يَفْتَرُونَ عَلَى اللّهِ الكَذِبَ وَكَفَى بِهِ إِثْمًا
+> مُّبِينًا
 
 **50.** ***"See how they forge a lie against Allah! And it is sufficient
 as a manifest sin."***
@@ -833,5 +773,4 @@ Tafsir-ul-'Amthal, vol. 3, p. 204
 [^11]: Nur-uth-Thaqalayn, vol. 1, p. 399
 
 [^12]: Surah Al-'An'am, No.6, verse 23
-
 

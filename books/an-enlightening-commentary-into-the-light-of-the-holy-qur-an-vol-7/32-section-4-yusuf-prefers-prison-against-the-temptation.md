@@ -4,13 +4,9 @@ Section 4: Yusuf Prefers Prison Against the Temptation
 Surah Yusuf - Verse 30
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ
-فَتَاهَا عَن نَّفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَاهَا فِي
-ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ
+> فَتَاهَا عَن نَّفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَاهَا فِي
+> ضَلَالٍ مُّبِينٍ
 
 ***30. “And some women in the city said: ‘The wife of the ‘Aziz has
 sought to seduce her slave from his (pure) self; he has affected her
@@ -54,15 +50,11 @@ manifest error.
 Surah Yusuf – Verse 31
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ
-لَهُنَّ مُتَّكَأً وَءَاتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكّيناً
-وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ
-وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَذَا بَشَراً
-إِنْ هَذَآ إِلاَّ مَلَكٌ كَرِيمٌ
-  </p>
-</blockquote>
+> فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ
+> لَهُنَّ مُتَّكَأً وَءَاتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكّيناً
+> وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ
+> وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَذَا بَشَراً
+> إِنْ هَذَآ إِلاَّ مَلَكٌ كَرِيمٌ
 
 ***31. “So when she heard about their malicious talk, she sent for them
 and prepared a repast for them. Then she gave each one of them a knife,
@@ -133,13 +125,9 @@ them.
 Surah Yusuf – Verse 32
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ فَذَلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ وَلَقَدْ رَاوَدتُّهُ
-عَن نَّفْسِهِ فَاسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلَ مَآ ءَامُرُهُ
-لَيُسْجَنَنَّ وَلَيَكُوناً مِنَ الصَّاغِرِينَ
-  </p>
-</blockquote>
+> قَالَتْ فَذَلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ وَلَقَدْ رَاوَدتُّهُ
+> عَن نَّفْسِهِ فَاسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلَ مَآ ءَامُرُهُ
+> لَيُسْجَنَنَّ وَلَيَكُوناً مِنَ الصَّاغِرِينَ
 
 ***32. “She said: ‘This is before you he about whom you did blame me!
 And indeed I sought to seduce him from his (pure) self, but he proved
@@ -211,13 +199,9 @@ other and he did not distance between his wife and Yusuf.)
 Surah Yusuf – Verse 33
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
-وَإِلاَّ تَصْرِفْ عَنّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَ وَأَكُن مِنَ
-الْجَاهِلِينَ
-  </p>
-</blockquote>
+> قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
+> وَإِلاَّ تَصْرِفْ عَنّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَ وَأَكُن مِنَ
+> الْجَاهِلِينَ
 
 ***33. “He said: ‘My Lord! The prison is dearer to me than that to which
 they invite me; and if You turn not their guile from me, I may incline
@@ -435,12 +419,8 @@ promises.”*[^9]
 Surah Yusuf – Verse 34
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ
-السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ
+> السَّمِيعُ الْعَلِيمُ
 
 ***34. “So his Lord answered him and He turned away from him their
 guile; verily He is the All Hearing, the All Knowing.”***
@@ -478,12 +458,8 @@ send him to prison.
 Surah Yusuf – Verse 35
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ بَدَا لَهُمْ مِن بَعْدِ مَا رَأَوُاْ الاَيَاتِ لَيَسْجُنُنَّهُ
-حَتَّي حِينٍ
-  </p>
-</blockquote>
+> ثُمَّ بَدَا لَهُمْ مِن بَعْدِ مَا رَأَوُاْ الاَيَاتِ لَيَسْجُنُنَّهُ
+> حَتَّي حِينٍ
 
 ***35. “Then it seemed to them, after they had seen the signs (of his
 innocence), to imprison him till a time.”***
@@ -551,5 +527,4 @@ and sent to prison.
 [^9]: Ghurar ul-Hikam, vol. 2, p. 505
 
 [^10]: Bihar-ul-’Anwar, vol. 100, p. 175
-
 

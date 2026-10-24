@@ -198,21 +198,13 @@ Caliph which is mentioned in the Quran is not the Caliph of the Prophet
 but is Caliph of Allah, as such, Adam is a Caliph and David is a Caliph.
 When we read in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-.. لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً..
-  </p>
-</blockquote>
+> .. لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً..
 
 ***Lo! I am about to place a viceroy in the Earth. (2:30)***
 
 Or
 
-<blockquote dir="rtl">
-  <p>
-…يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ…
-  </p>
-</blockquote>
+> …يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ…
 
 ***O David! Lo! We have set thee as a viceroy in the earth.(38:26)***
 
@@ -977,14 +969,10 @@ the means by which these evil oppressor of the nation were able to alter
 Islam. Such as we proved earlier, the first means was concealment, just
 like in previous nations:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
-وَالْهُدَىٰ مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي
-الْكِتَابِ  أُولَـٰئِكَ يَلْعَنُهُمُ اللَّـهُ وَيَلْعَنُهُمُ
-اللَّاعِنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
+> وَالْهُدَىٰ مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي
+> الْكِتَابِ  أُولَـٰئِكَ يَلْعَنُهُمُ اللَّـهُ وَيَلْعَنُهُمُ
+> اللَّاعِنُونَ
 
 ***“Surely those who conceal the clear proofs and the guidance that We
 revealed after We made it clear in the Book for men, these it is whom
@@ -1281,11 +1269,7 @@ and in addition the Sunnite sect has by consensus agreed that the leader
 may not be deposed from the Imamate because of debauchery”.[^35] This
 scholar then claims proof with this Quranic verse:
 
-<blockquote dir="rtl">
-  <p>
-أطيعوا الله و أطيعوا الرسول و أُولي الأَمرَ مِنكم
-  </p>
-</blockquote>
+> أطيعوا الله و أطيعوا الرسول و أُولي الأَمرَ مِنكم
 
 ***“Obey Allah and obey the apostle and those in authority from among
 you”.(Holy Quran, 4: 59)***
@@ -1306,12 +1290,8 @@ just as we have seen, the Imamate is established by Divine appointment.
 The leaders and scholars of this support their belief with this Quranic
 verse:
 
-<blockquote dir="rtl">
-  <p>
- وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
-فَأَتَمَّهُنَّ  قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
-  </p>
-</blockquote>
+>  وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+> فَأَتَمَّهُنَّ  قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
 
 ***“And when his Lord tried Abraham with certain words, he fulfilled
 them. He said: Surely I will make you an Imam of men”. (Quran 2: 124)
@@ -1340,21 +1320,13 @@ honour as well:
 
 He asked God:
 
-<blockquote dir="rtl">
-  <p>
- وَمِن ذُرِّيَّتِي
-  </p>
-</blockquote>
+>  وَمِن ذُرِّيَّتِي
 
 ***“And of my offspring? (Quran 2: 124)***
 
 And God replied:
 
-<blockquote dir="rtl">
-  <p>
- لَا يَنَالُ عَهْدِي الظَّالِمِينَ
-  </p>
-</blockquote>
+>  لَا يَنَالُ عَهْدِي الظَّالِمِينَ
 
 ***“My Covenant does not include the unjust”. (Quran 2: 124)***
 
@@ -1377,24 +1349,16 @@ Other then this noble verse, in other Quranic verse the Imamate has been
 mentioned and has presented it as being based on Divine division
 covenant:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
-إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ
-الزَّكَاةِ  وَكَانُوا لَنَا عَابِدِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
+> إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ
+> الزَّكَاةِ  وَكَانُوا لَنَا عَابِدِينَ
 
 ***“And We made them Imams who guided (people) by Our command, and We
 revealed to them the doing of good and the keeping up of prayer and the
 giving of alms, and Us (alone) did they serve”. (Qur’an 21: 73).***
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ
-وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ
+> وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
 
 ***“And We made them Imams to guide by Our command when they were
 patient, and they were certain of Our communications”. (Qur’an 32:
@@ -1411,12 +1375,8 @@ infallibility (Ismah) which was stipulated in verse 124 of the Surah
 Baqarah previously mentioned with regard to Abrahams Imamate. Now, if we
 refer once again to the Quran we will see in this noble verse:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّمَا يُرِيدُ اللَّـهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا 
-  </p>
-</blockquote>
+>  إِنَّمَا يُرِيدُ اللَّـهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Allah only desires to keep away the uncleanness from you, O' people
 of the house! and to purify you a (thorough) purifying”. (Holy Quran,
@@ -2146,13 +2106,9 @@ Master of all believers after him.
 In the story of the ring and its bestowal on a beggar in the mosque,
 this caused the revelation of this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّـهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
-الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ 
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّـهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
+> الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ
 
 ***“Verily, your Master is only Allah and His Apostle and those who
 believe, those who establish prayers, and pay the Zakat while bowed (in
@@ -2337,11 +2293,7 @@ might differ slightly from another in words or expressions. The Holy
 Quran itself contains many examples of this type of difference. For
 example in the Quran we read:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْتُلُوا أَوْلَادَكُم مِّنْ إِمْلَاقٍ
-  </p>
-</blockquote>
+> وَلَا تَقْتُلُوا أَوْلَادَكُم مِّنْ إِمْلَاقٍ
 
 ***“Don't kill your children because of hunger”. “(Quran, 6:151)***
 
@@ -2661,11 +2613,7 @@ being carried out. It was such at that time. (Those around him began to
 argue even though it wasn't right for them to create such noise and
 dispute in the Holy Prophets presence). The Holy Quran has told us:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ
-  </p>
-</blockquote>
+> لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ
 
 ***Do not speak louder than the Prophet. (Quran 49:2)***
 
@@ -2909,11 +2857,7 @@ Uthman said:
 
 Abu Bakr then said:
 
-<blockquote dir="rtl">
-  <p>
-جزاك الله عن الاسلام و أهله
-  </p>
-</blockquote>
+> جزاك الله عن الاسلام و أهله
 
 and then signed Uthmans' writing.
 
@@ -2938,12 +2882,8 @@ be revealed.
 
 Haven't we read in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-.. وَمِنْ أَهْلِ الْمَدِينَةِ  مَرَدُوا عَلَى النِّفَاقِ لَا
-تَعْلَمُهُمْ  نَحْنُ نَعْلَمُهُمْ..
-  </p>
-</blockquote>
+> .. وَمِنْ أَهْلِ الْمَدِينَةِ  مَرَدُوا عَلَى النِّفَاقِ لَا
+> تَعْلَمُهُمْ  نَحْنُ نَعْلَمُهُمْ..
 
 ***“There are some people in Medina who are so experienced at hypocrisy
 that you don't recognize them, We recognize them… (Quran, 9:101)***
@@ -3225,5 +3165,4 @@ Yaghoubi, 2/95.
 [^91]: Al-Tabaqat 2/267.
 
 [^92]: “Kanzul Ummal”, 4/53 Tradition \#1092 (Haydar Abad 1313).
-
 

@@ -51,4 +51,3 @@ by attempt of Ali Akbar Ghaffari; Saduq publication-Tehran.
 Takalif-ul-Anam Fi Ghaibat-ul-Imam (spiritual connection with Imam
 Mahdi); Badr-Tehran, 1403 A.H.
 
-

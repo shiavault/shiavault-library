@@ -4,11 +4,7 @@
 This blessed *Dua* is clinging to the Divine Rope as mentioned in the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا
-  </p>
-</blockquote>
+> وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا
 
 ***“And hold fast by the covenant of Allah all together.” (Qur’an, Surah
 Aale Imran 3:103)***
@@ -22,5 +18,4 @@ We are the rope of the Almighty Allah mentioned in the verse:
 disunited.”[^1]
 
 [^1]: Ghayat al-Maraam Pg. 242
-
 

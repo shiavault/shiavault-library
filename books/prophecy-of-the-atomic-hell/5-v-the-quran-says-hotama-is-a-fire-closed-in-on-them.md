@@ -245,4 +245,3 @@ the next world, the causesof both are the same. The loss of this
 transient world is like this world itselftransient. But dread the
 eternal punishment in the next eternal world. I wishyou could judge
 
-

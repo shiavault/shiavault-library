@@ -30,20 +30,12 @@ Duration of life two parts
 The tyrant rulers of his age: Nine persons from Yazeed up to Hasham bin
 Abdul Malik the Tenth caliph of Bani Ommaides.
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً عن
-  </p>
-</blockquote>
+> اربعون حديثاً عن
 
 Forty Traditions from Imam Sajjad (as)
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الامام زين العابدين عليه السلام
-  </p>
-</blockquote>
+> الامام زين العابدين عليه السلام
 
 1. Glory be to Allah who made (declared) the acknowledgment of His
 beneficence as His praise & Eulogy. Glory be to the one who made
@@ -331,11 +323,7 @@ they would have definitely sought it even by shedding the blood of their
 hearts & plunging into the depth of oceans. [^24]
 
 > 23- لَو يَعلَمُ النّاسُ ما في طَلَبِ العِلمِ لَطَلَبُوهُ وَلَو بِسَفکِ
-<blockquote dir="rtl">
-  <p>
-المُهَجِ وَخَوضِ اللُّجَجِ.
-  </p>
-</blockquote>
+> المُهَجِ وَخَوضِ اللُّجَجِ.
 
 > (بحارالانوار ج1 ص185)
 
@@ -382,11 +370,7 @@ protect & defend him against mishaps) demand the sincerity of practice,
 I have got stationed among such affairs, being demanded from.[^28]
 
 > 27- قيلَ لِعَلِيِّ بنِ الحِسَينِ عَلَيهِمَاالسَّلامُ: کَيفَ أَصبَحتَ
-<blockquote dir="rtl">
-  <p>
-يَاابنَ رَسُولِ اللهِ ؟
-  </p>
-</blockquote>
+> يَاابنَ رَسُولِ اللهِ ؟
 
 > قالَ (ع): أَصبَحتُ مَطلُوباً بِثَمانِي خِصالٍ :اَللهُ تَعالی يَطلُبُني
 > بِالفَرائِضِ، وَالنَّبِیٌ (ص) بِالسُّنَّةِ،وَالعِيالُ بِالقُوتِ،
@@ -654,5 +638,4 @@ receive you with the boiling hot water & the fuming & flaming hell.
 [^40]: Tuhaf al Uqul P 263
 
 [^41]: Tuhaf al-Uqul P 249-250
-
 

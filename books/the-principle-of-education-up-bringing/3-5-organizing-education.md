@@ -39,7 +39,6 @@ children, to beg!"42
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 42. Qurb ul-Asna'd, Page: 31.
 
-
 **6. Art of Education**
 
 Developing progressively in steps, the potential and capabilities,
@@ -107,7 +106,6 @@ whosoever has a lacking in his education will stumble more.48 Further in
 these words, lmam Zain-uI-Abe;deen (ASWS), preaches the lesson regarding
 the obligation for education:
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 44. Surah Mariu'm, Verse: 5-6
 45. Mus'tadrak a]-Wasa'il, WI: 2, Page: 625.
@@ -151,14 +149,12 @@ directive sentence" of the lmam.
 Oh Allah! help me in educating my children in modeling their
 etiquettes, and in enriching them with virtues.51
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 49. Maka'rirn-ulAkhlaq, Page:232, Thu'f-uI-Aqua'l, Page: 189, published
 in Beirut.
 50. Roza'-e-kafi', VoI: 8, Page: 150-Tehran
 51. "Due'-le-Waladehi", Sahifa Kamila, Page: 143, Printed in London.
-
 
 **7. Ethics and Etiquettes**
 
@@ -412,7 +408,6 @@ submit yourself to Allah. In this way you would find yourself to be in a
 strong refuge, and you would be blessed with an extremely powerful
 preservator!60
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 60. Nahaj-uI-Balagah Rasail-e-Ameer-ul-Mome'neen, Contents, Footnotes
 and Commentary of words, Dr. Sab'hi Saleh, Printed in Beruit, Page:
@@ -421,5 +416,4 @@ A1-I-Iasan-Ibne-AIi-Ibne-Al- Hussain, d. 381 A.H., published in Beruit,
 Pages: 5~-64
 Al-Uqdah-ul-Farid, Ahmed-Ibne-Abd Rab'oh A1-Maliki, published in Cario,
 Part:3, Page: 155-156
-
 

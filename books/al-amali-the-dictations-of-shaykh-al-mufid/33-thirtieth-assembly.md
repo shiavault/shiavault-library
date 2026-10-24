@@ -193,4 +193,3 @@ Many a times, a literate man spares his tongue
  And may Allah bless our master Muhammad, the Prophet, and his pure
 progeny.
 
-

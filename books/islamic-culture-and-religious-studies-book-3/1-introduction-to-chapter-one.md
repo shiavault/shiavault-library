@@ -3,7 +3,6 @@ Introduction To Chapter One
 
 In The Name Of Allah (S.W.T.), the Beneficent, the Merciful
 
-
 **TAWHEED Monotheism**
 
 In the past two books, we have studied the need for a God to be
@@ -20,7 +19,6 @@ pleasure and nearness of Allah (S.W.T.), we must first be willing to put
 the effort towards achieving this aim. We must open our hearts as well
 as our minds to receive this information and only then will we be able
 to convert Imaan (faith) into Yaqeen (Conviction).
-
 
 **Munaajat Sing to the Lord**
 
@@ -49,7 +47,6 @@ O Lord, enlighten my spirit through Your divine light, make my tongue
 busy with Your dhikr (remembrance)
 O my Lord, free my inner spirit and make my heart anxious to meet You!
 1
-
 
 **Lesson 1 : Cause and Effect**
 
@@ -230,5 +227,4 @@ understand how the theory of cause and effect works. Try to use examples
 from your daily life that have not been mentioned above.
 5. What do we mean when we say the role of cause and effect is a
 universal phenomenon? Explain two proofs to support your answer.
-
 

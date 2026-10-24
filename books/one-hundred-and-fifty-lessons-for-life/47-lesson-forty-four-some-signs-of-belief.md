@@ -3,12 +3,8 @@ Lesson Forty Four: Some Signs of Belief
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْمُؤْمِنُ حَسَنُ الْمَعُونَةِ خَفِيفُ الْمَؤُنَةِ، جَيِّدُ
-التَّدْبِيرِ لِمَعِيْشَتِهِ لا يَلْسَعُ مِنْ جُحْر مَرَّتَيْنِ
-  </p>
-</blockquote>
+> اَلْمُؤْمِنُ حَسَنُ الْمَعُونَةِ خَفِيفُ الْمَؤُنَةِ، جَيِّدُ
+> التَّدْبِيرِ لِمَعِيْشَتِهِ لا يَلْسَعُ مِنْ جُحْر مَرَّتَيْنِ
 
 Translation
 -----------
@@ -38,5 +34,4 @@ inflicted twice from the same source.
 
 [^1]: Safinat’ul-Bihar, Alkafi, vol 2, page 241, Wasa'il Alshia, vol 15,
 page 193.
-
 

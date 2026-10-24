@@ -12,14 +12,9 @@ generosities.
 embarking on terrors.
 
 > 2ـ إنَّ الكَفَّ عِنْدَ حَيْرَةِ الضَّلالِ خَيْرٌ مِنْ رُكُوبِ
-<blockquote dir="rtl">
-  <p>
-الأهْوالِ.
-  </p>
-</blockquote>
+> الأهْوالِ.
 
 4. There is no piety like self-restraint.
 
 > 3ـ لاوَرَعَ كَالكَفِّ.
-
 

@@ -679,4 +679,3 @@ the saying “la illaha illallah-there is no god but Allah”.
 
 [^39]: Al-A’lam, vol.5 p.140.
 
-

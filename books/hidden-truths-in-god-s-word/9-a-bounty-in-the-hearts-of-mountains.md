@@ -1,13 +1,9 @@
 A Bounty in the Hearts of Mountains
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاء مَاء فَأَخْرَجْنَا
-بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ
-بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاء مَاء فَأَخْرَجْنَا
+> بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ
+> بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ
 
 ***Do you not see that Allah sends down water from the sky, then We
 bring forth therewith fruits of various colours; and in the mountains
@@ -100,13 +96,9 @@ In the verse under consideration, the Qur’an describes the primary
 colours of the stones found in mines all over the world, as well as
 mentioning the secondary colours:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاء مَاء فَأَخْرَجْنَا
-بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ
-بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاء مَاء فَأَخْرَجْنَا
+> بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ
+> بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ
 
 ***Do you not see that Allah sends down water from the cloud, then We
 bring forth therewith fruits of various colours; and in the mountains
@@ -182,13 +174,9 @@ extract precious stones from the deep recesses of mountains and put them
 to use in various constructions.  
  In the next verse, God states:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ
-كَذَلِكَ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء إِنَّ
-اللَّهَ عَزِيزٌ غَفُورٌ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ
+> كَذَلِكَ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء إِنَّ
+> اللَّهَ عَزِيزٌ غَفُورٌ
 
 ***And of men and beasts and cattle are diverse colours, likewise; only
 those of His servants who are possessed of knowledge fear Allah; indeed
@@ -231,5 +219,4 @@ great exegetes in their works.
 word “al-jadad” refers to a portion of an object whose colour is
 different from the surrounding, and this meaning is more consistent with
 our discussion. Mu’jam al-Wasit, 1/110.
-
 

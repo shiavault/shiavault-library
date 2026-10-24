@@ -14,4 +14,3 @@ the fishes and the elephants.
 
 (Sermon 165)
 
-

@@ -245,7 +245,6 @@ evil.
 15. Only Muslims are allowed to attend the occasion of execution of
 Divinely-prescribed punishment
 
-
 **Commentary: Verse 3**
 
 3. الزَّانِي لاَ يَنكِحُ إِلاَّ زَانِيَةً أَوْ مُشْرِكَةً
@@ -604,5 +603,4 @@ your wives will be chaste (and safe)."
 [^5] Bihar, Vol. 76, p. 21
 
 [^6] Khisal, by Saduq, p. 182
-
 

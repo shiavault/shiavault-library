@@ -1132,4 +1132,3 @@ wanted to say to them: “You deprive me of my inheritance to say that I
 am not on my father’s religion and so you will have a legal evidence on
 that!” We are Allah’s and to Him we shall return!
 
-

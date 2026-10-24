@@ -92,4 +92,3 @@ Qur'anic verse:
 ***Most surely He Who has made the Qur'an binding to you will bring you
 back to destination... (Al-Qasas, 28: 85)***
 
-

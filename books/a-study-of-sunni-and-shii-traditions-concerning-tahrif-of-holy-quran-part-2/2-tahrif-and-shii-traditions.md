@@ -134,10 +134,8 @@ ghulat".34
 Muhammad ibn Hasan ibn Jumhur is also among these narrators, and
 al-\`Allamah al-Hilli says about him:
 
-<p dir="rtl">
 كان ضعيفاً في الحديث، غاليا في المذهب، فاسداً في الرواية، لا يلتفت
 الى حديثه، ولا يُعتَمد على ما يرويه.
-</p>
 
 He was daif in narrating traditions, a ghali by faith, corrupt in his
 narrations; no significance is given to what he has narrated and it is
@@ -237,18 +235,14 @@ narrated by the Imamiyyah from al-Imam al-Sadiq (A), who while answering
 the query of Fudayl ibn Yasar regarding the narration that the Qur'an
 has been revealed in seven ahruf, said:
 
-<p dir="rtl">
 كَذَبوا- أعداء الله- لكنه نَزلَ على حرفِ واحد من عند الواحد
-</p>
 
 They lie, the enemies of God! Rather, it has been revealed in a single
 harf by the One.47
 
 The following tradition has been narrated from al-Imam al-Baqir (A):
 
-<p dir="rtl">
 إن القرآن واحد، نزل من عن الواحد، ولكن الاختلاف يجيء من قبل الرواة.
-</p>
 
 Verily, there is only one Qur'an, which has been revealed by the One,
 and the differences have cropped up due to the narrators.48
@@ -284,18 +278,14 @@ We also find traditions which negate the existence of different
 readings, such as the tradition recorded by Atimad in his Musnad from
 Zirr ibn Hubaysh, from Ibn Masud
 
-<p dir="rtl">
 أقرأني رسول الله سورة الاحقاف فخرجت الى المسجد فإذا رجل يقرأها على
 غيرما أقرأني، فقلت، من أقرأك؟ فقال رسول الله. قال: قلت للآخر إقرأها،
 فقرأها على غير قرآتي وقراءة صاحبي، فانطلقت بهما الى النبي (ص) فقلت: يا
 رسول الله هذات يخالفاني في القرآءة فغضب وتعَمَّرَ وجهه وقال (ص)/ إنما
 أهلك من كان قبلكم الاختلاف، قال زِرٌ: وعنده
-</p>
 
-<p dir="rtl">
 (ص) قال: فقال: ان رسول الله يأمركم أن يقرأ كل رجل كما اُقريء، فإنما
 أَهلَكَ من كان قبلكم الاختلاف.
-</p>
 
 The Prophet (S) taught the reading of the Surat al-'Ahqaf to me. When I
 went to the mosque there I found a person reciting this surah
@@ -450,12 +440,10 @@ them in this class of traditions, considering that we have some
 traditions which negate the presence of \`Ali's name in the Qur'an. The
 following is one from al-Kafi from Abu Basir from al-Imam al-.Sadiq (A):
 
-<p dir="rtl">
 عن أبي بصير عن ابي عبدالله (ع) فقلت له أن الناس يقولون: فما له لم
 يُسَمِّ علياً في القرآن و أهل بيته في كتاب الله؟ فقال: فقولوا لهم ان
 رسول الله نزلت عليه الصلاة و لم يسم ثلاثاً و اربعاً حتى كان رسول الله هو
 الَّذي فسر لهم ذلك.
-</p>
 
 Abu Basir says: "I said to him that people ask why God has not mentioned
 the name of 'Ali (A) and his household in the Qur'an? The Imam replied:
@@ -479,10 +467,8 @@ Another tradition which confirms what has been said is narrated by
 Muhammad ibn al-Fudayl from Aba al-Hasan al-Madi, i.e. al-Imam al-Kazim
 (A):
 
-<p dir="rtl">
 قال: قلتُ هذا الذي كنتم تكذبون فقال الامام (ع) يعني أمير المؤمنين:
 قلت تنزيل؟ قال: نعم.
-</p>
 
 (Muhammad ibn al-Fudayl says:) "I asked the Imam (A) regarding the verse
 هذا الذي كنتم به تكذبون..; He replied: 'It implies Amir al-Mu'minin
@@ -559,12 +545,10 @@ not in their words. This is indicated by the following tradition
 narrated by Al ­Kulayni in Rawdat al-Kafi. In a letter al-Imam al-Baqir
 (A) writes to Sa'd al-Khayr:
 
-<p dir="rtl">
 ... وكان مِن نَبْذِهِم الكتاب أن أقاموا حروفه و حرَّفوا حدوده فهم
 يرونه، ولا يرعونه، والجهال يعجبهم حفظهم للرواية، والعلماء يحزنهم تركهم
 للرعاية، وكان من نبذهم الكتاب ان ولوه الَّذين لا يعلمون فأوردوهم الهوى و
 اصدروهم الى الردى وغيَّروا عُرى الدين ثم ورَّثوه في السَّفَهِ و الضِّبا.
-</p>
 
 ### Endnotes
 

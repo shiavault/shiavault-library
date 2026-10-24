@@ -136,4 +136,3 @@ p.1224
 
 [^3]: T abari, vol.1, p.2052, news following H eyrah.
 
-

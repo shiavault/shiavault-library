@@ -168,14 +168,10 @@ triumphed over the idolaters, whose property, women and children fell
 into his hands. The Almighty Allah describes this battle in the
 following manner:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ
-حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنْكُمْ
-شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ
-وَلَّيْتُمْ مُدْبِرِينَ
-  </p>
-</blockquote>
+> لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ
+> حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنْكُمْ
+> شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ
+> وَلَّيْتُمْ مُدْبِرِينَ
 
 ***“Certainly Allah helped you in many battlefields and on the day of
 (battle of) Hunain, when your great numbers made you vain, but they
@@ -186,13 +182,9 @@ According to traditions “many battlefields” imply that the Almighty
 Allah helped the Prophet on eighty occasions. Then the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى
-الْمُؤْمِنِينَ وَأَنْزَلَ جُنُودًا لَمْ تَرَوْهَا وَعَذَّبَ الَّذِينَ
-كَفَرُوا ۚ وَذَٰلِكَ جَزَاءُ الْكَافِرِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى
+> الْمُؤْمِنِينَ وَأَنْزَلَ جُنُودًا لَمْ تَرَوْهَا وَعَذَّبَ الَّذِينَ
+> كَفَرُوا ۚ وَذَٰلِكَ جَزَاءُ الْكَافِرِينَ
 
 ***“Then Allah sent down His tranquility upon His Apostle and upon the
 believers, and sent down hosts which you did not see, and chastised
@@ -230,11 +222,7 @@ of ten men, nine of whom were from Bani Hashim; the tenth, Ayman, son of
 Umm Ayman who fell a martyr. The Almighty Allah said regarding the
 unplaced remark of Abu Bakr:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ
-  </p>
-</blockquote>
+> إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ
 
 ***“…when your great numbers made you vain…”***[^4]
 
@@ -573,11 +561,7 @@ Kulaini and Ayyashi has narrated through good chains of narrators from
 Zurarah that Imam Muhammad Baqir (a.s.) was asked about the meaning of
 the phrase:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤَلَّفَةِ قُلُوبُهُمْ
-  </p>
-</blockquote>
+> وَالْمُؤَلَّفَةِ قُلُوبُهُمْ
 
 ***“…and those whose hearts are made to incline (to truth)…”***[^5]
 
@@ -826,12 +810,8 @@ revealed from heaven denouncing his infidelity, and which men would read
 and curse him down to the Judgment Day. This apprehension was soon
 realized, for directly the Almighty Allah sent down his verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُمْ مَنْ يَقُولُ ائْذَنْ لِي وَلَا تَفْتِنِّي ۚ أَلَا فِي
-الْفِتْنَةِ سَقَطُوا ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمِنْهُمْ مَنْ يَقُولُ ائْذَنْ لِي وَلَا تَفْتِنِّي ۚ أَلَا فِي
+> الْفِتْنَةِ سَقَطُوا ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ
 
 ***“And among them there is he who says: Allow me and do not try me.
 Surely into trial have they already tumbled down, and most surely hell
@@ -866,14 +846,10 @@ Arna bin Saria came to the Prophet wailing and said that they were
 financially incapable to accompany him. The Almighty Allah revealed the
 following verse about them:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضٰى وَلَا عَلَى الَّذِينَ
-لَا يَجِدُونَ مَا يُنْفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ
-وَرَسُولِهِ ۚ مَا عَلَى الْمُحْسِنِينَ مِنْ سَبِيلٍ ۚ وَاللَّهُ
-غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضٰى وَلَا عَلَى الَّذِينَ
+> لَا يَجِدُونَ مَا يُنْفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ
+> وَرَسُولِهِ ۚ مَا عَلَى الْمُحْسِنِينَ مِنْ سَبِيلٍ ۚ وَاللَّهُ
+> غَفُورٌ رَحِيمٌ
 
 ***“It shall be no crime in the weak, nor in the sick, nor in those who
 do not find what they should spend (to stay behind), so long as they are
@@ -884,12 +860,8 @@ Ali bin Ibrahim has narrated that these people only wanted a pair of
 slippers, which they can wear and march forward. So the Almighty Allah
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ
-أَغْنِيَاءُ ۚرَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ
-  </p>
-</blockquote>
+> إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ
+> أَغْنِيَاءُ ۚرَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ
 
 ***“The way (to blame) is only against those who ask permission of you
 though they are rich; they have chosen to be with those who remained
@@ -971,12 +943,8 @@ they did not even look at each other. On the third day when the
 Messenger of Allah (S) was at Umm Salma’s place the Almighty Allah
 accepted their repentance and revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنْصَارِ
-الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ
-  </p>
-</blockquote>
+> لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنْصَارِ
+> الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ
 
 ***“Certainly Allah has turned (mercifully) to the Prophet and those who
 fled (their homes) and the helpers who followed him in the hour of
@@ -985,11 +953,7 @@ straitness…”***[^10]
 Imam Ja’far Sadiq (a.s.) said: The verse is revealed like this and not
 like how the people recite:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ
-  </p>
-</blockquote>
+> لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ
 
 ***“Certainly Allah has turned (mercifully) to the Prophet and those who
 fled (their homes)…”***[^11]  
@@ -998,32 +962,20 @@ Wahab, who lagged behind and then finally joined the Prophet. But the
 Almighty Allah revealed the following verse about Kaab and his two
 companions:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُواْ
-  </p>
-</blockquote>
+> وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُواْ
 
 ***“And to the three who were left behind…”***[^12]
 
 Imam (a.s.) said that the verse revealed like this:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُواْ
-  </p>
-</blockquote>
+> وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُواْ
 
 ***“And to the three who were left behind…”***[^13]
 
 That is the Almighty Allah accepted the repentance of the three who
 disobeyed the Prophet and did not go out to fight.
 
-<blockquote dir="rtl">
-  <p>
-حَتّٰى إِذَا ضَاقَتْ عَلَيْهِمُ الأَرْضُ بِمَا رَحُبَتْ
-  </p>
-</blockquote>
+> حَتّٰى إِذَا ضَاقَتْ عَلَيْهِمُ الأَرْضُ بِمَا رَحُبَتْ
 
 ***“until the earth became strait to them notwithstanding its
 spaciousness…”***[^14]
@@ -1032,11 +984,7 @@ Imam (a.s.) said: It implies that the Prophet, their brothers in faith
 and their family members had boycotted them so it became difficult for
 them to live in Medina and hence they retired to the hills.
 
-<blockquote dir="rtl">
-  <p>
-وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ
-  </p>
-</blockquote>
+> وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ
 
 ***“…and their souls were also straitened to them…”***[^15]
 
@@ -1060,15 +1008,11 @@ informed your Prophet?” They said: “We have not said any untoward thing
 and it was all by way of jest.” At that juncture, the Almighty Allah
 revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-يَحْذَرُ الْمُنَافِقُونَ أَنْ تُنَزَّلَ عَلَيْهِمْ سُورَةٌ
-تُنَبِّئُهُمْ بِمَا فِي قُلُوبِهِمْ ۚ قُلِ اسْتَهْزِئُوا إِنَّ اللَّهَ
-مُخْرِجٌ مَا تَحْذَرُونَ. وَلَئِنْ سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا
-كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ
-كُنْتُمْ تَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> يَحْذَرُ الْمُنَافِقُونَ أَنْ تُنَزَّلَ عَلَيْهِمْ سُورَةٌ
+> تُنَبِّئُهُمْ بِمَا فِي قُلُوبِهِمْ ۚ قُلِ اسْتَهْزِئُوا إِنَّ اللَّهَ
+> مُخْرِجٌ مَا تَحْذَرُونَ. وَلَئِنْ سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا
+> كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ
+> كُنْتُمْ تَسْتَهْزِئُونَ
 
 ***“The hypocrites fear lest a chapter should be sent down to them
 telling them plainly of what is in their hearts. Say: Go on mocking,
@@ -1077,13 +1021,9 @@ them, they would certainly say: We were only idly discoursing and
 sporting. Say: Was it at Allah and His communications and His Apostle
 that you mocked?”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-لَا تَعْتَذِرُوا قَدْ كَفَرْتُمْ بَعْدَ إِيمَانِكُمْ ۚ إِنْ نَعْفُ
-عَنْ طَائِفَةٍ مِنْكُمْ نُعَذِّبْ طَائِفَةً بِأَنَّهُمْ كَانُوا
-مُجْرِمِينَ
-  </p>
-</blockquote>
+> لَا تَعْتَذِرُوا قَدْ كَفَرْتُمْ بَعْدَ إِيمَانِكُمْ ۚ إِنْ نَعْفُ
+> عَنْ طَائِفَةٍ مِنْكُمْ نُعَذِّبْ طَائِفَةً بِأَنَّهُمْ كَانُوا
+> مُجْرِمِينَ
 
 ***“Do not make excuses; you have denied indeed after you had believed;
 if We pardon a party of you, We will chastise (another) party because
@@ -1120,15 +1060,11 @@ that they were steadfast on faith they had not become hypocrites so that
 believers may refrain from harassing them. So the Almighty Allah
 revealed the following verses about their falsehood:
 
-<blockquote dir="rtl">
-  <p>
-سَيَحْلِفُونَ بِاللَّهِ لَكُمْ إِذَا انْقَلَبْتُمْ إِلَيْهِمْ
-لِتُعْرِضُوا عَنْهُمْ ۖ فَأَعْرِضُوا عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ
-وَمَأْوَاهُمْ جَهَنَّمُ جَزَاءً بِمَا كَانُوا يَكْسِبُونَ ﴿٩٥﴾
-يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ ۖ فَإِنْ تَرْضَوْا عَنْهُمْ
-فَإِنَّ اللَّهَ لَا يَرْضَىٰ عَنِ الْقَوْمِ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> سَيَحْلِفُونَ بِاللَّهِ لَكُمْ إِذَا انْقَلَبْتُمْ إِلَيْهِمْ
+> لِتُعْرِضُوا عَنْهُمْ ۖ فَأَعْرِضُوا عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ
+> وَمَأْوَاهُمْ جَهَنَّمُ جَزَاءً بِمَا كَانُوا يَكْسِبُونَ ﴿٩٥﴾
+> يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ ۖ فَإِنْ تَرْضَوْا عَنْهُمْ
+> فَإِنَّ اللَّهَ لَا يَرْضَىٰ عَنِ الْقَوْمِ الْفَاسِقِينَ
 
 ***“They will excuse themselves to you when you go back to them. Say:
 Urge no excuse, by no means will we believe you; indeed Allah has
@@ -1442,11 +1378,7 @@ Shoba, Salim, the freed slave of Abi Huzaifa, Khalid bin Walid, Amr Aas,
 Abu Musa Ashari and Abdur Rahman bin Auf, may Allah keep His mercy from
 them. These were the ones regarding whom the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-وَهَمُّواْ بِمَا لَمْ يَنَالُواْ
-  </p>
-</blockquote>
+> وَهَمُّواْ بِمَا لَمْ يَنَالُواْ
 
 ***“…and they had determined upon what they have not been able to
 effect…”***[^19]
@@ -1784,13 +1716,9 @@ said: O servants of Allah! The people of Prophet Isa (a.s.) asked him
 for a table of eatables from heaven. So when Isa (a.s.) prayed for it,
 the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اللهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ
-مِنكُمْ فَإِنِّي أُعَذِّبُهُ عَذَابًا لاَّ أُعَذِّبُهُ أَحَدًا مِّنَ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالَ اللهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ
+> مِنكُمْ فَإِنِّي أُعَذِّبُهُ عَذَابًا لاَّ أُعَذِّبُهُ أَحَدًا مِّنَ
+> الْعَالَمِينَ
 
 ***Allah said: Surely I will send it down to you, but whoever shall
 disbelieve afterwards from among you, surely I will chastise him with a
@@ -1942,11 +1870,7 @@ will not release them till the Almighty Allah does not send a
 communication regarding them. At last the following verse was revealed
 about them:
 
-<blockquote dir="rtl">
-  <p>
-عَسَى اللَّهُ أَنْ يَتُوبَ عَلَيْهِمْ
-  </p>
-</blockquote>
+> عَسَى اللَّهُ أَنْ يَتُوبَ عَلَيْهِمْ
 
 ***“…may be Allah will turn to them (mercifully)…”***[^23]
 
@@ -1958,12 +1882,8 @@ Holy Prophet (S) said: “I have not received any communication of the
 Almighty Allah regarding this. At that juncture, the following verse was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
-وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ 
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
+> وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ
 
 ***“Take alms out of their property, you would cleanse them and purify
 them thereby, and pray for them; surely your prayer is a relief to
@@ -2193,14 +2113,10 @@ transgressor. When His Eminence (S) became victorious and returned to
 Medina and Allah nullified the deceit of the hypocrites, the Prophet (S)
 ordered to burn the mosque of Zirar and Allah sent the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اتَّخَذُوا مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًا
-بَيْنَ الْمُؤْمِنِينَ وَإِرْصَادًا لِمَنْ حَارَبَ اللَّهَ وَرَسُولَهُ
-مِنْ قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَا إِلَّا الْحُسْنَىٰ ۖ
-وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اتَّخَذُوا مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًا
+> بَيْنَ الْمُؤْمِنِينَ وَإِرْصَادًا لِمَنْ حَارَبَ اللَّهَ وَرَسُولَهُ
+> مِنْ قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَا إِلَّا الْحُسْنَىٰ ۖ
+> وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
 
 ***“And those who built a Masjid to cause harm and for unbelief and to
 cause disunion among the believers and an ambush to him who made war
@@ -2247,19 +2163,15 @@ Almighty Allah has alluded to it. And before that accursed one died
 before he can reach the King of Rum. Then the Almighty Allah restrained
 the Prophet from praying there and He said:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَقُمْ فِيهِ أَبَدًا ۚ لَمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ
-أَوَّلِ يَوْمٍ أَحَقُّ أَنْ تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌ يُحِبُّونَ
-أَنْ يَتَطَهَّرُوا ۚ وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ ﴿١٠٨﴾ أَفَمَنْ
-أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ
-أَمْ مَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ
-بِهِ فِي نَارِ جَهَنَّمَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ
-الظَّالِمِينَ ﴿١٠٩﴾ لَا يَزَالُ بُنْيَانُهُمُ الَّذِي بَنَوْا رِيبَةً
-فِي قُلُوبِهِمْ إِلَّا أَنْ تَقَطَّعَ قُلُوبُهُمْ ۗ وَاللَّهُ عَلِيمٌ
-حَكِيمٌ ﴿١١٠﴾
-  </p>
-</blockquote>
+> لَا تَقُمْ فِيهِ أَبَدًا ۚ لَمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ
+> أَوَّلِ يَوْمٍ أَحَقُّ أَنْ تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌ يُحِبُّونَ
+> أَنْ يَتَطَهَّرُوا ۚ وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ ﴿١٠٨﴾ أَفَمَنْ
+> أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ
+> أَمْ مَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ
+> بِهِ فِي نَارِ جَهَنَّمَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ
+> الظَّالِمِينَ ﴿١٠٩﴾ لَا يَزَالُ بُنْيَانُهُمُ الَّذِي بَنَوْا رِيبَةً
+> فِي قُلُوبِهِمْ إِلَّا أَنْ تَقَطَّعَ قُلُوبُهُمْ ۗ وَاللَّهُ عَلِيمٌ
+> حَكِيمٌ ﴿١١٠﴾
 
 ***“Never stand in it; certainly a Masjid founded on piety from the very
 first day is more deserving that you should stand in it; in it are men
@@ -2301,14 +2213,10 @@ the treaty, the initial verses of Surah Barat were revealed and the
 Messenger of Allah (S) was commanded by Allah to break the treaty and
 become aloof from them as mentioned:
 
-<blockquote dir="rtl">
-  <p>
-بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهٖ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ
-الْمُشْرِكِينَ. فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ
-وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ
-مُخْزِي الْكَافِرِينَ.
-  </p>
-</blockquote>
+> بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهٖ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ
+> الْمُشْرِكِينَ. فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ
+> وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ
+> مُخْزِي الْكَافِرِينَ.
 
 ***“(This is a declaration of) immunity by Allah and His Apostle towards
 those of the idolaters with whom you made an agreement. So go about in
@@ -2323,15 +2231,11 @@ from 1st Shawwal and others say that they begin from 10th Zilqad since
 those days, the idolaters used to perform Hajj and it was among their
 innovations that they rotated Hajj from one month to another.
 
-<blockquote dir="rtl">
-  <p>
-وَأَذَانٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
-الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ ۚ
-فَإِنْ تُبْتُمْ فَهُوَ خَيْرٌ لَكُمْ ۖ وَإِنْ تَوَلَّيْتُمْ
-فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۗ وَبَشِّرِ الَّذِينَ
-كَفَرُوا بِعَذَابٍ أَلِيمٍ.
-  </p>
-</blockquote>
+> وَأَذَانٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
+> الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ ۚ
+> فَإِنْ تُبْتُمْ فَهُوَ خَيْرٌ لَكُمْ ۖ وَإِنْ تَوَلَّيْتُمْ
+> فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۗ وَبَشِّرِ الَّذِينَ
+> كَفَرُوا بِعَذَابٍ أَلِيمٍ.
 
 ***“And an announcement from Allah and His Apostle to the people on the
 day of the greater pilgrimage that Allah and His Apostle are free from
@@ -2354,14 +2258,10 @@ Muslims and infidels came for Hajj after which idolaters were banned
 from there and Hajj remained restricted to Muslims. After that the
 Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ
-يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا
-فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ
-يُحِبُّ الْمُتَّقِينَ ﴿٤﴾
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ
+> يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا
+> فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ
+> يُحِبُّ الْمُتَّقِينَ ﴿٤﴾
 
 ***“Except those of the idolaters with whom you made an agreement, then
 they have not failed you in anything and have not backed up any one
@@ -2374,14 +2274,10 @@ complete that period because they had not committed anything against the
 treaty. Some have said that this command was common for all groups who
 made treaty with the Prophet and did not violate its terms.
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا انْسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ
-حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ
-كُلَّ مَرْصَدٍ ۚ فَإِنْ تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا
-الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> فَإِذَا انْسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ
+> حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ
+> كُلَّ مَرْصَدٍ ۚ فَإِنْ تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا
+> الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
 
 ***“So when the sacred months have passed away, then slay the idolaters
 wherever you find them, and take them captives and besiege them and lie
@@ -2436,11 +2332,7 @@ who has no treaty would be given amnesty till four months.
 one of the names of Amirul Momineen (a.s.) in Qur’an is Azan; as the
 Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَذَانٌ مِّنَ اللهِ
-  </p>
-</blockquote>
+> وَأَذَانٌ مِّنَ اللهِ
 
 ***“And an announcement from Allah…”***[^32]
 
@@ -2677,5 +2569,4 @@ community. Also the Prophet could not have appointed him on his own as
 he never did anything without the guidance of divine revelation. Hence
 it can only be concluded that it was under the commands of the Almighty
 Allah.
-
 

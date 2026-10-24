@@ -88,7 +88,6 @@ constantly slipping by "fast" beyond his control according to the
 earthly clock and death is always "the same day" -according to the
 celestial (heavenly) clock even if it were forty or sixty years hence!
 
-
 **10- The Child with Culture of Reading is More**
 
 Visionary
@@ -180,5 +179,4 @@ their dear child for such an apparently minor habit. It is probable that
 they themselves lack or under-rate the culture of reading and any idea
 of its richness in the mental nourishment. Reading is a culture with no
 compensatory substitute; and no culture is minor.
-
 

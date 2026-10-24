@@ -1,28 +1,20 @@
 Discourse 10: Taqwa (Consciousness of Allah)
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ يَقُولُ:
-أَيُّهَا النَّاسُ! إِتَّقُوا اللٌّهَ حَقَّ تُقَاتِهِ، وَ اسْعَوا فِي
-مَرْضَاتِهِ، وَ أَيْـقِنُوا مِنَ الدُّنْـيَا بِالْفَنَآءِ وَ مِنَ
-الآخِرَةِ بِالْبَقَاءِ وَ اعْمَلُوا لِمَا بَعْدَ الْمَوْتِ.
-فَكَأَنَّكُمْ بِالدُّنْـيَا لَمْ تَكُنْ، وَ بِالآخِرَةِ لَمْ تَزَلْ.
-  </p>
-</blockquote>
+> عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ يَقُولُ:
+> أَيُّهَا النَّاسُ! إِتَّقُوا اللٌّهَ حَقَّ تُقَاتِهِ، وَ اسْعَوا فِي
+> مَرْضَاتِهِ، وَ أَيْـقِنُوا مِنَ الدُّنْـيَا بِالْفَنَآءِ وَ مِنَ
+> الآخِرَةِ بِالْبَقَاءِ وَ اعْمَلُوا لِمَا بَعْدَ الْمَوْتِ.
+> فَكَأَنَّكُمْ بِالدُّنْـيَا لَمْ تَكُنْ، وَ بِالآخِرَةِ لَمْ تَزَلْ.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إِنَّ مَنْ فِي الدُّنْـيَا ضَيْفٌ، وَ مَا فِي
-أَيْدِيهِمْ عَارِيَةٌ، وَ إِنَّ الضَّيْفَ مُرْتَحِلٌ، وَ الْعَارِيَةُ
-مَرْدُودَةٌ. أَلاَّ وَ إِنَّ  الدُّنْـيَا عَرَضٌ حَاضِرٌ يَأْكُلُ
-مِنْهُ البَرُّ وَ الْفَاجِرُ، وَ الآخِرَةُ وَعْدٌ صَادِقٌ، يَحْكُمُ
-فِيهَا مَلِكُ عَادِلٌ قَادِرٌ، فَرَحِمَ اللٌّهُ امْرَءاً يَنْظُـرُ
-لِـنَفْسِهِ وَ مَهَّدَ لِرَمْسِـهِ مَا دَامَ رَسَنُهُ مُرْخِياً وَ
-حَبْلُهُ عَلى غَارِبِهِ مُلْقِياً قَبْلَ أَنْ يَنْفَذَ الآجَلُهُ، وَ
-يَنْقَطِعَ عَمَلُهُ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إِنَّ مَنْ فِي الدُّنْـيَا ضَيْفٌ، وَ مَا فِي
+> أَيْدِيهِمْ عَارِيَةٌ، وَ إِنَّ الضَّيْفَ مُرْتَحِلٌ، وَ الْعَارِيَةُ
+> مَرْدُودَةٌ. أَلاَّ وَ إِنَّ  الدُّنْـيَا عَرَضٌ حَاضِرٌ يَأْكُلُ
+> مِنْهُ البَرُّ وَ الْفَاجِرُ، وَ الآخِرَةُ وَعْدٌ صَادِقٌ، يَحْكُمُ
+> فِيهَا مَلِكُ عَادِلٌ قَادِرٌ، فَرَحِمَ اللٌّهُ امْرَءاً يَنْظُـرُ
+> لِـنَفْسِهِ وَ مَهَّدَ لِرَمْسِـهِ مَا دَامَ رَسَنُهُ مُرْخِياً وَ
+> حَبْلُهُ عَلى غَارِبِهِ مُلْقِياً قَبْلَ أَنْ يَنْفَذَ الآجَلُهُ، وَ
+> يَنْقَطِعَ عَمَلُهُ.
 
 It has been narrated by Anas b. Malik that he said, “I heard the
 Messenger of Allah (S) say, 'O' People! Have Taqwa of Allah as is worthy
@@ -135,12 +127,8 @@ Therefore, if we are looking to earn the pleasure of Allah (SwT), then
 we must be ready to supplicate just as the Du’a of Prophet Ibrahim (as)
 in relation to his wife Hajar I and son, Isma\`il (as):
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوى إِلَيْهِمْ وَ ارْزُقْهُمْ
-مِنَ الثَّمَرَاتِ
-  </p>
-</blockquote>
+> فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوى إِلَيْهِمْ وَ ارْزُقْهُمْ
+> مِنَ الثَّمَرَاتِ
 
 “…therefore make the hearts of some people yearn towards them and
 provide them with blessings…”[^2]
@@ -150,12 +138,8 @@ gravitate towards us!
 
 With complete clarity, the Noble Qur\`an states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
-الرَّحْمٌنُ وُدًّا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
+> الرَّحْمٌنُ وُدًّا
 
 “Surely (as for) those who possess true faith and perform righteous
 deeds, the Most Merciful (Allah) will bring about love for them (in the
@@ -185,12 +169,8 @@ We speak the words of one who is an ascetic in relation to this world,
 however our actions are of the person who is actively seeking the life
 of this world:
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ فِي الدُّنْـيَا بِقَوْلِ الزَّاهِدينَ وَ يَعْمَلُ فِيهَا
-عَمَلَ الرَّاغِـبِينَ.
-  </p>
-</blockquote>
+> يَقُولُ فِي الدُّنْـيَا بِقَوْلِ الزَّاهِدينَ وَ يَعْمَلُ فِيهَا
+> عَمَلَ الرَّاغِـبِينَ.
 
 “He speaks about the life of this world as one who is an ascetic,
 however he acts in this world as if he is actively persuing the material
@@ -235,11 +215,7 @@ Answer: Islam has actually commanded all of us to struggle and has
 warned people about being lazy and reliant upon the society for
 financial assistance:
 
-<blockquote dir="rtl">
-  <p>
-مَلْعُونٌ مَنْ أَلْقى كَلَّهُ عَلى النَّاسِ.
-  </p>
-</blockquote>
+> مَلْعُونٌ مَنْ أَلْقى كَلَّهُ عَلى النَّاسِ.
 
 “Allah's mercy is removed from the person who becomes a burden upon
 others.”[^4]
@@ -249,11 +225,7 @@ some other people, “What does this young man do for a living?”  The
 people replied, “He (SwT)s unemployed.”  To this, the Prophet (S)
 replied:
 
-<blockquote dir="rtl">
-  <p>
-سَقَطَ مِنْ عَيْنِي.
-  </p>
-</blockquote>
+> سَقَطَ مِنْ عَيْنِي.
 
 “He has fallen out of my sight (I have no regard for him)!”
 
@@ -265,12 +237,8 @@ With this said, we see that the Prophet (S) and A\`immah (as) spoke
 about the lowliness of the material world since they wanted to bring a
 balance in life:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي لاَ أُوصِيكُمْ بِدَارِ الدُّنْـيَا فَإِنَّكُمْ بِهَا
-مُسْتَوْثِقُونَ…
-  </p>
-</blockquote>
+> إِنِّي لاَ أُوصِيكُمْ بِدَارِ الدُّنْـيَا فَإِنَّكُمْ بِهَا
+> مُسْتَوْثِقُونَ…
 
 “I do not advise you towards the life of the material world since
 without doubt all of you have a strong attraction to it. [Rather, I
@@ -297,11 +265,7 @@ In that world (the next life), the ruler shall be an authority who is
 not only Just, but also All-Powerful and there shall not be a single
 person who will be able to run away from His authority:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ يُمْكِنُ الْفِرَارُ مِنْ حُكُومَتِكَ…
-  </p>
-</blockquote>
+> وَ لاَ يُمْكِنُ الْفِرَارُ مِنْ حُكُومَتِكَ…
 
 “It is not possible to flee from Your authority.” (Du’a Kumayl)
 
@@ -314,12 +278,8 @@ Therefore, we see that we are placed in the presence of three things:
 3.  An authority to which there is no way to escape. His is an authority
 which the Qur\`an describes as being:
 
-<blockquote dir="rtl">
-  <p>
-…وَ إِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْـنَا بِهَا وَكَفى
-بِنَا حَاسِبِينَ
-  </p>
-</blockquote>
+> …وَ إِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْـنَا بِهَا وَكَفى
+> بِنَا حَاسِبِينَ
 
 …and though there be the weight of a grain of mustard seed (any deed -
 good or bad), (yet) We will bring it forth, and sufficient are We to
@@ -327,12 +287,8 @@ take account.”[^5]
 
 In another verse of the Qur\`an, we are told:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُ وَ مَنْ يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُ وَ مَنْ يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
 
 “Whoever has done an atom's weight of good shall see it; and whoever has
 done an atom's weight of evil shall see it.”[^6]
@@ -342,11 +298,7 @@ Allah (SwT), and all things will be taken account of!
 
 However, in relation to the next life, the Noble Qur\`an states:
 
-<blockquote dir="rtl">
-  <p>
-وَ امْـتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> وَ امْـتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
 
 ”(To the group of sinners, it shall be said): Get aside today, O' guilty
 ones!”[^7]
@@ -376,12 +328,8 @@ the person's deed of records is sealed.
 In speech number 230 in Nahj al-Balagha, the Commander of the Faithful,
 ‘Ali b. Abi Talib (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ عَنْ قَبِيحَ يَسْتَطِيعُونَ إِنْتِقَالاً وَ لاٌ فِي حَسَنِ
-يَسْتَطِيعُونَ إِزْدِيَاداً.
-  </p>
-</blockquote>
+> لاٌ عَنْ قَبِيحَ يَسْتَطِيعُونَ إِنْتِقَالاً وَ لاٌ فِي حَسَنِ
+> يَسْتَطِيعُونَ إِزْدِيَاداً.
 
 ”(In the next life) neither shall you be able to remove the bad deeds
 and sins, nor shall you have able to add to the good and righteous deeds
@@ -412,11 +360,7 @@ in our mind day and night.
  In addition, we see that in our daily Salat, we repeat the following
 line a minimum of ten times:
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 “Master of the Day of Judgment.”
 
@@ -426,11 +370,7 @@ description of the Resurrection Day. Therefore, it is with this Surah
 that a person can spiritually build himself. It is a Surah in which the
 second half contains the prayer:
 
-<blockquote dir="rtl">
-  <p>
-إِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> إِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
 
 “Keep us upon the straight path.”
 
@@ -520,5 +460,4 @@ firm on it, the soul would be able to develop such a power that at the
 time of the salat, one's entire presence of thought would be shut off to
 everything other than the One whom he is worshipping. [Pay attention to
 this point] (Tafsir-e-Namuna, vol. 14, pg. 204)
-
 

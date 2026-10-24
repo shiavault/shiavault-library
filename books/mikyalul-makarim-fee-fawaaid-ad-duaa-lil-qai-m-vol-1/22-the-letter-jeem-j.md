@@ -15,12 +15,8 @@ a covenant to me that nine Imams will emerge from the loins of Husain
 and the ninth of them will disappear from the public and he it is about
 whom Allah, the Mighty and the Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
-بِمَاءٍ مَعِينٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
+> بِمَاءٍ مَعِينٍ
 
 ***“Say: Have you considered if your water should go down, who is it
 then that will bring you flowing water?” (Qur’an, Surah Mulk 67:30)***
@@ -182,11 +178,7 @@ this possibility is a tradition that shall appear in the chapter of the
 be due to the fact that he will repel and drive away satans in the same
 way as the shooting star drives them away. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
-  </p>
-</blockquote>
+> إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
 
 ***“Except him who snatches off but once, then there follows him a
 brightly shining flame.” (Qur’an, Surah Saffat 37:10)***
@@ -216,12 +208,8 @@ sword, ‘*Zulfiqar’* would be with him.”[^13]
 
 From the same Imam (as) it is narrated that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ
-لِلَّهِ
-  </p>
-</blockquote>
+> وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ
+> لِلَّهِ
 
 ***“And fight with them until there is no more persecution and religion
 should be only for Allah.” (Qur’an, Surah Anfaal 8:39)***
@@ -313,11 +301,7 @@ It is mentioned in *Dua* Nudbah that:
 In the book, *Al-Muhajja* and other books it is narrated from Amirul
 Momineen Ali (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ
-  </p>
-</blockquote>
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ
 
 ***“So that it will be dominant over all religions.” (Qur’an, Surah
 Fath, 48:28)***
@@ -338,11 +322,7 @@ stored in shops. Till the *Jizyah* will be revoked and the cross shall
 be broken and the swine shall be killed and it is this point that is
 highlighted in the saying of the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***“…that He might cause it to prevail over all religions, though the
 polytheists may be averse.” (Qur’an, Surah Taubah 9:33)***
@@ -371,11 +351,7 @@ coming discussions, if Allah wills.
 
 In the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا
-  </p>
-</blockquote>
+> أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا
 
 ***“…wherever you are, Allah will bring you all together…” (Qur’an,
 Surah Baqarah 2:148)***
@@ -669,5 +645,4 @@ worldly matters. (The Author)
 [^30]: Kamaluddin; Vol. 2, Pg. 67
 
 [^31]: Kafi, Vol. 1, Pg. 25
-
 

@@ -7,12 +7,8 @@ who are perfect in knowledge and who fear the Quran are the Imams
 Ibne Mahyar has, through reliable sources, quoted Imam Baqir (a.s.)
 explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَالَّذِينَ آتَيْنَاهُمْ الْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَؤُلَاء
-مَنْ يُؤْمِنُ بِهِ.
-  </p>
-</blockquote>
+> فَالَّذِينَ آتَيْنَاهُمْ الْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَؤُلَاء
+> مَنْ يُؤْمِنُ بِهِ.
 
 ***(As to) those whom We gave the Book before it, they are believers in
 it. (Sura Qasas 28:52)***
@@ -25,11 +21,7 @@ that Ahle Imaan means some people of the tribe.
 Kulaini and others have, from many sources reported that in explanation
 of the Verse:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ.
-  </p>
-</blockquote>
+> بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ.
 
 ***Nay! these are clear communications in the breasts of those who are
 granted knowledge... (Sura Ankabut 29:49)***
@@ -56,12 +48,8 @@ for understanding the Quran properly.
 Ayyashi has, quoted Imam Sadiq (a.s.) as saying in the explanation of
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آتَيْنَاهُمْ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ
-أُوْلَئِكَ يُؤْمِنُونَ بِهِ.
-  </p>
-</blockquote>
+> الَّذِينَ آتَيْنَاهُمْ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ
+> أُوْلَئِكَ يُؤْمِنُونَ بِهِ.
 
 ***Those whom we have given the Book recite it as it should be recited
 and only they are the ones who have faith in it. (Sura Baqarah 2:21)***
@@ -71,11 +59,7 @@ That those who have been given the book are the Holy Imams (a.s.).[^1]
 Kulaini has, with reliable chains of narrators, quoted Imam Sadiq
 (a.s.), saying while explaining verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأُوحِيَ إِلَيَّ هَذَا الْقُرْآنُ لِأُنذِرَكُمْ بِهِ.
-  </p>
-</blockquote>
+> وَأُوحِيَ إِلَيَّ هَذَا الْقُرْآنُ لِأُنذِرَكُمْ بِهِ.
 
 ***This Quran has been revealed to me so that I may warn you through it.
 (Sura Anam 6:19)***
@@ -97,13 +81,9 @@ meanings and aims. But you can act upon the Clear verses and put only
 faith on the allegorical ones but you cannot act upon them. This is the
 word of Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ
-مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ وَمَا يَعْلَمُ
-تَأْوِيلَهُ إِلَّا اللَّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ.
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ
+> مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ وَمَا يَعْلَمُ
+> تَأْوِيلَهُ إِلَّا اللَّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ.
 
 ***Then as for those in whose hearts there is perversity they follow the
 part of it which is allegorical, seeking to mislead and seeking to give
@@ -147,12 +127,8 @@ it.
 Ali bin Ibrahim has said that Imam Sadiq (a.s.) while explaining the
 meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ أُوتُوا الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ
-عَلَى الْكَافِرِينَ.
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ أُوتُوا الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ
+> عَلَى الْكَافِرِينَ.
 
 ***The people of that group who have been given knowledge will say that
 today’s disgrace and adversity is for the deniers (disbelievers) (Sura
@@ -163,12 +139,8 @@ which reads ‘the group who have been given the knowledge are the Imams
 
 Similarly, while explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنزِلَ إِلَيْكَ مِنْ
-رَبِّكَ هُوَ الْحَقَّ.
-  </p>
-</blockquote>
+> وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنزِلَ إِلَيْكَ مِنْ
+> رَبِّكَ هُوَ الْحَقَّ.
 
 ***Those who have been given knowledge know what, O Messenger, has been
 revealed to you from your Lord. (Sura Saba 34:6)***
@@ -200,11 +172,7 @@ so thoroughly as if they are the two palms of the hand. In the Holy
 Quran are the news of the earth and the heavens and the past and the
 future. The Almighty Allah says that it has:
 
-<blockquote dir="rtl">
-  <p>
-تِبْيَانًا لِكُلِّ شَيْءٍ.
-  </p>
-</blockquote>
+> تِبْيَانًا لِكُلِّ شَيْءٍ.
 
 ***A distinct explanation of all things. (Sura Yusuf 12:111)***
 
@@ -218,12 +186,8 @@ knowledge of the entire Book.
 It is also mentioned from true sources that Imam Baqir (a.s.) said that
 Muawiyah bin Ammar asked him the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلًا قُلْ كَفَى بِاللَّهِ
-شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ.
-  </p>
-</blockquote>
+> وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلًا قُلْ كَفَى بِاللَّهِ
+> شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ.
 
 ***And those who disbelieve say: You are not a messenger. Say: Allah is
 sufficient as a witness between me and you and whoever has knowledge of
@@ -245,11 +209,7 @@ night and which in the day. Hence we are the possessor of wisdom and
 intelligence from Allah and we are the witness of Allah on the creation
 and this is according to the words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-سَتُكْتَبُ شَهَادَتُهُمْ وَيُسْأَلُونَ.
-  </p>
-</blockquote>
+> سَتُكْتَبُ شَهَادَتُهُمْ وَيُسْأَلُونَ.
 
 ***Very soon we will write down their testimony and they will be asked.
 (Sura Zukhruf 43:19)***
@@ -298,5 +258,4 @@ Prophet (S) and the Holy Imams. In some narrations it is mentioned that
 Shias which means that when the Shias hear from their Imams who are
 perfect in knowledge the meaning of the allegorical verses, they testify
 to it and say: all this is from our Lord.
-
 

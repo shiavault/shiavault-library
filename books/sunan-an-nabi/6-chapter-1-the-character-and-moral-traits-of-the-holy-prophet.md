@@ -829,4 +829,3 @@ al-Mizan 6:311 – Surat al-Ma\`idah (5): 116-120
 
 [^54]: al-Kafi 2:85
 
-

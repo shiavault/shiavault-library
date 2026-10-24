@@ -82,4 +82,3 @@ As for that future abode, We assign it to those who have no desire to
 exalt themselves in the earth nor to make mischief and the good end is
 for those who guard against evil. (28:83)
 
-

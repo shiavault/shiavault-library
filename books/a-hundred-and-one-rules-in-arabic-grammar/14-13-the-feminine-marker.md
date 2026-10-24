@@ -13,12 +13,9 @@ adjectives **قديم/قديمة، جميل/جميلة** ** ** **،** **جدي
 However, you need to remember that the Taa' Marbuta (**ـة/ة** **)** is
 used in certain ancient Arabic male proper names such as:
 
-<p dir="rtl">
 **طلحة ، معاوية ، حمزة**
-</p>
 
 **Also, it is used on some broken plural patterns such as:**
 
 (giant ) **عملاق/عمالقة** **(** professor/s) **استاذ/استاذة**
-
 

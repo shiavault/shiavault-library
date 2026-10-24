@@ -74,4 +74,3 @@ The narrowness of the chest of a person who ascends in the sky means his
 incapability of breathing which was contrary to the prevalent concept
 about outer space at the time of Muhammad.
 
-

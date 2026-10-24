@@ -3,17 +3,9 @@ Sermon 47: O Kufah! It is as if I see you ...
 
 *About calamities befalling Kufah*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في ذكر الكوفة
-  </p>
-</blockquote>
+> في ذكر الكوفة
 
 O Kufah, as though I see you being drawn like the tanned leather of
 \`Ukazi[^1] in the market, you are being scraped by calamities and being
@@ -21,14 +13,10 @@ ridden by severe troubles. I certainly[^2] know that if any tyrant
 intends evil for you Allah will afflict him with worry and fling him
 with a killer (set someone on him to kill him).
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّي بِكِ يَاكُوفَةُ تُمَدِّينَ مَدَّ الاْدَيمِ الْعُكَاظِيِّ،
-تُعْرَكِينَ بِالنَّوَازِلِ، وَتُرْكَبِينَ بِالزَّلاَزِلِ، وَإِنَّي
-لاَعْلَمُ أَنَّهُ مَاأَرَادَ بِكِ جَبَّارٌ سُوءاً إِلاَّ ابْتَلاَهُ
-اللهُ بِشَاغِل، وَرَمَاهُ بِقَاتِل!
-  </p>
-</blockquote>
+> كَأَنَّي بِكِ يَاكُوفَةُ تُمَدِّينَ مَدَّ الاْدَيمِ الْعُكَاظِيِّ،
+> تُعْرَكِينَ بِالنَّوَازِلِ، وَتُرْكَبِينَ بِالزَّلاَزِلِ، وَإِنَّي
+> لاَعْلَمُ أَنَّهُ مَاأَرَادَ بِكِ جَبَّارٌ سُوءاً إِلاَّ ابْتَلاَهُ
+> اللهُ بِشَاغِل، وَرَمَاهُ بِقَاتِل!
 
 Alternative Sources for Sermon 47
 ---------------------------------
@@ -60,5 +48,4 @@ pain. \`Umar ibn Hubayrah al-Fazari died of leucoderma. Khalid ibn
 \`Abdillah al-Qasri suffered the hardships of prison and was killed in a
 very bad way. Mus\`ab ibn az-Zubayr and Yazid ibn al-Muhallab ibn Abi
 Sufrah were also killed by swords.
-
 

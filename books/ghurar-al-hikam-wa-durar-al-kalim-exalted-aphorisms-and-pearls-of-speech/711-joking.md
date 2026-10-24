@@ -20,4 +20,3 @@ considered just another of his jokes].
 
 > 4ـ مَنْ غَلَبَ عَلَيْهِ الهَزْلُ فَسَدَ عَقْلُهُ.
 
-

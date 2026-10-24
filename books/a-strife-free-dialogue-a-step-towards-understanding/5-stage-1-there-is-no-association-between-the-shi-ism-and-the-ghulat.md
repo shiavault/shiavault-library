@@ -1725,4 +1725,3 @@ into account for unity among Muslims.
 
 [^54]: Al-Islām, ‘Aqīdah wa Sharī‘ah, pp. 74-76.
 
-

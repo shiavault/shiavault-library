@@ -201,4 +201,3 @@ p. 180, Nafasul Mahmoom, p 307.
 [^11]: Imam Husayn (a.s.) & Tragic Saga of Karbala, p. 168, Nafasul
 Mahmoom, p. 307.
 
-

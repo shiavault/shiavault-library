@@ -65,7 +65,6 @@ them, if they want to know what it is; and she would be glad to put the
 "key" in their hands, if they would seek it from her. May Allah bless
 Khadija and her family.
 
-
 **Chapter I : Makka in the Sixth Century**
 
 Makka in the sixth century AD. was an important emporium in Arabia. It
@@ -135,7 +134,6 @@ Makka. Therefore, the caravan traffic in Makka was quite brisk.
 The caravans varied in size. They ranged from "local" caravans of as
 few as ten camels to "international" caravans of as many as thousands of
 camels. The organization of caravans was a major industry in Arabia.
-
 
 **Chapter 2 : Early Life of Khadija tul Kubra (R)**
 
@@ -310,7 +308,6 @@ his contempt for the idols and the idolaters. She did not associate any
 partner(s) with the Creator. Like Waraqa and some other members of the
 family, she too was a follower of the prophets Ibrahim and Ismael.
 
-
 **Khadija was a Muwahhid (monotheist)!**
 
 What Khadija did not know at this time was that within a few years, her
@@ -402,5 +399,4 @@ could not answer. But her destiny knew the answer; she would marry a man
 who was not only the best in all Arabia but was also the very best in
 all creation. It was her destiny which prompted her to turn down offers
 of marriage sent by commonplace mortals.
-
 

@@ -329,4 +329,3 @@ A: Yes, it is permissible for you to eat it and there is no need to ask
 the owner of the restaurant about it, just as there is no need to ask
 about the religion of the employees in the restaurant. (FM, p. 414)
 
-

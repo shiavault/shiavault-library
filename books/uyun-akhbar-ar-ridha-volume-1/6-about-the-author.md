@@ -229,4 +229,3 @@ born, and the day he dies, and the day he is resurrected.’
 
 [^3]: The father of the author of this book.
 
-

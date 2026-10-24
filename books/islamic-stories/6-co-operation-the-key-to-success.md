@@ -44,4 +44,3 @@ Prophet went and brought firewood from the forest;
 This is one of the examples set by the Prophet of Islam on co-operation
 and working together for a common good.
 
-

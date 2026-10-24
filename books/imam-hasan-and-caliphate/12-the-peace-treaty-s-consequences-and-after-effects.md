@@ -423,4 +423,3 @@ Babi, 1962, vol.16, p.18.
 [^11]: Baladhuri - 'Ansab al Ashraf', vol. 3 p.47; Ibn. Athir - 'Al
 Kamil fi al Tarikh, Beirut: Dar Ahya al..., 1989, vol. 2, p.446.
 
-

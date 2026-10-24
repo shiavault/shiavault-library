@@ -26,7 +26,7 @@ authority on you. And when he commands our commands and prohibits our
 prohibitions and he is not obeyed, it is as if the commands of Allah
 were considered unimportant. And we have been denied. And one who denies
 us has denied Allah. Such that he shall be in the limits of having
-associated with Allah.”<sup>[1]</sup>
+associated with Allah.”[1]
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ told him:
 search among yourselves and see if you can find one who is knowledgeable
 about our judgments and solutions to religious problems. Make him a
 judge among yourselves. Because I have appointed him as a judge. So take
-your cases to him.”<sup>[1]</sup>
+your cases to him.”[1]
 
 On the basis of this we can say that Imam Ja'far Sadiq (a.s) has
 appointed the just jurisprudent as the general authority and the point
@@ -68,7 +68,7 @@ qualities:
 [1] Wasaelush Shia, Kitabul Qaza
 
 1. Adulthood 2. Sanity 3. Justice 4. Man 5. Knowledge of Jurisprudence
-6. Independence (according to some narrations.<sup>[1]</sup>
+6. Independence (according to some narrations.[1]
 
 ### Responsibilities of the Religious Jurisprudent
 

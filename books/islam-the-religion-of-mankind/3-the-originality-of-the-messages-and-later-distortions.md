@@ -334,4 +334,3 @@ the Church. Says the Encyclopaedia Brittanica, "Some of the futurist
 sayings, if taken by themselves, raise the question whether Jesus
 intended to found a Church."(Vol. 4, p.535).
 
-

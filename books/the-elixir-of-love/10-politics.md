@@ -84,12 +84,8 @@ these crimes to secure his kingdom'."
 
 In Nahjul-Balagha, Imam Ali (a) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-الراضي بفعل قوم كالداخل فيه معهم، وعلى كل داخل في باطل أثمان: أثم
-العمل به، وأثم الرضا به
-  </p>
-</blockquote>
+> الراضي بفعل قوم كالداخل فيه معهم، وعلى كل داخل في باطل أثمان: أثم
+> العمل به، وأثم الرضا به
 
 "Whoever is content with conducts of some other people, he is like the
 one who has collaborated with them in those actions; and whoever
@@ -121,5 +117,4 @@ gone through much trouble because of him.
 [^1]: Mizan al-Hikmah, VIII, 3714: 12748.
 
 [^2]: This interview took place on July I, 1996.
-
 

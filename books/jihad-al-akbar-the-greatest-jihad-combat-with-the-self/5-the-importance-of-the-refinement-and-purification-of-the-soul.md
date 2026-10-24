@@ -332,4 +332,3 @@ followers of the Prophet’s Progeny [Ahl al-Bayt] (‘a) as epitomized by
 the tragedy in Karbala (61 AH) during the reign of Mu‘awiyah’s son and
 second Umayyad caliph, Yazid. (Pub.)
 
-

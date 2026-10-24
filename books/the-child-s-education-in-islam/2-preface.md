@@ -47,4 +47,3 @@ will benefit from the modern facts.
 
 {And from Him the most High we obtain help and settlement}
 
-

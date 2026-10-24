@@ -68,4 +68,3 @@ apparent contradiction that exists between Hakim and Zahabi's words.
 
 [^3]: - Ibid, vol. 3, p. 109, tradition, no. 4551.
 
-

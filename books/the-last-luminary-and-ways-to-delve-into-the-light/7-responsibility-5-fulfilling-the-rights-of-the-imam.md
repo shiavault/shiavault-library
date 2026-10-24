@@ -14,11 +14,7 @@ In regards to this responsibility, there are numerous traditions which
 have been mentioned. Since it is not possible to narrate all of them, we
 suffice with one tradition from the Infallibles which states:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِلٌّهِ تَعَالـى مِنْ حَقٍّ فَهُوَ لَنَا
-  </p>
-</blockquote>
+> مَا كَانَ لِلٌّهِ تَعَالـى مِنْ حَقٍّ فَهُوَ لَنَا
 
 “Any right or privilege which belongs to Allah, the Most High, is also a
 privilege that belongs to us (the Ahlul Bayt).”[^1]
@@ -26,5 +22,4 @@ privilege that belongs to us (the Ahlul Bayt).”[^1]
 [^1]: Mikyal al-Makarim, vol. 2, pg. 282; in Biharul Anwar, vol. 27, pg.
 314, sec. 9, no. 11 it is mentioned with a slight variation in the
 wording.
-
 

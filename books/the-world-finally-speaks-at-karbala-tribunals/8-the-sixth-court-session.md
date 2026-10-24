@@ -475,4 +475,3 @@ fighting officially began!
 Chief Justice: Court is adjourned today and will resume tomorrow at
 10AM. Thank you. Court is dismissed.
 
-

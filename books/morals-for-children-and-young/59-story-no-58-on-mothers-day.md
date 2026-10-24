@@ -15,4 +15,3 @@ of Duas).
  Finally, Shareef bought his mother a Quran and Azadeh gifted her with a
 Mafatih.
 
-

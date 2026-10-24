@@ -163,7 +163,6 @@ history contains a great deal of instructive lessons for us.
 
 [^1] Sura Ash-Shu'ara-, No. 26, verse 44
 
-
 **Commentary : Verse 11**
 
 (11) وَاللَّهُ خَلَقَكُم مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ
@@ -323,5 +322,4 @@ the first time, is He not able to revive men?
 And does He, Who is aware of the minutes of these laws, have any
 difficulty in protecting and reckoning of the deeds of people in the
 scene of Resurrection?
-
 

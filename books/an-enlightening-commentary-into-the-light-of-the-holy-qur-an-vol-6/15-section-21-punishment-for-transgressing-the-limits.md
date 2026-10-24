@@ -4,14 +4,10 @@ Section 21: Punishment For Transgressing the Limits
 Surah al-‘Araf – Verse 163
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسْاَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ
-يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ
-سَبْتِهِمْ شُرَّعاً وَيَوْمَ لاَيَسْبِتُونَ لاَتَأْتِيهِمْ كَذَلِكَ
-نَبْلُوهُم بِمَا كَانُوا يَفْسُقُونَ
-  </p>
-</blockquote>
+> وَسْاَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ
+> يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ
+> سَبْتِهِمْ شُرَّعاً وَيَوْمَ لاَيَسْبِتُونَ لاَتَأْتِيهِمْ كَذَلِكَ
+> نَبْلُوهُم بِمَا كَانُوا يَفْسُقُونَ
 
 **163*****. “And (O Muhammad) ask them about the town that was by the
 sea, when they exceeded (the limits) of the Sabbath when their fish came
@@ -56,13 +52,9 @@ liquor’ (nabith), ‘bribery’ with present, and ‘usury’ with
 Surah al-‘Araf – Verse 164
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَتْ اُمَّةٌ مِنْهُمْ لِمَ تَعِظُونَ قَوْماً اللّهُ
-مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَاباً شَدِيداً قَالُوا مَعْذِرَةً
-إِلَى رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ
-  </p>
-</blockquote>
+> وَإِذْ قَالَتْ اُمَّةٌ مِنْهُمْ لِمَ تَعِظُونَ قَوْماً اللّهُ
+> مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَاباً شَدِيداً قَالُوا مَعْذِرَةً
+> إِلَى رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ
 
 **164*****. “And (remember) when a group of them said: ‘Why do you
 admonish a people whom Allah will destroy or punish with a severe
@@ -116,20 +108,12 @@ verse concludes:
 Surah al-‘Araf – Verses 165-166
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا نَسُوا مَاذُكِّرُوا بِهِ أَنْجَيْنَا الَّذِينَ يَنْهَوْنَ
-عَنِ السُّوءِ وَأَخَذْنَا الَّذِينَ ظَلَمُوا بِعَذَابٍ بَئِيسٍ بِمَا
-كَانُوا يَفْسُقُونَ
-  </p>
-</blockquote>
+> فَلَمَّا نَسُوا مَاذُكِّرُوا بِهِ أَنْجَيْنَا الَّذِينَ يَنْهَوْنَ
+> عَنِ السُّوءِ وَأَخَذْنَا الَّذِينَ ظَلَمُوا بِعَذَابٍ بَئِيسٍ بِمَا
+> كَانُوا يَفْسُقُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا عَتَوْا عَن مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً
-خَاسِئِينَ
-  </p>
-</blockquote>
+> فَلَمَّا عَتَوْا عَن مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً
+> خَاسِئِينَ
 
 **165*****. “So when they forgot what they were reminded of, We
 delivered those who forbade evil and seized those who were unjust with a
@@ -177,13 +161,9 @@ so that there could appear no generation from them later.
 Surah al-‘Araf – Verse 167
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ تَاَذَّنَ رَبُّكَ لَيَبْعَثَنَّ عَلَيْهِمْ إِلَى يَوْمِ
-الْقِيَامَةِ مَن يَسُومُهُمْ سُوءَ الْعَذَابِ إِنَّ رَبَّكَ لَسَرِيعُ
-الْعِقَابِ وإِنَّهُ لَغَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> وإِذْ تَاَذَّنَ رَبُّكَ لَيَبْعَثَنَّ عَلَيْهِمْ إِلَى يَوْمِ
+> الْقِيَامَةِ مَن يَسُومُهُمْ سُوءَ الْعَذَابِ إِنَّ رَبَّكَ لَسَرِيعُ
+> الْعِقَابِ وإِنَّهُ لَغَفُورٌ رَحِيمٌ
 
 **167*****. “And (remember) when your Lord proclaimed that He would
 surely send against them, until the Day of Resurrection, those who would
@@ -218,13 +198,9 @@ adversity, retribution, and chastisement has been assigned for them.
 Surah al-‘Araf – Verse 168
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَطَّعْنَاهُمْ فِي الاَرْضِ اُمَماً مِنْهُمُ الصَّالِحُونَ
-وَمِنْهُمْ دُونَ ذَلِكَ وَبَلَوْنَاهُم بِالْحَسَنَاتِ وَالسَّيِّئَاتِ
-لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَقَطَّعْنَاهُمْ فِي الاَرْضِ اُمَماً مِنْهُمُ الصَّالِحُونَ
+> وَمِنْهُمْ دُونَ ذَلِكَ وَبَلَوْنَاهُم بِالْحَسَنَاتِ وَالسَّيِّئَاتِ
+> لَعَلَّهُمْ يَرْجِعُونَ
 
 **168*****. “And We dispersed them into communities on the earth, some
 of them being righteous, and some of them otherwise, and We tried them
@@ -248,15 +224,11 @@ things and bad things that they might return.”***
 Surah al-‘Araf – Verse 169
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ وَرِثُوا الْكِتَابَ يَأْخُذُونَ عَرَضَ
-هَذَا الاَدْنَى وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ
-مِثْلُهُ يَأْخُذُوهُ اَلَمْ يُؤْخَذْ عَلَيْهِمْ مِيثَاقُ الْكِتَابِ
-اَن لاَيَقُولُوا عَلَى اللّهِ إِلاَّ الْحَقَّ وَدَرَسُوا مَا فِيهِ
-وَالدَّارُ الاَخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ أَفَلا تَعْقِلُونَ
-  </p>
-</blockquote>
+> فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ وَرِثُوا الْكِتَابَ يَأْخُذُونَ عَرَضَ
+> هَذَا الاَدْنَى وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ
+> مِثْلُهُ يَأْخُذُوهُ اَلَمْ يُؤْخَذْ عَلَيْهِمْ مِيثَاقُ الْكِتَابِ
+> اَن لاَيَقُولُوا عَلَى اللّهِ إِلاَّ الْحَقَّ وَدَرَسُوا مَا فِيهِ
+> وَالدَّارُ الاَخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ أَفَلا تَعْقِلُونَ
 
 **169*****. “Then there succeeded after them (an evil) posterity (who)
 inherited the Book (Turah), taking the transitory goods of this lower
@@ -329,12 +301,8 @@ perceive those facts that are so clear. Here is the words of the Qur’ān:
 Surah al-‘Araf – Verse 170
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُمَسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلاَةَ إِنَّا
-لانُضِيعُ اَجْرَ الْمُصْلِحِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُمَسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلاَةَ إِنَّا
+> لانُضِيعُ اَجْرَ الْمُصْلِحِينَ
 
 **170*****. “And those who hold fast to the Book and establish the
 prayer, verily We do not waste the reward of the reformers.”***
@@ -364,13 +332,9 @@ concepts which are gathered in the vast meaning of the term ‘reform’.
 Surah al-‘Araf – Verse 171
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّوا
-أَنَّهُ وَاقِعٌ بِهِمْ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا
-مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> وَإِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّوا
+> أَنَّهُ وَاقِعٌ بِهِمْ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا
+> مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
 **171*****. “And (remember) when We plucked the mountain (and held it)
 above them as if it were a canopy, and they supposed it was about to
@@ -417,5 +381,4 @@ Majma‘-ul-Bayān)
 
 [^3]: The Arabic term /‘arad/ means any capital or property, but the
 term /‘ard/ means only the money which is in cush.
-
 

@@ -27,4 +27,3 @@ empirical phenomena. The rejection of primary rational knowledge, which
 is independent of experience, makes it impossible to go beyond the stage
 of sense-perception.
 
-

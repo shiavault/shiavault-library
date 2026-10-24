@@ -3,12 +3,8 @@ Lesson One Hundred Six: Six Flaws Not Found In Believers
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-سِتَّةٌ لا تَكُونُ فِى مُؤْمِن: اَلْعُسْرُ وَ النَّكْدُ وَ الْحَسَدُ
-وَ الْلَّجاجَةُ وَ الْكِذْبُ وَ الْبَغْىُ
-  </p>
-</blockquote>
+> سِتَّةٌ لا تَكُونُ فِى مُؤْمِن: اَلْعُسْرُ وَ النَّكْدُ وَ الْحَسَدُ
+> وَ الْلَّجاجَةُ وَ الْكِذْبُ وَ الْبَغْىُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ believers .
 [^1]: Wasa'il Al-Shia, vol 15, page 349. Aalamu Al-Deen, page 129.
 Tuhaful Uqul, page 377. Al-Khisal, vol 1, page 325. Al-Mahasin, vol 1,
 page 158.
-
 

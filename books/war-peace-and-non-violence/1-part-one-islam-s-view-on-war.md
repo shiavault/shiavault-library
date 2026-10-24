@@ -54,7 +54,6 @@ The Holy Qur'an supports this in the following verse:
 possible that you dislike a thing that is good for you and that you 1
 The Holy Qur'a n: The Heifer (2): 251.
 
-
 love a thing that is bad for you. Allah knoweth and you knoweth not.} 2
 On the surface, this verse shows that if fighting were a natural thing
 then Allah would not have said: {thoug h ye dislike it.}. Therefore, war
@@ -453,5 +452,4 @@ great number of different types of scholars who are the axis of the
 progress of the civilisation can become taken up by the war. Certain
 newspapers have mentioned that Egypt lost ten thousand engineers,
 experts and doctors when the Israeli Bar-Levi line was destroyed.
-
 

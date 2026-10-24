@@ -410,7 +410,6 @@ what You have taught us. You are
 the All-Knowing, the All-Wise."
 (Qur'an, 2:32)
 
-
 **Notes**
 
 1. Yrd. Doc. Dr. Orhan Atalay, Dogu-Bati Kaynaklarinda Birlikte Yasama
@@ -611,5 +610,4 @@ nationality, for they focus on one objective: to broaden the readers'
 perspective by encouraging them to think about a number of critical
 issues, such as the existence of God and His unity, and to live by the
 values He prescribed for them.
-
 

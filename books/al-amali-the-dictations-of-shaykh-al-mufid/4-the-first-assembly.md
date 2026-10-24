@@ -311,4 +311,3 @@ is true, then Allah loves you, and He does not prevent your
 transformation except that you may fear him (more by being mindful, and
 not conceited)."
 
-

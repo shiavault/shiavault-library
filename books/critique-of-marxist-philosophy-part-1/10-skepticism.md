@@ -134,4 +134,3 @@ not altogether a sophist. Objectivity for him lies within the inner
 realm of experience. Knowledge, he would say in reply to al-Sadr, is
 indeed revelatory, but revelatory of that which is within this realm.
 
-

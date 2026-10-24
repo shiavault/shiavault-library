@@ -6,12 +6,8 @@ interest and cordiality between spouses represents a sublime
 manifestation of the Divine Will and Purpose. This is discernible in the
 Qur’anic verse cited below:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
-لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
+> لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
 
  
 
@@ -167,11 +163,7 @@ spirituality, but is evidenced as part of the nature and temperament of
 the prophets. According to one tradition *(hadith),* love and affection
 for women were characteristic of the moral conduct of the prophets:
 
-<blockquote dir="rtl">
-  <p>
-من اخلاق الانبياء حب النساء
-  </p>
-</blockquote>
+> من اخلاق الانبياء حب النساء
 
 “It is part of the morals of the prophets the love for women..” [^5]  
     
@@ -233,5 +225,4 @@ Ltd., London, Paperbacks Ed. 1976, p.p. 35.
 Ltd., London, Paperbacks Ed. 1976, p.p. 175-176
 
 [^5]: Wasail, vol.3, p. 3
-
 

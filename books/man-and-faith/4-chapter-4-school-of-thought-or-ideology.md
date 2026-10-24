@@ -431,4 +431,3 @@ with them the Book and a criterion so that people may observe justice."
 (Surah al-Hadid, 57:25) "Say: My Lord has ordered me to be fair." (Surah
 al-A'raf, 7:29)
 
-

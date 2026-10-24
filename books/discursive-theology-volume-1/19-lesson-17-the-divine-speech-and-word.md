@@ -36,12 +36,8 @@ On this basis, the Holy Qur’an, as the word of God, is created and
 contingent. Qur’anic verses clearly indicate the word of God is
 contingent:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنْ رَبِّهِمْ مُحْدَثٍ إِلا
-اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ مَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنْ رَبِّهِمْ مُحْدَثٍ إِلا
+> اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ ﴾
 
 ***“There does not come to them any new reminder from their Lord but
 they listen to it as they play around.”***[^3]
@@ -49,11 +45,7 @@ they listen to it as they play around.”***[^3]
 What is meant by ‘reminder’ (*dhikr*) in this verse is the Holy Qur’an,
 as another verse has thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴾
 
 ***“Indeed We have sent down the Reminder and indeed We will preserve
 it.”***[^4]
@@ -67,12 +59,8 @@ indestructible, let alone having in need of any protection.
 
 And in another place, it is thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّى
-يَسْمَعَ كَلاَمَ اللّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّى
+> يَسْمَعَ كَلاَمَ اللّهِ ﴾
 
 ***“If any of the polytheists seeks asylum from you, grant him asylum
 until he hears the Word of Allah.”***[^5]
@@ -160,12 +148,8 @@ of the latter case.
 The following holy verse is also quoted to substantiate of the
 “intrinsic word”:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَقُولُونَ فِي أَنْفُسِهِمْ لَوْلا يُعَذِّبُنَا اللَّهُ بِمَا
-نَقُولُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَقُولُونَ فِي أَنْفُسِهِمْ لَوْلا يُعَذِّبُنَا اللَّهُ بِمَا
+> نَقُولُ ﴾
 
 ***“And they say to themselves, ‘Why does not Allah punish us for what
 we say?!’”***[^10]
@@ -173,12 +157,8 @@ we say?!’”***[^10]
 In this regard, they have also cited the couplet of Al-Akhṭāl[^11] below
 [^12]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْكَلامَ لَفِي الْفُؤادِ وَإنَّما جَعَلَ اللِّسانَ عَلَى
-الْفُؤادِ دَليلاً
-  </p>
-</blockquote>
+> إنَّ الْكَلامَ لَفِي الْفُؤادِ وَإنَّما جَعَلَ اللِّسانَ عَلَى
+> الْفُؤادِ دَليلاً
 
 Yet, such usages are metaphorical and not real and their implication is
 nothing except mental conceptions and psychic perceptions, and in no way
@@ -203,11 +183,7 @@ qualities. On this basis, it can be said that the universe which is an
 Action and a creation of God expresses His existence and Attributes of
 Perfection. Therefore, the universe is a Word of God.
 
-<blockquote dir="rtl">
-  <p>
-فَالْكُلُّ بِالذّاتِ لَهُ دِلالَةٌ حاكِيَةٌ جماله، جلاله
-  </p>
-</blockquote>
+> فَالْكُلُّ بِالذّاتِ لَهُ دِلالَةٌ حاكِيَةٌ جماله، جلاله
 
 *So everything essentially denotes Him,*
 
@@ -224,11 +200,7 @@ speech:
 quote here a Qur’anic verse about God’s interlocution with Prophet Mūsā
 (Moses) (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَكَلَّمَ اللَّهُ مُوسَى تَكْلِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَكَلَّمَ اللَّهُ مُوسَى تَكْلِيمًا ﴾
 
 ***“And to Moses Allah spoke directly.”***[^14]
 
@@ -240,37 +212,25 @@ and in this way, God imparted some truths to him.[^15]
 2. The Holy Qur’an has named the Holy Messiah (*‘a*) “Word of Allah”
 (*kalimat Allāh*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ
-وَكَلِمَتُهُ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ
+> وَكَلِمَتُهُ ﴾
 
 ***“The Messiah, Jesus son of Mary, was only an apostle of Allah, and
 His Word.”***[^16]
 
 3. The Divine decree is also another kind of God’s word:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَتَمَّتْ كَلِمَةُ رَبِّكَ الْحُسْنَى عَلَى بَنِي إِسْرَائِيلَ بِمَا
-صَبَرُوا ﴾
-  </p>
-</blockquote>
+> ﴿ وَتَمَّتْ كَلِمَةُ رَبِّكَ الْحُسْنَى عَلَى بَنِي إِسْرَائِيلَ بِمَا
+> صَبَرُوا ﴾
 
 ***“And your Lord’s best word [of promise] was fulfilled for the
 Children of Israel because of their patience.”***[^17]
 
 4. Imām ‘Alī (*‘a*) has regarded the word of God as His action, saying:
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ لِمَنْ أَرَادَ كَوْنَهَ: »كُنْ« فَيَكُونُ لاَ بِصَوْتٍ
-يَقْرَعُ وَلَا بِنِدَاءٍ يُسْمَعُ وَإِنَّمَا كَلَامُهُ سُبْحَانَهُ
-فِعْلٌ مِنْهُ أَنْشَأَهُ وَمَثَّلَهُ.
-  </p>
-</blockquote>
+> يَقُولُ لِمَنْ أَرَادَ كَوْنَهَ: »كُنْ« فَيَكُونُ لاَ بِصَوْتٍ
+> يَقْرَعُ وَلَا بِنِدَاءٍ يُسْمَعُ وَإِنَّمَا كَلَامُهُ سُبْحَانَهُ
+> فِعْلٌ مِنْهُ أَنْشَأَهُ وَمَثَّلَهُ.
 
 “When He intends to create someone He says, ‘Be’ and there he is, but
 not through a voice that strikes [the ears] is that call heard. His
@@ -292,13 +252,9 @@ sometimes used to mean artificial word or speech, some great religious
 personalities have not permitted the application of the word *makhlūq*
 to the Qur’an. For instance, Shaykh al-Mufīd has said:
 
-<blockquote dir="rtl">
-  <p>
-أَقُولُ أَنَّ الْقُرْآنَ كَلَامُ اللهِ، وَاَنَّهُ مُحْدَثٌ كَمَا
-وَصْفَهُ اللهُ تَعَالىٰ وَ اَمْنَعُ مِنْ أِطْلاقِ القَولِ عَلَيهِ
-بِأَنّهُ مَخْلوقٌ.
-  </p>
-</blockquote>
+> أَقُولُ أَنَّ الْقُرْآنَ كَلَامُ اللهِ، وَاَنَّهُ مُحْدَثٌ كَمَا
+> وَصْفَهُ اللهُ تَعَالىٰ وَ اَمْنَعُ مِنْ أِطْلاقِ القَولِ عَلَيهِ
+> بِأَنّهُ مَخْلوقٌ.
 
 “I say that the Qur’an is indeed the Word of Allah, and it is indeed
 contingent as Allah, the Exalted, has described it, and I do not permit
@@ -326,12 +282,8 @@ view about the contingency of the Qur’an and the Word of God.
 Rabbān ibn Ṣalt asked Imām al-Riḍā (*‘a*), “What do you say about the
 Qur’an?” In reply, the Imām (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-كَلَامُ اللهِ لَا تَتَجَاوَزُوهُ وَلَا تَطْلُبُوا الهُدَى في غَيْرِهِ
-فَتَضِلّوا.
-  </p>
-</blockquote>
+> كَلَامُ اللهِ لَا تَتَجَاوَزُوهُ وَلَا تَطْلُبُوا الهُدَى في غَيْرِهِ
+> فَتَضِلّوا.
 
 “It is the Word of Allah. Do not violate it and do not seek guidance
 from other than it for you will be misguided.”[^20]
@@ -340,13 +292,9 @@ Muḥammad ibn ‘Īsā ibn ‘Ubayd has reported that in a letter about the
 contingency of the Qur’an, Imām al-Jawād (*‘a*) thus wrote to some of
 his followers in Baghdad:
 
-<blockquote dir="rtl">
-  <p>
-وَلَيْسَ الْخَالِقُ إلَّا اللهَ عَزَّ وَجَلَّ، وَمَا سِوَاهُ
-مَخْلُوقٌ، وَالْقُرْآنُ كَلَامُ اللهِ لَا تَجْعَلْ لَهُ اِسْمَاً مِنْ
-عِنْدَكَ فَتَكُونَ مِنَ الضّالّينَ.
-  </p>
-</blockquote>
+> وَلَيْسَ الْخَالِقُ إلَّا اللهَ عَزَّ وَجَلَّ، وَمَا سِوَاهُ
+> مَخْلُوقٌ، وَالْقُرْآنُ كَلَامُ اللهِ لَا تَجْعَلْ لَهُ اِسْمَاً مِنْ
+> عِنْدَكَ فَتَكُونَ مِنَ الضّالّينَ.
 
 “There is no creator other than Allah, the Glorious and Exalted, and
 anything other than Him is created, and the Qur’an is the Word of Allah.
@@ -366,11 +314,7 @@ other words, honesty and truthfulness are among the Attributes of
 Perfection, and God is entitled to all the existential perfections. As
 such, He is truthful. In this regard, the Holy Qur’an has thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثًا ﴾
 
 ***“And who is more truthful in speech than Allah?”***[^22]
 
@@ -449,5 +393,4 @@ Ayḍāḥ al-Ḥikmah, vol. 2, pp. 585-586.
 [^21]: Ibid., ḥadīth 4.
 
 [^22]: Sūrat al-Nisā’ 4:87.
-
 

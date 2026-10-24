@@ -195,11 +195,7 @@ when the man was ready to ejaculate, he did so outside of the woman so
 that the sperm would not fertilize the egg and this can be seen from the
 following Hadith:
 
-<blockquote dir="rtl">
-  <p>
-كنا نعزل وَ القرآن ينـزل
-  </p>
-</blockquote>
+> كنا نعزل وَ القرآن ينـزل
 
 *“We used to practice coitus interruptus while the Qur\`an was being
 revealed (during the time when the Prophet was alive and verses of the
@@ -250,17 +246,13 @@ question is the exact text of the Hadith from the book *Sahih Muslim*
 (Imam Abu al-Hasan Muslim ibn Hajjaj ibn Muslim Qashri) from volume 4 in
 the Hadith from Harun ibn Sa\`id al-Ayami:
 
-<blockquote dir="rtl">
-  <p>
-حدثني هارون بن سعيد الأيلي. حدثنا عبدالله بن وهب. أخبرني معاوية (يعني
-ابن صالح) عن علي بن أبي طلحة عن أبي الوداك، عن أبي سعيد الخدري. سمعه
-يقول: سئل رسول الله صلى الله عليه وسلم عن العزل ؟ فقال: ما من كل الماء
-يكون الولد. وإذا أراد الله خلق شيء لم يمنعه شيء. حدثني أحمد بن المنذر
-البصري. حدثنا زيد بن حباب. حدثنا معاوية. أخبرني علي بن أبي طلحة
-الهاشمي عن أبي الوداك، عن أبي سعيد الخدري، عن النبي صلى الله عليه
-وسلم. بمثله.
-  </p>
-</blockquote>
+> حدثني هارون بن سعيد الأيلي. حدثنا عبدالله بن وهب. أخبرني معاوية (يعني
+> ابن صالح) عن علي بن أبي طلحة عن أبي الوداك، عن أبي سعيد الخدري. سمعه
+> يقول: سئل رسول الله صلى الله عليه وسلم عن العزل ؟ فقال: ما من كل الماء
+> يكون الولد. وإذا أراد الله خلق شيء لم يمنعه شيء. حدثني أحمد بن المنذر
+> البصري. حدثنا زيد بن حباب. حدثنا معاوية. أخبرني علي بن أبي طلحة
+> الهاشمي عن أبي الوداك، عن أبي سعيد الخدري، عن النبي صلى الله عليه
+> وسلم. بمثله.
 
 Abi Sa\`id al-Khudri has said that he heard Abil Wadak say, *“The
 Messenger of Allah (blessings be upon him) was asked concerning coitus
@@ -268,15 +260,11 @@ interruptus (ejaculating outside of the woman) to which the Prophet
 replied, ‘A child is not brought forth from every sperm and when Allah
 intends to create a thing then nothing can prevent it.’”*
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن عبدالله بن يونس. حدثنا زهير. أخبرنا أبو الزبير عن جابر ؛
-أن رجلا أتى رسول الله صلى الله عليه وسلم فقال: إن لي جارية هي خادمنا
-وسانيتنا. وأنا أطوف عليها وأنا أكره أن تحمل. فقال: "اعزل عنها إن شئت.
-فإنه سيأتيها ما قدر لها" فلبث الرجل. ثم أتاه فقال: إن الجارية قد حبلت.
-فقال:"قد أخبرتك أنه سيأتيها ما قدر لها".
-  </p>
-</blockquote>
+> حدثنا أحمد بن عبدالله بن يونس. حدثنا زهير. أخبرنا أبو الزبير عن جابر ؛
+> أن رجلا أتى رسول الله صلى الله عليه وسلم فقال: إن لي جارية هي خادمنا
+> وسانيتنا. وأنا أطوف عليها وأنا أكره أن تحمل. فقال: "اعزل عنها إن شئت.
+> فإنه سيأتيها ما قدر لها" فلبث الرجل. ثم أتاه فقال: إن الجارية قد حبلت.
+> فقال:"قد أخبرتك أنه سيأتيها ما قدر لها".
 
 Jabir reported that a man came to Allah’s Messenger (may peace be upon
 him) and said: *“I have a slave-girl who serves me and refreshes me. I
@@ -287,13 +275,9 @@ The man went away (for some time) and then came to the Prophet and said,
 *“The slave-girl has become pregnant”*, whereupon the Prophet said:
 *“Certainly I informed you that she will get what was decreed for her.”*
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة وإسحاق بن إبراهيم (قال إسحاق: أخبرنا. وقال
-أبو بكر: حدثنا سفيان) عن عمرو، عن عطاء، عن جابر. قال: كنا نعزل والقرآن
-ينزل. زاد إسحاق: قال سفيان: لو كان شيئا ينهى عنه، لنهانا عنه القرآن.
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة وإسحاق بن إبراهيم (قال إسحاق: أخبرنا. وقال
+> أبو بكر: حدثنا سفيان) عن عمرو، عن عطاء، عن جابر. قال: كنا نعزل والقرآن
+> ينزل. زاد إسحاق: قال سفيان: لو كان شيئا ينهى عنه، لنهانا عنه القرآن.
 
 It has been narrated from \`Umru from \`Ata\` from Jabir that he said,
 *“We used to practice coitus interruptus (ejaculating outside of the
@@ -301,12 +285,8 @@ woman) while the Qur\`an was being revealed.” Ishaq added, ‘Sufyan has
 said, that if anything were to prevent us from acting in this way then
 it would have been the Qur\`an.”*
 
-<blockquote dir="rtl">
-  <p>
-وحدثني سلمة بن شبيب. حدثنا الحسن بن أعين. حدثنا معقل عن عطاء. قال:
-سمعت جابرا يقول: لقد كنا نعزل على عهد رسول الله صلى الله عليه وسلم.
-  </p>
-</blockquote>
+> وحدثني سلمة بن شبيب. حدثنا الحسن بن أعين. حدثنا معقل عن عطاء. قال:
+> سمعت جابرا يقول: لقد كنا نعزل على عهد رسول الله صلى الله عليه وسلم.
 
 It has been narrated from Ma\`qal from \`Ata that he said, *“I heard
 Jabir say, Surely we used to practice* *coitus interruptus* *during the
@@ -361,11 +341,7 @@ shown, we must state that: In the book, *“Al-Tajul Jami\`al Usul”*
 written by Shaikh Mansur \`Ali Nasif, Volume 2, page 238, it has been
 written:
 
-<blockquote dir="rtl">
-  <p>
-عن جابر قال: كنا نعزل على عهد رسول الله فبلغه ذلك فلم ينهنا.
-  </p>
-</blockquote>
+> عن جابر قال: كنا نعزل على عهد رسول الله فبلغه ذلك فلم ينهنا.
 
 Meaning that during the lifetime of the Messenger of Allah, when we used
 to have intercourse with our wives, we used to ejaculate outside of the
@@ -386,7 +362,6 @@ mentioned page of the book that it states:
 عَلـى إسقاط النطفة قبل نفخ الروح فيها فإن الحكمة في الكل وَ أحد لا وهي
 منع الحمل وَ الله أعلم
 
-  
 .
 
 This means: *Making use of medication to prevent pregnancy and even to
@@ -651,5 +626,4 @@ the Hanafi, Hanbali, Maliki and Shafi\`i.
 [^9]: Ibid., Page 167
 
 [^10]: Ibid., Page 238
-
 

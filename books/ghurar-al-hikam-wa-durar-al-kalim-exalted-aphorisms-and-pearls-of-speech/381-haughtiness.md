@@ -24,4 +24,3 @@ authority will get stripped away.
 [^1]: Meaning that one should not be haughty with those who are not his
 slaves.
 
-

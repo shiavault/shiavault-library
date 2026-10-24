@@ -104,4 +104,3 @@ Sumannah. She was the mother of our tenth Imam, Ali Naqi (A.S).
 According to Mufid, the Imam had one more son, named Musa and two
 daughters, Fatima and Imama.
 
-

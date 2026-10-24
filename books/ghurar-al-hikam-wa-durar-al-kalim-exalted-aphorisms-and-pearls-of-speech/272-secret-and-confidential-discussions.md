@@ -12,22 +12,14 @@ whoever proposes!
 one who may err nor to an ignorant one who may betray [your trust].
 
 > 2ـ اِنْفَرِدْ بِسِرِّكَ، وَلا تُودِعْهُ حازِماً فَيَزِلَّ، ولاجاهِلاً
-<blockquote dir="rtl">
-  <p>
-فَيَخُونَ.
-  </p>
-</blockquote>
+> فَيَخُونَ.
 
 3. The best secret discussion is that which is founded on religion and
 God-wariness, and is based on following the path of guidance and
 opposing vain desires.
 
 > 3ـ أفْضَلُ النَّجْوى، ماكانَ علَى الدّينِ والتُّقى، وأسْفَرَ عَنِ
-<blockquote dir="rtl">
-  <p>
-اتِّباعِ الهُدى، ومُخالَفَةِ الهَوى.
-  </p>
-</blockquote>
+> اتِّباعِ الهُدى، ومُخالَفَةِ الهَوى.
 
 4. Man is more protective of his secret.
 
@@ -47,11 +39,7 @@ betrayal.
 telltale and the fool.
 
 > 7ـ ثَلاثٌ لا يُسْتَوْدَعْنَ سِرّاً: المَرْأةُ، والنَّمّامُ،وَ
-<blockquote dir="rtl">
-  <p>
-الأحمَقُ.
-  </p>
-</blockquote>
+> الأحمَقُ.
 
 8. Your secret is a source of happiness for you if you conceal it but if
 you divulge it, it is your destruction.
@@ -71,11 +59,7 @@ prisoner.
 been entrusted to you, for indeed divulging [it] is betrayal.
 
 > 11ـ كُنْ بِأسْرارِكَ بَخيلاً، وَلا تُذِعْ سِرّاً أُودِعْتَهُ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-الإذاعَةَ خِيانَةٌ.
-  </p>
-</blockquote>
+> الإذاعَةَ خِيانَةٌ.
 
 12. Every time the keepers of secrets increase, [chances of] its
 divulgence becomes greater.
@@ -92,11 +76,7 @@ from the one who has revealed [another’s secret] to him and would not
 inform anyone of it.
 
 > 14ـ لَوْ عَقَلَ المَرْءُ عَقْلَهُ لأحْرَزَ سِـرَّهُ عَمَّنْ أفْشاهُ
-<blockquote dir="rtl">
-  <p>
-إلَيْهِ ولَمْ يُطْلِعْ أحَداً علَيهِ.
-  </p>
-</blockquote>
+> إلَيْهِ ولَمْ يُطْلِعْ أحَداً علَيهِ.
 
 15. One who reveals your secret has ruined your affair.
 
@@ -121,11 +101,7 @@ betrayed [a trust].
 keeping the secret of others.
 
 > 19ـ مَنْ ضَعُفَ عَنْ سِرِّهِ (شَرِّهِ) فَهُوَ عَنْ سِرِّ غَيْرِهِ
-<blockquote dir="rtl">
-  <p>
-أضْعَفُ.
-  </p>
-</blockquote>
+> أضْعَفُ.
 
 20. One who is too weak to protect his [own] secret will not be strong
 enough to protect the secret of others.
@@ -146,11 +122,7 @@ unaccommodating of it than him [by revealing it to him in the first
 place].
 
 > 23ـ مالُمْتُ أحَداً على إذاعَةِ سِـرّي إذْ كُنْتُ بِهِ أضْيَقَ
-<blockquote dir="rtl">
-  <p>
-(مِنْهُ).
-  </p>
-</blockquote>
+> (مِنْهُ).
 
 24. The basis of a secret is its concealment.
 
@@ -190,11 +162,6 @@ possible that you may regret [revealing it all to him] sometime in the
 future.
 
 > 31ـ إنِ اسْتَنَمْتَ إلى وَدُودِكَ فَأحْرِزْ لَهُ مِنْ أمْرِكَ
-<blockquote dir="rtl">
-  <p>
-واسْتَبْقِ لَهُ مِنْ سِرِّكَ ما لَعَلَّكَ أنْ تَنْدِمَ علَيْهِ وَقْتاً
-ما.
-  </p>
-</blockquote>
-
+> واسْتَبْقِ لَهُ مِنْ سِرِّكَ ما لَعَلَّكَ أنْ تَنْدِمَ علَيْهِ وَقْتاً
+> ما.
 

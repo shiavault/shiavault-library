@@ -37,4 +37,3 @@ best whom to entrust with His message. You and your father were the most
 hateful creatures of Allah to me. But now you and your father are the
 most beloved from among all the creatures of Allah to me.”
 
-

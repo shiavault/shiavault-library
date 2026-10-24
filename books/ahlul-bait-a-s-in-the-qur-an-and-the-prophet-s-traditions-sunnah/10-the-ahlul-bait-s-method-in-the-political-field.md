@@ -88,4 +88,3 @@ examplary of struggle for the sake of truth and who spent their best
 days between either being killed, poisoned, pursued on the earth or
 being punished in the darkness of prisons.
 
-

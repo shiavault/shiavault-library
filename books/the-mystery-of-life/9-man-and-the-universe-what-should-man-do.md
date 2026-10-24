@@ -55,9 +55,7 @@ or be oppressed, and always endeavors to help them develop. Man will
 never change without trying to change others, too. There is also a good
 deal of hadith supporting this:
 
-<p dir="rtl">
 من اصبح و لم يهتم بامور المسلمين فليس بمسلم
-</p>
 
 *“Muslim is not the one who wakes up in the morning without caring about
 other Muslims.”*
@@ -156,9 +154,7 @@ examples given above have no room for intuition, but if we look at
 scientific contact from a much higher point of view, intuition will also
 play its part. As Jalal-addin Muhammad Molawi says:
 
-<p dir="rtl">
 ذرّهها ديدم دهانشان جملـه باز گـر بگويم، خردشان گردد دراز
-</p>
 
 *I saw tiny, open-mouthed particles. If I were to tell you everything
 about them, it would take ages.*
@@ -209,17 +205,11 @@ creatures move toward a certain end.
 Here, man realizes that knowledge of the two above mentioned theorems is
 the effect of a universal wisdom that has been presented to us.
 
-<p dir="rtl">
 ای خدا ای خالق بی چند و چـون آگهـی از حــال بيــرون و درون
-</p>
 
-<p dir="rtl">
 قطرة دانش که بخشيدی ز پيش متصل گردان به درياهای خويش
-</p>
 
-<p dir="rtl">
 قطرة علـم است اندر جان مــن وا رهانـش از هـوی، وز خاک تن
-</p>
 
 *O God, O Indisputable, O Aware of all inside and out Creator! Connect
 the drop of knowledge you gave us to your seas. Free the drop of
@@ -284,10 +274,8 @@ reason for such reception in man is the unique sense of excitement and
 joy man feels when its basics are founded in him. No sound man would
 say:
 
-<p dir="rtl">
 به جهان خرّم از آنم که جهان خرّم از اوست عاشقم بر همه عالم که همه
 عالم از اوست
-</p>
 
 *I see the world lovely and beautiful because God, the most beautiful of
 all, has created it.*
@@ -410,13 +398,9 @@ himself should be a total master. In other words, the trainer must have
 achieved what he intends to provide his trainees with. As the renowned
 Philosopher Mirdamad is believed to have said:
 
-<p dir="rtl">
 ذات نايافته از هستی بخـش کی تواند که شود هستی بخـش
-</p>
 
-<p dir="rtl">
 خشک ابری که شود زآب تهی نآيــد از وی صفــت آبدهـی
-</p>
 
 *How can one who has not been blessed try to bless others? How can a dry
 cloud ever produce rain?*
@@ -486,5 +470,4 @@ bring about man's ultimate development and perfection. In this aspect,
 one can move on the path of divine attraction and reach intelligible
 life by means of belief in basic religious principles and observing its
 soul-developing mandates.
-
 

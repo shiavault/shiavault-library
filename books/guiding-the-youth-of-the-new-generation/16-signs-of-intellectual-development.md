@@ -25,24 +25,16 @@ assume that these questions are some how a form of following the lower
 desires.  Thus, when these things come about, we must immediately keep
 in mind the following verse of the Qurʾan:
 
-<blockquote dir="rtl">
-  <p>
-) إِنْ تُطِعْ أَكْثَرَ مَنْ فِي الأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ
- اللٌّهِ (
-  </p>
-</blockquote>
+> ) إِنْ تُطِعْ أَكْثَرَ مَنْ فِي الأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ
+>  اللٌّهِ (
 
 *“If you were to follow a majority of the people on the Earth then they
 would definitely misguide you from the path of Allah.”*[^1]*23*
 
 In addition, we read:
 
-<blockquote dir="rtl">
-  <p>
-) وَ لَوِ اتَّبَعَ الْحَقَّ أَهْــوٌائَهُمْ لَفَسَدَتِ  السَّمٌوٌاتِ
-وَ الأَرْضِ (
-  </p>
-</blockquote>
+> ) وَ لَوِ اتَّبَعَ الْحَقَّ أَهْــوٌائَهُمْ لَفَسَدَتِ  السَّمٌوٌاتِ
+> وَ الأَرْضِ (
 
 *“And if you were to follow their lower desires instead of the* *Haqq
 (Truth), then surely the Heavens and the Earth would have become
@@ -51,5 +43,4 @@ corrupt.”*[^2]*24*
 [^1]: Suratul An\`am (6), Verse 116
 
 [^2]: Suratul Mo’minun (23), Verse 71
-
 

@@ -1262,7 +1262,7 @@ Imam (‘a) turned to the city of peace so that he may remain safe and
 secure from the mischief and oppressions of the Umayyads.
 
 Historians say that His Eminence set out on the night of Sunday,
-28<sup>th</sup> Rajab**[1]** while consternation had fallen on the
+28th Rajab**[1]** while consternation had fallen on the
 people of Medina because they were seeing that the  
 
 ------------------------------------------------------------------------
@@ -1354,7 +1354,7 @@ the mountains of Mecca he recited the verse of Quran:
 
 **“And when he turned his face towards Madayan, he said: Maybe my Lord
 will guide me in the right
-path.”<sup>(</sup>[2]<sup>)(</sup>[3]<sup>)</sup>**
+path.”([2])([3])**
 
 The Hijrat of His Eminence to Mecca was like the Hijrat of Musa (‘a) to
 Madayan; because both of them had fled from the Firons of their time and

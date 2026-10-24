@@ -189,4 +189,3 @@ quoted from Ali ibn Ibrahim, who narrated from his father Hasan b.
 Ibrahim and he heard from Younus ibn Yaqub; and likewise in the book -
 Rejal- Kashi, have been quoted in the same manner - Najaf, Pg. 232.
 
-

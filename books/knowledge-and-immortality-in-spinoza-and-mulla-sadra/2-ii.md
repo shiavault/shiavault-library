@@ -224,4 +224,3 @@ world-whether it be good or evil, Paradise or Hell-is solely in his own
 essence, in such things as his intentions, thoughts, beliefs, and traits
 of character.[^25]
 
-

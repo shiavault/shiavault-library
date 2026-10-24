@@ -35,4 +35,3 @@ He said: "from their community".
 
 He (Q) said: "you have relieved me, may Allah relief you as well".
 
-

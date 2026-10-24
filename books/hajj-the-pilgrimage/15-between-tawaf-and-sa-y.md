@@ -200,4 +200,3 @@ wandering, struggling and thirst! Draw yourself into this flood of
 people. Try your best (to Sa'y) with the others. In the middle of your
 Sa'y at the level of Kaaba, "hurry up" along with the others.
 
-

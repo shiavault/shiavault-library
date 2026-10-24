@@ -99,4 +99,3 @@ Think and Answer
 1. What use does the sweetness, color and perfume of flowers have?  
  2. What do you know about the amazing life of honey bees?
 
-

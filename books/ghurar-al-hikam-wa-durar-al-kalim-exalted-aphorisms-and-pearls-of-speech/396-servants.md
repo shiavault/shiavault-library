@@ -42,31 +42,19 @@ forbearing.
 hopes.
 
 > 9ـ إذا أحَبَّ اللّهُ سُبْحانَهُ عَبْداً بَغَّضَ إلَيْهِ المالَ،
-<blockquote dir="rtl">
-  <p>
-وَقَصَّرَ مِنْهُ الآمالَ.
-  </p>
-</blockquote>
+> وَقَصَّرَ مِنْهُ الآمالَ.
 
 10. When Allah loves a servant, He bestows him with a good heart and an
 upright character.
 
 > 10ـ إذا أحَبَّ اللّهُ عَبْداً رَزَقَهُ قَلْباً سَليماً، وخُلْقاً
-<blockquote dir="rtl">
-  <p>
-قَويماً.
-  </p>
-</blockquote>
+> قَويماً.
 
 11. When Allah wishes good for a servant, He grants him a sound
 intellect and upright action.
 
 > 11ـ إذا أرادَ اللّهُ بِعَبْد خَيْراً مَنَحَهُ عَقْلاً قَويماً،
-<blockquote dir="rtl">
-  <p>
-وعَمَلاً مُسْتَقيماً.
-  </p>
-</blockquote>
+> وعَمَلاً مُسْتَقيماً.
 
 12. When Allah wishes good for a servant, He safeguards his stomach and
 private parts from the unlawful.
@@ -77,125 +65,77 @@ private parts from the unlawful.
 contentment and sets his wife right for him.
 
 > 13ـ إذا أرادَ اللّهُ بِعَبْد خَيراً ألْهَمَهُ القَناعَةَ، وأصْلَحَ
-<blockquote dir="rtl">
-  <p>
-لَهُ زَوْجَهُ.
-  </p>
-</blockquote>
+> لَهُ زَوْجَهُ.
 
 14. When Allah wishes good for a servant, He makes his stomach abstain
 from [unlawful] food and his private parts from that which is forbidden.
 
 > 14ـ إذا أرادَ اللّهُ بِعَبْد خَيْـراً أعَفَّ بَطْنَهُ عَنِ الطّعامِ
-<blockquote dir="rtl">
-  <p>
-وفَرْجَهُ عَنِ الحَرامِ.
-  </p>
-</blockquote>
+> وفَرْجَهُ عَنِ الحَرامِ.
 
 15. When Allah, the Glorified, wishes goodness for a servant, He
 inspires him to talk less, eat less and sleep less.
 
 > 15ـ إذا أرادَ اللّهُ سُبْحانَهُ صَلاحَ عَبْد ألْهَمَهُ قِلَّةَ
-<blockquote dir="rtl">
-  <p>
-الكَلامِ، وَقِلَّةَ الطَّعامِ، وَقِلَّةَ المَنامِ.
-  </p>
-</blockquote>
+> الكَلامِ، وَقِلَّةَ الطَّعامِ، وَقِلَّةَ المَنامِ.
 
 16. When Allah wishes good for a servant, He makes him learned in
 religion and inspires him with certitude.
 
 > 16ـ إذا أرادَ اللّهُ بِعَبْد خَيْـراً، فَقَّهَهُ فِي الدّينِ،
-<blockquote dir="rtl">
-  <p>
-وألْهَمَهُ اليَقينَ.
-  </p>
-</blockquote>
+> وألْهَمَهُ اليَقينَ.
 
 17. When Allah wishes good for a servant, He inspires him with
 contentment, so he becomes satisfied with the minimum and covers himself
 with chastity [and abstinence from the unlawful].
 
 > 17ـ إذا أرادَ اللّهُ بِعَبْد خَيْراً، ألْهَمَهُ القَناعَةَ، فَاكْتَفى
-<blockquote dir="rtl">
-  <p>
-بِالكَفافِ، واكْتَسى بِالعَفافِ.
-  </p>
-</blockquote>
+> بِالكَفافِ، واكْتَسى بِالعَفافِ.
 
 18. When Allah wishes good for a servant, He inspires him with
 moderation and good management and keeps him away from mismanagement and
 wastefulness.
 
 > 18ـ إذا أرادَ اللّهُ بِعَبْد خَيْراً، ألْهَمَهُ الاِقْتِصادَ، وَحُسْنَ
-<blockquote dir="rtl">
-  <p>
-التَّدْبيرِ، وجَنَّبَهُ سُوءَ التَّدْبيرِ والإسْرافَ.
-  </p>
-</blockquote>
+> التَّدْبيرِ، وجَنَّبَهُ سُوءَ التَّدْبيرِ والإسْرافَ.
 
 19. When Allah loves a servant, He inspires him with right guidance and
 makes him successful in His obedience.
 
 > 19ـ إذا أحَبَّ اللّهُ عَبْداً ألْهَمَهُ رُشْدَهُ، ووَفَّقَهُ
-<blockquote dir="rtl">
-  <p>
-لِطاعَتِهِ.
-  </p>
-</blockquote>
+> لِطاعَتِهِ.
 
 20. He (‘a) praised a man saying: This is one whose peacefulness
 benefits and injustice is not feared from him. When he says, he does and
 when he put in charge, he is just.
 
 > 20ـ وأثنى ـ عَليه السّلامُ ـ عَلى رَجُل فَقالَ:ذاكَ يَنْفَعُ سِلْمُهُ،
-<blockquote dir="rtl">
-  <p>
-ولا يُخافُ ظُلْمُهُ، إذا قالَ فَعَلَ، وإذا وُلِّيَ عَدَلَ.
-  </p>
-</blockquote>
+> ولا يُخافُ ظُلْمُهُ، إذا قالَ فَعَلَ، وإذا وُلِّيَ عَدَلَ.
 
 21. He (‘a) said about the one whom he praised: He is the unfolder [and
 clarifier] of the obscure, the guide in vast deserts and the repeller of
 complex difficulties.
 
 > 21ـ وقالَ ـ عَليه السّلامُ ـ في حَقِّ مَنْ أثنى عَلَيْهِ: فَتّاحُ
-<blockquote dir="rtl">
-  <p>
-مُبْهَمات دلِيلُ فَلَوات، دَفّاعُ مُعْضِلات.
-  </p>
-</blockquote>
+> مُبْهَمات دلِيلُ فَلَوات، دَفّاعُ مُعْضِلات.
 
 22. The best of servants is one who is delighted when he does good and
 when he does evil, he repents.
 
 > 22ـ خَيْرُ العِبادِ مَنْ إذا أحْسَنَ اِسْتَبْشَرَ، وإذا أساءَ
-<blockquote dir="rtl">
-  <p>
-اِسْتَغْفَرَ.
-  </p>
-</blockquote>
+> اِسْتَغْفَرَ.
 
 23. People are created by [Allah’s] power, raised up with constraint and
 made to die through pangs of death.
 
 > 23ـ عِبادٌ مَخْلُوقُونَ اِقْتِداراً، ومَرْبُوبُونَ اِقْتِساراً،
-<blockquote dir="rtl">
-  <p>
-ومَقْبُوضُونَ اِحْتِضاراً.
-  </p>
-</blockquote>
+> ومَقْبُوضُونَ اِحْتِضاراً.
 
 24. If the servants were to stop when they are ignorant [about
 something], they would neither apostatize nor would they go astray.
 
 > 24ـ لَوْ أنَّ العِبادَ حينَ جَهِلُوا وَقَفُوا، لَمْ يَكْفُرُوا، ولَمْ
-<blockquote dir="rtl">
-  <p>
-يُضِلُّوا.
-  </p>
-</blockquote>
+> يُضِلُّوا.
 
 25. When Allah humiliates (or abases) a servant, He denies him
 knowledge.
@@ -206,33 +146,21 @@ knowledge.
 beloved to him and extends his [false] hopes.
 
 > 26ـ إذا أرادَ اللّهُ بِعَبْد شَـرّاً حَبَّبَ إلَيْهِ المالَ، وبَسَطَ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ الآمالَ.
-  </p>
-</blockquote>
+> مِنْهُ الآمالَ.
 
 28. When Allah, the Glorified, wishes to remove a blessing from a
 servant, the first thing that He alters [and takes away from him] is his
 intellect, and losing it is the most difficult thing for him.
 
 > 27ـ إذا أرادَ اللّهُ سُبْحانَهُ إزالَةَ نِعْمَة عَنْ عَبْد، كانَ
-<blockquote dir="rtl">
-  <p>
-أوَّلَ ما يُغَيَّرُ عَنْهُ عَقْلُهُ، وَأشَدُّ شَيْء عَلَيْهِ فَقْدُهُ.
-  </p>
-</blockquote>
+> أوَّلَ ما يُغَيَّرُ عَنْهُ عَقْلُهُ، وَأشَدُّ شَيْء عَلَيْهِ فَقْدُهُ.
 
 29. Verily, one of the creatures most hated by Allah, the Exalted, is
 the man who has been left on his own [by Allah] and has strayed from the
 right path, moving on without a guide.
 
 > 28ـ إنَّ مِنْ أبْغَضِ الخَلائِقِ إلَى اللّهِ تَعالى رَجُلاً وَكَلَهُ
-<blockquote dir="rtl">
-  <p>
-إلى نَفْسِهِ جائِراً عَنْ قَصْدِ السَّبيلِ سائِراً بِغَيْرِ دليل.
-  </p>
-</blockquote>
+> إلى نَفْسِهِ جائِراً عَنْ قَصْدِ السَّبيلِ سائِراً بِغَيْرِ دليل.
 
 30. A servant is a servant, even if he is assisted by [divine] destiny.
 
@@ -245,5 +173,4 @@ right path, moving on without a guide.
 [^1]: The Islamic view is that all human beings are servants of Allah,
 as opposed to the Christian view wherein people are regarded as Children
 of God.
-
 

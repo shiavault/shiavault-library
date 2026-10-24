@@ -631,4 +631,3 @@ nature of the differences.
 If Allah wills, these discussions will convince sincere seekers of
 knowledge that "Whom Allah guides, no one can lead astray."
 
-

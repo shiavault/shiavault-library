@@ -81,11 +81,7 @@ spiteful.
 of except by [his] death or cessation of the blessing.
 
 > 19ـ لايَرضَى الحَسُودُ عَمَّنْ يَحْسُدُهُ إلاّ بِالمَوْتِ، أوْ
-<blockquote dir="rtl">
-  <p>
-بِزَوالِ النِّعْمَةِ.
-  </p>
-</blockquote>
+> بِزَوالِ النِّعْمَةِ.
 
 20. It is a consolation for you that the one who is jealous of you
 becomes furious when you are happy.
@@ -104,11 +100,7 @@ becomes furious when you are happy.
 person whom he envies to be a blessing upon himself.
 
 > 23ـ اَلْحاسِدُ يَرى أنَّ زَوالَ النِّعْمَةِ عَمَّنْ يَحْسُدُهُ
-<blockquote dir="rtl">
-  <p>
-نِعْمَةٌ عَلَيْهِ.
-  </p>
-</blockquote>
+> نِعْمَةٌ عَلَيْهِ.
 
 24. It is amazing how heedless the jealous are of the health of the
 bodies!
@@ -120,11 +112,7 @@ hatred in his actions; he has the title of a friend and the attribute of
 an enemy.
 
 > 25ـ اَلحاسِدُ يُظْهِرُ وُدَّهُ في أقْوالِهِ، ويُخْفي بُغْضَهُ في
-<blockquote dir="rtl">
-  <p>
-أفْعالِهِ، فَلَهُ اسْمُ الصَّديقِ، وصِفَةُ العَدُوِّ.
-  </p>
-</blockquote>
+> أفْعالِهِ، فَلَهُ اسْمُ الصَّديقِ، وصِفَةُ العَدُوِّ.
 
 26. The jealous one is happy with disaster [befalling others] and
 saddened by [their] happiness.
@@ -134,5 +122,4 @@ saddened by [their] happiness.
 27. Nothing cures the jealous one but cessation of the blessing.
 
 > 27ـ اَلحاسِدُ لايَشْفيهِ إلاّ زَوالُ النِّعْمَةِ.
-
 

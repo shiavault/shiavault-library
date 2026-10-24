@@ -47,4 +47,3 @@ It was Islam which explained in most realistic terms the cause of the
 existence of different tribes and clans and asked man to look into the
 qualities of soul, not on the color skin.
 
-

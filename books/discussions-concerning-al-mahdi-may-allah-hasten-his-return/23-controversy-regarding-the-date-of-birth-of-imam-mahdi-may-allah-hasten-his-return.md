@@ -54,4 +54,3 @@ The detailed report of that has been mentioned completely in the books
 and *usul* (books of principles) of the Shi‘a which were written before
 the birth of Imam Sahib al-Zaman (may Allah hasten his return).
 
-

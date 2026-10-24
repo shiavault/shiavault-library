@@ -554,4 +554,3 @@ handicap, such as an accident in the street, and the 60 years changes to
 conditioned that no accident may happen. This, actually, denotes a
 change in the Known, not in the Knowledge.
 
-

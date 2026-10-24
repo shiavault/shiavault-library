@@ -192,4 +192,3 @@ covered this area in detail. So, we think that outlining some mustahab
 acts of worship, in the course of performing Hajj, in this work should
 suffice.
 
-

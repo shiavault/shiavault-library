@@ -262,4 +262,3 @@ al-hudāt, vol. 6, chap. 32, sect. 2, p. 379, no. 81 (short version).
 variations in context and chain of narrators. The same has been recorded
 in Ghaybat al-Nu’mānī, pp. 314–315, no. 7.
 
-

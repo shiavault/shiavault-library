@@ -134,4 +134,3 @@ bless us on this Eid day, the day of our festival and our break-fast;
 and let it be the best day, which passed over us, and forgive us our
 sins known and unknown."
 
-

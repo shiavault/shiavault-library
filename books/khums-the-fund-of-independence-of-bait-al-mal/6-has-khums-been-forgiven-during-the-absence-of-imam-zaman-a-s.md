@@ -334,4 +334,3 @@ is not correct and Khums is still available as an Islamic order.
 
 And all people have to perform that like other duties.
 
-

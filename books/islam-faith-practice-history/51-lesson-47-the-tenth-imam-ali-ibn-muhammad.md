@@ -254,4 +254,3 @@ the Ziyārat-e Jāmi‘a.
 [^1]: That is, the ‘Abbāsids who desend from ‘Abbās, the Prophet’s
 uncle.
 
-

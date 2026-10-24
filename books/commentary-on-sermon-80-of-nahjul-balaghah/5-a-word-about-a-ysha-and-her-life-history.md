@@ -96,12 +96,8 @@ When the news reached ‘A’ysha about the martyrdom of ‘Ali (a.s.) she
 became elated, went into prostration (sajdah) to thank Allah, and then
 out of the joy that she felt, recited the following words of poetry:
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْقَتْ عَصَاهَا وَاسْتَقَرَّبِهَا النَّوَى كَمَا قَرَّ عَيْناً
-بِالإِيَابِ الْمُسَافِرِ
-  </p>
-</blockquote>
+> فَأَلْقَتْ عَصَاهَا وَاسْتَقَرَّبِهَا النَّوَى كَمَا قَرَّ عَيْناً
+> بِالإِيَابِ الْمُسَافِرِ
 
 *He dropped his staff and found comfort and ease;*
 
@@ -131,11 +127,7 @@ that ‘A’ysha was one of the most staunch opponents of ‘Uthman. She was
 the first person to ever use the word **“نعثل”** [na’thal] in regards to
 him when she said:
 
-<blockquote dir="rtl">
-  <p>
-أُقْتُلُوا نَعْثَلاً قَتَلَ اللَّهُ نَعْثَلاً
-  </p>
-</blockquote>
+> أُقْتُلُوا نَعْثَلاً قَتَلَ اللَّهُ نَعْثَلاً
 
 *Kill the na’thal! May Allah kill the na’thal!*
 
@@ -153,11 +145,7 @@ me!
 
 It is from this point in time that she initiated the slogan of:
 
-<blockquote dir="rtl">
-  <p>
-قُتِلُوا ابْنَ عَفَّانَ مَظْلُوماً
-  </p>
-</blockquote>
+> قُتِلُوا ابْنَ عَفَّانَ مَظْلُوماً
 
 *[‘Uthman] Ibn* *‘Affan has been killed unjustly!*
 
@@ -195,11 +183,7 @@ going to rise up to avenge the innocent blood of ‘Uthman, someone said
 to her, ‘I swear by God! The very first person who sought to pick a flaw
 with ‘Uthman was you and it was you who stated:
 
-<blockquote dir="rtl">
-  <p>
-أُقْتُلُوا نَعْثَلاً فَقَدْ كَفَرَ
-  </p>
-</blockquote>
+> أُقْتُلُوا نَعْثَلاً فَقَدْ كَفَرَ
 
 *Kill the na’thal (‘Uthman) as he has renegaded from the faith!*
 
@@ -346,5 +330,4 @@ Khadijah the glad tidings of a palace in Paradise (for her).
 6, of his Commentary of Nahjul Balagha on page 225. In addition,
 ‘Allamah Amini, in his work Al-Ghadir, vol. 3, has also narrated this
 event from many sources of the Ahl as-Sunnah (page 188).
-
 

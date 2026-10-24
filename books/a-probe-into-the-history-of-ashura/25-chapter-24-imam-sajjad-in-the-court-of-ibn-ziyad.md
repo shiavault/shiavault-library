@@ -199,4 +199,3 @@ captives?" Then he stretched his hand and tore his collar and continued
 to speak till the people were deeply moved and dispersed in a state of
 distress.
 
-

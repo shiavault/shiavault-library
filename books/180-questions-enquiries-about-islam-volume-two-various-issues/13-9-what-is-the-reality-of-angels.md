@@ -8,13 +8,9 @@ belief in the angels at par with belief in Allah (s.w.t.), the prophets
 and the Divine books, and this itself is proof of the fundamental
 importance of this issue.
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَ
-الْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللٌّهِ وَ مَلاَئِكَتِهِ وَ كُـتُبِهِ وَ
-رُسُلِهِ‏
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَ
+> الْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللٌّهِ وَ مَلاَئِكَتِهِ وَ كُـتُبِهِ وَ
+> رُسُلِهِ‏
 
 ***“The messenger believes in what has been revealed to him from his
 Lord, and (so do) the believers; they all believe in Allah and His
@@ -31,22 +27,14 @@ The Qur’an mentions their characteristics as follows:
 1. The angels are entities that possess intelligence and comprehension,
 and are the honourable servants of Allah (s.w.t.).
 
-<blockquote dir="rtl">
-  <p>
-بَلْ عِبَادٌ مُكْرَمُونَ
-  </p>
-</blockquote>
+> بَلْ عِبَادٌ مُكْرَمُونَ
 
 ***“Nay! they are honored servants.”***[^2]
 
 2. They are totally subservient to Allah (s.w.t.) and never exhibit
 insubordination towards Him.
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْبِقُونَهُ بِالْقَوْلِ وَ هُمْ بِأَمْرِهِ يَعْمَلُونَ
-  </p>
-</blockquote>
+> لاَ يَسْبِقُونَهُ بِالْقَوْلِ وَ هُمْ بِأَمْرِهِ يَعْمَلُونَ
 
 ***“They do not precede Him in speech and (only) according to His
 commandment do they act.”***[^3]
@@ -78,12 +66,8 @@ become greatly protracted.
 4. They are perpetually engaged in glorifying and sanctifying Allah
 (s.w.t.), as we read in verse 5 of Suratul Shura.
 
-<blockquote dir="rtl">
-  <p>
-وَ الْمَلاَئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَ يَسْتَغْفِرُونَ
-لِمَنْ فِي الأََرْضِ‏
-  </p>
-</blockquote>
+> وَ الْمَلاَئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَ يَسْتَغْفِرُونَ
+> لِمَنْ فِي الأََرْضِ‏
 
 ***“And the angels sing the praise of their Lord and ask forgiveness for
 those on earth.”***
@@ -98,11 +82,7 @@ before the prophets and even individuals who are not prophets, as we
 read in the chapter Maryam (s.a.) that a great angel appeared before
 Maryam (s.a.) in the form of a 'perfect' man.
 
-<blockquote dir="rtl">
-  <p>
-فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَراً سَوِيًّا
-  </p>
-</blockquote>
+> فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَراً سَوِيًّا
 
 ***“Then We sent to her Our spirit, and there appeared to her a
 well-made man.”***[^13]
@@ -142,12 +122,8 @@ fathers and the wombs of mothers.[^18]
 4. They possess different grades and varied ranks; some are always in a
 state of ruku' while others are perpetually in a state of prostration.
 
-<blockquote dir="rtl">
-  <p>
-وَ مَـا مِنَّا إِلاَّ لَهُ مَقَامٌ مَعْلُومٌ وَ إِنَّا لَنَحْنُ
-الصَّآفُّونَ وَ إِنَّا لَنَحْنُ الْمُسَـبِّحُونَ‏
-  </p>
-</blockquote>
+> وَ مَـا مِنَّا إِلاَّ لَهُ مَقَامٌ مَعْلُومٌ وَ إِنَّا لَنَحْنُ
+> الصَّآفُّونَ وَ إِنَّا لَنَحْنُ الْمُسَـبِّحُونَ‏
 
 ***“And there is none of us but has an assigned place, and most surely
 we are they who draw themselves out in ranks, and we are most surely
@@ -240,5 +216,4 @@ traditions too that have been mentioned in this regard.
 [^20]: Biharul Anwar, vol. 59, pg. 174
 
 [^21]: Tafsir-e-Namuna, vol. 18, pg. 173
-
 

@@ -1,21 +1,17 @@
 Thirty-Fifth Hadith:  God And Man, Good And Evil
 ================================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَنَد المُتَّصِلِ إِلى عِمَادِ الإِسْلامِ وَالمُسْلِمِينَ
-مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ عَنْ مُحَمَّدِ بْنِ
-يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ أبِي نَصْرٍ قَالَ: قَالَ
-أَبُو الحَسَنِ الرِّضَا عَلَيْهِ السَّلامُ: قَالَ اللهُ: يَا ابْنَ
-آدَمَ، بِمَشِيئَتِي كُنْتَ أَنْتَ الَّذِي تَشَاءُ لِنَفْسِكَ مَا
-تَشَاءُ، وَبِقَوَّتِي أَدَّيْتَ فَرَائِضِي، وَبِنِعْمَتِي قَوِيتَ
-عَلَى مَعْصِيَتِي. جَعَلْتُكَ سَمِيعاً بَصِيراً قَوِيّاً. مَا
-أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللهِ، وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ
-فَمِنْ نَفْسِكَ. وَذَاكَ أَنِّي أَوْلَى بِحَسَنَاتِكَ مِنْكَ، وَأَنْتَ
-أَوْلَى بِسَيِّئَاتِكَ مِنِّي. وَذَاكَ أَنَّنِي لا أُسْأَلُ عَمَّا
-أَفْعَلُ وَهُمْ يُسْأَلُونَ.
-  </p>
-</blockquote>
+> بِالسَنَد المُتَّصِلِ إِلى عِمَادِ الإِسْلامِ وَالمُسْلِمِينَ
+> مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ عَنْ مُحَمَّدِ بْنِ
+> يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ أبِي نَصْرٍ قَالَ: قَالَ
+> أَبُو الحَسَنِ الرِّضَا عَلَيْهِ السَّلامُ: قَالَ اللهُ: يَا ابْنَ
+> آدَمَ، بِمَشِيئَتِي كُنْتَ أَنْتَ الَّذِي تَشَاءُ لِنَفْسِكَ مَا
+> تَشَاءُ، وَبِقَوَّتِي أَدَّيْتَ فَرَائِضِي، وَبِنِعْمَتِي قَوِيتَ
+> عَلَى مَعْصِيَتِي. جَعَلْتُكَ سَمِيعاً بَصِيراً قَوِيّاً. مَا
+> أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللهِ، وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ
+> فَمِنْ نَفْسِكَ. وَذَاكَ أَنِّي أَوْلَى بِحَسَنَاتِكَ مِنْكَ، وَأَنْتَ
+> أَوْلَى بِسَيِّئَاتِكَ مِنِّي. وَذَاكَ أَنَّنِي لا أُسْأَلُ عَمَّا
+> أَفْعَلُ وَهُمْ يُسْأَلُونَ.
 
 With my continuous chain of authorities reaching up to the Pillar of
 Islam and Muslims, Muhammad ibn Ya’qub al-Kulayni (R), from Muhammad ibn
@@ -69,23 +65,15 @@ manifestation of the Attributes of Glory and Beauty. And this is the
 station of *ma’iyyat al-qayyumiyyah* (contiguity of the Sustainer and
 the sustained existents), [referred to in the Qur’anic verse]:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ.﴾
-  </p>
-</blockquote>
+> ﴿وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ.﴾
 
 ***He is with you, wherever you may be.*** (***57:4***)
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا يَكُونُ مِنْ نَجْوَى ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا
-خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَى مِنْ ذَلِكَ وَلَا
-أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ثُمَّ يُنَبِّئُهُمْ
-بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ
-عَلِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿مَا يَكُونُ مِنْ نَجْوَى ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا
+> خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَى مِنْ ذَلِكَ وَلَا
+> أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ثُمَّ يُنَبِّئُهُمْ
+> بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ
+> عَلِيمٌ.﴾
 
 ***Three conspire not secretly together, but He is the fourth of them,
 neither five men, but He is the sixth of them, neither fewer then that,
@@ -93,41 +81,25 @@ neither more, but He is with them, wherever they may be.*** (***58:7***)
 
 And it is the plane of the Face of Allah (*wajh Allah*)*:*
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ.﴾
 
 ***Whithersoever you may turn to there is the Face of God.***
 (***2:115***)
 
 And it is the plane of the Divine effulgence (*nuriyyat*)*:*
 
-<blockquote dir="rtl">
-  <p>
-﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***God is the Light of the heavens and the earth.*** (***24:35***)
 
 And it is the plane of the Absolute Will (*mashiyyat al-mutalaqah*)*:*
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ.﴾
 
 ***And you will not without God’s willing.*** (***81:29***)
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ اللهُ المَشِيَّةَ بِنَفْسِهَا ثُمَّ خَلَقَ الأَشْيَاءَ
-بِالمَشِيَّةِ.
-  </p>
-</blockquote>
+> خَلَقَ اللهُ المَشِيَّةَ بِنَفْسِهَا ثُمَّ خَلَقَ الأَشْيَاءَ
+> بِالمَشِيَّةِ.
 
 God created all things with His will, and He created the will by
 itself.[^3]
@@ -136,11 +108,7 @@ And there are still other terms and descriptions for it in the language
 of the People of God, and both of those planes are referred to in this
 noble verse of the Divine Scripture:
 
-<blockquote dir="rtl">
-  <p>
-﴿هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ.﴾
-  </p>
-</blockquote>
+> ﴿هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ.﴾
 
 ***He is the First and the Last, the Manifest and the Hidden.***
 (***57:3***)
@@ -160,11 +128,7 @@ My Will that you are one who wills. Your being (*dhat*) and its
 perfections are by My will itself, and, rather, you yourself and your
 perfections are particular expressions (*ta’ayyunat*) of my will:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى.﴾
-  </p>
-</blockquote>
+> ﴿وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى.﴾
 
 ***And when thou threwest, it was not thou that threw, but God threw.***
 (***8:17***)
@@ -190,11 +154,7 @@ it is the essences, or attributes, or acts-all of them come into being
 with the sustainment, sway, and all-inclusiveness of the Divine Power.
 Hence, the meaning of the statement becomes clear:
 
-<blockquote dir="rtl">
-  <p>
-وَبِقَوَّتِي أَدَّيْتَ فَرَائِضِي.
-  </p>
-</blockquote>
+> وَبِقَوَّتِي أَدَّيْتَ فَرَائِضِي.
 
 It is with My Power that you carry out the obligations prescribed by Me.
 
@@ -202,11 +162,7 @@ Also, the station of the absolute Will is the same as that of the
 all-encompassing Mercy (*rahmah*) and the all-inclusive Bounteousness.
 Hence He has said:
 
-<blockquote dir="rtl">
-  <p>
-وَبِنِعْمَتِي قَوِيتَ عَلَى مَعْصِيَتِي.
-  </p>
-</blockquote>
+> وَبِنِعْمَتِي قَوِيتَ عَلَى مَعْصِيَتِي.
 
 And it is with My bounty that you obtained the strength to disobey Me.
 
@@ -253,12 +209,8 @@ object of creation. Hence, all good, perfection, and virtue derives from
 God, and all deficiency, evil, and sin derives from the creatures, as
 stated (in the Qur’anic verse):
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
-سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
-  </p>
-</blockquote>
+> ﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
+> سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
 
 ***Whatever of good befalleth thee*** (***O man***)***, it is from
 Allah, and whatever or ill befalleth thee it is from thyself.*** (***4:
@@ -281,12 +233,8 @@ derives from essence (*mahiyyah*) and is not the object of creation
 (*ghayr maj’ul*), being lower than the plane of creation. And as to the
 famous tradition:
 
-<blockquote dir="rtl">
-  <p>
-السَّعِيدُ سَعِيدٌ فِي بَطْنِ أُمِّهِ وَالشَّقِيُّ شَقِيٌّ فِي بَطْنِ
-أُمِّهِ.
-  </p>
-</blockquote>
+> السَّعِيدُ سَعِيدٌ فِي بَطْنِ أُمِّهِ وَالشَّقِيُّ شَقِيٌّ فِي بَطْنِ
+> أُمِّهِ.
 
 The felicitous one is felicitous in his mother’s womb, and the wretched
 one is wretched in his mother’s womb,
@@ -333,23 +281,15 @@ two points of view are also mentioned in the noble verses. There, where
 the sovereignty of Unity prevails and overshadows plurality and
 deficiency, He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
 
 ***Say*** (***O Muhammad***)***: Everything is from God.*** (***4:78***)
 
 and there where the intervention of accidental plurality is taken into
 account and the mediating means are considered, He declares,
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
-سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
-  </p>
-</blockquote>
+> ﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
+> سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
 
 ***Whatever of good befalleth thee*** (***O man***)***, it is from
 Allah, and whatever or ill befalleth thee it is from thyself.*** (***4:
@@ -398,11 +338,7 @@ object of attraction and pursuit. Hence, the end of all movements and
 acts is the Sacred Essence, and for the Sacred Essence itself there is
 no end beyond Itself.
 
-<blockquote dir="rtl">
-  <p>
-﴿لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.﴾
-  </p>
-</blockquote>
+> ﴿لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.﴾
 
 ***He is not asked concerning what He does, and they are asked.***
 (***22:23***)
@@ -454,5 +390,4 @@ al-mashiyyah wa al- iradah,” hadith 6.
 
 [^3]: Al-Kulayni, Usul al-Kafi, i, p. 110, “bab iradah annaha min sifat
 al-fil,” hadith 4.
-
 

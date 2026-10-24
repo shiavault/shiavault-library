@@ -4,12 +4,8 @@
 ‘Allamah al-Albani (d. 1420 H) records this *hadith* in his
 *al-Dha’ifah*:
 
-<blockquote dir="rtl">
-  <p>
-يا علي! أنت سيد في الدنيا، سيد في الآخرة، حبيبك حبيبي، وحبيبي حبيب
-الله، وعدوك عدوي، وعدوي عدو الله، والويل لمن أبغضك بعدي
-  </p>
-</blockquote>
+> يا علي! أنت سيد في الدنيا، سيد في الآخرة، حبيبك حبيبي، وحبيبي حبيب
+> الله، وعدوك عدوي، وعدوي عدو الله، والويل لمن أبغضك بعدي
 
 **O ‘Ali! You are a** ***sayyid*** **in this world and a** ***sayyid***
 **in the Hereafter**. Your lover is my lover, and my lover is the lover
@@ -20,28 +16,16 @@ In his *takhrij* of the report, our ‘Allamah states:
 
 > أخرجه ابن عدي (308/ 2) ، والحاكم (3/ 127-128) ، والخطيب (4/ 41-42) ،
 > وابن عساكر (12/ 134/ 2-135/ 1) من طرق عن أبي الأزهر أحمد بن الأزهر:
-<blockquote dir="rtl">
-  <p>
-أخبرنا عبد الرزاق: أنبأ معمر عن الزهري عن عبيد الله بن عبد الله عن ابن
-عباس رضي الله عنهما قال: نظر النبي - صلى الله عليه وسلم - إلى علي فقال
-... فذكره.
-  </p>
-</blockquote>
+> أخبرنا عبد الرزاق: أنبأ معمر عن الزهري عن عبيد الله بن عبد الله عن ابن
+> عباس رضي الله عنهما قال: نظر النبي - صلى الله عليه وسلم - إلى علي فقال
+> ... فذكره.
 
-<blockquote dir="rtl">
-  <p>
-وقال الحاكم: "صحيح على شرط الشيخين، وأبو الأزهر - بإجماعهم - ثقة، وإذا
-انفرد الثقة بحديث؛ فهو على أصلهم صحيح"!!
-  </p>
-</blockquote>
+> وقال الحاكم: "صحيح على شرط الشيخين، وأبو الأزهر - بإجماعهم - ثقة، وإذا
+> انفرد الثقة بحديث؛ فهو على أصلهم صحيح"!!
 
-<blockquote dir="rtl">
-  <p>
-وتعقبه الذهبي بقوله: "قلت: هذا وإن كان رواته ثقات؛ فهو منكر، ليس ببعيد
-من الوضع؛ وإلا لأي شيء حدث به عبد الرزاق سراً، ولم يجسر أن يتفوه به
-لأحمد وابن معين والخلق الذين رحلوا إليه، وأبو الأزهر ثقة".
-  </p>
-</blockquote>
+> وتعقبه الذهبي بقوله: "قلت: هذا وإن كان رواته ثقات؛ فهو منكر، ليس ببعيد
+> من الوضع؛ وإلا لأي شيء حدث به عبد الرزاق سراً، ولم يجسر أن يتفوه به
+> لأحمد وابن معين والخلق الذين رحلوا إليه، وأبو الأزهر ثقة".
 
 Ibn ‘Adi (2/308), al-Hakim (3/127-128), al-Khatib (4/41-42) and Ibn
 Asakir (12/134/135-2/1) through many routes from Abu al-Azhar Ahmad b.
@@ -75,11 +59,7 @@ the Sunni *hadith* sciences.
 What is ‘Allamah al-Albani’s own verdict on the *hadith*? This is it, in
 one simple word:
 
-<blockquote dir="rtl">
-  <p>
-موضوع
-  </p>
-</blockquote>
+> موضوع
 
 *Mawdu’* (fabricated)[^3]
 
@@ -87,12 +67,8 @@ But, on what basis is this? Our ‘Allamah has no objection to
 al-Dhahabi’s claim that all its narrators are trustworthy. So, what is
 the problem? He outlines his reasons:
 
-<blockquote dir="rtl">
-  <p>
-قلت: فانحصرت العلة في عبد الرزاق نفسه، أو في معمر، وكلاهما ثقة محتج
-بهما في "الصحيحين"
-  </p>
-</blockquote>
+> قلت: فانحصرت العلة في عبد الرزاق نفسه، أو في معمر، وكلاهما ثقة محتج
+> بهما في "الصحيحين"
 
 I (al-Albani) say: **So, the fault (in the** ***hadith*****) is LIMITED
 to ‘Abd al-Razzaq himself, or to Ma’mar**, and both of them are relied
@@ -109,23 +85,15 @@ significantly.
 So, what exactly is al-Albani’s point against Ma’mar? Let us hear him
 out:
 
-<blockquote dir="rtl">
-  <p>
-أما بالنسبة لمعمر؛ فقد بين وجه العلة فيه: أبو حامد الشرقي؛ فقد روى
-الخطيب بسند صحيح عنه: أنه سئل عن حديث أبي الأزهر هذا؟ فقال: "هذا حديث
-باطل، والسبب فيه: أن معمراً كان له ابن أخ رافضي، وكان معمر يمكنه من
-كتبه، فأدخل عليه هذا الحديث، وكان معمر رجلاً مهيباً لا يقدر عليه أحد
-في السؤال والمراجعة، فسمعه عبد الرزاق في كتاب ابن أخي معمر! ".
-  </p>
-</blockquote>
+> أما بالنسبة لمعمر؛ فقد بين وجه العلة فيه: أبو حامد الشرقي؛ فقد روى
+> الخطيب بسند صحيح عنه: أنه سئل عن حديث أبي الأزهر هذا؟ فقال: "هذا حديث
+> باطل، والسبب فيه: أن معمراً كان له ابن أخ رافضي، وكان معمر يمكنه من
+> كتبه، فأدخل عليه هذا الحديث، وكان معمر رجلاً مهيباً لا يقدر عليه أحد
+> في السؤال والمراجعة، فسمعه عبد الرزاق في كتاب ابن أخي معمر! ".
 
-<blockquote dir="rtl">
-  <p>
-قلت: فهذا - إن صح - علة واضحة في أحاديث معمر في فضائل أهل البيت، ولكني
-في شك من صحة ذلك؛ لأنني لم أر من ذكره في ترجمة معمر؛ كالذهبي
-والعسقلاني وغيرهما. والله أعلم.
-  </p>
-</blockquote>
+> قلت: فهذا - إن صح - علة واضحة في أحاديث معمر في فضائل أهل البيت، ولكني
+> في شك من صحة ذلك؛ لأنني لم أر من ذكره في ترجمة معمر؛ كالذهبي
+> والعسقلاني وغيرهما. والله أعلم.
 
 With regards to Ma’mar, Abu Hamid al-Sharqi has explained the reason for
 the fault with him. Al-Khatib has narrated with a *sahih* chain from him
@@ -151,13 +119,9 @@ contemporary Sunni *muhadith* - was understandably very angry while
 responding to this blameworthy action of ‘Allamah al-Albani on the
 *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قلت : هذا كلام باطل جدا ، وبيان ذلك : أن ابن أخي معمر، شخص وهمي لا
-وجود له ، ولا يعرف أخ لمعمر . وكيف يوجد ابن بدون أب غير عيسى عليه
-السلام ؟
-  </p>
-</blockquote>
+> قلت : هذا كلام باطل جدا ، وبيان ذلك : أن ابن أخي معمر، شخص وهمي لا
+> وجود له ، ولا يعرف أخ لمعمر . وكيف يوجد ابن بدون أب غير عيسى عليه
+> السلام ؟
 
 I say: This is complete nonsense! The reason for this is: **That nephew
 of Ma’mar was only an imaginary figure. He never existed!** Ma’mar was
@@ -169,18 +133,14 @@ evidence in undermining an authentically transmitted *hadith*? Well, he
 also mentions ‘Abd al-Razzaq as a possible defect. Therefore, what has
 he got against him? Our ‘Allamah launches his further attack:
 
-<blockquote dir="rtl">
-  <p>
-وأما بالنسبة لعبد الرزاق؛ فإعلاله أقرب؛ لأنه وإن كان ثقة؛ فقد تكلموا
-في تحديثه من حفظه دون كتابه؛ فقال البخاري: "ما حدث به من كتابه فهو
-أصح". وقال الدارقطني: "ثقة، لكنه يخطىء على معمر في أحاديث". وقال ابن
-حبان: "كان ممن يخطىء إذا حدث من حفظه؛ على تشيع فيه". وقال ابن عدي في
-آخر ترجمته: "ولم يروا بحديثه بأساً؛ إلا أنهم نسبوه إلى التشيع، وقد روى
-أحاديث في الفضائل مما لا يوافقه عليه أحد من الثقات، فهذا أعظم ما رموه
-به، وأما في باب الصدق؛ فإني أرجو أنه لا بأس به؛ إلا أنه قد سبق منه
-أحاديث في فضائل أهل البيت ومثالب آخرين؛ مناكير".
-  </p>
-</blockquote>
+> وأما بالنسبة لعبد الرزاق؛ فإعلاله أقرب؛ لأنه وإن كان ثقة؛ فقد تكلموا
+> في تحديثه من حفظه دون كتابه؛ فقال البخاري: "ما حدث به من كتابه فهو
+> أصح". وقال الدارقطني: "ثقة، لكنه يخطىء على معمر في أحاديث". وقال ابن
+> حبان: "كان ممن يخطىء إذا حدث من حفظه؛ على تشيع فيه". وقال ابن عدي في
+> آخر ترجمته: "ولم يروا بحديثه بأساً؛ إلا أنهم نسبوه إلى التشيع، وقد روى
+> أحاديث في الفضائل مما لا يوافقه عليه أحد من الثقات، فهذا أعظم ما رموه
+> به، وأما في باب الصدق؛ فإني أرجو أنه لا بأس به؛ إلا أنه قد سبق منه
+> أحاديث في فضائل أهل البيت ومثالب آخرين؛ مناكير".
 
 As for ‘Abd al-Razzaq, his own fault is more likely. This is because
 even though he was trustworthy, he has been criticized in his *ahadith*
@@ -229,12 +189,8 @@ valid. For instance, Imam Muslim (d. 261 H) has relied upon reports of
 ‘Abd al-Razzaq from Ma’mar from al-Zuhri in his *Sahih*[^8]. Imam Ahmad
 (d. 241 H) has equally narrated through a similar chain:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبى ثنا عبد الرزاق ثنا معمر عن الزهري عن عروة بن
-الزبير عن المسور بن مخرمة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبى ثنا عبد الرزاق ثنا معمر عن الزهري عن عروة بن
+> الزبير عن المسور بن مخرمة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – **‘Abd al-Razzaq**
 – **Ma’mar** – **al-Zuhri** – ‘Urwah b. al-Zubayr – al-Musawwar b.
@@ -242,29 +198,17 @@ Mukhramah[^9]
 
 Shaykh al-Arnaut has a clear verdict on the chain:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^10]
 
 Even more interesting is that ‘Allamah al-Albani himself has the same
 opinion. This is what he writes in his *Sahih Abi Dawud*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده: حدثنا الحسن بن علي: ثنا عبد الرزاق: ثنا معمر عن الزهري عن ابن
-المسيب وأبي سلمة عن عبد الله بن عمرو بن العاص.
-  </p>
-</blockquote>
+> إسناده: حدثنا الحسن بن علي: ثنا عبد الرزاق: ثنا معمر عن الزهري عن ابن
+> المسيب وأبي سلمة عن عبد الله بن عمرو بن العاص.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح على شرط الشيخين
 
 Its chain: al-Hasan b. ‘Ali – **‘Abd al-Razzaq** – **Ma’mar** –
 **al-Zuhri** – Ibn al-Musayyab and Abu Salamah – ‘Abd Allah b. ‘Amr b.
@@ -277,12 +221,8 @@ Meanwhile, there is an extremely crucial point which *must* be taken
 into notice concerning ‘Abd al-Razzaq’s alleged mistakes in *ahadith*
 generally. Imam al-Dhahabi records:
 
-<blockquote dir="rtl">
-  <p>
-أبو زرعة الدمشقي، أخبرنا أحمد، قال: أتينا عبد الرزاق قبل المئتين، وهو
-صحيح البصر، ومن سمع منه بعدما ذهب بصره، فهو ضعيف السماع
-  </p>
-</blockquote>
+> أبو زرعة الدمشقي، أخبرنا أحمد، قال: أتينا عبد الرزاق قبل المئتين، وهو
+> صحيح البصر، ومن سمع منه بعدما ذهب بصره، فهو ضعيف السماع
 
 Abu Zur’ah al-Dimashqi – Ahmad: “We went to ‘Abd al-Razzaq before the
 year 200 H, and his eye-sight was still good. **Whoever heard from him**
@@ -291,12 +231,8 @@ year 200 H, and his eye-sight was still good. **Whoever heard from him**
 
 Al-Hafiz (d. 852 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق بن همام بن نافع الحميري مولاهم أبو بكر الصنعاني ثقة حافظ
-مصنف شهير عمي في آخر عمره فتغير وكان يتشيع
-  </p>
-</blockquote>
+> عبد الرزاق بن همام بن نافع الحميري مولاهم أبو بكر الصنعاني ثقة حافظ
+> مصنف شهير عمي في آخر عمره فتغير وكان يتشيع
 
 ‘Abd al-Razzaq b. Hammam b. Nafi’ al-Humayri, their freed slave, Abu
 Bakr al-San’ani: ***Thiqah*** **(trustworthy),** ***hafiz*** **(a**
@@ -325,14 +261,10 @@ The question to ask is: did Abu al-Azhar hear *Hadith al-Siyadah* from
 him before his blindness or not? Imam al-Dhahabi copies this
 game-changing report, which is specifically about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قال مكي بن عبدان: حدثنا أبو الأزهر، قال: خرج عبد الرزاق إلى قريته،
-فبكرت إليه يوما، حتى خشيت على نفسي من البكور، فوصلت إليه قبل أن يخرج
-لصلاة الصبح، فلما خرج، رآني، فأعجبه، فلما فرغ من الصلاة، دعاني، وقرأ
-علي هذا الحديث، وخصني به دون أصحابي.
-  </p>
-</blockquote>
+> قال مكي بن عبدان: حدثنا أبو الأزهر، قال: خرج عبد الرزاق إلى قريته،
+> فبكرت إليه يوما، حتى خشيت على نفسي من البكور، فوصلت إليه قبل أن يخرج
+> لصلاة الصبح، فلما خرج، رآني، فأعجبه، فلما فرغ من الصلاة، دعاني، وقرأ
+> علي هذا الحديث، وخصني به دون أصحابي.
 
 Makki b. ‘Abdan said: Abu al-Azhar narrated to us:
 
@@ -345,12 +277,8 @@ companions.[^14]
 
 Concerning Makki – the sub-narrator, al-Dhahabi states:
 
-<blockquote dir="rtl">
-  <p>
-مكي بن عبدان ابن محمد بن بكر بن مسلم، المحدث الثقة، المتقن، أبو حاتم
-التميمي النيسابوري.
-  </p>
-</blockquote>
+> مكي بن عبدان ابن محمد بن بكر بن مسلم، المحدث الثقة، المتقن، أبو حاتم
+> التميمي النيسابوري.
 
 Makki b. ‘Abdan b. Muhammad b. Bakr b. Muslim: the *muhadith* (*hadith*
 scientist), **the** ***thiqah*** **(trustworthy)** ***hadith***
@@ -424,5 +352,4 @@ vol. 9, p. 576, \# 220
 al-Nubala (Beirut: Muasassat al-Risalah; 9th edition, 1413 H)
 [annotators of the fifteenth volume: Shu’ayb al-Arnaut and Ibraaheem
 al-Zaybaq], vol. 15, p. 70, \# 38
-
 

@@ -780,4 +780,3 @@ Basrah stopped them." They said: "These land taxes are ours. We do not
 give them to anyone." Also he said: "They stopped them according to
 Mu'awiya's order."
 
-

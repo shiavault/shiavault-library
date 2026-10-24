@@ -80,4 +80,3 @@ Ghulam Abbas Sajan
 
 President Islamic Shi'a Ithna-Asheri Jama'at of Toronto July 11, 1990
 
-

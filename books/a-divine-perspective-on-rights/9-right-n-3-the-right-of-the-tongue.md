@@ -1,23 +1,15 @@
 Right n. 3: The Right of the Tongue
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-حق اللسان
-  </p>
-</blockquote>
+> حق اللسان
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ اللّسَان فَإكْرَامُهُ عَنِ الْخَنَى وتَعْوِيدُهُ عَلَى
-الْخَيْرِ وَحَمْلُهُ عَلَى الأَدَب وَإجْمَامُهُ إلاّ لِمَوْضِعِ
-الْحَاجَةِ وَالْمَنْفَعَةِ لِلدِّينِ وَالدُّنْيَا وَإعْفَاؤُهُ عَنِ
-الْفُضُول اُلشَّنِعَةِ الْقَلِيلَةِ الْفَائِدَةِ الَّتِي لا يُؤْمَنُ
-ضَرَرُهَا مَعَ قِلَّةِ عَائِدَتِهَا. وَيُعَدُّ شَاهِدَ الْعَقْلِ
-وَالدَّلِيلَ عَلَيْه وَتَزَيُّنُ الْعَاقِلَ بعَقْلِهِ حُسْنُ سِيرَتِهِ
-فِي لِسَانِهِ. وَلا قُوَّةَ إلا باللهِ الْعَلِيِّ الْعَظِيمِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ اللّسَان فَإكْرَامُهُ عَنِ الْخَنَى وتَعْوِيدُهُ عَلَى
+> الْخَيْرِ وَحَمْلُهُ عَلَى الأَدَب وَإجْمَامُهُ إلاّ لِمَوْضِعِ
+> الْحَاجَةِ وَالْمَنْفَعَةِ لِلدِّينِ وَالدُّنْيَا وَإعْفَاؤُهُ عَنِ
+> الْفُضُول اُلشَّنِعَةِ الْقَلِيلَةِ الْفَائِدَةِ الَّتِي لا يُؤْمَنُ
+> ضَرَرُهَا مَعَ قِلَّةِ عَائِدَتِهَا. وَيُعَدُّ شَاهِدَ الْعَقْلِ
+> وَالدَّلِيلَ عَلَيْه وَتَزَيُّنُ الْعَاقِلَ بعَقْلِهِ حُسْنُ سِيرَتِهِ
+> فِي لِسَانِهِ. وَلا قُوَّةَ إلا باللهِ الْعَلِيِّ الْعَظِيمِ.
 
 **And the right of the tongue is that you consider it too noble for
 obscenity, accustom it to good, direct it to politeness,**[^1] **do not
@@ -42,11 +34,7 @@ Undoubtedly, the tongue and the ability to speak are the greatest
 blessings that God has bestowed on man in His Creation. This has been
 explicitly stated in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الْإِنسَانَ عَلَّمَهُ الْبَيَانَ
-  </p>
-</blockquote>
+> خَلَقَ الْإِنسَانَ عَلَّمَهُ الْبَيَانَ
 
 ***“He has created man: He has taught him speech (and intelligence).”
 [The Holy Qur’an, al-Rahman 55:3-4]***
@@ -62,13 +50,9 @@ Different Languages as a Sign of God
 
 The Almighty God stated in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ
-أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ
-لِّلْعَالِمِينَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ
+> أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ
+> لِّلْعَالِمِينَ
 
 ***“And among His Signs is the creation of the heavens and the earth,
 and the variations in your languages and your colors: verily in that are
@@ -86,11 +70,7 @@ talks. Our speaking clearly expresses our inner purity or wickedness.
 One can tell whether you are a good man or a corrupt one. Imam Baqir
 said:
 
-<blockquote dir="rtl">
-  <p>
-المَرْءُ مخْبُوءٌ تَحْتَ لِسَانِهِ.
-  </p>
-</blockquote>
+> المَرْءُ مخْبُوءٌ تَحْتَ لِسَانِهِ.
 
 *“A man is hidden under his tongue.”*[^4]
 
@@ -101,11 +81,7 @@ The Nature of Verbal Sins
 
 Imam Ali said the following about the tongue:
 
-<blockquote dir="rtl">
-  <p>
-جِرْمُهُ صَغيرٌ وَجُرمُهُ ثَقِيلٌ
-  </p>
-</blockquote>
+> جِرْمُهُ صَغيرٌ وَجُرمُهُ ثَقِيلٌ
 
 *“Its mass is small, but its sin is great.”*
 
@@ -247,22 +223,14 @@ inner feelings and thoughts. It portrays one’s character and
 personality. There are also possible harms due to its use. Imam Ali
 said:
 
-<blockquote dir="rtl">
-  <p>
-اللِّسَانُ سَبُعٌ إنْ خُلِّيَ عَقَرَ.
-  </p>
-</blockquote>
+> اللِّسَانُ سَبُعٌ إنْ خُلِّيَ عَقَرَ.
 
 *“The tongue is a beast that will cause an injury when unleashed.”* [^8]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-إعجَبُوا لهَذا الإنسَانِ يَنْظُرُ بِشَحْمٍ وَيَتَكَلَّمُ بِلحْمٍ
-وَيَسْمَعُ بِعَظْمٍ وَيَتَنَفَّسُ مِن خَرْمٍ
-  </p>
-</blockquote>
+> إعجَبُوا لهَذا الإنسَانِ يَنْظُرُ بِشَحْمٍ وَيَتَكَلَّمُ بِلحْمٍ
+> وَيَسْمَعُ بِعَظْمٍ وَيَتَنَفَّسُ مِن خَرْمٍ
 
 *“Be amazed at man who sees using a piece of fat, talks using a piece of
 meat, hears using a piece of bone, and breathes through a hole.”*[^9]
@@ -272,24 +240,16 @@ The Tongue: Most Instrumental in Entering Heaven or Hell
 
 Sahl al-Sa’edi quoted on the authority of the Noble Prophet that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يَتَكَفَّلُ لي مَا بَينَ لحِيَيْهِ ورِجْلَيْهِ أَتَكَفَّلُ له
-بِالجَنَّةِ
-  </p>
-</blockquote>
+> مَنْ يَتَكَفَّلُ لي مَا بَينَ لحِيَيْهِ ورِجْلَيْهِ أَتَكَفَّلُ له
+> بِالجَنَّةِ
 
 *“Whoever guarantees to safeguard what is between his/her lips and
 his/her legs,*[^10] *then I shall guarantee Heaven for him/her.”*[^11]
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ سُئِلَ رَسُولُ اللهِ صَلّى اللهُ عَلَيْهِ وَآلِهِ عَنْ أكْثَرِ
-ما يُدْخِلُ النَّاسَ الجَنَّةَ، فَقَالَ: «بِتَقْوى اللهِ وَحُسْنِ
-الخُلُقِ.» وَسُئِلَ عنْ أكْثَرِ مَا يُدْخِلُ النَّاسَ النَّارَ، قالَ:
-«الأَجْوَفانِ: الفَمُ وَالفَرْجُ.»
-  </p>
-</blockquote>
+> وَقَدْ سُئِلَ رَسُولُ اللهِ صَلّى اللهُ عَلَيْهِ وَآلِهِ عَنْ أكْثَرِ
+> ما يُدْخِلُ النَّاسَ الجَنَّةَ، فَقَالَ: «بِتَقْوى اللهِ وَحُسْنِ
+> الخُلُقِ.» وَسُئِلَ عنْ أكْثَرِ مَا يُدْخِلُ النَّاسَ النَّارَ، قالَ:
+> «الأَجْوَفانِ: الفَمُ وَالفَرْجُ.»
 
 *The Noble Prophet was asked about the means most influential in taking
 people to Heaven. He replied: “Piety and good temper.” He was asked
@@ -299,12 +259,8 @@ about the means most influential in taking people to Hell. He replied:
 Ma\`adh ibn Jabal asked the Noble Prophet : “Shall we be held
 responsible for what we say?” The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-ثَكَلَتْكَ أُمُّكَ يا بْنَ جَبَلٍ! وَهَل يَكُبُّ النَّاسَ (في
-جَهَنَّمَ) عَلى مَناخِرِهِم إلاّ حَصَائِدُ ألْسِنَتِهِمْ؟
-  </p>
-</blockquote>
+> ثَكَلَتْكَ أُمُّكَ يا بْنَ جَبَلٍ! وَهَل يَكُبُّ النَّاسَ (في
+> جَهَنَّمَ) عَلى مَناخِرِهِم إلاّ حَصَائِدُ ألْسِنَتِهِمْ؟
 
 *“O Ibn Jabal! May your mother be bereft of you! Does anything else
 throw people down on their faces (in Hell) other than the harvest of
@@ -315,13 +271,9 @@ verbal abuse and preventing our tongue from engaging in sin is the best
 source of man’s prosperity and an important factor in taking him to
 Heaven. Anas ibn Malik quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-لا يَسْتَقِيمُ إيمَانُ عَبْدٍ حَتىّ يَستَقيمَ قَلبُهُ، وَلا يَسْتَقيمُ
-قَلبُهُ حَتىّ يَسْتَقيمَ لِسَانُهُ، وَلا يَدخُلُ الجَنَّةَ رَجُلٌ لا
-يَأْمَنُ جَارُهُ بَوَائِقَهُ.
-  </p>
-</blockquote>
+> لا يَسْتَقِيمُ إيمَانُ عَبْدٍ حَتىّ يَستَقيمَ قَلبُهُ، وَلا يَسْتَقيمُ
+> قَلبُهُ حَتىّ يَسْتَقيمَ لِسَانُهُ، وَلا يَدخُلُ الجَنَّةَ رَجُلٌ لا
+> يَأْمَنُ جَارُهُ بَوَائِقَهُ.
 
 *“A servant’s faith is balanced only when his heart is directed to God
 and his heart is directed to God only when his tongue is on the straight
@@ -338,12 +290,8 @@ Silence: The Easiest Form of Worship
 
 Ŝafwan ibn Saleem quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-ألا أُخْبِرُكُم بِأيْسَرِ العِبادَةِ وَأهْوَنهَا عَلى البَدَنِ؟
-الصَّمْتُ وَحُسْنُ الخُلُقِ.
-  </p>
-</blockquote>
+> ألا أُخْبِرُكُم بِأيْسَرِ العِبادَةِ وَأهْوَنهَا عَلى البَدَنِ؟
+> الصَّمْتُ وَحُسْنُ الخُلُقِ.
 
 *“Do you want me to inform you about the easiest form of worship and the
 lightest on the body? It is silence and having a good temper.”*[^15]
@@ -352,12 +300,8 @@ Al-Barra\` ibn \`Azib narrated that an Arab came to the Prophet and
 asked him to teach him something to enable him to go to Heaven. The
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-أَطْعِمِ الجَائِعَ وَاسْقِ الظَّمْآنَ وأْمُرْ بِالمَعْروفِ وَانْهَ
-عَنِ المُنْكَرِ، فَإنْ لمَ تُطِقْ فَكُفَّ لِسَانَكَ إلاّ مِنْ خَيرٍ.
-  </p>
-</blockquote>
+> أَطْعِمِ الجَائِعَ وَاسْقِ الظَّمْآنَ وأْمُرْ بِالمَعْروفِ وَانْهَ
+> عَنِ المُنْكَرِ، فَإنْ لمَ تُطِقْ فَكُفَّ لِسَانَكَ إلاّ مِنْ خَيرٍ.
 
 *“Feed the hungry. Quench the thirst of the thirsty. Advise the people
 to do good deeds and admonish them against evil deeds. If you are not
@@ -366,14 +310,10 @@ good.”*[^16]
 
 The Noble Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-لِسَانُ المُؤمِنِ وَرَاءَ قَلْبِهِ، فَإذا أرَادَ أنْ يَتَكَلَّمَ
-تَدَبَّرَهُ بِقَلْبِهِ ثُمَّ أمْضَاهُ بِلِسانِهِ، وإنَّ لِسَانَ
-المُنافِقِ أَمامَ قَلْبِهِ فَإذا هَمَّ بِشَيءٍ أَمْضَاهُ بِلِسَانِهِ
-وَلمَ يَتَدَبَّرْهُ بِقَلْبِهِ.
-  </p>
-</blockquote>
+> لِسَانُ المُؤمِنِ وَرَاءَ قَلْبِهِ، فَإذا أرَادَ أنْ يَتَكَلَّمَ
+> تَدَبَّرَهُ بِقَلْبِهِ ثُمَّ أمْضَاهُ بِلِسانِهِ، وإنَّ لِسَانَ
+> المُنافِقِ أَمامَ قَلْبِهِ فَإذا هَمَّ بِشَيءٍ أَمْضَاهُ بِلِسَانِهِ
+> وَلمَ يَتَدَبَّرْهُ بِقَلْبِهِ.
 
 *“A believer’s tongue is located behind his heart. Whenever he wants to
 talk, he first presents his words to his heart. If the heart approves of
@@ -413,11 +353,7 @@ the tongue.
 Talking in vain will only waste our time and is one of the causes of
 corruption of the tongue. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ حُسْنِ إسْلامِ المَرْءِ تَركُهُ ما لا يُعْنِيهِ.
-  </p>
-</blockquote>
+> مِنْ حُسْنِ إسْلامِ المَرْءِ تَركُهُ ما لا يُعْنِيهِ.
 
 *“One of the signs of the excellence of a Muslim’s submission to God is
 his leaving what does not concern him.”*[^19]
@@ -426,12 +362,8 @@ his leaving what does not concern him.”*[^19]
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبى لمِنَ أَمْسَكَ الفَضْلَ مِن لِسانِهِ وَأطلَقَ الفَضْلَ مِن
-مَالِه
-  </p>
-</blockquote>
+> طُوبى لمِنَ أَمْسَكَ الفَضْلَ مِن لِسانِهِ وَأطلَقَ الفَضْلَ مِن
+> مَالِه
 
 *“Blessed be the one who restrains his tongue from excessive speech and
 gives his excess wealth in charity to the needy.”*[^20]
@@ -442,12 +374,8 @@ Examples of bad talk are attending the get-together sessions of some
 women, meetings of those who drink, and talking with the corrupt, the
 rich, the rulers and the kings. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالكَلِمَةِ يَضْحَكُ بها جُلَساؤهُ
-يَهْوي بهَا أبْعَدَ مِن الثُّرَيّا.
-  </p>
-</blockquote>
+> إنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالكَلِمَةِ يَضْحَكُ بها جُلَساؤهُ
+> يَهْوي بهَا أبْعَدَ مِن الثُّرَيّا.
 
 *“One who says something to make the people laugh has deviated from his
 position as a human being, and has fallen down like one who falls down
@@ -455,33 +383,21 @@ from a star, even farther than that!”*[^21]
 
 The Prophet also said:
 
-<blockquote dir="rtl">
-  <p>
-أعْظَمُ النّاسِ خَطايا يَومَ القِيامَةِ أكْثَرُهُم خَوضاً بِالباطِلِ
-  </p>
-</blockquote>
+> أعْظَمُ النّاسِ خَطايا يَومَ القِيامَةِ أكْثَرُهُم خَوضاً بِالباطِلِ
 
 *“The greatest in sins on Resurrection Day are those who have delved the
 most into wrong.”*
 
 Then he referred to the Qur’an where those who have gone to Hell say:
 
-<blockquote dir="rtl">
-  <p>
-وَكُنّا نَخُوضُ مَعَ الْخائِضِينَ
-  </p>
-</blockquote>
+> وَكُنّا نَخُوضُ مَعَ الْخائِضِينَ
 
 ***“We delved into wrong and were playing around” (74:45)*** [^22]
 
 Salman has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-أكْثَرُ النّاسِ ذُنوباً يَومَ القِيامَةِ أكْثَرُهُم كَلاماً في
-مَعْصِيَةِ اللهِ
-  </p>
-</blockquote>
+> أكْثَرُ النّاسِ ذُنوباً يَومَ القِيامَةِ أكْثَرُهُم كَلاماً في
+> مَعْصِيَةِ اللهِ
 
 *“The most sinful people on the Resurrection Day are those who have
 spoken the most in disobedience to God.”*[^23]
@@ -491,36 +407,24 @@ spoken the most in disobedience to God.”*[^23]
 Arguing and teasing are factors that will corrupt the tongue. Islam has
 ordered us not to argue since it is blameworthy. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُمارِ أخاكَ وَلا تُمازِحْهُ وَلا تَعِدْهُ مَوعِداً فَتُخْلِفْهُ.
-  </p>
-</blockquote>
+> لا تُمارِ أخاكَ وَلا تُمازِحْهُ وَلا تَعِدْهُ مَوعِداً فَتُخْلِفْهُ.
 
 *“Do not argue with, tease, or break the promise you have made to your
 brethren.”*[^24]
 
 The Prophet also said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَسْتَكْمِلُ عَبْدٌ حَقِيقَةَ الإيمَانِ حَتىّ يَدَعَ المِراءَ
-والجِدالَ وإنْ كانَ حَقّاً.
-  </p>
-</blockquote>
+> لا يَسْتَكْمِلُ عَبْدٌ حَقِيقَةَ الإيمَانِ حَتىّ يَدَعَ المِراءَ
+> والجِدالَ وإنْ كانَ حَقّاً.
 
 *“A servant cannot attain full faith unless he quits verbal arguments
 even if he is* *right.”*[^25]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-مَن تَرَكَ المِراءَ وهُوَ مُحِقٌّ بُنِيَ لهُ بَيتٌ في أعْلى الجَنَّةِ،
-ومَنْ تَرَكَ المِراءَ وهُو مُبْطِلٌ بُنِيَ له بَيتٌ في رَبَضِ
-الجَنَّةِ.
-  </p>
-</blockquote>
+> مَن تَرَكَ المِراءَ وهُوَ مُحِقٌّ بُنِيَ لهُ بَيتٌ في أعْلى الجَنَّةِ،
+> ومَنْ تَرَكَ المِراءَ وهُو مُبْطِلٌ بُنِيَ له بَيتٌ في رَبَضِ
+> الجَنَّةِ.
 
 *“Whoever knows he is right but quits arguing shall be given a residence
 in a high heavenly place. Whoever knows that he is wrong and quits
@@ -532,25 +436,17 @@ Verbal abuse or expression of animosity to get one’s right or property
 is another factor that corrupts the tongue. Abu Hurayrah quoted on the
 authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَن جادَلَ في خُصومَةٍ بِغَيرِ عِلْمٍ لمَ يَزَلْ في سَخَطِ اللهِ حَتىّ
-يَنْزِعَ.
-  </p>
-</blockquote>
+> مَن جادَلَ في خُصومَةٍ بِغَيرِ عِلْمٍ لمَ يَزَلْ في سَخَطِ اللهِ حَتىّ
+> يَنْزِعَ.
 
 *“Whoever argues in a dispute without true knowledge shall remain
 subject to God’s wrath until he desists.”*[^27]
 
 The Noble Prophet also said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ في الجَنَّةِ لَغُرَفاً يُرى ظاهِرُها مِن باطِنِها وبَاطِنُها مِن
-ظاهِرِها أعَدَّها اللهُ تَعالى لِمَنْ أَطْعَمَ الطَّعَامَ وَأطابَ
-الكَلامَ.
-  </p>
-</blockquote>
+> إنَّ في الجَنَّةِ لَغُرَفاً يُرى ظاهِرُها مِن باطِنِها وبَاطِنُها مِن
+> ظاهِرِها أعَدَّها اللهُ تَعالى لِمَنْ أَطْعَمَ الطَّعَامَ وَأطابَ
+> الكَلامَ.
 
 *“There are rooms in Heaven, the exterior of which can be seen from
 their interior and the interior of which is visible from their exterior.
@@ -565,12 +461,8 @@ people’s love and friendship by using good words.
 
 The Blessed Fatima quoted on the authority of her noble father :
 
-<blockquote dir="rtl">
-  <p>
-شِرارُ أُمَّتي الَّذِينَ غَذَوا بالنَّعِيمِ يَأكُلونَ ألْوَانَ
-الطَّعامِ وَيَلْبَسونَ ألْوانَ الثِّيابِ وَيَتَشَدَّقونَ في الكَلامِ
-  </p>
-</blockquote>
+> شِرارُ أُمَّتي الَّذِينَ غَذَوا بالنَّعِيمِ يَأكُلونَ ألْوَانَ
+> الطَّعامِ وَيَلْبَسونَ ألْوانَ الثِّيابِ وَيَتَشَدَّقونَ في الكَلامِ
 
 *“The most wicked people in my nation are those who are feeding off
 divine blessings by eating various dishes and wearing colorful clothing,
@@ -585,33 +477,21 @@ try to use nice words and expressions to express important topics.
 Swearing is considered bad in Islam. It is one of the factors that
 corrupt the tongue. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إيّاكُم وَالفُحشَ فإنَّ اللهَ لا يُحِبُّ الفُحشَ ولا التَّفَحُّشَ
-  </p>
-</blockquote>
+> إيّاكُم وَالفُحشَ فإنَّ اللهَ لا يُحِبُّ الفُحشَ ولا التَّفَحُّشَ
 
 *“Beware of swearing since God does not like swearing and those who are
 used to swearing.”*[^30]
 
 In another tradition we read that the Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-الجَنَّةُ حَرامٌ عَلى كُلِّ فاحِشٍ أنْ يَدْخُلَها.
-  </p>
-</blockquote>
+> الجَنَّةُ حَرامٌ عَلى كُلِّ فاحِشٍ أنْ يَدْخُلَها.
 
 *“Heaven is forbidden to whoever is used to swearing. He cannot enter
 it.”*[^31]
 
 In another tradition we read that the Prophet told Ayeshah:
 
-<blockquote dir="rtl">
-  <p>
-يا عَائِشَةُ، لََو كَانَ الفُحْشُ رَجُلاً لَكَانَ رَجُلَ سُوءٍ
-  </p>
-</blockquote>
+> يا عَائِشَةُ، لََو كَانَ الفُحْشُ رَجُلاً لَكَانَ رَجُلَ سُوءٍ
 
 *“O Ayeshah! If swearing could appear like a man it would be an evil
 man.”*
@@ -626,13 +506,9 @@ been declared to be bad in Islam.
 An Arab went to see the Prophet and said: “Please give me some advice.”
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيكَ بِتَقوى اللهِ، وإن امْرُؤٌ عَيَّرَكَ بِشَيءٍ يَعْلَمُهُ مِنكَ
-فلا تُعَيِّرْهُ بِشَيءٍ تَعْلَمُهُ فِيه يَكُنْ وَبالُهُ عَلَيهِ
-وَأَجْرُهُ لكَ. وَلا تَسُبَّنَّ شَيئاً مِن خَلقِ اللهِ.
-  </p>
-</blockquote>
+> عَلَيكَ بِتَقوى اللهِ، وإن امْرُؤٌ عَيَّرَكَ بِشَيءٍ يَعْلَمُهُ مِنكَ
+> فلا تُعَيِّرْهُ بِشَيءٍ تَعْلَمُهُ فِيه يَكُنْ وَبالُهُ عَلَيهِ
+> وَأَجْرُهُ لكَ. وَلا تَسُبَّنَّ شَيئاً مِن خَلقِ اللهِ.
 
 *“I advise you to fear God. If someone blames you for what is in you, do
 not blame him for what you know that may lie in him. Thus, he will
@@ -647,11 +523,7 @@ Prophet of God: “O Prophet of God! A relative of mine who is lower than
 me in rank swears at me. Should I swear at him in defense?” The Prophet
 said:
 
-<blockquote dir="rtl">
-  <p>
-المُتَسَابّانِ شَيْطانانِ يَتَعاوَنانِ وَيَتَهاتَرانِ
-  </p>
-</blockquote>
+> المُتَسَابّانِ شَيْطانانِ يَتَعاوَنانِ وَيَتَهاتَرانِ
 
 *“Whenever two people revile each other they are like two Satans helping
 each other and making false accusations against each other.”*[^33]
@@ -664,24 +536,16 @@ has been referred to in several verses of the Holy Qur’an. God has
 cursed many and has deprived them of his Mercy. An important case is
 that of Satan:
 
-<blockquote dir="rtl">
-  <p>
-وَ إنَّ عليكَ لَعْنَتي إلىَ يَوْمِ الْدِّيِنِ
-  </p>
-</blockquote>
+> وَ إنَّ عليكَ لَعْنَتي إلىَ يَوْمِ الْدِّيِنِ
 
 ***"And My curse shall be on thee till the Day of Judgment." [The Holy
 Qur’an, Sad 38:78]***
 
 Those who conceal the truth are also cursed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
-وَالْهُدَى مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ
-أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
+> وَالْهُدَى مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ
+> أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ
 
 ***“Those who conceal the clear (Signs) We have sent down, and the
 Guidance, after We have made it clear for the people in the Book, - on
@@ -690,14 +554,10 @@ them shall be God's curse, and the curse of those entitled to curse.”
 
 Those who lie were also cursed as in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
-وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
-عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
+> وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
+> عَلَى الْكَاذِبِينَ
 
 ***“If anyone disputes in this matter with thee, now after (full)
 knowledge hath come to thee, say: "Come! Let us gather together, - our
@@ -709,14 +569,10 @@ The pagans and the Jews who were awaiting the coming of the Prophet
 Muhammad refused to believe in him after they recognized him. We read in
 the following verse that they too are cursed:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَاءهُمْ كِتَابٌ مِّنْ عِندِ اللّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ
-وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُواْ
-فَلَمَّا جَاءهُم مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ اللَّه عَلَى
-الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَلَمَّا جَاءهُمْ كِتَابٌ مِّنْ عِندِ اللّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ
+> وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُواْ
+> فَلَمَّا جَاءهُم مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ اللَّه عَلَى
+> الْكَافِرِينَ
 
 ***“And when there comes to them a Book from God, confirming what is
 with them, - although from of old they had prayed for victory against
@@ -728,15 +584,11 @@ The Prophet and Imam Ali cursed several people. The Prophet cursed Abu
 Sufyan in seven places.[^34] Imam Ali has been narrated to have quoted
 on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-سَبْعَةٌ لَعَنَهمُ اللهُ، وَكُلُّ نَبيٍّ مُجابٌ: المُغَيِّرُ لِكِتابِ
-اللهِ والمُكَذِّبُ بِقَدَرِ اللهِ و المُبَدِّلُ سُنَّةِ رسولِ اللهِ
-والمُسْتَحِلُّ مِن عِتْرَتي ما حَرَّمَ اللهُ وَالمُتَسَلِّطُ في
-سُلْطانِهِ لِيُعِزَّ مَن أذَلَّ اللهُ وَيُذِلَّ مَن أعَزَّ اللهُ
-وَالمُسْتَحِلُّ لِحُرَمِ اللهِ وَالمُتَكَبِّرُ عَلى عِبادَةِ اللهِ.
-  </p>
-</blockquote>
+> سَبْعَةٌ لَعَنَهمُ اللهُ، وَكُلُّ نَبيٍّ مُجابٌ: المُغَيِّرُ لِكِتابِ
+> اللهِ والمُكَذِّبُ بِقَدَرِ اللهِ و المُبَدِّلُ سُنَّةِ رسولِ اللهِ
+> والمُسْتَحِلُّ مِن عِتْرَتي ما حَرَّمَ اللهُ وَالمُتَسَلِّطُ في
+> سُلْطانِهِ لِيُعِزَّ مَن أذَلَّ اللهُ وَيُذِلَّ مَن أعَزَّ اللهُ
+> وَالمُسْتَحِلُّ لِحُرَمِ اللهِ وَالمُتَكَبِّرُ عَلى عِبادَةِ اللهِ.
 
 *“There are seven groups of people who were cursed by God and His
 Prophet :*
@@ -762,11 +614,7 @@ has debased*
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-المُؤْمِنُ لَيسَ بِلَعّانٍ.
-  </p>
-</blockquote>
+> المُؤْمِنُ لَيسَ بِلَعّانٍ.
 
 *“A believer does not curse others.”*[^35]
 
@@ -780,14 +628,10 @@ rights of Imam Ali and his descendants.
 The next factor that corrupts the tongue is listening to lustful songs.
 Consider the following verses:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ وَمَن يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَّهُ عِندَ
-رَبِّهِ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَى عَلَيْكُمْ
-فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ
-الزُّورِ
-  </p>
-</blockquote>
+> ذَلِكَ وَمَن يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَّهُ عِندَ
+> رَبِّهِ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَى عَلَيْكُمْ
+> فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ
+> الزُّورِ
 
 ***“Such (is the Pilgrimage): whoever honors the sacred rites of God,
 for him it is good in the Sight of his Lord. Lawful to you (for food in
@@ -795,12 +639,8 @@ Pilgrimage) are cattle, except those mentioned to you (as exception):
 but shun the abomination of idols, and shun the word that is false.”
 [The Holy Qur’an, al-Hajj 22:30]***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ
-مَرُّوا كِرَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ
+> مَرُّوا كِرَامًا
 
 ***“Those who witness no falsehood, and, if they pass by futility, they
 pass by it with honorable (avoidance).” [The Holy Qur’an, al-Furqan
@@ -812,13 +652,9 @@ have been interpreted by Shuham and Ibn Abi Amir and Abi Basir (in
 *al-Kafi*) and others as implying lustful music. The following verse is
 also said to refer to lustful music aimed at corrupting the people.
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ
-اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا أُولَئِكَ لَهُمْ
-عَذَابٌ مُّهِينٌ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ
+> اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا أُولَئِكَ لَهُمْ
+> عَذَابٌ مُّهِينٌ
 
 ***“But there are, among men, those who purchase idle tales, without
 knowledge (or meaning), to mislead (men) from the Path of God and throw
@@ -833,22 +669,14 @@ traditions consider lustful poetry to be bad.
 
 Joking around is considered to be bad in Islam. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُمارِ أَخاكَ وَلا تُمازِحْهُ
-  </p>
-</blockquote>
+> لا تُمارِ أَخاكَ وَلا تُمازِحْهُ
 
 *“Avoid arguing with your brethren and abstain from excessive joking
 around.”*[^36]
 
 The Prophet also said:
 
-<blockquote dir="rtl">
-  <p>
-إنّي لأَمْزَحُ ولا أقُولُ إلاّ حَقّاً.
-  </p>
-</blockquote>
+> إنّي لأَمْزَحُ ولا أقُولُ إلاّ حَقّاً.
 
 *“I tell jokes, but only say the truth.”*[^37]
 
@@ -860,11 +688,7 @@ lady does not go to Heaven.” The old lady started to cry. Then the
 Prophet said: “On that day you will not be old. You will be young. God
 said the following in the Holy Qur’an:”
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً فَجَعَلْنَاهُنَّ أَبْكَارًا
-  </p>
-</blockquote>
+> إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً فَجَعَلْنَاهُنَّ أَبْكَارًا
 
 ***“We have created (their Companions) of special creation, and made
 them virgin - pure (and undefiled).” [The Holy Qur’an, al-Waqi\`ah
@@ -872,11 +696,7 @@ them virgin - pure (and undefiled).” [The Holy Qur’an, al-Waqi\`ah
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مَزَحَ امْرُؤٌ مَزْحَةً إلاّ مَجَّ مِن عَقْلِه مَجَّةً.
-  </p>
-</blockquote>
+> مَا مَزَحَ امْرُؤٌ مَزْحَةً إلاّ مَجَّ مِن عَقْلِه مَجَّةً.
 
 *“A person does not jest but that something of his intellect is cast
 out.**”*** [^38]
@@ -886,15 +706,11 @@ out.**”*** [^38]
 Scholars in ethics have considered making fun of people as one of the
 factors that corrupt the tongue. God said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَومٌ مِّن قَوْمٍ عَسَى
-أَن يَكُونُوا خَيْرًا مِّنْهُمْ وَلَا نِسَاء مِّن نِّسَاء عَسَى أَن
-يَكُنَّ خَيْرًا مِّنْهُنَّ وَلَا تَلْمِزُوا أَنفُسَكُمْ وَلَا
-تَنَابَزُوا بِالْأَلْقَابِ بِئْسَ الاِسْمُ الْفُسُوقُ بَعْدَ
-الْإِيمَانِ وَمَن لَّمْ يَتُبْ فَأُوْلَئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَومٌ مِّن قَوْمٍ عَسَى
+> أَن يَكُونُوا خَيْرًا مِّنْهُمْ وَلَا نِسَاء مِّن نِّسَاء عَسَى أَن
+> يَكُنَّ خَيْرًا مِّنْهُنَّ وَلَا تَلْمِزُوا أَنفُسَكُمْ وَلَا
+> تَنَابَزُوا بِالْأَلْقَابِ بِئْسَ الاِسْمُ الْفُسُوقُ بَعْدَ
+> الْإِيمَانِ وَمَن لَّمْ يَتُبْ فَأُوْلَئِكَ هُمُ الظَّالِمُونَ
 
 ***“O ye who believe! Let not some men among you laugh at others: It may
 be that the (latter) are better than the (former): Nor let some women
@@ -931,11 +747,7 @@ brought it back and put it on Imam Sajjad’s shoulder. Imam Sajjad asked:
 “Who did that?” The people said: “It was a clown who makes the people
 laugh.” Then Imam Sajjad said:
 
-<blockquote dir="rtl">
-  <p>
-انَّ للهِ يَوماً يَخْسَرُ فِيه المُبْطِلونَ.
-  </p>
-</blockquote>
+> انَّ للهِ يَوماً يَخْسَرُ فِيه المُبْطِلونَ.
 
 *“Tell him that there is a day for God in which those who indulge in
 vain and futile acts will not gain anything but loss.”*[^39]
@@ -947,12 +759,8 @@ health. If people make fun of those who are crippled, then they will get
 hurt. They will get hurt due to being made fun of and due to not being
 healthy. That is why Imam Ali said the following in his supplications:
 
-<blockquote dir="rtl">
-  <p>
-إاللَّهُمَّ اجْعَلْ نَفْسي أوَّلَ كَريمَةٍ تَنْتَزِعُها مِن كَرائِمِي
-وَأَوَّلَ وَديعَةٍ تُرْجِعُها مِن وَدَائِعِ نِعَمِكَ عِنْدي.
-  </p>
-</blockquote>
+> إاللَّهُمَّ اجْعَلْ نَفْسي أوَّلَ كَريمَةٍ تَنْتَزِعُها مِن كَرائِمِي
+> وَأَوَّلَ وَديعَةٍ تُرْجِعُها مِن وَدَائِعِ نِعَمِكَ عِنْدي.
 
 *“O God! Make my soul the first of the my precious possessions that You
 take from me, and the first trust that you return to me from among Your
@@ -960,12 +768,8 @@ blessings entrusted to me.”*[^40]
 
 Imam Husayn said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَتِّعْني بِجَوارِحِي وَاجْعَلْ سَمْعي وَبَصَري الوارِثَيْنِ عَنِّي
-وانْصُرْني عَلى مَن ظَلَمَني
-  </p>
-</blockquote>
+> وَمَتِّعْني بِجَوارِحِي وَاجْعَلْ سَمْعي وَبَصَري الوارِثَيْنِ عَنِّي
+> وانْصُرْني عَلى مَن ظَلَمَني
 
 *“O Lord! Make me benefit from all my body parts. Let my eyes and ears
 be my inheritors, (i.e. protect me from becoming crippled), and give me
@@ -990,32 +794,20 @@ brought him in and shown him to the artist as a model for Satan.
 Another factor that corrupts the tongue is divulging other people’s
 secrets. This is considered bad in Islam. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إذا حَدَّثَ الرَّجُلُ الحَديثَ ثُمَّ التَفَتَ فَهِيَ أمَانَةٌ
-  </p>
-</blockquote>
+> إذا حَدَّثَ الرَّجُلُ الحَديثَ ثُمَّ التَفَتَ فَهِيَ أمَانَةٌ
 
 *“When someone says something and goes away, what he said is left as a
 trust near the one who hears him.”*[^42]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-الحَدِيثُ بَيْنَكُم أَمانَةٌ.
-  </p>
-</blockquote>
+> الحَدِيثُ بَيْنَكُم أَمانَةٌ.
 
 *“What others tell you is entrusted to you.”*[^43]
 
 Imam Hasan has been narrated as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِنَ الخِيانَةِ أنْ تُحَدِّثَ بِسِرِّ أخِيكَ.
-  </p>
-</blockquote>
+> إنَّ مِنَ الخِيانَةِ أنْ تُحَدِّثَ بِسِرِّ أخِيكَ.
 
 *“It is an act of treachery to speak of your brethren’s secrets.”*[^44]
 
@@ -1025,33 +817,21 @@ One of the factors that corrupt the tongue is making fake promises upon
 which one does not act. Acting upon what you promise is one of the signs
 of divine men. We read the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَوْفُواْ بِالْعُقُودِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَوْفُواْ بِالْعُقُودِ
 
 ***“O ye who believe! Fulfil (all) obligations.” [The Holy Qur’an,
 al-Ma’ida 5:1]***
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-العِدَةُ دَيْن
-  </p>
-</blockquote>
+> العِدَةُ دَيْن
 
  *“A promise is a debt.”*[^45]
 
 God has mentioned Isma’il to be strictly true to what he promised:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ
-وَكَانَ رَسُولًا نَّبِيًّا
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ
+> وَكَانَ رَسُولًا نَّبِيًّا
 
 ***“Also mention in the Book (the story of) Isma'il: He was (strictly)
 true to what he promised, and he was an apostle (and) a Prophet.” [The
@@ -1064,34 +844,22 @@ Qur’anic verses and traditions outline the wickedness of lying. Abu
 Sa\`eed was quoted to have heard the Prophet supplicate to God as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ طَهِّر قَلْبي مِن النِّفَاقِ وَفَرْجِي مِن الزِّنَا
-وَلِسَاني مِن الكَذِبِ.
-  </p>
-</blockquote>
+> اللَّهُمَّ طَهِّر قَلْبي مِن النِّفَاقِ وَفَرْجِي مِن الزِّنَا
+> وَلِسَاني مِن الكَذِبِ.
 
 *“O God! Please purify my heart from hypocrisy, purify me from acts of
 fornication, and purify my tongue from lying.”* [^46]
 
 Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الكَذِبَ هُوَ خَرابُ الإيمَانِ.
-  </p>
-</blockquote>
+> إنَّ الكَذِبَ هُوَ خَرابُ الإيمَانِ.
 
 *“Lying is the ruin of man’s faith.”*[^47]
 
 The Commander of the Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَجِدُ عَبْدٌ طَعْمَ الإيمَانِ حَتىّ يَتْرُكَ الكَذِبَ جِدَّهُ
-وَهَزْلَهُ.
-  </p>
-</blockquote>
+> لا يَجِدُ عَبْدٌ طَعْمَ الإيمَانِ حَتىّ يَتْرُكَ الكَذِبَ جِدَّهُ
+> وَهَزْلَهُ.
 
 *“No man shall taste faith unless he abandons lying, be it serious or as
 a joke.”*[^48]
@@ -1100,12 +868,8 @@ A man told the Prophet : “O’ Prophet of God! Would a believer commit a
 sexual sin?” He said: “Maybe sometimes.” The man asked: “Would a
 believer tell a lie?” The Prophet answered:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لاَ يُؤْمِنُونَ بِآيَاتِ اللّهِ
-وَأُوْلـئِكَ هُمُ الْكَاذِبُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لاَ يُؤْمِنُونَ بِآيَاتِ اللّهِ
+> وَأُوْلـئِكَ هُمُ الْكَاذِبُونَ
 
 *Never!* *God the Exalted said:* ***“It is those who believe not in the
 Signs of God that forge falsehood….”***[^49] ***[The Holy Qur’an,
@@ -1113,11 +877,7 @@ al-Naĥl 16:105]***
 
 It was quoted on the authority of Imam Hasan Askari:
 
-<blockquote dir="rtl">
-  <p>
-حُطَّتِ الخَبائِثُ في بَيْتٍ وَجُعِلَ مِفْتاحُهُ الكَذِبُ.
-  </p>
-</blockquote>
+> حُطَّتِ الخَبائِثُ في بَيْتٍ وَجُعِلَ مِفْتاحُهُ الكَذِبُ.
 
 *“All evil deeds were placed in a room and lying was made its
 key.”*[^50]
@@ -1128,11 +888,7 @@ This implies that if one lies he will fall into sin.
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَكْذِبُ الكاذِبُ إلاّ مِن مَهانَةِ نَفْسِه.
-  </p>
-</blockquote>
+> لا يَكْذِبُ الكاذِبُ إلاّ مِن مَهانَةِ نَفْسِه.
 
 *“One only tells lies because of his feeling of being lowly.”*[^51]
 
@@ -1163,15 +919,11 @@ Gossiping is forbidden in Islam. Sheikh Mortazavi has declared gossiping
 to be forbidden, and has used the following verse to support his
 view:[^55]
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيراً مِّنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَب
-بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيراً مِّنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَب
+> بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
+> مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ
+> رَّحِيمٌ
 
 ***“O ye who believe! Avoid suspicion as much (as possible): for
 suspicion in some cases is a sin: And spy not on each other behind their
@@ -1196,23 +948,15 @@ to him being dead. It is not right to attack a dead defenseless person.
 
 That is why Imam Ali has said:
 
-<blockquote dir="rtl">
-  <p>
-الغِيبَةُ جُهْدُ العاجِزِ.
-  </p>
-</blockquote>
+> الغِيبَةُ جُهْدُ العاجِزِ.
 
 *“Backbiting is the endeavour of the weak.”*[^56]
 
 The second verse regarding this issue is:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
-آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ وَاللَّهُ
-يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
+> آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ وَاللَّهُ
+> يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
 ***“Those who love (to see) scandal published broadcast among the
 Believers, will have a grievous Penalty in this life and in the
@@ -1227,12 +971,8 @@ seriously fought with because it unveils hidden flaws. Islam does not
 like this and instructs people to cover up each other’s faults. The
 third verse regarding this issue is:
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يُحِبُّ اللّهُ الْجَهْرَ بِالسُّوَءِ مِنَ الْقَوْلِ إِلاَّ مَن
-ظُلِمَ وَكَانَ اللّهُ سَمِيعًا عَلِيمًا
-  </p>
-</blockquote>
+> لاَّ يُحِبُّ اللّهُ الْجَهْرَ بِالسُّوَءِ مِنَ الْقَوْلِ إِلاَّ مَن
+> ظُلِمَ وَكَانَ اللّهُ سَمِيعًا عَلِيمًا
 
 ***“God loveth not that evil should be noised abroad in public speech,
 except where injustice hath been done; for God is He who heareth and
@@ -1242,11 +982,7 @@ We must realize that any form of evil in public speech has been
 forbidden here. Thus gossiping is forbidden. The fourth verse in this
 regard is as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
-  </p>
-</blockquote>
+> وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
 
 ***“Woe to every (kind of) scandal-monger and-backbiter.” [The Holy
 Qur’an, al-Humaza, 104:1]***
@@ -1260,11 +996,7 @@ fun of him up front.
 There are many traditions that stress the bad effects of gossiping. The
 Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ المُسْلِمِ عَلى المُسْلِمِ حَرامٌ: دَمُهُ وَمالُهُ وَعِرْضُهُ.
-  </p>
-</blockquote>
+> كُلُّ المُسْلِمِ عَلى المُسْلِمِ حَرامٌ: دَمُهُ وَمالُهُ وَعِرْضُهُ.
 
 *“Everything of the Muslim is to be respected by Muslims: his life, his
 wealth and his honor.”*[^57]
@@ -1273,13 +1005,9 @@ Fayz Kashani has declared that gossiping is a cause of violation of
 one’s honor. Jabir and Abu Saeed have both quoted on the authority of
 God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-إيّاكُم والغِيبَةَ فإنَّ الغيبَةَ أَشَدُّ مِنَ الزِّنا. فإنَّ
-الرَّجُلَ قَد يَزني فَيَتوبُ اللهُ عَلَيهِ. وإنَّ صَاحِبَ الغِيبَةِ لا
-يُغْفَرُ له حَتىّ يَغْفِرَ له صَاحِبُهُ.
-  </p>
-</blockquote>
+> إيّاكُم والغِيبَةَ فإنَّ الغيبَةَ أَشَدُّ مِنَ الزِّنا. فإنَّ
+> الرَّجُلَ قَد يَزني فَيَتوبُ اللهُ عَلَيهِ. وإنَّ صَاحِبَ الغِيبَةِ لا
+> يُغْفَرُ له حَتىّ يَغْفِرَ له صَاحِبُهُ.
 
 *“Avoid gossiping since it is worse than committing fornication.
 Sometimes a man might make a mistake and commit fornication. Once he
@@ -1291,13 +1019,9 @@ gossips forgives him.”*[^58]
 
 Anas quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَرِرْتُ لَيْلَةَ أُسرِيَ بي عَلى قَومٍ يَخمِشُونَ وُجوهَهُم
-بِأظافِيرهِم، فَقُلتُ: يا جِبرَئِيلُ، مَن هؤلاءِ؟ قالَ: هؤلاءِ
-الّذِينَ يَغتابُونَ النّاسَ وَيَقَعونَ في أعْراضِهِم.
-  </p>
-</blockquote>
+> مَرِرْتُ لَيْلَةَ أُسرِيَ بي عَلى قَومٍ يَخمِشُونَ وُجوهَهُم
+> بِأظافِيرهِم، فَقُلتُ: يا جِبرَئِيلُ، مَن هؤلاءِ؟ قالَ: هؤلاءِ
+> الّذِينَ يَغتابُونَ النّاسَ وَيَقَعونَ في أعْراضِهِم.
 
 *“On the night of the Ascension, I ran across a group of people who were
 scratching their faces with their nails. I asked Gabriel about them. He
@@ -1311,14 +1035,10 @@ reaction to gossiping? Al-Barra\` said: “The Prophet delivered a sermon.
 All those who were freed were also there and heard his sermon. The
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-يا مَعْشَرَ مَن أسْلَمَ بِلِسانِهِ وَلمَ يُؤمِنْ بِقَلبِهِ! لا
-تَغْتابُوا المُسلِمِينَ ولا تَتَّبِعوا عَوراتِهِم، فإنَّه مَن
-تَتَبَّعَ عَورَة أخِيهِ تَتَبَّعَ اللّهُ عَورَتَهُ، ومَن تَتَبَّعَ
-اللّهُ عَورَتَهُ يَفْضَحْهُ وَلَو في بَيتِهِ.
-  </p>
-</blockquote>
+> يا مَعْشَرَ مَن أسْلَمَ بِلِسانِهِ وَلمَ يُؤمِنْ بِقَلبِهِ! لا
+> تَغْتابُوا المُسلِمِينَ ولا تَتَّبِعوا عَوراتِهِم، فإنَّه مَن
+> تَتَبَّعَ عَورَة أخِيهِ تَتَبَّعَ اللّهُ عَورَتَهُ، ومَن تَتَبَّعَ
+> اللّهُ عَورَتَهُ يَفْضَحْهُ وَلَو في بَيتِهِ.
 
 *“O those who have confessed faith but do not really have faith! Do not
 gossip behind the Muslims’ backs. Do not pursue their hidden secrets.
@@ -1327,14 +1047,10 @@ that He will disgrace him although it may be in his own house.”*[^60]
 
 Sheikh Sadooq quoted on the authority of the Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَن مَشَى في غِيبَةِ أخِيهِ وَكَشْفِ عَورَتِهِ كانَتْ أوَّلُ خُطْوَةٍ
-خَطاها وَضَعَها في جَهَنَّمَ وَكَشَفَ اللهُ عَورَتِهِ عَلى رُؤوسِ
-الخَلائِقِ. وَمَن اغْتابَ مُسلِماً بَطُلَ صَومُهُ وَنُقِضَ وُضوؤهُ
-فَإنْ ماتَ وهوَ كَذلكَ ماتَ وهوَ مُسْتَحِلٌّ لما حَرَّمَ اللهُ.
-  </p>
-</blockquote>
+> مَن مَشَى في غِيبَةِ أخِيهِ وَكَشْفِ عَورَتِهِ كانَتْ أوَّلُ خُطْوَةٍ
+> خَطاها وَضَعَها في جَهَنَّمَ وَكَشَفَ اللهُ عَورَتِهِ عَلى رُؤوسِ
+> الخَلائِقِ. وَمَن اغْتابَ مُسلِماً بَطُلَ صَومُهُ وَنُقِضَ وُضوؤهُ
+> فَإنْ ماتَ وهوَ كَذلكَ ماتَ وهوَ مُسْتَحِلٌّ لما حَرَّمَ اللهُ.
 
 *“One who gossips behind his Muslim brother’s back and intends to
 divulge his secrets is taking a step towards Hell. God will make his
@@ -1346,12 +1062,8 @@ forbidden.”*[^61]
 It is obvious that the loss of the reward of the fasting and the prayer
 is meant here. Imam Sadiq quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-الغِيبَةُ أسْرَعُ في دِينِ الرَّجُلِ المُسلِمِ مِن الآكِلَةِ في
-جَوفِهِ.
-  </p>
-</blockquote>
+> الغِيبَةُ أسْرَعُ في دِينِ الرَّجُلِ المُسلِمِ مِن الآكِلَةِ في
+> جَوفِهِ.
 
 *“Gossiping works faster than a cancerous cell in destroying a Muslim’s
 faith.”*[^62]
@@ -1359,13 +1071,9 @@ faith.”*[^62]
 Therefore, we can say that gossiping is like the cancer of the religion.
 Al-Mufaddal ibn \`Umar quoted on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-مَن رَوى عَلى مُؤمِنٍ رِوايَةً يُريدُ بها شَينَهُ وَهَدْمَ مُروَّتِهِ
-لِيَسْقُطَ مِن أعْيُنِ النّاسِ أَخْرَجَهُ اللهُ تَعالى مِن وِلايَتِهِ
-إلى وِلايَةِ الشَّيطانِ فَلا يَقْبَلُه الشَّيطانُ.
-  </p>
-</blockquote>
+> مَن رَوى عَلى مُؤمِنٍ رِوايَةً يُريدُ بها شَينَهُ وَهَدْمَ مُروَّتِهِ
+> لِيَسْقُطَ مِن أعْيُنِ النّاسِ أَخْرَجَهُ اللهُ تَعالى مِن وِلايَتِهِ
+> إلى وِلايَةِ الشَّيطانِ فَلا يَقْبَلُه الشَّيطانُ.
 
 *“One who talks against a believer and intends to harm him, belittle him
 or harm his honor shall be cast out of divine friendship by God and
@@ -1386,11 +1094,7 @@ Ayeshah pointed at her implying that she is short. God’s Prophet said:
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-المُسْتَمِعُ للغِيبةِ صِنوُ المُستَغِيبِ.
-  </p>
-</blockquote>
+> المُسْتَمِعُ للغِيبةِ صِنوُ المُستَغِيبِ.
 
 *“One who listens to gossip is a partner in gossiping.”*[^65]
 
@@ -1400,13 +1104,9 @@ meeting. Even if he cannot do so, he should consider it bad in his mind.
 If he verbally opposes what is said but is internally in agreement with
 it, then he is a hypocrite. God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أُذِلَّ عِندَهُ مُؤمِنٌ وهُوَ يَقدِرُ عَلى أنْ يَنْتَصِرَ لهُ
-فَلَم يَنْصُرْهُ أذَلَّهُ اللهُ يَومَ القِيامَةِ عَلى رُؤوسِ
-الخَلائقِ.
-  </p>
-</blockquote>
+> مَنْ أُذِلَّ عِندَهُ مُؤمِنٌ وهُوَ يَقدِرُ عَلى أنْ يَنْتَصِرَ لهُ
+> فَلَم يَنْصُرْهُ أذَلَّهُ اللهُ يَومَ القِيامَةِ عَلى رُؤوسِ
+> الخَلائقِ.
 
 *“Whoever sees a believer is belittled in front of him and can help him
 but does not do so, shall be belittled by God in public in the
@@ -1414,24 +1114,16 @@ Hereafter.”*[^66]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَدَّ عَن عِرْضِ أخِيهِ بِالغَيبِ كانَ حَقّاً عَلى اللهِ أنْ
-يَرُدَّ عَن عِرضِهِ يَومَ القِيامَةِ.
-  </p>
-</blockquote>
+> مَنْ رَدَّ عَن عِرْضِ أخِيهِ بِالغَيبِ كانَ حَقّاً عَلى اللهِ أنْ
+> يَرُدَّ عَن عِرضِهِ يَومَ القِيامَةِ.
 
 *“On the Resurrection Day God shall protect the honor of whoever
 protects a brother’s honor in his absence.”*[^67]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَبَّ عَن عِرْضِ أخِيهِ بِالغَيبِ كانَ حَقّاً عَلى اللهِ أنْ
-يُعْتِقَهُ مِن النّارِ.
-  </p>
-</blockquote>
+> مَنْ ذَبَّ عَن عِرْضِ أخِيهِ بِالغَيبِ كانَ حَقّاً عَلى اللهِ أنْ
+> يُعْتِقَهُ مِن النّارِ.
 
 *“It is incumbent upon God to protect from the Fire of Hell one who
 defends a brother’s honor in his absence.”*[^68]
@@ -1474,13 +1166,9 @@ How much freedom of speech is there in Islam? What are the limits to the
 freedom of speech, if any? There is no doubt that Islam allows the
 freedom of speech as we read:
 
-<blockquote dir="rtl">
-  <p>
-فَبَشِّرْ عِبَادِ الَّذِينَ يَسْتَمِعونَ الْقَوْلَ فَيَتَّبِعُونَ
-أحْسَنَهُ أوْلائِكَ الَّذِيْنَ هَداهُمُ اللهُ وَ أوْلائِكَ هُمْ
-أوْلُواْ الْألْبابِ
-  </p>
-</blockquote>
+> فَبَشِّرْ عِبَادِ الَّذِينَ يَسْتَمِعونَ الْقَوْلَ فَيَتَّبِعُونَ
+> أحْسَنَهُ أوْلائِكَ الَّذِيْنَ هَداهُمُ اللهُ وَ أوْلائِكَ هُمْ
+> أوْلُواْ الْألْبابِ
 
 ***“So announce the good news to My Servants, - Those who listen to the
 Word, and follow the best (meaning) in it: those are the ones whom God
@@ -1491,22 +1179,14 @@ This act of listening to the Word and following the best is only
 possible where there is freedom of speech. Imam Ali has been quoted as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-أُنْظُرْ إلى ما قَالَ وَلا تَنْظُرْ إلى مَن قَالَ.
-  </p>
-</blockquote>
+> أُنْظُرْ إلى ما قَالَ وَلا تَنْظُرْ إلى مَن قَالَ.
 
 *“Look at what is said, not at who has said it.”*[^69]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-خُذُوا الحِكْمَةَ وَلَو مِن أهْلِ الضَّلالِ. خُذُوا الحِكْمَةَ وَلَو
-مِنَ المُشْرِكينَ.
-  </p>
-</blockquote>
+> خُذُوا الحِكْمَةَ وَلَو مِن أهْلِ الضَّلالِ. خُذُوا الحِكْمَةَ وَلَو
+> مِنَ المُشْرِكينَ.
 
 *“Accept words of wisdom even if uttered by those who have gone astray.
 Accept wisdom even if it is expressed by the infidels.”*[^70]
@@ -1711,5 +1391,4 @@ other languages accordingly.
 [^74]: Mukhtasar al-Nafi’, p. 300.
 
 [^75]: Mabani Taklimat al-Minhaj, v.2, p.290.
-
 

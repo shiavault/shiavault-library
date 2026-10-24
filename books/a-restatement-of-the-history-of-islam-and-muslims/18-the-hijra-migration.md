@@ -280,4 +280,3 @@ Abu Ayyub was a distinguished citizen of Yathrib, and belonged to the
 clan of Banu Najjar. Both Amina, the mother of the Apostle, and the
 mother of his grandfather, Abdul Muttalib, had belonged to this clan.
 
-

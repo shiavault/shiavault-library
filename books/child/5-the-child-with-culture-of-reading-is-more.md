@@ -92,7 +92,6 @@ they themselves lack or under-rate the culture of reading and any idea
 of its richness in the mental nourishment. Reading is a culture with no
 compensatory substitute; and no culture is minor.
 
-
 **The Child and his Concept of Allah swt**
 
 Talking about a small child's "initial concept" of Allah, one person
@@ -188,7 +187,6 @@ not be under-rated.
 When the growing child is taught to address his dua (supplication) to
 Allah, the impact of his faith in the dua is tremendous only if he has
 also been made to gain the right Islamic concept of Him.
-
 
 **The Culture of Talking to Allah swt**
 
@@ -286,5 +284,4 @@ to Allah and the "score" will be real!
 
 "I answer the prayer of the supplicant when he calls on Me " (2:186).
 "Call upon Me and I will answer you..." (40:60).
-
 

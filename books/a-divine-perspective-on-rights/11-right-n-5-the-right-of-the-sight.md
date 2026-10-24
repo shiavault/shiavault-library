@@ -1,19 +1,11 @@
 Right n. 5: The Right of the Sight
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-حق البصر
-  </p>
-</blockquote>
+> حق البصر
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ بَصَرِكَ فَغَضُّهُ عَمَّا لا يَحِلُّ لَكَ وتَرْكُ
-ابْتِذَالِهِ إلاّ لِمَوضِعِ عِبْرَةٍ تَسْتَقْبلُ بهَا بَصَرًا أَو
-تَسْتَفِيدُ بهَا عِلْمًا، فَإنَّ الْبَصَرَ بَابُ الِاعْتِبَارِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ بَصَرِكَ فَغَضُّهُ عَمَّا لا يَحِلُّ لَكَ وتَرْكُ
+> ابْتِذَالِهِ إلاّ لِمَوضِعِ عِبْرَةٍ تَسْتَقْبلُ بهَا بَصَرًا أَو
+> تَسْتَفِيدُ بهَا عِلْمًا، فَإنَّ الْبَصَرَ بَابُ الِاعْتِبَارِ.
 
 **And the right of your sight is that you lower it before everything
 which is unlawful to you. And that you abandon using it except in
@@ -24,23 +16,15 @@ reflection.**
 Both vision and the eyes are considered here. For example, consider the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَمْرُ السَّاعَةِ إِلاَّ كَلَمْحِ الْبَصَرِ
-  </p>
-</blockquote>
+> وَمَا أَمْرُ السَّاعَةِ إِلاَّ كَلَمْحِ الْبَصَرِ
 
 ***“And the Decision of the Hour (of Judgment) is as the twinkling of an
 eye.” [The Holy Qur’an, al-Naĥl 16:77]***
 
 Also, consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ لَكُمُ الْسَّمْعَ وَالأَبْصَارَ وَالأَفْئِدَةَ لَعَلَّكُمْ
-تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَجَعَلَ لَكُمُ الْسَّمْعَ وَالأَبْصَارَ وَالأَفْئِدَةَ لَعَلَّكُمْ
+> تَشْكُرُونَ
 
 ***“And He gave you hearing and sight and intelligence and affections:
 that ye may give thanks (to God).” [The Holy Qur’an, al-Naĥl 16:78]***
@@ -48,12 +32,8 @@ that ye may give thanks (to God).” [The Holy Qur’an, al-Naĥl 16:78]***
 It also covers the concept of insight. For example, consider the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَـذِهِ سَبِيلِي أَدْعُو إِلَى اللّهِ عَلَى بَصِيرَةٍ أَنَاْ
-وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللّهِ وَمَا أَنَاْ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ هَـذِهِ سَبِيلِي أَدْعُو إِلَى اللّهِ عَلَى بَصِيرَةٍ أَنَاْ
+> وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللّهِ وَمَا أَنَاْ مِنَ الْمُشْرِكِينَ
 
 ***“Say thou: "This is my way: I do invite unto God, - on evidence clear
 as the seeing with one's eyes, - I and whoever follows me. Glory to God!
@@ -76,11 +56,7 @@ Proper Use of the Eyes
 God the Almighty advised us about the importance of the eyes in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
-  </p>
-</blockquote>
+> أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
 
 ***“Have We not made for him a pair of eyes?” [The Holy Qur’an, al-Balad
 90:8]***
@@ -89,14 +65,10 @@ The eyes are man’s most important means of communicating with the
 outside world. The eyes are so amazing that they force us to be humble
 to our Creator. However, some people do not make proper use of them:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيراً مِّنَ الْجِنِّ وَالإِنسِ
-لَهُمْ قُلُوبٌ لاَّ يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَّ
-يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لاَّ يَسْمَعُونَ بِهَا أُوْلَـئِكَ
-كَالأَنْعَامِ بَلْ هُمْ أَضَلُّ أُوْلَـئِكَ هُمُ الْغَافِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيراً مِّنَ الْجِنِّ وَالإِنسِ
+> لَهُمْ قُلُوبٌ لاَّ يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَّ
+> يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لاَّ يَسْمَعُونَ بِهَا أُوْلَـئِكَ
+> كَالأَنْعَامِ بَلْ هُمْ أَضَلُّ أُوْلَـئِكَ هُمُ الْغَافِلُونَ
 
 ***“Many are the Jinns and men we have made for Hell: They have hearts
 wherewith they understand not, eyes wherewith they see not, and ears
@@ -106,14 +78,10 @@ they are heedless (of warning).”[The Holy Qur’an, al-A’raf 7:179]***
 There is a tradition from the Prophet of God regarding the above verse
 [al-Balad 90:8] which reads: “God told the children of Adam:
 
-<blockquote dir="rtl">
-  <p>
-يا بْنَ آدَمَ! إنْ نازَعَكَ لِسانُكَ في ما حَرَّمْتُ عَلَيكَ فَقَد
-أَعَنْتُكَ عَليهِ بِطَبَقَتَينِ فَأَطْبِقْ. وإنْ نازَعَكَ بَصَرُكَ إلى
-بَعضِ ما حَرَّمْتُ عَلَيكَ فقَدْ أَعَنْتُكَ عَلَيهِ بِطَبَقَتَينِ
-فَأطْبِقْ.
-  </p>
-</blockquote>
+> يا بْنَ آدَمَ! إنْ نازَعَكَ لِسانُكَ في ما حَرَّمْتُ عَلَيكَ فَقَد
+> أَعَنْتُكَ عَليهِ بِطَبَقَتَينِ فَأَطْبِقْ. وإنْ نازَعَكَ بَصَرُكَ إلى
+> بَعضِ ما حَرَّمْتُ عَلَيكَ فقَدْ أَعَنْتُكَ عَلَيهِ بِطَبَقَتَينِ
+> فَأطْبِقْ.
 
 *“O Children of Adam! I have given you two lips. If your tongue tries to
 make you commit a forbidden act, close your lips. I have given you
@@ -123,12 +91,8 @@ eyelids.”*[^1]
 The eyes must be closed to what is forbidden by God. We read the
 following about the unbelievers in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاء عَن ذِكْرِي وَكَانُوا لَا
-يَسْتَطِيعُونَ سَمْعًا
-  </p>
-</blockquote>
+> الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاء عَن ذِكْرِي وَكَانُوا لَا
+> يَسْتَطِيعُونَ سَمْعًا
 
 ***“(Unbelievers) whose eyes had been under a veil from remembrance of
 Me, and who had been unable even to hear.” [The Holy Qur’an, al-Kahf
@@ -151,23 +115,11 @@ One proper use of the eyes is in cases that the Qur’an has pointed out.
 The Qur’an invites us to look at our own creation in the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
 
-<blockquote dir="rtl">
-  <p>
-خُلِقَ مِن مَّاء دَافِقٍ
-  </p>
-</blockquote>
+> خُلِقَ مِن مَّاء دَافِقٍ
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
-  </p>
-</blockquote>
+> يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
 
 ***“Now let man but think from what he is created! He is created from a
 drop emitted proceeding from between the backbone and the ribs.” [The
@@ -182,11 +134,7 @@ Looking at Food
 The second instance that the Qur’an invites man to look to is to
 consider what he eats. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ إِلَى طَعَامِهِ
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ إِلَى طَعَامِهِ
 
 ***“Then let man look at his food, (and how We provide it)” [The Holy
 Qur’an, ‘Abasa 80:24]***
@@ -199,25 +147,17 @@ consider this looking to be considering whether what we have obtained
 for eating is from legitimate means or not. Others consider food for the
 mind, too. Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-عِلمُهُ الّذي يأخُذُهُ، عَمَّنْ يأخُذُهُ
-  </p>
-</blockquote>
+> عِلمُهُ الّذي يأخُذُهُ، عَمَّنْ يأخُذُهُ
 
 *“Look and see from whom you get your knowledge.”*[^2]
 
 There are many occasions in the Qur’an where we are instructed to look
 such as:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللّهَ
-وَاجْتَنِبُواْ الطَّاغُوتَ فَمِنْهُم مَّنْ هَدَى اللّهُ وَمِنْهُم
-مَّنْ حَقَّتْ عَلَيْهِ الضَّلالَةُ فَسِيرُواْ فِي الأَرْضِ فَانظُرُواْ
-كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ.
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللّهَ
+> وَاجْتَنِبُواْ الطَّاغُوتَ فَمِنْهُم مَّنْ هَدَى اللّهُ وَمِنْهُم
+> مَّنْ حَقَّتْ عَلَيْهِ الضَّلالَةُ فَسِيرُواْ فِي الأَرْضِ فَانظُرُواْ
+> كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ.
 
 ***For We assuredly sent amongst every People an apostle, (with the
 Command), "Serve God, and eschew Evil": of the People were some whom God
@@ -227,13 +167,9 @@ travel through the earth, and see what was the end of those who denied
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ثُمَّ
-اللَّهُ يُنشِئُ النَّشْأَةَ الْآخِرَةَ إِنَّ اللَّهَ عَلَى كُلِّ
-شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ثُمَّ
+> اللَّهُ يُنشِئُ النَّشْأَةَ الْآخِرَةَ إِنَّ اللَّهَ عَلَى كُلِّ
+> شَيْءٍ قَدِيرٌ
 
 ***“Say: Travel through the earth and see how God did originate
 creation; so will God produce a later creation: for God has power over
@@ -242,29 +178,21 @@ all things.” [The Holy Qur’an, al-‘Ankabut 29:20]***
 It is Forbidden to Look at Unfamiliar Women
 -------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-يَصْنَعُونَ
-  </p>
-</blockquote>
+> قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> يَصْنَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ
-فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا
-وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ وَلَا يُبْدِينَ
-زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاء
-بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاء بُعُولَتِهِنَّ أَوْ
-إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ
-أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ
-غَيْرِ أُوْلِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ
-لَمْ يَظْهَرُوا عَلَى عَوْرَاتِ النِّسَاء وَلَا يَضْرِبْنَ
-بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوا
-إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ
+> فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا
+> وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ وَلَا يُبْدِينَ
+> زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاء
+> بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاء بُعُولَتِهِنَّ أَوْ
+> إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ
+> أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ
+> غَيْرِ أُوْلِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ
+> لَمْ يَظْهَرُوا عَلَى عَوْرَاتِ النِّسَاء وَلَا يَضْرِبْنَ
+> بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوا
+> إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“Say to the believing men that they should lower their gaze and guard
 their modesty: that will make for greater purity for them: And God is
@@ -295,12 +223,8 @@ authority of Ahmad ibn Muhammad on the authority of Ibn Fazzil on the
 authority of Ali ibn Aqabeh on the authority of his father that he heard
 Imam Sadiq say:
 
-<blockquote dir="rtl">
-  <p>
-النَّظْرَةُ سَهْمٌ مِن سِهامِ إبْلِيسَ مَسْمومٌ، وَكَم مِن نَظْرَةٍ
-أوْرَثَتْ حَسْرَةً طَويلَةً
-  </p>
-</blockquote>
+> النَّظْرَةُ سَهْمٌ مِن سِهامِ إبْلِيسَ مَسْمومٌ، وَكَم مِن نَظْرَةٍ
+> أوْرَثَتْ حَسْرَةً طَويلَةً
 
 *“A look is like a poisonous dart from the darts of Satan. How many a
 look has caused long-lasting regret.”*[^4]
@@ -313,24 +237,16 @@ dirty look. Then they cannot compensate for this all lifelong. They will
 be sorry but it will be of no use. Ibn Abi Umayr quoted on the authority
 of Al-Kaheli on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-النَّظْرَةُ بَعدَ النَّظرَةِ تَزْرعُ في القَلبِ الشَّهْوَةَ وكَفَى
-بِها لِصاحِبِها فِتْنَةً.
-  </p>
-</blockquote>
+> النَّظْرَةُ بَعدَ النَّظرَةِ تَزْرعُ في القَلبِ الشَّهْوَةَ وكَفَى
+> بِها لِصاحِبِها فِتْنَةً.
 
 *“One look after another will sow the seeds of desire in the heart, and
 it is sufficient temptation for the person.”*[^5]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ نَظَرَ إلى امْرَأةٍ فَرَفَعَ بَصَرَهُ إلى السَّماءِ لمَ يَرْتَدَّ
-إليَهِ بَصَرُهُ حَتىّ يُزَوِّجَهُ اللهُ مِن الحُورِ العِينِ.
-  </p>
-</blockquote>
+> مَنْ نَظَرَ إلى امْرَأةٍ فَرَفَعَ بَصَرَهُ إلى السَّماءِ لمَ يَرْتَدَّ
+> إليَهِ بَصَرُهُ حَتىّ يُزَوِّجَهُ اللهُ مِن الحُورِ العِينِ.
 
 *“If one sees a woman but turns away his eyes and looks at the sky, he
 will be rewarded with a ‘Hoori’*[^6] *in Heaven.”* [^7]
@@ -361,12 +277,8 @@ Ali ibn Ibrahim quoted on the authority of his father on the authority
 of Hisham ibn Salim, Himad ibn Isa and Hafs ibn Bakhtari on the
 authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-لا بَأْسَ بأنْ يَنظُرَ إلى وَجْهِها وَمَعاصِمِها إذا أرادَ أنْ
-يَتَزَوَّجَها.
-  </p>
-</blockquote>
+> لا بَأْسَ بأنْ يَنظُرَ إلى وَجْهِها وَمَعاصِمِها إذا أرادَ أنْ
+> يَتَزَوَّجَها.
 
 *“When one intends to marry a woman, it is fine for him to look at her
 face and her wrists.”*[^9]
@@ -389,14 +301,10 @@ Wasa\`il al-Shī\`ah. The first tradition in this chapter reads:
 authority of Ali ibn al-Hikam, on the authority of Abi Hamzah al-Thumali
 that Imam Baqir was asked:
 
-<blockquote dir="rtl">
-  <p>
-سَأَلْتُهُ عَن المَرْأةِ المُسْلِمَةِ يُصِيبُها البَلاءُ في جَسَدِها
-إمّا كَسْرٌ وَإمّا جُرْحٌ في مَكانٍ لا يَصْلُحُ النَّظَرُ إلَيهِ
-يَكونُ الرَّجُلُ أرْفَقَ بِعلاجِهِ مِن النِّسَاءِ، أيَصْلُحُ لهُ
-النَّظَرُ إلَيها؟ قَال: إذا اضْطُرَّتْ إلَيهِ فلْيُعالجْها إنْ شاءَتْ.
-  </p>
-</blockquote>
+> سَأَلْتُهُ عَن المَرْأةِ المُسْلِمَةِ يُصِيبُها البَلاءُ في جَسَدِها
+> إمّا كَسْرٌ وَإمّا جُرْحٌ في مَكانٍ لا يَصْلُحُ النَّظَرُ إلَيهِ
+> يَكونُ الرَّجُلُ أرْفَقَ بِعلاجِهِ مِن النِّسَاءِ، أيَصْلُحُ لهُ
+> النَّظَرُ إلَيها؟ قَال: إذا اضْطُرَّتْ إلَيهِ فلْيُعالجْها إنْ شاءَتْ.
 
 *“Consider when a Muslim woman is ill, injured or a part of her body is
 broken in a place that cannot be looked at. If the male doctor is more
@@ -414,12 +322,8 @@ authority of Ali ibn Ibrahim on the authority of his father on the
 authority of al-Nawfeli on the authority of al-Sak’kooni on the
 authority of Imam Sadiq that God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا حُرْمَةَ لِنِساءِ أهْلِ الذِّمَّةِ أنْ يُنْظَرَ إلى شُعُورِهِنَّ
-وَأَيْدِيهِنَّ.
-  </p>
-</blockquote>
+> لا حُرْمَةَ لِنِساءِ أهْلِ الذِّمَّةِ أنْ يُنْظَرَ إلى شُعُورِهِنَّ
+> وَأَيْدِيهِنَّ.
 
 *“It is not forbidden to look at the hair or the hands of women who live
 under the protection of Islam.”*[^12]
@@ -429,14 +333,10 @@ on the authority of Ahmad ibn Muhammad ibn Isa, on the authority of Ibn
 Mahboob, on the authority of Ibad ibn Sohayb, on the authority of Imam
 Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-لا بَأسَ بِالنَّظَرِ إلى رُؤوسِ أهْلِ تِهامَةَ وَالأعْرابِ وأهْلِ
-السَّوادِ والعُلوجِ لأنَّهُم إذا نُهُوا لا يَنْتَهونَ. (قال)
-والمَجْنُونَةُ وَالمَغْلوبَةُ على عَقْلِها لا بَأسَ بالنَّظَرِ إلى
-شَعْرِها وَجَسَدِها ما لمَ يَتَعَمَّدْ ذلِكَ.
-  </p>
-</blockquote>
+> لا بَأسَ بِالنَّظَرِ إلى رُؤوسِ أهْلِ تِهامَةَ وَالأعْرابِ وأهْلِ
+> السَّوادِ والعُلوجِ لأنَّهُم إذا نُهُوا لا يَنْتَهونَ. (قال)
+> والمَجْنُونَةُ وَالمَغْلوبَةُ على عَقْلِها لا بَأسَ بالنَّظَرِ إلى
+> شَعْرِها وَجَسَدِها ما لمَ يَتَعَمَّدْ ذلِكَ.
 
 *“There is no harm in looking at the head and the hair of the people of
 Tihamah, Bedouin women, (women from) the people of the lowlands (of
@@ -453,33 +353,21 @@ looks can help us learn and gain benefits. Haroun wrote to Imam Kazim :
 
 “Please advise me tersely.” The Imam replied:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيءٍ تَراهُ عَينُكَ إلاّ وفِيهِ مَوعِظَةٌ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيءٍ تَراهُ عَينُكَ إلاّ وفِيهِ مَوعِظَةٌ.
 
 *“There is nothing on which you look in which there is no advice for
 you.”*[^14]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أكْثَرَ العِبَرَ وأَقَلَّ المُعْتَبِرَ.
-  </p>
-</blockquote>
+> مَا أكْثَرَ العِبَرَ وأَقَلَّ المُعْتَبِرَ.
 
 *“How many lessons are there to learn, and how few those who learn
 them!”*[^15]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-مَن اعْتَبَرَ أبْصَرَ ومَنْ أبْصَرَ فَهِمَ وَمَن فَهِمَ عَلِمَ.
-  </p>
-</blockquote>
+> مَن اعْتَبَرَ أبْصَرَ ومَنْ أبْصَرَ فَهِمَ وَمَن فَهِمَ عَلِمَ.
 
 *“Whoever looks in order to learn will gain insight. Whoever gains
 insight will understand. Whoever understands will attain ranks of having
@@ -492,14 +380,10 @@ follows: “Winds started blowing in their ruins as if they all had a
 meeting place to which they rush.” Then Imam Ali said: “Why did you not
 recite the following verses of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-كَمْ تَرَكُوا مِن جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
-وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ كَذَٰلِكَ ۖ وَأَوْرَثْنَاهَا
-قَوْمًا آخَرِينَ فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا
-كَانُوا مُنْظَرِينَ
-  </p>
-</blockquote>
+> كَمْ تَرَكُوا مِن جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
+> وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ كَذَٰلِكَ ۖ وَأَوْرَثْنَاهَا
+> قَوْمًا آخَرِينَ فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا
+> كَانُوا مُنْظَرِينَ
 
 ***“How many were the gardens and springs they left behind, and
 corn-fields and noble buildings, and wealth (and conveniences of life),
@@ -528,47 +412,23 @@ body.” Mutawakkil said: “Then tell me some poems.” The Imam said: “I am
 not acquainted with poetry.” Mutawakkil insisted. Then the Imam said
 some beautiful poems in Arabic as follows:
 
-<blockquote dir="rtl">
-  <p>
-باتوا على قُلَلِ الأجْيالِ تَحْرِسُهُمْ غُلْبُ الرِّجالِ فَلَمْ
-تَنْفَعْهُمْ القُلَلِ
-  </p>
-</blockquote>
+> باتوا على قُلَلِ الأجْيالِ تَحْرِسُهُمْ غُلْبُ الرِّجالِ فَلَمْ
+> تَنْفَعْهُمْ القُلَلِ
 
-<blockquote dir="rtl">
-  <p>
-وَ اسْتُنْزِلُوا بَعُدَ عِزٍّ عَن مَعاقِلِهِمْ وَ اُسْكِنوا حُفْراً يا
-بِئسَ ما نَزَلوا
-  </p>
-</blockquote>
+> وَ اسْتُنْزِلُوا بَعُدَ عِزٍّ عَن مَعاقِلِهِمْ وَ اُسْكِنوا حُفْراً يا
+> بِئسَ ما نَزَلوا
 
-<blockquote dir="rtl">
-  <p>
-ناداهُمْ صارِخٌ مِنْ بَعْدِ دَفْنِهِمْ أينَ الأساوِرُ وُ التِّيْجانُ
-وَ الحُلَلُ
-  </p>
-</blockquote>
+> ناداهُمْ صارِخٌ مِنْ بَعْدِ دَفْنِهِمْ أينَ الأساوِرُ وُ التِّيْجانُ
+> وَ الحُلَلُ
 
-<blockquote dir="rtl">
-  <p>
-أينَ الوُجُوهُ الَّتِي كانَتْ مُنَعَّمَةً مِن دونِها تُضْرَبُ
-الأسْتارُ وَ الكِلَلُ
-  </p>
-</blockquote>
+> أينَ الوُجُوهُ الَّتِي كانَتْ مُنَعَّمَةً مِن دونِها تُضْرَبُ
+> الأسْتارُ وَ الكِلَلُ
 
-<blockquote dir="rtl">
-  <p>
-فَأفْصَحَ القَبْرُ عَنْهُمْ حِينَ سائَلَهُمْ تِلْكَ الوُجُوهُ عَلَيها
-الدُّودُ تَنْتَقِلُ
-  </p>
-</blockquote>
+> فَأفْصَحَ القَبْرُ عَنْهُمْ حِينَ سائَلَهُمْ تِلْكَ الوُجُوهُ عَلَيها
+> الدُّودُ تَنْتَقِلُ
 
-<blockquote dir="rtl">
-  <p>
-قَدْ طالَما أكَلُوا دَهْراً وَ قَدْ شَرِبُوا فَأصْبَحُوا اليَومَ
-بَعْدَ الأكْلِِ قَدْ اُكِلُوا
-  </p>
-</blockquote>
+> قَدْ طالَما أكَلُوا دَهْراً وَ قَدْ شَرِبُوا فَأصْبَحُوا اليَومَ
+> بَعْدَ الأكْلِِ قَدْ اُكِلُوا
 
 *“They lived at the highest points of their palaces for a while;*  
 *they were guarded there and protected by their especial guards;*
@@ -835,5 +695,4 @@ opposed to dullness or want of expression; and (3) Truth and goodwill.”
 [^23]: Mabani Takmilat al-Minhaj, v.2, p.272.
 
 [^24]: Majma’ al- Masa’il, v.3, p.255.
-
 

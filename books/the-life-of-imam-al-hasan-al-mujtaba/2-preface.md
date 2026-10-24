@@ -537,4 +537,3 @@ in his Seminary (hawza) in Holy Najaf.
 [^1] Qur’an, 18:103-104.
 [^2] Qur’an, 22:11.
 
-

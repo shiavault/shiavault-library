@@ -29,7 +29,6 @@ their ideas and behaviour. The verse continues saying:
 
 "... You are quit of what I do, and I am quit of what you do'. "
 
-
 **Commentary : Verse 42**
 
 (42) وَ مِنْهُمْ مَنْ يَسْتَمِعُونَ إِلَيْكَ أَ فَأَنْتَ تُسْمِعُ
@@ -60,7 +59,6 @@ pay attention to reasoning. The verse continues saying:
 "... but can you make the deaf to hear, even though they are without
 understanding ? "
 
-
 **Commentary : Verse 43**
 
 (43) وَ مِنْهُمْ مَنْ يَنْظُرُ إِلَيْكَ أَ فَأَنْتَ تَهْدِي الْعُمْيَ
@@ -85,7 +83,6 @@ The objective of this question is that such people lack wisdom and
 insight like the deaf and the blind from the point of view of their
 obstinacy in accepting the truth and adhering to it.
 
-
 **Commentary : Verse 44**
 
 (44) إِنَّ اللَّهَ لا يَظْلِمُ النَّاسَ شَيْئاً وَ لكِنَّ النَّاسَ
@@ -106,7 +103,6 @@ retribution. The verse says:
 
 " Verily Allah does not any injustice to people but people to their own
 selves do injustice. "
-
 
 **Commentary : Verse 45**
 
@@ -141,7 +137,6 @@ Hereafter as well. The verse continues saying:
 "... Those will verily have perished who denied the meeting with Allah
 and were not guided a right. "
 
-
 **Commentary : Verse 46**
 
 (46) وَ إِمَّا نُرِيَنَّكَ بَعْضَ الَّذي نَعِدُهُمْ أَوْ
@@ -174,7 +169,6 @@ saying:
 "... to Us is their return. Then Allah is witness to(all)what they do.
 "
 
-
 **Commentary : Verse 47**
 
 (47) وَ لِكُلِّ أُمَّةٍ رَسُولٌ فَإِذا جاءَ رَسُولُهُمْ قُضِيَ
@@ -200,5 +194,4 @@ says:
 " And for every people there is a Messenger. Then when their Messenger
 comes,(on the Day of Judgment), the matter will be judged between them
 with justice, and they will not be dealt with unjustly. "
-
 

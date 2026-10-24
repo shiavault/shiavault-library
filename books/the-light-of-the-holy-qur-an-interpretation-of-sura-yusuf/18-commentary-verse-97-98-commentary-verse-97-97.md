@@ -33,7 +33,6 @@ The verse says:
 " Even if every Sign come unto them, until they see the painful
 chastisement. "
 
-
 **Commentary : Verse 98**
 
 (98) فَلَوْ لا كانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَها إيمانُها إِلاَّ
@@ -83,7 +82,6 @@ Punishment, while prayer and supplication both removes the Punishment
 and generates success and happiness.(Regarding the occasion of
 revelation)
 
-
 **Commentary : Verse 99**
 
 (99) وَ لَوْ شاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ جَميعاً
@@ -110,7 +108,6 @@ compulsion. The verse says:
 " And if your Lord had willed, whoever is on the earth would have
 believed, all of them, all together. Will thou then compel the people
 till they become believers ?"
-
 
 **Commentary : Verse 100**
 
@@ -140,7 +137,6 @@ ponder. "
 
 Sound reasoning provides the basis for faith and having no faith
 exhibits ignorant and irrational behavior.
-
 
 **Commentary : Verse 101**
 
@@ -178,7 +174,6 @@ become believers either. The verse continues saying:
 "... But neither Signs nor warnings avail a people who do not believe'.
 "
 
-
 **Commentary : Verse 102**
 
 (102) فَهَلْ يَنْتَظِرُونَ إِلاَّ مِثْلَ أَيَّامِ الَّذينَ خَلَوْا مِنْ
@@ -211,7 +206,6 @@ They wait in order to avoid and deny Allah's call, and we wait for the
 evil and painful destiny which awaits them like that of the former
 oppressive nations of the past.
 
-
 **Commentary : Verse 103**
 
 (103) ثُمَّ نُنَجِّي رُسُلَنا وَ الَّذينَ آمَنُوا كَذلِكَ حَقًّا
@@ -239,5 +233,4 @@ divine duty, which is forbidding the wrong, Allah may save them in time
 of trouble. The verse continues saying:
 
 "... Thus it is binding on Us(that)We deliver the believers. "
-
 

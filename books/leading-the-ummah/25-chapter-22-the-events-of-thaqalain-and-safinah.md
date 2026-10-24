@@ -31,13 +31,9 @@ dealt with this issue the narration of Thaqalain would have the most
 authentic value; nothing would be equal to it except for the Ghadir
 narration. Now let us see the text of the narration:
 
-<blockquote dir="rtl">
-  <p>
-“إِنِّي تارِكٌ فِيكُمُ الثَقَلَيْنِ كِتاب اللهِ وَ عِتْرَتِي أَهْل
-بَيتي ما إِنْ تَمَّسَكْتُمْ بِهِما لَنْ تَضِلُّوا أَبَداً وَ لَنْ
-يَفْتَرِقا حتّی يَرِدا عَلَيَّ الْحَوض”.
-  </p>
-</blockquote>
+> “إِنِّي تارِكٌ فِيكُمُ الثَقَلَيْنِ كِتاب اللهِ وَ عِتْرَتِي أَهْل
+> بَيتي ما إِنْ تَمَّسَكْتُمْ بِهِما لَنْ تَضِلُّوا أَبَداً وَ لَنْ
+> يَفْتَرِقا حتّی يَرِدا عَلَيَّ الْحَوض”.
 
 I will leave you two worthy items: One is God's book and the other one
 is my Household. If you resort to both of these, you will not go astray;
@@ -46,11 +42,7 @@ and these two shall never separate.
 Ibn Hajar contends that the Prophet added the following phrase to the
 above narration:
 
-<blockquote dir="rtl">
-  <p>
-“هذا عِليٌّ مَعَ القُرآنِ وَ القُرآنُ مَعَ عَليّ لا يَفْتَرقان”.
-  </p>
-</blockquote>
+> “هذا عِليٌّ مَعَ القُرآنِ وَ القُرآنُ مَعَ عَليّ لا يَفْتَرقان”.
 
 “Ali is always with the Quran and the Quran is always with Ali; these
 two shall never separate”[^4].
@@ -111,12 +103,8 @@ having recited some verses of the Holy Quran relevant to his right of
 Imamate Ali said: “By God, do you remember, the Prophet in the last days
 of his life, recited a sermon and stated the following statement?
 
-<blockquote dir="rtl">
-  <p>
-“يا أَيُّهَا الناس إِنِّي تاركٌ فِيكُمُ الثقلين كتاب الله و عترتي أهل
-بيتي فتمسكوا بهما لا تضلوا”.
-  </p>
-</blockquote>
+> “يا أَيُّهَا الناس إِنِّي تاركٌ فِيكُمُ الثقلين كتاب الله و عترتي أهل
+> بيتي فتمسكوا بهما لا تضلوا”.
 
 “I have left for you two precious items: God's book and my Household;
 there fore resort to these two and you will not be misled”[^7].
@@ -169,12 +157,8 @@ O people, some of you know me well, but I introduce myself to those who
 do not know me: I am Jandab Ibn Jenadah, or Abu Zar. O people, I have
 heard your prophet say:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ مَثَلَ أَهْل بَيْتي في أُمَّتي كَمَثَلِ سَفِينَةِ نُوْحٍ في
-قَومِهِ مَنْ رَكِبَها نَجا وَ مَنْ تَرَكَها غَرق”.
-  </p>
-</blockquote>
+> “إِنَّ مَثَلَ أَهْل بَيْتي في أُمَّتي كَمَثَلِ سَفِينَةِ نُوْحٍ في
+> قَومِهِ مَنْ رَكِبَها نَجا وَ مَنْ تَرَكَها غَرق”.
 
 “My presence among you seems like Noah’s Ark among his people: Those who
 got onto the arc were rescued, but those who refused to do so were
@@ -237,5 +221,4 @@ it is pronounced "Theqi" it means a heavy material.
 
 [^11]: . Such as Mustadrak Hakem, vol 3/p. 343; Kanz al-‘Ummal, vol 1/p.
 250; As-Sawa’eq, p 75: Feizol Ghadir, vol 4/p. 356.
-
 

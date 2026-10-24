@@ -124,6 +124,5 @@ of a book.
 
 **Notes:**
 
-[^1] Nahj al-Bala-ghah, ?Abduh, volume 3, page 33
-
+[^1]: Nahj al-Bala-ghah, ?Abduh, volume 3, page 33
 

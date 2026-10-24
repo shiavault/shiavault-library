@@ -4,12 +4,8 @@ Section 4: Moral Conduct
 Surah Isra’ – Verse 31
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْتُلُوا أَوْلاَدَكُمْ خَشْيَةَ إِمْلاَقٍ نَّحْنُ نَرْزُقُهُمْ
-وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ كَانَ خِطْئاً كَبِيراً
-  </p>
-</blockquote>
+> وَلاَ تَقْتُلُوا أَوْلاَدَكُمْ خَشْيَةَ إِمْلاَقٍ نَّحْنُ نَرْزُقُهُمْ
+> وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ كَانَ خِطْئاً كَبِيراً
 
 ***31. “And do not kill your offspring for fear of poverty. We sustain
 them as well as you. Verily killing them is a capital sin.”***
@@ -61,11 +57,7 @@ immense proportions.
 Surah Isra’ – Verse 32
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْرَبُوا الزّ‌ِنَي إِنَّهُ كَانَ فَاحِشَةً وَسَآءَ سَبِيلاً
-  </p>
-</blockquote>
+> وَلاَ تَقْرَبُوا الزّ‌ِنَي إِنَّهُ كَانَ فَاحِشَةً وَسَآءَ سَبِيلاً
 
 ***32. “And do not approach fornication, verily it is an indecency and
 an evil way.”***
@@ -212,13 +204,9 @@ the initiation into the Fire of Hell’.”* [^1]
 Surah Isra’ – Verse 33
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقّ‌ِ
-وَمَن قُتِلَ مُظْلُوماً فَقَدْ جَعَلْنَا لِوَلِيّـِهِ سُلْطَاناً فَلا
-يُسْرِف فِي الْقَتْلِ إِنَّهُ كَانَ مَنصُوراً
-  </p>
-</blockquote>
+> وَلاَ تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقّ‌ِ
+> وَمَن قُتِلَ مُظْلُوماً فَقَدْ جَعَلْنَا لِوَلِيّـِهِ سُلْطَاناً فَلا
+> يُسْرِف فِي الْقَتْلِ إِنَّهُ كَانَ مَنصُوراً
 
 ***33. “And do not kill any one whom Allah has forbidden, save for just
 cause, and whoever is killed unjustly We have appointed to his heir
@@ -317,13 +305,9 @@ measure for preventing over retaliation.
 Surah Isra’ – Verse 34
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْرَبُوا مَالَ الْيَتِيمِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
-حَتَّي يَبْلُغَ أَشُدَّهُ وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ
-مَسْؤولاً
-  </p>
-</blockquote>
+> وَلاَ تَقْرَبُوا مَالَ الْيَتِيمِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
+> حَتَّي يَبْلُغَ أَشُدَّهُ وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ
+> مَسْؤولاً
 
 ***34. “And do not approach the property of the orphan except in the
 best manner (to his advantage); until he reaches his maturity, and keep
@@ -443,12 +427,8 @@ and obedience with respect to Ali (as). [^8]
 Surah Isra’ – Verse 35
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ
-الْمُسْتَقِيمِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
-  </p>
-</blockquote>
+> وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ
+> الْمُسْتَقِيمِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
 
 ***35. “And give the full measure when you measure out and weigh you
 with the right balance, that is good and better in the end.”***
@@ -507,12 +487,8 @@ The verse concludes:
 Surah Isra’ – Verse 36
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ الْسَّمْعَ وَالْبَصَرَ
-كُلُّ أُوْلَئِكَ كَانَ عَنْهُ مَسْؤُولاً
-  </p>
-</blockquote>
+> وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ الْسَّمْعَ وَالْبَصَرَ
+> كُلُّ أُوْلَئِكَ كَانَ عَنْهُ مَسْؤُولاً
 
 ***36. “And do not follow that of which you have not knowledge; verily
 the hearing and the sight and the heart, all these will be questioned
@@ -599,12 +575,8 @@ with regard to his hidden intentions in the Resurrection Day.
 Surah Isra’ – Verse 37
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَمْشِ فِي الاَرْضِ مَرَحاً إِنَّكَ لَن تَخْرِقَ الاَرْضَ وَلَن
-تَبْلُغَ الْجِبَالَ طُولاً
-  </p>
-</blockquote>
+> وَلاَ تَمْشِ فِي الاَرْضِ مَرَحاً إِنَّكَ لَن تَخْرِقَ الاَرْضَ وَلَن
+> تَبْلُغَ الْجِبَالَ طُولاً
 
 ***37. “And do not walk around exultantly on the earth; certainly you
 will never rend the earth; nor attain the mountains in height.”***
@@ -657,11 +629,7 @@ Mecca twenty times on foot, saying:
 Surah Isra’ – Verse 38
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ ذَلِكَ كَانَ سَيّـِئُهُ عِندَ رَبّـِكَ مَكْرُوهاً
-  </p>
-</blockquote>
+> كُلُّ ذَلِكَ كَانَ سَيّـِئُهُ عِندَ رَبّـِكَ مَكْرُوهاً
 
 ***38. “All of that, the sin of it, is hateful in the sight of your
 Lord.”***
@@ -702,13 +670,9 @@ characteristics tend to leave their impacts on his own behaviour.
 Surah Isra’ – Verse 39
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ مِمَّا أَوْحَي إِلَيْكَ رَبُّكَ مِنَ الْحِكْمَةِ وَلاَ تَجْعَلْ
-مَعَ اللَّهِ إِلَهاً ءَاخَرَ فَتُلْقَي فِي جَهَنَّمَ مَلُوماً
-مَّدْحُوراً
-  </p>
-</blockquote>
+> ذَلِكَ مِمَّا أَوْحَي إِلَيْكَ رَبُّكَ مِنَ الْحِكْمَةِ وَلاَ تَجْعَلْ
+> مَعَ اللَّهِ إِلَهاً ءَاخَرَ فَتُلْقَي فِي جَهَنَّمَ مَلُوماً
+> مَّدْحُوراً
 
 ***39. “That (commandment) is of the wisdom (that) your Lord has
 revealed to you, and do not associate with Allah any other god for you
@@ -772,12 +736,8 @@ opening of one’s way to the ‘inferno’.
 Surah Isra’ – Verse 40
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَاَصْفَاكُمْ رَبُّكُم بِالْبَنِينَ وَاتَّخَذَ مِنَ الْمَلآئِكَةِ
-إِنَاثاً إِنَّكُمْ لَتَقوُلُونَ قَوْلاً عَظِيماً
-  </p>
-</blockquote>
+> أَفَاَصْفَاكُمْ رَبُّكُم بِالْبَنِينَ وَاتَّخَذَ مِنَ الْمَلآئِكَةِ
+> إِنَاثاً إِنَّكُمْ لَتَقوُلُونَ قَوْلاً عَظِيماً
 
 ***40. “Has your Lord then distinguished you by giving you sons, and has
 taken daughters (for Himself) from among the angels? Verily, you are
@@ -874,5 +834,4 @@ near-stationed of His presence. You get furious upon hearing the name
 [^13]: Surah Al-Tūr, No. 52, verse 39
 
 [^14]: Surah An-Najm, No. 53, verse 21
-
 

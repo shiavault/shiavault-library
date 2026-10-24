@@ -353,4 +353,3 @@ but gave them respite. Thereafter, He chastised them severely, which was
 a very hard chastisement from the Almighty God. O Aba Abdul Rahmân! Fear
 Allâh and do not refrain from assisting me."
 
-

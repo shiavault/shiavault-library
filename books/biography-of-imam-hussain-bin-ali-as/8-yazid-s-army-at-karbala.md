@@ -811,4 +811,3 @@ Fourth holy Imam, was bound in heavy thorny chains, fettered and was
 most heartlessly treated as the sharp, piercing edges were almost
 choking him.
 
-

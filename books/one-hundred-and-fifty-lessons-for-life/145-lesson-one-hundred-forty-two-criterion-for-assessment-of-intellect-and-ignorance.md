@@ -3,11 +3,7 @@ Lesson One Hundred Forty Two: Criterion For Assessment Of Intellect And Ignoranc
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَللِّسانُ مِعْيارُ اِطاشَةِ الْجَهْلِ وَ اَرْجِحَةِ الْعَقْلِ
-  </p>
-</blockquote>
+> اَللِّسانُ مِعْيارُ اِطاشَةِ الْجَهْلِ وَ اَرْجِحَةِ الْعَقْلِ
 
 Translation
 -----------
@@ -33,5 +29,4 @@ silence and self-control in our speech.
 
 [^1]: Tuhaful Uqul, page 143. Sharh Nahjul Balaghah, vol 7, page 88.
 Giraru Al-Hikam, page 211.
-
 

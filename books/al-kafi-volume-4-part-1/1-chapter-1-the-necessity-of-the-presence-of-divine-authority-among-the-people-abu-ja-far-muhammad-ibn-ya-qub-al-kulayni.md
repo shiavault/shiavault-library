@@ -344,4 +344,3 @@ reported the story of Zayd to abu 'Abdallah (a.s.) and what I said to
 Zayd. The Imam (a.s.) said, "You surrounded him from his fron, back,
 left, right, above and below and did not leave for any way out.
 
-

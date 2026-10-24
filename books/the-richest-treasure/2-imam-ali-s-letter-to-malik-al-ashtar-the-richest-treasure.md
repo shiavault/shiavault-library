@@ -60,4 +60,3 @@ blessings or excites divine wrath against him more easily than cruelty.
 Hence it is, that God listens to the voice of the oppressed and waylays
 the oppressor.
 
-

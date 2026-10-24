@@ -57,4 +57,3 @@ mujtahid and does not have such confidence in himself, then one must
 follow a (taqlid) of a particular mujtahid and act according to his
 rulings.[Tr].
 
-

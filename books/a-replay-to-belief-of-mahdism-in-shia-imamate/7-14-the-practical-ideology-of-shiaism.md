@@ -479,4 +479,3 @@ too Sunni. So under the pretext of TAQIA. The writer is short o of
 knowledge in this subject. As we pointed out earlier it is a clear
 commandment from God. To obey God is not wrong.
 
-

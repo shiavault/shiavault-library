@@ -662,4 +662,3 @@ saying, “This is not ascertained,” or, “The authenticity of the
 narration is not known,” or, “There are traditions which prove that this
 is not true.”
 
-

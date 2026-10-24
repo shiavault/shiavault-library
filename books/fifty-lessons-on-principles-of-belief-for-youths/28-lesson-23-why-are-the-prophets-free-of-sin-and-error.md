@@ -129,4 +129,3 @@ example of someone who is immaculate in relation to another group?
  5. Is the immaculateness of the prophets coercive or a result of free
 will? Why?
 
-

@@ -667,4 +667,3 @@ But there are other aspects other than these aspects of cosmic justice
 which Ali examined, checked their forms, and colours. So what are these
 aspects .
 
-

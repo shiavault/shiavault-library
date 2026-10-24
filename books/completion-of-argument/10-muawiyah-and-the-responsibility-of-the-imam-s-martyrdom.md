@@ -970,4 +970,3 @@ of Allah (S)
 
 [^16]: Persian Couplet
 
-

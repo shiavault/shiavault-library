@@ -1,9 +1,6 @@
 The Abbasid State:
 ==================
 
-  
-  
-
 While many traditions were reported on merit of Mu’awiyah and the Sham,
 the Abbasid State had also a good share of traditions in its support
 after disintegration of the Umayyad State, and establishment of the
@@ -21,7 +18,7 @@ caliphate perpetual in his descent.
 
 Al-Tabarani reported that the Messenger of Allah (S) said: Successorship
 will be verily among my cousins and full brother of my father, till they
-hand it over to Christ. <span id="_anchor_224"></span>224
+hand it over to Christ. 224
 
 Fabrication of hadith extended to include al-Saffah. Ahmad reported from
 Abu Sa’id al-Khudri that the Messenger of Allah said: At the end of the
@@ -53,7 +50,7 @@ parts!
 ### Censuring the Turks:
 
 On the occasion of making a reference to the Turks I intend to say:
-Al-Mu’tasim <span id="_anchor_225"></span>225 brought a large number of
+Al-Mu’tasim 225 brought a large number of
 the Turks into the country till they occupied everywhere in Baghdad,
 embarking on annoying and oppressing its people, who were averse to
 their coming, since they constituted a bad omen for them wherever they
@@ -104,12 +101,11 @@ verily more entitled than you to it. But when you hear a hadith from me,
 which your hearts disapprove and from which your senses are alienated,
 finding it quite far from your conception, I will be verily farther than
 you from it. Al-Sayyid Rashid Rida says that the isnad (chain of
-transmission) of this hadith is good and authentic. <span
-id="_anchor_226"></span>226
+transmission) of this hadith is good and authentic. 226
 
 Khalid ibn Yazid is reported to have said: I heard Muhammad ibn Sa’id
 al-Dimashqi saying: When the speech being fluent, I see no harm in
-finding an isnad for it. <span id="_anchor_227"></span>227
+finding an isnad for it. 227
 
 In al-Hilyah, he reported from Ibn Mahdi, from Abu Luhay’ah that he
 heard a shaykh from among the Kharijites saying (after repenting): These
@@ -130,10 +126,6 @@ firstly narrated it, out of good intention. From him it will be reported
 by another one, after whom comes that arguing with the assertives and
 takes it as a means for argumentation, despite its origin to which we
 referred before!
-
-  
-  
-  
 
 224. The prophecy of the hadith came true, as sovereignty remainted in
 the hands of Banu al-Abbas till the Jesus Christ received it from them!!

@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أَعْطى‏ وَ اتَّقى وَ صَدَّقَ بِالْحُسْنى‏
-فَسَنُيَسِّرُهُ لِلْيُسْرى ‏
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أَعْطى‏ وَ اتَّقى وَ صَدَّقَ بِالْحُسْنى‏
+> فَسَنُيَسِّرُهُ لِلْيُسْرى ‏
 
 *“Then as for him who gives away and guards (against evil), and accepts
 the best, We will facilitate for him the easy end.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَصلُحُ دِينَکُم إِلاَّ السَّخاَءُ وَ حُسنُ الْخَلقِ‏.
-  </p>
-</blockquote>
+> لاَ يَصلُحُ دِينَکُم إِلاَّ السَّخاَءُ وَ حُسنُ الْخَلقِ‏.
 
 *“Nothing shall ensure the welfare (and interests) of your religion
 except generosity and good disposition.”*[^2]
@@ -110,11 +102,7 @@ that I can entertain you and shower you with gifts and presents!”
 
 The old lady said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا لاَ نَطلُبُ عَلىَ الضَّيفِ جَزاَءً
-  </p>
-</blockquote>
+> اِنَّا لاَ نَطلُبُ عَلىَ الضَّيفِ جَزاَءً
 
 “Neither do we seek any reward from our guests nor do we sell bread for
 money, and she refused to accept anything from me.”
@@ -135,11 +123,7 @@ face transforming.
 (At that moment) Jibra\`il descended and said: “Your Lord sends His
 greetings and Says:
 
-<blockquote dir="rtl">
-  <p>
-هَذَا رَجُلٌ سَخِيٌّ يُطْعِمُ الطَّعَامَ‏
-  </p>
-</blockquote>
+> هَذَا رَجُلٌ سَخِيٌّ يُطْعِمُ الطَّعَامَ‏
 
 'This man is generous by nature and feeds the people.'”
 
@@ -153,11 +137,7 @@ others!”
 The man from Yemen said: “Does your Allah love generosity?” When the
 Noble Prophet (s.a.w) replied in the affirmative, the Yemeni declared:
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنْ لاٌ إِلٌهَ إِلاَّ اللٌّهُ وَ أَنَّكَ رُسُولُ اللٌّهِ
-  </p>
-</blockquote>
+> أَشْهَدُ أَنْ لاٌ إِلٌهَ إِلاَّ اللٌّهُ وَ أَنَّكَ رُسُولُ اللٌّهِ
 
 “I bear witness that there is no creature or entity worthy of worship
 except for Allah and that you are His Messenger.”
@@ -228,13 +208,9 @@ disbursed it.”
 It was due to this act on the part of Imam ‘Ali (a.s) that Allah
 revealed the following verse in his (a.s) excellence:
 
-<blockquote dir="rtl">
-  <p>
-رِجالٌ لا تُلْهِيهِمْ تِجارَةٌ وَ لا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَ
-إِقامِ الصَّلاةِ وَ إِيتاءِ الزَّكاةِ يَخافُونَ يَوْماً تَتَقَلَّبُ
-فِيهِ الْقُلُوبُ وَ الْأَبْصارُ
-  </p>
-</blockquote>
+> رِجالٌ لا تُلْهِيهِمْ تِجارَةٌ وَ لا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَ
+> إِقامِ الصَّلاةِ وَ إِيتاءِ الزَّكاةِ يَخافُونَ يَوْماً تَتَقَلَّبُ
+> فِيهِ الْقُلُوبُ وَ الْأَبْصارُ
 
 “Men whom neither merchandise nor selling diverts from the remembrance
 of Allah and the keeping up of prayer and the giving of poor-rate; they
@@ -297,5 +273,4 @@ collapsed.[^6]
 
 [^6]: Paighambar Wa Yaran, vol. 5, pg. 165; Qamus al-Rijal, vol. 7, pg.
 399
-
 

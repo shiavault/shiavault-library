@@ -240,7 +240,7 @@ of Abu Bakr, and from his answer to it. We will also come to know from
 both letters facts which are indispensable to those who seek the
 truth.
 
-[^266] This is the commentary of the author of Tanweer al-Hawalik: Sharh
+[^266]: This is the commentary of the author of Tanweer al-Hawalik: Sharh
 ala Muwatta' Malik. We say: All Praise is due to Allah when "a witness
 from her family testified" with regard to the confusion of and
 contradiction among their traditions. Just as he has said, the argument
@@ -248,13 +248,13 @@ of none of their faqihs can be accepted. Rather, the argument stands
 with the purified Imams of Guidance who never differed from one another
 with regard to anything.
 
-[^267] Al-Naisapuri, Tafsir Ghara'ib al-Qur'an, Vol. 1, p. 77, in a
+[^267]: Al-Naisapuri, Tafsir Ghara'ib al-Qur'an, Vol. 1, p. 77, in a
 footnote commenting about al-Tabari's Tafsir.
 
-[^268] Shaykh Abu Zuhra makes this statement on p. 161 of his book
+[^268]: Shaykh Abu Zuhra makes this statement on p. 161 of his book
 Al-Imam al-Sadiq.
 
-[^269] This story is narrated by al-Hakim in his Mustadrak where he
+[^269]: This story is narrated by al-Hakim in his Mustadrak where he
 comments by saying, "This tradition is authentic according to both
 shaykhs [al-Bukhari and Muslim]." Al-Tirmidhi cites it on p. 299, Vol.
 2, of his Sahih. Al-Tabari quotes it on p. 160, Vol. 2, of his book

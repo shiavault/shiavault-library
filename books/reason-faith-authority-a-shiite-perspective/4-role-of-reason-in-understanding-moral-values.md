@@ -120,4 +120,3 @@ revelation. According to Shi’a thinkers,
 religion can provide us with a fuller and more comprehensive account of
 morality, and moreover motivates us to observe moral requirements.
 
-

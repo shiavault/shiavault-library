@@ -8,11 +8,7 @@ for verily this will lead the soul that is sound to become sick and the
 one that is innocent [and calm] into suspicion [and uneasiness].
 
 > 1ـ إيّاكَ والتَّغايُـرَ في غَيْرِ مَوْضِعِهِ، فَإنَّ ذلِكَ يَدْعُو
-<blockquote dir="rtl">
-  <p>
-الصَّحِيحَةَ إلَى السَّقَمِ، والبَريئَةَ إلَى الرَّيْبِ.
-  </p>
-</blockquote>
+> الصَّحِيحَةَ إلَى السَّقَمِ، والبَريئَةَ إلَى الرَّيْبِ.
 
 2. The proof of a man’s sense of honour is his chastity.
 
@@ -38,5 +34,4 @@ Glorified.
 [^1]: In the context of being possessive of one’s wife or the female
 members of one’s family such that no other man should look at them or
 have any contact with them as this would hurt one’s sense of honour.
-
 

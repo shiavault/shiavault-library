@@ -242,4 +242,3 @@ to Allah and Allah alone!
 Sacred Mosque; and surely it is the very truth from your Lord, and Allah
 is not at all heedless of what you do.***
 
-

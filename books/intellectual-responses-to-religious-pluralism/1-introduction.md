@@ -140,4 +140,3 @@ examine some of the factors evident in the current situation of
 religious pluralism from the perspective of the scholarship of religious
 studies.  That is at least the task I have set myself.
 
-

@@ -425,4 +425,3 @@ Him; and know that Allah is Forgiving, Forbearing." That is, Allah does
 not hasten to punish His servants, because He is ' Forbearing ' about
 what they do.
 
-

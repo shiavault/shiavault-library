@@ -409,4 +409,3 @@ extinguishing a fire? However, in this parable the bird (said to be a
 nightingale) could well be showing its faith and attachment to the
 Prophet.
 
-

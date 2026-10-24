@@ -108,4 +108,3 @@ provider of sustenance for them."[^5]
 
 [^6]: Mustadrak al-wasail, v 2, p. 106
 
-

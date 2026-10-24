@@ -266,4 +266,3 @@ his presence: ‘Who is the most noble of people?’ Those around him said:
 left my presence.’ N"fi! said addressing Zayn al-!wbid:n: ‘You are the
 chief of people and the best of them.’255
 
-

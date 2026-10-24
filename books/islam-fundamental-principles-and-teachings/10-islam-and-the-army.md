@@ -204,7 +204,6 @@ Q. How are the judge and the Islamic system of Justice? 218 See for
 example “If Islam were to be Established” by the late Imam Muhammad
 Shirazi.
 
-
 A. In Islam the judge must be a believer and a just man, learned in
 Islamic judicial law, and expert (mujtahid) in its rules and cases.
 Judgement must be based on evidences and oath, without complication and
@@ -377,5 +376,4 @@ strong sense of responsibility in the physician such that he would not
 allow himself to be complacent in the diagnosis and treatment, and in
 turn that makes the physician more observant when diagnosing and
 treating the disease, and prescribing the medicine.
-
 

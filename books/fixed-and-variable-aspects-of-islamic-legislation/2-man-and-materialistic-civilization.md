@@ -144,7 +144,6 @@ the hereafter and the pleasure of Allah, the Glorious. These proofs show
 that man has no other refuge than to return to Islam and a life under
 the shade of the Qur'an.
 
-
 **A Glance at Islamic Legislation**
 
 "And We have revealed to you the Book with the truth, verifying that
@@ -304,5 +303,4 @@ enacting authorities.
 And since these authorities derive their legislative competence from
 the Divine law, their role of granting legal force to these enactments
 is only a secondary one.
-
 

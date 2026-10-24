@@ -132,12 +132,9 @@ to themselves as well as to others.
 
 This is the logic behind the tests from Allah
 
-
-
 [^1]: Surah Mulk 67:2
 
 [^2]: Surah Baqarah 2:155
 
 [^3]: Surah Aale Imran 3:141
-
 

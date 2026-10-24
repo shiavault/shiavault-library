@@ -1,14 +1,10 @@
 23.  Evil Parents And Kindness
 ==============================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَرٍ (ع) قَالَ: ثَلاَثٌ لَمْ يَجْعَلِ اللٌّهُ عَزَّ وَ
-جَلَّ لِأَحَدٍ فِيهِنَّ رُخْصَةً أَدَاءُ الأََمَانَةِ إِلَى الْبَرِّ
-وَ الْفَاجِرِ وَ الْوَفَاءُ بِالْعَهْدِ لِلْبَرِّ وَ الْفَاجِرِ وَ
-بِرُّ الْوَالِدَيْنِ بَرَّيْنِ كَانَا أَوْ فَاجِرَيْنِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَرٍ (ع) قَالَ: ثَلاَثٌ لَمْ يَجْعَلِ اللٌّهُ عَزَّ وَ
+> جَلَّ لِأَحَدٍ فِيهِنَّ رُخْصَةً أَدَاءُ الأََمَانَةِ إِلَى الْبَرِّ
+> وَ الْفَاجِرِ وَ الْوَفَاءُ بِالْعَهْدِ لِلْبَرِّ وَ الْفَاجِرِ وَ
+> بِرُّ الْوَالِدَيْنِ بَرَّيْنِ كَانَا أَوْ فَاجِرَيْنِ.
 
 Imam Muhammad al-Baqir (peace be upon him) has said: “There are three
 things which Allah, the Mighty and the Glorious has not permitted anyone
@@ -19,5 +15,4 @@ an evil one; being good and kind towards one’s parents, irrespective of
 whether they are good or evil.”
 
 Biharul Anwar, Volume 74, Page 56
-
 

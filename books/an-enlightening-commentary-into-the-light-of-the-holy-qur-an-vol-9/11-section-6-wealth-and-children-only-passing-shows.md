@@ -4,13 +4,9 @@ Section 6: Wealth and Children, Only Passing Shows
 Surah Al-Kahf – Verse 45
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاضْرِبْ لَهُم مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَآءٍ أَنزَلْنَاهُ مِنَ
-السَّمَآءِ فَاخْتَلَطَ بِهِ نَبَاتُ الاَرْضِ فَاَصْبَحَ هَشِيماً
-تَذْرُوهُ الرّ‌ِيَاحُ وَكَانَ اللَّهُ عَلَي كُلّ‌ِ شَيْءٍ مُقْتَدِراً
-  </p>
-</blockquote>
+> وَاضْرِبْ لَهُم مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَآءٍ أَنزَلْنَاهُ مِنَ
+> السَّمَآءِ فَاخْتَلَطَ بِهِ نَبَاتُ الاَرْضِ فَاَصْبَحَ هَشِيماً
+> تَذْرُوهُ الرّ‌ِيَاحُ وَكَانَ اللَّهُ عَلَي كُلّ‌ِ شَيْءٍ مُقْتَدِراً
 
 ***45. “And coin for them the similitude of the life of the world as
 water which We send down from the sky, and the plants of the earth
@@ -60,12 +56,8 @@ SuraYunus, No. 10, verse 24, and Surah Al-Hadeed, No.57, verse 20, too.
 Surah Al-Kahf – Verse 46
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا وَالْبَاقِيَاتُ
-الصَّالِحَاتُ خَيْرٌ عِندَ رَبّـِكَ ثَواباً وَخَيْرٌ أَمَلاً
-  </p>
-</blockquote>
+> الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا وَالْبَاقِيَاتُ
+> الصَّالِحَاتُ خَيْرٌ عِندَ رَبّـِكَ ثَواباً وَخَيْرٌ أَمَلاً
 
 ***46. “Wealth and children are an ornament of the life of the world,
 and the everlasting good works are better with your Lord in reward and
@@ -120,20 +112,12 @@ of Ahl-ul-Bayt (as), and so on.
 Surah Al-Kahf – Verses 47 - 48
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نُسَيّـِرُ الْجِبَالَ وَتَرَي الاَرْضَ بَارِزَةً
-وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَداً
-  </p>
-</blockquote>
+> وَيَوْمَ نُسَيّـِرُ الْجِبَالَ وَتَرَي الاَرْضَ بَارِزَةً
+> وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَداً
 
-<blockquote dir="rtl">
-  <p>
-وَعُرِضُوا عَلَي رَبّـِكَ صَفّاً لَّقَدْ جِئْتُمُونَا كَمَا
-خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ بَلْ زَعَمْتُمْ أَلَّن نَجْعَلَ لَكُم
-مَوْعِداً
-  </p>
-</blockquote>
+> وَعُرِضُوا عَلَي رَبّـِكَ صَفّاً لَّقَدْ جِئْتُمُونَا كَمَا
+> خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ بَلْ زَعَمْتُمْ أَلَّن نَجْعَلَ لَكُم
+> مَوْعِداً
 
 ***47. “And (remember) the day We shall set the mountains in motion, and
 you will see the earth a leveled plain and We muster them nor shall We
@@ -232,14 +216,10 @@ communities will be only forty thousand rows. [^2]
 Surah Al-Kahf – Verse 49
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوُضِعَ الْكِتَابُ فَتَرَي الْمُـجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
-وَيَقُولُونَ يَاوَيْلَتَنَا مَالِ هَذَا الْكِتَابِ لاَ يُغَادِرُ
-صَغِيرَةً وَلاَ كَبِيرَةً إِلآَّ أَحْصَاهَا وَوَجَدُوا مَا عَمِلُوا
-حَاضِراً وَلاَ يِظْلِمُ رَبُّكَ أَحَداً
-  </p>
-</blockquote>
+> وَوُضِعَ الْكِتَابُ فَتَرَي الْمُـجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
+> وَيَقُولُونَ يَاوَيْلَتَنَا مَالِ هَذَا الْكِتَابِ لاَ يُغَادِرُ
+> صَغِيرَةً وَلاَ كَبِيرَةً إِلآَّ أَحْصَاهَا وَوَجَدُوا مَا عَمِلُوا
+> حَاضِراً وَلاَ يِظْلِمُ رَبُّكَ أَحَداً
 
 ***49. “And the Book (of deeds) is placed, and you see the guilty
 fearful at what is in it, and saying: ‘Alas for us! What a Book is this,
@@ -427,5 +407,4 @@ tradition has also been narrated by men of tradition and community.
 [^7]: Nahjul-Balaq‍ah, Sermon 226
 
 [^8]: Nahjul-Balaq‍ah, Sermon 132
-
 

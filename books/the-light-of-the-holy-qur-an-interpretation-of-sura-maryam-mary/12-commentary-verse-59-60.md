@@ -144,7 +144,6 @@ repentance, Faith, and righteous deeds. The abovementioned verse says:
 shall enter Paradise, and they shall not be dealt with unjustly in any
 way."
 
-
 **Commentary : Verse 61.62.63**
 
 61- جَنَّاتِ عَدْنٍ الَّتِى وَعَدَ الرَّحْمنُ عِبَادَهُ بِالْغَيْبِ
@@ -260,5 +259,4 @@ servants to inherit who are pious."
 
 Thus, the key of the door of Paradise, with all those bounties, is
 nothing but 'piety'.
-
 

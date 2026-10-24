@@ -8,14 +8,10 @@ addition to his other pronouncements. Meanwhile, it is equally probable
 that the sermons were given at other places, before or after Ghadir
 Khumm. Let us start with this riwayah by Imam al-Fasawi (d. 277 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى قال :حدثنا جرير عن الحسن بن عبيد الله عن أبي الضحى عن زيد
-بن أرقم قال: النبي صلى الله عليه وسلم :إني تارك فيكم ما إن تمسكتم به
-لن تضلوا كتاب الله عز وجل وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا
-علي الحوض.
-  </p>
-</blockquote>
+> حدثنا يحيى قال :حدثنا جرير عن الحسن بن عبيد الله عن أبي الضحى عن زيد
+> بن أرقم قال: النبي صلى الله عليه وسلم :إني تارك فيكم ما إن تمسكتم به
+> لن تضلوا كتاب الله عز وجل وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا
+> علي الحوض.
 
 Yahya – Jarir - al-Hasan b. ‘Ubayd Allah – Abu al-Dhuha – Zayd b. Arqam:
 
@@ -26,24 +22,16 @@ separate from each other until they meet me at the Lake-Fount.”[^1]
 
 Al-Hafiz (d. 852 H) states concerning the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-يحيى بن يحيى بن بكير بن عبد الرحمن التميمي أبو زكريا النيسابوري ثقة
-ثبت إمام
-  </p>
-</blockquote>
+> يحيى بن يحيى بن بكير بن عبد الرحمن التميمي أبو زكريا النيسابوري ثقة
+> ثبت إمام
 
 Yahya b. Yahya b. Bukayr b. ‘Abd al-Rahman al-Tamimi, Abu Zakariyyah
 al-Naysaburi: Thiqah (trustworthy), thabt (accurate), an Imam.[^2]
 
 What about the second narrator? Al-Hafiz submits:
 
-<blockquote dir="rtl">
-  <p>
-جرير بن عبد الحميد بن قرط بضم القاف وسكون الراء بعدها طاء مهملة الضبي
-الكوفي نزيل الري وقاضيها ثقة
-  </p>
-</blockquote>
+> جرير بن عبد الحميد بن قرط بضم القاف وسكون الراء بعدها طاء مهملة الضبي
+> الكوفي نزيل الري وقاضيها ثقة
 
 Jarir b. ‘Abd al-Hamid b. Qurt al-Dhabi al-Kufi, a resident of al-Rayy
 and its judge: Thiqah (trustworthy).[^3]
@@ -51,23 +39,15 @@ and its judge: Thiqah (trustworthy).[^3]
 The third narrator is thiqah (trustworthy) as well, according to
 al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-الحسن بن عبيد الله بن عروة النخعي أبو عروة الكوفي ثقة فاضل
-  </p>
-</blockquote>
+> الحسن بن عبيد الله بن عروة النخعي أبو عروة الكوفي ثقة فاضل
 
 Al-Hasan b. ‘Ubayd Allah b. ‘Urwah al-Nakha’i, Abu ‘Urwah al-Kufi:
 Thiqah (trustworthy), fadhil (virtuous).[^4]
 
 And the last narrator is like that too, as affirmed by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-مسلم بن صبيح بالتصغير الهمداني أبو الضحى الكوفي العطار مشهور بكنيته
-ثقة فاضل
-  </p>
-</blockquote>
+> مسلم بن صبيح بالتصغير الهمداني أبو الضحى الكوفي العطار مشهور بكنيته
+> ثقة فاضل
 
 Muslim b. Subayh al-Hamdani, Abu al-Dhuha al-Kufi al-‘Attar, well-known
 with his kunya: Thiqah (trustworthy), fadhil (virtuous).[^5]
@@ -78,16 +58,12 @@ connected. So, it is an absolutely sahih chain!
 Meanwhile, Imam al-Tirmidhi (d. 279 H) has also recorded a shahid for
 it:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن المنذر كوفي حدثنا محمد بن فضيل قال حدثنا الأعمش عن عطية
-عن أبي سعيد و الأعمش عن حبيب بن أبي ثابت عن زيد بن أرقم رضي الله عنهما
-قالا : قال رسول الله صلى الله عليه و سلم إني تارك فيكم ما إن تمسكتم به
-لن تضلوا بعدي أحدهما أعظم من الآخر كتاب الله حبل ممدود من السماء إلى
-الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا علي الحوض فانظروا كيف
-تخلفوني فيهما
-  </p>
-</blockquote>
+> حدثنا علي بن المنذر كوفي حدثنا محمد بن فضيل قال حدثنا الأعمش عن عطية
+> عن أبي سعيد و الأعمش عن حبيب بن أبي ثابت عن زيد بن أرقم رضي الله عنهما
+> قالا : قال رسول الله صلى الله عليه و سلم إني تارك فيكم ما إن تمسكتم به
+> لن تضلوا بعدي أحدهما أعظم من الآخر كتاب الله حبل ممدود من السماء إلى
+> الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا علي الحوض فانظروا كيف
+> تخلفوني فيهما
 
 ‘Ali b. al-Mundhir Kufi – Muhammad b. Fudhayl – al-A’mash – ‘Atiyyah –
 Abu Sa’id (al-Khudri): AND al-‘Amash – Habib b. Abi Thabit – Zayd b.
@@ -103,34 +79,22 @@ me.”[^6]
 
 Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-وهذا حديث حسن غريب
-  </p>
-</blockquote>
+> وهذا حديث حسن غريب
 
 And this hadith is hasan gharib (i.e. has a hasan chain).[^7]
 
 And ‘Allamah al-Albani (d. 1420 H) states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^8]
 
 Sayyid Hasan al-Saqqaf also has this comment:
 
 > ورواه الترمذي 663/5) برقم (3788 بسند صحيح بلفظ إني تارك فيكم ما إن
-<blockquote dir="rtl">
-  <p>
-تمسكتم به لن تضلوا بعدي أحدهما أعظم من الآخر كتاب الله حبل ممدود من
-السماء إلى الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا علي الحوض فانظروا
-كيف تخلفوني فيهما
-  </p>
-</blockquote>
+> تمسكتم به لن تضلوا بعدي أحدهما أعظم من الآخر كتاب الله حبل ممدود من
+> السماء إلى الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا علي الحوض فانظروا
+> كيف تخلفوني فيهما
 
 Al-Tirmidhi (5/663, \# 3788) recorded it WITH A SAHIH CHAIN, with this
 wording:
@@ -144,15 +108,11 @@ treat them after me.”[^9]
 
 Imam Ahmad (d. 241 H) further documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا بن نمير ثنا عبد الملك بن أبي سليمان عن
-عطية العوفي عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه و سلم:
-اني قد تركت فيكم ما ان أخذتم به لن تضلوا بعدي الثقلين أحدهما أكبر من
-الآخر كتاب الله حبل ممدود من السماء إلى الأرض وعترتي أهل بيتي الا
-وانهما لن يفترقا حتى يردا على الحوض
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا بن نمير ثنا عبد الملك بن أبي سليمان عن
+> عطية العوفي عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه و سلم:
+> اني قد تركت فيكم ما ان أخذتم به لن تضلوا بعدي الثقلين أحدهما أكبر من
+> الآخر كتاب الله حبل ممدود من السماء إلى الأرض وعترتي أهل بيتي الا
+> وانهما لن يفترقا حتى يردا على الحوض
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Ibn Numayr – ‘Abd
 al-Malik b. Abi Sulayman – ‘Atiyyah al-‘Awfi – Abu Sa’id al-Khudri:
@@ -166,11 +126,7 @@ verily, both shall never separate from each other until they meet me at
 the Lake-Fount.”[^10]  
  Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح دون قوله " وإنهما لن يفترقا حتى يردا علي الحوض "
-  </p>
-</blockquote>
+> حديث صحيح دون قوله " وإنهما لن يفترقا حتى يردا علي الحوض "
 
 It is a sahih hadith, with the exception of the statement “And, verily,
 both shall never separate from each other until they meet me at the
@@ -185,11 +141,7 @@ research. Besides, the chain of this last riwayah above is reliable as
 well, as ‘Allamah al-Albani declares, after quoting that exact same
 report from Musnad Ahmad:
 
-<blockquote dir="rtl">
-  <p>
-وهو إسناد حسن في الشواهد.
-  </p>
-</blockquote>
+> وهو إسناد حسن في الشواهد.
 
 And it is a chain that is hasan through the shawahid (corroborating
 evidences).[^12]
@@ -198,11 +150,7 @@ Interestingly, this is what al-Arnaut himself says about the same hadith
 of ‘Atiyyah above from the same Abu Sa’id al-Khudri, with the same
 chain, in another book:
 
-<blockquote dir="rtl">
-  <p>
-سنده حسن بالشواهد.
-  </p>
-</blockquote>
+> سنده حسن بالشواهد.
 
 Its chain is hasan through the shawahid.[^13]
 
@@ -255,5 +203,4 @@ al-Tawzi’; 1st edition, 1415 H), vol. 4, p. 357, \# 1761
 fi al-Dhabb ‘an Sunnah Abi al-Qasim (Beirut: Muasassat al-Risalah; 2nd
 edition, 1416 H) [annotator: Shu’ayb al-Arnaut], vol. 1, p. 178,
 footnote \# 1
-
 

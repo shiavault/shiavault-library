@@ -23,14 +23,10 @@ At the end of his last *Hajj*, he declared the future leadership as Imam
 place in a region called Khumm Spring (i.e. Ghadir), the Holy Prophet
 (S) openly declared:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ.
-اَللَّهُمَّ وَالِ مَنْ وَالاَهُ، وَعَادِ مَنْ عَادَاهُ، وَانْصُرْ مَنْ
-نَصَرَهُ، وَاخْذُلْ مَنْ خَذَلَهُ، وَأَحِبَّ مَنْ أَحَبَّهُ،
-وَأَبْغِضْ مَنْ أَبْغَضَهُ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ.
+> اَللَّهُمَّ وَالِ مَنْ وَالاَهُ، وَعَادِ مَنْ عَادَاهُ، وَانْصُرْ مَنْ
+> نَصَرَهُ، وَاخْذُلْ مَنْ خَذَلَهُ، وَأَحِبَّ مَنْ أَحَبَّهُ،
+> وَأَبْغِضْ مَنْ أَبْغَضَهُ.
 
 *O people, whoever has taken me as master, ‘Ali is now his master. O
 Allah, (please) be the friend of him who takes ‘Ali as master, be the
@@ -62,13 +58,9 @@ virtuous community inside this society.
 In this regard, Shaykh al-Kulayni and Shaykh al-Saduq have reported
 through a valid chain of authority that Imam al-Baqir (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أُمِرَ النَّاسُ أَنْ يَأْتُوا هَذِهِ الأَحْجَارَ فَيَطُوفُوا
-بِهَا، ثُمَّ يَأْتُونَا فَيُخْبِرُونَا بِوِلاَيَتِهِمْ وَيُعْرِضُوا
-عَلَيْنَا نَصْرَهُمْ.
-  </p>
-</blockquote>
+> إِنَّمَا أُمِرَ النَّاسُ أَنْ يَأْتُوا هَذِهِ الأَحْجَارَ فَيَطُوفُوا
+> بِهَا، ثُمَّ يَأْتُونَا فَيُخْبِرُونَا بِوِلاَيَتِهِمْ وَيُعْرِضُوا
+> عَلَيْنَا نَصْرَهُمْ.
 
 *The people have been ordered to come to these stones and circumambulate
 them so that they can then come to us to show their loyalty to us and
@@ -165,11 +157,7 @@ Commenting on this saying, Imam al-Sadiq (‘a) said:
 
 According to another tradition, Imam al-Sadiq (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ وَشِيعَتُنَا الضُّعَفَاءُ.
-  </p>
-</blockquote>
+> نَحْنُ وَشِيعَتُنَا الضُّعَفَاءُ.
 
 *Our Shi’ah and we are the weak.*
 
@@ -181,12 +169,8 @@ through the following texts:
 1. Ja’far ibn Muhammad ibn Qawlawayh has reported Imam al-Baqir (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-الْجِهَادُ أَفْضَلُ الأَشْيَاءِ بَعْدَ الْفَرَائِضِ فِي وَقْتِ
-الْجِهَادِ، وَلاَ جِهَادَ إِلاَّ مَعَ الإِمَامِ.
-  </p>
-</blockquote>
+> الْجِهَادُ أَفْضَلُ الأَشْيَاءِ بَعْدَ الْفَرَائِضِ فِي وَقْتِ
+> الْجِهَادِ، وَلاَ جِهَادَ إِلاَّ مَعَ الإِمَامِ.
 
 *When its time comes, jihad is the best of all things save the ritual
 prayers. However, no jihad is permissible except under the pennon (or
@@ -226,15 +210,11 @@ made within the discussion of *jihad*.
 3. Imam al-Sadiq (‘a) is validly reported to have quoted Imam ‘Ali (‘a)
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَخْرُجُ الْمُسْلِمُ فِي الْجِهَادِ مَعَ مَنْ لاَ يُؤْمَنُ عَلَى
-الْحُكْمِ، وَلاَ يُنْفِذُ فِي الْفَيْءِ أَمْرَ اللهِ عَزَّ وَجَلَّ;
-فَإِنَّهُ إِنْ مَاتَ فِي ذَلِكَ الْمَكَانِ كَانَ مُعِيناً لِعَدُوِّنَا
-فِي حَبْسِ حَقِّنَا وَالإِشَاطَةِ بِدِمَائِنَا، وَمِيتَتُهُ مِيتَةٌ
-جَاهِلِيَّةٌ.
-  </p>
-</blockquote>
+> لاَ يَخْرُجُ الْمُسْلِمُ فِي الْجِهَادِ مَعَ مَنْ لاَ يُؤْمَنُ عَلَى
+> الْحُكْمِ، وَلاَ يُنْفِذُ فِي الْفَيْءِ أَمْرَ اللهِ عَزَّ وَجَلَّ;
+> فَإِنَّهُ إِنْ مَاتَ فِي ذَلِكَ الْمَكَانِ كَانَ مُعِيناً لِعَدُوِّنَا
+> فِي حَبْسِ حَقِّنَا وَالإِشَاطَةِ بِدِمَائِنَا، وَمِيتَتُهُ مِيتَةٌ
+> جَاهِلِيَّةٌ.
 
 *A Muslim must not participate in jihad with one who cannot be regarded
 as a just ruler and who does not apply the laws of Almighty Allah to the
@@ -466,12 +446,8 @@ Likewise, Talhah ibn Zayd has reported on the authority of Imam al-Baqir
 (‘a) on the authority of his father on the authority of Imam ‘Ali (‘a)
 who said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ عَرَفَةَ إِلاَّ بِمَكَّةَ، وَلاَ بَأْسَ أَنْ يَجْتَمِعُوا فِي
-الأَمْصَارِ يَوْمَ عَرَفَةَ يَدْعُونَ اللهَ.
-  </p>
-</blockquote>
+> لاَ عَرَفَةَ إِلاَّ بِمَكَّةَ، وَلاَ بَأْسَ أَنْ يَجْتَمِعُوا فِي
+> الأَمْصَارِ يَوْمَ عَرَفَةَ يَدْعُونَ اللهَ.
 
 *The Day of ‘Arafat should not be celebrated anywhere save Makkah. It is
 however not objectionable for the people of a country to gather on this
@@ -488,11 +464,7 @@ It has been reported that whoever says the following supplication on the
 night preceding the Day of ‘Arafat, as well as on Thursday nights, will
 have all his/her sins forgiven by Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ يَا شَاهِدَ كُلِّ نَجْوَى وَمَوْضِعَ كُلِّ شَكْوَى…
-  </p>
-</blockquote>
+> اللَّهُمَّ يَا شَاهِدَ كُلِّ نَجْوَى وَمَوْضِعَ كُلِّ شَكْوَى…
 
 *O Allah Who witnesses all secrets of hearts, Who is the object of all
 complaints…*
@@ -635,14 +607,10 @@ the thirteenth day at Mina.
 It is recommended to repeat the famous statements of *takbir* specified
 for this occasion. These statements are as follows:
 
-<blockquote dir="rtl">
-  <p>
-اللّهُ اَكْبَرُ ٱللّهُ اَكْبَرُ لاَ إِلٰهَ إِلاَّ ٱللّهُ وَٱللّهُ
-اَكْبَرُ اللّهُ اَكْبَرُ ٱللّهُ اَكْبَرُ وَلِلّهِ ٱلْحَمْدُ اللّهُ
-اَكْبَرُ عَلَىٰ مَا هَدَانَا اللّهُ اَكْبَرُ عَلَىٰ مَا رَزَقَنَا مِنْ
-بَهيمَةِ ٱلاَنْعَامِ وَٱلْحَمْدُ لِلّهِ عَلَىٰ مَا اَبْلاَنَا.
-  </p>
-</blockquote>
+> اللّهُ اَكْبَرُ ٱللّهُ اَكْبَرُ لاَ إِلٰهَ إِلاَّ ٱللّهُ وَٱللّهُ
+> اَكْبَرُ اللّهُ اَكْبَرُ ٱللّهُ اَكْبَرُ وَلِلّهِ ٱلْحَمْدُ اللّهُ
+> اَكْبَرُ عَلَىٰ مَا هَدَانَا اللّهُ اَكْبَرُ عَلَىٰ مَا رَزَقَنَا مِنْ
+> بَهيمَةِ ٱلاَنْعَامِ وَٱلْحَمْدُ لِلّهِ عَلَىٰ مَا اَبْلاَنَا.
 
 **Allah is the Greatest. Allah is the Greatest. There is no god save
 Allah. Allah is the Greatest. Allah is the Greatest. Allah is the
@@ -724,5 +692,4 @@ left under sunlight in order not to decay or because these animals
 should be offered for the sake of Almighty Allah and not slaughtered
 before sunrise. (Quoted from Fathullah Ahmad, Mu\`jam Alfaz al-Fiqh
 al-Ja\`fari, pp. 78) [Translator]
-
 

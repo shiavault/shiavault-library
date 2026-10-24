@@ -343,4 +343,3 @@ inhabitants do not offer prayers that conquest is of no use. In other
 words it is no good if the people are religious but do not understand
 religion.
 
-

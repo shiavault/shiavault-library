@@ -38,4 +38,3 @@ Mukhtar became cheerful and said:
 
 *May Allah make you happy! This is the beginning of the conquest!*
 
-

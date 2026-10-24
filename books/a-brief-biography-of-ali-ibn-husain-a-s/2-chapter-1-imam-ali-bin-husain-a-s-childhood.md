@@ -96,4 +96,3 @@ Imam Hasan (A.S that for the time Ali Bin Husain (A.S) stayed with him,
 though still only a child, he showed great love for prayers. He would
 get up in the midst of the night and pray till dawn.
 
-

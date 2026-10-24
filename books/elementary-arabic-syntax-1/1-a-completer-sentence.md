@@ -20,4 +20,3 @@ preposition. Instead it can be made up of:
 
 • A verb and a noun: **اِنطَفا** **سِراجٌ** (A lamp died out.)
 
-

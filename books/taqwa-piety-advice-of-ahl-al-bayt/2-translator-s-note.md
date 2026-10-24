@@ -17,4 +17,3 @@ well as my dear son Arya, for their love of Ahl al-Bayt (PBUT).
 
 Ali Akbar Aghili Ashtiani
 
-

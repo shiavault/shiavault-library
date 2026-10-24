@@ -232,4 +232,3 @@ to understand.،¦ (al-،¥Ankab.t, 29:34،X35)
 has said: ،¥And those similitude We strike them for the people, but none
 understands them save those who know.،¦ (al- ،¥Ankab.t,29:43)
 
-

@@ -3,12 +3,8 @@
 
  
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَلِيٌّ (ع): أَللٌّهُ أَللٌّهُ فِي بَيْتِ رَبِّكُمْ لاَ
-تَخْلُوهُ مَا بَقِيتُمْ فَإِنَّهُ إِنْ تُرِكَ لَمْ تُنَاظَرُوا.
-  </p>
-</blockquote>
+> قَالَ عَلِيٌّ (ع): أَللٌّهُ أَللٌّهُ فِي بَيْتِ رَبِّكُمْ لاَ
+> تَخْلُوهُ مَا بَقِيتُمْ فَإِنَّهُ إِنْ تُرِكَ لَمْ تُنَاظَرُوا.
 
    
  Imam ‘Ali Ibn Abi Talib (peace be upon him) has said, “By Allah, by
@@ -19,5 +15,4 @@ look towards you (with His Mercy).”
  Biharul Anwar, Volume 96, Page 16
 
  
-
 

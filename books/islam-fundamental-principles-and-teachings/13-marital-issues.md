@@ -391,7 +391,6 @@ even by keeping quiet.
 
 • Persisting on detestable matters.
 
-
 • To get involved with indecent things.
 
 • Involving one self in undesirable matters, even if they are not
@@ -485,7 +484,6 @@ decoration by them. They are many, some of which are as follows:
 • To take comfort with Allah.
 
 • To repent from unlawful things that Allah dislikes.
-
 
 • To submit oneself to the orders of Allah in all matters.
 
@@ -643,5 +641,4 @@ extent that it results in extreme pressure on oneself.
 • To be bashful.
 
 • To have a happy face.
-
 

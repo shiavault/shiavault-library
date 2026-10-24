@@ -411,4 +411,3 @@ authorities like RJ, Lu'lu'atu 'l-Bahrayn, etc.
 
 [^18]: RJ, 55824-25.
 
-

@@ -1,14 +1,10 @@
 Discourse 39: The Best of Actions
 =================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، سَيِّدُ
-الأَعْمَالِ ثَلاَثُ خِصَالِ عِظَامِ: إِِنْصَافُكَ النَّاسِ
-مِنْ نَفْسِك وَ مُواسَاتُكَ الأَخُ فِي اللٌّهِ عَزَّ وَجَلَّ
-وَذِكْرُكَ اللٌّهَ تَبَارَكَ وَتَعاَلـى عَلى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، سَيِّدُ
+> الأَعْمَالِ ثَلاَثُ خِصَالِ عِظَامِ: إِِنْصَافُكَ النَّاسِ
+> مِنْ نَفْسِك وَ مُواسَاتُكَ الأَخُ فِي اللٌّهِ عَزَّ وَجَلَّ
+> وَذِكْرُكَ اللٌّهَ تَبَارَكَ وَتَعاَلـى عَلى كُلِّ حَالٍ.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! The greatest of actions are
 the following three: Your acting in fairness with people more than with
@@ -45,11 +41,7 @@ profit while giving half of it to another person.)
 
 Imam ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِِنْصَافُ أَفْضَلُ الْفَضَائِلِ.
-  </p>
-</blockquote>
+> أَلإِِنْصَافُ أَفْضَلُ الْفَضَائِلِ.
 
 “Equity is the greatest of eminent deeds.”[^1]
 
@@ -206,11 +198,7 @@ and as we know, one of the minimum conditions for brotherhood is that of
 equality and the maximum level of brotherhood is self-sacrifice. The
 Qur\`an tells us that:
 
-<blockquote dir="rtl">
-  <p>
-وَيُؤْثِرُونَ عَلى أَنْفُسِهِمْ وَلَوْ كَانَ بَهِمْ خَصَاصَة
-  </p>
-</blockquote>
+> وَيُؤْثِرُونَ عَلى أَنْفُسِهِمْ وَلَوْ كَانَ بَهِمْ خَصَاصَة
 
 “…and they prefer (other) before themselves though poverty may afflict
 them.”[^2]
@@ -331,11 +319,7 @@ that Allah (SwT) is watching him at all times and in all states.
 
 In some of the traditions, it has been mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-وَلَيْسَ هُوَ قَوْلُ لاَ إِِلٌهَ إلاَّ اللٌّهُ وَاللٌّهُ أَكْبَرُ.
-  </p>
-</blockquote>
+> وَلَيْسَ هُوَ قَوْلُ لاَ إِِلٌهَ إلاَّ اللٌّهُ وَاللٌّهُ أَكْبَرُ.
 
 ”(The meaning of the remembrance of Allah) is other than the mere saying
 of 'There is no creature worthy of worship except for Allah and Allah is
@@ -351,12 +335,8 @@ state of happiness and jubilance that he forgets Allah (SwT) and only at
 times of need that he remembers Him and runs after Him since this is
 something which even the polytheistic ‘Arabs used to do:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا رَكَبُوا فِي الْفُلْكِ دَعَوْا اللٌّهَ مُخْلِصِينَ لَهُ
-الدِّينَ
-  </p>
-</blockquote>
+> وَ إِذَا رَكَبُوا فِي الْفُلْكِ دَعَوْا اللٌّهَ مُخْلِصِينَ لَهُ
+> الدِّينَ
 
 “And when they board the ship then they call upon Allah, sincere to Him
 in their faith…”[^5]
@@ -383,11 +363,7 @@ actually a valuable treasure which carries great importance to it and is
 available for everyone to make use of. However, we have all fallen into
 neglect in regards to His remembrance, just as the Qur\`an states that:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ بِذِكْرِ اللٌّهِ تَطْمَئِنُّ الْقُلُوبِ
-  </p>
-</blockquote>
+> أَلاَ بِذِكْرِ اللٌّهِ تَطْمَئِنُّ الْقُلُوبِ
 
 “Now surely with the remembrance of Allah are the hearts put at
 rest.”[^6]
@@ -413,11 +389,7 @@ It is not necessary that one shows off in this act of remembering Allah
 person goes to sit down in a gathering he should say 'O' Allah'; when he
 stands up to leave he should say:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفوُن
-  </p>
-</blockquote>
+> سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفوُن
 
 “Glory be to Your Lord the Lord of Greatness from that which others
 ignorantly attribute to Him…”[^7]
@@ -425,12 +397,8 @@ ignorantly attribute to Him…”[^7]
 When a person goes into his car or any other form of transportation, he
 should say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي سَخَّرَلَنا هٌذَا وَ مَا كُنَّا
-مُقَرِنِينَ…
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي سَخَّرَلَنا هٌذَا وَ مَا كُنَّا
+> مُقَرِنِينَ…
 
 “All praise belongs to Allah who has made this means of transportation
 subservient to us and had it not been for Him, we would never have been
@@ -438,31 +406,19 @@ able to have such a thing…”[^8]
 
 When the person reaches to his destination, he should say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ عَلَى السَلاَمَةِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ عَلَى السَلاَمَةِ.
 
 “All Praise belongs to Allah for safety (and reaching our destination
 unharmed).”
 
 When we start to eat, we must remember the name of Allah (SwT) and say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ  اللٌّهِ
-  </p>
-</blockquote>
+> بِسْمِ  اللٌّهِ
 
 'In the name of Allah'; when we finish out food we must thank Him and
 say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ
 
 'Thanks be to Allah (for this)'.
 
@@ -621,12 +577,8 @@ would bring an end to such feelings of insecurity and anxiety.
 When the soul of a person reaches to that level of spiritual expanse
 that just like ‘Ali b. Abi Talib (as) can say:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ دُنْـيَاكُمْ لاََهْوَنُ عِنْدِي مِنْ وَرَقَةِ فِي فَمِ جَرَادَةِ
-تَقْضَمُهَا.
-  </p>
-</blockquote>
+> إِنَّ دُنْـيَاكُمْ لاََهْوَنُ عِنْدِي مِنْ وَرَقَةِ فِي فَمِ جَرَادَةِ
+> تَقْضَمُهَا.
 
 “Surely your world has as much value to me as the leaf of a tree which
 is in the mouth of a locust who is chewing upon it.”[^9]
@@ -672,11 +624,7 @@ removed when one brings about true faith in Allah (SwT), then we will
 definitely confirm the fact that the remembrance of Allah (SwT) is that
 which brings tranquility to the hearts:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَبِذِكْرِاللهِ تَطْمَئِنُّ الْقُلُوبِ
-  </p>
-</blockquote>
+> أَلاَبِذِكْرِاللهِ تَطْمَئِنُّ الْقُلُوبِ
 
 “Now surely with the remembrance of Allah are the hearts put at ease.” !
 
@@ -697,5 +645,4 @@ which brings tranquility to the hearts:
 [^8]: Surat al-Zukhruf, verse 13
 
 [^9]: Bihar al-Anwar, vol. 75, pg. 359
-
 

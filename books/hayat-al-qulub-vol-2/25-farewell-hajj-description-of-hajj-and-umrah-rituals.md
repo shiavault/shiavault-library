@@ -6,15 +6,11 @@ Sadiq (a.s.) that the Holy Prophet (S) after his flight to Medina
 remained there for ten years, during which period he had not performed
 the Hajj, till the Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ
-ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ ﴿٢٧﴾ لِيَشْهَدُوا مَنَافِعَ
-لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ مَعْلُومَاتٍ عَلَىٰ مَا
-رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۖ فَكُلُوا مِنْهَا وَأَطْعِمُوا
-الْبَائِسَ الْفَقِيرَ
-  </p>
-</blockquote>
+> وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ
+> ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ ﴿٢٧﴾ لِيَشْهَدُوا مَنَافِعَ
+> لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ مَعْلُومَاتٍ عَلَىٰ مَا
+> رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۖ فَكُلُوا مِنْهَا وَأَطْعِمُوا
+> الْبَائِسَ الْفَقِيرَ
 
 ***“And proclaim among men the Pilgrimage: they will come to you on foot
 and on every lean camel, coming from every remote path, that they may
@@ -63,13 +59,9 @@ He recited this prayer facing the Kaaba, and came again to the black
 stone, over which he drew his hand and kissed it, and then started for
 Safa, reciting this passage of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ
-الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ
-بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ
+> الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ
+> بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ
 
 ***“Surely the Safa and the Marwah are among the signs appointed by
 Allah; so whoever makes a pilgrimage to the House or pays a visit (to
@@ -122,12 +114,8 @@ eighth of the month Zilhajj. He there gave orders for the people to
 perform the ritual bath and dress in Ihram according to the directions
 of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ صَدَقَ اللَّهُ ۗ فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا
-كَانَ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ صَدَقَ اللَّهُ ۗ فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا
+> كَانَ مِنَ الْمُشْرِكِينَ
 
 ***“Say: Allah has spoken the truth, therefore follow the religion of
 Ibrahim, the upright one; and he was not one of the polytheists.”***[^3]
@@ -146,12 +134,8 @@ The Quraish had hoped that the Prophet would be influenced to keep with
 them, but they were disappointed, for the Allah, the Most High revealed
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ ۚ
-إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ ۚ
+> إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
 
 ***“Then hasten on from the Place from which the people hasten on and
 ask the forgiveness of Allah; surely Allah is Forgiving,
@@ -362,12 +346,8 @@ and lice was dropping from his hair and he had tied up the Ihram. The
 Holy Prophet (S) asked him if the lice were troubling him? He replied:
 Yes. At that juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ
-فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ
-  </p>
-</blockquote>
+> فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ
+> فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ
 
 ***“But whoever among you is sick or has an ailment of the head, he
 (should effect) a compensation by fasting or alms or
@@ -476,11 +456,7 @@ Ali (a.s.). Imitating the Prophet, Imam Ali (a.s.) continued to wear the
 Ihram. There were many among the Muslims who had not come with animals
 of sacrifice, so the Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَتِمُّواْ الْحَجَّ وَالْعُمْرَةَ لِلهِ
-  </p>
-</blockquote>
+> وَأَتِمُّواْ الْحَجَّ وَالْعُمْرَةَ لِلهِ
 
 ***“And accomplish the pilgrimage and the visit for Allah.”***[^8]
 
@@ -547,22 +523,14 @@ Religious Text (*Nass*) on Ali (a.s.) and that the proof is completed in
 this regard and no excuse remains for anyone to say that he has not
 heard:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ 
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ
 
 ***“O Apostle! Deliver what has been revealed to you from your Lord
 (about announcing the appointment of Ali Ibn Abi Talib (a.s.) as the
 Caliph).”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ
-يَعْصِمُكَ مِنَ النَّاسِ 
-  </p>
-</blockquote>
+> وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ
+> يَعْصِمُكَ مِنَ النَّاسِ
 
 ***“And if you do it not, then you have not delivered His message, and
 Allah will protect you from the people.”***[^10]
@@ -1527,15 +1495,11 @@ pilgrimage. When he completed the rituals of Hajj, Jibraeel came down to
 him and brought the first verses of Surah Ankabut and said: O Messenger
 of Allah (S) read:
 
-<blockquote dir="rtl">
-  <p>
-الم ﴿١﴾ أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا
-وَهُمْ لَا يُفْتَنُونَ ﴿٢﴾ وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ
-قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا
-وَلَيَعْلَمَنَّ الْكَاذِبِينَ ﴿٣﴾ أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ
-السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ
-  </p>
-</blockquote>
+> الم ﴿١﴾ أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا
+> وَهُمْ لَا يُفْتَنُونَ ﴿٢﴾ وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ
+> قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا
+> وَلَيَعْلَمَنَّ الْكَاذِبِينَ ﴿٣﴾ أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ
+> السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ
 
 ***“Alif Lam Mim. Do men think that they will be left alone on saying,
 We believe, and not be tried? And certainly We tried those before them,
@@ -1642,13 +1606,9 @@ return to Medina, appoint Amirul Momineen (a.s.) as the Imam. That is
 why the Holy Prophet (S) traveled continuously for two days and nights.
 On the third day, Jibraeel came with the last verses of Surah Hijr:
 
-<blockquote dir="rtl">
-  <p>
-فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ ﴿٩٢﴾ عَمَّا كَانُوا
-يَعْمَلُونَ ﴿٩٣﴾ فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ
-الْمُشْرِكِينَ ﴿٩٤﴾ إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ ﴿٩٥﴾
-  </p>
-</blockquote>
+> فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ ﴿٩٢﴾ عَمَّا كَانُوا
+> يَعْمَلُونَ ﴿٩٣﴾ فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ
+> الْمُشْرِكِينَ ﴿٩٤﴾ إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ ﴿٩٥﴾
 
 ***“So, by your Lord, We would most certainly question them all, As to
 what they did. Therefore declare openly what you are bidden and turn
@@ -1660,14 +1620,10 @@ Medina as soon as possible and make Ali (a.s.) as his Caliph. On the 4th
 night Jibraeel came to him in the last hours of the night and brought
 the following verses:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ۖ
-وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ
-يَعْصِمُكَ مِنَ النَّاسِ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
-الْكَافِرِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ۖ
+> وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ
+> يَعْصِمُكَ مِنَ النَّاسِ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
+> الْكَافِرِينَ
 
 ***“O Apostle! deliver what has been revealed to you from your Lord; and
 if you do it not, then you have not delivered His message, and Allah
@@ -1858,12 +1814,8 @@ they may appoint one they trust. Indeed it is obligatory on Muslims to
 follow the Holy Prophet (S) as he deserves to be followed. Thus the
 Almighty Allah has said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
-يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
+> يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ
 
 ***“Certainly you have in the Apostle of Allah an excellent exemplar for
 him who hopes in Allah and the latter day.”***[^14]
@@ -1902,13 +1854,9 @@ is it there for his sons even if he is closely related to the Holy
 Prophet (S). Because the Lord of the Worlds says that all are obliged to
 obey His commands.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
-أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
+> أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
 
 ***“O you men! surely We have created you of a male and a female, and
 made you tribes and families that you may know each other; surely the
@@ -1960,14 +1908,10 @@ post-prayer supplications till the sun arose. The Prophet glanced at Abu
 Ubaidah and said by way of ridicule: Who can be like you! Now you are
 the trustee of the community. Then he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ
-يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا
-قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ
-مِمَّا يَكْسِبُونَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ
+> يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا
+> قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ
+> مِمَّا يَكْسِبُونَ
 
 ***“Woe, then, to those who write the book with their hands and then
 say: This is from Allah, so that they may take for it a small price;
@@ -2246,13 +2190,9 @@ had many followers. The love of Abu Bakr had deep roots in their hearts
 just as in the hearts of Bani Israel were devoted to the calf and Samiri
 as the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا
-مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا
-وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا
+> مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا
+> وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ
 
 ***“And when We made a covenant with you and raised the mountain over
 you: Take hold of what We have given you with firmness and be obedient.
@@ -2352,5 +2292,4 @@ Hajj and the Prophet was not ready to imitate their heresies.
 [^16]: Surah Baqarah 2:79
 
 [^17]: Surah Baqarah 2:93
-
 

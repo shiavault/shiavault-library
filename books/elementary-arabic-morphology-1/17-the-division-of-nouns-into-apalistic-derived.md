@@ -17,4 +17,3 @@ words are derived from the word **عِلم** (knowledge).
 62. Derived nouns are: active participles, passive participles,
 comparatives, superlatives and epithets.
 
-

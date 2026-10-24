@@ -120,4 +120,3 @@ scales even though they might have fallen off, like the scales of Kan-at
 itself on everything and loses its scale and only the scales of its tail
 remain.
 
-

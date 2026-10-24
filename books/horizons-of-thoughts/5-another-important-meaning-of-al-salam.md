@@ -48,9 +48,7 @@ seeking higher levels of peace for the Imam ('a) who already enjoys
 peace. In fact the verse below implies that the degrees of peace are
 endless:
 
-<p dir="rtl">
 وَاللهُ يَدْعُو اِلي دَارِ السَّلاَمِ.
-</p>
 
 And Allah invites to the abode of Peace…[^59]
 
@@ -58,7 +56,6 @@ Note that the indefinite verb yad'u denotes 'continuity' and
 permanence. Therefore even with regard to the the Holy Prophet(s) who
 enjoys the highest level of perfection, the invitation is open. Rather
 it is open both in this world as well as the Hereafter.
-
 
 **Seeking The Absolute State Of-Salam**
 
@@ -68,10 +65,8 @@ mentioned. Therefore it is taken to mean peace without any kind of
 particulairy of limitation. And this is the highest form of peace, which
 no one save Almighty Allah enjoys. The Holy Qur'an says:
 
-<p dir="rtl">
 هُوَ اللَّهُ الَّذِي لا إِلهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلامُ
 الْمُؤْمِنُ الْمُهَيْمِنُ...
-</p>
 
 …He is Allah, other than Whom there is no god, He alone is the
 Sovereign, the Most Holy, the Absolute Peace [^60]
@@ -79,9 +74,7 @@ Sovereign, the Most Holy, the Absolute Peace [^60]
 Nevertheless the human beings are taught to seek such peace for the
 obedient servants of Almighty Allah. Look at the following verses:
 
-<p dir="rtl">
 وَقُل الْحَمْدُ لِلهِ وَسَلاَمٌ عَلَى عِبَادِهِ الَّذِينَ اصْطَفَى
-</p>
 
 Say, All praise belongs to Allah, and Peace [in the absolute sense] be
 to His servants whom He has chosen [^61]
@@ -106,9 +99,7 @@ But a true beliver has an all-embracing heart, and thus yearns for the
 betterment of others too. Perhaps that is why we are encouraged to greet
 others with al-Salam. The Holy Prophet (s) is reported to have said:
 
-<p dir="rtl">
 السّلاَمُ اِسْم مِنْ أَسْمَاءِ اللهِ تَعَالى فَافْشُوهُ بَيْنَكُمْ.
-</p>
 
 Al-Salam is a Name from among the Names of Almighty Allah; therefore,
 spread the same between you…[^62] In fact the word Muslim has originally
@@ -117,11 +108,9 @@ tradition:
 
 The Holy Prophet (s) is reported to have said:
 
-<p dir="rtl">
 تَسَمّى اللهُ باِسْمَينِ سَمَّى بِهمَا أُمّتِى هُوَ السَّلاَمُ وَسَمَّى
 أُمّتِي المُسْلِمِينَ، وَهُوَ الْمُؤْمِنُ وَسَمَّى أُمَّتِى
 الْمُؤْمِنِينَ.
-</p>
 
 Allah Named Himself with two names with which he [also] named my
 Nation: He is al-Salam and He named my nation as muslims, and He is
@@ -131,9 +120,7 @@ Perhaps due to this reason, exponents of ziyarah like al-Shubbar in his
 al-Anwar al-Lami'ah and 'Allama Majlisi in his Bihar al-Anwar believe
 that one of the meanings of al-Salamu 'alayka is [^64]:
 
-<p dir="rtl">
 اِسْمُ السَّلاَمِ عَلَيْكَ.
-</p>
 
 May Allah always Envelop you with His Name al-Salam
 
@@ -142,5 +129,4 @@ but teaches us to ask for our Muslim brothers and sisters to be availed
 of the same. It should be understood however that the levels of peace
 are infinite. Therefore invoking peace for others while we greet them
 should never cease.
-
 

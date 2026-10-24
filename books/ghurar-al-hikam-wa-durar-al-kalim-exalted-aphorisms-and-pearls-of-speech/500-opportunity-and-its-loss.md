@@ -17,11 +17,7 @@ thirst with it but does not take advantage of it, he will soon feel
 thirsty and seek it, but will not find it.
 
 > 3ـ مَنْ وَجَدَ مَوْرِداً عَذْباً يَرْتَوي مِنْهُ فَلَمْ يَغْتَنِمْهُ
-<blockquote dir="rtl">
-  <p>
-يُوشِكُ أنْ يَظْمَأَ ويَطْلُبَهُ فَلا يَجِدُهُ.
-  </p>
-</blockquote>
+> يُوشِكُ أنْ يَظْمَأَ ويَطْلُبَهُ فَلا يَجِدُهُ.
 
 4. Many a lost thing is such that it cannot be regained.
 
@@ -41,42 +37,26 @@ future].
 [again] after you lose it.
 
 > 7ـ غافِصِ الفُرْصَةَ عِنْدَ إمْكانِها فَإنَّكَ غَيْرُ مُدْرِكِها
-<blockquote dir="rtl">
-  <p>
-بَعْدَ فَوْتِها.
-  </p>
-</blockquote>
+> بَعْدَ فَوْتِها.
 
 8. Breathe before the necks are strangled, and yield before being driven
 violently.
 
 > 8ـ تَنَفَّسُوا قَبْلَ ضيقِ الخِناقِ، وانْقادُوا قَبْلَ عُنْفِ
-<blockquote dir="rtl">
-  <p>
-السِّياقِ.
-  </p>
-</blockquote>
+> السِّياقِ.
 
 9. Take the respite of the days, protect the boundaries of Islam, and
 anticipate the sudden attack of death.
 
 > 9ـ خُذُوا مَهَلَ الأيّامِ، وحُوطُواْ قَواصِيَ الإسْلامِ، وبادِرُوا
-<blockquote dir="rtl">
-  <p>
-هُجُومَ الحِمامِ.
-  </p>
-</blockquote>
+> هُجُومَ الحِمامِ.
 
 10. May Allah have mercy on the one who takes the benefit of respite
 [and opportunity], hastens towards good deeds and cowers out of fear [of
 Allah].
 
 > 10ـ رَحِمَ اللّهُ امْرَءاً إغْتَنَمَ المَهَلَ، وبادَرَ العَمَلَ،
-<blockquote dir="rtl">
-  <p>
-وأَكْمَشَ مِنْ وَجَل.
-  </p>
-</blockquote>
+> وأَكْمَشَ مِنْ وَجَل.
 
 11. Opportunity is quick to pass on and slow to return.
 
@@ -91,11 +71,7 @@ to annihilation.
 dwelling before your arrival.
 
 > 13ـ اِرْتَدْ لِنَفْسِكَ قَبْلَ يَوْمِ نُزُولِكَ، ووَطِّ المَنْزِلَ
-<blockquote dir="rtl">
-  <p>
-قَبْلَ حُلُولِكَ.
-  </p>
-</blockquote>
+> قَبْلَ حُلُولِكَ.
 
 14. Make your time of comfort a [means of] preparation for the days of
 your tribulation.
@@ -143,11 +119,7 @@ satisfied with it].
 opportunity leads to distress.
 
 > 24ـ إذا أمْكَنَتِ الفُرْصَةُ فَانْتَهِزْها، فَإنَّ إضاعَةَ الفُرْصَةِ
-<blockquote dir="rtl">
-  <p>
-غُصَّةٌ.
-  </p>
-</blockquote>
+> غُصَّةٌ.
 
 25. Seize good opportunities, for indeed they pass by [quickly] like the
 passing of clouds.
@@ -163,22 +135,14 @@ remains from it is not certain, so take advantage of your [present] time
 by performing [good] actions.
 
 > 27ـ إنَّ ماضِيَ يَوْمِكَ مُنْتَقِلٌ، وباقِيَهُ مُتَّهِمٌ، فَاغْتَنِمْ
-<blockquote dir="rtl">
-  <p>
-وَقْتَكَ بِالعَمَلِ.
-  </p>
-</blockquote>
+> وَقْتَكَ بِالعَمَلِ.
 
 28. Verily opportunities pass away [quickly] like the clouds, so seize
 them when they arise in the gates of good, otherwise they will turn into
 regrets.
 
 > 28ـ إنَّ الفُرَصَ تَمُرُّ مَرَّ السَّحابِ فَانْتَهِزُوها إذا أمْكَنَتْ
-<blockquote dir="rtl">
-  <p>
-في أبْوابِ الخَيْرِ وَإلاّ عادَتْ نَدَماً.
-  </p>
-</blockquote>
+> في أبْوابِ الخَيْرِ وَإلاّ عادَتْ نَدَماً.
 
 29. The fruit of loss [of opportunity] is regret.
 
@@ -205,11 +169,7 @@ your time is a blessing, so make haste in it while you have the
 opportunity, and beware of relying on the future.
 
 > 34ـ ماضي يَوْمِكَ فائِتٌ، وآتيهِ مُتَّهَمْ، ووَقْتُكَ مُغْتَنَمٌ،
-<blockquote dir="rtl">
-  <p>
-فَبادِرْ فيهِ فُرْصَةَ الإمْكانِ، وإيّاكَ أنْ تَثِقَ بِالزَّمانِ.
-  </p>
-</blockquote>
+> فَبادِرْ فيهِ فُرْصَةَ الإمْكانِ، وإيّاكَ أنْ تَثِقَ بِالزَّمانِ.
 
 35. In loss [of opportunity] there is regret and (or) blame.
 
@@ -240,11 +200,7 @@ moderate in your acquisition.
 be sure that he will lose it.
 
 > 41ـ مَنْ أخَّرَ الفُرْصَةَ عَنْ وَقْتِها فَلْيَكُنْ عَلى ثِقَة مِنْ
-<blockquote dir="rtl">
-  <p>
-فَوْتِها.
-  </p>
-</blockquote>
+> فَوْتِها.
 
 42. One who seizes the opportunity is saved from distress.
 
@@ -259,5 +215,4 @@ be sure that he will lose it.
 > 44ـ مَنْ تَقاعَسَ إعْتاقَ.
 
 [^1]: Or: At times an opportunity is realized.
-
 

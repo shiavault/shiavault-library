@@ -3321,4 +3321,3 @@ the verse means that one of those who followed Noah (P) was Ibrahim
 
 [^3]: Tarikh Tabari vol. 7, p. 267.
 
-

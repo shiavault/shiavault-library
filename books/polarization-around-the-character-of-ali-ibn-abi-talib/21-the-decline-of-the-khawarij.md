@@ -26,4 +26,3 @@ their enemies.
 [^1]: . On this doctrine, see \`Allamah S. M. H. Tabataba'i: Shi'ite
 Islam (transl. S. H. Nasr) pp. 223 - 225. (tr. )
 
-

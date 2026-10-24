@@ -57,4 +57,3 @@ highest understanding and unity forming a God – centered school with the
 intention of the real and true propagation of religiosity, spirituality,
 morality, values, virtues and education.
 
-

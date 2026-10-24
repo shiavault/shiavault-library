@@ -26,4 +26,3 @@ His good servants, for He listens and He answers.
 
 Muhammad al Tijani al Samawi
 
-

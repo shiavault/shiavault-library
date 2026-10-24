@@ -714,4 +714,3 @@ Tarikh, Ibn Asakir, vol 1 p 85; Tafsir, Ala al Din al Shafi'i, vol 3 p
 371 The Life of Muhammad by Hasanyn Haykal, First Edition (Section on:
 And admonish your nearest, your kinsmen)
 
-

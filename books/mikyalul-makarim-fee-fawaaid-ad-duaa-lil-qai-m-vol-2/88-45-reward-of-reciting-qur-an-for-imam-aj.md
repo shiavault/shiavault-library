@@ -37,4 +37,3 @@ perform this meritorious deed.
 
 [^1]: Biharul Anwar, Vol. 98, Chapter 5, Pg. 5
 
-

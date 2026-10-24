@@ -63,4 +63,3 @@ to these laws.
 [^1]: Al-Hurr al-Amili, Wasa'il al-Shi'ah, vol. 6, Kitab al-Jihad, Bab
 wujud al-Du'a ila al-Islam.
 
-

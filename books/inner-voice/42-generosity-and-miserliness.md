@@ -39,4 +39,3 @@ wealth and earns the condemnation of God for his miserliness….and, as if
 that was not enough, gets his share in the punishment of the heirs
 also”.
 
-

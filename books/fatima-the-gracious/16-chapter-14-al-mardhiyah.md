@@ -9,4 +9,3 @@ by piety, and sincerity. Fatima az-Zahra (sa) was one of those who was
 able to reach this lofty position. She achieved this rank through her
 good deeds that pleased Allah, and made Him well-satisfied with her.
 
-

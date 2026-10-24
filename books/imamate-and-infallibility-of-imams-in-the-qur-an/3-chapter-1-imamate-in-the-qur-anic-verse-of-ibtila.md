@@ -1,13 +1,9 @@
 Chapter 1: Imamate in the Qur’anic Verse of Ibtila’
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذِ ابْتَلى إِبْراهِيمَ رَبُّهُ بِكَلِماتٍ فَأَتَمَّهُنَّ قالَ
-إِنِّي جاعِلُكَ لِلنَّاسِ إِماماً قالَ وَ مِنْ ذُرِّيَّتِي قالَ لا
-يَنالُ عَهْدِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَ إِذِ ابْتَلى إِبْراهِيمَ رَبُّهُ بِكَلِماتٍ فَأَتَمَّهُنَّ قالَ
+> إِنِّي جاعِلُكَ لِلنَّاسِ إِماماً قالَ وَ مِنْ ذُرِّيَّتِي قالَ لا
+> يَنالُ عَهْدِي الظَّالِمِينَ
 
 **“*****And when his Lord tried Ibrahim with commands, he fulfilled
 them. He said: Surely I will make you an Imam for mankind.***
@@ -520,5 +516,4 @@ his descendants”![^2]
 
 [^2]: – Usool al-Kafi, the translation of vol. 1, p. 283 (the original
 text: vol. 1, p. 198); Oyoon Akhbar al-Rida (p.b.u.h.), vol. 1, p. 216.
-
 

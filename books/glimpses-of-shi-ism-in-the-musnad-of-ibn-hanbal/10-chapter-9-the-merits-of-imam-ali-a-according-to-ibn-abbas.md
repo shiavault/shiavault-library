@@ -85,11 +85,11 @@ Master.”[^43]
 
 **Notes:**
 
-[^42] The conquest of Khaybar by Imam ‘Ali- (‘a) is among the widely
+[^42]: The conquest of Khaybar by Imam ‘Ali- (‘a) is among the widely
 related hadith. Ibn Hanbal has recorded this several times in his
 Musnad, e.g. refer to vol. 3, p. 116 and vol. 4, p. 52, al-Maymuniyyah
 print.
-[^43] We have mentioned this hadith in brief because of its length. For
+[^43]: We have mentioned this hadith in brief because of its length. For
 the full text refer to Musnad, hadith 3062 (Ahmad Sha-kir), and also
 hadith no. 3063 recorded through different isna-d. Ahmad Sha-kir
 considers the isna-d of both the hadith as sahi-h.

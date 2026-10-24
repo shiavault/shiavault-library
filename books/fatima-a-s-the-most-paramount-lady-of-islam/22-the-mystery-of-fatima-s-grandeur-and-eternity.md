@@ -17,4 +17,3 @@ through writing, speaking, and hearing, because all her attributes are
 in full and infinity. Her faith, her morals, devotion, soul elevation,
 grandeur, knowledge all are in utmost perfection.
 
-

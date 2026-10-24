@@ -606,4 +606,3 @@ those who ward off (evil)….” (2:1)
 exposition of that which is decreed for mankind – Therein is no doubt –
 from the Lord of the Worlds.” (10:37)
 
-

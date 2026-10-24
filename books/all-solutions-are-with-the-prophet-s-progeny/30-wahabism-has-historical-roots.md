@@ -117,4 +117,3 @@ the Prophet.
 [^4]: Mentioned by ibn Abil Hadeed in his book an-Nasa’ih al-Kafiyyah
 leman Yatawalla Mo’awiya, quoted from at-Tabari and ibnul Atheer.
 
-

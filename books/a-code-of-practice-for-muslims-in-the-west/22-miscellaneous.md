@@ -316,4 +316,3 @@ or grams of the weight in gold known as “*al-himsa*”?
 **Answer:** *Al-Himsa* is 1/24 of the *mithqal as-sayrafi*; and the
 latter is 4.64 grams; so the weight of *al-himsa* will be 0.193 grams.
 
-

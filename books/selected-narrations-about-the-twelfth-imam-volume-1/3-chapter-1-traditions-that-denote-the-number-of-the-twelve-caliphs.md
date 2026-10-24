@@ -460,11 +460,7 @@ Hurairah, ‘Are his wives his Ahle Bait?’ He replied, ‘No, his Ahle Bait
 are his progeny and his family and they are the twelve Imams, whom Allah
 has mentioned in his saying,
 
-<blockquote dir="rtl">
-  <p>
-و جعلها كلمة باقية فى عقبه...
-  </p>
-</blockquote>
+> و جعلها كلمة باقية فى عقبه...
 
 “***And He has placed a remaining word in his posterity. ”*** (Surah
 Zukhruf 43:28.)
@@ -653,23 +649,15 @@ not come but suddenly.”
 84. Kefaayah Al-Asar[^84]: Umme Salmah says, ‘I asked the Messenger of
 Allah (s.a.w.a.) regarding the saying of Allah,
 
-<blockquote dir="rtl">
-  <p>
-فَأُوْلَـئِكَ مَعَ الَّذِينَ أَنْعَمَ اللهُ عَلَيْهِم مِّنَ
-النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاء وَالصَّالِحِينَ وَحَسُنَ
-أُولَـئِكَ رَفِيقًا
-  </p>
-</blockquote>
+> فَأُوْلَـئِكَ مَعَ الَّذِينَ أَنْعَمَ اللهُ عَلَيْهِم مِّنَ
+> النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاء وَالصَّالِحِينَ وَحَسُنَ
+> أُولَـئِكَ رَفِيقًا
 
 (Qur’an Surah Nisa 4: 69)
 
 He (s.a.w.a.) replied,
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ أَنْعَمَ اللهُ عَلَيْهِم مِّنَ النَّبِيِّينَ
-  </p>
-</blockquote>
+> الَّذِينَ أَنْعَمَ اللهُ عَلَيْهِم مِّنَ النَّبِيِّينَ
 
 “Those upon whom Allah has bestowed from the Prophets” implies me; “the
 truthful ones” refers to Ali Ibn Abi Talib (a.s.); “the witnesses” are
@@ -722,12 +710,8 @@ swallow up all its inhabitants and they will not be warned.”
 Imam Al-Baaqer (a.s.) in a lengthy tradition concerning the saying of
 Allah,
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْنَا اضْرِب بِّعَصَاكَ الْحَجَرَ فَانفَجَرَتْ مِنْهُ اثْنَتَا
-عَشْرَةَ عَيْناً قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ
-  </p>
-</blockquote>
+> فَقُلْنَا اضْرِب بِّعَصَاكَ الْحَجَرَ فَانفَجَرَتْ مِنْهُ اثْنَتَا
+> عَشْرَةَ عَيْناً قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ
 
 (Qur’an Surah Baqarah 2: 60 )
 
@@ -765,12 +749,8 @@ replied, ‘Yes.’
 Al-Hayrah: Ameer Al-Mumineen (a.s.) said, “I warn you concerning Allah.
 Are you aware that Allah has revealed in Surah Hajj,
 
-<blockquote dir="rtl">
-  <p>
-يَا ايُّهَا الَّذِيْنَ آمَنُوْا ارْكَعُوْا وَاسْجُدُوْا وَاعْبُدُوْا
-رَبَّكُمْ...
-  </p>
-</blockquote>
+> يَا ايُّهَا الَّذِيْنَ آمَنُوْا ارْكَعُوْا وَاسْجُدُوْا وَاعْبُدُوْا
+> رَبَّكُمْ...
 
 ***“O you who believe! Bow down and prostrate and worship your Lord
 …”*** (till the end of the surah).
@@ -812,11 +792,7 @@ partners, those who will follow you.” I asked, “O Messenger of Allah
 whom Allah, Mighty and Glorified be He, has accompanied with Himself and
 me in His verse
 
-<blockquote dir="rtl">
-  <p>
-اطيعوا الله و اطيعوا الرسول واولى الامر منكم..
-  </p>
-</blockquote>
+> اطيعوا الله و اطيعوا الرسول واولى الامر منكم..
 
 ***. “Obey Allah and obey the Messenger and the possessors of authority
 amongst you…”***
@@ -881,11 +857,7 @@ religion. His relation is my relation and my relation is his relation.
 My virtue is his virtue while I am superior to him and (I am) not proud.
 My claim is verified by the saying of my Lord,
 
-<blockquote dir="rtl">
-  <p>
-ذرية بعضها من بعض والله سميع عليم
-  </p>
-</blockquote>
+> ذرية بعضها من بعض والله سميع عليم
 
 98. Al-Radd Alaa Al-Zaidiyyah[^98]: Ibn Abbas narrates that I asked the
 Messenger of Allah (s.a.w.a.) while he was on his deathbed, ‘When that
@@ -1127,11 +1099,7 @@ Abdillah (a.s.) when Sufyaan Ibn Mus’ab Al-Abdi entered and asked, ‘May
 I be held your ransom, what is your view concerning the saying of Allah,
 High be His remembrance,
 
-<blockquote dir="rtl">
-  <p>
-وَ عَلَى الْاعْرَافِ رِجَال يَعْرِفُوْنَ كُلاًّ بِسِيْمَاهُمْ
-  </p>
-</blockquote>
+> وَ عَلَى الْاعْرَافِ رِجَال يَعْرِفُوْنَ كُلاًّ بِسِيْمَاهُمْ
 
 (Qur’an Surah A’raaf 7: 46)
 
@@ -2039,5 +2007,4 @@ Al-Anwaar, vol. 36, p. 233, Chap. 41, Tr. Nos. 16 & 17
 [^147]: Al-Kaafi Fi Al-Fiqh by Abu al-Salaah al-Halabi, p. 99
 
 [^148]: Taqreeb Al-Maaref, p. 126
-
 

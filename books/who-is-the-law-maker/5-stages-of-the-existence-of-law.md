@@ -69,11 +69,7 @@ Therefore, leaving the task of judgment and legislation to Allah alone
 is the only way of saving man from doom beau. Allah the Creator is the
 only One Who knows all the hidden secrets of mankind and life:
 
-<blockquote dir="rtl">
-  <p>
-“أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ “
-  </p>
-</blockquote>
+> “أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ “
 
 ***[67:14] Does He not know, Who created? And He is the Knower of the
 subtleties, the Aware.***
@@ -85,38 +81,26 @@ clear in meaning and implication. This was actually what had been
 preached throughout the course of history by all the Divine Laws and
 Messages:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ
-لَهُمْ ۖ فَيُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ
-وَهُوَ الْعَزِيزُ الْحَكِيمُ “
-  </p>
-</blockquote>
+> “وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ
+> لَهُمْ ۖ فَيُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ
+> وَهُوَ الْعَزِيزُ الْحَكِيمُ “
 
 ***[14:4] And We did not send any messenger but with the language of his
 people, so that he might explain to them clearly; then Allah makes whom
 He pleases err and He guides whom He pleases and He is the Mighty, the
 Wise.***
 
-<blockquote dir="rtl">
-  <p>
-“الر ۚ كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ
-الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ
-الْعَزِيزِ الْحَمِيدِ “
-  </p>
-</blockquote>
+> “الر ۚ كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ
+> الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ
+> الْعَزِيزِ الْحَمِيدِ “
 
 ***[14:1] Alif Lam Ra. (This is) a Book which We have revealed to you
 that you may bring forth men, by their Lord's permission from utter
 darkness into light-- to the way of the Mighty, the Praised One,***
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ
-الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ
-أَجْرًا كَبِيرًا “
-  </p>
-</blockquote>
+> “إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ
+> الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ
+> أَجْرًا كَبِيرًا “
 
 ***[17:9] Surely this Quran guides to that which is most upright and
 gives good news to the believers who do good that they shall have a
@@ -140,58 +124,38 @@ conclude that this religion is the Divine decision that suits the nature
 and innate disposition of man as well as its multi-sided construction,
 as Allah, the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-“وَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ
-فَأَصْبَحْتُمْ مِنَ الْخَاسِرِينَ “
-  </p>
-</blockquote>
+> “وَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ
+> فَأَصْبَحْتُمْ مِنَ الْخَاسِرِينَ “
 
 ***[41:23] And that was your (evil) thought which you entertained about
 your Lord that has tumbled you down into perdition, so are you become of
 the lost ones.***
 
-<blockquote dir="rtl">
-  <p>
-“وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِنْ كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ
-لِكَلِمَاتِهِ وَلَنْ تَجِدَ مِنْ دُونِهِ مُلْتَحَدًا “
-  </p>
-</blockquote>
+> “وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِنْ كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ
+> لِكَلِمَاتِهِ وَلَنْ تَجِدَ مِنْ دُونِهِ مُلْتَحَدًا “
 
 ***[18:27] And recite what has been revealed to you of the Book of your
 Lord, there is none who can alter His words; and you shall not find any
 refuge besides Him.***
 
-<blockquote dir="rtl">
-  <p>
-“وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ
-لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ “
-  </p>
-</blockquote>
+> “وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ
+> لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ “
 
 ***[6:115] And the word of your Lord has been accomplished truly and
 justly; there is none who can change His words, and He is the Hearing,
 the Knowing.***
 
-<blockquote dir="rtl">
-  <p>
-“أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِنْ
-قَبْلُ ۗ وَمَنْ يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ
-سَوَاءَ السَّبِيلِ “
-  </p>
-</blockquote>
+> “أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِنْ
+> قَبْلُ ۗ وَمَنْ يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ
+> سَوَاءَ السَّبِيلِ “
 
 ***[2:108] Rather you wish to put questions to your Messenger, as Musa
 was questioned before; and whoever adopts unbelief instead of faith, he
 indeed has lost the right direction of the way.***
 
-<blockquote dir="rtl">
-  <p>
-“وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ بَلْ أَتَيْنَاهُمْ بِذِكْرِهِمْ فَهُمْ
-عَنْ ذِكْرِهِمْ مُعْرِضُونَ “
-  </p>
-</blockquote>
+> “وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ بَلْ أَتَيْنَاهُمْ بِذِكْرِهِمْ فَهُمْ
+> عَنْ ذِكْرِهِمْ مُعْرِضُونَ “
 
 ***[23:71] And should the truth follow their low desires, surely the
 heavens and the earth and all those who are therein would have perished.
@@ -232,30 +196,21 @@ Such misfit laws, cause negative effects on humanity and upset the
 universal balance of truthfulness and justice on whose very basis every
 truth in this world has been erected.
 
-<blockquote dir="rtl">
-  <p>
-“شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ
-وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَٰهَ إِلَّا هُوَ
-الْعَزِيزُ الْحَكِيمُ “
-  </p>
-</blockquote>
+> “شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ
+> وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَٰهَ إِلَّا هُوَ
+> الْعَزِيزُ الْحَكِيمُ “
 
 ***[3:18] Allah bears witness that there is no god but He, and (so do)
 the angels and those possessed of knowledge, maintaining His creation
 with justice; there is no god but He, the Mighty, the Wise.***
 
-<blockquote dir="rtl">
-  <p>
-“وَإِنْ تُطِعْ أَكْثَرَ مَنْ فِي الْأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ
-اللَّهِ ۚ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا
-يَخْرُصُونَ “
-  </p>
-</blockquote>
+> “وَإِنْ تُطِعْ أَكْثَرَ مَنْ فِي الْأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ
+> اللَّهِ ۚ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا
+> يَخْرُصُونَ “
 
 ***[6:116] And if you obey most of those in the earth, they will lead
 you astray from Allah's way; they follow but conjecture and they only
 lie.***
 
 [^1]: Al-Bavan fi Tafseer Al-Qur'an, page 4
-
 

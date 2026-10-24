@@ -223,4 +223,3 @@ p. 543; Ad-Durr al-Manthur, vol. 6, p. 50.
 
 [^19]: Ahmad ibn Hanbal, Musnad, vol. 3, p. 377.
 
-

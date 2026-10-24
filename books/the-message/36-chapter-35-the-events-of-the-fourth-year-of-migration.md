@@ -235,4 +235,3 @@ defeat''.[^4]
 [^4]: According to Mughazi-i Waqidi, vol. I, page 484, this incident
 took place in the 45th month of migration.
 
-

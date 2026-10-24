@@ -136,4 +136,3 @@ watch them leave after reading Daniel 6:10, where prayer in prostration
 is presented as worth risking one’s life for. If you offer to teach them
 to pray, they inevitably remember another appointment.
 
-

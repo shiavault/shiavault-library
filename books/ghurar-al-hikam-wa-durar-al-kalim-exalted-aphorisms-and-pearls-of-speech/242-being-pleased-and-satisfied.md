@@ -35,22 +35,14 @@ have hope in anyone other than Allah, the Glorified, and await that
 which is brought to you by [divine] decree.
 
 > 7ـ إنْ عَقَدْتَ أيْمانَكَ فَارْضَ بِالمَقْضِيِّ عَلَيكَ ولَكَ ولا
-<blockquote dir="rtl">
-  <p>
-تَرْجُ أحَداً إلاَّ اللّهَ سُبْحانَهُ، وانْتَظِرْ ما أتاكَ بِهِ
-القَدَرُ.
-  </p>
-</blockquote>
+> تَرْجُ أحَداً إلاَّ اللّهَ سُبْحانَهُ، وانْتَظِرْ ما أتاكَ بِهِ
+> القَدَرُ.
 
 8. Indeed if you are pleased with the decree [of Allah], your lives will
 become enjoyable and you will attain prosperity.
 
 > 8ـ إنَّكُمْ إنْ رَضيتُمْ بِالقَضاءِ طابَتْ عَيْشَتُكُمْ وفُزْتُمْ
-<blockquote dir="rtl">
-  <p>
-بِالغَناءِ.
-  </p>
-</blockquote>
+> بِالغَناءِ.
 
 9. When what you want does not happen, then do not fret about how you
 were [and be satisfied with the decree of Allah].
@@ -66,11 +58,7 @@ certitude is evinced.
 heart become unsettled by [your] fear of Him.
 
 > 11ـ تَوَخَّ رِضَا اللّهِ، وتَوَقَّ سَخَطَهُ، وزَعْزِعْ قَلْبَكَ
-<blockquote dir="rtl">
-  <p>
-بِخَوفِهِ.
-  </p>
-</blockquote>
+> بِخَوفِهِ.
 
 12. Seek the pleasure of Allah by being satisfied with His decree.
 
@@ -82,12 +70,8 @@ nothing that can make you needless of His forgiveness, and there is no
 refuge for you from Him except with Him.
 
 > 13ـ تَحَرَّ رِضا اللّهِ، وتَجَنَّبْ سَخَطَهُ، فَإنَّهُ لايَدَ(ىْ) لَكَ
-<blockquote dir="rtl">
-  <p>
-بِنَقِمَتِهِ، ولا غِنى بِكَ عَنْ مَغفِرَتِهِ، ولا مَلْجَأَ لَكَ مِنْهُ
-إلاَّ إلَيهِ.
-  </p>
-</blockquote>
+> بِنَقِمَتِهِ، ولا غِنى بِكَ عَنْ مَغفِرَتِهِ، ولا مَلْجَأَ لَكَ مِنْهُ
+> إلاَّ إلَيهِ.
 
 14. The fruit of satisfaction is prosperity.
 
@@ -134,11 +118,7 @@ grieve for that which escapes him.
 become sad about what others possess.
 
 > 23ـ مَنْ رَضِيَ بِما قَسَمَ اللّهُ لَهُ لَمْ يَحْزَنْ على ما في يَدِ
-<blockquote dir="rtl">
-  <p>
-غَيْرِهِ.
-  </p>
-</blockquote>
+> غَيْرِهِ.
 
 24. Whoever is not satisfied with the decree [of Allah], disbelief seeps
 into his religion.
@@ -154,11 +134,7 @@ into his religion.
 is satisfied with it but that there is benefit in it for him.
 
 > 26ـ ما قَضَى اللّهُ سُبْحانَهُ على عَبْد قَضاءً فَرَضِيَ بِهِ إلاّ
-<blockquote dir="rtl">
-  <p>
-كانَتِ الخِيَرَةُ لَهُ فيهِ.
-  </p>
-</blockquote>
+> كانَتِ الخِيَرَةُ لَهُ فيهِ.
 
 27. Allah, the Glorified, does not repel any of the afflictions of this
 world and chastisements of the Hereafter from the believer except
@@ -166,12 +142,8 @@ because of his satisfaction with His decree and his good patience in the
 face of His trials.
 
 > 27ـ ما دَفَعَ اللّهُ سُبْحانَهُ عَنِ المُؤمِنِ شَيْئاً مِنْ بَلاءِ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا وعَذابِ الآخرَةِ إلاّ بِرِضاهُ بِقَضائِهِ، وحُسْنِ صَبْرِهِ
-على بَلائِهِ.
-  </p>
-</blockquote>
+> الدُّنيا وعَذابِ الآخرَةِ إلاّ بِرِضاهُ بِقَضائِهِ، وحُسْنِ صَبْرِهِ
+> على بَلائِهِ.
 
 28. What a good companion of faith satisfaction is!
 
@@ -200,11 +172,7 @@ decreed].
 Glorified, to rely upon Him.
 
 > 33ـ يَنْبَغي لِمَنْ رَضِيَ بِقَضاءِ اللّهِ سُبْحانَهُ أنْ يَتَوَكَّلَ
-<blockquote dir="rtl">
-  <p>
-علَيهِ.
-  </p>
-</blockquote>
+> علَيهِ.
 
 34. The pleasure of Allah, the Glorified, is the nearest goal that can
 be achieved.
@@ -220,11 +188,7 @@ his (the servant’s) satisfaction with that which He, the Glorified, has
 decreed for or against him.
 
 > 36ـ علامَةُ رِضَا اللّهِ سُبْحانَهُ عَنِ العَبْدِ رِضاهُ بِما قَضى
-<blockquote dir="rtl">
-  <p>
-بِهِ سُبْحانَهُ لَهُ وَعلَيْهِ.
-  </p>
-</blockquote>
+> بِهِ سُبْحانَهُ لَهُ وَعلَيْهِ.
 
 37. The highest goal is in [attaining] the pleasure of Allah.
 
@@ -234,11 +198,7 @@ decreed for or against him.
 satisfied [with what has been decreed]?!
 
 > 38ـ كَيفَ يَقْدِرُ على إعْمالِ الرِّضا اَلقَلْبُ المُتَوَلِّهُ
-<blockquote dir="rtl">
-  <p>
-بِالدُّنيا؟!
-  </p>
-</blockquote>
+> بِالدُّنيا؟!
 
 39. Satisfaction suffices as abundance.
 
@@ -248,64 +208,40 @@ satisfied [with what has been decreed]?!
 speak with words of justice in the presence of the tyrannical ruler.
 
 > 40ـ مَنْ آثَرَ رِضا رَبّ قادِر فَلْيَتَكَلَّمْ بِكَلِمَةِ عَدْل عِندَ
-<blockquote dir="rtl">
-  <p>
-سُلْطان جائر.
-  </p>
-</blockquote>
+> سُلْطان جائر.
 
 41. Whoever seeks the pleasure of Allah at the expense of displeasing
 the people, Allah will turn his dispraiser among the people into his
 praiser.
 
 > 41ـ مَنْ طَلَبَ رِضَا اللّهِ بِسَخَطِ النَّاسِ رَدَّ اللّهُ ذامَّهُ
-<blockquote dir="rtl">
-  <p>
-مِنَ النَّاسِ حامِداً.
-  </p>
-</blockquote>
+> مِنَ النَّاسِ حامِداً.
 
 42. One who hastens towards the actions that please Allah, the
 Glorified, and delays acts of disobedience to Him has indeed perfected
 [his] obedience.
 
 > 42ـ مَنْ بادَرَ إلى مَراضِى اللّهِ سُبْحانَهُ، وتَأخَّرَ عَنْ مَعاصيهِ
-<blockquote dir="rtl">
-  <p>
-فَقَدْ أكْمَلَ الطَّاعَةَ.
-  </p>
-</blockquote>
+> فَقَدْ أكْمَلَ الطَّاعَةَ.
 
 43. Allah! Grant us your pleasure and make us needless of having to
 stretch out our hands to other than you.
 
 > 43ـ هَبِ اللّهُمَّ لَنا رِضاكَ، وأغْنِنا عَنْ مَدِّ الأيْدي إلى
-<blockquote dir="rtl">
-  <p>
-سِواكَ.
-  </p>
-</blockquote>
+> سِواكَ.
 
 44. Whoever seeks the pleasure of people by displeasing Allah, Allah
 will turn the one who praises him among the people into one who
 dispraises him.
 
 > 44ـ مَنْ طَلَبَ رِضَا النَّاسِ بِسَخَطِ اللّهِ رَدَّ اللّهُ حامِدَهُ
-<blockquote dir="rtl">
-  <p>
-مِنَ النَّاسِ ذامّاً.
-  </p>
-</blockquote>
+> مِنَ النَّاسِ ذامّاً.
 
 45. How great is the wrongdoing of the one who seeks the pleasure of the
 creation by angering the Creator.
 
 > 45ـ ما أعْظَمَ وِزرَ مَنْ طَلَبَ رِضَى المَخْلُوقينَ بِسَخَطِ
-<blockquote dir="rtl">
-  <p>
-الخالِقِ.
-  </p>
-</blockquote>
+> الخالِقِ.
 
 46. One who is pleased with what has been decreed becomes content with
 little.
@@ -326,11 +262,7 @@ falsehood there are two sins: the sin of being pleased with it and the
 sin of acting upon it.
 
 > 49ـ الرَّاضي بِفِعلِ قَوم كالدَّاخِلِ فيهِ مَعَهُمْ ولِكُلِّ داخِل في
-<blockquote dir="rtl">
-  <p>
-باطِل إثمانِ: إثمُ الرِّضا بِهِ وإثمُ العَمَلِ بِهِ.
-  </p>
-</blockquote>
+> باطِل إثمانِ: إثمُ الرِّضا بِهِ وإثمُ العَمَلِ بِهِ.
 
 50. Every satisfied one is at ease.
 
@@ -347,5 +279,4 @@ sin of acting upon it.
 53. One who is satisfied with his [allotted] portion is at ease.
 
 > 53ـ مَنْ رَضِيَ بِقِسْمِهِ اِسْتراحَ.
-
 

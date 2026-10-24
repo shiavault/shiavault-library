@@ -7,4 +7,3 @@ Grief For What Has Been Lost
 
 > 1ـ لاتَأْسَ عَلى ما فاتَ.
 
-

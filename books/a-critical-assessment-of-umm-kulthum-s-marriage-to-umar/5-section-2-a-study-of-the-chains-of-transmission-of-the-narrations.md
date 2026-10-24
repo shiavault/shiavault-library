@@ -944,4 +944,3 @@ to critiquing a narrator's position as a narrator.
 
 [^61]: Tahdhib Al-Tahdhib, 6/82 and 83.
 
-

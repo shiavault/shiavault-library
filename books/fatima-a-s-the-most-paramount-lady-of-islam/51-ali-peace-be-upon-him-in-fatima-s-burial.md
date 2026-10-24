@@ -12,4 +12,3 @@ invites me to Himself. O, Messenger of Allah! Ask your daughter how a
 group of your Omma allied together to oppress and usurp her right…. Ask
 her about her black arm, and broken side,….”
 
-

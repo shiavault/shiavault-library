@@ -1,10 +1,6 @@
 Muslim and His Book
 ===================
 
-  
-  
-  
-
 His name is Abu al-Husayn Muslim ibn al-Hajjaj al-Qushayri al-Nisaburi.
 He was born in Nisabur in the year 204 H, and dead in it in 268 H. He
 has reviewed the Sihah but not interferred in istinbat (deriving of
@@ -24,7 +20,7 @@ basis of which he was to classify the traditions, the fact entailing
 dividing of the hadith according to its chapters (babs), but he brought
 together all the turuq in one place, abstaining from reporting the
 mawquf traditions, not referring to them but very rarely, out of
-imitation not determination. <span id="_anchor_583"></span>583
+imitation not determination. 583
 
 It is reported that he compiled his Musnad out of three hundred thousand
 commonly heard traditions, while the number of traditions constituting
@@ -41,7 +37,7 @@ said Ibn al-Salah.
 
 Ibn Taymiyyah, in his interpretation of Surat al-Tawhid, says: The
 hadith reported by Muslim about creation of earth (turbah) on Saturday
-<span id="_anchor_584"></span>584 is a defective hadith, traduced by
+584 is a defective hadith, traduced by
 leaders of hadith like al-Bukhari and others holding that it was taken
 from Ka’b al-Ahbar. Muslim has reported similar traditions that were
 known to be incorrect, like the saying of Abu Sufyan when embracing
@@ -50,13 +46,13 @@ all people know that the Prophet got married to her before Abu Sufyan’s
 embracing Islam. Also like the hadith on salat al-kusuf (eclipse
 prayers), in which he claimed that the Prophet performed it with three
 kneelings (ruku’), while the right thing was that he had performed it
-only once with two ruku’s. <span id="_anchor_585"></span>585
+only once with two ruku’s. 585
 
 Muslim’s traditions that were suspected and criticized amounted to 132
 ones, and number of his rijal (transmitters of his traditions) reached
 to 110 ones.
 
-Abu Zar’ah al-Razi <span id="_anchor_586"></span>586 – whose name is
+Abu Zar’ah al-Razi 586 – whose name is
 cited in Sahih Muslim – says: These are people who intended to make
 early progress, so they made something with which they wanted to trade,
 inventing that which couldn’t occur to the mind so as to precede others
@@ -97,18 +93,16 @@ Sahih, never claiming that all the traditions that I did not cite in
 this book being weak! But I brought it out from the sahih traditions so
 as to be kept altogether with whoever reporting them from me, doubting
 not their veracity … and I never claimed other traditions to be weak. He
-then accepted his excuse and related hadith to him briefly. <span
-id="_anchor_587"></span>587
+then accepted his excuse and related hadith to him briefly. 587
 
 Muslim has reported traditions of people the hadith of whom al-Bukhari
-abstained from reporting due to a suspicion he had regarding them, <span
-id="_anchor_588"></span>588 since leaders of transmission differ in most
+abstained from reporting due to a suspicion he had regarding them, 588 since leaders of transmission differ in most
 of them because of the divergence in their schools and conditions and
 use of terms. There may be found a narrator who was considered
 trustworthy by Abd al-Rahman ibn Mahdi, but unreliable by Yahya ibn
 Sa’id al-Qattan and vice versa, who were both two imams constituting
 axis of criticism in naql, and from whom most of narrators used to take
-hadith. <span id="_anchor_589"></span>589
+hadith. 589
 
 There was so much talk on criticism against al-Bukhari and Muslim,
 
@@ -136,17 +130,14 @@ Ibn al-Salah says: al-Bukhari used for argument some people who were
 already defamed by others, like Ikrimah, the mawla of Ibn Abbas, Isma’il
 ibn Abi Awis, Asim ibn Ali and Amr ibn Marzuq and others. While Muslim
 used Suwayd ibn Sa’id and others who were known of being unreliable and
-suspected position, and so did Abu Dawud. <span
-id="_anchor_590"></span>590
+suspected position, and so did Abu Dawud. 590
 
 Al-Shaykh Ahmad Muhammad Shakir (may God’s mercy be upon him), in his
 Sharh Alfiyyat al-Suyuti, writes: In the two Sahihs many traditions are
-found that were reported by some of the imposters. <span
-id="_anchor_591"></span>591 And as is known, tadlis (fraud) <span
-id="_anchor_592"></span>592 was considered one of reasons of jarh
+found that were reported by some of the imposters. 591 And as is known, tadlis (fraud) 592 was considered one of reasons of jarh
 (sarcasm). The same fact is referred to in the book Sharh Shurut
 al-A‘ìmmah al-Khamsah of al-Shaykh Muhammad Zahid al-Kawthari, on the
-authority of Ibn al-Hammam. <span id="_anchor_593"></span>593
+authority of Ibn al-Hammam. 593
 
 Muslim reported from a large number of those who were not immune against
 jarh and vilification, and so also found in Sahih al-Bukhari some
@@ -163,8 +154,7 @@ while another one deemed him reliable.
 Concerning the criticism levelled at them both in respect of the texts
 and their inconsistency with the Book (Qur’an) and authentic sunnah and
 the alike, they have never undertaken this task as it is among the
-responsibilities of ulama’ of kalam and usul. <span
-id="_anchor_594"></span>594
+responsibilities of ulama’ of kalam and usul. 594
 
 ### Estrangement of Riwayah of Men of Opinion:
 
@@ -173,12 +163,12 @@ narration from people of opinion, like al-Imam Abu Yusuf and al-Imam
 Muhammad ibn al-Hasan, who were deemed as pliable by men of hadith as
 can be seen in Mizan al-i’tidal. Their works indicate clearly ampleness
 and profundity of their knowledge, and rather their priority over a
-large number of huffaz. <span id="_anchor_595"></span>595 Al-Bukhari has
+large number of huffaz. 595 Al-Bukhari has
 also shunned reporting from the Imams of the Prophet’s Household, and
 the following is a statement in this regard.
 
 Al-Allamah Abd al-Husayn Sharaf al-Din, in his book al-Fusul al-muhimmah
-fi ta’lif al-ummah, <span id="_anchor_596"></span>596 writes: What is
+fi ta’lif al-ummah, 596 writes: What is
 even worse than all this, being al-Bukhari’s not referring to Ahl
 al-Bayt Imams in his Sahih in cases of argument, as he has never
 reported any hadith from al-Sadiq, al-Kazim, al-Rida, al-Jawad, al-Hadi
@@ -211,10 +201,6 @@ But to attain to pleasure of Lord of Throne,
 I remember him one day and suppose him to be,
 
 The most faithful of mankind in Allah’s view.
-
-  
-  
-  
 
 583. See p. 8.
 

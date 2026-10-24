@@ -129,4 +129,3 @@ Mohammad (ibn-Abdulwahhab)*!
 
 [^6]: – داعية و ليس نبيّاً.
 
-

@@ -20,7 +20,6 @@ science:
 Feelings and practice paramount Subjective method [A progression in his
 view over his positivism.]
 
-
 **4.12 MODERN PHILOSOPHY: BRITISH UTILITARIANISM**
 
 We have seen the origin of utilitarianism in Comte's ideas
@@ -61,10 +60,8 @@ Mill holds that we can know only phenomena [though he admits the
 thing-in-itself]Mill's metaphysics is too limited to hold present
 interest
 
-
 **4.12.2.2 Mental and moral sciences**
 
 For social reform Mill calls for a reform of the mental and moral
 sciences
-
 

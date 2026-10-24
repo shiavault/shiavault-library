@@ -347,11 +347,7 @@ Ja’far stood to the right. The Prophet moved forward. Thus for a long
 time except for Ali, Ja’far, Zaid bin Haritha and Khadija, no one prayed
 with the Prophet till the 94th verse of Surah Hijr was revealed:
 
-<blockquote dir="rtl">
-  <p>
-فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
 
 ***“Therefore declare openly what you are bidden and turn aside from the
 polytheists.”***[^3]
@@ -398,13 +394,9 @@ best of the successors. And that is Ja’far who will fly around in
 Paradise with colored wings. And that is Hamza the best of the martyrs.
 Moreover the statement of the Almighty Allah is there:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ
-فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا
-بَدَّلُوا تَبْدِيلًا
-  </p>
-</blockquote>
+> مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ
+> فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا
+> بَدَّلُوا تَبْدِيلًا
 
 ***“Of the believers are men who are true to the covenant which they
 made with Allah: so of them is he who accomplished his vow, and of them
@@ -418,12 +410,8 @@ and they may achieve martyrdom through death: and it is Ali Ibn Abi
 Talib (a.s.) and he has never made changes in religion. Moreover, in the
 commentary of this verse:
 
-<blockquote dir="rtl">
-  <p>
-أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ
-عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
-  </p>
-</blockquote>
+> أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ
+> عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
 
 ***“Permission (to fight) is given to those upon whom war is made
 because they are oppressed, and most surely Allah is well able to assist
@@ -456,20 +444,12 @@ camel on the back of the Messenger of Allah (S).
 
 Furat bin Ibrahim has narrated that the following verses:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ
-  </p>
-</blockquote>
+> مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ
 
 ***“Whoever hopes to meet Allah, the term appointed by Allah will then
 most surely come…”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ
-  </p>
-</blockquote>
+> وَمَنْ جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ
 
 ***“And whoever strives hard, he strives only for his own soul…”***[^7]
 
@@ -671,13 +651,9 @@ behind.” Abu Amr said, “Please tell me about those matters that the
 Almighty Allah has encouraged in order to increase the grades of faith.”
 Imam (a.s.) said, “The Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-سَابِقُوا إِلٰى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ
-السَّمَاءِ وَالْأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ
-وَرُسُلِهٖ
-  </p>
-</blockquote>
+> سَابِقُوا إِلٰى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ
+> السَّمَاءِ وَالْأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ
+> وَرُسُلِهٖ
 
 ***“Hasten to forgiveness from your Lord and to a garden the
 extensiveness of which is as the extensiveness of the heaven and the
@@ -686,24 +662,16 @@ apostles…”***[^10]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ السَّابِقُونَ. أُولٰئِكَ الْمُقَرَّبُونَ.
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ السَّابِقُونَ. أُولٰئِكَ الْمُقَرَّبُونَ.
 
 ***“And the foremost are the foremost, these are they who are drawn nigh
 (to Allah).”***[^11]
 
 And then He says:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ
-وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا
-عَنْهُ
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ
+> وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا
+> عَنْهُ
 
 ***“And (as for) the foremost, the first of the migrants (from Mecca)
 and the helpers (among the people of Medina), and those who followed
@@ -712,12 +680,8 @@ pleased with Him…”***[^12]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِنْهُمْ مَنْ
-كَلَّمَ اللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ 
-  </p>
-</blockquote>
+> تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِنْهُمْ مَنْ
+> كَلَّمَ اللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ
 
 ***“We have made some of these apostles to excel the others, among them
 are they to whom Allah spoke, and some of them He exalted by (many
@@ -725,55 +689,35 @@ degrees of) rank…”***[^13]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلٰى بَعْضٍ
-  </p>
-</blockquote>
+> وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلٰى بَعْضٍ
 
 ***“… and certainly We have made some of the prophets to excel
 others…”***[^14]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-انْظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۚ وَلَلْآخِرَةُ
-أَكْبَرُ دَرَجَاتٍ وَأَكْبَرُ تَفْضِيلًا
-  </p>
-</blockquote>
+> انْظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۚ وَلَلْآخِرَةُ
+> أَكْبَرُ دَرَجَاتٍ وَأَكْبَرُ تَفْضِيلًا
 
 ***“See how We have made some of them to excel others, and certainly the
 hereafter is much*** ***superior in respect of excellence.”***[^15]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ دَرَجَاتٌ عِنْدَ اللَّهِ
-  </p>
-</blockquote>
+> هُمْ دَرَجَاتٌ عِنْدَ اللَّهِ
 
 ***“There are (varying) grades with Allah.”***[^16]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-وَيُؤْتِ كُلَّ ذِي فَضْلٍ فَضْلَهٗ
-  </p>
-</blockquote>
+> وَيُؤْتِ كُلَّ ذِي فَضْلٍ فَضْلَهٗ
 
 ***“…and bestow His grace on every one endowed with grace…”***[^17]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ
-بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ أَعْظَمُ دَرَجَةً عِنْدَ اللَّهِ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ
+> بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ أَعْظَمُ دَرَجَةً عِنْدَ اللَّهِ
 
 ***“Those who believed and fled (their homes), and strove hard in
 Allah’s way with their property and their souls, are much higher in rank
@@ -781,14 +725,10 @@ with Allah…”***[^18]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى
-الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ
-وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا
-عَظِيمًا. دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةً...
-  </p>
-</blockquote>
+> فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى
+> الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ
+> وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا
+> عَظِيمًا. دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةً...
 
 ***“Allah has made the strivers with their property and their persons to
 excel the holders back a (high) degree, and to each (class) Allah has
@@ -798,13 +738,9 @@ mercy…”***[^19]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْتَوِي مِنْكُمْ مَنْ أَنْفَقَ مِنْ قَبْلِ الْفَتْحِ وَقَاتَلَ ۚ
-أُولَٰئِكَ أَعْظَمُ دَرَجَةً مِنَ الَّذِينَ أَنْفَقُوا مِنْ بَعْدُ
-وَقَاتَلُوا
-  </p>
-</blockquote>
+> لَا يَسْتَوِي مِنْكُمْ مَنْ أَنْفَقَ مِنْ قَبْلِ الْفَتْحِ وَقَاتَلَ ۚ
+> أُولَٰئِكَ أَعْظَمُ دَرَجَةً مِنَ الَّذِينَ أَنْفَقُوا مِنْ بَعْدُ
+> وَقَاتَلُوا
 
 ***“…not alike among you are those who spent before the victory and
 fought (and those who did not): they are more exalted in rank than those
@@ -914,5 +850,4 @@ will say: O Muhammad you don’t know what they did after you. After you
 they turned on their heels and apostasied from faith.” Numerous
 traditions will be mentioned through Shia as well as Sunni channels in
 the coming pages on this topic.
-
 

@@ -234,4 +234,3 @@ knowledge, not property, thus they usurped it from that noble Lady(a.s).
 
 [^21]: Ibid.
 
-

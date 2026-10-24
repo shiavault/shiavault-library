@@ -46,7 +46,6 @@ qualifications of the mujtahedeen - and, I swear by Allah, not even one
 tenth of one of these qualifications. In spite of this, his teachings
 have attracted many simpletons. To Allah we belong and shall return.
 
-
 **2 - Origins of Wahabi thought**
 
 The Wahabi sect has two basic tenets, a declared tenet and a hidden
@@ -160,7 +159,6 @@ possessions forfeited. In the final analysis, all early Muslims deserve
 such a sentence leaving none whom the Wahabi could regard as the model
 to emulate.
 
-
 **4 - The Wahabi doctrine on the Prophet Companions**
 
 1. As indicated earlier, the Wahabi effectively charged most of the
@@ -205,7 +203,6 @@ the Companions as heretics.
 
 \* He is the second Umayyid Caliph appointed by his father Muawiya as
 his successor.
-
 
 **5 - The Wahabi doctrine regarding divine attributes**
 
@@ -259,7 +256,6 @@ not support the Wahabi's doctrine on divine attributes.
 \* Al-Mujasima or anthropomorphist believed that Allah possessed
 physical attributes.
 
-
 **6 - The Wahabi and Muslim: The Wahabi [bida'] (corruption)**
 
 The Wahabis believe that they are the only true Muslims because they
@@ -293,7 +289,6 @@ According to Ibn Taimia only the Khawarij judged other Muslims to be
 heretics on the bases of their sins and learned opinions or deductions.
 14 As such, the Wahabis have no precedent supporting this bida' except
 the infamous Khawarij.
-
 
 **7 - The Wahabi and the Khawarij**
 
@@ -512,5 +507,4 @@ al-Itiqad.
 23. Ibn Taimia, Majmut al-Fatawa, vol. 13. p. 32.
 
 24. Saheeh al-Bukhari, Kitab Istitabat al-Murtadean, part 5.
-
 

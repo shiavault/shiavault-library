@@ -177,4 +177,3 @@ Tirmidhī, Abū ‘Īsā Muhammad ibn ‘Īsā
 (210-279/825-892),*al-Jāmi‘-us-sahīh* , Beirut, Lebanon:
 Dār-ul-gharb-il-Islāmī, 2nd ed. 1998.
 
-

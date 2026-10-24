@@ -76,4 +76,3 @@ of the Koran and the traditional sayings of Prophet Muhammad (S).
 [^2]: Sunna is the body of Prophet Muhammad’s words, deeds, and
 confirmations.
 
-

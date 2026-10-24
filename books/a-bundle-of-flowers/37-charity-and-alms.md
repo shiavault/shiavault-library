@@ -53,4 +53,3 @@ tolerance at the time of anger, truthfulness when there is fear."
 
 Al-Khisal by Saduq, p. 127
 
-

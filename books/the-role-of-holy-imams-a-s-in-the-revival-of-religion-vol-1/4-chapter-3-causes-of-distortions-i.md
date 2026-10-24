@@ -93,11 +93,7 @@ their belief in the Prophets Hadiths - the second pillar of Islam?
 The effects of this deed was much more than that which we saw in the
 study of their remarks such as:
 
-<blockquote dir="rtl">
-  <p>
-بيننا وبينكم كتاب الله "حسبنا كتاب الله"
-  </p>
-</blockquote>
+> بيننا وبينكم كتاب الله "حسبنا كتاب الله"
 
 [^1]At that time they declared that the book of God was enough for them;
 nothing else being necessary. Here, however, they fabricated events and
@@ -360,12 +356,8 @@ have remained for us of the Holy Prophet. We also saw a few Quranic
 verses at the beginning of this lesson. God says to us in the Holy Quran
 that:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
-عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ 
-  </p>
-</blockquote>
+> لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
+> عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
 
 ***“Certainly an Apostle has come to you from among yourselves; grievous
 to him is your falling into distress, excessively solicitous respecting
@@ -373,13 +365,9 @@ you; to the believers (he is) compassionate, merciful”. (Quran 9:128)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-ن  وَالْقَلَمِ وَمَا يَسْطُرُونَ ﴿١﴾ مَا أَنتَ بِنِعْمَةِ رَبِّكَ
-بِمَجْنُونٍ ﴿٢﴾وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ ﴿٣﴾ وَإِنَّكَ
-لَعَلَىٰ خُلُقٍ عَظِيمٍ ﴿٤﴾
-  </p>
-</blockquote>
+> ن  وَالْقَلَمِ وَمَا يَسْطُرُونَ ﴿١﴾ مَا أَنتَ بِنِعْمَةِ رَبِّكَ
+> بِمَجْنُونٍ ﴿٢﴾وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ ﴿٣﴾ وَإِنَّكَ
+> لَعَلَىٰ خُلُقٍ عَظِيمٍ ﴿٤﴾
 
 ***“Noon I swear by the pen and what the angels write. By the grace of
 your lord you are not mad. And most surely you shall have a reward never
@@ -394,13 +382,9 @@ not related to the truth or reality.
 
 Again we return to the Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَىٰ ﴿١﴾ مَا ضَلَّ صَاحِبُكُمْ وَمَا
-غَوَىٰ ﴿٢﴾ وَمَا يَنطِقُ عَنِ الْهَوَىٰ ﴿٣﴾ إِنْ هُوَ إِلَّا وَحْيٌ
-يُوحَىٰ ﴿٤﴾
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَىٰ ﴿١﴾ مَا ضَلَّ صَاحِبُكُمْ وَمَا
+> غَوَىٰ ﴿٢﴾ وَمَا يَنطِقُ عَنِ الْهَوَىٰ ﴿٣﴾ إِنْ هُوَ إِلَّا وَحْيٌ
+> يُوحَىٰ ﴿٤﴾
 
 ***“I swear by the star when it goes down. Your companion does not err,
 does he go astray; nor does he speak out of desire. It is naught but
@@ -591,11 +575,7 @@ principle see him on the level of an average human being in possessing
 reasoning and thought? A Prophet that the Holy Quran in all truth has
 said about him:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
-  </p>
-</blockquote>
+> مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
 
 ***By the grace of your Lord you are not mad.(68:2)***
 
@@ -642,11 +622,7 @@ forgotten and had been dropping from a certain surah in the Quran.[^29]
 In this narrative such has been related form A'ishah. Now lets see what
 God says in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-سَنُقْرِئُكَ فَلَا تَنسَىٰ 
-  </p>
-</blockquote>
+> سَنُقْرِئُكَ فَلَا تَنسَىٰ
 
 ***We will make you recite so you shall not forget”. (Quran 87:6.)***
 
@@ -657,13 +633,9 @@ reciting it. But after this verse was revealed the Prophet was no longer
 afraid of forgetting them and he became content with God's support. As
 such we see that in other verses the Prophet is commanded:
 
-<blockquote dir="rtl">
-  <p>
-لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ ﴿١٦﴾ إِنَّ عَلَيْنَا
-جَمْعَهُ وَقُرْآنَهُ ﴿١٧﴾ فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ
-قُرْآنَهُ ﴿١٨﴾ ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ﴿١٩﴾
-  </p>
-</blockquote>
+> لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ ﴿١٦﴾ إِنَّ عَلَيْنَا
+> جَمْعَهُ وَقُرْآنَهُ ﴿١٧﴾ فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ
+> قُرْآنَهُ ﴿١٨﴾ ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ﴿١٩﴾
 
 ***“Do not move you tongue with it to make haste with it, surely on Us
 (devolves) the collection of it*** ***and the reciting of it. Therefore
@@ -672,11 +644,7 @@ when We have recited it, follow it's recitation. Again on us***
 
 And again we find in the Quran itself this command:
 
-<blockquote dir="rtl">
-  <p>
- وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ
-  </p>
-</blockquote>
+>  وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ
 
 ***....and do not make haste with the Quran before its revelation is
 made complete to you......*** ***“(Quran 20:114)***
@@ -887,11 +855,7 @@ For example if the Prophet taught Divine rules regarding “Mat'atul Haj”
 and “Mat'atun Nesa” and the Caliph dares to say and the people accept
 that:
 
-<blockquote dir="rtl">
-  <p>
-متعتان كانتا على عهد رسول الله واما انهي عنهما و اعاقب عليهما
-  </p>
-</blockquote>
+> متعتان كانتا على عهد رسول الله واما انهي عنهما و اعاقب عليهما
 
 Since the Prophet has spoken of one matter in worldly affairs and the
 Caliph spoke words on that same matter opposing the Prophets not only is
@@ -1114,11 +1078,7 @@ Holy Prophet, this being the nick-name that the Quraishite infidels gave
 as a taunt to him) is called out five times everyday throughout the
 Islamic world, and is remembered in greatness:
 
-<blockquote dir="rtl">
-  <p>
-اشهد ان محمداً رسول الله
-  </p>
-</blockquote>
+> اشهد ان محمداً رسول الله
 
 O Motherless, under such circumstances what deed will be remembered and
 what good name is everlasting?! No by God! I will not sit still until I
@@ -1371,11 +1331,7 @@ This is what the Prophet used to do.
 
 Under the noble Quranic verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ 
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ
 
 ***And of the people is he who buys the amusement of speech  (Qur'an,
 31:6)***
@@ -1457,11 +1413,7 @@ behind these lies and fabrications:
 1) One of the important purposes that existed in this act was
 Mu’awwiyahs dangerous anti- Islamic aim which was his desire to bury
 
-<blockquote dir="rtl">
-  <p>
-اشهدُ أنَّ محمداً رسول الله
-  </p>
-</blockquote>
+> اشهدُ أنَّ محمداً رسول الله
 
 testifying to Muhammad being the Prophet of God. We can see clearly how
 these Hadiths are well capable of carrying out this sinister aim and
@@ -1649,11 +1601,7 @@ but will not ask them to leave his home. It was thus correct for God to
 praise him in the second Quranic chapter revealed to him because of his
 great, superior character:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
-  </p>
-</blockquote>
+> إِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
 
 ***you are of a great moral character.(Qur'an, 68:4)***
 
@@ -1947,5 +1895,4 @@ bab 17 vol. 1/42+83.
 [^38]: “Kanz-al-Amaal” 4/292.
 
 [^39]: “Sahih” by Muslim - last tradition vol. 3/22 (Cairo).
-
 

@@ -267,11 +267,7 @@ the Qur’an proves the fallaciousness of the first perspective.
 Additionally, the Qur’an regards “worship” and “servitude” toward God as
 the ultimate purpose of our creation:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ ما خلقتُ الجنّ و الإنس إِلا لِيَعبدون﴾
-  </p>
-</blockquote>
+> ﴿وَ ما خلقتُ الجنّ و الإنس إِلا لِيَعبدون﴾
 
 ***“And I have not created the jinn and humankind but that they worship
 Me.”*** [^8]
@@ -303,12 +299,8 @@ incomprehensibility of divine attributes and comparison of God with His
 creations, has been affirmed in several Traditions. Imam ‘Alī (‘a) has
 stated:
 
-<blockquote dir="rtl">
-  <p>
-لَم يُطلِع العقُولَ عَلی تَحديدِ صِفَتِهِ وَ لَم يَحجبها عَن واجِبِ
-مَعرِفَتِهِ.
-  </p>
-</blockquote>
+> لَم يُطلِع العقُولَ عَلی تَحديدِ صِفَتِهِ وَ لَم يَحجبها عَن واجِبِ
+> مَعرِفَتِهِ.
 
 ***“He has not informed the intellect of the limits of His attributes;
 however He has not made it blind to necessary knowledge of Himself.”***
@@ -344,12 +336,8 @@ The doctrine of Divine Unity is not limited to Islam. In fact, all
 divine prophets enjoined humans to monotheism and all divine religions
 were monotheistic:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما أرسلنا مِن قبلك مِن رَسولٍ إلّا نُوحي إليهِ أَنَّهُ لا إلهَ
-إِلّا أَنا فاعبُدُون﴾
-  </p>
-</blockquote>
+> ﴿و ما أرسلنا مِن قبلك مِن رَسولٍ إلّا نُوحي إليهِ أَنَّهُ لا إلهَ
+> إِلّا أَنا فاعبُدُون﴾
 
 ***“And before thee, we have never sent a messenger but that we revealed
 unto him, saying: ‘There is no Allah but I, so serve Me.’”***[^11]
@@ -362,12 +350,8 @@ Allah[^12]”, “There is no god but He[^13]”, and “There is no god but
 I[^14]”. Also by divine decree, the messenger of Islam (S) declares that
 the epitome of his message (risālah) is enjoining people to monotheism:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُل إِنَّما أُمِرتُ أَن أَعبدَ اللهَ و لا أُشرِك به، إِليهِ أَدعُوا و
-إِليهِ مَأَب﴾
-  </p>
-</blockquote>
+> ﴿قُل إِنَّما أُمِرتُ أَن أَعبدَ اللهَ و لا أُشرِك به، إِليهِ أَدعُوا و
+> إِليهِ مَأَب﴾
 
 ***“Say: ‘I have been commanded to serve Allah and to associate naught
 with Him. To Him I invite [you], and to Him I return.’”***[^15]
@@ -436,11 +420,7 @@ It seems that the Holy Qur’an considers God’s knowledge and awareness
 needless of proof. Even so, the following interpretation in various
 verses indicates a sort of rationale regarding God’s omniscience:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ألا يعلم مَن خَلَقَ و هو اللَّطيفُ الخبيرُ﴾
-  </p>
-</blockquote>
+> ﴿ ألا يعلم مَن خَلَقَ و هو اللَّطيفُ الخبيرُ﴾
 
 ***“Does not He who created know, while He is the All-exact (Knower of
 subtleties), the All-aware?”***[^18]
@@ -469,11 +449,7 @@ positive effect upon our abstinence from sin and wrongdoing. In various
 places, the Qur’an explicitly declares the boundlessness of Divine
 Knowledge:
 
-<blockquote dir="rtl">
-  <p>
-﴿و الله بكلّ شىء عليم﴾
-  </p>
-</blockquote>
+> ﴿و الله بكلّ شىء عليم﴾
 
 ***“And Allah is knowledgeable of all things.”***[^20]
 
@@ -494,12 +470,8 @@ inestimable other things.
 Yet other verses speak of God’s knowledge of the secrets hidden within
 the hearts:
 
-<blockquote dir="rtl">
-  <p>
-﴿قل إِن تُخفوا ما فى صُدورِكم أو تُبدوه يَعلَمهُ اللهُ و يَعلمُ ما فى
-السّماوات و ما فى الأَرض﴾
-  </p>
-</blockquote>
+> ﴿قل إِن تُخفوا ما فى صُدورِكم أو تُبدوه يَعلَمهُ اللهُ و يَعلمُ ما فى
+> السّماوات و ما فى الأَرض﴾
 
 ***“Say: ‘Whether you hide what is in your breasts or reveal it, Allah
 knows it and He also knows all that is in the heavens and the
@@ -511,13 +483,9 @@ in the teachings of Traditions (Hadith).
 The Leader of the Faithful, ‘Alī (‘a), explains the broadness of Divine
 Knowledge as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَعلَم عَجيجَ الوُحُوشِ فى الفَلَواتِ و مَعاصِى العِبادِ فى الخَلَواتِ
-و اختِلافَ النّينانِ فى البِحار الغامِراتِ و تَلاطُمَ الماءِ
-بِالرّياحِ العاصِفاتِ.
-  </p>
-</blockquote>
+> يَعلَم عَجيجَ الوُحُوشِ فى الفَلَواتِ و مَعاصِى العِبادِ فى الخَلَواتِ
+> و اختِلافَ النّينانِ فى البِحار الغامِراتِ و تَلاطُمَ الماءِ
+> بِالرّياحِ العاصِفاتِ.
 
 ***“God is aware of the cries of wild animals in the mountains and
 deserts, and the private transgressions of His servants, and the
@@ -649,24 +617,16 @@ various forms of the omnipotence paradox are indicative of the same
 answer that we have proposed. According to a Hadith, in reply to someone
 who asked:
 
-<blockquote dir="rtl">
-  <p>
-هَل يَقدرُ رَبّكَ أَن يُدخِلَ الدُّنيا في بَيضةٍ مِن غَيرِ أن تَصغُرَ
-الدّنيا و تكبرَ البيضَة؟
-  </p>
-</blockquote>
+> هَل يَقدرُ رَبّكَ أَن يُدخِلَ الدُّنيا في بَيضةٍ مِن غَيرِ أن تَصغُرَ
+> الدّنيا و تكبرَ البيضَة؟
 
 “Can your Lord place the world into an egg without shrinking the world
 or enlarging the egg?”
 
 Imam ‘Alī (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ تباركَ و تَعالی لايُنسبُ إِلی العجزِ و الّذي سَأَلتني
-لايَكُونُ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ تباركَ و تَعالی لايُنسبُ إِلی العجزِ و الّذي سَأَلتني
+> لايَكُونُ.
 
 “Verily, God, the Blessed, the Sublime, cannot be attributed with
 weakness; rather, what you have asked me cannot come to pass.”[^30]
@@ -698,12 +658,8 @@ Yes indeed, He is capable of all things.”***[^32]
 In addition, the generality of God’s power is emphasized in many
 Hadiths. According to one Hadith, Imam Ṣādiq (‘a) declared:
 
-<blockquote dir="rtl">
-  <p>
-مُحيطٌ بِما خَلَقَ عِلماً وَ قُدرَةً... وَ الأشياءُ لَهُ سِواءٌ عِلماً
-و قُدرَةً.
-  </p>
-</blockquote>
+> مُحيطٌ بِما خَلَقَ عِلماً وَ قُدرَةً... وَ الأشياءُ لَهُ سِواءٌ عِلماً
+> و قُدرَةً.
 
 ***“He is All-encompassing in knowledge and power with respect to His
 creations… All things are equal for Him in His knowledge and
@@ -744,20 +700,12 @@ of natural life such as growth, consumption of food, etc.
 There are many Qur’anic verses wherein God is accredited with the
 quality of life:
 
-<blockquote dir="rtl">
-  <p>
-﴿الله لا إله الّا هو الحي القيوم﴾
-  </p>
-</blockquote>
+> ﴿الله لا إله الّا هو الحي القيوم﴾
 
 ***“He is Allah; there is no god but Him, the Living, the
 Everlasting.”***[^34]
 
-<blockquote dir="rtl">
-  <p>
-﴿هو الحيّ لا إِله الّا هو فادعوه مخلصين له الدين﴾
-  </p>
-</blockquote>
+> ﴿هو الحيّ لا إِله الّا هو فادعوه مخلصين له الدين﴾
 
 ***“He is the Living; there is no Allah but Him, so call upon Him
 purifying your religion for Him, wholeheartedly.”***[^35]
@@ -774,11 +722,7 @@ temporary and ‘on loan’ from God.
 The inexhaustibility and eternality of divine life has been stressed in
 various Qur’anic verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿و توكّل علی الحيِّ الّذي لايموت﴾
-  </p>
-</blockquote>
+> ﴿و توكّل علی الحيِّ الّذي لايموت﴾
 
 ***“And put thy trust in the Ever-living who dies not.”***[^38]
 
@@ -786,12 +730,8 @@ In various Hadiths, the truth of divine life and its differences with
 the lives of creations are enumerated. The following is a profound and
 precise Hadith from Imam Kāẓim (‘a):
 
-<blockquote dir="rtl">
-  <p>
-و كان اللهُ حَيّاً بِلاحَياة حادِثَةٍ و لاكَونٍ مُوصوفٍ و لاكَيفٍ
-محدودٍ و لا أينٍ مَوقُوفٍ و لاسكانٍ ساكِن بَل حَيٌّ لِنَفسِهِ.
-  </p>
-</blockquote>
+> و كان اللهُ حَيّاً بِلاحَياة حادِثَةٍ و لاكَونٍ مُوصوفٍ و لاكَيفٍ
+> محدودٍ و لا أينٍ مَوقُوفٍ و لاسكانٍ ساكِن بَل حَيٌّ لِنَفسِهِ.
 
 *“And God is living but not a life that has come into being; His life
 does not have an [independent] existence with which to be qualified; it
@@ -850,11 +790,7 @@ mentioned in the Holy Qur’an; the Qur’an has used other terms to
 indicate the past and future eternality of God. For example, the Qur’an
 introduces God as the “First” [awwal] and “Last” [ākhir]:
 
-<blockquote dir="rtl">
-  <p>
-﴿هو الاوّل و الآخِر و الظّاهِرُ و الباطِنُ و هو بكلِّ شيءٍ عليمٌ﴾
-  </p>
-</blockquote>
+> ﴿هو الاوّل و الآخِر و الظّاهِرُ و الباطِنُ و هو بكلِّ شيءٍ عليمٌ﴾
 
 ***“He is the First and the Last, and the manifest and invisible; and He
 is aware of all things.”***[^43]
@@ -865,12 +801,8 @@ past and future eternality and this interpretation has been endorsed by
 several Traditions. In a sermon entitled “Apparitions” [Ashbāh] Imam
 ‘Alī (‘a) states:
 
-<blockquote dir="rtl">
-  <p>
-الاوّلُ الّذي لم يكن له قبل فيكون شيء قبله و الآخِر الّذي ليس له بعد
-فيكون شيء بعده.
-  </p>
-</blockquote>
+> الاوّلُ الّذي لم يكن له قبل فيكون شيء قبله و الآخِر الّذي ليس له بعد
+> فيكون شيء بعده.
 
 ***“[God] is the First who has no before in order that there be
 something before Him, and He is the Last who has no after in order for
@@ -878,12 +810,8 @@ there to be something after Him.”***[^44]
 
 In another Hadith, Imam Ṣādiq has stated:
 
-<blockquote dir="rtl">
-  <p>
-الاوّلُ لاعَن اوّلٍ قَبلَهُ و لا عَن بَدءٍ سَبَقَهُ و الآخِرُ لا عَن
-نِهايَةٍ... لَم يَزَل و لايَزُولُ بِلا بَدءٍ و لانِهايَةٍ.
-  </p>
-</blockquote>
+> الاوّلُ لاعَن اوّلٍ قَبلَهُ و لا عَن بَدءٍ سَبَقَهُ و الآخِرُ لا عَن
+> نِهايَةٍ... لَم يَزَل و لايَزُولُ بِلا بَدءٍ و لانِهايَةٍ.
 
 *“He is the First without there being anything before Him or a beginning
 preceding Him, and He is the Last without having an end Himself… He has
@@ -897,11 +825,7 @@ nihility neither precedes nor follows Him.
 Several Qur’anic verses also emphasize the eternality and
 indestructibility of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿كلُّ شيءٍ هالكٌ إِلّا وَجهَه﴾
-  </p>
-</blockquote>
+> ﴿كلُّ شيءٍ هالكٌ إِلّا وَجهَه﴾
 
 ***“All things perish except His Face.”***[^46]
 
@@ -934,21 +858,13 @@ of an agent whose essence is perfect in all aspects, must be perfect in
 all aspects. In definition of divine wisdom the Commander of the
 Faithful [Amīr al-Mu’minīn] (‘a) has made the following statements:
 
-<blockquote dir="rtl">
-  <p>
-قَدَّرَ ما خَلَقَ فَأَحكَمَ تَقديرَهُ.
-  </p>
-</blockquote>
+> قَدَّرَ ما خَلَقَ فَأَحكَمَ تَقديرَهُ.
 
 ***“God measured all He created and then secured and stabilized
 creation.”***[^47]
 
-<blockquote dir="rtl">
-  <p>
-مُبتدِع الخَلائِقِ بِعلمهِ و مُنشِئهِم بِحُكمهِ بلا اقتِداءٍ لاتَعليمٍ
-و لااحتذاءٍ لِمِثالِ صانعٍ حَكيمٍ.
-  </p>
-</blockquote>
+> مُبتدِع الخَلائِقِ بِعلمهِ و مُنشِئهِم بِحُكمهِ بلا اقتِداءٍ لاتَعليمٍ
+> و لااحتذاءٍ لِمِثالِ صانعٍ حَكيمٍ.
 
 “Through His knowledge He originates His creations and through His
 wisdom He creates them; without copying or learning from someone or
@@ -999,11 +915,7 @@ The definition of divine wisdom under discussion is outlined in many
 Qur’anic verses. For example, regarding the finality of the creation of
 humans, it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَفحسِبتم أَنّما خَلَقناكم عَبثاً و أَنّكُم إِلينا لاتُرجَعون﴾
-  </p>
-</blockquote>
+> ﴿أَفحسِبتم أَنّما خَلَقناكم عَبثاً و أَنّكُم إِلينا لاتُرجَعون﴾
 
 ***“Did you [truly] think that We have created you in vain and that you
 would not be returned to Us?”***[^49]
@@ -1019,11 +931,7 @@ In another verse, the Qur’an speaks of the sagacity of the creation of
 the heavens and earth and the creatures in between—which is probably an
 allusion to the creation of the universe:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما خلقنا السّماواتِ و الأَرضَ و ما بينَهُما لاعبين﴾
-  </p>
-</blockquote>
+> ﴿و ما خلقنا السّماواتِ و الأَرضَ و ما بينَهُما لاعبين﴾
 
 ***“And we have not created the heavens and earth and all that is
 between for sport.”***[^50]
@@ -1031,13 +939,9 @@ between for sport.”***[^50]
 Also, according to a Hadith from Imam Ṣādiq (‘a), in answer to someone
 who asked “Why has God created His servants?” he stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الله تَبارَكَ و تَعالی لَم يخلُق خَلقَهُ عَبَثاً و لَم يَترُكهُم
-سُدیً... و ما خَلَقَهُم لِيَجلِبُ منهُم مَنفِعَةً و لا لِيَدفِعُ بِهِم
-مَضِرَّةً بَل خَلَقَهُم لَيَنفَعَهم و يوصِلَهُم إلی نَعيمِ الأَبَدِ.
-  </p>
-</blockquote>
+> إِنَّ الله تَبارَكَ و تَعالی لَم يخلُق خَلقَهُ عَبَثاً و لَم يَترُكهُم
+> سُدیً... و ما خَلَقَهُم لِيَجلِبُ منهُم مَنفِعَةً و لا لِيَدفِعُ بِهِم
+> مَضِرَّةً بَل خَلَقَهُم لَيَنفَعَهم و يوصِلَهُم إلی نَعيمِ الأَبَدِ.
 
 ***“Verily, God, the Blessed, the Exalted, has not created His creatures
 in vain and has not forsaken them… and He has not created them for
@@ -1114,12 +1018,8 @@ and reveal its precious essence. Even so, sometimes divine trials are
 accomplished through ease and welfare.[^54] Several Qur’anic verses
 indicate trialing humans through hardships and affliction, such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿و لَنبلونّكم بِشيءٍ مِنَ الخوفِ و الجُوعِ و نَقصٍ مِن الأَموالِ و
-الأَنفُسِ و الثَّمَراتِ و بَشِّر الصّابرين﴾
-  </p>
-</blockquote>
+> ﴿و لَنبلونّكم بِشيءٍ مِنَ الخوفِ و الجُوعِ و نَقصٍ مِن الأَموالِ و
+> الأَنفُسِ و الثَّمَراتِ و بَشِّر الصّابرين﴾
 
 ***“And surely we shall try you with something of fear and hunger, and
 reduction of assets, lives, and produce; and give thou good tidings unto
@@ -1144,12 +1044,8 @@ declares that the peoples of the prophets have always been confronted
 with difficulties so that they might renounce their disobedience and
 surrender to righteousness:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما أَرسلنا في قريَةٍ من نبيٍّ إِلّا أَخذنا أَهلَها بِالبَأساءِ و
-الضَّرّاءِ لَعَلَّهُم يَضَّرّعون﴾
-  </p>
-</blockquote>
+> ﴿و ما أَرسلنا في قريَةٍ من نبيٍّ إِلّا أَخذنا أَهلَها بِالبَأساءِ و
+> الضَّرّاءِ لَعَلَّهُم يَضَّرّعون﴾
 
 ***“And We have sent no prophet to any city but that We burdened its
 people with hardship and affliction that haply they might weep [before
@@ -1159,12 +1055,8 @@ In addition, the Qur’an states that the calamities and hardships
 afflicted upon Pharaoh’s nation were admonitions to remind them of the
 truths they had neglected:
 
-<blockquote dir="rtl">
-  <p>
-﴿و لقد أَخذنا آل فرعونَ بِالسِّنينَ و نَقصٍ مِن الثَّمراتِ لَعَلَّهُم
-يَذَّكّرونَ﴾
-  </p>
-</blockquote>
+> ﴿و لقد أَخذنا آل فرعونَ بِالسِّنينَ و نَقصٍ مِن الثَّمراتِ لَعَلَّهُم
+> يَذَّكّرونَ﴾
 
 ***“And verily, we afflicted the people of the Pharaoh with drought and
 diminution of produce that haply they might be edified.”***[^58]
@@ -1176,15 +1068,11 @@ significance of divine blessings and are thankful for them because,
 “Only one who has been afflicted can appreciate health and ease”[^59].
 Imam Ṣādiq has stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنّ هذِه الآفاتِ و إِن كانَت تَنالُ الصّالِحُ و الطّالِحُ جَميعاً
-فَإِنَّ اللهَ جَعَلَ ذلِكَ صَلاحاً لِلصِّنفَينِ كليهما أَمّا
-الصّالِحُونَ فإِنَّ الّذي يُصيبُهُم مِن هذا يَرُدُّهُم نِعَمَ رَبِّهم
-عِندَهُم في سالِفِ أَيّامِهِم فَيحُدّوهُم ذلك عَلَی الشُّكرِ و
-الصَّبرِ.
-  </p>
-</blockquote>
+> إِنّ هذِه الآفاتِ و إِن كانَت تَنالُ الصّالِحُ و الطّالِحُ جَميعاً
+> فَإِنَّ اللهَ جَعَلَ ذلِكَ صَلاحاً لِلصِّنفَينِ كليهما أَمّا
+> الصّالِحُونَ فإِنَّ الّذي يُصيبُهُم مِن هذا يَرُدُّهُم نِعَمَ رَبِّهم
+> عِندَهُم في سالِفِ أَيّامِهِم فَيحُدّوهُم ذلك عَلَی الشُّكرِ و
+> الصَّبرِ.
 
 ***“While both the righteous and the wicked are plagued with these
 blights, God has instituted them as reformation for both. The blights
@@ -1209,11 +1097,7 @@ Accordingly, wisdom dictates that we be more careful in our judgments
 because it is possible that what we deem evil is in fact good. The
 Qur’an reveals this truth beautifully by saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿و عَسَی أَن تَكرَهوا شيأً و هو خيرٌ لكم﴾
-  </p>
-</blockquote>
+> ﴿و عَسَی أَن تَكرَهوا شيأً و هو خيرٌ لكم﴾
 
 ***“And much it happens that you abhor something which is best for
 you.”***[^61]
@@ -1247,11 +1131,7 @@ divine wisdom. Alas, “A self-inflictor cannot complain”.[^63]
 The Qur’an also warns of the effects of human actions in creating
 unpleasant incidents:
 
-<blockquote dir="rtl">
-  <p>
-﴿ظَهَرَ الفَسادُ في البرّ و البحرِ بما كَسَبَت أَيدي النَّاس﴾
-  </p>
-</blockquote>
+> ﴿ظَهَرَ الفَسادُ في البرّ و البحرِ بما كَسَبَت أَيدي النَّاس﴾
 
 ***“Corruption has appeared in land and sea for that which humans have
 done by their own hands.”***[^64]
@@ -1288,11 +1168,7 @@ of these definitions: “placing people and objects in suitable
 positions”. This definition can be extracted from the following Hadith
 of Imam ‘Alī (‘a):
 
-<blockquote dir="rtl">
-  <p>
-العدل يَضَع الامورَ مواضعها.
-  </p>
-</blockquote>
+> العدل يَضَع الامورَ مواضعها.
 
 ***“Justice sets everything in its place”.***[^65]
 
@@ -1337,54 +1213,34 @@ realized in this world and the rest are realized in the afterworld.[^66]
 The Qur’an indicates divine justice through negation of cruelty and
 oppression; God does not oppress any person:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الله لا يظلِمُ النّاسَ شيئاً و لكنَّ النّاسَ أَنفُسَهم يظلمون﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الله لا يظلِمُ النّاسَ شيئاً و لكنَّ النّاسَ أَنفُسَهم يظلمون﴾
 
 ***“Surely, Allah in no way wrongs people; yet humans wrong
 themselves.”***[^67]
 
 At times, the Qur’an speaks of Justice in a more general manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما اللهُ يريدُ ظلماً للعالمين﴾
-  </p>
-</blockquote>
+> ﴿و ما اللهُ يريدُ ظلماً للعالمين﴾
 
 ***“And Allah wishes no wrong upon the inhabitants of the
 world.”***[^68]
 
 Also, some Qur’anic verses speak of the legislative justice of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿و لانُكلِّفُ نَفساً إِلّا وُسعَها و لَدينا كِتابٌ يَنطقُ بالحقِّ، و
-هُم لا يُظلمونَ﴾
-  </p>
-</blockquote>
+> ﴿و لانُكلِّفُ نَفساً إِلّا وُسعَها و لَدينا كِتابٌ يَنطقُ بالحقِّ، و
+> هُم لا يُظلمونَ﴾
 
 ***“And We charge not any soul, save to its capacity and with Us is a
 Book speaking truth; and they shall not be wronged.”***[^69]
 
 And some verses testify to the compensational justice of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿و نَضَعُ الموازينَ القِسطَ لِيومِ القِيامَةِ فلا تُظلَمُ نفسٌ شيئاً﴾
-  </p>
-</blockquote>
+> ﴿و نَضَعُ الموازينَ القِسطَ لِيومِ القِيامَةِ فلا تُظلَمُ نفسٌ شيئاً﴾
 
 ***“And we shall set up the scales of justice for the Day of Judgment so
 that no soul will be wronged in any way.”***[^70]
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما كنّا مُعذّبينَ حتّی نبعثَ رسولاً﴾
-  </p>
-</blockquote>
+> ﴿و ما كنّا مُعذّبينَ حتّی نبعثَ رسولاً﴾
 
 ***“And We shall not chastise before We send forth a messenger.”***[^71]
 
@@ -1559,11 +1415,7 @@ is that occupying space and being placed in a certain locality are
 material qualities, whereas God is immaterial. The Holy Qur’an indicates
 this apophatic attribute in this manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿و للهِ المشرقُ و المغربُ، فأَينما تُولّوا فَثمَّ وجهُ الله﴾
-  </p>
-</blockquote>
+> ﴿و للهِ المشرقُ و المغربُ، فأَينما تُولّوا فَثمَّ وجهُ الله﴾
 
 ***“And to Allah belong the east and west; whithersoever you turn is
 facing Allah.”***[^73]
@@ -1627,11 +1479,7 @@ Which are not comparable to my worldly eyes.[^74]
 The Qur’an explicitly stresses the impossibility of optical perception
 of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿لا تُدركه الأَبصارُ و هو يُدركُ الأَبصار﴾
-  </p>
-</blockquote>
+> ﴿لا تُدركه الأَبصارُ و هو يُدركُ الأَبصار﴾
 
 ***“Eyes realize Him not, but He realizes all eyes.”***[^75]
 
@@ -1851,5 +1699,4 @@ justice in view of the existence of evil. [Trans.]
 است
 
 [^75]: - Sūrah An‘ām 6:103, also see: Sūrah A‘rāf 7:143.
-
 

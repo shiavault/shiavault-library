@@ -410,4 +410,3 @@ so there is no escape from a verdict of “not guilty”.
 
 \*\*\*
 
-

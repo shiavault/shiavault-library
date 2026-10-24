@@ -13,4 +13,3 @@ against morality.
 Bravo to those children who have good understanding and follow and obey
 the orders of morality.
 
-

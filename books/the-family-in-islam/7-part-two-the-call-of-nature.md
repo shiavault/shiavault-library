@@ -178,4 +178,3 @@ stealth and bravery are required from educationalists and in Islamic
 circles, and from parents so that they can do away with these man-made
 laws and detrimental customs.
 
-

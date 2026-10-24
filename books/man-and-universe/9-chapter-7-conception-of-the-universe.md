@@ -409,4 +409,3 @@ sowing and harvest, for one reaps what one sows. They may also be
 compared to the two periods of childhood and old age, for the latter
 period is the outcome of the former.
 
-

@@ -168,4 +168,3 @@ mercy of his Lord, Sayyid Ahmed al-Fahri, on the twentieth day of the
 blessed Month of Ramadan in the city of Damascus in the year 1404 A.H.;
 with the one who undertook the migration may be prayers and peace.
 
-

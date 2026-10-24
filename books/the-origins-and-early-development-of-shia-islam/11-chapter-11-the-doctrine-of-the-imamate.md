@@ -1164,4 +1164,3 @@ pp.7-10; Dhahabi, Mizan, I, pp.4-s
 
 [^100]: Saduq, Creed, pp.84 f.
 
-

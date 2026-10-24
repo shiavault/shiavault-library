@@ -4,30 +4,14 @@ Section 4: Reward for the Righteous – Angles Give Abraham the Tidings of a Son
 Surah Al-Hijr – Verses 45 - 48
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-ادْخُلُوهَا بِسَلاَمٍ ءَامِنِينَ
-  </p>
-</blockquote>
+> ادْخُلُوهَا بِسَلاَمٍ ءَامِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مَا فِي صُدُورِهِم مِنْ غِلٍّ إِخْوَاناً عَلَي سُرُرٍ
-مُتَقابِلِينَ
-  </p>
-</blockquote>
+> وَنَزَعْنَا مَا فِي صُدُورِهِم مِنْ غِلٍّ إِخْوَاناً عَلَي سُرُرٍ
+> مُتَقابِلِينَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مّـِنْهَا بِمُخْرَجِينَ
-  </p>
-</blockquote>
+> لاَ يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مّـِنْهَا بِمُخْرَجِينَ
 
 ***45. “Verily, the pious ones shall be amidst gardens and
 watersprings.”***  
@@ -89,17 +73,9 @@ accession to the throne is pleasant and causes one’s rejoicing.
 Surah Al-Hijr – Verses 49 - 50
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-نَبّـِئْ عِبَادِي أَنّـِي أَنَا الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> نَبّـِئْ عِبَادِي أَنّـِي أَنَا الْغَفُورُ الرَّحِيمُ
 
-<blockquote dir="rtl">
-  <p>
-وَاَنَّ عَذَابِي هُوَ الْعَذَابُ الاَلِيمُ
-  </p>
-</blockquote>
+> وَاَنَّ عَذَابِي هُوَ الْعَذَابُ الاَلِيمُ
 
 ***49. “(O Prophet!) Inform My servants (that) verily I am the
 Forgiving, the Merciful,”***  
@@ -142,18 +118,10 @@ The verse says:
 Surah Al-Hijr – Verses 51 - 52
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَبّـِئْهُمْ عَن ضَيْفِ إبْرَاهِيمَ
-  </p>
-</blockquote>
+> وَنَبّـِئْهُمْ عَن ضَيْفِ إبْرَاهِيمَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلاَماً قَالَ إِنَّا مِنكُمْ
-وَجِلُونَ
-  </p>
-</blockquote>
+> إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلاَماً قَالَ إِنَّا مِنكُمْ
+> وَجِلُونَ
 
 ***51. “And inform them of the guests of Abraham.”***  
 ***52. “When they entered upon him and said: ‘Peace’, he said: ‘Verily
@@ -197,18 +165,10 @@ enmity with regard to him.
 Surah Al-Hijr – Verses 53 - 54
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لاَ تَوْجَلْ إِنَّا نُبَشّـِرُكَ بِغُلاَمٍ عَلِيمٍ
-  </p>
-</blockquote>
+> قَالُوا لاَ تَوْجَلْ إِنَّا نُبَشّـِرُكَ بِغُلاَمٍ عَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَبَشَّرْتُمُونِي عَلَي أَن مَسَّنِيَ الْكِبَرُ فَبِمَ
-تُبَشّـِرُونَ
-  </p>
-</blockquote>
+> قَالَ أَبَشَّرْتُمُونِي عَلَي أَن مَسَّنِيَ الْكِبَرُ فَبِمَ
+> تُبَشّـِرُونَ
 
 ***53. “They said: ‘Be not afraid! Verily we give you the good news of a
 son endowed with knowledge.”***  
@@ -248,17 +208,9 @@ by yourselves? State clearly so as I can be sure.
 Surah Al-Hijr – Verses 55 - 56
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَشَّرْنَاكَ بِالْحَقّ‌ِ فَلاَ تَكُن مّـِنَ الْقَانِطِينَ
-  </p>
-</blockquote>
+> قَالُوا بَشَّرْنَاكَ بِالْحَقّ‌ِ فَلاَ تَكُن مّـِنَ الْقَانِطِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبّـِهِ إِلاَّ الضَّآلُّونَ
-  </p>
-</blockquote>
+> قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبّـِهِ إِلاَّ الضَّآلُّونَ
 
 ***55. “They (the guests) said: ‘We give you good news of the Truth.
 Therefore, be you not of the despairing ones’.”***  
@@ -317,17 +269,9 @@ ability of such a Lord or despair from His grace?
 Surah Al-Hijr – Verses 57 - 58
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّآ اُرْسِلْنَآ إِلَي قَوْمٍ مُّجْرِمِينَ
-  </p>
-</blockquote>
+> قَالُوا إِنَّآ اُرْسِلْنَآ إِلَي قَوْمٍ مُّجْرِمِينَ
 
 ***57. “He said: ‘What is your business, then, O’ you (Divine)
 messengers?’”***  
@@ -365,17 +309,9 @@ their destruction.
 Surah Al-Hijr – Verses 59 - 60
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلآَّ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> إِلآَّ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ امْرَأَتَهُ قَدَّرْنَآ إِنَّهَا لَمِنَ الْغَابِرِينَ
-  </p>
-</blockquote>
+> إِلاَّ امْرَأَتَهُ قَدَّرْنَآ إِنَّهَا لَمِنَ الْغَابِرِينَ
 
 ***59. “Save the family of Lot, We shall surely rescue them all.”***  
 ***60. “Except his wife, of whom we decreed that she should be among
@@ -432,5 +368,4 @@ killed like other inhabitants of the town.
 [^1]: The current Surah, verse 52
 
 [^2]: Ibid, verse 62
-
 

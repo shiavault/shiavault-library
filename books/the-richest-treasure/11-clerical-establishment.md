@@ -28,4 +28,3 @@ Remember, every weakness of any one among your establishment and
 scribes, which you may overlook, will be written down against you in
 your scroll of deeds.
 
-

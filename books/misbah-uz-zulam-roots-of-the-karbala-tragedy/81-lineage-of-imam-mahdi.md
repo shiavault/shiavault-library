@@ -136,4 +136,3 @@ attention.
 
 [^1]: Ref. Sawaiqul Mohreqa, Pg. 114.
 
-

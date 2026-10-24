@@ -678,4 +678,3 @@ unless you openly repent your past deeds and clarify your position for
 us. We have thus informed you of our words and demands and God aids us
 in facing you.
 
-

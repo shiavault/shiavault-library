@@ -593,4 +593,3 @@ of birthday anniversaries of the Holy Prophet (S) and Imam Sadiq
 [^13]: Supreme Leader’s speech delivered on January 10, 1994 in a
 meeting with government officials on the occasion of Mab’ath
 
-

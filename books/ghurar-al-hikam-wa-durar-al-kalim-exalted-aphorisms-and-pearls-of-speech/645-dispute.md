@@ -12,15 +12,10 @@ disrespectful] with you.
 for indeed this degrades the intelligent ones.
 
 > 2ـ لاتُنازِ عِ السُّفَهاءَ ولاتَسْتَهْتِرْ بِالنِّساءِ فَإنَّ ذلِكَ
-<blockquote dir="rtl">
-  <p>
-يُزْري بِالْعُقَلاءِ.
-  </p>
-</blockquote>
+> يُزْري بِالْعُقَلاءِ.
 
 3. Disputing with the ignoble ones disgraces the [status of the] eminent
 ones.
 
 > 3ـ مُنازَعةُ السَّفَل تَشينُ السّادَةَ.
-
 

@@ -4,13 +4,9 @@ Section 13: The Ministry of Moses
 Surah al-‘Araf , Verse 100
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ لَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ الاَرْضَ مِنْ بَعْدِ أَهْلِهَآ
-أَنْ لَوْ نَشَآءُ أَصَبْنَاهُمْ بِذُنُوبِهِمْ وَنَطْبَعُ عَلَى
-قُلُوبِهِمْ فَهُمْ لايَسْمَعُونَ
-  </p>
-</blockquote>
+> أَوَ لَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ الاَرْضَ مِنْ بَعْدِ أَهْلِهَآ
+> أَنْ لَوْ نَشَآءُ أَصَبْنَاهُمْ بِذُنُوبِهِمْ وَنَطْبَعُ عَلَى
+> قُلُوبِهِمْ فَهُمْ لايَسْمَعُونَ
 
 **100.** ***“Does He not guide (thereby) those who inherit the earth
 after its (former) residents that if We please We will destroy them
@@ -46,14 +42,10 @@ truth)?”***
 Surah al-‘Araf – Verse 101
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الْقُرَىٰ نَقُصُّ عَلَيْكَ مِنْ أَنبَائِهَا ۚ وَلَقَدْ
-جَاءَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا
-كَذَّبُوا مِن قَبْلُ ۚ كَذَٰلِكَ يَطْبَعُ اللَّهُ عَلَىٰ قُلُوبِ
-الْكَافِرِينَ
-  </p>
-</blockquote>
+> تِلْكَ الْقُرَىٰ نَقُصُّ عَلَيْكَ مِنْ أَنبَائِهَا ۚ وَلَقَدْ
+> جَاءَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا
+> كَذَّبُوا مِن قَبْلُ ۚ كَذَٰلِكَ يَطْبَعُ اللَّهُ عَلَىٰ قُلُوبِ
+> الْكَافِرِينَ
 
 **101.** ***“These are the towns some of whose tidings We recount unto
 you; and certainly their Messengers came to them with manifest proofs,
@@ -99,12 +91,8 @@ Allah, since it is He Who is the Cause of all causes.
 Surah al-‘Araf – Verse 102
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا وَجَدْنَا لاَكْثَرِهِمْ مِنْ عَهْدٍ وإِنْ وَجَدْنَآ أَكْثَرَهُمْ
-لَفَاسِقِينَ
-  </p>
-</blockquote>
+> وَمَا وَجَدْنَا لاَكْثَرِهِمْ مِنْ عَهْدٍ وإِنْ وَجَدْنَآ أَكْثَرَهُمْ
+> لَفَاسِقِينَ
 
 **102*****. “And, We did not find in most of them any (firm) covenant,
 and verily We found most of them to be wrong-doers.”***
@@ -145,13 +133,9 @@ promise and disobedience.
 Surah al-‘Araf – Verse 103
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ بَعَثْنَا مِنْ بَعْدِهِمْ مُوسَى بِاَيَاتِنَآ إِلَى فِرْعَوْنَ
-وَمَلَئِهِ فَظَلَمُوا بِها فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ
-الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> ثُمَّ بَعَثْنَا مِنْ بَعْدِهِمْ مُوسَى بِاَيَاتِنَآ إِلَى فِرْعَوْنَ
+> وَمَلَئِهِ فَظَلَمُوا بِها فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ
+> الْمُفْسِدِينَ
 
 **103*****. “Then, after them, We sent Moses with Our Signs unto Pharaoh
 and his chiefs, but they wronged (and disbelieved) in them. Consider
@@ -195,11 +179,7 @@ end of the mischief makers was! ”***
 Surah al-‘Araf – Verse 104
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ مُوسَى يَافِرْعَوْنُ إِنِّي رَسُولٌ مِنْ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَقَالَ مُوسَى يَافِرْعَوْنُ إِنِّي رَسُولٌ مِنْ رَبِّ الْعَالَمِينَ
 
 **104.** ***"And Moses said: ‘O Pharaoh! Verily I am a Messenger from
 the Lord of the worlds’."***
@@ -217,13 +197,9 @@ from the chiefs of that society.
 Surah al-‘Araf – Verse 105
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَقِيقٌ عَلَى اَنْ لآ اَقُولَ عَلَى اللّهِ إِلاَّ الْحَقَّ قَدْ
-جِئْتُكُمْ بِبَيِّنَةٍ مِنْ رَبِّكُمْ فَاَرْسِلْ مَعِيَ بَنِي
-إِسْرآئِيلَ
-  </p>
-</blockquote>
+> حَقِيقٌ عَلَى اَنْ لآ اَقُولَ عَلَى اللّهِ إِلاَّ الْحَقَّ قَدْ
+> جِئْتُكُمْ بِبَيِّنَةٍ مِنْ رَبِّكُمْ فَاَرْسِلْ مَعِيَ بَنِي
+> إِسْرآئِيلَ
 
 **105*****. “(I am) worthy of saying nothing about Allah except the
 truth. Indeed I have come to you with a clear Sign (a miracle) from your
@@ -253,18 +229,10 @@ That was why Moses (as) said to Pharaoh:
 Surah al-‘Araf – Verses 106-107
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنْ كُنْتَ جِئْتَ بِاَيَةٍ فَأْتِ بِهَآ إِنْ كُنْتَ مِنَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> قَالَ إِنْ كُنْتَ جِئْتَ بِاَيَةٍ فَأْتِ بِهَآ إِنْ كُنْتَ مِنَ
+> الصَّادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ
-  </p>
-</blockquote>
+> فَاَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ
 
 **106*****. “He (Pharaoh) said: ‘If you have come with a Sign (a
 miracle), then bring it, if you are of the truthful ones’.”***  
@@ -318,5 +286,4 @@ However, a miracle should be clear for all, so that no doubt remains.
 The verse says:
 
 ***“…then behold! it was a clear serpent.”***
-
 

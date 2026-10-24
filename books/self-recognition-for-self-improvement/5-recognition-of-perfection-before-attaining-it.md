@@ -171,4 +171,3 @@ conclusion drawn from the discussion would be accepted by all movements
 and religions. Such an expectation is principally like expecting the
 agreement of contradictory things which is necessarily impossible.
 
-

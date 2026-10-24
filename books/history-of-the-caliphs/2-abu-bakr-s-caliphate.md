@@ -296,11 +296,7 @@ allegiance and it made Muslims very happy.[^42]
 Mas'udi says, “Fatima, sitting at the side of the Prophet's grave,
 recited the following poem”,
 
-<blockquote dir="rtl">
-  <p>
-قدكان بعدك انباء وهينمة لوكنت شاهدها لم تكثر الخطب
-  </p>
-</blockquote>
+> قدكان بعدك انباء وهينمة لوكنت شاهدها لم تكثر الخطب
 
 “After you, there appeared events that if you had been alive to see
 them, you would have never made so many speeches.” [^43]
@@ -327,11 +323,7 @@ encourageit although he also believed in the principle. Both had dual
 policies but 'Umar, according to authentic documents, used force while
 Abu Bakr said in one of his sermons,
 
-<blockquote dir="rtl">
-  <p>
-“لا بيعة لي في عنقه وهو بالخيار من أمره ”'
-  </p>
-</blockquote>
+> “لا بيعة لي في عنقه وهو بالخيار من أمره ”'
 
 ‘Ali has no obligation nor commitment to swear allegiance to me and he
 is free in his choice.”[^47]
@@ -494,11 +486,7 @@ emergence of many claimants of prophethood. Aswad 'Ansa was the first of
 these who staged a rebellion in Yemen and wrote to the representatives
 of the Prophet,
 
-<blockquote dir="rtl">
-  <p>
-” أمسكوا علينا ما أخذنا من أرضنا "
-  </p>
-</blockquote>
+> ” أمسكوا علينا ما أخذنا من أرضنا "
 
 Return to us whatever of our lands you have captured.”[^62]
 
@@ -525,12 +513,8 @@ become your partner in prophethood. Half of the lands belong to us and
 the other half to the Quraysh, but the Quraysh are aggressive people.”
 The Prophet responded to him,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْأَرْضَ لِلَّهِ يُورِثُهَا مَنْ يَشَاءُ مِنْ عِبَادِهِ
-وَالْعَاقِبَةُ لِلْمُتَّقِينَ.
-  </p>
-</blockquote>
+> إِنَّ الْأَرْضَ لِلَّهِ يُورِثُهَا مَنْ يَشَاءُ مِنْ عِبَادِهِ
+> وَالْعَاقِبَةُ لِلْمُتَّقِينَ.
 
 “The earth belongs to Him, He gives it to whomever He wishes and the
 eternality is for the pious people.” [^65]
@@ -576,11 +560,7 @@ Ibn Marara's daughter, who was one of the conspiring heads of Banu
 Hanifa, and indulged in his own lust and pleasure. Observing this,
 Muslims wrote a letter to Abu Bakr and said,
 
-<blockquote dir="rtl">
-  <p>
-أترضى بأنا لا تجف دماءنا وهذا عروس باليمامة خالد
-  </p>
-</blockquote>
+> أترضى بأنا لا تجف دماءنا وهذا عروس باليمامة خالد
 
 “Do you please with our blood in dryness and this man keeps on living in
 relief in Yamama.”
@@ -713,12 +693,8 @@ Kinda and Abu Bakr reveal their problem was Abu Bakr's caliphate. Making
 his mind to fight the Kinda tribes, Abu Bakr summoned 'Umar and said, “I
 want to send 'Ali Ibn Abi Talib to fight them because,
 
-<blockquote dir="rtl">
-  <p>
-فانه عدل رضا عند اكثر الناس لفضله وشجاعته وقرابته وعلمه وفهمه ورفقه
-بما يحاول من الامور “
-  </p>
-</blockquote>
+> فانه عدل رضا عند اكثر الناس لفضله وشجاعته وقرابته وعلمه وفهمه ورفقه
+> بما يحاول من الامور “
 
 He is just and acceptable more to the public because of his excellence,
 valour, kinship and knowledge as well as his handling of affairs.”
@@ -799,17 +775,9 @@ Muslims and that if they obeyed Muhammad, it was because he was a
 prophet. But, after his demise, there would be no need to obey others.
 They said:
 
-<blockquote dir="rtl">
-  <p>
-أطعنـا رسول الله ما كان بيننا فيـــا لعباد الله ما لأبي بكر
-  </p>
-</blockquote>
+> أطعنـا رسول الله ما كان بيننا فيـــا لعباد الله ما لأبي بكر
 
-<blockquote dir="rtl">
-  <p>
-إذا مات بكر قام بكر مكانـه وتلكم لعمر الله قاصمة الظهر
-  </p>
-</blockquote>
+> إذا مات بكر قام بكر مكانـه وتلكم لعمر الله قاصمة الظهر
 
 We obeyed the Messenger when he was alive but why shall we obey Abu
 Bakr?  
@@ -827,17 +795,9 @@ not consider anyone else deserving obedience.”[^96]
 This reasoning has been brought in the poetry of Malik Ibn Nuwayra.
 Addressing his tribe, he said:
 
-<blockquote dir="rtl">
-  <p>
-وقلت خذوا أموالكم غير خائف ولا ناظـر فيما يجئ من الغد
-  </p>
-</blockquote>
+> وقلت خذوا أموالكم غير خائف ولا ناظـر فيما يجئ من الغد
 
-<blockquote dir="rtl">
-  <p>
-فـإن قام بالأمر المخوّف قائم منعنا وقلنا: الدين دين محمد
-  </p>
-</blockquote>
+> فـإن قام بالأمر المخوّف قائم منعنا وقلنا: الدين دين محمد
 
 “I told you to take your money (tax alms) with no fear and no worries of
 what happens tomorrow, If someone assumes power, we will tell him, the
@@ -2180,5 +2140,4 @@ al-Isaba, vol. III, p. 362
 [^196]: Futuh al-Buldan, p. 248
 
 [^197]: Spuler, Tarikh Iran, vol. I, p. 13
-
 

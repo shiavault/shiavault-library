@@ -95,7 +95,6 @@ their manners. In particular, our Holy Prophet Muhammad (s.a.w.w.) was
 the perfect example of akhlaq. He was also known as USWATUN HASANAH (The
 Best Example).
 
-
 **NUMBER OF PROPHETS** The first Prophet who came down on the face of
 this earth was Prophet Adam (a.s.) and the last was the Seal of
 Prophethood - our Holy Prophet Muhammad Ibn Abdullah (s.a.w.w.).
@@ -163,7 +162,6 @@ divine system while we, as human beings, cannot do so?
 6. Who are the ULOOL-ADHM prophets?
 7. How can one show belief in and respect towards prophets? (Try to
 analyze this and give an answer based on your own opinions.)
-
 
 **Lesson 7 : If You Do Not Value Allah (S.W.T.)'S Blessings**
 
@@ -272,7 +270,6 @@ the prophet of their time?
 4. What lessons can we derive from the events that unfolded with the
 QAWME SABA? Explain your answer in detail.
 
-
 **ANECDOTE
 THE FIRE AND THE FIREWOOD**
 
@@ -297,5 +294,4 @@ the hearts of the poor." He then said, "Guard against the smoke of an
 afflicted heart, for it will undoubtedly start a fire one day. Give
 nobody's heart pain as long as you can avoid it, for a single sigh may
 set the whole world into flames!"
-
 

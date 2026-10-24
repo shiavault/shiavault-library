@@ -162,7 +162,6 @@ pilgrims.
 
 ------------------------------------------------------------------------
 
-  
 Sharh al- Nahj 3/457.
 
 It was he HisMm who warned Abraha, the leader of the Abyssians and the
@@ -266,7 +265,6 @@ of Islam.
 
 ------------------------------------------------------------------------
 
-  
 1 Al- Aghani: 6/ 90-96.  
 2 about Ma. awyyiah Many traditions has been reported from the Prophet,
 may Allah bless him and his family. For example, . Am. mar, the

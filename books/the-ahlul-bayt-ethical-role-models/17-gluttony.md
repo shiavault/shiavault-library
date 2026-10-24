@@ -81,4 +81,3 @@ ul-Ayimma).
 [^6]: Quoted from Bihar ul-Anwar; 14/876 (as quoted from al- Barqi’s
 al-Mahasin).
 
-

@@ -117,4 +117,3 @@ exempt us from the trial on the Day of Judgment?
  5. What is the connection between the justice of the Creator and the
 Resurrection?
 
-

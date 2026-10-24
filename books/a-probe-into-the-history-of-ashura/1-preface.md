@@ -1339,4 +1339,3 @@ instead of Umar bin Sa'd.
 
 [^17]: Kamiluz Ziyārāt by Ibn Quluyah, p. 261.
 
-

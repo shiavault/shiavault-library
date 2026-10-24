@@ -56,7 +56,6 @@ nevertheless it will certainly take place. As such, all the true
 believers should expect its happening through the hands of the Mahdi of
 the family of Muhammad (PBUH&HF).
 
-
 **The signs before reappearance of al-Mahdi (AS)**
 
 There are many traditions narrated by all Islamic schools where the
@@ -92,5 +91,4 @@ of the Apostle of Allah (PBUH&HF)! The sun shall be eclipsed in the end
 of the month and the moon in the middle." The Imam replied, "I know what
 you say. But these are the signs that have never happened since Adam
 descended."[^3]
-
 

@@ -21,24 +21,16 @@ move about by journeying from land to land, casting your self (nafs)
 into the uncharted territories with a pure intention, humble heart, and
 steadfast body. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلآئِكَةُ ظَالِمِي أَنْفُسِهِمْ
-قَالُواْ فِيمَ كُنتُمْ قَالُواْ كُنَّا مُسْتَضْعَفِينَ فِي الأَرْضِ
-قَالْوَاْ أَلَمْ تَكُنْ أَرْضُ اللّهِ وَاسِعَةً فَتُهَاجِرُواْ فِيهَا
-فَأُوْلَـئِكَ مَأْوَاهُمْ جَهَنَّمُ وَسَاءتْ مَصِيرًا
-  </p>
-</blockquote>
-
-
+> إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلآئِكَةُ ظَالِمِي أَنْفُسِهِمْ
+> قَالُواْ فِيمَ كُنتُمْ قَالُواْ كُنَّا مُسْتَضْعَفِينَ فِي الأَرْضِ
+> قَالْوَاْ أَلَمْ تَكُنْ أَرْضُ اللّهِ وَاسِعَةً فَتُهَاجِرُواْ فِيهَا
+> فَأُوْلَـئِكَ مَأْوَاهُمْ جَهَنَّمُ وَسَاءتْ مَصِيرًا
 
 ***Surely, [as for] those whom the angels cause to die while they are
 unjust to their souls, they shall say, "In what state were you?" They
 shall say, "We were oppressed in the land." They shall say, "Was not
 Allah's earth spacious so that you could have migrated therein?"***
 (4:97)
-
 
 Take whatever belongs to the rightly acting bondsmen of Allah. Do not
 struggle with obscure matters, nor contend with contradictions. If
@@ -47,5 +39,4 @@ even if you are an expert in it. Uncover your secret only to one who is
 nobler in the faith than you, and thus you will find nobility. If you do
 this you will obtain well being, and you will remain with Almighty
 without any connection to anything else.
-
 

@@ -3,12 +3,8 @@
 
 Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ
 
 ***“O you who believe! answer (the call of) Allah and His Apostle when
 he calls you to that which gives you life.” (Qur’an, Surah Anfaal
@@ -29,12 +25,8 @@ This matter has also been mentioned under other topics in different
 verses of the Holy Qur’an. Among them is the statement of the Almighty
 Allah:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***“O you who believe! obey Allah and obey the Apostle and those in
 authority from among you…” (Qur’an, Surah Nisa 4:59)***
@@ -42,5 +34,4 @@ authority from among you…” (Qur’an, Surah Nisa 4:59)***
 Also relevant to this part are all the verses that order the performing
 of good deeds and those that command us to take the Holy Prophet (S) and
 his progeny as role models, to express love for them and to follow them.
-
 

@@ -30,4 +30,3 @@ Allah.
 
 [^2]: Divine opportunity
 
-

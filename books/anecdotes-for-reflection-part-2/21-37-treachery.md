@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ لاَ يُحِبُّ مَنْ کَانَ خَوَّاناً أَثِيْماً
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ لاَ يُحِبُّ مَنْ کَانَ خَوَّاناً أَثِيْماً
 
 “Surely Allah does not love him who is treacherous, sinful.”[^1]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ لَكَ أَنْ تَأْتَمِنَ الْخَائِنُ
-  </p>
-</blockquote>
+> لَيْسَ لَكَ أَنْ تَأْتَمِنَ الْخَائِنُ
 
 “It is not for you to trust a treacherous person.”[^2]
 
@@ -231,12 +223,8 @@ place it on the ground.
 My father then offered a two-rak’at prayer after which he went into
 prostration and supplicated:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَسْـئَـلُكَ بِمَعَاقِدِ الْعِزِّ... إِيْماَناً
-مَعَ إِيْماَنِهِمْ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَسْـئَـلُكَ بِمَعَاقِدِ الْعِزِّ... إِيْماَناً
+> مَعَ إِيْماَنِهِمْ
 
 then raising his head, he turned towards the sheepskin and said:
 
@@ -315,5 +303,4 @@ Page 210
 
 [^7]: Pand-e-Tarikh, Volume 1, Page 217; Biharul Anwar, Volume 11, Page
 136
-
 

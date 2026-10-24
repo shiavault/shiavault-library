@@ -40,4 +40,3 @@ upon himself the burden of a calumny and a manifest sin.’***[^1]*”*
 
 [^1]: The Qur’an 4:112.
 
-

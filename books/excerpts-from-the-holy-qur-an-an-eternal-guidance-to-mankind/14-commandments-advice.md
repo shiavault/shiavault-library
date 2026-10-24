@@ -6,13 +6,9 @@ Commandments of Allah (swt)
 
 **Surah An – Nahl, 16:90-91**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاء ذِي
-الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَالْبَغْيِ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاء ذِي
+> الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَالْبَغْيِ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ’In-nal-laaha ya’-muru bil‘adli wal-’ihsaani wa ’iitaaa-’i zil-qurbaa wa
 yanhaa ‘anil-fah-shaaa-’i wal-munkari wal bagh-yi; ya-‘izukum
@@ -23,13 +19,9 @@ towards (one’s) kindred; and He forbids all that is shameful and all
 that runs counter to reason, as well as envy; (and) He exhorts you
 (repeatedly) so that you might bear (all this) in mind.*
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُواْ بِعَهْدِ اللّهِ إِذَا عَاهَدتُّمْ وَلاَ تَنقُضُواْ
-الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللّهَ عَلَيْكُمْ
-كَفِيلاً إِنَّ اللّهَ يَعْلَمُ مَا تَفْعَلُونَ
-  </p>
-</blockquote>
+> وَأَوْفُواْ بِعَهْدِ اللّهِ إِذَا عَاهَدتُّمْ وَلاَ تَنقُضُواْ
+> الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللّهَ عَلَيْكُمْ
+> كَفِيلاً إِنَّ اللّهَ يَعْلَمُ مَا تَفْعَلُونَ
 
 Wa ’awfuu bi-‘Ahdil-laahi ’izaa ‘aahad-tum wa laa tanquzul-’aymaana
 ba‘-da tawkiidihaa wa qad ja-‘al-tumul-laaha ‘alaykum kafiilaa:
@@ -45,12 +37,8 @@ Advised to seek refuge with God, from Satan
 
 **Surah Fussilat, 41:36**
 
-<blockquote dir="rtl">
-  <p>
-وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ
-إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ
+> إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 Wa ’im-maa yanza-ghan-naka minash-Shaytaani nazghunfasta-‘iz bil-laah.
 ’In-naahuu Huwas-Samii-‘ul-‘Aliim.
@@ -69,13 +57,9 @@ Advice of Prophet Luqman(a) to his son
 
 **Surah Luqman, 31 :17-19**
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
-الْمُنكَرِ وَاصْبِرْ عَلَى مَا أَصَابَكَ إِنَّ ذَلِكَ مِنْ عَزْمِ
-الْأُمُورِ
-  </p>
-</blockquote>
+> يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
+> الْمُنكَرِ وَاصْبِرْ عَلَى مَا أَصَابَكَ إِنَّ ذَلِكَ مِنْ عَزْمِ
+> الْأُمُورِ
 
 Yaa-bunay-ya ’aqimis-Salaata wa’-mur-bil-ma‘-ruufi wanha ‘anil-munkari
 wasbir ‘alaa maaa ’asaabak: ’in-na zaalika min ‘azmil-’umuur.
@@ -85,12 +69,8 @@ is right and forbid the doing of what is wrong, and bear in patience
 whatever (ill) may befall thee: this, behold, is something to set one’s
 heart upon!”*
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا
-إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا
+> إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 Wa laa tusa’-‘ir khad-daka lin-naasi wa laa tamshi fil-’arzi marahaa
 ’in-nal-laaha laa yuhib-bu kul-la mukh-taalin-fakhuur.
@@ -99,12 +79,8 @@ Wa laa tusa’-‘ir khad-daka lin-naasi wa laa tamshi fil-’arzi marahaa
 not haughtily on earth: for, behold, God does not love anyone who, out
 of self-conceit, acts in a boastful manner.”*
 
-<blockquote dir="rtl">
-  <p>
-وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
-الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
-  </p>
-</blockquote>
+> وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
+> الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
 
 Waqsid fii mash-ika waghzuz min-sautik: ’in-na ’an-karal-’aswaa-ti
 la-sau-tul-hamiir.
@@ -128,14 +104,10 @@ To die as Muslims
 
 **Surah Yusuf, 12 :101**
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ
-الأَحَادِيثِ فَاطِرَ السَّمَاوَاتِ وَالأَرْضِ أَنتَ وَلِيِّي فِي
-الدُّنُيَا وَالآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي
-بِالصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ
+> الأَحَادِيثِ فَاطِرَ السَّمَاوَاتِ وَالأَرْضِ أَنتَ وَلِيِّي فِي
+> الدُّنُيَا وَالآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي
+> بِالصَّالِحِينَ
 
 Rab-bi qad ’aatay-tanii minal-mulki wa ‘al-lam-tanii
 min-ta’-wiilil-’ahaadiith, - Faatiras-samaa-waati wal-’arz! ’Anta
@@ -154,13 +126,9 @@ Men to adopt chastity
 
 **Surah An – Nur, 24:30**
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-يَصْنَعُونَ
-  </p>
-</blockquote>
+> قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> يَصْنَعُونَ
 
 Qul-lil-Mu’-miina yaghuz-zuu min ’absaarihim wa yahfazuu furuujahum:
 zaalika ’azkaa lahum: ’In-nal-laaha khabiirum-bimaa yasna-‘uun.
@@ -174,21 +142,17 @@ Women to adopt chastity and veil (Hijab) before a non-Mahram
 
 **Surah An – Nur, 24:31**
 
-<blockquote dir="rtl">
-  <p>
-وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ
-فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا
-وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ وَلَا يُبْدِينَ
-زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاء
-بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاء بُعُولَتِهِنَّ أَوْ
-إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ
-أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ
-غَيْرِ أُوْلِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ
-لَمْ يَظْهَرُوا عَلَى عَوْرَاتِ النِّسَاء وَلَا يَضْرِبْنَ
-بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوا
-إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ
+> فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا
+> وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ وَلَا يُبْدِينَ
+> زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاء
+> بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاء بُعُولَتِهِنَّ أَوْ
+> إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ
+> أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ
+> غَيْرِ أُوْلِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ
+> لَمْ يَظْهَرُوا عَلَى عَوْرَاتِ النِّسَاء وَلَا يَضْرِبْنَ
+> بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوا
+> إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
 
 Wa qul-lil-Mu’minaati yaghzuzna min ’absaarihin-na wa yahfazna
 furuujahun-na wa laa yubdiina ziinatahun-na ’il-laa maa zahara minhaa
@@ -251,14 +215,10 @@ Hijab
 
 **Surah Al – Ahzab, 33:59**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
-أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُورًا
-رَّحِيمًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
+> أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُورًا
+> رَّحِيمًا
 
 Yaaa ’ay-yuhan-Nabiy-yu qul-li’azwaajika wa banaatika wa
 nisaaa-’il-Mu’-miniina yudniina ‘alayhin-na min jalaabii-bihin-na;
@@ -287,24 +247,16 @@ Trust
 
 **Surah Al – Ahzab, 33:70-72**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا
-سَدِيدًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا
+> سَدِيدًا
 
 Yaaa ’ay-yuhal-laziina ’aamanut-taqul-laaha wa quuluu qawlan-sadiidaa:
 
 *70. O you who have attained to faith! Remain conscious of God, and
 (always) speak with a will to bring out (only) what is just and true -*
 
-<blockquote dir="rtl">
-  <p>
-يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن
-يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
-  </p>
-</blockquote>
+> يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن
+> يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
 
 Yuslih lakum ’a‘-maalakum wa yagh-fir lakum zunuubakum: wa
 may-yuti-‘il-laaha wa Rasuulahuu faqad faaza fawzan ‘aziimaa.
@@ -313,13 +265,9 @@ may-yuti-‘il-laaha wa Rasuulahuu faqad faaza fawzan ‘aziimaa.
 forgive you your sins. And (know that) whoever pays heed unto God and
 His Apostle has already attained to a mighty triumph.*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
-وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
-وَحَمَلَهَا الْإِنسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
-  </p>
-</blockquote>
+> إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
+> وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
+> وَحَمَلَهَا الْإِنسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
 
 ’In-naa ‘araznal-’Amaanata ‘alas-Samaa-waati wal-’Arzi wal - Jibaali
 fa-’abayna ’ay-yahmil-nahaa wa ’ash-faqna minhaa wa hamalahal-’Insaan:
@@ -417,12 +365,8 @@ Fasting
 
 **Surah Baqarah, 2:183**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
-كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
+> كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 Yaaa -’ayyu - hallaziina aamanuu kutiba ‘alay-kumus-Siyaamu kamaa kutiba
 ‘alal-laziina min-qablikum la-’allakum tatta-quun.
@@ -457,14 +401,10 @@ Jihad
 
 **Surah At – Tawbah, 9:38-39 and 41**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ مَا لَكُمْ إِذَا قِيلَ لَكُمُ
-انفِرُواْ فِي سَبِيلِ اللّهِ اثَّاقَلْتُمْ إِلَى الأَرْضِ أَرَضِيتُم
-بِالْحَيَاةِ الدُّنْيَا مِنَ الآخِرَةِ فَمَا مَتَاعُ الْحَيَاةِ
-الدُّنْيَا فِي الآخِرَةِ إِلاَّ قَلِيلٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ مَا لَكُمْ إِذَا قِيلَ لَكُمُ
+> انفِرُواْ فِي سَبِيلِ اللّهِ اثَّاقَلْتُمْ إِلَى الأَرْضِ أَرَضِيتُم
+> بِالْحَيَاةِ الدُّنْيَا مِنَ الآخِرَةِ فَمَا مَتَاعُ الْحَيَاةِ
+> الدُّنْيَا فِي الآخِرَةِ إِلاَّ قَلِيلٌ
 
 Yaaa-’ay-yu-hal-laziina ’aamanuu maalakum ’izaa qiila lakumun-firuu fii
 Sabii-lil-laahith-thaaqal-tum ’ilal-’arz? ’A-raziitum
@@ -477,13 +417,9 @@ Are you contended with this worldly life in preference to (the good of)
 the life to come? But the enjoyment of life in this world is but a
 paltry thing when compared with the life to come!*
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ تَنفِرُواْ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ
-قَوْمًا غَيْرَكُمْ وَلاَ تَضُرُّوهُ شَيْئًا وَاللّهُ عَلَى كُلِّ
-شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> إِلاَّ تَنفِرُواْ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ
+> قَوْمًا غَيْرَكُمْ وَلاَ تَضُرُّوهُ شَيْئًا وَاللّهُ عَلَى كُلِّ
+> شَيْءٍ قَدِيرٌ
 
 ’Il-laa tanfiruu yu-‘az-zibkum ‘azaaban ’aliimanw-wa yas-tabdil qaw-man
 ghayra-kum wa laa tazur-ruuhu shay-aa. wal-laahu ‘alaa kul-li
@@ -494,13 +430,9 @@ you with grievous chastisement, and will place another people in your
 stead - whereas you shall in no wise harm Him: for, God has the power to
 will anything.*
 
-<blockquote dir="rtl">
-  <p>
-انْفِرُواْ خِفَافًا وَثِقَالاً وَجَاهِدُواْ بِأَمْوَالِكُمْ
-وَأَنفُسِكُمْ فِي سَبِيلِ اللّهِ ذَلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ
-تَعْلَمُونَ
-  </p>
-</blockquote>
+> انْفِرُواْ خِفَافًا وَثِقَالاً وَجَاهِدُواْ بِأَمْوَالِكُمْ
+> وَأَنفُسِكُمْ فِي سَبِيلِ اللّهِ ذَلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ
+> تَعْلَمُونَ
 
 ’Infiruu khifaafanw - wa thiqaalanw - wa jaa-hiduu bi’amwaa-likum wa
 ’anfusikum fii Sabii-lil-laah. Zaalikum khayrul-lakum ’in - kuntum ta
@@ -515,11 +447,7 @@ Man must not postpone the doing of good deed and worship of his Creator
 
 **Surah Ya Sin, 36:68**
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ
 
 Wa man-nu-‘am-mirhu nunak-kis-hu fil-khalq: ’afalaa ya‘-qiluun?
 
@@ -539,12 +467,8 @@ Essential to defend against oppression but not to the extent of being an Oppress
 
 **Surah Ash – Shura, 42:40-43**
 
-<blockquote dir="rtl">
-  <p>
-وَجَزَاء سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ
-فَأَجْرُهُ عَلَى اللَّهِ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَجَزَاء سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ
+> فَأَجْرُهُ عَلَى اللَّهِ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ
 
 Wa jazaaa-’u say-yi-‘atin-say-yi-’atum-mithluhaa faman ‘afaa wa ’aslaha
 fa-’ajruhuu ‘alal-laah: ’in-nahuu laa yuhib-buz-zaalimiin.
@@ -553,12 +477,8 @@ fa-’ajruhuu ‘alal-laah: ’in-nahuu laa yuhib-buz-zaalimiin.
 an evil: Hence whoever pardons (his foe) and makes peace, his reward
 rests with God - for, verily, He does not love evildoers.*
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُوْلَئِكَ مَا عَلَيْهِم مِّن
-سَبِيلٍ
-  </p>
-</blockquote>
+> وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُوْلَئِكَ مَا عَلَيْهِم مِّن
+> سَبِيلٍ
 
 Wa lamanin-tasara ba‘-da zulmihii fa-’ulaaa-’ika maa
 ‘alayhim-min-sabiil.
@@ -566,12 +486,8 @@ Wa lamanin-tasara ba‘-da zulmihii fa-’ulaaa-’ika maa
 *41. yet, indeed, as for any who defend themselves after having been
 wronged - no blame whatever attaches to them:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ النَّاسَ وَيَبْغُونَ
-فِي الْأَرْضِ بِغَيْرِ الْحَقِّ أُوْلَئِكَ لَهُم عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ النَّاسَ وَيَبْغُونَ
+> فِي الْأَرْضِ بِغَيْرِ الْحَقِّ أُوْلَئِكَ لَهُم عَذَابٌ أَلِيمٌ
 
 ’In-namas-sabiilu ‘alal-laziina yaz-limuu-nan-naasa wa yabghuuna
 fil-’arzi bighayril-haqq. ’Ulaaa-’ika lahum ‘Azaabun ’aliim.
@@ -580,11 +496,7 @@ fil-’arzi bighayril-haqq. ’Ulaaa-’ika lahum ‘Azaabun ’aliim.
 outrageously on earth, offending against all right: for them there is
 grievous suffering in store!*
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
-  </p>
-</blockquote>
+> وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
 
 Wa laman-sabara wa ghafara ’in-na zaalika lamin ‘azmil ’umuur.
 
@@ -596,15 +508,11 @@ Spoils of ‘Fie’ i.e. Property - Wealth etc. obtained without a fight
 
 **Surah Al – Hashr, 59:7-8**
 
-<blockquote dir="rtl">
-  <p>
-مَّا أَفَاء اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
-السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاء مِنكُمْ وَمَا
-آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
-وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> مَّا أَفَاء اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
+> السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاء مِنكُمْ وَمَا
+> آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
+> وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 Maaa ’afaaa-’al-laahu ‘alaa Rasuulihii min ’ah-lil-Quraa falil-laahi wa
 lir-rasuuli wa lizil-qurbaa wal-yataamaa wal-masaa-kiini wab-nis-sabiil
@@ -621,13 +529,9 @@ Apostle gives you (thereof), and refrain from (demanding) anything that
 he withholds from you; and remain conscious of God: for, verily, God is
 severe in retribution.*
 
-<blockquote dir="rtl">
-  <p>
-لِلْفُقَرَاء الْمُهَاجِرِينَ الَّذِينَ أُخْرِجُوا مِن دِيارِهِمْ
-وَأَمْوَالِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا
-وَيَنصُرُونَ اللَّهَ وَرَسُولَهُ أُوْلَئِكَ هُمُ الصَّادِقُونَ
-  </p>
-</blockquote>
+> لِلْفُقَرَاء الْمُهَاجِرِينَ الَّذِينَ أُخْرِجُوا مِن دِيارِهِمْ
+> وَأَمْوَالِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا
+> وَيَنصُرُونَ اللَّهَ وَرَسُولَهُ أُوْلَئِكَ هُمُ الصَّادِقُونَ
 
 Lil-fuqaraaa-il-Muhaajirii-nal-laziina ’ukhrijuu min-diyaarihim wa
 ’amwaali-him yabtaghuuna Fazlam-minal-laahi wa Rizwaa-nanw-wa
@@ -670,5 +574,4 @@ Mohajirs. Thus *‘Fadak’* was handed over to his daughter during his
 lifetime. However, history is proof of what happened after the demise of
 the Holy Prophet (S), where it was claimed that this was a part of the
 *‘Baitul-Mal’* or public treasury.
-
 

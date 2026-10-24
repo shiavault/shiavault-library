@@ -46,4 +46,3 @@ behalf of equality and the abolition of gender based differences in
 social role, that demands a revolution in social customs, and that
 rejects the explicit commands of God.
 
-

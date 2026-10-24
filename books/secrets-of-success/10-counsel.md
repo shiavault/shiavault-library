@@ -87,4 +87,3 @@ not have any shelter if you also go to war with the army. But if you
 remain in the Islamic capital, you will be able to send help if needed.
 Thus the people will have a refuge.”
 
-

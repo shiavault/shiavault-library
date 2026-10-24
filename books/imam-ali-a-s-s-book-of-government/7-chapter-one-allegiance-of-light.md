@@ -1739,4 +1739,3 @@ Al-Tabaqat al-Kubra: 2/190.
 [^141]: Al-Mustadrak ‘Ala al-Sahihin: 4/56/6867, Al-Sunan al-Kubra:
 6/502/12772.
 
-

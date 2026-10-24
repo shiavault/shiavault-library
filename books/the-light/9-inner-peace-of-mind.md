@@ -83,4 +83,3 @@ Extracted from 'The Road to Mecca' by a Hungarian Author.
 The Messenger of Allah (s) said: "Verily I have been sent to accomplish
 noble traits of character."
 
-

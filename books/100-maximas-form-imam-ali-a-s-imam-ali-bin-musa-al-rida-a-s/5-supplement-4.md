@@ -71,4 +71,3 @@ they are energetic and on subjects which they like.
 100. The destitute is the messenger of Allah. whoever denies him denies
 Allah and whoever gives him gives Allah.
 
-

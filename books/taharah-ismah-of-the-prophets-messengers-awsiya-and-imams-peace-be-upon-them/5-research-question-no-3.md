@@ -79,9 +79,7 @@ may lie in order to bring two angry and conflicting believers together,
 and this lie is justified and encouraged, as Allah (SWT) says in the
 Qur’an,
 
-<p dir="rtl">
 وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ
-</p>
 
 **"Wa aslehoo dhata baynekom."**
 
@@ -100,9 +98,7 @@ Allah (SWT) and the Holy Prophet (SA) have excused ‘Ammar ibn Yasser
 
 So, Allah (SWT) revealed the following verse,
 
-<p dir="rtl">
 إِلاَّ مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
-</p>
 
 **"Ilaa wa qalboho motma-enon bil imaan."**
 
@@ -129,9 +125,7 @@ cup of the king, and this, in the eyes of any person, is considered to
 be a sin. However, Allah (SWT) ordered him to do so and He (SWT) said in
 the Qur’an,
 
-<p dir="rtl">
 كَذَٰلِكَ كِدْنَا لِيُوسُفَ
-</p>
 
 **"Kadhaleka kedna li Yusuf"**
 
@@ -198,9 +192,7 @@ orders of Allah (SWT) whether or not the people like it, and whether or
 not it coincides with their logic, habits, and opinions. As the verse in
 the Qur’an says,
 
-<p dir="rtl">
 وَمَا فَعَلْتُهُ عَنْ أَمْرِي
-</p>
 
 **"Wa ma fa'altoho 'an amry..."**
 
@@ -222,9 +214,7 @@ leads to the decrease of the number of his army or their defeat, because
 that is what matters most and that is the reason for the creation and
 its presence. As Allah (SWT) says in the Qur’an,
 
-<p dir="rtl">
 وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
-</p>
 
 **"Wa ma khalaqto al ens wal jenn illa liya'bodoon"**
 
@@ -248,5 +238,4 @@ After all, did the angels become angels except by their absolute
 obedience to Allah (SWT)? And did the creations and kingdoms get
 created, except by the order of Allah (SWT)? And could any good come or
 rise, except by obeying the orders of Allah (SWT)?
-
 

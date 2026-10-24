@@ -740,4 +740,3 @@ wound, say that it is a wound of the battle of Siffin.”
 
 [^27]: Biharul Anwar, Vol. 13, Chapter 27.
 
-

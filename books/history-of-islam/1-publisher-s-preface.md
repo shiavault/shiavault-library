@@ -66,8 +66,6 @@ Badr Shahin for editing the translation. We should also like to thank
 colleagues who took part in accomplishing this task especially the staff
 of the Translation Office for fulfilling their responsibility.
 
-
 Cultural Affairs Department
 The Ahl al-Bayt (a.s) World Assembly
-
 

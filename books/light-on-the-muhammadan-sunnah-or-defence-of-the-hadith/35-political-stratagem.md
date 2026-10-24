@@ -1,10 +1,6 @@
 Political Stratagem
 ===================
 
-  
-  
-  
-
 To complete our discussion in demonstrating the extent of Jewish
 stratagem against Islam and Muslims — though it being a protraction that
 may divert me from my intended purpose — I disclose another aspect of
@@ -16,8 +12,7 @@ examples of their political stratagem.
 
 ### Abd Allah ibn Saba:
 
-Rafiq al-Adum about the most renowned men of Islam said: <span
-id="_anchor_328"></span>328
+Rafiq al-Adum about the most renowned men of Islam said: 328
 
 “The seeds of sedition have been planted all over the Islamic Kingdom
 and its grand capitals, like Egypt, Basrah, and Kufah, through a secret
@@ -47,9 +42,9 @@ executor (wasi) and Ali is the wasi of Muhammad, and the Raj\`ah after
 Muhammad shall be for Ali — which is one of the beliefs held by the
 Shi\`ah — and that \`Uthman seized the right of Ali.
 
-In his book Fajr al-Islam, <span id="_anchor_329"></span>329  Dr. Ahmad
+In his book Fajr al-Islam, 329  Dr. Ahmad
 Amin says: It was him (Abd Allah ibn Saba’) who enticed Abu Dharr
-al-Ghifari to propagate for socialism, <span id="_anchor_330"></span>330
+al-Ghifari to propagate for socialism, 330
  and instigated the towns against Uthman, making of \`Ali as a deity.
 From his biography it is learnt that it was him who laid down teachings
 for demolishing Islam, founding an underground society for spreading his
@@ -101,8 +96,7 @@ doubtful, before, regarding the existence of this Abd Allah ibn Saba'.
 
 Following is some excerption of what he stated in his precious book
 al-Fitnah al-kubra, the 2nd volume, under the chapter "Ali wa banuh"
-(Ali and his sons), when discussing the Battle of Siffin. <span
-id="_anchor_331"></span>331
+(Ali and his sons), when discussing the Battle of Siffin. 331
 
 The least thing indicated by the historians' shunning the Saba'ites and
 Ibn al-Sawda' in the Battle of Siffin, being that their affair was only

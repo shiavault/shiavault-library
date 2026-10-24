@@ -168,4 +168,3 @@ Seerat Ibn Hisham Part 3, Pg. 3-4; Tarikh Tabari, Pg. 1651-1653.
 
 [^2]: Abul Fida
 
-

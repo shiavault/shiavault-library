@@ -27,4 +27,3 @@ prayer of *ijarah*.
  11. Prayer after *wajib* *Tawaf* of Ka’ba; and  
  12. Prayer of *Ayaat* (for earthquake, eclipse etc.)
 
-

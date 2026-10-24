@@ -499,4 +499,3 @@ that makes possible the science of yoga and "magical imagination" as a
 special revelation from God to the yoginis, for "whatever is in the
 earth and heaven is in the grasp of the children of Adam."
 
-

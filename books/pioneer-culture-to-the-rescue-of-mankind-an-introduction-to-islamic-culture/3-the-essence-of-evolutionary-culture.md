@@ -45,11 +45,7 @@ highly virtual meaning of culture, degrading it to a level which ranks
 humans with lowly animals, like gathering many huge snakes intrigued to
 bite; as ancient Persian culture states:
 
-<blockquote dir="rtl">
-  <p>
-نيش عقرب نه از بهركين است اقتضاى طبيعتش اين است
-  </p>
-</blockquote>
+> نيش عقرب نه از بهركين است اقتضاى طبيعتش اين است
 
 *“Scorpions do not sting out of revenge or hate; their nature causes
 them to do so”*
@@ -317,28 +313,16 @@ it has been confined inside their pure souls
 elevate human relationships from a *hide-* and-seek charade to an ocean
 of pure souls where waves constantly meet?
 
-<blockquote dir="rtl">
-  <p>
-روح انسانى كنفس واحده است روح حيوانى سفال جامده است
-  </p>
-</blockquote>
+> روح انسانى كنفس واحده است روح حيوانى سفال جامده است
 
 *Human spirit is* *a unified soul, whereas in animals it is but a rigid
 lump of clay*
 
-<blockquote dir="rtl">
-  <p>
-در عدد أورده باشد بادشان بر مثال موج ها اعدادشان
-  </p>
-</blockquote>
+> در عدد أورده باشد بادشان بر مثال موج ها اعدادشان
 
 *Their number is as great as the wind, and flow strongly as waves*
 
-<blockquote dir="rtl">
-  <p>
-جون كه حق رش عليهم نوره مفترق هركز نكردد نور أو
-  </p>
-</blockquote>
+> جون كه حق رش عليهم نوره مفترق هركز نكردد نور أو
 
 *His light will never suffer division for God supports it.*
 
@@ -461,20 +445,12 @@ that it seems to claim, “I have granted you the most desirable culture
 you could imagine!" Poor simpletons who never cease to be deceived time
 and again by jargon like cultural or civilizational transfer.
 
-<blockquote dir="rtl">
-  <p>
-راو هموار است و زيرش دام ها قحطى معنى ميان نام ها
-  </p>
-</blockquote>
+> راو هموار است و زيرش دام ها قحطى معنى ميان نام ها
 
 *The road is smooth, but riddled with hidden traps; an abyss of meanings
 in an ocean of names.*
 
-<blockquote dir="rtl">
-  <p>
-لفظ ها ونام ها جون دام هاست لفظ شيرين ريك أب عمر ماست
-  </p>
-</blockquote>
+> لفظ ها ونام ها جون دام هاست لفظ شيرين ريك أب عمر ماست
 
 *Words and names are like traps, as pebbles beneath water (our life)
 passing us by.*
@@ -680,47 +656,27 @@ denounced such Internal captivities.
 **4**. Dynamic, objective and pioneer culture: The following verses
 depict the pure source this kind of culture originates form:
 
-<blockquote dir="rtl">
-  <p>
-قرن بكنشت اين قرن نويست ماه أن ماه است وأب أن أب نيست
-  </p>
-</blockquote>
+> قرن بكنشت اين قرن نويست ماه أن ماه است وأب أن أب نيست
 
 *Centuries passed; and a new one began; the moon is the same, but the
 water flowing by is not.*
 
-<blockquote dir="rtl">
-  <p>
-عدل أن عدل است وفضل أن فضل هم ليك مستبدل شد اين قرن وامم
-  </p>
-</blockquote>
+> عدل أن عدل است وفضل أن فضل هم ليك مستبدل شد اين قرن وامم
 
 *Justice and greatness have not changed, only the centuries and the
 rulers have.*
 
-<blockquote dir="rtl">
-  <p>
-قرن ها بر قرن ها رفت اى همام وين معاني بر قرار و بر دوام
-  </p>
-</blockquote>
+> قرن ها بر قرن ها رفت اى همام وين معاني بر قرار و بر دوام
 
 *Many centuries have one by,* O *valued one! Yet, these concepts have
 remained firm and strong.*
 
-<blockquote dir="rtl">
-  <p>
-شد مبدل أب اين جو جند بار عكس ماه وعكس اختر بر قرار
-  </p>
-</blockquote>
+> شد مبدل أب اين جو جند بار عكس ماه وعكس اختر بر قرار
 
 *Though the water in the stream has changed repeatedly, “the moon and
 the stars seen in it are still the same”* (Mowlavi)
 
-<blockquote dir="rtl">
-  <p>
-بس بنايش نيست بر أب روان بلكه بر اقطار اوج أسمان
-  </p>
-</blockquote>
+> بس بنايش نيست بر أب روان بلكه بر اقطار اوج أسمان
 
 *Thus, the moon and the stars are based not in flowing waters, but in
 the highest of heavens*[^10]*.*
@@ -1008,20 +964,12 @@ higher than one aiming at it.” Thus, no school of thought can present
 phenomenon or activities as the highest goal to make an original
 culture -or as Mowlana Jalaluddin calls them, the “shadows of life”:
 
-<blockquote dir="rtl">
-  <p>
-لطف شير وانكبين عكس دل است هرخوشى را أن خوش ازدل حاصل است
-  </p>
-</blockquote>
+> لطف شير وانكبين عكس دل است هرخوشى را أن خوش ازدل حاصل است
 
 *“The pleasure of eating honey and milk arises from the soul, all
 pleasures arise from the identity of human soul.*
 
-<blockquote dir="rtl">
-  <p>
-بس بود دل جوهر و عالم عرض سايه ى دل كى بود دل را عرض
-  </p>
-</blockquote>
+> بس بود دل جوهر و عالم عرض سايه ى دل كى بود دل را عرض
 
 *Thus, the heart is the true essence, and the world but an effect, How
 can the shadow of one's soul become its cause?*
@@ -1079,11 +1027,7 @@ By “ideological factors” we do not mean a heap of illogical,
 unverifiable beliefs, but man's spiritual awareness moving on the path
 of evolution towards divine attraction. As Iqbal Lahouri says:
 
-<blockquote dir="rtl">
-  <p>
-جيست دير برخواستن از روى خاك تا كه اكه كردد ازخود جان باك
-  </p>
-</blockquote>
+> جيست دير برخواستن از روى خاك تا كه اكه كردد ازخود جان باك
 
 *What is religion? Rising from the earth, to achieve self- awareness of
 the soul*
@@ -1389,11 +1333,7 @@ psychological abnormalities!”
 Although these passionate lovers of fame admit that leaving pleasures
 causes mental activities to weaken:
 
-<blockquote dir="rtl">
-  <p>
-جز ذكر نى دين او ، نى ذكر او سوى اسفل برد او را فكر او
-  </p>
-</blockquote>
+> جز ذكر نى دين او ، نى ذكر او سوى اسفل برد او را فكر او
 
 *Sexual pleasure his entire world, his filthy thoughts would take him to
 the bottom of hell. (Mowlavi)*
@@ -1803,29 +1743,13 @@ It is needless to mention how strongly Islamic culture and other divine
 religions have repeatedly warned man about the role of lust and
 undisciplined life in weakening thoughts.
 
-<blockquote dir="rtl">
-  <p>
-مرد را ذوق از حيا وكر وفر مر مخنث را بود ذوق از ذكر
-  </p>
-</blockquote>
+> مرد را ذوق از حيا وكر وفر مر مخنث را بود ذوق از ذكر
 
-<blockquote dir="rtl">
-  <p>
-جز ذكر ني دين او ني ذكر أو سوي أسفل برد او را فكر او
-  </p>
-</blockquote>
+> جز ذكر ني دين او ني ذكر أو سوي أسفل برد او را فكر او
 
-<blockquote dir="rtl">
-  <p>
-كه بر أيد تا فلك از وي مترس كاو به شوق سفل أموزيد درس
-  </p>
-</blockquote>
+> كه بر أيد تا فلك از وي مترس كاو به شوق سفل أموزيد درس
 
-<blockquote dir="rtl">
-  <p>
-او به سوى سفل مى رائد فرس كر جه سوى علو جنباند جرس
-  </p>
-</blockquote>
+> او به سوى سفل مى رائد فرس كر جه سوى علو جنباند جرس
 
 “*Manhood lies in effort and endeavour, not indulging in sexual
 pleasures. No matter how sophisticated he may get, his indulge will
@@ -1837,11 +1761,7 @@ destroyed by shamelessness.
 
 Imam Ali (a) has said:
 
-<blockquote dir="rtl">
-  <p>
-لا ايمان لمن لا حياء له
-  </p>
-</blockquote>
+> لا ايمان لمن لا حياء له
 
 *"One, who has no modesty, has no faith.”*
 
@@ -1886,11 +1806,7 @@ which were advantageous to man's physical and spiritual life as culture.
 quite vital, does not mean imitation without studying, examining and
 refining.
 
-<blockquote dir="rtl">
-  <p>
-خلق را تقليدشان بر باد داد اى دو صد لعنت براين تقليد باد
-  </p>
-</blockquote>
+> خلق را تقليدشان بر باد داد اى دو صد لعنت براين تقليد باد
 
 *Imitation ruined people, a thousand damns be upon imitation!* (Mowlavi)
 
@@ -1900,38 +1816,22 @@ is doing. The only difference is, if a meritorious reality is being
 imitated, it will lead to good effects, despite without the role of the
 imitator. Literary culture quite clearly elaborates on this:
 
-<blockquote dir="rtl">
-  <p>
-خدا خوان تا خدادان فرق دارد كه حيوان تابه انسان فرق دارد
-  </p>
-</blockquote>
+> خدا خوان تا خدادان فرق دارد كه حيوان تابه انسان فرق دارد
 
 *“One who calls God is much different from one who knows God; as
 different as men are from animals.*
 
-<blockquote dir="rtl">
-  <p>
-بدين سان از خدادان تا خداياب ز دانش تا به عرفان فرق دارد
-  </p>
-</blockquote>
+> بدين سان از خدادان تا خداياب ز دانش تا به عرفان فرق دارد
 
 *Thus, the God-knowers to God-seekers are like mystic knowledge to
 science.*
 
-<blockquote dir="rtl">
-  <p>
-مه تابان خور تابان يكى نيست كه تابان تا به تابان فرق دارد
-  </p>
-</blockquote>
+> مه تابان خور تابان يكى نيست كه تابان تا به تابان فرق دارد
 
 *The shining sun is not the same as the shining moon; each shining
 differs from the other.*
 
-<blockquote dir="rtl">
-  <p>
-محقق را مقلد كى توان كفت كه دانا تا به نادان فرق دارد
-  </p>
-</blockquote>
+> محقق را مقلد كى توان كفت كه دانا تا به نادان فرق دارد
 
 *How can a researcher be considered equal to a copycat?*
 
@@ -1979,11 +1879,7 @@ retribution*[^32]*.*
 
 The Holy Prophet (s) has also said:
 
-<blockquote dir="rtl">
-  <p>
-الخلق كلهم عيال الله واحبهم اليه انفعهم لهم
-  </p>
-</blockquote>
+> الخلق كلهم عيال الله واحبهم اليه انفعهم لهم
 
 *“All people are related to God; those who are more useful for others,
 are the most favoured by God”*
@@ -2011,11 +1907,7 @@ a load of nonsense called ‘culture’, which would eventually ruin them.
 
 As the renowned Iranian poet Nezami Ganjavi writes:
 
-<blockquote dir="rtl">
-  <p>
-بكفت أن جا به صنعت درجة كوشند بكفت انده خرند وجان فروشند
-  </p>
-</blockquote>
+> بكفت أن جا به صنعت درجة كوشند بكفت انده خرند وجان فروشند
 
 *“What are they endeavouring for” one asked He was told, “They buy
 sorrow at the expense their lives.*
@@ -2062,38 +1954,22 @@ souls ignorantly enjoying themselves, but they are even publicly
 announced guilty of murder, and ,till the dead souls around them do not
 touch them.”
 
-<blockquote dir="rtl">
-  <p>
-العدل في الارض يبكى الجن لو سمعوا به ويستضحك الاموات لو نظروا
-  </p>
-</blockquote>
+> العدل في الارض يبكى الجن لو سمعوا به ويستضحك الاموات لو نظروا
 
 *"The justice that is* *now on earth brings demons to tears, and makes
 the dead laugh all its sight.”*
 
-<blockquote dir="rtl">
-  <p>
-والسجن والموت للجانين ان صخروا والمجد والفخر والاثراء ان كبروا
-  </p>
-</blockquote>
+> والسجن والموت للجانين ان صخروا والمجد والفخر والاثراء ان كبروا
 
 *"Prisons and death is for the smaller, weaker criminals; the strong
 criminal, enjoy glory and honour.”*
 
-<blockquote dir="rtl">
-  <p>
-فسارق الزهر مذموم ومحتقر وسارق الحقل يدعى الباسل الخطر
-  </p>
-</blockquote>
+> فسارق الزهر مذموم ومحتقر وسارق الحقل يدعى الباسل الخطر
 
 *"If one steals a flower, he is condemned and humiliated; if one steals
 the whole field, he is considered a significant hero.”*
 
-<blockquote dir="rtl">
-  <p>
-وقاتل الجسم مقتول بفعله وقاتل الروح لا تدري به البشر
-  </p>
-</blockquote>
+> وقاتل الجسم مقتول بفعله وقاتل الروح لا تدري به البشر
 
 *"Murderers of bodies are punished, but killers of human spirits walk
 about freely.”*[^33]
@@ -2180,11 +2056,7 @@ divine-human principle provides all peoples and nations with useful
 cultural elements, as is verified in this *hadith* by the Holy Prophet
 (s)
 
-<blockquote dir="rtl">
-  <p>
-اطلبوا العلم ولو بالصين
-  </p>
-</blockquote>
+> اطلبوا العلم ولو بالصين
 
 *"Seek knowledge even if it may mean going all the way to China.”*
 
@@ -2353,11 +2225,7 @@ to interpret it by.
 Thus, both positive and negative poles of "self"-enhancement lead to an
 immortal panacea; as Mowlavi states:
 
-<blockquote dir="rtl">
-  <p>
-كيمياى زهر ماراست أن شقى بر خلاف كيمياى متقي
-  </p>
-</blockquote>
+> كيمياى زهر ماراست أن شقى بر خلاف كيمياى متقي
 
 *These tyrants are truly venomous, painful vipers contrary, however, to
 men of piety.*
@@ -2668,5 +2536,4 @@ fundamental questions (Who am I? Where have I come from? Who am I with?
 Where am I? Why have I come here? Where will I go from
 here?) -contributing to the harmony of the whole universe, dependant
 upon divine greatness.
-
 

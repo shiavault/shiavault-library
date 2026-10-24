@@ -1,17 +1,9 @@
 Letter 65: To Mu`awiyah
 =======================
 
-<blockquote dir="rtl">
-  <p>
-ومن كتاب له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كتاب له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-إليه أيضاً
-  </p>
-</blockquote>
+> إليه أيضاً
 
 Now, this is the time [^1] that you should derive benefit by observing a
 clear view of the main matters, because you have been treading in the
@@ -26,20 +18,16 @@ there is nothing except confusion. You should therefore guard (yourself)
 against doubts and its ill-effects of confusion, because for a long time
 mischief has spread its veils and its gloom has blinded your eyes.
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا بَعْدُ، فَقَدْ آنَ لَكَ أَنْ تَنْتَفِعَ بِالَّلمْحِ الْبَاصِرِ
-مِنْ عِيَانِ الاْمُورِ، فَقَدْ سَلَكْتَ مَدَارِجَ أَسْلاَفِكَ
-بِادِّعَائِكَ الاْباطِيلَ، وَإقْحَامِكَ غُرُورَ الْمَيْنِ
-وَالاْكَاذِيبِ، وَبِانْتِحَالِكَ مَا قَدْ عَلاَ عَنْكَ، وَابْتِزَازِكَ
-لِمَا قَدِ اخْتُزِنَ دُونَكَ، فِرَاراً مِنَ الْحَقِّ، وَجُحُوداً لِمَا
-هُوَ أَلْزَمُ لَكَ مِنْ لَحْمِكَ وَدَمِكَ، مِمَّا قَدْ وَعَاهُ
-سَمْعُكَ، وَمُلِىءَ بِهِ صَدْرُكَ، فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ
-الضَّلاَلُ، وَبَعْدَ الْبَيَانِ إِلاَّ الَّلبْسُ؟ فَاحْذَرِ
-الشُّبْهَةَ وَاشْتِمالَهَا عَلَى لَبْسَتِهَا، فَإِنَّ الْفِتْنَةَ
-طَالَمَا أَغْدَفَتْ جَلاَبِيبَهَا، وَأَغْشَتِ الاْبْصَارَ ظُلْمَتُهَا.
-  </p>
-</blockquote>
+> أَمَّا بَعْدُ، فَقَدْ آنَ لَكَ أَنْ تَنْتَفِعَ بِالَّلمْحِ الْبَاصِرِ
+> مِنْ عِيَانِ الاْمُورِ، فَقَدْ سَلَكْتَ مَدَارِجَ أَسْلاَفِكَ
+> بِادِّعَائِكَ الاْباطِيلَ، وَإقْحَامِكَ غُرُورَ الْمَيْنِ
+> وَالاْكَاذِيبِ، وَبِانْتِحَالِكَ مَا قَدْ عَلاَ عَنْكَ، وَابْتِزَازِكَ
+> لِمَا قَدِ اخْتُزِنَ دُونَكَ، فِرَاراً مِنَ الْحَقِّ، وَجُحُوداً لِمَا
+> هُوَ أَلْزَمُ لَكَ مِنْ لَحْمِكَ وَدَمِكَ، مِمَّا قَدْ وَعَاهُ
+> سَمْعُكَ، وَمُلِىءَ بِهِ صَدْرُكَ، فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ
+> الضَّلاَلُ، وَبَعْدَ الْبَيَانِ إِلاَّ الَّلبْسُ؟ فَاحْذَرِ
+> الشُّبْهَةَ وَاشْتِمالَهَا عَلَى لَبْسَتِهَا، فَإِنَّ الْفِتْنَةَ
+> طَالَمَا أَغْدَفَتْ جَلاَبِيبَهَا، وَأَغْشَتِ الاْبْصَارَ ظُلْمَتُهَا.
 
 I have received your letter which is full of uncouth utterances which
 weaken the cause of peace and nonsensical expressions which have not
@@ -49,16 +37,12 @@ place. You have raised yourself to a position which is difficult to
 approach and devoid of any signs (to guide). Even the royal kite cannot
 reach it. It is parallel to the \`Ayyuq (the star Capella), in height.
 
-<blockquote dir="rtl">
-  <p>
-وَقدْ أَتَانِي كِتَابٌ مِنْكَ ذُو أَفانِينَ مِنَ الْقَوْلِ ضَعُفَتْ
-قُوَاهَا عَنِ السِّلْمِ، وَأَسَاطِيرَ لَمْ يَحُكْهَا مِنْكَ عِلْمٌ
-وَلاَ حِلْمٌ، أَصْبَحْتَ مِنْهَا كَالْخَائِضِ فِي الدَّهَاسِ،
-وَالخَابِطِ فِي الدِّيمَاسِ، وَتَرَقَّيْتَ إِلَى مَرْقَبَة بَعِيدَةِ
-الْمَرَامِ، نَازِحَةِ الاْعْلاَمِ، تَقْصُرُ دوُنَهَا الاْنُوقُ،
-وَيُحَاذَى بَهَا الْعَيُّوقُ.
-  </p>
-</blockquote>
+> وَقدْ أَتَانِي كِتَابٌ مِنْكَ ذُو أَفانِينَ مِنَ الْقَوْلِ ضَعُفَتْ
+> قُوَاهَا عَنِ السِّلْمِ، وَأَسَاطِيرَ لَمْ يَحُكْهَا مِنْكَ عِلْمٌ
+> وَلاَ حِلْمٌ، أَصْبَحْتَ مِنْهَا كَالْخَائِضِ فِي الدَّهَاسِ،
+> وَالخَابِطِ فِي الدِّيمَاسِ، وَتَرَقَّيْتَ إِلَى مَرْقَبَة بَعِيدَةِ
+> الْمَرَامِ، نَازِحَةِ الاْعْلاَمِ، تَقْصُرُ دوُنَهَا الاْنُوقُ،
+> وَيُحَاذَى بَهَا الْعَيُّوقُ.
 
 May Allah forbid that you be in charge of people's affairs after my
 assuming authority as Caliph, or that I issue an edict or document
@@ -68,15 +52,11 @@ people of Allah (are forced to) rush upon you, then matters will be
 closed for you and whatever can be accepted from you today will not be
 accepted then; and that is an end to the matter.
 
-<blockquote dir="rtl">
-  <p>
-وَحَاشَ لله أَنْ تَلِيَ لِلْمُسْلِمِينَ بَعْدِي صَدْراً أَوْ وِرْداً،
-أَوْ أُجْرِيَ لَكَ عَلَى أَحَد مِنْهُمْ عَقْداً أَوْ عَهْداً!! فَمِنَ
-الاْنَ فَتَدَارَكْ نَفْسَكَ، وَانْظُرْ لَهَا، فَإِنَّكَ إِنْ فَرَّطْتَ
-حَتَّى يَنْهَدَ إِلَيْكَ عِبَادُ اللهِ أُرْتِجَتْ عَلَيْكَ
-الاْمُورُ،مُنِعْتَ أَمْراً هُوَ مِنْكَ الْيَوْمَ مَقْبُولٌ.
-  </p>
-</blockquote>
+> وَحَاشَ لله أَنْ تَلِيَ لِلْمُسْلِمِينَ بَعْدِي صَدْراً أَوْ وِرْداً،
+> أَوْ أُجْرِيَ لَكَ عَلَى أَحَد مِنْهُمْ عَقْداً أَوْ عَهْداً!! فَمِنَ
+> الاْنَ فَتَدَارَكْ نَفْسَكَ، وَانْظُرْ لَهَا، فَإِنَّكَ إِنْ فَرَّطْتَ
+> حَتَّى يَنْهَدَ إِلَيْكَ عِبَادُ اللهِ أُرْتِجَتْ عَلَيْكَ
+> الاْمُورُ،مُنِعْتَ أَمْراً هُوَ مِنْكَ الْيَوْمَ مَقْبُولٌ.
 
 [^1]: At the end of the battle of the Kharijites, Mu\`awiyah wrote a
 letter to Amir al-mu'minin wherein, as usual, he indulged in
@@ -103,5 +83,4 @@ battle of Tabuk. In spite of all this, he passed his life in concealing
 right and encouraging wrong. This was not due to any misunderstanding
 but it was his lust for power that kept prompting him to suppress and
 trample truth and justice.
-
 

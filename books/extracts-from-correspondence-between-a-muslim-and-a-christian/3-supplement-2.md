@@ -102,4 +102,3 @@ Moreover, the following facts do not fit with this assertion:-
 sinful and unclean people. To reach near God, one must spend years and
 years in piety, virtuousness and highest moral ethics.
 
-

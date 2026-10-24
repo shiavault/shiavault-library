@@ -10,4 +10,3 @@ Qadr (Lailatul Qadr).
 
 *Bihar al-Anwar, vol. pg. 386*
 
-

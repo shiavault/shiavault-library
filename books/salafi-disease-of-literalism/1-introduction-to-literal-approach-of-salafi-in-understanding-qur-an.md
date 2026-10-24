@@ -32,7 +32,6 @@ discussed in detail, Insha-Allah.
 
 A preview of Salafi claim that whole Qur'an is literal
 
-
 **Can Rasool Allah [saww] Help and Benefit us?**
 
 Salafi response to above question is "NO". They say that Rasool Allah
@@ -41,15 +40,11 @@ seeks help or benefit from Rasool Allah saww then he will become
 Mushrik. For example, they deduce from the following verse that Help can
 only be sought from Allah:
 
-<p dir="rtl">
 إِيَّاكَ نَع'بُدُ وإِيَّاكَ نَس'تَعِينُ
-</p>
 
 [Yusufali 1:5] Thee do we worship, and Thine aid (help) we seek.
 
-<p dir="rtl">
 قُل' أَنَد'عُو مِن دُونِ اللّهِ مَا لاَ يَنفَعُنَا وَلاَ يَضُرُّنَا
-</p>
 
 [Yusufali 6:71] Say: Shall we call on that besides Allah, which does
 not benefit us nor harm us.
@@ -77,18 +72,14 @@ at the time of Death?
 In verse 39:42, Allah is saying that it is He who takes the souls out
 at death.
 
-<p dir="rtl">
 اللَّهُ يَتَوَفَّى ال'أَنفُسَ حِينَ مَو'تِهَا
-</p>
 
 [Yusufali 39:42] It is Allah that takes the souls (of men) at death;
 
 But in verse 4:97, Allah says that Angels take the souls of men out at
 the time of death.
 
-<p dir="rtl">
 إِنَّ الَّذِينَ تَوَفَّاهُمُ ال'مَلآئِكَةُ ظَالِمِي أَن'فُسِهِم'
-</p>
 
 [Yusufali 4:97] When angels take the souls of those who die in sin
 against their souls Is it shirk to say that angels take the souls out?
@@ -111,23 +102,18 @@ neglection of these verses of Qur'an and Ahadith are intentional, since
 such tactical amnesia is the safety mechanism via which they can avoid
 the Contradictions in their Beliefs.
 
-
 Is Allah the only and sufficient Wali (Protector / Guardian)?
 
 In verses 4:123 and 4:45 Allah says that He is the Only and Sufficient
 Protector (Guardian).
 
-<p dir="rtl">
 لَّي'سَ بِأَمَانِيِّكُم' وَلا أَمَانِيِّ أَه'لِ ال'كِتَابِ مَن يَع'مَل'
 سُوءًا يُج'زَ بِهِ وَلاَ يَجِد' لَهُ مِن دُونِ اللّهِ وَلِيًّا
-</p>
 
 [Yusufali 4:123] whoever works evil, will be requited accordingly. Nor
 will he find, besides Allah, any protector (Waliyan)
 
-<p dir="rtl">
 وَاللّهُ أَع'لَمُ بِأَع'دَائِكُم' وَكَفَى بِاللّهِ وَلِيًّا
-</p>
 
 [Yusufali 4:45] But Allah hath full knowledge of your enemies: Allah is
 enough for a protector (Waliyan),
@@ -138,19 +124,15 @@ Zakaat when they bow down (this refers to Imam Ali [as] who gave his
 ring to a beggar in state of bowing) are also the
 protectors/guardians.
 
-<p dir="rtl">
 إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا' الَّذِينَ
 يُقِيمُونَ الصَّلاَةَ وَيُؤ'تُونَ الزَّكَاةَ وَهُم' رَاكِعُونَ
-</p>
 
 [Pickthal 5:55] Your guardian (Waliukum) can be only Allah; and His
 messenger and those who believe, who establish worship and pay the poor
 due, and bow down (in prayer).
 
-<p dir="rtl">
 وَمَن يَتَوَلَّ اللّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا' فَإِنَّ حِز'بَ
 اللّهِ هُمُ ال'غَالِبُونَ
-</p>
 
 [Pickthal 5:56] And whoso taketh Allah and His messenger and those who
 believe for guardian (will know that), lo! the party of Allah, they are
@@ -184,5 +166,4 @@ Qur'an, are all too easily deceived by these Salafi Tactics and they
 also start thinking that the Wali can be only Allah and that fellow
 Muslims, who also deem Rasool Allah [saww] as a Wali, are committing
 shirk.
-
 

@@ -1,15 +1,11 @@
 The Divine Declaration
 ======================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ اللهُ عَزَّ وَجَلَّ : يا مَلائِكَتي وَ يا سُكَّانَ سَماواتي
-إِنّي ما خَلَقتُ سَماءً مَبنَّيةً وَ لا أرضاً مَدحيَّةً وَ لا قَمَراً
-مُنيراً وَ لا شَمساً مُضيِئةً وَ لا فَلَكاً يَدُورُ وَ لا بَحراً يَجري
-وَ لا فُلكاً يَسري إِلاّ في مَحَبَّةِ هؤُلاءِ الخَمسَةِ الَّذينَ هُم
-تَحتَ الكِساء
-  </p>
-</blockquote>
+> فَقالَ اللهُ عَزَّ وَجَلَّ : يا مَلائِكَتي وَ يا سُكَّانَ سَماواتي
+> إِنّي ما خَلَقتُ سَماءً مَبنَّيةً وَ لا أرضاً مَدحيَّةً وَ لا قَمَراً
+> مُنيراً وَ لا شَمساً مُضيِئةً وَ لا فَلَكاً يَدُورُ وَ لا بَحراً يَجري
+> وَ لا فُلكاً يَسري إِلاّ في مَحَبَّةِ هؤُلاءِ الخَمسَةِ الَّذينَ هُم
+> تَحتَ الكِساء
 
 **Meanwhile, Allah the Almighty and All-majestic said, "O My angels and
 inhabitants of My heavens! Verily, I have not created any
@@ -120,11 +116,7 @@ Certainly it is a grand statement that Allah (SWT) is making and anyone
 hearing this powerful declaration should open their ears and eyes to
 what He (SWT) is about to convey. The answer Allah (SWT) provides is:
 
-<blockquote dir="rtl">
-  <p>
-إلا في محبة هؤلاء الخمسة الذين هُم تحت الكِساء
-  </p>
-</blockquote>
+> إلا في محبة هؤلاء الخمسة الذين هُم تحت الكِساء
 
 *“..except for the love of these five (individuals) who are now under
 the cloak.”*
@@ -262,5 +254,4 @@ shouldn’t *we* as God’s servants and the followers of the AhlulBayt (AS)
 exert all our efforts to serve their cause, defend them, prove our love
 to them, and propagate their ideologies to the best of our abilities,
 aside from the fact that it is an obligation on us?
-
 

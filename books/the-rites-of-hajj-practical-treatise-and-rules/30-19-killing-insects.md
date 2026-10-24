@@ -12,4 +12,3 @@ scorpion etc. An obligatory precaution is that the Muhrim does not fling
 the aforesaid insects from the body, and if he/she has done it
 involuntarily, then he/she should give some food to a poor person.
 
-

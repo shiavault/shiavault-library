@@ -18,22 +18,14 @@ see themselves in all states in the presence of the God Almighty. And
 this is in fact the instructive and significant words of the Holy
 Prophet (s) who said:
 
-<blockquote dir="rtl">
-  <p>
-"اذكروا الله ذكرا خاملا، قيل: وما الذكر الخامل؟ قال: الذكر الخفي"
-  </p>
-</blockquote>
+> "اذكروا الله ذكرا خاملا، قيل: وما الذكر الخامل؟ قال: الذكر الخفي"
 
 "Remember God by the *khamil dhikr.* He was asked: 'What is *khamil
 dhikr?'* He replied: The silent and *covert dhikr.*"[^1]
 
 In another hadith, His Holiness (s) said:
 
-<blockquote dir="rtl">
-  <p>
-"يفضل الذكر الخفي الذي لا تسمعه الحفظة على الذي تسمعه سبعين ضعفاُ"
-  </p>
-</blockquote>
+> "يفضل الذكر الخفي الذي لا تسمعه الحفظة على الذي تسمعه سبعين ضعفاُ"
 
 "The covert *dhikr* that is not heard by the angels is seventy times
 better than the *dhikr* that they hear it"
@@ -44,14 +36,10 @@ Remembrance by tongue is easy; however, remembrance by the heart,
 especially when done uninterruptedly, is too difficult. Thus, Imam
 Muhammad al-Baqir (a) views it as one of the most difficult tasks
 
-<blockquote dir="rtl">
-  <p>
-"ثلاث من أشد ما عمل العباد: إنصاف المؤمن من نفسه، ومواساة المرء أخاه،
-وذكر الله على كل حال، وهو ان يذكر الله عز وجل عند المعصية يهم بها
-فيحول ذكر الله بينه وبين تلك المعصية، وهو قول الله عز وجل (ان الذين
-اتقوا اذا مسهم طائف من الشيطن تذكروا فاذا هم مبصرون)
-  </p>
-</blockquote>
+> "ثلاث من أشد ما عمل العباد: إنصاف المؤمن من نفسه، ومواساة المرء أخاه،
+> وذكر الله على كل حال، وهو ان يذكر الله عز وجل عند المعصية يهم بها
+> فيحول ذكر الله بينه وبين تلك المعصية، وهو قول الله عز وجل (ان الذين
+> اتقوا اذا مسهم طائف من الشيطن تذكروا فاذا هم مبصرون)
 
 "Three tasks are the most difficult for people equity by the faithful, a
 man's financial assistance to bis brothers, and remembrance of God in
@@ -67,13 +55,9 @@ that what he means by remembrance in all states is not merely
 remembrance by tongue, although it is also regarded as remembrance of
 God:
 
-<blockquote dir="rtl">
-  <p>
-"أما أني لا أقول: سبحان الله، والحمد لله، ولا اله الا الله، والله
-أكبر، وإن كان هذا من ذاك، ولكن ذكر الله في كل موطن إذا هجمتَ على طاعته
-أو معصيته"
-  </p>
-</blockquote>
+> "أما أني لا أقول: سبحان الله، والحمد لله، ولا اله الا الله، والله
+> أكبر، وإن كان هذا من ذاك، ولكن ذكر الله في كل موطن إذا هجمتَ على طاعته
+> أو معصيته"
 
 "By remembrance of God, I do not mean reciting *Subban Allahi, wal
 Hamduli'lallahi, wa la ilaha il Allahu wa Allahu Akbar;* although these
@@ -94,11 +78,7 @@ the carnal soul will not be able to deceive you."
 
 With reference to the following verse:
 
-<blockquote dir="rtl">
-  <p>
-(ومن يعشُ عن ذكر الرحمن نقيض له شيطاناُ فهو له قرين)
-  </p>
-</blockquote>
+> (ومن يعشُ عن ذكر الرحمن نقيض له شيطاناُ فهو له قرين)
 
 (If anyone withdraws himself from remembrance of (Allah) the Most
 Gracious, We appoint for him an evil one, to be an intimate companion to
@@ -136,11 +116,7 @@ it for receiving Divine Grace from the Absolute Bestower of Bounties.
 
 In this respect, Amir al-Mu'minin Ali (a) says:
 
-<blockquote dir="rtl">
-  <p>
-"أصل صلاح القلب اشتغاله بذكر الله"
-  </p>
-</blockquote>
+> "أصل صلاح القلب اشتغاله بذكر الله"
 
 "The quintessence of heart's soundness lies in its occupation with
 remembrance of God."[^4]
@@ -149,27 +125,15 @@ Feeling perpetually present in the Presence of Almighty God liberates
 man from the captivity of the carnal soul and the Satan and consequently
 cures various maladies of the soul. Imam Ali (a) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-"ذكر الله مطردة الشيطان"
-  </p>
-</blockquote>
+> "ذكر الله مطردة الشيطان"
 
 "Remembrance of God drives the Satan away."[^5]
 
-<blockquote dir="rtl">
-  <p>
-"ذكر الله دواء أعلال النفوس"
-  </p>
-</blockquote>
+> "ذكر الله دواء أعلال النفوس"
 
 "Remembrance ofGod is the medicine for the soul's maladies."[^6]
 
-<blockquote dir="rtl">
-  <p>
-"يا من اسمه دواء وذكره شفاء"
-  </p>
-</blockquote>
+> "يا من اسمه دواء وذكره شفاء"
 
 "O He whose Name is a Remedy, whose remembrance is cure."[^7]
 
@@ -181,36 +145,20 @@ love and affection;
 Imam Ali (a), the great knower of Allah and the one familiar with the
 maladies of human soul, said accordingly:
 
-<blockquote dir="rtl">
-  <p>
-"من ذكر الله سبحانه أحيى الله قلبه ونور عقله ولبه"
-  </p>
-</blockquote>
+> "من ذكر الله سبحانه أحيى الله قلبه ونور عقله ولبه"
 
 "Whoever remembers God Almighty, God will enliven his heart and
 enlighten his mind and intellect."[^8]
 
-<blockquote dir="rtl">
-  <p>
-"مداومة الذكر قوت الأرواح"
-  </p>
-</blockquote>
+> "مداومة الذكر قوت الأرواح"
 
 "Perpetually remembering God gives sustenance to the soul."[^9]
 
-<blockquote dir="rtl">
-  <p>
-"الذكر مفتاح الأنس"
-  </p>
-</blockquote>
+> "الذكر مفتاح الأنس"
 
 "Remembrance of God is the key to proximity (to Him)."[^10]
 
-<blockquote dir="rtl">
-  <p>
-"من أكثر ذكر الله أحبه"
-  </p>
-</blockquote>
+> "من أكثر ذكر الله أحبه"
 
 "Whoever remembers God abundantly, God will love him."[^11]
 
@@ -333,12 +281,8 @@ For Attaining the Honor of Meeting Wali 'Asr (aj)
 
 Reciting one hundred times the holy Sura*,*
 
-<blockquote dir="rtl">
-  <p>
-(رب أدخلني مُدخل صدق وأخرجني مُخرج صدق وأجعل لي من لدنك سلطاناُ
-نصيراُ)
-  </p>
-</blockquote>
+> (رب أدخلني مُدخل صدق وأخرجني مُخرج صدق وأجعل لي من لدنك سلطاناُ
+> نصيراُ)
 
 (O my Lord! Let my entry be by the Gate of Truth and Honor, and likewise
 my exit by the Gate of Truth and Honor; and grant me from Thy Presence
@@ -387,11 +331,7 @@ Dr. Farzam said: The reverend Shaykh would recommend some Qur'anic
 verses and supplications along with sending*, Salawat* as *dhikr* for
 solving problems and remedy to illnesses, such as:
 
-<blockquote dir="rtl">
-  <p>
-"رب اني مغلوب فانتصر وأنت خير الناصرين"
-  </p>
-</blockquote>
+> "رب اني مغلوب فانتصر وأنت خير الناصرين"
 
 *"Rabb inni maghlubun, fantasir wa anta Khayru'l* *Nasirin* (O Lord! I
 am defeated. Help me Thou who art the Best of Helpers!)"
@@ -399,22 +339,14 @@ am defeated. Help me Thou who art the Best of Helpers!)"
 Once I had a problem, the Shaykh instructed me to say the following
 *dhikr:*
 
-<blockquote dir="rtl">
-  <p>
-"رب اني مسني الضر وأنت أرحم الراحمين"
-  </p>
-</blockquote>
+> "رب اني مسني الضر وأنت أرحم الراحمين"
 
 "*Rabb inni massani al-durr wa Anta Arham al-Rahimin* (O Lord! I am
 afflicted with a loss, and Thou art the Most Merciful)." He would say:
 "These are *dhikr,* say them along with Salawat!" Or when our children
 got sick, he would recommend us to say:
 
-<blockquote dir="rtl">
-  <p>
-"يا من اسمه دواء، وذكره شفاء صل علي محمد وآل محمد"
-  </p>
-</blockquote>
+> "يا من اسمه دواء، وذكره شفاء صل علي محمد وآل محمد"
 
 "O He whose Name is a remedy, whose remembrance is a cure! Bless
 Muhammad (s) and the Family of Muhammad (s)!"
@@ -427,20 +359,12 @@ Makkah for Hajj pilgrimage I asked the Shaykh what I should do for
 warding off the extreme heat. He instructed me to resort to the
 following verses to protect myself from cold and heat:
 
-<blockquote dir="rtl">
-  <p>
-(سلام على ابراهيم \* كذلك نجزي المحسنين)
-  </p>
-</blockquote>
+> (سلام على ابراهيم \* كذلك نجزي المحسنين)
 
 (Peace and salutation to Abraham! Thus indeed do We reward those who do
 right.) (al-Saffat: 109, 110)
 
-<blockquote dir="rtl">
-  <p>
-(يا نار كوني برداً وسلاماً على ابراهيم)
-  </p>
-</blockquote>
+> (يا نار كوني برداً وسلاماً على ابراهيم)
 
 (O Fire! Be thou cool, and (a means of) safety for Abraham.) (al-Anbiya:
 69)
@@ -473,5 +397,4 @@ al-Dhikr.
 
 [^13]: This dhikr is an item in the Dua -i Hazrat-i Idris (a). See
 Misbah al-Mutahajjid p. 601.
-
 

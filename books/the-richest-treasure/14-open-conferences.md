@@ -26,4 +26,3 @@ your notice without any delay, however much your officers might try to
 intercede them. Dispose of the day’s work that very day, for the coming
 day will bring with it its own tasks.
 
-

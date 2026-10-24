@@ -984,4 +984,3 @@ book where he recorded the event of the year 12 after the Hijrah
 
 [^26]: Al-Hakim Al-Mustadrak Part 3 p. 127.
 
-

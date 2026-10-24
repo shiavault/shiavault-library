@@ -48,4 +48,3 @@ personal experiences to help me better understand the subject matter.
 Accordingly, in some of the assignments, you will notice some personal
 stories or points that I made for educational purposes.
 
-

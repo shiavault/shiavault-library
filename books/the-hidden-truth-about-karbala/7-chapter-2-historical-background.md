@@ -312,4 +312,3 @@ quoted in Ask Those Who Know, p. 67-68.
 
 [^22]: Cf. Al-Munjid, p. 694.
 
-

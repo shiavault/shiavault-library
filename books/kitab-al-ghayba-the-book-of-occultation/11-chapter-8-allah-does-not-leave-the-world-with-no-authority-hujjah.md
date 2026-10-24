@@ -8,12 +8,8 @@ Kumayl said: “Amirul Mo'mineen (as) held my hand and took me with him
 towards the graveyard. When we reached the desert (went out of the
 country), he sighed deeply and said (after a long speech):
 
-<blockquote dir="rtl">
-  <p>
-ولا تخلو الأرضُ من حجةٍ قائم لله بحجته إما ظاهر معلوم، وإما خائف
-مغمور، لئلا تبطلَ حجج الله وبيناته.
-  </p>
-</blockquote>
+> ولا تخلو الأرضُ من حجةٍ قائم لله بحجته إما ظاهر معلوم، وإما خائف
+> مغمور، لئلا تبطلَ حجج الله وبيناته.
 
 “The earth does never remain without a Hujjah; either apparent and known
 or afraid and unknown lest Allah’s proofs and signs will be
@@ -24,27 +20,19 @@ the known person and the known place and does his statement “afraid and
 hidden” not refer to the disappearing person and the unknown place?
 
 > 2 - وأخبرنا أحمد بن محمد بن سعيد بن عقدة قال: حدثنا محمد بن المفضل
-<blockquote dir="rtl">
-  <p>
-وسعدان بن إسحاق وأحمد بن الحسين بن عبد الملك ومحمد بن أحمد القطواني
-قالوا: حدثنا الحسن بن محبوب، عن هشام بن سلام، عن أبي حمزة الثمالي، عن
-أبي إسحاق السبيعى قال: سمعت من يوثق به من أصحاب أمير المؤمنين يقول:
-قال أمير المؤمنين في خطبة خطبها بالكوفة طويلة ذكرها:
-  </p>
-</blockquote>
+> وسعدان بن إسحاق وأحمد بن الحسين بن عبد الملك ومحمد بن أحمد القطواني
+> قالوا: حدثنا الحسن بن محبوب، عن هشام بن سلام، عن أبي حمزة الثمالي، عن
+> أبي إسحاق السبيعى قال: سمعت من يوثق به من أصحاب أمير المؤمنين يقول:
+> قال أمير المؤمنين في خطبة خطبها بالكوفة طويلة ذكرها:
 
-<blockquote dir="rtl">
-  <p>
-اللهمّ فلا بدَّ لك من حجج في أرضك حجة بعد حجة على خلقك، يهدونهم إلى
-دينك، ويعلمونهم علمك لكيلا يتفرقَ أتباع أوليائك، ظاهر غير مطاع، أو
-مكتتم خائف يترقب، إن غاب عن الناس شخصُهم في حال هدنتهم في دولة الباطل
-فلن يغيب عنهم مبثوثُ علمهم، وآدابُهم في قلوب المؤمنين مثبتة، وهم بها
-عاملون، يأنسون بما يستوحش منه المكذبون ويأباه المسرفون بالله. كلام
-يكال بلا ثمنٍ لو كان مَن يسمعه بعقله فيعرفه ويؤمن به ويتبعه، وينهج
-نهجه فيفلح به؟ ثم يقول: فمن هذا؟ ولهذا يأرز العلم إذ لم يوجد حملةً
-يحفظونه ويؤدونه كما يسمعونه من العالم.
-  </p>
-</blockquote>
+> اللهمّ فلا بدَّ لك من حجج في أرضك حجة بعد حجة على خلقك، يهدونهم إلى
+> دينك، ويعلمونهم علمك لكيلا يتفرقَ أتباع أوليائك، ظاهر غير مطاع، أو
+> مكتتم خائف يترقب، إن غاب عن الناس شخصُهم في حال هدنتهم في دولة الباطل
+> فلن يغيب عنهم مبثوثُ علمهم، وآدابُهم في قلوب المؤمنين مثبتة، وهم بها
+> عاملون، يأنسون بما يستوحش منه المكذبون ويأباه المسرفون بالله. كلام
+> يكال بلا ثمنٍ لو كان مَن يسمعه بعقله فيعرفه ويؤمن به ويتبعه، وينهج
+> نهجه فيفلح به؟ ثم يقول: فمن هذا؟ ولهذا يأرز العلم إذ لم يوجد حملةً
+> يحفظونه ويؤدونه كما يسمعونه من العالم.
 
 (2) Ahmad bin Muhammad bin Sa'eed bin Oqda narrated from Muhammad bin
 al-Mufadhdhal, Sa’dan bin Iss’haq, Ahmad bin al-Husayn bin Abdul Melik
@@ -72,13 +60,9 @@ heard from the ulama.”
 
 Then he said after a long speech:
 
-<blockquote dir="rtl">
-  <p>
-اللهم وإني لأعلم أن العلم لا يأرز كله ولا ينقطع مواده فإنك لا تُخلي
-أرضك من حجة على خلقك إما ظاهر يطاع أو خائف مغمور ليس بمطاع لكيلا تبطل
-حجتك ويضل أولياؤك بعد إذ هديتهم.
-  </p>
-</blockquote>
+> اللهم وإني لأعلم أن العلم لا يأرز كله ولا ينقطع مواده فإنك لا تُخلي
+> أرضك من حجة على خلقك إما ظاهر يطاع أو خائف مغمور ليس بمطاع لكيلا تبطل
+> حجتك ويضل أولياؤك بعد إذ هديتهم.
 
 “O Allah, I know well that knowledge is not lost totally nor its means
 disappear because You do not leave the earth without an authority over
@@ -93,19 +77,11 @@ bin Mahboob from Hisham bin Salim from Abu Hamza ath-Thimali from Abu
 Iss’haq as-Subay’iy from one of Imam Ali’s trusted companions.[^2]
 
 > 3 - حدثنا محمد بن يعقوب الكليني قال: حدثنا علي بن إبراهيم بن هاشم، عن
-<blockquote dir="rtl">
-  <p>
-أبيه، عن ابن أبي عمير، عن منصور بن يونس وسعدان بن مسلم، عن إسحاق بن
-عمار، عن أبي عبد الله قال: سمعته يقول:
-  </p>
-</blockquote>
+> أبيه، عن ابن أبي عمير، عن منصور بن يونس وسعدان بن مسلم، عن إسحاق بن
+> عمار، عن أبي عبد الله قال: سمعته يقول:
 
-<blockquote dir="rtl">
-  <p>
-إن الأرض لا تخلو إلاّ وفيها عالِم كيما إن زاد المؤمنون شيئاً ردّهم،
-وإن نقصوا شيئا أتمّه لهم.
-  </p>
-</blockquote>
+> إن الأرض لا تخلو إلاّ وفيها عالِم كيما إن زاد المؤمنون شيئاً ردّهم،
+> وإن نقصوا شيئا أتمّه لهم.
 
 (3) Muhammad bin Ya'qoob al-Kulayni narrated from Ali bin Ibraheem bin
 Hashim from his father from ibn Abu Omayr from Mansoor bin Younus and
@@ -118,19 +94,11 @@ from that and whenever they omit something of it, he completes it for
 them.”[^3]
 
 > 4 - حدثنا محمد بن يعقوب، عن محمد بن يحيى، عن أحمد بن محمد، عن علي بن
-<blockquote dir="rtl">
-  <p>
-الحكم، عن الربيع بن محمد المسلي، عن عبد الله بن سليمان العامري، عن أبي
-عبد الله أنه قال:
-  </p>
-</blockquote>
+> الحكم، عن الربيع بن محمد المسلي، عن عبد الله بن سليمان العامري، عن أبي
+> عبد الله أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-ما زالتِ الأرض إلاّ وللهِ فيها حجة يعرف الحلالَ والحرام ويدعو الناسَ
-إلى سبيل الله.
-  </p>
-</blockquote>
+> ما زالتِ الأرض إلاّ وللهِ فيها حجة يعرف الحلالَ والحرام ويدعو الناسَ
+> إلى سبيل الله.
 
 (4) Muhammad bin Ya'qoob narrated from Muhammad bin Yahya from Ahmad bin
 Muhammad from Ali bin al-Hakam from ar-Rabee’ bin Muhammad bin
@@ -142,12 +110,8 @@ permissible and impermissible things and inviting people to the way of
 Allah.”[^4]
 
 > 5 - حدثنا محمد بن يعقوب، عن بعض رجاله، عن أحمد بن مهران، عن محمد بن
-<blockquote dir="rtl">
-  <p>
-علي، عن الحسين بن أبي العلاء، عن أبي عبد الله قال: قلت له: تبقى الأرض
-بغير إمام؟ قال: لا.
-  </p>
-</blockquote>
+> علي، عن الحسين بن أبي العلاء، عن أبي عبد الله قال: قلت له: تبقى الأرض
+> بغير إمام؟ قال: لا.
 
 (5) Muhammad bin Ya'qoob narrated from some of his companions from Ahmad
 bin Mihran from Muhammad bin Ali that al-Husayn bin Abul Ala’ had asked
@@ -158,17 +122,9 @@ Abu Abdullah as-Sadiq (as):
 He replied: “No, it is not.”[^5]
 
 > 6 - حدثنا محمد بن يعقوب، عن علي بن إبراهيم، عن محمد بن عيسى، عن يونس،
-<blockquote dir="rtl">
-  <p>
-عن ابن مسكان، عن أبي بصير، عن أبي عبد الله أنه قال:
-  </p>
-</blockquote>
+> عن ابن مسكان، عن أبي بصير، عن أبي عبد الله أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-إنّ الله لم يدعِ الأرض بغير عالِم، ولولا ذلك لم يُعرف الحقّ من الباطل.
-  </p>
-</blockquote>
+> إنّ الله لم يدعِ الأرض بغير عالِم، ولولا ذلك لم يُعرف الحقّ من الباطل.
 
 (6) Muhammad bin Ya'qoob narrated from Ali bin Ibraheem from Muhammad
 bin Eessa from Younus from ibn Miskan from Abu Baseer that Abu Abdullah
@@ -178,19 +134,11 @@ as-Sadiq (as) had said:
 the truth is not distinguished from the untruth.”[^6]
 
 > 7 - وعن علي بن إبراهيم، عن محمد بن عيسى، عن محمد بن الفضيل، عن أبي
-<blockquote dir="rtl">
-  <p>
-حمزة الثمالي، عن أبي جعفر الباقر أنه قال:
-  </p>
-</blockquote>
+> حمزة الثمالي، عن أبي جعفر الباقر أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-واللهِ، ما ترك الله أرضَه منذ قبض الله آدمَ إلاّ وفيها إمامٌ يُهتدى به
-إلى الله، وهو حجته على عباده، ولا تبقى الأرض بغير إمام حجة لله على
-عباده.
-  </p>
-</blockquote>
+> واللهِ، ما ترك الله أرضَه منذ قبض الله آدمَ إلاّ وفيها إمامٌ يُهتدى به
+> إلى الله، وهو حجته على عباده، ولا تبقى الأرض بغير إمام حجة لله على
+> عباده.
 
 (7) Ali bin Ibraheem narrated from Muhammad bin Eessa from Muhammad bin
 al-Fudhayl from Abu Hamza ath-Thimali that Abu Ja'far al-Baqir (as) had
@@ -202,17 +150,9 @@ authority of Allah over His people. The world will never be left without
 an authority (from Allah) over the people.”[^7]
 
 > 8 - وبه عن أبي حمزة قال: قلت لأبي عبد الله: أتبقى الأرض بغير إمام؟
-<blockquote dir="rtl">
-  <p>
-فقال:
-  </p>
-</blockquote>
+> فقال:
 
-<blockquote dir="rtl">
-  <p>
-لو بقِيتِ الأرضُ بغير إمام لَساختْ.
-  </p>
-</blockquote>
+> لو بقِيتِ الأرضُ بغير إمام لَساختْ.
 
 (8) The previous series of narrators narrated that Abu Hamza ath-Thimali
 had said: I asked Abu Abdullah as-Sadiq (as): “Is the world left without
@@ -222,30 +162,14 @@ an imam?” He said:
 
 > 9 - وبه عن محمد بن الفضيل، عن الرضا قال:
 
-<blockquote dir="rtl">
-  <p>
-قلت له: أتبقى الأرض بغير إمام؟
-  </p>
-</blockquote>
+> قلت له: أتبقى الأرض بغير إمام؟
 
-<blockquote dir="rtl">
-  <p>
-قال: لا.
-  </p>
-</blockquote>
+> قال: لا.
 
-<blockquote dir="rtl">
-  <p>
-قلت: فإنا نروي عن أبي عبد الله أنها لا تبقى بغير إمام إلاّ أن يسخط
-الله على أهل الأرض (أو قال: على العباد).
-  </p>
-</blockquote>
+> قلت: فإنا نروي عن أبي عبد الله أنها لا تبقى بغير إمام إلاّ أن يسخط
+> الله على أهل الأرض (أو قال: على العباد).
 
-<blockquote dir="rtl">
-  <p>
-فقال: لا تبقى الأرضُ بغير إمام، ولو بقيت إذاً لساخت.
-  </p>
-</blockquote>
+> فقال: لا تبقى الأرضُ بغير إمام، ولو بقيت إذاً لساخت.
 
 (9) The previous narrators narrated from Muhammad bin al-Fudhayl that he
 had said:
@@ -261,18 +185,10 @@ He said: “The world is not left without an imam. If it is left without
 an imam, it will sink.”[^9]
 
 > 10 - محمد بن يعقوب الكليني، عن علي بن إبراهيم، عن محمد بن عيسى، عن أبي
-<blockquote dir="rtl">
-  <p>
-عبد الله المؤمن، عن أبي هراسة، عن أبي جعفر الباقر أنه قال:
-  </p>
-</blockquote>
+> عبد الله المؤمن، عن أبي هراسة، عن أبي جعفر الباقر أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-لو أنّ الإمامَ رُفع من الأرض ساعةً لساخت بأهلها وماجتْ كما يموج البحرُ
-بأهله.
-  </p>
-</blockquote>
+> لو أنّ الإمامَ رُفع من الأرض ساعةً لساخت بأهلها وماجتْ كما يموج البحرُ
+> بأهله.
 
 (10) Muhammad bin Ya'qoob al-Kulayni narrated from Ali bin Ibraheem from
 Muhammad bin Eessa from Abu Abdullah al-Mo’min from Abu Hurasa that Abu
@@ -283,29 +199,13 @@ its people and will surge like the sea.”[^10]
 
 > 11 - محمد بن يعقوب، عن الحسين بن محمد، عن معلي بن محمد، عن الوشاء قال:
 
-<blockquote dir="rtl">
-  <p>
-سألت الرضا: هل تبقى الأرض بغير إمام؟
-  </p>
-</blockquote>
+> سألت الرضا: هل تبقى الأرض بغير إمام؟
 
-<blockquote dir="rtl">
-  <p>
-قال: لا.
-  </p>
-</blockquote>
+> قال: لا.
 
-<blockquote dir="rtl">
-  <p>
-قلت: إنا نروي أنها لا تبقى إلاّ أن يسخط الله على العباد.
-  </p>
-</blockquote>
+> قلت: إنا نروي أنها لا تبقى إلاّ أن يسخط الله على العباد.
 
-<blockquote dir="rtl">
-  <p>
-قال: لا تبقى، إذاً لَساختْ.
-  </p>
-</blockquote>
+> قال: لا تبقى، إذاً لَساختْ.
 
 (11) Muhammad bin Ya'qoob narrated from al-Husayn bin Muhammad from
 Mu’alla bin Muhammad that al-Washsha’ had said:
@@ -347,5 +247,4 @@ wet-Tabsira p.30, Kamal ad-Deen p.201, Ilal ash-Sharayi’ p.198.
 p.203, Dala’il al-Imama p.230.
 
 [^11]: Bassa’ir ad-Darajat p.488, Biharul Anwar, vol.23 p.28.
-
 

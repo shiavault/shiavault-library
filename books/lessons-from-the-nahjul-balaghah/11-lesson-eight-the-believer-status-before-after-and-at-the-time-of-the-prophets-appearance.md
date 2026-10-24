@@ -221,4 +221,3 @@ themselves to great sufferings for a loaf of bread, and compares the
 disbelievers with dogs, which always serve faithfully, collar on the
 neck, in order to receive what is left over the master's table
 
-

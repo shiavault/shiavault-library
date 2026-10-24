@@ -22,42 +22,24 @@ it.
 
 In the story of Moses and Khidr Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا
-  </p>
-</blockquote>
+> وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا
 
 ***How can you have patience in that of which you have no comprehensive
 knowledge?*** (18:68)
-
 
 Whoever is unwillingly patient, who does not complain to people and
 does not become anxious when his veil is rent, is counted among the
 common people. His share is as Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَبَشِّرِ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَبَشِّرِ الصَّابِرِينَ
 
 ***Give good news to the patient,*** (2:155)
-
 
 That is, good news of the Garden and forgiveness. Whoever meets
 affliction with an open heart, showing patience with tranquility and
 dignity, is counted among the elite and his portion is as Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ مَعَ الصَّابِرِينَ
 
 ***Surely Allah is with the patient.*** (8:46)
-
 

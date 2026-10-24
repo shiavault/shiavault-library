@@ -109,7 +109,6 @@ If you would consider it proper please enlighten me in this issue so I
 may not waver here and there." He wrote, "Allah, the Blessed and Exalted
 has always had the Knowledge of all things." (See Hadith No. 294 - 53)
 
-
 **Chapter 13 : Another Chapter of The Previous Chapter H 290, Ch. 13, h
 1**
 
@@ -154,5 +153,4 @@ In our perception whole consists of parts. It is to make you understand
 and express my thoughts. It all amounts to saying that He is
 All-hearing, All-seeing, All-knowing and All-aware, without any
 multiplicity in the meaning."
-
 

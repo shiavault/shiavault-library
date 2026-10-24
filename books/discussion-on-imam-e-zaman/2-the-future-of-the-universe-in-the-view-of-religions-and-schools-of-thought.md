@@ -123,11 +123,9 @@ hence, despite all threats of doom, will sleep comfortably.
 The following sentences of Doa-e-Ahd are the best proofs of a positive
 outlook about the future:
 
-<p dir="rtl">
 اَللّهم إن حالَ و ب.يني و بينه. الموت. الّذي جعلتَه. علي عِبادِك. حتماً
 م.قضِياً فأَخرِجني مِن قَبري » .« م.ؤتزراً كَفني, شاهِراً س.يفي, م.جرداً
 قناتي, م.لبياً د.عوه الداعي في الحاضر و البادي
-</p>
 
 “O Allah! If death comes between me and him (Imam-e-Zaman’s (a.t.f.s.)
 reappearance), which you have made compulsory and obligatory upon your
@@ -150,5 +148,4 @@ which I have in hand right 4 Muntakhabul Asar by Lutfullah Safi
 Gulpaygani, p. 153
 
 5 Mafaateeh al-Jenaan by Shaikh Abbas Qummi (a.r.)
-
 

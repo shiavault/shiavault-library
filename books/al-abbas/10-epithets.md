@@ -379,4 +379,3 @@ martyred.
 
 [^6]: The Holy Qur’an, Sura al-Fat’h (48), Verse (29)
 
-

@@ -1031,4 +1031,3 @@ Philosophical Papers volume 3 (Cambridge: Cambridge University Press,
 
 [^31]: MacIntyre (1988), 173.
 
-

@@ -9,12 +9,8 @@ made malodorous by perspiration and caused to die by [something as
 simple as] choking.
 
 > 1ـ مِسْكينٌ اِبْنُ آدَمَ، مَكْتُومُ الأجَلِ، مَكْنُونُ العِلَلِ،
-<blockquote dir="rtl">
-  <p>
-مَحفُوظُ العَمَلِ، تُؤْلِمُهُ البَقَّةُ، وتُنْتِنُهُ العَرَقَةُ،
-وتَقْتُلُهُ الشَّرْقَةُ.
-  </p>
-</blockquote>
+> مَحفُوظُ العَمَلِ، تُؤْلِمُهُ البَقَّةُ، وتُنْتِنُهُ العَرَقَةُ،
+> وتَقْتُلُهُ الشَّرْقَةُ.
 
 2) Woe to the son of Adam! How heedless and negligent of his salvation
 he is!
@@ -25,10 +21,5 @@ he is!
 target of calamities and a successor of the dead.
 
 > 3ـ وَيْحَ ابْنِ آدَمَ، أسيرُ الجُوعِ، صَريعُ الشَّبَعِ، غَرَضُ
-<blockquote dir="rtl">
-  <p>
-الآفاتِ، خَليفَةُ
-  </p>
-</blockquote>
-
+> الآفاتِ، خَليفَةُ
 

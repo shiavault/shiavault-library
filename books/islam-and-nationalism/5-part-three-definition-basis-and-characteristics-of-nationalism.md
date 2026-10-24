@@ -226,4 +226,3 @@ all other loyalties (Encyclopaedia Americana).
 [^8]: Refer to: “Muqaddamata -Leddera sat-ul-Fekr-ul-siasial-Arabi”,
 p.101.
 
-

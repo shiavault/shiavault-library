@@ -39,4 +39,3 @@ There are numerous other verses and we present just a few examples which
 clearly indicate what we have mentioned. However, the following
 important question poses itself:
 
-

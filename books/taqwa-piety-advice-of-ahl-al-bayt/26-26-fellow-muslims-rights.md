@@ -146,4 +146,3 @@ they will weep for you and if you live, they are eager to see you.”[^9]
 
 [^9]: Nahj al-Balaghah, vol. 2, p. 1092.
 
-

@@ -23,4 +23,3 @@ Tradition, 33 -34. Cp. MC, 195 (art. 21), 231 sqq., 258, 268, 274.
 
 [^2]: Among Sunnites, Ayla (S. Syria) and Aden, MC, 232.
 
-

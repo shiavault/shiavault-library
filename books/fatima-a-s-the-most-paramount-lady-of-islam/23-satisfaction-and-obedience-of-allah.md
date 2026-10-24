@@ -12,4 +12,3 @@ her life. This is pride that the Prophet (peace be upon him and his
 descendants) knows her satisfaction His satisfaction and her way as the
 way of God, the Almighty.
 
-

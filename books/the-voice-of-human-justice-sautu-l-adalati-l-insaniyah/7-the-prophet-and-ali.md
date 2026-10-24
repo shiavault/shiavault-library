@@ -106,4 +106,3 @@ things were related with divine inspiration and neither Abu Talib nor
 the members of this family shared the secrets of prophethood and
 Imamate.
 
-

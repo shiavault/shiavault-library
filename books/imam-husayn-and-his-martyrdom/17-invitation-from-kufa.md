@@ -24,4 +24,3 @@ political ambitions march without an army against what might be called
 the enemy country, scheming to get him into its power, and prepared to
 use all their resources, military, political and financial, against him?
 
-

@@ -106,4 +106,3 @@ http://www.al-islam.org/the-shiites-under-attack-muhammad-jawad-chirri .
 the book, Setareh-ye Derakhshan (Bright Star), by my father, the late
 Ayatullah Tabasi.
 
-

@@ -192,11 +192,7 @@ basic rights of women, but in the real world, man and woman must base
 their life on love, mercy and cooperation as it is stated in Surat
 al-Rūm (30), Verse 21:
 
-<blockquote dir="rtl">
-  <p>
- وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً 
-  </p>
-</blockquote>
+>  وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً 
 
 ***“And He ordained affection and mercy between you.”***
 
@@ -224,32 +220,20 @@ The above reason reflects the selfish nature of this materialistic
 society, and is not considered a justifiable or acceptable reason for
 abortion. Allāh (SwT) says:
 
-<blockquote dir="rtl">
-  <p>
- وَلاَ تَقْـتُلُوا أَوْلاَدَكُمْ مِّنْ إِمْلاَقٍ نَّحْنُ نَرْزُقُكُمْ
-وَإِيَّاهُمْ 
-  </p>
-</blockquote>
+>  وَلاَ تَقْـتُلُوا أَوْلاَدَكُمْ مِّنْ إِمْلاَقٍ نَّحْنُ نَرْزُقُكُمْ
+> وَإِيَّاهُمْ 
 
 “You shall not kill your children due to penury – We will provide for
 you and for them.”[^10]
 
-<blockquote dir="rtl">
-  <p>
- وَلاَ تَقْـتُلُوا أَوْلاَدَكُمْ خَشْيَةَ إِمْلاقٍ نَّحْنُ
-نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ كَانَ خِطْءًا كَبِيرًا 
-  </p>
-</blockquote>
+>  وَلاَ تَقْـتُلُوا أَوْلاَدَكُمْ خَشْيَةَ إِمْلاقٍ نَّحْنُ
+> نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ كَانَ خِطْءًا كَبِيرًا 
 
 “Do not kill your children for the fear of penury: We will provide for
 them and for you. Killing them is indeed a great iniquity.” [^11]  
  Indeed, has not Allāh (SwT) told us:
 
-<blockquote dir="rtl">
-  <p>
- لاَ نُكَلِّفُ نَفْسًا إِلاَّ وُسْعَهَا 
-  </p>
-</blockquote>
+>  لاَ نُكَلِّفُ نَفْسًا إِلاَّ وُسْعَهَا 
 
 “We task no soul except according to its capacity.”[^12]
 
@@ -355,5 +339,4 @@ Muslims in the West.
 [^12]: Sūrat al-An~ām, Verse 152
 
 [^13]: As translated by Marhum Mulla Asgherali M M Jaffer
-
 

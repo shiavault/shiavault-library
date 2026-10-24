@@ -288,4 +288,3 @@ our prayers and supplications and a means of Imam's displeasure.
 
 'And withhold our hands from injustice and theft.'
 
-

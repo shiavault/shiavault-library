@@ -152,4 +152,3 @@ Shibth bin Rib'ii said to Shimr, "You have become a source of fright to
 women. I have never come across neither a deed nor a stance worse than
 yours". He felt ashamed and withdrew.
 
-

@@ -1,14 +1,10 @@
 Section Twenty
 ==============
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْأَلُ اللّهَ بِحَقِّكُمْ وَبِالشَّأْنِ الَّذِي لَكُمْ عِنْدَهُ
-أَنْ يُعْطِيَنِي بِمُصابِي بِكُمْ أَفْضَلَ مَا يُعْطِي مُصاباً
-بِمُصِيبَتِهِ، مُصِيبَةً مَا أَعْظَمَها وَأَعْظَمَ رَزِيَّتَها فِي
-الإِسْلامِ وَفِي جَمِيعِ السَّموَاتِ وَالأَرْضِ.
-  </p>
-</blockquote>
+> وَأَسْأَلُ اللّهَ بِحَقِّكُمْ وَبِالشَّأْنِ الَّذِي لَكُمْ عِنْدَهُ
+> أَنْ يُعْطِيَنِي بِمُصابِي بِكُمْ أَفْضَلَ مَا يُعْطِي مُصاباً
+> بِمُصِيبَتِهِ، مُصِيبَةً مَا أَعْظَمَها وَأَعْظَمَ رَزِيَّتَها فِي
+> الإِسْلامِ وَفِي جَمِيعِ السَّموَاتِ وَالأَرْضِ.
 
 “And I ask Allah for your sake and for the status and rank which you
 have with Him that He grant me that thing due to me showing grief and
@@ -55,5 +51,4 @@ Without doubt, the Hujjat of Allah leaving his Earth in the fashion in
 which he did is something which would even make a hard rock split and
 have water gush out from it, however how tragic it is that the heart who
 hears of his tragedy does not break down in tears...
-
 

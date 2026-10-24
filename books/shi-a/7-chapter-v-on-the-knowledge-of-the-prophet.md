@@ -364,7 +364,6 @@ example, the claim that the number three is even). Rather they are a
 which, incidentally, has often been observed in a lower degree among
 people following ascetic practices.
 
-  
   
 
 ### The Number of the Prophets of God

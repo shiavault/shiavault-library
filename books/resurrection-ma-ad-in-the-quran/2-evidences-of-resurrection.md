@@ -242,32 +242,20 @@ way, creation of world and man can be justified rationally.
 
 This is indicated in the verses of Quran; as for example:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْنَا السَّمَآءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ‏
-  </p>
-</blockquote>
+> وَمَا خَلَقْنَا السَّمَآءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ‏
 
 ***And We did not create the heaven and the earth and what is between
 them for sport. (21:16)***
 
-<blockquote dir="rtl">
-  <p>
-أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا لَا
-تُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا لَا
+> تُرْجَعُونَ
 
 ***What! did you then think that We had created you in vain and that you
 shall not be returned to Us? (23:115)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْنَا السَّمَوَ تِ وَالْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا
-بِالْحَقِّ وَإِنَّ السَّاعَةَ لَأَتِيَةٌ فَاصْفَحِ الصَّفْحَ
-الْجَمِيلَ
-  </p>
-</blockquote>
+> وَمَا خَلَقْنَا السَّمَوَ تِ وَالْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا
+> بِالْحَقِّ وَإِنَّ السَّاعَةَ لَأَتِيَةٌ فَاصْفَحِ الصَّفْحَ
+> الْجَمِيلَ
 
 ***And We did not create the heavens and the earth and what is between
 them two but in truth; and the hour is most surely coming… (15:85)***
@@ -287,13 +275,9 @@ deed. Not only the Almighty Allah does not commit injustice, on the
 contrary He also desires to be kind and just to man. And He has not
 allowed them to act unjustly with each other. In the Holy Quran He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَنِ وَإِيتَآىِ ذِى
-الْقُرْبَى‏ وَيَنْهَى‏ عَنِ الْفَحْشَآءِ وَالْمُنْكَرِ وَالْبَغْىِ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ‏
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَنِ وَإِيتَآىِ ذِى
+> الْقُرْبَى‏ وَيَنْهَى‏ عَنِ الْفَحْشَآءِ وَالْمُنْكَرِ وَالْبَغْىِ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ‏
 
 ***Surely Allah enjoins the doing of justice and the doing of good (to
 others) and the giving to the kindred, and He forbids indecency and evil
@@ -366,27 +350,19 @@ righteous will be given a good recompense and sinners will be awarded a
 severe punishment. The same thing is implied in the verses of the Holy
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ نَجْعَلُ الَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ
-كَالْمُفْسِدِينَ فِى الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ
-كَالْفُجَّارِ
-  </p>
-</blockquote>
+> أَمْ نَجْعَلُ الَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ
+> كَالْمُفْسِدِينَ فِى الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ
+> كَالْفُجَّارِ
 
 ***Shall We treat those who believe and do good like the mischief-makers
 in the earth? Or shall We make those who guard (against evil) like the
 wicked? (38:28)***
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبَ الَّذِينَ اجْتَرَحُواْ السَّيِّئَاتِ أَن نَّجْعَلَهُمْ
-كَالَّذِينَ آمَنُواْ وَ عَمِلُواْ الصَّالِحَاتِ سَوَآءً مَّحْيَاهُمْ
-وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ‏ \* وَخَلَقَ اللَّهُ السَّمَوَاتِ
-وَالْأَرْضَ بِالْحَقِ‏ّ وَلِتُجْزَى‏ كُلُّ نَفْسٍ بِمَا كَسَبَتْ
-وَهُمْ لَا يُظْلَمُونَ‏
-  </p>
-</blockquote>
+> أَمْ حَسِبَ الَّذِينَ اجْتَرَحُواْ السَّيِّئَاتِ أَن نَّجْعَلَهُمْ
+> كَالَّذِينَ آمَنُواْ وَ عَمِلُواْ الصَّالِحَاتِ سَوَآءً مَّحْيَاهُمْ
+> وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ‏ \* وَخَلَقَ اللَّهُ السَّمَوَاتِ
+> وَالْأَرْضَ بِالْحَقِ‏ّ وَلِتُجْزَى‏ كُلُّ نَفْسٍ بِمَا كَسَبَتْ
+> وَهُمْ لَا يُظْلَمُونَ‏
 
 ***Nay! do those who have wrought evil deeds think that We will make
 them like those who believe and do good that their life and their death
@@ -805,5 +781,4 @@ philosophy, but we shall be content only with these.[^11]
 [^10]: Al-Isharaat wa Tanbihaat, Part 2.
 
 [^11]: Refer to Asfar, Vol. 2.
-
 

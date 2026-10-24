@@ -118,22 +118,14 @@ titles:
 Abu-Basir has reported that Imam al-Baqir (‘a) said to those
 accompanying him:
 
-<blockquote dir="rtl">
-  <p>
-لِيُهْنِئْكُمُ الإسْمُ.
-  </p>
-</blockquote>
+> لِيُهْنِئْكُمُ الإسْمُ.
 
 Fitting for you is the name!
 
 “Which name is that? May Allah accept me as ransom for you!” Abu-Basir
 asked. The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-الشِّيعَةُ.
-  </p>
-</blockquote>
+> الشِّيعَةُ.
 
 Shi\`ah.
 
@@ -142,12 +134,8 @@ complained.
 
 The Imam (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-"وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ" "فَاسْتَغَاثَهُ الَّذِي مِنْ
-شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّه"ِ فَلْيُهْنِئْكُمُ الإسْمُ.
-  </p>
-</blockquote>
+> "وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ" "فَاسْتَغَاثَهُ الَّذِي مِنْ
+> شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّه"ِ فَلْيُهْنِئْكُمُ الإسْمُ.
 
 *(Almighty Allah says in the Holy Qur'an,)* ***“Most surely, Abraham was
 one of his (Noah’s) followers (Shi\`ah).” (37:83) “He who was of his
@@ -162,15 +150,11 @@ Qur'an.
 Confirming this fact, Abu-Basir reported that he heard Imam al-Sadiq
 (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ أَهْلُ بَيْتِ الرَّحْمَةِ، وَبَيْتِ النِّعْمَةِ، وَبَيْتِ
-الْبَرَكَةِ. وَنَحْنُ فِي الأَرْضِ بُنْيَانٌ. وَشِيعَتُنَا عُرَى
-الإسْلاَمِ، وَمَا كَانَتْ دَعْوَةُ إبْرَاهِيمَ إلاَّ لَنَا
-وَشِيعَتِنَا. وَلَقَدِ إسْتَثْنَى اللهُ إلَى يَوْمِ الْقِيَامَةِ إلَى
-إبْلِيسَ فَقَالَ: "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ
-  </p>
-</blockquote>
+> نَحْنُ أَهْلُ بَيْتِ الرَّحْمَةِ، وَبَيْتِ النِّعْمَةِ، وَبَيْتِ
+> الْبَرَكَةِ. وَنَحْنُ فِي الأَرْضِ بُنْيَانٌ. وَشِيعَتُنَا عُرَى
+> الإسْلاَمِ، وَمَا كَانَتْ دَعْوَةُ إبْرَاهِيمَ إلاَّ لَنَا
+> وَشِيعَتِنَا. وَلَقَدِ إسْتَثْنَى اللهُ إلَى يَوْمِ الْقِيَامَةِ إلَى
+> إبْلِيسَ فَقَالَ: "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ
 
 *We are the Household of mercy, the House of grace, and the House of
 blessing. In the earth, we are the structure and our Shi\`ah are the
@@ -195,16 +179,12 @@ which the Ahl al-Bayt (‘a) belong.
 Abu-Dharr al-Ghifari is reported as saying: I saw the Holy Prophet (S)
 striking the shoulder of \`Ali ibn Abi-Talib with his hand and saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ؛ مَنْ أَحَبَّنَا فَهُوَ الْعَرَبِيُّ، وَمَنْ أَبْغَضَنَا
-فَهُوَ الْعِلْجُ. شِيعَتُنَا أَهْلُ الْبُيُوتَاتِ وَالْمَعَادِنِ
-وَالشَّرَفِ وَمَنْ كَانَ مَوْلِدُهُ صَحِيحاً. وَمَا عَلَى مِلَّةِ
-إبْرَاهِيمَ إلاَّ نَحْنُ وَشِيعَتُنَا. وَسَائِرُ النَّاسِ مِنْهَا
-بَرَاءٌ. وَإنَّ اللهَ وَمَلاَئِكَتَهُ يَهْدِمُونَ سَيِّئَاتِ
-شِيعَتِنَا كَمَا يَهْدِمُ الْقَوْمُ الْبُنْيَانَ.
-  </p>
-</blockquote>
+> يَا عَلِيُّ؛ مَنْ أَحَبَّنَا فَهُوَ الْعَرَبِيُّ، وَمَنْ أَبْغَضَنَا
+> فَهُوَ الْعِلْجُ. شِيعَتُنَا أَهْلُ الْبُيُوتَاتِ وَالْمَعَادِنِ
+> وَالشَّرَفِ وَمَنْ كَانَ مَوْلِدُهُ صَحِيحاً. وَمَا عَلَى مِلَّةِ
+> إبْرَاهِيمَ إلاَّ نَحْنُ وَشِيعَتُنَا. وَسَائِرُ النَّاسِ مِنْهَا
+> بَرَاءٌ. وَإنَّ اللهَ وَمَلاَئِكَتَهُ يَهْدِمُونَ سَيِّئَاتِ
+> شِيعَتِنَا كَمَا يَهْدِمُ الْقَوْمُ الْبُنْيَانَ.
 
 *O \`Ali, whoever loves us is a true Arab, and whoever hates us is an
 unbeliever. Our partisans (Shi\`ah) are the people of honorable, unique,
@@ -217,13 +197,9 @@ way that people demolish a building.*[^3]
 On the authority of Imam \`Ali (‘a), Al-Harith has reported the Holy
 Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلِي مَثَلُ شَجَرَةٍ؛ أَنَا أَصْلُهَا، وَعَلِيٌّ فَرْعُهَا،
-وَالْحَسَنُ وَالْحُسَيْنُ ثَمَرَتُهَا، وَالشِّيعَةُ أَوْرَاقُهَا.
-فَأَبَى أَنْ يَخْرُجَ مِنَ الطَّيِّبِ إلاَّ الطَّيِّبُ.
-  </p>
-</blockquote>
+> مَثَلِي مَثَلُ شَجَرَةٍ؛ أَنَا أَصْلُهَا، وَعَلِيٌّ فَرْعُهَا،
+> وَالْحَسَنُ وَالْحُسَيْنُ ثَمَرَتُهَا، وَالشِّيعَةُ أَوْرَاقُهَا.
+> فَأَبَى أَنْ يَخْرُجَ مِنَ الطَّيِّبِ إلاَّ الطَّيِّبُ.
 
 *The like of me is a tree; I am its origin, \`Ali its branch, Hasan and
 Husayn its fruit, and the Shi\`ah its leaves. So, nothing comes out of
@@ -231,18 +207,14 @@ the good except the good.*[^4]
 
 Ibn \`Abbas has reported that the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ؛ شِيعَتُكَ هُمُ الْفَائِزُونَ يَوْمَ الْقِيَامَةِ. فَمَنْ
-أَهَانَ وَاحِداً مِنْهُمْ فَقَدْ أَهَانَكَ، وَمَنْ أَهَانَكَ فَقَدْ
-أَهَانَنِي، وَمَنْ أَهَانَنِي أَدْخَلَهُ اللهُ نَارَ جَهَنَّمَ
-خَالِداً فِيهَا، وَبِئْسَ الْمَصِيرُ. يَا عَلِيُّ؛ أَنْتَ مِنِّي
-وَأَنَا مِنْكَ؛ رُوحُكَ مِنْ رُوحِي؛ وَطِينَتُكَ مِنْ طِينَتِي؛
-وَشِيعَتُكَ خُلِقُوا مِنْ فَضْلِ طِينَتِنَا. فَمَنْ أَحَبَّهُمْ فَقَدْ
-أَحَبَّنَا، وَمَنْ أَبْغَضَهُمْ فَقَدْ أَبْغَضَنَا، وَمَنْ عَادَاهُمْ
-فَقَدْ عَادَانَا، وَمَنْ وَدَّهُمْ فَقَدْ وَدَّنَا.
-  </p>
-</blockquote>
+> يَا عَلِيُّ؛ شِيعَتُكَ هُمُ الْفَائِزُونَ يَوْمَ الْقِيَامَةِ. فَمَنْ
+> أَهَانَ وَاحِداً مِنْهُمْ فَقَدْ أَهَانَكَ، وَمَنْ أَهَانَكَ فَقَدْ
+> أَهَانَنِي، وَمَنْ أَهَانَنِي أَدْخَلَهُ اللهُ نَارَ جَهَنَّمَ
+> خَالِداً فِيهَا، وَبِئْسَ الْمَصِيرُ. يَا عَلِيُّ؛ أَنْتَ مِنِّي
+> وَأَنَا مِنْكَ؛ رُوحُكَ مِنْ رُوحِي؛ وَطِينَتُكَ مِنْ طِينَتِي؛
+> وَشِيعَتُكَ خُلِقُوا مِنْ فَضْلِ طِينَتِنَا. فَمَنْ أَحَبَّهُمْ فَقَدْ
+> أَحَبَّنَا، وَمَنْ أَبْغَضَهُمْ فَقَدْ أَبْغَضَنَا، وَمَنْ عَادَاهُمْ
+> فَقَدْ عَادَانَا، وَمَنْ وَدَّهُمْ فَقَدْ وَدَّنَا.
 
 *O \`Ali, your Shi\`ah are the winners indeed on the Day of
 Resurrection. So, whoever insults any one of them has in fact insulted
@@ -272,17 +244,13 @@ creatures), and others.
 
 Abu-Basir is reported to have quoted Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ ذَكَرَكُمُ اللهُ تَعَالَى بِقَوْلِهِ: "وَمَنْ يُطِعِ اللَّهَ
-وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ
-مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ
-وَحَسُنَ أُولَٰئِكَ رَفِيقًا"  فَرَسُــولُ اللهِ فِـي هَــذَا
-الْمَوْضِـعِ «النَّبِيُّـونَ.» وَنَحْـــنُ «الصِّـدِّيقُونَ
-وَالشُّـهَدَاءُ.» وَأَنْتُـمُ «الصَّـالِحُونَ.» وَأَنْتُمْ وَاللهِ
-شِيعَتُنَا.
-  </p>
-</blockquote>
+> وَقَدْ ذَكَرَكُمُ اللهُ تَعَالَى بِقَوْلِهِ: "وَمَنْ يُطِعِ اللَّهَ
+> وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ
+> مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ
+> وَحَسُنَ أُولَٰئِكَ رَفِيقًا"  فَرَسُــولُ اللهِ فِـي هَــذَا
+> الْمَوْضِـعِ «النَّبِيُّـونَ.» وَنَحْـــنُ «الصِّـدِّيقُونَ
+> وَالشُّـهَدَاءُ.» وَأَنْتُـمُ «الصَّـالِحُونَ.» وَأَنْتُمْ وَاللهِ
+> شِيعَتُنَا.
 
 *Almighty Allah has mentioned you, saying,* ***“Whoever obeys Allah and
 the Messenger, these are with those upon whom Allah has bestowed favors
@@ -293,15 +261,11 @@ martyrs’ and you represent ‘the good’. You are, by Allah, our Shi\`ah.*
 
 The Imam ('a) has also said:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ ذَكَرَكُمُ اللهُ فِي كِتَابِهِ حَيْثُ قَالَ: "هَلْ يَسْتَوِي
-الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا
-يَتَذَكَّرُ أُولُو الْأَلْبَابِ" فَنَحْنُ الَّذِينَ نَعْلَمُ،
-وَأَعْدَاؤُنَا الَّذِينَ لاَ يَعْلَمُونَ. وَشِيعَتُنَا أُولُو
-الأَلْبَابِ.
-  </p>
-</blockquote>
+> لَقَدْ ذَكَرَكُمُ اللهُ فِي كِتَابِهِ حَيْثُ قَالَ: "هَلْ يَسْتَوِي
+> الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا
+> يَتَذَكَّرُ أُولُو الْأَلْبَابِ" فَنَحْنُ الَّذِينَ نَعْلَمُ،
+> وَأَعْدَاؤُنَا الَّذِينَ لاَ يَعْلَمُونَ. وَشِيعَتُنَا أُولُو
+> الأَلْبَابِ.
 
 *Almighty Allah has also mentioned you in His Book, saying,* ***“Are
 those who know and those who do not know alike? Only the men of
@@ -312,14 +276,10 @@ our enemies represent ‘those who do not know’ and our Shi\`ah represent
 Some jurisprudents have reported the following from Imam \`Ali Amir
 al-Mu'minin (‘a):
 
-<blockquote dir="rtl">
-  <p>
-"أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ" أَتَدْرُونَ مَنْ أَوْلِيَاءُ اللهِ؟ هُمْ نَحْنُ
-وَأَتْبَاعُنَا فَمَنْ تَبِعَنَا مِنْ بَعْدِهِمْ. طُوبَى لَنَا وَطُوبَى
-لَهُمْ أَفْضَلُ مِنْ طُوبَى لَنَا.
-  </p>
-</blockquote>
+> "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ" أَتَدْرُونَ مَنْ أَوْلِيَاءُ اللهِ؟ هُمْ نَحْنُ
+> وَأَتْبَاعُنَا فَمَنْ تَبِعَنَا مِنْ بَعْدِهِمْ. طُوبَى لَنَا وَطُوبَى
+> لَهُمْ أَفْضَلُ مِنْ طُوبَى لَنَا.
 
 *(Almighty Allah says,)* ***“Now surely, the friends of Allah-- they
 shall have no fear nor shall they grieve. (10:62)”*** *Do you know who
@@ -333,12 +293,8 @@ not?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ، لأَنَّهُمْ حُمِّلُوا مَا لَمْ تُحْمَلُوا عَلَيْهِ، وَأَطَاقُوا
-مَا لَمْ تُطِيقُوا.
-  </p>
-</blockquote>
+> لاَ، لأَنَّهُمْ حُمِّلُوا مَا لَمْ تُحْمَلُوا عَلَيْهِ، وَأَطَاقُوا
+> مَا لَمْ تُطِيقُوا.
 
 *No, you are not, because they shall stand what you have not stood and
 they shall endure what you have not endured.*[^7]
@@ -347,25 +303,17 @@ Muhammad ibn al-Fudhayl has reported Imam al-Ridha (‘a) commenting on
 the following holy verse:
 
 > "إِلَّا الْمُصَلِّينَ {22}الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ
-<blockquote dir="rtl">
-  <p>
-دَائِمُونَ"
-  </p>
-</blockquote>
+> دَائِمُونَ"
 
 ***…Except those who pray--those who are constant at their prayer.
 (70:22-23)***
 
 The Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أُولَئِـكَ وَاللهِ أَصْحَـابُ الْخَمْسِينَ مِنْ شِيعَتِنَــا. "إِلَّا
-الْمُصَلِّينَ"أُولَئِـكَ أَصْحَابُ الْخَمْسِ صَـلَوَاتٍ مِنْ
-شِيعَتِنَـا. "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ"هُمْ
-وَاللهِ مِنْ شِيعَتِنَا.
-  </p>
-</blockquote>
+> أُولَئِـكَ وَاللهِ أَصْحَـابُ الْخَمْسِينَ مِنْ شِيعَتِنَــا. "إِلَّا
+> الْمُصَلِّينَ"أُولَئِـكَ أَصْحَابُ الْخَمْسِ صَـلَوَاتٍ مِنْ
+> شِيعَتِنَـا. "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ"هُمْ
+> وَاللهِ مِنْ شِيعَتِنَا.
 
 *‘Those who pray’ stands for some of our Shi\`ah who offer fifty prayers
 (a day), and ‘those who are constant at their prayer’ stands for some of
@@ -383,11 +331,7 @@ the right hand. (74:38-39),***
 
 Imam al-Baqir (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ شِيعَتُنَا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> هُمْ شِيعَتُنَا أَهْلَ الْبَيْتِ.
 
 *These are the Shi\`ah of the Ahl al-Bayt.*[^9]
 
@@ -397,12 +341,8 @@ he heard the Holy Prophet (S) saying:
 
 *Almighty Allah has said:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ
-خَيْرُ الْبَرِيَّةِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ
+> خَيْرُ الْبَرِيَّةِ
 
 ***“As for those who believe and do good, surely they are the best of
 creatures. (98:7)”***
@@ -410,12 +350,8 @@ creatures. (98:7)”***
 The Holy Prophet (S) then turned his face towards (Imam) \`Ali (‘a) and
 said:
 
-<blockquote dir="rtl">
-  <p>
-نَعَمْ. أَنْتَ يَا عَلِيُّ وَشِيعَتُكَ. وَمِيعَادُكَ وَمِيعَادُهُمُ
-الْحَوْضُ غُرّاً مُحَجَّلِينَ مُكَحَّلِينَ مُتَوَّجِينَ.
-  </p>
-</blockquote>
+> نَعَمْ. أَنْتَ يَا عَلِيُّ وَشِيعَتُكَ. وَمِيعَادُكَ وَمِيعَادُهُمُ
+> الْحَوْضُ غُرّاً مُحَجَّلِينَ مُكَحَّلِينَ مُتَوَّجِينَ.
 
 *Yes, it is. O \`Ali, it is you and your Shi\`ah (who are the best of
 creatures). Our promised meeting place with them shall be at the Divine
@@ -426,23 +362,15 @@ Jabir has reported Imam al-Baqir (‘a) as follows:
 
 *Commenting on this holy verse,*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ
-خَيْرُ الْبَرِيَّةِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ
+> خَيْرُ الْبَرِيَّةِ
 
 ***“As for those who believe and do good, surely they are the best of
 creatures. (98:7)”***
 
 *The Imam said:*
 
-<blockquote dir="rtl">
-  <p>
-هُمْ شِيعَتُنَا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> هُمْ شِيعَتُنَا أَهْلَ الْبَيْتِ.
 
 *These are the Shi\`ah of the Ahl al-Bayt.*[^11]
 
@@ -456,15 +384,11 @@ also been previously cited in the discussion of “Goals and
 Particularities”. One of the comprehensive traditions in this respect is
 the following, reported by Abu-Basir from Imam al-Sadiq (‘a):
 
-<blockquote dir="rtl">
-  <p>
-شِيعَتُنَا أَهْلُ الْوَرَعِ وَأَهْلُ الْوَفَاءِ وَالأَمَانَةِ وَأَهْلُ
-الزُّهْدِ وَالْعِبَادَةِ، أَصْحَابُ إحْدَى وَخَمْسِينَ رَكْعَةً فِي
-الْيَوْمِ وَاللَّيْلَةِ، الْقَائِمُونَ بِاللَّيْلِ وَالصَّائِمُونَ
-بِالنَّهَارِ، يُزَكُّونَ أَمْوَالَهُمْ، وَيَحِجُّونَ الْبَيْتَ
-وَيَجْتَنِبُونَ كُلَّ مُحَرَّمٍ.
-  </p>
-</blockquote>
+> شِيعَتُنَا أَهْلُ الْوَرَعِ وَأَهْلُ الْوَفَاءِ وَالأَمَانَةِ وَأَهْلُ
+> الزُّهْدِ وَالْعِبَادَةِ، أَصْحَابُ إحْدَى وَخَمْسِينَ رَكْعَةً فِي
+> الْيَوْمِ وَاللَّيْلَةِ، الْقَائِمُونَ بِاللَّيْلِ وَالصَّائِمُونَ
+> بِالنَّهَارِ، يُزَكُّونَ أَمْوَالَهُمْ، وَيَحِجُّونَ الْبَيْتَ
+> وَيَجْتَنِبُونَ كُلَّ مُحَرَّمٍ.
 
 *Our Shi\`ah are the people of piety, faithfulness, and honesty. They
 are the people of asceticism and worship. They perform fifty-one units
@@ -483,12 +407,8 @@ affiliation and heredity, and the Ahl al-Bayt (‘a) are the nearest to
 Almighty Allah, the Holy Prophet (S), and Islam on the basis of the
 following rule that is stated by the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
-النَّبِيُّ وَالَّذِينَ آمَنُوا
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُوا
 
 ***Most surely, the nearest of people to Abraham are those who followed
 him and this Prophet and those who believe. (3:68)***
@@ -496,11 +416,7 @@ him and this Prophet and those who believe. (3:68)***
 In addition, it has been uninterruptedly reported that the Holy Prophet
 (S) said about Salman of Persia:
 
-<blockquote dir="rtl">
-  <p>
-سَلْمَانُ مِنَّا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> سَلْمَانُ مِنَّا أَهْلَ الْبَيْتِ.
 
 *Salman belongs to us—the Ahl al-Bayt.*
 
@@ -511,11 +427,7 @@ them, such as the following:
 \`Umar ibn Yazid has been reported as saying that Imam al-Sadiq (‘a)
 said to him:
 
-<blockquote dir="rtl">
-  <p>
-يَا بْنَ يَزِيدَ! أَنْتَ، وِاللهِ، مِنَّا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> يَا بْنَ يَزِيدَ! أَنْتَ، وِاللهِ، مِنَّا أَهْلَ الْبَيْتِ.
 
 *O Son of Yazid; by Allah I swear it; you are verily part of us—the Ahl
 al-Bayt.*
@@ -525,16 +437,12 @@ mean that I am part of Muhammad’s family?”
 
 The Imam answered:
 
-<blockquote dir="rtl">
-  <p>
-إي، وَاللهِ، مِنْ أَنْفُسِهِمْ، يَا عُمَرُ! أَمَا تَقْرَأُ كِتَابَ
-اللهِ عَزَّ وَجَلَّ: "إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ
-اتَّبَعُوهُ وَهَٰذَا النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ
-وَلِيُّ الْمُؤْمِنِينَ " أَوَ مَا تَقْرَأُ قَوْلَ اللهِ عَزَّ اسْمُهُ:
-"فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ
-رَحِيمٌ"
-  </p>
-</blockquote>
+> إي، وَاللهِ، مِنْ أَنْفُسِهِمْ، يَا عُمَرُ! أَمَا تَقْرَأُ كِتَابَ
+> اللهِ عَزَّ وَجَلَّ: "إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ
+> اتَّبَعُوهُ وَهَٰذَا النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ
+> وَلِيُّ الْمُؤْمِنِينَ " أَوَ مَا تَقْرَأُ قَوْلَ اللهِ عَزَّ اسْمُهُ:
+> "فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ
+> رَحِيمٌ"
 
 *Yes! I swear it by Allah. You are part of Muhammad’s Household
 themselves, \`Umar. Have you not read Allah’s Book saying,* ***“Most
@@ -546,40 +454,28 @@ Oft- forgiving, Most Merciful. (14:36)”***[^13]
 
 Sadir has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتُمْ آلُ مُحَمَّدٍ. أَنْتُمْ آلُ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> أَنْتُمْ آلُ مُحَمَّدٍ. أَنْتُمْ آلُ مُحَمَّدٍ.
 
 *You all are Muhammad’s household. You all are Muhammad’s
 household.*[^14]
 
 This is similar to the aforementioned saying of the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-سَلْمَانُ مِنَّا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> سَلْمَانُ مِنَّا أَهْلَ الْبَيْتِ.
 
 *Salman belongs to us—the Ahl al-Bayt.*
 
 Al-\`Ayyashi has recorded in his book of *Tafsir* (i.e. exegesis of the
 Holy Qur'an) that Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-مَـنْ تَوَلَّـى آلَ مُحَمَّــدٍ وَقَدَّمَهُمْ عَلَى جَمِيعِ النَّاسِ
-بِمَا قَدَّمَهُمْ مِنْ قَرَابَةِ رَسُولِ الله فَهُوَ مِنْ آلِ
-مُحَمَّدٍ لِمَنْزِلَتِهِ عِنْدَ آلِ مُحَمَّدٍ، لاَ أَنَّهُ مِنَ
-الْقَوْمِ بِأَعْيُنِهِمْ، وَإنَّما هُوَ مِنْهُمْ بِتَوَلِّيهِ
-إلَيْهِمْ وَاتِّبَاعِهِ إيَّاهُمْ. وَكَذَلِكَ حُكْمُ اللهِ فِي
-كِتَابِهِ: "وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ "
-وَقَوْلُ إبْرَاهِيمَ: "فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ
-عَصَانِي فَإِنَّكَ غَفُورٌ رَحِيمٌ "
-  </p>
-</blockquote>
+> مَـنْ تَوَلَّـى آلَ مُحَمَّــدٍ وَقَدَّمَهُمْ عَلَى جَمِيعِ النَّاسِ
+> بِمَا قَدَّمَهُمْ مِنْ قَرَابَةِ رَسُولِ الله فَهُوَ مِنْ آلِ
+> مُحَمَّدٍ لِمَنْزِلَتِهِ عِنْدَ آلِ مُحَمَّدٍ، لاَ أَنَّهُ مِنَ
+> الْقَوْمِ بِأَعْيُنِهِمْ، وَإنَّما هُوَ مِنْهُمْ بِتَوَلِّيهِ
+> إلَيْهِمْ وَاتِّبَاعِهِ إيَّاهُمْ. وَكَذَلِكَ حُكْمُ اللهِ فِي
+> كِتَابِهِ: "وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ "
+> وَقَوْلُ إبْرَاهِيمَ: "فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ
+> عَصَانِي فَإِنَّكَ غَفُورٌ رَحِيمٌ "
 
 *Whoever maintains allegiance to Muhammad’s Household and prefers them
 to all other people because of their relation to Allah’s Messenger, is
@@ -602,20 +498,16 @@ utmost in all these areas.
 
 Imam \`Ali ibn Abi-Talib (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ أَهْلُ وِلاَيَتِنَا يَوْمَ الْقِيَامَةِ مِنْ قُبُورِهِمْ
-مُشْرِقَةً وُجُوهُهُمْ، مَسْتُورَةً عَوْرَاتُهُمْ، آمِنَةً
-رَوْعَاتُهُمْ، قَدْ فُرِّجَتْ عَنْهُمُ الشَّدَائِدُ، وَسُهِّلَتْ
-لَهُمُ الْمَوَارِدُ، يَخَافُ النَّاسُ وَلاَ يَخَافُونَ، وَيَحْزَنُ
-النَّاسُ وَلاَ يَحْزَنُونَ، وَقَدْ أُعْطُوا الأَمْنَ وَالإِيمَانَ،
-وَانْقَطَعَتْ عَنْهُمُ الأَحْزَانُ، حَتَّى يُحْمَلُوا عَلَى نُوقٍ
-بِيضٍ لَهَا أَجْنِحَةٌ، عَلَيْهِمْ نَعَالٌ مِنْ ذَهَبٍ شِرْكُهَا
-النُّورُ، حَتَّى يَقْعُدُونَ فِي ظِلِّ عَرْشِ الرَّحْمَانِ عَلَى
-مَنَابِرَ مِنْ نُورٍ، بَيْنَ أَيْدِيهِمْ مَائِدَةٌ يَأْكُلُونَ مِنْهَا
-حَتَّى يَفْرُغَ النَّاسُ مِنَ الْحِسَابِ.
-  </p>
-</blockquote>
+> يَخْرُجُ أَهْلُ وِلاَيَتِنَا يَوْمَ الْقِيَامَةِ مِنْ قُبُورِهِمْ
+> مُشْرِقَةً وُجُوهُهُمْ، مَسْتُورَةً عَوْرَاتُهُمْ، آمِنَةً
+> رَوْعَاتُهُمْ، قَدْ فُرِّجَتْ عَنْهُمُ الشَّدَائِدُ، وَسُهِّلَتْ
+> لَهُمُ الْمَوَارِدُ، يَخَافُ النَّاسُ وَلاَ يَخَافُونَ، وَيَحْزَنُ
+> النَّاسُ وَلاَ يَحْزَنُونَ، وَقَدْ أُعْطُوا الأَمْنَ وَالإِيمَانَ،
+> وَانْقَطَعَتْ عَنْهُمُ الأَحْزَانُ، حَتَّى يُحْمَلُوا عَلَى نُوقٍ
+> بِيضٍ لَهَا أَجْنِحَةٌ، عَلَيْهِمْ نَعَالٌ مِنْ ذَهَبٍ شِرْكُهَا
+> النُّورُ، حَتَّى يَقْعُدُونَ فِي ظِلِّ عَرْشِ الرَّحْمَانِ عَلَى
+> مَنَابِرَ مِنْ نُورٍ، بَيْنَ أَيْدِيهِمْ مَائِدَةٌ يَأْكُلُونَ مِنْهَا
+> حَتَّى يَفْرُغَ النَّاسُ مِنَ الْحِسَابِ.
 
 *On the Day of Resurrection, the loyalists to us come out of their
 graves with bright faces and covered private parts, secured against
@@ -632,20 +524,16 @@ to an end.*[^16]
 
 Salman al-Farisi—may Allah have mercy upon him—narrated the following:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُ ذَاتَ يَوْمٍ جَالِساً عِنْدَ رَسُولِ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، إِذْ أَقْبَلَ عَلِيُّ بْنُ أَبِي طَالِبٍ، عَلَيْهِ
-السَّلاَمُ، فَقَالَ لَهُ: «أَلاَ أُبَشِّرُكَ؟» قَالَ: «بَلَى، يَا
-رَسُولَ اللهِ.» قَالَ: «هَذَا حَبِيبِي جَبْرَئِيلُ يُخْبِرُنِي عَنِ
-اللهِ، جَلَّ جَلاَلُهُ، أَنَّهُ قَدْ أَعْطَى مُحِبَّكَ وَشِيعَتَكَ
-سَبْعَ خِصَالٍ: الرِّفْقَ عِنْدَ الْمَوْتِ، وَالأُنْسَ عِنْدَ
-الْوَحْشَةِ، وَالنُّورَ عِنْدَ الظُّلْمَةِ وَالأَمْنَ عِنْدَ
-الْفَزَعِ، وَالْقِسْطَ عِنْدَ الْمِيزَانِ، وَالْجَوَازَ عَلَى
-الصِّرَاطِ، وَدُخُولَ الْجَنَّةِ قَبْلَ سَائِرِ النَّاسِ مِنَ الأُمَمِ
-بِثَمَانِينَ عَاماً.»
-  </p>
-</blockquote>
+> كُنْتُ ذَاتَ يَوْمٍ جَالِساً عِنْدَ رَسُولِ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، إِذْ أَقْبَلَ عَلِيُّ بْنُ أَبِي طَالِبٍ، عَلَيْهِ
+> السَّلاَمُ، فَقَالَ لَهُ: «أَلاَ أُبَشِّرُكَ؟» قَالَ: «بَلَى، يَا
+> رَسُولَ اللهِ.» قَالَ: «هَذَا حَبِيبِي جَبْرَئِيلُ يُخْبِرُنِي عَنِ
+> اللهِ، جَلَّ جَلاَلُهُ، أَنَّهُ قَدْ أَعْطَى مُحِبَّكَ وَشِيعَتَكَ
+> سَبْعَ خِصَالٍ: الرِّفْقَ عِنْدَ الْمَوْتِ، وَالأُنْسَ عِنْدَ
+> الْوَحْشَةِ، وَالنُّورَ عِنْدَ الظُّلْمَةِ وَالأَمْنَ عِنْدَ
+> الْفَزَعِ، وَالْقِسْطَ عِنْدَ الْمِيزَانِ، وَالْجَوَازَ عَلَى
+> الصِّرَاطِ، وَدُخُولَ الْجَنَّةِ قَبْلَ سَائِرِ النَّاسِ مِنَ الأُمَمِ
+> بِثَمَانِينَ عَاماً.»
 
 *I was sitting with the Holy Prophet (S) when \`Ali ibn Abi-Talib (‘a)
 joined us. The Holy Prophet (S) said to him, “O \`Ali, may I convey to
@@ -661,15 +549,11 @@ entrance to Paradise eighty years before the other nations.”*[^17]
 Zayd ibn \`Ali has reported on the authority of his fathers that Imam
 \`Ali (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-شَكَوْتُ إِلَى رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، حَسَدَ
-مَنْ يَحْسِدُنِي، فَقَالَ: «يَا عَلِيُّ، أَمَا تَرْضَى أَنْ تَكُونَ
-أَوَّلَ أَرْبَعَةٍ يَدْخُلُونَ الْجَنَّةَ؟ أَنَا وَأَنْتَ
-وَذَرَارِينَا خَلْفَ ظُهُورِنَا، وَشِيعَتُنَا عَنْ أَيْمَانِنَا
-وَشَمَائِلِنَا.»
-  </p>
-</blockquote>
+> شَكَوْتُ إِلَى رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، حَسَدَ
+> مَنْ يَحْسِدُنِي، فَقَالَ: «يَا عَلِيُّ، أَمَا تَرْضَى أَنْ تَكُونَ
+> أَوَّلَ أَرْبَعَةٍ يَدْخُلُونَ الْجَنَّةَ؟ أَنَا وَأَنْتَ
+> وَذَرَارِينَا خَلْفَ ظُهُورِنَا، وَشِيعَتُنَا عَنْ أَيْمَانِنَا
+> وَشَمَائِلِنَا.»
 
 *One day, I complained to the Messenger of Allah (S) about the envy I
 had to encounter from others. He answered me saying, “O \`Ali, will it
@@ -680,11 +564,7 @@ being to the right and left of us.*[^18]
 Al-Daraqutni has recorded that the Holy Prophet (S) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا الْحَسَنِ، أَمَا إنَّكَ وَشِيعَتَكَ فِي الْجَنَّةِ.
-  </p>
-</blockquote>
+> يَا أَبَا الْحَسَنِ، أَمَا إنَّكَ وَشِيعَتَكَ فِي الْجَنَّةِ.
 
 *O Abu’l-Hasan! Most surely, your Shi\`ah and you shall be in
 Paradise.*[^19]
@@ -693,12 +573,8 @@ Abu-Sa\`id al-Khidri has reported Ummu-Salamah (the Holy Prophet’s wife)
 as narrating that the Holy Prophet (S) was in her chamber when Fatimah,
 in company with \`Ali, visited him. The Holy Prophet (S) said to \`Ali:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ وَأَصْحَابُكَ فِي الْجَنَّةِ، أَنْتَ وَشِيعَتُكَ فِي
-الْجَنَّةِ.
-  </p>
-</blockquote>
+> أَنْتَ وَأَصْحَابُكَ فِي الْجَنَّةِ، أَنْتَ وَشِيعَتُكَ فِي
+> الْجَنَّةِ.
 
 *You and your companions shall be in Paradise. You and your Shi\`ah
 shall be in Paradise…*[^20]
@@ -706,35 +582,23 @@ shall be in Paradise…*[^20]
 Through a chain of authority that is connected to Anas ibn Malik,
 al-Mughazili reported the Holy Prophet (S) to have said:
 
-<blockquote dir="rtl">
-  <p>
-يَدْخُلُ مِنْ أُمَّتِي الْجَنَّةَ سَبْعُونَ أَلْفاً لاَ حِسَابَ
-عَلَيْهِمْ.
-  </p>
-</blockquote>
+> يَدْخُلُ مِنْ أُمَّتِي الْجَنَّةَ سَبْعُونَ أَلْفاً لاَ حِسَابَ
+> عَلَيْهِمْ.
 
 *Seventy thousand individuals from my nation shall enter Paradise free
 of the calling to account.*
 
 He (S) then turned his face towards (Imam) \`Ali and said:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ شِيعَتُكَ وَأَنْتَ إِمَامُهُمْ.
-  </p>
-</blockquote>
+> هُمْ شِيعَتُكَ وَأَنْتَ إِمَامُهُمْ.
 
 *These are your Shi\`ah, and you are their leader (i.e. Imam).*[^21]
 
 Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ، عَزَّ وَجَلَّ، أَعْطَى الْمُؤْمِنَ ثَلاَثَ خِصَالٍ:
-العِزَّ فِي الدُّنْيَا وَالدِّينِ، وَالْفُلْجَ فِي الآخِرَةِ،
-وَالْمَهَابَةَ فِي صُدُورِ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ، عَزَّ وَجَلَّ، أَعْطَى الْمُؤْمِنَ ثَلاَثَ خِصَالٍ:
+> العِزَّ فِي الدُّنْيَا وَالدِّينِ، وَالْفُلْجَ فِي الآخِرَةِ،
+> وَالْمَهَابَةَ فِي صُدُورِ الْعَالَمِينَ.
 
 *Verily, Almighty Allah has granted the faithful believers three
 qualities: (1) dignity in worldly and religious affairs, (2) success in
@@ -743,13 +607,9 @@ the Hereafter, and (3) veneration in the hearts of people.*[^22]
 Imam al-Ridha (‘a) has reported on the authority of his fathers that the
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُؤْمِنَ يُعْرَفُ فِي السَّمَاءِ كَمَا يَعْرِفُ الرَّجُلُ
-أَهْلَهُ وَوِلْدَهُ، وَإِنَّهُ أَكْرَمُ عَلَى اللهِ، عَزَّ وَجَلَّ،
-مِنْ مَلَكٍ مُقَرَّبٍ.
-  </p>
-</blockquote>
+> إِنَّ الْمُؤْمِنَ يُعْرَفُ فِي السَّمَاءِ كَمَا يَعْرِفُ الرَّجُلُ
+> أَهْلَهُ وَوِلْدَهُ، وَإِنَّهُ أَكْرَمُ عَلَى اللهِ، عَزَّ وَجَلَّ،
+> مِنْ مَلَكٍ مُقَرَّبٍ.
 
 *Verily, the faithful believer is known in the heavens in the same way
 as one knows his wife and children, and he is more favorite in the sight
@@ -760,12 +620,8 @@ followers of the Ahl al-Bayt (‘a) will win in the Next World.
 
 Abu-Basir has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ، مَا بَعْدَنَا غَيْرُكُمْ، وَإِنَّكُمْ مَعَنَا فِي السَّنَامِ
-الأَعْلَى، فَتَنَافَسُوا فِي الدَّرَجَاتِ.
-  </p>
-</blockquote>
+> وَاللهِ، مَا بَعْدَنَا غَيْرُكُمْ، وَإِنَّكُمْ مَعَنَا فِي السَّنَامِ
+> الأَعْلَى، فَتَنَافَسُوا فِي الدَّرَجَاتِ.
 
 *By Allah I swear, none comes immediately after us save you (i.e. the
 Shi\`ah). You shall be with us on the Supreme Summit. So, compete with
@@ -779,11 +635,7 @@ Ibn \`Abbas is reported to have said that he once asked the Holy Prophet
 (S) about the interpretation of Almighty Allah’s saying:
 
 > وَالسَّابِقُونَ السَّابِقُونَ {10}أُولَٰئِكَ الْمُقَرَّبُونَ فِي
-<blockquote dir="rtl">
-  <p>
-جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> جَنَّاتِ النَّعِيمِ
 
 ***And those foremost in faith will be foremost in the Hereafter. This
 group will be those nearest to Allah; in the Gardens of Bliss.
@@ -791,12 +643,8 @@ group will be those nearest to Allah; in the Gardens of Bliss.
 
 The Holy Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِي جَبْرَئِيلُ: ذَاكَ عَلِيٌّ وَشِيعَتُهُ، هُمُ السَّابِقُونَ
-إَلَى الْجَنَّةِ، الْمُقَرَّبُونَ مِنَ اللهِ بِكَرَامَتِهِ لَهُمْ.
-  </p>
-</blockquote>
+> قَالَ لِي جَبْرَئِيلُ: ذَاكَ عَلِيٌّ وَشِيعَتُهُ، هُمُ السَّابِقُونَ
+> إَلَى الْجَنَّةِ، الْمُقَرَّبُونَ مِنَ اللهِ بِكَرَامَتِهِ لَهُمْ.
 
 *(Archangel) Gabriel told me that these are \`Ali and his Shi\`ah. They
 shall precede all others to Paradise and they are the nearest to Allah
@@ -805,11 +653,7 @@ due to the honor that He shall confer upon them.*[^25]
 Imam al-Ridha (‘a) has reported on the authority of his fathers that the
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-شِيعَةُ عَلِيٍّ هُمُ الْفَائِزُونَ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> شِيعَةُ عَلِيٍّ هُمُ الْفَائِزُونَ يَوْمَ الْقِيَامَةِ.
 
 *The partisans (Shi\`ah) of \`Ali are the winners on the Day of
 Resurrection.*[^26]
@@ -819,11 +663,7 @@ saying: When I asked Ummu-Salamah, the Holy Prophet’s wife, about \`Ali
 ibn Abi-Talib, she answered that she had heard the Holy Prophet (S)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلِيّاً وَشِيعَتَهُ هُمُ الْفَائِزُونَ.
-  </p>
-</blockquote>
+> إِنَّ عَلِيّاً وَشِيعَتَهُ هُمُ الْفَائِزُونَ.
 
 *Verily, \`Ali and his Shi\`ah are the winners.*[^27]
 
@@ -936,5 +776,4 @@ al-Amali, pp. 149-150, H. 146; \`Allamah al-Majlisi, Bihar al-Anwar
 
 [^27]: - Shaykh al-Saduq, Kitab al-Irshad 1:41, \`Allamah al-Majlisi,
 Bihar al-Anwar 68:31, H. 64 as quoted from the previous reference books.
-
 

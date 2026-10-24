@@ -16,4 +16,3 @@ color and change, luxury and ornament, royal life and pleasure has
 assumed the actresses and aristocrat as the samples, although she seems
 Islamic in clothes and appearance.
 
-

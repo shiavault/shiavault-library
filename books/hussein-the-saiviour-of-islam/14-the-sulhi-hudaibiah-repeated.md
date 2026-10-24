@@ -392,4 +392,3 @@ Both, Abdullah and Zainab were stunned with tears of joy in their eyes
 and returned home praising the Holy Imam and cursing those who had
 wickedly devised to separate them.
 
-

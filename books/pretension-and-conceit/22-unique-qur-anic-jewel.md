@@ -176,4 +176,3 @@ earned a status in the hearts of people, so people may now praise and
 magnify him: This is hated and is contemptible, and surely Allāh knows
 best.
 
-

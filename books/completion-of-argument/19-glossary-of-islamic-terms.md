@@ -296,4 +296,3 @@ ka-zahri ummi).
 
 **Zuhrain** :The two ritual prayers of Zuhr (noon) and Asr (afternoon)
 
-

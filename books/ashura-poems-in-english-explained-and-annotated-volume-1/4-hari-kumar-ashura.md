@@ -12,7 +12,6 @@ a lash will tear for a warded son.\*
 
 31
 
-
 **T. D. Chattani : Vale of Sorrow**
 
 Through the Vale of sorrow does history trace
@@ -35,9 +34,7 @@ L. 8 ?Kafir? refers to ?infidel, unbeliever, or pagen?.
 
 32
 
-
 **Ameen Khorasanee : Husain of Kerbala**
-
 
 Men weep for you today in many lands,
 And on their breasts in bitter anguish beat,
@@ -78,9 +75,7 @@ Th' enduring loveliness of Allah's name?\*
 10
 \* Naidu, The Feathers of the Dawn, p. 6.
 
-
 34
-
 
 **Sarojini Naidu : The Imam Bara**
 
@@ -107,7 +102,6 @@ Kindle your splendid eyes
 Ablaze with the steadfast triumph
 Of the spirit that never dies.
 
-
 So may the hope of new ages Comfort the mystic pain That cries from the
 ancient silence Ali! Hassan! Hussain!\*
 
@@ -121,9 +115,7 @@ India, Delhi: Oxford University Press, 1991.
 
 36
 
-
 **W. C. Tailor : An Ode**
-
 
 Tell me friends what shall you say
 On the awful Judgment Day
@@ -147,9 +139,7 @@ By whom whose bounty freely flow'd.\*
 
 37
 
-
 **Anonymous : Vision of Kerbala**
-
 
 Here's the tale of my nightly trance
 The Vision of Karbala in a deathly dance
@@ -173,7 +163,6 @@ The starving Ummat on its death-bed
 Because through sacrifice are nations made!\*
 \* Khurshed, ed., Imam Husain, 2nd ed., p. 156.
 
-
 L. 4. ?Shimr?, full name ?Shimr b. Dh? al-Jawshan?, was the most
 notorious figure in the Ashura incident. His real name was Shurahb?l b.
 ?Amr b. Mu??w?yyah. He symbolizes cruelty and atrocity because he was
@@ -188,5 +177,4 @@ amounts to some one-hundred martyrs (personal observation).
 L. 19. ?Ummat?, var. umma, means ?The Muslim community
 
 39
-
 

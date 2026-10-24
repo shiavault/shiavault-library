@@ -4,18 +4,10 @@ Section 4: Moses Rescues the Children of Israel
 Surah Ash-Shu‘ara - Verse 52-53
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَا إِلَى مُوسَى أَنْ أَسْرِ بِعِبَادِي إِنَّكُم
-مُّتَّبَعُونَ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَا إِلَى مُوسَى أَنْ أَسْرِ بِعِبَادِي إِنَّكُم
+> مُّتَّبَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ
-  </p>
-</blockquote>
+> فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ
 
 ***52. “And We revealed unto Moses (saying): ‘Go you forth with My
 servants by night, for verily you will be pursued’.”***  
@@ -93,23 +85,11 @@ gradually.
 Surah Ash-Shu‘ara - Verses 54-56
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَؤُلاَء لَشِرْذِمَةٌ قَلِيلُونَ
-  </p>
-</blockquote>
+> إِنَّ هَؤُلاَء لَشِرْذِمَةٌ قَلِيلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُمْ لَنَا لَغَائِظُونَ
-  </p>
-</blockquote>
+> وَإِنَّهُمْ لَنَا لَغَائِظُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا لَجَمِيعٌ حَاذِرُونَ
-  </p>
-</blockquote>
+> وَإِنَّا لَجَمِيعٌ حَاذِرُونَ
 
 ***54. “Verily these (Israelites) are only a small group,”***  
 ***55. “And verily they have enraged us.”***  
@@ -156,29 +136,13 @@ anywhere, for they feared the conspiracy of this group.
 Surah Ash-Shu‘ara - Verses 57-60
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَخْرَجْنَاهُم مِّن جَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> فَأَخْرَجْنَاهُم مِّن جَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
-  </p>
-</blockquote>
+> وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ
-  </p>
-</blockquote>
+> كَذَلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَتْبَعُوهُم مُّشْرِقِينَ
-  </p>
-</blockquote>
+> فَأَتْبَعُوهُم مُّشْرِقِينَ
 
 ***57. “So We expelled them from the gardens and the springs,”***  
 ***58. “And treasures and a goodly dwelling,”***  
@@ -252,18 +216,10 @@ rising, as the holy Qur’an says:
 Surah Ash-Shu‘ara - Verses 61-62
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا تَرَاءى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَى إِنَّا
-لَمُدْرَكُونَ
-  </p>
-</blockquote>
+> فَلَمَّا تَرَاءى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَى إِنَّا
+> لَمُدْرَكُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَلاَ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ
-  </p>
-</blockquote>
+> قَالَ كَلاَ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ
 
 ***61. “So when the two parties saw each other, the companions of Moses
 said: ‘Indeed we are overtaken’!”***  
@@ -322,18 +278,10 @@ mentioned in the verses, has not a clear concept.
 Surah Ash-Shu‘ara - Verses 63-64
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَوْحَيْنَا إِلَى مُوسَى أَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ فَانفَلَقَ
-فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ
-  </p>
-</blockquote>
+> فَأَوْحَيْنَا إِلَى مُوسَى أَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ فَانفَلَقَ
+> فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ
-  </p>
-</blockquote>
+> وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ
 
 ***63. “Then We revealed to Moses: ‘Strike the sea with your staff’,
 then it clove asunder and each part became like a huge mountain.”***  
@@ -398,17 +346,9 @@ former slaves who had disobeyed them.
 Surah Ash-Shu‘ara - Verses 65-66
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنجَيْنَا مُوسَى وَمَن مَّعَهُ أَجْمَعِينَ
-  </p>
-</blockquote>
+> وَأَنجَيْنَا مُوسَى وَمَن مَّعَهُ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَغْرَقْنَا الْآخَرِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَغْرَقْنَا الْآخَرِينَ
 
 ***65. “And We saved Moses and those with him all together.”***  
 ***66. “Then We drownedthe others.”***
@@ -447,17 +387,9 @@ inherited their land and their government.
 Surah Ash-Shu‘ara - Verses 67-68
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***67. “Verily in this is a sign, yet most of them do not believe.”***  
 ***68. “And verily your Lord, certainly He is the Mighty, the
@@ -531,5 +463,4 @@ same. Therefore applying these two words for Nile does not matter.
 verse 24
 
 [^6]: Suras Ta Ha, verse 78, Qasas, verse 40, and Thariyat, verse
-
 

@@ -68,4 +68,3 @@ is **طلق**.
 • **قاتَلَ** This verb is not an unsound verb because its root is
 **قتل**.
 
-

@@ -116,4 +116,3 @@ faith…”
 countries attentive listeners, but we do not find them in our Arab and
 Muslim countries. In fact, attentive listening is forbidden here!
 
-

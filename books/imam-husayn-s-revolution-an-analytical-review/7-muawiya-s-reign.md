@@ -213,4 +213,3 @@ aggression. Therefore, Yazid had no legal right whatsoever in his claims
 and demands. On the contrary, he was responsible for many illegal deeds
 which demand scorn and required punishment.
 
-

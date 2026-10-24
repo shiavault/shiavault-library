@@ -60,4 +60,3 @@ are they in number?
 
 3. What are the beacon lights for the guidance of mankind?
 
-

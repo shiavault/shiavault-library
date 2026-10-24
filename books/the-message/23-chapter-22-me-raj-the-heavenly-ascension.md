@@ -598,4 +598,3 @@ show that landing of man on the surface of the spheres is possible. And
 the thing which man does by scientific methods is done by his Creator by
 means of His Great Will.
 
-

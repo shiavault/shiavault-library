@@ -13,17 +13,9 @@ abode -with a tranquil, and contented heart , a spirit full of joy, and
 a conscience hopeful ( of receiving) God' s forgiveness. The following
 are the mystical verses:
 
-<blockquote dir="rtl">
-  <p>
-من به خال لبت اى دوست گرفتار شدم
-  </p>
-</blockquote>
+> من به خال لبت اى دوست گرفتار شدم
 
-<blockquote dir="rtl">
-  <p>
- چشم بیمـار تـو را دیـدم و بیمار شدم
-  </p>
-</blockquote>
+>  چشم بیمـار تـو را دیـدم و بیمار شدم
 
 Man beh khale labat al-doost giraftar shudom.
 
@@ -43,14 +35,10 @@ the Commander of the Faithful Imam ‘Ali (a.s.). He says: 'Sheikh Abu
 journey have said is quoted from the words of Imam ‘Ali (a.s.) Following
 is an example: Sheikh Abu ‘Ali Sina has said:
 
-<blockquote dir="rtl">
-  <p>
-ثم انه اذا بلغت به الارادة حدا ما. عنت له خلسات من اطلاع نور الحق إليه
-لذيذة كأنها بروق توميض إليه ثم تخمد عنه، وهي التي تسمى عندهم أوقاتا.
-وكل وقت يكتنفه وجدان: وجد اليه ووجد عليه. ثم انه لتكثر عليه هذه
-الغواشى اذا امعن فى الارتياض.
-  </p>
-</blockquote>
+> ثم انه اذا بلغت به الارادة حدا ما. عنت له خلسات من اطلاع نور الحق إليه
+> لذيذة كأنها بروق توميض إليه ثم تخمد عنه، وهي التي تسمى عندهم أوقاتا.
+> وكل وقت يكتنفه وجدان: وجد اليه ووجد عليه. ثم انه لتكثر عليه هذه
+> الغواشى اذا امعن فى الارتياض.
 
 *'When a wayfarer in his determination reaches to a certain limit
 pleasant ecstasies from Divine illumination becomes manifested for him
@@ -65,17 +53,9 @@ intense.'*[^3]
 
 And these are the meanings of this first verse.
 
-<blockquote dir="rtl">
-  <p>
-فارغ از خود شدم و كوس اناالحق بزدم.
-  </p>
-</blockquote>
+> فارغ از خود شدم و كوس اناالحق بزدم.
 
-<blockquote dir="rtl">
-  <p>
-. همچو منصور خریدار سر دار شدم
-  </p>
-</blockquote>
+> . همچو منصور خریدار سر دار شدم
 
 Farigh az Khud shudam wa koos anal haq bezadam.
 
@@ -85,17 +65,9 @@ Hamchu Mansoor kharidar sare dar shudam.
 truth', and like the Mansoor Hallaj volunteered my self for
 hanging*[^5]*.*
 
-<blockquote dir="rtl">
-  <p>
-غم دلدار فكنده است به جانم شررى.
-  </p>
-</blockquote>
+> غم دلدار فكنده است به جانم شررى.
 
-<blockquote dir="rtl">
-  <p>
- كه به جان آمدم و شهره بازار شدم. شدم
-  </p>
-</blockquote>
+>  كه به جان آمدم و شهره بازار شدم. شدم
 
 Ghame dildar fakandeh ast be janam sharari,
 
@@ -106,17 +78,9 @@ ke bejan amadam wa shorahe bazar shudam.
 *That I become fed up with my own self; and my affairs become the talks
 of the town* [^7]
 
-<blockquote dir="rtl">
-  <p>
-درِ میخانه گشایید به رویم شب و روز.
-  </p>
-</blockquote>
+> درِ میخانه گشایید به رویم شب و روز.
 
-<blockquote dir="rtl">
-  <p>
- .كه من از مسجد و از مدرسه، بیزار شدم
-  </p>
-</blockquote>
+>  .كه من از مسجد و از مدرسه، بیزار شدم
 
 Dare meykhana gooshaid beravim shabo rooz,
 
@@ -130,17 +94,9 @@ ke man is masjido wa az madrase bezar shudam.
 
 *the Mosque*[^9] *as well as from the School.*
 
-<blockquote dir="rtl">
-  <p>
-جامه زهد و ریا كَندم و بر تن كردم.
-  </p>
-</blockquote>
+> جامه زهد و ریا كَندم و بر تن كردم.
 
-<blockquote dir="rtl">
-  <p>
- .خرقه پیر خراباتى و هشیار شدم
-  </p>
-</blockquote>
+>  .خرقه پیر خراباتى و هشیار شدم
 
 Jame zohdo riya kardam wa bar tan kardam,
 
@@ -151,17 +107,9 @@ kharqe pir kharabati wa hashyar shudam.
 *And become awakened* [^11] *after wearing the robe of a tavern's
 haunter.”*
 
-<blockquote dir="rtl">
-  <p>
-واعظ شهر كه از پند خود آزارم داد.
-  </p>
-</blockquote>
+> واعظ شهر كه از پند خود آزارم داد.
 
-<blockquote dir="rtl">
-  <p>
- .از دم رند مى آلوده مددكار شدم
-  </p>
-</blockquote>
+>  .از دم رند مى آلوده مددكار شدم
 
 Waiz shahar, ke az pind khud azaram dad,
 
@@ -173,17 +121,9 @@ uncomfortable*[^13]
 *Therefore, I sought refuge*[^14] *in some on who was inwardly upright
 but outwardly lewd.”*
 
-<blockquote dir="rtl">
-  <p>
-بگذارید كه از بتكده یادى بكنم.
-  </p>
-</blockquote>
+> بگذارید كه از بتكده یادى بكنم.
 
-<blockquote dir="rtl">
-  <p>
-من كه با دست بت میكده بیدار شدم.
-  </p>
-</blockquote>
+> من كه با دست بت میكده بیدار شدم.
 
 Beguzarid ke az butkadeh yadi be kunam,
 
@@ -335,5 +275,4 @@ for the mankind.
 
 [^16]: Means acceptance of receiving the blessing guidance through the
 sacred light of the Holy Prophet and his Holy House Hold (a.s.)
-
 

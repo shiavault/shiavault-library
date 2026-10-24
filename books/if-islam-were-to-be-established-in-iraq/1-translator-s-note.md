@@ -133,8 +133,6 @@ of translating this book. Words or sentences within brackets ( ), as
 well as explanatory footnotes, are added by the translator for
 clarification.
 
-
 **Z. Olyabek
 February 2003**
-
 

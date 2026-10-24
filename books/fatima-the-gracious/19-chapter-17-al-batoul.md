@@ -156,4 +156,3 @@ particularity of hers is part of this eminence."
 Fatima's exaltation from encountering menstrual, or, accouchement blood,
 confirms to the verse of purification which has already been discussed.
 
-

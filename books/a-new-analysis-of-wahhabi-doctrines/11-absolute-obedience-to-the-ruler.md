@@ -12,12 +12,8 @@ Companions.
 
 **Their first basis** is the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنْكُمْ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنْكُمْ.﴾
 
 ***O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you**.*[^1]159
@@ -33,11 +29,7 @@ the two, and it cannot be said that it means the just ruler.[^2]
 Prophet (s). The book, *Al-As'ilah wa'l-Ajwibah*, has assumed its
 alleged authenticity. The tradition thus states:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ يُؤَيِّدُ هَذَا الدِّينَ بِالرَّجُلِ الفَاجِرِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ يُؤَيِّدُ هَذَا الدِّينَ بِالرَّجُلِ الفَاجِرِ.
 
 Verily, Allah affirms this religion through the debauchee (who shall
 rule).  
@@ -47,12 +39,8 @@ different way.
  In another narration on the authority of Abu Hurayrah, it is thus
 stated:
 
-<blockquote dir="rtl">
-  <p>
-الجِهَادُ وَاجِبٌ عَلَيْكُمْ مَعَ كُلِّ أمِيرٍ؛ بَرّاً كَانَ أوْ
-فَاجِراً.
-  </p>
-</blockquote>
+> الجِهَادُ وَاجِبٌ عَلَيْكُمْ مَعَ كُلِّ أمِيرٍ؛ بَرّاً كَانَ أوْ
+> فَاجِراً.
 
 *Jihad* is incumbent upon you along with the one who rules over you,
 whether he is good or a debauchee.
@@ -84,11 +72,7 @@ verses are explicitly connected to the verse on “those vested with
 authority”. If we follow the mischief-mongers and oppressors, it means
 that we obey the sinful—an act which is repugnant to the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَعَاوَنُوا عَلَى الإِثْمِ وَالْعُدْوَانِ.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَعَاوَنُوا عَلَى الإِثْمِ وَالْعُدْوَانِ.﴾
 
 ***But do not cooperate in sin and aggression**.*[^5]163
 
@@ -97,12 +81,8 @@ Qur'an on the condition that they take a walk on the path of truth. This
 is while obedience to the ruler is not superior to obedience to the
 parents:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَصَّيْنَا الإِنْسَانَ بِوَالِدَيْهِ حُسْنًا وَإِنْ جَاهَدَاكَ
-لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطِعْهُمَا.﴾
-  </p>
-</blockquote>
+> ﴿وَوَصَّيْنَا الإِنْسَانَ بِوَالِدَيْهِ حُسْنًا وَإِنْ جَاهَدَاكَ
+> لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطِعْهُمَا.﴾
 
 ***We have enjoined man to be good to his parents. But if they urge you
 to ascribe to Me as partner that of which you have no knowledge,) then
@@ -111,11 +91,7 @@ do not obey them**.*[^6]
 The *Sunnah* and *hadith*s of the Prophet (s), also proscribe obedience
 to sinful people:
 
-<blockquote dir="rtl">
-  <p>
-لاَ طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ.
-  </p>
-</blockquote>
+> لاَ طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ.
 
 There is no obedience to the creature {*makhluq*} in disobedience to the
 Creator {*khaliq*}.[^7]
@@ -123,22 +99,14 @@ Creator {*khaliq*}.[^7]
 Basically, the essence of Islam is the movement of the society on the
 basis of God-wariness {*taqwa*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى.﴾
-  </p>
-</blockquote>
+> ﴿وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى.﴾
 
 ***Cooperate in piety and God-wariness**.*[^8]
 
 The Qur'an also regards the establishment of justice as the raison
 d'être of the prophets' mission:
 
-<blockquote dir="rtl">
-  <p>
-﴿لِيَقُومَ النَّاسُ بِالْقِسْطِ.﴾
-  </p>
-</blockquote>
+> ﴿لِيَقُومَ النَّاسُ بِالْقِسْطِ.﴾
 
 ***…So that mankind may maintain justice**.*[^9]
 
@@ -194,12 +162,8 @@ ruling apparatus and justifiers of its crimes.
 their books which challenge the belief on following a just or debauchee
 ruler:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللهِ: إنَّمَا أخَافُ عَلَى أُمَّتِي الأئِمَّةَ
-الْمُضِلِّينَ؛ إي الأُمَرَاءَ وَالعُلَمَاءَ وَالعُبَّادَ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللهِ: إنَّمَا أخَافُ عَلَى أُمَّتِي الأئِمَّةَ
+> الْمُضِلِّينَ؛ إي الأُمَرَاءَ وَالعُلَمَاءَ وَالعُبَّادَ.
 
 The Messenger of Allah (s) said: “I am afraid of deviant leaders for my
 *ummah*; they are deviant rulers {*umara'*}, scholars {*'ulama'*} and
@@ -210,13 +174,9 @@ deviant ruler.
  Following the above *hadith*, it has been narrated from 'Umar ibn
 al-Khattab that he said to the narrator:
 
-<blockquote dir="rtl">
-  <p>
-… هَلْ تَعْرِفُ مَا يَهْدِمُ الإسْلاَمَ؟” قُلْتُ: “لاَ.” قَالَ:
-“يَهْدِمُهُ زَلَّةُ الْعَالِمِ، وَجِدَالُ الْمُنَافِقِ بِالْكِتَابِ،
-وَحُكْمُ الأئِمَّةِ الْمُضِلِّينَ.”
-  </p>
-</blockquote>
+> … هَلْ تَعْرِفُ مَا يَهْدِمُ الإسْلاَمَ؟” قُلْتُ: “لاَ.” قَالَ:
+> “يَهْدِمُهُ زَلَّةُ الْعَالِمِ، وَجِدَالُ الْمُنَافِقِ بِالْكِتَابِ،
+> وَحُكْمُ الأئِمَّةِ الْمُضِلِّينَ.”
 
 “Do you know what shall obliterate Islam?” I said: “No.” He said: “What
 shall obliterate Islam is the deviation of the scholar {*'alim*}, the
@@ -238,23 +198,15 @@ Obedience to the ruler and one vested with authority {wali al-amr} among the Shi
 According to the Shi\`ah, the following two verses have a spiritual
 connection with each other, and the latter verse explains the former:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنْكُمْ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنْكُمْ.﴾
 
 ***O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you.***[^13]
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ.﴾
 
 ***Your guardian is only Allah, His Apostle, and the faithful who
 maintain the prayer and give the*** ***zakat while bowing down**.*[^14]
@@ -269,16 +221,12 @@ Messenger of Allah (s), those who perform their prayers and give the
 *zaka*t, etc.  
  In *Usul al-Kafi*, Husayn ibn Abu'l-A'la thus narrates:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لأبِي عَبْدِ اللهِ: “الأحْيَاءُ طَاعَتُهُمْ مَفْرُوضَةٌ؟”
-قَالَ: “نَعَمْ. هُمُ الَّذِينَ قَالَ اللهُ عَزَّ وَجَلَّ: ﴿أَطِيعُوا
-اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُوْلِي الأَمْرِ مِنْكُمْ.﴾ وَهُمُ
-الَّذِينَ قَالَ اللهُ عَزَّ وَجَلَّ: ﴿إِنَّمَا وَلِيُّكُمْ اللَّهُ
-وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلاَةَ
-وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.﴾”
-  </p>
-</blockquote>
+> قُلْتُ لأبِي عَبْدِ اللهِ: “الأحْيَاءُ طَاعَتُهُمْ مَفْرُوضَةٌ؟”
+> قَالَ: “نَعَمْ. هُمُ الَّذِينَ قَالَ اللهُ عَزَّ وَجَلَّ: ﴿أَطِيعُوا
+> اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُوْلِي الأَمْرِ مِنْكُمْ.﴾ وَهُمُ
+> الَّذِينَ قَالَ اللهُ عَزَّ وَجَلَّ: ﴿إِنَّمَا وَلِيُّكُمْ اللَّهُ
+> وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلاَةَ
+> وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.﴾”
 
 asked Abu 'Abd Allah (Imam as-Sadiq (*'a*)): “Is it obligatory to obey
 the living rulers?” He (*'a*) said: “Yes, and they are those about whom
@@ -341,11 +289,7 @@ are those who have been generally described and praised in the Qur'an
 because as the effect of prostration, left a mark upon their forehead,
 about which the Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ.﴾
-  </p>
-</blockquote>
+> ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ.﴾
 
 ***Their mark is {visible} on their faces, from the effect of
 prostration**.*[^18]
@@ -378,11 +322,7 @@ following:
 First, precedence in faith
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالسَّابِقُونَ السَّابِقُونَ: أُوْلَئِكَ الْمُقَرَّبُونَ.﴾
-  </p>
-</blockquote>
+> ﴿وَالسَّابِقُونَ السَّابِقُونَ: أُوْلَئِكَ الْمُقَرَّبُونَ.﴾
 
 ***And the Foremost Ones are the foremost ones: they are the ones
 brought near {to Allah}**.*[^20]
@@ -390,12 +330,8 @@ brought near {to Allah}**.*[^20]
 Second, struggle
 ----------------
 
-<blockquote dir="rtl">
-  <p>
-﴿وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا
-عَظِيمًا.﴾
-  </p>
-</blockquote>
+> ﴿وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا
+> عَظِيمًا.﴾
 
 ***And Allah has graced those who wage jihad over those who sit back
 with a great reward**.*[^21]
@@ -403,22 +339,14 @@ with a great reward**.*[^21]
 Third, knowledge and learning
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-﴿هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لا يَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لا يَعْلَمُونَ.﴾
 
 ***Are those who know equal to those who do not know?***[^22]
 
 Fourth, God-wariness {taqwa}
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ.﴾
 
 ***Indeed the noblest of you in the sight of Allah is the most God-wary
 among you**.*[^23]
@@ -437,13 +365,9 @@ who helped the Prophet (s), but this should not keep the truth covered.
 Imam as-Sajjad (*'a*) used to send salutations upon all the Companions,
 extolling them thus:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ وَأوْصِلْ إِلَى التّابِعِينَ لهُمْ بِإِحْسَانٍ الَّذِينَ
-يَقُولُونَ: ﴿رَبَّنَا اغْفِرْ لَنَا وَلإِخْوَانِنَا الَّذِينَ
-سَبَقُونَا بِالإِيمانِ﴾.
-  </p>
-</blockquote>
+> اَللَّهُمَّ وَأوْصِلْ إِلَى التّابِعِينَ لهُمْ بِإِحْسَانٍ الَّذِينَ
+> يَقُولُونَ: ﴿رَبَّنَا اغْفِرْ لَنَا وَلإِخْوَانِنَا الَّذِينَ
+> سَبَقُونَا بِالإِيمانِ﴾.
 
 O God, and give to those who have done well in following the Companions,
 who say, ***“Our Lord, forgive us and our brethren who were our
@@ -454,13 +378,9 @@ who follow the Companions, and in another part of his supplication, he
 (*'a*) prays for the Companions, Followers {*tabi'u*n} of the
 Companions, and the sons and wives of the Companions:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ وَصَلِّ عَلَى التَّابِعِينَ مِنْ يَوْمِنَا هَذَا إلَى
-يَوْمِ الدِّينِ وَعَلَى أزْوَاجِهِمْ وَعَلَى ذُرِّيَّاتِهِمْ وَعَلَى
-مَنْ أطَاعَكَ مِنْهُمْ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ وَصَلِّ عَلَى التَّابِعِينَ مِنْ يَوْمِنَا هَذَا إلَى
+> يَوْمِ الدِّينِ وَعَلَى أزْوَاجِهِمْ وَعَلَى ذُرِّيَّاتِهِمْ وَعَلَى
+> مَنْ أطَاعَكَ مِنْهُمْ.
 
 O God, and bless the Followers, from this day of ours to the Day of
 Doom, their wives, their offspring, and those among them who obey
@@ -468,13 +388,9 @@ Thee.[^27]
  The Holy Qur'an has praised the first Emigrants {*muhajirun*} and
 Helpers {*ansar*}, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالسَّابِقُونَ الأَوَّلُونَ مِنْ الْمُهَاجِرِينَ وَالأَنصَارِ
-وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا
-عَنْهُ.﴾
-  </p>
-</blockquote>
+> ﴿وَالسَّابِقُونَ الأَوَّلُونَ مِنْ الْمُهَاجِرِينَ وَالأَنصَارِ
+> وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا
+> عَنْهُ.﴾
 
 ***The early vanguard of the Emigrants and the Helpers and those who
 followed them in virtue—Allah is pleased with them and they are pleased
@@ -507,11 +423,7 @@ caliph of the time whose caliphate was legal and legitimate and whose
 opposition violated the admonition in this verse of the Qur'an to the
 wives of the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَرْنَ فِي بُيُوتِكُنَّ.﴾
-  </p>
-</blockquote>
+> ﴿وَقَرْنَ فِي بُيُوتِكُنَّ.﴾
 
 ***Stay in your houses**.*[^30]
 
@@ -521,24 +433,16 @@ narrator.
 mentioned earlier, such verses are conditional. For example, it is thus
 narrated in a tradition allegedly from the Prophet (s):
 
-<blockquote dir="rtl">
-  <p>
-“لاَ يَدْخُلُ النَّارَ أحَدٌ بَايَعَ تَحْتَ الشَّجَرَةِ.” وَكَانُوا
-أكْثَرَ مِنْ ألْفٍ وَأرْبَعْمِائَةٍ.
-  </p>
-</blockquote>
+> “لاَ يَدْخُلُ النَّارَ أحَدٌ بَايَعَ تَحْتَ الشَّجَرَةِ.” وَكَانُوا
+> أكْثَرَ مِنْ ألْفٍ وَأرْبَعْمِائَةٍ.
 
 “None of those who pledged allegiance under the tree shall enter
 hellfire.” They were more than one thousand four hundred.[^31]
 
 In describing these very Companions, the Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَقَدْ رَضِيَ اللَّهُ عَنْ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
-الشَّجَرَةِ.﴾
-  </p>
-</blockquote>
+> ﴿لَقَدْ رَضِيَ اللَّهُ عَنْ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
+> الشَّجَرَةِ.﴾
 
 ***Allah was certainly pleased with the faithful when they swore
 allegiance to you under the tree**.*[^32]
@@ -576,11 +480,7 @@ the use of obscene and abusive words upon anyone, especially the
 Companions of the Prophet (s) and among them, the wives of the Prophet
 (s) in particular who have been addressed in the Qur'an as:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَأَزْوَاجُهُ أُمَّهَاتُهُمْ.﴾
-  </p>
-</blockquote>
+> ﴿وَأَزْوَاجُهُ أُمَّهَاتُهُمْ.﴾
 
 ***… and his wives are as their mothers**.*[^35]
 
@@ -608,11 +508,7 @@ in Islamic references that 'Ali (*'a*) cooperated with the second caliph
 only to the extent of giving counsel and guidance, which led 'Umar to
 say on over more than seventy occasions:
 
-<blockquote dir="rtl">
-  <p>
-لَوْلاَ عَلِيٌّ لَهَلَكَ عُمَرُ.
-  </p>
-</blockquote>
+> لَوْلاَ عَلِيٌّ لَهَلَكَ عُمَرُ.
 
 “Had it not been for 'Ali, 'Umar would have been destroyed,”  
  and this statement has been mentioned many times in both the Sunni and
@@ -652,21 +548,13 @@ minister of the Messenger of Allah (s) during his lifetime.
 In *Musnad Ahmad* *ibn* *Hanbal*, an authoritative Sunni source, it is
 narrated that the Messenger of Allah (s) said:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إنِّي أقُولُ كَمَا قَالَ أخِي مُوسَى: إجْعَلْ لِي وَزِيراً
-مِنْ أهْلِي؛ عَلِيّاً.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إنِّي أقُولُ كَمَا قَالَ أخِي مُوسَى: إجْعَلْ لِي وَزِيراً
+> مِنْ أهْلِي؛ عَلِيّاً.
 
 O God! I would say something which my brother Musa (Moses) said: Give me
 a minister from my family and that is 'Ali.
 
-<blockquote dir="rtl">
-  <p>
-﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
 
 ***All praise belongs to Allah, the Lord of the Worlds**.*[^36]
 
@@ -750,5 +638,4 @@ them, and requited them with a victory near at hand.” [Trans.]
 their own souls, and his wives are their mothers.”
 
 [^36]: Surat al-Fatihah, 1:2.
-
 

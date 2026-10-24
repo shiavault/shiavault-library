@@ -43,7 +43,6 @@ in this way, they do nothing but lie. The verse says:
 "... they do not follow(anything)but conjectures, and they only lie.
 "
 
-
 **Commentary : Verse 67**
 
 (67) هُوَ الَّذي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فيهِ وَ النَّهارَ
@@ -69,7 +68,6 @@ Allah, the Glorified, for no one else is able to do all this. The verse
 continues saying:
 
 "... Verily there are signs in it for people who hearken. "
-
 
 **Commentary : Verse 68**
 
@@ -120,7 +118,6 @@ If one wants to know about Allah, these words are to be regarded as
 blame, a censure and a threat from Allah, the Magnificent, to those who
 have made these unsanctioned and atrocious claims.
 
-
 **Commentary : Verse 69.70**
 
 (69) قُلْ إِنَّ الَّذينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لا
@@ -160,5 +157,4 @@ used to disbelieve. "
 (1) The Arabic words/ mata'/ and/ mut'ah/ are employed for short- term
 use. As man's use of the world and its blessings are short- lived, the
 Qur'an then applies the word/ mata'/ cornering worldly affairs.
-
 

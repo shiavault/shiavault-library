@@ -636,4 +636,3 @@ sqq.
 
 [^21]: 1 Cf. Giyan Chand, Urdu ki Natbri Dastanen. 1954, p. 37.
 
-

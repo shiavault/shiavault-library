@@ -38,4 +38,3 @@ destructive practices of the very corporate world that hippies protested
 against. Therefore, a making of peace with God the Sustainer is needed
 in order to achieve a sustaining peace with nature.
 
-

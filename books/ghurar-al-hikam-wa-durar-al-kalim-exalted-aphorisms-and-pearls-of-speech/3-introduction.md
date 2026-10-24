@@ -77,4 +77,3 @@ Allah, the Glorified, while seeking refuge with Him, the Most High, from
 every flaw. And my success is from none save Allah; in Him I have put my
 trust and to Him will be my return.
 
-

@@ -430,4 +430,3 @@ where battles were fought, to his foster-brother Abdullah bin Abi Sarha
 to the exclusion of all other Muslims (Sharh Nahj al-Balaghah, V.1,
 p.27).
 
-

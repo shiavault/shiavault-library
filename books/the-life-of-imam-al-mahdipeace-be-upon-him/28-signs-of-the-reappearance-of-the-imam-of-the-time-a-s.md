@@ -35,7 +35,7 @@ in it is war and flight and after that also mischiefs will arrive in
 such a way that for every age it would be said that another mischief has
 ended in the same way it will move forward and these mischiefs will
 enter each and every center of the family of all Arabs and Muslims till
-a man from my progeny will appear.”<sup>[1]</sup>
+a man from my progeny will appear.”[1]
 
 This tradition proves that tribulations, bloodshed, calamities and
 horrible events would surround the Islamic and non-Islamic countries and
@@ -48,7 +48,7 @@ dare to say, “God”. After that the Almighty Allah would send a man from
 my progeny who would fill the earth with justice and equity just as it
 would have been fraught with injustice. And the earth will discharge its
 bounties and blessings and the life of Muslims would become prosperous
-and comfortable.”<sup>[2]</sup>
+and comfortable.”[2]
 
 3. Abu Saeed Khudri narrated that the Holy Prophet (a.s) said, “In the
 Last Age, severe tribulations would afflict my community from their
@@ -59,7 +59,7 @@ of refuge from those oppressions. At that time, Almighty Allah would
 send a man from my progeny who would fill the earth with justice and
 equity and all inhabitants of the earth and heavens would be satisfied
 and happy and the earth would spew out its treasures and the sky would
-shower its blessings...”<sup>[3]</sup>
+shower its blessings...”[3]
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Durar, Pg. 113
 rulers and after rulers, kings and after kings, emperors and tyrannical
 and rebellious dictators. After that a man from my Ahle Bayt will
 reappear and fill the earth with justice and equity just as it would be
-fraught with injustice and oppression.”<sup>[1]</sup>
+fraught with injustice and oppression.”[1]
 
 This tradition shows that the administrators of the Muslims shall be of
 various kinds: Some caliphs, some kings and some tyrants. They would
@@ -104,7 +104,7 @@ It was asked, “O Allah’s Messenger! Would Sham be conquereda”
 He replied, “Very soon (it would be conquered), after that mischief will
 arise. Then the mischief of the worst kind would appear. In short, there
 would be mischief after mischief till finally a man from my Ahle Bayt
-would appear, whose name is Mahdi (a.s).”<sup>[1]</sup>
+would appear, whose name is Mahdi (a.s).”[1]
 
 6. The Prophet of Islam (a.s) said, “The Mahdi of this community is from
 us (our family). When confusion, turmoil and mischief would surround the
@@ -115,7 +115,7 @@ our Mahdi, who is the ninth descendant of Imam Husain (a.s) and he would
 conquer the centers of deviation and the oblivious hearts and establish
 religion just as it were founded and he shall fill the earth with
 justice and equity just as it would be full of injustice and
-oppression.”<sup>[2]</sup>
+oppression.”[2]
 
 7. It is narrated from Imam Muhammad Baqir (a.s) that he said, “Mahdi
 (a.s) will reappear at the time when fear, mischiefs, calamities,
@@ -125,7 +125,7 @@ night people would yearn for death and shall be at each other’s throat.
 In other words despair and hopelessness would have conquered them. At
 that time His Eminence would reappear; and congratulations to the one
 reaches Imam Mahdi (a.s) and becomes his supporter and woe to the one
-who opposes him.”<sup>[3]</sup>
+who opposes him.”[3]
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ Rather all would bring faith on him and testify about him and a single
 community, that is the Islamic community shall come into being. Indeed a
 fire would descend from the sky and burn up all the deities other than
 Allah that are deified in every nook and corner of the
-world.”<sup>[1]</sup>
+world.”[1]
 
 ### The Signs of the Hour (Qiyamat)
 
@@ -366,7 +366,7 @@ earth would spew out whatever it contains. The Prophet himself said:
 That is Gold and Silver. At that moment he pointed out to the pillars
 and said: Like this, but on that day neither gold nor silver be of any
 use. This is the meaning of the verse: Now indeed the tokens of it have
-come…”<sup>[1]</sup>
+come…”[1]
 
 Second Tradition
 ----------------
@@ -669,7 +669,7 @@ Allah. If their chastisement is delayed and they fall into it, you may
 be out of their midst; you must not be the one who has dared to disobey
 Allah. You should know that the Almighty Allah does not waste the
 rewards of the good doers. And the mercy of Allah is near to the
-righteous ones.”<sup>[1]</sup>
+righteous ones.”[1]
 
 ------------------------------------------------------------------------
 
@@ -698,11 +698,11 @@ His Eminence, Imam Mahdi (a.s). Here are some of these traditions:
 
 1. Hisham bin Aamir has narrated from the Messenger of Allah (a.s) that
 he said, “There is nothing greater than Dajjal between the Creation of
-Adam and the Day of Judgment.”<sup>[1]</sup>
+Adam and the Day of Judgment.”[1]
 
 2. Anas bin Malik has related from the Messenger of Allah (a.s) that he
 said, “All prophets have warned about the liar Dajjal. But on Dajjal’s
-forehead is the inscription that he is a disbeliever.”<sup>[2]</sup>
+forehead is the inscription that he is a disbeliever.”[2]
 
 3. Asma binte Yazid has narrated that the Messenger of Allah (a.s) was
 in her house when there was a discussion about Dajjal and he (a.s) said,
@@ -736,7 +736,7 @@ me distraught.”
 The Messenger of Allah (a.s) said, “If Dajjal appears and I am alive I
 would stand up to confront him and I would prevent his deceits.
 Otherwise my Lord would be the protector and defender of every
-believer.”<sup>[1]</sup>
+believer.”[1]
 
 4. Abu Amama Bahili has quoted the Messenger of Allah (a.s) that he
 said, “From the time the Almighty Allah created Adam, there had been no
@@ -760,7 +760,7 @@ became such for Ibrahim. And from his mischief is that he shall say to a
 Bedouin, ‘If I bring your parents back to life would you testify that I
 am your lorda’ He would reply, ‘Yes!’ At that time two Satans shall come
 in the form of his parents and tell him. ‘O Son, obey him, because he is
-your Lord.’”<sup>[1]</sup>
+your Lord.’”[1]
 
 Titles of Dajjal
 ----------------
@@ -772,7 +772,7 @@ the following reasons:
 (a) His eye has been rubbed out.
 
 (b) He would conquer the earth from Mecca, Medina to Baitul
-Maqdas.<sup>[2]</sup>
+Maqdas.[2]
 
 Patronymics of Dajjal
 ---------------------
@@ -780,20 +780,20 @@ Patronymics of Dajjal
 1- Abu Yusuf
 
 2- ‘Amirus Salem’ or ‘Ilahkar’; these titles are given by
-Jews.<sup>[3]</sup>
+Jews.[3]
 
-3- ‘Raees’ – the Christians has given him this title.<sup>[4]</sup>
+3- ‘Raees’ – the Christians has given him this title.[4]
 
-4- Dictator<sup>[5]</sup>
+4- Dictator[5]
 
-5- The Great Ruler<sup>[6]</sup>
+5- The Great Ruler[6]
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Iqdud Durar, Pg. 332-334 <sup>[2]</sup> Al-Fitan, Ibne
-Kathir, Pg. 172 <sup>[3]</sup> Al-Masih ad-Dajjal, Pg. 237
-<sup>[4]</sup> Al-Masih ad-Dajjal, Pg. 238 <sup>[5]</sup> Al-Masih
-ad-Dajjal, Pg. 238 <sup>[6]</sup> Al-Masih ad-Dajjal, Pg. 238
+[1] Iqdud Durar, Pg. 332-334 [2] Al-Fitan, Ibne
+Kathir, Pg. 172 [3] Al-Masih ad-Dajjal, Pg. 237
+[4] Al-Masih ad-Dajjal, Pg. 238 [5] Al-Masih
+ad-Dajjal, Pg. 238 [6] Al-Masih ad-Dajjal, Pg. 238
 
 Characteristics of Dajjal
 -------------------------
@@ -802,21 +802,21 @@ The qualities of Dajjal are abhorring and despicable and show his evil
 and filthy character. In some traditions of the Messenger of Allah (a.s)
 it is mentioned:
 
-1- His left eye is blind.<sup>[1]</sup>
+1- His left eye is blind.[1]
 
-2- His right eye is blind.<sup>[2]</sup>
+2- His right eye is blind.[2]
 
 3- He is blind and the pupils of his eyes are protruding
-out.<sup>[3]</sup>
+out.[3]
 
 In other words he is one-eyed or he is blind in the right or the left
 eye.
 
-4- He is fair complexioned.<sup>[4]</sup> There is redness in his face.
+4- He is fair complexioned.[4] There is redness in his face.
 
-5- He has broad forehead and long neck.<sup>[5]</sup>
+5- He has broad forehead and long neck.[5]
 
-6- He has long and curly hair.<sup>[6]</sup>
+6- He has long and curly hair.[6]
 
 Fabricated Traditions
 ---------------------
@@ -824,7 +824,7 @@ Fabricated Traditions
 Zahak has narrated that Dajjal has no beard and has a long mustache and
 his face is two yards long and his stature is eighty yards to the sky.
 His dress, shoes, saddle and bridle are of gold and precious stones and
-there is a crown on his head, set with precious stones…<sup>[7]</sup>
+there is a crown on his head, set with precious stones…[7]
 
 It is not possible for a human being to posses these characteristics and
 no other tradition has supported the above report. Therefore it shows
@@ -842,21 +842,21 @@ Plight of the Believers under Dajjal
 
 The people of belief shall be troubled and oppressed under the tyranny
 of Dajjal and some say that nothing is more terrible than the scourge of
-Dajjal.<sup>[1]</sup>
+Dajjal.[1]
 
 Nawawi says, “Dajjal is a person to whose scourge the Almighty Allah
 would subject the people and install him upon some of the destined
-affairs.<sup>[2]</sup> Through him some of the signs and miracles, like
+affairs.[2] Through him some of the signs and miracles, like
 the rain etc. shall be brought out. And this would cause many people to
 be deceived by him. But the Almighty Allah would make his tactics known
 to the people of faith. However the gullible and simple-minded people
-shall be fooled by him.”<sup>[3]</sup>
+shall be fooled by him.”[3]
 
 It is narrated from the Messenger of Allah (a.s) that he said, “How
 shall you be when a man shall be controlling the streams and fruits of
 the earth and you are involved with hima While he would provide food to
 whosoever follows him and he would turn him into a
-disbeliever.”<sup>[4]</sup>
+disbeliever.”[4]
 
 The aim of Dajjal is mischief, calamities and tests of the people. One
 who brings faith in him has exited from Islam. One who denies him shall
@@ -879,11 +879,11 @@ Al-Fatawi al-Kubra, Ibne Taiymiyah 20/456, At-Tawatur, Pg. 368 [4]
 Az-Zawaid, Tibrani 7/346
 
 wearing silk garments and the Jew magicians and sooth-sayers that
-deceive the people – shall be with him.”<sup>[1]</sup>
+deceive the people – shall be with him.”[1]
 
 In another tradition it has come that, “Seventy thousand Jews of Isfahan
 shall become followers of Dajjal; they shall be wearing
-skins.”<sup>[2]</sup>
+skins.”[2]
 
 Also 13000 women would follow him. The Messenger of Allah (a.s) says, “A
 group of people would go out to him and shall be deceived by his
@@ -892,7 +892,7 @@ propaganda and the greedy people shall become his supporters.”
 It is quoted in prophetic traditions that, “Some communities would
 gather around Dajjal and say, ‘We are with him so that we may get food
 from him and we know that he is an infidel.’ Thus when the divine
-chastisement descends, it would fall on all of them.”<sup>[3]</sup>
+chastisement descends, it would fall on all of them.”[3]
 
 Faith of Jews on Dajjal
 -----------------------
@@ -928,7 +928,7 @@ the people.
 
 A tradition says, “We know what Dajjal has; there are two streams with
 him; one of them is of white water and other of blazing flames of
-fire.”<sup>[1]</sup>
+fire.”[1]
 
 Treasures under Dajjal’s control
 --------------------------------
@@ -936,11 +936,11 @@ Treasures under Dajjal’s control
 One of the tortures of Dajjal is that the treasures of the earth would
 come under his control. It has come in traditions that: Dajjal would
 pass by a ruin and say to it: Throw out your treasure. The ruin would
-also bring out its treasure.<sup>[2]</sup>
+also bring out its treasure.[2]
 
 In another tradition it is mentioned that Dajjal would say to the earth:
 Sprout forth. And the earth would also sprout forth
-vegetation.<sup>[3]</sup> The meaning of these acts is that in order to
+vegetation.[3] The meaning of these acts is that in order to
 achieve his aim and to deviate the people, Dajjal would resort to magic
 and sorcery. Thus magic is that sole weapon and medium that would
 dominate over people who are gullible and the general public, which does
@@ -971,7 +971,7 @@ control over various areas of the earth except Mecca, Medina and shrines
 of the Holy Imams (a.s). At the time when his transgression would exceed
 all limits and the earth full of his oppression and his followers, one
 behind whom Isa bin Maryam (a.s) shall pray would slay him. And that
-person is Imam Mahdi (a.s).”<sup>[1]</sup>
+person is Imam Mahdi (a.s).”[1]
 
 For the sake of Zionism, Dajjal would continue to increase terrorist
 attacks and keep on increasing corruption and destruction. He would rise
@@ -1001,7 +1001,7 @@ Physical features of Sufyani
 ----------------------------
 
 He shall be having a fat body and a swollen face and there is a white
-spot on his eye.<sup>[1]</sup>
+spot on his eye.[1]
 
 Sufyani’s Character
 -------------------
@@ -1009,7 +1009,7 @@ Sufyani’s Character
 Sufyani shall be having a mischievous temperament and oppressive nature
 towards people. Actually, he shall be a person who has transmogrified
 and the filthiest of them. When appears, he would have children killed
-and bellies of women slit.<sup>[289]</sup> He would put righteous people
+and bellies of women slit.[289] He would put righteous people
 to death and commit the worst of deeds and destructions.
 
 ### Tradition of His Eminence, Ali (a.s) regarding Sufyani
@@ -1129,7 +1129,7 @@ Shias of Mahdi shall glance at the
 
 severed head and raise slogans of ‘Allah is the Greatest. There is no
 God except Allah and Praise be to Allah.’ Then His Eminence would
-command them to bury it.’”<sup>[1]</sup>
+command them to bury it.’”[1]
 
 Since the chain of narrators of this tradition is authentic it provides
 a detailed account the circumstances of Sufyani, that he shall be a
@@ -1157,7 +1157,7 @@ Imam Husain (a.s). Here we narrate some traditions on this subject:
 1. Thauban narrates from the Messenger of Allah (a.s) that he said,
 “When you see black flags approaching from Khorasan, join them, because
 the Caliph of God, His Eminence, Imam Mahdi (a.s) is among
-them.”<sup>[2]</sup>
+them.”[2]
 
 2. Hasan narrates from the Messenger of Allah (a.s) that His Eminence
 mentioned the calamities that would befall his Ahle Bayt (a.s) and then
@@ -1172,7 +1172,7 @@ Kanzul Ummal, 7/182
 help it. And whosoever causes disrespect to him shall be degraded by
 Allah. Till the time they shall gather near a person having my name and
 entrust their affairs to his guardianship (Wilayat). Then the Almighty
-Allah would support and help him.”<sup>[1]</sup>
+Allah would support and help him.”[1]
 
 3. Jabir has quoted from Imam Muhammad Baqir (a.s) that he said, “The
 flags that arrive from Khorasan shall reach Kufa. And when His Eminence,
@@ -1233,7 +1233,7 @@ Mahdi, so follow him.
 (a) Abdullah bin Umar narrated from the Messenger of Allah (a.s) that he
 said, “The Mahdi shall reappear and there would be a cloud above him and
 in it shall be angel proclaiming: This is the Caliph of Allah and the
-same Mahdi, so obey him.”<sup>[1]</sup>
+same Mahdi, so obey him.”[1]
 
 (b) Abu Naeem quoted from Ibne Umar that the Messenger of Allah (a.s)
 said, “The Mahdi shall reappear in such a way that an angel shall
@@ -1248,12 +1248,12 @@ same as the
 [1] Al-Arful Wurdi, 2/61
 
 number of Badr fighters. They shall give allegiance to him between Rukn
-and Maqam.”<sup>[1]</sup>
+and Maqam.”[1]
 
 (c) Abu Naeem quotes from Ibne Umar that the Messenger of Allah (a.s)
 said, “The Mahdi shall reappear in such a way that an angel shall
 proclaim from above his head: This Mahdi is the Caliph of Allah. So obey
-and follow him.”<sup>[2]</sup>
+and follow him.”[2]
 
 Second Group of Traditions
 --------------------------
@@ -1271,7 +1271,7 @@ The truth is in him and with him. So you all follow him. And that is the
 saying of Allah when He says:
 
 **If We please, We should send down upon them a sign from the heaven so
-that their necks should stoop to it.”<sup>[3]</sup>**
+that their necks should stoop to it.”[3]**
 
 (b) Rabi bin Kharrash narrates from Huzaifah regarding the tradition
 about Sufyani that he said, “When the slaves who have fled from Rome
@@ -1279,7 +1279,7 @@ reach the gates of Damascus a caller shall proclaim from the sky: O
 People! The time of the oppressors, hypocrites and their followers is
 over and the best of the Progeny of Muhammad (a.s) that is the same
 Mahdi, the master of guardianship over you has arrived. Then go and join
-him at Mecca.”<sup>[4]</sup>
+him at Mecca.”[4]
 
 ------------------------------------------------------------------------
 
@@ -1292,7 +1292,7 @@ said, “At that time – that is during the tyranny of Sufyani – a voice
 shall proclaim from the sky: O people! Almighty Allah has ended the
 reign of the tyrants and oppressors and the best member of the community
 of Muhammad, that is His Eminence, Mahdi is appointed as your guardian.
-So join him at Mecca.”<sup>[1]</sup>
+So join him at Mecca.”[1]
 
 (d) His Eminence, Ali (a.s) said, “Await for the reappearance of the
 Awaited One on three occasions.” He was asked what those three occasions
@@ -1309,7 +1309,7 @@ from whichever side would say: I have also heard the voice.”
 from the sky: The Truth is indeed with the Progeny of Muhammad – That is
 the same time when His Eminence, Imam Mahdi (a.s) shall reappear and
 people shall become prosperous and the matter of the reappearance of His
-Eminence, will become known to all.”<sup>[2]</sup>
+Eminence, will become known to all.”[2]
 
 Third Group of Traditions
 -------------------------
@@ -1331,7 +1331,7 @@ killed unjustly. He would make the people fall into doubt and on that
 day many people shall be perplexed.” His Eminence said, “If you hear the
 call in the beginning of the month of Ramadan do not doubt it as that
 call is from Jibraeel and its sign is that he would call by the name of
-Mahdi and his father.”<sup>[1]</sup>
+Mahdi and his father.”[1]
 
 ### Jesus shall pray behind Imam Mahdi (a.s)
 
@@ -1350,7 +1350,7 @@ the cross, kill the pig and destroy Dajjal and recover the Imam’s
 property and the People of the Cave shall walk behind him. And he shall
 be the vizier, the right hand, the guard and protector of the Qaim of
 the Progeny of Muhammad. He shall spread peace in the East and the
-West.”<sup>[2]</sup>
+West.”[2]
 
 2. After the description of the scourge of Dajjal, His Eminence, Ali
 (a.s) says, “When it would be Friday and the people would be ready for
@@ -1369,7 +1369,7 @@ Prayer.’ Jesus Christ would reply, ‘Leading the Prayers is your
 prerogative.’ Then Imam Mahdi (a.s) would step forward and lead the
 congregation Prayer and Christ would pray behind him. Then he would pay
 allegiance to him. When His Eminence, Isa (a.s) comes out he would see
-Dajjal taunting; he (Dajjal) would melt like lead.”<sup>[1]</sup>
+Dajjal taunting; he (Dajjal) would melt like lead.”[1]
 
 3. Saeed bin Jubair has narrated from Ibne Abbas that the Messenger of
 Allah (a.s) said, “My Caliphs and successors are twelve persons, first
@@ -1381,7 +1381,7 @@ fraught with injustice and oppression. By the One in Whose hands is my
 life! Even if a day remains for the earth, the Almighty Allah will
 prolong this day till my son, Mahdi reappears and Isa bin Maryam
 descends to the earth and recites prayer behind His Eminence. The earth
-shall be illuminated from the east to the west.”<sup>[2]</sup>
+shall be illuminated from the east to the west.”[2]
 
 4. Abu Amama Bahili has related that the Messenger of Allah (a.s)
 recited a sermon for us and spoke about the Dajjal and his mischief.
@@ -1403,7 +1403,7 @@ Isa (a.s) shall recite his prayers behind His Eminence, Imam Mahdi (a.s)
 and then say, “Open the gates,” and gates shall be opened and there
 shall appear Dajjal with 70000 armed Jews. When Dajjal sees Prophet Isa
 (a.s) he shall melt like lead melts in fire or like the ice melts in
-water and is dissolved in it…”<sup>[1]</sup>
+water and is dissolved in it…”[1]
 
 5. Muhiyyuddin Arabi says, “Know that His Eminence, Mahdi – May Allah,
 the High, hasten his reappearance – when he reappears, all Muslims shall
@@ -1412,7 +1412,7 @@ invitation. They shall help him and be his deputies as they would be
 responsible for important functions of his government. Isa bin Maryam
 shall descend to the white minaret on the east of Damascus while an
 angel shall be on his right and another on his left and he shall meet
-His Eminence, Imam Mahdi (a.s).”<sup>[2]</sup>
+His Eminence, Imam Mahdi (a.s).”[2]
 
 Although numerous narrations prove the descent of His Eminence, Jesus
 Christ from the sky and also mention that Isa (a.s) shall pay the oath

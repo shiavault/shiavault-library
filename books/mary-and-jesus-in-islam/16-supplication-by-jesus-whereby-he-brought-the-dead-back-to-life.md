@@ -27,4 +27,3 @@ world the greatest of my concerns, and do not place me at the mercy of
 one who will have no mercy on me, O ever-Living One, O
 self-Sustaining!
 
-

@@ -26,4 +26,3 @@ with the founding of Shia religion.
 
 [^1]: Who believe in the divinity of Imam Ali (a.s.)
 
-

@@ -11,20 +11,15 @@ As Allah said, in the words of a believer among the people of Pharaoh,
 
 >
 
-<blockquote dir="rtl">
-  <p>
-وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ.
-فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ
-سُوءُ الْعَذَابِ
-  </p>
-</blockquote>
+> وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ.
+> فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ
+> سُوءُ الْعَذَابِ
 
 >
 
 ***"I entrust my affair to Allah, surely Allah sees the servants". So
 Allah protected him from the evil consequences of what they planned and
 the most evil punishment overtook Pharaoh's people.*** (40:44‑5)
-
 
 The Arabic word for entrustment (*tafwid*) consists of five letters,
 each letter having an injunction. He who heeds their commands brings the
@@ -36,5 +31,4 @@ and the *dad* of a conscience (*damir*) which is purely for Allah, and
 of the need (*darurah*) for Him. He who entrusts everything to Allah
 wakes up in the morning free of all evils, and at night sleeps protected
 in his faith.
-
 

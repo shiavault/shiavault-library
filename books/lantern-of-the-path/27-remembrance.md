@@ -44,5 +44,3 @@ whoever wants to remember Allah should know that as long as Allah does
 not remember the bondsman by granting him success in remembering Him,
 that bondsman will not be able to remember Him.
 
-
-

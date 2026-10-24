@@ -211,10 +211,8 @@ I offer my heart felt thanks. Indeed He is great, without a rival. There
 is none like Him. He is too exalted to have any equal or partner". Peace
 Unto Those Who Follow The Truth
 
-
 **END NOTES**
 
 [^1] The Spirit of Islam.
 [^2] Sahih Bukhari and Sahih Muslim
-
 

@@ -34,4 +34,3 @@ Allah's religion.
 Muhammad is Allah's Apostle, and those with him are firm of heart
 against the unbelievers, compassionate, among each other.
 
-

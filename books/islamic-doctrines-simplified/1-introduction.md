@@ -30,4 +30,3 @@ With Allah comes success.
 
 ***Al-Balagh Foundation***
 
-

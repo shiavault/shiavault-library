@@ -136,13 +136,12 @@ muslim a few weeks ago at the same mosque I attend. WSSU is also where I
 met brother Husayn Abdur Rafi who gave me the directions to the masjid.
 It is a small miraculous world, ***alhumdullilah*.**
 
-<span style="font-size: 12pt; font-weight: 700" lang="EN-GB"> Salamu
-alaikum wa rahamtullah wabarakatu</span>
+ Salamu
+alaikum wa rahamtullah wabarakatu
 
 Hasan
 
 **Holy Quran 17:81*****  
  And say: The truth has come and the falsehood has vanished; surely
 falsehood is a vanishing (thing).***
-
 

@@ -63,4 +63,3 @@ i
  (a.s) - Peace be upon him  
  (s.a) - Peace be upon her
 
-

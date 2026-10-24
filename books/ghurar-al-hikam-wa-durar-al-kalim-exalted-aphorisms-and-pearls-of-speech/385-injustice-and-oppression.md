@@ -7,31 +7,19 @@ Injustice And Oppression
 when you are powerful, [recall] the power of Allah over you.
 
 > 1ـ أُذْكُرْ عِنْدَ الظُّلْمِ عَدْلَ اللّهِ فيكَ، وعِنْدَ القُدْرَةِ
-<blockquote dir="rtl">
-  <p>
-قُدْرَةَ اللّهِ عَلَيْكَ.
-  </p>
-</blockquote>
+> قُدْرَةَ اللّهِ عَلَيْكَ.
 
 2. Beware of oppression, for verily it brings [divine] retribution,
 dispels blessings and causes changes in circumstances.
 
 > 2ـ اِتَّقُوا البَغْيَ فَإنَّهُ يَجْلِبُ النِّقَمَ،وَ يَسْلُبُ
-<blockquote dir="rtl">
-  <p>
-النِّعَمَ،وَ يُوجِبُ الغِيَرَ.
-  </p>
-</blockquote>
+> النِّعَمَ،وَ يُوجِبُ الغِيَرَ.
 
 3. Distance yourselves from injustice, for indeed it is the greatest of
 wrongdoings and the biggest of sins.
 
 > 3ـ أُبْعُدُوا عَنِ الظُّلْمِ، فَإنَّهُ أعْظَمُ الجَرائِمِ، وأكْبَرُ
-<blockquote dir="rtl">
-  <p>
-المَ آثِمِ.
-  </p>
-</blockquote>
+> المَ آثِمِ.
 
 4. Keep away from injustice for whoever acts unjustly, his days are
 abhorred.
@@ -42,53 +30,33 @@ abhorred.
 you oppress and will remain upon you.
 
 > 5ـ إيّاكَ والظُّلْمَ، فَإنَّهُ يَزُولُ عَمَّنْ تَظْلِمُهُ، ويَبْقى
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ.
-  </p>
-</blockquote>
+> عَلَيْكَ.
 
 6. Keep away from oppression, for verily it hastens one’s downfall and
 causes tears [of regret and sorrow] to flow from the one who acts upon
 it.[^1]
 
 > 6ـ إيّاكَ والبَغْيَ، فَإنَّهُ يُعَجِّلُ الصَّرْعَةَ، ويُحِلُّ
-<blockquote dir="rtl">
-  <p>
-بِالعامِلِ بِهِ العِبَـرَ.
-  </p>
-</blockquote>
+> بِالعامِلِ بِهِ العِبَـرَ.
 
 7. Keep away from injustice, for it is the biggest sin; and verily the
 unjust will surely be chastised on the Day of Resurrection because of
 his injustice.
 
 > 7ـ إيّاكَ والظُّلْمَ، فَإنَّهُ أكْبَرُ المعَاصي، وإنَّ الظّالِمَ
-<blockquote dir="rtl">
-  <p>
-لَمُعاقَبٌ يَوْمَ القِيمَةِ بِظُلْمِهِ.
-  </p>
-</blockquote>
+> لَمُعاقَبٌ يَوْمَ القِيمَةِ بِظُلْمِهِ.
 
 8. Keep away from oppression, for verily Allah hastens chastisement for
 the oppressor and sends down exemplary punishments upon him.
 
 > 8ـ إيّاكَ والبَغْيَ، فَإنَّ الباغِيَ يُعَجِّلُ اللّهُ لَهُ
-<blockquote dir="rtl">
-  <p>
-النِّقْمَةَ، ويُحِلُّ بِهِ المَثُلاتِ.
-  </p>
-</blockquote>
+> النِّقْمَةَ، ويُحِلُّ بِهِ المَثُلاتِ.
 
 9. Avoid the downfalls of transgression, the disgraces of deceit and the
 arousal of the latent, reprehensible evil.
 
 > 9ـ إيّاكُمْ وصَـرَعاتِ البَغْيِ، وفَضَحاتِ الغَدْرِ، وإثارَةَ كامِنِ
-<blockquote dir="rtl">
-  <p>
-الشَّـرِّ المُذَمِّمِ.
-  </p>
-</blockquote>
+> الشَّـرِّ المُذَمِّمِ.
 
 10. Know that injustice is of three kinds: the injustice that is not
 forgiven, the injustice that is not left [unquestioned], and the
@@ -104,18 +72,14 @@ of the people on one another. In this case the punishment is severe, not
 punishment in comparison to which all this seems small.
 
 > 10ـ ألا وإنَّ الظُّلْمَ ثَلاثَةٌ: فَظُلْمٌ لايُغْفَرُ، وظُلْمٌ
-<blockquote dir="rtl">
-  <p>
-لايُتْرَكُ، وظُلْمٌ مَغْفُورٌ لايُطْلَبُ، فَأمّا الظُّلْمُ الَّذي
-لايُغْفَرُ، فَالشِّـرْكُ باللّهِ لِقَوْلِهِ تَعالى: ﴿إنَّ اللّهَ
-لايَغْفِرُ أنْ يُشْرَكَ بِهِ ويَغْفِرُ مادُونَ ذلِكَ لِمَنْ يَشاءُ﴾
-وأمَّا الظُّلْمُ الَّذي يُغْفَرُ، فَظُلْمُ المَرْءِ لِنَفْسِهِ عِنْدَ
-بَعْضِ الهَناتِ، وأمَّا الظُّلْمُ الَّذي لايُتْـرَكُ، فَظُلْمُ
-العِبادِ بَعْضِهِمْ بَعْضاً، اَلعِقابُ هُنالِكَ شَديْدٌ لَيْسَ جَرْحاً
-بِالمُدى، وَلا ضَرْباً بِالسِّياطِ، ولكِنَّهُ ما يُسْتَصْغَرُ ذلِكَ
-مَعَهُ.
-  </p>
-</blockquote>
+> لايُتْرَكُ، وظُلْمٌ مَغْفُورٌ لايُطْلَبُ، فَأمّا الظُّلْمُ الَّذي
+> لايُغْفَرُ، فَالشِّـرْكُ باللّهِ لِقَوْلِهِ تَعالى: ﴿إنَّ اللّهَ
+> لايَغْفِرُ أنْ يُشْرَكَ بِهِ ويَغْفِرُ مادُونَ ذلِكَ لِمَنْ يَشاءُ﴾
+> وأمَّا الظُّلْمُ الَّذي يُغْفَرُ، فَظُلْمُ المَرْءِ لِنَفْسِهِ عِنْدَ
+> بَعْضِ الهَناتِ، وأمَّا الظُّلْمُ الَّذي لايُتْـرَكُ، فَظُلْمُ
+> العِبادِ بَعْضِهِمْ بَعْضاً، اَلعِقابُ هُنالِكَ شَديْدٌ لَيْسَ جَرْحاً
+> بِالمُدى، وَلا ضَرْباً بِالسِّياطِ، ولكِنَّهُ ما يُسْتَصْغَرُ ذلِكَ
+> مَعَهُ.
 
 11. The most loathsome of traits is aggression.
 
@@ -149,11 +113,7 @@ to him.
 oppression and ingratitude for blessings.
 
 > 17ـ أبْلَغُ ما تُسْتَجْلَبُ بِهِ النِّقْمَةُ اَلبَغْيُ، وكُفْرُ
-<blockquote dir="rtl">
-  <p>
-النِّعْمَةِ.
-  </p>
-</blockquote>
+> النِّعْمَةِ.
 
 18. Verily the evil that brings the quickest retribution is injustice.
 
@@ -247,12 +207,8 @@ what you have brought upon them will depart from them while it will
 remain with you.
 
 > 39ـ إذا حَدَتْكَ القُدْرَةُ عَلى ظُلْمِ النّاسِ فَاذْكُرْ قُدْرَةَ
-<blockquote dir="rtl">
-  <p>
-اللّهِ سُبْحانَهُ عَلى عُقُوبَتِكَ، وذَهابَ ما آتَيْتَ إلَيْهِمْ
-عَنْهُمْ، وبَقائَهُ عَلَيْكَ.
-  </p>
-</blockquote>
+> اللّهِ سُبْحانَهُ عَلى عُقُوبَتِكَ، وذَهابَ ما آتَيْتَ إلَيْهِمْ
+> عَنْهُمْ، وبَقائَهُ عَلَيْكَ.
 
 40. By injustice, blessings are removed.
 
@@ -280,11 +236,7 @@ chastisement.
 charity.
 
 > 45ـ داوُوا الجَوْرَ بِالعَدْلِ، وداوُوا الفَقْرَ بِالصَّدَقَةِ
-<blockquote dir="rtl">
-  <p>
-والبَذْلِ.
-  </p>
-</blockquote>
+> والبَذْلِ.
 
 46. The cornerstone of ignorance is oppression.
 
@@ -307,11 +259,7 @@ him.
 consequences: injustice and evil (or gluttony).
 
 > 50ـ شَيْئانِ لا تُسْلَمُ عاقِبَتُهُما: الظُّلْمُ، والشَّـرُّ
-<blockquote dir="rtl">
-  <p>
-(الشَّرَهُ).
-  </p>
-</blockquote>
+> (الشَّرَهُ).
 
 51. Counter oppression with justice.
 
@@ -348,11 +296,7 @@ wretchedness in the Hereafter.
 away the blessings from those who possess them.
 
 > 58ـ ظُلْمُ اليَتامى والأيامى يُنْزِلُ النِّقَمَ ويَسْلُبُ النِّعَمَ
-<blockquote dir="rtl">
-  <p>
-أهْلَها.
-  </p>
-</blockquote>
+> أهْلَها.
 
 59. In tyranny there is transgression.
 
@@ -380,11 +324,7 @@ and the hastening of chastisement than remaining steadfast upon
 injustice.
 
 > 64ـ لَيْسَ شَيْءٌ أدْعى إلى زَوالِ نِعْمَة، وتَعْجِيلِ نِقْمَة مِنْ
-<blockquote dir="rtl">
-  <p>
-إقامَة عَلى ظُلْم.
-  </p>
-</blockquote>
+> إقامَة عَلى ظُلْم.
 
 65. One who is praised for injustice is being plotted against [and
 deceived].
@@ -424,11 +364,7 @@ for indeed his striving only harms himself and benefits you; and it is
 not the reward of one who pleases you that you should offend him.
 
 > 72ـ لايَكْبـُرَنَّ عَلَيْكَ ظُلْمُ مَنْ ظَلَمَكَ فَإنَّهُ يَسْعى في
-<blockquote dir="rtl">
-  <p>
-مَضَرَّتِهِ ونَفْعِكَ، وَما جَزاءُ مَنْ يَسُـرُّكَ أنْ تَسُوءَهُ.
-  </p>
-</blockquote>
+> مَضَرَّتِهِ ونَفْعِكَ، وَما جَزاءُ مَنْ يَسُـرُّكَ أنْ تَسُوءَهُ.
 
 73. There is no evil like injustice.
 
@@ -461,11 +397,7 @@ under [the yoke of] oppression.
 nations.
 
 > 79ـ اَلظُّلْمُ يُزِلُّ القَدَمَ ويَسْلُبُ النِّعَمَ ويُهْلِكُ
-<blockquote dir="rtl">
-  <p>
-الأُمَمَ.
-  </p>
-</blockquote>
+> الأُمَمَ.
 
 80. Injustice in this world is ruination and in the Hereafter, [it is]
 destruction.
@@ -499,5 +431,4 @@ the fragrance of Paradise.
 
 [^1]: Or: ...it makes the [downfall of] one who acts upon it an example
 for others.
-
 

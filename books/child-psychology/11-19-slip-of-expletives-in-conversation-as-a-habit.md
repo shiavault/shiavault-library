@@ -85,7 +85,6 @@ roots as the boys grow up as adults. There will always be a price for
 the lack of a polished personality however high their station of life.
 The price is bigger if the station of life is low.
 
-
 **20- Foster Charitable Nature in the Child**
 
 A poor widow went to someone's house for a small financial aid. She was
@@ -206,5 +205,4 @@ periodically, all the context of benevolence and generosity. Such a
 relation often pays off handsomely in one's lifetime in this world also.
 Allah swt makes the relatives the cause or agency for the grant of His
 grace.
-
 

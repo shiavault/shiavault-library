@@ -384,12 +384,10 @@ that are presented by the Sunnis for the justification of their Ijtihad.
 
 The verse is from Sura Tawbah (Repentance) 9:122:
 
-<p dir="rtl">
 وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً فَلَوْلَا نَفَرَ مِنْ
 كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
 وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
 يَحْذَرُونَ
-</p>
 
 [Yusuf Ali] Nor should the Believers all go forth together: if a
 contingent from every expedition remained behind, they could devote
@@ -611,9 +609,7 @@ punishments of the hereafter if they were to indulge in bad deeds. For
 proof, I hereby refer you to the verse revealed for the day of
 ‘Be’that’:
 
-<p dir="rtl">
 وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
-</p>
 
 [Shakir 26:214] And warn your nearest relations,
 
@@ -653,9 +649,7 @@ religious laws (Shari’at) is both of the ‘Usools’ and ‘Fur’oos’ put
 together. This is because the belief never changed because from Adam
 (a.s.) to The Holy Prophet (s.a.w.) there was only one religion.
 
-<p dir="rtl">
 إِنَّ الدِّينَ عِندَ اللّهِ الإِسْلاَمُ
-</p>
 
 [Shakir 3:19] Surely the (true) religion with Allah is Islam,
 
@@ -667,13 +661,11 @@ to as ‘Deen’ and the combination of both the ‘Usools’ and ‘Fur’oos�
 been referred to as Shari’at. Religion has always been one whereas
 Shari’ats have been five as in the verse:
 
-<p dir="rtl">
 شَرَعَ لَكُم مِّنَ الدِّينِ مَا وَصَّى بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا
 إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَى وَعِيسَى أَنْ
 أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ كَبُرَ عَلَى الْمُشْرِكِينَ
 مَا تَدْعُوهُمْ إِلَيْهِ اللَّهُ يَجْتَبِي إِلَيْهِ مَن يَشَاء وَيَهْدِي
 إِلَيْهِ مَن يُنِيبُ
-</p>
 
 [Shakir 42:13] He has made plain to you of the religion what He enjoined
 upon Nuh and that which We have revealed to you and that which We
@@ -718,12 +710,10 @@ weight of evidence or proofs.
 
 The other verse that is used to prove Ijtihad is:
 
-<p dir="rtl">
 وَإِذَا جَاءهُمْ أَمْرٌ مِّنَ الأَمْنِ أَوِ الْخَوْفِ أَذَاعُواْ بِهِ
 وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الأَمْرِ مِنْهُمْ
 لَعَلِمَهُ الَّذِينَ يَسْتَنبِطُونَهُ مِنْهُمْ وَلَوْلاَ فَضْلُ اللّهِ
 عَلَيْكُمْ وَرَحْمَتُهُ لاَتَّبَعْتُمُ الشَّيْطَانَ إِلاَّ قَلِيلاً
-</p>
 
 [Shakir 4:83] And when there comes to them news of security or fear they
 spread it abroad; and if they had referred it to the Messenger and to
@@ -735,5 +725,4 @@ Shaitan save a few.
 I shall deal with this verse in the chapter of ‘Istambaat’ later on. In
 the next chapter I shall deal with the ‘Usool Fiqh’ (Principles of
 Jurisprudence) about which you have read earlier on.
-
 

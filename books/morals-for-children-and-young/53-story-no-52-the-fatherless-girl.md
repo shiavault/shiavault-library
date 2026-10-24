@@ -17,4 +17,3 @@ being orphans.
  From that day, the children of the street would never mention anything
 regarding ‘fathers’ to Pari and were more kind to her than ever.
 
-

@@ -87,4 +87,3 @@ great pride for him that the angels performed the ritual ablution
 al-Ghābah, vol. 3, p. 147; Ibn Hishām, Al-Sīrah al-Nabawiyyah [Trans.],
 vol. 2, p. 101; Tārīkh-e Payāmbar-e Islām, p. 328.
 
-

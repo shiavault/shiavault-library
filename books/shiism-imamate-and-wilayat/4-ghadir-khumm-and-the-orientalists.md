@@ -597,11 +597,7 @@ meaning of "master, leader"?
 Hassan ibn Thabit, the famous poet of the Prophet, composed a poem on
 the event of Ghadir Khumm on the same day. He says:
 
-<blockquote dir="rtl">
-  <p>
-فقال له قم يا علي فاننى رضيتك من بعدي اماما وهاديا
-  </p>
-</blockquote>
+> فقال له قم يا علي فاننى رضيتك من بعدي اماما وهاديا
 
 *He then said to him: "Stand up, O 'Ali, for* *I am pleased to make you
 Imam & Guide after me.*
@@ -669,44 +665,20 @@ heretical sect that emerged because of political circumstances of the
 early Islamic period. They demand to represent themselves instead of
 being represented by their adversaries.
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا أمير المؤمنين ، يا أمين الله في أرضه ، وسفيره في خلقه،
-وحجته البالغة على عباده .
-  </p>
-</blockquote>
+> السلام عليك يا أمير المؤمنين ، يا أمين الله في أرضه ، وسفيره في خلقه،
+> وحجته البالغة على عباده .
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا دين الله القويم ، وصراطه المستقيم .  
- السلام عليك أيها النبأ العظيم ، الذي هم فيه مختلفون ، وعنه
-  </p>
-</blockquote>
+> السلام عليك يا دين الله القويم ، وصراطه المستقيم .
+>  السلام عليك أيها النبأ العظيم ، الذي هم فيه مختلفون ، وعنه
 
-<blockquote dir="rtl">
-  <p>
-يسألون .
-  </p>
-</blockquote>
+> يسألون .
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ يَا أَمِيرَ الْمُؤْمِنِينَ أَنَّ الشَّاكَّ فِيكَ مَا آمَنَ
-بِالرَّسُولِ الْأَمِينِ‏
-  </p>
-</blockquote>
+> أَشْهَدُ يَا أَمِيرَ الْمُؤْمِنِينَ أَنَّ الشَّاكَّ فِيكَ مَا آمَنَ
+> بِالرَّسُولِ الْأَمِينِ‏
 
-<blockquote dir="rtl">
-  <p>
-وان العادل بك غيرك عائد عن ألدين القويم
-  </p>
-</blockquote>
+> وان العادل بك غيرك عائد عن ألدين القويم
 
-<blockquote dir="rtl">
-  <p>
-.الذي إرتضاه لنا رب العالمين واكمله بولايتك يوم الغدير
-  </p>
-</blockquote>
+> .الذي إرتضاه لنا رب العالمين واكمله بولايتك يوم الغدير
 
 Peace be upon you,
 
@@ -833,5 +805,4 @@ Rizvi, Imamate: the Vicegerency of the Prophet.
 [^29]: See an-Nasa'í, Khasa'is 'Ali bin Abi Talib, p. 92-93;
 at-Tirmidhi, Sahíh, vol. 5, p. 632 (hadíth \# 3712), and al-Jami'u
 's-Saghír.
-
 

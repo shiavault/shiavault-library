@@ -22,11 +22,7 @@ consulting the wise.
 the consequences is vulnerable to grave calamities.
 
 > 4ـ ألا وإنَّ مَنْ تَوَرَّطَ فِي الأُمُورِ مِنْ غَيْرِ نَظَر فِي
-<blockquote dir="rtl">
-  <p>
-العَواقِبِ فَقَدْ تَعَرَّضَ لِمُفْدِحاتِ النَّوائِبِ.
-  </p>
-</blockquote>
+> العَواقِبِ فَقَدْ تَعَرَّضَ لِمُفْدِحاتِ النَّوائِبِ.
 
 5. The root of determination is judiciousness, and its fruit is victory.
 
@@ -150,10 +146,5 @@ of judiciousness.
 being ready to travel [from this world to the next].
 
 > 32ـ مِنْ كَمالِ الحَزْمِ الاسْتِعْدادُ لِلنُّقْلَةِ، والتَّأَهُّبُ
-<blockquote dir="rtl">
-  <p>
-لِلرِّحْلَةِ.
-  </p>
-</blockquote>
-
+> لِلرِّحْلَةِ.
 

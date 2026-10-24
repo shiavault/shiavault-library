@@ -72,4 +72,3 @@ al-khayal al-munfasil
 The universal or Idea separated from the particulars and subsisting in
 the realm of (Platonic) Ideas-a view held by Plato and the Platonists.
 
-

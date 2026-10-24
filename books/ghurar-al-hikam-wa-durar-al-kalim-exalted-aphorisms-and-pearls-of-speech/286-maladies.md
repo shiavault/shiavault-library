@@ -19,4 +19,3 @@ originate.[^1]
 [^1]: Because when one is healthy, he tends to forget that he can fall
 sick and does or consumes things that make him sick.
 
-

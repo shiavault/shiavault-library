@@ -102,7 +102,6 @@ Even all Sunni scholars agreed that here 'hands' means power and
 strength. I should mention that the view of Shia is also different than
 Mu'tazalites who take God to the boundary of non-existence.
 
-
 **Can Allah Be Seen?**
 
 As a direct result of the above-mentioned difference, Sunni scholars
@@ -272,5 +271,4 @@ even to fulfill His promises of rewards. They go so far as to say, "Even
 if Allah wants to send the prophets in Hell, and Satan to Paradise, it
 is not against virtue, because there is no inherent demerit in any
 action."
-
 

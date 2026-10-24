@@ -163,4 +163,3 @@ Tr.
 book titled Al-Sahaba fi Nadar al-Shi\`a al-Imamiyya (the Prophet's
 companions as seen by Imamite Shi\`as).
 
-

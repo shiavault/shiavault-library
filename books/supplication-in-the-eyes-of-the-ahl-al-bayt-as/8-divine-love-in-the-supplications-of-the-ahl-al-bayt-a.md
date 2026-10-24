@@ -2667,4 +2667,3 @@ this world, and to subject this world to it.
 
 [^99]: Ibid, pg.85.
 
-

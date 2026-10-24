@@ -94,4 +94,3 @@ nerves.
 This flower shall ever remain reminding that a Mahdi is to come and what
 is taken will be returned.
 
-

@@ -428,38 +428,22 @@ Man feels repentant when he fails to detect the reasons or the results
 of free will-based actions, but not in actions that he has no free will
 in. As Jalal-addin Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 ايــنکه گويـی اين کنــم يا آن کنـم اين دليل اختيـار اسـت ای صنــــم
-</p>
 
-<p dir="rtl">
 يـک مثـال ای دل پی فـرقـی بيـــار تا بدانـــی جبـــر را از
 اختيـــــار
-</p>
 
-<p dir="rtl">
 دست کـآن لـرزان بـود از ارتعـــاش وآنکه دستی را تـــو لرزانی ز جـاش
-</p>
 
-<p dir="rtl">
 هر دو جنبـش آفـريـده حق شنــاس ليـک نتوان کــرد اين با آن قيــاس
-</p>
 
-<p dir="rtl">
 زآن پشيمانـــی کــه لرزانيـــديش چـون پشيمــان نيست مرد مرتعش
-</p>
 
-<p dir="rtl">
 مرتعــش را کی پشيـمان ديـده ای؟ بر چنيــن جبـری تو بر چسبيـده ای
-</p>
 
-<p dir="rtl">
 زاری ما شــــد دليـــل اضطـــرار خجلــت ما شـــد دليـل اختيــــار
-</p>
 
-<p dir="rtl">
 گر نبـودی اختيار، اين شرم چيست؟ وين دريغ و خجلت و آزرم چيست؟
-</p>
 
 *(You can say 'I'll do this and that' shows that you have free will, my
 dear one. Just make an example, and you'll see the difference between
@@ -525,5 +509,4 @@ their self has such supervision and dominance over their instincts that
 they need to other factor, even duty. Those who do not need to feel
 responsibility to rescue others' physical or spiritual lives, and
 sacrifice themselves to do so, are among this group.
-
 

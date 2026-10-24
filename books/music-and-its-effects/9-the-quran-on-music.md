@@ -85,4 +85,3 @@ Ahul ul Bait (a.s.).
 
 [^2]: Kafi; Wasael us Shia; Tafseer As-Safi.
 
-

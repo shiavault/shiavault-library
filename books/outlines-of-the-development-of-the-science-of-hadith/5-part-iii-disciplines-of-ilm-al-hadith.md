@@ -216,4 +216,3 @@ the authority of Abu Hurayrah:
 
 Know your genealogies, so as to fulfil your duties to your kin.[^6]
 
-

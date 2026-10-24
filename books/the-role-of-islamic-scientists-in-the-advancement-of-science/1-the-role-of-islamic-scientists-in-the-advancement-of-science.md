@@ -254,4 +254,3 @@ about the Prophet's battles.
 [^2]: Ansar were a group of Companions of the Prophet of Islam who
 welcomed him at Medina.
 
-

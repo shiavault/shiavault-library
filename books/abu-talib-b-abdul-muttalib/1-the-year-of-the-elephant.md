@@ -36,4 +36,3 @@ stones of baked clay.
 
 So, he rendered them like straw eaten up?
 
-

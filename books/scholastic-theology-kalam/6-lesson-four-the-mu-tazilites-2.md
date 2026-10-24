@@ -201,4 +201,3 @@ This view of the Mu’tazilites goes contrary to that of*Ahlul Hadith*
 that of the Kharijite, irrespective of the other differences between
 these schools of thought.
 
-

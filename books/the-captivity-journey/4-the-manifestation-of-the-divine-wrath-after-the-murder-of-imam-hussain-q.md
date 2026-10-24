@@ -15,4 +15,3 @@ stone lifted in Jerusalem, was ought to find thick blood under it, the
 blackening and crying of the sky, and other facts that no Muslim can
 deny.
 
-

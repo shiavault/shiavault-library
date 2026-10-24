@@ -283,4 +283,3 @@ Of course, in some Ziyarats of Imam Husain (a.s.) it is specifically
 mentioned that it should be recited facing towards Karbala. Such Ziyarat
 should be recited, accordingly, facing towards Karbala
 
-

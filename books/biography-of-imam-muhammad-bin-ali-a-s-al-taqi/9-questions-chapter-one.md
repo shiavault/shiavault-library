@@ -71,4 +71,3 @@ young age.
 
 (e) Imam Muhammad Taqi (A.S.) was brave,
 
-

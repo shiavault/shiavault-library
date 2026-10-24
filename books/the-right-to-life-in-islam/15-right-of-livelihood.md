@@ -20,14 +20,10 @@ distribution of wealth, facilities and financial resources of a society
 is prohibited. Quran explicitly opposes the concentration of a society's
 wealth (exclusive ownership of riches) in the hands of a few.
 
-<blockquote dir="rtl">
-  <p>
-مَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ
-مِنْكُمْ
-  </p>
-</blockquote>
+> مَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ
+> مِنْكُمْ
 
 ***And what Allah restored to His Messenger from the people of the
 towns - it is for Allah and for the Messenger and for [his] near
@@ -54,5 +50,4 @@ hoards some food for 40 days is apart from God and God detests him."[^2]
 [^1]: Wasa'il al-Shi'ah, Vol .2, P.425.
 
 [^2]: Tahdhib al-Ahkam, Vol. 6, P. 368.
-
 

@@ -34,7 +34,7 @@ do this to me? When I led the prayers, I thought that I was complying
 with the Prophet’s wish*.” Ibn Zam replied, *“The order was not from the
 Prophet. When I could not find Abu Bakr, I thought that you are the next
 best person to lead the prayers and therefore it was I who had asked you
-to lead the prayer.”***<sup><sup>[1]</sup></sup>**
+to lead the prayer.”***[1]**
 
 The above version is improved and amended by Husain Dayar Bakhti by
 substituting the words that the Prophet (s) told ibn Zam that he might

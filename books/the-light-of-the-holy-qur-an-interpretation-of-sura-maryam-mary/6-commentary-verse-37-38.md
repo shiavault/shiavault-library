@@ -73,7 +73,6 @@ effects of the deeds, remove the sleep of negligence from the eyes and
 the ears so that the blind-hearted ones will become aware and wise. But,
 what a pity! This awareness will be of no avail to them.
 
-
 **Commentary : Verse 39.40**
 
 39- وَأَنذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الاَمْرُ وَهُمْ فِى
@@ -147,5 +146,4 @@ shall be to Him and none will govern them but Allah. The verse says:
 
 " Verily We inherit the earth and all that are upon it and unto Us they
 shall be returned."
-
 

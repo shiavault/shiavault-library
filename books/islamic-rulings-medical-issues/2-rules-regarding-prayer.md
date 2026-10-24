@@ -113,4 +113,3 @@ hemorrhoids?
 Answer: One may perform the prayers with the blood from hemorrhoids,
 even if it is internal.
 
-

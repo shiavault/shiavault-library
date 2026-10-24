@@ -16,4 +16,3 @@ in Surah Ale Imran n.3, verse 37 of the Holy Qur’an.
 
 ***O Allah, bless Muhammad and his family.***
 
-

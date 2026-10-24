@@ -158,4 +158,3 @@ morality Mizan al-Hikmah, vol.3, p. 149.
 
 [^8]: Sirah al-Halbi, vol. 3, pp. 9, 68.
 
-

@@ -873,7 +873,6 @@ day when he was taken up into the heavens"?
 It is quite clear that the work of the Biblical School of Jerusalem
 flatly contradicts the Council's declaration.
 
-
 M. E. BOISMARD
 SYNOPSIS OF THE FOUR GOSPELS[^1]
 GENERAL DIAGRAM
@@ -1066,5 +1065,4 @@ All that modern textual criticism can do in this respect is to try and
 reconstitute "a text which has the most likelihood of coming near to the
 original. In any case, there can be no hope of going back to the
 original text itself." (Ecumenical Translation)
-
 

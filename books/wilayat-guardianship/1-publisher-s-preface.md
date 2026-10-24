@@ -54,4 +54,3 @@ contacted via email: skazmi.re@gmail.com For brevity's sake "peace be
 upon him and his progeny" has been omitted from wherever the names of
 the fourteen Infallibles have been mentioned but it is implied.
 
-

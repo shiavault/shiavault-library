@@ -197,8 +197,6 @@ maladies we have fought during many centuries. How wonderfully we were
 formerly protected against these maladies while we did not know any
 health matters![^1]
 
-
 [^1] Extracted from the book 'The Mystery of Man Creation', pages
 33-449
-
 

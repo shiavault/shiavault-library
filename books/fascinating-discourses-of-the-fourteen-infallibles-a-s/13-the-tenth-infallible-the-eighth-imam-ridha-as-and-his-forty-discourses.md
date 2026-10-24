@@ -33,17 +33,9 @@ time of his martyrdom.
 Forty Traditions from Imam Ridha’ (as)
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثا
-  </p>
-</blockquote>
+> اربعون حديثا
 
-<blockquote dir="rtl">
-  <p>
-عن الامام علي الرضا عليه السلام
-  </p>
-</blockquote>
+> عن الامام علي الرضا عليه السلام
 
 1. He who compares & likens Allah to his creations is a polytheist & the
 one who attributes something which has been forbidden for him is an
@@ -92,11 +84,7 @@ in the front & afore of it nor from it's back side. It has been
 descended (revealed) by Allah, the all wise, all praise worthy. [^5]
 
 > 5- ذَکَر الرَّضا (ع) يَوماً القُرآنَ فَعَظَّمَ الحُجَّةَ فيهِ
-<blockquote dir="rtl">
-  <p>
-وَالآيَةَ المُعجِزَةَ في نَظمِهِ، فَقالَ:
-  </p>
-</blockquote>
+> وَالآيَةَ المُعجِزَةَ في نَظمِهِ، فَقالَ:
 
 > هوَحَبلُ اللهِ المَتينُ، وَعُروَتُهُ الوُثقی،وَطريقَتُهُ المُثلی،
 > المُؤَدِّی اِلَی الجَنَّةِ، وَالمُنجِي مِنَ النّارِ ،لايخلق مِنَ
@@ -162,40 +150,28 @@ acquires three qualities: A way of Allah's treatment (sunnan Allah) a
 prophet's rule & a rule of his saint. However, the Allah's treatment is
 the concealing of his secret. Allah said
 
-<blockquote dir="rtl">
-  <p>
-عالم الغيب... فلا يظهر علی غيبه احدأ الا من ارتضی من رسول.
-  </p>
-</blockquote>
+> عالم الغيب... فلا يظهر علی غيبه احدأ الا من ارتضی من رسول.
 
 The knower of the unseen! So he does not reveal his secret to any.
 Except to him whom he chooses as an apostle.' Moreover, the Sunnah &
 rule of the Prophet (S) is conciliation with the people. So Allah
 commanded the Prophet (S) to conciliate with the masses saying.
 
-<blockquote dir="rtl">
-  <p>
-خذا العفو وامر بالمعروف
-  </p>
-</blockquote>
+> خذا العفو وامر بالمعروف
 
 Take to forgiveness & enjoin good.' Never the less, the rule of his
 saint is 'Exercising patience & endurance in (the times of) adversities
 poverty & apprehensions.' [^10]
 
 > 10- لا يَکُونُ المُؤمِنُ مُؤمِناً حَتّی يَکُونَ فيهِ ثَلاثُ خِصالٍ:
-<blockquote dir="rtl">
-  <p>
-سُنَّةٌ مِن رَبِّهِ وَسُنَّةٌ مِن نَبِيّهِ، وَسُنَّةٌ مِن وَلِيِّهِ
-فَأمَّا السُّنَّةُ مِن رَبِّهِ فَکِتمانُ سِرِّهِ، قالَ اللهُ
-عَزَّوَجَلَّ ( ( عالِمُ الغَيبِ فَلا يُظهِرُ عَلی غَيبِهِ أَحَداً\*
-اِلاّ مَنِ ارتَضی مِن رَسُولٍ)) وَاَمَّا السُّنَّةُ مِن نَبِيِّهِ
-فَمُداراةُ النّاسِ فَإِنَّ اللهَ عَزَّوَجَلَّ أَمرَ نَبِيَّهُ صَلَّی
-اللهُ عَلَيهِ وَالِهِ بِمُداراة النّاسِ، فَقالَ: ( (خُذِ العَفوَ
-وَأمُر بِالعُرفِ)) وَأَمَّا السُّنَّةُ مِن وَلِيِّهِ فَالصَّبرُ فِي
-البَأساءِ وَالضَّرَّاءِ.
-  </p>
-</blockquote>
+> سُنَّةٌ مِن رَبِّهِ وَسُنَّةٌ مِن نَبِيّهِ، وَسُنَّةٌ مِن وَلِيِّهِ
+> فَأمَّا السُّنَّةُ مِن رَبِّهِ فَکِتمانُ سِرِّهِ، قالَ اللهُ
+> عَزَّوَجَلَّ ( ( عالِمُ الغَيبِ فَلا يُظهِرُ عَلی غَيبِهِ أَحَداً\*
+> اِلاّ مَنِ ارتَضی مِن رَسُولٍ)) وَاَمَّا السُّنَّةُ مِن نَبِيِّهِ
+> فَمُداراةُ النّاسِ فَإِنَّ اللهَ عَزَّوَجَلَّ أَمرَ نَبِيَّهُ صَلَّی
+> اللهُ عَلَيهِ وَالِهِ بِمُداراة النّاسِ، فَقالَ: ( (خُذِ العَفوَ
+> وَأمُر بِالعُرفِ)) وَأَمَّا السُّنَّةُ مِن وَلِيِّهِ فَالصَّبرُ فِي
+> البَأساءِ وَالضَّرَّاءِ.
 
 > (اصول الکافی ج2 ص241)
 
@@ -308,13 +284,9 @@ granting them the beneficence’s to start with, without any of their
 rights.
 
 > 16- لَو لَم يَخُوِّفِ اللهُ النّاسَ بِجَنَّةٍ وَنارٍ لَکانَ الواجِبُ
-<blockquote dir="rtl">
-  <p>
-عَلَيهِم اَن يُطِيعُوهُ وَلا يَعصُوهُ لِتَفضُّلِهِ عَلَيهِم
-وَاِحسانِهِ اِلَيهِم، وَما بَدَأهُم بِهِ مِن انعامِهِ الذي ما
-استَحَقُّوهُ.
-  </p>
-</blockquote>
+> عَلَيهِم اَن يُطِيعُوهُ وَلا يَعصُوهُ لِتَفضُّلِهِ عَلَيهِم
+> وَاِحسانِهِ اِلَيهِم، وَما بَدَأهُم بِهِ مِن انعامِهِ الذي ما
+> استَحَقُّوهُ.
 
 > (بحارالانوار ج71 ص174)
 
@@ -426,11 +398,7 @@ trust worthiness & the liar does not have any manhood (forbearance).
 [^24]
 
 > 25- لَيسَ لِبَخيلٍ راحَةٌ. وَلا لِحَسُودٍ لَذَّةُ وَلا لِمُلُوکٍ
-<blockquote dir="rtl">
-  <p>
-وَفاءٌ، وَلا لِکَذُوبٍ مُرُوَّةُ.
-  </p>
-</blockquote>
+> وَفاءٌ، وَلا لِکَذُوبٍ مُرُوَّةُ.
 
 > (بحارالانوار ج78 ص345)
 
@@ -666,5 +634,4 @@ mentioned here instead of seven.
 [^38]: Mustadral Al Wasail Vol. 2, P 436
 
 [^39]: Bihar ul-Anwar Vol. 78, P 352
-
 

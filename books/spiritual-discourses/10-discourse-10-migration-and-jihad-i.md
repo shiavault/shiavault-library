@@ -497,4 +497,3 @@ a speedy recovery, our dead ones, salvation, accept our efforts in
 mourning for the Imam, guide Muslims and grant us salvation in this and
 the next worlds.
 
-

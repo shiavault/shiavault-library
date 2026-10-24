@@ -58,4 +58,3 @@ Edition. Qom: Maktab al-A'lām al-Islāmī, 1996.
 20. Wādih, Ahmad b. Abī Ya'qūb.*Tārīkh Ya'qūbī.* Beirut: Dār Sādir,
 1971.
 
-

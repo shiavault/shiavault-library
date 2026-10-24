@@ -1318,4 +1318,3 @@ are good examples.
 [^56]: Such material is found in several of his books, especially Hujjat
 Allah al. Balighah; an Urdu translation is available, Lahore, 1953.
 
-

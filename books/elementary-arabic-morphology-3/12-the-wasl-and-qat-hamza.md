@@ -25,4 +25,3 @@ forms. This is also the case in all aorist tense verbs. This *hamza* is
 sometimes added and sometimes not, is sometimes at the beginning of the
 verb, sometimes in the middle of it, and sometimes at the end of it.
 
-

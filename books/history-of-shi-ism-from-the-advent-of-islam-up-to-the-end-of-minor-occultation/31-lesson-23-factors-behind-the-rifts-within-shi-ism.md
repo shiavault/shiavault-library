@@ -495,4 +495,3 @@ Islamic Services, 1984). {Trans.}
 [^29]: Abu Muhammad ‘Ali ibn Ahmad ibn Sa‘id ibn Hazm al-Andalusi,
 Jumhazah Insab al-‘Arab, 1st edition (Beirut: n.p., 1403 AH), p. 63.
 
-

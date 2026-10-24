@@ -45,4 +45,3 @@ from al-Ibana by Abu’1-Hasan al-Ash’ari.
 
 [^2]: Ash Shaykh as-Saduq, Al-I’tiqadat.
 
-

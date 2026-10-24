@@ -1,13 +1,9 @@
 Relationship Between Prophet And His Household
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-يُؤلِمُني ما يُؤلِمُهُم وَ يُحزِنُني ما يُحزِنُهُم ، أَنَا حَربٌ لِمَن
-حارَبَهُم وَ سِلمٌ لِمَن سالَمَهُم وَ عَدوٌّ لِمَن عاداهُم وَ مُحِبٌّ
-لِمَن أَحَبَّهُم
-  </p>
-</blockquote>
+> يُؤلِمُني ما يُؤلِمُهُم وَ يُحزِنُني ما يُحزِنُهُم ، أَنَا حَربٌ لِمَن
+> حارَبَهُم وَ سِلمٌ لِمَن سالَمَهُم وَ عَدوٌّ لِمَن عاداهُم وَ مُحِبٌّ
+> لِمَن أَحَبَّهُم
 
 **Whatever causes them pain causes me pain too, and whatever saddens
 them saddens me too. I am at war against whoever wages war against them,
@@ -126,15 +122,11 @@ Now, let’s survey the Holy Qur’an to learn what the divine consequences
 are of those who fight the Prophet (SA). Allah (SWT) says in the
 following verse of Surat Al Ma’eda:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا جَزَاء الَّذِينَ يُحَارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ
-فِي الاْرْضِ فَسَادًا أَن يُقَتَّلُواْ أَوْ يُصَلَّبُواْ أَوْ
-تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلاف أَوْ يُنفَوْاْ مِنَ
-الاْرْضِ ذَلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا وَلَهُمْ فِي الآخِرَةِ
-عَذَابٌ عَظِيمٌ.
-  </p>
-</blockquote>
+> إِنَّمَا جَزَاء الَّذِينَ يُحَارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ
+> فِي الاْرْضِ فَسَادًا أَن يُقَتَّلُواْ أَوْ يُصَلَّبُواْ أَوْ
+> تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلاف أَوْ يُنفَوْاْ مِنَ
+> الاْرْضِ ذَلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا وَلَهُمْ فِي الآخِرَةِ
+> عَذَابٌ عَظِيمٌ.
 
 ***“The punishment of those who wage war against Allah and His messenger
 and strive to make mischief in the land is only this, that they should
@@ -167,5 +159,4 @@ Karbala against Imam Husain, slaughtered him and his companions and
 supported his opponents whether actively or passively? Surely those who
 committed transgression and oppression to the purified AhlulBayt (AS)
 will come to know what their fate will be.
-
 

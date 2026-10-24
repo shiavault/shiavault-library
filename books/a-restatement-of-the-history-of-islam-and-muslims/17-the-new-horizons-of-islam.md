@@ -90,4 +90,3 @@ the “anchor” on which the frail vessel of Islam came to rest at last,
 after being buffeted for thirteen years in the turbulent seas of
 paganism in Arabia.
 
-

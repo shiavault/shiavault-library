@@ -11,4 +11,3 @@ about the institution of marji'iyya and that of*wilayat al-faqih*
 (mandate of the jurist), including their requirements and
 responsibilities.
 
-

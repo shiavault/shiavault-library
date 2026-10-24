@@ -339,4 +339,3 @@ When the white is covered, one with such a heart never returns to
 excellence and goodness. Usul al-Kafi, vol. 3, p. 274, The Book of Faith
 and Infidelity, The Chapter on Sins, hadith 20.
 
-

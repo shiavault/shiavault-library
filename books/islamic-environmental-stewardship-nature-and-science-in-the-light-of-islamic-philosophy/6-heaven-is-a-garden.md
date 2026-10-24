@@ -25,4 +25,3 @@ righteous? These are just some of the many reasons of why humanity
 should treat well, love, admire and understand nature-our holy gift and
 friend.
 
-

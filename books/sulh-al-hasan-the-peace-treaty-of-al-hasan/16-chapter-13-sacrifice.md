@@ -1,8 +1,6 @@
 Chapter 13: Sacrifice
 =====================
 
-  
-
 Al-Hasan broke the record when he yielded to this nobility. For no one
 of great figures have done that. Al-Hasan was able to yield to that
 noble attitude through the Divine qualities such as strength, patience,
@@ -34,8 +32,6 @@ spread his fifth column in the core of Kufa and at the Camp of Imam
 al-Hasan. So the evil band seized the opportunity to achieve its aims in
 the life in this world through its desires, its ambitions, its harm, and
 its defects. In this way al-Hasan  
-
-  
 
 was able to hand over the authority to preserve his spiritual doctrines
 with glory, strength, wideness, greatness, and immortality.
@@ -77,8 +73,6 @@ To be quite frank with you about this matter, I (i.e., the author) say:
 Indeed, Imam al-Hasan took an attitude towards Mu'awiya as his father,
 the Commander of the faithful, peace be on him, did towards  
 
-  
-
 Abu Bakr and his two companions (i.e., 'Umar and 'Uthman). This was the
 meaning of the words of al-Hasan when his brother al Husayn, peace be on
 him, asked him: "What made you hand over the authority?" "The thing that
@@ -117,8 +111,6 @@ glorified for all people.
 
 In this way al-Hasan was victorious through his jihad, his patience, and
 his sacrifice. These three qualities are the mother of all virtues.
-
-  
 
 Also al-Hasan had other traits that were proofs for his greatness and
 his outstanding merits.
@@ -161,8 +153,6 @@ was able to uproot their blame. So al-Hasan affected his followers with
 his skillful proof, splendid purpose, and his genuine idea. Through the
 attitudes of their Imam al-Hasan, they remembered the  
 
-  
-
 attitudes of Prophets. Moreover, they collected his sayings as they
 collected the traditions of the Prophet, for they regarded them as the
 traditions of the Prophet.
@@ -197,8 +187,6 @@ meaning of wisdom was ambiguous for him till al-Khidr told him (about
 that), so Musa became satisfied? Such is I. You have become indignant
 with me because you have no knowledge of the meaning  
  of wisdom. Were it nor for what I have done, all my  
-
-  
 
 followers (Shi'a) on the surface of the earth would be killed."
 [[1]](#r1)
@@ -245,8 +233,6 @@ Such was al-Hasan as Allah created him. No one denies these
 
 [[1]](#n1) Al-Majlisi, Bihar al--Anwar, vol. 10, p. 101.
 
-  
-
 qualities of al-Hasan but the obstinate ignorant person or the
 discriminating enemy. His qualities during his time were ideal. He
 showed exemplary generosity in dealing with the people. His enemies and
@@ -290,8 +276,6 @@ However, if clemency and intellect is compared with a thing,
 [[3]](#n4) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 116. [[4]](#n5) Ibn
 Abu al-Hadid, Sharh Nahj al-Baligha, vol. 2, p. 101.
 
-  
-
 They would say (that) the thing was withered and perishable. [[1]](#r6)
 
 Yes, such was Mu'awiya while he was the mortal enemy of al-Hasan. As for
@@ -331,8 +315,6 @@ rites. These qualities of his did not match the qualities of Mu'awiya
 
 [[1]](#n6) Ibid. vol. 4, p. 73. [[2]](#n7) Ibid. vol. 4, pp. S and 18.
 [[3]](#n8) Al-Bayhaqi, al-Mahasin wa al-Masawi', vol. 1, p. 62.
-
-  
 
 and his companions. So he said to them: "By Allah, if the banu (sons of)
 Umayya ascribed to feebleness in speaking, I would refrain from
@@ -376,8 +358,6 @@ You are the son of the expelled homeless one, while he is the (grand)
 son of the holy Apostle of Allah, may Allah bless him and his family.
 However, you are looking for a knife to kill yourself"
 
-  
-
 Mu'awiya Scolded and provoked 'Amr b. al-'As. "His (i.e., al Hasan's)
 father stabbed you (with his sword), so you protected yourself with your
 testicles. For this reason, you are cautious of him (al-Hasan)."
@@ -414,8 +394,6 @@ and whose mother was Fatima, the chaste, and the mistress of the women
 of the worlds?" Then Mu'awiya said to 'Amru: "By Allah, if the Syrians
 heard about him (al Hasan), then evil shame would hit me." So 'Amr said:
 "He (i.e., al-Hasan) has retained you, but he  
-
-  
 
 ground Marwan and Ziyad as the quern grinds corn. He has trodden on them
 with his own foot as the expert monkey dealer does."
@@ -456,8 +434,6 @@ of nerves.
 'Abd Rabbih, al-'Iqd al-Farid, vol. 2, p. 323. Al-Majlisi, Bihar al
 Anwar, vol. 10, p. 116. Concerning these debates, see the book 'Nahj
 al-Balagha' by the author.
-
-  
 
 Worth mentioning, we will discuss aspects of Mu'awiya's cold war in the
 chapters that follow.
@@ -501,8 +477,6 @@ correctness of what the Imam did. For they knew that he carried out his
 religious obligations such as reforming the community, preventing their
 blood from shedding, and achieving their purposes.
 
-  
-
 In the chapter that follows, you will know that those who blamed
 al-Hasan for his attitude did not treat him with justice, and that the
 solution al-Hasan concluded to solve his last problems was the only
@@ -543,8 +517,6 @@ throne. This sacrifice is among the most wonderful signs of bravery if
 the people know.
 
 Therefore al-Hasan was not desirous of death nor was he afraid?
-
-  
 
 There was nothing in the criteria of al-Hasan but his doctrines. He
 thought that there was nothing like them. So he sacrificed his right to

@@ -4,12 +4,8 @@ Section 11: Jacob Goes to Yusuf
 Surah Yusuf – Verse 94
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنّي لأَجِدُ رِيحَ يُوسُفَ
-لَوْلآ أَن تُفَنّدُونِ
-  </p>
-</blockquote>
+> وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنّي لأَجِدُ رِيحَ يُوسُفَ
+> لَوْلآ أَن تُفَنّدُونِ
 
 ***94. “And when the caravan set out (from Egypt to Kan‘an), their
 father said: ‘Verily I perceive Yusuf’s scent, unless you think me
@@ -56,11 +52,7 @@ and place.”*
 Surah Yusuf – Verse 95
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلاَلِكَ الْقَدِيِمِ
-  </p>
-</blockquote>
+> قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلاَلِكَ الْقَدِيِمِ
 
 ***95. “They said: ‘By Allah! you are in your ancient error’.”***
 
@@ -95,13 +87,9 @@ a reflection in a mirror.
 Surah Yusuf – Verse 96
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَن جَآءَ الْبَشِيرُ أَلْقَاهُ عَلَي وَجْهِهِ فَارْتَدَّ
-بَصِيراً قَالَ أَلَمْ أَقُل لَّكُمْ اِنّي أَعْلَمُ مِنَ اللَّهِ مَا
-لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَلَمَّآ أَن جَآءَ الْبَشِيرُ أَلْقَاهُ عَلَي وَجْهِهِ فَارْتَدَّ
+> بَصِيراً قَالَ أَلَمْ أَقُل لَّكُمْ اِنّي أَعْلَمُ مِنَ اللَّهِ مَا
+> لاَ تَعْلَمُونَ
 
 ***96. “Then, when the bearer of the good news came, he cast it (the
 shirt) on his (Jacob’s) face and (forthwith) he regained his sight. He
@@ -153,12 +141,8 @@ over some other beings.
 Surah Yusuf – Verse 97
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَآ أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا
-خَاطِئِينَ
-  </p>
-</blockquote>
+> قَالُوا يَآ أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا
+> خَاطِئِينَ
 
 ***97. “They said: ‘O’ our father! Ask forgiveness of our sins for us,
 verily we were guilty’.”***
@@ -182,12 +166,8 @@ Allah to ask forgiveness of one’s sins.
 Surah Yusuf – Verse 98
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبّي إِنَّهُ هُوَ الْغَفُورُ
-الرَّحِيمُ
-  </p>
-</blockquote>
+> قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبّي إِنَّهُ هُوَ الْغَفُورُ
+> الرَّحِيمُ
 
 ***98. “He said: ‘Soon I will ask forgiveness for you from my Lord; He
 is the Forgiving, the Merciful’.”***
@@ -232,12 +212,8 @@ the Will of Allah.
 Surah Yusuf – Verse 99
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا دَخَلُوا عَلَي يُوسُفَ ءَاوَي إِلَيْهِ أَبَوَيْـهِ وَقَالَ
-ادْخُلُوا مِصْرَ إِن شَآءَ اللَّهُ ءَامِنِينَ
-  </p>
-</blockquote>
+> فَلَمَّا دَخَلُوا عَلَي يُوسُفَ ءَاوَي إِلَيْهِ أَبَوَيْـهِ وَقَالَ
+> ادْخُلُوا مِصْرَ إِن شَآءَ اللَّهُ ءَامِنِينَ
 
 ***99. “Then when they entered unto Yusuf, he lodged his parents with
 him and said: ‘Enter Egypt, Allah willing, (all) in security’.”***
@@ -325,16 +301,12 @@ cause us to be heedless of respecting our parents in any condition.
 Surah Yusuf – Verse 100
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعَ أَبَوَيْهِ عَلَي الْعَرْشِ وَخَرُّوا لَهُ سُجَّداً وَقَالَ
-يَآ أَبَتِ هَذَا تَأْوِيلُ رُؤْيايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبّي
-حَقّاً وَقَدْ أَحْسَنَ بِي إِذْ أَخْرَجَني مِنَ السّجْنِ وَجَآءَ بِكُم
-مّنَ الْبَدْوِ مِن بَعْدِ أَن نَّزَغَ الشَّيْطَانُ بَينِي وَبَيْنَ
-إِخْوَتِي إِنَّ رَبّي لَطِيفٌ لِمَا يَشَآءُ إِنَّهُ هُوَ الْعَلِيمُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> وَرَفَعَ أَبَوَيْهِ عَلَي الْعَرْشِ وَخَرُّوا لَهُ سُجَّداً وَقَالَ
+> يَآ أَبَتِ هَذَا تَأْوِيلُ رُؤْيايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبّي
+> حَقّاً وَقَدْ أَحْسَنَ بِي إِذْ أَخْرَجَني مِنَ السّجْنِ وَجَآءَ بِكُم
+> مّنَ الْبَدْوِ مِن بَعْدِ أَن نَّزَغَ الشَّيْطَانُ بَينِي وَبَيْنَ
+> إِخْوَتِي إِنَّ رَبّي لَطِيفٌ لِمَا يَشَآءُ إِنَّهُ هُوَ الْعَلِيمُ
+> الْحَكِيمُ
 
 ***100. “And he raised both his parents upon the throne, and they fell
 down prostrating before him, and he said: ‘O’ my father! This is the
@@ -426,14 +398,10 @@ Knowledge and Wisdom.
 Surah Yusuf – Verse 101
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ
-الْأَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي
-الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي
-بِالصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ
+> الْأَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي
+> الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي
+> بِالصَّالِحِينَ
 
 ***101. “O my Lord! You have given me to rule, and have taught me the
 interpretation of dreams. (O!) Originator of the heavens and the earth!
@@ -614,12 +582,8 @@ fact should not be overlooked without adequate justification.
 Surah Yusuf – Verse 102
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ مِنْ أَنْبَآءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ
-لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ
-  </p>
-</blockquote>
+> ذَلِكَ مِنْ أَنْبَآءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ
+> لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ
 
 ***102. “That is of the news of the Unseen (which) We reveal to you (O’
 Prophet); and you were not with them (the brothers of Joseph) when they
@@ -652,11 +616,7 @@ been free from additional matters and superstitions.
 Surah Yusuf – Verse 103
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَمَآ أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
 
 ***103. “And most people will not believe, though you desire it.”***
 
@@ -684,12 +644,8 @@ spite of the desist of the Prophet, most of them do not believe.
 Surah Yusuf – Verse 104
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلاَّ ذِكْرٌ
-لِلْعَالَمِين
-  </p>
-</blockquote>
+> وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلاَّ ذِكْرٌ
+> لِلْعَالَمِين
 
 ***104. “And you do not ask them for any reward for it; it (the Qur’an)
 is no other than a reminder for all mankind.”***
@@ -742,5 +698,4 @@ knowledge which exists in mind and one does not neglect it.
 [^3]: The Torah, Genesis, Chapter 35, No. 18 says: “And it came to pass,
 as her soul was in departing, (for she died) that she called his name
 Ben-oni: but his father called him Benjamin.
-
 

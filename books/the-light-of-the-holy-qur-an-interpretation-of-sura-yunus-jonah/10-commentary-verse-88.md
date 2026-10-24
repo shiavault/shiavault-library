@@ -39,7 +39,6 @@ have the slightest preparedness for accepting faith. The verse says:
 
 "... so they will not believe until they see the painful penalty'."
 
-
 **Commentary : Verse 89**
 
 (89) قالَ قَدْ أُجيبَتْ دَعْوَتُكُما فَاسْتَقيما وَ لا تَتَّبِعانِ
@@ -63,7 +62,6 @@ those who do not know. The verse continues saying:
 
 "... so stand straight and follow not the path of those who know not'.
 "
-
 
 **Commentary : Verse 90**
 
@@ -119,7 +117,6 @@ when one is caught in the jaws of death, is in fact a kind of "faith for
 emergencies", which every criminal claims when he is captured, and is of
 no value.
 
-
 **Commentary : Verse 91**
 
 (91) آلْآنَ وَ قَدْ عَصَيْتَ قَبْلُ وَ كُنْتَ مِنَ الْمُفْسِدينَ
@@ -139,7 +136,6 @@ been of the mischief- makers "
 
 At any rate, repenting while one is dying is of no benefit. One must
 repent while there is still a chance of life and of being saved.
-
 
 **Commentary : Verse 92**
 
@@ -174,5 +170,4 @@ Thaqalayn and As- S afi that Pharaoh was armoured from head to toe which
 must have pulled him down deep under the sea drowning him but the waves
 drove the heavy body ashore atop a lofty rock. This itself was a divine
 miracle.
-
 

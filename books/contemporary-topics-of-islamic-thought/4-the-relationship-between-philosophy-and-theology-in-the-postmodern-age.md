@@ -943,4 +943,3 @@ Significance of Postmodernism: A Rejoinder" in Faith and Philosophy 12:3
 [^32]: See the defense of atheistic skepticism by Paul Kurtz, The
 Transcendental Temptation (New York: Prometheus, 1986).
 
-

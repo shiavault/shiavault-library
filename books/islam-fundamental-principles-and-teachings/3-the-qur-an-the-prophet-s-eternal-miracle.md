@@ -368,4 +368,3 @@ decides to punish them all, but when He finds the old people going for
 prayer and the children learning the holy Qur’an, He then treats them
 with His mercy and postpones the punishment.”53
 
-

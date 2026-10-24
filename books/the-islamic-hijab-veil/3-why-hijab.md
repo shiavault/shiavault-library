@@ -374,4 +374,3 @@ Foundation quoting from a bulletin by Al-Iskanadariah University.
 
 [^6]: Ibid.
 
-

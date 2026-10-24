@@ -102,4 +102,3 @@ oppressors and those who make war.
 
 [^2]: Biharul Anwar; Vol. 52, Pg. 328
 
-

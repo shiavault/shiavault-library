@@ -226,4 +226,3 @@ al-Hudah, vol. 3, p. 493.
 
 [^18]: Shaykh as-Saduq, Khisal, p. 507.
 
-

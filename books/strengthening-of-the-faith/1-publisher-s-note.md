@@ -82,7 +82,6 @@ However, we have spared no effort in making Taqwiyat-ul-Iman more
 presentable and appealing to our readers. May Allah bless us with a
 guidance to be led on the Right Path. Amin.
 
-
 **PREFACE**
 
 Shah Muhammad Ismail {May Allah have mercy on him} the author of
@@ -237,7 +236,6 @@ practiced in the open without reserve and the blood of martyrdom was
 indenting its indelible imprints and inscribing its redoubtable saga in
 the annals of the world history."
 
-
 **The pilgrimage journey:**
 
 In Shawwal 1236 (July 1821 G), Saiyid Ahmad {May Allah have mercy on
@@ -288,5 +286,4 @@ After the completion of their Hajj and having visited all the sacred
 places, they came back in Sha'ban 1239 H (April 1824 G). During this
 journey, Shah Ismail {May Allah have mercy on him} was appointed as an
 Amir over a group of people traveling aboard one of the ships.
-
 

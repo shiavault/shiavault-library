@@ -248,12 +248,8 @@ His slaves must comply with His commands, for which they will be
 rewarded in the Hereafter. In this approach, the life of this world is a
 test, a trial in which God is the Examiner:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُمْ بِالشَّرِّ
-وَالْخَيْرِ فِتْنَةً ۖ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُمْ بِالشَّرِّ
+> وَالْخَيْرِ فِتْنَةً ۖ
 
 ***“Every soul shall taste death, and We will bring upon you good and
 ill by way of trial…”***[^2]
@@ -302,21 +298,13 @@ God, however, all things are immutable, and such relative concepts lose
 their meaning. The following two verses of the Qur’an speak to this
 truth:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
-فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
+> فَيَكُونُ
 
 ***“All His command, when He wills something, is to say to it “Be,” and
 it is…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
-  </p>
-</blockquote>
+> وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
 
 ***“Our command is but a single word, like the twinkling of an
 eye.”***[^4]
@@ -381,22 +369,14 @@ program—composed of doctrinal, spiritual, and practical elements—which
 God has formulated in accordance with the inherent needs of human
 nature, a truth to which the following Qur’anic verses attest:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ
 
 ***“O you who have faith! Answer God and the Apostle when he summons you
 to that which will give you life…”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا ۚ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا ۚ
 
 ***“So set your heart on the religion as a people of pure faith, the
 origination of God according to which He originated mankind…”***[^6]
@@ -507,5 +487,4 @@ higher perfection possible for Him to desire. [trans.]
 [^5]: Surah al-Anfal 8:24.
 
 [^6]: Surah al-Rum 30:30.
-
 

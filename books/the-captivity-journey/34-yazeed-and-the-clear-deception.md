@@ -32,4 +32,3 @@ instilling the predestination principle that the tyrants used to hold on
 to it to silence the voices of those who oppose them as well as the
 naïve people.
 
-

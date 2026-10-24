@@ -257,9 +257,7 @@ upon them, so that we may attain a happy and prosperous life in this
 world, and win an eternal and everlasting paradise, InSha’Allah [by the
 will of Allah Almighty] and Allah is the succeeding, the helper.
 
-
 o-o-o-o-O-o-o-o-o
 282 ‘ayniy – or individually – obligatory as opposed to kifa\>’i – or
 collectively – obligatory.
-
 

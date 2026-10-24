@@ -291,4 +291,3 @@ Mulla Hasan Kashmiri and also Maarife Ibn Qutaibah.
 
 [^5]: Both Quran and Ahlul Bayt were torn into pieces – Publisher.
 
-

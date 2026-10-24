@@ -298,7 +298,5 @@ Behold! Haven't I conveyed the Message of Allah to you?" People replied:
 - Tadhkirat al-Khawas al-Ummah, Sibt Ibn al-Jawzi al-Hanafi, pp 28-33 -
 al-Sirah al-Halabiyyah, by Noor al-Din al-Halabi, v3, p273
 
-
 End of part 1 of 3
-
 

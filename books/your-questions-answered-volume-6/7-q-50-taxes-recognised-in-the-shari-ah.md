@@ -192,4 +192,3 @@ A: It is not allowed, according to Ayatullah al-'Uzma Gulpaygani. As
 for Ayatullah al-'uzma as-Sistani, he says that Wudhu is not required
 after Ghusl-e-Janabah.
 
-

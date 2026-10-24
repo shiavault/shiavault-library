@@ -3,12 +3,8 @@ Preface by the Ahl al-Bayt (‘a) World Assembly
 
 The Holy Messenger of Allah (S)[^1] is reported to have said,
 
-<blockquote dir="rtl">
-  <p>
-أَقْرَبُ النَّاسِ مِنْ دَرَجَةِ النُّبُوَّةِ أَهْلُ الْعِلْمِ
-وَالْجِهَادِ.
-  </p>
-</blockquote>
+> أَقْرَبُ النَّاسِ مِنْ دَرَجَةِ النُّبُوَّةِ أَهْلُ الْعِلْمِ
+> وَالْجِهَادِ.
 
 *The people closest to the rank of Prophets are the people of knowledge
 and jihad (utmost endeavor).*[^2]
@@ -16,13 +12,9 @@ and jihad (utmost endeavor).*[^2]
 Imam ‘Ali Amir al-Mu'minin (the Commander of the Faithful) (‘a) is also
 reported as saying,
 
-<blockquote dir="rtl">
-  <p>
-اَلْعُلَمَاءُ بَاقُونَ مَا بَقِيَ الدَّهْرُ… أُولَئِكَ خُلَفَاءُ اللهِ
-فِي أَرْضِهِ وَالدُّعَاةُ إلَى دِينِهِ، آهٍ آهٍ شَوْقاً إلَى
-رُؤْيَتِهِمْ.
-  </p>
-</blockquote>
+> اَلْعُلَمَاءُ بَاقُونَ مَا بَقِيَ الدَّهْرُ… أُولَئِكَ خُلَفَاءُ اللهِ
+> فِي أَرْضِهِ وَالدُّعَاةُ إلَى دِينِهِ، آهٍ آهٍ شَوْقاً إلَى
+> رُؤْيَتِهِمْ.
 
 *The knowledgeable people are as endless as time. They are the
 representatives of Allah on the earth, and inviters to His religion. Oh!
@@ -94,12 +86,8 @@ oppression.
 
 A Hadith holds that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثٌ تَخْرِقُ الْحُجُبَ وَتَنْتَهِي إلَى مَا بَيْنَ يَدَيِ اللهِ:
-صَرِيرُ أَقْلاَمِ الْعُلَمَاءِ، وَوَطْءُ أَقْدَامِ الْمُجَاهِدِينَ…
-  </p>
-</blockquote>
+> ثَلاَثٌ تَخْرِقُ الْحُجُبَ وَتَنْتَهِي إلَى مَا بَيْنَ يَدَيِ اللهِ:
+> صَرِيرُ أَقْلاَمِ الْعُلَمَاءِ، وَوَطْءُ أَقْدَامِ الْمُجَاهِدِينَ…
 
 *Three things penetrate the Veils (of Divinity) and stand directly
 before Almighty Allah. These are the susurrations of the scholars’ pens,
@@ -239,5 +227,4 @@ Muhammad al-Sadiq, Musa ibn Ja’far al-Kazim, ‘Ali ibn Musa al-Ridha,
 Muhammad ibn ‘Ali al-Jawad, ‘Ali ibn Muhammad al-Hadi, al-Hasan ibn ‘Ali
 al-’Askari, and al-Mahdi the Awaited) are also among the Ahl al-Bayt
 (‘a).
-
 

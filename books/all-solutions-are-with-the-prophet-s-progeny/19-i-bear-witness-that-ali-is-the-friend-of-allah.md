@@ -326,4 +326,3 @@ traditions? On many occasions and situations, the Prophet (S) proved
 this virtue for them and they were preferred to the whole nation after
 the Prophet (S).
 
-

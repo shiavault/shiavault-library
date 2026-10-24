@@ -803,4 +803,3 @@ up bidding for good and forbidding from evil lest the mischievous gain
 positions over you, and then if you will pray, the prayers will not be
 granted."
 
-

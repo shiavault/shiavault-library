@@ -23,4 +23,3 @@ from this temporary life to the permanent, everlasting life. So, what
 should be done when one is confronted with it? This is the topic for our
 discussion.
 
-

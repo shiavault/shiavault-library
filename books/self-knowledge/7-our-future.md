@@ -34,4 +34,3 @@ the other verse we will be completely received by (1) and that sleeping
 is to some extent like death. These verses answer many questions about
 the resurrection, but they are not closely related to our discussion.
 
-

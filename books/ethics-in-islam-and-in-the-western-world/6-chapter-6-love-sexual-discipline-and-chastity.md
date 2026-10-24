@@ -374,16 +374,15 @@ a trivial impulse inclines to it, they get into the habit of
 dissociating sex from serious emotion and from feelings of affection;
 they may even come to associate it with feelings of hatred." [^5]
 
-[^1] Will Durant, The Pleasures of Philosophy, Simon and Schuster, Inc,
+[^1]: Will Durant, The Pleasures of Philosophy, Simon and Schuster, Inc,
 New York
 
-[^2] Bertrand Russell: Marriage and Morals, George Allen & Unwin Ltd.,
+[^2]: Bertrand Russell: Marriage and Morals, George Allen & Unwin Ltd.,
 London. Paperbacks Ed. 1976, p. 84
 
-[^3] Ibid, p. 49
+[^3]: Ibid, p. 49
 
-[^4] Ibid, p. 53-54
+[^4]: Ibid, p. 53-54
 
-[^5] Ibid, p. 38
-
+[^5]: Ibid, p. 38
 

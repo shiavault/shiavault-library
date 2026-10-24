@@ -765,4 +765,3 @@ selected from Mafatih al-Jinan, Zad ul-M'ad and Almanac p. 654 [Tr]
 
 [^7]: Haram: categorically forbidden by religious law [Tr].
 
-

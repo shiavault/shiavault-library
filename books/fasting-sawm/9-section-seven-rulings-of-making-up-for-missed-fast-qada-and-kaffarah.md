@@ -139,7 +139,6 @@ something else as well?
 A: The rule that applies to him is same as that for one who
 intentionally breaks the fast.
 
-
 **The Atonement for Fasting and it''s amount**
 
 17. Is it sufficient to give a needy person the money to buy the one
@@ -262,5 +261,4 @@ with the share of 60 would then be invalid.
 dead?
 
 A: Yes, it is permissible and it would be valid.
-
 

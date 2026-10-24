@@ -305,4 +305,3 @@ Saddam, the despotic ruler of Iraq did not allow this great scholar any
 further opportunity, and following a long period of detention by the
 authorities in Iraq, he was martyred on 23rd Jumadiul Awwal, 1400 A.H.
 
-

@@ -482,4 +482,3 @@ activities on the stage of history. Hence the choice of the supreme
 ideal by man as his ideal lays the strong foundation of his inner
 content. This shows the importance of the role of this fourth dimension.
 
-

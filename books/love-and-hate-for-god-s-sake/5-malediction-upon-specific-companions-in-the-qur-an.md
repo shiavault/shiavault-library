@@ -11,14 +11,10 @@ imprecated against.
 
 One such verse of the Qur’an is the following:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ وَ مَا
-جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لِلنَّاسِ وَ
-الشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ وَ نُخَوِّفُهُمْ فَمَا
-يَزِيدُهُمْ إِلاَّ طُغْيَاناً كَبِيراً
-  </p>
-</blockquote>
+> وَ إِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ وَ مَا
+> جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لِلنَّاسِ وَ
+> الشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ وَ نُخَوِّفُهُمْ فَمَا
+> يَزِيدُهُمْ إِلاَّ طُغْيَاناً كَبِيراً
 
 ***“When We said to you, ‘Indeed your Lord comprehends all humanity,’ We
 did not appoint the vision that We showed you except as a test for the
@@ -35,5 +31,4 @@ children of Marwan b. Hakam were one by one, ascending his pulpit
 [^1]: Al-Qurʾan, Suratul Israʾ (17), verse 60
 
 [^2]: Tafsir of Imam Fakhr ad-Din al-Razi, vol. 21, pg. 365
-
 

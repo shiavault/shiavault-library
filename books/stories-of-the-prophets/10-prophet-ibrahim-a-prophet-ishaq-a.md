@@ -186,4 +186,3 @@ prophets was a
 
 descendant of Ismail.
 
-

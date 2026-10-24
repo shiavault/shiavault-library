@@ -239,4 +239,3 @@ act corruptly. Because people look up to a nation´s leaders as role
 models, they should set a good example for people. "The best deed of a
 great man is to forgive and forget. " (30)
 
-

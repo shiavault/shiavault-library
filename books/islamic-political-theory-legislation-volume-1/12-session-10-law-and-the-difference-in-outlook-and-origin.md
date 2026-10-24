@@ -271,13 +271,9 @@ ultimate aim and goal, viz. the aspired perfection, and deviation from
 which will result in man’s fall, making him baser than any animal. The
 Qur’an also confirms the same fate, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَقَدْ خَلَقْنَا الإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ ٭ ثُمَّ
-رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ ٭ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا
-الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ﴾
-  </p>
-</blockquote>
+> ﴿لَقَدْ خَلَقْنَا الإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ ٭ ثُمَّ
+> رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ ٭ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ﴾
 
 ***“We certainly created man in the best of forms; then We relegated him
 to the lowest of low, except those who have faith and do righteous
@@ -313,11 +309,7 @@ soul. The observance of certain spiritual values and laws, guarantees
 the perfection, tranquility and wellbeing of man’s soul; otherwise, his
 soul gets sick. In this regard, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فِي قُلُوبِهِم مَرَضٌ فَزَادَهُمُ اللّهُ مَرَضاً...﴾
-  </p>
-</blockquote>
+> ﴿فِي قُلُوبِهِم مَرَضٌ فَزَادَهُمُ اللّهُ مَرَضاً...﴾
 
 ***“There is a sickness in their hearts; then Allah increases their
 sickness...”***[^4]
@@ -336,14 +328,10 @@ wants to attain felicity and nearness to God, he has to obey the
 commands of God. He should not follow his own desires, because following
 one’s carnal desires leads to misguidance and deviation from the truth:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
-عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
-بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّهِ أَفَلاَ
-تَذَكَّرُونَ﴾
-  </p>
-</blockquote>
+> ﴿أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
+> عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
+> بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّهِ أَفَلاَ
+> تَذَكَّرُونَ﴾
 
 ***“Have you seen him who has taken his desire to be his god and whom
 Allah has led astray knowingly, and set a seal upon his hearing and his
@@ -358,14 +346,10 @@ an instructive moral lesson for us all. Notwithstanding the gnostic
 station he acquired and being the most learned of his time, he
 experienced a fall and a fate about which God said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِيَ آتَيْنَاهُ آيَاتِنَا فَانسَلَخَ
-مِنْهَا فَأَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ ٭ ...
-فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ
-تَتْرُكْهُ يَلْهَث...﴾
-  </p>
-</blockquote>
+> ﴿وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِيَ آتَيْنَاهُ آيَاتِنَا فَانسَلَخَ
+> مِنْهَا فَأَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ ٭ ...
+> فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ
+> تَتْرُكْهُ يَلْهَث...﴾
 
 ***“Relate to them an account of him to whom We gave Our signs, but he
 cast them off. Thereupon Satan pursued him, and he became one of the
@@ -473,17 +457,9 @@ society yearns for security, no one should have the right to encroach
 upon the property and dignity of people; otherwise, his property and
 dignity will also be assaulted. It should not be that:
 
-<blockquote dir="rtl">
-  <p>
-ببرى مال مسلمان و چون مالت ببرند
-  </p>
-</blockquote>
+> ببرى مال مسلمان و چون مالت ببرند
 
-<blockquote dir="rtl">
-  <p>
-داد و فرياد برآرى كه مسلمانى نيست
-  </p>
-</blockquote>
+> داد و فرياد برآرى كه مسلمانى نيست
 
 *You take away Muslim property, but when they take yours,*  
 *Raise a hue and cry, “This is not a Muslim practice!”*
@@ -566,5 +542,4 @@ Surah al-A‘raf 7:175. [Trans.]
 [^7]: Surah al-A‘raf 7:175-176.
 
 [^8]: Surah al-Hujurat 49:12.
-
 

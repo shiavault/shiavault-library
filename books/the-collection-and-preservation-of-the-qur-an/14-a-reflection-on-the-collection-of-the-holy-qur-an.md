@@ -32,4 +32,3 @@ The answer to this is that the doubt becomes valid only if the reports
 about compilation of Qur'an are deemed credible. So, it is imperative
 that we mention those reports and analyse them critically.
 
-

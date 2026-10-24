@@ -3,12 +3,8 @@ Lesson One Hundred Sixteen: Simple Life And Cooperation In House-Keeping
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-كانَ عَلِىٌّ عَلَيْهِ السَّلامُ يَحْتَطِبُ وَ يَسْتَقِى وَيَكْنِسُ وَ
-كانَتْ فاطِمَةُ تَطْحَنُ وَ تَعْجِنُ وَ تَخْبِزُ!
-  </p>
-</blockquote>
+> كانَ عَلِىٌّ عَلَيْهِ السَّلامُ يَحْتَطِبُ وَ يَسْتَقِى وَيَكْنِسُ وَ
+> كانَتْ فاطِمَةُ تَطْحَنُ وَ تَعْجِنُ وَ تَخْبِزُ!
 
 Translation
 -----------
@@ -32,5 +28,4 @@ tranquility and peace have disappeared.
 [^1]: Safinat’ul-Bihar, volume 2, page 195. Al-Kafi, vol 5, page 86. Men
 La Yahthruhu Alfaqih, vol 3, page 169. Wasa'il Al-Shia, vol 17, page 40.
 Awali Al-Laali, vol 3, page 200.
-
 

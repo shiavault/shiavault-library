@@ -170,4 +170,3 @@ Islamic doctrine stresses the significance and eternity of the soul,
 which may result in the perpetuity of special buildings -such as tombs-
 which affects urban rules and regulations.
 
-

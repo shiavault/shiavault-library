@@ -2179,4 +2179,3 @@ to be a piece of Paradise.
 
 [^143]: Holy Qur’an, 48: 28.
 
-

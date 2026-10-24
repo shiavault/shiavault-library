@@ -1729,4 +1729,3 @@ massacre and torture of thousands of people in Iraq
 
 [^69]: Makhzan al-ëIrfan, Vol. 5, p. 279
 
-

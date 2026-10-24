@@ -54,13 +54,9 @@ Middle East. It was first built by Ibrahim, the ancestor of the
 prophets, and Isma'il, his son, and the Qur'an quotes them praying as
 they raised its walls:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
-وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ
-الْعَلِيمُ 
-  </p>
-</blockquote>
+> وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
+> وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ
+> الْعَلِيمُ
 
 And *when Ibrahim* and *Isma'il raised up the foundations* of *the House
 (*and *dedicated it, saying): \`Our Lord, accept* this *from us; Thou
@@ -130,5 +126,4 @@ rebuild it in the form as it stands to this day.
 
 The Prophet's Mosque
 --------------------
-
 

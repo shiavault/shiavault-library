@@ -18,11 +18,7 @@ During the ‘Age of Ignorance’, the majority of Arabs used to worship
 idols with the aim of gaining nearness to Allah through the intercession
 of their idols. The Holy Qur’an quotes them saying,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ما نَعبُدُهُم إِلاّ لِيقَرِّبُونا إِلَى اللهِ زُلفی ﴾
-  </p>
-</blockquote>
+> ﴿ ما نَعبُدُهُم إِلاّ لِيقَرِّبُونا إِلَى اللهِ زُلفی ﴾
 
 ***“We do not worship them save that they may make us nearer to
 Allah.”***[^1]
@@ -30,12 +26,8 @@ Allah.”***[^1]
 In spite of worshiping idols, they still believed in the creatorship of
 Allah. Allah says in the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَئِن سَأَلتَهُم مَن خَلَقَ السَّمَواتِ وَالأَرضَ وَسَخَّر
-الشَّمسَ وَالقَمَرَ لَيقُولَنَّ اللهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَئِن سَأَلتَهُم مَن خَلَقَ السَّمَواتِ وَالأَرضَ وَسَخَّر
+> الشَّمسَ وَالقَمَرَ لَيقُولَنَّ اللهُ ﴾
 
 ***“And if you ask them, ‘Who created the heavens and the earth and made
 the sun and the moon subservient’, they will certainly say,
@@ -74,11 +66,7 @@ more Majestic!” When he heard this, Abu Sufiyan personally answered, “We
 have (the idol) al-‘Uzza, whereas you have no ‘Uzza.” The Holy Prophet
 (S) ordered his followers to say,
 
-<blockquote dir="rtl">
-  <p>
-«الله مولانا ولا مولى لکم.»
-  </p>
-</blockquote>
+> «الله مولانا ولا مولى لکم.»
 
 ***“Allah is our Master and you have no master.”***[^8]
 
@@ -142,12 +130,8 @@ If you wish, I will fill the battleground with horsemen and footmen
 willing to fight for you!” However, Imam ‘Ali (as) withheld his hand and
 said,
 
-<blockquote dir="rtl">
-  <p>
-والله ما أردت بهذا الاّ الفتنة، وانّك والله طالب بغيت للاسلام شرّاً،
-لا حاجة لنا في نصحك.
-  </p>
-</blockquote>
+> والله ما أردت بهذا الاّ الفتنة، وانّك والله طالب بغيت للاسلام شرّاً،
+> لا حاجة لنا في نصحك.
 
 “I swear upon Allah! You intend nothing but sedition. I swear upon
 Allah! For a long time now, you have been looking for an opportunity to
@@ -242,12 +226,8 @@ Hadrat ‘Ali’s (as) viewpoint of Abu Sufiyan
 In one *hadith*, Amir al-Mu’minin ‘Ali (as) describes Mu‘awiyah and Abu
 Sufiyan in this way,
 
-<blockquote dir="rtl">
-  <p>
-معاوية طليق ابن طليق، حزب من هذه الاحزاب، لم يزل لله عزّ وجلّ ولرسوله
-وللمسلمين عدوّاً هو وابوه حتى دخلا في الاسلام کارهين.
-  </p>
-</blockquote>
+> معاوية طليق ابن طليق، حزب من هذه الاحزاب، لم يزل لله عزّ وجلّ ولرسوله
+> وللمسلمين عدوّاً هو وابوه حتى دخلا في الاسلام کارهين.
 
 “Mu‘awiyah is unrestrained. He is the son of one who was unrestrained,
 and he is a party of this party. He and his father have always been
@@ -265,22 +245,14 @@ It has been recounted that one day Abu Sufiyan was riding a horse and
 one of his offsprings (either Mu‘awiyah or Yazid) was in front and the
 other in back. When the Holy Prophet (S) saw them, he said,
 
-<blockquote dir="rtl">
-  <p>
-«اللهم العن الراکب والقائد والسائق.»
-  </p>
-</blockquote>
+> «اللهم العن الراکب والقائد والسائق.»
 
 “O Allah! Banish from your mercy the rider of this horse and those that
 are leading it.”[^22]
 
 In another letter to Mu‘awiyah, Amir al-Mu’minin (as) writes,
 
-<blockquote dir="rtl">
-  <p>
-«منّا النبي ومنکم المکذّب.»
-  </p>
-</blockquote>
+> «منّا النبي ومنکم المکذّب.»
 
 “The Prophet (S) is from us, and the denier of his prophethood is from
 you.”[^23]
@@ -291,12 +263,8 @@ to Abu Sufiyan ibn Harb, because Abu Sufiyan was one of the Prophet’s
 
 Addressing Mu‘awiyah, Imam al-Hasan al-Mujtaba (as) said,
 
-<blockquote dir="rtl">
-  <p>
-وانّک يا معاوية! واباک مِن المؤلّفة قلوبهم، تسرّون الکفر، وتظهرون
-الاسلام، وتستمالون بالاموال.
-  </p>
-</blockquote>
+> وانّک يا معاوية! واباک مِن المؤلّفة قلوبهم، تسرّون الکفر، وتظهرون
+> الاسلام، وتستمالون بالاموال.
 
 “Without doubt, you, Mu‘awiyah, and your father, are among the people
 who have used money from the Islamic public treasury for the sake of
@@ -359,5 +327,4 @@ sermon [khutbah] 83.
 [^23]: Ibn Abi al-Hadid, Sharh Nahj al-Balaghah, vol. 15, p. 196.
 
 [^24]: Ibid., vol. 6, pp. 288-289.
-
 

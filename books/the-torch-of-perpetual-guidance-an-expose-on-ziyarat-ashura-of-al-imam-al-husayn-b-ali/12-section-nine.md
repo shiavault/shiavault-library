@@ -1,12 +1,8 @@
 Section Nine
 ============
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبا عَبْدِ اللّهِ، إِنِّي سِلْمٌ لِمَنْ سالَمَكُمْ، وَحَرْبٌ
-لِمَنْ حارَبَكُمْ إِلى يَوْمِ الْقِيامَةِ
-  </p>
-</blockquote>
+> يَا أَبا عَبْدِ اللّهِ، إِنِّي سِلْمٌ لِمَنْ سالَمَكُمْ، وَحَرْبٌ
+> لِمَنْ حارَبَكُمْ إِلى يَوْمِ الْقِيامَةِ
 
 “O’ Aba ‘Abdillah! I am at peace with those who make peace with you and
 I am at war with those who make war with you until the Day of Judgment.”
@@ -36,5 +32,4 @@ all times, we need to keep ourselves politically aware of what is going
 on so that we are sure to always be supporting the oppressed and
 standing up to the oppressors. If this is not the case, then we have
 surely made a mockery of this Ziyarat and of the sacrifice of our Imam.
-
 

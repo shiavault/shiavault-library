@@ -3,12 +3,8 @@ Lesson Fifty Nine: You Are Always Being Watched
 
 Imam al-Jawad (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-إِعْلَمْ أَنَّكَ لَنْ تَخْلُو مِنْ عَيْنِ اللّهِ فَانْظُرْ كَيْفَ
-تَكُونُ
-  </p>
-</blockquote>
+> إِعْلَمْ أَنَّكَ لَنْ تَخْلُو مِنْ عَيْنِ اللّهِ فَانْظُرْ كَيْفَ
+> تَكُونُ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ manifestation of belief and can rectify some of the most complex social
 disorders.
 
 [^1]: Tuhaful Uqul
-
 

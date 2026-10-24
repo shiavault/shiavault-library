@@ -211,4 +211,3 @@ which are considered by the Sunni scholars to be authentic, indicating
 that 'Umar is higher than the great Messenger and the messengers who
 were before him.
 
-

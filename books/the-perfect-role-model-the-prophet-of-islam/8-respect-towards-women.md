@@ -49,4 +49,3 @@ of you toward my women."*[^3]
 
 [^3]: Muhajjah al-Baydha’, vol 3, p. 98.
 
-

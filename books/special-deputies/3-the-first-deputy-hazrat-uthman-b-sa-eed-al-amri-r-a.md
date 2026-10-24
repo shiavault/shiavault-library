@@ -136,12 +136,8 @@ is not always possible for me to be in direct contact with you. Under
 such circumstances, who should I contact and whose commands should I
 obey?’ Imam (a.s.) informed me,
 
-<blockquote dir="rtl">
-  <p>
-هٰذَا اَبُوْ عَمْرو الثِّقَةُ الْاَمينُ مٰا قَالَه لَكُم فَعَنّى
-يَقُولُهُ ، وَمٰا اَدّاهُ اِلَيْكُمْ فَعنّى يُوٴَدِّيْهِ
-  </p>
-</blockquote>
+> هٰذَا اَبُوْ عَمْرو الثِّقَةُ الْاَمينُ مٰا قَالَه لَكُم فَعَنّى
+> يَقُولُهُ ، وَمٰا اَدّاهُ اِلَيْكُمْ فَعنّى يُوٴَدِّيْهِ
 
 *‘This man Abu Amr (Hazrat ‘Uthman b. Sa’eed (r.a.)) is a reliable and
 trustworthy person. Whatever he relates to you is from my side. Whatever
@@ -158,13 +154,9 @@ After Imam Hadi’s (a.s.) martyrdom, Ahmed b. Ishaaq Qummi (r.a.) once
 again approached Imam Hasan al-Askari (a.s.) and repeated his previous
 query who responded thus:
 
-<blockquote dir="rtl">
-  <p>
-هٰذا ابوعَمرو الثقةُ الْاَمِيْنُ المَاضى وثقتِى فى المَحيَا
-وَالْمَمَاتِ فَمَا قَالَهُ لَكم فَعَنِّى يقُولُهُ وَمٰا اَدَّىٰ اليْكم
-فَعَنِّى يُوٴدِّيْهِ
-  </p>
-</blockquote>
+> هٰذا ابوعَمرو الثقةُ الْاَمِيْنُ المَاضى وثقتِى فى المَحيَا
+> وَالْمَمَاتِ فَمَا قَالَهُ لَكم فَعَنِّى يقُولُهُ وَمٰا اَدَّىٰ اليْكم
+> فَعَنِّى يُوٴدِّيْهِ
 
 *‘This man Abu Amr (Hazrat ‘Uthman b. Sa’eed (r.a.)) is a reliable and
 trustworthy person. He* *was dependable for the previous Imam and is
@@ -209,11 +201,7 @@ destroyed. After this meeting you shall never see him again until his
 appointed time. That is why take whatever news you get from ‘Uthman b.
 Sa’eed (r.a.).
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ خَلِيْفَةُ اِمَامِكُمْ وَالْاَمْرُ اِلَيْهِ
-  </p>
-</blockquote>
+> فَهُوَ خَلِيْفَةُ اِمَامِكُمْ وَالْاَمْرُ اِلَيْهِ
 
 *‘He is the deputy of your Imam and deputyship is for him alone.’*[^9]
 
@@ -225,12 +213,8 @@ Nishapouri, stating, ‘Don’t leave the city until you meet ‘Uthman b.
 Sa’eed (r.a.). Convey to him my salaam. He is trustworthy, pious and
 reliable and is most proximate to us.
 
-<blockquote dir="rtl">
-  <p>
-فكُلُّ مَايُحْمَلُ اِلَيْنَا مِنْ كُلِّ شَئٍى مِن النَّواحِى
-فَاِلَيْهِ يَصِيْرُ آخِرُ اَمْرِهِ لِيُوصِلَ ذٰلِكَ اِلَيْنَا
-  </p>
-</blockquote>
+> فكُلُّ مَايُحْمَلُ اِلَيْنَا مِنْ كُلِّ شَئٍى مِن النَّواحِى
+> فَاِلَيْهِ يَصِيْرُ آخِرُ اَمْرِهِ لِيُوصِلَ ذٰلِكَ اِلَيْنَا
 
 *‘All the wealth that is collected from various places for us, is first
 accumulated with ‘Uthman b. Sa’eed (r.a.) so that it reaches us
@@ -456,5 +440,4 @@ vol. 2, pg. 468
 [^16]: Bihar al-Anwar, vol. 51, pg. 347
 
 [^17]: Bihar al-Anwar, vol. 51, pg. 349
-
 

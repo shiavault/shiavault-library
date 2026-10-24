@@ -160,7 +160,6 @@ Zahri narrates from Imam al Sadiq (as) regarding this ayah, Imam (as)
 said, "This ayah was revealed for Ameerul Momineen (asws)." (Tafseer e
 Furat pg 27)
 
-
 **98. Sura al Bayyina (The Evidence)**
 
 1. ayah 7 "As for those who believe and do good surely they are the
@@ -187,5 +186,4 @@ Abu Abdullah narrates Imam Jafar Sadiq (as) said regarding this ayah,
 Jafar Sadiq (as) and Imam Reza (as) wrote in the tafseer of this ayah,
 "Religion (deen) is wilayat of Moula Ali (asws)." (Akmal ul Deen Bay
 Wilayat Ameerul Momineen (as) page no. 355)
-
 

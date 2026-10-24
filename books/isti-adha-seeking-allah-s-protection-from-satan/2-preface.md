@@ -57,4 +57,3 @@ Sayyid Muhammad Hashim Dastaghaib
 05-12-1360
 24-02-1982
 
-

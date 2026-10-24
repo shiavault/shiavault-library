@@ -167,4 +167,3 @@ al jihad”)
 al-Islami), for \`Abd Allah al-Sayyari's narration of words by someone
 from the Companions.
 
-

@@ -5,12 +5,8 @@ Calling to the worship (*‘ibādah*) of One and Only God and abandoning
 the worship of false deities is one of the most important objectives of
 all the prophets of God (*‘a*), as the Holy Qur’an thus says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ
-اللّهَ وَاجْتَنِبُواْ الطَّاغُوتَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ
+> اللّهَ وَاجْتَنِبُواْ الطَّاغُوتَ ﴾
 
 ***“Certainly We raised an apostle in every nation [to preach:] ‘Worship
 Allah, and keep away from the Rebel’.”***[^1]
@@ -43,12 +39,8 @@ examples of Qur’anic verses in this regard:
 1. *Sūrat al-Fātiḥah* first mentions the Lordship and Mastership of God
 and then declares that worship is exclusive to God alone:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ٭ الرَّحْمَنِ الرَّحِيمِ ٭
-مَالِكِ يَوْمِ الدِّينِ ٭ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴾
-  </p>
-</blockquote>
+> ﴿ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ٭ الرَّحْمَنِ الرَّحِيمِ ٭
+> مَالِكِ يَوْمِ الدِّينِ ٭ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴾
 
 ***“All praise belongs to Allah, the Lord of the Worlds,*** ***the
 All-beneficent, the All-merciful, Master of the Day of Retribution. You
@@ -57,12 +49,8 @@ All-beneficent, the All-merciful, Master of the Day of Retribution. You
 2. In a universal invitation, the human beings have been summoned to the
 worship of God who has created all the human beings:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ
-وَالَّذِينَ مِنْ قَبْلِكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ
+> وَالَّذِينَ مِنْ قَبْلِكُمْ ﴾
 
 ***“O mankind! Worship your Lord, who created you and those who were
 before you.”***[^3]
@@ -71,12 +59,8 @@ before you.”***[^3]
 (*ulūhiyyah*) is exclusive to God alone. For this reason, they must
 worship Him alone:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلا نُوحِي إِلَيْهِ
-أَنَّهُ لا إِلَهَ إِلا أَنَا فَاعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلا نُوحِي إِلَيْهِ
+> أَنَّهُ لا إِلَهَ إِلا أَنَا فَاعْبُدُونِ ﴾
 
 ***“We did not send any apostle before you but We revealed to him that
 ‘There is no god except Me; so worship Me.”***[^4]
@@ -85,12 +69,8 @@ worship Him alone:
 (*ulūhiyyah*) and Creatorship (*khāliqiyyah*) exclusively belong to God,
 all the human beings are invited to worship Him [alone]:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ذلِكُمُ اللّهُ رَبُّكُمْ لا إِلهَ إِلاّ هُوَ خالِقُ كُلِّ‏ِ شَيْ‏ءٍ
-فَاعْبُدُوهُ ﴾
-  </p>
-</blockquote>
+> ﴿ ذلِكُمُ اللّهُ رَبُّكُمْ لا إِلهَ إِلاّ هُوَ خالِقُ كُلِّ‏ِ شَيْ‏ءٍ
+> فَاعْبُدُوهُ ﴾
 
 ***“That is Allah, your Lord, there is no god except Him, the creator of
 all things; so worship Him.”***[^5]
@@ -98,12 +78,8 @@ all things; so worship Him.”***[^5]
 5. Addressing the Holy Prophet (*ṣ*), it is thus stated in another
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالأرْضِ وَإِلَيْهِ يُرْجَعُ الأمْرُ
-كُلَّهُ فَاعْبُدْهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالأرْضِ وَإِلَيْهِ يُرْجَعُ الأمْرُ
+> كُلَّهُ فَاعْبُدْهُ ﴾
 
 ***“To Allah belongs the Unseen of the heavens and the earth, and to Him
 all matters are returned. So worship Him.”***[^6]
@@ -111,41 +87,25 @@ all matters are returned. So worship Him.”***[^6]
 6. In many verses, the idol-worshippers have been reproached for
 worshipping objects which cannot give them neither harm nor benefit:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَمْلِكُ لَكُمْ ضَرًّا
-وَلا نَفْعًا ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَمْلِكُ لَكُمْ ضَرًّا
+> وَلا نَفْعًا ﴾
 
 ***“Say, ‘Do you worship, besides Allah, what has no power to bring***
 ***you any benefit or harm?”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَضُرُّهُمْ وَلا
-يَنْفَعُهُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَضُرُّهُمْ وَلا
+> يَنْفَعُهُمْ ﴾
 
 *“They worship besides Allah that which neither causes them any harm,
 not brings them any benefit.”*[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَمْلِكُ لَهُمْ رِزْقًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَمْلِكُ لَهُمْ رِزْقًا ﴾
 
 ***“They worship besides Allah what has no power to provide
 them.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لا يَمْلِكُونَ لَكُمْ
-رِزْقًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لا يَمْلِكُونَ لَكُمْ
+> رِزْقًا ﴾
 
 ***“Indeed those whom you worship besides Allah have no control over
 your provision.”***[^10]
@@ -303,12 +263,8 @@ idols and other deities and their motive behind those acts of worship
 was to seek proximity to God and winning the intercession of the deities
 before God, as declared by the Qur’an, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَضُرُّهُمْ وَلا
-يَنْفَعُهُمْ وَيَقُولُونَ هَؤُلاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لا يَضُرُّهُمْ وَلا
+> يَنْفَعُهُمْ وَيَقُولُونَ هَؤُلاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ ﴾
 
 ***“They worship besides Allah that which neither causes them any harm,
 not brings them any benefit, and they say, ‘These are our intercessors
@@ -316,12 +272,8 @@ with Allah.’”***[^16]
 
 And it also says, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ مَا نَعْبُدُهُمْ
-إِلا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ مَا نَعْبُدُهُمْ
+> إِلا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى ﴾
 
 ***“…and those who take guardians besides Him*** ***[claiming,] ‘We only
 worship them so that they may bring us near to Allah’.”***[^17]
@@ -371,12 +323,8 @@ of the manifestations of honoring the Divine sacraments (*sha‘ā’ir
 Allāh*), and the Qur’an regards it as an indication of the purity of
 hearts, saying thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ ‏ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ ‏ ﴾
 
 ***“And whoever venerates the sacraments of Allah—indeed that arises
 from God-wariness of hearts.”***[^19]
@@ -414,12 +362,8 @@ struggle in the way of God and in the way of *ṭāghūt*[^20] must have the
 same religious ruling, for they are the same outwardly and their only
 difference is in the intention or motive, as the Qur’an testifies, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالَّذِينَ
-كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالَّذِينَ
+> كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ ﴾
 
 ***“Those who have faith fight in the way of Allah, and those who are
 faithless fight in the way of the Rebel”***[^21]
@@ -511,5 +455,4 @@ who claims the prerogatives of divinity for himself either explicitly or
 implicitly. [Trans.]
 
 [^21]: Sūrat al-Nisā’ 4:76.
-
 

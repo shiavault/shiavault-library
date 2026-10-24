@@ -167,4 +167,3 @@ weight in the path of Allah.
 
 [^5]: Shaving the hair of the head.
 
-

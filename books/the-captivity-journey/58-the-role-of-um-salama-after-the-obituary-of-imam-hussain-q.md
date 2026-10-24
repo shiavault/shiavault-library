@@ -14,4 +14,3 @@ in expressing her stance, but she declared the mourning and wore the
 black clothes (a sign of grief) openly, in front of the general public
 and inside the Prophet’s mosque.
 
-

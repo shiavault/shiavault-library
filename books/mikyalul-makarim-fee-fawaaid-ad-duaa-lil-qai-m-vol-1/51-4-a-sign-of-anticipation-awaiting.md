@@ -6,4 +6,3 @@ a large number of traditional reports and in Part Eight of this book we
 would discuss its effects and peculiarities, if Allah the Almighty
 wills.
 
-

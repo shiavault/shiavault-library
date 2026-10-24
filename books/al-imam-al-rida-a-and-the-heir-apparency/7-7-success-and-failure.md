@@ -128,4 +128,3 @@ order to achieve his aim of being included in the nass formula so as to
 apply and regulate it himself, with the Imam as a representative of the
 political formula with which the existing government would be allied.
 
-

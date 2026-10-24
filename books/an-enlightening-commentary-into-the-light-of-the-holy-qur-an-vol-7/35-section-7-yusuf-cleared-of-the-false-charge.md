@@ -4,13 +4,9 @@ Section 7: Yusuf Cleared of the False Charge
 Surah Yusuf – Verse 50
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَلِكُ ائْتُونِي بِهِ فَلَمَّا جَآءَهُ الرَّسُولُ قَالَ
-ارْجِعْ إِلَي رَبّكَ فَسْأَلْهُ مَا بَالُ النّسْوَةِ اللاَّتِي
-قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبّي بِكَيْدِهِنَّ عَلِيمٌ
-  </p>
-</blockquote>
+> وَقَالَ الْمَلِكُ ائْتُونِي بِهِ فَلَمَّا جَآءَهُ الرَّسُولُ قَالَ
+> ارْجِعْ إِلَي رَبّكَ فَسْأَلْهُ مَا بَالُ النّسْوَةِ اللاَّتِي
+> قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبّي بِكَيْدِهِنَّ عَلِيمٌ
 
 ***50. “So the king said: ‘Bring him to me.’ Then, when the messenger
 came to him, he (Yusuf) said: ‘Go back unto your lord and ask him: What
@@ -87,14 +83,10 @@ Almighty as his Lord.
 Surah Yusuf – Verse 51
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِ قُلْنَ
-حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوءٍ قَالَتِ امْرَأَتُ
-الْعَزيِزِ الأَنَ حَصْحَصَ الْحَقُّ أَنَاْ رَاوَدتُّهُ عَن نَّفْسِهِ
-وَإِنَّهُ لَمِنَ الصَّادِقِينَ
-  </p>
-</blockquote>
+> قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِ قُلْنَ
+> حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوءٍ قَالَتِ امْرَأَتُ
+> الْعَزيِزِ الأَنَ حَصْحَصَ الْحَقُّ أَنَاْ رَاوَدتُّهُ عَن نَّفْسِهِ
+> وَإِنَّهُ لَمِنَ الصَّادِقِينَ
 
 ***51. “He (the king) said (to the women): ‘What was the matter with you
 women when you sought to seduce Yusuf from his (pure) self?’ They
@@ -165,12 +157,8 @@ testified to Yusuf’s innocence, she also accepted to confess.
 Surah Yusuf – Verse 52
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ لِيَعْلَمَ اَنِيّ لَمْ أَخُنْهُ بِالْغَيْبِ وَاَنَّ اللَّهَ لاَ
-يَهْدِي كَيْدَ الْخَآئِنِينَ
-  </p>
-</blockquote>
+> ذَلِكَ لِيَعْلَمَ اَنِيّ لَمْ أَخُنْهُ بِالْغَيْبِ وَاَنَّ اللَّهَ لاَ
+> يَهْدِي كَيْدَ الْخَآئِنِينَ
 
 ***52. “(Yusuf said): “That, so that he (the ‘Aziz) may know that I have
 not betrayed him in secret, and that Allah does not guide the device of
@@ -223,12 +211,8 @@ occurrences and events.
 Surah Yusuf – Verse 53
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ اُبَرّئُ نَفْسِي إِنَّ النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ
-مَا رَحِمَ رَبّي إِنَّ رَبّي غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَمَآ اُبَرّئُ نَفْسِي إِنَّ النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ
+> مَا رَحِمَ رَبّي إِنَّ رَبّي غَفُورٌ رَّحِيمٌ
 
 ***53. “And I do not absolve myself, verily the (human) soul enjoins to
 evil, save that whereon my Lord has mercy; verily my Lord is the
@@ -293,12 +277,8 @@ that he was not perfect by saying:
 Surah Yusuf – Verse 54
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي فَلَمَّا
-كَلَّمَهُ قَالَ إِنَّكَ اليَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
-  </p>
-</blockquote>
+> وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي فَلَمَّا
+> كَلَّمَهُ قَالَ إِنَّكَ اليَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
 
 ***54. “And the king said: ‘Bring him to me. I will attach him to my
 person.’ Then when he had spoken with him, he said: ‘Verily today you
@@ -373,11 +353,7 @@ entire public will be jeopardized.
 Surah Yusuf – Verse 55
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اجْعَلْنِي عَلَي خَزَآئِنِ الأَرْضِ إِنّي حَفِيظٌ عَلِيمٌ
-  </p>
-</blockquote>
+> قَالَ اجْعَلْنِي عَلَي خَزَآئِنِ الأَرْضِ إِنّي حَفِيظٌ عَلِيمٌ
 
 ***55. “He (Yusuf) said: ‘Set me over the storehouses of the land.
 Verily I am a knowing guardian’.”***
@@ -588,19 +564,11 @@ economize and preserve the share belonging to future generations.
 Surah Yusuf – Verses 56 - 57
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذلِكَ مَكَّنَّا لِيُوسُفَ فِي الأَرْضِ يَتَبَوَّاُ مِنْهَا حَيْثُ
-يَشَآءُ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلاَ نُضِيعُ أَجْرَ
-الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> وَكَذلِكَ مَكَّنَّا لِيُوسُفَ فِي الأَرْضِ يَتَبَوَّاُ مِنْهَا حَيْثُ
+> يَشَآءُ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلاَ نُضِيعُ أَجْرَ
+> الْمُـحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلأَجْرُ الأَخِرَةِ خَيْرٌ لِلَّذِينَ ءَامَنُوا وَكَانُوا يَتَّقُونَ
-  </p>
-</blockquote>
+> وَلأَجْرُ الأَخِرَةِ خَيْرٌ لِلَّذِينَ ءَامَنُوا وَكَانُوا يَتَّقُونَ
 
 ***56. “And thus did We give power to Yusuf in the land, to make his
 dwelling there wherever he wished. We reach with Our mercy on whomsoever
@@ -668,5 +636,4 @@ who believe and are constant in keeping from evil.”***
 [^13]: Surah Maryam, No. 19, verse 28.
 
 [^14]: Surah Nisa, No. 4, verse 95.
-
 

@@ -78,4 +78,3 @@ Station of the Master, trans. Yahya Cooper (Tehran: World Organization
 for Islamic Services, 1982); Master and Mastership,
 http://www.al-islam.org/mastership. (Trans.)
 
-

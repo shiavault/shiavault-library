@@ -134,4 +134,3 @@ program for 'the bawds of capitalism'.
 
 [^1]: Greer, Sex and Destiny, p. 219.
 
-

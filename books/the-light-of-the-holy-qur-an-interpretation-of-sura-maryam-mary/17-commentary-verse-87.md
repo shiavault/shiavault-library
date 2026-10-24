@@ -53,7 +53,6 @@ of Paradise and Hell.(3)
 3- Majma'-ul-Bayan
 4- The Commentary of Al-Mizan
 
-
 **Commentary : Verse 88**
 
 88- وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَداً
@@ -105,7 +104,6 @@ Then, the Qur'an, with a beating tone, says:
 However, the Arabic term /'idd/ originally means an ugly noise which is
 usually heard from a camel as a result of the sharp turning sound in its
 throat. Then it has been applied for the ugly and horrible deeds.
-
 
 **Commentary : Verse 90.91.92**
 
@@ -161,5 +159,4 @@ the duration of his seed; or he seeks for an assistant; or he is afraid
 of loneliness. But none of these concepts is meaningful about Allah.
 Neither His Power is limited; nor His life ends; nor any weakness or
 feebleness befalls Him, nor He feels loneliness and need.
-
 

@@ -69,4 +69,3 @@ the weather, but delaying until the next day is not permitted without
 any necessity. If a person delays Sa’y until the next day he/she has
 performed a sin but his/her Sa’y is not invalidated.
 
-

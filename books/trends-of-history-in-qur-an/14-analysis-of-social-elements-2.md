@@ -431,4 +431,3 @@ this basic contradiction all other contradictions will be resolved
 automatically. Though social contradictions are innumerable, they all
 amount to the exploitation of the weak by the strong.
 
-

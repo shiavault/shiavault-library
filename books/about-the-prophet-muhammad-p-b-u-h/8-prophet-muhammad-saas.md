@@ -210,4 +210,3 @@ to perform the Hajj (pilgrimage). He announced his intention to the
 Muslims in Madinah and the surrounding areas and asked them to join
 him.
 
-

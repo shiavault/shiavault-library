@@ -195,4 +195,3 @@ requests to present miracles?
 evidence for the true claim of prophecy, but how they are considered as
 the intellectual proof for such a claim.
 
-

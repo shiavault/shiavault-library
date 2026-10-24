@@ -636,4 +636,3 @@ unto his courts. But the King was sorrowful in his spirit and unquiet in
 his heart, and he could not cease from thinking of Saiawush, and he
 repented of that which he had done.
 
-

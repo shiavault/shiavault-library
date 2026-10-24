@@ -267,4 +267,3 @@ Muhammad, and giving him a burial, were duties that could best be left
 to the members of his own family. The members of his family mourned for
 him, and gave him a burial.
 
-

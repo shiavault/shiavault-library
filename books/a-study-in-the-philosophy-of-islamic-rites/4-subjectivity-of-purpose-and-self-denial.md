@@ -122,4 +122,3 @@ the ego: if it is for the sake of God and the servants of God. According
 to the degrees of self denial and the participation of God's servant in
 its making, a deed is elevated and highly evaluated.
 
-

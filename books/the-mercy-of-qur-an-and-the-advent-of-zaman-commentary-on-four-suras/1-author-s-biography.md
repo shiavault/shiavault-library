@@ -22,7 +22,6 @@ medical centers in Asia, Europe and South America. The American
 Institute of Qur'anic Studies at Bayt-ud-Deen, the U.S. base of Zahra
 Trust, was inaugurated in December, 1981.
 
-
 **Foreword**
 
 The Mercy of Qur'an and the Advent of Zaman is a commentary (tafsir) on
@@ -56,5 +55,4 @@ compels the reader to reflect the inter-connectedness in all facets.
 These four suras show the way to the knowledge of the one Creator and
 warn man as to his failure and injustice towards himself by not adhering
 to the path of love and submission.
-
 

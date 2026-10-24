@@ -65,4 +65,3 @@ Toronto, Canada
 [^1]: For more on the sources of Islamic laws, the reader may refer to
 my brief treatise, An Introduction to the Islamic Shari’ah (1992).
 
-

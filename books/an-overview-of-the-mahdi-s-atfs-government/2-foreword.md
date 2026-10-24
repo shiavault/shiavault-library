@@ -64,4 +64,3 @@ producing this work, especially the staff of the Translation Office.
 [^1]: Najmuddin Tabasi, Chashmandazi beh Hukumat-e Mahdi, 2nd ed., 4th
 printing (Qum: Bustan-e Kitab-e Qum, Summer 1382 AHS (2003), 224 pages.
 
-

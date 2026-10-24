@@ -608,4 +608,3 @@ These were the talks that solaced the heart of Imam Husayn (P) and
 these were the true sentiments of his staunch followers! And there is no
 power and strength save with Allah the Most High, the Grand.
 
-

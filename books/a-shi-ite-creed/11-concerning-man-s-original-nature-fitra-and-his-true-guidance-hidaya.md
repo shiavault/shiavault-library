@@ -86,4 +86,3 @@ Tawhid, 266 sqq., a tradition is related describing fitra as islam; this
 may be compared with the view of Nawawi, MC,44, and of the hadith,
 ibid., 215.
 
-

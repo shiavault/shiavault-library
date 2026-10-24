@@ -129,7 +129,6 @@ following gracious verse completely negates:
 [But Allah is the One who has created you and the material from which
 you make your gods] As Saffat v. 96.
 
-
 **The Origin of Gain (Al Kasb)**
 
 What we have mentioned above is the first origin to which (Al Shaikh Al
@@ -177,5 +176,4 @@ Hence each deed has two directions – never one -; these two directions
 belong to two different potencies, that of Allah the Sublime, and that
 of man. No Problem about this, for diversity of directions justifies the
 multiplication of potencies to which a deed pertains.
-
 

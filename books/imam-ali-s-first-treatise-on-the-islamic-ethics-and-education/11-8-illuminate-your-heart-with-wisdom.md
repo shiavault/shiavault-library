@@ -1,11 +1,7 @@
 8) Illuminate your heart with Wisdom
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-ونوره بالحكمة""
-  </p>
-</blockquote>
+> ونوره بالحكمة""
 
 Wisdom is a truth which is taught by all Prophets.[^1] This is
 especially true in the case of our Prophet (S) who has put wisdom on his
@@ -28,11 +24,7 @@ person’s heart: a heart with no wisdom is deprived of divine light:
 
 “Wisdom is the light of every heart”. [^2]
 
-<blockquote dir="rtl">
-  <p>
-""اِنَّ الحِكْمَةَ نُورُ كُلِّ قَلْب
-  </p>
-</blockquote>
+> ""اِنَّ الحِكْمَةَ نُورُ كُلِّ قَلْب
 
 It is for this very reason that Imam ‘Ali (as) orders his son to
 illuminate his heart with wisdom. With regards to the special role of
@@ -148,12 +140,8 @@ wisdom".
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ
-فُرْقَانًا"
-  </p>
-</blockquote>
+> "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ
+> فُرْقَانًا"
 
 ***"O you who believe! If you are careful of your duty to Allah, He will
 grant you a distinction."***[^28]
@@ -170,11 +158,7 @@ and knowledge.
 The cause and effect relation of God-wariness and wisdom may also be
 understood from the Prophet's statement:
 
-<blockquote dir="rtl">
-  <p>
-"جَاهِدُوا اَنفُسَكُم عَلى اَهوائِكُم تَحِلَّ قُلُوبَكُم الحِكْمَةُ"
-  </p>
-</blockquote>
+> "جَاهِدُوا اَنفُسَكُم عَلى اَهوائِكُم تَحِلَّ قُلُوبَكُم الحِكْمَةُ"
 
 *"Struggle against your whims and wishes so that wisdom may enter your
 hearts."*
@@ -215,11 +199,7 @@ from his heart to his tongue:
 
 Imam ‘Ali (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عِندَ تَحقُقِ الاِخلاَصِ تَستَنِيرُ البَصَائِرُ
-  </p>
-</blockquote>
+> عِندَ تَحقُقِ الاِخلاَصِ تَستَنِيرُ البَصَائِرُ
 
 *"When sincerity is achieved, insights become clearly apparent"*[^36]
 
@@ -234,24 +214,16 @@ become extinct and thought space become clear, the bride of reality
 manifests herself and man can get the truth and the springs of wisdom
 will flow from his heart towards his tongue. Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"لَولا اَنَّ الشَّياطِينَ يَحُومُونَ حَولَ قُلُوبِ بَنِي آدَمَ
-لَنَظَرُوا اِلى مَلَكُوتِ السَّمواتِ"
-  </p>
-</blockquote>
+> "لَولا اَنَّ الشَّياطِينَ يَحُومُونَ حَولَ قُلُوبِ بَنِي آدَمَ
+> لَنَظَرُوا اِلى مَلَكُوتِ السَّمواتِ"
 
 *"If the Satans did not hover above men's hearts, they would see the
 Heaven's kingdom"*[^38]
 
 Regarding this, the Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-"لَولا تَكْثِيرٌ في كَلامِكُم وَتَمرِيجٌ في قُلُوبِكُم لَرَأيتُم مَا
-أرَى وَسَمِعتُم مَا أسْمَعُ"
-  </p>
-</blockquote>
+> "لَولا تَكْثِيرٌ في كَلامِكُم وَتَمرِيجٌ في قُلُوبِكُم لَرَأيتُم مَا
+> أرَى وَسَمِعتُم مَا أسْمَعُ"
 
 *"If it were not for your excessive speech and the disorder in your
 hearts, you would see what I see and you would hear what I hear."*[^39]
@@ -302,69 +274,45 @@ or the person possessing it is not descent.
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"خُذ الحِكمَةَ اَنّى كَانَت فَاِنَّ الحِكْمَةَ ضَالَّةُ كُلِّ مُؤمِن"
-  </p>
-</blockquote>
+> "خُذ الحِكمَةَ اَنّى كَانَت فَاِنَّ الحِكْمَةَ ضَالَّةُ كُلِّ مُؤمِن"
 
 *"Take wisdom from wherever it may be, for wisdom is the lost property
 of every believer."*[^47]
 
 He has also said,
 
-<blockquote dir="rtl">
-  <p>
-"الحِكمَةُ ضَالَّةُ كُلِّ مُؤمِنٍ فَخُذْهَا وَلَو مِن اَفْوَاهِ
-المُنافِقِ"
-  </p>
-</blockquote>
+> "الحِكمَةُ ضَالَّةُ كُلِّ مُؤمِنٍ فَخُذْهَا وَلَو مِن اَفْوَاهِ
+> المُنافِقِ"
 
 *"Wisdom is the lost property of every believer; take it, even if it be
 from the mouths of hypocrites.”*[^48]
 
 He has said as well,
 
-<blockquote dir="rtl">
-  <p>
-"خُذ الحِكْمَةَ مِمَّن اَتاكَ بِهَا وَانظُر اِلى مَا قَالَ وَلا تَنظُر
-اِلى مَن قَالَ"
-  </p>
-</blockquote>
+> "خُذ الحِكْمَةَ مِمَّن اَتاكَ بِهَا وَانظُر اِلى مَا قَالَ وَلا تَنظُر
+> اِلى مَن قَالَ"
 
 *"Receive wisdom from anybody who offers it to you. Look at what one
 said, not at who said it."*[^49]
 
 He has, as well, said,
 
-<blockquote dir="rtl">
-  <p>
-"الحِكْمَةُ ضَالَّةُ المُؤمِن فَاطلبُوهَا وَلَو عِندَ المُشْرِكِ
-تَكُونُوا اَحَقَّ بِهَا وَاهلَهَا"
-  </p>
-</blockquote>
+> "الحِكْمَةُ ضَالَّةُ المُؤمِن فَاطلبُوهَا وَلَو عِندَ المُشْرِكِ
+> تَكُونُوا اَحَقَّ بِهَا وَاهلَهَا"
 
 *"Wisdom is the lost property of every believer; so seek it, even from
 the polytheist, for you are more entitled to it and worthy of it.”*[^50]
 
 The Prophet (S) has said,
 
-<blockquote dir="rtl">
-  <p>
-"الحِكْمَةُ ضَالَّةُ المُؤمِنِ فَحَيثُ وَجَدَها فَهُوَ اَحَقُّ بِها"
-  </p>
-</blockquote>
+> "الحِكْمَةُ ضَالَّةُ المُؤمِنِ فَحَيثُ وَجَدَها فَهُوَ اَحَقُّ بِها"
 
 *"Wisdom is the lost property of the believer. Wherever he can find it,
 he is more worthy of it".*[^51]
 
 > He also has said:
 
-<blockquote dir="rtl">
-  <p>
-"الحِكْمَةُ ضَالَّةُ المُؤمِنِ يَأخُذُهَا حَيثُ وَجَدَها"
-  </p>
-</blockquote>
+> "الحِكْمَةُ ضَالَّةُ المُؤمِنِ يَأخُذُهَا حَيثُ وَجَدَها"
 
 *"Wisdom is the lost property of the believer. He should take it
 wherever he finds it."*[^52]
@@ -422,30 +370,22 @@ wisdom. God named one of the Surahs of Qur’an after him. In that surah
 God put some of Luqman’s advice to his children. One of which is the
 following:
 
-<blockquote dir="rtl">
-  <p>
-"واِذ قال لقمانُ لإبنه وهو يَعِظُهُ يا بُنيَّ لا تُشرِك بالله اِنَّ
-الشِّركَ لظُلمٌ عَظِيم"
-  </p>
-</blockquote>
+> "واِذ قال لقمانُ لإبنه وهو يَعِظُهُ يا بُنيَّ لا تُشرِك بالله اِنَّ
+> الشِّركَ لظُلمٌ عَظِيم"
 
 ***“And when Luqman said to his son while he admonished him: O my son!
 do not associate aught with Allah; most surely polytheism is a grievous
 iniquity” [Qur’an 31:13]***
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ
-فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ
-بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ. يَا بُنَيَّ أَقِمِ
-الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ
-عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ. وَلَا
-تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ
-اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ. وَاقْصِدْ فِي مَشْيِكَ
-وَاغْضُضْ مِنْ صَوْتِكَ ۚ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ
-الْحَمِيرِ
-  </p>
-</blockquote>
+> يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ
+> فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ
+> بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ. يَا بُنَيَّ أَقِمِ
+> الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ
+> عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ. وَلَا
+> تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ
+> اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ. وَاقْصِدْ فِي مَشْيِكَ
+> وَاغْضُضْ مِنْ صَوْتِكَ ۚ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ
+> الْحَمِيرِ
 
 ***“O my son! Surely if it is the very weight of the grain of a
 mustard-seed, even though it is in (the heart of) rock, or (high above)
@@ -623,11 +563,7 @@ heart.
 Luqman's master asked: How can the heart and tongue be the best and the
 worst parts at the same time? He answered:
 
-<blockquote dir="rtl">
-  <p>
-"انَّهُمَا اَطيَبُ شَيئٍ اِذَا طَابَا وَاخبَثُ شَيئٍ اِذَا خَبُثا"
-  </p>
-</blockquote>
+> "انَّهُمَا اَطيَبُ شَيئٍ اِذَا طَابَا وَاخبَثُ شَيئٍ اِذَا خَبُثا"
 
 “They are the best if they are good, and they are the worst, if they are
 bad”.[^66]
@@ -834,5 +770,4 @@ vol.36, pp.256-260.
 [^69]: . Op.cit.
 
 [^70]: . Bihar, vol.13, p. 410.
-
 

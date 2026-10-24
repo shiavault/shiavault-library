@@ -52,13 +52,9 @@ in marriage to Ali (a.s.) in Medina.
 Fatimah (a.s.) gave birth to Hasan (a.s.) and Husain (a.s.). After the
 revelation of the verse,
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ
-وَنِسَاءَنَا وَنِسَاءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ
-فَنَجْعَل لَّعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ
+> وَنِسَاءَنَا وَنِسَاءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ
+> فَنَجْعَل لَّعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
 
 ***“Then say, come let us call our sons and your sons and our women and
 your women and ourselves and yourselves, then let us be earnest in
@@ -71,12 +67,8 @@ invocation of a curse) against the Christians of Najran.
 
 When the verse of purity,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Allah only desires to keep away the uncleanness from you, O people
 of the House and to purify you a (thorough) purification”***[^2]
@@ -98,25 +90,17 @@ Muhajirs and the Ansars) who would await the Prophet’s (S) arrival by
 standing in the rows of the congregational prayer, the Prophet (S) would
 stand on the threshold of her house and say,
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم يا أهل البيت! (إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
-عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا) الصلاة!
-الصلاة!
-  </p>
-</blockquote>
+> السلام عليكم يا أهل البيت! (إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
+> عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا) الصلاة!
+> الصلاة!
 
 After reading out this series of traditional prayers, the Prophet (S)
 would move towards his mehraab and then lead the congregational prayer.
 
 And with the revelation of the verse,
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
-إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+> إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ
 
 ***“Say: I do not ask of you any reward for it but love for my near
 kinsfolk” (Qur’an,26:23)***
@@ -126,23 +110,15 @@ kinsfolk.
 
 With the revelation of the verse,
 
-<blockquote dir="rtl">
-  <p>
-وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ
-  </p>
-</blockquote>
+> وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ
 
 “…***and give to the near ones their right***[^3]” the Prophet (S)
 donated Fadak to Fatimah (a.s.).
 
 After the revelation of the following verse in Ghadir al-Khum,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
-وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
+> وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ
 
 ***O Messenger, announce that which has been revealed to you from your
 Lord, and if you do not, then you have not conveyed His message.
@@ -151,11 +127,7 @@ Lord, and if you do not, then you have not conveyed His message.
 The Prophet (S) held Ali’s (a.s.) hand, and raising him high, he
 proclaimed,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَوْلاهُ فَهذا عَلِيٌّ مَوْلاهُ
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَوْلاهُ فَهذا عَلِيٌّ مَوْلاهُ
 
 The Holy Prophet (S) appointed Ali (a.s.) as his legatee in a very lucid
 manner.
@@ -258,23 +230,15 @@ Prophet’s hadith and *Sunnah*.
 
 \*\*\*\*\*
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن
-كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
-  </p>
-</blockquote>
+> لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن
+> كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
 
 ***“Certainly you have in the Apostle of Allah an excellent exemplar for
 him who hopes in Allah and the latter day and remembers Allah much “
 (Qur'an, 33: 21)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
-وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
+> وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 ***“And whatever the Apostle gives you, accept it and from whatever he
 forbids you, keep back and*** ***be careful of (your duty to) Allah:
@@ -355,12 +319,8 @@ successful. And as for your saying that the Quraish were reluctant to
 see the prophet hood and caliphate gather in our household, Allah says
 about the nation, which is reluctant as such:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنزَلَ
-اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنزَلَ
+> اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ
 
 ***“That is because they hated what Allah revealed, so He rendered their
 deeds null “ (Qur’an, 47:9)***
@@ -563,11 +523,7 @@ finally, they set the door of Fatimah’s house on fire - the house of the
 Prophet’s daughter. The very door besides which the Holy Prophet (S)
 would stand five times a day before his prayers and cry out,
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم يا أهل البيت..
-  </p>
-</blockquote>
+> السلام عليكم يا أهل البيت..
 
 And after reciting these words, he would return to the prayer-niche to
 establish the congregational prayer.
@@ -732,11 +688,7 @@ In reply, Fatimah (a.s.) said,
 .‘Have you intentionally set aside and forsaken Allah’s Book, wherein
 the Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-وَوَرِثَ سُلَيْمَانُ دَاوُودَ
-  </p>
-</blockquote>
+> وَوَرِثَ سُلَيْمَانُ دَاوُودَ
 
 ***“And Sulaiman was Dawoud’s heir” (Qur’an, 27:16)***
 
@@ -995,12 +947,8 @@ that it has labeled as unlawful. “[^14]
 Abu Bakr’s statement is contrary to the explicit text of the Quran,
 which declares,
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ
 
 ***“And We have revealed to you the Reminder that you may make clear to
 men what has been revealed to them “ (Qur’an, 16:44)***
@@ -1113,13 +1061,9 @@ The Prophet (S), through Islam, demolished this system by deeds and
 words. In this connection, the following verse was revealed to the
 Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى
-وَجَعَلْنَاكُمْ شُعُوباً وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى
+> وَجَعَلْنَاكُمْ شُعُوباً وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّهِ أَتْقَاكُمْ
 
 ***“O people! Surely We have created you of a male and a female, and
 made you tribes and families that you may know each other. Surely the
@@ -1401,22 +1345,14 @@ created hindrances, the names of those who were nearest to the Prophet
 Apart from these obvious queries, the newly converted Muslims had also
 come across Quranic verses like:
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى
-  </p>
-</blockquote>
+> قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى
 
 ***“Say: I do not ask of you any reward for it but love for my kinsfolk
 “ (Qur’an, 42: 23)***
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا
-وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ
-  </p>
-</blockquote>
+> فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا
+> وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ
 
 ***“Say: Come let us call our sons and your sons, our women and your
 women, and ourselves and yourselves.… (Qur’an, 3:61)***
@@ -1669,22 +1605,14 @@ was discussed in length in the topic on the Prophet’s (S) biography.
 
 Similarly, there was the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيراً
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيراً
 
 which applied to the Prophet, Ali, Fatimah, Hasan and Husain (a.s.). And
 the verse of “Mubahela “:
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا
-وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ
-  </p>
-</blockquote>
+> فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا
+> وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ
 
 ***“Say: Come let us call our sons and your sons, our women and your
 women, and ourselves and yourselves.… (Qur’an, 3:61)***
@@ -1694,11 +1622,7 @@ proved applicable only in the case of Ali, Fatimah, Hasan and Husain
 
 And in the verse:
 
-<blockquote dir="rtl">
-  <p>
-.« وَآتِ ذَا الْقُرْبَى حَقَّهُ »
-  </p>
-</blockquote>
+> .« وَآتِ ذَا الْقُرْبَى حَقَّهُ »
 
 ***and give to the near ones their right.. (Qur’an, 17:26)***
 
@@ -1812,15 +1736,11 @@ utterances.
 
 In yet another tradition, he says: When the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ . ثُمَّ
-جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ . ثُمَّ خَلَقْنَا
-النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا
-الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ
-خَلْقًا
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ . ثُمَّ
+> جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ . ثُمَّ خَلَقْنَا
+> النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا
+> الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ
+> خَلْقًا
 
 ***And certainly did We create man from an extract of clay.*** ***Then
 We placed him as a sperm-drop in a firm lodging. Then We made the
@@ -1831,22 +1751,14 @@ Quran, 23: 12- 14)***
 
 concerning man’s creation was revealed, I said:
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 ***Blessed be Allah, the best of the Creators. (Holy Quran, 23: 14)***
 
 Allah added my utterance after the verse: أَنشَأْنَاهُ خَلْقاً آخَر and
 the verse became:
 
-<blockquote dir="rtl">
-  <p>
-أَنشَأْنَاهُ خَلْقاً آخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> أَنشَأْنَاهُ خَلْقاً آخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 It was for this reason that the scholars belonging to the caliphate
 school said: In the Quran, one can find Umar’s utterances!
@@ -1891,11 +1803,7 @@ Besides, how did they permit Allah, the Almighty, and the Noble Quran,
 to be freely insulted by Umar’s statement that Allah accepted my words
 and entered in His Book my utterance:
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ""
-  </p>
-</blockquote>
+> فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ""
 
 What made the Prophet’s (S) companions be sitting ducks in the face of
 such outrage?
@@ -2189,11 +2097,7 @@ Allah and the Prophet’s (S) *Sunnah* were the only evidences of the
 Islamic ordinances. All the Islamic ordinances were revealed and
 perfected and Allah revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ
 
 ***“Today I have perfected your religion for you…”***
 
@@ -2745,5 +2649,4 @@ our times, when a noose is tied around his neck and then the person is
 hanged to death.
 
 [^55]: Behaarul Anwaar, vol. 42, p.121-133.
-
 

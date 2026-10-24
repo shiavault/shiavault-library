@@ -365,4 +365,3 @@ You’ll find it really impressing and worthwhile.
 of the Holy Qur'an are divided into Meccan (those revealed at Mecca) and
 Madanite (those revealed at al-Madinah).
 
-

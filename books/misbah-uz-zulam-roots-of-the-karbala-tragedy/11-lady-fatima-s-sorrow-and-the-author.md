@@ -17,4 +17,3 @@ in what way he would have erred. It is indeed his good luck that despite
 being full of errors and sins, he is saved from observing the grief of
 the Lady of Paradise. He cannot be more fortunate than this.
 
-

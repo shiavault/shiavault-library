@@ -50,4 +50,3 @@ The besieged got out of Abu Talib valley. Our Master Muhammad [s] and
 his companions began preaching Islam to the pilgrims of Allah's Holy
 House.
 
-

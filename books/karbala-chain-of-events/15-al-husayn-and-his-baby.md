@@ -25,4 +25,3 @@ and threw it upwards toward the sky, complaining to Allah (swt),
 "O' Allah, O' my Lord! My consolation is the fact that Thou in Thine
 Majesty are witnessing what I am going through."
 
-

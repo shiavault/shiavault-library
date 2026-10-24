@@ -259,4 +259,3 @@ besmear his record of deeds with lies.
 [^16]: These verses were composed by Sayyid Hayder al-Hilli, may Allah
 fill his mausoleum with light.
 
-

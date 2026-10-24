@@ -3,12 +3,8 @@
 
 Allah, the Mighty and the High says:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ
-  </p>
-</blockquote>
+> ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ
 
 ***“And whoever respects the signs of Allah, this surely is (the
 outcome) of the piety of hearts.” (Qur’an, Surah Hajj 22:32)***
@@ -25,5 +21,4 @@ important types. And among the types of paying respect is: Praying for
 His Eminence.
 
 [^1]: Majma al-Bayan, Vol. 7, Pg. 83
-
 

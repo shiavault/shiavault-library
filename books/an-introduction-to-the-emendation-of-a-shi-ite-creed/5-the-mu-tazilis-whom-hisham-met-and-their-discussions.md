@@ -766,4 +766,3 @@ Mir’atu 'l-‘uqul, vol.2, p.5.
 pp.232-3; Idahu'l-maknun, vol.1, p.476; Hadiyyatu 'l-‘arifin, vol.2,
 p.507; adh-Dhari‘ah, vol.8, p.254.
 
-

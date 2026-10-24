@@ -234,4 +234,3 @@ you should, and [see that] you die not but as Muslims [3:102]. (An
 excerpt from a lengthy speech delivered at the Mosque of the Prophet [at
 Medina] in defence of her right of inheritance).
 
-

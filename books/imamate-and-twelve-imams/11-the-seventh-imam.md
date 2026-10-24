@@ -15,4 +15,3 @@ transferred from one prison to another. Finally he died in Baghdad in
 the Sindi ibn Shahak prison through poisoning and was buried in the
 cemetery of the Quraysh which is now located in the city of Kazimayn.
 
-

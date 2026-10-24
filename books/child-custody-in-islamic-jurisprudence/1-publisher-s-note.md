@@ -82,4 +82,3 @@ high capacity of Islamic jurisprudence in solving children’s problems.
 
 **Islamic Research Foundation of Astan Quds Razavi**
 
-

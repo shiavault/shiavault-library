@@ -119,4 +119,3 @@ p. 114.
 [^7]: Tabarī, Ta’rīkh, vol. 4, p. 374; Ibn Athīr, Al-Kāmil fī
 al-Ta’rīkh, vol. 4, p. 114.
 
-

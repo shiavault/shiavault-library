@@ -61,4 +61,3 @@ Holy Prophet’s traditions. (See Ibn Sa\`d: al-Tabaqat al-Kubra 6:7, Ibn
 al-Dhahbiy: Tadhkirat al-Huffadh 1:7, al-Muttaqiy al-Hindiy: Kanz
 al-’Ummal 2:284:4017 and Sunan al-Darimiy 1:85)
 
-

@@ -90,13 +90,9 @@ leading him towards prosperity and salvation both in this world and the
 hereafter, tells us that social laws must be framed in accordance with
 human nature:
 
-<blockquote dir="rtl">
-  <p>
-… فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ
-لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ
-النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> … فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ
+> لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ
+> النَّاسِ لَا يَعْلَمُونَ
 
 ***..The nature made*** ***by*** ***Allah*** ***in*** ***which He has
 made men; there*** ***is*** ***no altering of Allah*** ***15 creation,
@@ -627,13 +623,9 @@ places no difference between her and the man as far as human virtues go.
 Islam maintains that salvation will be attained only through piety,
 virtue, knowledge and good deeds. As says the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
-أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ .. 
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
+> أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ..
 
 ***"Oh*** ***you men! surely We have created you of a male and a female,
 and made you tribes and families that you may know each other, surely
@@ -642,12 +634,8 @@ the most honourable of you with Allah is the one among you most careful
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ
-بَعْضُكُمْ مِنْ بَعْضٍ
-  </p>
-</blockquote>
+> أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ
+> بَعْضُكُمْ مِنْ بَعْضٍ
 
 ***"I will not waste the work of a worker among you, whether male or
 female, the one of you being from the other."(3:195)***
@@ -661,12 +649,8 @@ perfumes and had the Prophet as one of her clients. In Islam, the woman
 can also take pan in social activities in so far as her participation is
 consistent with chastity and virtue:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنْفُسِهِنَّ
-بِالْمَعْرُوفِ
-  </p>
-</blockquote>
+> فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنْفُسِهِنَّ
+> بِالْمَعْرُوفِ
 
 ***"There is no blame on you for what they do for themselves in a lawful
 manner," (2:234)***
@@ -749,12 +733,8 @@ religion of Islam considers family life to be of great significance. In
 Islam, the woman brings mental peace and happiness and the mutual
 affection between the couples is in accordance with the natural order.
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ..
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ..
 
 ***"And one of His signs is that He created mates for you from
 yourselves that you may find rest in them, and He put between you love
@@ -898,21 +878,13 @@ brothers, uncles and so on from seeing her physique. The woman outside
 the family environment must also not use make-up so as to attract the
 men and engage in coquetry in any way. As says the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
- وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ
-زِينَتَهُنَّ…
-  </p>
-</blockquote>
+>  وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ
+> زِينَتَهُنَّ…
 
 ***"And let them wear their head-coverings over their bosoms and not
 display their ornaments." (24:31)***
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ
-  </p>
-</blockquote>
+> فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ
 
 ***"Then be not soft in (your) speech, lest be in whose heart is a
 disease yearn," (33:32)***
@@ -945,17 +917,13 @@ pertaining to divorce, Allah­ e Compassionate strictly addresses men,
 giving them instructions, advices, admonitions and warning them not to
 misuse this right:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ
-بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ
-ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ
-ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ
-اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ
-وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ
-اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ
+> بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ
+> ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ
+> ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ
+> اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ
+> وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ
+> اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***"And when you divorce women and they reach their prescribed time,
 then either retain them in good fellowship or set them free with
@@ -1070,5 +1038,4 @@ excluded.
 [^2]: Of course, the woman is superior to the man in certain qualities,
 one of which is her power of resistance against certain diseases and
 ailments.
-
 

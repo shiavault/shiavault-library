@@ -770,4 +770,3 @@ dictators of the Umayyad and Abbasid caliphs.
 272.
 [^4] ‘Umdat al-Talib, p. 78.
 
-

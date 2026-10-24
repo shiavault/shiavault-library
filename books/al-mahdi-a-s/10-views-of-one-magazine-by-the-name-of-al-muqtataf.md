@@ -535,4 +535,3 @@ Narrator says: After this incident, he used to run like a deer and
 there was not a trace left. Ali-ibn-Isa says: I inquired this incident
 from Sayed Baaqi's son and he too admitted it.
 
-

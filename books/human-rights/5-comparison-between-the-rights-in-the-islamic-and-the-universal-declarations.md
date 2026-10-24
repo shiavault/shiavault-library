@@ -289,4 +289,3 @@ Comparison between the Rights in the Islamic and the Universal Declarations
 </tbody>
 </table>
 
-

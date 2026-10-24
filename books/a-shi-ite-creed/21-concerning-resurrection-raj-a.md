@@ -203,4 +203,3 @@ Sayyidna al-Khattab could be cited in refutation of both these
 doctrines. For details of these works, see W. Ivanow, Guide to Ismaili
 Literature, London, 1933.
 
-

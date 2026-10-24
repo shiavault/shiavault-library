@@ -24,7 +24,6 @@ revealed and prohibited the marriage with step mother.
 already passed; verily it is indecent and hateful and it is an evil
 way."
 
-
 **Section 4 : Women who may be taken in wedlock Commentary : Verse
 23**
 
@@ -156,7 +155,5 @@ reason. The verse says:
 "... And (it is forbidden to you) that you should have two sisters
 together (at the same time) , ..."
 
-
 This is The End of Part Two
-
 

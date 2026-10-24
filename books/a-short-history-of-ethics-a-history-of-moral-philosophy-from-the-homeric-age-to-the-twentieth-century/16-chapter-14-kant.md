@@ -323,4 +323,3 @@ social order much more than does the morality of those who recognize the
 impossibility of a code which does not to some extent as least express
 the wants and needs of men in particular social circumstances.
 
-

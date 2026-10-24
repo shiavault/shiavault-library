@@ -135,4 +135,3 @@ Ramadan, his fasting will become invalid (*batil*).
 
 [^3]: Ibid. p. 489-90.
 
-

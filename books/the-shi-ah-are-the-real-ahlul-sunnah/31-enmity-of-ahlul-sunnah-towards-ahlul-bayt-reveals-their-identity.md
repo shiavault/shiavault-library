@@ -211,4 +211,3 @@ discusses the biography of Ibn Jarir al-Tabari.
 [^10]: Ibn Kathir, Al-Bidaya wal Nihaya fil Fitan wal Malahim, Vol. 11,
 p. 275.
 
-

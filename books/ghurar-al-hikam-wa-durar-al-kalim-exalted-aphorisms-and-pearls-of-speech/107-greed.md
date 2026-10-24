@@ -27,11 +27,7 @@ Greed
 avenge your enemy by retaliation.
 
 > 6ـ إنْتَقِمْ مِنْ حِرْصِكَ بِالقُنُوعِ، كَما تَنْتَقِمُ مِنْ عَدُوِّكَ
-<blockquote dir="rtl">
-  <p>
-بِالقِصاصِ.
-  </p>
-</blockquote>
+> بِالقِصاصِ.
 
 7. Be cautious of greed, for its possessor is subject to humiliation and
 suffering.
@@ -100,11 +96,7 @@ sustenance.
 for you, so why do you debase yourself O wretched one?!
 
 > 22ـ إنَّكَ لَسْتَ بِسابِق أجَلَكَ، ولابِمَرْزُوقِ ما لَيْسَ لَكَ،
-<blockquote dir="rtl">
-  <p>
-فَلِما ذا تُشْقي نَفْسَكَ يا شَقِيُّ.
-  </p>
-</blockquote>
+> فَلِما ذا تُشْقي نَفْسَكَ يا شَقِيُّ.
 
 23. It is through greed that hardship comes about.
 
@@ -142,11 +134,7 @@ for you, so why do you debase yourself O wretched one?!
 based.
 
 > 31ـ عَلَى الشَّكِّ وقِلَّةِ الثِّقَةِ بِاللّهِ مَبْنَى الحِرْصِ
-<blockquote dir="rtl">
-  <p>
-والشُّحِّ.
-  </p>
-</blockquote>
+> والشُّحِّ.
 
 32. The slave of greed is eternally wretched.
 
@@ -173,21 +161,13 @@ allocated to you of your sustenance, [by this] you will protect your
 faith.
 
 > 37ـ قَصِّـرْ مِنْ حِرْصِكَ، وَقِفْ عِنْدَ المَقْدُورِ لَكَ مِنْ
-<blockquote dir="rtl">
-  <p>
-رِزْقِكَ، تُحْرِزْ دينَكَ.
-  </p>
-</blockquote>
+> رِزْقِكَ، تُحْرِزْ دينَكَ.
 
 38. How can there be relief from the suffering of greed for one who has
 not truly trusted [in Allah]?
 
 > 38ـ كَيْفَ يَتَخَلَّصُ مِنْ عَناءِ الحِرْصِ مَنْ لَمْ يَصْدُقْ
-<blockquote dir="rtl">
-  <p>
-تَوَكُّلُهُ؟!
-  </p>
-</blockquote>
+> تَوَكُّلُهُ؟!
 
 39. Too much greed makes its possessor miserable and abases him.
 
@@ -242,5 +222,4 @@ honour like stinginess.
 51. A little greed leads to a lot of cupidity.
 
 > 51ـ يَسيرُ الحِرْصِ يَحْمِلُ عَلى كَثيرِ الطَّمَعِ.
-
 

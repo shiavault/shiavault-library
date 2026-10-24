@@ -1168,4 +1168,3 @@ al-Simtayn, vol. 2 p. 242, et. Al.
 
 [^25]: Nahj al-Balagha (The Peak of Eloquence), saying \#426
 
-

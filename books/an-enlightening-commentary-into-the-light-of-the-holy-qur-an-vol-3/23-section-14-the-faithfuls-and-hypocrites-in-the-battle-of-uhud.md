@@ -4,15 +4,11 @@ Section 14: The Faithfuls and Hypocrites in the battle of 'Uhud
 Surah 'Ali-Imran, Verse 156
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَكُونُواْ كَالَّذِينَ كَفَرُواْ
-وَقَالُواْ لإِخْوَانِهِمْ إِذَا ضَرَبُواْ فِي الأَرْضِ أَوْ كَانُواْ
-غُزًّى لَّوْ كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجْعَلَ
-اللّهُ ذَلِكَ حَسْرَةً فِي قُلُوبِهِمْ وَاللّهُ يُحْيِـي وَيُمِيتُ
-وَاللّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَكُونُواْ كَالَّذِينَ كَفَرُواْ
+> وَقَالُواْ لإِخْوَانِهِمْ إِذَا ضَرَبُواْ فِي الأَرْضِ أَوْ كَانُواْ
+> غُزًّى لَّوْ كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجْعَلَ
+> اللّهُ ذَلِكَ حَسْرَةً فِي قُلُوبِهِمْ وَاللّهُ يُحْيِـي وَيُمِيتُ
+> وَاللّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 **156.** ***"O' you who have Faith! be not like those who disbelieved
 and said of their brethren when they travelled in the earth or engaged
@@ -41,12 +37,8 @@ your conditions, thoughts, and deeds.
 Surah 'Ali-Imran, Verse 157
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن قُتِلْتُمْ فِي سَبِيلِ اللّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِّنَ
-اللّهِ وَرَحْمَةٌ خَيْرٌ مِّمَّا يَجْمَعُونَ
-  </p>
-</blockquote>
+> وَلَئِن قُتِلْتُمْ فِي سَبِيلِ اللّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِّنَ
+> اللّهِ وَرَحْمَةٌ خَيْرٌ مِّمَّا يَجْمَعُونَ
 
 **157.** ***"And if you be killed in the way of Allah or you die, surely
 forgiveness and mercy from Allah are far better than all that they
@@ -67,11 +59,7 @@ amass."***
 Surah 'Ali-Imran, Verse 158
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لإِلَى الله تُحْشَرُونَ
-  </p>
-</blockquote>
+> وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لإِلَى الله تُحْشَرُونَ
 
 **158.** ***"And if you die or be killed, certainly to Allah shall you
 be gathered together."***
@@ -94,14 +82,10 @@ of Allah with sword is the best death."*[^1]
 Surah 'Ali-Imran, Verse 159
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِّنَ اللّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ
-الْقَلْبِ لاَنفَضُّواْ مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ
-لَهُمْ وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى
-اللّهِ إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِّنَ اللّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ
+> الْقَلْبِ لاَنفَضُّواْ مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ
+> لَهُمْ وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى
+> اللّهِ إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ
 
 **159.** ***"Thus, it is due to the mercy from Allah that you have been
 lenient with them, and had you been rough, hard hearted, they would
@@ -168,13 +152,9 @@ while in another occasion intensity and severity is necessary:
 Surah 'Ali-Imran, Verse 160
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن
-ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكِّلِ
-الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِن يَنصُرْكُمُ اللّهُ فَلاَ غَالِبَ لَكُمْ وَإِن يَخْذُلْكُمْ فَمَن
+> ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ وَعَلَى اللّهِ فَلْيَتَوَكِّلِ
+> الْمُؤْمِنُونَ
 
 **160.** ***"If Allah helps you, none can overcome you. But, if He
 forsakes you, who if there then that can help you after that? And on
@@ -210,13 +190,9 @@ believers rely."***
 Surah 'Ali-Imran, Verse 161
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ
-يَوْمَ الْقِيَامَةِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ
-لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ
+> يَوْمَ الْقِيَامَةِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ
+> لاَ يُظْلَمُونَ
 
 **161.** ***"And it is not for any prophet to defraud and whoever
 defrauds shall bring along what he has defrauded on the Day of
@@ -291,12 +267,8 @@ the Day of Resurrection"***
 Surah 'Ali-Imran, Verse 162
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنِ اتَّبَعَ رِضْوَانَ اللّهِ كَمَن بَاء بِسَخْطٍ مِّنَ اللّهِ
-وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
-  </p>
-</blockquote>
+> أَفَمَنِ اتَّبَعَ رِضْوَانَ اللّهِ كَمَن بَاء بِسَخْطٍ مِّنَ اللّهِ
+> وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
 
 **162.** ***"Is one who follows the pleasure of Allah like him who
 incurs wrath from Allah, and whose abode will be Hell? And an evil
@@ -338,11 +310,7 @@ revelation).
 Surah 'Ali-Imran, Verse 163
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُمْ دَرَجَاتٌ عِندَ اللّهِ واللّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
-  </p>
-</blockquote>
+> هُمْ دَرَجَاتٌ عِندَ اللّهِ واللّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
 
 **163.** ***"They are of (varying) ranks with Allah; and Allah sees what
 they do."***
@@ -371,14 +339,10 @@ do."***
 Surah 'Ali-Imran, Verse 164
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ مَنَّ اللّهُ عَلَى الْمُؤمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولاً
-مِّنْ أَنفُسِهِمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ
-وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِن كَانُواْ مِن قَبْلُ
-لَفِي ضَلالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> لَقَدْ مَنَّ اللّهُ عَلَى الْمُؤمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولاً
+> مِّنْ أَنفُسِهِمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ
+> وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِن كَانُواْ مِن قَبْلُ
+> لَفِي ضَلالٍ مُّبِينٍ
 
 **164.** ***"Indeed Allah conferred a favour upon the believers when He
 raised up among them a messenger of their own selves to recite His
@@ -470,13 +434,9 @@ weak."*
 Surah 'Ali-Imran, Verse 165
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمَّا أَصَابَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا
-قُلْتُمْ أَنَّى هَـذَا قُلْ هُوَ مِنْ عِندِ أَنْفُسِكُمْ إِنَّ اللّهَ
-عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أَوَلَمَّا أَصَابَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا
+> قُلْتُمْ أَنَّى هَـذَا قُلْ هُوَ مِنْ عِندِ أَنْفُسِكُمْ إِنَّ اللّهَ
+> عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 **165.** ***"Yet, when a disaster befalls you while you have certainly
 afflicted (the fow) with twice as much, you say: ' Whence is this?' Say:
@@ -519,12 +479,8 @@ military rules, and divine way be paid attention to.
 Surah 'Ali-Imran, Verse 166
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَصَابَكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ فَبِإِذْنِ اللّهِ
-وَلِيَعْلَمَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَمَا أَصَابَكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ فَبِإِذْنِ اللّهِ
+> وَلِيَعْلَمَ الْمُؤْمِنِينَ
 
 **166.** ***"And what befell you on tie day when both troops met was by
 Allah's leave and that He might distinguish the believers."***
@@ -554,15 +510,11 @@ human beings.
 Surah 'Ali-Imran, Verse 167
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَعْلَمَ الَّذِينَ نَافَقُواْ وَقِيلَ لَهُمْ تَعَالَوْاْ
-قَاتِلُواْ فِي سَبِيلِ اللّهِ أَوِ ادْفَعُواْ قَالُواْ لَوْ نَعْلَمُ
-قِتَالاً لاَّتَّبَعْنَاكُمْ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ
-مِنْهُمْ لِلإِيمَانِ يَقُولُونَ بِأَفْوَاهِهِم مَّا لَيْسَ فِي
-قُلُوبِهِمْ وَاللّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
-  </p>
-</blockquote>
+> وَلْيَعْلَمَ الَّذِينَ نَافَقُواْ وَقِيلَ لَهُمْ تَعَالَوْاْ
+> قَاتِلُواْ فِي سَبِيلِ اللّهِ أَوِ ادْفَعُواْ قَالُواْ لَوْ نَعْلَمُ
+> قِتَالاً لاَّتَّبَعْنَاكُمْ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ
+> مِنْهُمْ لِلإِيمَانِ يَقُولُونَ بِأَفْوَاهِهِم مَّا لَيْسَ فِي
+> قُلُوبِهِمْ وَاللّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
 
 **167.** ***"And that He might distinguish those who treated
 hypocritically; and it was said to them; 'Come! Fight in the way of
@@ -618,13 +570,9 @@ Muslims in this world, and will reckon their account in the Hereafter.
 Surah 'Ali-Imran, Verse 168
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ قَالُواْ لإِخْوَانِهِمْ وَقَعَدُواْ لَوْ أَطَاعُونَا مَا
-قُتِلُوا قُلْ فَادْرَؤُوا عَنْ أَنفُسِكُمُ الْمَوْتَ إِن كُنتُمْ
-صَادِقِينَ
-  </p>
-</blockquote>
+> الَّذِينَ قَالُواْ لإِخْوَانِهِمْ وَقَعَدُواْ لَوْ أَطَاعُونَا مَا
+> قُتِلُوا قُلْ فَادْرَؤُوا عَنْ أَنفُسِكُمُ الْمَوْتَ إِن كُنتُمْ
+> صَادِقِينَ
 
 **168.** ***"those who said about their brethren while themselves sat
 (at home): 'Had they obeyed us, they would not have been killed '. Say:
@@ -642,12 +590,8 @@ death from yourselves then, if you are truthful."***
 Surah 'Ali-Imran, Verse 169
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُواْ فِي سَبِيلِ اللّهِ أَمْوَاتًا
-بَلْ أَحْيَاء عِندَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُواْ فِي سَبِيلِ اللّهِ أَمْوَاتًا
+> بَلْ أَحْيَاء عِندَ رَبِّهِمْ يُرْزَقُونَ
 
 **169.** ***"Do not think of those who were killed in the way of Allah
 to be dead. Nay, they are alive, being provided sustenance with their
@@ -679,13 +623,9 @@ state is rather slight in comparison with it, so only they are named.
 Surah 'Ali-Imran, Verse 170
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرِحِينَ بِمَا آتَاهُمُ اللّهُ مِن فَضْلِهِ وَيَسْتَبْشِرُونَ
-بِالَّذِينَ لَمْ يَلْحَقُواْ بِهِم مِّنْ خَلْفِهِمْ أَلاَّ خَوْفٌ
-عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> فَرِحِينَ بِمَا آتَاهُمُ اللّهُ مِن فَضْلِهِ وَيَسْتَبْشِرُونَ
+> بِالَّذِينَ لَمْ يَلْحَقُواْ بِهِم مِّنْ خَلْفِهِمْ أَلاَّ خَوْفٌ
+> عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
 
 **170.** ***"They are happy with what Allah has given them out of His
 Grace, and rejoicing for those who have not yet joined them from behind
@@ -709,12 +649,8 @@ them. No fear shall be upon them nor shall they grieve."***
 Surah 'Ali-Imran, Verse 171
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ اللّهِ وَفَضْلٍ وَأَنَّ اللّهَ لاَ
-يُضِيعُ أَجْرَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ اللّهِ وَفَضْلٍ وَأَنَّ اللّهَ لاَ
+> يُضِيعُ أَجْرَ الْمُؤْمِنِينَ
 
 **171.** ***"They rejoice because of favour from Allah and (His) grace,
 and that Allah does not waste the reward of the believers."***
@@ -741,5 +677,4 @@ martyrdom yet. It says:
 [^3]: Bihar-al-Anwar, vol. 71, p. 138
 
 [^4]: Nahjul Balagha, sermon 26
-
 

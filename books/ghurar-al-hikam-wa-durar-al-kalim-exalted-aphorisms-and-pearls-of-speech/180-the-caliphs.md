@@ -11,4 +11,3 @@ assassination].[^1]
 
 [^1]: Part of sermon no. 30 of Nahj al-Balāgha.
 
-

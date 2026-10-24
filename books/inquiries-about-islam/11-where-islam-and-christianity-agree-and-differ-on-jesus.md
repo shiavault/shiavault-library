@@ -226,4 +226,3 @@ position. God, the Most Just and Merciful, does not condemn people
 because of their ancestor's sin. He may forgive them their own sins
 without requiring them to commit a bigger one.
 
-

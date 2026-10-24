@@ -395,4 +395,3 @@ al-Hasan.
 
 [^18]: Quoted from Nahj ul-Balagha.
 
-

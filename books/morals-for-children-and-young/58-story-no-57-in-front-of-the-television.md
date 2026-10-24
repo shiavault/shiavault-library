@@ -15,4 +15,3 @@ to watch T.V from a safe distance.
  Yes, man should value the unique things given by God specially eyesight
 so that he can take advantage of it by reading and writing.
 
-

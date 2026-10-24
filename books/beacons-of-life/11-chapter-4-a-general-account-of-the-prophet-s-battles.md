@@ -280,4 +280,3 @@ The Muslims asked the Apostle of Allah when they returned to Medina: "O
 Apostle of Allah, do we deserve to consider this a battle (that is, an
 act of jihad in Allah's way)?" "Yes", he replied.
 
-

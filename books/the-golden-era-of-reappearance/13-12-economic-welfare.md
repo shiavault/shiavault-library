@@ -41,4 +41,3 @@ p. 337 and 390; Musnad of Ahmad Ibn Hanbal, vol. 3, p. 37.)
 
 [^7]: (E'qd al-Dorar, p. 145; Mikyaal al-Makaarim, vol.1, p. 373.)
 
-

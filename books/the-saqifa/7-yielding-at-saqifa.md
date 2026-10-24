@@ -561,4 +561,3 @@ Prophet's death neither concur nor correspond. And this serene and sober
 apology for that strident challenge creates a question mark if not a
 bewilderment.
 
-

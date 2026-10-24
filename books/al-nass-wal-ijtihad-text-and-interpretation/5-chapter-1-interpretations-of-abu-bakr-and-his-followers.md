@@ -3793,4 +3793,3 @@ Messenger. And it is not the word of a poet; little is it that you
 believe. Nor the word of a soothsayer; little is it that you mind. It is
 a revelation from the Lord of the worlds”. (Qur'an, 69:40-43).
 
-

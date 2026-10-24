@@ -144,9 +144,7 @@ In this way 'A'ishah answered the criticism levelled at her by the
 other wives of the Prophet, and acted upon his own monopoly of
 verdicts.
 
-
 **Anecdotes in the life of 'A'ishah**
-
 
 May God bless 'Ali who was always with God.
 
@@ -156,7 +154,6 @@ Although 'A'ishah was in her life always involved with various events
 and difficulties, yet she was not heedless of wit and humor in view of
 her delicate mind and subtlety. Some incidents are narrated about her in
 this connection in books of history.
-
 
 Ibn 'Abd Rabbih writes in his famous book of al-'Iqd al-farid:
 
@@ -318,9 +315,7 @@ and efforts are intended to recognize the traditions, which are falsely
 attributed to the Prophet in order to invert Islam. Therefore, without
 such an analysis those lies cannot be distinguished and criticized.
 
-
 **Part Six : Fabrication of tradition and tradition-makers**
-
 
 **A brief glance at the life of Mu'awiyah
 A summary of previous discussions**
@@ -446,5 +441,4 @@ great Islamic realm. He issued the order, like Iranian kings, that on
 the new year and Mehrgan festivals gifts should be offered to him, an
 act which was the heritage of the two great neighboring empires, namely
 Iran and Rome.
-
 

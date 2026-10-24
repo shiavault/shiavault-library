@@ -339,4 +339,3 @@ Islam."
 
 [^2]: Muhammad, Payghambari ki az nau bayad shinakht, p. 45.
 
-

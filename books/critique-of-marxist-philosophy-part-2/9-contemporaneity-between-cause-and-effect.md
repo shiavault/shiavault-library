@@ -85,4 +85,3 @@ The first cause, being a pure cause, does not require a cause prior to
 it, for a thing does not require a cause qua cause but as an effect qua
 effect.
 
-

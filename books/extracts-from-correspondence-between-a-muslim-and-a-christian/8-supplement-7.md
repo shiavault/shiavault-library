@@ -22,7 +22,6 @@ It is not too much to hope that the Christian youths would look at
 their beliefs with more searching eyes, and would not remain fettered to
 the ancestral beliefs without critically studying them.
 
-
 **Appendix**
 
 (See Translator's Note)
@@ -127,5 +126,4 @@ An observer has a right to ask that if the writers of these \`gospels'
 could have changed the established facts to suit their i magination,
 what assurance can be given that they did not change the dogma to suit
 their fancy?
-
 

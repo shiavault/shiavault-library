@@ -24,10 +24,8 @@ concept of a congregation of humans self-consciously traversing the path
 to God. As the goal is one and the One, the Ummah is one. The Qur’an
 says:
 
-<p dir="rtl">
 وَإِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ
 فَاتَّقُونِ
-</p>
 
 ***Indeed this Community of yours is one Community, and I am your Lord,
 so be wary of Me. (Qur’an 23:52)***
@@ -88,9 +86,7 @@ and extent, from the smallest groups and brotherhoods to pan-Islamic
 movements. Imam ‘Ali (‘a) counselled his companion Kumayl in the
 following way:
 
-<p dir="rtl">
 يا كميل ما من حركة إلا و أنت محتاج فيها الى معرفة
-</p>
 
 O’ Kumayl! There no movement [or action] whatsoever but that you need
 understanding for it.10
@@ -102,10 +98,8 @@ intentions and irregardless of how numerous the good deeds.
 
 In a tradition from the most Noble Prophet (S) it is reported he said:
 
-<p dir="rtl">
 قال رسول الله (صلَّى الله عليه و آله) من عَملَ على غير علم كان ما يفسد
 أكثر مما يصلح
-</p>
 
 The harmful effects of a person who acts without knowledge are greater
 than his beneficial ones.11
@@ -119,9 +113,7 @@ of great consequence.
 What’s more, the traditions tell us that their very coming together aids
 in achieving the necessary understanding. It is said in a tradition:
 
-<p dir="rtl">
 ملاقاة الاخوان نُشرة و تلقيح للعقل و إن كان نزراً قليلاً
-</p>
 
 Meeting with brothers brings about expansion and life [lit.
 impregnation] for the intellect - even if they be a small insignificant
@@ -139,9 +131,7 @@ formation of “cells of the party of God” throughout the world.
 The first unit after the “meetings of brothers” is the local community,
 the jama’ah. The Noble Prophet (S) said:
 
-<p dir="rtl">
 أيها الناس! عليكم بالجماعة و إياكم و الفرقة
-</p>
 
 O’ people! Enjoined for you is the community and forewarned [and
 detrimental] to you is disunion [and separatedness].13
@@ -180,5 +170,4 @@ Moreover, in line with his esoteric understanding of unity - something
 for which there is ample room within the Shia school of thought - he
 gave a fatwa making it wajib and obligatory on the Shias to participate
 in the congregational prayers of the Sunnis during the Hajj.15
-
 

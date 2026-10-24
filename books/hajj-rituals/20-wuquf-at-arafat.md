@@ -86,4 +86,3 @@ wuqufs [at Arafat and Muzdalifah] his pilgrimage is invalidated; if,
 however, he follows the opinion of the Qadhi, without making
 investigations, the validity of his pilgrimage is arguable (ishkal).
 
-

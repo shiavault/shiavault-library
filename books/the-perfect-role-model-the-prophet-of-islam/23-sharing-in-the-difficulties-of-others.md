@@ -75,4 +75,3 @@ well."*[^3]
 
 [^3]: Bihar al-Anwar, vol. 2, p.508.
 
-

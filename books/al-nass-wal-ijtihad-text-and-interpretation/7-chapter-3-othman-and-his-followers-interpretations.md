@@ -280,4 +280,3 @@ rak’as after he had offered Dhuhr prayer two rak’as.”
 
 [^16]: Sahih of Muslim, vol.1 p.258.
 
-

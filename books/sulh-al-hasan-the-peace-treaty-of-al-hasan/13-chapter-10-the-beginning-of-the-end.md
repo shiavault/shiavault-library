@@ -1,8 +1,6 @@
 Chapter 10: the Beginning of the End
 ====================================
 
-  
-
 "Qays b. Sa'd's letter arrived, for the first time, to al-Hasan, peace
 be on him, informing him that they had stopped Mu'awiya at a village
 called al-Jinubiya opposite Maskan. Then Mu'awiya had sent to 'Ubayd
@@ -35,8 +33,6 @@ of honor and of the houses" or "the prominent
 first paragraph was the first piece of news to arrive to al-Hasan when
 they stopped at Maskan. Besides the letter was from Qays, not from
 'Ubayd Allah.
-
-  
 
 figures and the people of the houses." Moreover, al-Hasan heard that
 some of these close associates had escaped before 'Ubayd Allah. Some
@@ -80,8 +76,6 @@ Yes, (they were) eight thousand fighters of twelve thousand
 [[1]](#n3) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 114. [[2]](#n4)
 Al-Ya'qubi, Ta'rikh, vol. 2, p. 191. Roudat al-Shuhada', p. 115.
 
-  
-
 fighters.
 
 It was an awful gap that occurred in the army of al-Hasan. It made
@@ -123,8 +117,6 @@ the Imam took to summon the Islamic countries to take part in jihad.
 Also they were afraid of the active Shi'a who volunteered to support
 this summons. All these factors created fear in the restless persons
 from the traitors and the followed leaders. They  
-
-  
 
 made them careful of al-Hasan because of their maneuvers and movements
 against their camp in Kufa. So they thought that it would be better for
@@ -169,8 +161,6 @@ The ambitions exposed the offenses of those who did not join this army
 but to take part in booty through the way of treason. For it was an easy
 way. Besides they thought that they would not obtain booty in  
 
-  
-
 a peaceful way. Rather, they thought that they would obtain it when
 their hearts were full of fear of the clashing of the swords.
 
@@ -211,8 +201,6 @@ Kathir said: "Abu al-'Arif said: When we were in the vanguard of
 al-Hasan at Maskan, we made desperate efforts to fight against the
 Syrians."
 
-  
-
 As for al-Hasan himself, he faced those disturbances with hope, for he
 had a strong heart and an immortal self. He thought that the failure
 during a certain next or a certain time did not mean deprivation of
@@ -250,8 +238,6 @@ shaky position of the majority of his armies from the Kufans. Then he
 reviewed their turning away from fighting, their inclining towards
 deserting, their being deceived by the temptations, their open mutiny,
 and their breaking the covenants they made with Allah.
-
-  
 
 Al-Hasan was displeased with those people. For they had bad qualities
 such as lowliness, corruption in the religion, and impudent manners.
@@ -291,8 +277,6 @@ Woe unto him who turned his back to the Book
 [[1]](#n7) Most historical books have mentioned this declaration. Also
 b. Qutayba has, mentioned it in his book (Ta'rikh al-Khulafa' wa Dawlat
 bani Umayya, p. 151. Egypt)
-
-  
 
 And (put) the life in this world before him.
 
@@ -336,8 +320,6 @@ Al-Hasan b. 'Ali, peace be on them, knew without hesitation that this
 group itself was the fingers (agents) whom Mu'awiya used to ravage the
 fates of his army at Maskan and to encourage many people  
 
-  
-
 to join Mu'awiya's camp. For Mu'awiya was able to deceive such a group
 of people with his fascinating various bribes to the extent that he
 wrote to some of them: "I'll marry you to one of my daughters."
@@ -378,8 +360,6 @@ the advice of the Prophet, may Allah bless him and his family, to marry
 him (i.e., Mu'awiya). So the Prophet said: 'He is a pauper with no
 money.'" [[3]](#n10) Al-Bayhaqi, al-Mahasan wa al-Masawi', vol. 1 pp.
 209- 10. [[4]](#n11) Ibid.
-
-  
 
 It is not an act of cleverness, nor is an act of policy to obtain aims
 through unsatisfactory ways or to obtain them through an open deviation
@@ -424,8 +404,6 @@ for betraying [[1]](#r12) Uthman during his lifetime. Then these
 [[1]](#n12) We find the declaration about this historical fact in many
 matters related to it such as the traditions of those who lived during
 this historical fact, their  
-
-  
 
 supporters volunteered to be soldiers for Mu'awiya to support 'Uthman
 when the latter died. Namely, Mu'awiya wanted to win a victory with them
@@ -472,8 +450,6 @@ say that the eyewitness sees what the absentee does not see, for I am
 the eyewitness and you are the absentee." They said: "So Yazid b. Asad
 al-Qushayry stayed at Dhi Khashab till the people killed 'Uthman. Then
 Mu'awiya sent for Yazid."
-
-  
 
 people. That was when he fought against 'Ali, peace be on him.
 
@@ -522,8 +498,6 @@ your nostrils spread out, your forehead oozed sweat, and some of your
 lower part, which I hate to mention, appeared'. Then Mu'awiya said:
 'That is enough! We do not want all this.'"
 
-  
-
 Yes, Mu'awiya had a talent, but it was at a limited next. He had
 generosity but it was of a unique kind. He had a hobby that had a
 powerful control over his life.
@@ -569,8 +543,6 @@ Then Mu'awiya laughed very much. 'Amr b. al-'As said: 'Why are you
 laughing?' I am laughing at the presence of your mind on the day when
 you dueled with 'Ali.'"
 
-  
-
 al-'As was the most dangerous person in sowing discords. It was he who
 "scratched an ulcer and ripped it open."
 
@@ -615,8 +587,6 @@ contrary to that, according to the pre- Islamic laws. Allah, the
 Exalted, says: 'Is it then the judgment of the pre- Islamic times that
 they desire? And who is better than Allah to judge for a people who are
 sure'?
-
-  
 
 on him, in the exposed way in history. These were the three fearful
 persons of Mu'awiya. It was they who caused discords among the people,
@@ -664,8 +634,6 @@ ordered the family of Ziyad to be taken out of the Divan of Quraysh and
 of the Arabs. In this way Ziyad was again attributed to his father, the
 Roman slave."
 
-  
-
 towards al-Hasan, he said: "Indeed, if these and those are killed, then
 who will take care of the affairs of the people." [[1]](#r15) Also he
 said: "The small affair turns away the big affair." [[2]](#r16)
@@ -707,8 +675,6 @@ the
 See the footnote in chapter 3. [[4]](#n18) Al-Ya'qubi, Ta'rikh, vol. 2,
 p. 191.
 
-  
-
 understanding for halving authority. Thus he ordered the abovementioned
 persons to negotiate with al-Hasan, peace be on him, about that.
 
@@ -744,8 +710,6 @@ loudly with each other to make the people there hear them. Among their
 words are: "indeed, Allah has prevented bloodshed through the  
  grandson of the Apostle of Allah. He has calmed the discord  
  when He has made him (i.e., al-Hasan) ready to make peace  
-
-  
 
 (with Mu'awiya). [[1]](#r19)
 
@@ -789,8 +753,6 @@ have ended and the attitude between Iraq and Sham
 [[1]](#n19) Al-Ya'qubi, Ta'rikh, vol. 2, 191. [[2]](#n20) Al-Majlisi,
 Bihar al-Anwar, vol. 10, p. 110. Al-Mufid, al-Irshad.
 
-  
-
 (Syria) would have been settled. Therefore, why did this discord occur?
 Why was this discord used as a weapon during peace? Doesn't peace mean
 disarmament?
@@ -832,8 +794,6 @@ went on creating discords and spreading the worst news.
 Al-Tabari, Ta'rikh, vol. 6, p. 96. Ibn al-Athir, al-Kamil fi al-Ta'rikh,
 vol. 8, p. 14. Al-Dimyari; Hayat al-Hayawin, p. 57.
 
-  
-
 In this way Mu'awiya obtained what he wanted through the discords he
 made. Besides the two armies (i.e., the Army of Maskan and that of
 al-Mada'in) were liable to disturbances and sorrowful events that were
@@ -873,8 +833,6 @@ days, he said: "The Apostle of Allah, may Allah bless him and his
 family, said: 'The succession to authority will be terrorism. Then it
 will be omnipotence and corruption in the earth'. All that occurred as
 the Apostle of Allah, may Allah bless him and his family, said."
-
-  
 
 confusion. There was no narrowness in his heart, [[1]](#r25) nor
 reprimand, nor regret. However, he stood up to choose the idea, to draw

@@ -155,4 +155,3 @@ al-Ta’rīkh, vol. 4, p. 112.
 [^9]: Tabarī, Ta’rīkh, vol. 4, p. 372; Ibn Athīr, Al-Kāmil fī
 al-Ta’rīkh, vol. 4, p. 112.
 
-

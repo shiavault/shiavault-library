@@ -144,4 +144,3 @@ on our performance of that task. Consequently, our performance of that
 mission or task will stand as a proof and witness to the extent of our
 love, conviction, and sincerity of that mission.
 
-

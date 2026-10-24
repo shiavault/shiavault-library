@@ -12,4 +12,3 @@ help her mother in all household jobs too.
 help of the people inside the house, revising the lessons taught in
 classes or not.
 
-

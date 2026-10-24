@@ -4,12 +4,8 @@ Surah Muhammad, Verses 22 - 38
 Surah Muhammad - Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أنْ تُفْسِدُوا فِي الْأرْضِ
-وَتُقَطِّعُوا أرْحَامَكُمْ
-  </p>
-</blockquote>
+> فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أنْ تُفْسِدُوا فِي الْأرْضِ
+> وَتُقَطِّعُوا أرْحَامَكُمْ
 
 ***22. Then if you [who are sick at heart and frail of faith] turn away
 from [jihad], you are solely expected to do mischief in the land and
@@ -37,12 +33,8 @@ pre-Islamic times of ignorance (jahiliyya).[^1]
 Surah Muhammad - Verse 23
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُولَئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأصَمَّهُمْ وَأعْمَی
-أبْصَارَهُمْ
-  </p>
-</blockquote>
+> اُولَئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأصَمَّهُمْ وَأعْمَی
+> أبْصَارَهُمْ
 
 ***23. Such are they whom Allah has cursed so that He has made them deaf
 and blinded their sight [to hinder them from perceiving the truth].***
@@ -63,11 +55,7 @@ understand”)***[^2]***.***
 Surah Muhammad - Verse 24
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَلا يَتَدَبَّرُونَ الْقُرْآنَ أمْ عَلَی قُلُوبٍ أقْفَالُهَا
-  </p>
-</blockquote>
+> أفَلا يَتَدَبَّرُونَ الْقُرْآنَ أمْ عَلَی قُلُوبٍ أقْفَالُهَا
 
 ***24. Do they not then think deeply about the Qur’an or are their
 hearts locked up?***
@@ -97,12 +85,8 @@ heart failed to think about the Qur’an.
 Surah Muhammad - Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ارْتَدُّوا عَلَی أدْبَارِهِمْ مِنْ بَعْدِ مَا
-تَبَيَّنَ لَهُمُ الْهُدَی الشَّيْطَانُ سَوَّلَ لَهُمْ وَأمْلَی لَهُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ارْتَدُّوا عَلَی أدْبَارِهِمْ مِنْ بَعْدِ مَا
+> تَبَيَّنَ لَهُمُ الْهُدَی الشَّيْطَانُ سَوَّلَ لَهُمْ وَأمْلَی لَهُمْ
 
 ***25. Verily, those who have turned back as disbelievers after the
 guidance has been manifested to them – Satan has beautified for them
@@ -136,12 +120,8 @@ discernment and spiritual perception will never turn away from it.
 Surah Muhammad - Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ
-سَنُطِيعُكُمْ فِي بَعْضِ الْأمْرِ وَاللَّهُ يَعْلَمُ إِسْرَارَهُمْ
-  </p>
-</blockquote>
+> ذَلِكَ بِأنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ
+> سَنُطِيعُكُمْ فِي بَعْضِ الْأمْرِ وَاللَّهُ يَعْلَمُ إِسْرَارَهُمْ
 
 ***26. This is because they [apostates who are sick at heart] said to
 those who dislike what Allah has sent down: “We will obey you partially
@@ -203,19 +183,11 @@ Divine Decree concerning the Imamate of ‘Ali (as).[^3]
 Surah Muhammad - Verses 27-28
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ
-وَأدْبَارَهُمْ
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ
+> وَأدْبَارَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأنَّهُمُ اتَّبَعُوا مَا أسْخَطَ اللَّهَ وَكَرِهُوا
-رِضْوَانَهُ فَأحْبَطَ أعْمَالَهُمْ
-  </p>
-</blockquote>
+> ذَلِكَ بِأنَّهُمُ اتَّبَعُوا مَا أسْخَطَ اللَّهَ وَكَرِهُوا
+> رِضْوَانَهُ فَأحْبَطَ أعْمَالَهُمْ
 
 ***27. Then how will it be when the angels will take their souls at
 death, smiting their faces and their backs?***  
@@ -245,20 +217,12 @@ objects of Divine Wrath.[^4]
 Surah Muhammad - Verses 29-30
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أنْ لَنْ يُخْرِجَ اللَّهُ
-أضْغَانَهُمْ
-  </p>
-</blockquote>
+> أمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أنْ لَنْ يُخْرِجَ اللَّهُ
+> أضْغَانَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ نَشَاءُ لاَرَيْنَاكَهُمْ فَلَعَرَفْتَهُمْ بِسِيمَاهُمْ
-وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ وَاللَّهُ يَعْلَمُ
-أعْمَالَكُمْ
-  </p>
-</blockquote>
+> وَلَوْ نَشَاءُ لاَرَيْنَاكَهُمْ فَلَعَرَفْتَهُمْ بِسِيمَاهُمْ
+> وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ وَاللَّهُ يَعْلَمُ
+> أعْمَالَكُمْ
 
 ***29. Or do those in whose hearts is a disease [of hypocrisy] think
 that Allah will not bring to light all their hidden ill-wills [and
@@ -358,12 +322,8 @@ outward deeds.
 Surah Muhammad - Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ حَتَّی نَعْلَمَ الْمُجَاهِدِينَ مِنْكُمْ
-وَالصَّابِرِينَ وَنَبْلُوَ أخْبَارَكُمْ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ حَتَّی نَعْلَمَ الْمُجَاهِدِينَ مِنْكُمْ
+> وَالصَّابِرِينَ وَنَبْلُوَ أخْبَارَكُمْ
 
 ***31. And surely We will try you till We test those who strive hard
 [for Allah’s Cause] and the patient and We shall test your facts [and
@@ -432,20 +392,12 @@ through His Omniscience.
 Surah Muhammad - Verse 32-33
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ وَشَاقُّوا
-الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَی لَنْ يَضُرُّوا
-اللَّهَ شَيْئاً وَسَيُحْبِطُ أعْمَالَهُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ وَشَاقُّوا
+> الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَی لَنْ يَضُرُّوا
+> اللَّهَ شَيْئاً وَسَيُحْبِطُ أعْمَالَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-يَا أيُّهَا الَّذِينَ آمَنُوا أطِيعُوا اللَّهَ وَأطِيعُوا الرَّسُولَ
-وَلا تُبْطِلُوا أعْمَالَكُمْ
-  </p>
-</blockquote>
+> يَا أيُّهَا الَّذِينَ آمَنُوا أطِيعُوا اللَّهَ وَأطِيعُوا الرَّسُولَ
+> وَلا تُبْطِلُوا أعْمَالَكُمْ
 
 ***32. Verily those who disbelieve and hinder [people] from the Path of
 Allah and oppose the Messenger after the guidance has been clearly shown
@@ -495,12 +447,8 @@ hurting others and the like.
 Surah Muhammad - Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ ثُمَّ مَاتُوا
-وَهُمْ كُفَّارٌ فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ ثُمَّ مَاتُوا
+> وَهُمْ كُفَّارٌ فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ
 
 ***34. Indeed those who disbelieve and hinder [people] from the Path of
 Allah, then die while they are disbelievers. Allah will not forgive
@@ -526,12 +474,8 @@ delineation of their attributes and fates.
 Surah Muhammad - Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلا تَهِنُوا وَتَدْعُوا إِلَی السَّلْمِ وَأنْتُمُ الْأعْلَوْنَ
-وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أعْمَالَكُمْ
-  </p>
-</blockquote>
+> فَلا تَهِنُوا وَتَدْعُوا إِلَی السَّلْمِ وَأنْتُمُ الْأعْلَوْنَ
+> وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أعْمَالَكُمْ
 
 ***35. Therefore, be not weak and ask not for peace while you are having
 the upper hand. Allah is with you and He will never decrease the reward
@@ -619,12 +563,8 @@ consequences.
 Surah Muhammad - Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِنْ تُؤْمِنُوا
-وَتَتَّقُوا يُؤْتِكُمْ اُجُورَكُمْ وَلا يَسْألْكُمْ أمْوَالَكُمْ
-  </p>
-</blockquote>
+> إِنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِنْ تُؤْمِنُوا
+> وَتَتَّقُوا يُؤْتِكُمْ اُجُورَكُمْ وَلا يَسْألْكُمْ أمْوَالَكُمْ
 
 ***36. The life of this world is mere play and pastime, but if you
 believe and fear Allah and avoid evil, He will grant you your rewards
@@ -679,11 +619,7 @@ Allah’s Cause, paying alms tax, and the like.
 Surah Muhammad - Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَسْألْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أضْغَانَكُمْ
-  </p>
-</blockquote>
+> إِنْ يَسْألْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أضْغَانَكُمْ
 
 ***37. If He were to ask you of it and press you, you would covetously
 withhold and He will bring out all your ill-wills.***
@@ -721,15 +657,11 @@ faith, piety, and satisfaction upon him.
 Surah Muhammad - Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَا أنْتُمْ هَؤُلاءِ تُدْعَوْنَ لِتُنْفِقُوا فِي سَبِيلِ اللَّهِ
-فَمِنْكُمْ مَنْ يَبْخَلُ وَمَنْ يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَنْ
-نَفْسِهِ وَاللَّهُ الْغَنِيُّ وَأنْتُمُ الْفُقَرَاءُ وَإِنْ
-تَتَوَلَّوْا يَسْتَبْدِلْ قَوْماً غَيْرَكُمْ ثُمَّ لا يَكُونُوا
-أمْثَالَكُمْ
-  </p>
-</blockquote>
+> هَا أنْتُمْ هَؤُلاءِ تُدْعَوْنَ لِتُنْفِقُوا فِي سَبِيلِ اللَّهِ
+> فَمِنْكُمْ مَنْ يَبْخَلُ وَمَنْ يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَنْ
+> نَفْسِهِ وَاللَّهُ الْغَنِيُّ وَأنْتُمُ الْفُقَرَاءُ وَإِنْ
+> تَتَوَلَّوْا يَسْتَبْدِلْ قَوْماً غَيْرَكُمْ ثُمَّ لا يَكُونُوا
+> أمْثَالَكُمْ
 
 ***38. Behold! You are those who are called to spend in the Cause of
 Allah yet among you are some who are niggardly. And whoever is
@@ -943,5 +875,4 @@ Khisal, vol.1, p. 38.
 [^22]: Bihar, vol.70, p. 307.
 
 [^23]: Safinat al-Bihar, under sakha’ (“generosity”).
-
 

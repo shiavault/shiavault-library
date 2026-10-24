@@ -27,4 +27,3 @@ advancement of women where a lady could be elected for a full term as a
 President or Prime Minister. I think that says a lot about Islam and the
 Muslims.
 
-

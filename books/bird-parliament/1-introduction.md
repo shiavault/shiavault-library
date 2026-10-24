@@ -26,4 +26,3 @@ FitzGerald's translation of this work has been posted on the Internet.
 
 John B. Hare, April 12, 2007
 
-

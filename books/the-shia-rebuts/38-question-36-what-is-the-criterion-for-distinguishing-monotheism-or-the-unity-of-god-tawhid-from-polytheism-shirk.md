@@ -19,21 +19,13 @@ nothing can be compared to Him. This meaning of monotheism is the same
 as that which God mentions in various ways in the Glorious Qur’an, such
 as:
 
-<blockquote dir="rtl">
-  <p>
-ليس كمثله شئٌ
-  </p>
-</blockquote>
+> ليس كمثله شئٌ
 
 ***“Nothing is like him.”***[^1]
 
 Elsewhere, it says:
 
-<blockquote dir="rtl">
-  <p>
-ولم يكن له كفواً أحد
-  </p>
-</blockquote>
+> ولم يكن له كفواً أحد
 
 ***“Nor has He any equal.”***[^2]
 
@@ -68,11 +60,7 @@ When we consider the Qur’anic viewpoint, we see that the Qur’an contains
 numerous verses which stress the idea of the unity of the Divine
 creative power. Here is an example:
 
-<blockquote dir="rtl">
-  <p>
-قل الله خالق كل شئ وهو الواحد القهار
-  </p>
-</blockquote>
+> قل الله خالق كل شئ وهو الواحد القهار
 
 ***“Say, ‘Allah is the creator of all things, and He is the One, the
 All-paramount’.”***[^4]
@@ -120,11 +108,7 @@ is proved.
  In numerous verses, the Glorious Qur’an states that God is the Only
 Designer of the world, as in the following:
 
-<blockquote dir="rtl">
-  <p>
-قل أغير الله أبغي رباً وهو رب كل شئ
-  </p>
-</blockquote>
+> قل أغير الله أبغي رباً وهو رب كل شئ
 
 ***“Say, ‘Shall I seek a Lord other than Allah, while He is the Lord of
 all things?’”***[^7]
@@ -138,11 +122,7 @@ On this basis, all the sorts of subordinate designing among the
 creatures in the order of universe take place by the will and permission
 of God. The Holy Qur’an also points to this Divine design, stating:
 
-<blockquote dir="rtl">
-  <p>
-فالمدبرات أمراً
-  </p>
-</blockquote>
+> فالمدبرات أمراً
 
 ***“By those who direct the affairs {of creatures}.”***[^8]
 
@@ -153,11 +133,7 @@ Monotheism in authority {*hakimiyyah*} means that authority belongs to
 God as a fixed right, and He is the Only Ruler over the individuals
 constituting the society, as the Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنِ الْحُكْمُ إِلاّ لِلّهِ
-  </p>
-</blockquote>
+> إِنِ الْحُكْمُ إِلاّ لِلّهِ
 
 ***“Sovereignty belongs only to Allah.”***[^9]
 
@@ -165,12 +141,8 @@ Therefore, the rule of others has to be through His decree so that
 upright individuals may rule over the people and take them to the
 ultimate abode of felicity and perfection, as the Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-يا داوُودُ إِنّا جَعَلْناكَ خَليفَةً فِي اْلأَرْضِ فَاحْكُمْ بَيْنَ
-النّاسِ بِالْحَقّ
-  </p>
-</blockquote>
+> يا داوُودُ إِنّا جَعَلْناكَ خَليفَةً فِي اْلأَرْضِ فَاحْكُمْ بَيْنَ
+> النّاسِ بِالْحَقّ
 
 ***“O David! Indeed We have made you a vicegerent on the earth. So judge
 between the people with justice.”***[^10]
@@ -194,31 +166,19 @@ belongs only to God. On this basis, our heavenly book (the Qur’an)
 regards any decree which goes beyond the boundaries of the divine law as
 a source of infidelity, transgression and wrongdoing, as it says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
-الْكافِرُونَ
-  </p>
-</blockquote>
+> وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
+> الْكافِرُونَ
 
 ***“Those who do not judge by what Allah has sent down—it is they who
 are the faithless.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
-الْفاسِقُونَ
-  </p>
-</blockquote>
+> وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
+> الْفاسِقُونَ
 
 ***“Those who do not judge by what Allah has sent down—it is they who
 are the transgressors.”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ الظّالِمُونَ
-  </p>
-</blockquote>
+> مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ الظّالِمُونَ
 
 ***“Those who do not judge by what Allah has sent down—it is they who
 are the wrongdoers.”***[^13]
@@ -231,11 +191,7 @@ meaning of *‘ibadah* {worship} because all Muslims agree that the only
 object of worship is God, and no one other than Him should be
 worshipped. The Holy Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-إِيّاكَ نَعْبُدُ وَ إِيّاكَ نَسْتَعينُ
-  </p>
-</blockquote>
+> إِيّاكَ نَعْبُدُ وَ إِيّاكَ نَسْتَعينُ
 
 ***“You {alone} do we worship, and to You {alone} do we turn for
 help.”***[^14]
@@ -245,12 +201,8 @@ common principle in the mission of all prophets (*‘a*), and all divine
 envoys are assigned the responsibility of propagating it. The Glorious
 Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ بَعَثْنا في كُلّ‏ِ أُمَّةٍ رَسُولاً أَنِ اعْبُدُوا اللّهَ وَ
-اجْتَنِبُوا الطّاغُوتَ‏
-  </p>
-</blockquote>
+> وَ لَقَدْ بَعَثْنا في كُلّ‏ِ أُمَّةٍ رَسُولاً أَنِ اعْبُدُوا اللّهَ وَ
+> اجْتَنِبُوا الطّاغُوتَ‏
 
 ***“Certainly We raised an apostle in every nation {to preach:} ‘Worship
 Allah, and keep away from the Rebel’.”***[^15]
@@ -283,11 +235,7 @@ A group of writers interprete *‘ibadah* {worship} as “lowliness” or
 they fail. The Glorious Qur’an unequivocally states: “We ordered the
 angels to prostrate before Adam”
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ قُلْنا لِلْمَلائِكَةِ اسْجُدُوا ِلآدَمَ‏
-  </p>
-</blockquote>
+> وَ إِذْ قُلْنا لِلْمَلائِكَةِ اسْجُدُوا ِلآدَمَ‏
 
 ***“And when We said to the angels, ‘Prostrate before Adam…’”***[^17]
 
@@ -301,13 +249,9 @@ Now, why do these two identical prostrations have different natures?
 The Qur’an states in another place: “Hadrat Ya‘qub (*‘a*), along with
 his sons, prostrated before Hadrat Yusuf (*‘a*)”.
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّواْ لَهُ سُجَّدًا وَقَالَ
-يَا أَبَتِ هَـذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي
-حَقًّا
-  </p>
-</blockquote>
+> وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّواْ لَهُ سُجَّدًا وَقَالَ
+> يَا أَبَتِ هَـذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي
+> حَقًّا
 
 ***“And he seated his parents high upon the throne, and they fell down
 prostrate before him. He said, ‘Father! This is the fulfillment of my
@@ -317,12 +261,8 @@ It is is worth noting here that by the “dream of long ago”, Hadrat Yusuf
 (*‘a*) means the dream about eleven planets,[^19] the sun and the moon,
 prostrating to him. The Qur’an quotes Yusuf (*‘a*) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَ الشَّمْسَ وَ الْقَمَرَ
-رَأَيْتُهُمْ لي ساجِدينَ
-  </p>
-</blockquote>
+> إِنّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَ الشَّمْسَ وَ الْقَمَرَ
+> رَأَيْتُهُمْ لي ساجِدينَ
 
 ***“I saw eleven planets, and the sun and the moon: I saw them
 prostrating themselves before me.”***[^20]
@@ -349,12 +289,8 @@ orders others to perform any act that has polytheistic nature.
 
 The Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ اللّهَ لا يَأْمُرُ بِالْفَحْشاءِ أَ تَقُولُونَ عَلَى اللّهِ
-ما لا تَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ اللّهَ لا يَأْمُرُ بِالْفَحْشاءِ أَ تَقُولُونَ عَلَى اللّهِ
+> ما لا تَعْلَمُونَ
 
 ***“Say, ‘Indeed Allah does not enjoin indecencies. Do you attribute to
 Allah what you do not know?”***[^21]
@@ -413,47 +349,31 @@ By introducing God as the Sole Manager and Lord of the worlds, the
 Glorious Qur’an urges {the Muslims} to combat the group of polytheists,
 and invites them to worship the One and Only God, saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ رَبّي وَ رَبُّكُمْ فَاعْبُدُوهُ هذا صِراطٌ مُسْتَقيمٌ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ رَبّي وَ رَبُّكُمْ فَاعْبُدُوهُ هذا صِراطٌ مُسْتَقيمٌ
 
 ***“Indeed Allah is my Lord and your Lord; so worship Him. This is a
 straight path.”***[^23]
 
 In another place, it says:
 
-<blockquote dir="rtl">
-  <p>
-ذلِكُمُ اللّهُ رَبُّكُمْ لا إِلهَ إِلاّ هُوَ خالِقُ كُلّ‏ِ شَيْ‏ءٍ
-فَاعْبُدُوهُ
-  </p>
-</blockquote>
+> ذلِكُمُ اللّهُ رَبُّكُمْ لا إِلهَ إِلاّ هُوَ خالِقُ كُلّ‏ِ شَيْ‏ءٍ
+> فَاعْبُدُوهُ
 
 ***“That is Allah, your Lord, there is no god except Him, the creator of
 all things; so worship Him.”***[^24]
 
 In *Surah ad-Dukhan*, it is stated:
 
-<blockquote dir="rtl">
-  <p>
-لا إِلهَ إِلاّ هُوَ يُحْيي وَ يُميتُ رَبُّكُمْ وَ رَبُّ آبائِكُمُ
-اْلأَوَّلينَ
-  </p>
-</blockquote>
+> لا إِلهَ إِلاّ هُوَ يُحْيي وَ يُميتُ رَبُّكُمْ وَ رَبُّ آبائِكُمُ
+> اْلأَوَّلينَ
 
 ***“There is no god except Him: He gives life and brings death, your
 Lord and the Lord of your forefathers.”***[^25]
 
 Quoting Hadrat ‘Isa (*‘a*), the Holy Qur’an thus says:
 
-<blockquote dir="rtl">
-  <p>
-وَ قالَ الْمَسيحُ يا بَني إِسْرائيلَ اعْبُدُوا اللّهَ رَبّي وَ
-رَبَّكُمْ
-  </p>
-</blockquote>
+> وَ قالَ الْمَسيحُ يا بَني إِسْرائيلَ اعْبُدُوا اللّهَ رَبّي وَ
+> رَبَّكُمْ
 
 ***“But the Messiah had said, ‘O Children of Israel! Worship Allah, my
 Lord and your Lord’.”***[^26]
@@ -530,5 +450,4 @@ any medium or agency”. {Trans.}
 [^25]: Surah ad-Dukhan 44:8.
 
 [^26]: Surah al-Ma’idah 5:72.
-
 

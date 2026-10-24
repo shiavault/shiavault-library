@@ -22,11 +22,7 @@ may Allah have mercy on him), ‘Did you see Saahebul Amr (aj)?’ He
 answered, “Yes. My last meeting with him (aj) was in the House of Allah
 while he was saying:
 
-<blockquote dir="rtl">
-  <p>
-اللهم أنجز لي ما وعدتني.
-  </p>
-</blockquote>
+> اللهم أنجز لي ما وعدتني.
 
 ‘O Allah! Fulfill for me what you have promised me.’”
 
@@ -35,11 +31,7 @@ Abdullah bin Ja’far Himyari that he said: I heard Muhammad Ibne Uthman
 al-Amri (a.r.) say: ‘I saw him holding the curtain of Kaabah at the
 Mustajaar while he was saying:
 
-<blockquote dir="rtl">
-  <p>
-اللهم انتقم لي من أعدائي.
-  </p>
-</blockquote>
+> اللهم انتقم لي من أعدائي.
 
 ‘O Allah! (Help me to) take my revenge from my enemies.’”
 
@@ -117,11 +109,7 @@ them..”[^1]
 In another instance, he (as) says, “Then place your head on the grave of
 Imam Husain (as) and invoke:
 
-<blockquote dir="rtl">
-  <p>
- اللهم رب الحسين اشف صدر الحسين اللهم رب الحسين اطلب بدم الحسين...
-  </p>
-</blockquote>
+>  اللهم رب الحسين اشف صدر الحسين اللهم رب الحسين اطلب بدم الحسين...
 
 ‘O Allah, Lord of Husain, cure the heart of Husain (as). O Allah, Lord
 of Husain, seek the blood of Husain.’[^2]
@@ -136,12 +124,8 @@ his enemies and murderers.
 In Kaamiluz Ziaraat,[^3] after salutations on each of the Imams (as),
 you say,
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على حجتك ووليك القائم في خلقك صلاة تامة باقية تعجل بها فرجه
-وتنصره بها..
-  </p>
-</blockquote>
+> اللهم صل على حجتك ووليك القائم في خلقك صلاة تامة باقية تعجل بها فرجه
+> وتنصره بها..
 
 “O Allah! Bless Your proof and Your slave, the Qaim among your
 creatures, a complete, eternal blessing. Through it, You hasten his
@@ -154,11 +138,7 @@ It is the city of Surre-man-raa-ahu (Samarrah). That which proves this
 is the point mentioned in a Ziarat in that same book.[^4] It is
 mentioned regarding them:
 
-<blockquote dir="rtl">
-  <p>
-اللهم عجل فرج وليك وابن وليك واجعل فرجنا مع فرجهم يا أرحم الراحمين.
-  </p>
-</blockquote>
+> اللهم عجل فرج وليك وابن وليك واجعل فرجنا مع فرجهم يا أرحم الراحمين.
 
 O Allah hasten the reappearance of Your Wali and the son of Your Wali
 and appoint our success with their success; O the most merciful of the
@@ -175,11 +155,7 @@ prayer (for the reappearance) is among the most important duties of the
 creatures in every place which has some particularity and respect.
 Allah, High is His Honor, says:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ...
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ...
 
 ***“In houses which Allah has permitted to be raised and in which His
 Name is remembered.” (Qur’an, Surah Maidah 5:27)***
@@ -196,5 +172,4 @@ should be given priority during the nights as well as the days.
 [^3]: Kaamiluz Ziaraat, Pg. 517
 
 [^4]: Kaamiluz Ziaraat, Pg. 521
-
 

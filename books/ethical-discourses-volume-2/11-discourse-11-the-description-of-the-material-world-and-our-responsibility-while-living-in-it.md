@@ -1,28 +1,20 @@
 Discourse 11: The Description of the Material World and our Responsibility While Living in it
 =============================================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّه: أَلاَّ إِنَّ الدُّنْـيَا قَدِ ارْتَحَلَتْ
-مُدْبِرَةً، وَ الآخِرَةَ قَدِ احْـتَمَلَتْ مُقْبِلَةً. أَلاَّ وَ
-إِنَّكُمْ فِي يَوْمِ عَمَلٌ لاَحِسَابَ فِيهِ، وَ يُوشَكُ أَنْ
-تَكُونُوا فِي يَوْمِ حِسَابٌ لَيْسَ فِيهِ عَمَلٌ وَ إِنَّ اللٌّهَ
-يُعْطِي الدُّنْـيَا مَنْ يُحِبُّ وَ يُـبْغِضُ، وَ لاَ يُعْطِي
-الآخِرَةً إِلاَّ لِمَنْ يُحِبُّ،
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّه: أَلاَّ إِنَّ الدُّنْـيَا قَدِ ارْتَحَلَتْ
+> مُدْبِرَةً، وَ الآخِرَةَ قَدِ احْـتَمَلَتْ مُقْبِلَةً. أَلاَّ وَ
+> إِنَّكُمْ فِي يَوْمِ عَمَلٌ لاَحِسَابَ فِيهِ، وَ يُوشَكُ أَنْ
+> تَكُونُوا فِي يَوْمِ حِسَابٌ لَيْسَ فِيهِ عَمَلٌ وَ إِنَّ اللٌّهَ
+> يُعْطِي الدُّنْـيَا مَنْ يُحِبُّ وَ يُـبْغِضُ، وَ لاَ يُعْطِي
+> الآخِرَةً إِلاَّ لِمَنْ يُحِبُّ،
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ لِلدُّنْـيَا أَبـْنَاءً وَ لِلآخِرَةِ أَبْنَاءً. فَكُونُوا
-مِنْ أَبْـنَاءِ الآخِرَةِ، وَ لاَ تَكُونُوا مِنْ أَبْـنَاءِ
-الدُّنْـيَا. إِنَّ شَرَّ مَا أَتَخَوَّفُ عَلَيْكُمْ: أَتِّـبَاعُ
-الْهَوى وَ طُولُ الأََمَلِ. فَاتِّـبَاعُ الْهَوى يَصْرِفُ قُلُوبَكُمْ
-عَنِ الْحَقِّ وَ طُولُ الأََمَلِ يَصْرِفُ هِمَمَكُمْ إِلـى
-الدُّنْـيَا، وَ مَا بَعْدَهُمَا لاَِحَدٍ مِنْ خَـيْرٍ يَرْجَاهُ فِي
-دُنْـيَا وَ لاَ آخِرَةِ.
-  </p>
-</blockquote>
+> وَ إِنَّ لِلدُّنْـيَا أَبـْنَاءً وَ لِلآخِرَةِ أَبْنَاءً. فَكُونُوا
+> مِنْ أَبْـنَاءِ الآخِرَةِ، وَ لاَ تَكُونُوا مِنْ أَبْـنَاءِ
+> الدُّنْـيَا. إِنَّ شَرَّ مَا أَتَخَوَّفُ عَلَيْكُمْ: أَتِّـبَاعُ
+> الْهَوى وَ طُولُ الأََمَلِ. فَاتِّـبَاعُ الْهَوى يَصْرِفُ قُلُوبَكُمْ
+> عَنِ الْحَقِّ وَ طُولُ الأََمَلِ يَصْرِفُ هِمَمَكُمْ إِلـى
+> الدُّنْـيَا، وَ مَا بَعْدَهُمَا لاَِحَدٍ مِنْ خَـيْرٍ يَرْجَاهُ فِي
+> دُنْـيَا وَ لاَ آخِرَةِ.
 
 The Messenger of Allah (S) has said, “The material world has ceased to
 exist, has been left aside and is gone while the next life is
@@ -110,11 +102,7 @@ They will ask for the right to return back so that they can make amends
 for their deeds however the call will come that this is not possible!
 Once again, their cry shall be:
 
-<blockquote dir="rtl">
-  <p>
-مٌا فَرَّطْتُ فِــي جَنْبِ اللٌّهِ
-  </p>
-</blockquote>
+> مٌا فَرَّطْتُ فِــي جَنْبِ اللٌّهِ
 
 “Alas my grief since I was unmindful of Allah!”
 
@@ -143,11 +131,7 @@ Faithful, ‘Ali b. Abi Talib (as) has stated: “The deceased that you are
 now carrying upon your shoulders (to the graveyard) and that you carry
 every day are the best preachers for you!”
 
-<blockquote dir="rtl">
-  <p>
-فَكَفى وَاعِظاً بِمَوْتى…
-  </p>
-</blockquote>
+> فَكَفى وَاعِظاً بِمَوْتى…
 
 “Sufficient for you as a preacher are the deceased ones…”
 
@@ -195,11 +179,7 @@ person well taken care from the material point of view, then we should
 realize that sometimes the authority which he yields in the transient
 world is actually a source of punishment from Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللٌّهُ أَنْ يُعَذِّبَهُمْ بِهَا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللٌّهُ أَنْ يُعَذِّبَهُمْ بِهَا
 
 “Surely Allah only intends to punish them through this.”
 
@@ -280,11 +260,7 @@ instance, it is clear that he is a one who only wants for himself and
 does not want what Allah (SwT) wants! Such a person would be a perfect
 example of:
 
-<blockquote dir="rtl">
-  <p>
-نُؤْمِنُ بِبَعْضٍ وَ نَكْفُرُ بِبَعْضٍ
-  </p>
-</blockquote>
+> نُؤْمِنُ بِبَعْضٍ وَ نَكْفُرُ بِبَعْضٍ
 
 “You believe in some of it while you disbelieve in some of it.”
 
@@ -346,5 +322,4 @@ reasons - overrule the primary ruling. In such issues, if the leader of
 the Islamic nation decides that due to a particular reason such as if
 the needs of the society dictate that an Islamic legislation is
 temporarily put on hold, he has the power to do so. (Tr.)
-
 

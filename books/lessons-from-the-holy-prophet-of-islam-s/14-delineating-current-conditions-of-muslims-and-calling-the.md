@@ -687,4 +687,3 @@ occasion of the Holy Prophet’s (S) Be’that
 [^13]: Supreme Leader’s address delivered on March 21, 2006 at Imam
 Ridha’s (a.s.) shrine in the holy city of Mashhad
 
-

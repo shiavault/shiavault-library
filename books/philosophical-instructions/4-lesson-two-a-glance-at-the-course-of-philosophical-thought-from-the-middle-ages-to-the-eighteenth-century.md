@@ -250,4 +250,3 @@ Renaissance were subject to instability and were in danger of fading and
 being obliterated. On the other hand, he must be considered to be one of
 the destroyers of the foundations of metaphysical philosophy.
 
-

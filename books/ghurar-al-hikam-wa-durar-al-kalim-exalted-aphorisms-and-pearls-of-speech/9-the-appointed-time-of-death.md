@@ -9,12 +9,8 @@ verily greed does not expedite it and self-restraint does not delay it,
 and it behoves a believer to be patient.
 
 > 1ـ اَلأجلُ مَحْتُومٌ، والرِّزْقُ مَقْسُومٌ، فلا يَغُمَّنَّ أحَدَكُمْ
-<blockquote dir="rtl">
-  <p>
-إبطاؤُهُ، فإنَّ الحِرْصَ لايُقَدِّمُهُ، والعَفافُ لا يُؤَخِّرُهُ،
-والمُؤمِنُ بالتَّحَمُّلِ(بِالتَّجَمُّلِ (خَليقٌ.
-  </p>
-</blockquote>
+> إبطاؤُهُ، فإنَّ الحِرْصَ لايُقَدِّمُهُ، والعَفافُ لا يُؤَخِّرُهُ،
+> والمُؤمِنُ بالتَّحَمُّلِ(بِالتَّجَمُّلِ (خَليقٌ.
 
 2. The truest thing is death.
 
@@ -36,21 +32,13 @@ and it behoves a believer to be patient.
 hearts and has been replaced by false hopes and aspirations.
 
 > 6ـ قَدْ غابَ عَنْ قُلُوبِكُمْ ذِكرُ الآجالِ، وَحَضَرَتْكُمْ كَواذِبُ
-<blockquote dir="rtl">
-  <p>
-الآمالِ.
-  </p>
-</blockquote>
+> الآمالِ.
 
 7. Your hearts have forgotten the reality of death and you have been
 overcome by deception of [false] hope.
 
 > 7ـ قَدْ ذَهبَ عَنْ قُلُوبِكُمْ صِدْقُ الأجَلِ، وغَلَبَكُم غُرُورُ
-<blockquote dir="rtl">
-  <p>
-الأملِ.
-  </p>
-</blockquote>
+> الأملِ.
 
 8. The one who takes death into consideration values his time.
 
@@ -70,11 +58,7 @@ day which he will not pass and a seeker who will quickly bring him to
 his death, urging him forwards?
 
 > 11ـ ما عَسى أنْ يَكُونَ بَقاءُ مَنْ لَهُ يَوْمٌ لايَعدُوهُ وطالِبٌ
-<blockquote dir="rtl">
-  <p>
-حَثيثٌ مِنْ أجَلِهِ يَحدُوهُ.
-  </p>
-</blockquote>
+> حَثيثٌ مِنْ أجَلِهِ يَحدُوهُ.
 
 12. It is when [the time of] death comes that the failure of [one’s]
 aspirations become apparent.
@@ -154,11 +138,7 @@ of death.
 being cut short as death comes upon them.
 
 > 30ـ سابِقُوا الأجَلَ فإنَّ النَّاسَ يُوْشِكُ أنْ يَنْقَطِعَ بِهِمُ
-<blockquote dir="rtl">
-  <p>
-الأملُ فَيُرهِقَهُمُ الأجلُ.
-  </p>
-</blockquote>
+> الأملُ فَيُرهِقَهُمُ الأجلُ.
 
 31. Anticipate death and do good deeds; [by this] you will attain
 felicity through your [hastening to good deeds while you have] respite.
@@ -196,11 +176,7 @@ arrival, the sweetness of life and its comfort would become bitter for
 you.
 
 > 38ـ لَوْ فَكَّرْتُمْ في قُرْبِ الأجَلِ وَحُضُورِهِ لأمَرَّ عِنْدكُمْ
-<blockquote dir="rtl">
-  <p>
-حُلْوُ العَيْشِ وَسُرُورُهُ.
-  </p>
-</blockquote>
+> حُلْوُ العَيْشِ وَسُرُورُهُ.
 
 39. Whoever is mindful of his [eventual] death reduces his aspirations.
 
@@ -255,21 +231,13 @@ death.
 [do] good deeds and shortens his hopes.
 
 > 50ـ رَحِمَ اللّهُ امْرَءاً عَلِمَ أنَّ نَفَسَهُ خُطاهُ إلى أجَلِهِ،
-<blockquote dir="rtl">
-  <p>
-فبادَرَ عَمَلَهُ، وقَصَّرَ أمَلَهُ.
-  </p>
-</blockquote>
+> فبادَرَ عَمَلَهُ، وقَصَّرَ أمَلَهُ.
 
 51. May the mercy of Allah be on the person who anticipates [his] death,
 belies [his false] aspirations, and makes his actions sincere.
 
 > 51ـ رَحِمَ اللّهُ امْرَءا ًبادَرَ الأجَلَ، وأكْذَبَ الأمَلَ، وأخلَصَ
-<blockquote dir="rtl">
-  <p>
-العَمَلَ.
-  </p>
-</blockquote>
+> العَمَلَ.
 
 52. Sometimes death is [hidden] beneath an aspiration.
 
@@ -285,11 +253,6 @@ me and surrenders me [to death]. At this time the arrow will not miss
 its target and the wound will not heal.
 
 > 54ـ إنَّ عَلَىَّ مِنْ أجَلي جُنَّةً حَصينَةً، فَإذا جاءَ يَومِي
-<blockquote dir="rtl">
-  <p>
-انْفَرَجَت عَنّي وَأسْلَمَتْني، فَحينَئذ لا يَطيشُ السَّهْمُ ولا
-يَبْرَءُ الكَلِمُ.
-  </p>
-</blockquote>
-
+> انْفَرَجَت عَنّي وَأسْلَمَتْني، فَحينَئذ لا يَطيشُ السَّهْمُ ولا
+> يَبْرَءُ الكَلِمُ.
 

@@ -422,4 +422,3 @@ you, but you preached me instead!”[^38]
 
 [^38]: Biharul Anwar, Vol 46, p. 287.
 
-

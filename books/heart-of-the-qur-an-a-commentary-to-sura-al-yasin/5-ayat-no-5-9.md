@@ -162,4 +162,3 @@ down and do not allow us to think about the Hereafter. Passions and
 desires have chained us, but Thou art Merciful. Be kind to me! How will
 you deprive the friends when You don’t even reject the foes?
 
-

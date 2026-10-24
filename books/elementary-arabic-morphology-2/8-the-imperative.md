@@ -73,4 +73,3 @@ example: **لِیَضرِب** **لأُوَدِّب** (He must hit to teach manne
 except if it is after a *fā'* or *wāw*, in this case it is given a
 *sakūn*, for example: **فَلتَطِب** **نفسک** (feel comfortable).
 
-

@@ -30,4 +30,3 @@ Surely Allah sees the servants. So Allah protected him from the evil
 (consequences) of what they planned, and the most evil punishment
 overtook Firon's people. (The Holy Quran, Shakir 40:41-45)***
 
-

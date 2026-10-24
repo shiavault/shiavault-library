@@ -20,4 +20,3 @@ upon her) was inferior to Ayesheh.
 
 Yes, she was oppressed, but who was the oppressor? Who seized her right?
 
-

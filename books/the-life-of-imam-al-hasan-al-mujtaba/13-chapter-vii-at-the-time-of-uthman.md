@@ -664,4 +664,3 @@ Prophet. They required the rulers to treat those near and far equally,
 demanded them not to prefer a people to another, and to apply justice to
 all fields.
 
-

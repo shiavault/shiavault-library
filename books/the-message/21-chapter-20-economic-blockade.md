@@ -207,4 +207,3 @@ II, page 78.
 [^2]: Seerah-i Ibn Hisham, vol. I, page 375 and Tarikh-i Tabari, vol.
 II, page 79.
 
-

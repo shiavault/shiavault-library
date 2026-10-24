@@ -154,4 +154,3 @@ stain can be cleansed through strengthening his faith. Here we want to
 mention some undesirable attributes of human beings mentioned in the
 Glorious Qur'an
 
-

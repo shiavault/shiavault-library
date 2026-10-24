@@ -397,4 +397,3 @@ http://www.al-islam.org/encyclopedia/chapter6b.html; and ‘Allamah
 Tabataba’i, Shi‘ite Islam (Albany, N.Y., 1975), pp. 223-225,
 http://www.al-islam.org/anthology. [Trans.]
 
-

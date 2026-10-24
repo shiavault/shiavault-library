@@ -24,4 +24,3 @@ It is recommended to take Sunnat Ghusl before you put on your Ihram.
 **Caution: You are not allowed to use scented soap or scented shampoo
 when doing this Ghusl.**
 
-

@@ -74,4 +74,3 @@ and to formulate an ideology capable of solving the diverse problems of
 human society. This failure is rooted in their materialist world view
 and their inadequate understanding of man's nature.
 
-

@@ -34,12 +34,8 @@ that support this, some of them are as follows:
 1. In *Usool Kafi* through his own chain of narrators from His Eminence,
 Amirul Momineen (as) in the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا
-وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا
+> وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
 
 ***“Hast thou not seen those who exchanged the bounty of Allah with
 unthankfulness…” (Qur’an, Surah Ibrahim 14:28)***
@@ -53,11 +49,7 @@ us.”[^1]
 2. In *Ghayat al-Maraam* quoting from *Tafseer* of Ayyashi it is
 reported that Amirul Momineen (as) said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  </p>
-</blockquote>
+> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
 
 ***“Then on that day you shall most certainly be questioned about the
 boons.” (Qur’an, Surah Takathur 102:8)***
@@ -94,11 +86,7 @@ In *Kifayatul Athar* and *Kamaluddin* it is narrated from Muhammad bin
 Ziyad Azadi that he said that he heard Imam Moosa Ibne Ja’far (as) say
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً
-  </p>
-</blockquote>
+> وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً
 
 ***“and made complete to you His favors outwardly and …inwardly.”
 (Qur’an, Surah Luqman 31:20)***
@@ -126,49 +114,29 @@ It was mentioned that a healthy intellect commands that thankfulness be
 observed for blessings received. Verses of the Holy Qur’an also prove
 this matter:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ
-  </p>
-</blockquote>
+> فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ
 
 ***“Therefore remember Me, I will remember you, and be thankful to Me,
 and do not be ungrateful to Me.” (Qur’an, Surah Baqarah 2:152)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ
-وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ
-  </p>
-</blockquote>
+> وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ
+> وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ
 
 ***“And when your Lord made it known: If you are grateful, I would
 certainly give to you more, and if you are ungrateful, My chastisement
 is truly severe.” (Qur’an, Surah Ibrahim 14:7)***
 
-<blockquote dir="rtl">
-  <p>
-وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
-  </p>
-</blockquote>
+> وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
 
 ***“And give thanks to Allah if Him it is that you serve.” (Qur’an,
 Surah Baqarah 2:172)***
 
-<blockquote dir="rtl">
-  <p>
-وَاشْكُرُوا نِعْمَتَ اللَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
-  </p>
-</blockquote>
+> وَاشْكُرُوا نِعْمَتَ اللَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
 
 ***“And give thanks for Allah’s favor if Him do you serve.” (Qur’an,
 Surah Nahl 16:114)***
 
-<blockquote dir="rtl">
-  <p>
-وَاشْكُرُوا لَهُ ۖ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَاشْكُرُوا لَهُ ۖ إِلَيْهِ تُرْجَعُونَ
 
 ***“And be grateful to Him; to Him you shall be brought back.” (Qur’an,
 Surah Ankaboot 29:17)***
@@ -335,28 +303,16 @@ thanklessness.
 That which proves this matter are verses of the Holy Qur’an from Surah
 Saba mentioned after the passing away of Sulaiman (as):
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لِسَبَإٍ فِي مَسْكَنِهِمْ آيَةٌ ۖ جَنَّتَانِ عَنْ يَمِينٍ
-وَشِمَالٍ ۖ كُلُوا مِنْ رِزْقِ رَبِّكُمْ وَاشْكُرُوا لَهُ ۚ بَلْدَةٌ
-طَيِّبَةٌ وَرَبٌّ غَفُورٌ.
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لِسَبَإٍ فِي مَسْكَنِهِمْ آيَةٌ ۖ جَنَّتَانِ عَنْ يَمِينٍ
+> وَشِمَالٍ ۖ كُلُوا مِنْ رِزْقِ رَبِّكُمْ وَاشْكُرُوا لَهُ ۚ بَلْدَةٌ
+> طَيِّبَةٌ وَرَبٌّ غَفُورٌ.
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْرَضُوا فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ
-وَبَدَّلْنَاهُمْ بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ أُكُلٍ خَمْطٍ
-وَأَثْلٍ وَشَيْءٍ مِنْ سِدْرٍ قَلِيلٍ .
-  </p>
-</blockquote>
+> فَأَعْرَضُوا فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ
+> وَبَدَّلْنَاهُمْ بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ أُكُلٍ خَمْطٍ
+> وَأَثْلٍ وَشَيْءٍ مِنْ سِدْرٍ قَلِيلٍ .
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُوا ۖ وَهَلْ نُجَازِي إِلَّا
-الْكَفُورَ.
-  </p>
-</blockquote>
+> ذَٰلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُوا ۖ وَهَلْ نُجَازِي إِلَّا
+> الْكَفُورَ.
 
 ***“Certainly there was a sign for Saba in their abode; two gardens on
 the right and the left; eat of the sustenance of your Lord and give
@@ -428,5 +384,4 @@ book.
 [^9]: Wasailush Shia, Vol. 11, Pg. 537
 
 [^10]: Amali, Sadooq, Pg. 304, Gathering no. 59, Beirut
-
 

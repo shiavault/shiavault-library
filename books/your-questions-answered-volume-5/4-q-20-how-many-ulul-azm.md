@@ -231,4 +231,3 @@ Prophet. Those successors are called Imams. Imam literally means leader.
 As mentioned above, first of them was 'Ali, son of Abu Talib, and the
 last one is al- Mahdi (a.s.).
 
-

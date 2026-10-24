@@ -242,4 +242,3 @@ him.
 ibn ‘Uqbah ibn Abu Ma’it, quoted by Muhammad Mahmud al-Rafi’i in his
 Introduction to Sharh al-Hashimiyyat, page 8.
 
-

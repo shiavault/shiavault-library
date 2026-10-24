@@ -23,4 +23,3 @@ School of theoretical gnosis was therefore destined to play a major role
 in the encounter on the highest level between the Chinese and the
 Islamic intellectual traditions during the past few centuries.
 
-

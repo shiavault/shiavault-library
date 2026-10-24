@@ -52,4 +52,3 @@ Stemmer for Arabic Language to Improve Search Effectiveness", IEEE, pp.
 hardness of reuters-21578 subsets. Journal of the American Society for
 Information Science and Technology (JASIST), 56(6), 584- 596.
 
-

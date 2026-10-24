@@ -116,17 +116,11 @@ structure of guardianship usually rests upon the man and the man heading
 the family will be more effective, precaution should be observed
 regarding the man. Imam Ali (P) states:
 
-<p dir="rtl">
-لان المرأة تاخذ من ادب زوجها <p dir="rtl">
-و يقهرها علي دينه
-</p>
-</p>
+لان المرأة تاخذ من ادب زوجها و يقهرها علي دينه
 
 "A woman is under the influence of her husband.”6
 
-<p dir="rtl">
 و يقهرها علي دينه
-</p>
 
 Meaning that if one gives her daughter to a man who is not of the same
 religious level, the man can influence the wife in the long run. Of
@@ -140,9 +134,7 @@ influenced.
 
 Imam Sadiq (P) states:
 
-<p dir="rtl">
 العارفه لا توزع الا عند العارف.
-</p>
 
 "Al’arefah in gnosis means a woman of a specific awareness and insight
 who has high level from the mental and cultural perspective if such a
@@ -228,9 +220,7 @@ Chapter Hujurat of the Holy Qur'an, faith is considered second aghebah
 
 The Holy Prophet (P) stated:
 
-<p dir="rtl">
 المومن كفواً للمومنة و المسلم كفو للمسلمة
-</p>
 
 “A faithful man is a match for a faithful woman and a Muslim man is a
 match for a Muslim woman and they are of the same standing.8 ”
@@ -244,45 +234,33 @@ standing they will have problems in the future.
 
 The late Tabarsi states in "Makarim al-Akhlaq:
 
-<p dir="rtl">
 عن يونس بن ظبيان قال، قال ابو عبدالله: أتدري اي شي تفسير فاطمه
-</p>
 
 "Do you know what our mother’s name Fatimah means?"
 
-<p dir="rtl">
 قلت اخبرني يا سيدي
-</p>
 
 (“Can you tell us the meaning?”)
 
-<p dir="rtl">
 قال (ع): فطمت من الشر
-</p>
 
 (“Fatimah means removed from any evil and uncleanness”.)
 
-<p dir="rtl">
 ثم قال (ع):‌ لولا ان اميرالمومنين (ع) تزوجها لما كان لها كفواً الي يوم
 القيامه
-</p>
 
 “If the Chief of the Faithful were not to marry Her Eminence Zahra (P),
 there would be no spouse to match Fatimah (P) on Earth forever9 .” Imam
 Sadiq (P) states:
 
-<p dir="rtl">
 المومنون بعضهم اكفاء بعض.
-</p>
 
 If a man enters into the circle of faith in its real meaning, he can be
 equal and match to a woman of the same standing. Focus on the same level
 of faith is because faith manifests itself in the personality and
 behavior of person and gives color and freshness to life.
 
-<p dir="rtl">
 قال (ع) : الكفو ان يكون عفيفاً عنده يسا
-</p>
 
 “Equal and match, is a chaste person who is not corrupted from the
 sexual and moral aspect, who is financially stable and can carry the
@@ -290,9 +268,7 @@ responsibilities of life10 .”
 
 The word
 
-<p dir="rtl">
 يسار
-</p>
 
 means ability to manage and handle life. Now, this ability could be
 savings, a skill, an art or any other capability through which a person
@@ -301,9 +277,7 @@ something apart from moral aspects, chastity and piety, focusing more on
 the economic issues, which to a certain extent, is considered by Islam.
 In fact, according to this Prophet's (P) tradition:
 
-<p dir="rtl">
 كاد الفقر ان يكون كفراً
-</p>
 
 “Wretchedness can hinder human being from acquiring faith”
 
@@ -325,9 +299,7 @@ and prohibited things. Taking counsel with Imam Hasan Mojtaba (P), a
 person asks: "To whom should I give my daughter in marriage?" The Imam
 (P) replies:
 
-<p dir="rtl">
 زوجها من رجل تقي
-</p>
 
 Endeavor that the suitor of your daughter be a pious person12 .
 
@@ -336,9 +308,7 @@ such as observance of mutual rights in facing the spouse and other
 family members and dealing with and handling life. His Holiness (P)
 states:
 
-<p dir="rtl">
 فانه ان احبها اكرمها و ان ابغضها لم يظلم.
-</p>
 
 “If a person is pious, there will be two states either he loves his
 spouse or not. If he does not love her he never does injustice to her
@@ -347,9 +317,7 @@ and if he loves her he treats her well and respects her.”
 Therefore, piety is a factor within us that controls and assists one not
 to go beyond limits
 
-<p dir="rtl">
 امساك بمعروف او تسريح باحسان
-</p>
 
 “Either he takes care of his spouse kindly or frees her legally and
 never oppresses her.”
@@ -448,18 +416,14 @@ Imagine a person picking a flower from mire. When the person wants to
 pick that very flower, he has to step on the mire, gradually sinking
 into the swamp and be corrupted as well. The Holy Prophet (P) stated:
 
-<p dir="rtl">
 ايها الناس اياكم و خضراء الدمن
-</p>
 
 “O people, refrain from the beautiful flowers growing in a ire14 .”
 
 He was asked: "What do you mean by beautiful flowers?" His Holiness (P)
 replied:
 
-<p dir="rtl">
 المراه الحسني في منبت السوء
-</p>
 
 “It means, avoid women with beauty (of course, this beauty can refer to
 apparent beauty or good personality), but does not have a good family
@@ -470,24 +434,18 @@ The Holy Prophet (P) was careful on the marriage of Her Eminence Zahra
 (P) because of the recommendations of Gabriel, the angel of revelation.
 However His Holiness (P) states:
 
-<p dir="rtl">
 انكحت زيد بن حارثه زينب بنت جحش
-</p>
 
 "I united Zeid ibn Haresah and Zeinab, daughter of Jahsh in marriage.
 
-<p dir="rtl">
 وانكحت المقداد ضباعه بنت الزبير
-</p>
 
 "...and the daughter of Zobair to Meghdad."
 
 He continued: "I do so to demonstrate for the people what is in the
 customs and they would be aware that the best honor is that of Islam. "
 
-<p dir="rtl">
 ليعلموا ان اشرف الشرف الاسلام
-</p>
 
 Undoubtedly, equity has dimensions in terms of customs and religion.
 Regarding customs, social and economic authority, honor and common sense
@@ -499,17 +457,13 @@ compared to other variations.
 Another criterion is good disposition. Hosein Beshar asked Imam Abul-
 Hasan (P):
 
-<p dir="rtl">
 ان لي قرابه قد خطب الي و في خلقه سوء
-</p>
 
 A relative of mine wants my daughter's hand in marriage. Do I have to
 accept because of family relations considering the fact that to some
 extent he has a bad temper? The Imam states:
 
-<p dir="rtl">
 لا تزوجه ان كان سيّئي الخلق
-</p>
 
 Do not accept if he has a bad temper. The important thing therefore is
 translating faith into action like having Islamic conduct and good
@@ -543,9 +497,7 @@ hand and immediately it was turned into a piece of pearl and coral15 .
 
 The Holy Prophet (P) stated:
 
-<p dir="rtl">
 ان من يقدر علي هذا لايهمه كثرة المهر
-</p>
 
 "One who has such a power does not care for the amount of marriage
 portion.”
@@ -595,10 +547,8 @@ preferable that the age of woman be less than that of the husband.
 
 Imam Ali (P) states:
 
-<p dir="rtl">
 و لتنكح المرأة‌ لمتها من الرجال و لينكح الرجال منكم لمة من النساء
 قال(ع): لمة الرجال من النساء‌ مثله في السن
-</p>
 
 “A man should pick one from among women who matches him. Every woman on
 selecting a spouse should choose a man who matches her16 .”
@@ -628,9 +578,7 @@ selecting a spouse?
 
 Beauty can be one of the criteria.
 
-<p dir="rtl">
 يا من ترضون خلقه و خلقة
-</p>
 
 A person went to see the Imam (P) and observed that His Holiness was
 beautifying his hair and face he then asked: "Why do you beautify
@@ -669,25 +617,19 @@ stability of marital life within the family?
 The Chief of the Faithful was asked about his 9-year marital life with
 Her Eminence Fatimah (P). Ali (P) stated:
 
-<p dir="rtl">
 والله ما اغضبتها و لا اكرهتها علي امراً
-</p>
 
 "I call God to witness that I never made Fatimah (P) angry in any
 circumstances and never forced her to do something and there was no
 instance that Fatimah (P) made me angry and did not show disobedience in
 any matter.”
 
-<p dir="rtl">
 ولا اغضبتني و لا عصت لي امراً
-</p>
 
 "After any unhappiness, when I looked at Fatimah’s (P) face, I was
 relieved of the sorrow and sadness
 
-<p dir="rtl">
 «لقد كنت انظر اليها فيكشف عني الهموم و الاحزان
-</p>
 
 Therefore, a husband must never make his wife angry. Most of family
 troubles are related to those things imposed on one another. His
@@ -710,9 +652,7 @@ Master Ali (P)?
 
 The Chief of the Faithful (P) states:
 
-<p dir="rtl">
 من اساءها الي اهله لم يتصل به تأميل
-</p>
 
 “One who does evil to his family is not expected to do well with
 others17 .”
@@ -727,17 +667,13 @@ and at the same time nurture optimism and tranquility in the family.
 
 There is no mention of blind submission rather it is quoted that
 
-<p dir="rtl">
 ‌لا تعصيها امراً
-</p>
 
 that is - do not disobey the order.
 
 Taking good care of the husband
 
-<p dir="rtl">
 حسن التبعل
-</p>
 
 Means there should be the state of submission and women must be
 emotionally supported and the faults in marital life must be ignored. Of
@@ -754,9 +690,7 @@ spouses function like customer and buyer.
 According to the second message, the wife and husband stay with each
 other in any situation and this is the evidence of
 
-<p dir="rtl">
 جعل بينكم مودة و رحمة
-</p>
 
 that is- in some cases mere observance of matrimonial rights and
 obligations may not solve any problem and it is friendship and mercy
@@ -775,9 +709,7 @@ inside the family should be upon Her Eminence Fatimah (P) and the
 affairs outside the home, upon the Chief of the Faithful (P). According
 to Imam Sadiq (P), Her Holiness Fatimah had expressed:
 
-<p dir="rtl">
 فلا يعلم ما داخلني من السرور الا الله باكفائي رسول الله تحمل رقاب الرجال
-</p>
 
 “Nobody knows except the Exalted God how I was filled with gladness at
 the moment, because of the fact that the Holy Prophet (P) through this
@@ -811,9 +743,7 @@ near the time of divine legislation, too.
 Martyred Professor Motahhari writes: "Mr. Baghdadi has compiled a book
 entitled
 
-<p dir="rtl">
 بلاغات النساء
-</p>
 
 (“Balaghatun- Nesa”) in 250 A.H. (during the era of Imam Hasan Askari
 [P]) which, unlike most books that include social issues on men, covers
@@ -843,9 +773,7 @@ partake in the open and the fact is that when people asked Imam Hosein
 (P) why he took women to the battlefield knowing that he would not win
 the battle and he replied:
 
-<p dir="rtl">
 شاء ان يريهنَّ سبايا
-</p>
 
 “God had wanted them to be captives.”
 
@@ -888,9 +816,7 @@ some Fatimahs and ends with Her Eminence Zahra (P) and the legitimacy of
 the leadership of His Holiness Ali (P). In the same way that the Holy
 Prophet (P) addressed her daughter Her Eminence Zahra (P):
 
-<p dir="rtl">
 فداها ابوها
-</p>
 
 "May her father be sacrificed for his daughter."
 
@@ -904,9 +830,7 @@ Kazem (P) in order to be certain about the answers."
 
 When they showed the answers to the Imam (P), he states:
 
-<p dir="rtl">
 فداها ابوها
-</p>
 
 "May her father be sacrificed for his daughter."
 
@@ -927,9 +851,7 @@ not create obstacles on the path of her advancement. Or Her Holiness
 Zeinab (P) who ordered the people of Kufa to be silent before delivering
 a strong sermon so that Imam Sajjad (P) addressed her:
 
-<p dir="rtl">
 اسكتي يا عمه، انت الحمدالله، عالمه غير معلمه، و غير مفهمه
-</p>
 
 “O, my aunt please discontinue because you are in a critical condition.
 You, praise be to God, are a woman of science whose knowledge comes from
@@ -951,5 +873,4 @@ of sexes, one can function as circumstances may allow and the treatment
 of the daughters and wives of the Infallibles (P), as demonstrated in
 their practice, indicates their responsibility towards scientific and
 cultural advancement.
-
 

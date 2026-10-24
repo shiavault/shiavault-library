@@ -286,12 +286,8 @@ the government of truth and dies in this state?
 
 Imam(as) answered:
 
-<blockquote dir="rtl">
-  <p>
-هو بمنزلة من کان مع القائم فی فسطاطه - ثمّ سکت هنیئه - ثمّ قال هو کمن
-مع رسول الله) ص (
-  </p>
-</blockquote>
+> هو بمنزلة من کان مع القائم فی فسطاطه - ثمّ سکت هنیئه - ثمّ قال هو کمن
+> مع رسول الله) ص (
 
 (He is like the person who has been with the leader of this revolution
 in his tent (headquarters) - then stayed silent for a while - and said
@@ -302,52 +298,32 @@ expressions:
 
 In some narratives
 
-<blockquote dir="rtl">
-  <p>
-بمنزلة الضّارب بسیفه فی سبیل الله
-  </p>
-</blockquote>
+> بمنزلة الضّارب بسیفه فی سبیل الله
 
 Like a swordsman in the way of God.
 
 And in some other narratives
 
-<blockquote dir="rtl">
-  <p>
-کمن قارع بسیفه مع رسول الله
-  </p>
-</blockquote>
+> کمن قارع بسیفه مع رسول الله
 
 Like the one who strikes the head of the enemy with sword beside
 prophet.
 
 In some others
 
-<blockquote dir="rtl">
-  <p>
-بمنزلة من کان قاعداً تحت لواء القائم
-  </p>
-</blockquote>
+> بمنزلة من کان قاعداً تحت لواء القائم
 
 Like the one who has been under the flag of He Who Arises.
 
 And in some other narratives
 
-<blockquote dir="rtl">
-  <p>
-بمنزلة المجاهد بین یدی رسول الله) ص(
-  </p>
-</blockquote>
+> بمنزلة المجاهد بین یدی رسول الله) ص(
 
 Like the person who performs jihad before the Prophet (S).
 
 And in some others
 
-<blockquote dir="rtl">
-  <p>
-بمنزلة من استشهد مع رسول الله
-  </p>
-</blockquote>
+> بمنزلة من استشهد مع رسول الله
 
 Like a person who becomes martyr with the Prophet (S).
 
@@ -363,22 +339,14 @@ This meaning has been quoted in some Ahadith from the Prophet (S) and in
 some other Ahadith from Imam Ali (as); we read in a Hadith from the
 Prophet (S) that he said:
 
-<blockquote dir="rtl">
-  <p>
-"افضل اعمال امّتی انتظار الفرج من الله عزّ و جلّ"
-  </p>
-</blockquote>
+> "افضل اعمال امّتی انتظار الفرج من الله عزّ و جلّ"
 
 The best act of my nation is waiting for an opening from the side of
 God.
 
 And we read in another Hadith from the Prophet (S) that:
 
-<blockquote dir="rtl">
-  <p>
-"افضل العبادة انتظار الفرج"
-  </p>
-</blockquote>
+> "افضل العبادة انتظار الفرج"
 
 (The best act of worship is the waiting of the opening)
 
@@ -632,12 +600,8 @@ self-improvement, motivation and hope.
 One of clear evidences which confirms this matter is that it is quoted
 from great leaders of Islam beneath the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ
 
 ***Allah has promised, to those among you who believe and work righteous
 deeds, that He will, of a surety, grant them in the land, (Surah
@@ -669,5 +633,4 @@ against the corruptions of their living environment and society and
 stayed silent and don’t even try to fight against corruption.
 
 Yes the real waiting is this!
-
 

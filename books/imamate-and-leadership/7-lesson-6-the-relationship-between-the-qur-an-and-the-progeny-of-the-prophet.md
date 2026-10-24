@@ -232,4 +232,3 @@ Yanabi' al-Mawaddah, p. 373.
 
 [^12]: al-Qunduzi, Yanabi' al-Mawaddah, p.446.
 
-

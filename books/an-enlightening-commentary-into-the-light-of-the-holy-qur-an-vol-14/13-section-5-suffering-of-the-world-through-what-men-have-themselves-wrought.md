@@ -4,12 +4,8 @@ Section 5: Suffering of the World Through What Men Have Themselves Wrought
 Surah Ar-Room – Verse 41
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ظَهَرَ الْفَسَادُ فِي الْبَرّ‌ِ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
-النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> ظَهَرَ الْفَسَادُ فِي الْبَرّ‌ِ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
+> النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
 
 ***41. “Mischief has appeared in the land and the sea because of what
 the hands of men have wrought, that He may make them taste a part of
@@ -65,12 +61,8 @@ desert.”*
 Surah Ar-Room – Verse 42
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ سِيرُوا فِي الأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ
-مِن قَبْلُ كَانَ أَكْثَرُهُم مُّشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ سِيرُوا فِي الأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ
+> مِن قَبْلُ كَانَ أَكْثَرُهُم مُّشْرِكِينَ
 
 ***42. “Say: ‘Travel in the land, then see how was the end of those
 before, most of them were polytheists.”***
@@ -124,12 +116,8 @@ nations who were similar to them in action.
 Surah Ar-Room – Verse 43
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَقِمْ وَجْهَكَ لِلدّ‌ِينِ الْقَيّـِمِ مِن قَبْلِ أَن يَأْتِيَ
-يَوْمٌ لاَّ مَرَدَّ لَهُ مِنَ اللَّهِ يَوْمَئِذٍ يَصَّدَّعُونَ
-  </p>
-</blockquote>
+> فَاَقِمْ وَجْهَكَ لِلدّ‌ِينِ الْقَيّـِمِ مِن قَبْلِ أَن يَأْتِيَ
+> يَوْمٌ لاَّ مَرَدَّ لَهُ مِنَ اللَّهِ يَوْمَئِذٍ يَصَّدَّعُونَ
 
 ***43. “Then Set your face to the established religion before there
 comes a day from Allah which cannot be averted; on that day shall become
@@ -166,19 +154,11 @@ and in Hell.
 Surah Ar-Room – Verses 44-45
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَن كَفَرَ فَعَلَيْهِ كُفْرُهُ وَمَنْ عَمِلَ صَالِحاً فَلاَِنفُسِهِمْ
-يَمْهَدُونَ
-  </p>
-</blockquote>
+> مَن كَفَرَ فَعَلَيْهِ كُفْرُهُ وَمَنْ عَمِلَ صَالِحاً فَلاَِنفُسِهِمْ
+> يَمْهَدُونَ
 
-<blockquote dir="rtl">
-  <p>
-لِيَجْزِيَ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ مِن فَضْلِهِ
-إِنَّهُ لاَ يُحِبُّ الْكَافِرِينَ
-  </p>
-</blockquote>
+> لِيَجْزِيَ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ مِن فَضْلِهِ
+> إِنَّهُ لاَ يُحِبُّ الْكَافِرِينَ
 
 ***44. “Whoever disbelieves, his unbelief shall be (charged) against
 him, and whoever does good deed, for their own selves they are
@@ -318,13 +298,9 @@ appropriate places.
 Surah Ar-Room – Verse 46
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ أَن يُرْسِلَ الرّ‌ِيَاحَ مُبَشّـِرَاتٍ
-وَلِيُذِيقَكُم مِن رَّحْمَتِهِ وَلِتَجْرِيَ الْفُلْكُ بِاَمْرِهِ
-وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ أَن يُرْسِلَ الرّ‌ِيَاحَ مُبَشّـِرَاتٍ
+> وَلِيُذِيقَكُم مِن رَّحْمَتِهِ وَلِتَجْرِيَ الْفُلْكُ بِاَمْرِهِ
+> وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
 
 ***46. “And among His signs is that He sends forth the winds bearing
 good tidings (of rain), and that He may make you taste of His mercy, and
@@ -442,13 +418,9 @@ the next world.”*
 Surah Ar-Room – Verse 47
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلاً إِلَي قَوْمِهِمْ فَجَآءُوهُم
-بِالْبَيّـِنَاتِ فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا وَكَانَ
-حَقّاً عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلاً إِلَي قَوْمِهِمْ فَجَآءُوهُم
+> بِالْبَيّـِنَاتِ فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا وَكَانَ
+> حَقّاً عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ
 
 ***47. “And We did indeed send, before you, messengers unto their
 people, and they came to them with clear proofs, then We took vengeance
@@ -503,14 +475,10 @@ the Divine revenge to them.
 Surah Ar-Room – Verse 48
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي يُرْسِلُ الرّ‌ِيَاحَ فَتُثِيرُ سَحَاباً فَيَبْسُطُهُ
-فِي السَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُ كِسَفاً فَتَرَي الْوَدْقَ
-يَخْرُجُ مِنْ خِلاَلِهِ فَإِذَآ أَصَابَ بِهِ مَن يَشَآءُ مِنْ
-عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي يُرْسِلُ الرّ‌ِيَاحَ فَتُثِيرُ سَحَاباً فَيَبْسُطُهُ
+> فِي السَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُ كِسَفاً فَتَرَي الْوَدْقَ
+> يَخْرُجُ مِنْ خِلاَلِهِ فَإِذَآ أَصَابَ بِهِ مَن يَشَآءُ مِنْ
+> عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ
 
 ***48. “It is Allah Who sends forth the winds so they raise a cloud,
 then He spreads it forth in the sky as He pleases, and breaks it into
@@ -567,20 +535,12 @@ servants, behold, they rejoice.”***
 Surah Ar-Room – Verses 49-50
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانُوا مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِن قَبْلِهِ
-لَمُبْلِسِينَ
-  </p>
-</blockquote>
+> وَإِن كَانُوا مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِن قَبْلِهِ
+> لَمُبْلِسِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَانظُرْ إِلَي ءَاثَارِ رَحْمَةِ اللَّهِ كَيْفَ يُحْيِ الأَرْضَ بَعْدَ
-مَوْتِهَآ إِنَّ ذَلِكَ لَـمُحْيِ الْمَوْتَي وَهُوَ عَلَي كُلّ‌ِ شَيْءٍ
-قَدِيرٌ
-  </p>
-</blockquote>
+> فَانظُرْ إِلَي ءَاثَارِ رَحْمَةِ اللَّهِ كَيْفَ يُحْيِ الأَرْضَ بَعْدَ
+> مَوْتِهَآ إِنَّ ذَلِكَ لَـمُحْيِ الْمَوْتَي وَهُوَ عَلَي كُلّ‌ِ شَيْءٍ
+> قَدِيرٌ
 
 ***49. “Although before it was sent down on them before that they had
 been in despair.”***  
@@ -723,19 +683,11 @@ these examples.
 Surah Ar-Room – Verses 51-52
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَرْسَلْنَا رِيحاً فَرَأَوْهُ مُصْفَرّاً لَّظَلُّوا مِن
-بَعْدِهِ يَكْفُرُونَ
-  </p>
-</blockquote>
+> وَلَئِنْ أَرْسَلْنَا رِيحاً فَرَأَوْهُ مُصْفَرّاً لَّظَلُّوا مِن
+> بَعْدِهِ يَكْفُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّكَ لاَ تُسْمِعُ الْمَوْتَي وَلاَ تُسْمِعُ الصُّمَّ الدُّعَآءَ
-إِذَا وَلَّوْا مُدْبِرِينَ
-  </p>
-</blockquote>
+> فَإِنَّكَ لاَ تُسْمِعُ الْمَوْتَي وَلاَ تُسْمِعُ الصُّمَّ الدُّعَآءَ
+> إِذَا وَلَّوْا مُدْبِرِينَ
 
 ***51. “And if We send a wind (from which) they see (their tilth turned)
 yellow, they certainly become, thereafter, disbelievers
@@ -827,12 +779,8 @@ verses 9 and 10, and Surah Al-Hajj, No. 22, verse 11.
 Surah Ar-Room – Verse 53
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَنتَ بِهَادِي الْعُمْيِ عَن ضَلاَلَتِهِمْ إِن تُسْمِعُ إِلاَّ
-مَن يُؤْمِنُ بِاَيَاتِنَا فَهُم مُّسْلِمُونَ
-  </p>
-</blockquote>
+> وَمَآ أَنتَ بِهَادِي الْعُمْيِ عَن ضَلاَلَتِهِمْ إِن تُسْمِعُ إِلاَّ
+> مَن يُؤْمِنُ بِاَيَاتِنَا فَهُم مُّسْلِمُونَ
 
 ***53. “Nor can you lead the blind out of their straying. Only those
 will you make to hear who believe in Our signs and so they submit.”***
@@ -954,5 +902,4 @@ p. 210
 [^5]: Ibid, Part ‘Thanb’
 
 [^6]: Surah Al-’A‘raf, No. 7, verse 96
-
 

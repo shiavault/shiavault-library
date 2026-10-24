@@ -160,4 +160,3 @@ When we reached Sanaa we entered the house of the generous emperor.
 A regent who showered us all with his generosity while his cheerfulness
 was obvious on his countenance.”
 
-

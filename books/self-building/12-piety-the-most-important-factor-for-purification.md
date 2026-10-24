@@ -9,11 +9,7 @@ Nahjul-Balagha (The Path of Eloquence) has been repeated quite
 frequently. The Holy Qur’an considers piety as the sole criteria for
 appraising the value and worth of individuals and said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ
 
 ***“Lo! the noblest of you, in the sight of God-Almighty is the best in
 conduct. (49: 13)***
@@ -21,35 +17,23 @@ conduct. (49: 13)***
 The piety has been introduced as the best provisions for the Hereafter,
 and greatest means for achieving salvation. the Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ
 
 ***“For such of them as do right and word off (evil), there is great
 reward (3: 172)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> فَمَنِ اتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ
 
 ***“Then whosoever refrainth from evil and amendeth -there shall no fear
 come upon them neither shall they grieve. (7: 35)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
-السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
+> السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
 
 ***“And vie one with another for forgiveness from your Lord, and for a
 Paradise as wide as are the Heavens and the earth, prepared for those
@@ -57,12 +41,8 @@ who ward off (evil). (3:133)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ فَاكِهِينَ بِمَا آتَاهُمْ
-رَبُّهُمْ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ فَاكِهِينَ بِمَا آتَاهُمْ
+> رَبُّهُمْ
 
 ***“Lo! Those who kept their duty dwell in gardens and delight, happy
 because of what their Lord hath given them. (52:17-18)***
@@ -72,25 +52,17 @@ been assigned the most distinguished position in all ethical matters,
 and is the greatest means for achieving prosperity and salvation. The
 Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: التقى رئيس الاخلاق.
-  </p>
-</blockquote>
+> قال على عليه السلام: التقى رئيس الاخلاق.
 
 *“Piety acquires the most prominent position in all ethical
 affairs.”*Nahjul Balagha, saying 41.
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: خصلة من لزمها اتعته الدنيا والاخرة
-وربح الفوز بالجنة قيل وماهى يا رسول الله؟ قال: التقوى, من اراد ان يكون
-اعزا الناس فليتق الله عز وجل ثم تلا: ومن يتق الله يجعل له مخرجا ويرزقه
-من حيث لا يحتسب.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: خصلة من لزمها اتعته الدنيا والاخرة
+> وربح الفوز بالجنة قيل وماهى يا رسول الله؟ قال: التقوى, من اراد ان يكون
+> اعزا الناس فليتق الله عز وجل ثم تلا: ومن يتق الله يجعل له مخرجا ويرزقه
+> من حيث لا يحتسب.
 
 *“There is a characteristic that whoever acquires it will have the world
 and Hereafter in his control. He was asked: 'Oh Prophet of God! What is
@@ -106,17 +78,13 @@ expectation. (65:2-3)***[^1]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: واعلموا عبادالله أن المتقين ذهبوا بعاجل الدنيا و
-آجل الآخرة، فشاركواأهل الدنيا في دنياهم،و لم يشاركهم أهل الدنيا في
-آخرتهم. سكنواالدنيا بأفضل ما سكنت و أكلوها بأفضل ما أكلت، فحظوا
-من‏الدنيا بما حظي به المترفون وأخذوا منها ما أخذه الجبابرةالمتكبرون.
-ثم انقلبوا عنها بالزاد المبلغ و المتجر الرابح أصابوا لذة زهد الدنيا في
-دنياهم،و تيقنوا أنهم جيران الله غدا في‏آخرتهم لا ترد لهم دعوة،و لا
-ينقص لهم نصيب من لذة.
-  </p>
-</blockquote>
+> قال على عليه السلام: واعلموا عبادالله أن المتقين ذهبوا بعاجل الدنيا و
+> آجل الآخرة، فشاركواأهل الدنيا في دنياهم،و لم يشاركهم أهل الدنيا في
+> آخرتهم. سكنواالدنيا بأفضل ما سكنت و أكلوها بأفضل ما أكلت، فحظوا
+> من‏الدنيا بما حظي به المترفون وأخذوا منها ما أخذه الجبابرةالمتكبرون.
+> ثم انقلبوا عنها بالزاد المبلغ و المتجر الرابح أصابوا لذة زهد الدنيا في
+> دنياهم،و تيقنوا أنهم جيران الله غدا في‏آخرتهم لا ترد لهم دعوة،و لا
+> ينقص لهم نصيب من لذة.
 
 *“Know, O' creatures of God, that the God-fearing have Shared the joys
 of this transient world as well as the Next World, for they shared with
@@ -137,12 +105,8 @@ share of pleasure be small.”*[^2]
 
 The commander of the faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: عليكم بتقوى الله فانها تجمع الخير ولا خير غيرها
-ويدرك بها من الخير ما لا يدركك بغيرها من خير الدنيا والاخرة.
-  </p>
-</blockquote>
+> قال على عليه السلام: عليكم بتقوى الله فانها تجمع الخير ولا خير غيرها
+> ويدرك بها من الخير ما لا يدركك بغيرها من خير الدنيا والاخرة.
 
 *“Don't give up piety because it is the source of all benevolence and
 goodness,. blessing except piety does not exist; and the blessing which
@@ -151,12 +115,8 @@ blessing of this world or the Hereafter.”*[^3]
 
 Imam al-Sajjad:
 
-<blockquote dir="rtl">
-  <p>
-قال السجاد عليه السلام: شرف كل عمل بالتقوى وفاز من فاز من المتقين, قال
-الله تبارك وتعلى ان للمتقين مفازا.
-  </p>
-</blockquote>
+> قال السجاد عليه السلام: شرف كل عمل بالتقوى وفاز من فاز من المتقين, قال
+> الله تبارك وتعلى ان للمتقين مفازا.
 
 *“The value and worth of each deed depend upon piety; only pious people
 may achieve righteousness and prosperity. God-Almighty said: Verily
@@ -167,13 +127,9 @@ important factor for self-perfection and purification as well as the
 most effective medicine for curing the psychic diseases. The Commander
 of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: فان تقوى الله دوادا قلوبكم وصبر عمى افئدتكم وشفا
-مرض اجسادكم وصلاح فساد صدوركم وطهور دنس انفسكم وجلا غشا ابصاركم. امن
-فزع جاشكم وضيا سواد ظلمتكم.
-  </p>
-</blockquote>
+> قال على عليه السلام: فان تقوى الله دوادا قلوبكم وصبر عمى افئدتكم وشفا
+> مرض اجسادكم وصلاح فساد صدوركم وطهور دنس انفسكم وجلا غشا ابصاركم. امن
+> فزع جاشكم وضيا سواد ظلمتكم.
 
 *“Piety is the only cure for wickedness of your heart. It is the Divine
 Light to expel darkness of your heart. It is a remedy for your ailing
@@ -188,47 +144,31 @@ In Islam the piety has been introduced as a genuine moral virtue and the
 real aim for explanation of (Divine) Commandments. Following are some of
 the examples God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ
-وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ
+> وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***“Oh mankind! Worship your Lord, who hath created you and those before
 you, so that you may ward off (evil). (2:21)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن
-قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن
+> قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***“O you believe! Fasting is prescribed for you, even as it was
 prescribed for those before you, that ye may ward off (evil). (2:183)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ
-التَّقْوَىٰ مِنكُمْ
-  </p>
-</blockquote>
+> لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ
+> التَّقْوَىٰ مِنكُمْ
 
 ***“Their flesh and their blood reach not God, but the devotion from you
 reacheth him. (22:37)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ
-  </p>
-</blockquote>
+> وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ
 
 ***“So make provisions for yourself (Hereafter ); for the best provision
 is to ward off evil. (2:197)***
@@ -242,23 +182,15 @@ deed without piety shall be worthless and will not be accepted:
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ
 
 ***“God accepteth only from those who ward off evil. (5:27)***
 
 The Holy Prophet (S) said to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وعليه: يا اباذر! كن بالعمل بالتقوا اشد
-اهتماما منك بالعمل, فانه لايقل عمل بالتقوا وكيف بكل ما يتقبل بقول الله
-انما يتقبل الله من المتقين.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وعليه: يا اباذر! كن بالعمل بالتقوا اشد
+> اهتماما منك بالعمل, فانه لايقل عمل بالتقوا وكيف بكل ما يتقبل بقول الله
+> انما يتقبل الله من المتقين.
 
 *“Try your best to acquire piety, because, nothing accompanied by piety
 shall be regarded smaller, and how come a thing accepted by
@@ -267,22 +199,14 @@ God accepts only from pious ones.”*[^6]
 
 Imam al Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: لا يغرنك بكائهم انما التقوى فى القلب.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: لا يغرنك بكائهم انما التقوى فى القلب.
 
 *“Do not let their crying deceive you, because, the piety exists only in
 heart.”*[^7]
 
 God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
-  </p>
-</blockquote>
+> وَإِن تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
 
 ***“But if ye persevere and ward off (evil}, then that of the steadfast
 heart of things. (3:186)***
@@ -339,13 +263,9 @@ for a journey is a positive act and not a negative one. Here, it would
 be appropriate to quote few narrations from the Commander of the
 Faithful Imam ‘Ali (a.s.), in this matter, as follows:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): اوصيكم عبادالله بتقوى الله فانها الزمام والقوام فتمسكوا
-بوثائقها واعتصموا بحقائقها تؤول بكم الى اكنان الدعة واوطان السعة
-ومعاقل الحرز ومنازل العز.
-  </p>
-</blockquote>
+> قال على (ع): اوصيكم عبادالله بتقوى الله فانها الزمام والقوام فتمسكوا
+> بوثائقها واعتصموا بحقائقها تؤول بكم الى اكنان الدعة واوطان السعة
+> ومعاقل الحرز ومنازل العز.
 
 *“O creatures of the Lord! I advise you to be afraid of Him. I advise
 you to adopt piety, because, piety is the safest way to salvation and
@@ -355,12 +275,8 @@ and pursuits bringing you peace and contentment.”*[^8]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: فان التقوا فى اليوم الحرز والجنة وفى وغد الطريق
-الى الجنة مسلكها واضح وسالكها رابح ومستودعها حافظ.
-  </p>
-</blockquote>
+> قال على عليه السلام: فان التقوا فى اليوم الحرز والجنة وفى وغد الطريق
+> الى الجنة مسلكها واضح وسالكها رابح ومستودعها حافظ.
 
 *“Piety will act as your shield and defense and in life and Hereafter as
 your guide to Heaven. Its ways are clear and simple. Those of you who
@@ -369,13 +285,9 @@ you will guard it and will guard you.”*[^9]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: اعلموا عبادالله ان التقوى دار حصن عزيز
-والفجور دار حصن ذليل لا يمنع اهله ولايحرز من لجا اليه الا وبالتقوى
-تقطع حمة الخطايا.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: اعلموا عبادالله ان التقوى دار حصن عزيز
+> والفجور دار حصن ذليل لا يمنع اهله ولايحرز من لجا اليه الا وبالتقوى
+> تقطع حمة الخطايا.
 
 *“Know O Creatures of God! That piety is strongly forfeited and a
 respectable Heaven, and sinful and vicious life is such a undependable
@@ -385,12 +297,8 @@ sins.”*[^10]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: فان تقوى الله حمت اوليا الله محارمه والزمت قلوبهم
-مخافته حيت اسهرت لياليهم واضمات هو اجرهم.
-  </p>
-</blockquote>
+> قال على عليه السلام: فان تقوى الله حمت اوليا الله محارمه والزمت قلوبهم
+> مخافته حيت اسهرت لياليهم واضمات هو اجرهم.
 
 *“Oh people! Piety prevents good people from indulging in sins and
 vices; it makes them God fearing, it persuades them to spend their
@@ -398,12 +306,8 @@ nights in His Worship, and to pass their days in fasting.”*[^11]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: ان التقوى عصمة لك فى حياتك وزلفى بعد
-مماتك.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: ان التقوى عصمة لك فى حياتك وزلفى بعد
+> مماتك.
 
 *“The same piety is shelter for you in this world, and will be a source
 of prosperity and salvation in the Hereafter.”*[^12]
@@ -433,11 +337,7 @@ bestowing upon him peace and tranquility. Piety for human being is like
 his home and clothing which protects him from natural calamities, cold
 and hot temperatures. God-Almighty, in Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ
-  </p>
-</blockquote>
+> وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ
 
 ***“But the best raiment is the raiment of righteousness. (7:26)***
 
@@ -486,12 +386,8 @@ bestows upon and human being a sense of profound insight and
 intelligence enabling him to diagnose, and to follow up his genuine
 interests of this world and Hereafter. Following is an example:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ
-فُرْقَانًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ
+> فُرْقَانًا
 
 ***“Oh ye who believe! If you keep your duty to God, He will give you
 discrimination (between right and wrong). (8:29)***
@@ -500,12 +396,8 @@ That is, God-Almighty open his esoteric eyes bestowing upon him a
 special insight to enable him to diagnose his prosperity, adversity,
 benefits and losses. In other verse God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ
-شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ
+> شَيْءٍ عَلِيمٌ
 
 ***“Observe your duty to God. God is teaching you and God is knower of
 all things. (2:282)***
@@ -514,24 +406,16 @@ Although, the Holy Qur’an has been descended from the Heavenly-Kingdom
 for the common people but especially the pious people receive guidance
 and advice. It is in this background that the Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
-  </p>
-</blockquote>
+> هَٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
 
 ***“This is a declaration for mankind, a guidance and an admonition unto
 those who ward off evil. (3:138)***
 
 Imam al-Sadiq (a.s.) quoted a tradition from his father:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبـدالله عليه السلام قال: كان ابى يقول: ما من شيئ افسد للقلب من
-الخطيئة ان القلب ليوقع الخطيئة فما تزال به حتى تغلب عليه فيصير اسفله
-اعلاه واعلاه اسفله.
-  </p>
-</blockquote>
+> عن ابي عبـدالله عليه السلام قال: كان ابى يقول: ما من شيئ افسد للقلب من
+> الخطيئة ان القلب ليوقع الخطيئة فما تزال به حتى تغلب عليه فيصير اسفله
+> اعلاه واعلاه اسفله.
 
 *“For heart's corruption there is nothing more damaging than sinning, in
 which case the hearts struggles and offers resistance against sins until
@@ -547,11 +431,7 @@ prosperity and adversely, welfare and wickedness, and last but not the
 least do's and don'ts. The Commander of the Faithful Imam ‘Ali (a.s.)
 has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: العقل رسول الحق.
-  </p>
-</blockquote>
+> قال على عليه السلام: العقل رسول الحق.
 
 *“The reason within human body is like the messenger of God.”*[^15]
 
@@ -562,42 +442,26 @@ in its administration. Unfortunately, passions are bitter enemy of
 reason and do not allow it to perform his function in an excellent
 manner. The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الهوى عدو العقل.
-  </p>
-</blockquote>
+> قال على عليه السلام: الهوى عدو العقل.
 
 *“Whims and passions of self are the enemies of reason”*[^16]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: من لم يملك شهوته لم يملك عقله.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: من لم يملك شهوته لم يملك عقله.
 
 *“Whoever does not have control over his passions will not be the master
 of his reason.*[^17]*”*
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: العجب يقسد العقل.
-  </p>
-</blockquote>
+> قال على عليه السلام: العجب يقسد العقل.
 
 *“Self-conceit and egotism corrupts reason.”*[^18]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اللجوج لا راى له.
-  </p>
-</blockquote>
+> قال على عليه السلام: اللجوج لا راى له.
 
 *“An obstinate person does not have correct opinion.”*[^19]
 
@@ -647,12 +511,8 @@ One of the most important effects of piety is the ability to dominate
 over the difficulties of day to day life. God-Almighty said in Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ
-لَا يَحْتَسِبُ
-  </p>
-</blockquote>
+> وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ
+> لَا يَحْتَسِبُ
 
 ***“And whosoever keepeth his duty to God, He will appoint a way out for
 him, and will provide for him from (a quarter) whence he hath no
@@ -660,24 +520,16 @@ expectation. (65:2-3)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يُسْرًا وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ
-  </p>
-</blockquote>
+> يُسْرًا وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ
 
 ***“And whosoever keepeth his duty to God, He maketh his course easy for
 him. (65:4)***
 
 The Commander of the Faithful and Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: فمن اخذ بالتقوى عزبت عنه الشدائد بعد
-دنوها واحلولت له الامور بعد مرارتها وانفرجت عنه الامواج بعد تراكمها
-واسهلت له الصعاب بعد انصابها.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: فمن اخذ بالتقوى عزبت عنه الشدائد بعد
+> دنوها واحلولت له الامور بعد مرارتها وانفرجت عنه الامواج بعد تراكمها
+> واسهلت له الصعاب بعد انصابها.
 
 *“Do you know how piety. helps those who make It the basic : principles
 of their lives ? It wards off the calamities which have crowded round
@@ -747,11 +599,7 @@ world is the roots of all evils but a pious person does not become
 infatuated with its allurements and charms. The Commander of the
 Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اياك وحب الدنيا فانها اصل كل خطيئة ومعدن كل بلية.
-  </p>
-</blockquote>
+> قال على عليه السلام: اياك وحب الدنيا فانها اصل كل خطيئة ومعدن كل بلية.
 
 *“Be careful of world’s love because, it is the roots of all
 sins.”*[^21]
@@ -766,12 +614,8 @@ freedom, comfort, dignity exaltedness, and regards an impious person
 simply as a prisoner or slave. The Commander of the Faithful Imam ' ‘Ali
 (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: فان تقوى الله مفتاح سداد وذخيرة معاد وعتق من كل
-ملكة وتجاة من لك هلكة.
-  </p>
-</blockquote>
+> قال على عليه السلام: فان تقوى الله مفتاح سداد وذخيرة معاد وعتق من كل
+> ملكة وتجاة من لك هلكة.
 
 *“Verily piety is a key to the doors of righteousness and virtue. It is
 a provision for the Next World. It is a source of freedom from slavery
@@ -781,12 +625,8 @@ wickedness and through it a person can achieve his aim.”*[^22]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: لا شرف اعلى من الاسلام ولا عزا عز من التقوى ولا
-معقل احسن من الورع.
-  </p>
-</blockquote>
+> قال على عليه السلام: لا شرف اعلى من الاسلام ولا عزا عز من التقوى ولا
+> معقل احسن من الورع.
 
 *“There is no distinction higher than Islam, no honor more honorable
 than fear of God'; no asylum better than self-restraint.”*[^23]
@@ -812,14 +652,10 @@ their desires, endeavored to satisfy their passions, did not recognize
 any limits in order to satisfy their carnal desires as idolaters and
 self-worshipers. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
-عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
-بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّهِ ۚ أَفَلَا
-تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
+> عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
+> بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّهِ ۚ أَفَلَا
+> تَذَكَّرُونَ
 
 ***“Hast thou seen him who maketh his desire his god, and God sendeth
 him astray purposely, and sealeth up his hearing and his heart, and
@@ -865,13 +701,9 @@ most effective role as far as the treatment of psychological and
 physical diseases, hygiene, and fitness of human beings are concerned.
 The Commander of the Faithful Imam ' ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-فان تقوى الله دوا قلوبكم, وبصر عمى أفئدتكم, وشفا مرض اجسادكم, وصلاح
-فساد صدوركم, وطهور دنس انفسكم, وجلا عشا بصاركم, وامن فزع جاشكم وضيا
-سواد ظلمتكم.
-  </p>
-</blockquote>
+> فان تقوى الله دوا قلوبكم, وبصر عمى أفئدتكم, وشفا مرض اجسادكم, وصلاح
+> فساد صدوركم, وطهور دنس انفسكم, وجلا عشا بصاركم, وامن فزع جاشكم وضيا
+> سواد ظلمتكم.
 
 *“Certainly piety is the medicine /or your hearts, sight for the
 blindness of your spirits, the cure /or the ailments o/your bodies, the
@@ -935,5 +767,4 @@ Ayatullah Khamenei, p-l02 [Tr].
 [^23]: Nahjul Balagha, saying 371.
 
 [^24]: Nahjul Balagha, sermon 198.
-
 

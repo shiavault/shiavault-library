@@ -812,4 +812,3 @@ mist that appears for a little while and then vanishes. Instead, you
 ought to say: "If it is the Lord's will, we will live and do this or
 that." (James, 4:13-15)
 
-

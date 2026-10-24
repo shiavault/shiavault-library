@@ -1737,4 +1737,3 @@ favor.
 in the poetry of Hafiz in which the interjection “O You” is one which
 occurs in numerous places in the Qur’an.
 
-

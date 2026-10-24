@@ -670,4 +670,3 @@ the two sermons were performed before Zuhr, they are to be repeated.
 
 (Compiled on the 24th of Rajab 1414)
 
-

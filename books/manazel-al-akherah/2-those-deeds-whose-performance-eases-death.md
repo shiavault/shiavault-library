@@ -22,10 +22,8 @@ him as to what he saw. He answered that he saw an ugly looking man who
 had held him by the neck, and was trying to strangle him. The Prophet
 told him to recite the following:
 
-<p dir="rtl">
 يا مَنْ يَقْبَلُ اليَسيرَ وَيَعْفُو عَنِ الكَثيرِ اقْبَلْ مِنّي
 اليَسيرَ وَاعْفُ عَنّي الكَثيرَ إنَّكَ أنْتَ الغَفورُ الرَّحيمُ
-</p>
 
 When he did so, the Prophet asked him as to what he saw now. He
 answered that he saw that a handsome man had come to his resque while
@@ -52,12 +50,10 @@ tribulations:
 Reciting Surah-al-Yaseen, Surah-as-Saffat and the following
 supplication (du'a) eases the tribulation during death:
 
-<p dir="rtl">
 لا إلهَ إلاّ الله الحَليمُ الكَريمُ. لا إلهَ إلاّ الله العَلِيِّ
 العَظيمُ. سُبْحانَ اللهِ رَبِّ السَّمواتِ السَّبْعِ وَرَبِّ الأرَضينَ
 السَّبْعِ وَما فِيهِنَّ وَما بَيْنَهُنَّ وَما فَوقَهُنَّ وَما تَحتَهُنَّ
 وَهوَ رَبُّ العَرشِ العَظيمِ وَالحَمدُ للهِ رَبِ العالَمينَ
-</p>
 
 Shaikh Sadooq narrates from Imam Ja'far-as-Sadiq (A.S.) that he said,
 “For the person who fasts on the last day of the month of Rajab, Allah
@@ -73,9 +69,7 @@ The Holy Prophet (S.A.W.S.) says that if a person recites four unit
 Surah-al-Falaq, and once Surah-an-Naas. After finishing the Namaz, sends
 Salawat on Us and recites ten times Tabeehate Arba.
 
-<p dir="rtl">
 سُبْحانَ اللهِ وَالحَمدُ للهِ وَلا إلهَ إلاّ اللهُ واللهُ أكْبَرُ
-</p>
 
 Almighty Allah will offer him shelter under the Throne (Arsh), and give
 him reward of a person fasting in the month of Ramazan. Till the time he
@@ -93,7 +87,6 @@ squeeze in the grave (Fishare Qap) & Qayamat. Allah will also save him
 from satan (shaitaan) and his army, will pay off his dues and save him
 from troubles and anxieties.
 
-<p dir="rtl">
 أعْدَدْتُ لِكُلِّ هَولٍ لا إلهَ إلاّ اللهُ وَلِكُلِّ غَمٍّ وَهَمٍّ ما
 شاءَ اللهُ وَلِكُلِّ نِعْمَةٍ اَلحَمْدُ للهِ وَلِكُلِّ رَخاءٍ الشُّكرِ
 للهِ وَلِكُلِّ اُعْجُوبَةٍ سُبْحانَ اللهِ وَلِكُلِّ ذَنْبٍ اَسْتَغْفِرُ
@@ -101,16 +94,13 @@ from troubles and anxieties.
 ضَيْقٍ حَسْبِيَ اللهُ وَلِكُلِّ قَضاءٍ وَقَدَرٍ تَوَكَّلْتُ عَلى اللهِ
 وَلِكُلِّ عَدُوٍّ اِعْتَصَمْتُ باللهِ وَلِكُلِّ طاعَةٍ وَمَعْصِيَةٍ لا
 حَولَ ولا قُوَّةَ إلاّ بِاللهِ العَلِيِّ العَظيمِ
-</p>
 
 The recitation of the following du'a seventy times carries great
 reward. The least of which is that he will be given glad tidings that he
 will enter Paradise
 
-<p dir="rtl">
 يا أسمَعَ السَّامِعينَ وَيا أبْصَرَ المُبْصِرينَ ويا أسْرَعَ الحاسِبينَ
 وَيا أحْكَمَ الحاكِمينَ
-</p>
 
 Shaikh Kulaini relates from Imam Ja'far-as-Sadiq (A.S.) that he said
 that the one who recites Surah-az-Zilzal in the Supererogatory Prayers
@@ -132,11 +122,9 @@ it to Allah's custody, so that during death these may come as a handy
 against shaitaan's deceit. Then he should recite the following
 supplication (du'a):
 
-<p dir="rtl">
 اَللّهُمَّ يا أرْحَمَ الرّاحِمينَ إنّي قّدْ أوْدَعْتُكَ يَقينِي هذا
 وَثَباتَ دِيني وأنْتَ مُسْتَودع وقَدْ أمَرْتَنا بِحِفظِ الوَدائِعَ
 فَرُدَّهُ عَلَيَّ وَقْتَ حُضُورِ مَوْتي
-</p>
 
 Fakhrul Muhaqqeqeen also says that those who wish to reamin safe from
 shaitaan's mischief of abandoning faith during death, should recite
@@ -152,7 +140,6 @@ can be ruined. Please give me a du'a by which my faith may also become
 permanent and firestablished.” Imam (A.S.) told him to recite the
 following du'a after every obligatory prayers (Wajib Namaz):
 
-<p dir="rtl">
 رَضِيتُ بِاللهِ رَبّاً وَبِمُحَمَّدٍ صَلّى اللهُ عَلَيهِ وآلِهِ
 نَبِيَّاً وبِالإسْلامِ دِيناً وبِالقُرآنِ كِتاباً وَبِالكَعْبَةِ
 قِبْلَةً وبِعلِيٍّ وَلِيّاً وإماماً وبِالحَسَنِ والحُسَينِ وعَلِيّ بنِ
@@ -161,7 +148,6 @@ following du'a after every obligatory prayers (Wajib Namaz):
 والحَسَنِ والحُجَّةِ بْنِ الحَسَنِ صَلَواتُ اللهِ عَلَيْهِمْ أئِمَّةً
 اللّهُمَّ إنّي رَضيتُ بَهِمْ أئِمّةً فارْضِني لَهُمْ إنَّكَ علي كُلِّ
 شَيءٍ قَدير
-</p>
 
 Those acts which prove beneficial during death.
 
@@ -186,10 +172,8 @@ turning away from it.
 To recite the following supplication (dua) in the Namaz of sundays in
 the month of Zilqad:
 
-<p dir="rtl">
 رَبَّنا لا تُزِغْ قُلُوبَنا بَعْدَ إذْ هَدَيْتَنا وَهَبْ لَنا مِنْ
 لَدُنْكَ رَحْمَةً إنَّكَ أنْتَ الوَهّابُ
-</p>
 
 The other beneficial acts are: To always recite Tasbeehe Fatema (A.S.)
 (34 times Allaho Akbar, 33 times Alhamdo Lillah, and 33 times
@@ -201,10 +185,8 @@ after morning (Subh)
 
 and evening (Maghrib) Prayers:
 
-<p dir="rtl">
 بِسْمِ اللهِ الرَّحْمنِ الرَّحيمِ لا حَوْلَ وَلا قُوَّةَ إلاّ بِاللهِ
 العَلِيِّ العَظيمِ
-</p>
 
 To recite 8 units (Rak'at) Namaz on the night of 22nd Rajab, in each
 unit (Rak'at) after Surah-al-Hamd recites 7 times Surah-at-Tawheed.

@@ -283,4 +283,3 @@ al-Ghadir, vol. 3, p. 196-202.
 
 [^5]: Bihāru 'l-Anwār, vol. 70, p. 114.
 
-

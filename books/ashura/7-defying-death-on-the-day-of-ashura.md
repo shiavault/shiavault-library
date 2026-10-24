@@ -596,4 +596,3 @@ al-Maqarram’s Maqtal al-Husayn (a.s) 165-170.
 
 [^19]: . Al-Muhaddith al-Qummi’s Nafas al-Mahmum 230.
 
-

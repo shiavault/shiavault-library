@@ -224,4 +224,3 @@ better), even if this person says the name of another person
 erroneously, then it has no problem and sacrifice is performed for the
 main person.
 
-

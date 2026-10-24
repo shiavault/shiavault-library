@@ -911,4 +911,3 @@ illumination is not merely a passive recipient. Every act of a free ego
 creates a new situation, and thus offers further opportunities of
 creative unfolding.
 
-

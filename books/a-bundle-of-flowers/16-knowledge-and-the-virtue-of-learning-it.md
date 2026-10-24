@@ -42,4 +42,3 @@ Allah than the virtue of worship."
 
 Bihar-ul-Anwar, vol. 1, p. 167
 
-

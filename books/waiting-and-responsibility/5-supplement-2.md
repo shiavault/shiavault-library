@@ -192,4 +192,3 @@ Imam (a.t.f.s.) in our hearts. We pray to Allah to make steadfast our
 faith, which is the root of love as the Quranic verse proclaims 'Those
 who believe are intense in their love for Allah.
 
-

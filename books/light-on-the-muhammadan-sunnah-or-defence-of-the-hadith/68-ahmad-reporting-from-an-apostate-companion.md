@@ -8,8 +8,7 @@ Allah, relating his traditions after his demise…then he was disgraced.
 During the caliphate of Umar he joined the Romans, adopting the
 Christian religion, because of something that enraged him. Reporting
 such a hadith is verily a dubious thing, and that who reported it might
-not get acquainted with the story of his apostasy. <span
-id="_anchor_634"></span>634
+not get acquainted with the story of his apostasy. 634
 
 These were comments uttered by eminent leaders (imams) about Musnad
 Ahmad, which suffice for introducing it and manifesting its worth as it

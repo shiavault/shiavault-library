@@ -9,12 +9,8 @@ Affection is the Basis of Religion
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-هل الدین الا الحب! ان الله عز و جل یقول: قل ان کنتم تحبون الله
-فاتبعونی یحببکم الله
-  </p>
-</blockquote>
+> هل الدین الا الحب! ان الله عز و جل یقول: قل ان کنتم تحبون الله
+> فاتبعونی یحببکم الله
 
 "Is religion anything save affection and mercy?! (Then he reasons:
 because) The Almighty God says: ***"***If you love God, obey my
@@ -25,11 +21,7 @@ affection towards God.
 
 We read in another narration from Imam Baqir (as):
 
-<blockquote dir="rtl">
-  <p>
-الدین هو الحب و الحب هو الدین
-  </p>
-</blockquote>
+> الدین هو الحب و الحب هو الدین
 
 "Religion is affection, and affection is religion." [^2]
 
@@ -81,11 +73,7 @@ Imam Sadiq (as) says: When Islam’s Prophet (S) decided to send soldiers
 to the battlefield; he called and reminded them the rules[^3], (so that
 if a soldier disregarded the rules, he was reproached):
 
-<blockquote dir="rtl">
-  <p>
-الله رسول مله علی و الله سبیل یف و بالله و الله بسم سیرو
-  </p>
-</blockquote>
+> الله رسول مله علی و الله سبیل یف و بالله و الله بسم سیرو
 
 “Depart towards the battlefield (but not for sensual desires; rather),
 in the name of God and for His consent, and with a pure intention for
@@ -99,7 +87,6 @@ Him free from any non-godly motive and act as per the Islamic programs
 
 لا تغلوا
 
-  
 )”
 
 : What is meant by this phrase? Three possible concepts could be
@@ -123,7 +110,6 @@ betray your enemies, and fight with them chivalrously.
 
 و لا تمثلوا
 
-  
 : Do not mutilate the corpse of your enemy after killing him.
 
 It has been narrated from Islam Prophet (S): Even if a wild dog attacked
@@ -142,20 +128,12 @@ because none of divine obligations is similar to fulfillment of promise,
 in which all people in the world agree despite of all different thoughts
 and desires they may have.[^5]
 
-<blockquote dir="rtl">
-  <p>
-امرأه لا و صبیاً لا و فانیاً شیخاً تقتلوا لا
-  </p>
-</blockquote>
+> امرأه لا و صبیاً لا و فانیاً شیخاً تقتلوا لا
 
 “Do not attack the weak and unable people who do not participate in the
 war, and do not kill the feeble old men, children and ladies.”
 
-<blockquote dir="rtl">
-  <p>
-الیها تضطروا ان الا شجراً تقطعوا لا و
-  </p>
-</blockquote>
+> الیها تضطروا ان الا شجراً تقطعوا لا و
 
 “Do not cut trees, unless you have to!”
 
@@ -170,18 +148,10 @@ In this case, there is no problem for cutting them as much as necessary.
 The further instructions of Prophet (S) clearly indicate Islamic
 clemency, benevolence and mercy in the battle field. Pay attention:
 
-<blockquote dir="rtl">
-  <p>
-المشرکین من احد الی نظر افضلهم او المسلمین ادنی من رجل ایما و
-  </p>
-</blockquote>
+> المشرکین من احد الی نظر افضلهم او المسلمین ادنی من رجل ایما و
 
-<blockquote dir="rtl">
-  <p>
-مأمنه فابلغوه ابی ان و الدین فی فاخوکم تبعکم فان الله کلام یسمع حتی
-جار فهو
-  </p>
-</blockquote>
+> مأمنه فابلغوه ابی ان و الدین فی فاخوکم تبعکم فان الله کلام یسمع حتی
+> جار فهو
 
 “When one from the Muslim host, either the highest or the lowest in
 rank, gives refuge to one of the polytheists, he shall be secure, and he
@@ -216,59 +186,35 @@ familiarity with scope of Islamic clemency and affection.
 Islam’s Prophet Muhammad (S) has numerated six rights for the beast
 which shall be observed by their owners:
 
-<blockquote dir="rtl">
-  <p>
-نزل اذا بعلفها یبدء
-  </p>
-</blockquote>
+> نزل اذا بعلفها یبدء
 
 “When he reaches a place of rest, first he shall provide water and food
 for the animal. Then, he may think of his own food.”
 
-<blockquote dir="rtl">
-  <p>
-به مر اذا الماء علیها یعرض و
-  </p>
-</blockquote>
+> به مر اذا الماء علیها یعرض و
 
 “During journey and course, when he finds water, he shall lead the
 animal there to drink.”
 
-<blockquote dir="rtl">
-  <p>
-ربها بحمد تسبح فانها وجهها یضرب لا و
-  </p>
-</blockquote>
+> ربها بحمد تسبح فانها وجهها یضرب لا و
 
 “(If he wants the animal to move faster) He shall not lash the animal’s
 face and head because the animals too glorify God, and it is not right
 to lash the head and face of animal which glorifies God.”[^7]
 
-<blockquote dir="rtl">
-  <p>
-الله سبیل فی الا ظهرها علی یقف لا و
-  </p>
-</blockquote>
+> الله سبیل فی الا ظهرها علی یقف لا و
 
 “He shall not ride on the standing animal unless in the path of God (for
 instance, in the battle field, where there is no problem for riding on
 the standing animal, because there is the possibility of raid by the
 enemy).”
 
-<blockquote dir="rtl">
-  <p>
-طاقتها فوق یحملها لا و
-  </p>
-</blockquote>
+> طاقتها فوق یحملها لا و
 
 “The animals too have a limited power and ability. One shall consider
 the beast’s ability, and do not make it carry more than what he can.”
 
-<blockquote dir="rtl">
-  <p>
-تطیق ما الا المشی من یکلفها لا و
-  </p>
-</blockquote>
+> تطیق ما الا المشی من یکلفها لا و
 
 “In addition to drafting, the beasts shall be also cared for long
 journeys and distances, and one shall ride on them as much as their
@@ -289,75 +235,39 @@ the world are another indication of Islamic mercy and benevolence.
 Thereby, Muslims invoke God for solving problems of all human beings
 (not only Muslims). We study hereunder some of these invocations:
 
-<blockquote dir="rtl">
-  <p>
-اللهم ادخل علی اهل القبور السرور
-  </p>
-</blockquote>
+> اللهم ادخل علی اهل القبور السرور
 
 “O Allah! Let all the dead to be cheerful!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم اغن کل فقیر
-  </p>
-</blockquote>
+> اللهم اغن کل فقیر
 
 “O Allah! Let all the needy to be rich!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم اشبع کل جائع
-  </p>
-</blockquote>
+> اللهم اشبع کل جائع
 
 “O Allah! Let all the hungry to be fed!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم اکس کل عریان
-  </p>
-</blockquote>
+> اللهم اکس کل عریان
 
 “O Allah! Let all the naked to be clothed!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم اقض دین کل مدین
-  </p>
-</blockquote>
+> اللهم اقض دین کل مدین
 
 “O Allah! Let all the indebted to get their debts paid!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم فرج عن کل مکروب
-  </p>
-</blockquote>
+> اللهم فرج عن کل مکروب
 
 “O Allah! Let the affairs of all the worried untangled!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم رد کل غریب
-  </p>
-</blockquote>
+> اللهم رد کل غریب
 
 “O Allah! Let all the expatriates be repatriated!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم فک کل اسیر
-  </p>
-</blockquote>
+> اللهم فک کل اسیر
 
 “O Allah! Let all the captives to be liberated!”
 
-<blockquote dir="rtl">
-  <p>
-اللهم اشف کل مریض
-  </p>
-</blockquote>
+> اللهم اشف کل مریض
 
 “O Allah! Let all the sick people to be healed!”
 
@@ -387,5 +297,4 @@ the Beast”.
 
 [^7]: According to the Holy Qur’an, we believe that the entire world is
 glorifying the Lord of World.
-
 

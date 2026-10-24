@@ -114,4 +114,3 @@ ablutions (i.e. ablutions has also to be performed).
 baths it is sufficient if he bathes himself only once with the intention
 of performing all those baths.
 
-

@@ -1,19 +1,11 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-”الحمد لله ربّ العالمين و الصّلوة و السّلام على خير خلقه و اشرف بر
-يّته محمّد و آله الطّاهر ين
-  </p>
-</blockquote>
+> ”الحمد لله ربّ العالمين و الصّلوة و السّلام على خير خلقه و اشرف بر
+> يّته محمّد و آله الطّاهر ين
 
-<blockquote dir="rtl">
-  <p>
-لا سيّما بقيّة الله في الأرضين و لعنة الله على اعدائهم اجمعين الى قيام
-يوم الدّين “
-  </p>
-</blockquote>
+> لا سيّما بقيّة الله في الأرضين و لعنة الله على اعدائهم اجمعين الى قيام
+> يوم الدّين “
 
 The practical laws of Islam that are related to the actions that one
 must perform and those that must be avoided, and are the responsibility
@@ -43,5 +35,4 @@ goods that a person sells (otherwise known as advertising).
 ***Mubah*****:** Those actions whose performance or turning away from
 are equal; meaning one neither gets a reward, nor punishment - for
 example walking or sitting.
-
 

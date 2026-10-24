@@ -18,4 +18,3 @@ of course, remains controversial. The theistic proofs section sets out
 to explain each of the common philosophical arguments for theism, and so
 to explore the case for the existence of God.
 
-

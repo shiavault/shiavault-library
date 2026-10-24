@@ -428,7 +428,6 @@ prolonged bowing and prostration before Allah, and more than anyone else
 in weeping out of fear of the Almighty Allah; so much so that he
 attained martyrdom while prostrating before Allah.
 
-
 **Hadith from Imam Kadim (A)**
 
 ‘Allah has given the people two proofs, an apparent one and a hidden
@@ -558,7 +557,6 @@ days. Very often he would pray one thousand rak’ahs in twenty-four
 hours, with prolonged prostrations lasting many hours and he would fast
 very often.
 
-
 173 See for example the commentary of Ibn Abi al-H{adeed on Nahj
 al-Bala\>ghah, vol. 1, p188, on the issue of the shawra . He was very
 generous and he would help people particularly during the night.
@@ -567,5 +565,4 @@ He never did any injustice to anyone in words or deeds. He would never
 speak harshly. He would never sit back leaning in the presence of
 someone sitting.174 He would never laugh loudly. He would call upon all
 the members of his family and servants to have food together.
-
 

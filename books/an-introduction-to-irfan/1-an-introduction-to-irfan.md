@@ -417,4 +417,3 @@ God willing, this shall be explained later.
 1. Murtada Mutahhari, An Introduction to Ilm al Kalam, transl. By Ali
 Quli Qarai, Al-Tawhid, vol II No. 2.
 
-

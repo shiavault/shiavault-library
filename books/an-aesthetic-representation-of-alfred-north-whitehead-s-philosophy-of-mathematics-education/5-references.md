@@ -42,4 +42,3 @@ thought* (pp. 143-181). NY: Macmillian.
 Whitehead, A. N. (1985).*Process and Reality* (Corrected ed.). (D. R.
 Griffin & D. W. Sherburne, Eds.). New York: The Free Press.
 
-

@@ -119,7 +119,6 @@ will, and forward (good deeds) beforehand for yourselves, and be careful
 (of your duty) to Allah, and know that you shall meet Him. And give
 gladtidings to the believers (O' Muhammad) ." Commentary:
 
-
 **A Means of Protection for the Human Race**
 
 In this verse wives are likened to a tillage. This metaphor about women
@@ -489,5 +488,4 @@ an equality and justice between duty and right.
 The significance of this meaning, and the difference between the sexes
 and their responsibilities, will be explained later when the occasion
 applies.
-
 

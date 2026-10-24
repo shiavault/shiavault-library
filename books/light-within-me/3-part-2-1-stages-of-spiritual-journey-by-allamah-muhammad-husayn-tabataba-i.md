@@ -731,4 +731,3 @@ Arab mystical poet, ibn Fãriz.
 [^4]: In the Qur'an Allah asks the Holy Prophet to tell the pagans: "I
 am a human being just like you, except that I receive revelation."
 
-

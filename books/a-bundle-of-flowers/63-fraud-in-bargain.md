@@ -28,4 +28,3 @@ against Muslims."
 
 Bihar-ul-Anwar, vol. 103, p. 80
 
-

@@ -61,4 +61,3 @@ and whoever rejected him would die eternal death. All the great benefits
 are with him.’ Then he kissed the Prophet’s head and went back to his
 place.”
 
-

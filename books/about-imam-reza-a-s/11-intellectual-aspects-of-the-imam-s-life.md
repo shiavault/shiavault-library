@@ -13,4 +13,3 @@ Exegesis
 
 *Shari'a* (Islamic Legislative System)
 
-

@@ -182,4 +182,3 @@ can not say anything about their original teachings and original beliefs
 Buddhism, Jainism, Confucianism, Shintoism, and Sikhism are the thoughts
 of human minds and cannot be considered as Divine religion.
 
-

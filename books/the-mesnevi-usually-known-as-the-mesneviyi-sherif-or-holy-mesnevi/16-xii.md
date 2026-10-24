@@ -343,4 +343,3 @@ m231:4 A metallic mirror, formerly much used.
 
 m232:1 Qur’ān vii. [^11]:
 
-

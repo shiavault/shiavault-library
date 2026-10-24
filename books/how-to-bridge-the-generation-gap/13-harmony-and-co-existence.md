@@ -27,4 +27,3 @@ Your conversation having such sweet words and appropriate metaphor is
 every fascinating for me and in respect of content too it is meaningful
 and perfectly correct. There is no doubt about its wisdom.
 
-

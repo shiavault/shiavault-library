@@ -55,4 +55,3 @@ and *Sajdah*) were *rukn*. It means that if anyone of them is left out
 or added in prayer, though by mistake or unintentionally, the prayer is
 *batil* (void).
 
-

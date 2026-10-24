@@ -920,7 +920,7 @@ and relations between the two groups were extremely strong.
 3 – Jews
 --------
 
-Jews came and settled down in Kufa since the 20<sup>th</sup> year of the
+Jews came and settled down in Kufa since the 20th year of the
 Hijrah**[5]** and the majority of them arrived from Hijaz after they had
 been expelled from there by Umar bin Khattab.**[6]** They lived in a
 separate area in Kufa which was associated with their name and they also

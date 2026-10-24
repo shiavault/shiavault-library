@@ -107,4 +107,3 @@ as-Saghir, vol. 2, p. 45, 95.
 [^2]: The maraji‘ at-taqlid are the sources of imitation for Islamic
 law. [Tr.]
 
-

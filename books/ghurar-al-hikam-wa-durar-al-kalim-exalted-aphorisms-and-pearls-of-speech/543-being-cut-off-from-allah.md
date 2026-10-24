@@ -8,4 +8,3 @@ Allah becomes wretched and faces hardship.
 
 > 1ـ مَنِ انْقَطَعَ إلى غَيْرِ اللّهِ شَقِيَ وتَعَنّى.
 
-

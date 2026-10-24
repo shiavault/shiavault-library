@@ -4,17 +4,9 @@ Sermon 200: By Allah, Mu`awiyah is not more cunning than I am….
 *Treason and treachery of Mu\`awiyah and the fate of those guilty of
 treason*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في معاوية
-  </p>
-</blockquote>
+> في معاوية
 
 By Allah, [^1] Mu\`awiyah is not more cunning than I am, but he deceives
 and commits evil deeds. Had it not been for the reprehensibility of
@@ -24,15 +16,11 @@ and every deceitful person will have a banner by which he will be
 recognised on the Day of Judgement. By Allah, I cannot be made forgetful
 by strategy, nor can I be overpowered by hardships.
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ مَا مُعَاوِيَةُ بِأَدْهَى مِنِّي، وَلكِنَّهُ يَغْدِرُ
-وَيَفْجُرُ، وَلَوْلاَ كَرَاهِيَةُ الْغَدْرِ لَكُنْتُ مِنْ أَدْهَى
-النَّاسِ، وَلَكِنْ كُلُّ غَدْرَة فَجْرَةٌ، وَكُلُّ فَجْرَة كَفْرَةٌ،
-وَلِكُلِّ غَادِر لِوَاءٌ يُعْرَفُ بِهِ يَوْمَ الْقِيَامَةِ. وَاللهِ
-مَا أَسْتَغْفَلُ بالْمَكِيدَةِ، وَلاَ أُسْتَغْمَزُ بالشَّدِيدَةِ.
-  </p>
-</blockquote>
+> وَاللهِ مَا مُعَاوِيَةُ بِأَدْهَى مِنِّي، وَلكِنَّهُ يَغْدِرُ
+> وَيَفْجُرُ، وَلَوْلاَ كَرَاهِيَةُ الْغَدْرِ لَكُنْتُ مِنْ أَدْهَى
+> النَّاسِ، وَلَكِنْ كُلُّ غَدْرَة فَجْرَةٌ، وَكُلُّ فَجْرَة كَفْرَةٌ،
+> وَلِكُلِّ غَادِر لِوَاءٌ يُعْرَفُ بِهِ يَوْمَ الْقِيَامَةِ. وَاللهِ
+> مَا أَسْتَغْفَلُ بالْمَكِيدَةِ، وَلاَ أُسْتَغْمَزُ بالشَّدِيدَةِ.
 
 Alternative Sources for Sermon 200
 ----------------------------------
@@ -114,5 +102,4 @@ ignorant of politics and weak in foresight. They do not feel it
 necessary to think what difficulties and impediments exist in the way of
 a person who adheres to principles and laws which prevent him from
 proceeding forward even after approaching near success."
-
 

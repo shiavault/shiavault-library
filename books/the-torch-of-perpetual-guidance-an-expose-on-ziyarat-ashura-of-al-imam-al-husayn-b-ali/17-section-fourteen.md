@@ -1,12 +1,8 @@
 Section Fourteen
 ================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ اجْعَلْنِي عِنْدَكَ وَجِيهاً بِالْحُسَيْنِ فِي الدُّنْيا
-وَالآخِرَةِ
-  </p>
-</blockquote>
+> أَللَّهُمَّ اجْعَلْنِي عِنْدَكَ وَجِيهاً بِالْحُسَيْنِ فِي الدُّنْيا
+> وَالآخِرَةِ
 
 “O’ Allah! Make me worthy of respect with You through Husayn, peace be
 upon him, both in the transient world and also the next life.”  
@@ -27,5 +23,4 @@ Truly if we were not followers of the Prophet of Islam and his Divinely
 appointed successors, we would not be worthy of having respect shown to
 us by Allah as these personalities are the ‘rope of Allah’ which He has
 stretched forth for His servants.
-
 

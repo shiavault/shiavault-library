@@ -4,18 +4,10 @@ Sermon 174: As for me, I would never be frightened of fighting….
 *About Talhah ibn \`Ubaydillah. Delivered when he received the news that
 Talhah and az-Zubayr had already left for Basrah to fight against him.*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في معنى طلحة بن عبيدالله [ وقد قاله حين بلغه خروج طلحة والزبير إلى
-البصرة لقتاله]
-  </p>
-</blockquote>
+> في معنى طلحة بن عبيدالله [ وقد قاله حين بلغه خروج طلحة والزبير إلى
+> البصرة لقتاله]
 
 As for me, I would never be frightened of fighting or be made to fear
 striking because I am satisfied with Allah's promise of support to me.
@@ -26,16 +18,12 @@ fact, he was the most anxious among them for his killing. Therefore, he
 has tried to create misunderstanding by collecting forces in order to
 confuse the matter and to create doubt.
 
-<blockquote dir="rtl">
-  <p>
-قَدْ كُنْتُ وَمَا أُهَدَّدُ بالْحَرْبِ، وَلاَ أُرَهَّبُ بِالضَّرْبِ،
-وَأَنَا عَلَى مَا قَدْ وَعَدَني رَبِّي مِنَ النَّصْرِ. وَاللهِ مَا
-اسْتَعْجَلَ مُتَجَرِّداً لِلطَّلَبِ بِدَمِ عُثْمانَ إِلاَّ خَوْفاً
-مِنْ أَنْ يُطَالَبَ بِدَمِهِ، لاَنَّهُ مَظِنَّتُهُ، وَلَمْ يَكُنْ فِي
-الْقَومِ أَحْرَصُ عَلَيْهِ مِنْهُ، فَأَرَادَ أَنْ يُغَالِطَ بِمَا
-أَجْلَبَ فِيهِ لِيَلْتَبِسَ الاْمْرُ وَيَقَعَ الشَّكُّ.
-  </p>
-</blockquote>
+> قَدْ كُنْتُ وَمَا أُهَدَّدُ بالْحَرْبِ، وَلاَ أُرَهَّبُ بِالضَّرْبِ،
+> وَأَنَا عَلَى مَا قَدْ وَعَدَني رَبِّي مِنَ النَّصْرِ. وَاللهِ مَا
+> اسْتَعْجَلَ مُتَجَرِّداً لِلطَّلَبِ بِدَمِ عُثْمانَ إِلاَّ خَوْفاً
+> مِنْ أَنْ يُطَالَبَ بِدَمِهِ، لاَنَّهُ مَظِنَّتُهُ، وَلَمْ يَكُنْ فِي
+> الْقَومِ أَحْرَصُ عَلَيْهِ مِنْهُ، فَأَرَادَ أَنْ يُغَالِطَ بِمَا
+> أَجْلَبَ فِيهِ لِيَلْتَبِسَ الاْمْرُ وَيَقَعَ الشَّكُّ.
 
 By Allah, he did not act in either of three ways about \`Uthman. If the
 son of \`Affan (\`Uthman) was in the wrong, as Talhah believed, it is
@@ -49,19 +37,15 @@ him as they wished). But he adopted none of these three ways, and came
 out with a thing in which there is no good, and his excuses are not
 acceptable.
 
-<blockquote dir="rtl">
-  <p>
-وَوَاللهِ مَا صَنَعَ فِي أَمْرِ عُثْمانَ وَاحِدَةً مِنْ ثَلاَث: لَئِنْ
-كَانَ ابْنُ عَفَّانَ ظَالِماً ـ كَمَا كَانَ يَزْعُمُ ـ لَقَدْ كَانَ
-يَنْبَغِي لَهُ أَنْ يُوَازِرَ قَاتِلِيهِ وَأَنْ يُنَابِذَ نَاصِرِيهِ،
-وَلَئِنْ كَانَ مَظْلُوماً لَقَدْ كَانَ يَنْبَغِي لَهُ أَنْ يَكُونَ
-مِنَ المُنَهْنِهِينَ عَنْهُ وَالْمُعَذِّرِينَ فِيهِ، وَلَئِنْ كَانَ
-فِي شَكّ مِنَ الْخَصْلَتَيْنِ، لَقَدْ كَانَ يَنْبَغِي لَهُ أَنْ
-يَعْتَزِلَهُ وَيَرْكُدَ جَانِباً وَيَدَعَ النَّاسَ مَعَهُ، فَمَا
-فَعَلَ وَاحِدَةً مِنَ الثَّلاَثِ، وَجَاءَ بِأَمْر لَمْ يُعْرَفْ
-بَابُهُ، وَلَمْ تَسْلَمْ مَعَاذِيرُهُ.
-  </p>
-</blockquote>
+> وَوَاللهِ مَا صَنَعَ فِي أَمْرِ عُثْمانَ وَاحِدَةً مِنْ ثَلاَث: لَئِنْ
+> كَانَ ابْنُ عَفَّانَ ظَالِماً ـ كَمَا كَانَ يَزْعُمُ ـ لَقَدْ كَانَ
+> يَنْبَغِي لَهُ أَنْ يُوَازِرَ قَاتِلِيهِ وَأَنْ يُنَابِذَ نَاصِرِيهِ،
+> وَلَئِنْ كَانَ مَظْلُوماً لَقَدْ كَانَ يَنْبَغِي لَهُ أَنْ يَكُونَ
+> مِنَ المُنَهْنِهِينَ عَنْهُ وَالْمُعَذِّرِينَ فِيهِ، وَلَئِنْ كَانَ
+> فِي شَكّ مِنَ الْخَصْلَتَيْنِ، لَقَدْ كَانَ يَنْبَغِي لَهُ أَنْ
+> يَعْتَزِلَهُ وَيَرْكُدَ جَانِباً وَيَدَعَ النَّاسَ مَعَهُ، فَمَا
+> فَعَلَ وَاحِدَةً مِنَ الثَّلاَثِ، وَجَاءَ بِأَمْر لَمْ يُعْرَفْ
+> بَابُهُ، وَلَمْ تَسْلَمْ مَعَاذِيرُهُ.
 
 Alternative Sources for Sermon 174
 ----------------------------------
@@ -86,5 +70,4 @@ he should have supported his killers and justified their action. It is
 not the intention that in the case of \`Uthman being in the wrong Talhah
 should have supported the attackers because he was already supporting
 and encouraging them.
-
 

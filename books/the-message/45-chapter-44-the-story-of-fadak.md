@@ -263,4 +263,3 @@ p.248.
 
 [^11]: Sharh-i Ibn Abil Hadid, vol. XVI, page 278.
 
-

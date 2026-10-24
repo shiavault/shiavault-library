@@ -43,12 +43,8 @@ ever enter a city but through the gate? So Allah has been kind to you so
 profoundly by appointing, after His messenger, the Imams as your
 commanders. He declared on the Day of Ghadeer:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمْ الْإِسْلَامَ دِينًا.
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمْ الْإِسْلَامَ دِينًا.
 
 ***Today, I have perfected your Religion for you and concluded My Mercy
 on you and selected for you the religion of Islam. (Sura Maida 5:3)***
@@ -60,12 +56,8 @@ may grant abundance and increase in these said things so as to see who
 among you is obeying His commands both openly and privately. And then He
 said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى.
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى.
 
 ***(O Messenger!) Tell (them that) I do not want any remuneration from
 you for this Messengership except that you should love my near
@@ -102,11 +94,7 @@ the dwellers of Hell by their bellies. The Hazrat said: If it is so then
 believer of the people of Firon will be destroyed about whom Allah has
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ…
-  </p>
-</blockquote>
+> وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ…
 
 ***And a believing man of Firon’s people who hid his faith (Sura Ghafir
 40:28)***
@@ -130,5 +118,4 @@ And it is reported in *Basharatul Mustafa* with reliable chains of
 narrators that Imam Baqir (a.s.) said: A man who calls Allah through our
 mediation (Wasilah) gets success and welfare and the one who calls Allah
 without our mediation destroys himself and also others.
-
 

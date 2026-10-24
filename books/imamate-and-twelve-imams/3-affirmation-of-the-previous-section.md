@@ -70,4 +70,3 @@ same principle applied by the first caliph to this matter should have
 been applied by the whole early community to the problem of succession
 to the Holy Prophet.
 
-

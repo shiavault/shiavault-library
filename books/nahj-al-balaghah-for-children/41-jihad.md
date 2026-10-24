@@ -12,4 +12,3 @@ for the elect among His friends.
 
 (Sermon 27)
 
-

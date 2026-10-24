@@ -8,10 +8,5 @@ which is with Him; favour is gained with the creatures by turning away
 from what they possess.
 
 > 1ـ اَلحُظْوَةُ عِنْدَ الخالِقِ بِالرَّغْبَةِ فيما لَدَيْهِ،
-<blockquote dir="rtl">
-  <p>
-اَلحُظْوَةُ عِنْدَ المَخْلُوقِ بِالرَّغْبَةِ عَمّا في يَدَيْهِ.
-  </p>
-</blockquote>
-
+> اَلحُظْوَةُ عِنْدَ المَخْلُوقِ بِالرَّغْبَةِ عَمّا في يَدَيْهِ.
 

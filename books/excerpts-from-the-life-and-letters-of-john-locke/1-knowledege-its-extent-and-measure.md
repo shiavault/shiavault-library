@@ -229,4 +229,3 @@ moral knowledge, which, as it is not beyond our strength, so is not
 beside our purpose, but may be attained by moderate industry, and
 improved to our infinite advantage.
 
-

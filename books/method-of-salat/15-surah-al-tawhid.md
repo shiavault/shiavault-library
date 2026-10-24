@@ -6,7 +6,7 @@
 ###### *Bismil laahir Rahmaanir Raheem  
 * In the name of Allah, the Beneficent, the Merciful.
 
-#### قُلْ هُوَ اللَّهُ أَحَدٌ (1)<span lang="AR-SA"></span>
+#### قُلْ هُوَ اللَّهُ أَحَدٌ (1)
 
 ###### *Qul Huwal-laahu Ahad  
 * 1. Say: He, Allah, is One.

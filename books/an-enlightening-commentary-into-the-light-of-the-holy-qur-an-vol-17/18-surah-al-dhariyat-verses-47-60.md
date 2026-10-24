@@ -4,17 +4,9 @@ Surah al-Dhariyat, Verses 47 - 60
 Surah al-Dhariyat - Verses 47-48
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاء بَنَيْنَاهَا بِأيْدٍ وَإِنَّا لَمُوسِعُونَ
-  </p>
-</blockquote>
+> وَالسَّمَاء بَنَيْنَاهَا بِأيْدٍ وَإِنَّا لَمُوسِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالْأرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ
-  </p>
-</blockquote>
+> وَالْأرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ
 
 ***47. With [indescribable] power did We construct the heaven. Indeed,
 We are Able to extend the vastness of space thereof.***  
@@ -118,11 +110,7 @@ comfort on the globe.
 Surah al-Dhariyat - Verse 49
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِن كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِن كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ***49. And of everything We have created pairs that you may remember
 [and take lessons].***
@@ -183,18 +171,10 @@ beings.[^3]
 Surah al-Dhariyat - Verses 50-51
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَفِرُّوا إِلَی اللَّهِ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> فَفِرُّوا إِلَی اللَّهِ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلَآ تَجْعَلُوا مَعَ اللَّهِ إِلَهًا آخَرَ إِنِّي لَكُم مِّنْهُ
-نَذِيرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> وَلَآ تَجْعَلُوا مَعَ اللَّهِ إِلَهًا آخَرَ إِنِّي لَكُم مِّنْهُ
+> نَذِيرٌ مُّبِينٌ
 
 ***50. Therefore, flee to Allah. Indeed, I am a plain warner to you from
 Him.***  
@@ -268,30 +248,14 @@ Allah (S).
 Surah al-Dhariyat - Verses 52-55
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ مَا أتَی الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلاّ قَالُوا
-سَاحِرٌ أوْ مَجْنُونٌ
-  </p>
-</blockquote>
+> كَذَلِكَ مَا أتَی الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلاّ قَالُوا
+> سَاحِرٌ أوْ مَجْنُونٌ
 
-<blockquote dir="rtl">
-  <p>
-أتَوَاصَوْا بِهِ بَلْ هُمْ قَوْمٌ طَاغُونَ
-  </p>
-</blockquote>
+> أتَوَاصَوْا بِهِ بَلْ هُمْ قَوْمٌ طَاغُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّ عَنْهُمْ فَمَا أنتَ بِمَلُومٍ
-  </p>
-</blockquote>
+> فَتَوَلَّ عَنْهُمْ فَمَا أنتَ بِمَلُومٍ
 
-<blockquote dir="rtl">
-  <p>
-وَذَكِّرْ فَإِنَّ الذِّكْرَی تَنفَعُ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَذَكِّرْ فَإِنَّ الذِّكْرَی تَنفَعُ الْمُؤْمِنِينَ
 
 ***52. [O Muhammad (S)!] Likewise [your Prophethood was denied], no
 Messenger came to those before them but they said: “[He is] a sorcerer
@@ -357,23 +321,11 @@ them to set their hopes on him entails profits for them.
 Surah al-Dhariyat - Verses 56-58
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاّ لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاّ لِيَعْبُدُونِ
 
-<blockquote dir="rtl">
-  <p>
-مَا اُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَا اُرِيدُ أن يُطْعِمُونِ
-  </p>
-</blockquote>
+> مَا اُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَا اُرِيدُ أن يُطْعِمُونِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ
 
 ***56. And I created not the jinn and mankind except that they should
 worship Me.***  
@@ -466,18 +418,10 @@ others by His Essence.
 Surah al-Dhariyat - Verses 59-60
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِّثْلَ ذَنُوبِ أصْحَابِهِمْ
-فَلَآ يَسْتَعْجِلُونِ
-  </p>
-</blockquote>
+> فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِّثْلَ ذَنُوبِ أصْحَابِهِمْ
+> فَلَآ يَسْتَعْجِلُونِ
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِن يَوْمِهِمُ الَّذِي يُوعَدُونَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِن يَوْمِهِمُ الَّذِي يُوعَدُونَ
 
 ***59. And indeed, for those who did wrong, there is a portion of
 torment like the evil portion of torment [which came for] their likes;
@@ -526,5 +470,4 @@ al-Ridha, see Saduq’s Tawhid; Nur al-Thiqalayn, vol. 5, p. 130.
 [^8]: Tafsir Safi, vol. 5, p. 75.
 
 [^9]: Tafsir Makhzan al-‘Irfan, p. 334.
-
 

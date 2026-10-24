@@ -536,4 +536,3 @@ best man I have ever seen in Iraq, and was usually visited by Najaf
 people for seeking blessing and asking the solutions of judicial
 questions.
 
-

@@ -45,4 +45,3 @@ supernatural inspiration. The marvellous order underlying nature bears
 testimony to the presence of an omniscient, omnipotent and omnipresent
 intelligence.
 
-

@@ -110,4 +110,3 @@ sounds of the *mu’adhin*, all of us used to stand for prayers.[^7]
 
 [^7]: Faslnameye Hawze, No. 32
 
-

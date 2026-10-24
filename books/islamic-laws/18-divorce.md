@@ -411,4 +411,3 @@ it, he can take back from her the things which he supplied her during
 that period if she has not used them up, but he cannot demand from her
 the things which she has already expended.
 
-

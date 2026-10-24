@@ -48,4 +48,3 @@ moments made him ill for one whole week.
 Source: **“Karamat wa Hikayate Ashiqane Khuda” - “Miracles and Anecdotes
 of the Close Servants of Allah”,** pp 61-64. Translated AJ/231105
 
-

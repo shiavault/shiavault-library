@@ -31,4 +31,3 @@ conflicts.
 Keywords: development; human rights; human security; justice;
 peace;*ummah*
 
-

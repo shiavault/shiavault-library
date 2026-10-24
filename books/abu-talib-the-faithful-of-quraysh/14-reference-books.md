@@ -192,4 +192,3 @@ lij-Jami’iyeen 1377 AH.
 75. Al-Ittiqan fee Uloom al-Quran by Jalaluddeen as-Sayooti, Hijazi
 press, Cairo 1368 AH.
 
-

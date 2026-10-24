@@ -79,4 +79,3 @@ emigration to Madina 13 years later.
 2. The period at Madina, beginning with the Prophet's historical arrival
 till his sad demise 10 years later at the age of 63.
 
-

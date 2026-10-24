@@ -16,4 +16,3 @@ The present book is at tremendous attempt as a probe into the history of
 Hadith. The author deserves every commendation for his painstaking and
 thought-provoking work.
 
-

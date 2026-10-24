@@ -68,4 +68,3 @@ Burhān, vol. 5, p. 332; Tafsīr Nūr al-Thaqalayn, vol. 5, p. 322.
 [^6]: For more information see Tafsīr Ibn kathīr, vol. 1, p. 121; Bihār
 al-Anwār, vol. 16, p. 132; Al-Mīzān, vol. 19, p. 264.
 
-

@@ -1313,4 +1313,3 @@ to the Imams. Translator's Note.
 [^9]: Of course if he was likely to make many mistakes he would not yet
 be regarded as a mujtahid at all. Translator's Note.
 
-

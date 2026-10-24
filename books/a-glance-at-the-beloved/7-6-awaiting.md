@@ -9,11 +9,7 @@ al-Asr (a.t.f.s.) (may Allah hasten his appearance) is awaiting his
 reappearance. In traditions awaiting the reappearance is described as
 the best worship. Holy Prophet (s.a.w.s.) declares:
 
-<blockquote dir="rtl">
-  <p>
-أفْضَلُ العِبادةِ انتِظارُ الفَرَجْ.
-  </p>
-</blockquote>
+> أفْضَلُ العِبادةِ انتِظارُ الفَرَجْ.
 
 'The best worship is awaiting the reappearance.'[^1]
 
@@ -23,33 +19,21 @@ time of occultation, it assumes special status and becomes the highest
 form of worship as underlined by traditions. We have brought some of
 these traditions to impress our point. Imam Sadiq (a.s.) asserts:
 
-<blockquote dir="rtl">
-  <p>
-من مات منكم وهو منتظر لهذا الأمر كمن هو مع القائم في فسطاطه
-  </p>
-</blockquote>
+> من مات منكم وهو منتظر لهذا الأمر كمن هو مع القائم في فسطاطه
 
 'One who dies while he is awaiting this matter (of reappearance), he is
 like the one who was with Qaim (a.t.f.s.) himself in his tent'.
 
 Then Imam (a.s.) paused for a few moments and said:
 
-<blockquote dir="rtl">
-  <p>
-لا، بل كمن قارَعَ مَعَهُ بِسَيْفِهْ.
-  </p>
-</blockquote>
+> لا، بل كمن قارَعَ مَعَهُ بِسَيْفِهْ.
 
 'Nay, he is like the one fought along with him (Qaim (a.t.f.s.)), with
 his sword.'
 
 Then Imam (a.s.) added:
 
-<blockquote dir="rtl">
-  <p>
-لا واللهِ اَلا كَمَنْ اُسْتُشْهِدَ مَعَ رَسُولِ الله (ص).
-  </p>
-</blockquote>
+> لا واللهِ اَلا كَمَنْ اُسْتُشْهِدَ مَعَ رَسُولِ الله (ص).
 
 No by Allah! He is not but like the one who was martyred in front of the
 Holy Prophet (s.a.w.s.).[^2]
@@ -111,11 +95,7 @@ recommended it.
 Those who consider reappearance as near are safe and sound. We recite in
 Dua al-Ahad:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ يَرَوْنَهُ بَعِيدًا، وَنَرَاهُ قَرِيبًا
-  </p>
-</blockquote>
+> إِنَّهُمْ يَرَوْنَهُ بَعِيدًا، وَنَرَاهُ قَرِيبًا
 
 '...they (the opponents) consider reappearance of Imam (a.t.f.s.) as
 distant while we consider it near.'[^5]
@@ -130,11 +110,7 @@ inform us about this affair, which we are awaiting. When will it
 occur?'  
  Imam (a.s.) warned:
 
-<blockquote dir="rtl">
-  <p>
-كَذَبَ الوقَّاتون. و هَلَكَ المُسْتَعجِلونْ. ونَجا المُسَلِّمون.
-  </p>
-</blockquote>
+> كَذَبَ الوقَّاتون. و هَلَكَ المُسْتَعجِلونْ. ونَجا المُسَلِّمون.
 
 'Those who fix the time are liars, those who hasten are destroyed and
 those who submit are safe.'[^6]
@@ -162,11 +138,7 @@ responsibility by making a sincere intention from the depth of his heart
 in the time of occultation. The value of intention in the performance of
 good deeds is highlighted by the Messenger of Allah (s.a.w.s.) thus:
 
-<blockquote dir="rtl">
-  <p>
-نيَّةُ المؤمِن خيرٌ من عمله
-  </p>
-</blockquote>
+> نيَّةُ المؤمِن خيرٌ من عمله
 
 'The intention of a believer is better than his action'.[^7]
 
@@ -222,11 +194,7 @@ die before meeting the Qaim (a.t.f.s.), what will happen?'
 
 Imam (a.s.) soothed him by saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ القائل منكم إن أدركت القائم من آل محمد نصرته كالمقارع معه بسيفه.
-  </p>
-</blockquote>
+> إنَّ القائل منكم إن أدركت القائم من آل محمد نصرته كالمقارع معه بسيفه.
 
 'Anyone of you who says (from his heart): If I attain the time of Imam
 al-Zamana (a.t.f.s.), I will help him, he is like the one who wields the
@@ -258,11 +226,7 @@ recognition of Imam (a.t.f.s.).
  Therefore, the true awaiter in the time of occultation is the one who
 claims with his tongue as well as his heart:
 
-<blockquote dir="rtl">
-  <p>
-نُصْرَتي مُعَدَةٌ لَكُمْ
-  </p>
-</blockquote>
+> نُصْرَتي مُعَدَةٌ لَكُمْ
 
 'My help is ready for you.'[^12]
 
@@ -422,11 +386,7 @@ Then the old man rose, did salaam and left. When he had turned his back,
 Imam (a.s.), looking towards him, turned the people in the gathering and
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَ أن ينظُر الى رَجُلٍ مِنَ الجنَّةِ فَلْيَنْظُرُ الى هذا
-  </p>
-</blockquote>
+> مَنْ أَحَبَ أن ينظُر الى رَجُلٍ مِنَ الجنَّةِ فَلْيَنْظُرُ الى هذا
 
 'If anyone likes to see a person from the people of Paradise, he should
 look at this man.'
@@ -445,11 +405,7 @@ Then let us beseech Allah that he never deprives us of the fervor of
 awaiting for our beloved Imam (a.t.f.s.) and that separation from him
 (a.t.f.s.) never makes us forgetful of his remembrance!
 
-<blockquote dir="rtl">
-  <p>
-و لا تُنْسِنا ذِكرَهُ و انتِظارَهُ...
-  </p>
-</blockquote>
+> و لا تُنْسِنا ذِكرَهُ و انتِظارَهُ...
 
 (O Allah), do not let me forget his remembrance and his awaiting.'[^17]
 
@@ -492,5 +448,4 @@ Sajjadiyah of Sayyed Naimatullah Jazaeri
 [^16]: Rauza al-Kafi, Pg. 76, Tradition 30
 
 [^17]: Kamaluddin Chp. 45, Tradition 43
-
 

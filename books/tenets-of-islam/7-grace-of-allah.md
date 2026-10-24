@@ -10,4 +10,3 @@ sending Prophets during the period fixed for their sending and after
 their termination continuation of the Imams so that the chain of
 obtaining the objective may not be broken.
 
-

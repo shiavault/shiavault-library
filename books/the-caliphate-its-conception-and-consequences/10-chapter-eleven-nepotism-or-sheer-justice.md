@@ -98,7 +98,6 @@ according to the standards set down above. It is a painful task, as
 comparisons are said to be odious. But in the case of leaders,
 comparison is unavoidable.
 
-
 **SPIRITUAL GOVERNMENT: Criterion No. 1: Freedom from Idolatry:**
 
 It is a fact that Muhammad (P) never for a single moment worshipped any
@@ -842,5 +841,4 @@ Had Imam Ali resorted to arms at that time, battles fiercer than those
 of JAMAL and SIFFIN would have been fought, and troubles greater than
 those that confronted Imam Ali would have face the other rulers, and
 neither conquests nor kingdoms would have been possible.
-
 

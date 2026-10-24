@@ -28,4 +28,3 @@ from living in chastity and allowing their selves to remain unmarried."
 
 Mustadrak Wasa'il-ush Shi'ah, vol.14, p. 248
 
-

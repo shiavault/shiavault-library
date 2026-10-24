@@ -71,4 +71,3 @@ led to believe, there were many who wished to combat the tyrannical rule
 of the transgressing Bani Umayya and see to it that pure enlightened
 leadership of Muslims prevailed instead. 
 
-

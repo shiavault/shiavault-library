@@ -88,4 +88,3 @@ al-Dhahabi in his Talkhis.
 [^5]: Al-Muttaqi al-Hindi, Kanz al-Ummal, Vol. 5, p. 30. Ibn Asakir,
 Tarikh, Vol. 3, p. 119, Vol. 3.
 
-

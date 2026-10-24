@@ -3,17 +3,9 @@ Sermon 57: Soon after me, there would be put on you...
 
 *Amir al-mu'minin said to his companions about Mu\`awiyah*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام) لاصحابه
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام) لاصحابه
 
-<blockquote dir="rtl">
-  <p>
-في صفة رجل مذموم، ثم في فضله هو عليه السلام
-  </p>
-</blockquote>
+> في صفة رجل مذموم، ثم في فضله هو عليه السلام
 
 Soon after me, there would be put on you a man with a broad mouth and a
 big belly. He would swallow whatever he gets and would crave for what he
@@ -24,17 +16,13 @@ for you. As regards renunciation, you should not renounce me because I
 have been born on the natural religion (Islam) and was foremost in
 accepting it as well as in Hijrah ( migrating from Mecca to Medina).[^1]
 
-<blockquote dir="rtl">
-  <p>
-أما إنِّهُ سِيَظْهَرُ عَلَيْكُمْ بَعْدِي رَجُلٌ رَحْبُ الْبُلْعُومِ،
-مُنْدَحِقُ الْبَطْنِ، يَأْكُلُ مَا يَجِدُ، وَيَطْلُبُ مَا لاَ يَجِدُ،
-فَاقْتُلُوهُ، وَلَنْ تَقْتُلُوهُ! أَلاَ وَإِنَّهُ سَيَأْمُرُكُمْ
-بِسَبِّي وَالْبَرَاءَةِ مِنِّي; فَأَمَّا السَّبُّ فَسُبُّونِي،
-فَإِنَّهُ لي زَكَاةٌ،وَلَكُمْ نَجَاةٌ; وَأَمَّا الْبَرَاءَةُ فَلاَ
-تَتَبَرَّأُوا مِنِّي، فَإِنِّي وَلِدْتُ عَلَى الْفِطْرَةِ، وَسَبَقْتُ
-إِلَى الاْيمَانِ وَالْهِجْرَةِ.
-  </p>
-</blockquote>
+> أما إنِّهُ سِيَظْهَرُ عَلَيْكُمْ بَعْدِي رَجُلٌ رَحْبُ الْبُلْعُومِ،
+> مُنْدَحِقُ الْبَطْنِ، يَأْكُلُ مَا يَجِدُ، وَيَطْلُبُ مَا لاَ يَجِدُ،
+> فَاقْتُلُوهُ، وَلَنْ تَقْتُلُوهُ! أَلاَ وَإِنَّهُ سَيَأْمُرُكُمْ
+> بِسَبِّي وَالْبَرَاءَةِ مِنِّي; فَأَمَّا السَّبُّ فَسُبُّونِي،
+> فَإِنَّهُ لي زَكَاةٌ،وَلَكُمْ نَجَاةٌ; وَأَمَّا الْبَرَاءَةُ فَلاَ
+> تَتَبَرَّأُوا مِنِّي، فَإِنِّي وَلِدْتُ عَلَى الْفِطْرَةِ، وَسَبَقْتُ
+> إِلَى الاْيمَانِ وَالْهِجْرَةِ.
 
 Alternative Sources for Sermon 57
 ---------------------------------
@@ -85,5 +73,4 @@ Muslims) see Mu\`awiyah on my pulpit, kill him." (Kitab Siffin, pp. 243,
 248; Sharh of Ibn Abi'l-Hadid, Vol. 1, p.348; Ta'rikh Baghdad, Vol. 12,
 p. 181; Mizan al-I\`tidal, Vol. 2, p. 128; Tahdhib at-tahdhib, Vol. 2,
 p. 428; Vol. 5, p. 110; Vol. 7, p. 324)
-
 

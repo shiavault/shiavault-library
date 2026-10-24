@@ -254,4 +254,3 @@ him to repeat the talbiyah after the prayers for the tawaf if he did not
 change his intention to Hajj-ut-Tamatu' while it was permissible to do
 so. This precautionary measure also applies to obligatory tawaf.
 
-

@@ -16,4 +16,3 @@ innovation. As the deceased Waqif Muradabadi wrote:
 
 *They are very sensible, the household of Umayya!*
 
-

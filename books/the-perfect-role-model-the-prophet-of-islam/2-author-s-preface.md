@@ -195,4 +195,3 @@ spirituality, God-willing.
 [^8]: According to the Iranian calendar, a reference to the number of
 solar years that have passed since the Prophet’s migration to Medina.
 
-

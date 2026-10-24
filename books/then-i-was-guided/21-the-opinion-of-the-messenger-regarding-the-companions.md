@@ -77,4 +77,3 @@ companions) were more interested in the present life.
 
 [^5]: Muruj al Dhahab, al Masudi, vol 2 p 341
 
-

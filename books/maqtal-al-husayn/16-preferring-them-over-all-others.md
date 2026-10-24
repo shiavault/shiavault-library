@@ -187,4 +187,3 @@ Qawlawayh al-Qummi.
 [^5]: Refer to this hadith as stated on p. 31 of Farhat al-Ghari by Ibn
 Tawus.
 
-

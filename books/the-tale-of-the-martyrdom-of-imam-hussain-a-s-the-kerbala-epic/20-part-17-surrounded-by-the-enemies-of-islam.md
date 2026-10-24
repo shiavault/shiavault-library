@@ -147,4 +147,3 @@ asked for water; they did not give him any to drink".
 
 *    But looked on still; gaped and gazed.*
 
-

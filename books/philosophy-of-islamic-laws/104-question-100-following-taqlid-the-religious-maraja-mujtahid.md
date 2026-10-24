@@ -178,8 +178,5 @@ decree (Fatwa) does not inconvenience a single man of the caravan.
 All these things indicate that the differences in religious decree are
 only in the matters that do not affect Communal unity.
 
-
-
 [^1]: Surah Zukhruf 43:23
-
 

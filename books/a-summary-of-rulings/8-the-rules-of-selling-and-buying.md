@@ -395,4 +395,3 @@ called Khiyaarul-Hayawaan).
 he has sold, it is permissible for the purchaser to cancel the
 transaction. (It is called Khiyaaru Ta'azzur At-Tasleem).
 
-

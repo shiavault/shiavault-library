@@ -1309,4 +1309,3 @@ Beirut, 1938; Jomier, *Le Commentaire Coranique du Manar*, Paris, 1954;
 Rashid Rida, *al-Khilafah*, Cairo, 1922; *al-Manar* (a monthly journal),
 Cairo, 1898; *Tafsir al­-Manar*, Cairo, 1900.
 
-

@@ -11,4 +11,3 @@ surname me, I have surnamed myself al-Jazzar (butcher).*
 Some persons killed innocent people. They escaped from Mukhtar's
 justice. They began urging Mus'ab to fight Mukhtar.
 
-

@@ -123,4 +123,3 @@ the occultation, then He would, through His power, make him appear as a
 youthful man of less than forty years of age so that it may be known
 that the Almighty Allah is powerful over everything.”
 
-

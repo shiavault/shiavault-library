@@ -420,58 +420,57 @@ found therein has the highest degree of beauty and splendour.' [^34]
 
 **Notes:**
 
-[^1] Muhammad Jawad al Mughniya, ash Shia wal Hakimun, al Maktab al
+[^1]: Muhammad Jawad al Mughniya, ash Shia wal Hakimun, al Maktab al
 Ahliya, Beirut, 1st edition 1961, p. 75
-[^2] Taha Husain, Ali wa Banuh as quoted in ash Shia, p. 80
+[^2]: Taha Husain, Ali wa Banuh as quoted in ash Shia, p. 80
 [^3] J. Wellhausen, al Khawarij wa shia (trans into Arabic of his The
 Kharijites and the Shi'ites ed. 1985 p. 499) quoted by M. J. al Mughniya
 in his ash Shia wat Tashayyu, Maktaba al Madrasa wa Dar al Kitab al
 Libnani, Beirut, note 8 p. 68
-[^4] M. J al Mughniya, as shia wat Tashayyu, pp. 134-5
-[^5] Ibn al Athir, al Kamil fi t Tarikh, Beirut, 1975, vol. 4 pp 330-2
-[^6] J. Wellhausen, Tarikh ad Dawlati l Arabiya (trans into Arabic of
+[^4]: M. J al Mughniya, as shia wat Tashayyu, pp. 134-5
+[^5]: Ibn al Athir, al Kamil fi t Tarikh, Beirut, 1975, vol. 4 pp 330-2
+[^6]: J. Wellhausen, Tarikh ad Dawlati l Arabiya (trans into Arabic of
 his History of the Arabs), p. 489, quoted by M. J. al Mughniya is his
 ash Shia wa l Hakimun, p. 135
-[^7] M. J. al Mughniya, op cit pp 135-6
-[^8] Muhammad Ahmad al Buraq, Abu l Abbas as Saffah, as quoted in as
+[^7]: M. J. al Mughniya, op cit pp 135-6
+[^8]: Muhammad Ahmad al Buraq, Abu l Abbas as Saffah, as quoted in as
 Shia wal Hakimun, p. 134
-[^9] M. J. al Mughniya, op cit p. 139
-[^10] Muhammad Baqir al Majlisi, Bihar al Anwar, new edition, Tehran,
+[^9]: M. J. al Mughniya, op cit p. 139
+[^10]: Muhammad Baqir al Majlisi, Bihar al Anwar, new edition, Tehran,
 1385 A.H, vol. 47, p. 171 quoting Qutb al Din ar Rawandi, al Kharaij wa
 l Jaraih, p. 234
 [^11] Ibn Shahr ashub, Manaqib, vol. 4 al Matba al Alimiya, Qum, p.
 238
-[^12] ibid, many similar reports are given in Fadl b. Hasan at Tabarsi,
+[^12]: ibid, many similar reports are given in Fadl b. Hasan at Tabarsi,
 al Ihtijaj, and al Majlisi, op cit
-[^13] ibid
+[^13]: ibid
 [^14] Ibn Hajar al Asqalani, Tadhib al Tadhib, Hyderabad, 1325 A.H, vol.
 2, p. 104
-[^15] Ibn Shahr ashub, Manaqab, vol. 4 p 247-8
-[^16] Ibn Shahr ashub, op cit, p. 248
-[^17] ibid, p. 254
-[^18] ibid, p. 249
-[^19] Muhsin al Amin, Ayan ash Shia, vol. 4 Part II, Mathah al Imaf,
+[^15]: Ibn Shahr ashub, Manaqab, vol. 4 p 247-8
+[^16]: Ibn Shahr ashub, op cit, p. 248
+[^17]: ibid, p. 254
+[^18]: ibid, p. 249
+[^19]: Muhsin al Amin, Ayan ash Shia, vol. 4 Part II, Mathah al Imaf,
 Ebirut, ed. 1380/1920
-[^20] Al Munjid fi l Alam, Beirut (21st ed.) 1973
-[^21] Muhammad Husayn al Muzaffar, Tarikh ash Shia, Dar az Zahra,
+[^20]: Al Munjid fi l Alam, Beirut (21st ed.) 1973
+[^21]: Muhammad Husayn al Muzaffar, Tarikh ash Shia, Dar az Zahra,
 Beirut, 3rd edition 1402/1982 pp. 53, 55
-[^22] M. Abdur Razzaq, Tahmid li Tarikh al Falsafat al Islamiy, Cairo,
+[^22]: M. Abdur Razzaq, Tahmid li Tarikh al Falsafat al Islamiy, Cairo,
 1959, p. 202
-[^23] G. Sarton. Introduction to the History of Science, vol. 1.
+[^23]: G. Sarton. Introduction to the History of Science, vol. 1.
 Baltimore. 1927. p. 532.
-[^24] 'Abdullah Nima. Falasifat ash Shi'a, Beirut, 1966. p. 196. This
+[^24]: 'Abdullah Nima. Falasifat ash Shi'a, Beirut, 1966. p. 196. This
 book is an excellent source for those who wish to examine the
 contribution of Shiah scholars to philosophy and science. The author
 discusses Jabirs life and contribution between pp. 184 and 231.
-[^25] G. Sarton. op. cit., p. 532. For the Imam Ja'far as Sadiq. see,
+[^25]: G. Sarton. op. cit., p. 532. For the Imam Ja'far as Sadiq. see,
 ibid.. p. 508.
-[^26] Quoted by Abdullah Ni'ma. op. cit., pp. 61. 187.
-[^27] G. Sarton. op. cit., p. 532.
-[^28] Quoted by 'Abdullah Ni'ma. op. cit., p. 187.
-[^29] Quoted by 'Abdullah Niima. ibid., pp. 193-4.
-[^30] ash-Shaykh as-Saduq, Ilal ash shari'a, n.p., 1311. p. 44.
-[^31] al Majlisi, Bihar al Anwar. new ed.. vol. 111, pp. 57-151.
-[^32] ibid.,p.69.
-[^33] ibid., p. 67. 34. ibid., p. 146.
-
+[^26]: Quoted by Abdullah Ni'ma. op. cit., pp. 61. 187.
+[^27]: G. Sarton. op. cit., p. 532.
+[^28]: Quoted by 'Abdullah Ni'ma. op. cit., p. 187.
+[^29]: Quoted by 'Abdullah Niima. ibid., pp. 193-4.
+[^30]: ash-Shaykh as-Saduq, Ilal ash shari'a, n.p., 1311. p. 44.
+[^31]: al Majlisi, Bihar al Anwar. new ed.. vol. 111, pp. 57-151.
+[^32]: ibid.,p.69.
+[^33]: ibid., p. 67. 34. ibid., p. 146.
 

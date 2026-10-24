@@ -54,7 +54,6 @@ magician's snakes only appeared like snakes and therefore could do no
 harm or even fight with Nabi Musa's snake which swallowed the threads of
 the magicians. The threads disappeared for good.
 
-
 **The Miracles of Imam Zainul Abidin (A.S)**
 
 Several miracles were shown by the Imam (A.S) but we shall look at only
@@ -113,5 +112,4 @@ Let it be remembered that Hazrat Muhammad Hanafiya himselfhad never
 claimed to be Imam. He fully supported Imam Zainul Abidin (A.S) but he
 addressed Hajar Aswad only to let the misguided people see for
 themselves that he was not an Imam.
-
 

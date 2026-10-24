@@ -49,9 +49,7 @@ day of “Ashura she stopped near the body of her killed brother, Imam
 al-Husain (a.s.), that was cruelly severed by the swords of the criminal
 band of the Umayyad army, and uttered her immortal word:
 
-<p dir="rtl">
 اَللّٰهُمَّ تَقَبَّلْ هٰذَا الْقُرْبَانَ، وَ اَثِبْهُ عَلٰي عَمَلِه.
-</p>
 
 ***“O Allah, accept this offering and reward him for his deed.”***
 
@@ -267,5 +265,4 @@ women of this world must take her as their model and through a deep
 understanding of her pioneership of struggle against wrong, all women
 should recognize their roles in adopting the issues of justice on this
 earth.
-
 

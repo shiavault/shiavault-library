@@ -1419,4 +1419,3 @@ from a given isnad, the tradition is said to be mursal.
 
 [^69]: Silsilat al-Ahadith al-Dha'ifah wa al-Mawdhu'ah, 1/76 – 78.
 
-

@@ -490,4 +490,3 @@ refers to a man and a woman who can marry each other.
 
 [^4]: Arthur Christensen, L’Iran sous Les Sassanides.
 
-

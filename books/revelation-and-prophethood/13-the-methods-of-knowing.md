@@ -138,7 +138,6 @@ What are the things worth knowing and what is that which one should
 know? One should know Allah, the world, man, society and time. All of
 them are worth knowing and one should know all of them.
 
-
 **Conception of the World**
 
 This book being an introduction to the Islamic conception of the world
@@ -389,5 +388,4 @@ will.
 (25) The world has a quasi-organic unity, because it has issued forth
 from one single source, is going back at a uniform pace towards it and
 is being managed and administered by conscious forces.
-
 

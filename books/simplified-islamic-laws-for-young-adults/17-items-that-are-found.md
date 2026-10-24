@@ -60,4 +60,3 @@ Sayyid.
 [^1]: This amount of silver is approximately 2.52 grams, and at the time
 this book was being translated, it was worth approximately $0.20 US.
 
-

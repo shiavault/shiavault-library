@@ -56,11 +56,7 @@ attention that is accompanied with softness, respect and following.
 The word *‘Salat’* has been used in this very meaning in the Holy Qur’an
 and tradition. Like in the verse,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ
-  </p>
-</blockquote>
+> إِنَّ اللهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ
 
 ***“Surely Allah and His angels send blessings on the Prophet.”***
 ***(Qur’an, 33:56)***
@@ -70,34 +66,22 @@ supplemented with the blessings of the angels.
 
 Similarly, in another verse,
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ صَلاَتُهُمْ عِندَ الْبَيْتِ إِلاَّ مُكَاءً وَ تَصْدِيَةً
-  </p>
-</blockquote>
+> وَمَا كَانَ صَلاَتُهُمْ عِندَ الْبَيْتِ إِلاَّ مُكَاءً وَ تَصْدِيَةً
 
 ***“Their (polytheists) prayers in the Ka’ba was nothing but whistling
 and clapping of hands.” (Qur’an, 8:35)***
 
 In still another verse, the Holy Qur’an declares,
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلاَئِكَتُهُ لِيُخْرِجَكُم مِّنَ
-الظُّلُمَاتِ إِلَى النُّورِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلاَئِكَتُهُ لِيُخْرِجَكُم مِّنَ
+> الظُّلُمَاتِ إِلَى النُّورِ
 
 ***“He is the One who turns towards you and so do His angels that He may
 bring you out from the darkness to light.” (Qur’an, 33:43)***
 
 Yet another verse commands the Holy Prophet (‘s),
 
-<blockquote dir="rtl">
-  <p>
-وَصَلِّ عَلَيْهِمْ إنَّ صَلاَتَكَ سَكَنٌ لَهُمْ.
-  </p>
-</blockquote>
+> وَصَلِّ عَلَيْهِمْ إنَّ صَلاَتَكَ سَكَنٌ لَهُمْ.
 
 ***“And turn your attention towards them. Certainly your attention
 provides them comfort.” (Qur’an, 9:103)***
@@ -238,5 +222,4 @@ through the medium of other proofs.
 [^1]: Bihar ul Anwar, vol. 93, p. 202
 
 [^2]: Bihar ul Anwar, vol. 84, p. 250
-
 

@@ -804,4 +804,3 @@ Safiyya
 
 [^40]: Read Khilafat o Mulukiyat by Syed Abul A'la Maududi
 
-

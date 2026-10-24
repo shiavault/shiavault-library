@@ -175,11 +175,7 @@ of the mosque when suddenly they saw Abdul-Muttalib’s grandson,
 Muhammad-ibn- Abdullah (S) setting foot in the mosque. Joyously, they
 all cried in one voice,
 
-<blockquote dir="rtl">
-  <p>
-هذا الأمين , رضينا ! هذا محمد
-  </p>
-</blockquote>
+> هذا الأمين , رضينا ! هذا محمد
 
 “It is Muhammad, the trustworthy. We are satisfied with his judgement”.
 
@@ -282,11 +278,7 @@ Till the Prophet’s (S) message and practice was confined to the four
 walls of his house, nobody bothered him. But in the third year of his
 mission, the verse,
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
-  </p>
-</blockquote>
+> وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
 
 was revealed and the Prophet (S) invited his relatives over for dinner.
 When he finished serving, he invited them to Islam and said, ‘who
@@ -341,11 +333,7 @@ this creed ten times.’.
 
 Prophet (S): ‘The creed to be uttered is:
 
-<blockquote dir="rtl">
-  <p>
-لَا إِلَهَ إِلَّا اللَّهُ
-  </p>
-</blockquote>
+> لَا إِلَهَ إِلَّا اللَّهُ
 
 [meaning: there is no god but Allah]..’
 
@@ -359,14 +347,10 @@ They suggested that for one year they would worship the Prophet’s (S)
 God and for one year, the latter would worship their gods. As a riposte
 to this demand, the following verses were revealed,
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا الْكَافِرُونَ لَا أَعْبُدُ مَا تَعْبُدُونَ وَلَا
-أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ وَلَا أَنَا عَابِدٌ مَا
-عَبَدْتُمْ وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ لَكُمْ دِينُكُمْ
-وَلِيَ دِينِ 
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا الْكَافِرُونَ لَا أَعْبُدُ مَا تَعْبُدُونَ وَلَا
+> أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ وَلَا أَنَا عَابِدٌ مَا
+> عَبَدْتُمْ وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ لَكُمْ دِينُكُمْ
+> وَلِيَ دِينِ
 
 ***“Say: O unbelievers! I worship not that which ye worship, Nor will ye
 worship that which I worship. And I will not worship that which ye have
@@ -402,25 +386,13 @@ request and instead, continued to honor Jafar and his companions.
 When Abu Talib received this news, he recited the following poem in
 honor of Najashi and amidst his poem; he invited the King to Islam:
 
-<blockquote dir="rtl">
-  <p>
-تعلم خـــيار الــــناس أن محــمد \*\*\* وزير لموسى والمسيح ابن مريم
-  </p>
-</blockquote>
+> تعلم خـــيار الــــناس أن محــمد \*\*\* وزير لموسى والمسيح ابن مريم
 
-<blockquote dir="rtl">
-  <p>
-أتى بالهــــدى مثل الذي أتــيا به \*\*\* فكــــل بـــــأمر الله يهدي
-ويعصم
-  </p>
-</blockquote>
+> أتى بالهــــدى مثل الذي أتــيا به \*\*\* فكــــل بـــــأمر الله يهدي
+> ويعصم
 
-<blockquote dir="rtl">
-  <p>
-وإنكم تتلـونه في كتابكم بصــدق \*\*\* حديــــــث لا حــــــــديث
-المترجم
-  </p>
-</blockquote>
+> وإنكم تتلـونه في كتابكم بصــدق \*\*\* حديــــــث لا حــــــــديث
+> المترجم
 
 > فلا تجعـــــلوا الله نـداً وأسلــمو \*\*\* فإن طريق الحــق لـــــيس
 > بمظلم 35
@@ -456,11 +428,7 @@ as “Abuzar Ghaffari “, began accepting Islam.
 In his poems, while expressing support for the Prophet (S), Abu Talib
 also invited the people to Islam,
 
-<blockquote dir="rtl">
-  <p>
-مَنَعنا الرَسولَ رَسولَ المَليكِ بِبيضٍ تَلَألأُ لمع البُروقِ
-  </p>
-</blockquote>
+> مَنَعنا الرَسولَ رَسولَ المَليكِ بِبيضٍ تَلَألأُ لمع البُروقِ
 
 > بِضَربٍ يُذَبِّبُ دونَ النِهابِ حذارَ الوَثائِرِ وَالخَنفَقيقِ36
 
@@ -964,13 +932,9 @@ who tormented the Prophet (S) with no end. She would throw thorns on the
 Prophet’s (S) path and excite sedition against him. About Abu-Lahab and
 his wife, the blessed verse of “Masad“ was revealed where Allah says:
 
-<blockquote dir="rtl">
-  <p>
-تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا
-كَسَبَ ,سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ وَامْرَأَتُهُ حَمَّالَةَ
-الْحَطَبِ فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ 
-  </p>
-</blockquote>
+> تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا
+> كَسَبَ ,سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ وَامْرَأَتُهُ حَمَّالَةَ
+> الْحَطَبِ فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ
 
 ***“Perdition overtakes both hands of Abu Lahab, and he will
 perish.***  
@@ -1114,5 +1078,4 @@ in Sahih Bukhari.
 [^31]: Refer to Seerah Ibn Hisham 1/378-379.
 
 [^32]: Seerat un-Nabawiya 2/17.
-
 

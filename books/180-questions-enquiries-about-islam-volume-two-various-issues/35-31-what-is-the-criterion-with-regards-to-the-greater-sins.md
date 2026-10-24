@@ -49,11 +49,7 @@ Some other traditions have enumerated them to be seven in number with
 the difference being that 'being disowned by the parents' has been
 substituted by:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ ماَ أَوجَبَ اللٌّهُ عَلَيهِ النَّارَ.
-  </p>
-</blockquote>
+> كُلُّ ماَ أَوجَبَ اللٌّهُ عَلَيهِ النَّارَ.
 
 “All (those sins) for which Allah (s.w.t.) has made (the punishment of)
 Hell mandatory.”
@@ -78,5 +74,4 @@ Abwabu Jihad al-Nafs). Thirty seven traditions, which enumerate and
 specify the Greater sins, have been mentioned there.
 
 [^4]: Tafsir-e-Namuna, vol. 22, pg. 541
-
 

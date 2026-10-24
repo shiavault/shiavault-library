@@ -119,4 +119,3 @@ sees a procession of the blessed. Plunging into the river in his
 desperation to cross, he awakes from the dream back and resolves to
 fulfill the will of God.
 
-

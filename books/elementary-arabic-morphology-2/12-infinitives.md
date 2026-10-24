@@ -93,4 +93,3 @@ letters by using the passive aorist tense and replacing the aorist
 letter with a *mīm* that has a *dummah*. For example: **یُنحَدَرُ** (is
 brought down) becomes **مُنحَدَرٌ** (fall).
 
-

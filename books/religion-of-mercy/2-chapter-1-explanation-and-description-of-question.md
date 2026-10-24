@@ -60,4 +60,3 @@ of these demagogic actions is known to all, and all Muslims know that
 they have conspired powerfully for destruction of Islam, which is a
 healing to human’s present and future pains and problems.
 
-

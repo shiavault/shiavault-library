@@ -2410,4 +2410,3 @@ willing to submit to a recently issued Russian ultimatum.
 
 [^36]: - Riza Shah and Muhammad Riza Pahlavi.
 
-

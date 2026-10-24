@@ -184,4 +184,3 @@ competition. If competitions come to end, capabilities would not flower.
 Thus, if there were no struggle between individuals or masses the
 progress in new inventions too would become stagnant.
 
-

@@ -31,4 +31,3 @@ If you are content with your present condition, there is no one more
 wretched than you in knowledge and action, nor anyone with a more wasted
 life. You will inherit grief on the Day of Resurrection.
 
-

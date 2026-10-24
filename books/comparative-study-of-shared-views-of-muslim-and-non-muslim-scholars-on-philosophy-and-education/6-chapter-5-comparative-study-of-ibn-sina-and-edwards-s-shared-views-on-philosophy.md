@@ -841,4 +841,3 @@ Disciplines: Learning From Jonathan Edwards. In J. Piper & J. Taylor
 Edwards (p. 109-128). Wheaton, Illinois: Crossway Books.
 .
 
-

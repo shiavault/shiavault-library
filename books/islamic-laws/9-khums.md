@@ -668,4 +668,3 @@ not wish to remain indebted to the deserving people, there will be no
 objection if the deserving person agrees to receive Khums from him, and
 then to bestow it upon him as a gift.
 
-

@@ -378,4 +378,3 @@ able, either from our senses or con- sciousness, to assign the ultimate
 principle in one case more than in the other. The same ignorance,
 therefore, reduces them to the same conclusion.
 
-

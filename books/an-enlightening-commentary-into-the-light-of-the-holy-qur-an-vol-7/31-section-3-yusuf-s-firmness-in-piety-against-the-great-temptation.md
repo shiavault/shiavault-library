@@ -4,15 +4,11 @@ Section 3: Yusuf’s Firmness in Piety Against the Great Temptation
 Surah Yusuf - Verse 21
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِي اشْتَرَاهُ مِن مِصْرَ لإِمْرَأَتِهِ أَكْرِمِي
-مَثْوَاهُ عَسَي أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُ وَلَداً وَكَذَلِكَ
-مَكَّنَّا لِيُوسُفَ فِي الأَرْضِ وَلِنُعَلّمَهُ مِن تَأْوِيلِ
-الاَحَادِيثِ وَاللَّهُ غَالِبٌ عَلَي أَمْرِهِ وَلَكِنَّ أَكْثَرَ
-النَّاسِ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِي اشْتَرَاهُ مِن مِصْرَ لإِمْرَأَتِهِ أَكْرِمِي
+> مَثْوَاهُ عَسَي أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُ وَلَداً وَكَذَلِكَ
+> مَكَّنَّا لِيُوسُفَ فِي الأَرْضِ وَلِنُعَلّمَهُ مِن تَأْوِيلِ
+> الاَحَادِيثِ وَاللَّهُ غَالِبٌ عَلَي أَمْرِهِ وَلَكِنَّ أَكْثَرَ
+> النَّاسِ لاَ يَعْلَمُونَ
 
 ***21. “And he of Egypt who bought him said to his wife: ‘Receive him
 honorably, maybe he will profit us, or we shall adopt him as a son.’
@@ -68,12 +64,8 @@ know.”***
 Surah Yusuf - Verse 22
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا بَلَغَ أَشُدَّهُ ءَاتَيْنَاهُ حُكْماً وَعِلْماً وَكَذَلِكَ
-نَجْزِي الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> وَلَمَّا بَلَغَ أَشُدَّهُ ءَاتَيْنَاهُ حُكْماً وَعِلْماً وَكَذَلِكَ
+> نَجْزِي الْمُـحْسِنِينَ
 
 ***22. “And when he reached his prime (maturity), We gave him wisdom and
 knowledge. And thus do We reward the doers of good.”***
@@ -137,13 +129,9 @@ The verse continues saying:
 Surah Yusuf - Verse 23
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَن نَفْسِهِ وَغَلَّقَتِ
-الاَبَوْابَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبّي
-أَحْسَنَ مَثْوَايَ إِنَّهُ لاَ يُفْلِحُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَن نَفْسِهِ وَغَلَّقَتِ
+> الاَبَوْابَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبّي
+> أَحْسَنَ مَثْوَايَ إِنَّهُ لاَ يُفْلِحُ الظَّالِمُونَ
 
 ***23. “And the woman, in whose house he was, sought to seduce him from
 his self and she closed the doors and said: ‘Come here’. He said ‘I seek
@@ -279,13 +267,9 @@ sins, because the immaculate Imam (as) said:
 Surah Yusuf - Verse 24
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلآ أَن رَءَا بُرْهَانَ رَبّهِ
-كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَآءَ إِنَّهُ مِنْ
-عِبَادِنَا الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلآ أَن رَءَا بُرْهَانَ رَبّهِ
+> كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَآءَ إِنَّهُ مِنْ
+> عِبَادِنَا الْمُـخْلَصِينَ
 
 ***24. “And indeed she desired him, and he would have desired her if he
 had not seen the evidence of his Lord. Thus (it was) that We turned away
@@ -400,13 +384,9 @@ and respect without being paralysed in the process.
 Surah Yusuf - Verse 25
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِن دُبُرٍ وَأَلْفَيَا
-سَيّدَهَا لَدَي الْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِاَهْلِكَ
-سُوءاً إِلآَّ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِن دُبُرٍ وَأَلْفَيَا
+> سَيّدَهَا لَدَي الْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِاَهْلِكَ
+> سُوءاً إِلآَّ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
 
 ***25. “And they both raced to the door and she tore his shirt form the
 back. They both found her husband by the door. She said: ‘What is the
@@ -448,13 +428,9 @@ wife save he be imprisoned or a painful chastisement?’”***
 Surah Yusuf - Verse 26
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هِيَ رَاوَدَتْنِي عَن نَفْسِي وَشَهِدَ شَاهِدٌ مِنْ أَهْلِهَآ
-إِن كَانَ قَمِيصُهُ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ
-الْكَاذِبِينَ
-  </p>
-</blockquote>
+> قَالَ هِيَ رَاوَدَتْنِي عَن نَفْسِي وَشَهِدَ شَاهِدٌ مِنْ أَهْلِهَآ
+> إِن كَانَ قَمِيصُهُ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ
+> الْكَاذِبِينَ
 
 ***26. “He said: ‘She (it was who) sought to seduce me from my (pure)
 self,’ and a witness from her own family bore witness, ‘If it be that
@@ -513,12 +489,8 @@ the truth and he is of the liars’.”***
 Surah Yusuf - Verse 27
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانَ قَمِيصُهُ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> وَإِن كَانَ قَمِيصُهُ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ
+> الصَّادِقِينَ
 
 ***27. “And if his shirt is torn from the back, then she tells a lie,
 and he is of the truthful (ones).”***
@@ -552,12 +524,8 @@ and consultants of the ‘Aziz, who was accompanying ‘Aziz at that moment.
 Surah Yusuf - Verse 28
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَءَا قَمِيصَهُ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُ مِن
-كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ
-  </p>
-</blockquote>
+> فَلَمَّا رَءَا قَمِيصَهُ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُ مِن
+> كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ
 
 ***28. “So when he (the ‘Aziz) saw his shirt was torn from behind, he
 said: ‘Verily it is of the guile of you women! Truly, your guile is
@@ -604,12 +572,8 @@ great’.”***
 Surah Yusuf - Verse 29
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يُوسُفُ اَعْرِضْ عَنْ هَذَا وَاسْتَغْفِرِي لِذَنبِكِ إِنَّكِ كُنْتِ
-مِنَ الْخَاطِئِينَ
-  </p>
-</blockquote>
+> يُوسُفُ اَعْرِضْ عَنْ هَذَا وَاسْتَغْفِرِي لِذَنبِكِ إِنَّكِ كُنْتِ
+> مِنَ الْخَاطِئِينَ
 
 ***29. “O Yusuf! Overlook this matter; and you, (O my wife), ask
 forgiveness for your sin, for surely you are of the wrong-doers.”***
@@ -667,5 +631,4 @@ illegitimate and indecent.
 [^2]: Tafsir Nur-uth-Thaqalayn, vol.2, p.421
 
 [^3]: Surah At-Talaq, No. 65, verses 62 and 63
-
 

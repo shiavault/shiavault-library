@@ -41,4 +41,3 @@ yearning to meet his Lord.
 
 And all praise is due to Allah.
 
-

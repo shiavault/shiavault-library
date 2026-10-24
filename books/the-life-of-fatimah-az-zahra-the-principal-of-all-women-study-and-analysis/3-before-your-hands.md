@@ -33,4 +33,3 @@ your intercession that includes many many slack people like me!
 
 The author
 
-

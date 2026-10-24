@@ -148,7 +148,6 @@ month of Ramadhan, they call upon them saying, ‘O servants of Allah!
 Receive the glad tidings! Allah has indeed forgiven your sins and
 accepted your repentance! So see how you shall fare from now on!"
 
-
 **Chapter 15 : The month of Repentance**
 
 The month of Ramadhan is known as the month of repentance and
@@ -268,5 +267,4 @@ It is only after that can you say "Astaghfirulla." This is recorded n
 NahjuI Balagha (wise saying number 253 of the original Arabic text; all
 present English translations of this great book fall short of doing
 justice to its original text).
-
 

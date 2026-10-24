@@ -65,4 +65,3 @@ leave him by about four or five years of age.
 
 [^1]: Ruwan shinashi kudak, p. 172
 
-

@@ -17,12 +17,8 @@ That which shows emphasis of this Dua on Ghadeer Day is the special Dua
 which is recommended in the books of Iqbal and Zaadul Maad[^1]. The Dua
 begins with the following:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك بحق محمد نبيك، وعلي وليك، والشأن والقدر الذي خصصتهما
-به دون خلقك. 
-  </p>
-</blockquote>
+> اللهم إني أسألك بحق محمد نبيك، وعلي وليك، والشأن والقدر الذي خصصتهما
+> به دون خلقك.
 
 O Allah, indeed I ask You for the sake of Muhammad, Your Prophet and
 Ali, Your Wali and for the sake of the position and value with which You
@@ -31,13 +27,9 @@ creatures…
 
 And in the end it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-اللهم فرج عن أهل بيت محمد، واكشف عنهم، وبهم عن المؤمنين الكربات، اللهم
-املأ الأرض بهم عدلا كما ملئت ظلما وجورا، وأنجز لهم ما وعدتهم إنك لا
-تخلف الميعاد.
-  </p>
-</blockquote>
+> اللهم فرج عن أهل بيت محمد، واكشف عنهم، وبهم عن المؤمنين الكربات، اللهم
+> املأ الأرض بهم عدلا كما ملئت ظلما وجورا، وأنجز لهم ما وعدتهم إنك لا
+> تخلف الميعاد.
 
 O Allah, grant success to the believers and remove their distress
 through Ahle Bayt (as) of Your Prophet. O Allah, fill up through them
@@ -50,18 +42,14 @@ include you among the companions of the Imam (as), may the Almighty
 Allah hasten his advent. There is a lengthy prayer about this in Iqbal,
 which concludes with the following sentences:
 
-<blockquote dir="rtl">
-  <p>
- اللهم إني أسألك بالحق الذي جعلته عندهم وبالذي فضلتهم على العالمين
-جميعا، ان تبارك لنا في يومنا هذا الذي كرمتنا فيه بالوفاء بعهدك الذي
-عهدت إلينا، والميثاق الذي واثقتنا به من موالاة أوليائك، والبراءة من
-أعدائك، وتمن علينا بنعمتك وتجعله عندنا مستقرا ثابتا، ولا تسلبناه ابدا
-ولا تجعله عندنا مستودعا فإنك قلت \*(فمستقر ومستودع)\* فاجعله مستقرا
-ثابتا، وارزقنا نصر دينك، مع ولي هاد من أهل بيت نبيك، قائما رشيدا هاديا
-مهديا من الضلالة إلى الهدى، واجعلنا تحت رايته، وفي زمرته شهداء صادقين
-مقتولين في سبيلك، وعلى نصرة دينك.
-  </p>
-</blockquote>
+>  اللهم إني أسألك بالحق الذي جعلته عندهم وبالذي فضلتهم على العالمين
+> جميعا، ان تبارك لنا في يومنا هذا الذي كرمتنا فيه بالوفاء بعهدك الذي
+> عهدت إلينا، والميثاق الذي واثقتنا به من موالاة أوليائك، والبراءة من
+> أعدائك، وتمن علينا بنعمتك وتجعله عندنا مستقرا ثابتا، ولا تسلبناه ابدا
+> ولا تجعله عندنا مستودعا فإنك قلت \*(فمستقر ومستودع)\* فاجعله مستقرا
+> ثابتا، وارزقنا نصر دينك، مع ولي هاد من أهل بيت نبيك، قائما رشيدا هاديا
+> مهديا من الضلالة إلى الهدى، واجعلنا تحت رايته، وفي زمرته شهداء صادقين
+> مقتولين في سبيلك، وعلى نصرة دينك.
 
 O Allah, I ask You by the right that You have made rightful with. And by
 which you gave them excellence over all the worlds that You bless for us
@@ -83,5 +71,4 @@ Very close to this meaning is the supplication mentioned in Zaadul Maad
 and what we have quoted will be beneficial for those who seek guidance.
 
 [^1]: Iqbaalul Aamaal, Pg. 1/492; Zaad al-Maad, Pg. 342
-
 

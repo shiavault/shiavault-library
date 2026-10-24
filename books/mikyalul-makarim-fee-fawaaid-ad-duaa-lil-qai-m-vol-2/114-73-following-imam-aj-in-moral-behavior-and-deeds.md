@@ -76,35 +76,23 @@ and the Holy Imams (as).
 I say: It is possible that the special mention of the names of Ibrahim
 and Ismail was from the aspect of the saying of the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْحَيْنَا إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا
-  </p>
-</blockquote>
+> ثُمَّ أَوْحَيْنَا إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا
 
 ***Then We revealed to you: Follow the faith of Ibrahim, the upright
 one. (Qur’an, Surah Nahl 16:123)***
 
 And the saying of Allah:
 
-<blockquote dir="rtl">
-  <p>
-مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ
 
 ***The faith of your father Ibrahim; He named you Muslims before.
 (Qur’an, Surah Hajj 22:78)***
 
 Also:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا
-قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ
-الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا
+> قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ
+> الْمُشْرِكِينَ
 
 ***Say: Surely, (as for) me, my Lord has guided me to the right path;
 (to) a most right religion, the faith of Ibrahim the upright one, and he
@@ -130,25 +118,13 @@ the Shias are not such that they would vie their opponents for wealth
 and pelf and that the most important thing in their life is religion as
 mentioned in the following:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُوا فِي الْبِلَادِ .
-  </p>
-</blockquote>
+> لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُوا فِي الْبِلَادِ .
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ ۚ وَبِئْسَ الْمِهَادُ .
-  </p>
-</blockquote>
+> مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ ۚ وَبِئْسَ الْمِهَادُ .
 
-<blockquote dir="rtl">
-  <p>
-لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ
-تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا نُزُلًا مِنْ عِنْدِ اللَّهِ ۗ
-وَمَا عِنْدَ اللَّهِ خَيْرٌ لِلْأَبْرَارِ
-  </p>
-</blockquote>
+> لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ
+> تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا نُزُلًا مِنْ عِنْدِ اللَّهِ ۗ
+> وَمَا عِنْدَ اللَّهِ خَيْرٌ لِلْأَبْرَارِ
 
 ***Let it not deceive you that those who disbelieve go to and fro in the
 cities fearlessly. A brief enjoyment! then their abode is hell, and evil
@@ -163,11 +139,7 @@ polytheists because they have made their leaders and false deities as
 partners in the truth that was given to them by Allah; just as the
 polytheists make them share worship:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا
-  </p>
-</blockquote>
+> وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا
 
 ***And serve Allah and do not associate any thing with Him. (Qur’an,
 Surah Nisa 4:36)***
@@ -189,35 +161,23 @@ that the view of Imam (as) was to make the believers eager for Islam and
 monotheism, that the Almighty Allah has chosen for His servants and He
 has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ
 
 ***Surely the (true) religion with Allah is Islam. (Qur’an, Surah Aale
 Imran 3:19)***
 
 And Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
-وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
+> وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
 
 ***And whoever desires a religion other than Islam, it shall not be
 accepted from him, and in the hereafter he shall be one of the losers.
 (Qur’an, Surah Aale Imran 3:85)***
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ
-اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ
-مُسْلِمُونَ
-  </p>
-</blockquote>
+> وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ
+> اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ
+> مُسْلِمُونَ
 
 ***And the same did Ibrahim enjoin on his sons and (so did) Yaqoob. O my
 sons! surely Allah has chosen for you (this) faith, therefore die not
@@ -233,40 +193,24 @@ Imam’s words they would realize that what we have stated is right.
 The word of ‘and surely’ in the verse: “And surely if he had been such”
 is for emphasis, like in the following:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ
-  </p>
-</blockquote>
+> وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ
 
 ***And surely they had purposed to turn you away. (Qur’an, Surah Isra
 17:73)***
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا
-  </p>
-</blockquote>
+> إِنْ كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا
 
 ***He had well-nigh led us astray from our gods. (Qur’an, Surah Furqan
 25:42)***
 
-<blockquote dir="rtl">
-  <p>
- وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلَّا
-لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَىٰ
-عَقِبَيْهِ
-  </p>
-</blockquote>
+>  وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلَّا
+> لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَىٰ
+> عَقِبَيْهِ
 
 ***And We did not make that which you would have to be the qiblah.
 (Qur’an, Surah Baqarah 2:143)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ وَجَدْنَا أَكْثَرَهُمْ لَفَاسِقِينَ
-  </p>
-</blockquote>
+> وَإِنْ وَجَدْنَا أَكْثَرَهُمْ لَفَاسِقِينَ
 
 ***And We found most of them to be certainly transgressors. (Qur’an,
 Surah Araaf 7:102)***
@@ -293,12 +237,8 @@ in obedience and piety causes one to remain steadfast on faith, just as
 one who is firm on sins is being degraded; Allah, the Mighty and Sublime
 says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا
-بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا
+> بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ
 
 ***Then evil was the end of those who did evil, because they rejected
 the communications of Allah and used to mock them. (Qur’an, Surah Rum
@@ -398,5 +338,4 @@ incorrect.
 [^10]: Raudatul Kafi, Pg. 253, Tr. No. 358
 
 [^11]: Usool Kafi, Vol. 2, Pg. 218
-
 

@@ -772,4 +772,3 @@ its ownership with himself."
 
 [^1]: Man La Yahdharhu al-Faqih.
 
-

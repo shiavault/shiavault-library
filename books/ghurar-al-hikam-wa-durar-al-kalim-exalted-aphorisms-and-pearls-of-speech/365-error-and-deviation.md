@@ -11,22 +11,14 @@ Error And Deviation
 Allah just as a bronze dirham is embellished by a coat of silver.
 
 > 2ـ كَمْ مِنْ ضَلالَة زُخْرِفَتْ بِ آيَة مِنْ كِتابِ اللّهِ كَما
-<blockquote dir="rtl">
-  <p>
-يُزَخْرَفُ الدِّرْهَمُ النُّحاسُ بِالفِضَّةِ المُمَوَّهَةِ.
-  </p>
-</blockquote>
+> يُزَخْرَفُ الدِّرْهَمُ النُّحاسُ بِالفِضَّةِ المُمَوَّهَةِ.
 
 3. It is enough of an error for a person to command others to do what he
 does not do [himself] and forbids them from that which he does not
 refrain from.
 
 > 3ـ كَفى بِالمَرْءِ غَوايَةً أنْ يَأمُرَ النّاسَ بِما لا يَأْتَمِرُ
-<blockquote dir="rtl">
-  <p>
-بِهِ ويَنْهاهُمْ عَمّا لا يَنْتَهي عَنْهُ.
-  </p>
-</blockquote>
+> بِهِ ويَنْهاهُمْ عَمّا لا يَنْتَهي عَنْهُ.
 
 4. For every deviation there is a cause.
 
@@ -35,5 +27,4 @@ refrain from.
 5. What is there after truth except error?
 
 > 5ـ ما ذا بَعْدَ الحَقِّ إلاّ الضَّلالُ.
-
 

@@ -84,4 +84,3 @@ knowledge, and praised him a lot. The Faqih bowed his head, and
 according to the deal, Bahlool distributed the 1,000 dinars amongst
 Baghdad's poor.
 
-

@@ -66,7 +66,6 @@ In the case of zihar. ("Your back," an Arab during Jahiliyya may say to
 his wife, "looks to me like the back of my mother!" Striking such a
 similitude is called zihar.)
 
-
 **Chapter 9 :Forty types of Fast**
 
 Although the above chapter dealt with the types of fast, we decided to
@@ -239,5 +238,4 @@ Exalted, the most Great, says:
 
 "And if one of you is sick or travelling, (the fast of) a number of
 other days (suffices)’."
-
 

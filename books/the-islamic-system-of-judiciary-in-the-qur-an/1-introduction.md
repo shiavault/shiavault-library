@@ -47,4 +47,3 @@ has perhaps not been established because of the possibility of both the
 judgements being correct though Sulayman's ruling was more beneficial
 and proper with regard to the litigants.
 
-

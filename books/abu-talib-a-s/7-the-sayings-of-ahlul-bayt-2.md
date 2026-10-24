@@ -803,4 +803,3 @@ definitely prepares the sincere supporters and the loyal assistance of
 the rightness lest the virtue and the vice be equal or lest the evil
 defeat the good!
 
-

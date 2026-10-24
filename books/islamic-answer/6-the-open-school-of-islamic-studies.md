@@ -54,7 +54,6 @@ a -superior
 
 b -good
 
-
 c -fair
 
 d -passing
@@ -380,7 +379,6 @@ hours) of workshop. the main text book for this class is :
 amali mustafa jawad drasat wa tahqiqat by m. ali al hussaini, beirut,
 lebanon, 1972.
 
-
 the main goal of this course is to teach how to use different sources
 of the literature and edit an islamic text for publishing.
 
@@ -464,5 +462,4 @@ consequently when the treaty was broken, the political stage ended in
 the martyrdom of imam husayn (a.) at karbala iraq, which is annually
 commemorated on ashura \* as the sign of muslim struggle for the
 teachings of the holy qur'an.
-
 

@@ -11,11 +11,7 @@ God-Given Success
 towards itself, so whichever [of the two] prevails, it enters its fold.
 
 > 2ـ اَلتَّوفِيْقُ والخِذْلانُ يَتَجاذِبانِ النَّفْسَ فَأيُّهُما غَلَبَ
-<blockquote dir="rtl">
-  <p>
-كانَتْ في حَيِّزِهِ.
-  </p>
-</blockquote>
+> كانَتْ في حَيِّزِهِ.
 
 3. Verily when Allah, the Glorified, wishes good for a servant, He
 grants him success in spending his lifetime doing the best deeds and
@@ -23,12 +19,8 @@ blesses him with the ability to quickly use his available time to
 perform acts of worship, before [the coming of] his death.
 
 > 3ـ إنَّ اللّهَ سُبْحانَهُ إذا أرادَ بِعَبْد خَيْراً، وَفَّقَهُ
-<blockquote dir="rtl">
-  <p>
-لإنْفاذِ أجَلِهِ، في أحْسَنِ عَمَلِهِ ورَزَقَهُ مُبادَرَةَ مَهَلِهِ في
-طاعَتِهِ قَبْلَ الفَوْتِ.
-  </p>
-</blockquote>
+> لإنْفاذِ أجَلِهِ، في أحْسَنِ عَمَلِهِ ورَزَقَهُ مُبادَرَةَ مَهَلِهِ في
+> طاعَتِهِ قَبْلَ الفَوْتِ.
 
 4. God-given success is [God’s special attention and] favour.
 
@@ -105,11 +97,7 @@ associate.
 the sincere adviser does not become successful.
 
 > 21ـ لَمْ يُوَفَّقْ مَنِ اسْتَحْسَنَ القَبيحَ، وأعْرَضَ عَنْ قَوْلِ
-<blockquote dir="rtl">
-  <p>
-النَّصيحِ.
-  </p>
-</blockquote>
+> النَّصيحِ.
 
 22. Whoever is granted success does good [work].
 
@@ -138,21 +126,13 @@ who conceals it and [placing] his goodness with one who spreads it [and
 makes it known to others].
 
 > 27ـ مِنْ تَوْفيقِ الرَّجُلِ وَضْعُ سِرِّهِ عِنْدَ مَنْ يَسْتُرُهُ
-<blockquote dir="rtl">
-  <p>
-وَإحْسانُهُ عِنْدَ مَنْ يَنْشُرُهُ.
-  </p>
-</blockquote>
+> وَإحْسانُهُ عِنْدَ مَنْ يَنْشُرُهُ.
 
 28. We praise Allah, the Glorified, for the ability He has granted us to
 carrying out [acts of] obedience and to keep away from disobedience.
 
 > 28ـ نَحْمَدُ اللّهَ سُبْحانَهُ عَلى ما وَفَّقَ لَهُ مِنَ الطّاعَةِ،
-<blockquote dir="rtl">
-  <p>
-وذادَ عَنْهُ مِنَ المَعْصِيَةِ.
-  </p>
-</blockquote>
+> وذادَ عَنْهُ مِنَ المَعْصِيَةِ.
 
 29. One who is supported [by Allah] in his affairs is successful in
 achieving his goals.
@@ -165,5 +145,4 @@ achieving his goals.
 
 [^1]: This is a condition where Allah forsakes those who disobey Him and
 leaves them to their own devices (see Q3:160)
-
 

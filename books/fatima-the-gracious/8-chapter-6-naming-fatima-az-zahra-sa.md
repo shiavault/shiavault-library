@@ -53,4 +53,3 @@ At-Tahirah (virtuous), Az-Zakiyah (the chaste), Ar-Radhiatul Mardhiah
 person, other than a prophet, that the angels speak to), and Az-Zahra
 (the splendid)."
 
-

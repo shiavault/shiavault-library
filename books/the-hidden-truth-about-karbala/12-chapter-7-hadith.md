@@ -531,4 +531,3 @@ al-Islami, p.161-162 .
 
 [^29]: The Caliphate, p. 338.
 
-

@@ -50,9 +50,7 @@ Finally, we hope it will he of interest to our dear readers and beseech
 Allah the Almighty to accept our simple work. Surely He undertakes the
 welfare of the believers.
 
-
 AL-BALAGH FOUNDATION
-
 
 **Servitude**
 
@@ -143,7 +141,6 @@ Does not he discern that?
 
 "All that is in the heavens and the earth glorifies Allah, and He is
 Almighty, All-Wise?" Holy Qur'an (57:1)
-
 
 **Man and Servitude**
 
@@ -243,5 +240,4 @@ reckoner against you. Whoever is guided, is truly guided for his benefit
 and whoever becomes perverse, is only perverse to his own self. And no
 laden soul bears the burden of another. We never punish until We have
 sent a messenger." Holy Qur'an (17:13-15)
-
 

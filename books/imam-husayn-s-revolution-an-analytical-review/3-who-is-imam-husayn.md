@@ -111,4 +111,3 @@ prosperity, peace and happiness within the two worlds. He never failed
 the Muslims, but acted as expected of a great ideological leader and
 performed his duty to the best.
 
-

@@ -291,4 +291,3 @@ control over our beliefs in other ways. If Pascal’s Wager is to be
 resisted, therefore, then this must be done on some other ground than
 that we cannot choose our beliefs.
 
-

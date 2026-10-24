@@ -61,11 +61,7 @@ Almighty Allah wants that the practices of His prophets in their
 occultation should also occur on him. And O Sudair, his occultation must
 come to an end. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ
-  </p>
-</blockquote>
+> لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ
 
 ***“That you shall most certainly enter one state after another.”***[^1]
 
@@ -133,5 +129,4 @@ His actions and words are based on wisdom even though their causes may
 not be clear for us.”
 
 [^1]: Surah Inshiqaq 84:19
-
 

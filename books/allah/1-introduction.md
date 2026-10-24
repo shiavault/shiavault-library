@@ -195,4 +195,3 @@ September 26,
 being mailed out to readers in all U.S. States as well as in 67
 countries world-wide.
 
-

@@ -40,4 +40,3 @@ party (other than the parents), even it is not done deliberately, still
 her/his action is a sin, which entitles her/him to punishment both in
 this world and the Resurrection Day.
 
-

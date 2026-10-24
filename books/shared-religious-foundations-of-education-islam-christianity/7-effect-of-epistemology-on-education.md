@@ -609,4 +609,3 @@ fruitful and useful for all of the individuals of the society. That’s
 the reason why God said to mankind: “Be fruitful, and multiply, and
 replenish the earth, and subdue it” (Genesis: 22).
 
-

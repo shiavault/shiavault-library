@@ -862,4 +862,3 @@ Caliphate.
 [^53]: The Deccan Chronicle published from Hyderabad, India, dated 20
 February 2005.
 
-

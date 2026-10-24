@@ -1,20 +1,12 @@
 The Sixth Talk
 ==============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -73,7 +65,6 @@ effects of *Haram* and unsavory (*makrūh)* foods. The body has therefore
 become insensitive to the instinct of remembrance of Allah (S.w.T.). The
 limbs and organs have thus turned into the playthings of Satan.
 
-
 The purity or otherwise of food
 -------------------------------
 
@@ -92,7 +83,6 @@ The occasion when one is required to abstain even from *Halal* food is
 when he is fully sated and can eat no more at that moment. Over-eating
 is a prohibited and a satanic trait.
 
-
 Identify the Haram morsel of food
 ---------------------------------
 
@@ -110,11 +100,7 @@ slaughtering an animal, doesn’t intentionally say the words *Bismillah*
 before putting the knife to the throat of the animal, eating of such
 meat is prohibited. Allah (S.w.T.) says in the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَأْكُلُواْ مِمَّا لَمْ يُذْكَرِ اسْمُ اللّهِ عَلَيْهِ
-  </p>
-</blockquote>
+> وَلاَ تَأْكُلُواْ مِمَّا لَمْ يُذْكَرِ اسْمُ اللّهِ عَلَيْهِ
 
 ***Don’t eat that thing on which Allah (S.w.T.)’s name has not been
 uttered. (Sura al-An’aam, 6:121)***
@@ -129,7 +115,6 @@ All the eatables that are prepared without taking the name of Allah
 a *mu’min* eat the bread that has been cooked by the baker without
 taking the name of Allah (S.w.T.).”
 
-
 The baker’s oven and the satanic tune
 -------------------------------------
 
@@ -140,6 +125,4 @@ the *Hadith al-Kisa* and offer prayer before commencing his work.
 Today the bread is baked listening to blaring music! They cook the bread
 accompanied by satanic music. We consume those morsels infused with
 satanic temperament!
-
-
 

@@ -120,4 +120,3 @@ mentioned in ch. 36.
 
 [^3]: Vol. 19.
 
-

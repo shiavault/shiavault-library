@@ -4,12 +4,8 @@
    
   
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّـبِيِ ّ(ص) أَنَّهُ قَالَ: مَنْ طَافَ بِهٌذَا الْبَيْتِ
-إِسْـبُوعاً وَ أَحْسَنَ صَلاَةَ رَكْعَتَيْهِ غُفِرَ لَهُ.
-  </p>
-</blockquote>
+> عَنِ النَّـبِيِ ّ(ص) أَنَّهُ قَالَ: مَنْ طَافَ بِهٌذَا الْبَيْتِ
+> إِسْـبُوعاً وَ أَحْسَنَ صَلاَةَ رَكْعَتَيْهِ غُفِرَ لَهُ.
 
    
  The Noble Prophet (blessings of Allah be upon him and his family) has
@@ -19,5 +15,4 @@ will have his sins forgiven.”
     
  Biharul Anwar, Volume 96, Page 49  
   
-
 

@@ -103,4 +103,3 @@ of them {daughters/sisters}?”
  “*Even if he brings up only one daughter or sister.*” replied the
 Messenger of Allah (S).” (Bihar al-Anwar, Vol. 104, p.99)
 
-

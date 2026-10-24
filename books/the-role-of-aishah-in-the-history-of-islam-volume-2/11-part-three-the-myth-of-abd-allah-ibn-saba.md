@@ -341,7 +341,5 @@ book which will be published soon under the title of "'A'ishah in the
 time of Mu'awiyah". We pray to God to make this book a source of benefit
 to all Muslims and a means of eternal salvation for us.
 
-
 **The End**
-
 

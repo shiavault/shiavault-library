@@ -744,4 +744,3 @@ means the bridge that dominates the Hell.
 
 [^45]: Kashf al-Ghummah, vol.3 p.204.
 
-

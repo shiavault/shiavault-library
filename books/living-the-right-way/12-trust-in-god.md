@@ -26,4 +26,3 @@ Allah.”*
 Imam Ja’far al-Sadiq (a.s.) said: *“Indeed riches and honour wander
 about; when they come across trust, they dwell with it.”*
 
-

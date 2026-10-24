@@ -3,7 +3,6 @@ Numbers and Addresses
 
  
 
-  
   
 
 SOME INQUIRING AND EDUCATIONAL  
@@ -127,7 +126,6 @@ Muntadhari St., tel. 7740322.
 ![](images/symbols/office_marja.jpg) Ayatollah Waheed al-Khurasani:
 Shuhada St., tel. 7740611.
 
-  
  THE DEPARTMENTS IN THE PURE HARAM AND THEIR TELEPHONES
 -------------------------------------------------------
 
@@ -589,7 +587,7 @@ tel. 7722504.
 ![](images/symbols/factory.jpg) Zeeba: opposite to Pul Aahantchi, tel.
 6633019.
 
-<span style="font-size: 14pt">FURNISHED APARTMENTS:</span>
+FURNISHED APARTMENTS:
 ----------------------------------------------------------
 
 ![](images/symbols/factory.jpg) Al-Quds: Inqilab St., tel. 7735299.

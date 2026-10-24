@@ -1,29 +1,13 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله رب العالمين
-  </p>
-</blockquote>
+> الحمد لله رب العالمين
 
-<blockquote dir="rtl">
-  <p>
-والصلاة والسلام على
-  </p>
-</blockquote>
+> والصلاة والسلام على
 
-<blockquote dir="rtl">
-  <p>
-سيد النبيين وخاتم المرسلين محمد وآله الطاهرين
-  </p>
-</blockquote>
+> سيد النبيين وخاتم المرسلين محمد وآله الطاهرين
 
 Muslims consider ***'ismah,*** infallibility, as an important quality
 for the person who holds the position of prophethood. This quality is
@@ -45,5 +29,4 @@ Qur'an from the thematic approach.
 
 December 2001 / Shawwal 1422  
  Toronto Sayyid M. Rizvi
-
 

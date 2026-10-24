@@ -70,4 +70,3 @@ accompanied with a noun or verb. All prepositions are indeclinable.
 
 283. There are four exceptive prepositions: **إلَّا خَلا عَدا حاشا**
 
-

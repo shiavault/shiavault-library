@@ -15,4 +15,3 @@ procedure was believed to have been given by the language of the Qur'an
 itself. Semantic extension became an accepted method of creating new
 terminology.
 
-

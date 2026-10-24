@@ -3,13 +3,9 @@ An Internal Messenger: The Ethical Conscience
 
 ( Verse 7 )
 
-<blockquote dir="rtl">
-  <p>
-..وَلٌكِنَّ اللٌّهَ حَبَّبَ إِلَيْكُمُ الإِيـمٌانَ وَزَيَّـنَهُ فِي
-قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيٌانَ
-أُوْلٌئِكَ هُمُ الرٌّاشِدُونَ
-  </p>
-</blockquote>
+> ..وَلٌكِنَّ اللٌّهَ حَبَّبَ إِلَيْكُمُ الإِيـمٌانَ وَزَيَّـنَهُ فِي
+> قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيٌانَ
+> أُوْلٌئِكَ هُمُ الرٌّاشِدُونَ
 
 “***However Allah has made true belief something that is loved by you
 and He has made it alluring to your hearts and He has made disbelief
@@ -60,13 +56,9 @@ Creator of all the Worlds – and has made mankind love Him. He has also
 made disbelief and disobedience as hated and detested traits (within a
 person) when He (Glorified and Exalted is He) said:
 
-<blockquote dir="rtl">
-  <p>
-وَلٌكِنَّ اللٌّهَ حَبَّبَ إِلَيْكُمُ الإِيـمٌانَ وَ زَيَّـنَهُ فِي
-قُلُوبِكُمْ وَ كَرَّهَ إِلَيْكُمْ الْكُفْرَ وَ الْفُـسُوقَ وَ
-الْعِصْيٌانَ
-  </p>
-</blockquote>
+> وَلٌكِنَّ اللٌّهَ حَبَّبَ إِلَيْكُمُ الإِيـمٌانَ وَ زَيَّـنَهُ فِي
+> قُلُوبِكُمْ وَ كَرَّهَ إِلَيْكُمْ الْكُفْرَ وَ الْفُـسُوقَ وَ
+> الْعِصْيٌانَ
 
 ***“However Allah has made true belief something that is loved by you
 and He has made it alluring to your hearts and He (Allah) has made
@@ -79,11 +71,7 @@ up-right traits that can be discerned without a teacher or instructor
 and these have been engrained deep within all of us. This is the wider
 meaning that we are able to comprehend from the sentence:
 
-<blockquote dir="rtl">
-  <p>
-...حَـبَّبَ إِلَيْكُمُ الإِيـمٌانَ...
-  </p>
-</blockquote>
+> ...حَـبَّبَ إِلَيْكُمُ الإِيـمٌانَ...
 
 ***“…has made true belief something that is loved by you …”***
 
@@ -148,30 +136,18 @@ within the deep valleys of the person. The Noble Qur’an clearly states
 this truth in the most complete way in various chapters, such as where
 it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَ نَفْسٍ وَ مٌا سَوٌّيهٌا فَأَلْهَمَهٌا فُجُورَهٌا وَ تَقْوٌيهٌا
-  </p>
-</blockquote>
+> وَ نَفْسٍ وَ مٌا سَوٌّيهٌا فَأَلْهَمَهٌا فُجُورَهٌا وَ تَقْوٌيهٌا
 
 ***“(I swear) by the Soul, and the proportion and order given to it; and
 its enlightenment as to its wrong and its right (deeds).”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَ هَدَيْنٌاهُ النَّجْدَينِ
-  </p>
-</blockquote>
+> وَ هَدَيْنٌاهُ النَّجْدَينِ
 
 ***“And We have shown him (the human being) the two paths (of right and
 wrong action).”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-إِنٌّا خَلَقْنٌا الإِنْسٌانَ مِنْ نُطْفَةٍ أَمْشٌاجٍ نَبْتَلِيهِ
-فَجَعَلْنٌاهُ سَمِيعاً بَصِيراً
-  </p>
-</blockquote>
+> إِنٌّا خَلَقْنٌا الإِنْسٌانَ مِنْ نُطْفَةٍ أَمْشٌاجٍ نَبْتَلِيهِ
+> فَجَعَلْنٌاهُ سَمِيعاً بَصِيراً
 
 ***“Verily We created man from a drop of mingled sperm in order to test
 him. Thus, We have given him hearing and sight.”***[^4]
@@ -184,12 +160,8 @@ ones’ self). It is this soul that reprimands and scolds the person in
 the worst possible way, just as Allah (Glorified and Exalted is He) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ أُقْسِمُ بِيَوْمِ الْقِيٌامَةِ وَ لاٌ أُقْسِمُ بِالنَّفْسِ
-اللَّوٌّامَةِ
-  </p>
-</blockquote>
+> لاٌ أُقْسِمُ بِيَوْمِ الْقِيٌامَةِ وَ لاٌ أُقْسِمُ بِالنَّفْسِ
+> اللَّوٌّامَةِ
 
 ***“I swear by the Resurrection Day and I swear by the self-reproaching
 spirit.”***[^5]
@@ -233,13 +205,9 @@ Noble Qur’an presents this event concerning Prophet Ibrahim (peace be
 upon him) and his attempts to destroy the wrong thoughts of his people
 in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-فَرٌاجَعُوا إِلـى أَنْفُسِهِمْ فَقٌالُوا إِنَّكُمْ أَنْـتُمْ
-الظٌّالِــمُونَ ثُمَّ نُكِسُوا عَلى رُؤُوسِهِمْ لَقَدْ عَلِمْتَ مٌا
-هٌؤُلاٌءِ يَنْطِقُونَ
-  </p>
-</blockquote>
+> فَرٌاجَعُوا إِلـى أَنْفُسِهِمْ فَقٌالُوا إِنَّكُمْ أَنْـتُمْ
+> الظٌّالِــمُونَ ثُمَّ نُكِسُوا عَلى رُؤُوسِهِمْ لَقَدْ عَلِمْتَ مٌا
+> هٌؤُلاٌءِ يَنْطِقُونَ
 
 ***“So then they turned (in thought) back to themselves and said,
 ‘Surely you are the ones who are doing wrong deeds.’ They were then
@@ -250,13 +218,9 @@ In addition there is also mention of one’s ethical consciousness in the
 Islamic ahadith. For example, Amir al-Mu’minin \`Ali ibn Abi Talib
 (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مَنْ لَمْ يُعْنَ عَلى نَفْسِهِ حَتّى يَكُونَ لَهُ مِنْهٌا
-وٌاعِظٌ وَزٌاجِرٌ لَمْ يَكُنْ لَهُ مِنْ غَيْرِهٌا زٌاجِرٌ وَ لاٌ
-وٌاعِظٌ
-  </p>
-</blockquote>
+> إِنَّهُ مَنْ لَمْ يُعْنَ عَلى نَفْسِهِ حَتّى يَكُونَ لَهُ مِنْهٌا
+> وٌاعِظٌ وَزٌاجِرٌ لَمْ يَكُنْ لَهُ مِنْ غَيْرِهٌا زٌاجِرٌ وَ لاٌ
+> وٌاعِظٌ
 
 *“The person who does not have the ability within his own soul to advise
 and warn himself (from keeping away from bad things) will never receive
@@ -310,12 +274,8 @@ Allah (Glorified and Exalted is He) has made our souls have true faith
 and purity (within them) and has created our intellects with an aversion
 to bad and immoral acts:
 
-<blockquote dir="rtl">
-  <p>
-...حَبَّبَ إِلَيْكُمُ الإِيـمٌانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ
-وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيٌانَ...
-  </p>
-</blockquote>
+> ...حَبَّبَ إِلَيْكُمُ الإِيـمٌانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ
+> وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيٌانَ...
 
 ***“…has endeared the faith to you and He has made it attractive to your
 hearts and He has made disbelief (Kufr), evil deeds and disobedience
@@ -342,5 +302,4 @@ remove the negative traits from within his own soul.)
 
 [^8]: From the book, What do I know : The Sicknesses of the Soul, Page
 64.
-
 

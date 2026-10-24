@@ -369,4 +369,3 @@ Vol. III, pp. 296-7.
 
 [^26]: Ibn Abi 'l-Hadid, Sharh, Vol. II, p. 18. 
 
-

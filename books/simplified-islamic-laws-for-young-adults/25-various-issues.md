@@ -83,11 +83,7 @@ accompanied by anything Haram, and it is not anything vain. (Although)
 it is better that for encouragement, one should (instead) recite Takbir
 “ اَللهُ اَكْبَرُ” or a Salawat (on the Prophet and his Family)
 
-<blockquote dir="rtl">
-  <p>
-“ اَللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ”
-  </p>
-</blockquote>
+> “ اَللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ”
 
 Issue 491: It is Haram for women to dance in gatherings for women, and
 it is also Haram for men to dance in gatherings for men. However, it is
@@ -98,5 +94,4 @@ the month of Muharram) where there are women watching is permissable as
 long as the men who are beating their chests are wearing shirts.
 
 [^1]: One Mithqal is equal to 45.36 grams.
-
 

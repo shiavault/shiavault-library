@@ -1192,4 +1192,3 @@ conditions that rule over these historical developments.
 
 [^36]: Democracy and its Critics, p. 71.
 
-

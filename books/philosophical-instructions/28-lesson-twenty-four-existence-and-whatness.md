@@ -277,4 +277,3 @@ can never be justified in this way. Finally, each compound essence is
 composed of several simple whatnesses, and the question of knowledge of
 the simples will remain.
 
-

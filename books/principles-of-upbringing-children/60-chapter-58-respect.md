@@ -139,4 +139,3 @@ children so that greeting becomes their habit."
 
 [^10]: Nahj ul balagha, v3, p. 166
 
-

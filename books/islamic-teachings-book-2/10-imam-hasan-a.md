@@ -43,4 +43,3 @@ Questions
 3. How did Imam Hasan (a) treat Mu'awiyah's follower? What was the
 effect of this treatment?
 
-

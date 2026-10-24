@@ -272,4 +272,3 @@ Al-Hakeem Al-Ossol Al-Ammah for Al-Fiqh Al-Muqaram pp.155-156).
 [^9]: Al-Suyuti Al-Durr Al-Manthoor Part 5 p.198 (Conveyed by Sayed Taqi
 Al-Hakeem Al-Ossol Al-Ammah for Al-Fiqh Al-Muqaram pp.155-156).
 
-

@@ -109,4 +109,3 @@ of creatures, testify to the existence of its Maker and Creator.
 [^2]: From Al-Ihtijaj by Tabarsi, Najaf, vol. 2, p. 71 and the same
 book, pp.181, 1350.
 
-

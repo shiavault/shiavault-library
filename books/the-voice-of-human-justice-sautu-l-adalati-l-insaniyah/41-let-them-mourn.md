@@ -428,4 +428,3 @@ mean and despicable.
 The Imam left his enemies alive in the world, but their life was as good
 as destruction.
 
-

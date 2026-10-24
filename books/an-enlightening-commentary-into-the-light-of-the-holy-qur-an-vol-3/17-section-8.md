@@ -4,15 +4,11 @@ Section 8
 Surah 'Ali-Imran, Verse 103
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُواْ بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُواْ
-وَاذْكُرُواْ نِعْمَتَ اللّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاء
-فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا
-وَكُنتُمْ عَلَىَ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا
-كَذَلِكَ يُبَيِّنُ اللّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ
-  </p>
-</blockquote>
+> وَاعْتَصِمُواْ بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُواْ
+> وَاذْكُرُواْ نِعْمَتَ اللّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاء
+> فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا
+> وَكُنتُمْ عَلَىَ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا
+> كَذَلِكَ يُبَيِّنُ اللّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ
 
 **103.** ***"And hold fast by the cord of Allah all together, and do not
 separate; and remember Allah's favour on you when you were enemies ( of
@@ -82,13 +78,9 @@ guided."***
 Surah 'Ali-Imran, Verse 104
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
-بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ وَأُوْلَـئِكَ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
+> بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ وَأُوْلَـئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 **104.** ***"And there should be a party among you who invite (others)
 to good and enjoin what is right and forbid the wrong, and these are
@@ -157,12 +149,8 @@ committing wrong.
 Surah 'Ali-Imran, Verse 105
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَكُونُواْ كَالَّذِينَ تَفَرَّقُواْ وَاخْتَلَفُواْ مِن بَعْدِ
-مَا جَاءهُمُ الْبَيِّنَاتُ وَأُوْلَـئِكَ لَهُمْ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَلاَ تَكُونُواْ كَالَّذِينَ تَفَرَّقُواْ وَاخْتَلَفُواْ مِن بَعْدِ
+> مَا جَاءهُمُ الْبَيِّنَاتُ وَأُوْلَـئِكَ لَهُمْ عَذَابٌ عَظِيمٌ
 
 **105*****. "And be not like those who separated, and disagreed after
 clear evidences had come to them; and these are they that will have a
@@ -187,13 +175,9 @@ the Hereafter.
 Surah 'Ali-Imran, Verse 106
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ فَأَمَّا الَّذِينَ
-اسْوَدَّتْ وُجُوهُهُمْ أَكْفَرْتُم بَعْدَ إِيمَانِكُمْ فَذُوقُواْ
-الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ
-  </p>
-</blockquote>
+> يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ فَأَمَّا الَّذِينَ
+> اسْوَدَّتْ وُجُوهُهُمْ أَكْفَرْتُم بَعْدَ إِيمَانِكُمْ فَذُوقُواْ
+> الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ
 
 **106.** ***"On the Day when some faces will turn while some faces will
 turn black! Then as to those whose faces turn black (will be said): 'Did
@@ -227,19 +211,11 @@ you were disbelieving!"***
 Surah 'Ali-Imran, Verses 107-108
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ ابْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَةِ اللّهِ هُمْ
-فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ ابْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَةِ اللّهِ هُمْ
+> فِيهَا خَالِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ آيَاتُ اللّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ وَمَا اللّهُ
-يُرِيدُ ظُلْمًا لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> تِلْكَ آيَاتُ اللّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ وَمَا اللّهُ
+> يُرِيدُ ظُلْمًا لِّلْعَالَمِينَ
 
 **107.** ***"And as to those whose faces will turn white, they shall be
 in the Mercy of Allah; wherein shall they abide forever."***
@@ -281,12 +257,8 @@ Allah does not intend any injustice to the worlds."***
 Surah 'Ali-Imran, Verse 109
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَإِلَى اللّهِ
-تُرْجَعُ الأُمُورُ
-  </p>
-</blockquote>
+> وَلِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَإِلَى اللّهِ
+> تُرْجَعُ الأُمُورُ
 
 **109.** ***"And whatever is in the heavens and whatever is in the earth
 belongs to Allah, and all affairs will be returned unto Allah."***
@@ -303,5 +275,4 @@ everything in the world of existence belongs to Him.
 to Allah, and all affairs will be returned unto Allah."***
 
 [^1]: Nahjul-Balagha, Letter 47
-
 

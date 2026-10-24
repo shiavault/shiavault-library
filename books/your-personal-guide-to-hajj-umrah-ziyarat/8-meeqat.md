@@ -16,4 +16,3 @@ use this Meeqat. It is about 115 Km from Jeddah on the way to Medina.
 
 ![](/sites/default/files/10.png)
 
-

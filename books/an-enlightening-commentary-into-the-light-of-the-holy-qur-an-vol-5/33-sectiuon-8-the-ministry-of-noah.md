@@ -7,19 +7,11 @@ belied him and were drowned
 Surah Al-‘A’raf, Verses 59 - 60
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ فَقَالَ يَا قَوْمِ اعْبُدُواْ
-اللَّهَ مَا لَكُم مِّنْ إِلَـهٍ غَيْرُهُ إِنِّيَ أَخَافُ عَلَيْكُمْ
-عَذَابَ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> لَقَدْ أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ فَقَالَ يَا قَوْمِ اعْبُدُواْ
+> اللَّهَ مَا لَكُم مِّنْ إِلَـهٍ غَيْرُهُ إِنِّيَ أَخَافُ عَلَيْكُمْ
+> عَذَابَ يَوْمٍ عَظِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الْمَلأُ مِن قَوْمِهِ إِنَّا لَنَرَاكَ فِي ضَلاَلٍ مُّبِينٍ
-  </p>
-</blockquote>
+> قَالَ الْمَلأُ مِن قَوْمِهِ إِنَّا لَنَرَاكَ فِي ضَلاَلٍ مُّبِينٍ
 
 **59.** ***"Indeed We sent Noah to his people, so he said: 'O my people!
 Serve*** Allah***. You have no god other than Him. Verily I fear for you
@@ -81,19 +73,11 @@ affront.
 Surah Al-‘A’raf, Verses 61 - 62
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ لَيْسَ بِي ضَلاَلَةٌ وَلَكِنِّي رَسُولٌ مِّن رَّبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ لَيْسَ بِي ضَلاَلَةٌ وَلَكِنِّي رَسُولٌ مِّن رَّبِّ
+> الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-أُبَلِّغُكُمْ رِسَالاَتِ رَبِّي وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ
-اللّهِ مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> أُبَلِّغُكُمْ رِسَالاَتِ رَبِّي وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ
+> اللّهِ مَا لاَ تَعْلَمُونَ
 
 **61.** ***"He said: ' O' my people! There is no error in me, but I am a
 Messenger from the Lord of the worlds."***  
@@ -139,12 +123,8 @@ of them.
 Surah Al-‘A’raf, Verse 63
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَعَجِبْتُمْ أَن جَاءكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ
-مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُواْ وَلَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> أَوَعَجِبْتُمْ أَن جَاءكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ
+> مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُواْ وَلَعَلَّكُمْ تُرْحَمُونَ
 
 **63.** ***"What! do you wonder that an admonition has come to you from
 your Lord through a man from among you, that he might warn you so that
@@ -177,13 +157,9 @@ infidelity and sinning, so that they be shown mercy to.
 Surah Al-‘A’raf, Verse 64
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ فِي الْفُلْكِ
-وَأَغْرَقْنَا الَّذِينَ كَذَّبُواْ بِآيَاتِنَا إِنَّهُمْ كَانُواْ
-قَوْماً عَمِينَ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ فِي الْفُلْكِ
+> وَأَغْرَقْنَا الَّذِينَ كَذَّبُواْ بِآيَاتِنَا إِنَّهُمْ كَانُواْ
+> قَوْماً عَمِينَ
 
 **64.** ***"But they belied him, so We delivered him and those with him
 in the Ark, and We drowned those who belied Our Signs. Verily they were
@@ -206,5 +182,4 @@ functions.[^2]
 [^1]: Surah Noah, No.71, Verse 26
 
 [^2]: Al-Mizan, the commentary
-
 

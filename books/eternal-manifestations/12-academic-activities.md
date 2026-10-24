@@ -77,4 +77,3 @@ practice was taken from his teacher ‘Allāmah Tabātabā’ī.
     
 *Ustād Ridhā Ustādī* 
 
-

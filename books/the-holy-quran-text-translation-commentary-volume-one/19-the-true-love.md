@@ -959,4 +959,3 @@ an Arab entrusted one Dinar (a gold coin equal to 66.36 Grains). Fan?s
 betrayed and denied the trust; when the said verse revealed to this
 effect.
 
-

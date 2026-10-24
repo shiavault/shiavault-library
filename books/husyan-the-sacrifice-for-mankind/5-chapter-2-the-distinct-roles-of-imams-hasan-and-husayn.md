@@ -274,4 +274,3 @@ when there will be a need for reformists like Imam Hasan alayhis-salam,
 and as for tyrants like Yazid, we will need reformists like Imam Husayn
 alayhissalam
 
-

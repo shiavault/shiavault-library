@@ -3,11 +3,7 @@ Lesson Fifty Two: There is no incurable disease
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-ما أَنْزَلَ اللّهُ مِنْ داء إلاّ جَعَلَ لَهُ دَواء
-  </p>
-</blockquote>
+> ما أَنْزَلَ اللّهُ مِنْ داء إلاّ جَعَلَ لَهُ دَواء
 
 Translation
 -----------
@@ -32,5 +28,4 @@ working on the life’s intractable issues with patience and tenacity
 until a solution is found.
 
 [^1]: Nahjul Fasahah
-
 

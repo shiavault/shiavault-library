@@ -4703,4 +4703,3 @@ his mother, daughter, sister, niece, aunt, grandmother or granddaughter.
 
 [^231]: Biharul Anwar, vol. 73 p.234.
 
-

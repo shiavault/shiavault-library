@@ -13,4 +13,3 @@ Allah, and from Allah, for he frequents the garden of His sanctity and
 is enriched by His subtlest favours to him. Gnosis is a root whose
 branch is belief.
 
-

@@ -213,4 +213,3 @@ story of this man’s life as it will be forever.
 
 [^3]: Nahj al-Fasahah
 
-

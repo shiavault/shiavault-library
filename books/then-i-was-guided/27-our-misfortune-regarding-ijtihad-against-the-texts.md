@@ -352,4 +352,3 @@ Khawarizmi, vol 1 p 38, al Ghadir, al Amini, vol 3 p 120
 137, al Sawaiq al Muhriqah, Ibn Hajjar, p 148, 226, Kanz al Ummal, vol 1
 p 168, Majma az Zawaid, vol 9 p 163
 
-

@@ -16,7 +16,7 @@ Abu Mu'aym says: He was the monk of his time people, and devout among
 the Palestinians. He was the first to tack the saddle, and the first to
 relate (tales). He kept the company of the Prophet (S) and took part in
 his battles. He stayed long in al-Madinah till shifting to the Sham
-after murder of Uthman. <span id="_anchor_338"></span>338  He died
+after murder of Uthman. 338  He died
 during the caliphate of Ali in 40 H.
 
 He used to relate narrations and tales of Jassasah, dajjal (impostor),
@@ -34,14 +34,13 @@ Among the Masihiyyat stated by Tamim al-Dari to the Prophet (S), we can
 refer to the story of Jassasah, and that of the impostor, with that of
 descension of Jesus, and others.
 
-In regard of the hadith of Jassasah, it is reported by Muslim <span
-id="_anchor_339"></span>339  in his Sahib from contradictory ways and
+In regard of the hadith of Jassasah, it is reported by Muslim 339  in his Sahib from contradictory ways and
 chains. Hereunder its text as reported from Fatimah bint Qays, the
 sister of al-Dahhak ibn Qays, who was among the first immigrants.
 
 After gathering people, the Messenger of Allah (S) said: By God, I have
 never gathered you out of desire,or dread, but because Tamim al-Dari
-<span id="_anchor_340"></span>340 was a Christian man, who came, swore
+340 was a Christian man, who came, swore
 allegiance and embraced Islam. He told me that he boarded a sea ship
 with thirty men from Lakhm and Jadham. Then they became the sport of the
 waves for one month, after which they landed at an island, staying there
@@ -59,7 +58,7 @@ Yathrib. He asked: Have the Arabs fought him? They replied: Yea. He
 said: What has he done to them? They told him that he had overcome
 whoever came close to him from among the Arabs, and they obeyed him. He
 said: I apprise you about myself. I am Jesus (Messias) and I am about
-<span id="_anchor_341"></span>341  to be permitted to rise out, when I
+341  to be permitted to rise out, when I
 will
 
 go out... I will proceed on earth for forty days, through which I shall
@@ -83,7 +82,7 @@ Messenger of Allah and recorded by Muslim in his Sahih through chains
 contradicting each other in respect of its text, it can be said that
 this difference in the text was caused by some narrators mentioned in
 the Sahih, and it can't be taken as caused by multiplicity of story.
-<span id="_anchor_342"></span>342
+342
 
 Further, can the narration of Tamim al Dari to the Messenger — if its
 chain be free from defects — make the hadith supplementary to what the
@@ -94,7 +93,7 @@ act, as indicated by his warrant and permission? Apparently this qiyas
 unseen, as he — like common people — used to hold speech of people to be
 true, when no suspicion being raised against it. Most often he believed
 the traditions related by even the hypocrites and disbelievers, the fact
-indicated by the hadith of Arinayn <span id="_anchor_343"></span>343
+indicated by the hadith of Arinayn 343
  and people of Ma'unah well. In fact he could recognize the falsity
 
 of some liars through wahy (revelation), or some ways of test, or
@@ -118,10 +117,10 @@ anything inconsistent with the position of message, isn't it permissible
 for others to believe the liar in every report that no evidence is there
 to prove its containing any falsity? Whoever believes anything can
 relate it to any other person without ascribing it to that from whom he
-heard. <span id="_anchor_344"></span>344
+heard. 344
 
 About descension of Jesus from the heaven and reappearance of al-Dajjal
-and al-Mahdi <span id="_anchor_345"></span>345  he said:
+and al-Mahdi 345  he said:
 
 Many traditions about descension of Jesus are reported in the two Sahihs
 and Sunan and other books, most of which are cited about the last hour
@@ -136,8 +135,7 @@ the Jews. At that time a large number of people will be tempted by him.
 At the end of his epoch, Messias, Jesus the son of Mary, shall appear,
 with his descension being at the white Minaret, east of Damascus. Then
 he will meet the impostor Messias at the Lidd Gate in Palestine, where
-the real Messias will kill the impostor Jesus <span
-id="_anchor_346"></span>346  after a long war between the Muslims and
+the real Messias will kill the impostor Jesus 346  after a long war between the Muslims and
 Jews. And most of the Christians had a strong belief in the descension
 of Jesus, and they tried all the time, from advent of Islam till the
 present time, to disseminate it among the Muslims. Wahb ibn Munabbih,
@@ -170,7 +168,7 @@ pricks every son of Adam except Isa ibn Maryam and his mother. So none
 of all sons of Adam shall escape stab of the Satan other than them, even
 the apostles: Noah, Abraham and Moses and others, with their Seal
 Muhammad, upon whom and all Prophets be God’s benedictions. How
-wonderful is this hadith! <span id="_anchor_347"></span>347
+wonderful is this hadith! 347
 
 Unsatisfied with all this, they narrated also that even the Prophet (S)
 could never escape the Satan’s prick, only after the stab's penetrating
@@ -181,8 +179,7 @@ leech was taken out! But unfortunately, the first operation might have
 failed, so his chest was rip again, and again for five times, four of
 which were unanimously accepted — as is said at the age of three, and
 ten, and at the time of his mission (mab’ath), and isra’, and for a
-fifth time about which there is dispute. <span
-id="_anchor_348"></span>348 It is said that the purpose behind
+fifth time about which there is dispute. 348 It is said that the purpose behind
 reiterating the act of ripping is only to show more veneration for the
 Prophet!
 
@@ -219,7 +216,7 @@ surmise?! That is in case of these traditions being correct.
 
 But this hadith of the Satan's goading was refuted by al-Zamakhshari in
 his book al-Kashshaf, and also about it Fakhr al-Din al-Razi in his
-Tafsir <span id="_anchor_349"></span>349  said: "Al-Qadi confuted this
+Tafsir 349  said: "Al-Qadi confuted this
 report saying: it is khabar wahid that was cited opposite to the proof,
 so its refutation became inevitable. We said that it was opposite to the
 proof for several reasons. First: The Satan verily invites to evil that
@@ -237,8 +234,7 @@ Fourth: Had this goading been reality there, its effect would have
 remained obvious, and had it so the screaming and weeping would have
 never stopped. On seeing non-existence of this we realized its futility.
 
-Al-Ustadh Muhammad Abduh (May God be pleased with him) said: <span
-id="_anchor_350"></span>350
+Al-Ustadh Muhammad Abduh (May God be pleased with him) said: 350
 
 "What is certain for us is that the Satan has no warrant over devoted
 servants of Allah, the best of whom being the prophets and messengers.
@@ -263,8 +259,7 @@ scholars said that he used to fabricate hadith, and he consummated
 temporary marriage (mut’ah) with ninety women. Of the Masihiyyat that
 were foisted into Islam is the hadith on making the Prophet(S) sit on
 the Throne! And that was when witnessing the Christians believing that
-Jesus used to sit beside God on the Throne, <span
-id="_anchor_351"></span>351  it pained them not to make Muhammad (S) sit
+Jesus used to sit beside God on the Throne, 351  it pained them not to make Muhammad (S) sit
 on the Throne too, so they narrated this report which I am quoting
 herewith from the
 
@@ -296,7 +291,7 @@ And never insert in it what spoils it,
 
 Nor deny that he is sitting,
 
-Nor repudiate that he makes him sit. <span id="_anchor_352"></span>352
+Nor repudiate that he makes him sit. 352
 
 Following is a short statement I quote from the book al-Aqidah wa
 al-Shari’ah by the great Orientalist Jold Tsihar, p.p.42-43.
@@ -370,8 +365,7 @@ regard, that I abandoned due to their vanity.
 ### The Suspicions Raised by Them:
 
 They say There are authentic traditions asserting that descension of
-Jesus will be at dawn on the eastern Damascus Minaret. <span
-id="_anchor_353"></span>353  But how is it said that his descension will
+Jesus will be at dawn on the eastern Damascus Minaret. 353  But how is it said that his descension will
 be after elapse of six hours of the daytime (at 6 afternoon)! Besides,
 it is commonly known among men of knowledge that Jesus will verily
 perform morning prayers behind al-Mahdi not afternoon prayers!
@@ -384,11 +378,9 @@ every day multifarious traditions which the fabricators diversify in
 devising and ascribing to the Messenger of Allah (S).
 
 Consequently the traditions ascribed (falsely) to the Prophet have
-extremely multiplied, till reassing hundreds of thousands <span
-id="_anchor_354"></span>354 , the fact that led al-Hafiz al-Daraqutni to
+extremely multiplied, till reassing hundreds of thousands 354 , the fact that led al-Hafiz al-Daraqutni to
 say: Verily the correct hadith among false ahadith is exactly like the
-white single hair on the black ox skin. <span
-id="_anchor_355"></span>355
+white single hair on the black ox skin. 355
 
 Being terrified by this multiplicity of traditions, the \`ulama’ got
 ready for unveiling and divulging the fabricated traditions, compiling
@@ -397,8 +389,7 @@ best leg foremost were Ibn al-Jawzi, al-Suyuti, al-Saghani and Mulla Ali
 al-Qari and others.
 
 Further, Dr. Ahmad Amin (may God's mercy be upon him) has broached the
-issue of abundance of traditions, saying: <span
-id="_anchor_356"></span>356
+issue of abundance of traditions, saying: 356
 
 "It is quite strange that when taking diagram for the hadith, it would
 be like a pyramid, whose pointed edge being the era of the Messenger (S)
@@ -416,7 +407,7 @@ It may be among the correct reasons that migration in request of hadith
 and collecting it from all towns during the Abbasid epoch used to be
 more perfect and active. But that was not the only reason, rather it
 might be the greatest reason led to voluminosity of (fabricated) hadith,
-as the Jews and Christians and others, <span id="_anchor_357"></span>357
+as the Jews and Christians and others, 357
  who follow other religions, have foisted many things from their
 religions and reports into the traditions. Thus the traditions became
 replete with things taken from the Torah and its margins, some of the

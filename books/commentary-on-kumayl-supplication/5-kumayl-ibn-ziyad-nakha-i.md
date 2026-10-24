@@ -42,4 +42,3 @@ believers go for pilgrimage to it.
 
 [^4]: Mustadrakat Ilm Rijal: 6/314.
 
-

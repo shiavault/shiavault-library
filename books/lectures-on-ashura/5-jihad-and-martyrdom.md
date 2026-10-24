@@ -581,4 +581,3 @@ towards that government? What is the order of the Islamic jurisprudence?
 I do not wish that fanaticism should be involved in narrating this
 order.
 
-

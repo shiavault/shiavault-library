@@ -457,4 +457,3 @@ and 55 .
 
 [^35]: Al-Suyuti, Ta'rikh al-khulafa; p. 171.
 
-

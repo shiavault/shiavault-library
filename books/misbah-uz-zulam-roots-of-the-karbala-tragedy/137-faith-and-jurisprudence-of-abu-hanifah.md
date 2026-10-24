@@ -173,4 +173,3 @@ and have no right to enter Paradise. The writer was in much perplexity
 during his period of research, but Allah the Almighty soon removed his
 difficulty, as will be explained in the following pages.
 
-

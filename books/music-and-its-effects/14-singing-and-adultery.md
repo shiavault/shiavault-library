@@ -20,4 +20,3 @@ disappear but also destroys love, brotherhood and generousness. In
 short, it makes the whole environment a specimen of Hell.  
   
 
-

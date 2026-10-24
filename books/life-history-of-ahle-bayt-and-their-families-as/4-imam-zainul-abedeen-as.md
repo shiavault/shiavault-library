@@ -522,4 +522,3 @@ to describe You in human terms.
 This has been a sample of the accounts which are given about the
 virtues of Zayn al-'Abideen, peace be on him.
 
-

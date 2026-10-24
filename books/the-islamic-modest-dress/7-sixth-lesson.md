@@ -409,4 +409,3 @@ have clarified it, but it did not want people to fall into difficulty.
 
 [^8]: Wafi, vol.12, p. 58; Wasa'il, vol. 3, p.11; Kafi, vol. 5, p. 365.
 
-

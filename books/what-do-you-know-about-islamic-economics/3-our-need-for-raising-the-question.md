@@ -9,4 +9,3 @@ individual to expect Islam to bring a substitute for them to regulate
 the economic life, since the Muslim society cannot do without a method
 for such organization, no matter what form it may have.
 
-

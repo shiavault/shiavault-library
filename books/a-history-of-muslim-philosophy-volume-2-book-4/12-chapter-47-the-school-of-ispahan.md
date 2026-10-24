@@ -1591,4 +1591,3 @@ leaders of the Sheikhis, see Abu al-Qasim ibn Zain al-‘Abidin ibn Karim,
 Fihrist-i Kutub-i Marhum- Ahsu’i wa Sa’r-i Mashayikh-i ‘Izam, two vols.
 Sa‘adat Press, Kerman, 1337,Solar.
 
-

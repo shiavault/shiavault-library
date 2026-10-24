@@ -33,4 +33,3 @@ manuscript, or "The Gawain Poet."
 dialect.*Gawain* was first published in 1839, and numerous translations
 and retellings have appeared since.
 
-

@@ -16,4 +16,3 @@ classes”. After that, he said “writing on the walls is forbidden and we
 are not allowed to do so”. And this thing the children completely
 understood.
 
-

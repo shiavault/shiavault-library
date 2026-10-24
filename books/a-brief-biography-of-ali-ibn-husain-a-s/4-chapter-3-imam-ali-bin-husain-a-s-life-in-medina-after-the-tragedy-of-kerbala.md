@@ -124,7 +124,6 @@ In this way through mourning for his father and praying to Allah, Imam
 Zainul Abidin (A.S) kept the true message of Allah alive from the
 evil-minded Bani Umayyah.
 
-
 **Effect of The Imam's Approach To Preach Through Prayers**
 
 The greatest result of the Imam's decision to lead a quiet life was:
@@ -221,5 +220,4 @@ When the Bani Umayyah rulers realised their mistake they decided to
 kill the Imam. By the instructions of Walid Bin Merwan, the governor of
 Medina poisoned the Imam (A.S). The Imam (A.S) died from this poison on
 25th Muharram A.H 95 (A.D. 713).
-
 

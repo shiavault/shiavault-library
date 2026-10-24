@@ -341,7 +341,6 @@ those who reject God out of arrogance.
 When we look at the progress of humanism in European history, we will
 discover many solid proofs for this assertion.
 
-
 **The Roots of Humanism in The Kabbalah**
 
 We have seen that the Kabbalah is a doctrine that dates back to Ancient
@@ -489,5 +488,4 @@ recognize that its aim is to create throughout the whole world a
 secular, humanist order. These ideas were born among the humanists of
 fourteenth century Europe; present-day Masons still propose and defend
 them.
-
 

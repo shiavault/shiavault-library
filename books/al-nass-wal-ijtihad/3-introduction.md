@@ -8,7 +8,6 @@ By: Allama Sayyid Muhammad Taqi al-Hakeem
 Professor of Usool in the college of Muntada an-Nashr
 and the secretary general of the society of Muntada an-Nashr
 
-
 I am now before a book that has a great scientific value. It has been
 written by a man having the favor of teachership and education on the
 most of the researchers of doctrinism of this generation. The cultural
@@ -1004,5 +1003,4 @@ this book.
 23rd of Ramadan, 1375 A.H. / 4-5-1956 A.D.
 Muhammad Taqiy al-Hakeem
 Holy Najaf
-
 

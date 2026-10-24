@@ -119,12 +119,8 @@ Muhammad bin Husain bin Abil Khattab from Hasan bin Mahboob from Ali bin
 Riyab from Abu Abdillah (a.s.) that he said regarding the saying of
 Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا
-لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا
-  </p>
-</blockquote>
+> يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا
+> لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا
 
 ***“On the day when some of the signs of your Lord shall come, its faith
 shall not profit a soul which did not believe before, or earn good
@@ -150,24 +146,16 @@ his nation, his successor upon them and his administrator who is unto
 the Prophet (S) as Harun (a.s.) was to Musa (a.s.). His obedience is
 obligatory as per the saying of Allah, Mighty and Glorified be He:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***O you who believe! Obey Allah, obey the Messenger and those in
 authority amongst you.***[^3]
 
 And Allah, Mighty and Glorified be He, said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Only Allah is your Master and His Messenger and those who believe,
 who establish prayer and give Zakat while they are in a state of
@@ -324,11 +312,7 @@ Isa from Umar bin Abdul Aziz from more than one of our associates from
 Dawood bin Kathir Raqqi from Abi Abdullah (a.s.) regarding the words of
 Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
-  </p>
-</blockquote>
+> الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
 
 ***Those who believe in the unseen.***[^5]
 
@@ -341,12 +325,8 @@ from his uncle Husain bin Yazid from Ali bin Abi Hamza from Yahya bin
 Abil Qasim that he said: I asked as-Sadiq (a.s.) regarding the words of
 Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-الم ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ الَّذِينَ
-يُؤْمِنُونَ بِالْغَيْبِ
-  </p>
-</blockquote>
+> الم ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ الَّذِينَ
+> يُؤْمِنُونَ بِالْغَيْبِ
 
 ***Alif Lam Mim. This Book, there is no doubt in it, is a guide to those
 who guard (against evil). Those who believe in the unseen.***[^6]
@@ -381,13 +361,9 @@ carpets but they didn’t recognize him? Till the time that Allah, the
 Mighty and Sublime permits him to introduce himself as He allowed Yusuf.
 And he said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ
-جَاهِلُونَ قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ ۖ قَالَ أَنَا يُوسُفُ
-وَهَٰذَا أَخِي
-  </p>
-</blockquote>
+> قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ
+> جَاهِلُونَ قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ ۖ قَالَ أَنَا يُوسُفُ
+> وَهَٰذَا أَخِي
 
 ***Do you know how you treated Yusuf and his brother when you were
 ignorant? They said: Are you indeed Yusuf? He said: I am Yusuf and this
@@ -443,13 +419,9 @@ action I should perform?”
 He replied: “O Zurarah if you live till that time you must recite the
 following supplication:
 
-<blockquote dir="rtl">
-  <p>
-اللهم عرفني نفسك ، فإنك إن لم تعرفني نفسك لم أعرف نبيك، اللهم عرفني
-نبيك فإنك إن لم تعرفني نبيك لم أعرف حجتك ، اللهم عرفني حجتك فإنك إن لم
-تعرفني حجتك ضللت عن ديني
-  </p>
-</blockquote>
+> اللهم عرفني نفسك ، فإنك إن لم تعرفني نفسك لم أعرف نبيك، اللهم عرفني
+> نبيك فإنك إن لم تعرفني نبيك لم أعرف حجتك ، اللهم عرفني حجتك فإنك إن لم
+> تعرفني حجتك ضللت عن ديني
 
 **‘O Allah introduce Yourself to me. For if You don’t introduce Yourself
 to me I will not recognize Your Prophet. O Allah introduce Your
@@ -543,11 +515,7 @@ slave of Sabirri, that:
 
 I asked Imam Sadiq (a.s.) concerning the verse,
 
-<blockquote dir="rtl">
-  <p>
-أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
-  </p>
-</blockquote>
+> أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
 
 ***Its root is firm and its branch is in the sky.***[^8]
 
@@ -559,11 +527,7 @@ leaves. By Allah!
 Surely when a person from them (Shias) dies, a leaf from this tree
 falls.” I asked regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
-  </p>
-</blockquote>
+> تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
 
 ***Yielding its fruit in every season by the permission of its
 Lord?***[^9]
@@ -744,11 +708,7 @@ replied:
 they will spread them to others. Have you not seen the verse in the Book
 of Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نُقِرَ فِي النَّاقُورِ
-  </p>
-</blockquote>
+> فَإِذَا نُقِرَ فِي النَّاقُورِ
 
 ***For when the trumpet is sounded.***[^10]
 
@@ -826,12 +786,8 @@ Narrated to me Musa bin Qasim from Ali Ibne Ja’far from Abil Hasan Musa
 bin Ja’far (a.s.) that he said: I heard Abi Abdullah (a.s.) say
 regarding the words of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
-بِمَاءٍ مَعِينٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
+> بِمَاءٍ مَعِينٍ
 
 ***Say: Have you considered if your water should go down, who is it then
 that will bring you*** ***flowing water?***[^11]
@@ -857,22 +813,14 @@ of the time. In that period no one will be saved except the one who
 recites “Dua-e-Gareeq”. The narrator inquired as to what is
 Dua-e-Gareeq. Imam (a.s.) replied:
 
-<blockquote dir="rtl">
-  <p>
-يا الله يا رحمن يا رحيم يا مقلب القلوب ثبت قلبي على دينك
-  </p>
-</blockquote>
+> يا الله يا رحمن يا رحيم يا مقلب القلوب ثبت قلبي على دينك
 
 “O Allah! O Beneficent! O Merciful! O the One Who transforms the hearts!
 Make my heart steadfast upon your religion!”
 
 The narrator repeated the dua in this way:
 
-<blockquote dir="rtl">
-  <p>
-يا الله يا رحمن يا رحيم يا مقلب القلوب والابصار ثبت قلبي على دينك
-  </p>
-</blockquote>
+> يا الله يا رحمن يا رحيم يا مقلب القلوب والابصار ثبت قلبي على دينك
 
 The narrator added “Moqallebal Quloob. Wal Absaar” Imam (a.s.) told him,
 “Indeed, Allah is Moqallebal Quloob Wal Absaar”, but you say only “Ya
@@ -962,11 +910,7 @@ As for the disappearance of Isa (a.s.). The Jews and Christians formed
 unanimity that he has been killed; whereas Allah belied them in this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَكِن شُبِّه
-  </p>
-</blockquote>
+> وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَكِن شُبِّه
 
 ***And they did not kill him nor did they crucify him, but it appeared
 to them so.*** [^12]
@@ -1049,12 +993,8 @@ which were occurring in their days and the wars that were breaking out
 between the disbelievers and between themselves.” Then as-Sadiq (a.s.)
 recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
-جَاءَهُمْ نَصْرُنَا
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
+> جَاءَهُمْ نَصْرُنَا
 
 ***Until when the apostles despaired and the people became sure that
 they were indeed told a lie, Our help came to them.***[^13]
@@ -1086,12 +1026,8 @@ from Muhammad bin Isa from Yunus Ibne Abdur Rahman from Ali bin Abi
 Hamza from Abi Baseer that as-Sadiq Ja’far bin Muhammad (a.s.) said
 regarding the words of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا
-لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا
-  </p>
-</blockquote>
+> يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا
+> لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا
 
 ***On the day when some of the signs of your Lord shall come, its faith
 shall not profit a soul which did not believe before, or earn good
@@ -1117,11 +1053,7 @@ there will not be any believer who does not have one of the branches of
 this tree reaching into his house and that is the meaning of the saying
 of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-طُوبَى لَهُمْ وَحُسْنُ مَآبٍ
-  </p>
-</blockquote>
+> طُوبَى لَهُمْ وَحُسْنُ مَآبٍ
 
 ***Tooba (a good final state) shall be theirs and a goodly
 return***[^15]***.***
@@ -1145,11 +1077,7 @@ Husain bin Zaid Zayyat: Narrated to us Muhammad bin Ziyad Azdi from
 Mufaddal bin Umar that he asked As-Sadiq Ja’far bin Muhammad (a.s.)
 regarding the words of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ
-  </p>
-</blockquote>
+> وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ
 
 ***And when your Lord examined Ibrahim with some words, then he
 completed these***[^16]
@@ -1165,11 +1093,7 @@ words till the Qaim, twelve Imams, of whom nine are the descendants of
 Husain (a.s.).” Mufaddal requested, ‘O son of Allah’s Messenger! Please
 inform me about the saying of Allah, Mighty and Glorified be He:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
 
 ***‘And He made it as a lasting word in his posterity.’***[^17]
 
@@ -1220,5 +1144,4 @@ does but the people will be questioned.”
 [^16]: Surah Baqarah 2:124
 
 [^17]: Surah Zukhruf 43:28
-
 

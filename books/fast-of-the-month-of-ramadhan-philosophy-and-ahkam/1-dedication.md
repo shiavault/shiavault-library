@@ -34,4 +34,3 @@ he pleases thereto...
 
 Allahu akbar! Allahu akbar! Allahu akbar!
 
-

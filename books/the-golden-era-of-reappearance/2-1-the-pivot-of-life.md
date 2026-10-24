@@ -72,4 +72,3 @@ Saamarra.)
 Imam is like that of the Ka’bah. He is approached and he does not
 approach. “ – Behaar al – Anwaar, vol. 36, p. 358)
 
-

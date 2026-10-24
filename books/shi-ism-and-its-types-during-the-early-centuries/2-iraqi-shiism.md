@@ -268,4 +268,3 @@ There were so many virtues (fada'il) recounted concerning Kufah, and
 later on Qum, that Sa'd ibn Abd Allah al-Ashari compiled a book named
 Fadl Qum wa al-Kufah. [^30]
 
-

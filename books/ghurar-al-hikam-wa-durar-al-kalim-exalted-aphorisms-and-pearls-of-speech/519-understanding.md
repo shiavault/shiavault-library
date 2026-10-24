@@ -27,14 +27,9 @@ Understanding
 not benefit from the advice of any adviser.
 
 > 6ـ مَنْ عَدِمَ الفَهْمَ عَنِ اللّهِ سُبْحانَهُ لَمْ يَنْـتَفِعْ
-<blockquote dir="rtl">
-  <p>
-بِمَوْعِظَةِ واعِظ.
-  </p>
-</blockquote>
+> بِمَوْعِظَةِ واعِظ.
 
 7. One who possesses understanding does not become needy.
 
 > 7ـ مَاافْتَقَرَ مَنْ مَلَكَ فَهْماً.
-
 

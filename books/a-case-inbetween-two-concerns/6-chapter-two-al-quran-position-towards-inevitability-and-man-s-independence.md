@@ -269,4 +269,3 @@ translator An Nahl v. 118.
 [We did not do wrong to them but they did themselves wrong.] Revised by
 translator. Az Zukhruf v. 76.
 
-

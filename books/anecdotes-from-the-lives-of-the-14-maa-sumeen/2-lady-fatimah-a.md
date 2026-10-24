@@ -156,4 +156,3 @@ freed a man, and finally came back to its owner!
 You should give whatever you have to people who need it and Allah will
 give you more in return.
 
-

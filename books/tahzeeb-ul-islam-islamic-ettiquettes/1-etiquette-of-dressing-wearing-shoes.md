@@ -254,4 +254,3 @@ with a thing that preserves both my feet from pain. O God keep both my
 feet steady on the Bridge of Sirat and let them not go astray from the
 right path.’
 
-

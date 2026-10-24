@@ -8,4 +8,3 @@ Creator and to maintain a true and fruitful relationship with Him.
 This is expressed through Tawhid, on which we have concentrated in this
 pamphlet, by collecting some of the holy verses of the Holy Qur'an.
 
-

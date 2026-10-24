@@ -118,7 +118,6 @@ the same degree of objectivity we commonly bring to mathematical
 thinking, he argued, we would achieve the same quality of demonstrable
 certainty about substantive moral truths. [Essay IV iii 19-20]
 
-
 **Varieties of Moral Law**
 
 In general, Locke held that the mental comparisons comprising our ideas
@@ -211,7 +210,6 @@ actions, and Locke believed that the prospect of eternal happiness or
 misery ought therefore to weigh upon us at least as firmly as more
 short-term expectations. [Essay II xxi 70]
 
-
 **Human Action**
 
 The first edition of the Essay included a brief chapter, "Of Power,"
@@ -230,7 +228,6 @@ great business of Mankind" on Locke's view, and since moral
 responsibility is commonly taken to presuppose some degree of freedom,
 it is vital for his task to seek some clarity on the nature of human
 action.
-
 
 **Freedom and Responsibility**
 
@@ -316,5 +313,4 @@ perfectly determined to the good, yet is surely also supposed to be
 free.) In the same way, a proper understanding of the causes of human
 volition will enhance, not undermine, confidence in our moral
 accountability. [Essay II xxi 48-50]
-
 

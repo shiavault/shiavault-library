@@ -1,25 +1,17 @@
 35) Beware of who you consult with
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-"وَاِيَاكَ وَمُشاوَرَةَ النِساءِ فَاِنَّ رَأيَهُنَّ اِلى اَفْنٍ
-وعَزْمُهُنَّ اِلى وَهْنٍ واكْفُفْ عَلَيهِنَّ مِن اَبصَارِهِنَّ
-بِحِجَابِكَ اِيّاهُنَّ فَاِنَّ شِدَّةَ الحِجَابِ اَبْقَى عَلَيهِنَّ
-  </p>
-</blockquote>
+> "وَاِيَاكَ وَمُشاوَرَةَ النِساءِ فَاِنَّ رَأيَهُنَّ اِلى اَفْنٍ
+> وعَزْمُهُنَّ اِلى وَهْنٍ واكْفُفْ عَلَيهِنَّ مِن اَبصَارِهِنَّ
+> بِحِجَابِكَ اِيّاهُنَّ فَاِنَّ شِدَّةَ الحِجَابِ اَبْقَى عَلَيهِنَّ
 
-<blockquote dir="rtl">
-  <p>
-ولَيسَ خُرُوجُهُنَّ بِاَشَدَّ مِن اِدخَالِكَ مَن لا يُوثَقُ بٍهِ
-عَلَيْهِنَّ وَاِن اسْتَطَعْتَ اَلا يَعرِفْنَ غَيرَكَ فَافْعَل، وَلا
-تُمَلِّكَ المَرأَةَ مِن اَمرِهَا مَا جَاوَزَ نَفسَهَا، فَاِنَّ
-المَرأَةَ رَيْحانَةٌ ولَيسَتْ بِقَهْرَمَانَةٍ، وَلا تَعْدُ
-بِكَرامَتِها نَفسَهَا، وَلا تُطمِعْها في اَن تَشفَعَ لِغَيرِهَا،
-واِيّاكَ والتَّغايُرَ في غَيرِ مَوضِعِ غَيرَةٍ، فَاِنَّ ذَلِكَ يَدْعُو
-الصَّحِيحَةَ اِلى السُّقمِ وَالبَريئَةَ اِلى الرَّيبِ"
-  </p>
-</blockquote>
+> ولَيسَ خُرُوجُهُنَّ بِاَشَدَّ مِن اِدخَالِكَ مَن لا يُوثَقُ بٍهِ
+> عَلَيْهِنَّ وَاِن اسْتَطَعْتَ اَلا يَعرِفْنَ غَيرَكَ فَافْعَل، وَلا
+> تُمَلِّكَ المَرأَةَ مِن اَمرِهَا مَا جَاوَزَ نَفسَهَا، فَاِنَّ
+> المَرأَةَ رَيْحانَةٌ ولَيسَتْ بِقَهْرَمَانَةٍ، وَلا تَعْدُ
+> بِكَرامَتِها نَفسَهَا، وَلا تُطمِعْها في اَن تَشفَعَ لِغَيرِهَا،
+> واِيّاكَ والتَّغايُرَ في غَيرِ مَوضِعِ غَيرَةٍ، فَاِنَّ ذَلِكَ يَدْعُو
+> الصَّحِيحَةَ اِلى السُّقمِ وَالبَريئَةَ اِلى الرَّيبِ"
 
 *“Beware of consulting women, for their opinions* *are deficient and
 their resolve is feeble. Restrain their gazes by veiling them, for the
@@ -63,18 +55,14 @@ conditions or to some ambiguous traditions. One of these traditions is
 this part of Imam ‘Ali's letter and the sermon 80 of Nahj al-Balaghah
 which he offered at the end of al-Jamal war to reproach women.
 
-<blockquote dir="rtl">
-  <p>
-"مَعاشِرَ النّاسِ، اِنَّ النِسَاءَ نَواقِصُ الاِيمانِ، نَواقِصُ
-الحُظُوظِ، نَواقِصُ العُقُولِ، فَامَّا نُقصَانُ اِيمانِهِنَّ
-فَقُعُودُهُنَّ عَنِ الصَّلاةِ وَالصِيامِ في اَيَّامِ حَيضِهِنَّ
-وَامَّا نُقصَانُ عُقُولِهِنَّ فَشَهادَةُ اِمرأتَينِ كَشَهَادَةِ
-الرَّجُلِ الواحِدِ واَمَّا نُقصَانُ حُظُوظِهِنَّ فَمَوارِيثُهُنَّ عَلى
-الأنصَافِ مِن مَوارِيثِ الرِجَالِ فاتَّقُوا شِرارَ النِسَاءِ وَكُونُوا
-مِن خِيَارِهِنَّ عَلى حَذَرٍ ولا تُطِيعُوهُنَّ في المَعرُوفِ حَتّى لا
-يَطمَعنَ في المُنكَرِ"
-  </p>
-</blockquote>
+> "مَعاشِرَ النّاسِ، اِنَّ النِسَاءَ نَواقِصُ الاِيمانِ، نَواقِصُ
+> الحُظُوظِ، نَواقِصُ العُقُولِ، فَامَّا نُقصَانُ اِيمانِهِنَّ
+> فَقُعُودُهُنَّ عَنِ الصَّلاةِ وَالصِيامِ في اَيَّامِ حَيضِهِنَّ
+> وَامَّا نُقصَانُ عُقُولِهِنَّ فَشَهادَةُ اِمرأتَينِ كَشَهَادَةِ
+> الرَّجُلِ الواحِدِ واَمَّا نُقصَانُ حُظُوظِهِنَّ فَمَوارِيثُهُنَّ عَلى
+> الأنصَافِ مِن مَوارِيثِ الرِجَالِ فاتَّقُوا شِرارَ النِسَاءِ وَكُونُوا
+> مِن خِيَارِهِنَّ عَلى حَذَرٍ ولا تُطِيعُوهُنَّ في المَعرُوفِ حَتّى لا
+> يَطمَعنَ في المُنكَرِ"
 
 *“O people! Women are deficient in faith, deficient in (their) shares
 and deficient in intellect. The deficiency in their faith is their
@@ -88,11 +76,7 @@ may not tempt you to what is reprehensible."*
 These individuals also base their reasonings on the axioms which Imam
 ‘Ali (as) has used in Hikmah Nahj al-Balaghah No 238:
 
-<blockquote dir="rtl">
-  <p>
-"المَرأةُ شَرٌّ كُلُّها وَشَرُّ مَا فِيهَا اَنَّها لابُدَّ مِنهَا"
-  </p>
-</blockquote>
+> "المَرأةُ شَرٌّ كُلُّها وَشَرُّ مَا فِيهَا اَنَّها لابُدَّ مِنهَا"
 
 *"A woman is evil, all of her; and worse than it is that she is
 indispensable.”*
@@ -159,11 +143,7 @@ proven somewhere, except for certain managerial key-positions, other
 jobs are good for women. Consulting with learned women is not forbidden
 by Imam ‘Ali (as).
 
-<blockquote dir="rtl">
-  <p>
-"اِيَّاكَ وَمُشَاوَرَةَ النِّساءِ اِلاّ مَن جُرِّبَت بِكَمَالِ عَقْلٍ"
-  </p>
-</blockquote>
+> "اِيَّاكَ وَمُشَاوَرَةَ النِّساءِ اِلاّ مَن جُرِّبَت بِكَمَالِ عَقْلٍ"
 
 *"Avoid consulting with women, except with a woman whose wisdom is
 proved"*[^4]
@@ -208,14 +188,10 @@ observance of hijab and their not mingling with men, writes: Imam ‘Ali
 (as) suggests to his son, Imam Hasan al-Mujtaba (as) in the following
 manner:
 
-<blockquote dir="rtl">
-  <p>
-"واَكفُف عَلَيهِنَّ مِن اَبصَارِهِنَّ بِحِجَابِكَ اِيَّاهُنَّ فَاِنَّ
-شِدَّةَ الحِجَابِ اَبْقَى عَلَيهِنَّ وَلَيسَ خُرُوجُهُنَّ بِاَشَدَّ
-مِن اِدخَالِكَ عَلَيهِنَّ مَن لا يُوثَقُ بِهِ عَلَيهِنَّ وَاِن
-استَطَعتَ اَن لا يَعرِفْنَ غَيرَكَ فَافعَل"
-  </p>
-</blockquote>
+> "واَكفُف عَلَيهِنَّ مِن اَبصَارِهِنَّ بِحِجَابِكَ اِيَّاهُنَّ فَاِنَّ
+> شِدَّةَ الحِجَابِ اَبْقَى عَلَيهِنَّ وَلَيسَ خُرُوجُهُنَّ بِاَشَدَّ
+> مِن اِدخَالِكَ عَلَيهِنَّ مَن لا يُوثَقُ بِهِ عَلَيهِنَّ وَاِن
+> استَطَعتَ اَن لا يَعرِفْنَ غَيرَكَ فَافعَل"
 
 *"Restrain their gazes by veiling them, for the severity of veiling is
 more protective for them. Their going out (of their houses) is not worse
@@ -328,13 +304,9 @@ disloyalty of one woman (namely, A’isha).
 What he does is to warn women not to be puppets in the hands of others.
 And what he intends is to warn women not to exceed their limits:
 
-<blockquote dir="rtl">
-  <p>
-"وَلا تُمَلِّكِ المَرأةَ مِن اَمرِهَا مَا جَاوَزَ نَفسَهَا فَاِنَّ
-المَرأةَ رَيحَانَةٌ وَلَيسَت بِقَهْرَمَانَة وَلا تَعْدُ بِكَرامَتِهَا
-نَفْسَهَا وَلا تُطْمِعَها في اَن تَشْفَعَ لِغَيرِهَا"
-  </p>
-</blockquote>
+> "وَلا تُمَلِّكِ المَرأةَ مِن اَمرِهَا مَا جَاوَزَ نَفسَهَا فَاِنَّ
+> المَرأةَ رَيحَانَةٌ وَلَيسَت بِقَهْرَمَانَة وَلا تَعْدُ بِكَرامَتِهَا
+> نَفْسَهَا وَلا تُطْمِعَها في اَن تَشْفَعَ لِغَيرِهَا"
 
 *“Do not put a woman in charge of affairs beyond what concerns herself,
 for a woman is a fragrant flower and not an administrator. Do not exceed
@@ -405,5 +377,4 @@ Jawadi Amuli's Zann dar A’ineh Jalal wa Jamal.
 [^12]: . For the differences between men's and women's human values, and
 political and social rights see Women's Rights in Islam by Mutahhari and
 Jawadi Amuli's Zann dar A’ineh Jalal wa Jamal. .
-
 

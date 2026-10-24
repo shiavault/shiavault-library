@@ -41,4 +41,3 @@ your life be saved if I sleep in his bed?” When assured that it was the
 promise of God, he prostrated to God, thanking Him that He made his
 (Ali’s) life a ransom for the life of the Holy Prophet (S.A.)
 
-

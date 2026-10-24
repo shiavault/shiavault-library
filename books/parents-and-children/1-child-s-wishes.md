@@ -28,7 +28,6 @@ affairs, he should be decisive to me without cruelty… he should be my
 adviser not my dictator… and that he should not regard my effort as
 nothing.
 
-
 **Father's Wishes**
 
 I hope that my son will be better than me, and not only be my
@@ -78,7 +77,6 @@ practicable, it is not a miracle or something impossible.
 Therefore, there is the need for both sides to understand the reality
 and the nature of the other sides feelings, his likes and dislikes. This
 is what we will discuss now:
-
 
 **Among the Mistakes of the Parents**
 
@@ -261,5 +259,4 @@ If I prefer one over the other, surely, I will prefer the girls.
 in the chapter of spiritual feeling and Islamic feeling and respect for
 women. Here, we ought to point out that these mistakes - and many
 others - may end up in crisis and have other negative impact.
-
 

@@ -202,4 +202,3 @@ in number: two are purely physical ("salat" and "sawm"), two are purely
 amwalikum wa anfusikum). Finally, "kaffarat" (penalties) are special
 kinds of punishments for particular crimes.
 
-

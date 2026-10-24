@@ -85,7 +85,6 @@ liberation of Mecca, Habbar fled to the hills then returned in disguise.
 When he stood before the Messenger of God he entered Islam and the
 Messenger of God accepted his Islam and forgave him.
 
-
 **Prohibition of Torture and Mutilation**
 
 Mukraz ibn Hafs arrived to pay the ransom of Suheil ibn Amr who had
@@ -461,5 +460,4 @@ whenever anyone spoke of Islam and others reasoned and understood Islam
 they would embrace it as a way of life. During the next two years more
 people entered Islam than had already become Muslims in the previous
 years.
-
 

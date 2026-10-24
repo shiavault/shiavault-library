@@ -252,7 +252,6 @@ political and ideological organizations, also, evolved and as a
 consequence, the means of social work that can be employed in
 propagation have become numerous.
 
-
 **The Qualities of a Successful Missionary**
 
 "And call you unto the way of your Lord with wisdom and kindly
@@ -693,5 +692,4 @@ of Islamic jurisprudence \`ilmul usul' which says:
 
 "Anything (or act) without which an obligatory act cannot be fulfilled,
 is itself an obligatory thing / act".
-
 

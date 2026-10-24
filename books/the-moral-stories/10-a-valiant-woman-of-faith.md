@@ -97,7 +97,6 @@ So saying she went away. When these words were conveyed to Hujjaj, he
 gave instructions to remove the body of Abdullah so that it could be
 buried.
 
-
 **Greedy Even in Old Age**
 
 Haroon-AI-Rashid was one of the famous kings of Bani Abbas. He ruled
@@ -188,7 +187,6 @@ enslaved with greed". And Hazrat Ali (A.S.) had said:
 Abedeen (A..S.) in one of his prayers said: "Oh Allah! I seek shelter
 from THEE from overriding desire and greed for worldly things".
 
-
 **ISLAMIC EQUALITY AND FAIRPLAY IN PRACTICE**
 
 It was during the times when Hazrat Ali (A.S.) was the caliph of the
@@ -235,5 +233,4 @@ Were men of high positions in public institutions today to serve the
 interests of the people only without misusing their positions for
 personal gains, people would enjoy better prosperity and peace in the
 world.
-
 

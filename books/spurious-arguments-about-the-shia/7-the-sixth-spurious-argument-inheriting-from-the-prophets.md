@@ -41,4 +41,3 @@ abrogating its verses because of a narration by one Companion singled
 out for the purpose in spite of the fact that the purified family of the
 Prophet has denied that tradition and considered it as untrue!
 
-

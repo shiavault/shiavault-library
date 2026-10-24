@@ -42,4 +42,3 @@ This is the first premise endorsed by the Shi\`as. It has a precedent
 that goes back to the days of the early sahabah and their sincere
 tabi\`in. As regarding the second premise, here it is explained:
 
-

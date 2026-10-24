@@ -66,4 +66,3 @@ sustenance of the people and He distributes it through our hands.”
 
 [^4]: Usul al-Kafi; Muhammad bin Yaqoob Kulaini; Vol. 1/408
 
-

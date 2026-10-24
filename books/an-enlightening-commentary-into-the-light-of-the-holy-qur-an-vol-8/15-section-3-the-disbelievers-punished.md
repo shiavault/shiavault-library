@@ -4,13 +4,9 @@ Section 3: The Disbelievers Punished
 Surah ‘Ibrahim – Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِنْ
-أَرْضِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا فَاَوْحي إِلَيْهِمْ
-رَبُّهُمْ لَنُهْلِكَنَّ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِنْ
+> أَرْضِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا فَاَوْحي إِلَيْهِمْ
+> رَبُّهُمْ لَنُهْلِكَنَّ الظَّالِمِينَ
 
 ***13. “And those who disbelieved told their messengers: ‘We will
 certainly expel you from our land, or else you return to our creed.’
@@ -71,12 +67,8 @@ unjust’.”***
 Surah ‘Ibrahim – Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَنُسْكِنَنَّكُمُ الأَرْضَ مِن بَعْدِهِمْ ذَلِكَ لِمَنْ خَافَ
-مَقَامِي وَخَافَ وَعِيدِ
-  </p>
-</blockquote>
+> وَلَنُسْكِنَنَّكُمُ الأَرْضَ مِن بَعْدِهِمْ ذَلِكَ لِمَنْ خَافَ
+> مَقَامِي وَخَافَ وَعِيدِ
 
 ***14. “And, certainly, We shall settle you in the land after them. This
 is for him who fears My Majesty and fears My threat.”***
@@ -123,11 +115,7 @@ court, though he is your friend.
 Surah ‘Ibrahim – Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ
-  </p>
-</blockquote>
+> وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ
 
 ***15. “And they (the prophets as well as the believers) sought victory,
 but every obstinate oppressor remained deprived.***
@@ -172,11 +160,7 @@ his own retribution.
 Surah ‘Ibrahim – Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مِن وَرَآئِهِ جَهَنَّمُ وَيُسْقَي مِن مَّآءٍ صَدِيدٍ
-  </p>
-</blockquote>
+> مِن وَرَآئِهِ جَهَنَّمُ وَيُسْقَي مِن مَّآءٍ صَدِيدٍ
 
 ***16. “Hell is before him, and he will be given to drink of festering
 fluid.”***
@@ -224,12 +208,8 @@ Holy.”***
 Surah ‘Ibrahim – Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَتَجَرَّعُهُ وَلا يَكَادُ يُسِيغُهُ وَيَأْتِيهِ الْمَوْتُ مِن كُلّ‌ِ
-مَكَانٍ وَمَا هُوَ بِمَيّـِتٍ وَمِن وَرَآئِهِ عَذَابٌ غَلِيظٌ
-  </p>
-</blockquote>
+> يَتَجَرَّعُهُ وَلا يَكَادُ يُسِيغُهُ وَيَأْتِيهِ الْمَوْتُ مِن كُلّ‌ِ
+> مَكَانٍ وَمَا هُوَ بِمَيّـِتٍ وَمِن وَرَآئِهِ عَذَابٌ غَلِيظٌ
 
 ***17. “He will drink it little by little which he can hardly swallow
 agreeably, and death will come to him from every side, while he will not
@@ -289,13 +269,9 @@ day-time, or it may mean the day in which blows a strong wind.
 Surah ‘Ibrahim – Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ كَفَرُوا بِرَبّـِهِمْ أَعْمَالُهُمْ كَرَمَادٍ
-اشْتَدَّتْ بِهِ الّـِرِيحُ فِي يَوْمٍ عَاصِفٍ لاَ يَقْدِرُونَ مِمَّا
-كَسَبُوا عَلَي شَيْءٍ ذَلِكَ هُوَ الضَّلالُ الْبَعِيدُ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ كَفَرُوا بِرَبّـِهِمْ أَعْمَالُهُمْ كَرَمَادٍ
+> اشْتَدَّتْ بِهِ الّـِرِيحُ فِي يَوْمٍ عَاصِفٍ لاَ يَقْدِرُونَ مِمَّا
+> كَسَبُوا عَلَي شَيْءٍ ذَلِكَ هُوَ الضَّلالُ الْبَعِيدُ
 
 ***18. “The parable of those who disbelieve in their Lord, their deeds
 are like ashes on which the wind blows severely on a stormy day; they
@@ -339,18 +315,10 @@ earned; that is the very straying, far (and deep).”***
 Surah ‘Ibrahim – Verses 19 - 20
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ خَلَقَ السَّمَاوَاتِ وَالأَرْضَ بِالْحَقّ‌ِ
-إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ خَلَقَ السَّمَاوَاتِ وَالأَرْضَ بِالْحَقّ‌ِ
+> إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ذَلِكَ عَلَي اللَّهِ بِعَزيزٍ
-  </p>
-</blockquote>
+> وَمَا ذَلِكَ عَلَي اللَّهِ بِعَزيزٍ
 
 ***19. “Did you not see that Allah created the heavens and the earth
 with truth? If He wills He will take you away and bring (in your place)
@@ -424,15 +392,11 @@ generation of people. The verse says:
 Surah ‘Ibrahim – Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَبَرَزُوا لِلَّهِ جَمِيعاً فَقَالَ الضُّعَفَآءُ لِلَّذِينَ
-اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعاً فَهَلْ أَنتُم مُّغْنُونَ
-عَنَّا مِنْ عَذَابِ اللَّهِ مِن شَيءٍ قَالُوا لَو هَدَانَا اللَّهُ
-لَهَدَيْنَاكُمْ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا
-مِن مَحِيصٍ
-  </p>
-</blockquote>
+> وَبَرَزُوا لِلَّهِ جَمِيعاً فَقَالَ الضُّعَفَآءُ لِلَّذِينَ
+> اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعاً فَهَلْ أَنتُم مُّغْنُونَ
+> عَنَّا مِنْ عَذَابِ اللَّهِ مِن شَيءٍ قَالُوا لَو هَدَانَا اللَّهُ
+> لَهَدَيْنَاكُمْ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا
+> مِن مَحِيصٍ
 
 ***21. “And they shall come forth in front of Allah all together. Then
 the week shall say to those who were the arrogant: ‘Verily we were your
@@ -508,5 +472,4 @@ no way for us to escape.”***
 [^10]: Surah Ad-Dukhan, No. 44, verse 38
 
 [^11]: Surah S ad, No. 38, verse 27
-
 

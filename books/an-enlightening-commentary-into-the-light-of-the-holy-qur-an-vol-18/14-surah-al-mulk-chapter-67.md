@@ -10,11 +10,7 @@ Surah al-Mulk, Chapter 67
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -59,27 +55,15 @@ Other traditions in this respect are to found in tradition sources.
 Surah al-Mulk – Verses 1-2
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ
-قَدِيرٌ
-  </p>
-</blockquote>
+> تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ
+> قَدِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***1. Bountiful is He in Whose Hand is the Sovereignty and He is
 All-Able to do all things.***  
@@ -186,20 +170,12 @@ Compassion.
 Surah al-Mulk – Verses 3-4
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِي خَلْقِ
-الرَّحْمَٰنِ مِن تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن
-فُطُورٍ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِي خَلْقِ
+> الرَّحْمَٰنِ مِن تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن
+> فُطُورٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ
-خَاسِئًا وَهُوَ حَسِيرٌ
-  </p>
-</blockquote>
+> ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ
+> خَاسِئًا وَهُوَ حَسِيرٌ
 
 ***3. Who has created the seven heavens one above another and you can
 see no flaw in the Creation of the Most Gracious. Then, behold again:
@@ -312,12 +288,8 @@ them.
 Surah al-Mulk – Verse 5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا
-رُجُومًا لِّلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ
-  </p>
-</blockquote>
+> وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا
+> رُجُومًا لِّلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ
 
 ***5. And indeed We have adorned the heaven of the world with lamps and
 We have made such lamps as means of driving away the devils and have
@@ -398,25 +370,13 @@ All-Mighty.
 Surah al-Mulk – Verses 6-8
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ
-الْمَصِيرُ
-  </p>
-</blockquote>
+> وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ
+> الْمَصِيرُ
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ
-  </p>
-</blockquote>
+> إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ
 
-<blockquote dir="rtl">
-  <p>
-تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ
-سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ
-  </p>
-</blockquote>
+> تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ
+> سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ
 
 ***6. And for those who disbelieve in their Lord is the torment of Hell
 and worst indeed is that abode.***  
@@ -469,25 +429,13 @@ deliberately end up with such dire fate and opt for such evil abode.
 Surah al-Mulk – Verses 9-11
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا
-نَزَّلَ اللَّهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ
-  </p>
-</blockquote>
+> قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا
+> نَزَّلَ اللَّهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ
-السَّعِيرِ
-  </p>
-</blockquote>
+> وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ
+> السَّعِيرِ
 
-<blockquote dir="rtl">
-  <p>
-فَاعْتَرَفُوا بِذَنبِهِمْ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ
-  </p>
-</blockquote>
+> فَاعْتَرَفُوا بِذَنبِهِمْ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ
 
 ***9. They will say: "Yes, indeed a warner came unto us, but we belied
 him and said: 'Allah never sent down anything, you are only in great
@@ -581,25 +529,13 @@ intellect and whoever lacks intellect, lacks faith.[^6]
 Surah al-Mulk – Verses 12-14
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ
-وَأَجْرٌ كَبِيرٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ
+> وَأَجْرٌ كَبِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ
-الصُّدُورِ
-  </p>
-</blockquote>
+> وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ
+> الصُّدُورِ
 
-<blockquote dir="rtl">
-  <p>
-أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
-  </p>
-</blockquote>
+> أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
 
 ***12. Verily, those who fear their Lord inwardly, theirs shall be
 forgiveness and a great Reward.***  
@@ -688,12 +624,8 @@ perceive it.
 Surah al-Mulk – Verse 15
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي
-مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ
-  </p>
-</blockquote>
+> هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي
+> مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ
 
 ***15. He it is the One Who has made the earth subservient to you. So
 proceed on the path thereof and eat of His provision and know that
@@ -764,25 +696,13 @@ and eternal life.
 Surah al-Mulk – Verses 16-18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا
-هِيَ تَمُورُ
-  </p>
-</blockquote>
+> أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا
+> هِيَ تَمُورُ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ
-فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
-  </p>
-</blockquote>
+> أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ
+> فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
-  </p>
-</blockquote>
+> وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
 
 ***16. Do you feel secure about the torments inflicted by Him, Who is
 over the heaven, will not cause the earth to sink with you and then it
@@ -858,12 +778,8 @@ Commands.
 Surah al-Mulk – Verse 19
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ
-مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ
+> مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
 
 ***19. Do they not see the birds above them, spreading out their wings
 and folding them in? None upholds them in the sky except the Most
@@ -907,12 +823,8 @@ of the birds and their flight is to be found above under 16:79.
 Surah al-Mulk – Verse 20
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ هَٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ
-الرَّحْمَٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
-  </p>
-</blockquote>
+> أَمَّنْ هَٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ
+> الرَّحْمَٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
 
 ***20. Who is he besides the Most Gracious that may serve as your host
 against God Almighty? The disbelievers are preoccupied with nothing but
@@ -951,12 +863,8 @@ one of the semantic elements of the same.
 Surah al-Mulk – Verse 21
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَل
-لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ
-  </p>
-</blockquote>
+> أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَل
+> لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ
 
 ***21. Who may provide for you if He should withhold His provision?
 However, they continue to be obdurate in their disobedience and evading
@@ -1007,12 +915,8 @@ inflicted upon the world.
 Surah al-Mulk – Verse 22
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي
-سَوِيًّا عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي
+> سَوِيًّا عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
 
 ***22. Is he who walks prone on his face, more rightly guided or he who
 walks upright on the Straight Path?***
@@ -1052,12 +956,8 @@ Hereafter.
 Surah al-Mulk – Verse 23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ
-وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ
-  </p>
-</blockquote>
+> قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ
+> وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ
 
 ***23. Say it is He Who has created you and endowed you with hearing and
 seeing and hearts, though little thanks you give.***
@@ -1076,11 +976,7 @@ are few who offer their gratitude for such great Bounties.
 Surah al-Mulk – Verse 24
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
-  </p>
-</blockquote>
+> قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
 ***24. Say: "It is He Who has created you on the earth and to Him you
 shall return.***
@@ -1109,25 +1005,13 @@ reference to the Creation of man from the earth.
 Surah al-Mulk – Verses 25-27
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ
-مُّبِينٌ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ
+> مُّبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ
-هَٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ
-  </p>
-</blockquote>
+> فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ
+> هَٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ
 
 ***25. They say: "When will this promise come to pass if you are telling
 the truth?"***  
@@ -1215,19 +1099,11 @@ are imbued with such comparisons.
 Surah al-Mulk – Verses 28-29
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَن مَّعِيَ أَوْ
-رَحِمَنَا فَمَن يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَن مَّعِيَ أَوْ
+> رَحِمَنَا فَمَن يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ
-فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ
+> فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ
 
 ***28. Say: "If Allah destroys me and those with me or He bestows His
 Mercy on us, who can save the disbelievers from an excruciating
@@ -1293,12 +1169,8 @@ provides the believers with Support and Assistance.
 Surah al-Mulk – Verse 30
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم
-بِمَاءٍ مَّعِينٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم
+> بِمَاءٍ مَّعِينٍ
 
 ***30. Say: "Say unto me! If the water of you land were to sink away,
 who then can supply you with flowing water?"***
@@ -1446,5 +1318,4 @@ them at times approximates millions of light years.
 [^15]: Tafsir Abu al-Futuh Razi, vol. 11, p. 219.
 
 [^16]: Tafsir Nur al-Thiqalayn, vol. 5, p. 387.
-
 

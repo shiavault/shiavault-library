@@ -215,4 +215,3 @@ The third problem, after establishing that there is motion, is whether
 gradual change occurs only in accidents, or whether there can also be
 motion, or motions, in substance itself.
 
-

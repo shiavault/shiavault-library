@@ -34,12 +34,8 @@ The virtue of studying this chapter
 In regards to the virtue of studying this chapter, there is a narration
 from the Noble Prophet which states:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَهَا أُعْطِىَ مِنَ الأَجْرِ كَمَنْ صَامَ رَمَضَانَ وَ
-أَحْيَا لَيْلَةَ الْقَدْرِ
-  </p>
-</blockquote>
+> مَنْ قَرَأَهَا أُعْطِىَ مِنَ الأَجْرِ كَمَنْ صَامَ رَمَضَانَ وَ
+> أَحْيَا لَيْلَةَ الْقَدْرِ
 
 He who recites it (Suratul Qadr) will be rewarded like the one who has
 fasted the whole month of Ramadhan and has kept vigil the entire night
@@ -47,13 +43,9 @@ of al-Qadr.[^2]
 
 A narration from Imam Muhammad al-Baqir says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَ إِنَّا أَنْزَلْنَاهُ بِجَهْرِ كَانَ كَشَاهِرِ سَيْفِهِ
-فِي سَبِيلِ اللهِ وَ مَنْ قَرَأَهَا سِرّاً كَانَ كَالْمُتَشَحِّطِ
-بِدَمِهِ فِي سَبِيلِ اللهِ
-  </p>
-</blockquote>
+> مَنْ قَرَأَ إِنَّا أَنْزَلْنَاهُ بِجَهْرِ كَانَ كَشَاهِرِ سَيْفِهِ
+> فِي سَبِيلِ اللهِ وَ مَنْ قَرَأَهَا سِرّاً كَانَ كَالْمُتَشَحِّطِ
+> بِدَمِهِ فِي سَبِيلِ اللهِ
 
 He who recites Indeed We have revealed it (Suratul Qadr) in an audible
 voice is like a person who fights in the way of Allah with his sword
@@ -73,14 +65,10 @@ Commentary of the Verses
 
 In the Name of Allah, the All-Beneficent, the All-Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ۞ وَمَا أَدْرَاكَ مَا
-لَيْلَةُ الْقَدْرِ ۞ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ۞
-تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِّنْ
-كُلِّ أَمْرٍ ۞ سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
-  </p>
-</blockquote>
+> إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ۞ وَمَا أَدْرَاكَ مَا
+> لَيْلَةُ الْقَدْرِ ۞ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ۞
+> تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِّنْ
+> كُلِّ أَمْرٍ ۞ سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
 
 **In The Name of Allah, The Beneficent, The Merciful**
 
@@ -96,11 +84,7 @@ rising of the dawn.”***
 From a review of the verses of the Noble Qur’an, it is clearly evident
 that this book was revealed in the blessed month of Ramadhan:
 
-<blockquote dir="rtl">
-  <p>
-شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ...
-  </p>
-</blockquote>
+> شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ...
 
 Ramadhan is the (month) in which the Qur’an was sent down...[^4]
 
@@ -108,11 +92,7 @@ From the apparent reading of this verse (just mentioned), the entire
 Qur’an was revealed in this month and in the first verse of Suratul Qadr
 we are additionally told:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
 
 ***Surely We sent it (the Qurʾan) down on the Night of al-Qadr.***
 
@@ -248,11 +228,7 @@ that it refers to Gabriel, the trustworthy, who is also called “**رُوحُ
 of **“أَلرُّوحُ**” to mean “**وَحِيٌّ”** or ‘Divine revelation’ and have
 used verse 52 of Suratul Shura to prove this:
 
-<blockquote dir="rtl">
-  <p>
-“وَكَذٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا…”
-  </p>
-</blockquote>
+> “وَكَذٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا…”
 
 ***Thus have We revealed to you the spirit of Our dispensation…*** [^9]
 
@@ -268,13 +244,9 @@ been mentioned in a tradition from Imam Jafar as-Sadiq in which a person
 asked him whether ‘al-Ruh’ was the same as (angel) Gabriel and he
 replied:
 
-<blockquote dir="rtl">
-  <p>
-جِبْرَائِيلُ مِنَ الْمَلآئِكَةِ وَ الرُّوحُ أَعْظَمُ مِنَ
-الْمَلآئِكَةِ. أَلَيْسَ أَنَّ اللهَ عَزَّوَجَلَّ يَقُولُ: تَنَزَّلَ
-الْمَلاَئِكَةُ وَ الرُّوحُ؟
-  </p>
-</blockquote>
+> جِبْرَائِيلُ مِنَ الْمَلآئِكَةِ وَ الرُّوحُ أَعْظَمُ مِنَ
+> الْمَلآئِكَةِ. أَلَيْسَ أَنَّ اللهَ عَزَّوَجَلَّ يَقُولُ: تَنَزَّلَ
+> الْمَلاَئِكَةُ وَ الرُّوحُ؟
 
 Gabriel is one of the angels and al-Ruh (Spirit) is even greater than
 the angels. Has Allah, the Exalted, not said:
@@ -337,11 +309,7 @@ all aspects!
 It is cited in a tradition, that Imam Muhammad al-Baqir was asked if he
 knew which night the Night of Ordainment was and he replied:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ لاَ نَعْرِفُ وَ الْمَلآئِكَةُ تَطُوفُ بِنَا فِيهَا
-  </p>
-</blockquote>
+> كَيْفَ لاَ نَعْرِفُ وَ الْمَلآئِكَةُ تَطُوفُ بِنَا فِيهَا
 
 ***How can we not know it whereas the angels go round us
 therein?***[^12]
@@ -350,19 +318,15 @@ In the story of (prophet) Abraham we find that a few of the angels of
 the Divine came to him and greeted him, and gave him the glad tidings of
 a son:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَاءَتْ رُسُلُنَا إِبْرَاهِيمَ بِالْبُشْرَى قَالُوا سَلاَمًا
-قَالَ سَلاَمٌ فَمَا لَبِثَ أَنْ جَآءَ بِعِجْلٍ حَنِيذٍ ۞ فَلَمَّا
-رَأَى أَيْدِيَهُمْ لاَ تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ
-خِيفَةً قَالُوا لاَ تَخَفْ إِنَّا أُرْسِلْنَا إِلَى قَوْمِ لُوطٍ ۞
-وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ
-وَرَاءِ إِسْحَاقَ يَعْقُوبَ ۞ قَالَتْ يَا وَيْلَتَا أَأَلِدُ وَأَنَا
-عَجُوزٌ وَهٰذَا بَعْلِي شَيْخًا إِنَّ هٰذَا لَشَيْءٌ عَجِيبٌ ۞ قَالُوا
-أَتَعْجَبِينَ مِنْ أَمْرِ اللهِ رَحْمَةُ اللهِ وَبَرَكَاتُهُ
-عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ حَمِيدٌ مَجِيدٌ
-  </p>
-</blockquote>
+> وَلَقَدْ جَاءَتْ رُسُلُنَا إِبْرَاهِيمَ بِالْبُشْرَى قَالُوا سَلاَمًا
+> قَالَ سَلاَمٌ فَمَا لَبِثَ أَنْ جَآءَ بِعِجْلٍ حَنِيذٍ ۞ فَلَمَّا
+> رَأَى أَيْدِيَهُمْ لاَ تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ
+> خِيفَةً قَالُوا لاَ تَخَفْ إِنَّا أُرْسِلْنَا إِلَى قَوْمِ لُوطٍ ۞
+> وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ
+> وَرَاءِ إِسْحَاقَ يَعْقُوبَ ۞ قَالَتْ يَا وَيْلَتَا أَأَلِدُ وَأَنَا
+> عَجُوزٌ وَهٰذَا بَعْلِي شَيْخًا إِنَّ هٰذَا لَشَيْءٌ عَجِيبٌ ۞ قَالُوا
+> أَتَعْجَبِينَ مِنْ أَمْرِ اللهِ رَحْمَةُ اللهِ وَبَرَكَاتُهُ
+> عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ حَمِيدٌ مَجِيدٌ
 
 ***Certainly Our messengers came to Abraham with the good news, and
 said, ‘Peace!’ ‘Peace!’ He replied. Presently he brought [for them] a
@@ -405,12 +369,8 @@ destinies of humanity for the following year are determined; and the
 third and fourth verses of Suratul Dukhan (chapter 44) serve as witness
 to this idea, saying:
 
-<blockquote dir="rtl">
-  <p>
-“فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ. أَمْرًا مِنْ عِنْدِنَا إِنَّا
-كُنَّا مُرْسِلِينَ”
-  </p>
-</blockquote>
+> “فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ. أَمْرًا مِنْ عِنْدِنَا إِنَّا
+> كُنَّا مُرْسِلِينَ”
 
 ***We sent it down during a night: For We (ever) wish to warn (against
 evil). On that (night) is made distinct every affair of wisdom***…
@@ -432,11 +392,7 @@ Ordainment because it is of great importance and honour (beyond
 comprehension), like the case that is stated in Suratul Hajj (22) verse
 74:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا قَدَرُوا اللهَ حَقَّ قَدْرِهِ”
-  </p>
-</blockquote>
+> “وَمَا قَدَرُوا اللهَ حَقَّ قَدْرِهِ”
 
 ***They do not regard Allah with the regard that is due to Him.***
 
@@ -455,12 +411,8 @@ that the expanse of the Earth is restricted and does not have enough
 room for all of them – as one of the meanings of **“التقدير”** is
 ‘restricting’ – just as we see in Suratul Talaq (65), verse 7:
 
-<blockquote dir="rtl">
-  <p>
-“...وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنفِقْ مِمَّا آتَاهُ
-اللهُ...”
-  </p>
-</blockquote>
+> “...وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنفِقْ مِمَّا آتَاهُ
+> اللهُ...”
 
 …***and let he whose provision has been tightened spend out of what
 Allah has given him***…
@@ -476,21 +428,13 @@ Ramadhan since the combination of the verses of the Qur’an attests to
 this very fact. From one angle, we see in Suratul Baqarah (2), verse 185
 that it says:
 
-<blockquote dir="rtl">
-  <p>
-“شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ...”
-  </p>
-</blockquote>
+> “شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ...”
 
 Ramadhan is the (month) in which the Qur’an was sent down ...
 
 and in the chapter under discussion we read:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ “
-  </p>
-</blockquote>
+> “إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ “
 
 ***Surely We sent it (the Qur’an) down on the Night of Ordainment***.
 
@@ -510,11 +454,7 @@ Ordainment is the 21st or 23rd night of the Month of Ramadhan, and when
 a person insisted and asked that if one cannot worship on both of them,
 then which one should he choose and the Imam replied:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَيْسَرَ لَيْلَتَينِ فِيمَا تَطْلُبُ
-  </p>
-</blockquote>
+> مَا أَيْسَرَ لَيْلَتَينِ فِيمَا تَطْلُبُ
 
 ***How easy is it (to spend) two nights for what you seek!***[^15]
 
@@ -524,13 +464,9 @@ night.
 
 Further, a narration from Imam Jafar as-Sadiq also says:
 
-<blockquote dir="rtl">
-  <p>
-أَلتَّقْدِيرُ فِي لَيْلَةِ الْقَدْرِ تِسْعَةُ عَشْرَ وَ الإِبْرَامُ
-فِي لَيْلَةِ إِحَدى وَ عِشْرِينَ وَ الْإِمْضَاءُ فِي لَيْلَةِ ثَلاَثُ
-وَ عِشْرِينَ
-  </p>
-</blockquote>
+> أَلتَّقْدِيرُ فِي لَيْلَةِ الْقَدْرِ تِسْعَةُ عَشْرَ وَ الإِبْرَامُ
+> فِي لَيْلَةِ إِحَدى وَ عِشْرِينَ وَ الْإِمْضَاءُ فِي لَيْلَةِ ثَلاَثُ
+> وَ عِشْرِينَ
 
 Determining the proportions (taqdir) is in the Night of Ordainment - the
 19th night; its confirmation (ibram) is on the 21st night, and its
@@ -577,11 +513,7 @@ it repeats annually until the end of this world. The application of the
 verb **“تَنَزَّلَ**” in the chapter, which is in the future tense and
 indicates an act of continuity and also by using the phrase:
 
-<blockquote dir="rtl">
-  <p>
-“سَلاَمٌ هِیَ حَتَّی مَطْلَعِ الْفَجْرِ”
-  </p>
-</blockquote>
+> “سَلاَمٌ هِیَ حَتَّی مَطْلَعِ الْفَجْرِ”
 
 ***Peace! It is until the rising of the dawn***
 
@@ -599,12 +531,8 @@ Many narrations clearly indicate that this is a Divine blessing endowed
 only to the Muslims and in a tradition, the Noble Prophet is narrated to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ وَحَبَ لِأُمَّتِي لَيْلَةَ الْقَدْرِ لَمْ يُعْطِهَا مَنْ
-كَانَ قَبْلَهُمْ
-  </p>
-</blockquote>
+> إِنَّ اللهَ وَحَبَ لِأُمَّتِي لَيْلَةَ الْقَدْرِ لَمْ يُعْطِهَا مَنْ
+> كَانَ قَبْلَهُمْ
 
 Surely Allah has bestowed on my community the Night of Ordainment which
 He did not give to any of those (peoples) who were before them.[^17]
@@ -706,14 +634,10 @@ Qadr)**[^19]
 
 Muhammad b. Qasim said that Imam Jafar as-Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ أَللَّيْلَةُ فَاطِمَةُ
-وَ الْقَدْرُ اللهُ. فَمَنْ عَرَفَ فَاطِمَةَ حَقَّ مَعْرِفَتِهَا فَقَدْ
-أَدْرَكَ لَيْلَةَ الْقَدْرِ. وَ إِنَّمَا سُمِّيَتْ فَاطِمَةَ لِأَنَّ
-الْخَلْقَ فُطِمُوا عَنْ مَعْرِفَتِهَا.”
-  </p>
-</blockquote>
+> “إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ أَللَّيْلَةُ فَاطِمَةُ
+> وَ الْقَدْرُ اللهُ. فَمَنْ عَرَفَ فَاطِمَةَ حَقَّ مَعْرِفَتِهَا فَقَدْ
+> أَدْرَكَ لَيْلَةَ الْقَدْرِ. وَ إِنَّمَا سُمِّيَتْ فَاطِمَةَ لِأَنَّ
+> الْخَلْقَ فُطِمُوا عَنْ مَعْرِفَتِهَا.”
 
 ***Indeed We revealed it (the Qurʾan) on the Night of Ordainment.***
 
@@ -738,11 +662,7 @@ regards to the Blessed Night (Laylatul Mubaraka) and the ambiguities on
 how both of these are related and refer directly about Fatima Zahra’ are
 resolved:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُباَرَكَةٍ”
-  </p>
-</blockquote>
+> “إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُباَرَكَةٍ”
 
 ***Indeed We have revealed it on the blessed night.***[^21]
 
@@ -794,11 +714,7 @@ woman (Fatima Zahra’ ) being the manifestation of the Divine (His
 titles, traits and essence). The proof of this point and the previous
 points are contained in a part of the tradition which reads:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ عَرَفَ فَاطِمَةَ حَقَّ مَعْرِفَتِهَا...
-  </p>
-</blockquote>
+> فَمَنْ عَرَفَ فَاطِمَةَ حَقَّ مَعْرِفَتِهَا...
 
 Therefore, a person who has truly grasped the deep understanding of her
 (Fatima)…
@@ -964,5 +880,4 @@ appropriate choice of this name for this Lady of Islam, the above
 meaning has also been included.
 
 [^25]: Bihar al-Anwar
-
 

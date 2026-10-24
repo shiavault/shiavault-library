@@ -78,4 +78,3 @@ Thus it will be seen that it was the supreme knowledge and understanding
 that made Prophet Sulaiman succeed his father and become the Great King
 Prophet.
 
-

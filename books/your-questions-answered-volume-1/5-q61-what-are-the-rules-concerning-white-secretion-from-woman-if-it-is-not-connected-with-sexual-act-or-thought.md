@@ -212,4 +212,3 @@ His servant and His messenger.
 O Allah ! Send thy blessings upon Muhammad and his progeny. Peace be
 upon you and the Mercy and Blessings of Allah upon you."
 
-

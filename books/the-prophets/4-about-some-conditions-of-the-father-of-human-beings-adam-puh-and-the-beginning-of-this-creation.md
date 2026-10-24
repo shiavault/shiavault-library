@@ -211,4 +211,3 @@ visited the Holy House for a thousand times on his feet, for seven
 hundreds Hijjas (pilgrimages) and three hundreds 'Omras ('Omrah = A
 visit not in the pilgrimage time)
 
-

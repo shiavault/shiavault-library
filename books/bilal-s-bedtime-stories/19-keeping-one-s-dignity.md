@@ -35,4 +35,3 @@ Saying:
 A fool's mind is at the mercy of his tongue and a wise man's tongue is
 under control of his mind”. - Imam Ali (a)
 
-

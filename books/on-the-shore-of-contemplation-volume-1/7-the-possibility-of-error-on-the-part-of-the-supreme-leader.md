@@ -50,4 +50,3 @@ Governance of Jurisprudence and Justice, pg. 496.
 [^4]: Ayatullah Muhammad Taqi Misbah Yazdi Questions and Answers, vol.
 1, pg. 69.
 
-

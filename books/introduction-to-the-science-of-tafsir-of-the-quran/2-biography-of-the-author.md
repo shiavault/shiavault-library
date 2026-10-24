@@ -112,4 +112,3 @@ Islamic Seminary Publications;
 We pray to Allah (awj) to grant the author of this work the blessings to
 be able to continue on this path.
 
-

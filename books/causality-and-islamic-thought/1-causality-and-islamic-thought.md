@@ -531,4 +531,3 @@ him- or herself. Rigid determinism, as denied by Ibn \`Arabi, does not
 give way to indeterminism: it is replaced rather by an assertion of the
 impossibility of distinguishing between cause and effect.
 
-

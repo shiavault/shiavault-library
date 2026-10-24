@@ -135,7 +135,6 @@ spiritual and eternal leadership over humanity and would bring majesty
 and greatness to Christ. That person is none other than Muhammad
 (P.B.U.H.), the Prophet of Islam.
 
-
 **Chapter 8: What the holy fathers have done**
 
 A youth who is in touch with Christians and constantly reads their
@@ -252,7 +251,6 @@ from gaining any such confidence at all." In conclusion the youth added:
 "O great Lord! Guide the misguided wherever and whoever they are. Show
 them the correct and right path, so that they, too, may find
 salvation."
-
 
 **Chapter 9: Forgiving of Sins & Heaven sold off!?**
 
@@ -402,5 +400,4 @@ Allah is forgiving and merciful." (Holy Qur'an 48:17).
 
 33-History of civilization Vol.18. p 37.
 34-Pages 188 & 34-36; 2nd edition.
-
 

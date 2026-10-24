@@ -11,4 +11,3 @@ such as Saeed bin Jubair and Kumayl bin Ziyad disappeared.
 Al-Hajjaj began looking for the revolutionaries. He managed to execute
 some of them. And some were able to hide from him.
 
-

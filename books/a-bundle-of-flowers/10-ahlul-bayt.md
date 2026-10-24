@@ -61,4 +61,3 @@ of Truth, and restrains his self alongside the way of Allah.
 
 Al-Irshad, vol. 204
 
-

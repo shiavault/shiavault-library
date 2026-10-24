@@ -816,4 +816,3 @@ al‑Buldan, IV, 191; al‑‘Amid, op. cit., 70.
 
 [^83]: Kama’l, 517.
 
-

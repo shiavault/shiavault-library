@@ -1,23 +1,19 @@
 Twentieth Hadith: Pure Intention (Ikhlas)
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلَى الشَّيْخِ الثِقَةِ الجَلِيلِ مُحَمَّدِ
-بْنِ يَعْقُوبَ عَنْ عَلِيِّ بْنِ إبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ
-القَاسِمِ بْنِ مُحَمَّدٍ، عَنِ المِنْقَرِيِّ، عَنْ سُفْيَانَ بْنِ
-عُيَيْنَةَ، عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي قَوْلِ اللهِ
-عَزَّ وَجَلَّ: ﴿لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلاً.﴾ قَالَ:
-لَيْسَ يَعْنِي أَكْثَرُ عَمَلاً وَلَكِنْ أَصْوَبُكُمْ عَمَلاً.
-وَإِنَّمَا الإصَابَةُ خِشْيَةُ اللهِ وَالنِّيَّةُ الصَّادِقَةُ
-وَالحَسَنَةُ. ثُمَّ قَالَ: الإبْقَاءُ عَلَى العَمَلِ حَتَّى يَخْلُصَ
-أَشَدَّ مِنَ العَمَلِ. وَالعَمَلُ الخَالِصُ: الَّذِي لا تُرِيدُ أَنْ
-يَحْمَدَكَ عَلَيْهِ أَحَدٌ إلا اللهُ عَزَّ وَجَلَّ. وَالنِّيَّةُ
-أَفْضَلُ مِنَ العَمَلِ. ألا وَإنَّ النِّيَّةَ هِيَ العَمَلُ. - ثُمَّ
-تَلا قَوْلَهُ عَزَّ وَجَلَّ - ﴿قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ.﴾
-يَعْنِي عَلَى نِيَّتِهِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلَى الشَّيْخِ الثِقَةِ الجَلِيلِ مُحَمَّدِ
+> بْنِ يَعْقُوبَ عَنْ عَلِيِّ بْنِ إبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ
+> القَاسِمِ بْنِ مُحَمَّدٍ، عَنِ المِنْقَرِيِّ، عَنْ سُفْيَانَ بْنِ
+> عُيَيْنَةَ، عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي قَوْلِ اللهِ
+> عَزَّ وَجَلَّ: ﴿لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلاً.﴾ قَالَ:
+> لَيْسَ يَعْنِي أَكْثَرُ عَمَلاً وَلَكِنْ أَصْوَبُكُمْ عَمَلاً.
+> وَإِنَّمَا الإصَابَةُ خِشْيَةُ اللهِ وَالنِّيَّةُ الصَّادِقَةُ
+> وَالحَسَنَةُ. ثُمَّ قَالَ: الإبْقَاءُ عَلَى العَمَلِ حَتَّى يَخْلُصَ
+> أَشَدَّ مِنَ العَمَلِ. وَالعَمَلُ الخَالِصُ: الَّذِي لا تُرِيدُ أَنْ
+> يَحْمَدَكَ عَلَيْهِ أَحَدٌ إلا اللهُ عَزَّ وَجَلَّ. وَالنِّيَّةُ
+> أَفْضَلُ مِنَ العَمَلِ. ألا وَإنَّ النِّيَّةَ هِيَ العَمَلُ. - ثُمَّ
+> تَلا قَوْلَهُ عَزَّ وَجَلَّ - ﴿قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ.﴾
+> يَعْنِي عَلَى نِيَّتِهِ.
 
 With my isnad reaching back to the venerable and trustworthy shaykh
 Muhammad ibn Ya’qub al-Kulayni (Q) from Ali ibn Ibrahim, from his
@@ -41,12 +37,8 @@ Exposition
 *Bala*’ (mentioned in verse 67: 2) means ‘test’ and ‘examination’ as
 pointed out by *al-Sihah*:
 
-<blockquote dir="rtl">
-  <p>
-بَلَوْتُهُ بَلْواً: جَرَّبتُهُ واختَبَرتُه، وبَلاه اللهُ بلاءً
-وأبْلاهُ إبْلاءً حسناً وابْتَلاهُ أي اختَبَرَهُ.
-  </p>
-</blockquote>
+> بَلَوْتُهُ بَلْواً: جَرَّبتُهُ واختَبَرتُه، وبَلاه اللهُ بلاءً
+> وأبْلاهُ إبْلاءً حسناً وابْتَلاهُ أي اختَبَرَهُ.
 
 ‘Balawtuhu balwan’ means ‘I tested him’, ‘I examined him’, and ‘balahu
 Allah bala’an’, or ‘ablahu ibla’an hasanan’ or ibtaluhu means ‘He (God)
@@ -74,21 +66,13 @@ in the *Asrar al-salat* of al-Shahid al-Thani (M) وَالنِّيَّةُ
 *Ibqa’ ‘ala al-’amal* means observance of action and exercising care
 over it, as pointed out by al-Jawhari, who says:
 
-<blockquote dir="rtl">
-  <p>
-أبقَيتُ على فُلانٍ إذا أرْعَيتُ علَيهِ ورَحِمْتُه.
-  </p>
-</blockquote>
+> أبقَيتُ على فُلانٍ إذا أرْعَيتُ علَيهِ ورَحِمْتُه.
 
 *Shakilah* has (also) the sense of *tariqah* (way), *shakl* (shape), and
 *nahiyah* (region), as mentioned in *al-Qamus* and *al-Sihah*.
 *Al-Qamus* states:
 
-<blockquote dir="rtl">
-  <p>
-الشّاكِلةُ: الشَّكلُ والنّاحِيةُ والنّيَّة والطَّريقَةُ.
-  </p>
-</blockquote>
+> الشّاكِلةُ: الشَّكلُ والنّاحِيةُ والنّيَّة والطَّريقَةُ.
 
 We will, God willing, explain that which needs explanation in this noble
 *hadith* in course of a few sections.
@@ -99,13 +83,9 @@ The Meaning Of ‘Test’ In Relation To God
 The clause, “That He might try you...” (quoted in the tradition) refers
 to the utterance of God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ. الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ
-أَيُّكُمْ أَحْسَنُ عَمَلًا.﴾
-  </p>
-</blockquote>
+> ﴿تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ. الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ
+> أَيُّكُمْ أَحْسَنُ عَمَلًا.﴾
 
 ***Blessed is He in Whose hand is the Kingdom and Who is powerful over
 everything, Who created death and life, that He might try you which of
@@ -231,11 +211,7 @@ effectiveness has also a role in the rightness of action. Largely, this
 is also the criterion of relative merit in acts and the famous following
 tradition also refers to this point:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ الأَعْمَالِ أَحْمَزُهَا.
-  </p>
-</blockquote>
+> أَفْضَلُ الأَعْمَالِ أَحْمَزُهَا.
 
 The best of deeds are those which are the most difficult.[^2]
 
@@ -255,11 +231,7 @@ This is because *taqwa,* besides being one of the reforming agents of
 the soul, also affects the influence of inward and outward human actions
 and is the cause of their acceptability, as declared by God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنْ الْمُتَّقِينَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنْ الْمُتَّقِينَ.﴾
 
 ***Verily God accepts only from the God-fearing.*** (***5:27***)
 
@@ -343,15 +315,11 @@ worship is not sincere. The heart must be vacated of every other thing
 and there should be nothing in it except God in order for worship to be
 sincere, as mentioned in a noble tradition of *al-Kafi*
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: سَأَلْتُهُ عَنْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿إلا مَنْ أَتَى
-اللهَ بِقَلْبٍ سَلِيمٍ.﴾ قَالَ: القَلْبُ السَّلِيمُ الَّذِي يَلْقَى
-رَبَّهُ وَلَيْسَ فِيهِ أَحَدٌ سِوَاهُ. وَكُلُّ قَلْبٍ فِيهِ شِرْكٌ
-أَوْ شَكٌّ فَهُوَ سَاقِطٌ. وَإنَّمَا أَرَادُوا الزُّهْدَ فِي
-الدُّنْيَا لِتَفْرَغَ قُلُوبُهُمْ لِلآخِرَةِ.
-  </p>
-</blockquote>
+> قَالَ: سَأَلْتُهُ عَنْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿إلا مَنْ أَتَى
+> اللهَ بِقَلْبٍ سَلِيمٍ.﴾ قَالَ: القَلْبُ السَّلِيمُ الَّذِي يَلْقَى
+> رَبَّهُ وَلَيْسَ فِيهِ أَحَدٌ سِوَاهُ. وَكُلُّ قَلْبٍ فِيهِ شِرْكٌ
+> أَوْ شَكٌّ فَهُوَ سَاقِطٌ. وَإنَّمَا أَرَادُوا الزُّهْدَ فِي
+> الدُّنْيَا لِتَفْرَغَ قُلُوبُهُمْ لِلآخِرَةِ.
 
 Sufyan ibn ‘Uyaynah (the narrator of the earlier tradition) says, “I
 asked Imam al-Sadiq (A) about the utterance of God, the Exalted and the
@@ -415,11 +383,7 @@ You should know that various definitions have been suggested for
 mystic path we shall briefly refer here. The honorable ‘*arif*’ and the
 wise wayfarer, Khwajah ‘Abd Allah al-’Ansari, *quddisa sirruh,* says:
 
-<blockquote dir="rtl">
-  <p>
-الإخْلاصُ تَصْفِيَةُ العَمَلِ مِنْ كُلِّ شَوْبٍ.
-  </p>
-</blockquote>
+> الإخْلاصُ تَصْفِيَةُ العَمَلِ مِنْ كُلِّ شَوْبٍ.
 
 Ikhlas means purging action of all impurities.
 
@@ -428,22 +392,14 @@ which arises from the desire to please oneself and other creatures. It
 is narrated from the great Shaykh Baha’i that the people of the heart
 have offered various definitions for it:
 
-<blockquote dir="rtl">
-  <p>
-قِيلَ: تَنْزيهُ العَملِ أنْ يكونَ لِغَير اللهِ فيهِ نَصيبٌ.
-  </p>
-</blockquote>
+> قِيلَ: تَنْزيهُ العَملِ أنْ يكونَ لِغَير اللهِ فيهِ نَصيبٌ.
 
 It has been said, “(Ikhlas means) keeping action free from
 other-than-God having a role in it.”
 
 This definition is close to the former one.
 
-<blockquote dir="rtl">
-  <p>
-وقيلَ: أنْ لا يُريدَ عاملُهُ عليهِ عِوَضاً في الدَّارَينِ.
-  </p>
-</blockquote>
+> وقيلَ: أنْ لا يُريدَ عاملُهُ عليهِ عِوَضاً في الدَّارَينِ.
 
 And it has been said, “(Ikhlas means) that the performer of an action
 should not desire any reward for it in the world and the Hereafter.”
@@ -462,11 +418,7 @@ of the Lord. This is the *Din* that God Almighty has chosen for Himself
 and cleared it from the taint of association with other-than-God, and He
 has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلَا لِلَّهِ الدِّينُ الْخَالِصُ.﴾
-  </p>
-</blockquote>
+> ﴿أَلَا لِلَّهِ الدِّينُ الْخَالِصُ.﴾
 
 ***Lo, to God belongs sincere allegiance —al-din al-khalis—.*** (39:3)
 
@@ -478,14 +430,10 @@ should purify their souls from others and make them turn exclusively
 towards Him. And it has been narrated from al-Shaykh al-Muhaqqiq Muhyi
 al-*Din* al-’Arabi that he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلا للهِ الدّينُ الخالِصُ عَن شَوْبِ الغَيرِيَّةِ وَالأَنانِيَّةِ،
-لأنَّكَ لِفَنائِكَ فيهِ بالكُلِّيَّةِ فَلا ذاتَ لَكَ وَلا صِفَةَ وَلا
-فِعلَ وَلا دينَ وَإلا لمَا خَلُصَ الدّينُ بِالحَقيقةِ فَلا يَكونُ
-للهِ.
-  </p>
-</blockquote>
+> أَلا للهِ الدّينُ الخالِصُ عَن شَوْبِ الغَيرِيَّةِ وَالأَنانِيَّةِ،
+> لأنَّكَ لِفَنائِكَ فيهِ بالكُلِّيَّةِ فَلا ذاتَ لَكَ وَلا صِفَةَ وَلا
+> فِعلَ وَلا دينَ وَإلا لمَا خَلُصَ الدّينُ بِالحَقيقةِ فَلا يَكونُ
+> للهِ.
 
 ‘Lo, to God belongs sincere allegiance,’ free from the taints of
 otherness and egoism. And that your extinction in Him should be total,
@@ -515,11 +463,7 @@ Ikhlas Is Subsequent To Action
 
 You should know that that which is said in the noble tradition, that
 
-<blockquote dir="rtl">
-  <p>
-الإبْقَاءُ عَلى العَمَلِ حَتَّى يَخْلُصَ أَشَدُّ مِنَ العَمَلِ.
-  </p>
-</blockquote>
+> الإبْقَاءُ عَلى العَمَلِ حَتَّى يَخْلُصَ أَشَدُّ مِنَ العَمَلِ.
 
 To persevere in an action until it becomes sincere is more difficult
 than the action itself,
@@ -531,16 +475,12 @@ any shortcoming and performs it without *riya’* or ‘*ujb*; but after the
 action he becomes afflicted with *riya’* through mentioning it, as
 pointed out in the following noble *hadith* of al-Kari:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أبي جَعْفَرٍ عَلَيْهِ السَّلامُ أنَّهُ قَالَ: الإبْقَاءُ عَلَى
-العَمَلِ أَشَدُّ مِنَ العَمَلِ. قَالَ: وَمَا الإبْقَاءُ عَلَى
-العَمَلِ؟ قَالَ: يَصِلُ الرَّجُلُ بِصِلَةٍ وَيُنْفِقُ نَفَقَةً للهِ
-وَحْدَهُ لا شَرِيكَ لَهُ فَتُكْتَبُ لَهُ سِرّاً ثُمَّ يَذْكُرُهَا
-فَتُمْحَى فَتُكْتَبُ لَهُ عَلانِيَةً، ثُمَّ يَذْكُرُهَا فَتُمْحَى
-وَتُكْتَبُ لَهُ رِياءً.
-  </p>
-</blockquote>
+> عَنْ أبي جَعْفَرٍ عَلَيْهِ السَّلامُ أنَّهُ قَالَ: الإبْقَاءُ عَلَى
+> العَمَلِ أَشَدُّ مِنَ العَمَلِ. قَالَ: وَمَا الإبْقَاءُ عَلَى
+> العَمَلِ؟ قَالَ: يَصِلُ الرَّجُلُ بِصِلَةٍ وَيُنْفِقُ نَفَقَةً للهِ
+> وَحْدَهُ لا شَرِيكَ لَهُ فَتُكْتَبُ لَهُ سِرّاً ثُمَّ يَذْكُرُهَا
+> فَتُمْحَى فَتُكْتَبُ لَهُ عَلانِيَةً، ثُمَّ يَذْكُرُهَا فَتُمْحَى
+> وَتُكْتَبُ لَهُ رِياءً.
 
 Imam al-Baqir (A) said, “Perseverance in an action is more difficult
 than the act itself.” He was asked, “What is meant by perseverance in
@@ -570,11 +510,7 @@ of neglect may give it the opportunity to break its reins and lead man
 into ignominy and perdition. Hence, in all conditions he must take
 refuge in God Almighty from the evil of Satan and the carnal self:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي.﴾
 
 ***Surely the self of man incites to evil - except in as much as my Lord
 had mercy.*** (***12:53***)
@@ -613,12 +549,8 @@ and perfection of intentions, for intention is the efficient and
 *malakuti* form of action, as hinted above. The noble tradition also
 refers to this point where it says:
 
-<blockquote dir="rtl">
-  <p>
-وَالنِّيَّةُ أَفْضَلُ مِنَ العَمَلِ. ألا وَإنَّ النِّيَّةَ هِيَ
-العَمَلُ.
-  </p>
-</blockquote>
+> وَالنِّيَّةُ أَفْضَلُ مِنَ العَمَلِ. ألا وَإنَّ النِّيَّةَ هِيَ
+> العَمَلُ.
 
 And intention is superior to action, or, rather, intention is the
 complete reality of act itself.
@@ -683,11 +615,7 @@ spirit and the formal, *malakuti* aspect of each is superior to its
 material, *mulki* aspect. And this is the meaning of the famous
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-نِيَّةُ المَرْءِ خَيْرٌ مِنْ عَمَلِهِ.
-  </p>
-</blockquote>
+> نِيَّةُ المَرْءِ خَيْرٌ مِنْ عَمَلِهِ.
 
 The intention of the man of faith is better than his act.[^6]
 
@@ -695,11 +623,7 @@ Secondly, that which the Imam (A) says is in view of the dissolution of
 action in intention, of the *mulk* in the *malakut,* and manifestation
 (*mazhar*) in the manifest (*zahir*)*.* Hence he (A) states:
 
-<blockquote dir="rtl">
-  <p>
-ألا وَإنَّ النِّيَّةَ هِيَ العَمَلُ.
-  </p>
-</blockquote>
+> ألا وَإنَّ النِّيَّةَ هِيَ العَمَلُ.
 
 Lo, verily intention is act itself.
 
@@ -707,11 +631,7 @@ Apart from intention, there is nothing that is involved and the totality
 of act is merged in intention; action has no independent reality of its
 own. Thereafter, he (A) cites the utterance of God Almighty as witness:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ.﴾
 
 ***Say: ‘Everyone acts according to his character’***
 (***shakilatihi***) (***17:84***)
@@ -747,12 +667,8 @@ is abandonment of self-love and crushing the head of egoism under one’s
 foot. And there are some who say that one of the meanings of the noble
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ
-ثُمَّ يُدْرِكْهُ الْمَوْتُ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ
+> ثُمَّ يُدْرِكْهُ الْمَوْتُ.﴾
 
 ***Whoso goes forth from his house an emigrant to God and His Messenger,
 and then death overtakes him, his wage will have fallen on God.***
@@ -765,12 +681,8 @@ And it is obvious that such a wayfarer deserves no reward except the
 vision (*mushahadah*) of that Sacred Essence and entry into His court.
 These words express their sentiments:
 
-<blockquote dir="rtl">
-  <p>
-در ضميرما نمي گنجد غير دوست كس  
- هر دو عالم را به دشمن ده كه ما را دوست بس
-  </p>
-</blockquote>
+> در ضميرما نمي گنجد غير دوست كس
+>  هر دو عالم را به دشمن ده كه ما را دوست بس
 
 *None except the Beloved has a place in our heart, Give both the worlds
 to the enemy, for the Beloved suffices us.*
@@ -790,5 +702,4 @@ hadith No. 16.
 
 [^6]: Al -Kulayni at-Kafi, kitab al-’iman wa al-kufr, bab al-niyyah,
 hadith No.2.
-
 

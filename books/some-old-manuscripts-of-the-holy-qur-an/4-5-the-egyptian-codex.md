@@ -43,7 +43,6 @@ However, a considerable part of it was burnt and only one volume
 remained, and that too without the marginal notes since all the margins
 along with a part of the text were destroyed in the fire." 43
 
-
 **7. The Codex at al-'Imam al-Rida's Shrine**
 
 Apart from the Qur'an kept on the sarcophagus (dari') at the tomb of
@@ -79,5 +78,4 @@ authority and bestow his kindness, justice and goodness upon mankind.
 Amin Rabb al-'Alamin. Written by the dust of the Shrine of al-Rida -
 peace be upon him - the humblest of creatures, Baha' al-Din Muhammad in
 the year 1009.
-
 

@@ -118,4 +118,3 @@ prayer of Tawaf and Sa’y of Safa and Marwah.
 
 3- Spouse becomes Halaal after performing Tawaf of Nisa’ and its prayer.
 
-

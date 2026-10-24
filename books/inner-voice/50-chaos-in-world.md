@@ -35,4 +35,3 @@ to taste the fruit of some of our deeds. This chaos is not going to be
 removed unless we change our behavior, unless we abide fully with the
 code of conduct sent by God for us through his Prophet.
 
-

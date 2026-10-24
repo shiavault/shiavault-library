@@ -521,4 +521,3 @@ chapter about “What if there is no Jamā\`a?”
 [^15]: Ibn Mājah, Sunan, Vol. 2, ahādīth No. 4082 and 4087. Al-Tabari,
 Tārīkh.
 
-

@@ -174,7 +174,6 @@ courageously defend their rights.
 
 115
 
-
 **Fight: Why & Against Whom ?**
 
 There are three subjects pointed out in this verse. They make manifest
@@ -216,7 +215,6 @@ from your side against them. ..." (1)
 The basis of this meaning is that fighting in Islam is for the sake of
 Allah and in the path of Allah, where there should not be any
 transgression and aggression.
-
 
 --------------------------------------------------------------------------------
 
@@ -444,5 +442,4 @@ enemies, and since Mecca was a rather far distance from Medina, he
 succeeded to do it with tranquility and peace of mind, and the
 revolutionary Muslim troops could prepare themselves for fight and
 defense against enemies.
-
 

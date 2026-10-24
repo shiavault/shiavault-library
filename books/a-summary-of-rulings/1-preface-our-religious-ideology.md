@@ -183,4 +183,3 @@ which are intensely needed and (the laws which man) mostly encounters.
 We ask Allah, Glorified be He, for guidance and success in acting in
 accordance with it.
 
-

@@ -55,4 +55,3 @@ Haroun said, “I am crazier than you because you stopped me three times,
 but I did not listen to you. By following this woman, I suffered this
 loss.”
 
-

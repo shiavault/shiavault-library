@@ -128,4 +128,3 @@ of janabah.   This, as you may recall,  was discussed in detail in the
 able to perform prayer.  This, I will explain to you in the (Dialogue on
 Ghusl).
 
-

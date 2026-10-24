@@ -167,7 +167,6 @@ Therefore we must endeavour to get it so as to reach the stage of
 Rizwanu minallahi Akbar the greatest achievement is the pleasure of Only
 One God.
 
-
 **Lesson: 54 : Extravagance and squandering**
 
 Islam has strongly censured extravagance and squandering. Here are some
@@ -445,5 +444,4 @@ with you, say not to them so much as Ugh nor chide them, and speak to
 them a generous word. And make yourself submissively gentle to them with
 compassion, and say: O my Lord! have compassion on them, as they brought
 me up when I was little.
-
 

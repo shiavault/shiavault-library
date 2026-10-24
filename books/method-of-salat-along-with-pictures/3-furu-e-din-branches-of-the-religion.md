@@ -83,4 +83,3 @@ Staying away from and disassociating with those people who are the
 enemies of Allah (SWT), the Prophet, the Imams and Fatimah az-Zahra
 (Peace be upon all of them).
 
-

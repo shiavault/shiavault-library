@@ -139,4 +139,3 @@ Qur’an?
 documentation show?  
   
 
-

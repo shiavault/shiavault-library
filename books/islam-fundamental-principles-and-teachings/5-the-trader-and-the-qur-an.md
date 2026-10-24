@@ -512,7 +512,6 @@ instructions during his lifetime. The prophet Muhammad, on specific
 instructions from the Almighty, appointed Ali ibn Abu Talib as his
 immediate successor to lead the Ommah after the prophet. Translator.
 
-
 and conveying the Message of Allah . . . and this is the best model and
 example Muslim women could possibly follow. Lady Fatimah (A) divided the
 duties of their married life with Imam Ali (A). Her responsibility was
@@ -582,5 +581,4 @@ help. Almighty Allah revealed an entire Surah, Mankind (76) in this
 regard praising their conduct. Verse eight of the Surah reads: .And they
 feed, for the love of Allah, the indigent, the orphan, and the
 captive..
-
 

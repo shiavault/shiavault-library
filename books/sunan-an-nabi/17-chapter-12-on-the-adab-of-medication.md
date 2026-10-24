@@ -143,4 +143,3 @@ increase blood supply to an area of the body. (Tr.)
 
 [^20]: Ibid.
 
-

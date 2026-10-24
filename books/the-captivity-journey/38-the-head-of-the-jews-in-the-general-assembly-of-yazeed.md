@@ -25,4 +25,3 @@ had left us one of his grandchildren, I believe we might have worshiped
 him instead of God, and you, your Prophet had just died, so you attacked
 his grandson and killed him, what a bad nation you are…"
 
-

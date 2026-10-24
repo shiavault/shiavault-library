@@ -51,4 +51,3 @@ Islam, Fatima bint Asad was the second Muslim lady, and the second
 greatest benefactress of Islam. May God be pleased with His slaves,
 Khadija and Fatima bint Asad, and may He bless them.
 
-

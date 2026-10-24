@@ -18,7 +18,6 @@ The verse says:
 
 " They say: 'When will this promise be, if you are truthful ?"
 
-
 **Commentary : Verse 49**
 
 (49) قُلْ لا أَمْلِكُ لِنَفْسي‏ ضَرًّا وَ لا نَفْعاً إِلاَّ ما شاءَ
@@ -66,7 +65,6 @@ In fact, the Qur'an warns the polytheists not to hasten and jump unduly
 to conclusions. When the timing of their death comes no delays or
 advances will happen.
 
-
 **Commentary : Verse 50**
 
 (50) قُلْ أَ رَأَيْتُمْ إِنْ أَتاكُمْ عَذابُهُ بَياتاً أَوْ نَهاراً ما
@@ -94,7 +92,6 @@ Upon this meaning, Sura An- Naml, No. 72, verse 17 says:
 "And they say: 'when will this threat come to pass, if you are truthful
 ?"
 
-
 **Commentary : Verse 51**
 
 (51) أَ ثُمَّ إِذا ما وَقَعَ آمَنْتُمْ بِهِ آلْآنَ وَ قَدْ كُنْتُمْ
@@ -116,7 +113,6 @@ The verse says:
 
 " Is it when it(the punishment)comes to pass, you will believe in it ?
 Ah! Now ? And you wanted(aforetime)to hasten it on ? "
-
 
 **Commentary : Verse 52**
 
@@ -150,7 +146,6 @@ The reason why the term "taste" has been employed in connection with
 suffering punishment is that this sense has a stronger effect on man
 than the other senses.
 
-
 **Commentary : Verse 53**
 
 (53) وَ يَسْتَنْبِئُونَكَ أَ حَقٌّ هُوَ قُلْ إي وَ رَبِّي إِنَّهُ
@@ -183,5 +178,4 @@ make Him unable to act. The verse continues saying:
 
 "... Say: 'You! by my Lord! Verily it is the truth; and you cannot
 frustrate(Him)'. "
-
 

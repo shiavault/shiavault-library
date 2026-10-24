@@ -96,7 +96,6 @@ their kinsfolk." (58:22)
 But the Jews who professed to believe in God and the Hereafter were
 foremost in making alliances with the polytheists against the Muslims.
 
-
 **(10) Seeking Pretexts:**
 
 When man gets overpowered with the influx of passions and loses the
@@ -113,5 +112,4 @@ words:
 "And certainly you have known those among you who exceeded the limits
 of the Sabbath. We said to them: Be as apes despised and hated."
 (2:65)
-
 

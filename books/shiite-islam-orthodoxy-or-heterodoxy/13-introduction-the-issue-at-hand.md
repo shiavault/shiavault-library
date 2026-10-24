@@ -324,4 +324,3 @@ Dāwūd, and Layth ibn Sa'd, among others.
 [^14]: Editor's Note: The author is alluding to Descartes' statement: “I
 will not argue with you unless you define your terms.”
 
-

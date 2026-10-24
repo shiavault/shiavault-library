@@ -1,13 +1,9 @@
 Part 8
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
-فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى
-مَا فَعَلْتُمْ نَادِمِينَ. وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
+> فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى
+> مَا فَعَلْتُمْ نَادِمِينَ. وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ﴾
 
 ***“O you who believe! If an evildoer comes to you with a report, look
 carefully into it, lest you harm a people in ignorance, then be sorry
@@ -134,12 +130,8 @@ You are obedient not commanders
 
 The following verse of Qur’an says so. It addresses the people:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ لَوْ يُطِيعُكُمْ فِي
-كَثِيرٍ مِنْ الْأَمْرِ لَعَنِتُّمْ﴾
-  </p>
-</blockquote>
+> ﴿وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ لَوْ يُطِيعُكُمْ فِي
+> كَثِيرٍ مِنْ الْأَمْرِ لَعَنِتُّمْ﴾
 
 ***“And know that among you is Allah’s Apostle; should he obey you in
 many a matter, you would surely fall into distress… (49:7)”***
@@ -169,12 +161,8 @@ God sent faith for you
 
 God has favored some of you:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمْ الْإِيمَانَ وَزَيَّنَهُ فِي
-قُلُوبِكُمْ﴾
-  </p>
-</blockquote>
+> ﴿وَلَكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمْ الْإِيمَانَ وَزَيَّنَهُ فِي
+> قُلُوبِكُمْ﴾
 
 ***“…but Allah has endeared the faith to you and has made it seemly in
 your hearts… (49:7)”***
@@ -182,21 +170,13 @@ your hearts… (49:7)”***
 The address is to “you”, but what is meant is “some of you” as
 understood from the last part of this Holy verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿أُوْلَئِكَ هُمْ الرَّاشِدُونَ﴾
-  </p>
-</blockquote>
+> ﴿أُوْلَئِكَ هُمْ الرَّاشِدُونَ﴾
 
 ***“…these it is that are the followers of a right way... (49:7)”***
 
 This is also accompanied with additional qualities:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience…”***
@@ -255,11 +235,7 @@ Sins are bitter to the Faithful
 Pay full attention to this Holy verse. What points does Almighty Allah
 present in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience… (49:7)”***
@@ -306,11 +282,7 @@ that sin should become detestable to me so that I may not it; that He
 wanted to make faith increase in my heart etc. The reply to this doubt
 is in the last phrase of this Holy verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَضْلاً مِنْ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿فَضْلاً مِنْ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾
 
 ***“By grace from Allah and as a favor; and Allah is Knowing, Wise.
 (49:8)”***
@@ -353,12 +325,8 @@ must be sought from God. O God! Give light to my heart with which I may
 realize the evil of a sin. Grant me a taste, which makes me realize the
 bitterness of sin. This is called “evidence of the Lord”.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَقَدْ هَمَّتْ بِهِ؛ وَهَمَّ بِهَا لَوْلا أَنْ رَأَى بُرْهَانَ
-رَبِّهِ﴾
-  </p>
-</blockquote>
+> ﴿وَلَقَدْ هَمَّتْ بِهِ؛ وَهَمَّ بِهَا لَوْلا أَنْ رَأَى بُرْهَانَ
+> رَبِّهِ﴾
 
 ***“And certainly she made for him, and he would have made for her, were
 it not that he had seen the manifest evidence of his Lord…”***[^3]
@@ -367,11 +335,7 @@ It cannot be achieved without demand in earnest and qualification. Thus
 there is no force. It is not granted without the labor and request of
 man himself.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَأَنْ لَيْسَ لِلْإِنسَانِ إِلاّ مَا سَعَى﴾
-  </p>
-</blockquote>
+> ﴿وَأَنْ لَيْسَ لِلْإِنسَانِ إِلاّ مَا سَعَى﴾
 
 ***“And that man shall have nothing but what he strives for;”***[^4]
 
@@ -379,11 +343,7 @@ Seek earnestly and sincerely and then see how God deals with you. It is
 likely that even in the most difficult situations, God helps you in such
 a way that the divine help astonishes you.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience…”***
@@ -423,11 +383,7 @@ abhorrence in the heart of a faithful lady is a great favor of God. She
 shivers due to sinning. A sin is really detestable and extremely bad in
 her eyes.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience… (49:7)”***
@@ -571,11 +527,7 @@ I showed disrespect for a long time. Now I have awakened from my sleep.
  Sins have disfigured my heart. O Lord! Now grant me repentance. O my
 God! From this day, make sins feel bitter to me forever.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
-  </p>
-</blockquote>
+> ﴿وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ﴾
 
 ***“…and He has made hateful to you unbelief and transgression and
 disobedience… (49:7)”***
@@ -598,5 +550,4 @@ hateful to my nature.
 [^4]: Surah Najm 53:39
 
 [^5]: Biharul Anwar, vol. 11; Account of Imam Sajjad
-
 

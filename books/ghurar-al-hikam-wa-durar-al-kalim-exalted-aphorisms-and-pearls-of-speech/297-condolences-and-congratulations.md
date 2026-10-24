@@ -9,11 +9,6 @@ reward great [for your patience] in that which He took away, and may His
 blessings be with you in that which He has bestowed [upon you].
 
 > 1ـ وَ عَزّى ـ عَليه السّلامُ ـ رَجُلاً ماتَ لَهُ وَلَدٌ وَ رُزِقَ لَهُ
-<blockquote dir="rtl">
-  <p>
-وَلَدٌ فقالَ: عَظَّمَ اللّهُ أجْرَكَ فيما أبادَ، وَبارَكَ لَكَ فيما
-أفادَ.
-  </p>
-</blockquote>
-
+> وَلَدٌ فقالَ: عَظَّمَ اللّهُ أجْرَكَ فيما أبادَ، وَبارَكَ لَكَ فيما
+> أفادَ.
 

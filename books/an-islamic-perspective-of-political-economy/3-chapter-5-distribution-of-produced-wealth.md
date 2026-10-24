@@ -247,4 +247,3 @@ individual goal to a social means to achieve a higher moral goal.
 [^23]. Iqtisaduna, 536-537.
 [^24]. Iqtisaduna, 568.
 
-

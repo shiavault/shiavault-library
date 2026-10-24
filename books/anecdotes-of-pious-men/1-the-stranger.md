@@ -33,7 +33,6 @@ She opened the door. Entering the house he
 
 said:
 
-
 "I wish to do some good acts. Either let me knead the flour and bake
 the bread or allow me to look after the children."
 
@@ -60,7 +59,6 @@ I beg your pardon:" "No, I beg your pardon for I failed in my duty
 towards you."
 
 7
-
 
 **Jowaiber and Zalfa**
 
@@ -226,5 +224,4 @@ Islam.
 
 After his martyrdom, Zalfa was the most saught after woman for a wife
 and people were eager to pay the greatest Mahr for her.
-
 

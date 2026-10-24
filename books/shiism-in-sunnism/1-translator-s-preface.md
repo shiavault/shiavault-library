@@ -3,12 +3,8 @@ Translator’s Preface
 
 In the Name of Most Exalted
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمْ الْإِسْلَامَ دِينًا.
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمْ الْإِسْلَامَ دِينًا.
 
 ***“This day have I perfected for you your religion and completed My
 favor on you and chosen for you Islam as a religion.”***
@@ -40,5 +36,4 @@ property will not avail, nor sons.***”[^3]
 [^2]: Holy Qur’an, Isra’ (17), verse 71.
 
 [^3]: Holy Qur’an, Shu’ara’ (26), verse 88.
-
 

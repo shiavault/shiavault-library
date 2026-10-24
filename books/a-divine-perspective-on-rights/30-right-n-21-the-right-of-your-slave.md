@@ -1,25 +1,17 @@
 Right n. 21: The Right of your Slave
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق الرعية بملك اليمين
-  </p>
-</blockquote>
+> حق الرعية بملك اليمين
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا حَقُّ رَعِيَّتِكَ بمِلْكِ اليَمِينِ فَأَنْ تَعْلَمَ أنَهُ
-خَلْقُ رَبكَ، وَلَحْمُكَ وَدَمُكَ وَأَنَّكَ تَمْلِكُهُ لا أنْتَ
-صَنَعْتَهُ دُونَ اللَّهِ وَلا خَلَقْتَ لَهُ سَمْعًا وَلا بَصَرًا وَلا
-أَجْرَيتَ لَهُ رِزْقًا وَلَكِنَّ اللَّهَ كَفَاكَ ذَلِكَ، ثُمَّ
-سَخَّرَهُ لَكَ وَائْتَمَنَكَ عَلَيْهِ وَاسْتَوْدَعَكَ إيَّاهُ
-لِتَحْفَظَهُ فِيهِ وتَسِيرَ فِيهِ بسِيرَتِهِ فَتُطْعِمَهُ مِمَّا
-تَأْكُلُ وَتُلْبسَهُ مِمَّا تَلْبَسُ وَلا تُكَلِّفَهُ مَا لا يُطِيقُ،
-فَإنْ كَرِهْتَ[هُ] خَرَجْتَ إلَى اللَّهِ مِنْهُ وَاسْتَبْدَلْتَ بهِ
-وَلَمْ تُعَذِّبْ خَلْقَ اللَّهِ وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمَّا حَقُّ رَعِيَّتِكَ بمِلْكِ اليَمِينِ فَأَنْ تَعْلَمَ أنَهُ
+> خَلْقُ رَبكَ، وَلَحْمُكَ وَدَمُكَ وَأَنَّكَ تَمْلِكُهُ لا أنْتَ
+> صَنَعْتَهُ دُونَ اللَّهِ وَلا خَلَقْتَ لَهُ سَمْعًا وَلا بَصَرًا وَلا
+> أَجْرَيتَ لَهُ رِزْقًا وَلَكِنَّ اللَّهَ كَفَاكَ ذَلِكَ، ثُمَّ
+> سَخَّرَهُ لَكَ وَائْتَمَنَكَ عَلَيْهِ وَاسْتَوْدَعَكَ إيَّاهُ
+> لِتَحْفَظَهُ فِيهِ وتَسِيرَ فِيهِ بسِيرَتِهِ فَتُطْعِمَهُ مِمَّا
+> تَأْكُلُ وَتُلْبسَهُ مِمَّا تَلْبَسُ وَلا تُكَلِّفَهُ مَا لا يُطِيقُ،
+> فَإنْ كَرِهْتَ[هُ] خَرَجْتَ إلَى اللَّهِ مِنْهُ وَاسْتَبْدَلْتَ بهِ
+> وَلَمْ تُعَذِّبْ خَلْقَ اللَّهِ وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of your subject through being your slave is that you
 should know that he is a creature of your Lord and is made of the same
@@ -51,14 +43,10 @@ Islam and the Worth of the Slaves
 1 - Islam eliminated the distinctions between the master and the slave,
 and it declared all equal. The Noble Prophet Muhammad said:
 
-<blockquote dir="rtl">
-  <p>
-إخْوانُكُم جَعَلَهُمُ اللهُ فِتْنَةً تَحتَ أيْديكُم فَمَن كانَ أخُوهُ
-تَحتَ يَدِهِ فَلْيُطْعِمْهُ مِن طَعامِهِ وَلْيُلْبِسْهُ مِن لِباسِهِ
-وَلا يُكَلِّفْهُ مَا يَغْلِبُهُ فإنْ كَلَّفَهُ ما يَغْلِبُهُ
-فَلْيُعِنْهُ.
-  </p>
-</blockquote>
+> إخْوانُكُم جَعَلَهُمُ اللهُ فِتْنَةً تَحتَ أيْديكُم فَمَن كانَ أخُوهُ
+> تَحتَ يَدِهِ فَلْيُطْعِمْهُ مِن طَعامِهِ وَلْيُلْبِسْهُ مِن لِباسِهِ
+> وَلا يُكَلِّفْهُ مَا يَغْلِبُهُ فإنْ كَلَّفَهُ ما يَغْلِبُهُ
+> فَلْيُعِنْهُ.
 
 *“Your slaves are your brothers. God has set them as a trial under your
 authority. Therefore whoever has mastery over one of his brothers should
@@ -70,12 +58,8 @@ do.”*[^2]
 2 - The Prophet of Islam has honored slaves so much that he has not even
 allowed anyone to call them a slave or a maid:
 
-<blockquote dir="rtl">
-  <p>
-لا يَقُلْ أَحَدُكُمْ: هَذا عَبْدي وَهَذِهِ أَمَتي. وَلْيَقُلْ: فَتايَ
-وَفَتاتِي.
-  </p>
-</blockquote>
+> لا يَقُلْ أَحَدُكُمْ: هَذا عَبْدي وَهَذِهِ أَمَتي. وَلْيَقُلْ: فَتايَ
+> وَفَتاتِي.
 
 *“No one is allowed to say this is my slave or that is my maid. You
 should say this is my young man, and that is my young lady.”*[^3]
@@ -89,11 +73,7 @@ quoted on the authority of God’s Prophet : “Do you want me to tell you
 who the worst people are?” The companions said: “Yes. O Prophet of God!”
 Then the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَافَرَ وَحْدَهُ وَمَنَعَ رِفْدَهُ وَضَرَبَ عَبْدَهُ.
-  </p>
-</blockquote>
+> مَنْ سَافَرَ وَحْدَهُ وَمَنَعَ رِفْدَهُ وَضَرَبَ عَبْدَهُ.
 
 *“Those who travel alone, do not admit guests, and beat their
 slaves.”*[^4]
@@ -113,11 +93,7 @@ deserve more to wear the more expensive garment.” Imam Ali replied: “I
 am ashamed to seek superiority over you in this respect. I heard God’s
 Prophet say:
 
-<blockquote dir="rtl">
-  <p>
-ألْبِسُوهُم ِممّا تَلْبَسُونَ وَأطْعِمُوهُم ممّا تأكُلونَ.
-  </p>
-</blockquote>
+> ألْبِسُوهُم ِممّا تَلْبَسُونَ وَأطْعِمُوهُم ممّا تأكُلونَ.
 
 *“Clothe them with what you wear yourselves, and feed them with what you
 eat.”*[^5]
@@ -128,12 +104,8 @@ help in performing your hard tasks, and help them in the performance of
 difficult tasks.” [^6]  
  He also said:
 
-<blockquote dir="rtl">
-  <p>
-أوْصانِي حَبِيبي جِبْرَئيلُ بِالرِّفْقِ بِالرَّقيقِ حَتىّ ظَنَنْتُ
-أنَّهُ سَيَضرِبُ لهُ أجَلاً يَخْرُجُ فِيهِ حُرّاً.
-  </p>
-</blockquote>
+> أوْصانِي حَبِيبي جِبْرَئيلُ بِالرِّفْقِ بِالرَّقيقِ حَتىّ ظَنَنْتُ
+> أنَّهُ سَيَضرِبُ لهُ أجَلاً يَخْرُجُ فِيهِ حُرّاً.
 
 *“My friend Gabriel advised me about treating my slaves with gentleness
 so much that I thought he would soon establish a deadline for freeing
@@ -211,11 +183,7 @@ In the first tradition in this chapter we read: “Muhammad ibn al-Husayn
 quoted on the authority of al-Husayn ibn al-Sa’ed on the authority of
 Abi Abdullah Ja’far ibn Muhammad :
 
-<blockquote dir="rtl">
-  <p>
-يَعتِقُ اللهُ عَزَّ وَجَلَّ بِكُلِّ عُضْوٍ مِنهُ عُضْواً مِن النّارِ.
-  </p>
-</blockquote>
+> يَعتِقُ اللهُ عَزَّ وَجَلَّ بِكُلِّ عُضْوٍ مِنهُ عُضْواً مِن النّارِ.
 
 *“God the Exalted the High will save whoever frees his slave from the
 Fire. For every organ that he frees, God will save one of his organs
@@ -226,12 +194,8 @@ quoted on the authority of al-Hasan ibn Ali on the authority of his
 grandfathers on the authority of Bashir an-Nab’bal that he heard Imam
 Sadiq say:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أعْتَقَ نَسَمَةً صالِحَةً لِوجْهِ اللهِ كَفَّرَ اللهُ عَنهُ
-مَكانَ كُلِّ عُضْوٍ مِنهُ عُضْواً مِن النّارِ.
-  </p>
-</blockquote>
+> مَنْ أعْتَقَ نَسَمَةً صالِحَةً لِوجْهِ اللهِ كَفَّرَ اللهُ عَنهُ
+> مَكانَ كُلِّ عُضْوٍ مِنهُ عُضْواً مِن النّارِ.
 
 *“God will forgive whoever frees a good servant of God for God’s sake.
 God will save his organs from the Fire (of Hell) - an organ will be
@@ -247,12 +211,8 @@ chapter of this section, it has been stated that it is recommended to
 free slaves on the evening of the day of ‘Arafah. Two traditions from
 Imam Sadiq have been narrated to support this. The first one is:
 
-<blockquote dir="rtl">
-  <p>
-يُسْتَحَبُّ لِلرَّجُلِ أنْ يَتَقَرَّبَ إلى اللهِ عَشِيَّةَ عَرَفَةَ
-وَيَوْمَ عَرَفَةَ بِالعِتْقِ والصَّدَقَةِ.
-  </p>
-</blockquote>
+> يُسْتَحَبُّ لِلرَّجُلِ أنْ يَتَقَرَّبَ إلى اللهِ عَشِيَّةَ عَرَفَةَ
+> وَيَوْمَ عَرَفَةَ بِالعِتْقِ والصَّدَقَةِ.
 
 *“It is recommended for man to seek proximity to God on the day and
 evening of ‘Arafah by freeing slaves and giving charity.”*[^16]
@@ -294,5 +254,4 @@ emigrants who accompanied him.
 [^15]: Ibid.
 
 [^16]: Wasa’il al-Shi’ah, v.16, pp.2-4
-
 

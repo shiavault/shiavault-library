@@ -395,4 +395,3 @@ beginning, development, and conclusion of Islam in the End Times,
 culminating in the rule of Islam and concluding with the arrival of 'Isa
 (as).
 
-

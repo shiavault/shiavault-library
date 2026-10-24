@@ -136,4 +136,3 @@ the Allamah's mind (about forty years ago in Najaf) was contemporaneous
 with the development of this view in European thought. In any case the
 Allamah was definitely unaware of their views.
 
-

@@ -1,12 +1,8 @@
 Chapter 1: Smashing the Idols of Tribalism
 ==========================================
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا لِلَّهِ أَندَاداً لِّيُضِلُّوا عَنْ سَبِيلِهِ قُلْ
-تَمَتَّعُوا فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ
-  </p>
-</blockquote>
+> وَجَعَلُوا لِلَّهِ أَندَاداً لِّيُضِلُّوا عَنْ سَبِيلِهِ قُلْ
+> تَمَتَّعُوا فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ
 
 ***And they set up (idols) as equal to Allah, to mislead (men) from His
 Path! Say, ‘Enjoy [for a while], for indeed your destination is towards
@@ -47,13 +43,9 @@ equality, and monotheism. Accustomed to their status as the highest of
 the high, the Quraysh were less than thrilled with the proclamation from
 God that read:
 
-<blockquote dir="rtl">
-  <p>
-ياَ أَيًُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنْثىٰ
-وَجَعَلْنَاكُمْ شُعُوباً وَقَبَآئِلَ لِتَعَارَفُوۤا إِنَّ أَكْرَمَكُمْ
-عِندَ ٱللهِ أَتْقَاكُمْ إِنَّ ٱللهَ عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> ياَ أَيًُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنْثىٰ
+> وَجَعَلْنَاكُمْ شُعُوباً وَقَبَآئِلَ لِتَعَارَفُوۤا إِنَّ أَكْرَمَكُمْ
+> عِندَ ٱللهِ أَتْقَاكُمْ إِنَّ ٱللهَ عَلِيمٌ خَبِيرٌ
 
 ***O Mankind! We created you from a male and a female and then made you
 into nations and tribes only that you might recognize each other;
@@ -120,27 +112,19 @@ evinced by *Surah al-Munafiqun* (*The Hypocrites* - c. 63) and *Surah*
 *al-Taubah* (*The Repentance* - c. 9) faith did not enter all of their
 hearts:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَآءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ الله
-وَاللهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللهُ يَشْهَدُ إِنَّ
-الْمُنَافِقِينَ لَكَاذِبُون
-  </p>
-</blockquote>
+> إِذَا جَآءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ الله
+> وَاللهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللهُ يَشْهَدُ إِنَّ
+> الْمُنَافِقِينَ لَكَاذِبُون
 
 ***When the hypocrites come to you, they say, ‘We bear witness that you
 are indeed the Messenger of Allah.’ Surely, Allah knows that you are
 indeed His messenger, and Allah bears witness that the hypocrites are
 indeed liars. (63:1)***
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ حَوْلَكُمْ مِّنَ ٱلأَعْرَابِ مُنَافِقُونَ وَمِنْ أَهْلِ
-ٱلْمَدِينَةِ مَرَدُواْ عَلىٰ ٱلنِّفَاقِ لاَ تَعْلَمُهُمْ نَحْنُ
-نَعْلَمُهُمْ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ
-عَذَابٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَمِمَّنْ حَوْلَكُمْ مِّنَ ٱلأَعْرَابِ مُنَافِقُونَ وَمِنْ أَهْلِ
+> ٱلْمَدِينَةِ مَرَدُواْ عَلىٰ ٱلنِّفَاقِ لاَ تَعْلَمُهُمْ نَحْنُ
+> نَعْلَمُهُمْ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ
+> عَذَابٍ عَظِيمٍ
 
 ***Round about you [Muhammad and his community] and among you in Madinah
 are hypocrites and they are obstinate in hypocrisy. You do not know
@@ -152,5 +136,4 @@ shall be sent to a grievous penalty. (9:101)***
 [^2]: The original name of Madinah was Yathrib, but it later became
 known as Madinatul Nabi (the City of the Prophet) after the migration
 (Hijrah) of the Prophet from Mecca to Madinah.
-
 

@@ -520,17 +520,9 @@ was seated in a gathering where liquor was being served with ‘Ubayd
 Allah ibn Ziyad on his right hand side. Yazid said to his bartender in
 verse,
 
-<blockquote dir="rtl">
-  <p>
-إسقني شربةً تروّي مَشاشي ثمّ مِل فَاسقِ مثلَها ابن زيادِ
-  </p>
-</blockquote>
+> إسقني شربةً تروّي مَشاشي ثمّ مِل فَاسقِ مثلَها ابن زيادِ
 
-<blockquote dir="rtl">
-  <p>
-صاحبَ السرّ والامانةِ عندي ولتسديدِ مغنمي وجهادي
-  </p>
-</blockquote>
+> صاحبَ السرّ والامانةِ عندي ولتسديدِ مغنمي وجهادي
 
 *“Give me liquor that is strong enough to completely satisfy my whole
 being.*
@@ -585,12 +577,8 @@ of that man who has been killed by Allah?” Imam al-Sajjad (as) replied,
 “I am ‘Ali, the son of the man whom you have killed.” Then, Imam
 al-Sajjad (as) recited this verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَن يقتُل مُؤمِناً مُتَعَمِّداً فَجَزآؤُهُ جَهَنَّمُ خالِداً فيها
-... ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَن يقتُل مُؤمِناً مُتَعَمِّداً فَجَزآؤُهُ جَهَنَّمُ خالِداً فيها
+> ... ﴾
 
 ***“And whoever kills a believer intentionally, his punishment is hell;
 he shall abide in it forever.***[^40]***”***[^41]
@@ -980,5 +968,4 @@ Tarikh Damishq, vol. 28, p. 24.
 [^62]: Tarikh Tabari, vol. 4, p. 238.
 
 [^63]: Ibn Athir, Al-Kamil fi al-Tarikh, vol. 3, p. 300.
-
 

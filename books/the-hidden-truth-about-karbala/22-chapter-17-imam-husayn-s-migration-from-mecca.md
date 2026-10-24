@@ -332,4 +332,3 @@ Husayn the Saviour, p. 110.
 [^7]: Matalibul Sa’oo, al-Mahzoon, al-Malhoof quoted in Imam Husayn
 (a.s.) & Tragic Saga of Karbala, p.105-106.
 
-

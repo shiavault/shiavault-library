@@ -118,4 +118,3 @@ in his nature, 54.
 [^6]: Therefore apparently ordinary Shi'ahs are not superior to angels,
 as the Sunnis hold the faithful to be, MC, 202.
 
-

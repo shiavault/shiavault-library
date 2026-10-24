@@ -74,4 +74,3 @@ How beautiful it is when a Muslim is guided aright through their
 guidance and follows their will and listens to the remembrance of
 them.
 
-

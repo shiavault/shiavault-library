@@ -3,12 +3,8 @@ Lesson One Hundred Thirty One: Piety Opens All Doors
 
 Imam Muhammad At-Taqi (al-Jawad) (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كانَتِ السَّماواتُ وَ الاَرْضُ رَتْقاً عَلَى عَبْد ثُمَّ اتَّقى
-اللّهَ تَعالَى جَعَلَ اللّهُ لَهُ مِنْها مَخْرَجاً
-  </p>
-</blockquote>
+> لَوْ كانَتِ السَّماواتُ وَ الاَرْضُ رَتْقاً عَلَى عَبْد ثُمَّ اتَّقى
+> اللّهَ تَعالَى جَعَلَ اللّهُ لَهُ مِنْها مَخْرَجاً
 
 Translation
 -----------
@@ -31,5 +27,4 @@ given to him, breezes of God’s mercy would embrace him and the closed
 doors would be opened in wonderful ways.
 
 [^1]: Noural Absar, page 150
-
 

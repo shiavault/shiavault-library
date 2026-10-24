@@ -4,22 +4,14 @@ Section 1: Humanity Exhorted to Hold Satan as its Enemy
 Surah Al-Fatir – Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالأَرْضِ جَاعِلِ
-الْمَلآئِكَةِ رُسُلاً اُوْلِي أَجْنِحَةٍ مَّثْنَي وَثُلاَثَ وَرُبَاعَ
-يَزِيدُ فِي الْخَلْقِ مَا يَشَآءُ اِنَّ اللَّهَ عَلي كُلّ‌ِ شَيْءٍ
-قَدِيرٌ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالأَرْضِ جَاعِلِ
+> الْمَلآئِكَةِ رُسُلاً اُوْلِي أَجْنِحَةٍ مَّثْنَي وَثُلاَثَ وَرُبَاعَ
+> يَزِيدُ فِي الْخَلْقِ مَا يَشَآءُ اِنَّ اللَّهَ عَلي كُلّ‌ِ شَيْءٍ
+> قَدِيرٌ
 
 ***1. “(All) praise belongs to Allah, the Originator of the heavens and
 the earth, Who appointed the angels messengers having wings two, three,
@@ -262,13 +254,9 @@ than and superior to the angels.
 Surah Al-Fatir – Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلاَ مُمْسِكَ لَهَا
-وَمَا يُمْسِكْ فَلاَ مُرْسِلَ لَهُ مِن بَعْدِهِ وَهُوَ الْعَزِيزُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلاَ مُمْسِكَ لَهَا
+> وَمَا يُمْسِكْ فَلاَ مُرْسِلَ لَهُ مِن بَعْدِهِ وَهُوَ الْعَزِيزُ
+> الْحَكِيمُ
 
 ***2. “Whatever mercy Allah opens to men, none can withhold and whatever
 He withholds, none can loose after Him, and He is the Mighty, the
@@ -306,13 +294,9 @@ Forgiving, the Merciful.”***[^20]
 Surah Al-Fatir – Verse 3
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ هَلْ منْ
-خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُم مِنَ السَّمَآءِ وَالأَرْضِ لآ
-اِلَهَ اِلاَّ هُوَ فَاَنَّي تُؤْفَكُونَ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ هَلْ منْ
+> خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُم مِنَ السَّمَآءِ وَالأَرْضِ لآ
+> اِلَهَ اِلاَّ هُوَ فَاَنَّي تُؤْفَكُونَ
 
 ***3. “O’ people! Remember Allah’s favour upon you; is there any
 creator, apart from Allah, who gives you sustenance from the heaven and
@@ -363,12 +347,8 @@ great lies and slanders.
 Surah Al-Fatir – Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاِن يُكَذّ‌ِبُوكَ فَقَدْ كُذّ‌ِبَتْ رُسُلٌ مِن قَبْلِكَ وَاِلَي
-اللَّهِ تُرْجَعُ الأُمُورُ
-  </p>
-</blockquote>
+> وَاِن يُكَذّ‌ِبُوكَ فَقَدْ كُذّ‌ِبَتْ رُسُلٌ مِن قَبْلِكَ وَاِلَي
+> اللَّهِ تُرْجَعُ الأُمُورُ
 
 ***4. “And if they belie you, apostles before you have been belied, and
 to Allah are all affairs returned.”***
@@ -400,12 +380,8 @@ Great Day, there is no room for anxiety any more.
 Surah Al-Fatir – Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا النَّاسُ اِنَّ وَعْدَ اللَّهِ حَقٌّ فَلاَ تَغُرَّنَّكُمُ
-الْحَيَاةُ الدُّنْيَا وَلاَ يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا النَّاسُ اِنَّ وَعْدَ اللَّهِ حَقٌّ فَلاَ تَغُرَّنَّكُمُ
+> الْحَيَاةُ الدُّنْيَا وَلاَ يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ
 
 ***5. “O’ people! Verily the promise of Allah is true. So let not the
 life of the world beguile you, nor let the arch-deceiver (Satan) deceive
@@ -478,19 +454,11 @@ repeatedly been attributed to Satan.
 Surah Al-Fatir – Verses 6-7
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوّاً اِنَّمَا
-يَدْعُواْ حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ
-  </p>
-</blockquote>
+> إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوّاً اِنَّمَا
+> يَدْعُواْ حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَفَرُوا لَهُمْ عَذَابٌ شَدِيدٌ وَالَّذِينَ ءَامَنُوا
-وَعَمِلُوا الصَّالِحَاتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
-  </p>
-</blockquote>
+> الَّذِينَ كَفَرُوا لَهُمْ عَذَابٌ شَدِيدٌ وَالَّذِينَ ءَامَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
 
 ***6. “Verily Satan is your enemy, so you (too) take him (as your)
 enemy. He only invites his adherents that they may become companions of
@@ -689,5 +657,4 @@ verse 22; Yusuf, verse 5; Yasin, verse, 60; and Az-Zukhruf, verse 62
 [^27]: Surah l, No. 16, verse 100An-Nah
 
 [^28]: Surah Al-Mujadalah, No. 58, verse 19
-
 

@@ -160,4 +160,3 @@ to this precaution, but it is better to do so.
 
 [^7]: Hādī al-Fadlī, Dūrūs fī al-Fiqh al-Imāmīyyah, pages 255-256
 
-

@@ -55,4 +55,3 @@ a Muslim.”*
 
 [^1]: The Qur’an 11:85.
 
-

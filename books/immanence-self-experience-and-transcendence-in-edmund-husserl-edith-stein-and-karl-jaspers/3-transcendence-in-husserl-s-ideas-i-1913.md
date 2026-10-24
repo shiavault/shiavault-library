@@ -261,4 +261,3 @@ and being. (CM IV, p. 83-84; Hua I: 117, trans modified).
 The transcendental ego is the ‘universe of possible sense’ and hence to
 speak of an ‘outside’ is precisely nonsense (CM Hua I: 117).
 
-

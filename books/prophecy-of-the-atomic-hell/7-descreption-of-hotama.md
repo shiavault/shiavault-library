@@ -303,4 +303,3 @@ about ten seconds. This, however, a transient world and its atomic hell
 also ought to show this characteristic as against the next eternal
 world, wherein the atomic hell shall for ever and incessantly burn.
 
-

@@ -6,14 +6,10 @@ Jews, etc.—and this invitation is not exclusive for the time of the
 Prophet (s) or a certain group of the People of the Book {*ahl
 al-kitab*}:[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاءٍ
-بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ
-بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِنْ دُونِ
-اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاءٍ
+> بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ
+> بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِنْ دُونِ
+> اللَّهِ.﴾
 
 ***Say, 'O People of the Book! Come to a word common between us and you:
 that we will worship no one but Allah, and that we will not ascribe any
@@ -220,5 +216,4 @@ people. [Trans.]
 
 [^8]: Hadrat: The Arabic word Hadrat is used as a respectful form of
 address. [Trans.]
-
 

@@ -1261,4 +1261,3 @@ al-\`Ummal 2:595 H. 4816 (as reported from Ibn Abi-Dawud).
 [^51]: Jirji Zaydan: Tarikh al-Tamaddun al-Islami (History of the
 Islamic Urbanism).
 
-

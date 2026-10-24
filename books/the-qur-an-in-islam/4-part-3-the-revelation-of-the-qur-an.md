@@ -896,4 +896,3 @@ His slave that which He revealed. The heart did not lie (in seeing) what
 it saw;***" and in 98:2 reception of the revelation is indicated as a
 reading of "***pure pages***" by God's messenger.
 
-

@@ -720,4 +720,3 @@ the illusions of metaphysics, while nevertheless resisting the reified
 and standardized forms of rationality that have so often resulted from
 this project in the past.
 
-

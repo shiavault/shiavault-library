@@ -28,4 +28,3 @@ chapter "Homes in which the Glorious Qur'an is read".
 [^2]: A hadith from Hadrat ‘Ali (PBUH), al‑Usul of al‑Kafi, chapter
 "Homes in which the Glorious Qur'an is read"
 
-

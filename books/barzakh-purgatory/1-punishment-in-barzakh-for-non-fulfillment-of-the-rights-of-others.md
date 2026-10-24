@@ -364,4 +364,3 @@ form only this imagination.
 
 [^7]: Surah Maryam 19:72
 
-

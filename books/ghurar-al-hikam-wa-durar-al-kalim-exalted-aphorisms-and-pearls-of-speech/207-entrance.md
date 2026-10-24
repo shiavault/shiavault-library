@@ -24,4 +24,3 @@ comfortable with [kind] words.
 
 [^1]: The Islamic greeting: Salāmun ‘alaykum.
 
-

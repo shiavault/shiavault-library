@@ -188,12 +188,8 @@ The husband said, “*Alhamdu Lillah*!” I don’t know why the man thanked
 Allah at that moment. Whatever he praised Allah for was appropriate, but
 he must have praised Allah the most for giving him a good wife.
 
-<blockquote dir="rtl">
-  <p>
-وَ الَّذِينَ جَهَدُواْ فِينَا لَنهَْدِيَنهَُّمْ سُبُلَنَا وَ إِنَّ
-اللَّهَ لَمَعَ الْمُحْسِنِين
-  </p>
-</blockquote>
+> وَ الَّذِينَ جَهَدُواْ فِينَا لَنهَْدِيَنهَُّمْ سُبُلَنَا وَ إِنَّ
+> اللَّهَ لَمَعَ الْمُحْسِنِين
 
 ***As for those who strive for Us, we surely guide them to Our paths,
 and lo! Allah is with the good.***  
@@ -226,5 +222,4 @@ are such that the husband can barely afford one wife, how will he
 support the second wife. Inspite of this if he re-marries, it is your
 own fault – you neglected to look after him, forcing him to re-marry.
 This is termed as marriage of compulsion.
-
 

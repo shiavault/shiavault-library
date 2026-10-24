@@ -32,7 +32,7 @@ of the Companions shares, and no parallel to him is there among them,
 whether in regard of his sirah (conduct) or biography, or abundance of
 the traditions he narrated, I have dedicated a separate book for him
 under the title: Shaykh al-mudirah, having it printed and published
-twice.<span id="_anchor_14"></span>14
+twice.14
 
 With regard to the Sahabah, I opined to support my writings in the first
 edition with quoting whatever revealed about them from the most truthful
@@ -43,10 +43,8 @@ bold and valiant. Some people (of Sunnites) may claim that the verses
 revealed in regard of the Sahabah and their conditions were abrogated!
 Further, they say that if they were on this state during the lifetime of
 the Prophet (may God’s peace and benediction be upon him and his
-Progeny), they afterwards have been quite innocent and immaculate, <span
-id="_anchor_15"></span>15  and anyone claiming the opposite is verily a
-zindiq (blasphemous) whose faith is corrupt. <span
-id="_anchor_16"></span>16
+Progeny), they afterwards have been quite innocent and immaculate, 15  and anyone claiming the opposite is verily a
+zindiq (blasphemous) whose faith is corrupt. 16
 
 In conclusion of speech I say: I am ready to accept, with delight and
 pleasure, all the criticism launched against me. May Allah’s mercy be
@@ -157,7 +155,7 @@ Abduh, whose knowledge and virtue needing no mention, beside being
 widely known among the leading religious authorities and leaders. So
 whatever is uttered by al-Sayyid Rashid I consider as if issued by his
 teacher al-Imam, due to identicalness between their methodology and way
-of viewing the religion. <span id="_anchor_17"></span>17
+of viewing the religion. 17
 
 Due to his enjoying all these attributes, his sayings and opinions shall
 be – undoubtedly – be considered by Ahl al-Sunnah as decisive arguments

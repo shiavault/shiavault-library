@@ -11,21 +11,13 @@ Eminence And The Eminent
 is neighborly to his neighbor.
 
 > 2ـ اَلسَّـيِّدُ مَنْ تَحَمَّلَ أثْقالَ إخْوانِهِ، وَ أحْسَنَ
-<blockquote dir="rtl">
-  <p>
-مُجاوَرَةَ جيرانِهِ.
-  </p>
-</blockquote>
+> مُجاوَرَةَ جيرانِهِ.
 
 3. The eminent person is one who neither flatters nor deceives, nor is
 he beguiled by greedy ambitions.
 
 > 3ـ اَلسَّـيِّدُ مَنْ لا يُصانِعُ، وَلا يُخادِعُ، وَلا تَغُرُّهُ
-<blockquote dir="rtl">
-  <p>
-المَطامِعُ.
-  </p>
-</blockquote>
+> المَطامِعُ.
 
 4. The eminent person is one who bears the responsibility of providing
 [for others] and is generous with his assistance.
@@ -51,11 +43,7 @@ Allah].
 home] are instruments [and means] of eminence.
 
 > 8ـ فِعْلُ المَعْرُوفِ، وَ إغاثَةُ المَلْهُوفِ، وَ إقْراءُ الضُّيُوفِ
-<blockquote dir="rtl">
-  <p>
-آلَةُ السّيادَةِ.
-  </p>
-</blockquote>
+> آلَةُ السّيادَةِ.
 
 9. One whose brothers have to turn to other than him [for their needs]
 has not attained eminence.
@@ -100,10 +88,5 @@ eminence.
 and doing good turns.
 
 > 18ـ لايَكْمُلُ السُّؤْدَدُ إلاّ بِتَحَمُّلِ الأثْقالِ وَ إسْداءِ
-<blockquote dir="rtl">
-  <p>
-الصَّنايِـعِ.
-  </p>
-</blockquote>
-
+> الصَّنايِـعِ.
 

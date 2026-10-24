@@ -85,4 +85,3 @@ Muhammad and to accept his truth. This and the subsequent events which
 took place after the death of the Prophet changed the natural atmosphere
 between the Muslims and Christians.
 
-

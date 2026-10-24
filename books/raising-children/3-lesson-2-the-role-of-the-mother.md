@@ -317,4 +317,3 @@ them.
 
 [^1]: Excerpts from Meeting the Pious, Ash-Sharif ar-Radi
 
-

@@ -1091,4 +1091,3 @@ wiping the feet is the duty (conveyed by Sheikh Mahmoud Shaltut in his
 
 [^9]: Al-Tirmidhi in his authentic Sunan part 5 p. 328 (hadith no.3874)
 
-

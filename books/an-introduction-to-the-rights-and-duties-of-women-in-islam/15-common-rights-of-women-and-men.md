@@ -459,4 +459,3 @@ status as a right. It is not permissible or lawful for any woman or man
 to violate the rights of others with the pretext of benefiting from
 their own rights. This is forbidden on grounds of rights abuse.
 
-

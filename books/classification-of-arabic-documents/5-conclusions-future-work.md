@@ -13,4 +13,3 @@ be conducted by changing its parameters. i.e. in this project we use K=1
 for the KNN, so other students can study the effect of increasing this
 parameter on the classifier performance.
 
-

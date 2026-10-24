@@ -929,4 +929,3 @@ process of understanding Islamic instructions and laws.
 philosophers, but I mentioned only the theories which were adopted and
 followed by the recent most well-known Muslim thinkers and philosophers.
 
-

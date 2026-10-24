@@ -41,4 +41,3 @@ An easy way of understanding it is (to regard the Nakirah as) everything
 to which the Alif and Lām can be validly prefixed, like  الرَجُل  (the
 man) and  الغُلام  (the lad/servant).
 
-

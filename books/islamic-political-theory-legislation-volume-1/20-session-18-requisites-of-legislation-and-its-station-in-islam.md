@@ -138,11 +138,7 @@ eternal laws. Secondly, God has already determined the framework for
 alterable laws which are the criterion for identifying the merit of
 alterable laws. In this regard, the Qur’an has an emphatic expression:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَضَعَ الْمِيزَانَ ٭ أَلَّا تَطْغَوْا فِي الْمِيزَانِ﴾
-  </p>
-</blockquote>
+> ﴿وَوَضَعَ الْمِيزَانَ ٭ أَلَّا تَطْغَوْا فِي الْمِيزَانِ﴾
 
 ***“And set up the balance, declaring, ‘Do not infringe the
 balance!’**”*[^1]
@@ -218,11 +214,7 @@ legislation. When legislation is a prerogative of God, as it really is,
 only through His authority can rules enacted by others become binding;
 otherwise, those rules will never acquire legitimacy and credibility:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ ءَاَللّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللّهِ تَفْتَرُونَ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ ءَاَللّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللّهِ تَفْتَرُونَ﴾
 
 ***“Say, ‘Did Allah give you the sanction [to do so], or do you
 fabricate a lie against Allah?’**”*[^2]
@@ -405,13 +397,9 @@ in God” [*tawakkul*]. That is, man should not expect anything from
 himself vis-à-vis God. He has to seek everything from Him and to regard
 Him as the Omniscient and Omnipotent:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِنْ يَمْسَسْكَ اللّهُ بِضُرٍّ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِن
-يُرِدْكَ بِخَيْرٍ فَلاَ رَآدَّ لِفَضْلِهِ يُصِِيبُ بِهِ مَن يَشَاءُ
-مِنْ عِبَادِهِ وَهُوَ الْغَفُورُ الرَّحِيمُ﴾
-  </p>
-</blockquote>
+> ﴿وَإِنْ يَمْسَسْكَ اللّهُ بِضُرٍّ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِن
+> يُرِدْكَ بِخَيْرٍ فَلاَ رَآدَّ لِفَضْلِهِ يُصِِيبُ بِهِ مَن يَشَاءُ
+> مِنْ عِبَادِهِ وَهُوَ الْغَفُورُ الرَّحِيمُ﴾
 
 ***“Should Allah visit you with some distress, there is no one to remove
 it except Him; and should He desire any good for you, none can stand in
@@ -460,12 +448,8 @@ stand on our own feet, to carry our own load, not to be dependent on
 others, and not to covet others. But this does not mean that we should
 also regard ourselves independent of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ﴾
 
 ***“O mankind! You are the ones who stand in need of Allah, and Allah—He
 is the All-sufficient, the All-laudable.**”*[^5]
@@ -501,5 +485,4 @@ person.
 [^4]: Surah Yunus 10:107.
 
 [^5]: Surah Fatir (or al-Mala’ikah) 35:15.
-
 

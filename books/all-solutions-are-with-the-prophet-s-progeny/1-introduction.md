@@ -100,4 +100,3 @@ Almighty to favor us with His mercy and join us with the righteous.
 [^2]: Imam Ali’s message to Malik al-Ashtar when Imam Ali appointed him
 as the Governor of Egypt
 
-

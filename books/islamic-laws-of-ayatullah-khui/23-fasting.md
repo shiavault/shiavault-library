@@ -1393,4 +1393,3 @@ waiting for him, it is better that he should break his fast first and
 offer the prayers afterwards. However, as far as possible, he should
 offer the prayers during the earliest (preferable) time.
 
-

@@ -71,4 +71,3 @@ In his *Ahlul Bayt,* 77-80.
 In his *hawashi* on *al-Matalib al-Aliyah bi zawa'id al-masanid
 al-­thamaniyah,* iv, 65.
 
-

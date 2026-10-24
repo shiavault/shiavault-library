@@ -707,4 +707,3 @@ and may not be touched or recited by the ceremonially unclean.
 
 [^32]: Ibid. p.372.
 
-

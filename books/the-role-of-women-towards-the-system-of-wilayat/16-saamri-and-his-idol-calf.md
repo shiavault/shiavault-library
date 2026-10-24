@@ -37,4 +37,3 @@ sand below the feet of Moosa or he took something from Gabriel and made
 the calf active. The entire community with this technique of Saamri got
 deceived, left Haroon and started to follow Saamri.
 
-

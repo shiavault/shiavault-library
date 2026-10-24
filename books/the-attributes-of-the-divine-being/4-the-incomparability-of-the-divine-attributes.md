@@ -146,4 +146,3 @@ fantasy and imagination are unable to perceive Him. The passage of time
 and the succession of ages in no wise diminish Him and He is exempt from
 all mutation and change."[^9]
 
-

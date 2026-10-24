@@ -326,12 +326,10 @@ used to predict about the unseen by consulting the jinns, the
 astrologers do the same by consulting the stars which means that a
 soothsayer, an astronomer, a Rammal (a conjurer),
 
-
 a Jaffar (a soothsayer) all follow the same creed. A Kahin (the one who
 prophesies about the future events) courts friendship with the jinns
 just like a magician and the same is not possible until one believes in
 them, invokes them and makes an offer to them. It all relates to
 infidelity and making partners to Allah. May Allah the Almighty save and
 preserve Muslims from committing acts or Shirk. Amin.
-
 

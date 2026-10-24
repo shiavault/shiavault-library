@@ -341,7 +341,5 @@ excused failure will be forgiven by the generous people. I have left
 commenting on the book because my comments will not suffice not to read
 it or to ponder on its words!
 
-
 Sadruddeen Sharafuddeen
-
 

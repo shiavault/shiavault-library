@@ -60,4 +60,3 @@ intervention is by the permission of God (bi idhnillah). He is God’s
 agent. In fact, his heart is the mirror of God and reflects His
 lordship.
 
-

@@ -137,12 +137,8 @@ society today, which are like a cancer for the society.
 The remedy of these evils is simple. There are a couple of verses of the
 Holy Quran. If our society follows these, the malady will disappear.
 
-<blockquote dir="rtl">
-  <p>
-وَ عِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلىَ الْأَرْضِ هَوْنًا وَ
-إِذَا خَاطَبَهُمُ الْجَهِلُونَ قَالُواْ سَلَمًا
-  </p>
-</blockquote>
+> وَ عِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلىَ الْأَرْضِ هَوْنًا وَ
+> إِذَا خَاطَبَهُمُ الْجَهِلُونَ قَالُواْ سَلَمًا
 
 ***The (faithful) slaves of the Beneficent are they who walk upon the
 earth modestly, and when the foolish ones address them answer: Peace!***
@@ -150,12 +146,8 @@ earth modestly, and when the foolish ones address them answer: Peace!***
 
 And
 
-<blockquote dir="rtl">
-  <p>
-وَ الَّذِينَ إِذَا أَنفَقُواْ لَمْ يُسْرِفُواْ وَ لَمْ يَقْترُُواْ وَ
-كَانَ بَينْ‏َ ذَلِكَ قَوَامًا
-  </p>
-</blockquote>
+> وَ الَّذِينَ إِذَا أَنفَقُواْ لَمْ يُسْرِفُواْ وَ لَمْ يَقْترُُواْ وَ
+> كَانَ بَينْ‏َ ذَلِكَ قَوَامًا
 
 ***And those who, when they spend, are neither prodigal nor grudging:
 and there is ever a firm station between the two(Sura Al Furqaan, 25:
@@ -183,14 +175,10 @@ married
 People should not be miserly in their expenses. Islam looks down upon
 miserly persons with contempt. Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَا يحَْسَبنَ‏َّ الَّذِينَ يَبْخَلُونَ بِمَا ءَاتَئهُمُ اللَّهُ مِن
-فَضْلِهِ هُوَ خَيرًْا لَّهُم بَلْ هُوَ شرٌَّ لَّهُمْ سَيُطَوَّقُونَ
-مَا بخَِلُواْ بِهِ يَوْمَ الْقِيَمَةِ وَ لِلَّهِ مِيرَثُ السَّمَوَتِ
-وَ الْأَرْضِ وَ اللَّهُ بمَِا تَعْمَلُونَ خَبِير
-  </p>
-</blockquote>
+> وَ لَا يحَْسَبنَ‏َّ الَّذِينَ يَبْخَلُونَ بِمَا ءَاتَئهُمُ اللَّهُ مِن
+> فَضْلِهِ هُوَ خَيرًْا لَّهُم بَلْ هُوَ شرٌَّ لَّهُمْ سَيُطَوَّقُونَ
+> مَا بخَِلُواْ بِهِ يَوْمَ الْقِيَمَةِ وَ لِلَّهِ مِيرَثُ السَّمَوَتِ
+> وَ الْأَرْضِ وَ اللَّهُ بمَِا تَعْمَلُونَ خَبِير
 
 ***Let not those who act niggardly with any of His bounty God has given
 them consider it better for them; rather it will be worse for them: they
@@ -233,13 +221,9 @@ peaceful sleep at night.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا أَرَدْنَا أَن نهُّْلِكَ قَرْيَةً أَمَرْنَا مُترَْفِيهَا
-فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيهَْا الْقَوْلُ فَدَمَّرْنَهَا
-تَدْمِيرًا
-  </p>
-</blockquote>
+> وَ إِذَا أَرَدْنَا أَن نهُّْلِكَ قَرْيَةً أَمَرْنَا مُترَْفِيهَا
+> فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيهَْا الْقَوْلُ فَدَمَّرْنَهَا
+> تَدْمِيرًا
 
 ***And when We would destroy a township We send commandment to its folk
 who live at ease, and afterward they commit abomination therein, and so
@@ -252,41 +236,17 @@ is afflicted with today is more dangerous than these storms and
 earthquakes. Reckless spending, according to the Quran, is harbinger of
 a sad and bad end!
 
-<blockquote dir="rtl">
-  <p>
-وَ أَصحَْبُ الشِّمَالِ مَا أَصحَْبُ الشِّمَال‏
-  </p>
-</blockquote>
+> وَ أَصحَْبُ الشِّمَالِ مَا أَصحَْبُ الشِّمَال‏
 
-<blockquote dir="rtl">
-  <p>
-فىِ سمَُومٍ وَ حَمِيم‏
-  </p>
-</blockquote>
+> فىِ سمَُومٍ وَ حَمِيم‏
 
-<blockquote dir="rtl">
-  <p>
-وَ ظِلٍ‏ّ مِّن يحَْمُوم‏
-  </p>
-</blockquote>
+> وَ ظِلٍ‏ّ مِّن يحَْمُوم‏
 
-<blockquote dir="rtl">
-  <p>
-لَّا بَارِدٍ وَ لَا كَرِيم‏
-  </p>
-</blockquote>
+> لَّا بَارِدٍ وَ لَا كَرِيم‏
 
-<blockquote dir="rtl">
-  <p>
-إِنهَُّمْ كاَنُواْ قَبْلَ ذَلِكَ مُترَْفِين‏
-  </p>
-</blockquote>
+> إِنهَُّمْ كاَنُواْ قَبْلَ ذَلِكَ مُترَْفِين‏
 
-<blockquote dir="rtl">
-  <p>
-وَ كاَنُواْ يُصِرُّونَ عَلىَ الحِْنثِ الْعَظِيم
-  </p>
-</blockquote>
+> وَ كاَنُواْ يُصِرُّونَ عَلىَ الحِْنثِ الْعَظِيم
 
 ***And those on the left hand: What of those on the left hand?***  
 ***In scorching wind and scalding water***  
@@ -307,12 +267,8 @@ ways, they committed sin after sin. The Holy Quran says that the
 Prophets (a.s.) of the past had warned such men against their evil ways.
 About such men the Holy Book says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا أَرْسَلْنَا فىِ قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ
-مُترَْفُوهَا إِنَّا بِمَا أُرْسِلْتُم بِهِ كَفِرُون
-  </p>
-</blockquote>
+> وَ مَا أَرْسَلْنَا فىِ قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ
+> مُترَْفُوهَا إِنَّا بِمَا أُرْسِلْتُم بِهِ كَفِرُون
 
 ***And We sent not unto any township a warner, but its pampered ones
 declared: Lo! We are disbelievers in that which ye bring unto us. (Sura
@@ -401,5 +357,4 @@ sacrifice of *Bab al Hawaij Hadhrat Abbas (a.s.)* who didn’t quench his
 thirst on the bank of the river remembering the thirst of the little
 children of Imam Husayn (a.s)! O Allah! Give us the spirit of sacrifice
 in our lives! (Ameen)
-
 

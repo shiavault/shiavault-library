@@ -22,7 +22,6 @@ as those of the Sahih.
 authenticity.
 4. Dha'eef: The weak Traditions which are not so reliable.
 
-
 In Shari'ah (Islamic Constitution) deeds and actions are divided into
 five classes:
 
@@ -72,5 +71,4 @@ the public.
 4 Al-Saadiq and the Four Madh'habs, Asad Haidar, Vol. 1, Page 218.
 5 Al-Saadiq and the Four Madh'habs, Asad Haidar, Vol. 1, Pages
 264-268.
-
 

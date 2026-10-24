@@ -700,14 +700,10 @@ Muhammad bin Salama says, “When Aktham wanted to accept Islam, his son
 made him die out of thirst. Also, I have heard that this verse was
 revealed for him:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا
-كَثِيرًا وَسَعَةً ۚ وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى
-اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ
-عَلَى اللَّهِ
-  </p>
-</blockquote>
+> وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا
+> كَثِيرًا وَسَعَةً ۚ وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى
+> اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ
+> عَلَى اللَّهِ
 
 “***And whoever flies in Allah’s way, he will find in the earth many a
 place of refuge and abundant resources, and whoever goes forth from his
@@ -3957,11 +3953,7 @@ Qaaf, Taa Seen Meem, Taa Seen and Yaaseen etc, for two reasons. One is
 because of the veil on eyes of infidels and polytheists from remembrance
 of Allah and the Messenger. The Quran says:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا رَّسُولًا
-  </p>
-</blockquote>
+> قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا رَّسُولًا
 
 ***Allah has indeed revealed to you a reminder, An Apostle…***[^2]
 
@@ -3997,12 +3989,8 @@ not those who may exceed the limits like Balam Baoor. When he wanted to
 pray against Prophet Musa (a.s.) he forgot the Great Name and had to
 flee from there. It is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِيَ آتَيْنَاهُ آيَاتِنَا فَانسَلَخَ
-مِنْهَا فَأَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِيَ آتَيْنَاهُ آيَاتِنَا فَانسَلَخَ
+> مِنْهَا فَأَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ
 
 ***And recite to them the narrative of him to whom We give Our
 communications, but he withdraws himself from them, so the Shaitan
@@ -4048,11 +4036,7 @@ tenure. The Imam replied:
 
 “Due to the following verse of Quran:
 
-<blockquote dir="rtl">
-  <p>
-لَوتَزَيَّلُواْلَعَذَّبْنَ االَّذِينَكَفَرُا امِنْهُمْعَذَابًاأَلِيمًا
-  </p>
-</blockquote>
+> لَوتَزَيَّلُواْلَعَذَّبْنَ االَّذِينَكَفَرُا امِنْهُمْعَذَابًاأَلِيمًا
 
 ***Had they been widely separated one from another, We would surely have
 punished those who disbelieved from among them with a painful
@@ -4080,11 +4064,7 @@ did he stop them?” The Imam said, “There is a verse in the Book of Allah
 which stopped him from it.” “What verse is that,” asked the narrator.
 Imam (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْتَزَيَّلُوالَعَذَّبْنَاالَّذِينَكَفَرُوامِنْهُمْعَذَابًاأَلِيمًا
-  </p>
-</blockquote>
+> لَوْتَزَيَّلُوالَعَذَّبْنَاالَّذِينَكَفَرُوامِنْهُمْعَذَابًاأَلِيمًا
 
 ***Had they been widely separated one from another, We would surely have
 punished those who disbelieved from among them with a painful
@@ -4104,11 +4084,7 @@ said: Narrated to us Jibraeel Ibne Ahmad from Muhammad bin Isa bin Ubaid
 from Yunus bin Abdur Rahman from Mansur bin Hazim that he asked Abi
 Abdullah (a.s.) about the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَوْتَزَيَّلُوالَعَذَّبْنَاالَّذِينَكَفَرُوامِنْهُمْعَذَابًاأَلِيمًا
-  </p>
-</blockquote>
+> لَوْتَزَيَّلُوالَعَذَّبْنَاالَّذِينَكَفَرُوامِنْهُمْعَذَابًاأَلِيمًا
 
 ***Had they been widely separated one from another, We would surely have
 punished those who disbelieved from among them with a painful
@@ -4132,11 +4108,7 @@ accepted it. When he kissed the letters of the Holy Prophet (S) I asked
 him: In spite of your physical weakness, how do you sit for the ritual
 prayer? He replied: the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِين َيَذْكُرُون َاللّه َقِيَامً اوَقُعُودًاوَعَلَى َجُنُوبِهِمْ
-  </p>
-</blockquote>
+> الَّذِين َيَذْكُرُون َاللّه َقِيَامً اوَقُعُودًاوَعَلَى َجُنُوبِهِمْ
 
 ***Those who remember Allah standing and sitting and lying on their
 sides***[^7]***.***
@@ -4187,5 +4159,4 @@ Dawood (a.s.).
 [^6]: Surah Fath 48:25
 
 [^7]: Surah Aale Imran 3:191
-
 

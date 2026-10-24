@@ -51,4 +51,3 @@ forbade it-.
 These have been some ways of proving the legality of the temporary
 marriage.
 
-

@@ -64,4 +64,3 @@ impression upon him.
 [^1]: Al-­Ghazali, al-­Mustasfa min \`ilm al-usul, Dar Sadir,
 al-­Matba\`at al-'Amiriyyah, Bulaq, Egypt, 1322 H.
 
-

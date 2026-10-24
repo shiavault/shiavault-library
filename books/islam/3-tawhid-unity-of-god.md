@@ -63,4 +63,3 @@ that Allah is one and only one; He has neither any partner nor any
 equal. The name cannot be translated by the word \`GOD' because God can
 be transformed into \`gods' and \`goddess.'
 
-

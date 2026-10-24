@@ -220,7 +220,6 @@ administration of an Islamic Government and Baitul-Maal. On the part of
 individual training we will discuss anger and the rights and duties of
 members within the family and society.
 
-
 **Lesson 9 : Ijtihad and Leadership**
 
 When someone is sick and needs to have medical attention, what do we
@@ -325,5 +324,4 @@ what are some of the sciences he needs to be well versed in?
 
 6. What are the qualities and duties of a Marja'e? What are the duties
 of Muslims regarding him? Explain your answer.
-
 

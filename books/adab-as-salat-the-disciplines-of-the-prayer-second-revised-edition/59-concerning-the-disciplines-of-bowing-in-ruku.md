@@ -67,4 +67,3 @@ Merit of as-Salāt,” hadīth 6.
 
 [^3]: Sūrah an-Naml 27:62.
 
-

@@ -339,4 +339,3 @@ Karbala, p. 178, Life of Imam Husayn the Saviour, p. 160 – 153.
 
 [^9]: Al-Irshad of Sheikh al-Mufid, Tr. IKA Howard, p. 347.
 
-

@@ -14,4 +14,3 @@ recieved the honor of researching the biography of his grandson Imam
 Muhammad al-Jawad, the miracle of intellect and knowledge in Islam,
 hoping it will be accepted...
 
-

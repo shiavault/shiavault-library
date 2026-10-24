@@ -104,13 +104,9 @@ station in the Heaven will be with the Prophets and the Infallible ones.
 The Holy Quran too says that certain people are with the Prophet (s) and
 the Imams (a.s.)
 
-<blockquote dir="rtl">
-  <p>
-وَ مَن يُطِعِ اللَّهَ وَ الرَّسُولَ فَأُوْلَئكَ مَعَ الَّذِينَ
-أَنْعَمَ اللَّهُ عَلَيهِْم مِّنَ النَّبِيِّنَ وَ الصِّدِّيقِينَ وَ
-الشهَُّدَاءِ وَ الصَّلِحِينَ وَ حَسُنَ أُوْلَئكَ رَفِيقًا
-  </p>
-</blockquote>
+> وَ مَن يُطِعِ اللَّهَ وَ الرَّسُولَ فَأُوْلَئكَ مَعَ الَّذِينَ
+> أَنْعَمَ اللَّهُ عَلَيهِْم مِّنَ النَّبِيِّنَ وَ الصِّدِّيقِينَ وَ
+> الشهَُّدَاءِ وَ الصَّلِحِينَ وَ حَسُنَ أُوْلَئكَ رَفِيقًا
 
 ***Whoso obeyeth Allah and the Messenger, they are with those unto whom
 Allah hath shown favour, of the Prophets and the Saints and the Martyrs
@@ -197,14 +193,10 @@ parents. They should not misbehave or use harsh language while dealing
 with their parents. The Holy Quran uses very strong words in this
 matter:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَضىَ‏ رَبُّكَ أَلَّا تَعْبُدُواْ إِلَّا إِيَّاهُ وَ
-بِالْوَلِدَيْنِ إِحْسَنًا إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبرََ
-أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُل لهَُّمَا أُفٍ‏ّ وَ لَا
-تَنهَْرْهُمَا وَ قُل لَّهُمَا قَوْلًا كَرِيمًا
-  </p>
-</blockquote>
+> وَ قَضىَ‏ رَبُّكَ أَلَّا تَعْبُدُواْ إِلَّا إِيَّاهُ وَ
+> بِالْوَلِدَيْنِ إِحْسَنًا إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبرََ
+> أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُل لهَُّمَا أُفٍ‏ّ وَ لَا
+> تَنهَْرْهُمَا وَ قُل لَّهُمَا قَوْلًا كَرِيمًا
 
 ***Thy Lord hath decreed that ye worship none save Him, and (that ye
 show) kindness to parents. If one of them or both of them attain to old
@@ -286,5 +278,4 @@ become weak. But in the homes where love prevails, everything else
 becomes secondary. Then there won’t be any differences between the
 daughter-in-law and mother-in-law, or between the husband and wife. In
 such homes you will not find fights or use of harsh language.
-
 

@@ -79,4 +79,3 @@ does any act which causes harm to him.
 
 [^1]: Harrani; Tuhaf al-Uqul an aal al-Rasul, Prophet's Sermons.
 
-

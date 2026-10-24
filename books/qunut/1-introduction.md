@@ -4,31 +4,19 @@ Introduction
 If any of the Qur’anic verses written in this book is not recited as
 qunoot in any salat, but prayed as a du-a’a recite:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 Bismillahir Rah’maanir Raheem
 
 In the beginning and then
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ
 
 Allahumma Salli A’laa Muhammadin wa Aali Muhammad
 
 Before you say the text of the verse (dua’a) and in the end again say
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ
 
 Allahumma Salli A’laa Muhammadin wa Aali Muhammad
 
@@ -64,22 +52,14 @@ really harmful to you. Many of your requests, if granted, may bring
 eternal damnation. So, at times, withholding fulfillment is a blessing
 in disguise.
 
-<blockquote dir="rtl">
-  <p>
-صلّى الله عليه واَله وسلّم
-  </p>
-</blockquote>
+> صلّى الله عليه واَله وسلّم
 
 Say: Sallallaahu A’layhi Wa Aalihee Wa Sallam
 
 Whenever you read or say the name or any epithet or appellation of the
 Holy Prophet.
 
-<blockquote dir="rtl">
-  <p>
-عَلَيُهِ السَّلاَم
-  </p>
-</blockquote>
+> عَلَيُهِ السَّلاَم
 
 Say: A’layhis Salaam
 
@@ -87,15 +67,10 @@ Whenever you read or say the name or any epithet or appellation of any
 Imam of the Ahl ul Bayt, any prophet or messenger of Allah, and any
 distinguished member of the family of the holy Prophet.
 
-<blockquote dir="rtl">
-  <p>
-صَلَواةَ اللهِ عَلَيُهَا
-  </p>
-</blockquote>
+> صَلَواةَ اللهِ عَلَيُهَا
 
 Say: Salawaatullahi A’layhaa
 
 Whenever you read or say the name of Fatimah Zahra, Khadija Kubra,
 Zaynab Binti Ali, Maryam or Asiya.
-
 

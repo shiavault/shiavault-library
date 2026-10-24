@@ -187,4 +187,3 @@ steadfastness came to be their special characteristics.
 
 [^2]: Gospel of Saint Matthew, 5:17.
 
-

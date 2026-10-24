@@ -4,25 +4,13 @@ Section 7: The Righteous Shall Inherit the Earth
 Surah Al-’Anbiya’ – Verses 92 - 94
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذِهِ اُمَّتُكُمْ اُمَّةً وَاحِدَةً وَأَنَاْ رَبُّكُمْ
-فَاعْبُدُونِ
-  </p>
-</blockquote>
+> إِنَّ هَذِهِ اُمَّتُكُمْ اُمَّةً وَاحِدَةً وَأَنَاْ رَبُّكُمْ
+> فَاعْبُدُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ كُلٌّ إِلَيْنَا رَاجِعُونَ
-  </p>
-</blockquote>
+> وَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ كُلٌّ إِلَيْنَا رَاجِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلاَ كُفْرَانَ
-لِسَعْيِهِ وَإِنَّا لَهُ كَاتِبُونَ
-  </p>
-</blockquote>
+> فَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلاَ كُفْرَانَ
+> لِسَعْيِهِ وَإِنَّا لَهُ كَاتِبُونَ
 
 ***92. “Verily, this Ummah of yours is a single Ummah, and I am your
 Lord: so worship Me.”***  
@@ -204,26 +192,14 @@ it.”***[^7]
 Surah Al-’Anbiya’ – Verses 95 - 97
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَحَرَامٌ عَلَي قَرْيَةٍ أَهْلَكْنَاهآ أَنَّهُمْ لاَ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَحَرَامٌ عَلَي قَرْيَةٍ أَهْلَكْنَاهآ أَنَّهُمْ لاَ يَرْجِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِن كُلّ‌ِ حَدَبٍ
-يَنسِلُونَ
-  </p>
-</blockquote>
+> حَتَّي إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِن كُلّ‌ِ حَدَبٍ
+> يَنسِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذا هِيَ شَاخِصَةٌ أَبْصَارُ
-الَّذِينَ كَفَرُوا يَاوَيْلَنَا قَدْ كُنَّا فِي غَفْلَةٍ مِنْ هَذَا
-بَلْ كُنَّا ظَالِمِينَ
-  </p>
-</blockquote>
+> وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذا هِيَ شَاخِصَةٌ أَبْصَارُ
+> الَّذِينَ كَفَرُوا يَاوَيْلَنَا قَدْ كُنَّا فِي غَفْلَةٍ مِنْ هَذَا
+> بَلْ كُنَّا ظَالِمِينَ
 
 ***95. “And there is a ban upon (the people of) the towns which We
 destroyed: that they shall not return.”***  
@@ -373,25 +349,13 @@ to come out from the pupil of the eyes.
 Surah Al-’Anbiya’ – Verses 98 - 100
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دوُنِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ
-لَهَا وَارِدُونَ
-  </p>
-</blockquote>
+> إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دوُنِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ
+> لَهَا وَارِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كَانَ هَؤُلآءِ ءَالِهَةً مَّا وَرَدُوهَا وَكُلٌّ فِيهَا
-خَالِدُونَ
-  </p>
-</blockquote>
+> لَوْ كَانَ هَؤُلآءِ ءَالِهَةً مَّا وَرَدُوهَا وَكُلٌّ فِيهَا
+> خَالِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لاَ يَسْمَعُونَ
-  </p>
-</blockquote>
+> لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لاَ يَسْمَعُونَ
 
 ***98. “Verily you and what you worship besides Allah shall be the fuel
 of Hell; you shall go down to it.”***  
@@ -496,12 +460,8 @@ which itself is the source of further chastisement upon them.
 Surah Al-’Anbiya’ – Verse 101
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ سَبَقَتْ لَهُم مِنَّا الْحُسْنَي اُوْلَئِكَ عَنْهَا
-مُبْعَدُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ سَبَقَتْ لَهُم مِنَّا الْحُسْنَي اُوْلَئِكَ عَنْهَا
+> مُبْعَدُونَ
 
 ***101. “Verily those for whom the good (promise) has already gone forth
 from Us, they will be kept far off from it (Hell).”***
@@ -529,12 +489,8 @@ him.”*[^11]
 Surah Al-’Anbiya’ – Verse 102
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْمَعُونَ حَسِيسَهَا وَهُمْ فِي مَا اشْتَهَتْ أَنفُسُهُمْ
-خَالِدُونَ
-  </p>
-</blockquote>
+> لاَ يَسْمَعُونَ حَسِيسَهَا وَهُمْ فِي مَا اشْتَهَتْ أَنفُسُهُمْ
+> خَالِدُونَ
 
 ***102. “They will hear the slightest sound of it, and they, in what
 their souls desire, shall abide.”***
@@ -597,12 +553,8 @@ bounties of Paradise.[^15]
 Surah Al-’Anbiya’ – Verse 103
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَحْزُنُهُمُ الْفَزَعُ الاَكْبَرُ وَتَتَلَقَّاهُمُ الْمَلآَئِكَةُ
-هَذَا يَوْمُكُمُ الَّذِي كُنتُمْ تُوعَدُونَ
-  </p>
-</blockquote>
+> لاَ يَحْزُنُهُمُ الْفَزَعُ الاَكْبَرُ وَتَتَلَقَّاهُمُ الْمَلآَئِكَةُ
+> هَذَا يَوْمُكُمُ الَّذِي كُنتُمْ تُوعَدُونَ
 
 ***103. “The Great Terror (of that Day) shall not grieve them, and the
 angels shall receive them (saying): ‘This is your day, which you were
@@ -652,13 +604,9 @@ Bisharat-ush-Shi‘ah, with the same content.
 Surah Al-’Anbiya’ – Verse 104
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَطْوِي السَّمآءَ كَطَيّ‌ِ السّـِجِلّ‌ِ لِلْكُتُبِ كَمَا
-بَدَأْنَآ أَوَّلَ خَلْقٍ نُعِيدُهُ وَعْداً عَلَيْنَآ إِنَّا كُنَّا
-فَاعِلِينَ
-  </p>
-</blockquote>
+> يَوْمَ نَطْوِي السَّمآءَ كَطَيّ‌ِ السّـِجِلّ‌ِ لِلْكُتُبِ كَمَا
+> بَدَأْنَآ أَوَّلَ خَلْقٍ نُعِيدُهُ وَعْداً عَلَيْنَآ إِنَّا كُنَّا
+> فَاعِلِينَ
 
 ***104. “The Day when We will roll up the heaven as the rolling up of
 the scroll for writing; as We originated the first creation, (so) We
@@ -736,12 +684,8 @@ heavens, because in another occurrence the Qur’an has said:
 Surah Al-’Anbiya’ – Verse 105
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذّ‌ِكْرِ أَنَّ الاَرْضَ
-يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذّ‌ِكْرِ أَنَّ الاَرْضَ
+> يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 ***105. “And We have written in the Psalms (Zabur), after the Reminder
 (the Torah), ‘My righteous servants shall inherit the earth’.”***
@@ -1304,11 +1248,7 @@ in the Islamic society.
 Surah Al-’Anbiya’ – Verse 106
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي هَذَا لَبَلاَغاً لِقَوْمٍ عَابِدِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي هَذَا لَبَلاَغاً لِقَوْمٍ عَابِدِينَ
 
 ***106. “Verily in this is a (great) message for a people (who)
 worship.”***
@@ -1340,11 +1280,7 @@ Allah before any other persons.
 Surah Al-’Anbiya’ – Verse 107
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَاكَ إِلاَّ رَحْمَةً لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَاكَ إِلاَّ رَحْمَةً لِلْعَالَمِينَ
 
 ***107. “And We sent you not save a Mercy for (all) the worlds.”***
 
@@ -1418,19 +1354,11 @@ Islam (S) as a seal of the Divine prophets.
 Surah Al-’Anbiya’ – Verses 108 - 109
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا يُوحَي إِلَيَّ أَنَّمَآ إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَهَلْ
-أَنتُم مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا يُوحَي إِلَيَّ أَنَّمَآ إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَهَلْ
+> أَنتُم مُسْلِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِن تَوَلَّوْا فَقُلْ ءَاذَنتُكُمْ عَلَي سَوَآءٍ وإِنْ أَدْرِي
-أَقَرِيبٌ أَم بَعِيدٌ مَا تُوعَدُونَ
-  </p>
-</blockquote>
+> فَإِن تَوَلَّوْا فَقُلْ ءَاذَنتُكُمْ عَلَي سَوَآءٍ وإِنْ أَدْرِي
+> أَقَرِيبٌ أَم بَعِيدٌ مَا تُوعَدُونَ
 
 ***108. “Say: ‘It is revealed to me that your God is One God; do you
 then surrender?’”***  
@@ -1599,17 +1527,9 @@ forging lies to Allah, the Exalted, and His Messenger (S).”*[^42]
 Surah Al-’Anbiya’ – Verses 110 - 111
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتمُونَ
-  </p>
-</blockquote>
+> إِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَّكُمْ وَمَتَاعٌ إِلَي حِينٍ
-  </p>
-</blockquote>
+> وإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَّكُمْ وَمَتَاعٌ إِلَي حِينٍ
 
 ***110. “Verily He knows what is spoken aloud and He knows what you
 conceal.”***  
@@ -1667,12 +1587,8 @@ sin;…”***[^43]
 Surah Al-’Anbiya’ – Verse 112
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ احْكُم بِالْحَقّ‌ِ وَرَبُّنَا الرَّحْمَنُ الْمُسْتَعَانُ
-عَلَي مَا تَصِفُونَ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ احْكُم بِالْحَقّ‌ِ وَرَبُّنَا الرَّحْمَنُ الْمُسْتَعَانُ
+> عَلَي مَا تَصِفُونَ
 
 ***112. “He said: ‘O my Lord! Judge You with truth! And our Lord is the
 Beneficent, Whose help is sought against that which you ascribe (unto
@@ -1825,5 +1741,4 @@ Sharh-i-Hal-i-Imam-uth-Thani-‘Ashar, p. 161
 [^42]: Al-Kafi, No. 8, pp. 387, 586
 
 [^43]: Surah ’Al-i-‘Imran, No. 3, verse 178
-
 

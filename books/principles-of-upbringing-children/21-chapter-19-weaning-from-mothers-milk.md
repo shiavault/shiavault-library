@@ -22,4 +22,3 @@ feeding on the mother’s milk. When the breast-feeding mother becomes
 pregnant, she should wean the child in stages and simultaneously
 introduce other foods in the diet.
 
-

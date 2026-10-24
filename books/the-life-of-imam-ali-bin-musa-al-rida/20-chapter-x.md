@@ -1,10 +1,6 @@
 Chapter X
 =========
 
-  
-
-  
-
 REASONS FOR SOME RELIGIOUS PRECEPTS AND OTHERS
 ==============================================
 
@@ -35,11 +31,6 @@ If a questioner asks: Is it permissible for the Wise One (Allah)
 ------------------------------------------------------------------------
 
 [[1]](#_F740) The 'Addliya are those who believe in Divine Justice.  
-  
-
-  
-
-  
 
 to charge a servant with one of the acts (of worship) without a cause or
 a meaning? It is said to him: That is not permissible, for He is wise,
@@ -83,11 +74,6 @@ fear anyone regarding what they desire and enjoy of
 ------------------------------------------------------------------------
 
 [[1]](#_F741) 'Uyūn Akhbār al-Ridā, vol. 2, p. 99.  
-  
-
-  
-
-  
 
 corruption and oppression, they will be corrupt, attack each other, rape
 women, plunder properties, shed blood, and killed each other without
@@ -125,16 +111,9 @@ hearts, and the faith in that Allah watches him who commits crime or sin
 with respect to his own soul and his society, and that He will severely
 punish him because of it.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F742) Ibid., p. 100.  
-  
-
-  
-
-  
 
 As man loves his own soul and seeks good for it, he normally refrains
 from any sin which leads to destruction and misery.
@@ -174,10 +153,6 @@ permissible not to obey Allah; and if it was permissible not to obey
 Allah, then that would result in: disbelief in Allah, all His messengers
 and His Books; establishing all kinds of falsehood; leaving all kinds of
 right; making lawful all kinds of the unlawful; making unlawful all  
-
-  
-
-  
 
 kinds of the lawful; entering all acts of disobedience; coming out of
 all acts of obedience; permitting all kinds of corruption; and
@@ -219,11 +194,6 @@ permissible for them to subject Him to the same (qualities)
 ------------------------------------------------------------------------
 
 [[1]](#_F743) Ibid., p. 102.  
-  
-
-  
-
-  
 
 disappearance, extinction, lying, and aggression. He who is subject to
 these things, none can give security to his extinction, have confidence
@@ -271,11 +241,6 @@ in their creation and their forces, the Maker is far above from
 
 [[1]](#_F744) Ibid., p. 103.  
  [[2]](#_F745) Ibid.  
-  
-
-  
-
-  
 
 being seen, their frailty and their feebleness to attain Him is
 manifest, there is no escape for them from an infallible messenger
@@ -313,10 +278,6 @@ the wisdom of the Wise to leave the creation without him whom He knows
 that there is no escape for them (the creation) from him (the ruler);
 nor do they subsist except through him, so they through him fight
 against their enemy and divide their booty, and he  
-
-  
-
-  
 
 establishes for them their gathering and their community, and prevents
 their oppressive from their oppressed.
@@ -357,11 +318,6 @@ make the sons of the messengers follow the sons of His
 ------------------------------------------------------------------------
 
 [[1]](#_F746) Ibid., p. 100-101.  
-  
-
-  
-
-  
 
 enemies such as Abū Jahl and Ibn Abū Miyat, for it might be permissible
 for that (i.e. the Imāmate), according to their claim, to pass to their
@@ -399,16 +355,9 @@ has transmitted these answers from him. These researches are wonderful
 and useful, for they highlight the firm reason why the Almighty
 Legislator has legislated His holy precepts, and that is as follows:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F747) Ibid., p. 102.  
-  
-
-  
-
-  
 
 ### The Ghusl of Janāba
 
@@ -448,17 +397,10 @@ therein in order that it may be magnified, preferred to all days, and an
 increase in the supererogatory prayers and the acts of worship. And that
 purity for it (the body) should be from Friday to Friday.[[2]](#_ftn749)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F748) Ibid., p. 88.  
  [[2]](#_F749) Ibid., pp. 88-89.  
-  
-
-  
-
-  
 
 It is recommended to wash on the day of Īd al-Addhā, Īd al-Fitr, Friday,
 and other religious occasions such as the day of Īd al-Ghadir, the
@@ -506,11 +448,6 @@ Islam takes great care of the dead Muslims; it summons the
 [[1]](#_F750) *Ghusl al-maiyit:* obligatory ceremonial washing of the
 corpse of a Muslim.  
  [[2]](#_F751) 'Uyūn Akhbār al-Ridā, vol. 2, p. 89.  
-  
-
-  
-
-  
 
 Muslims to escort them to their final resting places and to console
 their families on their misfortunes; it has made it incumbent,
@@ -549,16 +486,9 @@ obligatory because man becomes a mass of germs after his death;
 therefore,  it is obligatory on him who touches the cold corpse of the
 dead to wash his body in order to get rid of germs.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F752) Ibid.  
-  
-
-  
-
-  
 
 ### *Ghusl* for Urine and Feces is not obligatory
 
@@ -601,11 +531,6 @@ yellow. He was asked about that, and he answered:
 
 [[1]](#_F753) Ibid.  
  [[2]](#_F754) Ibid.  
-  
-
-  
-
-  
 
 I am going to stand before the Almighty King. So *wudū* is a
 precondition for this great act of worship, and it means freeing the
@@ -654,11 +579,6 @@ Of which is that the creatures cannot every time bear washing
 
 [[1]](#_F755) Dr. 'Abd al-'Aziz, al-Islām wa al-Tibb al-Hadith, pp.
 62-63.  
-  
-
-  
-
-  
 
 the head and the feat, and that it is difficult for them (to perform
 that) during cold, travel, illness, and times of the night and the day.
@@ -704,11 +624,6 @@ all his circumstance, and there is (nothing) in them of
 ------------------------------------------------------------------------
 
 [[1]](#_F756) 'Uyūn Akhbār al-Ridā, vol. 2, p. 104.   
-  
-
-  
-
-  
 
 submission and devotion to (Allah) just as that in the face and the
 hands.[[1]](#_ftn757)
@@ -752,11 +667,6 @@ with his Creator and Director of his affairs. In addition
 
 [[1]](#_F757) Ibid., p. 89.  
  [[2]](#_F758) Ibid., p. 103-104.  
-  
-
-  
-
-  
 
 to these profits which the Imām, peace be on him, has stated, prayer is
 the best way of providing society with creative, spiritual forces.
@@ -804,11 +714,6 @@ He, peace be on him, said: If a sayer says: Why does he
 ------------------------------------------------------------------------
 
 [[1]](#_F759) Ibid., p. 105.  
-  
-
-  
-
-  
 
 *(muadhin)* starts it *(*the *adhān)* with *takkbir* (Allah is Great!)
 before *tahlil* (there is no god but Allah)?
@@ -854,18 +759,11 @@ not heedless of the second (time). And because prayer (is performed) two
 *rakas* by two *rakas*, and for this reason (the phrases of) the *adhān*
 (are recited) two (times) by two (times).[[3]](#_ftn762)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F760) Ibid.  
  [[2]](#_F761) Ibid.  
  [[3]](#_F762) Ibid.  
-  
-
-  
-
-  
 
 Surely each of the phrases which make up the *adhān* summons men to
 good, salvation, and success. So repeating them fixes these concepts in
@@ -913,11 +811,6 @@ and
 ------------------------------------------------------------------------
 
 [[1]](#_F763) Ibid.  
-  
-
-  
-
-  
 
 prayer. Then he calls (them) to the best of actions *(khayr al-amal)*
 making them desirous of it (prayer), its action, and its performing.
@@ -960,16 +853,9 @@ He, peace be on him, said: If a sayer says: Why He has not placed the
 Allah), and the name of Allah instead of the *tahlil* at the end of it
 (the *adhān*)?
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F764) Ibid.  
-  
-
-  
-
-  
 
 It is said: Because the *tahlil* is professing the Oneness of Allah and
 removing the equals other than Allah; it is the beginning of faith and
@@ -1018,10 +904,6 @@ another sura of the Qurān in the first and second *raka* of prayer.
 
 He, peace be on him, said: If a sayer says: Why does he (the  
 
-  
-
-  
-
 worshipper) starts (prayer) with reciting (surat) al-Hamad (al-Fātiha)
 apart from the rest of the suras?
 
@@ -1068,12 +950,6 @@ disparage Him, His command, and His prohibition.
 those who go astray who have lost the (right) path without knowledge,
 while they think that they do well.
 
-  
-
-  
-
-  
-
 So it (Surat al-Hamd) contains inclusive good and wisdom regarding the
 affairs of this world and the next to the extent that nothing can
 contain them (more than it can).
@@ -1119,10 +995,6 @@ For this reason the *sujūd* has been doubled so that it may equal the
 
 He, peace be on him, said: If a sayer says: Why has the  
 
-  
-
-  
-
 supplication been placed in the first *raka* before the recitation? And
 why the *qunūt* has been in the second *raka* after the recitation?
 
@@ -1167,10 +1039,6 @@ raise his hands during the *takkbir?*
 
 It is said: Because raising the hands is a kind of supplication  
 
-  
-
-  
-
 and imploring. As for Allah, He wants His servant to supplicate and
 implore Him when he mentions Him. And because raising the hands means
 that the intention is present and the heart attends to what he says and
@@ -1211,10 +1079,6 @@ work and it is time for them to take off their clothes, take a rest,
 busy themselves with their food and their siesta, Allah has ordered them
 to start first of all with remembering and worshipping  
 
-  
-
-  
-
 Him, so He has made the noon prayer obligatory on them, then they can
 turn to what they like of that. When they finish their wish and want to
 spread for work to the end of the day, they should also begin with an
@@ -1253,10 +1117,6 @@ not all creation are able to rise for the night (prayer); nor do they
 feel it; nor are they aware of its time if it is obligatory; nor are
 they capable of that, so Allah has decreased (that for) them. He has not
 placed it in the most difficult times for them; rather He has placed  
-
-  
-
-  
 
 it in the easiest time for them; just as He, the Great and Almighty,
 says: *Allah desires ease for you, and He does not desire for you
@@ -1298,17 +1158,10 @@ congregation.
 He, peace be on him, said: If a sayer says: Why has *salāt al-sunna*
 been confined to thirty-four *rakas?*
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F765) Qur'ān, 2, 185.  
  [[2]](#_F766) Minhājj al-Sālihin, vol. 1, p. 113.  
-  
-
-  
-
-  
 
 It is said: Because the obligatory (prayers) are seventeen *rakas*, so
 *(salāt) al-sunna* has been specified twice as much as the obligatory
@@ -1354,12 +1207,6 @@ It is said: As the speech of the creatures is unlawful during entering
 prayer (that they may) turn toward the Creator, it is lawful and they
 can return (to the previous state) and begin speaking after the
 *taslim*.
-
-  
-
-  
-
-  
 
 For this reason speech is lawful after the *taslim;* the Legislator has
 made it unlawful on the worshipper to speak during prayer and other acts
@@ -1407,10 +1254,6 @@ desires the Imām to be a cause for preaching to them in order to make
 them desire the acts of obedience, fear the acts of disobedience, aware
 of what He desires (to do) for the interest of their  
 
-  
-
-  
-
 religion and their world, and to tell them about harm and profit which
 he has gained from the times and the conditions
 
@@ -1456,12 +1299,6 @@ people are more desirous of them. So if some people scatter, then most
 of them remain. They (the two Īds) are not so many that they (the
 people) are tired of them or disparage them.
 
-  
-
-  
-
-  
-
 Shaykh al-Sadūq, may Allah rest him in peace, has commented on this
 tradition, saying: The tradition has been mentioned in this manner; the
 two sermons on Friday (are before the prayer); (the two sermons of) the
@@ -1504,12 +1341,6 @@ the days. It is recommended for (the worshipper) to perform six
 during its rising, six before the declination (of the sun), and two
 *rakas* during the declination.
 
-  
-
-  
-
-  
-
 ### The Travelers Shortened Prayer
 
 He, peace be on him, said: If a sayer says: Why has prayer been
@@ -1550,10 +1381,6 @@ travel, not more?
 It is said: Because if it was not obligatory (to shorten prayer) during
 a days travel, then it would not be obligatory during a years walk, and
 that is because every day which follows this day is like this  
-
-  
-
-  
 
 day. So if it was not obligatory (to shorten prayer) on this day, then
 it was not obligatory on the like of it if the like of it was similar to
@@ -1597,12 +1424,6 @@ It is said: These two *rakas* are not of the fifty (supererogatory
 prayers); rather they are an addition to them, that each two *rakas* of
 the supererogatory prayers may complete one *raka* of the obligatory
 player.
-
-  
-
-  
-
-  
 
 The Imām, peace be on him, has mentioned that the night prayer is
 shortened during journey while its supererogatory prayer, which is two
@@ -1651,12 +1472,6 @@ prayers by day and night.
 Surely, the five *(takkbirs)* stands for the daily prayers, which are
 five.
 
-  
-
-  
-
-  
-
 #### The Prayer for the Dead without *wudū*
 
 He, peace be on him, said: Why has He (the Legislator) made it
@@ -1700,10 +1515,6 @@ their conditions, their ugly view, the change of their smell; lest the
 heart should not be cruel out of looking many times at the like of that
 of handicap and corruption, and that they may be more  
 
-  
-
-  
-
 agreeable to the souls of the living; that a bosom friend may not detest
 them, so he will cancel their names and his love (for them), so he will
 not maintain them in what they have left behind, willed, and ordered;
@@ -1745,16 +1556,8 @@ may drive away its evil from it (the community) and protect it from its
 ordeal just as He had driven away (the punishment) from the people of
 Yunus when they pleaded to Allah, the Great and Almighty.
 
-  
-
-  
-
-  
-
 For this reason the Legislator has ordered a prayer to be performed
 during an eclipse of the sun or the moon, during heavenly or earthly
 fearful things such as the black and red winds, an earthquake, and the
 like from among that which the jurists have mentioned.
-
-  
 

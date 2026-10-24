@@ -40,7 +40,6 @@ completely.
 others by justifying, denigrating and defaming them. "... would you take
 it by slandering (her) and with manifest wrong ? "
 
-
 **Commentary : Verse 21**
 
 (21) وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَى بَعْضُكُمْ إِلَى بَعْضٍ
@@ -65,5 +64,4 @@ The marriage contract is a firm covenant; therefore, breach of promise
 is not proper.
 
 "... and they have taken from you a firm covenant."
-
 

@@ -50,4 +50,3 @@ Please my Lord help me to express myself, for you grant wisdom to any
 one You wish from amongst Your faithful worshippers. Please my Lord
 grant me more knowledge and join me with righteous people.
 
-

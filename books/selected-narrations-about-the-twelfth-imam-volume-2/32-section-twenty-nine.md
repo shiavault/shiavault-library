@@ -251,4 +251,3 @@ al-Jawwān and ibn Bukair from Zurāra in numbers 7, 8, and 10; similar to
 it in Ithbāt al-hudāt, vol. 6, p. 359, no. 23, with a difference in the
 narrators and minor differences in meaning.
 
-

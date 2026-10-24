@@ -322,4 +322,3 @@ He replied, 'I have been with you since the very first day and have
 always loved you but you never sensed my presence since in the material
 world your sight lacked the power to perceive me.
 
-

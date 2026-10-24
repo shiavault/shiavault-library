@@ -13,7 +13,6 @@ parties is the management of domestic life, the numbers of the Muslims
 and the preservation of the human race: a contract of marriage often
 involves money, but this is not an essential part of it.
 
-
 **8. (a) The Marriage Agreement**
 
 Marriage is of two kinds: (1) for life; (2) temporary. As the name
@@ -420,5 +419,4 @@ The effects of his exalted teacher and guardian, Amir al-mu'minin are
 reflected in this statement of Ibn Abbas. The fact is that the Islamic
 world is rejecting this divine mercy and as a result has plunged itself
 into shameless immorality.
-
 

@@ -69,4 +69,3 @@ view Ibn 'Atiyya is a person who is rejected.[^3]
 
 [^3]: - Talkhis al-Mustadr ala al-Sahihain, vol. 3, p. 97.
 
-

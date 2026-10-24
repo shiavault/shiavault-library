@@ -11,10 +11,8 @@ the limit after this, he shall have a painful chastisement (178). And
 there is life for you in the retali­ation, 0 men of understanding, that
 you may guard your­selves (against evil) (179).
 
-
 **COMMENTARY
 **
-
 
 QUR'AN: 0 you who believe! Retaliation is prescribed for you in the
 matter of the slain; the free for the free...:

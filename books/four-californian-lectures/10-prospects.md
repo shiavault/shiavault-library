@@ -18,4 +18,3 @@ activities, and now there are hundreds of mosques in U.S.A. and
 Canada.  
   
 
-

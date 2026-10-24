@@ -418,4 +418,3 @@ note about Fatema's claiming the ' Fidak' and how it was rejected and
 how Fatema got annoyed and to whom it was that she did not even talk,
 until she departed from this world.
 
-

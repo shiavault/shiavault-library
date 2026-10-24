@@ -79,7 +79,6 @@ truthful and righteous man is a partner in the wealth of others."
 
 41
 
-
 **Aqueel As A Guest Of Ali**
 
 Aqueel arrived as a guest at the Government House in the days of the
@@ -312,5 +311,4 @@ death. The Prophet had said about him
 
 "May God bless Abu Zar! he will live alone, will die alone and shall be
 brought up alone on the Day of Resurrection."
-
 

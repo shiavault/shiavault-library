@@ -23,11 +23,7 @@ Charities
 earn than [you are of] earning that which you amass.
 
 > 5ـ إنَّكُمْ إلى إنْفاقِ مَا اكْتَسَبْتُمْ أحْوَجُ مِنْكُمْ إلَى
-<blockquote dir="rtl">
-  <p>
-اكْتِسابِ ما تَجْمَعُونَ.
-  </p>
-</blockquote>
+> اكْتِسابِ ما تَجْمَعُونَ.
 
 6. When you become penniless then do business with Allah through
 charity.
@@ -62,11 +58,7 @@ charity.
 openly is a means of increasing wealth.
 
 > 13ـ صَدَقَةُ السِّـرِّ تُكَفِّرُ الخَطيئَةَ، وَصَدَقَةُ العَلانِيَةِ
-<blockquote dir="rtl">
-  <p>
-مَثْراةٌ فِي المالِ.
-  </p>
-</blockquote>
+> مَثْراةٌ فِي المالِ.
 
 14. Charity given openly repels ill-fated death.
 
@@ -80,11 +72,7 @@ openly is a means of increasing wealth.
 and keeping ties with your near relatives.
 
 > 16ـ كَفِّرُوا ذُنُوبَكُمْ، وتَحَبَّبُوا إلى رَبِّكُمْ بِالصَّدَقَةِ،
-<blockquote dir="rtl">
-  <p>
-وَصِلَةِ الرَّحِمِ.
-  </p>
-</blockquote>
+> وَصِلَةِ الرَّحِمِ.
 
 17. Charity is a treasure.
 
@@ -117,5 +105,4 @@ and keeping ties with your near relatives.
 24. Make your weights [of good deeds] heavy with charity.
 
 > 24ـ ثَقِّلُوا مَوازينَـكُمْ بِالصَّدَقَةِ.
-
 

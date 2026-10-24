@@ -46,4 +46,3 @@ Miracles are something extraordinary which no one is capable of doing
 and Allah specifies that the miracles of His prophets are only to make
 people trust and believe them.
 
-

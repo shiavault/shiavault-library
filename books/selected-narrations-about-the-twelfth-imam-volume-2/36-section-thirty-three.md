@@ -212,4 +212,3 @@ referred to as ‘people.’
 [^9]: Ghaybat al-Nu\`mānī, chap. 10, p. 168, no. 8. I say: As we already
 mentioned above, ‘people’ refers to ‘non-Shias.’
 
-

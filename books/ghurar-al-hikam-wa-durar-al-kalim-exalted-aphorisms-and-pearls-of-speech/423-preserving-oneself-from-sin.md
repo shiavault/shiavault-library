@@ -15,4 +15,3 @@ Preserving Oneself From Sin
 
 > 3ـ مِنَ العِصْمَةِ تَعَذُّرُ المَعاصي.
 
-

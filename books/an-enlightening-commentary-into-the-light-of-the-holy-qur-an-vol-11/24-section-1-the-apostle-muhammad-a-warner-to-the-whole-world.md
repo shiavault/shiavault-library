@@ -4,20 +4,12 @@ Section 1: The Apostle Muhammad, A Warner to the Whole World
 Sura Al-Furqan - Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَي عَبْدِهِ لِيَكُونَ
-لِلْعَالَمِينَ نَذِيراً
-  </p>
-</blockquote>
+> تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَي عَبْدِهِ لِيَكُونَ
+> لِلْعَالَمِينَ نَذِيراً
 
 ***1. “Blessed is He Who sent down the Furqan (The Distinction of right
 and wrong) upon His servant that he may be a Warner to the worlds;”***
@@ -127,13 +119,9 @@ all the future generations, too.
 Sura Al-Furqan - Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالاَرْضِ وَلَمْ يَتَّخِذْ وَلَداً
-وَلَمْ يَكُن لَهُ شَرِيكٌ فِي الْمُلْكِ وَخَلَقَ كُلَّ شَيْءٍ
-فَقَدَّرَهُ تَقْدِيراً
-  </p>
-</blockquote>
+> الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالاَرْضِ وَلَمْ يَتَّخِذْ وَلَداً
+> وَلَمْ يَكُن لَهُ شَرِيكٌ فِي الْمُلْكِ وَخَلَقَ كُلَّ شَيْءٍ
+> فَقَدَّرَهُ تَقْدِيراً
 
 ***2. “He to Whom belongs the dominion of the heavens and the earth, and
 He has not taken any son (unto Himself), nor has He any partner in His
@@ -342,13 +330,9 @@ matters![^7]
 Sura Al-Furqan - Verse 3
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذُوا مِن دُونِهِ ءَالِهَةً لاَ يَخْلُقُونَ شَيْئاً وَهُمْ
-يُخْلَقُونَ وَلاَ يَمْلِكُونَ لاَنفُسِهِمْ ضَرّاً وَلاَ نَفْعاً وَلاَ
-يَمْلِكُونَ مَوْتاً وَلاَحَيَاةً وَلاَ نُشُوراً
-  </p>
-</blockquote>
+> وَاتَّخَذُوا مِن دُونِهِ ءَالِهَةً لاَ يَخْلُقُونَ شَيْئاً وَهُمْ
+> يُخْلَقُونَ وَلاَ يَمْلِكُونَ لاَنفُسِهِمْ ضَرّاً وَلاَ نَفْعاً وَلاَ
+> يَمْلِكُونَ مَوْتاً وَلاَحَيَاةً وَلاَ نُشُوراً
 
 ***3. “Yet they have taken gods, besides Him, gods that do not create
 anything while they are themselves created and they do not own for
@@ -439,12 +423,8 @@ themselves from loss and can not achieve any benefit!
 Sura Al-Furqan - Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلآَّ إِفْكٌ افْتَرَاهُ
-وَأَعَانَهُ عَلَيْهِ قَوْمٌ ءَاخَرُونَ فَقَدْ جآءُوا ظُلْماً وَزُوراً
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلآَّ إِفْكٌ افْتَرَاهُ
+> وَأَعَانَهُ عَلَيْهِ قَوْمٌ ءَاخَرُونَ فَقَدْ جآءُوا ظُلْماً وَزُوراً
 
 ***4. “And those who disbelieve say: ‘This (Qur’an) is nothing but a lie
 which he (our Apostle) has forged, and other people have helped him at
@@ -519,19 +499,11 @@ falsehood, it is called /zur/.
 Sura Al-Furqan - Verses 5-6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا أَسَاطِيرُ الاَوَّلِينَ اكْتَتَبَهَا فَهِيَ تُمْلَي عَلَيْهِ
-بُكْرَةً وَأَصِيلاً
-  </p>
-</blockquote>
+> وَقَالُوا أَسَاطِيرُ الاَوَّلِينَ اكْتَتَبَهَا فَهِيَ تُمْلَي عَلَيْهِ
+> بُكْرَةً وَأَصِيلاً
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَنزَلَهُ الَّذِي يَعْلَمُ السّـِرَّ فِي السَّمَاوَاتِ وَالاَرْضِ
-إِنَّهُ كَانَ غَفُوراً رَّحِيماً
-  </p>
-</blockquote>
+> قُلْ أَنزَلَهُ الَّذِي يَعْلَمُ السّـِرَّ فِي السَّمَاوَاتِ وَالاَرْضِ
+> إِنَّهُ كَانَ غَفُوراً رَّحِيماً
 
 ***5. “And they say: ‘(Qur’an is) the stories of the ancients he has got
 them written, so they are dictated before him morning and
@@ -624,19 +596,11 @@ the light of faith and penance.
 Sura Al-Furqan - Verses 7-8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ وَيَمْشِي فِي
-الاَسْوَاقِ لَوْلآ اُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُ نَذِيراً
-  </p>
-</blockquote>
+> وَقَالُوا مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ وَيَمْشِي فِي
+> الاَسْوَاقِ لَوْلآ اُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُ نَذِيراً
 
-<blockquote dir="rtl">
-  <p>
-أَوْ يُلْقَي إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُ جَنَّةٌ يَأْكُلُ مِنْهَا
-وَقَالَ الظَّالِمُونَ إِن تَتَّبِعُونَ إِلاَّ رَجُلاً مَّسْحُوراً
-  </p>
-</blockquote>
+> أَوْ يُلْقَي إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُ جَنَّةٌ يَأْكُلُ مِنْهَا
+> وَقَالَ الظَّالِمُونَ إِن تَتَّبِعُونَ إِلاَّ رَجُلاً مَّسْحُوراً
 
 ***7. “And they say: ‘What sort of a Messenger is this that he eats food
 and he walks about in the markets? Why has not an angel been sent down
@@ -755,5 +719,4 @@ something in one’s authority and having dominion on it.’
 [^9]: Thr word /ja’u/ means to come, but here it means to bring.
 
 [^10]: Nur-uth-Thaqalyn, Vol. 4, p. 6
-
 

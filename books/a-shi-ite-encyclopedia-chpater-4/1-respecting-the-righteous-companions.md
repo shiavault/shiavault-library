@@ -6,7 +6,6 @@ Prophet (PBUH&HF) who closely followed Prophet and the Ahlul-Bayt before
 and after death of Prophet (PBUH&HF). Among these great companions, are
 the following individuals:
 
-
 **Abu Dhar al-Ghifari**
 
 The Holy Prophet said concerning Abu Dhar al-Ghifari that "Heaven has
@@ -91,5 +90,4 @@ He was the person about whom the Prophet (PBUH&HF) said:
 knowledgeable in religion and make him from the people of belief."
 
 Sunni reference: al-Mustadrak, by al-Hakim, v3, p536
-
 

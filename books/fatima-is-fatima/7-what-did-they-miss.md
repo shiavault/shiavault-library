@@ -281,4 +281,3 @@ Imams and, from their whole lives, they only know the day of their birth
 and the night of their death and nothing more, then, the scholars are
 res­ponsible.
 
-

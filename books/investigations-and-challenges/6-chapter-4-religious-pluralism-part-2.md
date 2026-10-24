@@ -186,11 +186,7 @@ offered another solution to it. Firstly, Islam invites both Muslims and
 followers of other religions to hold intellectual discussions and
 logical discourses with one another about their beliefs:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمَوْعِظَةِ الْحَسَنَةِ
-  </p>
-</blockquote>
+> وَالْمَوْعِظَةِ الْحَسَنَةِ
 
 ***And dispute with them in a manner that is best. (16:125)***
 
@@ -232,11 +228,7 @@ any “straight path” [*sirat al-mustaqim*] and are not willing to abide
 by any sort of agreement or treaty, and if ever they sign a treaty, they
 will violate it:
 
-<blockquote dir="rtl">
-  <p>
- لَا يَرْقُبُوا فِيكُمْ إِلًّا وَلَا ذِمَّةً
-  </p>
-</blockquote>
+>  لَا يَرْقُبُوا فِيكُمْ إِلًّا وَلَا ذِمَّةً
 
 ***They will observe toward you neither kinship nor covenant. (9:8)***
 
@@ -359,18 +351,14 @@ Qur’an is like denying it in totality, no one can regard himself as a
 Muslim while not accepting a part of the Qur’an. In this regard, the
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-مَّ أَنْتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ
-فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ
-وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ
-مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ
-الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَنْ يَفْعَلُ
-ذَٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ
-الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ
-بِغَافِلٍ عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> مَّ أَنْتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ
+> فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ
+> وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ
+> مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ
+> الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَنْ يَفْعَلُ
+> ذَٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ
+> الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ
+> بِغَافِلٍ عَمَّا تَعْمَلُونَ
 
 ***What! Do you believe in part of the Book and defy another part? So
 what is the requital of those of you who do that except disgrace in the
@@ -379,15 +367,11 @@ consigned to a severer punishment. (2:85)***
 
 Elsewhere, it also says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا
-لِلْكَافِرِينَ عَذَابًا مُهِينًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا
+> لِلْكَافِرِينَ عَذَابًا مُهِينًا
 
 ***Those who disbelieve in Allah and His apostles and seek to separate
 Allah from His apostles, and say, ‘We believe in some and disbelieve in
@@ -398,19 +382,11 @@ According to us, Muslims, whatever has been conveyed to the people as
 Islam and the Qur’an from God and His Apostle (S) is thoroughly correct
 and truthful, and no falsehood and superstition have crept into it:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ لَمَّا جَاءَهُمْ ۖ وَإِنَّهُ
-لَكِتَابٌ عَزِيزٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ لَمَّا جَاءَهُمْ ۖ وَإِنَّهُ
+> لَكِتَابٌ عَزِيزٌ
 
-<blockquote dir="rtl">
-  <p>
-لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ
-تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ
+> تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
 
 ***Indeed it is an august Book. Falsehood cannot approach it, from
 before it nor from behind it. (41:41-42)***
@@ -498,14 +474,10 @@ Mary). This belief which is technically called Trinity is strongly
 condemned and confronted by Islam and the Holy Qur'an, regarding as
 unbelievers those who believe in it:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ
-وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا
-عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ
-أَلِيمٌ
-  </p>
-</blockquote>
+> لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ
+> وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا
+> عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ
+> أَلِيمٌ
 
 ***They are certainly faithless who say, ‘Allah is the third [person] of
 a trinity,’ while there is no god except the One God. If they do not
@@ -515,13 +487,9 @@ painful punishment. (5:73)***
 The Qur’an describes as extremely astonishing the Christian belief in
 God and that ‘Isa (Jesus) is the son of God:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا لَقَدْ جِئْتُمْ شَيْئًا إِدًّا
-تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ
-وَتَخِرُّ الْجِبَالُ هَدًّا
-  </p>
-</blockquote>
+> وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا لَقَدْ جِئْتُمْ شَيْئًا إِدًّا
+> تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ
+> وَتَخِرُّ الْجِبَالُ هَدًّا
 
 ***They say, ‘The All-beneficent has taken a son!’ You have certainly
 advanced something hideous! The heavens are about to be rent apart at
@@ -717,5 +685,4 @@ teaching that Christ is present “in, with, and under” the elements
 [^5]: Shimr ibn Dhū’l-Jawshan is the notorious ‘Umayyad general who
 actually murdered Imam Husayn (‘a) during the battle at Karbala’.
 [Trans.]
-
 

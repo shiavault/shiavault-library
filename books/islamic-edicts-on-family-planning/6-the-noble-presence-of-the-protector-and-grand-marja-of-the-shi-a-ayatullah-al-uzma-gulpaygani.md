@@ -37,4 +37,3 @@ take care of her husband and to act with him in a good way.”*
 
 Wasa\`il ash-Shi\`a, Volume 14, Page 115, Hadith 2
 
-

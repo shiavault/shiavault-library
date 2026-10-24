@@ -784,4 +784,3 @@ to take it for the sake of treatment.
 
 **Attention**: Taking enema with **solids** does not invalidate a fast.
 
-

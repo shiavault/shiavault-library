@@ -1152,4 +1152,3 @@ rejected. Compare this hadith of Qaz'a with the chain of hadith that I
 have quoted from the most prominent ulama’ of your sect and decide
 yourself which of the hadith you accept.
 
-

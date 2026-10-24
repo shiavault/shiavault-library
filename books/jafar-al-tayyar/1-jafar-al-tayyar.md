@@ -664,4 +664,3 @@ That night, Ja'far's children lay on their beds. They were looking at
 the sky full of stars. In the meantime, they imagined that their father
 was flying with his wings like angels.
 
-

@@ -43,4 +43,3 @@ partners is called a *mushrik*.
 also recites the Kalima but does not have faith in them at heart, and is
 inimical towards them inwardly, is called a *Munafiq*.
 
-

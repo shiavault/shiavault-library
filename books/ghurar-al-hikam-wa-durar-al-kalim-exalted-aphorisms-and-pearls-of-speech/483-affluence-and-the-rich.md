@@ -61,11 +61,7 @@ wretchedness.
 it has an intoxication that takes long to recover from.
 
 > 13ـ اِسْتَعْيذُوا بِاللّهِ مِنْ سَكْرَةِ الغِنى، فَإنَّ لَهُ سَكْرَةً
-<blockquote dir="rtl">
-  <p>
-بَعيدَةَ الإفاقَةِ.
-  </p>
-</blockquote>
+> بَعيدَةَ الإفاقَةِ.
 
 14. The richest of you are the most contented among you.
 
@@ -133,11 +129,7 @@ neighbours and keeping ties with near relatives.
 has lost them: wealth and power.
 
 > 29ـ شَيْئانِ لايُعْرَفُ قَدْرُهُما إلاّ مَنْ سَلِبَهُما: الغِنى
-<blockquote dir="rtl">
-  <p>
-والقُدْرَةُ.
-  </p>
-</blockquote>
+> والقُدْرَةُ.
 
 30. Restraining oneself from that which is in the possession of [other]
 people is present affluence.
@@ -163,35 +155,23 @@ out of the abjectness of disobedience to Allah into the honour of His
 obedience, for indeed [through this] he will find all of these.
 
 > 34ـ مَنْ سَرَّهُ الغِنى بِلامال، والعِزُّ بِلاسُلْطان، والكَثْرَةُ
-<blockquote dir="rtl">
-  <p>
-بِلا عَشيرَة، فَلْيَخْرُجْ مِنْ ذُلِّ مَعْصِيَةِ اللّهِ إلى عِزِّ
-طاعَتِهِ، فَإنَّهُ واجِدُ ذلِكَ كُلِّهِ.
-  </p>
-</blockquote>
+> بِلا عَشيرَة، فَلْيَخْرُجْ مِنْ ذُلِّ مَعْصِيَةِ اللّهِ إلى عِزِّ
+> طاعَتِهِ، فَإنَّهُ واجِدُ ذلِكَ كُلِّهِ.
 
 35. He who has been granted hopelessness in [obtaining] what people
 possess, contentment with what he is given and satisfaction with the
 divine decree has acquired affluence.
 
 > 35ـ نالَ الغِنى مَنْ رُزِقَ اليَأْسَ عَمّا في أيْدِى النّاسِ،
-<blockquote dir="rtl">
-  <p>
-والقَناعَةَ بِما أُوتِيَ، والرِّضا بِالقَضاءِ.
-  </p>
-</blockquote>
+> والقَناعَةَ بِما أُوتِيَ، والرِّضا بِالقَضاءِ.
 
 36. Do not be delighted by wealth and comfort, and do not be grieved by
 poverty and tribulation, for verily gold is tested by fire and the
 believer is tested by tribulation.
 
 > 36ـ لاتَفْرَحْ بِالغَناءِ والرَّخاءِ، ولاتَغْتَمَّ بِالفَقْرِ
-<blockquote dir="rtl">
-  <p>
-والبَلاءِ، فَإنَّ الذَّهَبَ يُجَرَّبُ بِالنّارِ، والمُؤْمِنَ يُجَرَّبُ
-بِالبَلاءِ.
-  </p>
-</blockquote>
+> والبَلاءِ، فَإنَّ الذَّهَبَ يُجَرَّبُ بِالنّارِ، والمُؤْمِنَ يُجَرَّبُ
+> بِالبَلاءِ.
 
 37. Affluence through [complete reliance on] Allah is the greatest
 affluence.
@@ -210,5 +190,4 @@ religion.
 40. No affluence [can be acquired] with mismanagement.
 
 > 40ـ لاغِنى مَعَ سُوءِ تَدْبير.
-
 

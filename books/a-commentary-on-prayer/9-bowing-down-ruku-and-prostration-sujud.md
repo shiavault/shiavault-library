@@ -15,11 +15,7 @@ The tribe of Thaqif requested that the Prophet (S) excuse them from
 performing *ruku‘* and prostration {*sujud*} in prayer, saying: “Bending
 down for us is a shame.” This verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِذَا قِيلَ لَهُمُ ارْكَعُوا لا يَرْكَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِذَا قِيلَ لَهُمُ ارْكَعُوا لا يَرْكَعُونَ ﴾
 
 ***“When they are told, ‘Bow down,’ they do not bow down!**”*[^1]
 
@@ -31,11 +27,7 @@ All-supreme,”*[^2] was revealed, the Prophet (S) ordered: “Show
 reverence to God while you are in *ruku‘* and recite this *dhikr*
 {remembrance or glorification}:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ رَبِّيَ ٱلْعَظيمِ وَ بِحَمدهِ
-  </p>
-</blockquote>
+> سُبْحانَ رَبِّيَ ٱلْعَظيمِ وَ بِحَمدهِ
 
 *Subhana rabbiya’l-‘azim wa bihamdih.*  
  “Glory be to my Lord, the Great, and praise belongs to Him.”[^3]
@@ -48,11 +40,7 @@ the stage of nearness.”[^4]
 *Ruku‘* is the means of repentance {*tawbah*}, penitence and asking
 forgiveness in the presence of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاستَغْفَرَ رَبَّهُ وَ خَرَّ رَاكِعاً وَ أَنَاب ﴾‏
-  </p>
-</blockquote>
+> ﴿ فَاستَغْفَرَ رَبَّهُ وَ خَرَّ رَاكِعاً وَ أَنَاب ﴾‏
 
 ***“Whereat he (David) pleaded with his Lord for forgiveness, and fell
 down bowing and repented.”***[^5]
@@ -552,5 +540,4 @@ traditions of the book, Kamil az-Ziyarat, Section 89 onward.
 [^57]: Musnad Ahmad ibn Hanbal, vol. 1, p. 461.
 
 [^58]: Surah Yusuf 12:100.
-
 

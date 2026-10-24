@@ -260,4 +260,3 @@ Thus, one cannot rely on this statement—regardless of its original
 wording—especially after the seeing the differences between the
 manuscripts.
 
-

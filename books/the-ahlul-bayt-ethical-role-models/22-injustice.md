@@ -287,4 +287,3 @@ PARTRIDGE
 [^11]: Quoted from Safinat ul-Bihar; 1/110. It is also recorded in Siraj
 ul-Mulouk.
 
-

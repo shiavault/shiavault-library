@@ -1,20 +1,12 @@
 The Nineteenth Talk
 ===================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura An-Nahl, 16:99)***
@@ -27,11 +19,7 @@ Allah (S.w.T.)’s suzerainty and all things big and small are His. All
 that happens is with His wish and command. As it is said in the *Sura
 an-Najm* giving examples of certain things it is said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَى
-  </p>
-</blockquote>
+> وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَى
 
 ***And that He it is Who makes (men) laugh and makes (them) weep; (Sura
 an-Najm, 53:43)***
@@ -71,7 +59,6 @@ in everything the wish of Allah (S.w.T.) is Supreme. The matters that
 are unseen will become visible only with Allah (S.w.T.)’s Wish. To
 understand this phenomenon, it will need deep thinking and wisdom.
 
-
 The Importance of Sura Al-Tawhid
 --------------------------------
 
@@ -92,7 +79,6 @@ complete understanding of and absolute faith on *Tawhid.* How could an
 ignorant person with aimless recitation of *La hawla* deserve to get the
 key to the Heaven?
 
-
 Hadrat Ibrahim (a.s.) is a Source of Pride for Those Who Trust on Allah (S.w.T.)
 --------------------------------------------------------------------------------
 
@@ -112,7 +98,6 @@ ask it of you!” Jibril asked, “From whom, then?” Hadrat Ibrahim (a.s.)
 replied, “He is aware of all my needs! I need not ask him. He is
 all-wise and He sees everything! Whatever He wishes for me, I too wish
 for the same!”
-
 
 Have We Ever Told The Truth
 ---------------------------
@@ -170,11 +155,7 @@ about the affairs of the Hereafter Allah (S.w.T.) says that for
 qualifying for the Heaven, a person’s own actions will be the yardstick
 for judgment.
 
-<blockquote dir="rtl">
-  <p>
-وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَى
-  </p>
-</blockquote>
+> وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَى
 
 ***And that man shall have nothing but what he strives for. (Sura
 an-Najm, 53:39)***
@@ -184,7 +165,6 @@ His Munificence and Kindness. Don’t brood too much on your good deeds
 that it gives rise to the instinct of pride that might go against you.
 The best course for you is to implicitly follow the Commands of Allah
 (S.w.T.).
-
 
 A Shop Without Goods on Allah (S.w.T.)’s Support
 ------------------------------------------------
@@ -250,7 +230,6 @@ is total dependence on Allah (S.w.T.), then one would know that whatever
 happened to them is with His express Wish and thank Allah (S.w.T.) under
 all circumstances!
 
-
 Weakness of Faith
 -----------------
 
@@ -294,11 +273,7 @@ dhuhu wakila”* is for everyone and the witness for this is borne by the
 other verses of the Holy Qur’an wherein the populace is addressed in
 this manner:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
 
 ***…and on Allah should you rely if you are believers. (Sura al-Maidah,
 5:23)***
@@ -314,7 +289,6 @@ Mudabbir (Wise),* Worthy of Worship and All Pervading is only Allah
 al-Af’aali*). Is it possible that even those who do not have faith in
 this might not be questioned for their lack of faith! No! In all
 circumstances firm faith on *Tawhid* is compulsory.
-
 
 Tawakkul and Counsel
 --------------------
@@ -338,18 +312,13 @@ others, hope for Allah (S.w.T.)’s Help in your matters. Always ask your
 advisers to give their right suggestions mindful of Allah (S.w.T.)’s
 Wish in the matter.
 
-
 If There is no Tawakkul There is no Faith
 -----------------------------------------
 
 Ardabili says that one who has not acquired *Tawakkul* has deprived
 himself of Faith. Because Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
 
 ***…and on Allah should you rely if you are believers. (Sura al-Maidah,
 5:23)***
@@ -362,7 +331,6 @@ own view or the advice of others more than the Will of Allah (S.w.T.)
 then you have distanced yourself from Him. In these circumstances you
 have ceased to be a believer*,* then what is the question of your
 practicing *Tawakkul?*
-
 
 Tall Claims Belittle a Person
 -----------------------------
@@ -382,7 +350,6 @@ bile. He therefore drank some lime- juice. He thought that this
 treatment would give him comfort. But by *Asr* he was really put to
 rest! He had expired!
 
-
 Don’t Trust Your Own Intuition
 ------------------------------
 
@@ -401,24 +368,15 @@ Briefly, if there is no *Tawakkul,* there isn’t Faith. The meaning of
 Allah (S.w.T.) then he depends on others for the solution to his
 problems.
 
-
 The Twentieth Talk
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura an-Nahl, 16:99)***
@@ -428,12 +386,8 @@ In the last talk we have discussed the observation of the Researcher
 Ardabili on the subject of *Tawakkul.* The 158th Verse of Sura Aal Imran
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللّهِ
-إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ
-  </p>
-</blockquote>
+> وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللّهِ
+> إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ
 
 ***…so when you have decided, then place your trust in Allah; surely
 Allah loves those who trust*** ***(Him). (Sura Aal Imran, 3:158)***
@@ -563,7 +517,6 @@ Allah (S.w.T.) issues His Orders through the circumstances. Sometimes He
 does it without any recourse to circumstances to prove His
 Omnipotence!
 
-
 Imam Ja’far as-Sadiq (a.s.) and the Tiger
 -----------------------------------------
 
@@ -579,7 +532,6 @@ The researcher Ardabili says that at such times the Imam, through
 inspiration (*Ilham)* knows that Allah (S.w.T.) will give relief in such
 situations without any reason. He also knows that such acts are
 exceptional. Therefore, they cannot be applied everywhere as a rule.
-
 
 Other Meanings Of Tawakkul
 --------------------------
@@ -597,7 +549,6 @@ Master of all gain or loss is none other than Allah (S.w.T.). In another
 place it is said that one should not expect anything from anyone but
 Allah (S.w.T.). The true sense of *Tawakkul* is not derived from these
 statements.
-
 
 The Existence of Cause is Not Permanent
 ---------------------------------------
@@ -645,5 +596,4 @@ Allah (S.w.T.)’s will and pleasure. One should depend only on Allah
 (S.w.T.). Don’t the people who object to saying “Ya Muhammad”, “Ya ‘Ali”
 realize that everyday they call several persons other than Allah
 (S.w.T.)!
-
 

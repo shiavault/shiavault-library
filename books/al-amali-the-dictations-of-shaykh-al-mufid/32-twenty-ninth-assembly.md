@@ -156,4 +156,3 @@ recite the following poem by al-Mazani*:
  Of the quick reprieve from Allah, from the source I never knew."  
  And may Allah bless our master Muhammad and his pure progeny
 
-

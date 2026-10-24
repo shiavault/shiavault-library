@@ -337,4 +337,3 @@ cautious of your religion in what you desire (for him)."
 And all praise for Allah, the Lord of the Universe. And may Allah bless
 our master Muhammad and his progeny.
 
-

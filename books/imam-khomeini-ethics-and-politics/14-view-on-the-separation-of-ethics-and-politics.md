@@ -332,11 +332,7 @@ behaving morally, they will also wash their hands of ethics, just as
 Sa‘dī says:  
   
 
-<blockquote dir="rtl">
-  <p>
-ﺍﮔﺮ ﺯﺒﺎﻍ ﺮﻋﻴﺖﻤﻠﮏ ﺧﻭﺮﺪﺴﻴﺒﻰ         ﺒﺮﺁﻭﺮﻧﺪﻏﻼﻤﺎﻦ ﺍﻭﺪﺮﺨﺖ ﺍﺯ ﺒﻴﺦ
-  </p>
-</blockquote>
+> ﺍﮔﺮ ﺯﺒﺎﻍ ﺮﻋﻴﺖﻤﻠﮏ ﺧﻭﺮﺪﺴﻴﺒﻰ         ﺒﺮﺁﻭﺮﻧﺪﻏﻼﻤﺎﻦ ﺍﻭﺪﺮﺨﺖ ﺍﺯ ﺒﻴﺦ
 
 *If the monarch were to eat a single apple from the garden of a
 peasant,*
@@ -1337,5 +1333,4 @@ Imām Khomeinī’s views in this regard is the subject of the next
 chapter.   
     
   
-
 

@@ -51,4 +51,3 @@ real sense, then we will realize whether we need System of Wilayat or
 other systems to govern the society. The Holy Quran too refers to this
 same point in context with the narration of a story.
 
-

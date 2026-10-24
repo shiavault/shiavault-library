@@ -27,4 +27,3 @@ against the Shi’a, concerning whom they have little or no information,
 and sometimes go to extreme by labeling them apostates who should be
 killed.
 
-

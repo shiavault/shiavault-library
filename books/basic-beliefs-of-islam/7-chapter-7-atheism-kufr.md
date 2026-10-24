@@ -204,4 +204,3 @@ creation.
 phenomena.
 4 - Scientists should invite people to worship God
 
-

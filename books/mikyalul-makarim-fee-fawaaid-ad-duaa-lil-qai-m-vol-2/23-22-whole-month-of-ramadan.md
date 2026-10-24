@@ -44,12 +44,8 @@ month quoted in Iqbal and Zaadul Maad from the fourth Imam, Imam Zainul
 Abideen (as) and his son, Imam Muhammad Baqir (as) which begins as
 follows:
 
-<blockquote dir="rtl">
-  <p>
- اللهم هذا شهر رمضان، وفيه: أسألك.. ان تنصر وصي محمد، وخليفة محمد،
-والقائم بالقسط من أوصياء محمد، صلواتك عليه وعليهم، اعطف عليهم نصرك...
-  </p>
-</blockquote>
+>  اللهم هذا شهر رمضان، وفيه: أسألك.. ان تنصر وصي محمد، وخليفة محمد،
+> والقائم بالقسط من أوصياء محمد، صلواتك عليه وعليهم، اعطف عليهم نصرك...
 
 O Allah, this is the month of Ramadan… I ask You to help the vicegerent
 of Muhammad and the successor of Muhammad and the one who will establish
@@ -65,12 +61,8 @@ and go on repeating it as much as you can. So much so, that you learn it
 by heart for your life. Thus after praise and glorification of the
 Almighty Allah recite as follows:
 
-<blockquote dir="rtl">
-  <p>
- اللهم كن لوليك فلان ابن فلان في هذه الساعة، وفي كل ساعة وليا، وحافظا،
-وناصرا، ودليلا، وقائدا، وعينا، حتى تسكنه أرضك طوعا، وتمتعه فيها طويلا.
-  </p>
-</blockquote>
+>  اللهم كن لوليك فلان ابن فلان في هذه الساعة، وفي كل ساعة وليا، وحافظا،
+> وناصرا، ودليلا، وقائدا، وعينا، حتى تسكنه أرضك طوعا، وتمتعه فيها طويلا.
 
 O Allah You be for so and so, at this hour and at every hour a Guardian,
 a protector, a leader, a helper, a guide and a protector, so that he is
@@ -93,11 +85,7 @@ Qur’an through his own chain of narrators from Imam Ja’far Sadiq (as)
 from the Holy Prophet (S) that he said: The Qur’an was revealed on the
 23rd of the month of Ramadan.[^3] This tradition, along with the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
 
 ***Surely We revealed it on the grand night. (Qur’an, Surah Qadr
 97:1)***
@@ -112,19 +100,15 @@ mentioned Dua in expanded version from Al-Mazmaar of Sayyid Ibne Tawoos
 > اللهم كن لوليك القائم بأمرك الحجة بن الحسن المهدي عليه وعلى آبائه أفضل
 > الصلاة والسلام في هذه الساعة وفي كل ساعة وليا، وحافظا، وقائدا وناصرا،
 > ودليلا، ومؤيدا (27) حتى تسكنه أرضك طوعا وتمتعه فيها طولا وعرضا وتجعله
-<blockquote dir="rtl">
-  <p>
-وذريته من الأئمة الوارثين، اللهم انصره وانتصر به واجعل النصر منك له،
-وعلى يده، واجعل النصر له، والفتح على وجهه، ولا توجه الأمر إلى غيره.
-اللهم أظهر به دينك وسنة نبيك (صلى الله عليه وآله) حتى لا يستخفي بشئ من
-الحق مخافة أحد من الخلق اللهم إني أرغب إليك في دولة كريمة تعز بها
-الإسلام وأهله، وتذل بها النفاق وأهله، وتجعلنا فيها من الدعاة إلى
-طاعتك، والقادة إلى سبيلك وآتنا في الدنيا حسنة وفي الآخرة حسنة وقنا
-عذاب النار، واجمع لنا خير الدارين، واقض عنا جميع ما تحب فيهما، واجعل
-لنا في ذلك الخيرة برحمتك ومنك في عافية آمين رب العالمين، وزدنا من
-فضلك، ويدك الملأى فإن كل معط ينقص من ملكه، وعطاؤك يزيد في ملكك. 
-  </p>
-</blockquote>
+> وذريته من الأئمة الوارثين، اللهم انصره وانتصر به واجعل النصر منك له،
+> وعلى يده، واجعل النصر له، والفتح على وجهه، ولا توجه الأمر إلى غيره.
+> اللهم أظهر به دينك وسنة نبيك (صلى الله عليه وآله) حتى لا يستخفي بشئ من
+> الحق مخافة أحد من الخلق اللهم إني أرغب إليك في دولة كريمة تعز بها
+> الإسلام وأهله، وتذل بها النفاق وأهله، وتجعلنا فيها من الدعاة إلى
+> طاعتك، والقادة إلى سبيلك وآتنا في الدنيا حسنة وفي الآخرة حسنة وقنا
+> عذاب النار، واجمع لنا خير الدارين، واقض عنا جميع ما تحب فيهما، واجعل
+> لنا في ذلك الخيرة برحمتك ومنك في عافية آمين رب العالمين، وزدنا من
+> فضلك، ويدك الملأى فإن كل معط ينقص من ملكه، وعطاؤك يزيد في ملكك.
 
 O Allah, be for Your Wali, one who will rise up with Your command, the
 Hujjat Ibnil Hasan al-Mahdi, upon him and his forefathers, the best of
@@ -155,5 +139,4 @@ Your bestowals increase Your kingdom.
 [^2]: Al-Kafi, Vol. 4, Pg. 162
 
 [^3]: Usool Kafi; Muhammad bin Yaqoob Kulaini; Vol. 2/629
-
 

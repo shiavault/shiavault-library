@@ -228,4 +228,3 @@ It is possible that what is called motion in quantity is really a set of
 spatial motions, instantaneous connections and disconnections, or
 instantaneous generation and corruption.
 
-

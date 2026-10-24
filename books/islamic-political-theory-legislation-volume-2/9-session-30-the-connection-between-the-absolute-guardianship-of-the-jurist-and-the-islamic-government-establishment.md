@@ -227,24 +227,16 @@ established whenever the said government is headed by the Prophet (*s*)
 or an infallible Imam. This ideal option has been explicitly emphasized
 by God in the Noble Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ ...﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ ...﴾
 
 ***“O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you…”***[^1]
 
 In another verse, He says thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانتَهُوا...﴾
-  </p>
-</blockquote>
+> ﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانتَهُوا...﴾
 
 “Take whatever the Apostle give you, and relinquish whatever he forbids
 you...”[^2]
@@ -437,11 +429,7 @@ shall acquire legitimacy through his permission and approval. If it is
 not so, then it is the government of falsehood and taghut, and as the
 Qur’an states,
 
-<blockquote dir="rtl">
-  <p>
-﴿...فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ الضَّلاَلُ﴾
-  </p>
-</blockquote>
+> ﴿...فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ الضَّلاَلُ﴾
 
 “…So what is there without the truth except error?”[^4]
 
@@ -464,14 +452,10 @@ them from referring to a *taghut* or tyrant ruler but instead ordered
 them to refer to the narrators of *hadith*s, religious scholars and
 experts, saying:
 
-<blockquote dir="rtl">
-  <p>
-...فَإِنّي قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِمًا، فَإِذَا حَكَمَ
-بِحُكْمِنَا فَلَمْ يَقْبَلْهُ مِنْهُ فَإِنَّمَا إسْتَخَفَّ بِحُكْمِ
-اللهِ وَ عَلَيْنَا رَدَّهُ وَالرَّادُّ عَلَيْنَا الرَّادُّ عَلىٰ اللهِ
-وَ هُوَ عَلىٰ حَدِّ الشِّرْكِ بِاللهِ...
-  </p>
-</blockquote>
+> ...فَإِنّي قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِمًا، فَإِذَا حَكَمَ
+> بِحُكْمِنَا فَلَمْ يَقْبَلْهُ مِنْهُ فَإِنَّمَا إسْتَخَفَّ بِحُكْمِ
+> اللهِ وَ عَلَيْنَا رَدَّهُ وَالرَّادُّ عَلَيْنَا الرَّادُّ عَلىٰ اللهِ
+> وَ هُوَ عَلىٰ حَدِّ الشِّرْكِ بِاللهِ...
 
 “…For I appoint him as judge over you. Anyone who rejects his judgment
 is as if he belittles the judgment of Allah and rejects us, and anyone
@@ -521,12 +505,8 @@ and servitude, is a polytheist. The same kind of polytheism was
 committed by Satan who recognized God as the One and Only Creator and
 His ontological Lordship. As such, he said:
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لأُزَيِّنَنَّ لَهُمْ فِي الأَرْضِ
-وَلأُغْوِيَنَّهُمْ أَجْمَعِينَ﴾
-  </p>
-</blockquote>
+> ﴿قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لأُزَيِّنَنَّ لَهُمْ فِي الأَرْضِ
+> وَلأُغْوِيَنَّهُمْ أَجْمَعِينَ﴾
 
 “He said: My Lord! As You have consigned me to perversity, I will surely
 glamorize [evil] for them on earth, and will surely pervert them
@@ -698,5 +678,4 @@ http://www.al-islam.org/islamicgovernment [Trans.]
 p.34.
 
 [^6]: Surah al-Hijr 15:39.
-
 

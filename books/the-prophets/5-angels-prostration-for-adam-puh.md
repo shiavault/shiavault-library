@@ -204,4 +204,3 @@ one origin which is the sand, which is the origin of mud, and so God
 informed us that he made him out of sand, then made it into mud, then
 transferred into black mud and finally as clay.
 
-

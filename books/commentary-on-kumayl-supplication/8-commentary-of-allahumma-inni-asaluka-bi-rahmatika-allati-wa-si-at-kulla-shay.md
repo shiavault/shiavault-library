@@ -1,11 +1,7 @@
 Commentary of: “Allahumma Inni Asaluka bi rahmatika allati wa si’at kulla shay”
 ===============================================================================
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إنّي أسْألُكَ بِرَحْمَتِكَ الَّتي وَسِعَتْ كُلَّ شَيءٍ
-  </p>
-</blockquote>
+> اَللَّهُمَّ إنّي أسْألُكَ بِرَحْمَتِكَ الَّتي وَسِعَتْ كُلَّ شَيءٍ
 
 *O Allah! I ask you by your Mercy that envelops everything,*
 
@@ -103,12 +99,8 @@ atoms are the building blocks of this world. No one knows how the
 material and building blocks of the world was formed, and how they were
 created, but the Almighty God:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَشْهَدْتُهُمْ خَلْقَ السَّمَاوَاتِ وَالأَرْضِ وَلا خَلْقَ
-أَنفُسِهِمْ.
-  </p>
-</blockquote>
+> مَا أَشْهَدْتُهُمْ خَلْقَ السَّمَاوَاتِ وَالأَرْضِ وَلا خَلْقَ
+> أَنفُسِهِمْ.
 
 ***I made them not witness the creation of the heavens and the earth,
 not their own creation. (18:51)***
@@ -118,11 +110,7 @@ after lengthy studies is that: the building blocks for creation of the
 world were gas and smoke particles wandering in the space, which were so
 scattered that they hardly ever crossed each other.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ.
-  </p>
-</blockquote>
+> ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ.
 
 ***Then turned He to the heaven when it was smoke (41:11)***
 
@@ -150,11 +138,7 @@ particles around it. The giant gig moved on and absorbed the gasses
 toward the center, until an enormous shining ball was created in the
 form of the sun:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا.
-  </p>
-</blockquote>
+> وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا.
 
 ***And hath made the moon a light therein, and made the sun a lamp.
 (71:16)***
@@ -221,21 +205,13 @@ Different Stages in the Creation of Man
 The holy Qur’an has considered the creation of human fetus as happening
 in stages:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ خَلَقَكُمْ أَطْوَارًا.
-  </p>
-</blockquote>
+> وَقَدْ خَلَقَكُمْ أَطْوَارًا.
 
 ***When He created you by (diverse) stages? (71:14)***
 
 ### The first Stage: Soil
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الإِنسَانَ مِنْ سُلالَةٍ مِنْ طِينٍ.
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الإِنسَانَ مِنْ سُلالَةٍ مِنْ طِينٍ.
 
 ***We created man of an extraction of clay. (23:12)***
 
@@ -249,11 +225,7 @@ animals and plants, and then reproducing.
 
 ### The Second Stage: Water
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ مِنْ الْمَاءِ بَشَرًا.
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ مِنْ الْمَاءِ بَشَرًا.
 
 ***And He it is Who created man from water… (25:54)***
 
@@ -274,11 +246,7 @@ tools, stated:” It is *He* who created man from water.”
 
 ### The Third Stage: Alaq
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الإِنسَانَ مِنْ عَلَقٍ.
-  </p>
-</blockquote>
+> خَلَقَ الإِنسَانَ مِنْ عَلَقٍ.
 
 ***He Createth man from a clot. (96:2)***
 
@@ -298,11 +266,7 @@ facilitates the transfer of the ovums to the womb.
 
 ### The fourth Stage: Creation from a Despised Fluid
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ.
-  </p>
-</blockquote>
+> ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ.
 
 ***Then He made his progeny from a draught of despised fluid. (32:8)***
 
@@ -322,11 +286,7 @@ enter the ovum and then a twin fetus is produced in the female womb.
 
 ### The Fifth Stage: Amshaj (the Zygote)
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا خَلَقْنَا الإِنسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ.
-  </p>
-</blockquote>
+> إِنَّا خَلَقْنَا الإِنسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ.
 
 ***Verily We created Man from a drop of mingled sperm… (76:2)***
 
@@ -344,12 +304,8 @@ makes a cell mass.
 
 ### The Sixth Stage: the Shaping of the Fetus
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الأَسْمَاءُ
-الْحُسْنَى.
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الأَسْمَاءُ
+> الْحُسْنَى.
 
 ***He is Allah the Creator the Evolver the Bestower of Forms. To Him
 belong the Most Beautiful Names. (59:24)***
@@ -372,12 +328,8 @@ of His creation.
 
 ### The Seventh Stage: Placing the fetus in Three Veils
 
-<blockquote dir="rtl">
-  <p>
-يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي
-ظُلُمَاتٍ ثَلاثٍ.
-  </p>
-</blockquote>
+> يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي
+> ظُلُمَاتٍ ثَلاثٍ.
 
 ***…He makes you in the wombs of your mothers in stages one after
 another in three veils of darkness… (39:6)***
@@ -400,11 +352,7 @@ it. This is Allah’s Mercy toward the human fetus.
 
 ### The Eighth Stage: Breathing Spirit
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ.
-  </p>
-</blockquote>
+> ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ.
 
 ***… and then produced it another creation. So blessed be Allah, the
 Best of Creators! (23:14)***
@@ -419,11 +367,7 @@ his/her mother’s breast immediately after birth.
 
 ### The Ninth Stage: Birth
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهَاتِكُمْ.
-  </p>
-</blockquote>
+> وَاللَّهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهَاتِكُمْ.
 
 ***It is He who brought you forth from the wombs of your mothers…
 (16:78)***
@@ -447,11 +391,7 @@ no mediator![^5]
 These are all signs of Allah’s unlimited Mercy and human beings should
 hence be grateful of His blessings wholeheartedly and call out:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّى أَسْألُكَ بِرَحْمَتِكَ الَّتِى وَسِعَتْ كُلَّ شَيٍْء
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّى أَسْألُكَ بِرَحْمَتِكَ الَّتِى وَسِعَتْ كُلَّ شَيٍْء
 
 A Manifestation of Allah’s Mercy
 --------------------------------
@@ -749,13 +689,9 @@ compensation, Allah will forgive him. It is recommended that repentance
 should be accompanied by *du’a’* Kumayl on Thursday night; the night of
 Mercy and the descent of Allah’s Blessings to the servants.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا
-تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا
+> تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
 
 ***Say: O my people who have been prodigal against yourselves, do not
 despair of God’s mercy; surely God forgives sins altogether; surely He
@@ -764,84 +700,44 @@ is the All-forgiving, the All-compassionate. (39:53)***
 There are so many verses in the holy Qur’an that end with the phrases
 such as:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
 
 ***Allah is All-forgiving, All-compassionate. (2:173)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ رَءُوفٌ بِالْعِبَادِ.
-  </p>
-</blockquote>
+> وَاللَّهُ رَءُوفٌ بِالْعِبَادِ.
 
 ***Allah is gentle with His servants. (2:207)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ.
-  </p>
-</blockquote>
+> وَاللَّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ.
 
 ***Allah invites into the Garden, and forgiveness by His grace.
 (2:221)***
 
-<blockquote dir="rtl">
-  <p>
-أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ.
-  </p>
-</blockquote>
+> أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ.
 
 ***And know that Allah is All-forgiving, All-clement. (2:253)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ.
-  </p>
-</blockquote>
+> وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ.
 
 ***But Allah singles out for His Mercy whom He will. (2:105)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ.
-  </p>
-</blockquote>
+> وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ.
 
 ***And Allah is of infinite bounty. (2:105)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا.
 
 ***Allah is All-pardoning, All-forgiving. (4:43)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ كَانَ تَوَّابًا رَحِيمًا.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ كَانَ تَوَّابًا رَحِيمًا.
 
 ***Allah is Relenting, Merciful. (4:16)***
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ أَرْحَمُ الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> وَهُوَ أَرْحَمُ الرَّاحِمِينَ.
 
 ***And He is the Most Merciful of those who show mercy. (12:64)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ.
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ.
 
 ***Surely your Lord is liberal in forgiving (53:32).***
 
@@ -949,12 +845,8 @@ shrouding it.” Malik answered: “O Allah! He was among the impious
 people. How could he become so near to You?” He was answered: “When
 dying, that sinner wept and said:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ لَهُ الدُّنْيا وَالآخِرَةُ ارْحَمْ مَن لَيسَ لَهُ الدُّنْيَا
-وَالآخِرَةُ!
-  </p>
-</blockquote>
+> يَا مَنْ لَهُ الدُّنْيا وَالآخِرَةُ ارْحَمْ مَن لَيسَ لَهُ الدُّنْيَا
+> وَالآخِرَةُ!
 
 ***‘O the Master of this world and the Hereafter! Pity the one who has
 nothing in the world nor in the Hereafter!’***
@@ -1166,5 +1058,4 @@ recorded.
 [^20]: “ويفعل الله ما يشاء”(14:27).
 
 [^21]: The exegesis of fatihat Al-Kitab: 107.
-
 

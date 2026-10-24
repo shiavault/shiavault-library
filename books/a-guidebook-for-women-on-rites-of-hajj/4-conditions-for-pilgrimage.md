@@ -11,14 +11,10 @@ sin. Not accepting it as an obligatory part of Islam is blasphemy.
 
 Allah (swt) says in Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ
-آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
-إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ
-الْعَالَمِينَ.
-  </p>
-</blockquote>
+> فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ
+> آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
+> إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ
+> الْعَالَمِينَ.
 
 ***"In*** ***it*** ***are clear signs, the standing place of Abraham,
 and whoever enters it shall be secure, and pilgrimage to the House is
@@ -200,5 +196,4 @@ condition.
 
 **Gift:** If her husband, father or any other relative is willing to
 provide funds then pilgrimage becomes obligatory.
-
 

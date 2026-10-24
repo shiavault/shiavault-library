@@ -5,22 +5,14 @@ Question 25: Is to resort to the divine saints {awliya’} for mediation {tawass
 with God.  
  Ibn Manzur thus says in *Lisan al-‘Arab*:
 
-<blockquote dir="rtl">
-  <p>
-"توسل إليه بكذا تقرب إليه بحرمة أصرةٍ تعطفه عليه."
-  </p>
-</blockquote>
+> "توسل إليه بكذا تقرب إليه بحرمة أصرةٍ تعطفه عليه."
 
 “If you resort to others for mediation; that is, respect and honor them,
 they will treat you tenderly.”[^1]  
  The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ وَابْتَغُواْ إِلَيهِ
-الْوَسِيلَةَ وَجَاهِدُواْ فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ وَابْتَغُواْ إِلَيهِ
+> الْوَسِيلَةَ وَجَاهِدُواْ فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ ﴾
 
 ***“O you who have faith! Be wary of Allah, and seek the means of
 recourse to Him, and wage jihad in His way, so that you may be
@@ -29,11 +21,7 @@ felicitous.”***[^2]
 In his *Sihah* *al-Lughah*, Jawhari describes “*wasilah*” {means} in
 this manner:
 
-<blockquote dir="rtl">
-  <p>
-"الوسيلة ما يتقرّب به إلى الغير."
-  </p>
-</blockquote>
+> "الوسيلة ما يتقرّب به إلى الغير."
 
 “*Wasilah* {means} is something through which one seeks nearness to
 another.”
@@ -51,20 +39,12 @@ Types of tawassul
 **1.** *Tawassul* by performing righteous deeds, as stated by Jalal
 ad-Din as-Suyuti who expounds on the noble verse,
 
-<blockquote dir="rtl">
-  <p>
-"وابتغوا إليه الوسيلة."
-  </p>
-</blockquote>
+> "وابتغوا إليه الوسيلة."
 
 ***“And seek the means of recourse to Him”*****:**
 
-<blockquote dir="rtl">
-  <p>
-عن قتادة في قوله تعالى: "وابتغوا إليه الوسلية" قال: تقربوا إلى الله
-بطاعته والعمل بما يرضيه."
-  </p>
-</blockquote>
+> عن قتادة في قوله تعالى: "وابتغوا إليه الوسلية" قال: تقربوا إلى الله
+> بطاعته والعمل بما يرضيه."
 
 “Qatadah said concerning the verse, *“And seek the means of recourse to
 Him”*: Seeking nearness to God by obeying Him and doing that which
@@ -74,13 +54,9 @@ pleases Him.”[^3]
 God), as the Holy Qur’an recounts in the tongue of the brothers of Yusuf
 (Joseph) (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالُواْ يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
-خَاطِئِينَ ٭ قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّيَ إِنَّهُ هُوَ
-الْغَفُورُ الرَّحِيمُ ﴾
-  </p>
-</blockquote>
+> ﴿ قَالُواْ يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
+> خَاطِئِينَ ٭ قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّيَ إِنَّهُ هُوَ
+> الْغَفُورُ الرَّحِيمُ ﴾
 
 ***“They said, ‘Father! Plead {with Allah} for forgiveness of our sins!
 We have indeed been erring’. He said, ‘I shall plead with my Lord to
@@ -102,15 +78,11 @@ Companions of the Messenger of Allah (S) and great figures of Islam:
 1. Ahmad ibn Hanbal thus narrates in his *Musnad* on the authority of
 ‘Uthman ibn Hunayf:
 
-<blockquote dir="rtl">
-  <p>
-"إن رجلا ضرير البصر أتى النبيّ صلى الله عليه وأله وسلم فقال: ادع الله
-أن يعافيني ، قال: إن شئت دعوت لك وإن شئت أخرت ذاك فهو خير ، فقال:
-أدعه. فأمره أن يتوضأ فيحسن وضوئه فيصلّي ركعتين ويدعو بهذا الدعاء:
-اللهم إني أسألك وأتوجه إليك بنبيّك محمد نبيّ الرحمة يا محمد إني توجهت
-بك إلى ربي في حاجتي هذه ، فتقضى لي اللهم شفعه فيّ."
-  </p>
-</blockquote>
+> "إن رجلا ضرير البصر أتى النبيّ صلى الله عليه وأله وسلم فقال: ادع الله
+> أن يعافيني ، قال: إن شئت دعوت لك وإن شئت أخرت ذاك فهو خير ، فقال:
+> أدعه. فأمره أن يتوضأ فيحسن وضوئه فيصلّي ركعتين ويدعو بهذا الدعاء:
+> اللهم إني أسألك وأتوجه إليك بنبيّك محمد نبيّ الرحمة يا محمد إني توجهت
+> بك إلى ربي في حاجتي هذه ، فتقضى لي اللهم شفعه فيّ."
 
 A blind man came to the Prophet (S) and said: “Pray for me and ask God
 to cure me.” Upon hearing this he said: “I will pray for you if you want
@@ -130,12 +102,8 @@ tradition is authentic.” In the book, *Abwab al-Ad‘iyyah*, Tirmidhi
 confirms the authenticity of this tradition. Also Muhammad Nasib
 ar-Rafa‘i says in *At-Tawassul ila* *Haqiqah at-Tawassul*:
 
-<blockquote dir="rtl">
-  <p>
-"لا شك أن هذا الحديث صحيح ومشهور وقد ثبت فيه بلا شك ولا ريب ارداد بصر
-الأعمى بدعاء رسول الله صلى الله عليه وأله وسلم له."
-  </p>
-</blockquote>
+> "لا شك أن هذا الحديث صحيح ومشهور وقد ثبت فيه بلا شك ولا ريب ارداد بصر
+> الأعمى بدعاء رسول الله صلى الله عليه وأله وسلم له."
 
 “There is no doubt that this *hadith* is authentic and known… and it
 proves that through the supplication of the Messenger of Allah (S) the
@@ -150,13 +118,9 @@ divine people and those who have proximity to God.
 
 2. Abu ‘Abd Allah al-Bukhari thus says in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-"إن عمر بن الخطاب رضى الله عنه كان إذا قحطوا إستسقى بالعباس بن عبد
-المطلب فقال: اللهم إنا كنا نتوسل إليك بنبيّنا فتسقينا وإنا نتوسل إليك
-بعم نبيّنا فاسقنا. فقال: فيسقون."
-  </p>
-</blockquote>
+> "إن عمر بن الخطاب رضى الله عنه كان إذا قحطوا إستسقى بالعباس بن عبد
+> المطلب فقال: اللهم إنا كنا نتوسل إليك بنبيّنا فتسقينا وإنا نتوسل إليك
+> بعم نبيّنا فاسقنا. فقال: فيسقون."
 
 Every time there was draught, ‘Umar ibn al-Khattab would pray for rain
 seeking mediation through ‘Abbas ibn ‘Abd al-Muttalib (uncle of the
@@ -172,12 +136,8 @@ the Prophet (S) as the mediator between them and God.
 Sawad ibn Qarib recited a poem before the Holy Prophet (S) and he thus
 said:
 
-<blockquote dir="rtl">
-  <p>
-وأشهد أن لا رب غيره وأنك مأمون على كل غالب وأنك أدنى المرسلين وسيلة
-إلى الله يا بن الأكرمين الأطائب.
-  </p>
-</blockquote>
+> وأشهد أن لا رب غيره وأنك مأمون على كل غالب وأنك أدنى المرسلين وسيلة
+> إلى الله يا بن الأكرمين الأطائب.
 
 *And I bear witness that there is no god but Him and that you are indeed
 entrusted with all the hidden,*  
@@ -190,29 +150,13 @@ neither stopped him from reciting it nor accused him of polytheism
  In the two lines we quote below, Imam ash-Shafi‘i also points to this
 fact:
 
-<blockquote dir="rtl">
-  <p>
-أل النبيّ ذريعتي
-  </p>
-</blockquote>
+> أل النبيّ ذريعتي
 
-<blockquote dir="rtl">
-  <p>
-هم إليه وسيلتي
-  </p>
-</blockquote>
+> هم إليه وسيلتي
 
-<blockquote dir="rtl">
-  <p>
-أرجو بهم أعطي غداً
-  </p>
-</blockquote>
+> أرجو بهم أعطي غداً
 
-<blockquote dir="rtl">
-  <p>
-بيدي اليمين صحيفتي
-  </p>
-</blockquote>
+> بيدي اليمين صحيفتي
 
 *The progeny of the Prophet are my means {wasilah} to God.*  
 *I hope that I will for their sake be given my account-book in my right
@@ -253,5 +197,4 @@ al-Istisqa’,” p. 27.
 quoting from Tabrani.
 
 [^9]: Ibn Hajar al-‘Asqalani, As-Sawa‘iq al-Muhriqah (Cairo), p. 178.
-
 

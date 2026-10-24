@@ -48,4 +48,3 @@ the use, and in the interests of, His creation.
 
 *To Allah belongs what is in the East and the West.*
 
-

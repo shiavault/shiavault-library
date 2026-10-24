@@ -533,7 +533,7 @@ government of Abu Bakr and asked the Muslims to overthrow it.
 
 ### Unacceptable excuse
 
-<span style="letter-spacing:.3pt"> Abu Bakr and his friend Umar tried to
+ Abu Bakr and his friend Umar tried to
 appease Fatima (a.s.) to give their caliphate a kind of legality. They
 asked permission to visit her but she refused to receive them. Then for
 another time they tried and she refused again. They went to Imam Ali
@@ -543,7 +543,7 @@ them. They begged her to pardon them. She said to them, “I adjure you by
 Allah, did you not hear the messenger of Allah say:‘the pleasure of
 Fatima is from my pleasure and the displeasure of Fatima is from my
 displeasure? Whoever loves Fatima my daughter loves me, whoever pleases
-Fatima pleases me, and whoever displeases Fatima displeases me’?”</span>
+Fatima pleases me, and whoever displeases Fatima displeases me’?”
 
 They both said that they did hear the Prophet (a.s.) say that.
 

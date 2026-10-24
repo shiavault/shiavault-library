@@ -648,4 +648,3 @@ his wife is forbidden to him. Zihar's conditions are the same as those
 of divorce; hence in Shi'ism two witnesses must hear the formula
 recited.
 
-

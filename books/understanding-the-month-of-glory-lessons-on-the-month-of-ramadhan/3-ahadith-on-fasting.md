@@ -73,4 +73,3 @@ will he be forgiven?
 
 Holy Prophet (S)
 
-

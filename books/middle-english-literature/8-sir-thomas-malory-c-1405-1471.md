@@ -27,4 +27,3 @@ story and was the inspiration for Tennyson's "Idylls of the King."*Le
 Morte Darthur* is undoubtedly the last definitive interpretation of the
 Arthurian myth before the dawn of the English Renaissance.
 
-

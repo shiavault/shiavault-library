@@ -571,4 +571,3 @@ The holy Prophet said whosoever behaves truthfully with his Lord attains
 Salvation. Some have said that the “Ashaab-e-Inscription” was this group
 of three men.
 
-

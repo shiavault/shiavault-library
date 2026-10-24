@@ -66,13 +66,13 @@ Musnad al-Nisa-’.[^48]
 
 **Notes:**
 
-[^44] Musnad, vol. 4, p. 107 (Musnad Wa-thilah bin Asqa‘), Matba‘ah
+[^44]: Musnad, vol. 4, p. 107 (Musnad Wa-thilah bin Asqa‘), Matba‘ah
 al-Maymaniyyah; also refer to vol. 6, pp. 292, 298, 304, 323 (Musnad
 Umm-i Salamah).
-[^45] Ibid, vol. 3, p. 259 (Musnad Anas bin Ma-lik); also refer to vol.
+[^45]: Ibid, vol. 3, p. 259 (Musnad Anas bin Ma-lik); also refer to vol.
 3, p. 286.
-[^46] On the identity of the Ahl al-Bayt.
-[^47] Al-Musnad, vol. 3, pp. 167, 199 (Ahmad Sha-kir)
-[^48] For hadith on Hazrat Fa-timah al-Zahra-’ (‘a) refer to al-Musnad,
+[^46]: On the identity of the Ahl al-Bayt.
+[^47]: Al-Musnad, vol. 3, pp. 167, 199 (Ahmad Sha-kir)
+[^48]: For hadith on Hazrat Fa-timah al-Zahra-’ (‘a) refer to al-Musnad,
 vol. 6, p. 282, Matba‘ah al-Maymaniyyah.
 

@@ -124,4 +124,3 @@ other places, who have visited or come to study and live near the
 shrines of the Ahlul Bayt (a.s.) and been blessed by their holy tombs,
 also narrate such stories.
 
-

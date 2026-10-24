@@ -422,4 +422,3 @@ want something, they should take it from behind a curtain.
 
 1. Quran, 33 : 53.
 
-

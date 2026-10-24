@@ -127,4 +127,3 @@ practitioner will be very useful.
 
 [^10]: Makarim al akhlaq, v 3, p. 112
 
-

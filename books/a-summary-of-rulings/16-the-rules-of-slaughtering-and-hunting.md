@@ -202,4 +202,3 @@ However, the crayfish, which are akin to land insects and the name fish
 are applied to them, are forbidden and it is not allowed to eat them
 except at the time of necessity for treatment.
 
-

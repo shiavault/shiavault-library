@@ -39,4 +39,3 @@ performed without having true faith.
 [^2]: (sawa) indicates Sallallahu Alaihi wa A’alihi meaning peace be
 upon him and his progeny
 
-

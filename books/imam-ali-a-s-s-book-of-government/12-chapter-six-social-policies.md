@@ -953,4 +953,3 @@ Siffin: 224.
 
 [^80]: Nahj al-Balagha: Sermon 192, Bihar al-Anwar: 14/472/37.
 
-

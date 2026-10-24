@@ -233,4 +233,3 @@ soul.
  Describe three reasons of your own (other than those discussed in this
 lesson) that might provoke humans to contemplate on religious matters.
 
-

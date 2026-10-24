@@ -204,4 +204,3 @@ relatives. So, do not say this thing is limited to only one meaning."
 32. Ibn Manzur, Lisan al-Arab.
 33. Hur al-Amili, Wasa'il al-Shi'a, vol. 18, p. 109.
 
-

@@ -45,4 +45,3 @@ Hurayra’s biography).
 
 [^4]: Refer to Hilyatul Awliya’, vol.1, pg.380 and 383.
 
-

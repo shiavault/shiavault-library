@@ -1,21 +1,17 @@
 Fifteenth Hadith: The Believer’s Trials And Tribulations
 ========================================================
 
-<blockquote dir="rtl">
-  <p>
-بِسَنَدي المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ
-عَلَيْهِ، عَنْ عَلِيٍّ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ ابْنِ
-مَحْبُوبٍ، عَنْ سُمَاعَةَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
-قَالَ: إنَّ فِي كِتَابِ عَلِيٍّ عَلَيْهِ السَّلامُ أنَّ أَشَدَّ
-النَّاسِ بَلاءً النَّبِيُّونَ، ثُمَّ الوَصِيُّونَ، ثُمَّ الأمْثَلَ
-فَالأمْثَلَ. وَإنَّمَا يُبْتَلى المُؤْمِنُ عَلَى قَدْرِ أَعْمَالِهِ
-الحَسَنَةِ، فَمَنْ صَحَّ دِينُهُ وَحَسُنَ عَمَلُهُ اشْتَدَّ بَلاؤُهُ،
-وَذَلِكَ أنَّ اللهَ عَزَّ وَجَلَّ لَمْ يَجْعَلِ الدُّنْيَا ثَوَاباً
-لِمُؤْمِنٍ وَلا عُقُوبَةً لِكَافِرٍ، وَمَنْ سَخُفَ دِينُهُ وَضَعُفَ
-عَمَلُهُ قَلَّ بَلاؤُهُ، وَإنَّ البَلاءَ أَسْرَعُ إلَى المُؤْمِنِ
-التَّقِيِّ مِنَ المَطَرِ إلَى قَرَارِ الأرْضِ.
-  </p>
-</blockquote>
+> بِسَنَدي المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ
+> عَلَيْهِ، عَنْ عَلِيٍّ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ ابْنِ
+> مَحْبُوبٍ، عَنْ سُمَاعَةَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> قَالَ: إنَّ فِي كِتَابِ عَلِيٍّ عَلَيْهِ السَّلامُ أنَّ أَشَدَّ
+> النَّاسِ بَلاءً النَّبِيُّونَ، ثُمَّ الوَصِيُّونَ، ثُمَّ الأمْثَلَ
+> فَالأمْثَلَ. وَإنَّمَا يُبْتَلى المُؤْمِنُ عَلَى قَدْرِ أَعْمَالِهِ
+> الحَسَنَةِ، فَمَنْ صَحَّ دِينُهُ وَحَسُنَ عَمَلُهُ اشْتَدَّ بَلاؤُهُ،
+> وَذَلِكَ أنَّ اللهَ عَزَّ وَجَلَّ لَمْ يَجْعَلِ الدُّنْيَا ثَوَاباً
+> لِمُؤْمِنٍ وَلا عُقُوبَةً لِكَافِرٍ، وَمَنْ سَخُفَ دِينُهُ وَضَعُفَ
+> عَمَلُهُ قَلَّ بَلاؤُهُ، وَإنَّ البَلاءَ أَسْرَعُ إلَى المُؤْمِنِ
+> التَّقِيِّ مِنَ المَطَرِ إلَى قَرَارِ الأرْضِ.
 
 Muhammad ibn Ya’qub al-Kulayni (R) from ‘Ali ibn Ibrahim, from his
 father, from Ibn Mahbub, from Abu ‘Abd Allah (A) that he (A) said:
@@ -49,20 +45,12 @@ and it applies to the good as well as the bad among people, and the
 lexicographers have stated this expressly. Al-Jawhari in *al-Sihah* says
 in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَالبَلاءُ الإخْتِبَارُ يَكُونُ بِالشَّرِّ وَالخَيْرِ. يُقاَلُ:
-أَبْلاهُ اللهُ بَلاءً حَسَناً. وَأَبْلَيْتُهُ مَعْرُوفاً.
-  </p>
-</blockquote>
+> وَالبَلاءُ الإخْتِبَارُ يَكُونُ بِالشَّرِّ وَالخَيْرِ. يُقاَلُ:
+> أَبْلاهُ اللهُ بَلاءً حَسَناً. وَأَبْلَيْتُهُ مَعْرُوفاً.
 
 And God Almighty’ says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلِيُبْلِيَ الْمُؤْمِنِينَ مِنْهُ بَلَاءً حَسَنًا.﴾
-  </p>
-</blockquote>
+> ﴿وَلِيُبْلِيَ الْمُؤْمِنِينَ مِنْهُ بَلَاءً حَسَنًا.﴾
 
 ***And that He may try the believers with a fair trial.*** (***8:17***)
 
@@ -75,12 +63,8 @@ whenever *bala’, baliyyah* or *ibtila’* and the like are mentioned, it
 is the former kind of things that are meant. Amthal means ‘nobler and
 better’:
 
-<blockquote dir="rtl">
-  <p>
-يُقَالُ: هَذَا أَمْثَلُ مِنْ هَذَا. أَيْ أَفْضَلَ وَأَدْنَى إلَى
-الخَيْرِ.
-  </p>
-</blockquote>
+> يُقَالُ: هَذَا أَمْثَلُ مِنْ هَذَا. أَيْ أَفْضَلَ وَأَدْنَى إلَى
+> الخَيْرِ.
 
 Hence, the phrase (ثُمَّ الأمْثَلَ فَالأمْثَلَ) means that one who is
 better and nobler after the prophets and the awsiya’ has to face a
@@ -94,11 +78,7 @@ does not exist in Persian.
 as mentioned by *al-Sihah,* and other lexicographical works. *Qarar*
 means ‘resting place,’ as mentioned in the dictionaries:
 
-<blockquote dir="rtl">
-  <p>
-القَرَارُ وَالقَرَارَةُ: مَا قَرَّ فِيهِ والمُطْمَئِنُّ مِنَ الأَرْضِ.
-  </p>
-</blockquote>
+> القَرَارُ وَالقَرَارَةُ: مَا قَرَّ فِيهِ والمُطْمَئِنُّ مِنَ الأَرْضِ.
 
 The apology means that in the same way as the earth is the resting place
 where rainwater comes to rest and abide, the believer is the resting
@@ -158,12 +138,8 @@ human beings are separated into the felicitous and the wretched, the
 obedient and the rebellious, the perfect and the defective. And so the
 Great *Wali* of God said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي بَعَثَهُ بِالحَقِّ، لَتُبَلْبَلُنَّ بَلْبَلَةً
-وَلَتُغَرْبَلُنَّ غَرْبَلَةً.
-  </p>
-</blockquote>
+> وَالَّذِي بَعَثَهُ بِالحَقِّ، لَتُبَلْبَلُنَّ بَلْبَلَةً
+> وَلَتُغَرْبَلُنَّ غَرْبَلَةً.
 
 And by Him Who sent him (the Prophet (S)) with the Truth, you shall
 indeed be mixed and intermingled and then separated in the sieve (of
@@ -173,12 +149,8 @@ In the noble *al-Kafi,* in the chapter relating to Divine test and trial
 (*bab al-tamhis wa al-’imtihan*)*,* Ibn Abi Ya’fur reports Imam al-Sadiq
 (A) as having said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: لا بُدَّ لِلنَّاسِ مِنْ أنْ يُمَحَّصُوا وَيُمَيَّزُوا
-وَيُغَرْبَلُوا وَيُسْتَخْرَجَ فِي الغِرْبَالِ خَلْقٌ كَثِيرٌ.
-  </p>
-</blockquote>
+> قَالَ: لا بُدَّ لِلنَّاسِ مِنْ أنْ يُمَحَّصُوا وَيُمَيَّزُوا
+> وَيُغَرْبَلُوا وَيُسْتَخْرَجَ فِي الغِرْبَالِ خَلْقٌ كَثِيرٌ.
 
 It is inevitable that mankind should be purified, separated and sieved
 so that a great number is excluded by the sieve.[^3]
@@ -186,14 +158,10 @@ so that a great number is excluded by the sieve.[^3]
 Also al-Kulayni reports with his *isnad* from Mansur the following
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: يَا مَنْصُورُ إنَّ هَذَا
-الأَمْرَ لا يَأْتِيكُمْ إلا بَعْدَ إِيَاسٍ وَلا واللهِ حَتَّى
-تُمَيَّزُوا وَلا وَاللهِ حَتَّى تُمَحَّصُوا وَلا وَاللهِ حَتَّى
-يَشْقَى مَنْ يَشْقَى وَيَسْعَدُ مَنْ يَسْعَدُ.
-  </p>
-</blockquote>
+> قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: يَا مَنْصُورُ إنَّ هَذَا
+> الأَمْرَ لا يَأْتِيكُمْ إلا بَعْدَ إِيَاسٍ وَلا واللهِ حَتَّى
+> تُمَيَّزُوا وَلا وَاللهِ حَتَّى تُمَحَّصُوا وَلا وَاللهِ حَتَّى
+> يَشْقَى مَنْ يَشْقَى وَيَسْعَدُ مَنْ يَسْعَدُ.
 
 Imam al-Sadiq (A) said, “O Mansur! Indeed this affair (i.e. the
 appearance of al-Mahdi (A)) will not come to you except after despair
@@ -203,35 +171,23 @@ wretchedness and the felicitous attain felicity.”[^4]
 
 In another tradition, Abu al-Hasan (A) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يُخْلَصُونَ كَمَا يُخْلَصُ الذَّهَبُ.
-  </p>
-</blockquote>
+> يُخْلَصُونَ كَمَا يُخْلَصُ الذَّهَبُ.
 
 You shall be purified in the way gold is purified.[^5]
 
 In *al-Kafi, bab al-’ibtila’ wa al-’ikhtibar,* the following tradition
 is reported with *isnad* from Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: مَا مِنْ قَبْضٍ وَلا بَسْطٍ إلا وَللهِ فِيهِ مَشِيئَةٌ
-وَقَضَاءٌُ وَابْتِلاءٌ.
-  </p>
-</blockquote>
+> قَالَ: مَا مِنْ قَبْضٍ وَلا بَسْطٍ إلا وَللهِ فِيهِ مَشِيئَةٌ
+> وَقَضَاءٌُ وَابْتِلاءٌ.
 
 He said, “There is no qabd (extension) and bast (contraction) except
 that in it there is for God a purpose, a decree, and a trial.”[^6]
 
 In another tradition he is (A) reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ لَيْسَ شَيْءٌ فِيهِ قَبْضٌ أَوْ بَسْطٌ مِمَّا أَمَرَ اللهُ بِهِ
-أَوْ نَهَى عَنْهُ إلا وَفِيهِ للهِ عَزَّ وَجَلَّ ابْتَلاءٌ وَقَضَاءٌ.
-  </p>
-</blockquote>
+> إنَّهُ لَيْسَ شَيْءٌ فِيهِ قَبْضٌ أَوْ بَسْطٌ مِمَّا أَمَرَ اللهُ بِهِ
+> أَوْ نَهَى عَنْهُ إلا وَفِيهِ للهِ عَزَّ وَجَلَّ ابْتَلاءٌ وَقَضَاءٌ.
 
 Indeed there is no qabd and bast in that which God has commanded or
 forbidden except that there is in it from God a trial and a decree?[^7]
@@ -268,11 +224,7 @@ availability of all the means of guidance and felicity. The conclusive
 proof of God is established against him and there is no room for any
 pretext. Hence the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ.﴾
-  </p>
-</blockquote>
+> ﴿لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ.﴾
 
 ***For it*** (***the soul***) ***is what it has earned and against it is
 what it has merited.*** (***2:286***)
@@ -306,11 +258,7 @@ attention towards God Almighty and the ‘realm of His munificence and
 bounty also becomes total and complete. It is about such a soul that,
 the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَخْلَدَ إِلَى الْأَرْضِ وَاتَّبَعَ هَوَاهُ.﴾
-  </p>
-</blockquote>
+> ﴿أَخْلَدَ إِلَى الْأَرْضِ وَاتَّبَعَ هَوَاهُ.﴾
 
 ***He inclined towards the earth and followed his lust.*** (***7:176***)
 
@@ -357,14 +305,10 @@ his faith, toward the world of the Hereafter. If there weren’t any other
 reason except this one for endurance of severe calamities it would have
 been sufficient, and a noble tradition also points towards this matter.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: إنَّ اللهَ عَزَّ وَجَلَّ
-لَيَتَعَاهَدُ المُؤْمِنَ بِالبَلاءِ كَمَا يَتَعَاهَدُ الرَّجُلُ
-أَهْلَهُ بِالهَدِيَّةِ مِنَ الغَيْبَةِ وَيَحْمِيهِ الدُّنْيَا كَمَا
-يَحْمِي الطَّبِيبُ المَرِيضَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: إنَّ اللهَ عَزَّ وَجَلَّ
+> لَيَتَعَاهَدُ المُؤْمِنَ بِالبَلاءِ كَمَا يَتَعَاهَدُ الرَّجُلُ
+> أَهْلَهُ بِالهَدِيَّةِ مِنَ الغَيْبَةِ وَيَحْمِيهِ الدُّنْيَا كَمَا
+> يَحْمِي الطَّبِيبُ المَرِيضَ.
 
 Imam al-Baqir (A) said “Verily, God Almighty treats the believer with
 tribulations in the same way as a man treats his family with gifts after
@@ -430,12 +374,8 @@ of humility before God Almighty and chose poverty.
 In the noble *al-Kafi*, al-Kulayni, with a chain of transmitters
 reaching up to Imam al-Sadiq (A), reports the Imam (A) as having said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الكَافِرَ لَيَهُونُ عَلَى اللهِ حَتَّى لَوْ سَأَلَهُ الدُّنْيَا
-بِمَا فِيهَا أَعْطَاهُ ذَلِكَ.
-  </p>
-</blockquote>
+> إنَّ الكَافِرَ لَيَهُونُ عَلَى اللهِ حَتَّى لَوْ سَأَلَهُ الدُّنْيَا
+> بِمَا فِيهَا أَعْطَاهُ ذَلِكَ.
 
 Indeed God has so little regard for the unbeliever that should he ask of
 Him the world and that which is in it, He would give that to him.[^9]
@@ -455,13 +395,9 @@ occurrence in the corporeal world and afflictions therein. Imam al-Sadiq
 (A), in a noble tradition of *al-Kafi* with a continuous chain of
 transmission going up to him, states:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: إنَّهُ لَيَكُونُ لِلْعَبْدِ مَنْزِلَةٌ عِنْدَ اللهِ فَمَا
-يَنَالهََُا إلا بِإحْدَى خِصْلَتَيْنِ؛ إمَّا بِذَهَابِ مَالِهِ أوْ
-بِبَلِيَّةٍ فِي جَسَدِهِ.
-  </p>
-</blockquote>
+> قَالَ: إنَّهُ لَيَكُونُ لِلْعَبْدِ مَنْزِلَةٌ عِنْدَ اللهِ فَمَا
+> يَنَالهََُا إلا بِإحْدَى خِصْلَتَيْنِ؛ إمَّا بِذَهَابِ مَالِهِ أوْ
+> بِبَلِيَّةٍ فِي جَسَدِهِ.
 
 Verily, the servant has certain stations near God that cannot be
 realized without one of these two attributes: either the loss of his
@@ -477,12 +413,8 @@ higher sciences. It is mentioned in *mutawatir* traditions that for
 every action there is a corresponding form in the other world, and al
 Imam al-Sadiq (A) is reported to have said in *al-Kafi* that:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ عَظِيمَ الأَجْرِ لَمَعَ عَظِيمِ البَلاءِ. وَمَا أَحَبَّ اللهُ
-قَوْماً إلا ابْتَلاهُمْ.
-  </p>
-</blockquote>
+> إنَّ عَظِيمَ الأَجْرِ لَمَعَ عَظِيمِ البَلاءِ. وَمَا أَحَبَّ اللهُ
+> قَوْماً إلا ابْتَلاهُمْ.
 
 The greatness of man’s reward goes with the greatness of suffering, and
 God did not love a people but that He subjected them to suffering.[^11]
@@ -540,19 +472,15 @@ afflicted with this kind of afflictions, as in the case of Hadrat Ayyub
 (Job) and Habib al-Najjar. There are many traditions concerning the
 affliction of Hadrat Ayyub (A), of which are the following two:
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ فِي تَفْسِيرِ عَلِيِّ بْنِ إبْرَاهِيمَ عَنْ أبِي بَصِيرٍ عَنْ
-أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ طَوِيلٍ، قَالَ:
-فَسَلَّطَهُ عَلَى بَدَنِهِ مَا خَلا عَقْلَهُ وَعَيْنَهُ فَنَفَخَ فِيهِ
-إبْلِيسُ فَصَارَ قَرْحَةً وَاحِدَةً مِنْ قَرْنِهِ إلَى قَدَمِهِ.
-فَبَقِيَ فِي ذَلِكَ دَهْراً طَوِيلاً يَحْمِدُ اللهَ وَيَشْكُرُهُ
-حَتَّى وَقَعَ فِي بَدَنِهِ الدُّودُ. وَكَانَتْ تَخْرُجُ مِنْ بَدَنِهِ
-فَيَرُّدَهَا وَيَقُولُ لَهَا ارْجِعِي إلَى مَوْضِعِكِ الَّذِي خَلَقَكِ
-اللهُ مِنْهُ. وَنَتُنَ حَتَّى أَخْرَجَهُ أهْلُ القَرْيَةِ مِنَ
-القَرْيَةِ وَأَلْقَوْهُ فِي المَزْبَلَةِ خَارِجَ القَرْيَةِ.
-  </p>
-</blockquote>
+> رُوِيَ فِي تَفْسِيرِ عَلِيِّ بْنِ إبْرَاهِيمَ عَنْ أبِي بَصِيرٍ عَنْ
+> أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ طَوِيلٍ، قَالَ:
+> فَسَلَّطَهُ عَلَى بَدَنِهِ مَا خَلا عَقْلَهُ وَعَيْنَهُ فَنَفَخَ فِيهِ
+> إبْلِيسُ فَصَارَ قَرْحَةً وَاحِدَةً مِنْ قَرْنِهِ إلَى قَدَمِهِ.
+> فَبَقِيَ فِي ذَلِكَ دَهْراً طَوِيلاً يَحْمِدُ اللهَ وَيَشْكُرُهُ
+> حَتَّى وَقَعَ فِي بَدَنِهِ الدُّودُ. وَكَانَتْ تَخْرُجُ مِنْ بَدَنِهِ
+> فَيَرُّدَهَا وَيَقُولُ لَهَا ارْجِعِي إلَى مَوْضِعِكِ الَّذِي خَلَقَكِ
+> اللهُ مِنْهُ. وَنَتُنَ حَتَّى أَخْرَجَهُ أهْلُ القَرْيَةِ مِنَ
+> القَرْيَةِ وَأَلْقَوْهُ فِي المَزْبَلَةِ خَارِجَ القَرْيَةِ.
 
 ‘Ali ibn Ibrahim in a long tradition narrates on the authority of Abu
 Basir that Imam al-Sadiq (A) said, “Then his whole body, excepting his,
@@ -565,19 +493,15 @@ from where God created you.” And it began to stench until his townsfolk
 expelled him from his town and his food came from the garbage thrown
 outside the town.”
 
-<blockquote dir="rtl">
-  <p>
-فِي الكَافِي بإسْنَادِهِ عَنْ أبِي بَصِيرٍ، عَنْ أبِي عَبْدِاللهِ
-عَلَيْهِ السَّلامُ قَالَ: قُلْتُ لَهُ: ﴿فَإِذَا قَرَأْتَ الْقُرْآنَ
-فَاسْتَعِذْ بِاللَّهِ مِنْ الشَّيْطَانِ الرَّجِيمِ. إِنَّهُ لَيْسَ
-لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَى رَبِّهِمْ
-يَتَوَكَّلُونَ.﴾ فَقَالَ: يَا أَبَا مُحَمَّدٍ؛ يُسَلَّطُ وَاللهِ مِنَ
-المُؤْمِنِ عَلَى بَدَنِهِ وَلا يُسَلَّطُ عَلَى دِينِهِ. قَدْ سُلِّطَ
-عَلَى أَيُّوبَ عَلَيْهِ السَّلامُ فَشَوَّهَ خَلْقَهُ وَلَمْ يُسَلَّطْ
-عَلَى دِينِهِ وَقَدْ يُسَلَّطُ مِنَ المُؤْمِنِينَ عَلَى أَبْدَانِهِمْ
-وَلا يُسَلَّطُ عَلَى دِينِهِمْ.
-  </p>
-</blockquote>
+> فِي الكَافِي بإسْنَادِهِ عَنْ أبِي بَصِيرٍ، عَنْ أبِي عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ قَالَ: قُلْتُ لَهُ: ﴿فَإِذَا قَرَأْتَ الْقُرْآنَ
+> فَاسْتَعِذْ بِاللَّهِ مِنْ الشَّيْطَانِ الرَّجِيمِ. إِنَّهُ لَيْسَ
+> لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَى رَبِّهِمْ
+> يَتَوَكَّلُونَ.﴾ فَقَالَ: يَا أَبَا مُحَمَّدٍ؛ يُسَلَّطُ وَاللهِ مِنَ
+> المُؤْمِنِ عَلَى بَدَنِهِ وَلا يُسَلَّطُ عَلَى دِينِهِ. قَدْ سُلِّطَ
+> عَلَى أَيُّوبَ عَلَيْهِ السَّلامُ فَشَوَّهَ خَلْقَهُ وَلَمْ يُسَلَّطْ
+> عَلَى دِينِهِ وَقَدْ يُسَلَّطُ مِنَ المُؤْمِنِينَ عَلَى أَبْدَانِهِمْ
+> وَلا يُسَلَّطُ عَلَى دِينِهِمْ.
 
 In al-Kafi, al-Kulayni reports from Abu Basir that he asked Imam
 al-Sadiq (A) about the verse, “When thou recitest the Qur’an, seek
@@ -590,18 +514,14 @@ him (Satan) authority over Ayyub and Satan disfigured him physically,
 but He did not give authority to him over his faith. And He does give
 him authority over the faithful’s bodies but not over their faith.”
 
-<blockquote dir="rtl">
-  <p>
-بِإسْنَادِهِ عَنْ نَاجِيَةٍ قَالَ: قُلْتُ لأَبِي جَعْفَرٍ عَلَيْهِ
-السَّلامُ: إنَّ المُغِيرَةَ يَقُولُ: إنَّ المُؤْمِنَ لا يُبْتَلَى
-بِالجُذَامِ وَلا بِالبَرَصِ وَلا بِكَذَا وَلا بِكَذَا؟ فَقَالَ: إنْ
-كَانَ لَغَافِلاً عَنْ صَاحِبِ يَاسِينَ. إنَّهُ كَانَ مُكَنَّعاً. ثُمَّ
-رَدَّ أَصَابِعَهُ فَقَالَ: كَأَنِّي أَنْظُرُ إلَى تَكْنِيعِهِ
-أَتَاهُمْ فَأَنْذَرَهُمْ، ثُمَّ عَادَ إلَيْهِمْ مِنَ الغَدِ
-فَقَتَلُوهُ. ثُمَّ قَالَ: إنَّ المُؤْمِنَ يُبْتَلَى بِكُلِّ بَلِيَّةٍ
-وَيَمُوتُ بِكُلِّ مِيتَةٍ إلا أنَّهُ لا يُقْتُلُ نَفْسَهُ.
-  </p>
-</blockquote>
+> بِإسْنَادِهِ عَنْ نَاجِيَةٍ قَالَ: قُلْتُ لأَبِي جَعْفَرٍ عَلَيْهِ
+> السَّلامُ: إنَّ المُغِيرَةَ يَقُولُ: إنَّ المُؤْمِنَ لا يُبْتَلَى
+> بِالجُذَامِ وَلا بِالبَرَصِ وَلا بِكَذَا وَلا بِكَذَا؟ فَقَالَ: إنْ
+> كَانَ لَغَافِلاً عَنْ صَاحِبِ يَاسِينَ. إنَّهُ كَانَ مُكَنَّعاً. ثُمَّ
+> رَدَّ أَصَابِعَهُ فَقَالَ: كَأَنِّي أَنْظُرُ إلَى تَكْنِيعِهِ
+> أَتَاهُمْ فَأَنْذَرَهُمْ، ثُمَّ عَادَ إلَيْهِمْ مِنَ الغَدِ
+> فَقَتَلُوهُ. ثُمَّ قَالَ: إنَّ المُؤْمِنَ يُبْتَلَى بِكُلِّ بَلِيَّةٍ
+> وَيَمُوتُ بِكُلِّ مِيتَةٍ إلا أنَّهُ لا يُقْتُلُ نَفْسَهُ.
 
 Najiyah says, “I said to Abu Ja’far (A) that al-Mughirah says that a
 believer is never afflicted with leprosy, leukoderma and such other
@@ -656,12 +576,8 @@ body are absent from the other members. While the healthy members are in
 comfort and ease, the afflicted member suffers pain and agony. The noble
 tradition partly refers to what we have stated here when it says:
 
-<blockquote dir="rtl">
-  <p>
-وَذَلِكَ أنَّ اللهَ عَزَّ وَجَلَّ لَمْ يَجْعَلِ الدُّنْيَا ثَوَاباً
-لِمُؤْمِنٍ وَلا عُقُوبَةً لِكَافِرٍ.
-  </p>
-</blockquote>
+> وَذَلِكَ أنَّ اللهَ عَزَّ وَجَلَّ لَمْ يَجْعَلِ الدُّنْيَا ثَوَاباً
+> لِمُؤْمِنٍ وَلا عُقُوبَةً لِكَافِرٍ.
 
 That is, the reason that the believer is afflicted in this world with
 tribulation is that God Almighty has made it neither the place of His
@@ -689,12 +605,8 @@ gradual seizing.
 
 Hence, God Almighty declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ. وَأُمْلِي لَهُمْ
-إِنَّ كَيْدِي مَتِينٌ.﴾
-  </p>
-</blockquote>
+> ﴿سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ. وَأُمْلِي لَهُمْ
+> إِنَّ كَيْدِي مَتِينٌ.﴾
 
 (***And those who cry lies to Our signs***)***, We will draw them on
 little by little whence they know not; and I respite them - assuredly My
@@ -702,13 +614,9 @@ guile is firm.*** (***7:182-183***)
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
-لِأَنْفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا وَلَهُمْ
-عَذَابٌ مُهِينٌ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
+> لِأَنْفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا وَلَهُمْ
+> عَذَابٌ مُهِينٌ.﴾
 
 ***And let not the unbelievers suppose that the respite We grant them is
 better for them; We grant them respite only that they may increase in
@@ -716,12 +624,8 @@ sin; and there awaits them a humiliating chastisement.*** (***3:178***)
 
 In *Majma’ al-bayan,* this tradition is cited from Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-إذَا أَحْدَثَ العَبْدُ ذَنْباً جُدِّدَ لَهُ نِعْمَةٌ فَيَدَعُ
-الإسْتِغْفَارَ فَهُوَ الإسْتِدْرَاجُ.
-  </p>
-</blockquote>
+> إذَا أَحْدَثَ العَبْدُ ذَنْباً جُدِّدَ لَهُ نِعْمَةٌ فَيَدَعُ
+> الإسْتِغْفَارَ فَهُوَ الإسْتِدْرَاجُ.
 
 The Imam (A) said, “When a person commits a sin and the bounty (that he
 had received) is renewed for him, he leaves off asking for forgiveness
@@ -729,11 +633,7 @@ had received) is renewed for him, he leaves off asking for forgiveness
 
 At the end of the noble tradition, the Imam (A) says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ سَخُفَ دِينُهُ وَضَعُفَ عَمَلُهُ قَلَّ بَلاؤُهُ.
-  </p>
-</blockquote>
+> وَمَنْ سَخُفَ دِينُهُ وَضَعُفَ عَمَلُهُ قَلَّ بَلاؤُهُ.
 
 And one whose faith is feeble and his intellect is weak, his tribulation
 is also slight.
@@ -749,11 +649,7 @@ proportion to the perfectness and acuteness of their intellect and
 sensibility. Perhaps it was for this reason that the Holy Messenger (S)
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أُوذِيَ نَبِيٌّ مِثْلَ مَا أُوذِيتُ.
-  </p>
-</blockquote>
+> مَا أُوذِيَ نَبِيٌّ مِثْلَ مَا أُوذِيتُ.
 
 No prophet was tormented to the extent that I was.
 
@@ -772,11 +668,7 @@ his torment and suffering was greater than that of any one of them.
 There is also another explanation of the Holy Messenger’s statement,
 whose mention is not appropriate for this place.
 
-<blockquote dir="rtl">
-  <p>
-وَاللهُ العَالِمُ وَلَهُ الحَمْدُ.
-  </p>
-</blockquote>
+> وَاللهُ العَالِمُ وَلَهُ الحَمْدُ.
 
 And God knows best and to Him belongs all the praise.
 
@@ -803,5 +695,4 @@ And God knows best and to Him belongs all the praise.
 [^11]: Usul al-Kafi, vol. II, p.255.
 
 [^12]: Usul al-Kafi, vol. II, p.255.
-
 

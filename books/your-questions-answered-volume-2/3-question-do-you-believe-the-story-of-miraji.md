@@ -497,4 +497,3 @@ faith remain no longer in conflict with each other. I hope you will
 write to me as soon as possible, so that I may guide you about the
 details. With best wishes and Dua,
 
-

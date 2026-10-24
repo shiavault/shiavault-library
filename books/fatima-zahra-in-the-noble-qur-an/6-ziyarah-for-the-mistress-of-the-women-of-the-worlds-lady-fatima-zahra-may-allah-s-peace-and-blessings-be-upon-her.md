@@ -1,12 +1,8 @@
 Ziyarah for the Mistress of the Women of the Worlds, Lady Fatima Zahra’, may Allah’s peace and blessings be upon her
 ====================================================================================================================
 
-<blockquote dir="rtl">
-  <p>
-زِيَارَةٌ سَيِّدَةِ النِّسَآءِ الْعَالَمِينَ فَاطِمَةَ الزَّهْرَآءِ
-(سَلاَمُ ٱللهِ عَلَيْهَا)
-  </p>
-</blockquote>
+> زِيَارَةٌ سَيِّدَةِ النِّسَآءِ الْعَالَمِينَ فَاطِمَةَ الزَّهْرَآءِ
+> (سَلاَمُ ٱللهِ عَلَيْهَا)
 
 Translated by Badr Shahin
 
@@ -26,450 +22,238 @@ to visit her at all three of these places is more preferable.
 When you stand for the ziyarah of Lady Fatima Zahra’, recite the
 following:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-يَا مُـمْتَحَنَةُ
-  </p>
-</blockquote>
+> يَا مُـمْتَحَنَةُ
 
 O the carefully examined one:
 
-<blockquote dir="rtl">
-  <p>
-اِمْتَحَنَكِ اللهُ الَّذِي خَلَقَكِ قَبْلَ أَنْ يَـخْلُقَكِ
-  </p>
-</blockquote>
+> اِمْتَحَنَكِ اللهُ الَّذِي خَلَقَكِ قَبْلَ أَنْ يَـخْلُقَكِ
 
 Allah had tried you before He created you (for this worldly life),
 
-<blockquote dir="rtl">
-  <p>
-فَوَجَدَكِ لـِمَا امْتَحَنَكِ صَابِرَةً،
-  </p>
-</blockquote>
+> فَوَجَدَكِ لـِمَا امْتَحَنَكِ صَابِرَةً،
 
 And thus He found you successfully enduring in that trial.[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَزَعَمْنَا أَنَّا لَكِ أَوْلِيَآءٌ وَمُصَدِّقُونَ
-  </p>
-</blockquote>
+> وَزَعَمْنَا أَنَّا لَكِ أَوْلِيَآءٌ وَمُصَدِّقُونَ
 
 We declare that we are your followers and believers,
 
-<blockquote dir="rtl">
-  <p>
-وَصَابِرُونَ لِكُلِّ مَا أَتَانَا بِهِ أَبُوكِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ،
-  </p>
-</blockquote>
+> وَصَابِرُونَ لِكُلِّ مَا أَتَانَا بِهِ أَبُوكِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ،
 
 and patient with all that has been conveyed to us by your father - peace
 of Allah be upon him and his household,
 
-<blockquote dir="rtl">
-  <p>
-وَأَتـىٰ بِهِ وَصِيَّهُ،
-  </p>
-</blockquote>
+> وَأَتـىٰ بِهِ وَصِيَّهُ،
 
 And all that which his successor (Imam ’Ali b. Abi Talib) brought.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّا نَسْأَلُكِ إِنْ كُنَّا صَدَّقْنَاكِ
-  </p>
-</blockquote>
+> فَإِنَّا نَسْأَلُكِ إِنْ كُنَّا صَدَّقْنَاكِ
 
 Thus we ask you that if we have truly believed in you,
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ أَلْـحَقْتِنَا بِتَصْدِيقِنَا لَـهُمْ
-  </p>
-</blockquote>
+> إِلاَّ أَلْـحَقْتِنَا بِتَصْدِيقِنَا لَـهُمْ
 
 That you may include us with those who believe in them all (all of the
 Prophet’s successors),
 
-<blockquote dir="rtl">
-  <p>
-لِنُبَشِّرَ أَنْفُسَنَا بِأَنَّا قَدْ طَهُرْنَا بِوِلاَيَتِكِ.
-  </p>
-</blockquote>
+> لِنُبَشِّرَ أَنْفُسَنَا بِأَنَّا قَدْ طَهُرْنَا بِوِلاَيَتِكِ.
 
 So that we may grant ourselves the glad tidings that we have been
 purified on account of our loyalty towards you.
 
 It is recommended to also recite the following:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ رَسُولِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ رَسُولِ اللهِ،
 
 Peace be upon you O daughter of the Messenger of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ نَبِيِّ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ نَبِيِّ اللهِ،
 
 Peace be upon you O daughter of the Prophet of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ حَبِيبِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ حَبِيبِ اللهِ،
 
 Peace be upon you O daughter of the most beloved of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَلِيلِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَلِيلِ اللهِ،
 
 Peace be upon you O daughter of the close friend of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ صَفِيِّ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ صَفِيِّ اللهِ،
 
 Peace be upon you O daughter of the chosen one of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَمِينِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَمِينِ اللهِ،
 
 Peace be upon you O daughter of the trustee of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ خَلْقِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ خَلْقِ اللهِ،
 
 Peace be upon you O daughter of the best of Allah’s creations.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَفْضَلِ أَنْبِيَآءِ اللهِ وَرُسُلِهِ
-وَمَلآئِكَتِهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَفْضَلِ أَنْبِيَآءِ اللهِ وَرُسُلِهِ
+> وَمَلآئِكَتِهِ،
 
 Peace be upon you O daughter of the best amongst Allah’s prophets,
 messengers and angels.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ الْبَرِيَّةِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ الْبَرِيَّةِ،
 
 Peace be upon you O daughter of the best of created beings.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا سَيِّدَةَ نِسَآءِ الْعَالَـمِينَ مِنَ
-الأَوَّلِينَ وَالآخِرِينَ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا سَيِّدَةَ نِسَآءِ الْعَالَـمِينَ مِنَ
+> الأَوَّلِينَ وَالآخِرِينَ،
 
 Peace be upon you O the Leader of all women of the world, from the first
 to the last generations.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا زَوْجَةَ وَلِـيِّ اللهِ وَخَيْرِ الْـخَلْقِ
-بَعْدَ رَسُولِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا زَوْجَةَ وَلِـيِّ اللهِ وَخَيْرِ الْـخَلْقِ
+> بَعْدَ رَسُولِ اللهِ،
 
 Peace be upon you O the wife of the guardian of (the message of) Allah
 and the best of all created beings after the Messenger of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا أُمُّ الْـحَسَنِ وَالْـحُسَيْنِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا أُمُّ الْـحَسَنِ وَالْـحُسَيْنِ
 
 Peace be upon you O the mother of Hasan and Husayn,
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدَيْ شَبَابِ أَهْلِ الْـجَنَّةِ،
-  </p>
-</blockquote>
+> سَيِّدَيْ شَبَابِ أَهْلِ الْـجَنَّةِ،
 
 the two masters of the youth of paradise.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الصِّدِّيقَةُ الشَّهِيدَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الصِّدِّيقَةُ الشَّهِيدَةُ،
 
 Peace be upon you O the veracious, the martyred one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الرَّضِيَّةُ الْـمَرْضِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الرَّضِيَّةُ الْـمَرْضِيَّةُ،
 
 Peace be upon you O the content, the pleased one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْفَاضِلَةُ الزَّكِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْفَاضِلَةُ الزَّكِيَّةُ،
 
 Peace be upon you O the virtuous, the pure one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـحَوْرَآءُ الإِنْسِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـحَوْرَآءُ الإِنْسِيَّةُ،
 
 Peace be upon you O the paradisiacal human being.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا التَّقِيَّةُ النَّقِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا التَّقِيَّةُ النَّقِيَّةُ،
 
 Peace be upon you O the pious, the immaculate one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُحَدَّثَةُ الْعَلِيمَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُحَدَّثَةُ الْعَلِيمَةُ،
 
 Peace be upon you O the one whom the angels spoke to, the knowledgeable
 one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمَظْلُومَةُ الْـمَغْصُوبَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمَظْلُومَةُ الْـمَغْصُوبَةُ،
 
 Peace be upon you O the oppressed lady whose right was usurped.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُضْطَهَدَةُ الْـمَقْهُورَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُضْطَهَدَةُ الْـمَقْهُورَةُ،
 
 Peace be upon you O the persecuted, the maltreated one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا فَاطِمَةُ بِنْتَ رَسُولِ اللهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا فَاطِمَةُ بِنْتَ رَسُولِ اللهِ
 
 Peace be upon you O Fatima, daughter of the Messenger of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،
-  </p>
-</blockquote>
+> وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،
 
 And may the mercy and blessings of Allah be upon you.
 
-<blockquote dir="rtl">
-  <p>
-صَلَّى اللهُ عَلَيْكِ
-  </p>
-</blockquote>
+> صَلَّى اللهُ عَلَيْكِ
 
 May Allah bless you,
 
-<blockquote dir="rtl">
-  <p>
-وَعَلىٰ رُوحِكِ وَبَدَنِكِ،
-  </p>
-</blockquote>
+> وَعَلىٰ رُوحِكِ وَبَدَنِكِ،
 
 And your soul and your body.
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنَّكِ مَضَيْتِ عَلىٰ بَيِّنَةٍ مِنْ رَبِّكِ،
-  </p>
-</blockquote>
+> أَشْهَدُ أَنَّكِ مَضَيْتِ عَلىٰ بَيِّنَةٍ مِنْ رَبِّكِ،
 
 I bear witness that you spent your life with full awareness of your duty
 towards your Lord;
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ مَنْ سَرَّكِ فَقَدْ سَرَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ،
-  </p>
-</blockquote>
+> وَأَنَّ مَنْ سَرَّكِ فَقَدْ سَرَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ،
 
 And (I bear witness) that one who pleases you, has pleased the Messenger
 of Allah - peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ جَفَاكِ فَقَدْ جَفَا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ،
-  </p>
-</blockquote>
+> وَمَنْ جَفَاكِ فَقَدْ جَفَا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ،
 
 And one who has been betrayed you has indeed betrayed the Messenger of
 Allah - peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ آذَاكِ فَقَدْ آذَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-  </p>
-</blockquote>
+> وَمَنْ آذَاكِ فَقَدْ آذَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
 
 And one who hurts you, has hurt the Messenger of Allah - peace be upon
 him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ وَصَلَكِ فَقَدْ وَصَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ
-  </p>
-</blockquote>
+> وَمَنْ وَصَلَكِ فَقَدْ وَصَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ
 
 And one who associates with you, has associated with the Messenger of
 Allah - peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قَطَعَكِ فَقَدْ قَطَعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ
-  </p>
-</blockquote>
+> وَمَنْ قَطَعَكِ فَقَدْ قَطَعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ
 
 And one who breaks off ties with you, has broken off ties with the
 Messenger of Allah - peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-لِأَنَّكِ بِضْعَةٌ مِنْهُ
-  </p>
-</blockquote>
+> لِأَنَّكِ بِضْعَةٌ مِنْهُ
 
 This is because you are an inseparable part of him (the Prophet),
 
-<blockquote dir="rtl">
-  <p>
-وَرُوحُهُ الَّذِي بَيْنَ جَنْبَيْهِ،
-  </p>
-</blockquote>
+> وَرُوحُهُ الَّذِي بَيْنَ جَنْبَيْهِ،
 
 and you are his soul with which he lives.
 
-<blockquote dir="rtl">
-  <p>
-أُشْهِدُ اللهَ وَرُسُلَهُ وَمَلآئِكَتَهُ
-  </p>
-</blockquote>
+> أُشْهِدُ اللهَ وَرُسُلَهُ وَمَلآئِكَتَهُ
 
 I ask Allah, His Messengers, and His angels to be the witnesses,
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي رَاضٍ عَمَّنْ رَضِيتِ عَنْهُ،
-  </p>
-</blockquote>
+> أَنِّي رَاضٍ عَمَّنْ رَضِيتِ عَنْهُ،
 
 that indeed I am pleased with the one you are pleased with,
 
-<blockquote dir="rtl">
-  <p>
-سَاخِطٌ عَلىٰ مَنْ سَخِطْتِ عَلَيْهِ،
-  </p>
-</blockquote>
+> سَاخِطٌ عَلىٰ مَنْ سَخِطْتِ عَلَيْهِ،
 
 and I am displeased with the one you are displeased with,
 
-<blockquote dir="rtl">
-  <p>
-مُتَبَرِّئٌ مِـمَّنْ تَبَرَّأْتِ مِنْهُ،
-  </p>
-</blockquote>
+> مُتَبَرِّئٌ مِـمَّنْ تَبَرَّأْتِ مِنْهُ،
 
 and I disavow the one whomsoever you disavow,
 
-<blockquote dir="rtl">
-  <p>
-مُوَالٍ لـِمَنْ وَالَيْتِ،
-  </p>
-</blockquote>
+> مُوَالٍ لـِمَنْ وَالَيْتِ،
 
 and I am loyal to the one whom you support,
 
-<blockquote dir="rtl">
-  <p>
-مُعَادٍ لِـمَنْ عَادَيْتِ،
-  </p>
-</blockquote>
+> مُعَادٍ لِـمَنْ عَادَيْتِ،
 
 and I am an enemy of the one who you betake as an enemy,
 
-<blockquote dir="rtl">
-  <p>
-مُبْغِضٌ لـِمَنْ أَبْغَضْتِ،
-  </p>
-</blockquote>
+> مُبْغِضٌ لـِمَنْ أَبْغَضْتِ،
 
 and I am hateful to the one whom you hate,
 
-<blockquote dir="rtl">
-  <p>
-مُحِبٌّ لـِمَنْ أَحْبَبْتِ،
-  </p>
-</blockquote>
+> مُحِبٌّ لـِمَنْ أَحْبَبْتِ،
 
 and I like the one whom you like.
 
-<blockquote dir="rtl">
-  <p>
-وَكَفىٰ بِاللهِ شَهِيداً وَحَسِيباً
-  </p>
-</blockquote>
+> وَكَفىٰ بِاللهِ شَهِيداً وَحَسِيباً
 
 Verily, Allah is Sufficient as a Witness, and a Reckoner,
 
-<blockquote dir="rtl">
-  <p>
-وَجَازِياً وَمُثِيباً
-  </p>
-</blockquote>
+> وَجَازِياً وَمُثِيباً
 
 and a Punisher, and a Rewarder.
 
@@ -483,795 +267,422 @@ has also been cited by some scholars whose statements are similar to the
 statements of the aforementioned ziyarah that was quoted from Shaykh
 al-Tusi. However, the complete form of this ziyarah is as follows:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ رَسُولِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ رَسُولِ اللهِ،
 
 Peace be upon you O daughter of the Messenger of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ نَبِيِّ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ نَبِيِّ اللهِ،
 
 Peace be upon you O daughter of the Prophet of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ حَبِيبِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ حَبِيبِ اللهِ،
 
 Peace be upon you O daughter of the most beloved one of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَلِيلِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَلِيلِ اللهِ،
 
 Peace be upon you O daughter of the close friend of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ صَفِيِّ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ صَفِيِّ اللهِ،
 
 Peace be upon you O daughter of the chosen one of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَمِينِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَمِينِ اللهِ،
 
 Peace be upon you O daughter of the trustee of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ خَلْقِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ خَلْقِ اللهِ،
 
 Peace be upon you O daughter of the best of Allah’s creations.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَفْضَلِ أَنْبِيَآءِ اللهِ وَرُسُلِهِ
-وَمَلآئِكَتِهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ أَفْضَلِ أَنْبِيَآءِ اللهِ وَرُسُلِهِ
+> وَمَلآئِكَتِهِ،
 
 Peace be upon you O daughter of the best of Allah’s prophets, messengers
 and angels.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ الْبَرِيَّةِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا بِنْتَ خَيْرِ الْبَرِيَّةِ،
 
 Peace be upon you O daughter of the best of created beings.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا سَيِّدَةَ نِسَآءِ الْعَالَـمِينَ مِنَ
-الأَوَّلِينَ وَالآخِرِينَ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا سَيِّدَةَ نِسَآءِ الْعَالَـمِينَ مِنَ
+> الأَوَّلِينَ وَالآخِرِينَ،
 
 Peace be upon you O the Leader of all women of the world, including the
 past and the future generations.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا زَوْجَةَ وَلِيِّ اللهِ وَخَيْرِ الْـخَلْقِ
-بَعْدَ رَسُولِ اللهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا زَوْجَةَ وَلِيِّ اللهِ وَخَيْرِ الْـخَلْقِ
+> بَعْدَ رَسُولِ اللهِ،
 
 Peace be upon you O the lady of the intimate servant of Allah and the
 best of all created beings after the Messenger of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا أُمَّ الْـحَسَنِ وَالْـحُسَيْنِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا أُمَّ الْـحَسَنِ وَالْـحُسَيْنِ
 
 Peace be upon you O the mother of Hasan and Husayn,
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدَيْ شَبَابِ أَهْلِ الْـجَنَّةِ،
-  </p>
-</blockquote>
+> سَيِّدَيْ شَبَابِ أَهْلِ الْـجَنَّةِ،
 
 the two masters of the youth of paradise.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الصِّدِّيقَةُ الشَّهِيدَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الصِّدِّيقَةُ الشَّهِيدَةُ،
 
 Peace be upon you O the veracious, the martyred one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الرَّضِيَّةُ الْـمَرْضِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الرَّضِيَّةُ الْـمَرْضِيَّةُ،
 
 Peace be upon you O the content, the pleased one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْفَاضِلَةُ الزَّكِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْفَاضِلَةُ الزَّكِيَّةُ،
 
 Peace be upon you O the virtuous, the pure one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـحَوْرَآءُ الإِنْسِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـحَوْرَآءُ الإِنْسِيَّةُ،
 
 Peace be upon you O the paradisiacal human being.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا التَّقِيَّةُ النَّقِيَّةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا التَّقِيَّةُ النَّقِيَّةُ،
 
 Peace be upon you O the pious, the immaculate one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُحَدَّثَةُ الْعَلِيمَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُحَدَّثَةُ الْعَلِيمَةُ،
 
 Peace be upon you O the one whom the angels spoke to, the knowledgeable
 one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمَظْلُومَةُ الْـمَغْصُوبَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمَظْلُومَةُ الْـمَغْصُوبَةُ،
 
 Peace be upon you O the oppressed lady whose right was usurped.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُضْطَهَدَةُ الْـمَقْهُورَةُ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمُضْطَهَدَةُ الْـمَقْهُورَةُ،
 
 Peace be upon you O the persecuted, the maltreated one.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا فَاطِمَةُ بِنْتَ رَسُولِ اللهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا فَاطِمَةُ بِنْتَ رَسُولِ اللهِ
 
 Peace be upon you O Fatima, daughter of the Messenger of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،
-  </p>
-</blockquote>
+> وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،
 
 So upon you be the mercy and blessings of Allah.
 
-<blockquote dir="rtl">
-  <p>
-صَلَّى اللهُ عَلَيْكِ
-  </p>
-</blockquote>
+> صَلَّى اللهُ عَلَيْكِ
 
 May Allah send His prayers upon you,
 
-<blockquote dir="rtl">
-  <p>
-وَعَلىٰ رُوحِكِ وَبَدَنِكِ،
-  </p>
-</blockquote>
+> وَعَلىٰ رُوحِكِ وَبَدَنِكِ،
 
 And your soul, and your body.
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنَّكِ مَضَيْتِ عَلىٰ بَيِّنَةٍ مِنْ رَبِّكِ،
-  </p>
-</blockquote>
+> أَشْهَدُ أَنَّكِ مَضَيْتِ عَلىٰ بَيِّنَةٍ مِنْ رَبِّكِ،
 
 I bear witness that you have spent your life with full awareness of your
 duty towards your Lord;
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ مَنْ سَرَّكِ فَقَدْ سَرَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ،
-  </p>
-</blockquote>
+> وَأَنَّ مَنْ سَرَّكِ فَقَدْ سَرَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ،
 
 And (I bear witness) that one who pleases you, will have pleased the
 Messenger of Allah, peace be upon him and his Household,
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ جَفَاكِ فَقَدْ جَفَا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ،
-  </p>
-</blockquote>
+> وَمَنْ جَفَاكِ فَقَدْ جَفَا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ،
 
 And the one who displeases you will have displeased the Messenger of
 Allah, peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ آذَاكِ فَقَدْ آذَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-  </p>
-</blockquote>
+> وَمَنْ آذَاكِ فَقَدْ آذَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
 
 And the one who harms you will have harmed the Messenger of Allah, peace
 be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ وَصَلَكِ فَقَدْ وَصَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ
-  </p>
-</blockquote>
+> وَمَنْ وَصَلَكِ فَقَدْ وَصَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ
 
 And the one who respects you, will have respected the Messenger of
 Allah, peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قَطَعَكِ فَقَدْ قَطَعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ
-  </p>
-</blockquote>
+> وَمَنْ قَطَعَكِ فَقَدْ قَطَعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ
 
 And the one who disrespects you will have disrespected the Messenger of
 Allah, peace be upon him and his Household.
 
-<blockquote dir="rtl">
-  <p>
-لِأَنَّكِ بِضْعَةٌ مِنْهُ
-  </p>
-</blockquote>
+> لِأَنَّكِ بِضْعَةٌ مِنْهُ
 
 This is because you are an inseparable part of him (the Prophet),
 
-<blockquote dir="rtl">
-  <p>
-وَرُوحُهُ الَّذِي بَيْنَ جَنْبَيْهِ.
-  </p>
-</blockquote>
+> وَرُوحُهُ الَّذِي بَيْنَ جَنْبَيْهِ.
 
 and you are his soul with which he lives.
 
-<blockquote dir="rtl">
-  <p>
-أُشْهِدُ اللهَ وَمَلآئِكَتَهُ أَنِّي وَلـِيِّ لـِمَنْ وَالاَكِ،
-  </p>
-</blockquote>
+> أُشْهِدُ اللهَ وَمَلآئِكَتَهُ أَنِّي وَلـِيِّ لـِمَنْ وَالاَكِ،
 
 I ask Allah and His angels to be the witnesses that I am the friend of
 one who adheres to you,
 
-<blockquote dir="rtl">
-  <p>
-وَعَدُوٌّ لـِمَنْ عَادَاكِ،
-  </p>
-</blockquote>
+> وَعَدُوٌّ لـِمَنْ عَادَاكِ،
 
 and I am the enemy to one who is an enemy of you,
 
-<blockquote dir="rtl">
-  <p>
-وَحَرْبٌ لـِمَنْ حَارَبَكِ،
-  </p>
-</blockquote>
+> وَحَرْبٌ لـِمَنْ حَارَبَكِ،
 
 and I am at war against one who wages war against you.
 
-<blockquote dir="rtl">
-  <p>
-أَنَا يَا مَوْلاَتِي بِكِ وَبِأَبِيكِ وَبَعْلِكِ وَالأَئِمَّةِ مِنْ
-وُلْدِكِ مُوقِنٌ،
-  </p>
-</blockquote>
+> أَنَا يَا مَوْلاَتِي بِكِ وَبِأَبِيكِ وَبَعْلِكِ وَالأَئِمَّةِ مِنْ
+> وُلْدِكِ مُوقِنٌ،
 
 O my master! I have full faith in you, your father, your husband, and
 your sons - the Imams;
 
-<blockquote dir="rtl">
-  <p>
-وَبِوِلاَيَتِهِمْ مُؤْمِنٌ،
-  </p>
-</blockquote>
+> وَبِوِلاَيَتِهِمْ مُؤْمِنٌ،
 
 and I believe in their (Divinely commissioned) leadership;
 
-<blockquote dir="rtl">
-  <p>
-وَلِطَاعَتِهِمْ مُلْتَزِمٌ،
-  </p>
-</blockquote>
+> وَلِطَاعَتِهِمْ مُلْتَزِمٌ،
 
 and I commit myself to their obedience.
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنَّ الدِّينَ دِينُهُمْ،
-  </p>
-</blockquote>
+> أَشْهَدُ أَنَّ الدِّينَ دِينُهُمْ،
 
 I bear witness that their religion is the true religion;
 
-<blockquote dir="rtl">
-  <p>
-وَالْـحُكْمَ حُكْمُهُمْ،
-  </p>
-</blockquote>
+> وَالْـحُكْمَ حُكْمُهُمْ،
 
 and their command is the true command;
 
-<blockquote dir="rtl">
-  <p>
-وَهُمْ قَدْ بَلَّغُوا عَنِ اللهِ عَزَّ وَجَلَّ،
-  </p>
-</blockquote>
+> وَهُمْ قَدْ بَلَّغُوا عَنِ اللهِ عَزَّ وَجَلَّ،
 
 and they have conveyed (the message) on behalf of Almighty Allah
 (flawlessly);
 
-<blockquote dir="rtl">
-  <p>
-وَدَعَوْا إِلىٰ سَبِيلِ اللهِ بِالْحِكْمَةِ وَالْـمَوْعِظَةِ
-الْـحَسَنَةِ،
-  </p>
-</blockquote>
+> وَدَعَوْا إِلىٰ سَبِيلِ اللهِ بِالْحِكْمَةِ وَالْـمَوْعِظَةِ
+> الْـحَسَنَةِ،
 
 and they have called to the Way of Allah with wisdom and fair
 exhortation.
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَأْخُذُهُمْ فِي اللهِ لَوْمَةُ لاَئِمٍ،
-  </p>
-</blockquote>
+> لاَ تَأْخُذُهُمْ فِي اللهِ لَوْمَةُ لاَئِمٍ،
 
 They have never feared the blame of anyone concerning carrying out their
 duty towards Almighty Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَصَلَوَاتُ اللهِ عَلَيْكِ وَعَلىٰ أَبِيكِ وَبَعْلِكِ
-  </p>
-</blockquote>
+> وَصَلَوَاتُ اللهِ عَلَيْكِ وَعَلىٰ أَبِيكِ وَبَعْلِكِ
 
 Blessings of Allah be upon you, and upon your father, and your husband,
 
-<blockquote dir="rtl">
-  <p>
-وَذُرِّيَّتِكِ الأَئِمَّةِ الطَّاهِرِينَ.
-  </p>
-</blockquote>
+> وَذُرِّيَّتِكِ الأَئِمَّةِ الطَّاهِرِينَ.
 
 And your descendants - the Immaculate Imams.
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمّ صَلِّ عَلىٰ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ
-  </p>
-</blockquote>
+> أَللّٰهُمّ صَلِّ عَلىٰ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ
 
 O Allah send blessings upon Muhammad and his Household,
 
-<blockquote dir="rtl">
-  <p>
-وَصَلِّ عَلىٰ الْبَتُولِ الطَّاهِرَةِ
-  </p>
-</blockquote>
+> وَصَلِّ عَلىٰ الْبَتُولِ الطَّاهِرَةِ
 
 And upon the immaculate, the pure lady,
 
-<blockquote dir="rtl">
-  <p>
-أَلصِّدِّيقَةِ الْـمَعْصُومَةِ
-  </p>
-</blockquote>
+> أَلصِّدِّيقَةِ الْـمَعْصُومَةِ
 
 The veracious, the sinless one,
 
-<blockquote dir="rtl">
-  <p>
-أَلتَّقِيَّةِ النَّقِيَّةِ
-  </p>
-</blockquote>
+> أَلتَّقِيَّةِ النَّقِيَّةِ
 
 The pious, the immaculate one,
 
-<blockquote dir="rtl">
-  <p>
-أَلرَّضِيَّةِ الْـمَرْضِيَّةِ
-  </p>
-</blockquote>
+> أَلرَّضِيَّةِ الْـمَرْضِيَّةِ
 
 The content, the well-pleased one,
 
-<blockquote dir="rtl">
-  <p>
-الزّكِيَّةِ الرَّشِيدَةِ
-  </p>
-</blockquote>
+> الزّكِيَّةِ الرَّشِيدَةِ
 
 The chaste, the rightly guided one,
 
-<blockquote dir="rtl">
-  <p>
-الْـمَظْلُومَةِ الْـمَقْهُورَةِ،
-  </p>
-</blockquote>
+> الْـمَظْلُومَةِ الْـمَقْهُورَةِ،
 
 The oppressed, the wronged one,
 
-<blockquote dir="rtl">
-  <p>
-الْـمَغْصُوبَةِ حَقُّهَا،
-  </p>
-</blockquote>
+> الْـمَغْصُوبَةِ حَقُّهَا،
 
 The one whose right was usurped,
 
-<blockquote dir="rtl">
-  <p>
-الْـمَمْنُوعَةِ إِرْثُهَا،
-  </p>
-</blockquote>
+> الْـمَمْنُوعَةِ إِرْثُهَا،
 
 (The one) whose right of inheritance was violated,
 
-<blockquote dir="rtl">
-  <p>
-الْـمَكْسُورَةِ ضِلْعُهَا،
-  </p>
-</blockquote>
+> الْـمَكْسُورَةِ ضِلْعُهَا،
 
 (The one) whose rib was broken,
 
-<blockquote dir="rtl">
-  <p>
-الْـمَظْلُومِ بَعْلُهَا،
-  </p>
-</blockquote>
+> الْـمَظْلُومِ بَعْلُهَا،
 
 (The one) whose husband was persecuted,
 
-<blockquote dir="rtl">
-  <p>
-الْـمَقْتُولِ وَلَدُهَا،
-  </p>
-</blockquote>
+> الْـمَقْتُولِ وَلَدُهَا،
 
 (The one) whose son was slain;
 
-<blockquote dir="rtl">
-  <p>
-فَاطِمَةَ بِنْتِ رَسُولِكَ،
-  </p>
-</blockquote>
+> فَاطِمَةَ بِنْتِ رَسُولِكَ،
 
 (she is) Fatima: the daughter of Your Messenger,
 
-<blockquote dir="rtl">
-  <p>
-وَبَضْعَةِ لَـحْمِهِ،
-  </p>
-</blockquote>
+> وَبَضْعَةِ لَـحْمِهِ،
 
 and part of his flesh,
 
-<blockquote dir="rtl">
-  <p>
-وَصَمِيمِ قَلْبِهِ،
-  </p>
-</blockquote>
+> وَصَمِيمِ قَلْبِهِ،
 
 and essence of his heart,
 
-<blockquote dir="rtl">
-  <p>
-وَفِلْذَةِ كَبِدِهِ،
-  </p>
-</blockquote>
+> وَفِلْذَةِ كَبِدِهِ،
 
 and piece of his innermost,
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّخْبَةِ مِنْكَ لَهُ،
-  </p>
-</blockquote>
+> وَالنَّخْبَةِ مِنْكَ لَهُ،
 
 and choice of You for him,
 
-<blockquote dir="rtl">
-  <p>
-وَالتُّحْفَةِ خَصَصْتَ بِهَا وَصِيُّهُ،
-  </p>
-</blockquote>
+> وَالتُّحْفَةِ خَصَصْتَ بِهَا وَصِيُّهُ،
 
 and gift that You gave exclusively to his (the Prophet’s) successor,
 
-<blockquote dir="rtl">
-  <p>
-وَحَبِيبَةِ الْـمُصْطَفىٰ،
-  </p>
-</blockquote>
+> وَحَبِيبَةِ الْـمُصْطَفىٰ،
 
 and most beloved of the chosen Prophet
 
-<blockquote dir="rtl">
-  <p>
-وَقَرِينَةِ الْـمُرْتَضىٰ،
-  </p>
-</blockquote>
+> وَقَرِينَةِ الْـمُرْتَضىٰ،
 
 and wife of the pleased successor,
 
-<blockquote dir="rtl">
-  <p>
-وَسَيِّدَةِ النِّسَآءِ،
-  </p>
-</blockquote>
+> وَسَيِّدَةِ النِّسَآءِ،
 
 and Leader of all women,
 
-<blockquote dir="rtl">
-  <p>
-وَمُبَشِّرَةِ الأَوْلِيَآءِ،
-  </p>
-</blockquote>
+> وَمُبَشِّرَةِ الأَوْلِيَآءِ،
 
 and conveyor of good tidings to the intimate servants (of Almighty
 Allah),
 
-<blockquote dir="rtl">
-  <p>
-حَلِيفَةِ الْوَرَعِ وَالزُّهْدِ،
-  </p>
-</blockquote>
+> حَلِيفَةِ الْوَرَعِ وَالزُّهْدِ،
 
 the inseparable one from piety and asceticism,
 
-<blockquote dir="rtl">
-  <p>
-وَتُفَّاحَةِ الْفِرْدَوْسِ وَالْـخُلْدِ
-  </p>
-</blockquote>
+> وَتُفَّاحَةِ الْفِرْدَوْسِ وَالْـخُلْدِ
 
 and apple of the heaven and eternity (in paradise);
 
-<blockquote dir="rtl">
-  <p>
-أَلَّتِي شَرَّفْتَ مَوْلِدَهَا بِنِسَآءِ الْـجَنَّةِ،
-  </p>
-</blockquote>
+> أَلَّتِي شَرَّفْتَ مَوْلِدَهَا بِنِسَآءِ الْـجَنَّةِ،
 
 the lady through whose birth You have honoured the women of paradise,
 
-<blockquote dir="rtl">
-  <p>
-وَسَلَلْتَ مِنْهَا أَنْوَارَ الأَئِمَّةِ،
-  </p>
-</blockquote>
+> وَسَلَلْتَ مِنْهَا أَنْوَارَ الأَئِمَّةِ،
 
 from whom You pulled the Lights of the Imams,
 
-<blockquote dir="rtl">
-  <p>
-وَأَرْخَيْتَ دُونَـهَا حِجَابَ النُّبُوَّةِ.
-  </p>
-</blockquote>
+> وَأَرْخَيْتَ دُونَـهَا حِجَابَ النُّبُوَّةِ.
 
 and fixed the veil of prophethood
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمّ صَلِّ عَلَيْهَا صَلاَةً تَزِيدُ فِي مَـحَلِّهَا عِنْدَكَ،
-  </p>
-</blockquote>
+> أَللّٰهُمّ صَلِّ عَلَيْهَا صَلاَةً تَزِيدُ فِي مَـحَلِّهَا عِنْدَكَ،
 
 O Allah confer upon her the blessings that raise her standing,
 
-<blockquote dir="rtl">
-  <p>
-وَشَرَفِهَا لَدَيْكَ،
-  </p>
-</blockquote>
+> وَشَرَفِهَا لَدَيْكَ،
 
 and her honour with You;
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْزِلَتِهَا مِنْ رِضَاكَ،
-  </p>
-</blockquote>
+> وَمَنْزِلَتِهَا مِنْ رِضَاكَ،
 
 and raise her position in Your Pleasure,
 
-<blockquote dir="rtl">
-  <p>
-وَبَلِّغْهَا مِنَّا تَـحِيَّةً وَسَلاَماً،
-  </p>
-</blockquote>
+> وَبَلِّغْهَا مِنَّا تَـحِيَّةً وَسَلاَماً،
 
 and convey to her our greetings and salutations;
 
-<blockquote dir="rtl">
-  <p>
-وَآتِنَا مِنْ لَدُنْكَ فِي حُبِّهَا فَضْلاً وَإِحْسَاناً وَرَحْـمَةً
-وَغُفْرَاناً
-  </p>
-</blockquote>
+> وَآتِنَا مِنْ لَدُنْكَ فِي حُبِّهَا فَضْلاً وَإِحْسَاناً وَرَحْـمَةً
+> وَغُفْرَاناً
 
 and grant us favour, kindness, mercy, and forgiveness from You on
 account of our love for her.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ ذُو الْعَفْوِ الْكَرِيمِ.
-  </p>
-</blockquote>
+> إِنَّكَ ذُو الْعَفْوِ الْكَرِيمِ.
 
 Verily You are the All-Generous Lord of forgiveness.
 
 Ziyarah of Fatima for the third of Jumadi al-Akhir
 --------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا سَيِّدَةَ نِسَآءِ الْعَالَـمِينَ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا سَيِّدَةَ نِسَآءِ الْعَالَـمِينَ،
 
 Peace be upon you O the leader of the women of the world!
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا وَالِدَةَ الْـحُجَجِ عَلىٰ النَّاسِ
-أَجْـمَعِينَ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا وَالِدَةَ الْـحُجَجِ عَلىٰ النَّاسِ
+> أَجْـمَعِينَ،
 
 Peace be upon you O the mother of the proof over all people!
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمَظْلُومَةُ الْـمَمْنُوعَةُ
-حَقُّهَا.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ أَيَّتُهَا الْـمَظْلُومَةُ الْـمَمْنُوعَةُ
+> حَقُّهَا.
 
 Peace be upon you O the wronged one whose right was usurped.
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمّ صَلِّ عَلىٰ أَمَتِكَ وَابْنَةِ نَبِيِّكَ وَزَوجَةِ وَصِيِّ
-نَبِيِّكَ
-  </p>
-</blockquote>
+> أَللّٰهُمّ صَلِّ عَلىٰ أَمَتِكَ وَابْنَةِ نَبِيِّكَ وَزَوجَةِ وَصِيِّ
+> نَبِيِّكَ
 
 O Allah send blessings upon Your servant, the daughter of Your Prophet,
 the wife of the Successor of Your Prophet –
 
-<blockquote dir="rtl">
-  <p>
-صَلاَةً تُزْلِفُهَا فَوْقَ زُلْفىٰ عِبَادِكَ الْـمُكَرَّمِينَ
-  </p>
-</blockquote>
+> صَلاَةً تُزْلِفُهَا فَوْقَ زُلْفىٰ عِبَادِكَ الْـمُكَرَّمِينَ
 
 Such remarkable blessings that approach her nearer to You than the steps
 (of proximity taken by) Your honoured servants
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أَهْلِ السَّمَاوَاتِ وَأَهْلِ الأَرْضِينَ
-  </p>
-</blockquote>
+> مِنْ أَهْلِ السَّمَاوَاتِ وَأَهْلِ الأَرْضِينَ
 
 From among the inhabitants of the heavens and the earth.
 
 Ziyarah of Fatima Zahra’ on Sunday
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكِ يَا مُـمْتَحَنَةُ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكِ يَا مُـمْتَحَنَةُ
 
 Peace be on you, O the carefully examined one,
 
-<blockquote dir="rtl">
-  <p>
-إِمْتَحَنَكِ الَّذِي خَلَقَكِ فَوَجَدَكِ لِـمَا امْتَحَنَكِ صَابِرَةً
-  </p>
-</blockquote>
+> إِمْتَحَنَكِ الَّذِي خَلَقَكِ فَوَجَدَكِ لِـمَا امْتَحَنَكِ صَابِرَةً
 
 Allah had tried you before He created you (for this worldly life), And
 thus He found you successfully enduring in that trial.
 
-<blockquote dir="rtl">
-  <p>
-أَنَا لَكِ مُصَدَّقٌ صَابِرٌ عَلىٰ مَا أَتَى بِهِ أَبُوكِ وَوَصِيِّهُ
-  </p>
-</blockquote>
+> أَنَا لَكِ مُصَدَّقٌ صَابِرٌ عَلىٰ مَا أَتَى بِهِ أَبُوكِ وَوَصِيِّهُ
 
 I believe in you; and I bear patiently all that which has been conveyed
 by your father and his successor
 
-<blockquote dir="rtl">
-  <p>
-صَلَوَاتُ اللهِ عَلَيْهِمْ
-  </p>
-</blockquote>
+> صَلَوَاتُ اللهِ عَلَيْهِمْ
 
 Blessings of Allah be upon all of them.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَا أَسْأَلُكِ إِنْ كُنْتُ صَدَّقْتُكِ إِلاَّ أَلْـحَقْتِنِي
-بِتَصْدِيقِي لَـهُمْ
-  </p>
-</blockquote>
+> وَأَنَا أَسْأَلُكِ إِنْ كُنْتُ صَدَّقْتُكِ إِلاَّ أَلْـحَقْتِنِي
+> بِتَصْدِيقِي لَـهُمْ
 
 I beseech you, if I have stated the truth, to bind me together with the
 testimony, concerning both of them;
 
-<blockquote dir="rtl">
-  <p>
-لِتُسَرِّ نَفْسِي
-  </p>
-</blockquote>
+> لِتُسَرِّ نَفْسِي
 
 In order to give joy and satisfaction to my soul.
 
-<blockquote dir="rtl">
-  <p>
-فَاشْهَدِي أَنِّي طَاهِرٌ بِوَلاَيَتِكِ وَوِلاَيَةِ آلِ بَيْتِكِ
-  </p>
-</blockquote>
+> فَاشْهَدِي أَنِّي طَاهِرٌ بِوَلاَيَتِكِ وَوِلاَيَةِ آلِ بَيْتِكِ
 
 So bear witness that truly I, by heart, made evident your, and your
 family’s leadership
 
-<blockquote dir="rtl">
-  <p>
-صَلَوَاتُ اللهِ عَلَيْهِمْ أَجْـمَعِينَ.
-  </p>
-</blockquote>
+> صَلَوَاتُ اللهِ عَلَيْهِمْ أَجْـمَعِينَ.
 
 Blessings of Allah be upon them all.
 
 [^1]: For a detailed understanding of this passage of the visitation,
 please refer to the following booklet:
 http://al-mubin.org/attachments/558\_TheDivineTestofFatimaZahra’.pdf
-
 

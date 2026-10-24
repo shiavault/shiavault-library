@@ -30,4 +30,3 @@ and to purify you a (thorough) purifying. Say: I do not ask of you any
 reward for it except love for my near relatives. And whoever earns good,
 We give him more of good therein. Surely Allah is Forgiving, Grateful.
 
-

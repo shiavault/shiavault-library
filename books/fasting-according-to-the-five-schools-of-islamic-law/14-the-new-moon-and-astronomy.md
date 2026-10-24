@@ -14,18 +14,14 @@ that there is nothing in the religion that disapproves of reliance on
 the opinion of astronomers; rather it is supported by this verse of
 Surat al-Nahl:
 
-<p dir="rtl">
 وَعَلامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
-</p>
 
 ***“...And way marks; and by the stars they are guided.” (16.16)***
 
 The antagonists state: The decision contradicts the above-mentioned
 prophetic traditon:
 
-<p dir="rtl">
 صوموا لرؤيته وأفطروا لرؤيته
-</p>
 
 That, because the word ru'yah*(sighting)* implies sighting the moon with
 the eyes, which was common among the people during the time of the
@@ -54,5 +50,4 @@ prove to be right to the extent that their forecasts become a certainty
 like the days of the week, then it will be possible to rely upon them.
 Rather, then it will be obligatory to follow their judgments and to
 reject everything that goes against them.4
-
 

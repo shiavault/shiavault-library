@@ -501,4 +501,3 @@ points to analyse society. We are going to analyse these points and make
 a comparative study of them so that in the end we may be able to
 ascertain how religion is one of the norms of history.
 
-

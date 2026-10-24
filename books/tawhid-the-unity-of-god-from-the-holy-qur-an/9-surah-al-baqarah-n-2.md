@@ -1,24 +1,16 @@
 Surah Al-Baqarah, n.2
 =====================
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ لَا إِلَٰهَ إِلَّا هُوَ الرَّحْمَٰنُ
-الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ لَا إِلَٰهَ إِلَّا هُوَ الرَّحْمَٰنُ
+> الرَّحِيمُ
 
 ***And your Allah is one Allah! there is no god but He; He is the
 Beneficent, the Merciful (2:163)***[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا
-يُحِبُّونَهُمْ كَحُبِّ اللَّهِ ۖ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا
-لِلَّهِ ۗ وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ
-أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا
+> يُحِبُّونَهُمْ كَحُبِّ اللَّهِ ۖ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا
+> لِلَّهِ ۗ وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ
+> أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ
 
 ***And there are some among men who take for themselves objects of
 worship***[^2] ***besides Allah, whom they love as they love Allah, and
@@ -31,5 +23,4 @@ See also: Tim, 2:5; John 20:17; Mat 4:10. All apostles including Jesus
 taught only the Unity of God and never the Trinity.
 
 [^2]: In substance
-
 

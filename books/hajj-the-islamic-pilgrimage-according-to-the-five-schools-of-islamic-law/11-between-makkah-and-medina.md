@@ -19,4 +19,3 @@ Sex does not become permissible to the pilgrim, from the Imamiyyah
 viewpoint, without this *tawaf* which we have already discussed in
 detail above.
 
-

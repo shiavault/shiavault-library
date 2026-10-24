@@ -16,14 +16,10 @@ the pleasure of the Ahlul Bayt (as).
 In Sahifatul Sajjadiyah, it has been narrated from Imam ‘Ali b.
 al-Husain as-Sajjad (as) that:
 
-<blockquote dir="rtl">
-  <p>
-مَا خَرَجَ وَ لاَ يَخْرُجُ مِنَّا أَهْلَ الْبَيْتِ إِلـى قِيَامِ
-قَائِمِنَا أَحَدٌ لِيَدْفَعَ ظُلْماً أَوْ يَنْعَشَ حَقًّا إِلاٌّ
-اصْطَلَمَتْهُ الْبَلِيَّةُ وَ كَانَ قِيَامُهُ زِيَادَةً فِي
-مَكْرُوهِنَا وَ شِيعَتِنَا
-  </p>
-</blockquote>
+> مَا خَرَجَ وَ لاَ يَخْرُجُ مِنَّا أَهْلَ الْبَيْتِ إِلـى قِيَامِ
+> قَائِمِنَا أَحَدٌ لِيَدْفَعَ ظُلْماً أَوْ يَنْعَشَ حَقًّا إِلاٌّ
+> اصْطَلَمَتْهُ الْبَلِيَّةُ وَ كَانَ قِيَامُهُ زِيَادَةً فِي
+> مَكْرُوهِنَا وَ شِيعَتِنَا
 
 “None of us, the Ahlul Bayt (as), have risen or will rise until the
 advent of the Awaited Imam (ajtf), to repel oppression or revive the
@@ -93,5 +89,4 @@ where a complete and detailed discussion has been given.
 [^1]: as-Sahifat as-Sajjadiyah (Compiled by Faidhul Islam), pg. 22
 
 [^2]: Refer to the footnote in responsibility Thirteen.
-
 

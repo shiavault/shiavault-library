@@ -1,13 +1,9 @@
 33. Chastisement 
 =================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ النَّبِيُّ (ص): مَنْ تَرَكَ صَلاَتَهُ حَتَّى تَفُوتَهُ مِنْ
-غَيْرِ عُذْرٍ فَقَدْ حَبِطَ عَمَلُهُ، ثُمَّ قَالَ: بَيْنَ العَبْدِ وَ
-بَيْنَ الكُفْرِ تَرْكُ الصَّلاَةِ.
-  </p>
-</blockquote>
+> قَالَ النَّبِيُّ (ص): مَنْ تَرَكَ صَلاَتَهُ حَتَّى تَفُوتَهُ مِنْ
+> غَيْرِ عُذْرٍ فَقَدْ حَبِطَ عَمَلُهُ، ثُمَّ قَالَ: بَيْنَ العَبْدِ وَ
+> بَيْنَ الكُفْرِ تَرْكُ الصَّلاَةِ.
 
    
  The Noble Prophet (peace be upon him and his progeny) has said: “The
@@ -17,5 +13,4 @@ divide between a believer and disbelief is the abandonment of
 prayers.”** **  
  Biharul Anwar, Volume 82, Page 202   
   
-
 

@@ -27,4 +27,3 @@ your spouse. You are free now! You are a man! Mina is conquered by you
 and Satan is defeated. What am I saying? You are Ibrahim now! You are in
 the position to sacrifice your Ismail for Him.
 
-

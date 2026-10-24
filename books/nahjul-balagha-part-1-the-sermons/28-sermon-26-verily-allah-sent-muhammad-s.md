@@ -3,23 +3,11 @@ Sermon 26: Verily, Allah sent Muhammad (S) ...
 
 *Arabia before proclamation of Prophethood*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وفيها يصف العرب قبل البعثة ثم يصف حاله قبل البيعة له
-  </p>
-</blockquote>
+> وفيها يصف العرب قبل البعثة ثم يصف حاله قبل البيعة له
 
-<blockquote dir="rtl">
-  <p>
-]العرب قبل البعثه[
-  </p>
-</blockquote>
+> ]العرب قبل البعثه[
 
 Verily, Allah sent Muhammad (S) as a warner (against vice) for all the
 worlds and a trustee of His revelation, while you people of Arabia were
@@ -28,16 +16,12 @@ venomous serpents. You drank dirty water and ate filthy food. You shed
 blood of each other and cared not for relationship. Idols are fixed
 among you and sins are clinging to you.
 
-<blockquote dir="rtl">
-  <p>
-انَّ اللهَ سُبحانَه بَعَثَ مُحَمَّداً نَذِيراً لِلْعَالَمِينَ،
-وَأَمِيناً عَلَى التَّنْزِيلِ، وَأَنْتُمْ مَعْشَرَ العَرَبِ عَلَى
-شَرِّ دِينٍ، وَفِي شَرِّ دَارٍ، مُنِيخُونَ بَيْنَ حِجارَةٍ خُشْنٍ
-وَحَيَّاتٍ صُمٍّ تشْرَبُونَ الكَدِرَ، وَتَأْكُلُونَ الجَشِبَ
-وَتَسْفِكُونَ دِمَاءَكُمْ، وَتَقْطَعُونَ أَرْحَامَكُمْ، الاْصْنَامُ
-فِيكُمْ مَنْصُوبَةٌ، وَالاْثَامُ بِكُمْ مَعْصُوبَةٌ
-  </p>
-</blockquote>
+> انَّ اللهَ سُبحانَه بَعَثَ مُحَمَّداً نَذِيراً لِلْعَالَمِينَ،
+> وَأَمِيناً عَلَى التَّنْزِيلِ، وَأَنْتُمْ مَعْشَرَ العَرَبِ عَلَى
+> شَرِّ دِينٍ، وَفِي شَرِّ دَارٍ، مُنِيخُونَ بَيْنَ حِجارَةٍ خُشْنٍ
+> وَحَيَّاتٍ صُمٍّ تشْرَبُونَ الكَدِرَ، وَتَأْكُلُونَ الجَشِبَ
+> وَتَسْفِكُونَ دِمَاءَكُمْ، وَتَقْطَعُونَ أَرْحَامَكُمْ، الاْصْنَامُ
+> فِيكُمْ مَنْصُوبَةٌ، وَالاْثَامُ بِكُمْ مَعْصُوبَةٌ
 
 Part of the same sermon in describing his condition before allegiance was paid to him (after the death of the Holy Prophet)
 ---------------------------------------------------------------------------------------------------------------------------
@@ -48,20 +32,12 @@ motes in them. I drank despite choking of throat. I exercised patience
 despite trouble in breathing and despite having to take sour colocynth
 as food.
 
-<blockquote dir="rtl">
-  <p>
-منها:
-  </p>
-</blockquote>
+> منها:
 
-<blockquote dir="rtl">
-  <p>
-فَنَظَرْتُ فَإِذَا لَيْسَ لِي مُعِينٌ إِلاَّ أَهْلُ بَيْتِي،
-فَضَنِنْتُ بِهمْ عَنِ المَوْتِ، وَأَغْضَيْتُ عَلَى القَذَى، وَشَرِبْتُ
-عَلَى الشَّجَا وَصَبَرْتُ عَلَى أَخْذِ الكَظَمِ، وَعَلىْ أَمَرَّ مِنْ
-طَعْمِ العَلْقَمِ.
-  </p>
-</blockquote>
+> فَنَظَرْتُ فَإِذَا لَيْسَ لِي مُعِينٌ إِلاَّ أَهْلُ بَيْتِي،
+> فَضَنِنْتُ بِهمْ عَنِ المَوْتِ، وَأَغْضَيْتُ عَلَى القَذَى، وَشَرِبْتُ
+> عَلَى الشَّجَا وَصَبَرْتُ عَلَى أَخْذِ الكَظَمِ، وَعَلىْ أَمَرَّ مِنْ
+> طَعْمِ العَلْقَمِ.
 
 Part of the same sermon on the settlement between Mu\`awiyah and \`Amr ibn al-\`As
 ----------------------------------------------------------------------------------
@@ -73,21 +49,13 @@ should take up arms for war and arrange equipment for it. Its flames
 have grown high and its brightness has increased. Clothe yourself with
 patience for it is the best to victory.[^1]
 
-<blockquote dir="rtl">
-  <p>
-ومنها:
-  </p>
-</blockquote>
+> ومنها:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يُبَايعْ حَتَّى شَرَطَ أَنْ يُؤْتِيَهِ عَلَى البَيْعَةِ
-ثَمَناً، فَلاَ ظَفِرَتْ يَدُ المبايِعِ، وخَزِيَتْ أَمَانَةُ
-المُبْتَاعِ فَخُذُوا لِلْحَرْبِ أُهْبَتَهَا وَأعِدُّوا لَهَا
-عُدَّتَهَا، فَقَدْ شَبَّ لَظَاهَا وَعَلاَ سَنَاهَا وَاسْتَشْعِرُوا
-الصَّبْرَ فَإِنَّهُ أحْزَمُ لِلنَّصْرِ.
-  </p>
-</blockquote>
+> وَلَمْ يُبَايعْ حَتَّى شَرَطَ أَنْ يُؤْتِيَهِ عَلَى البَيْعَةِ
+> ثَمَناً، فَلاَ ظَفِرَتْ يَدُ المبايِعِ، وخَزِيَتْ أَمَانَةُ
+> المُبْتَاعِ فَخُذُوا لِلْحَرْبِ أُهْبَتَهَا وَأعِدُّوا لَهَا
+> عُدَّتَهَا، فَقَدْ شَبَّ لَظَاهَا وَعَلاَ سَنَاهَا وَاسْتَشْعِرُوا
+> الصَّبْرَ فَإِنَّهُ أحْزَمُ لِلنَّصْرِ.
 
 Alternative Sources for Sermon 26
 ---------------------------------
@@ -124,5 +92,4 @@ avenge \`Uthman's blood by holding Amir al-mu'minin liable for it in
 exchange for the governorship of Egypt, and by whatever means possible
 would not let Mu\`awiyah's authority in Syria suffer. Consequently, both
 of them fulfilled the agreement and kept their words fully.
-
 

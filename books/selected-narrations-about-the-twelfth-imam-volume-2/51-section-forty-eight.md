@@ -153,4 +153,3 @@ chap. 33, p. 346, no. 32, with minor differences in wording, from
 Muḥammad b. al-Fuḍail, from his father, from Manṣūr.; Biḥār al-anwār,
 vol. 52, chap. 21, p. 111, no. 20.
 
-

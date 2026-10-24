@@ -115,7 +115,6 @@ writ- ten in it, with out announcing the contents.
 "elected,"' Ali and his relatives, in fact Banu Hashim were not invited
 not even informed of it. 14
 
-
 v) The possibility of a necessity arising to use force at the meeting
 at the Saqifah was not lost sight of by the actors of the Coup, and had
 been amply provided for. They had an armed force in Banu Sulaym ready

@@ -1,10 +1,6 @@
 Chapter Four
 ============
 
-  
-
-  
-
 ON THE EXCELLENCE OF *AHL AL-BAYT*,  
  AND IT IS IN THREE PARTS
 -------------------------------------
@@ -36,16 +32,9 @@ prepared for Imām Ali, peace be on him.
 Certainly, Allah has prepared for Ali, peace be on him,  all favors of
 the hereafter and made him dwell Paradise and live wherever he likes.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F349) *Darnūk* is one of the carpets of the Garden.  
-  
-
-  
-
-  
 
 35. Through his chain of authorities, he, peace be on him, said: [Allahs
 Messenger, may Allah bless him and his family, said:] O Ali, I asked my
@@ -87,11 +76,6 @@ Messenger, may Allah bless him and his family, said:] O
 [[1]](#_F350) Abū al-Qāsim al-Tā'i said: "I asked Abū al-'Abbās al-Tā'i
 about *hijjza*, and he replied: 'It is means.' Then I asked Ibn
 Naftawayh, the grammarian, about it, and he answered: 'It is means.'"  
-  
-
-  
-
-  
 
 Ali, you will be the Divider of the Garden and of the Fire; you will
 knock at the gate of the Garden and enter it with out any reckoning.
@@ -133,12 +117,6 @@ Surely, these four (leading figures) took part in building Islam and
 carried the torch of monotheism; accordingly, Allah ordered his Prophet
 to love them, for they were among the elements of piety and
 righteousness.
-
-  
-
-  
-
-  
 
 41. He, peace be on him, said: [Allahs Messenger, may Allah bless him
 and his family, said:] O Ali, surely, Allah has already forgiven you,
@@ -183,16 +161,9 @@ Cheat is in us, and Ali, the purified gold, is like a
 
 touchstone among us.[[1]](#_ftn351)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F351) Al-Shiblanji, Nūr al-Abbsār.  
-  
-
-  
-
-  
 
 44. Through his chain of authorities, he said: [Ali b. Abū Tālib, peace
 be on him, related to me. He said:] I have inherited two books from
@@ -236,10 +207,6 @@ animal; and my brother (Prophet) Sālih on Allahs she-camel which was
 slaughtered; my uncle Hamza on my she-camel al-Adbā; and my brother Ali
 b. Abū, peace be on him, on one of the she-  
 
-  
-
-  
-
 camels of the Garden and the Standard of Praise will be in his hand; and
 he will say: There is no god but Allah; Mohammed, may Allah bless him
 and his family, is the Messenger of Allah! So the human beings will say:
@@ -279,10 +246,6 @@ Prophet, peace be on him, concerning the piece of him, the mistress of
 the women of the world, Fātima, the chaste, the peace of Allah be upon
 her. This is one of the traditions in which he has declared that Allah
 has separated the Mistress of the women of the  
-
-  
-
-  
 
 world from the Fire; likewise, He has separated from the Fire her
 Shiites and those who love her.
@@ -329,10 +292,6 @@ seeking the help of the Merciful!
 Messenger, may Allah bless him and his family, said:] My daughter Fātima
 will be mustered and there will be on her the garment  
 
-  
-
-  
-
 of dignity which was already kneaded in the water of life; the creatures
 will look at her in amazement. Then she will also be clothed in two of
 the garments of the Garden; on each garment it will be written in green
@@ -375,10 +334,6 @@ renounced worldly pleasures.
 Messenger, may Allah bless him and his family, said:] An angel came to
 me and said: O Mohammed, surely Allah, the Great  
 
-  
-
-  
-
 and Almighty, recites to you (His) greetings and says: I have married
 Fātima to Ali, so marry her to him. I have ordered the Tree of Tubā to
 bear pearls, corals, and corundum. The inhabitants of the heaven have
@@ -414,12 +369,6 @@ that you are the daughter of Mohammed, may Allah bless him and his
 family, and that the clothes of the tyrants are on you. Hence she cut
 the necklace and sold it. Then she bought a slave and released him, so
 the Prophet, may Allah bless him and his family, was pleased with that.
-
-  
-
-  
-
-  
 
 The Messenger, may Allah bless him and his family, wanted the Mistress
 of women to be a model of virtue and self-negation; and he wanted her to
@@ -460,12 +409,6 @@ Allah, the Most High, singled the two grandsons of the Prophet, peace be
 on them, with every noble quality, endowed them with his favors, and
 chose them from among the rest of his creatures.
 
-  
-
-  
-
-  
-
 59. Through his chain of authorities, he, peace be on him, said: [Allahs
 Messenger, may Allah bless him and his family, said:] The stars are
 security for the inhabitants of the heaven; my household and my children
@@ -503,12 +446,6 @@ intercession of their grandfather, master of the prophets.
 Messenger, may Allah bless him and his family, said:] It is not lawful
 for us, *ahl al-Bayt*, to take alms; and we have been ordered to perform
 the ritual ablution properly, and not to ride on the shoulder of an ass.
-
-  
-
-  
-
-  
 
 It is forbidden for the members of the House (*ahl al-Bayt)*, peace be
 on them, to take obligatory alms such as *zakāt;* so is it forbidden for
@@ -551,10 +488,6 @@ summoned and it is nearly the moment for me to answer. I am going to
 leave among you the *thaqalayn*. If you cleave to them, you will never
 go astray after me; one of them is greater than the  
 
-  
-
-  
-
 other that is the Book of Allah which is a cord stretching from the sky
 to the earth and my offspring from my family. They will never scatter
 (from each other) until they come to me at the Pool *(hawd)*. Hence,
@@ -594,10 +527,6 @@ the sun, that the responsible may perform the Friday prayer.
 69. Through his chain of authorities, he, peace be on him, said: [My
 father Mūsā b. Jafar (i.e. Imām al-Sādiq), peace be on him, related to
 me. He said:] It was (engraved) in the ring of Mohammed  
-
-  
-
-  
 
 b. Ali: My opinion is good in Allah, the trusted Prophet, the
 testamentary trustee, possessor of favors, and the two good ones:
@@ -641,10 +570,6 @@ father Ali b. al-Husayn, peace be on him, related to me. He said: Asmā,
 daughter of Umays related to me. She said:] I assisted your grandmother
 Fātima in giving birth to al-Hasan and al-Husayn, peace  
 
-  
-
-  
-
 be on them. When al-Hasan was born, the Prophet, may Allah bless him and
 his family, came and said: O Asmā, bring me my son. I brought him
 wrapped in a yellow piece of cloth. The Prophet, may Allah bless him and
@@ -682,11 +607,6 @@ him and his family, came and said: Asmā, give me my son. I
  [[2]](#_F353) One of the customs of those who lived before Islam was
 that they painted the hair of their babies with blood. As for Islam, it
 forbade this custom and replaced it by perfume.  
-  
-
-  
-
-  
 
 wrapped him in a white piece of cloth and gave him to him. He said the
 *adhān* in his right ear and the *iqāma* in his left ear. He put him on
@@ -736,12 +656,6 @@ and perfumed his hair with *al-khulūq*.
 He said: Asmā, the blood is the action of those who lived before Islam
 Then he gave a leg of the ram to the midwife.
 
-  
-
-  
-
-  
-
 I (i.e. the author) think that a sentence of this tradition has been
 fabricated, which is the wish of Imām Ali, the Commander of the
 faithful, peace be on him, in naming his two sons Harb. This name is not
@@ -781,10 +695,6 @@ it is the holiest shrine in all regions of the world.
 asked about the visitation to the grave of al-Husayn, peace be on him,
 and he said: My father told me. He said:] He who visits the grave of
 al-Husayn and is aware of his right, Allah will write  
-
-  
-
-  
 
 him among those who are in the highest places in Paradise. Then he said:
 Surely, there are seventy thousand shaggy, dusty angels who weep over
@@ -826,10 +736,6 @@ related to me. He said: Ali b. Mūsā al-Ridā, peace be on him, related to
 me. He said: My father Mūsā b. Jafar related to me. He said: My father
 Jafar b. Mohammed related to me. He said: My father  
 
-  
-
-  
-
 Mohammed b. Ali related to me. He said: My father Ali b. al-Husayn
 related to me. He said: My father al-Husayn b. Ali related to me. He
 said: My father Ali b. Abū Tālib, peace be on him, related to me. He
@@ -839,6 +745,4 @@ brother Hārūn has died, so forgive him. Hence Allah, the Exalted,
 revealed to him: O Mūsā, if you ask me (to forgive) the first and the
 last, I will respond to you except those who killed al-Husayn, for I
 will not forgive them; rather I will take vengeance upon them.
-
-  
 

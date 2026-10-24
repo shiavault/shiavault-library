@@ -63,7 +63,6 @@ ayah, "But observe the measure strictly nor fall short thereof" (55:9)
 Imam (as) said, "Obey Imams (as) with adl (justice) and do not usurp
 Their rights." (Taweel ul Ayat pg 63)
 
-
 **56. Sura al Waqia (The Inevitable)**
 
 1. ayah 39 "A group(thalit) from among the first" (see ayah 40)
@@ -106,7 +105,6 @@ RasoolAllah (saw) called Ali (asws), and said, "O'Ali (asws)! Your fight
 is My fight. Your friendship is My friendship. You are the knowledge
 between Me and My ummah." (Tafseer e Furat pg 183)
 
-
 **61. Sura Saaf (Ranks)**
 
 1. ayah 10 "O' you who believe! Shall I lead you to a trade that will
@@ -145,5 +143,4 @@ that You are "Izn e Waiya" of My knowledge".
 regarding this ayah, "Verily! He is Haqqul Yaqeen!" Imam (as) said,
 "Verily! Haqqul Yaqeen is Ameerul Momineen (asws). One who denies this
 has turned away from haqq (truth)."
-
 

@@ -498,4 +498,3 @@ small may be added to the great, but the stallion is of the young camel.
 Date palms are destroyed by palm shoots. With this we will end our talk
 about Imam al-Hasan’s travel to Damascus and his debates in it.
 
-

@@ -18,12 +18,8 @@ Du’a’ in the Holy Qur’an
 The Almighty, who is the Revealer of knowledge and wisdom, states in His
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلا دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ
-فَسَوْفَ يَكُونُ لِزَامًا.
-  </p>
-</blockquote>
+> قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلا دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ
+> فَسَوْفَ يَكُونُ لِزَامًا.
 
 ***Say (O’ Muhammad to the disbelievers): My Lord would not concern
 Himself with you, but for your prayers. (25:77)***
@@ -34,12 +30,8 @@ about blessings for him/her.
 
 The All-Knowing Lord says in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِي إِذَا دَعَانِي.
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِي إِذَا دَعَانِي.
 
 ***And when My servant question thee concerning Me, then surely I am
 close (to them). I answer the prayer of the suppliant when he calleth
@@ -61,12 +53,8 @@ deepest needs and can provide him with all these blessings, except
 Allah? He is indeed closer to man than anyone else. Hence He says in
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الإِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ.
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الإِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ.
 
 ***We verily created a man and We know what his soul whispereth to him,
 and We are nearer to him than his jugular vein. (50:16)***
@@ -85,12 +73,8 @@ hence believed in the fulfillment of *du’a’* and humbly asked Allah to
 grant their supplication. The holy Qur’an states this fact so clearly
 from Prophet Abraham’s enlightened soul and purified speech:
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ إِسْمَاعِيلَ
-وَإِسْحَاقَ إِنَّ رَبِّي لَسَمِيعُ الدُّعَاءِ.
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ إِسْمَاعِيلَ
+> وَإِسْحَاقَ إِنَّ رَبِّي لَسَمِيعُ الدُّعَاءِ.
 
 ***Praise be to Allah who hath given me, in my old age, Ishmael and
 Isaac! Lo! My Lord is indeed the Hearer of Prayer. (14:39)***
@@ -110,12 +94,8 @@ their needs from Him and be hopeful of the acceptance of their
 supplication. The Omniscient has also assured to consign to hell those
 who are too proud to serve Him:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمْ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ.
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمْ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ.
 
 ***And your Lord hath said: Pray unto me and I will hear your prayer.
 Lo! Those who scorn My*** ***service, they will enter hell, disgraced.
@@ -148,41 +128,25 @@ God. That’s why the traditions narrated by the Ahl Al-Bayt (as) have all
 stressed the importance of *du’a’*. It is narrated from the holy Prophet
 of Islam (S):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الدُّعَاءَ هُوَ العِبَادَةُ.
-  </p>
-</blockquote>
+> إنَّ الدُّعَاءَ هُوَ العِبَادَةُ.
 
 *Du’a’ is indeed a worship.*[^1]
 
-<blockquote dir="rtl">
-  <p>
-الدُّعَاءُ مُخُّ العِبَادَةِ.
-  </p>
-</blockquote>
+> الدُّعَاءُ مُخُّ العِبَادَةِ.
 
 *Du’a’ is the core of worship.*[^2]
 
 Imam al-Baqir (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-أفْضَلُ العِبَادَةِ الدُّعَاءُ.
-  </p>
-</blockquote>
+> أفْضَلُ العِبَادَةِ الدُّعَاءُ.
 
 *The most preferable of worships is du’a.’*[^3]
 
 The Imam (as) also narrates:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍ أفْضَلُ عِنْدَ اللهِ عَزَّ وَجَلَّ مِنْ أنْ يُسْأَلَ
-وَيُطْلَبَ مِمَّا عِنْدَهُ، وَمَا أحَدٌ أبْغَضُ إلَى اللهِ مِمَّنْ
-يَسْتَكْبِرُ عَنْ عِبَادَتِهِ وَلاَ يَسْأَلُ مَا عِنْدَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍ أفْضَلُ عِنْدَ اللهِ عَزَّ وَجَلَّ مِنْ أنْ يُسْأَلَ
+> وَيُطْلَبَ مِمَّا عِنْدَهُ، وَمَا أحَدٌ أبْغَضُ إلَى اللهِ مِمَّنْ
+> يَسْتَكْبِرُ عَنْ عِبَادَتِهِ وَلاَ يَسْأَلُ مَا عِنْدَهُ.
 
 *Nothing is more dear to Allah than asking Him for His blessings. And no
 one is more destitute before Allah than one who is arrogant of
@@ -190,23 +154,15 @@ supplicating in His Presence.*[^4]
 
 The following is narrated from Amir al-Mu’minin (as):
 
-<blockquote dir="rtl">
-  <p>
-أَحَبُّ الأَعْمَالِ إلَى اللهِ تَعَالَى فِي الأَرْضِ الدُّعَاءُ.
-  </p>
-</blockquote>
+> أَحَبُّ الأَعْمَالِ إلَى اللهِ تَعَالَى فِي الأَرْضِ الدُّعَاءُ.
 
 *“The most desirable deed on all the earth is supplication to
 Allah.”*[^5]
 
-<blockquote dir="rtl">
-  <p>
-الدُّعَاءُ مَفَاتِيحُ النَّجَاحِ، وَمَقَالِيدُ الفَلاَحِ، وَخَيْرُ
-الدُّعَاءِ مَا صَدَرَ عَنْ صَدْرٍ نَقِيٍّ وَقَلْبٍ تَقِيٍّ، وَفِي
-الْمُنَاجَاةِ سَبَبُ النَّجَاةِ، وَبِالإخْلاَصِ يَكُونُ الخَلاَصُ،
-فَإذَا اشْتَدَّ الْفَزَعُ فَإلَى اللهِ المَفْزَعُ.
-  </p>
-</blockquote>
+> الدُّعَاءُ مَفَاتِيحُ النَّجَاحِ، وَمَقَالِيدُ الفَلاَحِ، وَخَيْرُ
+> الدُّعَاءِ مَا صَدَرَ عَنْ صَدْرٍ نَقِيٍّ وَقَلْبٍ تَقِيٍّ، وَفِي
+> الْمُنَاجَاةِ سَبَبُ النَّجَاةِ، وَبِالإخْلاَصِ يَكُونُ الخَلاَصُ،
+> فَإذَا اشْتَدَّ الْفَزَعُ فَإلَى اللهِ المَفْزَعُ.
 
 *Du’a’ is the key to success. The best du’a’ is the one uttered from a
 purified soul and heart. The means to salvation is sincerity in du’a’.
@@ -215,21 +171,13 @@ God’s Presence.*[^6]
 
 It is narrated from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-إذَا نَزَلَ الْبَلاءُ فَعَلَيْكُمْ بِالدُّعَاءِ وَالتَّضَرُّعِ إلَى
-اللهِ.
-  </p>
-</blockquote>
+> إذَا نَزَلَ الْبَلاءُ فَعَلَيْكُمْ بِالدُّعَاءِ وَالتَّضَرُّعِ إلَى
+> اللهِ.
 
 *When Allah descends a calamity, come in Allah’s presence with du’a’ and
 lamentation.*[^7]
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالدُّعَاءِ، فَإنَّ فِيهِ شِفَاءً مِنْ كُلِّ دَاءٍ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالدُّعَاءِ، فَإنَّ فِيهِ شِفَاءً مِنْ كُلِّ دَاءٍ.
 
 *Du’a’ is necessity for you, since it is the solution to every
 problem.*[^8]
@@ -249,24 +197,16 @@ of which are stated here:
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَا اجْتَمَعَ أرْبَعَةٌ قَطُّ عَلَى أمْرٍ وَاحِدٍ إلاّ تَفَرَّقوُا
-عَنْ إجَابَةٍ.
-  </p>
-</blockquote>
+> مَا اجْتَمَعَ أرْبَعَةٌ قَطُّ عَلَى أمْرٍ وَاحِدٍ إلاّ تَفَرَّقوُا
+> عَنْ إجَابَةٍ.
 
 *No four people congregate to pray for a single issue, unless their
 exigency is granted when they leave each other.*[^9]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَجْتَمِعُ أرْبَعُونَ رَجُلاً فِي أمْرٍ وَاحِدٍ إلاّ اسْتَجَابُ
-اللهُ تَعَالَى لَهُمْ حَتَّى لَوْ دَعَوْا عَلَى جَبَلٍ لأَزَالُوهُ.
-  </p>
-</blockquote>
+> لاَ يَجْتَمِعُ أرْبَعُونَ رَجُلاً فِي أمْرٍ وَاحِدٍ إلاّ اسْتَجَابُ
+> اللهُ تَعَالَى لَهُمْ حَتَّى لَوْ دَعَوْا عَلَى جَبَلٍ لأَزَالُوهُ.
 
 *No forty men gather together to pray for a single issue, unless the
 Almighty God accepts their prayer; to the extent that if they pray
@@ -277,24 +217,16 @@ al-Shi’a*” in his book “*‘Uddat al-Da’i*”:
 
 Allah told Jesus through revelation:
 
-<blockquote dir="rtl">
-  <p>
-يَا عِيسَى! تَقَرَّبْ إلَى المُؤمِنِينَ وَمُرْهُمْ أنْ يَدْعُونِي
-مَعَكَ.
-  </p>
-</blockquote>
+> يَا عِيسَى! تَقَرَّبْ إلَى المُؤمِنِينَ وَمُرْهُمْ أنْ يَدْعُونِي
+> مَعَكَ.
 
 *O Jesus! Join the believers and order them to pray with you before My
 Presence!*[^11]
 
 Imam Sadiq (as) states:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ أبِي عَلَيْهِ السَّلاَمُ إذَا حَزَنَهُ أمْرٌ جَمَعَ النِّسَاءَ
-وَالصِّبْيَانَ ثُمَّ دَعَا وَأَمَّنُوا.
-  </p>
-</blockquote>
+> كَانَ أبِي عَلَيْهِ السَّلاَمُ إذَا حَزَنَهُ أمْرٌ جَمَعَ النِّسَاءَ
+> وَالصِّبْيَانَ ثُمَّ دَعَا وَأَمَّنُوا.
 
 *My father always acted this way; whenever something made him sorrowful,
 he gathered women and children, then he prayed and they said Amen!*[^12]
@@ -314,13 +246,9 @@ whose Insight, Mercy and Forgiveness is infinite, especially when
 praying. Despair, as specified in the Holy Qur’an, is the attribute of
 the disbelievers:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلا
-تَيْئَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لا يَيْئَسُ مِنْ رَوْحِ اللَّهِ
-إِلاَّ الْقَوْمُ الكَافِرُونَ.
-  </p>
-</blockquote>
+> يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلا
+> تَيْئَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لا يَيْئَسُ مِنْ رَوْحِ اللَّهِ
+> إِلاَّ الْقَوْمُ الكَافِرُونَ.
 
 ***Go, O my sons! And ascertain concerning Joseph and his brother, and
 despair not of the Spirit of Allah. Lo! None despaireth of the Spirit of
@@ -329,33 +257,21 @@ Allah save disbelieving folk. (12:87)***
 The Holy Qur’an strongly recommends against being hopeless of God’s
 Mercy:
 
-<blockquote dir="rtl">
-  <p>
-لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ.
-  </p>
-</blockquote>
+> لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ.
 
 ***Despair not of the Mercy of Allah! (39:53)***
 
 The Prophet of Islam (S) states:
 
-<blockquote dir="rtl">
-  <p>
-اَلفَاجِرُ الرَّاجِي لِرَحْمَةِ اللهِ تَعَالَى أقْرَبُ مِنْهَا مِنَ
-العَابِدِ المُقَنَّطِ.
-  </p>
-</blockquote>
+> اَلفَاجِرُ الرَّاجِي لِرَحْمَةِ اللهِ تَعَالَى أقْرَبُ مِنْهَا مِنَ
+> العَابِدِ المُقَنَّطِ.
 
 *Allah’s Mercy is nearer to a hopeful sinner than to a hopeless
 worshipper.*[^13]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-الْيَأسُ مِنْ رَوْحِ اللهِ أشَدُّ بَرْداً مِنَ الزَّمْهَرِيرِ.
-  </p>
-</blockquote>
+> الْيَأسُ مِنْ رَوْحِ اللهِ أشَدُّ بَرْداً مِنَ الزَّمْهَرِيرِ.
 
 *The cold of despair from God’s Mercy is colder than intense cold.*[^14]
 
@@ -376,15 +292,11 @@ come here:
 
 Imam Sadiq (as) narrates:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْعَبْدَ لَيَدْعُو اللهَ فَيُقُولُ اللهُ عَزَّ وَجَلَّ
-لِلْمَلَكَيْنِ: قَدِ اسْتَجَبْتُ لَهُ، وَلكِنْ إحْبِسُوهُ بِحَاجَتِهِ
-فَإنَّي أُحِبُّ أنْ أسْمَعَ صَوْتَهُ، وإنَّ العَبْدَ لَيَدْعُو
-فَيَقُولُ اللهُ تَبَارَكَ وَتَعَالَى: عَجِّلُوا لَهُ حَاجَتَهُ فَإنِّي
-أبْغَضُ صَوْتَهُ.
-  </p>
-</blockquote>
+> إنَّ الْعَبْدَ لَيَدْعُو اللهَ فَيُقُولُ اللهُ عَزَّ وَجَلَّ
+> لِلْمَلَكَيْنِ: قَدِ اسْتَجَبْتُ لَهُ، وَلكِنْ إحْبِسُوهُ بِحَاجَتِهِ
+> فَإنَّي أُحِبُّ أنْ أسْمَعَ صَوْتَهُ، وإنَّ العَبْدَ لَيَدْعُو
+> فَيَقُولُ اللهُ تَبَارَكَ وَتَعَالَى: عَجِّلُوا لَهُ حَاجَتَهُ فَإنِّي
+> أبْغَضُ صَوْتَهُ.
 
 *Surely, a servant prays and Allah says to two angels: ‘I accepted his
 supplication, but don’t grant his demand so that he continues praying,
@@ -429,19 +341,15 @@ abolish their sins.
 
 It is narrated from Imam Sadiq (as) in a valid tradition:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ لِلجُمُعَةِ حقّاً فَإيَّاكَ أنْ تُضَيِّعَ حُرْمَتَهُ أوْ
-تُقَصِّرَ فِي شَيْءٍ مِنْ عِبَادَةِ اللهِ وَالتَّقَرُّبِ إلَيْهِ
-بِالعَمَلِ الصَّالِحِ وَتَرْكِ الْمَحَارِمَ كُلِّهَا فَإنَّ اللهَ
-تَعَالَى يُضَاعِفُ فِيهِ الْحَسَنَاتِ وَيَمْحُو السَّيِّئَاتِ
-وَيَرْفَعُ فِيهِ الدَّرَجَاتِ، وَيَوْمُُهُ مِثْلُ لَيْلَتِهِ فَإن
-اسْتَطَعْتَ أنْ تُحْيِيَهَا بِالدُّعَاءِ وَالصَّلاَةِ فَافْعَلْ فَإنَّ
-اللهَ تَعَالَى يُرْسِلُ فِيهَا الْمَلائِكَةَ إلَى السَّمَاءِ
-الدُّنْيَا لِتُضَاعَفَ فِيهَا الْحَسَناتُ وَتُمْحَى فِيهَا
-السَّيِّئَاتُ وَإنَّ اللهَ وَاسِعٌ كَرِيم.ٌ
-  </p>
-</blockquote>
+> إنَّ لِلجُمُعَةِ حقّاً فَإيَّاكَ أنْ تُضَيِّعَ حُرْمَتَهُ أوْ
+> تُقَصِّرَ فِي شَيْءٍ مِنْ عِبَادَةِ اللهِ وَالتَّقَرُّبِ إلَيْهِ
+> بِالعَمَلِ الصَّالِحِ وَتَرْكِ الْمَحَارِمَ كُلِّهَا فَإنَّ اللهَ
+> تَعَالَى يُضَاعِفُ فِيهِ الْحَسَنَاتِ وَيَمْحُو السَّيِّئَاتِ
+> وَيَرْفَعُ فِيهِ الدَّرَجَاتِ، وَيَوْمُُهُ مِثْلُ لَيْلَتِهِ فَإن
+> اسْتَطَعْتَ أنْ تُحْيِيَهَا بِالدُّعَاءِ وَالصَّلاَةِ فَافْعَلْ فَإنَّ
+> اللهَ تَعَالَى يُرْسِلُ فِيهَا الْمَلائِكَةَ إلَى السَّمَاءِ
+> الدُّنْيَا لِتُضَاعَفَ فِيهَا الْحَسَناتُ وَتُمْحَى فِيهَا
+> السَّيِّئَاتُ وَإنَّ اللهَ وَاسِعٌ كَرِيم.ٌ
 
 *Verily, Fridays enjoy rights (incumbent upon people). Therefore, beware
 of violating Fridays’ sanctity through showing shortcoming in acts of
@@ -457,23 +365,15 @@ who, at that night, orders the angels to descend to the lower heavens in
 order to double the rewards and erase the transgressions. Most surely,
 Allah is Ample-giving and All-generous.*[^19]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ المُؤمِنَ لَيَدْعُو فِي الحَاجَةِ فَيُؤَخِّرُ اللهُ حَاجَتَهُ
-الَّتِي سَأَلَ إلَى يَوْمِ الجُمُعَةِ لِيَخُصَّهُ بِفَضْلِهِ.
-  </p>
-</blockquote>
+> إنَّ المُؤمِنَ لَيَدْعُو فِي الحَاجَةِ فَيُؤَخِّرُ اللهُ حَاجَتَهُ
+> الَّتِي سَأَلَ إلَى يَوْمِ الجُمُعَةِ لِيَخُصَّهُ بِفَضْلِهِ.
 
 *The believer may pray for an exigency and Allah postpones answering him
 to grant him his demand on Thursday night.*[^20]
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا سَألَ إخْوَةُ يُوسُفَ يَعقُوبَ أنْ يَسْتَغْفِرَ لَهُمْ، قَالَ:
-(سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبّي) ثُمَّ أخَّرَ الاسْتِغْفَارَ إلى
-السَّحَرِ مِنْ لَيْلَةِ الْجُمُعَةِ كَيْ يُسْتَجَابَ لَهُ.
-  </p>
-</blockquote>
+> لَمَّا سَألَ إخْوَةُ يُوسُفَ يَعقُوبَ أنْ يَسْتَغْفِرَ لَهُمْ، قَالَ:
+> (سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبّي) ثُمَّ أخَّرَ الاسْتِغْفَارَ إلى
+> السَّحَرِ مِنْ لَيْلَةِ الْجُمُعَةِ كَيْ يُسْتَجَابَ لَهُ.
 
 *When Prophet Josef’s brothers asked their father, Prophet Jacob, to
 seek forgiveness for them from Allah, Jacob said: ‘I will seek
@@ -482,24 +382,20 @@ until Friday dawn so that his exigency will be answered.*[^21]
 
 Imam al-Baqir (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ تَعالَى لَيَأمُرُ مَلَكاً فَيُنَادِي كُلَّ لَيْلَةِ
-جُمُعَةٍ مِنْ فَوْقِ عَرْشِهِ مِنْ أوَّلِ اللَّيْلِ إلَى آخِرِهِ: ألاَ
-عَبْدٌ مُؤمِنٌ يَدعُونِي لآخِرَتِهِ وَدُنْياهُ قَبْلَ طُلُوعِ الفَجْرِ
-فَأُجِيبُهُ؟ ألاَ عَبْدٌ مُؤمِنٌ يَتُوبُ إلَيَّ مِنْ ذُنُوبِهِ قَبْلَ
-طُلُوعِ الفَجْرِ فَأتُوبُ عَلَيْهِ؟ ألاَ عَبْدٌ مُؤمِنٌ قَدْ قَتَّرْتُ
-عَلَيْهِ رِزْقَهُ فَيَسْأَلُنِي الزِّيَادَةَ فِي رِزْقِهِ قَبْلَ
-طُلُوعِ الْفَجْرِ فَأزِيدُهُ وَأوسِعُ عَلَيْهِ؟ ألاَ عَبْدٌ مُؤمِنٌ
-سَقِيمٌ فَيَسْألُنِي أنْ أشْفِيَهُ قَبْلَ طُلُوعِ الفَجْرِ
-فَأُعَافِيهِ؟ ألاَ عَبْدٌ مُؤمِنٌ مَغْمُومٌ مَحْبُوسٌ يَسْألُنِي أنْ
-أُطْلِقَهُ مِنْ حَبْسِهِ وَأُفَرِّجُ عَنْهُ قَبْلَ طُلُوعِ الفَجْرِ
-فَأُطْلِقُهُ وَأُخَلّي سَبِيلَهُ؟ ألاَ عَبْدٌ مُؤمِنٌ مَظْلُومٌ
-يَسْألُنِي أنْ آخُذَ لَهُ بِظُلامَتِهِ قَبْلَ طُلُوعِ الفَجْرِ
-فَأَنْتَصِرُ لَهُ وَآخُذُ بِظُلامَتِهِ؟ قال: فَلا يَزالُ يُنادِي
-حَتَّى يَطْلُعَ الفَجْرُ.
-  </p>
-</blockquote>
+> إنَّ اللهَ تَعالَى لَيَأمُرُ مَلَكاً فَيُنَادِي كُلَّ لَيْلَةِ
+> جُمُعَةٍ مِنْ فَوْقِ عَرْشِهِ مِنْ أوَّلِ اللَّيْلِ إلَى آخِرِهِ: ألاَ
+> عَبْدٌ مُؤمِنٌ يَدعُونِي لآخِرَتِهِ وَدُنْياهُ قَبْلَ طُلُوعِ الفَجْرِ
+> فَأُجِيبُهُ؟ ألاَ عَبْدٌ مُؤمِنٌ يَتُوبُ إلَيَّ مِنْ ذُنُوبِهِ قَبْلَ
+> طُلُوعِ الفَجْرِ فَأتُوبُ عَلَيْهِ؟ ألاَ عَبْدٌ مُؤمِنٌ قَدْ قَتَّرْتُ
+> عَلَيْهِ رِزْقَهُ فَيَسْأَلُنِي الزِّيَادَةَ فِي رِزْقِهِ قَبْلَ
+> طُلُوعِ الْفَجْرِ فَأزِيدُهُ وَأوسِعُ عَلَيْهِ؟ ألاَ عَبْدٌ مُؤمِنٌ
+> سَقِيمٌ فَيَسْألُنِي أنْ أشْفِيَهُ قَبْلَ طُلُوعِ الفَجْرِ
+> فَأُعَافِيهِ؟ ألاَ عَبْدٌ مُؤمِنٌ مَغْمُومٌ مَحْبُوسٌ يَسْألُنِي أنْ
+> أُطْلِقَهُ مِنْ حَبْسِهِ وَأُفَرِّجُ عَنْهُ قَبْلَ طُلُوعِ الفَجْرِ
+> فَأُطْلِقُهُ وَأُخَلّي سَبِيلَهُ؟ ألاَ عَبْدٌ مُؤمِنٌ مَظْلُومٌ
+> يَسْألُنِي أنْ آخُذَ لَهُ بِظُلامَتِهِ قَبْلَ طُلُوعِ الفَجْرِ
+> فَأَنْتَصِرُ لَهُ وَآخُذُ بِظُلامَتِهِ؟ قال: فَلا يَزالُ يُنادِي
+> حَتَّى يَطْلُعَ الفَجْرُ.
 
 *During every Thursday night, Allah orders an angel to call on behalf of
 the Almighty: Is there any believer who calls Me for this world and the
@@ -516,16 +412,12 @@ restore his rights? He will keep saying so until dawn.*[^22]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إجْتَنِبوا المَعاصِيَ لَيْلَةَ الجُمُعَةِ فَإنَّ السَّيِّئَةَ
-مُضَاعَفَةٌ وَالحَسَنَةَ مُضَاعَفَةٌ. وَمَنْ تَرَكَ مَعْصِيَةَ اللهِ
-لَيْلَةَ الجُمُعَةِ غَفَرَ اللهُ لَهُ كُلَّ مَا سَلَفَ، وَمَنْ بَارَزَ
-اللهَ لَيْلَةَ الجُمُعَةِ بِمَعْصِيَةٍ أخَذَهُ اللهُ بِكُلِّ مَا
-عَمِلَ فِي عُمُرِهِ وَضَاعَفَ عَلَيْهِ العَذَابَ بِهَذِهِ
-المَعْصِيَةِ.
-  </p>
-</blockquote>
+> إجْتَنِبوا المَعاصِيَ لَيْلَةَ الجُمُعَةِ فَإنَّ السَّيِّئَةَ
+> مُضَاعَفَةٌ وَالحَسَنَةَ مُضَاعَفَةٌ. وَمَنْ تَرَكَ مَعْصِيَةَ اللهِ
+> لَيْلَةَ الجُمُعَةِ غَفَرَ اللهُ لَهُ كُلَّ مَا سَلَفَ، وَمَنْ بَارَزَ
+> اللهَ لَيْلَةَ الجُمُعَةِ بِمَعْصِيَةٍ أخَذَهُ اللهُ بِكُلِّ مَا
+> عَمِلَ فِي عُمُرِهِ وَضَاعَفَ عَلَيْهِ العَذَابَ بِهَذِهِ
+> المَعْصِيَةِ.
 
 *Avoid committing sins on Thursday nights, since the punishment is
 double then, just as the recompense for virtues is multifold. Whoever
@@ -595,5 +487,4 @@ tradition 17109.
 [^22]: Bihar al-Anwar: 86/282, chapter 2, tradition 27.
 
 [^23]: Bihar al-Anwar: 86/283, chapter 2, tradition 28.
-
 

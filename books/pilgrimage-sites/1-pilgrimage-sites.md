@@ -8,4 +8,3 @@ Planning a pilgrimage (***ziyarat***) to one of the places below? Click
 on a country to see important places you shouldn't miss visiting and
 taking note of.
 
-

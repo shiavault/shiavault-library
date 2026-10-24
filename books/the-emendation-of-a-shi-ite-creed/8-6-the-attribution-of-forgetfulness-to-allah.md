@@ -24,4 +24,3 @@ interest'. This is a tenable interpretation of the verse, though the
 other one, advanced by Abu Ja‘far, is not refuted, and Allah, the
 Exalted, is the granter of success.
 
-

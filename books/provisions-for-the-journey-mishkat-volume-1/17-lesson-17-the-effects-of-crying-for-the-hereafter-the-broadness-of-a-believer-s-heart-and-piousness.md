@@ -296,13 +296,9 @@ punishment of divulging sins is higher than sin itself and revealing
 sins is considered as one of the delicate instances of spreading
 corruption:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
-آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيا وَالآخِرَةِ وَاللهُ
-يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
+> آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيا وَالآخِرَةِ وَاللهُ
+> يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ
 
 ***“Surely (as for) those who love that scandal should speculate
 respecting those who believe, they shall have a grievous chastisement in
@@ -407,5 +403,4 @@ bath increases his energy, vigor and liveliness.
 [^3]: Surat al-Kahf 18:110.
 
 [^4]: Bihar al-Anwar, vol. 84, p. 248.
-
 

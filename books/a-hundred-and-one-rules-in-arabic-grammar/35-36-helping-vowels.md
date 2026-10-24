@@ -19,11 +19,8 @@ b. If the proceeding vowel is Kasra, the helping vowel is FatHa.
 
 c. If the proceeding vowel is Dhamma, the helping vowel is Dhamma.
 
-<p dir="rtl">
 **لماذا (قابَلتـُمْ) قابَلتـُمُ
 المديرَةَ؟                                      **
-</p>
 
 Why did you (m, pl) meet the director (f)?
-
 

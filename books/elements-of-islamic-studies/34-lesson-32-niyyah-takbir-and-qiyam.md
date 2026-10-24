@@ -107,4 +107,3 @@ keep them not so tight;
 a drop of water is dropped on the back it does not move down; a woman
 should keep her back in an arch fashion.
 
-

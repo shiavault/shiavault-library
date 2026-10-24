@@ -96,4 +96,3 @@ of which are contradictory.
 The following discussions are introduced as preliminary introductions to
 the exegesis of the three Verses of Ghadir.
 
-

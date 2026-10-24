@@ -29,4 +29,3 @@ And may the peace and mercy of Allah and His blessings be upon you.
 [Seal and Signature]  
  Mar\`ashi Najafi
 
-

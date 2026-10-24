@@ -4,20 +4,12 @@ Section 2: Noah and Abraham’s Mission
 Surah Al-‘Ankabut - Verses 14-15
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَآ نُوحاً إِلَي قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ
-سَنَةٍ إِلاَّ خَمْسِينَ عَاماً فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ
-ظَالِمُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَآ نُوحاً إِلَي قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ
+> سَنَةٍ إِلاَّ خَمْسِينَ عَاماً فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ
+> ظَالِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَنجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ وَجَعَلْنَاهَآ ءَايَةً
-لّـِلْعَالَمِينَ
-  </p>
-</blockquote>
+> فَأَنجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ وَجَعَلْنَاهَآ ءَايَةً
+> لّـِلْعَالَمِينَ
 
 ***14. “And certainly We sent Noah to his people, so he remained among
 them a thousand years save fifty years. And the deluge overtook them
@@ -135,12 +127,8 @@ Arc.
 Surah Al-‘Ankabut - Verse 16
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ
-ذَلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ
+> ذَلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
 ***16. “And (recollect) Abraham when he said unto his people ‘Worship
 Allah and be in owe of Him; that will be best for you if you did but
@@ -169,14 +157,10 @@ next world will also be with perpetual felicity.
 Surah Al-‘Ankabut - Verse 17
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا تَعْبُدُونَ مِن دُونِ اللَّهِ أَوْثَاناً وَتَخْلُقُونَ
-إِفْكاً إِنَّ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ لاَ يَمْلِكُونَ
-لَكُمْ رِزْقاً فَابْتَغُوا عِندَ اللَّهِ الرّ‌ِزْقَ وَاعْبُدُوهُ
-وَاشْكُرُوا لَهُ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا تَعْبُدُونَ مِن دُونِ اللَّهِ أَوْثَاناً وَتَخْلُقُونَ
+> إِفْكاً إِنَّ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ لاَ يَمْلِكُونَ
+> لَكُمْ رِزْقاً فَابْتَغُوا عِندَ اللَّهِ الرّ‌ِزْقَ وَاعْبُدُوهُ
+> وَاشْكُرُوا لَهُ إِلَيْهِ تُرْجَعُونَ
 
 ***17. “You worship idols besides Allah and you create a calumny, verily
 those whom you worship besides Allah do not own for you any sustenance,
@@ -265,12 +249,8 @@ their logic by means of a few short and clear proofs in these verses.
 Surah Al-‘Ankabut - Verse 18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن تُكَذّ‌ِبُوا فَقَدْ كَذَّبَ اُمَمٌ مّـِن قَبْلِكُمْ وَمَا عَلَي
-الرَّسُولِ إِلاَّ الْبَلاَغُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَإِن تُكَذّ‌ِبُوا فَقَدْ كَذَّبَ اُمَمٌ مّـِن قَبْلِكُمْ وَمَا عَلَي
+> الرَّسُولِ إِلاَّ الْبَلاَغُ الْمُبِينُ
 
 ***18. “And if you reject (the Message), so did generations before you
 and nothing is incumbent on the messenger but a plain delivery (of the
@@ -296,12 +276,8 @@ and the nations who came to live after them.
 Surah Al-‘Ankabut - Verse 19
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ لَمْ يَرَوْا كَيْفَ يُبْدِئُ اللَّهُ الْخَلْقَ ثُمَّ يُعِيدُهُ
-إِنَّ ذَلِكَ عَلَي اللَّهِ يَسِيرٌ
-  </p>
-</blockquote>
+> أَوَ لَمْ يَرَوْا كَيْفَ يُبْدِئُ اللَّهُ الْخَلْقَ ثُمَّ يُعِيدُهُ
+> إِنَّ ذَلِكَ عَلَي اللَّهِ يَسِيرٌ
 
 ***19. “Have they not seen how Allah originates creation, then brings it
 back again? Verily that is easy for Allah.”***
@@ -346,13 +322,9 @@ some others are easy.
 Surah Al-‘Ankabut - Verse 20
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ سِيرُوا فِي الأَرْضِ فَانْظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ثُمَّ
-يُنشِئُ النَّشْأَةَ الاَخِرَةَ إِنَّ اللَّهَ عَلَي كُلّ‌ِ شَيْءٍ
-قَدِيرٌ
-  </p>
-</blockquote>
+> قُلْ سِيرُوا فِي الأَرْضِ فَانْظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ثُمَّ
+> يُنشِئُ النَّشْأَةَ الاَخِرَةَ إِنَّ اللَّهَ عَلَي كُلّ‌ِ شَيْءٍ
+> قَدِيرٌ
 
 ***20. “Say: ‘Travel in the earth and see how He has originated the
 creation, then Allah brings forth the later creation; verily Allah is
@@ -437,18 +409,10 @@ states a limit study and the second one indicates to a vast study.
 Surah Al-‘Ankabut - Verses 21-22
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُعَذّ‌ِبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ وَإِلَيْهِ تُقْلَبُونَ
-  </p>
-</blockquote>
+> يُعَذّ‌ِبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ وَإِلَيْهِ تُقْلَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَنتُم بِمُعْجِزِينَ فِي الاَرْضِ وَلاَ فِي السَّمَآءِ وَمَا
-لَكُم مِن دُونِ اللَّهِ مِن وَلِيٍّ وَلاَ نَصِيرٍ
-  </p>
-</blockquote>
+> وَمَآ أَنتُم بِمُعْجِزِينَ فِي الاَرْضِ وَلاَ فِي السَّمَآءِ وَمَا
+> لَكُم مِن دُونِ اللَّهِ مِن وَلِيٍّ وَلاَ نَصِيرٍ
 
 ***21. “He punishes whom He pleases and has mercy on whom He pleases,
 and unto Him you will be turned back.”***  
@@ -529,5 +493,4 @@ Divine punishment to the wrong-doers.
 [^2]: You may refer to the book: “Mahdi ’Inqlabi-yi- Buzurg”
 
 [^3]: Mufradat by Raqib and ‘Amid Dictionary
-
 

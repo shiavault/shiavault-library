@@ -76,11 +76,7 @@ while conviction is a personal and individual affair related to the
 heart. So, in the legal laws of Islam a law pertaining to belief does
 neither positively nor negatively exist:
 
-<blockquote dir="rtl">
-  <p>
-…الدّينِ فِى اِكْراهَ لآ
-  </p>
-</blockquote>
+> …الدّينِ فِى اِكْراهَ لآ
 
 ***“There is no compulsion in religion.”***[^1]
 
@@ -519,19 +515,11 @@ his view concerning this “duty” is as what he said: If a person does not
 shout and voice out (the truth of the matter), he has committed major
 sin. In this connection, the Holy Qur’an also states:
 
-<blockquote dir="rtl">
-  <p>
-بَيِّنّاهُ ما بَعْدِ مِنْ وَالهُدى البَيِّناتِ مِنَ أنْزَلْنا مآ
-يَكْتُمُوْنَ الَّذينَ اِنَّ )
-  </p>
-</blockquote>
+> بَيِّنّاهُ ما بَعْدِ مِنْ وَالهُدى البَيِّناتِ مِنَ أنْزَلْنا مآ
+> يَكْتُمُوْنَ الَّذينَ اِنَّ )
 
-<blockquote dir="rtl">
-  <p>
-( اللاَّعِنُوْنَ وَيَلْعَنُهُمُ اللهُ يَلْعَنُهُمُ أولَئِكَ الكِتَابِ
-فِي لِلنّاسِ
-  </p>
-</blockquote>
+> ( اللاَّعِنُوْنَ وَيَلْعَنُهُمُ اللهُ يَلْعَنُهُمُ أولَئِكَ الكِتَابِ
+> فِي لِلنّاسِ
 
 ***“Those who hide the proofs and the guidance which We revealed, after
 We had made it clear in the Scripture: such are accursed of Allah and
@@ -597,19 +585,11 @@ battlefield wants to ask a question about the truths of religion Islam
 has ordered to provide the opportunities for him to come and get a due
 answer:
 
-<blockquote dir="rtl">
-  <p>
-يَسْمَعَ حَتَّى فَأجِرْهُ اسْتَجارَكَ المُشْرِكِيْنَ مِنَ أَحَدٌ اِنْ
-وَ )
-  </p>
-</blockquote>
+> يَسْمَعَ حَتَّى فَأجِرْهُ اسْتَجارَكَ المُشْرِكِيْنَ مِنَ أَحَدٌ اِنْ
+> وَ )
 
-<blockquote dir="rtl">
-  <p>
-( يَعْلَمُوْنَ لا قَوْمٌ بِأنَّهُمْ ذَلِكَ مَأمَنَهُ أبْلِغْهُ ثُمَّ
-اللهِ كَلامَ
-  </p>
-</blockquote>
+> ( يَعْلَمُوْنَ لا قَوْمٌ بِأنَّهُمْ ذَلِكَ مَأمَنَهُ أبْلِغْهُ ثُمَّ
+> اللهِ كَلامَ
 
 ***“And if anyone of the idolaters seeketh thy protection (O Muhammad(,
 then protect him so that he may hear the word of Allah; and afterward
@@ -702,5 +682,4 @@ Compilation and Publication of Imam Khomeini’s Works, Winter 1995).
 [^7]: Surah al-Baqarah 2:159.
 
 [^8]: Surah at-Tawbah 9:6.
-
 

@@ -49,4 +49,3 @@ May you shine, May you follow Allah's way
 
 Happy Eid, may Islam advance this day
 
-

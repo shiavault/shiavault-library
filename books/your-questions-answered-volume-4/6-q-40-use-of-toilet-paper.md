@@ -121,4 +121,3 @@ water runs through it, then after rinsing it (so that water is squeezed
 out) it will become Tahir. If you are using still water which is less
 than a Kur, then you should rinse it twice.
 
-

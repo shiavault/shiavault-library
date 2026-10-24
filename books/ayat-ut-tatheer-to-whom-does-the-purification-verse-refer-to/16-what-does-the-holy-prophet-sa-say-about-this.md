@@ -37,4 +37,3 @@ the wives of the Prophet (SA) are *not* those purified individuals
 referred to by the purification verse, and are rather, totally
 eliminated from this reference1
 
-

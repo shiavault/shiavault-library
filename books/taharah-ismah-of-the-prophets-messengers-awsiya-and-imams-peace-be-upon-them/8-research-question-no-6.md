@@ -64,9 +64,7 @@ relationship is in itself desired and recommended.
 
 After all, did not Allah (SWT) say in the Qur’an in Surah Al-Hujuraat:
 
-<p dir="rtl">
 وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ
-</p>
 
 **"Wa la tajharoo lahu bil qawl ka jahr ba’dekom liba'd",**
 
@@ -185,5 +183,4 @@ This is just a
 
 question…so, why then do we then claim that the concept of Taharah and
 ‘Ismah will hinder with relating, communicating, and dealing?
-
 

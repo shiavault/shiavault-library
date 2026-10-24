@@ -44,4 +44,3 @@ existence to understand the second answer.
 
 [^1]: Muhammad Taqi Ja'fari in an interview.
 
-

@@ -22,4 +22,3 @@ called the eighth wonder of the world.
 which show the influence of the ancient culture that was prevalent in
 India.
 
-

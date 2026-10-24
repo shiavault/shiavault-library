@@ -4,13 +4,9 @@ Section 9: Moses Takes Away the Children of Israel
 Surah Yunus – Verse 83
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَآ ءَامَنَ لِمُوسَي إِلاَّ ذُرّيَّةٌ مِن قَوْمِهِ عَلَي خَوْفٍ مِن
-فِرْعَوْنَ وَملإِيْهِمْ أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ
-فِي الأَرْضِ وَإِنَّهُ لَمِنَ الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> فَمَآ ءَامَنَ لِمُوسَي إِلاَّ ذُرّيَّةٌ مِن قَوْمِهِ عَلَي خَوْفٍ مِن
+> فِرْعَوْنَ وَملإِيْهِمْ أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ
+> فِي الأَرْضِ وَإِنَّهُ لَمِنَ الْمُسْرِفِينَ
 
 ***83. “But none believed in Moses save some children of his people,
 because of the fear of Pharaoh and his chiefs, that they would torment
@@ -46,12 +42,8 @@ the extravagant.”***
 Surah Yunus – Verse 84
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ مُوسَي يَاقَوْمِ إِن كُنتُمْ ءَامَنتُم بِاللَّهِ فَعَلَيْهِ
-تَوَكَّلُوا إِن كُنتُم مُسْلِمِينَ
-  </p>
-</blockquote>
+> وَقَالَ مُوسَي يَاقَوْمِ إِن كُنتُمْ ءَامَنتُم بِاللَّهِ فَعَلَيْهِ
+> تَوَكَّلُوا إِن كُنتُم مُسْلِمِينَ
 
 ***84. “And Moses said: “O my people! If you have (really) believed in
 Allah, then put trust in Him (alone) if you have surrendered (unto
@@ -83,12 +75,8 @@ Him).”***
 Surah Yunus – Verse 85
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقَالُوا عَلَي اللَّهِ تَوَكَّلْنَا رَبَّنَا لا تَجْعَلْنَا فِتْنَةً
-لِلْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَقَالُوا عَلَي اللَّهِ تَوَكَّلْنَا رَبَّنَا لا تَجْعَلْنَا فِتْنَةً
+> لِلْقَوْمِ الظَّالِمِينَ
 
 ***85. “Then they said: ‘In Allah (alone) we have put our trust. ‘Our
 Lord! Make us not (subject) to a trial for the unjust people’.”***
@@ -113,11 +101,7 @@ people’.”***
 Surah Yunus – Verse 86
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
 
 ***86. “And deliver us by your Mercy from the disbelieving people.”***
 
@@ -133,13 +117,9 @@ The verse says:
 Surah Yunus – Verse 87
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَآ إِلَي مُوسَي وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا
-بِمِصْرَ بُيُوتاً وَاجْعَلُوا بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا
-الصَّلاَةَ وَبَشّرِ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَآ إِلَي مُوسَي وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا
+> بِمِصْرَ بُيُوتاً وَاجْعَلُوا بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا
+> الصَّلاَةَ وَبَشّرِ الْمُؤْمِنِينَ
 
 ***87. “And We revealed to Moses and his brother, saying: ‘Provide
 houses for your people in Egypt, make your houses into places of
@@ -177,14 +157,10 @@ The verse continues saying:
 Surah Yunus – Verse 88
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ مُوسَي رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلأَهُ زِينَةً
-وَأَمْوَالاً فِي الْحَيَاةِ الدُّنْيَا رَبَّنَا لِيُضِلُّوا عَن
-سَبِيلِكَ رَبَّنَا اطْمِسْ عَلَي أَمْوَالِهِمْ وَاشْدُدْ عَلَي
-قُلُوبِهِمْ فَلا يُؤْمِنُوا حَتَّي يَرَوُا الْعَذَابَ الاَلِيمَ
-  </p>
-</blockquote>
+> وَقَالَ مُوسَي رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلأَهُ زِينَةً
+> وَأَمْوَالاً فِي الْحَيَاةِ الدُّنْيَا رَبَّنَا لِيُضِلُّوا عَن
+> سَبِيلِكَ رَبَّنَا اطْمِسْ عَلَي أَمْوَالِهِمْ وَاشْدُدْ عَلَي
+> قُلُوبِهِمْ فَلا يُؤْمِنُوا حَتَّي يَرَوُا الْعَذَابَ الاَلِيمَ
 
 ***88. “And Moses said: ‘Our Lord! Verily You have given to Pharaoh and
 his chiefs adornment and wealth in the life of this world, Our Lord! so
@@ -226,12 +202,8 @@ The verse says:
 Surah Yunus – Verse 89
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ قَدْ اُجِيبَتْ دَعْوَتُكُمَا فَاسْتَقِيمَا وَلاَ تَتَّبِعَآنِّ
-سَبِيلَ الَّذِينَ لا يَعْلَمُونَ
-  </p>
-</blockquote>
+> قَالَ قَدْ اُجِيبَتْ دَعْوَتُكُمَا فَاسْتَقِيمَا وَلاَ تَتَّبِعَآنِّ
+> سَبِيلَ الَّذِينَ لا يَعْلَمُونَ
 
 ***89. “He (Allah) said: ‘The prayer of you both has been accepted, so
 stand straight and follow not the path of those who know not’.”***
@@ -257,14 +229,10 @@ not’.”***
 Surah Yunus – Verse 90
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَاوَزْنَا بِبَنِي إِسْرَآئِيلَ الْبَحْرَ فَاَتْبَعَهُمْ فِرْعَوْنُ
-وَجُنُودُهُ بَغْياً وَعَدْواً حَتَّي إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ
-ءَامَنْتُ أَنَّهُ لآ إِلَهَ إِلاَّ الَّذِي ءَامَنَتْ بِهِ بَنُوا
-إِسْرَآئِيلَ وَأَنَاْ مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَجَاوَزْنَا بِبَنِي إِسْرَآئِيلَ الْبَحْرَ فَاَتْبَعَهُمْ فِرْعَوْنُ
+> وَجُنُودُهُ بَغْياً وَعَدْواً حَتَّي إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ
+> ءَامَنْتُ أَنَّهُ لآ إِلَهَ إِلاَّ الَّذِي ءَامَنَتْ بِهِ بَنُوا
+> إِسْرَآئِيلَ وَأَنَاْ مِنَ الْمُسْلِمِينَ
 
 ***90. “And We made the Children of Israel to pass through the sea; then
 Pharaoh and his hosts chased them in insolence and hostility, until when
@@ -322,11 +290,7 @@ no value.
 Surah Yunus – Verse 91
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ءَآلاَنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> ءَآلاَنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ
 
 ***91. “What! Now! (when facing death?) while hitherto you have rebelled
 and been of the mischief-makers?”***
@@ -347,12 +311,8 @@ repent while there is still a chance of life and of being saved.
 Surah Yunus – Verse 92
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ نُنَجّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً
-وَإِنَّ كَثِيراً مِنَ النَّاسِ عَنْ ءَايَاتِنَا لَغَافِلُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ نُنَجّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً
+> وَإِنَّ كَثِيراً مِنَ النَّاسِ عَنْ ءَايَاتِنَا لَغَافِلُونَ
 
 ***92. “So this day We shall save you in your body, that you may be a
 Sign to those after you! But verily, many among mankind are heedless of
@@ -381,5 +341,4 @@ It is narrated from Imam Rida (as) in the commentary, Nur-uth-Thaqalayn
 and As-Safi that Pharaoh was armoured from head to toe which must have
 pulled him down deep under the sea drowning him but the waves drove the
 heavy body ashore atop a lofty rock. This itself was a divine miracle.
-
 

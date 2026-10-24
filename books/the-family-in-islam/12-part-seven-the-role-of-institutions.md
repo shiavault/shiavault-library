@@ -334,4 +334,3 @@ We have come to bring the people from obeying other people to obeying
 Allah and to rescue humanity from the narrowness of the earth to its
 wideness.
 
-

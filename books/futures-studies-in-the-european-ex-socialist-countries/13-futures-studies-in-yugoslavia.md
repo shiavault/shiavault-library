@@ -118,4 +118,3 @@ bombing and the use of depleted uranium. It will take some dwelling in
 relative normal circumstances before their creative, visionary energy is
 rekindled.
 
-

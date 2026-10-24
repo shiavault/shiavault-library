@@ -126,4 +126,3 @@ This was the manner in which Imam Hasan and Imam Husayn, the two sons of
 the Holy Prophet addressed and wrote letters to Mu'awiya bin Abu Sufyan
 and called him to account.
 
-

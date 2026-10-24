@@ -24,4 +24,3 @@ shows that he had worked when he had the strength. Therefore, it is the
 duty of the Government and the society to support him till he is alive.
 Go, and give him a life-pension from the State-treasury.”
 
-

@@ -101,4 +101,3 @@ rule in Russia. Late in 1918 It was brought back to Samarqand
 ceremonially. This Valuable Qur'an was later moved to Tashkent museum
 (reference: Tarikh al‑Mushaf al‑‘Uthmani by Shiykh 'Ismai’l Makhdum).
 
-

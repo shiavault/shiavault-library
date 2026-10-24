@@ -10,11 +10,7 @@ Surah As-Sajdah, Chapter 32
 The Feature of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -35,5 +31,4 @@ enemies would be strengthened.
 To perform bowing and prostration at night, when people are asleep, is
 mentioned as one of the specialities of the true believers pointed out
 in verse No. 25, the recitation of which needs obligatory prostration.
-
 

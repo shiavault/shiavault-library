@@ -15,4 +15,3 @@ This is in accord with His Word, Exalted is He:
 ***“Your creation and your raising (from the dead) are only as (the
 creation and the raising of) a single soul” (Qur'an 31:28)***.
 
-

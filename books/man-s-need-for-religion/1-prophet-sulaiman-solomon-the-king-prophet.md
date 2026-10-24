@@ -326,7 +326,6 @@ since it is imaginary, and unreal, and a wandering expression that would
 not realize man's objective. Hence the saying of the Our'an: "... nay,
 we used not to call upon anything before ..."
 
-
 **Mind's Need for Religion**
 
 It is not possible to separate man's way of thinking from his way of
@@ -510,5 +509,4 @@ properly understand life. That climate is the way of the Qur'an and
 religion. Only under its light the mind can explain life and estimate it
 as required. In this way man would discover his inefficiency and his
 need to follow the path of religion and to be guided by it.
-
 

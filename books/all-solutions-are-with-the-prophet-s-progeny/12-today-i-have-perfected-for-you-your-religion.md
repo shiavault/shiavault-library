@@ -959,4 +959,3 @@ recommendable…with the full obedience to the rulers of Aal Sa’ud
 shade instead of this shade, so that Allah may hasten his reappearance
 to spread justice and remove injustice?
 
-

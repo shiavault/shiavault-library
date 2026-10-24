@@ -4,19 +4,11 @@ Section 6: The Resurrection, Sure Everyone Shall Be Resurrected
 Surah An-Naml - Verses 67-68
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا أَءِذَا كُنَّا تُرَاباً وءَابَآؤُنَآ
-أَءِنَّا لَمُـخْرَجُونَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا أَءِذَا كُنَّا تُرَاباً وءَابَآؤُنَآ
+> أَءِنَّا لَمُـخْرَجُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ وُعِدْنَا هَذَا نَحْنُ وءَابَآؤُنَا مِن قَبْلُ إِنْ هَذَآ
-إِلآَّ أَسَاطِيرُ الاَوَّلِينَ
-  </p>
-</blockquote>
+> لَقَدْ وُعِدْنَا هَذَا نَحْنُ وءَابَآؤُنَا مِن قَبْلُ إِنْ هَذَآ
+> إِلآَّ أَسَاطِيرُ الاَوَّلِينَ
 
 ***67. “And those who disbelieve say: ‘When we have become dust, and our
 fathers (too), shall we certainly be brought forth (again)?’”***  
@@ -71,18 +63,10 @@ it was not a new matter for them to be dealt with.
 Surah An-Naml - Verses 69-70
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ سِيرُوا فِي الاَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الْمُـجْرِمِينَ
-  </p>
-</blockquote>
+> قُلْ سِيرُوا فِي الاَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الْمُـجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَحْزَنْ عَلَيْهِمْ وَلاَ تَكُن فِي ضَيْقٍ مِمَّا يَمْكُرُونَ
-  </p>
-</blockquote>
+> وَلاَ تَحْزَنْ عَلَيْهِمْ وَلاَ تَكُن فِي ضَيْقٍ مِمَّا يَمْكُرُونَ
 
 ***69. “Say: ‘Travel in the earth and see how the end of the guilty
 (ones) has been’.”***  
@@ -141,30 +125,14 @@ obstinacy, enmity, and being polluted by kinds of crimes.
 Surah An-Naml - Verses 71-74
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ عَسَي أَن يَكُونَ رَدِفَ لَكُم بَعْضُ الَّذِي تَسْتَعْجِلُونَ
-  </p>
-</blockquote>
+> قُلْ عَسَي أَن يَكُونَ رَدِفَ لَكُم بَعْضُ الَّذِي تَسْتَعْجِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَي النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لاَ
-يَشْكُرُونَ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَي النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لاَ
+> يَشْكُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
 
 ***71. “And they say: ‘When shall this promise (of chastisement) come to
 pass, if you are truthful?’”***  
@@ -260,12 +228,8 @@ are the same for Him.
 Surah An-Naml - Verse 75
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ غَآئِبَةٍ فِي السَّمَآءِ وَالاَرْضِ إِلاَّ فِي كِتَابٍ
-مُّبِينٍ
-  </p>
-</blockquote>
+> وَمَا مِنْ غَآئِبَةٍ فِي السَّمَآءِ وَالاَرْضِ إِلاَّ فِي كِتَابٍ
+> مُّبِينٍ
 
 ***75. “And there is nothing hidden in the heavens and the earth but it
 is in a Manifest Book.”***
@@ -340,18 +304,10 @@ careful that chastisement will come though it comes late.
 Surah An-Naml - Verses 76-77
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا الْقُرْءَانَ يَقُصُّ عَلَي بَنِي إِسْرَآئِيلَ أَكْثَرَ
-الَّذِي هُمْ فِيهِ يَخْتَلِفُونَ
-  </p>
-</blockquote>
+> إِنَّ هَذَا الْقُرْءَانَ يَقُصُّ عَلَي بَنِي إِسْرَآئِيلَ أَكْثَرَ
+> الَّذِي هُمْ فِيهِ يَخْتَلِفُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَهُدًي وَرَحْمَةٌ لّـِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَهُدًي وَرَحْمَةٌ لّـِلْمُؤْمِنِينَ
 
 ***76. “Verily this Qur’an relates to the Children of Israel most of
 what they differ in.”***  
@@ -437,18 +393,10 @@ submitting to Allah.
 Surah An-Naml - Verses 78-79
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ يَقْضِي بَيْنَهُم بِحُكْمِهِ وَهُوَ الْعَزِيزُ
-الْعَلِيمُ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ يَقْضِي بَيْنَهُم بِحُكْمِهِ وَهُوَ الْعَزِيزُ
+> الْعَلِيمُ
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَكَّلْ عَلَي اللَّهِ إِنَّكَ عَلَي الْحَقّ‌ِ الْمُبِينِ
-  </p>
-</blockquote>
+> فَتَوَكَّلْ عَلَي اللَّهِ إِنَّكَ عَلَي الْحَقّ‌ِ الْمُبِينِ
 
 ***78. “Verily your Lord will judge between them by His judgment, and He
 is the Mighty, the Knowing.”***  
@@ -509,19 +457,11 @@ oppositions of the enemies, because the Qur’an says:
 Surah An-Naml - Verses 80-81
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لاَ تُسْمِعُ الْمَوْتَي وَلاَ تُسْمِعُ الصُّمَّ الدُّعَآءَ
-إِذَا وَلَّوْا مُدْبِرِينَ
-  </p>
-</blockquote>
+> إِنَّكَ لاَ تُسْمِعُ الْمَوْتَي وَلاَ تُسْمِعُ الصُّمَّ الدُّعَآءَ
+> إِذَا وَلَّوْا مُدْبِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَنتَ بِهَادِي الْعُمَيِ عَن ضَلاَلَتِهِمْ إِن تُسْمِعُ إِلاَّ
-مَن يُؤْمِنُ بِاَيَاتِنَا فَهُم مُسْلِمُونَ
-  </p>
-</blockquote>
+> وَمَآ أَنتَ بِهَادِي الْعُمَيِ عَن ضَلاَلَتِهِمْ إِن تُسْمِعُ إِلاَّ
+> مَن يُؤْمِنُ بِاَيَاتِنَا فَهُم مُسْلِمُونَ
 
 ***80. “Verily you cannot make the dead to listen nor can you make the
 deaf to hear the call when they turn away backward.”***  
@@ -698,13 +638,9 @@ go astray and sent you to Hell.”*[^14]
 Surah An-Naml - Verse 82
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِنَ
-الاَرْضِ تُكَلّـِمُهُمْ أَنَّ النَّاسَ كَانُوا بِاَيَاتِنَا لاَ
-يُوقِنُونَ
-  </p>
-</blockquote>
+> وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِنَ
+> الاَرْضِ تُكَلّـِمُهُمْ أَنَّ النَّاسَ كَانُوا بِاَيَاتِنَا لاَ
+> يُوقِنُونَ
 
 ***82. “And when the word is fulfilled against them We shall bring forth
 for them a moving creature from the earth that shall speak unto them,
@@ -974,5 +910,4 @@ commentary of the verse.
 [^18]: Bihar-ul-’Anwar, Vol. 53, P. 52
 
 [^19]: The Commentary of Abul-Futuh Razi, Vol. 8, P. 423
-
 

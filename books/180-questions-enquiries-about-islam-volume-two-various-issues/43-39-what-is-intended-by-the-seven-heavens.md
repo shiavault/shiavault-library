@@ -20,22 +20,14 @@ beyond the reach of human knowledge (at least for the present).
 
 In verse 6 of Suratul Saffat, we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا زَيَّنَّا السَّمَآءَ الدُّنْيَا بِزِينَةٍ الْکَواَكِبِ
-  </p>
-</blockquote>
+> إِنَّا زَيَّنَّا السَّمَآءَ الدُّنْيَا بِزِينَةٍ الْکَواَكِبِ
 
 ***“Surely We have adorned the nearest heaven with an adornment, the
 stars.”***
 
 Verse 12 of Suratul Fussilat says:
 
-<blockquote dir="rtl">
-  <p>
-وَ زَيَّنَّا السَّمَآءَ الدُّنْياَ بِمَِصَابِيحَ
-  </p>
-</blockquote>
+> وَ زَيَّنَّا السَّمَآءَ الدُّنْياَ بِمَِصَابِيحَ
 
 ***“…and We adorned the lower heaven with brilliant stars.”***
 
@@ -95,5 +87,4 @@ can be reconciled with the issue of the seven heavens.[^4]
 testimony is related to 24 years earlier.)
 
 [^4]: Tafsir Payam-e-Qur’an, vol. 2, pg. 179
-
 

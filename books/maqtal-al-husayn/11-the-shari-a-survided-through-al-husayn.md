@@ -171,4 +171,3 @@ since the time of the Safawides (Safavids) who acquired their authority
 through the power of their creed assisted by their theologians and
 scholars.
 
-

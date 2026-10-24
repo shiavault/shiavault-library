@@ -568,7 +568,6 @@ gave it to the herald as a present; and we all went down to the prophet
 who said:ِ GOOD TIDINGS FOR YOU ALL! God has forgiven all your sins ever
 since you were born from your mother!
 
-
 Kaab ended his story to his son saying:ِ When I saw that God forgave me
 for saying the truth, I vowed never to speak untrue words, and I think I
 have not failed so far in my vow:ِ And Allah turned in Mercy to the
@@ -582,5 +581,4 @@ TRANSLATOR'S NOTE)
 ]
 
 THE COMMENTARY
-
 

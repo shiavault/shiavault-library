@@ -18,12 +18,8 @@ outer door of Imam’s house and crying. With surprise I looked at him. 
 When the Sheikh saw me he said:  
   
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلّهِ الَّذِي هَدَانَا لِهَـذَا وَمَا كُنَّا لِنَهْتَدِيَ
-لَوْلا أَنْ هَدَانَا اللّهُ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلّهِ الَّذِي هَدَانَا لِهَـذَا وَمَا كُنَّا لِنَهْتَدِيَ
+> لَوْلا أَنْ هَدَانَا اللّهُ
 
    
  “All praise is due to Allah who guided us to this, and we would not
@@ -95,5 +91,4 @@ Shah must go.”[^4]
 [^3]: Mardan Ilm dar Maidan Amal, Pg. 387-388
 
 [^4]: Paa be Paaye Aaftaab, Vol 4, Pg. 125
-
 

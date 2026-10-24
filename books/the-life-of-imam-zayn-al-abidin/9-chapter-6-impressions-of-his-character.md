@@ -1063,4 +1063,3 @@ p. 310
 
 [^88]: ‘Umar b. ‘Abd al-‘Aziz described him with that.
 
-

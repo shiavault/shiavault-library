@@ -23,12 +23,8 @@ always in a state of trial; it makes no difference whether the Imam
 
 The Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسَ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لاَ
-يُفْتَنُونَ
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسَ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لاَ
+> يُفْتَنُونَ
 
 ***“Have the people presumed they would be released upon saying, ‘We
 believe,’ without being tested?”***[^1]
@@ -50,11 +46,7 @@ the Prophet (peace be upon him and his family) had specified. Afterwards
 as well, such trials continued and shall continue, so that, in the words
 of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لِيَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ
-  </p>
-</blockquote>
+> لِيَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ
 
 ***“…so that Allah separates the impure from the pure.”***[^2]
 
@@ -82,11 +74,7 @@ Women will enter into work exclusive to men. Many wars and natural
 afflictions will come about. In a tradition of Jabir ibn Abdullah
 al-Ansari regarding the commentary of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأَمْرِ مِنْكُمْ
 
 **“(O you who believe!) Obey Allah and obey the Messenger and those in
 authority amongst you (the legatees of the Messenger).***”*[^3]
@@ -98,13 +86,9 @@ after one and gives tidings to the people about the conquering of the
 East and West of the world at the blessed hands of Imam al-Mahdi (may
 Allah hasten his return), and says, *inter alia*:
 
-<blockquote dir="rtl">
-  <p>
-"ذَالَكَ الَّذِي يُغِيبُ عَنْ شِيعَتِهِ وَأَوْلِيَائِهِ غَيْبَةً لاَ
-يُثْبِتُ فِيهَا عَلَى الْقَوْلِ بِإِمَامَتِهِ إِلاَّ مَنِ امْتَحَنَ
-اللهُ قَلْبَهُ لِلإِيمَانِ."
-  </p>
-</blockquote>
+> "ذَالَكَ الَّذِي يُغِيبُ عَنْ شِيعَتِهِ وَأَوْلِيَائِهِ غَيْبَةً لاَ
+> يُثْبِتُ فِيهَا عَلَى الْقَوْلِ بِإِمَامَتِهِ إِلاَّ مَنِ امْتَحَنَ
+> اللهُ قَلْبَهُ لِلإِيمَانِ."
 
 “He is the one who will be concealed from his Shi‘a and friends such a
 concealment that none shall remain firm in belief in his Imamah except
@@ -113,22 +97,14 @@ one whose heart Allah has tested for faith.”[^4]
 And Amir al-Mu’minin has also informed about these difficulties and
 tribulations in *Nahj al-Balagha*. In one instance, he says;
 
-<blockquote dir="rtl">
-  <p>
-مَا أَطْوَلَ هَذَا العِنَاءِ وَأَبْعَدَ هَذَا الرَّجَاءِ.
-  </p>
-</blockquote>
+> مَا أَطْوَلَ هَذَا العِنَاءِ وَأَبْعَدَ هَذَا الرَّجَاءِ.
 
 *“How lengthy is this adversity, and how distant is this hope!”*[^5]
 
 It has even been related, in another tradition, that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِصَاحِبِ هَذَا الأَمْرِ غَيْبَةً اَلْمُتَمَسِّكُ فِيهَا
-بِدِينِهِ كَالْخَارَطِ لِلْقِتَادِ.
-  </p>
-</blockquote>
+> إِنَّ لِصَاحِبِ هَذَا الأَمْرِ غَيْبَةً اَلْمُتَمَسِّكُ فِيهَا
+> بِدِينِهِ كَالْخَارَطِ لِلْقِتَادِ.
 
 “Verily the Master of this Affair has a such a concealment that one who
 grips firmly to his religion during it is like one who picks thorns with
@@ -161,5 +137,4 @@ equity shall fill the world.
 [^5]: Nahj al-Balagha, Subhi as-Salih, Speech 187, Part 4
 
 [^6]: Bihar al-Anwar, Volume 52, Page 111, hadith 21.
-
 

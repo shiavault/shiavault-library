@@ -1,11 +1,7 @@
 O Allāh, Instil Happiness in the Spirits of the Inhabitants of the Grave
 ========================================================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَدْخِلْ عَلى أَهلِ القُبُورِ السُّرُورَ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَدْخِلْ عَلى أَهلِ القُبُورِ السُّرُورَ
 
 O Allāh, Instil Happiness in the Spirits of the Inhabitants of the Grave
 
@@ -24,12 +20,8 @@ Almighty Allāh has established the system of cause and effect and
 encouraged the human being to employ it for his noble ends. The
 following word of wisdom from Imām al-Sādiq (as) emphasizes this:
 
-<blockquote dir="rtl">
-  <p>
-أَبَى اللٌّهُ أَنْ يُجْرِيَ الأَشْيَاءَ إِلاَّ بِأَسْبَابِهَا،
-فَجَعَلَ لِكُلِّ شَيْءٍ سَبَباً.
-  </p>
-</blockquote>
+> أَبَى اللٌّهُ أَنْ يُجْرِيَ الأَشْيَاءَ إِلاَّ بِأَسْبَابِهَا،
+> فَجَعَلَ لِكُلِّ شَيْءٍ سَبَباً.
 
 “Allāh does not permit things to take place except by their causes;
 thus, He made a cause for every thing.”[^1]
@@ -57,12 +49,8 @@ gift.”[^2]
 buried a day before, and saw his family weeping. Observing this, he
 said:
 
-<blockquote dir="rtl">
-  <p>
-لَرَكْعَتَانِ خَفِيْفَتَانِ مِمَّا تَحْتَقِرُوْنَ أَحَبُّ إِلَى
-صَاحِبِ هٌذاَ الْقَبْرِ مِنْ دُنْيَاكُمْ كُلّهَا.
-  </p>
-</blockquote>
+> لَرَكْعَتَانِ خَفِيْفَتَانِ مِمَّا تَحْتَقِرُوْنَ أَحَبُّ إِلَى
+> صَاحِبِ هٌذاَ الْقَبْرِ مِنْ دُنْيَاكُمْ كُلّهَا.
 
 “Indeed, two small units of prayer which you consider insignificant is
 more lovable to the inhabitant of this grave than your world in its
@@ -70,11 +58,7 @@ entirety.”[^3]
 
 3. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْهَدَايَا لِلأَمْوَاتِ الدُّعَاءُ وَ الإِسْتِغْفَارُ.
-  </p>
-</blockquote>
+> إِنَّ الْهَدَايَا لِلأَمْوَاتِ الدُّعَاءُ وَ الإِسْتِغْفَارُ.
 
 “Indeed, the gifts [from the living] for the dead are *du‘ā’*
 (supplication) and *istighfār* (seeking forgiveness of the sins of the
@@ -82,13 +66,9 @@ dead).”[^4]
 
 4. Imām ‘Alī al-Ridā (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ عَبْدٍ زَارَ قَبْرَ مُؤْمِنٍ فَقَرَأَ عَلَيْهِ إِنّا
-أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ سَبْعَ مَرَّاتٍ إِلاََّ غَفَرَ
-اللٌّهُ لَهُ وَ لِصَاحِبِ الْقَبْرِ.
-  </p>
-</blockquote>
+> مَا مِنْ عَبْدٍ زَارَ قَبْرَ مُؤْمِنٍ فَقَرَأَ عَلَيْهِ إِنّا
+> أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ سَبْعَ مَرَّاتٍ إِلاََّ غَفَرَ
+> اللٌّهُ لَهُ وَ لِصَاحِبِ الْقَبْرِ.
 
 “Whosoever of God’s servants visits the grave of a beliver, and recites
 seven times “*Innā anzalnāhu fī laylati’l qadr [...]*” Allāh would
@@ -96,13 +76,9 @@ forgive him and the inhabitant of the grave.”[^5] and [^6]
 
 5. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَرَّ عَلَى الْمَقَابِرِ فَقَرَأَ قُلْ هُوَ اللَّهُ أَحَدٌ
-إِحْدَى عَشْرَةَ مَرَّةً وَوَهَبَ أَجْرَهُ لِلأَمْوَاتِ أُعْطِيَ مِنَ
-الأَجْرِ بِعَدَدِ الأَمْوَاتِ.
-  </p>
-</blockquote>
+> مَنْ مَرَّ عَلَى الْمَقَابِرِ فَقَرَأَ قُلْ هُوَ اللَّهُ أَحَدٌ
+> إِحْدَى عَشْرَةَ مَرَّةً وَوَهَبَ أَجْرَهُ لِلأَمْوَاتِ أُعْطِيَ مِنَ
+> الأَجْرِ بِعَدَدِ الأَمْوَاتِ.
 
 “Whosoever passes by the graves and recites *Qul Huwallāhu Ahad* 11
 times and gifts its reward to the deceased, he is granted a reward
@@ -110,13 +86,9 @@ proportional to the number of the dead.”[^7]
 
 6. Imām Ja’far al-Sādiq (as) is reported[^8] to have said:
 
-<blockquote dir="rtl">
-  <p>
-تَدْخُلُ عَلَى الْمَيِّتِ فِي قَبْرِهِ الصَّلاةُ وَالصَّوْمُ
-وَالْحَجُّ وَالصَّدَقَةُ وَالْبِرُّ وَالدُّعَاءُ وَيُكْتَبُ أَجْرُهُ
-لِلَّذِي فَعَلَهُ وَ لِلْمَيِّتِ.
-  </p>
-</blockquote>
+> تَدْخُلُ عَلَى الْمَيِّتِ فِي قَبْرِهِ الصَّلاةُ وَالصَّوْمُ
+> وَالْحَجُّ وَالصَّدَقَةُ وَالْبِرُّ وَالدُّعَاءُ وَيُكْتَبُ أَجْرُهُ
+> لِلَّذِي فَعَلَهُ وَ لِلْمَيِّتِ.
 
 “Prayers, Fasting, Hajj, Sadaqa, good deeds and Du‘ā’ reach the dead in
 his grave, and their reward is written for [both] the doer and the
@@ -124,12 +96,8 @@ deceased.”
 
 7. Imām Ja’far al-Sādiq (as) is reported[^9] to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ مِنَ الْمُسْلِمِينَ عَنِ مَيِّتٍ عَمَلَ [عَمَلاً] خَيْرٍ
-أَضْعَفَ اللٌّهُ لَهُ أَجْرَهُ وَنَفَعَ اللٌّهُ بِهِ الْمَيِّتَ.
-  </p>
-</blockquote>
+> مَنْ عَمِلَ مِنَ الْمُسْلِمِينَ عَنِ مَيِّتٍ عَمَلَ [عَمَلاً] خَيْرٍ
+> أَضْعَفَ اللٌّهُ لَهُ أَجْرَهُ وَنَفَعَ اللٌّهُ بِهِ الْمَيِّتَ.
 
 “Whosoever among the Muslims does a good act for a dead person, Allāh
 rewards him manifold and makes the dead benefit from the same.”
@@ -204,5 +172,4 @@ deceased.
 [^11]: Chehl Hadīth, 28th tradition
 
 [^12]: Chehl Hadīth, 3rd tradition
-
 

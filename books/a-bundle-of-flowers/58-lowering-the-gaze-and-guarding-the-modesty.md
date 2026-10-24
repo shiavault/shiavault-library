@@ -31,4 +31,3 @@ bribe from them."
 
 Al-Kafi, vol. 5, p. 559
 
-

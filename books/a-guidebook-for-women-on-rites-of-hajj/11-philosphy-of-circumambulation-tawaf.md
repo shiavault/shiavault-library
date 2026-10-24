@@ -394,4 +394,3 @@ valid for each other) with its prayers. Then she can shed her ihram. She
 should return to Mina spend night there and perform all rites which are
 done on 10th, 11th and 12th of Dhil Hajjah.
 
-

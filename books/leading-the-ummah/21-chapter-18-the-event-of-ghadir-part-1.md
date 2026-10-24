@@ -17,7 +17,6 @@ following verse:
 **
 ﴿ أَمْ يَقُولُونَ شاعِرٌ نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ
 
-  
 ،
 
 **  
@@ -219,13 +218,9 @@ such harsh conditions.
 God's command to the Prophet was issued through the following Quranic
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يا أَيُّهَا الرَّسُولُ بَلِّغْ ما أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ وَ
-إِنْ لَمْ تَفْعَلْ فَما بَلَّغْتَ رِسالَتَهُ وَ اللَّهُ يَعْصِمُكَ
-مِنَ النَّاسِ ﴾
-  </p>
-</blockquote>
+> ﴿ يا أَيُّهَا الرَّسُولُ بَلِّغْ ما أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ وَ
+> إِنْ لَمْ تَفْعَلْ فَما بَلَّغْتَ رِسالَتَهُ وَ اللَّهُ يَعْصِمُكَ
+> مِنَ النَّاسِ ﴾
 
 ***“O Apostle! Deliver what has been revealed to you from your Lord; and
 if you do it not, then you have not delivered His message. Allah will
@@ -255,11 +250,7 @@ Islamic principles. Secondly, the Prophet's calculation showed to him
 that he might be exposed to harm from the people. In order to strengthen
 the Prophet's determination, Allah declares:
 
-<blockquote dir="rtl">
-  <p>
-والله يعصمك من الناس
-  </p>
-</blockquote>
+> والله يعصمك من الناس
 
 ***“Allah will protect you from the people's harm”.***
 
@@ -348,5 +339,4 @@ they ignored the fact that Ali was different from others and that he had
 achieved a sublime position in the light of Allah's assistance. A
 position which saved him from any errors and constantly protected him by
 the unknown World.
-
 

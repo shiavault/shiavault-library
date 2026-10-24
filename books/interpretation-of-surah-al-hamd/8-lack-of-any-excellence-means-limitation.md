@@ -257,4 +257,3 @@ not deny everything he does not know. Shaykh Abu Ali Sina says that
 anybody who denies a thing without any reason, behaves against human
 nature.
 
-

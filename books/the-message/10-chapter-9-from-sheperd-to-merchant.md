@@ -397,4 +397,3 @@ owing to the severe inclination of Khadijah, is baseless.
 
 [^12]: Manaqib, vol. I, page 30 and Biharul Anwar, vol. XV, page 6.
 
-

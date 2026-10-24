@@ -558,4 +558,3 @@ be Yazid Ibn al-Ruqad al-Janbi.
 
 [^37]: al-Tabari, Tarikh, Vol. 6, p. 179.
 
-

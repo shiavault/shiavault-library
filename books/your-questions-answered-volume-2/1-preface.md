@@ -53,9 +53,7 @@ that he began searching for when he first wrote to us.
 While replying. I always copied his questions in my letters; therefore,
 those questions have been omitted from his letters.
 
-
 30th November, 1975, Dares Salaam.
 S.S.Akhtar Rizvi
 Chief Missionary
-
 

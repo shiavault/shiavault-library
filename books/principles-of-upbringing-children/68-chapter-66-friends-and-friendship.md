@@ -180,4 +180,3 @@ person, lagging behind in all walks of life."
 
 [^8]: Usul al-Kafi, v 72, p. 376
 
-

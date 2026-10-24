@@ -262,4 +262,3 @@ come up into his body but just entered into the anus, would this break
 fasting?
 A: It is based on obligatory precaution to abstain from such an act.
 
-

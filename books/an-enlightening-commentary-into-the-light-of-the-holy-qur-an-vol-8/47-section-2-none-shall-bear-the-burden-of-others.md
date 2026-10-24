@@ -4,12 +4,8 @@ Section 2: None Shall Bear the Burden of Others
 Surah Isra’ – Verse 11
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَدْعُ الإِنسَانُ بِالشَّرّ‌ِ دُعَآءَهُ بِالْخَيْرِ وَكَانَ
-الإِنْسَانُ عَجُولاً
-  </p>
-</blockquote>
+> وَيَدْعُ الإِنسَانُ بِالشَّرّ‌ِ دُعَآءَهُ بِالْخَيْرِ وَكَانَ
+> الإِنْسَانُ عَجُولاً
 
 ***11. “And man prays for evil as he prays for the good; and man is ever
 hasty.”***
@@ -92,14 +88,10 @@ first recognize where to use it properly.
 Surah Isra’ – Verse 12
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ
-اللَّيْلِ وَجَعَلْنَآ ءَايَةَ النَّهَارِ مُبْصِرَةً لّـِتَبْتَغُوا
-فَضْلاً مِن رَبّـِكُمْ وَلِتَعْلَمُوا عَدَدَ السّـِنِينَ وَالْحِسَابَ
-وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلاً
-  </p>
-</blockquote>
+> وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ
+> اللَّيْلِ وَجَعَلْنَآ ءَايَةَ النَّهَارِ مُبْصِرَةً لّـِتَبْتَغُوا
+> فَضْلاً مِن رَبّـِكُمْ وَلِتَعْلَمُوا عَدَدَ السّـِنِينَ وَالْحِسَابَ
+> وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلاً
 
 ***12. “And We have appointed the night and the day two signs (of Our
 power); then We took away the sign of the night (the moon light), and We
@@ -155,12 +147,8 @@ The verse, in this regard, says:
 Surah Isra’ – Verse 13
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ إِنسَانٍ أَلْزَمْنَاهُ طَآئِرَهُ فِي عُنُقِهِ وَنُخْرِجُ لَهُ
-يَوْمَ الْقِيَامَةِ كِتَاباً يَلْقَاهُ مَنشُوراً
-  </p>
-</blockquote>
+> وَكُلَّ إِنسَانٍ أَلْزَمْنَاهُ طَآئِرَهُ فِي عُنُقِهِ وَنُخْرِجُ لَهُ
+> يَوْمَ الْقِيَامَةِ كِتَاباً يَلْقَاهُ مَنشُوراً
 
 ***13. “And every man’s record of action have We fastened to his neck;
 and on the Day of Judgment, We shall bring out for him a book which he
@@ -217,11 +205,7 @@ for him in the Hereafter.
 Surah Isra’ – Verse 14
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ كِتَابَكَ كَفَي بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيباً
-  </p>
-</blockquote>
+> اقْرَأْ كِتَابَكَ كَفَي بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيباً
 
 ***14. “(It will be said to him): ‘Read your book; your own self
 suffices today as a reckoner against you’.”***
@@ -269,13 +253,9 @@ repent and add up to his scroll of decent acts.[^9]
 Surah Isra’ – Verse 15
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّنِ اهْتَدَي فإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فإِنَّما
-يَضِلُّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ اُخْرَي وَمَا كُنَّا
-مُعَذّ‌ِبِينَ حَتَّي نَبْعَثَ رَسُولاً
-  </p>
-</blockquote>
+> مَّنِ اهْتَدَي فإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فإِنَّما
+> يَضِلُّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ اُخْرَي وَمَا كُنَّا
+> مُعَذّ‌ِبِينَ حَتَّي نَبْعَثَ رَسُولاً
 
 ***15. “Whoever gets guided aright, has only got guided aright to his
 own gain, and whoever goes astray, it is only to his own loss; and no
@@ -339,13 +319,9 @@ The verse says:
 Surah Isra’ – Verse 16
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا
-فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا
-تَدْمِيراً
-  </p>
-</blockquote>
+> وَإِذَا أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا
+> فَفَسَقُوا فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا
+> تَدْمِيراً
 
 ***16. “And once We determine to exterminate a town, We command its
 luxurious people (to obey Us), but they transgress therein, thus the
@@ -401,12 +377,8 @@ severe.
 Surah Isra’ – Verse 17
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ أَهْلَكْنَا مِنَ الْقُرُونِ مِن بَعْدِ نُوحٍ وَكَفَي بِرَبّـِكَ
-بِذُنُوبِ عِبَادِهِ خَبِيراً بَصِيراً
-  </p>
-</blockquote>
+> وَكَمْ أَهْلَكْنَا مِنَ الْقُرُونِ مِن بَعْدِ نُوحٍ وَكَفَي بِرَبّـِكَ
+> بِذُنُوبِ عِبَادِهِ خَبِيراً بَصِيراً
 
 ***17. “And what a great number (of people) We did exterminate after
 Noah! And your Lord is sufficient as Knowing and Seeing with regard to
@@ -466,13 +438,9 @@ Divine punishment.
 Surah Isra’ – Verse 18
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَآءُ
-لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلاَهَا مَذْمُوماً
-مَّدْحُوراً
-  </p>
-</blockquote>
+> مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَآءُ
+> لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلاَهَا مَذْمُوماً
+> مَّدْحُوراً
 
 ***18. “Whoever desires this (transient worldly) life, We hasten for him
 therein what We please for whomever We desire; then We appoint Hell for
@@ -531,12 +499,8 @@ encompass both.
 Surah Isra’ – Verse 19
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَرَادَ الاَخِرَةَ وَسَعَي لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ
-فَاُوْلَئِكَ كَانَ سَعْيُهُم مَّشْكُوراً
-  </p>
-</blockquote>
+> وَمَنْ أَرَادَ الاَخِرَةَ وَسَعَي لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ
+> فَاُوْلَئِكَ كَانَ سَعْيُهُم مَّشْكُوراً
 
 ***19. “And whoever desires the Hereafter and strives for it as he ought
 to strive, and he is a believer, (as for) these, their striving shall be
@@ -575,12 +539,8 @@ to Allah.
 Surah Isra’ – Verse 20
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلاًّ نُّمِدُّ هَؤُلآءِ وَهَؤُلآءِ مِنْ عَطَآءِ رَبّـِكَ وَمَا كَانَ
-عَطَآءُ رَبّـِكَ مَحْظُوراً
-  </p>
-</blockquote>
+> كُلاًّ نُّمِدُّ هَؤُلآءِ وَهَؤُلآءِ مِنْ عَطَآءِ رَبّـِكَ وَمَا كَانَ
+> عَطَآءُ رَبّـِكَ مَحْظُوراً
 
 ***20. “All We succour, these and those, from the bounty of your Lord;
 and the bounty of your Lord is not closed (to anyone).”***
@@ -615,12 +575,8 @@ The verse says:
 Surah Isra’ – Verse 21
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-انظُرْ كَيْفَ فَضَّلْنا بَعْضَهُمْ عَلَي بَعْضٍ وَلَلاَخِرَةُ أَكْبَرُ
-دَرَجَاتٍ وَأَكْبَرُ تَفْضِيلاً
-  </p>
-</blockquote>
+> انظُرْ كَيْفَ فَضَّلْنا بَعْضَهُمْ عَلَي بَعْضٍ وَلَلاَخِرَةُ أَكْبَرُ
+> دَرَجَاتٍ وَأَكْبَرُ تَفْضِيلاً
 
 ***21. “Behold how We have preferred some of them over others; and,
 definitely, the Hereafter is greater in ranks and greater in
@@ -701,12 +657,8 @@ sought except (while one is) in it.”*[^14]
 Surah Isra’ – Verse 22
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَجْعَلْ مَعَ اللَّهِ إِلَهاً ءَاخَرَ فَتَقْعُدَ مَذْمُوماً
-مَّخْذُولاً
-  </p>
-</blockquote>
+> لاَ تَجْعَلْ مَعَ اللَّهِ إِلَهاً ءَاخَرَ فَتَقْعُدَ مَذْمُوماً
+> مَّخْذُولاً
 
 ***22. “Do not associate with Allah any other god, lest you will sit
 reproved, despised.”***
@@ -785,5 +737,4 @@ the world.
 [^13]: Nahj-ul-Balaghah, sermon 82
 
 [^14]: Nahj-ul-Balaghah, sermon 62
-
 

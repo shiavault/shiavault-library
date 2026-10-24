@@ -246,4 +246,3 @@ In addition to the visit of friends, there is also the visiting of the
 sick, or of a neighbor. Below is the manner of each and every one of
 these:
 
-

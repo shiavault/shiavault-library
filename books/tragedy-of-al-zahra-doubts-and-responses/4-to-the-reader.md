@@ -57,4 +57,3 @@ Ja’far Murtada al-’Amili
 Sha’ban 10, 1417 A.H./December 8, 1996 A.D.
 Beirut, Lebanon
 
-

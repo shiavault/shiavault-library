@@ -201,4 +201,3 @@ whomever He chooses. I am just thankful to be among that list.
  He created the heavens and the earth with the truth, highly exalted be
 He above what they associate (with Him).***
 
-

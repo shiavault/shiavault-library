@@ -20,4 +20,3 @@ are the manifestations of the same urge; but nobody ever thought of
 legalizing such practices on the plea that they are the result of a
 ‘natural urge’. So why tolerate gambling?
 
-

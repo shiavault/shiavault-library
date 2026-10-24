@@ -182,4 +182,3 @@ Lady Fatima az-Zahra (sa) then returned to her house and lived in misery
 and sadness until she joined her beloved father not long after he passed
 away*.*"
 
-

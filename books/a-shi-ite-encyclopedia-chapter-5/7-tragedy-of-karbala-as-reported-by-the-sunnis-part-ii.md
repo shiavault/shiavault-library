@@ -670,4 +670,3 @@ Muhammad b. al-Ash'ath approached.
 "Welcome to one of those whose loyalty is above suspicion," he said to
 him and sat him by his side.
 
-

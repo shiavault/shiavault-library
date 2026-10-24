@@ -40,11 +40,7 @@ the dawn of resurrection. The Messenger of Allah (S) has underlined the
 significance of Imam al-Asr's (a.s.) recognition through the famous
 tradition,
 
-<blockquote dir="rtl">
-  <p>
-"من مات ولم يعرف امام زمانه مات ميتة جاهلية."
-  </p>
-</blockquote>
+> "من مات ولم يعرف امام زمانه مات ميتة جاهلية."
 
 **"One who dies without knowing the Imam of his time, dies the death of
 ignorance (i.e. unbelief).**
@@ -84,11 +80,7 @@ his book "Fara aedus Simt ain" and Shaykh Su layman Qundoozi in his
 famous work "Yanaabee' al-Mawaddah" have recorded that the Holy Prophet
 (S) said,
 
-<blockquote dir="rtl">
-  <p>
-"من انكر خروج المهدي فقد كفر."
-  </p>
-</blockquote>
+> "من انكر خروج المهدي فقد كفر."
 
 **"One who denies the reappearance of Mahdi, is an unbeliever".**
 
@@ -188,11 +180,7 @@ inhabitation. Occultation means that people are not aware of his place
 of abode. Even when they see their Imam al-Zaman (a.t.f.s.), they do not
 recognize him. Imam Sadeq (a.s.),
 
-<blockquote dir="rtl">
-  <p>
-يرونه ولا يعرفونه
-  </p>
-</blockquote>
+> يرونه ولا يعرفونه
 
 **"They see him but do not recognize him."**[^1]
 
@@ -254,11 +242,7 @@ In the major occultation, an important duty is to await the reappearance
 of Imam al-Zaman (a.t.f.s.). Imam Sadeq (a.s.) relates from the Holy
 Prophet (S),
 
-<blockquote dir="rtl">
-  <p>
-افضل اعمال امتي انتظار الفرج
-  </p>
-</blockquote>
+> افضل اعمال امتي انتظار الفرج
 
 **"The best act of my nation is to await the reappearance."**[^4]
 
@@ -376,32 +360,24 @@ a) In every Salat, especially in obligatory prayers, we should recite
 the following invocation in the Qunoot. This is also called Du’a
 al-Faraj.
 
-<blockquote dir="rtl">
-  <p>
-اللهم كن لوليك الحجة بن الحسن صلواتك عليه وعلى ابائه في هذه الساعه وفي
-كل ساعه وليا وحافظاو قائدا وناصرا ودليلا وعينا حتى تسكنه ارضك طوعا
-وتمتعه فيها طويلا
-  </p>
-</blockquote>
+> اللهم كن لوليك الحجة بن الحسن صلواتك عليه وعلى ابائه في هذه الساعه وفي
+> كل ساعه وليا وحافظاو قائدا وناصرا ودليلا وعينا حتى تسكنه ارضك طوعا
+> وتمتعه فيها طويلا
 
 b) After Salat al-Subh (morning prayers), we must recite the brief Du’a
 al-Ahd. It is a salutation, a covenant and a supplication, all put
 together.[^8]
 
-<blockquote dir="rtl">
-  <p>
-اللهم بلغ مولاي صاحب الزمان صلوات الله عليه عن جميع المؤمنين والمؤمنات
-في مشارق الارض ومغاربها وبرها وبحرها وسهلها وجبلها حيهم وميتهم وعن
-والدي و ولدي وعني من الصلوات والتحيات زنه عرش الله ومداد كلماته ومنتهى
-رضاه وعدد ما احصاه كتابه واحاط به علمه اللهم اني اجدد له في هذا اليوم
-وفي كل يوم عهدا وعقدا وبيعه في رقبتي اللهم كما شرفتني بهذا التشريف
-وفضلتني بهذه الفضيله وخصصتني بهذه النعمه فصلي على مولاي وسيدي صاحب
-الزمان واجعلني من انصاره واشياعه والذابين عنه واجعلني من المستشهدين
-بين يديه طائعا غير مكره في الصف الذي نعت اهله في كتابتك فقلت صفا كانهم
-بنيان مرصوص على طاعتك وطاعة رسولك واله عليهم السلام اللهم هذه البيعه
-له في عنقي الى يوم القيامه
-  </p>
-</blockquote>
+> اللهم بلغ مولاي صاحب الزمان صلوات الله عليه عن جميع المؤمنين والمؤمنات
+> في مشارق الارض ومغاربها وبرها وبحرها وسهلها وجبلها حيهم وميتهم وعن
+> والدي و ولدي وعني من الصلوات والتحيات زنه عرش الله ومداد كلماته ومنتهى
+> رضاه وعدد ما احصاه كتابه واحاط به علمه اللهم اني اجدد له في هذا اليوم
+> وفي كل يوم عهدا وعقدا وبيعه في رقبتي اللهم كما شرفتني بهذا التشريف
+> وفضلتني بهذه الفضيله وخصصتني بهذه النعمه فصلي على مولاي وسيدي صاحب
+> الزمان واجعلني من انصاره واشياعه والذابين عنه واجعلني من المستشهدين
+> بين يديه طائعا غير مكره في الصف الذي نعت اهله في كتابتك فقلت صفا كانهم
+> بنيان مرصوص على طاعتك وطاعة رسولك واله عليهم السلام اللهم هذه البيعه
+> له في عنقي الى يوم القيامه
 
 O Allah, convey to the master, the Master of the Time, from all the
 believer men and women in the easts of the earth and its west. In its
@@ -448,11 +424,7 @@ Allah the Almighty has appointed the infallible Imams (a.s.) as the
 media and doors for approaching Him. Presently, Imam al-Zaman (a.t.f.s.)
 is that door through whom Allah is approached. The Holy Quran says,
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
-  </p>
-</blockquote>
+> وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
 
 ***"And all the good names are for Allah, then*** ***call Him through
 them."(Surah A'raaf, 7:180)***
@@ -501,11 +473,7 @@ heartily contact, words are not required. Rather, its beats translate
 into the most effective of words. A broken heart narrates a thousand
 incidents in a few seconds. In Du’a al-Nudbah, we cry,
 
-<blockquote dir="rtl">
-  <p>
-بنفسي انت من مغيب لم يخل منا بنفسي انت من نازح مانزح عن
-  </p>
-</blockquote>
+> بنفسي انت من مغيب لم يخل منا بنفسي انت من نازح مانزح عن
 
 **"May our lives be sacrificed on him who is distanced from the eyes but
 the hearts are not devoid of him. He is physically far from us but his
@@ -601,11 +569,7 @@ of his reappearance hereunder:
 
 Numerous traditions contain the following sentence,
 
-<blockquote dir="rtl">
-  <p>
-يملا الارض قسطا وعدلا بعد ما ملئت ظلما وجور
-  </p>
-</blockquote>
+> يملا الارض قسطا وعدلا بعد ما ملئت ظلما وجور
 
 **"He will fill the earth with justice and equity as it would be fraught
 with injustice and oppression."**[^12]
@@ -640,11 +604,7 @@ single ailment - disunity and factionalism. But after the reappearance,
 all this will change. Factions will unite on one platform. In Du’a
 al-Nudbah, we read,
 
-<blockquote dir="rtl">
-  <p>
-اين جامع الكلمه على التقوى.
-  </p>
-</blockquote>
+> اين جامع الكلمه على التقوى.
 
 **"Where is the one who will gather the people on piety and devotion?"**
 
@@ -657,11 +617,7 @@ earth will gain new life and there will be vitality and vigour
 everywhere. Grains and fruits will be in immeasurable abundance. In one
 ziyarat, we salute Imam al-Zaman (a.t.f.s.) with the following sentence,
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك ياربيع الانام ونضرة الايام
-  </p>
-</blockquote>
+> السلام عليك ياربيع الانام ونضرة الايام
 
 **"Peace be on you, O spring of creation and brightness of days."**
 
@@ -720,13 +676,9 @@ atrocities and crimes which they had committed against their own
 brother, when they came to Hazrat Yusuf (a.s.), who by then had become
 the King of Egypt, they said,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا
-بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ
-إِنَّ اللَّهَ يَجْزِي الْمُتَصَدِّقِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا
+> بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ
+> إِنَّ اللَّهَ يَجْزِي الْمُتَصَدِّقِينَ
 
 ***"O King! Calamity has afflicted us and our families. We have come
 with a handful of provisions. But you repay us in full measure and be
@@ -768,5 +720,4 @@ Makarim, vol.2.
 [^13]: Mafaateeh al-Jinaan, A'maal for Friday
 
 [^14]: Behaar al-Anwaar, vol. 52, p. 336
-
 

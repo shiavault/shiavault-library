@@ -129,7 +129,6 @@ No.1
 
 [^2] The above book, Traditions 2 and 3
 
-
 **Commentary : Verse 61**
 
 61. لَيْسَ عَلَي الاَعْمَي حَرَجٌ وَلاَ عَلَي الاَعْرَجِ حَرَجٌ وَلاَ
@@ -543,5 +542,4 @@ offering blessing."[^3]
 [^2] Bihar, Vol. 75, p. 12
 
 [^3] Nahj-ul-Balaqah, Translated by Fiydul-Islam, p. 1114
-
 

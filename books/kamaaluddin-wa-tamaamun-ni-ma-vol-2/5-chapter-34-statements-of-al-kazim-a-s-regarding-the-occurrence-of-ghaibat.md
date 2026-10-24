@@ -32,12 +32,8 @@ Muawiyah bin Wahab Bajali and Abi Qatadah Ali Ibne Muhammad bin Hafs
 from Ali bin Ja’far that he asked his brother Musa bin Ja’far (a.s.)
 that the interpretation of the words of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
-بِمَاءٍ مَعِينٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
+> بِمَاءٍ مَعِينٍ
 
 ***Say: Have you considered if your water should go down, who is it then
 that will bring you flowing water?***[^1]
@@ -333,11 +329,7 @@ to us Ali bin Ibrahim bin Hashim from his father from Abi Ahmad Muhammad
 bin Ziyad Azadi that: I asked my master Musa Ibne Ja’far (a.s.)
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً
-  </p>
-</blockquote>
+> وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً
 
 ***“And made complete to you His favors outwardly and inwardly.”***[^2]
 
@@ -366,5 +358,4 @@ Allah’s pleasure and satisfaction be with him.
 [^1]: Surah Mulk 67:30
 
 [^2]: Surah Luqman 31:20
-
 

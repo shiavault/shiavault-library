@@ -44,4 +44,3 @@ can establish the authenticity of anyone who claims to be a prophet.
 [^2]: ‘Usul al-Kafi, vol. 1, p. 168. It is likely that the word ‘alam be
 read as ‘ilm.
 
-

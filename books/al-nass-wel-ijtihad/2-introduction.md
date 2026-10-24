@@ -976,6 +976,6 @@ When we returned to Iraq, we brought this good news to our brothers of
 the members of the Cultural Convention who looked forward to reading
 this book.
 
-***23<sup>rd</sup> of Ramadan, 1375 A.H. / 4-5-1956 A.D.  
+***23rd of Ramadan, 1375 A.H. / 4-5-1956 A.D.  
  Muhammad Taqiy al-Hakeem  
- Holy Najaf*<span style="font-size: 13pt"></span>**
+ Holy Najaf***

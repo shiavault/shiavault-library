@@ -296,4 +296,3 @@ Syria even today.
 
 [^2]: al-abari, Tarikh, Vol. 1, p. 88.
 
-

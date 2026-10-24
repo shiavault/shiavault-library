@@ -372,4 +372,3 @@ Besides, there is no evidence about the validity of such a thing;
 therefore, the Malikiyyah (a sect of Sunni Muslims) do not do so
 either.[^30]
 
-

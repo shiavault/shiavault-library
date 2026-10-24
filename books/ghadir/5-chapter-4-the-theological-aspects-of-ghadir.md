@@ -524,4 +524,3 @@ justice' means that he (Imam Mahdi) will bring about the rule of Allah
 (Tawhid) - i.e., the Qur'an and the Sunnah of the Prophet - in place of
 polytheism - i.e. shirk and corruption.
 
-

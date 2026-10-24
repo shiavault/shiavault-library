@@ -213,4 +213,3 @@ towards Islam.
 They tightly held to their paganism and their ways of life, but they
 were powerless against the Islamic wave, too tremendous to be faced.
 
-

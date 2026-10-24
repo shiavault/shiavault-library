@@ -134,4 +134,3 @@ human thought?
  5. In what verse and sura does the Holy Qur’an refer to the movement of
 the earth?
 
-

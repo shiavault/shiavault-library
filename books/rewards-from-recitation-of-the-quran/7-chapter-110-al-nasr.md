@@ -85,4 +85,3 @@ Chapter 114 (al-Nas)
 
 Its merits are similar to those of its sister, Surat al-Falaq.
 
-

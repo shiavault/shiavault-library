@@ -1009,4 +1009,3 @@ and Yaqut al-Hamawi: Mu\`jam al-Buldan 1/94.
 
 [^23]: Al-Ya\`qubi: Tarikh 2/63.
 
-

@@ -491,4 +491,3 @@ echoes in the minds of the people today. It is the revolution that
 immortalized Islam and inspired the revolutionaries throughout the ages,
 to defend Islam and fight recklessly in the battle of sacred jihad.
 
-

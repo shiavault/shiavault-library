@@ -63,11 +63,7 @@ To find the real center, which entails absolute moderation, is thus
 difficult to attain. To remain at this center and to preserve this
 balance is even more difficult. The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-شيبتني سورة هود لمكان ((فَاسْتَقِمْ كَمَا أُمِرْتَ)
-  </p>
-</blockquote>
+> شيبتني سورة هود لمكان ((فَاسْتَقِمْ كَمَا أُمِرْتَ)
 
 The *Surat Hud* has made an old man of me because of the verse,
 ***\`Remain as steadfast as you have been commanded'. (11:112)***
@@ -408,19 +404,15 @@ honour individual and social rights of others and act according to the
 sacred laws of Islam. This is called social justice. In a prophetic
 tradition, social rights are enumerated in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-إن للمؤمن على أخيه ثلاثين حقا لا براءة له منها  إلا بالأداء أو العفو:
-يغفر زلته، ويرحم عبرته، ويستر عورته، ويقيل عثرته، ويقبل معذرته، ويرد
-غيبته، ويديم نصيحته، ويحفظ خلته، ويرعى ذمته، ويعود مرضته ويشهد ميتته،
-ويجيب دعوته، ويقبل هديته، ويكافأ صلته، ويشكر نعمته، ويحسن نصرته، ويحفظ
-خليلته، ويقضى حاجته، ويشفع مسألته، ويسمّت عطسته ويرشد ضالته، ويرد
-سلامه ويطيب كلامه ويبر إنعامه، ويصدق أقسامه، ويوالى وليه ويعادي عدوه،
-وينصره ظالماً ومظلوماً، فأما نصرته ظالما فيرده عن ظلمه، وأما نصرته
-مظلوماً فيعينه على اخذ حقه، ولا يسلمه، ولا يخذله، ويحب له من الخير ما
-يحب لنفسه، ويكره له من الشر ما يكره لنفسه.
-  </p>
-</blockquote>
+> إن للمؤمن على أخيه ثلاثين حقا لا براءة له منها  إلا بالأداء أو العفو:
+> يغفر زلته، ويرحم عبرته، ويستر عورته، ويقيل عثرته، ويقبل معذرته، ويرد
+> غيبته، ويديم نصيحته، ويحفظ خلته، ويرعى ذمته، ويعود مرضته ويشهد ميتته،
+> ويجيب دعوته، ويقبل هديته، ويكافأ صلته، ويشكر نعمته، ويحسن نصرته، ويحفظ
+> خليلته، ويقضى حاجته، ويشفع مسألته، ويسمّت عطسته ويرشد ضالته، ويرد
+> سلامه ويطيب كلامه ويبر إنعامه، ويصدق أقسامه، ويوالى وليه ويعادي عدوه،
+> وينصره ظالماً ومظلوماً، فأما نصرته ظالما فيرده عن ظلمه، وأما نصرته
+> مظلوماً فيعينه على اخذ حقه، ولا يسلمه، ولا يخذله، ويحب له من الخير ما
+> يحب لنفسه، ويكره له من الشر ما يكره لنفسه.
 
 Every believer has thirty obligations over his brother in faith, which
 he could not be said to have met unless he either performs them or is
@@ -473,12 +465,8 @@ throughout that whole society, whereas if the ruler is unjust, then
 there will be no justice in that country. This is expressed in a
 narration:
 
-<blockquote dir="rtl">
-  <p>
-إن السلطان إذا كان عادلا كان شريكا في ثواب كل طاعة تصدر عن كل رعية،
-وإن كان جائرا كان سهيما في معاصيهم
-  </p>
-</blockquote>
+> إن السلطان إذا كان عادلا كان شريكا في ثواب كل طاعة تصدر عن كل رعية،
+> وإن كان جائرا كان سهيما في معاصيهم
 
 Whenever a sovereign is just, he shares in the reward and merit of all
 the good works done by his subjects; but if he is not just, he will be
@@ -503,5 +491,4 @@ regulation of the powers of passion and anger in the human being .
 [^2]: Ignorance or Jahl, are here used in a wider-than-ordinary sense.
 "Jahl" here stands in opposition to "\`aql" (reason or "hikmah"
 (wisdom), not in opposition to "\`ilm" (knowledge).
-
 

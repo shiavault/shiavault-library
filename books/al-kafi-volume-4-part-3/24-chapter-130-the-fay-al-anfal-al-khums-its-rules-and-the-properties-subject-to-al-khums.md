@@ -619,8 +619,6 @@ disbelief. All praise belongs to Allah, Lord of the worlds. May the
 peace and blessings be showered up on Muhammad and his family, the clean
 and pure ones.
 
-
 Translated
 Muhammad Sarwar May 29, 1999 2:54 P M
-
 

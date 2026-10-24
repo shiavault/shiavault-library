@@ -174,4 +174,3 @@ at the time of their Jamaat prayers. Please go therein after the people
 have gone away. If that too creates difficulties, then stop praying in
 that mosque altogether; pray in your home.
 
-

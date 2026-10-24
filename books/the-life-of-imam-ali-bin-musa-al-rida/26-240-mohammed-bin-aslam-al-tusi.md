@@ -1,10 +1,6 @@
 240. Mohammed Bin Aslam Al Tūsi
 ===============================
 
-  
-
-  
-
 240. Mohammed Bin Aslam al-Tūsi
 -------------------------------
 
@@ -28,11 +24,6 @@ from among our
 
 [[3]](#_F1216) Al-Tūsi, Rijāl.  
  [[4]](#_F1217) Al-Najāshi.  
-  
-
-  
-
-  
 
 Shi'ites, and through them Allah drives away fear from the believer in
 the land of the oppressive. They are entrusted by Allah over His earth.
@@ -82,11 +73,6 @@ His *Kunya* was Abū Ja'far. The Qummis accused him of
  [[2]](#_F1219) Ibid.  
  [[3]](#_F1220) Al-Najāshi.  
  [[4]](#_F1221) Mu'jam Rijāl al-Hadith.  
-  
-
-  
-
-  
 
 extremism and sent someone to kill him. When they saw that he prayed,
 they refrained from (killing) him. Ibn al-Ghadā'iri said: "His tradition
@@ -127,8 +113,6 @@ peace be on him.[[6]](#_ftn1227)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[7]](#_ftn1228)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1222) Ibid., vol. 15, p. 130.  
@@ -138,11 +122,6 @@ peace be on him.[[7]](#_ftn1228)
  [[5]](#_F1226) Ibid.  
  [[6]](#_F1227) Ibid.  
  [[7]](#_F1228) Ibid.  
-  
-
-  
-
-  
 
 247. Mohammed Bin Jumhūr
 ------------------------
@@ -181,8 +160,6 @@ authority.[[4]](#_ftn1232)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[5]](#_ftn1233)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1229) Al-Najāshi.  
@@ -190,11 +167,6 @@ peace be on him.[[5]](#_ftn1233)
  [[3]](#_F1231) Al-Najāshi.  
  [[4]](#_F1232) Al-Tūsi, Rijāl.  
  [[5]](#_F1233) Ibid.  
-  
-
-  
-
-  
 
 251. Mohammed Bin Khālid al-Barqi
 ---------------------------------
@@ -235,8 +207,6 @@ on the authority of Imām al-Ridā, peace be on him, and Ahmed b.
 al-Muthannā and Marūk b. 'Ubayd reported on his
 authority.[[7]](#_ftn1240)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1234) Ibid.  
@@ -246,11 +216,6 @@ authority.[[7]](#_ftn1240)
  [[5]](#_F1238) Al-Najāshi.  
  [[6]](#_F1239) Al-Tūsi, Rijāl.  
  [[7]](#_F1240) Mu'jam Rijāl al-Hadith, vol. 16, p. 111.  
-  
-
-  
-
-  
 
 256. Mohammed Bin Sālim al-Qummi
 --------------------------------
@@ -294,19 +259,12 @@ are the following:
 
 A. Kitāb al-Tarā'if (the Book of Jokes).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1241) Al-Tūsi, Rijāl.  
  [[2]](#_F1242) Ibid.  
  [[3]](#_F1243) Ibid.  
  [[4]](#_F1244) Al-Najāshi.  
-  
-
-  
-
-  
 
 B. Kitāb al-Azilla (the Book of Shade).
 
@@ -359,11 +317,6 @@ b. al-Yasa' al-Ash'ari, al-Qummi. He narrated on the authority
  [[2]](#_F1246) Mu'jam Rijāl al-Hadith, vol. 16, p. 177.  
  [[3]](#_F1247) Al-Najāshi.  
  [[4]](#_F1248) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 of Imām al-Ridā, peace be on him, and Imām Abū Ja'far al-Jawād. He has a
 book.[[1]](#_ftn1249)
@@ -400,8 +353,6 @@ b. 'Amrū b. Sālim al-Saffār. He has a big classified book like the book
 of al-Halabi. He narrated on the authority of Imām al-Ridā, peace be on
 him.[[6]](#_ftn1254)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1249) Al-Najāshi.  
@@ -410,11 +361,6 @@ him.[[6]](#_ftn1254)
  [[4]](#_F1252) Al-Tūsi, Rijāl.  
  [[5]](#_F1253) Mu'jam Rijāl al-Hadith, vol. 16,  p.185.  
  [[6]](#_F1254) Al-Najāshi.  
-  
-
-  
-
-  
 
 268. Mohammed Bin 'Abd Allah
 ----------------------------
@@ -452,8 +398,6 @@ b. Mohammed b. Abū Nasr reported on his authority.[[5]](#_ftn1259)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[6]](#_ftn1260)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1255) Al-Tūsi, Rijāl.  
@@ -462,11 +406,6 @@ peace be on him.[[6]](#_ftn1260)
  [[4]](#_F1258) Mu'jam Rijāl al-Hadith.  
  [[5]](#_F1259) Ibid., vol. 16, p. 288.  
  [[6]](#_F1260) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 274. Mohammed Bin 'Ubayd
 ------------------------
@@ -518,11 +457,6 @@ b. al-Husayn b. Zayd b. al-Husayn, peace be on him. He has a
  [[4]](#_F1264) Ibid., vol. 16, p. 306.  
  [[5]](#_F1265) Al-Tūsi, Rijāl.  
  [[6]](#_F1266) Al-Barqi, Rijāl.  
-  
-
-  
-
-  
 
 book which he narrated on the authority of Imām al-Ridā, peace be on
 him.[[1]](#_ftn1267)
@@ -565,8 +499,6 @@ him.[[6]](#_ftn1272)
 He narrated on the authority of Imām al-Ridā, peace be on him, and Ahmed
 b. Abū Nasr reported on his authority.[[7]](#_ftn1273)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1267) Al-Najāshi.  
@@ -576,11 +508,6 @@ b. Abū Nasr reported on his authority.[[7]](#_ftn1273)
  [[5]](#_F1271) Ibid., p. 77.  
  [[6]](#_F1272) Al-Tūsi, Rijāl.  
  [[7]](#_F1273) Mu'jam Rijāl al-Hadith, vol. 17, p. 80.  
-  
-
-  
-
-  
 
 287. Mohammed Bin 'Umar al-Kanāsi
 ---------------------------------
@@ -635,19 +562,12 @@ K. Kitāb al-Tajjmil wa al-Murū'a (the Book of
 
 Beautifying and Manhood).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1274) Al-Tūsi, Rijāl.  
  [[2]](#_F1275) Al-Najāshi.  
  [[3]](#_F1276) Ibid.  
  [[4]](#_F1277) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 L. Kitāb al-Fayya' wa al-Khums (the Book of Booty and
 
@@ -692,19 +612,12 @@ Ja'far, peace be on him, as Mohammed b. Furāt hurt me. No Khatābi lied
 to us as Mohammed b. Furāt did. By Allah, Allah makes him who lies to us
 taste the heat of the iron.[[4]](#_ftn1281)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1278) Al-Najāshi.  
  [[2]](#_F1279) Mu'jam Rijāl al-Hadith, vol. 17, p. 136.  
  [[3]](#_F1280) Al-Kashi.  
  [[4]](#_F1281) Ibid.  
-  
-
-  
-
-  
 
 Shortly after this supplication of the Imām, Mohammed b. Furāt was
 killed by Ibrāhim b. Shakkla.[[1]](#_ftn1282)  
@@ -744,8 +657,6 @@ He was the retainer of 'Umar b. al-Khattāb. Shaykh al-Tūsi numbered him
 as one of the companions of Imām al-Ridā, peace be on
 him.[[6]](#_ftn1287)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1282) Ibid.  
@@ -754,11 +665,6 @@ him.[[6]](#_ftn1287)
  [[4]](#_F1285) Ibid.  
  [[5]](#_F1286) Ibid.  
  [[6]](#_F1287) Mu'jam Rijāl al-Hadith, vol. 17, p. 177.  
-  
-
-  
-
-  
 
 297. Mohammed Bin al-Qāsim Bin al-Fudayl
 ----------------------------------------
@@ -797,19 +703,12 @@ dates, and he gave me a handful in which there was eighteen dates, so I
 said to him: 'Increase me in dates.' 'If my grandfather had increased
 you, I would have increased you,' he said.[[4]](#_ftn1291)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1288) Ibid.  
  [[2]](#_F1289) Ibid., p. 179.  
  [[3]](#_F1290) Al-Tūsi, Rijāl.  
  [[4]](#_F1291) Mu'jam Rijāl al-Hadith, vol. 17, p. 199.  
-  
-
-  
-
-  
 
 301. Mohammed Bin Kulayb al-Ash'ari
 -----------------------------------
@@ -853,8 +752,6 @@ Mohammed b. Sa'd reported on his authority.[[6]](#_ftn1297)
 He narrated on the authority of Imām al-Ridā, peace be on him, and Ahmed
 b. Yahyā reported on his authority.[[7]](#_ftn1298)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1292) Al-Tūsi, Rijāl.  
@@ -864,11 +761,6 @@ b. Yahyā reported on his authority.[[7]](#_ftn1298)
  [[5]](#_F1296) Ibid.  
  [[6]](#_F1297) Mu'jam Rijāl al-Hadith, vol. 17, p. 312.  
  [[7]](#_F1298) Ibid., vol. 18, p. 37.  
-  
-
-  
-
-  
 
 308. Mohammed Bin Yahya al-Sābāti
 ---------------------------------
@@ -912,8 +804,6 @@ book.[[6]](#_ftn1304)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him, and added that he was unknown.[[7]](#_ftn1305)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1299) Ibid., p. 44.  
@@ -923,11 +813,6 @@ peace be on him, and added that he was unknown.[[7]](#_ftn1305)
  [[5]](#_F1303) Mu'jam Rijāl al-Hadith,  p. 245.  
  [[6]](#_F1304) Ibid.  
  [[7]](#_F1305) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 315. Murauwik Bin 'Ubayd
 ------------------------
@@ -977,8 +862,6 @@ Mohammed b. Sinān reported on his authority.[[4]](#_ftn1309)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[5]](#_ftn1310) He has a book.[[1311]](#_ftn1311)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1306) Mu'jam Rijāl al-Hadith.  
@@ -987,11 +870,6 @@ peace be on him.[[5]](#_ftn1310) He has a book.[[1311]](#_ftn1311)
  [[4]](#_F1309) Mu'jam Rijāl al-Hadith, vol. 18, p. 237.  
  [[5]](#_F1310) Al-Tūsi, Rijāl.  
  [[6]](#_F1311) Al-Najāshi.  
-  
-
-  
-
-  
 
 320. Mu'āwiya Bin Yahyā
 -----------------------
@@ -1030,8 +908,6 @@ May Allah have mercy on Ma'rūf, for he was one of those unique in
 knowledge and reverential fear, and attained the highest rank due to the
 blessing of Imām al-Ridā, peace be on him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1312) Al-Tūsi, Rijāl.  
@@ -1039,11 +915,6 @@ blessing of Imām al-Ridā, peace be on him.
  [[3]](#_F1314) Al-Tasawuf fi al-Shi'r al-'Arabi, p. 45.  
  [[4]](#_F1315) Tabaqāt al-Sūfiya.  
  [[5]](#_F1316) Al-Tasawuf fi al-Shi'r al-'Arabi.  
-  
-
-  
-
-  
 
 323. Mu'ammar Bin Khallād al-Baghdādi
 -------------------------------------
@@ -1083,18 +954,11 @@ the Imām appears.' Then he said: 'What has your brother done?' 'Who is
 it?' I asked. 'Muqātil b. Muqātil,' he answered, 'the one with flat
 face, long beard, bent nose.'
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1317) Al-Najāshi.  
  [[2]](#_F1318) Al-Tūsi, Rijāl.  
  [[3]](#_F1319) Ibid.  
-  
-
-  
-
-  
 
 "He, peace be on him, added: 'As for me, I have not seen him yet; nor
 has he come in to me, but he has believed (in my Imāmate) and is
@@ -1133,8 +997,6 @@ one of the companions of Imām al-Rida, peace be on him.[[4]](#_ftn1323)
 He was from Kūfa. He has a book on Imām al-Ridā, peace be on him. Ahmed
 b. Mohammed narrated the book.[[5]](#_ftn1324)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1320) Mu'jam Rijāl al-Hadith, vol. 18, p. 359.  
@@ -1142,11 +1004,6 @@ b. Mohammed narrated the book.[[5]](#_ftn1324)
  [[3]](#_F1322) Ibid.  
  [[4]](#_F1323) Ibid.  
  [[5]](#_F1324) Al-Najāshi.  
-  
-
-  
-
-  
 
 330. Mūsā Bin 'Īsā Bin 'Ubayd al-Yaqtini
 ----------------------------------------
@@ -1196,18 +1053,11 @@ M. Kitāb al-Jāmi' (the Comprehensive Book).
 
 N. Kitāb al-Dab (the Book of Literature).[[3]](#_ftn1327) 
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1325) Mu'jam Rijāl al-Hadith.  
  [[2]](#_F1326) Al-Tūsi, Rijāl.  
  [[3]](#_F1327) Al-Najāshi.  
-  
-
-  
-
-  
 
 332. Mūsā Bin Mu'ammar
 ----------------------
@@ -1250,8 +1100,6 @@ has a book.[[5]](#_ftn1332)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[6]](#_ftn1333)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1328) Al-Tūsi, Rijāl.  
@@ -1260,11 +1108,6 @@ peace be on him.[[6]](#_ftn1333)
  [[4]](#_F1331) Mu'jam Rijāl al-Hadith, vol. 19, p. 100.  
  [[5]](#_F1332) Al-Najāshi.  
  [[6]](#_F1333) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 338. Al-Walid Bin Abān
 ----------------------
@@ -1305,8 +1148,6 @@ a follower of Imām al-Ridā, peace be on him.[[5]](#_ftn1338)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[6]](#_ftn1339)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1334) ,Mu'jam Rijāl al-Hadith, vol. 19, p. 237.  
@@ -1315,11 +1156,6 @@ peace be on him.[[6]](#_ftn1339)
  [[4]](#_F1337) Mu'jam Rijāl al-Hadith.  
  [[5]](#_F1338) Ibid., vol. 19, p. 313.  
  [[6]](#_F1339) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 344. Hishām Bin Ibrāhim al-'Abbāsi
 ----------------------------------
@@ -1358,18 +1194,11 @@ al-Husayn b. 'Ali b. Zakariya reported on his authority.[[2]](#_ftn1341)
 He was from Kūfa. He narrated on the authority of Imām Mūsā, peace be on
 him,  and Imām  al-Ridā, peace be on him. He has a book.[[3]](#_ftn1342)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1340) Qurb al-Isnād, p. 148.  
  [[2]](#_F1341) Mu'jam Rijāl al-Hadith, vol. 19, p. 301.  
  [[3]](#_F1342) Al-Najāshi.  
-  
-
-  
-
-  
 
 347. Yāsir
 ----------
@@ -1411,8 +1240,6 @@ on him.[[5]](#_ftn1347)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[6]](#_ftn1348)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1343) Ibid.  
@@ -1421,11 +1248,6 @@ peace be on him.[[6]](#_ftn1348)
  [[4]](#_F1346) Mu'jam Rijāl al-Hadith.  
  [[5]](#_F1347) Al-Barqi, Rijāl.  
  [[6]](#_F1348) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 353. Yahyā Bin al-'Abbās al-Warrāq
 ----------------------------------
@@ -1471,8 +1293,6 @@ peace be on him, and added that he was no-Shi'ite
 His *Kunya* is Abū Khālid. Shaykh al-Tūsi numbered him as one of the
 companions of Imām al-Ridā, peace be on him.[[7]](#_ftn1355)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1349) Ibid.  
@@ -1482,11 +1302,6 @@ companions of Imām al-Ridā, peace be on him.[[7]](#_ftn1355)
  [[5]](#_F1353) Ibid.  
  [[6]](#_F1354) Al-Tūsi, Rijāl.  
  [[7]](#_F1355) Ibid.  
-  
-
-  
-
-  
 
 360. Yahyā al-San'āni
 ---------------------
@@ -1539,11 +1354,6 @@ between al-Safā and al-Marwā, but he narrated nothing on
  [[4]](#_F1359) Al-Tūsi, Rijāl.  
  [[5]](#_F1360) Ibid.  
  [[6]](#_F1361) Ibid.  
-  
-
-  
-
-  
 
 his authority. He narrated on the authority of Imām al-Kāzim and Imām 
 al-Ridā, peace be on them. He was the agent of Imām al-Ridā and among
@@ -1585,11 +1395,6 @@ praising and lauding, and that he was one of those who had
  [[2]](#_F1363) Mu'jam Rijāl al-Hadith.  
  [[3]](#_F1364) Al-Kashi.  
  [[4]](#_F1365) Ibid.  
-  
-
-  
-
-  
 
 abundant reverential fear and among the scholars of the family of
 Mohammed, may Allah bless him and his family. Besides these accounts,
@@ -1631,11 +1436,6 @@ from burying your followers at it.' He was buried
 ------------------------------------------------------------------------
 
 [[1]](#_F1366) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 at the (cemetery of) al-Baqi'.[[1]](#_ftn1367) Imām al-Ridā, peace be on
 him, ordered his grave to be showered with water for a month or forty
@@ -1650,11 +1450,8 @@ authors, narrators, and jurists, so they enriched the Imāmi 
 jurisprudence through their recording the verdicts of Imām al-Ridā,
 peace be on him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1367) Al-Kashi.  
  [[2]](#_F1368) Mu'jam Rijāl al-Hadith.  
-  
 

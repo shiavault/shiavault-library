@@ -70,4 +70,3 @@ His works have been translated and published in French, Arabic, Turkish,
 Urdu and English. The Islamic Seminary has had the honour of publishing
 some of them.
 
-

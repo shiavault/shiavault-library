@@ -5,12 +5,8 @@ Another responsibility of the followers of the Imam is that we must have
 humility and humbleness and show concern in our hearts (for the Imam)
 when we mention him.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اللٌّهُ تَعَالـى:  أَلَـْم يَأْنِ لِلَّذِينَ آمَنُوا أَنْ
-تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللٌّهِ وَ مَا نَزَلَ مِنَ الْحَقِّ 
-  </p>
-</blockquote>
+> قَالَ اللٌّهُ تَعَالـى:  أَلَـْم يَأْنِ لِلَّذِينَ آمَنُوا أَنْ
+> تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللٌّهِ وَ مَا نَزَلَ مِنَ الْحَقِّ 
 
 Allah, the Most High has said (in the Noble Qur\`an):
 
@@ -27,13 +23,9 @@ can only come about through remembering the name of the Imam, just as
 Imam Ja’far b. Muhammad as-Sadiq(as) stated in his supplication for
 Friday:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ إِنِّـي أَتَقَرَّبُ إِلَيْكَ بِقَلْبٍ خَاضِعٍ وَ إِلـىٰ
-وَلِيِّكَ بِبَدَنٍ خَاشِعٍ وَ إِلـىٰ الأَئِمَّةِ الرَّاشِدِينَ
-بِفُؤَادٍ مُتَوَاضِعٍ
-  </p>
-</blockquote>
+> أَللّٰهُمَّ إِنِّـي أَتَقَرَّبُ إِلَيْكَ بِقَلْبٍ خَاضِعٍ وَ إِلـىٰ
+> وَلِيِّكَ بِبَدَنٍ خَاشِعٍ وَ إِلـىٰ الأَئِمَّةِ الرَّاشِدِينَ
+> بِفُؤَادٍ مُتَوَاضِعٍ
 
 “O’ Allah! Indeed I seek nearness to you with a submissive heart, and (I
 seek nearness) to your representative with a body that is humble and (I
@@ -46,5 +38,4 @@ humility.”[^3]
 
 [^3]: Jamal al-Usbu’, Pag 230, Biharul Anwar, vol. 89, pg. 332, sec. 4,
 no. 5
-
 

@@ -73,7 +73,6 @@ be given later in this discourse.
 orders of Allah Almighty. This takes the form of reciting the four
 phrases of TALBEYAH as follows:
 
-
 LABBAYK ALLAHUMMA LABBAYK.
 
 LABBAYKA LAA 1. The intention, NEYYAH.
@@ -112,5 +111,4 @@ kissing, touching, or even looking at them with lust.
 
 3. Performing marriage contract, whether for oneself or for someone
 else. Also taking part in or witnessing the marriage contract.
-
 

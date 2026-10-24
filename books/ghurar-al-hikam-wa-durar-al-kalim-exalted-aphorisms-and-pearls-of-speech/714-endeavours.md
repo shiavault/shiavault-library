@@ -52,21 +52,13 @@ determination] is glorified [and considered as great] by the nations.
 the Glorified, does not realize his aspiration.
 
 > 11ـ مَنْ لَمْ يَكُنْ هَمُّهُ ما عِنْدَاللّهِ سُبْحانَهُ لَمْ يُدْرِكْ
-<blockquote dir="rtl">
-  <p>
-مُناهُ.
-  </p>
-</blockquote>
+> مُناهُ.
 
 12. Never concern yourself with anything except that which will earn you
 recompense and do not strive except in gaining reward.
 
 > 12ـ لاتَهْتِمَنَّ إلاّ فيما يُكْسِبُكَ أجْراً ولاتَسْعَ إلاّ فِي
-<blockquote dir="rtl">
-  <p>
-اغْتِنامِ مَثُوبَة.
-  </p>
-</blockquote>
+> اغْتِنامِ مَثُوبَة.
 
 13. One’s zeal is [proportionate] to the extent of one’s endeavour.
 
@@ -76,11 +68,7 @@ recompense and do not strive except in gaining reward.
 of] his action is to the extent of his intention.
 
 > 14ـ قَدْرُ الرَّجُلِ عَلى قَدْرِهِمَّتِهِ، وعَمَلُهُ عَلى قَدْرِ
-<blockquote dir="rtl">
-  <p>
-نِيَّتِهِ.
-  </p>
-</blockquote>
+> نِيَّتِهِ.
 
 15. Nothing raises a person like his [earnest] endeavour and nothing
 lowers him like his lustful desire.
@@ -91,11 +79,7 @@ lowers him like his lustful desire.
 sense of honour is to the extent of his zeal.
 
 > 16ـ هُمُومُ الرَّجُلِ عَلى قَدْرِ هِمَّتِهِ، وغَيْرَتُهُ عَلى قَدْر
-<blockquote dir="rtl">
-  <p>
-حَمِيَّتِهِ.
-  </p>
-</blockquote>
+> حَمِيَّتِهِ.
 
 17. Do not make your family and children your greatest concern, for
 indeed if they are friends of Allah, the Glorified, then Allah does not
@@ -103,22 +87,13 @@ forsake His friend, and if they are the enemies of Allah then what is
 your concern for the enemies of Allah?
 
 > 17ـ لاتَجْعَلْ أكْبـَرَ هَمِّكَ بِأهْلِكَ ووَلَدِكَ، فَإنَّهُمْ إنْ
-<blockquote dir="rtl">
-  <p>
-يَكُونُوا أوْلِياءَ اللّهِ سُبْحانَهُ فَإنَّ اللّهَ لايُضَيِّعُ
-وَلِيَّهُ، وإنْ يَكُونُوا أعْداءَ اللّهِ فَما هَمُّكَ بِأعْداءِ
-اللّهِ.
-  </p>
-</blockquote>
+> يَكُونُوا أوْلِياءَ اللّهِ سُبْحانَهُ فَإنَّ اللّهَ لايُضَيِّعُ
+> وَلِيَّهُ، وإنْ يَكُونُوا أعْداءَ اللّهِ فَما هَمُّكَ بِأعْداءِ
+> اللّهِ.
 
 18. Do not allow yourself to feel sorrow for what you have lost such
 that it preoccupies you from what is [yet] to come.
 
 > 18ـ لاتُشْعِرْ قَلْبَكَ الْهَمَّ عَلى ما فاتَ، فَيَشْغَلَكَ عَمّا هُوَ
-<blockquote dir="rtl">
-  <p>
-آت.
-  </p>
-</blockquote>
-
+> آت.
 

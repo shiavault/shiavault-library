@@ -153,4 +153,3 @@ the blessings and greetings of God be upon all you kind readers!
 
 **Muhammad al-Hassoun**
 
-

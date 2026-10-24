@@ -19,4 +19,3 @@ in Paradise and he who disobeys Him will be sent to Hell.
 ***“ALLAH affirms that there is no god but He: and so do the angels, and
 these endowed with knowledge, He is standing firm in justice”. (3:18)***
 
-

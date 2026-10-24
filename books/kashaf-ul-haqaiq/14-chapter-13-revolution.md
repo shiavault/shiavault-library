@@ -1326,11 +1326,9 @@ we? What I am saying is that they have only given me a couple of Hadeeth
 but I am referring them to a Verse of the Holy Quran where Allah
 (s.w.t.) has used the term ‘Zann’ for his truthful Prophet.
 
-<p dir="rtl">
 وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِّنْهُمَا اذْكُرْنِي عِندَ رَبِّكَ
 فَأَنسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ
 سِنِينَ
-</p>
 
 [Shakir 12:42] And he said to him whom he knew would be delivered of the
 two: Remember me with your lord; but the Shaitan caused him to forget
@@ -1368,12 +1366,10 @@ people.
 THOSE FIMRLY ROOTED IN KNOWLEDGE (RAASIKUNA FIL'ILM)
 ----------------------------------------------------
 
-<p dir="rtl">
 لَّـكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ
 يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيكَ وَمَا أُنزِلَ مِن قَبْلِكَ
 وَالْمُقِيمِينَ الصَّلاَةَ وَالْمُؤْتُونَ الزَّكَاةَ وَالْمُؤْمِنُونَ
 بِاللّهِ وَالْيَوْمِ الآخِرِ أُوْلَـئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
-</p>
 
 [Shakir 4:162] But the firm in knowledge among them and the believers
 believe in what has been revealed to you and what was revealed before
@@ -1384,14 +1380,12 @@ mighty reward.
 The believers from among the People of the Book have been referred to as
 ‘Those who are firmly rooted in knowledge’.
 
-<p dir="rtl">
 هُوَ الَّذِيَ أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ
 هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ فَأَمَّا الَّذِينَ في
 قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاء
 الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلاَّ
 اللّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِّنْ
 عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُوْلُواْ الألْبَابِ
-</p>
 
 [Shakir 3:7] He it is Who has revealed the Book to you; some of its
 verses are decisive, they are the basis of the Book, and others are
@@ -1411,19 +1405,15 @@ THE UNJUST
 
 Take a look at these two Verses:
 
-<p dir="rtl">
 وَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُواْ الصَّالِحَاتِ فَيُوَفِّيهِمْ
 أُجُورَهُمْ وَاللّهُ لاَ يُحِبُّ الظَّالِمِينَ
-</p>
 
 [Shakir 3:57] And as to those who believe and do good deeds, He will pay
 them fully their rewards; and Allah does not love the unjust.
 
-<p dir="rtl">
 كَيْفَ يَهْدِي اللّهُ قَوْمًا كَفَرُواْ بَعْدَ إِيمَانِهِمْ وَشَهِدُواْ
 أَنَّ الرَّسُولَ حَقٌّ وَجَاءهُمُ الْبَيِّنَاتُ وَاللّهُ لاَ يَهْدِي
 الْقَوْمَ الظَّالِمِينَ
-</p>
 
 [Shakir 3:86] How shall Allah guide a people who disbelieved after their
 believing and (after) they had borne witness that the Messenger was true
@@ -1437,21 +1427,17 @@ Allah (s.w.t.) does not befriend the unjust. In other words the unjust
 would be the enemies of Allah (s.w.t.). Let us now look for the same
 wordings used for Prophets (a.s.).
 
-<p dir="rtl">
 وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلاَ مِنْهَا
 رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـذِهِ الشَّجَرَةَ فَتَكُونَا
 مِنَ الْظَّالِمِينَ
-</p>
 
 [Shakir 2:35] And We said: O Adam! Dwell you and your wife in the garden
 and eat from it a plenteous (food) wherever you wish and do not approach
 this tree, for then you will be of the unjust.
 
-<p dir="rtl">
 وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ
 عَلَيْهِ فَنَادَى فِي الظُّلُمَاتِ أَن لَّا إِلَهَ إِلَّا أَنتَ
 سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ
-</p>
 
 [Shakir 21:87] And Yunus, when he went away in wrath, so he thought that
 We would not straiten him, so he called out among afflictions: There is
@@ -1470,29 +1456,23 @@ of injustice it may be, it is the opposite of justice.
 KNOWLEDGE
 ---------
 
-<p dir="rtl">
 وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ فَلَيَعْلَمَنَّ اللَّهُ
 الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ
-</p>
 
 [Shakir 29:3] And certainly We tried those before them, so Allah will
 certainly know those who are true and He will certainly know the liars.
 
-<p dir="rtl">
 وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ
 الْمُنَافِقِينَ
-</p>
 
 [Shakir 29:11] And most certainly Allah will know those who believe and
 most certainly He will know the hypocrites.
 
-<p dir="rtl">
 لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
 الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا
 الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ
 اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ إِنَّ اللَّهَ قَوِيٌّ
 عَزِيزٌ
-</p>
 
 [Shakir 57:25] Certainly We sent Our messengers with clear arguments,
 and sent down with them the Book and the balance that men may conduct
@@ -1511,24 +1491,18 @@ This word is used when the speaker is not convinced of what he is
 saying.  Allah (s.w.t.) has Used this same word for Himself (s.w.t) on
 numerous occasions. A few examples of which are:
 
-<p dir="rtl">
 يَا أَيُّهَا النَّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِي خَلَقَكُمْ
 وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-</p>
 
 [Shakir 2:21] O men! serve your Lord Who created you and those before
 you so that you may guard (against evil).
 
-<p dir="rtl">
 ثُمَّ عَفَوْنَا عَنكُمِ مِّن بَعْدِ ذَلِكَ لَعَلَّكُمْ تَشْكُرُونَ
-</p>
 
 [Shakir 2:52] Then We pardoned you after that so that you might give
 thanks.
 
-<p dir="rtl">
 وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
-</p>
 
 [Shakir 2:53] And when We gave Musa the Book and the distinction that
 you might walk aright.
@@ -1539,11 +1513,9 @@ without conviction?
 KINGDOM
 -------
 
-<p dir="rtl">
 قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء وَتَنزِعُ
 الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن تَشَاء
 بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
-</p>
 
 [Shakir 3:26] Say: O Allah, Master of the Kingdom! Thou givest the
 kingdom to whomsoever Thou pleasest and takest away the kingdom from
@@ -1551,11 +1523,9 @@ whomsoever Thou pleasest, and Thou exaltest whom Thou pleasest and
 abasest whom Thou pleasest in Thine hand is the good; surety, Thou hast
 power over all things.
 
-<p dir="rtl">
 أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ فَقَدْ
 آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُم
 مُّلْكًا عَظِيمًا
-</p>
 
 [Shakir 4:54] Or do they envy the people for what Allah has given them
 of His grace? But indeed We have given to Ibrahim's children the Book
@@ -1569,10 +1539,8 @@ at such a high level that the mere thought of uncertainty does not
 arise. For ignorant people like us, acting upon conjecture is shameful
 and prohibited as conviction is a condition for actions.
 
-<p dir="rtl">
 وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلاَّ ظَنًّا إَنَّ الظَّنَّ لاَ يُغْنِي
 مِنَ الْحَقِّ شَيْئًا إِنَّ اللّهَ عَلَيمٌ بِمَا يَفْعَلُونَ
-</p>
 
 [Shakir 10:36] And most of them do not follow (anything) but conjecture;
 surely conjecture will not avail aught against the truth; surely Allah
@@ -1790,12 +1758,10 @@ Commands?
 Sistani which reads: ‘By following the rules in this book, you will be
 free from giving account on the Day of Judgment for your actions’.
 
-<p dir="rtl">
 يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَّا يَجْزِي
 وَالِدٌ عَن وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئًا
 إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا
 وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ
-</p>
 
 [Shakir 31:33] O people! guard against (the punishment of) your Lord and
 dread the day when a father shall not make any satisfaction for his son,
@@ -1803,12 +1769,10 @@ nor shall the child be the maker of any satisfaction for his father;
 surely the promise of Allah is true, therefore let not this world's life
 deceive you, nor let the arch-deceiver deceive you in respect of Allah.
 
-<p dir="rtl">
 قُلْ أَغَيْرَ اللّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ وَلاَ
 تَكْسِبُ كُلُّ نَفْسٍ إِلاَّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ
 أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ
 فِيهِ تَخْتَلِفُونَ
-</p>
 
 [Shakir 6:164] Say: What! shall I seek a Lord other than Allah? And He
 is the Lord of all things; and no soul earns (evil) but against itself,
@@ -1816,24 +1780,20 @@ and no bearer of burden shall bear the burden of another; then to your
 Lord is your return, so He will inform you of that in which you
 differed.
 
-<p dir="rtl">
 مَّنِ اهْتَدَى فَإِنَّمَا يَهْتَدي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا
 يَضِلُّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى وَمَا كُنَّا
 مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
-</p>
 
 [Shakir 17:15] Whoever goes aright, for his own soul does he go aright;
 and whoever goes astray, to its detriment only does he go astray: nor
 can the bearer of a burden bear the burden of another, nor do We
 chastise until We raise a messenger.
 
-<p dir="rtl">
 وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى وَإِن تَدْعُ مُثْقَلَةٌ إِلَى
 حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَى إِنَّمَا
 تُنذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالغَيْبِ وَأَقَامُوا الصَّلَاةَ
 وَمَن تَزَكَّى فَإِنَّمَا يَتَزَكَّى لِنَفْسِهِ وَإِلَى اللَّهِ
 الْمَصِيرُ
-</p>
 
 [Shakir 35:18] And a burdened soul cannot bear the burden of another and
 if one weighed down by burden should cry for (another to carry) its
@@ -1842,12 +1802,10 @@ You warn only those who fear their Lord in secret and keep up prayer;
 and whoever purifies himself, he purifies himself only for (the good of)
 his own soul; and to Allah is the eventual coming.
 
-<p dir="rtl">
 إِن تَكْفُرُوا فَإِنَّ اللَّهَ غَنِيٌّ عَنكُمْ وَلَا يَرْضَى لِعِبَادِهِ
 الْكُفْرَ وَإِن تَشْكُرُوا يَرْضَهُ لَكُمْ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ
 أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ
 تَعْمَلُونَ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-</p>
 
 [Shakir 39:7] If you are ungrateful, then surely Allah is
 Self-sufficient above all need of you; and He does not like
@@ -1856,9 +1814,7 @@ you; and no bearer of burden shall bear the burden of another; then to
 your Lord is your return, then will He inform you of what you did;
 surely He is Cognizant of what is in the breasts
 
-<p dir="rtl">
 أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
-</p>
 
 [Shakir 53:38] That no bearer of burden shall bear the burden of
 another-
@@ -2210,10 +2166,8 @@ removed Muhammad (s.a.w.) and his (s.a.w.) Family (a.s.)? Have you any
 instance in your mind when these pure persons were immersed in all evil
 even for an instant? Do you not believe in the Verse
 
-<p dir="rtl">
 إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 Allah only desires to keep away the uncleanness from you, O people of
 the House! and to purify you a (thorough) purifying.
@@ -2221,8 +2175,6 @@ the House! and to purify you a (thorough) purifying.
 O have you exceeded the Jew in the enmity towards the Holy Prophet
 (s.a.w.) and his (s.a.w.) blessed Family (a.s.)?
 
-<p dir="rtl">
 وَمَا تَوْفِيقِي إِلاَّ بِاللّهِ
-</p>
 
 With none but Allah is the direction of my affair

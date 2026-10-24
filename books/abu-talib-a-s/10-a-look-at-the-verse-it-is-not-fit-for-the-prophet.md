@@ -371,9 +371,7 @@ Katheer's Tafseer vol.2 p.394.
 but this mentioned that the tomb was of the Prophet's mother.
 4 Ala Hamish as-Seera vol.1 p.193
 
-
 **The Inheritance Of Abu Talib**
-
 
 astray only to the detriment of it. Quran 10:108) and many other verses
 we didn't want to quote. 3. It would be better to mention some
@@ -636,7 +634,6 @@ and who followed the mirage and jumbled in the darkness!
 1 Al-Istee'ab vol.3 p.61.
 2 Majma'ul Bayan, vol.23 p.163.
 
-
 Among the fabrications against Abu Talib was the pretense that Ali and
 Ja'far hadn't taken anything from the inheritance of their father
 because they were Muslims while their father was unbeliever. (1)
@@ -738,5 +735,4 @@ like the fifth tradition. (7)
 5 Al-Bukhari's Sahih vol.2 p.201.
 6 Ibid
 7 Ibid
-
 

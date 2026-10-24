@@ -15,4 +15,3 @@ based on religion, piety is sometimes related to individual and at other
 times to society. In society too, it is sometimes moral and at other
 times non-moral. Each of these will be discussed separately.
 
-

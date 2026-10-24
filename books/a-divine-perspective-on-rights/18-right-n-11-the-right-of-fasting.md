@@ -1,25 +1,17 @@
 Right n. 11: The Right of Fasting
 =================================
 
-<blockquote dir="rtl">
-  <p>
-حق الصوم
-  </p>
-</blockquote>
+> حق الصوم
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ الصَّوْمِ فَأَنْ تَعْلَمَ أَنَّهُ حِجابٌ ضَرَبَهُ اللهُ
-عَلَى لِسَانِكَ وَسمْعِكَ وبَصَرِكَ وَفَرْجِكَ وبَطْنِكَ لِيَسْتر'َكَ
-بهِ مِن النَّارِ وَهَكَذَا جَاءَ فِي الْحَديثِ «الصَّوْمُ جُنَّةٌ مِنَ
-النّارِ» فإنْ سكَنَتْ أَطْرَافُكَ فِي حَجَبَتِهَا رَجَوْتَ أَنْ
-تَكُونَ مَحْجُوبًا. وَإنْ أَنْتَ تَرَكْتَهَا تَضْطَرِبُ فِي حِجَابهَا
-وتَرْفَعُ جَنَبَاتِ الْحِجَاب فَتُطّلِعُ إلَى مَا لَيْسَ لَهَا
-بالنَّظْرَةِ الدَّاعِيةِ لِلشَّهْوَةِ وَالقُوَّةِ الْخَارِجَةِ عَنْ
-حَدِّ التَّقِيَّةِ للهِ لَمْ تَأمَنْ أَنْ تَخرِقَ الْحِجَابَ وَتَخرُجَ
-مِنْهُ. وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ الصَّوْمِ فَأَنْ تَعْلَمَ أَنَّهُ حِجابٌ ضَرَبَهُ اللهُ
+> عَلَى لِسَانِكَ وَسمْعِكَ وبَصَرِكَ وَفَرْجِكَ وبَطْنِكَ لِيَسْتر'َكَ
+> بهِ مِن النَّارِ وَهَكَذَا جَاءَ فِي الْحَديثِ «الصَّوْمُ جُنَّةٌ مِنَ
+> النّارِ» فإنْ سكَنَتْ أَطْرَافُكَ فِي حَجَبَتِهَا رَجَوْتَ أَنْ
+> تَكُونَ مَحْجُوبًا. وَإنْ أَنْتَ تَرَكْتَهَا تَضْطَرِبُ فِي حِجَابهَا
+> وتَرْفَعُ جَنَبَاتِ الْحِجَاب فَتُطّلِعُ إلَى مَا لَيْسَ لَهَا
+> بالنَّظْرَةِ الدَّاعِيةِ لِلشَّهْوَةِ وَالقُوَّةِ الْخَارِجَةِ عَنْ
+> حَدِّ التَّقِيَّةِ للهِ لَمْ تَأمَنْ أَنْ تَخرِقَ الْحِجَابَ وَتَخرُجَ
+> مِنْهُ. وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of fasting is that you should know it is a veil, which
 God has set up over your tongue, your hearing and your sight, your
@@ -43,12 +35,8 @@ sins. The Imam considers fasting to provide a veil over our body parts
 that will prevent them from engaging in sin. The Qur’an expresses the
 same philosophy behind fasting in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
-كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
+> كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***“O’ ye who believe! Fasting is prescribed to you as it was prescribed
 to those before you, that ye may (learn) self-restraint.” [The Holy
@@ -59,13 +47,9 @@ fasting. Fasting implies self-restraint. It has also been used for
 abstaining from talking as we read in the following verse in which the
 Blessed Mary has been ordered not to talk in the form of a fast:
 
-<blockquote dir="rtl">
-  <p>
-فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ
-أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ
-الْيَوْمَ إِنسِيًّا
-  </p>
-</blockquote>
+> فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ
+> أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ
+> الْيَوْمَ إِنسِيًّا
 
 ***"So eat and drink and cool (thine) eye. And if thou dost see any man,
 say, 'I have vowed a fast to (God) Most Gracious, and this day will I
@@ -86,13 +70,9 @@ Fasting in the Old Testament
 
 We read the following in the Old Testament regarding fasting:
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ هُنَاكَ عِنْدَ الر َّبِّ أَرْبَعِينَ نَهَاراً وَأَرْبَعِينَ
-لَيْلَةً لَمْ يَأْكُلْ خُبْزاً وَلَمْ يَشْرَبْ مَاءً. فَكَتَبَ عَلَى
-اللَّوْحَيْنِ كَلِمَاتِ الْعَهْدِ الْكَلِمَاتِ الْعَشَرَ.
-  </p>
-</blockquote>
+> وَكَانَ هُنَاكَ عِنْدَ الر َّبِّ أَرْبَعِينَ نَهَاراً وَأَرْبَعِينَ
+> لَيْلَةً لَمْ يَأْكُلْ خُبْزاً وَلَمْ يَشْرَبْ مَاءً. فَكَتَبَ عَلَى
+> اللَّوْحَيْنِ كَلِمَاتِ الْعَهْدِ الْكَلِمَاتِ الْعَشَرَ.
 
 “And he was there with the Lord forty days and forty nights; he did
 neither eat bread, nor drink water. And he wrote upon the tablets the
@@ -104,13 +84,9 @@ Fasting in the New Testament
 
 We read the following in the New Testament regarding fasting:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أُصْعِدَ يَسُوعُ إِلَى الْبَرِّيَّةِ مِنَ الرُّوحِ لِيُجَرَّبَ
-مِنْ إِبْلِيسَ. فَبَعْدَ مَا صَامَ أَرْبَعِينَ نَهَاراً وَأَرْبَعِينَ
-لَيْلَةً جَاعَ أَخِيراً.
-  </p>
-</blockquote>
+> ثُمَّ أُصْعِدَ يَسُوعُ إِلَى الْبَرِّيَّةِ مِنَ الرُّوحِ لِيُجَرَّبَ
+> مِنْ إِبْلِيسَ. فَبَعْدَ مَا صَامَ أَرْبَعِينَ نَهَاراً وَأَرْبَعِينَ
+> لَيْلَةً جَاعَ أَخِيراً.
 
 “Then Jesus was led by the Spirit into the desert to be tempted by the
 devil. After fasting forty days and forty nights, he was hungry.” [The
@@ -122,16 +98,12 @@ Fasting of the Disciples
 We read the following in the New Testament regarding fasting by the
 disciples:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَهُ: «لِمَاذَا يَصُومُ تَلاَمِيذُ يُوحَنَّا كَثِيراً
-وَيُقَدِّمُونَ طِلْبَاتٍ وَكَذَلِكَ تَلاَمِيذُ الْفَرِّيسِيِّينَ
-أَيْضاً وَأَمَّا تَلاَمِيذُكَ فَيَأْكُلُونَ وَيَشْرَبُونَ؟» فَقَالَ
-لَهُمْ: «أَتَقْدِرُونَ أَنْ تَجْعَلُوا بَنِي الْعُرْسِ يَصُومُونَ مَا
-دَامَ الْعَرِيسُ مَعَهُمْ؟ وَلَكِنْ سَتَأْتِي أَيَّامٌ حِينَ يُرْفَعُ
-الْعَرِيسُ عَنْهُمْ فَحِينَئِذٍ يَصُومُونَ فِي تِلْكَ الأَيَّامِ
-  </p>
-</blockquote>
+> وَقَالُوا لَهُ: «لِمَاذَا يَصُومُ تَلاَمِيذُ يُوحَنَّا كَثِيراً
+> وَيُقَدِّمُونَ طِلْبَاتٍ وَكَذَلِكَ تَلاَمِيذُ الْفَرِّيسِيِّينَ
+> أَيْضاً وَأَمَّا تَلاَمِيذُكَ فَيَأْكُلُونَ وَيَشْرَبُونَ؟» فَقَالَ
+> لَهُمْ: «أَتَقْدِرُونَ أَنْ تَجْعَلُوا بَنِي الْعُرْسِ يَصُومُونَ مَا
+> دَامَ الْعَرِيسُ مَعَهُمْ؟ وَلَكِنْ سَتَأْتِي أَيَّامٌ حِينَ يُرْفَعُ
+> الْعَرِيسُ عَنْهُمْ فَحِينَئِذٍ يَصُومُونَ فِي تِلْكَ الأَيَّامِ
 
 “And they said unto him, Why do the disciples of John fast often, and
 make prayers, and likewise the disciples of the Pharisees; but thine eat
@@ -148,14 +120,10 @@ The Period of Fasting in the Qur’an
 
 Consider the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَيَّامًا مَّعْدُودَاتٍ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَى سَفَرٍ
-فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ وَعَلَى الَّذِينَ يُطِيقُونَهُ
-فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُ
-وَأَن تَصُومُواْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> أَيَّامًا مَّعْدُودَاتٍ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَى سَفَرٍ
+> فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ وَعَلَى الَّذِينَ يُطِيقُونَهُ
+> فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُ
+> وَأَن تَصُومُواْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
 ***“(Fasting) for a fixed number of days; but if any of you is ill, or
 on a journey, the prescribed number (should be made up) from days later.
@@ -178,23 +146,15 @@ obligatory for those who are not ill or on a journey. When ill or on a
 journey, one should not fast. However, one should compensate by feeding
 the poor. Abdul Rahman quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-الصّائِمُ في السَّفَرِ كَالمُفْطِرِ في الحَضَرِ.
-  </p>
-</blockquote>
+> الصّائِمُ في السَّفَرِ كَالمُفْطِرِ في الحَضَرِ.
 
 *“One who fasts while on a journey is like one who breaks his fast while
 he is at home.”*[^7]
 
 It has been narrated on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-الصّائِمُ في شَهْرِ رَمَضانَ في السَّفَرِ كَالمُفْطِرِ فِيهِ في
-الحَضَرِ.
-  </p>
-</blockquote>
+> الصّائِمُ في شَهْرِ رَمَضانَ في السَّفَرِ كَالمُفْطِرِ فِيهِ في
+> الحَضَرِ.
 
 *“One who fasts during the month of Ramadan while he is on a journey is
 like one who is at home and breaks his fast.”*[^8]
@@ -241,12 +201,8 @@ We can get a better understanding of the nobility of fasting and its
 importance by reviewing some of the relevant traditions. Zurarah quoted
 on the authority of Imam Baqir :
 
-<blockquote dir="rtl">
-  <p>
-بُنِيَ الإسْلامُ عَلى خَمْسَةِ أشْياءٍ: عَلى الصَّلاةِ وَالزَّكَاةِ
-وَالحَجِّ وَالصَّوْمِ والوِلايَةِ.
-  </p>
-</blockquote>
+> بُنِيَ الإسْلامُ عَلى خَمْسَةِ أشْياءٍ: عَلى الصَّلاةِ وَالزَّكَاةِ
+> وَالحَجِّ وَالصَّوْمِ والوِلايَةِ.
 
 *“There are five pillars for Islam: praying, paying the alms-tax, the
 holy pilgrimage, fasting and the friendship (of the Commander of the
@@ -259,16 +215,12 @@ belief in them. Isma’il ibn Abi Ziyad quoted on the authority of Imam
 Sadiq on the authority of his grandfathers that the Prophet told his
 companions:
 
-<blockquote dir="rtl">
-  <p>
-ألا أُخْبرُكُم بِشَيءٍ إنْ أنتُمْ فَعَلْتُمُوه تَباعَدَ الشَّيْطانُ
-عَنكُم كَما تَباعَدَ المَشْرِقُ مِن المَغْرِبِ؟ قالوا: بَلى. قالَ:
-الصَّوْمُ يُسَوِّدُ وَجْهَهُ وَالصَّدَقَةُ تَكْسِرُ ظَهْرَهُ وَالحُبُّ
-في اللهِ وَالمُؤازَرَةُ عَلى العَمَلِ الصَّالِحِ تَقْطَعُ دَابِرَهُ
-وَالاسْتِغْفارُ يَقْطَعُ وَتِينَهُ، وَلِكُلِّ شَيءٍ زَكاةٌ وَزَكاةُ
-الأبْدانِ الصِّيَامُ.
-  </p>
-</blockquote>
+> ألا أُخْبرُكُم بِشَيءٍ إنْ أنتُمْ فَعَلْتُمُوه تَباعَدَ الشَّيْطانُ
+> عَنكُم كَما تَباعَدَ المَشْرِقُ مِن المَغْرِبِ؟ قالوا: بَلى. قالَ:
+> الصَّوْمُ يُسَوِّدُ وَجْهَهُ وَالصَّدَقَةُ تَكْسِرُ ظَهْرَهُ وَالحُبُّ
+> في اللهِ وَالمُؤازَرَةُ عَلى العَمَلِ الصَّالِحِ تَقْطَعُ دَابِرَهُ
+> وَالاسْتِغْفارُ يَقْطَعُ وَتِينَهُ، وَلِكُلِّ شَيءٍ زَكاةٌ وَزَكاةُ
+> الأبْدانِ الصِّيَامُ.
 
 *“Do you want me to tell you what you can do that will cause Satan to go
 as far away from you as the East is from the West?” They said: “O
@@ -283,22 +235,14 @@ Imam Sadiq : Almighty God revealed to Moses : What has prevented you
 from supplicating to Me? He said: The bad smell of my mouth since I am
 fasting. God the Almighty revealed:
 
-<blockquote dir="rtl">
-  <p>
-يا مُوسَى! لخَلُوفُ فَمِ الصَّائِمِ أطْيَبُ عِنْدي مِن ريحِ المِسْكِ.
-  </p>
-</blockquote>
+> يا مُوسَى! لخَلُوفُ فَمِ الصَّائِمِ أطْيَبُ عِنْدي مِن ريحِ المِسْكِ.
 
 *O Moses! The odour of the mouth of one who is fasting is more agreeable
 to Me than the fragrance of musk.”*[^13]
 
 In another tradition, we read that the Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّوْمُ جُنَّةٌ مِن النّارِ.
-  </p>
-</blockquote>
+> الصَّوْمُ جُنَّةٌ مِن النّارِ.
 
 *“Fasting is a shield against the Fire.”*[^14]
 
@@ -307,15 +251,11 @@ Fasting and the Forgiveness of Sins
 
 Imam Baqir said: God’s Prophet told Jabir ibn Abdullah:
 
-<blockquote dir="rtl">
-  <p>
-يا جَابِرُ! هَذا شَهْرُ رَمَضَانَ؛ مَن صَامَ نَهارَهُ وَقَامَ وِرْداً
-مِن لَيْلِه وَعَفَّ بَطْنَهُ وَفَرْجَهُ وَكَفَّ لِسانَهُ خَرَجَ مِن
-ذُنُوبِه كَخُروجِهِ مِن الشَّهْرِ. فَقالَ جابِرُ: يا رَسُولَ الله! مَا
-أحْسَنَ هَذا الحَدِيثَ. فَقَالَ رَسُولُ اللهِ صَلّى اللهُ علَيه وآلِه:
-يا جَابِرُ! ومَا أَشَدَّ هَذِه الشُّرُوطَ.
-  </p>
-</blockquote>
+> يا جَابِرُ! هَذا شَهْرُ رَمَضَانَ؛ مَن صَامَ نَهارَهُ وَقَامَ وِرْداً
+> مِن لَيْلِه وَعَفَّ بَطْنَهُ وَفَرْجَهُ وَكَفَّ لِسانَهُ خَرَجَ مِن
+> ذُنُوبِه كَخُروجِهِ مِن الشَّهْرِ. فَقالَ جابِرُ: يا رَسُولَ الله! مَا
+> أحْسَنَ هَذا الحَدِيثَ. فَقَالَ رَسُولُ اللهِ صَلّى اللهُ علَيه وآلِه:
+> يا جَابِرُ! ومَا أَشَدَّ هَذِه الشُّرُوطَ.
 
 *O Jabir! This is the month of Ramadan. Whoever fasts during its days,
 stands in prayer in its nights, keeps his stomach and his private parts
@@ -333,16 +273,12 @@ Fasting and the Equality between the Rich and the Poor
 
 It is quoted upon the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-إنَّما فَرَضَ اللهُ الصِّيامَ لِيَسْتَوِيَ بهِ الغَنِيُّ وَالفَقِيرُ،
-وذَلِكَ أنَّ الغَنيَّ لم يَكُن لِيَجِدَ مَسَّ الجُوعِ فَيَرحَمُ
-الفَقِيرَ لأنَّ الغَنيَّ كُلَّما أرادَ شَيئاً قَدَرَ عَلَيهِ، فأرَادَ
-اللهُ عَزَّ وَجَلَّ أنْ يُسَوِّيَ بَينَ خَلْقِهِ وَأنْ يُذِيقَ
-الغَنيَّ نَيْلَ الجُوعِ والألَمِ لِيَرِقَّ عَلى الضَّعيفِ وَيَرْحَمَ
-الجائِعَ.
-  </p>
-</blockquote>
+> إنَّما فَرَضَ اللهُ الصِّيامَ لِيَسْتَوِيَ بهِ الغَنِيُّ وَالفَقِيرُ،
+> وذَلِكَ أنَّ الغَنيَّ لم يَكُن لِيَجِدَ مَسَّ الجُوعِ فَيَرحَمُ
+> الفَقِيرَ لأنَّ الغَنيَّ كُلَّما أرادَ شَيئاً قَدَرَ عَلَيهِ، فأرَادَ
+> اللهُ عَزَّ وَجَلَّ أنْ يُسَوِّيَ بَينَ خَلْقِهِ وَأنْ يُذِيقَ
+> الغَنيَّ نَيْلَ الجُوعِ والألَمِ لِيَرِقَّ عَلى الضَّعيفِ وَيَرْحَمَ
+> الجائِعَ.
 
 *“God made fasting obligatory so that the rich and the poor are made
 equal. If there were no fasting, the rich would never experience the
@@ -369,11 +305,7 @@ Fasting as Viewed by Imam Ali
 There are several views about fasting expressed by Imam Ali that are
 recorded in *Nahjul Balaghah*. For example, he said:
 
-<blockquote dir="rtl">
-  <p>
-وَزَكاةُ البَدَنِ الصّيامُ.
-  </p>
-</blockquote>
+> وَزَكاةُ البَدَنِ الصّيامُ.
 
 *“The alms tax of the body is fasting.”*[^18]
 
@@ -381,24 +313,16 @@ We know that taxing implies growth, development and purification. Here
 the Imam has referred to the health-related aspect of fasting. In
 another place he said:
 
-<blockquote dir="rtl">
-  <p>
-وَصَومُ شَهْرِ رَمَضانَ فإنَّهُ جُنَّةٌ مِن العِقابِ.
-  </p>
-</blockquote>
+> وَصَومُ شَهْرِ رَمَضانَ فإنَّهُ جُنَّةٌ مِن العِقابِ.
 
 *“Fasting in the month of Ramadan is a shield against the
 chastisement.”*[^19]
 
 In another place he said:
 
-<blockquote dir="rtl">
-  <p>
-خُمصُ البُطونِ مِن الصِّيامِ ذُبْلُ الشِّفاهِ مِن الدُّعاءِ صُفْرُ
-الألْوانِ مِن السَّهَرِ عَلى وُجوهِهِم غَبَرَةُ الخاشِعين، أولئِكَ
-إخْوانيَ الذّاهِبونَ.
-  </p>
-</blockquote>
+> خُمصُ البُطونِ مِن الصِّيامِ ذُبْلُ الشِّفاهِ مِن الدُّعاءِ صُفْرُ
+> الألْوانِ مِن السَّهَرِ عَلى وُجوهِهِم غَبَرَةُ الخاشِعين، أولئِكَ
+> إخْوانيَ الذّاهِبونَ.
 
 *“They were those whose stomachs were slim due to fasting, their lips
 were dry from (continuous) supplications, their faces were pale from
@@ -407,23 +331,15 @@ humbleness. They were my brothers who are gone now.”*[^20]
 
 In another of Imam Ali’s wise sayings we read:
 
-<blockquote dir="rtl">
-  <p>
-الصِّيامُ ابْتِلاءٌ لإخْلاصِ الخَلقِ.
-  </p>
-</blockquote>
+> الصِّيامُ ابْتِلاءٌ لإخْلاصِ الخَلقِ.
 
 *“Fasting is a trial of people’s sincerity.”*[^21]
 
 In another of Imam Ali’s wise sayings we read that on the day of
 celebration, he said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّما هوَ عِيدٌ لمَنْ قَبِلَ اللهُ صِيامَهُ وَشَكَرَ قِيامَهُ، وكُلُّ
-يَومٍ لا يُعصَى اللهُ فيهِ فَهوَ عِيدٌ.
-  </p>
-</blockquote>
+> إنَّما هوَ عِيدٌ لمَنْ قَبِلَ اللهُ صِيامَهُ وَشَكَرَ قِيامَهُ، وكُلُّ
+> يَومٍ لا يُعصَى اللهُ فيهِ فَهوَ عِيدٌ.
 
 *“It is only a day of celebration (Eid) for those whose fasting God
 accepts and whose standing up in prayer (at night) He rewards. Every day
@@ -431,11 +347,7 @@ in which one does not disobey God is a day of celebration.”*[^22]
 
 In some of his advice he said:
 
-<blockquote dir="rtl">
-  <p>
-أوصيكم وجميع ولدي... وصلاح ذات البين
-  </p>
-</blockquote>
+> أوصيكم وجميع ولدي... وصلاح ذات البين
 
 *“I advise you and my children…. to improve your social affairs, since
 its reward is more than that of praying and fasting.”*[^23]
@@ -445,13 +357,9 @@ Fasting Without Any Gains
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-كَم مِن صَائِمٍ ليسَ لهُ مِن صِيامِهِ إلاّ الجُوعُ وَالظَّمَأ، وَكَم
-مِن قائِمٍ لَيسَ له إلاّ السَّهَرُ وَالعَناءُ. حَبَّذا نَومُ الأكْياسِ
-وإفْطارُهُم.
-  </p>
-</blockquote>
+> كَم مِن صَائِمٍ ليسَ لهُ مِن صِيامِهِ إلاّ الجُوعُ وَالظَّمَأ، وَكَم
+> مِن قائِمٍ لَيسَ له إلاّ السَّهَرُ وَالعَناءُ. حَبَّذا نَومُ الأكْياسِ
+> وإفْطارُهُم.
 
 *“There are many who fast and gain nothing from their fasting other than
 suffering from thirst and hunger. Many stay up at night in prayer and
@@ -462,17 +370,13 @@ In the well-known sermon called Qasi’ah, Imam Ali discussed the bad
 ending of being entrapped by Satan’s plots, and pointed out factors that
 can save man.
 
-<blockquote dir="rtl">
-  <p>
-و عن ذلكَ ما حَرَسَ اللهُ عِبادَهُ المؤمِنين بِالصَّلاةِ و الزَّكَواتِ
-و مُجاهَدَةِ الصِّيامِ في الأيَّامِ المَفْروضَاتِ تَسْكيناً
-لأطْرافِهِم وَتَخْشِيعاً لأبْصارِهِم وَتَذليلاً لِنُفوسِهِم
-وَتَخْفِيضاً لِقُلوبِهِم وإذْهاباً لِلخُيَلاءِ عَنهُم وَلِما في ذلِكَ
-مِن تَعفِير عِتاقِ الوُجوهِ تَواضُعاً وَالتِصاقِ كَرائِمِ الجَوارِحِ
-بالأرْضِ تَصاغُراً وَلحُوقِ البُطونِ بِالمُتونِ مِن الصِّيامِ
-تَذَلُّلاً.
-  </p>
-</blockquote>
+> و عن ذلكَ ما حَرَسَ اللهُ عِبادَهُ المؤمِنين بِالصَّلاةِ و الزَّكَواتِ
+> و مُجاهَدَةِ الصِّيامِ في الأيَّامِ المَفْروضَاتِ تَسْكيناً
+> لأطْرافِهِم وَتَخْشِيعاً لأبْصارِهِم وَتَذليلاً لِنُفوسِهِم
+> وَتَخْفِيضاً لِقُلوبِهِم وإذْهاباً لِلخُيَلاءِ عَنهُم وَلِما في ذلِكَ
+> مِن تَعفِير عِتاقِ الوُجوهِ تَواضُعاً وَالتِصاقِ كَرائِمِ الجَوارِحِ
+> بالأرْضِ تَصاغُراً وَلحُوقِ البُطونِ بِالمُتونِ مِن الصِّيامِ
+> تَذَلُّلاً.
 
 *“God protects his believing servants from that* *(Satan’s plots)
 through* *praying, paying the alms-tax, striving to fast during the days
@@ -500,11 +404,7 @@ Muhammad Hasan who is the author of Jawahir ul-Kalam, has said about the
 positive effects of fasting in the chapter on fasting. He said: “It has
 been narrated that God the Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّومُ لي وأنَا أُجازِي بِه.
-  </p>
-</blockquote>
+> الصَّومُ لي وأنَا أُجازِي بِه.
 
 *Fasting is for Me, and I will reward it (even though I Myself am the
 reward for fasting).*
@@ -532,12 +432,8 @@ with patience.
 enemy. This is because lust is the tool of Satan. Eating and drinking
 strengthen lust. That is why God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الشَّيطانَ لَيَجرِي مِن ابْنِ آدَمَ مَجرَى الدَّمِ فَضَيِّقُوا
-مَجارِيهِ بِالجُوعِ.
-  </p>
-</blockquote>
+> إنَّ الشَّيطانَ لَيَجرِي مِن ابْنِ آدَمَ مَجرَى الدَّمِ فَضَيِّقُوا
+> مَجارِيهِ بِالجُوعِ.
 
 *“Satan flows through man’s body just like blood. Block off the roaming
 grounds of Satan via hunger.”*[^28]
@@ -546,23 +442,15 @@ Hunger derived through fasting breaks down Satan and acts as a
 stronghold against him. Whoever defeats Satan has assisted God. This
 assistance is related to granting success by God since God has said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
-وَيُثَبِّتْ أَقْدَامَكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ
+> وَيُثَبِّتْ أَقْدَامَكُمْ
 
 ***“O ye who believe! If ye will aid (the cause of) God, He will aid
 you, and plant your feet firmly.” [The Holy Qur’an, Muhammad 47:7]***  
  God also said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
-اللَّهَ لَمَعَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
+> اللَّهَ لَمَعَ الْمُحْسِنِينَ
 
 ***“And those who strive in Our (cause), We will certainly guide them to
 our Paths: For verily God is with those who do right.” [The Holy Qur’an,
@@ -570,12 +458,8 @@ al-Ankabut 29:69]***
 
 In another verse God said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا
-بِأَنْفُسِهِمْ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا
+> بِأَنْفُسِهِمْ
 
 ***Verily never will God change the condition of a people until they
 change it themselves (with their own souls).” [The Holy Qur’an, al-Ra’d
@@ -586,12 +470,8 @@ lusts are the means by which Satan influences man. We cannot discover
 the Grandeur of God as long as Satan influences us through our lusts.
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لَو لا أنَّ الشَّياطِينَ يَحومونَ عَلى قُلوبِ بَني آدَمَ لَنَظَروا إلى
-مَلَكُوتِ السَّماءِ.
-  </p>
-</blockquote>
+> لَو لا أنَّ الشَّياطِينَ يَحومونَ عَلى قُلوبِ بَني آدَمَ لَنَظَروا إلى
+> مَلَكُوتِ السَّماءِ.
 
 *“If Satans were not hovering around the hearts of the descendants of
 Adam, men could look at the kingdom of the heavens.”*[^29]
@@ -603,34 +483,22 @@ One of the philosophies behind fasting is health. Before considering the
 positive effects of fasting on our health, let us see through what ways
 illnesses affect our health. God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-المَعِدَةُ بَيتُ كُلِّ داءٍ وَالحِمْيَةُ رَأسَ كُلِّ دَواءٍ
-  </p>
-</blockquote>
+> المَعِدَةُ بَيتُ كُلِّ داءٍ وَالحِمْيَةُ رَأسَ كُلِّ دَواءٍ
 
 *“The stomach is the home of every illness, and abstinence (from food)
 is the chief of all medicine.”*[^30]
 
 Imam Kazim said:
 
-<blockquote dir="rtl">
-  <p>
-الحِمْيَةُ رَأسُ كُلِّ دَواءٍ والمَعِدَةُ بَيتُ الأدْواء.
-  </p>
-</blockquote>
+> الحِمْيَةُ رَأسُ كُلِّ دَواءٍ والمَعِدَةُ بَيتُ الأدْواء.
 
 ***“**Abstinence is the chief of every remedy and the stomach is the
 home of illnesses.”*[^31]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ مِن دَواءٍ إلاّ وَيُهَيِّجُ داءً وَليَس َفي البَدَنِ أنْفَعُ مِن
-إمْساكِ اليَد الا عَمّا يَحتاجُ إلَيهِ.
-  </p>
-</blockquote>
+> لَيسَ مِن دَواءٍ إلاّ وَيُهَيِّجُ داءً وَليَس َفي البَدَنِ أنْفَعُ مِن
+> إمْساكِ اليَد الا عَمّا يَحتاجُ إلَيهِ.
 
 *“There is no medicine that does not stir up an illness, and nothing is
 more beneficial for the body than withholding from it all except what it
@@ -638,11 +506,7 @@ requires.”*[^32]
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-صُوموا تَصِحُّوا.
-  </p>
-</blockquote>
+> صُوموا تَصِحُّوا.
 
 *“Fast, and you will be healthy"**.”***[^33]
 
@@ -654,14 +518,10 @@ Hasan as follows: “O’ my son! Do you want me to teach you a practice
 that will make you needless of doctors?” Imam Hasan said: “Yes.” The
 Commander of the Faithful said that the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَجلِسْ عَلى الطَّعامِ إلاّ وأنْتَ جائِعٌ، وَلا تَقُمْ عَن الطّعامِ
-إلاّ وَأنْتَ تَشْتَهِيهِ، وَجَوّدِ المَضْغَ، وإذا نِمْتَ فَأعْرِضْ
-نَفسَكَ عَلى الخَلاءِ، فإذا اسْتَعْمَلْتَ هذا اسْتَغْنَيْتَ عَن
-الطِّبِّ.
-  </p>
-</blockquote>
+> لا تَجلِسْ عَلى الطَّعامِ إلاّ وأنْتَ جائِعٌ، وَلا تَقُمْ عَن الطّعامِ
+> إلاّ وَأنْتَ تَشْتَهِيهِ، وَجَوّدِ المَضْغَ، وإذا نِمْتَ فَأعْرِضْ
+> نَفسَكَ عَلى الخَلاءِ، فإذا اسْتَعْمَلْتَ هذا اسْتَغْنَيْتَ عَن
+> الطِّبِّ.
 
 *“Do not sit down to eat unless you are hungry. Cease eating while you
 still have some appetite to eat. Chew your food thoroughly. Go to the
@@ -831,35 +691,23 @@ restraining our sexual desires. The second rank for fasting implies the
 additional restraining of our ears, eyes, hands, feet and other organs.
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا صُمْتَ فَلْيَصُمْ سَمعُكَ وَبَصَرُكَ وَشَعرُكَ وجِلدُكَ و…
-  </p>
-</blockquote>
+> إذَا صُمْتَ فَلْيَصُمْ سَمعُكَ وَبَصَرُكَ وَشَعرُكَ وجِلدُكَ و…
 
 *“When you fast your hearing, your sight, your hair, your skin and other
 organs should also fast.”*
 
-<blockquote dir="rtl">
-  <p>
-لا يَكُنْ يَومُ صَومِكَ كَيَومِ فِطْرِكَ.
-  </p>
-</blockquote>
+> لا يَكُنْ يَومُ صَومِكَ كَيَومِ فِطْرِكَ.
 
 *“The day of your fasting should not be like the day that you do not
 fast.”*
 
 In another tradition he said:
 
-<blockquote dir="rtl">
-  <p>
-وَدَعِ المِراءَ وَأذْيَ الخَادِمِ وَلْيَكُن عَلَيْكَ وَقارُ الصّيامِ
-فإنَّ رَسولَ اللهِ صَلّى اللهُ عَليهِ وآلِهِ سَمِعَ امْرَأةً تَسُبُّ
-جارِيَتَها وَهِي صَائِمَةٌ فَدَعى بِطَعامٍ فَقالَ لهَا: كُلِي.
-فقَالَتْ: إنّي صَائِمَةٌ. قَالَ: كَيفَ تَكُونِينَ صَائِمةً وَقَدْ
-سَبَبْتِ جَارِيَتَكِ؟ إنَّ الصَّومَ لَيسَ مِن الطَّعامِ وَالشَّرابِ.
-  </p>
-</blockquote>
+> وَدَعِ المِراءَ وَأذْيَ الخَادِمِ وَلْيَكُن عَلَيْكَ وَقارُ الصّيامِ
+> فإنَّ رَسولَ اللهِ صَلّى اللهُ عَليهِ وآلِهِ سَمِعَ امْرَأةً تَسُبُّ
+> جارِيَتَها وَهِي صَائِمَةٌ فَدَعى بِطَعامٍ فَقالَ لهَا: كُلِي.
+> فقَالَتْ: إنّي صَائِمَةٌ. قَالَ: كَيفَ تَكُونِينَ صَائِمةً وَقَدْ
+> سَبَبْتِ جَارِيَتَكِ؟ إنَّ الصَّومَ لَيسَ مِن الطَّعامِ وَالشَّرابِ.
 
 *Abandon quarrelling and troubling your servant. Let the dignity of
 those who fast be on you. Once the Prophet heard a woman who was fasting
@@ -877,23 +725,15 @@ that God will give you the promised daily bread. This rank is
 specifically for the Prophets and the honest ones who are close to God.
 God told the Prophet :
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللّهُ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ
-  </p>
-</blockquote>
+> قُلِ اللّهُ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ
 
 ***..Say: "God (sent it down)": Then leave them to plunge in vain
 discourse and trifling. [The Holy Qur’an, al-An’am 6:91]***
 
 Imam Sadiq narrated that God’s Prophet had said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّوْم جُنَّةٌ: أيْ سِترٌ مِن آفاتِ الدُّنيا وَحِجابٌ مِن عَذابِ
-الآخِرَةِ.
-  </p>
-</blockquote>
+> الصَّوْم جُنَّةٌ: أيْ سِترٌ مِن آفاتِ الدُّنيا وَحِجابٌ مِن عَذابِ
+> الآخِرَةِ.
 
 *“Fasting is a shield: that is, it is a covering against the calamities
 of this world and a protective barrier against the punishment of the
@@ -1042,5 +882,4 @@ by Imami, p.12.
 [^44]: Al-Mahajjah al-Bayda, v.2, p.131.
 
 [^45]: Ibid.
-
 

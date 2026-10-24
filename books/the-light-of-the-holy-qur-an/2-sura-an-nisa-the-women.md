@@ -5,13 +5,9 @@ No. 4 (177 verses)
 
 Volume 3 & 4
 
-  
-
 [](../jadval.htm)
 
 Transliteration of Arabic Letters
-
-  
 
 [Introduction to the Sura](4_000.htm)
 
@@ -346,8 +342,6 @@ Section 21: fate of the Hypocrites
 [Commentary : verse 146](../../light_04/004/4_146.htm)
 
 [Commentary : verse 147](../../light_04/004/4_147.htm)
-
-  
 
 Part 6
 

@@ -539,4 +539,3 @@ became commander-in-chief, and led the war against Germany in 1943.
 
 [^2]: Al-Madda ad-Dialaktikyya, p. 20.
 
-

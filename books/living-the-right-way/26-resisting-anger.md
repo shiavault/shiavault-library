@@ -79,4 +79,3 @@ He (a.s.) also said: *“Any one who suppresses an anger which could be
 brought into operation, Allah will fill his heart with security and
 faith till the Day of Judgement.”*
 
-

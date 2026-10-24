@@ -10,12 +10,8 @@ consider the gatherings on their birth and death anniversaries to be
 Muhammad Hamid al-Faqi, the leader of group ‘Ansar al-Sunnat
 al-Muhammadiyya’ in his footnotes to his book *al-Fath al-Majid* writes:
 
-<blockquote dir="rtl">
-  <p>
-الذكريات التي ملاءت البلاد بإسم الأولياء هى نوعٌ من العبادة لهم
-وتعظيمهم
-  </p>
-</blockquote>
+> الذكريات التي ملاءت البلاد بإسم الأولياء هى نوعٌ من العبادة لهم
+> وتعظيمهم
 
 “Remembering and celebrating on the days of birth and death of awliya
 amounts to one kind of worshipping them and respecting before them.”[^1]
@@ -38,12 +34,8 @@ eloquent and rhetorical words.
 
 About Zakaria, Yahya and others the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا
-وَرَهَبًا ۖ وَكَانُوا لَنَا خَاشِعِينَ
-  </p>
-</blockquote>
+> إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا
+> وَرَهَبًا ۖ وَكَانُوا لَنَا خَاشِعِينَ
 
 ***“Surely they used to hasten, one with another, in deeds of goodness
 and to call upon Us, hoping and fearing, and they were humble before
@@ -56,12 +48,8 @@ obeying the Holy Qur’an?
 
 About the household of the Prophet, Allah (swt) says:
 
-<blockquote dir="rtl">
-  <p>
-وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا
-وَأَسِيرًا
-  </p>
-</blockquote>
+> وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا
+> وَأَسِيرًا
 
 ***"And they give food out of love for Him to the poor and the orphan
 and the captive.*** ***(Dahr 76:8)”***
@@ -111,12 +99,8 @@ First Proof
 The Holy Qur’an praises that group of people who honour the Holy Prophet
 (s):
 
-<blockquote dir="rtl">
-  <p>
-فالذين امنوا به وعزَّروه ونصروه واتبعوا النُور الذي أنزل معه أولئك هُم
-المُفلحون.
-  </p>
-</blockquote>
+> فالذين امنوا به وعزَّروه ونصروه واتبعوا النُور الذي أنزل معه أولئك هُم
+> المُفلحون.
 
 ***“So (as for) those who believe in him and honour him and help him,
 and follow the light which has been sent down with him, these it is that
@@ -124,29 +108,13 @@ are the successful.*** ***(A'raf 7:157)”***
 
 The words which have appeared in this verse comprises of:
 
-<blockquote dir="rtl">
-  <p>
-أمنوا به
-  </p>
-</blockquote>
+> أمنوا به
 
-<blockquote dir="rtl">
-  <p>
-غزروه
-  </p>
-</blockquote>
+> غزروه
 
-<blockquote dir="rtl">
-  <p>
-نصروه
-  </p>
-</blockquote>
+> نصروه
 
-<blockquote dir="rtl">
-  <p>
-واتبعوا النُور
-  </p>
-</blockquote>
+> واتبعوا النُور
 
 Is it possible for one to think that the words **أمنوا به ,** **نصروه**
 and **واتبعوا النور**are confined to the period of the Holy Prophet?
@@ -259,13 +227,9 @@ Fourth Proof
 We see Isa (‘a) asks for table (with food) from the Almighty Allah and
 introduces the day of its dissension as the day of celebration and says:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا أَنْزِلْ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ تَكُونُ لَنَا
-عِيدًا لِأَوَّلِنَا وَآخِرِنَا وَآيَةً مِنْكَ ۖ وَارْزُقْنَا وَأَنْتَ
-خَيْرُ الرَّازِقِينَ
-  </p>
-</blockquote>
+> رَبَّنَا أَنْزِلْ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ تَكُونُ لَنَا
+> عِيدًا لِأَوَّلِنَا وَآخِرِنَا وَآيَةً مِنْكَ ۖ وَارْزُقْنَا وَأَنْتَ
+> خَيْرُ الرَّازِقِينَ
 
 ***“O Allah, our lord! send down to us food from heaven which should be
 to us an ever-recurring happiness, to the first of us and the last of
@@ -289,11 +253,7 @@ Fifth Proof
 
 The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-ورفعنا لَك ذِكرَك
-  </p>
-</blockquote>
+> ورفعنا لَك ذِكرَك
 
 ***“And exalted for you your esteem? (Inshiraah 94:4)”***
 
@@ -322,5 +282,4 @@ accepting this title.
 about holding of mourning ceremonies and in this connection, Allama
 al-'Amini has collected in one chapter of his book titled: سيرتنا
 وسنتناall the traditions from Sunni books
-
 

@@ -247,4 +247,3 @@ found place of honour on the walls of the Ka'aba and in history Beside
 poetry there was another cultural source in the Arabia of that time,
 namely Jewish culture which will be discussed in detail later on.
 
-

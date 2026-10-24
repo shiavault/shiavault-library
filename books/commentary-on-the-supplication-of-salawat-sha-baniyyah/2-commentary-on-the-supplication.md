@@ -4,11 +4,7 @@ Commentary on the Supplication
 Basmala
 -------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللّهِ الرَّحْمـَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللّهِ الرَّحْمـَنِ الرَّحِيمِ
 
 **In the name of Allah the Merciful, the Compassionate**
 
@@ -112,11 +108,7 @@ verse with a loud voice during prayers and it is considered to be one of
 the five signs of a true believer. There is also a sacred Hadith (Qudsi)
 in which Allah (SWT) says:
 
-<blockquote dir="rtl">
-  <p>
-كل أمر ذي بال لم يذكر فيه بسم الله الرحمن الرحيم فهو أبتر.
-  </p>
-</blockquote>
+> كل أمر ذي بال لم يذكر فيه بسم الله الرحمن الرحيم فهو أبتر.
 
 (*Every considered matter which “Bismillah Al Rahman Al Raheem” is not
 recited is put at halt.*). Along the same lines, Allah (SWT) said to
@@ -236,11 +228,7 @@ love for, obedience to, and submission to Allah (SWT).
 Salawat
 -------
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ و َآلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ و َآلِ مُحَمَّدٍ
 
 **Oh Allah! Bestow Your blessings on Muhammad and his progeny**
 
@@ -268,11 +256,7 @@ can logically conclude that the Salat of Allah (SWT) upon the common
 believers is not equal to His Salat to the special chosen ones among
 them who enjoy a high rank in His eyes as He says in Surah Al Baqarah:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ
-  </p>
-</blockquote>
+> تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ
 
 ***These are the messengers We favoured one above the other. [2:253]***
 
@@ -315,12 +299,8 @@ the Holy Qur’an that He (SWT) and His angels are sending benediction on
 the Prophet (SA) and furthermore ordering all of the believers to share
 in that noble act:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا
-أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا .
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا
+> أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا .
 
 ***Allah and His angels shower blessings on the Prophet. Oh you who
 believe! Ask blessings on him and salute him with a worthy salutation.
@@ -391,11 +371,7 @@ comes closer in proximity to his Lord.
 The Tree of Prophethood
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-شَجَرَةِ النُّبُوَّةِ
-  </p>
-</blockquote>
+> شَجَرَةِ النُّبُوَّةِ
 
 A tree generally bears fruit but a fruit never appears on the trunk,
 rather it appears on the branches of a tree. If two branches of the same
@@ -440,14 +416,10 @@ When we analyze some verses of the Qur’an, we also notice that Allah
 (SWT) referred to “the tree” as a parable and an example for Muhammad
 (SA) and his progeny. For example, in Surah An-Noor, He (SWT) says:
 
-<blockquote dir="rtl">
-  <p>
-"اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَاةٍ
-فِيهَا مِصْبَاحٌ ۖ الْمِصْبَاحُ فِي زُجَاجَةٍ ۖ الزُّجَاجَةُ
-كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ
-زَيْتُونَةٍ لاَ شَرْقِيَّةٍ وَلاَ غَرْبِيَّةٍ..."
-  </p>
-</blockquote>
+> "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَاةٍ
+> فِيهَا مِصْبَاحٌ ۖ الْمِصْبَاحُ فِي زُجَاجَةٍ ۖ الزُّجَاجَةُ
+> كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ
+> زَيْتُونَةٍ لاَ شَرْقِيَّةٍ وَلاَ غَرْبِيَّةٍ..."
 
 ***Allah is the Light of the heavens and the earth. The Parable of His
 Light is as if there were a Niche and within it a Lamp: the Lamp
@@ -475,13 +447,9 @@ lot of knowledge without having to go through the worldly process of
 learning. And whoever eats from that tree without permission will fail
 and commit disobedience. Hence, Allah (SWT) warns Adam (AS):
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلاَ
-مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَٰذِهِ الشَّجَرَةَ
-فَتَكُونَا مِنَ الظَّالِمِينَ.
-  </p>
-</blockquote>
+> وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلاَ
+> مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَٰذِهِ الشَّجَرَةَ
+> فَتَكُونَا مِنَ الظَّالِمِينَ.
 
 ***And We said: O Adam! Dwell you and your wife in the garden and eat
 from it a plenteous (food) wherever you wish and do not approach this
@@ -559,11 +527,7 @@ believer departs from this world, a leaf falls off.
 And the Afrode of Your Messages
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَ مَوْضِعِ الرِّسالَةِ
-  </p>
-</blockquote>
+> وَ مَوْضِعِ الرِّسالَةِ
 
 After identifying the Prophet (SA) and his progeny to be the tree of
 prophethood, they are further described to be the afrode of the messages
@@ -583,12 +547,8 @@ of the unified message which Allah (SWT) intended for mankind to
 embrace. Regarding their lofty position and **موضِع** , Imam As-Sadiq
 (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-"إن أمرنا هو الحق وحق الحق وهو الظاهر وباطن الظاهر وباطن الباطن وهو
-السر وسرّ السرّ وسرّ المستسرّ وسرّ مُقنَّع بالسرّ."
-  </p>
-</blockquote>
+> "إن أمرنا هو الحق وحق الحق وهو الظاهر وباطن الظاهر وباطن الباطن وهو
+> السر وسرّ السرّ وسرّ المستسرّ وسرّ مُقنَّع بالسرّ."
 
 *Our matter (Wilayah) is certainly the truth, the truth of the truth,
 and it is the manifest and the hidden, and the hidden of the manifest,
@@ -623,11 +583,7 @@ the great status of Ahlul Bayt (AS) such that minds cannot comprehend or
 fathom their lofty position which is the *essence* of the message. It is
 therefore not surprising that Allah testifies that:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
-  </p>
-</blockquote>
+> اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
 
 ***Allah knows best knows where He places His message.*** **[6:124]**
 
@@ -636,12 +592,8 @@ therefore not surprising that Allah testifies that:
 Household of Divine Inspiration & Knowledge
 -------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَ مُخْتَلَفِ الْمَلاَّئِكَةِ وَ مَعْدِنِ الْعِلْمِ وَ اَهْلِ بَيتِ
-الْوَحْىِ.
-  </p>
-</blockquote>
+> وَ مُخْتَلَفِ الْمَلاَّئِكَةِ وَ مَعْدِنِ الْعِلْمِ وَ اَهْلِ بَيتِ
+> الْوَحْىِ.
 
 **And, the place of visits of the angels, the mine of Your Knowledge,
 and the people of the Holy House of Revelation.**
@@ -695,8 +647,6 @@ trusted Jibrael (AS) asked Allah (SWT) who were under the cloak, He
 **
 
 "هُم أهل بيت النبوة ومعدن
-
-  
 
 **  
 **
@@ -760,12 +710,8 @@ status of Ahlul Bayt (AS)!!!
 Sailing Ship in the Deep Sea
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ و َآلِ مُحَمَّدٍ الْفُلْكِ الْجارِيَةِ
-فِى اللُّجَجِ الْغامِرَةِ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ و َآلِ مُحَمَّدٍ الْفُلْكِ الْجارِيَةِ
+> فِى اللُّجَجِ الْغامِرَةِ
 
 **Oh Allah! Bestow Your Blessings on Muhammad and his progeny who are a
 boat sailing in the deep waters of fathomless sea.**
@@ -783,11 +729,7 @@ our physical senses, and that is, water. Water generally symbolizes
 purity and the bounty of water is indeed greater than we imagine such
 that Allah (SWT) states in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ
 
 ***And We have made of water everything living. [21:30]***
 
@@ -796,12 +738,8 @@ composed of water and is the cause of his creation. Today, the
 scientists have discovered that plants and animals live on water as its
 main resource which descends in the form of rain:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ
-بَعْدَ مَوْتِهَا
-  </p>
-</blockquote>
+> وَاللَّهُ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ
+> بَعْدَ مَوْتِهَا
 
 ***And Allah has sent down water from the cloud and therewith given life
 to the earth after its death. [16:65]***  
@@ -822,13 +760,9 @@ wiped them off this earth!
 
 As mentioned in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَنَجَّيْنَاهُ وَمَنْ مَعَهُ فِي الْفُلْكِ
-وَجَعَلْنَاهُمْ خَلَائِفَ وَأَغْرَقْنَا الَّذِينَ كَذَّبُوا
-بِآيَاتِنَا
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَنَجَّيْنَاهُ وَمَنْ مَعَهُ فِي الْفُلْكِ
+> وَجَعَلْنَاهُمْ خَلَائِفَ وَأَغْرَقْنَا الَّذِينَ كَذَّبُوا
+> بِآيَاتِنَا
 
 ***But they rejected him, so We delivered him and those with him in the
 ark, and We made them rulers and drowned those who rejected Our Signs.
@@ -842,12 +776,8 @@ populations due to their disbelief in them?
 
 These signs of God are further emphasized in another verse,
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ
-عَنْهَا ۚ إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُون.َ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ
+> عَنْهَا ۚ إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُون.َ
 
 ***And who is more unjust than he who is reminded of the Signs of his
 Lord, then he turns away from them? Surely We will give punishment to
@@ -877,11 +807,7 @@ is the best of creation and the Seal of Messengers?
 Joining the Arc of Salvation
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يأمَنُ مَنْ رَكِبَها وَ يََغْرَقُ مَنْ تَرَكَهَا
-  </p>
-</blockquote>
+> يأمَنُ مَنْ رَكِبَها وَ يََغْرَقُ مَنْ تَرَكَهَا
 
 **Safe is he who boarded it and drowned is he who abandoned it.**
 
@@ -897,11 +823,7 @@ retribution.
  In fact, in the famous Hadith As-Safinah narrated by Anas ibn Malik,
 the Holy Prophet (SA) said:
 
-<blockquote dir="rtl">
-  <p>
-"مثل أهل بيتى كمثل سفينة نوح من ركبها نجا ومن تخلف عنها غرق."
-  </p>
-</blockquote>
+> "مثل أهل بيتى كمثل سفينة نوح من ركبها نجا ومن تخلف عنها غرق."
 
 Surely the likeness of my Ahlul Bayt is similar to Noah's Ark, whoever
 boards it will attain salvation and whoever remains behind is drowned.
@@ -958,12 +880,8 @@ its anchoring; most surely my Lord is Forgiving, Merciful.***
 Proper Adherence to Ahlul Bayt
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْمُتَقَدِّمُ لَهُمْ مارِقٌ وَالْمُتَاَخِّرُ عَنْهُمْ زاهِقٌ
-وَاللاّزِمُ لَهُمْ لاحِقٌ.
-  </p>
-</blockquote>
+> الْمُتَقَدِّمُ لَهُمْ مارِقٌ وَالْمُتَاَخِّرُ عَنْهُمْ زاهِقٌ
+> وَاللاّزِمُ لَهُمْ لاحِقٌ.
 
 **Those who went ahead of them were misled and those who lagged behind
 them were ruined and those who adhered to them were united with them.**
@@ -1020,12 +938,8 @@ stay behind the Ahlul Bayt (AS) or else they will be from the **زاهقين**
 (Zahiqeen). By definition, the word Zaheq means to be gone and
 destroyed, just like Allah (SWT) says,
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ
-زَهُوقا.
-  </p>
-</blockquote>
+> وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ
+> زَهُوقا.
 
 ***“And say: The truth has come and the falsehood has vanished; surely
 falsehood is bound to perish.” [17:81]***
@@ -1078,11 +992,7 @@ cleanse himself but still comes out unclean and impure.
 Ahlul Bayt Cave of Refuge
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الْكَهْفِ الْحَصينِ
-  </p>
-</blockquote>
+> اللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الْكَهْفِ الْحَصينِ
 
 **O\` Allah! Bless Muhammad and his progeny who are the Strong Refuge**
 
@@ -1107,12 +1017,8 @@ and defied the existing polytheistic faith.
 In short, they eventually sought refuge in a cave where they escaped for
 their lives in a miraculous manner. As described in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِنْ
-لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا.
-  </p>
-</blockquote>
+> إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِنْ
+> لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا.
 
 ***When the youths sought refuge in the cave, they said: Our Lord! grant
 us mercy from Thee, and provide for us a right course in our affair.***
@@ -1133,13 +1039,9 @@ granting them salvation by His mercy. That salvation was represented in
 the cave in a mountain which protected them from the evil of the
 nonbelievers. Hence, Allah (SWT) says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلا اللَّهَ فَأْوُوا
-إِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِهِ وَيُهَيِّئْ
-لَكُمْ مِنْ أَمْرِكُمْ مِرْفَقًا.
-  </p>
-</blockquote>
+> وَإِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلا اللَّهَ فَأْوُوا
+> إِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِهِ وَيُهَيِّئْ
+> لَكُمْ مِنْ أَمْرِكُمْ مِرْفَقًا.
 
 ***And when you forsake them and what they worship save Allah, betake
 yourselves for refuge to the cave; your Lord will extend to you largely
@@ -1178,12 +1080,8 @@ the promised number (raqam).
 Source of Help & Protection
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَ غِياثِ الْمُضْطَرِّ الْمُسْتَكينِ وَ مَلْجَاءِ الْهارِبينَ وَ
-عِصْمَةِ الْمُعْتَصِمينَ.
-  </p>
-</blockquote>
+> وَ غِياثِ الْمُضْطَرِّ الْمُسْتَكينِ وَ مَلْجَاءِ الْهارِبينَ وَ
+> عِصْمَةِ الْمُعْتَصِمينَ.
 
 **Rescue for the distressed and the helpless, shelter for the fugitives
 and protection.**
@@ -1208,11 +1106,7 @@ Allah (SWT) directs our attention in the Qur’an that when a person
 reaches the state of distress and agony, he must resort to Allah (SWT)
 for help,
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ يُجِيبُ الْمُضطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-  </p>
-</blockquote>
+> أَمَّنْ يُجِيبُ الْمُضطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
 
 ***Who answers the cry of the distressed person when he calls upon Him,
 and removes the evil?*** **[27:62]**
@@ -1222,11 +1116,7 @@ answered by the Almighty God, we are encouraged to seek help from His
 divine intermediates who are much closer to the divine abode than we
 are. This idea is supported in the Qur’an in numerous verses such as:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا اتقوا الله وابتغوا إليه الوسيلة.
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا اتقوا الله وابتغوا إليه الوسيلة.
 
 ***Oh you who believe, fear Allah and seek the ways and means to
 Him*****. [5:35]**
@@ -1252,11 +1142,7 @@ The last part of this verse indicates that those who seek any type of
 protection from anything should seek it from the purified Ahlul Bayt
 (AS). This notion is also supported by another verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ اِلَى صِرَطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ اِلَى صِرَطٍ مُسْتَقِيمٍ.
 
 ***Whoever holds fast to*** **God** ***will be guided in the right
 path.*** **[3:101]**
@@ -1281,19 +1167,11 @@ and who hold the position we discussed so far.
 Wilayah to the Righteous Ones
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الطَّيبِّينَ
-الاْبْرارِ الاْخْيارِ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الطَّيبِّينَ
+> الاْبْرارِ الاْخْيارِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذينَ اَوْجَبْتَ حُقُوقَهُمْ وَ فَرَضْتَ طاعَتَهُمْ وَ
-وِلايَتَهُمْ.
-  </p>
-</blockquote>
+> الَّذينَ اَوْجَبْتَ حُقُوقَهُمْ وَ فَرَضْتَ طاعَتَهُمْ وَ
+> وِلايَتَهُمْ.
 
 **O Allah: Send blessings upon Muhammad and the Household of
 Muhammad—the pure, the pious, the righteous whose rights have been made
@@ -1313,12 +1191,8 @@ than Muhammad wa Aali Muhammad! They are indeed the pure (**طيِّبين**)
 ones who have been purified as mentioned in the well-known verse of
 purification (Ayat Al Tat-heer):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House! And to purify you a (thorough) purification.*** **[33:33]**
@@ -1334,11 +1208,7 @@ creation the Holy Prophet (SA) who have been sent as a mercy to mankind.
 It is the Holy Prophet (SA) whom Allah (SWT) has testified in the Qur’an
 for all of mankind to bear witness that
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلى خُلُقٍ عَظِيمٍ.
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلى خُلُقٍ عَظِيمٍ.
 
 ***And most surely you possess sublime moral excellences.*** **[68:4]**
 
@@ -1398,12 +1268,8 @@ affairs, we will surely achieve salvation and reach very close to the
 stage of perfection which is the ultimate goal. Our obligation to their
 obedience is clearly stated in the Qur’an in many verses, among them,
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا الَّذِينَ ءامَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ
-وَأُوْلِي الأمْرِ مِنْكُمْ.
-  </p>
-</blockquote>
+> يَأَيُّهَا الَّذِينَ ءامَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ
+> وَأُوْلِي الأمْرِ مِنْكُمْ.
 
 ***Oh you who believe! Obey Allah and obey the Apostle and those in
 authority from among you.*** **[4:59]**
@@ -1439,11 +1305,7 @@ those who take him as an enemy”*. (Al-Mu’jam As-Saghir)
 Thereafter, Allah (SWT) revealed the verse announcing the completion of
 the religion and its final approval for mankind,
 
-<blockquote dir="rtl">
-  <p>
-اليوم أكملت لكم دينكم وأتممت عليكم نِعمتي ورضيت لكم الإسلام ديناً.
-  </p>
-</blockquote>
+> اليوم أكملت لكم دينكم وأتممت عليكم نِعمتي ورضيت لكم الإسلام ديناً.
 
 ***This day I have perfected your religion for you, completed My favour
 upon you, and have chosen for you Islam as your religion.*** **[5:3]**
@@ -1469,12 +1331,8 @@ Islam after him.
 Seeking Divine Obedience
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَاعْمُرْ قَلْبى
-بِطاعَتِكَ وَلا تُخْزِنى بِمَعْصِيََتِكَ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَاعْمُرْ قَلْبى
+> بِطاعَتِكَ وَلا تُخْزِنى بِمَعْصِيََتِكَ
 
 **Oh Allah! Bless Muhammad and his progeny and embellish my heart with
 obedience to You and disgrace me not with disobedience to You**
@@ -1498,13 +1356,9 @@ to Allah (SWT) for their pattern of disobedience to Him. Musa (AS)
 informed his people that if they obey these orders Allah (SWT) will
 forgive their sins. Allah (SWT) mentions them in Surah Al Baqarah:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا ادْخُلُوا هَٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ
-شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ
-نَغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ .
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا ادْخُلُوا هَٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ
+> شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ
+> نَغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ .
 
 ***And when We said: Enter this city, then eat from it a plenteous
 (food) wherever you wish, and enter the gate making obeisance and say:
@@ -1531,13 +1385,9 @@ they said “Hentah” (wheat) and they were not sincere in their
 repentance. Allah (SWT) describes their state of disobedience in verse
 59:
 
-<blockquote dir="rtl">
-  <p>
-فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلاً غَيْرَ الَّذِي قِيلَ لَهُمْ
-فَأَنْزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ بِمَا
-كَانُوا يَفْسُقُونَ .
-  </p>
-</blockquote>
+> فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلاً غَيْرَ الَّذِي قِيلَ لَهُمْ
+> فَأَنْزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ بِمَا
+> كَانُوا يَفْسُقُونَ .
 
 ***But those who were unjust changed the word which had been told them
 for another saying, and We sent down upon the evil-doers wrath from
@@ -1573,12 +1423,8 @@ blessing of Wilayah!
 This state of mind is perfectly depicted in the supplication of Imam
 As-Sajjad, “Makarem Al Akhlaq”:
 
-<blockquote dir="rtl">
-  <p>
-"وعمِّرني ما كان عمري بذلة في طاعتك فإذا كان عمري مرتعاً للشيطان
-فاقبضني إليك قبل أن يسبق مقتك عليّ ً."
-  </p>
-</blockquote>
+> "وعمِّرني ما كان عمري بذلة في طاعتك فإذا كان عمري مرتعاً للشيطان
+> فاقبضني إليك قبل أن يسبق مقتك عليّ ً."
 
 *Let me live as long as my life is a free gift in obeying Thee, but if
 my life should become a pasture for Satan, seize me to Thyself before
@@ -1591,12 +1437,8 @@ results in a disgraceful life. Hence, the servant affirms his desire not
 to be among those who are disgraced by His disobedience. Otherwise, he
 will face humiliation and shame as those mentioned in:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوُا الرَّسُولَ لَوْ
-تُسَوَّىٰ بِهِمُ الْأَرْضُ.
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوُا الرَّسُولَ لَوْ
+> تُسَوَّىٰ بِهِمُ الْأَرْضُ.
 
 ***On that day those who disbelieved and disobeyed the messenger will
 wish that they were level with the ground*** **[4:42].**
@@ -1606,18 +1448,10 @@ wish that they were level with the ground*** **[4:42].**
 Consolation of the Unfortunate Ones
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَارْزُقْنى مُواساةَ مَنْ قَتَّرْتَ عَلَيْهِ مِنْ رِزْقِكَ بِما
-وَسَّعْتَ عَلَىَّ مِنْ فَضْلِكَ
-  </p>
-</blockquote>
+> وَارْزُقْنى مُواساةَ مَنْ قَتَّرْتَ عَلَيْهِ مِنْ رِزْقِكَ بِما
+> وَسَّعْتَ عَلَىَّ مِنْ فَضْلِكَ
 
-<blockquote dir="rtl">
-  <p>
-وَ نَشَرْتَ عَلَىَّ مِنْ عَدْلِكَ وَ اَحْيَيْتَنى تَحْتَ ظِلِّكَ
-  </p>
-</blockquote>
+> وَ نَشَرْتَ عَلَىَّ مِنْ عَدْلِكَ وَ اَحْيَيْتَنى تَحْتَ ظِلِّكَ
 
 **And bless me with consolation for those struck with poverty from Your
 sustenance for You have blessed me with affluence in livelihood since
@@ -1661,11 +1495,7 @@ to accomplish. So important is this trait of being just that Allah (SWT)
 mentions it numerously in the Qur’an and orders us to observe justice as
 it is a stage of piety:
 
-<blockquote dir="rtl">
-  <p>
-ولا يجرمنكم شنئان قومٍ على ألا يعدلوا إعدلوا هو أقرب للتقوى .
-  </p>
-</blockquote>
+> ولا يجرمنكم شنئان قومٍ على ألا يعدلوا إعدلوا هو أقرب للتقوى .
 
 ***And let not a people’s enmity incite you to act otherwise than with
 justice. Be always just, that is nearer to righteousness.*** **[5:8]**
@@ -1674,12 +1504,8 @@ All great prophets of Allah (SWT) like Prophets Adam, Nuh, Ibraheem,
 Musa, Jesus, and Muhammad (SA) came to establish justice in society.
 Allah (SWT) states this point very clearly in this verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَتِ وَأَنْزَلْنَا مَعَهُمْ
-الْكِتَبَ والميزان ليقُوم الناس بالقِسط .
-  </p>
-</blockquote>
+> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَتِ وَأَنْزَلْنَا مَعَهُمْ
+> الْكِتَبَ والميزان ليقُوم الناس بالقِسط .
 
 ***Certainly We have sent Our messengers with clear guidance; and We
 sent down to them the Book and the scale so that humans may conduct
@@ -1689,12 +1515,8 @@ Justice is indeed one of the absolute attributes of Allah (SWT) and His
 word does find fulfillment in truth and justice as indicated in this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلاً لاَّ مُبَدِّلِ
-لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ.
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلاً لاَّ مُبَدِّلِ
+> لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ.
 
 ***The word of your Lord does find its fulfillment in truth and in
 justice: None can change His words: for He is the one who hears and
@@ -1738,11 +1560,7 @@ truth & justice cannot be comprehended without knowledge and it was this
 reason when Prophet Ibraheem (AS) was put to trial with various divine
 words, the Qur’an announces in the verse:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لاَ يَنَالُ عَهْدِي الظَّالِمِينَ .
-  </p>
-</blockquote>
+> قَالَ لاَ يَنَالُ عَهْدِي الظَّالِمِينَ .
 
 ***My Covenant (Prophethood) includes not Dhalimeen (polytheists and
 wrong-doers).*****[2:124]**
@@ -1880,12 +1698,8 @@ conceal his faults on the Day of Resurrection."* (Sahih Muslim)
 The Holy Month of Sha’ban
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وهذا شَهْرُ نَبِيِِّّكَ سَيِِّدِ رُسُلِكَ شَعْبانُ الَّذى حَفَفْتَهُ
-مِنْكَ بِالرَّحْمَةِ وَالرِّضْوانِ
-  </p>
-</blockquote>
+> وهذا شَهْرُ نَبِيِِّّكَ سَيِِّدِ رُسُلِكَ شَعْبانُ الَّذى حَفَفْتَهُ
+> مِنْكَ بِالرَّحْمَةِ وَالرِّضْوانِ
 
 **And this is the month You have attributed to Your Prophet the chief of
 Your Prophets month of Sha\`ban You have encompassed it with your mercy
@@ -1985,13 +1799,9 @@ justice and equity after it has been filled with tyranny and oppression.
 The Prophet Honors Sha’ban
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذى كانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَ آلِه وَ سَلَّمَ
-يََدْاَبُ فى صِيامِهِ وَ قِيامِهِ فى لَياليهِ وَ اَيّّامِهِ بُخُوعاً
-لَكَ فى اِكْرامِهِ وَاِعْظامِهِ اِلى مَحَلِّ حِمامِهِ.
-  </p>
-</blockquote>
+> الَّذى كانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَ آلِه وَ سَلَّمَ
+> يََدْاَبُ فى صِيامِهِ وَ قِيامِهِ فى لَياليهِ وَ اَيّّامِهِ بُخُوعاً
+> لَكَ فى اِكْرامِهِ وَاِعْظامِهِ اِلى مَحَلِّ حِمامِهِ.
 
 **The Messenger of God used to keep vigil in devotion during its nights
 and observed fasts during its days humiliating himself before You
@@ -2106,12 +1916,8 @@ to worship his Lord and communicate with his beloved in the darkness of
 night where everyone is asleep, that act of sacrifice pleases Allah
 (SWT). That’s why He (SWT) says about those who rise at night:
 
-<blockquote dir="rtl">
-  <p>
-كَانُوا قَلِيلاً مِّنَ اللَّيْلِ مَا يَهْجَعُونَ وَبِالأَسْحَارِ هُمْ
-يَسْتَغْفِرُونَ.
-  </p>
-</blockquote>
+> كَانُوا قَلِيلاً مِّنَ اللَّيْلِ مَا يَهْجَعُونَ وَبِالأَسْحَارِ هُمْ
+> يَسْتَغْفِرُونَ.
 
 ***They used to sleep but little in the night. And in the early part of
 the morning they asked forgiveness.*** **[51:16-17]**
@@ -2119,12 +1925,8 @@ the morning they asked forgiveness.*** **[51:16-17]**
 In yet another verse Allah (SWT) describes the effect of reciting
 Salatul Layl for the believer. He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
-رَبُّكَ مَقَامًا مَّحْمُودًا.
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
+> رَبُّكَ مَقَامًا مَّحْمُودًا.
 
 ***And during a part of the night, pray Tahajjud beyond what is
 incumbent on you; maybe your Lord will raise you to a position of great
@@ -2149,11 +1951,7 @@ In fact, Allah (SWT) uses this same word to the Prophet (SA) in a
 different context to alleviate his deep concern and disappointment that
 his people were not embracing the truth:
 
-<blockquote dir="rtl">
-  <p>
-لَعَلَّكَ بَاخِعٌ نَفْسَكَ أَلاَّ يَكُونُوا مُؤْمِنِين َ.
-  </p>
-</blockquote>
+> لَعَلَّكَ بَاخِعٌ نَفْسَكَ أَلاَّ يَكُونُوا مُؤْمِنِين َ.
 
 ***Perhaps you will kill yourself with grief because they do not
 believe.*** **[26:3]**
@@ -2178,12 +1976,8 @@ phrase in the supplication.
 Attaining Prophetic Intercession
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ فَاَعِنّا عَلَى الاْسْتِنانِ بِسُنَّتِهِ فيهِ وَ نَيْلِ
-الشَّفاعَةِ لَدَيْهِ. اَللّهُمَّ وَاجْعَلْهُ لى شَفيعاً مُشَفَّعاً
-  </p>
-</blockquote>
+> اَللّهُمَّ فَاَعِنّا عَلَى الاْسْتِنانِ بِسُنَّتِهِ فيهِ وَ نَيْلِ
+> الشَّفاعَةِ لَدَيْهِ. اَللّهُمَّ وَاجْعَلْهُ لى شَفيعاً مُشَفَّعاً
 
 **O\` Allah! Help us in following his life pattern and in achieving his
 intercession. Oh Allah! Appoint him as an intercessor for me and his
@@ -2230,12 +2024,8 @@ the Prophet (Allah bless him and grant him peace) ordered him to make
 good his wudu’ (ablution) and then to make the following
 supplication**:**
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك وأتوجه إليك بنبيك محمد نبي الرحمة، يا محمد إني أتوجه
-بك إلى ربي في حاجتي هذه لتقضى، اللهم فشفعه في ّ.
-  </p>
-</blockquote>
+> اللهم إني أسألك وأتوجه إليك بنبيك محمد نبي الرحمة، يا محمد إني أتوجه
+> بك إلى ربي في حاجتي هذه لتقضى، اللهم فشفعه في ّ.
 
 *O Allah, I ask You and I turn to You by Your Prophet Muhammad, the
 Prophet of Mercy. O Muhammad! I turn by you to my Lord concerning this
@@ -2312,11 +2102,7 @@ blessings of the month of Sha’ban from Allah (SWT)!
 Muhammad: the Path to Salvation
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَ طَريقاً اِلَيْكَ مَهيَعاً وَاجْعَلْنى لَهُ مُتَّبِعاً
-  </p>
-</blockquote>
+> وَ طَريقاً اِلَيْكَ مَهيَعاً وَاجْعَلْنى لَهُ مُتَّبِعاً
 
 **And appoint him to show us a simple path towards You and make me his
 follower**
@@ -2332,11 +2118,7 @@ In fact, as Muslims we pray everyday to Allah (SWT) in our obligatory
 Salah at least ten times when reciting Surah Al Fatiha to guide us to
 the straight path:
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
 
 ***Show us the straight path.*** **[1:6]**
 
@@ -2375,12 +2157,8 @@ Now, what are the rewards of one who is steadfast on the right path
 represented in the holy household of the Prophet (SA)? Allah (SWT) says
 in Surah Al Jinn:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لأَسْقَيْنَاهُمْ مَاءً
-غَدَقًا
-  </p>
-</blockquote>
+> وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لأَسْقَيْنَاهُمْ مَاءً
+> غَدَقًا
 
 ***If they tread the right path, We shall give them to drink water in
 abundance.*** **[72:16]**
@@ -2399,11 +2177,7 @@ things which is available to those who follow the teachings of the Imams
 of the Ahlul Bayt (AS*).* It is interesting to note that in the next
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا
-  </p>
-</blockquote>
+> وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا
 
 ***And whoever turns aside from the reminder of his Lord, He will make
 him enter into an afflicting chastisement.*** **[72:17]**
@@ -2433,11 +2207,7 @@ obedience to the Prophet (SA) regarding the command of Wilayah to Imam
 Divine Pleasure & Forgiveness
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتّى اَلْقاكَ يَوْمَ الْقِيمَةِ عَنّى راضِياً وَ عَنْ ذُنُوبى غاضِياً
-  </p>
-</blockquote>
+> حَتّى اَلْقاكَ يَوْمَ الْقِيمَةِ عَنّى راضِياً وَ عَنْ ذُنُوبى غاضِياً
 
 **Till I meet You on the Day of Resurrection in a state that You be
 pleased with me ignoring my sins**
@@ -2447,11 +2217,7 @@ which summarizes the main goal of his discourse to Allah (SWT) and the
 aim that he is pursuing. The inevitable destination that each creature
 will face is death and no one is excluded from it. As Allah (SWT) says:
 
-<blockquote dir="rtl">
-  <p>
-كل نفسٍ ذائقة الموت
-  </p>
-</blockquote>
+> كل نفسٍ ذائقة الموت
 
 ***Every soul shall taste death.*****[3:185]**
 
@@ -2471,11 +2237,7 @@ Furthermore, to obey Allah (SWT) is equivalent to obeying all His
 prophets and messengers as well as the divinely chosen guides as
 indicated in this verse:
 
-<blockquote dir="rtl">
-  <p>
-أطيعوا الله ورسوله وأولي الأمر منكم .
-  </p>
-</blockquote>
+> أطيعوا الله ورسوله وأولي الأمر منكم .
 
 ***O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you.*** **[4:59]**
@@ -2494,19 +2256,11 @@ prophet, messenger, or successor. This state of unconditional obedience
 will naturally lead to attaining divine pleasure and being included
 among those whom Allah (SWT) says in Surah Al Fajr:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
 
 ***Oh soul that is at peace*** **[89:27]**
 
-<blockquote dir="rtl">
-  <p>
-ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً
-  </p>
-</blockquote>
+> ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً
 
 ***Return to your Lord, well-pleased (with him), well-pleasing (Him).***
 **[89:28]**
@@ -2538,12 +2292,8 @@ pleasure and obeys His commands.
 Eternal Mercy & Bliss
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ اَوْجَبْتَ لى مِنْكَ الرَّحْمَةَ وَالرِّضْوانَ وَ اَنْزَلْتَنى
-دارَ الْقَرارِ وَ مَحَلَّ الاْخْيارِ .
-  </p>
-</blockquote>
+> قَدْ اَوْجَبْتَ لى مِنْكَ الرَّحْمَةَ وَالرِّضْوانَ وَ اَنْزَلْتَنى
+> دارَ الْقَرارِ وَ مَحَلَّ الاْخْيارِ .
 
 **For You have prescribed mercy and gratification from You and my
 entertainment a peaceful abode and the abode of the virtuous people.**
@@ -2559,11 +2309,7 @@ divine mercy and pleasure, it is certainly not anything close to what we
 humans fathom or imagine. In one instance, Allah (SWT) talks about those
 who pursue the pleasure of Allah:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَنْ بَاءَ بِسَخَطٍ مِنَ اللَّهِ
-  </p>
-</blockquote>
+> أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَنْ بَاءَ بِسَخَطٍ مِنَ اللَّهِ
 
 ***Is then he who follows the pleasure of Allah like him who has made
 himself deserving of displeasure from Allah***. [3:162]
@@ -2627,5 +2373,4 @@ humble servants serving their cause and rotating around their axis of
 Wilayah which leads to the pleasure of the One Creator, just as a
 honeybee dances around a flower, their source of nutrition and
 livelihood!
-
 

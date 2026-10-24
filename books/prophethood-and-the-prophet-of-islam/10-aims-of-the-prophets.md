@@ -48,14 +48,10 @@ explaining to them bad consequences of evil behavior they warned them.
 Therefore purifying and disciplining of the selves can be considered as
 an important aim of the prophets; just as Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولاً
-مِّنْ أَنْفُسِهِمْ يَتْلُواْ عَلَيْهِمْ ءَايَتِهِ وَيُزَكِّيْهِمْ
-وَيُعَلِّمُهُمُ الْكِتَبَ وَالْحِكْمَةَ وَإِنْ كَانُواْ مِنْ قَبْلُ
-لَفِى ضَلَلٍ مُّبِينٍ‏
-  </p>
-</blockquote>
+> لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولاً
+> مِّنْ أَنْفُسِهِمْ يَتْلُواْ عَلَيْهِمْ ءَايَتِهِ وَيُزَكِّيْهِمْ
+> وَيُعَلِّمُهُمُ الْكِتَبَ وَالْحِكْمَةَ وَإِنْ كَانُواْ مِنْ قَبْلُ
+> لَفِى ضَلَلٍ مُّبِينٍ‏
 
 “Certainly Allah conferred a benefit upon the believers when He raised
 among them an Apostle from among themselves, reciting to them His
@@ -82,21 +78,13 @@ effective in the success of man in the life hereafter. So much so that
 it is mentioned that the aim of creation of man is not but the worship
 of God as mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللَّهَ
-وَاجْتَنِبُواْ الطَّغُوتَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللَّهَ
+> وَاجْتَنِبُواْ الطَّغُوتَ
 
 “And certainly We raised in every nation an apostle saying: Serve Allah
 and shun the Shaitan.” (16:36)
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
 
 “And I have not created the jinn and the men except that they should
 serve Me.” (51:56)
@@ -123,15 +111,11 @@ the worldly affairs and social conditions of the people.
 From some verses, it is also concluded that it was one of the aims of
 the prophets. For example it is said in Quran that:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
-الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا
-الْحَدِيدَ فِيهِ بَأسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ
-اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ إِنَّ اللَّهَ قَوِىٌّ
-عَزِيزٌ
-  </p>
-</blockquote>
+> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
+> الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا
+> الْحَدِيدَ فِيهِ بَأسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ
+> اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ إِنَّ اللَّهَ قَوِىٌّ
+> عَزِيزٌ
 
 “Certainly We sent Our apostles with clear arguments, and sent down with
 them the Book and the balance that men may conduct themselves with
@@ -141,17 +125,13 @@ apostles in the secret; surely Allah is Strong, Mighty.” (57:25)
 
 In another verse it is said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ الْنَّاسُ أُمَّةً وَ حِدَةً فَبَعَثَ اللَّهُ الْنَّبِيِّينَ
-مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَبَ بِالْحَقِّ
-لِيَحْكُمَ بَيْنَ الْنَّاسِ فِيمَا اخْتَلَفُوا فِيهِ وَمَا اخْتَلَفَ
-فِيهِ إِلّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَآءَتْهُمُ
-الْبَيِّنَتُ بَغْياً بَيْنَهُمْ فَهَدَى اللَّهُ الَّذِينَ ءَامَنُوا
-لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ وَاللَّهُ يَهْدِى
-مَنْ يَشَاءُ إِلى‏ صِرَاطٍ مُسْتَقِيمٍ‏
-  </p>
-</blockquote>
+> كَانَ الْنَّاسُ أُمَّةً وَ حِدَةً فَبَعَثَ اللَّهُ الْنَّبِيِّينَ
+> مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَبَ بِالْحَقِّ
+> لِيَحْكُمَ بَيْنَ الْنَّاسِ فِيمَا اخْتَلَفُوا فِيهِ وَمَا اخْتَلَفَ
+> فِيهِ إِلّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَآءَتْهُمُ
+> الْبَيِّنَتُ بَغْياً بَيْنَهُمْ فَهَدَى اللَّهُ الَّذِينَ ءَامَنُوا
+> لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ وَاللَّهُ يَهْدِى
+> مَنْ يَشَاءُ إِلى‏ صِرَاطٍ مُسْتَقِيمٍ‏
 
 “(All) people are a single nation; so Allah raised prophets as bearers
 of good news and as warners, and He revealed with them the Book with
@@ -214,30 +194,22 @@ B) In some verses and traditions, it is explained that life and worldly
 affairs do not have any value and the real and valuable life of man is
 the spiritual life of the hereafter. For example:
 
-<blockquote dir="rtl">
-  <p>
-ألْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَوةِ الدُّنْيَا وَالْبَقِيَتُ
-الصَّلِحَتُ خَيْرٌ عِندَ رَبِّكَ ثَوَاباً وَخَيْرٌ أَمَلاً
-  </p>
-</blockquote>
+> ألْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَوةِ الدُّنْيَا وَالْبَقِيَتُ
+> الصَّلِحَتُ خَيْرٌ عِندَ رَبِّكَ ثَوَاباً وَخَيْرٌ أَمَلاً
 
 “Wealth and children are an adornment of the life of this world; and the
 ever-abiding, the good works, are better with your Lord in reward and
 better in expectation.” (18:46)
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمُواْ أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
-وَتَفَاخُرٌ بَيْنَكُمْ وَ تَكَاثُرٌ فِى الْأَمْوَ الِ وَالْأَوْلاَدِ
-كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ
-مُصْفَرّاً ثُمَّ يَكُونُ حُطَاماً وَفِى الْآخِرَةِ عَذَابٌ شَدِيدٌ وَ
-مَغْفِرَةٌ مِّنَ اللَّهِ وَرِضْوَ انٌ وَمَا الْحَيَاةُ الدُّنْيَآ
-إِلَّا مَتَاعُ الْغُرُورِ / سَابِقُواْ إِلَى‏ مَغْفِرَةٍ مِّن
-رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَآءِ وَ الْأَرْضِ
-أُعِدَّتْ لِلَّذِينَ آمَنُواْ بِاللَّهِ وَرُسُلِهِ ذَ لِكَ فَضْلُ
-اللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ‏
-  </p>
-</blockquote>
+> اعْلَمُواْ أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
+> وَتَفَاخُرٌ بَيْنَكُمْ وَ تَكَاثُرٌ فِى الْأَمْوَ الِ وَالْأَوْلاَدِ
+> كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ
+> مُصْفَرّاً ثُمَّ يَكُونُ حُطَاماً وَفِى الْآخِرَةِ عَذَابٌ شَدِيدٌ وَ
+> مَغْفِرَةٌ مِّنَ اللَّهِ وَرِضْوَ انٌ وَمَا الْحَيَاةُ الدُّنْيَآ
+> إِلَّا مَتَاعُ الْغُرُورِ / سَابِقُواْ إِلَى‏ مَغْفِرَةٍ مِّن
+> رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَآءِ وَ الْأَرْضِ
+> أُعِدَّتْ لِلَّذِينَ آمَنُواْ بِاللَّهِ وَرُسُلِهِ ذَ لِكَ فَضْلُ
+> اللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ‏
 
 “Know that this world’s life is only sport and play and gaiety and
 boasting among yourselves, and a vying in the multiplication of wealth
@@ -252,12 +224,8 @@ prepared for those who believe in Allah and His apostles; that is the
 grace of Allah: He gives it to whom He pleases, and Allah is the Lord of
 mighty grace.” (57:20-21)
 
-<blockquote dir="rtl">
-  <p>
-وَ مَآ أُوتِيتُم مِّن شَىْ‏ءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَ
-زِينَتُهَا وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَى‏ أَفَلَا تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَ مَآ أُوتِيتُم مِّن شَىْ‏ءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَ
+> زِينَتُهَا وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَى‏ أَفَلَا تَعْقِلُونَ
 
 “And whatever things you have been given are only a provision of this
 world’s life and its adornment, and whatever is with Allah is better and
@@ -340,5 +308,4 @@ and to secure success in the Hereafter.
 [^5]: Nahjul Balagha, Sermon 132.
 
 [^6]: Nahjul Balagha, Saying 203.
-
 

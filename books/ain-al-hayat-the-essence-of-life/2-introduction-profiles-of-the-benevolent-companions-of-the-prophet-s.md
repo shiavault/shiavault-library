@@ -79,13 +79,9 @@ angels in the Heaven!”
 
 Hearing this, Abu Dharr recited the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إِنِّي أَسْأَلُكَ الإِيمَانَ بِكَ، وَالتَّصْدِيقَ
-بِنَبِيِّكَ، وَالعَافِيَةَ مِنْ جَمِيعِ البَلاَءِ، وَالشُّكْرَ عَلَى
-العَافِيَةِ، وَالغِنَى عَنْ شِرَارِ النَّاسِ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إِنِّي أَسْأَلُكَ الإِيمَانَ بِكَ، وَالتَّصْدِيقَ
+> بِنَبِيِّكَ، وَالعَافِيَةَ مِنْ جَمِيعِ البَلاَءِ، وَالشُّكْرَ عَلَى
+> العَافِيَةِ، وَالغِنَى عَنْ شِرَارِ النَّاسِ.
 
 *“O Allah, grant me faith in you, and belief in Your Prophet, and safety
 from all calamities, and thankfulness for wellness, and independence
@@ -419,5 +415,4 @@ trying to dwell on the subject briefly in the steps dealt with in the
 following chapter. My humble effort may not measure up to the
 comprehension of the eloquence of the Great Personality, but it is my
 duty to make an effort. Inshallah!
-
 

@@ -407,4 +407,3 @@ solemnize marriage" acquires a very alarming note, as it appears to
 establish an institutionalized clergy which is absolutely against
 Islamic fundamentals. Therefore, we cannot agree with it.
 
-

@@ -411,7 +411,6 @@ claims to the Caliphate one the basis of this event. One of his couplets
 runs as follows: "For this reason the prophet installed me as their
 Imam, And proclaimed this to them at GHADIR KHUM".
 
-
 **5. The Complete Execution of the Entire Mission:**
 
 After the prophet (p) had made the Proclamation, he was still on the
@@ -430,5 +429,4 @@ was revealed".
 There are other authorities to the same effect. This shows that the
 mission was perfected and completed only when the Caliphate had been
 bestowed, and proclamation there of had been made.
-
 

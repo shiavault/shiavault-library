@@ -29,36 +29,24 @@ whispered to me and told me that from the ‘people of the house’ I will
 be the first to come after him and meet him. To this I laughed.’”
 
 > 79. عن عائشة رضي الله عنها، عن فاطمة رضي الله عنها: أن النبي صلى الله
-<blockquote dir="rtl">
-  <p>
-عليه وسلم قال لها: أنت أول أهلى لحوقا بى، فضحكت لذلك.
-  </p>
-</blockquote>
+> عليه وسلم قال لها: أنت أول أهلى لحوقا بى، فضحكت لذلك.
 
 Ayeshah (ra) narrates from Fatimah (sa), “The Holy Prophet (saw) said to
 her, ‘From ¢the people of my house¢ you will be the first to meet me
 (after I have passed away).’ To this good news I laughed.”
 
 > 80. عن بن عباس رضي الله عنه، قال: قال رسول الله صلى الله عليه وسلم
-<blockquote dir="rtl">
-  <p>
-لفاطمة رضي الله عنها: أنت أول أهلي لحوقا بى.
-  </p>
-</blockquote>
+> لفاطمة رضي الله عنها: أنت أول أهلي لحوقا بى.
 
 Abdullah Ibn Abbas (ra) narrates that Holy Prophet (saw) said to Fatimah
 (sa), “From my household you will be the first to join me.”
 
 > 81. عن بن عباس رضي الله عنه، قال: لما نزلت (إذَا جَاءَ نَصْرُ اللهِ
-<blockquote dir="rtl">
-  <p>
-وَالْفَتْحُ) دعا رسول الله صلى الله عليه وسلم فاطمة، فقال: قد نعيت إلى
-نفسى، فبكت، فقال: لا تبكى، فإنك أول أهلي لحاقا بى فضحكت فرآها بعض
-أزواج النبي صلى الله عليه وسلم، فقلن: يا فاطمةَ! رأيناك بكيت، ثم ضحكت،
-قالت: إنه أخبرنى أنه قد نعيت إليه نفسه فبكيت، فقال لى: لا تبكى، فإنك
-أول أهلى لاحق بى فضحكت.
-  </p>
-</blockquote>
+> وَالْفَتْحُ) دعا رسول الله صلى الله عليه وسلم فاطمة، فقال: قد نعيت إلى
+> نفسى، فبكت، فقال: لا تبكى، فإنك أول أهلي لحاقا بى فضحكت فرآها بعض
+> أزواج النبي صلى الله عليه وسلم، فقلن: يا فاطمةَ! رأيناك بكيت، ثم ضحكت،
+> قالت: إنه أخبرنى أنه قد نعيت إليه نفسه فبكيت، فقال لى: لا تبكى، فإنك
+> أول أهلى لاحق بى فضحكت.
 
 Ibn Abbas narrates that when the Quranic verse, “When the help of Allah
 and victory comes…”, was revealed, the Messenger of Allah (saw) called
@@ -70,5 +58,4 @@ saw you cry and then you smiled.” Fatimah replied, “The Messenger of
 Allah (saw) told me that the time of his passing away has arrived. To
 this I cried. Then he (saw) said, ‘Do not cry. You will be the first to
 meet me from my household.’ To this I laughed.”
-
 

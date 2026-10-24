@@ -132,4 +132,3 @@ The Imam raised his hand towards the heavens and said, 'High is the
 Almighty. High is the Almighty. One who pursues beyond this, he is
 doomed.'"
 
-

@@ -51,4 +51,3 @@ will get extra rewards.[^2]
 
 [^2]: Furu Kafi, Vol. 4, Pg. 314
 
-

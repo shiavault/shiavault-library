@@ -266,4 +266,3 @@ And where is the one conceited about his authority,
     
  And may Allah bless our master Muhammad and his immaculate progeny
 
-

@@ -853,4 +853,3 @@ p.334; XIV, p.219
 [^58]: Tabari, I,pp.3350 f. Cf. W. Montgomery Watt, “Shi'ism Under the
 Umayyads”, JRAS (1960), pp. I60-161
 
-

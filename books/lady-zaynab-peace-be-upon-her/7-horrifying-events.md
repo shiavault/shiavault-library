@@ -60,10 +60,8 @@ place to another among Muslims so as to lead them to the courses of
 salvation and guide them to the leaders whom they should follow after
 him. He repeatedly said:
 
-<p dir="rtl">
 أَيُّهَا النَّاسُإِنِّي تَرَكْتُ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللَّهِ
 وَ عِتْرَتِيْ أَهْلَ بَيْتِيْ.
-</p>
 
 *“O People, I have left among you the two precious things:the Book of
 Allah (s.w.t.) and my progeny my Household.”[^91]*
@@ -73,11 +71,9 @@ great speech in which he referred to all the fields that people need
 after him. Regarding the leadership of the Ummah, he (s.a.w.a.) declared
 openly:
 
-<p dir="rtl">
 اِنِّيْ خَلَّفْتُ فِيْكُمْ مَا اِنْ تَمَسَّكْتُمْ بِهلَنْ تَضِلُّوْا
 بَعْدِيْ اَبَدًا: ك ِتَابَ اللهِ وَ عِتْرَتِيْ اَهْلَ بَيْتِيْ. اَلَا
 هَلْ بَلَّغْتُ؟
-</p>
 
 *“I am leaving among you that which will save you from deviation forever
 if you only adhere to: the Book of Allah (s.w.t.) and my progeny my
@@ -91,11 +87,9 @@ After he had accomplished the ritual of his final Hajj, Prophet Muhammad
 nominate Imam Ali (a.s.) as his successor and as a general authority for
 the Ummah. The missive was Almighty Allah’s saying:
 
-<p dir="rtl">
 يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ۖ
 وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهٗ ۚ وَاللَّهُ يَعْصِمُكَ
 مِنَ النَّاسِ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْكَافِرِيْنَ
-</p>
 
 ***O Apostle! Deliver what has been revealed to you from your Lord; and
 if you do it not, then you have not delivered His message, and Allah
@@ -111,13 +105,11 @@ important speech in the lives of all Muslims. The most important piece
 of that speech was that he took Imam Ali (a.s.) from the hand, raised
 him as much as he could, and declared openly and frankly:
 
-<p dir="rtl">
 مَنْ كُنْتُ مَوْلَاهُ فَهٰذَا عَلِيٌّ مَوْلَاهُ. اَللّٰهُمَّ وَالِ مَنْ
 وَالَاهُ، وَ عَادِ مَنْ عَادَاهُ،وَ اَحِبَّ مَنْ اَحَبَّهٗ ، وَ اَبْغَضَ
 مَنْ اَبْغَضَه ٗ ، وَ انْصُرْ مَنْ نَصَرَهٗ ، وَ اخْذُلْ مَنْ خَذَلَهٗ
 وَ أَدِرِ الْحَقَّ مَعَهٗ حَيْثُ دَارَ. اَلَا فَلْيُبَلِّغِ الشَّاهِدُ
 الْغَائِبُ.
-</p>
 
 *“Ali shall be the master of him whoever has taken me as master. O
 Allah! (I implore to You to) accede to him whoever accedes to Ali, be
@@ -151,10 +143,8 @@ Because the issue of Imam Ali(a.s.)’snext leadership was the most
 important, the Prophet (s.a.w.a.) repeatedly focused on it in every
 situation. He used to say:
 
-<p dir="rtl">
 هٰذَا عَلِيٌّ مَعَ الْقُرْآنِ، وَ الْقُرْآنُ مَعَ عَلِيٌّ، لاَ
 يَفْتَرِقَانِ حَتّٰي يَرِدَا عَلَيَّ الْحَوْضَ.
-</p>
 
 *Ali (a.s.) is most certainly with the Qur’an and the Qur’an is most
 certainly with Ali (a.s.). They shall never leave each other until they
@@ -234,12 +224,10 @@ heart of every believing man and woman to burn to them.
 In his final moments too, he asked the attendants to attend to his
 Household and progeny:
 
-<p dir="rtl">
 قَدْ خَلَّفْتُ فِيْكُمْ كِتَابَ اللهِ وَ عِتْرَتِيْ اَهْلَ بَيْتِيْ.
 فَالْمُضَيِّعُ لِكِتَابِ اللهِ كَالْمُضَيِّعِ لِسُنَّتِيْ، وَ
 الْمُضَيِّعُ لِسُنَّتِيْ كَالْمُضَيِّعِ لِعِتْرَتِيْ. اِنَّهُمَا لَنْ
 يَفْتَرِقَا حَتّٰي يَرِدَا عَلَيَّ الْحَوْضَ.
-</p>
 
 *“I have left among you the Book of Allah (s.w.t.) and my progeny my
 Household. To waste the Book of Allah (s.w.t.) is as same as wasting my
@@ -298,5 +286,4 @@ her beloved grandfather depart them forever, saw her father swallow
 grief because of losing his cousin, and saw her mother mourn and weep
 for her father’s departure so apprehensively. That day in fact was the
 beginning of Lady Zaynab(a.s.)’sgrief’s and sufferance.
-
 

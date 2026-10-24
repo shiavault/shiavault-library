@@ -3218,4 +3218,3 @@ in his book titled Al-Milal wal Nihal; so, refer to Vo. 2, pp. 172-193.
 
 [^55]: Ibid., hadith 11, p. 350.
 
-

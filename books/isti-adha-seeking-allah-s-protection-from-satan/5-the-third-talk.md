@@ -1,20 +1,12 @@
 The Third Talk 
 ===============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
-رَبِّ أَن يَحْضُرُونِ
-  </p>
-</blockquote>
+> وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
+> رَبِّ أَن يَحْضُرُونِ
 
 ***And say: O my Lord! I seek refuge in Thee from the evil suggestions
 of the Shaitans; And I seek refuge in Thee! O my Lord from their
@@ -44,8 +36,6 @@ of the person, he will satisfy himself even with small disturbances to
 the man. For example, if Satan is unable to turn a person into an
 infidel or hypocrite, he will satisfy himself with making the person
 commit lesser sins.
-
-
 
 Jealousy and pride have nothing to do with Heaven
 -------------------------------------------------
@@ -77,7 +67,6 @@ If man becomes proud and conceited, he will become a partner of Satan!
 The Wish of Iblis Fulfilled
 ---------------------------
 
-
 It is narrated that when Satan was ordered out of the Heaven, he
 submitted to Allah (S.w.T.) in the following manner:
 
@@ -108,10 +97,8 @@ Allah (S.w.T.) said, ‘O Adam (a.s.)! Don’t be disturbed! With every
 Satan there will be an angel created by us. These angels will help your
 progeny to guard against the trap set by Satan.’
 
-
 Angels too have Power of Inspiration (Ilhām)
 --------------------------------------------
-
 
 Whenever Satan creates doubts in the hearts of men, the angels inspire
 virtue in their heart. Satan says, ‘Don’t go to the mosque!’ The angel
@@ -136,14 +123,10 @@ virtue and salvation. Allah (S.w.T.) has created man with the faculty of
 making his own decisions for his actions. Allah (S.w.T.) has
 categorically said in the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-فَكُلًّا أَخَذْنَا بِذَنبِهِ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ
-حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُم مَّنْ
-خَسَفْنَا بِهِ الْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ
-اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> فَكُلًّا أَخَذْنَا بِذَنبِهِ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ
+> حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُم مَّنْ
+> خَسَفْنَا بِهِ الْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ
+> اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
 
 ***...and it did not beseem Allah that He should be unjust to them, but
 they were unjust to their own souls. (Sura al‑´Ankabut, 29:40)***
@@ -160,12 +143,8 @@ like their ancestor, Adam (a.s.) and seek forgiveness from Allah
 august status of Prophet-hood and was one of the choicest of Allah
 (S.w.T.). Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ
 
 ***Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of Imran above the nations (Sura Aal-´Imran, 3:33)***
@@ -173,14 +152,9 @@ the descendants of Imran above the nations (Sura Aal-´Imran, 3:33)***
 Repentant men too can achieve the status of *tawwabeen* (penitents) and
 become the dear ones of Allah (S.w.T.). Allah (S.w.T.), as such says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يُحِبُّ التَّوَّابِينَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يُحِبُّ التَّوَّابِينَ
 
 ***…surely Allah loves the penitent. (Sura al-Baqara, 2:222)***
-
 
 Allah (S.w.T.)’s blessing is for men till the end
 -------------------------------------------------
@@ -215,7 +189,6 @@ unfathomable!
 Hasan Basri asks a question and Imam Zayn al-Abidīn (a.s.) replies
 ------------------------------------------------------------------
 
-
 It is narrated that once during the Hajj Hasan Basri said:
 
 *Al-‘ajab kul al-ajab, man najaa kaifa najaa?*
@@ -235,7 +208,6 @@ It is surprising that the unlucky person was deprived of the all
 pervading Blessing of Allah (S.w.T.) that spreads over the entire
 Universe.”
 
-
 Illness before death is a blessing
 ----------------------------------
 
@@ -247,5 +219,4 @@ that sudden deaths are considered a calamity. One who remains in the
 deathbed for a period, say a month, and doesn’t awake to the fact and
 forgets to express penitence for his past sins before dying will be a
 very unfortunate person.
-
 

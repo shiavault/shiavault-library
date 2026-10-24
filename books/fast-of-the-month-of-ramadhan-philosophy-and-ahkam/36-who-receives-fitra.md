@@ -27,4 +27,3 @@ to a *mujtahid* for proper distribution, and it cannot be paid prior to
 the time when it becomes due. The best time to pay it is before noon
 prayers on Eid al-Fitr.
 
-

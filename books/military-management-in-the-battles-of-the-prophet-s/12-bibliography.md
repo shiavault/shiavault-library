@@ -501,4 +501,3 @@ al-Risālah (1980)
 162. Yazbek, Yusuf Ibrāhim: *al-Jawād al-‘Arabi* (al-Tuhfat al-Kanz);
 Paris, al-Nāshirun al-‘Arab (1981)
 
-

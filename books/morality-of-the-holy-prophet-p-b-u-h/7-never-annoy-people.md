@@ -105,4 +105,3 @@ and may Allah bless this transaction.”[^28]
 [^27] Sharaf al-Nabi: 79.
 [^28] Sharaf al-Nabi: 68.
 
-

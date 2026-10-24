@@ -236,4 +236,3 @@ certain tradition are reliable or not.
 
 [^10]: Ahlul Bayt means the Prophet's progeny (as).
 
-

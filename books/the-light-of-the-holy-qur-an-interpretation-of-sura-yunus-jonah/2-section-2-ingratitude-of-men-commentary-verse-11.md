@@ -41,7 +41,6 @@ says:
 "... But We leave those who do not expect the meeting with Us, in their
 contumacy, wandering blindly. "
 
-
 **Commentary : Verse 12**
 
 (12) وَ إِذا مَسَّ الْإِنْسانَ الضُّرُّ دَعانا لِجَنْبِهِ أَوْ قاعِداً
@@ -85,7 +84,6 @@ seeming to the extravagant that which they have been doing. "
 It is this very ingratitude and negligence that has made the indecent
 acts of the mischief makers seemingly beautiful for them.
 
-
 **Commentary : Verse 13**
 
 (13) وَ لَقَدْ أَهْلَكْنَا الْقُرُونَ مِنْ قَبْلِكُمْ لَمَّا ظَلَمُوا
@@ -124,7 +122,6 @@ not believe. The verse continues saying:
 
 "... Thus do We recompense the guilty people. "
 
-
 **Commentary : Verse 14**
 
 (14) ثُمَّ جَعَلْناكُمْ خَلائِفَ فِي الْأَرْضِ مِنْ بَعْدِهِمْ
@@ -147,7 +144,6 @@ previous verse, it is understood that Allah exterminates only those
 whose situation leaves no hope that they will even be probable believers
 in the future, for those who may become believers in the future are not
 involved in this category for such punishments.
-
 
 **Commentary : Verse 15**
 
@@ -204,7 +200,6 @@ Command of the Lord. The holy verse says:
 "... I follow naught but what is revealed unto me; verily, I fear, if I
 were to disobey my Lord the Penalty of a Great Day(to come). '"
 
-
 **Commentary : Verse 16**
 
 (16) قُلْ لَوْ شاءَ اللَّهُ ما تَلَوْتُهُ عَلَيْكُمْ وَ لا أَدْراكُمْ
@@ -235,7 +230,6 @@ can you not notice such an obvious matter The verse continues saying:
 "... Indeed I have lived amongst you a lifetime before it. Have you
 then no sense ?'"
 
-
 **Commentary : Verse 17**
 
 (17) فَمَنْ أَظْلَمُ مِمَّنِ افْتَرى‏ عَلَى اللَّهِ كَذِباً أَوْ
@@ -262,7 +256,6 @@ any event, this action of theirs is a grave offence and those who
 perpetrate it will never be saved. The verse says:
 
 "... Verily the guilty ones will never prosper. "
-
 
 **Commentary : Verse 18**
 
@@ -315,7 +308,6 @@ verse says:
 "... Glory be to Him! High be He exalted above what they associate(with
 Him). "
 
-
 **Commentary : Verse**
 
 (19) وَ ما كانَ النَّاسُ إِلاَّ أُمَّةً واحِدَةً فَاخْتَلَفُوا وَ لَوْ
@@ -358,7 +350,6 @@ meet their painful fate. The verse says:
 
 "... and had not a Word already gone forth from your Lord, their
 differences would have been judged between them. "
-
 
 **Commentary : Verse 20**
 
@@ -405,5 +396,4 @@ Prophet(p.b.u.h.) should expect victory. The verse says:
 
 "... Wait you then, verily I, also with you, will be of those who
 wait'. ..."
-
 

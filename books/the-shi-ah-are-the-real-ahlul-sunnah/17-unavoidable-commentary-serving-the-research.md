@@ -187,4 +187,3 @@ him, his death will be the death of the days of jahiliyya.” Another
 tradition they narrate says: “You are required to hear and obey even if
 the ruler takes your wealth and whips your back.”
 
-

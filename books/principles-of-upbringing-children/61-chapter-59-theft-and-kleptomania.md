@@ -147,4 +147,3 @@ have recourse to physical punishment.
 
 [^1]: Gharar al hukm, p. 181
 
-

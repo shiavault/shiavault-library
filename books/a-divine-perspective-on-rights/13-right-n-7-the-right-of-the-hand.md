@@ -1,23 +1,15 @@
 Right n. 7: The Right of the Hand
 =================================
 
-<blockquote dir="rtl">
-  <p>
-حق اليد
-  </p>
-</blockquote>
+> حق اليد
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ يَدِكَ فَأَنْ لا تَبْسُطَهَا إلَى مَا لا يَحِلُّ لَكَ
-فَتَنَالَ بمَا تَبْسُطُهَا إلَيْهِ مِنَ اللهِ الْعُقُوبَةَ فِي
-الآجِلِ، وَمِنَ النَّاسِ بلِسَانِ اللائِمَةِ فِي الْعَاجِلِ، وَلا
-تَقْبضَهَا مِمَّا افْتَرَضَ اللهُ عَلَيْهَا وَلَكِنْ تُوقّرَِهَا
-بقَبْضِهَا عَنْ كَثِيرٍ مِمَّا يَحِلُّ لَهَا وبَسْطِهَا إلَى كَثِيرٍ
-مِمَّا لَيسَ عَلَيْهَا، فَإذَا هِيَ قَدْ عُقِلَتْ وَشُرِّفَتْ فِي
-الْعَاجِلِ وَجَبَ لَهَا حُسْنُ الثَّوَاب فِي الآجِلِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ يَدِكَ فَأَنْ لا تَبْسُطَهَا إلَى مَا لا يَحِلُّ لَكَ
+> فَتَنَالَ بمَا تَبْسُطُهَا إلَيْهِ مِنَ اللهِ الْعُقُوبَةَ فِي
+> الآجِلِ، وَمِنَ النَّاسِ بلِسَانِ اللائِمَةِ فِي الْعَاجِلِ، وَلا
+> تَقْبضَهَا مِمَّا افْتَرَضَ اللهُ عَلَيْهَا وَلَكِنْ تُوقّرَِهَا
+> بقَبْضِهَا عَنْ كَثِيرٍ مِمَّا يَحِلُّ لَهَا وبَسْطِهَا إلَى كَثِيرٍ
+> مِمَّا لَيسَ عَلَيْهَا، فَإذَا هِيَ قَدْ عُقِلَتْ وَشُرِّفَتْ فِي
+> الْعَاجِلِ وَجَبَ لَهَا حُسْنُ الثَّوَاب فِي الآجِلِ.
 
 **And the right of your hand is that you stretch it not toward that
 which is unlawful to you. Should you do so, you will be chastised by God
@@ -34,13 +26,9 @@ Hand is used in several contexts:
 1 - It is sometimes used to represent possession of rule as in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء
-وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن
-تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء
+> وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن
+> تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***Say: "O God! Lord of Power (and Rule), Thou givest power to whom Thou
 pleasest, and Thou strippest off power from whom Thou pleasest: Thou
@@ -51,17 +39,13 @@ power.” [The Holy Qur’an, Al-i-Imran 3:26]***
 2 - In other places, it is used to indicate stinginess or generosity as
 in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ يَدُ اللّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ
-وَلُعِنُواْ بِمَا قَالُواْ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ
-يَشَاء وَلَيَزِيدَنَّ كَثِيراً مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ طُغْيَانًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ
-وَالْبَغْضَاء إِلَى يَوْمِ الْقِيَامَةِ كُلَّمَا أَوْقَدُواْ نَارًا
-لِّلْحَرْبِ أَطْفَأَهَا اللّهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا
-وَاللّهُ لاَ يُحِبُّ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ يَدُ اللّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ
+> وَلُعِنُواْ بِمَا قَالُواْ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ
+> يَشَاء وَلَيَزِيدَنَّ كَثِيراً مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ طُغْيَانًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاء إِلَى يَوْمِ الْقِيَامَةِ كُلَّمَا أَوْقَدُواْ نَارًا
+> لِّلْحَرْبِ أَطْفَأَهَا اللّهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا
+> وَاللّهُ لاَ يُحِبُّ الْمُفْسِدِينَ
 
 ***The Jews say: "God's hand is tied up." Be their hands tied up and be
 they accursed for the (blasphemy) they utter. Nay, both His hands are
@@ -76,12 +60,8 @@ Holy Qur’an, al-Ma’ida 5:64]***
 3 - In other places, it is used to refer to possession of power as in
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي
-الْأَيْدِي وَالْأَبْصَارِ
-  </p>
-</blockquote>
+> وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي
+> الْأَيْدِي وَالْأَبْصَارِ
 
 ***“And commemorate Our Servants Abraham, Isaac, and Jacob, possessors
 of Power and Vision.” [The Holy Qur’an, Saad 38:45]***
@@ -94,12 +74,8 @@ have a compensation equal to full compensation for one’s life, they are
 also considered to be the source of corruption as we can read in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
-النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
+> النَّاسِ لِيُذِيقَهُم بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
 
 ***“Mischief has appeared on land and sea because of (the meed) that the
 hands of men have earned, that (God) may give them a taste of some of
@@ -110,12 +86,8 @@ Undoubtedly crimes are committed using hands, and affect both the
 individuals and the society. There will also be reactions to these
 deeds. We read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ
-وَيَعْفُو عَن كَثِيرٍ
-  </p>
-</blockquote>
+> وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ
+> وَيَعْفُو عَن كَثِيرٍ
 
 ***“Whatever misfortune happens to you is because of the things your
 hands have wrought, and for many (of them) He grants forgiveness.” [The
@@ -125,12 +97,8 @@ Thus, we realize that many misfortunes that we experience are a direct
 result of our own deeds, and are sometimes divine punishment. We read in
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنفِقُواْ فِي سَبِيلِ اللّهِ وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى
-التَّهْلُكَةِ وَأَحْسِنُوَاْ إِنَّ اللّهَ يُحِبُّ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> وَأَنفِقُواْ فِي سَبِيلِ اللّهِ وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى
+> التَّهْلُكَةِ وَأَحْسِنُوَاْ إِنَّ اللّهَ يُحِبُّ الْمُحْسِنِينَ
 
 ***“And spend of your substance in the cause of God, and make not your
 own hands contribute to (your) destruction; but do good; for God loveth
@@ -141,16 +109,12 @@ in our own destruction. We are encouraged to give charity and do good
 deeds. Sometimes we use our hands with which we must build our homes to
 destroy them as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن
-دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا وَظَنُّوا
-أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ اللَّهُ
-مِنْ حَيْثُ لَمْ يَحْتَسِبُوا وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ
-يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ
-فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن
+> دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا وَظَنُّوا
+> أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ اللَّهُ
+> مِنْ حَيْثُ لَمْ يَحْتَسِبُوا وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ
+> يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ
+> فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
 
 ***“It is He Who got out the Unbelievers among the People of the Book
 from their homes at the first gathering (of the forces). Little did ye
@@ -172,13 +136,9 @@ murdering of one by the other. When God accepted the offering from one
 of them but rejected that of the other one, the latter threatened to
 kill the former. In response the brother said:
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ بَسَطْتَ إِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا أَنَا بِبَاسِطٍ
-يَدِيَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّي أَخَافُ اللَّهَ رَبَّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> لَئِنْ بَسَطْتَ إِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا أَنَا بِبَاسِطٍ
+> يَدِيَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّي أَخَافُ اللَّهَ رَبَّ
+> الْعَالَمِينَ
 
 ***“If thou dost stretch thy hand against me, to slay me, it is not for
 me to stretch my hand against thee to slay thee: for I do fear God, the
@@ -188,14 +148,10 @@ Now let us look at the traditions about hands. In *Usul al-Kafi*, there
 is a whole chapter on the hand and other body parts, and what God has
 made incumbent upon them. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-وَفَرَضَ اللهُ عَلى اليَدَينِ أنْ لا يَبْطِشَ بِهِما إلى مَا حَرَّمَ
-اللهُ وأنْ يَبْطِشَ بِهِما إلى ما أَمَرَ اللهُ عَزَّ وَجَلَّ وَفَرَضَ
-اللهُ عَليْهِما مِنَ الصَّدَقَةِ وَصِلَةِ الرَّحِمِ والجِهادِ في
-سَبِيلِ اللهِ والطَّهُورِ للصَّلاةِ
-  </p>
-</blockquote>
+> وَفَرَضَ اللهُ عَلى اليَدَينِ أنْ لا يَبْطِشَ بِهِما إلى مَا حَرَّمَ
+> اللهُ وأنْ يَبْطِشَ بِهِما إلى ما أَمَرَ اللهُ عَزَّ وَجَلَّ وَفَرَضَ
+> اللهُ عَليْهِما مِنَ الصَّدَقَةِ وَصِلَةِ الرَّحِمِ والجِهادِ في
+> سَبِيلِ اللهِ والطَّهُورِ للصَّلاةِ
 
 *“And God made it incumbent upon the hands not to extend out for what
 God has forbidden, and do what the Almighty God has decreed for them
@@ -204,13 +160,9 @@ the way of God, and making ablutions for the prayers.”*[^2]
 
 Then Imam Sadiq recited the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا قُمْتُمْ إِلَى الصَّلاةِ
-فاغْسِلُواْ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُواْ
-بِرُؤُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَينِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا قُمْتُمْ إِلَى الصَّلاةِ
+> فاغْسِلُواْ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُواْ
+> بِرُؤُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَينِ
 
 ***“O ye who believe! When ye prepare for prayer, wash your faces, and
 your hands (and arms) to the elbows; rub your heads; and your feet to
@@ -225,13 +177,9 @@ Pledge of Allegiance with Hands
 The hand is used to pledge allegiance to someone. Consider the following
 verse in this regard:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
-الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ
-عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا
-  </p>
-</blockquote>
+> لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
+> الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ
+> عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا
 
 ***“God's Good Pleasure was on the Believers when they swore Fealty to
 thee under the Tree: He knew what was in their hearts, and He sent down
@@ -246,14 +194,10 @@ accepts to protect and defend him. Ibn Khaldoon wrote: “When they wanted
 to pledge allegiance with the leader, they placed their hands in his
 hands, like what a seller and a buyer do.”[^3]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
-اللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَى
-نَفْسِهِ وَمَنْ أَوْفَى بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ
-أَجْرًا عَظِيما
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
+> اللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَى
+> نَفْسِهِ وَمَنْ أَوْفَى بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ
+> أَجْرًا عَظِيما
 
 ***“Verily those who plight their fealty to thee do no less than plight
 their fealty to God: the Hand of God is over their hands: then anyone
@@ -269,12 +213,8 @@ allegiance of the people with the Prophet and the Immaculate Imams was
 meant to indicate their loyalty to them, and its breach was considered a
 great sin. Imam Musa ibn Ja’far said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ مُوبِقاتٌ: نَكْثُ الصَّفْقَةِ وَتَرْكُ السُّنَّةِ وَفِراقُ
-الجَماعَةِ.
-  </p>
-</blockquote>
+> ثَلاثٌ مُوبِقاتٌ: نَكْثُ الصَّفْقَةِ وَتَرْكُ السُّنَّةِ وَفِراقُ
+> الجَماعَةِ.
 
 *“There are three sins which will cause one’s destruction: breaching
 one’s allegiance, abandoning the tradition (of the Prophet), and
@@ -292,14 +232,10 @@ One of the uses for hands mentioned in the Qur’an is the payment of
 under the protection of the Islamic state. The tax is paid in return for
 the protection they receive. We read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-قَاتِلُواْ الَّذِينَ لاَ يُؤْمِنُونَ بِاللّهِ وَلاَ بِالْيَوْمِ
-الآخِرِ وَلاَ يُحَرِّمُونَ مَا حَرَّمَ اللّهُ وَرَسُولُهُ وَلاَ
-يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُواْ الْكِتَابَ حَتَّى
-يُعْطُواْ الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
-  </p>
-</blockquote>
+> قَاتِلُواْ الَّذِينَ لاَ يُؤْمِنُونَ بِاللّهِ وَلاَ بِالْيَوْمِ
+> الآخِرِ وَلاَ يُحَرِّمُونَ مَا حَرَّمَ اللّهُ وَرَسُولُهُ وَلاَ
+> يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُواْ الْكِتَابَ حَتَّى
+> يُعْطُواْ الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
 
 ***“Fight those who believe not in God nor the Last Day, nor hold that
 forbidden which hath been forbidden by God and His Apostle, nor
@@ -600,5 +536,4 @@ p.294.
 [^11]: A unit of weight equal to 4.25 grams.
 
 [^12]: Rawzat al-Jinnat, v.1, p.271.
-
 

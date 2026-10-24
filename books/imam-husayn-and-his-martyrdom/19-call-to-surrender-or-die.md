@@ -25,4 +25,3 @@ feigned compliance. He turned a little round to the left, the way that
 would have led him to Yazid himself, at Damascus. He camped in the plain
 of Karbala’.
 
-

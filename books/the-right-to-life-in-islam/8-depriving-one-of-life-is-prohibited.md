@@ -8,13 +8,9 @@ seeing a believer being murdered."[^1]
 
 Islam promises a killer to stay in hell perpetually:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا
-فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا
-عَظِيمًا
-  </p>
-</blockquote>
+> وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا
+> فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا
+> عَظِيمًا
 
 ***But whoever kills a believer intentionally - his recompense is Hell,
 wherein he will abide eternally, and Allah has become angry with him and
@@ -24,13 +20,9 @@ has cursed him and has prepared for him a great punishment.***
 Furthermore, in the Islamic law, the punishment for killing someone
 without a legal permit in this world is execution. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۗ
-وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا
-يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا
-  </p>
-</blockquote>
+> وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۗ
+> وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا
+> يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا
 
 ***And do not kill the soul which Allah has forbidden, except by right.
 And whoever is killed unjustly - We have given his heir authority, but
@@ -54,12 +46,8 @@ not only to the adults' lives but also to children's right to life.
 This verse of the Holy Quran is indicative of the significance of this
 reality:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ
-نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا
-  </p>
-</blockquote>
+> وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ
+> نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا
 
 ***… And*** ***do*** ***not*** ***kill*** ***your*** ***children***
 ***for*** ***fear*** ***of*** ***poverty.*** ***We*** ***provide***
@@ -127,5 +115,4 @@ P. 44.
 [^6]: Wasa'il al- Shi'ah, vol. 19, p.15.
 
 [^7]: Kanz al-Ummal, Vol.15, P.22.
-
 

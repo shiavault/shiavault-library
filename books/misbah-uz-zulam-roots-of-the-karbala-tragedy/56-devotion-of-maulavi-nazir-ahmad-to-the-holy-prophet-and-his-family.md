@@ -288,4 +288,3 @@ the wealth of the love for Muhammad’s Progeny.
 
 [^1]: Ummahatul Aimma, Pg. 33, line 7.
 
-

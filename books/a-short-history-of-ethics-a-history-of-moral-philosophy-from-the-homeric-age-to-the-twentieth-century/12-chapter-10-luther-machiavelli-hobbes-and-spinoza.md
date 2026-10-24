@@ -905,4 +905,3 @@ Spinoza is thus the first philosopher to make central to ethics two
 concepts which are defined to express the distinctively new values of
 modern society, those of freedom and reason.
 
-

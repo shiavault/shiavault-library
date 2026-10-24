@@ -91,11 +91,11 @@ These are the legislative sources of the Shi\`as since the time of Ali
 ibn Abu Talib and till our time; so, what are the legislative sources of
 "Ahl al-Sunnah wal Jama\`ah"?
 
-[^103] We mean by these the ijtihad of the scholars with reference to
+[^103]: We mean by these the ijtihad of the scholars with reference to
 issues regarding which there is no text and which took place following
 the occultation of the Twelfth Imam .
 
-[^104] According to some narratives, he said, "And besides these (two),
+[^104]: According to some narratives, he said, "And besides these (two),
 I shall follow my own ijtihad," a false addition and a lie invented by
 those who believe in and who follow ijtihad. Imam Ali never, not even
 for one day, did he claim that he followed his own view. Rather, he
@@ -107,8 +107,8 @@ Allah and written in Ali's hand-writing, and we have already discussed
 it in the chapter headed "Ahl al-Sunnah and the Obliteration of the
 Sunnah" in this book.
 
-[^105] This is stated on p. 98 of Al-Fatawa al-Wadiha by Martyr
+[^105]: This is stated on p. 98 of Al-Fatawa al-Wadiha by Martyr
 al-Sadr.
 
-[^106] Ibid.
+[^106]: Ibid.
 

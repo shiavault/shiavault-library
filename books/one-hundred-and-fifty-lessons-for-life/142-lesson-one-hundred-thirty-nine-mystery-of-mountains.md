@@ -3,11 +3,7 @@ Lesson One Hundred Thirty Nine: Mystery Of Mountains!
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-وَ وَتَّدَ بِالصُّخُورِ مَيَدانَ اَرْضِهِ
-  </p>
-</blockquote>
+> وَ وَتَّدَ بِالصُّخُورِ مَيَدانَ اَرْضِهِ
 
 Translation
 -----------
@@ -36,5 +32,4 @@ facts 14 centuries ago which science has discovered much later.
 
 [^1]: Nahjul balaghah, sermon 1. Al-Ihtijaj, vol 1, page 198. Sharh
 Nahjul Balaghah, vol 1, page 57.
-
 

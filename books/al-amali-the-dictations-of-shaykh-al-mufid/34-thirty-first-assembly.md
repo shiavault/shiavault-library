@@ -399,4 +399,3 @@ he may be freed from it and you may be the next victim."
 
 And may Allah bless our master Muhammad, the Prophet and his progeny.
 
-

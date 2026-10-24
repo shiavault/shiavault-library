@@ -21,57 +21,33 @@ superiority of humanity over many other types of creation.
 The reality is that selection is among the acts of Allah, as numerous
 verses indicate:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ عِمْرَانَ
-عَلَى الْعَالَمِين.
-  </p>
-</blockquote>
+> إِنَّ اللهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ عِمْرَانَ
+> عَلَى الْعَالَمِين.
 
 ***“Verily Allah chose Adam, Nuh, the family of Ibrahim, and the family
 of \`Imran over all people.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-قُلِ الحَمْدُ للهِ ِوَسَلاَمٌ عَلَى عِبَادِهِ الَّذِينَ اصْطَفَى.
-  </p>
-</blockquote>
+> قُلِ الحَمْدُ للهِ ِوَسَلاَمٌ عَلَى عِبَادِهِ الَّذِينَ اصْطَفَى.
 
 ***“Say: Praise be to Allah and peace be with those of His servants whom
 He has chosen.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-يَا مَرْيمَ ُإِنَّ اللهَ اصْطَفَاكِ وَطَهَّرَكِ وَاصْطَفَاكِ عَلَى
-نِسَاءِ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> يَا مَرْيمَ ُإِنَّ اللهَ اصْطَفَاكِ وَطَهَّرَكِ وَاصْطَفَاكِ عَلَى
+> نِسَاءِ الْعَالَمِينَ.
 
  ***“O’ Maryam! Verily Allah has chosen you, purified you, and chosen
 you over all the ladies of the world.”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ اصْطَفَاهُ عَلَيْكُمْ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ اصْطَفَاهُ عَلَيْكُمْ.
 
 ***“Surely Allah has chosen him over you.***”[^4]
 
-<blockquote dir="rtl">
-  <p>
-إِنيِّ اصْطَفَيْتُكَ عَلَى النَّاسِ بِرِسَالاَتيِ.
-  </p>
-</blockquote>
+> إِنيِّ اصْطَفَيْتُكَ عَلَى النَّاسِ بِرِسَالاَتيِ.
 
 ***“(O’ Musa) verily I have chosen you over mankind with my
 communications.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-ثمُ َّأَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا.
-  </p>
-</blockquote>
+> ثمُ َّأَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا.
 
 ***“Then We gave the book in inheritance to those of Our servants whom
 We had chosen.”***[^6]
@@ -79,78 +55,42 @@ We had chosen.”***[^6]
 Even Mansur, the ‘Abbasid caliph, would say that Imam Ja‘far al-as-Sadiq
 (peace be upon him) was among those denoted by the verse:
 
-<blockquote dir="rtl">
-  <p>
-اَلَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
-  </p>
-</blockquote>
+> اَلَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
 
 ***“those of Our servants whom We have chosen.”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدِ اصْطَفَيْنَاهُ فيِ الدُّنْيَا.
-  </p>
-</blockquote>
+> وَلَقَدِ اصْطَفَيْنَاهُ فيِ الدُّنْيَا.
 
 ***“And verily We chose him in this world.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ يَصْطَفِي مِنَ المَلاَئِكَةِ رُسُلاً وَمِنَ النَّاسِ.
-  </p>
-</blockquote>
+> اَللهُ يَصْطَفِي مِنَ المَلاَئِكَةِ رُسُلاً وَمِنَ النَّاسِ.
 
 ***“Allah chooses messengers from among the angels and mankind.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-وَإِنهَّمُْ عِنْدَنَا لمَِِنَ المُصْطَفَينَ الأَخْيَارِ.
-  </p>
-</blockquote>
+> وَإِنهَّمُْ عِنْدَنَا لمَِِنَ المُصْطَفَينَ الأَخْيَارِ.
 
 ***“And verily with Us they are from among the chosen and righteous
 ones.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-وَممَِّنْ هَدَيْنَا وَاجْتَبَيْنَا.
-  </p>
-</blockquote>
+> وَممَِّنْ هَدَيْنَا وَاجْتَبَيْنَا.
 
 ***“And from among those whom We guided and chose.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ.
-  </p>
-</blockquote>
+> وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ.
 
 ***“And We chose them and guided them.”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-وَلكِنَّ اللهَ يجَْتَبي مِنْ رُسُلِهِ مَن يَشَاءُ.
-  </p>
-</blockquote>
+> وَلكِنَّ اللهَ يجَْتَبي مِنْ رُسُلِهِ مَن يَشَاءُ.
 
 ***“But Allah chooses whom He wishes among His messengers” (and conveys
 to them those hidden realities which are necessary for their leadership
 position).***[^13]
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ يجَْتَبي إِلَيْهِ مَن يَشَاءُ.
-  </p>
-</blockquote>
+> اَللهُ يجَْتَبي إِلَيْهِ مَن يَشَاءُ.
 
 ***“Allah chooses whomsoever He wishes.”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-وَكَذلِكَ يَجْتَبِيكَ رَبُّكَ.
-  </p>
-</blockquote>
+> وَكَذلِكَ يَجْتَبِيكَ رَبُّكَ.
 
 ***“And thus does thy Lord choose thee.”***[^15]
 
@@ -190,15 +130,11 @@ to exist.
 This is though the Noble Qur’an itself speaks thus about the order and
 minute coordination existing among the parts of the universe:
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّمْسُ تجَرِي لِمُسْتَقَرٍّ لهَاَ ذلِكَ تَقْدِيرُ الْعَزِيزِِ
-الْعَلِيمِ  وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتىَّ عَادَ
-كَالْعُرْجُونِ الْقَدِيمِ  لاَ الشَّمْسُ يَنْبَغِي لهَاَ أَنْ
-تُدْرِكَ الْقَمَرَ وَلاَ اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فيِ
-فَلَكٍ يَسْبَحُونَ.
-  </p>
-</blockquote>
+> وَالشَّمْسُ تجَرِي لِمُسْتَقَرٍّ لهَاَ ذلِكَ تَقْدِيرُ الْعَزِيزِِ
+> الْعَلِيمِ  وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتىَّ عَادَ
+> كَالْعُرْجُونِ الْقَدِيمِ  لاَ الشَّمْسُ يَنْبَغِي لهَاَ أَنْ
+> تُدْرِكَ الْقَمَرَ وَلاَ اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فيِ
+> فَلَكٍ يَسْبَحُونَ.
 
 ***“And the sun travels in its appointed path; that is the decree of the
 Mighty, the Knowing. And We have appointed phases for the moon until it
@@ -247,13 +183,9 @@ ignorance or with ulterior motives – that the selection of the progeny
 was Divine. The Noble Qur’an, in the course of a verse, mentions them as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسَدُونَ النَّاسَ عَلَى مَا آتَاهُمُ اللهُ مِنْ فَضْلِهِ
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.
-  </p>
-</blockquote>
+> أَمْ يَحْسَدُونَ النَّاسَ عَلَى مَا آتَاهُمُ اللهُ مِنْ فَضْلِهِ
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.
 
  ***“Or are they envious of the people (the Prophet and his progeny) on
 account of what Allah has granted them out of His abundance? Verily, we
@@ -268,11 +200,7 @@ evident in all of the great and small creations of the Lord of the
 Universe. Therefore, precisely as we read in one of the verses of the
 Noble Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ.
-  </p>
-</blockquote>
+> اَللهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ.
 
 ***“Allah best knows where to place His messengership.”***[^18]
 
@@ -317,5 +245,4 @@ and complexities.
 [^17]: Surah an-Nisa’ (4), Verse 54
 
 [^18]: Suurah al-An\`am (6), Verse 124
-
 

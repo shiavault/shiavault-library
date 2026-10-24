@@ -89,4 +89,3 @@ Wolfson, H. A. 1965: "Mu'ammar's theory of ma'na," in*Arabic and Islamic
 Studies in Honor of Hamilton A.R. Gibb* (Leiden: E. J. Brill), pp.
 673-88.
 
-

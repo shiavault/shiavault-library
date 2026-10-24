@@ -11,15 +11,11 @@ best of Creators.
 
 In Surat al-Mu\`minūn, verses 12-14, He states:
 
-<blockquote dir="rtl">
-  <p>
- وَلَقَدْ خَلَقْنَا الإِِنْسَانَ مِنْ سُلاَلَةٍ مِّــنْ طِــينٍ ثُمَّ
-جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ ثُمَّ خَلَقْنَا النُّطْفَةَ
-عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
-عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْماً ثُمَّ أَنشَأْنَاهُ خَلْقًا
-آخَرَ فَتَبَارَكَ اللٌّهُ أَحْسَنُ الْخَالِقِينَ 
-  </p>
-</blockquote>
+>  وَلَقَدْ خَلَقْنَا الإِِنْسَانَ مِنْ سُلاَلَةٍ مِّــنْ طِــينٍ ثُمَّ
+> جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ ثُمَّ خَلَقْنَا النُّطْفَةَ
+> عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
+> عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْماً ثُمَّ أَنشَأْنَاهُ خَلْقًا
+> آخَرَ فَتَبَارَكَ اللٌّهُ أَحْسَنُ الْخَالِقِينَ 
 
 ***“Certainly We created the human being from an extract of clay. Then
 We made him a drop of (seminal) fluid (lodged) in a secure abode. Then
@@ -183,11 +179,7 @@ The Prophet Muĥammad (S) has said that: “Paradise is under the feet of
 the mother.”[^7]  
  Allāh (SwT) states in the Noble Qur\`an, in Surat al-Fāťir, Verse 11:
 
-<blockquote dir="rtl">
-  <p>
- وَمَا تَحْمِلُ مِنْ أُنْـثَى وَلاَ تَضَعُ إِلاَّ بِعِلْمِهِ 
-  </p>
-</blockquote>
+>  وَمَا تَحْمِلُ مِنْ أُنْـثَى وَلاَ تَضَعُ إِلاَّ بِعِلْمِهِ 
 
 ***“And no female conceives or delivers except with His knowledge.”***
 
@@ -205,21 +197,13 @@ everyone must respect and revere them. Allāh (SwT)  recognizes and
 mentions the difficulties borne by mothers:  
  In Surat Luqmān, Verse 14, He states:
 
-<blockquote dir="rtl">
-  <p>
- حَمَلَتْهُ أُمُّهُ وَهْناً عَلى وَهْنٍ 
-  </p>
-</blockquote>
+>  حَمَلَتْهُ أُمُّهُ وَهْناً عَلى وَهْنٍ 
 
 ***“His mother carried him through weakness upon weakness.”***
 
 In Surat al-Aĥqāf, Verse 15, He states:
 
-<blockquote dir="rtl">
-  <p>
- حَمَلَتْهُ أُمُّهُ كُرْهاً وَوَضَعَتْهُ كُرْهاً 
-  </p>
-</blockquote>
+>  حَمَلَتْهُ أُمُّهُ كُرْهاً وَوَضَعَتْهُ كُرْهاً 
 
 ***“His mother has carried him in travail, and bore him in travail.”***
 
@@ -330,22 +314,14 @@ societies, but also in the history of the world mentions the purity of
 two noble Prophets, Yaĥyā bin Zakariya (as) and °Isā bin Maryam (as),
 from the day of their birth:
 
-<blockquote dir="rtl">
-  <p>
- وَسَلاَمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ
-حَيًّا 
-  </p>
-</blockquote>
+>  وَسَلاَمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ
+> حَيًّا 
 
 “Peace be to him, the day he was born, and the day he dies, and the day
 he is raised alive!”[^20]
 
-<blockquote dir="rtl">
-  <p>
- وَالسَّــلاَمُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ
-أُبْعَثُ حَيًّا 
-  </p>
-</blockquote>
+>  وَالسَّــلاَمُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ
+> أُبْعَثُ حَيًّا 
 
 “Peace is to me the day I was born, and the day I die, and he day I am
 raised alive.”[^21]
@@ -681,22 +657,14 @@ stomach.
 • Recite Ŝalawāt (with Wa Ajjil Farajahum added at the end) on Thursday
 140 times and on Friday 100 times:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
-فَرَجَهُمْ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
+> فَرَجَهُمْ
 
 • Recite the following long Ŝalawāt with the hand on the stomach:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
-فَرَجَهُمْ وَ أَهْلِكْ عَدُوَّهُمْ مِنَ الْجِنِّ وَ الإِِنْسِ مِنَ
-الأََوَّلِينَ وَ الآخِرِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
+> فَرَجَهُمْ وَ أَهْلِكْ عَدُوَّهُمْ مِنَ الْجِنِّ وَ الإِِنْسِ مِنَ
+> الأََوَّلِينَ وَ الآخِرِينَ.
 
 “O Allāh (SwT)! Bless Muĥammad and the family of Muĥammad, and hasten
 their release from suffering, and destroy their enemy, and curse their
@@ -716,13 +684,9 @@ as the Chinese date) everyday and eat them on an empty stomach.
 • Recite the long Ŝalawāt before every Ŝalāt keeping the hands on the
 stomach:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
-فَرَجَهُمْ وَ أَهْلِكْ عَدُوَّهُمْ مِنَ الْجِنِّ وَ الإِِنْسِ مِنَ
-الأََوَّلِينَ وَ الآخِرِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
+> فَرَجَهُمْ وَ أَهْلِكْ عَدُوَّهُمْ مِنَ الْجِنِّ وَ الإِِنْسِ مِنَ
+> الأََوَّلِينَ وَ الآخِرِينَ.
 
 “O Allāh (SwT)! Bless Muĥammad and the family of Muĥammad, and hasten
 their release from suffering, and destroy their enemy, and curse their
@@ -747,13 +711,9 @@ empty stomach.[^69]
 • After daily prayers, recite Surat al-Kawthar (108), Surat al-Qadr (97)
 and the long Ŝalawāt with the hand on the stomach:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
-فَرَجَهُمْ وَ أَهْلِكْ عَدُوَّهُمْ مِنَ الْجِنِّ وَ الإِِنْسِ مِنَ
-الأََوَّلِينَ وَ الآخِرِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ عَجِّلْ
+> فَرَجَهُمْ وَ أَهْلِكْ عَدُوَّهُمْ مِنَ الْجِنِّ وَ الإِِنْسِ مِنَ
+> الأََوَّلِينَ وَ الآخِرِينَ.
 
 “O Allāh (SwT)! Bless Muĥammad and the family of Muĥammad, and hasten
 their release from suffering, and destroy their enemy, and curse their
@@ -761,12 +721,8 @@ enemies from among the jinn and humankind from the beginning to the end
 (of time).”[^70]  
  • Recite:
 
-<blockquote dir="rtl">
-  <p>
- رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
-أَعْـيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا 
-  </p>
-</blockquote>
+>  رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
+> أَعْـيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا 
 
 “Our Lord! Grant us comfort in our spouses and descendants, and make us
 Imāms of the Godwary.”[^71]
@@ -774,11 +730,7 @@ Imāms of the Godwary.”[^71]
 • Recite Astaghfirullaha Rabbi Wa Atubu Ilaik (I seek forgiveness from
 Allāh (SwT)  and turn to Him) 7 times:
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ رَبِّـي وَ أَتُوبُ إِلَيْكَ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ رَبِّـي وَ أَتُوبُ إِلَيْكَ
 
 • Recite Ŝalawāt 140 times after prayers.
 
@@ -940,58 +892,38 @@ weeks in a pregnancy.
 
 1. The Du°ā of Prophet (S) Ibrāhīm:
 
-<blockquote dir="rtl">
-  <p>
- رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ 
-  </p>
-</blockquote>
+>  رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ 
 
 “My Lord! Give me (an heir), one of the righteous.”[^76]
 
 2. Another Du°ā of Prophet Ibrāhīm (as):
 
-<blockquote dir="rtl">
-  <p>
- رَبِّ اجْــعَـلْـنِي مُقِيمَ الصَّلاَةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا
-وَتَقَبَّلْ دُعَاءِ 
-  </p>
-</blockquote>
+>  رَبِّ اجْــعَـلْـنِي مُقِيمَ الصَّلاَةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا
+> وَتَقَبَّلْ دُعَاءِ 
 
 “My Lord! Make me a maintainer of the prayer, and my descendants (too).
 Our Lord! Accept my supplication.”[^77]
 
 3. The Du°ā of Prophet Zakariya(as):
 
-<blockquote dir="rtl">
-  <p>
- رَبِّ هَبْ لِي مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ
-الدُّعَاءِ 
-  </p>
-</blockquote>
+>  رَبِّ هَبْ لِي مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ
+> الدُّعَاءِ 
 
 “My Lord! Grant me a good offspring from you! Indeed you hear all
 supplications”[^78]
 
 4. The Du°ā of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
- وَأَصْلِحْ لِي فِــي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي
-مِنَ الْمُسْلِمِينَ 
-  </p>
-</blockquote>
+>  وَأَصْلِحْ لِي فِــي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي
+> مِنَ الْمُسْلِمِينَ 
 
 “And invest my descendants with righteousness. Indeed I have turned to
 you in penitence, and I am one of the Muslims.”[^79]
 
 5. Another Du°ā of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
- رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
-أَعْـيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا 
-  </p>
-</blockquote>
+>  رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
+> أَعْـيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا 
 
 “Our Lord! Grant us comfort in our spouses and descendants, and make us
 Imāms of the Godwary.”[^80]
@@ -1001,36 +933,24 @@ Imām Zain al-°Abidīn’s (as) supplication for righteous children[^81]
 Sajjādiya, is a highly recommended Du°ā to be recited during pregnancy
 and after:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ
 
 In the Name of Allah, the Most Gracious, the Most Merciful
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ وَ مُنَّ عَلَيَّ بِبَقَآءِ وُلْدِي وَ بِإِصْلاَحِهِمْ لِي
-و بِإِمْـتَاعِي بِهِمْ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ وَ مُنَّ عَلَيَّ بِبَقَآءِ وُلْدِي وَ بِإِصْلاَحِهِمْ لِي
+> و بِإِمْـتَاعِي بِهِمْ.
 
 “O God, be kind to me through the survival of my children, setting them
 right for me, and allowing me to enjoy them!
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهِي امْدُدْ لِي فِي أَعْمَارِهِمْ، وَ زِدْ لِي فِي آجَالِهِمْ، وَ
-رَبِّ لِي صَغِيرَهُمْ، وَ قَوِّ لِي ضَعِيفَهُمْ، وَ أَصِحَّ لِي
-أَبْدَانَهُمْ وَ أَدْيَانَهُمْ وَ أَخْلاَقَهُمْ، وَ عَافِهِمْ فِي
-أَنْـفُسِهِمْ وَ فِي جَوَارِحِهِمْ وَ فِي كُلِّ مَا عُنِـيتُ بِهِ مِنْ
-أَمْرِهِمْ، وَ أَدْرِرْ لِي وَ عَلَى يَدِي أَرْزَاقَهُمْ. وَ
-اجْعَلْهُمْ أَبْرَاراً أَتْقِيَآءَ بُصَرَآءَ سَامِعِينَ مُطِيعِينَ
-لَكَ، وَ لِأَوْلِيَائِكَ مُحِبِّينَ مُنَاصِحِينَ، وَ لِجَمِيعِ
-أَعْدَائِكَ مُعَانِدِينَ وَ مُبْغِضِينَ، آمِينَ.
-  </p>
-</blockquote>
+> إِلٌهِي امْدُدْ لِي فِي أَعْمَارِهِمْ، وَ زِدْ لِي فِي آجَالِهِمْ، وَ
+> رَبِّ لِي صَغِيرَهُمْ، وَ قَوِّ لِي ضَعِيفَهُمْ، وَ أَصِحَّ لِي
+> أَبْدَانَهُمْ وَ أَدْيَانَهُمْ وَ أَخْلاَقَهُمْ، وَ عَافِهِمْ فِي
+> أَنْـفُسِهِمْ وَ فِي جَوَارِحِهِمْ وَ فِي كُلِّ مَا عُنِـيتُ بِهِ مِنْ
+> أَمْرِهِمْ، وَ أَدْرِرْ لِي وَ عَلَى يَدِي أَرْزَاقَهُمْ. وَ
+> اجْعَلْهُمْ أَبْرَاراً أَتْقِيَآءَ بُصَرَآءَ سَامِعِينَ مُطِيعِينَ
+> لَكَ، وَ لِأَوْلِيَائِكَ مُحِبِّينَ مُنَاصِحِينَ، وَ لِجَمِيعِ
+> أَعْدَائِكَ مُعَانِدِينَ وَ مُبْغِضِينَ، آمِينَ.
 
 My God, make long their lives for me, increase their terms, bring up the
 smallest for me, strengthen the weakest for me, rectify for me their
@@ -1041,16 +961,12 @@ Make them pious, fearing, insightful, hearing, and obedient toward You,
 loving and well-disposed toward Your friends, and stubbornly resistant
 and full of hate toward all Your enemies! Amen!
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اشْدُدْ بِهِمْ عَضُدِي، وَ أَقِمْ بِهِمْ أَوَدِي، وَ
-كَثِّرْ بِهِمْ عَدَدِي، وَ زَيِّنْ بِهِمْ مَحْضَرِي، وَ أَحْيِ بِهِمْ
-ذِكْرِي، وَ اكْفِنِي بِهِمْ فِي غَيْـبَتِي، وَ أَعِنِّي بِهِمْ عَلَى
-حَاجَتِي، وَ اجْعَلْهُمْ لِي مُحِبِّينَ، وَ عَلَيَّ حَدِبِينَ
-مُقْبِلِينَ مُسْتَقِيمِينَ لِي، مُطِيعِينَ، غَيْرَ عَاصِينَ وَ لاَ
-عَاقِّينَ وَ لاَ مُخَالِفِينَ وَ لاَ خَاطِئِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اشْدُدْ بِهِمْ عَضُدِي، وَ أَقِمْ بِهِمْ أَوَدِي، وَ
+> كَثِّرْ بِهِمْ عَدَدِي، وَ زَيِّنْ بِهِمْ مَحْضَرِي، وَ أَحْيِ بِهِمْ
+> ذِكْرِي، وَ اكْفِنِي بِهِمْ فِي غَيْـبَتِي، وَ أَعِنِّي بِهِمْ عَلَى
+> حَاجَتِي، وَ اجْعَلْهُمْ لِي مُحِبِّينَ، وَ عَلَيَّ حَدِبِينَ
+> مُقْبِلِينَ مُسْتَقِيمِينَ لِي، مُطِيعِينَ، غَيْرَ عَاصِينَ وَ لاَ
+> عَاقِّينَ وَ لاَ مُخَالِفِينَ وَ لاَ خَاطِئِينَ.
 
 O God, through them strengthen my arm, straighten my burdened back,
 multiply my number, adorn my presence, keep alive my memory, suffice me
@@ -1058,29 +974,21 @@ when I am away, help me in my needs, and make them loving toward me,
 affectionate, approaching, upright, obedient, never disobedient,
 disrespectful, opposed, or offenders!”
 
-<blockquote dir="rtl">
-  <p>
-وَ أَعِنِّي عَلَى تَرْبِيَتِهِمْ وَ تَأْدِيـبِهِمْ، وَ بِرِّهِمْ،وَ
-هَبْ لِي مِنْ لَدُنْكَ مَعَهُمْ أَوْلاَداً ذُكُوراً، وَ اجْعَلْ ذٌلِكَ
-خَيْراً لِي، وَ اجْعَلْهُمْ لِي عَوْناً عَلَى مَا سَأَلْتُكَ.
-  </p>
-</blockquote>
+> وَ أَعِنِّي عَلَى تَرْبِيَتِهِمْ وَ تَأْدِيـبِهِمْ، وَ بِرِّهِمْ،وَ
+> هَبْ لِي مِنْ لَدُنْكَ مَعَهُمْ أَوْلاَداً ذُكُوراً، وَ اجْعَلْ ذٌلِكَ
+> خَيْراً لِي، وَ اجْعَلْهُمْ لِي عَوْناً عَلَى مَا سَأَلْتُكَ.
 
 Help me in their upbringing, their education, and my devotion toward
 them, give me among them from Yourself male children, make that a good
 for me, and make them a help for me in that which I ask from You!
 
-<blockquote dir="rtl">
-  <p>
-وَ أَعِذْنِي وَ ذُرِّيَّتِي مِنَ الشَّيْطَانِ الرَّجِيمِ، فَإِنَّكَ
-خَلَقْتَنَا وَ أَمَرْتَنَا وَ نَهَيْتَنَا وَ رَغَّبْتَنَا فِي ثَوَابِ
-مَا أَمَرْتَنَا وَ رَهَّبْتَنَا عِقَابَهُ، وَ جَعَلْتَ لَنَا عَدُوّاً
-يَكِيدُنَا، سَلَّطْتَهُ مِنَّا عَلَى مَا لَمْ تُسَلِّطْنَا عَلَيْهِ
-مِنْهُ، أَسْكَنْتَهُ صُدُورَنَا، وَ أَجْرَيْتَهُ مَجَارِيَ دِمَائِنَا،
-لاَ يَغْفُلُ إِنْ غَفَلْنَا، وَ لاَ يَنْسَي إِنْ نَسِينَا،
-يُؤْمِـنُنَا عِقَابَكَ، وَ يُخَوِّفُنَا بِغَيْرِكَ.
-  </p>
-</blockquote>
+> وَ أَعِذْنِي وَ ذُرِّيَّتِي مِنَ الشَّيْطَانِ الرَّجِيمِ، فَإِنَّكَ
+> خَلَقْتَنَا وَ أَمَرْتَنَا وَ نَهَيْتَنَا وَ رَغَّبْتَنَا فِي ثَوَابِ
+> مَا أَمَرْتَنَا وَ رَهَّبْتَنَا عِقَابَهُ، وَ جَعَلْتَ لَنَا عَدُوّاً
+> يَكِيدُنَا، سَلَّطْتَهُ مِنَّا عَلَى مَا لَمْ تُسَلِّطْنَا عَلَيْهِ
+> مِنْهُ، أَسْكَنْتَهُ صُدُورَنَا، وَ أَجْرَيْتَهُ مَجَارِيَ دِمَائِنَا،
+> لاَ يَغْفُلُ إِنْ غَفَلْنَا، وَ لاَ يَنْسَي إِنْ نَسِينَا،
+> يُؤْمِـنُنَا عِقَابَكَ، وَ يُخَوِّفُنَا بِغَيْرِكَ.
 
 Give me and my progeny refuge from the accursed Satan, for You have
 created us, commanded us, and prohibited us, and made us desire the
@@ -1092,15 +1000,11 @@ heedless, though we be heedless, he does not forget, though we forget;
 he makes us feel secure from Your punishment and fills us with fear
 toward other than You.
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هَمَمْنَا بِفَاحِشَةٍ شَجَّعَنَا عَلَيْهَا، وَ إِنْ هَمَمْنَا
-بِعَمَلٍ صَالِحٍ ثَـبَّطَنَا عَنْهُ، يَتَعَرَّضُ لَنَا بِالشَّهَوَاتِ،
-وَ يَنْصِبُ لَنَا بِالشُّبُهَاتِ، إِنْ وَعَدَنَا كَذَبَنَا، وَ إِنْ
-مَنَّانَا أَخْلَفَنَا، وَ إِلاَّ تَصْرِفْ عَنَّا كَيْدَهُ يُضِلَّنَا،
-وَ إِلاَّ تَقِنَا خَبَالَهُ يَسْتَزِلَّنَا.
-  </p>
-</blockquote>
+> إِنْ هَمَمْنَا بِفَاحِشَةٍ شَجَّعَنَا عَلَيْهَا، وَ إِنْ هَمَمْنَا
+> بِعَمَلٍ صَالِحٍ ثَـبَّطَنَا عَنْهُ، يَتَعَرَّضُ لَنَا بِالشَّهَوَاتِ،
+> وَ يَنْصِبُ لَنَا بِالشُّبُهَاتِ، إِنْ وَعَدَنَا كَذَبَنَا، وَ إِنْ
+> مَنَّانَا أَخْلَفَنَا، وَ إِلاَّ تَصْرِفْ عَنَّا كَيْدَهُ يُضِلَّنَا،
+> وَ إِلاَّ تَقِنَا خَبَالَهُ يَسْتَزِلَّنَا.
 
 If we are about to commit an indecency, he gives us courage to do so,
 and if we are about to perform a righteous work, he holds us back from
@@ -1110,29 +1014,21 @@ them. If You do not turn his trickery away from us, he will misguide us,
 and if You do not protect us from his corruption, he will cause us to
 slip.
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ فَاقْهَرْ سُلْطَانَهُ عَنَّا بِسُلْطَانِكَ حَتَّى
-تَحْبِسَهُ عَنَّا بِكَثْرَةِ الدُّعَاءِ لَكَ فَنُصْبِحَ مِنْ كَيْدِهِ
-فِي الْمَعْصُومِينَ بِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ فَاقْهَرْ سُلْطَانَهُ عَنَّا بِسُلْطَانِكَ حَتَّى
+> تَحْبِسَهُ عَنَّا بِكَثْرَةِ الدُّعَاءِ لَكَ فَنُصْبِحَ مِنْ كَيْدِهِ
+> فِي الْمَعْصُومِينَ بِكَ.
 
 O God, so defeat his authority over us through Your authority, such that
 You holdest him back from us through the frequency of our supplication
 to You and we leave his trickery and rise up among those preserved by
 you from sin!
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَعْطِنِي كُلَّ سُؤْلِي، وَ اقْضِ لِي حَوَائِجِي، وَ لاَ
-تَمْنَعْنِي الإِِجَابَةَ وَ قَدْ ضَمِنْتَهَا لِي، وَ لاَ تَحْجُبْ
-دُعَائِي عَنْكَ وَ قَدْ أَمَرْتَنِي بِهِ ، وَ امْـنُنْ عَلَيَّ بِكُلِّ
-مَا يُصْلِحُنِي فِي دُنْـيَايَ وَ آخِرَتِي مَا ذَكَرْتُ مِنْهُ وَ مَا
-نَسِيتُ، أَوْ أَظْهَرْتُ أَوْ أَخْفَيْتُ أَوْ أَعْلَنْتُ أَوْ
-أَسْرَرْتُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَعْطِنِي كُلَّ سُؤْلِي، وَ اقْضِ لِي حَوَائِجِي، وَ لاَ
+> تَمْنَعْنِي الإِِجَابَةَ وَ قَدْ ضَمِنْتَهَا لِي، وَ لاَ تَحْجُبْ
+> دُعَائِي عَنْكَ وَ قَدْ أَمَرْتَنِي بِهِ ، وَ امْـنُنْ عَلَيَّ بِكُلِّ
+> مَا يُصْلِحُنِي فِي دُنْـيَايَ وَ آخِرَتِي مَا ذَكَرْتُ مِنْهُ وَ مَا
+> نَسِيتُ، أَوْ أَظْهَرْتُ أَوْ أَخْفَيْتُ أَوْ أَعْلَنْتُ أَوْ
+> أَسْرَرْتُ.
 
 O God, grant me my every request, accomplish for me my needs, withhold
 not from me Your response when You hast guaranteed a response, veil not
@@ -1141,23 +1037,19 @@ and be kind to me through everything that will set me right in this
 world and the next, in everything that I remember or forget, display or
 conceal, make public or keep secret!
 
-<blockquote dir="rtl">
-  <p>
-وَ اجْعَلْنِي فِي جَمِيعِ ذٌلِكَ مِنَ الْمُصْلِحِينَ بِسُؤَالِي
-إِيَّاكَ، الْمُنْجِحِينَ بِالطَّلَبِ إِلَيْكَ غَيْرِ الْمَمْـنُوعِينَ
-بِالتَّوَكُّلِ عَلَيْكَ. الْمُعَوَّذِِينَ بِالتَّعَوُّذِ بِكَ،
-الرَّابِحِينَ فِي التِّجَارَةِ عَلَيْكَ، الْمُجَارِينَ بِعِزِّكَ،
-الْمُوَسَّعِ عَلَيْهِمُ الرِّزْقُ الْحَلاَلُ مِنْ فَضْلِكَ، الْوَاسِعِ
-بِجُودِكَ وَ كَرَمِكَ، الْمُعَزِّينَ مِنَ الذُّلِّ بِكَ، وَ
-الْمُجَارِينَ مِنَ الظُّلْمِ بِعَدْلِكَ، وَ الْمُعَافِيْنَ مِنَ
-الْبَلاَءِ بِرَحْمَتِكَ، وَ الْمُغْنِينَ مِنَ الْفَقْرِ بِغِنَاكَ، وَ
-الْمَعْصُومِينَ مِنَ الذُّنُوبِ وَ الزَّلَلِ وَ الْخَطَاءِ
-بِتَقْوَاكَ، وَ الْمُوَفَّقِينَ لِلْخَيْرِ وَ الرُّشْدِ وَ الصَّوَابِ
-بِطَاعَتِكَ، وَ الْمُحَالِ بَيْنَهُمْ وَ بَيْنَ الذُّنُوبِ
-بِقُدْرَتِكَ، التَّارِكِينَ لِكُلِّ مَعْصِيَتِكَ، السَّاكِنِينَ فِي
-جِوَارِكَ.
-  </p>
-</blockquote>
+> وَ اجْعَلْنِي فِي جَمِيعِ ذٌلِكَ مِنَ الْمُصْلِحِينَ بِسُؤَالِي
+> إِيَّاكَ، الْمُنْجِحِينَ بِالطَّلَبِ إِلَيْكَ غَيْرِ الْمَمْـنُوعِينَ
+> بِالتَّوَكُّلِ عَلَيْكَ. الْمُعَوَّذِِينَ بِالتَّعَوُّذِ بِكَ،
+> الرَّابِحِينَ فِي التِّجَارَةِ عَلَيْكَ، الْمُجَارِينَ بِعِزِّكَ،
+> الْمُوَسَّعِ عَلَيْهِمُ الرِّزْقُ الْحَلاَلُ مِنْ فَضْلِكَ، الْوَاسِعِ
+> بِجُودِكَ وَ كَرَمِكَ، الْمُعَزِّينَ مِنَ الذُّلِّ بِكَ، وَ
+> الْمُجَارِينَ مِنَ الظُّلْمِ بِعَدْلِكَ، وَ الْمُعَافِيْنَ مِنَ
+> الْبَلاَءِ بِرَحْمَتِكَ، وَ الْمُغْنِينَ مِنَ الْفَقْرِ بِغِنَاكَ، وَ
+> الْمَعْصُومِينَ مِنَ الذُّنُوبِ وَ الزَّلَلِ وَ الْخَطَاءِ
+> بِتَقْوَاكَ، وَ الْمُوَفَّقِينَ لِلْخَيْرِ وَ الرُّشْدِ وَ الصَّوَابِ
+> بِطَاعَتِكَ، وَ الْمُحَالِ بَيْنَهُمْ وَ بَيْنَ الذُّنُوبِ
+> بِقُدْرَتِكَ، التَّارِكِينَ لِكُلِّ مَعْصِيَتِكَ، السَّاكِنِينَ فِي
+> جِوَارِكَ.
 
 In all of this, place me through my asking You among those who set
 things right, those who are answered favourably when they request from
@@ -1175,17 +1067,13 @@ You, those walled off from sins through Your power, the refrainers from
 every act of disobedience toward You, the dwellers in Your
 neighbourhood!
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ أَعْطِنَا جَمِيعَ ذٌلِكَ بِتَوْفِيقِكَ وَ رَحْمَتِكَ، وَ
-أَعِذْنَا مِنْ عَذَابِ السَّعِيرِ، وَ أَعْطِ جَمِيعَ الْمُسْلِمِينَ وَ
-الْمُسْلِمَاتِ وَ الْمُؤْمِنِينَ وَ الْمُؤْمِنَاتِ مِثْلَ الَّذِي
-سَأَلْتُكَ لِنَفْسِي وَ لِوُلْدِي فِي عَاجِلِ الدُّنْيَا وَ آجِلِ
-الآخِرَةِ، إِنَّكَ قَرِيبٌ مُجِيبٌ سَمِيعٌ عَلِيمٌ عَفُوٌّ غَفُورٌ
-رَءُوفٌ رَحِيمٌ. وَ آتِنَا فِي الدُّنْيَا حَسَنَةً، وَ فِي الآخِرَةِ
-حَسَنَةً وَ قِنَا عَذَابَ النَّارِ.
-  </p>
-</blockquote>
+> أَللَّهُمَّ أَعْطِنَا جَمِيعَ ذٌلِكَ بِتَوْفِيقِكَ وَ رَحْمَتِكَ، وَ
+> أَعِذْنَا مِنْ عَذَابِ السَّعِيرِ، وَ أَعْطِ جَمِيعَ الْمُسْلِمِينَ وَ
+> الْمُسْلِمَاتِ وَ الْمُؤْمِنِينَ وَ الْمُؤْمِنَاتِ مِثْلَ الَّذِي
+> سَأَلْتُكَ لِنَفْسِي وَ لِوُلْدِي فِي عَاجِلِ الدُّنْيَا وَ آجِلِ
+> الآخِرَةِ، إِنَّكَ قَرِيبٌ مُجِيبٌ سَمِيعٌ عَلِيمٌ عَفُوٌّ غَفُورٌ
+> رَءُوفٌ رَحِيمٌ. وَ آتِنَا فِي الدُّنْيَا حَسَنَةً، وَ فِي الآخِرَةِ
+> حَسَنَةً وَ قِنَا عَذَابَ النَّارِ.
 
 O God, give me all of that through Your bestowal of success and Your
 mercy, grant us refuge from the chastisement of the burning, and give to
@@ -1363,5 +1251,4 @@ known as libaan in Arabic.
 [^81]: This supplication can be found in as-Saĥīfatul Kāmilatul
 Sajjādiyah, number 25, translated by William Chittick, published by the
 Muhammadi Trust of the UK.
-
 

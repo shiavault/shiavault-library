@@ -9,7 +9,6 @@ unity** ***(tawhid),*** **divine justice** ***(adl),*** **prophethood,
 imamate and the events of the hereafter** ***(ma\`ad)*** **according to
 the three degrees of** ***shari\`ah, tariqah*** **and** ***haqiqah.***
 
-
 * *
 Know that the aim of the prophets and *awliya;* as we have already
 explained above on various occasions, is to convey each creational
@@ -87,8 +86,6 @@ are both applied and define the pillars or the foundation of knowledge
 and action; we must then explain how they are both contained in the
 three above‑mentioned levels.
 
-
-
 2) An Investigation of the Roots
 --------------------------------
 
@@ -96,7 +93,6 @@ three above‑mentioned levels.
 
 **An Investigation of the Roots:** **according to the way of the people
 of truth**
-
 
 Know that there are great differences of opinion concerning this
 matter: some believe that the roots of faith are two in number, that is,
@@ -347,7 +343,6 @@ We have presented the above principles by way of a brief introduction;
 we shall now begin a description of each of the different kinds of
 *tawhid* particular to each of the three groups.
 
-
 ### i) According to the people of shari\`ah
 
 * *
@@ -434,9 +429,7 @@ greater aim or destination but this, for such are the limits of their
 knowledge: \`They know the appearances of this world's life, but of the
 hereafter they are absolutely heedless.'
 
-
 ### ii) According to the people of tariqah
-
 
 After arrival at this *tawhid,* the people of this group bear witness
 with the eye of inner vision that God is One, that there is no other
@@ -554,9 +547,7 @@ him, for to descend from something higher to something lower indicates
 imperfection. This is referred to by the Prophet when he says, \`The
 good actions of the righteous are the wrong actions of the intimate.'
 
-
 ### iii) According to the people of haqiqah
-
 
 The arrival of the people of Allah at the station of the two kinds of
 *tawhid* mentioned above means that they do not witness other ­than
@@ -722,12 +713,8 @@ Muhammad and his noble fam­ily.' We shall now conclude our description
 of the three kinds *of tawhid;* and Allah is more Knowing and more Wise;
 He it is Who says the truth and guides to the correct path.
 
-
-
 4) The Justice of Allah (\`adl)
 -------------------------------
-
-
 
 What is meant by *\`adl is* that Allah is incapable of committing an
 offensive action and that He does not fail to fulfill that which is
@@ -817,7 +804,6 @@ worthy of being spoken to (on this matter). We shall now begin to
 explain the question of divine justice with relation to the three
 levels.
 
-
 ### i) According to the people of shari\`ah
 
 * *
@@ -875,9 +861,7 @@ when He says: \`Whoever does good, it is for his own soul and whoever
 does evil, it is against it, and your Lord is not the least unjust to
 His servants.'
 
-
 ### ii) According to the people of tariqah
-
 
 The justice of the people of *tariqah is* attained after their firm
 conviction that Allah has bestowed upon every created thing certain
@@ -1011,7 +995,6 @@ with the accompanying states mentioned above ‑ and Allah is more Knowing
 and more Wise; He it is Who says the truth and He guides to the correct
 path.
 
-
 ### iii) According to the people of haqiqah
 
 * *
@@ -1088,10 +1071,8 @@ considering. This is the highest of stations, there being no rank above
 it ‑ and Allah is more Knowing and more Wise; He it is Who says the
 truth and guides to the correct path.
 
-
 5) Prophethood
 --------------
-
 
 Prophethood is a term used to express the act of receiving the
 realities of gnosis and intellectual knowledge from Allah on the part of
@@ -1101,9 +1082,7 @@ to express the transmission of this gnosis and intellectual knowledge to
 those who listen and benefit thereby and to the followers of the
 prophets and messengers.
 
-
 ### i) According to the people of shari\`ah
-
 
 The prophet is the man sent from Allah to His slaves: he is sent in
 order to perfect them by making them aware of the manner in which they
@@ -1172,7 +1151,6 @@ communications and purifying them, and teaching them the Book and the
 wisdom, although before that they were surely in manifest error.' Such
 is the nature of this station with respect to the people of the
 *shari'ah,* and Allah is more Knowing and more Wise.
-
 
 ### ii) According to the people of tariqah
 
@@ -1245,9 +1223,7 @@ which are not (in themselves) perfect. This then is the station of the
 people of *tariqah* with respect to prophethood, the message, the
 prophet and the messenger; and success is by Allah.
 
-
 ### iii) According to the people of haqiqah
-
 
 The station of this group occurs after establishment in the two
 above‑mentioned stations. It is the rank of absolute divine caliphate,
@@ -1355,20 +1331,15 @@ With this we conclude our study of prophethood and the message within
 the framework of the three levels; we shall now begin our investigation
 of imamate.
 
-
-
 6) Imamate
 ----------
-
 
 In an absolute sense imamate refers to a religious governance which
 includes an exhortation to the common people to safeguard what is of
 benefit to them (with respect to their religion and their worldly
 affairs) and aims to protect them from that which might harm them.
 
-
 ### i) According to the people of shari\`ah
-
 
 For the people of the *shari\`ah* imamate is an obligatory matter both
 with respect to the intellect and in the light of the legal code, in the
@@ -1522,9 +1493,7 @@ numerous examples of this in the Qur'an and the body of Prophetic
 traditions and the reader should look for them in the appropriate
 places. Allah it is Who says the Truth and guides to the correct path.
 
-
 ### ii) According to the people of tariqah
-
 
 According to the people of this station, imamate refers to the
 caliphate which issues from Allah and the Pole of the Age. The Imam is
@@ -1650,9 +1619,7 @@ with the rank of *wilayah* and the rank of the absolute with that of the
 dependent; and Allah is more Knowing and more‑Wise ‑ He it is Who says
 the truth and guides to the right path.
 
-
 ### iii) According to the people of haqiqah
-
 
 According to this group the Imam and the *wall* are the Great Imam and
 the Absolute Wali, also known as the Pole and the Imam of the Imams who
@@ -1719,11 +1686,8 @@ investigation of imamate with respect to the three levels, then we shall
 now begin our study of *ma\`ad,* namely the last of the five principles
 outlined above; and success is by Allah.
 
-
-
 7) Events of the Hereafter (ma\`ad)
 -----------------------------------
-
 
 Know that the Day of Judgment, in an absolute sense, denotes the return
 of the world and all contained therein to whence it came. This return is
@@ -1740,9 +1704,7 @@ and there is thus of necessity twelve days of resurrection in all. We
 shall now explain each in brief, as there is not space to go into more
 detail.
 
-
 ### i) According to the people of shari\`ah
-
 
 According to the people of this group, the Day of judgment is a term
 for the gathering together of the parts of the dead body, their
@@ -1834,9 +1796,7 @@ His own free will, we thus invalidate the very basis of the argument and
 we have no need to reply to this foolish talk; and Allah says the truth
 and guides to the correct path.
 
-
 ### ii) According to the people of tariqah
-
 
 Those of this group, as well as believing in the Day of Judgment as
 mentioned above, understand it to be an expression of the return of the
@@ -2184,7 +2144,6 @@ meaning according to the people of *tariqah* and *haqiqah* and in the
 light of the triad of days of resurrection, namely the minor,
 intermediate and final.
 
-
 **The minor, intermediate and major days of resurrec­tion in spirit for
 the people of** ***tariqah***
 
@@ -2311,7 +2270,6 @@ you shall abide there forever.' We ask Allah that He may grant us
 provision and bestow on us arrival at this garden, for it is a place of
 countless and boundless blessings: \`And if you count Allah's favours,
 you will not be able to count them.'
-
 
 ### b) The intermediate day
 
@@ -2460,9 +2418,7 @@ this same subject but we shall content ourselves with these and now turn
 to another matter; and by Allah is success and He it is Who says the
 truth and He it is Who guides to the correct path.
 
-
 ### c) The major day
-
 
 This day of resurrection expresses their annihilation in the Real and
 their biding by Him. This station is also called the annihi­lation in
@@ -2600,11 +2556,9 @@ based on the three days of rising, namely the minor, intermediate and
 the major, in accordance with the three types of unity and annihilation
 therein.
 
-
 ### iii) According to the people of haqiqah
 
 * *
-
 
 The minor, intermediate and major days of resurrec­tion in spirit for
 the people *of haqiqah*
@@ -2695,9 +2649,7 @@ minor esoteric resurrection is the Garden of Actions ‑ in accordance
 with its various ranks and levels, and Allah is more Knowing and more
 Wise.
 
-
 ### b) The intermediate day
-
 
 This station expresses their annihilation in the divine unity
 *(tawhid)* of attribute and their arrival at a witnessing of the one
@@ -2729,7 +2681,6 @@ tastings. It is this that is meant by the gnostic's words, \`The essence
 is veiled by the attributes and the attributes by the action,' for all
 those from whom the
 
-
 veil of actions is not raised do not attain to the *tawhid* of actions;
 all those from whom the veil of attributes is not raised do not attain
 to the *tawhid of* attributes; and all those from whom the veil of the
@@ -2758,7 +2709,6 @@ May Allah grant us and you arrival at this point of witnessing at the
 various levels of this garden, both by way of spiritual tasting and
 unveilings. It is from Him that all seek help and upon Him that all rely
 ‑ He it is who utters the truth and guides to the correct path.
-
 
 ### c) The major day
 
@@ -2903,13 +2853,9 @@ Knowing and more Wise. Let us now begin our description of the six days
 related to the cosmic dimension and their corresponding classification
 with respect to the realms of form and the spirit or inner meaning.
 
-
 ### iv) The minor, intermediate and major days of resur­rection in form with respect to the cosmic dimension
 
-
-
 #### a) The minor day
-
 
 This title expresses the destruction of the physical world and the
 compound material forms contained therein and the return of all this to
@@ -2945,9 +2891,7 @@ reader should pursue the matter for himself in the appropriate places.
 Indeed a whole book devoted to this question has been written entitled
 *Kitab al‑Rajah* (The Book of the Return).
 
-
 #### b) The intermediate day
-
 
 This title expresses the return of the simple elements to the Universal
 Essence: the latter receives back all the forms of the world of material
@@ -3033,10 +2977,7 @@ that they previously possessed which will continue in this manner in the
 Garden and the Fire; and Allah is more Knowing and more Wise and He it
 is Who says the truth and guides to the correct path.
 
-
 ### v) The minor, intermediate and major days of resur­rection in spirit with respect to the cosmic dimension
-
-
 
 #### a) The minor day
 
@@ -3084,7 +3025,6 @@ praise of the stones and the earth and not just the souls and the
 selves; and Allah is more Knowing and more Wise ‑ He it is Who says the
 truth and guides to the correct path.
 
-
 #### b) The intermediate day
 
 * *
@@ -3127,7 +3067,6 @@ upon the earth nor bird that flies with two wings but (they are)
 creatures like yourselves; We have not neglected anything in the Book,
 then to their Lord they shall be gathered;' and Allah is more Knowing
 and more Wise.
-
 
 #### c) The major day
 
@@ -3203,9 +3142,7 @@ by the following verse:
 Our terms are various but Your beauty is One
 And everything is indicating that very beauty.
 
-
 [^1]: It is for this reason that he is called al‑Baqir ‑ meaning
 literally the one who cleaves or seeks out the knowledge of past and
 later generations.
-
 

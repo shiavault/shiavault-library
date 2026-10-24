@@ -17,8 +17,7 @@ will never part with each other until they return to me at the pool (of
 kawthar in paradise).[^33]
 
 **Notes:**
-[^33] Ibid, vol. 3, p. 14. Hadith al-Thaqalayn has been recorded
+[^33]: Ibid, vol. 3, p. 14. Hadith al-Thaqalayn has been recorded
 extensively in the Musnad, e.g. vol. 3, pp. 17, 26 & 59; vol. 4, p. 367;
 vol. 5, pp. 181, 189, 190.
-
 

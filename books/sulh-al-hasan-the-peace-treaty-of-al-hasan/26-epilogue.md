@@ -1,8 +1,6 @@
 Epilogue
 ========
 
-  
-
 Chapter 23: Comparison Between The Conditions Of Al- Hasan And The Conditions Of Al- Husayn
 -------------------------------------------------------------------------------------------
 
@@ -30,8 +28,6 @@ solutions were the best means, which al-Hasan and al-Husayn followed to
 please Allah, the Most High, not to win the life in this world. They
 (i.e., the solutions) are the real victory that last throughout history
 though al-Hasan and al-Husayn were  
-
-  
 
 apparently deprived of their rights and their succession to authority.
 
@@ -74,8 +70,6 @@ From here we understand that Al-Hasan's supporters pledged allegiance to
 him, and accompanied him to his camps as holy fighters (mujahidin).
 However, they broke their allegiance to al-Hasan,  
 
-  
-
 disobeyed him, and joined his enemies. Thus they were worse than those
 who had broken their allegiance to al-Husayn before he met his enemies.
 
@@ -113,8 +107,6 @@ those who follow desires and those who follow ideals? Isn't there a
 clear difference between those who had corrupt lineages and those whom
 Allah purified completely as it is in the Qur'an? Isn't  
  there an obvious difference between the corrupt people  
-
-  
 
 and those who adopted intellectual talents, good manners, pure race, and
 sciences that have played an important role in developing man in all
@@ -162,8 +154,6 @@ you are the children of the fire, from us is the mistress of the women
 of the worlds while from you is the bearer of firewood, and there are
 many distinctions between you and us."
 
-  
-
 doctrines of the members of the House (Ahl al-Bayt), and to whom these
 doctrines were entrusted to convey them to the generations after them.
 
@@ -205,8 +195,6 @@ with Mu'awiya.
 
 The objectives which al-Hasan wanted to accomplish through his Peace
 Treaty with Mu'awiya forced Mu'awiya and his party to face a  
-
-  
 
 quick failure in history.
 

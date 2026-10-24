@@ -50,7 +50,6 @@ Mabahithfri'ulum al-Qur'an, 78.
 
 15. Sahih, al-Bukhari and al-Zarakshi's al-Burhan, i, 236:
 
-
 16. Al-Masahif 24.
 
 17. Mabahith fi'ulum al-Qur'an, 8th edition, 82.
@@ -131,7 +130,6 @@ friend Sayyid Ahmad Ashkawari.
 
 48. 'Ali (A) in the Nahj al-balaghah, "Hikam," is reported as having
 said to his scribe 'Ubayd Allah ibn Abi Rafi;
-
 
 49. I do not remember where I read about this episode.
 
@@ -243,5 +241,4 @@ al-sudur, al-Naqd, and Ta'rikh-e Bayhaqi.
 81. This author's Yaddashtha-ye safar-e Misr.
 
 82. Fihrist makhtutat al-Rawdat al-Haydariyyah, 15.
-
 

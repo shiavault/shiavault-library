@@ -86,4 +86,3 @@ used many tricks to try to tempt him and trap him. He wondered what had
 become of her. He couldn't even remember her name. He is quite happy
 with the choice he made in his future wife.
 
-

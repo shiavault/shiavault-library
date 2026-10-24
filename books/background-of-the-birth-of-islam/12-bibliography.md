@@ -10,7 +10,6 @@ Bibliography
 3. Tho'alabi, Abu Mansur, "Shahnameh", translated by Mahmoud Hedayat,
 Tehran, Majliss Press, 1'328.
 
-
 4. Georgi Zeydan, "History of Islamic Civilisation", translated by Ali
 Javaher Kalam, Tehran, Amir Kabir, 1352.
 
@@ -78,7 +77,6 @@ Frankfurt am Main, 1981.
 1978.
 
 27. The New Encyclopedia Britannica, Chicago, 1970.
-
 
 **Notes**
 
@@ -475,5 +473,4 @@ name should come first but the royal prerogative forbids that!
 is related to the time after Abraha's campaign.
 
 76. Holy Qur'an, Chapter 9 (Towba), Verses 25 onward
-
 

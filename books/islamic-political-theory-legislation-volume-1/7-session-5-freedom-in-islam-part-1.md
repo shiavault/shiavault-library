@@ -56,11 +56,7 @@ noblest of creation and the vicegerent of God on earth. Let us quote
 below some verses cited by those expressing the misgivings:  
  While addressing the Prophet (*s*), God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ ٭ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ﴾
-  </p>
-</blockquote>
+> ﴿فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ ٭ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ﴾
 
 ***“So admonish—for you are only an admonisher, and not a taskmaster
 over them.”***[^1]
@@ -70,39 +66,23 @@ station has no dominance over the people; the people are free and not
 required to obey the Prophet (*s*) and he has no right at all to express
 opinion on the lives of people!
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا وَمَا أَنتَ عَلَيْهِم
-بِوَكِيلٍ﴾
-  </p>
-</blockquote>
+> ﴿وَمَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا وَمَا أَنتَ عَلَيْهِم
+> بِوَكِيلٍ﴾
 
 ***“We have not made you a caretaker for them, nor is it your duty to
 watch over them.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿مَّا عَلَى الرَّسُولِ إِلاَّ الْبَلاَغُ﴾
-  </p>
-</blockquote>
+> ﴿مَّا عَلَى الرَّسُولِ إِلاَّ الْبَلاَغُ﴾
 
 ***“The Apostle’s duty is only to communicate.”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَ إِمَّا كَفُورًا﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَ إِمَّا كَفُورًا﴾
 
 ***“Indeed We have guided him to the way, be he grateful or
 ungrateful.**”*[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقُل الْحَقُّ مِن رَبِّكُمْ فَمَن شَاء فَلْيُؤْمِن و مَن شَاءَ
-فَلْيَكْفُرْ...﴾
-  </p>
-</blockquote>
+> ﴿وَقُل الْحَقُّ مِن رَبِّكُمْ فَمَن شَاء فَلْيُؤْمِن و مَن شَاءَ
+> فَلْيَكْفُرْ...﴾
 
 ***“And say, ‘[This is] the truth from your Lord: let anyone who wishes
 believe it, and let anyone who wishes disbelieve it’...”***[^5]
@@ -117,13 +97,9 @@ are contradictory to the above verses, according to the incorrect
 understanding of the person expressing misgivings. Let us quote below
 some of these verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ...
-﴾
-  </p>
-</blockquote>
+> ﴿وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ...
+> ﴾
 
 ***“A faithful man or woman may not, when Allah and His Apostle have
 decided on a matter, have any option in their matter...”***[^6]
@@ -132,22 +108,14 @@ The above verse has explicitly mentioned the exigency of obeying and
 submitting to God and His Messenger (*s*), saying that the faithful have
 no right to disobey and go against the Messenger of Allah (*s*).
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ﴾
 
 ***“Your guardian is only Allah, His Apostle, and the faithful who
 maintain the prayer and give the zakat***[^7] ***while bowing
 down.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ...﴾
-  </p>
-</blockquote>
+> ﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ...﴾
 
 ***“The Prophet is closer to the faithful than their own souls
 ...**”*[^9]
@@ -194,12 +162,8 @@ the faith? We ordained Islam for the people to accept it out of their
 own freewill and volition. Had We only wished, We could have guided all
 the people:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَوْ شَاءَ رَبُّكَ لآمَنَ مَن فِي الأَرْضِ كُلُّهُمْ جَمِيعًا
-أَفَأَنتَ تُكْرِهُ النَّاسَ حَتَّى يَكُونُوا مُؤْمِنِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَلَوْ شَاءَ رَبُّكَ لآمَنَ مَن فِي الأَرْضِ كُلُّهُمْ جَمِيعًا
+> أَفَأَنتَ تُكْرِهُ النَّاسَ حَتَّى يَكُونُوا مُؤْمِنِينَ﴾
 
 ***“And had your Lord wished, all those who are on earth would have
 believed. Would you then force people until they become
@@ -214,13 +178,9 @@ expects human beings to recognize and accept the truth with awareness
 and understanding, and not submit to it out of coercion. As such, God
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَعَلَّكَ بَاخِعٌ نَّفْسَك أَلَّا يَكُونُوا مُؤْمِنِينَ ٭ إِن نَشَأْ
-نُنَزِّلْ عَلَيْهِم مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ
-لَهَا خَاضِعِينَ﴾
-  </p>
-</blockquote>
+> ﴿لَعَلَّكَ بَاخِعٌ نَّفْسَك أَلَّا يَكُونُوا مُؤْمِنِينَ ٭ إِن نَشَأْ
+> نُنَزِّلْ عَلَيْهِم مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ
+> لَهَا خَاضِعِينَ﴾
 
 ***“You might kill yourself [out of distress] that they will not have
 faith. If We wish We will send down to them a sign from the sky before
@@ -247,14 +207,10 @@ embracing the faith he has to submit to all the injunctions of the
 Islamic law [*shari‘ah*]. He who has faith in only a part of the divine
 laws has been strongly condemned by God, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَكْفُرُونَ بِاللّهِ وَرُسُلِهِ وَ يُرِيدُونَ أَن
-يُفَرِّقُوا بَيْنَ اللّهِ وَرُسُلِهِ وَيقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَلِكَ
-سَبِيلاً ٭ أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا...﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَكْفُرُونَ بِاللّهِ وَرُسُلِهِ وَ يُرِيدُونَ أَن
+> يُفَرِّقُوا بَيْنَ اللّهِ وَرُسُلِهِ وَيقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَلِكَ
+> سَبِيلاً ٭ أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا...﴾
 
 ***“Those who disbelieve in Allah and His apostles and seek to separate
 Allah from His apostles, and say, ‘We believe in some and disbelieve in
@@ -275,13 +231,9 @@ Only he who has faith in God would believe in the Prophet (*s*), submit
 to his decision, decree and order, be pleased with them and not nurse a
 grudge in his heart:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا﴾
-  </p>
-</blockquote>
+> ﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا﴾
 
 ***“But no, by your Lord! They will not believe until they make you a
 judge in their disputes, then do not find within their hearts any
@@ -292,12 +244,8 @@ the Messenger of Allah (*s*) and do not worry about them because they
 believe that the Prophet (*s*) has been appointed by God and his decree
 is God’s decree for he does not speak without Divine guidance:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
-النَّاسِ بِمَا أَرَاكَ اللّهُ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
+> النَّاسِ بِمَا أَرَاكَ اللّهُ﴾
 
 ***“Indeed We have sent down to you the Book with the truth, so that you
 may judge between the people by what Allah has shown you.”*** [^14]
@@ -350,13 +298,9 @@ context of the verses. According to the Qur’an, the deviators abandon
 its definitive verses [*muhakkamat*] and intentionally emphasize its
 metaphorical verses [*mutashabihat*]:
 
-<blockquote dir="rtl">
-  <p>
-﴿…فَأَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا
-تَشَابَهَ مِنْهُ ابْتِغَاء الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ وَمَا
-يَعْلَمُ تَأْوِيلَهُ إِلاَّ اللّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ…﴾
-  </p>
-</blockquote>
+> ﴿…فَأَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا
+> تَشَابَهَ مِنْهُ ابْتِغَاء الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ وَمَا
+> يَعْلَمُ تَأْوِيلَهُ إِلاَّ اللّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ…﴾
 
 ***“…As for those in whose hearts is deviance, they pursue what is
 metaphorical in it, courting temptation and courting its interpretation.
@@ -498,12 +442,8 @@ for Hadrat[^17] Adam (Adam) (*‘a*)[^18] is not applied to all the
 Children of Adam because the Qur’an calls some of them “devils” when it
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَذَلِكَ جَعَلْنَا لِكُلِّ نِبِيٍّ عَدُوًّا شَيَاطِينَ الإِنسِ
-وَالْجِنِّ﴾
-  </p>
-</blockquote>
+> ﴿وَكَذَلِكَ جَعَلْنَا لِكُلِّ نِبِيٍّ عَدُوًّا شَيَاطِينَ الإِنسِ
+> وَالْجِنِّ﴾
 
 ***“That is how for every prophet We appointed as enemy the devils from
 among humans and jinn.”***[^19]
@@ -511,13 +451,9 @@ among humans and jinn.”***[^19]
 Undoubtedly, the human devil is neither a viceroy of God nor among those
 before whom the angels had to prostrate when God said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِقٌ بَشَرًا مِن
-صَلْصَالٍ مِن حَمَاءٍ مَسْنُونٍ ٭ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ
-مِن رُوحِي فَقَعُوا لَهُ سَاجِدِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِقٌ بَشَرًا مِن
+> صَلْصَالٍ مِن حَمَاءٍ مَسْنُونٍ ٭ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ
+> مِن رُوحِي فَقَعُوا لَهُ سَاجِدِينَ﴾
 
 ***“When your Lord said to the angels, ‘Indeed I am going to create a
 human out of a dry clay [drawn] from an aging mud. So when I have
@@ -539,12 +475,8 @@ people and overthrow the Islamic government are not only unqualified to
 be divine vicegerents but they are the same human devils who are
 regarded by God to be viler than animals, and about whom He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ شَرَّ الدَّوَابُ عِندَ اللّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لاَ
-يَعْقِلُونَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ شَرَّ الدَّوَابُ عِندَ اللّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لاَ
+> يَعْقِلُونَ﴾
 
 ***“Indeed the worst of beasts in Allah’s sight are the deaf and the
 dumb who do not apply reason.”***[^22]
@@ -656,5 +588,4 @@ al-Baqarah 2:30)
 [^21]: Surah al-Baqarah 2:31.
 
 [^22]: Surah al-Anfal 8:22.
-
 

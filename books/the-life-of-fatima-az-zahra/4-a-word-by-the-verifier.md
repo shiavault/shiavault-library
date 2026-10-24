@@ -23,4 +23,4 @@ book was the reviewing and verifying of its texts and sources. Praise be
 to Allah and Allah’s blessing be on Muhammad and his pure progeny.
 
 **Mahdi Baqir al-Qurashi  
- 13<sup>th</sup> Muharram, 1424 AH.**
+ 13th Muharram, 1424 AH.**

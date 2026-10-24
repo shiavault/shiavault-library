@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِِنَّ الإِنْسَانَ خُلِقَ هَلُوْعاً
-  </p>
-</blockquote>
+> إِِنَّ الإِنْسَانَ خُلِقَ هَلُوْعاً
 
 “Surely man is created of a hasty temperament.”[^1]
 
 The Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَشِيْبُ ابْنُ آدَمَ وَ تَشُبُّ فِيهِ خَصْلَتَانِ: أَلْحَرْصُ وَ
-طُوْلُ الأَمَلِ.
-  </p>
-</blockquote>
+> يَشِيْبُ ابْنُ آدَمَ وَ تَشُبُّ فِيهِ خَصْلَتَانِ: أَلْحَرْصُ وَ
+> طُوْلُ الأَمَلِ.
 
 “(As) man becomes old, two attributes in him turn young - greed and
 lofty aspirations.”[^2]
@@ -327,5 +319,4 @@ Volume 2, 426)
 [^11]: Namunah-e-Ma’arif, Volume 4, Page 234; Layaliul Akhbar, Page 46
 
 [^12]: Lataif al-Tawaif, Page 361
-
 

@@ -41,8 +41,5 @@ This emphasis is there because generally the chance of such places being
 polluted is more, but those places where people do not passing through
 generally remains clean and pure.
 
-
-
 [^1]: Surah Nisa 4:43
-
 

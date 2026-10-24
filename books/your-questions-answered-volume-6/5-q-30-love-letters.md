@@ -233,7 +233,6 @@ God's sake, terminate all contacts with her. May Allah give Zaid tawfeeq
 to follow Islam and not to be tempted by the Satan. It is Satan who is
 using his sister-in-law as a trap to ensnare him.
 
-
 **Q. 34: Music At Jama 'at's Musafirkhana**
 
 The caretaker in our Musafirkhana gets a nominal salary plus free
@@ -383,5 +382,4 @@ giving advice to someone, if asked for some important matters: Let us
 say, when someone sends matrimonial message for a girl and the girl's
 guardian asks you about that person's suitability. Details may be seen
 in Minhaju's-Saliheen (Vol. 1) of Ayatullah al-Khoui.
-
 

@@ -19,12 +19,8 @@ things created by the Almighty Allah.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***(It is He) Who created death and life that He may try you- which of
 you is best in deeds; and He is the Mighty, the Forgiving, (67:2)***
@@ -90,26 +86,18 @@ Ghamara (stupor/agony of death).
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِ‏ّ ذَلِكَ مَا كُنتَ مِنْهُ
-تَحِيدُ
-  </p>
-</blockquote>
+> وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِ‏ّ ذَلِكَ مَا كُنتَ مِنْهُ
+> تَحِيدُ
 
 ***And the stupor of death will come in truth; that is what you were
 trying to escape. (Surah Qaf 50:19)***
 
 And also says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَرَى‏ إِذِ الْظَّلِمُونَ فِى غَمَرَتِ الْمَوْتِ
-وَالْمَلَئِكَةُ بَاسِطُواْ أَيدِيهِمْ أَخْرِجُواْ أَنفُسَكُمُ
-الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهَوْنِ بِمَا كُنْتُمْ تَقُولُونَ عَلَى
-اللَّهِ غَيْرَ الْحَقِّ وَكُنتُمْ عَنْ ءَايتِهِ تَسْتَكْبِرُونَ‏
-  </p>
-</blockquote>
+> وَلَوْ تَرَى‏ إِذِ الْظَّلِمُونَ فِى غَمَرَتِ الْمَوْتِ
+> وَالْمَلَئِكَةُ بَاسِطُواْ أَيدِيهِمْ أَخْرِجُواْ أَنفُسَكُمُ
+> الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهَوْنِ بِمَا كُنْتُمْ تَقُولُونَ عَلَى
+> اللَّهِ غَيْرَ الْحَقِّ وَكُنتُمْ عَنْ ءَايتِهِ تَسْتَكْبِرُونَ‏
 
 ***…and if you had seen when the unjust shall be in the agonies of death
 and the angels shall spread forth their hands: Give up your souls; today
@@ -148,14 +136,10 @@ his lifespan in an instant?
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
-بَعِيداً وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ وَ اللَّهُ رَءُوفٌ
-بِالْعِبَادِ
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
+> بَعِيداً وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ وَ اللَّهُ رَءُوفٌ
+> بِالْعِبَادِ
 
 ***On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and
@@ -189,13 +173,9 @@ but as mentioned in traditions, death for the righteous believers is not
 only not hard, on the contrary, it is very pleasant and nice. The Holy
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ \* ارْجِعِى إِلَى‏ رَبِّكَ
-رَاضِيَةً مَّرْضِيَّةً \* فَادْخُلِى فِى عِبَادِى \* وَادْخُلِى
-جَنَّتِى‏
-  </p>
-</blockquote>
+> يَآ أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ \* ارْجِعِى إِلَى‏ رَبِّكَ
+> رَاضِيَةً مَّرْضِيَّةً \* فَادْخُلِى فِى عِبَادِى \* وَادْخُلِى
+> جَنَّتِى‏
 
 ***O soul that are at rest! Return to your Lord, well-pleased (with
 him), well-pleasing (Him), So enter among My servants, And enter into My
@@ -252,12 +232,8 @@ Paradise and look at the Prophet, Ali, Hasan and Husain (as); they are
 your neighbors.’ This is statement of the Almighty Allah in the Holy
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-أَلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ‏ \* لَهُمُ الْبُشْرَى‏ فِى
-الْحَيَوةِ الدُّنْيَا وَفِى الاَْخِرَةِ
-  </p>
-</blockquote>
+> أَلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ‏ \* لَهُمُ الْبُشْرَى‏ فِى
+> الْحَيَوةِ الدُّنْيَا وَفِى الاَْخِرَةِ
 
 ***Those who believe and guarded (against evil): they shall have good
 news in this world’s life and in the hereafter. (10:63-64)***[^8]
@@ -322,5 +298,4 @@ say that he did not have to taste the agonies of death.
 [^7]: Biharul Anwar, Vol. 6, Pg. 155.
 
 [^8]: Biharul Anwar, Vol. 6, Pg. 177.
-
 

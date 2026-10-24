@@ -378,4 +378,3 @@ the way of evolution as they, at least, temporarily narrow the split and
 thus delay the revolution. These are the conclusions which may be drawn
 from the materialistic approach to history.
 
-

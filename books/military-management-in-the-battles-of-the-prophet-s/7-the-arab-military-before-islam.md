@@ -668,4 +668,3 @@ enmity. (Tr.)
 
 [^114]: Ibn Khaldun 2:453 onwards
 
-

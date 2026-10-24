@@ -541,12 +541,8 @@ for eight days and nights till he reached a large mountain that had
 covered a large area. Suddenly he sighted an angel who clung to the
 mountain and recited:
 
-<blockquote dir="rtl">
-  <p>
-سبن نري ين نان نى ىمنتهىالر ر ،سبحن نري يمنأل لالدا اى ىآخرها،ن نري ين
-نموضعكي يى ىعش شري ي ،ن نري ين نمى ىة ةى ىالنور
-  </p>
-</blockquote>
+> سبن نري ين نان نى ىمنتهىالر ر ،سبحن نري يمنأل لالدا اى ىآخرها،ن نري ين
+> نموضعكي يى ىعش شري ي ،ن نري ين نمى ىة ةى ىالنور
 
 Glory be to my Lord from this moment till the end of time.
 
@@ -701,12 +697,8 @@ practice every year till time for Qiyamat nears. One of the signs of
 Qiyamat is the reappearance of Qaim of the Progeny of Muhammad (S). The
 Almighty will open the barrier. As mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ
-يَنسِلُونَ
-  </p>
-</blockquote>
+> حَتَّى إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ
+> يَنسِلُونَ
 
 ***“…when Gog and Magog are let loose and they shall break forth from
 every elevated place.”***[^1]
@@ -958,5 +950,4 @@ rise. As if I am gazing at the white standards waving over his head in
 the Najaf of Kufa.”
 
 [^1]: Surah Anbiya 21:96
-
 

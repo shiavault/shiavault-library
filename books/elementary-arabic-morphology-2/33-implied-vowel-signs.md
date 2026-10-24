@@ -44,4 +44,3 @@ diverts)
 first person *yā'*, but the *kasrah* is pronounced. For example:
 **أُمِّي** (my mother)
 
-

@@ -236,4 +236,3 @@ Qadhi because from among the lineage of Sādāt Qadhi was more well known
 in Azerbaijan. However he himself showed preference for the name
 ‘Tabātabā’ī’.
 
-

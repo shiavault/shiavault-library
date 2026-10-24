@@ -268,4 +268,3 @@ A’yan ash-Shia, vol. 39 p.147.
 
 [^7]: As-Seera an-Nabawiyya, vol. 1 p.85.
 
-

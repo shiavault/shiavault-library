@@ -216,4 +216,3 @@ p. 113, Hadith 29.
 Naba Cultural Organization individuals who are resolute in their
 expectation of al-Qa'im (PBUH) reaches the minimum specified number.
 
-

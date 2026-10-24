@@ -393,4 +393,3 @@ greeter uses a different form.
 contexts devil may have been used in a metaphorical manner to mean
 harmful germs [ed.].
 
-

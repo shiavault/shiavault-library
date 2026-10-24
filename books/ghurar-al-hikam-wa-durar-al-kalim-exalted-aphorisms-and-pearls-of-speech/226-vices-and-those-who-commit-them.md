@@ -7,11 +7,7 @@ Vices And Those Who Commit Them
 cure is not repeating [the vices].
 
 > 1ـ الذُّنوبُ الدّاءُ، والدَّواءُ الاِسْتِغفارُ،وَ الشِّفاءُ أنْ لا
-<blockquote dir="rtl">
-  <p>
-تَعُودَ.
-  </p>
-</blockquote>
+> تَعُودَ.
 
 2. Taking a sin lightly is worse than committing the sin.
 
@@ -26,11 +22,7 @@ more difficult.
 we consider to be less when we divide them.
 
 > 4ـ تَأتينا أشْياءُ نَسْتَكْثِرُها إذا جَمَعْناها، وَنَسْتَقِلُّها إذا
-<blockquote dir="rtl">
-  <p>
-قَسَمْناها.
-  </p>
-</blockquote>
+> قَسَمْناها.
 
 5. Be careful of the sins that lead you to deep trouble the vices that
 bring the wrath of Allah.
@@ -41,21 +33,13 @@ bring the wrath of Allah.
 practice of the wicked and the people of depravity and vice.
 
 > 6ـ إيّاكَ وانْتِهاكَ المَحارِمِ، فَإنَّها شيمَةُ الفُسّاقِ وأُولِي
-<blockquote dir="rtl">
-  <p>
-الفُجُورِ، والغَوايَةِ.
-  </p>
-</blockquote>
+> الفُجُورِ، والغَوايَةِ.
 
 7. Refrain from persistence [in committing vices] for it is surely the
 gravest of great sins and the worst of offences.
 
 > 7ـ إيّاكَ والإصْرارَ، فَإنَّهُ مِنْ أكْبَرِ الكَبائِرِ وأعَظَمِ
-<blockquote dir="rtl">
-  <p>
-الجَرائِمِ.
-  </p>
-</blockquote>
+> الجَرائِمِ.
 
 8. Refrain from exposing [your] sins, for this is one of the worst of
 offences.
@@ -66,33 +50,21 @@ offences.
 vile sin from the sins of this world is indeed wretched.
 
 > 9ـ إيّاكَ والمعصِيَةَ، فَإنَّ اللَئيمَ (الشَّقيَّ) مَنْ باعَ جَنَّـةَ
-<blockquote dir="rtl">
-  <p>
-المَأوى بِمَعْصِيَة دَنِيَّة مِنْ مَعاصِي الدُّنيا.
-  </p>
-</blockquote>
+> المَأوى بِمَعْصِيَة دَنِيَّة مِنْ مَعاصِي الدُّنيا.
 
 10. Do not take the committing of vices lightly, for verily it will
 cover you with humiliation in this world and earn you the wrath of Allah
 in the Hereafter.
 
 > 10ـ إيّاكَ أنْ تَسْتَسْهِلَ رُكُوبَ المَعاصي، فَإنَّها تَـكْسُوكَ فِي
-<blockquote dir="rtl">
-  <p>
-الدُّنيا ذِلَّةً، وتَـكْسِبُكَ فِي الآخِرَةِ سَخَطَ اللّهِ.
-  </p>
-</blockquote>
+> الدُّنيا ذِلَّةً، وتَـكْسِبُكَ فِي الآخِرَةِ سَخَطَ اللّهِ.
 
 11. Verily wrongdoings are [like] wild horses that carry their riders on
 their backs while their bridles have been thrown off, so they take them
 [straight] into the fire of hell.
 
 > 11ـ ألا وإنَّ الخَطايا خَيْلٌ شُمُسٌ حُمِلَ عَلَيْها أهْلُها،
-<blockquote dir="rtl">
-  <p>
-وخُلِعَتْ لُجُمُها فَأوْرَدَتْهُمُ النَّارَ.
-  </p>
-</blockquote>
+> وخُلِعَتْ لُجُمُها فَأوْرَدَتْهُمُ النَّارَ.
 
 12. The greatest misdeed is recommending the vicious.
 
@@ -111,21 +83,13 @@ doer persists.
 which is taken lightly by the one who commits it.
 
 > 15ـ أشَدُّ الذُّنُوبِ عِنْدَ اللّهِ سُبْحانَهُ ذَنْبٌ اِسْتَهانَ بِهِ
-<blockquote dir="rtl">
-  <p>
-راكِبُهُ.
-  </p>
-</blockquote>
+> راكِبُهُ.
 
 16. The vice that brings the quickest retribution is oppressing the one
 who does not oppress you.
 
 > 16ـ أسْرَعُ المَعاصي عُقُوبَةً أنْ تَبْغِيَ على مَنْ لا يَبْغي
-<blockquote dir="rtl">
-  <p>
-علَيْكَ.
-  </p>
-</blockquote>
+> علَيْكَ.
 
 17. The vilest of sins is cutting off ties with near relatives and
 impiety [with one’s parents].
@@ -145,32 +109,20 @@ misguidance].
 in committing sins.
 
 > 20ـ إنَّ اللّهَ سُبْحانَهُ لَيُبْغِضُ الوَقِحَ المُتَجَرِّئَ علَى
-<blockquote dir="rtl">
-  <p>
-المَاصي.
-  </p>
-</blockquote>
+> المَاصي.
 
 21. Indeed one who disobeys Allah is the enemy of Muhammad (s), even if
 he is the nearest of his relatives.
 
 > 21ـ إنَّ عَدُوَّ مُحَمَّد صلَّى اللّه عليه وآله وسلَّم مَنْ عَصَى
-<blockquote dir="rtl">
-  <p>
-اللّهَ وإنْ قَرُبَتْ قَرابَتُهُ.
-  </p>
-</blockquote>
+> اللّهَ وإنْ قَرُبَتْ قَرابَتُهُ.
 
 22. Verily the clemency shown by Allah, the Most High, despite [your]
 acts of disobedience has made you bold and has driven you to [do things
 that will] destroy yourself.
 
 > 22ـ إنَّ حِلْمَ اللّهِ تعالى علَى المَعاصي جَرَّأَكَ، وبِهَلَكَةِ
-<blockquote dir="rtl">
-  <p>
-نَفْسِكَ أغْراكَ.
-  </p>
-</blockquote>
+> نَفْسِكَ أغْراكَ.
 
 23. Persistence [in sinning] is the practice of the depraved.
 
@@ -241,20 +193,12 @@ vices of the hearts.
 filth of flaws and vices.
 
 > 38ـ إنْ كُنتُمْ لامُحالَةَ مُتَنَزِّهينَ، فَتَنَزَّهُوا عَنْ مَعاصِي
-<blockquote dir="rtl">
-  <p>
-القُلُوبِ.
-  </p>
-</blockquote>
+> القُلُوبِ.
 
 39. If you purify yourselves from vices, Allah will love you.
 
 > 39ـ إنْ كُنْتُمْ لا مُحالَةَ مُتَطَهِّرينَ، فَتَطَهَّرُوا مِنْ دَنَسِ
-<blockquote dir="rtl">
-  <p>
-العُيُوبِ وَالذُّنوبِ.
-  </p>
-</blockquote>
+> العُيُوبِ وَالذُّنوبِ.
 
 40. Verily if you keep away from vices you will attain elevated ranks.
 
@@ -294,20 +238,12 @@ indeed, wretched is the one who gives them free rein.
 lowly and weak yet how bold you are in your disobedience to Him!
 
 > 48ـ تَوَقُّوا المَعاصِيَ، واحْبِسُوا أنْفُسَكُمْ عَنْها، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-الشَّقِيَّ مَنْ أطْلَقَ فيها عِنانَهُ.
-  </p>
-</blockquote>
+> الشَّقِيَّ مَنْ أطْلَقَ فيها عِنانَهُ.
 
 49. The sweetness of sin is spoilt by the pain of retribution.
 
 > 49ـ تعالَى اللّهُ مِنْ قَوِيّ ما أحْلَمَهُ، وَتَواضَعْتَ مِنْ ضَعيف ما
-<blockquote dir="rtl">
-  <p>
-أجْرَأَكَ على مَعاصيهِ.
-  </p>
-</blockquote>
+> أجْرَأَكَ على مَعاصيهِ.
 
 50. The outcome of sins is loss [and destruction].
 
@@ -333,11 +269,7 @@ retribution and [yet] he still continues being persistent [in sinning].
 55. The companion of vices is the hostage of [his] misdeeds.
 
 > 55ـ عَجِبْتُ لِمَنْ عَلِمَ شِدَّةَ انْتِقامِ اللّهِ مِنْهُ وهُوَ
-<blockquote dir="rtl">
-  <p>
-مُقيمٌ علَى الإصرارِ.
-  </p>
-</blockquote>
+> مُقيمٌ علَى الإصرارِ.
 
 56. For every evil act there is punishment.
 
@@ -357,11 +289,7 @@ intelligent one to keep away from it.
 59. Rejoicing in vices is uglier than committing them.
 
 > 59ـ لَوْ لَمْ يَنْهَ اللّهُ سُبْحانَهُ عنْ مَحارِمِهِ لَوَجَبَ أنْ
-<blockquote dir="rtl">
-  <p>
-يَجْتَنِبَها العاقِلُ.
-  </p>
-</blockquote>
+> يَجْتَنِبَها العاقِلُ.
 
 60. Is there any place of protection or shelter, or any sanctuary or
 asylum, or any place to flee or return back to?
@@ -388,21 +316,13 @@ destructive]; and one who is surrounded by his belittled [sins] is
 destroyed by them.
 
 > 64ـ لاتَعَرَّضْ لِمَعاصِي اللّهِ سُبْحانَهُ، واعمَلْ بِطاعَتِهِ يَكُنْ
-<blockquote dir="rtl">
-  <p>
-لَكَ ذُخْراً.
-  </p>
-</blockquote>
+> لَكَ ذُخْراً.
 
 65. Those who remain behind [in this world after others have passed away
 before them] do not stop from committing sins.
 
 > 65ـ لا تُحَقِّرَنَّ صَغائِرَ الآثامِ، فَإنَّهَا المُوبِقاتُ، ومَنْ
-<blockquote dir="rtl">
-  <p>
-أحاطَتْ بِهِ مُحَقَّراتُهُ أهْلَكَتْهُ.
-  </p>
-</blockquote>
+> أحاطَتْ بِهِ مُحَقَّراتُهُ أهْلَكَتْهُ.
 
 66. There is no vice greater than persistence [in sinning].
 
@@ -436,20 +356,12 @@ is not unjust to the Servants.
 except in [the garb of] desire.
 
 > 72ـ ما زالَتْ عَنْكُمْ نِعْمَةٌ وَلا غَضارَةُ عَيْش إلاّ بِذُنُوب
-<blockquote dir="rtl">
-  <p>
-اجْتَرَحْتُمُوها، وَمَا اللّهُ بِظَلاّم لِلْعَبيدِ.
-  </p>
-</blockquote>
+> اجْتَرَحْتُمُوها، وَمَا اللّهُ بِظَلاّم لِلْعَبيدِ.
 
 73. Constant sinning cuts [one’s] sustenance.
 
 > 73ـ ما مِنْ شَيء مِنْ مَعْصيَةِ اللّهِ سُبْحانَهُ يَأتي إلاّ في
-<blockquote dir="rtl">
-  <p>
-شَهْوَة.
-  </p>
-</blockquote>
+> شَهْوَة.
 
 74. Openly [and boldly] sinning in front of Allah [without any shame]
 hastens [divine] retributions.
@@ -466,20 +378,12 @@ assistance [against all this].
 passed before you of mistakes and sins.
 
 > 76ـ نَعُوذُ بِاللّهِ مِنْ سَيِّئاتِ العَقْلِ(العَمَلِ) وقُبْحِ
-<blockquote dir="rtl">
-  <p>
-الزَّلَلِ وبِهِ نَسْتَعينُ.
-  </p>
-</blockquote>
+> الزَّلَلِ وبِهِ نَسْتَعينُ.
 
 77. Every disobedient one is a sinner.
 
 > 77ـ هَيْهاتَ ما تَناكَرْتُمْ إلاّ لِما قَبْلَكُمْ مِنَ الخَطايا
-<blockquote dir="rtl">
-  <p>
-والذُّنُوبِ.
-  </p>
-</blockquote>
+> والذُّنُوبِ.
 
 78. Whoever disobeys Allah, his status gets lowered.
 
@@ -519,20 +423,12 @@ can inform you like the One who is all-aware.
 does he not avoid the sin that would bring painful chastisement?!
 
 > 85ـ ألحَذَرَ ألحَذَرَ أيُّها المُسْتَمِعُ، وَالجِدَّ اجِدَّ أيُّها
-<blockquote dir="rtl">
-  <p>
-العاقِلُ، ولايُنَبِّئُكَ مِثْلُ خَبير.
-  </p>
-</blockquote>
+> العاقِلُ، ولايُنَبِّئُكَ مِثْلُ خَبير.
 
 86. Vice is the endeavour of the filthy.
 
 > 86ـ عَجِبْتُ لِمَنْ يَحْتَمِي الطَّعامَ لأذِيَّتهِ كَيْفَ لا يَحْتَمِي
-<blockquote dir="rtl">
-  <p>
-الذَّنْبَ لأَليمِ عُقُوبَتِهِ.
-  </p>
-</blockquote>
+> الذَّنْبَ لأَليمِ عُقُوبَتِهِ.
 
 87. How bad a leash is the leash of vices!
 
@@ -571,11 +467,6 @@ up in the fire of hell.
 > 94ـ عاص يُقِرُّ بِذَنْبِهِ خَيْرٌ مِنْ مُطيع يَفْتَخِرُ بِعَمَلِهِ.
 
 > 95ـ لاتُؤْيِسَنَّ مُذْنِباً فَكَمْ عاكِف على ذَنْبِهِ خُتِمَ لَهُ
-<blockquote dir="rtl">
-  <p>
-بِالمَغْفِرَةِ، وكَمْ مُقْبِل على عَمَل هُوَ مُفْسِدٌلَهُ خُتِمَ لَهُ
-في آخِرِ عُمْرِهِ بِالنّارِ.
-  </p>
-</blockquote>
-
+> بِالمَغْفِرَةِ، وكَمْ مُقْبِل على عَمَل هُوَ مُفْسِدٌلَهُ خُتِمَ لَهُ
+> في آخِرِ عُمْرِهِ بِالنّارِ.
 

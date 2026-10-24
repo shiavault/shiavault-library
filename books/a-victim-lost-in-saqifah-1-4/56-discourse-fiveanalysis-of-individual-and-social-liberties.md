@@ -385,11 +385,11 @@ When he did so he became still more beautiful.
 ------------------------------------------------------------------------
 
 **[1]** Sayyid Abul Hasan Nadwi (Translation Muhammad Qasim Qasimi):
-*Yaqeen Mardaan-e-Khuda* (3<sup>rd</sup> Edition 1381), Pg. 36  
+*Yaqeen Mardaan-e-Khuda* (3rd Edition 1381), Pg. 36  
 **[2]** Salah Abdul Fattah al-Khalidi (Translated by Abdul Aziz
 Sulaimi): *Khulafa-e-Raashideen Az Khilafat Taa Shahadat*
-(1<sup>st</sup> Edition 1382), Pg. 80  
-**[3]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+(1st Edition 1382), Pg. 80  
+**[3]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 52  
 **[4]** [In couplets composed by him he had expressed love for a young
 man called Nasr bin Hajjaj.]
@@ -642,7 +642,7 @@ should obtain the man’s forgiveness and satisfy him.
 ------------------------------------------------------------------------
 
 **[1]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 78  
 **[2]** Author of the article has considered the audience in Masjid as
 Emigrants and Helpers!  
@@ -753,7 +753,7 @@ Islam.”**[6]**
 Balagha,* Ibne Abil Hadeed, Vol. 1, Pg. 183; *Tarikh Umar bin Khattab,*
 Pg. 125  
  **[6]** Ahmad Naseeb (translated by Saaduddin Shaykh Ahmadi):
-*Mohabbat-e-Payambar Dar Qalb-e-Yaaranash* (1<sup>st</sup> Edition
+*Mohabbat-e-Payambar Dar Qalb-e-Yaaranash* (1st Edition
 1380), Pgs. 85-86
 
 Historical records show:

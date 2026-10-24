@@ -125,4 +125,3 @@ sent by Him. And God bless His elect, Muhammad, the Seal of the
 Prophets, and his virtuous, pure and sincere household, and give them
 peace.
 
-

@@ -304,7 +304,7 @@ Muhammad Mir Jalili: *Imam Ali and the Rulers,* Pg. 61, narrated from
 *Sharh Nahjul Balagha,* Ibn Abil Hadid, Vol. 12, Pg. 58)**  
 [1]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 2, Summer 79, Pg. 31  
-**[2]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[2]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 29
 
 you may flee from me but he that would come in your place after you
@@ -401,7 +401,7 @@ the house of Abu Bakr:
 **[1]** Husain Ghaib Gholami: *Ali Ibne Abi Talib (a.s.) wa
 Rumuz-e-Hadith-e-Fadak,* Pgs. 43-45; quoting from: *Tarikh Madeenatud
 Damishq,* Vol. 28, Pg. 200  
-**[2]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+**[2]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 35  
 **[3]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 2, Summer 79, Pg. 31
@@ -656,7 +656,7 @@ excuse that he (Abu Bakr) had consulted the people around him.
 ------------------------------------------------------------------------
 
 **[1]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 46  
 **[2]** [Saeed bin Aas bin Saeed bin Aas bin Umayyah]  
 **[3]** Allamah Sayyid Murtuza Askari: *Naqsh-e-Aaimma Dar Ahya-e-Deen*
@@ -706,19 +706,19 @@ Dirhams.”**[8]**
 
 **[1]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, (9000 copies), Autumn 81, Pg. 7  
-**[2]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+**[2]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 73  
 **[3]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 90  
 **[4]** Muhammad Kamil Hasan al-Hami (translated by Ghulam Haider
-Farooqi): *Zindagi Naame Umar bin Khattab* (1<sup>st</sup> Edition
+Farooqi): *Zindagi Naame Umar bin Khattab* (1st Edition
 1382), Pg. 22  
 **[5]** Quoted from: *Tarikh al-Khulafa,* Pg. 135  
 **[6]** Najah Ata at-Tai: *Nazaryaat al-Khaleefatain,* Vol. 2, Pg. 7  
 **[7]** Ibne Abil Hadeed: *Sharh Nahjul Balagha,* Vol. 12, Pg. 62  
 **[8]** Ustad Ja’far Murtuza Amili: *Tahlili Az Zindagi-e-Siyasi Imam
-Hasan Mujtaba (a.s.)* (Translated by Muhammad Shahri, 2<sup>nd</sup>
+Hasan Mujtaba (a.s.)* (Translated by Muhammad Shahri, 2nd
 Edition), Pg. 182; quoting from: *Al-Futuhaat al-Islamiya,* Vol. 2, Pg.
 55; *At-Tarateeb al-Idariya,* Vol. 2, Pg. 405; *Al-Bahruz Zakhaar,* Vol.
 4. Pg. 100It is said that they were 10000 in number (*Ansaab
@@ -809,7 +809,7 @@ interest but Umar did not take any action against him.**[5]**
 
 ------------------------------------------------------------------------
 
-**[1]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+**[1]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 221  
 **[2]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 14, Summer 82, Pg. 20  
@@ -866,9 +866,9 @@ whether I am a Caliph or a king (Ibne Abil Hadeed: *Sharh Nahjul
 Balagha,* Vol. 12, Pg. 66)]  
 **[7]** Ibid. Pg. 181; quoting from: *Al-Futuhaat al-Islamiya,* Vol. 2,
 Pg. 290; *Hayatus Sahaba,* Vol. 2, Pg. 256  
-**[8]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[8]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 102  
-**[9]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[9]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 102
 
 “This great sacred man instead of becoming proud and arrogant because of
@@ -905,10 +905,10 @@ from the Treasury but Umar told him to keep it for himself.”**[8]**
 
 ------------------------------------------------------------------------
 
-**[1]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[1]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 417  
 **[2]** [Tameem bin Aws bin Kharija was a Christian monk who had
-converted to Islam in 9<sup>th</sup> year of Hijra, that is a year
+converted to Islam in 9th year of Hijra, that is a year
 before the passing away of the Holy Prophet (s.a.w.s.)]  
 **[3]** Allamah Sayyid Murtuza Askari: *Naqsh-e-Aaimma Dar Ahya-e-Deen*
 (Role of Imams in the Revival of Religion, Vol. 6, Pg. 88; quoting from:
@@ -1024,7 +1024,7 @@ quoting from: *Sharh Nahjul Balagha,* Vol. 12, Pg. 43
 **[4]** Mustafa Iskandari: *Baazkhwani Andisha-e-Taqreeb,* Pg. 248  
  **[5]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 6  
-**[6]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[6]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 102
 
 Selection of officers
@@ -1131,7 +1131,7 @@ giving more sources and documents in the following pages.]
 **[5]** Ibid. Vol. 2, Pg. 200; quoting from: *Abqariya Umar,* Pg. 28  
 **[6]** Ibid. Vol. 2, Pg. 200; quoting from: *Tarikh Umar bin Khattab,*
 Pg. 56  
-**[7]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[7]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 204
 
 Piety without a Holy war
@@ -1230,9 +1230,9 @@ was eating bread with meat...”**[7]**
 
 **[1]** Extract from: Najah Ata at-Tai: *Nazaryaat al-Khaleefatain,*
 Vol. 1, Pgs. 313-314  
-**[2]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[2]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 101  
-**[3]** Ibid. *Ashra-e-Mubashira* (1<sup>st</sup> Edition 1380), Pg.
+**[3]** Ibid. *Ashra-e-Mubashira* (1st Edition 1380), Pg.
 102  
  **[4]** Najah Ata at-Tai: *Nazaryaat al-Khaleefatain,* Vol. 2, Pg. 8;
 quoting from: *Shaykhaan Balazari,* Pg. 237  
@@ -1337,5 +1337,5 @@ Quran popular among the people.” (Ibne Kathir: *Al-Bidaya wan Nihaya,*
 Vol. 8, Pg. 107)  
 **[3]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 2, Summer 79, Pg. 33  
-**[4]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+**[4]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 139

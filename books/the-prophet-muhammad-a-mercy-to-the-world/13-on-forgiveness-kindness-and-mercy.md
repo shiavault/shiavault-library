@@ -165,7 +165,6 @@ The Apostle of God said: 'I know that you will do so but Almighty God
 detests that a person should be singled out from amongst his
 companions.' Then he went to collect the firewood for them.'253
 
-
 **On the Reprehensibility of Arrogance**
 
 The Prophet said: 'The tyrants and arrogant people will be gathered in
@@ -295,7 +294,6 @@ idolater before the start of the mission of the Prophet Muhammad.
 270 bi9"r al-anw"r; vol.68, chap.87, p.354, end of 9ad:th 16.
 271 ibid. vol.16, chap.9, p.239, 9ad:th 35.
 
-
 **On Discouraging Miserliness**
 
 The Apostle of God said: 'The people who have least peace of mind are
@@ -350,5 +348,4 @@ Hellfire.'281
 279 ibid. p.226, 9ad:th 32.
 280 tu9af al-!uqYl; p.31, 5th edition.
 281 bi9"r al-anw"r; vol.68, chap.87, p.355, 9ad:th 17.
-
 

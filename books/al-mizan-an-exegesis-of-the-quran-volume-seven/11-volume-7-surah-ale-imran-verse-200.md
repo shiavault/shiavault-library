@@ -90,4 +90,3 @@ ever?garrisoned"; but the author has taken it in its literal and
 original sense, i e., to be linked with each other. I have used a word
 “remain lined up” which may be interpreted both ways. (tr.)
 
-

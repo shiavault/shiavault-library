@@ -63,11 +63,7 @@ restrain ourselves at this point by quoting a verse. Zul-Qarnain while
 building the dam against the oppression of *Ya'juj* and *Ma’juj* turned
 towards the people of that place and said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
-  </p>
-</blockquote>
+> فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
 
 ***“Thus you only help me with workers; I will make a fortified barrier
 between you and them. (Kahf 18:95)”***
@@ -91,32 +87,20 @@ follows:
 (1) Sometimes, God orders His Prophet to seek forgiveness for his people
 such as:
 
-<blockquote dir="rtl">
-  <p>
-فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
-  </p>
-</blockquote>
+> فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
 
 ***“Pardon them therefore and ask pardon for them, and take counsel with
 them in the affair. (Aal-e-Imran 3:159)”***
 
-<blockquote dir="rtl">
-  <p>
-فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ
-رَحِيمٌ
-  </p>
-</blockquote>
+> فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ
+> رَحِيمٌ
 
 ***“Accept their pledge, and ask forgiveness for them from Allah, surely
 Allah is Forgiving, Merciful. (Mumtahena 60:12)”***
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
-وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ ۗ وَاللَّهُ سَمِيعٌ
-عَلِيمٌ
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا
+> وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ ۗ وَاللَّهُ سَمِيعٌ
+> عَلِيمٌ
 
 ***“Take alms out of their property, you would cleanse them and
 purify*** ***them thereby, and pray for them, surely your prayer is a
@@ -131,30 +115,18 @@ they would seek forgiveness for them under special circumstances.
 
 For example:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ
-  </p>
-</blockquote>
+> إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ
 
 ***“But not in what Ibrahim said to his father: I would certainly ask
 forgiveness for you,*** ***(Mumtahena 60:4)”***
 
-<blockquote dir="rtl">
-  <p>
-سَأَسْتَغْفِرُ لَكَ رَبِّي ۖ إِنَّهُ كَانَ بِي حَفِيًّا
-  </p>
-</blockquote>
+> سَأَسْتَغْفِرُ لَكَ رَبِّي ۖ إِنَّهُ كَانَ بِي حَفِيًّا
 
 ***“I will pray to my Lord to forgive you, surely He is ever kind to me,
 (Maryam 19:47)”***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَنْ مَوْعِدَةٍ
-وَعَدَهَا إِيَّاهُ
-  </p>
-</blockquote>
+> وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَنْ مَوْعِدَةٍ
+> وَعَدَهَا إِيَّاهُ
 
 ***“And Ibrahim asking forgiveness for his sire was only owing to a
 promise which he had made to him. (Tauba*** ***9:114)”***
@@ -171,13 +143,9 @@ Prophet (s) for seeking forgiveness from Allah and to request the
 Prophet (s) to seek forgiveness on their behalf and if the Prophet (s)
 seeks forgiveness for them, then Allah would forgive their sins.
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا
 
 ***“And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Apostle had (also) asked forgiveness
@@ -198,11 +166,7 @@ Basically, such goings and comings creates a special state of humility
 in a person towards the Holy Prophet (s) and prepares him to sincerely
 act upon the verse of:
 
-<blockquote dir="rtl">
-  <p>
-أطيعوا الله وأطيعوا الرسول
-  </p>
-</blockquote>
+> أطيعوا الله وأطيعوا الرسول
 
 ***“Obey Allah and obey the Apostle. (Nisa 4:59)”***
 
@@ -225,12 +189,8 @@ approaching the Holy Prophet (s) and requesting him to pray for them.
 Thus, when the Muslims were advising the hypocrites to do the same, they
 were met with refusal and denial. As Qur’an says
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
-لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
+> لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ
 
 ***“And when it is said to them: Come the Apostle of Allah will ask
 forgiveness for you, they turn back their heads and you may see them
@@ -267,34 +227,22 @@ result. This verse is one kind of exception to the previous verses and
 shows that other than this instance, the prayers of a Prophet has a
 special effect as mentioned in the following verses
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ
-لَهُمْ
-  </p>
-</blockquote>
+> إِنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ
+> لَهُمْ
 
 ***“Even if you ask forgiveness for them seventy times, Allah will not
 forgive them. (Tauba 9:79)”***
 
-<blockquote dir="rtl">
-  <p>
-سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
-لَنْ يَغْفِرَ اللَّهُ لَهُمْ
-  </p>
-</blockquote>
+> سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
+> لَنْ يَغْفِرَ اللَّهُ لَهُمْ
 
 ***“It is alike to them whether you beg forgiveness for them or do not
 beg forgiveness for them, Allah will never forgive them. (Munafiqun
 63:6)”***
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا وَقَعَ عَلَيْهِمُ الرِّجْزُ قَالُوا يَا مُوسَى ادْعُ لَنَا
-رَبَّكَ بِمَا عَهِدَ عِنْدَكَ ۖ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ
-لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِي إِسْرَائِيلَ
-  </p>
-</blockquote>
+> وَلَمَّا وَقَعَ عَلَيْهِمُ الرِّجْزُ قَالُوا يَا مُوسَى ادْعُ لَنَا
+> رَبَّكَ بِمَا عَهِدَ عِنْدَكَ ۖ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ
+> لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِي إِسْرَائِيلَ
 
 ***“And when the plague fell upon them, they said: O Musa! pray for us
 to your Lord as he has promised with you, if you remove the plague from
@@ -322,12 +270,8 @@ in some other verses.
 (7) Verses which show that a group of believers were always praying for
 another group of believers such as,
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاءُوا مِنْ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا
-وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاءُوا مِنْ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا
+> وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ
 
 ***“And those who come after them say: Our Lord! forgive us and those of
 our brethren who had precedence of faith.*** ***(Hashr 59:10)”***
@@ -336,20 +280,12 @@ our brethren who had precedence of faith.*** ***(Hashr 59:10)”***
 *'arsh* (throne) and those besides them too, seek forgiveness for the
 believers. As the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
-رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
-رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
+> رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
+> رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ
 
-<blockquote dir="rtl">
-  <p>
-رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ
-وَقِهِمْ عَذَابَ الْجَحِيمِ
-  </p>
-</blockquote>
+> رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ
+> وَقِهِمْ عَذَابَ الْجَحِيمِ
 
 ***“Those who bear the power and those around Him celebrate the praise
 of their Lord and believe in Him and ask protection for those who
@@ -389,11 +325,7 @@ our incurable diseases by the divine strength and power.
 
 It is true that Qur’an attributes *shifa’* (cure) to God and says:
 
-<blockquote dir="rtl">
-  <p>
-وإذا مرِضت فهو يشفين
-  </p>
-</blockquote>
+> وإذا مرِضت فهو يشفين
 
 ***“And when I am sick, then He restores me to health.*** ***(Shuara
 42:80)”***
@@ -401,31 +333,19 @@ It is true that Qur’an attributes *shifa’* (cure) to God and says:
 But in other verses, Qur’an ascribes *shifa’* (cure) to honey, or even
 to Quran itself, such as:
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ
-لِلنَّاسِ
-  </p>
-</blockquote>
+> يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ
+> لِلنَّاسِ
 
 ***“There comes forth from within it a beverage of many colours, in
 which there is cure for men.*** ***(Nahl 16:69)”***
 
-<blockquote dir="rtl">
-  <p>
-ونُنزل من القرءان ما هُو شفاء ورحمة للمؤمنين
-  </p>
-</blockquote>
+> ونُنزل من القرءان ما هُو شفاء ورحمة للمؤمنين
 
 ***“And We reveal of the Qur’an that which is a healing and a mercy to
 the believers. (Bani-Israel 7:82)”***
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ وَشِفَاءٌ لِمَا فِي
-الصُّدُورِ
-  </p>
-</blockquote>
+> قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ وَشِفَاءٌ لِمَا فِي
+> الصُّدُورِ
 
 ***“There has come to you indeed an admonition from your Lord and a cure
 for what is in the breasts. (Yunus 12:57)”***
@@ -466,12 +386,8 @@ natural channels, but through some extraordinary means. They did not
 say: ‘you pray so that God sends water for us’ but said: ‘you satiate us
 and give us water’. As the verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ إِذِ اسْتَسْقَاهُ قَوْمُهُ أَنِ اضْرِبْ
-بِعَصَاكَ الْحَجَرَ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ إِذِ اسْتَسْقَاهُ قَوْمُهُ أَنِ اضْرِبْ
+> بِعَصَاكَ الْحَجَرَ
 
 ***“And We revealed to Musa when his people asked him for water: Strike
 the rock with your staff.*** ***(Araf 7:160)”***
@@ -481,11 +397,7 @@ A clearer verse to this one is the verse which speaks about Sulayman
 which was hundreds of miles away and un-free from barriers and
 obstacles.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ أَنْ يَأْتُونِي مُسْلِمِينَ
-  </p>
-</blockquote>
+> أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ أَنْ يَأْتُونِي مُسْلِمِينَ
 
 ***“Which of you can bring*** ***to me her throne before they come to me
 in submission?*** ***(Naml 27:38)”***
@@ -517,12 +429,8 @@ request them to perform such acts.
 
 The Holy Qur’an addresses 'Isa (‘a) very explicitly and says:
 
-<blockquote dir="rtl">
-  <p>
-وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ
-الْمَوْتَىٰ بِإِذْنِي
-  </p>
-</blockquote>
+> وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ
+> الْمَوْتَىٰ بِإِذْنِي
 
 ***“And you healed the blind and the leprous by My permission, and when
 you brought forth the dead by My permission. (Maida 5:110)”***
@@ -545,5 +453,4 @@ traditions (hadiths). We shall discuss this in the next chapter.
 [^2]: For explanation of this part and acquaintance with the verses of
 Qur’an refer to the book of ‘Spiritual powers of Prophets’. In this
 book, you will find references from Qur’an about their spiritual powers
-
 

@@ -156,4 +156,3 @@ position but since they have no courage they are unable to bear
 hardships and difficulties for improving their condition. Thus they
 remain where they are and continue lamenting throughout their lives.
 
-

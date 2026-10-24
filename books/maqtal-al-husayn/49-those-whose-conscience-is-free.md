@@ -205,4 +205,3 @@ may Allah have mercy on him.
 
 [^14]: Ithbat al-Raj’a.
 
-

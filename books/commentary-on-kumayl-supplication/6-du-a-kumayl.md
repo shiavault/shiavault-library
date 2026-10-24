@@ -34,26 +34,18 @@ blessings.[^3]
 
 It is narrated from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍ إلاَّ وَلَهُ كَيْلٌ وَوَزْنٌ، إلاَّ الدُّمُوعَ؛ فَإنَّ
-القَطْرَةَ تُطْفِئُ بِحَاراً مِنَ النَّارِ، وَلَو أنَّ باكِياً بَكَى
-فِي أُمَّةٍ لَرُحِمُوا.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍ إلاَّ وَلَهُ كَيْلٌ وَوَزْنٌ، إلاَّ الدُّمُوعَ؛ فَإنَّ
+> القَطْرَةَ تُطْفِئُ بِحَاراً مِنَ النَّارِ، وَلَو أنَّ باكِياً بَكَى
+> فِي أُمَّةٍ لَرُحِمُوا.
 
 *Everything has a special scale except tears; a drop of tear
 extinguishes oceans of fire. Allah forbids inferno from burning a
 tearful eye. In fact if there’s one tearful person (from Allah’s fear)
 in any nation, all the people will be forgiven.*[^4]
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ عَيْنٍ بَاكِيَةٌ يَوْمَ القِيَامَةِ إلاَّ ثَلاثَةً: عَيْنٌ
-غُضَّتْ عَنْ مَحَارِمِ اللهِ، وَعَيْنٌ سَهِرَتْ فِي طَاعَةِ اللهِ،
-وَعَيْنٌ بَكَتْ فِي جَوْفِ اللَّيْلِ مِنْ خَشْيَةِ اللهِ.
-  </p>
-</blockquote>
+> كُلُّ عَيْنٍ بَاكِيَةٌ يَوْمَ القِيَامَةِ إلاَّ ثَلاثَةً: عَيْنٌ
+> غُضَّتْ عَنْ مَحَارِمِ اللهِ، وَعَيْنٌ سَهِرَتْ فِي طَاعَةِ اللهِ،
+> وَعَيْنٌ بَكَتْ فِي جَوْفِ اللَّيْلِ مِنْ خَشْيَةِ اللهِ.
 
 *All the people are tearful in the Hereafter except three: one who
 closes his eyes to what Allah* *forbade, one who remains alive for
@@ -68,5 +60,4 @@ Allah, and one cries for the fear of Allah at midnight.*[^5]
 [^4]: Al-Kafi: 2/481, Bab Al-Buka’, tradition 1.
 
 [^5]: Al-Kafi, 2/80, Bab Ijtinab Al-Maharim, tradition 2.
-
 

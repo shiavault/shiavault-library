@@ -1848,4 +1848,3 @@ university, to achieve another important step by silencing this cawing
 voice of al-Khateeb because the structure won’t be erected as long as
 there is someone demolishing the base with his pick.
 
-

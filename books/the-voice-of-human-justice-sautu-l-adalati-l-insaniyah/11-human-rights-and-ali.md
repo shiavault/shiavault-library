@@ -210,4 +210,3 @@ till I recover the right (of the weak person) from him”.
 We shall now examine how far Ali put these words of his into practice
 and how he dealt with the people.
 
-

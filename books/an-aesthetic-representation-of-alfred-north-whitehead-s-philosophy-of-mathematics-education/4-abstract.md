@@ -19,4 +19,3 @@ of this strange world in a life that is now extraordinary.
 **Keywords** :**Alfred North Whitehead, process philosophy, mathematics
 education.**
 
-

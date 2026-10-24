@@ -161,4 +161,3 @@ Saif is alone responsible for the inventing of these stories as he is
 alone presenting them, just as he is alone saying that none of the enemy
 was spared to take the news home.
 
-

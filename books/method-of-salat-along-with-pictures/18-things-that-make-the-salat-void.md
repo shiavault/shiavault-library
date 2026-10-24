@@ -37,4 +37,3 @@ be intentionally or unintentionally. Adding or subtracting those things
 that are not a Pillar of the Salat, if done intentionally (then it makes
 the Salat void; but if done unintentionally, then it is not a problem).
 
-

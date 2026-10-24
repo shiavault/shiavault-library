@@ -32,4 +32,3 @@ e Iqbal.*
 *Tahir, D. A. (1985). Falsfa Aor Muashra (Urdu)(Thesis for Master of
 Philosophy-Unprinted). Lahore (Punjab University Library): Unprinted.*
 
-

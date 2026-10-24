@@ -62,4 +62,3 @@ Shiʿa Shinasi wa Pasukh bi Shubuhat, pg. 594
 45174 as narrated in the book, Shiʿa Shinasi wa Pasukh bi Shubuhat, pg.
 594
 
-

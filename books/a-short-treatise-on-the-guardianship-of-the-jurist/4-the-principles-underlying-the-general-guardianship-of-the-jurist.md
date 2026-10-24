@@ -320,4 +320,3 @@ there is no need for it.
 
 [^17]: al Bay’, 2:665
 
-

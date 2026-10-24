@@ -73,4 +73,3 @@ that “If the Imām is removed from the earth (even) for an hour (of the
 day), the earth will surge up with those in it like a sea surges up with
 those in it” (39: ḥadīth 458).
 
-

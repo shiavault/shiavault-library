@@ -529,4 +529,3 @@ to say that the Holy Prophet had, God forbid, committed any sin. These
 verses were addressed to him; but were actually meant for his Ummat
 (people).
 
-

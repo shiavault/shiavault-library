@@ -894,4 +894,3 @@ liquor and other intoxicants.
 
 [^23]: From Tankihat of Abul Ala Maududi
 
-

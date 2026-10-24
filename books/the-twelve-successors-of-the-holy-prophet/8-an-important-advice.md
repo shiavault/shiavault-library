@@ -20,4 +20,3 @@ Hasan Al Askari (a.s.).
 The traditions discussed in this treatise prove the Imamat of these
 Twelve Noble Personalities. Not anyone else.
 
-

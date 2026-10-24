@@ -1,14 +1,10 @@
 Suratul Baqarah: Verses 62
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-(٦٢) إنَّ الَّذِينَ آمَنُواْ وَالَّذِينَ هَادُواْ وَالنَّصَارَى
-وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَعَمِلَ
-صَالِحاً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ
-وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> (٦٢) إنَّ الَّذِينَ آمَنُواْ وَالَّذِينَ هَادُواْ وَالنَّصَارَى
+> وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَعَمِلَ
+> صَالِحاً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ
+> وَلاَ هُمْ يَحْزَنُونَ
 
 ***Surely those who believe, and those who are Jews, and the Christians,
 and the Sabaeans, whoever believes in Allah and the Last Day and does
@@ -269,5 +265,4 @@ and Palestine, was called Syria or Greater Syria.
 
 [^6]: It is now almost certain that Yudhasaf is a corruption of
 Budhastav, the title of Gautama Buddha, the founder of Bhuddhism.
-
 

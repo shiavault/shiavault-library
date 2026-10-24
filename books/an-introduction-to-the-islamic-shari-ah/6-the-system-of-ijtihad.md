@@ -653,4 +653,3 @@ a source of the shari’ah laws, see the last chapter of Wasa’ilu
 [^7]: Khu’i, S. Abu ‘l-Qasim, Minhaju ‘s-Salihiyn, vol.2 (Najaf, 1394)
 pp. 174-181.
 
-

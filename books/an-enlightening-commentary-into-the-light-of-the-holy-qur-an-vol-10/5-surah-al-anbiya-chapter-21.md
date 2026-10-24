@@ -8,11 +8,7 @@ Surah Al-’Anbiya’, Chapter 21
 The Content of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
@@ -54,5 +50,4 @@ contemplation, and contemplation is a preliminary step for Faith and
 practice.
 
 [^1]: Nur-uth-Thaqalayn, the Commentary, P. 412
-
 

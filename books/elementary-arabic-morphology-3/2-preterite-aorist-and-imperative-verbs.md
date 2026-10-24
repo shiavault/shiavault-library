@@ -82,4 +82,3 @@ when any other case, for example: **اِعلَم.** So, when the verb is
 quadriliteral the glottal stop is a *qat‛* glottal stop and in every
 other case it is a *wasl* glottal stop.
 
-

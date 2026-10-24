@@ -66,4 +66,3 @@ up in light of disagreement, but it does not explain why a
 truth-seeking, error-avoiding agnostic should pursue philosophy and come
 to adopt any views.
 
-

@@ -159,4 +159,3 @@ in the book MANAASIK AL-HAJJ.
 24. The CAFFAARAH for wearing arms is a sheep, as a recommended
 precaution.
 
-

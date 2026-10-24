@@ -58,4 +58,3 @@ And the following verse:
 make you a judge of that which has become a matter of disagreement among
 them,*** **[4:65]**
 
-

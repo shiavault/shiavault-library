@@ -243,4 +243,3 @@ but the fire. All they have done here shall have no value and all their
 deeds shall be null and void".*** **(Surah Hud, 11 : 15** **‑ 16).**  
   
 
-

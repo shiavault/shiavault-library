@@ -152,4 +152,3 @@ civilisation, as near as possible to the universal spirit, and in terms
 of the principles of that civilised condition, which the appointed day
 is aiming at realising under his leadership.
 
-

@@ -924,4 +924,3 @@ their energies on the achievement of goals and take collective steps in
 the way of the glory of Islam and the progress and advancement of the
 Muslims.
 
-

@@ -16,4 +16,3 @@ he agreed on Imam Husayn's request and said:
 to Emir Ubaidullah bin Ziyad. If you refuse to give in, we won't let you
 go.*
 
-

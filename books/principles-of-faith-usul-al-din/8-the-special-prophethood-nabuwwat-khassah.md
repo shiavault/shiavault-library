@@ -140,11 +140,7 @@ which the thirsty presume to be water. He also declared that Allah is
 Greater than being restricted with limits and attributed with
 descriptions.
 
-<blockquote dir="rtl">
-  <p>
-سبحان الله والحمدلله ولااله الاالله والله اكبر
-  </p>
-</blockquote>
+> سبحان الله والحمدلله ولااله الاالله والله اكبر
 
 **Glory be to Allah, all praise be to Allah, there is no god but Allah
 and Allah is the Greatest**.
@@ -2456,5 +2452,4 @@ al-Anwar: vol. 41, pp 149.
 [^164]: Holy Qur’an, 7: 157.
 
 [^165]: Holy Qur’an, 61: 6.
-
 

@@ -10,11 +10,7 @@ Surah al-Ma‘arij, Chapter 70
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -49,31 +45,15 @@ fulfilling one’s religious obligations.
 Surah al-Ma’arij – Verses 1-3
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ
-  </p>
-</blockquote>
+> سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ
 
-<blockquote dir="rtl">
-  <p>
-لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
-  </p>
-</blockquote>
+> لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
 
-<blockquote dir="rtl">
-  <p>
-مِّنَ اللَّهِ ذِي الْمَعَارِجِ
-  </p>
-</blockquote>
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
 
 ***1. A questioner asked for befalling a torment which befell.***  
 ***2. They are in store for disbelievers and none may avert them***  
@@ -140,12 +120,8 @@ lexical meaning of the word.
 Surah al-Ma’arij – Verse 4
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ
-مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
-  </p>
-</blockquote>
+> تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ
+> مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
 
 ***4. The angels and the spirit (an archangel) ascend toward Him on a
 Day the measure whereof is fifty thousand years.***
@@ -220,23 +196,11 @@ ritual prayer established in this world."*[^7]
 Surah al-Ma’arij – Verses 5-7
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ صَبْرًا جَمِيلًا
-  </p>
-</blockquote>
+> فَاصْبِرْ صَبْرًا جَمِيلًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
-  </p>
-</blockquote>
+> إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
 
-<blockquote dir="rtl">
-  <p>
-وَنَرَاهُ قَرِيبًا
-  </p>
-</blockquote>
+> وَنَرَاهُ قَرِيبًا
 
 ***5. So be patient with a good patience.***  
 ***6. They behold that Day from afar.***  
@@ -283,17 +247,9 @@ by according to the blessed Qur’anic Verse.
 Surah al-Ma’arij – Verses 8-9
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ
-  </p>
-</blockquote>
+> يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ
 
-<blockquote dir="rtl">
-  <p>
-وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
-  </p>
-</blockquote>
+> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
 
 ***8. The Day that the heaven shall be like molten metal.***  
 ***9. And the mountains shall be like dyed wool.***
@@ -314,36 +270,16 @@ antedate the creation of a new world wherein mankind shall be revived.
 Surah al-Ma’arij – Verses 10-14
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
-  </p>
-</blockquote>
+> وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
 
-<blockquote dir="rtl">
-  <p>
-يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ
-يَوْمِئِذٍ بِبَنِيهِ
-  </p>
-</blockquote>
+> يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ
+> يَوْمِئِذٍ بِبَنِيهِ
 
-<blockquote dir="rtl">
-  <p>
-وَصَاحِبَتِهِ وَأَخِيهِ
-  </p>
-</blockquote>
+> وَصَاحِبَتِهِ وَأَخِيهِ
 
-<blockquote dir="rtl">
-  <p>
-وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ
-  </p>
-</blockquote>
+> وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ
-  </p>
-</blockquote>
+> وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ
 
 ***10. And no intimate friend shall ask a friend about his
 condition,***  
@@ -417,29 +353,13 @@ avail to us on the Day of Resurrection.
 Surah al-Ma’arij – Verses 15-18
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا ۖ إِنَّهَا لَظَىٰ
-  </p>
-</blockquote>
+> كَلَّا ۖ إِنَّهَا لَظَىٰ
 
-<blockquote dir="rtl">
-  <p>
-نَزَّاعَةً لِّلشَّوَىٰ
-  </p>
-</blockquote>
+> نَزَّاعَةً لِّلشَّوَىٰ
 
-<blockquote dir="rtl">
-  <p>
-تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ
-  </p>
-</blockquote>
+> تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَجَمَعَ فَأَوْعَىٰ
-  </p>
-</blockquote>
+> وَجَمَعَ فَأَوْعَىٰ
 
 ***15. By no means! It shall be flames of fire.***  
 ***16. Taking away hands, feet, and head skin!***  
@@ -487,35 +407,15 @@ reason behind the bestowal of Divine Bounties upon them.
 Surah al-Ma’arij – Verses 19-23
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا
 
-<blockquote dir="rtl">
-  <p>
-إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
-  </p>
-</blockquote>
+> إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
-  </p>
-</blockquote>
+> وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الْمُصَلِّينَ
-  </p>
-</blockquote>
+> إِلَّا الْمُصَلِّينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ
 
 ***19. Man was created impatient and avaricious,***  
 ***20. Irritable when evil touches him,***  
@@ -580,35 +480,15 @@ times.
 Surah al-Ma’arij – Verses 24-28
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ
 
-<blockquote dir="rtl">
-  <p>
-لِلسَّائِلِ وَالْمَحْرُومِ
-  </p>
-</blockquote>
+> لِلسَّائِلِ وَالْمَحْرُومِ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
-  </p>
-</blockquote>
+> إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
 
 ***24. And those in whose wealth there is a recognized right***  
 ***25. For the mendicant and the deprived,***  
@@ -698,24 +578,12 @@ He replied:
 Surah al-Ma’arij – Verses 29-31
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ
-فَإِنَّهُمْ غَيْرُ مَلُومِينَ
-  </p>
-</blockquote>
+> إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ
+> فَإِنَّهُمْ غَيْرُ مَلُومِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ
-  </p>
-</blockquote>
+> فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ
 
 ***29. And those who guard their chastity.***  
 ***30. And do not engage in sexual intercourse, except with their wives
@@ -772,29 +640,13 @@ wives, but dealing with such issue is presently out of the question.
 Surah al-Ma’arij – Verses 32-35
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ
-  </p>
-</blockquote>
+> أُولَٰئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ
 
 ***32. And those who keep their trusts and covenants.***  
 ***33. And those who stand firm in their true testimonies.***  
@@ -907,29 +759,13 @@ allude to the material and spiritual Bounties bestowed upon such people.
 Surah al-Ma’arij – Verses 36-39
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ
-  </p>
-</blockquote>
+> فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ
-  </p>
-</blockquote>
+> عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ
-  </p>
-</blockquote>
+> أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا ۖ إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ
-  </p>
-</blockquote>
+> كَلَّا ۖ إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ
 
 ***36. What is the matter with the disbelievers who hasten to come to
 you,***  
@@ -1006,17 +842,9 @@ lack. So, how do they expect to set foot in the Gardens of Paradise?
 Surah al-Ma’arij – Verses 40-41
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-عَلَىٰ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ
-  </p>
-</blockquote>
+> عَلَىٰ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ
 
 ***40. Therefore, I swear by the Lord of all the points of sunrise and
 sunset in the east and the west that surely We are All-Able***  
@@ -1061,26 +889,14 @@ alterations of the solar orbits.
 Surah al-Ma’arij – Verses 42-44
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي
-يُوعَدُونَ
-  </p>
-</blockquote>
+> فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي
+> يُوعَدُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ
-نُصُبٍ يُوفِضُونَ
-  </p>
-</blockquote>
+> يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ
+> نُصُبٍ يُوفِضُونَ
 
-<blockquote dir="rtl">
-  <p>
-خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ
-الَّذِي كَانُوا يُوعَدُونَ
-  </p>
-</blockquote>
+> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ
+> الَّذِي كَانُوا يُوعَدُونَ
 
 ***42. Therefore, leave them to plunge in vain talk and play about,
 until they meet their Promised Day.***  
@@ -1186,5 +1002,4 @@ p. 6761.
 [^18]: 2:115
 
 [^19]: 55:17
-
 

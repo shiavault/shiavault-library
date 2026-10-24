@@ -69,4 +69,3 @@ Lord! I pray You to send blessings unto Muhammad (S) and the progeny of
 Muhammad (S) and to guide me and not to leave me to stray after having
 guided me, for You guide whomsoever You please."
 
-

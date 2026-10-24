@@ -39,4 +39,3 @@ matters. Allah only is great. Let us communicate with him. Only his
 benevolent love and care can bring us to prosperity in this world and in
 life-hereafter.
 
-

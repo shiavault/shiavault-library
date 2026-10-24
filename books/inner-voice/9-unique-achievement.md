@@ -24,4 +24,3 @@ title ‘The Plain Preacher’. As he has been addressed by Allah in the
 Holy Qur’an. He presented the truth in its pristine purity and
 originality without any misleading ambiguity.
 
-

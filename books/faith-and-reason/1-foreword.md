@@ -58,11 +58,7 @@ who recognizes that what is known is very little compared to what is not
 known, and as a result he considers himself ignorant, and accordingly he
 increases his efforts to know more by going out in search of knowledge.”
 
-<blockquote dir="rtl">
-  <p>
-رَبِّــي زِدْنِي عِلْماً
-  </p>
-</blockquote>
+> رَبِّــي زِدْنِي عِلْماً
 
  *“My Lord! Increase me in Knowledge”*
 
@@ -72,5 +68,4 @@ Hasnain Walji
 
 [^1]: Dr. Sayyid Wahid Akhtar, The Islamic Concept of Knowledge,
 al-Tawhid, vol. xii, no. 3
-
 

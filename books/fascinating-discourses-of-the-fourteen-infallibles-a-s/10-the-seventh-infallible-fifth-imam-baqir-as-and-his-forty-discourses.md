@@ -38,17 +38,9 @@ expansion of Shiite school & bringing about cultural revolution.
 Forty Traditions from Imam Mohammad Baqir (as)
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثا
-  </p>
-</blockquote>
+> اربعون حديثا
 
-<blockquote dir="rtl">
-  <p>
-عن الامام محمد الباقر عليه السلام
-  </p>
-</blockquote>
+> عن الامام محمد الباقر عليه السلام
 
 1. The one who goes to an oppressor & tyrant ruler & Instructs him to
 acquire piety & scares him & admonishes, preaches, & exhorts him he
@@ -474,12 +466,8 @@ not belittle & look down upon anyone perhaps he may be the friend &
 saint of Allah. [^30]
 
 > 30- اِنَّ اللهَ خَبَاءَ ثَلاثَةً فِي ثَلاثِةٍ خَبَاءَ رِضاهُ فِي
-<blockquote dir="rtl">
-  <p>
-طاعَتِهِ فَلا تَحقرَنَّ مِنَ الطّاعَةِ شَيئاًفَلَعَلَّ رِضاهُ فيهِ
-وَخَبَاءَ سَخَطَهُ فِي
-  </p>
-</blockquote>
+> طاعَتِهِ فَلا تَحقرَنَّ مِنَ الطّاعَةِ شَيئاًفَلَعَلَّ رِضاهُ فيهِ
+> وَخَبَاءَ سَخَطَهُ فِي
 
 > مَعصِيَتِهِ فَلا تَحقرَنَّ مِنَ المَعصِيَةِ شَيئاً فَلَعَلَّ سَخَطَهُ
 > فيهِ وَخَبَاءَ اَولِيائَهُ فِي خَلقِهِ فَلا تَحقرَنَّ اَحَداً
@@ -654,5 +642,4 @@ rejecting the one who begs, nobody will turn down anyone's request.
 [^39]: Bihar Al Anwar Vol. 72. P 2.37
 
 [^40]: Tuhuf al-Uqul. P .300
-
 

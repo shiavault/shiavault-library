@@ -1,19 +1,14 @@
 Asking For Hadith Without Fiqh (and What the Traditionists Nicknamed With)
 ==========================================================================
 
-  
-  
-  
-
 There remained one point worth mentioning, which is asking for the
 hadith in the recent eras, since it being relevant to the topic of my
 book.
 
 Abu Umar ibn Abd al-Barr said: In regard of seeking the hadith, as done
-by a large number of present time <span id="_anchor_719"></span>719
+by a large number of present time 719
 people without comprehending it or deliberating its meanings, is
-something reprehensible among a group of men of knowledge <span
-id="_anchor_720"></span>720 .
+something reprehensible among a group of men of knowledge 720 .
 
 Al-Dhahabi (d.748) in his book Bayan zaghal al-ilm wa al-talab an ilm
 al-hadith, writes:
@@ -41,7 +36,7 @@ the past, despite their large number. Also there can be someone renowned
 with fiqh and opinion in the past who excels many among the latters in
 hadith, besides, some of ancient time mutakallimun being more
 knowledgeable in ilm al-athar than the chiefs (mashayikh) of present
-time... etc. <span id="_anchor_721"></span>721
+time... etc. 721
 
 These were the statements of leaders of hadith in regard of the
 condition of muhaddithun during the 5th and 8th Hijrah centuries... so
@@ -64,14 +59,13 @@ Al-Dhahabi, from whom we quoted these words, being in fact the great
 traditionist and historian of Islam, in regard of whom al-Safadi in his
 book Nukat al-himyan has said: I have met him and learned from him so
 many of his compilations, never seeing in him the inaction of
-traditionists, or non-originality of transmitters. <span
-id="_anchor_722"></span>722
+traditionists, or non-originality of transmitters. 722
 
 That was not to be said by al-Safadi but only due to the inertia widely
 known to afflict the men of hadith. Al-Imam described them also with
 
 putrefication and narrow-mindedness, in his book Risalat al-Islam wa
-al-Nasraniyyah. <span id="_anchor_723"></span>723
+al-Nasraniyyah. 723
 
 If all that was said by al-Safadi about his shaykh for the sake of
 exempting him from the defect of stiffness (jumud) known to be common
@@ -98,16 +92,15 @@ comprehend what they compiled, with rushing into seeking to obtain the
 hadith from ten or twenty ways! And in every correct way and the two
 ways sufficient evidences are there for that intending to recognize God
 through his knowledge till going away of their lives, getting nothing of
-all that but a number of asfar, <span id="_anchor_724"></span>724 that
+all that but a number of asfar, 724 that
 fatigued the knowledge-seeker and never benefitted the successor!
 Whoever be of this class we will view him as a loser of his right,
 demanding other than which can benefit him.
 
-Such people were called Hashwiyyah and Nabitah <span
-id="_anchor_725"></span>725 and Mujbirah, or it is said Jabriyyah. Also
-they were given the names of: Ghutha’ <span id="_anchor_726"></span>726
-Ghuthr, <span id="_anchor_727"></span>727 which all being nicknames.
-<span id="_anchor_728"></span>728
+Such people were called Hashwiyyah and Nabitah 725 and Mujbirah, or it is said Jabriyyah. Also
+they were given the names of: Ghutha’ 726
+Ghuthr, 727 which all being nicknames.
+728
 
 Al-Wazir al-Yamani, in al-Rawd al-basim, says: They were called
 Hashwiyyah because they used to yahshun (insert) baseless traditions
@@ -117,7 +110,7 @@ had never been among them.
 
 In his book Diya’ al-ulum, Muhammad ibn Nashwan writes: The reason for
 calling the Hashwiyyah with this name lies in their approval of so many
-akhbar without negation. <span id="_anchor_729"></span>729
+akhbar without negation. 729
 
 Al-Shi’bi says: The earlier righteous men were averse to relating the
 hadith abundantly, and if I was able to be moderate and fair in
@@ -169,20 +162,20 @@ nor people more foolish than people of hadith!!
 
 Sufyan looked at the men of hadith saying: You are going too far. Had we
 and you altogether been present in the time of Umar ibn al-Khattab, he
-would have severely beaten us. <span id="_anchor_730"></span>730
+would have severely beaten us. 730
 
 Mughirah al-Dabbi said: By God I am much more frightened from the
 debauchees than them (men of hadith).
 
 Sufyan al-Thawri said: We have been indulged in the hadith for sixty
 years, and I wish I had come out from it self-sufficient, neither
-against me nor for me. <span id="_anchor_731"></span>731
+against me nor for me. 731
 
 Muhammad ibn Salam says: Yahya ibn Sa’id al-Qattan related to me saying:
 Reciters of poetry are more mindful than narrators of hadith, since the
 latters narrate a lot of fabricated traditions. While reciters of poetry
 recite the falsified (masnu’), criticize it and say that this being
-falsified. <span id="_anchor_732"></span>732
+falsified. 732
 
 Al-Mazini (the eminent grammarian) was asked about characteristics of
 men of knowledge, when he said: Men of the Qur’an are charged with
@@ -191,8 +184,7 @@ confusion and weakness, while men of hadith are charged with hashw
 hawaj
 
 (i.e. recklessness and rashness), and the grammarians are known with
-sluggishness, and in narration of akhbar are quite elegant. <span
-id="_anchor_733"></span>733
+sluggishness, and in narration of akhbar are quite elegant. 733
 
 If we intend to cite all the sayings uttered in regard of inanimation of
 men of hadith, it would be so protracted, so we suffice with what we

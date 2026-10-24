@@ -56,8 +56,6 @@ the justice and wisdom in the Divine Action.[^4]
 **
 وَالْكُلُّ مِنْ نِظامِهِ الْكِياني يَنْشَأُ مِنْ نِظامِهِ الرَّبّاني
 
-  
-
 [^5]
 
 Although this proof has been presented by philosophers in a bid to prove
@@ -76,13 +74,9 @@ the theologians is based upon the absolute knowledge and
 self-sufficiency of God. In this regard, Qāḍī ‘Abd al-Jabbār
 al-Mu‘tazilī has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ تَعالىٰ عالِمٌ بِقُبْحِ القَبيحِ، وَمُسْتَغْنٍ عَنْهُ،
-وَعالِمٌ بِاسْتِغْنائِهِ عَنْهُ، وَمَنْ كانَ هٰذِهِ حالُهُ لايَخْتارُ
-القَبيحَ بِوَجْهٍ مِنَ الوُجوهِ.
-  </p>
-</blockquote>
+> إِنَّهُ تَعالىٰ عالِمٌ بِقُبْحِ القَبيحِ، وَمُسْتَغْنٍ عَنْهُ،
+> وَعالِمٌ بِاسْتِغْنائِهِ عَنْهُ، وَمَنْ كانَ هٰذِهِ حالُهُ لايَخْتارُ
+> القَبيحَ بِوَجْهٍ مِنَ الوُجوهِ.
 
 That is to say, “God, the Exalted, knows the evil of the evil [act] and
 He has no need of doing it, and He is also aware of His needleessness to
@@ -91,12 +85,8 @@ it. And anyone who has such a trait will never commit an evil act.”[^6]
 The following words of Khwājah Naṣīr al-Dīn al-Ṭūsī are also an
 expression of this proof:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتِغْناؤُهُ وَعِلْمُهُ يَدُلّانِ عَلىٰ اِنْتِفاءِ القُبْحِ عَنْ
-أَفْعالِهِ تَعالىٰ.
-  </p>
-</blockquote>
+> وَاسْتِغْناؤُهُ وَعِلْمُهُ يَدُلّانِ عَلىٰ اِنْتِفاءِ القُبْحِ عَنْ
+> أَفْعالِهِ تَعالىٰ.
 
 “And His self-sufficiency and knowledge show the absence of evil in the
 actions of the Exalted One.”[^7]
@@ -211,14 +201,10 @@ has been emphasized in the Holy Qur’an and traditions. Now, we will
 mention some examples of pertinent verses and traditions. Then we will
 also quote the statements of some scholars.
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَى فِي خَلْقِ
-الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِن فُطُورٍ ٭
-ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ
-خَاسِئاً وَهُوَ حَسِيرٌ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَى فِي خَلْقِ
+> الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِن فُطُورٍ ٭
+> ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ
+> خَاسِئاً وَهُوَ حَسِيرٌ ﴾
 
 ***“He created seven heavens in layers. You do not see any discordance
 in the creation of the All-beneficent. Look again! Do you see any flaw?
@@ -227,27 +213,19 @@ weary.”***[^12]
 
 Rāghib al-Iṣfahānī has said:
 
-<blockquote dir="rtl">
-  <p>
-ألتَّفاوُتُ اَلْإِخْتِلافُ فِي الْأَوْصافِ كَأَنَّهُ يُفَوِّتُ وَصف
-أحدهما الأخَر، أو وصف كلّ واحد مِنْهما الأخَر.
-  </p>
-</blockquote>
+> ألتَّفاوُتُ اَلْإِخْتِلافُ فِي الْأَوْصافِ كَأَنَّهُ يُفَوِّتُ وَصف
+> أحدهما الأخَر، أو وصف كلّ واحد مِنْهما الأخَر.
 
 Exegetes (*mufassirūn*) have interpreted this absence of discordance in
 the verse to mean harmony and concordance of the creatures in accord and
 order.[^13]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
-وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ
-النَّاسَ وَمَا أَنزَلَ اللّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا
-بِهِ الأرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ
-وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ
-وَالأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
+> وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ
+> النَّاسَ وَمَا أَنزَلَ اللّهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا
+> بِهِ الأرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ
+> وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ
+> وَالأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴾
 
 ***“Indeed in the creation of the heavens and the earth, and the
 alternation of night and day, and the ships that sail at sea with profit
@@ -257,14 +235,10 @@ animal—and the changing of the winds, and the clouds disposed between
 the sky and the earth, are surely signs for a people who apply
 reason.”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَهُوَ الَّذِي مَدَّ الأرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا
-وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ يُغْشِي
-اللَّيْلَ النَّهَارَ إِنَّ فِي ذَلِكَ لآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-﴾
-  </p>
-</blockquote>
+> ﴿ وَهُوَ الَّذِي مَدَّ الأرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا
+> وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ يُغْشِي
+> اللَّيْلَ النَّهَارَ إِنَّ فِي ذَلِكَ لآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
+> ﴾
 
 *“It is He who has spread out the earth and set in it firm mountains and
 streams, and of every fruit He has made in it two kinds. He draws the
@@ -276,18 +250,14 @@ purpose. Now, we will also cite some examples of pertinent traditions:
 
 Imām ‘Alī has said:
 
-<blockquote dir="rtl">
-  <p>
-أَ فَلا يَنْظُرُونَ إِلَى صَغِيرِ مَا خَلَقَ كَيْفَ أَحْكَمَ خَلْقَهُ
-وَ أَتْقَنَ تَرْكِيبَهُ وَ فَلَقَ لَهُ السَّمْعَ وَ الْبَصَرَ وَ
-سَوَّى لَهُ الْعَظْمَ وَ الْبَشَرَ اُنْظُرُوا إِلَى النَّمْلَةِ فِي
-صِغَرِ جُثَّتِهَا وَ لَطَافَةِ هَيْئَتِهَا لَا تَكَادُ تُنَالُ
-بِلَحْظِ الْبَصَرِ وَ لَا بِمُسْتَدْرَكِ الْفِكَرِ كَيْفَ دَبَّتْ
-عَلَى أَرْضِهَا وَ صُبَّتْ عَلَى رِزْقِهَا تَنْقُلُ الْحَبَّةَ إِلَى
-جُحْرِهَا وَ تُعِدُّهَا فِي مُسْتَقَرِّهَا تَجْمَعُ فِي حَرِّهَا
-لِبَرْدِهَا وَ فِي وِرْدِهَا لِصَدَرِهَا.
-  </p>
-</blockquote>
+> أَ فَلا يَنْظُرُونَ إِلَى صَغِيرِ مَا خَلَقَ كَيْفَ أَحْكَمَ خَلْقَهُ
+> وَ أَتْقَنَ تَرْكِيبَهُ وَ فَلَقَ لَهُ السَّمْعَ وَ الْبَصَرَ وَ
+> سَوَّى لَهُ الْعَظْمَ وَ الْبَشَرَ اُنْظُرُوا إِلَى النَّمْلَةِ فِي
+> صِغَرِ جُثَّتِهَا وَ لَطَافَةِ هَيْئَتِهَا لَا تَكَادُ تُنَالُ
+> بِلَحْظِ الْبَصَرِ وَ لَا بِمُسْتَدْرَكِ الْفِكَرِ كَيْفَ دَبَّتْ
+> عَلَى أَرْضِهَا وَ صُبَّتْ عَلَى رِزْقِهَا تَنْقُلُ الْحَبَّةَ إِلَى
+> جُحْرِهَا وَ تُعِدُّهَا فِي مُسْتَقَرِّهَا تَجْمَعُ فِي حَرِّهَا
+> لِبَرْدِهَا وَ فِي وِرْدِهَا لِصَدَرِهَا.
 
 “Do they not see the small things He has created, how He strengthened
 their system and opened for them hearing and sight and made for them
@@ -300,14 +270,10 @@ the period of its weakness.”[^16]
 
 Elsewhere, the Imām (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقَامَ مِنَ الْأَشْيَاءِ أَوَدَهَا، وَنَهَجَ حُدُودَهَا، وَلاَءَمَ
-بِقُدْرَتِهِ بَيْنَ مُتَضَادِّهَا، وَوَصَلَ أَسْبَابَ قَرَائِنِهَا...
-بَدَايَا خَلاَئِقَ أَحْكَمَ صُنْعَهَا، وَفَطَرَهَا عَلَى مَا أَرَادَ
-وَابْتَدَعَهَا!
-  </p>
-</blockquote>
+> فَأَقَامَ مِنَ الْأَشْيَاءِ أَوَدَهَا، وَنَهَجَ حُدُودَهَا، وَلاَءَمَ
+> بِقُدْرَتِهِ بَيْنَ مُتَضَادِّهَا، وَوَصَلَ أَسْبَابَ قَرَائِنِهَا...
+> بَدَايَا خَلاَئِقَ أَحْكَمَ صُنْعَهَا، وَفَطَرَهَا عَلَى مَا أَرَادَ
+> وَابْتَدَعَهَا!
 
 “So He straightened the curves of the things and fixed their limits.
 With His power He created coherence in their contradictory parts and
@@ -317,12 +283,8 @@ them.”[^17]
 
 In the same sermon, the Imām (*‘a*) has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَرَانَا مِنْ مَلَكُوتِ قُدْرَتِهِ، وَعَجَائِبِ مَا نَطَقَتْ بِهِ
-آثَارُ حِكْمَتِهِ.
-  </p>
-</blockquote>
+> وَأَرَانَا مِنْ مَلَكُوتِ قُدْرَتِهِ، وَعَجَائِبِ مَا نَطَقَتْ بِهِ
+> آثَارُ حِكْمَتِهِ.
 
 “He showed us the realm of His Might, and such wonders which speak of
 His Wisdom.”[^18]
@@ -330,12 +292,8 @@ His Wisdom.”[^18]
 In other places, Imām ‘Alī (*‘a*) has pointed out the signs of God’s
 wisdom in the creation of the bat, saying thus:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ لَطَائِفِ صَنْعَتِهِ، وَعَجَائِبِ خِلْقَتِهِ، مَا أَرَانَا مِنْ
-غَوَامِضِ الْحِكْمَةِ فِي هذِهِ الْخَفَافِيشِ.
-  </p>
-</blockquote>
+> وَمِنْ لَطَائِفِ صَنْعَتِهِ، وَعَجَائِبِ خِلْقَتِهِ، مَا أَرَانَا مِنْ
+> غَوَامِضِ الْحِكْمَةِ فِي هذِهِ الْخَفَافِيشِ.
 
 “An example of His delicate production, wonderful creation and deep
 sagacity which He has shown us is found in these bats.”[^19]
@@ -468,11 +426,7 @@ mentioning those examples here. For the fair-minded and wise person,
 what have been said so far, nay even less than these, are enough for him
 to constitute a book of knowledge about the Origin of creation.
 
-<blockquote dir="rtl">
-  <p>
-برگ درختان سبز در نظر هوشيار هر ورقش دفتريست معرفت كردگار
-  </p>
-</blockquote>
+> برگ درختان سبز در نظر هوشيار هر ورقش دفتريست معرفت كردگار
 
 *For the conscious, each leaf of the green trees*
 
@@ -569,5 +523,4 @@ Society Mond Laboratory in Cambridge, England. [Trans.]
 
 [^26]: Ithbāt-e Wujūd-e Khudā (The Evidence of God in an Expanding
 Universe), pp. 19-22.
-
 

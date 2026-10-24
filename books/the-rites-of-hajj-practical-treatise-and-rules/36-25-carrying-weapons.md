@@ -25,4 +25,3 @@ Article 171
 Whenever a Muhrim carries a weapon deliberately, then the atonement of
 this act is one sheep as a precaution.
 
-

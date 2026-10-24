@@ -77,4 +77,3 @@ Wilāyat-e Faqīh, compiled and edited by Muḥammad Mahdī Nādirī Qummī
 (Qum: Imām Khomeinī Educational and Research Institute, Spring 1382 AHS
 (2003)), 160 pages.
 
-

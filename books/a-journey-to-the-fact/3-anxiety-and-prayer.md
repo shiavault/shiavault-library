@@ -87,4 +87,3 @@ faces to during prayers.
 [^2]: Qunut is a part of prayers in which a person raises his/her hands
 towards the heavens, supplicating the Lord.
 
-

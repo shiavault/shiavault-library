@@ -7,11 +7,7 @@ Article 353
 Umrah al-Mufradah is one of the best acts and has lots of superiorities
 and it has been quoted from holy prophet (s.a.) that:
 
-<blockquote dir="rtl">
-  <p>
-“اَلْعُمرَةُ کَفّارَةٌ لِکُلِّ ذَنْب”
-  </p>
-</blockquote>
+> “اَلْعُمرَةُ کَفّارَةٌ لِکُلِّ ذَنْب”
 
 *Umrah is the atonement of all of the sins (and lighten the sins on the
 back of the human).*
@@ -100,5 +96,4 @@ People who come from Jeddah for performing Umrah al-Mufradah should
 become Muhrim from Hudaybiyah (which is about 17 km from Mecca), and for
 those going through Medina, becoming Muhrim in Masjid al-Shajarah is the
 best of all.
-
 

@@ -1941,4 +1941,3 @@ is further elaborated.
 
 [^118]: La’ihah 8 and 9.
 
-

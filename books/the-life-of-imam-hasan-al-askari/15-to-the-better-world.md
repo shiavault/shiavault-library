@@ -308,4 +308,3 @@ Tareekh ibn al-Wardi, vol.1 p.325.
 
 [^17]: Jami’ al-Akhbar, p.42, Akhbar ad-Duwal, p.117, al-Irshad, p.389.
 
-

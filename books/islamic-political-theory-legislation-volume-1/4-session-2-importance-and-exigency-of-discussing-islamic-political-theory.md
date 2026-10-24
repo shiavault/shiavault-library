@@ -496,12 +496,8 @@ hostility with them. If they want, they can come and talk with us so
 that we can show them this universal Islam, and if they do not want,
 they are welcome to choose whatever they want:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقُلِ الْحَقُّ مِن رَّبِّكُمْ فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء
-فَلْيَكْفُرْ﴾
-  </p>
-</blockquote>
+> ﴿وَقُلِ الْحَقُّ مِن رَّبِّكُمْ فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء
+> فَلْيَكْفُرْ﴾
 
 ***“And say, ‘[This is] the truth from your Lord: let anyone who wishes
 believe it, and let anyone who wishes disbelieve it’**.”*[^2]
@@ -515,11 +511,7 @@ remains of Islam, and which Islam are they talking about? Their words
 can do no more than deceive a number of ignorant individuals.  
  Religion means divine baptism in the life of man:
 
-<blockquote dir="rtl">
-  <p>
-﴿صِبْغَةَ اللّهِ وَمَنْ أَحْسَنُ مِنَ اللّهِ صِبْغَةً﴾
-  </p>
-</blockquote>
+> ﴿صِبْغَةَ اللّهِ وَمَنْ أَحْسَنُ مِنَ اللّهِ صِبْغَةً﴾
 
 ***“The baptism of Allah [sibghat Allah], and who baptizes better than
 Allah?**”*[^3]
@@ -554,5 +546,4 @@ and Hamid Algar (ed. and anno.), Occidentosis: A Plague from the West
 [^2]: Surah al-Kahf 18:29.
 
 [^3]: Surah al-Baqarah 2:138.
-
 

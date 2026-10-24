@@ -8,11 +8,7 @@ Surah Sad, Chapter 38
 The Feature of Surah Sad
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -65,5 +61,4 @@ practised in man’s living.
 [^1]: Majma‘-ul-Bayan, Vol. 8, P. 463
 
 [^2]: Ibid
-
 

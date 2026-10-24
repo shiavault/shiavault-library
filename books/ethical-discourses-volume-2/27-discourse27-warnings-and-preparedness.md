@@ -1,17 +1,13 @@
 Discourse27: Warnings And Preparedness
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إِبْنِ عَبَّاسِ قَالَ: قَالَ رَسُولُ اللٌّهِ فِي بَعْضِ خُطَـبِهِ
-أَوْ مَوَاعِظِهِ: أَيُّهَا النَّاسُ، لاَ يَشْغَلَنَّكُمْ دُنْـيَاكُمْ
-عَنْ آخِرَتِكُم، فَلاَ تُؤْثِرُوا هُوَاكُمْ عَلى طَاعَةِ رَبِّكُمْ، وَ
-لاَ تَجْعَلُوا إِيْمَانَكُمْ ذَرِيعَةً إِلـى مَعَاصِيكُمْ، وَ
-حَاسِبُوا أَنْـفُسَكُمْ قَبْلَ أَنْ تُحَاسَـبُوا، وَ مَهِّدُوا لَهَا
-قَبْلَ أَنْ تُعَذَّبُوا، وَ تَزَوَّدُوا لِلرَّحِيلِ قَبْلَ أَنْ
-تُزْعَجُوا…
-  </p>
-</blockquote>
+> عَنْ إِبْنِ عَبَّاسِ قَالَ: قَالَ رَسُولُ اللٌّهِ فِي بَعْضِ خُطَـبِهِ
+> أَوْ مَوَاعِظِهِ: أَيُّهَا النَّاسُ، لاَ يَشْغَلَنَّكُمْ دُنْـيَاكُمْ
+> عَنْ آخِرَتِكُم، فَلاَ تُؤْثِرُوا هُوَاكُمْ عَلى طَاعَةِ رَبِّكُمْ، وَ
+> لاَ تَجْعَلُوا إِيْمَانَكُمْ ذَرِيعَةً إِلـى مَعَاصِيكُمْ، وَ
+> حَاسِبُوا أَنْـفُسَكُمْ قَبْلَ أَنْ تُحَاسَـبُوا، وَ مَهِّدُوا لَهَا
+> قَبْلَ أَنْ تُعَذَّبُوا، وَ تَزَوَّدُوا لِلرَّحِيلِ قَبْلَ أَنْ
+> تُزْعَجُوا…
 
 It has been narrated from Ibne ‘Abbas that he said, “The Messenger of
 Allah (S) said the following in one of his speeches or words of
@@ -31,12 +27,8 @@ of humanity - the Prophet Muhammad b. ‘Abdullah (S) - who understood the
 transient world and its true nature.  
  It is mentioned in Suratul Hadid (57), verse 20, that:
 
-<blockquote dir="rtl">
-  <p>
-إِعْلَمُوا أَنَّمَا الْحَيٌوةُ الدُّنْـيَا لَعِبٌ و لَهْوٌ وَ زِيـنَةٌ
-وَ تَفَاخُرٌ بَيْـنَكُمْ وَ تَكَاثُرٌ فِي الأََمْوَالِ وَ الأَوْلاَدِ…
-  </p>
-</blockquote>
+> إِعْلَمُوا أَنَّمَا الْحَيٌوةُ الدُّنْـيَا لَعِبٌ و لَهْوٌ وَ زِيـنَةٌ
+> وَ تَفَاخُرٌ بَيْـنَكُمْ وَ تَكَاثُرٌ فِي الأََمْوَالِ وَ الأَوْلاَدِ…
 
 “Know that surely the life of this world is (nothing but) a plaything
 and game and an ornament of beauty and a means of competition between
@@ -73,11 +65,7 @@ When such a person is at the crossroads of life, it is made clear who is
 the Muslim and who is not, just as it has been mentioned in verse 20 of
 Suratul Nisa in which we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ يَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَ نَكْفُرُ بِبَعْضٍ
-  </p>
-</blockquote>
+> وَ يَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَ نَكْفُرُ بِبَعْضٍ
 
 “And they say, we believe in a part of it, and we disbelieve in a part
 of it…”
@@ -102,11 +90,7 @@ against my own lower desires and passions, then I state, 'This ruling of
 His is difficult to follow' and this action is a matter of necessity (to
 perform) and since it is stated that:
 
-<blockquote dir="rtl">
-  <p>
-أَلضَّرُورَاتُ تُبِيحُ الْمَحْذُورَاتِ.
-  </p>
-</blockquote>
+> أَلضَّرُورَاتُ تُبِيحُ الْمَحْذُورَاتِ.
 
 Thus, it is not a problem if I perform this act.'”
 
@@ -135,11 +119,7 @@ This discussion has also been mentioned in relation to intercession
 A poet once uttered the following poem in “praise” of the Commander of
 the Faithful, ‘Ali b. Abi Talib (as):
 
-<blockquote dir="rtl">
-  <p>
-حاجب، اگر معامله حشر با على است   من ضامنم كه هرچه بخواهى گناه كن
-  </p>
-</blockquote>
+> حاجب، اگر معامله حشر با على است   من ضامنم كه هرچه بخواهى گناه كن
 
 “O' hajib (Gatekeeper of Paradise), if the negotiation on the plain of
 Resurrection (in regards to one's sins and good deeds) is done with
@@ -152,11 +132,7 @@ must change it.” 
  The man said, “What should I change it to?”  The Imam (as) replied to
 him: “Say the following:
 
-<blockquote dir="rtl">
-  <p>
-حاجب، اگر معامله حشر با على است   شرم از رخ على كن و كمتر گناه كن
-  </p>
-</blockquote>
+> حاجب، اگر معامله حشر با على است   شرم از رخ على كن و كمتر گناه كن
 
 “O' hajib (Gatekeeper of Paradise), if the negotiation on the plain of
 Resurrection (in regards to one's sins and good deeds) is done with
@@ -167,12 +143,8 @@ Ahlu'l Bayt (as) knows that atleast once or twice every week, all of his
 actions are presented to Imam Sahibul Zaman (as).  
  In the 105th verse of Suratul Tawbah we read:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اعْمَلُوا فَسَيَرَى اللٌّهُ عَمَلَكُمْ وَ رَسُولُهُ وَ
-الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُلِ اعْمَلُوا فَسَيَرَى اللٌّهُ عَمَلَكُمْ وَ رَسُولُهُ وَ
+> الْمُؤْمِنُونَ
 
 And say: Work! Allah will surely see your actions and so will His
 Messenger and the true believers.”
@@ -233,5 +205,4 @@ trip, however the person has not prepared anything for the rest of the
 journey, then it shall be his own loss! !
 
 [^1]: Bihar al-Anwar, vol. 74, pg. 181
-
 

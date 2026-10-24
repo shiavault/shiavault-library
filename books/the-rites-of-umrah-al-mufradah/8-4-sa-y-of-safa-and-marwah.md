@@ -536,4 +536,3 @@ close to Masjid al-Haraam which while exiting Masjid from the Safa and
 Marwah side “Safa” is located the right side and “Marwah” in the left
 side. Therefore, Hajji first comes to Safa and begins from that.
 
-

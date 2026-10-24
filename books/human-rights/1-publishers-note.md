@@ -168,4 +168,3 @@ January 1997
 
 [^1]: The Holy Qur’an, Surah 2 Al Baqara, Verse 255
 
-

@@ -142,13 +142,9 @@ that has turned into God’s House and a center for His remembrance.
 
 In this relation, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ
-آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا
-آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ
-  </p>
-</blockquote>
+> فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ
+> آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا
+> آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ
 
 ***“So when you have performed your devotions, then laud Allah as you
 lauded your fathers, rather a greater lauding. (2:200)”***
@@ -191,5 +187,4 @@ am at your service.
 [^8]: (saw) stands for ‘peace be upon him and his family’
 
 [^9]: See Mustadrak al-Wasaail; vol. 2 p.186, Section 17, Hadith 5
-
 

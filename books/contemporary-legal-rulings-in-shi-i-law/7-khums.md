@@ -55,4 +55,3 @@ house at the end of the year on the total present value (of the house)
 if he has paid all his loans; however, if he has paid only part of it,
 then it is applied to that proportion. (MMS, pp. 34-35, Q70)
 
-

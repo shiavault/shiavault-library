@@ -26,7 +26,6 @@ identical with the truth. The verse says:
 
 "... Will you not then reflect ?"
 
-
 **Commentary : Verse 31**
 
 (31) وَ لا أَقُولُ لَكُمْ عِنْدي خَزائِنُ اللَّهِ وَ لا أَعْلَمُ
@@ -59,7 +58,6 @@ His secrets to any, " "Except to him whom He chooses as an apostle "(3)
 
 (2) Sura Hud, No. 11, verse 49
 (3) Sura The Jinn, No. 72, verses 26, 27
-
 
 that He is knowledgeable about the invisible world, and no one is aware
 of this knowledge of the invisible except those whom He has selected
@@ -145,7 +143,6 @@ those whom your eyes do despise,(that)Allah will never grant them any
 good.Allah is well aware of what is in their hearts;(for)verily then I
 should be of the unjust."
 
-
 **Commentary : Verse 32**
 
 (32) قالُوا يا نُوحُ قَدْ جادَلْتَنا فَأَكْثَرْتَ جِدالَنا فَأْتِنا
@@ -180,7 +177,6 @@ declaration that they wanted him to send down their destruction.
 
 (2) Sura Ghafir, No. 40, verse 5
 
-
 **Commentary : Verse 33**
 
 (33) قالَ إِنَّما يَأْتيكُمْ بِهِ اللَّهُ إِنْ شاءَ وَ ما أَنْتُمْ
@@ -202,7 +198,6 @@ they will not be able to take refuge anywhere. The verse says:
 
 " He said: 'Verily Allah will bring it to you, if He wills, and you
 will not be able to frustrate(it). '"
-
 
 **Commentary : Verse 34**
 
@@ -238,7 +233,6 @@ Attributing the actions of/ 'id lal/ and/ 'iqwa/ to Allah is in the way
 of punishing those who are misled because of the obstinacy and
 corruption of their character. It does not mean that from the beginning
 and without prior premise Allah goes on leading one astray.
-
 
 **Commentary : Verse 35**
 
@@ -276,5 +270,4 @@ his mission in admonishing and conveying the message to them.
 The Arabic term/ 'ijram/ and/ jurm/ mean the picking of unripe fruits
 and which thereafter have been referred to whatever indecent behavior or
 offence or sin.
-
 

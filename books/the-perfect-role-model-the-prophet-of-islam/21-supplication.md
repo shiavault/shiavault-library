@@ -79,4 +79,3 @@ Helper of him who has no help..."*[^7]
 
 [^7]: Sunan an-Nabi, p. 339.
 
-

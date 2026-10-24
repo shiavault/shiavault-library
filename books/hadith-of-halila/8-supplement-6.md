@@ -211,4 +211,3 @@ creature allow his creation e so eaten.
 that the creator of all the things is one and the same. He is the only
 one wise, merciful, omnipotent and omniscient God,
 
-

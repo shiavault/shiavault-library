@@ -25,12 +25,8 @@ Mustahab to perform four Rak’ats prayer in the home when he/she is
 preparing for travel and recites Hamd and “قل هو الله**”** Suras in each
 Rak'at and recite;
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إنّی أتَقَرَّبُ إلَیْکَ بهِنَّ، فَاجْعَلْهُنَّ خَلیفَتی فی
-أهْلِی وَ مَالی .
-  </p>
-</blockquote>
+> اللَّهُمَّ إنّی أتَقَرَّبُ إلَیْکَ بهِنَّ، فَاجْعَلْهُنَّ خَلیفَتی فی
+> أهْلِی وَ مَالی .
 
 And it is Mustahab to stand at the door of his/her house and recite Hamd
 Sura three times in front, right side and left side also Ayat al-Kursi
@@ -44,5 +40,4 @@ that:
 
 مَعىَ وَ سَلِّمْنی وَ سَلِّم مَا مَعِىَ وَ بَلِّغْنی وَ بَلِّغْ مَا
 مَعِىَ ببَلاغِکَ الحَسَنِ الجَمیلِ.
-
 

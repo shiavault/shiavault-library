@@ -623,4 +623,3 @@ rawanshendsi, p. 145.
 
 [^8]: Ghurar al-hikam, p. 347.
 
-

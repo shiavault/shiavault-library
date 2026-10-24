@@ -13,12 +13,8 @@ this in clearer words, it is a *temporary* form of *nikah*!
 Here, al-Hafiẓ (d. 852 H) opens the floor about this Sunni-invented
 marriage:
 
-<blockquote dir="rtl">
-  <p>
-قال عياض وأجمعوا على أن شرط البطلان التصريح بالشرط فلو نوى عند العقد
-أن يفارق بعد مدة صح نكاحه الا الأوزاعي فأبطله
-  </p>
-</blockquote>
+> قال عياض وأجمعوا على أن شرط البطلان التصريح بالشرط فلو نوى عند العقد
+> أن يفارق بعد مدة صح نكاحه الا الأوزاعي فأبطله
 
 ‘Iyaḍ said: “**They unanimously agreed that the condition of invalidity
 is to openly disclose the condition (of time limit). So, if he intends,
@@ -35,14 +31,10 @@ heart, but must never let the woman discover it until when it happens.
 
 Imam al-Nawawi (d. 676 H) also mentions:
 
-<blockquote dir="rtl">
-  <p>
-قال القاضي وأجمعوا على أن من نكح نكاحا مطلقا ونيته أن لا يمكث معها الا
-مدة نواها فنكاحه صحيح حلال وليس نكاح متعة وإنما نكاح المتعة ما وقع
-بالشرط المذكور ولكن قال مالك ليس هذا من أخلاق الناس وشذ الأوزاعي فقال
-هو نكاح متعة ولا خير فيه والله أعلم
-  </p>
-</blockquote>
+> قال القاضي وأجمعوا على أن من نكح نكاحا مطلقا ونيته أن لا يمكث معها الا
+> مدة نواها فنكاحه صحيح حلال وليس نكاح متعة وإنما نكاح المتعة ما وقع
+> بالشرط المذكور ولكن قال مالك ليس هذا من أخلاق الناس وشذ الأوزاعي فقال
+> هو نكاح متعة ولا خير فيه والله أعلم
 
 Al-Qadi said, “**They unanimously agreed that whoever contracts an
 (outwardly) permanent marriage while his (real) intention is to stay
@@ -64,23 +56,15 @@ tricks the unsuspecting woman till the very end.
 
 Shaykh Ibn Taymiyyah (d. 728 H) has his submission too:
 
-<blockquote dir="rtl">
-  <p>
-وسئل رحمه الله عن رجل ركاض يسير في البلاد في كل مدينة شهرا او شهرين
-ويعزل عنها ويخاف ان يقع في المعصية فهل له ان يتزوج في مدة إقامته في
-تلك البلدة وإذا سافر طلقها وأعطاها حقها أو لا وهل يصح النكاح أم لا
-  </p>
-</blockquote>
+> وسئل رحمه الله عن رجل ركاض يسير في البلاد في كل مدينة شهرا او شهرين
+> ويعزل عنها ويخاف ان يقع في المعصية فهل له ان يتزوج في مدة إقامته في
+> تلك البلدة وإذا سافر طلقها وأعطاها حقها أو لا وهل يصح النكاح أم لا
 
-<blockquote dir="rtl">
-  <p>
-فأجاب له أن يتزوج لكن ينكح نكاحا مطلقا لا يشترط فيه توقيتا بحيث يكون
-إن شاء مسكها وإن شاء طلقها وإن نوى طلاقها حتما عند انقضاء سفره كره في
-مثل ذلك وفي صحة النكاح نزاع ولو نوى أنه إذا سافر واعجبته أمسكها وإلا
-طلقها جاز ذلك فأما أن يشترط التوقيت فهذا نكاح المتعة الذي اتفق الأئمة
-الأربعة وغيرهم على تحريمه
-  </p>
-</blockquote>
+> فأجاب له أن يتزوج لكن ينكح نكاحا مطلقا لا يشترط فيه توقيتا بحيث يكون
+> إن شاء مسكها وإن شاء طلقها وإن نوى طلاقها حتما عند انقضاء سفره كره في
+> مثل ذلك وفي صحة النكاح نزاع ولو نوى أنه إذا سافر واعجبته أمسكها وإلا
+> طلقها جاز ذلك فأما أن يشترط التوقيت فهذا نكاح المتعة الذي اتفق الأئمة
+> الأربعة وغيرهم على تحريمه
 
 He (Ibn Taymiyyah), may Allah be merciful to him, was asked about a
 running man, who goes through countries, spending a month or two months
@@ -104,14 +88,10 @@ unanimously agreed to be *haram* by the four Imams and others.[^3]
 
 He also states about this same type of “marriage”:
 
-<blockquote dir="rtl">
-  <p>
-والصحيح أن هذا ليس بنكاح متعة ولا يحرم وذلك أنه قاصد للنكاح وراغب فيه
-بخلاف المحلل لكن لا يريد دوام المرأة معه وهذا ليس بشرط فإن دوام المراة
-معه ليس بواجب بل له أن يطلقها فإذا قصد أن يطلقها بعد مدة فقد قصد أمرا
-جائزا
-  </p>
-</blockquote>
+> والصحيح أن هذا ليس بنكاح متعة ولا يحرم وذلك أنه قاصد للنكاح وراغب فيه
+> بخلاف المحلل لكن لا يريد دوام المرأة معه وهذا ليس بشرط فإن دوام المراة
+> معه ليس بواجب بل له أن يطلقها فإذا قصد أن يطلقها بعد مدة فقد قصد أمرا
+> جائزا
 
 **The correct opinion is that it is not a** ***mut’ah*** **marriage, and
 it is not** ***haram***. And that is: **he intends marriage and is
@@ -133,13 +113,9 @@ correct.
 
 Imam Ibn Qudamah (d. 620 H) submits this *fatwa* as well:
 
-<blockquote dir="rtl">
-  <p>
-وان تزوجها بغير شرط الا أن في نيته طلاقها بعد شهر أو إذا انقضت حاجته
-في هذا البلد فالنكاح صحيح في قول عامة أهل العلم الا الأوزاعي قال هو
-نكاح متعة والصحيح انه لا بأس به ولا تضر نيته
-  </p>
-</blockquote>
+> وان تزوجها بغير شرط الا أن في نيته طلاقها بعد شهر أو إذا انقضت حاجته
+> في هذا البلد فالنكاح صحيح في قول عامة أهل العلم الا الأوزاعي قال هو
+> نكاح متعة والصحيح انه لا بأس به ولا تضر نيته
 
 If he marries her without (openly disclosing) any condition (of time
 limit), except that (in his heart) he intends to divorce her after a
@@ -151,13 +127,9 @@ harm.[^5]
 
 Shaykh Sayyid Sabiq also declares:
 
-<blockquote dir="rtl">
-  <p>
-اتفق الفقهاء على أن من تزوج امرأة دون أن يشترط التوقيت وفي نيته أن
-يطلقها بعد زمن، أو بعد انقضاء حاجته في البلد الذي هو مقيم به، فالزواج
-صحيح. وخالف الأوزاعي فاعتبره زواج متعة.
-  </p>
-</blockquote>
+> اتفق الفقهاء على أن من تزوج امرأة دون أن يشترط التوقيت وفي نيته أن
+> يطلقها بعد زمن، أو بعد انقضاء حاجته في البلد الذي هو مقيم به، فالزواج
+> صحيح. وخالف الأوزاعي فاعتبره زواج متعة.
 
 **The jurists unanimously agree that** whoever marries a woman without
 (openly disclosing) any time limit as a condition, and his intention is
@@ -277,5 +249,4 @@ Majmu’ al-Fatawa, vol. 32, pp. 106-107
 
 [^6]: Sayyid Sabiq, Fiqh al-Sunnah (Beirut: Dar al-Kitab al-‘Arabi; 3rd
 edition, 1397 H), vol. 2, p. 45
-
 

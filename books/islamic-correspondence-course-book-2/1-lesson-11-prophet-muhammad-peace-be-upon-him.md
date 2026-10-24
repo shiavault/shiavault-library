@@ -200,4 +200,3 @@ In such an atmosphere, there could be no question of 'racial
 discrimination/ for there was a much higher basis in virtue, knowledge,
 piety, human values and ethical greatness.
 
-

@@ -241,7 +241,7 @@ started his rule with the murder of Imam Husain (a.s.) and his
 household, and completed it with the incident of al-Harrah in the year
 63 AH.
 
-**[k]** Ath-Thahabi writes in page 496 of the 8<sup>th</sup> volume of
+**[k]** Ath-Thahabi writes in page 496 of the 8th volume of
 the book ‘Mir’atuz Zamaan’ that when asked about cursing Yazid, Sibt bin
 al-Jowzi replied that Imam Ahmed (bin Hanbal) considered it appropriate
 to curse Yazid and we [his followers] also do not approve of him because

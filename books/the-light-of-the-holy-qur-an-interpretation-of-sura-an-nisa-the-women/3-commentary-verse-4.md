@@ -53,7 +53,6 @@ of it, then consume it with pleasure and wholesomely."
 essential when the Qur'an says: " of themselves". Then, unwillingly
 given or compulsory remits are not valid.
 
-
 **Commentary : Verse 5**
 
 (5) وَلاَ تُؤْتُواْ السُّفَهَاء أَمْوَالَكُمُ الَّتِي جَعَلَ اللّهُ
@@ -128,5 +127,4 @@ their lives to run and nothing of their capital would be spent.
 regarded to.
 
 "... and speak to them with kind words."
-
 

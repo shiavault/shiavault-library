@@ -55,4 +55,3 @@ that the body is injured or bruised.
 
 [^2]: Surah Baqarah 2:187
 
-

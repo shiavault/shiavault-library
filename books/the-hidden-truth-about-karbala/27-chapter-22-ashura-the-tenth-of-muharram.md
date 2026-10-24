@@ -1138,4 +1138,3 @@ Islam.
 
 [^25]: History of the Saracens.
 
-

@@ -165,4 +165,3 @@ phenomenon in Ahlul Bayt life there is no more objection to the
 leader-ship of al-Imam al-Mahdi (peace be upon him) nor to his
 succession to his father while very young.
 
-

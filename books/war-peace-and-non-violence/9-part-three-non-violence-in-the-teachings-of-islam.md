@@ -173,7 +173,6 @@ tens of thousands or million s, and on the other violence with less than
 fourteen hundred. Clearly the latter would not be called violence
 compared to the first.
 
-
 **Acquiring a Non-violent Discipline**
 
 The virtue of non-violence requires a substantial and, very often, a
@@ -251,7 +250,6 @@ forgive he who oppresses us."
 
 The above is a small sample of the enormous collection of traditions
 reported in this respect.
-
 
 **War Conducts: Islam vs. Others**
 
@@ -456,5 +454,4 @@ able to attract to Islam those ferocious conquerors. In doing so they
 (the Muslims) destroyed all the myths and accusations propagated b y the
 adversaries of Islam that it is a religion th at spread and survived by
 the sword."
-
 

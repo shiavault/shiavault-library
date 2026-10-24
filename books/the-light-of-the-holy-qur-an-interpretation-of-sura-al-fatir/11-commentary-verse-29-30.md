@@ -131,7 +131,6 @@ selves except for it.” [^1]
 
 [^1] Nahj-ul-Bala-qah, saying No. 456
 
-
 **Commentary : Verse 31**
 
 (31) وَالَّذِي أَوْحَيْنَآ إِلَيْكَ مِنَ الْكِتَابِ هُوَ الْحَقُّ
@@ -195,5 +194,4 @@ principle of the creation of man, and /bas?i-r/ refers to his deeds and
 states.
 
 [^1] Tafsi-r-i-Kabi-r, by Fakhr-i-Ra-zi-, following the verse.
-
 

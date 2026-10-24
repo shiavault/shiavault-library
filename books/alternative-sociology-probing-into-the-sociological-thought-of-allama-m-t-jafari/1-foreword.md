@@ -99,4 +99,3 @@ interpreted as an antidote against alienating forces of modernism by
 paving the road towards realization of wonderful possibilities of human
 spirit.
 
-

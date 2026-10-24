@@ -6,12 +6,8 @@ sanctity of Allah
 
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ
-رَبِّهِ.
-  </p>
-</blockquote>
+> ذَلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ
+> رَبِّهِ.
 
 ***And whoever respects the sanctified ordinances of Allah, it is better
 for him with his Lord. (Surah Haj 22:30)***
@@ -71,5 +67,4 @@ Mausoleums and their tomb enclosures (Zarih), their relics, sayings,
 descendants and the Sayyids who follows their way and the narrators of
 their traditions and the scholars of their sciences, because their
 respect is due to the respect of those noble personages.
-
 

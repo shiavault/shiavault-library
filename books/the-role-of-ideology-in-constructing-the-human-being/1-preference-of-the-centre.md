@@ -80,7 +80,5 @@ evidences.
 So, we thank Allah for what he has granted and praised Him for the
 success he bestowed and it is on Him we depend.
 
-
 Al-Risaalah Centre.
-
 

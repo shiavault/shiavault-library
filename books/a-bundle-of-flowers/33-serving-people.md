@@ -45,4 +45,3 @@ themselves (in Hereafter)."
 
 Al-Kafi, vol. 2, p.199
 
-

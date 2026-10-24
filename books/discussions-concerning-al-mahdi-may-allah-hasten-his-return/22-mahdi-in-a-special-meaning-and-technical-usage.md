@@ -33,27 +33,15 @@ has given tidings and has invited his Ahl al-Bait (peace be upon them)
 and all the Muslims to be among those awaiting his appearance. Some of
 these prophetic traditions are:
 
-<blockquote dir="rtl">
-  <p>
-اَلْمَهْدِي مِنْ وُلْدِي.
-  </p>
-</blockquote>
+> اَلْمَهْدِي مِنْ وُلْدِي.
 
 “The Mahdi is from my descendants.”[^1]
 
-<blockquote dir="rtl">
-  <p>
-اَلْمَهْدِي مِنْ عِتْرَتِي مِنْ وُلْدِ فَاطِمَةَ.
-  </p>
-</blockquote>
+> اَلْمَهْدِي مِنْ عِتْرَتِي مِنْ وُلْدِ فَاطِمَةَ.
 
 “The Mahdi is from my family, from the descendants of Fatimah.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-اَلْمَهْدِي مِنْ وُلْدِكَ.
-  </p>
-</blockquote>
+> اَلْمَهْدِي مِنْ وُلْدِكَ.
 
 “The Mahdi is from your descendants.”[^3]
 
@@ -61,11 +49,7 @@ these prophetic traditions are:
 “guidance”, such as “showing the way,” “conveying to the desired
 object,” and other instances is also used for non-humans, and the verse:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلَقَهُ ثُمَّ هَدى
-  </p>
-</blockquote>
+> رَبَّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلَقَهُ ثُمَّ هَدى
 
 “He said, Our Lord is the One Gave every existent what is necessary for
 its creation, then guided.”[^4]
@@ -79,12 +63,8 @@ effect.
 
 On this basis, it must be said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْمَهْدِيُّ مَنْ هَدَاهُ اللهُ وَقَبْلَ هَدَايْتَهُ وَاهْتَدَى بِهَا
-بِعِنَايَةِ مِنْهُ وَتَوْفِيقَهُ.
-  </p>
-</blockquote>
+> اَلْمَهْدِيُّ مَنْ هَدَاهُ اللهُ وَقَبْلَ هَدَايْتَهُ وَاهْتَدَى بِهَا
+> بِعِنَايَةِ مِنْهُ وَتَوْفِيقَهُ.
 
 That is, one who has received Allah’s guidance is “Mahdi.” In other
 words, guidance in the meaning of “showing the path” has been directed
@@ -114,5 +94,4 @@ family) or Imams (peace be upon them).
 [^3]: Bihar al-Anwar, Volume 51, Page 78
 
 [^4]: Surah Taha (20), Verse 50
-
 

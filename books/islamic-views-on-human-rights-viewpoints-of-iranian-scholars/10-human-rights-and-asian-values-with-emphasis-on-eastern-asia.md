@@ -542,4 +542,3 @@ Modernism, (Malaysia), International Higher Cultural Studies, 1996.
 [^25]: Behzad Shahandah, State and Politics in South East Asia, (Tehran,
 SAMT 1995). The chapters relevant to South East Asia after World War II.
 
-

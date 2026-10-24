@@ -8,12 +8,8 @@ address the rationale behind taqleed. Some of them declare taqleed
 mandatory (wajib), such as Sahiha[^1] Ishaq Bin Yaqub. This authentic
 tradition by our Current Imam Hujjat Ibnul Hasan (as) is as follows:
 
-<blockquote dir="rtl">
-  <p>
-"اما الحوادث الواقعة فارجعوا فيها إلى رواة حديثنا فإنهم حجتي عليكم
-وانا حجة الله."
-  </p>
-</blockquote>
+> "اما الحوادث الواقعة فارجعوا فيها إلى رواة حديثنا فإنهم حجتي عليكم
+> وانا حجة الله."
 
 “In your lives when you face new problems never heard of before, consult
 with narrators of our traditions to find out the rules and regulations
@@ -79,34 +75,22 @@ saying authentic, there is no place for any doubters.
 
 There is another tradition on this subject by Imam Ja’far As-Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-"لا يقبل الله عملا إلا بمعرفة."
-  </p>
-</blockquote>
+> "لا يقبل الله عملا إلا بمعرفة."
 
 “Any deed done without knowledge and understanding will not be accepted
 by Allah.”[^5]
 
 Similarly Imam As-Sadiq (as) told Humran Ibn Aain:
 
-<blockquote dir="rtl">
-  <p>
-"انما يهلك الناس لأنهم لا يسألون."
-  </p>
-</blockquote>
+> "انما يهلك الناس لأنهم لا يسألون."
 
 “Destruction is the fate of those who hesitate to seek answers to
 problems.”[^6]
 
 The leader of martyrs, Hazrat Imam Hussain (as), guides like this:
 
-<blockquote dir="rtl">
-  <p>
-"مجاري الامور والاحكام بيد العلماء الادلاء على الله والامناء على حلاله
-وحرامه."
-  </p>
-</blockquote>
+> "مجاري الامور والاحكام بيد العلماء الادلاء على الله والامناء على حلاله
+> وحرامه."
 
 “The authority for running the affairs of the society and getting all
 commandments of sharia executed lies with those religious scholars who
@@ -116,14 +100,10 @@ responsibility of answering questions of lawful and unlawful.”[^7]
 In the same context another saying called Maqbula[^8] 1 Umar Ibn Hanzala
 is referred to Imam As-Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-"من كان منكم ممن قد روى حديثنا ونظر في حلالنا وحرامنا وعرف أحكامنا
-فليرضوا به حكما. فإني قد جعلته عليكم حاكما فإذا حكم بحكمنا فلم يقبله
-منه فإنما استخف بحكم الله وعلينا رد والرد علينا الراد على الله وهو على
-حد الشرك بالله."
-  </p>
-</blockquote>
+> "من كان منكم ممن قد روى حديثنا ونظر في حلالنا وحرامنا وعرف أحكامنا
+> فليرضوا به حكما. فإني قد جعلته عليكم حاكما فإذا حكم بحكمنا فلم يقبله
+> منه فإنما استخف بحكم الله وعلينا رد والرد علينا الراد على الله وهو على
+> حد الشرك بالله."
 
 “Who amongst you narrates our sayings, keeps an eye on our declared
 lawful and unlawful issues, has the knowledge of our commandments, you
@@ -141,11 +121,7 @@ who could provide sharai commands and solve the religious issues.
 Shoaib Aqarqufi asked Imam Ja’far As-Sadiq (as), “when there is a need
 who do we ask questions of sharia?” Hazrat responded:
 
-<blockquote dir="rtl">
-  <p>
-"عليك بالأسدي."
-  </p>
-</blockquote>
+> "عليك بالأسدي."
 
 “Ask Abu Baseer Asadi.”[^10]
 
@@ -156,12 +132,8 @@ Abdullah Ibn Yafur asked the sixth Imam, “my lord, if someone asks me a
 sharai question, neither can I come to you for the answer every time,
 nor can I myself provide a satisfactory answer.” The Imam responded:
 
-<blockquote dir="rtl">
-  <p>
-"فما يمنعك من محمد بن مسلم الثقفي فإنه قد سمع ابي وكان عنده مرضيا
-وجيها."
-  </p>
-</blockquote>
+> "فما يمنعك من محمد بن مسلم الثقفي فإنه قد سمع ابي وكان عنده مرضيا
+> وجيها."
 
 “OK, then why don’t you consult Muhammad Ibn Muslim Saqafi? He has
 listened to my father and he had my father’s blessings and he was
@@ -171,12 +143,8 @@ Another saying of Imam Ja’far As-Sadiq (as): Younus Ibn Yaqub says, “we
 were in the sacred company of Imam As-Sadiq (as). During conversation
 Imam said:
 
-<blockquote dir="rtl">
-  <p>
-"أما لكم من مفزع؟ اما لكم من مستراح تستريحون اليه؟ ما يمنعكم من الحارث
-بن المغيرة البصرى؟
-  </p>
-</blockquote>
+> "أما لكم من مفزع؟ اما لكم من مستراح تستريحون اليه؟ ما يمنعكم من الحارث
+> بن المغيرة البصرى؟
 
 “If you have no place to get peace of mind and cannot get solutions to
 your problems, then what is the difficulty in visiting Haris Ibn
@@ -187,22 +155,14 @@ Ibn Yaqtin, that we asked Imam, “Your honor, we live far away from here.
 We cannot visit you very often. Please tell us how we can seek religious
 knowledge. Can we count on Younus Bin Abdur Rahman?” The Imam responded,
 
-<blockquote dir="rtl">
-  <p>
-"قال خذ عن يونس بن عبد الرحمان."
-  </p>
-</blockquote>
+> "قال خذ عن يونس بن عبد الرحمان."
 
 “Yes, benefit from Younus Bin Abdur Rahman.”[^13]
 
 Same question was asked by Ali Bin Mussayyab Hamdani. The Imam
 responded:
 
-<blockquote dir="rtl">
-  <p>
-"من زكريا بن آدم القمي المأمون على الدين والدنيا."
-  </p>
-</blockquote>
+> "من زكريا بن آدم القمي المأمون على الدين والدنيا."
 
 “In your transactions and problems you should seek judgment (fatwa) from
 Zikria Bin Adam Qumi because he is honest and trustworthy in the affairs
@@ -214,11 +174,7 @@ discussion:
 Abdul Wahid Bin Muhammad Bin Abdoos narrates that the esteemed Imam
 said:
 
-<blockquote dir="rtl">
-  <p>
-"رحم الله عبدا احيى امرنا."
-  </p>
-</blockquote>
+> "رحم الله عبدا احيى امرنا."
 
 “The Lord of all worlds will bless His servant with His divine mercy who
 keeps our system alive.”
@@ -228,11 +184,7 @@ kept alive?”
 
 The Imam responded:
 
-<blockquote dir="rtl">
-  <p>
-"يتعلموا علومنا ويعلمها الناس."
-  </p>
-</blockquote>
+> "يتعلموا علومنا ويعلمها الناس."
 
 “By seeking our knowledge and then passing on to others.”[^15]
 
@@ -243,22 +195,14 @@ Chaste Aimma (as) for providing intellectual guidance and leadership:
 governor of Mecca. Amir (as) gave him instructions in a letter as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-"فافت المستفتي وعلم الجاهل وذكر العالم."
-  </p>
-</blockquote>
+> "فافت المستفتي وعلم الجاهل وذكر العالم."
 
 “Qasam. Give fatwa to those who desire it from you. Teach the ones who
 do not know and refresh memory of those who do know.”[^16]
 
 Imam Baqir (as) told Aban Bin Taghlab Bin Rabah:
 
-<blockquote dir="rtl">
-  <p>
-"اجلس في مسجد المدينة وافت الناس فإني احب ان يرى في شيعتي مثلك."
-  </p>
-</blockquote>
+> "اجلس في مسجد المدينة وافت الناس فإني احب ان يرى في شيعتي مثلك."
 
 “You sit in the mosque in Madina and give fatwas to those who come to
 get them. I very much like people like you among our Shias.”[^17]
@@ -338,5 +282,4 @@ Beirut
 73, published Varal Adhvan, Beirut
 
 [^18]: Rijal Kushi, p 470, published Mustafavi, Tehran
-
 

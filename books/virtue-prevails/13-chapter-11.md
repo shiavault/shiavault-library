@@ -56,4 +56,3 @@ energy."
 
 They reached their car and soon arrived at their home.
 
-

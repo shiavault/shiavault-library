@@ -38,4 +38,3 @@ A man is known by the company he keeps.
 
 3. What Imam Ali has said about friends?
 
-

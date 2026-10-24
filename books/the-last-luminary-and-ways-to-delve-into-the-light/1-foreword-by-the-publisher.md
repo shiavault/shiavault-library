@@ -234,14 +234,10 @@ up a new world order based on justice, righteousness and virtue.
 Allah in the Noble Qur\`an has clearly promised that a day will come
 when truth will prevail and the righteous will come to power:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللٌّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَـيَسْتَخْلِفَنَّهُمْ فِي الأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى
-لَهُمْ... 
-  </p>
-</blockquote>
+> وَعَدَ اللٌّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَـيَسْتَخْلِفَنَّهُمْ فِي الأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى
+> لَهُمْ... 
 
 ***“Allah has promised those of you who believe and do good deeds that
 He will surely make them successors on the Earth as He made those who
@@ -300,5 +296,4 @@ Islamic Publishing House
 Muharram 25th, 1429 ah  
  Martyrdom anniversary of Imam ‘Ali b. Husayn Zainul ‘Abidin (peace be
 upon him)
-
 

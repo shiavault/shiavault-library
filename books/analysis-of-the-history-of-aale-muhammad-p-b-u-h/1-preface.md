@@ -727,4 +727,3 @@ difficulties befalling them would be discussed, analyzed and judged.
 Therefore, we shall begin our discussion with Amirul Momineen (a.s.),
 the first member of this family.
 
-

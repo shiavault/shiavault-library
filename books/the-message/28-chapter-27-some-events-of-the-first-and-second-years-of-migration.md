@@ -345,4 +345,3 @@ contents.
 [^4]: Some historians have mentioned his name as Waqid bin Abdullah and
 others 'Amr bin Abdullah.
 
-

@@ -13,12 +13,8 @@ world of the hereafter.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى‏ رَبِّكَ كَدْحاً
-فَمُلاَقِيهِ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى‏ رَبِّكَ كَدْحاً
+> فَمُلاَقِيهِ
 
 ***O man! surely you must strive (to attain) to your Lord, a hard
 striving until you meet Him. (84:6)***
@@ -38,34 +34,22 @@ The Holy Quran has introduced worship of only one God and submission to
 His commands, according to pure nature of man and to which the divine
 prophets have called people as the straight path (Siraat Mustaqeem).
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ رَبِّى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
-مُّسْتَقِيمٌ‏
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ رَبِّى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
+> مُّسْتَقِيمٌ‏
 
 ***Surely Allah is my Lord and your Lord, therefore serve Him; this is
 the right path. (3:51)***
 
-<blockquote dir="rtl">
-  <p>
-وَهَذَا صِرَطُ رَبِّكَ مُسْتَقِيماً قَدْ فَصَّلْنَا الْأَيَتِ لِقَوْمٍ
-يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> وَهَذَا صِرَطُ رَبِّكَ مُسْتَقِيماً قَدْ فَصَّلْنَا الْأَيَتِ لِقَوْمٍ
+> يَذَّكَّرُونَ
 
 ***And this is the path of your Lord, (a) right (path); indeed We have
 made the communications clear for a people who mind. (6:126)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا
-قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ
-الْمُشْرِكِينَ قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي
-لِلَّهِ رَبِّ الْعَالَمِينَ 
-  </p>
-</blockquote>
+> قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا
+> قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ
+> الْمُشْرِكِينَ قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي
+> لِلَّهِ رَبِّ الْعَالَمِينَ
 
 ***Say: Surely, (as for) me, my Lord has guided me to the right path;
 (to) a most right religion, the faith of Ibrahim the upright one, and he
@@ -73,14 +57,10 @@ was not of the polytheists. Say: Surely my prayer and my sacrifice and
 my life and my death are (all) for Allah, the Lord of the worlds.
 (6:161-2)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّنِى هَدَينِى رَبِّى إِلَى‏ صِرَ طٍ مُسْتَقِيمٍ دِيناً
-قِيَماً مِلَّةَ إِبْرَهِيمَ حَنِيفاً وَمَا كَانَ مِنَ
-الْمُشْرِكِينَ \* قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى
-لِلَّهِ رَبِّ الْعَلَمِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّنِى هَدَينِى رَبِّى إِلَى‏ صِرَ طٍ مُسْتَقِيمٍ دِيناً
+> قِيَماً مِلَّةَ إِبْرَهِيمَ حَنِيفاً وَمَا كَانَ مِنَ
+> الْمُشْرِكِينَ \* قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى
+> لِلَّهِ رَبِّ الْعَلَمِينَ
 
 ***Did I not charge you, O children of Adam! that you should not serve
 the Shaitan? Surely he is your open enemy. And that you should serve Me;
@@ -93,44 +73,28 @@ prophets. The straight path (Siraat Mustaqeem) is one, not more and
 every other way other than it is deviated. The Holy Quran says in the
 following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْأَخِرَةِ عَنِ الصِّرَطِ
-لَنَكِبُونَ
-  </p>
-</blockquote>
+> وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْأَخِرَةِ عَنِ الصِّرَطِ
+> لَنَكِبُونَ
 
 ***And most surely those who do not believe in the hereafter are
 deviating from the way. (23:74)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَبَدَّلِ الكُفْرَ بِالإيمَنِ فَقَدْ ضَلَّ سَوَآءَ
-الْسَّبِيلِ‏
-  </p>
-</blockquote>
+> وَمَنْ يَتَبَدَّلِ الكُفْرَ بِالإيمَنِ فَقَدْ ضَلَّ سَوَآءَ
+> الْسَّبِيلِ‏
 
 ***…and whoever adopts unbelief instead of faith, he indeed has lost the
 right direction of the way. (2:108)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ
-بِمَا نَسُواْ يَوْمَ الْحِسَابِ‏
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ
+> بِمَا نَسُواْ يَوْمَ الْحِسَابِ‏
 
 ***…(as for) those who go astray from the path of Allah, they shall
 surely have a severe punishment because they forgot the day of
 reckoning. (38:26)***
 
-<blockquote dir="rtl">
-  <p>
-احْشُرُواْ الَّذِينَ ظَلَمُواْ وَأَزْوَاجَهُمْ وَمَا كَانُواْ
-يَعْبُدُونَ‏ \* مِن دُونِ اللَّهِ فَاهْدُوهُمْ إِلَى‏ صِرَاطِ
-الْجَحِيمِ
-  </p>
-</blockquote>
+> احْشُرُواْ الَّذِينَ ظَلَمُواْ وَأَزْوَاجَهُمْ وَمَا كَانُواْ
+> يَعْبُدُونَ‏ \* مِن دُونِ اللَّهِ فَاهْدُوهُمْ إِلَى‏ صِرَاطِ
+> الْجَحِيمِ
 
 ***Gather together those who were unjust and their associates, and what
 they used to worship Besides Allah, then lead them to the way to hell.
@@ -224,11 +188,7 @@ job. That is why it requires divine help; and that is why Muslims in all
 obligatory and recommended prayers always beseech Almighty Allah to keep
 them on the straight path:
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَ طَ الْمُستَقِيمَ‏
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَ طَ الْمُستَقِيمَ‏
 
 ***Keep us on the right path. (1:6)***
 
@@ -275,5 +235,4 @@ to the left there is Hell and if you turn to the right it is Hell.[^8]
 [^7]: Maad az Deedgah Imam Khomeini, Pg. 278.
 
 [^8]: Maad az Deedgah Imam Khomeini, Pg. 281.
-
 

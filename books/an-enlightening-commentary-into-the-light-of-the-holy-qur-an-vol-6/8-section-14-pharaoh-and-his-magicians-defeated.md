@@ -4,17 +4,9 @@ Section 14: Pharaoh and His Magicians Defeated
 Surah al-‘Araf – Verses 108-109
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعَ يَدَهُ فإِذَا هِيَ بَيْضَآءُ لِلنَّاظِرِينَ
-  </p>
-</blockquote>
+> وَنَزَعَ يَدَهُ فإِذَا هِيَ بَيْضَآءُ لِلنَّاظِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الْمَلأُ مِنْ قَوْمِ فِرْعَوْنَ إِنَّ هَذَا لَسَاحِرٌ عَلِيمٌ
-  </p>
-</blockquote>
+> قَالَ الْمَلأُ مِنْ قَوْمِ فِرْعَوْنَ إِنَّ هَذَا لَسَاحِرٌ عَلِيمٌ
 
 **108*****. “Then he drew out his hand, and behold! It was white to the
 beholders.”***
@@ -38,11 +30,7 @@ knowing sorcerer’.”***
 Surah al-‘Araf – Verse 110
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ أَنْ يُخْرِجَكُمْ مِنْ أَرْضِكُمْ فَمَاذَا تَأْمُرُونَ
-  </p>
-</blockquote>
+> يُرِيدُ أَنْ يُخْرِجَكُمْ مِنْ أَرْضِكُمْ فَمَاذَا تَأْمُرُونَ
 
 **110*****. “‘He (Moses) intends to expel you from your land. Then what
 do you advise?’”***
@@ -64,17 +52,9 @@ to consult in difficulties with some others around them.
 Surah al-‘Araf – Verses 111-112
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَرْجِهِ وَأَخَاهُ وَأَرْسِلْ فِي الْمَدَآئِنِ حَاشِرِينَ
-  </p>
-</blockquote>
+> قَالُوا أَرْجِهِ وَأَخَاهُ وَأَرْسِلْ فِي الْمَدَآئِنِ حَاشِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-يَأْتُوكَ بِكُلِّ سَاحِرٍ عَلِيمٍ
-  </p>
-</blockquote>
+> يَأْتُوكَ بِكُلِّ سَاحِرٍ عَلِيمٍ
 
 **111*****. “They said (unto Pharaoh): ‘Keep him and his brother in
 suspense (for a while); and send men to the cities to collect
@@ -107,18 +87,10 @@ could disappear from the minds of people forever.
 Surah al-‘Araf – Verses 113-114
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَ الْسَّحَرَةُ فِرْعَوْنَ قَالُوا إِنَّ لَنا لاَجْراً إِنْ كُنّا
-نَحْنُ الْغَالِبِينَ
-  </p>
-</blockquote>
+> وَجَآءَ الْسَّحَرَةُ فِرْعَوْنَ قَالُوا إِنَّ لَنا لاَجْراً إِنْ كُنّا
+> نَحْنُ الْغَالِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ نَعَمْ وإِنَّكُمْ لَمِنَ الْمُقَرَّبِينَ
-  </p>
-</blockquote>
+> قَالَ نَعَمْ وإِنَّكُمْ لَمِنَ الْمُقَرَّبِينَ
 
 **113*****. “And the sorcerers came to Pharaoh, they said: ‘Verily there
 will be a reward for us if we are victors’.”***
@@ -149,19 +121,11 @@ high rank.
 Surah al-‘Araf – Verses 115-116
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَامُوسَى إِمَّآ أَنْ تُلْقِيَ وَإِمَّآ أَنْ نَكُونَ نَحْنُ
-الْمُلْقِينَ
-  </p>
-</blockquote>
+> قَالُوا يَامُوسَى إِمَّآ أَنْ تُلْقِيَ وَإِمَّآ أَنْ نَكُونَ نَحْنُ
+> الْمُلْقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَلْقُوا فَلَمّآ أَلْقَوْا سَحَرُوا أَعْيُنَ النَّاسِ
-وَاسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ
-  </p>
-</blockquote>
+> قَالَ أَلْقُوا فَلَمّآ أَلْقَوْا سَحَرُوا أَعْيُنَ النَّاسِ
+> وَاسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ
 
 **115*****. “They (the sorcerers) said: ‘O’ Moses! Will you throw, or
 shall we be the (first) throwers?’”***  
@@ -210,12 +174,8 @@ which is invisible’. The verse says:
 Surah al-‘Araf – Verse 117
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَآ إِلَى مُوسَى أَنْ أَلْقِ عَصَاكَ فإِذَا هِيَ تَلْقَفُ
-مَا يَأْفِكُونَ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَآ إِلَى مُوسَى أَنْ أَلْقِ عَصَاكَ فإِذَا هِيَ تَلْقَفُ
+> مَا يَأْفِكُونَ
 
 **117*****. “And We revealed to Moses: ‘Throw down your rod!’ And
 behold, it swallowed (all) that they falsely had invented.”***
@@ -241,23 +201,11 @@ swallowed (all) that they falsely had invented.”***
 Surah al-‘Araf – Verses 118-120
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَوَقَعَ الْحَقُّ وَبَطَلَ مَاكَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَوَقَعَ الْحَقُّ وَبَطَلَ مَاكَانُوا يَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَغُلِبُوا هُنَالِكَ وَانْقَلَبُوا صَاغِرِينَ
-  </p>
-</blockquote>
+> فَغُلِبُوا هُنَالِكَ وَانْقَلَبُوا صَاغِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَاُلْقِيَ الْسَّحَرَةُ سَاجِدِينَ
-  </p>
-</blockquote>
+> وَاُلْقِيَ الْسَّحَرَةُ سَاجِدِينَ
 
 **118*****. “So the truth was established and what they were doing was
 made vain.”***
@@ -296,17 +244,9 @@ says:
 Surah al-‘Araf – Verses 121-122
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا ءَامَنَّا بِرَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالُوا ءَامَنَّا بِرَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ مُوسَى وَهَارُونَ
-  </p>
-</blockquote>
+> رَبِّ مُوسَى وَهَارُونَ
 
 **121*****. “They said: ‘We have believed in the Lord of the worlds.”***
 
@@ -325,13 +265,9 @@ and his men.
 Surah al-‘Araf – Verse 123
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فِرْعَوْنُ ءَامَنْتُمْ بِهِ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّ
-هذَا لَمَكْرٌ مَكَرْتُمُوهُ فِي الْمَدِينَةِ لِتُخْرِجُوا مِنْهَآ
-أَهْلَهَا فَسَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> قَالَ فِرْعَوْنُ ءَامَنْتُمْ بِهِ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّ
+> هذَا لَمَكْرٌ مَكَرْتُمُوهُ فِي الْمَدِينَةِ لِتُخْرِجُوا مِنْهَآ
+> أَهْلَهَا فَسَوْفَ تَعْلَمُونَ
 
 **123*****. “Pharaoh said: ‘Did you believe in him before I should give
 you permission? Surely this is a plot you have plotted in the city that
@@ -372,18 +308,10 @@ intensively and firmly. He said:
 Surah al-‘Araf – Verses 124-125
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلاَفٍ ثُمَّ
-لاَُصَلِّبَنَّكُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> لاَُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلاَفٍ ثُمَّ
+> لاَُصَلِّبَنَّكُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّآ إِلَى رَبِّنَا مُنْقَلِبُونَ
-  </p>
-</blockquote>
+> قَالُوا إِنَّآ إِلَى رَبِّنَا مُنْقَلِبُونَ
 
 **124*****. “Surely I will cut off your hands and your feet on opposite
 sides, then I will certainly crucify you all’.”***
@@ -423,13 +351,9 @@ it could be considered as an honour and a happiness for them.
 Surah al-‘Araf – Verse 126
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَنْقِمُ مِنَّآ إِلآَّ أَنْ ءَامَنَّا بِاَيَاتِ رَبِّنَا لَمَّا
-جَآءَتْنَا رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْراً وَتَوَفَّنَا
-مُسْلِمِينَ
-  </p>
-</blockquote>
+> وَمَا تَنْقِمُ مِنَّآ إِلآَّ أَنْ ءَامَنَّا بِاَيَاتِ رَبِّنَا لَمَّا
+> جَآءَتْنَا رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْراً وَتَوَفَّنَا
+> مُسْلِمِينَ
 
 **126*****. “And you do not take revenge upon us except because we have
 believed in the signs of our Lord when they came to us.’ ‘Our Lord! Pour
@@ -458,5 +382,4 @@ bodies on some tall palm trees by the bank of Nile River.
 Yes, if belief and full awareness combine with together, the income of
 such a spiritual love will be some perseverance and devotion which will
 not be surprising in that way.
-
 

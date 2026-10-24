@@ -63,7 +63,5 @@ The only way to classify them as imams leading to Paradise would be to
 remove some of the ones from the list above to make room for these new
 ones of today. Meanwhile, there is plenty of room in the other list.
 
-
 Bashir Alidina
-
 

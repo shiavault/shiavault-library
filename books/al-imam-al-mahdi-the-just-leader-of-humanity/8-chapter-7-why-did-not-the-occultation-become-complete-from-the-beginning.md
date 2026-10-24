@@ -683,4 +683,3 @@ for instance, Sura Ma'ida, 1; Mu'minun, 8; and Isra', 34
 
 [^13]: Nahj al-balagha, Vol. 2, Sermon No. 146
 
-

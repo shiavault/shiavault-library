@@ -30,4 +30,3 @@ after every obligatory Salat, then one must perform those which are
 related to the Imam as this will establish a closer relationship with
 him.
 
-

@@ -11,11 +11,7 @@ deprived of this logical and rational privilege.
 The Noble Qur\`an has repeatedly emphasized this aspect - ask those, who
 possess knowledge, about that of which you do not possess knowledge.
 
-<blockquote dir="rtl">
-  <p>
-فَاسْئَلُوا أَهلَ الذِّکْرِ إِنْ کُـنْتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاسْئَلُوا أَهلَ الذِّکْرِ إِنْ کُـنْتُمْ لاَ تَعْلَمُونَ
 
 The extensiveness of this Qur'anic ruling reveals that Islam does not
 recognize any limits or restrictions as far as the issue of
@@ -59,5 +55,4 @@ of Judgment.
     
  Hawzah 'Ilmiyyah, Qum  
  Nasir Makarim Shirazi
-
 

@@ -12,30 +12,22 @@ not accepting such restrictions on learning are as follows:
 (knowledge) appears in its absolutely general sense, as can be seen from
 examples given below:
 
-<p dir="rtl">
 قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
-</p>
 
 ***Say: Are those who know and those who do not know alike? (39:9)***
 
-<p dir="rtl">
 عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
-</p>
 
 ***(God) taught man what he knew not. (96:5)***
 
-<p dir="rtl">
 وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى
 الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَـٰؤُلَاءِ إِن كُنتُمْ
 صَادِقِينَ
-</p>
 
 ***And He taught Adam all the names; then showed them to the angels,
 saying: “Tell me the names of these, if you are right.”(2:31)***
 
-<p dir="rtl">
 من سلك طريقاً يطلب فيهِ علماً سهَّلَّ الله له طريقاً الى الجنة
-</p>
 
 Anyone who pursues a course of acquisition of knowledge, God will ease
 his eventual access to paradise.14
@@ -44,12 +36,9 @@ Similarly other Qur’anic verses and traditions confirm that knowledge
 does not mean only learning of the principles and laws of the Shari'ah.
 We may note some further examples:
 
-<p dir="rtl">
 وَوَرِثَ سُلَيْمَانُ دَاوُودَ  وَقَالَ يَا أَيُّهَا النَّاسُ عُلِّمْنَا
 مَنطِقَ الطَّيْرِ وَأُوتِينَا مِن كُلِّ شَيْءٍ إِنَّ هَـٰذَا لَهُوَ
 الْفَضْلُ الْمُبِينُ ﴿١٦﴾
-</p>
-
 
 ***And certainly We gave knowledge to David and Solomon, and both (the
 apostles) said: All praise is God's who made us to excel many of His
@@ -61,14 +50,12 @@ We have been taught the language of the birds, and we have been granted
 We see that these two prophets consider the knowledge of the language of
 birds to be a Divine blessing.
 
-<p dir="rtl">
 أَلَمْ تَرَ أَنَّ اللَّـهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا
 بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ
 وَحُمْرٌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ  وَمِنَ النَّاسِ
 وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ كَذَٰلِكَ إِنَّمَا
 يَخْشَى اللَّـهَ مِنْ عِبَادِهِ الْعُلَمَاءُ إِنَّ اللَّـهَ عَزِيزٌ
 غَفُورٌ
-</p>
 
 ***Do you not see that God sends down water from the sky, then We bring
 forth with it fruits of various colours, and in the mountains are
@@ -86,32 +73,24 @@ all humility the greatness and majesty of God. The following traditions
 of the Prophet (S) also point in the direction of the most general sense
 of the word “knowledge”.
 
-<p dir="rtl">
 اطلبوا العلم و لو بالصين
-</p>
 
 Seek knowledge by even going to China.15
 
-<p dir="rtl">
 اعلم الناس من جمع علم الناس الى علمه
-</p>
 
 The most learned of men is one who collects bits of knowledge from
 others and thus enhances his own knowledge.16
 
-<p dir="rtl">
 من اراد الدنيا فعليه بالعلم و من اراد الآخره فعليه بالعلم و من ارادهما
 معاً فعليه بالعلم
-</p>
 
 Anyone who desires the good of present life should seek knowledge.
 Any­one who desires the life of Hereafter should seek knowledge. And
 anyone who wants to do well in this life and in the next world should
 seek knowledge.17
 
-<p dir="rtl">
 و خذ الحكمة و لا يضرك من ايِّ وعاء خرجت
-</p>
 
 Accept whatever adds to your wisdom, irrespective of the nature of the
 source.18
@@ -151,12 +130,10 @@ same fashion as scholarship in religious sciences has been pointed out
 as a wajib kifa'i for the Islamic society in the following verse of the
 Qur’an:
 
-<p dir="rtl">
 وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُ‌وا كَافَّةً فَلَوْلَا نَفَرَ‌ مِن
 كُلِّ فِرْ‌قَةٍ مِّنْهُمْ طَائِفَةٌ لِّيَتَفَقَّهُوا فِي الدِّينِ
 وَلِيُنذِرُ‌وا قَوْمَهُمْ إِذَا رَ‌جَعُوا إِلَيْهِمْ لَعَلَّهُمْ
 يَحْذَرُ‌ونَ
-</p>
 
 ***It is not for the believers to go forth totally (to acquire
 scholarship in religion); but why should not a party of every section of
@@ -171,32 +148,23 @@ such branches of knowledge whose harm is greater than their benefit
 (like magic and sorcery and games of chance used for gambling). The
 relevant sayings of the Prophet (S) may be noted:
 
-<p dir="rtl">
 نعوذ بالله من علم لا ينفع
-</p>
 
 We seek God's refuge from knowledge that does not benefit.20
 
-<p dir="rtl">
 اللهم انفعني بما علَّمتني و علِّمني ما ينفعني و زدني علماً
-</p>
 
 O God! Benefit me through knowledge that You have bestowed on me, teach
 me whatever would benefit me, and increase me in knowledge.21
 
 Ali (A) is related as having said:
 
-<p dir="rtl">
 لا خير في علم لا ينفع
-</p>
 
 There is no good in knowledge which does not benefit.22
 
-<p dir="rtl">
 العلم اكثر من ان يحاط به، فخذوا من كل علم أحسنه
-</p>
 
 Knowledge is too immense in scope for anyone to be able to contain it.
 So learn from each science its useful parts.23
-
 

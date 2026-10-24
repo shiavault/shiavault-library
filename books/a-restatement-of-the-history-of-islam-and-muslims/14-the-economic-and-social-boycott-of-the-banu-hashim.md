@@ -439,4 +439,3 @@ apparently, were governed by prudence. Therefore, all that they did, was
 to temporize, and to watch the drift of events, like disinterested
 observers.
 
-

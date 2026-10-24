@@ -40,4 +40,3 @@ is Mustahab to reply by saying: “ سَلامُ عَلَيْكُمٌ وَ رَ�
 Issue 463: It is Makruh for a man to say Salam to a woman, especially if
 it is a young woman.
 
-

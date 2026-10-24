@@ -151,4 +151,3 @@ He who believes in Allah and the Last Day, shall honor his guest.
 He who believes in Allah and the Last Day shall say that which is useful
 or keep silent.'"
 
-

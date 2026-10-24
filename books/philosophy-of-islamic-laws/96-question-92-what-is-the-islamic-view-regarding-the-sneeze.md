@@ -21,4 +21,3 @@ However, to refrain from doing something or to delay for even a little,
 or to discriminate between one or two sneezes are all baseless things.
 Therefore a true Muslim should avoid such useless superstitions.
 
-

@@ -1,25 +1,17 @@
 Right n. 35: The Right of Property
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-حق المال
-  </p>
-</blockquote>
+> حق المال
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ المَالِ، فَأَنْ لا تَأْخُذَهُ إلاّ مِنْ حِلِّهِ، ولا
-تُنْفِقَهُ إلاّ فِي حِلِّهِ، وَلا تُحَرِّفْهُ عَنْ مَوَاضِعِهِ، ولا
-تَصْرِفَهُ عَنْ حَقَائِقِهِ، ولا تَجْعَلْهُ إذا كَانَ مِنَ اللَّهِ
-إلاّ إلَيهِ وَسَبَباً إلَى اللَّهِ. ولا تُؤثِرَ بهِ عَلَى نفْسِكَ مَنْ
-لَعَلَّهُ لا يَحْمَدُكَ، وَبالْحَرِيِّ أَنْ لا يُحْسنَ خِلافَتَهُ فِي
-تَرِكَتِكَ ولا يَعْمَلُ فِيهِ بطَاعَةِ ربكَ فَتَكُونَ مُعِينًا لَهُ
-عَلَى ذلِكَ أَو بمَا أَحْدَثَ فِي مَالِكَ أَحْسَنَ نَظَرًا لِنَفْسِهِ،
-فَيَعْمَلَ بطَاعَةِ رَبهِ فَيَذْهَبَ بالْغَنِيمَةِ وتَبُوءَ بالإثمِ
-وَالْحَسْرَةِ وَالنَّدَامَةِ مَعَ التَّبعَةِ. وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ المَالِ، فَأَنْ لا تَأْخُذَهُ إلاّ مِنْ حِلِّهِ، ولا
+> تُنْفِقَهُ إلاّ فِي حِلِّهِ، وَلا تُحَرِّفْهُ عَنْ مَوَاضِعِهِ، ولا
+> تَصْرِفَهُ عَنْ حَقَائِقِهِ، ولا تَجْعَلْهُ إذا كَانَ مِنَ اللَّهِ
+> إلاّ إلَيهِ وَسَبَباً إلَى اللَّهِ. ولا تُؤثِرَ بهِ عَلَى نفْسِكَ مَنْ
+> لَعَلَّهُ لا يَحْمَدُكَ، وَبالْحَرِيِّ أَنْ لا يُحْسنَ خِلافَتَهُ فِي
+> تَرِكَتِكَ ولا يَعْمَلُ فِيهِ بطَاعَةِ ربكَ فَتَكُونَ مُعِينًا لَهُ
+> عَلَى ذلِكَ أَو بمَا أَحْدَثَ فِي مَالِكَ أَحْسَنَ نَظَرًا لِنَفْسِهِ،
+> فَيَعْمَلَ بطَاعَةِ رَبهِ فَيَذْهَبَ بالْغَنِيمَةِ وتَبُوءَ بالإثمِ
+> وَالْحَسْرَةِ وَالنَّدَامَةِ مَعَ التَّبعَةِ. وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of your property is that you should not attain it except
 by legitimate means and you should only spend it for legitimate causes.
@@ -53,11 +45,7 @@ one who earned it in the first place.
 Wealth is not stable. It might belong to us one day and belong to others
 later. We read the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا
-  </p>
-</blockquote>
+> الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا
 
 ***“Wealth and sons are allurements of the life of this world.” [The
 Holy Qur’an, al-Kahf 18:46]***
@@ -71,12 +59,8 @@ control over things he owns. Examples include the ownership of the cause
 over the effect or the mind over imagination. God is the true owner of
 all things as we can see in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَللّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَانَ اللّهُ
-بِكُلِّ شَيْءٍ مُّحِيطًا
-  </p>
-</blockquote>
+> وَللّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَانَ اللّهُ
+> بِكُلِّ شَيْءٍ مُّحِيطًا
 
 ***“But to God belong all things in the heavens and on earth. And He it
 is that encompasseth all things.”[The Holy Qur’an, al-Nisaa 4:126]***
@@ -98,45 +82,29 @@ is created to be subject to him. The Holy Qur’an counts the blessings
 and considers them to be for man’s use as we can read in the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الأَرْضِ جَمِيعاً
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الأَرْضِ جَمِيعاً
 
 ***“It is He Who hath created for you all things that are on earth.”
 [The Holy Qur’an, al-Baqarah 2:29]***
 
 Also, consider the following verse in this regard:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ
-وَمَا فِي الْأَرْضِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ
+> وَمَا فِي الْأَرْضِ
 
 ***“Do ye not see that God has subjected to your (use) all things in the
 heavens and on earth?” [The Holy Qur’an, Luqman 31:20]***
 
 And the following verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ أَنشَأَكُم مِّنَ الأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا
-  </p>
-</blockquote>
+> هُوَ أَنشَأَكُم مِّنَ الأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا
 
 ***“It is He Who hath produced you from the earth and settled you
 therein." [The Holy Qur’an, Hud 11:61]***
 
 And the following:
 
-<blockquote dir="rtl">
-  <p>
-وَآتُوهُم مِّن مَّالِ اللَّهِ الَّذِي آتَاكُمْ
-  </p>
-</blockquote>
+> وَآتُوهُم مِّن مَّالِ اللَّهِ الَّذِي آتَاكُمْ
 
 ***“Give them something yourselves out of the means which God has given
 to you.” [The Holy Qur’an, al-Nur 24:33]***
@@ -161,45 +129,29 @@ regard:
 1 - There are some verses that blame the life of this world to be play
 and amusement as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ
-  </p>
-</blockquote>
+> إِنَّمَا الحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ
 
 ***“The life of this world is but play and amusement.” [The Holy Qur’an,
 Muhammad 47:36]***
 
 Also, consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا الْحَيَاةُ الدُّنْيَا إِلاَّ لَعِبٌ وَلَهْوٌ
-  </p>
-</blockquote>
+> وَمَا الْحَيَاةُ الدُّنْيَا إِلاَّ لَعِبٌ وَلَهْوٌ
 
 ***“What is the life of this world but play and amusement?” [The Holy
 Qur’an, al-An’am 6:32]***
 
 And the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ
-  </p>
-</blockquote>
+> وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ
 
 ***“What is the life of this world but amusement and play?” [The Holy
 Qur’an, al-Ankabut 29:64]***
 
 And the following:
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
-وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ
-  </p>
-</blockquote>
+> اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
+> وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ
 
 ***“Know ye (all) that the life of this world is but play and amusement,
 pomp and mutual boasting and multiplying, (in rivalry) among yourselves,
@@ -209,43 +161,27 @@ riches and children” [The Holy Qur’an, al-Hadid 57:20]***
 associated things are considered to be good and desirable as we read in
 the following verses using the Arabic word “Fadlihi”:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللّهُ مِن فَضْلِهِ إِن
-شَاء إِنَّ اللّهَ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللّهُ مِن فَضْلِهِ إِن
+> شَاء إِنَّ اللّهَ عَلِيمٌ حَكِيمٌ
 
 ***“And if ye fear poverty soon will God enrich you, if He wills, out of
 His bounty. For God is All-Knowing, All-Wise.” [The Holy Qur’an,
 al-Tawbah 9:28]***
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَى الْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُواْ مِن فَضْلِهِ
-  </p>
-</blockquote>
+> وَتَرَى الْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُواْ مِن فَضْلِهِ
 
 ***“And thou seest the ships therein that plough the waves, that ye may
 seek (thus) of the bounty of God.” [The Holy Qur’an, al-Naĥl 16:14]***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ
-مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ
-  </p>
-</blockquote>
+> الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ
+> مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ
 
 ***“(Nor) those who are niggardly or enjoin niggardliness on others, or
 hide the bounties which God hath bestowed on them.” [The Holy Qur’an,
 al-Nisaa 4:37]***
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ فِي الدُّنْيَا
-وَالْآخِرَةِ لَمَسَّكُمْ فِي مَا أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ فِي الدُّنْيَا
+> وَالْآخِرَةِ لَمَسَّكُمْ فِي مَا أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ
 
 ***“Were it not for the grace and mercy of God on you, in this world and
 the Hereafter, a grievous penalty would have seized you in that ye
@@ -253,11 +189,7 @@ rushed glibly into this affair.” [The Holy Qur’an, al-Nur 24:14]***
 
 And using the Arabic word ‘Khayr’ in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا
-  </p>
-</blockquote>
+> كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا
 
 ***“It is prescribed when death approaches any of you if he leave any
 goods.” [The Holy Qur’an, al-Baqarah 2:180]***
@@ -278,54 +210,34 @@ do so seeking the "Face" of God. Whatever good ye give, shall be
 rendered back to you, and ye shall not be dealt with unjustly.”[The Holy
 Qur’an, al-Baqarah 2:272]***
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
 
 ***“And violent is he in his love of wealth.” [The Holy Qur’an,
 al-‘Adiyat 100:8]***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
-  </p>
-</blockquote>
+> وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
 
 ***“And niggardly when good reaches him.” [The Holy Qur’an, al-Ma’arij
 70:21]***
 
 And using the Arabic word ‘Rahmat’ in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَذَقْنَا الإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا
-مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ
-  </p>
-</blockquote>
+> وَلَئِنْ أَذَقْنَا الإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا
+> مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ
 
 ***“If We give man a taste of Mercy from Ourselves, and then withdraw it
 from him, behold! He is in despair and (falls in) blasphemy.” [The Holy
 Qur’an, Hud 11:9]***
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّي إِذًا
-لَّأَمْسَكْتُمْ خَشْيَةَ الإِنفَاقِ
-  </p>
-</blockquote>
+> قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّي إِذًا
+> لَّأَمْسَكْتُمْ خَشْيَةَ الإِنفَاقِ
 
 ***“Say: If ye had control of the Treasures of the Mercy of my Lord,
 behold, ye would keep them back, for fear of spending them!” [The Holy
 Qur’an, Bani Israel 17:100]***
 
-<blockquote dir="rtl">
-  <p>
-فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا
-كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ
-  </p>
-</blockquote>
+> فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا
+> كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ
 
 ***“So thy Lord desired that they should attain their age of full
 strength and get out their treasure - a mercy (and favor) from thy
@@ -333,20 +245,12 @@ Lord.” [The Holy Qur’an, al-Kahf 18:82]***
 
 And using the Arabic word ‘Hasana’ in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاءتْهُمُ الْحَسَنَةُ قَالُواْ لَنَا هَـذِهِ
-  </p>
-</blockquote>
+> فَإِذَا جَاءتْهُمُ الْحَسَنَةُ قَالُواْ لَنَا هَـذِهِ
 
 ***“But when good (times) came, they said: This is due to us!” [The Holy
 Qur’an, al-A\`raaf 7:131]***
 
-<blockquote dir="rtl">
-  <p>
-إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ
-  </p>
-</blockquote>
+> إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ
 
 ***“If good befalls thee, it grieves them.” [The Holy Qur’an, al-Tawbah
 9:50]***
@@ -362,19 +266,11 @@ of the Hereafter as a preparatory stage for it. However, if the life of
 this world on its own is stressed upon, then it is blameworthy. Consider
 the following verse in this regard:
 
-<blockquote dir="rtl">
-  <p>
-إَنَّ الَّذِينَ لاَ يَرْجُونَ لِقَاءنَا وَرَضُواْ بِالْحَياةِ
-الدُّنْيَا وَاطْمَأَنُّواْ بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
-غَافِلُونَ
-  </p>
-</blockquote>
+> إَنَّ الَّذِينَ لاَ يَرْجُونَ لِقَاءنَا وَرَضُواْ بِالْحَياةِ
+> الدُّنْيَا وَاطْمَأَنُّواْ بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
+> غَافِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ مَأْوَاهُمُ النُّارُ بِمَا كَانُواْ يَكْسِبُونَ
-  </p>
-</blockquote>
+> أُوْلَـئِكَ مَأْوَاهُمُ النُّارُ بِمَا كَانُواْ يَكْسِبُونَ
 
 ***“Those who rest not their hope on their meeting with Us, but are
 pleased and satisfied with the life of the present, and those who heed
@@ -386,41 +282,25 @@ The World as Viewed by the Traditions
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-الدُّنْيا مَتْجَرُ أوْلِياءِ اللهِ.
-  </p>
-</blockquote>
+> الدُّنْيا مَتْجَرُ أوْلِياءِ اللهِ.
 
 *“The world is a trade center for God’s friends.”*[^1]
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-الدُّنْيا مَزْرَعَةُ الآخِرَةِ.
-  </p>
-</blockquote>
+> الدُّنْيا مَزْرَعَةُ الآخِرَةِ.
 
 *“The world is a farm for the Hereafter.”*[^2]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-نِعْمَ العَونُ الدُّنْيا عَلى الآخِرَةِ.
-  </p>
-</blockquote>
+> نِعْمَ العَونُ الدُّنْيا عَلى الآخِرَةِ.
 
 *“The world is the best aid for the Hereafter.”*[^3]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-نِعْمَ المَالُ الصّالِحُ لِلعَبْدِ الصّالِحِ.
-  </p>
-</blockquote>
+> نِعْمَ المَالُ الصّالِحُ لِلعَبْدِ الصّالِحِ.
 
 *“How good is wealth for a good servant!”*[^4]
 
@@ -432,34 +312,22 @@ world. However, if we forget the role of this world and consider it the
 ultimate goal for man, then we will become negligent and seek our
 absolute welfare in this world. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ
-  </p>
-</blockquote>
+> وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ
 
 ***“If God were to enlarge the provisions for His servants, they would
 indeed transgress beyond all bounds through the earth…” [The Holy
 Qur’an, al-Shura 42:47]***  
  It also says:
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى أَن رَّآهُ اسْتَغْنَى
-  </p>
-</blockquote>
+> كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى أَن رَّآهُ اسْتَغْنَى
 
 ***“Nay, but man doth transgress all bounds, in that he looks upon
 himself as self-sufficient.” [The Holy Qur’an, al-‘Alaq 96:6-7]***
 
 In addition, in another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَنْعَمْنَا عَلَى الإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَؤُوسًا
-  </p>
-</blockquote>
+> وَإِذَا أَنْعَمْنَا عَلَى الإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَؤُوسًا
 
 ***“Yet when We bestow our favors on man, he turns away and becomes
 remote on his side…” [The Holy Qur’an, Bani Israil 17:83]***
@@ -468,24 +336,16 @@ That is why divinely guided leaders have always stressed the concept of
 sufficiency in this world. In a tradition from the Prophet of God we
 read:
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمّ ارْزُقْ محَمَّداً وَآلَ محَمَّدٍ وَمَن أحَبَّ محَمَّداً وَآلَ
-محَمَّدٍ العَفافَ وَالكِفافَ
-  </p>
-</blockquote>
+> اللّهُمّ ارْزُقْ محَمَّداً وَآلَ محَمَّدٍ وَمَن أحَبَّ محَمَّداً وَآلَ
+> محَمَّدٍ العَفافَ وَالكِفافَ
 
 *“O God! Grant Muhammad and the family of Muhammad and those who love
 Muhammad and the family of Muhammad, chastity and sufficiency.”*[^5]
 
 It is also written in Nahjul Balaghah:
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَسألوا فِيها فَوقَ الكِفافِ وَلا تطْلُبوا مِنها أكْثَرَ مِن
-البَلاغِ.
-  </p>
-</blockquote>
+> وَلا تَسألوا فِيها فَوقَ الكِفافِ وَلا تطْلُبوا مِنها أكْثَرَ مِن
+> البَلاغِ.
 
 *“Do not ask herein for more than what is enough and do not demand from
 it more than sufficiency.”*
@@ -523,23 +383,15 @@ Even though the love for wealth is not instinctive, it has slowly become
 a value in the society since wealth can help fulfill many of man’s
 desires. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
 
 ***“And violent is he in his love of wealth.” [The Holy Qur’an,
 al-‘Adiyat 100:8]***
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-لا خَيرَ في مَن لا يحِبُّ جمْعَ المَالِ مِن حَلالٍ يَكُفُّ بهِ وَجْهَه
-ويَقْضي بهِ دَينَه ويَصِلُ بهِ رَحمَهُ.
-  </p>
-</blockquote>
+> لا خَيرَ في مَن لا يحِبُّ جمْعَ المَالِ مِن حَلالٍ يَكُفُّ بهِ وَجْهَه
+> ويَقْضي بهِ دَينَه ويَصِلُ بهِ رَحمَهُ.
 
 *“There is no good in one who does not like to legitimately earn wealth
 to safeguard his honor, pay back his debts and establish the bonds of
@@ -554,15 +406,11 @@ since dawn. The companions expressed their unhappiness about that man’s
 acts and said: “We wish this young man used his strength and youth in
 God’s way.” The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَقولوا هَذا! فإنَّهُ إنْ كانَ يَسْعى عَلى نَفْسِه لِيَكُفَّها عَن
-المَسْألَةِ وَيُغنِيَها عَنِ النّاسِ فهُوَ في سَبِيل ِاللهِ، وإنْ كانَ
-يَسْعى عَلى أبَوَيْنِ ضَعِيفَينِ أو ذُرِّيَّةٍ ضِعافٍ لِيُغْنِيَهُم
-وَيَكُفَّهُم فهُوَ في سَبِيلِ اللهِ، وإنْ كانَ يَسْعى تَفاخُراً
-وَتَكاثُراً فَهوَ في سَبِيلِ الشَّيطانِ.
-  </p>
-</blockquote>
+> لا تَقولوا هَذا! فإنَّهُ إنْ كانَ يَسْعى عَلى نَفْسِه لِيَكُفَّها عَن
+> المَسْألَةِ وَيُغنِيَها عَنِ النّاسِ فهُوَ في سَبِيل ِاللهِ، وإنْ كانَ
+> يَسْعى عَلى أبَوَيْنِ ضَعِيفَينِ أو ذُرِّيَّةٍ ضِعافٍ لِيُغْنِيَهُم
+> وَيَكُفَّهُم فهُوَ في سَبِيلِ اللهِ، وإنْ كانَ يَسْعى تَفاخُراً
+> وَتَكاثُراً فَهوَ في سَبِيلِ الشَّيطانِ.
 
 *“No. Do not say this. If he is working so hard in order to prevent
 himself from asking from people and to be free of need of them, then he
@@ -609,11 +457,7 @@ for his wife is like one who is fighting in the way of God.”[^12] In
 addition, one who abandons his wife and does not fulfill her needs is
 deprived of God’s Mercy. The Noble Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-مَلعُونٌ مَلعونٌ مَن يَضِيعُ مَن يَعولُ.
-  </p>
-</blockquote>
+> مَلعُونٌ مَلعونٌ مَن يَضِيعُ مَن يَعولُ.
 
 *“Cursed, cursed, is one who neglects his dependants.”*[^13]
 
@@ -623,18 +467,14 @@ Obtaining Wealth by Legitimate Means
 Imam Baqir quoted on the authority of the Noble Prophet during the
 Farewell Pilgrimage:[^14]
 
-<blockquote dir="rtl">
-  <p>
-ألا إنَّ الرُّوحَ الأمِينَ نَفثَ في رَوعِي أنَّه لا تمُوتُ نَفسٌ حَتىّ
-تَستَكْمِلَ رِزْقَها، فاتَّقوا اللهَ وَأجمِلوا في الطَّلَبِ وَلا
-يحْمِلَنَّكُم اسْتِبطاءُ شَيءٍ مِن الرِّزْقِ أنْ تَطلُبُوهُ بمَعْصِيةِ
-اللهِ، فإنَّ اللهَ تَبارَكَ وَتَعالى قَسَّمَ الأرْزاقَ بَينَ خَلقِهِ
-حَلالاً وَلَم يُقَسِّمْها حَراماً، فَمَن اتَّقى اللهَ وَصَبرَ أتاهُ
-اللهُ بِرزْقِه مِن حِلِّه، وَمَن هَتَكَ حِجابَ السِّتْرِ وَعَجَّلَ
-فَأخَذَهُ مِن غَيرِ حِلِّهِ قُصَّ بهِ مِن رِزقِهِ الحَلال وحُوسِبَ
-عَلَيهِ يَومَ القِيامَةِ.
-  </p>
-</blockquote>
+> ألا إنَّ الرُّوحَ الأمِينَ نَفثَ في رَوعِي أنَّه لا تمُوتُ نَفسٌ حَتىّ
+> تَستَكْمِلَ رِزْقَها، فاتَّقوا اللهَ وَأجمِلوا في الطَّلَبِ وَلا
+> يحْمِلَنَّكُم اسْتِبطاءُ شَيءٍ مِن الرِّزْقِ أنْ تَطلُبُوهُ بمَعْصِيةِ
+> اللهِ، فإنَّ اللهَ تَبارَكَ وَتَعالى قَسَّمَ الأرْزاقَ بَينَ خَلقِهِ
+> حَلالاً وَلَم يُقَسِّمْها حَراماً، فَمَن اتَّقى اللهَ وَصَبرَ أتاهُ
+> اللهُ بِرزْقِه مِن حِلِّه، وَمَن هَتَكَ حِجابَ السِّتْرِ وَعَجَّلَ
+> فَأخَذَهُ مِن غَيرِ حِلِّهِ قُصَّ بهِ مِن رِزقِهِ الحَلال وحُوسِبَ
+> عَلَيهِ يَومَ القِيامَةِ.
 
 *“Indeed, Gabriel informed me that no one shall die before receiving his
 full share of daily bread. Thus, fear God and be moderate in seeking
@@ -661,16 +501,12 @@ Convenient and Hard to Earn Income
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-الرِّزقُ مَقسومٌ عَلى ضَربَينِ أحَدُهمَا واصِلٌ إلى صاحِبِهِ وإنْ لم
-يَطْلُبْهُ وَالآخَرُ مُعَلَّقٌ بِطَلبِهِ. فالَّذي قُسِّمَ لِلعَبْدِ
-عَلى كُلّ حالٍ آتيهِ وإنْ لم يَسْعَ لهُ، والَّذِي قُسِّمَ لهُ
-بِالسَّعْيِ فَينبَغي أنْ يَلتَمِسَهُ مِن وُجوهِهِ وَهُوَ مَا أحَلَّهُ
-اللهُ لهُ دونَ غَيرِهِ، فإنْ طلبَهُ مِن جِهَةِ الحَرامِ فوَجَدَهُ
-حُسِبَ عَليهِ مِن رِزقِهِ وَحُوسِبَ بهِ.
-  </p>
-</blockquote>
+> الرِّزقُ مَقسومٌ عَلى ضَربَينِ أحَدُهمَا واصِلٌ إلى صاحِبِهِ وإنْ لم
+> يَطْلُبْهُ وَالآخَرُ مُعَلَّقٌ بِطَلبِهِ. فالَّذي قُسِّمَ لِلعَبْدِ
+> عَلى كُلّ حالٍ آتيهِ وإنْ لم يَسْعَ لهُ، والَّذِي قُسِّمَ لهُ
+> بِالسَّعْيِ فَينبَغي أنْ يَلتَمِسَهُ مِن وُجوهِهِ وَهُوَ مَا أحَلَّهُ
+> اللهُ لهُ دونَ غَيرِهِ، فإنْ طلبَهُ مِن جِهَةِ الحَرامِ فوَجَدَهُ
+> حُسِبَ عَليهِ مِن رِزقِهِ وَحُوسِبَ بهِ.
 
 *“The daily bread is divided into two parts. One part of it will be
 earned whether you ask for it or not. However, the second part is what
@@ -686,13 +522,9 @@ also said that your wealth might be left as inheritance for one who
 might use it right and get its reward in the Hereafter, too. The
 Commander of the Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أعظَمَ الحَسَراتِ يَومَ القِيامَةِ حَسْرَةُ رَجُلٍ كَسَبَ مالاً
-في غَيرِ طاعَةِ اللهِ فَوَرَّثَهُ رَجُلاً فأنْفَقَهُ في طاعَةِ اللهِ
-سُبحانَهُ فَدَخَلَ به الجَنَّةَ وَدَخَلَ الأوَّلُ بِه النّارَ.
-  </p>
-</blockquote>
+> إنَّ أعظَمَ الحَسَراتِ يَومَ القِيامَةِ حَسْرَةُ رَجُلٍ كَسَبَ مالاً
+> في غَيرِ طاعَةِ اللهِ فَوَرَّثَهُ رَجُلاً فأنْفَقَهُ في طاعَةِ اللهِ
+> سُبحانَهُ فَدَخَلَ به الجَنَّةَ وَدَخَلَ الأوَّلُ بِه النّارَ.
 
 *“On the Resurrection Day the greatest regret will be felt by the man
 who earned wealth through sinful ways, and left it as inheritance for a
@@ -746,5 +578,4 @@ by the Prophet Muhammad .
 [^16]: Wasa’il al-Shi’ah, v.12, p.29.
 
 [^17]: Nahjul Balaghah, Subhi Salih, Hikmat no. 429.
-
 

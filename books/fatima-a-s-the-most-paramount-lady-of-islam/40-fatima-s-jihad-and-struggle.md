@@ -23,4 +23,3 @@ sometimes independently. She argued with the word of logic and defamed
 them and then proved she was right although she was prohibited from her
 right.
 
-

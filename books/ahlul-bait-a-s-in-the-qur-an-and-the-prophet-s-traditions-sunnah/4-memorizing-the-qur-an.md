@@ -147,4 +147,3 @@ According to some scholars 'the Mashaf Fatima' was a collection of
 supplications and instructions which Prophet Muhammad (s.a.w.) dictated
 for the benefit of his beloved daughter Fatima (ass.).
 
-

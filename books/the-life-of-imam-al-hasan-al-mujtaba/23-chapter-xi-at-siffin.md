@@ -175,7 +175,6 @@ and them follow Allah’s Book. As for that which you want, it is as
 deceiving the baby to make it leave the milk. By my life, if you see
 with your own brain without any
 
-
 [^1] The narrators have differed over the time when Jareer bin
 Ubaydillah al-Bajali became Muslim. It was said that he became Muslim at
 the time of the Prophet’s advent. It was said that he became Muslim
@@ -660,5 +659,4 @@ Euphrates and caused them heavy losses in properties and men. When the
 Iraqis occupied the Euphrates, the Imam permitted the people of Sham to
 drink from its water and did not pay them back twofold. He treated them
 generously.
-
 

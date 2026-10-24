@@ -68,4 +68,3 @@ less well-known, have been transliterated as a guide to pronunciation.
 **7**th **Safar 1424 A.H**  
 **10**th **April 2003 C.E**
 
-

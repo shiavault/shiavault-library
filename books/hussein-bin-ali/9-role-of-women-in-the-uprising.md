@@ -260,4 +260,3 @@ ourselves in defending the great message of Islam.
 
 And praise be to Allah, the Lord of the worlds.
 
-

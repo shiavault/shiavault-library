@@ -76,4 +76,3 @@ term Ahlul Bayt in this verse refers to Muhammad's daughter Fatimah, his
 cousin and son-in-law ‘Ali, and his two beloved grandsons, Hasan and
 Husayn [Tr].
 
-

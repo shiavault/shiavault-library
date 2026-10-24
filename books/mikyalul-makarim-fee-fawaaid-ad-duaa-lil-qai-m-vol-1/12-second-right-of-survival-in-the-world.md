@@ -90,4 +90,3 @@ There are numerous traditional reports regarding this point.
 
 [^4]: Al-Ghaibah; Ibne Abi Zainab Nomani; Chap. 10, Pg. 141
 
-

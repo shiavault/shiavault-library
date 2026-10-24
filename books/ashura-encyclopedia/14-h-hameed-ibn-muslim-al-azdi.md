@@ -7,4 +7,3 @@ Shimr after the battle was over and asked him not to not burn the tents
 of the Imam. He was among the Tawabeen who repented fighting against
 Imam Husayn and took part in the uprising against the Umayyads.
 
-

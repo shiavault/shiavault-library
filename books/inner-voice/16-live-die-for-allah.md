@@ -48,4 +48,3 @@ Allah. This death is not death; it is eternal life, as God has said:
 “And do not think those who are martyred in the path of Allah are dead.
 Nay! They are alive in the presence of God.”
 
-

@@ -209,4 +209,3 @@ He hurriedly dismissed the corrupt court
 
 "Carry the prisoners to Damascus", he roared.
 
-

@@ -291,4 +291,3 @@ Najaf, Iraq.
 Encyclopedia), Vol. 3, p. 257 105. The city was later named
 "al-Kadhimiyyah" after the great Imam. It is still known by this name.
 
-

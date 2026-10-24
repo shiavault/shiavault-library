@@ -33,4 +33,3 @@ Sayyid Muhammad Rizvi
  Toronto  
  12 Rabi II 1420 / 26 July 1999
 
-

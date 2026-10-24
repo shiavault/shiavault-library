@@ -760,4 +760,3 @@ take revenge on the Prophet for the Battle of Badr. This disaster was
 the most dangerous thing by which the Muslims were stricken throughout
 the times.
 
-

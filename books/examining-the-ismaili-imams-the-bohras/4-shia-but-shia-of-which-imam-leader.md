@@ -6,21 +6,13 @@ The meaning of Shia:
 “Shia” means a group of followers, members of a group, as per Holy
 Quran, Surah Maryam verse 69:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيْعَۃٍ اَيُّہُمْ اَشَدُّ عَلَي
-الرَّحْمٰنِ عِتِيًّا۝۶۹ۚ
-  </p>
-</blockquote>
+> ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيْعَۃٍ اَيُّہُمْ اَشَدُّ عَلَي
+> الرَّحْمٰنِ عِتِيًّا۝۶۹ۚ
 
 ***Then from every group We shall draw whichever of them was more
 defiant to the All-beneficent.***[^1]
 
-<blockquote dir="rtl">
-  <p>
-ہٰذَا مِنْ شِيْعَتِہٖ
-  </p>
-</blockquote>
+> ہٰذَا مِنْ شِيْعَتِہٖ
 
 This one from among his **followers.**[^2]
 
@@ -29,11 +21,7 @@ of a group.
 
 The Holy Quran, Surah Isra verse 71 says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُوْا كُلَّ اُنَاسٍؚبِـاِمَامِہِمْ
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُوْا كُلَّ اُنَاسٍؚبِـاِمَامِہِمْ
 
 ***The day we shall summon every group of people with their imam.***[^3]
 
@@ -45,12 +33,8 @@ may invite his Shias towards the fire.
 
 Holy Quran, Surah Qasas verse 41, says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنٰہُمْ اَىِٕمَّۃً يَّدْعُوْنَ اِلَى النَّارِ۰ۚ وَيَوْمَ
-الْقِيٰمَۃِ لَا يُنْصَرُوْنَ۝۴۱
-  </p>
-</blockquote>
+> وَجَعَلْنٰہُمْ اَىِٕمَّۃً يَّدْعُوْنَ اِلَى النَّارِ۰ۚ وَيَوْمَ
+> الْقِيٰمَۃِ لَا يُنْصَرُوْنَ۝۴۱
 
 ***We made them leaders who invite to the Fire and on the day of
 Resurrection they will not receive any help.***[^4]
@@ -63,12 +47,8 @@ leader will lead them towards the truth.
 
 Holy Quran, Surah Sajdah verse 24, says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْہُمْ اَىِٕمَّۃً يَّہْدُوْنَ بِاَمْرِنَا لَمَّا
-صَبَرُوْا۝۰ۣۭ وَكَانُوْا بِاٰيٰتِنَا يُوْقِنُوْنَ۝۲۴
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْہُمْ اَىِٕمَّۃً يَّہْدُوْنَ بِاَمْرِنَا لَمَّا
+> صَبَرُوْا۝۰ۣۭ وَكَانُوْا بِاٰيٰتِنَا يُوْقِنُوْنَ۝۲۴
 
 ***And amongst them We appointed imams who guide by Our command when
 they had been patient and had convictions in Our signs.***[^5]
@@ -205,5 +185,4 @@ Hasan, Imam Husayn (as) and the nine Imams that succeeded Imam Husayn
 [^9]: Daftary, Farhad, Ismailis their history and doctrines, p. 551
 
 [^10]: ibid, p. 551
-
 

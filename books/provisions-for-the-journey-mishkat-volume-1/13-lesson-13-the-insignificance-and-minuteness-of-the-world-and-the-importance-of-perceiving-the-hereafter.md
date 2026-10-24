@@ -150,12 +150,8 @@ conceived by the intellect, and if there had not been the prophetic
 mission and the divine call, the people would still perceive it but
 Islam endorsed this command of the intellect and stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ يَأْمُرُکُمْ أَنْ تُؤَدُّوا الاَمَانَاتِ إِلَی
-أَهْلِهَا...
-  </p>
-</blockquote>
+> إِنَّ اللهَ يَأْمُرُکُمْ أَنْ تُؤَدُّوا الاَمَانَاتِ إِلَی
+> أَهْلِهَا...
 
 ***“Surely, Allah commands you to make over trusts to their
 owners…”***[^2]
@@ -190,22 +186,14 @@ committed treachery once he uses public means for personal purposes.
 The Glorious Qur’an introduces the Islamic community as loyal and
 faithful to their promises:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ‌ لأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُون
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ‌ لأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُون
 
 ***“And those who are keepers of their trusts and covenants.”***[^3]
 
 At another point, it orders them to return the trusts to their owners:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ يَأْمُرُکُمْ أَنْ تُؤَدُّوا الاَمَانَاتِ إِلَی
-أَهْلِهَا...
-  </p>
-</blockquote>
+> إِنَّ اللهَ يَأْمُرُکُمْ أَنْ تُؤَدُّوا الاَمَانَاتِ إِلَی
+> أَهْلِهَا...
 
 ***“Surely Allah commands you to make over trusts to their
 owners…”***[^4]
@@ -241,13 +229,9 @@ The Glorious Qur’an mentions two kinds of the people of the Book: the
 first kind is the tribe of Israel who are the bitterest enemies of Islam
 and the believers:
 
-<blockquote dir="rtl">
-  <p>
-... ثُمَّ قَسَتْ قُلُوبُکُمْ مِنْ بَعْدِ ذَلِکَ فَهِيَ کَالْحِجَارَةِ
-أَوْ أَشَدَّ قَسْوَةً وَإِنَّ مِن الْحِجَارَةِ لَمَا يتفجَرُ منه
-الانهار وإنًّ منها يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءِ...
-  </p>
-</blockquote>
+> ... ثُمَّ قَسَتْ قُلُوبُکُمْ مِنْ بَعْدِ ذَلِکَ فَهِيَ کَالْحِجَارَةِ
+> أَوْ أَشَدَّ قَسْوَةً وَإِنَّ مِن الْحِجَارَةِ لَمَا يتفجَرُ منه
+> الانهار وإنًّ منها يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءِ...
 
 ***“…Then your hearts hardened after that, so that they were like rocks
 from which streams burst forth, and surely there are some of them which
@@ -261,13 +245,9 @@ In contrast to this group, the Glorious Qur’an states with regard to the
 other group of the people of the Book called the Christians, who are
 friendly and kind to the believers:
 
-<blockquote dir="rtl">
-  <p>
-... وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ
-قَالُوا اِنَّا نَصَاری ذَلِکَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ
-وَرُهْبَانًا وَأَنَّهُمْ لاَ يَسْتَکْبِرُونَ
-  </p>
-</blockquote>
+> ... وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ
+> قَالُوا اِنَّا نَصَاری ذَلِکَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ
+> وَرُهْبَانًا وَأَنَّهُمْ لاَ يَسْتَکْبِرُونَ
 
 ***“…Certainly you will find the most violent of people in enmity for
 those who believe (to be) the Jews and those who are polytheists, and
@@ -278,12 +258,8 @@ proudly.”***[^6]
 
 In continuation of this verse, Allah sates:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَی الرَّسُولِ تَرَی أَعْيُنَهُمْ
-تَفِيضُ مِن الدَّمْعِ مِمَّا عَرَفُوا مِن الْحَقِّ...
-  </p>
-</blockquote>
+> وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَی الرَّسُولِ تَرَی أَعْيُنَهُمْ
+> تَفِيضُ مِن الدَّمْعِ مِمَّا عَرَفُوا مِن الْحَقِّ...
 
 ***“And when they hear what has been revealed to the Apostle, you will
 see their eyes overflowing with tears on account of the truth that they
@@ -362,12 +338,8 @@ pride because self-conceit and arrogance prevent man from modesty and
 humility and is without doubt a clear instance of the proud and
 rebellious Devil:
 
-<blockquote dir="rtl">
-  <p>
-فَسَجَدَ المَلاَئِکَةُ کُلُّهُمْ أَجْمَعُونَ \* اِلاَّ اِبْلِيسَ أَبَی
-أَنْ يَکُونَ مَعَ السَّاجِدِينَ
-  </p>
-</blockquote>
+> فَسَجَدَ المَلاَئِکَةُ کُلُّهُمْ أَجْمَعُونَ \* اِلاَّ اِبْلِيسَ أَبَی
+> أَنْ يَکُونَ مَعَ السَّاجِدِينَ
 
 ***“So the angels made obeisance, all of them together, but Iblis (did
 it not); he refused to be with those who made obeisance.”***[^14]
@@ -539,22 +511,14 @@ means of trial.
 
 Allah states in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْوَالَکُمْ وَأَوْلاَدَکُمْ فِتْنَةٌ ...
-  </p>
-</blockquote>
+> إِنَّمَا أَمْوَالَکُمْ وَأَوْلاَدَکُمْ فِتْنَةٌ ...
 
 ***“Your possessions and your children are only a trial…”***[^15]
 
 Elsewhere, He states:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمَالُ وَالْبَنُونَ زِينَةُ الْحَيوةِ الدُّنْيا وَالْبَاقِياتُ
-الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّکَ ثَوَابًا وَخَيْرٌ أَمَلاً
-  </p>
-</blockquote>
+> أَلْمَالُ وَالْبَنُونَ زِينَةُ الْحَيوةِ الدُّنْيا وَالْبَاقِياتُ
+> الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّکَ ثَوَابًا وَخَيْرٌ أَمَلاً
 
 ***“Wealth and children are an adornment of the life of this world; and
 the ever abiding, the good works, are better with your Lord in reward
@@ -563,11 +527,7 @@ and are better in expectation.”***[^16]
 In another verse, in regard to the destructibleness of the world and the
 indestructibleness of what is before Allah, He states:
 
-<blockquote dir="rtl">
-  <p>
-مَا عِنْدَ‌کُمْ يَنْفَدُ وَمَا عِنْدَ اللهِ بَاقٍ...
-  </p>
-</blockquote>
+> مَا عِنْدَ‌کُمْ يَنْفَدُ وَمَا عِنْدَ اللهِ بَاقٍ...
 
 ***“What is with you passes away and what is with Allah is
 enduring…”***[^17]
@@ -576,13 +536,9 @@ Man imagines that the things of this world have value, and whoever has
 more is regarded as important; in expounding this false illusion, the
 Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الاِنْسَانُ إِذَا مَا ابْتَلاهُ رَبُّهُ فَأَکْرَمَهُ
-وَنَعَّمَهُ فَيَقُولُ رَبِّي أَکْرَمَنِ \* وَأَمَّا إِذَا مَا
-ابْتَلاَهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
-  </p>
-</blockquote>
+> فَأَمَّا الاِنْسَانُ إِذَا مَا ابْتَلاهُ رَبُّهُ فَأَکْرَمَهُ
+> وَنَعَّمَهُ فَيَقُولُ رَبِّي أَکْرَمَنِ \* وَأَمَّا إِذَا مَا
+> ابْتَلاَهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
 
 ***“And as for man, when his Lord tries him, then treats him with honor
 and makes him lead an easy life, he says, ‘My Lord honors me; but when
@@ -598,13 +554,9 @@ view, He does not deprive an unbeliever of its blessings. In contrast,
 the Garden of eternal bliss and its graces have value before Allah; that
 is why He deprives man of it:
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَی أَصْحَابُ النَّارِ أَصْحَابَ الْجَنَّةِ أَنْ أَفِيضُوا
-عَلَيْنَا مِن الْمَاءِ أَوْ‌ مِمَّا رَزَقَکُمْ اللهُ قَالُوا إِنَّ
-اللهَ حَرَّمَهُمَا عَلَی الْکَافِرينَ
-  </p>
-</blockquote>
+> وَنَادَی أَصْحَابُ النَّارِ أَصْحَابَ الْجَنَّةِ أَنْ أَفِيضُوا
+> عَلَيْنَا مِن الْمَاءِ أَوْ‌ مِمَّا رَزَقَکُمْ اللهُ قَالُوا إِنَّ
+> اللهَ حَرَّمَهُمَا عَلَی الْکَافِرينَ
 
 ***“And the inmates of the Fire shall call out to the dwellers of the
 Garden, saying, ‘Pour on us some water or that of which Allah has given
@@ -679,5 +631,4 @@ al-Islam.
 [^18]: Surat al-Fajr 89:15-16.
 
 [^19]: Surat al-A‘raf 7:50.
-
 

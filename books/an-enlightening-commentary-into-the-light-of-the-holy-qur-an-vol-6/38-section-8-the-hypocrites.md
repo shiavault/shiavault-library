@@ -4,14 +4,10 @@ Section 8: The Hypocrites
 Surah At-Tawbah – Verse 60
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَآءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ
-عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ
-وَالْغَارِمِينَ وَفِي سَبِيلِ اللّهِ وَابْنِ السَّبِيلِ فَرِيضَةً مِنَ
-اللّهِ وَاللّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَآءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ
+> عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ
+> وَالْغَارِمِينَ وَفِي سَبِيلِ اللّهِ وَابْنِ السَّبِيلِ فَرِيضَةً مِنَ
+> اللّهِ وَاللّهُ عَلِيمٌ حَكِيمٌ
 
 **60*****. “Verily alms are for the poor and the needy, and the
 officials (appointed) over them, and those whose hearts are to be
@@ -308,14 +304,10 @@ bounties.”*[^9]
 Surah At-Tawbah – Verse 61
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُمُ الَّذِينَ يُؤْذُونَ النَّبِيَّ وَيَقُولُونَ هُوَ اُذُنٌ
-قُلْ اُذُنُ خَيْرٍ لَكُمْ يُؤْمِنُ بِاللّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ
-وَرَحْمَةٌ لِلَّذِينَ ءَامَنُوا مِنكُمْ وَالَّذِينَ يُؤْذُونَ رَسُولَ
-اللّهِ لَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> وَمِنْهُمُ الَّذِينَ يُؤْذُونَ النَّبِيَّ وَيَقُولُونَ هُوَ اُذُنٌ
+> قُلْ اُذُنُ خَيْرٍ لَكُمْ يُؤْمِنُ بِاللّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ
+> وَرَحْمَةٌ لِلَّذِينَ ءَامَنُوا مِنكُمْ وَالَّذِينَ يُؤْذُونَ رَسُولَ
+> اللّهِ لَهُمْ عَذَابٌ أَلِيمٌ
 
 **61*****. “And there are among them those who hurt the Prophet and say:
 ‘He is an ear!’ Say: ‘An ear that is good for you; he believes in Allah,
@@ -382,12 +374,8 @@ punishment for them’.”***
 Surah At-Tawbah – Verse 62
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَحْلِفُونَ بِاللّهِ لَكُمْ لِيُرْضُوكُمْ وَاللّهُ وَرَسُولُهُ أَحَقُّ
-أَن يُرْضُوهُ إِن كَانُوا مُؤْمِنِينَ
-  </p>
-</blockquote>
+> يَحْلِفُونَ بِاللّهِ لَكُمْ لِيُرْضُوكُمْ وَاللّهُ وَرَسُولُهُ أَحَقُّ
+> أَن يُرْضُوهُ إِن كَانُوا مُؤْمِنِينَ
 
 ***62. “They swear to you by Allah, to please you; but Allah and His
 Messenger have a greater right that they should please Him if they are
@@ -410,12 +398,8 @@ please Him if they are believers.”***
 Surah At-Tawbah – Verse 63
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَعْلَمُوا اَنَّهُ مَن يُحَادِدِ اللّهَ وَرَسُولَهُ فَاَنَّ
-لَهُ نَارَ جَهَنَّمَ خَالِداً فِيهَا ذَلِكَ الْخِزْيُ الْعَظِيمُ
-  </p>
-</blockquote>
+> أَلَمْ يَعْلَمُوا اَنَّهُ مَن يُحَادِدِ اللّهَ وَرَسُولَهُ فَاَنَّ
+> لَهُ نَارَ جَهَنَّمَ خَالِداً فِيهَا ذَلِكَ الْخِزْيُ الْعَظِيمُ
 
 **63*****. “Do they not know that whoever opposes Allah and His
 Messenger verily for him is the fire of Hell to abide therein? That is
@@ -443,13 +427,9 @@ of Hell to abide therein? That is the great abasement.”***
 Surah At-Tawbah – Verse 64
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَحْذَرُ الْمُنَافِقُونَ اَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم
-بِمَا فِي قُلُوبِهِمْ قُلِ اسْتَهْزِءُوا إِنَّ اللّهَ مُخْرِجٌ
-مَاتَحْذَرُونَ
-  </p>
-</blockquote>
+> يَحْذَرُ الْمُنَافِقُونَ اَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم
+> بِمَا فِي قُلُوبِهِمْ قُلِ اسْتَهْزِءُوا إِنَّ اللّهَ مُخْرِجٌ
+> مَاتَحْذَرُونَ
 
 **64*****. “The hypocrites fear lest a ‘Surah’ should be sent down
 against them apprising them of what is in their hearts. Say: ‘Mock on!
@@ -499,12 +479,8 @@ saying:
 Surah At-Tawbah – Verse 65
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَاَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ
-قُلْ أَبِاللّهِ وءَايَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِءُونَ
-  </p>
-</blockquote>
+> وَلَئِن سَاَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ
+> قُلْ أَبِاللّهِ وءَايَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِءُونَ
 
 **65*****. “And if you question them (regarding their mockery), they
 will certainly say: ‘We were only discoursing and sporting.’ Say: “Were
@@ -535,12 +511,8 @@ mocking Allah, His signs, and His Messenger?’***
 Surah At-Tawbah – Verse 66
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاتَعْتَذِرُوا قَدْ كَفَرْتُم بَعْدَ إِيمَانِكُمْ إِن نَعْفُ عَن
-طَآئِفَةٍ مِنكُمْ نُعَذِّبْ طَآئِفَةً بِاَنَّهُمْ كَانُوا مُجْرِمِينَ
-  </p>
-</blockquote>
+> لاتَعْتَذِرُوا قَدْ كَفَرْتُم بَعْدَ إِيمَانِكُمْ إِن نَعْفُ عَن
+> طَآئِفَةٍ مِنكُمْ نُعَذِّبْ طَآئِفَةً بِاَنَّهُمْ كَانُوا مُجْرِمِينَ
 
 **66*****. “Do not make excuses. You have disbelieved after your
 believing. If We forgive a party of you (because of repentance), We will
@@ -594,5 +566,4 @@ vol. 2, p. 53; Ehqāq-ul-Haqq, vol. 2, p. 400; and Kanz-ul-‘Ummāl, vol.
 [^9]: Al-Muhajjat-ul-Baydā’, vol.2, p.66
 
 [^10]: Majma‘-ul-Bayān, the commentary.
-
 

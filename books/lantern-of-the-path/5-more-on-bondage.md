@@ -5,15 +5,9 @@ Bondage is an essence, the inner nature of which is lordship
 (rububiyah). Whatever is missing in bondage is found in lordship, and
 whatever is veiled from lordship is found in bondage. As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
-عَلَى كُلِّ شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
-
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
+> عَلَى كُلِّ شَيْءٍ شَهِيدٌ
 
 ***We will soon show them Our signs in the universe and in their own
 souls, until it will become quite clear to them that it is the truth. Is
@@ -37,6 +31,4 @@ nor veil.
 
 The principles of conduct have four aspects, as we mentioned at the
 beginning of the first chapter.
-
-
 

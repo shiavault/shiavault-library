@@ -98,11 +98,7 @@ Messenger of Allah (S).
 
 The following verse is an explicit proof of the legitimacy of *mut‘ah*:
 
-<blockquote dir="rtl">
-  <p>
-"فما استمتعتم به منهم فئاتوهنّ أجورهنّ فريضة."
-  </p>
-</blockquote>
+> "فما استمتعتم به منهم فئاتوهنّ أجورهنّ فريضة."
 
 ***“For the enjoyment you have had from them thereby, give them their
 dowries, by way of settlement.”***[^1]
@@ -134,12 +130,8 @@ related to temporary marriage.[^3]
 in his *Sahih* narrates on the authority of Jabir ibn ‘Abd Allah and
 Salmah ibn Aku‘ that they have said:
 
-<blockquote dir="rtl">
-  <p>
-"خرج علينا منادي رسول الله رسول أنّ فقال الله قد أذن لكم أن تستمعوا
-يعني متعة النساء."
-  </p>
-</blockquote>
+> "خرج علينا منادي رسول الله رسول أنّ فقال الله قد أذن لكم أن تستمعوا
+> يعني متعة النساء."
 
 “The harbinger of the Messenger of Allah came to us and said: The
 Messenger of Allah has granted you permission to have “*istimta‘*”; that
@@ -165,11 +157,7 @@ In his *Sahih*, Muslim ibn al-Hajjaj narrates that Ibn al-‘Abbas and Ibn
 az-Zubayr opposed the prohibition of *mut‘ah* on women and *mut‘ah* on
 *Hajj*. Jabir ibn ‘Abd Allah said:
 
-<blockquote dir="rtl">
-  <p>
-"فعلنا هما مع رسول الله ثم نهانا عنهما عُمر فلم نعد لهما."
-  </p>
-</blockquote>
+> "فعلنا هما مع رسول الله ثم نهانا عنهما عُمر فلم نعد لهما."
 
 “In the lifetime of the Messenger of Allah, we used to perform both the
 two (*mut‘ah*s). Then, ‘Umar prohibited us from doing them and since
@@ -180,11 +168,7 @@ authority of ‘Abd ar-Razzaq, Abu Dawud and Ibn Jarir, and they narrate
 the decree when he was asked, “Has the verse on *mut‘ah* been
 abrogated?” He replied, “No,” and ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-"لولا أن عمر نهى عن المتعة ما زنى إلا شقيّ."
-  </p>
-</blockquote>
+> "لولا أن عمر نهى عن المتعة ما زنى إلا شقيّ."
 
 “Had ‘Umar not prohibited *mut‘ah*, no one would have ever committed
 adultery and fornication {*zina*} except a wretched person.”[^7]
@@ -192,12 +176,8 @@ adultery and fornication {*zina*} except a wretched person.”[^7]
 Also, ‘Ali ibn Muhammad Qawshchi says: “‘Umar ibn al-Khattab announced
 from the pulpit:
 
-<blockquote dir="rtl">
-  <p>
-"أيها الناس ثلاث كنّ على عهد رسول الله أنا أنهي عنهنّ و أحرمهنّ وأعاقب
-عليهنّ وهى متعة النساء ومتعة الحج وحيّ على خير العمل."
-  </p>
-</blockquote>
+> "أيها الناس ثلاث كنّ على عهد رسول الله أنا أنهي عنهنّ و أحرمهنّ وأعاقب
+> عليهنّ وهى متعة النساء ومتعة الحج وحيّ على خير العمل."
 
 O people! Three things were prevalent in the time of the Messenger of
 Allah and now I prohibit them, and punish those who practice them. They
@@ -215,11 +195,7 @@ verses on marriage.
 
 Since the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-"والذين هُم لفُروجهم حفظون إلا على أزواجهم أو ما ملكت أيمنهم."
-  </p>
-</blockquote>
+> "والذين هُم لفُروجهم حفظون إلا على أزواجهم أو ما ملكت أيمنهم."
 
 ***“(Certainly, the faithful have attained salvation—those) who guard
 their private parts except from their spouses or their slave
@@ -312,5 +288,4 @@ verse on mut‘ah.
 
 [^12]: Wasa’il ash-Shi‘ah, vol. 14, “Kitab an-Nikah,” the first section
 on mut‘ah, p. 436.
-
 

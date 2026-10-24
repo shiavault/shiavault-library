@@ -354,4 +354,3 @@ shaky. Mawlawī
 
 [^10]: Sūrah al-Baqarah 2:257.
 
-

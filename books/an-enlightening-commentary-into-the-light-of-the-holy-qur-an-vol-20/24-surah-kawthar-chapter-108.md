@@ -8,11 +8,7 @@ Surah Kawthar, Chapter 108
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -81,31 +77,15 @@ Surah.
 Surah Kawthar, Verses 1-3
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
-  </p>
-</blockquote>
+> إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
 
-<blockquote dir="rtl">
-  <p>
-فَصَلِّ لِرَبِّكَ وَانْحَرْ
-  </p>
-</blockquote>
+> فَصَلِّ لِرَبِّكَ وَانْحَرْ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
-  </p>
-</blockquote>
+> إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
 
 ***1. “Surely (O Muhammad) We have given you abundance (of good
 (Kawthar).”***  
@@ -394,5 +374,4 @@ of Imam Hassan Mujtaba (as) who was martyred by Mansur-i-Dawaniqi in 145
 AH.
 
 [^8]: Tafsir-i-Fakhr-i-Razi, vol. 32, p. 124.
-
 

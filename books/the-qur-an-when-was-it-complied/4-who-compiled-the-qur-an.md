@@ -60,4 +60,3 @@ structured whole to all people as compiled and structured by Allah.
 14 The Qur'an: The Resurrection (75): 17.
 15 The Qur'an: The Rocky Tract (15): 9.
 
-

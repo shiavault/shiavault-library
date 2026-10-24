@@ -156,4 +156,3 @@ their salvation.
 
 [^5]:  Ibid.
 
-

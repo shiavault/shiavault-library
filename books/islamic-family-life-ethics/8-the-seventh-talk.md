@@ -18,14 +18,10 @@ forced others to speak ill about themselves.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-كلَُّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتهََا حَتىَّ إِذَا
-ادَّارَكُواْ فِيهَا جَمِيعًا قَالَتْ أُخْرَئهُمْ لِأُولَئهُمْ رَبَّنَا
-هَؤُلَاءِ أَضَلُّونَا فََاتهِِمْ عَذَابًا ضِعْفًا مِّنَ النَّارِ قَالَ
-لِكلُ‏ٍّ ضِعْفٌ وَ لَكِن لَّا تَعْلَمُون
-  </p>
-</blockquote>
+> كلَُّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتهََا حَتىَّ إِذَا
+> ادَّارَكُواْ فِيهَا جَمِيعًا قَالَتْ أُخْرَئهُمْ لِأُولَئهُمْ رَبَّنَا
+> هَؤُلَاءِ أَضَلُّونَا فََاتهِِمْ عَذَابًا ضِعْفًا مِّنَ النَّارِ قَالَ
+> لِكلُ‏ٍّ ضِعْفٌ وَ لَكِن لَّا تَعْلَمُون
 
 ***....Every time a nation entereth, it curseth its sister (nation)
 till, when they have all been made to follow one another thither, the
@@ -56,11 +52,7 @@ happens in this world, its reality will become evident and clear in the
 hereafter! If the fire of Hell comes upon us, it is the result of our
 own acts!
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُم
-  </p>
-</blockquote>
+> ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُم
 
 ***This is on account of that which your own hands have sent
 before....(Sura Ali Imran, 3: 182)***
@@ -68,12 +60,8 @@ before....(Sura Ali Imran, 3: 182)***
 If we get the bounties of the Heaven like the *houris,* it is on account
 of our own good deeds.
 
-<blockquote dir="rtl">
-  <p>
-كلُُواْ وَ اشْرَبُواْ هَنِيَا بِمَا أَسْلَفْتُمْ فىِ الْأَيَّامِ
-الخَْالِيَة
-  </p>
-</blockquote>
+> كلُُواْ وَ اشْرَبُواْ هَنِيَا بِمَا أَسْلَفْتُمْ فىِ الْأَيَّامِ
+> الخَْالِيَة
 
 ***(And it will be said unto those therein): Eat and drink at ease for
 that which ye sent on before you in past days.*** ***(Sura al-Haaqqah,
@@ -101,17 +89,9 @@ there. If there is foul language in your house and the atmosphere of
 your house is cold, then it will result in Hell-fire there. Contrary to
 this the Holy Quran says about the inhabitants of the heaven thus:
 
-<blockquote dir="rtl">
-  <p>
-عَلىَ‏ سُررٍ مَّوْضُونَةٍ
-  </p>
-</blockquote>
+> عَلىَ‏ سُررٍ مَّوْضُونَةٍ
 
-<blockquote dir="rtl">
-  <p>
-ُمُّتَّكِِينَ عَلَيهَْا مُتَقَبِلِين‏
-  </p>
-</blockquote>
+> ُمُّتَّكِِينَ عَلَيهَْا مُتَقَبِلِين‏
 
 ***On lined couches,***  
 ***Reclining therein - face to face.*** ***(Sura al-Waaqi'ah, 56: 15,
@@ -120,17 +100,9 @@ this the Holy Quran says about the inhabitants of the heaven thus:
 Those who have lived in their families amicably, doing good and pious
 deeds, will enjoy all the comforts in Heaven.
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْمَعُونَ فِيهَا لَغْوًا وَ لَا تَأْثِيمًا
-  </p>
-</blockquote>
+> لَا يَسْمَعُونَ فِيهَا لَغْوًا وَ لَا تَأْثِيمًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا قِيلًا سَلَمًا سَلَمًا
-  </p>
-</blockquote>
+> إِلَّا قِيلًا سَلَمًا سَلَمًا
 
 ***There hear they no vain speaking nor recrimination***  
 ***(Naught) but the saying: Peace (and again) Peace!*** ***(Sura
@@ -177,11 +149,7 @@ rid of immediately and should not last for even an hour. Man should
 uphold his dignity and the wife should be patient even if the husband,
 sometimes, is at fault! The Holy Quran says that such is a good wife!
 
-<blockquote dir="rtl">
-  <p>
-َالصَّلِحَتُ قَنِتَتٌ حَفِظَتٌ لِّلْغَيْبِ بِمَا حَفِظَ الله
-  </p>
-</blockquote>
+> َالصَّلِحَتُ قَنِتَتٌ حَفِظَتٌ لِّلْغَيْبِ بِمَا حَفِظَ الله
 
 ***So good women are the obedient, guarding in secret that which Allah
 hath guarded. ...(*** ***Sura an-Nisa’, 4: 34***
@@ -236,11 +204,7 @@ woman with a dead heart can neither run her home nor can she take care
 of her husband and the children. Similarly a dead-hearted man will be
 nothing more than a drone for the society at large.
 
-<blockquote dir="rtl">
-  <p>
-وَ لَا تَنَزَعُواْ فَتَفْشَلُواْ وَ تَذْهَبَ رِيحُكمُ‏ْ
-  </p>
-</blockquote>
+> وَ لَا تَنَزَعُواْ فَتَفْشَلُواْ وَ تَذْهَبَ رِيحُكمُ‏ْ
 
 ***....and dispute no one with another lest ye falter and your strength
 departs from you...*****.** **(*****Sura al-Anfal, 8: 46)***
@@ -268,15 +232,11 @@ are sitting on falling into the valley below. The Holy Quran says that
 one of the most valuable bounties of Allah is the instinct of love and
 affection. The Holy Book is doing a favor to us when it says:
 
-<blockquote dir="rtl">
-  <p>
-وَ اعْتَصِمُواْ بحَِبْلِ اللَّهِ جَمِيعًا وَ لَا تَفَرَّقُواْ وَ
-اذْكُرُواْ نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً
-فَأَلَّفَ بَينْ‏َ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَنًا وَ
-كُنتُمْ عَلىَ‏ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنهَْا
-كَذَلِكَ يُبَينِ‏ُّ اللَّهُ لَكُمْ ءَايَتِهِ لَعَلَّكمُ‏ْ تهَْتَدُون
-  </p>
-</blockquote>
+> وَ اعْتَصِمُواْ بحَِبْلِ اللَّهِ جَمِيعًا وَ لَا تَفَرَّقُواْ وَ
+> اذْكُرُواْ نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً
+> فَأَلَّفَ بَينْ‏َ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَنًا وَ
+> كُنتُمْ عَلىَ‏ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنهَْا
+> كَذَلِكَ يُبَينِ‏ُّ اللَّهُ لَكُمْ ءَايَتِهِ لَعَلَّكمُ‏ْ تهَْتَدُون
 
 ***And hold fast, all of you together, to the cable of Allah, and do not
 separate. And remember Allah's favor unto you: how ye were enemies and
@@ -374,5 +334,4 @@ decide on the dowry for the daughter, consult each other and come to an
 understanding. Think how you can lighten the burden instead of abusing
 each other. If you claim the dowry forcefully, the marriage can never
 prosper.
-
 

@@ -301,4 +301,3 @@ al-Irshad (pg.246) and Ibn al-Jawzi in al-Tadhkirah (pg.264) say:
 [^16]: Al-Tabari (5:390) narrates this report from Imam al-Baqir (as) on
 the authority of ‘Ammar al-Duhani.
 
-

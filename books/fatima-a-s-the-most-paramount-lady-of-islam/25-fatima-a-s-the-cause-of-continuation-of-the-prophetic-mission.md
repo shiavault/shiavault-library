@@ -44,4 +44,3 @@ him)? Prison, torture, homelessness, banishment, stroke of sword,
 poison, separation from dynasty and children were some of the hardships
 they suffered in the way to achieve their holy end.
 
-

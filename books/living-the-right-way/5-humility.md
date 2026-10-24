@@ -86,4 +86,3 @@ Imam ‘Ali al-Rida (a.s.) said: *“Anyone who greets a poor Muslim in a
 manner different from his greeting a rich one, Allah will be wroth with
 him on the Day of Judgement.”*
 
-

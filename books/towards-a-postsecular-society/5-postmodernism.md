@@ -27,4 +27,3 @@ the exchanges between Levinas and Derrida are a unique encapsulation of
 an ancient creative tension between the Hebraic and the Hellenic in
 Western culture and spiritual thought.
 
-

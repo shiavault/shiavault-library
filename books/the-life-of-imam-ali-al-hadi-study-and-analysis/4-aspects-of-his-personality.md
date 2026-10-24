@@ -959,4 +959,3 @@ means the bridge that dominates Hell.
 
 [^37]: Ibid., vol.13 p.132.
 
-

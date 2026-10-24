@@ -135,4 +135,3 @@ Clapping
 A: It is permissible for them, provided that it does not include other
 forbidden things. (FM, p. 437)
 
-

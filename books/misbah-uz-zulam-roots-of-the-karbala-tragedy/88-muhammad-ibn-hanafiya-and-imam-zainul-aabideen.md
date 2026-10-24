@@ -39,4 +39,3 @@ Hajar al-Aswad.
 
 [^1]: The report is from Ihtejaaj of Shaykh Tabarsi; Pg. 177.
 
-

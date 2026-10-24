@@ -8,14 +8,10 @@ are the Guardians of the Muslims
 Surah Al-Ma'idah, Verse 51
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ الْيَهُودَ
-وَالنَّصَارَى أَوْلِيَاء بَعْضُهُمْ أَوْلِيَاء بَعْضٍ وَمَن
-يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُ مِنْهُمْ إِنَّ اللّهَ لاَ يَهْدِي
-الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ الْيَهُودَ
+> وَالنَّصَارَى أَوْلِيَاء بَعْضُهُمْ أَوْلِيَاء بَعْضٍ وَمَن
+> يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُ مِنْهُمْ إِنَّ اللّهَ لاَ يَهْدِي
+> الْقَوْمَ الظَّالِمِينَ
 
 **51.** ***"O' you who have Faith! do not take the Jews and the
 Christians for friends. They are friends of each other. And whoever
@@ -53,14 +49,10 @@ is rendered into the sense of accepting the sovereignty of infidels.
 Surah Al-Ma'idah, Verse 52
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَرَى الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ فِيهِمْ
-يَقُولُونَ نَخْشَى أَن تُصِيبَنَا دَآئِرَةٌ فَعَسَى اللّهُ أَن
-يَأْتِيَ بِالْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِ فَيُصْبِحُواْ عَلَى مَا
-أَسَرُّواْ فِي أَنْفُسِهِمْ نَادِمِينَ
-  </p>
-</blockquote>
+> فَتَرَى الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ فِيهِمْ
+> يَقُولُونَ نَخْشَى أَن تُصِيبَنَا دَآئِرَةٌ فَعَسَى اللّهُ أَن
+> يَأْتِيَ بِالْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِ فَيُصْبِحُواْ عَلَى مَا
+> أَسَرُّواْ فِي أَنْفُسِهِمْ نَادِمِينَ
 
 **52.** ***"But you will see those in whose hearts is disease hastening
 towards them, saying: We fear lest a calamity should befall us.' And it
@@ -95,13 +87,9 @@ for what they hid in their selves."***
 Surah Al-Ma'idah, Verse 53
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الَّذِينَ آمَنُواْ أَهَـؤُلاء الَّذِينَ أَقْسَمُواْ بِاللّهِ
-جَهْدَ أَيْمَانِهِمْ إِنَّهُمْ لَمَعَكُمْ حَبِطَتْ أَعْمَالُهُمْ
-فَأَصْبَحُواْ خَاسِرِينَ
-  </p>
-</blockquote>
+> وَيَقُولُ الَّذِينَ آمَنُواْ أَهَـؤُلاء الَّذِينَ أَقْسَمُواْ بِاللّهِ
+> جَهْدَ أَيْمَانِهِمْ إِنَّهُمْ لَمَعَكُمْ حَبِطَتْ أَعْمَالُهُمْ
+> فَأَصْبَحُواْ خَاسِرِينَ
 
 **53.** ***"And those who believe will say: Are these they who swore by
 Allah with the most forcible of their oath that they were most surely
@@ -131,15 +119,11 @@ world and in other world. It says:
 Surah Al-Ma'idah, Verse 54
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ
-فَسَوْفَ يَأْتِي اللّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ
-عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي
-سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ذَلِكَ فَضْلُ اللّهِ
-يُؤْتِيهِ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ
+> فَسَوْفَ يَأْتِي اللّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ
+> عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي
+> سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ذَلِكَ فَضْلُ اللّهِ
+> يُؤْتِيهِ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
 
 **54.** ***"O' you who have Faith whoever of you turns away from his
 religion (he does not harm Allah, since) soon Allah will bring (forward)
@@ -194,12 +178,8 @@ is All-Embracing, All-Knowing.***
 Surah Al-Ma'idah, Verse 55
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
-يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
+> يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 **55.** ***"Verily, verily your guardian (waliyy) is only Allah and His
 Messenger and those who believe, those who establish prayer and pay the
@@ -320,12 +300,8 @@ poor-rate while bowing down in prayer)."***
 Surah Al-Ma'idah, Verse 56
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَتَوَلَّ اللّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُواْ فَإِنَّ حِزْبَ
-اللّهِ هُمُ الْغَالِبُونَ
-  </p>
-</blockquote>
+> وَمَن يَتَوَلَّ اللّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُواْ فَإِنَّ حِزْبَ
+> اللّهِ هُمُ الْغَالِبُونَ
 
 **56.** ***"And whoever takes for (his) guardian Allah and His Messenger
 and those who believe (should know that he is victorious, because)
@@ -354,5 +330,4 @@ sense of guardianship, government, and governorship of Islam and the
 Muslims. The evidence is that in the meaning of ***'the party of
 Allah'*** there lies a kind of formation, organization and society for
 securing the common goals.
-
 

@@ -11,11 +11,7 @@ to their father’s property as well. In some other laws of the world
 which gave an equal inheritance to women and men alike but not in the
 shape of a specified share, it was what the Qur’an mentions as
 
-<blockquote dir="rtl">
-  <p>
-نصيباً مفروضاً
-  </p>
-</blockquote>
+> نصيباً مفروضاً
 
 (*i.e. a fixed share to which she was entitled*), but it took this form:
 a person was entitled, if he so liked, to make a will in favour of his
@@ -84,13 +80,9 @@ family however distant in the ranks of inheritance he may have been,
 they never gave inheritance to a woman. So, when the verse of
 inheritance was revealed and it distinctly stated:
 
-<blockquote dir="rtl">
-  <p>
-لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
-وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
-مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَفْرُوضًا
-  </p>
-</blockquote>
+> لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
+> وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
+> مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَفْرُوضًا
 
 ***To the men a share of what parents and kinsmen leave, and to the
 women a share of what parents and kinsmen leave, whether it be little or
@@ -313,11 +305,7 @@ Unity of God, life after death, and other cardinal principles of Islam.
 One of his objections against Islam was the very same one about
 inheritance. He would say:
 
-<blockquote dir="rtl">
-  <p>
-ما بالُ المرأة المِسكينة الضَّعيفة تأخُذ سهماً ويأخذ سهمين.
-  </p>
-</blockquote>
+> ما بالُ المرأة المِسكينة الضَّعيفة تأخُذ سهماً ويأخذ سهمين.
 
 “Why should a poor woman, who is weaker than man, gets only one share,
 while a man, who is stronger, gets two? This is contrary to justice.”
@@ -336,5 +324,4 @@ Such questions were put to all the Imams of our faith, and all of them
 replied in the same way.
 
 [^1]: This describes the situation in Ancient Iran (Tr.)
-
 

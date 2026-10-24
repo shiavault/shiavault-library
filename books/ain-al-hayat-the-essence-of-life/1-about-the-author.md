@@ -37,4 +37,3 @@ bin Hasan Isfahani and Mulla Muhammad Husayn bin Yahya Noori.
 This great luminary of Islamic learning passed away at the age of 77
 years in 1111H (1690 A.D.).
 
-

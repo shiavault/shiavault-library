@@ -381,4 +381,3 @@ The apprehension of some particular object or situation at the animal
 level so that there is no reference to the universal or conceptual in
 this kind of cognitive experience; see also al-quwwat al-mutawahhimah.
 
-

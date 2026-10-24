@@ -941,4 +941,3 @@ Bihar al-Anwar, Vol. 3, p. 311, "Kitab al-Tawhid."
 
 [^31]: Ibid., Vol. 1, p. 18. al-Majlisi, Bihar al-Anwar, Vol. 3, p. 311.
 
-

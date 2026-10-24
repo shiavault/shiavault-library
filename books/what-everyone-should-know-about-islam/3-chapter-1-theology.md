@@ -820,4 +820,3 @@ assist, the path of advancement and progress remains open.
 
 [^8]: Bihar al-Anwar, v. 4, p-62.
 
-

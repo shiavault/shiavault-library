@@ -64,4 +64,3 @@ habits, the style, ideals, thoughts and deeds. Are all these acceptable
 to him and do these appeal to him, because "ALI" represents these and
 not merely a historical name.)
 
-

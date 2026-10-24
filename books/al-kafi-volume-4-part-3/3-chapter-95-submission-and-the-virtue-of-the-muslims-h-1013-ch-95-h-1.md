@@ -115,7 +115,6 @@ The Imam (a.s.) said, "They are those who are submissive to the
 hearing a hadith do not add anything thereto or omit anything therefrom.
 They present it just as they have heard."
 
-
 **Chapter 96 : People's obligation after Hajj to Meet the Imam, Ask
 them Religious Instructions, Declare and Pledge to them Allegiance and
 Express their Love H 1021, Ch. 96, h 1**
@@ -168,5 +167,4 @@ around and would not find anyone to inform them of the guidance of
 Allah, the Most Holy, the Most High, and His messenger they would come
 to us and we would inform them of the guidance of Allah, the Most Holy,
 the Most High, and His Messenger."
-
 

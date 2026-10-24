@@ -50,4 +50,3 @@ Yazeed had batted the mouth of Imam Hussain (Q), he ordered them to hang
 it, so it was hung up for three days at the door of the mosque in
 Damascus.
 
-

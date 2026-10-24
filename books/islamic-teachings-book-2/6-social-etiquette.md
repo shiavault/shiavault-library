@@ -50,4 +50,3 @@ house?
 
 3. Which are the best social manners?
 
-

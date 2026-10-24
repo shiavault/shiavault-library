@@ -287,4 +287,3 @@ In all references except Kashf al-ghumma, ‘\`Īsā b. Ṣabīḥ’ has been
 recorded instead of ‘\`Īsā b. Masīḥ’. In Kashf al-ghumma, ‘\`Īsā b.
 Shaj’ has been used.
 
-

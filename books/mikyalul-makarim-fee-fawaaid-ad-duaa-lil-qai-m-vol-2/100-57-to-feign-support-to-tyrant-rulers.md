@@ -21,11 +21,7 @@ under a tyrant government, you must behave nicely with those whom you
 fear most. Because one who tries to overcome the government has agreed
 to get himself killed. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ
-  </p>
-</blockquote>
+> وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ
 
 ***And cast not yourselves to perdition.*** [^1]
 
@@ -54,5 +50,4 @@ be affected by seditions.”[^2]
 [^1]: Tohaf al-Uqool, Pg. 228
 
 [^2]: Ghaibat Nomani, Pg. 112
-
 

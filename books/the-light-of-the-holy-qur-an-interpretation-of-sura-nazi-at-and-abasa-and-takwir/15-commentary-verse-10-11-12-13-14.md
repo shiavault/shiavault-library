@@ -205,4 +205,3 @@ when, not only in the Arabian Peninsula, but in all scientific meetings
 held by scientists of the world, at that time, no one knew anything
 about these statistics.
 
-

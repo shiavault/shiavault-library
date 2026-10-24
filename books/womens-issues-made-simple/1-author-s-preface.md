@@ -40,4 +40,3 @@ Sultana Razavi and my late mother in law Tahera Begum Arastu.
 Batool Arastu  
  Qum, Shawwal 15, 1426/ November 18, 2005
 
-

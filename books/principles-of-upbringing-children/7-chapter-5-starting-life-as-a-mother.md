@@ -74,4 +74,3 @@ human being.
 
 [^1]: Bihar al-anwar, v 77, p. 115
 
-

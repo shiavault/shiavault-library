@@ -42,4 +42,3 @@ Quraysh, p. 88; Mas‘ūdī, Murūj al-Dhahab, vol. 3, p. 70; Nuwayrī,
 Nahāyat al-Irab, vol. 6, p. 227; Zirklī, Al-A‘lām, vol. 5, p. 355; Ibn
 Khayyāt, Ta’rīkh, p. 293-314.
 
-

@@ -21,11 +21,7 @@ hearts.
 negligence corrupts deeds, and death cut off hopes.
 
 > 4ـ إيّاكَ والغَفْلَةَ، والاِغْتِرارَ بِالمُهْلَةِ، فَإنَّ الغَفْلَةَ
-<blockquote dir="rtl">
-  <p>
-تُفْسِدُ الأعْمالَ، وَالآجالَ تَقْطَعُ الآمالَ.
-  </p>
-</blockquote>
+> تُفْسِدُ الأعْمالَ، وَالآجالَ تَقْطَعُ الآمالَ.
 
 5. Negligence is misguidance and heedlessness is ignorance.
 
@@ -60,11 +56,7 @@ misfortunes.
 from than the intoxication of wines [and alcoholic drinks].
 
 > 12ـ سُكْرُ الغَفْلَةِ والغُرُورِ أبْعَدُ إفاقَةً مِنْ سُكْرِ
-<blockquote dir="rtl">
-  <p>
-الخُمُورِ.
-  </p>
-</blockquote>
+> الخُمُورِ.
 
 13. Counter negligence with attentiveness.
 
@@ -74,11 +66,7 @@ from than the intoxication of wines [and alcoholic drinks].
 regards to seeking provisions and preparing for the Hereafter.
 
 > 14ـ عَجِبْتُ لِغَفْلَةِ ذَوِى الألْبابِ عَنْ حُسْنِ الاِرْتيادِ
-<blockquote dir="rtl">
-  <p>
-والاِسْتِعْدادِ لِلْمَعادِ.
-  </p>
-</blockquote>
+> والاِسْتِعْدادِ لِلْمَعادِ.
 
 15. Taking repose in negligence is delusion.
 
@@ -88,24 +76,16 @@ regards to seeking provisions and preparing for the Hereafter.
 used as proof against him and whose days will lead him to wretchedness.
 
 > 16ـ فيا لَها حَسْرَةً عَلى ذي غَفْلَة إنْ يَكُنْ (أنْ يَكُونَ)
-<blockquote dir="rtl">
-  <p>
-عُمْرُهُ عَلَيْهِ حُجَّةً، وَإنْ تُؤَدِّبَهُ (وَ أنْ تُؤَدِّيَهُ)
-أيّّامُهُ إلى شَقْوَة.
-  </p>
-</blockquote>
+> عُمْرُهُ عَلَيْهِ حُجَّةً، وَإنْ تُؤَدِّبَهُ (وَ أنْ تُؤَدِّيَهُ)
+> أيّّامُهُ إلى شَقْوَة.
 
 17. Listener, awaken from your negligence, reduce your hastiness, brace
 yourself, be on your guard and remember your grave, for indeed you must
 pass through it.
 
 > 17ـ فَأفِقْ أيُّهَا السّامِعُ مِنْ غَفْلَتِكَ، واخْتَصِرْ مِنْ
-<blockquote dir="rtl">
-  <p>
-عَجَلَتِكَ، وأشْدُدْ أزْرَكَ، وخُذْ حِذْرَكَ، واذْكُرْ قَبْرَكَ،
-فَإنَّ عَلَيْهِ مَمَرَّكَ.
-  </p>
-</blockquote>
+> عَجَلَتِكَ، وأشْدُدْ أزْرَكَ، وخُذْ حِذْرَكَ، واذْكُرْ قَبْرَكَ،
+> فَإنَّ عَلَيْهِ مَمَرَّكَ.
 
 18. Negligence is enough of a misguidance.
 
@@ -127,5 +107,4 @@ which will not save him [in the Hereafter].
 
 [^1]: This is because the negligent one is not concerned about anything
 that goes on around him.
-
 

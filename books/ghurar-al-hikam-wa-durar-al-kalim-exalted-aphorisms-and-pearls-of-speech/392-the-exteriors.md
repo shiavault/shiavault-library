@@ -13,10 +13,5 @@ who’s exterior is good his interior is also good, and whoever has a bad
 exterior has a bad interior.
 
 > 2ـ لِكُلِّ ظاهِر باطِنٌ عَلى مِثالِهِ، فَمَنْ طابَ ظاهِرُهُ طابَ
-<blockquote dir="rtl">
-  <p>
-باطِنُهُ، وما خَبُثَ ظاهِرُهُ خَبُثَ باطِنُهُ.
-  </p>
-</blockquote>
-
+> باطِنُهُ، وما خَبُثَ ظاهِرُهُ خَبُثَ باطِنُهُ.
 

@@ -57,4 +57,3 @@ If his ignorance was not excusable, he must, after correcting his error,
 say the tawaf prayer again; the rules governing a person who has
 forgotten to say the prayer shall apply to him.
 
-

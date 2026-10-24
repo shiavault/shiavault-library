@@ -3,15 +3,11 @@ Chapter 1: Islamic Terminology
 
 **“In the name of Allah, the Compassionate, the all merciful”**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكُمُ اللّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
-النَّهَارَ يَطْلُبُهُ حَثِيثاً وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
-مُسَخَّرَاتٍ بِأَمْرِهِ أَلاَ لَهُ الْخَلْقُ وَالأَمْرُ تَبَارَكَ
-اللّهُ رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكُمُ اللّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
+> النَّهَارَ يَطْلُبُهُ حَثِيثاً وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
+> مُسَخَّرَاتٍ بِأَمْرِهِ أَلاَ لَهُ الْخَلْقُ وَالأَمْرُ تَبَارَكَ
+> اللّهُ رَبُّ الْعَالَمِينَ
 
 ***“Surely your Lord is Allah, Who created the heavens and the earth in
 six periods of time, and He is firm in power; He throws the veil of
@@ -63,11 +59,7 @@ God” but « is the word for anything worshipped by mankind.
 
 The Holy Quran quotes the Pharoah as saying:
 
-<blockquote dir="rtl">
-  <p>
-لَئِن اتَّخَذْتَ إلها غيري
-  </p>
-</blockquote>
+> لَئِن اتَّخَذْتَ إلها غيري
 
 ***“If you will take a god besides Me, I will most certainly make you
 one of the imprisoned”.(Qur’an 26:29)***
@@ -78,11 +70,7 @@ before or works to gain his satisfaction.
 
 In the Holy Quran we read
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ مَنِ اتَّخَذَ الهُ هَواهُ
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ مَنِ اتَّخَذَ الهُ هَواهُ
 
 ***“Have you then considered him who takes his low desires for his
 god”.(Qur’an 45:23)***
@@ -100,12 +88,8 @@ enlightens and completes our understanding of this term. It explains
 when man becomes a worshipper and under what circumstances something
 takes the title “Elah” god or deity. The Imam (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-من أصغى الى ناطقٍ فقد عبده، فإن كان الناطق عن الله فقد عبد الله و إن
-كان الناطق ينطق عن لسان ابليس فقد عبد ابليس
-  </p>
-</blockquote>
+> من أصغى الى ناطقٍ فقد عبده، فإن كان الناطق عن الله فقد عبد الله و إن
+> كان الناطق ينطق عن لسان ابليس فقد عبد ابليس
 
 “If someone listens to the words of a speaker, he has worshipped him. In
 the event that this speaker speaks from God the listener has worshipped
@@ -119,12 +103,8 @@ said or God ordained.[^4] Amir al-Mu'meneen Ali (a.s.) never said: “I
 say”[^5] but the second Caliph Omar would say “I say”. It was he who
 addressed the Muslims saying:
 
-<blockquote dir="rtl">
-  <p>
-متعتان كانتا على عهد رسول الله (صلّى الله عليه وسلم) انا انهي عنهما و
-اعاقب عليهما، متعة النساء، وانا انهي عنهما و اضرب عليهما...
-  </p>
-</blockquote>
+> متعتان كانتا على عهد رسول الله (صلّى الله عليه وسلم) انا انهي عنهما و
+> اعاقب عليهما، متعة النساء، وانا انهي عنهما و اضرب عليهما...
 
 “There were two types of temporary marriage lawful during the Prophets
 time, but I prohibit them and declare them unlawful, and I will punish
@@ -162,11 +142,7 @@ nor their differences understood.
 First of all lets see what this word means in the Arabic language.
 Ragheb Isfahani the famous linguist says:
 
-<blockquote dir="rtl">
-  <p>
-الرب في الاصل التربية وهو انشاء الشيء حالا فحالاً الى حد التمام
-  </p>
-</blockquote>
+> الرب في الاصل التربية وهو انشاء الشيء حالا فحالاً الى حد التمام
 
 Lord is originally an infinitive means to train or educate. The person,
 who trains a thing, developing and nurturing it from its first stage of
@@ -191,11 +167,7 @@ However the difference between the two is that god may be called Lord in
 a general way and without being added to something. According to the
 Holy Qurans interpretation:
 
-<blockquote dir="rtl">
-  <p>
- بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ 
-  </p>
-</blockquote>
+>  بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ
 
 ***A fair land and an indulgent Lord (Quran 34 : 15)***
 
@@ -231,11 +203,7 @@ story in chapter 79 Al-Naziat” of the Holy Quran where Moses (a.s.)
 confronts the Pharoah with a few divine verses and the Pharoah assembles
 a vast group of Egyptians proclaiming:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا رَبُّكُمُ الْأَعْلَىٰ 
-  </p>
-</blockquote>
+> أَنَا رَبُّكُمُ الْأَعْلَىٰ
 
 ***“I (Pharoah) am your Lord the Highest!”*** ***(Quran 79 : 21-25)***
 
@@ -247,13 +215,9 @@ necessities of that which he is lord of, takes care of his requirements
 and determines the laws and rules for his life and growth. It was here
 that the Pharoah said:
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ
-مِصْرَ وَهَـٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي  أَفَلَا
-تُبْصِرُونَ 
-  </p>
-</blockquote>
+> وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ
+> مِصْرَ وَهَـٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي  أَفَلَا
+> تُبْصِرُونَ
 
 ***And Pharaoh called out among his people; he said, "O my people, does
 not the kingdom of Egypt belong to me, and these rivers flowing beneath
@@ -286,18 +250,14 @@ my laws because I am your Lord the Highest!”.
 What does Moses say in reply to this logic? What is his message and how
 does he confront the Pharoah? God commands Moses and Aaron:
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ ﴿٤٣﴾ فَقُولَا لَهُ قَوْلًا
-لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ ﴿٤٤﴾ قَالَا رَبَّنَا
-إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَىٰ﴿٤٥﴾ قَالَ
-لَا تَخَافَا  إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ ﴿٤٦﴾ فَأْتِيَاهُ
-فَقُولَا إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ
-وَلَا تُعَذِّبْهُمْ  قَدْ جِئْنَاكَ بِآيَةٍ مِّن
-رَّبِّكَ  وَالسَّلَامُ عَلَىٰ مَنِ اتَّبَعَ الْهُدَىٰ ﴿٤٧﴾ إِنَّا قَدْ
-أُوحِيَ إِلَيْنَا أَنَّ الْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ ﴿٤٨﴾
-  </p>
-</blockquote>
+> اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ ﴿٤٣﴾ فَقُولَا لَهُ قَوْلًا
+> لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ ﴿٤٤﴾ قَالَا رَبَّنَا
+> إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَىٰ﴿٤٥﴾ قَالَ
+> لَا تَخَافَا  إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ ﴿٤٦﴾ فَأْتِيَاهُ
+> فَقُولَا إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ
+> وَلَا تُعَذِّبْهُمْ  قَدْ جِئْنَاكَ بِآيَةٍ مِّن
+> رَّبِّكَ  وَالسَّلَامُ عَلَىٰ مَنِ اتَّبَعَ الْهُدَىٰ ﴿٤٧﴾ إِنَّا قَدْ
+> أُوحِيَ إِلَيْنَا أَنَّ الْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ ﴿٤٨﴾
 
 ***O Moses and Aaron! Go to the Pharoah and tell him that you are
 messengers of your Lord who has nurtured you and brought you to
@@ -308,11 +268,7 @@ with us verses and signs from your Lord (Qur’an 20: 43-48)***
 Of course the Pharoah who recognizes no Lord for himself rejects their
 statement and asks:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَن رَّبُّكُمَا يَا مُوسَىٰ ﴿٤٩﴾
-  </p>
-</blockquote>
+> قَالَ فَمَن رَّبُّكُمَا يَا مُوسَىٰ ﴿٤٩﴾
 
 ***“And who is your lord O' Moses” (Qur’an 20:49)***
 
@@ -321,12 +277,8 @@ that law and judgement must be received from him! Who is this other?
 
 Moses replies:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ
-هَدَىٰ ﴿٥٠﴾قَالَ فَمَا بَالُ الْقُرُونِ الْأُولَىٰ ﴿٥١﴾
-  </p>
-</blockquote>
+> قَالَ رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ
+> هَدَىٰ ﴿٥٠﴾قَالَ فَمَا بَالُ الْقُرُونِ الْأُولَىٰ ﴿٥١﴾
 
 ***“Our Lord is He Who gave to everything its creation, then guided it
 (to its goal)” (Qur’an 20:50-51)***
@@ -353,11 +305,7 @@ their tricks were defeated. The magicians who were better informed of
 magic than the other people flung themselves down prostrate in the face
 of the lords power saying:
 
-<blockquote dir="rtl">
-  <p>
-آمنَّا برب هارون و موسى
-  </p>
-</blockquote>
+> آمنَّا برب هارون و موسى
 
 ***We believe in the Lord of Haroun and Musa” (Qur’an*** ***20:70)***
 
@@ -372,12 +320,8 @@ and from who we must accept law, order, rule and judgement.
 During the lifetime of Gods great Prophet Abraham (a.s.), there were
 also these same types of conflicts and struggles:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ
-اللَّـهُ الْمُلْكَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ
+> اللَّـهُ الْمُلْكَ
 
 ***“Have you not considered him (Namrud) who disputed with Ibrahim about
 his Lord, because Allah had given him the Kingdom?” (Qur’an 2:258)***
@@ -394,11 +338,7 @@ everyone's lord and He is my Lord”.
 
 Nimrood, the rebellious one on that age said:
 
-<blockquote dir="rtl">
-  <p>
- أَنَا أُحْيِي وَأُمِيتُ
-  </p>
-</blockquote>
+>  أَنَا أُحْيِي وَأُمِيتُ
 
 ***“I also bring to life and cause death”. (Qur’an*** ***2:258)***
 
@@ -412,13 +352,9 @@ I am also the lord. It was here that doubt was caused to arise and it
 became possible for an ignorant person to accept his words. Without
 hesitation Abraham (a.s.) offers another attestation:
 
-<blockquote dir="rtl">
-  <p>
- فَإِنَّ اللَّـهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا
-مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗوَاللَّـهُ لَا يَهْدِي
-الْقَوْمَ الظَّالِمِينَ 
-  </p>
-</blockquote>
+>  فَإِنَّ اللَّـهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا
+> مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗوَاللَّـهُ لَا يَهْدِي
+> الْقَوْمَ الظَّالِمِينَ
 
 ***“My lord who is Allah causes the sun to rise in the East, if you are
 also lord and speak the truth then cause the sun to rise in the West”.
@@ -438,12 +374,8 @@ veil of ignorance covering their hearts to be torn away. It is night and
 Abraham upon seeing a bright star turns to the vast group of star
 worshippers saying:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَىٰ كَوْكَبًا  قَالَ هَـٰذَا
-رَبِّي..
-  </p>
-</blockquote>
+> فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَىٰ كَوْكَبًا  قَالَ هَـٰذَا
+> رَبِّي..
 
 ***“This bright star is my Lord”. (Quran 6: 76)***
 
@@ -457,13 +389,9 @@ This story continues as such for the sun, and moon and in the end after
 the setting of the sun, the brightest most powerful heavenly body,
 Abraham says:
 
-<blockquote dir="rtl">
-  <p>
- قَالَ يَا قَوْمِ إِنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ﴿٧٨﴾ إِنِّي
-وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ
-حَنِيفًا..
-  </p>
-</blockquote>
+>  قَالَ يَا قَوْمِ إِنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ﴿٧٨﴾ إِنِّي
+> وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ
+> حَنِيفًا..
 
 ***“O ye people! Lo, I am free of all you associate with Gods lordship
 (sovereignty). I have turned my face towards He who created the heavens
@@ -472,12 +400,8 @@ and earth and is my Lord”. (Quran*** ***6: 78-79)***
 The people will not leave Abraham alone and the dispute continues. In
 the face of their arguments, Abraham declares that:
 
-<blockquote dir="rtl">
-  <p>
- قَالَ أَتُحَاجُّونِّي فِي اللَّـهِ وَقَدْ هَدَانِ وَلَا أَخَافُ مَا
-تُشْرِكُونَ بِهِ..
-  </p>
-</blockquote>
+>  قَالَ أَتُحَاجُّونِّي فِي اللَّـهِ وَقَدْ هَدَانِ وَلَا أَخَافُ مَا
+> تُشْرِكُونَ بِهِ..
 
 ***My Lord Allah has guided me and I fear not the false gods you set
 beside him (Qur’an 6: 80)***
@@ -491,43 +415,27 @@ among his people. When he enters one of their gatherings he proceeds to
 oppose them because of his inner sight, insight and natural purity,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا هَـٰذِهِ التَّمَاثِيلُ الَّتِي أَنتُمْ لَهَا عَاكِفُونَ 
-  </p>
-</blockquote>
+> مَا هَـٰذِهِ التَّمَاثِيلُ الَّتِي أَنتُمْ لَهَا عَاكِفُونَ
 
 ***‘What are these images you bow and prostrate yourselves before?’
 (Holy Quran, 21:52)***
 
 They replied:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا وَجَدْنَا آبَاءَنَا لَهَا عَابِدِينَ 
-  </p>
-</blockquote>
+> قَالُوا وَجَدْنَا آبَاءَنَا لَهَا عَابِدِينَ
 
 ***.."We found our fathers worshippers of them."(Holy Quran, 21:53)***
 
 Abraham says in answer to them:
 
-<blockquote dir="rtl">
-  <p>
- كُنتُمْ أَنتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+>  كُنتُمْ أَنتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُّبِينٍ
 
 ***‘You and your fathers were surely in error’*** ***(Holy Quran,
 21:54)***
 
 They then said:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَجِئْتَنَا بِالْحَقِّ أَمْ أَنتَ مِنَ اللَّاعِبِينَ
-  </p>
-</blockquote>
+> قَالُوا أَجِئْتَنَا بِالْحَقِّ أَمْ أَنتَ مِنَ اللَّاعِبِينَ
 
 ***‘Are you joking or are you speaking to us seriously?’*** ***(Holy
 Quran, 21:55)***
@@ -541,13 +449,9 @@ The people of the cave, brave worshippers of god in ancient times also
 have the same to say. They rose up against the rebellious person of
 their time and spoke of The Lord of the heavens and earth.
 
-<blockquote dir="rtl">
-  <p>
-وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا فَقَالُوا رَبُّنَا رَبُّ
-السَّمَاوَاتِ وَالْأَرْضِ لَن نَّدْعُوَ مِن دُونِهِ إِلَـٰهًا  لَّقَدْ
-قُلْنَا إِذًا شَطَطًا 
-  </p>
-</blockquote>
+> وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا فَقَالُوا رَبُّنَا رَبُّ
+> السَّمَاوَاتِ وَالْأَرْضِ لَن نَّدْعُوَ مِن دُونِهِ إِلَـٰهًا  لَّقَدْ
+> قُلْنَا إِذًا شَطَطًا
 
 ***And We made firm their hearts when they stood up and said, "Our Lord
 is the Lord of the heavens and the earth. Never will we invoke besides
@@ -580,12 +484,8 @@ from your neck» Edy threw the cross away and left the Prophet. During
 their second meeting Edy heard that the Prophet had revealed a Quranic
 verse:
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِّن دُونِ
-اللَّـهِ 
-  </p>
-</blockquote>
+> اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِّن دُونِ
+> اللَّـهِ
 
 ***“The Jews and Christians have taken their religious leaders as lord
 instead of Allah”. “(Qur’an 9: 31)***
@@ -643,27 +543,15 @@ Islamic community, and will comprehend the fact to be mentioned that the
 Holy Prophet (S) and Hazrat Mahdi (a.s.) had one aim and means for
 accomplishing it.
 
-<blockquote dir="rtl">
-  <p>
-إِن شاءَ الله
-  </p>
-</blockquote>
+> إِن شاءَ الله
 
 The Holy Prophet of Islam Muhammad (S) said:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلَّى الله عليه و آله: سيأتي زمانٌ على أُمَّتي لا يبقى
-من القرآن الا رسمه ولا من الاسلام الا اسمه، يُسَمَّونَ به و هم ابعد
-الناس عنه.
-  </p>
-</blockquote>
+> قال رسول الله صلَّى الله عليه و آله: سيأتي زمانٌ على أُمَّتي لا يبقى
+> من القرآن الا رسمه ولا من الاسلام الا اسمه، يُسَمَّونَ به و هم ابعد
+> الناس عنه.
 
 “There will arrive a time for my nation when of the Quran only its lore,
 meaning its writing or written word, and of Islam only its name will
@@ -706,12 +594,8 @@ Creator.
 
 We read in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ اللَّـهُ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ اللَّـهُ
 
 ***“If you should ask them; who created the Heavens and the Earth? They
 would certainly answer: Allah!” (Quran 31: 25)***
@@ -743,15 +627,11 @@ They follow the way to their perfection in this way never straying from
 it in the least because straying from the way that creation has
 ascertained for them is equal to their destruction:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكُمُ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
-النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
-مُسَخَّرَاتٍ بِأَمْرِهِ  أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ  تَبَارَكَ
-اللَّـهُ رَبُّ الْعَالَمِينَ 
-  </p>
-</blockquote>
+> إِنَّ رَبَّكُمُ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
+> النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
+> مُسَخَّرَاتٍ بِأَمْرِهِ  أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ  تَبَارَكَ
+> اللَّـهُ رَبُّ الْعَالَمِينَ
 
 ***“Lo! your lord is Allah who created the heavens and the earth in six
 days, then mounted He the throne. He covereth the night with the day,
@@ -763,11 +643,7 @@ This verse begins with the words “your Lord” and after giving examples
 of his lordship such as the earths rotation and the appearance of day
 and night, he is praised with the attribute “Lord of the Worlds”
 
-<blockquote dir="rtl">
-  <p>
- وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُّسَمًّى
-  </p>
-</blockquote>
+>  وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُّسَمًّى
 
 ***“He constraineth the sun and moon to give service, each running on
 for an appointed term.....” (Holy Qura, 31:29)***
@@ -783,13 +659,9 @@ of guidance.
 
 In the Holy Quran we find an example of animal life as thus:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
-بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ ﴿٦٨﴾ ثُمَّ كُلِي مِن
-كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا
-  </p>
-</blockquote>
+> وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
+> بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ ﴿٦٨﴾ ثُمَّ كُلِي مِن
+> كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا
 
 ***“And thy lord inspired the bee, saying: Choose thou habitations in
 the hills and in the trees and in that which they thatch. Then eat of
@@ -815,13 +687,9 @@ name for all of Gods Divine Laws is “Islam”.
 
 We discussed this before and we saw that according to Quranic logic
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ
-أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا
-بَيْنَهُمْ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ
+> أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا
+> بَيْنَهُمْ
 
 ***“Lo! religion with Allah (is) al-Islam (The Surrender to his will and
 guidance) Those who*** ***(formerly) received the scripture differed
@@ -886,29 +754,17 @@ meaning as their divine message. We also know that the first and
 foremost duty of all Prophets throughout history is the proclamation of
 Gods message.
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ عَلَى الرُّسُلِ إِلَّا الْبَلَاغُ الْمُبِينُ
-  </p>
-</blockquote>
+> فَهَلْ عَلَى الرُّسُلِ إِلَّا الْبَلَاغُ الْمُبِينُ
 
 ***«Are the messengers charged with aught save plain conveyance (of the
 message)? (Quran 16: 35)***
 
-<blockquote dir="rtl">
-  <p>
-فَاعْلَمُوا أَنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
-  </p>
-</blockquote>
+> فَاعْلَمُوا أَنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
 
 ***«.....then know that the duty of Our messenger is only plain
 conveyance (of the message)? (Qur’an 5: 92.)***
 
-<blockquote dir="rtl">
-  <p>
-فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ الْمُبِينُ
-  </p>
-</blockquote>
+> فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ الْمُبِينُ
 
 ***«then, if they turn away, thy duty (O Muhammad) is but plain
 conveyance (of the message)»(Qur’an 16: 82)***
@@ -1088,41 +944,29 @@ divine religions were destroyed:
 
 ### 1) On Concealment
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ
-لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ
-ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا
-يَشْتَرُونَ 
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ
+> لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ
+> ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا
+> يَشْتَرُونَ
 
 ***«And (remember) when Allah laid a charge on those who had received
 the Scripture (He said): You are to expound it to mankind and not to
 hide it. But they flung it behind their backs and bought thereby a
 little gain.» (Qur’an 3: 187)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
-وَالْهُدَىٰ مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي
-الْكِتَابِ  أُولَـٰئِكَ يَلْعَنُهُمُ اللَّـهُ وَيَلْعَنُهُمُ
-اللَّاعِنُونَ 
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
+> وَالْهُدَىٰ مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي
+> الْكِتَابِ  أُولَـٰئِكَ يَلْعَنُهُمُ اللَّـهُ وَيَلْعَنُهُمُ
+> اللَّاعِنُونَ
 
 ***«Those who hide the proofs and the guidance which We revealed, after
 We had made it clear in the Scripture: such are accursed of Allah and
 accursed of those who have the power to curse» (Qur’an 2: 159)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللَّـهُ مِنَ الْكِتَابِ
-وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُولَـٰئِكَ مَا يَأْكُلُونَ فِي
-بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللَّـهُ يَوْمَ
-الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللَّـهُ مِنَ الْكِتَابِ
+> وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُولَـٰئِكَ مَا يَأْكُلُونَ فِي
+> بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللَّـهُ يَوْمَ
+> الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***«o! those who hide aught of the scripture which Allah hath revealed,
 and purchase a small gain therewith, they eat into their bellies nothing
@@ -1132,57 +976,37 @@ Quran:*** ***2:174)***
 
 ### 2) On mixing the truth with falsities
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ
-وَتَكْتُمُونَ الْحَقَّ 
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ
+> وَتَكْتُمُونَ الْحَقَّ
 
 ***«O people of the scripture! Why confound ye truth with falsehood and
 knowingly conceal the truth»*** ***(Holy Quran*** ***3:71)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ 
-  </p>
-</blockquote>
+> وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ
 
 ***«Confound not truth with falsehood, nor knowingly conceal the
 truth»*** ***(Holy Quran 2*** ***:42)***
 
 ### 3) Alteration
 
-<blockquote dir="rtl">
-  <p>
- أَفَتَطْمَعُونَ أَن يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ
-يَسْمَعُونَ كَلَامَ اللَّـهِ ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا
-عَقَلُوهُ وَهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+>  أَفَتَطْمَعُونَ أَن يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ
+> يَسْمَعُونَ كَلَامَ اللَّـهِ ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا
+> عَقَلُوهُ وَهُمْ يَعْلَمُونَ
 
 ***«Have you any hope that they will be true to you when a party of them
 used to listen to the word of Allah, then used to change it, after they
 had understood it, knowingly?» ” (Qur’an 2: 75)***
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الَّذِينَ هَادُوا  سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ
-آخَرِينَ لَمْ يَأْتُوكَ يُحَرِّفُونَ الْكَلِمَ مِن بَعْدِ مَوَاضِعِهِ
-  </p>
-</blockquote>
+> وَمِنَ الَّذِينَ هَادُوا  سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ
+> آخَرِينَ لَمْ يَأْتُوكَ يُحَرِّفُونَ الْكَلِمَ مِن بَعْدِ مَوَاضِعِهِ
 
 ***«....and of the Jews: listeners for the sake of falsehood, listeners
 on behalf of other folk who come not unto thee, changing words from
 their context....» (Qur’an 5: 41)***
 
-<blockquote dir="rtl">
-  <p>
-مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
-وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ
-وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ
-  </p>
-</blockquote>
+> مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
+> وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ
+> وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ
 
 ***«Some of those who are Jews change words from their context and say:
 “We hear and disobey; hear thou as one who heareth not” and “listen to
@@ -1297,16 +1121,12 @@ The Chapter of Bara'ah in the Holy Quran, was revealed as a strong
 command to end the mixing of Muslim and Pagan. In these verses God
 explicitly informs the pagans that:
 
-<blockquote dir="rtl">
-  <p>
-بَرَاءَةٌ مِّنَ اللَّـهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِّنَ
-الْمُشْرِكِينَ ﴿١﴾فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ
-وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّـهِ وَأَنَّ اللَّـهَ
-مُخْزِي الْكَافِرِينَ ﴿٢﴾ وَأَذَانٌ مِّنَ اللَّـهِ وَرَسُولِهِ إِلَى
-النَّاسِ يَوْمَ الْحَجِّ الْأَكْبَرِ أَنَّ اللَّـهَ بَرِيءٌ مِّنَ
-الْمُشْرِكِينَ  وَرَسُولُهُ 
-  </p>
-</blockquote>
+> بَرَاءَةٌ مِّنَ اللَّـهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِّنَ
+> الْمُشْرِكِينَ ﴿١﴾فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ
+> وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّـهِ وَأَنَّ اللَّـهَ
+> مُخْزِي الْكَافِرِينَ ﴿٢﴾ وَأَذَانٌ مِّنَ اللَّـهِ وَرَسُولِهِ إِلَى
+> النَّاسِ يَوْمَ الْحَجِّ الْأَكْبَرِ أَنَّ اللَّـهَ بَرِيءٌ مِّنَ
+> الْمُشْرِكِينَ  وَرَسُولُهُ
 
 ***“(This is a declaration of) immunity by Allah and his Apostle towards
 those the idolaters with whom you made an agreement. So go about in the
@@ -1479,12 +1299,8 @@ by a man of my family” [^17]
 Who are those of the Prophets family? They are those included in and
 covered by this noble verse:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّمَا يُرِيدُ اللَّـهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا 
-  </p>
-</blockquote>
+>  إِنَّمَا يُرِيدُ اللَّـهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Allah's wish is but to remove uncleanness far from you O' folk of
 the Household, and cleanse you with a thorough cleansing”. '(Qur’an 33:
@@ -1855,11 +1671,7 @@ We know that divine order in mans life is called Islam and this was not
 the particular name for only the religious creed of the Final Prophet
 (S). In the Quran we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِندَ اللّهِ الإِسْلاَمُ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِندَ اللّهِ الإِسْلاَمُ
 
 ***“Gods religion is Islam" (Holy Quran: 3: 19)***
 
@@ -2026,44 +1838,28 @@ and means for the alteration, change and destruction for divine
 religious creed. Now as an introduction to our next discussion we will
 briefly repeat it:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ
-لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ
-ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا  فَبِئْسَ مَا
-يَشْتَرُونَ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ
+> لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ
+> ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا  فَبِئْسَ مَا
+> يَشْتَرُونَ
 
 ***“And (remember) when Allah laid a charge on those who had received
 the Scripture (he said): Ye are to expound it to mankind and not to hide
 it. But they flung it behind their backs and bought thereby a little
 gain.” ((Qur’an 3: 187)***
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ
-فَنَسُوا حَظًّا مِّمَّا ذُكِّرُوا بِهِ
-  </p>
-</blockquote>
+> وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ
+> فَنَسُوا حَظًّا مِّمَّا ذُكِّرُوا بِهِ
 
 ***“And with those who say: “Lo! We are Christians, We made a covenant,
 but they forgot that whereof they were admonished.” (Qur’an 5: 14)***
 
-<blockquote dir="rtl">
-  <p>
-مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ 
-  </p>
-</blockquote>
+> مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
 
 ***“Some of the Jews change words from their context”. (Qur’an 4: 46)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ
-وَتَكْتُمُونَ الْحَقَّ وَأَنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ
+> وَتَكْتُمُونَ الْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
 ***“O People of the Scripture! Why confound ye truth with falsehood and
 knowingly conceal the truth ”. (Qur’an 3: 71)***
@@ -2189,35 +1985,23 @@ all of these subjects in our following discussion.
 
 80) With regard to the Holy Prophets identity we read in the Holy Quran
 
-<blockquote dir="rtl">
-  <p>
-مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ
-اللَّـهِ وَخَاتَمَ النَّبِيِّينَ
-  </p>
-</blockquote>
+> مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ
+> اللَّـهِ وَخَاتَمَ النَّبِيِّينَ
 
 ***“Muhammad is not the father of any man among you, but he is the
 Messenger of Allah and the Seal of the Prophets....” (Qur’an 33:40)***
 
 Also regarding His book
 
-<blockquote dir="rtl">
-  <p>
- وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ
-  </p>
-</blockquote>
+>  وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ
 
 ***“And We reveal the Scripture unto thee as an exposition of all
 things”. (Qur’an 16: 89)***
 
 Also
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا  لَّا مُبَدِّلَ
-لِكَلِمَاتِهِ  وَهُوَ السَّمِيعُ الْعَلِيمُ 
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا  لَّا مُبَدِّلَ
+> لِكَلِمَاتِهِ  وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 ***“Perfected is the Word of thy Lord in truth and Justice. There is
 naught that can change His words. He is the Hearer, and Knower”. (Qur’an
@@ -2225,14 +2009,10 @@ naught that can change His words. He is the Hearer, and Knower”. (Qur’an
 
 And
 
-<blockquote dir="rtl">
-  <p>
-لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ
-خَلْفِهِ ۖتَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ . لَّا يَأْتِيهِ الْبَاطِلُ
-مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنزِيلٌ مِّنْ حَكِيمٍ
-حَمِيدٍ 
-  </p>
-</blockquote>
+> لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ
+> خَلْفِهِ ۖتَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ . لَّا يَأْتِيهِ الْبَاطِلُ
+> مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنزِيلٌ مِّنْ حَكِيمٍ
+> حَمِيدٍ
 
 ***“… It is an unassailable Scripture. Falsehood cannot come at it from
 before it or behind it”. (Qur’an 41:41-42)***
@@ -2400,5 +2180,4 @@ a'mal” 11/123.
 
 [^46]: Proof of this statement is the undertaking of future
 discussion-If God will.
-
 

@@ -43,4 +43,3 @@ not a beauty which is created by cosmetics."
 
 "You are right", his future bride agreed.
 
-

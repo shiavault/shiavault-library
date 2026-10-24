@@ -31,11 +31,7 @@ which they earmark as their own. This clear and indisputable principle
 is ownership; something that no human doubts. This is what the
 possessive “lām” [ل] means in Arabic in word groups such as:
 
-<blockquote dir="rtl">
-  <p>
-هذا لي، هذا لك؛ لي ان افعل کذا؛ لك ان تفعل کذا.
-  </p>
-</blockquote>
+> هذا لي، هذا لك؛ لي ان افعل کذا؛ لك ان تفعل کذا.
 
 Confirmation of this obvious principle is the conflict seen among
 animals. They fight with their enemies to protect their nests or lairs
@@ -278,14 +274,10 @@ themselves even though they work. This is why the Holy Qur’an adamantly
 opposes usury, attacking the basis of this oppressive exchange and
 considering it war against God.
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللّهَ وَذَرُوا مَا بَقِيَ
-مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينَ \* فَإِنْ لَمْ تَفْعَلُوا
-فَأْذَنُوا بِحَرْبٍ مِنَ اللّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ
-رُؤُوسُ أَمْوَالِكُمْ لاَ تَظْلِمُونَ وَلاَ تُظْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللّهَ وَذَرُوا مَا بَقِيَ
+> مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينَ \* فَإِنْ لَمْ تَفْعَلُوا
+> فَأْذَنُوا بِحَرْبٍ مِنَ اللّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ
+> رُؤُوسُ أَمْوَالِكُمْ لاَ تَظْلِمُونَ وَلاَ تُظْلَمُونَ ﴾
 
 ***“O believers! Fear Allah and give up the extra money gained through
 usury if you are indeed believers. If you do not do this, know that you
@@ -316,5 +308,4 @@ individuals elevate their identity by having these possessions.
 
 [^2]: Sūrat al-Baqarah 2:278-279. Journal, “Maktab-e Anbiyā’”, issues 1
 and 2.
-
 

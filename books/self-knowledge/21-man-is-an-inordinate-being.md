@@ -16,4 +16,3 @@ man to pay the money back. When he paid it back, his money was no longer
 blessed. He became poor again and started to attend the mosque regularly
 and say his prayers behind the Prophet (S).
 
-

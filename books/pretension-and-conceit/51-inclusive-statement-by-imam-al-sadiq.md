@@ -29,4 +29,3 @@ favor manifestly and innately.
 These pages have been written by the one who is in need of the mercy of
 Allāh: Sayyid Ahmed al-Fahri.
 
-

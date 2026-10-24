@@ -258,13 +258,9 @@ else.”
 Ayesha and Hafasa are the wives of the Prophet for whom Surah Tahrim was
 revealed and they are addressed by Almighty Allah as follows:
 
-<blockquote dir="rtl">
-  <p>
-«إِن تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن
-تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلاَهُ وَجِبْرِيلُ
-وَصَالِحُ الْمُؤْمِنِينَ وَالْمَلائِكَةُ بَعْدَ ذَلِكَ ظَهِيرٌ.»
-  </p>
-</blockquote>
+> «إِن تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن
+> تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلاَهُ وَجِبْرِيلُ
+> وَصَالِحُ الْمُؤْمِنِينَ وَالْمَلائِكَةُ بَعْدَ ذَلِكَ ظَهِيرٌ.»
 
 ***If you both turn to Allah, then indeed your hearts are already
 inclined (to this); and if you back up each other against him, then
@@ -747,5 +743,4 @@ Pg. 427
 [^13]: Tarikh Tabari, Vol. 2 Pg. 289
 
 [^14]: Sahih Muslim, Vol. 1, Pg. 42
-
 

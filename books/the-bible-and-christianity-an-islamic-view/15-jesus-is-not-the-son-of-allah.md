@@ -473,4 +473,3 @@ reformists. It covers such aspects on politics as freedom of expression,
 party-political pluralism and organisation, social justice, peace and
 non-violence, human rights, consultation system of government, etc.
 
-

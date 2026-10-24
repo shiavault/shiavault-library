@@ -5,12 +5,10 @@ The Holy Qur’an has depicted adeptly the tragedy that inflicted the
 Islamic Ummah because of the absence of Prophet Muhammad (s.a.w.a.), yet
 no one else can depict such a vision. Listen to the Holy Qur’an.
 
-<p dir="rtl">
 وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ
 أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلٰى أَعْقَابِكُمْ وَمَنْ
 يَنْقَلِبْ عَلٰى عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئًا وَسَيَجْزِي
 اللَّهُ الشَّاكِرِيْنَ.
-</p>
 
 ***And Muhammad is no more than an apostle; the apostles have already
 passed away before him; if then he dies or is killed will you turn back
@@ -400,10 +398,8 @@ Lady Zaynab (a.s.), too, had the same feelings towards Umar to whom she
 referred in a statement included by her historical speech addressed to
 Yazid in his palace:
 
-<p dir="rtl">
 وَ سَيَعْلَمُ مَنْ سَوَّلَ لَكَ وَ مَكَّنَكَ مِنْ رِقَابِ
 الْمُسْلِمِيْنَ...
-</p>
 
 *“The one who seduced you and gave you the power due to which you are
 ruling over the Muslims shall certainly know...”*
@@ -773,9 +769,7 @@ strokes him with the sword so heavily that the Imam’s forehead was cleft
 and the sword reached his brain. As soon as the Imam felt the stroke, he
 raised his voice with the statement:
 
-<p dir="rtl">
 فُزْتُ وَ رَبِّ الْكَعْبَةِ.
-</p>
 
 *“By the Lord of the Kaabah, I have won.”*
 
@@ -806,7 +800,6 @@ true or not.
 
 The Imam (a.s.) said:
 
-<p dir="rtl">
 الْحَدِيثُ كَمَا حَدَّثَتْكَ أُمُّ أَيْمَنَ وَ كَأَنِّي بِكِ وَ
 بِنِسَاءِ أَهْلِكِ سَبَايَا بِهٰذَا الْبَلَدِ أَذِلَّاءَ خَاشِعِيْنَ
 تَخافُوْنَ أَنْ يُتَخَبَّطَكُمُ النَّاسُ فَصَبْرًاصَبْرًا فَوَ الَّذِي
@@ -823,13 +816,10 @@ The Imam (a.s.) said:
 حَمْلِهِمْ عَلٰى عَدَاوَتِهِمْ وَ إِغْرَائِهِمْ بِهِمْ وَ
 بِأَوْلِيَائِهِمْ حَتّٰى تَسْتَحْكِمَ ضَلَالَةُ الْخَلْقِ وَ كُفْرُهُمْ
 وَ لَايَنْجُوَ مِنْهُمْ نَاجٍ.
-</p>
 
-<p dir="rtl">
 وَ لَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ وَ هُوَ كَذُوْبٌ اَنَّهٗ لَا
 يَنْفَعُ مَعَ عَدَاوَتِكُمْ عَمَلٌ صَالِحٌ وَ لَا يَضُرُّ مَعَ
 مَحَبَّتِكُمْ وَ مُوَالَاتِكُمْ ذَنْبٌ غَيْرُ الْكَبَائِرِ.
-</p>
 
 *Umme Ayman has told the truth. I see coming that you, as well as your
 people’s harem, will be captives in this country. You will be submissive
@@ -938,5 +928,4 @@ responsibility for his father’s funeral ceremonies, and at the last part
 of night, they carried Imam Ali(a.s.)’spure body to the final
 resting-place in al-Najaf. Lady Zaynab (a.s.),[^158] while she was
 shedding tears heavily, participated in that funeral ceremony.
-
 

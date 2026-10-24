@@ -68,4 +68,3 @@ originally was, for example: **رَمَینا.** But, if it is a verb with four
 or more letters, the third root letter will be changed into a *yā'*, for
 example: **اِهتَدَیتُ.**
 
-

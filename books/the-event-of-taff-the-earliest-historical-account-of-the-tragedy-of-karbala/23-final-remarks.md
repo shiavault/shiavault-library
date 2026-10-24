@@ -12,4 +12,3 @@ not find in it.
 
 All praise is due to Allah, Lord of the Worlds.
 
-

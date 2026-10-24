@@ -207,4 +207,3 @@ Bentham’s Theory of Definition* , London: Kegan Paul
 61- Wittgenstein, Ludwig, 1921,*Tractatus Logico-Philosophicus* , tr. C.
 K. Ogden, London: Routledge, 1922
 
-

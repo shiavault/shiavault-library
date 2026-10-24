@@ -65,4 +65,3 @@ husband, then as far as possible she will try to make the life pleasant
 and wholesome and she will keep away neglecting small things and with
 patience and stability she will end her non-harmonious way of life.
 
-

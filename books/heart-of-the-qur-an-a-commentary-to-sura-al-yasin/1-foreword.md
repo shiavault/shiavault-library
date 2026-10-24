@@ -473,4 +473,3 @@ published in book form.
 
 [^1]: Chapter 36 of the Holy Quran.
 
-

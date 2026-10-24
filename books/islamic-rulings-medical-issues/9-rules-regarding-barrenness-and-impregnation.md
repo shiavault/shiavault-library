@@ -112,4 +112,3 @@ Is it possible for them to marry each other?
 Answer: It is difficult to say that they would be brother and sister, in
 this case precaution must be adhered to.
 
-

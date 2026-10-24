@@ -192,7 +192,6 @@ superiority for an Arab over a non-Arab, nor for a non-Arab over an
 Arab, nor for a white man over a black, nor for a black over a white,
 except by piety. All of you are from Adam and Adam was from the dust.”
 
-
 9 Mutahhari, M., Anecdotes of Pious Men, p. 8.
 
 **(C) PROMOTION OF EQUALITY & BROTHERHOOD**
@@ -322,5 +321,4 @@ even eaten with people who in America would have been considered
 ‘white’—but the ‘white’ attitude was removed from their minds by the
 religion of Islam. I have never before seen sincere and true brotherhood
 practiced by all colors together, irrespective of their color.”10
-
 

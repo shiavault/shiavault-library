@@ -1,22 +1,18 @@
 Thirteenth Hadith: Trust In God (Tawakkul)
 ==========================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلَى الشَّيْخِ الجَلِيلِ ثِقَةِ الإسْلامِ
-مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ
-بْنِ مُحَمَّدِ بْنِ خَالِدٍ، عَنْ غَيْرِ وَاحِدٍ، عَنْ عَلِيِّ بْنِ
-أَسْبَاطٍ، عَنْ أَحْمَدَ بْنِ عُمَرَ الحَلالِ، عَنْ عَلِيِّ بْنِ
-سُوَيْدٍ، عَنْ أَبِي الحَسَنِ الأَوَّلِ عَلَيْهِ السَّلامُ قَالَ:
-سَأَلْتُهُ عَنْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿وَمَنْ يَتَوَكَّلْ عَلَى
-اللهِ فَهُوَ حَسْبُهُ.﴾ فَقَالَ: التَّوَكُّلُ عَلَى اللهِ دَرَجَاتٌ؛
-مِنْهَا أَنْ تَتَوَكَّلَ عَلَى اللهِ فِي أُمُورِكَ كُلِّهَا، فَمَا
-فَعَلَ بِكَ كُنْتَ عَنْهُ رَاضِياً، تَعْلَمُ أَنَّهُ لا يَأْلُوكَ
-خَيْراً وَفَضْلاً وَتَعْلَمُ أَنَّ الحُكْمَ فِي ذَلِكَ لَهُ،
-فَتَوَكَّلْ عَلَى اللهِ بِتَفْوِيضِ ذَلِكَ إلَيْهِ وَثِقْ بِهِ فِيهَا
-وَفِي غَيْرِهَا.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلَى الشَّيْخِ الجَلِيلِ ثِقَةِ الإسْلامِ
+> مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ
+> بْنِ مُحَمَّدِ بْنِ خَالِدٍ، عَنْ غَيْرِ وَاحِدٍ، عَنْ عَلِيِّ بْنِ
+> أَسْبَاطٍ، عَنْ أَحْمَدَ بْنِ عُمَرَ الحَلالِ، عَنْ عَلِيِّ بْنِ
+> سُوَيْدٍ، عَنْ أَبِي الحَسَنِ الأَوَّلِ عَلَيْهِ السَّلامُ قَالَ:
+> سَأَلْتُهُ عَنْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿وَمَنْ يَتَوَكَّلْ عَلَى
+> اللهِ فَهُوَ حَسْبُهُ.﴾ فَقَالَ: التَّوَكُّلُ عَلَى اللهِ دَرَجَاتٌ؛
+> مِنْهَا أَنْ تَتَوَكَّلَ عَلَى اللهِ فِي أُمُورِكَ كُلِّهَا، فَمَا
+> فَعَلَ بِكَ كُنْتَ عَنْهُ رَاضِياً، تَعْلَمُ أَنَّهُ لا يَأْلُوكَ
+> خَيْراً وَفَضْلاً وَتَعْلَمُ أَنَّ الحُكْمَ فِي ذَلِكَ لَهُ،
+> فَتَوَكَّلْ عَلَى اللهِ بِتَفْوِيضِ ذَلِكَ إلَيْهِ وَثِقْ بِهِ فِيهَا
+> وَفِي غَيْرِهَا.
 
 Muhammad ibn Ya’qub (al-Kulayni): from a group of our teachers, from
 Ahmad ibn Muhammad ibn Khalid, from more than one transmitter, from ‘Ali
@@ -61,24 +57,16 @@ Know, that closely related meanings have been ascribed to *tawakkul* by
 the various definitions proposed by different schools, each according to
 its own approach. The author of *Manazil al-sai’rin* says:
 
-<blockquote dir="rtl">
-  <p>
-التَّوَكُّلُ كِلَةُ الأَمْرِ كُلِّهِ إلَى مَالِكِهِ وَالتَّعْوِيلُ
-عَلَى وَكَالَتِهِ.
-  </p>
-</blockquote>
+> التَّوَكُّلُ كِلَةُ الأَمْرِ كُلِّهِ إلَى مَالِكِهِ وَالتَّعْوِيلُ
+> عَلَى وَكَالَتِهِ.
 
 Tawakkul means entrusting all the matters to their Master and relying
 upon His trusteeship.[^2]
 
 Some *urafa* have said:
 
-<blockquote dir="rtl">
-  <p>
-التَّوَكُّلُ طَرْحُ البَدَنِ فِي العُبُودِيَّةِ وَتَعَلُّقُ القَلْبِ
-بِالرُّبُوبِيَّةِ.
-  </p>
-</blockquote>
+> التَّوَكُّلُ طَرْحُ البَدَنِ فِي العُبُودِيَّةِ وَتَعَلُّقُ القَلْبِ
+> بِالرُّبُوبِيَّةِ.
 
 Tawakkul means throwing the body down (as in prostration) in servitude
 (to God) and attaching the heart to (His) Lordship.
@@ -87,12 +75,8 @@ That is, it means using one’s bodily powers in obedience to God and
 refraining from interfering in the matters (of the heart) and consigning
 it to the Lord. Some others have said:
 
-<blockquote dir="rtl">
-  <p>
-التَّوَكُّلُ عَلَى اللهِ انْقِطَاعُ العَبْدِ فِي جَمِيعِ مَا
-يَأْمُلُهُ مِنَ المَخْلُوقِينَ.
-  </p>
-</blockquote>
+> التَّوَكُّلُ عَلَى اللهِ انْقِطَاعُ العَبْدِ فِي جَمِيعِ مَا
+> يَأْمُلُهُ مِنَ المَخْلُوقِينَ.
 
 Tawakkul upon God means the severance by the servant of all hopes and
 expectations from the creatures (and attaching, them to God).
@@ -276,12 +260,8 @@ Know that *tafwid* is also different from *tawakkul,* and so also
 considered a different station on the wayfarer’s path. The Khwajah
 says:[^3]
 
-<blockquote dir="rtl">
-  <p>
-التَّفْوِيضُ أَلْطَفُ إشَارَةً وَأَوْسَعُ مَعْنىً مِنَ التَّوَكُّلِ.
-التَّوَكُّلُ شُعْبَةٌ مِنْهُ.
-  </p>
-</blockquote>
+> التَّفْوِيضُ أَلْطَفُ إشَارَةً وَأَوْسَعُ مَعْنىً مِنَ التَّوَكُّلِ.
+> التَّوَكُّلُ شُعْبَةٌ مِنْهُ.
 
 That is, *tafwid* is subtler and more refined than *tawakkul,* for
 *tawfid,* means that the devotee should see no power and capacity in
@@ -298,13 +278,9 @@ upon God. An example of it is the *tawakkul* of the Apostle (S) and his
 Companions in regard to security from the evil of the idolaters, at the
 time when they were told:
 
-<blockquote dir="rtl">
-  <p>
-﴿الَّذِينَ قَالَ لَهُمْ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ
-فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ
-وَنِعْمَ الْوَكِيلُ.﴾
-  </p>
-</blockquote>
+> ﴿الَّذِينَ قَالَ لَهُمْ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ
+> فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ
+> وَنِعْمَ الْوَكِيلُ.﴾
 
 ***Those unto whom men said, ‘Lo! the people have gathered against you,
 therefore fear them’. But it increased them in faith and they said, ‘God
@@ -313,12 +289,8 @@ is sufficient for us and an excellent trustee is He’ (3:173)***
 *Tafwid,* however, is mostly antecedent to its referent cause, as
 indicated by the supplication narrated from the Apostle of God (S):
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إنِّي أَسْلَمْتُ نَفْسِي إلَيْكَ وأَلْجَأْتُ ظَهْرِي
-إلَيْكَ وَفَوَّضْتُ أَمْرِي إلَيْكَ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إنِّي أَسْلَمْتُ نَفْسِي إلَيْكَ وأَلْجَأْتُ ظَهْرِي
+> إلَيْكَ وَفَوَّضْتُ أَمْرِي إلَيْكَ.
 
 My God, I surrender my self to Thee; I seek refuge with Thee, and I hand
 over my matter to Thee.
@@ -339,11 +311,7 @@ as subsequent.
 
 As to the words of the holy tradition,
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَكَّلْ عَلَى اللهِ بِتَفْوِيضِ ذَلِكَ إلَيْهِ.
-  </p>
-</blockquote>
+> فَتَوَكَّلْ عَلَى اللهِ بِتَفْوِيضِ ذَلِكَ إلَيْهِ.
 
 Possibly, since *tawakkul* is accompanied by viewing oneself as being in
 charge of one’s affairs - because in *tawakkul* one makes God one’s
@@ -359,12 +327,8 @@ has also pointed out this while discussing the third degree of
 And as to *thiqah* (reliance), it is different from *tawakkul* and
 *tafwid,* as the Khwajah says:
 
-<blockquote dir="rtl">
-  <p>
-الثِّقَةُ سَوَادُ عَيْنِ التَّوَكلُِّ وَنُقْطَةُ دَائِرَةِ
-التَّفْوِيضِ وَسُوَيْدَاءُ قَلْبِ التَّسْلِيمِ.
-  </p>
-</blockquote>
+> الثِّقَةُ سَوَادُ عَيْنِ التَّوَكلُِّ وَنُقْطَةُ دَائِرَةِ
+> التَّفْوِيضِ وَسُوَيْدَاءُ قَلْبِ التَّسْلِيمِ.
 
 Thiqah is the eye of tawakkul, the (moving) point of the circle of
 tafwid, and the inmost heart of taslim (surrender).[^4]
@@ -375,11 +339,7 @@ cannot attain them without *thiqah.* This allows us to understand the
 Imam’s allusion to it, after the mention of *tawakkul* and *tafwid,*
 when he says:
 
-<blockquote dir="rtl">
-  <p>
-ثِقْ فِيهَا وَفِي غَيْرِهَا.
-  </p>
-</blockquote>
+> ثِقْ فِيهَا وَفِي غَيْرِهَا.
 
 [^1]: Usul al-Kafi (Akhundi), ii, 391, hadith 3.
 
@@ -388,5 +348,4 @@ when he says:
 [^3]: Khwajah ‘Abd Allah al-’Ansari, Manazil al-sa’irin.
 
 [^4]: Khwajah ‘Abd Allah al-’Ansari, Manazil al-sa’irin.
-
 

@@ -56,4 +56,3 @@ and endless and their sufferers are not given any respite, because they
 are from of Your anger and vengeance and discontent and These cannot be
 withstood by the heavens and the earth.
 
-

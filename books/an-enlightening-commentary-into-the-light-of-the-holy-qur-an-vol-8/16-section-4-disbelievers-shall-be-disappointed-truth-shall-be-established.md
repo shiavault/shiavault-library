@@ -4,16 +4,12 @@ Section 4: Disbelievers Shall Be Disappointed – Truth Shall Be Established
 Surah ‘Ibrahim – Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ
-وَعْدَ الْحَقّ‌ِ وَوَعَدتُّكُمْ فَاَخْلَفْتُكُمْ وَمَا كَانَ لِيَ
-عَلَيْكُم مِن سُلْطَانٍ إِلآَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي
-فَلاَ تَلُومُونِي وَلُومُوا أَنفُسَكُم مَّآ أَنَاْ بِمُصْرِخِكُمْ
-وَمَآ أَنتُم بِمُصْرِخِيَّ إِنّـِي كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن
-قَبْلُ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ
+> وَعْدَ الْحَقّ‌ِ وَوَعَدتُّكُمْ فَاَخْلَفْتُكُمْ وَمَا كَانَ لِيَ
+> عَلَيْكُم مِن سُلْطَانٍ إِلآَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي
+> فَلاَ تَلُومُونِي وَلُومُوا أَنفُسَكُم مَّآ أَنَاْ بِمُصْرِخِكُمْ
+> وَمَآ أَنتُم بِمُصْرِخِيَّ إِنّـِي كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن
+> قَبْلُ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 ***22. “And Satan says, when the affair is decided: ‘Verily Allah
 promised you the promise of truth; I also promised you but I failed to
@@ -70,13 +66,9 @@ reality.
 Surah ‘Ibrahim – Verse 23
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاُدْخِلَ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ
-تَجْرِي مِن تَحْتِها الاَنْهَارُ خَالِدِينَ فِيهَا بِإِذْنِ رَبّـِهِمْ
-تَحِيَّتُهُمْ فِيهَا سَلاَمٌ
-  </p>
-</blockquote>
+> وَاُدْخِلَ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ
+> تَجْرِي مِن تَحْتِها الاَنْهَارُ خَالِدِينَ فِيهَا بِإِذْنِ رَبّـِهِمْ
+> تَحِيَّتُهُمْ فِيهَا سَلاَمٌ
 
 ***23. “And those who believed and did righteous deeds will be admitted
 to Gardens beneath which rivers flow, wherein shall they abide for ever
@@ -152,12 +144,8 @@ are never involved in quarrelling nor in estrangement and ill terms.
 Surah ‘Ibrahim – Verse 24
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طَيّـِبَةً
-كَشَجَرَةٍ طَيّـِبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَآءِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طَيّـِبَةً
+> كَشَجَرَةٍ طَيّـِبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَآءِ
 
 ***24. “Have you not seen how Allah sets forth a parable? A good word is
 like a good tree, the roots of which are fixed and its branches are in
@@ -232,12 +220,8 @@ has taken a way unto his Lord.”* [^13]
 Surah ‘Ibrahim – Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-تُؤْتِي اُكُلَهَا كُلَّ حِينٍ بإِذْنِ رَبّـِهَا وَيَضْرِبُ اللَّهُ
-الأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> تُؤْتِي اُكُلَهَا كُلَّ حِينٍ بإِذْنِ رَبّـِهَا وَيَضْرِبُ اللَّهُ
+> الأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 ***25. “(The good tree) yields its fruits at all times by the permission
 of its Lord, and Allah sets forth parables for the people that they may
@@ -300,12 +284,8 @@ world…”***
 Surah ‘Ibrahim – Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِن فَوْقِ
-الأَرْضِ مَالَهَا مِن قَرَارٍ
-  </p>
-</blockquote>
+> وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِن فَوْقِ
+> الأَرْضِ مَالَهَا مِن قَرَارٍ
 
 ***26. “And the parable of an evil word is like an evil tree rooted upon
 the surface of the earth; it has naught of stability.”***
@@ -343,13 +323,9 @@ regard to /šajaratin xabiah/ (the evil tree) is the Umayyads. [^21]
 Surah ‘Ibrahim – Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُثَبّـِتُ اللَّهُ الَّذِينَ ءَامَنُوا بِالْقَوْلِ الثَّابِتِ فِي
-الْحَيَاةِ الدُّنْيَا وَفِي الأَخِرَةِ وَيُضِلُّ اللَّهُ الظَّالِمِينَ
-وَيَفْعَلُ اللَّهُ مَا يَشَآءُ
-  </p>
-</blockquote>
+> يُثَبّـِتُ اللَّهُ الَّذِينَ ءَامَنُوا بِالْقَوْلِ الثَّابِتِ فِي
+> الْحَيَاةِ الدُّنْيَا وَفِي الأَخِرَةِ وَيُضِلُّ اللَّهُ الظَّالِمِينَ
+> وَيَفْعَلُ اللَّهُ مَا يَشَآءُ
 
 ***27. “Allah confirms those who believe by a firm saying in the life of
 the world and in the Hereafter, and Allah leaves the unjust to stray;
@@ -477,5 +453,4 @@ a’ir-ul-‘Uqb a, p. 16
 [^20]: Surah Al-Taubah, No. 9, verse 52
 
 [^21]: Tafsir Majma‘-ul-Bayan
-
 

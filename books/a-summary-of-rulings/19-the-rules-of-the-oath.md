@@ -44,4 +44,3 @@ great difficulty in (performing it), his oath will be invalidated from
 the time when the new situation overtakes him (meaning the inability
 befalls him or the difficulty).
 
-

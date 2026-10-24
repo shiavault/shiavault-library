@@ -41,4 +41,3 @@ plural *wāw* or *yā'* feminine pronoun; for example: **اِسمَعَا اسم
 • *Fath*; if it is connected to a *nūn* of emphasis; for example:
 **اِسمَعَنّ** (listen!)
 
-

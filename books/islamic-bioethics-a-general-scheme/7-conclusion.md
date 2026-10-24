@@ -30,4 +30,3 @@ hasten the death of one's self or the patient. Therefore, suicide and
 euthanasia are condemned since they demonstrate lack of respect for
 human life.
 
-

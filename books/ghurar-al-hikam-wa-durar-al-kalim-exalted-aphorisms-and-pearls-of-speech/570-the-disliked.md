@@ -7,10 +7,5 @@ The Disliked
 action which one loves [but] whose outcome is dispraised.
 
 > 1ـ مَكْرُوهٌ تُحْمَدُ عاقِبَتُهُ، خَيْرٌ مِنْ مَحْبُوب تُذَمُّ
-<blockquote dir="rtl">
-  <p>
-مَغَبَّتُهُ.
-  </p>
-</blockquote>
-
+> مَغَبَّتُهُ.
 

@@ -75,7 +75,6 @@ Karbala:-
 
 "Kaf" - stands for "Karbala";
 
-
 "Ha" - is for "Halakat" (Anihilation of the Holy Family);
 
 "Ya" - stands for "Yazid";
@@ -182,7 +181,6 @@ muslim converts from the misguided zeal of some muslims.
 
 **Q 37: AUTHENTIC SHI'A TRANSLATION OF QUR'AN**
 
-
 Even though the Holy Qur'an is in Original form without any change, the
 commentators have difference of opinion in certain places. Many people
 have written the translation of the Holy Book with commentaries. Many
@@ -286,5 +284,4 @@ are some details.)
 9. The liquor (Liquid intoxicant.)
 
 10. The beer.
-
 

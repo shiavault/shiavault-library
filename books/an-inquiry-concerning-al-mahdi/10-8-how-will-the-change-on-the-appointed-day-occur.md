@@ -35,4 +35,3 @@ Exalted, that cannot reach a decisive solution of the end of its course,
 so that its fire will burn leaving nothing in its path and the light
 will then appear to establish Divine Justice on earth.
 
-

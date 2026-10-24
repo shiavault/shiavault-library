@@ -184,4 +184,3 @@ uncovering Islamic legislative tendency and its accurate solution to the
 social and cultural matters and its concern to man’s, as well as the
 environmental issues.
 
-

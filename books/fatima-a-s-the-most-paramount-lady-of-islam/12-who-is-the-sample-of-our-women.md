@@ -13,4 +13,3 @@ upon her) as sample, a Muslim woman tries to make her thought as Fatima
 last, her speech according to Allah’s will. And this is achieved under
 the protection of man’s want, practice and faith.
 
-

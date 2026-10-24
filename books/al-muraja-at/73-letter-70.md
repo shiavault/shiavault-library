@@ -349,4 +349,3 @@ his outstanding debts and clear his conscience, and clarify to people
 what they differ regarding their faith after him... etc., as referred to
 at the beginning of this Letter.
 
-

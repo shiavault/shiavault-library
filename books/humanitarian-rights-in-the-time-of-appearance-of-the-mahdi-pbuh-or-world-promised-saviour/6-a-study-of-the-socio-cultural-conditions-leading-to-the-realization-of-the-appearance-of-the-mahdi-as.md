@@ -32,7 +32,6 @@ This paper will end with Ahadith from the Aimmah (AS) on what believers
 should do in the absence of the Imam (AS) while awaiting his (AS)
 appearance.
 
-
 **Historical progression of mankind and the belief of Islam**
 
 The way we have progressed as human beings from time immemorial may
@@ -266,5 +265,4 @@ the oppressions of the rulers. This is another condition that will
 prevail for those who are consciously awaiting the appearance of the
 12th Imam (AS). They (believers) will suffer oppression and will be
 victims of tyranny before the appearance of the 12th Imam (AS).
-
 

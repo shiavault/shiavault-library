@@ -281,4 +281,3 @@ when the latter became caliph. According to Muruj al-Thahab, ‘Umar Ibn
 ‘Abd al-’Aziz wrote Abu Hazim al-Madani al-A’raj saying, “Admonish me,
 and be brief,” so he wrote him back stating the above.
 
-

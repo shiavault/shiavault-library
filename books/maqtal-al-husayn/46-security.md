@@ -93,4 +93,3 @@ al-Wara by al-Tabarsi.
 [^5]: From a poem by the authority Ayatullah Shaikh Muhammad Husayn
 al-Isfahani, may Allah sanctify his soul.
 
-

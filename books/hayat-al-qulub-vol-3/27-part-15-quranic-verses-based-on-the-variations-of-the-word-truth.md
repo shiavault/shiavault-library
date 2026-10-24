@@ -7,12 +7,8 @@ There are many verses in this regard:
 
 First Verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ
-الصَّادِقِينَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ
+> الصَّادِقِينَ.
 
 ***O you who believe! be careful of (your duty to) Allah and be with the
 true ones. (Surah Tawbah 9:119)***
@@ -50,13 +46,9 @@ Ali Ibne Ibrahim has said that ‘Sadaqeen’ are the Holy Imams.[^1]
 
 Second Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعْ اللَّهَ وَالرَّسُولَ فَأُوْلَئِكَ مَعَ الَّذِينَ
-أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنْ النَّبِيِّينَ وَالصِّدِّيقِينَ
-وَالشُّهَدَاءِ وَالصَّالِحِينَ وَحَسُنَ أُوْلَئِكَ رَفِيقًا.
-  </p>
-</blockquote>
+> وَمَنْ يُطِعْ اللَّهَ وَالرَّسُولَ فَأُوْلَئِكَ مَعَ الَّذِينَ
+> أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنْ النَّبِيِّينَ وَالصِّدِّيقِينَ
+> وَالشُّهَدَاءِ وَالصَّالِحِينَ وَحَسُنَ أُوْلَئِكَ رَفِيقًا.
 
 ***And whoever obeys Allah and the Apostle, these are with those upon
 whom Allah has bestowed favors from among the prophets and the truthful
@@ -89,11 +81,7 @@ Hasan and Husain (a.s.) and then is the Mahdi of this Ummat, and Allah
 will make anyone He wishes the Mahdi from our Ahlul Bayt. And then he
 recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ.
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ.
 
 ***These are they on whom Allah bestowed favors…(Surah Maryam 19:58)***
 
@@ -163,13 +151,9 @@ Adam.
 
 Third Verse:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ
-فَمِنْهُمْ مَنْ قَضَى نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ وَمَا
-بَدَّلُوا تَبْدِيلًا.
-  </p>
-</blockquote>
+> مِنْ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ
+> فَمِنْهُمْ مَنْ قَضَى نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ وَمَا
+> بَدَّلُوا تَبْدِيلًا.
 
 ***Of the believers are men who are true to the covenant which they made
 with Allah: so of them is he who accomplished his vow, and of them is he
@@ -236,13 +220,9 @@ another used to bid farewell, the Imam used to recite this very verse.
 
 Fourth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُوْلَئِكَ هُمْ
-الصِّدِّيقُونَ وَالشُّهَدَاءُ عِنْدَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ
-وَنُورُهُمْ.
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُوْلَئِكَ هُمْ
+> الصِّدِّيقُونَ وَالشُّهَدَاءُ عِنْدَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ
+> وَنُورُهُمْ.
 
 ***And (as for) those who believe in Allah and His apostles, these it is
 that are the truthful and the faithful ones in the sight of their Lord:
@@ -313,13 +293,9 @@ would be very few.
 
 Fifth Verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ
-إِذْ جَاءَهُ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ. وَالَّذِي
-جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ أُوْلَئِكَ هُمْ الْمُتَّقُونَ.
-  </p>
-</blockquote>
+> فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ
+> إِذْ جَاءَهُ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ. وَالَّذِي
+> جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ أُوْلَئِكَ هُمْ الْمُتَّقُونَ.
 
 ***Who is then more unjust than he who utters a lie against Allah and
 (he who) gives the lie to the truth when it comes to him; is there not
@@ -353,12 +329,8 @@ Ibne Abi Talib (a.s.).
 
 Sixth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَبَشِّرْ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ
-رَبِّهِمْ.
-  </p>
-</blockquote>
+> وَبَشِّرْ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ
+> رَبِّهِمْ.
 
 ***…and give good news to those who believe that theirs is a high rank
 with their Lord. (Surah Yunus 10:2)***
@@ -384,5 +356,4 @@ period, so it is necessary that in all times and ages there should be an
 Infallible Imam (a.s.) that the believers of this age should be able to
 follow. In Kitabe Ahwaal Amirul Momineen we will explain this in more
 detail, Insha-Allah.
-
 

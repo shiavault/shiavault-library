@@ -83,4 +83,3 @@ understand about the world, about its atmosphere and about its life: why
 there is tranquillity, why there is war; how many different species make
 up a harmonious planet and what causes disaster and destruction.
 
-

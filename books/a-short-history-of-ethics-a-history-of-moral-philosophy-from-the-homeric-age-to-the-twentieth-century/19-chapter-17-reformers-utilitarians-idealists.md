@@ -1580,4 +1580,3 @@ shows us that this is not true and that moral concepts themselves have a
 history. To understand this is to be liberated from any false absolutist
 claims.
 
-

@@ -104,7 +104,6 @@ interests and expedients, and He is also aware of the intentions of the
 testators; yet, in the meantime, He is Forbearing and does not punish
 promptly those who treat against His command.
 
-
 **Commentary : Verse 13**
 
 (13) تِلْكَ حُدُودُ اللّهِ وَمَن يُطِعِ اللّهَ وَرَسُولَهُ يُدْخِلْهُ
@@ -134,5 +133,4 @@ gardens beneath which rivers flow, to abide therein forever; ..."
 And, at the end of the verse, it adds:
 
 "... and this is the great success."
-
 

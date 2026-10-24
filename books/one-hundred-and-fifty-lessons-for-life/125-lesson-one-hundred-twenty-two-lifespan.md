@@ -3,12 +3,8 @@ Lesson One Hundred Twenty Two: Lifespan
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَوْتُ الاْنْسانِ بالذُّنُوبِ أَكْثَرُ مِنْ مَوتِهِ بِالأَجَلِ وَ
-حَياتُهُ بِالْبِرِّ أَكْثَرُ مِنْ حَيَاتِهِ بِالْعُمْرِ
-  </p>
-</blockquote>
+> مَوْتُ الاْنْسانِ بالذُّنُوبِ أَكْثَرُ مِنْ مَوتِهِ بِالأَجَلِ وَ
+> حَياتُهُ بِالْبِرِّ أَكْثَرُ مِنْ حَيَاتِهِ بِالْعُمْرِ
 
 Translation
 -----------
@@ -33,5 +29,4 @@ effective in shortening man’s life, whereas righteousness prolongs life
 in addition to generating other benefits and spiritual rewards.
 
 [^1]: Safinat’ul-Bihar, page 489
-
 

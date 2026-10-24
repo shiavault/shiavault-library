@@ -120,4 +120,3 @@ and confirmed He will not accept it. He says,
 beg forgiveness for them, Allah will never forgive them. (Qur’an
 63:6)***
 
-

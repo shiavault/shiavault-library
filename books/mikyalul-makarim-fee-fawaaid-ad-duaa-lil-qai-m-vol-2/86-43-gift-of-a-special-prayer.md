@@ -154,13 +154,9 @@ them; just as the Almighty Allah is needless of these things. Thus in
 your intention whenever you begin these acts it should be that the
 Almighty Allah guides you in success and security:
 
-<blockquote dir="rtl">
-  <p>
-يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُلْ لَا تَمُنُّوا عَلَيَّ
-إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ
-لِلْإِيمَانِ 
-  </p>
-</blockquote>
+> يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُلْ لَا تَمُنُّوا عَلَيَّ
+> إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ
+> لِلْإِيمَانِ
 
 ***They think that they lay you under an obligation by becoming Muslims.
 Say: Lay me not under obligation by your Islam: rather Allah lays you
@@ -216,5 +212,4 @@ that they accept your service to them.[^2]
 [^1]: Jamaal al-Usboo, Pg. 15
 
 [^2]: Jamaal al-Usboo, Pg. 20
-
 

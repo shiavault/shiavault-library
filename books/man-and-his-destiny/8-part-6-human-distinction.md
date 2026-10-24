@@ -38,4 +38,3 @@ be in accordance with a divinely ordained destiny, and the course which
 it does not take will also be in accordance with a divinely ordained
 destiny.
 
-

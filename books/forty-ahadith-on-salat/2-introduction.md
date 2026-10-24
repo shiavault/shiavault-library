@@ -69,11 +69,7 @@ said:
 prayers, and they shall be placed in *‘Wayl’.*  *‘Wayl’* is the name of
 one of the bottom-most levels of hell.  Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-فَوَيلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلاَتِهِمْ سَاهُونَ
-  </p>
-</blockquote>
+> فَوَيلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلاَتِهِمْ سَاهُونَ
 
 ***“So woe to the praying ones, who are unmindful of their
 prayers.**”*[^3]
@@ -82,12 +78,8 @@ prayers.**”*[^3]
 *‘Ghayy’* is the abode for the people of this group.  *‘Ghayy’* is the
 name of another of the bottom-most levels of hell.  Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلاةَ وَ اتَّبَعُوا
-الشَّهَوَاتِ فَسَوْفَ يُلْقَونَ غَيًّا
-  </p>
-</blockquote>
+> فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلاةَ وَ اتَّبَعُوا
+> الشَّهَوَاتِ فَسَوْفَ يُلْقَونَ غَيًّا
 
 ***“But there came after them an evil generation, who neglected prayers
 and followed the sensual desires, so they will meet perdition.**”* [^4]
@@ -97,11 +89,7 @@ for them is *‘Saqar’*, which is also the name of another of the low
 levels of hell and about which Allah has said:    
                         
 
-<blockquote dir="rtl">
-  <p>
-مَا سَلَكَكُمْ فِي سَقَرَ قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
-  </p>
-</blockquote>
+> مَا سَلَكَكُمْ فِي سَقَرَ قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
 
 ***“(The inmates of paradise shall ask the inmates of hell) What has
 brought you into hell? *** ***They shall say: We were not of those who
@@ -109,11 +97,7 @@ prayed.”*** [^5]
  4. The fourth group consists of those, who offer their prayers
 regularly and are humble in them.  Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفلَحَ الْمُؤمِنُونَ الَّذِينَ هُمْ فِي صَلاَتِهِمْ خَاشِعُونَ
-  </p>
-</blockquote>
+> قَدْ أَفلَحَ الْمُؤمِنُونَ الَّذِينَ هُمْ فِي صَلاَتِهِمْ خَاشِعُونَ
 
 ***“Successful indeed are the believers, Who are humble in their
 prayers.**”* [^6] and [^7]  
@@ -139,5 +123,4 @@ mentioned the verses related to each group.
 [^6]: Noble Qur’an, Suratul Mu’minun, Verses 1 & 2
 
 [^7]: Al-Mawaidhul \`Adadiyyah, Chapter 4, Page 122.
-
 

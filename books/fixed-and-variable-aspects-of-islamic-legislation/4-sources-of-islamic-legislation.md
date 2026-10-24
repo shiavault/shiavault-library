@@ -191,7 +191,6 @@ role in overall human existence. The law in its capacity as the source
 of order in human life contributes immensely in man's progress or
 backwardness according to the nature of the law and its world view.
 
-
 **Law, Ijtihad and Human Evolution**
 
 Among the most widespread terms in human existence is "The Law". All
@@ -519,5 +518,4 @@ Glorious states:
 
 "Say: (O Our Apsotle Muhammad) Come you! I will recite (unto) you what
 your Lord has forbidden to you…" Holy Qur'an (An'am 6: 151)
-
 

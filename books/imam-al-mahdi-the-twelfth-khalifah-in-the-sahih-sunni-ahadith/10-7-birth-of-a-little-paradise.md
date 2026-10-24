@@ -13,14 +13,10 @@ are *existent* but unusual today, incidences of oppression, aggression
 and injustice will also occur at his time, though very rarely. Imam Abu
 Dawud (d. 275 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا سهل بن تمام بن بزيع ثنا عمران القطان عن قتادة عن أبي نضرة عن أبي
-سعيد الخدري قال قال رسول الله صلى الله عليه و سلم " المهدي مني أجلى
-الجبهة أقنى الأنف يملأ الأرض قسطا وعدلا كما ملئت جورا وظلما ويملك سبع
-سنين "
-  </p>
-</blockquote>
+> حدثنا سهل بن تمام بن بزيع ثنا عمران القطان عن قتادة عن أبي نضرة عن أبي
+> سعيد الخدري قال قال رسول الله صلى الله عليه و سلم " المهدي مني أجلى
+> الجبهة أقنى الأنف يملأ الأرض قسطا وعدلا كما ملئت جورا وظلما ويملك سبع
+> سنين "
 
 Sahl b. Tammam b. Buzay’ – ‘Imran al-Qaṭṭan – Qatadah – Abu Nadhrah –
 Abu Sa’id al-Khudri:
@@ -32,24 +28,16 @@ injustice**, and he will rule by kingdom for seven years.”[^1]
 
 Al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^2]
 
 Imam Ahmad (d. 241 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا محمد بن جعفر ثنا عوف عن أبي الصديق الناجي
-عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه و سلم لا تقوم
-الساعة حتى تمتلئ الأرض ظلما وعدوانا قال ثم يخرج رجل من عترتي أو من أهل
-بيتي يملؤها قسطا وعدلا كما ملئت ظلما وعدوانا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا محمد بن جعفر ثنا عوف عن أبي الصديق الناجي
+> عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه و سلم لا تقوم
+> الساعة حتى تمتلئ الأرض ظلما وعدوانا قال ثم يخرج رجل من عترتي أو من أهل
+> بيتي يملؤها قسطا وعدلا كما ملئت ظلما وعدوانا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Muhammad b. Ja’far
 – ‘Awf – Abu al-Siddiq al-Naji – Abu Sa’id al-Khudri:
@@ -62,11 +50,7 @@ injustice and aggression**.”[^3]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^4]
 
@@ -82,14 +66,10 @@ completely end poverty in our planet. Literally every single human being
 on the earth will become very rich and wealthy. Imam Muslim (d. 261 H)
 records how this will occur:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا زهير بن حرب وعلي بن حجر (واللفظ لزهير) قالا حدثنا إسماعيل بن
-إبراهيم عن الجريري عن أبي نضرة قال كنا عند جابر بن عبدالله فقال… قال
-رسول الله صلى الله عليه و سلم يكون في آخر أمتي خليفة يحثي المال حثيا
-لا يعده عددا
-  </p>
-</blockquote>
+> حدثنا زهير بن حرب وعلي بن حجر (واللفظ لزهير) قالا حدثنا إسماعيل بن
+> إبراهيم عن الجريري عن أبي نضرة قال كنا عند جابر بن عبدالله فقال… قال
+> رسول الله صلى الله عليه و سلم يكون في آخر أمتي خليفة يحثي المال حثيا
+> لا يعده عددا
 
 Zuhayr b. Harb and ‘Ali b. Hajar – Isma’il b. Ibrahim – al-Jariri – Abu
 Nadhrah:
@@ -101,14 +81,10 @@ counting it**.”[^5]
 
 This *khalifah* is named in this *hadith* of Imam al-Hakim (d. 403 H):
 
-<blockquote dir="rtl">
-  <p>
-أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
-النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
-الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
-أمتي المهدي
-  </p>
-</blockquote>
+> أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
+> النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
+> الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
+> أمتي المهدي
 
 Abu al-‘Abbas Muhammad b. Ahmad al-Mahbubi – Sa’id b. Mas’ud – al-Nadhr
 b. Shumayl – Sulayman b. ‘Ubayd – Abu al-Siddiq al-Naji – Abu Sa’id
@@ -119,34 +95,22 @@ out at the END of my** ***Ummah*****.**.[^6]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^7]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^8]
 
 He will be Imam al-Mahdi, and he will distribute wealth to his subjects
 without measure. Muslim again records:
 
-<blockquote dir="rtl">
-  <p>
-وحدثني زهير بن حرب حدثنا عبدالصمد بن عبدالوارث حدثنا أبي حدثنا داود عن
-أبي نضرة عن أبي سعيد وجابر بن عبدالله قالا قال رسول الله صلى الله عليه
-و سلم يكون في آخر الزمان خليفة يقسم المال ولا يعده
-  </p>
-</blockquote>
+> وحدثني زهير بن حرب حدثنا عبدالصمد بن عبدالوارث حدثنا أبي حدثنا داود عن
+> أبي نضرة عن أبي سعيد وجابر بن عبدالله قالا قال رسول الله صلى الله عليه
+> و سلم يكون في آخر الزمان خليفة يقسم المال ولا يعده
 
 Zuhayr b. Harb – ‘Abd al-Samad b. ‘Abd al-Warith – my father – Dawud –
 Abu Nadhrah – Abu Sa’id and Jabir b. ‘Abd Allah:
@@ -158,33 +122,21 @@ count it**.”[^9]
 ‘Allamah al-Albani (d. 1420 H) too has copied this *hadith* of the
 Prophet, *sallallahu ‘alaihi wa alihi*:
 
-<blockquote dir="rtl">
-  <p>
-من خلفائكم خليفة يحثو المال حثيا لا يعده عدا
-  </p>
-</blockquote>
+> من خلفائكم خليفة يحثو المال حثيا لا يعده عدا
 
 Among your *khulafa* will be a *khalifah* **who will distribute wealth
 without ever counting it**.[^10]
 
 He then comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^11]
 
 In the footnote to the report, al-Albani further says:
 
-<blockquote dir="rtl">
-  <p>
-وهو المهدي المبشر بخروجه بين يدي نزول عيسى عليه الصلاة والسلام، ويصلي
-عيسى عليه الصلاة والسلام خلفه.
-  </p>
-</blockquote>
+> وهو المهدي المبشر بخروجه بين يدي نزول عيسى عليه الصلاة والسلام، ويصلي
+> عيسى عليه الصلاة والسلام خلفه.
 
 **He is the Mahdi**, whose advent is promised to occur before the
 descent of ‘Isa, *‘alaihi al-salat wa al-salam*, **and ‘Isa,**
@@ -195,15 +147,11 @@ the earth will be transformed into the promised land for mankind, which
 flows with milk and honey. Imam al-Hakim records about some other
 benefits of the Mahdi’s rule for humanity:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
-النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
-الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
-أمتي المهدي يسقيه الله الغيث وتخرج الأرض نباتها ويعطى المال صحاحا
-وتكثر الماشية وتعظم الأمة يعيش سبعا أو ثمانيا يعني حججا
-  </p>
-</blockquote>
+> أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
+> النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
+> الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
+> أمتي المهدي يسقيه الله الغيث وتخرج الأرض نباتها ويعطى المال صحاحا
+> وتكثر الماشية وتعظم الأمة يعيش سبعا أو ثمانيا يعني حججا
 
 Abu al-‘Abbas Muhammad b. Ahmad al-Mahbubi – Sa’id b. Mas’ud – al-Nadhr
 b. Shumayl – Sulayman b. ‘Ubayd – Abu al-Siddiq al-Naji – Abu Sa’id
@@ -217,56 +165,36 @@ great**. He will witness seven or eight *Hajjs*.[^13]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^14]
 
 Imam al-Dhahabi agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^15]
 
 ‘Allamah al-Albani also says about the *hadith* in his *Sahihah*:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا سند صحيح
-  </p>
-</blockquote>
+> قلت: وهذا سند صحيح
 
 I say: This chain is *sahih*[^16]
 
 Dr. al-Bastawi has the same verdict on it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^17]
 
 Imam Ibn Abi Shaybah (d. 235 H) too has this report:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن نمير قال حدثنا موسى الجهني قال حدثني عمر بن قيس الماصر
-قال: حدثني مجاهد قال: حدثني فلان رجل من أصحاب النبي: أن المهدي لا يخرج
-حتى تقتل النفس الزكية، فإذا قتلت النفس الزكية، غضب عليهم من في السماء
-ومن في الأرض، فأتى الناس المهدي، فزفوه كما تزف العروس إلى زوجها ليلة
-عرسها، وهو يملأ الأرض قسطا وعدلا وتخرج الأرض نباتها وتمطر السماء
-مطرها، وتنعم أمتي في ولايته نعمة لم تنعمها قط.
-  </p>
-</blockquote>
+> عبد الله بن نمير قال حدثنا موسى الجهني قال حدثني عمر بن قيس الماصر
+> قال: حدثني مجاهد قال: حدثني فلان رجل من أصحاب النبي: أن المهدي لا يخرج
+> حتى تقتل النفس الزكية، فإذا قتلت النفس الزكية، غضب عليهم من في السماء
+> ومن في الأرض، فأتى الناس المهدي، فزفوه كما تزف العروس إلى زوجها ليلة
+> عرسها، وهو يملأ الأرض قسطا وعدلا وتخرج الأرض نباتها وتمطر السماء
+> مطرها، وتنعم أمتي في ولايته نعمة لم تنعمها قط.
 
 ‘Abd Allah b. Numayr – Musa al-Juhani – ‘Umar b. Qays al-Masir –
 Mujahid:
@@ -284,12 +212,8 @@ never enjoined before**.”[^18]
 
 Dr. al-Bastawi says about this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح. رجاله كلهم ثقات.ومجاهد لم يصرح هنا باسم الصحابي، ولكنه
-سمع من جماعة من الصحابة رضي الله عنهم.
-  </p>
-</blockquote>
+> إسناده صحيح. رجاله كلهم ثقات.ومجاهد لم يصرح هنا باسم الصحابي، ولكنه
+> سمع من جماعة من الصحابة رضي الله عنهم.
 
 **Its chain is** ***sahih***. Its narrators are trustworthy. Mujahid has
 not explicitly stated the name of the Sahabi. However, he did hear from
@@ -366,5 +290,4 @@ Prof. Sa’id al-Laham], vol. 8, p. 679, \# 199
 fi Dhaw-i al-Ahadith wa al-Athar al-Sahihah wa Aqwal al-‘Ulama wa Ara
 al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), p.
 214, \# 12
-
 

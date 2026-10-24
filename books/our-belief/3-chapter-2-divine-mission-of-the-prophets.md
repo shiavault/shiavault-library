@@ -332,4 +332,3 @@ Of course it can not be denied, man, for his low culture has often had
 his true religion mixed with superstitions, and the prophets’ main role
 was to remove that and clean the mirror of the hearts.
 
-

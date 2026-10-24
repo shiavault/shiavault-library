@@ -209,4 +209,3 @@ breaking off from one's relatives turn the villages into the wastelands.
 And may Allah bless our master Muhammad and his progeny, with peace and
 salutaions.
 
-

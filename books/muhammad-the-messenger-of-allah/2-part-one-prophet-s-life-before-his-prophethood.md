@@ -301,4 +301,3 @@ tribes of Hushim, Zahrah and Taym agreed forever to be on the side of
 the oppressed. If I were invited now, I would respond affirmatively. It
 was the pact of al-Fudul."(19)
 
-

@@ -41,4 +41,3 @@ standing before going into the state of Ruku'.
 
 5. Two Sajdahs.
 
-

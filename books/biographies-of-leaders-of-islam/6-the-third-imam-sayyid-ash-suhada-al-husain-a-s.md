@@ -597,4 +597,3 @@ self-examination in search of the causes of the tragedy. Sympathizers
 with IMAM HUSAIN (AS) and his family started a whole new era of Islamic
 history and the enlightenment goes on forever.
 
-

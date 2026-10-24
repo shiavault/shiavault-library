@@ -36,4 +36,3 @@ that Umar cannot bear to call him the brother of the Messenger of Allah
 respectability of Ahlul Bayt (a.s.), whatever the intellectuals may
 think.
 
-

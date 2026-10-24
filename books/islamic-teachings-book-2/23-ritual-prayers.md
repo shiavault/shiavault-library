@@ -45,4 +45,3 @@ Questions
 
 3. How many prayers are obligatory for a Muslim during day and night?
 
-

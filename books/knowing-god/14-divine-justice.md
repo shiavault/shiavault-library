@@ -14,13 +14,9 @@ and injustice is negated about Him. For example:
 
 It is said in Quran:
 
-<blockquote dir="rtl">
-  <p>
-شَهِدَ اللَّهُ أَنَّهُ لَآ إِلَهَ إِلَّا هُوَ وَالْمَلَِكَةُ
-وَأُوْلُواْ الْعِلْمِ قَآئِمَاً بِالْقِسْطِ لَآ إِلَهَ إِلَّا هُوَ
-الْعَزِيزُ الْحَكِيمٌ‏
-  </p>
-</blockquote>
+> شَهِدَ اللَّهُ أَنَّهُ لَآ إِلَهَ إِلَّا هُوَ وَالْمَلَِكَةُ
+> وَأُوْلُواْ الْعِلْمِ قَآئِمَاً بِالْقِسْطِ لَآ إِلَهَ إِلَّا هُوَ
+> الْعَزِيزُ الْحَكِيمٌ‏
 
 ***“Allah bears witness that there is no god but He, and (so do) the
 angels and those possessed of knowledge, maintaining His creation with
@@ -28,12 +24,8 @@ justice; there is no god but He, the Mighty, the Wise.” (3:18)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَ تَمَّتْ كَلِمَتُ رَبِّكَ صِدْقاً وَ عَدْلاً لَا مُبَدِّلَ
-لِكَلِمَتِهِ وَ هُوَ الْسَّمِيعُ الْعَلِيمُ‏
-  </p>
-</blockquote>
+> وَ تَمَّتْ كَلِمَتُ رَبِّكَ صِدْقاً وَ عَدْلاً لَا مُبَدِّلَ
+> لِكَلِمَتِهِ وَ هُوَ الْسَّمِيعُ الْعَلِيمُ‏
 
 ***“And the word of your Lord has been accomplished truly and justly;
 there is none who can change His words, and He is the Hearing, the
@@ -41,12 +33,8 @@ Knowing.” (6:115)***
 
 And says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِنْ تَكُ حَسَنَةً
-يُضَعِفْهَا وَيُؤْتِ مِنْ لَّدُنْهُ أَجْراً عَظِيماً
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِنْ تَكُ حَسَنَةً
+> يُضَعِفْهَا وَيُؤْتِ مِنْ لَّدُنْهُ أَجْراً عَظِيماً
 
 ***“Surely Allah does not do injustice to the weight of an atom, and if
 it is a good deed He multiplies it and gives from Himself a great
@@ -82,31 +70,19 @@ equity and He has prohibited injustice and cruelty.
 
 We present three verses by way of example:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَنِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَنِ
 
 ***“Surely Allah enjoins the doing of justice and the doing of good (to
 others)…” (16:90)***
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا الَّذِينَ ءَامَنُوا كُونُوا قَوَّ مِينَ بِالْقِسْطِ
-شُهَدَاءَ لِلَّهِ
-  </p>
-</blockquote>
+> يَأَيُّهَا الَّذِينَ ءَامَنُوا كُونُوا قَوَّ مِينَ بِالْقِسْطِ
+> شُهَدَاءَ لِلَّهِ
 
 ***“O you who believe! be maintainers of justice, bearers of witness of
 Allah’s sake…” (4:135)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ اللَّهَ غَفِلاً عَمَّا يَعْمَلُ الظَّلِمُونَ
-إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَرُ
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ اللَّهَ غَفِلاً عَمَّا يَعْمَلُ الظَّلِمُونَ
+> إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَرُ
 
 ***“And do not think Allah to be heedless of what the unjust do; He only
 respites them to a day on which the eyes shall be fixedly open.”
@@ -172,22 +148,14 @@ has come into being with a particular sequence and is being administered
 in this way. Angels are enforcers of divine commands and they never
 disobey or oppose God.
 
-<blockquote dir="rtl">
-  <p>
-لَّا يَعْصُونَ اللَّهَ مَآ أَمَرَهُمْ وَ يَفْعَلُونَ مَا يُؤْمَرُونَ‏
-  </p>
-</blockquote>
+> لَّا يَعْصُونَ اللَّهَ مَآ أَمَرَهُمْ وَ يَفْعَلُونَ مَا يُؤْمَرُونَ‏
 
 ***“…they do not disobey Allah in what He commands them, and do as they
 are commanded.” (66:6)***
 
 Also:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنَّآ إِلَّا لَهُ مَقَامٌ مَّعْلُومٌ
-  </p>
-</blockquote>
+> وَمَا مِنَّآ إِلَّا لَهُ مَقَامٌ مَّعْلُومٌ
 
 ***“And there is none of us but has an assigned place.” (37:164)***
 
@@ -257,12 +225,8 @@ controls it through the system of cause and effect. The world is having
 discipline and it follows a fixed law; it is administered by the command
 of God. It is mentioned in the Holy Quran that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كُلَّ شَىْ‏ءٍ خَلَقْنَاهُ بِقَدَرٍ /وَمَآ أَمْرُنَآ إِلَّا
-وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
-  </p>
-</blockquote>
+> إِنَّا كُلَّ شَىْ‏ءٍ خَلَقْنَاهُ بِقَدَرٍ /وَمَآ أَمْرُنَآ إِلَّا
+> وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
 
 ***“Surely We have created everything according to a measure. And Our
 command is but one, as the twinkling of an eye.” (54:49-50)***
@@ -387,11 +351,7 @@ existence through His intention and they are administered by the same;
 but not through different intentions; on the contrary through a
 widespread intention. Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَمْرُنَآ إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
-  </p>
-</blockquote>
+> وَمَآ أَمْرُنَآ إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
 
 ***“And Our command is but one, as the twinkling of an eye.” (54:50)***
 
@@ -569,5 +529,4 @@ effectively. Therefore the existence of harmful animals cannot be
 considered as evil and absence of justice in creation.
 
 [^1]: Compilation of Nahjul Balagha, Pg. 131.
-
 

@@ -53,7 +53,6 @@ them. Therefore it follows on from what has been presented before.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 [Of a similar kind is the account reported by al-Hasan b. Mahbub on the
 authority of Thabit al-Thumali, on the authority of Abu Ishaq al-Sabi'i,
 on the authority of Suwayd b. Ghafla, (who said):]
@@ -171,7 +170,6 @@ conveying the same sense are so numerous that their explanation would
 make the book unduly long. What we have presented is sufficient for our
 intention.
 
-
 **His Miraculous Strength at Khaybar
 **
 Among his wonderful signs is the ability by which God set him apart and
@@ -204,10 +202,8 @@ This is an example of the special strength with which God endowed him.
 Through it the normal (human) qualities were transcended and it became a
 miraculous sign as we have said before.
 
-
 **The Miracle of Moving the Rock and the Water under it
 **
-
 
 Another example is reported by the historians (ashab al-siyar) and the
 account of it is widespread among both the non-Shi'a ('amma) and the
@@ -389,7 +385,6 @@ better than the most delicious, the sweetest.
 Then when they had all drunk, he put it back and went away. Its
 position is left alone. It cannot be approached.
 
-
 Ibn Maymun added these words concerning that:
 
 The signs for the monk were a miraculous secret there and he believed
@@ -408,10 +403,8 @@ father from Ham, nor a father of a father.
 He is one who does not flee and in battle only the striking of his
 sword dyed red (with blood) can be seen.
 
-
 **His Miraculous Victory over the Jinn
 **
-
 
 Another example is the tradition which has become well-known about the
 Apostle of God, may God bless him and his family, sending him to the
@@ -593,7 +586,6 @@ signs by which they resemble the classes of the atheists (zanadiqa) and
 unbelievers through their departure from the roads of (true) proofs into
 the gates of deviation and ignorance. In God do we seek help.
 
-
 **His Sending back the Sun
 **
 Among the wonderful signs which God, the Exalted, has brought forth
@@ -675,7 +667,6 @@ Only so that his first (view of it) may be mixed with his later (view
 of it) and so that it being sent back may be an explanation of a
 wondrous matter.
 
-
 **The Miracle of Speaking to the Fish
 **
 Similar to that is (the account) which the historians (ahl al-athar)
@@ -714,10 +705,8 @@ Whoever continues to find fault with ('Ali's miracles) is one who can
 only find the doubts about it in what the denigrators depend upon, in
 what we have enumerated of the miracles of the Apostle.
 
-
 **The Commander of the Faithful and the Jinn
 **
-
 
 The historians (hamalat al-athar wa ruwat al-akhbar) have also reported
 the story of the snake and the sign and miraculous nature of it which is
@@ -776,10 +765,8 @@ they find fault with the signs of the Prophet in confirmation of his
 prophethood, and with the validity of the miracles of the Apostle of
 God, may God bless him and his family.
 
-
 **Some other Miracles of the Commander of the Faithful
 **
-
 
 [Another example is reported by 'Abd al-Qahir b.'Abd al-Malik b.'Ata\`
 al-Ashja'i on the authority of al-Walid b.'Imran al-Bajali, on the
@@ -883,7 +870,6 @@ that the book would become too long as a result of them. We have put
 forward in this book of ours sufficiency in its outline to do without
 what is similar to them. We ask God for success and we seek help from
 Him along the path of guidance.
-
 
 NOTES
 

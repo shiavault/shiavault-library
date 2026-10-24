@@ -301,4 +301,3 @@ sustainable alternatives, the planet’s 1.2 billion Muslims demonstrably
 have cultural resources to draw upon which are both compatible with
 their traditions and hold promise for meeting emerging needs.
 
-

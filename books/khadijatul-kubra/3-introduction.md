@@ -68,4 +68,3 @@ glad to put the "key" in their hands, if they would seek it from her.
 
 May Allah bless Khadija and her family.
 
-

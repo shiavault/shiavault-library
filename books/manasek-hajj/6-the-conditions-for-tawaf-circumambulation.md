@@ -11,7 +11,6 @@ Second: Cleanliness from urine and excretion and if one performs the
 tawaaf despite such uncleanliness, whether deliberately or out of
 ignorance or by oversight, the tawaaf is invalid.
 
-
 Rule 283:
 
 If in the course of the tawaaf, the pilgrim in the state of ihram
@@ -238,5 +237,4 @@ Fifth: As a matter of caution, it is necessary to cover the private
 parts during tawaaf and the clothes have to be lawfully acquired. As a
 matter of caution, all the rules applicable to the clothes worn during
 prayers (salaat) must be observed during tawaaf as well.
-
 

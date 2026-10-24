@@ -1663,4 +1663,3 @@ Musnad Ahmad ibn Hanbal 1:90, 22, 29, 32, 336, 3:346, 6:106, 116 and
 476, Al-Bayhaqiy: Dala’il al-Nubuwwah 7:181 and 283. The statement of
 \`Ā\`ishah is recorded in Sahih al-Bukhariy (Kitab al-Jana’iz) 2:77.
 
-

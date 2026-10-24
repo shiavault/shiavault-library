@@ -1,26 +1,18 @@
 Commentary of:
 ==============
 
-<blockquote dir="rtl">
-  <p>
-يَّا نُورُ يَا قُدُّوسُ يَآ أَوَّلَ الأَوَّلِينَ وَيَآ آخِرَ
-الآخِرِينَ
-  </p>
-</blockquote>
+> يَّا نُورُ يَا قُدُّوسُ يَآ أَوَّلَ الأَوَّلِينَ وَيَآ آخِرَ
+> الآخِرِينَ
 
 *O Light! O All-Holy! O First of the first and Last of the last!*
 
 O the Perfect One! You are the One whose friend and servant, Imam
 Hussain (as) called You in the desert of Arafah on ‘Arafat day:
 
-<blockquote dir="rtl">
-  <p>
-أَيَكُونُ لِغَيْرِكَ مِنَ الظُّهُورِ ما لَيْسَ لَكَ، حَتّى يَكُونَ
-هُوَ الْمُظْهِرَ لَكَ، مَتى غِبْتَ حَتّى تَحْتاجَ إِلى دَليل يَدُلُّ
-عَليْكَ، وَمَتى بَعُدْتَ حَتّى تَكُونَ الاْثارُ هِىَ الَّتى تُوصِلُ
-إِلَيْكَ؟
-  </p>
-</blockquote>
+> أَيَكُونُ لِغَيْرِكَ مِنَ الظُّهُورِ ما لَيْسَ لَكَ، حَتّى يَكُونَ
+> هُوَ الْمُظْهِرَ لَكَ، مَتى غِبْتَ حَتّى تَحْتاجَ إِلى دَليل يَدُلُّ
+> عَليْكَ، وَمَتى بَعُدْتَ حَتّى تَكُونَ الاْثارُ هِىَ الَّتى تُوصِلُ
+> إِلَيْكَ؟
 
 ***Does anything have an existence which You don’t have, so that it
 would give You existence? You have never been hidden to need any reason
@@ -53,5 +45,4 @@ existed before You, and You will exist after “all things” and nothing
 would exist after You.
 
 O First of the first and Last of the last!
-
 

@@ -239,4 +239,3 @@ of his father] was traced back to ‘Ubaydullah, the [Byzantine] Roman.”
 
 [^14]: al-Mufid, Al-Irshad.
 
-

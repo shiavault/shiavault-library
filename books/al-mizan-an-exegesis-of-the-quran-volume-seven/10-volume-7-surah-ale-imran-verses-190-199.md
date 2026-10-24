@@ -217,4 +217,3 @@ the messengers of Allah, hiding what they had made a covenant with Allah
 to make known, and selling Allah's signs and communications for a small
 price.
 
-

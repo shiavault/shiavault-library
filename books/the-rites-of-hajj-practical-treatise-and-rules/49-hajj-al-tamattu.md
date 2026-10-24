@@ -43,4 +43,3 @@ the twelfth days.
 Explanation of each one of these acts will be mentioned in following
 articles.
 
-

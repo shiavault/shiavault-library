@@ -1575,4 +1575,3 @@ fact it was made to propose for Rihab. Mustafa's brother Muhammad had
 asked for her hand, and soon after, both sisters were married to the two
 brothers on the same day.
 
-

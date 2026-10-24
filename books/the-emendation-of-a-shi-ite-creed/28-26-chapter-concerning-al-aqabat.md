@@ -47,4 +47,3 @@ which supports such an allegation, or from which we can derive such an
 interpretation. Then as we have no support in traditions in this
 respect, the sound interpretation is the one put forward above.
 
-

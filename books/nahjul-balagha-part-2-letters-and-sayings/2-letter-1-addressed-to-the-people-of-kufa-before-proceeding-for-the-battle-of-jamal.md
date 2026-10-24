@@ -4,28 +4,16 @@ Letter 1: Addressed to the people of Kufa before proceeding for the Battle of Ja
 *Addressed to the people of Kufah at the time of his march from Medina
 to Basrah.* [^1]
 
-<blockquote dir="rtl">
-  <p>
-من كتاب له (عليه السلام)
-  </p>
-</blockquote>
+> من كتاب له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-إلى أهل الكوفة، عند مسيره من المدينة إلى البصرة
-  </p>
-</blockquote>
+> إلى أهل الكوفة، عند مسيره من المدينة إلى البصرة
 
 From the servant of Allah, \`Ali, the Commander of the faithful, to the
 people of Kufah who are foremost among the supporters and chiefs of the
 Arabs.
 
-<blockquote dir="rtl">
-  <p>
-مِنْ عَبْدِ اللهِ عَلِيّ أَمِيرِالْمُؤْمِنِينَ إلَى أَهْلِ الْكُوفَةِ،
-جَبْهَةِ الاْنْصَارِ وَسَنَامِ الْعَرَبِ.
-  </p>
-</blockquote>
+> مِنْ عَبْدِ اللهِ عَلِيّ أَمِيرِالْمُؤْمِنِينَ إلَى أَهْلِ الْكُوفَةِ،
+> جَبْهَةِ الاْنْصَارِ وَسَنَامِ الْعَرَبِ.
 
 Now, I am apprising you of what befell \`Uthman so (correctly) that its
 hearing may be like its seeing. People criticised him, and I was the
@@ -36,18 +24,14 @@ voice was strong. \`A'ishah too was in a rage with him. Consequently, a
 group overpowered him and killed him. Then, people swore allegiance to
 me, not by force or compulsion but obediently and out of free will.
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا بَعْدُ، فَإِنِّي أُخْبِرُكُمْ عَنْ أَمْرِ عُثْمانَ حَتَّى
-يَكُونَ سَمْعُهُ كَعِيَانِهِ إِنَّ النَّاسَ طَعَنُوا عَلَيْهِ،
-فَكُنْتُ رَجُلاً مِنَ الْمُهَاجِرِينَ أُكْثِرُ اسْتِعْتَابَه،
-وَأُقِلُّ عِتَابَهُ، وَكَانَ طَلْحَةُ وَالزُّبَيْرُ أَهْوَنُ
-سَيْرِهِمَا فِيهِ الْوَجيِفُ، وَأَرْفَقُ حِدَائِهِمَا الْعَنِيفُ،
-وَكَانَ مِنْ عَائِشَةَ فِيهِ فَلْتَةُ غَضَب، فَأُتِيحَ لَهُ قَوْمٌ
-فَقَتَلُوهُ، وَبَايَعَنِي النَّاسُ غَيْرَ مُسْتَكْرَهِينَ وَلاَ
-مُجْبَرِينَ، بَلْ طَائِعِينَ مُخَيَّرِينَ.
-  </p>
-</blockquote>
+> أَمَّا بَعْدُ، فَإِنِّي أُخْبِرُكُمْ عَنْ أَمْرِ عُثْمانَ حَتَّى
+> يَكُونَ سَمْعُهُ كَعِيَانِهِ إِنَّ النَّاسَ طَعَنُوا عَلَيْهِ،
+> فَكُنْتُ رَجُلاً مِنَ الْمُهَاجِرِينَ أُكْثِرُ اسْتِعْتَابَه،
+> وَأُقِلُّ عِتَابَهُ، وَكَانَ طَلْحَةُ وَالزُّبَيْرُ أَهْوَنُ
+> سَيْرِهِمَا فِيهِ الْوَجيِفُ، وَأَرْفَقُ حِدَائِهِمَا الْعَنِيفُ،
+> وَكَانَ مِنْ عَائِشَةَ فِيهِ فَلْتَةُ غَضَب، فَأُتِيحَ لَهُ قَوْمٌ
+> فَقَتَلُوهُ، وَبَايَعَنِي النَّاسُ غَيْرَ مُسْتَكْرَهِينَ وَلاَ
+> مُجْبَرِينَ، بَلْ طَائِعِينَ مُخَيَّرِينَ.
 
 You should know that Medina has been vacated by its residents and they
 have abandoned it. It is boiling like a huge cooking pot and rebellion
@@ -55,14 +39,10 @@ is fixed on its axis moving with full force. So, hasten towards your
 amir (commander) and proceed forward to fight your enemy, if so wills
 Allah to Whom belongs Might and Majesty.
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّ دَارَ الْهِجْرَةِ قَدْ قَلَعَتْ بِأَهْلِهَا
-وَقَلَعُوا بِهَا، وَجَاشَتْ جَيْشَ الْمِرْجَلِ، وَقَامَتِ الْفِتْنَةُ
-عَلَى الْقُطْبِ، فَأَسْرِعُوا إِلَى أَمِيرِكُمْ، وَبَادِرُوا جَهَادَ
-عَدُوِّكُمْ، إِنْ شَاءَ اللهُ عزَّ وَ جَلَّ.
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّ دَارَ الْهِجْرَةِ قَدْ قَلَعَتْ بِأَهْلِهَا
+> وَقَلَعُوا بِهَا، وَجَاشَتْ جَيْشَ الْمِرْجَلِ، وَقَامَتِ الْفِتْنَةُ
+> عَلَى الْقُطْبِ، فَأَسْرِعُوا إِلَى أَمِيرِكُمْ، وَبَادِرُوا جَهَادَ
+> عَدُوِّكُمْ، إِنْ شَاءَ اللهُ عزَّ وَ جَلَّ.
 
 [^1]: Ibn Maythman writes (in Sharh Nahjul Balaghah al-balaghah, vol.4,
 p.338) that when on hearing about the mischief-mongering of Talhah and
@@ -121,5 +101,4 @@ this their combatants and warriors rose in large numbers and enlisted in
 his army. They faced the enemy with full courage which Amir al-mu'minin
 also acknowledged. Thus, the letter hereafter is in acknowledgement of
 this very fact.
-
 

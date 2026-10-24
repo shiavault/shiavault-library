@@ -81,4 +81,3 @@ differentiate between the illuminated path of Ahlul-Bait to which the
 followers of the school of the Imamiya Shi'a firmly adhered and the
 misguidance of the Exaggerators and their strayed beliefs.
 
-

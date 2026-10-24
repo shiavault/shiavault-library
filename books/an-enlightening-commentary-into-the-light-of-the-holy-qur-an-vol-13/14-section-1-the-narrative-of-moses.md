@@ -4,30 +4,14 @@ Section 1: The Narrative of Moses
 Surah Al-Qasas - Verses 1-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-طسم
-  </p>
-</blockquote>
+> طسم
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ ءَايَاتُ الْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> تِلْكَ ءَايَاتُ الْكِتَابِ الْمُبِينِ
 
-<blockquote dir="rtl">
-  <p>
-نَتْلُواْ عَلَيْكَ مِن نَبَإِ مُوسَي وَفِرْعَوْنَ بِالْحَقّ‌ِ لِقَوْمٍ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> نَتْلُواْ عَلَيْكَ مِن نَبَإِ مُوسَي وَفِرْعَوْنَ بِالْحَقّ‌ِ لِقَوْمٍ
+> يُؤْمِنُونَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -133,13 +117,9 @@ difficulties.
 Surah Al-Qasas - Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِرْعَوْنَ عَلاَ فِي الاَرْضِ وَجَعَلَ أَهْلَهَا شِيَعاً
-يَسْتَضْعِفُ طَآئِفَةً مّـِنْهُمْ يُذبّـِحُ أَبْنَآءَهُمْ
-وَيَسْتَحْيِي نِسَآءَهُمْ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> إِنَّ فِرْعَوْنَ عَلاَ فِي الاَرْضِ وَجَعَلَ أَهْلَهَا شِيَعاً
+> يَسْتَضْعِفُ طَآئِفَةً مّـِنْهُمْ يُذبّـِحُ أَبْنَآءَهُمْ
+> وَيَسْتَحْيِي نِسَآءَهُمْ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ
 
 ***4. “Verily Pharaoh exalted himself in the land (of Egypt) and divided
 its people into sections, weakening a group of them, he slaughtered
@@ -318,19 +298,11 @@ will of Allah.
 Surah Al-Qasas - Verses 5-6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَن نَّمُنَّ عَلَي الَّذِينَ اسْتُضْعِفُوا فِي الاَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَن نَّمُنَّ عَلَي الَّذِينَ اسْتُضْعِفُوا فِي الاَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَنُمَكّـِنَ لَهُمْ فِي الاَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ
-وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا يَحْذَرُونَ
-  </p>
-</blockquote>
+> وَنُمَكّـِنَ لَهُمْ فِي الاَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ
+> وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا يَحْذَرُونَ
 
 ***5. “And We have intended to bestow (Our) favour upon those who were
 oppressed in the earth, and to make them leaders (in faith) and make
@@ -708,13 +680,9 @@ of mentioning them.
 Surah Al-Qasas - Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَآ إِلَي اُمّ‌ِ مُوسَي أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
-عَلَيْهِ فَاَلْقِيهِ فِي الْيَمّ‌ِ وَلاَ تَخَافِي وَلاَ تَحْزَنِي
-إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَآ إِلَي اُمّ‌ِ مُوسَي أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
+> عَلَيْهِ فَاَلْقِيهِ فِي الْيَمّ‌ِ وَلاَ تَخَافِي وَلاَ تَحْزَنِي
+> إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ
 
 ***7. “And We inspired unto the mother of Moses, saying: ‘Give him suck,
 then when you fear for him, cast him into the River and do not fear nor
@@ -901,12 +869,8 @@ refer to in the following pages.
 Surah Al-Qasas - Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَالْتَقَطَهُ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوّاً وَحَزَناً
-إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ
-  </p>
-</blockquote>
+> فَالْتَقَطَهُ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوّاً وَحَزَناً
+> إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ
 
 ***8. “Then the people of Pharaoh picked him up (from the River) that he
 might be unto them an enemy and a (cause of their) grief; verily Pharaoh
@@ -967,13 +931,9 @@ that he makes mistake and wastes it.”*
 Surah Al-Qasas - Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ امْرَأَةُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لّـِي وَلَكَ لاَ
-تَقْتُلُوهُ عَسَي أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُ وَلَداً وَهُمْ لاَ
-يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَقَالَتِ امْرَأَةُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لّـِي وَلَكَ لاَ
+> تَقْتُلُوهُ عَسَي أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُ وَلَداً وَهُمْ لاَ
+> يَشْعُرُونَ
 
 ***9. “And Pharaoh’s wife said: ‘(He will be) a joy of the eye for me
 and for you; do not slay him; may be he will profit us, or we may take
@@ -1058,19 +1018,11 @@ this is the providence.
 Surah Al-Qasas - Verses 10-11
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْبَحَ فُؤَادُ اُمّ‌ِ مُوسَي فَارِغاً إِن كَادَتْ لَتُبْدِي بِهِ
-لَوْلآ أَن رَّبَطْنَا عَلَي قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَأَصْبَحَ فُؤَادُ اُمّ‌ِ مُوسَي فَارِغاً إِن كَادَتْ لَتُبْدِي بِهِ
+> لَوْلآ أَن رَّبَطْنَا عَلَي قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتْ لِاُخْتِهِ قُصّـِيهِ فَبَصُرَتْ بِهِ عَن جُنُبٍ وَهُمْ لاَ
-يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَقَالَتْ لِاُخْتِهِ قُصّـِيهِ فَبَصُرَتْ بِهِ عَن جُنُبٍ وَهُمْ لاَ
+> يَشْعُرُونَ
 
 ***10. “And the heart of the mother of Moses became void; she was about
 to disclose it had We not strengthened her heart so that she might be of
@@ -1178,13 +1130,9 @@ claim divinity? How did he want to fight against the Will of Allah?
 Surah Al-Qasas - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ
-أَدُلُّكُمْ عَلَي أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ
-نَاصِحُونَ
-  </p>
-</blockquote>
+> وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ
+> أَدُلُّكُمْ عَلَي أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ
+> نَاصِحُونَ
 
 ***12. “And We already forbade on him all foster mothers ere until (his
 sister came up and) said: ‘Shall I guide you unto the people of a house
@@ -1291,13 +1239,9 @@ could stand against the pollutions and fight against the impious ones.
 Surah Al-Qasas - Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرَدَدْنَاهُ إِلَي اُمّـِهِ كَيْ تَقَرَّ عَيْنُهَا وَلاَ تَحْزَنَ
-وَلِتَعْلَمَ أَنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَرَدَدْنَاهُ إِلَي اُمّـِهِ كَيْ تَقَرَّ عَيْنُهَا وَلاَ تَحْزَنَ
+> وَلِتَعْلَمَ أَنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لاَ
+> يَعْلَمُونَ
 
 ***13. “Thus did We restore him to his mother that her eye might be
 refreshed, and that she might not grieve, and that she might know that
@@ -1421,5 +1365,4 @@ in the commentary of ’Abul-Futuh and Majma‘-ul-Bayan.
 
 [^28]: The Commentary of Ali-Ibn-’Ibrahim, according to
 Nur-uth-Thaqalayn, Vol. 4, P. 117
-
 

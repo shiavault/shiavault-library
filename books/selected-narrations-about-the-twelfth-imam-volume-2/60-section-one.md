@@ -1798,4 +1798,3 @@ compilations.
 al-anwār, vol. 52, chap. 18, pp. 30–31, no. 26; Tabṣirat al-walī, pp.
 74­–76, no. 43, and pp. 269–271, no. 99.
 
-

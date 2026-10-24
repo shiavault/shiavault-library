@@ -293,4 +293,3 @@ Lebanon. Hujjatul-Islam Sayyid Saeed Akhtar Rizvi, founder of the Bilal
 Muslim Mission of Tanzania, has for years been translating this valuable
 exegesis into English.
 
-

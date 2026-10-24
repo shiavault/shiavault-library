@@ -20,11 +20,7 @@ competency and worthiness. Such reckoning is incorrect because first of
 all, just as it was mentioned in the previous chapter, in Sermon No.2,
 ‘Ali (A.S.) very explicitly says about Ahl al-Bayt:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِيهم الوَصِيَّةُ وَ الْوِراثَةُ
-  </p>
-</blockquote>
+> وَ فِيهم الوَصِيَّةُ وَ الْوِراثَةُ
 
 i.e. *the testament and the inheritance of the Holy Prophet (S.A.W.A)
 are concerning them*.
@@ -48,13 +44,9 @@ No.6 that at the beginning of his Caliphate when he became aware of the
 revolt of Ayesha, Talha and Zubair and decided to confront them, he said
 (after mentioning a few points on the current state of affairs) :
 
-<blockquote dir="rtl">
-  <p>
-فَوَاللهِ مَا زِلتُ مَدْفُوعاً عَنْ حَقِّي، مُسْتَأْثَراً عَلَيَّ،
-مُنْذُ قَبَضَ اللهُ تعالى نَبِيَّهُ صلى الله عليه وآله حَتَّى يَوْمِ
-النَّاسِ هذَا
-  </p>
-</blockquote>
+> فَوَاللهِ مَا زِلتُ مَدْفُوعاً عَنْ حَقِّي، مُسْتَأْثَراً عَلَيَّ،
+> مُنْذُ قَبَضَ اللهُ تعالى نَبِيَّهُ صلى الله عليه وآله حَتَّى يَوْمِ
+> النَّاسِ هذَا
 
 *“By Allah, from the day the Prophet passed away until today, I have
 been continually deprived of my right, with others being given
@@ -67,15 +59,11 @@ as follows: ‘­In the presence of some people, a person approached me and
 said: “O son of Abu ­Talib! You are greedy of Caliphate.”  
  I replied:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ أَنْتُمْ وَ اللَّهِ لَأَحْرَصُ وَ أَبْعَدُ وَ أَنَا أَخَصُّ وَ
-أَقْرَبُ وَ إِنَّمَا طَلَبْتُ حَقّاً لِي وَ أَنْتُمْ تَحُولُونَ
-بَيْنِي وَ بَيْنَهُ وَ تَضْرِبُونَ وَجْهِي دُونَهُ فَلَمَّا
-قَرَّعْتُهُ بِالْحُجَّةِ فِي الْمَلَإِ الْحَاضِرِينَ هَبَّ كَأَنَّهُ
-بُهِتَ لَا يَدْرِي مَا يُجِيبُنِي بِهِ
-  </p>
-</blockquote>
+> بَلْ أَنْتُمْ وَ اللَّهِ لَأَحْرَصُ وَ أَبْعَدُ وَ أَنَا أَخَصُّ وَ
+> أَقْرَبُ وَ إِنَّمَا طَلَبْتُ حَقّاً لِي وَ أَنْتُمْ تَحُولُونَ
+> بَيْنِي وَ بَيْنَهُ وَ تَضْرِبُونَ وَجْهِي دُونَهُ فَلَمَّا
+> قَرَّعْتُهُ بِالْحُجَّةِ فِي الْمَلَإِ الْحَاضِرِينَ هَبَّ كَأَنَّهُ
+> بُهِتَ لَا يَدْرِي مَا يُجِيبُنِي بِهِ
 
 *“Rather, you are,* *by Allah, greedier although more remote, while I am
 more suited as well as nearer. I have only demanded it as my right while
@@ -91,12 +79,8 @@ person who objected was Abu ‘Ubaydah and it was on the day of Saqifah.
 
 Following these sentences, it has been mentioned that ‘Ali (A.S) said:
 
-<blockquote dir="rtl">
-  <p>
-اللهم اني استعديك علي قريش و من اعانهم فانهم قطعوا رحمي و صغَّروا عظيم
-منزلتي و اجمعوا على منازعتي امرا هولي
-  </p>
-</blockquote>
+> اللهم اني استعديك علي قريش و من اعانهم فانهم قطعوا رحمي و صغَّروا عظيم
+> منزلتي و اجمعوا على منازعتي امرا هولي
 
 *“O Allah, I seek Thy succor against the Quraysh and those who are
 assisting them because they have denied me (the rights of) kinship, have
@@ -123,11 +107,7 @@ responsibility and clarified the right on behalf of God.
 One of the companions of ‘Ali (A.S.) belonging to the tribe of Bani-Asad
 asked ‘Ali (A.S.) as such:
 
-<blockquote dir="rtl">
-  <p>
-­ » كيف دفعكم قومكم عن هذا المقام و انتم احق به «
-  </p>
-</blockquote>
+> ­ » كيف دفعكم قومكم عن هذا المقام و انتم احق به «
 
 “How is it that your people have deprived you of this station
 (Caliphate) whereas you were most worthy of it?”
@@ -138,11 +118,7 @@ same as what has come down in Sermon No. 160 in Nahj al-Balaghah. ‘Ali
 negligence (of the interests of the people) on the other hand were the
 only factors leading to such a situation.
 
-<blockquote dir="rtl">
-  <p>
-» فانها كانت اثرة شحت عليها نفوس و سخت عنها نفوس آخرين«
-  </p>
-</blockquote>
+> » فانها كانت اثرة شحت عليها نفوس و سخت عنها نفوس آخرين«
 
 *“It (the matter of the Caliphate) was an act of appropriation (of
 something) for which some became greedy and others relinquished”.*
@@ -155,11 +131,7 @@ question has its own appropriate place and time and that it was not
 proper to discuss the past at that moment. He told him that the issue of
 the day was that of Mu’awiya.
 
-<blockquote dir="rtl">
-  <p>
-و هلم الخطب في ابن ابي سفيان...
-  </p>
-</blockquote>
+> و هلم الخطب في ابن ابي سفيان...
 
 “*Come now to the affair of Ibn Abi Sufyan (Mu’awiya)…”.*
 
@@ -167,11 +139,7 @@ Anyhow, just as it was his usual temperate method, he did not refrain
 from answering and clarifying the past realities. In the Sermon of
 Shiqshiqiya, he explicitly says:
 
-<blockquote dir="rtl">
-  <p>
-أرى تراثي نَهباً
-  </p>
-</blockquote>
+> أرى تراثي نَهباً
 
 *“I witnessed the plundering of my inheritance..”*.  
  It is obvious that by inheritance he did not mean family or kinship
@@ -185,12 +153,8 @@ right is the subject of virtue and superiority. This matter too has
 repeatedly been mentioned in Nahj al-Balaghah. In the Sermon of
 Shiqshiqiya, ‘Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-و اما و الله لقد تقمصها ابن ابي قحافة و انه ليعلم ان محلي منها القطب
-من الرحي ينحدر عني السيل و لا يرقي الي الطير
-  </p>
-</blockquote>
+> و اما و الله لقد تقمصها ابن ابي قحافة و انه ليعلم ان محلي منها القطب
+> من الرحي ينحدر عني السيل و لا يرقي الي الطير
 
 *“By Allah, the son of Abu Quhafah (Abu Bakr) dressed himself with it
 (the Caliphate) while he certainly knew that my position in relation to
@@ -217,11 +181,7 @@ unequalled sacrifices, his relationship with the Holy Prophet (S.A.W.A.)
 and the fact that the Holy Prophet breathed his last on his very lap, he
 says:
 
-<blockquote dir="rtl">
-  <p>
-فمن ذا أحق به مني حيًا و ميتًا
-  </p>
-</blockquote>
+> فمن ذا أحق به مني حيًا و ميتًا
 
 *“Thus who has greater rights with him than I, during his life or after
 his death?”*
@@ -279,11 +239,7 @@ Then he said: “What did the Quraysh plead?” The people said: “They
 argued that they belong to the lineal tree of the Prophet.” Then Amir
 al-Mu’minin said:-
 
-<blockquote dir="rtl">
-  <p>
-احتجوا بالشجرة و اضاعوا الثمرة
-  </p>
-</blockquote>
+> احتجوا بالشجرة و اضاعوا الثمرة
 
 *“They defended themselves with the plea of the tree but neglected the
 fruit.”*
@@ -297,13 +253,9 @@ repertoire of questioning and answering between one Asadi man and ‘Ali
 (A.S.) wherein the latter argues in connection with the matter of
 relationship too. His expression is as such:
 
-<blockquote dir="rtl">
-  <p>
-أما الِاسْتِبْدَادُ عَلَيْنَا بِهَذَا الْمَقَامِ وَ نَحْنُ
-الْأَعْلَوْنَ نَسَباً وَ الْأَشَدُّونَ بِالرَّسُولِ الله صلى الله عليه
-واله نَوْطاً
-  </p>
-</blockquote>
+> أما الِاسْتِبْدَادُ عَلَيْنَا بِهَذَا الْمَقَامِ وَ نَحْنُ
+> الْأَعْلَوْنَ نَسَباً وَ الْأَشَدُّونَ بِالرَّسُولِ الله صلى الله عليه
+> واله نَوْطاً
 
 *“As for the predominance over us in this station (of Caliphate), when
 we are the loftiest in lineage and the strongest in relationship with
@@ -318,5 +270,4 @@ matter of genealogical relationship as the main argument and proof, ‘Ali
 worthiness, if we take into consideration the same lineage and
 relationship which others wish to rely on, I would still be more worthy
 than the other claimants to the seat of Caliphate.”
-
 

@@ -126,7 +126,6 @@ them for mankind, but none will grasp their meanings except the wise."
 Consequently, we must conclude that all Qur'anic teachings which deal
 with subtle profound knowledge, are in the form of similitudes.
 
-
 **The Two Kinds of Qur'anic Verses: The Explicit and the Implicit**
 
 In chapter XI:I God says of the Qur'an, "This is a book whose meanings
@@ -311,5 +310,4 @@ follow the implicit and go astray. Thus it is clear from the traditions
 and, in particular, the last tradition, that the implicit verse is one
 which does not contain a clear meaning without reference to the explicit
 verse, and not that there exists no means to understand it.
-
 

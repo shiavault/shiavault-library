@@ -1206,4 +1206,3 @@ God and the firmament sheweth His handiwork.”
 
 [^4]: that is 48 zeros written after number 1.
 
-

@@ -162,4 +162,3 @@ The recitation of *ayah* al-Kursi after every prayer and reciting Surah
 al-Waaqi’ah 41 times are other means of getting divine assistance in the
 repaying of debts.
 
-

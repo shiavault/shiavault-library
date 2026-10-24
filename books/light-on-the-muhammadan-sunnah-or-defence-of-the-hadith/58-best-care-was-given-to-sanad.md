@@ -1,10 +1,6 @@
 Best Care Was Given To Sanad:
 =============================
 
-  
-  
-  
-
 Al-Dhahabi, in his book Siyar a’lam al-nubala’, when giving the
 biography of Yahya ibn Sa'id al-Qattan, reported that Yahya said: "Never
 look at the hadith but look at the isnad, when it be correct the hadith
@@ -59,7 +55,7 @@ bringing his fancy within the pale of multiplicity can't be weighed by a
 standard criterion but it is subject to conjecture and can be recognized
 through investigation and strival (ijtihad), so such wahm (fancy) was
 viewed in the same way the fuqaha’ were viewing the conjectural events.
-Hence Ibn Mu'in <span id="_anchor_533"></span>533 holds two views
+Hence Ibn Mu'in 533 holds two views
 regarding the narrator: tawthiq (deeming reliable) and tad'if (deeming
 weak), and alike things. Further, it is impossible to evade wahm
 (misconception), and ismah (infallibility) can never be an attribute of
@@ -69,7 +65,7 @@ people, or rather it (Messenger's ismah) can never prevent against
 suspicion but only in tabligh (i.e. tabligh of revelation). As the
 Messenger of Allah doubted that he performed some obligatory prayers
 completely, when Dhu al-Yadayn questioned him: Have you shortened the
-prayers or forgotten this? <span id="_anchor_534"></span>534
+prayers or forgotten this? 534
 
 For all this, we find all books of hadith containing the sahih and
 non-sahih and even the fabricated and falsified ones, with none of the
@@ -84,8 +80,7 @@ So also the case with the grammarians who never quoted hadith to prove
 rules of language and grammar (nahw), after being sure of their being
 not sahih or mutawatir as were uttered by the Prophet, but were narrated
 on the basis of meaning. The argument they adopted for this was the
-hadith: "I married her to you with what you have", <span
-id="_anchor_535"></span>535  which was cited in eight forms though being
+hadith: "I married her to you with what you have", 535  which was cited in eight forms though being
 composed of two words only!
 
 Those were the views we intended to survey before quoting the utterances
@@ -202,7 +197,7 @@ disordered when the disagreement be related to the isnad itself, as this
 being their business.
 
 Once a controversy took place regarding the salat (prayers) referred to
-in the story of Dhu al-Yadayn. <span id="_anchor_537"></span>537  The
+in the story of Dhu al-Yadayn. 537  The
 narrator doubted it to be either the noon (zuhr) or afternoon (asr)
 prayers! Another time he thought it to be one of ashiyy two prayers:
 either the zuhr or asr prayers. In another place he once
@@ -212,7 +207,7 @@ Another time he said: It is most probably the asr prayer. At Nasa'i
 reported once what testifies that the source of doubt was Abu Hurayrah
 and his words, when he said: The Prophet, may God's peace and
 benediction be upon him and his Progeny, performed one of ashiyy
-prayers, but I (Abu Hurayrah) forgot <span id="_anchor_538"></span>538
+prayers, but I (Abu Hurayrah) forgot 538
  which one it was. Some of the narrators tried to bring them together,
 claiming that the episode occurred twice. Much often some of them follow
 this practice in bringing together in order to correct all the
@@ -220,7 +215,7 @@ narrations, for protecting the narrators from being charged with error
 or inadvertence or forgetfulness. It seems as if these traditionists
 care for the narrators much more than caring for the narrations, so they
 brought them together, even when they (narrations) disagree with one’s
-hearing. <span id="_anchor_539"></span>539
+hearing. 539
 
 In relation to what al-Allamah al-Jaza’iri stated concerning the
 ignorance of the traditionists to the texts (of hadith) I cite herewith
@@ -258,12 +253,11 @@ Those who know not that the sun never disappears from the earth and
 never passes from view of people for one hour or even a minute, does not
 see any trouble in the hadith of Abu Dharr about where it (sun) be after
 its decline as they think that its decline is a decline from the world
-as a whole. <span id="_anchor_540"></span>540
+as a whole. 540
 
 He (al-Jaza’iri) further says: If the narrations be criticized in
 respect of the tenor of their text, and also in their sanad, the texts
-will destroy and abrogate many of the asanid. <span
-id="_anchor_541"></span>541
+will destroy and abrogate many of the asanid. 541
 
 In his discussion of the ambiguities exposed in some of the traditions,
 like the hadith on sorcery of the Prophet (S), and hadith of prostration
@@ -288,11 +282,11 @@ and regulations. Hence that hadith whose sanad is correct we would
 accept its narration and adopt rules of belief and evidences of
 intellect to judge its text if it be ambiguous, and the one of incorrect
 sanad we can never call it a prophetic hadith, though its meaning be
-correct. <span id="_anchor_542"></span>542
+correct. 542
 
 Added to the words of al-Sayyid Rashid Rida we can say that the veracity
 or goodness of isnad can never necessitate veracity or euphemism of the
-hadith. Al-Hakim <span id="_anchor_543"></span>543 says: Many traditions
+hadith. Al-Hakim 543 says: Many traditions
 have in their isnad only one reliable trustworthy narrator, though they
 being defective and weak. Hence the sahih tradition cannot be known
 through its narrators alone but through comprehension, memorization and
@@ -326,7 +320,7 @@ answered for this with that al-Bukhari suspended hadith of Ibrahim ibn
 Tihman in tafsir neglecting not the controversy regarding it. Any reader
 of the two Sahihs should search for the criticism levelled at them in
 both respects (isnad and matn), so as to have full knowledge about
-riwayah. <span id="_anchor_544"></span>544
+riwayah. 544
 
 ### Defect-Finding in Hadith:
 
@@ -406,8 +400,7 @@ reported by Ibn Luhay’ah from book of Musa ibn Aqabah, on the authority
 of Zayd ibn Thabit as saying: The Messenger of Allah ihtajama (retired!)
 in the mosque, while the correct word is ihtajara (with ra’) in the
 mosque in a booth or hasir (mat) – a chamber in which he used to perform
-prayers, but was misconstructed by Ibn Luhay’ah. <span
-id="_anchor_545"></span>545
+prayers, but was misconstructed by Ibn Luhay’ah. 545
 
 ### Kinds of Muharraf Traditions:
 
@@ -416,7 +409,7 @@ occurred through changing the shape of the word with keeping the image
 of writing intact. The example for this being what happened for some
 bedouin Arab, who found in a hadith in some book stating that the
 Prophet (S), when performing prayers before him they used to erect
-anuzah – meaning harbah (lance), <span id="_anchor_546"></span>546 which
+anuzah – meaning harbah (lance), 546 which
 he thought it with silent nun narrating it on the basis of the meaning
 he imagined erroneously, saying: When the Prophet was performing prayers
 a she-goat was put before him!!

@@ -80,4 +80,3 @@ Qadhi, and was consigned to Abu Ghuraib for sentence. God only knows
 what befell him.  
    
 
-

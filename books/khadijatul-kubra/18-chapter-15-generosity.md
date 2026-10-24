@@ -55,4 +55,3 @@ emigration of the Muslims from Makka to Abyssinia. In Makka, she alone
 had the resources with which to underwrite emigration of Muslims on such
 a scale.
 
-

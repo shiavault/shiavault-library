@@ -4,12 +4,8 @@ Surah al-Zukhruf, Verses 40 - 63
 Surah al-Zukhruf - Verse 40
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَأَنْتَ تُسْمِعُ الصُّمَّ أَوْ تَهْدِي الْعُمْيَ وَمَنْ كَانَ فِي
-ضَلالٍ مُبِينٍ
-  </p>
-</blockquote>
+> أَفَأَنْتَ تُسْمِعُ الصُّمَّ أَوْ تَهْدِي الْعُمْيَ وَمَنْ كَانَ فِي
+> ضَلالٍ مُبِينٍ
 
 ***40. Can you [O Muhammad!] make the deaf to hear, or can you guide the
 blind or him who is in manifest error?***
@@ -34,18 +30,10 @@ toward the Truth. It will be of no avail.”*
 Surah al-Zukhruf - Verses 41 - 42
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِمَّا نَذْهَبَنَّ بِكَ فَإِنَّا مِنْهُمْ مُنْتَقِمُونَ
-  </p>
-</blockquote>
+> فَإِمَّا نَذْهَبَنَّ بِكَ فَإِنَّا مِنْهُمْ مُنْتَقِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ نُرِيَنَّكَ الَّذِي وَعَدْنَاهُمْ فَإِنَّا عَلَيْهِمْ
-مُقْتَدِرُونَ
-  </p>
-</blockquote>
+> أَوْ نُرِيَنَّكَ الَّذِي وَعَدْنَاهُمْ فَإِنَّا عَلَيْهِمْ
+> مُقْتَدِرُونَ
 
 ***41. And when We take you away [from among them], We shall indeed take
 vengeance on them.***  
@@ -108,18 +96,10 @@ may take vengeance of them at any time.
 Surah al-Zukhruf - Verses 43 - 44
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ إِنَّكَ عَلَی صِرَاطٍ
-مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ إِنَّكَ عَلَی صِرَاطٍ
+> مُسْتَقِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلونَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلونَ
 
 ***43. Therefore, hold you fast to that which is revealed to you. Indeed
 you are on the Straight Path.***  
@@ -156,12 +136,8 @@ instructions.
 Surah al-Zukhruf - Verse 45
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا
-مِنْ دُونِ الرَّحْمَنِ آلِهَةً يُعْبَدُونَ
-  </p>
-</blockquote>
+> وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا
+> مِنْ دُونِ الرَّحْمَنِ آلِهَةً يُعْبَدُونَ
 
 ***45. And ask those of Our Messengers [through their followers or by
 consulting their Books] whom We sent before you: “Did We ever appoint
@@ -219,18 +195,10 @@ idols who engender neither gain nor loss.
 Surah al-Zukhruf - Verses 46 - 47
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مُوسَى بِآياتِنَا إِلَی فِرْعَوْنَ وَمَلَأِهِ
-فَقَالَ إِنِّي رَسُولُ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مُوسَى بِآياتِنَا إِلَی فِرْعَوْنَ وَمَلَأِهِ
+> فَقَالَ إِنِّي رَسُولُ رَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَاءَهُمْ بِآياتِنَا إِذَا هُمْ مِنْهَا يَضْحَكُونَ
-  </p>
-</blockquote>
+> فَلَمَّا جَاءَهُمْ بِآياتِنَا إِذَا هُمْ مِنْهَا يَضْحَكُونَ
 
 ***46. And indeed We did send Moses with Our Ayat [Signs, Miracles,
 Verses] to Pharaoh and his chiefs. Then he said: “Indeed, I am a
@@ -266,25 +234,13 @@ acknowledge his prophethood, derided him.
 Surah al-Zukhruf - Verses 48 - 50
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُرِيهِمْ مِنْ آيَةٍ إِلَّا هِيَ أَكْبَرُ مِنْ أُخْتِهَا
-وَأَخَذْنَاهُمْ بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَمَا نُرِيهِمْ مِنْ آيَةٍ إِلَّا هِيَ أَكْبَرُ مِنْ أُخْتِهَا
+> وَأَخَذْنَاهُمْ بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا يَا أَيُّهَا السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ
-عِنْدَكَ إِنَّنَا لَمُهْتَدُونَ
-  </p>
-</blockquote>
+> وَقَالُوا يَا أَيُّهَا السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ
+> عِنْدَكَ إِنَّنَا لَمُهْتَدُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ يَنْكُثُونَ
-  </p>
-</blockquote>
+> فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ يَنْكُثُونَ
 
 ***48. And not a miracle We showed them but it was greater than another
 and We seized them with torment in order that they might return [to
@@ -362,18 +318,10 @@ a lesson from their dire fate.
 Surah al-Zukhruf - Verses 51 - 52
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَی فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ
-مِصْرَ وَهَذِهِ الْأَنْهَارُ تَجْرِي مِنْ تَحْتِي أَفَلا تُبْصِرُونَ
-  </p>
-</blockquote>
+> وَنَادَی فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ
+> مِصْرَ وَهَذِهِ الْأَنْهَارُ تَجْرِي مِنْ تَحْتِي أَفَلا تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ أَنَا خَيْرٌ مِنْ هَذَا الَّذِي هُوَ مَهِينٌ وَلا يَكَادُ يُبِينُ
-  </p>
-</blockquote>
+> أَمْ أَنَا خَيْرٌ مِنْ هَذَا الَّذِي هُوَ مَهِينٌ وَلا يَكَادُ يُبِينُ
 
 ***51. And Pharaoh proclaimed among his people: “O my people! Is not
 mine the dominion of Egypt and these rivers flowing underneath [my
@@ -427,19 +375,11 @@ speech defect.
 Surah al-Zukhruf - Verses 53 - 54
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلا أُلْقِيَ عَلَيْهِ أَسْوِرَةٌ مِنْ ذَهَبٍ أَوْ جَاءَ مَعَهُ
-الْمَلائِكَةُ مُقْتَرِنِينَ
-  </p>
-</blockquote>
+> فَلَوْلا أُلْقِيَ عَلَيْهِ أَسْوِرَةٌ مِنْ ذَهَبٍ أَوْ جَاءَ مَعَهُ
+> الْمَلائِكَةُ مُقْتَرِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَخَفَّ قَوْمَهُ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا قَوْماً
-فَاسِقِينَ
-  </p>
-</blockquote>
+> فَاسْتَخَفَّ قَوْمَهُ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا قَوْماً
+> فَاسِقِينَ
 
 ***53. “[If Moses is in the right] whey then are not golden bracelets
 bestowed on him or [as a proof of his prophethood] angels sent along
@@ -485,17 +425,9 @@ prophethood springs from another source.
 Surah al-Zukhruf - Verses 55 - 56
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلْنَاهُمْ سَلَفاً وَمَثَلاً لِلْآخِرِينَ
-  </p>
-</blockquote>
+> فَجَعَلْنَاهُمْ سَلَفاً وَمَثَلاً لِلْآخِرِينَ
 
 ***55. Therefore, when they angered Us, We chastised them and drowned
 all of them.***  
@@ -532,33 +464,17 @@ Lord at the time of Mercy.
 Surah al-Zukhruf - Verses 57 - 60
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلاً إِذَا قَوْمُكَ مِنْهُ
-يَصِدُّونَ
-  </p>
-</blockquote>
+> وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلاً إِذَا قَوْمُكَ مِنْهُ
+> يَصِدُّونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا أَآلِهَتُنَا خَيْرٌ أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا
-جَدَلاً بَلْ هُمْ قَوْمٌ خَصِمُونَ
-  </p>
-</blockquote>
+> وَقَالُوا أَآلِهَتُنَا خَيْرٌ أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا
+> جَدَلاً بَلْ هُمْ قَوْمٌ خَصِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَاهُ مَثَلاً
-لِبَنِي إِسْرائيلَ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَاهُ مَثَلاً
+> لِبَنِي إِسْرائيلَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ نَشَاءُ لَجَعَلْنَا مِنْكُمْ مَلائِكَةً فِي الْأَرْضِ
-يَخْلُفُونَ
-  </p>
-</blockquote>
+> وَلَوْ نَشَاءُ لَجَعَلْنَا مِنْكُمْ مَلائِكَةً فِي الْأَرْضِ
+> يَخْلُفُونَ
 
 ***57. And when the son of Mary (as) is quoted [by idolaters] as an
 example [that if objects of worship besides God will go to Hell, He will
@@ -739,18 +655,10 @@ Angels who obey Divine Decree know nothing but to obey Him.
 Surah al-Zukhruf - Verses 61 - 62
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَعِلْمٌ لِلسَّاعَةِ فَلا تَمْتَرُنَّ بِهَا وَاتَّبِعُونِ
-هَذَا صِرَاطٌ مُسْتَقِيمٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَعِلْمٌ لِلسَّاعَةِ فَلا تَمْتَرُنَّ بِهَا وَاتَّبِعُونِ
+> هَذَا صِرَاطٌ مُسْتَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَصُدَّنَّكُمُ الشَّيْطَانُ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
-  </p>
-</blockquote>
+> وَلا يَصُدَّنَّكُمُ الشَّيْطَانُ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
 
 ***61. And he [Jesus (as) as he raised the dead] will be a known sign
 for [the coming of] the Hour [Day of Resurrection]. Therefore have no
@@ -849,13 +757,9 @@ be slain.
 Surah al-Zukhruf - Verse 63
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَاءَ عِيسَی بِالْبَيِّنَاتِ قَالَ قَدْ جِئْتُكُمْ
-بِالْحِكْمَةِ وَلِأُبَيِّنَ لَكُمْ بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> وَلَمَّا جَاءَ عِيسَی بِالْبَيِّنَاتِ قَالَ قَدْ جِئْتُكُمْ
+> بِالْحِكْمَةِ وَلِأُبَيِّنَ لَكُمْ بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
 ***63. And when Jesus (as) came with clear proofs [and miracles], he
 said: “I have come to you with Wisdom and [I have come] to make clear to
@@ -907,5 +811,4 @@ same report with or without the blessed Verse in question. For further
 information, see Ihqaq al-Haqq, vol. 3, p. 398 ff.; Nur al-Thiqalayn
 [Exegesis], vol. 4, p. 609 ff.; Majma’ al-Bayan [Exegesis], under the
 blessed Verses in question.
-
 

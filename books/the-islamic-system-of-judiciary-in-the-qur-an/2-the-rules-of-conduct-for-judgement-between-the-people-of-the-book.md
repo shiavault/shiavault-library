@@ -47,7 +47,6 @@ another, the Islamic punishment (hadd) should be enforced. [^4]
 
 [^4]. Tahrir al-Wasi'lah, ii, 464, 470, 506, 507.
 
-
 **The Rules of Conduct for the Witness**
 
 Judgement has a particular basis on which the judge relies when giving
@@ -83,7 +82,6 @@ The verse also shows that kinship is no hindrance to acceptance of the
 evidence of one of the relatives, even if it is the child's against the
 father. The details concerning the verse can be found in the books on
 law.
-
 
 **The Rules of Conduct for the Litigants**
 
@@ -193,5 +191,4 @@ rule according to the false evidence or oath and contrary to the facts.
 It is incumbent on everyone who has knowledge of it to be on his guard
 against it, for it is a piece of fire. The details of it are also in
 legal books.
-
 

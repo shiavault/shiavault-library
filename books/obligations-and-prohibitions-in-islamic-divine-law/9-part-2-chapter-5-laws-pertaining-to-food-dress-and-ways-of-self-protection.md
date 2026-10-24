@@ -136,4 +136,3 @@ pure food and clothing, and all the natural gifts and bounties that
 Islam has not forbidden. To abstain forever from doing something is to
 claim that this thing is forbidden in the law of Islam.
 
-

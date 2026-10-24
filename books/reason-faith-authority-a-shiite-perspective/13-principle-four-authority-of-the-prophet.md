@@ -24,4 +24,3 @@ themselves.' (33:6)*** 29
 To have a better idea, we should note that there were three areas in
 which the Prophet exercised his authority:
 
-

@@ -42,4 +42,3 @@ the Arabic singular *hilal*, crescent, when it becomes visible to the
 naked eye. These crescents set the time for people and help them
 determine when the pilgrimage is to be performed.
 
-

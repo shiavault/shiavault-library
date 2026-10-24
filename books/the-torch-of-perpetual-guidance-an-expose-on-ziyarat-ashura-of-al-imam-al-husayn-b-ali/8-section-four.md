@@ -1,14 +1,10 @@
 Section Four
 ============
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبا عَبْدِ اللّهِ، لَقَدْ عَظُمَتِ الرَّزِيَّةُ وَجَلَّتْ
-وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنا وَعَلَى جَمِيعِ أَهْلِ
-الإِسْلامِ، وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى
-جَمِيعِ أَهْلِ السَّمَاوَاتِ
-  </p>
-</blockquote>
+> يَا أَبا عَبْدِ اللّهِ، لَقَدْ عَظُمَتِ الرَّزِيَّةُ وَجَلَّتْ
+> وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنا وَعَلَى جَمِيعِ أَهْلِ
+> الإِسْلامِ، وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَاوَاتِ عَلَى
+> جَمِيعِ أَهْلِ السَّمَاوَاتِ
 
 “O’ Aba ‘Abdillah! Surely the tribulations are great and unbearable and
 your tragedy is great for us, and for all the people of Islam and
@@ -46,5 +42,4 @@ Imam, Ja’far b. Muhammad as-Sadiq where he has said, “What is wrong with
 you that you do not go (to the Ziyarat of the grave of al-Husayn)?
 Surely 40,000 Angels are at his grave, crying, until the Day of
 Resurrection.”
-
 

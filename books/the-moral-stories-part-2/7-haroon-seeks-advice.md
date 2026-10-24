@@ -108,4 +108,3 @@ in high terms as per the following avat of the Holv Qura'n:
 indeed is given a great good and none but men of understanding mind."
 (2:269)
 
-

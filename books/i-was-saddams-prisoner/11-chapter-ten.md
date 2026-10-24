@@ -62,4 +62,3 @@ I was ordered out. My wife screamed: "Where am I going? I shall die....
 They will kill me.... please do not go...." and the screams died down as
 the elevator shot upwards. I saw my wife again after four months.
 
-

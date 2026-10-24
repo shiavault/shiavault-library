@@ -22,23 +22,15 @@ reproaching them and proving the groundlessness of their claim, the
 Qur’an refers to Jibra’il (*‘a*) in the verse below as truthful
 {*al-amin*} and honest angel:
 
-<blockquote dir="rtl">
-  <p>
-نزل به الروح الأمين على قلبك لتكون من المنذرين.
-  </p>
-</blockquote>
+> نزل به الروح الأمين على قلبك لتكون من المنذرين.
 
 ***“{It (Qur’an) was} brought down by the Trustworthy Spirit, upon your
 heart, so that you may be one of the warners.”***[^2]
 
 In another verse, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ كانَ عَدُوًّا لِجِبْريلَ فَإِنَّهُ نَزَّلَهُ عَلى‏ قَلْبِكَ
-بِإِذْنِ اللّهِ
-  </p>
-</blockquote>
+> قُلْ مَنْ كانَ عَدُوًّا لِجِبْريلَ فَإِنَّهُ نَزَّلَهُ عَلى‏ قَلْبِكَ
+> بِإِذْنِ اللّهِ
 
 ***“Say, ‘Whoever is an enemy of Gabriel {should know that} it is he who
 has brought it down on your heart with the will of Allah.”***[^3]
@@ -66,12 +58,8 @@ envoy.
 ‘Ali ibn Abi Talib (*‘a*), the great leader who is followed by the
 Shi‘ah testifies to this truth in these eloquent words:
 
-<blockquote dir="rtl">
-  <p>
-"وأشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمد عبده ورسوله
-خاتم النبيّين حجة الله على العالمين."
-  </p>
-</blockquote>
+> "وأشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمد عبده ورسوله
+> خاتم النبيّين حجة الله على العالمين."
 
 And I bear witness that there is no god but Allah, the One and Only, Who
 has no partner, and I bear witness that Muhammad is His servant and
@@ -79,12 +67,8 @@ Messenger, the Seal of the Prophets and the Proof of Allah to the
 worlds.[^4]  
  Imam as-Sadiq (*‘a*) also says:
 
-<blockquote dir="rtl">
-  <p>
-"لم يبعث الله عز وجل من العرب إلا خمسة أنبياء: هوداً وصالحاً وإسماعيل
-وشعيب ومحمد خاتم النبيّين."
-  </p>
-</blockquote>
+> "لم يبعث الله عز وجل من العرب إلا خمسة أنبياء: هوداً وصالحاً وإسماعيل
+> وشعيب ومحمد خاتم النبيّين."
 
 “From among the Arabs, God appointed only five prophets: Hud, Salih,
 Isma‘il, Shu‘ayb, and Muhammad as the Seal of the Prophets (S).”[^5]
@@ -106,11 +90,7 @@ announcing his being the Seal of the Prophets, the Holy Prophet (*‘a*)
 introduces ‘Ali ibn Abi Talib (*‘a*) as his successor and the executor
 of his will when he says to him:
 
-<blockquote dir="rtl">
-  <p>
-أما ترضى أن تكون منّي بمنزلة هارون من موسى إلا أنه لا نبيّ بعدي؟
-  </p>
-</blockquote>
+> أما ترضى أن تكون منّي بمنزلة هارون من موسى إلا أنه لا نبيّ بعدي؟
 
 “Are you not satisfied that you are to me as Harun (Aaron) is to Musa
 (Moses) except that there shall be no prophet after me?”[^8]
@@ -155,5 +135,4 @@ Maghazali, Al-Manaqib (Beirut, 1403 AH), p. 27; Bihar al-Anwar (Beirut,
 2nd Edition, 143 AH), vol. 37, p. 254; Shaykh as-Saduq, Ma‘ani al-Akhbar
 (Beirut, 1399 AH), p. 74; Kanz al-Fawa’id (Beirut 1405 AH), vol. 2, p.
 168.
-
 

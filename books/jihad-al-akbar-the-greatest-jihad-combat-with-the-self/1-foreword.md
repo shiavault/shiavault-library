@@ -168,4 +168,3 @@ different levels of Islamic theology during the days of his residence in
 Najaf al-Ashraf, Iraq (1964-1978), which has been transcribed and
 compiled by Hujjat al-Islam wal-Muslimin Sayyid Hamid Ruhani.
 
-

@@ -1599,4 +1599,3 @@ remains on the earth". (Surah al‑Ra'd, 13:17)
 [^11]: The Awaited Saviour, which is available
 http://www.al-islam.org/awaited/index.htm
 
-

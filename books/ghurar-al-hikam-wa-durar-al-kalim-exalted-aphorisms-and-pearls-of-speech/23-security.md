@@ -13,11 +13,7 @@ the rights of the people except the disbelieving infidel and the
 duplicitous apostate.
 
 > 2ـ واللّهِ ما مَنَعَ الأمْنَ أهْلَهُ، وأزاحَ الحقَّ عَنْ مُسْتَحِقِّهِ
-<blockquote dir="rtl">
-  <p>
-إلاّ كُلُّ كافِر جاحِد، ومُنافِق مُلْحِد.
-  </p>
-</blockquote>
+> إلاّ كُلُّ كافِر جاحِد، ومُنافِق مُلْحِد.
 
 3. Do not be deceived by [a false sense of] security, for you will
 surely be taken from your sanctuary.
@@ -28,11 +24,7 @@ surely be taken from your sanctuary.
 he has found a way to [attain] security.
 
 > 4ـ لايَنْبَغي لِلْعاقِلِ أنْ يُقيمَ عَلَى الخَوفِ إذا وَجَدَ إلىَ
-<blockquote dir="rtl">
-  <p>
-الأمْنِ سَبيلاً.
-  </p>
-</blockquote>
+> الأمْنِ سَبيلاً.
 
 5. There is no blessing better than security.
 
@@ -54,5 +46,4 @@ panic.
 9. The comfort of life is in security.
 
 > 9ـ رِفاهِيَّةُ العَيْشِ فيِ الأمْنِ.
-
 

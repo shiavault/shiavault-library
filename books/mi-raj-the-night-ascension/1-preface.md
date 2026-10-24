@@ -63,13 +63,9 @@ Surahs as well, we see allusions to this journey.
  In the Surah al‑Isra (Sarah 17 ‑ also known as Bani Isra\`il), it is
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
-لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
+> لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
    
     
@@ -319,5 +315,4 @@ and 245; volume 39, page 158; volume 70, page 6; volume 76, page 146 and
 biusul ad‑Dini, written by Faidh al‑Kashani, research by Mahdi Ansari,
 printed by the Research Department of the Faculty of Humanities, Tehran,
 1376
-
 

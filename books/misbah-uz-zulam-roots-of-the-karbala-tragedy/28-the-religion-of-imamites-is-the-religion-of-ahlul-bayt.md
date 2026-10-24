@@ -40,4 +40,3 @@ religion of all the Ahlul Bayt (a.s.) was same. Thus, whatever was the
 religion of Ali Ibn Moosa ar- Reza, it was the same religion of all the
 Imams.”
 
-

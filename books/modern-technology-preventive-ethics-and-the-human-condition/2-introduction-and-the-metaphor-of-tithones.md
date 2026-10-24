@@ -35,4 +35,3 @@ inventions to the point that machines became models for understanding
 human beings. Worse than that “man has been added to the objects of
 technology.”2
 
-

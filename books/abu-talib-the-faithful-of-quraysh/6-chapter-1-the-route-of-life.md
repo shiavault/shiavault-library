@@ -2948,4 +2948,3 @@ vol. 1 p.388,391, Abu Talib p.91, al-Ghadeer, vol. 7 p.368.
 Al-Hujja p.97-98, al-Manaqib, vol.1 p.35, A’yan ash-Shia, vol. 2
 p.120-121, vol.35 p.145, Majma’ul Bayan, vol.7 p.37.
 
-

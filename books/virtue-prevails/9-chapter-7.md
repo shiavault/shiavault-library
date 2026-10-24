@@ -95,4 +95,3 @@ Fitnah realized it was useless to continue. She talked of other things
 and soon left her cousin. Sumayah decided to tell her fiancé about their
 disagreement.
 
-

@@ -1,20 +1,12 @@
 The Eighteenth Talk
 ===================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura an-Nahl, 16:99)***
@@ -22,14 +14,9 @@ on their Lord. (Sura an-Nahl, 16:99)***
 Tawakkul In Unity Of Allah (S.w.T.)
 -----------------------------------
 
-
 A Mu’min has trust on (*Tawakkul)* and faith only in Allah (S.w.T.).
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
 
 ***…and on Allah should you rely if you are believers. (Sura al-Maidah,
 5:23)***
@@ -50,10 +37,8 @@ that in matters of fear, hope and on occasions of confusion, the Trust
 on Allah (S.w.T.) (*Tawakkul)* is redoubled and the faith of the
 *Mu’min* is further strengthened.
 
-
 Trust on Allah (S.w.T.) is Intellectually Binding
 -------------------------------------------------
-
 
 *Mu’min* trusting on Allah (S.w.T.) is doubtlessly justified. Even when
 matters are in his control, there should be implicit trust on Allah
@@ -68,10 +53,8 @@ and the reality that is achieved through *‘Amal* (action) is *Haal* or
 rapturously, and elatedly trusting on Allah (S.w.T.) in all the
 affairs.
 
-
 How is it Possible to be Mutawakkil or Resigned to the Will of Allah (S.w.T.)
 -----------------------------------------------------------------------------
-
 
 What is the reality of *Tawakkul* and how to achieve that? The root of
 the word *Tawakkul* (Trust) is *Wakala* (counsel or representation). The
@@ -81,10 +64,8 @@ is entrusted to take care of his affairs is the *wakil.*
 Make Allah (S.w.T.) your *wakil* and Trust all your affairs to Him. This
 is the meaning of ‘*Fattakhidhuhu wakila - make Him your Wakil’*
 
-
 Belief in Practicing Faith on Unity of Allah (S.w.T.)
 -----------------------------------------------------
-
 
 We have already said that *Tawakkul (Trust)* depends on knowledge,
 rapture and action. But the foundation is the knowledge. Here knowledge
@@ -98,10 +79,8 @@ never! Every profit accrued is either directly or through Allah
 (S.w.T.). Food, clothing and all the paraphernalia of marital life and
 all the gains of the spiritual life is at Allah (S.w.T.)’s Wish!
 
-
 Observe the Act of Drinking Water
 ---------------------------------
-
 
 Someone gives you a tumbler of water. Where this water has come from?
 Whose property is it? Who has made it? Who has fetched it? Who has given
@@ -111,10 +90,8 @@ quench your thirst?
 Therefore, if one thinks about a glass of water, he will know that the
 ultimate provider is none else than Allah (S.w.T.)!
 
-
 The Dress Too is Provided By Allah (S.w.T.)
 -------------------------------------------
-
 
 Does the dress that we wear, from its rudimentary state to that when it
 is ready for use, has any initiator other than Allah (S.w.T.)? Just
@@ -123,11 +100,7 @@ during the stages of its conversion to fabric? Who gave wisdom to the
 weavers to develop skills at their trade? When we seriously think, we
 realize that:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا إِلَى اللَّهِ تَصِيرُ الأمُورُ
-  </p>
-</blockquote>
+> أَلَا إِلَى اللَّهِ تَصِيرُ الأمُورُ
 
 ***…now surely to Allah do all affairs eventually come! (Sura Shura,
 42:53)***
@@ -137,7 +110,6 @@ realize that:
 It Is Allah (S.w.T.) Who Wards Off Troubles?
 --------------------------------------------
 
-
 It is not possible for anyone, other than Allah (S.w.T.), to keep a
 person out of harms way. Imagine, who gives cure to a person suffering
 from an ailment? Do the medicaments and the physician give him the cure?
@@ -146,10 +118,8 @@ knowledge to the physician? Who controls his faculties of diagnosis? In
 fact, the real diagnosis comes from Allah (S.w.T.) and the physician is
 only an instrument for this.
 
-
 Physician or Killer?
 --------------------
-
 
 In Shiraz, during an epidemic of measles, a physician’s young son was
 afflicted with the disease. Since he was under the treatment of his own
@@ -168,7 +138,6 @@ connect the ways and means to self and forget the Cause of the Causes
 (Allah (S.w.T.)) then you are ignorant of *la ilaaha ilallaah* because
 the ultimate control over everything is His. Whatever is there, and
 whatever happens, is through Him.
-
 
 In All Matters Allah (S.w.T.)’s Will Prevails
 ---------------------------------------------
@@ -192,7 +161,6 @@ the present we are discussing about knowledge. It is necessary to get a
 better understanding about it from the Qur’an and the Traditions. No
 power other than Allah (S.w.T.) has the capability to profit or harm
 anyone if Allah (S.w.T.) Wishes otherwise.
-
 
 Tawakkul Comes With Knowledge
 -----------------------------
@@ -261,13 +229,9 @@ threatened by saying that their enemies have united against them, their
 Faith in Allah (S.w.T.) enhances and they say, “Allah (S.w.T.) is our
 best support. He is the best of attorneys!
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُواْ لَكُمْ
-فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَاناً وَقَالُواْ حَسْبُنَا اللّهُ
-وَنِعْمَ الْوَكِيلُ
-  </p>
-</blockquote>
+> الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُواْ لَكُمْ
+> فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَاناً وَقَالُواْ حَسْبُنَا اللّهُ
+> وَنِعْمَ الْوَكِيلُ
 
 ***Those to whom the people said: Surely men have gathered against you,
 therefore fear them, but this increased their faith, and they said:
@@ -286,7 +250,6 @@ for us. With our oral expressions we have accepted Him as N’im
 *al-Wakil* but in practice we have not deemed Him our wakil from the
 heart. If we had done it from the heart, we would not have the need to
 look around for smaller wakils!
-
 
 Who Expects Help From Other Than Allah (S.w.T.) will Fail
 ---------------------------------------------------------
@@ -316,7 +279,6 @@ my affairs to Allah (S.w.T.)!”
 
 At the end of the narration it is recorded that within a short span of
 time all the worries of Muhammad Bin Ajlan had vanished.
-
 
 The Circumstances Have Made us Deaf and Dumb
 --------------------------------------------
@@ -376,7 +338,6 @@ achieve the capability of *Tawakkul,* then the instinct of pride will
 not touch our heart because of this achievement. We must remember that
 there are many stages of *Tawakkul* still to acquire.
 
-
 Tawakkul Must Be Perpetual
 --------------------------
 
@@ -392,5 +353,4 @@ doesn’t look at anyone else to ward away harm to him. Even if someone
 else helps him, he will be thankful only to the mother. Can we, at
 least, be as much grateful to our true Benefactor, Allah (S.w.T.), to
 the extent that a child is to his mother!
-
 

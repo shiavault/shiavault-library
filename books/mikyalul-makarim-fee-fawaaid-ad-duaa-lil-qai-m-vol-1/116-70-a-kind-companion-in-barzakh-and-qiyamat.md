@@ -33,4 +33,3 @@ tradition that conveys the same meaning.
 
 [^1]: Kafi; Vol. 2, Pg. 190
 
-

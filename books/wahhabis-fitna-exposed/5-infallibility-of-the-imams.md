@@ -416,4 +416,3 @@ Istiqsa‘u’l-Ifham, vol.2
 
 [^8]: Wahiduzzzaman Khan, Anwaru ‘l-lughah, Banglore, para 22, p.51.
 
-

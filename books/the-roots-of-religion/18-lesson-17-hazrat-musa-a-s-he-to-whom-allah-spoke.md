@@ -482,4 +482,3 @@ in his work of delivering the Message.
 Pharaoh contemporary with Musa was called 'Ramses II' and his body was
 mummified. It was discovered in 1881 (AD) and is now in Cairo Museum.)
 
-

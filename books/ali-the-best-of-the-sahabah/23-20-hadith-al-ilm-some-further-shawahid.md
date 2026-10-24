@@ -3,23 +3,19 @@
 
 Imam al-Hakim (d. 403 H) records:
 
-<blockquote dir="rtl">
-  <p>
-فحدثنا بشرح هذا الحديث الشيخ أبو بكر بن إسحاق أنا الحسن بن علي بن زياد
-السري ثنا حامد بن يحيى البلخي بمكة ثنا سفيان عن إسماعيل بن أبي خالد عن
-قيس بن أبي حازم قال كنت بالمدينة فبينا أنا أطوف في السوق إذ بلغت أحجار
-الزيت فرأيت قوما مجتمعين على فارس قد ركب دابة وهو يشتم علي بن أبي طالب
-والناس وقوف حواليه إذ أقبل سعد بن أبي وقاص فوقف عليهم فقال : ما هذا ؟
-فقالوا : رجل يشتم علي بن أبي طالب فتقدم سعد فأفرجوا له حتى وقف عليه
-فقال : يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم ألم يكن
-أول من صلى مع رسول الله صلى الله عليه وسلم ألم يكن ازهد الناس ألم يكن
-أعلم الناس ؟ وذكر حتى قال : ألم يكن ختن رسول الله صلى الله عليه وسلم
-على ابنته ألم يكن صاحب راية رسول الله صلى الله عليه وسلم في غزواته ؟
-ثم استقبل القبلة ورفع يديه وقال : اللهم إن هذا يشتم وليا من أوليائك
-فلا تفرق هذا الجمع حتى تريهم قدرتك قال قيس : فو الله ما تفرقنا حتى
-ساخت به دابته فرمته على هامته في تلك الأحجار فانفلق دماغه ومات
-  </p>
-</blockquote>
+> فحدثنا بشرح هذا الحديث الشيخ أبو بكر بن إسحاق أنا الحسن بن علي بن زياد
+> السري ثنا حامد بن يحيى البلخي بمكة ثنا سفيان عن إسماعيل بن أبي خالد عن
+> قيس بن أبي حازم قال كنت بالمدينة فبينا أنا أطوف في السوق إذ بلغت أحجار
+> الزيت فرأيت قوما مجتمعين على فارس قد ركب دابة وهو يشتم علي بن أبي طالب
+> والناس وقوف حواليه إذ أقبل سعد بن أبي وقاص فوقف عليهم فقال : ما هذا ؟
+> فقالوا : رجل يشتم علي بن أبي طالب فتقدم سعد فأفرجوا له حتى وقف عليه
+> فقال : يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم ألم يكن
+> أول من صلى مع رسول الله صلى الله عليه وسلم ألم يكن ازهد الناس ألم يكن
+> أعلم الناس ؟ وذكر حتى قال : ألم يكن ختن رسول الله صلى الله عليه وسلم
+> على ابنته ألم يكن صاحب راية رسول الله صلى الله عليه وسلم في غزواته ؟
+> ثم استقبل القبلة ورفع يديه وقال : اللهم إن هذا يشتم وليا من أوليائك
+> فلا تفرق هذا الجمع حتى تريهم قدرتك قال قيس : فو الله ما تفرقنا حتى
+> ساخت به دابته فرمته على هامته في تلك الأحجار فانفلق دماغه ومات
 
 Abu Bakr b. Ishaq – al-Hasan b. ‘Ali b. Ziyad al-Sirri – Hamid b. Yahya
 al-Balakhi –Sufyan – Isma’il b. Abi Khalid – Qays b. Abi Hazim:
@@ -47,21 +43,13 @@ and he died.”[^1]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^2]
 
 Al-Dhahabi (d. 748 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^3]
 
@@ -80,13 +68,9 @@ Imam Hasan b. ‘Ali, *‘alaihi al-salam*, is the best of the Ahl al-Bayt,
 *‘alaihim al-salam*, after the Prophet and Amir al-Muminin. Imam Ahmad
 b. Hanbal (d. 241 H) records his opinion too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا وكيع عن إسرائيل عن أبي إسحاق عن عمرو بن
-حبشي قال خطبنا الحسن بن علي بعد قتل علي رضي الله عنهما فقال: لقد
-فارقكم رجل بالأمس ما سبقه الأولون بعلم ولا أدركه الآخرون
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا وكيع عن إسرائيل عن أبي إسحاق عن عمرو بن
+> حبشي قال خطبنا الحسن بن علي بعد قتل علي رضي الله عنهما فقال: لقد
+> فارقكم رجل بالأمس ما سبقه الأولون بعلم ولا أدركه الآخرون
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Waki’ – Israil –
 Abu Ishaq – ‘Amr b. Habashi:
@@ -99,11 +83,7 @@ his level (in knowledge)**.[^6]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^7]
 
@@ -119,13 +99,9 @@ so-called consensus of Sunni *‘ulama*!
 Let us seal this with the words of a top-ranking Sunni scholar. His name
 was ‘Aṭa. Imam al-Dhahabi proclaims about him:
 
-<blockquote dir="rtl">
-  <p>
-عطاء بن أبي رباح، سيد التابعين علما وعملا وإتقانا في زمانه بمكة روى عن
-عائشة، وأبي هريرة، والكبار. وعاش تسعين سنة أو أزيد. وكان حجة إماما
-كبير الشأن، أخذ عنه أبو حنيفة وقال: ما رأيت مثله.
-  </p>
-</blockquote>
+> عطاء بن أبي رباح، سيد التابعين علما وعملا وإتقانا في زمانه بمكة روى عن
+> عائشة، وأبي هريرة، والكبار. وعاش تسعين سنة أو أزيد. وكان حجة إماما
+> كبير الشأن، أخذ عنه أبو حنيفة وقال: ما رأيت مثله.
 
 ‘Aṭa b. Abi Rabah, **the master of the Tabi’in in knowledge, piety, and
 generosity during his era in Makkah**. He narrated from ‘Aishah, Abu
@@ -136,11 +112,7 @@ seen anyone like him”.[^9]
 
 Al-Hafiz also submits:
 
-<blockquote dir="rtl">
-  <p>
-عطاء بن أبي رباح .... نزيل مكة واحد الفقهاء والأئمة
-  </p>
-</blockquote>
+> عطاء بن أبي رباح .... نزيل مكة واحد الفقهاء والأئمة
 
 ‘Aṭa b. Abi Rabah.... He lived in Makkah. **He was one of the jurists
 and Imams**.[^10]
@@ -148,13 +120,9 @@ and Imams**.[^10]
 So, was this great Imam part of the alleged “consensus”? Imam Ibn Abi
 Shaybah (d. 235 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبدة بن سليمان عن عبد الملك بن أبي سليمان قال: قلت لعطاء: كان في
-أصحاب رسول الله صلى الله عليه وسلم أحد أعلم من علي؟ قال: لا، والله
-أعلمه!
-  </p>
-</blockquote>
+> حدثنا عبدة بن سليمان عن عبد الملك بن أبي سليمان قال: قلت لعطاء: كان في
+> أصحاب رسول الله صلى الله عليه وسلم أحد أعلم من علي؟ قال: لا، والله
+> أعلمه!
 
 ‘Abdah b. Sulayman – ‘Abd al-Malik b. Abi Sulayman:
 
@@ -164,11 +132,7 @@ Allah, I do NOT know any such person!**”[^11]
 
 Al-Hafiz (d. 852 H) states about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبدة بن سليمان الكلابي أبو محمد الكوفي يقال اسمه عبد الرحمن ثقة ثبت
-  </p>
-</blockquote>
+> عبدة بن سليمان الكلابي أبو محمد الكوفي يقال اسمه عبد الرحمن ثقة ثبت
 
 ‘Abdah b. Sulayman al-Kalabi, Abu Muhammad al-Kufi, it is said that his
 name was ‘Abd al-Rahman: ***Thiqah*** **(trustworthy),** ***thabt***
@@ -176,12 +140,8 @@ name was ‘Abd al-Rahman: ***Thiqah*** **(trustworthy),** ***thabt***
 
 Concerning the second narrator, he says:
 
-<blockquote dir="rtl">
-  <p>
-عبد الملك بن أبي سليمان ميسرة العرزمي بفتح المهملة وسكون الراء وبالزاي
-المفتوحة صدوق له أوهام
-  </p>
-</blockquote>
+> عبد الملك بن أبي سليمان ميسرة العرزمي بفتح المهملة وسكون الراء وبالزاي
+> المفتوحة صدوق له أوهام
 
 ‘Abd al-Malik b. Abi Sulayman Maysarah al-‘Arzami: ***Saduq*** **(very
 truthful)**, he had hallucinations.[^13]
@@ -240,5 +200,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 ‘Abd al-Qadir ‘Ata], vol. 1, p. 628, \# 4283
 
 [^13]: Ibid, vol. 1, pp. 615-616, \# 4198
-
 

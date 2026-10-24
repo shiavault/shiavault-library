@@ -725,4 +725,3 @@ clan of bnu Furat and al-Bursiyin and tell them not to visit Quraysh
 cemetery because the Caliph has decide to see all those who would visit
 these places be arrested."
 
-

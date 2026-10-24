@@ -33,4 +33,3 @@ about a place where something is from, for example:**مِن أینَ قَدِم�
 234. **أيّ** is prefixed to indefinate words, for example: **أيّ کتابٍ
 عِندکَ؟,** or definite words, for example: أ**يّ الکتابَینِ عِندک؟** .
 
-

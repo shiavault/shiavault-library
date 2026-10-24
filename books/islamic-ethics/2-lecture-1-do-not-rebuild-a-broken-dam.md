@@ -157,4 +157,3 @@ read after the afternoon prayer.
 
 [^7]: Refer to 35:15.
 
-

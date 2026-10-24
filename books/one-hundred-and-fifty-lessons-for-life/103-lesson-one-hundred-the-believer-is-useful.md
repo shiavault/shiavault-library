@@ -3,12 +3,8 @@ Lesson One Hundred: The Believer is Useful
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْمُؤْمِنِ مَثَلُ النَّخْلَةِ ما أَخذْتَ مِنْها مِنْ شَىء
-نَفَعَكَ
-  </p>
-</blockquote>
+> مَثَلُ الْمُؤْمِنِ مَثَلُ النَّخْلَةِ ما أَخذْتَ مِنْها مِنْ شَىء
+> نَفَعَكَ
 
 Translation
 -----------
@@ -34,5 +30,4 @@ reforming and they are loyal in friendship, strong in their decisions.
 In short, everything about them is worthy.
 
 [^1]: Nahjul Fasahah, page 564
-
 

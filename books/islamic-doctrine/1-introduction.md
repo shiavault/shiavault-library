@@ -52,4 +52,3 @@ are used. Therefore, the consti- tution is concerned with the basic
 needs while the - regulative laws are concerned with the best means and
 ways to satisfy these require- ments.
 
-

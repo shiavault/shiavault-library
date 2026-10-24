@@ -233,4 +233,3 @@ state of mind becoming a part of the structure of mind is called malakah
 while a transitory state which is a passing; mood of mind is called
 halah (see ’infi‘alat ).
 
-

@@ -257,4 +257,3 @@ traditions are in accord with no school of thought except that of the
 (Twelver) Ja\`fariyyah Shi\`ah. Furthermore, there is no logical
 explanation for these traditions except that of the Shi\`ah.[^17]
 
-

@@ -29,11 +29,7 @@ Return Evil with Goodness
 
 God says:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ
-  </p>
-</blockquote>
+> هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ
 
 ***"Shall the recompense of goodness be other than goodness?" (55:60)***
 
@@ -42,12 +38,8 @@ motto for Muslims. Surprisingly, studying other Qur’anic verses, we find
 that not only instructs to recompense goodness with goodness, but also
 bids Muslims to reply evil with goodness!
 
-<blockquote dir="rtl">
-  <p>
-ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا
-يَصِفُونَ
-  </p>
-</blockquote>
+> ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا
+> يَصِفُونَ
 
 ***"Repel thou the evil with that which is fairer. We Ourselves know
 very well what they describe." (23:96)***
@@ -62,12 +54,8 @@ the religion of affection, kindness, clemency, tranquility and warmth?
 Islamic Clemency even with non-Muslims
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ
-اللَّهِ لِيَجْزِيَ قَوْمًا بِمَا كَانُوا يَكْسِبُونَ 
-  </p>
-</blockquote>
+> قُلْ لِلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ
+> اللَّهِ لِيَجْزِيَ قَوْمًا بِمَا كَانُوا يَكْسِبُونَ
 
 ***"Say unto those who believe, that they forgive those who do not look
 for the days of God, that He may recompense people for that they have
@@ -107,12 +95,8 @@ with them on this.
 
 The angels replied to his request:
 
-<blockquote dir="rtl">
-  <p>
-يَا إِبْرَاهِيمُ أَعْرِضْ عَنْ هَٰذَا ۖ إِنَّهُ قَدْ جَاءَ أَمْرُ
-رَبِّكَ ۖ وَإِنَّهُمْ آتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍ
-  </p>
-</blockquote>
+> يَا إِبْرَاهِيمُ أَعْرِضْ عَنْ هَٰذَا ۖ إِنَّهُ قَدْ جَاءَ أَمْرُ
+> رَبِّكَ ۖ وَإِنَّهُمْ آتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍ
 
 ***"O Abraham, turn away from this; thy Lord’s command has surely come,
 and there is coming upon them a chastisement not to be turned back."
@@ -136,12 +120,8 @@ Prophet’s (S) Benevolence, an Attracting Factor for Muslims
 One of the miracles of Holy Prophet of Islam (S) is to be soft at heart
 and bring hearts together:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ
 
 ***"It was by mercy of God that thou wast gentle to them; hadst thou
 been harsh and hard of heart, they would have scattered from about
@@ -151,13 +131,9 @@ According to this verse, Prophet’s (S) clemency and benevolence
 (originating from divine mercy) attracted people and their trust to him.
 We read in verse 63, The Spoils surah:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ
-قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ
-حَكِيمٌ
-  </p>
-</blockquote>
+> لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ
+> قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ
+> حَكِيمٌ
 
 ***"Had thou expended all that is in the earth, thou could not have
 brought their hearts together; but God brought their hearts together;
@@ -178,12 +154,8 @@ clemency as one of its miracles, the religion of violence?
 Peace and Truce, the Basic Islamic Program
 ------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا
-تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا
+> تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
 
 ***"O believers, enter the peace, all of you, and follow not the steps
 of Satan; he is a manifest foe to you." (2:208)***
@@ -200,13 +172,9 @@ Amity and Mercy Are Among the Signs of God
 Some verses of Holy Qur’an indicate the signs of God’s Magnificence,
 which is the subject of “Argumentation of Order” in theology:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
-إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
+> إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***"And of His signs is that He created for you, of yourselves, spouses,
 that you might repose in them, and He has set between you love and
@@ -223,5 +191,4 @@ otherwise, social life was not possible.
 somewhere else in the Holy Qur’an, because the phrase بِسْمِ اللَّهِ
 الرَّحْمَٰنِ الرَّحِيمِ, has been repeated two times in the Surah
 An-Naml, The Ant, n.27.
-
 

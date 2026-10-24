@@ -15,4 +15,3 @@ Battle of the Camel. Imam ‘Ali (a.s.) referred to such women as having a
 such detrimental activities. Therefore, he reprimanded them and warned
 the believers to steer clear of their inductions.
 
-

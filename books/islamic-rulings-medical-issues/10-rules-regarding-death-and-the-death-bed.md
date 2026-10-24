@@ -59,4 +59,3 @@ Question 94: Is the will of one who has committed suicide valid?
 Answer: The will is valid for up to one-third of the property left
 behind, there is no difference how the person dies.
 
-

@@ -58,4 +58,3 @@ Baranaq, Cairo, 1968
 Malika-tul-Arab by Maulana Kararvi, Karachi, Pakistan, 1982
 Rasool-i-Rahmet by Abul Kalam Azad, Lahore, Pakistan, 1970.
 
-

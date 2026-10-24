@@ -81,4 +81,3 @@ strive to replace them with good and righteous persons.
 [^1]: Al-Hurr al-Amili, vol. 6, Abwab fil al-Ma'roof, Bab wujub nasihat
 al-Mu'min.
 
-

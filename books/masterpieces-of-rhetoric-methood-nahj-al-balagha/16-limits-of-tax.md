@@ -215,4 +215,3 @@ the state of rage, and pardon with authority.
 Avoid the company of the wicked because vice adjoins vice. Keep off
 anger because it is one large army of Satan’s armies.
 
-

@@ -109,4 +109,3 @@ order, then the servant is a servant.”
 Intelligent and wise Bahlool that is called crazy and insane by people
 was benefited by the companionship of Imam Jafar Sadiq.
 
-

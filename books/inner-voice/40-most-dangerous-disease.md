@@ -24,4 +24,3 @@ they are lazy.
 When a soul is caught in this invisible snare of Satan, only the Mercy
 of Allah can save it from eternal disgrace.
 
-

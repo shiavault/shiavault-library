@@ -133,4 +133,3 @@ Yazdi, Sayyid Muhammad Kazim at-Tabataba'i al-, al-'Urwatu'l-Wuthqa
 (with annotations of contemporary mujtahids). Tehran:
 Daru'l-Kutubi'l-Islamiyyah, 1392AH/1972.
 
-

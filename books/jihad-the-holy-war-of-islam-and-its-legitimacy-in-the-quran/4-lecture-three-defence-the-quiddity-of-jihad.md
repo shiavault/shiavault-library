@@ -530,4 +530,3 @@ meaning, pertaining to tawhid.
 
 [^4]: All notable Muslim poets.
 
-

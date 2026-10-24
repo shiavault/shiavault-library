@@ -586,4 +586,3 @@ of existence (wujud), while the second of quiddity (mahiyyah).
 
 [^40]: Qur’an, 40:60.
 
-

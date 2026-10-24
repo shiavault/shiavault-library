@@ -23,7 +23,6 @@ The man then asked him; "Where and from which bookshop you have
 purchased?" Bahlool replied:
 "From a shoe-maker shop have I purchased"
 
-
 **HAROON'S NEW PALANCE**
 
 It took quite some time for Haroon to get a new palace built for
@@ -60,7 +59,6 @@ not turn them away from it.
 They pass their life in it. They speak into the ears of neglectful
 persons warning against matters held unlawful by Allah," (Nahjul
 Balaghah sermon 222)
-
 
 **Refund Of Loan On Reapperrance Of Imam**
 
@@ -108,5 +106,4 @@ Translation Sadaye Ja'aferi Hyderabad.
 To Mr. Ahmed A.M.Jaffer and others who have helped me with their
 suggestions and encouragement in this publication, I express my grateful
 thanks.
-
 

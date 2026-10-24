@@ -7,11 +7,7 @@ Surah Yusuf, Chapter 12
 
 **111 verses in 12 Sections**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, the Beneficent, the Merciful***
 
@@ -193,5 +189,4 @@ Qur’an do not mean a superficial reading of the text without meditating
 and acting upon them. On the contrary, it means a careful reading that
 would encourage one to think and in turn lead to a practical application
 of the text.
-
 

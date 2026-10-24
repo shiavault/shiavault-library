@@ -36,7 +36,6 @@ this belief Of Ahle-Sunnat is not to be found in any of the Sehah.
 Nevertheless in order to exhaust the arguments, we will confine our
 references and citations from Sehah Sittah alone.
 
-
 **Imam Mahdi (A.S.) is from the Holy Ahlebait (A.S.)**
 
 1- Hafiz Abu Abdullah Mohammad bin Yazid Al Qazvini narrates in his
@@ -79,5 +78,4 @@ Mahdi (A.S.) is from his own progeny. Secondly, these traditions exposed
 and unmasked all those importers and pseudo-Mahdi is who were neither
 related to the Holy Prophet (S.A.) nor were in any way linked to his
 Ahlebait (A.S.).
-
 

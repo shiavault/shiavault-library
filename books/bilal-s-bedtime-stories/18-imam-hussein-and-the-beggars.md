@@ -37,4 +37,3 @@ particularly the poor.
 2. Not to hurt but always try to respect the lawful wishes of others is
 a sign of noble character.
 
-

@@ -649,4 +649,3 @@ al-Jawhari.
 [^38]: Excerpted from a poem recorded on p. 17 of the Indian edition of
 the Kashkul of Shaikh Yousuf al-Bahrani.
 
-

@@ -71,15 +71,11 @@ The primary Sunni evidence for the superiority of all prophets over all
 non-prophets – as we have confirmed repeatedly from some of their
 anti-Shi’i debaters – are these verses:
 
-<blockquote dir="rtl">
-  <p>
-وتلك حجتنا آتيناها إبراهيم على قومه نرفع درجات من نشاء إن ربك حكيم
-عليم وهبنا له إسحاق ويعقوب كلا هدينا ونوحا هدينا من قبل ومن ذريته
-داوود وسليمان وأيوب ويوسف وموسى وهارون وكذلك نجزي المحسنين وزكريا
-ويحيى وعيسى وإلياس كل من الصالحين وإسماعيل واليسع ويونس ولوطا وكلا
-فضلنا على العالمين
-  </p>
-</blockquote>
+> وتلك حجتنا آتيناها إبراهيم على قومه نرفع درجات من نشاء إن ربك حكيم
+> عليم وهبنا له إسحاق ويعقوب كلا هدينا ونوحا هدينا من قبل ومن ذريته
+> داوود وسليمان وأيوب ويوسف وموسى وهارون وكذلك نجزي المحسنين وزكريا
+> ويحيى وعيسى وإلياس كل من الصالحين وإسماعيل واليسع ويونس ولوطا وكلا
+> فضلنا على العالمين
 
 And that was Our *Hujjah* which We gave **Ibrahim** against his people.
 We raise whom We will in ranks. Certainly your Lord is All-Wise,
@@ -98,12 +94,8 @@ generally or specifically. As such, the verses cannot be used for all
 prophets. Meanwhile, the last part above also has the same wording as
 that of this *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات
-وفضلناهم على العالمين
-  </p>
-</blockquote>
+> ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات
+> وفضلناهم على العالمين
 
 And indeed, We gave **the offspring of Israil** the Book, and authority
 and prophethood, and We provided them with good things, **AND WE**
@@ -116,16 +108,12 @@ better than all non-Israilites till the end of time? Perhaps, we should
 let the Messenger of Allah provide the answers. Imam al-Hakim (d. 403 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو عبد الله محمد بن عبد الله الزاهد الأصبهاني ثنا أحمد بن يونس
-الضبي بأصبهان ثنا أبو بدر شجاع ابن الوليد قال : سمعت زياد بن خيثمة
-يحدث عن أبيه عن ابن عمر رضي الله عنهما قال قال رسول الله صلى الله عليه
-وسلم : إن لله عبادا ليسوا بأنبياء ولا شهداء يغبطهم الشهداء والنبيون
-يوم القيامة لقربهم من الله تعالى ومجلسهم منه … هم أولياء الله عز وجل
-الذين لا خوف عليهم ولا هم يحزنون
-  </p>
-</blockquote>
+> حدثنا أبو عبد الله محمد بن عبد الله الزاهد الأصبهاني ثنا أحمد بن يونس
+> الضبي بأصبهان ثنا أبو بدر شجاع ابن الوليد قال : سمعت زياد بن خيثمة
+> يحدث عن أبيه عن ابن عمر رضي الله عنهما قال قال رسول الله صلى الله عليه
+> وسلم : إن لله عبادا ليسوا بأنبياء ولا شهداء يغبطهم الشهداء والنبيون
+> يوم القيامة لقربهم من الله تعالى ومجلسهم منه … هم أولياء الله عز وجل
+> الذين لا خوف عليهم ولا هم يحزنون
 
 Abu ‘Abd Allah Muhammad b. ‘Abd Allah al-Zaid al-Isbahani – Ahmad b.
 Yunus al-Dhabi – Abu Badr Shuja’ b. al-Walid – Ziyad b. Khaythamah – his
@@ -140,33 +128,21 @@ fear shall come, nor shall they grieve.”[^4]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد ولم يخرجاه
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد ولم يخرجاه
 
 This *hadith* has a *sahih* chain but they (i.e. al-Bukhari and Muslim)
 both have not recorded it.[^5]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^6]
 
 While analyzing this same *hadith*, ‘Allamah al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-أخرجه الحاكم في «المستدرك» … وقال: «صحيح الإسناد ولم يخرجاه» ، ووافقه
-الذهبي. قلت: وهو كما قالا
-  </p>
-</blockquote>
+> أخرجه الحاكم في «المستدرك» … وقال: «صحيح الإسناد ولم يخرجاه» ، ووافقه
+> الذهبي. قلت: وهو كما قالا
 
 Al-Hakim recorded it in *al-Mustadrak* … and said: “It has a *sahih*
 chain but they both have not recorded it” and al-Dhahabi agreed with
@@ -180,12 +156,8 @@ It must be noted that “envy” in Arabic is of two types: *al-hasad* and
 *al-ghabṭ*. Imam Ibn al-Athir (d. 606 H), a top Sunni *hadith* linguist,
 explains both:
 
-<blockquote dir="rtl">
-  <p>
-الحسد : ان يرى الرجل لأخيه نعمة فيتمنى أن تزول عنه وتكون له دونه .
-والغبط : أن يتمنى أن يكون له مثلها ولا يتمنى زوالها عنه .
-  </p>
-</blockquote>
+> الحسد : ان يرى الرجل لأخيه نعمة فيتمنى أن تزول عنه وتكون له دونه .
+> والغبط : أن يتمنى أن يكون له مثلها ولا يتمنى زوالها عنه .
 
 *Al-Hasad*: a man sees a blessing of his brother and wishes that he
 (i.e. his brother) loses it and it becomes his own instead.
@@ -204,18 +176,14 @@ superiority of these *awliya* over the prophets and martyrs.
 
 Imam Abu Dawud (d. 275 H) as well documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا زهير بن حرب وعثمان بن أبي شيبة قالا ثنا جرير عن عمارة بن القعقاع
-عن أبي زرعة بن عمرو بن جرير أن عمر بن الخطاب قال قال النبي صلى الله
-عليه و سلم " إن من عباد الله لأناسا ما هم بأنبياء ولا شهداء يغبطهم
-الأنبياء والشهداء يوم القيامة بمكانهم من الله تعالى " قالوا يارسول
-الله تخبرنا من هم ؟ قال " هم قوم تحابوا بروح الله على غير أرحام بينهم
-ولا أموال يتعاطونها فو الله إن وجوههم لنور وإنهم على نور لا يخافون إذا
-خاف الناس ولا يحزنون إذا حزن الناس وقرأ هذه الآية { ألا إن أولياء الله
-لا خوف عليهم ولا هم يحزنون } .
-  </p>
-</blockquote>
+> حدثنا زهير بن حرب وعثمان بن أبي شيبة قالا ثنا جرير عن عمارة بن القعقاع
+> عن أبي زرعة بن عمرو بن جرير أن عمر بن الخطاب قال قال النبي صلى الله
+> عليه و سلم " إن من عباد الله لأناسا ما هم بأنبياء ولا شهداء يغبطهم
+> الأنبياء والشهداء يوم القيامة بمكانهم من الله تعالى " قالوا يارسول
+> الله تخبرنا من هم ؟ قال " هم قوم تحابوا بروح الله على غير أرحام بينهم
+> ولا أموال يتعاطونها فو الله إن وجوههم لنور وإنهم على نور لا يخافون إذا
+> خاف الناس ولا يحزنون إذا حزن الناس وقرأ هذه الآية { ألا إن أولياء الله
+> لا خوف عليهم ولا هم يحزنون } .
 
 Zuhayr b. Harb and ‘Uthman b. Abi Shaybah – Jarir – ‘Amarah b. al-Qa’qa’
 – Abu Zur’ah b. ‘Amr b. Jarir – ‘Umar b. al-Khaṭṭab:
@@ -235,11 +203,7 @@ grieve}.[^9]
 
 And al-Albani declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^10]
 
@@ -269,41 +233,25 @@ upon them nor shall they grieve} [Yunus: 62][^11]
 
 Dr. Asad says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^12]
 
 ‘Allamah al-Albani also submits concerning the *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وإسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> قلت: وإسناده صحيح على شرط الشيخين
 
 I say: Its chain is *sahih* upon the standard of the two Shaykhs.[^13]
 
 Elsewhere, the ‘Allamah says about this same *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^14]
 
 And Shaykh al-Arnauṭ concurs with him:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^15]
 
@@ -366,5 +314,4 @@ Muhammad Nasir al-Din al-Albani and Shu’ayb al-Arnauṭ], vol. 2, p. 332,
 \# 573
 
 [^15]: Ibid
-
 

@@ -4,30 +4,14 @@ Section 1: Moses Commissioned with Apostleship
 Surah An-Naml - Verses 1-3
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-طس تِلْكَ ءَايَاتُ الْقُرْءَانِ وَكِتَابٍ مُبِينٍ
-  </p>
-</blockquote>
+> طس تِلْكَ ءَايَاتُ الْقُرْءَانِ وَكِتَابٍ مُبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-هُدي وَبُشْرَي لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> هُدي وَبُشْرَي لِلْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم
-بِالاَخِرَةِ هُمْ يُوقِنُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم
+> بِالاَخِرَةِ هُمْ يُوقِنُونَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -147,19 +131,11 @@ shine on them, they get the least advantage of them.
 Surah An-Naml - Verses 4-5
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ زَيَّنَّا لَهُمْ
-أَعْمَالَهُمْ فَهُمْ يَعْمَهُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ زَيَّنَّا لَهُمْ
+> أَعْمَالَهُمْ فَهُمْ يَعْمَهُونَ
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ لَهُمْ سُوءُ الْعَذَابِ وَهُمْ فِي الاَخِرَةِ
-هُمُ الاَخْسَرُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ لَهُمْ سُوءُ الْعَذَابِ وَهُمْ فِي الاَخِرَةِ
+> هُمُ الاَخْسَرُونَ
 
 ***4. “Verily those who do not believe in the Hereafter, We have made
 their (ugly) deeds fair-seeming unto them, so they wander
@@ -311,11 +287,7 @@ losers by the way of (your) deeds…”*[^12]
 Surah An-Naml - Verse 6
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَتُلَقَّي الْقُرْءَانَ مِن لَدُنْ حَكِيمٍ عَلِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّكَ لَتُلَقَّي الْقُرْءَانَ مِن لَدُنْ حَكِيمٍ عَلِيمٍ
 
 ***6. “And most surely you receive the Qur’an from One All-Wise,
 All-Knowing.”***
@@ -423,26 +395,14 @@ be and what direction is the path which will end to it!
 Surah An-Naml - Verses 7-9
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ مُوسي لاَهْلِهِ إِنّـِي ءَانَسْتُ نَاراً سَاَتِيكُم
-مّـِنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ
-تَصْطَلُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ مُوسي لاَهْلِهِ إِنّـِي ءَانَسْتُ نَاراً سَاَتِيكُم
+> مّـِنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ
+> تَصْطَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَهَا نُودِيَ أَن بُورِكَ مَن فِي النَّارِ وَمَنْ
-حَوْلَهَا وَسُبْحَانَ اللَّهِ رَبّ‌ِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَهَا نُودِيَ أَن بُورِكَ مَن فِي النَّارِ وَمَنْ
+> حَوْلَهَا وَسُبْحَانَ اللَّهِ رَبّ‌ِ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-يَامُوسَي إِنَّهُ أَنَا اللَّهُ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> يَامُوسَي إِنَّهُ أَنَا اللَّهُ الْعَزِيزُ الْحَكِيمُ
 
 ***7. “(Remember) When Moses said unto his family: ‘Verily I perceive a
 fire; soon will I bring you news of it, or I will bring you a flaming
@@ -594,20 +554,12 @@ doubts that it is the voice of Allah.
 Surah An-Naml - Verses 10-11
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّي
-مُدْبِراً وَلَمْ يُعَقّـِبْ يَامُوسَي لاَتَخَفْ إِنّـِي لاَيَخَافُ
-لَدَيَّ الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّي
+> مُدْبِراً وَلَمْ يُعَقّـِبْ يَامُوسَي لاَتَخَفْ إِنّـِي لاَيَخَافُ
+> لَدَيَّ الْمُرْسَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْناً بَعْدَ سُوءٍ فَإِنّـِي غَفُورٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> إِلاَّ مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْناً بَعْدَ سُوءٍ فَإِنّـِي غَفُورٌ
+> رَّحِيمٌ
 
 ***10. “‘And cast down your staff!’ So when he saw it moving as if it
 were a serpent, he turned back retreating and did not return. (It was
@@ -697,20 +649,12 @@ improve, and such ones will be in the Divine security, too.
 Surah An-Naml - Verses 12-13
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوءٍ
-فِي تِسْعِ ءَايَاتٍ إِلَي فِرْعَوْنَ وَقَوْمِهِ إِنَّهُمْ كَانُوا
-قَوْماً فَاسِقِينَ
-  </p>
-</blockquote>
+> وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوءٍ
+> فِي تِسْعِ ءَايَاتٍ إِلَي فِرْعَوْنَ وَقَوْمِهِ إِنَّهُمْ كَانُوا
+> قَوْماً فَاسِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَتْهُمْ ءَايَاتُنَا مُبْصِرَةً قَالُوا هَذَا سِحْرٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَتْهُمْ ءَايَاتُنَا مُبْصِرَةً قَالُوا هَذَا سِحْرٌ
+> مُبِينٌ
 
 ***12. “And put your hand in your bosom, and it will come forth white
 (shining) without harm, (this miracle is) among the nine signs to
@@ -825,12 +769,8 @@ their legitimacy manifest, had no similarity to sorcerers.
 Surah An-Naml - Verse 14
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْماً وَعُلُوّاً
-فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْماً وَعُلُوّاً
+> فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
 
 ***14. “And they denied them unjustly and proudly though their hearts
 acknowledged them; consider, then how was the end of the
@@ -963,5 +903,4 @@ the word ‘mischief’.
 [^20]: Surah Al-Baqarah, No. 2, verse 78
 
 [^21]: Kafi, Vol. 2, P. 287
-
 

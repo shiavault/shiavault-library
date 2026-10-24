@@ -583,4 +583,3 @@ topic: The seeker of a mine of diamonds is himself a mine; The seeker of
 the spirit is himself the spirit; I will divulge the secret of this
 matter: You are whatever you seek, you are the object of your quest.
 
-

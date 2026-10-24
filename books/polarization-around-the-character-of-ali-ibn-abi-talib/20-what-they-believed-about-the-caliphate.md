@@ -57,4 +57,3 @@ vol.2, p.308
 
 [^3]: . See ash-Shahrastani, al-Milal wa 'n-nihal, Cairo, 1961
 
-

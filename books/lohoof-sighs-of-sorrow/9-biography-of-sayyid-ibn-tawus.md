@@ -429,4 +429,3 @@ most of them he has written many things about his life; that if all
 those material is collected we may have a complete book in his
 biography.
 
-

@@ -81,4 +81,3 @@ ones.
 
 [^1]: Sharh al-Qawshaji, p. 320.
 
-

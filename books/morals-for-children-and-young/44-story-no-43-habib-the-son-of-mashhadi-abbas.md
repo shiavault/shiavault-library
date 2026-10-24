@@ -16,4 +16,3 @@ pray it”.
 From tomorrow, instead of playing, we will learn namaz from Habib and
 even go to the mosque with him.
 
-

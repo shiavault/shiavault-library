@@ -105,4 +105,3 @@ judgment to Himself.
 
 [^10]: Noble Qur’an, 32:24
 
-

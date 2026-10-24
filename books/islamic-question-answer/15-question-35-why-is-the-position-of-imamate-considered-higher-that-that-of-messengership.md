@@ -268,4 +268,3 @@ Depicted from 'Manshure Jaavidan Quran' written by Jafer Subhani.
 
 (Baqarah:251)
 
-

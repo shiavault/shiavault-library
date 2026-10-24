@@ -20,4 +20,3 @@ Imam az-Zaman (aj) and its interpretation points towards Ghaibat. Here
 the phrase, “But the time became prolonged to them,” refers to the
 period of Ghaibat.
 
-

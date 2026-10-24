@@ -16,16 +16,11 @@ Allah said in the story of Jacob,
 *** ***
 *** ***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللّهِ وَأَعْلَمُ مِنَ اللّهِ
-مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللّهِ وَأَعْلَمُ مِنَ اللّهِ
+> مَا لاَ تَعْلَمُونَ
 
 ***I only complain of my grief and sorrow to Allah, and I know [from
 Allah] what you do not know.*** (12:86)
-
 
 This is because the knowledge gained in the state of sorrow is
 particular to him, and Allah has singled him out for it and left the
@@ -43,5 +38,4 @@ establishment of one's belief in and utter need of Allah by one's
 seeking rescue with Him. The sorrowful person reflects, and he who
 reflects takes note. Each of them has a state, a science, a path,
 forbearance and honour.
-
 

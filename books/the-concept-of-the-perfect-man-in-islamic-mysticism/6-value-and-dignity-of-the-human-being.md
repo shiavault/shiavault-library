@@ -51,4 +51,3 @@ point in human perfection. Whatever stage one reaches he/she can go
 further and further toward the infinite. And this is another advantage
 for human beings among other creatures.
 
-

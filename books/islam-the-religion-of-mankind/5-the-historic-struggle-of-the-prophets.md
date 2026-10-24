@@ -78,7 +78,6 @@ good." Sura Ankabut (29:69)
 "... then We gave the punishment to those who were guilty and helping
 the believers is ever incumbent upon Us." Sura Rum (30:47)
 
-
 **Why we became Muslim?**
 
 In this age of reason and scientific progress, when all religions and
@@ -115,7 +114,6 @@ scientist or scholar compares the Qur'anic verses with his own
 particular field of research, undoubtedly like me, he will realize the
 truth and become a Muslim.
 
-
 Mr. Yacoub Raymond - France
 
 Three important points made me reject Christianity and accept Islam:
@@ -149,7 +147,6 @@ prophethood of all the previous prophets, but that which was revealed to
 him (the holy Qur'an) are the only words of the Almighty , genuinely
 preserved unlike the previously revealed books, (Torah and Gospel) which
 have been badly tampered with and distorted.
-
 
 Professor Roger Garaudy (Rajaa')
 
@@ -379,7 +376,6 @@ and generation and is compatible to all cultures and levels of
 intellect. In brief it is the only platform capable of fostering
 universal brotherhood among mankind.
 
-
 **Islam as Seen by Prominent Western Thinkers**
 
 It is unfortunate that the Christian West instead of sincerely trying
@@ -422,7 +418,6 @@ problems in a way that would bring it the much needed peace and
 happiness: I have prophesied about the faith of Muhammad that it would
 be acceptable to the Europe of tomorrow as it is beginning to be
 acceptable to the Europe of today."
-
 
 George Bernard Shaw
 "The Genuine Islam",
@@ -601,5 +596,4 @@ Praise be to Allah, Lord of the worlds.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 10. "Idhharul Haq" Vol. 2, P.281.
-
 

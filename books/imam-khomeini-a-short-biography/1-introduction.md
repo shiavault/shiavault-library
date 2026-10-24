@@ -23,7 +23,6 @@ than a preliminary sketch, intended to acquaint the reader with the
 outlines of the Imam’s life and the main aspects of his person as an
 Islamic leader of exceptional stature.
 
-
 [^1]: English-born Hamid Algar received his Ph.D. in oriental studies
 from Cambridge. Since 1965, he has served on the faculty of the
 Department of Near Eastern Studies at the University of California,
@@ -38,5 +37,4 @@ political officers and intelligence analysts,” in the words of Nicholas
 Wade, Science magazine. Dr. Algar has translated numerous books from
 Arabic, Turkish, and Persian, including the book Islam and Revolution:
 Writings and Declarations of Imam Khomeini.
-
 

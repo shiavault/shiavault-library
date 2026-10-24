@@ -222,7 +222,6 @@ national or class interests.
 
 **Notes**
 
-
 15. Islamic conception of man's innate nature is different from that of
 Descartes, Kant, etc. Man's innate nature does not mean the actual
 existence of certain amount of understanding or the actual existence of
@@ -252,5 +251,4 @@ with the help of external factors turns a sapling into a tree. This
 relation is not similar to that existing between a plank of wood and a
 chair, for in this case only external factors turn the former into the
 latter.
-
 

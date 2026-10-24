@@ -270,7 +270,6 @@ willed, He would change that. My enemy unjustly banished me from my
 homeland. I am satisfied with what Allah has willed and decreed. [^1] The
 pronoun ‘it’ stands for Marj Athra’.
 
-
 My people have deserted me as if they were not my tribe and people.
 
 Al-Tabari and Ibn al-Athir have mentioned the rest of the poem in which
@@ -747,5 +746,4 @@ hands of one through whose unhappiness Allah makes me happy. -How far! O
 one plentiful in curiosity! What do you think of ‘Uthman bin
 ‘Affan? -What could I possibly say as to him? The people unwillingly
 appointed him as a caliph and killed him while they were satisfied.
-
 

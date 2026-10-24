@@ -19,4 +19,3 @@ patience.”
 Yes, whenever he wanted to console his soul, he went to her grave and
 opened his heart to her.
 
-

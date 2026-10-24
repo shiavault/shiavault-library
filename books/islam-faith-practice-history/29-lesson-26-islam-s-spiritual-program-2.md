@@ -270,4 +270,3 @@ reflection of verse \_\_\_:\_\_\_ of the Qur'an.
 
 [^2]: Al-Usūl al-Kāfi, vol. 2, p. 273.
 
-

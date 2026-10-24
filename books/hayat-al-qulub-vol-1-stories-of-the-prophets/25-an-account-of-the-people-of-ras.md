@@ -252,4 +252,3 @@ They were destroyed as a result of this cruel act. All of them died.
 Their well became useless and the palace of their ruler was razed to the
 ground.
 
-

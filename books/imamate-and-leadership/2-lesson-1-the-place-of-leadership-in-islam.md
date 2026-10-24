@@ -259,4 +259,3 @@ God's command.
 
 [^5]: Ahmad b. Hanbal, al-Musnad, p. 96.
 
-

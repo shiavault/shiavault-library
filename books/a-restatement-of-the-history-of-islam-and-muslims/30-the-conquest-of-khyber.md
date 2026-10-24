@@ -537,4 +537,3 @@ joined the ranks of the Muhajireen. They were both destined to become
 famous in later days as the generals of Abu Bakr and Umar bin al-Khattab
 respectively.
 
-

@@ -35,4 +35,3 @@ civilized’. And religion has ceased to lead the people; it is being led
 by the masses. All these symptoms point to the advanced stage of
 deterioration of our civilization.
 
-

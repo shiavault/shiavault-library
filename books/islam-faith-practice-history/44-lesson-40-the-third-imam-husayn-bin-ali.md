@@ -268,4 +268,3 @@ Question 3: [20 points]
  Why did Imam Husayn choose to fight Yazid whereas Imam Hasan decided to
 make peace with Mu‘āwiyah?
 
-

@@ -6,24 +6,16 @@ under the *Shari’ah* of Muhammad b. ‘Abd Allah, *sallallahu ‘alaihi wa
 alihi*. This is explicitly indicated in this chapter-heading by Imam
 Muslim (d. 261 H):
 
-<blockquote dir="rtl">
-  <p>
-باب نزول عيسى بن مريم حاكما بشريعة نبينا محمد صلى الله عليه و سلم
-  </p>
-</blockquote>
+> باب نزول عيسى بن مريم حاكما بشريعة نبينا محمد صلى الله عليه و سلم
 
 Chapter on the Descent of ‘Isa b. Maryam to Judge with the *Shari’ah* of
 our Prophet Muhammad, Peace Be Upon Him.[^1]
 
 Imam al-Bukhari (d. 256 H) also records this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق أخبرنا يعقوب بن إبراهيم حدثنا أبي عن صالح عن ابن شهاب أن
-سعيد بن المسيب سمع أبا هريرة رضي الله عنه قال : قال رسول الله صلى الله
-عليه و سلم والذي نفسي بيده ليوشكن أن ينزل فيكم ابن مريم حكما عدلا
-  </p>
-</blockquote>
+> حدثنا إسحاق أخبرنا يعقوب بن إبراهيم حدثنا أبي عن صالح عن ابن شهاب أن
+> سعيد بن المسيب سمع أبا هريرة رضي الله عنه قال : قال رسول الله صلى الله
+> عليه و سلم والذي نفسي بيده ليوشكن أن ينزل فيكم ابن مريم حكما عدلا
 
 Ishaq – Ya’qub b. Ibrahim – my father – Salih – Ibn Shihab – Sa’id b.
 al-Musayyab – Abu Hurayrah, may Allah be pleased with him:
@@ -34,12 +26,8 @@ amongst you **as a just** **judge**.”[^2]
 
 Explaining this *riwayat*, al-Hafiz (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-والمعنى أنه ينزل حاكما بهذه الشريعة فان هذه الشريعة باقية لا تنسخ بل
-يكون عيسى حاكما من حكام هذه الأمة
-  </p>
-</blockquote>
+> والمعنى أنه ينزل حاكما بهذه الشريعة فان هذه الشريعة باقية لا تنسخ بل
+> يكون عيسى حاكما من حكام هذه الأمة
 
 The meaning is that he will descend **to judge with this**
 ***Shari’ah***, for this *Shari’ah* is eternal. It will never be
@@ -51,28 +39,16 @@ Meanwhile, it is an undisputable fact that whosoever follows the
 has proceeded to give him an entry in his book on the biographies of
 **the Sahabah**:
 
-<blockquote dir="rtl">
-  <p>
-عيسى المسيح بن مريم الصديقة بنت عمران بن ماهان بن الغار رسول الله
-وكلمته ألقاها إلى مريم
-  </p>
-</blockquote>
+> عيسى المسيح بن مريم الصديقة بنت عمران بن ماهان بن الغار رسول الله
+> وكلمته ألقاها إلى مريم
 
-<blockquote dir="rtl">
-  <p>
-ذكره الذهبي في التجريد مستدركا على من قبله فقال عيسى بن مريم رسول الله
-رأى النبي صلى الله عليه وسلم ليلة الاسراء وسلم عليه فهو نبي وصحابي وهو
-آخر من يموت من الصحابة
-  </p>
-</blockquote>
+> ذكره الذهبي في التجريد مستدركا على من قبله فقال عيسى بن مريم رسول الله
+> رأى النبي صلى الله عليه وسلم ليلة الاسراء وسلم عليه فهو نبي وصحابي وهو
+> آخر من يموت من الصحابة
 
-<blockquote dir="rtl">
-  <p>
-وألغزه القاضي تاج الدين السبكي في قصيدته في آخر القواعد له فقال من
-باتفاق جميع الخلق أفضل من خير الصحاب أبي بكر ومن عمر ومن علي ومن عثمان
-وهو فتى من أمة المصطفى المختار من مضر
-  </p>
-</blockquote>
+> وألغزه القاضي تاج الدين السبكي في قصيدته في آخر القواعد له فقال من
+> باتفاق جميع الخلق أفضل من خير الصحاب أبي بكر ومن عمر ومن علي ومن عثمان
+> وهو فتى من أمة المصطفى المختار من مضر
 
 ‘Isa the Masih b. Maryam the Siddiqah bint ‘Imran b. Mahan b. al-Ghar,
 the messenger of Allah and His Word which He said to Maryam.
@@ -91,12 +67,8 @@ better than ‘Umar, ‘Ali and ‘Uthman. **He is a young man from the**
 
 Imam al-Dhahabi (d. 748 H) further says in his *Siyar*:
 
-<blockquote dir="rtl">
-  <p>
-ولم يسم الله تعالى في كتابه صحابيا باسمه إلا زيد بن حارثة وعيسى بن
-مريم عليه السلام الذي ينزل حكما مقسطا
-  </p>
-</blockquote>
+> ولم يسم الله تعالى في كتابه صحابيا باسمه إلا زيد بن حارثة وعيسى بن
+> مريم عليه السلام الذي ينزل حكما مقسطا
 
 Allah the Most High has not mentioned in His Book **any Sahabi by name
 except Zayd b. Harithah and ‘Isa b. Maryam**, *‘alaihi al-salam*, who
@@ -113,13 +85,9 @@ of the *Ummah*. Of course, he will be a judge who will enforce our
 *Shari’ah*. However, he will, in doing that, be taking orders from a
 higher authority, the *khalifah* of his time. Imam al-Bukhari records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ابن بكير حدثنا الليث عن يونس عن ابن شهاب عن نافع مولى أبي قتادة
-الأنصاري أن أبا هريرة قال: قال رسول الله صلى الله عليه و سلم كييف أنتم
-إذا نزل ابن مريم فيكم وإمامكم منكم .
-  </p>
-</blockquote>
+> حدثنا ابن بكير حدثنا الليث عن يونس عن ابن شهاب عن نافع مولى أبي قتادة
+> الأنصاري أن أبا هريرة قال: قال رسول الله صلى الله عليه و سلم كييف أنتم
+> إذا نزل ابن مريم فيكم وإمامكم منكم .
 
 Ibn Bukayr – al-Layth – Yunus – Ibn Shihab – Nafi’, freed slave of Abu
 Qatadah al-Ansari – Abu Hurayrah:
@@ -130,12 +98,8 @@ you?**”[^6]
 
 Dr. al-Bastawi interprets that in this manner:
 
-<blockquote dir="rtl">
-  <p>
-" فإمامكم منكم " أي أن الإمام يكون غير عيسى، رجل من أمة محمد صلى الله
-عليه وسلم.
-  </p>
-</blockquote>
+> " فإمامكم منكم " أي أن الإمام يكون غير عيسى، رجل من أمة محمد صلى الله
+> عليه وسلم.
 
 “while your Imam will be from you”, that is: **the Imam will NOT be
 ‘Isa**, he will be a man from the *Ummah* of Muhammad, peace be upon
@@ -147,15 +111,11 @@ decree, only people from the Arab tribe of Quraysh can be *khalifahs*;
 and this rule will never change till the Hour. Imam Ibn Abi ‘Asim (d.
 287 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-ثنا أبو صالح هدبة بن عبد الوهاب، حدثنا النضر بن شميل، ثنا شعبة، عن
-حبيب بن الزبير، عن عبد الله بن أبي الهذيل قال: كنا نجالس عمرو ابن
-العاص نذاكره الفقه فقال رجل من بكر لتنتهين قريش أو ليجعلن الله هذا
-الأمر في جمهور من جماهير العرب فقال عمرو بن العاص: كذبت سمعت رسول الله
-صلى الله عليه وسلم يقول: الخلافة في قريش إلى قيام الساعة.
-  </p>
-</blockquote>
+> ثنا أبو صالح هدبة بن عبد الوهاب، حدثنا النضر بن شميل، ثنا شعبة، عن
+> حبيب بن الزبير، عن عبد الله بن أبي الهذيل قال: كنا نجالس عمرو ابن
+> العاص نذاكره الفقه فقال رجل من بكر لتنتهين قريش أو ليجعلن الله هذا
+> الأمر في جمهور من جماهير العرب فقال عمرو بن العاص: كذبت سمعت رسول الله
+> صلى الله عليه وسلم يقول: الخلافة في قريش إلى قيام الساعة.
 
 Abu Salih Hudbah b. ‘Abd al-Wahhab – al-Nadhr b. Shumayl – Shu’bah –
 Habib b. al-Zubayr – ‘Abd Allah b. Abi al-Hudhayl:
@@ -169,23 +129,15 @@ Hour**.’”[^8]
 
 And ‘Allamah al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده جيد
-  </p>
-</blockquote>
+> إسناده جيد
 
 Its chain is good.[^9]
 
 Imam Abu Ya’la (d. 307 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا الحسن بن إسماعيل أبو سعيد بالبصرة حدثنا إبراهيم بن سعد عن أبيه
-عن أنس رضي الله عنه قال : قال رسول الله صلى الله عليه و سلم : الأئمة
-من قريش
-  </p>
-</blockquote>
+> حدثنا الحسن بن إسماعيل أبو سعيد بالبصرة حدثنا إبراهيم بن سعد عن أبيه
+> عن أنس رضي الله عنه قال : قال رسول الله صلى الله عليه و سلم : الأئمة
+> من قريش
 
 Al-Hasan b. Isma’il Abu Sa’id – Ibrahim b. Sa’d – his father – Anas, may
 Allah be pleased with him:
@@ -195,11 +147,7 @@ Quraysh**.”[^10]
 
 Shaykh Dr. Asad says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^11]
 
@@ -208,13 +156,9 @@ running the *khilafah*. He can only pledge allegiance to and take orders
 from a supreme royal ruler from Quraysh. Imam al-Tirmidhi (d. 279 H)
 documents too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن منيع حدثنا زيد بن حباب حدثنا معاوية بن صالح حدثنا أبو
-مريم الأنصاري عن أبي هريرة قال قال رسول الله صلى الله عليه و سلم الملك
-في قريش
-  </p>
-</blockquote>
+> حدثنا أحمد بن منيع حدثنا زيد بن حباب حدثنا معاوية بن صالح حدثنا أبو
+> مريم الأنصاري عن أبي هريرة قال قال رسول الله صلى الله عليه و سلم الملك
+> في قريش
 
 Ahmad b. Mani’ – Zayd b. Hubbab – Mu’awiyah b. Salih – Abu Maryam
 al-Ansari – Abu Hurayrah:
@@ -224,11 +168,7 @@ Quraysh**.”[^12]
 
 Al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^13]
 
@@ -239,13 +179,9 @@ Masih and the *khalifah* of his time will explain the matter clearly by
 deeds. Normally, the Imam of the *Ummah* cannot be led in *salat* by any
 of his subjects. Imam al-Nasai (d. 303 H) records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا إبراهيم بن محمد التيمي قال حدثنا يحيى بن سعيد عن شعبة عن
-إسماعيل بن رجاء عن أوس بن ضمعج عن أبي مسعود قال قال رسول الله صلى الله
-عليه و سلم لا يؤم الرجل في سلطانه ولا يجلس على تكرمته إلا بإذنه
-  </p>
-</blockquote>
+> أخبرنا إبراهيم بن محمد التيمي قال حدثنا يحيى بن سعيد عن شعبة عن
+> إسماعيل بن رجاء عن أوس بن ضمعج عن أبي مسعود قال قال رسول الله صلى الله
+> عليه و سلم لا يؤم الرجل في سلطانه ولا يجلس على تكرمته إلا بإذنه
 
 Ibrahim b. Muhammad al-Taymi – Yahya b. Sa’id – Shu’bah – Isma’il b.
 Raja – Aws b. Dham’aj – Abu Mas’ud:
@@ -256,11 +192,7 @@ in his place of honour except with his permission.”[^14]
 
 And al-Albani declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^15]
 
@@ -271,16 +203,12 @@ master of the *Ummah*. However, if he rejects it, in that case he
 submits to the authority and leadership of the *khalifah*. Imam Muslim
 here presents how this will be resolved:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا الوليد بن شجاع وهارون بن عبدالله وحجاج بن الشاعر قالوا حدثنا
-حجاج (وهو ابن محمد) عن ابن جريج قال أخبرني أبو الزبير أنه سمع جابر بن
-عبدالله يقول سمعت النبي صلى الله عليه و سلم يقول لا تزال طائفة من أمتي
-يقاتلون على الحق ظاهرين إلى يوم القيامة قال فينزل عيسى بن مريم صلى
-الله عليه و سلم فيقول أميرهم تعال صل لنا فيقول لا إن بعضكم على بعض
-أمراء تكرمة الله هذه الأمة
-  </p>
-</blockquote>
+> حدثنا الوليد بن شجاع وهارون بن عبدالله وحجاج بن الشاعر قالوا حدثنا
+> حجاج (وهو ابن محمد) عن ابن جريج قال أخبرني أبو الزبير أنه سمع جابر بن
+> عبدالله يقول سمعت النبي صلى الله عليه و سلم يقول لا تزال طائفة من أمتي
+> يقاتلون على الحق ظاهرين إلى يوم القيامة قال فينزل عيسى بن مريم صلى
+> الله عليه و سلم فيقول أميرهم تعال صل لنا فيقول لا إن بعضكم على بعض
+> أمراء تكرمة الله هذه الأمة
 
 Al-Walid b. Shuja’, Harun b. ‘Abd Allah and Hajjaj b. al-Sha’ir – Hajjaj
 b. Muhammad – Ibn Jurayj – Abu al-Zubayr – Jabir b. ‘Abd Allah:
@@ -296,21 +224,13 @@ is the honour of Allah to this *Ummah*.’”[^16]
 The Masih rejects the offer and performs *salat* behind the *amir*.
 Al-Albani records that the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-منا الذي يصلي عيسى بن مريم خلفه
-  </p>
-</blockquote>
+> منا الذي يصلي عيسى بن مريم خلفه
 
 The one behind whom ‘Isa b. Maryam will perform *salat* is from us.[^17]
 
 Then, he comments:
 
-<blockquote dir="rtl">
-  <p>
-فالحديث عندي صحيح
-  </p>
-</blockquote>
+> فالحديث عندي صحيح
 
 The *hadith*, in my view, is *sahih*[^18]
 
@@ -324,13 +244,9 @@ Who then will this *amir* be, who will give commands to ‘Isa?
 Dr. al-Bastawi has copied a *hadith* which identifies for us the Imam of
 the *Ummah* during ‘Isa’s Second Coming:
 
-<blockquote dir="rtl">
-  <p>
-عن جابر قال: قال رسول الله صلى الله عليه وسلم :ينزل عيسى بن مريم فيقول
-أميرهم المهدي: تعال صل بنا. فيقول: لا، إن بعضهم أمير بعض. تكرمة الله
-لهذه الأمة .
-  </p>
-</blockquote>
+> عن جابر قال: قال رسول الله صلى الله عليه وسلم :ينزل عيسى بن مريم فيقول
+> أميرهم المهدي: تعال صل بنا. فيقول: لا، إن بعضهم أمير بعض. تكرمة الله
+> لهذه الأمة .
 
 Narrated Jabir:
 
@@ -342,32 +258,20 @@ us in *salat*.’ But, he will reply, ‘No. Verily, some of them are the
 After quoting its sources and extensively examining its narrators, he
 concludes:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*[^20]
 
 He also documents:
 
-<blockquote dir="rtl">
-  <p>
-عن ابن سيرين قال :المهدي من هذه الأمة وهو الذي يؤم عيسى بن مريم .
-  </p>
-</blockquote>
+> عن ابن سيرين قال :المهدي من هذه الأمة وهو الذي يؤم عيسى بن مريم .
 
 Ibn Sirrin said: “**The Mahdi** is from this *Ummah*, **and he will be
 the Imam of ‘Isa b. Maryam**.”[^21]
 
 And he has this verdict on it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح. رجاله كلهم ثقات.
-  </p>
-</blockquote>
+> إسناده صحيح. رجاله كلهم ثقات.
 
 Its chain is *sahih*. Its narrators are trustworthy.[^22]
 
@@ -378,15 +282,11 @@ part of life on earth, as ‘Isa will come at that time. Something to note
 also is that the Mahdi will actually rule the last section of our
 *Ummah*, as Imam al-Hakim (d. 403 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
-النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
-الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
-أمتي المهدي يسقيه الله الغيث وتخرج الأرض نباتها ويعطى المال صحاحا
-وتكثر الماشية وتعظم الأمة يعيش سبعا أو ثمانيا يعني حججا
-  </p>
-</blockquote>
+> أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
+> النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
+> الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
+> أمتي المهدي يسقيه الله الغيث وتخرج الأرض نباتها ويعطى المال صحاحا
+> وتكثر الماشية وتعظم الأمة يعيش سبعا أو ثمانيا يعني حججا
 
 Abu al-‘Abbas Muhammad b. Ahmad al-Mahbubi – Sa’id b. Mas’ud – al-Nadhr
 b. Shumayl – Sulayman b. ‘Ubayd – Abu al-Siddiq al-Naji – Abu Sa’id
@@ -400,41 +300,25 @@ become great**. He will witness seven or eight *Hajjs*.[^23]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^24]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^25]
 
 Al-Albani also says about the *hadith* in his *Sahihah*:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا سند صحيح
-  </p>
-</blockquote>
+> قلت: وهذا سند صحيح
 
 I say: This chain is *sahih*[^26]
 
 Dr. al-Bastawi has the same verdict on it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^27]
 
@@ -535,5 +419,4 @@ al-Tawzi’; 1st edition, 1415 H), vol. 2, p. 328, \# 711
 fi Dhaw-i al-Ahadith wa al-Athar al-Sahihah wa Aqwal al-‘Ulama wa Ara
 al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), p.
 165
-
 

@@ -40,12 +40,8 @@ ensconced in that world. They actually live in and for that world.
 
 Talking about such people, Imam Sajjad (a.s) says,
 
-<blockquote dir="rtl">
-  <p>
-لأن الله تبارك و تعالى أعطاهم من العقول و الافهام و المعرفة ما صارت به
-الغَيْبَة عندهم بمنزلة الشهادة
-  </p>
-</blockquote>
+> لأن الله تبارك و تعالى أعطاهم من العقول و الافهام و المعرفة ما صارت به
+> الغَيْبَة عندهم بمنزلة الشهادة
 
 “This is because Allah has granted them such intellect, understand and
 recognition that for them occultation is the same as witnessing.”[^1]
@@ -56,5 +52,4 @@ circumstances; we must look forward to the divine, golden and bright
 future and wait for it with our entire being.
 
 [^1]: (Kamaal al- Deen, vol. 1, p. 320, Chapter 31, Tr. No.2)
-
 

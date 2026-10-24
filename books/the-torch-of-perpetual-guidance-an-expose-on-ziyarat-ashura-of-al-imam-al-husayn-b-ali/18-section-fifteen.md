@@ -1,15 +1,11 @@
 Section Fifteen
 ===============
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبا عَبْدِ اللّهِ، إِنِّي أَتَقَرَّبُ إِلَى اللّهِ، وَإِلى
-رَسُولِهِ، وَإِلى أَمِيرِ الْمُؤْمِنِينَ، وَإِلى فاطِمَةَ، وَإِلَى
-الْحَسَنِ، وَإِلَيْكَ بِمُوَالاتِكَ، وَبِالْبَراءَةِ مِـمَّـنْ أَسَّسَ
-أَسَاسَ ذلِكَ وَبَنى عَلَيْهِ بُنْيانَهُ، وَجَرى فِي ظُلْمِهِ
-وَجَوْرِهِ عَلَيْكُمْ وَعَلَى أَشْياعِكُمْ.
-  </p>
-</blockquote>
+> يَا أَبا عَبْدِ اللّهِ، إِنِّي أَتَقَرَّبُ إِلَى اللّهِ، وَإِلى
+> رَسُولِهِ، وَإِلى أَمِيرِ الْمُؤْمِنِينَ، وَإِلى فاطِمَةَ، وَإِلَى
+> الْحَسَنِ، وَإِلَيْكَ بِمُوَالاتِكَ، وَبِالْبَراءَةِ مِـمَّـنْ أَسَّسَ
+> أَسَاسَ ذلِكَ وَبَنى عَلَيْهِ بُنْيانَهُ، وَجَرى فِي ظُلْمِهِ
+> وَجَوْرِهِ عَلَيْكُمْ وَعَلَى أَشْياعِكُمْ.
 
 “O’ Aba ‘Abdillah! Surely I seek closeness to Allah and to His Messenger
 and to the Commander of the Faithful and to Fatimah and to Hasan and to
@@ -46,5 +42,4 @@ distance ourselves and make known our aversion to those people who
 oppressed and mercilessly killed the family of the Prophet – we have
 mentioned who these people are in our previous discussions and more
 shall be mentioned in this Ziyarat, Insha-Allah.
-
 

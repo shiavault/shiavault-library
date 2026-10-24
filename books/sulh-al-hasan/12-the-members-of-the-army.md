@@ -43,11 +43,7 @@ obligation. For Islam has showed people two ways (i.e., the way of good
 and the way of evil). Moreover, it has helped them to choose the way of
 good through guidance***:***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ
 
 ***"And (as for) those who strive hard for us, We will most certainly
 guide them to Our ways."*** (Qur'an 29:69).
@@ -416,5 +412,4 @@ reported, and which the modern historians should understand.
 [^7]: In his book [al-Malahim wa al-Fitan, p. 142, (Najaf, 1368)], Ibn
 Tawus has narrated: "And the other was killed at (the Battle of) Nahrwan
 and you avenge his blood on us."
-
 

@@ -4,13 +4,9 @@ Section 14: Qur’an Brought Down by the Holy Spirit
 Surah An-Nahl – Verse 101
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا بَدَّلْنَآ ءَايَةً مَّكَانَ ءَايَةٍ وَاللَّهُ أَعْلَمُ بِمَا
-يُنَزّ‌ِلُ قَالُوا إِنَّمَآ أَنتَ مُفْتَرٍ بَلْ أَكْثَرُهُمْ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وإِذَا بَدَّلْنَآ ءَايَةً مَّكَانَ ءَايَةٍ وَاللَّهُ أَعْلَمُ بِمَا
+> يُنَزّ‌ِلُ قَالُوا إِنَّمَآ أَنتَ مُفْتَرٍ بَلْ أَكْثَرُهُمْ لاَ
+> يَعْلَمُونَ
 
 ***101. “And when We exchange a verse in the place of another verse, and
 Allah is well aware of what He sends down, they say: ‘You are only a
@@ -91,12 +87,8 @@ environmental conditions in mind. Allah knows.
 Surah An-Nahl – Verse 102
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِن رَّبّـِكَ بِالْحَقّ‌ِ لِيُثَبّـِتَ
-الَّذِينَ ءَامَنُوا وَهُدًي وَبُشْرَي لِلْمُسْلِمِينَ
-  </p>
-</blockquote>
+> قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِن رَّبّـِكَ بِالْحَقّ‌ِ لِيُثَبّـِتَ
+> الَّذِينَ ءَامَنُوا وَهُدًي وَبُشْرَي لِلْمُسْلِمِينَ
 
 ***102. “Say: ‘The Holy Spirit has brought it down (unto you) from your
 Lord with the truth, in order to confirm those who believe, and to be a
@@ -159,13 +151,9 @@ Qur’an, can be taken as an indication to the above kinds of descent.
 Surah An-Nahl – Verse 103
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلّـِمُهُ بَشَرٌ
-لّـِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَذَا لِسَانٌ
-عَرَبِيٌّ مُبِينٌ
-  </p>
-</blockquote>
+> وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلّـِمُهُ بَشَرٌ
+> لّـِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَذَا لِسَانٌ
+> عَرَبِيٌّ مُبِينٌ
 
 ***103. “And certainly We know that they say: ‘Only a mortal teaches
 him’. The language of him at whom they hint is outlandish, while this
@@ -231,12 +219,8 @@ information from the part of non-Arabs, they used to call others as
 Surah An-Nahl – Verse 104
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِاَيَاتِ اللَّهِ لاَ يَهْدِيهِمُ
-اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِاَيَاتِ اللَّهِ لاَ يَهْدِيهِمُ
+> اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***104. “Verily, those who do not believe in the signs of Allah, Allah
 will not guide them and they will have a painful punishment.”***
@@ -265,12 +249,8 @@ would be left to their own.
 Surah An-Nahl – Verse 105
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لاَ يُؤْمِنُونَ بِاَيَاتِ
-اللَّهِ وَاُوْلَئِكَ هُمُ الْكَاذِبُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لاَ يُؤْمِنُونَ بِاَيَاتِ
+> اللَّهِ وَاُوْلَئِكَ هُمُ الْكَاذِبُونَ
 
 ***105. “Only they forge falsehood who do not believe in Allah’s signs,
 and they themselves are liars.”***
@@ -332,13 +312,9 @@ is in the form of a joke or is seriously said.”* [^7]
 Surah An-Nahl – Verse 106
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَن كَفَرَ بِاللَّهِ مِن بَعْدِ إِيمَانِهِ إِلاَّ مَنْ اُكْرِهَ
-وَقَلْبُهُ مُطْمَئِنٌّ بِالإِيمَانِ وَلَكِن مَّن شَرَحَ بِالْكُفْرِ
-صَدْراً فَعَلَيْهِمْ غَضَبٌ مِنَ اللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> مَن كَفَرَ بِاللَّهِ مِن بَعْدِ إِيمَانِهِ إِلاَّ مَنْ اُكْرِهَ
+> وَقَلْبُهُ مُطْمَئِنٌّ بِالإِيمَانِ وَلَكِن مَّن شَرَحَ بِالْكُفْرِ
+> صَدْراً فَعَلَيْهِمْ غَضَبٌ مِنَ اللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ
 
 ***106. “He who disbelieves in Allah after believing in Him; not he who
 has been compelled, while his heart is still content with the faith, but
@@ -417,12 +393,8 @@ the secrets of Islamic society to fall into the hands of the enemies.
 Surah An-Nahl – Verse 107
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِاَنَّهُمُ اسْتَحَبُّوا الْحَيَاةَ الدُّنْيَا عَلَي الاَخِرَةِ
-وَأَنَّ اللَّهَ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> ذَلِكَ بِاَنَّهُمُ اسْتَحَبُّوا الْحَيَاةَ الدُّنْيَا عَلَي الاَخِرَةِ
+> وَأَنَّ اللَّهَ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ
 
 ***107. “That (Divine wrath) is because they have preferred the worldly
 life over the Hereafter, and definitely Allah does not guide the infidel
@@ -459,12 +431,8 @@ of apostasy, and, consequently, entanglement in the Divine outrage.
 Surah An-Nahl – Verse 108
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَي قُلُوبِهِمْ وَسَمْعِهِمْ
-وَأَبْصَارِهِمْ وَاُوْلَئِكَ هُمُ الْغَافِلُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَي قُلُوبِهِمْ وَسَمْعِهِمْ
+> وَأَبْصَارِهِمْ وَاُوْلَئِكَ هُمُ الْغَافِلُونَ
 
 ***108. “They are those on whose hearts, and their ears and eyes Allah
 has set a seal, and these are the heedless ones.”***
@@ -492,11 +460,7 @@ The holy verse concludes:
 Surah An-Nahl – Verse 109
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ جَرَمَ أَنَّهُمْ فِي الاَخِرَةِ هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> لاَ جَرَمَ أَنَّهُمْ فِي الاَخِرَةِ هُمُ الْخَاسِرُونَ
 
 ***109. “Undoubtedly, they are the losers in the Hereafter.”***
 
@@ -517,12 +481,8 @@ and loses all of those merits because of his whimsical desire!
 Surah An-Nahl – Verse 110
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا مِن بَعْدِ مَا فُتِنُوا ثُمَّ
-جَاهَدُوا وَصَبَرُوا إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا مِن بَعْدِ مَا فُتِنُوا ثُمَّ
+> جَاهَدُوا وَصَبَرُوا إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
 
 ***110. “Definitely, your Lord unto those who have migrated after being
 persecuted, then they struggled and patiently persevered; verily your
@@ -594,5 +554,4 @@ is acceptable.
 
 [^8]: Tafsir Qurtubi, Safi, Burhan and Majma‘-ul-Bayan and the books of
 Muslim scholars concerning the issue of concealing of faith.
-
 

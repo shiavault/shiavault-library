@@ -46,7 +46,5 @@ Therefore the Islamic philosophy inculcates the feeling of peace and
 tranquility. The materialistic philoso- phy injects tension, competition
 and conflict among people.
 
-
 THE END
-
 

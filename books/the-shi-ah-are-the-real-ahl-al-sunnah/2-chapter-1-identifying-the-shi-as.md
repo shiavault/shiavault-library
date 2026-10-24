@@ -211,13 +211,13 @@ are not familiar with the straight religion of Allah as brought by
 Muhammad, the master of all messengers, the responsibility falls upon
 the shoulders of all Muslims.
 
-[^6] Refer to p. 189, Vol. 8, of Lisan al-Arab lexicon by Abul-Fadl
+[^6]: Refer to p. 189, Vol. 8, of Lisan al-Arab lexicon by Abul-Fadl
 Jamal ad-Din Muhammad Ibn Manzur (630 - 711 A.H./1233 - 1311 A.D.).
 
-[^7] We will conclude, when we come to the end of this book, that the
+[^7]: We will conclude, when we come to the end of this book, that the
 conduct of some Shi\`a commoners discourages educated Sunni youths from
 continuing their research to discover the truth.
 
-[^8] As did, indeed, happen to the author of this book and to many
+[^8]: As did, indeed, happen to the author of this book and to many
 others. \_\_ Tr.
 

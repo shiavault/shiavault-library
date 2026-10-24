@@ -16,11 +16,7 @@ instructions of Imam Ali ibn Abi Talib.
 (1) Yaa Allaahu {66}
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-يَااَلله
-  </p>
-</blockquote>
+> يَااَلله
 
 Allah is the (proper) name of God. "Allah" is cited 2607 times in the
 holy Qur’an.
@@ -46,11 +42,7 @@ Many *ulamah* (religious scholars) have said that this could be the
 
 There are innumerable merits of the following *dua'a:*
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلهَ إِلاَّ اللهُ
-  </p>
-</blockquote>
+> لاَ إِلهَ إِلاَّ اللهُ
 
 ‘Laa Ilaaha Illallaah’
 
@@ -90,11 +82,7 @@ person who has recited the same a greater number of times."
 (2) Al Ah'adu (The One) {13}
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَلاَحَدُ
-  </p>
-</blockquote>
+> اَلاَحَدُ
 
 (a) To work a cure of snake-bite, recite 100 times.  
  (b) He, who recites it 1000 times, in solitude, feels as if he is in
@@ -104,11 +92,7 @@ the company of angels.
 (3) Al Awwalu (The Foremost) {37}
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الأول
-  </p>
-</blockquote>
+> الأول
 
 (a) To bring to a successful completion any job say: Al Awwalu.
 
@@ -122,11 +106,7 @@ regularly.
 (4) Al Aakhiru (The Last) {801}
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الأخر
-  </p>
-</blockquote>
+> الأخر
 
 Whatever work taken in hand wins permanent success if Al Aakhiru is
 recited regularly. Love and respect of all wait in every walk of life.
@@ -136,11 +116,7 @@ undertaking.
 (5) Al A'liyyu (The Highest) {110}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-العلي
-  </p>
-</blockquote>
+> العلي
 
 (a) Everyone shows respect and does honour to that person who recite Al
 A'liyyu very many times.
@@ -154,11 +130,7 @@ the great name of Allah.
 (6) Al A'leemu (The All-Knowing) {150}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-العليم
-  </p>
-</blockquote>
+> العليم
 
 (a) If recited 6 times, after every obligatory prayer, it unravels the
 secrets of nature.
@@ -174,11 +146,7 @@ days, keeps away starvation forever.
 (7) Al A'zeezu (The Mighty) {94}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-العزيز
-  </p>
-</blockquote>
+> العزيز
 
 (a) If recited 13 times a day regularly, it brings ample wealth.
 
@@ -191,11 +159,7 @@ power.
 (8) Al A'adilu (The Just) {105}
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-العادل
-  </p>
-</blockquote>
+> العادل
 
 (a) If recited regularly, ambiguous or hidden events and actions are
 made known, which help to arrive at just judgements and correct
@@ -209,11 +173,7 @@ favourably by the help of Almighty Allah.
 (9) Al A'fuwwu (The Pardoner) {156}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-العفو
-  </p>
-</blockquote>
+> العفو
 
 To get the blessings of Allah, and to avoid sins, recite ‘Al A'fuwwu’ as
 many times as possible, particularly it is very effective if recited 12
@@ -222,11 +182,7 @@ times after every obligatory prayer.
 (10) Al Akramu (The Gracious) {261}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الاكرم
-  </p>
-</blockquote>
+> الاكرم
 
 (a) Recite ‘Al Akramu’ after every obligatory prayer, and at the time of
 going to sleep, to achieve eminence.
@@ -238,11 +194,7 @@ to ask forgiveness throughout the night for the person, who has recited
 (11) Ala'z'eemu (The Magnificent) {1020}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-العظيم
-  </p>
-</blockquote>
+> العظيم
 
 (a) To command respect in influential circles, and to develop a forceful
 personality, make a habit of reciting ‘Al A'z'eemu’.
@@ -252,11 +204,7 @@ personality, make a habit of reciting ‘Al A'z'eemu’.
 (12) Al Ba’edu (The Distant) {86}
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-البعيد
-  </p>
-</blockquote>
+> البعيد
 
 If recited regularly carnal passions and mundane desires give way to
 piety and holiness.
@@ -264,11 +212,7 @@ piety and holiness.
 (13) Al Baasit'u (The Spreader) {72}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الباسط
-  </p>
-</blockquote>
+> الباسط
 
 To be free, forever, from the humiliation of asking for satisfaction of
 all needs and necessities from other persons, recite ‘Al Baseet'u’ 9
@@ -279,11 +223,7 @@ obligatory prayer.
 (14) Al Barru (The Good) {202}
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-البر
-  </p>
-</blockquote>
+> البر
 
 (a) If recited regularly, it gives inspiration to act piously; and
 removes hardships; creates love of Allah; and children have long lives.
@@ -294,11 +234,7 @@ that child at every stage of life.
 (15) Al Baariyu (The Originator) {213}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الباري
-  </p>
-</blockquote>
+> الباري
 
 (a) If recited daily, the dead body of the reciter, after death, will
 not decompose in the grave.
@@ -309,11 +245,7 @@ child.
 (16) Al Bas'eeru (The All-Seeing) {302}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-البصير
-  </p>
-</blockquote>
+> البصير
 
 (a) To get special blessings of Allah, recite a great deal on Fridays.
 
@@ -323,11 +255,7 @@ blindness, and also to improve eyesight.
 (17) Al Baaqee (The Survivor) {113}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الباقي
-  </p>
-</blockquote>
+> الباقي
 
 If recited 113 times regularly every day it brings prosperity, disperses
 troubles, and drives away enemies.
@@ -335,11 +263,7 @@ troubles, and drives away enemies.
 (18) Al Badee’u' (The Designer) {86}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-البديع
-  </p>
-</blockquote>
+> البديع
 
 (a) Recite 1000 times, in a single sitting, or 86 times daily for 14
 consecutive days, to seek fulfillment of any particular legitimate
@@ -350,11 +274,7 @@ desire.
 (19) Al Baa’ithu (The Resurrrector) {573}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الباعث
-  </p>
-</blockquote>
+> الباعث
 
 (a) Recite 100 times before going to bed and rub the palms on the chest,
 Allah will strengthen the heart with divine knowledge.
@@ -368,11 +288,7 @@ officer.
 (20) Al Baat'inu (The Inward) {62}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الباطن
-  </p>
-</blockquote>
+> الباطن
 
 (a) If recited regularly no one will know the secrets of the reciter.
 
@@ -381,11 +297,7 @@ officer.
 (21) Ad Dayyaanu (The Rewarder) {65}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الديان
-  </p>
-</blockquote>
+> الديان
 
 The recitation of ‘Ad Dayyaanu’ is very helpful in cultivating the
 religious virtues.
@@ -393,11 +305,7 @@ religious virtues.
 (22) Al Fattaah’u (The Opener) {489}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الفتاح
-  </p>
-</blockquote>
+> الفتاح
 
 (a) If recited 70 times after Fajr *salat,* keeping the right hand on
 the chest, all doubts are cleared and power of perception improves.
@@ -408,11 +316,7 @@ worries are cleared away.
 (23) Al Fardu (The Single) {284}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الفرد
-  </p>
-</blockquote>
+> الفرد
 
 To achieve distinction and originality in the company of people recite
 ‘Al Fardu’ 284 times daily.
@@ -420,22 +324,14 @@ To achieve distinction and originality in the company of people recite
 (24) Al Faat'iru (The Maker) {290}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الفاطر
-  </p>
-</blockquote>
+> الفاطر
 
 To make difficult task easy recite ‘Al Faat'iru’ 290 times daily.
 
 (25) Al Faaliqu (The Producer) {211}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الفالق
-  </p>
-</blockquote>
+> الفالق
 
 To find the right direction when one loses one's way anywhere recite ‘Al
 Faaliqu’ 211 times.
@@ -443,11 +339,7 @@ Faaliqu’ 211 times.
 (26) Al Ghaffaaru (The Oft-Forgiver) {1281}
 -------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الغفار
-  </p>
-</blockquote>
+> الغفار
 
 If recited 1281 times after Friday prayers regularly, Allah, if He so
 wills, absolves the reciter from the accountability of all sins.
@@ -455,11 +347,7 @@ wills, absolves the reciter from the accountability of all sins.
 (27) Al Ghafooru (The Forgiver) {1286}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الغفور
-  </p>
-</blockquote>
+> الغفور
 
 (a) To conceal one's private affairs from the sight or notice of others
 recite ‘Al Ghafooru’ 70 times daily for 3 days over some sand and drop
@@ -476,21 +364,13 @@ enticements put up by Shaytan.
 (28) Al Ghaniyyu (The Independent) {1060}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الغني
-  </p>
-</blockquote>
+> الغني
 
 (a) To become rich and prosperous: Recite 1200 in one sitting.  
  Recite 10000 times every week for 10 consecutive weeks.  
  Recite ‘Al Ghaniyyul Mughnee’
 
-<blockquote dir="rtl">
-  <p>
-الغني المغني
-  </p>
-</blockquote>
+> الغني المغني
 
 10000 times every Friday for 10 consecutive Fridays. (Do not eat meat
 during the entire period of recitation).
@@ -501,11 +381,7 @@ her.
 (29) Al Haadee (The Guide) {20}
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الهادي
-  </p>
-</blockquote>
+> الهادي
 
 (a) To get more knowledge and wisdom recite 20 times daily.
 
@@ -515,11 +391,7 @@ of the time.
 (30) Al H'aleemu (The Indulgent) {88}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحليم
-  </p>
-</blockquote>
+> الحليم
 
 (a) If recited a great deal regularly the reciter will never be
 oppressed or subdued.
@@ -531,11 +403,7 @@ pure water and use this water to clean the tools and instruments.
 (31) Al H'ayyul Qayyoomu (The Ever-Living Self-Subsisting) {18+156=174}
 -----------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحي القيوم
-  </p>
-</blockquote>
+> الحي القيوم
 
 (a) If recited 12 times after every obligatory prayer regularly, it
 cures eye ailments and prolonged sickness.
@@ -551,11 +419,7 @@ on it.
 (32) Al H'ameedu (The Praiseworthy) {62}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحميد
-  </p>
-</blockquote>
+> الحميد
 
 (a) To have the knowledge of all things and to understand the nature of
 creation, recite ‘Al H'ameedu’ as many times as possible.
@@ -571,11 +435,7 @@ creation, recite ‘Al H'ameedu’ as many times as possible.
 (33) Al H'afeez'u (The Guardian) {998}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحفيظ
-  </p>
-</blockquote>
+> الحفيظ
 
 (a) If recited 998 times no one will harm the reciter, and it drives
 away fear, and keeps safe from all types of accidents, including
@@ -593,11 +453,7 @@ safe from the evil of all harmful creatures.
 (34) Al H'aafiz'u (The Preserver) {989}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحافظ
-  </p>
-</blockquote>
+> الحافظ
 
 (a) Recite 989 times to avoid cruelty of a tyrant.
 
@@ -606,11 +462,7 @@ safe from the evil of all harmful creatures.
 (35) Al H'aqqu (The Truth) {108}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحق
-  </p>
-</blockquote>
+> الحق
 
 (a) If recited after every obligatory prayer, it increases livelihood.
 
@@ -623,11 +475,7 @@ the sky, all important jobs are quickly completed.
 (36) Al H'aseebu (The Reckoner) {80}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحسيب
-  </p>
-</blockquote>
+> الحسيب
 
 (a) If recited 80 times daily for 7 weeks, starting from Thursday, all
 jobs are easily completed; all legitimate desires are fulfilled; and all
@@ -639,11 +487,7 @@ recite 80 times before sunrise.
 (37) Al H'akeemu (The Wise) {78}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الحكيم
-  </p>
-</blockquote>
+> الحكيم
 
 (a) To have a bumper crop, write ‘Al H'akeemu’ with saffron, wash it
 with clean water, and spray this water over the tilled lands.
@@ -657,11 +501,7 @@ daily after *tahajjud* prayers.
 (38) Al Jabbaaru (The Omnipotent) {206}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الجبار
-  </p>
-</blockquote>
+> الجبار
 
 (a) To keep oneself safe from tyranny recite 8 times daily.
 
@@ -673,11 +513,7 @@ kept safe from the evil of all harmful creatures.
 (39) Al Jaleelu (The Magnificent) {73}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الجليل
-  </p>
-</blockquote>
+> الجليل
 
 (a) Recite 73 times daily to obtain a prestigious, grand and eminent
 status in life.
@@ -688,11 +524,7 @@ honour and respect.
 (40) Al Jameelu (The Beautiful) {83}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الجميل
-  </p>
-</blockquote>
+> الجميل
 
 If recited many times regularly, it illuminates the face, enlightens the
 heart, and clears up the mind.
@@ -700,11 +532,7 @@ heart, and clears up the mind.
 (41) Al Jawaadu (The Generous) {14}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الجواد
-  </p>
-</blockquote>
+> الجواد
 
 (a) Recite 14 times daily to develop the qualitles of charitableness and
 goodliness.
@@ -714,11 +542,7 @@ goodliness.
 (42) Al Jaami-u' (The Gatherer) {114}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الجامع
-  </p>
-</blockquote>
+> الجامع
 
 (a) To recover missing or miplaced things recite 114 times.
 
@@ -728,11 +552,7 @@ times daily after every obligatory prayer.
 (43) Al Khabeeru (The All-Aware) {812}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الخبير
-  </p>
-</blockquote>
+> الخبير
 
 (a) Recite 812 times before going to sleep to have the vision of any
 unknown thing, event or person, in the dream.
@@ -746,11 +566,7 @@ to Allah for showing the right way i.e. istikharah).
 (44) Al Khaalis'u (The Pure) {721}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الخالص
-  </p>
-</blockquote>
+> الخالص
 
 (a) Recite 721 times to hear glad tidings in the grave, after death.
 
@@ -760,11 +576,7 @@ the last breath of life.
 (45) Al Khaaliqu (The Creator) {731}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الخالق
-  </p>
-</blockquote>
+> الخالق
 
 (a) If recited 731 times for one week, it keeps the reciter safe from
 the calamities of the heavens and the earth.
@@ -776,11 +588,7 @@ invisible object; also it purifies the heart and the mind.
 (46) Al Kabeeru (The Greatest) {232}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الكبير
-  </p>
-</blockquote>
+> الكبير
 
 (a) Recite a great deal to attain eminence and distinction.
 
@@ -795,11 +603,7 @@ Kabeeru’ many times.
 (47) Al Kareemu (The Kind) {270}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الكريم
-  </p>
-</blockquote>
+> الكريم
 
 (a) If recited on bed till one goes to sleep, Allah appoints angels to
 pray for the reciter; also all kinds of fears are dispelled.
@@ -810,11 +614,7 @@ dignity and prosperity.
 (48) Al Kaafiyu (The Effective) {111}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الكافي
-  </p>
-</blockquote>
+> الكافي
 
 (a) If recited 111 times daily, Allah bestows so many benefits and
 bounties that the reciter never feels the necessity to ask for anything
@@ -825,31 +625,19 @@ from anybody.
 (49) Al Kaashifu (The Disperser) {401}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الكاشف
-  </p>
-</blockquote>
+> الكاشف
 
 Recite ‘Yaa Kaashifa Z’urri Ayyooba’ (O He Who removed the hardship of
 Ayyub)
 
-<blockquote dir="rtl">
-  <p>
-يا كاشف ضرايوب
-  </p>
-</blockquote>
+> يا كاشف ضرايوب
 
 many times daily to drive away sorrow, anxiety, poverty and diseases.
 
 (50) Al Khaafiz’u (The Humiliator) {1481}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الخافض
-  </p>
-</blockquote>
+> الخافض
 
 (a) Recite 1481 times to get satisfaction of any legitimate desire.
 
@@ -858,11 +646,7 @@ many times daily to drive away sorrow, anxiety, poverty and diseases.
 (51) Al Lat’eefu (The Benign) {129}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللطيف
-  </p>
-</blockquote>
+> اللطيف
 
 (a) If a poor sick person recites ‘Al Lat'eefu’ after offering a two
 *Rak’at salat,* it will remove poverty and sickness.
@@ -877,11 +661,7 @@ to test his or her faith.
 (52) Al Maliku (The Sovereign) {90}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الملك
-  </p>
-</blockquote>
+> الملك
 
 (a) To retain wealth and power, and to hold sway over the subordinates,
 recite 90 times daily.
@@ -892,11 +672,7 @@ for help, recite 90 times daily.
 (53) Al Mu’minu (The Reliable Protector) {136}
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المؤمن
-  </p>
-</blockquote>
+> المؤمن
 
 If recited 136 times daily it keeps the reciter safe from the evil of
 men and jinn; and safeguards against adverse circumstances.
@@ -904,11 +680,7 @@ men and jinn; and safeguards against adverse circumstances.
 (54) Al Muhayminu (The Defender) {145}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المهيمن
-  </p>
-</blockquote>
+> المهيمن
 
 (a) If recited 145 times daily, reciter becomes pious and sincere.
 
@@ -921,11 +693,7 @@ all difficulties in daily life.
 (55) Al Mutakabbiru (The Sublime) {662}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المتكبر
-  </p>
-</blockquote>
+> المتكبر
 
 (a) To avoid sensuous, dirty dreams recite 14 times before going to bed.
 
@@ -937,11 +705,7 @@ born.
 (56) Al Mus'awwiru (The Fashioner) {336}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المصور
-  </p>
-</blockquote>
+> المصور
 
 (a) If recited at the time of making love the child will be good-looking
 and generous.
@@ -957,44 +721,28 @@ wash it with pure water and drink it at the time of breaking the fast
 (57) Al Mu’izzu (The Bestower Of Honour) {117}
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المعز
-  </p>
-</blockquote>
+> المعز
 
 If recited a great deal it brings honour, recognition and fame.
 
 (58) Al Mud'illu (The Disgracer) {770}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المذل
-  </p>
-</blockquote>
+> المذل
 
 Recite 770 times to get back long overdue debts.
 
 (59) Al Muqeetu (The Maintainer) {550}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المقيت
-  </p>
-</blockquote>
+> المقيت
 
 To have enough sustenance, recite as many times as possible.
 
 (60) Al Mujeebu (The Hearer Of Prayers) {55}
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المجيب
-  </p>
-</blockquote>
+> المجيب
 
 (a) To cure headache recite 55 times.
 
@@ -1003,11 +751,7 @@ To have enough sustenance, recite as many times as possible.
 (61) Al Majeedu (The Glorious) {57}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المجيد
-  </p>
-</blockquote>
+> المجيد
 
 (a) Observe fast on 13th, 14th and 15th of a lunar month, and recite ‘Al
 Majeed’ 1000 times, after breaking the fast (after sunset), to cure
@@ -1019,11 +763,7 @@ hardships.
 (62) Al Mateenu (The Preserving) {500}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المتين
-  </p>
-</blockquote>
+> المتين
 
 To have pious children, man and wife must recite ‘Al Mateenu’ at the
 time of making love.
@@ -1031,11 +771,7 @@ time of making love.
 (63) Al Muh'aasibu (The Reckoner) {111}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المحاسب
-  </p>
-</blockquote>
+> المحاسب
 
 (a) If recited 111 times, the enemy will not be able to harm you in any
 way.
@@ -1046,11 +782,7 @@ their knees.
 (64) Al Mubdiyu (The Commencer) {56}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المبدى
-  </p>
-</blockquote>
+> المبدى
 
 To avert the danger of miscarriage recite ‘Al Mubdiyu’ 56 times over the
 belly of the pregnant mother.
@@ -1058,11 +790,7 @@ belly of the pregnant mother.
 (65) Al Mue'edu (The Restorer) {124}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المعيد
-  </p>
-</blockquote>
+> المعيد
 
 (a) To bring back lost memory recite 124 times.
 
@@ -1072,11 +800,7 @@ day of judgement.
 (66) Al Muh'ayyi (The Vivifier) {58}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المحيي
-  </p>
-</blockquote>
+> المحيي
 
 If recited 58 times before judgement is pronounced in a criminal trial,
 provided the reciter is wrongly accused, he or she will be set free by
@@ -1085,11 +809,7 @@ the judge or the jury.
 (67) Al Mumeetu (The Annihilator) {490}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المميت
-  </p>
-</blockquote>
+> المميت
 
 (a) If recited 490 times over a bewitched person, the evil effects of
 witchcraft will be withdrawn, and the afflicted person will be free from
@@ -1101,11 +821,7 @@ the witchcraft for ever.
 (68) Al Muqtadiru (The All-Powerful) {744}
 ------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المقتدر
-  </p>
-</blockquote>
+> المقتدر
 
 (a) If recited 15 times, in the morning, after getting up from the bed,
 without speaking to anyone, any legitimate desire will be fulfilled.
@@ -1116,11 +832,7 @@ will be equivalent to a martyr.
 (69) Al Muqaddimu (The Vanguard) {184}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المقدم
-  </p>
-</blockquote>
+> المقدم
 
 (a) If recited over a glass of water or syrup, and someone drinks it,
 love and understanding begin to grow between the reciter and the
@@ -1132,11 +844,7 @@ horrors of the war, and wins victory.
 (70) Al Mu’akhkhiru (The Eternal Last) {846}
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المؤخر
-  </p>
-</blockquote>
+> المؤخر
 
 (a) If recited over a glass of water or syrup, and someone drinks it,
 love and understanding begin to grow between the reciter and the
@@ -1148,11 +856,7 @@ the reciter
 (71) Al Muta-a'alee (The Most High) {551}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المتعالي
-  </p>
-</blockquote>
+> المتعالي
 
 (a) To have a key post in the government, or in any other organisation
 of your choice, recite 551 times daily.
@@ -1163,11 +867,7 @@ recite a great deal regularly.
 (72) Al Muntaqimu (The Avenger) {630}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المنتقم
-  </p>
-</blockquote>
+> المنتقم
 
 (a) If you are too weak to pay back the enemy in his own coin, recite
 ‘Al Muntaqimu’ 630 times, keeping, the name and place of the enemy in
@@ -1182,11 +882,7 @@ your tendency to commit sinful acts.
 (73) Yaa Maalikal Mulki (The Absolute Sovereign) {91+90=181}
 ------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يا مالك الملك
-  </p>
-</blockquote>
+> يا مالك الملك
 
 (a) To have a carefree, independent and happy life, recite this dua'a
 many times regularly.
@@ -1197,11 +893,7 @@ obligatory prayer.
 (74) Al Muqsit'u (The Distributor) {209}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المقسط
-  </p>
-</blockquote>
+> المقسط
 
 If recited regularly after every obligatory prayer Shaytan will not be
 able to divert your wholehearted attention away from Allah during the
@@ -1210,11 +902,7 @@ prayer.
 (75) Al Mughnee (The Independent) {1100}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المغني
-  </p>
-</blockquote>
+> المغني
 
 (a) To become self-sufficient and wealthy, recite 100 times on 11
 Fridays, and during this period do not eat meat of any kind, milk and
@@ -1226,11 +914,7 @@ should be recited whenever they go to bed together.
 (76) Al Mua'tee (The Bestower Of Gifts) {129}
 ---------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المعطي
-  </p>
-</blockquote>
+> المعطي
 
 (a) If recited 129 times for any particular desire, it will be
 fulfilled.
@@ -1242,11 +926,7 @@ others.
 (77) Al Maani-u' (The Prohibiter) {161}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المانع
-  </p>
-</blockquote>
+> المانع
 
 (a) If recited a great deal daily, enough funds will come in your hands
 to repay debts, taken by you, within the specified time.
@@ -1257,11 +937,7 @@ it will be fulfilled.
 (78) Al Mannaanu (The Benefactor) {141}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المنان
-  </p>
-</blockquote>
+> المنان
 
 (a) Make a habit of recitfng this *dua'a* if you want to disperse fears
 and anxieties.
@@ -1271,11 +947,7 @@ and anxieties.
 (79) Al Muh'eet'u (He Who Encompasses Everything) {67}
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المحيط
-  </p>
-</blockquote>
+> المحيط
 
 (a) Recite this *dua'a* at the time of confronting an adversary.
 
@@ -1287,11 +959,7 @@ protection.
 (80) Al Mubeenu (The Evident) {102}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المبين
-  </p>
-</blockquote>
+> المبين
 
 To create love and understanding between a group of people recite this
 regularly.
@@ -1299,11 +967,7 @@ regularly.
 (81) Al Maajidu (The Noble) {41}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الماجد
-  </p>
-</blockquote>
+> الماجد
 
 (a) If recited a great deal, a light from the heaven will purify the
 heart.
@@ -1314,11 +978,7 @@ wash with pure water, and let that person drink it.
 (82) Al Mun-i'mu (The Bountiful) {200}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-المنعم
-  </p>
-</blockquote>
+> المنعم
 
 For prosperity and happiness recite this *dua'a* as many times as
 possible.
@@ -1326,11 +986,7 @@ possible.
 (83) An Na-e'emu (The Bounteous) {170}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-النعيم
-  </p>
-</blockquote>
+> النعيم
 
 (a) To thank Allah for the bounties He bestows on you recite this
 *dua'a* daily before Fajr *salat,* and after Isha *salat.*
@@ -1341,11 +997,7 @@ for many generations, is made available to the reciter.
 (84) An Naafi-u' {The Helpful) {201}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-النافع
-  </p>
-</blockquote>
+> النافع
 
 If recited many times in the month of Rajab, knowledge of the secrets of
 things and events are made known to the reciter.
@@ -1353,11 +1005,7 @@ things and events are made known to the reciter.
 (85) An Nooru (The Light) {256}
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-النور
-  </p>
-</blockquote>
+> النور
 
 (a) Make a habit of reciting ‘An Nooru’ if you want to know the laws of
 creation and nature.
@@ -1368,22 +1016,14 @@ the heart and the mind.
 (86) Al Qahhaaru (The Conqueror) {306}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القهار
-  </p>
-</blockquote>
+> القهار
 
 (a) To get rid of the worldly temptations recite as many times as
 possible.
 
 (b) If you recite:
 
-<blockquote dir="rtl">
-  <p>
-يا قاهر ياذو البطش الشديد انت الذي لا يوتق انتقامة
-  </p>
-</blockquote>
+> يا قاهر ياذو البطش الشديد انت الذي لا يوتق انتقامة
 
 Yaaqaahiru Yaa D'al Batshish Shadeedi Antal Lad'ee Laa Yootaqu
 Intiqaamuhu
@@ -1397,33 +1037,21 @@ all your enemies will be destroyed.
 (87) Al Qaabiz’u (He Who Takes Possession and Holds) {903}
 ----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القابض
-  </p>
-</blockquote>
+> القابض
 
 (a) If recited 12 times, the enemy will be subdued.
 
 (b) If ‘Al Qaabiz'u’ (and) ‘Al H'aafiz'u’ are written on bread and eaten
 regularly for 40 days, the reciter will
 
-<blockquote dir="rtl">
-  <p>
-القابض الحافظ
-  </p>
-</blockquote>
+> القابض الحافظ
 
 never go hungry.
 
 (88) Al Qawiyyu (The Strong) {116}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القوي
-  </p>
-</blockquote>
+> القوي
 
 (a) If recited 116 times regularly, the reciter becomes fearless, brave
 and courageous.
@@ -1434,11 +1062,7 @@ of flour and recite this dua'a over each of them, and feed the birds.
 (89) Al Qaaz'ee (He Who Settles Matters) {911}
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القاضي
-  </p>
-</blockquote>
+> القاضي
 
 Make a habit of reciting ‘Yaa Qaaz'ee’ to get satisfaction of legitimate
 desires.
@@ -1446,11 +1070,7 @@ desires.
 (90) Al Qayyoomu (The Self-Subsisting) {156}
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القيوم
-  </p>
-</blockquote>
+> القيوم
 
 (a) If recited regularly, it purifles the heart and mind, and brings
 prosperity.
@@ -1460,22 +1080,14 @@ prosperity.
 (c) To obtain continuous respect and honour wear a ring, with a stone on
 which
 
-<blockquote dir="rtl">
-  <p>
-الحي القيوم
-  </p>
-</blockquote>
+> الحي القيوم
 
 ‘H'ayyul Qayyoom’ is engraved.
 
 (91) Al Qaadiru (The Omnipotent) {305}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القادر
-  </p>
-</blockquote>
+> القادر
 
 (a) To overcome powerful enemies recite a great deal on the last
 Wednesday of the lunar month after *wuzu.*
@@ -1486,33 +1098,21 @@ personality.
 (92) Al Qadeemu (The Eternal First) {154}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القديم
-  </p>
-</blockquote>
+> القديم
 
 To have a long life, recite a great deal regularly.
 
 (93) Al Qareebu (The Near) {312}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-القريب
-  </p>
-</blockquote>
+> القريب
 
 To keep away a threatening evil recite 312 times.
 
 (94) Ar Rah'maanu (The Beneficent) {299}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرحمن
-  </p>
-</blockquote>
+> الرحمن
 
 (a) If recited 299 times after every obligatory prayer, the defect of
 forgetfulness is removed.
@@ -1522,11 +1122,7 @@ forgetfulness is removed.
 (95) Ar Rah'eemu (The Merciful) {258}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرحيم
-  </p>
-</blockquote>
+> الرحيم
 
 (a) If you find it very difficult to get out of some trouble, or have
 are impossible task on your hands, begin this *dua'a* after Asr prayer
@@ -1543,11 +1139,7 @@ water the plants or fields to obtain bumper crops.
 (96) Ar Razzaaqu (The Giver Of Livelihood) {308}
 ------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرزاق
-  </p>
-</blockquote>
+> الرزاق
 
 (a) If recited 11 times after every obligatory prayer daily, the reciter
 will always have enough sustenance.
@@ -1561,11 +1153,7 @@ house, it brings sustenance in abundance.
 (97) Ar Raqeebu (The Guardian) {312}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرقيب
-  </p>
-</blockquote>
+> الرقيب
 
 (a) If recited 6 times over any movable or immovable property that
 property will be protected from damage or destruction; it is also good
@@ -1582,33 +1170,21 @@ for the welfare of the family members.
 (98) Ar Ra’oofu (The Compassionate) {286}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرءوف
-  </p>
-</blockquote>
+> الرءوف
 
 (a) If recited a great deal regularly heartless persons become kind and
 loving.
 
 (b) To tame a tyrant recite:
 
-<blockquote dir="rtl">
-  <p>
-يا حليم يارءوف يا منان
-  </p>
-</blockquote>
+> يا حليم يارءوف يا منان
 
 ‘Yaa H'aleemu Yaa Ra-oofu Yaamannaanu’
 
 (99) Ar Raafi-u' (The Exalted) {351}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرافع
-  </p>
-</blockquote>
+> الرافع
 
 To have social eminence and advancement in profession or business recite
 351 times daily after Zuhr *salah.*
@@ -1620,11 +1196,7 @@ unjust superiors, or rulers.
 (100) Ar Rasheedu (He Who Guides On The Right Path) {514}
 ---------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرشيد
-  </p>
-</blockquote>
+> الرشيد
 
 (a) If recited a great deal regularly, you will never go astray from the
 right path.
@@ -1635,11 +1207,7 @@ legitimate desires are fulfilled.
 (101) Ar Rabbu (The Lord Cherisher) {202}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرب
-  </p>
-</blockquote>
+> الرب
 
 (There are 12 meanings of this holy name of Allah).
 
@@ -1653,11 +1221,7 @@ from Allah.
 (102) Assalaamu (The Peace) {131}
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-السلام
-  </p>
-</blockquote>
+> السلام
 
 (a) To cure sickness, recite 131 times over the head of the sick person.
 
@@ -1666,11 +1230,7 @@ from Allah.
 (103) Assamee-u' (The All-Hearing) {180}
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-السميع
-  </p>
-</blockquote>
+> السميع
 
 (a) Recite a great deal regularly for fulfilment of legitimate desires.
 
@@ -1682,11 +1242,7 @@ saffron and musk, wash with rose oil, and drop into the ears.
 (104) Ash Shaheedu (The Witnesss) {319}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الشهيد
-  </p>
-</blockquote>
+> الشهيد
 
 (a) If a person or a thing is lost, take a square piece of paper, write
 ‘Ash Shaheedu’ on the 4 corners, and the name of the person or the thing
@@ -1701,11 +1257,7 @@ been recited 319 times, sickness will be cured.
 (105) As S'amadu (The Ever-Lasting) {134}
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الصمد
-  </p>
-</blockquote>
+> الصمد
 
 (a) If recited a great deal regularly the reciter will never go hungry
 in his or her life.
@@ -1718,11 +1270,7 @@ support of anyone.
 (106) As Sayyidu (The Master) {74}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-السيد
-  </p>
-</blockquote>
+> السيد
 
 To obtain a high position in society, with effective authority, recite
 74 times daily.
@@ -1730,11 +1278,7 @@ To obtain a high position in society, with effective authority, recite
 (107) As Subbooh'u (The Holy) {76}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-السبوح
-  </p>
-</blockquote>
+> السبوح
 
 To develop piety, like the piety of angels, write this *dua'a* on bread
 and eat after Friday prayer.
@@ -1742,11 +1286,7 @@ and eat after Friday prayer.
 (108) As' S'aani-u' (The Maker) {211}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الصانع
-  </p>
-</blockquote>
+> الصانع
 
 To have a high quality finished product recite 211 times before
 designing, manufacturing anything.
@@ -1754,11 +1294,7 @@ designing, manufacturing anything.
 (109) Ash Shakooru (The Thankful) {526}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الشكور
-  </p>
-</blockquote>
+> الشكور
 
 To cure eye ailments and night blindness recite 526 times over pure
 water and wash the eyes with it.
@@ -1766,22 +1302,14 @@ water and wash the eyes with it.
 (110) As' S'abooru (The Patient) {298}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الصبور
-  </p>
-</blockquote>
+> الصبور
 
 Recite 298 times to endure any misfortune or setback in life.
 
 (111) Ash Shaafee (The Healer) {391}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الشافي
-  </p>
-</blockquote>
+> الشافي
 
 (a) To cure any sickness or disease, recite 391 times.
 
@@ -1790,11 +1318,7 @@ Recite 298 times to endure any misfortune or setback in life.
 (112) As Sattaaru (The Coverer) {661}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الستار
-  </p>
-</blockquote>
+> الستار
 
 If recited a great deal, all defects, shortcomings and faults are kept
 hidden.
@@ -1802,11 +1326,7 @@ hidden.
 (113) At Tawwaabu (The Relenter) {409}
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-التواب
-  </p>
-</blockquote>
+> التواب
 
 (a) Its recitation inspires the reciter to turn repentant unto Allah,
 and Allah accepts the repentance.
@@ -1817,11 +1337,7 @@ times.
 (114) Alwitru (The Unique) {606}
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوتر
-  </p>
-</blockquote>
+> الوتر
 
 To keep away prylng and meddling people, and to enjoy undisturbed life,
 recite this *dua'a* a great deal regularly.
@@ -1829,11 +1345,7 @@ recite this *dua'a* a great deal regularly.
 (115) Al Waliyyu (The Friend {46})
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الولي
-  </p>
-</blockquote>
+> الولي
 
 (a) Offer a 2 *Rak’at salat,* before going to sleep, without speaking to
 anyone, and recite this dua'a 46 times, keeping in mind whatever you
@@ -1849,11 +1361,7 @@ regularly.
 (116) Al Wakeelu (The Protector) {66}
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوكيل
-  </p>
-</blockquote>
+> الوكيل
 
 (a) At the end of every obligatory prayer, after reciting *tasbih* of
 Fatimah Zahra recite ‘Yaa Allaahu Al Wakeelu’ 66 times (always recite
@@ -1867,11 +1375,7 @@ kinds of accidents.
 (117) Al Waafiyu (He Who Keeps The Promise) {97}
 ------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوافي
-  </p>
-</blockquote>
+> الوافي
 
 If recited a great deal regularly it gives you time and money to fulfil
 your own promises.
@@ -1879,11 +1383,7 @@ your own promises.
 (118) Al Waaliyu (The Governor) {47}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوالي
-  </p>
-</blockquote>
+> الوالي
 
 If recited a great deal regularly you or your children will occupy the
 highest position in the government of a country.
@@ -1891,11 +1391,7 @@ highest position in the government of a country.
 (119) Al Wahhaabu (The Utmost Liberal) {14}
 -------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوهاب
-  </p>
-</blockquote>
+> الوهاب
 
 (a) Recite 14 times daily in prostration *(sajdah),* to receive
 countless blessings and favours of Allah.
@@ -1909,11 +1405,7 @@ will be popular among your people.
 (120) Al Waasi-u' (The Liberal Beneficent) {137}
 ------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الواسع
-  </p>
-</blockquote>
+> الواسع
 
 (a) Recite a great deal regularly to receive more and more livelihood.
 
@@ -1922,11 +1414,7 @@ will be popular among your people.
 (121) Al Wadoodu (The Loving) {20}
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الودود
-  </p>
-</blockquote>
+> الودود
 
 To remove distrust and create an atmosphere of cooperation and
 understanding among friends, relatives and associates, recite this dua'a
@@ -1935,11 +1423,7 @@ understanding among friends, relatives and associates, recite this dua'a
 (122) Al Waarithu (The Inheritor) {707}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوارث
-  </p>
-</blockquote>
+> الوارث
 
 (a) Make a habit of reciting this *dua'a* if you want your children to
 have long life.
@@ -1954,22 +1438,14 @@ regularly.
 (123) Al Waajidu (The Inventor) {14}
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الواجد
-  </p>
-</blockquote>
+> الواجد
 
 If recited a great deal regularly it enlightens the heart and the mind.
 
 (124) Al Wah'eedu (The Only) {28}
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الوحيد
-  </p>
-</blockquote>
+> الوحيد
 
 (a) In journey recite this *dua'a* many times to reach the destination
 safely.
@@ -1980,22 +1456,14 @@ friends and family members.
 (125) Al Waah'idu (The Single) {19}
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الواحد
-  </p>
-</blockquote>
+> الواحد
 
 To create piety and purity recite 19 times on every Friday.
 
 (126) Az Z’aarru (The Quickener) {1001}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الضار
-  </p>
-</blockquote>
+> الضار
 
 (a) To have a bumper crop recite this *dua'a* 1001 times over the tilled
 lands; or write this *dua'a* with saffron, wash it with water, and spray
@@ -2010,11 +1478,7 @@ fulfilled.
 (127) Az Z'aahiru (The Manifest) {1106}
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الظاهر
-  </p>
-</blockquote>
+> الظاهر
 
 (a) A secret event or thing will be made known to you in dream or by
 some suitable means, if this *dua'a* is recited 1106 times.
@@ -2025,14 +1489,9 @@ knowledge.
 (128) Ya D'al Jalaali Wal Ikraami (The Lord Of Might and Majesty) {1056}
 ------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يا ذو الجلال والاكرام
-  </p>
-</blockquote>
+> يا ذو الجلال والاكرام
 
 Religious scholars say that it could be the *ismi aa'z'am,* the great
 name of Allah. Recite a great deal regularly to have high position and
 eminent status.
-
 

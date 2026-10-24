@@ -11,11 +11,7 @@ world. The Prophets and Imams, who have control over people's
 possessions and lives, have full control over people the Holy Quran
 concerning the Prophet declares
 
-<blockquote dir="rtl">
-  <p>
-﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
 
 ***“The Prophet has a greater claim on the faithful than they have on
 themselves”***[^1]***.***
@@ -34,12 +30,8 @@ the Holy Quran are to be obeyed in the same way that we obey Allah.
 
 The Holy Quran declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَطِيعُوا اللَّهَ وَ أَطِيعُوا الرَّسُولَ وَ أُولِي الأَْمْرِ
-مِنْكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ أَطِيعُوا اللَّهَ وَ أَطِيعُوا الرَّسُولَ وَ أُولِي الأَْمْرِ
+> مِنْكُمْ ﴾
 
 ***“Obey Allah and obey the apostle and those in authority from among
 you”***[^2]***.***
@@ -158,5 +150,4 @@ had never got involved in sins.
 [^2]: . Quran 4:59.
 
 [^3]: . Quran 2:124.
-
 

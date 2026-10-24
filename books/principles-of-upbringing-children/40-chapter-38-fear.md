@@ -215,4 +215,3 @@ more with the benevolence of Almighty Allah.
 
 [^1]: Gharar al hukm, p. 8
 
-

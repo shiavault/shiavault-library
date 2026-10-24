@@ -77,4 +77,3 @@ the wife waives her right.
 
 [^1]: Wasa’il ul-Shi’a, vol. 1, p. 576
 
-

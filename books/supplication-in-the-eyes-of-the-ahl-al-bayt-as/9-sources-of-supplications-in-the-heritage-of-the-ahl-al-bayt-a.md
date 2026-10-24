@@ -311,4 +311,3 @@ Arabic, and in *Zad al-Ma’ad*, *Tuhfat al-Za’ir*, *Miqbah al-Masabih*,
 
 [^8]: Adh- Dhari’at ila Tasanif ash-Shi’ah, vol.8, pg.179 180.
 
-

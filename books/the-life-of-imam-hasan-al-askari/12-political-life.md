@@ -423,4 +423,3 @@ Jordan, Lebanon and Palestine.
 
 [^22]: Al-Fakhri, p.181.
 
-

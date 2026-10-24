@@ -8,15 +8,11 @@ pilgrimage rites, under his leadership and guidance. It was here that
 the Prophet delivered one of the most significant sermons in the entire
 history of humankind. Imam al-Tirmidhi (d. 279 H) records what happened:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا نصر بن عبد الرحمن الكوفي حدثنا زيد بن الحسن هو الأنماطي عن جعفر
-بن محمد عن أبيه عن جابر بن عبد الله قال رأيت رسول الله صلى الله عليه و
-سلم في حجته يوم عرفة وهو على ناقته القصواء يخطب فسمعته يقول يا أيها
-الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله وعترتي أهل
-بيتي
-  </p>
-</blockquote>
+> حدثنا نصر بن عبد الرحمن الكوفي حدثنا زيد بن الحسن هو الأنماطي عن جعفر
+> بن محمد عن أبيه عن جابر بن عبد الله قال رأيت رسول الله صلى الله عليه و
+> سلم في حجته يوم عرفة وهو على ناقته القصواء يخطب فسمعته يقول يا أيها
+> الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله وعترتي أهل
+> بيتي
 
 Nasr b. ‘Abd al-Rahman al-Kufi – Zayd b. al-Hasan al-Anmati – Ja’far b.
 Muhammad – his father – Jabir b. ‘Abd Allah:
@@ -29,12 +25,8 @@ and my offspring, my Ahl al-Bayt.”[^2]
 
 Al-Tirmidhi says on the riwayah:
 
-<blockquote dir="rtl">
-  <p>
-وهذا حديث حسن غريب من هذا الوجه و زيد بن الحسن قد روى عنه سعيد بن
-سليمان وغير واحد من أهل العلم
-  </p>
-</blockquote>
+> وهذا حديث حسن غريب من هذا الوجه و زيد بن الحسن قد روى عنه سعيد بن
+> سليمان وغير واحد من أهل العلم
 
 And this hadith is hasan gharib (i.e. has a hasan chain) from this
 route. As for Zayd b. al-Hasan, Sa’id b. Sulayman and others from the
@@ -42,50 +34,26 @@ people of knowledge have narrated from him.[^3]
 
 ‘Allamah al-Albani also has a simple comment:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^4]
 
 In his al-Sahihah, the ‘Allamah further states:
 
-<blockquote dir="rtl">
-  <p>
-"يا أيها الناس! إني قد تركت فيكم ما إن أخذتم به لن تضلوا، كتاب الله
-  </p>
-</blockquote>
+> "يا أيها الناس! إني قد تركت فيكم ما إن أخذتم به لن تضلوا، كتاب الله
 
-<blockquote dir="rtl">
-  <p>
-وعترتي أهل بيتي ".
-  </p>
-</blockquote>
+> وعترتي أهل بيتي ".
 
 > أخرجه الترمذي (2 / 308) والطبراني (2680) عن زيد بن الحسن الأنماطي عن
-<blockquote dir="rtl">
-  <p>
-جعفر عن أبيه عن جابر بن عبد الله قال: " رأيت رسول الله صلى الله عليه
-وسلم في حجته يوم عرفة، وهو على ناقته القصواء يخطب، فسمعته يقول: "
-فذكره، وقال: " حديث حسن غريب من هذا الوجه، وزيد بن الحسن قد روى عنه
-سعيد بن سليمان وغير واحد من أهل العلم ".
-  </p>
-</blockquote>
+> جعفر عن أبيه عن جابر بن عبد الله قال: " رأيت رسول الله صلى الله عليه
+> وسلم في حجته يوم عرفة، وهو على ناقته القصواء يخطب، فسمعته يقول: "
+> فذكره، وقال: " حديث حسن غريب من هذا الوجه، وزيد بن الحسن قد روى عنه
+> سعيد بن سليمان وغير واحد من أهل العلم ".
 
-<blockquote dir="rtl">
-  <p>
-قلت: قال أبو حاتم، منكر الحديث، وذكره ابن حبان في " الثقات ". وقال
-الحافظ: " ضعيف ".
-  </p>
-</blockquote>
+> قلت: قال أبو حاتم، منكر الحديث، وذكره ابن حبان في " الثقات ". وقال
+> الحافظ: " ضعيف ".
 
-<blockquote dir="rtl">
-  <p>
-قلت: لكن الحديث صحيح، فإن له شاهدا من حديث زيد بن أرقم
-  </p>
-</blockquote>
+> قلت: لكن الحديث صحيح، فإن له شاهدا من حديث زيد بن أرقم
 
 “O mankind! I have left behind over you that which if you hold fast to
 it you will never go astray: the Book of Allah and my offspring, my Ahl
@@ -122,12 +90,8 @@ he said them at another place. Meanwhile, Imam al-Tirmidhi believed that
 the Messenger of Allah declared the hadith at ‘Arafat, and later at
 Ghadir Khumm[^6]. ‘Allamah al-Albani explains how:
 
-<blockquote dir="rtl">
-  <p>
-أقول: وجه ذلك أن جمع الترمذي بين لفظتي " غريب " و" حسن " إنما يعني في
-اصطلاحه أنه حسن لذاته
-  </p>
-</blockquote>
+> أقول: وجه ذلك أن جمع الترمذي بين لفظتي " غريب " و" حسن " إنما يعني في
+> اصطلاحه أنه حسن لذاته
 
 I say: The reason for that is whenever al-Tirmidhi says “hasan gharib”,
 he only means in his terminologies that its chain is independently
@@ -154,18 +118,10 @@ though it is true that he said them later at Ghadir Khumm.
 In rejecting the reliability of Zayd b. al-Hasan al-Anmati, ‘Allamah
 al-Albani has only Abu Hatim (d. 277 H) as his principal authority:
 
-<blockquote dir="rtl">
-  <p>
-“وزيد بن الحسن قد روى عنه سعيد بن سليمان وغير واحد من أهل العلم ".
-  </p>
-</blockquote>
+> “وزيد بن الحسن قد روى عنه سعيد بن سليمان وغير واحد من أهل العلم ".
 
-<blockquote dir="rtl">
-  <p>
-قلت: قال أبو حاتم، منكر الحديث، وذكره ابن حبان في " الثقات ". وقال
-الحافظ: " ضعيف ".
-  </p>
-</blockquote>
+> قلت: قال أبو حاتم، منكر الحديث، وذكره ابن حبان في " الثقات ". وقال
+> الحافظ: " ضعيف ".
 
 (Al-Tirmidhi said): “As for Zayd b. al-Hasan, Sa’id b. Sulayman and
 others from the people of knowledge have narrated from him.”
@@ -209,13 +165,9 @@ falls, then everything against al-Anmati collapses with it. So, we ask:
 what is the probative value of uncorroborated testimonies of Abu Hatim
 concerning narrators? Imam al-Dhahabi provides the apposite answer:
 
-<blockquote dir="rtl">
-  <p>
-إذا وثق أبو حاتم رجلا فتمسك بقوله، فإنه لا يوثق إلا رجلا صحيح الحديث،
-وإذا لين رجلا، أو قال فيه: لا يحتج به. فتوقف حتى ترى ما قال غيره فيه،
-فإن وثقه أحد، فلا تبن على تجريح أبي حاتم، فإنه متعنت في الرجال
-  </p>
-</blockquote>
+> إذا وثق أبو حاتم رجلا فتمسك بقوله، فإنه لا يوثق إلا رجلا صحيح الحديث،
+> وإذا لين رجلا، أو قال فيه: لا يحتج به. فتوقف حتى ترى ما قال غيره فيه،
+> فإن وثقه أحد، فلا تبن على تجريح أبي حاتم، فإنه متعنت في الرجال
 
 When Abu Hatim declared a narrator to be thiqah (trustworthy), then hold
 fast to his statement, because he never declared a narrator to be thiqah
@@ -228,12 +180,8 @@ because he was pigheaded in rijal.[^8]
 
 Al-Hafiz Ibn Hajar al-‘Asqalani also says about a narrator:
 
-<blockquote dir="rtl">
-  <p>
-وفي الميزان أن أبا حاتم قال لا يحتج به فينتظر في ذلك وأبو حاتم عنده
-عنت وقد احتج به الجماعة
-  </p>
-</blockquote>
+> وفي الميزان أن أبا حاتم قال لا يحتج به فينتظر في ذلك وأبو حاتم عنده
+> عنت وقد احتج به الجماعة
 
 In al-Mizan, it is stated that Abu Hatim said “He is not accepted as a
 hujjah”. But, watch that carefully. There was pigheadedness in Abu
@@ -325,5 +273,4 @@ p. 260, \# 129
 [^9]: Ahmad b. ‘Ali b. Muhammad b. Muhammad b. Hajar al-‘Asqalani
 al-Shafi’i, Hadi al-Sari Muqaddimah Fath al-Bari (Beirut: Dar Ihya
 al-Turath al-‘Arabi; 4th edition, 1408 H), p. 441
-
 

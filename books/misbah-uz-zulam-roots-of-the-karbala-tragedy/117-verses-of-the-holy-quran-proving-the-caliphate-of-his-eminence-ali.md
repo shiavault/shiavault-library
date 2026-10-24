@@ -218,4 +218,3 @@ Arabi, Kashshaf, Tafseer Nishapuri and Tafseer Kabir Razi, Vol. 7, Pg.
 
 [^17]: Surah Maidah 5:67
 
-

@@ -33,4 +33,3 @@ stance of Ameeerul Momineen 'Ali ibne abi Talib (as) in an effort to
 protect the persona of Mu'awiya. Hence we decided to lift the veils on
 Mu'awiya and present his true image to our readers.
 
-

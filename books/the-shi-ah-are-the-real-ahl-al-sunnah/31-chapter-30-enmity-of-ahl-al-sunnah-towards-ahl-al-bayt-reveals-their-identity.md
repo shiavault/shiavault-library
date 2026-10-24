@@ -166,36 +166,35 @@ misguidance with the Imams of guidance?
 This is a clear statement for people, and guidance, and admonition, to
 those who fear their Lord. (Holy Qur'an, 3:138)
 
-[^126] What they mean by "Rafidi" [literally: rejectionist] is someone
+[^126]: What they mean by "Rafidi" [literally: rejectionist] is someone
 who follows Ali and rejects the caliphate of those who preceded him in
 ruling over the Muslims.
 
-[^127] Ibn Hajar, Tahdhib al-Tahdhib, Vol. 5, p. 145 and Vol. 1, p.
+[^127]: Ibn Hajar, Tahdhib al-Tahdhib, Vol. 5, p. 145 and Vol. 1, p.
 82.
 
-[^128] It is well known that the followers of Uthman are the Nasibis who
+[^128]: It is well known that the followers of Uthman are the Nasibis who
 accused Ali of being kafir, apostate, and they accused him of killing
 Uthman ibn Affan. They are headed by Mu\`awiyah ibn Abu Sufyan, Uthman's
 cousin; so, he is their chief and leader.
-[^129] The Nasibis are Ali's enemies and the enemies of his Ahl al-Bayt
+[^129]: The Nasibis are Ali's enemies and the enemies of his Ahl al-Bayt
 from among the Kharijites, the Qasitis, and the renegades who
 antagonized him and fought him. After his martyrdom, they took to
 cursing and condemning him.
 
-[^130] Al-Dhahabi, Lisan al-Mizan, Vol. 3, p. 357.
+[^130]: Al-Dhahabi, Lisan al-Mizan, Vol. 3, p. 357.
 
-[^131] Refer to p. 135 of al-Khawarizmi's Rasaail (Letters).
+[^131]: Refer to p. 135 of al-Khawarizmi's Rasaail (Letters).
 
-[^132] [As an act of purification from najasa, uncleanness or filth.]
+[^132]: [As an act of purification from najasa, uncleanness or filth.]
 This incident is narrated on p. 147, Vol. 11, of Ibn Kathir's book Al
 Bidaya wal Nihaya.
 
-[^133] Ibid.
+[^133]: Ibid.
 
-[^134] This is mentioned when Ibn Hajar, author of Lisan al-Mizan,
+[^134]: This is mentioned when Ibn Hajar, author of Lisan al-Mizan,
 discusses the biography of Ibn Jarir al-Tabari.
 
-[^135] Ibn Kathir, Al-Bidaya wal Nihaya fil Fitan wal Malahim, Vol. 11,
+[^135]: Ibn Kathir, Al-Bidaya wal Nihaya fil Fitan wal Malahim, Vol. 11,
 p. 275.
-
 

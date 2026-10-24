@@ -58,4 +58,3 @@ forbidden act.
 
 [^1]: Al-Hurr al-Amili, Wasa'il al-Shi'a Bab al-Amir bil Ma'roof.
 
-

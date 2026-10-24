@@ -121,7 +121,6 @@ we do. O Allah! if she was a doer of good then add her good acts.
 And if she was an evil-doer then forgive her, and grant pardon to
 her.
 
-
 O Allah! put her near You in the High Sector of Paradise and appoint
 her successor from among those relations who survive her and be merciful
 to her, O the Most Merciful.)
@@ -140,7 +139,6 @@ and save them from the punishment of hell.)
 
 Then recite "Allahu Akbar", the fifth Takbeer, with hands raised up to
 the ears. [Sayyid, Hadi Husayn (1988), pg. 150-154]
-
 
 **Chapter Fourteen : The Grave and Burial**
 
@@ -182,5 +180,4 @@ lowered in by her side and not by the side of her head.
 How to Move a Deceased Man into the Grave
 The deceased man is to be laid at the tail end of the grave and lowered
 in from the side of the head with the head down first.
-
 

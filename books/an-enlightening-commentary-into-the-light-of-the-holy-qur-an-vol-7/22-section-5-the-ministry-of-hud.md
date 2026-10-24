@@ -4,12 +4,8 @@ Section 5: The Ministry of Hud
 Surah Hud – Verse 50
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِلَي عَادٍ أَخَاهُمْ هُوداً قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا
-لَكُم مِنْ إِلَهٍ غَيْرُهُ إِنْ أَنتُمْ إِلاَّ مُفْتَرُونَ
-  </p>
-</blockquote>
+> وإِلَي عَادٍ أَخَاهُمْ هُوداً قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا
+> لَكُم مِنْ إِلَهٍ غَيْرُهُ إِنْ أَنتُمْ إِلاَّ مُفْتَرُونَ
 
 ***50. “And unto (the people of) ‘Ad (We sent) their brother Hud; he
 said: ‘O my people! Worship Allah! You have no god other than He. You
@@ -59,12 +55,8 @@ worthless things as significant!
 Surah Hud – Verse 51
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-يَاقَوْمِ لآ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِنْ أَجْرِيَ إِلاَّ عَلَي
-الَّذِي فَطَرَنِي أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> يَاقَوْمِ لآ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِنْ أَجْرِيَ إِلاَّ عَلَي
+> الَّذِي فَطَرَنِي أَفَلاَ تَعْقِلُونَ
 
 ***51. “(Hud said) ‘O’ my people! I ask you no reward for it. My reward
 is only upon Him Who created me. Have you then no sense?”***
@@ -91,13 +83,9 @@ therefore I expect Him to provide me with my sustenance, not you.
 Surah Hud – Verse 52
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَاقَوْمِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُرْسِلِ
-السَّمَآءَ عَلَيْكُم مِدْرَاراً وَيَزِدْكُمْ قُوَّةً إِلَي قُوَّتِكُمْ
-وَلا تَتَوَلَّوْا مُجْرِمِينَ
-  </p>
-</blockquote>
+> وَيَاقَوْمِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُرْسِلِ
+> السَّمَآءَ عَلَيْكُم مِدْرَاراً وَيَزِدْكُمْ قُوَّةً إِلَي قُوَّتِكُمْ
+> وَلا تَتَوَلَّوْا مُجْرِمِينَ
 
 ***52. “And O my people! Ask forgiveness of your Lord, then turn unto
 Him repentant. He will send you the sky pouring abundant rain,
@@ -173,12 +161,8 @@ grave sin.
 Surah Hud – Verse 53
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا هُودُ مَا جِئْتَنَا بِبَيّنَةٍ وَمَا نَحْنُ بِتَارِكِي
-ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
-  </p>
-</blockquote>
+> قَالُوا يَا هُودُ مَا جِئْتَنَا بِبَيّنَةٍ وَمَا نَحْنُ بِتَارِكِي
+> ءَالِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
 
 ***53. “They said: ‘O Hud! You have brought us no clear proof, and we
 shall not abandon our gods for your word, nor are we believers in
@@ -205,12 +189,8 @@ propagating Allah’s message.
 Surah Hud – Verse 54
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن نَقُولُ إِلاَّ اعْتَرَاكَ بَعْضُ ءَالِهَتِنَا بِسُوءٍ قَالَ إِنّي
-اُشْهِدُ اللَّهَ وَاشْهَدُوا أَنّي بَرِيءٌ مِمَّا تُشْرِكُونَ
-  </p>
-</blockquote>
+> إِن نَقُولُ إِلاَّ اعْتَرَاكَ بَعْضُ ءَالِهَتِنَا بِسُوءٍ قَالَ إِنّي
+> اُشْهِدُ اللَّهَ وَاشْهَدُوا أَنّي بَرِيءٌ مِمَّا تُشْرِكُونَ
 
 ***54. “We say nothing but that some of our gods have smitten you with
 evil. He said: ‘Verily I call Allah to witness and bear you (also)
@@ -239,11 +219,7 @@ power.
 Surah Hud – Verse 55
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-مِن دُونِهِ فَكِيدُونِي جَميعاً ثُمَّ لا تُنْظِرُونِ
-  </p>
-</blockquote>
+> مِن دُونِهِ فَكِيدُونِي جَميعاً ثُمَّ لا تُنْظِرُونِ
 
 ***55. “Besides Him, (I am quit of everything you worship), therefore,
 scheme (your worst) against me, all together, and give me no
@@ -266,13 +242,9 @@ respite.”***
 Surah Hud – Verse 56
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنّي تَوَكَّلْتُ عَلَي اللَّهِ رَبّي وَرَبّكُم مَا مِن دَآبَّةٍ
-إِلاَّ هُوَ ءَاخِذُ بِنَاصِيَتِهَآ إِنَّ رَبّي عَلَي صِرَاطٍ
-مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> إِنّي تَوَكَّلْتُ عَلَي اللَّهِ رَبّي وَرَبّكُم مَا مِن دَآبَّةٍ
+> إِلاَّ هُوَ ءَاخِذُ بِنَاصِيَتِهَآ إِنَّ رَبّي عَلَي صِرَاطٍ
+> مُسْتَقِيمٍ
 
 ***56. “Verily, I have put my trust in Allah, my Lord and your Lord!
 (For) there is no moving creature but He holds it (in His control) by
@@ -296,13 +268,9 @@ worshippers, so that they may be transformed and become believers.
 Surah Hud – Verse 57
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن تَوَلَّوْا فَقَدْ أَبْلَغْتُكُم مَآ اُرْسِلْتُ بِهِ إِلَيْكُمْ
-وَيَسْتَخْلِفُ رَبّي قَوْماً غَيْرَكُمْ وَلا تَضُرُّونَهُ شَيْئاً
-إِنَّ رَبّي عَلَي كُلّ شَيْءٍ حَفِيظٌ
-  </p>
-</blockquote>
+> فإِن تَوَلَّوْا فَقَدْ أَبْلَغْتُكُم مَآ اُرْسِلْتُ بِهِ إِلَيْكُمْ
+> وَيَسْتَخْلِفُ رَبّي قَوْماً غَيْرَكُمْ وَلا تَضُرُّونَهُ شَيْئاً
+> إِنَّ رَبّي عَلَي كُلّ شَيْءٍ حَفِيظٌ
 
 ***57. “But if you turn away (from my call), I have conveyed the Message
 with which I was sent to you and my Lord will make another People to
@@ -349,12 +317,8 @@ The verse says:
 Surah Hud – Verse 58
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُوداً وَالَّذِينَ ءَامَنُوا
-مَعَهُ بِرَحْمَةٍ مِنَّا وَنَجَّيْنَاهُم مِنْ عَذَابٍ غَلِيظٍ
-  </p>
-</blockquote>
+> وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُوداً وَالَّذِينَ ءَامَنُوا
+> مَعَهُ بِرَحْمَةٍ مِنَّا وَنَجَّيْنَاهُم مِنْ عَذَابٍ غَلِيظٍ
 
 ***58. “And when Our decree came, We saved Hud and those who believed
 with him, by a Mercy from Us and delivered them from a harsh
@@ -380,12 +344,8 @@ His anger, estrangement and outrage have their roots in our conduct.
 Surah Hud – Verse 59
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ عَادٌ جَحَدُوا بِايَاتِ رَبّهِمْ وَعَصَوْا رُسُلَهُ
-وَاتَّبَعُوا أَمْرَ كُلّ جَبَّارٍ عَنيد
-  </p>
-</blockquote>
+> وَتِلْكَ عَادٌ جَحَدُوا بِايَاتِ رَبّهِمْ وَعَصَوْا رُسُلَهُ
+> وَاتَّبَعُوا أَمْرَ كُلّ جَبَّارٍ عَنيد
 
 ***59. “And this was (the people of) ‘Ad; they rejected the Signs of
 their Lord, and disobeyed His Messengers, and followed the command of
@@ -427,12 +387,8 @@ eradicate him.
 Surah Hud – Verse 60
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاُتْبِعُوا فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ أَلآ
-إِنَّ عَاداً كَفَرُوا رَبَّهُمْ أَلاَ بُعْداً لِعَادٍ قَوْمِ هُودٍ
-  </p>
-</blockquote>
+> وَاُتْبِعُوا فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ أَلآ
+> إِنَّ عَاداً كَفَرُوا رَبَّهُمْ أَلاَ بُعْداً لِعَادٍ قَوْمِ هُودٍ
 
 ***60. “And they were pursued by a curse in this world, and on the Day
 of Resurrection. Behold! the ‘Ad disbelieved in their Lord: so away with
@@ -482,5 +438,4 @@ storms.
 The people of ‘Ad consisted of two groups; the first ‘Ad and the second
 ‘Ad. The latter used to live in Ahqaf (a region in the Hijaz) or in the
 Yemen until seven hundred B.C.
-
 

@@ -372,4 +372,3 @@ is the greatest blessing. This knowledge for man is extremely important.
 The desire of every person is to obtain the pleasure of Allah, the
 Glorious.
 
-

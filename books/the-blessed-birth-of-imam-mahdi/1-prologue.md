@@ -254,4 +254,3 @@ Lady Fatimah Zahra' and even on her way to Iraq, Imam Hasan appeared in
 her dreams every night without exception and protected firmly his young
 bride from every danger.
 
-

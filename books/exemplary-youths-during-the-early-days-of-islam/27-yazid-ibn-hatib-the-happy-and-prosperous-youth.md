@@ -24,4 +24,3 @@ but Ispand trees under the soil of which he was to be buried.
 [^2]: Ibn Hishām, Al-Sīrah al-Nabawiyyah, vol. 3, p. 93; Tārīkh-e
 Payāmbar-e Islām, p. 332.
 
-

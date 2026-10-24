@@ -276,9 +276,7 @@ hajj months but to declare the tradition practiced at the time of
 ignorance as null and void. That is why there are many authentic
 traditions that quote the Holy Prophet (s) as saying:
 
-<p dir="rtl">
 لو استقبلت من امری ما استدبرت ما اهدیت و لو لا ان معی الهدی لاحللت
-</p>
 
 If I had formerly known what I came to know lately, I would not have
 brought the Hadi (sacrificial animal) with me. [Had there been no Hadi
@@ -292,5 +290,4 @@ order to get out of the state of ihram. It indicates that it is
 permissible to get out of the state of ihram after completing the
 rituals of umra of tamattu'a. The said tradition is reported by all
 Sahihs and Bukhari has allocated a particular chapter to it.
-
 

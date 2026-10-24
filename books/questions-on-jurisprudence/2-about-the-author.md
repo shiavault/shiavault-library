@@ -43,4 +43,3 @@ Sunni’s congregation to celebrate this occasion with them.
 
 Sayyid Sharaf al-Din al-Musawi died in the year 1377 A.H or 1957 A.D.
 
-

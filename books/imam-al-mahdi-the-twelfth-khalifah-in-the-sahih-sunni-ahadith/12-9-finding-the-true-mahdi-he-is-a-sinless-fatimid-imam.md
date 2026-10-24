@@ -5,13 +5,9 @@ It is without question that the Mahdi, *‘alaihi al-salam*, is from the
 House of Muhammad, *sallallahu ‘alaihi wa alihi*. Imam Ibn Majah (d. 273
 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عثمان بن أبي شيبة ثنا أبو داود الحفري ثنا ياسين عن إبراهيم ابن
-محمد بن الحنفية، عن أبيه، عن علي، قال: قال رسول الله صلى الله عليه
-وسلم"المهدى منا، أهل البيت، يصلحه الله في ليلة ".
-  </p>
-</blockquote>
+> حدثنا عثمان بن أبي شيبة ثنا أبو داود الحفري ثنا ياسين عن إبراهيم ابن
+> محمد بن الحنفية، عن أبيه، عن علي، قال: قال رسول الله صلى الله عليه
+> وسلم"المهدى منا، أهل البيت، يصلحه الله في ليلة ".
 
 ‘Uthman b. Abi Shaybah – Abu Dawud al-Hafari – Yasin – Ibrahim b.
 Muhammad b. al-Hanafiyyah – his father – ‘Ali:
@@ -21,11 +17,7 @@ us, the Ahl al-Bayt**. Allah will make him fit within a night.”[^1]
 
 Commenting on this *riwayat*, ‘Allamah al-Albani (d. 1420 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^2]
 
@@ -33,14 +25,10 @@ Obviously, the phrase “Ahl al-Bayt” in the *hadith* is a reference to
 that of the Prophet himself. Imam Abu Dawud (d. 275 H) also documents a
 witness, in this report about the Mahdi:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عثمان بن أبي شيبة ثنا الفضل بن دكين ثنا فطر عن القاسم بن أبي بزة
-عن أبي الطفيل عن علي رضي الله تعالى عنه عن النبي صلى الله عليه و سلم
-قال "لو لم يبق من الدهر إلا يوم لبعث الله رجلا من أهل بيتي يملؤها عدلا
-كما ملئت جورا"
-  </p>
-</blockquote>
+> حدثنا عثمان بن أبي شيبة ثنا الفضل بن دكين ثنا فطر عن القاسم بن أبي بزة
+> عن أبي الطفيل عن علي رضي الله تعالى عنه عن النبي صلى الله عليه و سلم
+> قال "لو لم يبق من الدهر إلا يوم لبعث الله رجلا من أهل بيتي يملؤها عدلا
+> كما ملئت جورا"
 
 ‘Uthman b. Abi Shaybah – al-Fadhl b. Dukayn – Fiṭr – al-Qasim b. Abi
 Barzah – Abu al-Tufayl – ‘Ali, may Allah the Most High be pleased with
@@ -52,21 +40,13 @@ with justice just as it had been filled with injustice.”[^3]
 
 ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^4]
 
 Dr. al-Bastawi, commenting upon the same *hadith*, also states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^5]
 
@@ -79,11 +59,7 @@ automatically disqualified from being the Awaited Imam.
 Moreover, the Imam – being from the Ahl al-Bayt – is apparently one of
 those intended in this noble *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-إنما يريد الله ليذهب عنكم الرجس أهل البيت ويطهركم تطهيرا
-  </p>
-</blockquote>
+> إنما يريد الله ليذهب عنكم الرجس أهل البيت ويطهركم تطهيرا
 
 Allah intends but only to keep impurity away from you, **O Ahl
 al-Bayt**, and to purify you absolutely.[^6]
@@ -102,17 +78,13 @@ tensions and divisions within our blessed *Ummah*.
 
 Imam al-Tirmidhi (d. 279 H) has documented how the verse descended:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة حدثنا محمد بن سليمان بن الأصبهاني عن يحيى بن عبيد عن عطاء
-بن أبي رباح عن عمر بن أبي سلمة ربيب النبي صلى الله عليه و سلم قال لما
-نزلت هذه الآية على النبي صلى الله عليه و سلم { إنما يريد الله ليذهب
-عنكم الرجس أهل البيت ويطهركم تطهيرا } في بيت أم سلمة فدعا فاطمة و حسنا
-و حسينا فجللهم بكساء و علي خلف ظهره فجللهم بكساء ثم قال اللهم هؤلاء
-أهل بيتي فأذهب عنهم الرجس وطهرهم تطهيرا قالت أم سلمة وأنا معهم يا نبي
-الله ؟ قال أنت على مكانك وأنت على خير
-  </p>
-</blockquote>
+> حدثنا قتيبة حدثنا محمد بن سليمان بن الأصبهاني عن يحيى بن عبيد عن عطاء
+> بن أبي رباح عن عمر بن أبي سلمة ربيب النبي صلى الله عليه و سلم قال لما
+> نزلت هذه الآية على النبي صلى الله عليه و سلم { إنما يريد الله ليذهب
+> عنكم الرجس أهل البيت ويطهركم تطهيرا } في بيت أم سلمة فدعا فاطمة و حسنا
+> و حسينا فجللهم بكساء و علي خلف ظهره فجللهم بكساء ثم قال اللهم هؤلاء
+> أهل بيتي فأذهب عنهم الرجس وطهرهم تطهيرا قالت أم سلمة وأنا معهم يا نبي
+> الله ؟ قال أنت على مكانك وأنت على خير
 
 Qutaybah – Muhammad b. Sulayman b. al-Asbahani – Yahya b. ‘Ubayd – ‘Aṭa
 b. Abi Rabah – ‘Umar b. Abi Salamah, the dependent of the Prophet, peace
@@ -130,26 +102,18 @@ a good thing.”[^8]
 
 ‘Allamah al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^9]
 
 Imam al-Hakim (d. 403 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر أحمد بن سلمان الفقيه وأبو العباس محمد بن يعقوب قالا :
-ثنا الحسن بن مكرم البزار ثنا عثمان بن عمر ثنا عبد الرحمن بن عبد الله
-بن دنيار عن شريك بن أبي نمر عن عطاء بن يسار عن أم سلمة قالت : في بيتي
-نزلت { إنما يريد الله ليذهب عنكم الرجس أهل البيت } قالت فأرسل رسول
-الله صلى الله عليه وسلم إلى علي وفاطمة والحسن والحسين فقال : هؤلاء أهل
-بيتي
-  </p>
-</blockquote>
+> حدثنا أبو بكر أحمد بن سلمان الفقيه وأبو العباس محمد بن يعقوب قالا :
+> ثنا الحسن بن مكرم البزار ثنا عثمان بن عمر ثنا عبد الرحمن بن عبد الله
+> بن دنيار عن شريك بن أبي نمر عن عطاء بن يسار عن أم سلمة قالت : في بيتي
+> نزلت { إنما يريد الله ليذهب عنكم الرجس أهل البيت } قالت فأرسل رسول
+> الله صلى الله عليه وسلم إلى علي وفاطمة والحسن والحسين فقال : هؤلاء أهل
+> بيتي
 
 Abu Bakr Ahmad b. Salman al-Faqih and Abu al-‘Abbas Muhammad b. Ya’qub –
 al-Hasan b. Mukram al-Bazzar – ‘Uthman b. ‘Umar – ‘Abd al-Rahman b. ‘Abd
@@ -163,21 +127,13 @@ These are my Ahl al-Bayt**.”[^10]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط البخاري
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط البخاري
 
 This *hadith* is *sahih* upon the standard of al-Bukhari.[^11]
 
 Imam al-Dhahabi (d. 748 H) agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري
-  </p>
-</blockquote>
+> على شرط البخاري
 
 Upon the standard of al-Bukhari.[^12]
 
@@ -192,11 +148,7 @@ everyone else alive. ‘Ali, Faṭimah, al-Hasan and al-Husayn alone were
 being identified as the “Ahl al-Bayt” in the *ayah*. So, she asked, to
 clarify:
 
-<blockquote dir="rtl">
-  <p>
-وأنا معهم يا نبي الله ؟
-  </p>
-</blockquote>
+> وأنا معهم يا نبي الله ؟
 
 Am I with them, O Prophet of Allah?
 
@@ -206,11 +158,7 @@ understanding too, until when she saw that the Messenger of Allah was
 giving the term – as used in the verse - a special, *restricted*
 meaning. Her blessed husband gave her a beautiful reply:
 
-<blockquote dir="rtl">
-  <p>
-أنت على مكانك وأنت على خير
-  </p>
-</blockquote>
+> أنت على مكانك وأنت على خير
 
 You are upon your place and you are upon a good thing.
 
@@ -226,13 +174,9 @@ display that the phrase “O Ahl al-Bayt” in it referred to none but ‘Ali,
 his wife and his sons. Imam Muslim (d. 261 H) has documented one of
 those instances:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة ومحمد بن عبدالله بن نمير ( واللفظ لأبي بكر )
-قالا حدثنا محمد بن بشر عن زكرياء عن مصعب بن شيبة عن صفية بنت شيبة قالت
-قالت عائشة
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة ومحمد بن عبدالله بن نمير ( واللفظ لأبي بكر )
+> قالا حدثنا محمد بن بشر عن زكرياء عن مصعب بن شيبة عن صفية بنت شيبة قالت
+> قالت عائشة
 
 > خرج النبي صلى الله عليه و سلم غداة وعليه مرط مرحل من شعر أسود فجاء
 > الحسن بن علي فأدخله ثم جاء الحسين فدخل معه ثم جاءت فاطمة فأدخلها ثم
@@ -261,13 +205,9 @@ the Lord of the Mighty Throne.
 Meanwhile, Prof. Ibn Yasin has for us the *fahm* (understanding) of one
 of the “righteous” *Salaf* concerning the purpose of this blessed verse:
 
-<blockquote dir="rtl">
-  <p>
-أخرج الطبري بسنده الحسن عن قتادة قوله: (إنما يريد الله ليذهب عنكم
-الرجس أهل البيت ويطهركم تطهيرا) فهم أهل بيت طهرهم الله من السوء، وخصهم
-لرحمة منه.
-  </p>
-</blockquote>
+> أخرج الطبري بسنده الحسن عن قتادة قوله: (إنما يريد الله ليذهب عنكم
+> الرجس أهل البيت ويطهركم تطهيرا) فهم أهل بيت طهرهم الله من السوء، وخصهم
+> لرحمة منه.
 
 Al-Tabari recorded with **his** ***hasan*** **chain** from Qatadah,
 concerning His Statement (Allah intends but only to keep impurity away
@@ -293,11 +233,7 @@ about them too. Therefore, had they been alive, he would have joined
 them with the other four under the cloak. One of such *ahadith* is this
 (which we quoted above):
 
-<blockquote dir="rtl">
-  <p>
-المهدى منا، أهل البيت
-  </p>
-</blockquote>
+> المهدى منا، أهل البيت
 
 The Mahdi is from us, **the Ahl al-Bayt**.
 
@@ -306,14 +242,10 @@ Being one of *them* – the Ahl al-Bayt - he naturally is also
 What further strengthens this submission, is this *hadith* of Imam
 al-Tabarani (d. 360 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن عبد العزيز ثنا عمرو بن عون الواسطي ثنا خالد بن عبد الله
-عن الحسن بن عبيد الله عن أبي الضحى عن زيد بن أرقم قال قال رسول الله
-صلى الله عليه و سلم : إني تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي
-وإنهما لن يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> حدثنا علي بن عبد العزيز ثنا عمرو بن عون الواسطي ثنا خالد بن عبد الله
+> عن الحسن بن عبيد الله عن أبي الضحى عن زيد بن أرقم قال قال رسول الله
+> صلى الله عليه و سلم : إني تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي
+> وإنهما لن يتفرقا حتى يردا علي الحوض
 
 ‘Ali b. ‘Abd al-‘Aziz – ‘Amr b. ‘Awn al-Wasiṭi – Khalid b. ‘Abd Allah –
 al-Hasan b. ‘Ubayd Allah – Abu al-Dhuha – Zayd b. Arqam:
@@ -325,11 +257,7 @@ my offspring, my Ahl al-Bayt. **Verily, both shall** ***never***
 
 Shaykh al-Arnauṭ says about this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-وهو صحيح
-  </p>
-</blockquote>
+> وهو صحيح
 
 It is *sahih*[^17]
 
@@ -346,14 +274,10 @@ Muhammad, and they exist continuously on the earth till *al-Qiyamah*.
 The Mahdi, without any doubt, is from these “pure” offspring of the
 Prophet. Imam Abu Dawud documents the confirmation:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن إبراهيم ثنا عبد الله بن جعفر الرقي ثنا أبو المليح الحسن
-بن عمر عن زياد بن بيان عن علي بن نفيل عن سعيد بن المسيب عن أم سلمة
-قالت سمعت رسول الله صلى الله عليه و سلم يقول " المهدي من عترتي من ولد
-فاطمة "
-  </p>
-</blockquote>
+> حدثنا أحمد بن إبراهيم ثنا عبد الله بن جعفر الرقي ثنا أبو المليح الحسن
+> بن عمر عن زياد بن بيان عن علي بن نفيل عن سعيد بن المسيب عن أم سلمة
+> قالت سمعت رسول الله صلى الله عليه و سلم يقول " المهدي من عترتي من ولد
+> فاطمة "
 
 Ahmad b. Ibrahim – ‘Abd Allah b. Ja’far al-Raqqi – Abu al-Mulayh
 al-Hasan b. ‘Umar – Ziyad b. Bayan – ‘Ali b. Nufayl – Sa’id b.
@@ -364,11 +288,7 @@ is** from my offspring**, from the descendants of Faṭimah**.”[^18]
 
 Al-Albani declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^19]
 
@@ -382,12 +302,8 @@ We must note too that Imam al-Mahdi is – without question - a *khalifah*
 from the offspring, the Ahl al-Bayt of our Prophet. Therefore, this
 *hadith* copied by ‘Allamah al-Albani definitely covers him:
 
-<blockquote dir="rtl">
-  <p>
-إني تارك فيكم خليفتين: كتاب الله حبل ممدود ما بين السماء والأرض وعترتي
-أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> إني تارك فيكم خليفتين: كتاب الله حبل ممدود ما بين السماء والأرض وعترتي
+> أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
 
 **I am leaving behind over you two** ***khalifahs*****: the Book of
 Allah** - a rope stretching between the heaven and the earth – **and my
@@ -396,11 +312,7 @@ offspring, my Ahl al-Bayt**. Verily, **both shall** ***never***
 
 Then, the ‘Allamah comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^21]
 
@@ -497,5 +409,4 @@ b. Adam al-Ashqudri al-Albani, Sahih al-Jami’ al-Saghir wa Ziyadatuhu
 (Al-Maktab al-Islami), vol. 1, p. 482, \# 2457
 
 [^21]: Ibid
-
 

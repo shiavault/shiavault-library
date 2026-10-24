@@ -33,4 +33,3 @@ Powerful Guardian and Worthy of granting our supplication.
 
 Dar Rah-e-Haqq Institute.
 
-

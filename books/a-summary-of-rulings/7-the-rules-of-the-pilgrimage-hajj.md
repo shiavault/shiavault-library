@@ -78,4 +78,3 @@ someone (to perform) the pilgrimage on his behalf.
 The rules of the rites of the pilgrimage are mentioned in a separate
 Book.
 
-

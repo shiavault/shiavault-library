@@ -6,14 +6,10 @@ capital city, at a place called Ghadir Khumm, the Prophet of Allah,
 sallallahu ‘alaihi wa alihi, repeated his instruction at ‘Arafat to
 mankind. Imam Ibn Abi ‘Asim (d. 287 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا سليمان بن عبيد الله الغيلاني، حدثنا أبو عامر، حدثنا كثير بن زيد،
-عن محمد بن عمر بن علي، عن أبيه، عن علي رضي الله عنه أن رسول الله صلى
-الله عليه وسلم قال :إني تركت فيكم ما إن أخذتم به لن تضلوا :كتاب الله،
-سببه بيد الله، وسببه بأيديكم، وأهل بيتي.
-  </p>
-</blockquote>
+> حدثنا سليمان بن عبيد الله الغيلاني، حدثنا أبو عامر، حدثنا كثير بن زيد،
+> عن محمد بن عمر بن علي، عن أبيه، عن علي رضي الله عنه أن رسول الله صلى
+> الله عليه وسلم قال :إني تركت فيكم ما إن أخذتم به لن تضلوا :كتاب الله،
+> سببه بيد الله، وسببه بأيديكم، وأهل بيتي.
 
 Sulayman b. ‘Ubayd Allah al-Ghilani – Abu ‘Amir – Kathir b. Zayd –
 Muhammad b. ‘Umar b. ‘Ali – his father – ‘Ali, may Allah be pleased with
@@ -26,35 +22,23 @@ in your hands – and my Ahl al-Bayt.”[^1]
 
 Concerning the first narrator, al-Hafiz (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-سليمان بن عبيد الله بن عمرو بن جابر الغيلاني المازني أبو أيوب البصري
-صدوق
-  </p>
-</blockquote>
+> سليمان بن عبيد الله بن عمرو بن جابر الغيلاني المازني أبو أيوب البصري
+> صدوق
 
 Sulayman b. ‘Ubayd Allah b. ‘Amr b. Jabir al-Ghilani al-Mazini, Abu Ayub
 al-Basri: Saduq (very truthful).[^2]
 
 As for the second narrator, this is what al-Hafiz has to say:
 
-<blockquote dir="rtl">
-  <p>
-عبد الملك بن عمرو القيسي أبو عامر العقدي بفتح المهملة والقاف ثقة
-  </p>
-</blockquote>
+> عبد الملك بن عمرو القيسي أبو عامر العقدي بفتح المهملة والقاف ثقة
 
 ‘Abd al-Malik b. ‘Amr al-Qaysi, Abu ‘Amir al-‘Aqadi: Thiqah
 (trustworthy).[^3]
 
 The third narrator is reliable too, as declared by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-كثير بن زيد الأسلمي أبو محمد المدني بن مافنه بفتح الفاء وتشديد النون
-صدوق يخطئ
-  </p>
-</blockquote>
+> كثير بن زيد الأسلمي أبو محمد المدني بن مافنه بفتح الفاء وتشديد النون
+> صدوق يخطئ
 
 Kathir b. Zayd al-Aslami, Abu Muhammad al-Madani b. Mafannah: Saduq
 (very truthful), made mistakes.[^4]
@@ -64,21 +48,13 @@ serious, were minimal and did not affect the quality of his ahadith.
 
 Al-Hafiz tells us about the fourth narrator as well:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن عمر بن علي بن أبي طالب صدوق
-  </p>
-</blockquote>
+> محمد بن عمر بن علي بن أبي طالب صدوق
 
 Muhammad b. ‘Umar b. ‘Ali b. Abi Talib: Saduq (very truthful).[^5]
 
 And this is the status of the fifth narrator, according to al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-عمر بن علي بن أبي طالب الهاشمي ثقة
-  </p>
-</blockquote>
+> عمر بن علي بن أبي طالب الهاشمي ثقة
 
 ‘Umar b. ‘Ali b. Abi Talib al-Hashimi: Thiqah (trustworthy).[^6]  
  So, all the narrators are fully reliable, and the sanad is
@@ -87,13 +63,9 @@ Shaykh al-Arnaut concludes as well:
 
 > وثالث من حديث علي عند ابن أبي عاصم في "السنة" (1558) ، والطحاوي في
 > "شرح مشكل الآثار" (1760) من طريقين عن أبي عامر العقدي، عن كثير بن زيد،
-<blockquote dir="rtl">
-  <p>
-عن محمد بن عمر بن علي، عن أبيه، عنه، مرفوعاً، بلفظ: "إني قد تركت فيكم
-ما إن أخذتم به لن تضلوا: كتاب الله، سببه بيد الله، وسببه بأيديكم، وأهل
-بيتي"، وإسناده حسن.
-  </p>
-</blockquote>
+> عن محمد بن عمر بن علي، عن أبيه، عنه، مرفوعاً، بلفظ: "إني قد تركت فيكم
+> ما إن أخذتم به لن تضلوا: كتاب الله، سببه بيد الله، وسببه بأيديكم، وأهل
+> بيتي"، وإسناده حسن.
 
 The third is the hadith of ‘Ali, recorded by Ibn Abi ‘Asim in al-Sunnah
 (1558), and by al-Tahawi in Sharh Mushkil al-Athar (1760) from two
@@ -109,18 +81,14 @@ Imam Ishaq b. Rahwayh (d. 238 H) and some other classical Sunni scholars
 recorded the full version. For instance, Imam al-Tahawi (d. 321 H)
 documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إبراهيم بن مرزوق قال : حدثنا أبو عامر العقدي قال : حدثنا كثير بن
-زيد، عن محمد بن عمر بن علي ، عن أبيه ، عن علي ، أن النبي صلى الله عليه
-وسلم حضر الشجرة بخم فخرج آخذا بيد علي فقال :يا أيها الناس، ألستم
-تشهدون أن الله عز وجل ربكم؟ قالوا: بلى، قال: ألستم تشهدون أن الله
-ورسوله أولى بكم من أنفسكم، وأن الله عز وجل ورسوله مولياكم؟ قالوا: بلى،
-قال: فمن كنت مولاه فإن هذا مولاه، أو قال: فإن عليا مولاه - شك ابن
-مرزوق - إني قد تركت فيكم ما إن أخذتم به لن تضلوا :كتاب الله سببه
-بأيديكم، وأهل بيتي.
-  </p>
-</blockquote>
+> حدثنا إبراهيم بن مرزوق قال : حدثنا أبو عامر العقدي قال : حدثنا كثير بن
+> زيد، عن محمد بن عمر بن علي ، عن أبيه ، عن علي ، أن النبي صلى الله عليه
+> وسلم حضر الشجرة بخم فخرج آخذا بيد علي فقال :يا أيها الناس، ألستم
+> تشهدون أن الله عز وجل ربكم؟ قالوا: بلى، قال: ألستم تشهدون أن الله
+> ورسوله أولى بكم من أنفسكم، وأن الله عز وجل ورسوله مولياكم؟ قالوا: بلى،
+> قال: فمن كنت مولاه فإن هذا مولاه، أو قال: فإن عليا مولاه - شك ابن
+> مرزوق - إني قد تركت فيكم ما إن أخذتم به لن تضلوا :كتاب الله سببه
+> بأيديكم، وأهل بيتي.
 
 Ibrahim b. Marzuq - Abu ‘Amir al-‘Aqadi – Kathir b. Zayd – Muhammad b.
 ‘Umar b. ‘Ali – his father - ‘Ali:
@@ -138,28 +106,20 @@ end of which is in your hands – and my Ahl al-Bayt.”[^8]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن
-  </p>
-</blockquote>
+> إسناده حسن
 
 Its chain is hasan.[^9]
 
 Al-Hafiz Ibn Hajar al-‘Asqalani also copies the riwayah of Ishaq b.
 Rahwayh:
 
-<blockquote dir="rtl">
-  <p>
-وقال إسحاق: أنا أبو عامر العقدي، عن كثير بن زيد، عن محمد بن عمر بن
-علي، عن أبيه، عن علي، قال: إن النبي صلى الله عليه وسلم حضر الشجرة بخم،
-ثم خرج آخذا بيد علي قال :ألستم تشهدون أن الله ربكم؟ قالوا: بلى، قال:
-ألستم تشهدون أن الله ورسوله أولى بكم من أنفسكم، وأن الله ورسوله
-أولياؤكم؟ فقالوا: بلى، قال: فمن كان الله ورسوله مولاه، فإن هذا مولاه،
-وقد تركت فيكم ما إن أخذتم به لن تضلوا: كتاب الله سببه بيده، وسببه
-بأيديكم، وأهل بيتي
-  </p>
-</blockquote>
+> وقال إسحاق: أنا أبو عامر العقدي، عن كثير بن زيد، عن محمد بن عمر بن
+> علي، عن أبيه، عن علي، قال: إن النبي صلى الله عليه وسلم حضر الشجرة بخم،
+> ثم خرج آخذا بيد علي قال :ألستم تشهدون أن الله ربكم؟ قالوا: بلى، قال:
+> ألستم تشهدون أن الله ورسوله أولى بكم من أنفسكم، وأن الله ورسوله
+> أولياؤكم؟ فقالوا: بلى، قال: فمن كان الله ورسوله مولاه، فإن هذا مولاه،
+> وقد تركت فيكم ما إن أخذتم به لن تضلوا: كتاب الله سببه بيده، وسببه
+> بأيديكم، وأهل بيتي
 
 Ishaq said: Abu ‘Amir al-‘Aqadi – Kathir b. Zayd – Muhammad b. ‘Umar b.
 ‘Ali – his father - ‘Ali:
@@ -177,26 +137,18 @@ other in your hands – and my Ahl al-Bayt.”[^10]
 
 Then, al-Hafiz comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا إسناد صحيح
-  </p>
-</blockquote>
+> هذا إسناد صحيح
 
 This chain is sahih.[^11]
 
 Imam Ahmad al-Busiri (d. 840 H) as well documents:
 
-<blockquote dir="rtl">
-  <p>
-عن علي بن أبي طالب، رضي الله عنه: أن النبي صَلَّى الله عَلَيه وسَلَّم
-حضر الشجرة بخم ثم خرج آخذًا بيد علي فقال: ألستم تشهدون أن الله ربكم؟
-قالوا: بلى قال: ألستم تشهدون أن الله ورسوله أولى بكم من أنفسكم وأن
-الله ورسوله مولاكم؟ قالوا: بلى قال: فمن كان الله ورسوله مولاه فإن هذا
-مولاه وقد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله سببه بيده وسببه
-بأيديكم وأهل بيتي.
-  </p>
-</blockquote>
+> عن علي بن أبي طالب، رضي الله عنه: أن النبي صَلَّى الله عَلَيه وسَلَّم
+> حضر الشجرة بخم ثم خرج آخذًا بيد علي فقال: ألستم تشهدون أن الله ربكم؟
+> قالوا: بلى قال: ألستم تشهدون أن الله ورسوله أولى بكم من أنفسكم وأن
+> الله ورسوله مولاكم؟ قالوا: بلى قال: فمن كان الله ورسوله مولاه فإن هذا
+> مولاه وقد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله سببه بيده وسببه
+> بأيديكم وأهل بيتي.
 
 Narrated ‘Ali b. Abi Talib, may Allah be pleased with him:
 
@@ -213,26 +165,18 @@ and my Ahl al-Bayt.”[^12]
 
 And al-Busiri has this simple verdict about it:
 
-<blockquote dir="rtl">
-  <p>
-رواه إسحاق بسند صحيح
-  </p>
-</blockquote>
+> رواه إسحاق بسند صحيح
 
 Ishaq recorded it with a sahih chain.[^13]
 
 ‘Allamah al-Muttaqi al-Hindi (d. 975 H) too records the hadith:
 
-<blockquote dir="rtl">
-  <p>
-عن علي أن النبي صلى الله عليه و سلم حضر الشجرة بخم ثم خرج آخذا بيد علي
-فقال : أيها الناس ألستم تشهدون أن الله ربكم ؟ قالوا : بلى قال : ألستم
-تشهدون أن الله ورسوله أولى بكم من أنفسكم وأن الله ورسوله مولاكم ؟
-قالوا : بلى قال : فمن كان الله ورسوله مولاه فإن هذا مولاه وقد تركت
-فيكم ما إن أخذتم به لن تضلوا بعده : كتاب الله سببه بيده وسببه بأيديكم
-وأهل بيتي
-  </p>
-</blockquote>
+> عن علي أن النبي صلى الله عليه و سلم حضر الشجرة بخم ثم خرج آخذا بيد علي
+> فقال : أيها الناس ألستم تشهدون أن الله ربكم ؟ قالوا : بلى قال : ألستم
+> تشهدون أن الله ورسوله أولى بكم من أنفسكم وأن الله ورسوله مولاكم ؟
+> قالوا : بلى قال : فمن كان الله ورسوله مولاه فإن هذا مولاه وقد تركت
+> فيكم ما إن أخذتم به لن تضلوا بعده : كتاب الله سببه بيده وسببه بأيديكم
+> وأهل بيتي
 
 Narrated ‘Ali b. Abi Talib, may Allah be pleased with him:
 
@@ -249,11 +193,7 @@ the other in your hands – and my Ahl al-Bayt.”
 
 Then al-Hindi says about it:
 
-<blockquote dir="rtl">
-  <p>
-ابن راهويه وابن جرير وابن أبي عاصم والمحاملي في أماليه وصححه
-  </p>
-</blockquote>
+> ابن راهويه وابن جرير وابن أبي عاصم والمحاملي في أماليه وصححه
 
 Narrated by (Ishaq) Ibn Rahwayh, Ibn Jarir, Ibn Abi ‘Asim, and by
 al-Muhamali in his Amali, and he (al-Muhamali) declared it sahih.[^14]
@@ -314,5 +254,4 @@ edition, 1420 H), vol. 7, p. 210, \# 6683
 [^14]: ‘Ali b. Husam al-Din al-Muttaqi al-Hindi, Kanz al-‘Ummal fi Sunan
 al-Aqwal wa Af’al (Beirut: Muasassat al-Risalah; 1989 H), vol. 13, p.
 121, \# 36441
-
 

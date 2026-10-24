@@ -88,4 +88,3 @@ Almighty, has plainly stated the reward of the righteous and He has also
 mentioned the reward of the evil-doers, and enlarged on it; then what
 He, the Exalted, stated is sufficient without need of anything else.
 
-

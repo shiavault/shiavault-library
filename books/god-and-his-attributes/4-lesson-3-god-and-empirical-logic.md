@@ -329,4 +329,3 @@ and an abandonment of one's original nature. The god that the natural
 scientist wishes vainly to "prove" with his tools and instruments is, in
 any event, no god at all in the view of those who worship God.
 
-

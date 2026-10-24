@@ -165,4 +165,3 @@ be fair with people in his own personal relationships, be merciful to
 the orphans, help the weak, and humble himself before Allah, his
 Creator.”*
 
-

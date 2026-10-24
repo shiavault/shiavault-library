@@ -40,4 +40,3 @@ successors (as); they should accept no blame in following Allah’s path.
 Right ought to be followed. There is neither might nor power except in
 Allah; on Him do I rely, and to Him is my return.
 
-

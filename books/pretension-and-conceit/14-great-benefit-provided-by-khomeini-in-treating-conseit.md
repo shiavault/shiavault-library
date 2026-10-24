@@ -297,4 +297,3 @@ Allah: Sayyid Ahmed al-Fahri.
 completed, by the Grace of Allah, on a Tuesday, Jumada II 26, 1429
 AH/July 1, 2008 in holy al-Kadhimiyya, Baghdad, Iraq.]
 
-

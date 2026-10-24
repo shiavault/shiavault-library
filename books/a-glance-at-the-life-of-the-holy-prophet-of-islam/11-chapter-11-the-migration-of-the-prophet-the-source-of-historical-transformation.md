@@ -219,4 +219,3 @@ Muslims really deserve.
 [^16]: Mu jim ul-Buldan maddihi Yathrib and Majma' ul-Bahrin Maddihi
 Tharb.
 
-

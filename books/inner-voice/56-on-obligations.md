@@ -36,4 +36,3 @@ may provide escape in future.
 The first victim is not the party wronged; it is the morality of mankind
 which suffers the mortal blow.
 
-

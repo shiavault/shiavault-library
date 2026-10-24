@@ -19,13 +19,9 @@ humanity. In reality, the main reason for the creation of this world is
 humanity, and the rest of the creatures are at the service of human
 beings. Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَق السَّمَاوَاتِ وَالأَرْضَ فِي سِتَّةِ أَيَّامٍ
-وَكَانَ عَرْشُهُ عَلَى الْمَاء لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ
-عَمَلاً...
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَق السَّمَاوَاتِ وَالأَرْضَ فِي سِتَّةِ أَيَّامٍ
+> وَكَانَ عَرْشُهُ عَلَى الْمَاء لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ
+> عَمَلاً...
 
 ***“It is He who created the heavens and the earth in six periods—and
 His dominion (extends) upon the waters—that He may test you [to see]
@@ -94,13 +90,9 @@ beneficial from harmful.
 The Pre-eminence of the Complete Human Being
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
-وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
-كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
+> وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
+> كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
 
 ***“Certainly We have honored the Children of Adam, and carried them
 over land and sea, and provided them with all the good things, and given
@@ -180,13 +172,9 @@ else. The rest of the human beings whose hearts are devoid of the light
 of faith are like the worthless stones and are burnt in the infernal
 fire of divine wrath:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِنَ الْجِنِّ وَالإِنْسِ
-لَهُمْ قُلُوبٌ لاَ يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَ يُبْصِرُونَ
-بِهَا وَلَهُمْ آذَانٌ لاَ يَسْمَعُونَ بِهَا...
-  </p>
-</blockquote>
+> وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِنَ الْجِنِّ وَالإِنْسِ
+> لَهُمْ قُلُوبٌ لاَ يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَ يُبْصِرُونَ
+> بِهَا وَلَهُمْ آذَانٌ لاَ يَسْمَعُونَ بِهَا...
 
 ***“Certainly We have created for hell many of the jinn and humans: they
 have hearts with which they do not understand, they have eyes with which
@@ -201,12 +189,8 @@ day of their being has more worth than this whole universe. The real
 owners of this cosmos are people who have attained prosperity in the
 eyes of Allah and have set up their abodes in His proximity:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ \* فِي مَقْعَدِ صِدْقٍ
-عِنْدَ مَلِيكٍ مُقْتَدِرٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ \* فِي مَقْعَدِ صِدْقٍ
+> عِنْدَ مَلِيكٍ مُقْتَدِرٍ
 
 ***“Indeed the pious will be amid gardens and rivers in the abode of
 truthfulness with an Omnipotent Sovereign.”***[^5]
@@ -281,13 +265,9 @@ The Companions of Paradise
 Allah, the Exalted, thus describes the real masters of paradise in His
 book:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعِ اللّهَ وَالرَّسُولَ فَأُوْلَئِكَ مَعَ الَّذِينَ أَنْعَمَ
-اللّهُ عَلَيْهِم مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءَ
-وَالصَّالِحِينَ وَحَسُنَ أُولَئِكَ رَفِيقًا
-  </p>
-</blockquote>
+> وَمَنْ يُطِعِ اللّهَ وَالرَّسُولَ فَأُوْلَئِكَ مَعَ الَّذِينَ أَنْعَمَ
+> اللّهُ عَلَيْهِم مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءَ
+> وَالصَّالِحِينَ وَحَسُنَ أُولَئِكَ رَفِيقًا
 
 ***“Whoever obeys Allah and the Apostle—they are with those whom Allah
 has blessed, including the prophets and the truthful, the martyrs and
@@ -302,12 +282,8 @@ truthful, the martyrs and the righteous are people upon whom Allah has
 completed His favor and He has ordered us to request in our prayers that
 He guide us to their way:
 
-<blockquote dir="rtl">
-  <p>
-إِهْدِنَا الصِّرَاطَ المُسْتَقِيمَ \* صِرَاطَ الَّذِينَ أَنْعَمْتَ
-عَلَيْهِمْ ...
-  </p>
-</blockquote>
+> إِهْدِنَا الصِّرَاطَ المُسْتَقِيمَ \* صِرَاطَ الَّذِينَ أَنْعَمْتَ
+> عَلَيْهِمْ ...
 
 ***“Guide us on the straight path; the path of those upon whom You have
 bestowed favors.”***[^11]
@@ -324,11 +300,7 @@ what he has seen. The Day of Resurrection is a day when Allah asks all
 things to bear witness, even the limbs of the body. The Day of Reckoning
 is the day when the Noble Prophet (S) will say:
 
-<blockquote dir="rtl">
-  <p>
-... يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ مَهْجُورًا
-  </p>
-</blockquote>
+> ... يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ مَهْجُورًا
 
 ***“…O my Lord! Indeed my people have treated this Qur’an as a forsaken
 thing.”***[^12]
@@ -357,12 +329,8 @@ higher than the others.
 On the basis of Allah’s statement, the Prophets (*‘a*) have been
 allotted higher positions than the rest of the people:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ
 
 ***“Indeed Allah chose Adam and Noah, and the progeny of Abraham and the
 progeny of ‘Imran above all the nations.”***[^14]
@@ -370,11 +338,7 @@ progeny of ‘Imran above all the nations.”***[^14]
 In addition to this, He has made some of the prophets (*‘a*) higher than
 the others:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَى بَعْضٍ...
-  </p>
-</blockquote>
+> تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَى بَعْضٍ...
 
 ***“These are the apostles, some of whom We gave an advantage over
 others…”***[^15]
@@ -422,12 +386,8 @@ Only they and their Lord are aware of their station and the rest of the
 people are incapable of knowing their human level and that which they
 have attained:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ
-جَزَاءًا بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ
+> جَزَاءًا بِمَا كَانُوا يَعْمَلُونَ
 
 ***“So no one knows what has been kept hidden for them of that which
 will refresh the eyes as a reward for what they used to do.”***[^17]
@@ -438,23 +398,15 @@ One of the high levels of human beings that has been mentioned is the
 station of the righteous [*salihin*]. In regard to their high level and
 the superiority of their station, Allah quotes Prophet Moses (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
 
 ***“My Lord! Grant me [unerring] judgment, and unite me with the
 righteous.”***[^18]
 
 Elsewhere, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَقَ وَيَعْقُوبَ نَافِلَةً وَكُلاًّ جَعَلْنَا
-صَالِحِينَ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَقَ وَيَعْقُوبَ نَافِلَةً وَكُلاًّ جَعَلْنَا
+> صَالِحِينَ
 
 ***“And We gave him Isaac, and Jacob as well for a grandson, and each of
 them We made righteous.”***[^19]
@@ -495,22 +447,14 @@ The station of the truthful is such a superior station that when Allah,
 the Exalted, wants to describe the ranks of some of his prophets (*‘a*),
 He states:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا
 
 ***“And mention Abraham in the book. Indeed he was a truthful one, a
 Prophet.”***[^21]
 
 Or in regard to Mary, the mother of Jesus Christ (*‘a*), He says:
 
-<blockquote dir="rtl">
-  <p>
-وَأُمُّهُ صِدِّيقَةٌ
-  </p>
-</blockquote>
+> وَأُمُّهُ صِدِّيقَةٌ
 
 ***“And his mother was a truthful one.”***[^22]
 
@@ -576,12 +520,8 @@ asserts, “The Gracious Qur’an clearly states that Allah has selected and
 chosen them for Himself and has purified them for Himself, as the Qur’an
 states:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ
-وَهَدَيْنَاهُمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ
+> وَهَدَيْنَاهُمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ
 
 ***“And from among their fathers, their descendants and brethren, and We
 chose them and guided them to the straight path.”***[^23]
@@ -711,11 +651,7 @@ this deceitfulness infiltrates our practical ways of life and words too,
 we can become afflicted by even worse sin. In the Gracious Qur’an, Allah
 states:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللّهِ إِلاَّ وَهُمْ مُشْرِكُونَ
-  </p>
-</blockquote>
+> وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللّهِ إِلاَّ وَهُمْ مُشْرِكُونَ
 
 ***“And most of them do not believe in Allah without ascribing partners
 to Him.”***[^27]
@@ -729,13 +665,9 @@ world in his heart. The presence of all these vain inclinations and
 worldly affections is a sign that that man has several objects of
 worship, not one.
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ مَنْ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَى
-عِلْمٍ وَخَتَمَ عَلَى سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَى بَصَرِهِ
-غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ أَفَلاَ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ مَنْ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَى
+> عِلْمٍ وَخَتَمَ عَلَى سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَى بَصَرِهِ
+> غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ أَفَلاَ تَذَكَّرُونَ
 
 ***“Have you seen him who has taken his desire to be his god and whom
 Allah has led astray knowingly and set a seal upon his hearing and his
@@ -862,5 +794,4 @@ al-Islamiyyah Publications.
 [^27]: Surat Yusuf 12:106.
 
 [^28]: Surat al-Jathiyah 45:23.
-
 

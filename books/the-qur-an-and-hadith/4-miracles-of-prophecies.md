@@ -260,7 +260,6 @@ and correct. If not, then we shall wait till one day somebody discovers
 something which will tally with the QUR'AN and then we shall know that
 it was right.
 
-
 **Miracles As The Best Code Of Life**
 
 Islam is not just a relation between the Creator and man as is
@@ -665,5 +664,4 @@ wearisome repetition and jumbled confusion become meaningless. Truth
 cannot be dimmed by being frequently stated, but only gains in clarity
 and convincingness at every repetition; and where all is true,
 inconsequence and incomprehensibility are not felt to arise.
-
 

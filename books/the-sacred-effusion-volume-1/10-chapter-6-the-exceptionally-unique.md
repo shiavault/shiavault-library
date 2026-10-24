@@ -1,22 +1,14 @@
 Chapter 6: The Exceptionally Unique
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-الْوِتْرَ الْمَوْتُورَ
-  </p>
-</blockquote>
+> الْوِتْرَ الْمَوْتُورَ
 
 The Exceptionally Unique
 
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-الْوِتْرَ الْمَوْتُورَ
-  </p>
-</blockquote>
+> الْوِتْرَ الْمَوْتُورَ
 
 The Exceptionally Unique
 
@@ -27,12 +19,8 @@ but is brought as an emphasis[^2] in this case. A similar example[^3]
 has come in the Qur\`an with regard to *hijr* (forbidden) and *mahjur*
 (prohibited)*,* the latter being an emphasis of the former:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَرَوْنَ الْمَلاَئِكَةَ لاَ بُشْرَى يَوْمَئِذٍ لِّلْمُجْرِمِينَ
-وَيَقُولُونَ حِجْرًا مَّحْجُورًا
-  </p>
-</blockquote>
+> يَوْمَ يَرَوْنَ الْمَلاَئِكَةَ لاَ بُشْرَى يَوْمَئِذٍ لِّلْمُجْرِمِينَ
+> وَيَقُولُونَ حِجْرًا مَّحْجُورًا
 
 ***On the day when they shall see the angels, there shall be no joy on
 that day for the guilty, and they shall say:*** **It is a forbidden
@@ -42,12 +30,8 @@ And in the well-known supplication of *al-Sabah*, Amir al-mu’minin ‘Ali
 (AS) tries to emphasize *al-layl* (the night) with the adjective
 *al-alyal* (nightly):
 
-<blockquote dir="rtl">
-  <p>
-صَلِّ اللَّهُمَّ عَلَى الدَّلِيلِ إِلَيْكَ فِي اللَّيْلِ الأَلْيَل
-وَالْمَاسِكِ مِنْ أَسْبَابِكَ بِحَبْلِ الشَّرَفِ الأَطوَل
-  </p>
-</blockquote>
+> صَلِّ اللَّهُمَّ عَلَى الدَّلِيلِ إِلَيْكَ فِي اللَّيْلِ الأَلْيَل
+> وَالْمَاسِكِ مِنْ أَسْبَابِكَ بِحَبْلِ الشَّرَفِ الأَطوَل
 
 Bless, oh Allah, the guide to You in the darkest night, him who, of Thy
 ropes, clings to the cord of the longest nobility...[^4]
@@ -61,22 +45,14 @@ al-mawtur*.
 
 Amir al-mu’minin ‘Ali (AS) describing an Infallible Imam as:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُوجَدُ لَهُ مَثِيلٌ وَلاَ يَقُومُ لَهُ بَدِيل
-  </p>
-</blockquote>
+> لاَ يُوجَدُ لَهُ مَثِيلٌ وَلاَ يَقُومُ لَهُ بَدِيل
 
 **He is peerless**, no substitute can represent him.[^6]
 
 And in another tradition, Imam al-Ridha (AS) describing the qualities of
 an infallible Imam, says:
 
-<blockquote dir="rtl">
-  <p>
-الإِِمَامُ وَاحِدُ دَهْرِهِ لاَ يُدَانِيهِ أَحَدٌ
-  </p>
-</blockquote>
+> الإِِمَامُ وَاحِدُ دَهْرِهِ لاَ يُدَانِيهِ أَحَدٌ
 
 The Imam is unique in his time. **None can come closer to him in
 rank.**..[^7]
@@ -85,23 +61,15 @@ We may also say that Imam al-Husayn (AS) is a manifestation of the
 Divine Name *al-Witru*. The Holy Prophet (S), after speaking about the
 Divine Names, is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ وِتْرٌ، يُحِبُّ الوِتْرَ
-  </p>
-</blockquote>
+> إِنَّهُ وِتْرٌ، يُحِبُّ الوِتْرَ
 
 Surely He [Allah] is Unique, and He Loves the unique[^8]
 
 Expounding the meaning of *Ya Witru* in his commentary on the
 supplication of *al-Jawshan al-Kabir*, Mulla Hadi Sabzawari says:
 
-<blockquote dir="rtl">
-  <p>
-(يَا وِتْرُ) ايْ انه الوجود الصرف البسيط الذى لا يخالطه سنخ اخر من
-ماهية أو مادة أو قوة أو استعداد...
-  </p>
-</blockquote>
+> (يَا وِتْرُ) ايْ انه الوجود الصرف البسيط الذى لا يخالطه سنخ اخر من
+> ماهية أو مادة أو قوة أو استعداد...
 
 *Ya Witru* means that He is Sheer Existence, which is Simple
 [Non-composite], and nothing accompanies it like quiddity (*mahiyya*),
@@ -116,12 +84,8 @@ Him.
 
 Imam ‘Ali (AS) explaining the meaning of the phrase *Allahu Akbar* says:
 
-<blockquote dir="rtl">
-  <p>
-يَعْنِيْ اَلْوَاحِدُ الاَحَدُ الَّذِيْ لَيْسَ كَمِثْلِهِ شَيْءٌ لاَ
-يُقَاسُ بِشَيْءٍ...
-  </p>
-</blockquote>
+> يَعْنِيْ اَلْوَاحِدُ الاَحَدُ الَّذِيْ لَيْسَ كَمِثْلِهِ شَيْءٌ لاَ
+> يُقَاسُ بِشَيْءٍ...
 
 It means that He is One, Non-composite, the like of which there is
 nothing, and nothing can be compared to Him...[^10]
@@ -132,12 +96,8 @@ compared to them. They undoubtedly are manifestations of the Divine Name
 *al-Witr*, which means مَنْ لاَ ثَانِيَ لَهُ (One who does not have a
 second). In a tradition narrated from Zurara, Imam al-Baqir (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا لاَ نُوصَفُ وَكَيْفَ يُوصَفُ قَوْمٌ رَفَعَ اللَّهُ عَنْهُمُ
-الرِّجْسَ وَهُوَ الشَّك
-  </p>
-</blockquote>
+> وَإِنَّا لاَ نُوصَفُ وَكَيْفَ يُوصَفُ قَوْمٌ رَفَعَ اللَّهُ عَنْهُمُ
+> الرِّجْسَ وَهُوَ الشَّك
 
 And surely we cannot be described, and how can a people be described
 from whom Allah has removed impurity, which is doubt...[^11]
@@ -149,11 +109,7 @@ conviction and enjoy the level of *haqq al-yaqin* or even higher.
 Therefore the absence of doubt should not be conjectured to be merely in
 the conceptual level.
 
-<blockquote dir="rtl">
-  <p>
-الْوِتْرَ الْمَوْتُورَ
-  </p>
-</blockquote>
+> الْوِتْرَ الْمَوْتُورَ
 
 **The Exceptionally Unique**
 
@@ -164,16 +120,12 @@ however is not because his spiritual station is higher than theirs, for
 all of them unite in the Muhammadan Light (al-Nur al-Muhammadi). In a
 conversation with Salman and Jundub, Imam ‘Ali (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-اَنَا اُحْيِي وَاُمِيْتُ بِاِذْنِ رَبّيْ، اَنَا اُنَبّئُكُمْ بِمَا
-تَاْكُلُوْنَ وَمَا تَدّخِرُوْنَ فِيْ بُيُوْتِكُمْ بِاِذْنِ رَبّيْ،
-وَاَنَا عَالِمٌ بِضَمَائِرِ قُلُوْبِكُمْ وَالأئِمّة مِنْ اَوْلاَدِيْ
-يَعْلَمُوْنَ وَيَفْعَلُوْنَ هَذَا إِذَا اَحَبُّوْا وَاَرَادُوْا لاَنّا
-كُلّنَا وَاحِدٌ، اَوَّلُنَا مُحَمّدٌ وَآخِرُنَا مُحَمّدٌ وَاَوْسَطنَا
-مُحَمَّدٌ وَكُلّنَا مُحَمّدٌ فَلاَتُفَرِّقُوْا بَيْنَنَا...
-  </p>
-</blockquote>
+> اَنَا اُحْيِي وَاُمِيْتُ بِاِذْنِ رَبّيْ، اَنَا اُنَبّئُكُمْ بِمَا
+> تَاْكُلُوْنَ وَمَا تَدّخِرُوْنَ فِيْ بُيُوْتِكُمْ بِاِذْنِ رَبّيْ،
+> وَاَنَا عَالِمٌ بِضَمَائِرِ قُلُوْبِكُمْ وَالأئِمّة مِنْ اَوْلاَدِيْ
+> يَعْلَمُوْنَ وَيَفْعَلُوْنَ هَذَا إِذَا اَحَبُّوْا وَاَرَادُوْا لاَنّا
+> كُلّنَا وَاحِدٌ، اَوَّلُنَا مُحَمّدٌ وَآخِرُنَا مُحَمّدٌ وَاَوْسَطنَا
+> مُحَمَّدٌ وَكُلّنَا مُحَمّدٌ فَلاَتُفَرِّقُوْا بَيْنَنَا...
 
 I revive the dead, and make the living ones die by my Lord’s permission;
 I can inform you about what you eat and what you store in your homes by
@@ -192,12 +144,8 @@ manifest his perfect qualities by carrying out his great movement and
 sacrificing everything he had for the sake of the Only Beloved. The Holy
 Qur\`an says that for everyone are stations according to what they did:
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ
-وَهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ
+> وَهُمْ لاَ يُظْلَمُونَ
 
 ***And for all are degrees according to what they did, and that He may
 pay them back fully their deeds and they shall not be wronged.
@@ -209,13 +157,9 @@ opportunity however was gifted to Imam al-Husayn (AS) and accordingly he
 acquired a station that is unparalleled. The following tradition refers
 to a unique station for Imam al-Husayn (AS):
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنِ الرَّسُوْلِ الاَعْظَمِ قَالَ لِزَوْجَتِهِ اُمّ سَلَمَة:
-اَوْحي اللهُ عَزَّ وَجَلَّ إلَيَّ اَنَّ لَهُ (اَيْ لِلْحُسَيْنِ)
-دَرَجَةً لاَ يَنَالُهَا اَحَدٌ مِنَ الْمَخْلُوْقِيْنَ.
-  </p>
-</blockquote>
+> رُوِيَ عَنِ الرَّسُوْلِ الاَعْظَمِ قَالَ لِزَوْجَتِهِ اُمّ سَلَمَة:
+> اَوْحي اللهُ عَزَّ وَجَلَّ إلَيَّ اَنَّ لَهُ (اَيْ لِلْحُسَيْنِ)
+> دَرَجَةً لاَ يَنَالُهَا اَحَدٌ مِنَ الْمَخْلُوْقِيْنَ.
 
 The Most Noble Messenger (S) said to his wife Umm Salama: Allah Revealed
 unto me that verily he (al-Husayn) has a station which none of the
@@ -224,12 +168,8 @@ creation would attain.[^15]
 And Imam al-Husayn (AS) just before his departure from Madina sees the
 Prophet (S) in his dream saying to him:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ لَكَ فِي الْجَنَّةِ دَرَجَاتٍ لاَ تَنَالُهَا إِلاَ
-بِالشَّهَادَة
-  </p>
-</blockquote>
+> وَ إِنَّ لَكَ فِي الْجَنَّةِ دَرَجَاتٍ لاَ تَنَالُهَا إِلاَ
+> بِالشَّهَادَة
 
 And indeed you have stations in the Paradise that you shall not attain
 save with martyrdom.[^16]
@@ -253,17 +193,9 @@ entire creation are bewildered, confounded and mystified.
 
 Sa’di, the Persian poet says:
 
-<blockquote dir="rtl">
-  <p>
-جهان متفق بر الهيتش
-  </p>
-</blockquote>
+> جهان متفق بر الهيتش
 
-<blockquote dir="rtl">
-  <p>
-فرو مانده در كنه ماهيتش.
-  </p>
-</blockquote>
+> فرو مانده در كنه ماهيتش.
 
 *The entire creation is unanimous in his Godhood*  
 *Unable to apprehend the Essence of His Being*
@@ -272,27 +204,15 @@ Thereafter Rabbani says that Imam al-Husayn (AS), who is a manifestation
 of the Name Allah, likewise, confounds the intellects and overcomes the
 human beings with perplexity and amazement.
 
-<blockquote dir="rtl">
-  <p>
-فيك يا أعجوبة الكون غدا الفكر كليلاً. أنت حيّرت ذوي اللب وبلبلت
-العقولا.
-  </p>
-</blockquote>
+> فيك يا أعجوبة الكون غدا الفكر كليلاً. أنت حيّرت ذوي اللب وبلبلت
+> العقولا.
 
 *O the marvel of existence, the intellect is exhausted in You; You
 confounded people of insight and confused the intellects*
 
-<blockquote dir="rtl">
-  <p>
-اين حسين كيست كه عالم همه ديوانه اوست
-  </p>
-</blockquote>
+> اين حسين كيست كه عالم همه ديوانه اوست
 
-<blockquote dir="rtl">
-  <p>
-اين چه شمعي است كه جانها همه پروانه اوست
-  </p>
-</blockquote>
+> اين چه شمعي است كه جانها همه پروانه اوست
 
 *Who is this Husayn, that the entire world is mad after him; What candle
 is this, that all the souls are its moth(s)?*
@@ -303,11 +223,7 @@ residents of the Divine throne as well as the entire chain of the sacred
 intellects, astonished at his display of intense love and self-sacrifice
 in the path of the Eternal and Infinite Beloved.[^18]
 
-<blockquote dir="rtl">
-  <p>
-الْوِتْرَ الْمَوْتُورَ
-  </p>
-</blockquote>
+> الْوِتْرَ الْمَوْتُورَ
 
 The martyr, whose near ones have been killed, but their blood have not
 been avenged for
@@ -319,11 +235,7 @@ necessarily is the *tha’ir* (avenger of the blood) as well. Muhammad bin
 Muslima in the battle of Khaybar employs a similar expression when he
 tells the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-أَنَا الْمَوْتُوْرُ الثَّائِرُ
-  </p>
-</blockquote>
+> أَنَا الْمَوْتُوْرُ الثَّائِرُ
 
 I am one whose kin has been unjustly killed but his blood not yet
 avenged, and I am the avenger.[^20]
@@ -339,22 +251,14 @@ who would avenge the blood of his near ones, then that would transpire
 during his return to this world (*raj’a*). With regard to *raj’a*,
 Hamran narrates from Imam Muhammad al-Baqir (AS):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوَّلَ مَنْ يَرْجِعُ لَجَارُكُمُ الْحُسَيْنُ فَيَمْلِكُ حَتَّى
-تَقَعَ حَاجِبَاهُ عَلَى عَيْنَيْهِ مِنَ الْكِبَرِ
-  </p>
-</blockquote>
+> إِنَّ أَوَّلَ مَنْ يَرْجِعُ لَجَارُكُمُ الْحُسَيْنُ فَيَمْلِكُ حَتَّى
+> تَقَعَ حَاجِبَاهُ عَلَى عَيْنَيْهِ مِنَ الْكِبَرِ
 
 Indeed the first one to return is your refuge al-Husayn (AS), who will
 rule [for so many years] until his eyebrows would hang over his eyes,
 out of old age.[^22]
 
-<blockquote dir="rtl">
-  <p>
-الْوِتْرَ الْمَوْتُورَ
-  </p>
-</blockquote>
+> الْوِتْرَ الْمَوْتُورَ
 
 **The Alone who was Rendered Solitary**
 
@@ -379,11 +283,7 @@ companions, but also *gharib al-ghuraba’* (the stranger of the
 strangers). In a *Ziyarat* narrated from Imam al-Sadiq (AS) we address
 Imam al-Husayn (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-السَّلاَمُ عَلَيْكَ يَا غَرِيبَ الْغُرَبَاء
-  </p>
-</blockquote>
+> السَّلاَمُ عَلَيْكَ يَا غَرِيبَ الْغُرَبَاء
 
 Peace be unto you, o stranger of the strangers.[^24]
 
@@ -392,13 +292,9 @@ of his noble family members and companions, and rendered him solitary
 and alone. It is in these moments that he cried from the depths of his
 heart:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ مِنْ نَاصِرٍ يَنْـصُرُ الذُّرِّيَّةَ الأَطهَار، هَلْ مِنْ
-مُجْيْرٍ لأَبْـنَاءِ الْبَتُوْلِ، هَــلْ مِنْ ذَابٍّ يَذُبُّ عَنْ
-حَرَمِ الرَّسُوْلِ ؟
-  </p>
-</blockquote>
+> هَلْ مِنْ نَاصِرٍ يَنْـصُرُ الذُّرِّيَّةَ الأَطهَار، هَلْ مِنْ
+> مُجْيْرٍ لأَبْـنَاءِ الْبَتُوْلِ، هَــلْ مِنْ ذَابٍّ يَذُبُّ عَنْ
+> حَرَمِ الرَّسُوْلِ ؟
 
 Is there any helper to help the immaculate progeny? Is there any
 protector for the children of al-Batul (AS)? Is there any defender to
@@ -415,11 +311,7 @@ and revive Islam, then we do respond to his call. Otherwise we should
 not be surprised if we also rank among those who left him alone. May
 Allah protect us from being among those who leave him alone.
 
-<blockquote dir="rtl">
-  <p>
-الْوِتْرَ الْمَوْتُورَ
-  </p>
-</blockquote>
+> الْوِتْرَ الْمَوْتُورَ
 
 **The Alone and Deprived**
 
@@ -427,11 +319,7 @@ Sometimes the word *al-mawtur* is employed to mean ‘one who is deprived’
 (*al-manqus*). The following tradition of the Holy Prophet (S) is
 translated taking this meaning into consideration:
 
-<blockquote dir="rtl">
-  <p>
-الْمَوْتُورُ أَهْلُهُ وَمَالُهُ مَنْ ضَيَّعَ صَلاَةَ الْعَصْرِ
-  </p>
-</blockquote>
+> الْمَوْتُورُ أَهْلُهُ وَمَالُهُ مَنْ ضَيَّعَ صَلاَةَ الْعَصْرِ
 
 One who is deprived of his family and wealth is one who wastes the
 prayer of ‘Asr[^25]
@@ -496,5 +384,4 @@ would study the 9th volume of the magnum opus al-Asfar of Mulla Sadra.
 [^24]: ‘Allama al-Majlisi, Bihar al-Anwar, v.98, p.230
 
 [^25]: ‘Allama al-Majlisi, Bihar al-Anwar, v.80, p.28
-
 

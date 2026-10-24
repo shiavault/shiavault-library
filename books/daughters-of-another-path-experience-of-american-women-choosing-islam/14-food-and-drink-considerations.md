@@ -338,4 +338,3 @@ acquaintances are, the less conservative the women feel they have to be.
 A more strict attitude may be a protective response to lack of support
 and trust.
 
-

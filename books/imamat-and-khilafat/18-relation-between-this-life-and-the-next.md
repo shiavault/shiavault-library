@@ -345,7 +345,6 @@ the same? Bad is their judgement! And Allah has created the heavens and
 the earth with truth, and that everyone may be repaid what he has
 earned. And they will not be wronged." (Surah al Jathiyah, 45:21 - 22)
 
-
 Explanation: Here it is necessary to give an explanation as to how the
 two principles of Divine justice and Divine wisdom necessitate eternal
 life, and how it is that if we presume that the limited life of this
@@ -549,5 +548,4 @@ existence becomes meaningless and to no purpose. One effect of the
 belief in the next world is that it delivers us from thinking that our
 existence has no purpose and gives a meaning to ourselves, our thinking
 and our life.
-
 

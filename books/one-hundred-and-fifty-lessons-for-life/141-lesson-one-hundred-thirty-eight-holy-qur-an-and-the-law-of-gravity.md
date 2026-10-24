@@ -3,12 +3,8 @@ Lesson One Hundred Thirty Eight: Holy Qur’an And The Law Of Gravity
 
 Imam Ar-Ridha’ (a.s.) said to one of his companions:
 
-<blockquote dir="rtl">
-  <p>
-اَلَيْسَ اللّهُ يَقُولُ بِغَيْرِ عَمَد تَرَوْنَها فَقُلْتُ: بَلى قالَ:
-ثُمَّ عَمَدٌ، لكِنْ، لاتَرَوْنَها!
-  </p>
-</blockquote>
+> اَلَيْسَ اللّهُ يَقُولُ بِغَيْرِ عَمَد تَرَوْنَها فَقُلْتُ: بَلى قالَ:
+> ثُمَّ عَمَدٌ، لكِنْ، لاتَرَوْنَها!
 
 Translation
 -----------
@@ -31,5 +27,4 @@ in that time when these mysteries were not yet solved? And isn’t this
 one of the scientific miracles of our great leaders.
 
 [^1]: Borhan interpretation of Holy Qur’an, volume 3, page 278
-
 

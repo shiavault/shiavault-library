@@ -1707,4 +1707,4 @@ reward of the patient).
 
 ***7-1-1964 AD. / 1383 A.H.  
  Kadhimiyya-Baghdad  
- Muhammad Sadiq as-Sadr*<span style="font-size: 13pt"></span>**
+ Muhammad Sadiq as-Sadr***

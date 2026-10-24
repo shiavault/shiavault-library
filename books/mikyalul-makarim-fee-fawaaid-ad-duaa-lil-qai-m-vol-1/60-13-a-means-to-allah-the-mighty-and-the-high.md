@@ -4,12 +4,8 @@
 Allah, the Mighty and Sublime has ordered that you must take up a means
 to Him, as mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
-الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
+> الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“O you who believe! be careful of (your duty to) Allah and seek means
 of nearness to Him and strive hard in His way that you may be
@@ -126,11 +122,7 @@ fathers, and this *Dua* is a cause of their satisfaction and seeking of
 their aim and goal. Moreover, it is the obedience of *Ulil Amr* that
 Allah has made incumbent:
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***“Obey Allah and obey the Apostle and those in authority from among
 you.” (Qur’an, Surah Nisa 4:59)***
@@ -142,12 +134,8 @@ Also the tradition we mentioned in forgone pages proves this: In
 *Burhan* and other books, it is narrated from His Eminence, Abu Ja’far
 Baqir (as) regarding the following words of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا
-مِنْ فَضْلِ اللَّهِ
-  </p>
-</blockquote>
+> فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا
+> مِنْ فَضْلِ اللَّهِ
 
 ***“But when the prayer is ended, then disperse abroad in the land and
 seek of Allah’s grace…” (Qur’an, Surah Jumu’ah 62:10)***
@@ -171,12 +159,8 @@ existence of the Imam (as).
 2. Earth is a means of receiving the heavenly bounties by the people of
 the world. Thus the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ
-اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ
-  </p>
-</blockquote>
+> وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ
+> اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ
 
 ***“And you see the earth sterile land, but when We send down on it the
 water, it stirs and swells and brings forth of every kind a beautiful
@@ -190,53 +174,21 @@ from the earth, like fruits, grasses and straw (cattle feed) etc.
 according to the needs of the creatures so that human beings and animals
 may derive their nutrition from it. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
-  </p>
-</blockquote>
+> ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْبَتْنَا فِيهَا حَبًّا
-  </p>
-</blockquote>
+> فَأَنْبَتْنَا فِيهَا حَبًّا
 
-<blockquote dir="rtl">
-  <p>
-وَعِنَبًا وَقَضْبًا
-  </p>
-</blockquote>
+> وَعِنَبًا وَقَضْبًا
 
-<blockquote dir="rtl">
-  <p>
-وَزَيْتُونًا وَنَخْلًا
-  </p>
-</blockquote>
+> وَزَيْتُونًا وَنَخْلًا
 
-<blockquote dir="rtl">
-  <p>
-وَحَدَائِقَ غُلْبًا
-  </p>
-</blockquote>
+> وَحَدَائِقَ غُلْبًا
 
-<blockquote dir="rtl">
-  <p>
-وَفَاكِهَةً وَأَبًّا
-  </p>
-</blockquote>
+> وَفَاكِهَةً وَأَبًّا
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
-  </p>
-</blockquote>
+> مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاءَتِ الصَّاخَّةُ
-  </p>
-</blockquote>
+> فَإِذَا جَاءَتِ الصَّاخَّةُ
 
 ***“Then We cause to grow therein the grain, And grapes and clover, And
 the olive and the palm, And thick gardens, And fruits and herbage A
@@ -281,5 +233,4 @@ Abbun (‘herbage’): Grassland or farm where crops grow…
 [^9]: Al-Burhan, Vol. 4, Pg. 335
 
 [^10]: Majma al-Bayan, Vol. 10, Pg. 440
-
 

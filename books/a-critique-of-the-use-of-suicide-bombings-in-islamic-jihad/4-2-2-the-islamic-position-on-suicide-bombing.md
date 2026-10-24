@@ -129,4 +129,3 @@ constituting a reprehensible innovation in the Islamic tradition,
 morally an enormity of sin combining suicide and murder and
 theologically an act which has consequences of eternal damnation.
 
-

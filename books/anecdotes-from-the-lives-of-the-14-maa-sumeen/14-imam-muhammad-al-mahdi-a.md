@@ -142,4 +142,3 @@ should try to answer more than what was said to you.
 2. When anyone else sneezes you should say Yarhamukallah; when you
 yourself sneeze you should say Alhamdulillah.
 
-

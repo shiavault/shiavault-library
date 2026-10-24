@@ -23,4 +23,3 @@ mediator for others to receive God’s grace, the fruit of creation, and
 is the divine vicegerent in the world. He is the proof of God and enjoys
 the status of*wilayah* (divine authority).
 
-

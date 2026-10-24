@@ -207,4 +207,3 @@ spirit and mind.
 
 [^9]: Paiwandhai Kudak wa Khanwada, p. 131
 
-

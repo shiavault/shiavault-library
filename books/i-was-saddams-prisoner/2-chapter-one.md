@@ -49,4 +49,3 @@ hardly able to walk was then pushed out of the door, taken away to where
 nobody knew.  
    
 
-

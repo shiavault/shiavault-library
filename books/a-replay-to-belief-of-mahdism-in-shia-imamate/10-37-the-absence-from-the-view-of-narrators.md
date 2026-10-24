@@ -591,4 +591,3 @@ to God. It is the demand of justice, as reason dictates that God should
 keep His Authority in the world. If evil grows and is not checked then
 it could be attributed to God and that is absolutely unreasonable.
 
-

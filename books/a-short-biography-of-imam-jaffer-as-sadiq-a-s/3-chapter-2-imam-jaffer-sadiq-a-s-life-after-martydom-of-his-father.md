@@ -121,7 +121,6 @@ these agitators so as to save his throne. Imam Jaffer Sadiq (A.S) took
 this opportunity to carry out his mission that had been put to a
 temporary halt by Hisham.
 
-
 **Imam Sadiq's "Revolution' Through Education**
 
 After a short interruption, Imam Jaffer Sadiq (A.S) resumed his
@@ -248,5 +247,4 @@ books are:
 2. AL-TAHDHIB - authored by Tusi
 3. AL-ISTIBSAR - authored by Tusi
 4. MAN LA YAHDARAH AL-FAQIH authored by Sudduk.
-
 

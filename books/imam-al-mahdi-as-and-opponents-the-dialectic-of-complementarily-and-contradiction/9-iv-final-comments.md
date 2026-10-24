@@ -45,7 +45,6 @@ that come to me, except as God wills. There is an appointed term for
 every community, and when it is reached they can neither delay nor
 hasten it, even for a moment." (35)
 
-
 **May Almighty Allah Increase The Followers Of His True Path**
 
 **V.- Bibliography**
@@ -149,5 +148,4 @@ professional level. Is no doubt that this is the greatest task that a
 human being could ever had in his/her life, but, still is a long journey
 to go and a lot of work to do before His appearance, but a bright future
 is awaiting us at the end of the "Journey".
-
 

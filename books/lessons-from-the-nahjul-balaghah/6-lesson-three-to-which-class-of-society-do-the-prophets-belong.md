@@ -394,4 +394,3 @@ definition of the deprived not with the concept of deprivation.
 
 [^1]: Ibid. Part two, page 406. Parenthesis is the translator's.
 
-

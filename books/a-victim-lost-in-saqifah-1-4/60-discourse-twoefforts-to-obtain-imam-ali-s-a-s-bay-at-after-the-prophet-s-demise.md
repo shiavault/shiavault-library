@@ -78,7 +78,7 @@ and dragged them to Abu Bakr till they paid allegiance.”**[2]**
 
 Some narrators of this report are:
 
-Tabari Imami (4<sup>th</sup> century): *Al-Mustarshid,* Pg. 378
+Tabari Imami (4th century): *Al-Mustarshid,* Pg. 378
 
 Ibne Shahar Aashob (d. 588): *Mathalib,* Pg. 419
 
@@ -512,7 +512,7 @@ he extended his hand and gave Bay’at.”**[2]**
 
 ### Document No. 6
 
-Shaykh Ahmad Tabarsi (6<sup>th</sup> century) mentions a document as
+Shaykh Ahmad Tabarsi (6th century) mentions a document as
 follows:
 
 “Abu Bakr said to Qunfudh: If he (Ali) comes out, it is all right. If

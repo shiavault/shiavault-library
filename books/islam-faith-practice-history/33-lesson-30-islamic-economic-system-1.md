@@ -231,4 +231,3 @@ Dāru 'l-Kutubi 'l-Islāmiyya, 1388 AH) p. 542.
 
 [^5]: Al-\`Āmili, Wasā'il, vol. 11, p. 49.
 
-

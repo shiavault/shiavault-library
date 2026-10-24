@@ -1,10 +1,6 @@
 Introduction
 ============
 
-  
-
-  
-
 (1)
 ===
 
@@ -37,11 +33,6 @@ regarded them as the life-ships of this community. He has said:
  [[2]](#_F2) Ibid., 41, 23.  
  [[3]](#_F3) Al-Tirmidhi, Sahih, vol. 2, p. 308. Asad al-Ghāba, vol. 2,
 p. 12.  
-  
-
-  
-
-  
 
 Verily  my Household among you are like Noahs Ark, which whoever
 embarked was safe, and whoever missed drowned. Verily my Household among
@@ -85,11 +76,6 @@ world and divorced it three times, just as his grandfather
 [[1]](#_F4) Majjma' al-Zawā'id, vol. 9, p. 68. Al-Hlya, vol. 4, p. 306.
 Tārikh Baghdad, vol. 2, p. 19.  
  [[2]](#_F5) Al-Majjlisi, Bihār al-Anwār, vol. 12, p. 71.  
-  
-
-  
-
-  
 
 Imām Ali, the Commander of the faithful, peace be on him, did. Hence, he
 paid no attention to its vanities and embellishment. This clearly
@@ -130,11 +116,6 @@ he said to his helper and adviser, Abd
 ------------------------------------------------------------------------
 
 [[1]](#_F6) Al-Ya'qūbi, Tārikh.  
-  
-
-  
-
-  
 
 Allah b. Abbās to whom he held up his sandals made of fiber and asked
 him:
@@ -177,12 +158,6 @@ and all supporters of the Household (of the Prophet) whom the previous
 Abbāsid governments had wronged, persecuted, and deprived of their
 natural rights.
 
-  
-
-  
-
-  
-
 Imām al-Ridā, peace be on him, was fully aware of the political reasons
 which urged al-Mamūn to abdicate the office of the caliphate and to hand
 it over to him, peace be on him. He, peace be on him, vigorously refused
@@ -223,10 +198,6 @@ defaming the Shiites who believed that the Imāms of the Household (of
 the Prophet), peace be on them, were the most knowledgeable of the
 community, and that  
 
-  
-
-  
-
 Allah endowed them knowledge and excellencies just as He had endowed His
 prophets and His testamentary trustees.
 
@@ -266,12 +237,6 @@ general prescriptions such as refraining from eating too much food which
 gives rise to high blood pressure, diabetes, arteriosclerosis, and other
 dangerous diseases. It is certain that if one puts into practice the
 Imāms prescriptions, he will need no medicine.
-
-  
-
-  
-
-  
 
 As this dissertation is of great importance, some meritorious people
 have explained it according to modern medicine. Among them is Dr.
@@ -315,10 +280,6 @@ and sciences from the Imām. The narrators and historians have
 unanimously agreed that the Imām was a unique Muslim thinker, and that
 he derived his own knowledge from  
 
-  
-
-  
-
 that of his pure fore-fathers, peace be on them, who were the guardians
 of the knowledge of the Prophet, may Allah bless him and his family, and
 inheritors of his wise sayings.
@@ -360,10 +321,6 @@ able to suppress all those revolts against him .
 We have deeply and inclusively probed into the characters of the Abbāsid
 kings with whom Imām al-Ridā, peace be on him, coincided.  
 
-  
-
-  
-
 As a result we have concluded that their characters are similar to those
 of the Umayyads, who spent the property of Allah on themselves and
 enslaved His servants. After this serious research on their characters,
@@ -401,10 +358,6 @@ Some historians and authors think that the measure of ones highness and
 great position is his sitting on the throne of government and his
 seizing the reins of  general authority over a country. This is
 incorrect; the measure of ones exaltedness in Islamic viewpoint is the  
-
-  
-
-  
 
 services which he renders to his community in the fields of economy,
 culture, security, and prosperity. If Muslim historians and authors
@@ -446,10 +399,6 @@ books; I would particularly like to thank His Eminence al-Hujjah, the
 great Allāma, my brother, Hādi Sharif al-Qarashi for the creative
 efforts he rendered to me, his valuable notes on the book, his  
 
-  
-
-  
-
 checking some of the books I made use of, and his encouraging me to
 serve the members of the House *(ahl al-Bayt)*, peace be on. I ask
 Allah, the Exalted, to reward him just as He rewards the righteous from
@@ -460,6 +409,4 @@ Holy Najaf,
 Shawwāl 14th, 1411 A. H.
 
 Bāqir Sharif al-Qarashi.
-
-  
 

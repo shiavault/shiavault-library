@@ -50,4 +50,3 @@ about Islam. Among them are the following:
 5. The pother of the Prophet Muhammad (the Imam Ali). (He also wrote
 this book in Arabic and named it Amir al-Mu'minin)
 
-

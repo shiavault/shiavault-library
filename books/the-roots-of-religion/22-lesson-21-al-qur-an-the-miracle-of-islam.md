@@ -416,4 +416,3 @@ beliefs.
 
 [^6]: Usul al-Kafi, vol. 2, p. 599.
 
-

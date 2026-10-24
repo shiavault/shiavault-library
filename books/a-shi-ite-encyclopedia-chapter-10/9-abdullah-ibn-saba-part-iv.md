@@ -214,7 +214,6 @@ Imam Ali said in the battle of Camel:
 First understand the truth, you will then realize who is adhering to
 it." (Nahjul Balaghah, by Imam Ali)
 
-
 **Short Summary of Comparing reports on the Character of Abdullah Ibn
 Saba**
 
@@ -271,5 +270,4 @@ students of this Jew.
 
 Sunni traditions indicate that Abu Dar and Ammar were among the best
 companions and the most beloved ones to the Prophet (PBUH&HF).
-
 

@@ -137,7 +137,6 @@ Prof: I guess you'll have to take them on faith, son.
 Student: That is it sir... The link between man and God is FAITH. That
 is all that keeps things moving and alive.
 
-
 **God Is Everywhere**
 
 A father has three sons. One day he brought candy for his sons. His
@@ -176,5 +175,4 @@ can see me wherever I am.
 The boy has passed the test. God is everywhere. Well done my son, you
 are right. There was nowhere to eat the candy without being seen by
 Almighty God.
-
 

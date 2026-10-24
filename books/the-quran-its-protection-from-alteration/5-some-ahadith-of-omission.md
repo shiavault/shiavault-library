@@ -140,4 +140,3 @@ sabbih.
 [^14]: For details, see Mir Hamid Husayn al-Musawi al-Hindi, Istiqsa'u
 'l-Ifham, vol. 2 (Lucknow) the section on tahrif of the Qur'an.
 
-

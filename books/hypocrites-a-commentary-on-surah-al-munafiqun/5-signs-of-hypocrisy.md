@@ -1,14 +1,10 @@
 Signs of Hypocrisy
 ==================
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ
-لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ يَحْسَبُونَ كُلَّ
-صَيْحَةٍ عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ
-أَنَّى يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ
+> لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ يَحْسَبُونَ كُلَّ
+> صَيْحَةٍ عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ
+> أَنَّى يُؤْفَكُونَ
 
 “***When you look at them, their exteriors please you. When they speak,
 you listen to their words. They are as (worthless as hollow) pieces of
@@ -442,5 +438,4 @@ opposition parties were forced to swallow their hatred.
 [^15]: Imam ‛Ali (a), Nahj al-Balaghah, sermon 205
 
 [^16]: Sharef al-Din ‛Amuli, Abu Hurayrah, page 27 (Arabic version
-
 

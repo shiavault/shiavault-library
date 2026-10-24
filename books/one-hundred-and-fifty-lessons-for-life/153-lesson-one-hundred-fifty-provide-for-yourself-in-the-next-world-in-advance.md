@@ -3,12 +3,8 @@ Lesson One Hundred Fifty: Provide For Yourself In The Next World In Advance
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-ما تَقَدَّمَ مِنْ خَيْر يَبْقَ لَكَ ذُخْرُهُ وَ ما تُؤَخَّرُهُ يَكُنْ
-لِغَيْرِكَ خَيْرُهُ
-  </p>
-</blockquote>
+> ما تَقَدَّمَ مِنْ خَيْر يَبْقَ لَكَ ذُخْرُهُ وَ ما تُؤَخَّرُهُ يَكُنْ
+> لِغَيْرِكَ خَيْرُهُ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ their next world by spending it in Allah’s way.
 
 [^1]: Nahjul Balaghah. Sharh Nahjul Balaghah, vol 18, page 41. Girar
 Al-Hikam, page 104.
-
 

@@ -42,4 +42,3 @@ that I gained gave me so much pleasure and self-contentment that it gave
 success it's real meaning. I was, thank God, happy with the little I
 had. It is a Divine Blessing in a believer's life.
 
-

@@ -104,7 +104,6 @@ which we can have no notion at all. Since simple ideas are acquired only
 by experience, anything we do not experience is literally inconceivable
 to us. [Essay II ii 1-3]
 
-
 **Ideas of Sensation**
 
 Everything begins, then, with simple ideas of sensation. Most of these
@@ -164,5 +163,4 @@ aspect of the organization of our experiences, by providing clear
 conceptions of reality. Pleasure and pain, as we'll see later, play a
 special role in motivating us to exercise the volitional power behind
 all human actions, of mind and body.
-
 

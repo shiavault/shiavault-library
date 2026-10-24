@@ -272,4 +272,3 @@ personality and to the strengthening of respect for human rights and
 fundamental freedoms. It shall promote understanding, tolerance and
 friendship among all nations, racial or was presented.
 
-

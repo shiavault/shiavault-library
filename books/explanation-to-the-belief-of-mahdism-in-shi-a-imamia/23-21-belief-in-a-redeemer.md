@@ -15,4 +15,3 @@ him the title of Mahdi. The efforts in this field regardless from where
 it came from did not succeed, because the people did not approve of
 their reputation for such a post.
 
-

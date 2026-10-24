@@ -10,18 +10,11 @@ process of creativity and absolute lordship.
 
 As Allah said,
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى
-وَلَا كِتَابٍ مُّنِيرٍ
-  </p>
-</blockquote>
-
-
+> وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى
+> وَلَا كِتَابٍ مُّنِيرٍ
 
 ***Among men is he who disputes in respect of Allah though having no
 knowledge, nor guidance, nor a book giving light.*** (31:20)
-
 
 None will have a harsher punishment than someone who claims a right to
 the mantle of knowledge without having either the truth or the meaning
@@ -43,23 +36,13 @@ attained between yourself and your Originator. Seek Allah's help in all
 your affairs, and beseech Allah humbly at the end of the night and at
 the end of the day. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-ادْعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ لاَ يُحِبُّ
-الْمُعْتَدِينَ
-  </p>
-</blockquote>
-
-
+> ادْعُواْ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ لاَ يُحِبُّ
+> الْمُعْتَدِينَ
 
 ***Call on your Lord humbly and secretly; surely He does not love those
 who exceed the limits.*** (7:55)
 
-
 Transgressing is one of the attributes, indeed, one of the hallmarks,
 of the reciters of our time. Be fearful of Allah in all your affairs, so
 that you do not fall into the arena of desire and destroy yourself.
-
-
 

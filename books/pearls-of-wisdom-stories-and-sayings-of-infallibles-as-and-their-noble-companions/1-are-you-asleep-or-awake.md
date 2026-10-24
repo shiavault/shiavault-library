@@ -78,4 +78,3 @@ You?'
 Habbah and Nawf said: “By Allah! he kept on walking and he had the same
 condition continuously till dawn.”
 
-

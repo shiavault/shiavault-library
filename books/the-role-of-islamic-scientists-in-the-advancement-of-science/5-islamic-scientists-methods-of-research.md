@@ -95,4 +95,3 @@ groups in a table called "attendants” and another one of "absents", and
 he called them the graded table. By this grading, classification and
 levelling he formed several rules.
 
-

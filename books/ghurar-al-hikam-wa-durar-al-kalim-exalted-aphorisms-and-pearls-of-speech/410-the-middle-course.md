@@ -8,10 +8,5 @@ it return those who have gone to the extreme and with it join those who
 have lagged behind.
 
 > 1ـ خَيْـرُ الأُمُورِ (هذِهِ الاُمَّةِ) النَّمَطُ الأوْسَطُ، إلَيْهِ
-<blockquote dir="rtl">
-  <p>
-يَرْجِعُ الغالي وبِهِ يَلْحَقُ التّالي.
-  </p>
-</blockquote>
-
+> يَرْجِعُ الغالي وبِهِ يَلْحَقُ التّالي.
 

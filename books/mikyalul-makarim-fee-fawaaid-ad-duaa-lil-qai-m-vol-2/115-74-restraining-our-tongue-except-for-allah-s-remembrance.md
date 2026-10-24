@@ -128,17 +128,9 @@ hereafter has wasted his life. And no one can doubt it.
 What we have mentioned is having a generality and restriction to the
 saying of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَصْرِ.
-  </p>
-</blockquote>
+> وَالْعَصْرِ.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ 
-  </p>
-</blockquote>
+> إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ
 
 ***I swear by the time. Most surely man is in loss. Except those who
 believe and do good. (Qur’an, Surah Asr 103:1-2)***
@@ -381,12 +373,8 @@ some of them have reconciled them and it is the right attitude.
 But Allamah Majlisi has opposed this and said in Kitabus Salat of
 Biharul Anwar after the mention of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ
-تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ
+> تُرْحَمُونَ
 
 ***And when the Qur’an is recited, then listen to it and remain silent,
 that mercy may be shown to you. (Qur’an, Surah Araaf 7:204)***
@@ -457,19 +445,11 @@ of the earlier messengers, except His Eminence, Sulaiman (as) who was
 granted only Bismillaahir Rah’maanir Rah’eem from this Surah. This is
 mentioned in the Holy Qur’an in these words:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ يَا أَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ
-كَرِيمٌ 
-  </p>
-</blockquote>
+> قَالَتْ يَا أَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ
+> كَرِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مِنْ سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَٰنِ
-الرَّحِيمِ
-  </p>
-</blockquote>
+> إِنَّهُ مِنْ سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَٰنِ
+> الرَّحِيمِ
 
 ***Surely an honorable letter has been delivered to me. Surely it is
 from Sulaiman, and surely it is in the name of Allah, the Beneficent,
@@ -493,12 +473,8 @@ no difference between this and other Surahs.
 
 In Kanzul Irfan of Fadil Miqdad after the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ
-تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ
+> تُرْحَمُونَ
 
 ***And when the Qur’an is recited, then listen to it and remain silent,
 that mercy may be shown to you. (Qur’an, Surah Araaf 7:204)***
@@ -519,12 +495,8 @@ it if you can. And he said: His Eminence, Ali (as) was leading the
 Morning Prayer when Ibne Kawwa, standing behind the Imam in prayers,
 recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
-أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
+> أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ
 
 ***And certainly, it has been revealed to you and to those before you:
 Surely if you associate (with Allah), your work would certainly come to
@@ -538,12 +510,8 @@ remained quiet and after that continued his Qiraat in prayer. Once more,
 Ibne Kawwa recited the verse and Ali (as) remained quiet. And then he
 recited the following verse in reply to him:
 
-<blockquote dir="rtl">
-  <p>
-اصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ
-لَا يُوقِنُونَ
-  </p>
-</blockquote>
+> اصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ
+> لَا يُوقِنُونَ
 
 ***Therefore be patient; surely the promise of Allah is true and let not
 those who have no certainty hold you in light estimation. (Qur’an, Surah
@@ -789,5 +757,4 @@ Ahkam, Vol. 3, Pg. 35
 [^24]: Tahdhib, Vol. 3, Pg. 275, Tr. no. 120
 
 [^25]: Tafseer Al-Burhan, Vol. 4, Pg. 220; Surah Qaf 50:18, Tr. no. 6
-
 

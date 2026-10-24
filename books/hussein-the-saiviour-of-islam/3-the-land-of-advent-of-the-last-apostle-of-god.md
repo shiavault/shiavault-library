@@ -333,4 +333,3 @@ though he may not be a prophet, he must necessarily be a Deputy of an
 apostle of God. This is the point to be remembered in judging the
 personality of Husain, the King of Martyrs.
 
-

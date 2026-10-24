@@ -49,4 +49,3 @@ ends of my shoulder garment were torn).
 
 [^6]: Ibid, 3: 9.
 
-

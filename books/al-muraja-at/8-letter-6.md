@@ -239,4 +239,3 @@ explains the meaning of the fifth verse: "And uphold Allah's rope all of
 you together" as one of many others which he explains in Section 1,
 Chapter 11.
 
-

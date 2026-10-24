@@ -101,4 +101,3 @@ according to the laws of action and reaction and social change.
 
 Praise be to Allah, the Lord of the Worlds.
 
-

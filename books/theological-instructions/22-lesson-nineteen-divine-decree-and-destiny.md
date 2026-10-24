@@ -255,4 +255,3 @@ destiny and decree?
 
 10. What is the influence of belief upon Divine decree and destiny?
 
-

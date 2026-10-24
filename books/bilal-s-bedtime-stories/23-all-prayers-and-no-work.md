@@ -35,4 +35,3 @@ Moral:
 
 One should work to earn his living.
 
-

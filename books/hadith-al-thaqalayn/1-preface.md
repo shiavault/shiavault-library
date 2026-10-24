@@ -1,12 +1,8 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله وسلم: إني تارك فيكم الثقلين كتاب الله
-وعترتي أهل بيتي فإنهما لن يفترقا حتى يردا علي الحوض.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله وسلم: إني تارك فيكم الثقلين كتاب الله
+> وعترتي أهل بيتي فإنهما لن يفترقا حتى يردا علي الحوض.
 
 The Messenger of Allah - may Allah bestow peace and benedictions upon
 him and his Progeny - said: "Verily, I am leaving behind two precious
@@ -84,5 +80,4 @@ Muslims are answerable (before God) concerning it. For it leaves no room
 for any excuse for any one. And should there be room for an excuse for
 the ignorant and the uninformed, there isn't any for the scholars of
 various schools.
-
 

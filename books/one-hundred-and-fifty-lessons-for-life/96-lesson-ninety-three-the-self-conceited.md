@@ -3,11 +3,7 @@ Lesson Ninety Three: The Self-Conceited!
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَضِىَ عَنْ نَفْسِهِ كَثُرَ السّاخِطُ عَلَيْهِ
-  </p>
-</blockquote>
+> مَنْ رَضِىَ عَنْ نَفْسِهِ كَثُرَ السّاخِطُ عَلَيْهِ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ people, and this causes widespread anger against them .
 
 [^1]: Nahjul Balaghah, Aphorisms, utterance no. 6. Sharh Nahjul
 Balaghah, vol 18, page 100. Gurar AlHikam, page 308.
-
 

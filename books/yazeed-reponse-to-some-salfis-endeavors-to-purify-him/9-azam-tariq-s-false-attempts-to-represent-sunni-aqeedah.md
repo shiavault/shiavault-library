@@ -468,4 +468,3 @@ details on the supreme sacrifice of Karbala access any Shia bookshop. We
 plan to produce details on the ultimate battle of good versus evil on
 this site.
 
-

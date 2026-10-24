@@ -59,7 +59,6 @@ indecent and weak position is."(1)
 1- At-Tafsir-ul-Burhan, vol. 3, p. 20; Tafsir-us-Safi, vol.3 p. 291;
 Al-Kafi, vol. 1, p. 431
 
-
 **Commentary : Verse 76**
 
 76- وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدى وَالْبَاقِيَاتُ
@@ -109,7 +108,6 @@ is the greatest." (Tafsir-i-Nur-uth-Thaqalatn; and Tafsir-i-Burhan)
 1- The Arabic word 'marad' is either 'an infinitive' with the sense of
 'to pass, to return', or it is a 'noun of place' with the sense of 'the
 site of return', which here means Paradise.
-
 
 **Commentary : Verse 77.78.79.80**
 
@@ -208,7 +206,6 @@ righteous work with him, while his book of deeds is recorded with sins
 wholly. It is in that place that he will see the fruit of his baseless
 sayings in the world.
 
-
 **Commentary : Verse 81.82**
 
 81- وَاتَّخَذُوا مِن دُونِ اللَّهِ ءَالِهَةً لّـِيَكُونُوا لَهُمْ
@@ -257,5 +254,4 @@ fate of pagans and idolaters.)(1)
 
 1- Nur-uth-Thaqalayn, vol. 3, p. 357, and Tafsir-ul-Burhan,
 Tafsir-us-Safi
-
 

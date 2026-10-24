@@ -46,4 +46,3 @@ the people know that the captives of this convoy are not ordinary
 people, indeed they are the family of the Messenger of Allah (P), whom
 love and obedience were imposed by Allah (SW).
 
-

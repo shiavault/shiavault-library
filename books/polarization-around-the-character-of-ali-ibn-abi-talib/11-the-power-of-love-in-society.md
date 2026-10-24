@@ -17,13 +17,9 @@ is this affection which will attract them to obedience and dutifulness.
 The Qur'an addresses the Prophet and says to him that he has a great
 power in his hands to influence people and to administer society
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ
-وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ
+> وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
 
 ***It is by some mercy of Allah that thou art gentle to them; hadst thou
 been harsh and hard of heart, they would have scattered from about thee.
@@ -47,13 +43,9 @@ the degrees of love and kindness.
 
 The Qur'an also says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
-أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
-وَلِيٌّ حَمِيمٌ
-  </p>
-</blockquote>
+> وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
+> أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
+> وَلِيٌّ حَمِيمٌ
 
 ***Not equal are the good deed and the evil deed. Repel with that which
 is fairer and behold, he between whom and thee there is enmity shall be
@@ -72,19 +64,11 @@ governorship of Egypt, Amir al-mu'minin also explained how his behaviour
 with the people should be:  
    
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْعِرْ قَلْبَكَ الرَّحْمَةَ لِلرَّعِيَّةِ، وَالْـمَحَبَّةَ لَهُمْ،
-وَاللُّطْفَ بِهِمْ  …….
-  </p>
-</blockquote>
+> وَأَشْعِرْ قَلْبَكَ الرَّحْمَةَ لِلرَّعِيَّةِ، وَالْـمَحَبَّةَ لَهُمْ،
+> وَاللُّطْفَ بِهِمْ  …….
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْطِهِمْ مِنْ عَفْوِكَ وَصَفْحِكَ مِثْلَ الَّذِي تُحِبُّ أَنْ
-يُعْطِيَكَ اللهُ مِنْ عَفْوِهِ وَصَفْحِهِ
-  </p>
-</blockquote>
+> فَأَعْطِهِمْ مِنْ عَفْوِكَ وَصَفْحِكَ مِثْلَ الَّذِي تُحِبُّ أَنْ
+> يُعْطِيَكَ اللهُ مِنْ عَفْوِهِ وَصَفْحِهِ
 
 Awaken in your heart mercy for (your) subjects and love for them, and
 kindness towards them…. So give them of your forgiveness and your
@@ -106,5 +90,4 @@ own divine aim.
 [^1]: . Rumi, bk.l
 
 [^2]: . Nahju 'l-balaghah, Letter no. 53
-
 

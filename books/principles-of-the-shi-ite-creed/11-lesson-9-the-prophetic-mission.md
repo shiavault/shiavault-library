@@ -90,4 +90,3 @@ not bereft of God’s proof.”[^1]
 
 [^1]: ‘Usul al-Kafi, vol. 2, p. 168.
 
-

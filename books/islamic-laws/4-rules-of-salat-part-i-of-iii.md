@@ -1181,4 +1181,3 @@ najasat. Similarly, to wear a dress which has images printed or drawn on
 it, to keep the buttons open, to wear a ring which has images engraved
 on it.
 
-

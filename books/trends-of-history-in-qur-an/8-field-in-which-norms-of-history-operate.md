@@ -298,4 +298,3 @@ discussion is that the subject of the laws of history is a purposive act
 having a social background, the effect of which covers society or the
 nation as a whole in accordance with its being limited or extensive.
 
-

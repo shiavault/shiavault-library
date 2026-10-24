@@ -42,4 +42,3 @@ alihi wa salam” meaning “peace be upon him and his holy family”. It is
 recommended for all Muslim's to invoke this salutation when mentioning
 the name of Apostle Muhammad [s] or referring to him.
 
-

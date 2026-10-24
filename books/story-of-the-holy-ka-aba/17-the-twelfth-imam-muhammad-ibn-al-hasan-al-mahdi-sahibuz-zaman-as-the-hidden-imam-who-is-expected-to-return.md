@@ -403,4 +403,3 @@ about his early reappearance and ease his coming.
 Wal-hum- do— lillahi- Rabbil- Alameen. Wassalato- Wassalamo
 Ala -Rasulehil Karim.
 
-

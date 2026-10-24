@@ -48,4 +48,3 @@ them and the people; to behave in such a way “that big people cannot use
 you to oppress poor ones, and poor are not discouraged from obtaining
 justice even against the richest and biggest man”.
 
-

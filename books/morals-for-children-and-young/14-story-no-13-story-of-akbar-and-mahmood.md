@@ -20,4 +20,3 @@ jealous”.
 Yes one of the things which is not liked is jealousy, in which some few
 people are involved.
 
-

@@ -9,14 +9,10 @@ There are many verses about it.
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلَا
-يَزَالُونَ مُخْتَلِفِينَ. إِلَّا مَنْ رَحِمَ رَبُّكَ وَلِذَلِكَ
-خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنْ
-الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ.
-  </p>
-</blockquote>
+> وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلَا
+> يَزَالُونَ مُخْتَلِفِينَ. إِلَّا مَنْ رَحِمَ رَبُّكَ وَلِذَلِكَ
+> خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنْ
+> الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ.
 
 ***And if your Lord had pleased He would certainly have made people a
 single nation and they shall continue to differ. Except those on whom
@@ -47,12 +43,8 @@ mercy are from the believers our Shias and Allah has created them from
 our remaining clay (Teenat). Have you not heard that Ibrahim (a.s.)
 prayed:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنْ
-الثَّمَرَاتِ مَنْ آمَنَ مِنْهُمْ بِاللَّهِ وَالْيَوْمِ الْآخِرِ.
-  </p>
-</blockquote>
+> رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنْ
+> الثَّمَرَاتِ مَنْ آمَنَ مِنْهُمْ بِاللَّهِ وَالْيَوْمِ الْآخِرِ.
 
 ***My Lord, make it a secure town and provide its people with fruits,
 such of them as believe in Allah and the last day. (Surah Baqarah
@@ -79,12 +71,8 @@ have mercy on them.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ. يَوْمَ لَا يُغْنِي
-مَوْلًى عَنْ مَوْلًى شَيْئًا وَلَا هُمْ يُنصَرُونَ.
-  </p>
-</blockquote>
+> إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ. يَوْمَ لَا يُغْنِي
+> مَوْلًى عَنْ مَوْلًى شَيْئًا وَلَا هُمْ يُنصَرُونَ.
 
 ***Surely the day of separation is their appointed term, of all of them,
 the day on which a friend shall not avail (his) friend aught, nor shall
@@ -107,11 +95,7 @@ said: We are the deserving people of Allah’s mercy.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّةُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنتُمْ مُؤْمِنِينَ.
-  </p>
-</blockquote>
+> بَقِيَّةُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنتُمْ مُؤْمِنِينَ.
 
 ***The remnant of Allah is better for you if you are believers... (Surah
 Hud 11:86)***
@@ -155,11 +139,7 @@ got this temporal rule which would soon disappear, we would achieve a
 great kingdom in the hereafter and there will be no rule after our rule
 because we are those whose end is good, as Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَاقِبَةُ لِلْمُتَّقِينَ.
-  </p>
-</blockquote>
+> وَالْعَاقِبَةُ لِلْمُتَّقِينَ.
 
 ***…and the end is for those who guard (against evil). (Surah Araf
 7:128)***
@@ -187,12 +167,8 @@ and called out aloud, due to which whole town shook. He said: O the
 tyrant people of the city, I am your Prophet’s ‘remnant of Allah’ as the
 Quran has said:
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّةُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنتُمْ مُؤْمِنِينَ وَمَا أَنَا
-عَلَيْكُمْ بِحَفِيظٍ.
-  </p>
-</blockquote>
+> بَقِيَّةُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنتُمْ مُؤْمِنِينَ وَمَا أَنَا
+> عَلَيْكُمْ بِحَفِيظٍ.
 
 ***The remnant of Allah is better for you if you are believers, and I am
 not a keeper over you. (Surah Hud 11:86)***
@@ -246,12 +222,8 @@ remnant of Allah” After that the Hazrat recited the captioned verse.
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ
-حِزْبَ اللَّهِ هُمْ الْغَالِبُونَ.
-  </p>
-</blockquote>
+> وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ
+> حِزْبَ اللَّهِ هُمْ الْغَالِبُونَ.
 
 ***And whoever takes Allah and this apostle and those who believe for a
 guardian, then surely the party of Allah are they that shall be
@@ -292,14 +264,10 @@ love and Wilayat of Ahlul Bayt (a.s.); and this is most apparent.
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ أَرُونِي مَاذَا
-خَلَقُوا مِنْ الْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ
-اِئْتُونِي بِكِتَابٍ مِنْ قَبْلِ هَذَا أَوْ أَثَارَةٍ مِنْ عِلْمٍ إِنْ
-كُنْتُمْ صَادِقِينَ.
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ أَرُونِي مَاذَا
+> خَلَقُوا مِنْ الْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ
+> اِئْتُونِي بِكِتَابٍ مِنْ قَبْلِ هَذَا أَوْ أَثَارَةٍ مِنْ عِلْمٍ إِنْ
+> كُنْتُمْ صَادِقِينَ.
 
 ***Say: Have you considered what you call upon besides Allah? Show me
 what they have created of the earth or have they a share in the heavens?
@@ -315,5 +283,4 @@ the sciences of the Prophets.
 
 It is narrated from Imam Sadiq (a.s.) that the book of ‘Jafr’ and Mushaf
 (scroll) of Fatima are included among the ‘traces’ of knowledge.
-
 

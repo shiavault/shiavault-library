@@ -11,11 +11,7 @@ Alternation Of Power And Sovereignty
 affairs.
 
 > 2ـ مِنْ أماراتِ الدَّوْلَةِ التَّيَقُّظُ (اليَقْظَـةُ) لِحِراسَةِ
-<blockquote dir="rtl">
-  <p>
-الأُمُورِ.
-  </p>
-</blockquote>
+> الأُمُورِ.
 
 3. The sovereignty of the honourable is one of the most beneficial
 gains.
@@ -37,11 +33,7 @@ clinging to vanities, promotion of the wicked and demotion of the
 virtuous.
 
 > 6ـ يُسْتَدَلُّ على إدْبارِ الدُّوَلِ بِأرْبَع: تَضييعُ الأُصولِ،
-<blockquote dir="rtl">
-  <p>
-والتَّمَسُّكُ بِالغُرُورِ، وَ تَقْديمُ الأراذِلِ، وتأخيرُ الأفاضلِ.
-  </p>
-</blockquote>
+> والتَّمَسُّكُ بِالغُرُورِ، وَ تَقْديمُ الأراذِلِ، وتأخيرُ الأفاضلِ.
 
 7. The sovereignty of scoundrels is founded on oppression and
 corruption.
@@ -56,5 +48,4 @@ best of bounties.
 9. For every empire there is a period [after which it falls].
 
 > 9ـ لِكُلِّ دَوْلَة بُرْهَةٌ.
-
 

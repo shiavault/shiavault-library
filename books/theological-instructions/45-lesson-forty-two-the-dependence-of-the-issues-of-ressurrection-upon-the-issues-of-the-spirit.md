@@ -140,4 +140,3 @@ What is the effect of this difference upon the issue of Resurrection?
 
 6- What does the correct understanding of Resurrection require?
 
-

@@ -1,27 +1,19 @@
 Right n. 14: The Right of the Offering
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-حق الهدي
-  </p>
-</blockquote>
+> حق الهدي
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا حَقُّ الهَدْيِ فَأَنْ تُخلِصَ بهَا الإرَادَةَ إلَى رَبكَ
-وَالتَّعَرُّضَ لِرَحْمَتِهِ وَقَبُولِهِ ولا تُرِيدَ عُيُونَ
-النَّاظِرِينَ دُونهُ، فإذَا كُنْتَ كَذَلِكَ لَمْ تَكُنْ مُتَكَلِّفًا
-ولا مُتَصَنِّعًا وَكُنْتَ إنَّمَا تَقْصِدُ إلَى الله. وَاعْلَمْ أَنَّ
-الله يُرَادُ بالْيَسيرِ وَلا يُرَادُ بالْعسِيرِ كَمَا أَرَادَ
-بخَلْقِهِ التَّيْسِيرَ وَلَمْ يُرِدْ بهِمُ التَّعْسِيرَ، وَكَذَلِكَ
-التَّذَلُّلَ أَوْلَى بكَ مِن التَّدَهْقُنِ لأَنَّ الْكُلْفَةَ
-وَالْمَئونَةَ فِي الْمُتَدَهْقِنِينَ. فَأمَّا التَّذَلُّلُ
-وَالتَّمَسْكُنُ فَلا كُلْفَةَ فِيهِمَا وَلا مَئونةَ عَلَيْهِمَا
-لأَنَّهُمَا الْخِلْقَةَ وهُمَا مَوجُودَانِ فِي الطَّبيعَةِ. وَلا
-قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمَّا حَقُّ الهَدْيِ فَأَنْ تُخلِصَ بهَا الإرَادَةَ إلَى رَبكَ
+> وَالتَّعَرُّضَ لِرَحْمَتِهِ وَقَبُولِهِ ولا تُرِيدَ عُيُونَ
+> النَّاظِرِينَ دُونهُ، فإذَا كُنْتَ كَذَلِكَ لَمْ تَكُنْ مُتَكَلِّفًا
+> ولا مُتَصَنِّعًا وَكُنْتَ إنَّمَا تَقْصِدُ إلَى الله. وَاعْلَمْ أَنَّ
+> الله يُرَادُ بالْيَسيرِ وَلا يُرَادُ بالْعسِيرِ كَمَا أَرَادَ
+> بخَلْقِهِ التَّيْسِيرَ وَلَمْ يُرِدْ بهِمُ التَّعْسِيرَ، وَكَذَلِكَ
+> التَّذَلُّلَ أَوْلَى بكَ مِن التَّدَهْقُنِ لأَنَّ الْكُلْفَةَ
+> وَالْمَئونَةَ فِي الْمُتَدَهْقِنِينَ. فَأمَّا التَّذَلُّلُ
+> وَالتَّمَسْكُنُ فَلا كُلْفَةَ فِيهِمَا وَلا مَئونةَ عَلَيْهِمَا
+> لأَنَّهُمَا الْخِلْقَةَ وهُمَا مَوجُودَانِ فِي الطَّبيعَةِ. وَلا
+> قُوَّةَ إلا باللهِ.
 
 **And the right of the offering**[^1] **is that through it**[^2] **you
 purify your will toward your Lord, and expose yourself to His Mercy, and
@@ -40,11 +32,7 @@ The Arabic word ‘*hada*’ meaning offering is used to refer to the
 sacrifice made for the holy pilgrimage to the Ka’ba.[^3] We read the
 following verse in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَحْلِقُواْ رُؤُوسَكُمْ حَتَّى يَبْلُغَ الْهَدْيُ مَحِلَّهُ
-  </p>
-</blockquote>
+> وَلاَ تَحْلِقُواْ رُؤُوسَكُمْ حَتَّى يَبْلُغَ الْهَدْيُ مَحِلَّهُ
 
 ***“And do not shave your heads until the offering reaches the place of
 sacrifice...” [The Holy Qur’an, al-Baqarah 2:196]***
@@ -53,12 +41,8 @@ This is called an offering since it is like a gift some give to others
 after they sacrifice it. This is similar to the present that the queen
 of Sheba sent for Solomon as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌ بِمَ يَرْجِعُ
-الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> وَإِنِّي مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌ بِمَ يَرْجِعُ
+> الْمُرْسَلُونَ
 
 ***"But I am going to send him a present, and (wait) to see with what
 (answer) return (my) ambassadors."[The Holy Qur’an, al-Naml 27:35]***
@@ -77,16 +61,12 @@ closer to God.” If we want to better understand what Imam Sajjad said
 about the offering, we should review the Qur’anic verses on this issue.
 Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَتِمُّواْ الْحَجَّ وَالْعُمْرَةَ لِلّهِ فَإِنْ أُحْصِرْتُمْ فَمَا
-اسْتَيْسَرَ مِنَ الْهَدْيِ وَلاَ تَحْلِقُواْ رُؤُوسَكُمْ حَتَّى
-يَبْلُغَ الْهَدْيُ مَحِلَّهُ فَمَن كَانَ مِنكُم مَّرِيضاً أَوْ بِهِ
-أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ
-فَإِذَا أَمِنتُمْ فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا
-اسْتَيْسَرَ مِنَ الْهَدْيِ ...
-  </p>
-</blockquote>
+> وَأَتِمُّواْ الْحَجَّ وَالْعُمْرَةَ لِلّهِ فَإِنْ أُحْصِرْتُمْ فَمَا
+> اسْتَيْسَرَ مِنَ الْهَدْيِ وَلاَ تَحْلِقُواْ رُؤُوسَكُمْ حَتَّى
+> يَبْلُغَ الْهَدْيُ مَحِلَّهُ فَمَن كَانَ مِنكُم مَّرِيضاً أَوْ بِهِ
+> أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ
+> فَإِذَا أَمِنتُمْ فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا
+> اسْتَيْسَرَ مِنَ الْهَدْيِ ...
 
 ***“And complete the Hajj or 'Umrah in the service of God. But if ye are
 prevented (from completing it), send an offering for sacrifice, such as
@@ -112,13 +92,9 @@ The third case is when you are in peaceful conditions again. Sending an
 offering for sacrifice in Mina is the certain duty of any pilgrim who
 wants to participate in the pilgrimage ceremonies.
 
-<blockquote dir="rtl">
-  <p>
-يا أيُّها الَّذين أمَنُوا لا تُحِلُّوا شَعائِرِ اللهِ و لا الشَّهْرَ
-الحَرامَ و لا الهَدْىَ و لا القَلائِدَ و لا أمِّينَ البَيْتَ الحَرامَ
-يَبْتَغُونَ فَضْلاً مِنَ اللهِ و رِضْواناً
-  </p>
-</blockquote>
+> يا أيُّها الَّذين أمَنُوا لا تُحِلُّوا شَعائِرِ اللهِ و لا الشَّهْرَ
+> الحَرامَ و لا الهَدْىَ و لا القَلائِدَ و لا أمِّينَ البَيْتَ الحَرامَ
+> يَبْتَغُونَ فَضْلاً مِنَ اللهِ و رِضْواناً
 
 ***“O ye who believe! Violate not the sanctity of the symbols of God,
 nor of the Sacred Month, nor of the animals brought for sacrifice, nor
@@ -130,14 +106,10 @@ There are eight decrees in this verse. One is related to animals brought
 for sacrifice - marked or unmarked. The same issue is pointed out in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-جَعَلَ اللّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِّلنَّاسِ
-وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلاَئِدَ ذَلِكَ لِتَعْلَمُواْ
-أَنَّ اللّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَأَنَّ
-اللّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> جَعَلَ اللّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِّلنَّاسِ
+> وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلاَئِدَ ذَلِكَ لِتَعْلَمُواْ
+> أَنَّ اللّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَأَنَّ
+> اللّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***“God made the Ka'ba, the Sacred House, an asylum of security for men,
 as also the Sacred Months, the animals for offerings, and the garlands
@@ -145,14 +117,10 @@ that mark them…” [The Holy Qur’an, al-Maida 5:97]***
 
 In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْتُلُواْ الصَّيْدَ وَأَنتُمْ
-حُرُمٌ وَمَن قَتَلَهُ مِنكُم مُّتَعَمِّدًا فَجَزَاء مِّثْلُ مَا قَتَلَ
-مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًا بَالِغَ
-الْكَعْبَةِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْتُلُواْ الصَّيْدَ وَأَنتُمْ
+> حُرُمٌ وَمَن قَتَلَهُ مِنكُم مُّتَعَمِّدًا فَجَزَاء مِّثْلُ مَا قَتَلَ
+> مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًا بَالِغَ
+> الْكَعْبَةِ
 
 ***“O ye who believe! Kill not game while in the sacred precincts or in
 pilgrim garb. If any of you doth so intentionally, the compensation is
@@ -166,12 +134,8 @@ Mecca and that related to hunting while in Hajj should be sacrificed in
 Mina. They also agree on the place of sacrifice. The issue of the
 sacrificial animals is again referred to in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ
-وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ
-  </p>
-</blockquote>
+> هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ
+> وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ
 
 ***“They are the ones who denied Revelation and hindered you from the
 Sacred Mosque and the sacrificial animals, detained from reaching their
@@ -191,14 +155,10 @@ for sacrifice existed in different nations. The Qur’an has stated the
 origin of this practice to be at the time of the two sons of Adam as we
 read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الآخَرِ
-قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الآخَرِ
+> قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ
+> الْمُتَّقِينَ
 
 ***“Recite to them the truth of the story of the two sons of Adam.
 Behold! They each presented a sacrifice (to God): It was accepted from
@@ -263,12 +223,8 @@ understand from the following traditions.
 
 Imam Sadiq quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-إنمَّا جَعلَ اللهُ هذا الأضْحى لِتَتَّسِعَ مَساكِينُكُم مِن اللّحُومِ
-فَأَطْعِمُوهُم
-  </p>
-</blockquote>
+> إنمَّا جَعلَ اللهُ هذا الأضْحى لِتَتَّسِعَ مَساكِينُكُم مِن اللّحُومِ
+> فَأَطْعِمُوهُم
 
 *“God has established this sacrifice in order that your poor may have
 ample meat to eat. Therefore, give them meat to eat!”*[^6]
@@ -276,15 +232,11 @@ ample meat to eat. Therefore, give them meat to eat!”*[^6]
 Abi Basir narrated that he told Imam Sadiq : “What is the reason for
 offering for sacrifice?” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-إنّهُ يُغفَرُ لِصاحِبِها عِندَ أوَّلِ قَطْرَةٍ تَقْطُرُ مِن دَمِها
-عَلى الأرْضِ وَليَِعْلَمَ اللهُ مَن يَتَّقِيهِ بِالغَيْبِ. قالَ اللهُ
-تَعالى: لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِنْ
-يَنَالُهُ التَّقْوَىٰ مِنْكُمْ ۚ أنْظُر كَيفَ قَبِلَ اللهُ قُربانَ
-هابِيلَ وَرَدَّ قُربانَ قابِيلَ..
-  </p>
-</blockquote>
+> إنّهُ يُغفَرُ لِصاحِبِها عِندَ أوَّلِ قَطْرَةٍ تَقْطُرُ مِن دَمِها
+> عَلى الأرْضِ وَليَِعْلَمَ اللهُ مَن يَتَّقِيهِ بِالغَيْبِ. قالَ اللهُ
+> تَعالى: لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِنْ
+> يَنَالُهُ التَّقْوَىٰ مِنْكُمْ ۚ أنْظُر كَيفَ قَبِلَ اللهُ قُربانَ
+> هابِيلَ وَرَدَّ قُربانَ قابِيلَ..
 
 *‘The sins of the one who is offering will be forgiven when the first
 drop of blood of the sacrificed animal falls on the ground. It is also a
@@ -298,13 +250,9 @@ The reward for the one offering the sacrifice and his being forgiven are
 stressed in this tradition. In addition, the fact that his purity of
 intentions is recognized is also outlined. Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-لَو عَلِمَ النّاسُ ما في الأُضْحِيّةِ لاسْتَدانوا وَضَحّوا؛ إنّه
-لَيُغْفَرُ لِصاحِبِ الأضْحِيَّةِ عِندَ أوَّلِ قَطْرَةٍ تَقْطُرُ مِن
-دَمِها.
-  </p>
-</blockquote>
+> لَو عَلِمَ النّاسُ ما في الأُضْحِيّةِ لاسْتَدانوا وَضَحّوا؛ إنّه
+> لَيُغْفَرُ لِصاحِبِ الأضْحِيَّةِ عِندَ أوَّلِ قَطْرَةٍ تَقْطُرُ مِن
+> دَمِها.
 
 *“If the people only knew the reward for offering animals for sacrifice,
 they would borrow money to make an offering. Indeed, the sins of the one
@@ -314,12 +262,8 @@ its blood falls on the ground.”*[^9]
 It has been recorded in Wasa\`il al-Shī\`ah that the Prophet of God told
 his daughter, the Blessed Fatima :
 
-<blockquote dir="rtl">
-  <p>
-إشْهَدي ذَبْحَ ذَبِيحَتِكِ فإنَّ أوَّلَ قَطْرَةٍ مِنها يَغْفِرُ اللهُ
-بِها كُلَّ ذَنبٍ عَلَيكِ… وهَذا لِلمُسلِمينَ عَامَّةً.
-  </p>
-</blockquote>
+> إشْهَدي ذَبْحَ ذَبِيحَتِكِ فإنَّ أوَّلَ قَطْرَةٍ مِنها يَغْفِرُ اللهُ
+> بِها كُلَّ ذَنبٍ عَلَيكِ… وهَذا لِلمُسلِمينَ عَامَّةً.
 
 *“Be present beside the animal you offer for sacrifice since your sins
 will be forgiven the moment the first drop of its blood falls down on
@@ -327,11 +271,7 @@ the ground.” He then added: “This issue applies to all Muslims.”*[^10]
 
 Imam Kazim quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-اسْتَفْرِهوا ضَحاياكُم فإنهّا مَطاياكُم علَى الصِّراطِ.
-  </p>
-</blockquote>
+> اسْتَفْرِهوا ضَحاياكُم فإنهّا مَطاياكُم علَى الصِّراطِ.
 
 *“Seek for sacrificial animals that are brisk and agile since they will
 be your mounts to cross the (Bridge of) Sirat.”*[^11]
@@ -360,5 +300,4 @@ encounter Him.”
 [^10]: Sharh-i-Risalat al-Huquq, Ghopanchi, v.1, p.369.
 
 [^11]: ‘Ilal al-Shara’i, p.438, section 179.
-
 

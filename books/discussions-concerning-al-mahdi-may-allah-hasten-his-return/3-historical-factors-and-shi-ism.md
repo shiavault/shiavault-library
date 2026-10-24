@@ -48,12 +48,8 @@ his family). The importance of the issue of *Imamah* (leadership of the
 his well-known and in fact *mutawatir* (consecutively-narrated)
 traditions he says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَلمَ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيتَةَ
-الجْاَهِلِيَّةِ.
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَلمَ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيتَةَ
+> الجْاَهِلِيَّةِ.
 
 *“One who dies without recognizing the Imam of his time dies the death
 of the Days of Ignorance (before the advent of Islam).”*[^1]
@@ -91,12 +87,8 @@ in Islam, a reliable source and authority for explaining, organizing,
 and legislating beliefs has been foreseen and in numerous verses has
 been clearly stated, such as in Surah Nisa:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ رَدُّوهُ إِلىَ الرَّسُولِ وَإِلىَ أُوليِ الأَمْرِ مِنْهُمْ
-لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ.
-  </p>
-</blockquote>
+> وَلَوْ رَدُّوهُ إِلىَ الرَّسُولِ وَإِلىَ أُوليِ الأَمْرِ مِنْهُمْ
+> لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ.
 
 ***“Although, were they to refer that to the Messenger (peace be upon
 him and his family) and those in authority among them, those among them
@@ -114,12 +106,8 @@ the Qur’an and the Qur’an is with them, and they and the Qur’an shall
 never separate from each other.”  
  In fact, in one hadith, he has added:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ فِينَا أَهْلُ الْبَيْتِ فيِ كُلِّ خَلَفٍ عُدُولاً يَنْفُونَ
-عَنْهُ تحَرِيفَ الْغَالِينَ وَانتِهَالَ الْمُبْطِلِينَ.
-  </p>
-</blockquote>
+> فَإِنَّ فِينَا أَهْلُ الْبَيْتِ فيِ كُلِّ خَلَفٍ عُدُولاً يَنْفُونَ
+> عَنْهُ تحَرِيفَ الْغَالِينَ وَانتِهَالَ الْمُبْطِلِينَ.
 
 *“Among us, the Ahl al-Bait, in every generation there are found people
 firm in religion who protect the religion from the tampering of
@@ -348,21 +336,13 @@ wished to write his testament, since they knew this written testament
 would reinforce his oral testaments, they put up firm resistance. In
 words also related by Ahl al-Sunnah, ‘Umar said,
 
-<blockquote dir="rtl">
-  <p>
-غَلَبَ عَلَيهِ الْوَجَعُ. حَسْبُنَا كِتَابُ اللهِ.
-  </p>
-</blockquote>
+> غَلَبَ عَلَيهِ الْوَجَعُ. حَسْبُنَا كِتَابُ اللهِ.
 
 *“Illness has overcome him; the book of Allah suffices us*.”[^5]
 
 According to the narration of others, he said,
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ الرَّجُلَ لَيَهْجُرُ."
-  </p>
-</blockquote>
+> "إِنَّ الرَّجُلَ لَيَهْجُرُ."
 
 *“The man (The Prophet) speaks nonsense!*”[^6] *(God forbid!)*
 
@@ -433,22 +413,14 @@ that the Prophet’s (peace be upon him and his family) words have the
 ruling of revelation, or rather that they are in fact revelation, as the
 Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنْطِقُ عَنِ الهَوَى إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى.
-  </p>
-</blockquote>
+> وَمَا يَنْطِقُ عَنِ الهَوَى إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى.
 
 ***“He speaks not of his own desire; it is naught but revelation that is
 revealed.”***[^7]
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نهَاكُمْ عَنْهُ فَانْتَهُوا.
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نهَاكُمْ عَنْهُ فَانْتَهُوا.
 
  ***“What the Messenger has brought you, take, and what he forbids you
 from, avoid.***”[^8]
@@ -465,11 +437,7 @@ these traditions is closed and the succession of Imam ‘Ali (peace be
 upon him) was conveyed at Allah’s command to the Prophet (peace be upon
 him and his family) by revelation.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ…
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ…
 
  ***“O’ Messenger! Convey that which has been revealed to thee by thy
 Lord*****…”**[^9]
@@ -584,5 +552,4 @@ commentary
 [^8]: Surah Hashr (59), Verse 7
 
 [^9]: Surah Ma’idah (5), Verse 67
-
 

@@ -457,4 +457,3 @@ performed the burial prayer for him and pitched a tent over his grave as
 a sign of respect. This was al-Hakam the notorious fellow to whom
 'Uthman offered his seat and sat below him."
 
-

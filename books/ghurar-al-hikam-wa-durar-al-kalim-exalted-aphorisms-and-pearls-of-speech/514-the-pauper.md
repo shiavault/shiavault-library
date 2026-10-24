@@ -7,21 +7,13 @@ The Pauper
 the rich person falls into his snares.
 
 > 1ـ اَلْفَقيرُ الرّاضي ناج مِنْ حَبائِلِ إبْلِيسَ، والغَنِيُّ واقِعٌ في
-<blockquote dir="rtl">
-  <p>
-حَبائِلِهِ.
-  </p>
-</blockquote>
+> حَبائِلِهِ.
 
 2. The most hated of servants in the sight of Allah are: the pauper who
 is haughty, the elderly fornicator and the immoral scholar.
 
 > 2ـ أمْقَتُ العِبادِ إلَى اللّهِ اَلْفَقيرُ المَزْهُوُّ، والشَّيْخُ
-<blockquote dir="rtl">
-  <p>
-الزّانِ، والعالِمُ الفاجِرُ.
-  </p>
-</blockquote>
+> الزّانِ، والعالِمُ الفاجِرُ.
 
 3. The most foolish of people is the arrogant pauper.
 
@@ -66,21 +58,13 @@ no might and no power but by [the will of] Allah, the Most High, the
 Most Mighty.*
 
 > 12ـ مَنْ ألَحَّ عَلَيْهِ الفَقْرُ فَلْيُكْثِرْ مِنْ قَوْلِ: لاحَوْلَ
-<blockquote dir="rtl">
-  <p>
-ولاقُوَّةَ إلاّ بِاللّهِ العَلِيِّ العَظيمِ.
-  </p>
-</blockquote>
+> ولاقُوَّةَ إلاّ بِاللّهِ العَلِيِّ العَظيمِ.
 
 13. It is obligatory on the poor that he should not put forward his
 request [to others] unless he has no other choice.
 
 > 13ـ مِنَ الواجِبِ عَلَى الفَقيرِ أنْ لايَبْذُلَ مِنْ غَيْرِاضْطِرار
-<blockquote dir="rtl">
-  <p>
-سُؤالَهُ.
-  </p>
-</blockquote>
+> سُؤالَهُ.
 
 14. The kings of this world and the Hereafter are the poor who are
 satisfied [with what they have].
@@ -92,14 +76,9 @@ satisfied [with what they have].
 end].
 
 > 15ـ أفْقَرُ النّاسِ مَنْ قَتَّرَ عَلى نَفْسِهِ مَعَ الغِنى والسَّعَةِ،
-<blockquote dir="rtl">
-  <p>
-وخَلَّفَهُ لِغَيْرِهِ.
-  </p>
-</blockquote>
+> وخَلَّفَهُ لِغَيْرِهِ.
 
 16. Many a poor person is mightier than a lion.
 
 > 16ـ رُبَّ فَقير أعَزُّ مِنْ أسَد.
-
 

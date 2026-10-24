@@ -377,4 +377,3 @@ us to obey the oppressors, the promiscuous, or the apostates.
 
 [^13]: This is recorded on p. 57 of Manaqib Imam Ahmad ibn Hanbal.
 
-

@@ -335,4 +335,3 @@ love with God, while they less seemed to perform God's Commandments.
 This verse and the next one revealed, considering such futile and flimsy
 claims.
 
-

@@ -1323,8 +1323,6 @@ wakshif bihi alghummata
 </tbody>
 </table>
 
-  
-
 O Allah: (please) spread security over the lands through him
 
 allahumma wa amin bihi albilada

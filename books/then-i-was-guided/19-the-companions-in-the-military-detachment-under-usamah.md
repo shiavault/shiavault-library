@@ -482,4 +482,3 @@ al-Mawdudi.; Yawm al-Islam by Ahmed Amin.
 
 [^9]: See Al-Nas wal-Ijtihad by Abdul Husayn Sharaf al-Din.
 
-

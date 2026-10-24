@@ -3,37 +3,21 @@ Sermon 45: Praise belongs to God, Whose mercy ...
 
 *About Allah’s greatness and lowliness of this world*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وهو بعض خطبة طويلة خطبها يوم الفطر
-  </p>
-</blockquote>
+> وهو بعض خطبة طويلة خطبها يوم الفطر
 
-<blockquote dir="rtl">
-  <p>
-وفيها يحمد الله ويذم الدنيا:
-  </p>
-</blockquote>
+> وفيها يحمد الله ويذم الدنيا:
 
 Praise is due to Allah from Whose mercy no one loses hope, from Whose
 bounty no one is deprived, from Whose forgiveness no one is disappointed
 and for Whose worship no one is too high. His mercy never ceases and His
 bounty is never missed.
 
-<blockquote dir="rtl">
-  <p>
-ألْحَمْدُ للهِ غَيْرَ مَقْنُوط مِنْ رَحْمَتِهِ، وَلاَ مَخْلُوٍّ مِنْ
-نِعْمَتِهِ، وَلاَ مَأْيُوس مِنْ مَغْفِرَتِهِ، وَلاَ مُسْتَنْكَف عَنْ
-عِبَادَتِهِ، الَّذِي لاَ تَبْرَحُ مِنْهُ رَحْمَةٌ، وَلاَ تُفْقَدُ لَهُ
-نِعْمَةٌ.
-  </p>
-</blockquote>
+> ألْحَمْدُ للهِ غَيْرَ مَقْنُوط مِنْ رَحْمَتِهِ، وَلاَ مَخْلُوٍّ مِنْ
+> نِعْمَتِهِ، وَلاَ مَأْيُوس مِنْ مَغْفِرَتِهِ، وَلاَ مُسْتَنْكَف عَنْ
+> عِبَادَتِهِ، الَّذِي لاَ تَبْرَحُ مِنْهُ رَحْمَةٌ، وَلاَ تُفْقَدُ لَهُ
+> نِعْمَةٌ.
 
 This world is a place for which destruction is ordained and for its
 inhabitants departure from here is destined. It is sweet and green. It
@@ -42,15 +26,11 @@ depart from here with the best of provision available with you and do
 not ask herein more than what is enough and do not demand from it more
 than subsistence.
 
-<blockquote dir="rtl">
-  <p>
-وَالدُّنْيَا دَارٌ مُنِيَ لَهَا الْفَنَاءُ، وَلاِهْلِهَا مِنْهَا
-الْجَلاَءُ، وَهِيَ حُلْوَةٌ خَضِرَةٌ، قَدْ عُجِّلَتْ لِلطَّالِبِ،
-وَالْتَبَسَتْ بِقَلْبِ النَّاظِرِ; فَارْتَحِلُوا مِنْهَا بِأَحْسَنِ
-مَا بِحَضْرَتِكُمْ مِنَ الزَّادِ، وَلاَ تَسْأَلُوا فِيها فَوْقَ
-الْكَفَافِ، وَلاَ تَطْلُبُوا مِنْهَا أكْثَرَ مِنَ الْبَلاَغِ.
-  </p>
-</blockquote>
+> وَالدُّنْيَا دَارٌ مُنِيَ لَهَا الْفَنَاءُ، وَلاِهْلِهَا مِنْهَا
+> الْجَلاَءُ، وَهِيَ حُلْوَةٌ خَضِرَةٌ، قَدْ عُجِّلَتْ لِلطَّالِبِ،
+> وَالْتَبَسَتْ بِقَلْبِ النَّاظِرِ; فَارْتَحِلُوا مِنْهَا بِأَحْسَنِ
+> مَا بِحَضْرَتِكُمْ مِنَ الزَّادِ، وَلاَ تَسْأَلُوا فِيها فَوْقَ
+> الْكَفَافِ، وَلاَ تَطْلُبُوا مِنْهَا أكْثَرَ مِنَ الْبَلاَغِ.
 
 Alternative Sources for Sermon 45
 ---------------------------------
@@ -68,5 +48,4 @@ Alternative Sources for Sermon 45
 (6) al-Harrani, *Tuhaf;*
 
 (7) al-Baqillani, *I\`jaz,* 222.
-
 

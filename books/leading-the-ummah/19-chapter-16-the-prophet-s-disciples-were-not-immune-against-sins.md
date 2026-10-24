@@ -10,25 +10,17 @@ followed them in goodness, Allah is pleased with them and they are
 pleased with Him. He has prepared for them gardens beneath which rivers
 flow, to endure in them forever, that is the mighty achievement.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ السَّابِقُونَ الأَْوَّلُونَ مِنَ الْمُهاجِرِينَ وَ الأَْنْصارِ وَ
-الَّذِينَ اتَّبَعُوهُمْ بِإِحْسانٍ رَضِيَ اللَّهُ عَنْهُمْ وَ رَضُوا
-عَنْهُ وَ أَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الأَْنْهارُ
-خالِدِينَ فِيها أَبَداً ذلِكَ الْفَوْزُ الْعَظِيمُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ السَّابِقُونَ الأَْوَّلُونَ مِنَ الْمُهاجِرِينَ وَ الأَْنْصارِ وَ
+> الَّذِينَ اتَّبَعُوهُمْ بِإِحْسانٍ رَضِيَ اللَّهُ عَنْهُمْ وَ رَضُوا
+> عَنْهُ وَ أَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الأَْنْهارُ
+> خالِدِينَ فِيها أَبَداً ذلِكَ الْفَوْزُ الْعَظِيمُ ﴾
 
 2. In another surah, God talks of those who, in the land of Hudabiyyah,
 swore allegiance to the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبايِعُونَكَ تَحْتَ
-الشَّجَرَةِ فَعَلِمَ ما فِي قُلُوبِهِمْ فَأَنْزَلَ السَّكِينَةَ
-عَلَيْهِمْ وَ أَثابَهُمْ فَتْحاً قَرِيباً﴾
-  </p>
-</blockquote>
+> ﴿لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبايِعُونَكَ تَحْتَ
+> الشَّجَرَةِ فَعَلِمَ ما فِي قُلُوبِهِمْ فَأَنْزَلَ السَّكِينَةَ
+> عَلَيْهِمْ وَ أَثابَهُمْ فَتْحاً قَرِيباً﴾
 
 ***“Certainly Allah was well pleased with the believers when they swore
 allegiance to you under the tree. He knew what was in their hearts. So
@@ -76,12 +68,8 @@ How could we claim that all of the Prophet's followers were just and
 innocent while the Holy Quran, regarding a group of them who were among
 hypocrites, states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِذْ يَقُولُ الْمُنافِقُونَ وَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ
-ما وَعَدَنَا اللَّهُ وَ رَسُولُهُ إِلاَّ غُرُوراً﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِذْ يَقُولُ الْمُنافِقُونَ وَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ
+> ما وَعَدَنَا اللَّهُ وَ رَسُولُهُ إِلاَّ غُرُوراً﴾
 
 ***“And when the hypocrites and those in whose hearts was a disease
 began to say: Allah and His apostle did not promise us victory but only
@@ -102,8 +90,6 @@ Concerning those people, the holy Quran says:
 خِلالَكُمْ يَبْغُونَكُمُ الْفِتْنَةَ وَ فِيكُمْ سَمَّاعُونَ لَهُمْ وَ
 اللَّهُ عَلِيمٌ بِالظَّالِمِينَ
 
-  
-
 **  
 **
 
@@ -122,11 +108,7 @@ deceitfully killed a group of Bani Hazaimah after having convened a
 series of military pacts with them. After the Prophet heard what Khalid
 had done, he stood facing the Kaaba whilst begging God, he said:
 
-<blockquote dir="rtl">
-  <p>
-“اللّهُمَّ إِنّي أَبرءُ إَلَيْكَ مِمّا صَنَع خالدُ بنُ الوليد”.
-  </p>
-</blockquote>
+> “اللّهُمَّ إِنّي أَبرءُ إَلَيْكَ مِمّا صَنَع خالدُ بنُ الوليد”.
 
 “O God, I abhor what Khalid has done”[^5] the files of this so-called”
 the sword of God” does not close here, and his crimes, after the
@@ -176,12 +158,8 @@ magnanimous and elegant expression:
 
 Imam said:
 
-<blockquote dir="rtl">
-  <p>
-“إنّكَ لملبوسٌ عليك، إنّ الحقّ و الباطل لا يُعرفان بأقدار الرجال،
-أعرفِ الحقّ تعرف أهله، أعرفِ الباطل تعرف أهله.”
-  </p>
-</blockquote>
+> “إنّكَ لملبوسٌ عليك، إنّ الحقّ و الباطل لا يُعرفان بأقدار الرجال،
+> أعرفِ الحقّ تعرف أهله، أعرفِ الباطل تعرف أهله.”
 
 “You are a man who does not know how to measure right from wrong. Right
 or wrong will never be recognized by a person's personality.
@@ -232,12 +210,8 @@ deprived themselves of the ordinary goods and headed for Medina. The
 Quran, then gives the reason for such a praise through the following
 expression:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَبْتَغُونَ فَضْلاً مِنَ اللَّهِ وَ رِضْواناً وَ يَنْصُرُونَ اللَّهَ
-وَ رَسُولَهُ﴾
-  </p>
-</blockquote>
+> ﴿يَبْتَغُونَ فَضْلاً مِنَ اللَّهِ وَ رِضْواناً وَ يَنْصُرُونَ اللَّهَ
+> وَ رَسُولَهُ﴾
 
 ***“They constantly beg God for His satisfaction and help Him and His
 apostle”.***
@@ -250,14 +224,10 @@ and through our good deeds help both God and his apostle.
 The Holy Quran remarks: Angles pray to God constantly asking God to
 forgive the believing people, saying
 
-<blockquote dir="rtl">
-  <p>
-﴿ مُحَمَّدٌ رَسُولُ اللَّهِ وَ الَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
-الْكُفَّارِ رُحَماءُ بَيْنَهُمْ تَراهُمْ رُكَّعاً سُجَّداً يَبْتَغُونَ
-فَضْلاً مِنَ اللَّهِ وَ رِضْواناً سِيماهُمْ فِي وُجُوهِهِمْ مِنْ
-أَثَرِ السُّجُود ﴾
-  </p>
-</blockquote>
+> ﴿ مُحَمَّدٌ رَسُولُ اللَّهِ وَ الَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
+> الْكُفَّارِ رُحَماءُ بَيْنَهُمْ تَراهُمْ رُكَّعاً سُجَّداً يَبْتَغُونَ
+> فَضْلاً مِنَ اللَّهِ وَ رِضْواناً سِيماهُمْ فِي وُجُوهِهِمْ مِنْ
+> أَثَرِ السُّجُود ﴾
 
 ***“O God forgive and bless those who have selected Your way and follow
 Your religion. The Holy Quran praises those followers of the Apostle who
@@ -268,12 +238,8 @@ on their foreheads***[^10]***“***
 
 And Allah says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ مِنْهُمْ
-مَغْفِرَةً وَ أَجْراً عَظِيماً ﴾
-  </p>
-</blockquote>
+> ﴿ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ مِنْهُمْ
+> مَغْفِرَةً وَ أَجْراً عَظِيماً ﴾
 
 ***“Allah has promised those who believe and do good, forgiveness and a
 great reward”***[^11]
@@ -284,31 +250,19 @@ prosperity or salvation; rather, besides these titles they should be
 other virtues such as good deeds and restraining from bad deeds, or else
 they would be subject to the following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِنَّ اللَّهَ لا يَرْضى عَنِ الْقَوْمِ الْفاسِقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِنَّ اللَّهَ لا يَرْضى عَنِ الْقَوْمِ الْفاسِقِينَ ﴾
 
 ***“Surely Allah is not pleased with those who transgress”.***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ اللَّهُ لا يُحِبُّ الظَّالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ اللَّهُ لا يُحِبُّ الظَّالِمِينَ ﴾
 
 ***“Allah does not love the unjust”.***[^13]
 
 The Great prophet was a sample of virtues and ethics, in the highest
 degree of faith; Allah warns him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَ لَتَكُونَنَّ مِنَ
-الْخاسِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَ لَتَكُونَنَّ مِنَ
+> الْخاسِرِينَ ﴾
 
 ***“Surely if you associate with Allah, your work would certainly come
 to naught and you would certainly be of the losers”.***[^14]
@@ -333,11 +287,7 @@ Here, is a list of such individuals:
 He was one of the Muhajirs who wrote a lot on monotheism; but later
 chose to be **infidel** and said [^15]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ قالَ سَأُنْزِلُ مِثْلَ ما أَنْزَلَ اللَّهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ قالَ سَأُنْزِلُ مِثْلَ ما أَنْزَلَ اللَّهُ ﴾
 
 ***“I will write a Quran like that of God's”.***
 
@@ -400,11 +350,7 @@ people. Such an immunity is not given, even to the Prophet himself.
 Concerning Ibrahim and his sons Ishaq, Yaqoob, Musa, Harun and others
 the Holy Quran remarks:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ لَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ ما كانُوا يَعْمَلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ لَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ ما كانُوا يَعْمَلُونَ ﴾
 
 ***“And if they had setup others (with Him) certainly what they did
 would have become ineffective for them”.***[^19]
@@ -455,5 +401,4 @@ books of Rijâl such as Al-Esti’ab, Al-Ethaba, Usud al-Ghabah etc.
 pattern is more extended.
 
 [^19]: . Quran: 6:88.
-
 

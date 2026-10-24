@@ -62,4 +62,3 @@ world know that they were all made known by the Imam 14 hundred years
 ago. Learned scholars from Europe started studying Islamic literature
 from the beginning of the 17th century.
 
-

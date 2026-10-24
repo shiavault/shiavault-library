@@ -63,4 +63,3 @@ involved in such a test and did not participate in shedding the blood of
 the pure and virtuous persons like you". Was that day nearer to reality
 and truth or is this thanksgiving and rejoicing?
 
-

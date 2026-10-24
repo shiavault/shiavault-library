@@ -85,4 +85,3 @@ piety is better than many deeds with no virtue."
 
 Al-Kafi, vol. 2, p. 76
 
-

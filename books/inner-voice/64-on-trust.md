@@ -32,4 +32,3 @@ of my father gives me in trust the sword which he used in killing my
 father (martyred at Karbala), I will return it to him whenever he comes
 back demanding its return”.
 
-

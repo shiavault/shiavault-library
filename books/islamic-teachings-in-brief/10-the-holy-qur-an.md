@@ -416,4 +416,3 @@ aspects manifested in this Divine Book, the Holy Qur'an challenges the
 enemies and announces to all mankind that they will not be able to
 produce such a book.
 
-

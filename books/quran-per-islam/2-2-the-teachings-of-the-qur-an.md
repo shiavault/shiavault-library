@@ -346,4 +346,3 @@ most commentators, is in several aspects not in accord with the text of
 the verse beginning, He it is who has revealed to you the Book in which
 are explicit verses (whose meanings are immediately clear).
 
-

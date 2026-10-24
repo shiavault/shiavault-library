@@ -1,8 +1,6 @@
 Chapter 20: Fulfilling the Stipulations
 =======================================
 
-  
-
 From the previous chapters, we have known the objectives that urged the
 two sides (i.e., al-Hasan and Mu'awiya) to make peace with each other
 and the conditions which both sides regarded as guarantees for their
@@ -33,8 +31,6 @@ has been studied very much in history.
 We do not want to study this subject in detail, for such details will
 move memories. Some of these memories are painful; some of them are
 obvious scandals; and some of them disagree with the glories in  
-
-  
 
 history. In this book I have taken upon myself that I must depend on a
 clear analytical study about the matter of al-Hasan and Mu'awiya. So I
@@ -76,8 +72,6 @@ conditions for the people, made promises to them, and made them desire
 with that, he meant nothing but that he has violated what is between you
 and him, so turn the war into a trick, and permit me to go  
 
-  
-
 to Kufa to dismiss its governor, and to declare his dismissal in it.
 Indeed Allah does not guide the cunning of traitors.
 
@@ -118,8 +112,6 @@ to anyone after him. This means that he had to hand
 [[1]](#n1) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, vol. 1, p.
 151. [[2]](#n2) Ibid, p. 152.
 
-  
-
 it over to its legal owner, namely al-Hasan b. 'Ali. If al-Hasan died,
 the authority had to be handed over to his brother al-Husayn according
 to the condition that said that handing over the authority to Mu'awiya
@@ -157,8 +149,6 @@ Islamic authority and violated all Islamic rules freely. Mu'awiya used
 strange ways to appoint his son as a successor over the Muslims.  
  The friends and the enemies of Mu'awiya have narrated all  
  these ways that are enough for us to be sure of his  
-
-  
 
 behavior as a Muslim and caliph. These ways were the worst of all ways
 in history, and the farthest of them from the essence of Islam and its
@@ -201,8 +191,6 @@ Then he went till he came to Yazid and said to him: 'Indeed
 [[2]](#n4) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, vol. 1, p.
 160.
 
-  
-
 of Allah, may Allah bless him and his family, and the chiefs and the old
 men of Quraysh died. [[1]](#r5) No one but their children has remained
 (alive). You are the best of them! You are the best of them in opinion,
@@ -243,8 +231,6 @@ of your friend." [[2]](#n6) Ibn al-Athir, al-Kamil fi al-Ta'rikh, vol.
 al-Mughira b. Shu'ba and the extent of this companion who made a tear
 for the community of Muhammad, may Allah bless him and his family.
 
-  
-
 and mention the qualities of Yazid. When the delegations, among them was
 al Ahnaf b. Qays, met Mu'awiya, the latter summoned al Dahhak b. Qays
 al-Fihri and said to him: 'When I sit on the pulpit and end some of my
@@ -283,8 +269,6 @@ example, (in his book al-Dawla al-Amawiya, p. 70) Hasan Murad said:
 "From here we see that it was unexpected change when Mu'awiya pledged
 allegiance to his son Yazid." From the words of al-Ahnaf and from our
 foregoing studies you have known that it was unexpected change.
-
-  
 
 that has come down from the sky to them. The swords which they drew
 against you when they were with 'Ali at (the Battle of) Siffin are on
@@ -326,8 +310,6 @@ month.
 [[1]](#n8) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, vol. 1, pp.
 156- 8. Al-Mas'udi, Hamish b. al Athir, vol. 6, pp. 100- 102.
 
-  
-
 "Mu'awiya wrote to 'Abd Allah b. 'Abbas, 'Abd Allah b. al Zubayr, 'Abd
 Allah b. Ja'far, and al-Husayn b. 'Ali. He summoned them to pledge
 allegiance to Yazid."
@@ -365,8 +347,6 @@ from the tops of the mountains. Aren't you he who claims that Ziyad is
 the son of Abu Sufyan, (while) the Apostle of Allah, may Allah bless him
 and his family, has decided that the baby is to the bed (i.e., the baby
 is attributed to his father) and the prostitute is stoned?
-
-  
 
 Then you have empowered Ziyad over the Muslims to kill them, to cut off
 their hands and their legs on opposite sides, and to hang them on the
@@ -410,8 +390,6 @@ greetings!" [[1]](#r9)
 [[1]](#n9) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, vol. 1, pp.
 63- 5.
 
-  
-
 After that, Mu'awiya went to Medina. Many Syrian people were with him.
 Ibn al-Athir estimated them at one thousand horsemen. He (i.e., Ibn
 al-Athir) said: "Then Mu'awiya went to 'A'isha, who had heard that the
@@ -452,8 +430,6 @@ what Mu'awiya wanted when she pledged allegiance to Yazid. [[2]](#n11)
 We have already mentioned that Mu'awiya claimed that he was more
 appropriate for the succession to authority than al Hasan, for he was
 older than him.
-
-  
 
 him: 'Slowly! He means me, [[1]](#r12) and my share in the accusation is
 more.'"
@@ -497,8 +473,6 @@ mention those who succeeded the Apostle of Allah, may Allah bless him
 and his family. [[3]](#n14) He means that this intentional inequity is
 the wish of Satan in setting people against each other.
 
-  
-
 "Put aside what you attempt. That you will meet Allah with sin of these
 creatures does not suffice you more than what you will meet Him with. By
 Allah, you are still strike falsehood with oppression, and rage with
@@ -538,8 +512,6 @@ us. He (i.e., Ibn al-Athir) said: "Al-Husayn b. 'Ali, 'Abd Allah b.
 [[1]](#n15) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, vol. 1, pp.
 168172.
 
-  
-
 al-Zubayr, 'Abd al-Rahman b. Abu Bakr, and b. 'Umar preceded Mu'awiya to
 Mecca. As it was his last days in Mecca, he summoned these (persons) and
 said to them: 'I wished to come to you. He who warns is excused. When I
@@ -573,8 +545,6 @@ In his book 'al-Sahih', al-Bukhari has narrated the following tradition
 on the authority of the Prophet, may Allah bless him and his family:
 "Every ruler who has power over subjects from the Muslims and dies
 (while) he has deceived them, Allah shall deprive him of Paradise."
-
-  
 
 ### 3. Fulfilling the third Stipulation
 
@@ -614,8 +584,6 @@ As for the claimed tradition that says: "If you follow anyone of them
 [[1]](#n16) Muhammad b. 'Aqil, al-Nasa'ih al-Kafiya, pp. 19- 20.
 [[2]](#n17) Ibid.
 
-  
-
 group of the Companions, so it generality cannot be used as a proof.
 Other wise those who cursed the Companions of the Prophet would be more
 appropriate than the others in putting it into effect. Mu'awiya would
@@ -654,8 +622,6 @@ wanted real peace or if he had wanted to fulfill the stipulations that
 were obligatory due to the protection, the covenant, and the oath.
 
 However, Mu'awiya insisted on making peace with al-Hasan to  
-
-  
 
 disband his soldiers and to be safe from the disaster of his war against
 al-Hasan, the grandson of the Apostle of Allah, may Allah bless him and
@@ -697,8 +663,6 @@ The clement one does not re**next** you without teaching. I
 
 [[1]](#n18) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 3, p. 15.
 
-  
-
 had wanted to recommend to you many things. I will leave them to depend
 on your idea. However, I will not leave recommending you one quality. Do
 not leave cursing and dispraising 'Ali." [[1]](#r19)
@@ -738,8 +702,6 @@ Al-Tabari, Ta'rikh, vol. 6, p. 141. [[2]](#n20) Al-Mas'udi, Hamish b.
 al-Athir, vol. 6, p. 99. [[3]](#n21) Al-Tabari, Ta'rikh, vol. 6, p. 96.
 Ibn al-Athir, al-Kamil fi al-Ta'rikh, vol. 3, p. 105.
 
-  
-
 what the sun rises over! By Allah, if I was the son- in- law of the
 Prophet, may Allah bless him and his family, and had sons as 'Ali had,
 it would be better for me than what the sun rises over! By Allah, if the
@@ -773,8 +735,6 @@ was according to Mu'awiya's order, too."
 ------------------------------------------------------------------------
 
 [[1]](#n22) Al-Mas'udi, Hamish b. al-Athir, vol. 6, pp. 81- 2.
-
-  
 
 ### 5. Fulfilling the fifth Stipulation
 

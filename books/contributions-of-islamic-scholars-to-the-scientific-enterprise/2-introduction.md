@@ -52,4 +52,3 @@ phenomena, in order to understand God. Islam’s contribution to the
 scientific enterprise was complex and rich and it spanned over three
 continents and nearly a millennium of time.
 
-

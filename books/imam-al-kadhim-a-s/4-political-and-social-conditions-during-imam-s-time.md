@@ -692,4 +692,3 @@ Thus the struggle between this Abbassid ruler and Imam Musa bin Ja'far
 (a.s.) came to an end, but it restarted with the new ruler, Haroon
 al-Rasheed.
 
-

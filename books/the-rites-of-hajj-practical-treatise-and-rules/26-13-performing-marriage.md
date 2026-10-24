@@ -24,4 +24,3 @@ It is not permitted for a Muhrim to attend a marriage ceremony as the
 witness, also (as obligatory precaution) it is not permitted to testify
 a marriage, or propose for himself or another person.
 
-

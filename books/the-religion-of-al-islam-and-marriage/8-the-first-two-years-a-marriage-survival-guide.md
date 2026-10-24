@@ -43,14 +43,10 @@ from an Islamic perspective, the husband is given the leadership role in
 the marriage relationship, this does not mean that he can run the family
 life like a dictator. Allah (SwT) instructs in the Quran that:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
-بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ
-فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ
-ۚ
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
+> بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ
+> فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ
+> ۚ
 
 ***"Men are the maintainers of women because Allah has made*** *** some
 of them to excel others and because they spend out of their property;
@@ -74,14 +70,10 @@ Not only is it the duty of the head of the house to make sure that the
 material needs of the family and order are kept, but it is also his duty
 to protect himself and his family from the fire of hell:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
-وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ
-شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا
-يُؤْمَرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
+> وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ
+> شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا
+> يُؤْمَرُونَ
 
 ***"O' you who have true faith! Save yourselves and your families from
 the fire which is fueled by people and stones and is guarded by stern
@@ -130,12 +122,8 @@ has made halal (permissible), divorce is the one He hates the most.
 Couples need to look at several other alternatives before turning to
 this drastic measure. The Prophet of Islam (S) has told us that:
 
-<blockquote dir="rtl">
-  <p>
-ما خَلَقَ اللهُ شَيْئاً عَلى وَجْهِ الأَرْضِ أَحَبَّ مِنَ الْعَتاقِ
-وَلا خَلَقَ شَيْئاً عَلى وَجْهِ الأَرْضِ أَبْغَضَ مِنَ الطَّلاقِ.
-  </p>
-</blockquote>
+> ما خَلَقَ اللهُ شَيْئاً عَلى وَجْهِ الأَرْضِ أَحَبَّ مِنَ الْعَتاقِ
+> وَلا خَلَقَ شَيْئاً عَلى وَجْهِ الأَرْضِ أَبْغَضَ مِنَ الطَّلاقِ.
 
 *"Allah (SwT) has not created on the face of this Earth anything more
 beloved by Him than freeing a slave, and He has not created anything on
@@ -145,13 +133,9 @@ The couple should seek the help of older, wiser and trustworthy elders
 and Scholars who will try to help them resolve their differences. Allah
 (SwT) tells us in the Quran that:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ
-وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ
-بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا
-  </p>
-</blockquote>
+> وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ
+> وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ
+> بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا
 
 ***"If there appears to be discord between a wife and her husband and if
 they desire reconciliation, then choose arbiters from the families of
@@ -194,12 +178,8 @@ The universal teachings of Islam also instructs the husband and wife to
 maintain cleanliness and beauty for the spouse. The Prophet of Islam (S)
 has commanded us that:
 
-<blockquote dir="rtl">
-  <p>
-إِنّ اللهَ جَمِيلٌ يُحِبُّ الْجَمالِ وَيُحِبُّ أَنْ يُرى أَثَرَ
-النِّعْمَةِ عَلى عَبْدِهِ.
-  </p>
-</blockquote>
+> إِنّ اللهَ جَمِيلٌ يُحِبُّ الْجَمالِ وَيُحِبُّ أَنْ يُرى أَثَرَ
+> النِّعْمَةِ عَلى عَبْدِهِ.
 
 *"Certainly Allah (SwT) is Beauty and He (only) loves beauty and He
 loves to see the effects of (His) blessings and bounties on His
@@ -207,13 +187,9 @@ servants." (Al-Kafi, Volume 6, Page 438)*
 
 The Prophet (S) has also told us that:
 
-<blockquote dir="rtl">
-  <p>
-إِغْسِلُوا ثِيابَكُمْ وَخُذُوا مِنْ شُعُورِكُمْ وَاسْتاكُوْا
-وَتَزَيَّنٍوا وَتَنَظَّفُوا فَإِنّ بَنِي إِسْرائِيلَ لَمْ يَكُونُوا
-يَفْعَلُونَ ذلِكَ فَزَنَتْ نِسائُهُمْ.
-  </p>
-</blockquote>
+> إِغْسِلُوا ثِيابَكُمْ وَخُذُوا مِنْ شُعُورِكُمْ وَاسْتاكُوْا
+> وَتَزَيَّنٍوا وَتَنَظَّفُوا فَإِنّ بَنِي إِسْرائِيلَ لَمْ يَكُونُوا
+> يَفْعَلُونَ ذلِكَ فَزَنَتْ نِسائُهُمْ.
 
 *"Wash your clothes and trim the excess hair on your bodies and brush
 your teeth and beautify yourselves and keep yourselves clean, since
@@ -223,12 +199,8 @@ women committed adultery." (Nahj al-Fusahah, Page 72)*
 We quote one final hadith on the importance of keeping clean and looking
 nice for one's spouse where the Prophet (S) has been described as:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ رَسُولُ اللهِ يُنْفِقُ فِي الطِّيبِ أَكْثَرَ مِمّا يُنْفِقُ فِي
-الطّعامِ
-  </p>
-</blockquote>
+> كَانَ رَسُولُ اللهِ يُنْفِقُ فِي الطِّيبِ أَكْثَرَ مِمّا يُنْفِقُ فِي
+> الطّعامِ
 
 *"The Messenger of Allah (S) used to spend more money on perfumes, than
 he used to spend on food." (Wasail ash-Shia, Volume 1, Page 443)*
@@ -267,13 +239,9 @@ in Islam is to sever ties with family members. However at the same time,
 the husband and wife must maintain a balance between the time they spend
 with parents/in-laws and with themselves:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
-الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
+> الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
 ***"Surely Allah (SwT) commands (people) to maintain justice, kindness,
 and proper relations with their relatives. He forbids them to commit
@@ -283,14 +251,10 @@ perhaps you will take heed."***
 
 In another verse of the Quran, Allah (SwT) instructs us as such:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
-نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
-كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ
-وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
+> نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
+> كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ
+> وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 ***"O' Mankind! Have fear of your Lord who has created you from a single
 soul. From it He created your spouse and through them He populated the
@@ -405,11 +369,7 @@ on marriage problems from a "marriage mentor", someone who is older,
 wiser, trustworthy and has the best interests of both parties at heart.
 The Holy Quran tells us that:
 
-<blockquote dir="rtl">
-  <p>
-هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ
-  </p>
-</blockquote>
+> هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ
 
 ***"They (your wives) are a clothing (covering) for you and you too are
 a clothing for them."***
@@ -462,14 +422,9 @@ and giving each other sufficient space, yet at the same time, being
 there for one another. Doing this provides a necessary balance in a
 relationship which is so close both physically and emotionally.
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): مَنْ
-تَزَوَّجَ أَحْرَزَ نَصْفَ دِيَنِهِ
-  </p>
-</blockquote>
+> قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): مَنْ
+> تَزَوَّجَ أَحْرَزَ نَصْفَ دِيَنِهِ
 
 *The Messenger of Allah (S) has said, "He who marries has safeguarded
 half of his religion."*
-
 

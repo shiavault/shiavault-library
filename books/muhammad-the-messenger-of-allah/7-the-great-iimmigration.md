@@ -133,4 +133,3 @@ Prophet (s.a.w.) was, by now, the guest of Abu-Ayyub, may Allah be
 pleased with him-. He remained there till the mosque was raised and a
 circle of houses was built around it.
 
-

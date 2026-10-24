@@ -117,4 +117,3 @@ discriminator) as will be proved from the traditions mentioned below.
 [^6]: Khasais of Nasai; Mustadrak of Hakim; Hafiz Abu Naeem in Hilaya
 etc.
 
-

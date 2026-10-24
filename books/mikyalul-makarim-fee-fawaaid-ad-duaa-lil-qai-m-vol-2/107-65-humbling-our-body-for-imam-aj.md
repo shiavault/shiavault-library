@@ -33,11 +33,7 @@ Now when such is the case of a slave who has been purchased at the cost
 of a few dirhams, what can be said about the one who has God given
 Wilayat? The Almighty Allah mentions this in His great Book as follows:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***The Prophet has a greater claim on the faithful than they have on
 themselves. (Qur’an, Surah Ahzab 33:6)***
@@ -53,5 +49,4 @@ poet says:
 **Knows where my goods lie.**
 
 [^1]: Jamaal al-Usboo, Pg. 230
-
 

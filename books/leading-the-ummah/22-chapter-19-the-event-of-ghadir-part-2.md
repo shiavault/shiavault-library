@@ -240,4 +240,3 @@ favor on you and chosen for you Islam as a religion” [Quran 5:3]. ﴿
 
 [^10]: . Thamarat Al-Qulub, p. 511.
 
-

@@ -64,4 +64,3 @@ the Translation Office.
 Cultural Affairs Department  
  The Ahlul Bayt (‘a) World Assembly
 
-

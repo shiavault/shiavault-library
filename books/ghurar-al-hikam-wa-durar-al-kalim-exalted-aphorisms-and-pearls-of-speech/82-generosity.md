@@ -113,11 +113,7 @@ in obedience to Him, He will [in return] magnify your reward and
 increase His favour upon you.
 
 > 25ـ جُودُوا فيِ اللّهِ وجاهِدُوا أنْفُسَكُمْ عَلى طاعَتِهِ يُعْظِمْ
-<blockquote dir="rtl">
-  <p>
-لَكُمْ الجَزاءَ وَيُحْسِنْ لَكُمْ الحَباءَ.
-  </p>
-</blockquote>
+> لَكُمْ الجَزاءَ وَيُحْسِنْ لَكُمْ الحَباءَ.
 
 26. Generosity is the practice of the honourable.
 
@@ -157,10 +153,5 @@ away while he is dispraised.
 makes him hated by his [own] children.
 
 > 34ـ جُودُ الرَّجُلِ يُحَبِّبُهُ إلى أضْدادِهِ، وبُخْلُهُ يُبَغِّضُهُ
-<blockquote dir="rtl">
-  <p>
-إلى أوْلادِهِ.
-  </p>
-</blockquote>
-
+> إلى أوْلادِهِ.
 

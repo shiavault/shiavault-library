@@ -405,4 +405,3 @@ Isti'ab, vol. 4, p. 476
 
 [^43]: Izilatul Khifi, vol. 2, p. 256
 
-

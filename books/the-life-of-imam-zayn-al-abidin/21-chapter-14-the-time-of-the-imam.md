@@ -2037,4 +2037,3 @@ poem is weak in composition.
 
 [^101]: Ibid., 197.
 
-

@@ -722,4 +722,3 @@ him alive and inalienably personal.” It is quite true that the spoken
 word which is incorporated in the personality of the memorizer (hafiz).
 After all, the Qur’an descended as the spoken word of God.
 
-

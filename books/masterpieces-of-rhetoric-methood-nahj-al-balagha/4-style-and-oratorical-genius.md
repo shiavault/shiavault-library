@@ -362,9 +362,7 @@ As for this language, as Marshlosh mentioned its features and what he
 did not mention, you could find its origins and branches, the beauty of
 its colours and magic of its eloquence in Imam Ali’s literature.
 
-
 It was a literature serving man and culture.
 
 ([^1]) Hasan Aon, trans; Theory of Zikrary Genve.
-
 

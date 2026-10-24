@@ -536,7 +536,6 @@ research. It is important to mention them. They are as follows:
 
 Al-Hakim
 
-
 Al-Hakim al-Nisaburi has mentioned that al-Hasan entrusted his vanguard
 to his cousin Abdullah bin Ja‘far and added to him ten thousand
 fighters.[^1] Only al-Hakim has mentioned this narration, which is
@@ -656,5 +655,4 @@ checking the narrations only they mentioned to support the then
 government. There is nothing more important to the historian who wants
 to be honest to the truth than examining the narrations, for it is among
 the things the free research requires and we are in need of.
-
 

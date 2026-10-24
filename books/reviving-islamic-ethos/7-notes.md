@@ -54,4 +54,3 @@ deviationist Ummayads were to be tolerated. (see John B. Noss: "Man's
 Religions", the Macmillan Company, New York. Third Ed., 7th Printing,
 1967, p. 748) -Ed.
 
-

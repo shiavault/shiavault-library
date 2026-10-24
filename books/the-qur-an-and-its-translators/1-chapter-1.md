@@ -84,4 +84,3 @@ that might offer almost a verse to verse guidance to the translator,
 especially if the translation is being done from existing translations
 and the relavant works are not accessible to the translator.
 
-

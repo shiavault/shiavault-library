@@ -2749,4 +2749,3 @@ hostile towards 'Ali and extremely hostile to the 'Alids.
 [^25]: Cf. Jawad Shubbar, op. cit., I, 192 which gives an example by
 Ja'far ibn 'Affan.
 
-

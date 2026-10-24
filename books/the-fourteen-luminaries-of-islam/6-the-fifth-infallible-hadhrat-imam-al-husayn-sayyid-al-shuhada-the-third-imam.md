@@ -511,4 +511,3 @@ benevolence is like a fast rain which falls upon both good and evil.
 
 [^2]: Zaynab (as) Himasa-i Abadi Bar Faraz Tarikh, p. 59.
 
-

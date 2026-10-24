@@ -82,7 +82,6 @@ the religious policy (sent to us through prophetic mission) was not
 legitimate, then this desire would not have been engraved on man's
 mind.
 
-
 **A Resume Of The History Of Religions**
 
 In conducting a brief investigation on the origination of religions,
@@ -128,7 +127,6 @@ settled man's differences. As the Almighty Allah states:
 of good news and as warners, and He revealed with them the Book with
 truth, that it might judge between people in that which they differed...
 (2:213)."
-
 
 **THE RELIGION OF ISLAM**
 
@@ -184,7 +182,6 @@ for ever.
 Thus, the Almighty Allah calls Islam a human nature-inspired religion
 and invites people to keep human nature alive. Theologians have stated
 that Islam is an easy religion which does not treat man with severity.
-
 
 **THE IMPORTANCE ISLAM ATTACHES TO MAN'S COMFORT**
 
@@ -246,7 +243,6 @@ and thought for reaching its depth. Nevertheless, every part of Islam is
 linked with other parts and all parts constitute an organized unit of
 theism and human fostering, revealed by the Almighty Allah to His
 honourable Prophet.
-
 
 **Comparison Of Islam With Other Social System**
 
@@ -333,5 +329,4 @@ wolves and tigers, and with docility as in cows and sheep. Therefore,
 the Holy Prophet (SA) stated:
 
 "My main objective is the moral education of people."
-
 

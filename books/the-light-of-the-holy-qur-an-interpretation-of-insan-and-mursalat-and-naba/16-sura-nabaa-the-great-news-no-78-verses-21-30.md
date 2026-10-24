@@ -21,7 +21,6 @@ Sura Nabaa (the Great News) No. 78 (verses 21-30)
 
 (30) فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا
 
-
 21. Surely Hell lies in ambush'.
 
 22. 'For the transgressors a destination'.
@@ -43,7 +42,6 @@ deeds) '.
 
 30. So taste you (the fruit of your deeds) ; for no increase shall We
 grant you, but in punishment.
-
 
 **Commentary:**
 
@@ -247,5 +245,4 @@ addresses them with wrath and says: ..for no increase shall We grant
 you, but in punishment', to make them completely hopeless.
 
 (1) Tafsir-i-Kashshaf, vol. 690 and Ruh-al-Bayan. vol.10, p.307.
-
 

@@ -98,4 +98,3 @@ If the universe had existed forever, we would see maximum entropy
 (complete disorder) which we do not see at all, something referred to as
 the fate of excessive expansion.
 
-

@@ -25,7 +25,7 @@ joy just by hearing these words of the Imam and she said, “O my master
 and chief! May I be sacrificed on you, from whom would the caliph be
 borna”
 
-Imam (a.s) replied, “From Susan (or Narjis).”<sup>[1]</sup>
+Imam (a.s) replied, “From Susan (or Narjis).”[1]
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ refutation of the Abbaside rulers that they used to think that they
 would be able to soon kill him and deprive the Imam from continuing his
 progeny. He said in this way, “These cruel people thought that they
 would kill me so that this progeny could be cut off. What an estimation
-of God’s power they hada”<sup>[1]</sup>
+of God’s power they hada”[1]
 
 ------------------------------------------------------------------------
 
@@ -77,10 +77,10 @@ Lady Hakima took the newborn child of exalted rank to its honorable
 father, Imam Hasan Askari (a.s) who welcomed him with great pleasure and
 joy and initiated the Islamic rituals connected with the occasion. In
 the right ear of the newborn child, the Imam recited the
-'Azan'<sup>[1]</sup> and in his left recited the 'Iqamat'.<sup>[2]</sup>
+'Azan'[1] and in his left recited the 'Iqamat'.[2]
 Thus the first words to reach his ears were, 'God is the
-Greatest'<sup>[3]</sup> and, 'There is no god, except
-Allah'<sup>[4]</sup>.
+Greatest'[3] and, 'There is no god, except
+Allah'[4].
 
 In fact, Imam Hasan Askari (a.s), by these words fed the child with the
 secret of existence and the aim of the prophets and it resulted in
@@ -91,7 +91,7 @@ from the Holy Quran:
 
 *"And we desired to bestow a favor upon those who were deemed weak in
 the land, and make them the Imams, and to make them the
-heirs…"<sup>[5]</sup>*
+heirs…"[5]*
 
 In this way, the Proof of Allah on people and His Guardian (Wali) was
 born in such a concealed way due to the fear of the oppressive rulers
@@ -105,7 +105,7 @@ in the care and protection of Allah."
 
 Then he said to Lady Hakima, "Auntie take him back to his mother, and
 keep the report of the birth of this newborn child a secret and do not
-convey it to anyone till the time is ripe for it…"<sup>[6]</sup>
+convey it to anyone till the time is ripe for it…"[6]
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ slaughtered for his Aqiqa Ceremony from which four were dispatched to
 his friend, Ibrahim along with the following letter: "In the name of
 Allah, the Beneficent, the Merciful. These sheep are due to (the birth
 of) my son, Muhammad Mahdi. Partake it yourself and whomsoever of our
-Shias you see, make them partake it too."<sup>[1]</sup>
+Shias you see, make them partake it too."[1]
 
 ### Shias informed of the birth of the Imam of the time
 
@@ -134,7 +134,7 @@ child, though the holy Imam has ordered that this information be kept
 confidential."
 
 Hamzah asked, "What is the name of the childa" He was told, "His name is
-Muhammad and agnomen, Abu Ja'far."<sup>[2]</sup>
+Muhammad and agnomen, Abu Ja'far."[2]
 
 ### Felicitations for the birth of the Imam of the time
 
@@ -144,7 +144,7 @@ and elders came to Imam Hasan Askari (a.s) in groups and congratulated
 him for the birth of Imam Mahdi (a.s). One of them, Hasan, the son of
 Husain Alawi says, "I came to Imam Hasan Askari (a.s) in Samarrah and
 complimented him about the birth of his son, Qaim (one who
-rises)."<sup>[3]</sup>
+rises)."[3]
 
 ------------------------------------------------------------------------
 
@@ -158,7 +158,7 @@ their joy. Shaykh Muhammad Samawi says,
 *"O the night that passed in the birth of that child.*
 
 By whom the atmosphere was mesmerized and his fragrance spread all
-around…"<sup>[1]</sup>
+around…"[1]
 
 Among those who composed eulogical poems on this occasion was Shaykh
 Kazim Aale Nuh, the acknowledged and successful literary personality. He

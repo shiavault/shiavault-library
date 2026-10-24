@@ -1,37 +1,25 @@
 Surah Al-Anam, n.6
 ==================
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ ۖ يُخْرِجُ الْحَيَّ مِنَ
-الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ ۚ ذَٰلِكُمُ اللَّهُ ۖ
-فَأَنَّىٰ تُؤْفَكُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ ۖ يُخْرِجُ الْحَيَّ مِنَ
+> الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ ۚ ذَٰلِكُمُ اللَّهُ ۖ
+> فَأَنَّىٰ تُؤْفَكُونَ
 
 ***Surely Allah causes the grain and the stone to germinate; He brings
 forth the living from the dead and He is the bringer forth of the dead
 from the living; that is Allah! how are you then turned away. (6:95)***
 [^1]
 
-<blockquote dir="rtl">
-  <p>
-فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ
-وَالْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
-  </p>
-</blockquote>
+> فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ
+> وَالْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
 
 ***He causes the dawn to break; and He has made the night for rest, and
 the sun and the moon***[^2] ***for reckoning; this is an arrangement of
 the Mighty, the Knowing. (6:96)***[^3]
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي
-ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي
+> ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ
+> يَعْلَمُونَ
 
 ***And He it is Who has made the stars for you that you might follow the
 right way thereby in the darkness of the land and the sea; truly We have
@@ -50,5 +38,4 @@ astronomical knowledge except regarding the Moon which is not certain.
 
 [^4]: The travellers in the deserts and the seamen even today determine
 their direction based upon the position of the stars
-
 

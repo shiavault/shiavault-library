@@ -42,13 +42,9 @@ edify, educate, teach the public the Book and Wisdom, tend to their
 affairs, and live at the same level as them. In this respect, the Holy
 Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
-وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِين
-  </p>
-</blockquote>
+> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
+> وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِين
 
 ***He it is Who raised among the inhabitants of Mecca a Messenger from
 among themselves, who recites to them His communications and purifies
@@ -72,29 +68,21 @@ undertake this mission. The Prophets have in fact not left gold or
 silver coins as their legacies, but rather great knowledge and wisdom.
 In this respect, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-اَلعُلَمَاءُ مَصَابِيحُ الأَرْضِ، وَخُلَفَاءُ الأَنْبِيَاءِ،
-وَوَرَثَتِي، وَوَرَثَةُ الأَنْبِيَاءِ.
-  </p>
-</blockquote>
+> اَلعُلَمَاءُ مَصَابِيحُ الأَرْضِ، وَخُلَفَاءُ الأَنْبِيَاءِ،
+> وَوَرَثَتِي، وَوَرَثَةُ الأَنْبِيَاءِ.
 
 *The scholars are the lanterns of the earth, the representatives of
 prophets, my heirs and the heirs of the prophets.*[^2]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْعُلَمَاءَ وَرَثَةُ الأَنْبِيَاءِ، وَذَاكَ أَنَّ الأَنْبِيَاءَ
-لَمْ يُوَرِّثُوا دِرْهَماً وَلاَ دِينَاراً؛ وَإنَّمَا أَوْرَثُوا
-أَحَادِيثَ مِنْ أَحَادِيثِهِمْ. فَمَنْ أَخَذَ بِشَيْءٍ مِنْهَا فَقَدْ
-أَخَذَ حَظّاً وَافِراً. فَانْظُرُوا عِلْمَكُمْ عَمَّنْ تَأْخُذُونَهُ،
-فَإنَّ فِينَا أَهْلَ الْبَيْتِ فِي كُلِّ خَلَفٍ عُدُولاً يَنْفُونَ
-عَنْهُ تَحْرِيفَ الْغَالِينَ، وَانْتِحَالَ الْمُبْطِلِينَ، وَتَأْوِيلَ
-الْجَاهِلِينَ.
-  </p>
-</blockquote>
+> إنَّ الْعُلَمَاءَ وَرَثَةُ الأَنْبِيَاءِ، وَذَاكَ أَنَّ الأَنْبِيَاءَ
+> لَمْ يُوَرِّثُوا دِرْهَماً وَلاَ دِينَاراً؛ وَإنَّمَا أَوْرَثُوا
+> أَحَادِيثَ مِنْ أَحَادِيثِهِمْ. فَمَنْ أَخَذَ بِشَيْءٍ مِنْهَا فَقَدْ
+> أَخَذَ حَظّاً وَافِراً. فَانْظُرُوا عِلْمَكُمْ عَمَّنْ تَأْخُذُونَهُ،
+> فَإنَّ فِينَا أَهْلَ الْبَيْتِ فِي كُلِّ خَلَفٍ عُدُولاً يَنْفُونَ
+> عَنْهُ تَحْرِيفَ الْغَالِينَ، وَانْتِحَالَ الْمُبْطِلِينَ، وَتَأْوِيلَ
+> الْجَاهِلِينَ.
 
 *Verily, scholars are the heirs of the prophets. The prophets have not
 left behind them Dirhams or Dinars; rather, the treasure they have left
@@ -109,16 +97,12 @@ The previously mentioned natural sequence (i.e. extension) in the divine
 position and representation of the Prophets has been clearly mentioned
 in the following verse of the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا
-النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا
-وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ
-اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ
-وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ
-يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
-  </p>
-</blockquote>
+> إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا
+> النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا
+> وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ
+> اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ
+> وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ
+> يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
 
 ***Surely, We revealed the Torah in which was guidance and light. With
 it, the prophets who submitted themselves to Allah judged matters for
@@ -130,16 +114,12 @@ by what Allah revealed, those are the unbelievers. (5:44)***
 
 Abu-\`Amr al-Zubayri has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِمَّا إسْتُحِقَّتْ بِهِ الإمَامَةُ التَّطْهِيرَ وَالطَّهَارَةَ
-مِنَ الذُّنُوبِ وَالْمَعَاصِي الْمُوبِقَةِ الَّتِي تُوجِبُ النَّارَ،
-ثُمَّ الْعِلْمَ الْمَكْنُونَ بِجِميعِ مَا يَحْتَاجُ إلَيْهِ الأَمْرُ
-مِنْ حَلاَلِهَا وَحَرَامِهَا، وَالْعِلْمَ بِهِ خَاصَّةً وَعَامَّةً،
-وَالْمُحْكَمِ وَالْمُتَشَابِهِ وَدَقِائِقِ عِلْمِهِ وَغَرَائِبِ
-تَأْوِيلِهِ وَنَاسِخِهِ وَمَنْسُوخِهِ.
-  </p>
-</blockquote>
+> إنَّ مِمَّا إسْتُحِقَّتْ بِهِ الإمَامَةُ التَّطْهِيرَ وَالطَّهَارَةَ
+> مِنَ الذُّنُوبِ وَالْمَعَاصِي الْمُوبِقَةِ الَّتِي تُوجِبُ النَّارَ،
+> ثُمَّ الْعِلْمَ الْمَكْنُونَ بِجِميعِ مَا يَحْتَاجُ إلَيْهِ الأَمْرُ
+> مِنْ حَلاَلِهَا وَحَرَامِهَا، وَالْعِلْمَ بِهِ خَاصَّةً وَعَامَّةً،
+> وَالْمُحْكَمِ وَالْمُتَشَابِهِ وَدَقِائِقِ عِلْمِهِ وَغَرَائِبِ
+> تَأْوِيلِهِ وَنَاسِخِهِ وَمَنْسُوخِهِ.
 
 *Among the matters by which one is deservingly designated for Imamate
 are purification and purity from sins and destructive acts of
@@ -165,11 +145,7 @@ The Imam (‘a) answered:
 > أَخْبَرَ فَقَالَ: "بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا
 > عَلَيْهِ شُهَدَاءَ"  {44}
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَقُلْ بِمَا حُمِّلُوا مِنْهُ.
-  </p>
-</blockquote>
+> وَلَمْ يَقُلْ بِمَا حُمِّلُوا مِنْهُ.
 
 *The proof is Almighty Allah’s statement about those whom He has
 permitted to hold the position of government and those whom He has
@@ -287,12 +263,8 @@ identify the practical, religion-based circumstances of an issue.
 This qualification has been cited by the previously mentioned verse in
 general, and in the following section of the verse in particular:
 
-<blockquote dir="rtl">
-  <p>
-"بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ
-شُهَدَاءَ"
-  </p>
-</blockquote>
+> "بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ
+> شُهَدَاءَ"
 
 ***…Because they were required to guard part of the Book of Allah, and
 they were witnesses thereof.***
@@ -302,13 +274,9 @@ reported from the Holy Imams (‘a), including the following which is
 authentically reported from Imam al-Sadiq (‘a) and is recorded under the
 title of choosing an arbitrator to judge between disputants:
 
-<blockquote dir="rtl">
-  <p>
-يَنْظُرَانِ مَنْ كَانَ مِنْكُمْ مِمَّنْ رَوَى حَدِيثَنَا وَنَظَرَ فِي
-حَلاَلِنَا وَحَرَامِنَا وَعَرَفَ أَحْكَامَنَا، فَلْيَرْضُوا بِهِ
-حَكَماً.
-  </p>
-</blockquote>
+> يَنْظُرَانِ مَنْ كَانَ مِنْكُمْ مِمَّنْ رَوَى حَدِيثَنَا وَنَظَرَ فِي
+> حَلاَلِنَا وَحَرَامِنَا وَعَرَفَ أَحْكَامَنَا، فَلْيَرْضُوا بِهِ
+> حَكَماً.
 
 *They (i.e. the disputant parties) must seek out one of you (i.e. the
 Shi\`ah) who has reported our discourses, has acquaintance with what has
@@ -320,22 +288,14 @@ On the authority of Imam \`Ali (‘a), Imam Muhammad al-Baqir (‘a)
 reported the Holy Prophet (S) to have repeated the following
 supplicatory prayer three times:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إرْحَمْ خُلَفَائِي.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إرْحَمْ خُلَفَائِي.
 
 *O Allah, (please) have mercy upon my representatives.*
 
 When he was asked to define his representatives, the Holy Prophet (S)
 answered:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَأْتُونَ بَعْدِي، يَرْوُونَ حَدِيثِي وَسُنَّتِي.
-  </p>
-</blockquote>
+> الَّذِينَ يَأْتُونَ بَعْدِي، يَرْوُونَ حَدِيثِي وَسُنَّتِي.
 
 *My representatives are those, among the coming generations, who will
 report my sayings and traditions.*[^9]
@@ -343,12 +303,8 @@ report my sayings and traditions.*[^9]
 The following instruction has been mentioned in the famous document
 signed by Imam al-Mahdi—the Patron of the Age:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوا فِيهَا إلَى رُوَاةِ
-حَدِيثِنَا، فَإنَّهُمْ حُجَّتِي عَلَيْكُمْ، وَأَنَا حُجَّةُ اللهِ.
-  </p>
-</blockquote>
+> وَأَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوا فِيهَا إلَى رُوَاةِ
+> حَدِيثِنَا، فَإنَّهُمْ حُجَّتِي عَلَيْكُمْ، وَأَنَا حُجَّةُ اللهِ.
 
 *As for the events that will take place in the future, you must refer
 them to the reporters of our traditions, for they are my proof on you
@@ -408,14 +364,10 @@ scholars.[^15]
 In this respect, a tradition that is reported from Imam Muhammad
 al-Baqir (‘a) states that the Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَصْلُحُ الإمَامَةُ إلاَّ لِرَجُلٍ فِيهِ ثَلاَثُ خِصَالٍ: وَرَعٌ
-يَحْجُزُهُ عَنْ مَعَاصِي اللهِ، وَحِلْمٌ يَمْلِكُ بِهِ غَضَبَهُ،
-وَحُسْنُ الْوِلاَيَةِ عَلَى مَنْ يَلِي حَتَّى يَكُونَ لَهُمْ
-كَالْوَالِدِ الرَّحِيمِ.
-  </p>
-</blockquote>
+> لاَ تَصْلُحُ الإمَامَةُ إلاَّ لِرَجُلٍ فِيهِ ثَلاَثُ خِصَالٍ: وَرَعٌ
+> يَحْجُزُهُ عَنْ مَعَاصِي اللهِ، وَحِلْمٌ يَمْلِكُ بِهِ غَضَبَهُ،
+> وَحُسْنُ الْوِلاَيَةِ عَلَى مَنْ يَلِي حَتَّى يَكُونَ لَهُمْ
+> كَالْوَالِدِ الرَّحِيمِ.
 
 *Imamate is unsuitable for anyone except a man who enjoys the following
 three qualities: (1) piety that prevents him from committing acts of
@@ -428,16 +380,12 @@ Shaykh al-Kulayni has also reported through an authentic chain of
 authority on the authority of Muhammad ibn Muslim that Imam al-Baqir
 (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ، يَا مُحَمَّدُ، مَنْ أَصْبَحَ مِنْ هَذِهِ الأُمَّةِ لاَ
-إِمَامٌ لَهُ مِنَ اللهِ عَزَّ وَجَلَّ ظَاهِرٌ عَادِلٌ، أَصْبَحَ
-ضَالاًّ تَائِهاً، وَإنْ مَاتَ عَلَى هَذِهِ الْحَالَةِ مَاتَ مِيتَةَ
-كُفْرٍ وَنِفَاقٍ. وَاعْلَمْ، يَا مُحَمَّدُ، أَنَّ أَئِمَّةَ الْجَوْرِ
-وَأَتْبَاعَهُمْ لَمَعْزُولُونَ عَنْ دِينِ اللهِ، قَدْ ضَلُّوا
-وَأَضَلُّوا.
-  </p>
-</blockquote>
+> وَاللهِ، يَا مُحَمَّدُ، مَنْ أَصْبَحَ مِنْ هَذِهِ الأُمَّةِ لاَ
+> إِمَامٌ لَهُ مِنَ اللهِ عَزَّ وَجَلَّ ظَاهِرٌ عَادِلٌ، أَصْبَحَ
+> ضَالاًّ تَائِهاً، وَإنْ مَاتَ عَلَى هَذِهِ الْحَالَةِ مَاتَ مِيتَةَ
+> كُفْرٍ وَنِفَاقٍ. وَاعْلَمْ، يَا مُحَمَّدُ، أَنَّ أَئِمَّةَ الْجَوْرِ
+> وَأَتْبَاعَهُمْ لَمَعْزُولُونَ عَنْ دِينِ اللهِ، قَدْ ضَلُّوا
+> وَأَضَلُّوا.
 
 *O Muhammad, I swear by Allah that if any one of this nation begins his
 day without having a leader (i.e. Imam) characterized by directness and
@@ -468,13 +416,9 @@ most virtuous of his contemporaries.[^18]
 This condition has also been confirmed in many traditions. Imam \`Ali
 Amir al-Mu'minin ('a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إنَّ أَحَقَّ النَّاسِ بِهَذَا الأَمْرِ أَقْوَاهُمْ
-عَلَيْهِ وَأَعْلَمُهُمْ بِأَمْرِ اللهِ فِيهِ. فَإنْ شَغِبَ شَاغِبٌ
-اِسْتُعْتِبَ، فَإنْ أَبَى قُوتِلَ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إنَّ أَحَقَّ النَّاسِ بِهَذَا الأَمْرِ أَقْوَاهُمْ
+> عَلَيْهِ وَأَعْلَمُهُمْ بِأَمْرِ اللهِ فِيهِ. فَإنْ شَغِبَ شَاغِبٌ
+> اِسْتُعْتِبَ، فَإنْ أَبَى قُوتِلَ.
 
 *O people, the most rightful of all persons to hold this office
 (leadership) is the one who is most competent among them to maintain it
@@ -484,14 +428,10 @@ refuses, he will be fought.*[^19]
 
 Imam \`Ali ('a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَالثَّانِي أَنْ يَكُونَ أَعْلَمَ النَّاسِ بِحَلاَلِ اللهِ وَحَرَامِهِ
-وَضُرُوبِهِ وَأَحْكَامِهِ وَأَمْرِهِ وَنَهْيِهِ وَجَمِيعِ مَا
-يَحْتَاجُ إلَيْهِ النَّاسُ، فَيَحْتَاجُ إلَيْهِ النَّاسُ وَيَسْتَغْنِي
-عَنْهُمْ.
-  </p>
-</blockquote>
+> وَالثَّانِي أَنْ يَكُونَ أَعْلَمَ النَّاسِ بِحَلاَلِ اللهِ وَحَرَامِهِ
+> وَضُرُوبِهِ وَأَحْكَامِهِ وَأَمْرِهِ وَنَهْيِهِ وَجَمِيعِ مَا
+> يَحْتَاجُ إلَيْهِ النَّاسُ، فَيَحْتَاجُ إلَيْهِ النَّاسُ وَيَسْتَغْنِي
+> عَنْهُمْ.
 
 *The second quality (of one who must have the leadership of the Muslim
 nation) is that he must be the most knowledgeable among all people of
@@ -503,14 +443,10 @@ person does not need them.*[^20]
 In his authentic report, al-\`Ays ibn al-Qasim has reported Imam
 al-Sadiq (‘a) to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَانْظُرُوا لأَِنْفُسِكُمْ؛ فَوَاللهِ، إنَّ الرَّجُلَ لَيَكُونُ لَهُ
-الْغَنَمُ فِيهَا الرَّاعِي، فَإذَا وَجَدَ رَجُلاً أَعْلَمَ بِغَنَمِهِ
-مِنَ الَّذِي هُوَ فِيهَا يَمُجُّهُ وَيَجِيءُ بِذَلِكَ الرَّجُلِ
-الَّذِي هُوَ أَعْلَمُ بِغَنَمِهِ مِنَ الَّذِي كَانَ فِيهَا.
-  </p>
-</blockquote>
+> وَانْظُرُوا لأَِنْفُسِكُمْ؛ فَوَاللهِ، إنَّ الرَّجُلَ لَيَكُونُ لَهُ
+> الْغَنَمُ فِيهَا الرَّاعِي، فَإذَا وَجَدَ رَجُلاً أَعْلَمَ بِغَنَمِهِ
+> مِنَ الَّذِي هُوَ فِيهَا يَمُجُّهُ وَيَجِيءُ بِذَلِكَ الرَّجُلِ
+> الَّذِي هُوَ أَعْلَمُ بِغَنَمِهِ مِنَ الَّذِي كَانَ فِيهَا.
 
 *…Choose for yourselves; I swear by Allah, an owner of a flock of sheep
 who has hired a shepherd must certainly dismiss his shepherd and appoint
@@ -523,14 +459,10 @@ with competence.
 
 Describing an Imam, Imam al-Ridha (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَالإمَامُ عَالِمٌ لاَ يَجْهَلُ وَرَاعٍ لاَ يَنْكِلُ... نَامِي
-الْعِلْمِ، كَامِلُ الْحِلْمِ، مُضْطَلِعٌ بِالإمَامَةِ، عَالِمٌ
-بِالسِّيَاسَةِ، مَفْرُوضُ الطَّاعَةِ، قَائِمٌ بِأَمْرِ اللهِ، نَاصِحٌ
-لِعِبَادِ اللهِ، حَافِظٌ لِدِينِ اللهِ.
-  </p>
-</blockquote>
+> وَالإمَامُ عَالِمٌ لاَ يَجْهَلُ وَرَاعٍ لاَ يَنْكِلُ... نَامِي
+> الْعِلْمِ، كَامِلُ الْحِلْمِ، مُضْطَلِعٌ بِالإمَامَةِ، عَالِمٌ
+> بِالسِّيَاسَةِ، مَفْرُوضُ الطَّاعَةِ، قَائِمٌ بِأَمْرِ اللهِ، نَاصِحٌ
+> لِعِبَادِ اللهِ، حَافِظٌ لِدِينِ اللهِ.
 
 *An Imam is so knowledgeable that he ignores nothing, so watchful that
 he never tires…He is of ever-growing knowledge and perfect
@@ -588,13 +520,9 @@ Muhammad, and many others.
 Abu’l-\`Abbas al-Fadhl ibn \`Abd al-Malik has reported that he heard
 Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-أَحَبُّ النَّاسِ إلَيَّ أَحْيَاءً وَأَمْوَاتاً أَرْبَعَةٌ: بُرَيْدُ
-بْنُ مُعَاوِيَةَ الْعُجَلِيُّ، وَزُرَارَةُ، وَمُحَمَّدُ بْنُ مُسْلِمٍ،
-وَالأَحْوَلُ. وَهُمْ أَحَبُّ النَّاسِ إلَيَّ أَحْيَاءً وَأَمْوَاتاً.
-  </p>
-</blockquote>
+> أَحَبُّ النَّاسِ إلَيَّ أَحْيَاءً وَأَمْوَاتاً أَرْبَعَةٌ: بُرَيْدُ
+> بْنُ مُعَاوِيَةَ الْعُجَلِيُّ، وَزُرَارَةُ، وَمُحَمَّدُ بْنُ مُسْلِمٍ،
+> وَالأَحْوَلُ. وَهُمْ أَحَبُّ النَّاسِ إلَيَّ أَحْيَاءً وَأَمْوَاتاً.
 
 *The most beloved persons to me, from among both the dead and the alive,
 are four: (1) Burayd ibn Mu\`awiyah al-\`Ujali, (2) Zurarah, (3)
@@ -604,12 +532,8 @@ beloved persons to me from among all the dead and the alive.*[^23]
 Ibrahim ibn \`Abd al-Hamid and others have reported Imam al-Sadiq (‘a)
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ زُرَارَةَ بْنَ أَعْيُنٍ. لَولاَ زُرَارَةُ وَنُظَرَاؤُهُ
-لاَنْدَرَسَتْ أَحَادِيثُ أَبِي.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ زُرَارَةَ بْنَ أَعْيُنٍ. لَولاَ زُرَارَةُ وَنُظَرَاؤُهُ
+> لاَنْدَرَسَتْ أَحَادِيثُ أَبِي.
 
 *May Allah have mercy upon Zurarah ibn A\`yun. Had it not been for
 Zurarah and his peers, the traditions of my father would have been wiped
@@ -617,17 +541,13 @@ out.*[^24]
 
 Sulayman ibn Khalid has said that he heard Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَجِدُ أَحَداً أَحْيَا ذِكْرَنَا وَأَحَادِيثَ أَبِي إلاَّ
-زُرَارَةَ، وَأبَا بَصِيرٍ لَيْثَ الْمُرَادِيَّ، وَمُحَمَّدَ بْنَ
-مُسْلِمٍ وَبُرَيْدَ بْنَ مُعَاوِيَةَ العُجَلِيَّ. وَلَوْلاَ هَؤُلاَءِ
-مَا كَانَ أَحَدٌ يَسْتَنْبِطُ هَذَا. هَؤُلاَءِ حُفَّاظُ الدِّينِ
-وَأُمَنَاءُ أَبِي عَلَى حَلاَلِ اللهِ وَحَرَامِهِ. وَهُمُ
-السَّابِقُونَ إلَيْنَا فِي الدُّنْيَا وَالسَّابِقُونَ إلَيْنَا فِي
-الآخِرَةِ.
-  </p>
-</blockquote>
+> مَا أَجِدُ أَحَداً أَحْيَا ذِكْرَنَا وَأَحَادِيثَ أَبِي إلاَّ
+> زُرَارَةَ، وَأبَا بَصِيرٍ لَيْثَ الْمُرَادِيَّ، وَمُحَمَّدَ بْنَ
+> مُسْلِمٍ وَبُرَيْدَ بْنَ مُعَاوِيَةَ العُجَلِيَّ. وَلَوْلاَ هَؤُلاَءِ
+> مَا كَانَ أَحَدٌ يَسْتَنْبِطُ هَذَا. هَؤُلاَءِ حُفَّاظُ الدِّينِ
+> وَأُمَنَاءُ أَبِي عَلَى حَلاَلِ اللهِ وَحَرَامِهِ. وَهُمُ
+> السَّابِقُونَ إلَيْنَا فِي الدُّنْيَا وَالسَّابِقُونَ إلَيْنَا فِي
+> الآخِرَةِ.
 
 *I cannot find anyone who revived our affairs and my father’s traditions
 save Zurarah, Abu-Basir Layth al-Muradi, Muhammad ibn Muslim, and Burayd
@@ -656,12 +576,8 @@ I do not have all the answers.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَمْنَعُكَ مِنْ مُحَمَّدِ بْنِ مُسْلِمٍ الثَّقَفِيِّ؟ فَإنَّهُ
-سَمِعَ مِنْ أَبِي وَكَانَ عِنْدَهُ وَجِيهاً.
-  </p>
-</blockquote>
+> مَا يَمْنَعُكَ مِنْ مُحَمَّدِ بْنِ مُسْلِمٍ الثَّقَفِيِّ؟ فَإنَّهُ
+> سَمِعَ مِنْ أَبِي وَكَانَ عِنْدَهُ وَجِيهاً.
 
 *What prevents you from asking Muhammad ibn Muslim al-Thaqafi? He heard
 from my father and he had considerable status with him.*[^27]
@@ -669,13 +585,9 @@ from my father and he had considerable status with him.*[^27]
 Yunus ibn Ya\`qub has reported that Imam al-Sadiq (‘a) said to him and
 his companions when they once visited him:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا لَكُمْ مِنْ مَفْزَعٍ؟ أَمَا لَكُمْ مِنْ مُسْتَرَاحٍ
-تَسْتَرِيحُونَ إلَيْهِ؟ مَا يَمْنَعُكُمْ مِنَ الْحَارِثِ بْنِ
-الْمُغِيرَةِ النَّضْرِيِّ؟
-  </p>
-</blockquote>
+> أَمَا لَكُمْ مِنْ مَفْزَعٍ؟ أَمَا لَكُمْ مِنْ مُسْتَرَاحٍ
+> تَسْتَرِيحُونَ إلَيْهِ؟ مَا يَمْنَعُكُمْ مِنَ الْحَارِثِ بْنِ
+> الْمُغِيرَةِ النَّضْرِيِّ؟
 
 *Do you not have any shelter? Do you not have any rest-house to rest in?
 What prevents you from joining al-Harith ibn al-Mughirah
@@ -684,18 +596,14 @@ al-Nadhri?*[^28]
 Jamil ibn Darraj has reported that Imam al-Sadiq (‘a), condemning
 someone, said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ قَدَّسَ اللهُ رُوحَهُ، وَلاَ قَدَّسَ مِثْلَهُ! إنَّهُ ذَكَرَ
-أَقْوَاماً كَانَ أَبِي ائْتَمَنَهُمْ عَلَى حَلاَلِ اللهِ وَحَرَامِهِ،
-وَكَانُوا عَيْبَةَ عِلْمِهِ. وَكَذَلِكَ الْيَوْمَ هُمْ عِنْدِي
-مُسْتَوْدَعَ سِرِّي وَأَصْحَابَ أَبِي حَقّاً. إذَا أَرَادَ اللهُ
-بِأَهْلِ الأَرْضِ سُوءاً صَرَفَ بِهِمْ عَنْهُمُ السُّوءَ. هُمْ نُجُومُ
-شِيعَتِي أَحْيَاءً وَأَمْوَاتاً. هُمُ الَّذِينَ أَحْيَوْا ذِكْرَ
-أَبِي. بِهِمْ يَكْشِفُ اللهُ كُلَّ بِدْعَةٍ، يَنْفُونَ عَنْ هَذَا
-الدِّينِ إنْتِحَالَ الْمُبْطِلِينَ وَتَأْوِيلَ الْغَالِينَ.
-  </p>
-</blockquote>
+> لاَ قَدَّسَ اللهُ رُوحَهُ، وَلاَ قَدَّسَ مِثْلَهُ! إنَّهُ ذَكَرَ
+> أَقْوَاماً كَانَ أَبِي ائْتَمَنَهُمْ عَلَى حَلاَلِ اللهِ وَحَرَامِهِ،
+> وَكَانُوا عَيْبَةَ عِلْمِهِ. وَكَذَلِكَ الْيَوْمَ هُمْ عِنْدِي
+> مُسْتَوْدَعَ سِرِّي وَأَصْحَابَ أَبِي حَقّاً. إذَا أَرَادَ اللهُ
+> بِأَهْلِ الأَرْضِ سُوءاً صَرَفَ بِهِمْ عَنْهُمُ السُّوءَ. هُمْ نُجُومُ
+> شِيعَتِي أَحْيَاءً وَأَمْوَاتاً. هُمُ الَّذِينَ أَحْيَوْا ذِكْرَ
+> أَبِي. بِهِمْ يَكْشِفُ اللهُ كُلَّ بِدْعَةٍ، يَنْفُونَ عَنْ هَذَا
+> الدِّينِ إنْتِحَالَ الْمُبْطِلِينَ وَتَأْوِيلَ الْغَالِينَ.
 
 *May Allah sanctify neither his soul nor the souls of his likes! He
 reviled some personalities whom my father used to entrust with the
@@ -714,13 +622,9 @@ The Imam (‘a) then wept. I (the reporter) asked, “Who are these?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَلَيْهِمْ صَلَوَاتُ اللهِ، وَعَلَيْهِمْ رَحْمَتُهُ أَحْيَاءً
-وَأَمْوَاتاً: بُرَيْدُ الْعُجَلِيُّ وَأَبُو بَصِيرٍ وَزُرَارَةُ
-وَمُحَمَّدُ بْنُ مُسْلِمٍ.
-  </p>
-</blockquote>
+> مَنْ عَلَيْهِمْ صَلَوَاتُ اللهِ، وَعَلَيْهِمْ رَحْمَتُهُ أَحْيَاءً
+> وَأَمْوَاتاً: بُرَيْدُ الْعُجَلِيُّ وَأَبُو بَصِيرٍ وَزُرَارَةُ
+> وَمُحَمَّدُ بْنُ مُسْلِمٍ.
 
 *Allah’s blessings and mercy be upon them in their lifetimes and after
 their death. They are Burayd al-\`Ujali, Abu-Basir, Zurarah, and
@@ -728,18 +632,14 @@ Muhammad ibn Muslim.*[^29]
 
 Dawud ibn Sarhan has reported that he heard Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي لأُحَدِّثُ الرَّجُلَ بِالْحَدِيثِ، وَأَنْهَاهُ عَنِ الْجِدَالِ
-وَالْمِرَاءِ فِي دِينِ اللهِ، وَأَنْهَاهُ عَنِ الْقِيَاسِ، فَيَخْرُجُ
-مِنْ عِنْدِي فَيَتَأَوَّلُ حَدِيثِي عَلَى غَيْرِ تَأْوِيلِهِ... إنَّ
-أَصْحَابَ أَبِي كَانُوا زَيْناً أَحْيَاءً وَأَمْوَاتاً. أَعْنِي
-زُرَارَةَ وَمُحَمَّدَ بْنَ مُسْلِمٍ وَمِنْهُمْ لَيْثُ الْمُرَادِيُّ
-وَبُرَيْدُ الْعُجَلِيُّ. هَؤُلاَءِ الْقَائِلُونَ بِالْقِسْطِ،
-هَؤُلاَءِ الْقَوَّامُونَ بِالْقِسْطِ، هَؤُلاَءِ السَّابِقُونَ
-السَّابِقُونَ أُولَئِكَ الْمُقَرَّبُونَ.
-  </p>
-</blockquote>
+> إنِّي لأُحَدِّثُ الرَّجُلَ بِالْحَدِيثِ، وَأَنْهَاهُ عَنِ الْجِدَالِ
+> وَالْمِرَاءِ فِي دِينِ اللهِ، وَأَنْهَاهُ عَنِ الْقِيَاسِ، فَيَخْرُجُ
+> مِنْ عِنْدِي فَيَتَأَوَّلُ حَدِيثِي عَلَى غَيْرِ تَأْوِيلِهِ... إنَّ
+> أَصْحَابَ أَبِي كَانُوا زَيْناً أَحْيَاءً وَأَمْوَاتاً. أَعْنِي
+> زُرَارَةَ وَمُحَمَّدَ بْنَ مُسْلِمٍ وَمِنْهُمْ لَيْثُ الْمُرَادِيُّ
+> وَبُرَيْدُ الْعُجَلِيُّ. هَؤُلاَءِ الْقَائِلُونَ بِالْقِسْطِ،
+> هَؤُلاَءِ الْقَوَّامُونَ بِالْقِسْطِ، هَؤُلاَءِ السَّابِقُونَ
+> السَّابِقُونَ أُولَئِكَ الْمُقَرَّبُونَ.
 
 *When I hold a discourse with some men and warn them against argument
 and disputation in matters concerning the religion of Almighty Allah and
@@ -783,13 +683,9 @@ it.”[^31]
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إعْرِفُوا مَنَازِلَ شِيعَتِنَا بِقَدْرِ مَا يُحْسِنُونَ مِنْ
-رِوَايَاتِهِمْ عَنَّا. فَإنَّا لاَ نَعُدُّ الفَقِيهَ مِنْهُمْ فَقِيهاً
-حَتَّى يَكُونَ مُحَدِّثاً.
-  </p>
-</blockquote>
+> إعْرِفُوا مَنَازِلَ شِيعَتِنَا بِقَدْرِ مَا يُحْسِنُونَ مِنْ
+> رِوَايَاتِهِمْ عَنَّا. فَإنَّا لاَ نَعُدُّ الفَقِيهَ مِنْهُمْ فَقِيهاً
+> حَتَّى يَكُونَ مُحَدِّثاً.
 
 *Recognize the ranks of our followers (i.e. Shi\`ah) according to the
 extent to which they master reporting our traditions. Verily, we cannot
@@ -801,11 +697,7 @@ receives from the angels directly?”
 
 He answered:
 
-<blockquote dir="rtl">
-  <p>
-(الْمُؤْمِنُ) يَكُونُ مُفَهَّماً، وَالْمُفَهَّمُ الْمُحَدَّثُ.
-  </p>
-</blockquote>
+> (الْمُؤْمِنُ) يَكُونُ مُفَهَّماً، وَالْمُفَهَّمُ الْمُحَدَّثُ.
 
 *A faithful believer may receive explanations from the angels. Hence,
 one who receives explanations is receiving them directly from the
@@ -828,13 +720,9 @@ religious questions)? Whose word should I accept as true?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-اَلعُمَرِيُّ ثِقَتِي، فَمَا أَدَّى عَنِّي فَعَنِّي يُؤَدِّي، وَمَا
-قَالَ عَنِّي فَعَنِّي يَقُولُ. فَاسْمَعْ لَهُ وَأَطِعْ، فَإنَّهُ
-الثِّقَةُ الْمَأْمُونُ.
-  </p>
-</blockquote>
+> اَلعُمَرِيُّ ثِقَتِي، فَمَا أَدَّى عَنِّي فَعَنِّي يُؤَدِّي، وَمَا
+> قَالَ عَنِّي فَعَنِّي يَقُولُ. فَاسْمَعْ لَهُ وَأَطِعْ، فَإنَّهُ
+> الثِّقَةُ الْمَأْمُونُ.
 
 *Al-\`Umari is my trustee. So, whatever he conveys to you on behalf of
 me is truly conveyed on behalf of me. Whatever he says to you on behalf
@@ -844,13 +732,9 @@ him. He is verily, an honest trustee.*
 When the reporter put the same question before Imam Abu-Muhammad (‘a),
 he answered:
 
-<blockquote dir="rtl">
-  <p>
-اَلعُمَرِيُّ وَابْنُهُ ثِقَتَانِ، فَمَا أَدَّيَا عَنِّي فَعَنِّي
-يُؤَدِّيَانِ، وَمَا قَالاَ لَكَ فَعَنِّي يَقُولاَنِ، فَاسْمَعْ لَهُمَا
-وَأَطِعْهُمَا، فَإنَّهُمَا الثِّقَتَانِ الْمَأْمُونَانِ.
-  </p>
-</blockquote>
+> اَلعُمَرِيُّ وَابْنُهُ ثِقَتَانِ، فَمَا أَدَّيَا عَنِّي فَعَنِّي
+> يُؤَدِّيَانِ، وَمَا قَالاَ لَكَ فَعَنِّي يَقُولاَنِ، فَاسْمَعْ لَهُمَا
+> وَأَطِعْهُمَا، فَإنَّهُمَا الثِّقَتَانِ الْمَأْمُونَانِ.
 
 *Al-\`Umari and his son are trustworthy. So, whatever they convey to you
 on behalf of me is truly conveyed on behalf of me. Whatever they say to
@@ -860,12 +744,8 @@ to and obey them. They are verily honest trustees.*
 The reporter once asked al-\`Umari a certain question and al-\`Umari
 answered:
 
-<blockquote dir="rtl">
-  <p>
-مُحَرَّمٌ عَلَيْكُمْ أَنْ تَسْأَلُوا عَنْ ذَلِكَ. وَلاَ أَقُولُ هَذَا
-مِنْ عِنْدِي، فَلَيْسَ لِي أَنْ أُحَلِّلَ وَلاَ أُحَرِّمَ.
-  </p>
-</blockquote>
+> مُحَرَّمٌ عَلَيْكُمْ أَنْ تَسْأَلُوا عَنْ ذَلِكَ. وَلاَ أَقُولُ هَذَا
+> مِنْ عِنْدِي، فَلَيْسَ لِي أَنْ أُحَلِّلَ وَلاَ أُحَرِّمَ.
 
 *It is forbidden for you all (i.e. the Shi\`ah) to ask this question. Do
 not cite such a thing from me. I have no right to forbid or deem things
@@ -876,12 +756,8 @@ al-Sadiq (‘a) about temporary marriage (i.e. *mut\`ah*).
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إلْقَ عَبْدَ الْمَلِكِ بْنَ جُرَيْحٍ فَسَلْهُ عَنْهَا، فَإنَّ عِنْدَهُ
-مِنْهَا عِلْماً.
-  </p>
-</blockquote>
+> إلْقَ عَبْدَ الْمَلِكِ بْنَ جُرَيْحٍ فَسَلْهُ عَنْهَا، فَإنَّ عِنْدَهُ
+> مِنْهَا عِلْماً.
 
 *You may find \`Abd al-Malik ibn Jurayh and address this question to
 him, because he has considerable knowledge of this matter.*
@@ -897,11 +773,7 @@ I then brought the paper dictated by \`Abd al-Malik to Imam al-Sadiq
 Al-Mufadhdhal ibn \`Umar has reported that Imam al-Sadiq (‘a) during a
 long discourse to al-Faydh ibn al-Mukhtar said:
 
-<blockquote dir="rtl">
-  <p>
-فَإذَا أَرَدْتَ حَدِيثَنَا فَعَلَيْكَ بِهَذَا الْجَالِسِ.
-  </p>
-</blockquote>
+> فَإذَا أَرَدْتَ حَدِيثَنَا فَعَلَيْكَ بِهَذَا الْجَالِسِ.
 
 *If you want to be on familiar terms with our traditions, you must join
 the sessions of this man.*
@@ -915,12 +787,8 @@ want. From whom should I acquire matters of the religion?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-…مِنْ زَكَرِيَّا بْنِ آدَمَ الْقُمِّيِّ، الْمَأْمُونِ عَلَى الدِّينِ
-وَالدُّنْيَا.
-  </p>
-</blockquote>
+> …مِنْ زَكَرِيَّا بْنِ آدَمَ الْقُمِّيِّ، الْمَأْمُونِ عَلَى الدِّينِ
+> وَالدُّنْيَا.
 
 *You should receive them from Zakariyya ibn Adam al-Qummi, the one
 entrusted with worldly and religious affairs.*
@@ -945,11 +813,7 @@ to, so from whom should I acquire the matters of religion?’
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ عَنْ يُونُسَ بْنِ عَبْدِ الرَّحْمَانِ.
-  </p>
-</blockquote>
+> خُذْ عَنْ يُونُسَ بْنِ عَبْدِ الرَّحْمَانِ.
 
 *You should take them from Yunus ibn \`Abd al-Rahman.*[^38]
 
@@ -980,13 +844,9 @@ right and keep silent because of a judgment made by a judge.
 In view of all this, the Holy Qur'an connects faith with surrender to
 the judgment that is issued by the Holy Prophet (S). Hence, it reads:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***But no! By your Lord! They do not truly believe until they make you a
 judge of that which has become a matter of disagreement among them, and
@@ -997,13 +857,9 @@ The Holy Prophet (S), who is divinely infallible and connected with
 divine revelation, took precautions for himself and for his authority
 among Muslims, saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا أَقْضِي بَيْنَكُمْ بِالْبَيِّنَاتِ وَالأَيْمَانِ، وَبَعْضُكُمْ
-أَلْحَنُ بِحُجَّتِهِ مِنْ بَعْضٍ، فَأَيمَّا رَجُلٍ قَطَعْتُ لَهُ مِنْ
-مَالِ أَخِيهِ شَيْئاً فَإنَّما قَطَعْتُ لَهُ بِهِ قِطْعَةً مِنْ نَارٍ.
-  </p>
-</blockquote>
+> إنَّمَا أَقْضِي بَيْنَكُمْ بِالْبَيِّنَاتِ وَالأَيْمَانِ، وَبَعْضُكُمْ
+> أَلْحَنُ بِحُجَّتِهِ مِنْ بَعْضٍ، فَأَيمَّا رَجُلٍ قَطَعْتُ لَهُ مِنْ
+> مَالِ أَخِيهِ شَيْئاً فَإنَّما قَطَعْتُ لَهُ بِهِ قِطْعَةً مِنْ نَارٍ.
 
 *I can only judge between you on the bases of evidence and oaths, and
 some of you may provide their evidence more convincingly than others.
@@ -1076,13 +932,9 @@ position.
 In this respect, Sulayman ibn Khalid has reported Imam al-Sadiq (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إتَّقُوا الْحُكُومَةَ؛ فَإنَّ الْحُكُومَةَ إنَّمَا هِيَ لِلإمَامِ
-العَالِمِ بِالْقَضَاءِ الْعَادِلِ فِي الْمُسْلِمِينَ، كَنِبِيٍّ أوْ
-وَصِيِّ نَبِيٍّ.
-  </p>
-</blockquote>
+> إتَّقُوا الْحُكُومَةَ؛ فَإنَّ الْحُكُومَةَ إنَّمَا هِيَ لِلإمَامِ
+> العَالِمِ بِالْقَضَاءِ الْعَادِلِ فِي الْمُسْلِمِينَ، كَنِبِيٍّ أوْ
+> وَصِيِّ نَبِيٍّ.
 
 *Avoid holding the position of judgeship, because this position must be
 exclusively held by a leader who is well-versed in judgment and who
@@ -1091,16 +943,12 @@ wasi).*[^40]
 
 Imam al-Sadiq (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-اَلْقُضَاةُ أَرْبَعَةٌ؛ ثَلاَثَةٌ فِي النَّارِ وَوَاحِدٌ فِي
-الْجَنَّةِ: رَجَلٌ قَضَى بِجَوْرٍ وَهُوَ يَعْلَمُ، فَهُوَ فِي
-النَّارِ. وَرَجُلٌ قَضَى بِجَوْرٍ وَهُوَ لاَ يَعْلَمُ، فَهُوَ فِي
-النَّارِ. وَرَجُلٌ قَضَى بِالْحَقِّ وَهُوَ لاَ يَعْلَمُ، فَهُوَ فِي
-النَّارِ. وَرَجُلٌ قَضَى بِالْحَقِّ وَهُوَ يَعْلَمُ، فَهُوَ فِي
-الْجَنَّةِ.
-  </p>
-</blockquote>
+> اَلْقُضَاةُ أَرْبَعَةٌ؛ ثَلاَثَةٌ فِي النَّارِ وَوَاحِدٌ فِي
+> الْجَنَّةِ: رَجَلٌ قَضَى بِجَوْرٍ وَهُوَ يَعْلَمُ، فَهُوَ فِي
+> النَّارِ. وَرَجُلٌ قَضَى بِجَوْرٍ وَهُوَ لاَ يَعْلَمُ، فَهُوَ فِي
+> النَّارِ. وَرَجُلٌ قَضَى بِالْحَقِّ وَهُوَ لاَ يَعْلَمُ، فَهُوَ فِي
+> النَّارِ. وَرَجُلٌ قَضَى بِالْحَقِّ وَهُوَ يَعْلَمُ، فَهُوَ فِي
+> الْجَنَّةِ.
 
 *There are four categories of judges—three will be in Hellfire and only
 one in Paradise: (1) a judge that intentionally rules unjustly will be
@@ -1117,12 +965,8 @@ such issues?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ، أَمَا إنَّكَ إنْ أَصَبْتَ لَمْ تُؤْجَرْ، وَإنْ أَخْطَأْتَ
-كَذَبْتَ عَلَى اللهِ.
-  </p>
-</blockquote>
+> لاَ، أَمَا إنَّكَ إنْ أَصَبْتَ لَمْ تُؤْجَرْ، وَإنْ أَخْطَأْتَ
+> كَذَبْتَ عَلَى اللهِ.
 
 *No! If you do so and hit on the correct ruling, you will not be
 rewarded and if you do and fail to make an accurate ruling, you will
@@ -1134,14 +978,10 @@ appoint such unqualified persons as judges. As a result, reference to
 such judges is regarded as “summoning one another to the judgment of
 Satan” about which the Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا
-أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ
-يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ
-وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا
+> أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ
+> يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ
+> وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا
 
 ***Have you not seen those who assert that they believe in what has been
 revealed to you and what was revealed before you? They desire to summon
@@ -1155,14 +995,10 @@ latter asked him to accept a third person of their faith as arbiter, the
 former refused and insisted on summoning his brother-in-faith to the
 official court of the unjust ruling authorities.
 
-<blockquote dir="rtl">
-  <p>
-…كَانَ بِمَنْزِلَةِ الَّذِينَ قَالَ اللهُ عَزَّ وَجَلَّ: " أَلَمْ تَرَ
-إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ
-وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى
-الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ"
-  </p>
-</blockquote>
+> …كَانَ بِمَنْزِلَةِ الَّذِينَ قَالَ اللهُ عَزَّ وَجَلَّ: " أَلَمْ تَرَ
+> إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ
+> وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى
+> الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ"
 
 ***This man is of the same rank of those about whom Almighty Allah has
 said, “Have you not seen those who assert that they believe in what has
@@ -1182,17 +1018,13 @@ judges. Is this acceptable?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَحَاكَمَ إلَيْهِمْ فِي حَقٍّ أَوْ بَاطِلٍ فَإنَّمَا تَحَاكَمَ
-إلَى طَاغُوتٍ، وَمَا يَحْكُمُ لَهُ فَإنَّمَا يَأْخُذُ سُحْتاً وَإنْ
-كَانَ حَقُّهُ ثَابِتاً، لأَنَّهُ أَخَذَهُ بِحُكْمِ الطَّاغُوتِ، وَقَدْ
-أَمَرَ اللهُ أَنْ يُكْفَرَ بِهِ. قَالَ اللهُ تَعَالَى: " أَلَمْ تَرَ
-إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ
-وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى
-الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ"
-  </p>
-</blockquote>
+> مَنْ تَحَاكَمَ إلَيْهِمْ فِي حَقٍّ أَوْ بَاطِلٍ فَإنَّمَا تَحَاكَمَ
+> إلَى طَاغُوتٍ، وَمَا يَحْكُمُ لَهُ فَإنَّمَا يَأْخُذُ سُحْتاً وَإنْ
+> كَانَ حَقُّهُ ثَابِتاً، لأَنَّهُ أَخَذَهُ بِحُكْمِ الطَّاغُوتِ، وَقَدْ
+> أَمَرَ اللهُ أَنْ يُكْفَرَ بِهِ. قَالَ اللهُ تَعَالَى: " أَلَمْ تَرَ
+> إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ
+> وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى
+> الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ"
 
 *Anyone who takes their litigation before such judges, be the judge
 right or wrong, has in reality taken his litigation to the Evil One
@@ -1242,17 +1074,13 @@ this acceptable?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَحَاكَمَ إلَيْهِمْ فِي حَقٍّ أَوْ بَـاطِلٍ فَإنَّمَـا تَحَـاكَمَ
-إلَى الطَّاغُوتٍ، وَمَا يَحْكُمُ لَهُ فَإنَّمَا يَأْخُذُ سُحْتاً وَإنْ
-كَانَ حَقّاً ثَابِتـاً، لأَنَّهُ أَخَـذَهُ بِحُكْـمِ الطَّاغُوتِ،
-وَقَدْ أَمَرَ اللهُ أَنْ يُكْفَرَ بِهِ. قَالَ اللهُ تَعَالَى: " أَلَمْ
-تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ
-إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا
-إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ"
-  </p>
-</blockquote>
+> مَنْ تَحَاكَمَ إلَيْهِمْ فِي حَقٍّ أَوْ بَـاطِلٍ فَإنَّمَـا تَحَـاكَمَ
+> إلَى الطَّاغُوتٍ، وَمَا يَحْكُمُ لَهُ فَإنَّمَا يَأْخُذُ سُحْتاً وَإنْ
+> كَانَ حَقّاً ثَابِتـاً، لأَنَّهُ أَخَـذَهُ بِحُكْـمِ الطَّاغُوتِ،
+> وَقَدْ أَمَرَ اللهُ أَنْ يُكْفَرَ بِهِ. قَالَ اللهُ تَعَالَى: " أَلَمْ
+> تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ
+> إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا
+> إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ"
 
 *Anyone who takes their litigation before such judges, be the judge
 right or wrong, has in reality taken his litigation to the Evil One
@@ -1270,16 +1098,12 @@ to deny him. (4:60)***
 
 The Imam (‘a) explained:
 
-<blockquote dir="rtl">
-  <p>
-يَنْظُرَانِ مَنْ كَانَ مِنْكُمْ مِمَّنْ قَدْ رَوَى حَدِيثَنَا وَنَظَرَ
-فِي حَلاَلِنَا وَحَرَامِنَا وَعَرَفَ أَحْكَامَنَا، فَلْيَرْضُوا بِهِ
-حَكَماً، فَإنِّي قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِماً. فَإذَا حَكَمَ
-بِحُكْمِنَا فَلَمْ يَقْبَلْ مِنُهُ، فَإنَّمَا إسْتَخَفَّ بِحُكْمِ
-اللهِ وَعَلَيْنَا رَدَّ، وَالرَّادُّ عَلَيْنَا الرَّادُّ عَلَى اللهِ،
-وَهُوَ عَلَى حَدِّ الشِّرْكِ بِاللهِ.
-  </p>
-</blockquote>
+> يَنْظُرَانِ مَنْ كَانَ مِنْكُمْ مِمَّنْ قَدْ رَوَى حَدِيثَنَا وَنَظَرَ
+> فِي حَلاَلِنَا وَحَرَامِنَا وَعَرَفَ أَحْكَامَنَا، فَلْيَرْضُوا بِهِ
+> حَكَماً، فَإنِّي قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِماً. فَإذَا حَكَمَ
+> بِحُكْمِنَا فَلَمْ يَقْبَلْ مِنُهُ، فَإنَّمَا إسْتَخَفَّ بِحُكْمِ
+> اللهِ وَعَلَيْنَا رَدَّ، وَالرَّادُّ عَلَيْنَا الرَّادُّ عَلَى اللهِ،
+> وَهُوَ عَلَى حَدِّ الشِّرْكِ بِاللهِ.
 
 *They should choose one from among you who has reported our sayings,
 learnt the questions that we have deemed legal and those we have deemed
@@ -1359,12 +1183,8 @@ the aforesaid verse (No. 44) of Surah al-Ma'idah (No. 6). As for
 *hadith*, the best tradition that proves this issue is a document of
 Imam al-Mahdi (may Allah hasten his advent) which he himself dictated:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوا فِيهَا إلَى رُوَاةِ
-حَدِيثِنَا، فَإنَّهُمْ حُجَّتِي عَلَيْكُمْ وَأَنَا حُجَّةُ اللهِ.
-  </p>
-</blockquote>
+> وَأَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوا فِيهَا إلَى رُوَاةِ
+> حَدِيثِنَا، فَإنَّهُمْ حُجَّتِي عَلَيْكُمْ وَأَنَا حُجَّةُ اللهِ.
 
 *As for the events that shall take place in the future, you must refer
 them to the reporters of our traditions, for they are my proofs for you
@@ -1548,5 +1368,4 @@ basis rather than other angles.
 al-hukm al-islami bayna al-nazariyyah wa’l-tatbiq (Islamic Government:
 Theory and Application); Constitution of the Islamic Republic of Iran,
 Act 5.
-
 

@@ -667,4 +667,3 @@ Sibte Ibn Jawzi, Maarijun Nubuwwah and Madarijun Nubuwwah etc.
 
 [^20]: Ref. the Taurat of Moosa (a.s.).
 
-

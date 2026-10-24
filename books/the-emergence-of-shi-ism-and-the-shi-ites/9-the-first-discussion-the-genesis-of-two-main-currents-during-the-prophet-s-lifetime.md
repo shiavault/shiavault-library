@@ -257,4 +257,3 @@ p. 563.
 
 [^13]: Cf. al-Ma'alim al jadidah lil-usul, p. 40.
 
-

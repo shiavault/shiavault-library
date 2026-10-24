@@ -1,12 +1,8 @@
 Discourse 3: Fulfilling the Needs of Your Enemy
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الصَّادِقُ: إِِنِّـي لأُسَارِعُ إِلـى حَاجَةٍ عَدُوِّي خَوْفاً
-أَنْ أَرُدَّهُ فَيَسْـتَغْـنـى عَـنِّـي.
-  </p>
-</blockquote>
+> قَالَ الصَّادِقُ: إِِنِّـي لأُسَارِعُ إِلـى حَاجَةٍ عَدُوِّي خَوْفاً
+> أَنْ أَرُدَّهُ فَيَسْـتَغْـنـى عَـنِّـي.
 
 Imam as-Sadiq [Imam Ja’far b. Muhammad] (as) has said, “I make haste in
 fulfilling the needs of my enemy since I fear that if I were to delay
@@ -56,21 +52,13 @@ would hold that the benefits of the entire society must take precedence
 over everything else. The faith of Islam also accepts the 'Essential
 Nature of the Society' and tells us that:
 
-<blockquote dir="rtl">
-  <p>
-يَدُ اللٌّهِ مَعَ الْجَمَاعَةِ.
-  </p>
-</blockquote>
+> يَدُ اللٌّهِ مَعَ الْجَمَاعَةِ.
 
 “The 'hand' of Allah is with the congregation.”  
  The religion of Islam also tells us that:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِاسَّوَادِ الأَعْظَمِ وَ الشَّاذِ مِنَ الْغَـنَمِ
-لِلْذِئْبِ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِاسَّوَادِ الأَعْظَمِ وَ الشَّاذِ مِنَ الْغَـنَمِ
+> لِلْذِئْبِ.
 
 “I advise you to hold firm to the majority as the stray sheep is (food)
 for the wolf.”
@@ -88,22 +76,14 @@ favour of the society and therefore, one of the things which Islam gives
 extra importance to is the help and assistance extended to other people.
 For this reason, it has been mentioned in the traditions that:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّاسُ كُلُّهُمْ عَيَالُ اللٌّهِ.
-  </p>
-</blockquote>
+> أَلنَّاسُ كُلُّهُمْ عَيَالُ اللٌّهِ.
 
 “All of humanity are the dependents of Allah.”
 
 Spending in the way of Allah (SwT) is the same as spending on the
 servants of Allah (SwT) and in this regards we are told:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَـنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ
-  </p>
-</blockquote>
+> لَنْ تَـنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ
 
 “You shall never attain righteous until you spend of that which you
 love.”
@@ -117,13 +97,9 @@ ten-fold while in others, a seventy-fold reward is given to the person.
 However in relation to spending in the way of Allah (SwT), the minimum
 reward which is given back is seven-hundred:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّــذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللٌّهِ
-كَمَثَلِ حَبَّةٍ أَنْـبَـتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْـبُلَةٍ
-مِئَةَ حَبَّةٍ وَاللٌّهُ يُضَاعِفُ لِمَنْ يَّشَآءُ…
-  </p>
-</blockquote>
+> مَثَلُ الَّــذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللٌّهِ
+> كَمَثَلِ حَبَّةٍ أَنْـبَـتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْـبُلَةٍ
+> مِئَةَ حَبَّةٍ وَاللٌّهُ يُضَاعِفُ لِمَنْ يَّشَآءُ…
 
 “The parable of those who spend their wealth in the way of Allah is as
 the parable of a seed (of corn) which grows seven ears; within each ear
@@ -137,11 +113,7 @@ many-fold or multiple return![^2]
 It is also important to note that the people whom we must help are not
 only the Muslims - rather, we have been told that:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ كَبَدٍ حَرَّاءٌ.
-  </p>
-</blockquote>
+> لِكُلِّ كَبَدٍ حَرَّاءٌ.
 
 “There is an emancipator for every person (regardless of his beliefs).”
 
@@ -173,5 +145,4 @@ If we want people to become lovers of Imam al-Zaman (as), the A\`immah
 [^1]: Ibid., vol. 75, pg. 207
 
 [^2]: Surat al-Baqarah (2), verse 161
-
 

@@ -354,4 +354,3 @@ meeting with government officials on the occasion of Mab’ath
 
 [^7]: Sura Ibrahim, Ayahs 24-25
 
-

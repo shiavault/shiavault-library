@@ -8,16 +8,12 @@ their implications.
 
 Imam al-Bukhari (d. 256 H) opens the discussion:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن أبي رجاء حدثنا يحيى عن أبي حيان التيمي عن الشعبي عن ابن
-عمر رضي الله عنهما قال :خطب عمر على منبر رسول الله صلى الله عليه و سلم
-فقال إنه قد نزل تحريم الخمر وهي من خمسة أشياء العنب والتمر والحنطة
-والشعير والعسل والخمر ما خامر العقل . وثلاث وددت أن رسول الله صلى الله
-عليه و سلم لم يفارقنا حتى يعهد إلينا عهدا الجد والكلالة وأبواب من
-أبواب الربا
-  </p>
-</blockquote>
+> حدثنا أحمد بن أبي رجاء حدثنا يحيى عن أبي حيان التيمي عن الشعبي عن ابن
+> عمر رضي الله عنهما قال :خطب عمر على منبر رسول الله صلى الله عليه و سلم
+> فقال إنه قد نزل تحريم الخمر وهي من خمسة أشياء العنب والتمر والحنطة
+> والشعير والعسل والخمر ما خامر العقل . وثلاث وددت أن رسول الله صلى الله
+> عليه و سلم لم يفارقنا حتى يعهد إلينا عهدا الجد والكلالة وأبواب من
+> أبواب الربا
 
 Ahmad b. Abi Rajah – Yahya – Abu Hayyan al-Tamimi – Shu’bi – Ibn ‘Umar,
 may Allah be pleased with them both:
@@ -32,16 +28,12 @@ various types of** ***riba*** **(usury)**.”[^1]
 
 Imam Muslim (d. 261 H) records too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا علي بن مسهر عن أبي حيان عن الشعبي عن
-ابن عمر قال: خطب عمر على منبر رسول الله صلى الله عليه و سلم فحمد الله
-وأثنى عليه ثم قال أما بعد ألا وإن الخمر نزل تحريمها يوم نزل وهي من
-خمسة أشياء من الحنطة والشعير والتمر والزبيب والعسل والخمر ما خامر
-العقل وثلاثة أشياء وددت أيها الناس أن رسول الله صلى الله عليه و سلم
-كان عهد إلينا فيها الجد والكلالة وأبواب من أبواب الربا
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا علي بن مسهر عن أبي حيان عن الشعبي عن
+> ابن عمر قال: خطب عمر على منبر رسول الله صلى الله عليه و سلم فحمد الله
+> وأثنى عليه ثم قال أما بعد ألا وإن الخمر نزل تحريمها يوم نزل وهي من
+> خمسة أشياء من الحنطة والشعير والتمر والزبيب والعسل والخمر ما خامر
+> العقل وثلاثة أشياء وددت أيها الناس أن رسول الله صلى الله عليه و سلم
+> كان عهد إلينا فيها الجد والكلالة وأبواب من أبواب الربا
 
 Abu Bakr b. Abi Shaybah – ‘Ali b. Mas-har – Abu Hayyan – al-Sha’bi – Ibn
 ‘Umar:
@@ -58,14 +50,10 @@ of the grandfather,** ***kalalah*** **and various types of** ***riba***
 
 Imam al-Hakim (d. 403 H) documents too:
 
-<blockquote dir="rtl">
-  <p>
-وأخبرنا علي بن محمد بن عقبة ثنا الهيثم بن خالد ثنا أبو نعيم ثنا سفيان
-عن عمرو بن مرة عن مرة عن عمر رضي الله عنه قال ثلاث لأن يكون النبي صلى
-الله عليه وسلم بينهم لنا أحب إلي من الدنيا وما فيها الخلافة والكلالة
-والربا
-  </p>
-</blockquote>
+> وأخبرنا علي بن محمد بن عقبة ثنا الهيثم بن خالد ثنا أبو نعيم ثنا سفيان
+> عن عمرو بن مرة عن مرة عن عمر رضي الله عنه قال ثلاث لأن يكون النبي صلى
+> الله عليه وسلم بينهم لنا أحب إلي من الدنيا وما فيها الخلافة والكلالة
+> والربا
 
 ‘Ali b. Muhammad b. ‘Uqbah – al-Haytham b. Khalid – Abu Na’im – Sufyan –
 ‘Amr b. Marrah – Marrah – ‘Umar, may Allah be pleased with him:
@@ -77,33 +65,21 @@ this world and whatsoever is in it: **the** ***khilafah***
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs[^4]
 
 Al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^5]
 
 Imam Ahmad b. Hanbal (d. 241 H) has an even clearer report:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى عن بن أبي عروبة ثنا قتادة عن سعيد بن
-المسيب قال قال عمر رضي الله عنه: ان آخر ما نزل من القرآن آية الربا وان
-رسول الله صلى الله عليه و سلم قبض ولم يفسرها فدعوا الربا والريبة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى عن بن أبي عروبة ثنا قتادة عن سعيد بن
+> المسيب قال قال عمر رضي الله عنه: ان آخر ما نزل من القرآن آية الربا وان
+> رسول الله صلى الله عليه و سلم قبض ولم يفسرها فدعوا الربا والريبة
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Yahya –
 Ibn Abi ‘Arubah – Qatadah – Sa’id b. al-Musayyab:
@@ -115,11 +91,7 @@ Therefore, avoid *riba* and doubt.[^6]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن رجاله ثقات رجال الشيخين
-  </p>
-</blockquote>
+> حسن رجاله ثقات رجال الشيخين
 
 **It is** ***hasan***. Its narrators are *thiqah* (trustworthy),
 narrators of the two Shaykhs.[^7]
@@ -131,19 +103,11 @@ blame on the Messenger of Allah, *sallallahu ‘alaihi wa alihi*, and
 accused him of never explaining them to his *Ummah*. His allegations
 however directly contradict these verses:
 
-<blockquote dir="rtl">
-  <p>
-وما على الرسول إلا البلاغ المبين
-  </p>
-</blockquote>
+> وما على الرسول إلا البلاغ المبين
 
 The duty of the Messenger is **only to convey in a clear way**.[^8]
 
-<blockquote dir="rtl">
-  <p>
-وأنزلنا إليك الذكر لتبين للناس ما نزل إليهم
-  </p>
-</blockquote>
+> وأنزلنا إليك الذكر لتبين للناس ما نزل إليهم
 
 And We have sent down unto you (Muhammad) *al-Dhikr* (i.e. the Qur’an)
 **that you may explain clearly to mankind what is sent down to
@@ -155,11 +119,7 @@ in favour of His Messenger, that he actually conveyed and explained
 everything clearly to the *Ummah*. This was why He declared the religion
 completed and perfect:
 
-<blockquote dir="rtl">
-  <p>
-اليوم أكملت لكم دينكم وأتممت عليكم نعمتي ورضيت لكم الإسلام دينا
-  </p>
-</blockquote>
+> اليوم أكملت لكم دينكم وأتممت عليكم نعمتي ورضيت لكم الإسلام دينا
 
 This Day, **I have perfected your religion for you**, completed My
 Favour upon you, and have chosen for you Islam as your religion.[^10]
@@ -185,18 +145,14 @@ Of the four subjects, ‘Umar had particular difficulty in grasping
 light upon it, as this situation reveals some more information about
 him. Imam Muslim records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن أبي بكر المقدمي ومحمد بن المثنى (واللفظ لابن المثنى)
-قالا حدثنا يحيى بن سعيد حدثنا هشام حدثنا قتادة عن سالم بن أبي الجعد عن
-معدان بن أبي طلحة أن عمر بن الخطاب خطب يوم جمعة فذكر نبي الله صلى الله
-عليه و سلم وذكر أبا بكر ثم قال إني لا أدع بعدي شيئا أهم من الكلالة ما
-راجعت رسول الله صلى الله عليه و سلم في شيء ما راجعته في الكلالة وما
-أغلظ لي في شيء ما أغلظ لي فيه حتى طعن بأصبعه في صدري وقال يا عمر ألا
-تكفيك آية الصيف التي في آخر سورة النساء ؟ وإني إن أعش أقض فيها بقضية
-يقضي بها من يقرأ القرآن ومن لا يقرأ القرآن
-  </p>
-</blockquote>
+> حدثنا محمد بن أبي بكر المقدمي ومحمد بن المثنى (واللفظ لابن المثنى)
+> قالا حدثنا يحيى بن سعيد حدثنا هشام حدثنا قتادة عن سالم بن أبي الجعد عن
+> معدان بن أبي طلحة أن عمر بن الخطاب خطب يوم جمعة فذكر نبي الله صلى الله
+> عليه و سلم وذكر أبا بكر ثم قال إني لا أدع بعدي شيئا أهم من الكلالة ما
+> راجعت رسول الله صلى الله عليه و سلم في شيء ما راجعته في الكلالة وما
+> أغلظ لي في شيء ما أغلظ لي فيه حتى طعن بأصبعه في صدري وقال يا عمر ألا
+> تكفيك آية الصيف التي في آخر سورة النساء ؟ وإني إن أعش أقض فيها بقضية
+> يقضي بها من يقرأ القرآن ومن لا يقرأ القرآن
 
 Muhammad b. Abi Bakr al-Muqaddami and Muhammad b. al-Muthanna – Yahya b.
 Sa’id – Hisham – Qatadah – Salim b. Abi al-Ja’d – Ma’dan b. Abi Talhah:
@@ -217,14 +173,10 @@ those who could not read the Qur’an.”[^11]
 
 Imam Ahmad again documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا إسماعيل عن سعيد بن أبي عروبة عن قتادة عن
-سالم بن أبي الجعد عن معدان بن أبي طلحة قال قال عمر رضي الله عنه: ما
-سألت رسول الله صلى الله عليه و سلم عن شيء أكثر مما سألته عن الكلالة
-حتى طعن بأصبعه في صدري وقال تكفيك آية الصيف التي في آخر سورة النساء
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا إسماعيل عن سعيد بن أبي عروبة عن قتادة عن
+> سالم بن أبي الجعد عن معدان بن أبي طلحة قال قال عمر رضي الله عنه: ما
+> سألت رسول الله صلى الله عليه و سلم عن شيء أكثر مما سألته عن الكلالة
+> حتى طعن بأصبعه في صدري وقال تكفيك آية الصيف التي في آخر سورة النساء
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Isma’il
 – Sa’id b. Abi ‘Arubah – Qatadah – Salim b. Abi al-Ja’d – Ma’dan b. Abi
@@ -238,11 +190,7 @@ is at the end of *Surat al-Nisa*, not sufficient for you?”[^12]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم رجاله ثقات
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم رجاله ثقات
 
 Its chain is *sahih* upon the standard of Muslim. Its narrators are
 *thiqah* (trustworthy).[^13]
@@ -315,5 +263,4 @@ Muasassat Qurtubah) [annotator: Shu’ayb al-Arnaut], vol. 1, p. 26, \#
 are about kalalah. Meanwhile, the first is generally believed, among the
 Ahl al-Sunnah, to be about full siblings, while the latter concerns
 maternal siblings.
-
 

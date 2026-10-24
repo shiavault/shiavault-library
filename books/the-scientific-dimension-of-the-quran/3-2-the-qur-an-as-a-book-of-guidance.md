@@ -58,4 +58,3 @@ the welfare, broadens their knowledge, and in the end advances their
 souls…. Therefore, the doors for these sciences are intellect and
 experimentation not tradition and religious sciences.14
 
-

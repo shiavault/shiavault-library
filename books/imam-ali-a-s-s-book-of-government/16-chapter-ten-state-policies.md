@@ -1108,4 +1108,3 @@ Al-Amali: 206/38.
 
 [^170]: Sharh Nahj al-Balagha: 336/953.
 
-

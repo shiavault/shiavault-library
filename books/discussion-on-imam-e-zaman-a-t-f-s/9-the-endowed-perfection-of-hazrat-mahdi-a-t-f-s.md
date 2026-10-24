@@ -348,4 +348,3 @@ other verses that support longevity. Therefore, we will resolve this
 issue (of longevity) in three ways: Philosophy, physical science (in
 general) and Quran.
 
-

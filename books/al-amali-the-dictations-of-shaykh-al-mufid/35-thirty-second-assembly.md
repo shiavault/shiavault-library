@@ -155,4 +155,3 @@ go together in a hypocrite: the (true) learning about Islam, and the
 distinct feature (of nobility) in the face."  
  May Allah bless our master Muhammad and his progeny.
 
-

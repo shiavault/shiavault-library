@@ -24,12 +24,8 @@ subject. There are many verses in the Glorious Qur'an which elaborate.
 One of these verses is found in Surah al-Hashr, where the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
-ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
+> ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ
 
 ***“And be not like those who forgot Allah, so He made them forget their
 own souls; these it is that are the transgressors.”*** ***(59:19)***
@@ -50,13 +46,9 @@ the task is to learn about oneself
 Another verse dealing with the topic is found in Surah al Ma'idah, where
 Allah says***:***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا
-يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ إِلَى اللَّهِ
-مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا
+> يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ إِلَى اللَّهِ
+> مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
 
 ***“O you who believe! Take care of yourselves; he who errs cannot hurt
 you when you are on the right path.”*** ***(5:105)***
@@ -140,12 +132,8 @@ about the immensely complex nature of human beings.
 
 Another verse pertaining to our topic is found in surah al-Dhariyat:
 
-<blockquote dir="rtl">
-  <p>
-وَفِي الْأَرْضِ آيَاتٌ لِلْمُوقِنِينَ  وَفِي أَنْفُسِكُمْ ۚ أَفَلَا
-تُبْصِرُونَ 
-  </p>
-</blockquote>
+> وَفِي الْأَرْضِ آيَاتٌ لِلْمُوقِنِينَ  وَفِي أَنْفُسِكُمْ ۚ أَفَلَا
+> تُبْصِرُونَ
 
 ***“And there are signs on the earth for those who are certain. And in
 your own souls (too); wi11 you not then see?”(51: 20, 21)***
@@ -167,11 +155,7 @@ believers.
 
 In the following verse, 21 of Surah al-Dhariyat, the Lord says:
 
-<blockquote dir="rtl">
-  <p>
-وَفِي أَنْفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
-  </p>
-</blockquote>
+> وَفِي أَنْفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
 
 ***“And in your own souls (too); will you not then see?”(51:21)***
 
@@ -253,5 +237,4 @@ best to train, and purify' it”
 
 Here is yet another Tradition on the subject from Imam ‘Ali (a.s.): “The
 ultimate knowledge of a man is to know himself”
-
 

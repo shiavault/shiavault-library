@@ -607,4 +607,3 @@ al-Ma'rifa, n.d.) p. 124; al-Khuwarazmi, al-Manaqib, p. 110; Majma'u
 
 [^17]: Abdulaziz Sachedina, Islamic Messianism, p. 15.
 
-

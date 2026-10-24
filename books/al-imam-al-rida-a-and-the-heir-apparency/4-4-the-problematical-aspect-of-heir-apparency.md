@@ -100,4 +100,3 @@ circumstances and the circumstances of the Ummah of his time, more
 closely connected to the firm aim of the Infallible Imams, and more
 destructive of his enemy, Yazid and the Umayyad regime.
 
-

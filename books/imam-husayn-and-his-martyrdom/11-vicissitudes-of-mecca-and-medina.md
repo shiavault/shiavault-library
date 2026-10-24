@@ -25,4 +25,3 @@ hand, the spirit of man advances all along the line. But sometimes there
 is a material victory, with a spiritual fall, and sometimes there is a
 spiritual victory with a material fall, and then we have tragedy.
 
-

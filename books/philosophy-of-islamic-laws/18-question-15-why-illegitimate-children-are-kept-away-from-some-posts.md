@@ -138,4 +138,3 @@ better life because they have practiced more self control.
 
 [^1]: Surah Anam 6:164
 
-

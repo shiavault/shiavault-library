@@ -268,7 +268,6 @@ her. Yala, the ex-governor of Yemen, furnished her with ample means to
 carry on the war by presenting her the State treasure, which he had
 carried off from Yemen.
 
-
 Talha and Zubeir join Ayesba in her rebellion
 About four months after the murder of Osman, Talha and Zubeir, the
 brother-in-law of Ayesha reached Mecca and found things well in
@@ -397,7 +396,6 @@ exclusive right of the men of Medina and must rest with them as before
 and, to avoid further misgivings, she directed that Abdallah, the son of
 Zubeir, should lead the daily prayers.
 
-
 Ayesha in the valley of Hawab
 On their way to Busra, the rebel army received intelligence that Ali,
 the Caliph, had come out of Medina in their pursuit. In order to reach
@@ -480,7 +478,6 @@ last Osama stood up and said that they were compelled. But this
 assertion of Osama would have cost him his life had not a friend of his,
 viz., Sohaib, a man of influence and authority, taken him under his
 protection and led him home.
-
 
 Seizure of Busra by Ayesha.
 
@@ -573,7 +570,6 @@ from Kufa, where he had sent Mohammed b. Abubakr and Abdallah b. Ja'far
 to Abu-Musa-al-Ashari, the Governor, requesting him to urge the people
 to come over to their Caliph in order to subdue the rebels and to try
 for the re-union of a divided people.
-
 
 Abu Musa-al-Ashari's conduct towards the Caliph
 
@@ -749,7 +745,6 @@ reached a stage at which warnings were useless, as for Talha and Zubeir
 they gave no written answer but sent word to inform Ali that they were
 not prepared to obey his dictates and that he was at liberty to do
 whatever he wished.
-
 
 Ali's arrival at Busra
 Ayesha's army numbered thirty thousand, but it consisted mostly of raw
@@ -949,14 +944,12 @@ conqueror magnanimously announced general amnesty to all the rebels and
 their confederates along with Adballah b. Zubeir. In spite of all this,
 Marwan and the Umayyads fled to Moawiya in Syria and to Mecca.
 
-
 Carnage in the battle
 The losses in the battle were very great. Some historians say that
 16,796 men of Ayesha's forces and 1,070 of Ali's army were killed in the
 battle. The field was covered all over with dead bodies . A trench was
 dug and the dead bodies of friends and foes together were buried by the
 order of the Caliph.
-
 
 Retirement of Ayesha
 When all was quiet, Ali sent Abdallah b. Abbas to ask Ayesha to go to
@@ -1020,7 +1013,6 @@ divided the contents of the Treasury amongst the troops which had fought
 on his side, promising them a still larger reward should the Lord
 deliver Syria into his hands." Muirs Annals, p. 366.
 
-
 Sir William on the battle of the Camel.
 "The carnage in the ill-starred Battle of the Camel (for so it came to
 be called) was very great. The field was covered with over 10,000 bodies
@@ -1038,7 +1030,6 @@ such as had entered the field, on whatever side, with an honest
 heart."
 
 Sir William Muir- The Caliphate, its Rise, Decline and Fall page 250.
-
 
 Transfer of the seat of government.
 Ali's stay in Busra was not long. Having appointed Abdallah b. Abas as

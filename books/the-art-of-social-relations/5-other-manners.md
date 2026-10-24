@@ -31,7 +31,6 @@ followers saying: "Admonish so-and-so, tell him if Allah means good for
 someone He admonished him first." Isn't admonition better than
 backbiting a thousand times?
 
-
 **Thirdly: What are the Factors that Destroy Relations?**
 
 No doubt the art of social relations requires the understanding of two
@@ -169,7 +168,6 @@ argument in order to refrain from it. The word 'you are not correct' is
 the shortest way of attracting enmity…accept your mistake when you make
 it…do not criticize like the criticism of a desolate one, who breaks
 hearts and degrades spirits. This is the source of misery."
-
 
 **Fourthly: What are the Practical Factors of a Sound and Attractive
 Personality?**
@@ -320,5 +318,4 @@ brother's need is more sweeter to me than the circumambulation (tawaf)
 of Ka'aba for seven days.'"
 
 Praise be to Allah, the Lord of the Worlds
-
 

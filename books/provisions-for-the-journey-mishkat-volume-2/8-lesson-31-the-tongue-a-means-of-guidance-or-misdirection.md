@@ -216,12 +216,8 @@ that the unbelievers used to heap upon them, they always responded with
 the best and most well-intentioned counsels and advice and always took
 their leave with peace.
 
-<blockquote dir="rtl">
-  <p>
-وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الأَرْضِ هَوْنًا
-وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلاَمًا
-  </p>
-</blockquote>
+> وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الأَرْضِ هَوْنًا
+> وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلاَمًا
 
 ***“The servants of the All-beneficent are those who walk humbly on the
 earth, and when the ignorant address them, say, ‘Peace!’”***[^8]
@@ -237,12 +233,8 @@ taught them the best manner of speech and behavior and of these
 teachings is the following, which Allah, the Exalted, ordered upon Moses
 and Aaron:
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبَا إِلَى فِرْعَوْنَ إِنَّهُ طَغَى \* فَقُولاَ لَهُ قَوْلاً
-لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَى
-  </p>
-</blockquote>
+> اذْهَبَا إِلَى فِرْعَوْنَ إِنَّهُ طَغَى \* فَقُولاَ لَهُ قَوْلاً
+> لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَى
 
 ***“Let the two of you go to Pharaoh. Indeed he has rebelled. Speak to
 him in a soft manner; maybe he will take admonition or fear.”***[^9]
@@ -311,13 +303,9 @@ deeds—melodies and music can also be instances of *lahw al-hadith*.
 
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا
-أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلاَمٌ عَلَيْكُمْ لاَ نَبْتَغِي
-الْجَاهِلِينَ
-  </p>
-</blockquote>
+> وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا
+> أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلاَمٌ عَلَيْكُمْ لاَ نَبْتَغِي
+> الْجَاهِلِينَ
 
 ***“And when they hear vain talk, they avoid it and say, ‘Our deeds
 belong to us, and your deeds belong to you. Peace be upon you, we do not
@@ -688,13 +676,9 @@ religion, used to make use of false rumors and gossip with the intention
 of creating fear and anxiety in their hearts. In this regard Allah, the
 Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءَهُمْ أَمْرٌ مِن الأَمْنِ أَو الْخَوْفِ أَذَاعُوا بِهِ
-وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الأَمْرِ مِنْهُمْ
-لَعَلِمَهُ الَّذِينَ يَسْتَنبِطُونَهُ مِنْهُمْ...
-  </p>
-</blockquote>
+> وَإِذَا جَاءَهُمْ أَمْرٌ مِن الأَمْنِ أَو الْخَوْفِ أَذَاعُوا بِهِ
+> وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الأَمْرِ مِنْهُمْ
+> لَعَلِمَهُ الَّذِينَ يَسْتَنبِطُونَهُ مِنْهُمْ...
 
 ***“When a report of safety or alarm comes to them, they immediately
 broadcast it, but had they referred it to the Apostle or to those vested
@@ -846,5 +830,4 @@ of the teeth in order to imprison the tongue behind them.
 
 [^19]: Tafsir al-Mizan, vol. 5, p. 18, third ed., Dar al-Kutub
 al-Islamiyyah Publications.
-
 

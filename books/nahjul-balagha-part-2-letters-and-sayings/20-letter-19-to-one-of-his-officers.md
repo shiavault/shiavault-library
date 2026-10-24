@@ -7,17 +7,9 @@ the Muslims to behave tolerantly towards other religions, how minority
 was to be treated and what should those who hold a different creed,
 expect of a Muslim ruler. *
 
-<blockquote dir="rtl">
-  <p>
-ومن كتاب له (عليه السلام )
-  </p>
-</blockquote>
+> ومن كتاب له (عليه السلام )
 
-<blockquote dir="rtl">
-  <p>
-إلى بعض عماله
-  </p>
-</blockquote>
+> إلى بعض عماله
 
 Now, the cultivators [^1] (dahaqin, plural of dihqan) of your city have
 complained of your strictness, hard heartedness, humiliating treatment
@@ -27,17 +19,13 @@ severely because of the pledge with them. Behave with them in between
 strictness and softness and adopt for them a mingling or remoteness and
 aloofness with nearness and closeness if Allah so wills.
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا بَعْدُ، فَإِنَّ دَهَاقِينَ أهْلِ بَلَدِكَ شَكَوْا مِنْكَ
-غِلْظَةً وَقَسْوَةً، وَاحْتِقَاراً وَجَفْوَةً، وَنَظَرْتُ فَلَمْ
-أَرَهُمْ أَهْلاً لاَنْ يُدْنَوْا لِشِرْكِهِمْ، وَلاَ أَنْ يُقْصَواْ
-وَيُجْفَوْا لِعَهْدِهِمْ، فَالْبَسْ لَهُمْ جِلْبَاباً مِنَ اللِّينِ
-تَشُوبُهُ بِطَرَف مِنَ الشِّدَّةِ، وَدَاوِلْ لَهُمْ بَيْنَ الْقَسْوَةِ
-وَالرَّأْفَةِ، وَامْزُجْ لَهُمْ بَيْنَ التَّقْرِيبِ وَالاْدْنَاءِ،
-وَالاْبْعَادِ وَالاْقْصَاءِ، إِنْ شَاءَاللهُ.
-  </p>
-</blockquote>
+> أَمَّا بَعْدُ، فَإِنَّ دَهَاقِينَ أهْلِ بَلَدِكَ شَكَوْا مِنْكَ
+> غِلْظَةً وَقَسْوَةً، وَاحْتِقَاراً وَجَفْوَةً، وَنَظَرْتُ فَلَمْ
+> أَرَهُمْ أَهْلاً لاَنْ يُدْنَوْا لِشِرْكِهِمْ، وَلاَ أَنْ يُقْصَواْ
+> وَيُجْفَوْا لِعَهْدِهِمْ، فَالْبَسْ لَهُمْ جِلْبَاباً مِنَ اللِّينِ
+> تَشُوبُهُ بِطَرَف مِنَ الشِّدَّةِ، وَدَاوِلْ لَهُمْ بَيْنَ الْقَسْوَةِ
+> وَالرَّأْفَةِ، وَامْزُجْ لَهُمْ بَيْنَ التَّقْرِيبِ وَالاْدْنَاءِ،
+> وَالاْبْعَادِ وَالاْقْصَاءِ، إِنْ شَاءَاللهُ.
 
 [^1]: These people were Magians (majus). That is why the treatment of
 Amir al-mu'minin's officer with them was not the same as with Muslims.
@@ -50,5 +38,4 @@ machinations against the government and disturb the country's
 administration by creating one mischief or the other, while a wholly
 repressive policy cannot be justified because they are counted among the
 subjects and their rights as such cannot be ignored.
-
 

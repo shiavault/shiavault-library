@@ -26,4 +26,3 @@ confrontations in the Caliph’s castles, the Muslims’ Mosques, their
 markets, homes and gathering places, as the captives’ convoy was an
 inseparable part of the blessed revolution of Imam Hussain (Q)
 
-

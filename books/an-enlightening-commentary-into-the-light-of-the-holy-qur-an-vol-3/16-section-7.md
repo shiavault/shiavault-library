@@ -8,12 +8,8 @@ Islam -The first house of blessings and guidance to the worlds-
 Surah 'Ali-Imran, Verse 92
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَن تَنَالُواْ الْبِرَّ حَتَّى تُنفِقُواْ مِمَّا تُحِبُّونَ وَمَا
-تُنفِقُواْ مِن شَيْءٍ فَإِنَّ اللّهَ بِهِ عَلِيمٌ
-  </p>
-</blockquote>
+> لَن تَنَالُواْ الْبِرَّ حَتَّى تُنفِقُواْ مِمَّا تُحِبُّونَ وَمَا
+> تُنفِقُواْ مِن شَيْءٍ فَإِنَّ اللّهَ بِهِ عَلِيمٌ
 
 **92.** ***"You will never attain righteousness unless you spend out of
 what you love; and whatever thing you spend, surely Allah is well aware
@@ -115,14 +111,10 @@ the garden and the equipments, too.[^4]
 Surah 'Ali-Imran, Verse 93
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ الطَّعَامِ كَانَ حِـلاًّ لِّبَنِي إِسْرَائِيلَ إِلاَّ مَا
-حَرَّمَ إِسْرَائِيلُ عَلَى نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ
-التَّوْرَاةُ قُلْ فَأْتُواْ بِالتَّوْرَاةِ فَاتْلُوهَا إِن كُنتُمْ
-صَادِقِينَ
-  </p>
-</blockquote>
+> كُلُّ الطَّعَامِ كَانَ حِـلاًّ لِّبَنِي إِسْرَائِيلَ إِلاَّ مَا
+> حَرَّمَ إِسْرَائِيلُ عَلَى نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ
+> التَّوْرَاةُ قُلْ فَأْتُواْ بِالتَّوْرَاةِ فَاتْلُوهَا إِن كُنتُمْ
+> صَادِقِينَ
 
 **93.** ***"Every food was lawful to the Children of Israel except what
 Israel (Jacob) had forbidden to himself before the Torah was sent down.
@@ -159,12 +151,8 @@ therefore /ta'am-i-halal/ is stated for 'the lawful edible things'.
 Surah 'Ali-Imran, Verse 94
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ افْتَرَىَ عَلَى اللّهِ الْكَذِبَ مِن بَعْدِ ذَلِكَ
-فَأُوْلَـئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> فَمَنِ افْتَرَىَ عَلَى اللّهِ الْكَذِبَ مِن بَعْدِ ذَلِكَ
+> فَأُوْلَـئِكَ هُمُ الظَّالِمُونَ
 
 **94.** ***"So, whoever invents a lie against Allah after that, they are
 unjust."***
@@ -181,12 +169,8 @@ unjust."***
 Surah 'Ali-Imran, Verse 95
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ صَدَقَ اللّهُ فَاتَّبِعُواْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا
-كَانَ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ صَدَقَ اللّهُ فَاتَّبِعُواْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا
+> كَانَ مِنَ الْمُشْرِكِينَ
 
 **95.** ***"Say: Allah has spoken the Truth, therefore follow the creed
 of Abraham, the upright (in faith) and he was not (one) of the
@@ -213,12 +197,8 @@ and an idol-breaker is!
 Surah 'Ali-Imran, Verse 96
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا
-وَهُدًى لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا
+> وَهُدًى لِّلْعَالَمِينَ
 
 **96.** ***"Verily the first House (of worship) set up for mankind the
 one at Bekka (Mecca), blessed and guidance for the worlds."***
@@ -290,13 +270,9 @@ Bakka (Mecca), blessed and a guidance for the worlds."***
 Surah 'Ali-Imran, Verse 97
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهِ آيَاتٌ بَيِّـنَاتٌ مَّقَامُ إِبْرَاهِيمَ وَمَن دَخَلَهُ كَانَ
-آمِنًا وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
-إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ الله غَنِيٌّ عَنِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فِيهِ آيَاتٌ بَيِّـنَاتٌ مَّقَامُ إِبْرَاهِيمَ وَمَن دَخَلَهُ كَانَ
+> آمِنًا وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
+> إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ الله غَنِيٌّ عَنِ الْعَالَمِينَ
 
 **97.** ***"Therein are clear signs, the standing place of Abraham, and
 whoever enters it is secure; and pilgrimage to the House is a duty upon
@@ -430,12 +406,8 @@ independent of the worlds."***
 Surah 'Ali-Imran, Verse 98
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللّهِ وَاللّهُ
-شَهِيدٌ عَلَى مَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللّهِ وَاللّهُ
+> شَهِيدٌ عَلَى مَا تَعْمَلُونَ
 
 **98.** ***"Say: 'O' People of the Book Why do you disbelieve in the
 Signs of Allah, while Allah is Witness to what you do?"***
@@ -451,13 +423,9 @@ Allah, while Allah is Witness to what you do?"***
 Surah 'Ali-Imran, Verse 99
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَصُدُّونَ عَن سَبِيلِ اللّهِ مَنْ
-آمَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَاء وَمَا اللّهُ بِغَافِلٍ
-عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَصُدُّونَ عَن سَبِيلِ اللّهِ مَنْ
+> آمَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَاء وَمَا اللّهُ بِغَافِلٍ
+> عَمَّا تَعْمَلُونَ
 
 **99.** ***"Say: ' O' People of the Book! Why do you obstacle those who
 believe from the way of Allah seeking to make it crooked, while you are
@@ -495,13 +463,9 @@ for a moment, we may leave wrong doing.
 Surah 'Ali-Imran, Verse 100
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوَاْ إِن تُطِيعُواْ فَرِيقًا مِّنَ
-الَّذِينَ أُوتُواْ الْكِتَابَ يَرُدُّوكُم بَعْدَ إِيمَانِكُمْ
-كَافِرِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوَاْ إِن تُطِيعُواْ فَرِيقًا مِّنَ
+> الَّذِينَ أُوتُواْ الْكِتَابَ يَرُدُّوكُم بَعْدَ إِيمَانِكُمْ
+> كَافِرِينَ
 
 **100.** ***"O' you who have Faith! If you hearken to a party from among
 of those who have been given the Book, they will turn you back, after
@@ -540,13 +504,9 @@ into disbelievers."***
 Surah 'Ali-Imran, Verse 101
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَى عَلَيْكُمْ آيَاتُ اللّهِ
-وَفِيكُمْ رَسُولُهُ وَمَن يَعْتَصِم بِاللّهِ فَقَدْ هُدِيَ إِلَى
-صِرَاطٍ مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَى عَلَيْكُمْ آيَاتُ اللّهِ
+> وَفِيكُمْ رَسُولُهُ وَمَن يَعْتَصِم بِاللّهِ فَقَدْ هُدِيَ إِلَى
+> صِرَاطٍ مُّسْتَقِيمٍ
 
 **101.** ***"But how can you disbelieve while the verses of Allah are
 being recited unto you and His Messenger is amongst you? And whoever
@@ -592,12 +552,8 @@ in the way of *Allah.*
 Surah 'Ali-Imran, Verse 102
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ حَقَّ تُقَاتِهِ وَلاَ
-تَمُوتُنَّ إِلاَّ وَأَنتُم مُّسْلِمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ حَقَّ تُقَاتِهِ وَلاَ
+> تَمُوتُنَّ إِلاَّ وَأَنتُم مُّسْلِمُونَ
 
 **102.** ***"O' You who have Faith! be in awe of Allah as it is due to
 Him: and do not die unless you are Muslims."***
@@ -671,5 +627,4 @@ obedience to the divine leadership is also the key to belief in Allah.
 [^11]: Sahifah Sajjadiyyah, Makirum-ul-Akhlaq, by Imam Sajjad (as)
 
 [^12]: Bihar-al-Anwar, vol. 70, p. 292
-
 

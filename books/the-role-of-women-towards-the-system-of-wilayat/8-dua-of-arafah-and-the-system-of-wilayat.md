@@ -115,4 +115,3 @@ Hence summarizing this point, the importance of living a life in an
 Islamic government has been very clearly and explicitly emphasized in
 the teachings of Quran and Infallibles.
 
-

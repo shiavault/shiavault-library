@@ -229,4 +229,3 @@ against them?
 4. Describe the divine approaches with respect to the prophets’ mission
 and people’s reaction against them.
 
-

@@ -154,4 +154,3 @@ Allah's Book, Quran and the *Ahl al-Bayt*. You will not go astray after
 me as long as you remain in touch with them intimately and seek refuge
 under these two".
 
-

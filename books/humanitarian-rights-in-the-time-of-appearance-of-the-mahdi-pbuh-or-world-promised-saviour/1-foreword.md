@@ -23,7 +23,6 @@ medical assistance and not even have a place to die.
 I.-The four most relevant sacred emigrations in the past. God´s
 promises to their unshakeable faith.
 
-
 **Abraham**
 
 "His sons Isaac and Ishmael buried him in the cave of Machpelah, in the
@@ -117,5 +116,4 @@ Through his faith and by fulfilling the will of God, he initiated and
 led this process of social, political and economic change played out by
 a group of emigrants leaving Egypt in order to "be free men", guided by
 the power of God.
-
 

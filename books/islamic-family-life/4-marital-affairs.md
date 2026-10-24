@@ -1203,4 +1203,3 @@ imagine it.
 
 [^4]: Time, November 13, 1972.
 
-

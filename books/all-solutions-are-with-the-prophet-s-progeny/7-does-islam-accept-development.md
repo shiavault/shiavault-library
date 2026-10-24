@@ -473,4 +473,3 @@ roaring, reviling, and making trouble. By this way, they try to replace
 a dislikeable thing with an unlawful act and a less corrupted thing with
 a more corrupt one.
 
-

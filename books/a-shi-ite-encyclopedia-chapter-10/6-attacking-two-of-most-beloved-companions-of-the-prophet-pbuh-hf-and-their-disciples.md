@@ -217,4 +217,3 @@ They were among the important companions who were honored by the
 Prophet. In fact, Sayf was led by his untrue story to reject the
 testimony of the Prophet. By this, Sayf had disproved his whole tale.
 
-

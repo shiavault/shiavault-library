@@ -244,4 +244,3 @@ supernatural causes, such as prayer and giving charity.
 
 [^16]: Qur’an 11:61
 
-

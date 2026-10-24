@@ -4059,4 +4059,3 @@ rule, someone should be hired to perform all his qadha if he has willed,
 and his heirs give permission. And if they do not permit, his one-third
 (thuluth) should be spent for the qadha prayers.
 
-

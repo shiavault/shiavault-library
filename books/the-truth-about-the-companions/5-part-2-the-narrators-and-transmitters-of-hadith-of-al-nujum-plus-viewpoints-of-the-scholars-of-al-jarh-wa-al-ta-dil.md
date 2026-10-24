@@ -192,4 +192,3 @@ Tahir's Qanun al-Mawdhu'at etc.
 
 [^4]: Lisan al-Mizan, 2/28 – 30.
 
-

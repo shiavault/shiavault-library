@@ -107,4 +107,3 @@ As is evident from the aforementioned information, all of the
 possibilities have been exhausted, so the chance of finding another
 possibility of dismissing the Qur'an is non-existent.
 
-

@@ -320,4 +320,3 @@ Huzn" which has been totally wiped out by the "Wahhabis."
 As for the grave in the graveyard of Baqee, the "Wahhabis" destroyed the
 mausoleums in 1926.
 
-

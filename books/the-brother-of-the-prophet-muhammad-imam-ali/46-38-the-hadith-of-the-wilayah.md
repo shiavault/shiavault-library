@@ -1013,4 +1013,3 @@ Qur'an chapter 5)
 
 [^23]: Al-Hakim Al-Mustadrak part 3 p. 131.
 
-

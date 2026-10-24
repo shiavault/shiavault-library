@@ -80,4 +80,3 @@ This Caliph was from the same clan as Yazid*;* nonetheless, he flogged
 Those who want to verify this may turn to page 69 of Chapter Three of
 *Shadharaatudh Dhahab*.
 
-

@@ -10,12 +10,8 @@ Section 15: Uhud a loss to the Enemy
 Surah 'Ali-Imran, Verse 172
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ اسْتَجَابُواْ لِلّهِ وَالرَّسُولِ مِن بَعْدِ مَا أَصَابَهُمُ
-الْقَرْحُ لِلَّذِينَ أَحْسَنُواْ مِنْهُمْ وَاتَّقَواْ أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> الَّذِينَ اسْتَجَابُواْ لِلّهِ وَالرَّسُولِ مِن بَعْدِ مَا أَصَابَهُمُ
+> الْقَرْحُ لِلَّذِينَ أَحْسَنُواْ مِنْهُمْ وَاتَّقَواْ أَجْرٌ عَظِيمٌ
 
 **172.** ***"Those who did respond to the call of Allah and the
 Messenger (even) after some wound had afflicted them; for those among
@@ -77,13 +73,9 @@ and acted piously there will be a great reward. "***
 Surah 'Ali-Imran, Verse 173
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُواْ لَكُمْ
-فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَاناً وَقَالُواْ حَسْبُنَا اللّهُ
-وَنِعْمَ الْوَكِيلُ
-  </p>
-</blockquote>
+> الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُواْ لَكُمْ
+> فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَاناً وَقَالُواْ حَسْبُنَا اللّهُ
+> وَنِعْمَ الْوَكِيلُ
 
 **173.** ***"Those to whom the people said: 'Verily the men have
 gathered against you, therefore fear them '. Yet it increased them in
@@ -122,12 +114,8 @@ his reliance and his connection with *Allah.*
 Surah 'Ali-Imran, Verse 174
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَانقَلَبُواْ بِنِعْمَةٍ مِّنَ اللّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ
-سُوءٌ وَاتَّبَعُواْ رِضْوَانَ اللّهِ وَاللّهُ ذُو فَضْلٍ عَظِيمٍ
-  </p>
-</blockquote>
+> فَانقَلَبُواْ بِنِعْمَةٍ مِّنَ اللّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ
+> سُوءٌ وَاتَّبَعُواْ رِضْوَانَ اللّهِ وَاللّهُ ذُو فَضْلٍ عَظِيمٍ
 
 **174.** ***"So they returned (home) with the favour from Allah and
 (His) grace; no evil touched them and they followed the pleasure of
@@ -164,12 +152,8 @@ participated in the Battle.
 Surah 'Ali-Imran, Verse 175
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا ذَلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءهُ فَلاَ
-تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّمَا ذَلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءهُ فَلاَ
+> تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
 
 **175.** ***"It is only Satan that causes his friends to fear; but do
 not fear them and fear Me if you are believers."***
@@ -186,13 +170,9 @@ them and fear Me if you are believers."***
 Surah 'Ali-Imran, Verse 176
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ إِنَّهُمْ لَن
-يَضُرُّواْ اللّهَ شَيْئاً يُرِيدُ اللّهُ أَلاَّ يَجْعَلَ لَهُمْ حَظًّا
-فِي الآخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَلاَ يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ إِنَّهُمْ لَن
+> يَضُرُّواْ اللّهَ شَيْئاً يُرِيدُ اللّهُ أَلاَّ يَجْعَلَ لَهُمْ حَظًّا
+> فِي الآخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ
 
 **176.** ***"And-let not those who hasten on to disbelief grieve you.
 Verily they will never harm Allah at all, Allah intends to assign them
@@ -238,12 +218,8 @@ great punishment belonging to the stubborn infidels).
 Surah 'Ali-Imran, Verse 177
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اشْتَرَوُاْ الْكُفْرَ بِالإِيمَانِ لَن يَضُرُّواْ
-اللّهَ شَيْئًا وَلهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اشْتَرَوُاْ الْكُفْرَ بِالإِيمَانِ لَن يَضُرُّواْ
+> اللّهَ شَيْئًا وَلهُمْ عَذَابٌ أَلِيمٌ
 
 **177.** ***"Verily those who have bought infidelity for faith, never
 shall they harm Allah at all; and they will have a painful torment."***
@@ -286,13 +262,9 @@ harm Allah at all; and they will have a painful torment."***
 Surah 'Ali-Imran, Verse 178
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَحْسَبَنَّ الَّذِينَ كَفَرُواْ أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
-لِّأَنفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُواْ إِثْمًا وَلَهْمُ
-عَذَابٌ مُّهِينٌ
-  </p>
-</blockquote>
+> وَلاَ يَحْسَبَنَّ الَّذِينَ كَفَرُواْ أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
+> لِّأَنفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُواْ إِثْمًا وَلَهْمُ
+> عَذَابٌ مُّهِينٌ
 
 **178.** ***"And let not those who disbelieve think that Our giving them
 respite is good for their selves; We give respite to them only that they
@@ -373,15 +345,11 @@ reason for us to be silent before them, either.
 Surah 'Ali-Imran, Verse 179
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّا كَانَ اللّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَى مَا أَنتُمْ عَلَيْهِ
-حَتَّىَ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ وَمَا كَانَ اللّهُ
-لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلَكِنَّ اللّهَ يَجْتَبِي مِن
-رُّسُلِهِ مَن يَشَاء فَآمِنُواْ بِاللّهِ وَرُسُلِهِ وَإِن تُؤْمِنُواْ
-وَتَتَّقُواْ فَلَكُمْ أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> مَّا كَانَ اللّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَى مَا أَنتُمْ عَلَيْهِ
+> حَتَّىَ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ وَمَا كَانَ اللّهُ
+> لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلَكِنَّ اللّهَ يَجْتَبِي مِن
+> رُّسُلِهِ مَن يَشَاء فَآمِنُواْ بِاللّهِ وَرُسُلِهِ وَإِن تُؤْمِنُواْ
+> وَتَتَّقُواْ فَلَكُمْ أَجْرٌ عَظِيمٌ
 
 **179.** ***"Allah is not One to leave the believers in the state
 wherein you are, until He sorts out the vicious from the good. And Allah
@@ -454,14 +422,10 @@ believe and act piously, then you will have a great reward."***
 Surah 'Ali-Imran, Verse 180
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللّهُ مِن
-فَضْلِهِ هُوَ خَيْرًا لَّهُمْ بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ
-مَا بَخِلُواْ بِهِ يَوْمَ الْقِيَامَةِ وَلِلّهِ مِيرَاثُ السَّمَاوَاتِ
-وَالأَرْضِ وَاللّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> وَلاَ يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللّهُ مِن
+> فَضْلِهِ هُوَ خَيْرًا لَّهُمْ بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ
+> مَا بَخِلُواْ بِهِ يَوْمَ الْقِيَامَةِ وَلِلّهِ مِيرَاثُ السَّمَاوَاتِ
+> وَالأَرْضِ وَاللّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 **180.** ***"And as for those who are niggardly with what Allah has
 granted out of His grace, let them not think it is better for them, nay
@@ -530,5 +494,4 @@ grants the reward of every one appropriately.
 [^4]: Nur -uth-Thaqalayn, vol. l, p. 413
 
 [^5]: Bihar-al-Anwar, vol. 72, p. 61
-
 

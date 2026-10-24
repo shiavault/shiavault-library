@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-خُذِ الْعَفْوَ وَ امُرْ بِالْعُرْفِ وَ أََعْرِضْ عَنِ الْجَاهِلِينَ
-  </p>
-</blockquote>
+> خُذِ الْعَفْوَ وَ امُرْ بِالْعُرْفِ وَ أََعْرِضْ عَنِ الْجَاهِلِينَ
 
 “Take to forgiveness and enjoin good and turn aside from the
 ignorant.”[^1]
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْجَهْلُ أََصْلُ كُلِّ شَرٍّ.
-  </p>
-</blockquote>
+> أَلْجَهْلُ أََصْلُ كُلِّ شَرٍّ.
 
 “Ignorance is the root of all evils.”[^2]
 
@@ -256,5 +248,4 @@ not sporting a long beard as being one of the felicities of man.
 (Safinatul Bihar, Volume2, Page 509)
 
 [^11]: Jawame’ al-Hikayat, Page 300
-
 

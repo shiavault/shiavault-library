@@ -43,7 +43,7 @@ to the great Roman personalities on the basis of traditional reports and
 clear statements of the historians. She was the daughter of Yusha whose
 genealogy goes back to Caesar of Rome. In the same way her mother's
 lineage could be traced to Simon, the successor and one of the
-companions of Prophet Isa (a.s).<sup>[1]</sup>
+companions of Prophet Isa (a.s).[1]
 
 This chaste lady is one of the greatest lady of the Muslims by way of
 purity, faith and chastity, and she is the mother of the greatest
@@ -55,7 +55,7 @@ In spite of the fact that Imam Hasan Askari (a.s) himself possessed
 absolute perfections and virtues, he used to accord utmost respect to
 this esteemed lady, just as the respected aunt of His Eminence, Askari
 (a.s) paid due honor to her since her nephew informed her that the
-Awaited Imam would be born through her.<sup>[2]</sup>
+Awaited Imam would be born through her.[2]
 
 ------------------------------------------------------------------------
 
@@ -64,8 +64,8 @@ Awaited Imam would be born through her.<sup>[2]</sup>
 ### The name of Imam Mahdi's Mother
 
 Historians have mentioned the following good names of this honorable
-lady: Susan<sup>[1]</sup>, Raihana<sup>[2]</sup>, Narjis<sup>[3]</sup>,
-Saqeel<sup>[4]</sup>, Khamt.<sup>[5]</sup> From the aspect of her being
+lady: Susan[1], Raihana[2], Narjis[3],
+Saqeel[4], Khamt.[5] From the aspect of her being
 pregnant with the holy effulgence of the Promised Mahdi and that she was
 the mother of that respectable personality she was surrounded by
 effulgence and light, therefore she was addressed by these blessed
@@ -83,7 +83,7 @@ Momineen (a.s). Ali (a.s) praised and glorified the mother of Imam Mahdi
 (a.s) and said thus:
 
 "O Son of the best of the maidservants! How long would you waita I give
-good news of a near victory from the Merciful Lord."<sup>[6]</sup>
+good news of a near victory from the Merciful Lord."[6]
 
 2. Abu Basir, a student of the school of Ahle Bayt says, "I asked Imam
 Sadiq (a.s), 'O Son of the Messenger of Allah (a.s)! Who is the Qaim
@@ -92,7 +92,7 @@ descendant from my son, Musa (a.s). He would be the son of the chief of
 the maidservants and the greatest of ladies. He would go into an
 occultation and the followers of falsehood would doubt in him. After
 that, the Almighty Allah would make him reappear, and conquer the east
-and west of the earth through his powerful hands.'"<sup>[7]</sup>
+and west of the earth through his powerful hands.'"[7]
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ narrates from Abu Basir (a.s) that he quotes Imam Muhammad Baqir (a.s)
 or Imam Ja'far as-Sadiq (a.s) that he said, "There are two signs in His
 Eminence, Qaim (a.s), a black spot on the head and a black spot between
 the shoulders, just as the leaf of the sweet basil. He is the son of the
-female prisoner and the best of maidservants."<sup>[1]</sup>
+female prisoner and the best of maidservants."[1]
 
 History mentions numerous narrative reports of such kinds from the Imams
 of Ahle Bayt (a.s) describing the lofty station of this exalted lady and
@@ -143,7 +143,7 @@ joy just by hearing these words of the Imam and she said, “O my master
 and chief! May I be sacrificed on you, from whom would the caliph be
 borna”
 
-Imam (a.s) replied, “From Susan (or Narjis).”<sup>[1]</sup>
+Imam (a.s) replied, “From Susan (or Narjis).”[1]
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ refutation of the Abbaside rulers that they used to think that they
 would be able to soon kill him and deprive the Imam from continuing his
 progeny. He said in this way, “These cruel people thought that they
 would kill me so that this progeny could be cut off. What an estimation
-of God’s power they hada”<sup>[1]</sup>
+of God’s power they hada”[1]
 
 ------------------------------------------------------------------------
 
@@ -195,10 +195,10 @@ Lady Hakima took the newborn child of exalted rank to its honorable
 father, Imam Hasan Askari (a.s) who welcomed him with great pleasure and
 joy and initiated the Islamic rituals connected with the occasion. In
 the right ear of the newborn child, the Imam recited the
-'Azan'<sup>[1]</sup> and in his left recited the 'Iqamat'.<sup>[2]</sup>
+'Azan'[1] and in his left recited the 'Iqamat'.[2]
 Thus the first words to reach his ears were, 'God is the
-Greatest'<sup>[3]</sup> and, 'There is no god, except
-Allah'<sup>[4]</sup>.
+Greatest'[3] and, 'There is no god, except
+Allah'[4].
 
 In fact, Imam Hasan Askari (a.s), by these words fed the child with the
 secret of existence and the aim of the prophets and it resulted in
@@ -209,7 +209,7 @@ from the Holy Quran:
 
 *"And we desired to bestow a favor upon those who were deemed weak in
 the land, and make them the Imams, and to make them the
-heirs…"<sup>[5]</sup>*
+heirs…"[5]*
 
 In this way, the Proof of Allah on people and His Guardian (Wali) was
 born in such a concealed way due to the fear of the oppressive rulers
@@ -223,7 +223,7 @@ in the care and protection of Allah."
 
 Then he said to Lady Hakima, "Auntie take him back to his mother, and
 keep the report of the birth of this newborn child a secret and do not
-convey it to anyone till the time is ripe for it…"<sup>[6]</sup>
+convey it to anyone till the time is ripe for it…"[6]
 
 ------------------------------------------------------------------------
 
@@ -239,7 +239,7 @@ slaughtered for his Aqiqa Ceremony from which four were dispatched to
 his friend, Ibrahim along with the following letter: "In the name of
 Allah, the Beneficent, the Merciful. These sheep are due to (the birth
 of) my son, Muhammad Mahdi. Partake it yourself and whomsoever of our
-Shias you see, make them partake it too."<sup>[1]</sup>
+Shias you see, make them partake it too."[1]
 
 ### Shias informed of the birth of the Imam of the time
 
@@ -252,7 +252,7 @@ child, though the holy Imam has ordered that this information be kept
 confidential."
 
 Hamzah asked, "What is the name of the childa" He was told, "His name is
-Muhammad and agnomen, Abu Ja'far."<sup>[2]</sup>
+Muhammad and agnomen, Abu Ja'far."[2]
 
 ### Felicitations for the birth of the Imam of the time
 
@@ -262,7 +262,7 @@ and elders came to Imam Hasan Askari (a.s) in groups and congratulated
 him for the birth of Imam Mahdi (a.s). One of them, Hasan, the son of
 Husain Alawi says, "I came to Imam Hasan Askari (a.s) in Samarrah and
 complimented him about the birth of his son, Qaim (one who
-rises)."<sup>[3]</sup>
+rises)."[3]
 
 ------------------------------------------------------------------------
 
@@ -276,7 +276,7 @@ their joy. Shaykh Muhammad Samawi says,
 *"O the night that passed in the birth of that child.*
 
 By whom the atmosphere was mesmerized and his fragrance spread all
-around…"<sup>[1]</sup>
+around…"[1]
 
 Among those who composed eulogical poems on this occasion was Shaykh
 Kazim Aale Nuh, the acknowledged and successful literary personality. He

@@ -21,4 +21,3 @@ and generous support.
 
 (Qur'an, 16:97)
 
-

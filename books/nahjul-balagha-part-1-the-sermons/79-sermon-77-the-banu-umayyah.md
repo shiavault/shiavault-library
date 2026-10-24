@@ -4,29 +4,17 @@ Sermon 77: The Banu Umayyah ...
 *About Umayyads (when Sa’id b. al-‘As withheld Amir al-mu’minin’s right
 from him, peace be upon him)*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وذلك حين منعه سعيد بن العاص حقه
-  </p>
-</blockquote>
+> وذلك حين منعه سعيد بن العاص حقه
 
 The Banu Umayyah (Umayyads) are allowing me the inheritance of Muhammad
 (S) bit (by bit). By Allah, if I live I would throw them away as the
 butcher removes the dust from the dust-covered piece of flesh.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ بَنِي أُمَيَّةَ لَيُفَوِّقُونَني تُرَاثَ مُحَمَّد تَفْوِيقاً،
-وَاللهِ لَئِنْ بَقِيتُ لُهُمْ لاَنْفُضَنَّهُمْ نَفْضَ اللَّحَّام
-الْوِذَامَ التَّرِبَةَ!
-  </p>
-</blockquote>
+> إِنَّ بَنِي أُمَيَّةَ لَيُفَوِّقُونَني تُرَاثَ مُحَمَّد تَفْوِيقاً،
+> وَاللهِ لَئِنْ بَقِيتُ لُهُمْ لاَنْفُضَنَّهُمْ نَفْضَ اللَّحَّام
+> الْوِذَامَ التَّرِبَةَ!
 
 **as-Sayyid ar-Radi says:** In one version for *“al-widhamu’t-taribah”*
 (dust covered piece of flesh) the words *“at-turabu’l-wadhimah”* (the
@@ -39,19 +27,11 @@ be ready to be milked. And *“al-widham”* is the plural of *“wadhamah”*
 which means the piece of stomach or of liver which falls on the ground
 and then the dust is removed from it.
 
-<blockquote dir="rtl">
-  <p>
-قال الشريف: ويروى: «التراب الوَذَمَة»، وهو على القلب.
-  </p>
-</blockquote>
+> قال الشريف: ويروى: «التراب الوَذَمَة»، وهو على القلب.
 
-<blockquote dir="rtl">
-  <p>
-و قوله (عليه السلام): «لَيُفَوّقونَني» أي: يعطونني من المال قليلاً
-قليلاً كفُواق الناقة، وهو الحلبة الواحدة من لبنها. والوِذَامُ: جمع
-وَذَمة، وهي: الحُزّة من الكرش أوالكبد تقع في التراب فتنفض.
-  </p>
-</blockquote>
+> و قوله (عليه السلام): «لَيُفَوّقونَني» أي: يعطونني من المال قليلاً
+> قليلاً كفُواق الناقة، وهو الحلبة الواحدة من لبنها. والوِذَامُ: جمع
+> وَذَمة، وهي: الحُزّة من الكرش أوالكبد تقع في التراب فتنفض.
 
 Alternative Sources for Sermon 77
 ---------------------------------
@@ -69,5 +49,4 @@ Alternative Sources for Sermon 77
 (6) Ibn al-'Athir, *al-Nihayah,* I, 186;
 
 (7) al-\`Askari, *Jamharat al-'amthal,* I, 165.
-
 

@@ -67,7 +67,6 @@ bestowed upon you my blessings and chose islam as the religion". the
 qur'an, 5:3.
 wa assalam alaykum.
 
-
 **A brief history of qur'an**
 
 the month of ramadan marks the revelation anniversary of the holy
@@ -231,7 +230,6 @@ may god's mercy and peace be upon all.
 
 wa assalam alaykum.
 
-
 **Ramadan : The historical background**
 
 muslim all over the world annually commemorate this month by worship
@@ -300,12 +298,10 @@ iran; the british museum in london, england; the mosque of al hussain in
 cairo, egypt; and the holy najaf in iraq. some copies are dating back to
 the second and third islamic century.
 
-
 **islam and fasting**
 
 in the second year of the 'hijrah', migration to madina in 623 c.e.,
 god had commanded the muslims to fast.
-
 
 the qur'an says :
 
@@ -324,7 +320,6 @@ becomes apparent and a person's faith becomes more meaningful. fasting
 is a direct aid to strengthen humans faith and train oneself to control
 his wimps. fasting is a way to teach one how to keep his body and soul
 in balance.
-
 
 **The events of ramadan**
 
@@ -393,5 +388,4 @@ who are in need.
 in short, fasting and the rituals of ramadan are the ways of
 purification. through self denial, charity and self control, a person
 would be able to come closer to perfection.
-
 

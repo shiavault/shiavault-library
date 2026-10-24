@@ -112,4 +112,3 @@ al-Amali, and Thawab ul A’mal).
 [^3]: Quoted from Safinat ul-Bihar; vol. 2 page 550 (as quoted from
 al-Khissal).
 
-

@@ -21,4 +21,3 @@ that the najasat gets transferred to our body or clothing.
 5. The place where we put our forehead must not be higher or lower than
 four closed fingers, in relation to where our knees are.
 
-

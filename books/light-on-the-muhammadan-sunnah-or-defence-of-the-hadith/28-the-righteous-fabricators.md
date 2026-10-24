@@ -1,10 +1,6 @@
 The Righteous Fabricators
 =========================
 
-  
-  
-  
-
 Fabrication of hadith against the Messenger of Allah was not confined
 only to enemies of Din and capricious people – as we stated before – but
 some of the righteous among Muslims used to do so thinking it to be a
@@ -19,15 +15,14 @@ hadith. In another narration: We have never seen the munificent people
 
 telling lies in anything more than in hadith. That is as Muslim put it:
 falsity comes out from their mouths incidentally or inadvertently not
-deliberately. <span id="_anchor_228"></span>228 Muslim reported on the
+deliberately. 228 Muslim reported on the
 authority of Abu al-Zinad that he said: I met a hundred men in Medina,
-all of whom were trustworthy, and hadith was not taken from them. <span
-id="_anchor_229"></span>229
+all of whom were trustworthy, and hadith was not taken from them. 229
 
 Ibn Hajar writes: Some of the ignorants, after being self-conceited,
 embarked on fabricating traditions of temptation and intimidation
 saying: We haven’t told lies against him, but we did so for backing his
-Shari’ah!! <span id="_anchor_230"></span>230
+Shari’ah!! 230
 
 They were unaware that ascribing to him (S) that which he never said,
 entails falsity against Allah, since it asserts a legal judgement or
@@ -37,8 +32,7 @@ regarding their opposites: the haram (unlawful) and makruh
 from among the Karamiyyah, who permitted composing of falsity in cases
 of temptation and intimidation, for confirming the rules cited in the
 Qur’an and the Sunnah, arguing that it be falsity for him not against
-him, which is verily an ignorance of the Arabic language. <span
-id="_anchor_231"></span>231
+him, which is verily an ignorance of the Arabic language. 231
 
 Abd Allah al-Nahawandi says: I said to the lad of Ahmad: Wherefrom you
 brought these traditions which you relate through the parchments? He
@@ -69,7 +63,7 @@ hadith for seeking favour.
 
 Not satisfied with all this, they would even fabricate hadith for
 trivial reasons. One of the traditions that al-Hakim reported on the
-authority of Sayf ibn Umar al-Tamimi, <span id="_anchor_232"></span>232
+authority of Sayf ibn Umar al-Tamimi, 232
 that he said: I was in the company of Sa’d ibn Tarif, when his son
 returned from the elementary school crying! His father inquired him:
 What is the matter with you? The teacher has beaten me. He said: I will
@@ -160,14 +154,12 @@ you any hadith I verily give you an evidence confirming it from the Book
 of Allah.
 
 Ibn Jubayr says: I never received any hadith with its shape, without
-finding its confirmation in the Book of Allah. <span
-id="_anchor_233"></span>233
+finding its confirmation in the Book of Allah. 233
 
 Al-Bayhaqi reported on the authority of Ibn Abbas that he said: Whenever
 I relate to you any hadith from the Messenger of Allah, the confirmation
-of which you can never find in the Book, <span
-id="_anchor_234"></span>234 or it may seem good in the eyes of people,
-it will be verily false. <span id="_anchor_235"></span>235
+of which you can never find in the Book, 234 or it may seem good in the eyes of people,
+it will be verily false. 235
 
 It is out of scope here to enumerate all the composed traditions, of
 which Ibn al-Jawzi and al-Suyuti and others compiled numerous volumes,
@@ -229,7 +221,7 @@ distinguish, recognize and taste this, discerning between the lean and
 strong, correct and false among them, as the Messenger’s words can never
 be hidden from a sane man who experienced them. For this reason the
 Prophet (S) said: “Be cautious of the physiognomy of the believer as he
-sees with the light of Allah.” <span id="_anchor_236"></span>236 This
+sees with the light of Allah.” 236 This
 hadith was reported by al-Tirmidhi from Abu Sa’id. Some of the ancestors
 commented on the holy Qur’anic verse: “Verily in this are signs for
 those who scan heedfully, taking the word ‘mutawassimin” to mean those
@@ -286,8 +278,7 @@ Abu Sulayman al-Darani used to call Ahmad ibn ‘Asim al-Antaki with the
 epithet “Heart Spy” (Jasus al-Qulb) due to the sharpness of his
 physiognomy.
 
-Thus we concluded the briefed quotation from these two chapters. <span
-id="_anchor_237"></span>237
+Thus we concluded the briefed quotation from these two chapters. 237
 
 Among the criteria through which we can recognize sahih (veracious)
 hadith, first its being not discarded by good taste and adroitness like
@@ -344,8 +335,7 @@ Since the most vehement of mankind in hostility to those who believe are
 the Jews, as they allege to be God’s chosen people, recognizing no
 favour for any other nation, admitting no scripture for any prophet
 after Moses, their rabbis and monks found no other means – especially
-after being overcome and driven forth from their homes <span
-id="_anchor_238"></span>238 – but to resort to cunning and use finesse
+after being overcome and driven forth from their homes 238 – but to resort to cunning and use finesse
 to attain to their sought desire. Hence the Jewish artifice led them to
 pretend and show Islam, concealing their religion inside their hearts,
 so as to hide their resentment, and deceive the Muslims. The influential
@@ -365,7 +355,7 @@ On failing to degrade the holy Qur’an due to its being preserved through
 tadwin (writing), memorized by thousands of Muslims, and immune against
 addition of one word or insertion of one letter, they resorted to
 fabricating and foisting so many traditions that were never uttered by
-the Prophet. <span id="_anchor_239"></span>239 What helped them to do so
+the Prophet. 239 What helped them to do so
 was the fact that the Prophet’s traditions were not of determined signs,
 nor of preserved roots and sources, since they were never inscribed
 during his life-time as was the case with the Qur’an, nor committed to
@@ -379,7 +369,7 @@ for the questions regarding the affairs of the past world that were
 unknown to them. And the Jews, due to the Scripture they possessed, and
 the ulama’ they had, were considered teachers for the Arabs in respect
 of all the issues related to ancient religions, if they be sincere and
-honest. The sage Ibn Khaldun, <span id="_anchor_240"></span>240 when
+honest. The sage Ibn Khaldun, 240 when
 discussing the traditional (naqli) interpretation and stating that it
 included the meagre and the stout, the acceptable and disapproved, is
 reported to have said:
@@ -388,8 +378,7 @@ reported to have said:
 or knowledge, but most of them were bedouins and illiterate, who when
 desiring to have information about origin of the universe, beginning of
 creation and mysteries of existence, they would inquire people of the
-Book (Ahl al-Kitab) and get all the solutions from them. <span
-id="_anchor_241"></span>241 Among them were the Jews, followers of the
+Book (Ahl al-Kitab) and get all the solutions from them. 241 Among them were the Jews, followers of the
 Torah and those who followed their religion from among the Christians,
 like Ka’b al-Ahbar, Wahb ibn Munabbih and Abd Allah ibn Sallam and their
 likes. Then books of exegesis were filled with the traditions they
@@ -397,7 +386,7 @@ reported, with the exegetes showing leniency toward such fabrications,
 the source of all of which was the Torah, or whatever they used to
 falsify and forge.”
 
-In another place of his Maqaddimah <span id="_anchor_242"></span>242 he
+In another place of his Maqaddimah 242 he
 said:
 
 “Most often the historians and exegetes have committed so many errors in
@@ -417,8 +406,7 @@ Ka’b al-Ahbar and Abd Allah ibn Sallam, while the Tabi’un (Followers)
 used to refer to Ibn Jarih. All these men got information they used to
 report from the Torah and Gospel, with their expositions and margins, so
 the Muslims found no harm to relate them beside the Qur’anic verses, the
-fact leading to their becoming another source of overproduction.” <span
-id="_anchor_243"></span>243
+fact leading to their becoming another source of overproduction.” 243
 
 For all this, the rabbis embarked on propagating within the Islamic
 religion, so many falsities and trifles claiming them once to be taken
@@ -426,7 +414,7 @@ from their scripture or latent knowledge, and another time to be among
 what they heard from the Prophet (S), while they being in fact foisted
 and forged by them. How could the Companions discern between truth and
 falsity in the rabbis’ utterances, while they were on one hand unaware
-of the Hebrew <span id="_anchor_244"></span>244 language which was used
+of the Hebrew 244 language which was used
 in their books, and on the other they were less than them (rabbis) in
 sagacity and weaker in cunning. Therefore these falsities became so
 current and circulated among the Companions and their followers who used
@@ -438,10 +426,6 @@ Before embarking on demonstrating some of the Jewish falsified
 traditions with which books of tafsir (exegesis) and hadith and history
 were replete, I would like to refer briefly to the biographies of the
 chiefs of these rabbis: Ka’b al-Ahbar, Wahb and Abd Allah ibn Sallam.
-
-  
-  
-  
 
 228. This being in fact one of the misfortunes of that word
 "muta'ammidan" (deliberately), to which cling those who claim to be
@@ -494,5 +478,4 @@ p.8).
 People of the Book (Ahl al-Kitab) used to read the Torah with the Hebrew
 language, interpreting it with the Arabic for the Muslims (Vol. II,
 p.285).
-
 

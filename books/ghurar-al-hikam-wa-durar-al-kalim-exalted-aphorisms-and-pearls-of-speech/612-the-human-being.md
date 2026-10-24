@@ -8,33 +8,21 @@ devotion and obedience, so if he purifies it, it becomes pure and if he
 sullies it, it becomes sullied.
 
 > 1ـ اَلْمَرْءُ حَيْثُ وَضَعَ نَفْسَهُ بِرِياضَتِهِ وطاعَتِهِ، فَإنْ
-<blockquote dir="rtl">
-  <p>
-نَزَهَها تَنَزَّهَتْ، وإنْ دَنَسَها تَدَنَّسَتْ.
-  </p>
-</blockquote>
+> نَزَهَها تَنَزَّهَتْ، وإنْ دَنَسَها تَدَنَّسَتْ.
 
 2. A person is in the position that he chooses for his soul. If he
 preserves it, it becomes elevated and if he does not preserve it, it
 becomes abased.
 
 > 2ـ اَلرَّجُلُ حَيْثُ اخْتارَ لِنَفْسِهِ إنْ صانَها اِرْتَفَعَتْ، وَإنِ
-<blockquote dir="rtl">
-  <p>
-ابْتَذَلَها اِتَّضَعَتْ.
-  </p>
-</blockquote>
+> ابْتَذَلَها اِتَّضَعَتْ.
 
 3. A person is [gauged] by his two small parts: his heart and his
 tongue. If he battles, he fights with his heart and if he speaks, he
 speaks by his articulation.
 
 > 3ـ اَلْمَرْءُ بِأصْغَرَيْهِ: بِقَلْبِهِ، ولِسانِهِ، إنْ قاتَلَ قاتَلَ
-<blockquote dir="rtl">
-  <p>
-بِجَنان، وإنْ نَطَقَ نَطَقَ بِبَيان.
-  </p>
-</blockquote>
+> بِجَنان، وإنْ نَطَقَ نَطَقَ بِبَيان.
 
 4. The human being changes in three instances: when he is close to
 kings, when he gains positions of authority and when he becomes wealthy.
@@ -42,12 +30,8 @@ So whoever does not change in these conditions, then he is one who
 possesses a strong intellect and an upright character.
 
 > 4ـ اَلْمَرْءُ يَتَغَيَّرُ في ثَلاث: اَلقُرْبُ مِنَ المُلُوكِ،
-<blockquote dir="rtl">
-  <p>
-والوِلاياتُ، والغَناءُ مِنَ الفَقْرِ، فَمَنْ لَمْ يَتَغَيَّرْ في هذِهِ
-فَهُوَ ذُو عَقْل قَويم، وخُلْق مُسْتَقيم.
-  </p>
-</blockquote>
+> والوِلاياتُ، والغَناءُ مِنَ الفَقْرِ، فَمَنْ لَمْ يَتَغَيَّرْ في هذِهِ
+> فَهُوَ ذُو عَقْل قَويم، وخُلْق مُسْتَقيم.
 
 5. A man is [to be gauged] by his astuteness not by his appearance.
 
@@ -114,11 +98,7 @@ etiquette).
 origin is evinced by what he manifests of his actions.
 
 > 19ـ يُسْتَدَلُّ عَلى خَيْرِ كُلِّ امْرِء، وشَرِّهِ، وطَهارَةِ أصْلِهِ
-<blockquote dir="rtl">
-  <p>
-وخُبْثِهِ، بِما يَظْهَرُ مِنْ أفْعالِهِ.
-  </p>
-</blockquote>
+> وخُبْثِهِ، بِما يَظْهَرُ مِنْ أفْعالِهِ.
 
 20. When the virtues of a man are more than his vices, then that
 [person] is ideal, and when his virtues and vices are equal then he has
@@ -126,22 +106,14 @@ protected himself [from destruction], but if his vices are more than his
 virtues then he is doomed.
 
 > 20ـ إذا كانَتْ مَحاسِنُ الرَّجُلِ أكْثَرَ مِنْ مَساويهِ فَذلِكَ
-<blockquote dir="rtl">
-  <p>
-الكامِلُ،وَ إذا كانَ مُتَساوِيَ المَحاسِنِ والمَساوي فَذلِكَ
-المُتَماسِكُ، وإنْ زادَتْ مَساويهِ عَلى مَحاسِنِهِ فَذلِكَ الْهالِكُ.
-  </p>
-</blockquote>
+> الكامِلُ،وَ إذا كانَ مُتَساوِيَ المَحاسِنِ والمَساوي فَذلِكَ
+> المُتَماسِكُ، وإنْ زادَتْ مَساويهِ عَلى مَحاسِنِهِ فَذلِكَ الْهالِكُ.
 
 21. The evil man does not think positively about anyone because he does
 not see anyone but through the depiction of his own soul.
 
 > 21ـ اَلرَّجُلُ السُّوءُ لايَظُنُّ بِأحَد خَيْراً، لأنَّهُ لايَراهُ
-<blockquote dir="rtl">
-  <p>
-إلاّ بِوَصْفِ نَفْسِهِ.
-  </p>
-</blockquote>
+> إلاّ بِوَصْفِ نَفْسِهِ.
 
 22. The worst person is he who sells his religion for the worldly life
 of others.
@@ -156,11 +128,7 @@ of others.
 that which is weighty and do that which has great value.
 
 > 24ـ اَلمَرْءُ يُوزَنُ بِقَوْلِهِ، ويُقَوَّمُ بِفِعْلِهِ، فَقُلْ ما
-<blockquote dir="rtl">
-  <p>
-تَرَجَّحَ زِنَتُهُ، وافْعَلْ ما تَجِلُّ قيمَتُهُ.
-  </p>
-</blockquote>
+> تَرَجَّحَ زِنَتُهُ، وافْعَلْ ما تَجِلُّ قيمَتُهُ.
 
 25. A person’s value is indicated by his knowledge and intellect.
 
@@ -170,5 +138,4 @@ that which is weighty and do that which has great value.
 family.
 
 > 26ـ كُلُّ امْرِء مَسْؤُلٌ عَمّا مَلَكَتْ يَمينُهُ وعِيالِهِ.
-
 

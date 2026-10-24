@@ -1177,4 +1177,3 @@ p. 228.
 [^128]: The Natural History of Aleppo, London, 1756, pp. 93 – 96,
 edition 1794, 4, pp. 150 – 57.
 
-

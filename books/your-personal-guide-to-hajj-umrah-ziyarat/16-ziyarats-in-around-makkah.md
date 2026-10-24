@@ -170,4 +170,3 @@ Masjid al-Kheef - In Munna
 It is highly recommended to pray 6 rakaat Salaat in this Masjid that has
 great thawab as it is said that many Prophets of Allah prayed here.
 
-

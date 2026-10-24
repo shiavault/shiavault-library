@@ -485,4 +485,3 @@ Imam al-Hasan suffered too much of these ordeals and difficulties. He
 was terribly afflicted with them. The book will shed light on many of
 these sides.
 
-

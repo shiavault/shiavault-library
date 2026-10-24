@@ -50,7 +50,6 @@ Al Bareylviyaath, by Ehsan Ellahi page 190
 Those Mullahs that call Shi'as kaffir should first of all prove their
 faith.
 
-
 **The Fatwa of kufr by the Sunni Ulema against the Wahabis**
 
 The Sunni scholar Naasir Sunniyath Abu Tahir Muhammad Thabib Siddiqui
@@ -400,5 +399,4 @@ bound"
 "Tajhahib Ahl ul Sunnah" by Naasir Sunniyath Abu Tahir Muhammad Thabib
 Siddiqui Dhana Purri, page 435 Shias have done nothing to trouble the
 Wahabis and yet we are the targets of their aggression.
-
 

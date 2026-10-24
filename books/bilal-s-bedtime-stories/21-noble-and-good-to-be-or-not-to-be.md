@@ -67,4 +67,3 @@ fair, just and noble. These qualities made Muslims great people.
 *“By knowledge thou art saved; by ignorance thou art lost”.*- Imam Ali
 (a)
 
-

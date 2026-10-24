@@ -27,13 +27,9 @@ Muhammad al-Hadi (as) even though the words which have reached us from
 this personality are quite few in number. Nevertheless, we will explain
 one of the short sayings of this Imam.
 
-<blockquote dir="rtl">
-  <p>
-خَيْرٌ مِنَ الْخَيْرِ فَاعِلُهُ وَ أَجْمَلَ مِنَ الْجَمِيلِ قَائِلُهُ
-وَ أَرْجَحَ مِنَ الْعِلْمِ حَامِلُهُ وَ شَرٌّ مِنَ الشَّرِّ جَالِبُهُ
-وَ أَحْوَلَ مِنَ الْحَوْلِ رَاكِبُهُ.
-  </p>
-</blockquote>
+> خَيْرٌ مِنَ الْخَيْرِ فَاعِلُهُ وَ أَجْمَلَ مِنَ الْجَمِيلِ قَائِلُهُ
+> وَ أَرْجَحَ مِنَ الْعِلْمِ حَامِلُهُ وَ شَرٌّ مِنَ الشَّرِّ جَالِبُهُ
+> وَ أَحْوَلَ مِنَ الْحَوْلِ رَاكِبُهُ.
 
 “Even better than a good act, is the person who performs the good act;
 and more attractive than beautiful (words) is the person who speaks
@@ -279,5 +275,4 @@ disgrace and sent to exile in the Northwest. The first of the unequal
 treaties, the Treaty of Nanjing was signed. The Opium War, which lasted
 from 1840 to 1842, ended with China losing in shame. [Taken from:
 http://historyliterature.homestead.com/files/extended.html ]
-
 

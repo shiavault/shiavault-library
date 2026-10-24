@@ -1,10 +1,6 @@
 The Reason For The Performance Of The Prayer For Unusual Natural Events (Yāt)
 =============================================================================
 
-  
-
-  
-
 #### The Reason for the Performance of the Prayer for Unusual Natural Events *(Āyāt)*
 
 He, peace be on him, said: "If a sayer says: "Why has it (the prayer)
@@ -39,10 +35,6 @@ meet, appear for Allah, the Great and Almighty, so they praise Him for
 what He has bestowed upon them, so it is the day of 'Īd, the day of
 meeting, the day of fast breaking, the day of *Zakāt*, the day of
 desire, and the day of supplication, and because it is the first  
-
-  
-
-  
 
 day of the year in which eating and drinking is lawful, for the first of
 the months of the year with the people of the Truth is the month of
@@ -86,11 +78,6 @@ fasting person may be lowly, abased, miserable, rewarded,
 ------------------------------------------------------------------------
 
 [[1]](#_F767) Qur'ān, 2, 185.  
-  
-
-  
-
-  
 
 relying (on Allah), and patient toward that which befall him of hunger
 and thirst, so he is worthy of reward, in addition to refraining from
@@ -136,11 +123,6 @@ al-Qadr*,
 ------------------------------------------------------------------------
 
 [[1]](#_F768) Ibid., 2, 185.  
-  
-
-  
-
-  
 
 *which is better than a thousand months, therein every wise affair is
 distinct;* it is new year; He ordains therein what is in the year of
@@ -181,17 +163,10 @@ For this reason the menstruating woman does not fast; nor does she
 perform prayer. However, she has to compensate for fasting when she is
 pure.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F769) Perhaps the correct is: She is in the state of
 uncleanness.  
-  
-
-  
-
-  
 
 #### The menstruating Women have to compensate for Fasting
 
@@ -234,10 +209,6 @@ that year. As for him who does not recover during the whole year, and
 Allah, the Exalted, overcame him and made a way for him to perform it,
 then it is not obligatory on him to perform it; likewise,  
 
-  
-
-  
-
 those whom Allah overcomes such as the one who faints for a day and a
 night, so it is not obligatory on him to perform the prayer; just as
 al-Sādiq, peace be on him, has said: 'If the servant is overcome by
@@ -273,17 +244,10 @@ worshipper) recovers between them (the two months of Ramadān) but had
 not fast it, then redemption is obligatory on him, because of his
 negligence, and fasting because he was able (to fast).'"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F770) Qur'ān, 58, 4.  
  [[2]](#_F771) Ibid., 2, 196.  
-  
-
-  
-
-  
 
 #### Fasting instead of Releasing a Salve
 
@@ -325,12 +289,6 @@ who intentionally breaks the fast and violates the things made unlawful
 by Allah, the Most High. So Allah, the Exalted, is severe with him
 regarding that.
 
-  
-
-  
-
-  
-
 ### The Hajj
 
 The Imām, peace be on him, has mentioned the reason for legislating the
@@ -371,11 +329,6 @@ fruits and benefits of the hajj, the book will be unduly
 
 [[1]](#_F772) Perhaps the correct is in the land and on sea.  
  [[2]](#_F773) Qur'ān, 9, 122.  
-  
-
-  
-
-  
 
 long. Any how, the most important thing in the hajj is that the Muslim
 peoples come to know about each other, that they may reach an exalted
@@ -415,16 +368,9 @@ For this reason it is incumbent on everybody to perform the hajj one
 time, yes, the hajj may be obligatory through vow, hiring, and the like
 from among that which the jurists have mentioned.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F774) Ibid., 2, 196.  
-  
-
-  
-
-  
 
 #### The *Ihrām* [[1]](#_ftn775)
 
@@ -468,11 +414,6 @@ answer; then they repented, sought refuge in the Throne and asked
 [[1]](#_F775) *Ihrām*  is entering into the state of ritual
 consecration.  
  [[2]](#_F776) Qur'ān, 2, 30.  
-  
-
-  
-
-  
 
 (Allah) for forgiveness. Allah, the Great and Almighty, desired
 (servants) to serve Him with such an act of worship. He placed a House
@@ -509,12 +450,6 @@ magnification with the Muslims. That is because the Messenger, may Allah
 bless him and his family, had honored and kissed it. Without doubt this
 indicates the exalted position of this Stone, which will bear witness to
 the sincerity of him who comes to it on the Day of Resurrection.
-
-  
-
-  
-
-  
 
 #### The Hajj in Dhu al-Hijja
 
@@ -553,18 +488,11 @@ recognize any difference among mankind except that which stands between
 the believers and unbelievers. Without doubt the meeting in the season
 of the hajj has rendered a great service in this path.[[2]](#_ftn778)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F777) *Ayyām al-tashriq* are the days following the day of
 immolation.  
  [[2]](#_F778) Tārikh al-'Arab (2nd edition), vol. 1, p. 187.  
-  
-
-  
-
-  
 
 ### *Zakāt*
 
@@ -600,16 +528,9 @@ greediness, and the like from among dirty, social vices which lead to
 discords, hatred, and enmities. As for the Imām, peace be on him, he has
 talked about *zakāt* which leads to general, social benefits.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F779) Qur'ān, 3, 185.  
-  
-
-  
-
-  
 
 The Reasons for some unlawful Things
 ------------------------------------
@@ -657,11 +578,6 @@ As for the adulterer, he causes crime to society. For if  a child
 
 [[1]](#_F780) Ibid., 2, 179.  
  [[2]](#_F781) Ibid., 17, 32.  
-  
-
-  
-
-  
 
 results from him, then the child will have no father to look after him,
 commit the most horrible crime and, in addition, adultery results in the
@@ -700,16 +616,9 @@ witnesses. So if one of them fails to attend, then the three witnesses
 are liable to the punishment of slander. The witness has been made
 strict lest people should carelessly accuse each other.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F782) Ibid., 24, 2.  
-  
-
-  
-
-  
 
 ### 3. Sodomy and Lesbianism
 
@@ -748,17 +657,10 @@ Surely looking at woman's hair excites man and motivates him to commit
 the unlawful. As for looking at the hair of  women advanced in years, it
 does not excite man, so Islam has made it permissible.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F783) Ibid., 29, 28.  
  [[2]](#_F784) Ibid., 24, 60.  
-  
-
-  
-
-  
 
 ### 6. Usury
 
@@ -801,12 +703,6 @@ accordingly those who take such a kind of loan are unable to repay them
 and fall into the net of the colonists who plunder their wealth and
 spread poverty in their countries.
 
-  
-
-  
-
-  
-
 Usury has decisively been prohibited in the Qur'ān. Allah, the Exalted,
 has said: "O you who believe, do not devour usury, making it double and
 redouble.[[1]](#_ftn785)" He, the Exalted, has also said: "O you who
@@ -846,11 +742,6 @@ orphan prohibited, the orphan subsists, depends on himself, the
 [[1]](#_F785) Ibid., 3, 129.  
  [[2]](#_F786) Ibid., 2, 278-279.  
  [[3]](#_F787) Ibid., 4, 9.  
-  
-
-  
-
-  
 
 offspring are saved from what has befallen him, because of the
 punishment Allah has promised regarding it (swallowing the property of
@@ -896,11 +787,6 @@ of the thief is because he undertakes the things with his
 
 [[1]](#_F788) Ibid., 4, 6.  
  [[2]](#_F789) Ibid., 5, 38.  
-  
-
-  
-
-  
 
 own right hand, which is the best of his limbs and most useful of them
 to him. So amputating the right hand has been decided as a punishment
@@ -944,11 +830,6 @@ to
 ------------------------------------------------------------------------
 
 [[1]](#_F790) Ibid., 5, 90.  
-  
-
-  
-
-  
 
 the extent that it burns just as alcohol does. I (the author) have
 mentioned the damages of wine in my book *Work and the Rights of the
@@ -987,17 +868,10 @@ He, peace be on him, said: "The spleen has been prohibited because of
 the blood it contains; the cause of its prohibition is similar to that
 of the blood and dead animals; it is equally bad in its consequences."
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F791) Dr. 'Abd al-'Aziz Ismā'il, al-Islām wa al-Tibb al-Hadith,
 p. 17.  
-  
-
-  
-
-  
 
 Islam has prohibited the spleen and regarded it as the blood and dead
 animals, for eating it causes damages and corruption to man's body, just
@@ -1040,10 +914,6 @@ malignant tumors.
 
 C. There is no medicine for this disease and, in addition, pig's meat
 coveys to man some germs and paratyphoid, and they cause to  
-
-  
-
-  
 
 him an acute poisoning accompanied by severe inflammations in the
 digestive system, and they may give rise to death within some
@@ -1088,11 +958,6 @@ prohibited because they eat carcasses, the flesh of men,
 
 [[1]](#_F792) Rūh al-Din al-Islāmi (3rd edition), p. 405.  
  [[2]](#_F793) Minhājj al-Sālihi\`n, vol. 2, p. 274.  
-  
-
-  
-
-  
 
 feces, and their meat is affected by that, so their meat is not
 appropriate for man's stomach.
@@ -1131,10 +996,6 @@ dirtiness of their creation nor because of the dirtiness of their food."
 Islam has made it reprehensible to eat the meat of domestic donkeys and
 mules, for they were the most important means for transportation during
 those times. If they had been slaughtered, the  
-
-  
-
-  
 
 means of transportation would have been few. As for their meat, it is
 eatable and has nothing to damage general health.
@@ -1177,10 +1038,6 @@ divorce has been mentioned by the Imām, peace be on him.
 He, peace be on him, said: "The reason why a husband can never remarry
 his wife whom he divorced nine times is that it is his right  
 
-  
-
-  
-
 penalty so that men do not take divorce lightly or take advantage of
 women and think of them as weak, and so that the man would be
 considering his affairs, remaining awake and aware, so that he would
@@ -1220,16 +1077,9 @@ Almighty: *Men are the protectors and maintainers of women because Allah
 has given the one more than the other, and because they support them
 from their means*.[[1]](#_ftn794)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F794) Qur'ān, 4, 34.  
-  
-
-  
-
-  
 
 As the man is responsible for paying the expenses of the woman such as
 those of house, food, clothes, and others mentioned by the jurists, the
@@ -1272,11 +1122,6 @@ am of those who submit (to Allah in Islam)*. (It was said
 
 [[1]](#_F795) Ibid., 40, 84-85.  
  [[2]](#_F796) Ibid., 6, 158.  
-  
-
-  
-
-  
 
 to him): *Ah now! But a little before were you in rebellion! And you did
 mischief (and violence)! This day shall We save you in your body, so
@@ -1319,11 +1164,6 @@ Great and Almighty, send Mūsā (Moses) b. 'Umrān with a
 ------------------------------------------------------------------------
 
 [[1]](#_F797) Ibid., 10, 90-92.  
-  
-
-  
-
-  
 
 miraculous cane and white hand and the tool of sorcery, 'Īsā (Jesus)
 with miraculous medicine, and Mohammed, may Allah bless him and his
@@ -1368,10 +1208,6 @@ messengers; the shari'a (law) of Mohammed, may Allah bless him and his
 family, is not abrogated until the Day of Resurrection, nor is there a
 prophet after him until the  
 
-  
-
-  
-
 Day of Resurrection. So if one claims prophecy after him or brings a
 book after the Qur'ān, then his blood is permitted for all those who
 hear that from him." 
@@ -1411,17 +1247,10 @@ Sulaymān al-Ja'fari narrated on the authority of Abū al-Hasan al-Ridā,
 peace be on him, who said: "Did you know why Ismā'il was called the
 Truthful in his promise?"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F798) *Al-khubz al-hawār* it is that which is sifted several
 time; and in al-Qāmūs, it is the white flour.  
-  
-
-  
-
-  
 
 "No, I did not know," replied Ismā'il.
 
@@ -1467,10 +1296,6 @@ He, peace be on him, in turn asked him: "O commander of the faithful,
 have you not narrated from your father from his forefathers quoting 'Abd
 Allah b. 'Abbās saying that he had heard the Messenger  
 
-  
-
-  
-
 of Allah, may Allah bless him and his family, saying: 'Loving 'Ali is
 belief and hating him is unbelief?'"
 
@@ -1514,11 +1339,6 @@ p. 402, it has been mentioned: "'Ali said: 'I am the distributor of
 Hell.'" And in Kunūz al-Haqā'iq by al-Manāwi, p. 92: "Allah's Messenger,
 may Allah bless him and his family, said: ''Ali is the divider of
 Hell.'"  
-  
-
-  
-
-  
 
 did not restore Fadak (to its rightful owners) when he undertook the
 affairs of men? He, peace be on him, replied: 'We are members of a
@@ -1558,10 +1378,6 @@ among my companions will be pushed away by force from my Pool (of
 Kawther) on the Day of Resurrection just as strange camels are pushed
 away from the watering place, and I shall say: 'O Lord! My companions!
 My companions!' And it shall be said to me:  
-
-  
-
-  
 
 'You do not know what innovations they invented after you.' So they will
 be pushed away towards the left side (where Hell is), and I shall say:
@@ -1605,11 +1421,6 @@ will be resurrected and they shall be prohibited from coming near me,
 and I shall say: 'O Lord! These are my companions!' And it shall be said
 to me: 'You do not know what they did after you.'" Narrations similar to
 this are numerous.  
-  
-
-  
-
-  
 
 killed those far and close for the sake of Allah, the Most High, and
 struck off the heads of those polytheists with his own sword through
@@ -1649,10 +1460,6 @@ although there was pricking in the eye and suffocation (of
 mortification) in the throats."
 
 Surely Imām 'Ali had no group of people to support him, though  
-
-  
-
-  
 
 he had many enemies and opponents, so he, peace be on him, was patient
 and left his own right preferring over it the general interest and

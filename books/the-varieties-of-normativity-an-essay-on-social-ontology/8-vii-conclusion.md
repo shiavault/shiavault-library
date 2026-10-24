@@ -25,4 +25,3 @@ accept that all social reality is a matter of soft normativity, yet it
 is a view of this sort with which Searle’s otherwise groundbreaking work
 on social ontology is still stuck.
 
-

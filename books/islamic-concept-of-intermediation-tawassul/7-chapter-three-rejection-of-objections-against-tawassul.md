@@ -769,4 +769,3 @@ Therefore, intermediation through these holy men is in fact
 intermediation through virtuous deeds and this kind of intermediation
 based on righteous deeds is universally permissible in Islam.
 
-

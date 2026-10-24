@@ -1146,4 +1146,3 @@ scholars as to which suras are to be included under this heading.
 
 [^26]: Bihar, 10, 299-310, 1
 
-

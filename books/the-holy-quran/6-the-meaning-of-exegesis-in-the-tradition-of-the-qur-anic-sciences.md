@@ -123,7 +123,6 @@ revealed, (according to a sound tradition with an unbroken chain of
 transmission), specifically with regard to the family of the
 Prophet. \* \* \* (Allamah Tabatabai, The Qur'an in Islam, p. 37-45)
 
-
 **Types of interpretation**
 
 All praise is for Allah Who sent down the Qur'an to His servant so that
@@ -270,5 +269,4 @@ In this way the verses describing metaphysical subjects, those
 explaining the genesis and creation of the heavens and the earth, those
 concerned with life after death and those about resurrection, paradise
 and hell were distorted to conform with the said philosophy.
-
 

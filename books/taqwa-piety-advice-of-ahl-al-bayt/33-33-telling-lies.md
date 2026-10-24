@@ -201,4 +201,3 @@ observe piety (Taqwa).
 
 [^14]: Ibid., p. 265
 
-

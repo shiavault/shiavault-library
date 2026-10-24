@@ -6,7 +6,6 @@ Meeting 4: The History of Hadith amongst the Shi'a Abstract
 Some examples of the Shi'a resistance against the law of Hadith
 prohibition:
 
-
 1. Abu-thar al-Ghefari Abu-thar during the reign of Omar and Othman
 made a pilgrimage to Hajj. He was sitting nearby the Middle Stone
 (Jamaratul-Wosta resembling Satan and whereat pilgrims throw stones) at
@@ -259,11 +258,9 @@ Solaim was one of the distinguished companions of Imam Ali, Imam Hasan,
 Imam Husain, and Imam Sajjad (peace be upon them). It is narrated from
 Imam Sadiq (a.s):
 
-<p dir="rtl">
 من لم يكن عنده من شيعتنا و محبينا کتاب سليم بن قيس الهلالي فليس عنده من
 امرنا شيء و لا يعلم من اسبابنا شيء و هو ابجد الشيعة و هو سر من اسرار آل
 محمد.
-</p>
 
 "Whoever of our followers and lovers does not have the book of Solaim
 Ibn Qays al-Hilali he does not have any knowledge about us and does not
@@ -349,5 +346,4 @@ Imams (a.s). the four hundred origins were amongst the main sources for
 compilation of other books of Hadith such as al-Kaafi compiled by
 al-Kolayni died in (328 or 329 A.H) and 'Man La Yahzor' compiled by
 al-Sheikh al-Sadouq (died in 381 A.H).
-
 

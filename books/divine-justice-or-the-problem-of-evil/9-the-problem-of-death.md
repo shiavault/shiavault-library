@@ -71,4 +71,3 @@ and He will tell you what you used to do " (Qur'an, 62:8).***
 
 [^3]: A prayer by Imam Ja'far as-Sadiq, from the Prophet.
 
-

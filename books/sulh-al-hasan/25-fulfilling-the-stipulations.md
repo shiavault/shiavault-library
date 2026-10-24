@@ -746,4 +746,3 @@ al-Ta'rikh, vol. 3, p. 105.
 
 [^22]: Al-Mas'udi, Hamish b. al-Athir, vol. 6, pp. 81- 2.
 
-

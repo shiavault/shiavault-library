@@ -38,7 +38,6 @@ of the senses in the developing foetus. First HEARING develops;
 thereafterSIGHT.Modern embryology has only discovered this fact
 centuries later. Subhaanallah ! GLORY BE TO THE CREATOR.
 
-
 The Organ Equilibrium Of Balance And Humans are the only creatures that
 can stand upright naturally and have large complex brains that they can
 use to synthesize sounds into speech. No other creature has this
@@ -153,5 +152,4 @@ feeling and understanding: little THANKS; It is ye give." (Qur'an 23:
 
 ".... Surely every act of Hearing, and Seeing and Feeling (of hearts),
 all of these shall be QUESTIONED." (Qur'an 17:36).
-
 

@@ -28,4 +28,3 @@ predicate called?
 predicate is called a verbal sentence. For example: **نَزَلَ**
 **المَطَر** (The rain fell.)
 
-

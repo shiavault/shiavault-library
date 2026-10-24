@@ -7,4 +7,3 @@ occultaion
 
 Comprised of Three Sections
 
-

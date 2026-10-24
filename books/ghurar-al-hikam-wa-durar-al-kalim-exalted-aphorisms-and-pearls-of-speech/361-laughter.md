@@ -36,10 +36,5 @@ shameful deeds.
 joke [too much] thereby [resulting in your] being taken lightly.
 
 > 8ـ لا تُكْثِرَنَّ الضِّحْكَ، فَتَذْهَبَ هَيْبَتُكَ، ولا المُزاحَ
-<blockquote dir="rtl">
-  <p>
-فَيُسْتَخَفَّ بِكَ.
-  </p>
-</blockquote>
-
+> فَيُسْتَخَفَّ بِكَ.
 

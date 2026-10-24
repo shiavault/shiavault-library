@@ -46,4 +46,3 @@ this is seeking of the hereafter.”*
 
 [^1]: The Qur’an 79:37-39.
 
-

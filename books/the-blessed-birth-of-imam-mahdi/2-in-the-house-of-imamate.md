@@ -166,4 +166,3 @@ smiled and said, “My good sister! Please, take Nargis with you and teach
 her the teachings of Islam because this sweet and innocent girl is the
 legitimate wife of my son and also the mother of the last Imam to come.”
 
-

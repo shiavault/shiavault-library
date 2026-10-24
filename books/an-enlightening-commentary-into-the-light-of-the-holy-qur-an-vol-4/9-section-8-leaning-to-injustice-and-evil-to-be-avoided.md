@@ -8,13 +8,9 @@ Apostle Muhammad and those vested with the authority.
 Surah An-Nisa', Verse 51
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُواْ نَصِيبًا مِّنَ الْكِتَابِ
-يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ
-كَفَرُواْ هَؤُلاء أَهْدَى مِنَ الَّذِينَ آمَنُواْ سَبِيلاً
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُواْ نَصِيبًا مِّنَ الْكِتَابِ
+> يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ
+> كَفَرُواْ هَؤُلاء أَهْدَى مِنَ الَّذِينَ آمَنُواْ سَبِيلاً
 
 **51.** ***"Have you not seen those who were given a portion of the
 Book? They believe in Jibt (idol) and Taghut (false deities) and they
@@ -56,12 +52,8 @@ causes the truth to be concealed.
 Surah An-Nisa', Verse 52
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ الَّذِينَ لَعَنَهُمُ اللّهُ وَمَن يَلْعَنِ اللّهُ فَلَن
-تَجِدَ لَهُ نَصِيرًا
-  </p>
-</blockquote>
+> أُوْلَـئِكَ الَّذِينَ لَعَنَهُمُ اللّهُ وَمَن يَلْعَنِ اللّهُ فَلَن
+> تَجِدَ لَهُ نَصِيرًا
 
 **52.** ***"These are they whom Allah has cursed, and whomever Allah
 curses, then you will not find any helper for him."***
@@ -83,12 +75,8 @@ then you will not find any helper for him."***
 Surah An-Nisa', Verse 53
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُمْ نَصِيبٌ مِّنَ الْمُلْكِ فَإِذًا لاَّ يُؤْتُونَ النَّاسَ
-نَقِيرًا
-  </p>
-</blockquote>
+> أَمْ لَهُمْ نَصِيبٌ مِّنَ الْمُلْكِ فَإِذًا لاَّ يُؤْتُونَ النَّاسَ
+> نَقِيرًا
 
 **53.** ***"Or have they a share in the kingdom? Then in that case, they
 do not give even a speck to anybody!"***
@@ -114,13 +102,9 @@ not*** **give** ***even a speck to anybody!*** **"**
 Surah An-Nisa', Verse 54
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُم مُّلْكًا عَظِيمًا
-  </p>
-</blockquote>
+> أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمُ اللّهُ مِن فَضْلِهِ
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُم مُّلْكًا عَظِيمًا
 
 **54.** ***"Or, do they (the Jews) envy people for that which Allah has
 given them of His grace? But indeed We have given to Abraham's children
@@ -175,12 +159,8 @@ annihilation of man."*
 Surah An-Nisa', Verse 55
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمِنْهُم مَّنْ آمَنَ بِهِ وَمِنْهُم مَّن صَدَّ عَنْهُ وَكَفَى
-بِجَهَنَّمَ سَعِيرًا
-  </p>
-</blockquote>
+> فَمِنْهُم مَّنْ آمَنَ بِهِ وَمِنْهُم مَّن صَدَّ عَنْهُ وَكَفَى
+> بِجَهَنَّمَ سَعِيرًا
 
 **55.** ***"So, of them were (some) who believed in it and of them were
 (some) who barred from it, and sufficient (to punish them) is the
@@ -199,13 +179,9 @@ who barred from it, and sufficient (to punish them) is the Blazing Fire
 Surah An-Nisa', Verse 56
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُواْ بِآيَاتِنَا سَوْفَ نُصْلِيهِمْ نَارًا
-كُلَّمَا نَضِجَتْ جُلُودُهُمْ بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا
-لِيَذُوقُواْ الْعَذَابَ إِنَّ اللّهَ كَانَ عَزِيزًا حَكِيمًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُواْ بِآيَاتِنَا سَوْفَ نُصْلِيهِمْ نَارًا
+> كُلَّمَا نَضِجَتْ جُلُودُهُمْ بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا
+> لِيَذُوقُواْ الْعَذَابَ إِنَّ اللّهَ كَانَ عَزِيزًا حَكِيمًا
 
 **56.** ***"Verily those who disbelieved in Our Signs, soon We will cast
 them into Fire so oft as their skins shall be burnt We will change them
@@ -246,13 +222,9 @@ Mighty, the Wise."***
 Surah An-Nisa', Verse 57
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ
-تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا لَّهُمْ
-فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ وَنُدْخِلُهُمْ ظِـلاًّ ظَلِيلاً
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ
+> تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا لَّهُمْ
+> فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ وَنُدْخِلُهُمْ ظِـلاًّ ظَلِيلاً
 
 **57.** ***"And (as for) those who believe and do good deeds, We will
 admit them into gardens beneath which rivers flow -therein shall they
@@ -279,13 +251,9 @@ shade.***
 Surah An-Nisa', Verse 58
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُكُمْ أَن تُؤدُّواْ الأَمَانَاتِ إِلَى أَهْلِهَا
-وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ إِنَّ
-اللّهَ نِعِمَّا يَعِظُكُم بِهِ إِنَّ اللّهَ كَانَ سَمِيعًا بَصِيرًا
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُكُمْ أَن تُؤدُّواْ الأَمَانَاتِ إِلَى أَهْلِهَا
+> وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ إِنَّ
+> اللّهَ نِعِمَّا يَعِظُكُم بِهِ إِنَّ اللّهَ كَانَ سَمِيعًا بَصِيرًا
 
 **58.** ***"Verily Allah commands you that you restore deposits to their
 owners, and when you judge between people, you judge with justice;
@@ -366,14 +334,10 @@ practising this verse. [^3]
 Surah An-Nisa', Verse 59
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ
-فَرُدُّوهُ إِلَى اللّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللّهِ
-وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ
+> فَرُدُّوهُ إِلَى اللّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللّهِ
+> وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
 
 **59.** ***"O' you who have Faith! Obey Allah and obey the Messenger and
 those charged with authority among you. Then, if you quarrel about
@@ -508,5 +472,4 @@ traditions upon this meaning.
 [^5]: Allah addresses the Prophet (S) in the Qur'an both for the rank of
 statement (Surah An-Nahl, No.16, Verse 44) and 'for the rank of
 government (Surah An-Nisa’', No.4, Verse 105).
-
 

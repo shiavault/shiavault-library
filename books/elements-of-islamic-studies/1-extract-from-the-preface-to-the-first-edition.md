@@ -27,4 +27,3 @@ pray to Allah for their reward here and in the life hereafter.
 **Mombasa,**  
 **Kenya.**
 
-

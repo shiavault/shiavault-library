@@ -3,21 +3,13 @@
 
 Allah, the Wise, says:
 
-<blockquote dir="rtl">
-  <p>
-وَ اِذاَ مَرِضْتُ فَهُو يشْفِينِ
-  </p>
-</blockquote>
+> وَ اِذاَ مَرِضْتُ فَهُو يشْفِينِ
 
 *(And when I am sick, then He restores me to health)*[^1]
 
 Imam Ali (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-اَشَدُّ مِنَ الْفاَقَةِ مَرَضُ الْبَدَن
-  </p>
-</blockquote>
+> اَشَدُّ مِنَ الْفاَقَةِ مَرَضُ الْبَدَن
 
 *(More calamitous than poverty is the sickness of the body)*[^2]
 
@@ -170,5 +162,4 @@ vol. 5, pg. 68.
 
 [^7]: Paighambar Wa Yaaraan, vol. 1, pg. 193; Bihaar al-Anwaar, vol. 10,
 pg. 43.
-
 

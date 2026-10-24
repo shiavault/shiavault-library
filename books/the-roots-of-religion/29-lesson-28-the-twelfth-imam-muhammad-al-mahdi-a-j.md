@@ -696,4 +696,3 @@ existence of Imam Mehdi?
 [^1]: Muhammad Baqir as-Sadr, a learned scholar of Qum (1882-1953),
 father of the well-known Sayyid Musa Sadr of Lebanon
 
-

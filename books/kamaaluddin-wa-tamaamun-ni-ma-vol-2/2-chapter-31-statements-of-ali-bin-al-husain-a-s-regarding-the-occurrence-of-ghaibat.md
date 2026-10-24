@@ -178,22 +178,14 @@ Thumali from Ali bin Husain bin Ali Ibne Abi Talib (a.s.) that he said:
 
 “The verses:
 
-<blockquote dir="rtl">
-  <p>
-وَأُوْلُواألَْرْحَامِبَعْضُهُمْأَوْلَىبِبَعْضٍفِيكِتَابِاللَّهِ
-  </p>
-</blockquote>
+> وَأُوْلُواألَْرْحَامِبَعْضُهُمْأَوْلَىبِبَعْضٍفِيكِتَابِاللَّهِ
 
 ***…and the possessors of relationship have the better claim in the
 ordinance of Allah…***[^1]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَاكَلِمَة ًبَاقِيَة ًفِ يعَقِبِهِ
-  </p>
-</blockquote>
+> وَجَعَلَهَاكَلِمَة ًبَاقِيَة ًفِ يعَقِبِهِ
 
 ***And he made it a word to continue in his posterity.***[^2]
 
@@ -229,5 +221,4 @@ special people from his close aides. After six months his other
 companions were informed and then after six years, after the passing
 away of his respected father (a.s.), many people came to know about the
 matter of His Eminence. After that his special representatives appeared…
-
 

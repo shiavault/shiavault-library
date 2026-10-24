@@ -23,27 +23,19 @@ The Holy Quran is the word of God and a miracle in such a way that
 others are incapable of presenting such a discourse. Quran introduces
 itself to be a miracle and by way of challenge says:
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ عَلَى‏ أَن يَأْتُواْ
-بِمِثْلِ هَذَا الْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
-بَعْضُهُمْ لِبَعْضٍ ظَهِيراً
-  </p>
-</blockquote>
+> قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ عَلَى‏ أَن يَأْتُواْ
+> بِمِثْلِ هَذَا الْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
+> بَعْضُهُمْ لِبَعْضٍ ظَهِيراً
 
 ***“Say: If men and jinn should combine together to bring the like of
 this Quran, they could not bring the like of it, though some of them
 were aiders of others.” (17:88)***
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَيهُ قُلْ فَأْتُواْ بِعَشْرِ سُوَرٍ مِّثْلِهِ
-مُفْتَرَيَتٍ وَادْعُواْ مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن
-كُنْتُمْ صَدِقينَ / فَإِلَّمْ يَسْتَجِيبُواْ لَكُمْ فَاعْلَمُو اْ
-أَنَّمَآ أُنزِلَ بِعِلْمِ اللَّهِ وَأَن لَّا إِلَهَ إِلَّا هُوَ فَهَلْ
-أَنتُم مُّسْلِمُونَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَيهُ قُلْ فَأْتُواْ بِعَشْرِ سُوَرٍ مِّثْلِهِ
+> مُفْتَرَيَتٍ وَادْعُواْ مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن
+> كُنْتُمْ صَدِقينَ / فَإِلَّمْ يَسْتَجِيبُواْ لَكُمْ فَاعْلَمُو اْ
+> أَنَّمَآ أُنزِلَ بِعِلْمِ اللَّهِ وَأَن لَّا إِلَهَ إِلَّا هُوَ فَهَلْ
+> أَنتُم مُّسْلِمُونَ
 
 ***“Or, do they say: He has forged it. Say: Then bring ten forged
 chapters like it and call upon whom you can besides Allah, if you are
@@ -51,15 +43,11 @@ truthful. But if they do not answer you, then know that it is revealed
 by Allah’s knowledge and that there is no god but He; will you then
 submit?” (11:13-14)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ كُنْتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَى‏ عَبْدِنَا
-فَأْتُواْ بِسُورَةٍ مِّنْ مِّثْلِهِ وَادْعُواْ شُهَدَآءَكُمْ مِّن
-دُونِ اللَّهِ إِنْ كُنْتُمْ صَدِقِينَ‏ / فَإِن لَّمْ تَفْعَلُواْ وَلَن
-تَفْعَلُواْ فَاتَّقُواْ النَّارَ الَّتِى وَقُودُهَا النَّاسُ وَ
-الْحِجَارَةُ أُعِدَّتْ لِلْكَفِرينَ‏
-  </p>
-</blockquote>
+> وَإِنْ كُنْتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَى‏ عَبْدِنَا
+> فَأْتُواْ بِسُورَةٍ مِّنْ مِّثْلِهِ وَادْعُواْ شُهَدَآءَكُمْ مِّن
+> دُونِ اللَّهِ إِنْ كُنْتُمْ صَدِقِينَ‏ / فَإِن لَّمْ تَفْعَلُواْ وَلَن
+> تَفْعَلُواْ فَاتَّقُواْ النَّارَ الَّتِى وَقُودُهَا النَّاسُ وَ
+> الْحِجَارَةُ أُعِدَّتْ لِلْكَفِرينَ‏
 
 ***“And if you are in doubt as to that which We have revealed to Our
 servant, then produce a chapter like it and call on your witnesses
@@ -160,18 +148,10 @@ we can get you married to any lady you want.
 At this moment the Holy Prophet (S) asked Utbah: Have you said all you
 wanted to say? Yes. He said: Then listen:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرَّحْمَنِ الرَّحِيمِ‏
-  </p>
-</blockquote>
+> بسم الله الرَّحْمَنِ الرَّحِيمِ‏
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلٌ مِّنَ الرَّحْمَنِ الرَّحِيمِ‏ / كِتَابٌ فُصِّلَتْ آيَاتُهُ
-قُرْآناً عَرَبِيّاً لِّقَوْمٍ يَعْلَمُونَ‏
-  </p>
-</blockquote>
+> تَنزِيلٌ مِّنَ الرَّحْمَنِ الرَّحِيمِ‏ / كِتَابٌ فُصِّلَتْ آيَاتُهُ
+> قُرْآناً عَرَبِيّاً لِّقَوْمٍ يَعْلَمُونَ‏
 
 ***“In the name of Allah, the Beneficent, the Merciful. 41.1. Ha Mim! A
 revelation from the Beneficent, the Merciful God: A Book of which the
@@ -180,12 +160,8 @@ verses are made plain, an Arabic Quran for a people who know.”
 
 …till he came to the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَعْرَضُواْ فَقُلْ أَنذَرْتُكُمْ صَاعِقَةً مِّثْلَ صَاعِقَةِ
-عَادٍ وَثَمُودَ
-  </p>
-</blockquote>
+> فَإِنْ أَعْرَضُواْ فَقُلْ أَنذَرْتُكُمْ صَاعِقَةً مِّثْلَ صَاعِقَةِ
+> عَادٍ وَثَمُودَ
 
 ***“But if they turn aside, then say: I have warned you of a scourge
 like the scourge of Ad and Thamood.” (41:13)***
@@ -372,12 +348,8 @@ Another sign of the miraculousness of Quran is that there is no
 contradiction between its verses. Quran itself has highlighted this
 point and said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَتَدَبَّرُونَ الْقُرْءَانَ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ
-اللَّهِ لَوَجَدَواْ فِيهِ اخْتِلَفاً كَثِيراً
-  </p>
-</blockquote>
+> أَفَلَا يَتَدَبَّرُونَ الْقُرْءَانَ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ
+> اللَّهِ لَوَجَدَواْ فِيهِ اخْتِلَفاً كَثِيراً
 
 ***“Do they not then meditate on the Quran? And if it were from any
 other than Allah, they would have found in it many a discrepancy.”
@@ -475,16 +447,12 @@ Below we shall mention some predictions issued by the Holy Quran:
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-الم / غُلِبَتِ الرُّومُ‏ / فِى أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ
-غَلَبِهِمْ سَيَغْلِبُونَ / فِى بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِن
-قَبْلُ وَمِن بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ / بِنَصْرِ
-اللَّهِ يَنصُرُ مَن يَشَآءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ / وَعْدَ
-اللَّهِ لَا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ النَّاسِ
-لَايَعْلَمُونَ‏
-  </p>
-</blockquote>
+> الم / غُلِبَتِ الرُّومُ‏ / فِى أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ
+> غَلَبِهِمْ سَيَغْلِبُونَ / فِى بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِن
+> قَبْلُ وَمِن بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ / بِنَصْرِ
+> اللَّهِ يَنصُرُ مَن يَشَآءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ / وَعْدَ
+> اللَّهِ لَا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ النَّاسِ
+> لَايَعْلَمُونَ‏
 
 ***“Alif Lam Mim. The Romans are vanquished, in a near land, and they,
 after being vanquished, shall overcome, within a few years. Allah’s is
@@ -696,5 +664,4 @@ these two dates tally with the prophecy of Quran, but what is mentioned
 in the books of the history of Iran is absolutely accurate. And hence we
 should accept that the victory of Romans occurred around the year 13
 A.H.
-
 

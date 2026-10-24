@@ -10,13 +10,9 @@ We mention some of their objections for instance.
 1- They say for Hadith of Muhammad ibn Ash’ari (which correctness of its
 evidence had proved):
 
-<blockquote dir="rtl">
-  <p>
-کتب بعض اصحابنا الى ابى جعفر الّئانى علیه السلام خبرنى عن الخمس اعلى
-جمیع ما یستفید الرّجل من قلیل و کثیر من جمیع الضّروب و على الصّناع و
-کیف ذلک؟ فکتب بخطّه علیه السلام الخمس بعد المؤونة
-  </p>
-</blockquote>
+> کتب بعض اصحابنا الى ابى جعفر الّئانى علیه السلام خبرنى عن الخمس اعلى
+> جمیع ما یستفید الرّجل من قلیل و کثیر من جمیع الضّروب و على الصّناع و
+> کیف ذلک؟ فکتب بخطّه علیه السلام الخمس بعد المؤونة
 
 *One of our companions wrote to ninth Imam (a.s.): Inform us that if
 Khums applies on all the things which a person uses, from few and many
@@ -60,14 +56,10 @@ objection for this Hadith.
 2- Abu Ali ibn Rashid who had been one of deputies of Imam Javad (a.s.)
 and Imam Hadi (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-قلت له امرتنى بالقیام بامرک و اخذ حقّک فاعلمت موالیک بذلک فقال لى
-بعضهم واىّ شىء حقّه؟ فلم ادرما اجیبه، فقال یجب علیهم الخمس، فقلت ففى
-اىّ شىء؟ فقال فى امتعتهم و صنایعهم، قلت و التّاجر علیه و الصّانع بیده،
-فقال اذا امکنهم بعد مؤونتهم.
-  </p>
-</blockquote>
+> قلت له امرتنى بالقیام بامرک و اخذ حقّک فاعلمت موالیک بذلک فقال لى
+> بعضهم واىّ شىء حقّه؟ فلم ادرما اجیبه، فقال یجب علیهم الخمس، فقلت ففى
+> اىّ شىء؟ فقال فى امتعتهم و صنایعهم، قلت و التّاجر علیه و الصّانع بیده،
+> فقال اذا امکنهم بعد مؤونتهم.
 
 *I told him (Imam (a.s.)) you have ordered me to manage your tasks, and
 take your right; I told this to your friends, some of them said: what is
@@ -120,16 +112,12 @@ that have limited information about Khums.
 
 3-
 
-<blockquote dir="rtl">
-  <p>
-کتب الیه ابراهیم بن محمّد الهمدانى اقرأنى على کتاب ابیک فیمـا اوجبه
-على اصحاب الضّیاع انه اوجب علیهم نصف السّدس بعد المؤونة، بانّه لیس على
-من لم یقم ضیعته بمؤونته نصف السّدس، و لاغیر ذلک، فاختلف من قبلنا فى
-ذلک فقالوا: یجب على الضّیاع الخمس بعد المؤونة، مؤونة الضّیعة و خراجها،
-لا مؤونة الرّجل و عیاله فکتب: و قرء على بن مهزیار علیه الخمس بعد
-مؤونته و مؤونة عیاله و بعد خراج السّلطان
-  </p>
-</blockquote>
+> کتب الیه ابراهیم بن محمّد الهمدانى اقرأنى على کتاب ابیک فیمـا اوجبه
+> على اصحاب الضّیاع انه اوجب علیهم نصف السّدس بعد المؤونة، بانّه لیس على
+> من لم یقم ضیعته بمؤونته نصف السّدس، و لاغیر ذلک، فاختلف من قبلنا فى
+> ذلک فقالوا: یجب على الضّیاع الخمس بعد المؤونة، مؤونة الضّیعة و خراجها،
+> لا مؤونة الرّجل و عیاله فکتب: و قرء على بن مهزیار علیه الخمس بعد
+> مؤونته و مؤونة عیاله و بعد خراج السّلطان
 
 Ibrahim ibn Muhammad Hamedani wrote to Imam (a.s.) that: Ali (Ibn
 Mahzyar) read the letter of your father for me that it had been ordered
@@ -489,11 +477,7 @@ mostly have been due to lack of knowledge or obstinacy and partiality.
 implication and proves Khums in all incomes is the cabbala of “Sama’a
 ibn Mehran” from Imam “Mousa ibn Ja’far” (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-قال سألت ابالحسن عن الخمس فقال فى کلّ ما افاد النّاس من قلیل او کثیر
-  </p>
-</blockquote>
+> قال سألت ابالحسن عن الخمس فقال فى کلّ ما افاد النّاس من قلیل او کثیر
 
 *I asked Imam Mousa ibn Ja’far about Khums; he said Khums is all
 benefits that people gain from little to many.*[^13]
@@ -575,5 +559,4 @@ Al-Ketab Al-Arabiyya.
 [^12]: Usul Al-Kafi, vol. 1, page 492.
 
 [^13]: Wasael Al-Shi’aa, vol. 6, page 350.
-
 

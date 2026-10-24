@@ -113,11 +113,7 @@ these traditions.
 Bukhar and Muslim, using their own chains of transmitters, quote the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-کیف انتم اذا نزل ابن مریم فیکم و امامکم منکم؟
-  </p>
-</blockquote>
+> کیف انتم اذا نزل ابن مریم فیکم و امامکم منکم؟
 
 How do you feel when Jesus Christ lands among you and your imam is from
 among you?[^12]
@@ -126,12 +122,8 @@ Using his how chain of reporters, Ahmad bin Hanbal Shaybani also
 narrates a tradition that contains the name of 'Dajjal'. He quotes the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-فاذا هم بعیسی بن مریم فتقام الصلاه فیقال له: تقدم یا روح الله! فیقول:
-لیتقدم امامکم فیصل بکم
-  </p>
-</blockquote>
+> فاذا هم بعیسی بن مریم فتقام الصلاه فیقال له: تقدم یا روح الله! فیقول:
+> لیتقدم امامکم فیصل بکم
 
 Then they see Jesus Christ when it is the time of offering prayer. Jesus
 is told to lead the prayer but he refuses saying that their [Muslims']
@@ -233,12 +225,8 @@ evaluate them.
 As to the chain of this tradition, it has to be said that in his
 *Sunan*, Abu Dawood mentions:
 
-<blockquote dir="rtl">
-  <p>
-حدثت عن هارون بن مغیره قال: حدثنا عمرو بن ابی قیس عن شعیب بن خالد عن
-ابی اسحاق قال: قال: علی (ع) ... ثم ذکر قصه یملاء الارض عدلا.
-  </p>
-</blockquote>
+> حدثت عن هارون بن مغیره قال: حدثنا عمرو بن ابی قیس عن شعیب بن خالد عن
+> ابی اسحاق قال: قال: علی (ع) ... ثم ذکر قصه یملاء الارض عدلا.
 
 I am told that Harun bin Mughayra narrated from 'Amr bin Abi Qays from
 Shu'ayb bin Khalid from Abu Ishaq who said: Ali (a.s) said … Then he
@@ -367,12 +355,8 @@ In his *Musnad,* Ahmad narrates from Abdullah bin Mas'ud, from Umar bin
 Ubaid from 'Asim bin Abi al-Nujud from Zarrin Habish from Abullah who
 quotes the Holy Prophet as saying:
 
-<blockquote dir="rtl">
-  <p>
-لا تنقضی الایام و لا یذهب الدهر حتی یملک رجل من اهل بیتی اسمه یواطئ
-اسمی
-  </p>
-</blockquote>
+> لا تنقضی الایام و لا یذهب الدهر حتی یملک رجل من اهل بیتی اسمه یواطئ
+> اسمی
 
 The world will not end unless a man appears, who belongs to my progeny
 and who is my namesake. [^27]
@@ -380,12 +364,8 @@ and who is my namesake. [^27]
 He goes no narrating from Yahya bin Sa'eed from Sufyan from 'Asim from
 Zar from Abdullah who quotes the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لا تذهب الدنیا او قال: لا تنقضی الدنیا حتی یملک العرب رجل من اهل بیتی
-و یواطیء اسمه اسمی
-  </p>
-</blockquote>
+> لا تذهب الدنیا او قال: لا تنقضی الدنیا حتی یملک العرب رجل من اهل بیتی
+> و یواطیء اسمه اسمی
 
 The world will not end or perish unless a man rules Arabs, a man who
 belongs to my progeny and who is my namesake. [^28]
@@ -399,11 +379,7 @@ Tirmidhi narrates this tradition from Ubaid bin Asbat bin Muhammad
 Qarshi Kufi from his father from Sufyan Thawri from Asim bin Bahdala
 from Zar from Abdullah who quotes the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لا تذهب الدنیا حتی یملک العرب رجل من اهل بیتی و یواطیء اسمه اسمی
-  </p>
-</blockquote>
+> لا تذهب الدنیا حتی یملک العرب رجل من اهل بیتی و یواطیء اسمه اسمی
 
 The world will not come to an end unless a man rules Arabs, a man who
 belongs to my progeny and who is my namesake. [^31]
@@ -542,5 +518,4 @@ are almost reliable.
 [^33]: Sahih Tirmidhi, vol. 4, p. 438.
 
 [^34]: Sunan Abu Dawood, vol. 2, p. 207.
-
 

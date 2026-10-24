@@ -43,11 +43,7 @@ forth, and a tree, the branches of which do not become green, and a
 ground upon which foliage is not found.
 
 > 8ـ اَلجاهِلُ صَخْرَةٌ لا يَنْفَجِرُ ماؤُها، وَشَجَرَةٌ
-<blockquote dir="rtl">
-  <p>
-لايَخْضَرُّعُودُها، وأرضٌ لايَظهَرُ عُشْبُها.
-  </p>
-</blockquote>
+> لايَخْضَرُّعُودُها، وأرضٌ لايَظهَرُ عُشْبُها.
 
 9. An ignorant person is [like the] dead among the living.
 
@@ -66,33 +62,21 @@ flatterer who makes the ugly look appealing to him and makes him hate
 the [sincere] adviser.
 
 > 12ـ أجْهَلُ النّاسِ المُغْتَرُّ بِقَوْلِ مادِح مُتَمَلِّق، يُحَسِّنُ
-<blockquote dir="rtl">
-  <p>
-لَهُ القَبيحَ، ويُبَغِّضُ إلَيْهِ النَّصيْحَ.
-  </p>
-</blockquote>
+> لَهُ القَبيحَ، ويُبَغِّضُ إلَيْهِ النَّصيْحَ.
 
 13. The most hated creature in the sight of Allah is the ignorant
 person, because He deprived him of what He bestowed on His creation, and
 that is intellect.
 
 > 13ـ أبْغَضُ الخَلائِقِ إلَى اللّهِ تعالى، اَلجاهِلُ لأنَّهُ حَرَمَهُ
-<blockquote dir="rtl">
-  <p>
-ما مَنَّ بِهِ عَلى خَلْقِهِ، وهُوَ العَقْلُ.
-  </p>
-</blockquote>
+> ما مَنَّ بِهِ عَلى خَلْقِهِ، وهُوَ العَقْلُ.
 
 14. Verily the ignorant is one whose ignorance leads astray and whose
 vain desires entice [towards evil]; so his speech is unhealthy and his
 action is blameworthy.
 
 > 14ـ إنَّ الجاهِلَ مَنْ جَهْلُهُ في إغْواء، ومَنْ هَواهُ في إغْراء،
-<blockquote dir="rtl">
-  <p>
-فَقَوْلُهُ سَقيمٌ، وفِعْلُهُ ذَميمٌ.
-  </p>
-</blockquote>
+> فَقَوْلُهُ سَقيمٌ، وفِعْلُهُ ذَميمٌ.
 
 15. The ignorant one is perplexed.
 
@@ -259,11 +243,7 @@ it.
 than his ‘yesterday’.
 
 > 52ـ مَنْ جَهِلَ اغْتَرَّ بِنَفْسِهِ وَكانَ يَوْمُهُ شَـرّاً مِنْ
-<blockquote dir="rtl">
-  <p>
-أمْسِهِ.
-  </p>
-</blockquote>
+> أمْسِهِ.
 
 53. It is from the nature of the ignorant to get angry quickly, in every
 situation.
@@ -298,5 +278,4 @@ excessive).
 
 [^1]: Or, if taken in the context of Q68:6: Every ignorant person is
 demented.
-
 

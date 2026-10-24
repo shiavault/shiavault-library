@@ -83,4 +83,3 @@ May Allah (SWT) guide us to the conviction and certitude of the great
 divine status and impeccable positions of the Infallible Imams from the
 purified household of the Holy Messenger!
 
-

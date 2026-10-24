@@ -228,13 +228,9 @@ voice of Khubayb ibn \`Adiy was heard, with a perfect spirituality which
 held everyone in its spell and caused some to caste themselves down on
 the earth in fear, entreating God with these words:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ اِنَّا قَد بَلَّغنَا رِسَالَة رَسُلِكَ فَبَلغهُ الغَداةَ
-مَا يُصنَعُ بِنَا. اَللَّهُمَّ أَحصِهِم عَدَدً ا وَآقْتُلهُمْ بَدَدًا
-وَلاَتُغَادِرْ مِنْهُمْ أحَداً.
-  </p>
-</blockquote>
+> اَللَّهُمَّ اِنَّا قَد بَلَّغنَا رِسَالَة رَسُلِكَ فَبَلغهُ الغَداةَ
+> مَا يُصنَعُ بِنَا. اَللَّهُمَّ أَحصِهِم عَدَدً ا وَآقْتُلهُمْ بَدَدًا
+> وَلاَتُغَادِرْ مِنْهُمْ أحَداً.
 
 O God! We have delivered the message of Thy Messenger; so tell him
 tomorrow what has been done to us. O God! Reckon them by number and kill
@@ -359,5 +355,4 @@ London, 1955, pp.426 - 428.
 [^6]: ibid. vol.2, p.220
 
 [^7]: . Rumi, Mathnavi, bk.l
-
 

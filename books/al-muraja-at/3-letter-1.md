@@ -65,4 +65,3 @@ a debate on, since "S" denotes his name "Salim" and his being a Sunni,
 while "Sh" signifies the author's surname "Sharafud-Din," and his being
 a Shi’a. 
 
-

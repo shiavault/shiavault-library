@@ -52,14 +52,10 @@ the Day of Judgment. Those interested. in detailed references should see
 
 The Sunni scholar, Najmuddin Tufi Hanbali writes:
 
-<blockquote dir="rtl">
-  <p>
-واعلم ان النزاع الطويل بينهم في التقية استدلالا وجوابا ذاهب هدرا ...
-اما التقية ... فلا مبالاة باثباتها وجوازها. وانما يكره عامة الناس
-لفظها كونها من مستندات الشيعة والا فالعالم مجبول على استعمالها وبعظهم
-يسميها مداراة وبعضهم مصانعة وبعضهم عقلا معيشيا ودل عليهما الشرع.
-  </p>
-</blockquote>
+> واعلم ان النزاع الطويل بينهم في التقية استدلالا وجوابا ذاهب هدرا ...
+> اما التقية ... فلا مبالاة باثباتها وجوازها. وانما يكره عامة الناس
+> لفظها كونها من مستندات الشيعة والا فالعالم مجبول على استعمالها وبعظهم
+> يسميها مداراة وبعضهم مصانعة وبعضهم عقلا معيشيا ودل عليهما الشرع.
 
 "Know that the long arguments for and against *taqiyyah* are useless ….
 but there is no doubt in its validity and legality. Of course, common
@@ -105,5 +101,4 @@ Medina?
 
 [^1]: Tufi, Sharhu 'l Arba'in an-Nawawi as quoted in Falkun-Najat, 2nd
 ed. Lahore, vol. 2, p. 107.
-
 

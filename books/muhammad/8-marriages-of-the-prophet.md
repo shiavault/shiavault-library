@@ -1466,4 +1466,3 @@ may be as early as 8.
 [^2]: Captives were always regarded in those days as slaves. They were
 either ransomed or sold in the slave market.
 
-

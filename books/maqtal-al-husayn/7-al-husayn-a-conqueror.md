@@ -499,4 +499,3 @@ Prophet Yousuf {Joseph} (‘a)].
 [^22]: Shu’ara' al-Hilla, Vol. 3, p. 214, excerpted from a poem
 eulogizing al-Husayn (‘a) by Sayyid ‘Abdul-Muttalib al-Hilli.
 
-

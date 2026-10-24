@@ -1,8 +1,6 @@
 Chapter 18: Meeting in Kufa
 ===========================
 
-  
-
 The two Parties (i.e., al-Hasan and Mu'awiya) had adopted the idea of
 peacemaking. Thus it was natural for them to appoint a certain next to
 declare the Peace Treaty. In other words the two sides wanted to hold
@@ -31,8 +29,6 @@ showed their treason. Groups of the Kufans were seen among the masses of
 the Syrians. They wanted to take part in the cheated happiness of the
 Syrians during their cold festivals and to take part in their overcome
 victory.
-
-  
 
 The people were summoned to al-Masjid al-Jami' to listen to the two
 orators (i.e., al-Hasan and Mu'awiya) who had signed the Peace Treaty.
@@ -72,8 +68,6 @@ delivered a speech and he was sitting, then accuse him of lying."
 Al-Jaza'iri has narrated this tradition in his book 'Ayat al-Ahkam', p.
 75. [[2]](#n2) Al-Ya'qubi, Ta'rikh, vol. 2, p. 192. [[3]](#n3) Ibn Abu
 al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 16.
-
-  
 
 Abu Ishaq al-Subay'i [[1]](#r4) has added the following words to what he
 has narrated of Mu'awiya's oration: "Indeed every thing which I have
@@ -115,8 +109,6 @@ ablution (Wudu' al-'Atama) for forty years. He ended the Qur'an in every
 night. No one worshipped Allah more than he did, and no one was more
 reliable than him in the tradition.
 
-  
-
 In his speech, al-Hasan said: "Praise belongs to Allah whenever a man
 praises Him. I testify that there is no god but Allah whenever a man
 testifies Him. I testify that Muhammad is His servant and His apostle
@@ -156,8 +148,6 @@ Allah, if the people had pledged allegiance to my father when
 Al-Mas'udi, Ilamish b. al-Athir, vol. 6, p. 61- 2. Ibn Kathir, al-Bidaya
 wa al-Nihaya, vol. 8, p. 18. Al-Tabari, Ta'rikh, vol. 6, p. 93.
 
-  
-
 given them its rain and the earth its boon, and you, Mu'awiya, would
 have not wished for it (the authority). When it (i.e., the authority)
 came out of its origin, Quraysh differed over it. So the freed prisoners
@@ -196,8 +186,6 @@ your father was Sakhr (Abu Sufyan).
 
 [[1]](#n7) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 114. [[2]](#n8)
 Al-Mas'udi, Hamish b. al-Athir, vol. b, pp. 61- 2.
-
-  
 
 My mother was Fatima and your mother was Hind. My grandfather was the
 Apostle of Allah and your grandfather was Harb. My grandmother was
@@ -240,8 +228,6 @@ some days.
 ------------------------------------------------------------------------
 
 [[1]](#n9) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 6.
-
-  
 
 When al-Hasan arrived at Dir Hind [[1]](#r10) (al-Hira), he looked at
 Kufa and said:

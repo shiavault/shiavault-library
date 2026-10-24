@@ -47,4 +47,3 @@ from achieving fair- mindedness.
 
 [^1]: \* \* Not found in N.
 
-

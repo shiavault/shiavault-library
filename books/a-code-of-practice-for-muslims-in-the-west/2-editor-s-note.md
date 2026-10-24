@@ -26,4 +26,3 @@ approval, that He accepts it favourably and make it of use.
 
 **Najim al-Khafaji, BA**
 
-

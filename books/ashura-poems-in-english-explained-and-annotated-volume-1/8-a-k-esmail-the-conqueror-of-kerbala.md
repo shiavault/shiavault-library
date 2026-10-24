@@ -27,7 +27,6 @@ Husain himself had to fall
 Before the grand message spread.
 The mouths that had fed
 
-
 66
 
 Bit the hands that held The ungrateful serpent's bite That was a
@@ -78,7 +77,6 @@ That the message of Muhammad
 The sacrifice of Husain
 Shall not be in vain
 Islam, Allah's noblest gift
-
 
 68
 
@@ -133,7 +131,5 @@ prescribed way for religious or ritual purposes] with its water prior to
 performing ziarat, viz. pilgrimage, to Imam al-Husain's sacred
 sanctuary.
 
-
 70
-
 

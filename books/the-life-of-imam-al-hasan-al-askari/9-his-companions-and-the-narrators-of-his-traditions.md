@@ -990,7 +990,6 @@ companions,[^311] and so did al-Barqi.[^312]
 Sheikh at-Toosi mentioned him as one of Imam al-Askari's companions and
 said he was his agent. He had met Imam Abul Hasan al-Hadi (a.s.).[^313]
 
-
 #### 73. Muhammad bin Ahmad bin Mutahhar
 
 ####

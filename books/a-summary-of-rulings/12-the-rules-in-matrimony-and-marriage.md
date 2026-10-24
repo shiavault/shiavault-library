@@ -38,44 +38,28 @@ The Method of Performing the Seeghah of Permanent and Temporary Marriage
 **Issue 799:** It suffices for the Seeghah of permanent marriage if the
 woman says:
 
-<blockquote dir="rtl">
-  <p>
-زَوَّجْتُ نَفْسِى عَلى الصَّداقِ المَعلومِ
-  </p>
-</blockquote>
+> زَوَّجْتُ نَفْسِى عَلى الصَّداقِ المَعلومِ
 
 *I marry myself to you for the agreed upon dowry*
 
 And the man says afterward:
 
-<blockquote dir="rtl">
-  <p>
-قَبلتُ التَّزْوِيجَ
-  </p>
-</blockquote>
+> قَبلتُ التَّزْوِيجَ
 
 *I accept the marriage*
 
 If they authorize a representative for the matrimony, then, it would be
 sufficient that the representative of the woman says:
 
-<blockquote dir="rtl">
-  <p>
-زَوَّجْتُ مُوَكِّلَكَ اَحْمَدَ، مُوَكِّلَتِي عَلَى الصِّـداقِ
-المَعْلُومِ
-  </p>
-</blockquote>
+> زَوَّجْتُ مُوَكِّلَكَ اَحْمَدَ، مُوَكِّلَتِي عَلَى الصِّـداقِ
+> المَعْلُومِ
 
 *I marry the woman I represent to the man you represent for the agreed
 upon dowry*
 
 And the representative of the man says:
 
-<blockquote dir="rtl">
-  <p>
-قَبلتُ لِمُوكَّلي التَّزْوِيجَ
-  </p>
-</blockquote>
+> قَبلتُ لِمُوكَّلي التَّزْوِيجَ
 
 *I accept the marriage on behalf of the man I represent for the agreed
 upon dowry.*
@@ -83,45 +67,29 @@ upon dowry.*
 It suffices in temporary marriage if the woman says, after specifying
 the duration (of the marriage agreement) and the dowry:
 
-<blockquote dir="rtl">
-  <p>
-زَوَّجْتُكَ نَفْسِي فِي المُدَّةِ المَعْلُومَةِ عَلَى المَهْرِ
-المَعْلُومِ
-  </p>
-</blockquote>
+> زَوَّجْتُكَ نَفْسِي فِي المُدَّةِ المَعْلُومَةِ عَلَى المَهْرِ
+> المَعْلُومِ
 
 *I marry myself to you for the agreed upon time period for the agreed
 upon dowry.*
 
 And the man says:
 
-<blockquote dir="rtl">
-  <p>
-قَبلتُ التَّزْوِيجَ
-  </p>
-</blockquote>
+> قَبلتُ التَّزْوِيجَ
 
 *I accept the marriage*
 
 Or the representative of a woman says:
 
-<blockquote dir="rtl">
-  <p>
-زَوَّجْتُ مُوَكِّلَتِي مُوَكِّلَكَ فِي المُدَّةِ المَعْلُومَةِ عَلَى
-المَهْرِ المَعْلُومِ
-  </p>
-</blockquote>
+> زَوَّجْتُ مُوَكِّلَتِي مُوَكِّلَكَ فِي المُدَّةِ المَعْلُومَةِ عَلَى
+> المَهْرِ المَعْلُومِ
 
 *I marry the woman I represent to the man you represent for the agreed
 upon time for the agreed upon dowry*
 
 And the representative of the man says:
 
-<blockquote dir="rtl">
-  <p>
-قَبلتُ لِمُوكَّلي التَّزْوِيجَ
-  </p>
-</blockquote>
+> قَبلتُ لِمُوكَّلي التَّزْوِيجَ
 
 *I accept the marriage for the man I represent*
 
@@ -574,5 +542,4 @@ observe seclusion ('Iddah). According to obligatory precaution, the
 second husband must pay her the dowry agreed upon between them. When the
 standard dowry (Mahr Mithl) is more that the named dowry, he must pay
 the standard dowry.
-
 

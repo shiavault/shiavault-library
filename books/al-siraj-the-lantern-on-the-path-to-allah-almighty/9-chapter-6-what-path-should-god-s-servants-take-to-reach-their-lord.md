@@ -481,4 +481,3 @@ time he returns to Allah and repents, may intensify in order to make a
 reason for being compensated for the stages during which he lost on
 account of unmindfulness or submission to desire.
 
-

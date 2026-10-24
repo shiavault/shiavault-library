@@ -30,11 +30,7 @@ espouse contentment and you will be accompanied by prosperity and
 honour.
 
 > 6ـ اِلْزَمِ الصَّمْتَ، يَلْزَمْكَ النَّجاةُ والسَّلامَةُ، وَالْزَمِ
-<blockquote dir="rtl">
-  <p>
-الرِّضا يَلْزَمْكَ الغَناءُ وَالكَرامَةُ.
-  </p>
-</blockquote>
+> الرِّضا يَلْزَمْكَ الغَناءُ وَالكَرامَةُ.
 
 7. Espouse silence and be patient with contentment for the little
 provision [that you have], [and as a result] you will become great (or
@@ -42,11 +38,7 @@ your will overcome) in your world and will become great in your
 Hereafter.
 
 > 7ـ اِلْزَمِ السُّكُوتَ، واصْبِرْ عَلى القَناعَةِ بِأيْسَرِ القُوتِ
-<blockquote dir="rtl">
-  <p>
-تَعِزَّ(تَغِزَّ) في دُنْياكَ وتَعِزَّ في أُخْريكَ.
-  </p>
-</blockquote>
+> تَعِزَّ(تَغِزَّ) في دُنْياكَ وتَعِزَّ في أُخْريكَ.
 
 8. The best silence is that which prevents [one] from error.
 
@@ -94,32 +86,20 @@ than eloquence.
 from blunder.
 
 > 18ـ إنْ كانَ فِي الكَلامِ البَلاغَةُ فَفِي الصَّمْتِ السَّلامَةُ مِنَ
-<blockquote dir="rtl">
-  <p>
-العِثارِ.
-  </p>
-</blockquote>
+> العِثارِ.
 
 19. Only the one who is capable of giving a reply [but does not do so]
 can be called ‘silent’; otherwise ‘inarticulate’ is more appropriate a
 description.
 
 > 19ـ إنَّما يَسْتَحِقُّ إسْمَ الصَّمْتِ المُضْطَلِعُ بِالإجابَةِ،
-<blockquote dir="rtl">
-  <p>
-وَإلاّ فَالعَيُّ بِهِ أَوْلى.
-  </p>
-</blockquote>
+> وَإلاّ فَالعَيُّ بِهِ أَوْلى.
 
 20. When you speak a word, it controls you but when you withhold it, you
 control it.
 
 > 20ـ إذا تَـكَلَّمْتَ بِالكَلِمَةِ مَلَكَتْكَ، وإذا أمْسَكْتَها
-<blockquote dir="rtl">
-  <p>
-مَلَكْتَها.
-  </p>
-</blockquote>
+> مَلَكْتَها.
 
 21. Through silence, reverence increases.
 
@@ -137,21 +117,13 @@ control it.
 results in your reproach.
 
 > 24ـ صَمْتٌ يُعْقِبُكَ السَّلامَةَ خَيْرٌ مِنْ نُطْق يُعْقِبُكَ
-<blockquote dir="rtl">
-  <p>
-المَلامَةَ.
-  </p>
-</blockquote>
+> المَلامَةَ.
 
 25. Silence that covers you with honour is better than speech that earns
 you regret.
 
 > 25ـ صَمْتٌ يَكْسُوكَ الكِرامَةَ خَيْرٌ مِنْ قَوْل يُكْسِبُكَ
-<blockquote dir="rtl">
-  <p>
-النَّدامَةَ.
-  </p>
-</blockquote>
+> النَّدامَةَ.
 
 26. Silence that earns you reverence is better than words that drape you
 with disgrace.
@@ -180,11 +152,7 @@ Allah.
 31. Cling to silence, for it keeps you safe and saves you from regret.
 
 > 31ـ عَلَيْكَ بِلُزُومِ الصَّمْتِ فَإنَّهُ يُلْزِمُكَ السَّلامَةَ،
-<blockquote dir="rtl">
-  <p>
-ويُؤْمِنُكَ النَّدامَةَ.
-  </p>
-</blockquote>
+> ويُؤْمِنُكَ النَّدامَةَ.
 
 32. The veil of wrongdoing is silence.
 
@@ -199,11 +167,7 @@ silence is the embellishment of the scholar and the cloak [that hides
 the ignorance] of the ignorant.
 
 > 34ـ كُنْ صَمُوتاً مِنْ غَيْرِ عَيّ، فَإنَّ الصَّمْتَ زينَةُ العالِمِ
-<blockquote dir="rtl">
-  <p>
-وَسِتْرُ الجاهِلِ.
-  </p>
-</blockquote>
+> وَسِتْرُ الجاهِلِ.
 
 35. One who maintains silence is safe from reproach.
 
@@ -252,25 +216,16 @@ silence.
 no good in speaking falsehood.
 
 > 45ـ لاخَيْرَ فيِ الصَّمْتِ عَنِ الحِكْمَةِ، كَما أنَّهُ لاخَيْرَ فِي
-<blockquote dir="rtl">
-  <p>
-القَوْلِ بِالباطِلِ.
-  </p>
-</blockquote>
+> القَوْلِ بِالباطِلِ.
 
 46. There is no good in remaining silent from the truth just as there is
 no benefit in speech with ignorance.
 
 > 46ـ لا خَيْرَ فِي السُّكُوتِ عَنِ الحَقِّ، كَما أنَّهُ لاخَيْرَ فِي
-<blockquote dir="rtl">
-  <p>
-القَوْلِ بِالجَهْلِ.
-  </p>
-</blockquote>
+> القَوْلِ بِالجَهْلِ.
 
 47. One who remains safe by being silent is like the one who derives
 benefit by speaking.
 
 > 47ـ مَنْ سَكَتَ فَسَلِمَ، كَمَنْ تَكَلَّمَ فَغَنِمَ.
-
 

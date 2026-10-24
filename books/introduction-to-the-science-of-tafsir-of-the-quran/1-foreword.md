@@ -38,17 +38,13 @@ that some of its verses are of an allegorical nature while others are
 decisive; those who intend to create confusion and mischief among the
 Muslims use the allegorical verses:
 
-<blockquote dir="rtl">
-  <p>
- هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ
-هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ. فَأَمَّا الَّذِينَ فِي
-قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَآءَ
-الْفِتْنَةِ وَابْتِغَآءَ تَأْوِيلِهِ. وَمَا يَعْلَمُ تَأْوِيلَهُ
-إِلاَّ اللٌّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ
-كُلٌّ مِنْ عِنْدِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُوْلُوا
-الأَلْبَابِ
-  </p>
-</blockquote>
+>  هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ
+> هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ. فَأَمَّا الَّذِينَ فِي
+> قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَآءَ
+> الْفِتْنَةِ وَابْتِغَآءَ تَأْوِيلِهِ. وَمَا يَعْلَمُ تَأْوِيلَهُ
+> إِلاَّ اللٌّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ
+> كُلٌّ مِنْ عِنْدِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُوْلُوا
+> الأَلْبَابِ
 
 ***“He (Allah) it is Who has*** ***sent down to you the Book. In it, are
 verses basic or fundamental (of established meaning); they are the
@@ -63,15 +59,11 @@ understanding.” (Surat Ali-’Imran (3), Verse 7)***
 Again, it warns and says that if people do not approach the Qur\`an with
 an open heart, then they may be misguided by some of its contents:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ اللٌّهَ لاَ يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلاً مَا بَعُوضَةً
-فَمَا فَوْقَهَا. فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ
-الْحَقُّ مِنْ رَبِّهِمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ
-مَاذَا أَرَادَ اللٌّهُ بِهٌذَا مَثَلاً. يُضِلُّ بِهِ كَــثِيرًا
-وَيَهْدِي بِهِ كَـثِيرًا وَمَا يُضِلُّ بِهِ إِلاَّ الْفَاسِقِينَ
-  </p>
-</blockquote>
+>  إِنَّ اللٌّهَ لاَ يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلاً مَا بَعُوضَةً
+> فَمَا فَوْقَهَا. فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ
+> الْحَقُّ مِنْ رَبِّهِمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ
+> مَاذَا أَرَادَ اللٌّهُ بِهٌذَا مَثَلاً. يُضِلُّ بِهِ كَــثِيرًا
+> وَيَهْدِي بِهِ كَـثِيرًا وَمَا يُضِلُّ بِهِ إِلاَّ الْفَاسِقِينَ
 
 ***“Allah does not disdain from the use of the similitude of things,
 lowest as well as highest. Those who believe know that it is the truth
@@ -98,15 +90,11 @@ While commenting on verse 3 of Suratul Maidah (5) of the Qur\`an
 (dealing with prohibition of certain animal products such as “the meat
 of pigs”) which reads:
 
-<blockquote dir="rtl">
-  <p>
- حُرِّمَتْ عَلَيْكُمُ الْمَيْــتَةُ وَالدَّمُ وَلَحْمُ الْخِنْـزِيرِ
-وَمَا أُهِلَّ لِغَيْرِ اللٌّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ
-وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلاَّ مَا
-ذَكَّيْـتُمْ وَمَا ذُبِـحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا
-بِالأَزْلاَمِ ذٌلِكُمْ فِسْقٌ.. 
-  </p>
-</blockquote>
+>  حُرِّمَتْ عَلَيْكُمُ الْمَيْــتَةُ وَالدَّمُ وَلَحْمُ الْخِنْـزِيرِ
+> وَمَا أُهِلَّ لِغَيْرِ اللٌّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ
+> وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلاَّ مَا
+> ذَكَّيْـتُمْ وَمَا ذُبِـحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا
+> بِالأَزْلاَمِ ذٌلِكُمْ فِسْقٌ.. 
 
 ***“Forbidden to you (for food) are: dead meat, blood, the flesh of
 swine and that on which has been invoked the name of other than Allah;
@@ -138,12 +126,8 @@ includes the meat and the fat together. Describing His power of
 resurrection, Almighty Allah (awj) demonstrates the resurrection of a
 donkey that had died for a century:
 
-<blockquote dir="rtl">
-  <p>
- ...وَانْــظُرْ إِلــى الْعِظَامِ كَيْفَ نُنْشِزُهَا ثُمَّ نَكْسُوهَا
-لَحْمًا... 
-  </p>
-</blockquote>
+>  ...وَانْــظُرْ إِلــى الْعِظَامِ كَيْفَ نُنْشِزُهَا ثُمَّ نَكْسُوهَا
+> لَحْمًا... 
 
 ***“…Look at the bones and see how We construct them, and cover them
 with flesh (lahm)”***
@@ -161,5 +145,4 @@ living by it.
 
 9th July 2005  
  Sayyid Muhammad Rizvi
-
 

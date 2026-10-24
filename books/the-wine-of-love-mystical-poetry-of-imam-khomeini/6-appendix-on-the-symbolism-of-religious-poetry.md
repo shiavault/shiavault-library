@@ -319,4 +319,3 @@ Iran, or e-mail: <info@imam-khomeini.org>.
 
 [^1]: Reprinted from A Jug of Love, op. cit., pp. 27-32. (Eds.)
 
-

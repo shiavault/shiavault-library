@@ -111,4 +111,3 @@ hands of the dead body and the obligatory precaution is that he should,
 if possible, make the dead body also perForm tayammum with its own
 palms.
 
-

@@ -54,7 +54,6 @@ and
 
 There is not a nation but a warner has passed among them. (35;24)
 
-
 **24. Doctrine of the Infallibility of the Imam
 **
 We believe that, like the prophet, an Imam must be infallible, that is
@@ -70,7 +69,6 @@ An Arabic verse says:
 
 "For Allah it is not impossible:
 to unite all the world in one person."
-
 
 **25. Doctrine of the Attributes of the Imam
 and Knowledge of the Imam
@@ -123,7 +121,6 @@ In comparison with this, it has never been said of any Islamic scholar,
 narrator or scientist, in his biography, that he did not study or was
 not educated by some other scholar, or that he never had any doubts
 about any problem, for human nature has always been thus.
-
 
 **26. Doctrine of Obedience to the Imams
 **
@@ -212,7 +209,6 @@ following and obeying them; no-one can apply this interpretation unless
 he be a fanatic or totally ignorant, because this is an incorrect
 interpretation of the Arabic sentence.
 
-
 **27. Doctrine of Love for the Household of the Prophet
 **
 Allah said:
@@ -266,7 +262,6 @@ them all, otherwise he would not deserve to be loved, and Allah would
 never prefer some person to another for no reason, or if that person had
 no merit.
 
-
 **28. Our Belief in the Imams
 **
 We do not exaggerate about the Imams as some sects have done:
@@ -290,7 +285,6 @@ Whatsoever is reported about us, if it is possible for one of mankind
 and you do not understand or comprehend it, do not deny it, but you can
 attribute it to us. However, if it is impossible for anyone of mankind,
 then deny it, and do not attribute it to us.
-
 
 **29. The Imamate must be from Allah
 **
@@ -342,7 +336,6 @@ Imam 'Ali publicly declared the Imamate of Hasan and Husayn, and the
 latter declared the Imamate of his son 'Ali Zayn al-'Abidin, and
 similarly each Imam was appointed by the previous one.
 
-
 **30. Doctrine of the Number of the Imams
 **
 We believe that the Imams are twelve in number; that the Prophet
@@ -386,7 +379,6 @@ Born 23 years before the hijrah (601 A.D.), died in the year 40 A.H.
 The last is the Imam of our time, but he is absent and we are waiting
 for his reappearance, may Allah hasten it to spread justice and equity
 throughout the world, filled as it is with oppression and wrong.
-
 
 **31. Doctrine of the Mahdi
 **
@@ -460,7 +452,6 @@ incomprehensible that a Muslim should dispute the possibility of these
 things, while at the same time calling himself a believer in the
 Glorious Qur'an.
 
-
 We should remember at this point that the expectation of this saviour
 and reformer, the Mahdi, does not mean that Muslims should stand idle in
 their religion, or abandon their religious duties, but that they should
@@ -478,7 +469,6 @@ duties, and to abandon them because he is expecting the Mahdi, the one
 who brings good tidings; because such an expectation must not induce us
 to have no responsibility or duty, or to postpone any of our actions,
 and it will not leave people aimless like animals.
-
 
 **32. Doctrine of the Return (raj'ah)
 **
@@ -627,7 +617,6 @@ is compulsory; but our belief stems from the authenticated traditions of
 the Household of the Prophet, whom we know to be infallible. For it is
 one of the unseen things which they relate, and there is nothing which
 suggests that it cannot take place.
-
 
 **33. Doctrine of Dissimulation (taqiyyah)
 **

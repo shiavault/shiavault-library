@@ -909,4 +909,3 @@ nature-oriented paradigm into an intelligible framework. (2012. p 25)*
 [^1]: This question has been discussed by western thinkers such as Carl
 Gustav Jung who spoke of the awakening of dark gods and modern horror.
 
-

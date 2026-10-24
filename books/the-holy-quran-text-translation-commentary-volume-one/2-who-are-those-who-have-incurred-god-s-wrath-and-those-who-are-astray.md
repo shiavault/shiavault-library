@@ -478,7 +478,6 @@ BLINDLY WANDERING ON.
 THEY THAT HAVE BOUGHT ERROR AT THE PRICE OF GUIDANCE, AND THEIR COMMERCE
 HAS NOT PROFITED THEM, AND NOR ARE THEY ON THE RIGHT PATH.
 
-
 **THE COMMENTARY
 THE HYPOCRITES**
 
@@ -638,7 +637,6 @@ for Allah has power over all things. Alas! That they have not sought a
 safe and secure asylum to spare themselves the fearful chastisement of
 Allah.
 
-
 يَـأَيُّهَا النّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِى خَلَقَكُمْ وَالَّذِينَ
 مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ(( 21 )) 21- O, YOU PEOPLE! SERVE
 YOUR LORD WHO CREATED YOU, AND THOSE THAT WERE BEFORE YOU, PERHAPS YOU
@@ -677,5 +675,4 @@ challenges to fight with all sorts of POLYTHEISM and deviation from the
 path of truth.
 
 [ 46 ]
-
 

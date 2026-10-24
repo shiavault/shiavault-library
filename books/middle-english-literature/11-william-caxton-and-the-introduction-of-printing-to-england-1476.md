@@ -27,4 +27,3 @@ could be done for consistency in forms and spelling. Partly medieval and
 partly modern in spirit, he may fittingly stand at the close, or nearly
 at the close, of our study of the medieval period.
 
-

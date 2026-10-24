@@ -46,4 +46,3 @@ fast in its real sense, will not be complete unless your thoughts, your
 emotions, your actions – in short, all aspects of our life – become
 pure, clean and free from blemish.
 
-

@@ -303,4 +303,3 @@ translated it as “from outside.”
 
 [^3]: Al-Zamakhshari, Tafsir al-Kashsaf, Volume 3, Page 129.
 
-

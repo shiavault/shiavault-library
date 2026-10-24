@@ -90,4 +90,3 @@ workers in the child education, that was to simplify the clear and most
 perfect method and secured in bringing up a child with a sound and good
 originations, so that he gives his desired role.
 
-

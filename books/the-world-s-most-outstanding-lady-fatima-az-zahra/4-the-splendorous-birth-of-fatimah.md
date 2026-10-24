@@ -1,12 +1,8 @@
 The Splendorous Birth of Fatimah
 ================================
 
-<blockquote dir="rtl">
-  <p>
-فاطمة بضعة مني وهي نور عيني وثمرة فؤادي وروحي التي بين جنبيّ وهي
-الحوراء الانسية
-  </p>
-</blockquote>
+> فاطمة بضعة مني وهي نور عيني وثمرة فؤادي وروحي التي بين جنبيّ وهي
+> الحوراء الانسية
 
 *Fatimah is a part of me, and the light of my eyes, the fruit of my
 heart, and my soul… and she is Huri*[^1] *with Human qualities*.[^2]
@@ -106,12 +102,8 @@ this fourth that you see is the sister of Musa ibn Omran; Kolthoom!
 eyes to the world.[^6]  
  Yes, as evidence to this:
 
-<blockquote dir="rtl">
-  <p>
-قال الحق سبحانه: (ان الذين قالوا ربنا اللّه ثم استقاموا تتنزل عليه
-الملائكة ألاّ تخافوا ولا تحزنوا)
-  </p>
-</blockquote>
+> قال الحق سبحانه: (ان الذين قالوا ربنا اللّه ثم استقاموا تتنزل عليه
+> الملائكة ألاّ تخافوا ولا تحزنوا)
 
 ***“(As for) Those who say, Our Lord is Allah, Then continue in the
 right way, the angels descend upon them, saying: Fear not, nor be
@@ -125,11 +117,7 @@ ill-wishes who called him “Abtar”[^8] were forever silenced.
  God gave tidings of this blessed child to the Prophet in the Quranic
 kawthar, saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
-  </p>
-</blockquote>
+> إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
 
 ***Surely We have given you the Kawthar***
 
@@ -159,5 +147,4 @@ scholars, such as “Tabari” in “Thakhaer-ul- Uqba”
 [^7]: Qur’an, Surat Fussilat 41:30; Translation from M. H. Shakir
 
 [^8]: Meaning a man without offspring. (N.T.)
-
 

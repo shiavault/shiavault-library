@@ -16,4 +16,3 @@ Bahlool replied, “This slave didn't know how comfortable this ship was
 or what greatness and value it held. When he was thrown into the sea, he
 understood that this ship is a comfortable and relieving place.”
 
-

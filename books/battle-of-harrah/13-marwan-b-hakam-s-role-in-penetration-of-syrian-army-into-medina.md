@@ -78,4 +78,3 @@ vol. 5, p. 319.
 
 [^9]: Ibn Athīr, Al-Kāmil fī al-Ta’rīkh, vol. 4, p. 118.
 
-

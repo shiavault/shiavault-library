@@ -5,13 +5,9 @@ We read in Nahjul Balagha that Imam Ali (a) asserts that God Almighty
 throughout the history has meritorious servants to whom He talks through
 their mind and intellect. The words of Imam (a) are as follows:
 
-<blockquote dir="rtl">
-  <p>
-"وما برِح لله – عزت آلاؤه – في البرهة بعد البرهة وفي أزمان الفترات
-عباد ناجاهم في فكرهم، وكلمهم في ذات عقولهم، فاستصبحوا بنور يقظة في
-الأبصار والأسماع والأفئدة ..."
-  </p>
-</blockquote>
+> "وما برِح لله – عزت آلاؤه – في البرهة بعد البرهة وفي أزمان الفترات
+> عباد ناجاهم في فكرهم، وكلمهم في ذات عقولهم، فاستصبحوا بنور يقظة في
+> الأبصار والأسماع والأفئدة ..."
 
 "In all periods and times, particularly during the interregnum (the
 interval between the coming of two prophets) there are persons with whom
@@ -22,12 +18,8 @@ light of consciousness.[^1]
 These competent servants of Allah are the ones who are thus described in
 *"al-Munajat al-Sha'baniyya":*
 
-<blockquote dir="rtl">
-  <p>
-"الهي واجعلني ممن ناديته فأجابك ولاحظته فصَعِقَ لجلالك فناجيته سرا
-وعمل لك جهراً"
-  </p>
-</blockquote>
+> "الهي واجعلني ممن ناديته فأجابك ولاحظته فصَعِقَ لجلالك فناجيته سرا
+> وعمل لك جهراً"
 
 "O Allah! Rank me among those who will answer you when You call them,
 and will fall unconscious by the manifestation of your Light when you
@@ -45,11 +37,7 @@ guidance that is granted to the devoted and sincere *mujahids*
 This guidance is explained in a *hadith* quoted from the Holy Messenger
 of Allah (s):
 
-<blockquote dir="rtl">
-  <p>
-"اذا أراد الله بعبده خيرا فقهه في الدين، وألهمه رشده"
-  </p>
-</blockquote>
+> "اذا أراد الله بعبده خيرا فقهه في الدين، وألهمه رشده"
 
 "Whenever Allah intends good for a person, He makes them expert in
 religious law and inspires them toward the right path.[^3]"
@@ -61,12 +49,8 @@ One of the significant blessings of Divine guidance for those under His
 special training is awareness of one's own shortcomings. The Holy
 Prophet (s) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-"اذا أراد الله عز وجل بعبده خيرا فقهه في الدين، زهده في الدنيا، وبصره
-بعيوب نفسه"
-  </p>
-</blockquote>
+> "اذا أراد الله عز وجل بعبده خيرا فقهه في الدين، زهده في الدنيا، وبصره
+> بعيوب نفسه"
 
 "Whenever Allah intends good for a person, He makes them expert in
 religious law, unwilling toward the world and aware of his own
@@ -198,5 +182,4 @@ or if you leave him alone, he (still) lolls out his tongue.) فمثله كمثل
 al-Mizan, VIII, 339; Tafsir Qummi, 1, 248; Munyat al-Murid, 151.
 
 [^8]: i. e., veiled inwardly and in darkness of soul.
-
 

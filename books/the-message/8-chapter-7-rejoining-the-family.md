@@ -417,4 +417,3 @@ source of the Qur'an.
 [^6]: Taurat has narrated in detail the story of Adam and Eve in the
 book on Genesis, chapters 2 and 3.
 
-

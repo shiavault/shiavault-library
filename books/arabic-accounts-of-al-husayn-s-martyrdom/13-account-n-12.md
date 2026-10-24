@@ -82,8 +82,8 @@ Imam[^55].
 
 **Notes:**
 
-[^52] Al-Baladhuri, Ansab al-Ashraf, (Beirut, 1974), II, 86.
-[^53] Al-Baladhuri, op. cit., III, 227.
-[^54] Al-Baladhuri, op. cit., III, 173.
-[^55] Al-Baladhuri, op. cit., III, 182.
+[^52]: Al-Baladhuri, Ansab al-Ashraf, (Beirut, 1974), II, 86.
+[^53]: Al-Baladhuri, op. cit., III, 227.
+[^54]: Al-Baladhuri, op. cit., III, 173.
+[^55]: Al-Baladhuri, op. cit., III, 182.
 

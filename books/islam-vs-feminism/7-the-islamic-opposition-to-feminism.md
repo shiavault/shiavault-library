@@ -14,4 +14,3 @@ Theologically, while feminists view the divine as 'Mother and Father\*
 or as goddess, Islam considers the parent metaphor inappropriate for
 divinity and categorically denies the existence of gods and goddesses.
 
-

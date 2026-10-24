@@ -27,11 +27,7 @@ Good
 guarding [one’s] sureties and keeping ties with near relatives.
 
 > 6ـ ثَلاثٌ هُنَّ جِماعُ الخَيرِ: إسْداءُ النِّعَمِ، ورِعايَةُ
-<blockquote dir="rtl">
-  <p>
-الذِّمَمِ، وصِلَةُ الرَّحِمِ.
-  </p>
-</blockquote>
+> الذِّمَمِ، وصِلَةُ الرَّحِمِ.
 
 7. Consolidation of good is in acting on that which lasts and making
 light of that which perishes.
@@ -42,32 +38,20 @@ light of that which perishes.
 good by your beautiful [and kind] words.
 
 > 8ـ أصلِح المُسيئَ بِحُسْنِ فِعالِكَ ودُلَّ عَلَى الخَيـْرِ بِجَميلِ
-<blockquote dir="rtl">
-  <p>
-مَقالِكَ.
-  </p>
-</blockquote>
+> مَقالِكَ.
 
 9. Do good and do not consider any of it insignificant, for verily
 little of it is plenty and its doer is happy [in the Hereafter].
 
 > 9ـ اِفْعَلِ الخَيرَ ولا تُحَقِّرْ مِنْهُ شَيْئاً، فَإنَّ قَليلَهُ
-<blockquote dir="rtl">
-  <p>
-كَثيرٌ وفاعِلَهُ مَحبُورٌ.
-  </p>
-</blockquote>
+> كَثيرٌ وفاعِلَهُ مَحبُورٌ.
 
 10. Increase your gladness for that which you have sent forth of good
 deeds and [increase] your sadness for that which you have missed from
 it.
 
 > 10ـ أكثِرْ سُرُورَكَ على ما قَدَّمْتَ مِنَ الخَيرِ، وحُزْنَكَ على ما
-<blockquote dir="rtl">
-  <p>
-فاتَ مِنْهُ.
-  </p>
-</blockquote>
+> فاتَ مِنْهُ.
 
 11. The good deed that brings the quickest reward is piety.
 
@@ -78,42 +62,26 @@ for you and that which you delay [or postpone] will benefit other than
 you.
 
 > 12ـ إنَّ ما تُقَدِّمُ مِنْ خَيْر يَكُنْ لَكَ ذُخْرُهُ، وما
-<blockquote dir="rtl">
-  <p>
-تُؤَخِّـرُهُ يَكُنْ لِغَيْرِكَ خَيْرُهُ.
-  </p>
-</blockquote>
+> تُؤَخِّـرُهُ يَكُنْ لِغَيْرِكَ خَيْرُهُ.
 
 13. Indeed the best of good deeds are giving charity anonymously, being
 good with your parents and keeping ties with near relations.
 
 > 13ـ إنَّ أفْضَلَ الخَيْرِ صَدَقَةُ السِّـرِّ، وبِرُّ الوالِدَيْنِ،
-<blockquote dir="rtl">
-  <p>
-وصِلَةُ الرَّحِمِ.
-  </p>
-</blockquote>
+> وصِلَةُ الرَّحِمِ.
 
 14. Do good and do not commit evil acts, for the one who performs a good
 deed is better than it and the one who commits an evil act is more evil
 than it.
 
 > 14ـ اِفعَلِ الخَيـْرَ، ولا تَفْعَلِ الشَّـرَّ، فَخَيـْرٌ مِنَ الخَيْرِ
-<blockquote dir="rtl">
-  <p>
-مَنْ يَفْعَلُهُ، وشَرٌ مِنَ الشَّـرِّ مَنْ يَأتيهِ بِفِعْلِهِ.
-  </p>
-</blockquote>
+> مَنْ يَفْعَلُهُ، وشَرٌ مِنَ الشَّـرِّ مَنْ يَأتيهِ بِفِعْلِهِ.
 
 15. Do good deeds as much as you can, for better than the good deed is
 the one who does it.
 
 > 15ـ اِفْعَلُوا الخَيْرَ مَا اسْتَطَعْتُمْ، فَخَيْرٌ مِنَ الخَيرِ
-<blockquote dir="rtl">
-  <p>
-فاعِلُهُ.
-  </p>
-</blockquote>
+> فاعِلُهُ.
 
 16. Indeed, the most perceptive of seers is one whose gaze penetrates
 into good actions.
@@ -130,11 +98,7 @@ Allah and making enmity for the sake of Allah; [in] loving for the sake
 of Allah and hating for the sake of Allah.
 
 > 18ـ جِماعُ الخَيْرِ فِي المُوالاةِ فِي اللّهِ، والمُعاداةِ فِي اللّهِ،
-<blockquote dir="rtl">
-  <p>
-والمَحَبَّةِ فِي اللّهِ، والبُغْضِ فِي اللّهِ.
-  </p>
-</blockquote>
+> والمَحَبَّةِ فِي اللّهِ، والبُغْضِ فِي اللّهِ.
 
 19. Consolidation of good is in [performing] virtuous actions.
 
@@ -166,11 +130,7 @@ himself.
 capable of performing it.
 
 > 25ـ مَنْ لَمْ يَعْرِفْ مَنْفِعَةَ الخَيرِ لَمْ يَقْدِرْ عَلَى العَملِ
-<blockquote dir="rtl">
-  <p>
-بِهِ.
-  </p>
-</blockquote>
+> بِهِ.
 
 26. One who sends forth a good deed will find it [in the Hereafter].
 
@@ -203,12 +163,8 @@ way. Verily for good and evil there are adherents, so whenever you leave
 it, its adherents perform it in your place.
 
 > 32ـ لايَقُولَنَّ أحَدُكُمْ إنَّ أحَداً أولى بِفِعْلِ الخَيْرِ مِنّي
-<blockquote dir="rtl">
-  <p>
-فَيَكونَ واللّهِ كَذلِكَ، إنَّ لِلْخَيرِ والشَّـرِّ أهْلاً فَمَهْما
-تَرَكْتُمُوهُ كَفاكُمُوهُ أهْلُهُ.
-  </p>
-</blockquote>
+> فَيَكونَ واللّهِ كَذلِكَ، إنَّ لِلْخَيرِ والشَّـرِّ أهْلاً فَمَهْما
+> تَرَكْتُمُوهُ كَفاكُمُوهُ أهْلُهُ.
 
 33. That which you send forth of good deeds is [preserved] with the One
 who does not diminish [its] reward and that which you commit from evil
@@ -216,11 +172,7 @@ actions is [preserved] with the One who is not incapable of [meting out]
 punishment.
 
 > 33ـ ما قَدَّمْتَهُ مِنْ خَير فَعِندَ مَنْ لا يَبْخَسُ الثَّوابَ، ومَا
-<blockquote dir="rtl">
-  <p>
-ارْتَكَبْتَهُ مِنْ شَرّ فَعِندَ مَنْ لا يُعْجِزُهُ العِقابُ.
-  </p>
-</blockquote>
+> ارْتَكَبْتَهُ مِنْ شَرّ فَعِندَ مَنْ لا يُعْجِزُهُ العِقابُ.
 
 34. The essential prerequisite of good action is taking the initiative
 in [performing] it.
@@ -269,11 +221,7 @@ are corrupt.
 is only in possessing more knowledge and greater forbearance.
 
 > 44ـ لَيْسَ الخَيـْرُ أن يَكْثُرَ مالُكَ ووَلَدُكَ، إنَّما الخَيْرُ أنْ
-<blockquote dir="rtl">
-  <p>
-يَكْثُرَ عِلْمُكَ، وَيَعْظُمَ حِلْمُكَ.
-  </p>
-</blockquote>
+> يَكْثُرَ عِلْمُكَ، وَيَعْظُمَ حِلْمُكَ.
 
 45. One who advances good, gains.
 
@@ -297,15 +245,10 @@ felicitous.
 a leader in evil.
 
 > 49ـ لأن تَـكُونَ تابِعاً لِلخَيْرِ خَيرٌ لَكَ مِنْ أنْ تَـكُونَ
-<blockquote dir="rtl">
-  <p>
-مَتْبُوعاً فِي الشَّـرِّ.
-  </p>
-</blockquote>
+> مَتْبُوعاً فِي الشَّـرِّ.
 
 50. Nobody will ever be given the reward of a good action except the one
 who performs it.
 
 > 50ـ لَنْ يُجزى جَزاءَ الخَيْرِ إلاَّ فاعِلُهُ.
-
 

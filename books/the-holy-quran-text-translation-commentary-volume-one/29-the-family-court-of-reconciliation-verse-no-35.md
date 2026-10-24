@@ -607,7 +607,6 @@ pagan idolaters, they even prostrated themselves in front of the idols!
 This verse and the next one declares their judgement as blasphemy and
 void of any value, saying:
 
-
 1- Do they have any share in the kingdom, that want to judge like
 that?
 
@@ -669,5 +668,4 @@ and his faithful servant.
 58- ALLAH COMMANDS YOU TO DELIVER TRUSTS BACK TO THEIR OWNERS, AND WHEN
 YOU JUDGE BETWEEN THE PEOPLE, JUDGE WITH JUSTICE. GOOD IS THE ADMONITION
 THAT ALLAH GIVES YOU, THAT ALLAH IS ALL.- HEARING, ALL.- SEEING.
-
 

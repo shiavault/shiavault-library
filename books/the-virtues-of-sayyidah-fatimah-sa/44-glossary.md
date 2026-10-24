@@ -136,4 +136,3 @@ is applied to each of the wives of the Holy Prophet:
 
 Wali legal guardian.
 
-

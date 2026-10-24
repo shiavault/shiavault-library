@@ -20,10 +20,5 @@ nearness to Allah, has the ugliness of ostentation in it and its fruit
 is an ugly requital.
 
 > 4ـ كُلُّ حَسَنَة لايُرادُ بِها وَجْهُ اللّهِ تَعالى فَعَلَيْها قُبْحُ
-<blockquote dir="rtl">
-  <p>
-الرِّياءِ وثَمَرَتُها قُبْحُ الْجَزاءِ.
-  </p>
-</blockquote>
-
+> الرِّياءِ وثَمَرَتُها قُبْحُ الْجَزاءِ.
 

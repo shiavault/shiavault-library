@@ -354,4 +354,3 @@ created of dust.” (Sūrah Sād 38:76).
 upon a carrion by eating of which they were exposed.” Or as in sermon
 151: “They are falling upon an easy carrion.”
 
-

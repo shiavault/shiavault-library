@@ -148,4 +148,3 @@ they thought about the matter perceptively and impartially, they would
 have found that polygamy is the one and onl y solution for the problems
 and crises that befall individuals and societies.
 
-

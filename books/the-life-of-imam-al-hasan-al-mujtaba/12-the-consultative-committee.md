@@ -641,4 +641,3 @@ Imam al-Hasan and meet him at the time of the Third Caliph!
 
 [^1] Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 1, p. 194.
 
-

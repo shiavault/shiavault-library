@@ -10,7 +10,6 @@ them in his hands in humility to Allah, the High.
 (3) At the time of entering the Haram, the following supplication be
 recited:
 
-<p dir="rtl">
 اللهم انك قلت في كتابك المنزل وقولك الحق :( واذن في الناس بالحج ياتوك
 رجالا وعلى كل ضامر ياتين من كل فج عميق ) اللهم واني ارجو ان اكون ممن
 اجاب دعوتك وقد جئت من شقة بعيدة وفج عميق سامعا لندائك و مستجيبا لك مطيعا
@@ -18,7 +17,6 @@ recited:
 بذالك الزلفة عندك والقربة اليك والمنزلة لديك والمغفرة لذنوبي والتوبة علي
 منها بمنك اللهم صل على محمد وال محمد وحرم بدني على النار وامني من عذابك
 وعقابك برحمتك يا ارحم الراحمين
-</p>
 
 (Translation: O Allah, You have stated in Your Book, and Your word is
 true, "And proclaim among men the Hajj: they will come to you on foot
@@ -49,11 +47,9 @@ preferred to enter through the Baab-us-Salaam and proceed straight until
 one faces the pillars. It is recommended to stop at the door of the
 Mosque and say:
 
-<p dir="rtl">
 السلام عليك ايها النبي ورحمة الله وبركاته بسم الله وبالله ومن الله وما
 شاء الله والسلام على انبياء الله ورسله والسلام على رسول الله والسلام على
 ابراهيم خليل الله والحمد لله رب العالمين
-</p>
 
 (Translation: Salaam to you, O Prophet and may the mercy and blessings
 of Allah be on you. In the name of Allah and by Allah and by His wish.
@@ -64,14 +60,12 @@ praise is to Allah, the sustainer of the universes.)
 Then enter the Mosque concentrating on the Holy Kaaba and raising hands
 towards the sky, say:
 
-<p dir="rtl">
 اللهم اني اسالك في مقامي هذا في اول مناسكي ان تقبل توبتي وان تجاوز عن
 خطيئتي وتضع عني وزري . الحمد لله الذي بلغني بيته الحرام . اللهم اني اشهد
 ان هذا بيتك الحرام الذي جعلته مثابة للناس وامنا مباركا وهدى للعالمين
 اللهم اني عبدك والبلد بلدك والبيت بيتك جئت اطلب رحمتك واؤم طاعتك مطيعا
 لامرك راضيا بقدرك اسالك مسالة الفقير اليك الخائف لعقوبتك اللهم افتح لي
 ابواب رحمتك واستعملني بطاعتك ومرضاتك
-</p>
 
 (Translation: O Allah, I beseech You in this holy place and in the
 first of my ceremonies to accept my repentance, forgive my sins and
@@ -88,7 +82,6 @@ obedience to You and seeking Your pleasure.)
 According to another report, the following be recited at the door of
 the Mosque:
 
-<p dir="rtl">
 بسم الله وبالله ومن الله والى الله وما شاء الله وعلى الله وعلى ملة رسول
 الله صلى الله عليه واله وخير الا سماء لله والحمد لله والسلام على رسول
 الله صلى الله عليه واله والسلام على محمد بن عبد الله السلام عليك ايها
@@ -106,7 +99,6 @@ the Mosque:
 لك كفوا احد وان محمدا عبدك ورسولك صلى الله عليه وعلى اهل بيته يا جواد يا
 كريم يا ماجد يا جبار يا كريم اسالك ان تجعل تحفتك اياي بزيارتي اياك اول
 شيئ تعطيني فكاك رقبتي من النار.
-</p>
 
 (Translation: I commence by the name of Allah, by Him, from Him,
 towards Him, by His wish and on the following of the Holy Messenger
@@ -141,18 +133,14 @@ protection from the fire of Hell.)
 
 Then say thrice:
 
-<p dir="rtl">
 اللهم فك رقبتي من النار
-</p>
 
 (Translation: O Allah, protect my neck from the fire of Hell.)
 
 Then say:
 
-<p dir="rtl">
 واوسع علي من رزقك الحلال الطيب وادرا عني شر شياطين الا نس والجن وشر
 فسقة العرب والعجم
-</p>
 
 (Translation: And increase my lawful and pure sustenance and protect me
 from the evil of the devils, jinn and men and the vicious of the Arabs
@@ -160,11 +148,9 @@ and the non-Arabs.)
 
 It is recommended then to face the Black Stone and say:
 
-<p dir="rtl">
 اشهد ان لا اله الا الله وحده لا شريك له واشهد ان محمدا عبده ورسوله آمنت
 بالله وكفرت بالطاغوت وباللات والعزى وبعبادة الشياطين وبعبادة كل ند يدعى
 من دون الله
-</p>
 
 (Translation: I bear witness that there is no God but Allah, He is One
 and has no partner and that Muhammad is his servant and Messenger. I
@@ -174,12 +160,10 @@ devils and all those who call for worship other than Allah,)
 Then the pilgrim should move to the Black Stone, make salutation to it
 and say:
 
-<p dir="rtl">
 الحمد لله الذي هدانا لهذا وما كنا لنهتدي لولا ان هدانا الله سبحان الله
 والحمد لله ولا اله الا الله والله اكبر اكبر من خلقه اكبر ممن اخشى واحذر
 ولا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت ويميت
 ويحيي بيده الخير وهو على كل شيء قدير
-</p>
 
 (Translation: All praise to Allah who has provided us this guidance for
 we would not otherwise have ,been guided. Glory to Allah, all praise is
@@ -194,9 +178,7 @@ One must then send blessings on the Holy Prophet and his progeny and on
 all the Prophets as was done at the time of entry into the Holy Mosque.
 Then say:
 
-<p dir="rtl">
 اني اؤمن بوعدك وافي بعهدك
-</p>
 
 .(Translation: I believe Your word and have faith in Your promise.)
 
@@ -207,12 +189,10 @@ make salutation to the Black Stone and kiss it. If it is not possible to
 kiss it, just make salaam to it by hand and if even doing so is not
 possible, point at it and say:
 
-<p dir="rtl">
 اللهم امانتي اديتها وميثاقي تعاهدته لتشهد لي بالموافات . اللهم تصديقا
 بكتابك وعلى سنة نبيك اشهد ان لا اله الا الله وحده لا شريك له وان محمدا
 عبده ورسوله امنت بالله وكفرت بالجبت والطاغوت وباللات والعزى وعبادة
 الشيطان وعبادة كل ند يدعى من دون الله تعالى
-</p>
 
 (Translation: O Allah, I have discharged the trust reposed with me and
 fulfilled my promise so that You can be witness of my fulfilment. O
@@ -226,10 +206,8 @@ worship other than Allah.)
 If it is not possible to recite the whole of the above supplication, a
 portion of it may be recited and then say:
 
-<p dir="rtl">
 اللهم اليك بسطت يدي وفي ما عندك عظمت رغبتي فاقبل سبحتي واغفر لي وارحمني
 اللهم اني اعوذبك من الكفر والفقر ومواقف الخزي في الدنيا والا خرة
-</p>
 
 (Translation: O Allah, I have extended my hands towards You and have
 great expectations from You. Accept my endeavours, forgive me and shower
@@ -241,13 +219,11 @@ COURTESIES DURING TAWAAF
 Muawiyah bin Ammaar bin Abi Abdillah (a.s.) reports that during tawaaf
 the following supplication be made:
 
-<p dir="rtl">
 اللهم اني اسالك باسمك الذي يمشى به على طلل الماء كما يمشى به على جدد
 الارض واسالك باسمك الذي يهتز له عرشك واسالك باسمك الذي تهتزله اقدام
 ملائكتك واسالك باسمك الذي دعاك به موسى من جانب الطور فاستجبت له والقيت
 عليه محبة منك واسالك باسمك الذي غفرت به لمحمد صلى الله عليه واله ما تقدم
 من ذنبه وما تاخر واتممت عليه نعمتك ان بفعل بي
-</p>
 
 (Translation: O Allah, I beseech You by Your name which makes possible
 motion in the darkness of water as it does on land. I beseech You by
@@ -262,18 +238,14 @@ When you reach the door of the Holy Kaaba, send blessings on Muhammad
 and his holy progeny (a.s.) and say between Rukn-ul-Yamaani and the
 Black Stone:
 
-<p dir="rtl">
 ( ربنا اتنا في الدنيا حسنة وفي الا خرة حسنة وقنا عذاب النار)
-</p>
 
 (Translation: O Allah, grant me goodness in this world and the
 Hereafter and save me from the fire of Hell.)
 
 And say during tawaaf :
 
-<p dir="rtl">
 اللهم اني اليك فقير واني خائف مستجير فلا تغير جسمي ولا تبدل اسمي
-</p>
 
 (Translation: I am a beggar to You, fearful and seeking Your refuge. Do
 not change my body or my name.)
@@ -282,11 +254,9 @@ Imam Sadiq (a.s.) has said that when Ali bin Hussein (a.s.) reached the
 Hijr before reaching the Meezaab, he would raise his head and say while
 looking at the Meezaab:
 
-<p dir="rtl">
 اللهم ادخلني الجنة برحمتك واجرني برحمتك من النار وعافني من السقم واوسع
 علي من الرزق الحلال وادرا عني شر فسقة الجن والانس وشر فسقة العرب
 والعجم
-</p>
 
 (Translation: O Allah, place me in Heaven by Your mercy, save me, by
 Your mercy, from the fire, protect me from evil, increase for me lawful
@@ -296,10 +266,8 @@ non-Arabs.)
 It has been authentically reported from Abi Abdillah (a.s.) that when
 you reach the back of the Holy Kaaba having passed the Hijr, say:
 
-<p dir="rtl">
 ياذا المن والطول والجود والكرم ان عملي ضعيف فضاعفه لي وتقبله مني انك
 انت السميع العليم
-</p>
 
 (Translation: O one of bounty, might, generosity and nobility, my
 efforts are weak, make them stronger and accept them from me, verily You
@@ -308,12 +276,10 @@ are All-Hearing, All-Knowing.)
 It has ben reported from Abul Hassan Ridha (a.s.) that on reaching the
 Rukn-ul-Yamaani, one should raise hands and say:
 
-<p dir="rtl">
 يا الله ولي العافية وخالق العافية ورازق العافية والمنعم بالعافية
 والمنان بالعافية والمتفضل بالعافية علي وعلى جميع خلقك يا رحمن الدنيا
 والا خرة ورحيمهما صل على محمد وال محمد وارزقنا العافية ودوام العافية
 وتمام العافية وشكر العافية في الدنيا والا خرة يا ارحم الراحمين
-</p>
 
 (Translation: O Allah, O controller of health and its provider, one who
 grants it, one who bestows it as a reward or as a grace on me and all
@@ -327,9 +293,7 @@ completes the tawaaf and reaches the 'mustajaar' which is a little
 before the Rukn-ul-Yamaani, he must stretch his hands onto the Holy
 Kaaba, cling to it and say:
 
-<p dir="rtl">
 اللهم البيت بيتك والعبد عبدك وهذا مكان العائد بك من النار
-</p>
 
 (Translation: O Allah, this house is Yours and this creature is Yours
 and this is the place for taking refuge to You from the fire of Hell.)
@@ -338,10 +302,8 @@ Then make confession of your sins for there is no faithful who makes
 confessions to his Lord in this place without Allah forgiving him, Allah
 willing, and say:
 
-<p dir="rtl">
 اللهم من قبلك الروح والفرج والعافية اللهم ان عملي ضعيف فضاعفه لي واغفر
 لي ما اطلعت عليه مني وخفي على خلقك
-</p>
 
 (Translation: O Allah, comfort, success and health come from You. O
 Allah, my efforts are weak and so grant them strength and forgive me the
@@ -352,9 +314,7 @@ supplication. Then make salutation to the Rukn-ul-Yamaami as is stated
 in another report from him (a.s.). Then kiss the Rukn-ul-Yamaani and the
 corner in which the Black Stone is placed and say:
 
-<p dir="rtl">
 اللهم قنعني بما رزقتني وبارك لي في ما اتيتني
-</p>
 
 (Translation: O Allah , grant me contentment in the sustenance. You
 have provided me and bestow Your blessing on it.)
@@ -362,9 +322,7 @@ have provided me and bestow Your blessing on it.)
 It is recommended to make a salutation to each corner of the Holy Kaaba
 in each tawaaf and when making salaam to the Black Stone to say:
 
-<p dir="rtl">
 امانتي اديتها وميثاقي تعاهدته لتشهد لي بالوافاة
-</p>
 
 (Translation: I have discharged the trust reposed with me and fulfilled
 my promise so that You can be the witness of my fulfilment.)
@@ -379,12 +337,10 @@ Muhammad and his progeny (a.s) and pray for the acceptance of his
 efforts. It has been reported from Sadiq (a.s) that he would say in
 sajdah after the prayers as follows:
 
-<p dir="rtl">
 سجد وجهي لك تعبدا ورقا لا اله الا انت حقاحقا الاول قبل كل شيئ و الا خر
 بعد كل شيئ و ها انا ذا بين يديك ناصيتي بيدك واغفر لي ا نه لا يغفر الذنب
 العظيم غيرك فاغفرلي فاني مقر بذنوبي على نفسي ولا يدفع الذنب العظيم
 غيرك
-</p>
 
 (Translation: I prostrate before You in Your worship and service. It is
 the truth that there is no God except You. You were there before
@@ -396,9 +352,7 @@ myself and none can avert major sins except You.)
 It is recommended to drink the water from Zamzam before departing to
 Safaa and say:
 
-<p dir="rtl">
 اللهم اجعله علما نافعا ورزقا واسعا وشفاء من كل داء وسقم
-</p>
 
 (Translation: O Allah, grant me useful knowledge, abundant sustenance
 and avert from me all sickness and evil).
@@ -407,5 +361,4 @@ If possible, on completing the prayers after tawaaf, one should draw a
 bucket or two of water from Zamzam, drink a little and pour a little on
 the head, back and body and recite the supplication just above stated.
 Then one must proceed to the Black Stone and from there to Safaa.
-
 

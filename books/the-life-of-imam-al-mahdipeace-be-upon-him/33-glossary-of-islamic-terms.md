@@ -1267,7 +1267,7 @@ Zinnoorain
 
 Zuhoor
 
-:Reappearance (of Imam Mahdi <sup>[a.t.f.s.]</sup>).
+:Reappearance (of Imam Mahdi [a.t.f.s.]).
 
 Zuhr
 

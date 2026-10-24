@@ -66,4 +66,3 @@ the spring of the flower.”
 
 [^3]: Pg. 24 of Vol. 2
 
-

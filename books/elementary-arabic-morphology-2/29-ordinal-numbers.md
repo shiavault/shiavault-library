@@ -41,4 +41,3 @@ twentieth male author and the twentieth female author)
 229. All of the ordinal numbers are declinable. The exception to this is
 compound numbers, they are indeclinable with a *fathah*.
 
-

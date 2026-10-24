@@ -106,4 +106,3 @@ At any rate, Lady Zaynab(a.s.)’splace is the heart of each and every
 fact-finder. She has been too great to be contained by any tomb, and
 one’s deed depends upon his/her intent.
 
-

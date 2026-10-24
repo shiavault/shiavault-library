@@ -242,4 +242,3 @@ to give similar upbringing to my children.
 
 [^7]: Gharar al hukm, p. 124
 
-

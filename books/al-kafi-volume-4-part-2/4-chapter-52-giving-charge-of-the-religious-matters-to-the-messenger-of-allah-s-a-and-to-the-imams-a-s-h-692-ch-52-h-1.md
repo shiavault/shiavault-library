@@ -240,4 +240,3 @@ greater than what He had granted to Solomon as He has said, ". . .what
 the Messenger (of Allah) you, you must take (obey) and what he prohibits
 you, you must desist from. . ." (59:7)"
 
-

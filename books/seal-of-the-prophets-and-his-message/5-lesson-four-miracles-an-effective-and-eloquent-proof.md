@@ -260,4 +260,3 @@ which are unknown to the human being.
 
 [^1]: Bihar al-Anwar, Vol. XI, p. 70.
 
-

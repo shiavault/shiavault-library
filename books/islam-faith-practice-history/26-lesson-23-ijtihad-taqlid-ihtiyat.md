@@ -270,4 +270,3 @@ mentioned in this lesson.
 it is unfulfilled; but as soon as some person or persons has fulfilled
 it; it is no longer an obligation on those who have not fulfilled it.
 
-

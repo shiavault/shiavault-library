@@ -607,4 +607,3 @@ is equal to the number of human souls.”
  Northern State University  
  Aberdeen, South Dakota
 
-

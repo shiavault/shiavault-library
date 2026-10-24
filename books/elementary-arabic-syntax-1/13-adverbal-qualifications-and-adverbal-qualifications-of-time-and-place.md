@@ -29,4 +29,3 @@ But, not all nouns that denote a place are able to be put into the
 accusative case, only words that are not clear are able to be put into
 the accusative case, for example directions or distances.
 
-

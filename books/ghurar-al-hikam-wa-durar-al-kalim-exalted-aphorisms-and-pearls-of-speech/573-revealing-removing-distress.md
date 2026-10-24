@@ -11,10 +11,5 @@ Revealing & Removing Distress
 to remove the distress [and adversity] from another person.
 
 > 2ـ ما مِنْ عَمَل أحَبَّ إلَى اللّهِ تَعالى مِنْ ضُرّ يَكْشِفُهُ رَجْلٌ
-<blockquote dir="rtl">
-  <p>
-عَنْ رَجُل.
-  </p>
-</blockquote>
-
+> عَنْ رَجُل.
 

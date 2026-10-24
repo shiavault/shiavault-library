@@ -80,4 +80,3 @@ funeral procession passed by us and I noticed some men removing a marble
 flag from the middle of the great courtyard to lower the body there.
 Therefore I thought that these people were crying for their lost one.
 
-

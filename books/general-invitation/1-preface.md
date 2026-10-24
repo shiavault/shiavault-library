@@ -28,4 +28,3 @@ created such a fear in their hearts that one of the leaders of
 infidelity (Abu Lahab) broke the silence of the people and said: "Woe be
 to you! Did you call us for this thing?" Then the people dispersed
 
-

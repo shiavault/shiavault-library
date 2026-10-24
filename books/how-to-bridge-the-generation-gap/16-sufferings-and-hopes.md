@@ -17,4 +17,3 @@ feel ashamed and sorrowful. The more I disobey you, the sorrier I
 become. I pledge that from now on, I would be beneficial to you. If not
 that, at least I would not cause you any harm.
 
-

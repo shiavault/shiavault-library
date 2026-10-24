@@ -172,4 +172,3 @@ will therefore require a later development in which the notion of
 creative discovery is tackled along with its connection with the
 Aristotelian concept of*practical truth* .
 
-

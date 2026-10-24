@@ -17,4 +17,3 @@ emotions, and to bring tears to the eyes. It seems that as long as there
 remains any trace of humanity in the world, these sermons shall continue
 to exercise their original power and influence
 
-

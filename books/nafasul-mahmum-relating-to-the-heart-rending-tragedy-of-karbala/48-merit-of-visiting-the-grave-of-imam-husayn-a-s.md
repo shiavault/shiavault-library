@@ -616,4 +616,3 @@ torment if he is an evil-doer. Ref. Qur’anic Verse: ‘And after them
 shall be a barrier (barzakh) until the day they shall be raised again.’
 (Surah al Mu’menoon, 23:100).
 
-

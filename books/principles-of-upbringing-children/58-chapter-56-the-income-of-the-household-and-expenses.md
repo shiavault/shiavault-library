@@ -125,4 +125,3 @@ expenses.
 
 [^5]: Wasail al-shiah, v 21, p. 41
 
-

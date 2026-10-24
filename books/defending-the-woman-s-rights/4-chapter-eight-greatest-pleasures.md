@@ -111,7 +111,6 @@ punishment ..." 2
 Islami Qom, 1369.
 2 Qanun wa Shakhsiyyat, p.2.
 
-
 **Chapter Nine : Woman's Mission**
 
 The human being is a free creature, who can decide overtly, and choose
@@ -231,7 +230,6 @@ duties shall increase in the future, rather than decrease ..." 1
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 I The Third Wave, p.490.
 
-
 **Chapter Ten : Consultation with Woman**
 
 Family is a small society. Managing this small society is so hard and
@@ -348,7 +346,6 @@ not impose his own opinion and tendency on the others.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Majma' al-Bayan, 9& 10/ 309.
-
 
 **Chapter Eleven : Superiority**
 
@@ -642,5 +639,4 @@ personality.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Mustadrak al-Wasa'il, 14/252; Sheikh Nuri narrates this tradition
 from Da'a'im al-Islam.
-
 

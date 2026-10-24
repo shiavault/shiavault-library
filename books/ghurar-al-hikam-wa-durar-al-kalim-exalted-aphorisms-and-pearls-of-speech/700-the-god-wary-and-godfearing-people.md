@@ -7,52 +7,32 @@ The God-Wary And Godfearing People
 who purifies himself of faults.
 
 > 1ـ اَلْمُتَّقي مَنِ اتَّقَى الذُّنُوبَ، والمُتَنَزِّهُ مَنْ تَنَزَّهَ
-<blockquote dir="rtl">
-  <p>
-عَنِ العُيُوبِ.
-  </p>
-</blockquote>
+> عَنِ العُيُوبِ.
 
 2. The God-wary are those whose souls are chaste and whose needs are
 few; people hope for good from them and feel secure from their evil.
 
 > 2ـ اَلْمُتَّقُونَ أنْفُسُهُمْ عَفِيفَةٌ، وحاجاتَهُمْ خَفِيْفَةٌ،
-<blockquote dir="rtl">
-  <p>
-وخَيْراتُهُمْ مَأمُولَةٌ، وَشُرُُورُهُمْ مَأمُونَةٌ.
-  </p>
-</blockquote>
+> وخَيْراتُهُمْ مَأمُولَةٌ، وَشُرُُورُهُمْ مَأمُونَةٌ.
 
 4. The God-wary are those whose souls are content, whose lustful desires
 are dead and whose faces are cheerful while their hearts are sad.
 
 > 3ـ اَلْمُتَّقُونَ أنْفُسُهُمْ قانِعَةٌ، وَشَهَواتُهُمْ مَيْتَةٌ،
-<blockquote dir="rtl">
-  <p>
-ووُجُوهُهُمْ مُسْتَبْشِرَةٌ، وَقُلُوبُهُمْ مَحْزُونَةٌ.
-  </p>
-</blockquote>
+> ووُجُوهُهُمْ مُسْتَبْشِرَةٌ، وَقُلُوبُهُمْ مَحْزُونَةٌ.
 
 5. The God-wary are those whose actions are pure, whose eyes are tearful
 and whose hearts are fearful.
 
 > 4ـ اَلْمُتَّقُونَ أعْمالُهُمْ زاكِيَةٌ، وأعْيُنُهُمْ باكِيَةٌ،
-<blockquote dir="rtl">
-  <p>
-وقُلُوبُهُمْ وَجِلَةٌ.
-  </p>
-</blockquote>
+> وقُلُوبُهُمْ وَجِلَةٌ.
 
 6. The God-wary person is one whose lustful desire is dead, whose anger
 is suppressed, and who is thankful in times of comfort and patient in
 times of hardships.
 
 > 5ـ اَلمُتَّقي مَيْتَةٌ شَهْوَتُهُ، مَكْظُومٌ غَيْظُهُ، فِي الرَّخاءِ
-<blockquote dir="rtl">
-  <p>
-شَكُورٌ، وفِي المَكارِهِ صَبُورٌ.
-  </p>
-</blockquote>
+> شَكُورٌ، وفِي المَكارِهِ صَبُورٌ.
 
 7. Verily the God-wary are all those [believers] who are generous,
 chaste and benevolent.
@@ -65,12 +45,8 @@ in their worldly benefits, while the people of this world shall not
 share with them in their Hereafter.
 
 > 7ـ إنَّ المُتَّقينَ ذَهَبُوا بِعاجِلِ الدُّنْيا والآخِرَةِ، شارَكُوا
-<blockquote dir="rtl">
-  <p>
-أهْلَ الدُّنْيا في دُنْياهُمْ، ولَمْ يُشارِكْهُمْ أهْلُ الدُّنْيا في
-آخِرَتِهِمْ.
-  </p>
-</blockquote>
+> أهْلَ الدُّنْيا في دُنْياهُمْ، ولَمْ يُشارِكْهُمْ أهْلُ الدُّنْيا في
+> آخِرَتِهِمْ.
 
 9. The God-wary are those whose hearts are sad and from whose evil
 people are safe.
@@ -85,11 +61,7 @@ people are safe.
 preparing provisions for the [final] journey.
 
 > 10ـ شيمَةُ الأتْقياءِ اِغْتِنامُ الْمُهْلَةِ، والتَّزَوُّدُ
-<blockquote dir="rtl">
-  <p>
-لِلرِّحْلَةِ.
-  </p>
-</blockquote>
+> لِلرِّحْلَةِ.
 
 12. Indeed successful is the God-wary person who [always] remains
 silent.
@@ -101,34 +73,22 @@ restraint from corruption and [a strong] desire for reforming the
 Hereafter.
 
 > 12ـ لِلْمُتَّقي هُديً في رَشاد، وتَحَرُّجٌ عَنْ فَساد، وحِرْصٌ في
-<blockquote dir="rtl">
-  <p>
-إصْلاحِ مَعاد.
-  </p>
-</blockquote>
+> إصْلاحِ مَعاد.
 
 14. There are three signs of a God-wary person: [his] sincerity in
 action, [his] shortening of hopes [and aspirations] and [his] taking
 advantage of respite.
 
 > 13ـ لِلْمُتَّقي ثَلاثُ عَلامات: إخْلاصُ العَمَلِ، وقَصْرُ الأمَلِ،
-<blockquote dir="rtl">
-  <p>
-واغْتِنامُ المَهَلِ.
-  </p>
-</blockquote>
+> واغْتِنامُ المَهَلِ.
 
 15. If the heavens and earth were closed upon a servant and then he
 became God-wary, Allah would surely make for him a way out from them and
 provide for him from whence he does not reckon.
 
 > 14ـ لَوْ أنَّ السَّماواتِ والأرَضَ كانَتا عَلى عَبْد رَتْقاً ثُمَّ
-<blockquote dir="rtl">
-  <p>
-اتَّقَى اللّهَ لَجَعَلَ اللّهُ لَهُ مِنْهُما مَخْرَجاً ورَزَقَهُ مِنْ
-حَيْثُ لايَحْتَسِبُ.
-  </p>
-</blockquote>
+> اتَّقَى اللّهَ لَجَعَلَ اللّهُ لَهُ مِنْهُما مَخْرَجاً ورَزَقَهُ مِنْ
+> حَيْثُ لايَحْتَسِبُ.
 
 16. One who is on his guard remains safe.
 
@@ -163,11 +123,7 @@ successful.
 him a way out of every distress.
 
 > 22ـ مَنِ اتَّقَى اللّهَ سُبْحانَهُ جعَلَ لَهُ مِنْ كُلِّ هَمّ فَرَجاً
-<blockquote dir="rtl">
-  <p>
-ومِنْ كُلِّ ضيق مَخْرَجاً.
-  </p>
-</blockquote>
+> ومِنْ كُلِّ ضيق مَخْرَجاً.
 
 24. Whoever fears Allah, He protects him.
 
@@ -194,11 +150,6 @@ of tranquillity, and they will pleased with their dwelling and
 residence.
 
 > 27ـ وَسيقَ الَّذينَ اتَّقَوْا رَبَّهُمْ إلَى الجَنَّةِ زُمَراً قَدْ
-<blockquote dir="rtl">
-  <p>
-أُمِنَ العِقابُ، وانْقَطَعَ العِتابُ، وزُحْزِحُوا عَنِ النّارِ،
-واطْمَئَنَّتْ بِهِمُ الدّارُ،وَ رَضُوا الْمَثْوى وَالقَرارَ.
-  </p>
-</blockquote>
-
+> أُمِنَ العِقابُ، وانْقَطَعَ العِتابُ، وزُحْزِحُوا عَنِ النّارِ،
+> واطْمَئَنَّتْ بِهِمُ الدّارُ،وَ رَضُوا الْمَثْوى وَالقَرارَ.
 

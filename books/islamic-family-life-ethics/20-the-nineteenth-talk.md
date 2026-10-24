@@ -66,12 +66,8 @@ father wants his son to be permanently enslaved to him and do his
 bidding. This is completely wrong. Such people deal a terrific blow to
 love, create tensions and destroy homes.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كانَ عاقِبَةَ الَّذينَ أَساؤُا السُّواى‏ أَنْ كَذَّبُوا بِآياتِ
-اللَّهِ وَ كانُوا بِها يَسْتَهْزِؤُن
-  </p>
-</blockquote>
+> ثُمَّ كانَ عاقِبَةَ الَّذينَ أَساؤُا السُّواى‏ أَنْ كَذَّبُوا بِآياتِ
+> اللَّهِ وَ كانُوا بِها يَسْتَهْزِؤُن
 
 ***Then the fate of those who committed misdeeds was that they denied
 the signs of Allah and they used to deride them.*** ***(Sura ar-Rum, 30:
@@ -90,11 +86,7 @@ similar problems. In the Hereafter, this discord that she has created
 will assume the form of fire and entwine itself around her feet. At
 another place, the Holy Quran uses a more stern language:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْفِتْنَةُ أَشَدُّ مِنَ الْقَتْل
-  </p>
-</blockquote>
+> وَ الْفِتْنَةُ أَشَدُّ مِنَ الْقَتْل
 
 ***…..for persecution is worse than slaughter…..(*** ***Sura al Baqarah,
 2: 191)***
@@ -104,12 +96,8 @@ worse that murder. The sin of killing someone is so great that if
 someone kills an innocent person, it is equal to killing the entire
 mankind:
 
-<blockquote dir="rtl">
-  <p>
-مَن قَتَلَ نَفْسَا بِغَيرِْ نَفْسٍ أَوْ فَسَادٍ فىِ الْأَرْضِ
-فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا
-  </p>
-</blockquote>
+> مَن قَتَلَ نَفْسَا بِغَيرِْ نَفْسٍ أَوْ فَسَادٍ فىِ الْأَرْضِ
+> فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا
 
 ***…whosoever killeth a human being for other than man-slaughter or
 corruption in the earth, it shall be as if he had killed all mankind,
@@ -269,5 +257,4 @@ have grave consequences.
 I make a fervent appeal to the parents not to interfere in the affairs
 of their grown-up children. Leave them free to carve their own futures.
 Do not hurt others - worry about your Hereafter.
-
 

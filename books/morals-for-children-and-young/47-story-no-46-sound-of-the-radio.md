@@ -17,4 +17,3 @@ person in the house.
 lot of keeping the rights of neighbours.  
  This action of yours is against the morals and etiquettes of Islam”.
 
-

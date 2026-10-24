@@ -663,4 +663,3 @@ Mu'jam Rijali 'l-Hadith, 23 vols., 3rd ed. (Beirut, 1403/1983), vol. 1,
 pp. 157 ‑ 64; al‑A'lam, 10 vols. 3rd ed. (Beirut, 1389/1969), vol. 1, p.
 21.
 
-

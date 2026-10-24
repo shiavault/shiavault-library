@@ -94,4 +94,3 @@ Nasr. S. H. 1964: Three Muslim Sages: Avicenna, Suhrawardi, Ibn 'Arabi
 Wolfson, H. A. 1976: The Philosophy of the Kalam (Cambridge, Mass.:
 Harvard University Press).
 
-

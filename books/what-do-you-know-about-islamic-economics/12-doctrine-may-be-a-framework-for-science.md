@@ -49,4 +49,3 @@ not have to research distribution. Preconditioning a certain doctrinal
 frame for the scientific laws of distribution made those who put forth
 such a claim imagine that those laws are doctrinal in nature.
 
-

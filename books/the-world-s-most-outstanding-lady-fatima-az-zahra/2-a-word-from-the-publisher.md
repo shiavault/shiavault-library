@@ -1,11 +1,7 @@
 A word from the publisher
 =========================
 
-<blockquote dir="rtl">
-  <p>
-فاطمة بضعة مني
-  </p>
-</blockquote>
+> فاطمة بضعة مني
 
 *Fatimah is a part of my Flesh*[^1]. (The Holy Prophet)
 
@@ -54,5 +50,4 @@ of the Personal identity of this honourable Family.
 **Naba’ Organization**
 
 [^1]: رياحين الشريعة، ج2 ص 2 Rayaheen Ashariaa vol.2 pg. 2.
-
 

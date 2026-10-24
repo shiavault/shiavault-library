@@ -352,4 +352,3 @@ their lances--supposedly a sign to let God's word decide the conflict.
 [^13]: Ashura: The tenth of Muharram, celebrated as a day of mourning
 (the anniversary of the martyrdom of Imam Al- Hussein (a).)
 
-

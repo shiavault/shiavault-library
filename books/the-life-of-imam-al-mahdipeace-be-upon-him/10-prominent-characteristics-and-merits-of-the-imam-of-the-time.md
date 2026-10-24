@@ -28,7 +28,7 @@ world.
 1. His Eminence, Amirul Momineen (a.s) says with regard to the virtues
 of Imam Mahdi (a.s), “He shall be most refuge-giving and the one having
 most knowledge and the one who does the most ‘Sile Raham’ (doing good to
-relatives).”<sup>[1]</sup>
+relatives).”[1]
 
 ------------------------------------------------------------------------
 
@@ -38,25 +38,25 @@ relatives).”<sup>[1]</sup>
 Abdillah Husain Bin Ali (a.s), ‘From what would the Mahdi be
 recognizeda’ He replied, ‘By recognizing the permissible and the
 prohibited and by the fact that people would be needful of him while he
-would not be needful of them.’”<sup>[1]</sup>
+would not be needful of them.’”[1]
 
 3. His Eminence, Imam Muhammad Baqir (a.s) said, “His matter, that is,
 Kingdom would be from the youngest and the most handsome of us (the
 Progeny of Muhammad). The Almighty Allah would give him knowledge in
 inheritance and not leave him on his own (rather He is his helper and
-supporter).”<sup>[2]</sup>
+supporter).”[2]
 
 4. His Eminence, Imam Muhammad Baqir (a.s) said, “Knowledge of Almighty
 Allah, the Mighty and Sublime and the Sunnah (practice) of the Messenger
 of Allah (a.s) grows luxuriantly in the heart of our Mahdi in the best
 form. Any of you that survives and sees it should say when you see him:
 ‘Peace be upon you (all) of Ahle Bayt of Mercy and Prophethood and the
-mines of knowledge and the location of messengership.’”<sup>[3]</sup>
+mines of knowledge and the location of messengership.’”[3]
 
 Under the discussion of his excellent knowledge and accomplishments of
 His Eminence it is narrated that when he would reappear, he will discuss
 and prove his points with the Jews on the basis of Torah as a result of
-which a majority of them would accept Islam.<sup>[4]</sup>
+which a majority of them would accept Islam.[4]
 
 His Eminence, Mahdi (a.s) during the minor occultation, was the sole
 point of reference and the greatest center of the final decision.
@@ -90,16 +90,16 @@ history. Some of them are presented below:
 
 a. Muammar Ibne Khuld has narrated from Imam Reza (a.s) the he said,
 “The dress and food of the Qaim of the Progeny of Muhammad shall be
-coarse and dry.”<sup>[1]</sup>
+coarse and dry.”[1]
 
 b. Abu Basir has quoted that Imam Sadiq (a.s) said, “Do not be in haste
 of the advent and reappearance of the Imam of the time. By Allah, his
 dress shall be coarse and his food, barley bread, thick and
-dense.”<sup>[2]</sup>
+dense.”[2]
 
 c. Ali Ibne Hamzah and Wahab have narrated from Imam Sadiq (a.s) that he
 proclaimed regarding His Eminence, the Awaited Imam, “His dress is
-coarse and thick and his food is hard and rigid.”<sup>[3]</sup>
+coarse and thick and his food is hard and rigid.”[3]
 
 ------------------------------------------------------------------------
 
@@ -1128,7 +1128,7 @@ bestows existence and is the originator of all creatures. In the same
 way the supplication also proves that His Eminence, begs to the Almighty
 for help and success over the enemies of Allah and the prophets. And
 also desires that his helpers should be gathered so that the religion
-may be enlivened and bestow exaltation of the Kalimah.<sup>[2]</sup>
+may be enlivened and bestow exaltation of the Kalimah.[2]
 
 ### Another Supplication of the Imam of the time
 
@@ -1177,7 +1177,7 @@ wa la tukhlifu almi\`ada
 
 وَلاَ تُخْلِفُ الْمِيعَادَ
 
-and You have power over all things.<sup>[1]</sup>
+and You have power over all things.[1]
 
 wa anta \`ala kulli shay'in qadirun
 
@@ -1581,7 +1581,7 @@ sustenance of God among all the poor people in such a way that not a
 single poor and needy person would remain on the face of the earth; so
 much so, that a person who desires to pay his Zakat to the eligible one
 would not be able to find a single recipient of alms. Some of these
-types of traditions are presented below:<sup>[1]</sup>
+types of traditions are presented below:[1]
 
 a. Abu Saeed Khudri has narrated from the Prophet of Islam, in the
 events of His Eminence, Mahdi (a.s) that he said, "A man comes to him
@@ -1590,7 +1590,7 @@ the extent of what he could lift."
 
 b. Ibne Asakir has quoted from the Messenger of Allah (a.s) that he
 said, "In the last age there would be a caliph who would pile up
-wealth."<sup>[2]</sup>
+wealth."[2]
 
 ------------------------------------------------------------------------
 
@@ -1615,7 +1615,7 @@ Quran. All the wealth of the earth that is on its surface and below its
 surface would be gathered with him. Then he would say, 'O People! Come
 towards that for which you had severed relations and spilled blood on
 the earth and committed things prohibited by God.' Then he would give so
-much wealth to them as had never been given.<sup>[1]</sup>
+much wealth to them as had never been given.[1]
 
 And other traditions that prove that His Eminence is a sea of mercy and
 generosity are those that mention that His Eminence would deal with the

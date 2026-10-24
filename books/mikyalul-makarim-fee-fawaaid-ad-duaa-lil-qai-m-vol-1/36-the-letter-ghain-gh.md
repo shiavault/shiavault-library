@@ -113,17 +113,9 @@ discomfort from our decisions and those that submit to us, Ahle Bayt
 
 Regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِالْخُنَّسِ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِالْخُنَّسِ
 
-<blockquote dir="rtl">
-  <p>
-الْجَوَارِ الْكُنَّسِ
-  </p>
-</blockquote>
+> الْجَوَارِ الْكُنَّسِ
 
 ***“But nay! I swear by the stars. That run their course (and) hide
 themselves.” (Qur’an, Surah Takwir 81:15-16)***
@@ -236,12 +228,8 @@ every hardship would become easy for him. His companions numbering same
 as the fighters of Badr would gather around him from far off places of
 the earth. And that is the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ
-عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ
+> عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“Wherever you are, Allah will bring you all together; surely Allah
 has power over all things.” (Qur’an, Surah Baqarah 2:148)***
@@ -398,12 +386,8 @@ In the *Tawqee* of Hazrat Hujjat quoted in *Ihtijaaj* it is mentioned:
 “And as for the reason for my occultation, Allah, the Mighty and Sublime
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ
-تُبْدَ لَكُمْ تَسُؤْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ
+> تُبْدَ لَكُمْ تَسُؤْكُمْ
 
 ***“O you who believe! do not put questions about things which if
 declared to you may trouble you.” (Qur’an, Surah Maidah 5:101)***
@@ -436,11 +420,7 @@ neck of His Eminence, as this reason has been stated before in the
 3. Test And Trial Of The People
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِيُمَحِّصَ اللَّهُ الَّذِينَ آمَنُوا وَيَمْحَقَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَلِيُمَحِّصَ اللَّهُ الَّذِينَ آمَنُوا وَيَمْحَقَ الْكَافِرِينَ
 
 ***“And that He may purge those who believe and deprive the unbelievers
 of blessings.” (Qur’an, Surah Aale Imran 3:141)***
@@ -476,11 +456,7 @@ Almighty Allah wants that the practices of His prophets in their
 occultation should also occur on him. And O Sudair, his occultation must
 come to an end. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
-  </p>
-</blockquote>
+> لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
 
 ***“That you shall most certainly enter one state after another.”
 (Qur’an, Surah Inshiqaq 84:19)***
@@ -583,12 +559,8 @@ forbid! That we fix (predict) a time for it.” I asked: “My master, what
 is the reason for it?” He replied: “Because it is the Hour regarding
 which the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا
-عِلْمُهَا عِنْدَ رَبِّي ۖ لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا
+> عِلْمُهَا عِنْدَ رَبِّي ۖ لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ
 
 ***“They ask you about the hour, when will be its taking place? Say: The
 knowledge of it is only with my Lord; none but He shall manifest it at
@@ -627,11 +599,7 @@ it to 140 years. We told you about it and you divulged it to others
 removing the veil over the secrecy. The Almighty Allah also delayed it
 further and He did not fix any other time for us because:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
 
 ***“Allah makes to pass away and establishes what He pleases, and with
 Him is the basis of the Book.” (Qur’an, Surah Raad 13:39)***
@@ -916,20 +884,12 @@ In the book, *al-Muhajja* it is narrated from Zurarah that he said:
 His Eminence, Abu Ja’far Baqir (as) said regarding the following verses
 of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَقَاتِلُوا الْمُشْرِكِينَ كَافَّةً كَمَا يُقَاتِلُونَكُمْ كَافَّةً
-  </p>
-</blockquote>
+> وَقَاتِلُوا الْمُشْرِكِينَ كَافَّةً كَمَا يُقَاتِلُونَكُمْ كَافَّةً
 
 ***“…and fight the polytheists all together as they fight you all
 together…”***
 
-<blockquote dir="rtl">
-  <p>
-وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ
-  </p>
-</blockquote>
+> وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ
 
 ***“…and religion should be only for Allah…”***[^54]
 
@@ -1069,5 +1029,4 @@ matter of His Eminence. After that his special representatives appeared…
 [^54]: Surah Anfaal 8:39 & Surah Taubah 9:36
 
 [^55]: Al-Muhajja, Pg. 734
-
 

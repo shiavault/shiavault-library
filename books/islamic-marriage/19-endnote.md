@@ -12,4 +12,3 @@ following books: *Youth and Spouse Selection by* Ali Akber Mazaheri,
 *Principles of Marriage and Family Ethics* by Ibrahim Amini and *A Gift
 for the Youth* by Shabeeb Rizvi.
 
-

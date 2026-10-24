@@ -860,4 +860,3 @@ with the position of the daughters. Hence, before treating these
 marriages to be a source of honour the actual position of the daughters
 (i.e. their real parentage) must be kept in view.
 
-

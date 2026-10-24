@@ -38,13 +38,9 @@ forgiveness from Allah. One of these, he says, is *al-khalwa*
 surmise, the total abandonment of the society for the sake of worship.
 He says:
 
-<blockquote dir="rtl">
-  <p>
-وفائدتها دفع الشواغل وضبط السمع والبصر, فانهما دهليزا القلب يدخل منهما
-اليه من الشواغل و المفاسد والوساوس ما يزعجه ويغيره عما هو عليه من
-قصده, فلا بد من ضبطها, وليس يمكن ذلك الا بالخلوة في مكان مظلم...
-  </p>
-</blockquote>
+> وفائدتها دفع الشواغل وضبط السمع والبصر, فانهما دهليزا القلب يدخل منهما
+> اليه من الشواغل و المفاسد والوساوس ما يزعجه ويغيره عما هو عليه من
+> قصده, فلا بد من ضبطها, وليس يمكن ذلك الا بالخلوة في مكان مظلم...
 
 The benefit of seclusion is that it frees oneself from preoccupations
 and enables one to control his hearing and sight. For verily these two
@@ -137,5 +133,4 @@ the contrary, if we were to uproot the causes of distraction, we would
 easily be able to soar towards the proximity of Allah.
 
 [^3]: Mawla Fayd Kashani , al-Mahajjatu'l Bayda', v.l, p.376
-
 

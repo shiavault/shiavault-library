@@ -46,4 +46,3 @@ are these conditions!”
 Have you courage enough to try to fulfill these ‘tough’ conditions in
 this Ramadhan and be freed from the chain of past sins?
 
-

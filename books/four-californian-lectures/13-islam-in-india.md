@@ -96,4 +96,3 @@ our eyes to some other aspects.
 writers of India. See, for example, Khushwant Singh, A History of the
 Sikhs, vol. 1 (N.J.: Princeton University Press, 1963) pp. 20-28.
 
-

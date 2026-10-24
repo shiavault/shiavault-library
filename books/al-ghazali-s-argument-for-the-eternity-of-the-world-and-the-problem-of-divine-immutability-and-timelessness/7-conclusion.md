@@ -42,4 +42,3 @@ Al-Ghazali, therefore, is highly commended for his ingenious foray into
 philosophical arguments in favor of the existence of a finite universe
 that responds to the actsof a sovereign God.
 
-

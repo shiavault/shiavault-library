@@ -7,31 +7,15 @@ apostle will also be questioned -Deeds will be measured justly.
 Surah Al-‘A’raf, Verses 1-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-المص
-  </p>
-</blockquote>
+> المص
 
-<blockquote dir="rtl">
-  <p>
-كِتَابٌ أُنزِلَ إِلَيْكَ فَلاَ يَكُن فِي صَدْرِكَ حَرَجٌ مِّنْهُ
-لِتُنذِرَ بِهِ وَذِكْرَى لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> كِتَابٌ أُنزِلَ إِلَيْكَ فَلاَ يَكُن فِي صَدْرِكَ حَرَجٌ مِّنْهُ
+> لِتُنذِرَ بِهِ وَذِكْرَى لِلْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-اتَّبِعُواْ مَا أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلاَ تَتَّبِعُواْ
-مِن دُونِهِ أَوْلِيَاء قَلِيلاً مَّا تَذَكَّرُونَ
-  </p>
-</blockquote>
+> اتَّبِعُواْ مَا أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلاَ تَتَّبِعُواْ
+> مِن دُونِهِ أَوْلِيَاء قَلِيلاً مَّا تَذَكَّرُونَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***  
 **1.** ***"'Alif 'A', Lam 'L', Mim 'M', Sad ''S'."***  
@@ -113,19 +97,11 @@ The Qur'anic word 'tathakkur', here, means: ' to learn little by little
 Surah Al-‘A’raf, Verses 4 - 5
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَم مِّن قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءهَا بَأْسُنَا بَيَاتًا أَوْ
-هُمْ قَآئِلُونَ
-  </p>
-</blockquote>
+> وَكَم مِّن قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءهَا بَأْسُنَا بَيَاتًا أَوْ
+> هُمْ قَآئِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءهُمْ بَأْسُنَا إِلاَّ أَن قَالُواْ
-إِنَّا كُنَّا ظَالِمِينَ
-  </p>
-</blockquote>
+> فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءهُمْ بَأْسُنَا إِلاَّ أَن قَالُواْ
+> إِنَّا كُنَّا ظَالِمِينَ
 
 **4.** ***"And how many a town that We have destroyed, Our punishment
 came unto them by night or while they slept at midday."***  
@@ -161,18 +137,10 @@ for the one.
 Surah Al-‘A’raf, Verses 6 - 7
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ
-الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ
+> الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَنَقُصَّنَّ عَلَيْهِم بِعِلْمٍ وَمَا كُنَّا غَآئِبِينَ
-  </p>
-</blockquote>
+> فَلَنَقُصَّنَّ عَلَيْهِم بِعِلْمٍ وَمَا كُنَّا غَآئِبِينَ
 
 **6.** ***"Then certainly We will question those to whom (Our
 messengers) were sent, and certainly We will also question the
@@ -245,12 +213,8 @@ incomes, and the expenses will be questioned.
 Surah Al-‘A’raf, Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَن ثَقُلَتْ مَوَازِينُهُ
-فَأُوْلَـئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَن ثَقُلَتْ مَوَازِينُهُ
+> فَأُوْلَـئِكَ هُمُ الْمُفْلِحُونَ
 
 **8.** ***"And the measuring that Day will be just. Then whoever's a
 scale be heavy, those are they who shall be prosperous."***
@@ -306,12 +270,8 @@ retributions are wholly based on justice.
 Surah Al-‘A’raf, Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُوْلَـئِكَ الَّذِينَ خَسِرُواْ
-أَنفُسَهُم بِمَا كَانُواْ بِآيَاتِنَا يِظْلِمُونَ
-  </p>
-</blockquote>
+> وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُوْلَـئِكَ الَّذِينَ خَسِرُواْ
+> أَنفُسَهُم بِمَا كَانُواْ بِآيَاتِنَا يِظْلِمُونَ
 
 **9.** ***"And whoever's a scale be light, those are they who have
 ruined their selves for they used to be unjust unto Our Signs."***
@@ -332,12 +292,8 @@ selves for they used to be unjust unto Our Signs."***
 Surah Al-‘A’raf, Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ مَكَّنَّاكُمْ فِي الأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا
-مَعَايِشَ قَلِيلاً مَّا تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ مَكَّنَّاكُمْ فِي الأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا
+> مَعَايِشَ قَلِيلاً مَّا تَشْكُرُونَ
 
 **10.** ***"And certainly We have given you power in the earth, and We
 have made the means of livelihood for you in it, (but) little it is that
@@ -376,5 +332,4 @@ The verse says:
 Al-Kahf, No.18, Verse 44.
 
 [^4]: "That is the True (sure) Day ..." Surah An-Naba', No.78, Verse 39.
-
 

@@ -471,4 +471,3 @@ This was the brief situation in Arabia concurrent with the rise of
 Islam with reference to its historical background which bears relation
 with our subsequent discussions.
 
-

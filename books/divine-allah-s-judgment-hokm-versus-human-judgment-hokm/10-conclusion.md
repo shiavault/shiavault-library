@@ -33,4 +33,3 @@ matters. May Allah (SWT) reward Muhammad (SA) and his purified
 household, and praise be to Him for guiding us for we would not have
 been guided if He (SWT) did not guide us.
 
-

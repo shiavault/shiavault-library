@@ -650,4 +650,3 @@ and misunderstanding is due to the annals narrated about this issue from
 women- loving man, and this is the motive for writing this book. In the
 next chapter, we will discuss some of these narrations.
 
-

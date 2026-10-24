@@ -123,4 +123,3 @@ his reign.
 reported it in his Sahih Part 12 "Hukm of Al-Fei" (The wealth which is
 acquired from enemies of Islam) p.77.
 
-

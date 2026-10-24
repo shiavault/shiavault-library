@@ -120,4 +120,3 @@ is the guide of man's external life and acts, is also the guide for the
 spiritual life, and the inner dimension of human life and religious
 practice depends upon his guidance.
 
-

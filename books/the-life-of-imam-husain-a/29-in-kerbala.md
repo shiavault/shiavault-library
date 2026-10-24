@@ -2,7 +2,7 @@ In Kerbala
 ==========
 
 The caravan of the Purified Progeny halted and camped at Kerbala on
-Thursday, 2<sup>nd</sup> of Mohurrum 61 A.H.,**[1]** while a condition
+Thursday, 2nd of Mohurrum 61 A.H.,**[1]** while a condition
 of distress and anxiety reigned upon them as they were now sure that a
 terrible disaster was to befall them. Imam knew the hardships of his
 mission and the terrible disasters that were to befall him had become

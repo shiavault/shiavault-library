@@ -130,4 +130,3 @@ disbelievers are averse.
 
 ***The Author***
 
-

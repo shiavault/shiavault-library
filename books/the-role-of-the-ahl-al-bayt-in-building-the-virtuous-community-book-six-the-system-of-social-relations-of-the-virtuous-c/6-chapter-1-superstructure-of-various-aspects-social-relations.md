@@ -61,33 +61,21 @@ often the key to building good social relations with others.
 Through a valid chain of authority, Shaykh al-Kulayni has reported Imam
 al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ عَزَّ وَجَلَّ يُحِبُّ إِفْشَاءَ السَّلاَمِ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ عَزَّ وَجَلَّ يُحِبُّ إِفْشَاءَ السَّلاَمِ.
 
 *Verily, Allah the Almighty and Majestic likes offering salutation.*[^2]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ التَّوَاضُعِ أَنْ تُسَلِّمَ عَلَى مَنْ لَقِيتَ.
-  </p>
-</blockquote>
+> مِنَ التَّوَاضُعِ أَنْ تُسَلِّمَ عَلَى مَنْ لَقِيتَ.
 
 *To greet everyone you meet is a sort of modesty.*[^3]
 
 Instructing Imam ‘Ali (‘a), the Holy Prophet (S) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثٌ كَفَّارَاتٌ: إِفْشَاءُ السَّلاَمِ، وَإِطْعَامُ الطَّعَامِ،
-وَالصَّلاَةُ بِاللَّيْلِ وَالنَّاسُ نِيَامٌ.
-  </p>
-</blockquote>
+> ثَلاَثٌ كَفَّارَاتٌ: إِفْشَاءُ السَّلاَمِ، وَإِطْعَامُ الطَّعَامِ،
+> وَالصَّلاَةُ بِاللَّيْلِ وَالنَّاسُ نِيَامٌ.
 
 *Three characteristics make amends for sins: (1) offering salutation,
 (2) feeding the needy, (3) offering prayers at night when others are
@@ -101,12 +89,8 @@ and associations with others.
 
 Imam al-Sadiq (‘a) quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُكُمْ أَحْسَنُكُمْ أَخْلاَقاً، الْمُوَطَّأُونَ أَكْنَافاً،
-الَّذِينَ يَأْلَفُونَ وَيُؤْلَفُونَ، وَتُوطَأُ رِحَالُهُمْ.
-  </p>
-</blockquote>
+> أَفْضَلُكُمْ أَحْسَنُكُمْ أَخْلاَقاً، الْمُوَطَّأُونَ أَكْنَافاً،
+> الَّذِينَ يَأْلَفُونَ وَيُؤْلَفُونَ، وَتُوطَأُ رِحَالُهُمْ.
 
 *The best of you are those with the best manners, whose ‘sides are
 generously prepared’,*[^5] *who have close relationships with people and
@@ -120,22 +104,14 @@ forbidden in Islam have grave consequences.
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ خَيْرِ فِي الْمُهَاجَرَةِ.
-  </p>
-</blockquote>
+> لاَ خَيْرِ فِي الْمُهَاجَرَةِ.
 
 *There is no good in breaking away (from others).*[^7]
 
 Imam al-Baqir (‘a) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مُؤْمِنَيْنِ اهْتَجَرَا فَوْقَ ثَلاَثٍ إِلاَّ وَبَرِئْتُ
-مِنْهُمَا فِي الثَّالِثَةِ.
-  </p>
-</blockquote>
+> مَا مِنْ مُؤْمِنَيْنِ اهْتَجَرَا فَوْقَ ثَلاَثٍ إِلاَّ وَبَرِئْتُ
+> مِنْهُمَا فِي الثَّالِثَةِ.
 
 *I will definitely disavow any pair of believers who forsake each other
 for more than three days.*
@@ -146,11 +122,7 @@ include the wronged party, too?”
 The Imam (‘a) answered:
 
 > مَا بَالُ الْمَظْلُومِ لاَ يَصِيرُ إِلَى الظَّالِمِ فَيَقُولُ: \<أَنَا
-<blockquote dir="rtl">
-  <p>
-الظَّالِمُ.\حَتَّى يَصْطَلِحَا؟
-  </p>
-</blockquote>
+> الظَّالِمُ.\حَتَّى يَصْطَلِحَا؟
 
 *Why did the wronged party not go to the wronging party and claim that
 he was the wronging party so that they would make peace?*[^8]
@@ -158,13 +130,9 @@ he was the wronging party so that they would make peace?*[^8]
 Al-Qasim ibn al-Rabi’ has reported that he heard Imam al-Sadiq (‘a), in
 his instruction to al-Mufadhdhal, saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَفْتَرِقُ رَجُلاَنِ عَلَى الْهِجْرَانِ إِلاَّ اسْتَوْجَبَ
-أَحَدُهُمَا الْبَرَاءَةَ وَاللَّعْنَةَ، وَرُبَّمَا اسْتَحَقَّ ذَلِكَ
-كِلاَهُمَا.
-  </p>
-</blockquote>
+> لاَ يَفْتَرِقُ رَجُلاَنِ عَلَى الْهِجْرَانِ إِلاَّ اسْتَوْجَبَ
+> أَحَدُهُمَا الْبَرَاءَةَ وَاللَّعْنَةَ، وَرُبَّمَا اسْتَحَقَّ ذَلِكَ
+> كِلاَهُمَا.
 
 *Whenever two men leave one another and become estranged, one of them
 must be worth disavowal and curse, and sometimes both parties are worthy
@@ -179,13 +147,9 @@ The Imam (‘a) answered:
 > مِنْ كَلاَمِهِ. سَمِعْتُ أَبِي عَلَيْهِ السَّلاَمُ يَقُولُ: إِذَا
 > تَنَازَعَ اثْنَانِ فَعَازَّ أَحَدُهُمَا الآخَرُ فَلْيَرْجِعِ
 > الْمَظْلُومُ إِلَى صَاحِبِهِ حَتَّى يَقُولَ لِصَاحِبِهِ: \<أَيْ أَخِي،
-<blockquote dir="rtl">
-  <p>
-أَنَا الظَّالِمُ.\حَتَّى يَقْطَعَ الْهِجْرَانُ بَيْنَهُ وَبَيْنَ
-صَاحِبِهِ، فَإِنَّ اللهَ تَبَارَكَ وَتَعَالَى حَكَمٌ عَدْلٌ يَأْخُذُ
-لِلْمَظْلُومِ مِنَ الظَّالِمِ.
-  </p>
-</blockquote>
+> أَنَا الظَّالِمُ.\حَتَّى يَقْطَعَ الْهِجْرَانُ بَيْنَهُ وَبَيْنَ
+> صَاحِبِهِ، فَإِنَّ اللهَ تَبَارَكَ وَتَعَالَى حَكَمٌ عَدْلٌ يَأْخُذُ
+> لِلْمَظْلُومِ مِنَ الظَّالِمِ.
 
 *The wronged party may also be cursed because he does not call the other
 party to reconcile…I heard my father saying, “If two (of our Shi’ah)
@@ -198,14 +162,10 @@ of the wronged party.”*[^9]
 Imam al-Sadiq (‘a) has also reported on the authority of his father that
 the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّمَا مُسْلِمَيْنِ تَهَاجَرَا فَمَكَثَا ثَلاَثاً لاَ يَصْطَلِحَانِ
-إِلاَّ كَانَا خَارِجَيْنِ مِنَ الإِسْلاَمِ، وَلَمْ يَكُنْ بَيْنَهُمَا
-وِلاَيَةٌ، فَأَيُّهُمَا سَبَقَ إِلَى كَلاَمِ أَخِيهِ كَانَ السَّابِقَ
-إِلَى الْجَنَّةِ يَوْمَ الْحِسَابِ.
-  </p>
-</blockquote>
+> أَيُّمَا مُسْلِمَيْنِ تَهَاجَرَا فَمَكَثَا ثَلاَثاً لاَ يَصْطَلِحَانِ
+> إِلاَّ كَانَا خَارِجَيْنِ مِنَ الإِسْلاَمِ، وَلَمْ يَكُنْ بَيْنَهُمَا
+> وِلاَيَةٌ، فَأَيُّهُمَا سَبَقَ إِلَى كَلاَمِ أَخِيهِ كَانَ السَّابِقَ
+> إِلَى الْجَنَّةِ يَوْمَ الْحِسَابِ.
 
 *Verily, any two Muslims that become estranged and refrain from
 reconciliation within three days will have certainly abandoned the
@@ -246,13 +206,9 @@ traditions forbid such associations.
 For instance, Imam al-Sadiq (‘a) has reported on the authority of his
 fathers that the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثَةٌ مُجَالَسَتُهُمْ تُمِيتُ الْقَلْبَ: الْجُلُوسُ مَعَ
-الأَنْذَالِ، وَالْحَدِيثُ مَعَ النِّسَاءِ، وَالْجُلُوسُ مَعَ
-الأَغْنِيَاءِ.
-  </p>
-</blockquote>
+> ثَلاَثَةٌ مُجَالَسَتُهُمْ تُمِيتُ الْقَلْبَ: الْجُلُوسُ مَعَ
+> الأَنْذَالِ، وَالْحَدِيثُ مَعَ النِّسَاءِ، وَالْجُلُوسُ مَعَ
+> الأَغْنِيَاءِ.
 
 *Association with the following three categories of people desensitizes
 hearts: (1) sitting with dishonest or unscrupulous people, (2) talking
@@ -261,12 +217,8 @@ to women, and (3) sitting with the rich.*[^11]
 Imam al-Sadiq (‘a) has also reported Imam ‘Ali the Commander of the
 Faithful (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَرَّضَ نَفْسَهُ لِلتُّهْمَةِ فَلاَ يَلُومَنَّ مَنْ أَسَاءَ بِهِ
-الظَّنَّ، وَمَنْ كَتَمَ سِرَّهُ كَانَتِ الْخِيَرَةُ فِي يَدِهِ.
-  </p>
-</blockquote>
+> مَنْ عَرَّضَ نَفْسَهُ لِلتُّهْمَةِ فَلاَ يَلُومَنَّ مَنْ أَسَاءَ بِهِ
+> الظَّنَّ، وَمَنْ كَتَمَ سِرَّهُ كَانَتِ الْخِيَرَةُ فِي يَدِهِ.
 
 *Whoever engages himself in situations of accusation should not blame
 those who have a bad idea about him. Whoever conceals his secrets will
@@ -275,12 +227,8 @@ have public decisions in his hand.*[^12]
 Imam al-Ridha (‘a) is reported to have quoted Imam al-Sadiq (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّقُوا مَوَاقِفَ الرَّيْبِ، وَلاَ يَقِفِنَّ أَحَدُكُمْ مَعَ أُمِّهِ
-فِي الطَّرِيقِ، فَإِنَّهُ لَيْسَ كُلُّ أَحَدٍ يَعْرِفُهَا.
-  </p>
-</blockquote>
+> إِتَّقُوا مَوَاقِفَ الرَّيْبِ، وَلاَ يَقِفِنَّ أَحَدُكُمْ مَعَ أُمِّهِ
+> فِي الطَّرِيقِ، فَإِنَّهُ لَيْسَ كُلُّ أَحَدٍ يَعْرِفُهَا.
 
 *Avoid situations that bring about ill reputation. Avoid stopping even
 with your mothers in public places, because not everyone knows that this
@@ -293,14 +241,10 @@ Some traditions warn against this.
 
 Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَصْحَبُوا أَهْلَ الْبِدَعِ، وَلاَ تُجَالِسُوهُمْ فَتَكُونُوا
-عِنْدَ النَّاسِ كَوَاحِدٍ مِنْهُمْ. وَقَالَ رَسُولُ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ وَسَلَّمَ: الْمَرْءُ عَلَى دِينِ خَلِيلِهِ
-وَقَرِينِهِ.
-  </p>
-</blockquote>
+> لاَ تَصْحَبُوا أَهْلَ الْبِدَعِ، وَلاَ تُجَالِسُوهُمْ فَتَكُونُوا
+> عِنْدَ النَّاسِ كَوَاحِدٍ مِنْهُمْ. وَقَالَ رَسُولُ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ وَسَلَّمَ: الْمَرْءُ عَلَى دِينِ خَلِيلِهِ
+> وَقَرِينِهِ.
 
 *Do not accompany heretics and do not participate in their sessions,
 lest people equate you with them. The Messenger of Allah (S) has said,
@@ -316,14 +260,10 @@ keeps.
 Imam ‘Ali the Commander of the Faithful (‘a) is reported to have quoted
 the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أُنْظُرُوا مَنْ تُحَادِثُونَ، فَإِنَّهُ لَيْسَ مِنْ أَحَدٍ يَنْزِلُ
-بِهِ الْمَوْتُ إِلاَّ مُثِّلَ لَهُ أَصْحَابُهُ إِلَى اللهِ، فَإِنْ
-كَانُوا خِيَاراً فَخِيَاراً، وَإِنْ كَانُوا شِرَاراً فَشِرَاراً،
-وَلَيْسَ أَحَدٌ يَمُوتُ إِلاَّ تُمُثِّلْتُ لَهُ عِنْدَ مَوْتِهِ.
-  </p>
-</blockquote>
+> أُنْظُرُوا مَنْ تُحَادِثُونَ، فَإِنَّهُ لَيْسَ مِنْ أَحَدٍ يَنْزِلُ
+> بِهِ الْمَوْتُ إِلاَّ مُثِّلَ لَهُ أَصْحَابُهُ إِلَى اللهِ، فَإِنْ
+> كَانُوا خِيَاراً فَخِيَاراً، وَإِنْ كَانُوا شِرَاراً فَشِرَاراً،
+> وَلَيْسَ أَحَدٌ يَمُوتُ إِلاَّ تُمُثِّلْتُ لَهُ عِنْدَ مَوْتِهِ.
 
 *Inspect those with whom you exchange discourses. At the hour of death,
 Almighty Allah will display everyone’s companions before him. If
@@ -333,12 +273,8 @@ everyone’s* *death, I will be shown to him, too.*[^15]
 
 Imam al-Ridha (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عِيسَى عَلَيْهِ السَّلاَمُ: إِنَّ صَاحِبَ الشَّرِّ يُعْدِي،
-وَقَرِينُ السُّوءِ يُرْدِي، فَانْظُرْ مَنْ تُقَارِنُ.
-  </p>
-</blockquote>
+> قَالَ عِيسَى عَلَيْهِ السَّلاَمُ: إِنَّ صَاحِبَ الشَّرِّ يُعْدِي،
+> وَقَرِينُ السُّوءِ يُرْدِي، فَانْظُرْ مَنْ تُقَارِنُ.
 
 *Jesus (‘a) said: Truly, an evil companion infects and a wicked
 associate leads to perdition. So, inspect those whom you keep company
@@ -358,26 +294,22 @@ cowards, and foolish people.
 
 Imam al-Sadiq (‘a) has reported the following:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ أَمِيرُ الْمُؤْمِنِينَ إِذَا صَعِدَ الْمِنْبَرَ قَالَ: يَنْبَغِي
-لِلْمُسْلِمِ أَنْ يَتَجَنَّبَ مُؤَاخَاةَ ثَلاَثَةٍ: الْمَاجِنِ
-الْفَاجِرِ، وَالأَحْمَقِ، وَالْكَذَّابِ. فَأَمَّا الْمَاجِنُ
-الْفَاجِرُ فَيُزَيِّنُ لَكَ فِعْلَهُ، وَيُحِبُّ أَنْ تَكُونَ مِثْلَهُ،
-وَلاَ يُعِينُكَ عَلَى أَمْرِ دِينِكَ وَمَعَادِكَ، وَمُقَارَبَتُهُ
-جَفَاءٌ وَقَسْوَةٌ، وَمَدْخَلُهُ وَمَخْرَجُهُ عَارٌ عَلَيْكَ. وَأَمَّا
-الأَحْمَقُ فَإِنَّهُ لاَ يُشِيرُ عَلَيْكَ بِخَيْرٍ، وَلاَ يُرْجَى
-لِصَرْفِ السُّوءِ عَنْكَ وَلَوْ أَجْهَدَ نَفْسَهُ، وَرُبَّمَا أَرَادَ
-مَنْفَعَتَكَ فَضَرَّكَ، فَمَوْتُهُ خَيْرٌ مِنْ حَيَاتِهِ، وَسُكُوتُهُ
-خَيْرٌ مِنْ نُطْقِهِ، وَبُعْدُهُ خَيْرٌ مِنْ قُرْبِهِ. وَأَمَّا
-الْكَذَّابُ فَإِنَّهُ لاَ يُهْنِئُكَ مَعَهُ عَيْشٌ. يَنْقِلُ حَدِيثَكَ
-وَيَنْقِلُ إِلَيْكَ الْحَدِيثَ. كُلَّمَا أَفْنَى أُحْدُوثَةً مَطَّهَا
-بِأُخْرَى مِثْلِهَا، حَتَّى إِنَّهُ يُحَدِّثُ بِالصِّدْقِ فَمَا
-يُصَدَّقُ، وَيُفَرِّقُ بَيْنَ النَّاسِ بِالْعَدَاوَةِ فَيُنْبِتُ
-السَّخَائِمَ فِي الصُّدُورِ. فَاتَّقُوا اللهَ وَانْظُرُوا
-لأَِنْفُسِكُمْ.
-  </p>
-</blockquote>
+> كَانَ أَمِيرُ الْمُؤْمِنِينَ إِذَا صَعِدَ الْمِنْبَرَ قَالَ: يَنْبَغِي
+> لِلْمُسْلِمِ أَنْ يَتَجَنَّبَ مُؤَاخَاةَ ثَلاَثَةٍ: الْمَاجِنِ
+> الْفَاجِرِ، وَالأَحْمَقِ، وَالْكَذَّابِ. فَأَمَّا الْمَاجِنُ
+> الْفَاجِرُ فَيُزَيِّنُ لَكَ فِعْلَهُ، وَيُحِبُّ أَنْ تَكُونَ مِثْلَهُ،
+> وَلاَ يُعِينُكَ عَلَى أَمْرِ دِينِكَ وَمَعَادِكَ، وَمُقَارَبَتُهُ
+> جَفَاءٌ وَقَسْوَةٌ، وَمَدْخَلُهُ وَمَخْرَجُهُ عَارٌ عَلَيْكَ. وَأَمَّا
+> الأَحْمَقُ فَإِنَّهُ لاَ يُشِيرُ عَلَيْكَ بِخَيْرٍ، وَلاَ يُرْجَى
+> لِصَرْفِ السُّوءِ عَنْكَ وَلَوْ أَجْهَدَ نَفْسَهُ، وَرُبَّمَا أَرَادَ
+> مَنْفَعَتَكَ فَضَرَّكَ، فَمَوْتُهُ خَيْرٌ مِنْ حَيَاتِهِ، وَسُكُوتُهُ
+> خَيْرٌ مِنْ نُطْقِهِ، وَبُعْدُهُ خَيْرٌ مِنْ قُرْبِهِ. وَأَمَّا
+> الْكَذَّابُ فَإِنَّهُ لاَ يُهْنِئُكَ مَعَهُ عَيْشٌ. يَنْقِلُ حَدِيثَكَ
+> وَيَنْقِلُ إِلَيْكَ الْحَدِيثَ. كُلَّمَا أَفْنَى أُحْدُوثَةً مَطَّهَا
+> بِأُخْرَى مِثْلِهَا، حَتَّى إِنَّهُ يُحَدِّثُ بِالصِّدْقِ فَمَا
+> يُصَدَّقُ، وَيُفَرِّقُ بَيْنَ النَّاسِ بِالْعَدَاوَةِ فَيُنْبِتُ
+> السَّخَائِمَ فِي الصُّدُورِ. فَاتَّقُوا اللهَ وَانْظُرُوا
+> لأَِنْفُسِكُمْ.
 
 *Whenever he ascended the minbar (to deliver a speech), Imam ‘Ali (‘a)
 would say, “A Muslim should avoid befriending three categories of
@@ -402,15 +334,11 @@ uncivilized, and the illegitimate.
 
 ‘Ammar ibn Musa has reported that Imam al-Sadiq (‘a) advised him saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَمَّارُ، إِنْ كُنْتَ تُحِبُّ أَنْ تَسْتَتِبَّ لَكَ النِّعْمَةُ،
-وَتَكْمُلَ لَكَ الْمُرُوءَةُ، وَتَصْلُحَ لَكَ الْمَعِيشَةُ فَلاَ
-تُشَارِكِ الْعَبِيدَ وَالسِّفْلَةَ فِي أَمْرِكَ، فَإِنَّهُمْ إِنِ
-ائْتَمَنْتَهُمْ خَانُوكَ، وَإِنْ حَدَّثُوكَ كَذَبُوكَ، وَإِنْ نُكِبْتَ
-خَذَلُوكَ، وَإِنْ وَعَدُوكَ أَخْلَفُوكَ.
-  </p>
-</blockquote>
+> يَا عَمَّارُ، إِنْ كُنْتَ تُحِبُّ أَنْ تَسْتَتِبَّ لَكَ النِّعْمَةُ،
+> وَتَكْمُلَ لَكَ الْمُرُوءَةُ، وَتَصْلُحَ لَكَ الْمَعِيشَةُ فَلاَ
+> تُشَارِكِ الْعَبِيدَ وَالسِّفْلَةَ فِي أَمْرِكَ، فَإِنَّهُمْ إِنِ
+> ائْتَمَنْتَهُمْ خَانُوكَ، وَإِنْ حَدَّثُوكَ كَذَبُوكَ، وَإِنْ نُكِبْتَ
+> خَذَلُوكَ، وَإِنْ وَعَدُوكَ أَخْلَفُوكَ.
 
 *O ‘Ammar, if you want graces to be poured on you constantly, manliness
 to be perfected for you, and livelihood to be stable for you, you must
@@ -421,14 +349,10 @@ if they promise you anything, they will fail to fulfill it.*
 
 ‘Ammar ibn Musa has also reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ الأَبْرَارِ لِلأَبْرَارِ ثَوَابٌ لِلأَبْرَارِ، وَحُبُّ
-الْفُجَّارِ لِلأَبْرَارِ فَضِيلَةٌ لِلأَبْرَارِ، وَبُغْضُ الْفُجَّارِ
-لِلأَبْرَارِ زَيْنٌ لِلأَبْرَارِ، وَبُغْضُ الأَبْرَارِ لِلْفُجَّارِ
-خِزْيٌ عَلَى الْفُجَّارِ.
-  </p>
-</blockquote>
+> حُبُّ الأَبْرَارِ لِلأَبْرَارِ ثَوَابٌ لِلأَبْرَارِ، وَحُبُّ
+> الْفُجَّارِ لِلأَبْرَارِ فَضِيلَةٌ لِلأَبْرَارِ، وَبُغْضُ الْفُجَّارِ
+> لِلأَبْرَارِ زَيْنٌ لِلأَبْرَارِ، وَبُغْضُ الأَبْرَارِ لِلْفُجَّارِ
+> خِزْيٌ عَلَى الْفُجَّارِ.
 
 *The love of the righteous for the righteous is a reward for the
 righteous. The love of the sinful for the righteous is a merit for the
@@ -438,12 +362,8 @@ for the sinful.*[^18]
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-خَمْسَةٌ يُجْتَنَبُونَ عَلَى كُلِّ حَالٍ: الْمَجْذُومُ وَالأَبْرَصُ
-وَالْمَجْنُونُ وَوِلْدُ الزِّنَى وَالأَعْرَابِيُّ.
-  </p>
-</blockquote>
+> خَمْسَةٌ يُجْتَنَبُونَ عَلَى كُلِّ حَالٍ: الْمَجْذُومُ وَالأَبْرَصُ
+> وَالْمَجْنُونُ وَوِلْدُ الزِّنَى وَالأَعْرَابِيُّ.
 
 *The following five categories of people must be avoided under all
 circumstances: (1) the leprous, (2) the mycobacterial,*[^19] *(3) the
@@ -458,14 +378,10 @@ traditions:
 
 Imam al-Sadiq (‘a) has reported his fathers (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-سِتَّةٌ لاَ يُسَلَّمُ عَلَيْهِمْ: الْيَهُودِيُّ وَالنَّصْرَانِيُّ
-وَالرَّجُلُ عَلَى غَائِطِهِ، وَعَلَى مَوَائِدِ الْخَمْرِ، وَعَلَى
-الشَّاعِرِ الَّذِي يَقْذِفُ الْمُحْصَنَاتِ، وَعَلَى الْمُتَفَكِّهِينَ
-بِسَبِّ الأُمَّهَاتِ.
-  </p>
-</blockquote>
+> سِتَّةٌ لاَ يُسَلَّمُ عَلَيْهِمْ: الْيَهُودِيُّ وَالنَّصْرَانِيُّ
+> وَالرَّجُلُ عَلَى غَائِطِهِ، وَعَلَى مَوَائِدِ الْخَمْرِ، وَعَلَى
+> الشَّاعِرِ الَّذِي يَقْذِفُ الْمُحْصَنَاتِ، وَعَلَى الْمُتَفَكِّهِينَ
+> بِسَبِّ الأُمَّهَاتِ.
 
 *The following six categories of people must not be saluted: (1) the
 Jews, (2) the Nazerites, (3) men while discharging excrement, (4) men
@@ -480,14 +396,10 @@ like) is permissible.
 Similarly, al-Asbagh ibn Nubatah has reported Imam ‘Ali the Commander of
 the Faithful (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-سِتَّةٌ لاَ يَنْبَغِي أَنْ يُسَلَّمَ عَلَيْهِمْ: الْيَهُودُ
-وَالنَّصَارَى، وَأَصْحَابُ النَّرْدِ وَالشُّطْرَنْجِ، وَأَصْحَابُ
-الْخَمْرِ وَالْبُرْبُطِ وَالطَّنْبُورِ، وَالْمُتَفَكِّهُونَ بِسَبِّ
-الأُمَّهَاتِ، وَالشُّعَرَاءُ.
-  </p>
-</blockquote>
+> سِتَّةٌ لاَ يَنْبَغِي أَنْ يُسَلَّمَ عَلَيْهِمْ: الْيَهُودُ
+> وَالنَّصَارَى، وَأَصْحَابُ النَّرْدِ وَالشُّطْرَنْجِ، وَأَصْحَابُ
+> الْخَمْرِ وَالْبُرْبُطِ وَالطَّنْبُورِ، وَالْمُتَفَكِّهُونَ بِسَبِّ
+> الأُمَّهَاتِ، وَالشُّعَرَاءُ.
 
 *The following six categories of people must not be saluted: (1) the
 Jews and the Nazerites, (2) those playing backgammon and chess, (3)
@@ -522,23 +434,15 @@ narration as well as the following one.
 Imam al-Sadiq (‘a), in the famous tradition of prohibitions (*hadith
 al-manahi*), is reported to has said:
 
-<blockquote dir="rtl">
-  <p>
-وَكَرِهَ أَنْ يُكَلِّمَ الرَّجُلُ مَجْذُوماً إِلاَّ أَنْ يَكُونَ
-بَيْنَهُ وَبَيْنَهُ قَدْرَ ذِرَاعٍ.
-  </p>
-</blockquote>
+> وَكَرِهَ أَنْ يُكَلِّمَ الرَّجُلُ مَجْذُوماً إِلاَّ أَنْ يَكُونَ
+> بَيْنَهُ وَبَيْنَهُ قَدْرَ ذِرَاعٍ.
 
 *It is recommended for men to speak to a leprous individual from a
 distance of one arm between them.*
 
 He (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-فُرَّ مِنَ الْمَجْذُومِ فَرَارَكَ مِنَ الأَسَدِ.
-  </p>
-</blockquote>
+> فُرَّ مِنَ الْمَجْذُومِ فَرَارَكَ مِنَ الأَسَدِ.
 
 *Flee from the leprous as you flee from a lion.*[^23]
 
@@ -565,15 +469,11 @@ personally participated in them.
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-تَزَاوَرُوا فَإِنَّ فِي زِيَارَتِكُمْ إِحْيَاءً لِقُلُوبِكُمْ،
-وَذِكْراً لأَِحَادِيثِنَا، وَأَحَادِيثُنَا تُعَطِّفُ بَعْضَكُمْ عَلَى
-بَعْضٍ، فَإِنْ أَخَذْتُمْ بِهَا رُشِدْتُمْ وَنَجَوْتُمْ، وَإِنْ
-تَرَكْتُمُوهَا ضَلَلْتُمْ وَهَلَكْتُمْ، فَخُذُوا بِهَا وَأَنَا
-بِنَجَاتِكُمْ زَعِيمٌ.
-  </p>
-</blockquote>
+> تَزَاوَرُوا فَإِنَّ فِي زِيَارَتِكُمْ إِحْيَاءً لِقُلُوبِكُمْ،
+> وَذِكْراً لأَِحَادِيثِنَا، وَأَحَادِيثُنَا تُعَطِّفُ بَعْضَكُمْ عَلَى
+> بَعْضٍ، فَإِنْ أَخَذْتُمْ بِهَا رُشِدْتُمْ وَنَجَوْتُمْ، وَإِنْ
+> تَرَكْتُمُوهَا ضَلَلْتُمْ وَهَلَكْتُمْ، فَخُذُوا بِهَا وَأَنَا
+> بِنَجَاتِكُمْ زَعِيمٌ.
 
 *(I advise you to) exchange visits, for such visits activate your hearts
 and make you mention our discourses. Verily, our discourses lead you to
@@ -587,14 +487,10 @@ mentioned on page 46 there are other traditions, such as the following:
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا اجْتَمَعَ ثَلاَثَةٌ مِنَ الْمُؤْمِنِينَ فَصَاعِداً إِلاَّ حَضَرَ
-مِنَ الْمَلاَئِكَةِ مِثْلُهُمْ، فَإِنْ دَعَوْا بِخَيْرٍ أَمَّنُوا،
-وَإِنِ اسْتَعَاذُوا مِنْ شَرٍّ دَعَوُا اللهَ لِيَصْرِفَهُ عَنْهُمْ،
-وَإِنْ سَأَلُوا حَاجَةً شَفَعُوا إِلَى اللهِ وَسَأَلُوهُ قَضَاءَهَا.
-  </p>
-</blockquote>
+> مَا اجْتَمَعَ ثَلاَثَةٌ مِنَ الْمُؤْمِنِينَ فَصَاعِداً إِلاَّ حَضَرَ
+> مِنَ الْمَلاَئِكَةِ مِثْلُهُمْ، فَإِنْ دَعَوْا بِخَيْرٍ أَمَّنُوا،
+> وَإِنِ اسْتَعَاذُوا مِنْ شَرٍّ دَعَوُا اللهَ لِيَصْرِفَهُ عَنْهُمْ،
+> وَإِنْ سَأَلُوا حَاجَةً شَفَعُوا إِلَى اللهِ وَسَأَلُوهُ قَضَاءَهَا.
 
 *Whenever three or more faithful believers meet, angels of their same
 number are surely present with them. When they (i.e. the believers)
@@ -606,17 +502,13 @@ intercede on their behalf and pray to Him to respond.‌*[^25]*‌*
 Mu’attab, Imam al-Sadiq’s manumitted slave, has reported that he heard
 his master saying to Dawud ibn Sarhan:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَاوُدُ، أَبْلِغْ مَوَالِيَّ عَنِّي السَّلاَمَ، وَإِنِّي أَقُولُ:
-رَحِمَ اللهُ عَبْداً إجْتَمَعَ مَعَ آخَرَ فَتَذَاكَرَا أَمْرَنَا،
-فَإِنَّ ثَالِثَهُمَا مَلَكٌ يَسْتَغْفِرُ لَهُمَا، وَمَا اجْتَمَعَ
-اثْنَانِ عَلَى ذِكْرِنَا إِلاَّ بَاهَى اللهُ تَعَالَى بِهِمَا
-الْمَلائِكَةَ، فَإِذَا اجْتَمَعْتُمْ فَاشْتَغِلُوا بِالذِّكْرِ،
-فَإِنَّ فِي اجْتِمَاعِكُمْ وَمُذَاكَرَتِكُمْ إِحْيَاءَنَا، وَخَيْرُ
-النَّاسِ بَعْدَنَا مَنْ ذَاكَرَ بِأَمْرِنَا وَدَعَا إِلَى ذِكْرِنَا.
-  </p>
-</blockquote>
+> يَا دَاوُدُ، أَبْلِغْ مَوَالِيَّ عَنِّي السَّلاَمَ، وَإِنِّي أَقُولُ:
+> رَحِمَ اللهُ عَبْداً إجْتَمَعَ مَعَ آخَرَ فَتَذَاكَرَا أَمْرَنَا،
+> فَإِنَّ ثَالِثَهُمَا مَلَكٌ يَسْتَغْفِرُ لَهُمَا، وَمَا اجْتَمَعَ
+> اثْنَانِ عَلَى ذِكْرِنَا إِلاَّ بَاهَى اللهُ تَعَالَى بِهِمَا
+> الْمَلائِكَةَ، فَإِذَا اجْتَمَعْتُمْ فَاشْتَغِلُوا بِالذِّكْرِ،
+> فَإِنَّ فِي اجْتِمَاعِكُمْ وَمُذَاكَرَتِكُمْ إِحْيَاءَنَا، وَخَيْرُ
+> النَّاسِ بَعْدَنَا مَنْ ذَاكَرَ بِأَمْرِنَا وَدَعَا إِلَى ذِكْرِنَا.
 
 *O Dawud, convey my greetings to my adherents and tell them that I say:
 May Allah have mercy upon a servant (of Him) who meets with another
@@ -630,16 +522,12 @@ affairs and call others to mention us.*[^26]
 
 Khaythamah has reported Imam al-Sadiq (‘a) as saying to him:
 
-<blockquote dir="rtl">
-  <p>
-أَبْلِغْ مَوَالِيَنَا السَّلاَمَ وَأَوْصِهِمْ بِتَقْوَى اللهِ
-الْعَظِيمِ، وَأَنْ يَعُودَ غَنِيُّهُمْ عَلَى فَقِيرِهِمْ،
-وَقَوِيُّهُمْ عَلَى ضَعِيفِهِمْ، وَأَنْ يَشْهَدَ حَيُّهُمْ جَنَازَةَ
-مَيِّتِهِمْ، وَأَنْ يَتَلاَقَوْا فِي بُيُوتِهِمْ، فَإِنَّ فِي لِقَاءِ
-بَعْضِهِمْ بَعْضاً حَيَاةً لأَِمْرِنَا. رَحِمَ اللهُ عَبْداً أَحْيَا
-أَمْرَنَا.
-  </p>
-</blockquote>
+> أَبْلِغْ مَوَالِيَنَا السَّلاَمَ وَأَوْصِهِمْ بِتَقْوَى اللهِ
+> الْعَظِيمِ، وَأَنْ يَعُودَ غَنِيُّهُمْ عَلَى فَقِيرِهِمْ،
+> وَقَوِيُّهُمْ عَلَى ضَعِيفِهِمْ، وَأَنْ يَشْهَدَ حَيُّهُمْ جَنَازَةَ
+> مَيِّتِهِمْ، وَأَنْ يَتَلاَقَوْا فِي بُيُوتِهِمْ، فَإِنَّ فِي لِقَاءِ
+> بَعْضِهِمْ بَعْضاً حَيَاةً لأَِمْرِنَا. رَحِمَ اللهُ عَبْداً أَحْيَا
+> أَمْرَنَا.
 
 *Convey my compliments to my loyalists and advise them to show reverence
 to Almighty Allah: the rich among them must help the poor, the powerful
@@ -651,13 +539,9 @@ Leadership alive.*[^27]
 Shu’ayb al-’Aqarqufi has reported that he heard Imam al-Sadiq (‘a)
 saying to his companions:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّقُوا اللهَ وَكُونُوا إِخْوَةً بَرَرَةً مُتَحَابِّينَ فِي اللهِ،
-مُتَوَاصِلِينَ مُتَرَاحِمِينَ. تَزَاوَرُوا وَتَلاَقَوْا وَتَذَاكَرُوا
-أَمْرَنَا وَأَحْيُوهُ.
-  </p>
-</blockquote>
+> إِتَّقُوا اللهَ وَكُونُوا إِخْوَةً بَرَرَةً مُتَحَابِّينَ فِي اللهِ،
+> مُتَوَاصِلِينَ مُتَرَاحِمِينَ. تَزَاوَرُوا وَتَلاَقَوْا وَتَذَاكَرُوا
+> أَمْرَنَا وَأَحْيُوهُ.
 
 *Be in awe of Almighty Allah and be devout brethren-in-faith who love
 each other for the sake of Almighty Allah, meet each other constantly,
@@ -681,35 +565,23 @@ wisdom and fair exhortation.[^29]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يَجِبُ لِلْمُؤْمِنِ عَلَى الْمُؤْمِنِ أَنْ يُنَاصِحَهُ.
-  </p>
-</blockquote>
+> يَجِبُ لِلْمُؤْمِنِ عَلَى الْمُؤْمِنِ أَنْ يُنَاصِحَهُ.
 
 *Sincerity in treatment is a duty imposed upon a faithful believer
 towards other faithful believers.*[^30]
 
 He (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يَجِبُ لِلْمُؤْمِنِ عَلَى الْمُؤْمِنِ النَّصِيحَةُ لَهُ فِي
-الْمَشْهَدِ وَالْمَغِيبِ.
-  </p>
-</blockquote>
+> يَجِبُ لِلْمُؤْمِنِ عَلَى الْمُؤْمِنِ النَّصِيحَةُ لَهُ فِي
+> الْمَشْهَدِ وَالْمَغِيبِ.
 
 *It is obligatory upon every faithful believer to deal with the other
 faithful believers with sincerity, be they present or absent.*[^31]
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الدِّينُ نَصِيحَةٌ… للهِ وَلِرَسُولِهِ وَلأَِئَمَّةِ الدِّينِ
-وَلِجَماعَةِ الْمُسْلِمِينَ.
-  </p>
-</blockquote>
+> الدِّينُ نَصِيحَةٌ… للهِ وَلِرَسُولِهِ وَلأَِئَمَّةِ الدِّينِ
+> وَلِجَماعَةِ الْمُسْلِمِينَ.
 
 *True religiousness is to act sincerely…towards Almighty Allah, His
 Messenger, the leaders of the religion, and the community of
@@ -717,13 +589,9 @@ Muslims.*[^32]
 
 Abu’l-’Udays has reported that Imam al-Baqir (‘a) advised him saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا صَالِحُ، إِتَّبِعْ مَنْ يُبْكِيكَ وَهُوَ لَكَ نَاصِحٌ، وَلاَ
-تَتَّبِعْ مَنْ يُضْحِكُكَ وَهُوَ لَكَ غَاشٌّ، وَسَتَرِدُونَ عَلَى
-اللهِ جَمِيعاً فَتَعْلَمُونَ.
-  </p>
-</blockquote>
+> يَا صَالِحُ، إِتَّبِعْ مَنْ يُبْكِيكَ وَهُوَ لَكَ نَاصِحٌ، وَلاَ
+> تَتَّبِعْ مَنْ يُضْحِكُكَ وَهُوَ لَكَ غَاشٌّ، وَسَتَرِدُونَ عَلَى
+> اللهِ جَمِيعاً فَتَعْلَمُونَ.
 
 *O Salih, follow him who causes you to weep and acts towards you with
 sincerity, but do not follow him who makes you laugh but is cheating
@@ -732,24 +600,16 @@ the truth.*[^33]
 
 Imam al-Sadiq (‘a) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَحَبُّ إِخْوَانِي إِلَيَّ مَنْ أَهْدَى إِلَيَّ عُيُوبِي.
-  </p>
-</blockquote>
+> أَحَبُّ إِخْوَانِي إِلَيَّ مَنْ أَهْدَى إِلَيَّ عُيُوبِي.
 
 *The dearest of my friends to me is he who reveals my defects to
 me.*[^34]
 
 Imam al-Sadiq (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْتَغْنِي الْمُؤْمِنُ عَنْ خِصْلَةٍ وَبِهِ الْحَاجَةُ إِلَى
-ثَلاَثِ خِصَالٍ: تَوْفِيقٍ مِنَ اللهِ عَزَّ وَجَلَّ، وَوَاعِظٍ مِنْ
-نَفْسِهِ، وَقَبُولِ مَنْ يَنْصَحُهُ.
-  </p>
-</blockquote>
+> لاَ يَسْتَغْنِي الْمُؤْمِنُ عَنْ خِصْلَةٍ وَبِهِ الْحَاجَةُ إِلَى
+> ثَلاَثِ خِصَالٍ: تَوْفِيقٍ مِنَ اللهِ عَزَّ وَجَلَّ، وَوَاعِظٍ مِنْ
+> نَفْسِهِ، وَقَبُولِ مَنْ يَنْصَحُهُ.
 
 *A faithful believer is not complete when in need of three
 characteristics: (1) Divine aid, (2) self-exhortation, and (3)
@@ -787,18 +647,14 @@ occasions in the previous books of this series.
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْمُسْلِمُ أَخُو الْمُسْلِمِ؛ لاَ يَظْلِمُهُ وَلاَ يَخْذُلُهُ وَلاَ
-يَخُونُهُ. وَيَحِقُّ عَلَى الْمُسْلِمِينَ الإجْتِهَادُ فِي
-التَّوَاصُلِ وَالتَّعَاقُدِ عَلَى التَّعَاطُفِ وَالْمُوَاسَاةُ
-لأَِهْلِ الْحَاجَةِ وَتَعَاطُفِ بَعْضِهِمْ عَلَى بَعْضٍ حَتَّى
-تَكُونُوا كَمَا أَمَرَكُمُ اللهُ عَزَّ وَجَلَّ، رُحَمَاءَ بَيْنَكُمْ
-مُتَرَاحِمِينَ مُغْتَمِّينَ لِمَا غَابَ عَنْكُمْ مِنْ أَمْرِهِمْ عَلَى
-مَا مَضَى عَلَيْهِ مَعْشَرُ الأَنْصَارِ عَلَى عَهْدِ رَسُولِ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ.
-  </p>
-</blockquote>
+> الْمُسْلِمُ أَخُو الْمُسْلِمِ؛ لاَ يَظْلِمُهُ وَلاَ يَخْذُلُهُ وَلاَ
+> يَخُونُهُ. وَيَحِقُّ عَلَى الْمُسْلِمِينَ الإجْتِهَادُ فِي
+> التَّوَاصُلِ وَالتَّعَاقُدِ عَلَى التَّعَاطُفِ وَالْمُوَاسَاةُ
+> لأَِهْلِ الْحَاجَةِ وَتَعَاطُفِ بَعْضِهِمْ عَلَى بَعْضٍ حَتَّى
+> تَكُونُوا كَمَا أَمَرَكُمُ اللهُ عَزَّ وَجَلَّ، رُحَمَاءَ بَيْنَكُمْ
+> مُتَرَاحِمِينَ مُغْتَمِّينَ لِمَا غَابَ عَنْكُمْ مِنْ أَمْرِهِمْ عَلَى
+> مَا مَضَى عَلَيْهِ مَعْشَرُ الأَنْصَارِ عَلَى عَهْدِ رَسُولِ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ.
 
 *Muslims are brothers to each other. They neither wrong, nor disappoint,
 nor betray each other. The duties that are incumbent on Muslims towards
@@ -812,12 +668,8 @@ lifetime of the Messenger of Allah (S).*[^36]
 
 Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ امْرَأً أَلَّفَ بَيْنَ وَلِيَّيْنِ لَنَا. يَا مَعْشَرَ
-الْمُؤْمِنِينَ، تَآلَفُوا وَتَعَاطَفُوا.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ امْرَأً أَلَّفَ بَيْنَ وَلِيَّيْنِ لَنَا. يَا مَعْشَرَ
+> الْمُؤْمِنِينَ، تَآلَفُوا وَتَعَاطَفُوا.
 
 *May Allah have mercy upon a person who reconciles two of our adherents.
 O group of believers, adopt manners of affinity with each other and have
@@ -840,12 +692,8 @@ mention in detail the traditions and laws on this topic.
 According to a validly reported tradition, Imam ‘Ali the Commander of
 the Faithful (‘a) and Imam al-Sadiq (‘a) are reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَئَنْ أُصْلِحَ بَيْنَ اثْنَيْنِ أَحَبُّ إِلَيَّ مِنْ أَنْ أَتَصَدَّقَ
-بِدِينَارَيْنِ.
-  </p>
-</blockquote>
+> لَئَنْ أُصْلِحَ بَيْنَ اثْنَيْنِ أَحَبُّ إِلَيَّ مِنْ أَنْ أَتَصَدَّقَ
+> بِدِينَارَيْنِ.
 
 *To make peace between two estranged persons is more favorable to me
 than to give two (golden) Dinars as alms.*[^38]
@@ -853,12 +701,8 @@ than to give two (golden) Dinars as alms.*[^38]
 Imam ‘Ali the Commander of the Faithful (‘a) is also reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-صَدَقَةٌ يُحِبُّهَا اللهُ إِصْلاَحٌ بَيْنَ النَّاسِ إِذَا تَفَاسَدُوا،
-وَتَقَارُبٌ بَيْنَهُمْ إِذَا تَبَاعَدُوا.
-  </p>
-</blockquote>
+> صَدَقَةٌ يُحِبُّهَا اللهُ إِصْلاَحٌ بَيْنَ النَّاسِ إِذَا تَفَاسَدُوا،
+> وَتَقَارُبٌ بَيْنَهُمْ إِذَا تَبَاعَدُوا.
 
 *The alms that Almighty Allah prefers is reconciling estranged parties
 and drawing close those who have been alienated from one another.*[^39]
@@ -866,15 +710,11 @@ and drawing close those who have been alienated from one another.*[^39]
 In his final instructive will to his two sons (Imam Hasan and Imam
 Husayn (‘a)), Imam ‘Ali the Commander of the Faithful (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أُوصِيكُمَا وَجَمِيعَ وِلْدِي وَأَهْلِي وَمَنْ بَلَغَهُ كِتَابِي
-بِتَقْوَى اللهِ وَنُظْمِ أَمْرِكُمْ وَصَلاَحِ ذَاتِ بَيْنِكُمْ،
-فَإِنِّي سَمِعْتُ جَدَّكُمَا رَسُولَ اللهَ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ يَقُولُ: صَلاَحُ ذَاتِ الْبَيْنِ أَفْضَلُ مِنْ عَامَّةِ
-الصَّلاَةِ وَالصِّيَامِ.
-  </p>
-</blockquote>
+> أُوصِيكُمَا وَجَمِيعَ وِلْدِي وَأَهْلِي وَمَنْ بَلَغَهُ كِتَابِي
+> بِتَقْوَى اللهِ وَنُظْمِ أَمْرِكُمْ وَصَلاَحِ ذَاتِ بَيْنِكُمْ،
+> فَإِنِّي سَمِعْتُ جَدَّكُمَا رَسُولَ اللهَ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ يَقُولُ: صَلاَحُ ذَاتِ الْبَيْنِ أَفْضَلُ مِنْ عَامَّةِ
+> الصَّلاَةِ وَالصِّيَامِ.
 
 *I advise you (both) and all my children and members of my family and
 everyone whom my writing reaches to fear Allah, to keep your affairs in
@@ -907,15 +747,11 @@ situations is contingent upon certain stipulations and circumstances.
 Imam al-Sadiq (‘a) has reported on the authority of his fathers that the
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثَةٌ يَحْسُنُ فِيهِنَّ الْكَذِبُ: الْمَكِيدَةُ فِي الْحَرْبِ،
-وَعِدَتُكَ زَوْجَتَكَ، وَالإِصْلاَحُ بَيْنَ النَّاسِ، وَثَلاَثَةٌ
-يَقْبُحُ فِيهِنَّ الصِّدْقُ: النَّمِيمَةُ، وَإِخْبَارُكَ الرَّجُلَ
-عَنْ أَهْلِهِ بِمَا يَكْرَهُهُ، وَتَكْذِيبُكَ الرَّجُلَ عَنِ
-الْخَبَرِ.
-  </p>
-</blockquote>
+> ثَلاَثَةٌ يَحْسُنُ فِيهِنَّ الْكَذِبُ: الْمَكِيدَةُ فِي الْحَرْبِ،
+> وَعِدَتُكَ زَوْجَتَكَ، وَالإِصْلاَحُ بَيْنَ النَّاسِ، وَثَلاَثَةٌ
+> يَقْبُحُ فِيهِنَّ الصِّدْقُ: النَّمِيمَةُ، وَإِخْبَارُكَ الرَّجُلَ
+> عَنْ أَهْلِهِ بِمَا يَكْرَهُهُ، وَتَكْذِيبُكَ الرَّجُلَ عَنِ
+> الْخَبَرِ.
 
 *Telling a lie is acceptable only in three situations: as a stratagem of
 battle, when making promises to one’s wife, and for restoring friendly
@@ -926,14 +762,10 @@ person’s news to be a lie.*[^42]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْكَلاَمُ ثَلاَثَةٌ: صِدْقٌ، وَكَذِبٌ، وَإِصْلاَحٌ بَيْنَ النَّاسِ.
-تَسْمَعُ مِنَ الرَّجُلِ كَلاَماً يَبْلُغُهُ فَتُخَبِّثُ نَفْسَهُ
-فَتَقُولُ: سَمِعْتُ مِنْ فُلاَنٍ قَالَ فِيكَ مِنَ الْخَيْرِ كَذَا
-وَكَذَا خِلاَفَ مَا سِمَعْتَهُ مِنْهُ.
-  </p>
-</blockquote>
+> الْكَلاَمُ ثَلاَثَةٌ: صِدْقٌ، وَكَذِبٌ، وَإِصْلاَحٌ بَيْنَ النَّاسِ.
+> تَسْمَعُ مِنَ الرَّجُلِ كَلاَماً يَبْلُغُهُ فَتُخَبِّثُ نَفْسَهُ
+> فَتَقُولُ: سَمِعْتُ مِنْ فُلاَنٍ قَالَ فِيكَ مِنَ الْخَيْرِ كَذَا
+> وَكَذَا خِلاَفَ مَا سِمَعْتَهُ مِنْهُ.
 
 *Speech is of three categories: telling the truth, telling lies, and
 reconciliation between people…which means that if you hear some words
@@ -959,13 +791,9 @@ measures to reinforce social relations, including the following:
 
 Imam al-Sadiq (‘a) has quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَتَانِي جَبْرَئِيلُ قَطُّ إِلاَّ وَعَظَنِي، فَآخِرُ قَوْلِهِ لِي:
-إِيَّاكَ وَمُشَارَّةَ النَّاسِ، فَإِنَّهَا تَكْشِفُ الْعَوْرَةَ
-وَتَذْهَبُ بِالْعِزِّ.
-  </p>
-</blockquote>
+> مَا أَتَانِي جَبْرَئِيلُ قَطُّ إِلاَّ وَعَظَنِي، فَآخِرُ قَوْلِهِ لِي:
+> إِيَّاكَ وَمُشَارَّةَ النَّاسِ، فَإِنَّهَا تَكْشِفُ الْعَوْرَةَ
+> وَتَذْهَبُ بِالْعِزِّ.
 
 *Every time (Archangel) Gabriel came to me, he would exhort me. The last
 thing he said to me was the following: Beware of incurring the hostility
@@ -973,12 +801,8 @@ of people, because this will unveil the hidden and remove dignity.*[^44]
 
 The Holy Prophet (S) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ إِنَّ فِي التَّبَاغُضِ الْحَالِقَةَ. لاَ أَعْنِي حَالِقَةَ
-الشَّعْرِ، وَلَكِنْ حَالِقَةَ الدِّينِ.
-  </p>
-</blockquote>
+> أَلاَ إِنَّ فِي التَّبَاغُضِ الْحَالِقَةَ. لاَ أَعْنِي حَالِقَةَ
+> الشَّعْرِ، وَلَكِنْ حَالِقَةَ الدِّينِ.
 
 *Most certainly, provoking the disrespect of people is the genuine
 shaver. It does not shave the hair, but the faith.*[^45]
@@ -987,12 +811,8 @@ shaver. It does not shave the hair, but the faith.*[^45]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-رَدُّ جَوَابِ الْكِتَابِ وَاجِبٌ كَوُجُوبِ رَدِّ السَّلاَمِ،
-وَالْبَادِي بِالسَّلاَمِ أَوْلَى بِاللهِ وَبِرَسُولِهِ.
-  </p>
-</blockquote>
+> رَدُّ جَوَابِ الْكِتَابِ وَاجِبٌ كَوُجُوبِ رَدِّ السَّلاَمِ،
+> وَالْبَادِي بِالسَّلاَمِ أَوْلَى بِاللهِ وَبِرَسُولِهِ.
 
 *Replying to messages is as obligatory as responding to greetings and
 salutations. He who takes the initiative of offering salutation is more
@@ -1000,12 +820,8 @@ favorable in the view of Almighty Allah and His Messenger.*[^46]
 
 He (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-التَّوَاصُلُ بَيْنِ الإِخْوَانِ فِي الْحَضَرِ التَّزَاوُرُ، وَفِي
-السَّفَرِ التَّكَاتُبُ.
-  </p>
-</blockquote>
+> التَّوَاصُلُ بَيْنِ الإِخْوَانِ فِي الْحَضَرِ التَّزَاوُرُ، وَفِي
+> السَّفَرِ التَّكَاتُبُ.
 
 *In homelands, exchanging visits is a means of association. In travel,
 correspondence is the means of association.*[^47]
@@ -1014,11 +830,7 @@ correspondence is the means of association.*[^47]
 
 Imam al-Sadiq (‘a) has reported the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيَفِ إِذَا وَعَدَ.
-  </p>
-</blockquote>
+> مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيَفِ إِذَا وَعَدَ.
 
 *He who believes in Almighty Allah and in the Day of Resurrection must
 fulfill his promise.*[^48]
@@ -1027,18 +839,14 @@ fulfill his promise.*[^48]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّدَاقَةُ مَحْدُودَةٌ، فَمَنْ لَمْ تَكُنْ فِيهِ تِلْكَ الْحُدُودُ
-فَلاَ تَنْسِبْهُ إِلَى كَمَالِ الصَّدَاقَةِ، وَمَنْ لَمْ يَكُنْ فِيهِ
-شَيْءٌ مِنْ تِلْكَ الْحُدُودِ فَلاَ تَنْسِبْهُ إِلَى الصَّدَاقَةِ.
-أَوَّلُهَا أَنْ تَكُونَ سَرِيرَتُهُ وَعَلاَنِيَتُهُ لَكَ وَاحِدَةٌ،
-وَالثَّانِيَةُ أَنْ يَرَى زَيْنَكَ زَيْنَهُ، وَشَيْنَكَ شَيْنَهُ،
-وَالثَّالِثَةُ أَنْ لاَ يُغَيِّرَهُ عَنْكَ مَالٌ وَلاَ وِلاَيَةٌ،
-وَالرَّابِعَةُ أَنْ لاَ يَمْنَعَكَ شَيْئاً مِمَّا تَصِلُ إِلَيْهِ
-مَقْدِرَتُهُ، وَالْخَامِسَةُ أَنْ لاَ يُسَلِّمَكَ عِنْدَ النَّكَبَاتِ.
-  </p>
-</blockquote>
+> الصَّدَاقَةُ مَحْدُودَةٌ، فَمَنْ لَمْ تَكُنْ فِيهِ تِلْكَ الْحُدُودُ
+> فَلاَ تَنْسِبْهُ إِلَى كَمَالِ الصَّدَاقَةِ، وَمَنْ لَمْ يَكُنْ فِيهِ
+> شَيْءٌ مِنْ تِلْكَ الْحُدُودِ فَلاَ تَنْسِبْهُ إِلَى الصَّدَاقَةِ.
+> أَوَّلُهَا أَنْ تَكُونَ سَرِيرَتُهُ وَعَلاَنِيَتُهُ لَكَ وَاحِدَةٌ،
+> وَالثَّانِيَةُ أَنْ يَرَى زَيْنَكَ زَيْنَهُ، وَشَيْنَكَ شَيْنَهُ،
+> وَالثَّالِثَةُ أَنْ لاَ يُغَيِّرَهُ عَنْكَ مَالٌ وَلاَ وِلاَيَةٌ،
+> وَالرَّابِعَةُ أَنْ لاَ يَمْنَعَكَ شَيْئاً مِمَّا تَصِلُ إِلَيْهِ
+> مَقْدِرَتُهُ، وَالْخَامِسَةُ أَنْ لاَ يُسَلِّمَكَ عِنْدَ النَّكَبَاتِ.
 
 *Friendship is restricted to certain qualifications. Whoever does not
 have these qualifications completely cannot be a perfect friend, and
@@ -1077,13 +885,9 @@ social relations.
 In his book of *al-Mahasin*, al-Barqi has reported that Imam al-Sadiq
 (‘a) quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مُشَاوَرَةُ الْعَاقِلِ النَّاصِحِ رُشْدٌ وَيُمْنٌ وَتَوْفِيقٌ مِنَ
-اللهِ، فَإِذَا أَشَارَ عَلَيْكَ النَّاصِحُ الْعَاقِلُ فَإِيَّاكَ
-وَالْخِلاَفَ فَإِنَّ فِي ذَلِكَ الْعَطَبَ.
-  </p>
-</blockquote>
+> مُشَاوَرَةُ الْعَاقِلِ النَّاصِحِ رُشْدٌ وَيُمْنٌ وَتَوْفِيقٌ مِنَ
+> اللهِ، فَإِذَا أَشَارَ عَلَيْكَ النَّاصِحُ الْعَاقِلُ فَإِيَّاكَ
+> وَالْخِلاَفَ فَإِنَّ فِي ذَلِكَ الْعَطَبَ.
 
 *Seeking the counsel of the reasonable well-wisher is a sign of
 judiciousness, being blessed, and guidance to success by Almighty Allah;
@@ -1093,13 +897,9 @@ defiance lest you come upon destruction.‌*[^51]*‌*
 According to another narration also cited in the previous book, Imam
 al-Baqir is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-فِي التَّوْرَاةِ أَرْبَعَةُ أَسْطُرٍ: مَنْ لاَ يَسْتَشِرْ يَنْدَمْ،
-وَالْفَقْرُ الْمَوْتُ الأَكْبَرُ، وَكَمَا تَدِينُ تُدَانُ، وَمَنْ
-مَلَكَ اسْتَأْثَرَ.
-  </p>
-</blockquote>
+> فِي التَّوْرَاةِ أَرْبَعَةُ أَسْطُرٍ: مَنْ لاَ يَسْتَشِرْ يَنْدَمْ،
+> وَالْفَقْرُ الْمَوْتُ الأَكْبَرُ، وَكَمَا تَدِينُ تُدَانُ، وَمَنْ
+> مَلَكَ اسْتَأْثَرَ.
 
 *In the Torah are the following four lines (of wisdom): He who does not
 seek the advice of others will surely regret. Poverty is the greatest
@@ -1108,11 +908,7 @@ position of leadership will surely act arbitrarily.‌*[^52]*‌*
 
 Imam ‘Ali the Commander of the Faithful (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الإسْتِشَارَةُ عَيْنُ الْهِدَايَةِ.
-  </p>
-</blockquote>
+> الإسْتِشَارَةُ عَيْنُ الْهِدَايَةِ.
 
 *Consultation is the very core of true guidance.‌*[^53]*‌*
 
@@ -1129,14 +925,10 @@ relations.
 In this regard, Imam al-Sadiq (‘a) has reported that the Holy Prophet
 (S) instructed Imam ‘Ali the Commander of the Faithful (‘a) by saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ فَقْرَ أَشَدُّ مِنَ الْجَهْلِ وَلاَ مَالَ أَعْوَدُ مِنَ الْعَقْلِ
-وَلاَ وِحْدَةَ أَوْحَشُ مِنَ الْعُجْبِ وَلاَ مُظَاهَرَةَ أَحْسَنُ مِنَ
-الْمُشَاوَرَةِ وَلاَ عَقْلَ كَالتَّدْبِيرِ وَلاَ حَسَبَ كَحُسْنِ
-الْخُلُقِ وَلاَ عِبَادَةَ كَالتَّفَكُّرِ.
-  </p>
-</blockquote>
+> لاَ فَقْرَ أَشَدُّ مِنَ الْجَهْلِ وَلاَ مَالَ أَعْوَدُ مِنَ الْعَقْلِ
+> وَلاَ وِحْدَةَ أَوْحَشُ مِنَ الْعُجْبِ وَلاَ مُظَاهَرَةَ أَحْسَنُ مِنَ
+> الْمُشَاوَرَةِ وَلاَ عَقْلَ كَالتَّدْبِيرِ وَلاَ حَسَبَ كَحُسْنِ
+> الْخُلُقِ وَلاَ عِبَادَةَ كَالتَّفَكُّرِ.
 
 *No poverty is harsher than ignorance, no fortune better than the
 intellect, no loneliness drearier than pride, no victory like
@@ -1146,12 +938,8 @@ and no worship like pondering (over things).‌*[^54]*‌*
 Confirming this fact, Imam ‘Ali the Commander of the Faithful (‘a) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ غِنَى كَالْعَقْلِ، وَلاَ فَقْرَ كَالْجَهْلِ، وَلاَ مِيرَاثَ
-كالأَدَبِ، وَلاَ ظَهِيرَ كَالْمُشَاوَرَةِ.
-  </p>
-</blockquote>
+> لاَ غِنَى كَالْعَقْلِ، وَلاَ فَقْرَ كَالْجَهْلِ، وَلاَ مِيرَاثَ
+> كالأَدَبِ، وَلاَ ظَهِيرَ كَالْمُشَاوَرَةِ.
 
 *No wealth is comparable to intelligence, no poverty comparable to
 ignorance, no heritage comparable to good manners, and no support
@@ -1167,11 +955,7 @@ Imam al-Sadiq (‘a) has reported on the authority of his fathers (‘a)
 that the Holy Prophet (S) was once asked to define perseverance. He
 answered:
 
-<blockquote dir="rtl">
-  <p>
-مُشَاوَرَةُ ذَوِي الرَّأْيِ وَاتِّبَاعُهُمْ.
-  </p>
-</blockquote>
+> مُشَاوَرَةُ ذَوِي الرَّأْيِ وَاتِّبَاعُهُمْ.
 
 *Perseverance is to consult with the judicious people and then follow
 their advice.*
@@ -1186,33 +970,21 @@ position, or action.
 Traditions of the Ahl al-Bayt (‘a) stress this fact. For instance, Imam
 ‘Ali (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَبَدَّ بِرَأْيِهِ هَلَكَ، وَمَنْ شَاوَرَ الرِّجَالَ
-شَارَكَهَا فِي عُقُولِهَا.
-  </p>
-</blockquote>
+> مَنِ اسْتَبَدَّ بِرَأْيِهِ هَلَكَ، وَمَنْ شَاوَرَ الرِّجَالَ
+> شَارَكَهَا فِي عُقُولِهَا.
 
 *He who acts solely according to his own opinion will be ruined, and he
 who consults other people shares in their understanding.‌*[^56]*‌*
 
-<blockquote dir="rtl">
-  <p>
-الإسْتِشَارَةُ عَيْنُ الْهِدَايَةِ.
-  </p>
-</blockquote>
+> الإسْتِشَارَةُ عَيْنُ الْهِدَايَةِ.
 
 *Consultation is the very core of true guidance.‌*[^57]*‌*
 
 Imam Ja’far al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِسْتَشِرِ الْعَاقِلَ مِنَ الرِّجَالِ الْوَرِعَ فَإِنَّهُ لاَ يَأْمُرُ
-إِلاَّ بِخَيْرٍ، وَإِيَّاكَ وَالْخِلاَفَ فَإِنَّ مُخَالَفَةَ الْوَرِعِ
-الْعَاقِلِ مَفْسَدَةٌ فِي الدِّينِ وَالدُّنْيَا.
-  </p>
-</blockquote>
+> إِسْتَشِرِ الْعَاقِلَ مِنَ الرِّجَالِ الْوَرِعَ فَإِنَّهُ لاَ يَأْمُرُ
+> إِلاَّ بِخَيْرٍ، وَإِيَّاكَ وَالْخِلاَفَ فَإِنَّ مُخَالَفَةَ الْوَرِعِ
+> الْعَاقِلِ مَفْسَدَةٌ فِي الدِّينِ وَالدُّنْيَا.
 
 *Seek the advice of the reasonable and pious men, because they order you
 to good. Beware of defying them, because to defy reasonable and pious
@@ -1223,14 +995,10 @@ advantage of the opinions of reasonable people in order to attain the
 truth and arrive at the most apposite solution, Imam ‘Ali (‘a) is
 reported to have said the following in his instructive words to his son:
 
-<blockquote dir="rtl">
-  <p>
-أُضْمُمْ آرَاءَ الرِّجَالِ بَعْضَهَا إِلَى بَعْضٍ، ثُمَّ اخْتَرْ
-أَقْرَبَهَا مِنَ الصَّوَابِ، وَأَبْعَدَهَا مِنَ الإرْتِيَابِ. قَدْ
-خَاطَرَ بِنَفْسِهِ مَنِ اسْتَغْنَى بِرَأْيِهِ، وَمَنِ اسْتَقْبَلَ
-وُجُوهَ الآرَاءِ عَرِفَ مَوَاقِعَ الْخَطَأِ.
-  </p>
-</blockquote>
+> أُضْمُمْ آرَاءَ الرِّجَالِ بَعْضَهَا إِلَى بَعْضٍ، ثُمَّ اخْتَرْ
+> أَقْرَبَهَا مِنَ الصَّوَابِ، وَأَبْعَدَهَا مِنَ الإرْتِيَابِ. قَدْ
+> خَاطَرَ بِنَفْسِهِ مَنِ اسْتَغْنَى بِرَأْيِهِ، وَمَنِ اسْتَقْبَلَ
+> وُجُوهَ الآرَاءِ عَرِفَ مَوَاقِعَ الْخَطَأِ.
 
 *Compare different opinions of men with each other and then choose the
 one closest to reality and remotest from suspicion… He who depends
@@ -1262,35 +1030,23 @@ advisers:
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إسْتَشِيرُوا فِي أَمْرِكُمُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ.
-  </p>
-</blockquote>
+> إسْتَشِيرُوا فِي أَمْرِكُمُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ.
 
 *In your affairs, seek the advice of those who fear their
 Lord.‌*[^61]*‌*
 
 Imam ‘Ali (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-شَاوِرْ فِي حَدِيثِكَ الَّذِينَ يَخَافُونَ اللهَ.
-  </p>
-</blockquote>
+> شَاوِرْ فِي حَدِيثِكَ الَّذِينَ يَخَافُونَ اللهَ.
 
 *In your affairs, seek the advice of those who fear Allah.‌*[^62]*‌*
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَمْنَعُ أَحَدَكُمْ إِذَا وَرَدَ عَلَيْهِ مَا لاَ قِبَلَ لَهُ بِهِ
-أَنْ يَسْتَشِيرَ رَجُلاً عَاقِلاً لَهُ دِينٌ وَوَرَعٌ؟ أَمَا إِنَّهُ
-إِذَا فَعَلَ ذَلِكَ لَمْ يَخْذِلْهُ اللهُ، بَلْ يَرْفَعُهُ اللهُ،
-وَرَمَاهُ بِخَيْرِ الأُمُورِ وَأَقْرَبِهَا إِلَى اللهِ.
-  </p>
-</blockquote>
+> مَا يَمْنَعُ أَحَدَكُمْ إِذَا وَرَدَ عَلَيْهِ مَا لاَ قِبَلَ لَهُ بِهِ
+> أَنْ يَسْتَشِيرَ رَجُلاً عَاقِلاً لَهُ دِينٌ وَوَرَعٌ؟ أَمَا إِنَّهُ
+> إِذَا فَعَلَ ذَلِكَ لَمْ يَخْذِلْهُ اللهُ، بَلْ يَرْفَعُهُ اللهُ،
+> وَرَمَاهُ بِخَيْرِ الأُمُورِ وَأَقْرَبِهَا إِلَى اللهِ.
 
 *What prevents you, when you encounter an unbearable problem, from
 counseling with a wise, religious and pious man? If you do so, Almighty
@@ -1299,22 +1055,18 @@ best solution and the one closest to Him.‌*[^63]*‌*
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمَشُورَةَ لاَ تَكُونُ إِلاَّ بِحُدُودِهَا، فَمَنْ عَرَفَهَا
-بِحُدُودِهَا وَإِلاَّ كَانَتْ مَضَرَّتُهَا عَلَى الْمُسْتَشِيرِ
-أَكْثَرَ مِنْ مَنْفَعَتِهَا لَهُ. فَأَوَّلُهَا أَنْ يَكُونَ الَّذِي
-تُشَاوِرُهُ عَاقِلاً، وَالثَّانِيَةُ أَنْ يَكُونَ حُرّاً مُتَدَيِّناً،
-وَالثَّالِثَةُ أَنْ يَكُونَ صَدِيقاً مُؤَاخِياً، وَالرَّابِعَةُ أَنْ
-تُطْلِعَهُ عَلَى سِرِّكَ فَيَكُونُ عِلْمُهُ بِهِ كَعِلْمِكَ
-بِنَفْسِكَ، ثُمَّ يُسِرُّ ذَلِكَ وَيَكْتُمُهُ. فَإِنَّهُ إِذَا كَانَ
-عَاقِلاً إنْتَفَعْتَ بِمَشُورَتِهِ، وَإِذَا كَانَ حُرّاً مُتَدَيِّناً
-جَهَدَ نَفْسَهُ فِي النَّصِيحَةِ لَكَ، وَإِذَا كَانَ صَدِيقاً
-مُؤَاخِياً كَتَمَ سِرَّكَ إِذَا أَطْلَعْتَهُ عَلَيْهِ، وَإِذَا
-أَطْلَعْتَهُ عَلَى سِرِّكَ فَكَانَ عِلْمُهُ بِهِ كَعِلْمِكَ بِهِ
-تَمَّتِ الْمَشُورَةُ وَكَمُلَتِ النَّصِيحَةُ.
-  </p>
-</blockquote>
+> إِنَّ الْمَشُورَةَ لاَ تَكُونُ إِلاَّ بِحُدُودِهَا، فَمَنْ عَرَفَهَا
+> بِحُدُودِهَا وَإِلاَّ كَانَتْ مَضَرَّتُهَا عَلَى الْمُسْتَشِيرِ
+> أَكْثَرَ مِنْ مَنْفَعَتِهَا لَهُ. فَأَوَّلُهَا أَنْ يَكُونَ الَّذِي
+> تُشَاوِرُهُ عَاقِلاً، وَالثَّانِيَةُ أَنْ يَكُونَ حُرّاً مُتَدَيِّناً،
+> وَالثَّالِثَةُ أَنْ يَكُونَ صَدِيقاً مُؤَاخِياً، وَالرَّابِعَةُ أَنْ
+> تُطْلِعَهُ عَلَى سِرِّكَ فَيَكُونُ عِلْمُهُ بِهِ كَعِلْمِكَ
+> بِنَفْسِكَ، ثُمَّ يُسِرُّ ذَلِكَ وَيَكْتُمُهُ. فَإِنَّهُ إِذَا كَانَ
+> عَاقِلاً إنْتَفَعْتَ بِمَشُورَتِهِ، وَإِذَا كَانَ حُرّاً مُتَدَيِّناً
+> جَهَدَ نَفْسَهُ فِي النَّصِيحَةِ لَكَ، وَإِذَا كَانَ صَدِيقاً
+> مُؤَاخِياً كَتَمَ سِرَّكَ إِذَا أَطْلَعْتَهُ عَلَيْهِ، وَإِذَا
+> أَطْلَعْتَهُ عَلَى سِرِّكَ فَكَانَ عِلْمُهُ بِهِ كَعِلْمِكَ بِهِ
+> تَمَّتِ الْمَشُورَةُ وَكَمُلَتِ النَّصِيحَةُ.
 
 *Actually, seeking advice must be within limits, so if one ignores (or
 violates) these limits, the harm will be more than the benefit. The
@@ -1331,15 +1083,11 @@ situation well, then he will give perfect counsel and advice.‌*[^64]*‌*
 Imam al-Ridha (‘a) has reported on the authority of his fathers that
 Imam ‘Ali (‘a) quoted the Holy Prophet (S) as saying to him:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشَاوِرَنَّ جَبَاناً فَإِنَّهُ يُضَيِّقُ عَلَيْكَ الْمَخْرَجَ،
-وَلاَ تُشَاوِرَنَّ بَخِيلاً فَإِنَّهُ يُقَصِّرُ بِكَ عَنْ غَايَتِكَ،
-وَلاَ تُشَاوِرَنَّ حَرِيصاً فَإِنَّهُ يُزَيِّنُ لَكَ شَرَّهَا.
-وَاعْلَمْ أَنَّ الْجُبْنَ وَالْبُخْلَ وَالْحِرْصَ غَرِيزَةٌ
-يَجْمَعُهَا سُوءُ الظَّنِّ.
-  </p>
-</blockquote>
+> لاَ تُشَاوِرَنَّ جَبَاناً فَإِنَّهُ يُضَيِّقُ عَلَيْكَ الْمَخْرَجَ،
+> وَلاَ تُشَاوِرَنَّ بَخِيلاً فَإِنَّهُ يُقَصِّرُ بِكَ عَنْ غَايَتِكَ،
+> وَلاَ تُشَاوِرَنَّ حَرِيصاً فَإِنَّهُ يُزَيِّنُ لَكَ شَرَّهَا.
+> وَاعْلَمْ أَنَّ الْجُبْنَ وَالْبُخْلَ وَالْحِرْصَ غَرِيزَةٌ
+> يَجْمَعُهَا سُوءُ الظَّنِّ.
 
 *Never counsel with a coward because they narrow the possibilities in
 your eyes. Never counsel with the niggardly because they hamper you from
@@ -1351,14 +1099,10 @@ things.‌*[^65]*‌*
 Imam al-Sadiq (‘a) has reported from his fathers that the Holy Prophet
 (S) instructed Imam ‘Ali (‘a), saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا عِلِيُّ، لَيْسَ عَلَى النِّسَاءِ جُمُعَةٌ. وَلاَ تُوَلَّى
-الْقَضَاءَ، وَلاَ تُسْتَشَارُ. يَا عَلِيُّ، سُوءُ الْخُلُقِ شُؤْمٌ،
-وَطَاعَةُ الْمَرْأَةِ نَدَامَةٌ. يَا عَلِيُّ، إِنْ كَانَ الشُّؤْمُ فِي
-شَيْءٍ فَفِي لِسَانِ الْمَرْأَةِ.
-  </p>
-</blockquote>
+> يَا عِلِيُّ، لَيْسَ عَلَى النِّسَاءِ جُمُعَةٌ. وَلاَ تُوَلَّى
+> الْقَضَاءَ، وَلاَ تُسْتَشَارُ. يَا عَلِيُّ، سُوءُ الْخُلُقِ شُؤْمٌ،
+> وَطَاعَةُ الْمَرْأَةِ نَدَامَةٌ. يَا عَلِيُّ، إِنْ كَانَ الشُّؤْمُ فِي
+> شَيْءٍ فَفِي لِسَانِ الْمَرْأَةِ.
 
 *O ‘Ali, women are not required to attend the Friday Congregational
 Prayers…They must not hold the office of chief justice and their
@@ -1369,13 +1113,9 @@ in something, it will be found on the tongues of women.‌*[^66]*‌*
 According to another narration of a valid chain of authority, Imam
 al-Sadiq (‘a) quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أُعْصُوهُنَّ فِي الْمَعْرُوفِ قَبْلَ أَنْ يَأْمُرْنَكُمْ
-بِالْمُنْكَرِ، وَتَعَوَّذُوا بِاللهِ مِنْ شِرَارِهِنَّ وَكُونُوا مِنْ
-خِيَارِهِنَّ عَلَى حَذَرٍ.
-  </p>
-</blockquote>
+> أُعْصُوهُنَّ فِي الْمَعْرُوفِ قَبْلَ أَنْ يَأْمُرْنَكُمْ
+> بِالْمُنْكَرِ، وَتَعَوَّذُوا بِاللهِ مِنْ شِرَارِهِنَّ وَكُونُوا مِنْ
+> خِيَارِهِنَّ عَلَى حَذَرٍ.
 
 *Do not listen to women in right things lest they enjoin you to do wrong
 things. Ask Allah’s protection against evil women and be cautious of the
@@ -1390,12 +1130,8 @@ is a trustee.‌[^68]‌
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَشَارَ أَخَاهُ فَلَمْ يَنْصَحْهُ مَحْضَ الرَّأْيِ سَلَبَهُ
-اللهُ رَأْيَهُ.
-  </p>
-</blockquote>
+> مَنِ اسْتَشَارَ أَخَاهُ فَلَمْ يَنْصَحْهُ مَحْضَ الرَّأْيِ سَلَبَهُ
+> اللهُ رَأْيَهُ.
 
 *If one whose advice is sought by his brother-in-faith does not give the
 best advice, Almighty Allah will deprive him of good reason.‌*[^69]*‌*
@@ -1445,13 +1181,9 @@ Besides the above, Islam has also deemed it forbidden to greet the poor
 in a way different from greeting the rich. In this regard, Imam al-Ridha
 (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَقِيَ فَقِيراً مُسْلِماً فَسَلَّمَ عَلَيْهِ خِلاَفَ سَلاَمِهِ
-عَلَى الْغَنِيِّ لَقِيَ اللهَ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ وَهُوَ
-عَلَيْهِ غَضْبَانَ.
-  </p>
-</blockquote>
+> مَنْ لَقِيَ فَقِيراً مُسْلِماً فَسَلَّمَ عَلَيْهِ خِلاَفَ سَلاَمِهِ
+> عَلَى الْغَنِيِّ لَقِيَ اللهَ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ وَهُوَ
+> عَلَيْهِ غَضْبَانَ.
 
 *Whoever meets a poor Muslim and greets him in a way different from
 greeting a rich one, will find Almighty Allah angry with him when he
@@ -1462,12 +1194,8 @@ poor or humble is another indication of the significance of social
 fraternity and equality. In this connection, Imam al-Sadiq (‘a) reported
 the Holy Prophet (S) to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَخَفَّ بِفَقِيرٍ مُسْلِمٍ فَقَدِ اسْتَخَفَّ بِحَقِّ اللهِ،
-وَاللهُ يَسْتَخِفُّ بِهِ يَوْمَ الْقِيَامَةِ إِلاَّ أَنْ يَتُوبَ.
-  </p>
-</blockquote>
+> مَنِ اسْتَخَفَّ بِفَقِيرٍ مُسْلِمٍ فَقَدِ اسْتَخَفَّ بِحَقِّ اللهِ،
+> وَاللهُ يَسْتَخِفُّ بِهِ يَوْمَ الْقِيَامَةِ إِلاَّ أَنْ يَتُوبَ.
 
 *He who belittles a poor Muslim has in fact belittled Almighty Allah;
 therefore, Almighty Allah will belittle him on the Day of Resurrection
@@ -1475,13 +1203,9 @@ unless he repents.‌*[^71]*‌*
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَذَلَّ مُؤْمِناً وَاحْتَقَرَهُ لِقِلَّةِ ذَاتِ يَدِهِ
-وَلِفَقْرِهِ، شَهَرَهُ اللهُ يَوْمَ الْقِيَامَةِ عَلَى رُؤُوسِ
-الْخَلاَئِقِ.
-  </p>
-</blockquote>
+> مَنِ اسْتَذَلَّ مُؤْمِناً وَاحْتَقَرَهُ لِقِلَّةِ ذَاتِ يَدِهِ
+> وَلِفَقْرِهِ، شَهَرَهُ اللهُ يَوْمَ الْقِيَامَةِ عَلَى رُؤُوسِ
+> الْخَلاَئِقِ.
 
 *Whoever humiliates and demeans a believer because of his meagerness and
 poverty, Almighty Allah shall expose him on the Day of Resurrection
@@ -1490,13 +1214,9 @@ before all creatures.‌*[^72]*‌*
 Imam al-Ridha (‘a) reported on the authority of his fathers that the
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-خَمْسٌ لاَ أَدَعُهُنَّ حَتَّى الْمَمَاتِ: الأَكْلُ عَلَى الْحَضِيضِ
-مَعَ الْعَبِيدِ، وَرُكُوبِيَ الْحِمَارَ مُؤْكِفاً، وَحَلْبِي الْعَنْزَ
-بِيَدِي، وَلَبْسُ الصُّوفِ، وَالتَّسْلِيمُ عَلَى الصِّبْيَانِ.
-  </p>
-</blockquote>
+> خَمْسٌ لاَ أَدَعُهُنَّ حَتَّى الْمَمَاتِ: الأَكْلُ عَلَى الْحَضِيضِ
+> مَعَ الْعَبِيدِ، وَرُكُوبِيَ الْحِمَارَ مُؤْكِفاً، وَحَلْبِي الْعَنْزَ
+> بِيَدِي، وَلَبْسُ الصُّوفِ، وَالتَّسْلِيمُ عَلَى الصِّبْيَانِ.
 
 *I will never abandon the following five as long as I am alive: eating
 with the servants on the ground, riding beasts of burden unsaddled,
@@ -1539,12 +1259,8 @@ natural limits of relations so that he can benefit from the vital and
 material advantages of life. Referring to this fact, the Holy Imam (‘a)
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّكَ تُصِيبُ مِنْهُمْ لَذَّتَكَ، فَلاَ تَقْطَعَنْ ذَلِكَ
-مِنْهُمْ، وَلاَ تَطْلُبَنْ مَا وَرَاءَ ذَلِكَ مِنْ ضَمِيرِهِمْ.
-  </p>
-</blockquote>
+> فَإِنَّكَ تُصِيبُ مِنْهُمْ لَذَّتَكَ، فَلاَ تَقْطَعَنْ ذَلِكَ
+> مِنْهُمْ، وَلاَ تَطْلُبَنْ مَا وَرَاءَ ذَلِكَ مِنْ ضَمِيرِهِمْ.
 
 *Regarding the friends of necessity, you gain from them only your need;
 therefore, you should not deprive them of their need. Do not ask them
@@ -1552,12 +1268,8 @@ for any other thing.*
 
 In relations, it is required to exchange benefits and pleasures:
 
-<blockquote dir="rtl">
-  <p>
-وَابْذِلْ لَهُمْ مَا بَذَلُوا لَكَ مِنْ طَلاَقَةِ الْوَجْهِ
-وَحَلاَوَةِ اللِّسَانِ.
-  </p>
-</blockquote>
+> وَابْذِلْ لَهُمْ مَا بَذَلُوا لَكَ مِنْ طَلاَقَةِ الْوَجْهِ
+> وَحَلاَوَةِ اللِّسَانِ.
 
 *Offer them a pleasant countenance and good words as long as they offer
 you a pleasant countenance and good words.‌*[^74]*‌*
@@ -1574,13 +1286,9 @@ titles.
 In this respect, Imam al-Sadiq (‘a) reported the Holy Prophet (S) to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثٌ يُصَفِّينَ وِدَّ الْمَرْءِ لأَِخِيهِ الْمُسْلِمِ: يَلْقَاهُ
-بِالْبِشْرِ إِذَا لَقِيَهُ، وَيُوَسِّعُ لَهُ فِي الْمَجْلِسِ إِذَا
-جَلَسَ إِلَيْهِ، وَيَدْعُوهُ بِأَحَبِّ الأَسْمَاءِ إِلَيْهِ.
-  </p>
-</blockquote>
+> ثَلاَثٌ يُصَفِّينَ وِدَّ الْمَرْءِ لأَِخِيهِ الْمُسْلِمِ: يَلْقَاهُ
+> بِالْبِشْرِ إِذَا لَقِيَهُ، وَيُوَسِّعُ لَهُ فِي الْمَجْلِسِ إِذَا
+> جَلَسَ إِلَيْهِ، وَيَدْعُوهُ بِأَحَبِّ الأَسْمَاءِ إِلَيْهِ.
 
 *Three things will prove your friendship to your Muslim brother:
 Welcoming him warmly, making room for him in meetings when he arrives,
@@ -1588,14 +1296,10 @@ and calling him by his dearest names.‌*[^76]*‌*
 
 Reported by Imam al-Sadiq (‘a) too, the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أَحَبَّ أَحَدُكُمْ أَخَاهُ الْمُسْلِمَ فَلْيَسْأَلْهُ عَنِ
-اسْمِهِ وَاسْمِ أَبِيهِ وَاسْمِ قَبِيلَتِهِ وَعَشِيرَتِهِ، فَإِنَّ
-مِنْ حَقِّهِ الْوَاجِبِ وَصِدْقِ الإِخَاءِ أَنْ يَسْأَلَهُ عَنْ
-ذَلِكَ، وَإِلاَّ فَإِِنَّهَا مَعْرِفَةُ حُمْقٍ.
-  </p>
-</blockquote>
+> إِذَا أَحَبَّ أَحَدُكُمْ أَخَاهُ الْمُسْلِمَ فَلْيَسْأَلْهُ عَنِ
+> اسْمِهِ وَاسْمِ أَبِيهِ وَاسْمِ قَبِيلَتِهِ وَعَشِيرَتِهِ، فَإِنَّ
+> مِنْ حَقِّهِ الْوَاجِبِ وَصِدْقِ الإِخَاءِ أَنْ يَسْأَلَهُ عَنْ
+> ذَلِكَ، وَإِلاَّ فَإِِنَّهَا مَعْرِفَةُ حُمْقٍ.
 
 *If one of you loves his Muslim brother, he must ask him his name, his
 father’s name, and his tribe’s name, because this is one of the duties
@@ -1606,12 +1310,8 @@ foolish.‌*[^77]*‌*
 Islam has also set forth laws about private chatter in public sessions.
 In this respect, Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا كَانَ الْقَوْمُ ثَلاَثَةً فَلاَ يَتَنَاجَ مِنْهُمُ اثْنَانِ
-دُونَ صَاحِبِهِمَا، فَإِنَّ فِي ذَلِكَ مَا يُحْزِنُهُ وَيُؤْذِيهِ.
-  </p>
-</blockquote>
+> إِذَا كَانَ الْقَوْمُ ثَلاَثَةً فَلاَ يَتَنَاجَ مِنْهُمُ اثْنَانِ
+> دُونَ صَاحِبِهِمَا، فَإِنَّ فِي ذَلِكَ مَا يُحْزِنُهُ وَيُؤْذِيهِ.
 
 *If there are three persons sitting together, two of them must not talk
 to one another and leave out the third because this act saddens and
@@ -1632,15 +1332,11 @@ level of association:
 
 Imam al-Sadiq (‘a) has quoted Imam ‘Ali (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ عَلَيْكَ أَنْ تَصْحَبَ ذَا الْعَقْلِ وَإِنْ لَمْ تُحْمَدْ
-كَرَمَهُ، وَلَكِنِ انْتَفِعْ بِعَقْلِهِ، وَاحْتَرِسْ مِنْ سَيِّئِ
-أَخْلاَقِهِ، وَلاَ تَدَعَنَّ صُحْبَةَ الْكَرِيمِ وَإِنْ لَمْ
-تَنْتَفِعْ بِعَقْلِهِ، وَلَكِنِ انْتَفِعْ بِكَرَمِهِ بِعَقْلِكَ،
-وَافْرُرْ كُلَّ الْفِرَارِ مِنَ اللَّئِيمِ الأَحْمَقِ.
-  </p>
-</blockquote>
+> لاَ عَلَيْكَ أَنْ تَصْحَبَ ذَا الْعَقْلِ وَإِنْ لَمْ تُحْمَدْ
+> كَرَمَهُ، وَلَكِنِ انْتَفِعْ بِعَقْلِهِ، وَاحْتَرِسْ مِنْ سَيِّئِ
+> أَخْلاَقِهِ، وَلاَ تَدَعَنَّ صُحْبَةَ الْكَرِيمِ وَإِنْ لَمْ
+> تَنْتَفِعْ بِعَقْلِهِ، وَلَكِنِ انْتَفِعْ بِكَرَمِهِ بِعَقْلِكَ،
+> وَافْرُرْ كُلَّ الْفِرَارِ مِنَ اللَّئِيمِ الأَحْمَقِ.
 
 *It is not wrong on your part to accompany wise people even if you are
 deprived of their generosity; in fact, you may benefit from their
@@ -1651,12 +1347,8 @@ despicable people.‌*[^79]*‌*
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالتَّلاَدِ، وَإِيَّاكَ وَكُلَّ مُحَدِّثٍ لاَ عَهْدَ لَهُ
-وَلاَ أَمَانَةَ وَلاَ ذِمَّةَ وَلاَ مِيثَاقَ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالتَّلاَدِ، وَإِيَّاكَ وَكُلَّ مُحَدِّثٍ لاَ عَهْدَ لَهُ
+> وَلاَ أَمَانَةَ وَلاَ ذِمَّةَ وَلاَ مِيثَاقَ.
 
 *Stand by old friends whom you have put to the test, and do not
 associate with inexperienced persons who observe neither their promises,
@@ -1684,14 +1376,10 @@ magnanimity, responds to any prayer ending with an invocation of His
 blessings on the Holy Prophet (S) and his Household (‘a). This fact has
 been reported from Imam ‘Ali (‘a) who says:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا كَانَتْ لَكَ إِلَى اللهِ سُبْحَانَهُ حَاجَةٌ فَابْدَأْ
-بِمَسْأَلَةِ الصَّلاَةِ عَلَى رَسُولِهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-ثُمَّ سَلْ حَاجَتَكَ، فَإِنَّ اللهَ أَكْرَمُ مِنْ أَنْ يُسْأَلَ
-حَاجَتَيْنِ فَيَقْضِي إِحْدَاهُمَا وَيَمْنَعُ الأُخْرَى.
-  </p>
-</blockquote>
+> إِذَا كَانَتْ لَكَ إِلَى اللهِ سُبْحَانَهُ حَاجَةٌ فَابْدَأْ
+> بِمَسْأَلَةِ الصَّلاَةِ عَلَى رَسُولِهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> ثُمَّ سَلْ حَاجَتَكَ، فَإِنَّ اللهَ أَكْرَمُ مِنْ أَنْ يُسْأَلَ
+> حَاجَتَيْنِ فَيَقْضِي إِحْدَاهُمَا وَيَمْنَعُ الأُخْرَى.
 
 *If you would like your request to be granted by Almighty Allah, you
 must begin your prayer with invoking His blessings on His Messenger (S)
@@ -1713,12 +1401,8 @@ did not address him with the conventional statement; rather, he said,
 “This man has violated our right!” Explaining this issue, the Imam (‘a)
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلْ: الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ
-وَصَلَّى اللهُ عَلَى مُحَمَّدٍ وَأَهْلِ بَيْتِهِ.
-  </p>
-</blockquote>
+> إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلْ: الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ
+> وَصَلَّى اللهُ عَلَى مُحَمَّدٍ وَأَهْلِ بَيْتِهِ.
 
 *When you sneeze, you must say: alhamdu lillahi rabbi al-’alamina wa
 salla allahu ‘ala muhammadin wa ahlibaytihi (All praise be to Allah, the
@@ -1730,13 +1414,9 @@ Imam (‘a) addressed him with the conventional answer.‌[^83]‌
 
 In his epistle to al-Ma'mun, Imam al-Ridha (‘a) says:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاَةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَاجِبَةٌ
-فِي كُلِّ مَوْطِنٍ، وَعِنْدَ الْعُطَاسِ وَالذَّبَائِحِ وَغَيْرِ
-ذَلِكَ.
-  </p>
-</blockquote>
+> الصَّلاَةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَاجِبَةٌ
+> فِي كُلِّ مَوْطِنٍ، وَعِنْدَ الْعُطَاسِ وَالذَّبَائِحِ وَغَيْرِ
+> ذَلِكَ.
 
 *Invocation of blessings on the Holy Prophet (S) is obligatory in all
 situations including sneezing, slaughtering animals, and other
@@ -1752,38 +1432,30 @@ Imam ‘Ali (‘a), by doing favors and being kind to them.
 In this respect, Imam al-Sadiq (‘a) is reported to have quoted the Holy
 Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَنَعَ إِلَى أَحَدٍ مِنْ أَهْلِ بَيْتِي يَداً كَافَأْتُهُ بِهِ
-يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> مَنْ صَنَعَ إِلَى أَحَدٍ مِنْ أَهْلِ بَيْتِي يَداً كَافَأْتُهُ بِهِ
+> يَوْمَ الْقِيَامَةِ.
 
 *Whoever does a favor to any member of my household, I will reward him
 for it on the Day of Resurrection.‌*[^85]*‌*
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا كَانَ يَوْمُ الْقِيَامَةِ نَادَى مُنَادٍ: أَيُّهَا الْخَلاَئِقُ،
-أَنْصِتُوا فَإِنَّ مُحَمَّداً صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-يُكَلِّمُكُمْ. فَتُنْصِتُ الْخَلاَئِقُ، فَيَقُومُ النَّبِيُّ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ فَيَقُولُ: يَا مَعْشَرَ الْخَلاَئِقِ، مَنْ
-كَانَتْ لَهُ عِنْدِي يَدٌ أَوْ مِنَّةٌ أَوْ مَعْرُوفٌ فَلْيَقُمْ
-حَتَّى أُكَافِئَهُ. فَيَقُولُونَ: بِآبَائِنَا وَأُمَّهَاتِنَا، وَأَيُّ
-يَدٍ أَوْ أَيُّ مِنَّةٍ وَأَيُّ مَعْرُوفٍ لَنَا؟ بَلِ الْيَدُ
-وَالْمِنَّةُ وَالْمَعْرُوفُ للهِ وَلِرَسُولِهِ عَلَى جَمِيعِ
-الْخَلاَئِقِ. فَيَقُولُ لَهُمْ: بَلَى، مَنْ آوَى أَحَداً مِنْ أَهْلِ
-بَيْتِي، أَوْ بَرَّهُمْ، أَوْ كَسَاهُمْ مِنْ عُرْيٍ، أَوْ أَشْبَعَ
-جَائِعَهُمْ فَلْيَقُمْ حَتَّى أُكَافِئَهُ. فَيَقُومُ أُنَاسٌ قَدْ
-فَعَلُوا ذَلِكَ. فَيَأْتِي النِّدَاءُ مِنْ عِنْدِ اللهِ تَعَالَى: يَا
-مُحَمَّدُ يَا حَبِيبِي، قَدْ جَعَلْتُ مُكَافَأَتَهُمْ إِلَيْكَ،
-فَأَسْكِنْهُمْ مِنَ الْجَنَّةِ حَيْثُ شِئْتَ. فَيُسْكِنُهُمْ فِي
-الْوَسِيلَةِ، حَيْثُ لاَ يُحْجَبُونَ عَنْ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ
-عَلَيْهِمُ السَّلاَمُ.
-  </p>
-</blockquote>
+> إِذَا كَانَ يَوْمُ الْقِيَامَةِ نَادَى مُنَادٍ: أَيُّهَا الْخَلاَئِقُ،
+> أَنْصِتُوا فَإِنَّ مُحَمَّداً صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> يُكَلِّمُكُمْ. فَتُنْصِتُ الْخَلاَئِقُ، فَيَقُومُ النَّبِيُّ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ فَيَقُولُ: يَا مَعْشَرَ الْخَلاَئِقِ، مَنْ
+> كَانَتْ لَهُ عِنْدِي يَدٌ أَوْ مِنَّةٌ أَوْ مَعْرُوفٌ فَلْيَقُمْ
+> حَتَّى أُكَافِئَهُ. فَيَقُولُونَ: بِآبَائِنَا وَأُمَّهَاتِنَا، وَأَيُّ
+> يَدٍ أَوْ أَيُّ مِنَّةٍ وَأَيُّ مَعْرُوفٍ لَنَا؟ بَلِ الْيَدُ
+> وَالْمِنَّةُ وَالْمَعْرُوفُ للهِ وَلِرَسُولِهِ عَلَى جَمِيعِ
+> الْخَلاَئِقِ. فَيَقُولُ لَهُمْ: بَلَى، مَنْ آوَى أَحَداً مِنْ أَهْلِ
+> بَيْتِي، أَوْ بَرَّهُمْ، أَوْ كَسَاهُمْ مِنْ عُرْيٍ، أَوْ أَشْبَعَ
+> جَائِعَهُمْ فَلْيَقُمْ حَتَّى أُكَافِئَهُ. فَيَقُومُ أُنَاسٌ قَدْ
+> فَعَلُوا ذَلِكَ. فَيَأْتِي النِّدَاءُ مِنْ عِنْدِ اللهِ تَعَالَى: يَا
+> مُحَمَّدُ يَا حَبِيبِي، قَدْ جَعَلْتُ مُكَافَأَتَهُمْ إِلَيْكَ،
+> فَأَسْكِنْهُمْ مِنَ الْجَنَّةِ حَيْثُ شِئْتَ. فَيُسْكِنُهُمْ فِي
+> الْوَسِيلَةِ، حَيْثُ لاَ يُحْجَبُونَ عَنْ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ
+> عَلَيْهِمُ السَّلاَمُ.
 
 *On the Day of Resurrection, a caller will cry out, “Listen! Muhammad
 (S) is talking to you.” As all creatures become silent, the Holy Prophet
@@ -1809,14 +1481,10 @@ and his Household (‘a).‌*[^86]*‌*
 Imam al-Ridha (‘a), on the authority of his fathers, has reported the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَرْبَعَةٌ أَنَا لَهُمْ شَفِيعٌ يَوْمَ الْقِيَامَةِ: الْمُكْرِمُ
-لِذُرِّيَّتِي مِنْ بَعْدِي، وَالْقَاضِي لَهُمْ حَوَائِجَهُمْ،
-وَالسَّاعِي لَهُمْ فِي أُمُورِهِمْ عِنْدَمَا اضْطُرُّوا إِلَيْهِ،
-وَالْمُحِبُّ لَهُمْ بِقَلْبِهِ وَلِسَانِهِ.
-  </p>
-</blockquote>
+> أَرْبَعَةٌ أَنَا لَهُمْ شَفِيعٌ يَوْمَ الْقِيَامَةِ: الْمُكْرِمُ
+> لِذُرِّيَّتِي مِنْ بَعْدِي، وَالْقَاضِي لَهُمْ حَوَائِجَهُمْ،
+> وَالسَّاعِي لَهُمْ فِي أُمُورِهِمْ عِنْدَمَا اضْطُرُّوا إِلَيْهِ،
+> وَالْمُحِبُّ لَهُمْ بِقَلْبِهِ وَلِسَانِهِ.
 
 *I will be the intercessor of four categories of people on the Day of
 Resurrection: (1) those who respect my descendants after my passing
@@ -1827,13 +1495,9 @@ who love them sincerely in word and deed.‌*[^87]*‌*
 Imam al-Baqir (‘a), on the authority of his fathers, has reported the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَرَادَ التَّوَسُّلَ إِلَيَّ وَأَنْ يَكُونَ لَهُ عِنْدِي يَدٌ
-أَشْفَعُ لَهُ بِهَا يَوْمَ الْقِيَامَةِ فَلْيَصِلْ أَهْلَ بَيْتِي
-وَيُدْخِلِ السُّرُورَ عَلَيْهِمْ.
-  </p>
-</blockquote>
+> مَنْ أَرَادَ التَّوَسُّلَ إِلَيَّ وَأَنْ يَكُونَ لَهُ عِنْدِي يَدٌ
+> أَشْفَعُ لَهُ بِهَا يَوْمَ الْقِيَامَةِ فَلْيَصِلْ أَهْلَ بَيْتِي
+> وَيُدْخِلِ السُّرُورَ عَلَيْهِمْ.
 
 *Whoever wishes to make me his agency (before Almighty Allah) and to
 have an attribute for which I will intercede for him on the Day of
@@ -1842,18 +1506,14 @@ tranquility.‌*[^88]*‌*
 
 Imam al-Baqir (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا كَانَ يَوْمُ الْقِيَامَةِ جَمَعَ اللهُ الأَوَّلِينَ
-وَالآخِرِينَ، فَيُنَادِي مُنَادٍ: مَنْ كَانَتْ لَهُ عِنْدَ رَسُولِ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَدٌ فَلْيَقُمْ. فَيَقُومُ عُنُقٌ
-مِنَ النَّاسِ، فَيَقُولُ: مَا كَانَتْ أَيَادِيكُمْ عِنْدَ رَسُولِ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ؟ فَيَقُولُونَ: كُنَّا نَصِلُ
-أَهْلَ بَيْتِهِ مِنْ بَعْدِهِ. فَيُقَالُ لَهُمْ: إِذْهَبُوا فَطُوفُوا
-فِي النَّاسِ، فَمَنْ كَانَتْ لَهُ عِنْدَكُمْ يَدٌ فَخُذُوا بِيَدِهِ
-فَأَدْخِلُوهُ الْجَنَّةَ.
-  </p>
-</blockquote>
+> إِذَا كَانَ يَوْمُ الْقِيَامَةِ جَمَعَ اللهُ الأَوَّلِينَ
+> وَالآخِرِينَ، فَيُنَادِي مُنَادٍ: مَنْ كَانَتْ لَهُ عِنْدَ رَسُولِ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَدٌ فَلْيَقُمْ. فَيَقُومُ عُنُقٌ
+> مِنَ النَّاسِ، فَيَقُولُ: مَا كَانَتْ أَيَادِيكُمْ عِنْدَ رَسُولِ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ؟ فَيَقُولُونَ: كُنَّا نَصِلُ
+> أَهْلَ بَيْتِهِ مِنْ بَعْدِهِ. فَيُقَالُ لَهُمْ: إِذْهَبُوا فَطُوفُوا
+> فِي النَّاسِ، فَمَنْ كَانَتْ لَهُ عِنْدَكُمْ يَدٌ فَخُذُوا بِيَدِهِ
+> فَأَدْخِلُوهُ الْجَنَّةَ.
 
 *On the Day of Resurrection, a caller will cry out, “Anyone who has done
 a favor for the Messenger of Allah (S) may stand up.” Some people will
@@ -1869,23 +1529,15 @@ Showing respect to old men is another form of special treatment in the
 category of weak people. In this regard, ‘Abdullah ibn Sinan reported
 that Imam al-Sadiq (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مِنْ إِجْلاَلِ اللهِ عَزَّ وَجَلَّ إِجْلاَلَ الشَّيْخِ
-الْكَبِيرِ.
-  </p>
-</blockquote>
+> إِنَّ مِنْ إِجْلاَلِ اللهِ عَزَّ وَجَلَّ إِجْلاَلَ الشَّيْخِ
+> الْكَبِيرِ.
 
 *To respect old men is a kind of respect for Allah, the
 All-majestic.‌*[^90]*‌*
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ مِنَّا مَنْ لَمْ يُوَقِّرْ كَبِيرَنَا وَيَرْحَمْ صَغِيرَنَا.
-  </p>
-</blockquote>
+> لَيْسَ مِنَّا مَنْ لَمْ يُوَقِّرْ كَبِيرَنَا وَيَرْحَمْ صَغِيرَنَا.
 
 *He who does not respect our old men and does not show mercy toward our
 youngsters is not one of us.‌*[^91]*‌*
@@ -1899,14 +1551,10 @@ Qur'an, and reciters of Almighty Allah’s revealed verses.
 In this connection, Imam al-Sadiq (‘a) is reported to have quoted the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَهْلَ الْقُرْآنِ فِي أَعْلَى دَرَجَةً مِنَ الآدَمِيِّينَ مَا
-خَلاَ النَّبِيِّينَ وَالْمُرْسَليِنَ، فَلاَ تَسْتَضْعِفُوا أَهْلَ
-الْقُرْآنِ حُقُوقَهُمْ، فَإِنَّ لَهُمْ مِنَ اللهِ الْعَزِيزِ
-الْجَبَّارِ لَمَكَاناً.
-  </p>
-</blockquote>
+> إِنَّ أَهْلَ الْقُرْآنِ فِي أَعْلَى دَرَجَةً مِنَ الآدَمِيِّينَ مَا
+> خَلاَ النَّبِيِّينَ وَالْمُرْسَليِنَ، فَلاَ تَسْتَضْعِفُوا أَهْلَ
+> الْقُرْآنِ حُقُوقَهُمْ، فَإِنَّ لَهُمْ مِنَ اللهِ الْعَزِيزِ
+> الْجَبَّارِ لَمَكَاناً.
 
 *The people of the Holy Qur'an shall be in the highest rank that human
 beings can attain except for the Prophets and Messengers (of Almighty
@@ -1923,12 +1571,8 @@ one reported by Shaykh al-Kulayni on the authority of Abu-Hamzah
 al-Thumali, who related that he heard Imam al-Baqir (‘a) quoting the
 following from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّ مُؤْمِناً فَقَدْ سَرَّنِي، وَمَنْ سَرَّنِي فَقَدْ سَرَّ
-اللهَ.
-  </p>
-</blockquote>
+> مَنْ سَرَّ مُؤْمِناً فَقَدْ سَرَّنِي، وَمَنْ سَرَّنِي فَقَدْ سَرَّ
+> اللهَ.
 
 *Whoever gives pleasure to a faithful believer has in fact given
 pleasure to me, and whoever gives pleasure to me has given pleasure to
@@ -1936,13 +1580,9 @@ Almighty Allah.‌*[^94]*‌*
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أَحَبِّ الأَعْمَالِ إِلَى اللهِ عَزَّ وَجَلَّ إِدْخَالُ
-السُّرُورِعَلَى الْمُؤْمِنِ: إِشْبَاعُ جَوْعَتِهِ، أَوْ تَنْفِيسُ
-كُرْبَتِهِ، أَوْ قَضَاءُ دَيْنِهِ.
-  </p>
-</blockquote>
+> مِنْ أَحَبِّ الأَعْمَالِ إِلَى اللهِ عَزَّ وَجَلَّ إِدْخَالُ
+> السُّرُورِعَلَى الْمُؤْمِنِ: إِشْبَاعُ جَوْعَتِهِ، أَوْ تَنْفِيسُ
+> كُرْبَتِهِ، أَوْ قَضَاءُ دَيْنِهِ.
 
 *Among the most beloved acts in the view of Almighty Allah is to give
 pleasure to a faithful believer by satisfying his hunger, relieving his
@@ -1952,14 +1592,10 @@ Another form of special treatment toward faithful believers is to settle
 their needs. In this respect, Imam al-Sadiq (‘a) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قَضَى لأَِخِيهِ الْمُؤْمِنِ حَاجَةً قَضَى اللهُ لَهُ يَوْمَ
-الْقِيَامَةِ مِائَةَ أَلْفِ حَاجَةً، مِنْ ذَلِكَ أَوَّلُهَا
-الْجَنَّةُ، وَمِنْ ذَلِكَ أَنْ يُدْخِلَ قَرَابَتَهُ وَمَعَارِفَهُ
-وَإِخْوَانَهُ الْجَنَّةَ بَعْدَ أَنْ لاَ يَكُونُوا نُصَّاباً.
-  </p>
-</blockquote>
+> وَمَنْ قَضَى لأَِخِيهِ الْمُؤْمِنِ حَاجَةً قَضَى اللهُ لَهُ يَوْمَ
+> الْقِيَامَةِ مِائَةَ أَلْفِ حَاجَةً، مِنْ ذَلِكَ أَوَّلُهَا
+> الْجَنَّةُ، وَمِنْ ذَلِكَ أَنْ يُدْخِلَ قَرَابَتَهُ وَمَعَارِفَهُ
+> وَإِخْوَانَهُ الْجَنَّةَ بَعْدَ أَنْ لاَ يَكُونُوا نُصَّاباً.
 
 *Whoever fulfills the need of his brother-in-faith, Almighty Allah shall
 settle one hundred thousand of his needs on the Day of Resurrection. One
@@ -1969,13 +1605,9 @@ are not opponents (of the Ahl al-Bayt).‌*[^96]*‌*
 
 Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُؤْمِنَ لَتَرِدُ عَلَيْهِ الْحَاجَةُ لأَِخِيهِ فَلاَ تَكُونُ
-عِنْدَهُ، يَهْتَمُّ بِهَا قَلْبُهُ، فَيُدْخِلُهُ اللهُ بِهَمِّهِ
-الْجَنَّةَ.
-  </p>
-</blockquote>
+> إِنَّ الْمُؤْمِنَ لَتَرِدُ عَلَيْهِ الْحَاجَةُ لأَِخِيهِ فَلاَ تَكُونُ
+> عِنْدَهُ، يَهْتَمُّ بِهَا قَلْبُهُ، فَيُدْخِلُهُ اللهُ بِهَمِّهِ
+> الْجَنَّةَ.
 
 *Sometimes a faithful believer feels upset because he cannot solve the
 problem of one of his brethren-in-faith. As a result of this feeling,
@@ -1985,16 +1617,12 @@ Another form of special treatment toward faithful believers is to
 relieve their agony or ease their difficulties. In this connection, Zayd
 al-Shahham has reported that he heard Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَغَاثَ أَخَاهُ الْمُؤْمِنَ اللَّهْفَانَ عِنْدَ جَهْدِهِ
-فَنَفَّسَ كُرْبَتَهُ وَأَعَانَهُ عَلَى نَجَاحِ حَاجَتِهِ، كَتَبَ اللهُ
-عَزَّ وَجَلَّ لَهُ بِذَلِكَ ثِنْتَيْنِ وَسَبْعِينَ رَحْمَةً مِنَ
-اللهِ، يُعَجِّلُ لَهُ مِنْهَا وَاحِدَةً يُصْلِحُ بِهَا أَمْرَ
-مَعِيشَتِهِ، وَيَدَّخِرُ لَهُ إِحْدَى وَسَبْعِينَ رَحْمَةً لأَِفْزَاعِ
-يَوْمِ الْقِيَامَةِ وَأَهْوَالِهِ.
-  </p>
-</blockquote>
+> مَنْ أَغَاثَ أَخَاهُ الْمُؤْمِنَ اللَّهْفَانَ عِنْدَ جَهْدِهِ
+> فَنَفَّسَ كُرْبَتَهُ وَأَعَانَهُ عَلَى نَجَاحِ حَاجَتِهِ، كَتَبَ اللهُ
+> عَزَّ وَجَلَّ لَهُ بِذَلِكَ ثِنْتَيْنِ وَسَبْعِينَ رَحْمَةً مِنَ
+> اللهِ، يُعَجِّلُ لَهُ مِنْهَا وَاحِدَةً يُصْلِحُ بِهَا أَمْرَ
+> مَعِيشَتِهِ، وَيَدَّخِرُ لَهُ إِحْدَى وَسَبْعِينَ رَحْمَةً لأَِفْزَاعِ
+> يَوْمِ الْقِيَامَةِ وَأَهْوَالِهِ.
 
 *Almighty Allah will record seventy-two items of His mercy for whoever
 relieves the agony of his aggrieved brother-in-faith, drives away his
@@ -2014,22 +1642,14 @@ reported from the Ahl al-Bayt (‘a):
 Imam al-Sadiq (‘a) is reported to have quoted the Holy Prophet (S) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-حُسْنُ الْجِوَارِ يُعَمِّرُ الدِّيَارَ وَيُنْسِئُ فِي الأَعْمَارِ.
-  </p>
-</blockquote>
+> حُسْنُ الْجِوَارِ يُعَمِّرُ الدِّيَارَ وَيُنْسِئُ فِي الأَعْمَارِ.
 
 *Good neighborliness makes communities thrive and increases
 longevity.‌*[^99]*‌*
 
 Abu-Mas’ud has reported that Imam al-Sadiq (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-حُسْنُ الْجِوَارِ زِيَادَةٌ فِي الأَعْمَارِ وَعِمَارَةُ الدِّيَارِ.
-  </p>
-</blockquote>
+> حُسْنُ الْجِوَارِ زِيَادَةٌ فِي الأَعْمَارِ وَعِمَارَةُ الدِّيَارِ.
 
 *Good neighborliness increases longevity and makes communities
 thrive.‌*[^100]*‌*
@@ -2037,24 +1657,16 @@ thrive.‌*[^100]*‌*
 Abu-Rabi’ al-Shami has reported that Imam al-Sadiq (‘a) said the
 following while his house was packed with people:
 
-<blockquote dir="rtl">
-  <p>
-إِعْلَمُوا أَنَّهُ لَيْسَ مِنَّا مَنْ لَمْ يُحْسِنْ مُجَاوَرَةَ مَنْ
-جَاوَرَهُ.
-  </p>
-</blockquote>
+> إِعْلَمُوا أَنَّهُ لَيْسَ مِنَّا مَنْ لَمْ يُحْسِنْ مُجَاوَرَةَ مَنْ
+> جَاوَرَهُ.
 
 *Be it known to you all that whoever does not observe good
 neighborliness with his neighbors, does not belong to us.‌*[^101]*‌*
 
 Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-حَدُّ الْجِوَارِ أَرْبَعُونَ دَاراً مِنْ كُلِّ جَانِبٍ: مِنْ بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ وَعَنْ يَمِينِهِ وَعَنْ شِمَالِهِ.
-  </p>
-</blockquote>
+> حَدُّ الْجِوَارِ أَرْبَعُونَ دَاراً مِنْ كُلِّ جَانِبٍ: مِنْ بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ وَعَنْ يَمِينِهِ وَعَنْ شِمَالِهِ.
 
 *The border of neighborhood includes forty houses from all sides; the
 front, the back, the right, and the left.‌*[^102]*‌*
@@ -2068,11 +1680,7 @@ goodness nor security from harm could be expected. Immediately, the Holy
 Prophet (S) ordered Imam ‘Ali (‘a), Salman, Abu-Dharr, and probably
 al-Miqdad to go to the mosque and announce:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِيـمَانَ لِمَنْ لَمْ يَأْمَنْ جَارُهُ بَوَائِقَهُ.
-  </p>
-</blockquote>
+> لاَ إِيـمَانَ لِمَنْ لَمْ يَأْمَنْ جَارُهُ بَوَائِقَهُ.
 
 *“Faithless is he whose neighbors are not safe from his harm.”*
 
@@ -2083,29 +1691,21 @@ of neighborhood.‌[^103]‌
 Al-Hasan ibn ‘Abdullah has reported the Righteous Servant (i.e. Imam
 al-Kazim) to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ حُسْنُ الْجِوَارِ كَفَّ الأَذَى، وَلَكِنْ حُسْنُ الْجِوَارِ
-صَبْرُكَ عَلَى الأَذَى.
-  </p>
-</blockquote>
+> لَيْسَ حُسْنُ الْجِوَارِ كَفَّ الأَذَى، وَلَكِنْ حُسْنُ الْجِوَارِ
+> صَبْرُكَ عَلَى الأَذَى.
 
 *Good neighborliness does not mean to stop harm from neighbors; rather,
 it means to patiently endure the harm of neighbors.‌*[^104]*‌*
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَفْلَتَ الْمُؤْمِنُ مِنْ وَاحِدَةٍ مِنْ ثَلاَثٍ، وَلَرُبَّمَا
-إجْتَمَعَتِ الثَّلاَثُ عَلَيْهِ: إِمَّا بَعْضُ مَنْ يَكُونُ مَعَهُ فِي
-الدَّارِ يُغْلِقُ عَلَيْهِ بَابَهُ يُؤْذِيهِ، أَوْ جَارٌ يُؤْذِيهِ،
-أَوْ مَنْ فِي طَرِيقِهِ إِلَى حَوَائِجِهِ يُؤْذِيهِ. وَلَوْ أَنَّ
-مُؤْمِناً عَلَى قُلَّةِ جَبَلٍ لَبَعَثَ اللهُ عَزَّ وَجَلَّ عَلَيْهِ
-شَيْطَاناً يُؤْذِيهِ، وَيَجْعَلُ لَهُ مِنْ إِيـمَانِهِ أُنْساً لاَ
-يَسْتَوْحِشُ مَعَهُ إِلَى أَحَدٍ.
-  </p>
-</blockquote>
+> مَا أَفْلَتَ الْمُؤْمِنُ مِنْ وَاحِدَةٍ مِنْ ثَلاَثٍ، وَلَرُبَّمَا
+> إجْتَمَعَتِ الثَّلاَثُ عَلَيْهِ: إِمَّا بَعْضُ مَنْ يَكُونُ مَعَهُ فِي
+> الدَّارِ يُغْلِقُ عَلَيْهِ بَابَهُ يُؤْذِيهِ، أَوْ جَارٌ يُؤْذِيهِ،
+> أَوْ مَنْ فِي طَرِيقِهِ إِلَى حَوَائِجِهِ يُؤْذِيهِ. وَلَوْ أَنَّ
+> مُؤْمِناً عَلَى قُلَّةِ جَبَلٍ لَبَعَثَ اللهُ عَزَّ وَجَلَّ عَلَيْهِ
+> شَيْطَاناً يُؤْذِيهِ، وَيَجْعَلُ لَهُ مِنْ إِيـمَانِهِ أُنْساً لاَ
+> يَسْتَوْحِشُ مَعَهُ إِلَى أَحَدٍ.
 
 *A faithful believer cannot escape one of the following three things
 although he may encounter all of them: he may be harmed by one of the
@@ -2118,12 +1718,8 @@ faith due to which he will never feel lonely.‌*[^105]*‌*
 
 Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْقَوَاصِمِ الَّتِي تَقْصِمُ الظَّهْرَ جَارُ السُّوءِ إِنْ رَأَى
-حَسَنَةً أَخْفَاهَا وَإِنْ رَأَى سَيِّئَةً أَفْشَاهَا.
-  </p>
-</blockquote>
+> مِنَ الْقَوَاصِمِ الَّتِي تَقْصِمُ الظَّهْرَ جَارُ السُّوءِ إِنْ رَأَى
+> حَسَنَةً أَخْفَاهَا وَإِنْ رَأَى سَيِّئَةً أَفْشَاهَا.
 
 *A wicked neighbor is like a stab in the back. If this neighbor sees a
 kind act (from another neighbor), he conceals it; however, if he notices
@@ -2398,5 +1994,4 @@ necessary with this distinguished group.
 [^105]: ‌- Al-Hurr al-’Amili, Wasa’il al-Shi’ah 8:484, S. 85, H. 3.
 
 [^106]: ‌- Al-Hurr al-’Amili, Wasa’il al-Shi’ah 8:491, S. 89, H. 1.
-
 

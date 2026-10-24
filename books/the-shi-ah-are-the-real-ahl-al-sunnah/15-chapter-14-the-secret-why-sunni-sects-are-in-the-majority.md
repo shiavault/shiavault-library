@@ -216,6 +216,6 @@ we have usurped their rights."
 Let us now go back to Imam Malik to hear him personally detailing the
 story of his meeting with the caliph Abu Ja\`far al-Mansour.
 
-[^75] Such admission is recorded on p. 524 of al-Shafi\`i's Manaqib.
-[^76] Tadhkirat al-Huffaz, Vol. 1, p. 176.
+[^75]: Such admission is recorded on p. 524 of al-Shafi\`i's Manaqib.
+[^76]: Tadhkirat al-Huffaz, Vol. 1, p. 176.
 

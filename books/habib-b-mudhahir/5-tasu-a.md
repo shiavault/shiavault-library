@@ -31,4 +31,3 @@ Zuhair answered:
 
 *Allah has praised and guided him. Uzrah I advise you to fear Allah!*
 
-

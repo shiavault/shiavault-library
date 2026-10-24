@@ -234,7 +234,6 @@ beyond its power and capacity, and every day they take it to work in
 rough roads, the life-time of the car may decrease to half or less than
 that. This is that very ‘sudden death’ of it.
 
-
 **Commentary : Verse 13**
 
 (13) يُولِجُ الَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي الَّيْلِ
@@ -343,5 +342,4 @@ Yes, these idols are neither the source of any benefit, and harm, nor
 do they defend you nor of themselves, nor do they have any authority and
 possession even over the skin of a dater-stone. Yet, why do you, the
 unwise, worship them and demand them to solve your problems?
-
 

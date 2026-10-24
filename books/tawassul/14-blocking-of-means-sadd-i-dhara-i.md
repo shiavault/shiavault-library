@@ -57,4 +57,3 @@ the issue of*tawassul* is a moral one and does not concern the
 principles of faith, since a kafir is the one who rejects any of the
 tenets of Islam.
 
-

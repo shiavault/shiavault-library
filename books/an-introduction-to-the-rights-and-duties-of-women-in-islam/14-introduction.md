@@ -453,13 +453,9 @@ Through this discussion, the status of women may be illuminated.
 The Quran and Hadith has put much emphasis on this issue. As an example,
 this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَ حَمَلْنَاهُمْ فِي الْبَرِّ وَ
-الْبَحْرِ وَ رَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَ فَضَّلْنَاهُمْ عَلَى
-كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلاً
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَ حَمَلْنَاهُمْ فِي الْبَرِّ وَ
+> الْبَحْرِ وَ رَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَ فَضَّلْنَاهُمْ عَلَى
+> كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلاً
 
 In this verse, God Almighty states: **‘*****Surely We have exalted the
 children of Adam*** [meaning that God has promoted humans—both men and
@@ -480,11 +476,7 @@ and men are equal as humans. If women were not lofty, it would be said:
 
 Again, there is another verse that states:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
 
 ***“Surely We have created humanity in the best formation.”***[^3]
 
@@ -504,11 +496,7 @@ answer questions regarding them. Women are also such. When the angels
 saw that Adam (‘a) could answer when they could not, they bowed and made
 obeisance to him:
 
-<blockquote dir="rtl">
-  <p>
-فَسَجَدَ الْمَلآئِكَةُ كُلُّهُمْ أَجْمَعُونَ
-  </p>
-</blockquote>
+> فَسَجَدَ الْمَلآئِكَةُ كُلُّهُمْ أَجْمَعُونَ
 
 ***“Thereupon, all the angels made obeisance, bar none.”***[^4]
 
@@ -572,11 +560,7 @@ race; this duty has been put upon the shoulders of both women and men
 and both are the source of the race’s perpetuation. The Quran has also
 stated this issue; for example in this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَ أُنثَى...
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَ أُنثَى...
 
 ***“O Humans! Verily We have created you from a male and female…”***[^9]
 
@@ -585,11 +569,7 @@ and men. Then it states, We have created you from one male and one
 female. Again it mentions them both together and does not differentiate.
 Near the end of the verse it states:
 
-<blockquote dir="rtl">
-  <p>
-...إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ...
-  </p>
-</blockquote>
+> ...إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ...
 
 ***“Surely the dearest of you to Allah are the most righteous of
 you…”***[^10]
@@ -604,12 +584,8 @@ of worldly and otherworldly life are common responsibilities upon all
 humans, regardless of whether they are male or female. There are many
 verses on this issue, some of which I shall enumerate.
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَ هُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً...
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَ هُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً...
 
 ***“Whosoever performs a good and righteous deed, whether they be male
 or female, while they are a believer, We shall certainly vivify them
@@ -620,11 +596,7 @@ and the afterworld [*akhirat*]. Life in this world and the next is not
 separate. One enters pure and good life in this world and continues it
 in *Akhirat*. The verse ends thus:
 
-<blockquote dir="rtl">
-  <p>
-...وَ لَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> ...وَ لَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُواْ يَعْمَلُونَ
 
 ***“…and We shall recompense them with a reward according to the best of
 what they used to do.”*** [^12]
@@ -634,12 +606,8 @@ be given *hayat-e tayyibah*.
 
 Another verse states:
 
-<blockquote dir="rtl">
-  <p>
-...أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى
-بَعْضُكُم مِّن بَعْضٍ...
-  </p>
-</blockquote>
+> ...أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى
+> بَعْضُكُم مِّن بَعْضٍ...
 
 ***“…I shall not waste the work of any agent among you, whether man or
 woman; you are all members of the same race…”***[^13]
@@ -656,12 +624,8 @@ Just as the Quran has praised some men for their faith and righteous
 deeds, so also it has praised some righteous women. For example, it
 beautifully eulogizes Saint Maryam (‘a):
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ قَالَتِ الْمَلاَئِكَةُ يَا مَرْيَمُ إِنَّ اللّهَ اصْطَفَاكِ وَ
-طَهَّرَكِ وَ اصْطَفَاكِ عَلَى نِسَاء الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَ إِذْ قَالَتِ الْمَلاَئِكَةُ يَا مَرْيَمُ إِنَّ اللّهَ اصْطَفَاكِ وَ
+> طَهَّرَكِ وَ اصْطَفَاكِ عَلَى نِسَاء الْعَالَمِينَ
 
 ***“And [remember] when the angels said: O Maryam! Verily, Allah has
 chosen you and purified you and preferred you above the women of the
@@ -670,14 +634,10 @@ worlds.”***[^14]
 This is a great excellence. Or the example of Asiyah, Pharaoh’s wife,
 who is also thus. She has been extolled in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَ ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا اِمْرَأَةَ فِرْعَوْنَ
-إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَ
-نَجِّنِي مِن فِرْعَوْنَ وَ عَمَلِهِ وَ نَجِّنِي مِنَ الْقَوْمِ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَ ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا اِمْرَأَةَ فِرْعَوْنَ
+> إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَ
+> نَجِّنِي مِن فِرْعَوْنَ وَ عَمَلِهِ وَ نَجِّنِي مِنَ الْقَوْمِ
+> الظَّالِمِينَ
 
 ***“And Allah has set forth an example for the believers, Pharaoh’s wife
 when she said, ‘O Nourisher! Build for me, in your presence, a house in
@@ -708,11 +668,7 @@ preference to men when speaking of knowledge and women also have these
 merits. There are many Hadith that instruct us to acquire knowledge,
 such as this well-known Hadith of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«طلب العلم فریضة علی کل مسلم.»
-  </p>
-</blockquote>
+> «طلب العلم فریضة علی کل مسلم.»
 
 Seeking knowledge is a duty for every Muslim.
 
@@ -725,11 +681,7 @@ words ‘Muslim’ and ‘Muslimah’:
 However, even if it did not contain the word “Muslimah” it would be
 sufficient for this purpose. Also:
 
-<blockquote dir="rtl">
-  <p>
-«الا ان الله یحب بغاة العلم.»
-  </p>
-</blockquote>
+> «الا ان الله یحب بغاة العلم.»
 
 Allah loves seekers of knowledge.
 
@@ -931,11 +883,7 @@ influence in the family. Hence, Islam emphasizes for women to adorn
 themselves and apply beauty products for their husbands, wear lovely
 clothes, and maintain their beauty. We even have a Hadith that states:
 
-<blockquote dir="rtl">
-  <p>
-«المرأةُ ریحانة و لیست بقهرمانة.»
-  </p>
-</blockquote>
+> «المرأةُ ریحانة و لیست بقهرمانة.»
 
 A woman is a beautiful and fragrant flower [*riyhan*], not a champion.
 
@@ -1023,12 +971,8 @@ addition, Islam confirms this right and there are many Quranic verses
 and Hadith that emphasize the necessity to learn and women and men are
 no different in this regard. I shall enumerate several verses:
 
-<blockquote dir="rtl">
-  <p>
-...قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَ الَّذِينَ لَا
-يَعْلَمُونَ...
-  </p>
-</blockquote>
+> ...قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَ الَّذِينَ لَا
+> يَعْلَمُونَ...
 
 ***“Say, ‘Are those who know and those who know not alike?’”***[^16]
 
@@ -1040,12 +984,8 @@ to an ignorant man, women are the same.
 
 Or this verse:
 
-<blockquote dir="rtl">
-  <p>
-...يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَ الَّذِينَ أُوتُوا
-الْعِلْمَ دَرَجَاتٍ...
-  </p>
-</blockquote>
+> ...يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَ الَّذِينَ أُوتُوا
+> الْعِلْمَ دَرَجَاتٍ...
 
 ***“Allah exalts those of you who believe and those who have been given
 knowledge to great ranks.”***[^17]
@@ -1057,12 +997,8 @@ men and women are the same in this.
 Many verses of the Quran advise people to think, contemplate, and
 acquire knowledge. Such as:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
-بِهَا...
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
+> بِهَا...
 
 ***“Have they not traveled upon the earth so as to have hearts to
 understand with…?”***[^18]
@@ -1070,11 +1006,7 @@ understand with…?”***[^18]
 Here, the Quran enjoins travel so that our minds open in order that we
 may better think and understand. Or for example this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-...وَ يَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لاَ يَعْقِلُونَ
-  </p>
-</blockquote>
+> ...وَ يَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لاَ يَعْقِلُونَ
 
 ***“And He places uncleanness (sin and unbelief) upon those who think
 not.”***[^19]
@@ -1083,12 +1015,8 @@ These verses indicate that knowledge and the quest for it is a great
 virtue for a person and women and men are similar in this respect.
 Elsewhere, God Almighty declares:
 
-<blockquote dir="rtl">
-  <p>
-وَ سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَ مَا فِي الْأَرْضِ جَمِيعًا
-مِّنْهُ...
-  </p>
-</blockquote>
+> وَ سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَ مَا فِي الْأَرْضِ جَمِيعًا
+> مِّنْهُ...
 
 ***“And He has made submissive to you that which is in the heavens and
 that which is in the earth, all these are from Him.”***[^20]
@@ -1121,12 +1049,8 @@ narrations that are either weak or are only attributed to one Infallible
 most clear of them is a Hadith in which the Prophet of Allah (S)
 declared:
 
-<blockquote dir="rtl">
-  <p>
-«لا تنزلوا النساء الغرف و لا تعلموهن الکتابة و علّموهن المغزل و سورة
-النور.»
-  </p>
-</blockquote>
+> «لا تنزلوا النساء الغرف و لا تعلموهن الکتابة و علّموهن المغزل و سورة
+> النور.»
 
 Do not quarter women in upper stories [*ghurfah*] and do not teach them
 writing. Teach them spining and Surah Nur.[^21]
@@ -1427,12 +1351,8 @@ opposite.
 
 Such a Hadith has been attributed to Amir al-Mu’minin (‘a):
 
-<blockquote dir="rtl">
-  <p>
-«اياک و مشاورة النساء الّا مَن جُرّبَت بکمال عقلٍ فانَّ رأیِهن یَجُرُّ
-الی الأفن و عَزمهن الی وهن.»
-  </p>
-</blockquote>
+> «اياک و مشاورة النساء الّا مَن جُرّبَت بکمال عقلٍ فانَّ رأیِهن یَجُرُّ
+> الی الأفن و عَزمهن الی وهن.»
 
 I warn you of consulting with women, except those whose complete
 intellect you have experienced. Surely their opinions make a person
@@ -1529,13 +1449,9 @@ the time?
 that are sometimes difficult and arduous for them; for example, in a
 Hadith that Jabir ibn Ju‘fi cites from Imam Baqir (‘a) it is said:
 
-<blockquote dir="rtl">
-  <p>
-«لیس علی النساء أذانٌ و لا إقامةٌ و لا جمعة و لا جماعة و لا عیادة
-المریض و لا اتباع الجنازة و لا إجهارٌ بالتلبیة و لا الهرولة بین الصفا
-و المروة و لا استلام الحجر الاسود و لا دخول الکعبة.»
-  </p>
-</blockquote>
+> «لیس علی النساء أذانٌ و لا إقامةٌ و لا جمعة و لا جماعة و لا عیادة
+> المریض و لا اتباع الجنازة و لا إجهارٌ بالتلبیة و لا الهرولة بین الصفا
+> و المروة و لا استلام الحجر الاسود و لا دخول الکعبة.»
 
 *Adhan*, *Iqamah*, Friday Prayer, collective prayer, visiting the sick,
 escorting funeral processions, saying *Talbiyah* loudly in *Ihram*,
@@ -2115,5 +2031,4 @@ eloquence (ed.).
 
 [^26]: - This is short for quddisa sirruhu, which means may his grave be
 sanctified. [trans.]
-
 

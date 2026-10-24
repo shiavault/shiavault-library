@@ -164,4 +164,3 @@ it permissible to say *salat* with it?
 **Answer:** It is permissible to wear the first item and pray in it but
 not the second.
 
-

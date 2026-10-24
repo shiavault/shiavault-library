@@ -1,11 +1,7 @@
 Ziyarat Arbaeen
 ===============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Benefecient, The Merciful***
 
@@ -15,44 +11,24 @@ Part One
 **Sending our greetings of peace, prayers and salutations upon the
 Master of the Martyrs**
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلىٰ وَلِيِّ اللهِ وَحَبِيبِهِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلىٰ وَلِيِّ اللهِ وَحَبِيبِهِ،
 
 *Peace be upon the intimate friend of Allah, and His beloved!*
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلىٰ خَلِيلِ اللهِ وَنَجِيبِهِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلىٰ خَلِيلِ اللهِ وَنَجِيبِهِ.
 
 *Peace be upon the close friend of Allah, and His confidant!*
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلىٰ صَفِيِّ اللهِ وَابْنِ صَفِيِّهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلىٰ صَفِيِّ اللهِ وَابْنِ صَفِيِّهِ
 
 *Peace be upon the choicest confidant of Allah, and the son of the
 choicest confidant [of Allah].*
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلىٰ الْحُسَيْنِ الْـمَظْلُومِ الشَّهِيدِ،
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلىٰ الْحُسَيْنِ الْـمَظْلُومِ الشَّهِيدِ،
 
 *Peace be upon Husayn, the oppressed, the martyr.*
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلىٰ أَسِيرِ الْكُرُبَاتِ وَقَتِيلِ الْعَبَرَاتِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلىٰ أَسِيرِ الْكُرُبَاتِ وَقَتِيلِ الْعَبَرَاتِ
 
 *Peace be upon the hostage surrounded by the tightening circle of sorrow
 and grief, killed by a horde of savages.*
@@ -126,16 +102,12 @@ Part Two
 upon him, in regards to the greatness and lofty status of Imam Husayn,
 peace be upon him**
 
-<blockquote dir="rtl">
-  <p>
-أَللَّـهُمَّ إِنِّي أَشْهَدُ أَنَّهُ وَلِيُّكَ وَابْنُ وَلِيِّكَ
-وَصَفِيُّكَ وَابْنُ صَفِيِّكَ الْفَائِزُ بِكَرَامَتِكَ، أَكْرَمْتَهُ
-بِالشَّهَادَةِ وَحَبَوْتَهُ بِالسَّعَادَةِ، وَأَجْتَبَيْتَهُ بِطِيبِ
-الْوِلاَدَةِ، وَجَعَلْتَهُ سَيِّداً مِنَ السَّادَةِ، وَقَائِداً مِنَ
-الْقَادَةِ، وَذَائِداً مِنَ الَّذَادَةِ، وَأَعْطَيْتَهُ مَوَارِيثَ
-الأَنْبِيَاءِ، وَجَعَلْتَهُ حُجَّةً عَلى خَلْقِكَ مِنَ الأَوْصِيَاءِ،
-  </p>
-</blockquote>
+> أَللَّـهُمَّ إِنِّي أَشْهَدُ أَنَّهُ وَلِيُّكَ وَابْنُ وَلِيِّكَ
+> وَصَفِيُّكَ وَابْنُ صَفِيِّكَ الْفَائِزُ بِكَرَامَتِكَ، أَكْرَمْتَهُ
+> بِالشَّهَادَةِ وَحَبَوْتَهُ بِالسَّعَادَةِ، وَأَجْتَبَيْتَهُ بِطِيبِ
+> الْوِلاَدَةِ، وَجَعَلْتَهُ سَيِّداً مِنَ السَّادَةِ، وَقَائِداً مِنَ
+> الْقَادَةِ، وَذَائِداً مِنَ الَّذَادَةِ، وَأَعْطَيْتَهُ مَوَارِيثَ
+> الأَنْبِيَاءِ، وَجَعَلْتَهُ حُجَّةً عَلى خَلْقِكَ مِنَ الأَوْصِيَاءِ،
 
 *O Allah! I give witness that beyond a shadow of doubt he is Your
 favourite and choicest confidant, who enjoys Your confidence and favour,
@@ -174,13 +146,9 @@ Part Three
 
 **The goals of Imam al-Husayn, peace be upon him, in his uprising**
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْذَرَ فىِ الدُّعَاءِ وَمَنَحَ النُّصْحَ، وَبَذَلَ مُهْجَتَهُ
-فِيكَ لِيَسْتَنْقِذَ عِبَادَكَ مِنَ الْجَهَالَةِ وَحَيْرَةِ
-الضَّلاَلَةِ،
-  </p>
-</blockquote>
+> فَأَعْذَرَ فىِ الدُّعَاءِ وَمَنَحَ النُّصْحَ، وَبَذَلَ مُهْجَتَهُ
+> فِيكَ لِيَسْتَنْقِذَ عِبَادَكَ مِنَ الْجَهَالَةِ وَحَيْرَةِ
+> الضَّلاَلَةِ،
 
 *He met with deadly dangers, acted justly and fairly, made use of
 everything belonging to him to pay full attention to give sincere
@@ -221,16 +189,12 @@ Part Four
 
 **A glimpse at the killers of Imam al-Husayn, peace be upon him**
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ تَوازَرَ عَلَيْهِ مَنْ غَرَّتْهُ الدُّنْيَا، وَبَاعَ حَظَّهُ
-بِالأَرْذَلِ الأَدْنَى، وَشَرَى آخِرَتَهُ بِالثَّمَنِ الأَوْكَسِ،
-وَتَغَطْرَسَ وَتَرَدّى فِي هَوَاهُ، وَأَسْخَطَكَ وَأَسْخَطَ نَبِيَّكَ،
-وَأَطَاعَ مِنْ عِبَادِكَ أَهْلَ الشِّقَاقِ وَالنِّفَاقِ وَحَمَلَةَ
-الأَوْزَارِ الْـمُسْتَوْجِبِينَ النَّارَ، فَجَاهَدَهُمْ فِيكَ صَابِراً
-مُحْتَسِباً حَتَّى سُفِكَ فِي طَاعَتِكَ دَمُهُ وَاسْتُبِيحَ حَرِيمُهُ،
-  </p>
-</blockquote>
+> وَقَدْ تَوازَرَ عَلَيْهِ مَنْ غَرَّتْهُ الدُّنْيَا، وَبَاعَ حَظَّهُ
+> بِالأَرْذَلِ الأَدْنَى، وَشَرَى آخِرَتَهُ بِالثَّمَنِ الأَوْكَسِ،
+> وَتَغَطْرَسَ وَتَرَدّى فِي هَوَاهُ، وَأَسْخَطَكَ وَأَسْخَطَ نَبِيَّكَ،
+> وَأَطَاعَ مِنْ عِبَادِكَ أَهْلَ الشِّقَاقِ وَالنِّفَاقِ وَحَمَلَةَ
+> الأَوْزَارِ الْـمُسْتَوْجِبِينَ النَّارَ، فَجَاهَدَهُمْ فِيكَ صَابِراً
+> مُحْتَسِباً حَتَّى سُفِكَ فِي طَاعَتِكَ دَمُهُ وَاسْتُبِيحَ حَرِيمُهُ،
 
 *But an* *evildoer, deceived with empty hopes of mean and worthless
 worldly gains, had pressed heavily on him, and sold out his share (of
@@ -243,22 +207,14 @@ however, he (the Imam), steadily, rightly and justly coped with them,
 until in Your obedience, gave his life after which his family was set
 adrift.*
 
-<blockquote dir="rtl">
-  <p>
-أَللَّـهُمَّ فَالْعَنْهُمْ لَعْناً وَبِيلاً وَعَذِّبْهُمْ عَذَاباً
-أَلِيماً
-  </p>
-</blockquote>
+> أَللَّـهُمَّ فَالْعَنْهُمْ لَعْناً وَبِيلاً وَعَذِّبْهُمْ عَذَاباً
+> أَلِيماً
 
 *O Allah, therefore, condemn them to hell as a denunciation and
 conviction; and crack down on them with a painful punishment.*
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ يَا ابْنَ رَسُولِ اللهِ، اَلسَّلامُ عَلَيْكَ يَا
-ابْنَ سَيِّدِ الأَوْصِيَاءِ،
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ يَا ابْنَ رَسُولِ اللهِ، اَلسَّلامُ عَلَيْكَ يَا
+> ابْنَ سَيِّدِ الأَوْصِيَاءِ،
 
 *Peace be upon you O the son of the Messenger of Allah! Peace be upon
 you O the son of the first of the successors (of the Holy Prophet)*
@@ -327,45 +283,29 @@ Part Five
 
 **Learning life lessons from the Leader of the Martyrs**
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ اَنَّكَ اَمِينُ اللهِ وَابْنُ اَمِينِهِ،
-  </p>
-</blockquote>
+> أَشْهَدُ اَنَّكَ اَمِينُ اللهِ وَابْنُ اَمِينِهِ،
 
 *I bear witness that Allah put faith in you like He had full confidence
 in your father,*
 
-<blockquote dir="rtl">
-  <p>
-عِشْتَ سَعِيداً وَمَضَيْتَ حَمِيداً وَمُتَّ فَقِيداً مَظْلُوماً
-شَهِيداً
-  </p>
-</blockquote>
+> عِشْتَ سَعِيداً وَمَضَيْتَ حَمِيداً وَمُتَّ فَقِيداً مَظْلُوماً
+> شَهِيداً
 
 *and that you always looked for and collected good and virtue, lived a
 highly praiseworthy life, and departed from this world a martyr,
 forsaken and abused;*
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْهَدُ أَنَّ اللهِ مُنْجِزٌ مَا وَعَدَكَ، وَمُهْلِكٌ مَنْ
-خَذَلَكَ، وَمُعَذِّبٌ مَنْ قَتَلَكَ
-  </p>
-</blockquote>
+> وَأَشْهَدُ أَنَّ اللهِ مُنْجِزٌ مَا وَعَدَكَ، وَمُهْلِكٌ مَنْ
+> خَذَلَكَ، وَمُعَذِّبٌ مَنْ قَتَلَكَ
 
 *And I bear witness that Allah will promptly fulfill the promise He made
 to you, and destroy those who left you helpless and punish those who
 killed you;*
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْهَدُ أَنَّكَ وَفَيْتَ بِعَهْدِ اللهِ وَجَاهَدْتَ فِي سَبِيلِهِ
-حَتَّى أَتَاكَ الْيَقِينُ، فَلَعَنَ اللهُ مَنْ قَتَلَكَ، وَلَعَنَ
-اللهُ مَنْ ظَلَمَكَ، وَلَعَنَ اللهُ اُمَّةً سَمِعَتْ بِذَلِكَ
-فَرَضِيَتْ بِهِ
-  </p>
-</blockquote>
+> وَأَشْهَدُ أَنَّكَ وَفَيْتَ بِعَهْدِ اللهِ وَجَاهَدْتَ فِي سَبِيلِهِ
+> حَتَّى أَتَاكَ الْيَقِينُ، فَلَعَنَ اللهُ مَنْ قَتَلَكَ، وَلَعَنَ
+> اللهُ مَنْ ظَلَمَكَ، وَلَعَنَ اللهُ اُمَّةً سَمِعَتْ بِذَلِكَ
+> فَرَضِيَتْ بِهِ
 
 *And I bear witness that you kept your promise made with Allah, and
 strived in His way until what was certain came upon you, so curse of
@@ -437,21 +377,13 @@ Part Six
 **Renewal of the pledge of allegiance to the Doyen of the Martyrs,
 al-Husayn ibn Ali, peace be upon them both**
 
-<blockquote dir="rtl">
-  <p>
-أَللَّـهُمَّ إِنِّي أُشْهِدُكَ أَنِّي وَلِيٌّ لـِمَنْ وَالاَهُ
-وَعَدُوٌّ لِـمَنْ عَادَاهُ
-  </p>
-</blockquote>
+> أَللَّـهُمَّ إِنِّي أُشْهِدُكَ أَنِّي وَلِيٌّ لـِمَنْ وَالاَهُ
+> وَعَدُوٌّ لِـمَنْ عَادَاهُ
 
 *O Allah be my witness that I make friends with those who love him and
 oppose those who deny him.*
 
-<blockquote dir="rtl">
-  <p>
-بِأَبِي أَنْتَ وَأُمّي يَا بْنَ رَسُولِ اللهِ
-  </p>
-</blockquote>
+> بِأَبِي أَنْتَ وَأُمّي يَا بْنَ رَسُولِ اللهِ
 
 *May my father and mother be sacrificed for you O the son of the
 Messenger of Allah.*
@@ -485,15 +417,11 @@ Part Seven
 
 **The pure, untouched genealogy of Imam al-Husayn, peace be upon him**
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ اَنَّكَ كُنْتَ نُوراً فىِ الأَصْلاَبِ الشَّامِخَةِ
-وَالأَرْحَامِ الـْمُطَهَّرَةِ، لَمْ تُنَجِّسْكَ الْجَاهِلِيَّةُ
-بِاَنْجَاسِهَا وَلَمْ تُلْبِسْكَ الْـمُدْلَهِمَّاتُ مِنْ ثِيَابِها،
-وأَشْهَدُ أَنَّكَ مِنْ دَعَائِمِ الدِّينِ وأَرْكَانِ الـْمُسْلِمينَ
-وَمَعْقِلِ الْـمُؤْمِنينَ
-  </p>
-</blockquote>
+> أَشْهَدُ اَنَّكَ كُنْتَ نُوراً فىِ الأَصْلاَبِ الشَّامِخَةِ
+> وَالأَرْحَامِ الـْمُطَهَّرَةِ، لَمْ تُنَجِّسْكَ الْجَاهِلِيَّةُ
+> بِاَنْجَاسِهَا وَلَمْ تُلْبِسْكَ الْـمُدْلَهِمَّاتُ مِنْ ثِيَابِها،
+> وأَشْهَدُ أَنَّكَ مِنْ دَعَائِمِ الدِّينِ وأَرْكَانِ الـْمُسْلِمينَ
+> وَمَعْقِلِ الْـمُؤْمِنينَ
 
 *I know and bear witness that you were a Divinely-inspired light in the
 sublime loins and in the pure wombs, never touched you the dirt of
@@ -501,12 +429,8 @@ ignorance, nor ever obscurity concealed you in its folds; I bear witness
 that you are the pillar of the religion - support of the Muslims, refuge
 of the faithful;*
 
-<blockquote dir="rtl">
-  <p>
-وَاَشْهَدُ اَنَّكَ الإِمَامُ الْبَرُّ التَّقِيُّ الرَّضِيُّ الزَّكِيُّ
-الْهَادِيُ الْـمَهْدِيُّ
-  </p>
-</blockquote>
+> وَاَشْهَدُ اَنَّكَ الإِمَامُ الْبَرُّ التَّقِيُّ الرَّضِيُّ الزَّكِيُّ
+> الْهَادِيُ الْـمَهْدِيُّ
 
 *I bear witness that you are a truthful, well-aware, content,
 intelligent, rightly guided guide (Imam);*
@@ -516,12 +440,8 @@ Part Eight
 
 **A description of the progeny of Imam al-Husayn, peace be upon him**
 
-<blockquote dir="rtl">
-  <p>
-وَاَشْهَدُ اَنَّ الأئِمَّةَ مِنْ وُلْدِكَ كَلِمَةُ التَّقْوى وَأعْلامُ
-الْهُدى وَالْعُرْوَةُ الْوُثْقى، وَالْحُجَّةُ على أهْلِ الدُّنْيا
-  </p>
-</blockquote>
+> وَاَشْهَدُ اَنَّ الأئِمَّةَ مِنْ وُلْدِكَ كَلِمَةُ التَّقْوى وَأعْلامُ
+> الْهُدى وَالْعُرْوَةُ الْوُثْقى، وَالْحُجَّةُ على أهْلِ الدُّنْيا
 
 *I bear witness that the Imams among your descendants are the symbols of
 “conscious piety” and signs of “true guidance”, the “safe handle”-
@@ -533,14 +453,10 @@ Part Nine
 **The theological beliefs (Usul ad-Din) of the followers of the Ahlul
 Bayt, peace be upon them all**
 
-<blockquote dir="rtl">
-  <p>
-وأَشْهَدُ أنّي بِكُمْ مُؤْمِنٌ وَبِاِيابِكُمْ، مُوقِنٌ بِشَرايِعِ ديني
-وَخَواتيمِ عَمَلي، وَقَلْبي لِقَلْبِكُمْ سِلْمٌ وَأَمْرِي لِأَمْرِكُمْ
-مُتَّبِعٌ وَنُصْرَتي لَكُمْ مُعَدَّةٌ حَتّى يَأذَنَ اللهِ لَكُمْ،
-فَمَعَكُمْ مَعَكُمْ لا مَعَ عَدُوِّكُمْ
-  </p>
-</blockquote>
+> وأَشْهَدُ أنّي بِكُمْ مُؤْمِنٌ وَبِاِيابِكُمْ، مُوقِنٌ بِشَرايِعِ ديني
+> وَخَواتيمِ عَمَلي، وَقَلْبي لِقَلْبِكُمْ سِلْمٌ وَأَمْرِي لِأَمْرِكُمْ
+> مُتَّبِعٌ وَنُصْرَتي لَكُمْ مُعَدَّةٌ حَتّى يَأذَنَ اللهِ لَكُمْ،
+> فَمَعَكُمْ مَعَكُمْ لا مَعَ عَدُوِّكُمْ
 
 *I declare positively that I have full faith in you, and I know for
 certain that you will return. I am fully committed to the laws of my
@@ -555,16 +471,11 @@ Part Ten
 **Salawat (prayers of Allah) upon the noble Ahlul Bayt, peace be upon
 them all**
 
-<blockquote dir="rtl">
-  <p>
-صَلَواتُ اللهِ عَلَيْكُمْ وَعلى أرْواحِكُمْ وَأجْسادِكُمْ وَشاهِدِكُمْ
-وَغائِبِكُمْ وَظاهِرِكُمْ وَباطِنِكُمْ آمينَ رَبَّ الْعالِمينَ
-  </p>
-</blockquote>
+> صَلَواتُ اللهِ عَلَيْكُمْ وَعلى أرْواحِكُمْ وَأجْسادِكُمْ وَشاهِدِكُمْ
+> وَغائِبِكُمْ وَظاهِرِكُمْ وَباطِنِكُمْ آمينَ رَبَّ الْعالِمينَ
 
 *Blessings of Allah be upon you, and upon your souls, and upon your
 bodies, and when you are present, and when you are absent, and upon your
 perceivable aspects, and upon your innermost genius, be it so, O Lord of
 the worlds!*
-
 

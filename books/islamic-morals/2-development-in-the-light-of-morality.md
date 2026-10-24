@@ -149,7 +149,6 @@ Waajib-e-Kifaai. But a group of jurisprudents think it is absolutely
 compulsory even in that case for those who can afford to obtain
 knowledge.
 
-
 **Encouragement for the learned**
 
 Islam has encouraged learning. Great religious leaders have always
@@ -232,8 +231,6 @@ much they hoard. Thereafter the Holy Quran adds that this state is not
 limited to a particular person but It is the example of all the
 societies that refute the verses of God.
 
-
 So O Prophet! Tell these stories to them perhaps they may ponder over
 them and find that true path.
-
 

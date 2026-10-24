@@ -98,4 +98,3 @@ would soon join them. Seeing how distressed Zaynab [a.s.] was on hearing
 these words, he said to her, "The blessings of Allah are upon you. Do
 not worry about the troubles these wretched people will cause."
 
-

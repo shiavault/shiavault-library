@@ -173,4 +173,3 @@ Indeed, all these are the fruits of the statement, “We have the book of
 Allah with us,” which has effectively invalidated the tradition of the
 Two Heavy Things (Thaqalayn).
 
-

@@ -117,4 +117,3 @@ mosquito, it will become clean.
 
 A *Kafir* becomes clean after accepting Islam.
 
-

@@ -16,4 +16,3 @@ window into the great world of Imam Ali, peace be on him, who was the
 most perfect of human beings after the Prophet Muhammad, may Allah bless
 him and his Household.
 
-

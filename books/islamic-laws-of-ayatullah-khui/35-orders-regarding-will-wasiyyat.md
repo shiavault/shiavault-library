@@ -873,4 +873,3 @@ aside the share of the probable issues it is permissible that after
 ensuring the safety of the share of the issue of a son, the rest of the
 property may be divided amongst the heirs.
 
-

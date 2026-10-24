@@ -76,9 +76,7 @@ reappearance of Imam-e- Zaman (a.t.f.s.).
 Well, then how would one justify the following tradition, which is as
 clear as daylight when it prophesies?
 
-<p dir="rtl">
 . « يملأ اللّه. به الارض قسطا و عدلاً كما ملئت ظُلماً و جورا »
-</p>
 
 “Through him (Imam-e-Zaman (a.t.f.s.)), Allah will fill the earth with
 justice and equity as it would be fraught with injustice and
@@ -158,9 +156,7 @@ contravene the objection. So, let us attempt to find a real solution to
 this objection. The contents of the tradition under discussion were as
 follows:
 
-<p dir="rtl">
 « يملأ اللّه. به الارض قسطا و عدلا لاً كما ملئت ظُلماً و جورا »
-</p>
 
 “Through him (a.t.f.s.), Allah will fill the earth with justice and
 equity as it would be fraught with injustice and oppression.”
@@ -490,10 +486,8 @@ task.
 
 The Messenger of Islam (s.a.w.a.) declared,
 
-<p dir="rtl">
 لو لم يبق من الد.نيا الّا يوم واحد لطو.ل اللّه. ذلك اليوم حتي يخرج رجل
 من ولدي فيملأها » .« عدلاً و قسطا كما ملئت جورا و ظلما
-</p>
 
 “Even if one day remains for the world to end, Allah will prolong this
 day till He raises a man from my nation (ummah). He will fill the earth
@@ -528,5 +522,4 @@ of the tradition under discussion.
 
 O Allah! Send blessings on Muhammad (s.a.w.a) and the progeny of
 Muhammad!
-
 

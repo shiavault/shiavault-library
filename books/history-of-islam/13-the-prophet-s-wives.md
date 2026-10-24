@@ -1026,4 +1026,3 @@ them accepted his religion. See Ibn Sa\`d, Al-tabaqat al-Kubra
 
 [^171] Ibn Sa\`d, op cit, 1:216.
 
-

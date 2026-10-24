@@ -163,4 +163,3 @@ transmitter. He was the shaykh of Ibn Babawayh al-Qummi. See an-Najashi,
 op. cit., p.271; at-Tusi, op. cit., p.495; al-Mamaqani, op.cit., vol.3,
 p.100, no.10534.
 
-

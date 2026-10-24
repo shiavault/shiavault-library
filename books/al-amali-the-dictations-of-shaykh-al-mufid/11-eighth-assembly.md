@@ -242,4 +242,3 @@ will have a face like the full moon, and on their foreheads will be
 written: These are the people befriending each other for the sake of
 Allah!"
 
-

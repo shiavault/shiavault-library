@@ -10,4 +10,3 @@ was also attentive on me. He told me to be silent, but I didn’t obey.
  Teachers punishment is better than father’s love  
  And secondly that school is a place to study and not to play.”
 
-

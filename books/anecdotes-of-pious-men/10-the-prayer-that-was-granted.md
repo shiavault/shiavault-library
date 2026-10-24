@@ -170,4 +170,3 @@ Then he said:
 "O Musadif! It is easier to fight with a sword than to earn the
 livelihood lawfully."
 
-

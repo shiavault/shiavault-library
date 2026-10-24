@@ -29,4 +29,3 @@ this kind of concept in Islam.
 International Relations Department  
  Islamic Propagation Organization
 
-

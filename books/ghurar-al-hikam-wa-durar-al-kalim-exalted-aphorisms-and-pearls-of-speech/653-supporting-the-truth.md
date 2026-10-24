@@ -7,21 +7,13 @@ Supporting The Truth
 and aiding the aggrieved.
 
 > 1ـ إنْ كُنْتُمْ لامُحالَةَ مُتَعَصَّبينَ فَتَعَصَّبُوا لِنُصْرَةِ
-<blockquote dir="rtl">
-  <p>
-الْحَقِّ وإغاثَةِ الْمَلْهُوفِ.
-  </p>
-</blockquote>
+> الْحَقِّ وإغاثَةِ الْمَلْهُوفِ.
 
 2. If you had not turned away from assisting the truth, you would not
 have felt weakness in overpowering falsehood.
 
 > 2ـ لَوْ لَمْ تَتَخاذَلُوا عَنْ نُصْرَةِ الْحَقِّ لَمْ تَهِنُوا عَنْ
-<blockquote dir="rtl">
-  <p>
-تَوْهِينِ الْباطِلِ.
-  </p>
-</blockquote>
+> تَوْهِينِ الْباطِلِ.
 
 3. One who assists the truth shall be successful.
 
@@ -31,11 +23,7 @@ have felt weakness in overpowering falsehood.
 Allah, the Glorified, has guaranteed assistance to one who assists Him.
 
 > 4ـ اُنْصُرِ اللّهَ بِقَلْبِكَ ولِسانِكَ ويَدِكَ فَإنَّ اللّهَ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ قَدْ تَكَفَّلَ بِنُصْرَةِ مَنْ يَنْصُرُهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ قَدْ تَكَفَّلَ بِنُصْرَةِ مَنْ يَنْصُرُهُ.
 
 5. One who neglects to assist his friend is awoken by the footsteps of
 his [advancing] enemy.
@@ -46,15 +34,10 @@ his [advancing] enemy.
 the strength to defeat the stalwarts of falsehood.
 
 > 6ـ مَنْ أحَدَّ سِنانَ الْغَضَبِ لِلّهِ سُبْحانَهُ قَوِيَ عَلى أشِدّاءِ
-<blockquote dir="rtl">
-  <p>
-الْباطِلِ.
-  </p>
-</blockquote>
+> الْباطِلِ.
 
 7. One who seeks assistance through patience will not be deprived of
 victory.
 
 > 7ـ لَمْ يَعْدَمِ النَّصْرَ مَنِ انْتَصَرَ بِالصَّبْرِ.
-
 

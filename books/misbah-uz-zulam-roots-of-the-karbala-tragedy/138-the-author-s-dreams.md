@@ -134,4 +134,3 @@ nothing but the Grace of the Almighty.
 [^1]: The Tafzeeliya sect considers Ali (a.s.) superior to Abu Bakr and
 Umar.
 
-

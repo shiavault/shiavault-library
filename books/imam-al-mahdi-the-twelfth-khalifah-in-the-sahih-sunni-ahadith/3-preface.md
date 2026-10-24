@@ -24,20 +24,16 @@ However, in the pre-Muhammad era, our Lord did “send” at least one
 non-prophet to an *Ummah*. Prof. Ibn Yasin cites this authentic report
 about him:
 
-<blockquote dir="rtl">
-  <p>
-قال الضياء المقدسي: أخبرنا أبو المجد زاهر بن أحمد بن حامد بن أحمد
-الثقفي -بقراءتي عليه بأصبهان- قلت له: أخبركم أبو عبد الله الحسين بن
-عبد الملك ابن الحسين الخلال -قراءة عليه وأنت تسمع- أنا الإمام أبو
-الفضل عبد الرحمن ابن أحمد بن الحسن بن بندار الرازي المقري، أنا أبو
-الحسن أحمد بن إبراهيم ابن أحمد بن علي بن فراس، ثنا أبو جعفر محمد بن
-إبراهيم الديلي، ثنا أبو عبيد الله سعيد بن عبد الرحمن المخزومي، ثنا
-سفيان ابن عيينة عن ابن أبي حسين، عن أبي الطفيل قال: سمعت ابن الكواء
-يسأل علي بن أبي طالب - رضي الله عنه - عن ذي القرنين فقال علي: لم يكن
-نبياً ولا ملك، كان عبداً صالحاً، أحبّ الله فأحبه، وناصح الله فناصحه
-الله، بُعث إلى قومه فضربوه على قرنه فمات فبعثه الله، فسمى ذي القرنين.
-  </p>
-</blockquote>
+> قال الضياء المقدسي: أخبرنا أبو المجد زاهر بن أحمد بن حامد بن أحمد
+> الثقفي -بقراءتي عليه بأصبهان- قلت له: أخبركم أبو عبد الله الحسين بن
+> عبد الملك ابن الحسين الخلال -قراءة عليه وأنت تسمع- أنا الإمام أبو
+> الفضل عبد الرحمن ابن أحمد بن الحسن بن بندار الرازي المقري، أنا أبو
+> الحسن أحمد بن إبراهيم ابن أحمد بن علي بن فراس، ثنا أبو جعفر محمد بن
+> إبراهيم الديلي، ثنا أبو عبيد الله سعيد بن عبد الرحمن المخزومي، ثنا
+> سفيان ابن عيينة عن ابن أبي حسين، عن أبي الطفيل قال: سمعت ابن الكواء
+> يسأل علي بن أبي طالب - رضي الله عنه - عن ذي القرنين فقال علي: لم يكن
+> نبياً ولا ملك، كان عبداً صالحاً، أحبّ الله فأحبه، وناصح الله فناصحه
+> الله، بُعث إلى قومه فضربوه على قرنه فمات فبعثه الله، فسمى ذي القرنين.
 
 Al-Dhiya al-Maqdisi said:
 
@@ -67,13 +63,9 @@ Then, our professor says:
 
 The exact words of al-Hafiz in his *Fath* are these:
 
-<blockquote dir="rtl">
-  <p>
-أخرجه سفيان بن عيينة في جامعه عن ابن أبي حسين عن أبي الطفيل نحوه وزاد
-وناصح الله فناصحه وفيه لم يكن نبيا ولا ملكا وسنده صحيح سمعناه في
-الأحاديث المختارة للحافظ الضياء
-  </p>
-</blockquote>
+> أخرجه سفيان بن عيينة في جامعه عن ابن أبي حسين عن أبي الطفيل نحوه وزاد
+> وناصح الله فناصحه وفيه لم يكن نبيا ولا ملكا وسنده صحيح سمعناه في
+> الأحاديث المختارة للحافظ الضياء
 
 Sufyan b. ‘Uyaynah recorded it in his *Jami’* from Ibn Abi Husayn from
 Abu al-Tufayl, and he added: “He sought the guidance of Allah; and so,
@@ -92,14 +84,10 @@ people. Interestingly, Amir al-Muminin ‘Ali b. Abi Talib, *‘alaihi
 al-salam*, proclaimed that he was a “likeness” of him. Imam al-Tabari
 (d. 310 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن القاسم
-بن أبي بزة، عن أبي الطفيل، قال: سمعت عليا وسألوه عن ذي القرنين أنبيا
-كان؟ قال: كان عبدا صالحا، أحب الله فأحبه، وناصح الله فنصحه، فبعثه الله
-إلى قومه، فضربوه ضربتين في رأسه، فسمي ذا القرنين، وفيكم اليوم مثله.
-  </p>
-</blockquote>
+> حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن القاسم
+> بن أبي بزة، عن أبي الطفيل، قال: سمعت عليا وسألوه عن ذي القرنين أنبيا
+> كان؟ قال: كان عبدا صالحا، أحب الله فأحبه، وناصح الله فنصحه، فبعثه الله
+> إلى قومه، فضربوه ضربتين في رأسه، فسمي ذا القرنين، وفيكم اليوم مثله.
 
 Muhammad b. al-Muthanna – Muhammad b. Ja’far – Shu’bah – al-Qasim b. Abi
 Bazzah – Abu al-Tufayl:
@@ -113,24 +101,16 @@ TODAY is an example of him**.[^7]
 
 Concerning this *athar*, Prof. Ibn Yasin states:
 
-<blockquote dir="rtl">
-  <p>
-وسنده صحيح
-  </p>
-</blockquote>
+> وسنده صحيح
 
 Its chain is *sahih*.[^8]
 
 And Imam Ibn Salam (d. 224 H) also explains it in this manner:
 
-<blockquote dir="rtl">
-  <p>
-وإنما اخترت هذا التفسير على الأول لحديث عن علي نفسه هو عندي مفسر له
-ولنا وذلك أنه ذكر ذا القرنين فقال: دعا قومه إلى عبادة الله فضربوه على
-قرنيه ضربتين وفيكم مثله. فنرى أنه أراد بقوله هذا نفسه - يعني أني أدعو
-إلى الحق حتى أضرب على رأسي ضربتين يكون فيهما قتلي.
-  </p>
-</blockquote>
+> وإنما اخترت هذا التفسير على الأول لحديث عن علي نفسه هو عندي مفسر له
+> ولنا وذلك أنه ذكر ذا القرنين فقال: دعا قومه إلى عبادة الله فضربوه على
+> قرنيه ضربتين وفيكم مثله. فنرى أنه أراد بقوله هذا نفسه - يعني أني أدعو
+> إلى الحق حتى أضرب على رأسي ضربتين يكون فيهما قتلي.
 
 I have only chosen this explanation instead of the first due to a
 *hadith* from ‘Ali himself. It (the *hadith*), in my view, explains it
@@ -158,14 +138,10 @@ Meanwhile, apart from Amir al-Muminin, several other non-prophets, after
 Muhammad, have been “sent” to our *Ummah*. Imam Abu Dawud (d. 275 H)
 records this clear *hadith* confirming that:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا سليمان بن داود المهري أخبرنا ابن وهب أخبرني سعيد بن أبي أيوب عن
-شراحيل بن يزيد المعافري عن أبي علقمة عن أبي هريرة فيما أعلم عن رسول
-الله صلى الله عليه و سلم قال " إن الله يبعث لهذه الأمة على رأس كل مائة
-سنة من يجدد لها دينها "
-  </p>
-</blockquote>
+> حدثنا سليمان بن داود المهري أخبرنا ابن وهب أخبرني سعيد بن أبي أيوب عن
+> شراحيل بن يزيد المعافري عن أبي علقمة عن أبي هريرة فيما أعلم عن رسول
+> الله صلى الله عليه و سلم قال " إن الله يبعث لهذه الأمة على رأس كل مائة
+> سنة من يجدد لها دينها "
 
 Sulayman b. Dawud al-Mahri – Ibn Wahb – Sa’id b. Abi Ayub – Sharahil b.
 Yazid al-Ma’afiri – Abu ‘Alqamah – Abu Hurayrah:
@@ -176,25 +152,17 @@ one hundred years, someone who renews its religion for it.”[^10]
 
 ‘Allamah al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^11]
 
 Imam al-Hakim (d. 403 H) also has this one, which is even clearer:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو العباس محمد بن يعقوب ثنا الربيع بن سليمان بن كامل المرادي
-ثنا عبد الله بن وهب أخبرني سعيد بن أبي أيوب عن شرحبيل بن يزيد عن أبي
-علقمة عن أبي هريرة رضي الله عنه ولا أعلمه إلا عن رسول الله صلى الله
-عليه وسلم قال : إن الله يبعث إلى هذه الأمة على رأس كل مائة سنة من يجدد
-لها دينها
-  </p>
-</blockquote>
+> حدثنا أبو العباس محمد بن يعقوب ثنا الربيع بن سليمان بن كامل المرادي
+> ثنا عبد الله بن وهب أخبرني سعيد بن أبي أيوب عن شرحبيل بن يزيد عن أبي
+> علقمة عن أبي هريرة رضي الله عنه ولا أعلمه إلا عن رسول الله صلى الله
+> عليه وسلم قال : إن الله يبعث إلى هذه الأمة على رأس كل مائة سنة من يجدد
+> لها دينها
 
 Abu al-‘Abbas Muhammad b. Ya’qub – al-Rabi’ b. Sulayman b. Kamil
 al-Muradi – ‘Abd Allah b. Wahb – Sa’id b. Abi Ayub – Sharahil b. Yazid –
@@ -206,11 +174,7 @@ every one hundred years, someone who renews its religion for it.”[^12]
 
 Commenting on this *hadith* in his *Sahihah*, al-Albani states:
 
-<blockquote dir="rtl">
-  <p>
-والسند صحيح رجاله ثقات رجال مسلم
-  </p>
-</blockquote>
+> والسند صحيح رجاله ثقات رجال مسلم
 
 **The chain is** ***sahih***. Its narrators are *thiqah* (trustworthy),
 narrators of (*Sahih*) Muslim.[^13]
@@ -259,14 +223,10 @@ mission would be to completely rid the earth of disbelief, heresy,
 poverty, aggression and injustice, and to establish the final Kingdom of
 Allah on it. Imam Abu Dawud documents this *hadith* about him:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عثمان بن أبي شيبة ثنا الفضل بن دكين ثنا فطر عن القاسم بن أبي بزة
-عن أبي الطفيل عن علي رضي الله تعالى عنه عن النبي صلى الله عليه و سلم
-قال "لو لم يبق من الدهر إلا يوم لبعث الله رجلا من أهل بيتي يملؤها عدلا
-كما ملئت جورا"
-  </p>
-</blockquote>
+> حدثنا عثمان بن أبي شيبة ثنا الفضل بن دكين ثنا فطر عن القاسم بن أبي بزة
+> عن أبي الطفيل عن علي رضي الله تعالى عنه عن النبي صلى الله عليه و سلم
+> قال "لو لم يبق من الدهر إلا يوم لبعث الله رجلا من أهل بيتي يملؤها عدلا
+> كما ملئت جورا"
 
 ‘Uthman b. Abi Shaybah – al-Fadhl b. Dukayn – Fiṭr – al-Qasim b. Abi
 Barzah – Abu al-Tufayl – ‘Ali, may Allah the Most High be pleased with
@@ -278,21 +238,13 @@ with justice just as it had been filled with injustice.”[^14]
 
 ‘Allamah al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^15]
 
 Dr. al-Bastawi also states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^16]
 
@@ -368,5 +320,4 @@ al-Fikr) [annotator: Muhammad Nasir al-Din al-Albani], vol. 2, p. 509,
 fi Dhaw-i al-Ahadith wa al-Athar al-Sahihah wa Aqwal al-‘Ulama wa Ara
 al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), p.
 238
-
 

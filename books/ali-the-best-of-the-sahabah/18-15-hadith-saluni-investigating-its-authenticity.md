@@ -3,18 +3,14 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-أما قول علي سلوني فإنما كان يخاطب بهذا أهل الكوفة ليعلمهم العلم والدين
-فإن غالبهم كانوا جهالا لم يدركوا النبي صلى الله عليه و سلم وأما أبو
-بكر فكان الذين حول منبره هم أكابر أصحاب النبي صلى الله عليه و سلم
-الذين تعلموا من رسول الله صلى الله عليه و سلم العلم والدين فكانت رعية
-أبي بكر أعلم الأمة وأدينها وأما الذين كان علي يخاطبهم فهم من جملة عوام
-الناس التابعين وكان كثير منهم من شرار التابعين ولهذا كان علي رضي الله
-عنه يذمهم ويدعو عليهم وكان التابعون بمكة والمدينة والشام والبصرة خيرا
-منهم
-  </p>
-</blockquote>
+> أما قول علي سلوني فإنما كان يخاطب بهذا أهل الكوفة ليعلمهم العلم والدين
+> فإن غالبهم كانوا جهالا لم يدركوا النبي صلى الله عليه و سلم وأما أبو
+> بكر فكان الذين حول منبره هم أكابر أصحاب النبي صلى الله عليه و سلم
+> الذين تعلموا من رسول الله صلى الله عليه و سلم العلم والدين فكانت رعية
+> أبي بكر أعلم الأمة وأدينها وأما الذين كان علي يخاطبهم فهم من جملة عوام
+> الناس التابعين وكان كثير منهم من شرار التابعين ولهذا كان علي رضي الله
+> عنه يذمهم ويدعو عليهم وكان التابعون بمكة والمدينة والشام والبصرة خيرا
+> منهم
 
 **As for the statement of ‘Ali “Ask me”, he only addressed this to the
 people of Kufah** to teach them knowledge and the religion, **because
@@ -31,14 +27,10 @@ Makkah, Madinah, Syria and Basra were better than them**.[^1]
 
 He equally adds:
 
-<blockquote dir="rtl">
-  <p>
-فقول علي لمن عنده بالكوفة سلوني هو من هذا الباب لم يقل هذا لابن مسعود
-ومعاذ وأبي بن كعب وأبي الدرداء وسلمان وأمثالهم فضلا عن أن يقول ذلك
-لعمر وعثمان ولهذا لم يكن هؤلاء ممن يسأله فلم يسأله قط لا معاذ ولا أبي
-ولا ابن مسعود ولا من هو دونهم من الصحابة
-  </p>
-</blockquote>
+> فقول علي لمن عنده بالكوفة سلوني هو من هذا الباب لم يقل هذا لابن مسعود
+> ومعاذ وأبي بن كعب وأبي الدرداء وسلمان وأمثالهم فضلا عن أن يقول ذلك
+> لعمر وعثمان ولهذا لم يكن هؤلاء ممن يسأله فلم يسأله قط لا معاذ ولا أبي
+> ولا ابن مسعود ولا من هو دونهم من الصحابة
 
 The statement of ‘Ali “Ask me” to those with him in Kufah was in this
 regard. **He never said this to Ibn Mas’ud, Mu’adh, Ubayy b. Ka’b, Abu
@@ -62,15 +54,11 @@ In order to weigh the positives and negatives of Shaykh Ibn Taymiyyah’s
 submissions, we must first understand the context of *Hadith Saluni*.
 Al-Hafiz Ibn Kathir (d. 774 H) helps on this:
 
-<blockquote dir="rtl">
-  <p>
-قال شعبة بن الحجاج ، عن سِمَاك ، عن خالد بن عَرْعَرَة أنه سمع عليا
-وشعبة أيضًا ، عن القاسم بن أبي بزَّة ، عن أبي الطُّفَيْل ، سمع عليًا.
-وثبت أيضًا من غير وجه ، عن أمير المؤمنين علي بن أبي طالب : أنه صعد
-منبر الكوفة فقال : لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول
-الله ، إلا أنبأتكم بذلك.
-  </p>
-</blockquote>
+> قال شعبة بن الحجاج ، عن سِمَاك ، عن خالد بن عَرْعَرَة أنه سمع عليا
+> وشعبة أيضًا ، عن القاسم بن أبي بزَّة ، عن أبي الطُّفَيْل ، سمع عليًا.
+> وثبت أيضًا من غير وجه ، عن أمير المؤمنين علي بن أبي طالب : أنه صعد
+> منبر الكوفة فقال : لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول
+> الله ، إلا أنبأتكم بذلك.
 
 Shu’bah b. al-Hajjaj, from Simak, from Khalid b. ‘Ar’arah that he heard
 ‘Ali; and Shu’bah again narrated from al-Qasim b. Abi Barrah from Abu
@@ -82,14 +70,10 @@ Messenger of Allah, except that I will inform you of that**.”[^3]
 
 Imam al-Hakim (d. 403 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو الحسن علي بن محمد بن عقبة ثنا الحسن بن علي بن عفان ثنا محمد
-بن عبيد الطنافسي ثنا بسام بن عبد الرحمن الصيرفي ثنا أبو الطفيل قال
-رأيت أمير المؤمنين علي بن أبي طالب رضي الله عنه قال على المنبر فقال :
-سلوني قبل أن لا تسألوني ولن تسألوا بعدي مثلي
-  </p>
-</blockquote>
+> أخبرنا أبو الحسن علي بن محمد بن عقبة ثنا الحسن بن علي بن عفان ثنا محمد
+> بن عبيد الطنافسي ثنا بسام بن عبد الرحمن الصيرفي ثنا أبو الطفيل قال
+> رأيت أمير المؤمنين علي بن أبي طالب رضي الله عنه قال على المنبر فقال :
+> سلوني قبل أن لا تسألوني ولن تسألوا بعدي مثلي
 
 Abu al-Hasan ‘Ali b. Muhammad b. ‘Uqbah – al-Hasan b. ‘Ali b. ‘Affan –
 Muhammad b. ‘Ubayd al-Tanafasi – Bassam b. ‘Abd al-Rahman al-Sayarfi –
@@ -107,24 +91,16 @@ A *hadith* with a *sahih* chain
 
 Al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^5]
 
 Imam Ibn Jarir al-Tabari (d. 310 H) further documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن القاسم بن
-أبي بزة، قال: سمعت أبا الطفيل، قال: سمعت عليا رضي الله عنه عنه يقول:
-لا تسألوني عن كتاب ناطق، ولا سنة ماضية، إلا حدثتكم، فسأله ابن الكواء
-عن الذاريات، فقال: هي الرياح.
-  </p>
-</blockquote>
+> حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن القاسم بن
+> أبي بزة، قال: سمعت أبا الطفيل، قال: سمعت عليا رضي الله عنه عنه يقول:
+> لا تسألوني عن كتاب ناطق، ولا سنة ماضية، إلا حدثتكم، فسأله ابن الكواء
+> عن الذاريات، فقال: هي الرياح.
 
 Ibn al-Muthanna – Muhammad b. Ja’far – Shu’bah – al-Qasim b. Abi Bazzah
 – Abu al-Tufayl:
@@ -136,12 +112,8 @@ except that I will tell you**.” So, Ibn al-Kawa asked him about
 
 This same *sanad* is relied upon by Imam Muslim in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن المثنى ومحمد بن بشار (واللفظ لابن المثنى) قالا حدثنا
-محمد بن جعفر حدثنا شعبة قال سمعت القاسم بن أبي بزة يحدث عن أبي الطفيل
-  </p>
-</blockquote>
+> حدثنا محمد بن المثنى ومحمد بن بشار (واللفظ لابن المثنى) قالا حدثنا
+> محمد بن جعفر حدثنا شعبة قال سمعت القاسم بن أبي بزة يحدث عن أبي الطفيل
 
 **Muhammad b. al-Muthanna** and Muhammad b. Bashar – **Muhammad b.
 Ja’far** – **Shu’bah** – **al-Qasim b. Abi Bazzah** – **Abu
@@ -160,24 +132,16 @@ possible doubts about it.
 
 Al-Hafiz (d. 852 H) says about its first narrator:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن المثنى بن عبيد العنزي بفتح النون والزاي أبو موسى البصري ….ثقة
-ثبت
-  </p>
-</blockquote>
+> محمد بن المثنى بن عبيد العنزي بفتح النون والزاي أبو موسى البصري ….ثقة
+> ثبت
 
 Muhammad b. al-Muthanna b. ‘Ubayd al-‘Unaza, Abu Musa al-Basri....
 ***Thiqah*** **(trustworthy),** ***thabt*** **(accurate)**.[^8]
 
 Al-Hafiz also has these comments about the second narrator:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن جعفر الهذلي البصري المعروف بغندر ثقة صحيح الكتاب إلا أن فيه
-غفلة
-  </p>
-</blockquote>
+> محمد بن جعفر الهذلي البصري المعروف بغندر ثقة صحيح الكتاب إلا أن فيه
+> غفلة
 
 Muhammad b. Ja’far al-Hazali al-Basri, better known as Ghandar:
 ***Thiqah*** **(trustworthy)**, *sahih al-kitab* (i.e. *ahadith* from
@@ -188,15 +152,11 @@ the third narrator, at all. He used to accurately record the latter’s
 reports. So, he narrated them from his books with perfect precision.
 Al-Hafiz provides further information in this respect:
 
-<blockquote dir="rtl">
-  <p>
-وقال ابن مهدي كنا نستفيد من كتب غندر في شعبة وكان وكيع يسميه الصحيح
-الكتاب .وقال أبو حاتم عن محمد بن ابان البلخي قال ابن مهدي غندر أثبت في
-شعبة مني وقال ابن المبارك إذا اختلف الناس في حديث شعبة فكتاب غندر حكم
-بينهم وقال ابن أبي حاتم سألت أبي عن غندر فقال كان صدوقا وكان مؤدبا وفي
-حديث شعبة ثقة
-  </p>
-</blockquote>
+> وقال ابن مهدي كنا نستفيد من كتب غندر في شعبة وكان وكيع يسميه الصحيح
+> الكتاب .وقال أبو حاتم عن محمد بن ابان البلخي قال ابن مهدي غندر أثبت في
+> شعبة مني وقال ابن المبارك إذا اختلف الناس في حديث شعبة فكتاب غندر حكم
+> بينهم وقال ابن أبي حاتم سألت أبي عن غندر فقال كان صدوقا وكان مؤدبا وفي
+> حديث شعبة ثقة
 
 Ibn Mahdi said: “**We used to benefit from the books of Ghandar on
 Shu’bah**. Waki’ named him *sahih al-kitab*.” Abu Hatim narrated from
@@ -211,12 +171,8 @@ he is** ***thiqah*** **(trustworthy)**.’”[^10]
 The third narrator, Shu’bah, is a pillar of Sunni *ahadith*. Al-Hafiz
 gives the catch-phrases about him:
 
-<blockquote dir="rtl">
-  <p>
-شعبة بن الحجاج بن الورد العتكي مولاهم أبو بسطام الواسطي ثم البصري ثقة
-حافظ متقن كان الثوري يقول هو أمير المؤمنين في الحديث
-  </p>
-</blockquote>
+> شعبة بن الحجاج بن الورد العتكي مولاهم أبو بسطام الواسطي ثم البصري ثقة
+> حافظ متقن كان الثوري يقول هو أمير المؤمنين في الحديث
 
 Shu’bah b. al-Hajjaj b. al-Ward al-‘Atki, their freed slave, Abu Busṭam
 al-Wasiṭi, al-Basri: ***Thiqah*** **(trustworthy),** ***hafiz (a hadith
@@ -226,12 +182,8 @@ the** ***amir al-muminin*** **(the supreme leader) in**
 
 This is what al-Hafiz establishes about the fourth narrator as well:
 
-<blockquote dir="rtl">
-  <p>
-القاسم بن أبي بزة بفتح الموحدة وتشديد الزاي المكي مولى بني مخزوم
-القارئ ثقة
-  </p>
-</blockquote>
+> القاسم بن أبي بزة بفتح الموحدة وتشديد الزاي المكي مولى بني مخزوم
+> القارئ ثقة
 
 Al-Qasim b. Abi Bazzah al-Makki, free slave of Banu Makhzum, the Qari
 (the Qur’an reciter): ***Thiqah*** **(trustworthy)**.[^12]
@@ -240,14 +192,10 @@ The last narrator, Abu al-Tufayl, was a Sahabi. So, normally, he was
 absolutely *thiqah* (trustworthy) by Sunni standards. Al-Hafiz affirms
 his status:
 
-<blockquote dir="rtl">
-  <p>
-عامر بن واثلة بن عبد الله بن عمرو بن جحش الليثي أبو الطفيل وربما سمي
-عمرا ولد عام أحد ورأى النبي صلى الله عليه وسلم وروى عن أبي بكر فمن
-بعده وعمر إلى أن مات سنة عشر ومائة على الصحيح وهو آخر من مات من
-الصحابة قاله مسلم وغيره.
-  </p>
-</blockquote>
+> عامر بن واثلة بن عبد الله بن عمرو بن جحش الليثي أبو الطفيل وربما سمي
+> عمرا ولد عام أحد ورأى النبي صلى الله عليه وسلم وروى عن أبي بكر فمن
+> بعده وعمر إلى أن مات سنة عشر ومائة على الصحيح وهو آخر من مات من
+> الصحابة قاله مسلم وغيره.
 
 ‘Amir b. Wathilah b. ‘Abd Allah b. ‘Amr b. Jahsh al-Laythi, Abu
 al-Tufayl. Perhaps, he was named Amr. **He was born during the year of
@@ -265,14 +213,10 @@ unfounded submission of our dear Shaykh, in greater detail, later.
 Let us now examine the fourth *sahih* report of *Hadith Saluni* from the
 Sunni books. Imam ‘Abd al-Razzaq records:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن معمر عن وهب بن عبد الله عن أبي الطفيل قال شهدت عليا وهو
-يخطب وهو يقول سلوني فوالله لا تسألوني عن شئ يكون إلى يوم القيامة إلا
-حدثتكم به وسلوني عن كتاب الله فوالله ما من آية إلا وأنا أعلم بليل نزلت
-أم بنهار أم في سهل أم في جبل
-  </p>
-</blockquote>
+> عبد الرزاق عن معمر عن وهب بن عبد الله عن أبي الطفيل قال شهدت عليا وهو
+> يخطب وهو يقول سلوني فوالله لا تسألوني عن شئ يكون إلى يوم القيامة إلا
+> حدثتكم به وسلوني عن كتاب الله فوالله ما من آية إلا وأنا أعلم بليل نزلت
+> أم بنهار أم في سهل أم في جبل
 
 ‘Abd al-Razzaq – Ma’mar – Wahb b. ‘Abd Allah – Abu al-Tufayl:
 
@@ -285,11 +229,7 @@ or during the day, or on a level land or on a mountain.[^14]
 
 Al-Hafiz states about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق بن همام بن نافع الحميري مولاهم أبو بكر الصنعاني ثقة حافظ
-  </p>
-</blockquote>
+> عبد الرزاق بن همام بن نافع الحميري مولاهم أبو بكر الصنعاني ثقة حافظ
 
 ‘Abd al-Razzaq b. Hammam b. Nafi’ al-Humayri, their freed slave, Abu
 Bakr al-San’ani: ***Thiqah*** **(trustworthy),** ***hafiz*** **(a**
@@ -297,11 +237,7 @@ Bakr al-San’ani: ***Thiqah*** **(trustworthy),** ***hafiz*** **(a**
 
 He also says about the second narrator:
 
-<blockquote dir="rtl">
-  <p>
-معمر بن راشد الأزدي مولاهم أبو عروة البصري نزيل اليمن ثقة ثبت فاضل
-  </p>
-</blockquote>
+> معمر بن راشد الأزدي مولاهم أبو عروة البصري نزيل اليمن ثقة ثبت فاضل
 
 Ma’mar b. Rashid al-Azdi, their freed slave, Abu ‘Urwah al-Basri, he
 lived in Yemen: ***Thiqah*** **(trustworthy),** ***thabt***
@@ -309,12 +245,8 @@ lived in Yemen: ***Thiqah*** **(trustworthy),** ***thabt***
 
 What about the third narrator? This is his verdict:
 
-<blockquote dir="rtl">
-  <p>
-وهب بن عبد الله بن أبي دبي بموحدة مصغرا الهنائي بضم الهاء ونون ومد
-الكوفي وقد ينسب لجده ثقة
-  </p>
-</blockquote>
+> وهب بن عبد الله بن أبي دبي بموحدة مصغرا الهنائي بضم الهاء ونون ومد
+> الكوفي وقد ينسب لجده ثقة
 
 Wahb b. ‘Abd Allah b. Abi Dubayy al-Hunai al-Kufi, he has been
 attributed to his grandfather: ***Thiqah*** **(trustworthy)**.[^17]
@@ -394,5 +326,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 [^16]: Ibid, vol. 2, p. 202, \# 6833
 
 [^17]: Ibid, vol. 2, p. 292, \# 7505
-
 

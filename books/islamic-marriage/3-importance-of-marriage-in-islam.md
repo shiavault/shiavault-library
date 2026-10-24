@@ -130,4 +130,3 @@ Gift for the Youth, Shabeeb Rizvi
 
 [^12]: Nawadir al Rawandi, p. 36
 
-

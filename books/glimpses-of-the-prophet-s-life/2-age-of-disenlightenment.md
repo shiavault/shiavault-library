@@ -81,7 +81,6 @@ civilised life but were in, more or less, the same state otherwise. Thus
 ignorance had brought mankind to the brink of destruction from which
 only something miraculous could save them.
 
-
 **The Messenger**
 
 When mankind was so deeply engrossed in futile and harmful practices,
@@ -308,5 +307,4 @@ Intensified persecution of the Muslims by Quraysh made it impossible
 for the former to dwell in Mecca any longer. In this difficult period
 the Prophet was divinely ordained to leave Mecca. He left for Medina
 shortly before the Quraysh broke into his house intending to kill him.
-
 

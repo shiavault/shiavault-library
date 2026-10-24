@@ -31,11 +31,7 @@ though, this act of the Salat in its’ particular form has been ordered
 for a result or outcome - there is a direct corollary in the performance
 of this act:
 
-<blockquote dir="rtl">
-  <p>
-) إِنَّ  الصَّلاَةَ تَنْهَى عَنِ  الْفَحْشَاءِ وَ  الْمُنكَرِ (
-  </p>
-</blockquote>
+> ) إِنَّ  الصَّلاَةَ تَنْهَى عَنِ  الْفَحْشَاءِ وَ  الْمُنكَرِ (
 
 *“Surely the* *Salat keeps a person away from evil and
 wickedness.”*[^1]*8*
@@ -96,15 +92,11 @@ principle, these sorts of things are not able to be specified and
 generalized!  In each and every age, the Muslims are obligated to choose
 the best ways and methods to carry out this task (of defence):
 
-<blockquote dir="rtl">
-  <p>
-) وَأَعِدُّوا لَهُمْ مَّا  اسْتَطَعْـتُمْ مِّنْ قُوَّةٍ وَ مِنْ
-رِّبَاطِ  الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ  اللٌّهِ وَعَدُوَّكُمْ
-وَآخَرِينَ مِنْ دُونِهِمْ لاَ تَعْلَمُونَهُمُ  اللٌّهُ يَعْلَمُهُمْ
-وَمَا تُنفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ  اللٌّهِ يُوَفَّ إِلَيْكُمْ وَ
-أَنْـتُمْ لاَ تُظْلَمُونَ (
-  </p>
-</blockquote>
+> ) وَأَعِدُّوا لَهُمْ مَّا  اسْتَطَعْـتُمْ مِّنْ قُوَّةٍ وَ مِنْ
+> رِّبَاطِ  الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ  اللٌّهِ وَعَدُوَّكُمْ
+> وَآخَرِينَ مِنْ دُونِهِمْ لاَ تَعْلَمُونَهُمُ  اللٌّهُ يَعْلَمُهُمْ
+> وَمَا تُنفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ  اللٌّهِ يُوَفَّ إِلَيْكُمْ وَ
+> أَنْـتُمْ لاَ تُظْلَمُونَ (
 
 *“Make ready your strength against them to the utmost of your power
 including steeds of war to strike terror into (the hearts of) the
@@ -127,12 +119,8 @@ should be used to reach to this goal, these have not been specified or
 earmarked for specific times and or for eternity.  
  The noble verse of the Qurʾan states:
 
-<blockquote dir="rtl">
-  <p>
-) يَا أَيُّهَا  الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ
-نَاراً وَقُودُهَا  النَّاسُ وَ  الْحِجَارَةُ (
-  </p>
-</blockquote>
+> ) يَا أَيُّهَا  الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ
+> نَاراً وَقُودُهَا  النَّاسُ وَ  الْحِجَارَةُ (
 
 *“O’ you who possess true faith!  Save yourselves and your families from
 the fire of hell whose fuel is that of mankind and stones!”*[^3]
@@ -163,5 +151,4 @@ employed in these regards.
 [^2]: Suratul Anfal (8), Verse 60
 
 [^3]: Suratul Tahrim (66), Verse 6
-
 

@@ -71,4 +71,3 @@ of the first three Caliphs.
 
 [^6]: Vol. 1, Pg. 173.
 
-

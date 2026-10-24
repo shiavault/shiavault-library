@@ -178,4 +178,3 @@ In short, the ritual of fasting is actually a spiritual training to
 strengthen the soul and control the desires — the very nature of the
 trial and tribulation faced by us in this life.
 
-

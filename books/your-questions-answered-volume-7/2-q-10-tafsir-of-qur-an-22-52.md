@@ -432,4 +432,3 @@ It is rubbish. Regarding the call from the sky to Imam Husayn (a.s.) to
 stop fighting: This myth was started by poets, and was taken up by
 Zakirs. But it has no basis at all.
 
-

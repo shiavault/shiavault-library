@@ -118,4 +118,3 @@ to the rulers except informants and no one is regarded as witty but the
 profligate, and no one will be regarded as weak except the fair
 person.
 
-

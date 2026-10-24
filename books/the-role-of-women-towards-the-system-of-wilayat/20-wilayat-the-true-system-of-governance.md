@@ -100,4 +100,3 @@ the mother of Moosa, sister of Moosa and the wife of Moosa, then only
 Moosa gets the strength to topple down the system of Firon and implement
 the system of Wilayat amongst the people.
 
-

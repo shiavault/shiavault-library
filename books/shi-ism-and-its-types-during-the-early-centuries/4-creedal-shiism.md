@@ -139,4 +139,3 @@ Rabdhah, Ali ('a) and his sons came out to bid him farewell. Abu Dharr
 looked at the Imam and said, "When I see you and your sons, I remember
 what the Prophet (s) had said about you and that makes me cry" [^47]
 
-

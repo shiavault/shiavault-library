@@ -12,11 +12,7 @@ topic of “vigil in the way of Allah.”
 
 In *Biharul Anwar* it is narrated from Ibne Abbas regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***“…that He might cause it to prevail over all religions, though the
 polytheists may be averse.” (Qur’an, Surah Taubah 9:33)***
@@ -84,5 +80,4 @@ letter ‘A’.
 [^4]: Biharul Anwar; Vol. 51, Pg. 81
 
 [^5]: Biharul Anwar; Vol. 52, Pg. 384
-
 

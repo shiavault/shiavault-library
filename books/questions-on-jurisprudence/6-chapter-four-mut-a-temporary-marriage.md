@@ -491,4 +491,3 @@ compiled report is sufficient for you [to start somewhere]. Indeed, in
 this is a reminder for those who have a consciousness, or, who lend an
 ear and witness it.
 
-

@@ -564,4 +564,3 @@ grave of Hud. Some say it is in Hadaramaut, in a cave and historians
 narrate from Amir al-Mu’minin that the grave is on a red hillock in
 Hadaramaut. Some say that Hud is buried in the Hijr Isma‘il at Ka‘bah.
 
-

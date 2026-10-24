@@ -319,4 +319,3 @@ the one who leaves Prayer.
 
 [^6]: Kifayatul Muwahideen
 
-

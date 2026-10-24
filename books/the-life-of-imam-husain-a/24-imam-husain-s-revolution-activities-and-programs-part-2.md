@@ -285,7 +285,7 @@ those who**  
 **[1]** Tabari, *Tarikh* 5/375
 
 **have no certainty hold you in light
-estimation.”<sup>(</sup>[1]<sup>)(</sup>[2]<sup>)</sup>**
+estimation.”([1])([2])**
 
 He wanted to suggest that the Holy Imam (‘a) should remain patient and
 that he should not be influenced by those who have no faith in Allah and
@@ -438,7 +438,7 @@ This letter is brimming with respect and good manners towards the Holy
 Imam (‘a).
 
 Some historians say that the Imam (‘a) received this letter on the
-10<sup>th</sup> of Mohurrum after his companions and relatives had been
+10th of Mohurrum after his companions and relatives had been
 martyred. And His Eminence was alone and helpless and the rebellious
 armies had surrounded him. When His Eminence read the letter he said,
 “What would happen to you? May Allah keep you safe from fear and may he
@@ -898,7 +898,7 @@ Muslim carried this letter of the Holy Imam (‘a) while the Imam (‘a)
 reminded him to observe piety and seek refuge in Allah and repose hope
 in Him so that he may help in fulfillment of this mission.**[1]**
 
-Muslim set out from Mecca on the eve of the 15<sup>th</sup>
+Muslim set out from Mecca on the eve of the 15th
 Ramadan.**[2]** On his way he stopped in Medina, prayed at the Prophet’s
 mosque and circumambulated his sarcophagus. After that he bid farewell
 to his family and friends.**[3]** It was his last farewell to them. He
@@ -969,8 +969,8 @@ Iraq and it did not happen between Mecca and Medina.
 2 – If there had been a place by the same name between Medina and Iraq
 and Hamuyi has not mentioned it, the journey from this point to Mecca
 needed at least 10 days’ travel while according to the historians Muslim
-left Mecca on the 15<sup>th</sup> of Ramadan and arrived in Kufa on the
-5<sup>th</sup> of Shawwal. That is his journey was completed in 20 days
+left Mecca on the 15th of Ramadan and arrived in Kufa on the
+5th of Shawwal. That is his journey was completed in 20 days
 which is the minimum time required to travel from Mecca to Kufa because
 there is a distance of 1600 kilometers between the two places. If during
 this period the messenger of Muslim went to Mecca and returned he would

@@ -199,4 +199,3 @@ Islam. By Allah! If the Prophet of Allah had ordered them to fight
 against us, they would still have done nothing more than what they
 did".
 
-

@@ -90,4 +90,3 @@ Umrah al-Tamattu’ that is performed before that.
  We abstain from explaining Hajj al-Qiran because it is not performed
 these days.
 
-

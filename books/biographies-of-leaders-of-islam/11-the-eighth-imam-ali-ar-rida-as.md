@@ -356,4 +356,3 @@ commoners come to pay homage. In the same vicinity lies HARUN AR-RASHID,
 the most distinguished ruler of his time. The visitors do not know who
 he was nor where his corpse now rests.
 
-

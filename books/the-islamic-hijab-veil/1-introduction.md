@@ -202,4 +202,3 @@ Tirmidhi.
 [^4]: Man la yahdroho al-Faqih, Sheikh Saduq, vol. 3, chap. 103, Hub al-
 Nisa'.
 
-

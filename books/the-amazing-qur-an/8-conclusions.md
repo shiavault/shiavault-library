@@ -87,4 +87,3 @@ The Holy Scriptures Examined in the Light of Modern Knowledge, by
 Maurice Bucaille, English version published by North American Trust
 Publication, 1978.
 
-

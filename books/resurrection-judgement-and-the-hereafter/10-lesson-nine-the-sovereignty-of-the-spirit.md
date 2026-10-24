@@ -383,4 +383,3 @@ progress and man frees himself from narrow and mono-dimensional
 thinking, materialism will in fact be cast on the refuse heap which is
 the final destination of all obsolete and discredited beliefs.
 
-

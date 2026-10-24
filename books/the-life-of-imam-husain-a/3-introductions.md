@@ -373,8 +373,8 @@ not let our hopes be dashed as you are the guardian for it and you are
 the most powerful.
 
 ***Najaf Ashraf  
- 3<sup>rd</sup> Rajab/1394 Hijri  
- 21<sup>st</sup> July/1974 A.H.( 30<sup>th</sup> Tir 1353 Solar year)***
+ 3rd Rajab/1394 Hijri  
+ 21st July/1974 A.H.( 30th Tir 1353 Solar year)***
 
 Second Introduction
 ===================
@@ -965,7 +965,7 @@ Tabari has preserved a major portion for us.” The biography of Abu
 Mikhnaf is present in *Mojam al-Udaba* 17/41, *Taj al-Uroos* 6/104 (old
 edition), *Fawaat al-Wafayaat* 3/225, no. 405, *An-Najjashi,* Pg. 320,
 no. 875, *Fehrist Tusi,* Pg. 204, no. 584, Ad-Dharia 1/348.  
-  
+
  **[2]** Nasr bin Muzahim is an early Shia historian who has written
 books like, *Jamal, Akhbar al-Mukhtar ath-Thaqafi, Waqiyatus Siffeen,
 An-Nahrawan* etc. Some writers have alleged in his biography that he was

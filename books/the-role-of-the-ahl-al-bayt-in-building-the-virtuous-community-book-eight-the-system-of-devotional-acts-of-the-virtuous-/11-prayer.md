@@ -26,14 +26,10 @@ ever deed in His sight.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَعْلَمُ شَيْئاً بَعْدَ الْمَعْرِفَةِ أَفْضَلَ مِنْ هَذِهِ
-الصَّلاَةَ. أَلاَ تَرَى أَنَّ الْعَبْدَ الصَّالِحَ عِيسَى بْنَ
-مَرْيَمَ عَلَيْهِ السَّلاَمُ قَالَ: (وَأَوْصَانِي بِالصَّلاَةِ
-وَالزَّكَاةِ مَا دُمْتُ حَيّاً).
-  </p>
-</blockquote>
+> مَا أَعْلَمُ شَيْئاً بَعْدَ الْمَعْرِفَةِ أَفْضَلَ مِنْ هَذِهِ
+> الصَّلاَةَ. أَلاَ تَرَى أَنَّ الْعَبْدَ الصَّالِحَ عِيسَى بْنَ
+> مَرْيَمَ عَلَيْهِ السَّلاَمُ قَالَ: (وَأَوْصَانِي بِالصَّلاَةِ
+> وَالزَّكَاةِ مَا دُمْتُ حَيّاً).
 
 *After recognition of Almighty Allah, I do not know of any thing better
 than prayer. Have you not noticed that the righteous servant, Jesus the
@@ -43,28 +39,24 @@ poor-rate as long as I live. (19:31)**”*[^2]
 Making recommendations to his companions, Imam ‘Ali (‘a) is reported to
 have said the following about prayer:
 
-<blockquote dir="rtl">
-  <p>
-تَعَاهَدُوا أَمْرَ الصَّلاَةِ، وَحَافِظُوا عَلَيْهَا، وَاسْتَكْثِرُوا
-مِنْهَا، وَتَقَرَّبُوا بِهَا، فَإِنَّهَا " كَانَتْ عَلَى
-الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا" أَلاَ تَسْمَعُونَ إِلَى جَوَابِ
-أَهْلِ النَّارِ حِينَ سُئِلُوا: " مَا سَلَكَكُمْ فِي سَقَرَ . قَالُوا
-لَمْ نَكُ مِنَ الْمُصَلِّينَ " وَإِنَّهَا لَتَحُتُّ الذُّنُوبَ حَتَّ
-الْوَرَقِ، وَتُطْلِقُهَا إِطْلاَقَ الرِّبَق، وَشَبَّهَهَا رَسُولُ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ بِالْحَمَّةِ تَكُونُ عَلَى بَابِ
-الرَّجُلِ، فَهُوَ يَغْتَسِلُ مِنْهَا فِي الْيَوْمِ وَاللَّيْلَةِ
-خَمْسَ مَرّات، فَمَا عَسَى أَنْ يَبْقَى عَلَيْهِ مِنَ الدَّرَنِ؟
-وَقَدْ عَرَفَ حَقَّهَا رِجَالٌ مِنَ الْمُؤْمِنِينَ الَّذِينَ لاَ
-تَشْغَلُهُمْ عنْهَا زِينَةُ مَتَاع، وَلاَ قُرَّةُ عَيْن مِنْ وَلَد
-وَلاَ مَال، يَقُولُ اللهُ سُبْحَانَهُ: "رِجَالٌ لَا تُلْهِيهِمْ
-تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ
-وَإِيتَاءِ الزَّكَاةِ ... " . وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ نَصِباً بِالصَّلاَةِ بَعْدَ التَّبْشِيرِ لَهُ
-بِالْجَنَّةِ، لِقَوْلِ اللهِ سُبْحَانَهُ: "وَأْمُرْ أَهْلَكَ
-بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا "، فَكَانَ يَأُمُرُ بِهَا أَهْلَهُ
-وَيَصْبِرُ عَلَيْهَا نَفْسَهُ.
-  </p>
-</blockquote>
+> تَعَاهَدُوا أَمْرَ الصَّلاَةِ، وَحَافِظُوا عَلَيْهَا، وَاسْتَكْثِرُوا
+> مِنْهَا، وَتَقَرَّبُوا بِهَا، فَإِنَّهَا " كَانَتْ عَلَى
+> الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا" أَلاَ تَسْمَعُونَ إِلَى جَوَابِ
+> أَهْلِ النَّارِ حِينَ سُئِلُوا: " مَا سَلَكَكُمْ فِي سَقَرَ . قَالُوا
+> لَمْ نَكُ مِنَ الْمُصَلِّينَ " وَإِنَّهَا لَتَحُتُّ الذُّنُوبَ حَتَّ
+> الْوَرَقِ، وَتُطْلِقُهَا إِطْلاَقَ الرِّبَق، وَشَبَّهَهَا رَسُولُ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ بِالْحَمَّةِ تَكُونُ عَلَى بَابِ
+> الرَّجُلِ، فَهُوَ يَغْتَسِلُ مِنْهَا فِي الْيَوْمِ وَاللَّيْلَةِ
+> خَمْسَ مَرّات، فَمَا عَسَى أَنْ يَبْقَى عَلَيْهِ مِنَ الدَّرَنِ؟
+> وَقَدْ عَرَفَ حَقَّهَا رِجَالٌ مِنَ الْمُؤْمِنِينَ الَّذِينَ لاَ
+> تَشْغَلُهُمْ عنْهَا زِينَةُ مَتَاع، وَلاَ قُرَّةُ عَيْن مِنْ وَلَد
+> وَلاَ مَال، يَقُولُ اللهُ سُبْحَانَهُ: "رِجَالٌ لَا تُلْهِيهِمْ
+> تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ
+> وَإِيتَاءِ الزَّكَاةِ ... " . وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ نَصِباً بِالصَّلاَةِ بَعْدَ التَّبْشِيرِ لَهُ
+> بِالْجَنَّةِ، لِقَوْلِ اللهِ سُبْحَانَهُ: "وَأْمُرْ أَهْلَكَ
+> بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا "، فَكَانَ يَأُمُرُ بِهَا أَهْلَهُ
+> وَيَصْبِرُ عَلَيْهَا نَفْسَهُ.
 
 *Pledge yourself to prayer and remain steady in its performance. Offer
 prayer as much as possible and seek nearness of Allah through it,
@@ -159,12 +151,8 @@ Allah. Of course, such prayers are not restricted to certain formulas,
 places, or times; rather, they are offered pursuant to the Holy
 Prophet’s saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلاَةَ خَيْرُ مَوْضُوعٍ فَمَنْ شَاءَ إسْتَقَلَّ وَمَنْ شَاءَ
-إسْتَكْثَرَ.
-  </p>
-</blockquote>
+> إِنَّ الصَّلاَةَ خَيْرُ مَوْضُوعٍ فَمَنْ شَاءَ إسْتَقَلَّ وَمَنْ شَاءَ
+> إسْتَكْثَرَ.
 
 *Prayer is the best subject. Therefore, whosoever wills, let him offer a
 few, and whosoever wills, let him offer many.*[^5]
@@ -174,22 +162,14 @@ asked him to pray to Almighty Allah to allow him into Paradise.
 
 The Holy Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-أَعِنِّي بِكَثْرَةِ السُّجُودِ.
-  </p>
-</blockquote>
+> أَعِنِّي بِكَثْرَةِ السُّجُودِ.
 
 *I will, if you help me by prostrating yourself before Him
 frequently.*[^6]
 
 Imam al-Sadiq (‘a) is validly reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاَةُ قُرْبَانُ كُلِّ تَقِيٍّ.
-  </p>
-</blockquote>
+> الصَّلاَةُ قُرْبَانُ كُلِّ تَقِيٍّ.
 
 *Prayer is the offering of every pious person.*[^7]
 
@@ -205,12 +185,8 @@ It is advisable to offer supererogatory prayers and any number of other
 voluntary prayers whenever there is a desire to do so. In this respect,
 the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْقُلُوبِ إِقْبَالاً وَإِدْبَاراً فَإِذَا أَقْبَلَتْ
-فَتَنَفَّلُوا وَإِذَا أَدْبَرَتْ فَعَلَيْكُمْ بِالْفَرِيضَةِ.
-  </p>
-</blockquote>
+> إِنَّ لِلْقُلُوبِ إِقْبَالاً وَإِدْبَاراً فَإِذَا أَقْبَلَتْ
+> فَتَنَفَّلُوا وَإِذَا أَدْبَرَتْ فَعَلَيْكُمْ بِالْفَرِيضَةِ.
 
 *Hearts usually encounter different states ranging between enthusiasm
 and apathy. If your hearts are enthusiastic, then offer the
@@ -228,14 +204,10 @@ mind. Supporting this fact, many traditions have been validly reported
 in this regard, such as one reported from Muhammad ibn Muslim from Imam
 al-Baqir (‘a) who says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعَبْدَ لَيُرْفَعُ لَهُ مِنْ صَلاَتِهِ نِصْفُهَا أَوْ
-ثُلُثُهَا أَوْ رُبُعُهَا أَوْ خُمُسُهَا، فَمَا يُرْفَعُ لَهُ إِلاَّ
-مَا أَقْبَلَ عَلَيْهِ مِنْهَا بِقَلْبِهِ، وَإِنَّمَا أُمِرْنَا
-بِالنَّافِلَةِ لِيَتُمَّ لَهُمْ بِهَا مَا نُقِصُوا مِنَ الْفَرِيضَةِ.
-  </p>
-</blockquote>
+> إِنَّ الْعَبْدَ لَيُرْفَعُ لَهُ مِنْ صَلاَتِهِ نِصْفُهَا أَوْ
+> ثُلُثُهَا أَوْ رُبُعُهَا أَوْ خُمُسُهَا، فَمَا يُرْفَعُ لَهُ إِلاَّ
+> مَا أَقْبَلَ عَلَيْهِ مِنْهَا بِقَلْبِهِ، وَإِنَّمَا أُمِرْنَا
+> بِالنَّافِلَةِ لِيَتُمَّ لَهُمْ بِهَا مَا نُقِصُوا مِنَ الْفَرِيضَةِ.
 
 *Only half, one third, one quarter, or even one fifth of a servant’s
 prayer might be accepted. What is accepted is only the amount of the
@@ -352,12 +324,8 @@ in this period will be forgiven:*
 recitation (of chapters of the Holy Qur'an). When you finish reciting
 (these chapters), you may repeat the following litany fifteen times:*
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ ٱللّهِ وَٱلْحَمْدُ لِلّهِ وَلاَ إِلٰهَ إِلاَّ ٱللّهُ
-وَٱللّهُ اَكْبَرُ.
-  </p>
-</blockquote>
+> سُبْحَانَ ٱللّهِ وَٱلْحَمْدُ لِلّهِ وَلاَ إِلٰهَ إِلاَّ ٱللّهُ
+> وَٱللّهُ اَكْبَرُ.
 
 *All glory be to Allah, all praise be to Allah, there is no god save
 Allah, and Allah is the Greatest.*
@@ -397,18 +365,14 @@ the Imam (‘a) said:
 After you say the Tasbihat in the second prostration of the fourth unit,
 say the following litany:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ مَنْ لَبِسَ ٱلْعِزَّ وَٱلْوَقَارَ سُبْحَانَ مَنْ تَعَطَّفَ
-بِٱلْمَجْدِ وَتَكَرَّمَ بِهِ سُبْحَانَ مَنْ لاَ يَنْبَغِي ٱلتَّسْبِيحُ
-إِلاَّ لَهُ سُبْحَانَ مَنْ اَحْصَىٰ كُلَّ شَيْءٍ عِلْمُهُ سُبْحَانَ
-ذِي ٱلْمَنِّ وَٱلنِّعَمِ سُبْحَانَ ذِي ٱلْقُدْرَةِ وَٱلْكَرَمِ
-اَللَّهُمَّ إِنِّي اَسْئَلُكَ بِمَعَاقِدِ ٱلْعِزِّ مِنْ عَرْشِكَ
-وَمُنْتَهَىٰ ٱلرَّحْمَةِ مِنْ كِتَابِكَ وَٱسْمِكَ ٱلاَعْظَمِ
-وَكَلِمَاتِكَ ٱلتَّامَّةِ ٱلَّتِي تَمَّتْ صِدْقاً وَعَدْلاًَ صَلِّ
-عَلَىٰ مُحَمَّدٍ وَاَهْلِ بَيْتِهِ…
-  </p>
-</blockquote>
+> سُبْحَانَ مَنْ لَبِسَ ٱلْعِزَّ وَٱلْوَقَارَ سُبْحَانَ مَنْ تَعَطَّفَ
+> بِٱلْمَجْدِ وَتَكَرَّمَ بِهِ سُبْحَانَ مَنْ لاَ يَنْبَغِي ٱلتَّسْبِيحُ
+> إِلاَّ لَهُ سُبْحَانَ مَنْ اَحْصَىٰ كُلَّ شَيْءٍ عِلْمُهُ سُبْحَانَ
+> ذِي ٱلْمَنِّ وَٱلنِّعَمِ سُبْحَانَ ذِي ٱلْقُدْرَةِ وَٱلْكَرَمِ
+> اَللَّهُمَّ إِنِّي اَسْئَلُكَ بِمَعَاقِدِ ٱلْعِزِّ مِنْ عَرْشِكَ
+> وَمُنْتَهَىٰ ٱلرَّحْمَةِ مِنْ كِتَابِكَ وَٱسْمِكَ ٱلاَعْظَمِ
+> وَكَلِمَاتِكَ ٱلتَّامَّةِ ٱلَّتِي تَمَّتْ صِدْقاً وَعَدْلاًَ صَلِّ
+> عَلَىٰ مُحَمَّدٍ وَاَهْلِ بَيْتِهِ…
 
 **Glory be to Him Who has dressed Himself in majesty and dignity! Glory
 be to He Who bestows favors abundantly, therefore surpasses in glory.
@@ -463,23 +427,15 @@ should then raise the head from the first prostration. In the second
 prostration, one should repeat the following supplication of seeking
 sanctuary in Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي اَسْتَجِيرُكَ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي اَسْتَجِيرُكَ.
 
 *O Allah, I do seek sanctuary in You.*
 
 After that, one may pray for anything one may desire, following it with
 the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-يَا كَائِناً قَبْلَ كُلِّ شَيْءٍ وَيَا مُكَوِّنَ كُلِّ شَيْءٍ وَيَا
-كَائِناً بَعْدَ كُلِّ شَيْءٍ.
-  </p>
-</blockquote>
+> يَا كَائِناً قَبْلَ كُلِّ شَيْءٍ وَيَا مُكَوِّنَ كُلِّ شَيْءٍ وَيَا
+> كَائِناً بَعْدَ كُلِّ شَيْءٍ.
 
 *O He, Who existed before all things! O, Author of all things! O He, Who
 shall exist after all things!*
@@ -558,11 +514,7 @@ tradition states:
 *You may then praise and thank Almighty Allah, invoke His blessings upon
 the Prophet and his Household, and say the following:*
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنْ كَانَ غَيْرَ ذٰلِكَ فَٱصْرِفْهُ عَنِّي.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنْ كَانَ غَيْرَ ذٰلِكَ فَٱصْرِفْهُ عَنِّي.
 
 *O Allah, if it is something other than that, then (please) repel it
 from me.*
@@ -584,17 +536,13 @@ Wednesday, and Thursday. On Friday, you may offer two units of prayer in
 a clean place. Upon accomplishment, you may raise your sight towards the
 sky and repeat the following supplication one hundred times:*
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي اَسْئَلُكَ بِاَنَّكَ عَالِمُ ٱلْغَيْبِ
-وَٱلشَّهَادَةِ ٱلرَّحْمٰنُ ٱلرَّحِيمُ اَنْتَ عَالِمُ ٱلْغَيْبِ إِنْ
-كَانَ هٰذَا ٱلاَمْرُ خَيْراً فِي مَا اَحَاطَ بِهِ عِلْمُكَ فَيَسِّرْهُ
-لِي وَبَارِكْ لِي فِيهِ وَٱفْتَحْ لِي فِيهِ وَإِنْ كَانَ ذٰلِكَ لِي
-شَرّاً فِي مَا اَحَاطَ بِهِ عِلْمُكَ فَٱصْرِفْ عَنِّي بِمَا تَعْلَمُ
-فَإِنَّكَ تَعْلَمُ وَلاَ اَعْلَمُ وَتُقَدِّرُ وَلاَ اُقَدِّرُ
-وَتَقْضِي وَلاَ اَقْضِي وَاَنْتَ عَلاَّمُ ٱلْغُيُوبِ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي اَسْئَلُكَ بِاَنَّكَ عَالِمُ ٱلْغَيْبِ
+> وَٱلشَّهَادَةِ ٱلرَّحْمٰنُ ٱلرَّحِيمُ اَنْتَ عَالِمُ ٱلْغَيْبِ إِنْ
+> كَانَ هٰذَا ٱلاَمْرُ خَيْراً فِي مَا اَحَاطَ بِهِ عِلْمُكَ فَيَسِّرْهُ
+> لِي وَبَارِكْ لِي فِيهِ وَٱفْتَحْ لِي فِيهِ وَإِنْ كَانَ ذٰلِكَ لِي
+> شَرّاً فِي مَا اَحَاطَ بِهِ عِلْمُكَ فَٱصْرِفْ عَنِّي بِمَا تَعْلَمُ
+> فَإِنَّكَ تَعْلَمُ وَلاَ اَعْلَمُ وَتُقَدِّرُ وَلاَ اُقَدِّرُ
+> وَتَقْضِي وَلاَ اَقْضِي وَاَنْتَ عَلاَّمُ ٱلْغُيُوبِ.
 
 *O Allah, I beseech You as the Knower of the unseen and the seen, the
 All-beneficent, the All-merciful, if this affair is good for me
@@ -682,12 +630,8 @@ second *Surah al-Fatihah* is recited once and *Surah* *al-Qadr* repeated
 ten times. Upon completion, the reward of this prayer is dedicated to
 the dead in the following formula of supplication:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَٱبْعَثْ ثَوَابَهَا
-إِلى قَبْرِ…
-  </p>
-</blockquote>
+> اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَٱبْعَثْ ثَوَابَهَا
+> إِلى قَبْرِ…
 
 *O Allah, (please) send blessings upon Muhammad and the Household of
 Muhammad and send the reward of this prayer to the grave of
@@ -715,12 +659,8 @@ parents. According to Shaykh al-Qummi, this prayer consists of two
 units, in the first unit of which *Surah al-Fatihah* is recited once and
 the following holy verse is repeated ten times:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
-الْحِسَابُ
-  </p>
-</blockquote>
+> رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
+> الْحِسَابُ
 
 ***O our Lord, forgive me and my parents and the believers on the day
 when the reckoning shall come to pass. (14:41)***
@@ -728,13 +668,9 @@ when the reckoning shall come to pass. (14:41)***
 In the second unit, *Surah al-Fatihah* is recited once and the following
 holy verse is repeated ten times:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا
-وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
-تَبَارًا
-  </p>
-</blockquote>
+> رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا
+> وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
+> تَبَارًا
 
 ***O My Lord, forgive me and my parents and him who enters my house
 believing, and the believing men and the believing women; and do not
@@ -742,11 +678,7 @@ increase the unjust in aught but destruction. (71:28)***
 
 Upon accomplishment, the following holy verse is repeated ten times:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
-  </p>
-</blockquote>
+> وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
 
 ***O my Lord, have compassion on them, as they brought me up when I was
 little. (17:24)***[^41]
@@ -877,5 +809,4 @@ al-Salihat, pp. 214-215.
 [^40]: - Al-Hurr al-\`Amili, Wasa’il al-Shi\`ah 5:285, H. 4.
 
 [^41]: - Shaykh \`Abbas al-Qummi, Mafatih al-Jinan, pp. 216.
-
 

@@ -134,4 +134,3 @@ served. Their husbands were advised to teach their wives Islamic
 injunctions. A set of books on the principles of Islam and its practices
 was presented to them as a gift.
 
-

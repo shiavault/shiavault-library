@@ -505,4 +505,3 @@ indication that some of the contemporary Islamic scholars have a new and
 sound way of thinking. Should this step be followed by other positive
 steps, the Muslim World may regain its brotherhood and unity.
 
-

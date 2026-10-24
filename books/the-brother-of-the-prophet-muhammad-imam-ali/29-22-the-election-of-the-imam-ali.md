@@ -761,4 +761,3 @@ History part 4 p. 428.
 
 [^31]: Al-Imam ‘Ali Nahjul-Balaghah part 3 111-112.
 
-

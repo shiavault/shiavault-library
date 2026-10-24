@@ -41,4 +41,3 @@ endeavor, whatever the effort, whatever the try; this tower cannot be
 pulled down by any distraction because reason has stood as a foundation
 to its erection.
 
-

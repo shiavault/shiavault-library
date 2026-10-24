@@ -184,4 +184,3 @@ infallible figures which is in effect complementary to the discussion of
 the prophetic mission and the leadership of Imams after the lesson about
 the Resurrection.
 
-

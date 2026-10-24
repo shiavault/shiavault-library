@@ -22,17 +22,9 @@ point.
 
 Mawlawī [Rūmī] has expressed the above meaning in the following parable:
 
-<blockquote dir="rtl">
-  <p>
-عدل چه بود؟ وضع اندر موضعش‬ ظلم چه بود؟ وضع در ناموضعش
-  </p>
-</blockquote>
+> عدل چه بود؟ وضع اندر موضعش‬ ظلم چه بود؟ وضع در ناموضعش
 
-<blockquote dir="rtl">
-  <p>
-عدل چه بود؟ آب ده اشجار را ‬ ظلم چه بود؟ آب دادن خار را ‬ ‬
-  </p>
-</blockquote>
+> عدل چه بود؟ آب ده اشجار را ‬ ظلم چه بود؟ آب دادن خار را ‬ ‬
 
 *What is justice? To put [a thing] in its [right] place.*
 
@@ -46,13 +38,9 @@ In analyzing the essence of justice, ‘Allāmah al-Ṭabāṭabā’ī has said
 
 “The essence of justice is as follows:
 
-<blockquote dir="rtl">
-  <p>
-إِقامَةُ المُساواةِ وَالمُوازَنَةِ بَيْنَ الأُمورِ بِأَنْ يُعْطىٰ
-كُلُّ مِنَ السَّهْمِ ما يَنْبَغِى أَنْ يُعْطاهُ. فَيتساوى في أَنَّ
-كُلّاً مِنْها واقِعٌ في مَوْضِعِهِ الَّذي يَسْتَحِقُّهُ.
-  </p>
-</blockquote>
+> إِقامَةُ المُساواةِ وَالمُوازَنَةِ بَيْنَ الأُمورِ بِأَنْ يُعْطىٰ
+> كُلُّ مِنَ السَّهْمِ ما يَنْبَغِى أَنْ يُعْطاهُ. فَيتساوى في أَنَّ
+> كُلّاً مِنْها واقِعٌ في مَوْضِعِهِ الَّذي يَسْتَحِقُّهُ.
 
 ‘[The essence of justice is] to strike a balance and equilibrium among
 the things in such a way that the rightful share of each of them is
@@ -77,14 +65,10 @@ undesirable, and He will not abandon that which is necessary and good.
 
 Qāḍī ‘Abd al-Jabbār Mu‘tazilī (died 415 AH) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ إِذا وَصَفْنَا القَديمَ تَعالىٰ بِأَنَّهُ عَدْلٌ حَكيمٌ،
-فَالْمُرادُ بِهِ أَنَّهُ لا يَفْعَلُ القَبيحَ، أَو لا يَخْتارُهُ وَ لا
-يُخِلَّ بِما هُوَ واجِبٌ عَلَيْهِ، وَأَنَّ أَفْعالَهُ كُلَّها
-حَسَنَةٌ.
-  </p>
-</blockquote>
+> نَحْنُ إِذا وَصَفْنَا القَديمَ تَعالىٰ بِأَنَّهُ عَدْلٌ حَكيمٌ،
+> فَالْمُرادُ بِهِ أَنَّهُ لا يَفْعَلُ القَبيحَ، أَو لا يَخْتارُهُ وَ لا
+> يُخِلَّ بِما هُوَ واجِبٌ عَلَيْهِ، وَأَنَّ أَفْعالَهُ كُلَّها
+> حَسَنَةٌ.
 
 “Whenever we describe the Eternal and Exalted as just and wise, we mean
 that He does not do anything abominable. He does not abandon (through
@@ -94,13 +78,9 @@ does is good.”[^8]
 In this regard, Shaykh Sayyid al-Dīn al-Ḥamaṣī (died 6th century AH) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْكَلامُ فِي الْعَدلِ كَلامٌ في أَفْعالِهِ تَعالىٰ، وَأَنَّها
-كُلَّها حَسَنَةٌ وَتَنزیهه عَنِ القَبائِحِ وَعَنِ الإِخْلالِ
-بِالْواجِبِ في حِكْمَتِهِ.
-  </p>
-</blockquote>
+> أَلْكَلامُ فِي الْعَدلِ كَلامٌ في أَفْعالِهِ تَعالىٰ، وَأَنَّها
+> كُلَّها حَسَنَةٌ وَتَنزیهه عَنِ القَبائِحِ وَعَنِ الإِخْلالِ
+> بِالْواجِبِ في حِكْمَتِهِ.
 
 “The statement about justice is a statement about the actions of the
 Exalted, and all of them are good and immune from the abominable things,
@@ -126,11 +106,7 @@ have given for the Divine justice is actually taken from the statement
 of the Imām (*‘a*) in this regard. When the Imām (*‘a*) was asked about
 the Divine Unity and justice, he replied:
 
-<blockquote dir="rtl">
-  <p>
-أَلْتَوْحِيدُ أَلَّا تَتَوَهَّمَهُ، وَٱلْعَدْلُ أَلَّا تَتَّهِمَهُ.
-  </p>
-</blockquote>
+> أَلْتَوْحِيدُ أَلَّا تَتَوَهَّمَهُ، وَٱلْعَدْلُ أَلَّا تَتَّهِمَهُ.
 
 “Unity means that you do not subject Him to the limitations of your
 imagination and justice means that you do not lay any blame on
@@ -139,13 +115,9 @@ Him.”[^11]
 Similar to this statement has been reported from Imām al-Ṣādiq (*‘a*).
 For example, he has said:
 
-<blockquote dir="rtl">
-  <p>
-اَمَّا التَّوْحيدُ فَاَن لّا تُجَوِّزَ عَلىٰ خالِقِكَ ما جازَ
-عَلَيْكَ، وَأَمَّا العَدْلُ فَاَن لّاتَنْسُبَ إلىٰ خالِقِكَ ما لامَكَ
-عَلَيْهِ.
-  </p>
-</blockquote>
+> اَمَّا التَّوْحيدُ فَاَن لّا تُجَوِّزَ عَلىٰ خالِقِكَ ما جازَ
+> عَلَيْكَ، وَأَمَّا العَدْلُ فَاَن لّاتَنْسُبَ إلىٰ خالِقِكَ ما لامَكَ
+> عَلَيْهِ.
 
 “Unity means that you do not attribute to Him attributes of defect and
 deficiency which are applicable to you and justice means that you do not
@@ -181,12 +153,8 @@ Theoretical wisdom means the highest degree of knowledge about the most
 sublime subject whose manifestation is the knowledge of God concerning
 His Essence and Actions.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْحِكْمَةَ عِبارَةٌ عَنْ مَعْرِفَةِ أَفْضَلِ الْمَعْلوماتِ
-بِأَفْضَلِ الْعُلومِ، فَالْحَكيمُ بِمَعْنَى الْعَليمِ.
-  </p>
-</blockquote>
+> إِنَّ الْحِكْمَةَ عِبارَةٌ عَنْ مَعْرِفَةِ أَفْضَلِ الْمَعْلوماتِ
+> بِأَفْضَلِ الْعُلومِ، فَالْحَكيمُ بِمَعْنَى الْعَليمِ.
 
 “Wisdom is indeed to know the best of things to be known by the best of
 knowledge. So, the wise (*ḥakīm*) means the knowledgeable
@@ -198,12 +166,8 @@ Wisdom in this sense has the following usages:
 
 (1) Firmness in action. For instance, Al-Rāzī has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَعْنَى الإِحْكامِ في حَقِّ اللهِ تَعالىٰ في خَلْقِ الأَشْياءِ
-إِتْقانُ التَّدْبيرِ فيها وَحُسْنُ التَّقْديرِ لَها.
-  </p>
-</blockquote>
+> وَمَعْنَى الإِحْكامِ في حَقِّ اللهِ تَعالىٰ في خَلْقِ الأَشْياءِ
+> إِتْقانُ التَّدْبيرِ فيها وَحُسْنُ التَّقْديرِ لَها.
 
 “And the meaning of *iḥkām* with respect to Allah, the Exalted, in the
 creation of the things is the firmness of control over it and the
@@ -211,44 +175,28 @@ excellence of decree for it.”[^15]
 
 This holy verse provides this meaning of *ḥikmah*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ﴾
 
 ***“[It is He] who perfected everything that He created.”***[^16]
 
 (2) The Agent’s immunity from abominable and undue acts. In this regard,
 Fakhr al-Dīn al-Rāzī has said:
 
-<blockquote dir="rtl">
-  <p>
-اَلثّالِثُ: اَلْحِكْمَةُ عِبارَةٌ عَنْ كَوْنِهِ مُقَدَّساً عَنْ فِعْلِ
-ما لا يَنْبَغي.
-  </p>
-</blockquote>
+> اَلثّالِثُ: اَلْحِكْمَةُ عِبارَةٌ عَنْ كَوْنِهِ مُقَدَّساً عَنْ فِعْلِ
+> ما لا يَنْبَغي.
 
 “The third meaning of *ḥikmah* is to consider Him immune from any undue
 act.”
 
 He has then cited the following verses as his basis:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لا تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لا تُرْجَعُونَ ﴾
 
 ***“Did you suppose that We created you aimlessly, and*** ***that you
 will not be brought back to Us?”***[^17]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ﴾
 
 ***“We did not create the sky and the earth and whatever is between them
 in vain.”***[^18]
@@ -304,33 +252,21 @@ potential and capability, and according to the intended goal of each
 creature, He has provided it with the necessary means and conditions to
 attain that goal. This holy verse speaks of this point:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“Our Lord is He who gave everything its creation and then guided
 it.”***[^19]
 
 So is this holy verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي خَلَقَ فَسَوَّى ٭ وَالَّذِي قَدَّرَ فَهَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي خَلَقَ فَسَوَّى ٭ وَالَّذِي قَدَّرَ فَهَدَى ﴾
 
 ***“[It is He] who created and proportioned, who determined and
 guided.”***[^20]
 
 It is thus stated in a famous Prophetic tradition:
 
-<blockquote dir="rtl">
-  <p>
-بِالْعَدْلِ قامَتِ السَّماواتُ وَالْأَرْضُ.
-  </p>
-</blockquote>
+> بِالْعَدْلِ قامَتِ السَّماواتُ وَالْأَرْضُ.
 
 “The heavens and the earth were established by justice.”
 
@@ -351,12 +287,8 @@ That is, on the basis of justice and wisdom, God gives punishment and He
 does not also deprive the good goers of their rewards in the least. He
 bestows them whatever is due to them and He has promised to them:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلا تُظْلَمُ
-نَفْسٌ شَيْئًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلا تُظْلَمُ
+> نَفْسٌ شَيْئًا ﴾
 
 ***“We shall set up the scale of justice on the Day of Resurrection, and
 no soul will be wronged in the least.”***[^21]
@@ -364,12 +296,8 @@ no soul will be wronged in the least.”***[^21]
 The word *qisṭ* (justice) in this holy verse encompasses all the
 manifestations and expressions of *‘adl* and *qisṭ*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ شَهِدَ اللَّهُ أَنَّهُ لا إِلَهَ إِلا هُوَ وَالْمَلائِكَةُ وَأُولُوا
-الْعِلْمِ قَائِمًا بِالْقِسْطِ ﴾
-  </p>
-</blockquote>
+> ﴿ شَهِدَ اللَّهُ أَنَّهُ لا إِلَهَ إِلا هُوَ وَالْمَلائِكَةُ وَأُولُوا
+> الْعِلْمِ قَائِمًا بِالْقِسْطِ ﴾
 
 ***“Allah bears witness that there is no god but Him—and [so do] the
 angels and those who possess knowledge—maintainer of justice.”***[^22]
@@ -410,11 +338,7 @@ the justice of God. He asked the Prophet (*ṣ*), thus: “Does your God
 commit injustice?” The Prophet (*ṣ*) replied, “No.” The Jew asked, “What
 is the reason?” The Prophet (*ṣ*) retorted,
 
-<blockquote dir="rtl">
-  <p>
-لِعِلْمِهِ بِقُبْحِهِ وَاسْتِغْنائِهِ عَنْهُ.
-  </p>
-</blockquote>
+> لِعِلْمِهِ بِقُبْحِهِ وَاسْتِغْنائِهِ عَنْهُ.
 
 “It is because He knows the repulsiveness of injustice and He has no
 need for it.”
@@ -423,37 +347,21 @@ The Jew asked again, “Has God revealed anything [to you] in this
 regard?” The Prophet (*ṣ*) answered, “Yes.” He then recited the
 following Qur’anic verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا رَبُّكَ بِظَلّامٍ لِلْعَبِيدِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا رَبُّكَ بِظَلّامٍ لِلْعَبِيدِ ﴾
 
 ***“And your Lord is not tyrannical to the servants.”***[^27]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ اللَّهَ لا يَظْلِمُ النَّاسَ شَيْئًا وَلَكِنَّ النَّاسَ
-أَنْفُسَهُمْ يَظْلِمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ اللَّهَ لا يَظْلِمُ النَّاسَ شَيْئًا وَلَكِنَّ النَّاسَ
+> أَنْفُسَهُمْ يَظْلِمُونَ ﴾
 
 ***“Indeed Allah does not wrong people in the least; rather it is people
 who wrong themselves.”***[^28]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعَالَمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعَالَمِينَ ﴾
 
 ***“And Allah does not desire any wrong for the creatures.”***[^29]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ ﴾
 
 ***“And Allah does not desire any wrong for (His) servants.”***[^30]
 
@@ -525,12 +433,8 @@ theology are called *‘adliyyah* (justice-oriented).
 Regarding the importance of the principle of justice, ‘Allāmah
 al-Ḥillī[^34] has said:
 
-<blockquote dir="rtl">
-  <p>
-اِعْلَمْ أَنَّ هٰذا أَصْلٌ عَظيمٌ تَبْتَنِى عَلَيْهِ الْقَواعِدُ
-الإسْلامِيَّةُ بَلِ الأَحْكامُ الدّينِيَّةُ مُطْلَقاً.
-  </p>
-</blockquote>
+> اِعْلَمْ أَنَّ هٰذا أَصْلٌ عَظيمٌ تَبْتَنِى عَلَيْهِ الْقَواعِدُ
+> الإسْلامِيَّةُ بَلِ الأَحْكامُ الدّينِيَّةُ مُطْلَقاً.
 
 “Know that this principle is an important principle on which the Islamic
 rules as well as the religious laws absolutely stand.”[^35]
@@ -658,5 +562,4 @@ period of Mongol domination of Iran. [Trans.]
 
 [^36]: Āshinā’ī bā ‘Ulūm-e Islāmī (Kalām wa ‘Irfān), p. 25, with a
 slight modification.
-
 

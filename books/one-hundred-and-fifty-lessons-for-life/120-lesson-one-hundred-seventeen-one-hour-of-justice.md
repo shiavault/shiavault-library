@@ -3,11 +3,7 @@ Lesson One Hundred Seventeen: One Hour Of Justice
 
 The Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-عَدْلُ ساعَة خَيْرٌ مِنْ عِبادَةِ سَنَة!
-  </p>
-</blockquote>
+> عَدْلُ ساعَة خَيْرٌ مِنْ عِبادَةِ سَنَة!
 
 Translation
 -----------
@@ -29,5 +25,4 @@ having a common origin. Wherever there is no justice, there is no
 thinking, meditation and wisdom.
 
 [^1]: Nahjul Fasahah, page 490
-
 

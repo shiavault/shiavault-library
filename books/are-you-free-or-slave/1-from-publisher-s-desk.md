@@ -17,4 +17,3 @@ Jamiat-ul-Athar hopes to meet this big challenge, we present this book
 and plan to translate and publish the books on other aspects of Islam
 afterwards.
 
-

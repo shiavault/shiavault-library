@@ -419,4 +419,3 @@ The Messenger (s.a.w.) chose to burn down the mosque of Dhirar which
 was built by the hypocrites. They had made it a base for hypocrisy and
 the hostile group which worked to enfeeble the Islamic state.
 
-

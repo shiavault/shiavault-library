@@ -543,4 +543,3 @@ their deeds rightful. As a result, they reach perfection in their
 humanity, their statuses become good in the world and in the hereafter,
 and they live prosperously and die prosperously.
 
-

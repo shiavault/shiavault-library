@@ -389,4 +389,3 @@ was able to open the boundaries to accept yet another style of life.
 Even then, there was need for adjustment and work on the part of both
 the daughter and her family with the family of origin.
 
-

@@ -196,4 +196,3 @@ the Household of the Prophet?"[^1]
 
 [^1]: al-'Ayyashi, al-Tafsir, Vol. I, p.247.
 
-

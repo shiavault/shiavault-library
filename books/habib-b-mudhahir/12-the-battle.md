@@ -19,4 +19,3 @@ companions.
 Imam Husayn's companions resisted the attacks bravely. Some of them fell
 over the ground and died martyrs for the Prophet's grandson.
 
-

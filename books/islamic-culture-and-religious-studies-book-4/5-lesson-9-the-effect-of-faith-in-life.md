@@ -206,7 +206,6 @@ action while sincerity of action strengthens belief. Nurturing either or
 both elements makes it possible for a person to truly perfect his
 faith.
 
-
 **Lesson 10 : Character Bulding**
 
 There is no doubt that character building plays a very significant role
@@ -508,5 +507,4 @@ live your life without infringing on another persons privileges. Islam
 is not against human rights rather it promotes them. Hijaab, however, is
 a responsibility that must be upheld by individuals within a society if
 that society is to prosper.
-
 

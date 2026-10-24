@@ -176,7 +176,6 @@ backwardness and their misunderstanding of Islam, then, surely they
 would do a great disservice to the principles and values to which they
 invite other people to.
 
-
 Methods of Dialogue
 
 In order to be competent enough and fully prepared, a missionary must
@@ -485,5 +484,4 @@ of Allah, etc.
 Scientific studies in the fields ideology, jurisprudence, exegesis,
 traditions and history have produced many opinions, convictions,
 concepts and ideas conflicting with one another.
-
 

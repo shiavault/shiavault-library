@@ -268,4 +268,3 @@ parts and disposition. 2nd. Precepts and instruction. 3rd. Use and
 practice; which is able better to correct the first, and improve the
 latter.
 
-

@@ -427,4 +427,3 @@ this verse we will end our speech about some verses revealed in respect
 of the Ahlul Bayt. Without doubt the verses that deal with Imam al-Hasan
 (a.s) indicate his important affair and his high position with Allah.
 
-

@@ -35,4 +35,3 @@ Ertugrul (d. 1359/1940), a philosopher who used the teachings of Ibn
 materialism. His writings contributed greatly to the revival of interest
 in metaphysics in 14th/20th century Turkey.28
 
-

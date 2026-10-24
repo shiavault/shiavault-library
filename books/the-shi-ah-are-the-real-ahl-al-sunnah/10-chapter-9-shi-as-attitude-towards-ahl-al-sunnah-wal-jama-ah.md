@@ -117,6 +117,6 @@ not a narrative that could be forged but a verification of what is
 before it and a distinct explanation of all things, and a guide and
 mercy to those who believe. (Holy Qur'an, 12:111)
 
-[^54] Muslim, Sahih, Vol. 7, p. 122 "Kitab al-Fadail" (Book of Virtues),
+[^54]: Muslim, Sahih, Vol. 7, p. 122 "Kitab al-Fadail" (Book of Virtues),
 the chapter dealing with the merits of Ali ibn Abu Talib .
 

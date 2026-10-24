@@ -111,4 +111,3 @@ prayers, I would have stopped the Call to Prayers (!)
 
 [^1]: Al-Aghani, Vol. 3, P. 243
 
-

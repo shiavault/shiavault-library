@@ -31,14 +31,12 @@ al-Amali; 265 H.5, Tanbih ul-Khawattir; 2:166, Mekarim ul-Akhlaq; 217,
 Oddat ud-Da'ee; 16, Rawdhat ul-Wa'idheen; 327, Bihar ul-Anwar; 93:380
 H.2.
 
-<p dir="rtl">
 ومن أحب أن يكون أغنى الناس فليكن بما عند الله عزّ وجلّ أوثق منه بما في
 يده. ثمّ قال صلّى الله عليه وآله: ألا انبّئكم بشرّ من هذا؟ قالوا: بلى يا
 رسول الله. قال: من أبغض الناس وأبغضه الناس. ثمّ قال: ألا اُنبّئكم بشرٍّ
 من هذا؟ قالوا: بلى يا رسول الله. قال: الذي لا يقيل عثرة، ولا يقبل معذرة،
 ولا يغفر ذنباً. ثمّ قال: ألا انبّئكم بشرّ من هذا؟ قالوا: بلى يا رسول
 الله.
-</p>
 
 He who wants to be the wealthiest of people should trust in what is in
 Allah's hand more than what is in his own hand. May I inform of the
@@ -226,7 +224,6 @@ following preach:
 
 134. Refer to Men La Yahdhuruh ul-Faqih; 4:402 H.5867.
 
-<p dir="rtl">
 "أسأل الله الايمان والتقوى، وأعوذ بالله من شر عاقبة الاُمور، إنَّ أشرف
 الحديث ذكر الله تعالى، ورأس الحكمة طاعته، وأصدق القول وابلغ الموعظة
 وأحسن القصص كتاب الله. وأوثق العرى الإيمان بالله وخير الملل ملّة إبراهيم
@@ -235,7 +232,6 @@ following preach:
 النفس، وخير ما اُلقي في القلب اليقين، وزينة الحديث الصدق، وزينة العلم
 الإحسان، وأشرف الموت قتل الشهادة، وخير الاُمور خيرها عاقبة، وما قلَّ
 وكفى خيرٌ ممّا كثر وألهى، والشقيُّ من شقي في بطن اُمّه.
-</p>
 
 "I implore to Allah to grant me faith and piety. I seek His guard
 against the bad results. The best saying is the mention of Allah,
@@ -254,7 +250,6 @@ death is martyrdom. The best matters are these whose results are good.
 The sufficient fewness is better than the diverting muchness. The true
 unhappy is that who was unhappy since he was in his mother's womb.
 
-<p dir="rtl">
 والسعيد من وعظ بغيره، وأكيس الكيس التقي، وأحمق الحمق الفجور، وشرّ
 الروايا روايا الكذب. وشرّ الاُمور محدثاتها، وشرّ العمى عمى القلب. وشرّ
 الندامة ندامة يوم القيامة، وأعظم المخطئين عند الله عزّ وجلّ لسان
@@ -263,7 +258,6 @@ unhappy is that who was unhappy since he was in his mother's womb.
 به، ومن يعرف البلاء يصبر عليه، ومن لا يعرفه ينكره، والرَّيب كفر، ومن
 يستكبر يضعه الله، ومن يطع الشيطان يعص الله، ومن يعص الله يعذِّبه الله،
 ومن يشكره يزده الله.
-</p>
 
 The true happy is he who learns lessons from others. The wittiest
 people are the God-fearing. The most foolish thing is libertinism. The
@@ -291,7 +285,6 @@ added to the religion.
 will be gained due to suffering it or to know that the source of
 misfortunes is God the Exalted Who offers only the good.
 
-<p dir="rtl">
 ومن يصبر على الرزَّيّة يغنيه الله، ومن يتوكّل على الله فحسبه الله، ومن
 يتوكّل على الله يؤجره الله، لا تسخطوا الله برضا أحد من خلقه، ولا
 تتقرَّبوا إلى أحد من الخلق بتباعد من الله، فإنَّ الله عزَّ وجلَّ ليس
@@ -301,7 +294,6 @@ misfortunes is God the Exalted Who offers only the good.
 منه من عصاه، ولا يجد الهارب من الله مهرباً فإنَّ أمر الله تعالى ذكره
 نازل باذلاله ولو كره الخلائق، وكلّما هو آت قريب. ما شاء الله كان، وما لم
 يشأ لم يكن.
-</p>
 
 Allah will help him who behaves steadfastly against misfortunes. Allah
 is Sufficient for the needs of whoever trusts in Him. Allah will reward
@@ -321,11 +313,9 @@ not. Everything that will be inevitably falling is imminent. Only will
 that which Allah wants occur, and that which He does not want will never
 occur.
 
-<p dir="rtl">
 تعاونوا على البرِّ والتقوى ولا تعانوا على الإثم والعدوان واتّقوا الله
 إنّ الله شديد العقاب". فقال الصادق جعفر بن محمد عليهما السلام: هذا قول
 رسول الله صلى الله عليه وآله.
-</p>
 
 (108) وقال رسول الله صلى الله عليه وآله: قال الله جلّ جلاله: أيّما عبد
 أطاعني لم أكله إلى غيري، وأيّما عبد عصاني وكلته الى نفسه ثمَّ لم اُبال
@@ -406,5 +396,4 @@ Bihar ul-Anwar; 73:343 H.27 and 73:347 H.35.
 al-Amali; 628 H.8, Alikhtisas; 230, A'lam ud-Din; 301, Az-Zuhd; 22,
 Mishkat ul-Anwar; 82, Rawdhat ul-Wa'idheen; 371, Bihar ul-Anwar; 72:152
 H.11, 72:161 H.22, 78:172 H.5, and 78:188 H.42.
-
 

@@ -117,4 +117,3 @@ narrated, without relying on the hadiths of the Messenger of Allah,
 Allah’s blessings be on him and his family, and hence, one cannot rely
 on those traditions.
 
-

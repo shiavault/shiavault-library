@@ -368,4 +368,3 @@ Makkah is one of the "Umm al-Quras"
 1965 (copied from the publication of the Ministry of Education and
 Training, September 1965).
 
-

@@ -52,4 +52,3 @@ responsibilities, worship Him [S.W.T.] and the time to repent. This is a
 time that can be used to perform recommended acts in preparation for the
 afterlife and the difficult times experienced in and after death.
 
-

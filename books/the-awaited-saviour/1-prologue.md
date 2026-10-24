@@ -240,8 +240,6 @@ intellectual curiosity.
 
 **Publishers**
 
-
-
 [^1]: Sahih Bukhari, p.175, Egypt; Sahih Tirmizy, vol.2, p.45, Dehli.
 
 [^2]: Sahih Muslim, vol. 2, p. 191, Egypt; Sahih Abi Daud, vol. 2, p.
@@ -270,5 +268,4 @@ Jalaluddin Suyuti. (vi) Manaqib al-Mahdi, Hafiz Abu Na'im al-Isfahani.
 (vii) Al-Qawl al-Mukhtasar fi 'alamat al-Mahdi al-Muntazar, Ibn Hajar
 Haythami. (viii) Al-Burhan fi 'alamat al-Mahdi Akhir al-Zaman, Mulla Ali
 al-Muttaqi. (ix) Arba'in Hadith fi'l-Mahdi, Abul Ala' al-Hamadani.
-
 

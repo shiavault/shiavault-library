@@ -518,4 +518,3 @@ Muslim in different walks of life.
 
 [^2]: Nahjul Balagha, letter 53.
 
-

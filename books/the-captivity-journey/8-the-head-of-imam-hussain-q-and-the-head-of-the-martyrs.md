@@ -18,4 +18,3 @@ So they kept going until they reached Bin Ziad.
 Thus tribes like Kinda, Hawzan, Banu Tameem, and Banu Asad all competed
 to carry the martyrs’ heads.
 
-

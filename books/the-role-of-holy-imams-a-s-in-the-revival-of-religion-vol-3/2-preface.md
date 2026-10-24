@@ -26,11 +26,7 @@ on this earth all that is required by mankind.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعاً
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعاً
 
 ***“And He has made subservient to you whatsoever is in the heavens and
 whatsoever is in the earth “ (Quran, 45: 13)***
@@ -53,11 +49,7 @@ For this reason, Allah the Almighty guided man to the religion of “Islam
 “ through the Prophets (a.s.). On sending the last of His Prophets (S)
 He perfected Islam for man and said:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ...
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ...
 
 ***“This day have I perfected for you your religion “ (Quran, 5:3)***
 
@@ -124,12 +116,8 @@ In the Holy Quran and the prophetic traditions, the followers of this
 towards the truth. “ This name has appeared in the Holy Quran along with
 the word (Muslim) as follows:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ إِبْرَاهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا
-وَلَٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> مَا كَانَ إِبْرَاهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا
+> وَلَٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ
 
 ***“Ibrahim was not a Jew nor a Christian but he was a “Hanif “ (upright
 man), a Muslim, ” (Quran, 3:67)***
@@ -267,13 +255,9 @@ to them about the Holy Prophet’s mission.
 The Jews and the Christians were at loggerheads from times ancient.
 While accounting their sayings against each other, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ
-شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ
-يَتْلُونَ الْكِتَابَ..
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ
+> شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ
+> يَتْلُونَ الْكِتَابَ..
 
 ***“And the Jews say: The Christians do not follow anything (good) and
 the Christians say: The Jews do not follow anything (good). This is
@@ -292,12 +276,8 @@ Christians, had any clear belief about resurrection and the Day of
 Judgment. The Arab idol worshippers too, denied resurrection and the Day
 of Judgment. As per the Holy Quran, they would say:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ
-بِمَبْعُوثِينَ
-  </p>
-</blockquote>
+> إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ
+> بِمَبْعُوثِينَ
 
 ***“There is naught but our life in this world; we die and we live and
 we shall not be raised again“ (Qur'an, 23:/37)***
@@ -442,14 +422,10 @@ their trade caravan would move from Syria, Iran and Iraq towards Mecca
 and in summer, they would move from Mecca to Yemen and Ethiopia in
 Africa. In this regard, the Almighty God informs through the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ. لِإِيلَافِ قُرَيْشٍ
-إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ فَلْيَعْبُدُوا رَبَّ
-هَـٰذَا الْبَيْتِ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ
-خَوْفٍ 
-  </p>
-</blockquote>
+> بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ. لِإِيلَافِ قُرَيْشٍ
+> إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ فَلْيَعْبُدُوا رَبَّ
+> هَـٰذَا الْبَيْتِ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ
+> خَوْفٍ
 
 ***“For the protection of the Quraish, Their protection during their
 trading caravans in the winter and the suummer, So let them serve the
@@ -483,12 +459,8 @@ burden for the men and had no share in this entirely onerous life.
 Therefore, some of the fathers would bury their daughters alive. In this
 regard, the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ نَّحْنُ نَرْزُقُهُمْ
-وَإِيَّاكُمْ
-  </p>
-</blockquote>
+> وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ نَّحْنُ نَرْزُقُهُمْ
+> وَإِيَّاكُمْ
 
 ***"And do not slay your children for (fear of) poverty. We provide
 sustenance for you and (and so will We do) for them “ (Qu’an, 6:151)***
@@ -628,12 +600,8 @@ spiritual values to be untrue and worthless.
 
 They would say,
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا
-وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ 
-  </p>
-</blockquote>
+> وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا
+> وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ
 
 ***“There is nothing but our life in this world; we live and die and
 nothing destroys us but time “ (Qur'an, 45:24)***
@@ -782,11 +750,7 @@ and Ethiopia and consequently, their amassment of enormous wealth. For
 this reason, they were unparalleled during those days in the Arabian
 Peninsula. The following verse applied to them:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ لَيَطْغَىٰ  أَن رَّآهُ اسْتَغْنَىٰ
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ لَيَطْغَىٰ  أَن رَّآهُ اسْتَغْنَىٰ
 
 ***“Man most surely becomes inordinate, when he sees himself free from
 want”. (Qu’an, 96:6&7)***
@@ -899,12 +863,8 @@ However, none of these two bondmaids resorted to this wicked act and
 they complained to the Prophet (S). Thereupon, Allah the Almighty
 revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ
-تَحَصُّنًا لِّتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا
-  </p>
-</blockquote>
+> وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ
+> تَحَصُّنًا لِّتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا
 
 ***“Do not force your slave girls for prostitution to seek the life
 (wealth) of this world, if they want to protect their chastity…” [Qur’an
@@ -1110,5 +1070,4 @@ of the group of Thaqif to Medina.
 the battle of Uhud.
 
 [^26]: Seerah Ibn Hisham 2/234 and 147 and Uyoon al-Athar 1/197.
-
 

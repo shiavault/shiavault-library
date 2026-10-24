@@ -25,13 +25,9 @@ Ansar all of you who are injured should accompany me and those who have
 not received any injury should remain in Medina. The wounded were having
 their wounds dressed when this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَهِنُوا فِي ابْتِغَاءِ الْقَوْمِ ۖ إِنْ تَكُونُوا تَأْلَمُونَ
-فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ اللَّهِ
-مَا لَا يَرْجُونَ 
-  </p>
-</blockquote>
+> وَلَا تَهِنُوا فِي ابْتِغَاءِ الْقَوْمِ ۖ إِنْ تَكُونُوا تَأْلَمُونَ
+> فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ اللَّهِ
+> مَا لَا يَرْجُونَ
 
 ***“And be not weak hearted in pursuit of the enemy; if you suffer pain,
 then surely they (too) suffer pain as you suffer pain, and you hope from
@@ -78,36 +74,24 @@ has put his awe in the hearts of the infidels of Quraish and they have
 gone back to Mecca.” The Holy Prophet (S) returned to Medina on Friday
 and the Almighty Allah revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ اسْتَجَابُوا لِلَّهِ وَالرَّسُولِ مِنْ بَعْدِ مَا
-أَصَابَهُمُ الْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا
-أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> الَّذِينَ اسْتَجَابُوا لِلَّهِ وَالرَّسُولِ مِنْ بَعْدِ مَا
+> أَصَابَهُمُ الْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا
+> أَجْرٌ عَظِيمٌ
 
 ***“(As for) those who responded (at Uhud) to the call of Allah and the
 Apostle after the wound had befallen them, those among them who do good
 (to others) and guard (against evil) shall have a great reward.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ
-فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ
-وَنِعْمَ الْوَكِيلُ
-  </p>
-</blockquote>
+> الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ
+> فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ
+> وَنِعْمَ الْوَكِيلُ
 
 ***“Those to whom the people said: Surely men have gathered against you,
 therefore fear them, but this increased their faith, and they said:
 Allah is sufficient for us and most excellent is the Protector.”*** [^3]
 
-<blockquote dir="rtl">
-  <p>
-فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ لَمْ يَمْسَسْهُمْ سُوءٌ
-وَاتَّبَعُوا رِضْوَانَ اللَّهِ ۗ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
-  </p>
-</blockquote>
+> فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ لَمْ يَمْسَسْهُمْ سُوءٌ
+> وَاتَّبَعُوا رِضْوَانَ اللَّهِ ۗ وَاللَّهُ ذُو فَضْلٍ عَظِيمٍ
 
 ***“So they returned with favor from Allah and (His) grace, no evil
 touched them and they followed the pleasure of Allah; and Allah is the
@@ -181,13 +165,9 @@ at Humraul Asad. Imam Ali (a.s.) said: “May my parents be sacrificed on
 you, I am ready to fight first of all even though I need support to
 walk. The Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا
-وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا
-اسْتَكَانُوا ۗ وَاللَّهُ يُحِبُّ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا
+> وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا
+> اسْتَكَانُوا ۗ وَاللَّهُ يُحِبُّ الصَّابِرِينَ
 
 ***“And how many a prophet has fought with whom were many worshippers of
 the Lord; so they did not become weak-hearted on account of what befell
@@ -207,5 +187,4 @@ who was an adopted daughter of the Prophet, because she had exposed the
 hiding place of Muawiyah as will be explained in more detail later.
 
 [^6]: Surah Aale Imran 3:146
-
 

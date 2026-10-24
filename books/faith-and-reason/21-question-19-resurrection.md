@@ -321,4 +321,3 @@ eternal existence.
 
 [^9]: Hikmah al-Ishraq {Farsi Translation}, pp. 367-368
 
-

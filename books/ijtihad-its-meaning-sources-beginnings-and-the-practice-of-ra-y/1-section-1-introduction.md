@@ -189,4 +189,3 @@ al-­Khurasani, [^16] and others about this term, that the literal meaning
 of ijtihad is undergoing difficulty and hardship for accomplishing
 some­thing, appear to be incomplete and controvertible.
 
-

@@ -153,4 +153,3 @@ Yes, he replied. The earth, on which this garden is planted, must have
 also been created by Him who created the garden, plants, trees and
 animals.
 
-

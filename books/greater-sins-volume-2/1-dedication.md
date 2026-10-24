@@ -13,4 +13,3 @@ Dedication
 
 **May Allah hasten his Reappearance.**
 
-

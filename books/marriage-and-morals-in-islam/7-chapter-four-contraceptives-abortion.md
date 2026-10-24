@@ -612,4 +612,3 @@ the sperm occurs after its return from the fallopian tube.
 
 [^20]: Minhaj, vol. 2, p. 276.
 
-

@@ -47,17 +47,9 @@ ommayaids.
 Forty Traditions from Imam Ja’far Sadiq (as)
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثا عن
-  </p>
-</blockquote>
+> اربعون حديثا عن
 
-<blockquote dir="rtl">
-  <p>
-الامام جعفر الصادق عليه السلام
-  </p>
-</blockquote>
+> الامام جعفر الصادق عليه السلام
 
 1. However, the prohibited form of guardianship: So the ruler ship of
 the tyrant ruler & the ruler ship of his governors, their chief, the
@@ -727,5 +719,4 @@ cruel).
 offering it to offering it sluggishly, slackly, out of its time &
 developing indifferent & careless attitude towards it. And not showing
 promptness, vigil & suitable care in its performance.
-
 

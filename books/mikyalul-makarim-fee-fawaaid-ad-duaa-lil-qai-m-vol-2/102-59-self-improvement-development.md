@@ -19,4 +19,3 @@ previously explained.
 
 [^1]: Ghaibat Nomani, Pg. 106
 
-

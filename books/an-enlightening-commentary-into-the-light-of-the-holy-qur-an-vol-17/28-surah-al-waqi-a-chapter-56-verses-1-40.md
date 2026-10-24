@@ -10,11 +10,7 @@ Surah al-Waqi‘a, Chapter 56, Verses 1 - 40
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -52,25 +48,13 @@ intellection and acting upon Divine Injunctions.
 Surah al-Waqi‘a - Verses 1-2
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا وَقَعَتِ الْوَاقِعَةُ
-  </p>
-</blockquote>
+> إِذَا وَقَعَتِ الْوَاقِعَةُ
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ
-  </p>
-</blockquote>
+> لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ
 
 ***1. When the Great Event [Resurrection] befalls.***  
 ***2. There can be no denial of its befalling.***
@@ -116,17 +100,9 @@ for such hard Day.
 Surah al-Waqi‘a - Verses 3-4
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَافِضَةٌ رَّافِعَةٌ
-  </p>
-</blockquote>
+> خَافِضَةٌ رَّافِعَةٌ
 
-<blockquote dir="rtl">
-  <p>
-إِذَا رُجَّتِ الْأرْضُ رَجًّا
-  </p>
-</blockquote>
+> إِذَا رُجَّتِ الْأرْضُ رَجًّا
 
 ***3. That Event lowers and elevates the system of creation and makes it
 upside down thus lowers the evil and elevates the good.***  
@@ -172,17 +148,9 @@ is herein employed to connote inevitability.
 Surah al-Waqi‘a - Verses 5-6
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَبُسَّتِ الْجِبَالُ بَسًّا
-  </p>
-</blockquote>
+> وَبُسَّتِ الْجِبَالُ بَسًّا
 
-<blockquote dir="rtl">
-  <p>
-فَكَانَتْ هَبَاء مُّنبَثًّا
-  </p>
-</blockquote>
+> فَكَانَتْ هَبَاء مُّنبَثًّا
 
 ***5. And the mountains shall be powdered to dust.***  
 ***6. Therefore, they shall become scattering dust particles.***
@@ -233,23 +201,11 @@ entanglement in torment on such Day.
 Surah al-Waqi‘a - Verses 7-9
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكُنتُمْ أزْوَاجًا ثَلَآثَةً
-  </p>
-</blockquote>
+> وَكُنتُمْ أزْوَاجًا ثَلَآثَةً
 
-<blockquote dir="rtl">
-  <p>
-فَأصْحَابُ الْمَيْمَنَةِ مَا أصْحَابُ الْمَيْمَنَةِ
-  </p>
-</blockquote>
+> فَأصْحَابُ الْمَيْمَنَةِ مَا أصْحَابُ الْمَيْمَنَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَأصْحَابُ الْمَشْأمَةِ مَا أصْحَابُ الْمَشْأمَةِ
-  </p>
-</blockquote>
+> وَأصْحَابُ الْمَشْأمَةِ مَا أصْحَابُ الْمَشْأمَةِ
 
 ***7. And you shall be in three groups on that Day.***  
 ***8. Therefore, people on the Right Hand are as if they are
@@ -299,35 +255,15 @@ reflects their utmost misery and unhappiness.
 Surah al-Waqi‘a - Verses 10-14
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ السَّابِقُونَ
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ السَّابِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الْمُقَرَّبُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ الْمُقَرَّبُونَ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> فِي جَنَّاتِ النَّعِيمِ
 
-<blockquote dir="rtl">
-  <p>
-ثُلَّةٌ مِّنَ الْأوَّلِينَ
-  </p>
-</blockquote>
+> ثُلَّةٌ مِّنَ الْأوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَلِيلٌ مِّنَ الْآخِرِينَ
-  </p>
-</blockquote>
+> وَقَلِيلٌ مِّنَ الْآخِرِينَ
 
 ***10. And those foremost in doing righteous good deeds shall be
 foremost in receiving Rewards.***  
@@ -438,17 +374,9 @@ are accordingly the nearest to Divine Threshold.
 Surah al-Waqi‘a - Verses 15-16
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَلَی سُرُرٍ مَّوْضُونَةٍ
-  </p>
-</blockquote>
+> عَلَی سُرُرٍ مَّوْضُونَةٍ
 
-<blockquote dir="rtl">
-  <p>
-مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ
-  </p>
-</blockquote>
+> مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ
 
 ***15. On thrones laid side by side adorned with precious stones.***  
 ***16. Reclining thereon, face to face.***
@@ -474,23 +402,11 @@ fabric adorned with pearls and rubies.
 Surah al-Waqi‘a - Verses 17-19
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ
-  </p>
-</blockquote>
+> يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ
 
-<blockquote dir="rtl">
-  <p>
-بِأكْوَابٍ وَأبَارِيقَ وَكَأسٍ مِّن مَّعِينٍ
-  </p>
-</blockquote>
+> بِأكْوَابٍ وَأبَارِيقَ وَكَأسٍ مِّن مَّعِينٍ
 
-<blockquote dir="rtl">
-  <p>
-لَآ يُصَدَّعُونَ عَنْهَا وَلَآ يُنزِفُونَ
-  </p>
-</blockquote>
+> لَآ يُصَدَّعُونَ عَنْهَا وَلَآ يُنزِفُونَ
 
 ***17. Immortal youths shall go around them in glory and freshness,***  
 ***18. With cups, jugs, and a glass of flowing springs of Paradise [or
@@ -523,17 +439,9 @@ extraction of water from a well but it ad hoc connotes "driving mad."
 Surah al-Waqi‘a - Verses 20-21
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُونَ
-  </p>
-</blockquote>
+> وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ
 
 ***20. And with fruit that they may choose.***  
 ***21. And with the flesh of fowls that they desire.***
@@ -548,23 +456,11 @@ and consumption of fruit before meal is far better.
 Surah al-Waqi‘a - Verses 22-24
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَحُورٌ عِينٌ
-  </p>
-</blockquote>
+> وَحُورٌ عِينٌ
 
-<blockquote dir="rtl">
-  <p>
-كَأمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ
-  </p>
-</blockquote>
+> كَأمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ
 
-<blockquote dir="rtl">
-  <p>
-جَزَاء بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> جَزَاء بِمَا كَانُوا يَعْمَلُونَ
 
 ***22. And fair females with wide, lovely eyes,***  
 ***23. Like pearls in shells.***  
@@ -598,17 +494,9 @@ of righteous good deeds.
 Surah al-Waqi‘a - Verses 25-26
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَآ يَسْمَعُونَ فِيهَا لَغْوًا وَلَآ تَأثِيمًا
-  </p>
-</blockquote>
+> لَآ يَسْمَعُونَ فِيهَا لَغْوًا وَلَآ تَأثِيمًا
 
-<blockquote dir="rtl">
-  <p>
-إِلاّ قِيلًا سَلَآمًا سَلَآمًا
-  </p>
-</blockquote>
+> إِلاّ قِيلًا سَلَآمًا سَلَآمًا
 
 ***25. No vain talk shall they hear therein, nor any sinful speech.***  
 ***26. But only the saying of peace, peace!***
@@ -636,23 +524,11 @@ do,")***[^9]***.***
 Surah al-Waqi‘a - Verses 27-29
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأصْحَابُ الْيَمِينِ مَا أصْحَابُ الْيَمِينِ
-  </p>
-</blockquote>
+> وَأصْحَابُ الْيَمِينِ مَا أصْحَابُ الْيَمِينِ
 
-<blockquote dir="rtl">
-  <p>
-فِي سِدْرٍ مَّخْضُودٍ
-  </p>
-</blockquote>
+> فِي سِدْرٍ مَّخْضُودٍ
 
-<blockquote dir="rtl">
-  <p>
-وَطَلْحٍ مَّنضُودٍ
-  </p>
-</blockquote>
+> وَطَلْحٍ مَّنضُودٍ
 
 ***27. And those on the Right Hand, how [fortunate] shall be those on
 the Right Hand!***  
@@ -690,29 +566,13 @@ denotes "dense."
 Surah al-Waqi‘a - Verses 30-33
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَظِلٍّ مَّمْدُودٍ
-  </p>
-</blockquote>
+> وَظِلٍّ مَّمْدُودٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَاء مَّسْكُوبٍ
-  </p>
-</blockquote>
+> وَمَاء مَّسْكُوبٍ
 
-<blockquote dir="rtl">
-  <p>
-وَفَاكِهَةٍ كَثِيرَةٍ
-  </p>
-</blockquote>
+> وَفَاكِهَةٍ كَثِيرَةٍ
 
-<blockquote dir="rtl">
-  <p>
-لَآ مَقْطُوعَةٍ وَلَآ مَمْنُوعَةٍ
-  </p>
-</blockquote>
+> لَآ مَقْطُوعَةٍ وَلَآ مَمْنُوعَةٍ
 
 ***30. And in shade long extended,***  
 ***31. And by waterfalls,***  
@@ -751,29 +611,13 @@ possess general availability.
 Surah al-Waqi‘a - Verses 34-37
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفُرُشٍ مَّرْفُوعَةٍ
-  </p>
-</blockquote>
+> وَفُرُشٍ مَّرْفُوعَةٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أنشَأنَاهُنَّ إِنشَاء
-  </p>
-</blockquote>
+> إِنَّا أنشَأنَاهُنَّ إِنشَاء
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلْنَاهُنَّ أبْكَارًا
-  </p>
-</blockquote>
+> فَجَعَلْنَاهُنَّ أبْكَارًا
 
-<blockquote dir="rtl">
-  <p>
-عُرُبًا أتْرَابًا
-  </p>
-</blockquote>
+> عُرُبًا أتْرَابًا
 
 ***34. And endeared women.***  
 ***35. Indeed, We created them of a novel creation.***  
@@ -808,23 +652,11 @@ very beautiful hair.
 Surah al-Waqi‘a - Verses 38-40
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لأِصْحَابِ الْيَمِينِ
-  </p>
-</blockquote>
+> لأِصْحَابِ الْيَمِينِ
 
-<blockquote dir="rtl">
-  <p>
-ثُلَّةٌ مِّنَ الْأوَّلِينَ
-  </p>
-</blockquote>
+> ثُلَّةٌ مِّنَ الْأوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَثُلَّةٌ مِّنَ الْآخِرِينَ
-  </p>
-</blockquote>
+> وَثُلَّةٌ مِّنَ الْآخِرِينَ
 
 ***38. All these are for the people on the Right Hand.***  
 ***39. A multitude of those [on the Right Hand] shall be from former
@@ -893,5 +725,4 @@ al-Bayan and other exegetic works.
 in question.
 
 [^11]: Rawdha al-Kafi; Tafsir Nur al-Thiqalayn, vol. 5, p. 216.
-
 

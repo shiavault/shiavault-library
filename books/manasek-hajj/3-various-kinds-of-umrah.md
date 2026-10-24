@@ -311,4 +311,3 @@ he must perform the tawaaf and recite the prayers after it, perform the
 Saee and shave or do taqseer with the intention of acceptance as
 Hajj-ul-Ifraad or Umrat-ul-Mufradah.
 
-

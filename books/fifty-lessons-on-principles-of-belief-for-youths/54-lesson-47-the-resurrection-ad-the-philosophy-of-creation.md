@@ -150,4 +150,3 @@ us what?
  5. What reasoning does the Holy Qur’an give for the creation of this
 world for the existence of the hereafter?
 
-

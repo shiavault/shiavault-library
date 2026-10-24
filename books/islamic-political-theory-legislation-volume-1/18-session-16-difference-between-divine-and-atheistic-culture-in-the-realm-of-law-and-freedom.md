@@ -326,11 +326,7 @@ and act against justice; of course, the two (rightfulness and justice)
 are interrelated, for if we take rightfulness in its general sense,
 justice will also be included:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعَدَالَةُ إِعْطاءُ كُلِّ ذي حَقٍّ حَقَّهُ.
-  </p>
-</blockquote>
+> اَلْعَدَالَةُ إِعْطاءُ كُلِّ ذي حَقٍّ حَقَّهُ.
 
 *“Justice means to give to all the rightful owners (claimants) their
 rights.”*  
@@ -444,11 +440,7 @@ law or Western law. Of course, in these two options there are
 intermixtures and intersections as stated earlier. The Commander of the
 Faithful (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-يُؤْخَذُ مِنْ هذا ضِغْثُ وَ مِنْ هذا ضِغْثُ فَيُمْزَجَانِ
-  </p>
-</blockquote>
+> يُؤْخَذُ مِنْ هذا ضِغْثُ وَ مِنْ هذا ضِغْثُ فَيُمْزَجَانِ
 
 *“Something is taken from here and something from there and the two are
 mixed!”*[^1]
@@ -457,14 +449,10 @@ Taking something from Islamic culture and something from Western culture
 constitutes the asymmetrical combination. Certainly, Islam does not
 accept such an approach, and in reproaching it the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَكْفُرُونَ بِاللّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن
-يُفَرِّقُوا بَيْنَ اللّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَلِكَ
-سَبِيلاً ٭ أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا…﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَكْفُرُونَ بِاللّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن
+> يُفَرِّقُوا بَيْنَ اللّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَلِكَ
+> سَبِيلاً ٭ أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا…﴾
 
 ***“Those who disbelieve in Allah and His apostles and seek to separate
 Allah from His apostles, and say, ‘We believe in some and disbelieve in
@@ -534,5 +522,4 @@ alarm signal to warn his fellowmen.
 scholar of unusual attainment, but was later applied to lesser-ranking
 scholars, and then acquired a pejorative connotation, particularly in
 secularist usage.
-
 

@@ -146,4 +146,3 @@ along with his commitment to the truth of Christian revelation, leads
 him to critically appraise Jewish and Muslim philosophy as a conceptual
 resource for acceptance, rejection, appropriation and transformation.
 
-

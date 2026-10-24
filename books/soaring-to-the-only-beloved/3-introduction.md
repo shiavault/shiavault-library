@@ -1,12 +1,8 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ
-حَنِيفاً وَمَا أَنَا مِنَ المُشْرِكِينَ
-  </p>
-</blockquote>
+> إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ
+> حَنِيفاً وَمَا أَنَا مِنَ المُشْرِكِينَ
 
 ***Surely I have turned my face to Him***
 
@@ -58,5 +54,4 @@ Sections Covered
 6. The effect of maintaining one's attention in prayer.
 
 [^1]: Holy Qur'an, 6:79
-
 

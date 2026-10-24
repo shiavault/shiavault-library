@@ -205,11 +205,7 @@ who apparently was the wife of the man in whose house \`Uthmān Ibn
 Ma\`zūn was staying and whose guest he was, addressed his bier in the
 presence of the Prophet Muhammad (S) and said:
 
-<blockquote dir="rtl">
-  <p>
-هَنِيئاً لَكَ الْجَنَّةُ
-  </p>
-</blockquote>
+> هَنِيئاً لَكَ الْجَنَّةُ
 
 *“May Heaven be pleasant for you!”*
 
@@ -226,23 +222,15 @@ The woman replied, “O Messenger of God, he was your companion and a
 brave warrior!” The Noble Messenger (S) answered her with interesting
 words that are worthy of attention, he said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي رَسُولُ اللٌّهِ وَمَا أَدْرِي مَا يُفْعَلُ بِــي
-  </p>
-</blockquote>
+> إِنِّي رَسُولُ اللٌّهِ وَمَا أَدْرِي مَا يُفْعَلُ بِــي
 
 *“I am the Messenger of God, yet I don’t know what will be done with
 me.*”[^1]
 
 This sentence is the exact purport of a verse of the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مٌـا كُنْتُ بِدْعاً مِّنَ الرُّسُلِ وَ مٌا أَدْرِي مٌا يُفْعَلُ
-بِي وَ لاٌ بِكُمْ
-  </p>
-</blockquote>
+> قُلْ مٌـا كُنْتُ بِدْعاً مِّنَ الرُّسُلِ وَ مٌا أَدْرِي مٌا يُفْعَلُ
+> بِي وَ لاٌ بِكُمْ
 
 ***“Say, ‘I am not a novelty among the apostles, nor do I know what will
 be done with me, or with you*****.**”[^2] [^3]
@@ -345,11 +333,7 @@ to necessarily follow a particular religion.”
 However, we consider this idea void. It is true that there is no
 compulsion in religion:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ إِكْرٌاهَ فِي الدِّينِ
-  </p>
-</blockquote>
+> لاٌ إِكْرٌاهَ فِي الدِّينِ
 
 ***“There is no compulsion in religion.***”[^6]
 
@@ -368,12 +352,8 @@ must seek guidance from the precepts of the religion he brought.
 
 The Noble Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَبْتَغِ غَيْرَ الإِسْلاٌمَ دِيناً فَلَنْ يُقْبَلَ مِنْهُ وَ
-هُوَ فِي الأَخِرَةِ مِنَ الْخٌاسِرِينَ
-  </p>
-</blockquote>
+> وَ مَنْ يَبْتَغِ غَيْرَ الإِسْلاٌمَ دِيناً فَلَنْ يُقْبَلَ مِنْهُ وَ
+> هُوَ فِي الأَخِرَةِ مِنَ الْخٌاسِرِينَ
 
 ***“And whoever desires a religion other than Islām, it shall never be
 accepted from him, and in the hereafter he shall be among the
@@ -442,5 +422,4 @@ place.”
 [^6]: Al-Qur'ān, Sūratul Baqarah (2), Verse 256
 
 [^7]: Al-Qur'ān, Sūrat Āli Imrān (3), Verse 85
-
 

@@ -4,23 +4,11 @@ Section 4: Allah’s Blessings on Moses
 Surah As-Saffat – Verses 114-116
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ مَنَنَّا عَلَي مُوسَي وَهَارُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ مَنَنَّا عَلَي مُوسَي وَهَارُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ
-  </p>
-</blockquote>
+> وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ
-  </p>
-</blockquote>
+> وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ
 
 ***114. “We bestowed Our favour on Moses and Aaron.”***  
 ***115. “And We delivered them both and their people from the great
@@ -87,23 +75,11 @@ the Pharaohs’ castles, wealth, gardens, and properties to them.
 Surah As-Saffat – Verses 117-119
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَاتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ
-  </p>
-</blockquote>
+> وَءَاتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَهَدَيْنَاهُمَا الصّـِرَاطَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> وَهَدَيْنَاهُمَا الصّـِرَاطَ الْمُسْتَقِيمَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا عَلَيْهِمَا فِي الأَخِرِينَ
-  </p>
-</blockquote>
+> وَتَرَكْنَا عَلَيْهِمَا فِي الأَخِرِينَ
 
 ***117. “And We gave them both the Book making things clear.”***  
 ***118. “And We guided them both on the right way.”***  
@@ -161,23 +137,11 @@ to the whole world of humanity.
 Surah As-Saffat – Verses 120-122
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ عَلَي مُوسَي وَهَارُونَ
-  </p>
-</blockquote>
+> سَلاَمٌ عَلَي مُوسَي وَهَارُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّا كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ
 
 ***120. “Peace be on Moses and Aaron.”***  
 ***121. “Verily thus do We reward the doers of good.”***  
@@ -220,23 +184,11 @@ down to him.
 Surah As-Saffat – Verses 123-125
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لِقَوْمِهِ أَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لِقَوْمِهِ أَلاَ تَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَتَدْعُونَ بَعْلاً وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ
-  </p>
-</blockquote>
+> أَتَدْعُونَ بَعْلاً وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ
 
 ***123. “And verily Elyas was of the apostles.”***  
 ***124. “When he said to his people: ‘Will you not be in owe (of
@@ -300,29 +252,13 @@ they drew nigh to God called Ba‘l.”*
 Surah As-Saffat – Verses 126-129
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمْ الأَوَّلِينَ
-  </p>
-</blockquote>
+> اللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمْ الأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَإِنَّهُمْ لَمُـحْضَرُونَ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَإِنَّهُمْ لَمُـحْضَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا عَلَيْهِ فِي الأَخِرِينَ
-  </p>
-</blockquote>
+> وَتَرَكْنَا عَلَيْهِ فِي الأَخِرِينَ
 
 ***126. “Allah is your Lord and the Lord of fathers of old.”***  
 ***127. “But they belied him, therefore they shall certainly be brought
@@ -389,23 +325,11 @@ as long as the world exists.
 Surah As-Saffat – Verses 130-132
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ عَلَي إِلْ يَاسِينَ
-  </p>
-</blockquote>
+> سَلاَمٌ عَلَي إِلْ يَاسِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّا كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
 
 ***130. “Peace be on ’Ilyasin (Elyas).”***  
 ***131. “Verily thus do We reward the doers of good.”***  
@@ -443,29 +367,13 @@ the greeting of Allah.
 Surah As-Saffat – Verses 133-136
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لُوطاً لَّمِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَإِنَّ لُوطاً لَّمِنَ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ
-  </p>
-</blockquote>
+> إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عَجُوزاً فِي الْغَابِرِينَ
-  </p>
-</blockquote>
+> إِلاَّ عَجُوزاً فِي الْغَابِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَمَّرْنَا الأَخَرِينَ
-  </p>
-</blockquote>
+> ثُمَّ دَمَّرْنَا الأَخَرِينَ
 
 ***133. “And verily Lot was (one) of the Envoys.”***  
 ***134. “When We delivered him and his people all.”***  
@@ -528,17 +436,9 @@ bodies were effaced.
 Surah As-Saffat – Verses 137-138
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكُمْ لَتَـمُرُّونَ عَلَيْهِم مُّصْبِحِينَ
-  </p>
-</blockquote>
+> وَإِنَّكُمْ لَتَـمُرُّونَ عَلَيْهِم مُّصْبِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَبِالَّيْلِ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَبِالَّيْلِ أَفَلاَ تَعْقِلُونَ
 
 ***137. “And verily you pass by them in the morning.”***  
 ***138. “And at night; do you not then understand?”***
@@ -588,5 +488,4 @@ Qur’an reiterates the news which Allah has stated for you.”*[^3]
 [^2]: Nahjul-Balaqah, saying No. 297
 
 [^3]: Nur-uth-Thaqalayn, Vol. 4, P. 432
-
 

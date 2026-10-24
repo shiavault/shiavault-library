@@ -29,4 +29,3 @@ and **أهیَفُ** **القَد** (a slender physique).
 112. The adjective is formed from non-triliteral verbs by using the
 active participle form.
 
-

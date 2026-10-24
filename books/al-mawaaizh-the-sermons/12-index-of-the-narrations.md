@@ -683,4 +683,3 @@ You will not cover people with your fortunes; thus… The Prophet 144
 
 Youth is a branch of insanity… The Prophet 108
 
-

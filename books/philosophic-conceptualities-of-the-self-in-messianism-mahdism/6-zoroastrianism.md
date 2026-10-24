@@ -199,4 +199,3 @@ economic problems. Imam Mahdi, the awaited saviour, will make the world
 a just and ideal system. He will conquer hearts of man and will form
 Dar-ul-Islam.
 
-

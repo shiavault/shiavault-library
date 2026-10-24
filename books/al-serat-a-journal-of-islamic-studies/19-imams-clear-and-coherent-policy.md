@@ -223,4 +223,3 @@ establishment of a society free from complexity and corruption, in which
 the faithful can be sincerely loyal to the commands of the Imam of the
 Age.
 
-

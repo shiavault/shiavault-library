@@ -295,4 +295,3 @@ Al-dor Al-Manthoor, vol. 2 p. 140-141 following the verse of Muta.
 
 Wasa'il Al-Shia vol. 14, Kitab Al-Nikah, bab Al-Muta, 1st bab, p. 436
 
-

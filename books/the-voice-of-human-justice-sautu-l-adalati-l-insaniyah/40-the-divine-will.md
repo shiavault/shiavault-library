@@ -163,4 +163,3 @@ his sword at his head, but the sword actually struck his buttocks and
 the attack proved to be abortive. Mu\`awiya's buttocks served as his
 shield and his life was saved.
 
-

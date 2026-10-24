@@ -790,4 +790,3 @@ brain. Many of the kind of things which are published in the name of the
 dagger into the back of the Ahl al-Bayt of the Prophet (S), are no more
 than the remnants of the thought of Mulla Muhammad Amin Astarabadi.
 
-

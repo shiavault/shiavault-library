@@ -86,4 +86,3 @@ too late.
 "The best struggle for the man is to fight against his own self and his
 ill-desire." Prophet Muhammad (s)
 
-

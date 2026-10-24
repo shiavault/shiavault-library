@@ -47,11 +47,7 @@ meditate related issues.
 
 In surah Maidah we read:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ ﴾
 
 ***“This day I have perfected for you your religion***[^1]***“***
 
@@ -195,11 +191,7 @@ had been on the verge of death because of her thirst, she had accepted
 such an abominable act. At this time, Imam Ali (as) quoted this Quranic
 text:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَمَنِ اضْطُرَّ غَيْرَ باغٍ وَ لا عادٍ فَلا إِثْمَ عَلَيْهِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَمَنِ اضْطُرَّ غَيْرَ باغٍ وَ لا عادٍ فَلا إِثْمَ عَلَيْهِ ﴾
 
 “A person who commits something, not for sin or aggression but because
 of emergency, is innocent” [^2]
@@ -222,5 +214,4 @@ Allamah Amini, in the sixth, seventh and eighth chapters of his precious
 book, Al-Ghadir, has revealed the status of the Caliphs' knowledge
 through various documents. The interested readers could refer to that
 book.
-
 

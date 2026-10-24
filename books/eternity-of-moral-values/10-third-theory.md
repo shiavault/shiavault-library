@@ -108,4 +108,3 @@ Though I agree with the view that all perceptions of good and evil
 signify a thing's relation with its perfection, nevertheless such
 perceptions of good and evil can be universal and permanent.
 
-

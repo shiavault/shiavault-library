@@ -20,11 +20,7 @@ It is probably for this reason that whereas auguring good has not been
 prohibited in the Islamic sources, auguring evil has been intensely
 criticised. A well-known tradition of the Noble Prophet (S) states:
 
-<blockquote dir="rtl">
-  <p>
-تَفَاءَألُوْا بِالْخَيْرِ تَجِدُوْهُ.
-  </p>
-</blockquote>
+> تَفَاءَألُوْا بِالْخَيْرِ تَجِدُوْهُ.
 
 “Regard things as being good omens (and be hopeful) in order that you
 achieve it.”
@@ -37,11 +33,7 @@ Suhail ibne 'Amr, in his capacity as the representative of the
 disbelievers of Mecca, desired to meet the Noble Prophet (S) and he was
 informed of his name, he said (to his companions):
 
-<blockquote dir="rtl">
-  <p>
-قَدَ سَهَّلَ عَلَيْكُمْ أَمْرَكُمْ.
-  </p>
-</blockquote>
+> قَدَ سَهَّلَ عَلَيْكُمْ أَمْرَكُمْ.
 
 “(I interpret the name Suhail to be a good omen and that) this meeting
 shall go easy upon you.”[^1]
@@ -58,11 +50,7 @@ As far as the evil omen, which the Arabs refer to as 'tatayyur' and
 the Qur’an too has repeatedly censured it.[^3] In a tradition we read
 that the Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اأَلطِّطَّيْرَةُ شِرْکٌ.
-  </p>
-</blockquote>
+> اأَلطِّطَّيْرَةُ شِرْکٌ.
 
 “Auguring evil (and considering the evil omen to have an influence upon
 the life of man) is a kind of polytheism (shirk).”[^4]
@@ -114,5 +102,4 @@ discussion.
 [^5]: Ibid.
 
 [^6]: Tafsir-e-Namuna, vol. 6, pg. 317
-
 

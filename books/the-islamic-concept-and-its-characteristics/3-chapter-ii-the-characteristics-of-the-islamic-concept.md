@@ -140,4 +140,3 @@ consideration, for this is where the ways separate.
 We shall now take a detailed look at this basic characteristic of the
 Islamic concept and at all other characteristics that proceed from it.
 
-

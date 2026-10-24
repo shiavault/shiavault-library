@@ -161,7 +161,6 @@ constitution between the two is a natural union, and a natural union in
 itself is not possible between two matters that is, one in actuality and
 the other in potency!"
 
-
 **Question 11 : What do you mean by your belief in intercession?**
 
 **ANSWER:**
@@ -243,7 +242,6 @@ Masnad ahmad, vol.1 p.301, sahih Bukhari, vol.1 p.91 print in Egypt.
 Sunnan Ibn Majah, vol.2 p.583, sunnan Abi-Dawud, vol.2, p.537; Sunnan
 Al-Tirmidhi, vol.4 p.45.
 
-
 **Question 12 : Is the asking of intercession from those worthy to
 intercede, considered as polytheism?**
 
@@ -256,7 +254,6 @@ Therefore, asking intercession from other than God, is asking God's
 absolute right from his slave, and such a request in reality, is
 worshipping other than God and is in disagreement with monotheism in
 worship.
-
 
 **ANSWER:**
 
@@ -381,7 +378,6 @@ Sunnan Ibn Majah, vol.2 chapt, Dhikr Al-Shafa'ah, p.586
 
 (Yusuf: 98)
 
-
 **Question 13 : Is the asking help from other than God, regarded as
 Polytheism?**
 
@@ -468,5 +464,4 @@ in disagreement with restricting aid to God in the verse,
 (Fateha :5)
 (Ahzab :17)
 (Baqarah :45)
-
 

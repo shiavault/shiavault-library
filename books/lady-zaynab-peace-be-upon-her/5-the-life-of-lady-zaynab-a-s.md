@@ -157,9 +157,7 @@ highly delighted as they saw their two sons before them and as they saw
 the Prophet’s love for them. Once, he (s.a.w.a.) expressed his love for
 these two sons by saying:
 
-<p dir="rtl">
 هٰذَانِ رَيْحَانَتَايَ مِنَ الدُّنْيَا
-</p>
 
 *“These two are my only basils that I take from this world.”[^41]*
 
@@ -435,12 +433,10 @@ kissed and embraced her.[^59]
 
 She also used to say:
 
-<p dir="rtl">
 مَنْ اَرَادَ اَنْ لَا يَكُوْنَ الْخَلْقُ شُفَعَائَهٗ اِلَي اللهِ
 فَلْيَحْمِدُه ٗ . اَلَمْ تَسْمَعْ اِلٰي قَوْلِه: سَمِعَ اللهُ لِمَنْ
 حَمِدَه ٗ . فَخَفِ اللهَ لِقُدْرَتِه عَلَيْكَ، وَ اسْتَحِ مِنْهُ
 لَقُرْبِه مِنْكَ.
-</p>
 
 *“Anyone who intends not to have the creatures as interceders for him
 before Allah (s.w.t.) should praise Him. Listen to His saying:**‘Allah
@@ -469,9 +465,7 @@ her for answers of questions that he ignored. He also reported proudly,
 a good number of narrations on her authority. In this regard he would
 say:
 
-<p dir="rtl">
 حَدَّثَنَا عَقِيْلَتَنَا زَيْنَبُ بِنْتُ عَلِيٍّ.
-</p>
 
 “Our A’qeelah[^63] (i.e. the Honorable gentlewoman), Zaynab (a.s.)
 daughter of Ali (a.s.) narrated to us that... etc.”
@@ -483,9 +477,7 @@ Masjid.
 She also represented Imam Zayn al-Abideen (a.s.) during his illness.
 About her, he (a.s.) said:
 
-<p dir="rtl">
 اِنَّهَا عَالِمَةٌ غَيْرُ مُعَلَّمَةٍ.
-</p>
 
 *“She is so knowledgeable that she does not need other’s
 knowledge.”[^64]*
@@ -504,10 +496,8 @@ commandments and instructions. To be God-fearing and pious achieves
 knowledgeability and notable learning. This is clear in Almighty Allah’s
 saying:
 
-<p dir="rtl">
 وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُـلِّ شَيْءٍ
 عَلِيْمٌ
-</p>
 
 ***“And be careful of (your duty) to Allah, Allah teaches you and Allah
 knows all things.”[^65]***
@@ -518,14 +508,12 @@ and glorifying Him. At nights when sounds calm and eyes sleep, she used
 to turn her face and heart towards her Lord with teary eyes, fearful
 heart, and hopeful mind to say confidently:
 
-<p dir="rtl">
 يَا مَنْ لَبِسَ الْعِزَّ وَ تَرَدّٰي بِهوَ تَعَطَّفَ بِالْمَجْدِ وَ
 تَحَلّٰي بِه، اَسْئَلُكَ بِمَعَاقِدِ الْعِزِّ مِنْ عَرْشِكَ وَ مُنْتَهَي
 الرَّحْمَةِ مِنْ كِتَابِكَ وَ بِاسْمِكَ الْاَعْظَمِ وَ جَدِّكَ
 الْاَعْلٰي وَ كَلِمَاتِكَ التَّامَّاتِ الَّتِيْ تَمَّتْ صِدْقًا وَ
 عَدْلًا اَنْ تُصَلِّيَ عَلٰي مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الطَّيِّبِيْنَ
 الطَّاهِرِيْنَ وَ اَنْ تَجْمَعَ لِيْ خَيْرَ الدُّنْيَا وَ الْآخِرَةِ.
-</p>
 
 *O You Who dresses and adorns Himself with valor! O You Who deigns and
 dons Himself with glory! I implore to you by the seats of might in Your
@@ -545,13 +533,11 @@ daughter of the model parents of Islam and the sister of the two Chiefs
 of the Youths of Paradise. In her grandfather, Lady Zaynab (a.s.) takes
 pride saying:
 
-<p dir="rtl">
 وَ مَنْ كَجَدِّيْ النَّبِيَّ الْعَرَبِيِّ الْهَاشِمِيِّ الْقِرَشِيِّ
 الَّذِيْ اصْطَفَاهُ اللهُ تَعَالٰي وَ اخْتَارَهٗ لِيُبَيِّنَ لِلنَّاسِ
 طَرِيْقَ الْحَيَاةِ مِنْ خَيْرٍ وَ شَرٍّ فِيْ اَسْلُوْبِهِ الْعَذِبِ
 الْجَمِيْلِ وَ عِبَارَتِهِ الطَّلِيَّةِ الْمُمْتِعَة الَّتِيْ تَفِيْضُ
 رِقَّةً وَ حَنَانًا وَ ع َطِفًا وَ اِشْفَاقًا.
-</p>
 
 *“None is like my grandfather; the Arab, the Hashemite, and the
 Qurayshite Prophet whom is selected by Allah (s.w.t.), the Elevated, for
@@ -650,10 +636,8 @@ incumbent upon our husbands in the same way as he has decided rights for
 our husbands that are incumbent upon us.” In this regard, the Holy
 Qur’an says:*
 
-<p dir="rtl">
 وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ ۚ وَلِلرِّجَالِ
 عَلَيْهِنَّ دَرَجَةٌ
-</p>
 
 ***And they have rights similar to those against them in a just manner,
 and the men are a degree above them[^69] .***
@@ -680,9 +664,7 @@ Abbas said:
 
 Once, Lady Zaynab (a.s.) recited Allah’s saying:
 
-<p dir="rtl">
 يَا أَيُّهَا الْمُزَّمِّلُ... وَطَائِفَةٌ مِنَ الَّذِينَمَعَكَ
-</p>
 
 ***O you who have wrapped up in your garments... and (also) a party of
 those with you.***
@@ -900,9 +882,7 @@ distinctively. Lady Zaynab (a.s.), for instance, stopped at the severed
 body of her brother Imam al-Husain (a.s.), and expressed her firm faith
 by saying:
 
-<p dir="rtl">
 اَللّٰهُمَّ تَقَبَّلْ مِنَّا هٰذَا الْقُرْبَانَ
-</p>
 
 *“O Allah! accept this offering from us.”*
 
@@ -954,11 +934,9 @@ an unshakable mountain. She faced all these with the weapon of
 steadfastness and resisted all the events with conviction. Thus, she is
 intended in Almighty Allah’s saying:
 
-<p dir="rtl">
 وَبَشِّرِ الصَّابِرِيْنَ. الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيْبَةٌ
 قَالُوْا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ. أُولٰۤئِكَ
 عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ ۖ
-</p>
 
 ***And give good news to the patient who, when a misfortune befalls
 them, says: Surely we are Allah’s and to Him we shall surely return.
@@ -986,9 +964,7 @@ Kufa, and the women there knew that the captives had been the Prophet’s
 family, they hurried to serve some food for the children. Preventing
 this thing Lady Zaynab (a.s.) spoke to the ladies of Kufa:
 
-<p dir="rtl">
 اَلصَّدَقَةُ مُحَرَّمَةٌ عَلَيْنَا اَهْلَ الْبَيْتِ.
-</p>
 
 *“It is forbidden for us, the Ahl al-Bayt (a.s.), to have from alms.”*
 
@@ -1039,11 +1015,9 @@ showed his gloating over her misfortunes by saying, “Thanks to Allah
 
 As a reply, she said courageously:
 
-<p dir="rtl">
 اَلْحَمْدُ لِلَّهِ الَّذِي أَكْرَمَنَا بِنَبِيِّه، وَ طَهَّرَنَا مِنَ
 الرِّجْسِ تَطْهِيرًا. إِنَّمَا يَفْتَضَحُ الْفَاسِقُ وَ يُكَذِّبُ
 الْفَاجِرُ، وَ هُوَ غَيْرُنَا، وَ هُوَ غَيْرُنَا يَا بْنَ مَرْجَانَةَ...
-</p>
 
 *Thanks to Allah (s.w.t.) Who honored us with His Prophet and purified
 us from uncleanness thoroughly. It is only the lewd whom is unmasked,
@@ -1067,12 +1041,10 @@ you see that which Allah (s.w.t.) has done to your brother?”
 Bravely and steadfastly Lady Zaynab (a.s.) answered with words of
 triumph:
 
-<p dir="rtl">
 مَا رَأَيْتُ إِلَّا جَمِيْلًا- هٰؤُلَاءِ قَوْمٌ كَتَبَ اللَّهُ
 عَلَيْهِمُ الْقَتْلَ فَبَـرَزُوْا إِلٰى مَضَاجِعِهِمْ- وَ سَيَجْمَعُ
 اللَّهُ بَيْنَكَ وَ بَيْنَهُمْ فَتُحَاجَّ وَ تُخَاصَمُ- فَانْظُرْ لِمَنِ
 الْفَلَجُ يَوْمَئِذٍ. ثَكَـلَتْكَ أُمُّكَ يَا ابْنَ مَرْجَانَةَ.
-</p>
 
 *It was nothing but good. Those were peoples whom Allah (s.w.t.) knew
 they would be killed. They therefore came to the places where they would
@@ -1148,5 +1120,4 @@ features of moral highness and perfection. To refer to all these
 features requires great efforts and very much time, though Lady
 Zaynab(a.s.)’sfeatures are timeless. This is the reason why only a few
 features of her personality have been mentioned here.
-
 

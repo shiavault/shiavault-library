@@ -135,4 +135,3 @@ and get affected with the slightest disturbance and become angry.
 
 [^6]: Gharar al hukm, p. 809
 
-

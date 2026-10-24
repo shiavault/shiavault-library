@@ -420,4 +420,3 @@ everyone is asleep. The night has passed over and above the mountains,
 passed over and above those who sleep in Mashar and disappeared in the
 Strait of Mina. And now - the sun is rising!
 
-

@@ -1824,4 +1824,3 @@ them and Khaybar, and three stages between them and Medina.
 
 [^46]: Al-Tabari, Ta'rikh, vol. 6, p. 5 and pp. 157- 60.
 
-

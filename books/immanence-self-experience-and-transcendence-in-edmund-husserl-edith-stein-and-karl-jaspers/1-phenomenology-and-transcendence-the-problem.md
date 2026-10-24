@@ -203,4 +203,3 @@ But this tendency in Levinas and recent phenomenology is somewhat at
 odds with Husserl and Stein who begin with self-experience. Let us now
 examine Husserl in more detail.
 
-

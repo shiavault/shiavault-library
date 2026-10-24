@@ -293,4 +293,3 @@ thorough cleaning." This verse was revealed, (according to a sound
 tradition with an unbroken chain of transmission), specifically with
 regard to the family of the Prophet.
 
-

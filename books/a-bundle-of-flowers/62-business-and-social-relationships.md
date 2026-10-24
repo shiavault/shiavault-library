@@ -31,4 +31,3 @@ Judgement while his face will be as bright as the full moon."
 
 Al-Kafi, vol. 5, p. 78
 
-

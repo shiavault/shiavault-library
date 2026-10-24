@@ -49,4 +49,3 @@ surviving spouse.
 grandchild), the brother of the deceased does not get anything. However,
 he affects the share of the mother: instead of 1/3, it becomes 1/6.
 
-

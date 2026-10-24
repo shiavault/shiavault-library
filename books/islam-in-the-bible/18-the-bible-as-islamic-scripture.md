@@ -624,4 +624,3 @@ might see the frontiers of conflict among Christianity, Judaism and
 Islam disappear. The heart core of all the revealed faiths is the one
 true God.
 
-

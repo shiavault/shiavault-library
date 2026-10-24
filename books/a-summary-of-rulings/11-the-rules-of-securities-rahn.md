@@ -90,4 +90,3 @@ amount of money and he puts the house itself as a security in exchange
 for that amount. In this situation the transaction is interest free and
 proper.
 
-

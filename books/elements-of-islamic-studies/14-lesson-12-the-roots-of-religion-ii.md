@@ -73,4 +73,3 @@ fundamental principles - belief in Oneness of Allah and in the life
 hereafter. This ultimately would lead to international brotherhood and
 creation of a peaceful society.
 
-

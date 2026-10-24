@@ -564,4 +564,3 @@ a community to adversity on account of ignorance and repent thereafter.”
 made to Allama Murtaza Askari's masterpiece research work “Abdullah bin
 Saba”.
 
-

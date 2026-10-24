@@ -37,4 +37,3 @@ him.
 But Bahlool did not accept the clothes. He picked up his tattered
 clothes and left Haroun's palace.
 
-

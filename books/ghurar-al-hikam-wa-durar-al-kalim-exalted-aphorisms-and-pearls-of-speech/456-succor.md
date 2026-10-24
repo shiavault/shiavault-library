@@ -16,4 +16,3 @@ assisting him becomes incumbent upon you.
 
 > 3ـ مَنْ وَجَّهَ رَغْبَتَهُ إلَيْكَ وَجَبَتْ مَعُونَتُهُ عَلَيْكَ.
 
-

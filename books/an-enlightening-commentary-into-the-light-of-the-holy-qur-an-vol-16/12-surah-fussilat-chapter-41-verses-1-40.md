@@ -10,11 +10,7 @@ Surah Fussilat, Chapter 41, Verses 1-40
 General Overview of Surah Fussilat
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -42,37 +38,17 @@ well as Verse 37, requiring an obligatory prostration.
 Surah Fussilat - Verses 1 - 4
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيلٌ مِنَ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> تَنْزِيلٌ مِنَ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-كِتَابٌ فُصِّلَتْ آيَاتُهُ قُرْآناً عَرَبِيّاً لِقَوْمٍ يَعْلَمُونَ
-  </p>
-</blockquote>
+> كِتَابٌ فُصِّلَتْ آيَاتُهُ قُرْآناً عَرَبِيّاً لِقَوْمٍ يَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-بَشِيراً وَنَذِيراً فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لا يَسْمَعُونَ
-  </p>
-</blockquote>
+> بَشِيراً وَنَذِيراً فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لا يَسْمَعُونَ
 
 ***1. HM***  
 ***2. A Revelation [the Qur’an] from the Most Gracious, the Most
@@ -189,13 +165,9 @@ Qur’anic Verses being recited.
 Surah Fussilat - Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا قُلُوبُنَا فِي أَكِنَّةٍ مِمَّا تَدْعُونَا إِلَيْهِ وَفِي
-آذَانِنَا وَقْرٌ وَمِنْ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَاعْمَلْ
-إِنَّنَا عَامِلُونَ
-  </p>
-</blockquote>
+> وَقَالُوا قُلُوبُنَا فِي أَكِنَّةٍ مِمَّا تَدْعُونَا إِلَيْهِ وَفِي
+> آذَانِنَا وَقْرٌ وَمِنْ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَاعْمَلْ
+> إِنَّنَا عَامِلُونَ
 
 ***5. And they say: “Our hearts are wrapped up in coverings from that to
 which you invite us and in our ears is deafness and between us and you
@@ -252,19 +224,11 @@ parties was supposed to be preoccupied with their own affairs.
 Surah Fussilat - Verses 6-7
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَی إِلَيَّ أَنَّمَا
-إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ
-وَوَيْلٌ لِلْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَی إِلَيَّ أَنَّمَا
+> إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ
+> وَوَيْلٌ لِلْمُشْرِكِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ لا يُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ
-  </p>
-</blockquote>
+> الَّذِينَ لا يُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ
 
 ***6. Say [O Prophet (S)]: “I am only a human being like you [the
 difference is that] it is revealed to me that your God is One God;
@@ -344,12 +308,8 @@ As per another Prophetic tradition,
 Surah Fussilat - Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ
-مَمْنُونٍ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ
+> مَمْنُونٍ
 
 ***8. Indeed, those who believe and do righteous good deeds, for them
 will be an endless reward that will never stop.***
@@ -383,12 +343,8 @@ endless rewards non-gratia.
 Surah Fussilat - Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَإِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي
-يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَنْدَاداً ذَلِكَ رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قُلْ أَإِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي
+> يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَنْدَاداً ذَلِكَ رَبُّ الْعَالَمِينَ
 
 ***9. Say: “Do you verily disbelieve in Him Who created the earth in two
 days? And you set up rivals [in worship] with Him? That is the Lord of
@@ -448,20 +404,12 @@ that creation could be restricted.
 Surah Fussilat - Verses 10-11
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ فِيهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبَارَكَ فِيهَا وَقَدَّرَ
-فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ
-  </p>
-</blockquote>
+> وَجَعَلَ فِيهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبَارَكَ فِيهَا وَقَدَّرَ
+> فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ اسْتَوَی إِلَی السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا
-وَلِلْأَرْضِ ائْتِيَا طَوْعاً أَوْ كَرْهاً قَالَتَا أَتَيْنَا
-طَائِعِينَ
-  </p>
-</blockquote>
+> ثُمَّ اسْتَوَی إِلَی السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا
+> وَلِلْأَرْضِ ائْتِيَا طَوْعاً أَوْ كَرْهاً قَالَتَا أَتَيْنَا
+> طَائِعِينَ
 
 ***10. He placed therein firm mountains from above it, and He blessed
 it, and measured therein its sustenance in four days sufficient for all
@@ -561,13 +509,9 @@ Which existent beings come into being.
 Surah Fussilat - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ وَأَوْحَی فِي كُلِّ
-سَمَاءٍ أَمْرَهَا وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ
-وَحِفْظاً ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
-  </p>
-</blockquote>
+> فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ وَأَوْحَی فِي كُلِّ
+> سَمَاءٍ أَمْرَهَا وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ
+> وَحِفْظاً ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
 
 ***12. Then He completed and finished [it was in the form of smoke] from
 their creation seven heavens in two days and He made in each heaven its
@@ -623,20 +567,12 @@ seven heavens and the seven earths.
 Surah Fussilat - Verses 13 - 14
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَعْرَضُوا فَقُلْ أَنْذَرْتُكُمْ صَاعِقَةً مِثْلَ صَاعِقَةِ
-عَادٍ وَثَمُودَ
-  </p>
-</blockquote>
+> فَإِنْ أَعْرَضُوا فَقُلْ أَنْذَرْتُكُمْ صَاعِقَةً مِثْلَ صَاعِقَةِ
+> عَادٍ وَثَمُودَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ جَاءَتْهُمُ الرُّسُلُ مِنْ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ
-أَلَّا تَعْبُدُوا إِلَّا اللَّهَ قَالُوا لَوْ شَاءَ رَبُّنَا
-لَأَنْزَلَ مَلائِكَةً فَإِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ
-  </p>
-</blockquote>
+> إِذْ جَاءَتْهُمُ الرُّسُلُ مِنْ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ
+> أَلَّا تَعْبُدُوا إِلَّا اللَّهَ قَالُوا لَوْ شَاءَ رَبُّنَا
+> لَأَنْزَلَ مَلائِكَةً فَإِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ
 
 ***13. But if they turn away, then say: “I have warned you of a
 destructive awful cry like that which overtook ‘Ad and Thamud.”***  
@@ -676,14 +612,10 @@ We would have certainly disguised them in human form.”***
 Surah Fussilat - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ
-وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً أَوَلَمْ يَرَوْا أَنَّ اللَّهَ
-الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً وَكَانُوا بِآياتِنَا
-يَجْحَدُونَ
-  </p>
-</blockquote>
+> فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ
+> وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً أَوَلَمْ يَرَوْا أَنَّ اللَّهَ
+> الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً وَكَانُوا بِآياتِنَا
+> يَجْحَدُونَ
 
 ***15. As for ‘Ad, they were arrogant in the land without right and they
 said: “Who is mightier than us in strength?” See they not that Allah Who
@@ -725,13 +657,9 @@ than them. And they used to deny Our Ayat [Signs and Verses].”***
 Surah Fussilat - Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَرْسَلْنَا عَلَيْهِمْ رِيحاً صَرْصَراً فِي أَيَّامٍ نَحِسَاتٍ
-لِنُذِيقَهُمْ عَذَابَ الْخِزْيِ فِي الْحَيَاةِ الدُّنْيَا وَلَعَذَابُ
-الْآخِرَةِ أَخْزَی وَهُمْ لا يُنْصَرُونَ
-  </p>
-</blockquote>
+> فَأَرْسَلْنَا عَلَيْهِمْ رِيحاً صَرْصَراً فِي أَيَّامٍ نَحِسَاتٍ
+> لِنُذِيقَهُمْ عَذَابَ الْخِزْيِ فِي الْحَيَاةِ الدُّنْيَا وَلَعَذَابُ
+> الْآخِرَةِ أَخْزَی وَهُمْ لا يُنْصَرُونَ
 
 ***16. So We sent upon them a furious and poisonous gale in days of evil
 omen that We might give them a taste of disgracing torment in this
@@ -797,19 +725,11 @@ people comprehend their humility.
 Surah Fussilat - Verses 17 - 18
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَی عَلَی
-الْهُدَی فَأَخَذَتْهُمْ صَاعِقَةُ الْعَذَابِ الْهُونِ بِمَا كَانُوا
-يَكْسِبُونَ
-  </p>
-</blockquote>
+> وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَی عَلَی
+> الْهُدَی فَأَخَذَتْهُمْ صَاعِقَةُ الْعَذَابِ الْهُونِ بِمَا كَانُوا
+> يَكْسِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَنَجَّيْنَا الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ
-  </p>
-</blockquote>
+> وَنَجَّيْنَا الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ
 
 ***17. And as for Thamud, We showed and made clear unto them the Path of
 Truth, but they preferred blindness to guidance. Therefore, a
@@ -882,18 +802,10 @@ be inflicted upon them.
 Surah Fussilat - Verses 19 - 20
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُحْشَرُ أَعْدَاءُ اللَّهِ إِلَی النَّارِ فَهُمْ يُوزَعُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُحْشَرُ أَعْدَاءُ اللَّهِ إِلَی النَّارِ فَهُمْ يُوزَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-حَتَّی إِذَا مَا جَاءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ
-وَأَبْصَارُهُمْ وَجُلُودُهُمْ بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> حَتَّی إِذَا مَا جَاءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ
+> وَأَبْصَارُهُمْ وَجُلُودُهُمْ بِمَا كَانُوا يَعْمَلُونَ
 
 ***19. And [remember] the Day that the enemies of Allah will be gathered
 to the Fire, then they will be restrained.***  
@@ -959,13 +871,9 @@ directions bear testimony before God Almighty.
 Surah Fussilat - Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا قَالُوا أَنْطَقَنَا
-اللَّهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ
-مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا قَالُوا أَنْطَقَنَا
+> اللَّهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ
+> مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ
 
 ***21. And they will say to their skins, “Why did you testify against
 us?” They will say: “Allah has caused us to speak, He causes all things
@@ -999,20 +907,12 @@ first place and you shall return unto Him.
 Surah Fussilat - Verses 22 - 23
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنْتُمْ تَسْتَتِرُونَ أَنْ يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلا
-أَبْصَارُكُمْ وَلا جُلُودُكُمْ وَلَكِنْ ظَنَنْتُمْ أَنَّ اللَّهَ لا
-يَعْلَمُ كَثِيراً مِمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَمَا كُنْتُمْ تَسْتَتِرُونَ أَنْ يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلا
+> أَبْصَارُكُمْ وَلا جُلُودُكُمْ وَلَكِنْ ظَنَنْتُمْ أَنَّ اللَّهَ لا
+> يَعْلَمُ كَثِيراً مِمَّا تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَذَلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ
-فَأَصْبَحْتُمْ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَذَلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ
+> فَأَصْبَحْتُمْ مِنَ الْخَاسِرِينَ
 
 ***22. And [suppose that] you have not been hiding yourselves lest your
 ears and your eyes and your skins should testify against you, but you
@@ -1204,12 +1104,8 @@ Justice, Purity, and fearing God.
 Surah Fussilat - Verse 24
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْویً لَهُمْ وَإِنْ يَسْتَعْتِبُوا
-فَمَا هُمْ مِنَ الْمُعْتَبِينَ
-  </p>
-</blockquote>
+> فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْویً لَهُمْ وَإِنْ يَسْتَعْتِبُوا
+> فَمَا هُمْ مِنَ الْمُعْتَبِينَ
 
 ***24. Then if they bear the torment patiently, [it will be of no avail,
 since] the Fire is the home for them, and if they seek Divine
@@ -1230,14 +1126,10 @@ avail.
 Surah Fussilat - Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَيَّضْنَا لَهُمْ قُرَنَاءَ فَزَيَّنُوا لَهُمْ مَا بَيْنَ
-أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ الْقَوْلُ فِي أُمَمٍ
-قَدْ خَلَتْ مِنْ قَبْلِهِمْ مِنَ الْجِنِّ وَالْأِنْسِ إِنَّهُمْ
-كَانُوا خَاسِرِينَ
-  </p>
-</blockquote>
+> وَقَيَّضْنَا لَهُمْ قُرَنَاءَ فَزَيَّنُوا لَهُمْ مَا بَيْنَ
+> أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ الْقَوْلُ فِي أُمَمٍ
+> قَدْ خَلَتْ مِنْ قَبْلِهِمْ مِنَ الْجِنِّ وَالْأِنْسِ إِنَّهُمْ
+> كَانُوا خَاسِرِينَ
 
 ***25. And we have assigned for them companions who have made
 fair-seeming to them, what was before them and what was behind them
@@ -1286,26 +1178,14 @@ friends.”*
 Surah Fussilat - Verses 26 - 28
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لا تَسْمَعُوا لِهَذَا الْقُرْآنِ وَالْغَوْا
-فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لا تَسْمَعُوا لِهَذَا الْقُرْآنِ وَالْغَوْا
+> فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَاباً شَدِيداً
-وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَاباً شَدِيداً
+> وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ جَزَاءُ أَعْدَاءِ اللَّهِ النَّارُ لَهُمْ فِيهَا دَارُ
-الْخُلْدِ جَزَاءً بِمَا كَانُوا بِآياتِنَا يَجْحَدُونَ
-  </p>
-</blockquote>
+> ذَلِكَ جَزَاءُ أَعْدَاءِ اللَّهِ النَّارُ لَهُمْ فِيهَا دَارُ
+> الْخُلْدِ جَزَاءً بِمَا كَانُوا بِآياتِنَا يَجْحَدُونَ
 
 ***26. And those who disbelieve say: “Listen not to this Qur’an, and
 make noise in the midst of its [recitation] that you may overcome.”***  
@@ -1356,13 +1236,9 @@ denial of Divine Revelations.
 Surah Fussilat - Verse 29
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا رَبَّنَا أَرِنَا الَّذَيْنِ أَضَلَّانَا
-مِنَ الْجِنِّ وَالْأِنْسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا
-مِنَ الْأَسْفَلِينَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا رَبَّنَا أَرِنَا الَّذَيْنِ أَضَلَّانَا
+> مِنَ الْجِنِّ وَالْأِنْسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا
+> مِنَ الْأَسْفَلِينَ
 
 ***29. And those who disbelieve will say: “Our Lord! Show us those among
 jinn and men who led us astray: that we may crush them under our feet so
@@ -1387,13 +1263,9 @@ be happy to take their vengeance upon them.
 Surah Fussilat - Verse 30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
-تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلَّا تَخَافُوا وَلا تَحْزَنُوا
-وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+> تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلَّا تَخَافُوا وَلا تَحْزَنُوا
+> وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ
 
 ***30. Indeed, those who say: “Our Lord is Allah,” and then they stand
 firm, on them the angels will descend [at the time of their death,
@@ -1482,19 +1354,11 @@ The Prophet (S) touched his tongue and said:
 Surah Fussilat - Verses 31 - 32
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ
-وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنْفُسُكُمْ وَلَكُمْ فِيهَا مَا
-تَدَّعُونَ
-  </p>
-</blockquote>
+> نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ
+> وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنْفُسُكُمْ وَلَكُمْ فِيهَا مَا
+> تَدَّعُونَ
 
-<blockquote dir="rtl">
-  <p>
-نُزُلاً مِنْ غَفُورٍ رَحِيمٍ
-  </p>
-</blockquote>
+> نُزُلاً مِنْ غَفُورٍ رَحِيمٍ
 
 ***31. “We [angels] have been your friends in the life of this world and
 are [so] in the Hereafter. Therein [paradise] you shall have [all] that
@@ -1613,12 +1477,8 @@ Merciful.”***
 Surah Fussilat - Verse 33
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَحْسَنُ قَوْلاً مِمَّنْ دَعَا إِلَی اللَّهِ وَعَمِلَ صَالِحاً
-وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَمَنْ أَحْسَنُ قَوْلاً مِمَّنْ دَعَا إِلَی اللَّهِ وَعَمِلَ صَالِحاً
+> وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ
 
 ***33. And who is better in speech than he who [says: “My Lord is Allah”
 and then stands firm and] invites [men] to Allah’s and does righteous
@@ -1684,13 +1544,9 @@ those who may be encouraged by it.
 Surah Fussilat - Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَسْتَوِي الْحَسَنَةُ وَلا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
-أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
-وَلِيٌّ حَمِيمٌ
-  </p>
-</blockquote>
+> وَلا تَسْتَوِي الْحَسَنَةُ وَلا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
+> أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
+> وَلِيٌّ حَمِيمٌ
 
 ***34. The good deed and the evil deed cannot be equal. Repel [the evil]
 with one which is better; then verily he between whom and you there was
@@ -1788,12 +1644,8 @@ conceal one’s beliefs out of discretion.”*
 Surah Fussilat - Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
-ذُو حَظٍّ عَظِيمٍ
-  </p>
-</blockquote>
+> وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
+> ذُو حَظٍّ عَظِيمٍ
 
 ***35. But none is granted it [such good disposition] except those who
 are patient and none is granted it except the owner of the great portion
@@ -1817,12 +1669,8 @@ stations bestowed by God Almighty in the Hereafter.[^38]
 Surah Fussilat - Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ
-إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ
+> إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 ***36. And if an evil whisper from Satan tries to turn you away [from
 doing good in return for the evil deeds committed by others], then seek
@@ -1874,13 +1722,9 @@ Almighty and say*
 Surah Fussilat - Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ لا
-تَسْجُدُوا لِلشَّمْسِ وَلا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي
-خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ لا
+> تَسْجُدُوا لِلشَّمْسِ وَلا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي
+> خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
 
 ***37. And from among His Signs are the night and the day, and the sun
 and the moon. Prostrate yourselves not to the sun nor to the moon, but
@@ -1930,12 +1774,8 @@ should prostrate before God Who is their Creator and Provider.
 Surah Fussilat - Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ
-بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لا يَسْأَمُونَ
-  </p>
-</blockquote>
+> فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ
+> بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لا يَسْأَمُونَ
 
 ***38. But if they are too proud [to worship God Almighty, it matters
 not, since] there are those who are with your Lord [angels] glorify Him
@@ -1956,13 +1796,9 @@ times.”*
 Surah Fussilat - Verse 39
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنَّكَ تَرَی الْأَرْضَ خَاشِعَةً فَإِذَا أَنْزَلْنَا
-عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ إِنَّ الَّذِي أَحْيَاهَا
-لَمُحْيِي الْمَوْتَی إِنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنَّكَ تَرَی الْأَرْضَ خَاشِعَةً فَإِذَا أَنْزَلْنَا
+> عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ إِنَّ الَّذِي أَحْيَاهَا
+> لَمُحْيِي الْمَوْتَی إِنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 ***39. And among His Signs is that you see the earth barren, but when We
 send down water to it, it is stirred to life and growth. Indeed, He Who
@@ -2000,13 +1836,9 @@ shall become evident.
 Surah Fussilat - Verse 40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لا يَخْفَوْنَ عَلَيْنَا
-أَفَمَنْ يُلْقَى فِي النَّارِ خَيْرٌ أَمَّنْ يَأْتِي آمِناً يَوْمَ
-الْقِيَامَةِ اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لا يَخْفَوْنَ عَلَيْنَا
+> أَفَمَنْ يُلْقَى فِي النَّارِ خَيْرٌ أَمَّنْ يَأْتِي آمِناً يَوْمَ
+> الْقِيَامَةِ اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***40. Indeed, those who turn away from Our Ayat [Signs, Verses] are not
 hidden from Us. Is he who is cast into the Fire better or he who comes
@@ -2137,5 +1969,4 @@ blessed Verse in question.
 
 [^40]: Tafsir Nur al-Thiqalayn; Majma’ al-Bayan, under the blessed Verse
 in question.
-
 

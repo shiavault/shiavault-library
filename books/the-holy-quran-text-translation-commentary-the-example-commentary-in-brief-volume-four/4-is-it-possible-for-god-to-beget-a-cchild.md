@@ -145,7 +145,6 @@ THE MERCIFUL.
 45- O, MY FATHER! I AM AFRAID TO TOUCH YOU A TORMENT FROM THE MERCIFUL,
 THEN YOU BECOME A FRIEND OF SATAN.
 
-
 **THE COMMENTARY
 ABRAHAM'S KNOCKING-DOWN LOGIC**
 
@@ -488,5 +487,4 @@ YOUR LORD IS NOT FORGETFUL.
 
 رَبُّ السَّموَاتِ وَالاَْرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ
 لِعِبَادَتِهِ هَلْ تَعْلَمُ لَهُ سَمِيّاً(( 65 ))
-
 

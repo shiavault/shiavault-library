@@ -4,14 +4,10 @@ Section 31, Extra Provision for Divorced Women & Widows
 Surah Al-Baqarah, Verse 236
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ النِّسَاء مَا لَمْ
-تَمَسُّوهُنُّ أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى
-الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدْرُهُ مَتَاعًا
-بِالْمَعْرُوفِ حَقًّا عَلَى الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> لاَّ جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ النِّسَاء مَا لَمْ
+> تَمَسُّوهُنُّ أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى
+> الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدْرُهُ مَتَاعًا
+> بِالْمَعْرُوفِ حَقًّا عَلَى الْمُحْسِنِينَ
 
 **236.** ***"There is no sin on you if you divorce women while you have
 not yet touched them nor settled any dowry on them; yet make provision
@@ -60,15 +56,11 @@ benevolence and also performed in a peaceful manner by the husband.
 Surah Al-Baqarah, Verse 237
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ
-لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إَلاَّ أَن يَعْفُونَ أَوْ
-يَعْفُوَ الَّذِي بِيَدِهِ عُقْدَةُ النِّكَاحِ وَأَن تَعْفُواْ أَقْرَبُ
-لِلتَّقْوَى وَلاَ تَنسَوُاْ الْفَضْلَ بَيْنَكُمْ إِنَّ اللّهَ بِمَا
-تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ
+> لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إَلاَّ أَن يَعْفُونَ أَوْ
+> يَعْفُوَ الَّذِي بِيَدِهِ عُقْدَةُ النِّكَاحِ وَأَن تَعْفُواْ أَقْرَبُ
+> لِلتَّقْوَى وَلاَ تَنسَوُاْ الْفَضْلَ بَيْنَكُمْ إِنَّ اللّهَ بِمَا
+> تَعْمَلُونَ بَصِيرٌ
 
 **237.** ***"And if you divorce them before you have touched them, and
 you have already settled a dowry on them, then (pay them) one-half of
@@ -109,12 +101,8 @@ sees what you do"***
 Surah Al-Baqarah, Verse 238
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَافِظُواْ عَلَى الصَّلَوَاتِ والصَّلاَةِ الْوُسْطَى وَقُومُواْ لِلّهِ
-قَانِتِينَ
-  </p>
-</blockquote>
+> حَافِظُواْ عَلَى الصَّلَوَاتِ والصَّلاَةِ الْوُسْطَى وَقُومُواْ لِلّهِ
+> قَانِتِينَ
 
 **238.** ***"Guard your prayers, and (especially) the middle prayer and
 stand devoutly before Allah."***
@@ -173,12 +161,8 @@ in the midst of the worldly engagements.
 Surah Al-Baqarah, Verse 239
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإنْ خِفْتُمْ فَرِجَالاً أَوْ رُكْبَانًا فَإِذَا أَمِنتُمْ
-فَاذْكُرُواْ اللّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُواْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَإنْ خِفْتُمْ فَرِجَالاً أَوْ رُكْبَانًا فَإِذَا أَمِنتُمْ
+> فَاذْكُرُواْ اللّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُواْ تَعْلَمُونَ
 
 **239.** ***"And if you fear (an enemy or danger), then (pray) on foot
 or riding; but when you are safe, then remember Allah as He has taught
@@ -213,14 +197,10 @@ of them, as they should be kept.
 Surah Al-Baqarah, Verse 240
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَاجًا وَصِيَّةً
-لِّأَزْوَاجِهِم مَّتَاعًا إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ
-خَرَجْنَ فَلاَ جُنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِيَ أَنفُسِهِنَّ
-مِن مَّعْرُوفٍ وَاللّهُ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَاجًا وَصِيَّةً
+> لِّأَزْوَاجِهِم مَّتَاعًا إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ
+> خَرَجْنَ فَلاَ جُنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِيَ أَنفُسِهِنَّ
+> مِن مَّعْرُوفٍ وَاللّهُ عَزِيزٌ حَكِيمٌ
 
 **240.** ***"And those of you who are about to die and leave wives
 behind, make a bequest in favour of their wives, a year's maintenance
@@ -255,11 +235,7 @@ and, therefore, there is certainly wisdom in that calamity.
 Surah Al-Baqarah, Verse 241
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ
 
 **241.** ***"And for the divorced women make a provision according to a
 fair manner; (this is) a duty on the pious ones."***
@@ -282,11 +258,7 @@ is appreciated.
 Surah Al-Baqarah, Verse 242
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ يُبَيِّنُ اللّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ
-  </p>
-</blockquote>
+> كَذَلِكَ يُبَيِّنُ اللّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ
 
 **242.** ***"Thus Allah makes clear to you His Signs, so that you might
 understand."***
@@ -302,5 +274,4 @@ ta'qilun / **'*****so that you might understand**'* is that the
 intention of movement from the beginning should be towards the
 destination of 'action'; else, mere contemplation upon ordinances and
 understanding them, with no deed, will be fruitless.
-
 

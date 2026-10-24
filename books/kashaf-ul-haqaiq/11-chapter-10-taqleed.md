@@ -116,16 +116,12 @@ followed them accordingly.’”
 
 This can also be proven from the two Verses:
 
-<p dir="rtl">
 وَاتَّخَذُوا مِن دُونِ اللَّهِ آلِهَةً لِّيَكُونُوا لَهُمْ عِزًّا
-</p>
 
 [Shakir 19:81] And they have taken gods besides Allah, that they should
 be to them a source of strength;
 
-<p dir="rtl">
 كَلَّا سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
-</p>
 
 [Shakir 19:82] By no means! They shall soon deny their worshipping them,
 and they shall be adversaries to them
@@ -266,10 +262,8 @@ been condemned time an again in the Holy Quran. In the time all the
 prophets, the people who have done this have been referred to as
 following the way of the unbelievers and the polytheists.
 
-<p dir="rtl">
 بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى
 آثَارِهِم مُّهْتَدُونَ
-</p>
 
 [Shakir 43:22] Nay! they say: We found our fathers on a course, and
 surely we are guided by their footsteps.
@@ -327,10 +321,8 @@ Allamah Haeri and other Mujtahids which they have presented.
 
 They present this Verse:
 
-<p dir="rtl">
 وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
 فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 16:43] And We did not send before you any but men to whom We
 sent revelation-- so ask the followers of the Reminder if you do not
@@ -356,10 +348,8 @@ of answering questions.
 Holy Quran is the ‘Zikr’ and that the people of the ‘Zikr’ are the
 people of the Holy Quran.
 
-<p dir="rtl">
 أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا فَاتَّقُوا اللَّهَ يَا أُوْلِي
 الْأَلْبَابِ الَّذِينَ آمَنُوا قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا
-</p>
 
 [Shakir 65:10] Allah has prepared for them severe chastisement,
 therefore be careful of (your duty to) Allah, O men of understanding who
@@ -385,10 +375,8 @@ from them are the questioners. It is also obligatory for the Ahl Ul Zikr
 to exist until the day of judgement for people to question them. This is
 the same as in the Verse:
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ وَكُونُواْ مَعَ
 الصَّادِقِينَ
-</p>
 
 [Shakir 9:119] O you who believe! be careful of (your duty to) Allah and
 be with the true ones.
@@ -527,22 +515,18 @@ that the Holy Quran is Zikr and that the people of Zikr are the people
 of the Holy Quran. This is an invalid point to make. Take a look at the
 Verses:
 
-<p dir="rtl">
 أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا فَاتَّقُوا اللَّهَ يَا أُوْلِي
 الْأَلْبَابِ الَّذِينَ آمَنُوا قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا
-</p>
 
 [Shakir 65:10] Allah has prepared for them severe chastisement,
 therefore be careful of (your duty to) Allah, O men of understanding who
 believe! Allah has indeed revealed to you a reminder,
 
-<p dir="rtl">
 رَّسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ لِّيُخْرِجَ
 الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى
 النُّورِ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُدْخِلْهُ جَنَّاتٍ
 تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا قَدْ
 أَحْسَنَ اللَّهُ لَهُ رِزْقًا
-</p>
 
 [Shakir 65:11] A Messenger who recites to you the clear communications
 of Allah so that he may bring forth those who believe and do good deeds
@@ -587,14 +571,12 @@ Quran then accept it otherwise fling it at the wall’. The Hadeeth that
 he has presented not only contradicts one but many a verse in the Holy
 Quran.
 
-<p dir="rtl">
 إِنَّا أَنزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا
 النَّبِيُّونَ الَّذِينَ أَسْلَمُواْ لِلَّذِينَ هَادُواْ
 وَالرَّبَّانِيُّونَ وَالأَحْبَارُ بِمَا اسْتُحْفِظُواْ مِن كِتَابِ
 اللّهِ وَكَانُواْ عَلَيْهِ شُهَدَاء فَلاَ تَخْشَوُاْ النَّاسَ
 وَاخْشَوْنِ وَلاَ تَشْتَرُواْ بِآيَاتِي ثَمَنًا قَلِيلاً وَمَن لَّمْ
 يَحْكُم بِمَا أَنزَلَ اللّهُ فَأُوْلَـئِكَ هُمُ الْكَافِرُونَ
-</p>
 
 [Shakir 5:44] Surely We revealed the Taurat in which was guidance and
 light; with it the prophets who submitted themselves (to Allah) judged
@@ -605,13 +587,11 @@ and fear Me, and do not take a small price for My communications; and
 whoever did not judge by what Allah revealed, those are they that are
 the unbelievers.
 
-<p dir="rtl">
 وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ
 بِالْعَيْنِ وَالأَنفَ بِالأَنفِ وَالأُذُنَ بِالأُذُنِ وَالسِّنَّ
 بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِ فَهُوَ كَفَّارَةٌ
 لَّهُ وَمَن لَّمْ يَحْكُم بِمَا أنزَلَ اللّهُ فَأُوْلَـئِكَ هُمُ
 الظَّالِمُونَ
-</p>
 
 [Shakir 5:45] And We prescribed to them in it that life is for life, and
 eye for eye, and nose for nose, and ear for ear, and tooth for tooth,
@@ -619,22 +599,18 @@ and (that there is) reprisal in wounds; but he who foregoes it, it shall
 be an expiation for him; and whoever did not judge by what Allah
 revealed, those are they that are the unjust
 
-<p dir="rtl">
 وَلْيَحْكُمْ أَهْلُ الإِنجِيلِ بِمَا أَنزَلَ اللّهُ فِيهِ وَمَن لَّمْ
 يَحْكُم بِمَا أَنزَلَ اللّهُ فَأُوْلَـئِكَ هُمُ الْفَاسِقُونَ
-</p>
 
 [Shakir 5:47] And the followers of the Injeel should have judged by what
 Allah revealed in it; and whoever did not judge by what Allah revealed,
 those are they that are the transgressors.
 
-<p dir="rtl">
 وَمِنَ الإِبْلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ قُلْ آلذَّكَرَيْنِ
 حَرَّمَ أَمِ الأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ
 الأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَاء إِذْ وَصَّاكُمُ اللّهُ بِهَـذَا
 فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللّهِ كَذِبًا لِيُضِلَّ النَّاسَ
 بِغَيْرِ عِلْمٍ إِنَّ اللّهَ لاَ يَهْدِي الْقَوْمَ الظَّالِمِينَ
-</p>
 
 [Shakir 6:144] And two of camels and two of cows. Say: Has He forbidden
 the two males or the two females or that which the wombs of the two
@@ -1207,10 +1183,8 @@ listed above. Even now if someone were to dilly dally and argue then
 there is no treatment for his illness. Allah (s.w.t.) has said about
 these types of people:
 
-<p dir="rtl">
 وَسَوَاء عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لاَ
 يُؤْمِنُونَ
-</p>
 
 [Shakir 36:10] And it is alike to them whether you warn them or warn
 them not: they do not believe.
@@ -1255,5 +1229,4 @@ do not reject the truth after having seen it and recognised it as such
 otherwise you will get into trouble. Otherwise your worldly life may
 pass in happiness but in the hereafter, you know very well what will
 happen to the one who reject the truth after having seen it.
-
 

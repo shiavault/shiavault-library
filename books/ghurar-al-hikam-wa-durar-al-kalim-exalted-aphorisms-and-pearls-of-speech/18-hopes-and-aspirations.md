@@ -33,22 +33,14 @@ disheartens the one who looks forward to it.
 possesses it is deceived.
 
 > 7ـ أكذِبِ الأمَلَ، وَلا تَثِقْ بِهِ، فَإنَّهُ غُرُورٌ، وصاحِبُهُ
-<blockquote dir="rtl">
-  <p>
-مَغْرُورٌ.
-  </p>
-</blockquote>
+> مَغْرُورٌ.
 
 8. Belie your hopes and take advantage of your lifetimes to perform your
 best deeds, and hasten with the hastening of the wise and those endowed
 with understanding.
 
 > 8ـ أكذِبُوا آمالَكُمْ، واغْتَنِمُوا آجالَكُمْ بِأحسَنِ أعْمالِكُمْ،
-<blockquote dir="rtl">
-  <p>
-وبادِرُوا مُبادَرَةَ اُولِي النُّهى والألبابِ.
-  </p>
-</blockquote>
+> وبادِرُوا مُبادَرَةَ اُولِي النُّهى والألبابِ.
 
 9. Be wary of the deceit of hopes, for many a person has hoped for a day
 that never came and built a house that he never occupied and amassed
@@ -57,25 +49,17 @@ by depriving others of their rights, thereby acquiring what is forbidden
 and carrying the burden of sin.
 
 > 9ـ إتَّقُوا خِداعَ الآمالِ، فَكَمْ مِنْ مُؤَمِّلِ يَوْم لَمْ
-<blockquote dir="rtl">
-  <p>
-يُدْرِكْهُ، وَباني بِناء لَمْيَسكُنْهُ، وجامِعِ مال لَمْ يَأكُلْهُ،
-وَلَعَلَّهُ مِنْ باطِل جَمَعَهُ وَمِنْ حَقّ مَنَعَهُ، أصابَهُ حَراماً،
-واحْتَمَلَ بِهِ أثاماً.
-  </p>
-</blockquote>
+> يُدْرِكْهُ، وَباني بِناء لَمْيَسكُنْهُ، وجامِعِ مال لَمْ يَأكُلْهُ،
+> وَلَعَلَّهُ مِنْ باطِل جَمَعَهُ وَمِنْ حَقّ مَنَعَهُ، أصابَهُ حَراماً،
+> واحْتَمَلَ بِهِ أثاماً.
 
 10. Be wary of vain hopes, as it is possible for one who starts a day
 not to end it and for one who is deemed fortunate at dusk to be mourned
 at dawn.
 
 > 10ـ إتَّقُوا باطلَ الأمَلِ، فَرُبَّ مُسْتَقْبِلِ يَوم لَيْسَ
-<blockquote dir="rtl">
-  <p>
-بِمُسْتَدْبِرِه، ومَغْبُوط في أوّلِ لَيْلَة قامَتْ بَواكيهِ في
-آخِرِهِ.
-  </p>
-</blockquote>
+> بِمُسْتَدْبِرِه، ومَغْبُوط في أوّلِ لَيْلَة قامَتْ بَواكيهِ في
+> آخِرِهِ.
 
 11. Be cautious of dashed hopes and seized blessings.
 
@@ -118,11 +102,7 @@ loses the best of his actions.
 performing good deeds.
 
 > 20ـ قَصِّـرُوا الأمَلَ، وخافُوا بَغْتَةَ الأجَلِ، وبادِرُوا صالِحَ
-<blockquote dir="rtl">
-  <p>
-العَمَلِ.
-  </p>
-</blockquote>
+> العَمَلِ.
 
 21. Decrease your hopes and your actions will become sincere.
 
@@ -136,11 +116,7 @@ performing good deeds.
 actions, for verily little of it is plenty.
 
 > 23ـ قَصِّـرِ الأمَلَ فَإنَّ العُمْرَ قَصيرٌ، وافْعَلِ الخَيرَ فَإنَّ
-<blockquote dir="rtl">
-  <p>
-يَسيَرهُ كَثيرٌ.
-  </p>
-</blockquote>
+> يَسيَرهُ كَثيرٌ.
 
 24. Reduce [your] hopes, hasten towards [good] deeds and fear the
 suddenness of death, as the return of lifetime cannot be hoped for like
@@ -149,13 +125,9 @@ be hoped for tomorrow with increase, but whatever is lost from one’s
 lifetime yesterday, its return cannot be hoped for today.
 
 > 24ـ قَصِّـرُوا الأمَلَ، وَبادِرُوا العَمَلَ، وَخافُوا بَغْتَةَ الأجلِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُ لَنْ يُرجى مِنْ رَجْعَةِ العُمْرِ ما يُرجى مِنْ رَجْعَةِ
-الرِّزقِ، ما فاتَ اليَوْمُ مِنَ الرِّزقِ يُرجى غَداً زيادَتُهُ، وما
-فاتَ أمْسِ مِنَ العُمرِ لَمْ تُرْجَ اليَومَ رَجْعَتُهُ.
-  </p>
-</blockquote>
+> فَإنَّهُ لَنْ يُرجى مِنْ رَجْعَةِ العُمْرِ ما يُرجى مِنْ رَجْعَةِ
+> الرِّزقِ، ما فاتَ اليَوْمُ مِنَ الرِّزقِ يُرجى غَداً زيادَتُهُ، وما
+> فاتَ أمْسِ مِنَ العُمرِ لَمْ تُرْجَ اليَومَ رَجْعَتُهُ.
 
 25. Every person is seeking his aspirations while [concurrently] being
 sought by his death.
@@ -228,22 +200,14 @@ abandon you.
 death, so be conscious of Allah and be moderate in your desires.
 
 > 41ـ إنّكَ لَنْ تَبْلُغَ أمَلَكَ، وَلَنْ تَعدُوَ أجَلَكَ، فَاتَّقِ
-<blockquote dir="rtl">
-  <p>
-اللّهَ، وأجْمِلْ في الطَّلَبِ.
-  </p>
-</blockquote>
+> اللّهَ، وأجْمِلْ في الطَّلَبِ.
 
 42. If you are deceived by hopes, you will surely be annihilated by the
 fast approaching death and will have lost [the opportunity to perform]
 good deeds.
 
 > 42ـ إنَّكُمْ إنِ اغْتَرَرْتُمْ بِالآمالِ، تَخَرَّمَتْكُمْ بَوادِرُ
-<blockquote dir="rtl">
-  <p>
-الآجالِ وقَدْ ماتَتْكُمُ الأعْمالُ.
-  </p>
-</blockquote>
+> الآجالِ وقَدْ ماتَتْكُمُ الأعْمالُ.
 
 43. The bane of hopes is the coming of death.
 
@@ -268,12 +232,8 @@ blessings of Allah from you and make them seem small and insignificant,
 thereby increasing your lack of gratitude.
 
 > 47ـ تَجَنَّبُوا المُنى، فإنَّها تَذْهَبُ بِبَهجَةِ نِعَمِ اللّهِ
-<blockquote dir="rtl">
-  <p>
-عِنْدَكُمْ، وتُلْزِمُ إسْتِصْغارَها لَدَيْكُمْ، وَعلى قِلَّةِ الشُّكرِ
-مِنْكُمْ.
-  </p>
-</blockquote>
+> عِنْدَكُمْ، وتُلْزِمُ إسْتِصْغارَها لَدَيْكُمْ، وَعلى قِلَّةِ الشُّكرِ
+> مِنْكُمْ.
 
 48. The fruit of hope is corruption of deeds.
 
@@ -305,11 +265,7 @@ achieve, amass wealth which you do not use and build houses which you do
 not occupy!
 
 > 54ـ ما لَكُمْ تُؤَمِّلُونَ ما لاتُدْرِكُونَهُ، وتَجْمَعُونَ مالا
-<blockquote dir="rtl">
-  <p>
-تأكُلُونَهُ، وَتَبْنُونَ ما لا تَسْكُنُونَهُ؟
-  </p>
-</blockquote>
+> تأكُلُونَهُ، وَتَبْنُونَ ما لا تَسْكُنُونَهُ؟
 
 55. No one lengthens his hopes except that he forgets death and performs
 evil actions.
@@ -402,22 +358,14 @@ worst.
 performs evil actions.
 
 > 75ـ إنَّ اللّهَ سُبْحانَهُ لَيُبْغِضُ الطَّويلَ الأمَلِ، السَّيِّءَ
-<blockquote dir="rtl">
-  <p>
-العَملِ.
-  </p>
-</blockquote>
+> العَملِ.
 
 76. Indeed man reaches near [the realization of] his hopes, when the
 [sudden] approach of his death cuts them short, then - Glory be to
 Allah! - Neither is the hope realized nor is the hoper spared.
 
 > 76ـ إنَّ المَرْءَ يَشْرُفُ عَلى أمَلِهِ، فَيَقْطَعُهُ حُضُورُ أجَلِهِ،
-<blockquote dir="rtl">
-  <p>
-فَسُبْحانَ اللّهِ لا أمَلٌ يُدْرَكُ، ولا مُؤَمِّلٌ يُتْرَكُ.
-  </p>
-</blockquote>
+> فَسُبْحانَ اللّهِ لا أمَلٌ يُدْرَكُ، ولا مُؤَمِّلٌ يُتْرَكُ.
 
 77. Be cautious not to lengthen [your] hope, for many a deceived person
 has been enticed by his long hope and corrupted his deeds and cut
@@ -425,12 +373,8 @@ has been enticed by his long hope and corrupted his deeds and cut
 which he lost regained.
 
 > 77ـ إيّاكَ وطُولَ الأمَلِ، فَكَمْ مِنْ مَغْرُور افتَتَنَ بِطُولِ
-<blockquote dir="rtl">
-  <p>
-أمَلَهِ، وأفْسََدَ عََمَلَهُ، وقَطَعَ أجَلَهُ، فَلا أمَلَهُ أدْرَكَ
-ولا ما فاتَهُ اسْتَدرَكَ.
-  </p>
-</blockquote>
+> أمَلَهِ، وأفْسََدَ عََمَلَهُ، وقَطَعَ أجَلَهُ، فَلا أمَلَهُ أدْرَكَ
+> ولا ما فاتَهُ اسْتَدرَكَ.
 
 78. Where will the falsehoods of hopes mislead you to?!
 
@@ -451,13 +395,9 @@ world in a sorrowful state and proceeds to the next world where he faces
 the consequences.
 
 > 81ـ إنَّ أخْسَرَ النَّاسِ صَفْقَةً، وأخْيَبَهُمْ سَعياً، رَجلٌ أخْلَقَ
-<blockquote dir="rtl">
-  <p>
-بَدَنَهُ في طَلَبِ آمالِهِ، ولَم تُساعِدْهُ المَقاديرُ على إرادَتِهِ،
-فَخَرَجَ مِنَ الدُّنيا بِحَسَراتِهِ، وقَدِمَ عَلَى الآخِرَةِ
-بِتَبِعاتِهِ.
-  </p>
-</blockquote>
+> بَدَنَهُ في طَلَبِ آمالِهِ، ولَم تُساعِدْهُ المَقاديرُ على إرادَتِهِ،
+> فَخَرَجَ مِنَ الدُّنيا بِحَسَراتِهِ، وقَدِمَ عَلَى الآخِرَةِ
+> بِتَبِعاتِهِ.
 
 82. Hope is treacherous.
 
@@ -562,11 +502,7 @@ death, makes good use of his time and takes with him the provisions of
 [good] deeds.
 
 > 105ـ رَحِمَ اللّهُ امْرَءاً قَصَّرَ الأمَلَ، وبادَرَ الأجَلَ،
-<blockquote dir="rtl">
-  <p>
-واغْتَنَمَ المَهَلَ، وتَزَوَّدَ مِنَ العَملِ.
-  </p>
-</blockquote>
+> واغْتَنَمَ المَهَلَ، وتَزَوَّدَ مِنَ العَملِ.
 
 106. Many an aspiration may lie beneath death.
 
@@ -577,12 +513,8 @@ and do not be deceived by your good physical health and yesterday’s
 wellbeing, for life is short and good health is prone to change.
 
 > 107ـ زِدْ مِنْ طُولِ أمَلِكَ في قَصْرِ أجَلِكَ، ولا تَغُرَّنَّكَ
-<blockquote dir="rtl">
-  <p>
-صِحَّةُ جِسْمِكَ وَسَلامَةُ أمْسِكَ، فَإنَّ مُدَّة َ العُمرِ قَليلَةٌ،
-وسَلامَةُ الجِسمِ مُسْتَحيلَةٌ.
-  </p>
-</blockquote>
+> صِحَّةُ جِسْمِكَ وَسَلامَةُ أمْسِكَ، فَإنَّ مُدَّة َ العُمرِ قَليلَةٌ،
+> وسَلامَةُ الجِسمِ مُسْتَحيلَةٌ.
 
 108. The worst poverty is [false] aspiration.
 
@@ -618,5 +550,4 @@ hopes.
 115. Whoever lengthens his hopes, corrupts his actions.
 
 > 115ـ مَنْ أطالَ أمَلَهُ أفْسَدَ عَمَلَهُ.
-
 

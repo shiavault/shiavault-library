@@ -1178,4 +1178,3 @@ Ahmad Ali from Madras City.
 
 [^2]: G. Sale's translation of the Koran, Introduction, p.VII.
 
-

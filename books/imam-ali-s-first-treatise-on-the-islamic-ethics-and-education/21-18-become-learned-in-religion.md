@@ -1,11 +1,7 @@
 18) Become Learned in Religion
 ==============================
 
-<blockquote dir="rtl">
-  <p>
-وتفقه في الدين"
-  </p>
-</blockquote>
+> وتفقه في الدين"
 
 It is true that knowledge is light and ignorance is darkness; and it is
 also obvious that light is better than darkness, but lights are of
@@ -68,5 +64,4 @@ is meant one who has insight into different dimensions of religion.
 [^4]: . Kanz al-Ummal, vol.10, p.137, Hadith 28690.
 
 [^5]: .Usul al-Kafi, vol.1, p.31. .
-
 

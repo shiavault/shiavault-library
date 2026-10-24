@@ -74,7 +74,6 @@ bed side.
 He was buried besides his father in their family cemetary at Narowal,
 Pakistan.
 
-
 A Humble Request from the Reader
 Dear Brother/Sister in Islam,
 
@@ -86,7 +85,6 @@ and make available means for your salvation in the hereafter. May
 Muhammad wa Ale Muhammad shower you with peace and tranquility in this
 world and the next, Amin. Sayyeda Begum Mumtaz Manzil, Narowal,
 Pakistan
-
 
 **Author's Foreword**
 
@@ -213,7 +211,6 @@ children and be read and memorized as intended by the author. This book
 will also provide a stimulus to young people to carry out research on
 their own, frequently referring to the Qur'an and improving their lives
 through proper understanding of the Divine Message.
-
 
 Syed Haider H. Shamsi
 Demarest, New Jersey, USA (1994)
@@ -399,5 +396,4 @@ human beings. It therefore behoves mankind to avoid this terrible
 emotion which leads to a lot of sins.
 
 References : al Qur'an: Sura Maidah.
-
 

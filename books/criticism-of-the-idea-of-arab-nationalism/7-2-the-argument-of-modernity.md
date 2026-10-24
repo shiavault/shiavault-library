@@ -82,7 +82,6 @@ that only reveals the depth to which that doctrine is attached to Europe
 in contradiction to its declared principles, at least from the
 theoretical point of view.
 
-
 **3. The Argument of 'Practicality**
 
 With the weakness of their ideas being felt more and more, the Arab
@@ -158,5 +157,4 @@ argument that the nationalists must have imported from bourgeois Europe
 of the last century. In this attitude, they do not only attribute
 revolutionary (and, hence, 'progressive') tendencies to Islam but
 also.
-
 

@@ -15,21 +15,13 @@ It has been narrated that the 6th Imam, Ja’far as-Sadiq (Peace be upon
 him), quoting his forefathers, quoting the Messenger of Allah, Muhammad
 (Peace be upon him and his progeny), said:
 
-<blockquote dir="rtl">
-  <p>
-قال الإمام جعفر بن محمّد الصادق (عَلَيْهِ اَلسَّلاَمُ ‏):
-  </p>
-</blockquote>
+> قال الإمام جعفر بن محمّد الصادق (عَلَيْهِ اَلسَّلاَمُ ‏):
 
-<blockquote dir="rtl">
-  <p>
-”لَوْ كَانَ عَلى بَابَ اَحَدِكُمْ نَهْرٌ فَاغْتَسَلَ مِنْهُ كُلَّ
-يَوْمٍ خَمْسَ مَرَّاتٍ هَلْ كَانَ يَبْقى عَلى جَسَدِهِ مِنَ الدَّرَنِ
-شَئٌ اِنَّمَا مَثَلُ الصَّلاةِ مَثَلُ النَّهْرِ الَّذِى يُنْقى
-كُلَّمَا صَلَّى صَلاةً كَانَ كَفَّارَةً لِذُنُوبِهِ اِلاَّ ذَنْبٌ
-اَخْرَجَهُ مِنَ الإِيْمَانِ مُقِيْمٌ عَلَيْهِ “.
-  </p>
-</blockquote>
+> ”لَوْ كَانَ عَلى بَابَ اَحَدِكُمْ نَهْرٌ فَاغْتَسَلَ مِنْهُ كُلَّ
+> يَوْمٍ خَمْسَ مَرَّاتٍ هَلْ كَانَ يَبْقى عَلى جَسَدِهِ مِنَ الدَّرَنِ
+> شَئٌ اِنَّمَا مَثَلُ الصَّلاةِ مَثَلُ النَّهْرِ الَّذِى يُنْقى
+> كُلَّمَا صَلَّى صَلاةً كَانَ كَفَّارَةً لِذُنُوبِهِ اِلاَّ ذَنْبٌ
+> اَخْرَجَهُ مِنَ الإِيْمَانِ مُقِيْمٌ عَلَيْهِ “.
 
 > بهار الأنوار: ج82 ص236
 
@@ -371,141 +363,73 @@ recites the Adhan and Iqamah, and then starts the Salat.
 
 ### Adhan
 
-<blockquote dir="rtl">
-  <p>
-”اللهَ اَكْبَرُ “
-  </p>
-</blockquote>
+> ”اللهَ اَكْبَرُ “
 
 4 Times
 
-<blockquote dir="rtl">
-  <p>
-”أَشْهَدُ أَنْ لا اِلَهَ اِلاّ اللهُ “
-  </p>
-</blockquote>
+> ”أَشْهَدُ أَنْ لا اِلَهَ اِلاّ اللهُ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ “
-  </p>
-</blockquote>
+> ”أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”حَيَّ عَلى الْصَلاةِ “
-  </p>
-</blockquote>
+> ”حَيَّ عَلى الْصَلاةِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”حَيَّ عَلى الْفَلاحِ “
-  </p>
-</blockquote>
+> ”حَيَّ عَلى الْفَلاحِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”حَيَّ عَلى خَيْرِ الْعَمَلِ “
-  </p>
-</blockquote>
+> ”حَيَّ عَلى خَيْرِ الْعَمَلِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”اللهَ أَكْبَرُ “
-  </p>
-</blockquote>
+> ”اللهَ أَكْبَرُ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”لا اِلَهَ اِلاّ اللهُ “
-  </p>
-</blockquote>
+> ”لا اِلَهَ اِلاّ اللهُ “
 
 2 Times
 
 ### Iqamah
 
-<blockquote dir="rtl">
-  <p>
-”اللهَ أَكْبَرُ “
-  </p>
-</blockquote>
+> ”اللهَ أَكْبَرُ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”أَشْهَدُ أَنْ لا اِلَهَ اِلاّ اللهُ “
-  </p>
-</blockquote>
+> ”أَشْهَدُ أَنْ لا اِلَهَ اِلاّ اللهُ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ “
-  </p>
-</blockquote>
+> ”أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”حَيَّ عَلى الْصَلاةِ “
-  </p>
-</blockquote>
+> ”حَيَّ عَلى الْصَلاةِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”حَيَّ عَلى الْفَلاحِ “
-  </p>
-</blockquote>
+> ”حَيَّ عَلى الْفَلاحِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”حَيَّ عَلى خَيْرِ الْعَمَلِ “
-  </p>
-</blockquote>
+> ”حَيَّ عَلى خَيْرِ الْعَمَلِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”قَدْ قَامَتِ الصَّلاةِ “
-  </p>
-</blockquote>
+> ”قَدْ قَامَتِ الصَّلاةِ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”اللهَ أَكْبَرُ “
-  </p>
-</blockquote>
+> ”اللهَ أَكْبَرُ “
 
 2 Times
 
-<blockquote dir="rtl">
-  <p>
-”لا اِلَهَ اِلاّ اللهُ “
-  </p>
-</blockquote>
+> ”لا اِلَهَ اِلاّ اللهُ “
 
 1 Time
 
@@ -684,11 +608,7 @@ Qur’an, for example Surah al-Tawhid.
 
 #### Surah al-Tawhid
 
-<blockquote dir="rtl">
-  <p>
-”بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ “
-  </p>
-</blockquote>
+> ”بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ “
 
 > ”قُلْ هُوَ اللَّهُ أَحَدٌ  “{1}
 
@@ -704,12 +624,8 @@ once, it is sufficient.
 
 #### Tasbihat al-Arbah
 
-<blockquote dir="rtl">
-  <p>
-”سُبْحَانَ للهِ وَ الْحَمْدُ للهِ وَ لاَ إِلَهَ اِلاَ اللهُ وَ اللهُ
-أَكْبَرُ “
-  </p>
-</blockquote>
+> ”سُبْحَانَ للهِ وَ الْحَمْدُ للهِ وَ لاَ إِلَهَ اِلاَ اللهُ وَ اللهُ
+> أَكْبَرُ “
 
 The Rules of Recitation (Qira’at)
 ---------------------------------
@@ -887,14 +803,10 @@ it is Mustahab.
 [The following Dua' has been recommended to be read while in Sajdah.]
 (Translators note)
 
-<blockquote dir="rtl">
-  <p>
-لا اِلَهَ اِلاّ اللهُ حَقاً حَقاً لا اِلَهَ اِلاّ اللهُ اِيْمَاناً وَ
-تَصْدِيْقاً لا اِلَهَ اِلاّ اللهُ عُبُوْدِيَّةً وَ رِقاً سَجَدْتُ لَكَ
-يَارَبِّ تَعَبُداً وَ رَقاً لا مُسْتَنْكِفاً وَ لا مُسْتَكْبِراً بَلْ
-اَنَا عَبْدٌ ذَلِيْلٌ ضَغِيْفٌ خَائِفٌ مُسْتَجِيْرٌ
-  </p>
-</blockquote>
+> لا اِلَهَ اِلاّ اللهُ حَقاً حَقاً لا اِلَهَ اِلاّ اللهُ اِيْمَاناً وَ
+> تَصْدِيْقاً لا اِلَهَ اِلاّ اللهُ عُبُوْدِيَّةً وَ رِقاً سَجَدْتُ لَكَ
+> يَارَبِّ تَعَبُداً وَ رَقاً لا مُسْتَنْكِفاً وَ لا مُسْتَكْبِراً بَلْ
+> اَنَا عَبْدٌ ذَلِيْلٌ ضَغِيْفٌ خَائِفٌ مُسْتَجِيْرٌ
 
 Tashahhud
 ---------
@@ -903,24 +815,12 @@ Issue 240: In the second Rak’at, and at the end of the Wajib Salat,
 after the second Sajdah one must sit, and in a state of complete
 stillness, recite the Tashahhud. One must say:
 
-<blockquote dir="rtl">
-  <p>
-" اَشْهَدُ اَنْ لا اِلَهَ اِلاّ اللهُ وَحْدَهُ لا شَرِيْكَ لَهُ وَ
-اَشْهَدُ اَنَّ مُحَّمَداً عَبْدُهُ وَ رَسُوْلُهُ
-  </p>
-</blockquote>
+> " اَشْهَدُ اَنْ لا اِلَهَ اِلاّ اللهُ وَحْدَهُ لا شَرِيْكَ لَهُ وَ
+> اَشْهَدُ اَنَّ مُحَّمَداً عَبْدُهُ وَ رَسُوْلُهُ
 
-<blockquote dir="rtl">
-  <p>
-"
-  </p>
-</blockquote>
+> "
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ “
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ “
 
 Salam
 -----
@@ -931,17 +831,9 @@ be recited, and after this, the Salat will be completed.
 Issue 242: The Wajib amount of the Salam that must be recited is one of
 the two following sentences:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْنَا وَ عَلى عِبَادِ اللهِ الصَّالِحِيْنَ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْنَا وَ عَلى عِبَادِ اللهِ الصَّالِحِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-“اَلسَّلامُ عَلَيْكُمٌ وَ رَحْمَةُ اللهِ وَ بَرَكاَتُهُ
-  </p>
-</blockquote>
+> “اَلسَّلامُ عَلَيْكُمٌ وَ رَحْمَةُ اللهِ وَ بَرَكاَتُهُ
 
 But, if the first Salam (as mentioned above) is read, then according to
 Ihtiyat Wajib, the second Salam too must be read.
@@ -949,12 +841,8 @@ Ihtiyat Wajib, the second Salam too must be read.
 It is Mustahab that after the Tashahhud and before the Salam (the
 sentences mentioned above), the following Salam be read:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ اَيُّهاَ النَّبِيُّ وَ رَحْمَةُ اللهِ وَ
-بَرَكَاتُهُ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ اَيُّهاَ النَّبِيُّ وَ رَحْمَةُ اللهِ وَ
+> بَرَكَاتُهُ
 
 Tartib (Sequential)
 -------------------
@@ -990,12 +878,8 @@ Issue 248: Whatever Dhikr that is recited in Qunut is sufficient, even
 as much as “ سُبْحَانَ اللهِ” and one can also recite the following
 Dua’:
 
-<blockquote dir="rtl">
-  <p>
-( رَبَّنَا آتِناَ في الدُّنْيا حَسَنَةً وَّ في الأَخِرَةِ حَسَنَةً وّ
-قِنَا عَذَابَ النَّار )َ
-  </p>
-</blockquote>
+> ( رَبَّنَا آتِناَ في الدُّنْيا حَسَنَةً وَّ في الأَخِرَةِ حَسَنَةً وّ
+> قِنَا عَذَابَ النَّار )َ
 
 Ta’qib Salat
 ------------
@@ -1141,141 +1025,73 @@ Translation of the Adhan & Iqamah
 
 ### Translation of the Adhan
 
-<blockquote dir="rtl">
-  <p>
-“اللهَ أَكْبَرُ”
-  </p>
-</blockquote>
+> “اللهَ أَكْبَرُ”
 
 Allah is the Greatest
 
-<blockquote dir="rtl">
-  <p>
-“أَشْهَدُ أَنْ لا إِلَهَ إِلا اللهُ”
-  </p>
-</blockquote>
+> “أَشْهَدُ أَنْ لا إِلَهَ إِلا اللهُ”
 
 I bear witness that there is no god except Allah
 
-<blockquote dir="rtl">
-  <p>
-“أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ”
-  </p>
-</blockquote>
+> “أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ”
 
 I bear witness that Muhammad is the Messenger of Allah
 
-<blockquote dir="rtl">
-  <p>
-“حَيَّ عَلى الْصَلاةِ”
-  </p>
-</blockquote>
+> “حَيَّ عَلى الْصَلاةِ”
 
 Hurry up to the Salat
 
-<blockquote dir="rtl">
-  <p>
-“حَيَّ عَلى الْفَلاحِ”
-  </p>
-</blockquote>
+> “حَيَّ عَلى الْفَلاحِ”
 
 Hurry up to Success
 
-<blockquote dir="rtl">
-  <p>
-“حَيَّ عَلى خَيْرِ الْعَمَلِ”
-  </p>
-</blockquote>
+> “حَيَّ عَلى خَيْرِ الْعَمَلِ”
 
 Hurry up to the best of actions
 
-<blockquote dir="rtl">
-  <p>
-“اللهَ أَكْبَرُ”
-  </p>
-</blockquote>
+> “اللهَ أَكْبَرُ”
 
 Allah is the Greatest
 
-<blockquote dir="rtl">
-  <p>
-“لا إِلَهَ إِلا اللهُ”
-  </p>
-</blockquote>
+> “لا إِلَهَ إِلا اللهُ”
 
 There is no god except Allah
 
 ### Translation of the Iqamah
 
-<blockquote dir="rtl">
-  <p>
-“اللهَ أَكْبَرُ”
-  </p>
-</blockquote>
+> “اللهَ أَكْبَرُ”
 
 Allah is the Greatest
 
-<blockquote dir="rtl">
-  <p>
-“أَشْهَدُ أَنْ لا إِلَهَ إِلا اللهُ”
-  </p>
-</blockquote>
+> “أَشْهَدُ أَنْ لا إِلَهَ إِلا اللهُ”
 
 I beat witness that there is no god except Allah
 
-<blockquote dir="rtl">
-  <p>
-“أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ”
-  </p>
-</blockquote>
+> “أَشْهَدُ أَنَّ مُحَمَّداً رَسُوْلُ اللهِ”
 
 I bear witness that Muhammad is the Messenger of Allah
 
-<blockquote dir="rtl">
-  <p>
-“حَيَّ عَلى الْصَلاةِ”
-  </p>
-</blockquote>
+> “حَيَّ عَلى الْصَلاةِ”
 
 Hurry up to the Salat
 
-<blockquote dir="rtl">
-  <p>
-“حَيَّ عَلى الْفَلاحِ”
-  </p>
-</blockquote>
+> “حَيَّ عَلى الْفَلاحِ”
 
 Hurry up to Prosperity
 
-<blockquote dir="rtl">
-  <p>
-“حَيَّ عَلى خَيْرِ الْعَمَلِ”
-  </p>
-</blockquote>
+> “حَيَّ عَلى خَيْرِ الْعَمَلِ”
 
 Hurry up to the Best of Actions
 
-<blockquote dir="rtl">
-  <p>
-“قَدْ قَامَتِ الصَّلاةِ”
-  </p>
-</blockquote>
+> “قَدْ قَامَتِ الصَّلاةِ”
 
 The Salat is being established
 
-<blockquote dir="rtl">
-  <p>
-“اللهَ أَكْبَرُ”
-  </p>
-</blockquote>
+> “اللهَ أَكْبَرُ”
 
 Allah is the Greatest
 
-<blockquote dir="rtl">
-  <p>
-“لا إِلَهَ إِلا اللهُ”
-  </p>
-</blockquote>
+> “لا إِلَهَ إِلا اللهُ”
 
 There is no god except Allah
 
@@ -1284,200 +1100,112 @@ Translation of the Salat
 
 ### Takbiratul Ihram
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ أَكْبَرُ
-  </p>
-</blockquote>
+> اَللهُ أَكْبَرُ
 
 Allah is the Greatest
 
 ### Surah al-Fatiha
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 In the Name of Allah, The Most Beneficent, the Most Merciful
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
 
 All Praise is due to Allah, Lord of the Worlds
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> الرَّحْمَنِ الرَّحِيمِ
 
 The Most Beneficent, the Most Merciful
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 Master of the Day of Judgement
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
-  </p>
-</blockquote>
+> إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
 
 You alone do we worship, and You alone do we ask for help
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
 
 Keep us on the straight path,
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ
-وَلاَ الضَّالِّينَ
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ
+> وَلاَ الضَّالِّينَ
 
 The path of those who have earned your blessings, not of those who have
 earned your wrath, nor those who have gone astray.
 
 ### Surah al-Ikhlas
 
-<blockquote dir="rtl">
-  <p>
-“بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ”
-  </p>
-</blockquote>
+> “بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ”
 
 In the name of Allah, the Most Beneficent, the Most Merciful
 
-<blockquote dir="rtl">
-  <p>
-“قُلْ هُوَ اللَّهُ اَحَدٌ ”
-  </p>
-</blockquote>
+> “قُلْ هُوَ اللَّهُ اَحَدٌ ”
 
 Say (O’ Muhammad!) He is Allah, The One
 
-<blockquote dir="rtl">
-  <p>
-“اللَّهُ الصَّمَدُ ”
-  </p>
-</blockquote>
+> “اللَّهُ الصَّمَدُ ”
 
 Allah, the Self-Existent
 
-<blockquote dir="rtl">
-  <p>
-“لَمْ يَلِدْ وَلَمْ يُولَدْ ”
-  </p>
-</blockquote>
+> “لَمْ يَلِدْ وَلَمْ يُولَدْ ”
 
 He does not beget, nor is He begotten
 
-<blockquote dir="rtl">
-  <p>
-“وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ ”
-  </p>
-</blockquote>
+> “وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ ”
 
 And there is nothing like Him.
 
 ### Dhikr in Ruku
 
-<blockquote dir="rtl">
-  <p>
-“سُبْحَانَ رَبَّ الْعَظِيْمِ وَ بِحَمْدِهِ”
-  </p>
-</blockquote>
+> “سُبْحَانَ رَبَّ الْعَظِيْمِ وَ بِحَمْدِهِ”
 
 Glory and praise be to my Lord, the Magnificent
 
 ### Dhikr in Sujud
 
-<blockquote dir="rtl">
-  <p>
-“سُبْحَانَ رَبَّ الاَعْلى وَ بِحَمْدِهِ”
-  </p>
-</blockquote>
+> “سُبْحَانَ رَبَّ الاَعْلى وَ بِحَمْدِهِ”
 
 Glory and praise be to my Lord, the Highest
 
 ### Tasbihat al-Arbah
 
-<blockquote dir="rtl">
-  <p>
-“سُبْحَانَ للهِ وَ الْحَمْدُ للهِ وَ لاَ إِلَهَ اِلاَ اللهُ وَ اللهُ
-أَكْبَرُ”
-  </p>
-</blockquote>
+> “سُبْحَانَ للهِ وَ الْحَمْدُ للهِ وَ لاَ إِلَهَ اِلاَ اللهُ وَ اللهُ
+> أَكْبَرُ”
 
 Glory be to Allah, and all praise belongs to Allah, there is no god
 except Allah, and Allah is the greatest
 
 ### Tashahhud and Salam
 
-<blockquote dir="rtl">
-  <p>
-“أَشْهَدُ أَنْ لا اِلَهَ اِلاّ اللهُ وَحْدَهُ لا شَرِيْكَ لَهُ”
-  </p>
-</blockquote>
+> “أَشْهَدُ أَنْ لا اِلَهَ اِلاّ اللهُ وَحْدَهُ لا شَرِيْكَ لَهُ”
 
 I bear witness that there is no god except Allah,
 
 the One who has no partners,
 
-<blockquote dir="rtl">
-  <p>
-“"وَ أَشْهَدُ أَنَّ مُحَّمَداً عَبْدُهُ وَ رَسُوْلُهُ “
-  </p>
-</blockquote>
+> “"وَ أَشْهَدُ أَنَّ مُحَّمَداً عَبْدُهُ وَ رَسُوْلُهُ “
 
 I bear witness that Muhammad is His servant and His Messenger
 
-<blockquote dir="rtl">
-  <p>
-أ”َللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ “
-  </p>
-</blockquote>
+> أ”َللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ “
 
 O’ Allah, send Your blessings on Muhammad and the family of Muhammad.
 
-<blockquote dir="rtl">
-  <p>
-“اَلسَّلامُ عَلَيْكَ اَيُّهاَ النَّبِيُّ وَ رَحْمَةُ اللهِ وَ
-بَرَكَاتُهُ”
-  </p>
-</blockquote>
+> “اَلسَّلامُ عَلَيْكَ اَيُّهاَ النَّبِيُّ وَ رَحْمَةُ اللهِ وَ
+> بَرَكَاتُهُ”
 
 Peace be upon you, O’ Prophet, and may the mercy of Allah
 
 and His blessings be upon you,
 
-<blockquote dir="rtl">
-  <p>
-“اَلسَّلامُ عَلَيْنَا وَ عَلى عِبَادِ اللهِ الصَّالِحِيْنَ”
-  </p>
-</blockquote>
+> “اَلسَّلامُ عَلَيْنَا وَ عَلى عِبَادِ اللهِ الصَّالِحِيْنَ”
 
 Peace be upon us, and on the righteous servants of Allah,
 
-<blockquote dir="rtl">
-  <p>
-“اَلسَّلامُ عَلَيْكُمٌ وَ رَحْمَةُ اللهِ وَ بَرَكاَتُهُ”
-  </p>
-</blockquote>
+> “اَلسَّلامُ عَلَيْكُمٌ وَ رَحْمَةُ اللهِ وَ بَرَكاَتُهُ”
 
 Peace be upon you, and may the mercy of Allah and His Blessings be on
 you.
@@ -1610,35 +1338,19 @@ doubt occurs between the fourth and fifth Rak’at in the state of
 sitting, then after the Salam of the Salat, one must go directly into
 Sajdah and reciting the following:
 
-<blockquote dir="rtl">
-  <p>
-“بِسْمِ اللهِ وَ بِاللهِ وَ صَلَّى اللهُ عَلى مُحَمَّدٍ وَّ آلِهِ”
-  </p>
-</blockquote>
+> “بِسْمِ اللهِ وَ بِاللهِ وَ صَلَّى اللهُ عَلى مُحَمَّدٍ وَّ آلِهِ”
 
 Or
 
-<blockquote dir="rtl">
-  <p>
-“بِسمْ اللهِ وَ بِاللهِ اَللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ
-مُحَمَّدٍ”
-  </p>
-</blockquote>
+> “بِسمْ اللهِ وَ بِاللهِ اَللَّهُمَّ صَلَّى عَلى مُحَمَّدٍ وَّ آلِ
+> مُحَمَّدٍ”
 
 Or
 
-<blockquote dir="rtl">
-  <p>
-“بِسْمِ اللهِ وَ بِاللهِ اَلسَّلامُ عَلَيْكَ اَيًّهاَ النَّبِيُّ وَ
-رَحْمَةُ اللهِ وَ بَرَكَاتُهُ
-  </p>
-</blockquote>
+> “بِسْمِ اللهِ وَ بِاللهِ اَلسَّلامُ عَلَيْكَ اَيًّهاَ النَّبِيُّ وَ
+> رَحْمَةُ اللهِ وَ بَرَكَاتُهُ
 
-<blockquote dir="rtl">
-  <p>
-”
-  </p>
-</blockquote>
+> ”
 
 Then one shold sit up, go back into Sajdah and again recite one of the
 above Dhikr, then sit back up and recite the Tashahhud and Salam.
@@ -2190,21 +1902,17 @@ performs two Sajdah, and then finishes off with Tashahhud and Salam.
 • In the Qunut of Salatul-’Eid, any Dua’ or Dhikr that is recited is
 sufficient, but it is better that the following Dua’ is prayed:
 
-<blockquote dir="rtl">
-  <p>
-( اَللّهُمَّ اَهْلَ الْكِبْرِيَاءِ وَ الْعَظَمَةِ وَ اَهْلَ الْجُوْدِ
-وَ الْجَبَرُوْتِ وَ اَهْلَ الْعَفْوِ وَ الرَّحْمَةِ وَ اَهْلَ
-التَّقْوى وَ الْمَغْفِرَةِ اَسْأَلُكَ بِحَقِّ هَذَا الْيَوْمِ الِّذِي
-جَعَلْتَهُ لِلْمُسْلِمِيْنَ عِيْداً وَ لِمُحَمَّدٍ صَلى اللهُ عَلَيْهِ
-وَ آلِهِ ذُخُراً وَ شَرَفاً وَ كِرَامَةً وَ مَزِيْداً اَنْ تُصَلِّى
-عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ اَنْ تُدْخِلَنِي فِي كُلِّ خَيْرٍ
-اَدْخَلْتَ فِيْهِ مُحَمَّداً وَ آلِ مُحَمَّدٍ وَ اَنْ تُخْرِجَنِي مِنْ
-كُلِّ سُوْءٍ اَخْرَجْتَ مِنْهُ مُحَمَّداً وَ آلِ مُحَمَّدٍ صَلَوَاتُكَ
-عَلَيْهِ وَ عَلِيْهِمٌ اَللَّهُمَّ اِنِّي اَسْأَلُكَ خَيْرَ مَا
-سَأَلَكَ بِهِ عِبَادُكَ الصَّالِحُوْنَ وَ اَعُوْذُبِكَ مِمَّا
-اسْتَعَاذُ مِنْهُ عِبَادُكَ الْمُخْلِصُوْنَ )
-  </p>
-</blockquote>
+> ( اَللّهُمَّ اَهْلَ الْكِبْرِيَاءِ وَ الْعَظَمَةِ وَ اَهْلَ الْجُوْدِ
+> وَ الْجَبَرُوْتِ وَ اَهْلَ الْعَفْوِ وَ الرَّحْمَةِ وَ اَهْلَ
+> التَّقْوى وَ الْمَغْفِرَةِ اَسْأَلُكَ بِحَقِّ هَذَا الْيَوْمِ الِّذِي
+> جَعَلْتَهُ لِلْمُسْلِمِيْنَ عِيْداً وَ لِمُحَمَّدٍ صَلى اللهُ عَلَيْهِ
+> وَ آلِهِ ذُخُراً وَ شَرَفاً وَ كِرَامَةً وَ مَزِيْداً اَنْ تُصَلِّى
+> عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ اَنْ تُدْخِلَنِي فِي كُلِّ خَيْرٍ
+> اَدْخَلْتَ فِيْهِ مُحَمَّداً وَ آلِ مُحَمَّدٍ وَ اَنْ تُخْرِجَنِي مِنْ
+> كُلِّ سُوْءٍ اَخْرَجْتَ مِنْهُ مُحَمَّداً وَ آلِ مُحَمَّدٍ صَلَوَاتُكَ
+> عَلَيْهِ وَ عَلِيْهِمٌ اَللَّهُمَّ اِنِّي اَسْأَلُكَ خَيْرَ مَا
+> سَأَلَكَ بِهِ عِبَادُكَ الصَّالِحُوْنَ وَ اَعُوْذُبِكَ مِمَّا
+> اسْتَعَاذُ مِنْهُ عِبَادُكَ الْمُخْلِصُوْنَ )
 
 ### The Nafilah of the Daily Salat
 
@@ -2252,38 +1960,26 @@ Ghufailah, which is performed between Salatul Maghrib and ‘Isha.
 Issue 353: Salatul Ghufailah consists of two Rak’at, and in the first
 Rak’at, after al-Hamd, the following ayah must be read:
 
-<blockquote dir="rtl">
-  <p>
-( وَ ذَا النُّوْنِ اِذْ ذَهَبَ مُغَاضِـباً فَظَنَّ اَنْ لَنْ نَقْدِرَ
-عَلَيْهِ فَنَادى فِي الظُّلُمَاتِ اَنْ لا إِلَهَ اِلاّ اَنْتَ
-سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ فَاسْتَجَبْنَالَهُ وَ
-نَجَّيْنَاهُ مِنَ الْغَمِّ وَ كَذَلِكَ نُنْجِي الْمُؤْمِنِينَ )
-  </p>
-</blockquote>
+> ( وَ ذَا النُّوْنِ اِذْ ذَهَبَ مُغَاضِـباً فَظَنَّ اَنْ لَنْ نَقْدِرَ
+> عَلَيْهِ فَنَادى فِي الظُّلُمَاتِ اَنْ لا إِلَهَ اِلاّ اَنْتَ
+> سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ فَاسْتَجَبْنَالَهُ وَ
+> نَجَّيْنَاهُ مِنَ الْغَمِّ وَ كَذَلِكَ نُنْجِي الْمُؤْمِنِينَ )
 
 And in the second Rak’at, after al-Hamd, the following ayah is read:
 
-<blockquote dir="rtl">
-  <p>
-( وَ عِنْدَهُ مَفاَتِحُ الْغَيْبِ لا يَعْلَمُهَا اِلاّ هُوَ وَ
-يَعْلَمُ مَا فِي الْبَرِّ وَ الْبَحْرِ وَ مَا تَسْقُطُ مِنْ وَرَقَةٍ
-اِلاّ يَعْلَمُهَا وَ لا حَبَّةٍ فِي ظُلُمَاتِ الأَرْضِ وَ لا رَطْبٍ وَ
-لا يَابِسٍ اِلاّ فِي كِتَاتٍ مُبِينٍ
-  </p>
-</blockquote>
+> ( وَ عِنْدَهُ مَفاَتِحُ الْغَيْبِ لا يَعْلَمُهَا اِلاّ هُوَ وَ
+> يَعْلَمُ مَا فِي الْبَرِّ وَ الْبَحْرِ وَ مَا تَسْقُطُ مِنْ وَرَقَةٍ
+> اِلاّ يَعْلَمُهَا وَ لا حَبَّةٍ فِي ظُلُمَاتِ الأَرْضِ وَ لا رَطْبٍ وَ
+> لا يَابِسٍ اِلاّ فِي كِتَاتٍ مُبِينٍ
 
 And in the Qunut, this Dua’ is read:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إِنِّي اَسْأَلُكَ بِمِفَاتِحِ الْغَيْبِ الَّتِي لا
-يَعْلَمُهَا اِلاّ اَنْتَ اَنْ تُصَلِّى عَلى مُحَمَّدٍ وَّ آلِ
-مُحَمَّدٍ وَّ اَنْ تَقْضِى حَوَائِجِي فِي الدُّنْياَ وَ الأَخِرَةِ
-اَللَّهُمَّ اَنْتَ وَلِّي نِعْمَتِي وَ الْقَادِرُ عَلى طَلِبَتِي
-تَعْلَمُ حَاجَتِي فَأَسْأَلُكَ بِحَقِّ مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ
-عَلَيْهِ وَ عَلَيْهمُ السَّلامُ لَمَّا قَضَيْتَهَالِي
-  </p>
-</blockquote>
+> اَللَّهُمَّ إِنِّي اَسْأَلُكَ بِمِفَاتِحِ الْغَيْبِ الَّتِي لا
+> يَعْلَمُهَا اِلاّ اَنْتَ اَنْ تُصَلِّى عَلى مُحَمَّدٍ وَّ آلِ
+> مُحَمَّدٍ وَّ اَنْ تَقْضِى حَوَائِجِي فِي الدُّنْياَ وَ الأَخِرَةِ
+> اَللَّهُمَّ اَنْتَ وَلِّي نِعْمَتِي وَ الْقَادِرُ عَلى طَلِبَتِي
+> تَعْلَمُ حَاجَتِي فَأَسْأَلُكَ بِحَقِّ مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ
+> عَلَيْهِ وَ عَلَيْهمُ السَّلامُ لَمَّا قَضَيْتَهَالِي
 
 [^1]: In most cities, like Makkah, the shadow completely disappears, so
 when it reappears again, it indicates that Zuhr has started.
@@ -2319,5 +2015,4 @@ on the day of ‘Eid al-Fitr. (See Issue 384)
 
 [^12]: For more information on the Nafilah of the daily Salat, please
 refer to the Tauzhiul Masa’il, rule number 772.
-
 

@@ -3,12 +3,8 @@ Lesson Seventy Four: Correct Program For World And Hereafter
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إِعْمَلْ لِدُنْياكَ كَأَنَّكَ تَعِيشُ أَبَداً وَ إِعْمَلْ لاِخِرَتِكَ
-كَأَنَّك تَمُوتُ غَدَاً
-  </p>
-</blockquote>
+> إِعْمَلْ لِدُنْياكَ كَأَنَّكَ تَعِيشُ أَبَداً وَ إِعْمَلْ لاِخِرَتِكَ
+> كَأَنَّك تَمُوتُ غَدَاً
 
 Translation
 -----------
@@ -36,5 +32,4 @@ ends in matters of his obligations and rights of others.
 
 [^1]: Sayings of the Imams volume 2, page 277. Men La Yahtharuhu
 AlFaqih, vol 3, page 156. Wasa'il Al-Shia, vol 17, page 76.
-
 

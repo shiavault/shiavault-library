@@ -8,12 +8,8 @@ assistance through angels – Allah's pardon.
 Surah 'Ali-Imran, Verse 121
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ
-لِلْقِتَالِ وَاللّهُ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ
+> لِلْقِتَالِ وَاللّهُ سَمِيعٌ عَلِيمٌ
 
 **121.** ***"And (remember) when you did set forth from your house folk
 at daybreak to lodge the believers in encampments for the battle (of
@@ -51,12 +47,8 @@ house folk.
 Surah 'Ali-Imran, Verse 122
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلاَ وَاللّهُ وَلِيُّهُمَا
-وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلاَ وَاللّهُ وَلِيُّهُمَا
+> وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
 **122.** ***"When two parties of you had decided to flinch but Allah was
 the protector of them both (and helped them to change their thought);
@@ -98,12 +90,8 @@ remedy is in the hands of the believers.
 Surah 'Ali-Imran, Verse 123
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَصَرَكُمُ اللّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ فَاتَّقُواْ
-اللّهَ لَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ نَصَرَكُمُ اللّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ فَاتَّقُواْ
+> اللّهَ لَعَلَّكُمْ تَشْكُرُونَ
 
 **123.** ***"And certainly Allah did assist you at Badr when you were
 contemptibly scanty; so be in awe of Allah, in order that you might be
@@ -138,12 +126,8 @@ not proud of them, and be careful of your duty to *Allah.*
 Surah 'Ali-Imran, Verse 124
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيكُمْ أَن يُمِدَّكُمْ
-رَبُّكُم بِثَلاَثَةِ آلاَفٍ مِّنَ الْمَلآئِكَةِ مُنزَلِينَ
-  </p>
-</blockquote>
+> إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيكُمْ أَن يُمِدَّكُمْ
+> رَبُّكُم بِثَلاَثَةِ آلاَفٍ مِّنَ الْمَلآئِكَةِ مُنزَلِينَ
 
 ***124. "When you said to the believers: 'Will it never suffice you that
 your Lord should reinforce you with three thousand of angels sent down?'
@@ -164,13 +148,9 @@ Lord should reinforce you with three thousand of angels sent down?' "***
 Surah 'Ali-Imran, Verse 125
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلَى إِن تَصْبِرُواْ وَتَتَّقُواْ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـذَا
-يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ آلافٍ مِّنَ الْمَلآئِكَةِ
-مُسَوِّمِينَ
-  </p>
-</blockquote>
+> بَلَى إِن تَصْبِرُواْ وَتَتَّقُواْ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـذَا
+> يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ آلافٍ مِّنَ الْمَلآئِكَةِ
+> مُسَوِّمِينَ
 
 **125.** ***"Yes! If you be patiently steadfast and act aright even if
 they (the enemy) rush on you in such a headlong manner, your Lord will
@@ -205,12 +185,8 @@ manner..."***
 Surah 'Ali-Imran, Verse 126
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلَهُ اللّهُ إِلاَّ بُشْرَى لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم
-بِهِ وَمَا النَّصْرُ إِلاَّ مِنْ عِندِ اللّهِ الْعَزِيزِ الْحَكِيمِ
-  </p>
-</blockquote>
+> وَمَا جَعَلَهُ اللّهُ إِلاَّ بُشْرَى لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم
+> بِهِ وَمَا النَّصْرُ إِلاَّ مِنْ عِندِ اللّهِ الْعَزِيزِ الْحَكِيمِ
 
 **126.** ***"And Allah did not make it (the descending of angels) but as
 good tidings for you, and to reassure your hearts thereby; and there is
@@ -237,12 +213,8 @@ Wisdom.
 Surah 'Ali-Imran, Verse 127
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَقْطَعَ طَرَفًا مِّنَ الَّذِينَ كَفَرُواْ أَوْ يَكْبِتَهُمْ
-فَيَنقَلِبُواْ خَآئِبِينَ
-  </p>
-</blockquote>
+> لِيَقْطَعَ طَرَفًا مِّنَ الَّذِينَ كَفَرُواْ أَوْ يَكْبِتَهُمْ
+> فَيَنقَلِبُواْ خَآئِبِينَ
 
 **127.** ***"(The Divine help was for this) that He might cut off a part
 of the disbelievers or abase them so that they turn back
@@ -275,12 +247,8 @@ that at any moment the enemy be drawn to disappointment.
 Surah 'Ali-Imran, Verse 128
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ لَكَ مِنَ الأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ
-يُعَذَّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ
-  </p>
-</blockquote>
+> لَيْسَ لَكَ مِنَ الأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ
+> يُعَذَّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ
 
 **128.** ***"The affair is no concern at all of yours whether He turns
 towards them (mercifully) or punishes them, for verily, they are
@@ -324,12 +292,8 @@ and transgression.
 Surah 'Ali-Imran, Verse 129
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ يَغْفِرُ لِمَن
-يَشَاء وَيُعَذِّبُ مَن يَشَاء وَاللّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَلِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ يَغْفِرُ لِمَن
+> يَشَاء وَيُعَذِّبُ مَن يَشَاء وَاللّهُ غَفُورٌ رَّحِيمٌ
 
 **129.** ***"And to Allah belongs whatever is in the heavens and
 whatever is in the earth, He will forgive whom He wills, and will punish
@@ -354,5 +318,4 @@ the Wisdom of *Allah* and the bases that the person produces in oneself
 and in the society.
 
 ***"……and Allah is Forgiving, Merciful."***
-
 

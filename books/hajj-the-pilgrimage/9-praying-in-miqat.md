@@ -54,4 +54,3 @@ No longer will Satan, who rejected Allah's command, cheat you. No longer
 will you feel like a stranger. Shameful and apologetic, you return to
 Allah. But now you are free and responsible!
 
-

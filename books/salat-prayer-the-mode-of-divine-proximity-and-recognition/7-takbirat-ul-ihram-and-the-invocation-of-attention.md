@@ -23,16 +23,12 @@ the invocation of attention *(doa-e-tawajjoh)* which, in the narration
 of Abdullah Ibn Jafar Himyari (received in the *tawqee’* of Imam of the
 Time (May God hasten his re-appearence) is as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمواتِ وَ الأَرْضَ حَنِيفاً
-مُسْلِماً عَلى مِلَّةِ إِبْراهِيمَ وَ دِينِ مُحَمَّدٍ وَ هُدى أَمِيرِ
-الْمُؤْمِنِينَ. وَمَا أَنَا مِنَ الْمُشْرِكِينَ. إِنَّ صَلاَتِي وَ
-نُسُكِي وَ مَحْيَايَ وَ مَمَاتِي لِلّهِ رَبِّ الْعَالَمِينَ. لاَ
-شَرِيكَ لَهُ. وَ بِذلِكَ أَمِرْتُ. وَ اَنَا مِنَ الْمُسْلِمِينَ.
-اَللّهُمَّ اجْعَلْنِي مِنَ الْمُسْلِمِينَ.
-  </p>
-</blockquote>
+> وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمواتِ وَ الأَرْضَ حَنِيفاً
+> مُسْلِماً عَلى مِلَّةِ إِبْراهِيمَ وَ دِينِ مُحَمَّدٍ وَ هُدى أَمِيرِ
+> الْمُؤْمِنِينَ. وَمَا أَنَا مِنَ الْمُشْرِكِينَ. إِنَّ صَلاَتِي وَ
+> نُسُكِي وَ مَحْيَايَ وَ مَمَاتِي لِلّهِ رَبِّ الْعَالَمِينَ. لاَ
+> شَرِيكَ لَهُ. وَ بِذلِكَ أَمِرْتُ. وَ اَنَا مِنَ الْمُسْلِمِينَ.
+> اَللّهُمَّ اجْعَلْنِي مِنَ الْمُسْلِمِينَ.
 
 “I turn my face towards the One Who has created the heavens and the
 earth, being upright and submissive, on the nation of Ibrahim and the
@@ -58,5 +54,4 @@ those who submit to His wishes and may He not turn His attention away
 from us even for a moment.
 
 [^1]: al Ihtijaj, vol. 2, p.7; Wasa’il al shia, vol. 6, p.25
-
 

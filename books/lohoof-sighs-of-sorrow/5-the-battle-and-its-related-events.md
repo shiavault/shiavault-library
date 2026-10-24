@@ -1313,4 +1313,3 @@ Revelation: O Musa! If you appeal to me to pardon all from first to
 last, I will forgive them all except the killers of Husayn bin Ali bin
 Abi Talib (a.s.).
 
-

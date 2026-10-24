@@ -49,4 +49,3 @@ the eyes of people. They reject Qaim of progeny of Muhammad (a.t.f.s.)
 only because of their hatred towards right and rightful people and they
 reject the traditions narrated about him.
 
-

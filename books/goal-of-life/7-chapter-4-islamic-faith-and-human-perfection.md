@@ -220,4 +220,3 @@ his (and of the intellectual path Bacon and others have followed) is to
 place science in the service of power, and to recognize human perfection
 only in power.
 
-

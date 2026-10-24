@@ -294,7 +294,6 @@ NOTE: The numbers quoted above, after the names (in this Index and
 hereafter) are the serial number of the Traditions. INDEX II Names of
 Persons mentioned in the text of the Traditions
 
-
 Aba Hashim al-Ja،¥fari : 18; Adam . 2;
 
 ،¥Ali ibn Abi Tƒlalib (the first Imam) : 25;
@@ -311,7 +310,6 @@ Ibn Ras.li'l-Lah (i.e. grand-son and great grand-sons of the Holy
 Prophet Muhammad ،X p.b.u.h.a.h.p.) : 33;
 
 Ibn as-Sikk.t 20;
-
 
 Is'hƒuaq ibn ،¥Ammar : 19, 27;
 
@@ -336,5 +334,4 @@ Sama،¦ah ibn Mihran : 14; Shaytƒzan (i.e. Satan) : 10;
 **INDEX III**
 
 Names of the Places, Tribes and Religions Ban. Isra'.l (tribe) : 8
-
 

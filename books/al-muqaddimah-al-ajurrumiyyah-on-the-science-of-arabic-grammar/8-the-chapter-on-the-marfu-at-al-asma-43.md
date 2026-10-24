@@ -27,4 +27,3 @@ the Tābi‘ (follower or modifier) of the Marfū‘, and it is four things:
 the (1) Na‘t (qualifying adjective or descriptive noun), (2) ‘Aṭf
 (conjunction), (3) Taukīd (corroborative) and (4) Badal (substitute).
 
-

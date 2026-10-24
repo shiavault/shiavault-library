@@ -113,4 +113,3 @@ its explanation.
 can the argument for justice (‘adl) be returned to the argument for
 wisdom (hikmah)?
 
-

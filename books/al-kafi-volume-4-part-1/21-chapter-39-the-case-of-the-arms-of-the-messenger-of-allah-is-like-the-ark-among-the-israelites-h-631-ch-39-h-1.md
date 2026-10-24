@@ -43,7 +43,6 @@ the Ark with the Israelites. Wherever the Ark would go kingdom would
 also follow. Wherever the Armaments among us would go knowledge would
 also follow."
 
-
 **Chapter 40 : Statements about al-Jafr al-Jami' and the Book of Fatima
 (a.s.) H 635, Ch. 40, h 1**
 
@@ -248,5 +247,4 @@ The Imam (a.s.) said, "I was looking at the book of Fatima (a.s.).
 There is no king who would rule on earth with being listed therein by
 his name and the name of his father but I did not find the name of any
 of the descendent of al-Hassan therein."
-
 

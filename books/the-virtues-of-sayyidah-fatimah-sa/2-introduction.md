@@ -39,4 +39,3 @@ Tahir-ul-Qadri, in this book and many others in the series, has
 presented a cure for this cancer. The choice is now ours whether we want
 the true cure or opt for artificial ones.
 
-

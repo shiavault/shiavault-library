@@ -5,13 +5,9 @@ Shaykh Ibn Taymiyyah (d. 728 H) admits that Amir al-Muminin, *‘alaihi
 al-salam*, was the first human being ever to accept Islam from the
 Messenger of Allah, *sallallahu ‘alaihi wa alihi*:
 
-<blockquote dir="rtl">
-  <p>
-ثم فيه قول علي صليت ستة أشهر قبل الناس فهذا مما يعلم بطلانه بالضرورة
-فإن بين إسلامه وإسلام زيد وأبي بكر وخديحة يوما أو نحوه فكيف يصلي قبل
-الناس بستة أشهر
-  </p>
-</blockquote>
+> ثم فيه قول علي صليت ستة أشهر قبل الناس فهذا مما يعلم بطلانه بالضرورة
+> فإن بين إسلامه وإسلام زيد وأبي بكر وخديحة يوما أو نحوه فكيف يصلي قبل
+> الناس بستة أشهر
 
 Then, in it (i.e. the report) is the statement “’Ali performed *Salat*
 six months before anyone else”, this (statement) is one which is known
@@ -23,12 +19,8 @@ perform *Salat* six months before anyone else?[^1]
 So, ‘Ali accepted Islam one whole day before Khadijah, Zayd and Abu
 Bakr. But then, our dear Shaykh has a surprise package for us:
 
-<blockquote dir="rtl">
-  <p>
-قول القائل علي أول من صلى مع النبي صلى الله عليه و سلم ممنوع بل اكثر
-الناس على خلاف ذلك وان أبا بكر صلى قبله
-  </p>
-</blockquote>
+> قول القائل علي أول من صلى مع النبي صلى الله عليه و سلم ممنوع بل اكثر
+> الناس على خلاف ذلك وان أبا بكر صلى قبله
 
 The claim that ‘Ali was the first to perform *Salat* with the Messenger
 of Allah, peace be upon him, is impossible. **Rather, the majority** of
@@ -39,13 +31,9 @@ One wonders. Since Amir al-Muminin accepted Islam before Abu Bakr, how
 come the latter offered *Salat* before him? Shaykh Ibn Taymiyyah
 attempts to solve the puzzle:
 
-<blockquote dir="rtl">
-  <p>
-فان الناس متنازعون في أول من اسلم فقيل أبو بكر أول من اسلم فهو اسبق
-إسلاما من على وقيل أن عليا أسلم قبله لكن علي كان صغيرا وإسلام الصبي
-فيه نزاع بين العلماء ولا نزاع في أن إسلام أبي بكر أكمل وانفع
-  </p>
-</blockquote>
+> فان الناس متنازعون في أول من اسلم فقيل أبو بكر أول من اسلم فهو اسبق
+> إسلاما من على وقيل أن عليا أسلم قبله لكن علي كان صغيرا وإسلام الصبي
+> فيه نزاع بين العلماء ولا نزاع في أن إسلام أبي بكر أكمل وانفع
 
 The people disagreed about who accepted Islam first. It is said that Abu
 Bakr was the first to accept Islam, and therefore accepted Islam before
@@ -58,16 +46,12 @@ of ‘Ali).[^3]
 
 He adds:
 
-<blockquote dir="rtl">
-  <p>
-والصبي المولود بين أبوين كافرين يجري عليه حكم الكفر في الدنيا باتفاق
-المسلمين وإذا أسلم قبل البلوغ فهل يجري عليه حكم الإسلام قبل البلوغ على
-قولين للعلماء بخلاف البالغ فإنه يصير مسلما باتفاق المسلمين فكان إسلام
-الثلاثة مخرجا لهم من الكفر باتفاق المسلمين وأما إسلام علي فهل يكون
-مخرجا له من الكفر على قولين مشهورين ومذهب الشافعي أن إسلام الصبي غير
-مخرج له من الكفر
-  </p>
-</blockquote>
+> والصبي المولود بين أبوين كافرين يجري عليه حكم الكفر في الدنيا باتفاق
+> المسلمين وإذا أسلم قبل البلوغ فهل يجري عليه حكم الإسلام قبل البلوغ على
+> قولين للعلماء بخلاف البالغ فإنه يصير مسلما باتفاق المسلمين فكان إسلام
+> الثلاثة مخرجا لهم من الكفر باتفاق المسلمين وأما إسلام علي فهل يكون
+> مخرجا له من الكفر على قولين مشهورين ومذهب الشافعي أن إسلام الصبي غير
+> مخرج له من الكفر
 
 **A child born to two pagan parents is considered a pagan in this world
 by the consensus of Muslims**. If he accepts Islam before maturity, is
@@ -88,21 +72,13 @@ was correct.
 The first question here is: was ‘Ali really a “child” when he accepted
 Islam? Imam Ibn ‘Abd al-Barr (d. 463 H) answers:
 
-<blockquote dir="rtl">
-  <p>
-قال أبو عمر قيل أسلم على وهو ابن ثلاث عشرة سنة وقيل ابن اثنتي عشرة سنة
-وقيل ابن خمس عشرة وقيل ابن ست عشرة وقيل ابن عشر وقيل ابن ثمان ....
-  </p>
-</blockquote>
+> قال أبو عمر قيل أسلم على وهو ابن ثلاث عشرة سنة وقيل ابن اثنتي عشرة سنة
+> وقيل ابن خمس عشرة وقيل ابن ست عشرة وقيل ابن عشر وقيل ابن ثمان ....
 
-<blockquote dir="rtl">
-  <p>
-وذكر أبو زيد عمر بن شبة قال حدثنا سريج بن النعمان قال حدثنا الفرات بن
-السائب عن ميمون بن مهران عن ابن عمر رضي الله عنهما قال أسلم علي بن أبي
-طالب وهو ابن ثلاث عشرة سنة وتوفى وهو ابن ثلاث وستين سنة قال أبو عمر
-رحمه الله هذا أصح ما قيل في ذلك
-  </p>
-</blockquote>
+> وذكر أبو زيد عمر بن شبة قال حدثنا سريج بن النعمان قال حدثنا الفرات بن
+> السائب عن ميمون بن مهران عن ابن عمر رضي الله عنهما قال أسلم علي بن أبي
+> طالب وهو ابن ثلاث عشرة سنة وتوفى وهو ابن ثلاث وستين سنة قال أبو عمر
+> رحمه الله هذا أصح ما قيل في ذلك
 
 Abu ‘Umar said, “It is said that ‘Ali accepted Islam when he was
 thirteen years old. It is said that he was twelve years old. It is said
@@ -122,12 +98,8 @@ hands of the Messenger of Allah. But, was he a matured person then, or
 was he still a child? Let us get the testimony of an eye-witness. Imam
 al-Haythami (d. 807 H) records:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي رافع قال : أول من أسلم من الرجال علي وأول من أسلم من النساء
-خديجة
-  </p>
-</blockquote>
+> عن أبي رافع قال : أول من أسلم من الرجال علي وأول من أسلم من النساء
+> خديجة
 
 Narrated Abu Rafi’:
 
@@ -136,11 +108,7 @@ first to accept Islam from the female adults was Khadijah.[^6]
 
 Al-Haythami comments:
 
-<blockquote dir="rtl">
-  <p>
-رواه البزار ورجاله رجال الصحيح
-  </p>
-</blockquote>
+> رواه البزار ورجاله رجال الصحيح
 
 Al-Bazzar recorded it and its narrators are narrators of the *Sahih*[^7]
 
@@ -152,14 +120,10 @@ the admission of Shaykh Ibn Taymiyyah. Therefore, he enjoyed precedence
 in his “perfect” Islam over all others. This is further confirmed by
 this *hadith* documented by Imam al-Tabarani (d. 360 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا الحسن بن عبد الأعلى النرسي الصنعاني، حدثنا عبد الرزاق، حدثنا
-سفيان الثوري، عن سلمة بن كهيل، عن أبي صادق، عن عليم الكندي، عن سلمان
-الفارسي رضي الله عنه قال: أول هذه الأمة ورودا على نبيها، أولها إسلاما،
-علي بن أبي طالب
-  </p>
-</blockquote>
+> حدثنا الحسن بن عبد الأعلى النرسي الصنعاني، حدثنا عبد الرزاق، حدثنا
+> سفيان الثوري، عن سلمة بن كهيل، عن أبي صادق، عن عليم الكندي، عن سلمان
+> الفارسي رضي الله عنه قال: أول هذه الأمة ورودا على نبيها، أولها إسلاما،
+> علي بن أبي طالب
 
 Al-Hasan b. ‘Abd al-A’la al-Narsi al-Sana’ani – ‘Abd al-Razzaq – Sufyan
 al-Thawri – Salamah b. Kuhayl – Abu Sadiq – ‘Alim al-Kindi – Salman
@@ -171,17 +135,9 @@ Talib**.”[^8]
 
 Shaykh al-Haji comments:
 
-<blockquote dir="rtl">
-  <p>
-الإسناد: قال الهيثمي: ورجاله ثقات. وقال حمدي السلفي:
-  </p>
-</blockquote>
+> الإسناد: قال الهيثمي: ورجاله ثقات. وقال حمدي السلفي:
 
-<blockquote dir="rtl">
-  <p>
-قلت: إن إبراهيم والحسن من الرواة عن عبد الرزاق بعد اختلاطه.
-  </p>
-</blockquote>
+> قلت: إن إبراهيم والحسن من الرواة عن عبد الرزاق بعد اختلاطه.
 
 The chain: Al-Haythami said, “**Its narrators are** ***thiqah***
 **(trustworthy)**”. Hamadi al-Salafi also said: “I say: ‘Ibrahim and
@@ -194,12 +150,8 @@ and during the consequent confusion. However, the report of ‘Abd
 al-Razzaq is corroborated by this report, recorded by Imam Ibn Abi
 Shaybah (d. 235 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا معاوية بن هشام حدثنا قيس عن سلمة بن كهيل عن أبي صادق عن عليم عن
-سلمان قال: أول هذه الأمة ورودا على نبيها أولها إسلاما علي بن أبي طالب.
-  </p>
-</blockquote>
+> حدثنا معاوية بن هشام حدثنا قيس عن سلمة بن كهيل عن أبي صادق عن عليم عن
+> سلمان قال: أول هذه الأمة ورودا على نبيها أولها إسلاما علي بن أبي طالب.
 
 Mu’awiyah b. Hisham – Qays – Salamah b. Kuhayl – Abu Sadiq – ‘Alim –
 Salman:
@@ -211,12 +163,8 @@ We already know about the trustworthiness of Salamah, Abu Sadiq and
 ‘Alim al-Kindi. What about Mu’awiyah and Qays? Al-Hafiz (d. 852 H)
 states about Mu’awiyah:
 
-<blockquote dir="rtl">
-  <p>
-معاوية بن هشام القصار أبو الحسن الكوفي مولى بني أسد ويقال له معاوية بن
-أبي العباس صدوق له أوهام
-  </p>
-</blockquote>
+> معاوية بن هشام القصار أبو الحسن الكوفي مولى بني أسد ويقال له معاوية بن
+> أبي العباس صدوق له أوهام
 
 Mu’awiyah b. Hisham al-Qasar, Abu al-Hasan al-Kufi, freed slave of Banu
 Asad, he is also Mu’awiyah b. Abi al-‘Abbas: ***Saduq*** **(very
@@ -224,12 +172,8 @@ truthful)**, he had hallucinations.[^11]
 
 Qays is almost like that too, according to al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-قيس بن الربيع الأسدي أبو محمد الكوفي صدوق تغير لما كبروأدخل عليه ابنه
-ما ليس من حديثه فحدث به
-  </p>
-</blockquote>
+> قيس بن الربيع الأسدي أبو محمد الكوفي صدوق تغير لما كبروأدخل عليه ابنه
+> ما ليس من حديثه فحدث به
 
 Qays b. al-Rabi’ al-Asadi, Abu Muhamamd al-Kufi: ***Saduq*** **(very
 truthful)**. His memory deteriorated when he became old, and his son
@@ -246,13 +190,9 @@ human being, and the first male *adult*, to accept Islam.
 Imam al-Tirmidhi (d. 279 H) records a *hadith* that further corroborates
 this submission:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن بشار و محمد بن المثنى قالا حدثنا محمد بن جعفر حدثنا شعبة
-بن عمرو بن مرة عن أبي حمزة رجل من الأنصار قال سمعت زيد بن أرقم يقول
-أول من أسلم علي
-  </p>
-</blockquote>
+> حدثنا محمد بن بشار و محمد بن المثنى قالا حدثنا محمد بن جعفر حدثنا شعبة
+> بن عمرو بن مرة عن أبي حمزة رجل من الأنصار قال سمعت زيد بن أرقم يقول
+> أول من أسلم علي
 
 Muhammad b. Bashar and Muhammad b. al-Muthanna – Muhammad b. Ja’far –
 Shu’bah b. ‘Amr b. Marrah – Abu Hamza, who was a man from the Ansar –
@@ -262,32 +202,20 @@ Zayd b. Arqam:
 
 Al-Tirmidhi states:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan sahih*[^14]
 
 ‘Allamah al-Albani (d. 1420 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح الإسناد
-  </p>
-</blockquote>
+> صحيح الإسناد
 
 It has a *sahih* chain[^15]
 
 Imam al-Tabarani (d. 360 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق بن إبراهيم، عن عبد الرزاق، عن معمر، عن عثمان الجزري، عن
-مقسم، عن عبد الله بن عباس قال :أول من أسلم علي رضي الله
-  </p>
-</blockquote>
+> حدثنا إسحاق بن إبراهيم، عن عبد الرزاق، عن معمر، عن عثمان الجزري، عن
+> مقسم، عن عبد الله بن عباس قال :أول من أسلم علي رضي الله
 
 Ishaq b. Ibrahim – ‘Abd al-Razzaq – Ma’mar – ‘Uthman al-Jazari – Miqsam
 – ‘Abd Allah b. ‘Abbas:
@@ -297,23 +225,15 @@ him.”[^16]
 
 Shaykh al-Haji comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح رجاله ثقات
-  </p>
-</blockquote>
+> حديث صحيح رجاله ثقات
 
 **A** ***sahih hadith***. Its narrators are trustworthy.[^17]
 
 Imam Ibn ‘Abd al-Barr caps the references:
 
-<blockquote dir="rtl">
-  <p>
-وروى عن سلمان وأبي ذر والمقداد وخباب وجابر وأبى سعيد الخدري وزيد بن
-الأرقم أن علي بن أبي طالب رضي الله عنه أول من أسلم وفضله هؤلاء على
-غيره
-  </p>
-</blockquote>
+> وروى عن سلمان وأبي ذر والمقداد وخباب وجابر وأبى سعيد الخدري وزيد بن
+> الأرقم أن علي بن أبي طالب رضي الله عنه أول من أسلم وفضله هؤلاء على
+> غيره
 
 Salman, Abu Dharr, al-Miqdad, Khabab, Jabir, Abu Sa’id al-Khudri and
 Zayd b. Arqam narrated that ‘Ali b. Abi Talib, may Allah be pleased with
@@ -324,16 +244,12 @@ Notably, along with Ibn ‘Abbas and Abu Rafi’, those were nine Sahabah.
 Imam al-Hakim (d. 403 H) records about the tenth Sahabi –Sa’d b. Abi
 Waqqas:
 
-<blockquote dir="rtl">
-  <p>
-عن قيس بن أبي حازم قال كنت بالمدينة فبينا أنا أطوف في السوق إذ بلغت
-أحجار الزيت فرأيت قوما مجتمعين على فارس قد ركب دابة وهو يشتم علي بن
-أبي طالب والناس وقوف حواليه إذ أقبل سعد بن أبي وقاص فوقف عليهم فقال :
-ما هذا ؟ فقالوا : رجل يشتم علي بن أبي طالب فتقدم سعد فأفرجوا له حتى
-وقف عليه فقال : يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم
-ألم يكن أول من صلى مع رسول الله صلى الله عليه وسلم
-  </p>
-</blockquote>
+> عن قيس بن أبي حازم قال كنت بالمدينة فبينا أنا أطوف في السوق إذ بلغت
+> أحجار الزيت فرأيت قوما مجتمعين على فارس قد ركب دابة وهو يشتم علي بن
+> أبي طالب والناس وقوف حواليه إذ أقبل سعد بن أبي وقاص فوقف عليهم فقال :
+> ما هذا ؟ فقالوا : رجل يشتم علي بن أبي طالب فتقدم سعد فأفرجوا له حتى
+> وقف عليه فقال : يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم
+> ألم يكن أول من صلى مع رسول الله صلى الله عليه وسلم
 
 Narrated Qays b. Abi Hazim:
 
@@ -350,21 +266,13 @@ him?....”[^19]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^20]
 
 Al-Dhahabi (d. 748 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^21]
 
@@ -381,12 +289,8 @@ a child! The report of Sa’d b. Abi Waqqas is already cited above.
 Meanwhile, there is corroboration in this *hadith* documented by Imam
 al-Tirmidhi:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن حميد حدثنا إبراهيم بن المختار عن شعبة عن أبي بلج عن عمرو
-بن ميمون عن ابن عباس قال: أول من صلى علي
-  </p>
-</blockquote>
+> حدثنا محمد بن حميد حدثنا إبراهيم بن المختار عن شعبة عن أبي بلج عن عمرو
+> بن ميمون عن ابن عباس قال: أول من صلى علي
 
 Muhammad b. Hamid – Ibrahim b. al-Mukhtar – Shu’bah – Abu Balj – ‘Amr b.
 Maymun – Ibn ‘Abbas:
@@ -395,23 +299,15 @@ Maymun – Ibn ‘Abbas:
 
 ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^23]
 
 Imam Ahmad b. Hanbal (d. 241 H) records a *shahid* for the above report:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يزيد بن هارون انا شعبة عن عمرو بن مرة قال
-سمعت أبا حمزة يحدث عن زيد بن أرقم قال أول من صلى مع رسول الله صلى الله
-عليه و سلم علي رضي الله تعالى عنه
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يزيد بن هارون انا شعبة عن عمرو بن مرة قال
+> سمعت أبا حمزة يحدث عن زيد بن أرقم قال أول من صلى مع رسول الله صلى الله
+> عليه و سلم علي رضي الله تعالى عنه
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yazid b. Harun –
 Shu’bah – ‘Amr b. Marrah – Abu Hamzah – Zayd b Arqam:
@@ -421,11 +317,7 @@ him, was ‘Ali, may Allah the Most High be pleased with him.”[^24]
 
 Quite surprisingly, Shaykh al-Arnauṭ states about it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف
-  </p>
-</blockquote>
+> إسناده ضعيف
 
 Its chain is *dha’if*[^25]
 
@@ -435,24 +327,16 @@ authentic? Or, is it really weak?
 
 Al-Hafiz says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن أحمد بن محمد بن حنبل الشيباني أبو عبد الرحمن ولد الإمام
-ثقة
-  </p>
-</blockquote>
+> عبد الله بن أحمد بن محمد بن حنبل الشيباني أبو عبد الرحمن ولد الإمام
+> ثقة
 
 ‘Abd Allah b. Ahmad b. Muhammad b. Hanbal al-Shaybani, Abu ‘Abd
 al-Rahman: son of the Imam, ***thiqah*** **(trustworthy)**.[^26]
 
 He further states about the second narrator:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن حنبل بن هلال بن أسد الشيباني المروزي نزيل بغداد أبو
-عبد الله أحد الأئمة ثقة حافظ فقيه حجة
-  </p>
-</blockquote>
+> أحمد بن محمد بن حنبل بن هلال بن أسد الشيباني المروزي نزيل بغداد أبو
+> عبد الله أحد الأئمة ثقة حافظ فقيه حجة
 
 Ahmad b. Muhammad b. Hanbal b. Hilal b. Asad al-Shaybani al-Maruzi, a
 Baghdad resident, Abu ‘Abd Allah: **One of the Imams,** ***thiqah***
@@ -462,11 +346,7 @@ Baghdad resident, Abu ‘Abd Allah: **One of the Imams,** ***thiqah***
 Concerning the third narrator, the verdict is the same, according to
 al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-يزيد بن هارون بن زاذان السلمي مولاهم أبو خالد الواسطي ثقة متقن عابد
-  </p>
-</blockquote>
+> يزيد بن هارون بن زاذان السلمي مولاهم أبو خالد الواسطي ثقة متقن عابد
 
 Yazid b. Harun b. Zazan al-Sulami, their freed slave, Abu Khalid
 al-Wasiṭi: ***Thiqah*** **(trustworthy), extremely precise**, a great
@@ -475,12 +355,8 @@ worshipper of Allah.[^28]
 The fourth narrator, Shu’bah, needs no introduction. Al-Hafiz makes some
 ground-breaking pronouncements about him nonetheless:
 
-<blockquote dir="rtl">
-  <p>
-شعبة بن الحجاج بن الورد العتكي مولاهم أبو بسطام الواسطي ثم البصري ثقة
-حافظ متقن كان الثوري يقول هو أمير المؤمنين في الحديث
-  </p>
-</blockquote>
+> شعبة بن الحجاج بن الورد العتكي مولاهم أبو بسطام الواسطي ثم البصري ثقة
+> حافظ متقن كان الثوري يقول هو أمير المؤمنين في الحديث
 
 Shu’bah b. al-Hajjaj b. al-Ward al-‘Atki, their freed slave, Abu Busṭam
 al-Wasiṭi, al-Basri: ***Thiqah*** **(trustworthy),** ***hafiz (a hadith
@@ -489,12 +365,8 @@ the amir al-muminin (the supreme leader) in** ***al-Hadith***.”[^29]
 
 He has a very simple verdict about the fifth narrator as well:
 
-<blockquote dir="rtl">
-  <p>
-عمرو بن مرة بن عبد الله بن طارق الجملي بفتح الجيم والميم المرادي أبو
-عبد الله الكوفي الأعمى ثقة عابد كان لا يدلس
-  </p>
-</blockquote>
+> عمرو بن مرة بن عبد الله بن طارق الجملي بفتح الجيم والميم المرادي أبو
+> عبد الله الكوفي الأعمى ثقة عابد كان لا يدلس
 
 ‘Amr b. Marrah b. ‘Abd Allah b. Tariq al-Jamali al-Muradi, Abu ‘Abd
 Allah al-Kufi, the blind person: ***Thiqah*** **(trustworthy)**, a great
@@ -502,12 +374,8 @@ worshipper of Allah. He did NOT do *tadlis*.[^30]
 
 The last narrator is like that too, as pronounced by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-طلحة بن يزيد الأيلي بفتح الهمزة وسكون الياء أبو حمزة مولى الأنصار نزل
-الكوفة وثقه النسائي
-  </p>
-</blockquote>
+> طلحة بن يزيد الأيلي بفتح الهمزة وسكون الياء أبو حمزة مولى الأنصار نزل
+> الكوفة وثقه النسائي
 
 Talhah b. Yazid al-Ayli, the freed slave of the Ansar, he lived in
 Kufah: **Al-Nasai declared him** ***thiqah*** **(trustworthy)**.[^31]
@@ -517,14 +385,10 @@ evidence of disconnection in the chain. As such, the *isnad* is *sahih*
 without a doubt! ‘Allamah al-Albani also states about another *hadith*
 with a very similar *sanad*:
 
-<blockquote dir="rtl">
-  <p>
-أخرجه أبو داود ... من طريق شعبة عن عمرو بن مرة قال: سمعت أبا حمزة أنه
-سمع زيد بن أرقم قال ....قلت: وهذا سند صحيح رجاله رجال الشيخين غير أبي
-حمزة واسمه طلحة بن يزيد الأنصاري فمن رجال البخاري، ووثقه ابن حبان
-والنسائي.
-  </p>
-</blockquote>
+> أخرجه أبو داود ... من طريق شعبة عن عمرو بن مرة قال: سمعت أبا حمزة أنه
+> سمع زيد بن أرقم قال ....قلت: وهذا سند صحيح رجاله رجال الشيخين غير أبي
+> حمزة واسمه طلحة بن يزيد الأنصاري فمن رجال البخاري، ووثقه ابن حبان
+> والنسائي.
 
 Abu Dawud recorded it ... through the route of **Shu’bah** – **‘Amr b.
 Marrah** – **Abu Hamzah** – **Zayd b. Arqam**.... I (al-Albani) say:
@@ -634,5 +498,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 b. Ādam al-Ashqudri al-Albani, Silsilah al-Ahadith al-Ṣahihah wa Shayhun
 min Fiqhihah wa Fawaidihah (Riyadh: Maktabah al-Ma’arif li al-Nashr wa
 al-Tawzi’; 1st edition, 1415 H), vol. 1, p. 242, \# 123
-
 

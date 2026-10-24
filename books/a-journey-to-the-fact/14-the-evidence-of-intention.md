@@ -387,4 +387,3 @@ the universe and the organization planner Who is Kind to His servants.
 faith in God and my love to Him and to my father whom God has granted me
 to guide me so I know my God better.( and this is an answer of “ why”)
 
-

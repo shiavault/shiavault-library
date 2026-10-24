@@ -787,4 +787,3 @@ Dictionary (OED). –Tr.
 
 [^17]: Al-Hilli, Kashf al-Murad, p. 174 (Said edition).
 
-

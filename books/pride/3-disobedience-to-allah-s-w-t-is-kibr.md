@@ -284,4 +284,3 @@ not mean he is better and superior than a poor man. Who knows that the
 poor man would possess qualities superior to the rich man e.g. in
 knowledge, piety or Courage.
 
-

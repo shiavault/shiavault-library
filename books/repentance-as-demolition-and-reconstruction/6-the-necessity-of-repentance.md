@@ -65,4 +65,3 @@ was of those who laughed to scorn.” (Holy Qur’an, 39:56)“... O woe is
 me, that I fell short of my duty to Allah; and surely I was of those who
 laughed to scorn.” (Holy Qur’an, 39:56)**
 
-

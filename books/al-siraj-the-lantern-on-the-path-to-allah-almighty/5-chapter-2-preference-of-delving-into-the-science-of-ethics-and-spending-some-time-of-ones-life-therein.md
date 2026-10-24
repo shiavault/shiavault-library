@@ -114,4 +114,3 @@ an occupation to which one gets accustomed. He, hence, will not consider
 the Hereafter acting upon it because this will reveal intellectual
 discoveries regarded as worthless in the outside world.
 
-

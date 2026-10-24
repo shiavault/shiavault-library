@@ -8,11 +8,7 @@ Surah Buruj, Chapter 85
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -76,69 +72,29 @@ study the Surah, then contemplate on it and act accordingly.
 Surah Buruj, Verses 1-9
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
-  </p>
-</blockquote>
+> وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
 
-<blockquote dir="rtl">
-  <p>
-وَالْيَوْمِ الْمَوْعُودِ
-  </p>
-</blockquote>
+> وَالْيَوْمِ الْمَوْعُودِ
 
-<blockquote dir="rtl">
-  <p>
-وَشَاهِدٍ وَمَشْهُودٍ
-  </p>
-</blockquote>
+> وَشَاهِدٍ وَمَشْهُودٍ
 
-<blockquote dir="rtl">
-  <p>
-قُتِلَ أَصْحَابُ الْأُخْدُودِ
-  </p>
-</blockquote>
+> قُتِلَ أَصْحَابُ الْأُخْدُودِ
 
-<blockquote dir="rtl">
-  <p>
-النَّارِ ذَاتِ الْوَقُودِ
-  </p>
-</blockquote>
+> النَّارِ ذَاتِ الْوَقُودِ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ هُمْ عَلَيْهَا قُعُودٌ
-  </p>
-</blockquote>
+> إِذْ هُمْ عَلَيْهَا قُعُودٌ
 
-<blockquote dir="rtl">
-  <p>
-وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ
-  </p>
-</blockquote>
+> وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ
-الْحَمِيدِ
-  </p>
-</blockquote>
+> وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ
+> الْحَمِيدِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ
-شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
+> الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ
+> شَيْءٍ شَهِيدٌ
 
 ***1. "By the Sky full of constellations,”***  
 ***2. "By the promised Day (of Judgment),”***  
@@ -761,49 +717,21 @@ on these devotions and martyrdoms.
 Surah Buruj, Verses 10-16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ
-يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ
+> يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ
-تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ
+> تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
-  </p>
-</blockquote>
+> إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ
-  </p>
-</blockquote>
+> إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الْغَفُورُ الْوَدُودُ
-  </p>
-</blockquote>
+> وَهُوَ الْغَفُورُ الْوَدُودُ
 
-<blockquote dir="rtl">
-  <p>
-ذُو الْعَرْشِ الْمَجِيدُ
-  </p>
-</blockquote>
+> ذُو الْعَرْشِ الْمَجِيدُ
 
-<blockquote dir="rtl">
-  <p>
-فَعَّالٌ لِمَا يُرِيدُ
-  </p>
-</blockquote>
+> فَعَّالٌ لِمَا يُرِيدُ
 
 ***10. "Surely (as for) those who persecute (or draw into temptation)
 believing men and believing women, yet repent not, for them is the
@@ -1028,41 +956,17 @@ able to confront Him, nor does His Will fade.
 Surah Buruj, Verses 17-22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ
-  </p>
-</blockquote>
+> هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ
 
-<blockquote dir="rtl">
-  <p>
-فِرْعَوْنَ وَثَمُودَ
-  </p>
-</blockquote>
+> فِرْعَوْنَ وَثَمُودَ
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ
-  </p>
-</blockquote>
+> بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ
-  </p>
-</blockquote>
+> وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ هُوَ قُرْآنٌ مَجِيدٌ
-  </p>
-</blockquote>
+> بَلْ هُوَ قُرْآنٌ مَجِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-فِي لَوْحٍ مَحْفُوظٍ
-  </p>
-</blockquote>
+> فِي لَوْحٍ مَحْفُوظٍ
 
 ***17. "Has the story reached thee, of the Forces"***  
 ***18. "Of Pharaoh and (the tribe of) Thamud?"***  
@@ -1231,5 +1135,4 @@ Qur'an' in which the term 'the Preserved Tablet' has occurred.
 [^10]: Ibid.
 
 [^11]: Tafsir-i- Ayashi; narrated in Al-Mizan, vol. 20, p. 377.
-
 

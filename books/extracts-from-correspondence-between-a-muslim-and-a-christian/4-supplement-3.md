@@ -114,4 +114,3 @@ Gospel?" In reply I have to remind you of the contradictions and
 baseless assertions of the Gospels, some of which may be mentioned, if
 necessary.
 
-

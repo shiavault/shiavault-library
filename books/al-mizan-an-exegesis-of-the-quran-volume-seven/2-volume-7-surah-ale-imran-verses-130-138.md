@@ -409,4 +409,3 @@ this task to him up to the Day of Resurrection." (al-Majalis, as-Saduq)
 The author says: This tradition has also been narrated through Sunni
 chains.
 
-

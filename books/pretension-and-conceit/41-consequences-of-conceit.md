@@ -17,4 +17,3 @@ follows:
 Any of these consequences suffices to render one's perdition and
 suffering; so, what would you say about all of them combined?!
 
-

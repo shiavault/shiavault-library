@@ -141,4 +141,3 @@ Similarly Allah endows things with the quality of producing an effect,
 and at the same time He is the Master of all effects. There are many
 other hadiths which support this view.
 
-

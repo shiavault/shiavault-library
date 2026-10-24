@@ -37,11 +37,7 @@ stations.
 will be a distress for him on the Day of Resurrection.
 
 > 8ـ مَا الْتَذَّ أحَدٌمِنَ الدُّنْيا لَذَّةً إلاّ كانَتْ لَهُ يَوْمَ
-<blockquote dir="rtl">
-  <p>
-القِيمَةِ غُصَّةً.
-  </p>
-</blockquote>
+> القِيمَةِ غُصَّةً.
 
 9. There is no good in a pleasure that does not last.
 
@@ -65,11 +61,7 @@ bitterness of adversities.
 Hereafter and its painful chastisements.
 
 > 13ـ لاتُوازي لَذَّةُ المَعْصِيَةِ فُضُوحَ الآخِرَةِ وأليمَ
-<blockquote dir="rtl">
-  <p>
-العُقُوباتِ.
-  </p>
-</blockquote>
+> العُقُوباتِ.
 
 14. There is no good in the pleasure that brings about regret and the
 desire that is followed by pain.
@@ -84,12 +76,7 @@ more conducive for the relieving of distress and attainment of
 aspirations.
 
 > 15ـ أُذْكُرْ مَعَ كُلِّ لَذَّة زَوالَها، ومَعَ كُلِّ نِعْمَة
-<blockquote dir="rtl">
-  <p>
-اِنْتِقالَها، وَمَعَ كُلِّ بَلِيَّة كَشْفَها، فَإنَّ ذلِكَ أبْقى
-لِلنِّعْمَةِ، وأنْفى لِلشَّهْوَةِ، وأذْهَبُ لِلْبَطَرِ، وأقْرَبُ إلَى
-الفَرَجِ، وَأجْدَرُ بِكَشْفِ الغُمَّةِ ودَرْكِ المَأّْمُولِ.
-  </p>
-</blockquote>
-
+> اِنْتِقالَها، وَمَعَ كُلِّ بَلِيَّة كَشْفَها، فَإنَّ ذلِكَ أبْقى
+> لِلنِّعْمَةِ، وأنْفى لِلشَّهْوَةِ، وأذْهَبُ لِلْبَطَرِ، وأقْرَبُ إلَى
+> الفَرَجِ، وَأجْدَرُ بِكَشْفِ الغُمَّةِ ودَرْكِ المَأّْمُولِ.
 

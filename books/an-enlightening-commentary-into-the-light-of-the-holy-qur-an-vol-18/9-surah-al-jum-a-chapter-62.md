@@ -10,11 +10,7 @@ Surah al-Jum‘a, Chapter 62
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -56,20 +52,12 @@ Qur’anic Injunctions.[^2] Such Rewards are in store for him.
 Surah al-Jum’a - Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ
-الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ
-  </p>
-</blockquote>
+> يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ
+> الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ
 
 ***1. Whatever is in the heavens and whatever is on the earth glorifies
 Allah, the Sovereign, the Holy, the All-Mighty, the All-Wise.***
@@ -232,13 +220,9 @@ Allah, the Sovereign, the Holy, the All-Mighty, the All-Wise.").***
 Surah al-Jum’a - Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
-وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
+> وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ
 
 ***2. He it is Who sent amongst the unlettered ones a Messenger from
 amongst themselves to recite unto them His Verses, to foster them and
@@ -338,19 +322,11 @@ eminent Prophet (S).
 Surah al-Jum’a - Verses 3-4
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ ۚ وَهُوَ الْعَزِيزُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ ۚ وَهُوَ الْعَزِيزُ
+> الْحَكِيمُ
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ
-الْعَظِيمِ
-  </p>
-</blockquote>
+> ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ
+> الْعَظِيمِ
 
 ***3. And a Messenger unto another group who have not yet joined them.
 And He is the All-Mighty, the All-Wise.***
@@ -414,14 +390,10 @@ Bounties and live happily thereby."*[^16]
 Surah al-Jum’a - Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا
-كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ
-الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا
+> كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ
+> الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ
+> الظَّالِمِينَ
 
 ***5. The similitude of those who were entrusted with the Torah, but who
 subsequently failed in it, is as that of a donkey which carries huge
@@ -510,28 +482,16 @@ perishes himself.[^19]
 Surah al-Jum’a - Verses 6-8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِن زَعَمْتُمْ أَنَّكُمْ
-أَوْلِيَاءُ لِلَّهِ مِن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن
-كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِن زَعَمْتُمْ أَنَّكُمْ
+> أَوْلِيَاءُ لِلَّهِ مِن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن
+> كُنتُمْ صَادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ
-عَلِيمٌ بِالظَّالِمِينَ
-  </p>
-</blockquote>
+> وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ
+> عَلِيمٌ بِالظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ
-ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
-فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ
+> ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
+> فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
 ***6. Say: "O you Jews! If you pretend that you are friends of Allah, to
 the exclusion of other people, then long for death if you are truthful
@@ -641,13 +601,9 @@ friends of God Almighty who are virtuous and are close unto Him].
 Surah al-Jum’a - Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ
-الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ
-ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ
+> الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ
+> ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
 
 ***9. O you who believe! When the call is proclaimed for the Friday
 prayer, hasten toward the remembrance of Allah and leave off business.
@@ -748,12 +704,8 @@ deliverance.
 Surah al-Jum’a - Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن
-فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن
+> فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
 
 ***10. Then when the prayer is ended, you are free to disperse through
 the land and seek Allah's Bounty and remember Allah much that you may be
@@ -789,13 +741,9 @@ knowledge.
 Surah al-Jum’a - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا وَتَرَكُوكَ
-قَائِمًا ۚ قُلْ مَا عِندَ اللَّهِ خَيْرٌ مِّنَ اللَّهْوِ وَمِنَ
-التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا وَتَرَكُوكَ
+> قَائِمًا ۚ قُلْ مَا عِندَ اللَّهِ خَيْرٌ مِّنَ اللَّهْوِ وَمِنَ
+> التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ
 
 ***11. And when they see some merchandise or some amusement, they
 disperse headlong to it and leave you standing [while reciting your
@@ -992,5 +940,4 @@ the Friday Prayer (Bab Wujub Salat al-Jum‘a), tradition 28.
 [^34]: Mustadrak al-Wasa’il, vol. 6, p. 91.
 
 [^35]: Ibid, p. 5, tradition 17.
-
 

@@ -417,4 +417,3 @@ Hassan Askari (a.s.) in various fields in a book called Musnad Al-Imam
 Al-Askari (a.s.). The narrators of his traditions as recorded in this
 book exceed 149 people.
 
-

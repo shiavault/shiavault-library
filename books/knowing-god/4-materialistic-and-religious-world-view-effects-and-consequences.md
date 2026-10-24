@@ -109,4 +109,3 @@ the hereafter and there I would be recompensed for my deeds. Death is
 not the end of life, on the contrary it is transfer from the life of the
 world and the beginning of another new life (Where am I going?).
 
-

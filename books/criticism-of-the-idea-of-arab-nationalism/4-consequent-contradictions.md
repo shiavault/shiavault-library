@@ -16,7 +16,6 @@ frequently repeated arguments.
 
 Three Arab Nationalist Positions:
 
-
 **1. The Attitude Towards Independence**
 
 The Arab nationalist writings place a high value on their independence'
@@ -208,5 +207,4 @@ The results are all too clear before our eyes at present as the
 nationalists are dragged in the mud by American diplomacy from which
 they expect only a humiliating solution for the crisis they brought
 about.
-
 

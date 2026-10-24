@@ -134,4 +134,3 @@ should be equally distributed between the Imam of the congregation and
 the moazzin, and it is better that these two persons should make a
 compromise between themselves about the distribution of that amount.
 
-

@@ -158,4 +158,3 @@ He might have sensed that the time to turn his back upon a life of
 contemplation and meditation had come, and that he had soon to plunge
 into a life of action and conflict.
 
-

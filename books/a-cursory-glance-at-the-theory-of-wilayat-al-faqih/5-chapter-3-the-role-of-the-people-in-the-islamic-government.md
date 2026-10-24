@@ -314,12 +314,8 @@ Holy Prophet (S) had no role whatsoever in designating them. His only
 duty and role in this context was to convey and impart the order of God
 to the people:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
-وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
+> وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ﴾
 
 ***“O Messenger! Make known that which hath been revealed unto thee from
 thy Lord, for if thou do it not, thou will not have conveyed His
@@ -378,12 +374,8 @@ and declared that they wanted him to take on the responsibility of
 government, he did. Referring to the reason why the Imam (*‘a*) accepted
 to be the caliph, he declared:
 
-<blockquote dir="rtl">
-  <p>
-لَولاَ حُضُورُ ألْحَاضِرِ وَ قِيَامُ ألْحُجَّةِ بِوُجُودِ
-ألنَّاصِرِ... لاَ لَقِيتُ حَبْلَهَا عَلى غَارِبِهَا.
-  </p>
-</blockquote>
+> لَولاَ حُضُورُ ألْحَاضِرِ وَ قِيَامُ ألْحُجَّةِ بِوُجُودِ
+> ألنَّاصِرِ... لاَ لَقِيتُ حَبْلَهَا عَلى غَارِبِهَا.
 
 “***If people had not come to me, and supporters had not exhausted the
 argument… I would have cast the rope of caliphate on its own
@@ -572,13 +564,9 @@ history. This belief is based on both the dictate of reason and evidence
 from the Qur’an in a number of verses, such as in *Surah al-Ma’idah*,
 which reads:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذْ قَالَ اللّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلتَ
-لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَـٰهَيْنِ مِن دُونِ اللّهِ قَالَ
-سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذْ قَالَ اللّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلتَ
+> لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَـٰهَيْنِ مِن دُونِ اللّهِ قَالَ
+> سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ ﴾
 
 ***“And when Allah will say, ‘O Jesus, son of Mary! Were it you who said
 to the people, “Take me and my mother for gods besides Allah”?’ He will
@@ -633,11 +621,7 @@ beings. It is He who has covered all creatures with the garment of
 existence and endowed them with life. Whatever is in the heavens and the
 earth belongs to Him and He is the true Master of them all:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِنَّ لِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِنَّ لِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ ﴾
 
 ***“To Allah belongs whatever is in the heavens and whatever is on the
 earth.”***[^14]
@@ -675,20 +659,12 @@ undesirable and unjust and regarded as acts of usurpation. According to
 the proofs at our disposal, God has granted this right to the Prophet of
 Islam (S) and to the infallible Imams (*‘a*) who came after him:
 
-<blockquote dir="rtl">
-  <p>
-…أنْفُسِهِمْ مِنْ بالْمُؤْمِنِينَ أوْلى النَّبِىُّ
-  </p>
-</blockquote>
+> …أنْفُسِهِمْ مِنْ بالْمُؤْمِنِينَ أوْلى النَّبِىُّ
 
 ***“The Prophet is closer to the believers than their selves.”***[^15]
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّـهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّـهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ
 
 ***“O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you.”***[^16]
@@ -1021,5 +997,4 @@ peace be upon him/her/them], which is used after the names of eminent
 pious people. [Trans.]
 
 [^22]: Sūrah al-Mā’idah 5:67.
-
 

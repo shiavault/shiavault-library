@@ -76,7 +76,6 @@ Aayan Al-Shia (written by seyyid Muhsin Al-Ameen Al-Amili) which is
 more comprehensive than the above mentioned books Sahih Muslim, vol.6
 p.2 print: Egypt.
 
-
 **Question 5 . Why is it so that when we send benedictions upon the
 Holy Prophet, we follow it with mentioning blessings on his household
 and recite,"Allahumma swale Ala Muhammed wa Ale Muhammed."?**
@@ -124,7 +123,6 @@ Mardawaih from Kaab Ibn Ajrah from the honorable Prophet (p).
 Al-Sawaeq Al-Muhriqah, sect.11 p.148, from 1st chapter, book of Ethaf
 (Shabrawee), p.29 and 'Mashreq Al-Anwar' (Hamzawee Maliki) p. 88,
 Al-Mawahib (Zarqani) and Al-esaaf (sabban) p. 119.
-
 
 **Questioin 6 : How do you claim that your Imams are infallible?**
 
@@ -189,7 +187,6 @@ chapt.1, p. 149. Similar to this context in 'Kanz Al-Amal', 1st volume,
 section of Al-etesam bil Kitab wal sunnah' p.44 and in Masnad Ahmad 5th
 volume, p. 182-189 among others.
 
-
 **Question 7 : Why do you recite "Ash hadu anna Aliyyan waliyyu Allah"
 in the call of prayer, thereby witnessing the guardianship of Ali
 (p)?**
@@ -242,7 +239,6 @@ messenger ship.
 What is significant to mention here is the fact that if at all, adding
 a sentence in the Adhan is not recommended, and the Shia are criticized
 for this matter, then how can the following instances be justified:
-
 
 **Question 8 : Who is 'the Mahdi' from the family of the Holy prophet,
 and why to you await for his re-appearance?**
@@ -311,7 +307,6 @@ mentioned in the holy book of Allah.
 Old Testament: Psalms of David, chapt. 96,97 and the book of prophet
 Daniel, chapt. 12.
 
-
 New Testament: Mathew chapt. 24, Mark, chapt. 13, Luke chapt.21 (quoted
 from 'An awaited whom the world is still awaiting')
 
@@ -340,7 +335,6 @@ Yanabi Al-Muwaddah, p.432
 (Ankabut:14)
 
 (Saffat : 144)
-
 
 **Question 9 : If the Shia religion is the true one, then why is it
 that only a minority have accepted it, and majority of the Muslims all
@@ -426,5 +420,4 @@ For more details refer to 'Aayan Al-Shia', vol.1, subject 12, p.194
 
 If you desire further details, one can refer to the book of 'Ta'sees
 Al-Shia' written by Sayyid Hassan Sadr.
-
 

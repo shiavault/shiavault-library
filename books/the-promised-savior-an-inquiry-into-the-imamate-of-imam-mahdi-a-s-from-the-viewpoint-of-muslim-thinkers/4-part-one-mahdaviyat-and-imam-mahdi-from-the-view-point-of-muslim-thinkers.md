@@ -176,4 +176,3 @@ Given all these, there is no place for controversy over the doctrine of
 Mahdaviyat in Islam. Thus anyone who denies the existence of Imam Mahdi
 (a.s) is no longer according to all, a Muslim.
 
-

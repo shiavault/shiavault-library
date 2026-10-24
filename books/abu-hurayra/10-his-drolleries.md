@@ -113,4 +113,3 @@ what as-Sawli said that Imam Zeinul Aabideen had permitted playing the
 chess. It was certain that all the infallible imams prohibited playing
 chess. So did Malik bin Anass, Ahmed bin Hanbal and Abu Haneefa.
 
-

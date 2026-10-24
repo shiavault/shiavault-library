@@ -33,4 +33,3 @@ destroy. When he is suspected of evil designs, he takes refuge behind
 false oaths. Thus he damages his own spirit and, more often than not,
 when he falls, nobody comes there to lift him up.
 
-

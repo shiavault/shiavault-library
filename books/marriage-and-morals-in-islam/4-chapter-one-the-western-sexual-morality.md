@@ -267,4 +267,3 @@ scientific reasons!
 
 [^9]: Fundamentals of Human Sexuality, p. 420.
 
-

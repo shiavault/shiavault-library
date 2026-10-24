@@ -74,4 +74,3 @@ even if water is available when he fears from a disease, or what may
 lead to or complicate a disease as narrated from Imam as-Sadiq, “…soil
 is one of the two purifying things”.
 
-

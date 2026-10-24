@@ -28,17 +28,13 @@ of the wilayah and its logic of unity.
 
 For the Qur’an says:
 
-<p dir="rtl">
 إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ....
-</p>
 
 ***The believers are surely brothers. (Qur’an 49:10)***
 
 It also says:
 
-<p dir="rtl">
 وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
-</p>
 
 ***And the believing men and the believing women are the friends of one
 another. (Qur’an 9:71)***
@@ -77,9 +73,7 @@ played such an important part in the spread and subsistence of Islam in
 the world. The logic of the above can be found in the saying of the
 Prophet (S), in which he said that:
 
-<p dir="rtl">
 علي مع الحق و الحق مع علي يدور حيث ما دار
-</p>
 
 ‘Ali is with the truth and the truth is with ‘Ali - he goes wheresoever
 it goes.7
@@ -109,5 +103,4 @@ Islam (which principally unites and gives grace to exoteric
 partialities) and its initial channel that the first Imam (‘a)
 represents - that we can conceive of a unity that is truly becoming of
 him and his Beloved, the One.
-
 

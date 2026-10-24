@@ -285,4 +285,3 @@ Margin of Al-Tabari's Commentaries on the Qur'an Part 29 pp. 112-113.
 
 [^16]: Sayed Al-Shiblenji Noorul-Absar pp. 112-114.
 
-

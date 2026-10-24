@@ -128,14 +128,12 @@ by the Prophets are those which will be as much required in future as
 they were in the past. Here are some instances in which the teachings of
 the Prophets have influenced historical development:
 
-
 **Education**
 
 In the past education had a religious motive and it was this motive
 which encouraged the teachers and the parents. With the development of
 social conscience the need of religious motive has been eliminated in
 this field.
-
 
 **Affirmation of Agreements and Covenants**
 
@@ -220,5 +218,4 @@ force as the factor of the development of history in the sense that he
 has equated the more powerful man with the superior man and has believed
 that the more powerful man alone is the factor that carried history
 forward.
-
 

@@ -273,4 +273,3 @@ Questions to ask yourself
 
 3. What sections make up the rules of practice in an Ideology?
 
-

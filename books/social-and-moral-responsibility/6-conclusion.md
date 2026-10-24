@@ -18,4 +18,3 @@ individuality and support their involvement with others in mutually
 created learning experiences that nurture debate and challenge their
 thinking.
 
-

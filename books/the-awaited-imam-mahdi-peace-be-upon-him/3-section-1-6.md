@@ -187,13 +187,11 @@ fairness just as it was previously filled with tyranny and injustice.”
 وآله وسلم بلاء يصيب هذه الأمة، حتى) لا يجد المؤمن ملجأ يلتجئ إليه من
 الظلم،
 
-<p dir="rtl">
 فيبعث الله عز وجل رجلا من عترتي، فيملأ الأرض قسطا وعدلا كما ملئت ظلما
 وجورا، يرضى عنه ساكن السماء وساكن الأرض، لا تدخر الأرض من بذرها شيئا إلا
 أخرجته، ولا السماء من قطرها شيئا إلا صبه الله عليهم مدرارا، يعيش فيها
 سبع سنين أو ثمان أو تسع، تتمنى الأحياء الأموات مما صنع الله عز وجل بأهل
 الأرض من خيره.
-</p>
 
 “Abū Sa‘īd Khudrī (RA) says that the Messenger of Allāh*(Peace Be Upon
 Him and His Household)* mentioned a great test that will face this
@@ -329,10 +327,8 @@ Section 5 : Imām Mahdī (Peace Be Upon Him) as Allāh’s Caliph
 يقتتل عند كنزكم ثلاثة كلهم ابن خليفة، ثم لا يصير إلى واحد منهم، ثم تطلع
 الرايات السود من قبل المشرق، فيقتلونكم قتلا لم يقتله قوم
 
-<p dir="rtl">
 ثم ذكر شيئا لا أحفظه، فقال: فإذا رأيتموه فبايعوه ولو حبوا على الثلج،
 فإنه خليفة الله المهدي.
-</p>
 
 “Thawbān (RA) narrates that the Messenger of Allāh*(Peace Be Upon Him
 and His Household)* said: Three persons will wage war near your
@@ -352,10 +348,8 @@ Necessary Clarification: Ibn Hajar ‘Asqalānī comments in Fath-ul-bārī
 this tradition is the one referred to by Abū Hurayrah (RA) in this
 tradition:
 
-<p dir="rtl">
 قال رسول الله صلى الله عليه وآله وسلم: يوشك الفرات أن يحسر عن كنز من
 ذهب.
-</p>
 
 “The Messenger of Allāh*(Peace Be Upon Him and His Household)* said: The
 time is near when the river Euphrates (having dried up) will reveal a
@@ -428,11 +422,9 @@ Tufayl took place in Makkah.”
 هذه الأمة، إذا صارت الدنيا هرجا ومرجا وتظاهرت الفتن وتقطعت السبل وأغار
 بعضهم
 
-<p dir="rtl">
 على بعض، فلا كبير يرحم صغيرا ولا صغير يؤقر كبيرا، بعث الله عز وجل عند
 ذلك منهما من يفتح حصون الضلالة وقلوبا غلفا يقوم بالدين في آخر الزمان كما
 قمت في أول الزمان، ويملأ الأرض عدلا كما ملئت جورا.
-</p>
 
 “‘Alī al-Hilālī (RA) narrates that the Prophet*(Peace Be Upon Him and
 His Household)* said to Fātimah*(Allāh Be Pleased With Her)* : I swear
@@ -465,9 +457,7 @@ at the Holy House (Bayt-ul-Muqaddas).”
 وآله وسلم قال: لا تقوم الساعة حتى يخرج عليهم رجل من أهل بيتي فيضربهم حتى
 يرجعوا إلى الحق. قلت: وكم يملك؟
 
-<p dir="rtl">
 قال: خمسا واثنين.
-</p>
 
 “Abū Hurayrah (RA) has narrated: My beloved Abū al-Qāsim*(Peace Be Upon
 Him and His Household)* said to me: The Day of Judgement will not come
@@ -485,5 +475,4 @@ caliph in my Ummah who will generously distribute wealth without keeping
 a record of it. And I swear by the One who controls my life! Certainly
 that the dominance (of Islam) will return (that is, Islam will recapture
 its lost glory and retrieve its status during his reign).”
-
 

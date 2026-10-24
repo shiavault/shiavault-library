@@ -464,52 +464,51 @@ community today than it was fourteen hundred years ago. It invites us
 still to 'a garden whose breadth is greater than the heavens and earth,
 prepared for those who fear God'.
 
-[^1] See 2:127, 3:96.
-[^2] See 3:33.
-[^3] Musnad Ibn Hanbal, quoted in M. Ayoub, Redemptive Suffering in
+[^1]: See 2:127, 3:96.
+[^2]: See 3:33.
+[^3]: Musnad Ibn Hanbal, quoted in M. Ayoub, Redemptive Suffering in
 Islam (The Hague, 1978), p. 25, and see also pp. 25-6
 [^4] Ahmad b. Hanbal, Musnad (Cairo, 1313), IV, 323.
-[^5] Abu 'Abd Allah Muhammad b. Abd Allah al-Nisaburi, Mustadrak
+[^5]: Abu 'Abd Allah Muhammad b. Abd Allah al-Nisaburi, Mustadrak
 al-sahihayn (Haydarabad [Deccan], 1324), III, 147. See also 33:33.
-[^6] See, for example, the commentary on this verse in al-Zamakhshari
+[^6]: See, for example, the commentary on this verse in al-Zamakhshari
 and al-Tabari.
-[^7] Ala al-Din Ali al-Muttaqi b. Husam al-Din al-Hindi, Kanz al-'ummal
+[^7]: Ala al-Din Ali al-Muttaqi b. Husam al-Din al-Hindi, Kanz al-'ummal
 (Haydarabad [Deccan], 1312), p. 217.
-[^8] See the commentary on 33: 33 in al-Suyuti, Al-Durr al-manthur.
-[^9] See 3:61. see also Muhammad b. 'Isa al-Tirmidhi, Sahih al-Tirmidhi
+[^8]: See the commentary on 33: 33 in al-Suyuti, Al-Durr al-manthur.
+[^9]: See 3:61. see also Muhammad b. 'Isa al-Tirmidhi, Sahih al-Tirmidhi
 (Cairo, 1920), II, 300, and Ibn Hanbal, I, 185.
-[^10] Abu Ja'far Ahmad al-Muhibb al-Tabari, Al-Riyad al-nadira (Cairo,
+[^10]: Abu Ja'far Ahmad al-Muhibb al-Tabari, Al-Riyad al-nadira (Cairo,
 n.d.), II, 199 For other versions of this tradition, see Murtada
 al-Husayni al-Fayruzabadi, Fada'il al-khamsa fi sihah al- sitta (Najaf,
 1384), p. 252.
-[^11] See the commentaries on this verse in al-Zamakhshari, al-Tabari,
+[^11]: See the commentaries on this verse in al-Zamakhshari, al-Tabari,
 and al-Suyuti.
-[^12] 76:8.
-[^13] For a detailed discussion of this tradition, see M Ayoub, pp
+[^12]: 76:8.
+[^13]: For a detailed discussion of this tradition, see M Ayoub, pp
 43-5.
-[^14] Abu Nu'aym, Ahmad b. Abd Allah al-Isbahani, Hilyat al-awliya'
+[^14]: Abu Nu'aym, Ahmad b. Abd Allah al-Isbahani, Hilyat al-awliya'
 (Cairo, 1351). I, 86.
-[^15] Al-Muttaqi al-Hindi, VIII, 151, and IV 217. See also Shihab al-Din
+[^15]: Al-Muttaqi al-Hindi, VIII, 151, and IV 217. See also Shihab al-Din
 Ahmad b. Hajar al-Haytami al-Asqalani, Al-Sawa'iq al-Muhriqa (Cairo,
 1312), p. 150.
-[^16] See the commentary on 2:37 in al-Suyuti.
-[^17] Al-Muttaqi al-Hindi, I, 234.
-[^18] Al-Fayruzabadi, III, 187.
-[^19] Ibn Hanbal, II, 513; al-Muttaqi al-Hindi, VII, 109.
+[^16]: See the commentary on 2:37 in al-Suyuti.
+[^17]: Al-Muttaqi al-Hindi, I, 234.
+[^18]: Al-Fayruzabadi, III, 187.
+[^19]: Ibn Hanbal, II, 513; al-Muttaqi al-Hindi, VII, 109.
 [^20] Al-Muttaqi al-Hindi, p. 221
-[^21] Al-Tirmidhi, II, 307
-[^22] Ibn Hajar, p. 118.
-[^23] Abu Bakr Ahmad b Husayn b. al-Bayhaqi, Al-Sunan al-Kubra
+[^21]: Al-Tirmidhi, II, 307
+[^22]: Ibn Hajar, p. 118.
+[^23]: Abu Bakr Ahmad b Husayn b. al-Bayhaqi, Al-Sunan al-Kubra
 (Haydarabad, 1344), III, 337.
-[^24] Ibn Hajar, p. 291.
-[^25] See the commentary on 19:13 in al-Suyuti.
-[^26] Al-Tirmidhi, II, 306.
-[^27] See the commentary on sura 108 in al-Suyuti.
-[^28] Muhibb al-Din Ahmad b. Abd Allah al-Tabari, Dhakha'ir al- 'uqba
+[^24]: Ibn Hajar, p. 291.
+[^25]: See the commentary on 19:13 in al-Suyuti.
+[^26]: Al-Tirmidhi, II, 306.
+[^27]: See the commentary on sura 108 in al-Suyuti.
+[^28]: Muhibb al-Din Ahmad b. Abd Allah al-Tabari, Dhakha'ir al- 'uqba
 (n.p., 1356), p. 151. Note also the popularity of the Mosque of the Head
 of the Imam Husayn in Cairo as a place of pilgrimage.
-[^29] Shihab al-Din Ahmad b. Hajar al-Haytami al-Asqalani, Tahdhib
+[^29]: Shihab al-Din Ahmad b. Hajar al-Haytami al-Asqalani, Tahdhib
 al-tahdhib (Haydarabad [Deccan], 1325), II, 348.
-[^30] See 9:111.
-
+[^30]: See 9:111.
 

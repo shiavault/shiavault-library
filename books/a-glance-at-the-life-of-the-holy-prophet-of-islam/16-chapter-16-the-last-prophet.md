@@ -217,4 +217,3 @@ p.91; Ruh ul-Ma'ani, Vol. 22, p.32.
 
 [^7]: Uyun akhbar ul-Reza, Vol. 2, p.80.
 
-

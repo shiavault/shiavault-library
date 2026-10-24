@@ -45,4 +45,3 @@ predication called?
 is called a verbal sentence. For example: **زُرِعَ** **الحبُّ** (The
 grains were planted.)
 
-

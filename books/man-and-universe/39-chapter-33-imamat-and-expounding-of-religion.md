@@ -569,4 +569,3 @@ adherence. The Holy Prophet has declared his descendants equal with the
 Qur’an. He himself has said that the Qur'an was the major 'thaqal' and
 his descendants the minor 'thaqal'.
 
-

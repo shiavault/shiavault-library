@@ -13,12 +13,8 @@ The First Verse
 In Chapter 24 known as an-Nur (the Light), in verse 30, Allah commands
 Prophet Muhammad as follows:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلْمُؤْمِنِيْنَ يَغُضُّوْا مِنْ أَبْصَارِهِمْ وَ يَحْفَظُوْا
-فُرُوْجَهُمْ, ذَلِكَ أَزْكَى لَهُمْ.
-  </p>
-</blockquote>
+> قُلْ لِلْمُؤْمِنِيْنَ يَغُضُّوْا مِنْ أَبْصَارِهِمْ وَ يَحْفَظُوْا
+> فُرُوْجَهُمْ, ذَلِكَ أَزْكَى لَهُمْ.
 
 **“*****Say to the believing men that: they should cast down their
 glances and guard their private parts (by being chaste). This is better
@@ -32,12 +28,8 @@ downwards. This is known as “*hijab* of the eyes”.
 Then in the next verse, Allah commands the Prophet to address the
 **women**:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَ يَحْفَظْنَ
-فُرُوْجَهُنَّ...
-  </p>
-</blockquote>
+> قُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَ يَحْفَظْنَ
+> فُرُوْجَهُنَّ...
 
 ***“Say to the believing women that: they should cast down their glances
 and guard their private parts (by being chaste)…”***
@@ -59,12 +51,8 @@ just abiding by the Qur’anic as well as Biblical teaching.
 After “*hijab* of the eyes” came the order describing the **dress code**
 for women:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ يُبْدِيْنَ زِيْنَتَهُنَّ إِلاَّ مَا ظَهَرَ مِنْهَا وَ
-لْيَضْرِبْنَ بِخُمُرِهِنَّ عَلىَ جُيُوْبِهِنَّ...
-  </p>
-</blockquote>
+> وَ لاَ يُبْدِيْنَ زِيْنَتَهُنَّ إِلاَّ مَا ظَهَرَ مِنْهَا وَ
+> لْيَضْرِبْنَ بِخُمُرِهِنَّ عَلىَ جُيُوْبِهِنَّ...
 
 ***“...and not display their beauty except what is apparent, and they
 should place their*** **khumur** ***over their bosoms...”***
@@ -122,12 +110,8 @@ The Second Verse
 In Chapter 33 known as al-Ahzab, verse 59, Allah gives the following
 command to Prophet Muhammad:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ, قُلْ لأَزْوَاجِكَ وَ بَنَاتِكَ وَ نِسآءِ
-الْمُؤْمِنِيْنَ: يُدْنِيْنَ عَلَيْهِنَّ مِنْ جَلاَبِيْبِهِنَّ...
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ, قُلْ لأَزْوَاجِكَ وَ بَنَاتِكَ وَ نِسآءِ
+> الْمُؤْمِنِيْنَ: يُدْنِيْنَ عَلَيْهِنَّ مِنْ جَلاَبِيْبِهِنَّ...
 
 ***“O Prophet! Say to*** ***your wives, your daughters, and the women of
 the believers that: they should let down upon themselves their***
@@ -179,5 +163,4 @@ the commentaries of al-Kashshaf, Ibn Kathir, at-Tabari, and al-Qurtubi.
 
 [^5]: Ibid. al-Munjid, p. 96; at-Turayhi, Majma‘u ’l-Bahrayn, vol. 1,
 p.384.
-
 

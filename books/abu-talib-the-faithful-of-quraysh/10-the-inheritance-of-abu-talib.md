@@ -989,4 +989,3 @@ p.37 about the tradition narrated by Onayss.
 [^69]: As-sawa’iqul Muhriqa p.65, al-Ghadeer, vol. 9 p.248 and in p. 303
 there is another tradition of the same kind.
 
-

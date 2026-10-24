@@ -142,7 +142,6 @@ His help and His guidance. I should here like to offer my apologies, in
 case; I have been short of politeness. I bank on the funds of their
 understanding and their forgiveness.
 
-
 **Saafi Golpayegani
 Qum, IRAN
 THE END

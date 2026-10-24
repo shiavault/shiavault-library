@@ -309,4 +309,3 @@ leader?
 Sunni reference: History of al-Tabari, English version, v15, pp
 141-144
 
-

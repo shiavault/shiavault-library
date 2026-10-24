@@ -206,4 +206,3 @@ sufferings. With her pure, child‑like behavior, she sympathizes with
 him. It is because of this that she comes to be called ummi *abi­ha,*
 the mother of her father.
 
-

@@ -584,4 +584,3 @@ detailed. But I think you will get benefit from it. Its price is Shs.
 About Arabic Language : I am looking out for such a Muallim as you want.
 I will send to you some books when you are free from National Service.
 
-

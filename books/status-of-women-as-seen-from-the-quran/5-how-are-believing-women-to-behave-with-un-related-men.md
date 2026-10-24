@@ -55,7 +55,6 @@ the Qur'an also gives us evidence to refute the claim of those who
 associate "Niqab" (Veils, 'Ninja style' face covers) as an ingredient of
 a women's dress code ordained by Allah.
 
-
 **The Example Of Mary**
 
 Mary the mother of Jesus (p) is mentioned in the Qur'an as the woman
@@ -162,5 +161,4 @@ ingredient or pattern of women's dress.
 
 We should strive to in-form and re-form our selves through Qur'anic
 guidance.
-
 

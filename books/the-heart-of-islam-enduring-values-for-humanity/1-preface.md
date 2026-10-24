@@ -96,4 +96,3 @@ in the Islamic world.
 
 *Dhu’l-hijjah a.h. 1423*
 
-

@@ -226,4 +226,3 @@ bi-ma‘rifat-il-atrāf* (5:359\#6775); ‘Aynī,*‘Umdat-ul-qārī* (7:29);
 ‘Asqalānī,*Fath-ul-bārī* (2:494); Qastallānī,*al-Mawāhib-ul-laduniyyah*
 (4:271); and Zurqānī in his*Commentary* (11:140).
 
-

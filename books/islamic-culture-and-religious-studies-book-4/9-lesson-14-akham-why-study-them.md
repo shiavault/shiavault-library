@@ -156,7 +156,6 @@ in the second row should wait for those in the first row to recite their
 Takbir before reciting their own takbir. This means that those in the
 second row can chose not to wait and still pray valid Salaat.
 
-
 **III.Ehtiyate - Waajib**
 
 If a marja'e marks a fatwa as Ehtiyate-Waajib, then this means that his
@@ -169,5 +168,4 @@ cannot trace its owner. It is Ehtiyate-Waajib for you to give out that
 item in charity on behalf of the owner. This means that if another
 Marja'e has a different fatwa regarding this issue, which you find
 easier to perform then you can choose to follow him.
-
 

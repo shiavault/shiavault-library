@@ -8,7 +8,6 @@ explanatory remarks a passage written by Khwaja Nasiruddin Tusi. This
 passage is very precise and the Shi'ah and the Sunni scholars alike have
 been commenting on it since it was written.
 
-
 You must have heard the name of a book, Tajrid, written by Khwaja
 Nasiruddin. A part of this book deals with logic and is called the logic
 of Tajrid. Another part of it deals with scholastic theology and
@@ -34,7 +33,6 @@ sound theories about the moon. There is no doubt that Allama Hilli is a
 genius in his own field that is jurisprudence. He is the author of many
 books, including one in two volumes named Tazkiratul Fuqaha. When one
 studies this book, one marvels at the mastery of its author.
-
 
 Muhammad Qazwini says that when he was in Tehran he used to attend the
 lectures of Mirza Ashtiyani. Later when he went to Europe, and had a
@@ -300,5 +298,4 @@ in this connection that the Sunnis either do not accept that such texts
 exist or interpret them differently. In many cases they do not deny the
 reports totally, but allege that they are isolated reports, not
 continuous or mutawatir.
-
 

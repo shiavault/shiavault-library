@@ -51,4 +51,3 @@ better for women than the Western customs in which the average duration
 of marriage is five years and in which it is common for men to keep
 mistresses.
 
-

@@ -10,4 +10,3 @@ not forget to send salutations on the Holy Prophet (S) and his progeny
 on the divine bounties, as mentioned in Ziyaarah al-Jaame’ah and
 reliable and Mutawatir traditions.
 
-

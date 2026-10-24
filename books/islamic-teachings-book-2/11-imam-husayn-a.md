@@ -55,4 +55,3 @@ Questions
 
 3. How did Imam Husayn (a) meet Yazid's challenge?
 
-

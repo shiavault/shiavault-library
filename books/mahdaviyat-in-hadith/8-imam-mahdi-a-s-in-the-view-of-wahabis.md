@@ -90,7 +90,5 @@ replies. Keeping these facts in mind, is there any Muslim who can doubt
 the veracity of this belief ? Is it possible that someone claims to be a
 Muslim but does not believe in this fundamental creed ?
 
-
 May Allah helps us in following the right path
-
 

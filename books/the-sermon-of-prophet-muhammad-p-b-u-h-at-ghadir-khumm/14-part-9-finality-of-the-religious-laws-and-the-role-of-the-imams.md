@@ -136,4 +136,3 @@ the gardens.4
 footnotes.
 4 cf. Chapter 27, Verses 89-90 of the Holy Quran.
 
-

@@ -185,7 +185,7 @@ believes that even a fool must accept God.
 Proslogion see Anselm’s Basic Writings, translated by S. N. Deanse.
 
 4 See for example the introduction which is written by M. Motahhary on
-Tabatabaii’s book, Osoole Falsafeh wa Ravishi Realism V p.[^34]:
+Tabatabaii’s book, Osoole Falsafeh wa Ravishi Realism V p.34.
 
 5 See footnotes of M. Motahhary on Osoole Falsafeh wa Ravishi Realism V,
 p. [^69]:
@@ -2074,7 +2074,7 @@ second part.
 37 See Mulla Sadra,* Al-Asfar* pp. 23-27, 68-69; Al-Shavahid
 al-Robubiyyat, pp. 7, 8; Al-Masha'ir, pp 13-19; Sabzavari Mulla hadi,
 Sharh al-Manzumat fi al-*Hikmat* in its translation by Mohaghegh Mehdi
-and Izutsu Toshihiko, The Metaphysics of Sabzavari p.[^31]:
+and Izutsu Toshihiko, The Metaphysics of Sabzavari p.31.
 
 38 Mulla Sadra, Al-Masha'ir, p .[^12]:
 
@@ -2140,9 +2140,9 @@ possibility is scattered in his book Asfar. To explain his view I use
 his commentator, A. Javadi Amoli; see A. Javadi Amoli, Proofs of Divine
 Existence, p.158-[^159]:
 
-59 Ghazi Azodi Iji, Sharhi Mavaqif, Vol. III p.[^121]:
+59 Ghazi Azodi Iji, Sharhi Mavaqif, Vol. III p.121.
 
-60 Mulla Sadra Asfar, vol. I p.[^91]:
+60 Mulla Sadra Asfar, vol. I p.91.
 
 61 A. Javadi Amoli, Proofs of Divine Existence, p. [^163]:
 

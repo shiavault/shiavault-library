@@ -138,4 +138,3 @@ legal decrees which rely on certain backgrounds necessary for them.
  These are the true centres which addresses in order to build this
 positive edict; the blessed Islamic *hijab*.
 
-

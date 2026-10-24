@@ -45,7 +45,6 @@ with the help of the following story we will learn how to place our
 faith in Almighty God firmly, with sound reasoning and full
 understanding.
 
-
 **Faith in God**
 
 The holy Prophet Muhammad (p.b.u.h.) was once walking with his
@@ -210,5 +209,4 @@ surface of the unmoving rock, pushing with all of his might.
 
 Each night the man returned to his cabin sore and worn out, feeling
 that his whole day had been spent in vain.
-
 

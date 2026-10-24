@@ -216,4 +216,3 @@ this shall be discussed in the next question.[^2]
 
 [^2]: Tafsir-e-Namuna, vol. 11, pg. 81
 
-

@@ -222,4 +222,3 @@ A. How many Muslim women have fallen sick just because of "Purdah"? Do
 you have any data to compare their rate of sickness and mortality with
 those women who do not observe Purdah?
 
-

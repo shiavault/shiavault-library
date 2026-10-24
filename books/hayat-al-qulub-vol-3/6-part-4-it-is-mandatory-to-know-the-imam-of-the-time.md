@@ -106,11 +106,7 @@ Kulaini and Nomani have, with reliable chains of narrators, narrated
 from Ibne Baseer that people sought the Tafsir of this verse from Imam
 Ridha (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنْ اللَّهِ.
-  </p>
-</blockquote>
+> وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنْ اللَّهِ.
 
 ***And who is more erring than he who follows his low desires without
 any guidance from Allah?*** **(Sura Qasas 28:50)**
@@ -143,13 +139,9 @@ that: O Nourisher! I did not know that the sons of Bibi Fatima (s.a.)
 are the rulers and guides over all the creation. This verse has been
 revealed in favor of the Shias of Fatima (s.a.):
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لَا
-تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لَا
+> تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
 
 ***O my servants who have oppressed yourselves by committing numerous
 sins! Do not be disappointed about the mercy of Allah. Verily, if Allah
@@ -177,12 +169,8 @@ his deeds during Islam and ignorance (during his entire life).
 
 In connection with the verse,
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
-اهْتَدَى.
-  </p>
-</blockquote>
+> وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
+> اهْتَدَى.
 
 **Verily I will forgive the one who left bad deeds and believed and did
 good deeds and got guidance… (Sura Taha 20:82)**
@@ -339,5 +327,4 @@ followers too. This continues until, Satan, who is the wolf on the path
 of religion, taking benefit of the anxiety of that person, drives him
 totally out of the fold of religion or destroys him by luring him
 towards the obedience of any false Imam.
-
 

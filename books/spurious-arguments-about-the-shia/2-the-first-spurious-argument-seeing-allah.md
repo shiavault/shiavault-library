@@ -222,4 +222,3 @@ and physical, earthly and heavenly, of all places and all times, of
 those things that stand still and those that move, of all states and of
 all moments.
 
-

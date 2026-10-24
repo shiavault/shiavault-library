@@ -19,4 +19,3 @@ pledge.”[^1]
 
 [^1]: Bihar al-Anwar, vol. 49, p. 155 from al-Kafi.
 
-

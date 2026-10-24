@@ -1724,4 +1724,3 @@ ill and died of terrible sorrows. She was a poetess and sung elegies
 bewailing Husayn (a.s.). [Al- Mahbar 3/13; Elamun Nisa 1/378 and Al-Elam
 1/378]
 
-

@@ -1182,4 +1182,3 @@ The words al-Rahman and al-Rahi'm may in bismillah either relate to ism
 or Allah. Both the possibilities are there. God-willing we will see
 later which of these two possibilities appears to be more reasonable.
 
-

@@ -249,4 +249,3 @@ Your*
 
 [^3]: Nahj al-Balagha (The Peak of Eloquence), sermon 176.
 
-

@@ -2030,4 +2030,3 @@ onwards; Wāqidi 3:989 onwards). And see the transformation of the army
 after the passing away of the Holy Prophet (S) (Tārikh Ibn Khayyāt
 1:103; Ibn Atheer 2:342, 349, 372; Ibn Katheer 6:316)
 
-

@@ -150,10 +150,5 @@ assisting one’s brothers [financially].
 kindness [to others].
 
 > 34ـ يُسْتَدَلُّ عَلى كَرَمِ الرَّجُلِ بِحُسْنِ بِشْرِهِ، وبَذْلِ
-<blockquote dir="rtl">
-  <p>
-بِرِّهِ.
-  </p>
-</blockquote>
-
+> بِرِّهِ.
 

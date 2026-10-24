@@ -153,4 +153,3 @@ ul-Islam, Vol. 1, p.83, the 26th sermon.
 
 [^5]: The third edition of the Encyclopedia, p.255. 
 
-

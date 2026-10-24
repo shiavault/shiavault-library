@@ -514,4 +514,3 @@ avoid touching any part of the writings of Dua.
 2. Reciting Dua by looking into it (without touching the writing) or by
 memory is allowed during the monthly period.
 
-

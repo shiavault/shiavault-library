@@ -3,12 +3,8 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) claims:
 
-<blockquote dir="rtl">
-  <p>
-أما قول علي سلوني ... وأما الذين كان علي يخاطبهم فهم من جملة عوام
-الناس التابعين وكان كثير منهم من شرار التابعين
-  </p>
-</blockquote>
+> أما قول علي سلوني ... وأما الذين كان علي يخاطبهم فهم من جملة عوام
+> الناس التابعين وكان كثير منهم من شرار التابعين
 
 As for the statement of ‘Ali “Ask me” ... those whom ‘Ali was
 addressing, **they were commoners among the Tabi’in**, and a lot of them
@@ -16,13 +12,9 @@ were the evil ones among the Tabi’in.[^1]
 
 He clarifies further:
 
-<blockquote dir="rtl">
-  <p>
-فقول علي لمن عنده بالكوفة سلوني هو من هذا الباب لم يقل هذا لابن مسعود
-ومعاذ وأبي بن كعب وأبي الدرداء وسلمان وأمثالهم .... فلم يسأله قط لا
-معاذ ولا أبي ولا ابن مسعود ولا من هو دونهم من الصحابة
-  </p>
-</blockquote>
+> فقول علي لمن عنده بالكوفة سلوني هو من هذا الباب لم يقل هذا لابن مسعود
+> ومعاذ وأبي بن كعب وأبي الدرداء وسلمان وأمثالهم .... فلم يسأله قط لا
+> معاذ ولا أبي ولا ابن مسعود ولا من هو دونهم من الصحابة
 
 **The statement of ‘Ali “Ask me” TO THOSE WITH HIM IN KUFAH was in this
 regard**. He never said this to Ibn Mas’ud, Mu’adh, Ubayy b. Ka’b, Abu
@@ -42,19 +34,15 @@ the challenge of ‘Ali.
 To get a clearer picture, let us present this narration of Imam Ahmad
 (d. 241 H) :
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا حسين بن محمد وأبو نعيم المعنى قالا ثنا
-فطر عن أبي الطفيل قال: جمع علي رضي الله تعالى عنه الناس في الرحبة ثم
-قال لهم أنشد الله كل امرئ مسلم سمع رسول الله صلى الله عليه و سلم يقول
-يوم غدير خم ما سمع لما قام فقام ثلاثون من الناس وقال أبو نعيم فقام ناس
-كثير فشهدوا حين أخذه بيده فقال للناس أتعلمون انى أولى بالمؤمنين من
-أنفسهم قالوا نعم يا رسول الله قال من كنت مولاه فهذا مولاه اللهم وال من
-والاه وعاد من عاداه قال فخرجت وكأن في نفسي شيئا فلقيت زيد بن أرقم فقلت
-له انى سمعت عليا رضي الله تعالى عنه يقول كذا وكذا قال فما تنكر قد سمعت
-رسول الله صلى الله عليه و سلم يقول ذلك له
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا حسين بن محمد وأبو نعيم المعنى قالا ثنا
+> فطر عن أبي الطفيل قال: جمع علي رضي الله تعالى عنه الناس في الرحبة ثم
+> قال لهم أنشد الله كل امرئ مسلم سمع رسول الله صلى الله عليه و سلم يقول
+> يوم غدير خم ما سمع لما قام فقام ثلاثون من الناس وقال أبو نعيم فقام ناس
+> كثير فشهدوا حين أخذه بيده فقال للناس أتعلمون انى أولى بالمؤمنين من
+> أنفسهم قالوا نعم يا رسول الله قال من كنت مولاه فهذا مولاه اللهم وال من
+> والاه وعاد من عاداه قال فخرجت وكأن في نفسي شيئا فلقيت زيد بن أرقم فقلت
+> له انى سمعت عليا رضي الله تعالى عنه يقول كذا وكذا قال فما تنكر قد سمعت
+> رسول الله صلى الله عليه و سلم يقول ذلك له
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Husayn b. Muhammad
 and Abu Na’im al-Ma’ani – Faṭr – Abu al-Tufayl:
@@ -73,11 +61,7 @@ enemy of whosoever is his enemy.”[^3]
 
 Shaykh al-Arnauṭ states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^4]
 
@@ -93,13 +77,9 @@ Shaykh claims that they never did. But, is that the case? ‘Allamah
 al-Albani (d. 1420 H) replies:
 
 > أخرجه ابن أبى شيبة فى " المصنف " (11/44/2) من طريق سعيد بن المسيب: "
-<blockquote dir="rtl">
-  <p>
-أن رجلا من أهل الشام يقال له (ابن حبرى) وجد مع امرأته رجلا فقتلها , أو
-قتلهما , فرفع إلى معاوية فأشكل عليه القضاء فى ذلك , فكتب إلى أبى موسى
-أن سل عليا عن ذلك , فسأل أبو موسى عليا
-  </p>
-</blockquote>
+> أن رجلا من أهل الشام يقال له (ابن حبرى) وجد مع امرأته رجلا فقتلها , أو
+> قتلهما , فرفع إلى معاوية فأشكل عليه القضاء فى ذلك , فكتب إلى أبى موسى
+> أن سل عليا عن ذلك , فسأل أبو موسى عليا
 
 Ibn Abi Shaybah recorded it in *al-Musnaf* (2/44/11) from the route of
 Sa’id b. Jubayr:
@@ -112,11 +92,7 @@ Musa asked ‘Ali**.[^5]
 
 The ‘Allamah comments:
 
-<blockquote dir="rtl">
-  <p>
-قلت: ورجاله ثقات , لكن سعيد بن المسيب مختلف فى سماعه من على.
-  </p>
-</blockquote>
+> قلت: ورجاله ثقات , لكن سعيد بن المسيب مختلف فى سماعه من على.
 
 I say: **Its narrators are trustworthy**. However, there is disagreement
 over whether Sa’id b. Musayyab heard from ‘Ali or not.[^6]
@@ -124,13 +100,9 @@ over whether Sa’id b. Musayyab heard from ‘Ali or not.[^6]
 Of course, the correct opinion is that he heard from ‘Ali, as declared
 by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-سعيد بن المسيب بن حزن بن أبي وهب بن عمرو بن عائذ بن عمران ابن مخزوم
-القرشي المخزومي. روى عن أبي بكر مرسلا وعن عمر وعثمان وعلي وسعد بن أبي
-وقاص….
-  </p>
-</blockquote>
+> سعيد بن المسيب بن حزن بن أبي وهب بن عمرو بن عائذ بن عمران ابن مخزوم
+> القرشي المخزومي. روى عن أبي بكر مرسلا وعن عمر وعثمان وعلي وسعد بن أبي
+> وقاص….
 
 Sa’id b. al-Musayyab b. Huzn b. Abi Wahb b. ‘Amr b. ‘Aiz b. ‘Imran b.
 Makhzum al-Qurshi al-Makhzumi. He narrated from Abu Bakr in a *mursal*
@@ -141,33 +113,21 @@ It was only from Abu Bakr that he did not hear directly. As for ‘Umar,
 heard, they are grouped together in the same unbroken, long list of
 names. Moreover, Imam al-Tirmidhi (d. 279 H) records this chain:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن منيع حدثنا إسماعيل بن إبراهيم حدثنا علي بن زيد عن سعيد
-بن المسيب عن علي بن أبي طالب
-  </p>
-</blockquote>
+> حدثنا أحمد بن منيع حدثنا إسماعيل بن إبراهيم حدثنا علي بن زيد عن سعيد
+> بن المسيب عن علي بن أبي طالب
 
 Ahmad b. Muni’ – Isma’il b. Ibrahim – ‘Ali b. Yazid – **Sa’id b.
 al-Musayyab** – **‘Ali b. Abi Talib**.[^8]
 
 Al-Tirmidhi notably comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث علي حسن صحيح
-  </p>
-</blockquote>
+> حديث علي حسن صحيح
 
 The *hadith* of ‘Ali is *hasan sahih*.[^9]
 
 ‘Allamah al-Albani backs him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^10]
 
@@ -186,14 +146,10 @@ But, there is more! The second rebel leader who also waged a bloody
 campaign against ‘Ali was Umm al-Muminin ‘Aishah. Imam Ahmad records
 another interesting narration:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرزاق أخبرنا سفيان عن عمرو بن قيس عن
-الحكم عن القاسم بن مخيمرة عن شريح بن هانئ قال: أتيت عائشة رضي الله
-عنها أسألها عن الخفين فقالت عليك بابن أبي طالب فاسأله فإنه كان يسافر
-مع رسول الله صلى الله عليه و سلم فأتيته فسألته
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرزاق أخبرنا سفيان عن عمرو بن قيس عن
+> الحكم عن القاسم بن مخيمرة عن شريح بن هانئ قال: أتيت عائشة رضي الله
+> عنها أسألها عن الخفين فقالت عليك بابن أبي طالب فاسأله فإنه كان يسافر
+> مع رسول الله صلى الله عليه و سلم فأتيته فسألته
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Razzaq –
 Sufyan – ‘Amr b. Qays – al-Hakam – al-Qasim b. Makhirah – Shurayh b.
@@ -206,23 +162,15 @@ peace be upon him.” **So, I went to him and asked him**.[^11]
 
 Al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is *sahih* upon the standard of (Imam) Muslim.[^12]
 
 Imam Abu Ya’la (d. 307 H) further documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو خيثمة حدثنا أبو معاوية حدثنا الأعمش عن الحكم عن القاسم بن
-مخيمرة عن شريح بن هانئ قال: سألت عائشة عن المسح على الخفين فقالت : ائت
-عليا فسله فإنه كان أعلم بذلك مني فأتيت عليا فسألته عن المسح
-  </p>
-</blockquote>
+> حدثنا أبو خيثمة حدثنا أبو معاوية حدثنا الأعمش عن الحكم عن القاسم بن
+> مخيمرة عن شريح بن هانئ قال: سألت عائشة عن المسح على الخفين فقالت : ائت
+> عليا فسله فإنه كان أعلم بذلك مني فأتيت عليا فسألته عن المسح
 
 Abu Khaythamah – Abu Mu’awiyah – Al-A’mash – al-Hakam – al-Qasim b.
 Makhirah – Shurayh b. Hani:
@@ -233,23 +181,15 @@ than me.” **So, I went to ‘Ali and asked him about the wiping**.[^13]
 
 Shaykh Dr. Asad comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^14]
 
 One crucial point here is that Shurayh b. Hani was a Sahabi too.
 Al-Hafiz (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-شريح بن هانئ بن يزيد بن نهيك ويقال شريح بن هانئ بن يزيد بن الحارث بن
-كعب الحارثي أبو المقدام أدرك النبي صلى الله عليه وسلم
-  </p>
-</blockquote>
+> شريح بن هانئ بن يزيد بن نهيك ويقال شريح بن هانئ بن يزيد بن الحارث بن
+> كعب الحارثي أبو المقدام أدرك النبي صلى الله عليه وسلم
 
 Shurayh b. Hani b. Yazid b. Nuhayk, and he is called Shurayh b. Hani b.
 Yazid b. al-Harith b. Ka’b al-Harithi, Abu al-Miqdam: **He met the
@@ -259,14 +199,10 @@ Do we really have to make any further comments at this point? Perhaps,
 we should just close things with these words of Imam Ibn al-Athir (d.
 630 H):
 
-<blockquote dir="rtl">
-  <p>
-وروى يزيد بن هارون عن قطر عن أبي الطفيل قال قال بعض أصحاب النبي لقد
-كان لعلي من السوابق ما لو أن سابقة منها بين الخلائق لوسعتهم خيرا وله
-في هذا أخبار كثيرة نقتصر على هذا منها ولو ذكرنا ما سأله الصحابة مثل
-عمر وغيره رضي الله عنهم لأطلنا
-  </p>
-</blockquote>
+> وروى يزيد بن هارون عن قطر عن أبي الطفيل قال قال بعض أصحاب النبي لقد
+> كان لعلي من السوابق ما لو أن سابقة منها بين الخلائق لوسعتهم خيرا وله
+> في هذا أخبار كثيرة نقتصر على هذا منها ولو ذكرنا ما سأله الصحابة مثل
+> عمر وغيره رضي الله عنهم لأطلنا
 
 Yazid b. Harun narrated from Faṭr from Abu al-Tufayl who said, “Some of
 the Sahabah of the Prophet said: ‘There are certain unmatched qualities
@@ -327,5 +263,4 @@ Muhammad Ma’udh], vol. 3, p. 307 -308, \# 3991
 ‘Abd al-Wahid al-Shaybani al-Jazari, Usd al-Ghabah (Beirut: Dar Ihya
 al-Turath al-‘Arabi; 1st edition, 1417 H) [annotator: ‘Ādil Ahmad
 al-Rufa’i], vol. 4, p. 110
-
 

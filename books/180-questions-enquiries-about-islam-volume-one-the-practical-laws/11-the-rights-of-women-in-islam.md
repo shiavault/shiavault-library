@@ -12,11 +12,7 @@ previous one and became one in which women availed of all kinds of
 individual, social and human rights. The basis of Islamic teachings with
 respect to women is exactly what we read in the Noble Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ
-  </p>
-</blockquote>
+> وَ لَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ
 
 “…and they have rights similar to those against them in a just manner…”
 
@@ -29,31 +25,19 @@ which is actually the purpose of human creation. It is for this reason
 that it has placed man and woman alongside each other, addressed them
 together:
 
-<blockquote dir="rtl">
-  <p>
-ياَ أَيُّهَا النَّاسُ
-  </p>
-</blockquote>
+> ياَ أَيُّهَا النَّاسُ
 
 and:
 
-<blockquote dir="rtl">
-  <p>
-ياَ أَيُّهَا الَّذِينَ آمَنُوا
-  </p>
-</blockquote>
+> ياَ أَيُّهَا الَّذِينَ آمَنُوا
 
 and imposed moral, educative and scientific curriculum upon both of
 them.
 
 By means of verses such as:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَوْ أُنْـثى‏ وَ هُوَ مُؤْمِنٌ
-فَأُولٌئِكَ يَدْخُلُونَ الْجَنَّةَ
-  </p>
-</blockquote>
+> وَ مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَوْ أُنْـثى‏ وَ هُوَ مُؤْمِنٌ
+> فَأُولٌئِكَ يَدْخُلُونَ الْجَنَّةَ
 
 ***“…and whoever does good, whether male or female, and he is a
 believer, these shall enter the garden.”***[^1]
@@ -62,13 +46,9 @@ Islam has promised the benefits of complete prosperity to both the
 sexes.  
  By verses such as:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صالِحاً مِنْ ذَكَرٍ أَوْ أُنْـثى‏ وَ هُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَ لَنَجْزِيَنَّهُمْ أَجْرَهُمْ
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صالِحاً مِنْ ذَكَرٍ أَوْ أُنْـثى‏ وَ هُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَ لَنَجْزِيَنَّهُمْ أَجْرَهُمْ
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***“Whoever does good whether male or female and he is a believer, We
 will most certainly make him live a happy life, and We will most
@@ -82,21 +62,13 @@ comfort.
 Islam considers a woman, like man, to be completely free and
 independent, and the Noble Qur\`an, by way of verses like:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
 
 ***“Every soul is held in pledge for what it earns.”***[^3]
 
 Or
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحاً فَلِنَفْسِهِ وَ مَنْ أَسَاءَ فَعَلَيْهَا
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحاً فَلِنَفْسِهِ وَ مَنْ أَسَاءَ فَعَلَيْهَا
 
 ***“Whoever does good, it is for his own soul, and whoever does evil, it
 is against himself.”***[^4]
@@ -107,12 +79,8 @@ We observe that the Islamic penal code sentences both genders with the
 same kind of retribution, as can be seen in the following verse and
 other similar verses:
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَ الزَّانِي فَاجْلِدُوا كُلَّ واحِدٍ مِنْهُمَا مِائَةَ
-جَلْدَةٍ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَ الزَّانِي فَاجْلِدُوا كُلَّ واحِدٍ مِنْهُمَا مِائَةَ
+> جَلْدَةٍ
 
 ***“The woman and the man guilty of adultery or fornication - flog each
 of them with a hundred whippings.”***[^5]
@@ -123,12 +91,8 @@ monetary privileges, permitting women to enter into various kinds of
 monetary transactions and regarding her as the rightful owner of her
 income and investment. In Suratul Nisa we read:
 
-<blockquote dir="rtl">
-  <p>
-لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا وَ لِلنِّسَاءِ نَصِيبٌ مِمَّا
-اكْتَسَبْنَ
-  </p>
-</blockquote>
+> لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا وَ لِلنِّسَاءِ نَصِيبٌ مِمَّا
+> اكْتَسَبْنَ
 
 ***“Men shall have the benefit of what they earn and women shall have
 the benefit of what they earn.”***[^6]
@@ -139,11 +103,7 @@ word conveys the meaning that the wealth which is acquired becomes
 associated with the person acquiring it[^7],  and also taking into
 consideration the general rule:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّاسُ مُسَلِّطُونَ عَلى أَمْوَالِهِمْ.‏
-  </p>
-</blockquote>
+> أَلنَّاسُ مُسَلِّطُونَ عَلى أَمْوَالِهِمْ.‏
 
 “All the people have authority over their own wealth”,
 
@@ -249,11 +209,7 @@ a woman. There exists no difference between a man and a woman in this
 regard; the doors of success and prosperity lay equally open for both of
 them, just as we read in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-بَعْضُکُمْ مِنْ بَعْضٍ
-  </p>
-</blockquote>
+> بَعْضُکُمْ مِنْ بَعْضٍ
 
 ***“All are from one species and one society.”***[^10]
 
@@ -496,11 +452,7 @@ establishes separation between men and women, it amplifies the greedy
 nature of man and instead of extinguishing it, only serves to inflame
 his covetousness, since:
 
-<blockquote dir="rtl">
-  <p>
-أِلإِِنْسَانُ حَرِيصٌ عَلىَ ماَ مُنِعَ.
-  </p>
-</blockquote>
+> أِلإِِنْسَانُ حَرِيصٌ عَلىَ ماَ مُنِعَ.
 
 “People covet that which is forbidden for them.”
 
@@ -750,12 +702,8 @@ fact.[^16]
 
 In verse 34 of Suratul Nisa, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ اللاَّتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَ اهْجُرُوهُنَّ فِي
-الْمَضَاجِعِ وَ اضْرِبُوهُنَّ
-  </p>
-</blockquote>
+> وَ اللاَّتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَ اهْجُرُوهُنَّ فِي
+> الْمَضَاجِعِ وَ اضْرِبُوهُنَّ
 
 ***“And (as to) those on whose part you fear desertion, admonish them,
 and (if ineffective) leave them alone in the sleeping-places and (if
@@ -799,11 +747,7 @@ proves effective and the woman embarks upon performing her duties, the
 man has no right to inconvenience her and it is for this reason that the
 latter portion of the verse states:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَطَعْنَكُمْ فَلاَ تَبْغُوا عَلَيْهِنَّ سَبِيلاً
-  </p>
-</blockquote>
+> فَإِنْ أَطَعْنَكُمْ فَلاَ تَبْغُوا عَلَيْهِنَّ سَبِيلاً
 
 ***“Then if they obey you, do not seek a way against them.”***
 
@@ -822,11 +766,7 @@ circumstances, had been willing to submit before the truth whereupon
 'Ali (a.s) with harshness and threat of the sword, forced him into
 submission, is well-known.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ كَانَ عَلــِيًّا كَبِيراً
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ كَانَ عَلــِيًّا كَبِيراً
 
 “Surely Allah is High, Great.”
 
@@ -1038,23 +978,15 @@ is not only logical, but practical too.[^19]
 
 In verse 3 of SuratulNisa, we read:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ خِفْتُمْ أَلاَّ تَعْدِلُوا فَوَاحِدَةً
-  </p>
-</blockquote>
+> فَإِنْ خِفْتُمْ أَلاَّ تَعْدِلُوا فَوَاحِدَةً
 
 ***“…but if you fear that you will not do justice (between them), then
 (marry) only one.”***
 
 Similarly, in verse 129 of this same chapter, we read:
 
-<blockquote dir="rtl">
-  <p>
- وَ لَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَ لَوْ
-حَرَصْـتُمْ  
-  </p>
-</blockquote>
+>  وَ لَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَ لَوْ
+> حَرَصْـتُمْ
 
 ***“And you have it not in your power to do justice between wives, even
 though you may wish (it).”***
@@ -1072,12 +1004,8 @@ which is governed by factors external to himself?  It is for this reason
 that Allah has not considered the observance of this kind of justice to
 be obligatory and in verse 129 of this chapter says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَ لَوْ
-حَرَصْتُمْ
-  </p>
-</blockquote>
+> وَ لَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَ لَوْ
+> حَرَصْتُمْ
 
 ***“And you have it not in your power to do justice between wives, (with
 respect to sentimental inclinations) even though you may wish (it).”***
@@ -1091,20 +1019,12 @@ and external in dimension.
 From the above explanation it becomes plain that those, who have sought
 to correlate the above verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ خِفْتُمْ أَلاَّ تَعْدِلُوا فَوَاحِدَةً
-  </p>
-</blockquote>
+> فَإِنْ خِفْتُمْ أَلاَّ تَعْدِلُوا فَوَاحِدَةً
 
 with verse number 129:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسِاءِ وَ لَوْ
-حَرَصْتُمْ
-  </p>
-</blockquote>
+> وَ لَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسِاءِ وَ لَوْ
+> حَرَصْتُمْ
 
 and thus conclude that polygamy is totally forbidden in Islam, have made
 a grave error. - They have argued that the first verse places the
@@ -1120,11 +1040,7 @@ associated with acts and deeds.
 Testifying to this aspect is the latter part of the verse 129 of this
 same chapter, which says:
 
-<blockquote dir="rtl">
-  <p>
-فَلا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوها كَالْمُعَلَّقَةِ
-  </p>
-</blockquote>
+> فَلا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوها كَالْمُعَلَّقَةِ
 
 ***“Now that you cannot observe justice with respect to your sentiments
 between your spouses, at least do not direct all your sentimental
@@ -1336,12 +1252,8 @@ essentials of religion too emphasize this lawfulness - (and the
 difference of opinion that exists in connection with verse 24 of Suratul
 Nisa):
 
-<blockquote dir="rtl">
-  <p>
- فَمَا اسْتَمْتَعْـتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ
-فَرِيضَةً
-  </p>
-</blockquote>
+>  فَمَا اسْتَمْتَعْـتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ
+> فَرِيضَةً
 
 ***“Then as to those whom you profit by, give them their dowries as
 appointed.”***
@@ -1354,12 +1266,8 @@ Prophet (s.a.w) - and the Muslims, during the initial stages of Islam,
 even acted upon this ruling. Also, the famous sentence that has been
 reported from 'Umar: 
 
-<blockquote dir="rtl">
-  <p>
-مُتْعَتَانِ كَانَتَا عَلَى عَهْدِ رَسُولِ اللٌّهِ أَنَا مُحَرِّمُهُماَ
-وَ أُعَاقِبُ عَلَيْهِمَا مُتْعَةُ النِّسَاءِ وَ مُتْعَةُ الْحَجِّ.
-  </p>
-</blockquote>
+> مُتْعَتَانِ كَانَتَا عَلَى عَهْدِ رَسُولِ اللٌّهِ أَنَا مُحَرِّمُهُماَ
+> وَ أُعَاقِبُ عَلَيْهِمَا مُتْعَةُ النِّسَاءِ وَ مُتْعَةُ الْحَجِّ.
 
 “Two mut'ahs existed during the time of the Prophet of Allah and I
 prohibit them and shall punish (those who act upon them), (and these
@@ -1375,11 +1283,7 @@ as such, the nullifier of this ruling would be the sunnah of the Noble
 Prophet (s.a.w). Other traditions state that it was abrogated by the
 verse of Divorce: 
 
-<blockquote dir="rtl">
-  <p>
-لِعِدَّتِهِنَ إِذا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ
-  </p>
-</blockquote>
+> لِعِدَّتِهِنَ إِذا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ
 
 ***“O Prophet! when you divorce women, divorce them for their prescribed
 time.”***
@@ -1551,11 +1455,7 @@ misuse this ruling by arranging a marriage alliance so that the woman,
 by means of this marriage, can return to her first husband, are
 distanced away from Allah's mercy.
 
-<blockquote dir="rtl">
-  <p>
-لَعَنَ اللٌّهُ الْمُحَلِّلَ وَ الْمُحَللَ لَهُ.
-  </p>
-</blockquote>
+> لَعَنَ اللٌّهُ الْمُحَلِّلَ وَ الْمُحَللَ لَهُ.
 
 “Allah curses the 'muhallil', and the person for whom this person has
 endeavoured to act as a 'muhallil'.”[^36]
@@ -1589,11 +1489,7 @@ not only would the second marriage be null and void but in addition, the
 first husband would also never become legitimate for the woman and the
 previously mentioned tradition:
 
-<blockquote dir="rtl">
-  <p>
-لَعَنَ اللٌّهُ الْمُحَلِّلَ وَ الْمُحَللَ لَهُ.
-  </p>
-</blockquote>
+> لَعَنَ اللٌّهُ الْمُحَلِّلَ وَ الْمُحَللَ لَهُ.
 
 probably alludes to this kind of muhallil.[^37]
 
@@ -1602,11 +1498,7 @@ probably alludes to this kind of muhallil.[^37]
 
 In verse 228 of Suratul Baqarah, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْمُطَلَّقاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلاثَةَ قُرُوءِ
-  </p>
-</blockquote>
+> وَ الْمُطَلَّقاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلاثَةَ قُرُوءِ
 
 ***“And the divorced women should keep themselves in waiting for three
 courses.”***
@@ -1651,14 +1543,10 @@ betterment of her relationship with her husband.
 And it is for this reason that we read in the first verse of Suratul
 Talaq:
 
-<blockquote dir="rtl">
-  <p>
-لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَ لاَ يَخْرُجْنَ إِلاَّ أَنْ
-يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ وَ تِلْكَ حُدُودُ اللٌّهِ وَ مَنْ
-يَتَعَدَّ حُدُودَ اللٌّهِ فَقَدْ ظَلَمَ نَفْسَهُ لا تَدْرِي لَعَلَّ
-اللٌّهَ يُحْدِثُ بَعْدَ ذٌلِكَ أَمْراً  
-  </p>
-</blockquote>
+> لا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَ لاَ يَخْرُجْنَ إِلاَّ أَنْ
+> يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ وَ تِلْكَ حُدُودُ اللٌّهِ وَ مَنْ
+> يَتَعَدَّ حُدُودَ اللٌّهِ فَقَدْ ظَلَمَ نَفْسَهُ لا تَدْرِي لَعَلَّ
+> اللٌّهَ يُحْدِثُ بَعْدَ ذٌلِكَ أَمْراً
 
 “Do not drive them out of their houses, nor should they themselves go
 forth, unless they commit an open indecency; and these are the limits of
@@ -1782,5 +1670,4 @@ declared such an act to be lawful and this has been asserted in verse
 [^37]: Tafsir-e-Namunah, vol. 2, pg. 123
 
 [^38]: Tafsir-e-Namunah, vol. 2, pg. 106
-
 

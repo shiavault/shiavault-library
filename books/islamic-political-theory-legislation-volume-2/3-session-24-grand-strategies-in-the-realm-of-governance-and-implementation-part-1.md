@@ -401,4 +401,3 @@ is most important for us is the third form of authority.
 bad. The faithful persons perform (good) acts in his rule while the
 unfaithful enjoy (worldly) benefits in it.” Nahj al-Balaghah, Sermon 40.
 
-

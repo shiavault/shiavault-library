@@ -166,4 +166,3 @@ of men even if he be hidden from their physical eyes. His existence is
 always necessary even if the time has not yet arrived for his outward
 appearance and the universal reconstruction that he is to bring about.
 
-

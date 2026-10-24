@@ -19,4 +19,3 @@ repent…
 
 (Sermon 143)
 
-

@@ -28,4 +28,3 @@ hidden even from his own self, too. (An explanation of people having
 done no favor to the Almighty, but that Allāh does them favors, has
 already been made before in the discussion of pretension).
 
-

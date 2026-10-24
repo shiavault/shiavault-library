@@ -25,16 +25,10 @@ will perish except for those who have precaution; those who have
 precaution will perish except for those who have certainty, and those
 who have certainty are of exalted character.' As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ
-  </p>
-</blockquote>
+> وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ
 
 ***And serve your Lord until there comes to you that which is
 certain.*** (15:99)
-
 
 The lowest level of sincerity is when the bondsman exerts himself as
 much as he can, and then does not consider his action to have any worth
@@ -44,5 +38,4 @@ full duties of slave hood ('ubudiyah) he would be unable to do so. The
 lowest station of the sincere person in the world is safety from all
 wrong actions, to be rescued from the Fire and to win the Garden in the
 next world.
-
 

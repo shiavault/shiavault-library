@@ -68,4 +68,3 @@ the earth {where the ‘Permissible & Forbidden’ (halal & haram) and
 ‘Obedience & Disobedience’ are applicable and possible}. For more
 information see http://www.al-islam.org/shiism/ (Chapter 7).
 
-

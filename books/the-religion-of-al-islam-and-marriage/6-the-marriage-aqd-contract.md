@@ -25,28 +25,20 @@ In the examples given below, we will assume that the brother and sister
 will be reading their own Aqd (contrary to that of having a
 Representative for each side).
 
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِاللهِ مِنَ الشَّيْطانِ الرَّجِيمِ. بِسْمِ اللهِ الرَّحْمنِ
-الرَّحِيمِ.
-  </p>
-</blockquote>
+> أَعُوذُ بِاللهِ مِنَ الشَّيْطانِ الرَّجِيمِ. بِسْمِ اللهِ الرَّحْمنِ
+> الرَّحِيمِ.
 
 *I seek refuge in Allah (SwT) from the accursed Satan.*
 
 *(I begin) in the Name of Allah (SwT), the Merciful, the Compassionate*
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلّهِ الَّذي هَدانا لِهذَا وَما كُنَّا لِنَهْتَدِيَ لَوْ
-لا أَنْ هَدانا اللهُ. وَصَلاةُ وَسَلامُ عَلى سَيَّدِنا وَنَبِيِنا
-وَمَوْلانا وَحَبِيبِ قُلُوبِنا وَطَبِيبِ نُفُوسِنا أَبِي الْقاسِمِ
-مُحَمَّدٍ. وَصَلاةُ وَسَلامُ عَلى أَهْلِ بَيْتِهِ الطَّيِّبِينَ
-الطّاهِرِينَ الْمَعْصُومِينَ الْمَظْلُومِينَ. وَلَعْنَةُ اللهِ عَلى
-أَعْدائِهِمْ مِنْ يَوْمِ أَوَّلِ ظُلْمِهِمْ إلى يُوْمَ الدِّينَ. أَمّا
-بَعْدُ فَقَدْ قالَ اللهُ سُبْحانَهُ وَتَعالى فِي كِتابِهِ:
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلّهِ الَّذي هَدانا لِهذَا وَما كُنَّا لِنَهْتَدِيَ لَوْ
+> لا أَنْ هَدانا اللهُ. وَصَلاةُ وَسَلامُ عَلى سَيَّدِنا وَنَبِيِنا
+> وَمَوْلانا وَحَبِيبِ قُلُوبِنا وَطَبِيبِ نُفُوسِنا أَبِي الْقاسِمِ
+> مُحَمَّدٍ. وَصَلاةُ وَسَلامُ عَلى أَهْلِ بَيْتِهِ الطَّيِّبِينَ
+> الطّاهِرِينَ الْمَعْصُومِينَ الْمَظْلُومِينَ. وَلَعْنَةُ اللهِ عَلى
+> أَعْدائِهِمْ مِنْ يَوْمِ أَوَّلِ ظُلْمِهِمْ إلى يُوْمَ الدِّينَ. أَمّا
+> بَعْدُ فَقَدْ قالَ اللهُ سُبْحانَهُ وَتَعالى فِي كِتابِهِ:
 
 *All the praise belongs solely to Allah (SwT), the One who guided us to
 this and we could not have been guided to this had it not been for the
@@ -60,24 +52,16 @@ first day they committed such oppression, until the Day of Judgement.
 And after this, verily Allah (SwT), the Glorious and High has said in
 His Book:*
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ
-وَإِمَائِكُمْ ۚ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ
-فَضْلِهِ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ
+> وَإِمَائِكُمْ ۚ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ
+> فَضْلِهِ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ
 
 ***"Marry the single people among you and the righteous slaves and
 slave-girls. If you are poor, Allah (SwT) will make you rich through His
 favour; He is Bountiful and All-Knowing" (Surah 24, Verse 32)***
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): مِنْ
-سُنَّتِي أَلتَّزْوِيجُ فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي.
-  </p>
-</blockquote>
+> قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): مِنْ
+> سُنَّتِي أَلتَّزْوِيجُ فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي.
 
 *The Messenger of Allah (S) has said, "Of my tradition is to marry. So
 then whosoever turns away from my tradition (Sunnah) is not from me (my
@@ -85,52 +69,28 @@ nation)."*
 
 1a) The bride-to-be would say:
 
-<blockquote dir="rtl">
-  <p>
-أَنْكَحْتُ نَفْسِي لَكَ عَلى الْمَهْرِ الْمَعْلُومِ
-  </p>
-</blockquote>
+> أَنْكَحْتُ نَفْسِي لَكَ عَلى الْمَهْرِ الْمَعْلُومِ
 
 1b) The husband-to-be would say:
 
-<blockquote dir="rtl">
-  <p>
-قَبِلْتُ النِكاحَ لِنَفْسِي عَلى الْمَهْرِ الْمَعْلُومِ
-  </p>
-</blockquote>
+> قَبِلْتُ النِكاحَ لِنَفْسِي عَلى الْمَهْرِ الْمَعْلُومِ
 
 2a) Then the bride-to-be would say:
 
-<blockquote dir="rtl">
-  <p>
-زَوَّجْتُ نَفْسِي عَلى الصِّداقِ المَعْلُومِ
-  </p>
-</blockquote>
+> زَوَّجْتُ نَفْسِي عَلى الصِّداقِ المَعْلُومِ
 
 2b) The, the husband-to-be would say:
 
-<blockquote dir="rtl">
-  <p>
-قَبِلْتُ التَّزْوِيجَ لنَفْسِي عَلى الصِّداقِ المَعْلُومِ
-  </p>
-</blockquote>
+> قَبِلْتُ التَّزْوِيجَ لنَفْسِي عَلى الصِّداقِ المَعْلُومِ
 
 3a) The bride-to-be would say:
 
-<blockquote dir="rtl">
-  <p>
-أَنْكَحْتُ وَزَوَّجْتُ نَفْسِي لَكَ عَلى الْمَهْرِ الْمَعْلُومِ
-  </p>
-</blockquote>
+> أَنْكَحْتُ وَزَوَّجْتُ نَفْسِي لَكَ عَلى الْمَهْرِ الْمَعْلُومِ
 
 3b) The husband-to-be would say:
 
-<blockquote dir="rtl">
-  <p>
-قَبِلْتَ النِكاحَ وَالتَّزْوِيجَ لِنَفْسِي عَلى الْمَهْرِ
-الْمَعْلُومِ.
-  </p>
-</blockquote>
+> قَبِلْتَ النِكاحَ وَالتَّزْوِيجَ لِنَفْسِي عَلى الْمَهْرِ
+> الْمَعْلُومِ.
 
 These lines are usually repeated two or three times over for the sake of
 precaution to make sure they have been recited properly. After these few
@@ -139,5 +99,4 @@ marriage according to the laws of Islam. There is no other 'ceremony'
 needed - a Walimah is Mustahab, but other things are part of our
 cultural practices (some are permitted to do, but we have to be careful
 so as to not perform anything haram).
-
 

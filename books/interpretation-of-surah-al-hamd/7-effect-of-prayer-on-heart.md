@@ -245,4 +245,3 @@ restrictions and deficiencies. The attributes of Absolute Existence must
 also be absolute and unspecified. Neither Allah's mercifulness is
 specified or limited nor His compassionateness nor His divinity.
 
-

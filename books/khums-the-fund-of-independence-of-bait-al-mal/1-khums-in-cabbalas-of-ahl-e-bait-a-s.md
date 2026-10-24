@@ -143,7 +143,6 @@ And some of them are moreover their reliability are from superiors of
 World of Shi’aa (refer to the book “Jame’ Al-Rovat” and other Rijal
 books).
 
-
 **Poisonings Acts of Hypocrites**
 
 There are only few jobs easier than “poisoning” the minds of people who
@@ -170,8 +169,6 @@ Here it is necessary to acknowledge respectful scholars Ahmadi,
 Ashtiani, Imami, Imani and Asadi who helped in collecting the contents
 of this booklet.
 
-
 Qom, Amiralmo’menin School
 Naser Makarem Shirazi
-
 

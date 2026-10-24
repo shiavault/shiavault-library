@@ -563,4 +563,3 @@ Durant, The Story of Civilization, vol. IV (N.Y., 1950), p. 209.
 
 [^26]: Cherfils, Bonaparte et l'Islam (Paris, 1914), p. (?).
 
-

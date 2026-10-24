@@ -11,4 +11,3 @@ he was thirty-three years old; so, his prophethood continued for only
 three years. His mother lived after his being raised to heavens for six
 years, and Allah knows best.
 
-

@@ -112,4 +112,3 @@ might have been contaminated with urine, in which case, you need not
 carry out any investigation; for instance, you start looking for traces
 of urine on the shirt.  You should assume that it is tahir.
 
-

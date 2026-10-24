@@ -34,4 +34,3 @@ It was believed that Euclid (Uqlidis, q.v.) had merely stated his
 geometrical propositions while Theon had proved them. Al-Kindi read the
 Elements, for example, through Theon’s resension of it.
 
-

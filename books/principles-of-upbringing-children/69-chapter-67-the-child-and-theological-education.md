@@ -129,4 +129,3 @@ schooling.
 
 [^2]: Makarim al akhlaq, v 1, p. 254
 
-

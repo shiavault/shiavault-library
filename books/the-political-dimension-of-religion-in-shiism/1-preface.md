@@ -137,4 +137,3 @@ properties and income.
 
 o He has to organize the pray ritual.
 
-

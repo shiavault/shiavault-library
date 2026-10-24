@@ -189,4 +189,3 @@ before his death, the way it should have been done. Is it thinkable that
 the Prophet would explain some very obscure commands, but make no
 mention of such a great matter as the leadership?
 
-

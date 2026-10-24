@@ -13,4 +13,3 @@ case. But, if the last letter of the weak verb is either a *wāw* or a
 *yā'*, the *dummah* is erased in the nominative case because of the
 difficulty of pronouncing it.
 
-

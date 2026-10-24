@@ -188,4 +188,3 @@ one’s religious affiliation. Such mindset and practice can be catered
 and customized to the thought and observance of that specific religion,
 since the principles behind them are universal.
 
-

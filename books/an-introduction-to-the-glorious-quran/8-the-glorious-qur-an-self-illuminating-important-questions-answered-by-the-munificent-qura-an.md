@@ -1773,4 +1773,3 @@ La Beaume, including al‑mustadrak, by Edouard Montet, translated into
 Farsi by Haj Sheykh Mahdi Ilahi Qumshih, of the University of Tehran,
 published by Islamiyah Booksellers, Tehran, 1345 S.H.C. (1966).
 
-

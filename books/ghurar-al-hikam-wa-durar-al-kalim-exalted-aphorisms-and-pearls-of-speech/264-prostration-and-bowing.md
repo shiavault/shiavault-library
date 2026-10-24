@@ -9,13 +9,9 @@ feet, with complete submissiveness of the heart and sincerity of
 intention.
 
 > 1ـ اَلسُّجُودُ الجِسْماني: هُوَ وَضْعُ عَتائِقِ الوُجُوهِ عَلَى
-<blockquote dir="rtl">
-  <p>
-التُّرابِ، واسْتِقْبالُ الأرْضِ بِالراحَتَينِ والكَفَّيْنِ
-(وَالرُّكْبَتَيْنِ)، وأطْرافِ القَدَمَيْنِ مَعَ خُشُوعِ القَلْبِ
-وإخْلاصِ النّيَّةِ.
-  </p>
-</blockquote>
+> التُّرابِ، واسْتِقْبالُ الأرْضِ بِالراحَتَينِ والكَفَّيْنِ
+> (وَالرُّكْبَتَيْنِ)، وأطْرافِ القَدَمَيْنِ مَعَ خُشُوعِ القَلْبِ
+> وإخْلاصِ النّيَّةِ.
 
 2. The spiritual [aspect of] prostration is emptying the heart of [love
 for] that which perishes, proceeding with firm resolution in
@@ -24,17 +20,12 @@ cutting off worldly ties and adorning oneself with the etiquettes of the
 Prophet.
 
 > 2ـ وَالسُّجُودُ النَّفْساني: فَراغُ القَلْبِ مِنَ الفانياتِ،
-<blockquote dir="rtl">
-  <p>
-والإقْبالُ بِكُنْهِ الهِمَّةِ عَلَى الباقياتِ، وخَلْعُ الكِبْرِ
-والحَمِيَّةِ، وقَطْعُ العَلائِقِ الدُّنْيَويَّةِ، والتَّحَلّي
-بِالخَلائِقِ النَبَويَّةِ.
-  </p>
-</blockquote>
+> والإقْبالُ بِكُنْهِ الهِمَّةِ عَلَى الباقياتِ، وخَلْعُ الكِبْرِ
+> والحَمِيَّةِ، وقَطْعُ العَلائِقِ الدُّنْيَويَّةِ، والتَّحَلّي
+> بِالخَلائِقِ النَبَويَّةِ.
 
 3. What good forms of worship Prostration (*sujūd*) and bowing (*rukū’*)
 are.
 
 > 3ـ نِعْمَ العِبادَةُ السُّجُودُ والرُّكُوعُ.
-
 

@@ -50,14 +50,10 @@ the leader of all Muslim women or the leader of the women of this ummah
 (nation).’ To this I laughed.’”
 
 > 57. عن عائشة رضي الله عنها قالت: دعا النبي صلى الله عليه وسلم فاطمة
-<blockquote dir="rtl">
-  <p>
-ابنته في شَكْواه الذي قبض فيها، فسارها بشيء فبكت، ثم دعاها فسارها
-فضحكت، قالت: فسألتها عن ذلك، فقالت: سارني النبي صلى الله عليه وسلم
-فأخبرني: أنه يقبض في وَجَعه الذي توفي فيه، فبكيت، ثم سارني فأخبرني:
-أني أول أهل بيته، أتبعه فضحكت.
-  </p>
-</blockquote>
+> ابنته في شَكْواه الذي قبض فيها، فسارها بشيء فبكت، ثم دعاها فسارها
+> فضحكت، قالت: فسألتها عن ذلك، فقالت: سارني النبي صلى الله عليه وسلم
+> فأخبرني: أنه يقبض في وَجَعه الذي توفي فيه، فبكيت، ثم سارني فأخبرني:
+> أني أول أهل بيته، أتبعه فضحكت.
 
 Ayeshah (ra) narrates, “During his illness in which he passed away the
 Holy Prophet (saw) called for Fatimah and whispered something to her.
@@ -103,5 +99,4 @@ very thought of separation from the Messenger of Allah (saw) made me
 cry. Then he (saw) turned to me and whispered that from the ‘people of
 the house’ I will be the first who will meet him again. In anticipation
 of meeting him, I laughed.’”
-
 

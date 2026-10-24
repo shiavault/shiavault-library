@@ -1553,4 +1553,3 @@ with the desire of its writers, its admirers and all those who heard it
 being read. I therefore incorporated it verbatim although this prolongs
 our write up.
 
-

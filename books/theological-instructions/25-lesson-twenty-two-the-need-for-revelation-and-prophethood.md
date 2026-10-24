@@ -187,4 +187,3 @@ How?
 
 8. What are the benefits of having the presence of a prophet?
 
-

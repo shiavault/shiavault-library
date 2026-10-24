@@ -205,4 +205,3 @@ himself. It was through this same power and influence that she was able
 to face the next two caliphs, rouse the people to kill them and assume a
 leading role in determining the course of Islamic history.
 
-

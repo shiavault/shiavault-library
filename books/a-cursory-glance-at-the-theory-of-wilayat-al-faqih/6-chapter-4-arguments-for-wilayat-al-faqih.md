@@ -255,11 +255,7 @@ there are numerous solid grounds for the need of society for government
 which confirm this point. In this regard, the Commander of the Faithful,
 ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-لاَ بُدَّ لِلنَّاسِ مِنْ أَمِيرِ بَرٍّ أَوْ فَاجِرٍ.
-  </p>
-</blockquote>
+> لاَ بُدَّ لِلنَّاسِ مِنْ أَمِيرِ بَرٍّ أَوْ فَاجِرٍ.
 
 ***“People cannot do without ruler, good or bad.”***[^5]
 
@@ -497,13 +493,9 @@ perfection commensurate with his existential potentiality is the set of
 religious laws and commandments, and ignoring some of them is strongly
 refused by the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا
-جَزَاء مَن يَفْعَلُ ذَلِكَ مِنكُمْ إِلاَّ خِزْيٌ فِي الْحَيَاةِ
-الدُّنْيَا وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَى أَشَدِّ الْعَذَابِ ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا
+> جَزَاء مَن يَفْعَلُ ذَلِكَ مِنكُمْ إِلاَّ خِزْيٌ فِي الْحَيَاةِ
+> الدُّنْيَا وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَى أَشَدِّ الْعَذَابِ ﴾
 
 ***“What! Do you believe in part of the Book and defy another part? So
 what is the requital of those of you who do that except disgrace in the
@@ -638,13 +630,9 @@ have to do in case of occurring social problems [*al-hawadith
 al-waqi‘ah*] during the period of occultation?” In reply to this
 question, the Imam (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمَّا ٱلْحَوَادِثُ ٱلْوَاقِعَةِ فَارْجِعُوا فِيهَا إِلىٰ رُوَاةِ
-حَدِيثُنَا فَإِنَّهُمْ حُجَّتِي عَلَيكُمْ وَ أَنَا حُجَّةُ اللهِ
-عَلَيهِمْ.
-  </p>
-</blockquote>
+> وَ أَمَّا ٱلْحَوَادِثُ ٱلْوَاقِعَةِ فَارْجِعُوا فِيهَا إِلىٰ رُوَاةِ
+> حَدِيثُنَا فَإِنَّهُمْ حُجَّتِي عَلَيكُمْ وَ أَنَا حُجَّةُ اللهِ
+> عَلَيهِمْ.
 
 ***“In case of occurring social problems, refer for guidance to those
 who relate from us, for they are my argument [hujjah] against you, and I
@@ -732,16 +720,12 @@ is a *hadith* known as the *maqbulah* of ‘Umar ibn Hanzalah. In this
 turning for guidance to a competent authority who rules over the
 Muslims, Imam as-Sadiq (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ مِنْكُمْ قَدْ رَوىٰ حَدِيثُنَا وَ نَظَرَ في حَلاَلِنَا وَ
-حَرَامِنَا وَ عَرَفَ أَحْكَامَنَا فَلْيَرْضُوا بِهِ حَكَمًا فَإِنّي
-قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِمًا فَإِذَا حَكَمَ بِحُكْمِنَا فَلَمْ
-يَقْبَلْهُ مِنْهُ فَإِنَّمَا إِسْتَخَفَّ بِحُكْمِ اللهِ وَ عَلَيْنَا
-رَدَّ وَ الرَّادُّ عَلَيْنَا كَالرَّادَّ عَلىٰ حَدِّ الشِّرْكِ
-بِاللهِ.
-  </p>
-</blockquote>
+> مَنْ كَانَ مِنْكُمْ قَدْ رَوىٰ حَدِيثُنَا وَ نَظَرَ في حَلاَلِنَا وَ
+> حَرَامِنَا وَ عَرَفَ أَحْكَامَنَا فَلْيَرْضُوا بِهِ حَكَمًا فَإِنّي
+> قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِمًا فَإِذَا حَكَمَ بِحُكْمِنَا فَلَمْ
+> يَقْبَلْهُ مِنْهُ فَإِنَّمَا إِسْتَخَفَّ بِحُكْمِ اللهِ وَ عَلَيْنَا
+> رَدَّ وَ الرَّادُّ عَلَيْنَا كَالرَّادَّ عَلىٰ حَدِّ الشِّرْكِ
+> بِاللهِ.
 
 ***“If there is a person among you who narrates from us, is versed in
 the lawful and the unlawful, and is well acquainted with our laws and
@@ -959,5 +943,4 @@ details about the account of the Imām’s famous instructions to him
 before his setting forth to Egypt, see Nahj al-Balāghah, Letter 53. A
 complete translation is contained in William C. Chittick, A Shī‘ite
 Anthology (Albany, N.Y., 1980), pp. 68-82. [Trans.]
-
 

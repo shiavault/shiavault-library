@@ -196,4 +196,3 @@ his obligatory prayers, it will be incumbent upon the most Exalted One
 to make him join the company of the Prophet (pbuh) in his status, and he
 will never suffer misery in the life of this world at all."
 
-

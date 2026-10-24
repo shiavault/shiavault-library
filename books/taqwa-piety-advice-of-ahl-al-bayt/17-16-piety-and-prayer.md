@@ -206,4 +206,3 @@ chastisement for him.”[^15]
 
 [^15]: Safeenat al- Bihar, vol. 2, p. 43.
 
-

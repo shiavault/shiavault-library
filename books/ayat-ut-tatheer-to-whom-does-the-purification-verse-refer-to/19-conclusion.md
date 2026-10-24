@@ -64,4 +64,3 @@ obstinate, the liars, and the nonbelievers. May Allah’s curse be upon
 all those who are unjust, and praise is to Allah, the Lord of the
 Worlds!
 
-

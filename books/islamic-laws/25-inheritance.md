@@ -619,4 +619,3 @@ or triplets, as a precaution, their shares should be set aside for them.
 And if, contrary to expectation, one boy or one girl was born, then
 other heirs should divide the surplus among themselves.
 
-

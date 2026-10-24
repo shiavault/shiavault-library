@@ -30,4 +30,3 @@ conceit is that one looks askance at Allāh's servants, seeing their good
 deeds as nothing even if they may be better than his own; this, too, is
 one of the paths towards the annihilation of man and thorns on his path.
 
-

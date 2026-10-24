@@ -738,4 +738,3 @@ researcher. As for their true replies, these are with the pure Imams who
 have filled the earth with knowledge and cognition, actions and
 uprightness.
 
-

@@ -1335,4 +1335,3 @@ Hazrat Abbas lay.”Abbas! Abbas! My dear brother, have you seen Sakina?”
 There is silence! She makes her way to where Husayn's headless body lay.
 There, hugging her father, she finds Bibi Sakina, deep in sleep!!
 
-

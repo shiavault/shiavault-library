@@ -10,12 +10,8 @@ to hide it, is not clear.
 
 Regarding the Jewish people, the Holy Qur’an declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَقَوْلِهِمْ عَلَى مَرْيَمَ بُهْتَانًا عَظِيمًا \* وَقَوْلِهِمْ
-إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَقَوْلِهِمْ عَلَى مَرْيَمَ بُهْتَانًا عَظِيمًا \* وَقَوْلِهِمْ
+> إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللّهِ... ﴾
 
 ***“And that they uttered against Mary a tremendous calumny and that
 they said, ‘We killed the Messiah, Jesus son of Mary, the prophet of
@@ -183,5 +179,4 @@ Kitāb-e Muqaddas” (Dictionary of the Holy Book) under the heading
 Yūhannā (John).
 
 [^7]: Extracted from the yearbook, “Ma‘ārif-e Ja‘farī”.
-
 

@@ -182,4 +182,3 @@ and that you may walk on the right course [2:149-150].
 
 [^4]: Please see glossary for more details.
 
-

@@ -293,4 +293,3 @@ A poisonous snake seems to be a very dangerous enemy of mankind, but
 its poison which can kill a careless person, is used as a medicine to
 save the lives of thousands of people.
 
-

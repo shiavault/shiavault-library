@@ -188,4 +188,3 @@ See also Nancy Van Vuuren, The Subversion of Women as Practiced by
 Churches, Witch-Hunters, and Other Sexists (Philadelphia: Westminster
 Press) pp. 28-30.
 
-

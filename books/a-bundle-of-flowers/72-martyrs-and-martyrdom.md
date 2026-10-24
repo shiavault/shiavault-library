@@ -27,4 +27,3 @@ Allah.
 
 Wasa'il-ush Shi'ah, vol. 15, p. 14
 
-

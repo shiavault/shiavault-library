@@ -650,4 +650,3 @@ Literary Criticism in 10th* *Century A.D.*, London; M. Zaghlul Sallam,
 *Athar al-Qur’an fi Tatawwar al-Naqd al-‘Arabi*, Cairo; *Dia’ al-Din Ibn
 al-Athir wa Juhud fi al-Naqd*, Cairo.
 
-

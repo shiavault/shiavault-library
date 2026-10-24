@@ -21,11 +21,7 @@ also what the Noble Qur’an indicates.
 In the first verse of Sūrat al-Qamar, for which the Sūrat was named, the
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ ﴾
-  </p>
-</blockquote>
+> ﴿ اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ ﴾
 
 ***“The hour (of Judgment) drew close and the moon was cleft in
 two.”***[^1]
@@ -50,11 +46,7 @@ by the hand of the Holy Prophet (S).
 
 The next verse negates this presumption. The Almighty Lord declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ ﴾
 
 ***“And if they (the idolaters) see a sign (shaqq al-qamar) they say it
 is incessant sorcery.”***[^2]
@@ -111,5 +103,4 @@ al-sudūr]. Hence, they are not scientifically reliable.[^3]
 [^2]: Sūrat al-Qamar 54:2.
 
 [^3]: Extracted from “Sīmā-ye Islām”.
-
 

@@ -191,4 +191,3 @@ and the wholesale heart-rending massacre of Karbala would never at all
 have taken place, the world today, under the godly rule of the Ahlul
 Bayt had enjoyed the heavenly bliss on earth.
 
-

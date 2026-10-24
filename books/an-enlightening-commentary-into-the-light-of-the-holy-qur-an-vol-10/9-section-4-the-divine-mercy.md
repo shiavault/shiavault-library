@@ -4,19 +4,11 @@ Section 4: The Divine Mercy
 Surah Al-’Anbiya’ – Verses 42 - 43
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن يَكْلَؤُكُم بِالَّليْلِ وَالنَّهَارِ مِنَ الرَّحْمَنِ بَلْ
-هُمْ عَن ذِكْرِ رَبّـِهِم مُّعْرِضُونَ
-  </p>
-</blockquote>
+> قُلْ مَن يَكْلَؤُكُم بِالَّليْلِ وَالنَّهَارِ مِنَ الرَّحْمَنِ بَلْ
+> هُمْ عَن ذِكْرِ رَبّـِهِم مُّعْرِضُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُمْ ءَالِهَةٌ تَمْنَعُهُم مِن دُونِنَا لاَ يَسْتَطِيعُونَ
-نَصْرَ أَنفُسِهِمْ وَلاَ هُم مِنَّا يُصْحَبُونَ
-  </p>
-</blockquote>
+> أَمْ لَهُمْ ءَالِهَةٌ تَمْنَعُهُم مِن دُونِنَا لاَ يَسْتَطِيعُونَ
+> نَصْرَ أَنفُسِهِمْ وَلاَ هُم مِنَّا يُصْحَبُونَ
 
 ***42. “Say: ‘Who guards you by night and by day from (the Wrath of) the
 Beneficent (Allah)?’ But (yet) they turn away from the remembrance of
@@ -75,13 +67,9 @@ Us.”***
 Surah Al-’Anbiya’ – Verse 44
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ مَتَّعْنَا هَؤُلآءِ وءَابَآءَهُمْ حَتَّي طَالَ عَلَيْهِمُ
-الْعُمُرُ أَفَلاَ يَرَوْنَ أَنَّا نَأْتِي الاَرْضَ نَنقُصُهَا مِنْ
-أَطْرَافِهَآ أَفَهُمُ الْغَالِبُونَ
-  </p>
-</blockquote>
+> بَلْ مَتَّعْنَا هَؤُلآءِ وءَابَآءَهُمْ حَتَّي طَالَ عَلَيْهِمُ
+> الْعُمُرُ أَفَلاَ يَرَوْنَ أَنَّا نَأْتِي الاَرْضَ نَنقُصُهَا مِنْ
+> أَطْرَافِهَآ أَفَهُمُ الْغَالِبُونَ
 
 ***44. “Yet, We gave provision to these and their fathers until life
 grew long for them. Do they not see that We come to the land, curtailing
@@ -121,12 +109,8 @@ The verse continues:
 Surah Al-’Anbiya’ – Verse 45
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَآ اُنذِرُكُم بِالْوَحْيِ وَلاَ يَسْمَعُ الصُّمُّ
-الدُّعَآءَ إِذَا مَا يُنذَرُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَآ اُنذِرُكُم بِالْوَحْيِ وَلاَ يَسْمَعُ الصُّمُّ
+> الدُّعَآءَ إِذَا مَا يُنذَرُونَ
 
 ***45. “Say: ‘Verily I warn you only by the revelation. But the deaf do
 not hear the call when they are warned.”***
@@ -169,12 +153,8 @@ there is a deficiency in the preacher or his style of preaching.
 Surah Al-’Anbiya’ – Verse 46
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن مَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبّـِكَ لَيَقُولُنَّ
-يَاوَيْلَنَآ إِنَّا كُنَّا ظَالِمِينَ
-  </p>
-</blockquote>
+> وَلَئِن مَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبّـِكَ لَيَقُولُنَّ
+> يَاوَيْلَنَآ إِنَّا كُنَّا ظَالِمِينَ
 
 ***46. “And if a blast of the punishment of your Lord touches them, they
 will certainly say: ‘Woe unto us! Verily we were unjust’.”***
@@ -200,13 +180,9 @@ them.
 Surah Al-’Anbiya’ – Verse 47
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلاَ تُظْلَمُ
-نَفْسٌ شَيْئاً وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا
-بِهَا وَكَفَي بِنَا حَاسِبِينَ
-  </p>
-</blockquote>
+> وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلاَ تُظْلَمُ
+> نَفْسٌ شَيْئاً وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا
+> بِهَا وَكَفَي بِنَا حَاسِبِينَ
 
 ***47. “And We shall set up the balances of justice for the Resurrection
 Day, so that no soul shall be wronged anything; and even if there be (an
@@ -259,19 +235,11 @@ The verse says:
 Surah Al-’Anbiya’ – Verses 48 - 49
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا مُوسَي وَهَارُونَ الْفُرْقَانَ وَضِيَآءً وَذِكْراً
-لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا مُوسَي وَهَارُونَ الْفُرْقَانَ وَضِيَآءً وَذِكْراً
+> لِلْمُتَّقِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَهُم مِنَ السَّاعَةِ
-مُشْفِقُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَهُم مِنَ السَّاعَةِ
+> مُشْفِقُونَ
 
 ***48. “And indeed We gave Moses and Aaron the Furqan (criterion) and a
 Light and a Reminder for the pious ones.”***  
@@ -333,11 +301,7 @@ Qur’an)…”***[^3]
 Surah Al-’Anbiya’ – Verse 50
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهَذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَاهُ أَفَاَنتُمْ لَهُ مُنكِرُونَ
-  </p>
-</blockquote>
+> وَهَذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَاهُ أَفَاَنتُمْ لَهُ مُنكِرُونَ
 
 ***50. “And this (Qur’an) is a blessed Reminder which We have sent down
 (for you). Do you then deny it?”***
@@ -381,5 +345,4 @@ the Qur’an went among them.
 [^2]: Surah An-Nisa, No. 4, verse 174
 
 [^3]: Surah Al-Hijr, No. 15, verse 9
-
 

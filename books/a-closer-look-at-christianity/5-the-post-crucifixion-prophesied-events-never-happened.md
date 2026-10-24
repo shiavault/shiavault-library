@@ -84,4 +84,3 @@ now we consider midnight to be the end of a day. There is no difference
 in the length of the day, and accepting the Jewish day would only make
 things worse as far as the prophecy goes.
 
-

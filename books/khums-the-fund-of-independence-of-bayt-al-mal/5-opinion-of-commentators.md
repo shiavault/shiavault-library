@@ -40,14 +40,10 @@ And in “Majma’ Al-Bayan” interpretation first advantage has been
 interpreted in the meaning of spoils of war, but during the explanation
 of the meaning of the verse it says:
 
-<blockquote dir="rtl">
-  <p>
-قال اصحابنا انّ الخمس واجب فى کلّ فائدة تحصل للانسان من المکاسب و
-ارباح التّجارات، و فى الکنوز و المعادن و الغوص و غیرذلک ممّا هو مذکور
-فى الکتب، و یمکن ان یستدلّ على ذلک بهذه الایة فانّ فى عرف اللّغة یطلق
-على جمیع ذلک اسم الغنم و الغنیمة
-  </p>
-</blockquote>
+> قال اصحابنا انّ الخمس واجب فى کلّ فائدة تحصل للانسان من المکاسب و
+> ارباح التّجارات، و فى الکنوز و المعادن و الغوص و غیرذلک ممّا هو مذکور
+> فى الکتب، و یمکن ان یستدلّ على ذلک بهذه الایة فانّ فى عرف اللّغة یطلق
+> على جمیع ذلک اسم الغنم و الغنیمة
 
 Shiite scholars believe that Khums is obligatory in any benefit that a
 person would gain, consisting of it is from business, or from treasure
@@ -98,11 +94,7 @@ the verse is one sample of that general and overall concept.
 
 For example, we read in verse 7 of Sura Hashr:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
 
 ***… So take what the Messenger assigns to you, and deny yourselves that
 which he withholds from you. (59:7)***
@@ -114,11 +106,7 @@ used for them).
 
 And also in verse 233 of Sura Baqara:
 
-<blockquote dir="rtl">
-  <p>
-… لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا …
-  </p>
-</blockquote>
+> … لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا …
 
 ***no soul shall have imposed upon it a duty but to the extent of its
 capacity; .. (2:233)***
@@ -144,5 +132,4 @@ condition words emphasize this matter.
 [^4]: Majma’ Al-Bayan interpretation, vol. 4, pages 543 &544.
 
 [^5]: Al-Mizan interpretation, vol. 9, page 89.
-
 

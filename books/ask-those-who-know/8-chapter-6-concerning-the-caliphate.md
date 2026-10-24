@@ -779,4 +779,3 @@ himself to the truth, to sift through the narrations and historical
 events to discover, in the process, the truths enshrouded in cloaks of
 falsehood, to uncover them and to look at them in their original garb.
 
-

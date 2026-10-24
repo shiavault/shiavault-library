@@ -12,22 +12,14 @@ cases, discussion is absolutely forbidden.
 
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ
-  </p>
-</blockquote>
+> وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ
 
 ***And argue not with the People of the Scripture unless it be in (a
 way) that is better. (29:46)***
 
 And somewhere else it says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ
-  </p>
-</blockquote>
+> وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ
 
 * **And reason with them in the better way (16:125)***
 
@@ -40,11 +32,7 @@ Even in some cases, God officially instructs His Prophet (S) to choose
 silence against the aggression of opponents, and absolutely avoid the
 discussions, the end of which is dispute and obstinacy.
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَادَلُوكَ فَقُلِ اللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَإِنْ جَادَلُوكَ فَقُلِ اللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
 
 ***And if they wrangle with thee, say: Allah is Best Aware of what ye
 do. (22:68)***
@@ -52,54 +40,34 @@ do. (22:68)***
 In the several traditions, discussion is prohibited through different
 subtle interpretations disclosing a series of mental points:
 
-<blockquote dir="rtl">
-  <p>
-قالَ النَّبِیُّ(صلى الله علیه وآله): «ذَرُوا الْمِراءَ فَاِنَّهُ لا
-تُفْهَمُ حِکْمَتُهُ وَلا تُؤْمَنُ فِتْنَتُهُ».
-  </p>
-</blockquote>
+> قالَ النَّبِیُّ(صلى الله علیه وآله): «ذَرُوا الْمِراءَ فَاِنَّهُ لا
+> تُفْهَمُ حِکْمَتُهُ وَلا تُؤْمَنُ فِتْنَتُهُ».
 
 The Prophet (S) said: Avoid dispute because its wisdom is not understood
 and there is no security against its sedition.[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَ قالَ(صلى الله علیه وآله): «لا یَسْتَکْمِلُ عَبْدٌ حَقِیقَةَ
-الاِْیمانِ حَتّى یَدَعَ الْمِراءَ وَ اِنْ کانَ مُحِقّاً».
-  </p>
-</blockquote>
+> وَ قالَ(صلى الله علیه وآله): «لا یَسْتَکْمِلُ عَبْدٌ حَقِیقَةَ
+> الاِْیمانِ حَتّى یَدَعَ الْمِراءَ وَ اِنْ کانَ مُحِقّاً».
 
 And he said: No one fulfills the reality of belief, unless he leaves
 dispute, although he is right.[^2]
 
-<blockquote dir="rtl">
-  <p>
-قالَ سُلَیْمانُ بْنُ داوُدَ لاِبْنِهِ: «یا بُنَیَّ اِیّاکَ وَ
-الْمِراءَ فَاِنَّهُ لَیْسَتْ فِیهِ مَنْفَعَةٌ وَ هُوَ یُهَیِّجُ بَیْنَ
-الاِْخْوانِ الْعَداوَةَ».
-  </p>
-</blockquote>
+> قالَ سُلَیْمانُ بْنُ داوُدَ لاِبْنِهِ: «یا بُنَیَّ اِیّاکَ وَ
+> الْمِراءَ فَاِنَّهُ لَیْسَتْ فِیهِ مَنْفَعَةٌ وَ هُوَ یُهَیِّجُ بَیْنَ
+> الاِْخْوانِ الْعَداوَةَ».
 
 Solomon, son of David, told to his son: My son! Avoid dispute because it
 has no profit and provokes the fire of enmity among the brothers.[^3]
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِیِّ(صلى الله علیه وآله): «ما ضَلَّ قَوْمٌ بَعْدَ هُدىً
-کانُوا عَلَیْهِ اِلاّ اُوتُوا الْجَدَلَ».
-  </p>
-</blockquote>
+> عَنِ النَّبِیِّ(صلى الله علیه وآله): «ما ضَلَّ قَوْمٌ بَعْدَ هُدىً
+> کانُوا عَلَیْهِ اِلاّ اُوتُوا الْجَدَلَ».
 
 Prophet (S) said: no nation strays after guidance, save it engages in
 dispute.[^4]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَمِیرِ الْمُؤْمِنِینَ(علیه السلام): «یا کُمَیْلُ! اِیّاکَ وَ
-الْمِراءَ فَاِنَّکَ تُغْرِی بِنَفْسِکَ السُّفَهاءَ اِذا فَعَلْتَ وَ
-تُفْسِدُ الاِْخاءَ».
-  </p>
-</blockquote>
+> عَنْ اَمِیرِ الْمُؤْمِنِینَ(علیه السلام): «یا کُمَیْلُ! اِیّاکَ وَ
+> الْمِراءَ فَاِنَّکَ تُغْرِی بِنَفْسِکَ السُّفَهاءَ اِذا فَعَلْتَ وَ
+> تُفْسِدُ الاِْخاءَ».
 
 Commander of the Believers (Imam Ali) (A.S.) said: O Komeil! Avoid
 fussing because in this way you impassion the ignorant against yourself,
@@ -194,38 +162,22 @@ some have called it as a "magic", often applies this method in its
 arguments before the adversaries and self deluded persons in the phrases
 like:
 
-<blockquote dir="rtl">
-  <p>
-أَإِلَٰهٌ مَعَ اللَّهِ
-  </p>
-</blockquote>
+> أَإِلَٰهٌ مَعَ اللَّهِ
 
 ***Is there any Allah beside Allah? (27:61)***
 
-<blockquote dir="rtl">
-  <p>
-مَنْ إِلَٰهٌ غَيْرُ اللَّهِ
-  </p>
-</blockquote>
+> مَنْ إِلَٰهٌ غَيْرُ اللَّهِ
 
 ***Who is the god besides Allah?*** ***(28:72)***
 
-<blockquote dir="rtl">
-  <p>
-هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ
-  </p>
-</blockquote>
+> هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ
 
 ***There is no Allah save Him. (35:3)***
 
 And also the phrases such as:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
-بِهَا
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
+> بِهَا
 
 ***Have they not travelled in the land, and have they hearts wherewith
 to feel and ears wherewith to hear? (22:46)***
@@ -300,12 +252,8 @@ One of the reasons for wonderful welcome from the speeches of Prophet
 one so that non acceptance of the right way by some people appeared in
 the Prophet (S) as fatal complexes:
 
-<blockquote dir="rtl">
-  <p>
-فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَىٰ آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا
-بِهَٰذَا الْحَدِيثِ أَسَفًا
-  </p>
-</blockquote>
+> فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَىٰ آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا
+> بِهَٰذَا الْحَدِيثِ أَسَفًا
 
 ***Yet it may be, if they believe not in this statement, that thou
 (Muhammad) wilt torment thy soul with grief over their footsteps.
@@ -313,12 +261,8 @@ the Prophet (S) as fatal complexes:
 
 And we read in respect to the biography of Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«وَلا یَأْتِیهِ اَحَدٌ حُرٌّ اَوْ عَبْدٌ اَوْ اَمَةٌ اِلاّ قامَ مَعَهُ
-فِی حاجَتِهِ».
-  </p>
-</blockquote>
+> «وَلا یَأْتِیهِ اَحَدٌ حُرٌّ اَوْ عَبْدٌ اَوْ اَمَةٌ اِلاّ قامَ مَعَهُ
+> فِی حاجَتِهِ».
 
 Whoever came to him, either a freeman or slave and bondmaid, he
 accompanied him (her) and helped him in his work.[^7]
@@ -380,11 +324,7 @@ Effect of virtue of the speaker
 
 It is said:
 
-<blockquote dir="rtl">
-  <p>
-«لا تَنْظُرْ اِلى مَنْ قالَ، بَلِ انْظُرْ اِلى ما قالَ».
-  </p>
-</blockquote>
+> «لا تَنْظُرْ اِلى مَنْ قالَ، بَلِ انْظُرْ اِلى ما قالَ».
 
 Do not consider the speaker; rather consider his (her) utterance.
 
@@ -421,5 +361,4 @@ his spirit are closed to it.
 [^6]: HorreAmeli, Wasa’il ash-Shi’a, volume 8, chapter 5
 
 [^7]: Al-Majlisi, Bihar al-Anwar, 226/16
-
 

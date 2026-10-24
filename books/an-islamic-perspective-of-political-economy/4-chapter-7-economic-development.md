@@ -207,4 +207,3 @@ any mandub action, or encourage any makruh ones.
 
 [^34]. Iqtisaduna, 607
 
-

@@ -266,4 +266,3 @@ help from proxy in Tawaf and Sa’y then his Umrah is correct, and if he
 cannot perform then it is a precaution to act according to the ruling of
 Mahsoor.
 
-

@@ -84,4 +84,3 @@ stated by al-Razi in his tafsir titled Mafatih al-Ghayb, page 488, Vol.
 2, and refer also to what we have mentioned while dealing with this
 verse.
 
-

@@ -34,4 +34,3 @@ the 10th Muharram, after three days of hunger and thirst, our great Imam
 (pbuh) was martyred, along with his companions, sons, brothers, and
 nephews.
 
-

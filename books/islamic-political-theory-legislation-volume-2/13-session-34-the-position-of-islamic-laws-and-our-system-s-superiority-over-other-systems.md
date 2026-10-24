@@ -122,19 +122,11 @@ must be implemented unless they cause hardship and embarrassment because
 Islam does not want the servants of God to undergo intolerable hardship
 and embarrassment in discharging their obligations:
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَ مَا جَعَلَ اللهُ عَلَيكُم فِي ٱلدِّينِ مِنْ حَرَجٍ...﴾
-  </p>
-</blockquote>
+> ﴿...وَ مَا جَعَلَ اللهُ عَلَيكُم فِي ٱلدِّينِ مِنْ حَرَجٍ...﴾
 
 “and has not placed for you any obstacle in the religion.”[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿...يُرِيدُ اللّهُ بِكُمُ الْيُسْرَ وَلاَ يُرِيدُ بِكُمُ الْعُسْرَ...﴾
-  </p>
-</blockquote>
+> ﴿...يُرِيدُ اللّهُ بِكُمُ الْيُسْرَ وَلاَ يُرِيدُ بِكُمُ الْعُسْرَ...﴾
 
 “Allah desires ease for you, and He does not desire hardship for
 you.”[^2]
@@ -610,5 +602,4 @@ Headquarters perpetrated by the hypocrites on Tir 7, 1360 AHS (June 28,
 1981) where the first Judiciary Chief Dr. Ayatullah Sayyid Muhammad
 Husayn Beheshti and 71 other members of the judiciary, thinkers,
 writers, and revolutionary figures were. [Trans.]
-
 

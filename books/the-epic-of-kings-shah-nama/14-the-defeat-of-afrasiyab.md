@@ -171,4 +171,3 @@ with joy unto his own land, and he gave thanks unto God for the victory
 that was his. But he knew also that the time of peace could not be long,
 and that Afrasiyab would dream of vengeance.
 
-

@@ -3,11 +3,7 @@ Lesson One Hundred Forty Nine: Respect And Affection
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ مِنّا مَنْ لَمْيُوَفَّرْ كَبيرَنا وَ لَمْ يَرْحَمْ صَغيرَنا
-  </p>
-</blockquote>
+> لَيْسَ مِنّا مَنْ لَمْيُوَفَّرْ كَبيرَنا وَ لَمْ يَرْحَمْ صَغيرَنا
 
 Translation
 -----------
@@ -34,5 +30,4 @@ constructed lovingly by the adults . These are the ways and customs of a
 humanitarian and progressive society.
 
 [^1]: Usool al-Kafi, , page 253
-
 

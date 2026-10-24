@@ -54,4 +54,3 @@ states that one should find out more about it. This is the kind of thing
 that Muslims today largely seem to overlook - but not always, as
 illustrated in the following example.
 
-

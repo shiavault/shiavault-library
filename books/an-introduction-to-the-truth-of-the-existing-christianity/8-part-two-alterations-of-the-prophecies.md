@@ -130,4 +130,3 @@ prejudice, the discussion about which would take a long chapter. Are the
 errors in the original texts not enough to prevent them from making
 further alterations in their translations?
 
-

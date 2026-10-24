@@ -16,11 +16,7 @@ and experience.
 neither separate nor do they differ.
 
 > 3ـ اَلعَقْلُ، والعِلْمُ، مَقْرُونانِ في قَرَن، لايَفْتَرِقانِ،
-<blockquote dir="rtl">
-  <p>
-ولايَتَبايَنانِ.
-  </p>
-</blockquote>
+> ولايَتَبايَنانِ.
 
 4. The intellect is the greatest of riches and the highest honour in
 [both] the Hereafter and this world.
@@ -47,11 +43,7 @@ vizier, patience is the commander of his army and action is his
 overseer.
 
 > 8ـ اَلعَقْلُ خَلِيلُ المُؤْمِنِ، والعِلْمُ وَزيرُهُ، والصَّبْرُ أمِيرُ
-<blockquote dir="rtl">
-  <p>
-جُنُودِهِ، والعَمَلُ قَيِّمُهُ.
-  </p>
-</blockquote>
+> جُنُودِهِ، والعَمَلُ قَيِّمُهُ.
 
 9. The intellect is the leader of the army of the Most Merciful and vain
 desire is the chief of the army of Satan, and the soul is pulled back
@@ -59,12 +51,8 @@ and forth between them, so whichever of them is victorious, it (i.e. the
 soul) is in its domain.
 
 > 9ـ اَلعَقْلُ صاحِبُ جَيْشِ الرَّحْمنِ، والهَوى قائِدُ جَيْشِ
-<blockquote dir="rtl">
-  <p>
-الشَّيْطانِ، وَالنَّفْسُ مُتَجاذِبَةٌ بَيْنَهُما، فَأيُّهُما غَلَبَ
-كانَتْ في حَيِّزِهِ.
-  </p>
-</blockquote>
+> الشَّيْطانِ، وَالنَّفْسُ مُتَجاذِبَةٌ بَيْنَهُما، فَأيُّهُما غَلَبَ
+> كانَتْ في حَيِّزِهِ.
 
 10. Intellect and lust are opposites; the supporter of the intellect is
 knowledge and the adorner of lust is vain desire, and the soul is
@@ -72,23 +60,15 @@ contended for between the two, so whichever is triumphant, it is on its
 side.
 
 > 10ـ اَلعَقْلُ والشَّهْوَةُ ضِدّانِ، ومُؤَيِّدُ العَقْلِ العِلْمُ،
-<blockquote dir="rtl">
-  <p>
-ومُزَيِّنُ الشَّهْوَةِ الهَوى، والنَّفْسُ مُتَنازِعَةٌ بَيْنَهُما،
-فَأيُّهُما قَهَرَ كانَتْ في جانِبِهِ.
-  </p>
-</blockquote>
+> ومُزَيِّنُ الشَّهْوَةِ الهَوى، والنَّفْسُ مُتَنازِعَةٌ بَيْنَهُما،
+> فَأيُّهُما قَهَرَ كانَتْ في جانِبِهِ.
 
 11. Intelligence is for you to be moderate and not indulge in
 extravagance, to promise and not to break your promise, and to be
 forbearing when you get angry.
 
 > 11ـ اَلعَقْلُ أنَّكَ تَقْتَصِدُ فَلاتُسْرِفْ، وَتَعِدُ فَلا تُخْلِفُ،
-<blockquote dir="rtl">
-  <p>
-وإذا غَضِبْتَ حَلُمْتَ.
-  </p>
-</blockquote>
+> وإذا غَضِبْتَ حَلُمْتَ.
 
 12. Intelligence is for you to speak [only] of what you know and to act
 upon what you say.
@@ -113,21 +93,13 @@ this] you will gain success.
 [lower] self, and exert your effort in working for the Hereafter.
 
 > 16ـ إعْقَلْ عَقْلَكَ، وامْلِكْ أمْرَكَ، وجاهِدْ نَفْسَكَ، واعْمَلْ
-<blockquote dir="rtl">
-  <p>
-للآخِرَةِ جَهْدَكَ.
-  </p>
-</blockquote>
+> للآخِرَةِ جَهْدَكَ.
 
 17. Where are the intellects that light up (or that accompany) the lamps
 of guidance?
 
 > 17ـ أيْنَ العُقُولُ المُسْتَصْبِحَةُ (المُسْتَصْحَبَةُ) لِمَصابِيحِ
-<blockquote dir="rtl">
-  <p>
-الهُدى؟!
-  </p>
-</blockquote>
+> الهُدى؟!
 
 18. The best intellect is [that which leads one to] right guidance.
 
@@ -154,54 +126,34 @@ who knows his self becomes wise and the one who fails to know it goes
 astray.
 
 > 23ـ أفْضَلُ العَقْلِ مَعْرِفَةُ الإنْسانِ نَفْسَهُ، فَمَنْ عَرَفَ
-<blockquote dir="rtl">
-  <p>
-نَفْسَهُ عَقَلَ، ومَنْ جَهِلَها ضَلَّ.
-  </p>
-</blockquote>
+> نَفْسَهُ عَقَلَ، ومَنْ جَهِلَها ضَلَّ.
 
 24. The best intelligence is taking lesson [from the past], the best
 prudence is precaution and the biggest foolishness is being deceived [by
 worldly allures].
 
 > 24ـ أفْضَلُ العَقْلِ اَلاِعْتِبارُ، وأفْضَلُ الحَزْمِ الاِسْتِظْهارُ،
-<blockquote dir="rtl">
-  <p>
-وأكْبَرُ الحُمْقِ الاِغْتِرارُ.
-  </p>
-</blockquote>
+> وأكْبَرُ الحُمْقِ الاِغْتِرارُ.
 
 25. The best portion of a person is his intellect, if he gets humiliated
 it restores his honour, if he falls it raises him, if he goes astray it
 guides him and if he talks it directs him.
 
 > 25ـ أفْضَلُ حَظِّ الرَّجُلِ عَقْلُهُ، إنْ ذَلَّ أعَزَّهُ، وإنْ سَقَطَ
-<blockquote dir="rtl">
-  <p>
-رَفَعَهُ، وإنْ ضَلَّ أرْشَدَهُ، وَإنْ تَكَلَّمَ سَدَّدَهُ.
-  </p>
-</blockquote>
+> رَفَعَهُ، وإنْ ضَلَّ أرْشَدَهُ، وَإنْ تَكَلَّمَ سَدَّدَهُ.
 
 26. Verily Allah, the Glorified, loves the sound intellect and the
 upright action.
 
 > 26ـ إنَّ اللّهَ سُبْحانَهُ يُحِبُّ العَقْلَ القَويمَ، والعَمَلَ
-<blockquote dir="rtl">
-  <p>
-المُسْتَقيمَ.
-  </p>
-</blockquote>
+> المُسْتَقيمَ.
 
 27. Verily the one who has been bestowed with a sound intellect and
 upright action by Allah has indeed been granted with a manifest blessing
 and a great bounty.
 
 > 27ـ إنَّ مَنْ رَزَقَهُ اللّهُ عَقْلاً قَويماً، وعَمَلاً مُسْتَقيماً،
-<blockquote dir="rtl">
-  <p>
-فَقَدْ ظاهَرَ لَدَيْهِ النِّعْمَةَ، وأعْظَمَ عَلَيْهِ المِنَّـةَ.
-  </p>
-</blockquote>
+> فَقَدْ ظاهَرَ لَدَيْهِ النِّعْمَةَ، وأعْظَمَ عَلَيْهِ المِنَّـةَ.
 
 28. Intelligence is an adornment and foolishness is a disgrace.
 
@@ -323,14 +275,10 @@ fear, and lack of intellect is lack of life, and the dead are not
 interacted with.
 
 > 55ـ إنّي إذَا اسْتَحْكَمْتُ فيِ الرَّجُلِ خَصْلَةً مِنْ خِصالِ
-<blockquote dir="rtl">
-  <p>
-الخَيْـرِ اِحْتَمَلْتُهُ لَها، واغْتَفَرْتُ لَهُ فَقْدَ ما سِواها،
-وَلاأغْتَفِرُ لَهُ فَقْدَ عَقْل، وَلاعَدْمَ دين، لأنَّ مُفارَقَةَ
-الدّينِ مُفارَقَةُ الأمْنِ، وَلاتَهْنَأُ حَياةٌ مَعَ مَخافَة، وعَدَمُ
-العَقْلِ عَدَمُ الحَياةِ، وَلاتُعاشَرُ الأمْواتُ.
-  </p>
-</blockquote>
+> الخَيْـرِ اِحْتَمَلْتُهُ لَها، واغْتَفَرْتُ لَهُ فَقْدَ ما سِواها،
+> وَلاأغْتَفِرُ لَهُ فَقْدَ عَقْل، وَلاعَدْمَ دين، لأنَّ مُفارَقَةَ
+> الدّينِ مُفارَقَةُ الأمْنِ، وَلاتَهْنَأُ حَياةٌ مَعَ مَخافَة، وعَدَمُ
+> العَقْلِ عَدَمُ الحَياةِ، وَلاتُعاشَرُ الأمْواتُ.
 
 56. Verily you are gauged by your intellect, so develop it with
 knowledge.
@@ -341,11 +289,7 @@ knowledge.
 [of one’s actions] and being [resolute and] prudent.
 
 > 57ـ إنَّما العَقْلُ اَلتَّجَنُّبُ مِنَ الإثْمِ، والنَّظَرُ فِي
-<blockquote dir="rtl">
-  <p>
-العَواقِبِ، والأخْذُ بِالحَزْمِ.
-  </p>
-</blockquote>
+> العَواقِبِ، والأخْذُ بِالحَزْمِ.
 
 58. The bane of intellect is self-conceit.
 
@@ -434,21 +378,13 @@ desire.
 wealth, authority and adversity.
 
 > 78ـ ثَلاثٌ يُمْتَحَنُ بِها عُقُولُ الرِّجالِ: هُنَّ المالُ،
-<blockquote dir="rtl">
-  <p>
-والوِلايَةُ، وَالمُصيبَةُ.
-  </p>
-</blockquote>
+> والوِلايَةُ، وَالمُصيبَةُ.
 
 79. Three things show the intelligence of their lords: the messenger,
 the message and the gift.
 
 > 79ـ ثَلاثَةٌ تَدُلُّ عَلى عُقُولِ أرْبابِها: الرَّسُولُ، والكِتابُ،
-<blockquote dir="rtl">
-  <p>
-وَالهَدِيَّةُ.
-  </p>
-</blockquote>
+> وَالهَدِيَّةُ.
 
 80. A strong intellect is the beauty of the outward and inward facets
 [of a human being].
@@ -463,21 +399,13 @@ the message and the gift.
 [of actions] and being pleased with what has been decreed [by Allah].
 
 > 82 ـ حَدُّ العَقْلِ النَّظَرُ فِي العَواقِبِ، والرِّضا بِما يَجْري
-<blockquote dir="rtl">
-  <p>
-بِهِ القَضاءُ.
-  </p>
-</blockquote>
+> بِهِ القَضاءُ.
 
 83. It is forbidden upon every intellect that is shacked by (or sick
 with) lust to benefit from wisdom.
 
 > 83 ـ حَرامٌ عَلى كُلِّ عَقْل مَغْلُول (مَعْلُول) بِالشَّهْوَةِ أنْ
-<blockquote dir="rtl">
-  <p>
-يَنْتَفِعَ بِالحِكْمَةِ.
-  </p>
-</blockquote>
+> يَنْتَفِعَ بِالحِكْمَةِ.
 
 84. The peak of intellect is separation from the perishing and
 attachment to the everlasting.
@@ -521,11 +449,7 @@ tested: association, transaction, authority, isolation, affluence and
 poverty.
 
 > 92ـ سِتَّةٌ تُخْتَبَرُ بِها عُقُولُ الرِّجالِ: اَلمُصاحَبَةُ،
-<blockquote dir="rtl">
-  <p>
-والمُعامَلَةُ، والوِلايَةُ، وَالعَزْلُ، والغِنى، والفَقْرُ.
-  </p>
-</blockquote>
+> والمُعامَلَةُ، والوِلايَةُ، وَالعَزْلُ، والغِنى، والفَقْرُ.
 
 93. There are six things that assay the intellects of people:
 forbearance when angry, patience when frightened, carefulness in obeying
@@ -533,12 +457,8 @@ Allah in every situation, friendliness in dealing with others and
 reduced arguing [and quarrelling].
 
 > 93ـ سِتَّةٌ تُخْتَبَرُ بِها عُقُولُ النّاسِ: الحِلْمُ عِنْدَ الغَضَبِ،
-<blockquote dir="rtl">
-  <p>
-والصَّبْرُ عِنْد الرَّهْبِ، والقَصْدُ عِنْدَ الرَّغْبِ،وَ تَقْوىَ
-اللّهِ في كُلِّ حال، وحُسْنُ المُداراةِ، وَقِلَّةُ المُماراةِ.
-  </p>
-</blockquote>
+> والصَّبْرُ عِنْد الرَّهْبِ، والقَصْدُ عِنْدَ الرَّغْبِ،وَ تَقْوىَ
+> اللّهِ في كُلِّ حال، وحُسْنُ المُداراةِ، وَقِلَّةُ المُماراةِ.
 
 94. The rectitude of the intellect is [in] good etiquette.
 
@@ -558,11 +478,7 @@ corrupts his Hereafter.
 abasement (or error) of ignorance is the greatest abasement (or error).
 
 > 97ـ ضَلالُ العَقْلِ أشَدُّ ضَلَّة، وذِلَّةُ (زَلَّةُ) الجَهْلِ أعْظَمُ
-<blockquote dir="rtl">
-  <p>
-ذِلَّة(زَلَّة).
-  </p>
-</blockquote>
+> ذِلَّة(زَلَّة).
 
 98. You must develop your intellect, for there is no wealth more
 profitable than it.
@@ -582,11 +498,7 @@ people are revealed.
 ignorant are beguiled and the intellects of people are tested.
 
 > 101ـ عِنْدَ غُرُورِ الأطْماعِ، والآمالِ، تَنْخَدِعُ عُقُولُ الجُهَّالِ
-<blockquote dir="rtl">
-  <p>
-وتُخْتَبَرُ اَلْبابُ الرِّجالِ.
-  </p>
-</blockquote>
+> وتُخْتَبَرُ اَلْبابُ الرِّجالِ.
 
 102. The symbol of intellect is being affable with the people.
 
@@ -597,11 +509,7 @@ foundation, his honesty is his leader and his gratitude is his
 perfection.
 
 > 103ـ عَقْلُ المَرْءِ نِظامُهُ، وأدَبُهُ قِوامُهُ، وصِدْقُهُ إمامُهُ،
-<blockquote dir="rtl">
-  <p>
-وشُكْرُهُ تَمامُهُ.
-  </p>
-</blockquote>
+> وشُكْرُهُ تَمامُهُ.
 
 104. The intellects of the erudite scholars are in the points of their
 pens.
@@ -630,11 +538,7 @@ ignorance.
 wisdom.
 
 > 109ـ غَيْرُ مُنْتَفِع بِالحِكْمَةِ عَقْلٌ مَعْلُولٌ بالغَضَبِ
-<blockquote dir="rtl">
-  <p>
-والشَّهْوَةِ.
-  </p>
-</blockquote>
+> والشَّهْوَةِ.
 
 110. The veil of flaws is the intellect.
 
@@ -689,11 +593,7 @@ decree becomes stronger and he takes the changing events [that bring
 worldly loss to him] lightly.
 
 > 121ـ كُلَّمَا ازْدادَ عَقْلُ الرَّجُلِ قَوِيَ إيمانُهُ بِالقَدَرِ،
-<blockquote dir="rtl">
-  <p>
-واسْتَخَفَّ بِالغِيَرِ.
-  </p>
-</blockquote>
+> واسْتَخَفَّ بِالغِيَرِ.
 
 122. The gain of the intellect is refraining from harming others.
 
@@ -703,21 +603,13 @@ worldly loss to him] lightly.
 good choices for it and be more precautious with regards to it.
 
 > 123ـ كَيْفِيَّةُ الفِعْلِ تَدُلُّ عَلى كَمِّيَّةِ العَقْلِ، فَأحْسِنْ
-<blockquote dir="rtl">
-  <p>
-لَهُ الاِخْتِيارَ، وأكْثِرْ عَلَيْهِ الاِسْتِظْهارَ.
-  </p>
-</blockquote>
+> لَهُ الاِخْتِيارَ، وأكْثِرْ عَلَيْهِ الاِسْتِظْهارَ.
 
 124. The intellect acquires consideration and precaution whereas
 ignorance earns negligence and deception.
 
 > 124ـ كَسْبُ العَقْلِ اَلاِعْتِبارُ والاِسْتِظْهارُ، وكَسْبُ الجَهْلِ
-<blockquote dir="rtl">
-  <p>
-اَلغَفْلَةُ وَاَلاِغْتِرارُ.
-  </p>
-</blockquote>
+> اَلغَفْلَةُ وَاَلاِغْتِرارُ.
 
 125. The perfection of a person is his intellect and his value is his
 benevolence.
@@ -801,22 +693,14 @@ tongue.
 purity of his roots is evinced by his beautiful actions.
 
 > 142ـ يُسْتَدَلُّ عَلى عَقْلِ الرَّجُلِ بِحُسْنِ مَقالِهِ، وعَلى
-<blockquote dir="rtl">
-  <p>
-طَهارَةِ أصْلِهِ بِجَميلِ أفْعالِهِ.
-  </p>
-</blockquote>
+> طَهارَةِ أصْلِهِ بِجَميلِ أفْعالِهِ.
 
 143. The intellect of a man is evinced by his increased dignity and his
 virtuous tolerance, and his honourable lineage is attested to by his
 beautiful actions.
 
 > 143ـ يُسْتَدَلُّ عَلى عَقْلِ الرَّجُلِ بِكَثْرَةِ وَقارِهِ، وحُسْنِ
-<blockquote dir="rtl">
-  <p>
-احْتِمالِهِ، وعلى أكْرَمِ أصْلِهِ بِحُسْنِ أفْعالِهِ.
-  </p>
-</blockquote>
+> احْتِمالِهِ، وعلى أكْرَمِ أصْلِهِ بِحُسْنِ أفْعالِهِ.
 
 144. One whose intellect overpowers his vain desire is successful.
 
@@ -839,31 +723,19 @@ the cognizant mind and the disinclined soul [from the pleasures of this
 world].
 
 > 148ـ لايَزْكُو عِنْدَ اللّهِ سُبْحانَهُ إلاّ عَقْلٌ عارِفٌ ونَفْسٌ
-<blockquote dir="rtl">
-  <p>
-عَزُوفٌ.
-  </p>
-</blockquote>
+> عَزُوفٌ.
 
 149. There is nothing better than an intellect with knowledge, and
 knowledge with forbearance, and forbearance with power [to punish].
 
 > 149ـ لاشَـيْءَ أحْسَنُ مِنْ عَقْل مَعَ عِلْم، وعِلْم مَعَ حِلْم،
-<blockquote dir="rtl">
-  <p>
-وحِلْم مَعَ قُدْرَة.
-  </p>
-</blockquote>
+> وحِلْم مَعَ قُدْرَة.
 
 150. The intellect of a man is indicated by his adorning himself with
 chastity and contentment.
 
 > 150ـ يُسْتَدَلُّ عَلى عَقْلِ الرَّجُلِ بِالتَّحَلّي بِالعِفَّةِ
-<blockquote dir="rtl">
-  <p>
-والقَناعَةِ.
-  </p>
-</blockquote>
+> والقَناعَةِ.
 
 151. There is no wealth like intelligence.
 
@@ -952,21 +824,13 @@ of intelligence.
 servants better than intellect.
 
 > 170ـ ما قَسَمَ اللّهُ سُبْحانَهُ بَيْنَ عِبادِهِ شَيْئاً أفْضَلَ مِنَ
-<blockquote dir="rtl">
-  <p>
-العَقْلِ.
-  </p>
-</blockquote>
+> العَقْلِ.
 
 171. Allah, the Glorified, has only entrusted man with an intellect so
 that it may one day deliver him.
 
 > 171ـ مَا اسْتَوْدَعَ اللّهُ سُبْحانَهُ امْرَءاً عَقْلاً إلاّ
-<blockquote dir="rtl">
-  <p>
-لِيَسْتَنْقِذَهُ بِهِ يَوْماً.
-  </p>
-</blockquote>
+> لِيَسْتَنْقِذَهُ بِهِ يَوْماً.
 
 172. The basis of [the rightness of] an affair is the intellect.
 
@@ -986,10 +850,5 @@ more helpless with regards to the far-off intelligence [of others] and
 the one who is absent from him is more useless [to him].
 
 > 175ـ مَنْ عَجَزَ عَنْ حاضِرِ لُبِّهِ، فَهُوَ عَنْ غائِبِهِ أعْجَزُ
-<blockquote dir="rtl">
-  <p>
-ومَنْ غائِبُهُ أعْوَزُ؟!
-  </p>
-</blockquote>
-
+> ومَنْ غائِبُهُ أعْوَزُ؟!
 

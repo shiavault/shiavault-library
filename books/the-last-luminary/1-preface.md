@@ -58,4 +58,3 @@ progeny).
 [^2]: (a.s.): is the abbreviation of the Arabic phrase 'alay-hi/ha
 /himu's-salam (may peace be upon him/ her/ them)
 
-

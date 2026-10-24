@@ -212,7 +212,6 @@ house of Fatimah to disperse people who sheltered there:
 - Usaid Ibn Hozair
 - Zaid Ibn Thabit
 
-
 The revered Sunni scholar, Abu Mohammad Abdullah Ibn Muslim Ibn
 Qutaybah Daynuri in his history of Caliphs known as "al-Imamah wa al-
 Siyasah" reported:
@@ -323,5 +322,4 @@ Howsoever they tried, people failed to locate her grave. It was known
 only to a handful of Imam Ali (AS)'s family members. And to this date,
 the grave of the daughter of prophet is unknown which is another sign of
 her unhappiness from some of the companions.
-
 

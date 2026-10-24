@@ -97,7 +97,6 @@ or to his carnal desires, who endeavours in the path of Islam, who acts
 for the sake of Allah, hoping only for His reward and fearing His
 chastisement. Yes, indeed, such are the followers of Ja'far.
 
-
 **38. The Avoidance of Oppression
 **
 In the opinion of the Imams, one of the worst sins among men is enmity
@@ -158,7 +157,6 @@ or who spy on them? How do they stand in the wisdom of the Imams? Truly,
 such persons are the farthest from the generosity of Allah, their sins
 and their punishment are the most horrible, just as are their actions
 and morality.
-
 
 **39. Doctrine of Non-Cooperation with Oppressors
 **

@@ -181,4 +181,3 @@ wal and instructed them to leave for Makkah immediately. They reached
 the Imam in Makkah on the l0th of Ramazan, 60 A.H. and delivered the
 letter to him.
 
-

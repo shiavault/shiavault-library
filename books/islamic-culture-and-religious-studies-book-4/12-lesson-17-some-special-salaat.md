@@ -187,4 +187,3 @@ i) When a person misses his waajib prayers.
 ii) When a person realises that he had not performed his salaat
 properly but the time has lapsed for that particular prayer.
 
-

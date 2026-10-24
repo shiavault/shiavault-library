@@ -231,7 +231,6 @@ Holy Qur'an expressly says:
 We have blessed. (We took him on this journey) to show him some of Our
 signs." (Surah Bani Isra'il, 17:1)
 
-
 **Is this occurrence not a supernatural event and a miracle?**
 
 In Surah at-Tahri'm there is an event saying that the Holy Prophet told
@@ -395,5 +394,4 @@ perfect or a semi-perfect man and does not take place to prove the truth
 of any Divine mission. It is almost an affair with no special conditions
 attached to it. A Prophetic miracle is the voice of Allah in support of
 a particular person. But that is not the case with a saintly miracle.
-
 

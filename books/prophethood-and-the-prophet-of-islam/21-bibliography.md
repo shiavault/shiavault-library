@@ -73,4 +73,3 @@ Aalami Farhangi, Tehran, 1368
 25. Yaqubi, Ahmad ibn Yaqub, Tarikh Yaqubi, Daar Sadir, Beirut, 1379
 A.H.
 
-

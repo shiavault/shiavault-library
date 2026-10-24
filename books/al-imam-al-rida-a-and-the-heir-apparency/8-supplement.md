@@ -127,4 +127,3 @@ May Allah's blessing be on al-'Imam al-Rida (A) and his fathers and his
 descendants, the pure, among the former people and the latter. Praise be
 to Allah, the Lord of the worlds.
 
-

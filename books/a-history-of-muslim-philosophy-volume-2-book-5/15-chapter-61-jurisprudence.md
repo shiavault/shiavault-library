@@ -1362,4 +1362,3 @@ translation in Ma'ari f, Azamgarh; see also Hamidullah,
 
 [^36]: Al-Qur'hn, iii, 110.
 
-

@@ -313,4 +313,3 @@ Al-Dhari\`ah, vol. I, p.14; Dehkhuda, Loghatnameh, vol.1. p.298.
 [^44]. Kashf al-zunun, p.639.
 [^45]. Ibid, p. 637-639.
 
-

@@ -4,13 +4,9 @@ Section 11: The Hour of Judgment Shall Arrive Suddenly
 Surah An-Nahl – Verse 77
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالاَرْضِ وَمَآ أَمْرُ السَّاعَةِ
-إِلاَّ كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ إِنَّ اللَّهَ عَلَي
-كُلّ‌ِ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالاَرْضِ وَمَآ أَمْرُ السَّاعَةِ
+> إِلاَّ كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ إِنَّ اللَّهَ عَلَي
+> كُلّ‌ِ شَيْءٍ قَدِيرٌ
 
 ***77. “And to Allah belongs the Unseen of the heavens and the earth;
 and the matter of the Hour (of Doom) is but as a twinkling of the eye,
@@ -59,13 +55,9 @@ Omnipotent.
 Surah An-Nahl – Verse 78
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ أَخْرَجَكُم مّـِن بُطُونِ اُمَّهَاتِكُمْ لاَ تَعْلَمُونَ
-شَيْئاً وَجَعَلَ لَكُمُ السَّمْعَ وَالاَبْصَارَ وَالاَفْئِدَةَ
-لَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ أَخْرَجَكُم مّـِن بُطُونِ اُمَّهَاتِكُمْ لاَ تَعْلَمُونَ
+> شَيْئاً وَجَعَلَ لَكُمُ السَّمْعَ وَالاَبْصَارَ وَالاَفْئِدَةَ
+> لَعَلَّكُمْ تَشْكُرُونَ
 
 ***78. “And Allah has brought you forth from the wombs of your mothers
 (while) you knew nothing, and He appointed for you hearing and sight and
@@ -111,13 +103,9 @@ devote your life to learning.
 Surah An-Nahl – Verse 79
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَرَوْا إِلَي الطَّيْرِ مُسَخَّرَاتٍ فِي جَوّ‌ِ السَّمآءِ مَا
-يُمْسِكُهُنَّ إِلاَّ اللَّهُ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَلَمْ يَرَوْا إِلَي الطَّيْرِ مُسَخَّرَاتٍ فِي جَوّ‌ِ السَّمآءِ مَا
+> يُمْسِكُهُنَّ إِلاَّ اللَّهُ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ
+> يُؤْمِنُونَ
 
 ***79. “Do they not look at the birds, constrained in the middle of the
 sky? Naught holds them but Allah; verily there are signs in that for a
@@ -194,14 +182,10 @@ is only the believers who benefit from such dear evidences.
 Surah An-Nahl – Verse 80
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ جَعَلَ لَكُم مّـِن بُيُوتِكُمْ سَكَناً وَجَعَلَ لَكُم مِن
-جُلُودِ الاَنْعَامِ بُيُوتاً تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ
-وَيَوْمَ إِقَامَتِكُمْ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا
-وَأَشْعَارِهَآ أَثَاثاً وَمَتَاعاً إِلَي حِينٍ
-  </p>
-</blockquote>
+> وَاللَّهُ جَعَلَ لَكُم مّـِن بُيُوتِكُمْ سَكَناً وَجَعَلَ لَكُم مِن
+> جُلُودِ الاَنْعَامِ بُيُوتاً تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ
+> وَيَوْمَ إِقَامَتِكُمْ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا
+> وَأَشْعَارِهَآ أَثَاثاً وَمَتَاعاً إِلَي حِينٍ
 
 ***80. “And Allah appointed a place of rest for you of your houses, and
 He appointed tents for you of the skins of the cattle, which you find
@@ -250,14 +234,10 @@ the four-footed animals, and utilize them.
 Surah An-Nahl – Verse 81
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ جَعَلَ لَكُم مِمَّا خَلَقَ ظِلاَلاً وَجَعَلَ لَكُم مِنَ
-الْجِبَالَ أَكْنَاناً وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ
-وَسَرَابيلَ تَقِيكُم بَأْسَكُمْ كَذَلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ
-لَعَلَّكُمْ تُسْلِمُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ جَعَلَ لَكُم مِمَّا خَلَقَ ظِلاَلاً وَجَعَلَ لَكُم مِنَ
+> الْجِبَالَ أَكْنَاناً وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ الْحَرَّ
+> وَسَرَابيلَ تَقِيكُم بَأْسَكُمْ كَذَلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ
+> لَعَلَّكُمْ تُسْلِمُونَ
 
 ***81. “And Allah appointed shadows for you, out of what He has created,
 and appointed shelters for you of the mountains; and He appointed
@@ -315,11 +295,7 @@ surrender (to Him).”***
 Surah An-Nahl – Verse 82
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن تَوَلَّوْا فإِنَّمَا عَلَيْكَ الْبَلاَغُ الْمُبِينُ
-  </p>
-</blockquote>
+> فإِن تَوَلَّوْا فإِنَّمَا عَلَيْكَ الْبَلاَغُ الْمُبِينُ
 
 ***82. “So (O’ Prophet!) if they turn away, then on you is (incumbent)
 only the clear conveyance (of the message).”***
@@ -342,12 +318,8 @@ will have no impact on him.
 Surah An-Nahl – Verse 83
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ
-الْكَافِرُونَ
-  </p>
-</blockquote>
+> يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ
+> الْكَافِرُونَ
 
 ***83. “They recognize the blessing of Allah, then they deny it, and
 most of them are ungrateful.”***
@@ -424,5 +396,4 @@ salvaged.”*[^6]
 [^5]: Nūr-uth-Thaqalayn, vol. 3, p. 72
 
 [^6]: Ibid
-
 

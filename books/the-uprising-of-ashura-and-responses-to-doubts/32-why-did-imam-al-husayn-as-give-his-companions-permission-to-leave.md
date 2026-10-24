@@ -24,14 +24,10 @@ two types of permission to his companions.
 
 Imam al-Husayn (as) addressed his companions in a general way,
 
-<blockquote dir="rtl">
-  <p>
-«أمّا بعد؛ فانّي لا اعلم اصحاباً اوفی ولا خيراً من اصحابي، ولا اهل بيت
-ابرّ واوصل من اهل بيتي، فجزاکم الله عنّي خيراً. ألا وانّي لأظنّ يومنا
-من هولاء غداً. ألا وانّي قد اذنت لکم، فانطلقوا جميعاً في حلّ، ليس
-عليکم حرج منّي ولا ذمام، هذا الليل قد غشيکم فاتخذوه جملاً.»
-  </p>
-</blockquote>
+> «أمّا بعد؛ فانّي لا اعلم اصحاباً اوفی ولا خيراً من اصحابي، ولا اهل بيت
+> ابرّ واوصل من اهل بيتي، فجزاکم الله عنّي خيراً. ألا وانّي لأظنّ يومنا
+> من هولاء غداً. ألا وانّي قد اذنت لکم، فانطلقوا جميعاً في حلّ، ليس
+> عليکم حرج منّي ولا ذمام، هذا الليل قد غشيکم فاتخذوه جملاً.»
 
 “And after this; verily, I have never known companions more loyal and
 better than my companions. I have never found household members more
@@ -157,11 +153,7 @@ determination and certainty.
 7. On the day of ‘Ashura, Imam al-Husayn (as) was repeatedly asking for
 help. He would say,
 
-<blockquote dir="rtl">
-  <p>
-«هل من ناصر ينصرني؟»
-  </p>
-</blockquote>
+> «هل من ناصر ينصرني؟»
 
 This is not compatible with giving his companions permission to leave
 and setting them free from any obligation.
@@ -226,5 +218,4 @@ witness the battle.
 [^3]: Ibid.
 
 [^4]: Ibid., p. 219.
-
 

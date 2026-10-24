@@ -17,4 +17,3 @@ community. Chapter 1 examines the general features that the Ahl al-Bayt
 general policies that the Holy Imams of the Ahl al-Bayt (‘a) followed to
 maintain the security system.
 
-

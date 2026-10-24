@@ -756,4 +756,3 @@ clarified it as He did with the washing of the hands when He said "with
 the elbows" and concerning the wiping of the feet He said "to the
 anklebones."
 
-

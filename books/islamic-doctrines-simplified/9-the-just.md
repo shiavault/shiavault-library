@@ -46,4 +46,3 @@ perform.
 
 *O Allah, bless Muhammad and his Progeny.*
 
-

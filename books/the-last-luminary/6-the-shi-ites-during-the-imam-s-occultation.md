@@ -146,4 +146,3 @@ on His Eminence, and their supplication should be for salvation.
 Their existence should be one welded and fused unit, and their life
 should blaze with love for him.
 
-

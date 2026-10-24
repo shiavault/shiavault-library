@@ -16,4 +16,3 @@ the Messenger of Allah. Therefore, it is irrational for the Shia to love
 the Prophet’s family more than they love the Prophet, and it is also
 irrational for them to love the Prophet more than they love Allah.
 
-

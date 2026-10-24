@@ -234,4 +234,3 @@ whatish concept, while the other is the concept of ‘*mawjūd* ’
 the predicate, since its being respectival requires its being a
 predicate.
 
-

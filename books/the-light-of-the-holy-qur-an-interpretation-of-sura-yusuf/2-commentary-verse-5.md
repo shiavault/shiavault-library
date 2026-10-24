@@ -66,7 +66,6 @@ thing from them. It says:
 "... (Thus)does He explain the Signs in detail, for a people who know.
 "
 
-
 **Commentary : Verse 6**
 
 (6) إِنَّ في‏ اخْتِلافِ اللَّيْلِ وَ النَّهارِ وَ ما خَلَقَ اللَّهُ فِي
@@ -126,7 +125,6 @@ originate from those who honestly seek the truth and reality. Thus sins
 and pollutions from sin leave a negative impact upon one's analysis and
 cognition.
 
-
 **Commentary : Verse 7.8**
 
 (7) إِنَّ الَّذينَ لا يَرْجُونَ لِقاءَنا وَ رَضُوا بِالْحَياةِ
@@ -175,7 +173,6 @@ separation from Allah which in turn is the origin of the lack of
 sympathy and, consequently, falling into pollution, mischief, and sin
 whose ultimate result cannot be aught but Fire.
 
-
 **Commentary : Verse 9**
 
 (9) إِنَّ الَّذينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ يَهْديهِمْ
@@ -205,7 +202,6 @@ As for the Hereafter, the Creator(s. w. t.)establishes them in palaces
 and Gardens underneath which Rivers flow. The verse continues saying:
 
 "... beneath them rivers flow in gardens of bliss. "
-
 
 **Commentary : Verse 10**
 
@@ -266,5 +262,4 @@ Sadiqin, the Commentary)
 (2) Sura Az- Zumae, No. 39, verse 73
 
 (3) Sura Al- Waqi'ah, No. 56, verse 26
-
 

@@ -1,20 +1,16 @@
 Chapter 5 : Hypocrities and Repetence
 =====================================
 
-<p dir="rtl">
 وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
 لَوَّوْا رُؤُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
-</p>
 
 “When it is said to them, 'Come, the Messenger of Allah will pray for
 your forgiveness,' they turn aside their heads, and you see them turning
 away their faces in arrogance.”[^28]
 
-<p dir="rtl">
 سَوَاء عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
 لَن يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
 الْفَاسِقِينَ
-</p>
 
 “It is the same for them whether you pray for their forgiveness or not.
 Allah will not forgive them. Surely, Allah guides not rebellious
@@ -114,7 +110,6 @@ Yusuf, are proofs of the Quranic validity of intercession. Allah,
 because of the station that the prophets occupy in proximity to Him,
 accepts their intercession and forgives the sins of those who take the
 prophets as intercessors.
-
 
 A MISUNDERSTANDING
 
@@ -341,39 +336,38 @@ Allah's permission.
 
 **Notes:**
 
-[^28] 62:5
+[^28]: 62:5
 
-[^29] 62:6
+[^29]: 62:6
 
-[^30] 12:97
+[^30]: 12:97
 
-[^31] 12:98
+[^31]: 12:98
 
-[^32] 60:4
+[^32]: 60:4
 
-[^33] 4:64
+[^33]: 4:64
 
-[^34] 9:113
+[^34]: 9:113
 
-[^35] 40:7
+[^35]: 40:7
 
-[^36] 4:48
+[^36]: 4:48
 
-[^37] 9:80
+[^37]: 9:80
 
-[^38] 2:48 ,also refer to 2:123, 2:254 and 74:48
+[^38]: 2:48 ,also refer to 2:123, 2:254 and 74:48
 
-[^39] 32:4, also refer to 6:51, 6:70, 39:44 and 40:18
+[^39]: 32:4, also refer to 6:51, 6:70, 39:44 and 40:18
 
-[^40] 2:255
+[^40]: 2:255
 
-[^41] 20:109, also refer to 10:3, 21:28, 19:87, 34:23, 43:86 and 53:26
+[^41]: 20:109, also refer to 10:3, 21:28, 19:87, 34:23, 43:86 and 53:26
 
-[^42] 10:18
+[^42]: 10:18
 
-[^43] 39:43-44
+[^43]: 39:43-44
 
-[^44] 2:48 This verse is about the history of the Israelites. This is
+[^44]: 2:48 This verse is about the history of the Israelites. This is
 negating the intercession that the Jews believe in.
-
 

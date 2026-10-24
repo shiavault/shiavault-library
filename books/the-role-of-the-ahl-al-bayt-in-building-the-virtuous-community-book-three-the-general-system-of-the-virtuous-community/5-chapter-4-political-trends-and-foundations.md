@@ -111,13 +111,9 @@ dynasties thereafter.
 Giving a general assessment of their political movement Imam \`Ali (‘a)
 used to describe them and their slogan as follows:
 
-<blockquote dir="rtl">
-  <p>
-كَلِمَةُ حَقٍّ يُرَادُ بِهَا بَاطِلٌ. نَعَمْ، إنَّهُ لاَ حُكْمَ إِلاَّ
-للهِ، وَلَكِنَّ هَؤُلاَءِ يَقُولُونَ: لاَ إِمْرَةَ إِلاَّ للهِ.
-وَإنَّهُ لاَ بُدَّ لِلنَّاسِ مِنْ أَمِيرٍ بَرٍّ أَوْ فَاجِرٍ.
-  </p>
-</blockquote>
+> كَلِمَةُ حَقٍّ يُرَادُ بِهَا بَاطِلٌ. نَعَمْ، إنَّهُ لاَ حُكْمَ إِلاَّ
+> للهِ، وَلَكِنَّ هَؤُلاَءِ يَقُولُونَ: لاَ إِمْرَةَ إِلاَّ للهِ.
+> وَإنَّهُ لاَ بُدَّ لِلنَّاسِ مِنْ أَمِيرٍ بَرٍّ أَوْ فَاجِرٍ.
 
 *The sentence is true but what they mean by it is false. It is true that
 judgment lies with none but Allah, but these people say that the
@@ -127,12 +123,8 @@ escape for people from good or bad rulers.*[^3]
 Imam \`Ali (‘a) also prohibited his Shi\`ah and followers to fight
 against the Khawarij to the benefit of the Umayyads. He thus said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُقَاتِلُوا الْخَوَارِجَ بَعْدِي، فَلَيْسَ مَنْ طَلِبَ الْحَقَّ
-فَأَخْطَأَهُ كَمَنْ طَلِبَ الْبَاطِلَ فَأَدْرَكَهُ.
-  </p>
-</blockquote>
+> لاَ تُقَاتِلُوا الْخَوَارِجَ بَعْدِي، فَلَيْسَ مَنْ طَلِبَ الْحَقَّ
+> فَأَخْطَأَهُ كَمَنْ طَلِبَ الْبَاطِلَ فَأَدْرَكَهُ.
 
 *Do not fight the Khawarij after me, because one who seeks right but
 does not find it is not like one who seeks wrong and finds it.*[^4]
@@ -140,13 +132,9 @@ does not find it is not like one who seeks wrong and finds it.*[^4]
 He (‘a) predicted that the Khawarij would finally turn into thieves and
 robbers:
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ وَالله، إِنَّهُمْ نُطَفٌ فِي أَصْلاَبِ الرِّجَالِ، وَقَرَارَاتِ
-النِّسَاءِ، كُلَّمَا نَجَمَ مِنْهُمْ قَرْنٌ قُطِعَ، حَتَّى يَكُونَ
-آخِرُهُمْ لُصُوصاً سَلاَّبِينَ.
-  </p>
-</blockquote>
+> كَلاَّ وَالله، إِنَّهُمْ نُطَفٌ فِي أَصْلاَبِ الرِّجَالِ، وَقَرَارَاتِ
+> النِّسَاءِ، كُلَّمَا نَجَمَ مِنْهُمْ قَرْنٌ قُطِعَ، حَتَّى يَكُونَ
+> آخِرُهُمْ لُصُوصاً سَلاَّبِينَ.
 
 *By Allah, no! Not yet. They still exist in the loins of men and wombs
 of women. Whenever a chief would appear from among them, he would be cut
@@ -279,20 +267,16 @@ following, however, is another tradition of the same purport:
 
 Tariq ibn Shihab has reported Imam \`Ali (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الإِمَامُ دَلِيلٌ لِلْقَاصِدِينَ، وَمَنَارٌ لِلْمُهْتَدِينَ، وَسَبِيلٌ
-لِلسَّالِكِينَ، وَشَمْسٌ مُشْرِقَةٌ فِي قُلُوبِ الْعَارِفِينَ.
-وِلاَيَتُهُ سَبَبٌ لِلنَّجَاةِ، وَطَاعَتُهُ مُفْتَرَضَةٌ فِي
-الْحَيَاةِ، وَعُدَّةٌ بَعْدَ الْمَمَاتِ، وَعِزُّ الْمُؤْمِنِينَ،
-وَشَفَاعَةُ الْمُذْنِبِينَ، وَنَجَاةُ الْمُحِبِّينَ، وَفَوْزُ
-التَّابِعِينَ، لأَِنَّهَا رَأْسُ الإِسْلاَمِ، وَكَمَالُ الإِيمَانِ،
-وَمَعْرِفَةُ الْحُدُودِ وَالأَحْكَامِ، وَتَبْيِينُ الْحَلاَلِ مِنَ
-الْحَرَامِ. فَهِيَ مَرْتَبَةٌ لاَ يَنَالُهَا إِلاَّ مَنِ إخْتَارَهُ
-اللهُ وَقَدَّمَهُ، وَوَلاَّهُ وَحَكَّمَهُ. فَالْوِلاَيَةُ هِيَ حِفْظُ
-الثُّغُورِ، وَتَدْبِيرُ الأُمُورِ وَتَعْدِيدُ الأَيَّامِ وَالشُّهُورِ.
-  </p>
-</blockquote>
+> الإِمَامُ دَلِيلٌ لِلْقَاصِدِينَ، وَمَنَارٌ لِلْمُهْتَدِينَ، وَسَبِيلٌ
+> لِلسَّالِكِينَ، وَشَمْسٌ مُشْرِقَةٌ فِي قُلُوبِ الْعَارِفِينَ.
+> وِلاَيَتُهُ سَبَبٌ لِلنَّجَاةِ، وَطَاعَتُهُ مُفْتَرَضَةٌ فِي
+> الْحَيَاةِ، وَعُدَّةٌ بَعْدَ الْمَمَاتِ، وَعِزُّ الْمُؤْمِنِينَ،
+> وَشَفَاعَةُ الْمُذْنِبِينَ، وَنَجَاةُ الْمُحِبِّينَ، وَفَوْزُ
+> التَّابِعِينَ، لأَِنَّهَا رَأْسُ الإِسْلاَمِ، وَكَمَالُ الإِيمَانِ،
+> وَمَعْرِفَةُ الْحُدُودِ وَالأَحْكَامِ، وَتَبْيِينُ الْحَلاَلِ مِنَ
+> الْحَرَامِ. فَهِيَ مَرْتَبَةٌ لاَ يَنَالُهَا إِلاَّ مَنِ إخْتَارَهُ
+> اللهُ وَقَدَّمَهُ، وَوَلاَّهُ وَحَكَّمَهُ. فَالْوِلاَيَةُ هِيَ حِفْظُ
+> الثُّغُورِ، وَتَدْبِيرُ الأُمُورِ وَتَعْدِيدُ الأَيَّامِ وَالشُّهُورِ.
 
 *The Imam is the (true) guide of the guidance-seekers, the lantern of
 the well-guided, the path of those moving towards divinity, and the
@@ -310,13 +294,9 @@ months…*[^6]
 
 Abu-Hamzah has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: عَلَى الصَّلاَةِ وَالزَّكَاةِ
-وَالصَّوْمِ وَالْحَجِّ وَالْوِلاَيَةِ، وَلَمْ يُنَادَ بِشَيْءٍ كَمَا
-نُودِيَ بِالْوِلاَيَةِ.
-  </p>
-</blockquote>
+> بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: عَلَى الصَّلاَةِ وَالزَّكَاةِ
+> وَالصَّوْمِ وَالْحَجِّ وَالْوِلاَيَةِ، وَلَمْ يُنَادَ بِشَيْءٍ كَمَا
+> نُودِيَ بِالْوِلاَيَةِ.
 
 *Islam is based on five things: salat (performance of obligatory
 prayer), zakat (poor-rate), hajj (pilgrimage to the Holy House in
@@ -326,12 +306,8 @@ anything is on the level of the validation of wilayah.*[^7]
 Through an authentic chain of authority, Zurarah has reported Imam
 al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-بُنِيَ الإِسْلاَمُ عَلَى خَمْسَةِ أَشْيَاءَ: عَلَى الصَّلاَةِ
-وَالزَّكَاةِ وَالْحَجِّ وَالصَّوْمِ وَالْوِلاَيَةِ.
-  </p>
-</blockquote>
+> بُنِيَ الإِسْلاَمُ عَلَى خَمْسَةِ أَشْيَاءَ: عَلَى الصَّلاَةِ
+> وَالزَّكَاةِ وَالْحَجِّ وَالصَّوْمِ وَالْوِلاَيَةِ.
 
 *Islam is based on five things: salat (performance of obligatory
 prayer), zakat (poor-rate), hajj (pilgrimage to the Holy House in
@@ -341,12 +317,8 @@ Zurarah asked, “What is the best among these things?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-الْوِلاَيَةُ أَفْضَلُ، لأَِنَّهَا مِفْتَاحُهُنَّ، وَالْوَالِي هُوَ
-الدَّلِيلُ عَلَيْهِنَّ.
-  </p>
-</blockquote>
+> الْوِلاَيَةُ أَفْضَلُ، لأَِنَّهَا مِفْتَاحُهُنَّ، وَالْوَالِي هُوَ
+> الدَّلِيلُ عَلَيْهِنَّ.
 
 *The best of them is the wilayah, because it is the key to them, and the
 wali (divinely designated leader) is the guide to them.*[^8]
@@ -354,11 +326,7 @@ wali (divinely designated leader) is the guide to them.*[^8]
 According to another authentically reported tradition, Zayd al-Shahham
 has reported that Imam al-Sadiq (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-يَا زَيْدُ، حُبُّنَا إِيمَانٌ وَبُغْضُنَا كُفْرٌ.
-  </p>
-</blockquote>
+> يَا زَيْدُ، حُبُّنَا إِيمَانٌ وَبُغْضُنَا كُفْرٌ.
 
 *O Zayd, to love us is faith and to hate us is disbelief.*[^9]
 
@@ -371,26 +339,22 @@ essential for guidance.
 
 Jabir has reported the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَزَقَهُ اللهُ حُبَّ الأَئِمَّةِ مِنْ أَهْلِ بَيْتِي فَقَدْ
-أَصَابَ خَيْرَ الدُّنْيَا وَالآخِرَةِ، فَلاَ يَشُكَّنَّ أَحَدٌ أَنَّهُ
-فِي الْجَنَّةِ، فَإِنَّ فِي حُبِّ أَهْلِ بَيْتِي عِشْرِينَ خِصْلَةً:
-عَشَرَةً فِي الدُّنْيَا وَعَشَرَةً فِي الآخِرَةِ. أَمَّا فِي
-الدُّنْيَا، فَالزُّهْدُ، وَالْحِرْصُ عَلَى الْعَمَلِ، وَالْوَرَعُ فِي
-الدِّينِ، وَالرَّغْبَةُ فِي الْعِبَادَةِ، وَالتَّوْبَةُ قَبْلَ
-الْمَوْتِ، وَالنَّشَاطُ فِي قِيَامِ اللَّيْلِ، وَالْيَأْسُ مِمَّا فِي
-أَيْدِي النَّاسِ، وَالْحِفْظُ لأَِمْرِ اللهِ وَنَهْيِهِ عَزَّ وَجَلَّ،
-وَالتَّاسِعَةُ بُغْضُ الدُّنْيَا، وَالْعَاشِرَةُ السَّخَاءُ. وَأَمَّا
-فِي الآخِرَةِ: فَلاَ يُنْشَرُ لَهُ دِيوَانٌ، وَلاَ يُنْصَبُ لَهُ
-مِيزَانٌ، وَيُعْطَى كِتَابَهُ بِيَمِينِهِ، وَتُكْتَبُ لَهُ بَرَاءَةٌ
-مِنَ النَّارِ، وَيَبْيَضُّ وَجْهُهُ، وَيُكْسَى مِنْ حُلَلِ الْجَنَّةِ،
-وَيُشَفَّعُ فِي مِائَةٍ مِنْ أَهْلِ بَيْتِهِ، وَيَنْظُرُ اللهُ
-إِلَيْهِ بِالرَّحْمَةِ، وَيُتَوَّجُ مِنْ تِيجَانِ الْجَنَّةِ،
-وَالْعَاشِرَةُ دُخُولُ الْجَنَّةِ بِغَيْرِ حِسَابٍ. فَطُوبَى لِمُحِبِّ
-أَهْلِ بَيْتِي.
-  </p>
-</blockquote>
+> مَنْ رَزَقَهُ اللهُ حُبَّ الأَئِمَّةِ مِنْ أَهْلِ بَيْتِي فَقَدْ
+> أَصَابَ خَيْرَ الدُّنْيَا وَالآخِرَةِ، فَلاَ يَشُكَّنَّ أَحَدٌ أَنَّهُ
+> فِي الْجَنَّةِ، فَإِنَّ فِي حُبِّ أَهْلِ بَيْتِي عِشْرِينَ خِصْلَةً:
+> عَشَرَةً فِي الدُّنْيَا وَعَشَرَةً فِي الآخِرَةِ. أَمَّا فِي
+> الدُّنْيَا، فَالزُّهْدُ، وَالْحِرْصُ عَلَى الْعَمَلِ، وَالْوَرَعُ فِي
+> الدِّينِ، وَالرَّغْبَةُ فِي الْعِبَادَةِ، وَالتَّوْبَةُ قَبْلَ
+> الْمَوْتِ، وَالنَّشَاطُ فِي قِيَامِ اللَّيْلِ، وَالْيَأْسُ مِمَّا فِي
+> أَيْدِي النَّاسِ، وَالْحِفْظُ لأَِمْرِ اللهِ وَنَهْيِهِ عَزَّ وَجَلَّ،
+> وَالتَّاسِعَةُ بُغْضُ الدُّنْيَا، وَالْعَاشِرَةُ السَّخَاءُ. وَأَمَّا
+> فِي الآخِرَةِ: فَلاَ يُنْشَرُ لَهُ دِيوَانٌ، وَلاَ يُنْصَبُ لَهُ
+> مِيزَانٌ، وَيُعْطَى كِتَابَهُ بِيَمِينِهِ، وَتُكْتَبُ لَهُ بَرَاءَةٌ
+> مِنَ النَّارِ، وَيَبْيَضُّ وَجْهُهُ، وَيُكْسَى مِنْ حُلَلِ الْجَنَّةِ،
+> وَيُشَفَّعُ فِي مِائَةٍ مِنْ أَهْلِ بَيْتِهِ، وَيَنْظُرُ اللهُ
+> إِلَيْهِ بِالرَّحْمَةِ، وَيُتَوَّجُ مِنْ تِيجَانِ الْجَنَّةِ،
+> وَالْعَاشِرَةُ دُخُولُ الْجَنَّةِ بِغَيْرِ حِسَابٍ. فَطُوبَى لِمُحِبِّ
+> أَهْلِ بَيْتِي.
 
 *He whom Almighty Allah endues with love for the Imams of my Household
 has in fact gained the benefit of this world and the next world. He must
@@ -419,13 +383,9 @@ Household.*[^10]
 
 Imam \`Ali (‘a) is reported to have said to al-Harith al-A\`war:
 
-<blockquote dir="rtl">
-  <p>
-لَيَنْفَعَنَّكَ حُبُّنَا عِنْدَ ثَلاَثٍ: عِنْدَ نُزُولِ مَلَكِ
-الْمَوْتِ، وَعِنْدَ مُسَائَلَتِكَ فِي قَبْرِكَ، وَعِنْدَ مَوْقِفِكَ
-بَيْنَ يَدَيِ اللهِ.
-  </p>
-</blockquote>
+> لَيَنْفَعَنَّكَ حُبُّنَا عِنْدَ ثَلاَثٍ: عِنْدَ نُزُولِ مَلَكِ
+> الْمَوْتِ، وَعِنْدَ مُسَائَلَتِكَ فِي قَبْرِكَ، وَعِنْدَ مَوْقِفِكَ
+> بَيْنَ يَدَيِ اللهِ.
 
 *Verily, your love for us shall help you in three situations: (1) when
 the Angel of Death comes to you, (2) at the interrogation in the grave,
@@ -434,14 +394,10 @@ and (3) when you are standing before Almighty Allah for judgment.*[^11]
 Hasan ibn Muhammad ibn al-Fadhl al-Hashimi has reported on the authority
 of his father that Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ حُبَّنَا، أَهْلَ الْبَيْتِ، لَيُنْتَفَعُ بِهِ فِي سَبْعِ
-مَوَاطِنَ: عِنْدَ اللهِ، وَعِنْدَ الْمَوْتِ، وَعِنْدَ الْقَبْرِ،
-وَيَوَْمَ الْمَحْشَرِ، وَعِنْدَ الْحَوْضِ، وَعِنْدَ الْمِيزَانِ،
-وَعِنْدَ الصِّرَاطِ.
-  </p>
-</blockquote>
+> إِنَّ حُبَّنَا، أَهْلَ الْبَيْتِ، لَيُنْتَفَعُ بِهِ فِي سَبْعِ
+> مَوَاطِنَ: عِنْدَ اللهِ، وَعِنْدَ الْمَوْتِ، وَعِنْدَ الْقَبْرِ،
+> وَيَوَْمَ الْمَحْشَرِ، وَعِنْدَ الْحَوْضِ، وَعِنْدَ الْمِيزَانِ،
+> وَعِنْدَ الصِّرَاطِ.
 
 *Verily, love for us—the Ahl al-Bayt—shall be helpful at seven stations:
 (1) on meeting Almighty Allah, (2) at death, (3) in the grave, (4) on
@@ -458,13 +414,9 @@ in patterning one’s behavior and conduct after them.
 
 In this respect, Imam al-Baqir (‘a) declared:
 
-<blockquote dir="rtl">
-  <p>
-مَا شِيعَتُنَا إِلاَّ مَنِ إتَّقَى اللهَ وَأَطَاعَهُ، وَمَا كَانُوا
-يُعْرَفُونَ إِلاَّ بِالتَّوَاضُعِ وَالتَّخَشُّعِ وَأَدَاءِ الأَمَانَةِ
-وَكَثْرَةِ ذِكْرِ اللهِ.
-  </p>
-</blockquote>
+> مَا شِيعَتُنَا إِلاَّ مَنِ إتَّقَى اللهَ وَأَطَاعَهُ، وَمَا كَانُوا
+> يُعْرَفُونَ إِلاَّ بِالتَّوَاضُعِ وَالتَّخَشُّعِ وَأَدَاءِ الأَمَانَةِ
+> وَكَثْرَةِ ذِكْرِ اللهِ.
 
 *Our Shi\`ah include only those who fear and obey Allah. They must be
 characterized by modesty, submission, fulfillment of trusts, and
@@ -472,15 +424,11 @@ abundant remembrance Allah…*[^13]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-شِيعَتُنَا أَهْلُ الْوَرَعِ وَالإجْتِهَادِ وَأَهْلُ الْوَفَاءِ
-وَالأَمَانَةِ وَأَهْلُ الزُّهْدِ وَالْعِبَادَةِ؛ أَصْحَابُ إحْدَى
-وَخَمْسِينَ رَكْعَةً فِي الْيَوْمِ وَاللَّيْلَةِ، الْقَائِمُونَ
-اللَّيْلَ الصَّائِمُونَ النَّهَارَ، يُزَكُّونَ أَمْوَالَهُمْ
-وَيَحِجُّونَ الْبَيْتَ وَيَجْتَنِبُونَ كُلَّ مُحَرَّمٍ.
-  </p>
-</blockquote>
+> شِيعَتُنَا أَهْلُ الْوَرَعِ وَالإجْتِهَادِ وَأَهْلُ الْوَفَاءِ
+> وَالأَمَانَةِ وَأَهْلُ الزُّهْدِ وَالْعِبَادَةِ؛ أَصْحَابُ إحْدَى
+> وَخَمْسِينَ رَكْعَةً فِي الْيَوْمِ وَاللَّيْلَةِ، الْقَائِمُونَ
+> اللَّيْلَ الصَّائِمُونَ النَّهَارَ، يُزَكُّونَ أَمْوَالَهُمْ
+> وَيَحِجُّونَ الْبَيْتَ وَيَجْتَنِبُونَ كُلَّ مُحَرَّمٍ.
 
 *Our Shi\`ah are the people of piety, diligence, loyalty and honesty.
 They are also the people of asceticism and worship. They offer fifty-one
@@ -491,14 +439,10 @@ forbidden act.*[^14]
 
 Imam \`Ali (‘a) has defined the Shi\`ah as follows:
 
-<blockquote dir="rtl">
-  <p>
-شِيعَتُنَا الْمُتَبَاذِلُونَ فِي وِلاَيَتِنَا، الْمُتَحَابُّونَ فِي
-مَوَدَّتِنَا، الْمُتَزَاوِرُونَ فِي إِحْيَاءِ أَمْرِنَا، الَّذِينَ
-إِذَا غَضِبُوا لَمْ يَظْلِمُوا، وَإذَا رَضُوا لَمْ يُسْرِفُوا،
-بَرَكَةٌ عَلَى مَنْ جَاوَرَهُمْ، سِلْمٌ لِمَنْ خَالَطُوا.
-  </p>
-</blockquote>
+> شِيعَتُنَا الْمُتَبَاذِلُونَ فِي وِلاَيَتِنَا، الْمُتَحَابُّونَ فِي
+> مَوَدَّتِنَا، الْمُتَزَاوِرُونَ فِي إِحْيَاءِ أَمْرِنَا، الَّذِينَ
+> إِذَا غَضِبُوا لَمْ يَظْلِمُوا، وَإذَا رَضُوا لَمْ يُسْرِفُوا،
+> بَرَكَةٌ عَلَى مَنْ جَاوَرَهُمْ، سِلْمٌ لِمَنْ خَالَطُوا.
 
 *Our Shi\`ah include only those who meet the needs of each other for the
 sake of their loyalty to our leadership, love each other for the sake of
@@ -514,12 +458,8 @@ which all Muslims agree unanimously because the Holy Qur'an has affirmed
 their purity and the obligation of bearing love for them and keeping
 good relations with them, saying:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives. (42:23)***
@@ -597,12 +537,8 @@ famous sermon called *al-Shaqshaqiyyah* (No. 3 in *Nahj al-Balaghah*) as
 well as on other occasions), he abided by this political trend which he
 himself explained on many occasions, including the following:
 
-<blockquote dir="rtl">
-  <p>
-وَوَاللهِ، لأُسَلِّمَنَّ مَا سَلِمَتْ أُمُورُ الْمُسْلِمِينَ وَلَمْ
-يَكُنْ فِيهَا جَوْرٌ إلاَّ عَلَيَّ خَاصَّةً.
-  </p>
-</blockquote>
+> وَوَاللهِ، لأُسَلِّمَنَّ مَا سَلِمَتْ أُمُورُ الْمُسْلِمِينَ وَلَمْ
+> يَكُنْ فِيهَا جَوْرٌ إلاَّ عَلَيَّ خَاصَّةً.
 
 *By Allah, so long as the affairs of Muslims remain intact and there is
 no oppression perpetrated except upon me, I shall keep quiet.*[^17]
@@ -667,13 +603,9 @@ In *Usul al-Kafi*, Shaykh al-Kulayni has reported through an
 authenticated chain of authority that Murazim reported Imam al-Sadiq
 (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ لاَ بُدَّ لَكُمْ مِنَ النَّاسِ. إنَّ أَحَداً لاَ يَسْتَغْنِي
-عَنِ النَّاسِ حَيَاتَهُ، وَالنَّاسُ لاَ بُدَّ لِبَعْضِهِمْ مِنْ
-بَعْضٍ.
-  </p>
-</blockquote>
+> إنَّهُ لاَ بُدَّ لَكُمْ مِنَ النَّاسِ. إنَّ أَحَداً لاَ يَسْتَغْنِي
+> عَنِ النَّاسِ حَيَاتَهُ، وَالنَّاسُ لاَ بُدَّ لِبَعْضِهِمْ مِنْ
+> بَعْضٍ.
 
 *Verily, you cannot escape dealing with people. No one can dispense with
 others throughout their lifetime since people are in an indispensable
@@ -682,12 +614,8 @@ need of each other.*[^18]
 Hudhayfah ibn Mansur has reported that he heard Imam al-Sadiq (‘a)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَفَّ يَدَهُ عَنِ النَّاسِ فَإِنَّمَا يَكُفُّ عَنْهُمْ يَداً
-وَاحِدَةً وَيَكُفُّونَ عَنْهُ أَيْدِياً كَثِيرَةً.
-  </p>
-</blockquote>
+> مَنْ كَفَّ يَدَهُ عَنِ النَّاسِ فَإِنَّمَا يَكُفُّ عَنْهُمْ يَداً
+> وَاحِدَةً وَيَكُفُّونَ عَنْهُ أَيْدِياً كَثِيرَةً.
 
 *Whoever refrains from reaching out to help others will have surely
 stopped one hand (his own) from helping others, while many hands will
@@ -705,17 +633,13 @@ aspects of life.
 
 Husham al-Kindi has reported that he heard Imam al-Sadiq (‘a) say:
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكُمْ أَنْ تَعْمَلُوا عَمَلاً نُعَيَّرُ بِهِ! فَإِنَّ وَلَدَ
-السُّوءِ يُعَيَّرُ وَالِدُهُ بِعَمَلِهِ. كُونُوا لِمَنِ إنْقَطَعْتُمْ
-إلَيْهِ زَيْناً، وَلاَ تَكُونُوا شَيْناً. صِلُوا فِي عَشَائِرِهِمْ،
-وَعُودُوا مَرْضَاهُمْ، وَاشْهَدُوا جَنَائِزَهُمْ، وَلاَ يَسْبِقُوكُمْ
-إلَى شَيْءٍ مِنَ الْخَيْرِ، فَأَنْتُمْ أَوْلَى بِهِ مِنْهُمْ. وَاللهِ،
-مَا عُبِدَ اللهُ بِشَيْءٍ أَحَبَّ إِلَيْهِ مِنَ الْخِبْءِ…
-التَّقِيَّةِ.
-  </p>
-</blockquote>
+> إِيَّاكُمْ أَنْ تَعْمَلُوا عَمَلاً نُعَيَّرُ بِهِ! فَإِنَّ وَلَدَ
+> السُّوءِ يُعَيَّرُ وَالِدُهُ بِعَمَلِهِ. كُونُوا لِمَنِ إنْقَطَعْتُمْ
+> إلَيْهِ زَيْناً، وَلاَ تَكُونُوا شَيْناً. صِلُوا فِي عَشَائِرِهِمْ،
+> وَعُودُوا مَرْضَاهُمْ، وَاشْهَدُوا جَنَائِزَهُمْ، وَلاَ يَسْبِقُوكُمْ
+> إلَى شَيْءٍ مِنَ الْخَيْرِ، فَأَنْتُمْ أَوْلَى بِهِ مِنْهُمْ. وَاللهِ،
+> مَا عُبِدَ اللهُ بِشَيْءٍ أَحَبَّ إِلَيْهِ مِنَ الْخِبْءِ…
+> التَّقِيَّةِ.
 
 *Avoid committing any act due to which we may be disgraced. Verily, an
 immoral son brings disgrace to his father because of his deeds. Be good
@@ -735,14 +659,10 @@ legal bases for their relations with others.
 
 Imam \`Ali (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعُهُودَ قَلاَئِدُ فِي الأَعْنَاقِ إِلَى يَوْمِ الْقِيَامَةِ؛
-فَمَنْ وَصَلَهَا وَصَلَهُ اللهُ، وَمَنْ نَقَضَهَا خَذَلَهُ اللهُ،
-وَمَنِ اسْتَخَفَّ بِهَا خَاصَمَتْهُ إِلَى الَّذِي أَكَّدَهَا وَأَخَذَ
-خَلْقَهُ بِحِفْظِهَا.
-  </p>
-</blockquote>
+> إِنَّ الْعُهُودَ قَلاَئِدُ فِي الأَعْنَاقِ إِلَى يَوْمِ الْقِيَامَةِ؛
+> فَمَنْ وَصَلَهَا وَصَلَهُ اللهُ، وَمَنْ نَقَضَهَا خَذَلَهُ اللهُ،
+> وَمَنِ اسْتَخَفَّ بِهَا خَاصَمَتْهُ إِلَى الَّذِي أَكَّدَهَا وَأَخَذَ
+> خَلْقَهُ بِحِفْظِهَا.
 
 *Verily, pledges are necklaces worn around the neck up to the Day of
 Resurrection. Therefore, whoever fulfills their pledges will gain
@@ -753,13 +673,9 @@ and commanded His creatures to adhere to them.*[^22]
 
 Imam \`Ali (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَغْدُرَنَّ بِعَهْدِكَ، وَلاَ تَخْفَرَنَّ ذِمَّتَكَ، وَلاَ
-تَخْتَلْ عَدُوَّكَ، فَقَدْ جَعَلَ اللهُ سُبْحَانَهُ عَهْدَهُ
-وَذِمَّتَهُ أَمْناً لَهُ.
-  </p>
-</blockquote>
+> لاَ تَغْدُرَنَّ بِعَهْدِكَ، وَلاَ تَخْفَرَنَّ ذِمَّتَكَ، وَلاَ
+> تَخْتَلْ عَدُوَّكَ، فَقَدْ جَعَلَ اللهُ سُبْحَانَهُ عَهْدَهُ
+> وَذِمَّتَهُ أَمْناً لَهُ.
 
 *Never breach your pledges, never violate your obligations, and never
 trick your enemy (by violating your covenant with him) because Almighty
@@ -768,11 +684,7 @@ security for him.*[^23]
 
 He (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-غِشُّ الصَّدِيقِ وَالْغَدْرُ بِالْمَوَاثِيقِ مِنْ خِيَانَةِ الْعَهْدِ.
-  </p>
-</blockquote>
+> غِشُّ الصَّدِيقِ وَالْغَدْرُ بِالْمَوَاثِيقِ مِنْ خِيَانَةِ الْعَهْدِ.
 
 *Among the examples of breach of pledge are to cheat one’s friend and to
 break one’s covenant.*[^24]
@@ -785,30 +697,26 @@ In this respect, Shaykh al-Kulayni has reported through an authentic
 chain of authority that Safwan ibn Yahya reported Abu-Usamah Zayd
 al-Shahham as saying that Imam al-Sadiq (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-إقْرَأْ عَلَى مَنْ تَرَى أَنَّهُ يُطِيعُنِي مِنْهُمْ وَيَأْخُذُ
-بِقَوْلِيَ السَّلاَمَ وَأُوصِيكُمْ بِتَقْوَى اللهِ عَزَّ وَجَلَّ
-وَالْوَرَعَ فِي دِينِكُمْ وَالإجْتِهَادَ للهِ وَصِدْقَ الْحَدِيثِ
-وَأَدَاءَ الأَمَانَةِ وَطُولَ السُّجُودِ وَحُسْنَ الْجِوَارِ،
-فَبِهَذَا جَاءَ مُحَمَّدٌ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ. أَدُّوا
-الأَمَانَةَ إلَى مَنِ إئْتَمَنَكُمْ عَلَيْهَا بَرّاً أَوْ فَاجِراً،
-فَإِنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، كَانَ يَأْمُرُ
-بِأَدَاءِ الْخَيْطِ وَالْمَخِيطِ. صِلُوا عَشَائِرَكُمْ وَاشْهَدُوا
-جَنَائِزَهُمْ وَعُودُوا مَرْضَاهُمْ وَأَدُّوا حُقُوقَهُمْ، فَإنَّ
-الرَّجُلَ مِنْكُمْ إذَا وَرِعَ فِي دِينِهِ وَصَدَقَ الْحَدِيثَ
-وَأَدَّى الأَمَانَةَ وَحَسُنَ خُلُقُهُ مَعَ النَّاسِ قِيلَ: هَذَا
-جَعْفَرِيٌّ. فَيُسِرُّنِي ذَلِكَ وَيُدْخِلُ عَلَيَّ مِنْهُ السُّرُورَ.
-وَقِيلَ: هَذَا أَدَبُ جَعْفَرٍ. وَإِذَا كَانَ عَلَى غَيْرِ ذَلِكَ
-دَخَلَ عَلَيَّ بَلاَؤُهُ وَعَارُهُ وَقِيلَ: هَذَا أَدَبُ جَعْفَرٍ.
-فَوَاللهِ لَحَدَّثَنِي أَبِي، عَلَيْهِ السَّلاَمُ، أَنَّ الرَّجُلَ
-كَانَ يَكُونُ فِي الْقَبِيلَةِ مِنْ شِيعَةِ عَلِيٍّ، عَلَيْهِ
-السَّلاَمُ، فَيَكُونُ زَيْنَهَا؛ آدَاهُمْ لِلأَمَانَةِ وَأَقْضَاهُمْ
-لِلْحُقُوقِ وَأَصْدَقَهُمْ لِلْحَدِيثِ، إِلَيْهِ وَصَايَاهُمْ
-وَوَدَائِعُهُمْ. تُسْأَلُ الْعَشِيرَةُ عَنْهُ فَتَقُولُ: مَنْ مِثْلُ
-فُلانٍ؟ إنَّهُ لآدَانَا لِلأَمَانَةِ وَأَصْدَقُنَا لِلْحَدِيثِ.
-  </p>
-</blockquote>
+> إقْرَأْ عَلَى مَنْ تَرَى أَنَّهُ يُطِيعُنِي مِنْهُمْ وَيَأْخُذُ
+> بِقَوْلِيَ السَّلاَمَ وَأُوصِيكُمْ بِتَقْوَى اللهِ عَزَّ وَجَلَّ
+> وَالْوَرَعَ فِي دِينِكُمْ وَالإجْتِهَادَ للهِ وَصِدْقَ الْحَدِيثِ
+> وَأَدَاءَ الأَمَانَةِ وَطُولَ السُّجُودِ وَحُسْنَ الْجِوَارِ،
+> فَبِهَذَا جَاءَ مُحَمَّدٌ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ. أَدُّوا
+> الأَمَانَةَ إلَى مَنِ إئْتَمَنَكُمْ عَلَيْهَا بَرّاً أَوْ فَاجِراً،
+> فَإِنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، كَانَ يَأْمُرُ
+> بِأَدَاءِ الْخَيْطِ وَالْمَخِيطِ. صِلُوا عَشَائِرَكُمْ وَاشْهَدُوا
+> جَنَائِزَهُمْ وَعُودُوا مَرْضَاهُمْ وَأَدُّوا حُقُوقَهُمْ، فَإنَّ
+> الرَّجُلَ مِنْكُمْ إذَا وَرِعَ فِي دِينِهِ وَصَدَقَ الْحَدِيثَ
+> وَأَدَّى الأَمَانَةَ وَحَسُنَ خُلُقُهُ مَعَ النَّاسِ قِيلَ: هَذَا
+> جَعْفَرِيٌّ. فَيُسِرُّنِي ذَلِكَ وَيُدْخِلُ عَلَيَّ مِنْهُ السُّرُورَ.
+> وَقِيلَ: هَذَا أَدَبُ جَعْفَرٍ. وَإِذَا كَانَ عَلَى غَيْرِ ذَلِكَ
+> دَخَلَ عَلَيَّ بَلاَؤُهُ وَعَارُهُ وَقِيلَ: هَذَا أَدَبُ جَعْفَرٍ.
+> فَوَاللهِ لَحَدَّثَنِي أَبِي، عَلَيْهِ السَّلاَمُ، أَنَّ الرَّجُلَ
+> كَانَ يَكُونُ فِي الْقَبِيلَةِ مِنْ شِيعَةِ عَلِيٍّ، عَلَيْهِ
+> السَّلاَمُ، فَيَكُونُ زَيْنَهَا؛ آدَاهُمْ لِلأَمَانَةِ وَأَقْضَاهُمْ
+> لِلْحُقُوقِ وَأَصْدَقَهُمْ لِلْحَدِيثِ، إِلَيْهِ وَصَايَاهُمْ
+> وَوَدَائِعُهُمْ. تُسْأَلُ الْعَشِيرَةُ عَنْهُ فَتَقُولُ: مَنْ مِثْلُ
+> فُلانٍ؟ إنَّهُ لآدَانَا لِلأَمَانَةِ وَأَصْدَقُنَا لِلْحَدِيثِ.
 
 *Deliver my greetings to anyone you regard as obeying me and following
 my orders: I advise you to fear Almighty Allah, act piously in the
@@ -840,15 +748,11 @@ the most honest.*[^25]
 Habib al-Khath\`ami has reported that he heard Imam al-Sadiq (‘a)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ بِالْوَرَعِ وَالإجْتِهَادِ، وَاشْهَدُوا جَنَائِزَهُمْ
-وَعُودُوا مَرْضَاهُمْ، وَاحْضُرُوا مَعَ قَوْمِكُمْ مَسَاجِدَكُمْ،
-وَأَحِبُّوا لِلنَّاسِ مَا تُحِبُّونَ لأَِنْفُسِكُمْ. أَمَا يَسْتَحِي
-الرَّجُلُ مِنْكُمْ أَنْ يَعْرِفَ جَارُهُ حَقَّهُ وَلاَ يَعْرِفَ حَقَّ
-جَارِهِ؟
-  </p>
-</blockquote>
+> عَلَيْكُمْ بِالْوَرَعِ وَالإجْتِهَادِ، وَاشْهَدُوا جَنَائِزَهُمْ
+> وَعُودُوا مَرْضَاهُمْ، وَاحْضُرُوا مَعَ قَوْمِكُمْ مَسَاجِدَكُمْ،
+> وَأَحِبُّوا لِلنَّاسِ مَا تُحِبُّونَ لأَِنْفُسِكُمْ. أَمَا يَسْتَحِي
+> الرَّجُلُ مِنْكُمْ أَنْ يَعْرِفَ جَارُهُ حَقَّهُ وَلاَ يَعْرِفَ حَقَّ
+> جَارِهِ؟
 
 *Adhere (all of you) to abstinence (from acts of disobedience to
 Almighty Allah) and piety, attend funeral ceremonies, visit the sick,
@@ -966,22 +870,18 @@ This extraordinary attention and care for these classes can be observed
 in the following section of Imam \`Ali’s famous *Epistle to Malik
 al-Ashtar*, the governor of Egypt*:*
 
-<blockquote dir="rtl">
-  <p>
-اللهَ اللهَ فِي الطَّبَقَةِ السُّفْلَى مِنَ الَّذِينَ لاَ حِيلَةَ
-لَهُمْ وَالْمَسَاكِين وَالْـمُحْتَاجِينَ وَأَهْلِ الْبُؤْسَى
-وَالزَّمْنَى، فإِنَّ فِي هذِهِ الطَّبَقَةِ قَانِعاً وَمُعْتَرّاً،
-وَاحْفَظْ لله مَا اسْتَحْفَظَكَ مِنْ حَقِّهِ فِيهِمْ، وَاجْعَلْ لَهُمْ
-قِسمْاً مِنْ بَيْتِ مَالِكَ، وَقِسماً مِنْ غَلاَّتِ صَوَافِي
-الاِْسْلاَمِ فِي كُلِّ بَلَد، فإِنَّ لِلاَْقْصَى مِنْهُمْ مِثْلَ
-الَّذِي لِلاَْدْنَى، وَكُلٌّ قَدِ اسْتُرْعِيتَ حَقَّهُ، فَلاَ
-يَشْغَلنَّكَ عَنْهُمْ بَطَرٌ، فَإِنَّكَ لاَ تُعْذَرُ بِتَضْيِيعِ
-التَّافِهَ لاِِحْكَامِكَ الْكَثِيرَ الْمُهِمَّ. فَلاَ تُشْخِصْ هَمَّكَ
-عَنْهُمْ، وَلاَ تُصَعِّرْ خَدَّكَ لَهُمْ، وَتَفَقَّدْ أُمُورَ مَنْ لاَ
-يَصِلُ إِلَيْكَ مِنْهُمْ مِمَّنْ تَقْتَحِمُهُ الْعُيُونُ، وَتَحْقِرُهُ
-الرِّجَالُ، فَفَرِّغْ لاُِولئِكَ ثِقَتَكَ.
-  </p>
-</blockquote>
+> اللهَ اللهَ فِي الطَّبَقَةِ السُّفْلَى مِنَ الَّذِينَ لاَ حِيلَةَ
+> لَهُمْ وَالْمَسَاكِين وَالْـمُحْتَاجِينَ وَأَهْلِ الْبُؤْسَى
+> وَالزَّمْنَى، فإِنَّ فِي هذِهِ الطَّبَقَةِ قَانِعاً وَمُعْتَرّاً،
+> وَاحْفَظْ لله مَا اسْتَحْفَظَكَ مِنْ حَقِّهِ فِيهِمْ، وَاجْعَلْ لَهُمْ
+> قِسمْاً مِنْ بَيْتِ مَالِكَ، وَقِسماً مِنْ غَلاَّتِ صَوَافِي
+> الاِْسْلاَمِ فِي كُلِّ بَلَد، فإِنَّ لِلاَْقْصَى مِنْهُمْ مِثْلَ
+> الَّذِي لِلاَْدْنَى، وَكُلٌّ قَدِ اسْتُرْعِيتَ حَقَّهُ، فَلاَ
+> يَشْغَلنَّكَ عَنْهُمْ بَطَرٌ، فَإِنَّكَ لاَ تُعْذَرُ بِتَضْيِيعِ
+> التَّافِهَ لاِِحْكَامِكَ الْكَثِيرَ الْمُهِمَّ. فَلاَ تُشْخِصْ هَمَّكَ
+> عَنْهُمْ، وَلاَ تُصَعِّرْ خَدَّكَ لَهُمْ، وَتَفَقَّدْ أُمُورَ مَنْ لاَ
+> يَصِلُ إِلَيْكَ مِنْهُمْ مِمَّنْ تَقْتَحِمُهُ الْعُيُونُ، وَتَحْقِرُهُ
+> الرِّجَالُ، فَفَرِّغْ لاُِولئِكَ ثِقَتَكَ.
 
 *Beware! Fear Allah when dealing with the lower classes of the poor who
 have none to sponsor them, who are forlorn, indigent, and helpless and
@@ -1046,13 +946,9 @@ after such unanimity, as is indicated by considerable traditions of the
 Ahl al-Bayt (‘a), such as the Holy Prophet’s following instruction in
 his Farewell Sermon:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثٌ لاَ يَغِلُّ عَلَيْهِنَّ قَلْبُ إمْرِئٍ مُسْلِمٍ: إِخْلاَصُ
-الْعَمَلِ للهِ، وَالنَّصِيحَةُ لأَِئِمَّةِ الْمُسْلِمِينَ،
-وَاللُّزُومُ لِجَمَاعَتِهِمْ.
-  </p>
-</blockquote>
+> ثَلاَثٌ لاَ يَغِلُّ عَلَيْهِنَّ قَلْبُ إمْرِئٍ مُسْلِمٍ: إِخْلاَصُ
+> الْعَمَلِ للهِ، وَالنَّصِيحَةُ لأَِئِمَّةِ الْمُسْلِمِينَ،
+> وَاللُّزُومُ لِجَمَاعَتِهِمْ.
 
 *The heart of a real Muslim must always stay true to the following three
 matters: (1) sincerity in deeds that are intended for Almighty Allah,
@@ -1070,14 +966,10 @@ This common interest embodies a good ground for confirming and
 consolidating the relationship between the leadership and the nation, as
 is indicated by the following Qur'anic text:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ
-وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ
-فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ
+> وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ
+> فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ
 
 ***Thus it is due to mercy from Allah that you deal with them gently,
 and had you been rough or hard hearted, they would certainly have
@@ -1103,11 +995,7 @@ Holy Qur'an and the Holy Sunnah emphasize the significance of
 consultation and mutual counseling in the individual and social lives of
 the Muslims.[^32] The following Qur'anic text is one example:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ
-  </p>
-</blockquote>
+> وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ
 
 ***…and their rule is to take counsel among themselves. (42:38)***
 
@@ -1130,14 +1018,10 @@ traditions about enjoining the right and forbidding evil, such as the
 famous speech of Imam Husayn (‘a), recalling his grandfather, the Holy
 Prophet (S), as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَآى سُلْطَاناً جَائِراً مُسْتَحِلاًّ لِحَرَامِ اللهِ نَاكِثاً
-لِعَهْدِهِ مُخَالِفاً لِسُنَّةِ رَسُولِ اللهِ يَعْمَلُ فِي عِبَادِ
-اللهِ بِالإِثْمِ وَالْعُدْوَانِ فَلَمْ يُغَيِّرْ عَلَيْهِ بِفِعْلٍ
-وَلاَ قَوْلٍ، كَانَ حَقّاً عَلَى اللهِ أَنْ يُدْخِلَهُ مَدْخَلَهُ.
-  </p>
-</blockquote>
+> مَنْ رَآى سُلْطَاناً جَائِراً مُسْتَحِلاًّ لِحَرَامِ اللهِ نَاكِثاً
+> لِعَهْدِهِ مُخَالِفاً لِسُنَّةِ رَسُولِ اللهِ يَعْمَلُ فِي عِبَادِ
+> اللهِ بِالإِثْمِ وَالْعُدْوَانِ فَلَمْ يُغَيِّرْ عَلَيْهِ بِفِعْلٍ
+> وَلاَ قَوْلٍ، كَانَ حَقّاً عَلَى اللهِ أَنْ يُدْخِلَهُ مَدْخَلَهُ.
 
 *If one realizes that an unjust ruler is violating the prohibitions of
 Allah, breaching his pledge with Him, opposing the traditions of His
@@ -1157,14 +1041,10 @@ traditions like the following:
 **A.** Texts that reveal the obligation of obedience to the religious
 leadership:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ فَإِنْ تَنَازَعْتُمْ فِي
-شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ
-بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ فَإِنْ تَنَازَعْتُمْ فِي
+> شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ
+> بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
 
 ***O you who believe! Obey Allah and obey the Messenger and those in
 authority from among you; then, if you quarrel about anything, refer it
@@ -1175,21 +1055,13 @@ this is better and more suitable in the end. (4:59)***
 Imam and the obligation of recognizing the Imam of one’s age, such as
 the following traditions:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَلَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيتَةً
-جَاهِلِيَّةً.
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَلَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيتَةً
+> جَاهِلِيَّةً.
 
 *Whoever dies before recognizing the authority (i.e. Imam) of his time
 has died as non-Muslim.*
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَلَيْسَ فِي عُنُقِهِ بَيْعَةٌ مَاتَ مِيتَةً جَاهِلِيَّةً.
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَلَيْسَ فِي عُنُقِهِ بَيْعَةٌ مَاتَ مِيتَةً جَاهِلِيَّةً.
 
 *Whoever dies without paying homage (to an Imam) has died as a
 non-Muslim.*[^34]
@@ -1215,13 +1087,9 @@ because unless there is belief in Almighty Allah, one’s file is
 absolutely sealed, no matter how excellent his distinctive features are.
 Declaring this fact, the Holy Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
-الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
-اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
+> الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
+> اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ
 
 ***As for those who disbelieve, their deeds are like a mirage in a
 desert, which the thirsty man deems to be water. When he comes to it, he
@@ -1236,11 +1104,7 @@ The Holy Qur'an has highlighted the role of these two features in the
 process of change and also in discriminating and preferring one Muslim
 over another:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ
 
 ***Surely, the most honorable of you with Allah is the most pious of
 you. (49:13)***
@@ -1258,20 +1122,12 @@ followers, ensured a special interest in knowledge of various types
 depending on the significance that the Holy Qur'an has given to it, as
 revealed in the following texts:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
 
 ***Say: Are those who know and those who do not know alike? (39:9)***
 
-<blockquote dir="rtl">
-  <p>
- يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا
-الْعِلْمَ دَرَجَاتٍ
-  </p>
-</blockquote>
+>  يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا
+> الْعِلْمَ دَرَجَاتٍ
 
 ***Allah will exalt those of you who believe, and those who are given
 knowledge, in high degrees. (58:11)***
@@ -1282,15 +1138,11 @@ No human community can ever attain perfection and achieve its goal by
 any means other than hardship, toil, distress, affliction, and
 sacrifice. Confirming this fact, the Holy Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ مَثَلُ
-الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ ۖ مَسَّتْهُمُ الْبَأْسَاءُ
-وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ
-آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ
-قَرِيبٌ
-  </p>
-</blockquote>
+> أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ مَثَلُ
+> الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ ۖ مَسَّتْهُمُ الْبَأْسَاءُ
+> وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ
+> آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ
+> قَرِيبٌ
 
 ***Do you think that you would enter Paradise while yet the state of
 those who have passed away before you has not come upon you. Distress
@@ -1303,12 +1155,8 @@ meaning the exertion of all possible effort) to be one of the features
 that discriminates people because it is a phenomenon capable of
 perennial practice with definite outcomes and purports:
 
-<blockquote dir="rtl">
-  <p>
-فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى
-الْقَاعِدِينَ دَرَجَةً
-  </p>
-</blockquote>
+> فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى
+> الْقَاعِدِينَ دَرَجَةً
 
 ***And Allah has preferred those who strive and fight by a great reward,
 above those who hold back. (4:95)***
@@ -1324,14 +1172,10 @@ correct path realized by one’s reason and knowledge.
 This genuine freedom embodies one of the features of individuals and
 societies due to which a society is preferred over another:
 
-<blockquote dir="rtl">
-  <p>
-ضَرَبَ اللَّهُ مَثَلًا عَبْدًا مَمْلُوكًا لَا يَقْدِرُ عَلَىٰ شَيْءٍ
-وَمَنْ رَزَقْنَاهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنْفِقُ مِنْهُ
-سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُونَ ۚ الْحَمْدُ لِلَّهِ ۚ بَلْ
-أَكْثَرُهُمْ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> ضَرَبَ اللَّهُ مَثَلًا عَبْدًا مَمْلُوكًا لَا يَقْدِرُ عَلَىٰ شَيْءٍ
+> وَمَنْ رَزَقْنَاهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنْفِقُ مِنْهُ
+> سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُونَ ۚ الْحَمْدُ لِلَّهِ ۚ بَلْ
+> أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
 ***Allah sets forth a parable: consider a slave, the property of
 another, who has no power over anything and one whom We have granted
@@ -1551,5 +1395,4 @@ as Tarikh al-Tabari) 4:304; Ibn al-Athir, al-Kamil fi’l-Tarikh 4:48
 
 [^34]: - The references of these two traditions have been previously
 cited in this book.
-
 

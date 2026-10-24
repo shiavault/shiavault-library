@@ -65,11 +65,8 @@ angry with those who make him angry. Assist his helpers and abandon
 those who abandon him. Make him the standard and equilibrium of truth.
 "
 
-<p dir="rtl">
 اَللهُمَ و الِ مَن والاهُ وَ عادِ مَن عاداهُ وَالنْصُرْ مَن نَصَرَهُ
 وَاخْذُل مَنْ خَذَلَهُ.
-</p>
 
 Naba Cultural Organization M. H. Shahri
-
 

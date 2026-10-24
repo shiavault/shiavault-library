@@ -12,11 +12,7 @@ insight.
 [character] is righteous and who does not harm the people.
 
 > 2ـ طُوبى لِمَنْ صَلُحَتْ سَريرَتُهُ، وحَسُنَتْ عَلانِيَتُهُ، وعَـزَلَ
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّاسِ شَرَّهُ.
-  </p>
-</blockquote>
+> عَنِ النَّاسِ شَرَّهُ.
 
 3. When the consciences are being reformed, the hidden rancour becomes
 evident.
@@ -36,5 +32,4 @@ righteous.
 anyone.
 
 > 6ـ مَنْ حَسُنَتْ سَريرَتُهُ لَمْ يَخَفْ أحَداً.
-
 

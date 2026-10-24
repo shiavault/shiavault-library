@@ -101,13 +101,10 @@ from “Anfal” (dead land, pasturages and streams).
 And we read in the book “Kanz Al-Ummal” which if one famous resources
 of Ahl -e- Sonnat that he said:
 
-<p dir="rtl">
 ان لكم بطول الارض و سهولها و تلاع الاودية و ظهورها على ان ترعوا نباتها
 و تشربوا مائها على ان تؤدّوا الخمس
-</p>
 
 \*\*\*
-
 
 **Is allocating Khums for Sadat (pl. of Sayyed) Discrimination?**
 
@@ -282,5 +279,4 @@ Zakat (public assets).
 It cleared from the things which we said that Khums is not only
 considered as an advantage for Sadat, but it is a kind of deprivation in
 order to save public benefits.
-
 

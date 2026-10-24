@@ -31,4 +31,3 @@ the absolute egalitarian and anti-family principles of the socialists,
 and so Islam will oppose them no less than it does more orthodox forms
 of socialism.
 
-

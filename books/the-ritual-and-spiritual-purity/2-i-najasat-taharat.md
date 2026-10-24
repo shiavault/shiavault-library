@@ -1109,4 +1109,3 @@ as-Sadiq, vol. 1, p. 28.
 
 [^28]: Wasa'il, vol. 1, p. 1071
 
-

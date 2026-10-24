@@ -8,23 +8,15 @@ it yourself before [harming] your enemy and you will destroy your
 religion by it before conveying it to others.
 
 > 1ـ إيّاكَ ومُلابَسَةَ الشَّـرِّ، فَإنَّكَ تُنيلُهُ نَفْسَكَ قَبْلَ
-<blockquote dir="rtl">
-  <p>
-عَدُوِّكَ، وتُهْلِكُ بِهِ دينَكَ قَبْلَ إيصالِهِ إلى غَيْرِكَ.
-  </p>
-</blockquote>
+> عَدُوِّكَ، وتُهْلِكُ بِهِ دينَكَ قَبْلَ إيصالِهِ إلى غَيْرِكَ.
 
 2. The greatest evil is in disparaging the painful advice of the
 compassionate, sincere adviser and being deceived by the sweetness of
 the flattery of the malicious praiser.
 
 > 2ـ أكْبَرُ(أكْثَرُ) الشَّـرِّ فِي الاِسْتِخْفافِ بِمُولِمِ عِظَةِ
-<blockquote dir="rtl">
-  <p>
-المُشْفِقِ النَّاصِحِ، وَالاِغْتِرارِ بِحَلاوَةِ ثَناءِ الْمادِحِ
-الْكاشِحِ.
-  </p>
-</blockquote>
+> المُشْفِقِ النَّاصِحِ، وَالاِغْتِرارِ بِحَلاوَةِ ثَناءِ الْمادِحِ
+> الْكاشِحِ.
 
 3. Verily in evil there is impudence.
 
@@ -82,11 +74,7 @@ the flattery of the malicious praiser.
 chastisement] and reliance on [one’s own] action.
 
 > 16ـ جِماعُ الشَّـرِّ فِي الاِغْتِرارِ بِالْمَهَلِ، والاِتِّكالِ عَلَى
-<blockquote dir="rtl">
-  <p>
-العَمَلِ.
-  </p>
-</blockquote>
+> العَمَلِ.
 
 17. The consolidation of evil is in association with a wicked companion.
 
@@ -143,11 +131,7 @@ matters.
 the community than evil.
 
 > 29ـ لَيْسَ شَيْءٌ أفْسَدَ لِلأُمُورِ، ولا أبْلَغَ في هَلاكِ
-<blockquote dir="rtl">
-  <p>
-الْجُمْهُورِ مِنَ الشَّـرِّ.
-  </p>
-</blockquote>
+> الْجُمْهُورِ مِنَ الشَّـرِّ.
 
 32. He who does not wear the gown of good has not disrobed from evil.
 
@@ -189,21 +173,13 @@ actually harmed himself.
 conviction is confirmed.
 
 > 38ـ مَنْ عَرى مِنَ الشَّـرِّ قَلْبَهُ سَلِمَ لَهُ دينُهُ، وَصَدَقَ
-<blockquote dir="rtl">
-  <p>
-يَقينُهُ.
-  </p>
-</blockquote>
+> يَقينُهُ.
 
 41. One who does not know the harmfulness of evil is not capable of
 desisting from it.
 
 > 39ـ مَنْ لَمْ يَعْرِفْ مَضَرَّةَ الشَّـرِّ لَمْ يَقْدِرْ علَى
-<blockquote dir="rtl">
-  <p>
-الاِمْتِناعِ مِنْهُ.
-  </p>
-</blockquote>
+> الاِمْتِناعِ مِنْهُ.
 
 42. One who repels evil with good, triumphs?
 
@@ -242,11 +218,7 @@ himself from them.
 avarice.
 
 > 48ـ يُسْتَدَلُّ عَلى شَـرِّ الرَّجُلِ بِكَثْرَةِ شَرَهِهِ وشِدَّةِ
-<blockquote dir="rtl">
-  <p>
-طَمَعِهِ.
-  </p>
-</blockquote>
+> طَمَعِهِ.
 
 51. How bad a provision evil action is!
 
@@ -271,11 +243,7 @@ overcomes it, it remains hidden and if he doesn’t overcome it, it is
 manifested.
 
 > 53ـ اَلشَّـرُّ كامِنٌ في طَبيعَةِ كُلِّ أحَد، فَإنْ غَلَبَهُ صاحِبُهُ
-<blockquote dir="rtl">
-  <p>
-بَطَنَ، وإنْ لَمْيَغْلِبْهُ ظَهَرَ.
-  </p>
-</blockquote>
+> بَطَنَ، وإنْ لَمْيَغْلِبْهُ ظَهَرَ.
 
 56. Scythe the evil from the breasts of others be uprooting it from your
 [own] breast.
@@ -286,11 +254,7 @@ manifested.
 purified and your actions will be accepted.
 
 > 55ـ أُمْحُ الشَّـرَّ مِنْ قَلْبِكَ، تَتَزَكَّ نَفْسُكَ، ويُتَقَبَّلْ
-<blockquote dir="rtl">
-  <p>
-عَمَلُكَ.
-  </p>
-</blockquote>
+> عَمَلُكَ.
 
 58. When you see evil then distance yourselves from it.
 
@@ -321,11 +285,7 @@ its doer.
 see them except through [the lenses of] his own nature.
 
 > 62ـ الشَّريرُ لايَظُنُّ بِأحَد خَيْراً لاِنَّهُ لا يَراهُ إلاّ
-<blockquote dir="rtl">
-  <p>
-بِطَبْعِ نَفْسِهِ.
-  </p>
-</blockquote>
+> بِطَبْعِ نَفْسِهِ.
 
 65. Be wary of the wicked one during the coming of power [and
 authority], that he does not cause it to be taken away from you and
@@ -333,11 +293,7 @@ during its departure [from you], that he does not gather support against
 you.
 
 > 63ـ إحْذَرِ الشَّريرَ عِنْدَ إقْبالِ الدَّوْلَةِ لِئَلاّ يُزيلَها
-<blockquote dir="rtl">
-  <p>
-عَنْكَ وعِنْدَ إدْبارِها لِئَلاّ يُعينَ عَليْكَ.
-  </p>
-</blockquote>
+> عَنْكَ وعِنْدَ إدْبارِها لِئَلاّ يُعينَ عَليْكَ.
 
 66. Be careful not to be deceived by the good act that the wicked one
 does by mistake.
@@ -362,14 +318,9 @@ virtuous.
 front of] the people and does not fear Allah, the Glorified.
 
 > 68ـ شَرُّ الأشْرارِ مَنْ لا يَسْتَحْيي مِنَ النّاسِ ولا يَخافُ اللّهَ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ.
 
 71. The most evil of all people is one who boasts about his evil.
 
 > 69ـ شَـرُّ الأشْرارِ مَنْ يَتَبَجَّجُ بِالشَّـرِّ.
-
 

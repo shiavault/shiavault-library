@@ -34,4 +34,3 @@ that Yazeed had given to Bin Ziad for his killing of Imam Hussain (Q),
 and by him spending nights with Bin Ziad in the castle while drinking
 wine and celebrating.
 
-

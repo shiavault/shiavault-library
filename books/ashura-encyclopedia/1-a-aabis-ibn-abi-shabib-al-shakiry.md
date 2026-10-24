@@ -14,4 +14,3 @@ replied: "Yes, the love of Husayn has made me go mad". Finally, ‘Umar
 Ibn Sa'ad shouted at his army saying: "What is the matter with you all,
 throw stones at him".
 
-

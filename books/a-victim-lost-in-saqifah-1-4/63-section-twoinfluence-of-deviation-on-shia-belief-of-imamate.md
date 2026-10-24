@@ -212,7 +212,7 @@ Ibne Taimmiyah further comments:
 
 Whoever gains power and control**[1]** can gain the Guardianship to
 which obedience becomes compulsory according to God’s
-command.”!<sup>(**[2]**)(**[3]**)</sup>
+command.”!(**[2]**)(**[3]**)
 
 From Sunni outlook one who possesses power and authority has a right to
 rule and run a government. Power is the base in Sunni thought for ground
@@ -346,7 +346,7 @@ Qalqashandi says:
 
 “Even if a man who gains power and domination on others is a sinner or
 ignorant; his Imamate is achieved and
-established.”!<sup>(**[3]**)(**[4]**)</sup>
+established.”!(**[3]**)(**[4]**)
 
 ------------------------------------------------------------------------
 

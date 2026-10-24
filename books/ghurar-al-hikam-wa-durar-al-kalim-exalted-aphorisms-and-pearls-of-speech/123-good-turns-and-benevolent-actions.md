@@ -21,21 +21,13 @@ nature of the wicked.
 the honourable.
 
 > 4ـ اَلكَرامَةُ تَُفْسُِدُ مِنَ اللَّئيمِ بِقَدْرِ ما تَُصْلَُحُ مِنَ
-<blockquote dir="rtl">
-  <p>
-الكَريمِ.
-  </p>
-</blockquote>
+> الكَريمِ.
 
 5. If a righteous act is not nurtured, it wears away, just like worn out
 garments and dilapidated buildings.
 
 > 5ـ اَلصَّنِيعَةُ إذا لَمْ تُرَبَّ أخْلَقَتْ، كَالثَّوْبِ البالي
-<blockquote dir="rtl">
-  <p>
-والأبْنِيَةِ المُتَداعِيَةِ.
-  </p>
-</blockquote>
+> والأبْنِيَةِ المُتَداعِيَةِ.
 
 6. Do good and you shall enthral.
 
@@ -101,32 +93,20 @@ favour to the one who has sought it, and be cautious never to turn away
 a beggar.
 
 > 20ـ إبْدَأْ بِالعَطِيَّةِ مَنْ لَمْ يَسْئَلْكَ، وابْذُلْ مَعْرُوفَكَ
-<blockquote dir="rtl">
-  <p>
-لِمَنْ طَلَبَهُ، وإيّاكَ أنْ تَرُدَّ السّائِلَ.
-  </p>
-</blockquote>
+> لِمَنْ طَلَبَهُ، وإيّاكَ أنْ تَرُدَّ السّائِلَ.
 
 21. Donate your wealth generously towards righteous works and support
 your friend[s] with it, for indeed generosity is a more befitting trait
 for the free.
 
 > 21ـ أُبْذُلْ مالَكَ فِي الْحُقُوقِ، وَواسِ بِهِ الصَّدِيقَ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-السَّخاءَ بِالحُرِّ أخْلَقُ.
-  </p>
-</blockquote>
+> السَّخاءَ بِالحُرِّ أخْلَقُ.
 
 22. Do good to the one who is under your authority and the one under
 whose authority you are will do good to you.
 
 > 22ـ أحْسِنْ إلى مَنْ تَمْلِكُ رِقَّهُ، يُحْسِنْ إلَيْكَ مَنْ تَمَلَّكَ
-<blockquote dir="rtl">
-  <p>
-رِقَّكَ.
-  </p>
-</blockquote>
+> رِقَّكَ.
 
 23. The best faith is [that which is accompanied by] righteousness.
 
@@ -199,33 +179,21 @@ having to ask [for it].
 preceded you in his good expectation of you.
 
 > 38ـ أفْضَلُ النّاسِ سالِفَةً عِنْدَكَ، مَنْ أسْلَفَكَ حُسْنَ
-<blockquote dir="rtl">
-  <p>
-التَّأميلِ لَكَ.
-  </p>
-</blockquote>
+> التَّأميلِ لَكَ.
 
 39. The most worthy of favour among the people is one who is patient
 when he is put off, excuses when he is denied and shows gratitude when
 he is given.
 
 > 39ـ أَوْلَى النّاسِ بِالاِصْطِناعِ، مَنْ إذا مُطِلَ صَبَرَ، وإذا
-<blockquote dir="rtl">
-  <p>
-مُنِعَ عَذَرَ، وإذا أُعْطِيَ شَكَرَ.
-  </p>
-</blockquote>
+> مُنِعَ عَذَرَ، وإذا أُعْطِيَ شَكَرَ.
 
 40. Of all people, the most worthy of doing good to others is the one
 upon whom Allah has bestowed favours and granted with the ability [to do
 good to others].
 
 > 40ـ أحَقُّ النّاسِ بِالإحْسانِ مَنْ أحْسَنَ اللّهُ إلَيْهِ، وبَسَطَ
-<blockquote dir="rtl">
-  <p>
-بِالقُدْرَةِ يَدَيْهِ.
-  </p>
-</blockquote>
+> بِالقُدْرَةِ يَدَيْهِ.
 
 41. The most worthy of bestowing favours [to others] is the one upon
 whom numerous favours of Allah have been bestowed.
@@ -247,11 +215,7 @@ blessing and spending it in disobedience to Him is the greatest
 tribulation.
 
 > 44ـ إنَّ إنْفاقَ هذا المالِ في طاعَةِ اللّهِ أعْظَمُ نِعْمَة، وإنَّ
-<blockquote dir="rtl">
-  <p>
-إنْفاقَهُ فِي مَعاصِيهِ أعْظَمُ مِحْنَة.
-  </p>
-</blockquote>
+> إنْفاقَهُ فِي مَعاصِيهِ أعْظَمُ مِحْنَة.
 
 45. Indeed extending greetings is from sublime morals.
 
@@ -261,45 +225,29 @@ tribulation.
 strong in faith.
 
 > 46ـ إنَّ اللّهَ سُبْحانَهُ يُحِبُّ كُلَّ سَمِحِ اليَدَيْنِ، حَريزِ
-<blockquote dir="rtl">
-  <p>
-الدّينِ.
-  </p>
-</blockquote>
+> الدّينِ.
 
 47. Verily the value of asking is greater than the worth of what is
 given, so do not regard that which you give as much, for it will never
 be equal to the humiliation of asking.
 
 > 47ـ إنَّ قَدْرَ السُّؤالِ أكْثَرُ مِنْ قِيْمَةِ النَّوالِ، فَلا
-<blockquote dir="rtl">
-  <p>
-تَسْتَكْثِرُوا ما أعْطَيْتُمُوهُ، فَإنَّهُ لَنْ يُوازِيَ قَدْرَ
-السُّؤالِ.
-  </p>
-</blockquote>
+> تَسْتَكْثِرُوا ما أعْطَيْتُمُوهُ، فَإنَّهُ لَنْ يُوازِيَ قَدْرَ
+> السُّؤالِ.
 
 48. Verily the little that is from Allah, the Glorified, is more
 valuable than the plenty [that is gotten] from His creatures.
 
 > 48ـ إنَّ اليَسِيـرَ مِنَ اللّهِ سُبْحانَهُ لأكْرَمُ مِنَ الكَثيرِ مِنْ
-<blockquote dir="rtl">
-  <p>
-خَلْقِهِ.
-  </p>
-</blockquote>
+> خَلْقِهِ.
 
 49. Verily the good turn that you did to one of the people was only a
 means to ennoble yourself and embellish your honour, so do not seek
 gratitude from others for that which you did for yourself.
 
 > 49ـ إنَّ مَكْرُمَةً صَنَعْتَها إلى أحَد مِنَ النّاسِ، إنَّما أكْرَمْتَ
-<blockquote dir="rtl">
-  <p>
-بِها نَفْسَكَ، وَزَيَّنْتَ بِها عِرْضَكَ، فَلا تَطْلُبْ مِنْ غَيْرِكَ
-شُكْرَ ما صَنَعْتَ إلى نَفْسِكَ.
-  </p>
-</blockquote>
+> بِها نَفْسَكَ، وَزَيَّنْتَ بِها عِرْضَكَ، فَلا تَطْلُبْ مِنْ غَيْرِكَ
+> شُكْرَ ما صَنَعْتَ إلى نَفْسِكَ.
 
 50. Indeed your goodness towards the ones who plots against you from
 your opponents and enviers is more irritating for them than your trying
@@ -307,21 +255,13 @@ to do them harm, and it is [also] a means of inviting them to reform
 [themselves].
 
 > 50ـ إنَّ إحْسانَكَ إلى مَنْ كادَكَ مِنَ الأضْدادِ والحُسّادِ لأغْيَظُ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِمْ مِنْ مَواقِعِ إسائَتِكَ مِنْهُمْ وهُوَ داع إلى صَلاحِهِمْ.
-  </p>
-</blockquote>
+> عَلَيْهِمْ مِنْ مَواقِعِ إسائَتِكَ مِنْهُمْ وهُوَ داع إلى صَلاحِهِمْ.
 
 51. Verily your munificence does not extend to all of the creation, so
 aim it towards the noblest of creation.
 
 > 51ـ إنَّ كَرامَتَكَ لا ئَتَّسِعُ لِجَميعِ الخَلْقِ، فَتَوَّخَ بِها
-<blockquote dir="rtl">
-  <p>
-أفاضِلَ الخَلْقِ.
-  </p>
-</blockquote>
+> أفاضِلَ الخَلْقِ.
 
 52. It is not from the practice of the virtuous to delay the bestowal of
 favours.
@@ -461,11 +401,7 @@ your own soul and doing good to it.
 accumulating wealth.
 
 > 84ـ إنَّكُمْ إلَى اصْطِناعِ الرِّجالِ أحْوَجُ مِنْكُمْ إلى جَمْعِ
-<blockquote dir="rtl">
-  <p>
-الأمْوالِ.
-  </p>
-</blockquote>
+> الأمْوالِ.
 
 85. The bane of giving is procrastination.
 
@@ -503,13 +439,9 @@ and if I cut it off then I will have lost it, and if I lose it then why
 did I embark on it [in the first place]?
 
 > 92ـ أنَا مُخَيَّـرٌ فيِ الإحْسانِ إلى مَنْ لَمْ أحْسِنْ إلَيْهِ،
-<blockquote dir="rtl">
-  <p>
-ومُرْتَهَنٌ بِإتْمامِ الإحْسانِ إلى مَنْ أحْسَنْتُ إلَيهِ، لأنّي إذا
-أتْمَمْتُهُ فَقَدْ حَفِظْتُهُ، وإذا قَطَعْتُهُ فَقَدْ أضَعْتُهُ، وإذا
-أضَعْتُهُ فَلِمَ فَعَلْتُهُ.
-  </p>
-</blockquote>
+> ومُرْتَهَنٌ بِإتْمامِ الإحْسانِ إلى مَنْ أحْسَنْتُ إلَيهِ، لأنّي إذا
+> أتْمَمْتُهُ فَقَدْ حَفِظْتُهُ، وإذا قَطَعْتُهُ فَقَدْ أضَعْتُهُ، وإذا
+> أضَعْتُهُ فَلِمَ فَعَلْتُهُ.
 
 93. If your bounty falls short of reaching the weak, then [at least] let
 your mercy reach them.
@@ -524,13 +456,9 @@ are able to, for it is possible that you may [at one time] seek him but
 not find him.
 
 > 94ـ إذا وَجَدْتَ مِنْ أهْلِ الفاقَةِ مَنْ يَحْمِلُ لَكَ زادَكَ إلى
-<blockquote dir="rtl">
-  <p>
-يَوْمِ القِيمَةِ، فَيُوَفّيكَ بِهِ غَداً حَيْثُ تَحْتاجُ إلَيْهِ
-فَأغْتَنِمْهُ، وحَمِّلْهُ إيّاهُ وأكْثِرْ مِنْ تَزْويدِهِ، وَأنْتَ
-قادِرٌ عَلَيْهِ، فَلَعَلَّكَ أنْ تَطْلُبَهُ فَلا تَجِدْهُ.
-  </p>
-</blockquote>
+> يَوْمِ القِيمَةِ، فَيُوَفّيكَ بِهِ غَداً حَيْثُ تَحْتاجُ إلَيْهِ
+> فَأغْتَنِمْهُ، وحَمِّلْهُ إيّاهُ وأكْثِرْ مِنْ تَزْويدِهِ، وَأنْتَ
+> قادِرٌ عَلَيْهِ، فَلَعَلَّكَ أنْ تَطْلُبَهُ فَلا تَجِدْهُ.
 
 95. Through kindness, human beings are enslaved.
 
@@ -600,12 +528,8 @@ acting upon the truth, being just and impartial, keeping away from
 corruption and improving your Hereafter.
 
 > 109ـ تَحَلَّوْا بِالأخْذِ بِالفَضْلِ، والكَفِّ عَنِ البَغْيِ،
-<blockquote dir="rtl">
-  <p>
-والعَمَلِ بِالحَقِّ، وَالإنْصافِ مِنَ النَّفْسِ، وَاجْتِنابِ الفَسادِ،
-وإصْلاحِ المَعادِ.
-  </p>
-</blockquote>
+> والعَمَلِ بِالحَقِّ، وَالإنْصافِ مِنَ النَّفْسِ، وَاجْتِنابِ الفَسادِ،
+> وإصْلاحِ المَعادِ.
 
 110. The beauty of benevolence is [in] relinquishing obligation.
 
@@ -631,11 +555,7 @@ corruption and improving your Hereafter.
 nor followed by obligation.
 
 > 115ـ خَيْـرُ المَعْرُوفِ مالَمْ يَتَقَدَّمْهُ المَطَلُ، ولَمْ
-<blockquote dir="rtl">
-  <p>
-يَتْبَعْهُ المَنُّ.
-  </p>
-</blockquote>
+> يَتْبَعْهُ المَنُّ.
 
 116. The best grant is that which is [given] without being sought.
 
@@ -683,11 +603,7 @@ authority.
 a more lasting provision and a more beautiful legacy.
 
 > 126ـ زِدْ فيِ اصْطِناعِ المَعْرُوفِ، وأكْثِرْ مِنْ إسْداءِ الإحْسانِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُ أبْقى ذُخْراً، وأجْمَلُ ذِكْراً.
-  </p>
-</blockquote>
+> فَإنَّهُ أبْقى ذُخْراً، وأجْمَلُ ذِكْراً.
 
 127. The cause of affection is benevolence.
 
@@ -750,33 +666,21 @@ this] you will safe when the witnesses are presented [on the Day of
 Judgment].
 
 > 139ـ عَلَيْكُمْ بِالإحْسانِ إلَى العِبادِ والعَدْلِ فِي البِلادِ
-<blockquote dir="rtl">
-  <p>
-تَأمَنُوا عِنْدَ قِيامِ الأشْهادِ.
-  </p>
-</blockquote>
+> تَأمَنُوا عِنْدَ قِيامِ الأشْهادِ.
 
 140. Perform benevolent works, for they are the best provisions for the
 Hereafter.
 
 > 140ـ عَلَيْكُمْ بِصَنايِـعِ المَعْرُوفِ فَإنَّها نِعْمَ الزَّادُ إلَى
-<blockquote dir="rtl">
-  <p>
-المَعادِ.
-  </p>
-</blockquote>
+> المَعادِ.
 
 141. Perform benevolent acts and do good to your near relatives and
 neighbours, for these two actions prolong life and make the lands
 prosper.
 
 > 141ـ عَلَيْكُمْ بِصَنايِـعِ الإحْسانِ وحُسْنِ البِـرِّ بِذَوِي
-<blockquote dir="rtl">
-  <p>
-الرَّحِمِ والجيرانِ فَإنَّهُما تَزيدانِ فِي الأعْمارِ ويَعْمُرانِ
-الدِّيارَ.
-  </p>
-</blockquote>
+> الرَّحِمِ والجيرانِ فَإنَّهُما تَزيدانِ فِي الأعْمارِ ويَعْمُرانِ
+> الدِّيارَ.
 
 142. By successive acts of kindness and benevolence, the free man is
 enslaved.
@@ -791,11 +695,7 @@ enslaved.
 not buy the freemen with his benevolence, thereby enthralling them.
 
 > 144ـ عَجِبْتُ لِمَنْ يَشْتَرِي الْعَبيدَ بِمالِهِ فَيُعْتِقَهُمْ
-<blockquote dir="rtl">
-  <p>
-كَيْفَ لايَشْتَِري الأحْرارَ بِإحْسانِهِ فَيَسْتَرِقَّهُمْ.
-  </p>
-</blockquote>
+> كَيْفَ لايَشْتَِري الأحْرارَ بِإحْسانِهِ فَيَسْتَرِقَّهُمْ.
 
 145. In every [act of] benevolence there is kindness.
 
@@ -826,11 +726,7 @@ not delay it].
 renown.
 
 > 151ـ كَثْرَةُ اصْطِناعِ الْمَعْرُوفِ تَزيدُ فِي العُمْرِ وتَنْشُرُ
-<blockquote dir="rtl">
-  <p>
-الذِّكْرَ.
-  </p>
-</blockquote>
+> الذِّكْرَ.
 
 152. Doing a lot of good turns raises one’s honour and makes gratitude
 last.
@@ -855,22 +751,14 @@ doing good to the people.
 them to benefit others.
 
 > 156ـ لَنْ يَسْتَطيعَ أحَدٌ أنْ يَشْكُرَ النِّعَمَ بِمِثْـلِ الإنْعامِ
-<blockquote dir="rtl">
-  <p>
-بِها.
-  </p>
-</blockquote>
+> بِها.
 
 157. If you were to see benevolence in the form a person, you would
 surely see him as a beautiful form that surpasses the worlds [in its
 beauty].
 
 > 157ـ لَوْ رَأيْتُمُ الإحْسانَ شَخْصاً لَرَأَيْتُمُوهُ شَكْلاً جَميلاً
-<blockquote dir="rtl">
-  <p>
-يَفُوقُ العالَمينَ.
-  </p>
-</blockquote>
+> يَفُوقُ العالَمينَ.
 
 158. One who bestows goodness [to others] is served [by them].
 
@@ -904,11 +792,7 @@ beauty].
 capabilities.
 
 > 165ـ مَنْ قَطَعَ مَعْهُودَ إحْسانِهِ قَطَعَ اللّهُ مَوْجُودَ
-<blockquote dir="rtl">
-  <p>
-إمْكانِهِ.
-  </p>
-</blockquote>
+> إمْكانِهِ.
 
 166. One who does not bestow favours will not achieve nobility.
 
@@ -1001,11 +885,7 @@ inclined towards him.
 honourable and much-loved.
 
 > 185ـ مَنْ بَذَلَ النَّوالَ قَبْلَ السُّؤالِ فَهُوَ الكَريمُ
-<blockquote dir="rtl">
-  <p>
-المَحْبُوبُ.
-  </p>
-</blockquote>
+> المَحْبُوبُ.
 
 186. One who repays goodness with evil has rid himself of magnanimity.
 
@@ -1024,11 +904,7 @@ past has attained true freedom.
 you, so do not disappoint his expectation.
 
 > 189ـ مَنِ انْتَجَعَكَ مُؤَمِّلاً فَقَدْ أسْلَفَكَ حُسْنَ الظَّنِّ بِكَ
-<blockquote dir="rtl">
-  <p>
-فَلا تُخَيِّبْ ظَنَّهُ.
-  </p>
-</blockquote>
+> فَلا تُخَيِّبْ ظَنَّهُ.
 
 190. Whoever fulfils the rights of one who does not fulfil his rights
 has enslaved him.
@@ -1039,11 +915,7 @@ has enslaved him.
 ways [to his goals] become easy for him.
 
 > 191ـ مَنْ أحْسَنَ إلَى النّاسِ حَسُنَتْ عَواقِبُهُ وسَهُلَتْ لَهُ
-<blockquote dir="rtl">
-  <p>
-طُرُقُهُ.
-  </p>
-</blockquote>
+> طُرُقُهُ.
 
 192. Whoever accepts a good turn has made the one who rendered it to him
 his master.
@@ -1059,11 +931,7 @@ mandatory [on himself].
 all-encompassing excellence.
 
 > 194ـ مَنْ أحْسَنَ إلى مَنْ أساءَ إلَيْهِ فَقَدْ أخَذَ بِجَوامِعِ
-<blockquote dir="rtl">
-  <p>
-الفَضْلِ.
-  </p>
-</blockquote>
+> الفَضْلِ.
 
 195. One who is not grateful for favours is not spared from deprivation.
 
@@ -1073,11 +941,7 @@ all-encompassing excellence.
 without any obligation has perfected his favour.
 
 > 196ـ مَنْ بَدَأَ العَطِيَّةَ مِنْ غَيْرِ طَلَب وأكْمَلَ المَعْرُوفَ
-<blockquote dir="rtl">
-  <p>
-مِنْ غَيْرِ امْتِنان فَقَدْ أكْمَلَ الإحْسانَ.
-  </p>
-</blockquote>
+> مِنْ غَيْرِ امْتِنان فَقَدْ أكْمَلَ الإحْسانَ.
 
 197. One who bestows a favour on the ungrateful one prolongs his rage.
 
@@ -1135,12 +999,8 @@ nurture it and follow it up with another [favour] like it; for indeed
 later refusals cut off the gratitude for earlier favours.
 
 > 208ـ ما تَوَسَّلَ أحَدٌ إلَيَّ بِوَسِيلَة أجَلَّ عِنْدي مِنْ يَد
-<blockquote dir="rtl">
-  <p>
-سَبَقَتْ مِنّي إلَيْهِ لاُِرَبِيَّها عِنْدَهُ بِاتِّباعِها أُخْتَها
-فَإنَّ مَنْعَ الأواخِرِ يَقْطَعُ شُكْرَ الأوائِلِ.
-  </p>
-</blockquote>
+> سَبَقَتْ مِنّي إلَيْهِ لاُِرَبِيَّها عِنْدَهُ بِاتِّباعِها أُخْتَها
+> فَإنَّ مَنْعَ الأواخِرِ يَقْطَعُ شُكْرَ الأوائِلِ.
 
 209. The basis of goodness is abandoning obligation through it.
 
@@ -1172,22 +1032,14 @@ indeed the good praise [you will get for your generosity] will be
 greater than it.
 
 > 215ـ لاتَسْتَكْثِرَنَّ العَطاءَ وإنْ كَثُرَ فَإنَّ حُسْنَ الثَّناءِ
-<blockquote dir="rtl">
-  <p>
-أكْثَرُ مِنْهُ.
-  </p>
-</blockquote>
+> أكْثَرُ مِنْهُ.
 
 216. Never regard what you give as great, even if it is substantial, for
 indeed the extent of [humiliation undergone through] begging is greater
 than that.
 
 > 216ـ لاتَسْتَعْظِمَنَّ النَّوالَ وإنْ عَظُمَ فَإنَّ قَدْرَ السُّؤالِ
-<blockquote dir="rtl">
-  <p>
-أعْظَمُ مِنْهُ.
-  </p>
-</blockquote>
+> أعْظَمُ مِنْهُ.
 
 217. One who does not show kindness [to others] in times of fortune will
 be abandoned in times of misfortune.
@@ -1203,11 +1055,7 @@ has wasted it.
 protects from falling into evil.
 
 > 219ـ وَضْعُ الصَّنيعَةِ في أهْلِها يَكْبِتُ العَدُوَّ ويَقي مَصارِعَ
-<blockquote dir="rtl">
-  <p>
-السُّوءِ.
-  </p>
-</blockquote>
+> السُّوءِ.
 
 220. Never show your benevolence to the one who does not understand its
 value (or who is not good).
@@ -1228,51 +1076,31 @@ who understands its value.
 less than that.
 
 > 223ـ لاتَسْتَحْيِ مِنْ إعْطاءِ القَليلِ، فَإنَّ الحِرْمانَ أقَلُّ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ.
-  </p>
-</blockquote>
+> مِنْهُ.
 
 224. Never regard the abundance of what you have given to be much, for
 you are [in possession of] even more than that.
 
 > 224ـ لاتَسْتَكْثِرَنَّ الكَثيِرَ مِنْ نَوالِكَ، فَإنَّكَ أكْثَرُ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ.
-  </p>
-</blockquote>
+> مِنْهُ.
 
 225. Never hold back from doing good turns and favours thereby being
 stripped of [your] ability.
 
 > 225ـ لاتَمْتَنِعَنَّ مِنْ فِعْلِ المَعْرُوفِ وَالإحْسانِ فَتُسْلَبَ
-<blockquote dir="rtl">
-  <p>
-الإمْكانَ.
-  </p>
-</blockquote>
+> الإمْكانَ.
 
 226. Do not delay giving the needy to tomorrow, for you do not know what
 will happen to you or to him tomorrow.
 
 > 226ـ لاتُؤَخِّرْ إنالَةَ المُحْتاجِ إلى غَد، فَإنَّكَ لاتَدْرِي ما
-<blockquote dir="rtl">
-  <p>
-يَعْرِضُ لَكَ ولَهُ في غَد.
-  </p>
-</blockquote>
+> يَعْرِضُ لَكَ ولَهُ في غَد.
 
 227. Let not your brother be stronger in his iniquity towards you than
 you are in your goodness [towards him].
 
 > 227ـ لايَكُونَنَّ أخُوكَ عَلَى الإساءَةِ إلَيْكَ أقْوى مِنْكَ عَلَى
-<blockquote dir="rtl">
-  <p>
-الإحْسانِ.
-  </p>
-</blockquote>
+> الإحْسانِ.
 
 228. Never let the paucity of those who show gratitude for your
 benevolence deter you from it, for you have been thanked by the One who
@@ -1280,23 +1108,15 @@ does not benefit from any of it; and more may be gained from the
 gratitude of the thankful than what is neglected by the ingrate.
 
 > 228ـ لايُزْهِدَنَّكَ فِي اصْطِناعِ المعْرُوفِ قِلَّةُ مَنْ يَشْكُرُهُ،
-<blockquote dir="rtl">
-  <p>
-فَقَدْ يَشْكُرُكَ عَلَيْهِ مَنْ لايَنْتَفِعُ بِشَـيْء مِنْهُ، وَقَدْ
-يُدْرَكُ مِنْ شُكْرِ الشّاكِرِ أكْثَرُ مِمّا أضاعَ الكافِرُ.
-  </p>
-</blockquote>
+> فَقَدْ يَشْكُرُكَ عَلَيْهِ مَنْ لايَنْتَفِعُ بِشَـيْء مِنْهُ، وَقَدْ
+> يُدْرَكُ مِنْ شُكْرِ الشّاكِرِ أكْثَرُ مِمّا أضاعَ الكافِرُ.
 
 229. Do not help [anyone] against the one who has favoured you, for the
 one who helps against the one who has favoured him is stripped of his
 ability.
 
 > 229ـ لا تُعِنْ عَلى مَنْ أنْعَمَ عَلَيْكَ فَمَنْ أعانَ عَلى مَنْ
-<blockquote dir="rtl">
-  <p>
-أنْعَمَ عَلَيْهِ سُلِبَ الإمْكانَ.
-  </p>
-</blockquote>
+> أنْعَمَ عَلَيْهِ سُلِبَ الإمْكانَ.
 
 230. Goodness does not thrive with the ignoble.
 
@@ -1373,12 +1193,8 @@ when you expedite it, you have made it beneficial; and when you conceal
 it, you have made it complete.
 
 > 246ـ اَلمَعْرُوفُ لايَتِمُّ إلاّبِثَلاث: بِتَصْغيرِهِ، وتَعْجيلِهِ،
-<blockquote dir="rtl">
-  <p>
-وسَتْرِهِ، فَإنَّكَ إذا صَغَّرْتَهُ فَقَدْ عَظَّمْتَهُ، وإذا
-عَجَّلْتَهُ فَقَدْ هَنَّأْتَهُ وإذا سَتَـرْتَهُ فَقَدْ تَمَّمْتَهُ.
-  </p>
-</blockquote>
+> وسَتْرِهِ، فَإنَّكَ إذا صَغَّرْتَهُ فَقَدْ عَظَّمْتَهُ، وإذا
+> عَجَّلْتَهُ فَقَدْ هَنَّأْتَهُ وإذا سَتَـرْتَهُ فَقَدْ تَمَّمْتَهُ.
 
 247. Doing a good turn is the best acquisition [for the Hereafter], and
 generosity is the best ornament.
@@ -1415,32 +1231,20 @@ recognized.
 action.
 
 > 254ـ إفْعَلِ المَعْرُوفَ ما أمْكَنَ، وازْجُرِ المُسِيءَ بِفِعْلِ
-<blockquote dir="rtl">
-  <p>
-المُحْسِنِ.
-  </p>
-</blockquote>
+> المُحْسِنِ.
 
 255. Extend your benevolence to all the people, for verily nothing can
 be equated with the virtue of a good turn in the sight of Allah, the
 Glorified.
 
 > 255ـ أُبْذُلْ مَعْرُوفَكَ لِلنّاسِ كافَّةً فَإنَّ فَضِيلَةَ فِعْلِ
-<blockquote dir="rtl">
-  <p>
-المَعْرُوفِ لايَعْدِلُها عِنْدَاللّهِ سُبْحانَهُ شَيْءٌ.
-  </p>
-</blockquote>
+> المَعْرُوفِ لايَعْدِلُها عِنْدَاللّهِ سُبْحانَهُ شَيْءٌ.
 
 256. Give life to the benevolent act by killing it (i.e. forgetting it),
 for verily the sense of obligation destroys a good turn.
 
 > 256ـ أحْيُوا المَعْرُوفَ بِإماتَتِهِ، فَإنَّ المِنَّـةَ تَهْدِمُ
-<blockquote dir="rtl">
-  <p>
-الصَنِيعَةَ.
-  </p>
-</blockquote>
+> الصَنِيعَةَ.
 
 257. The best good deed is coming to the aid of the aggrieved.
 
@@ -1465,11 +1269,7 @@ contribution.
 it than those who request it from them.
 
 > 261ـ إنَّ بِأهْلِ المَعْرُوفِ مِنَ الحاجَةِ إلَى اصْطِناعِهِ أكْثَرَ
-<blockquote dir="rtl">
-  <p>
-مِمّا بِأهْلِ الرَّغْبَةِ إلَيْهِمْ مِنْهُ.
-  </p>
-</blockquote>
+> مِمّا بِأهْلِ الرَّغْبَةِ إلَيْهِمْ مِنْهُ.
 
 262. Benevolence is [a means of] servitude.
 
@@ -1499,11 +1299,7 @@ it than those who request it from them.
 by) the free and the knowledge that is learned by the virtuous.
 
 > 268ـ أفْضَلُ الكُنُوزِ مَعْرُوفٌ يُودَعُ(يُودِعُهُ) الأحْرارُ، وعِلْمٌ
-<blockquote dir="rtl">
-  <p>
-يَتَدارَسَهُ الأخْيارُ.
-  </p>
-</blockquote>
+> يَتَدارَسَهُ الأخْيارُ.
 
 269. Ingratitude for favours leads to deprivation.
 
@@ -1517,31 +1313,19 @@ by) the free and the knowledge that is learned by the virtuous.
 having given.
 
 > 271ـ اَلعَطِيَّةُ بَعْدَ المَنْعِ أجْمَلُ مِنَ المَنْعِ بَعْدَ
-<blockquote dir="rtl">
-  <p>
-العَطِيَّةِ.
-  </p>
-</blockquote>
+> العَطِيَّةِ.
 
 272. Whoever does good to the people, Allah covers him with His mercy
 and places him in His pardon.
 
 > 272ـ مَنْ أحْسَنَ إلَى الرَّعِيَّةِ، نَشَرَ اللّهُ عَلَيْهِ جَناحَ
-<blockquote dir="rtl">
-  <p>
-رَحْمَتِهِ وأدْخَلَهُ في مَغْفِرَتِهِ.
-  </p>
-</blockquote>
+> رَحْمَتِهِ وأدْخَلَهُ في مَغْفِرَتِهِ.
 
 273. Give whatever you are giving expeditiously and beneficially, and if
 you refuse then let it be with politeness and apology.
 
 > 273ـ أعْطِ ما تُعْطِيهِ مُعَجَّلاً مُهَنَّأً وإنْ مَنَعْتَ فَلْيَكُنْ
-<blockquote dir="rtl">
-  <p>
-في إجْمال وَإعْذار.
-  </p>
-</blockquote>
+> في إجْمال وَإعْذار.
 
 274. One who finds it easy to give away [his] wealth has hopes directed
 towards him.
@@ -1585,5 +1369,4 @@ from his wealth.
 
 [^2]: Or: One who does not consider compassion to be good is faced with
 scorn.
-
 

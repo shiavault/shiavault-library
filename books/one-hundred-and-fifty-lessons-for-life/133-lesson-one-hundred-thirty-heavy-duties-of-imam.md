@@ -3,13 +3,9 @@ Lesson One Hundred Thirty: Heavy Duties Of Imam
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلإِمامُ أَمينُ اللّهِ فِى أَرْضِهِ وَ خَلْقِهِ وَ حُجَّتُهُ عَلَى
-عِبادِهِ وَ خَلِيفَتُهُ فى بِلادِهِ وَ الدّاعِى اِلَى اللّهِ وَ
-الذابُّ عَنْ حَرِيمِ اللّهِ.
-  </p>
-</blockquote>
+> اَلإِمامُ أَمينُ اللّهِ فِى أَرْضِهِ وَ خَلْقِهِ وَ حُجَّتُهُ عَلَى
+> عِبادِهِ وَ خَلِيفَتُهُ فى بِلادِهِ وَ الدّاعِى اِلَى اللّهِ وَ
+> الذابُّ عَنْ حَرِيمِ اللّهِ.
 
 Translation
 -----------
@@ -46,5 +42,4 @@ qualities and nobody except God can appoint them.
 [^1]: Tuhaful Uqul, page 328. Al-Kafi, vol 1, page 198. Al-Ihtijaj, vol
 2, page 434. AlAmali, page 677. Ayoon Akhbar Ar-Ridha, vol 1, page 219.
 Kamalu Al-Deen. Vol 2, page 677.
-
 

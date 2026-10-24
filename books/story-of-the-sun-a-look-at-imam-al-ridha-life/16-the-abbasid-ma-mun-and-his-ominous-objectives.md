@@ -451,4 +451,3 @@ vol.49, p. 311.
 
 [^14]: ‘Uyun Akhbar al-Ridha (a.s.), vol. 2, p. 215.
 
-

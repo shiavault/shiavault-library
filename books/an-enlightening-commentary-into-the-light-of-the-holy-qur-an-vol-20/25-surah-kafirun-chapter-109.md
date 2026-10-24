@@ -8,11 +8,7 @@ Surah Kafirun, Chapter 109
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -85,49 +81,21 @@ when he recited it he used to say*
 Surah Kafirun, Verses 1-6
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا الْكَافِرُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا الْكَافِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَا أَعْبُدُ مَا تَعْبُدُونَ
-  </p>
-</blockquote>
+> لَا أَعْبُدُ مَا تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
-  </p>
-</blockquote>
+> وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ
-  </p>
-</blockquote>
+> وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
-  </p>
-</blockquote>
+> وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
 
-<blockquote dir="rtl">
-  <p>
-لَكُمْ دِينُكُمْ وَلِيَ دِينِ
-  </p>
-</blockquote>
+> لَكُمْ دِينُكُمْ وَلِيَ دِينِ
 
 ***1. “Say: O you disbelievers,"***  
 ***2. “1 worship not what you worship,"***  
@@ -429,5 +397,4 @@ polytheism.*
 [^5]: Tafsir-i-Ali-ibn-lbrahim, vol. 2, p. 445.
 
 [^6]: Abulfutuh-i-Razi, Commentary, vol. 12, p. 192.
-
 

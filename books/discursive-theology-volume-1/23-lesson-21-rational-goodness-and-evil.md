@@ -260,11 +260,7 @@ it follows that it is invalid. As such, rational goodness and evil are
 hereby established. Muḥaqqiq al-Ṭūsī has expressed this argument in the
 following words:
 
-<blockquote dir="rtl">
-  <p>
-وَلِإِنْتِفائِهِما مُطْلَقاً لَوْ ثَبَتا شَرْعاً.
-  </p>
-</blockquote>
+> وَلِإِنْتِفائِهِما مُطْلَقاً لَوْ ثَبَتا شَرْعاً.
 
 That is, if the proof of goodness and evil is only religious (*shar‘ī*),
 goodness and evil will totally be extinguished.[^14]
@@ -312,13 +308,9 @@ command. In refuting their notion, the Qur’an says, “God does not order
 anything indecent; so, why do you attribute to Him something which you
 do not know?” For instance, it thus states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
-وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لا يَأْمُرُ
-بِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لا تَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
+> وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لا يَأْمُرُ
+> بِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لا تَعْلَمُونَ ﴾
 
 ***“When they commit an indecency, they say, ‘We found our fathers
 practicing it, and Allah has enjoined it upon us.’ Say, ‘Indeed Allah
@@ -339,12 +331,8 @@ religious laws.”[^18]
 great injustice (*ẓulm*); that is, it explains the evil of polytheism as
 a great injustice:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لا
-تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لا
+> تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ ﴾
 
 ***“When Luqman said to his son, as he advised him: ‘O my son! Do not
 ascribe any partners to Allah. Polytheism is indeed a great
@@ -355,12 +343,8 @@ commanded to enjoin the people to do what is good and to forbid what is
 evil; that is, actions are either inherently good or evil, and the
 Divine command or prohibition depend on their nature:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ
-لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ
+> لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ ﴾
 
 ***“[It is he] who bids them to do what is right and forbids them from
 what is wrong, makes lawful to them all the good things and forbids them
@@ -372,12 +356,8 @@ necessary and negation of it is tantamount to the futility of the
 ugliness of a futile act, and on the basis that God is free from any
 futile act, it argues for the need for the Day of Judgment:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لا تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لا تُرْجَعُونَ ﴾
 
 ***“Did you suppose that We created you aimlessly, and*** ***that you
 will not be brought back to Us?”***[^21]
@@ -481,5 +461,4 @@ al-Ash‘arī.
 traditions of rational goodness and evil as well as extensive
 discussions on this rule, see Al-Qawā‘id al-Kalāmiyyah by ‘Alī Rabbānī
 Gulpāygānī.
-
 

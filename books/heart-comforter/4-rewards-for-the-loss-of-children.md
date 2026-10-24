@@ -712,4 +712,3 @@ different wording.
 
 [^44]: Al-Majlisi, Bihar Al-Anwar, Vol. 82, p. 122.
 
-

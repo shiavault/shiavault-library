@@ -34,5 +34,3 @@ view and through Islamic logic can solve the mental confusion of the
 young Muslims. Though we agree that their number is not as required by
 the present circumstances.
 
-
-

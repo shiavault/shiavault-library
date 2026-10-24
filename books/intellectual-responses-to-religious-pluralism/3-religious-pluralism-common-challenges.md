@@ -59,4 +59,3 @@ divine intervention and dispensation, can be exploited to justify
 absolutism and exclusivity, thereby ending all hope of a solution based
 on dialogue, while claiming unrestricted license to kill and destroy.
 
-

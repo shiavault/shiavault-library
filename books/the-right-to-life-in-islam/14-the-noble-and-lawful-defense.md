@@ -7,12 +7,8 @@ family. There are numerous quotations from the Prophet (S) expressing
 the significance of defending life, property or one's family. Hereunder
 we point to one of them:
 
-<blockquote dir="rtl">
-  <p>
-من قاتل دون نفسه حتى يقتل فهو شهيد ، ومن قتل دون ماله فهو شهيد ، ومن
-قاتل دون أهله حتى بقتل فهو شهيد ، ومن قتل في جنب الله فهو شهيد.
-  </p>
-</blockquote>
+> من قاتل دون نفسه حتى يقتل فهو شهيد ، ومن قتل دون ماله فهو شهيد ، ومن
+> قاتل دون أهله حتى بقتل فهو شهيد ، ومن قتل في جنب الله فهو شهيد.
 
 "He, who fights to defend his own life, till he is killed, is a martyr.
 He, who gets killed while defending his own property, is a martyr. He,
@@ -32,13 +28,9 @@ martyr."[^2]
 
 This is God's command that emphasizes:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا
-اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ
-مَعَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا
+> اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ
+> مَعَ الْمُتَّقِينَ
 
 ***…So whoever has assaulted you, then assault him in the same way that
 he has assaulted you. And fear Allah and know that Allah is with those
@@ -47,5 +39,4 @@ who fear Him.*** ***(Quran, 2:194)***
 [^1]: Kanz al- Ummal, Vol.4, P.425.
 
 [^2]: Foroo'e Kafi, Vol. 5, P.52.
-
 

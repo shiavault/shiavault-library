@@ -25,4 +25,3 @@ Kumayl said:
 
 Al-Hajjaj ordered the headsman to behead Kumayl.
 
-

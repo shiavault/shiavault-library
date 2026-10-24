@@ -152,4 +152,3 @@ continuously seeing [a beam of] light, like a pillar, shining from the
 heavens down to the vessel. I also saw a white bird fluttering around
 it.”
 
-

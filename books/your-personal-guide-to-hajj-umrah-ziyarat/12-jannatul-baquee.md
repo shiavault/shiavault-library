@@ -68,4 +68,3 @@ Hazrat Ismail A.S.
 
 Son of Imam Ja’far Sadique A.S.
 
-

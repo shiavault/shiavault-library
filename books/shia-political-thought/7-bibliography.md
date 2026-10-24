@@ -170,4 +170,3 @@ University Press.
 59) Zalloom, Abdul Qadeem. *Democracy is a System of Kufr*, London:
 Al-Khilafah Publication.
 
-

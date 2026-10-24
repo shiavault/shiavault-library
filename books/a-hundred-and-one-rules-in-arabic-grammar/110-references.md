@@ -87,13 +87,9 @@ University Press, 1988.
 27-    Versteegh, Kee.*The Arabic Language* . New York: Columbia
 Uinversity Press, 1997.
 
-<p dir="rtl">
 جليس الدارس
-</p>
 
-<p dir="rtl">
 في مختلف الصفوف والمدارس
-</p>
 
 ![](books/0799-arabic_grammar/images/image001.jpg)
 

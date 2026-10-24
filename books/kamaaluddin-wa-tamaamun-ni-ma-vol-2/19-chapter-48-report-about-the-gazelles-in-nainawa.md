@@ -140,4 +140,3 @@ It is mentioned in narrations that Hababa Walbiya met Ali Ibne Abi Talib
 Imam Ali Reza (a.s.) and no one denies her long lifespan. Then why
 should the longevity of the Qaim be denied?
 
-

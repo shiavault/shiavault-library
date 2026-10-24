@@ -37,4 +37,3 @@ for the explanation of Mulla Sadra's life and work. The book which is
 written by Ayatollah Khameneii is the last and the best work written for
 those who want to have introductory knowledge about Mulla Sadra.
 
-

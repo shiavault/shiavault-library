@@ -180,4 +180,3 @@ preventing the evil depends on physical action, then it must be thought
 out very carefully. The example mentioned in 49:9 is of this level of
 amr and nahi.
 
-

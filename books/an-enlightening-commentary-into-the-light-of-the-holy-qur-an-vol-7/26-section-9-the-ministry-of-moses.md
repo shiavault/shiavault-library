@@ -4,18 +4,10 @@ Section 9: The Ministry of Moses
 Surah Hud – Verses 96 - 97
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مُوسَي بِاَيَاتِنَا وَسُلْطَانٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مُوسَي بِاَيَاتِنَا وَسُلْطَانٍ مُبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلى فِرْعَوْنَ وَمَلإِيْهِ فَاتَّبَعُوا أَمْرَ فِرْعَوْنَ وَمَآ
-أَمْرُ فِرْعَوْنَ بِرَشِيدٍ
-  </p>
-</blockquote>
+> إِلى فِرْعَوْنَ وَمَلإِيْهِ فَاتَّبَعُوا أَمْرَ فِرْعَوْنَ وَمَآ
+> أَمْرُ فِرْعَوْنَ بِرَشِيدٍ
 
 ***96. “And indeed We sent Moses with Our Signs and a manifest
 authority,”***  
@@ -70,12 +62,8 @@ Pharaoh, and the command of Pharaoh was not rightly guided.”***
 Surah Hud – Verse 98
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَاَوْرَدَهُمُ النَّارَ وَبِئْسَ
-الْوِرْدُ الْمَوْرُودُ
-  </p>
-</blockquote>
+> يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَاَوْرَدَهُمُ النَّارَ وَبِئْسَ
+> الْوِرْدُ الْمَوْرُودُ
 
 ***98. “He shall go before his people on the Day of Resurrection and
 lead them into the Fire, and evil is the place (they will be) led
@@ -99,12 +87,8 @@ them into the Fire, and evil is the place (they will be) led to.”***
 Surah Hud – Verse 99
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاُتْبِعُوا فِي هَذِهِ لَعْنَةً وَيَوْمَ الْقِيَامَةِ بِئْسَ الرّفْدُ
-الْمَرْفُودُ
-  </p>
-</blockquote>
+> وَاُتْبِعُوا فِي هَذِهِ لَعْنَةً وَيَوْمَ الْقِيَامَةِ بِئْسَ الرّفْدُ
+> الْمَرْفُودُ
 
 ***99. “And they are followed by a curse in this world and on the Day of
 Judgment, and woeful is the gift which shall be given (them).”***
@@ -125,12 +109,8 @@ Judgment, and woeful is the gift which shall be given (them).”***
 Surah Hud – Verse 100
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ مِنْ أَنْبَآءِ الْقُرَي نَقُصُّهُ عَلَيْكَ مِنْهَا قَآئِمٌ
-وَحَصِيدٌ
-  </p>
-</blockquote>
+> ذَلِكَ مِنْ أَنْبَآءِ الْقُرَي نَقُصُّهُ عَلَيْكَ مِنْهَا قَآئِمٌ
+> وَحَصِيدٌ
 
 ***100. “(O’ Our Apostle!) This is of the tidings of the towns (which)
 We relate to you; some of them are still standing and some have been
@@ -168,13 +148,9 @@ And fourthly, it offers instructive lessons for its audience.
 Surah Hud – Verse 101
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ظَلَمْنَاهُمْ وَلَكِن ظَلَمُوا أَنفُسَهُمْ فَمَآ أَغْنَتْ
-عَنْهُمْ ءَالِهَتُهُمُ الَّتي يَدْعُونَ مِن دُونِ اللَّهِ مِن شَيْءٍ
-لَمَّا جَآءَ أَمْرُ رَبّكَ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ
-  </p>
-</blockquote>
+> وَمَا ظَلَمْنَاهُمْ وَلَكِن ظَلَمُوا أَنفُسَهُمْ فَمَآ أَغْنَتْ
+> عَنْهُمْ ءَالِهَتُهُمُ الَّتي يَدْعُونَ مِن دُونِ اللَّهِ مِن شَيْءٍ
+> لَمَّا جَآءَ أَمْرُ رَبّكَ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ
 
 ***101. “And We did no injustice unto them, but they were unjust unto
 themselves. When the decree of your Lord came, their gods, whom they
@@ -202,12 +178,8 @@ them naught but perdition.”***
 Surah Hud – Verse 102
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ أَخْذُ رَبّكَ إِذَا أَخَذَ الْقُرَي وَهِيَ ظَالِمَةٌ إِنَّ
-أَخْذَهُ أَلِيمٌ شَدِيدٌ
-  </p>
-</blockquote>
+> وَكَذَلِكَ أَخْذُ رَبّكَ إِذَا أَخَذَ الْقُرَي وَهِيَ ظَالِمَةٌ إِنَّ
+> أَخْذَهُ أَلِيمٌ شَدِيدٌ
 
 ***102. “And such is the grasp (of punishment) of your Lord when He
 grasps the townships that are unjust. Verily His grasp (punishment) is
@@ -230,18 +202,10 @@ punishment.
 Surah Hud – Verses 103 - 104
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً لِمَنْ خَافَ عَذَابَ الأَخِرَةِ ذَلِكَ يَوْمٌ
-مَجْمُوعٌ لَهُ النَّاسُ وَذَلِكَ يَوْمٌ مَشْهُودٌ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً لِمَنْ خَافَ عَذَابَ الأَخِرَةِ ذَلِكَ يَوْمٌ
+> مَجْمُوعٌ لَهُ النَّاسُ وَذَلِكَ يَوْمٌ مَشْهُودٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُؤَخّرُهُ إِلاَّ لأَجَلٍ مَعْدُودٍ
-  </p>
-</blockquote>
+> وَمَا نُؤَخّرُهُ إِلاَّ لأَجَلٍ مَعْدُودٍ
 
 ***103. “Surely in that is a sign for him who fears the chastisement in
 the Hereafter, that is a Day (when) mankind are to be gathered to, and
@@ -295,26 +259,14 @@ The verse says:
 Surah Hud – Verses 105 - 107
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَأْتِ لا تَكَلَّمُ نَفْسٌ إِلاَّ بإِذْنِهِ فَمِنْهُمْ شَقِيٌّ
-وَسَعِيدٌ
-  </p>
-</blockquote>
+> يَوْمَ يَأْتِ لا تَكَلَّمُ نَفْسٌ إِلاَّ بإِذْنِهِ فَمِنْهُمْ شَقِيٌّ
+> وَسَعِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فِيهَا زَفِيرٌ
-وَشَهِيقٌ
-  </p>
-</blockquote>
+> فَاَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فِيهَا زَفِيرٌ
+> وَشَهِيقٌ
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالأَرْضُ إِلاَّ مَا
-شَآءَ رَبُّكَ إِنَّ رَبَّكَ فَعَّالٌ لِمَا يُرِيدُ
-  </p>
-</blockquote>
+> خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالأَرْضُ إِلاَّ مَا
+> شَآءَ رَبُّكَ إِنَّ رَبَّكَ فَعَّالٌ لِمَا يُرِيدُ
 
 ***105. “The day (when) it comes, no soul shall speak but by His leave.
 Then some of them shall be wretched, and some happy.”***  
@@ -391,13 +343,9 @@ what He intends.”***
 Surah Hud – Verse 108
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ خَالِدِينَ فِيهَا مَا
-دَامَتِ السَّمَاوَاتُ وَالأَرْضُ إِلاَّ ما شَآءَ رَبُّكَ عَطَآءً
-غَيْرَ مَجْذُوذٍ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ خَالِدِينَ فِيهَا مَا
+> دَامَتِ السَّمَاوَاتُ وَالأَرْضُ إِلاَّ ما شَآءَ رَبُّكَ عَطَآءً
+> غَيْرَ مَجْذُوذٍ
 
 ***108. “And as for those who are happy, they shall be in Paradise,
 abiding therein, so long as the heavens and the earth endure, except as
@@ -526,13 +474,9 @@ conduct, and way of thinking.
 Surah Hud – Verse 109
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلا تَكُ فِي مِرْيَةٍ مِمَّا يَعْبُدُ هَؤُلآءِ مَا يَعْبُدُونَ إِلاَّ
-كَمَا يَعْبُدُ ءَابآؤُهُم مِن قَبْلُ وَإِنَّا لَمُوَفُّوهُمْ
-نَصِيبَهُمْ غَيْرَ مَنقُوصٍ
-  </p>
-</blockquote>
+> فَلا تَكُ فِي مِرْيَةٍ مِمَّا يَعْبُدُ هَؤُلآءِ مَا يَعْبُدُونَ إِلاَّ
+> كَمَا يَعْبُدُ ءَابآؤُهُم مِن قَبْلُ وَإِنَّا لَمُوَفُّوهُمْ
+> نَصِيبَهُمْ غَيْرَ مَنقُوصٍ
 
 ***109. “So be not then in doubt as to what these (men) worship. They
 worship nothing but what their fathers worshipped before (them), and
@@ -597,5 +541,4 @@ there permanently.
 [^11]: Bihar, vol. 72, p. 270
 
 [^12]: Bihar, vol. 100, p. 70
-
 

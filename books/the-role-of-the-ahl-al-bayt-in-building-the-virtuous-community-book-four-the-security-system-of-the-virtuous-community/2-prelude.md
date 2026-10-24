@@ -184,4 +184,3 @@ firmly-rooted identity, faith and steadfastness in political situations.
 concluded a truce with Mu’awiyah in order to maintain the existence and
 survival of the virtuous community.
 
-

@@ -32,17 +32,9 @@ pleases that he appears, it will continue on.
 Forty Discourses from Imam Mahdi (as)
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن الامام مهدّي (عجل لله تعالی فرجه)
-  </p>
-</blockquote>
+> عن الامام مهدّي (عجل لله تعالی فرجه)
 
 1. Indeed the divine destinies will never be over whelmed & overcome &
 the divine will does never get rejected & nothing can supersede the
@@ -87,11 +79,7 @@ concealed (from the eyes)
 > جَهِلُوا ماجاءَت بِهِ الرِّواياتُ الصِادِقَةُ وَالأَخبارُ الصَّحِيحَةُ
 > اَو عَلِمُوا ذلِکَ فَتَناسَوا ما يَعلَمُونَ اَنَّ الاَرضَ لا تَخلُو
 > مِن حُجَّةٍ اِمّا ظاهِراً وَامّا مَغمُوراً. (کمال الدين ج2 ص511)باب
-<blockquote dir="rtl">
-  <p>
-(توقيع من صاحب الزمان)
-  </p>
-</blockquote>
+> (توقيع من صاحب الزمان)
 
 5. Have you not heard the word of Allah that ",O believers obey Allah &
 the Prophet (S) & those In authority from among you". Has Allah ordained
@@ -369,11 +357,7 @@ oath of allegiance taking for the devils upon my neck.
 
 > 31- وَاِنّی اَخرُجُ حينَ اَخرُجُ وَلا بَيعَةَ لِأَحَدٍ مِنَ
 > الطَّواغِيتِ عُنقی. (بحارالانوار ج78 ص380)باب مواعظ الامام القائم
-<blockquote dir="rtl">
-  <p>
-(ع)وحکمه
-  </p>
-</blockquote>
+> (ع)وحکمه
 
 32. We are not heedless to your life affairs & do not forget mentionings
 of you. [^32]
@@ -437,14 +421,10 @@ that you are fit & worthy for it. Oh the kind one, oh the merciful of
 all the mercifuls. [^37]
 
 > 37-يا نُورَ النُّورِ، يا مُدَبِّرَ الأُمُورِ، يا باعِثَ مَن فِي
-<blockquote dir="rtl">
-  <p>
-القُبُورِ، صَلِّ عَلی مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَاجعَل لي
-وَلِشِيعَتِي مِنَ الضِّيقِ فَرَجاً وَمِنَ الهَمِّ مَخرَجاً،وَاَوسِع
-لَنَا المَنهَجَ وَاَطلِق لَنا مِن عِندِکَ ما يُفَرِّجُ، وَافعَل
-بِنامَا اَنتَ اَهلُهُ، ياکريمُ، يا اَرحَمَ الرّاحِمينَ.
-  </p>
-</blockquote>
+> القُبُورِ، صَلِّ عَلی مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَاجعَل لي
+> وَلِشِيعَتِي مِنَ الضِّيقِ فَرَجاً وَمِنَ الهَمِّ مَخرَجاً،وَاَوسِع
+> لَنَا المَنهَجَ وَاَطلِق لَنا مِن عِندِکَ ما يُفَرِّجُ، وَافعَل
+> بِنامَا اَنتَ اَهلُهُ، ياکريمُ، يا اَرحَمَ الرّاحِمينَ.
 
 > (الجنة الواقية فصل26)
 
@@ -583,5 +563,4 @@ of Imam AI Qaim)
 [^39]: Kamal Uddin Vol. 2. P 484
 
 [^40]: Bihar ul-Anwar Vol. 5.3. P 182
-
 

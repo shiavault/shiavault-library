@@ -491,4 +491,3 @@ intention to stay for ten days he would fast during daytime. - Editor
 [^29]: Bihar al-Anwar, vol. 49, p. 49; Usul al-Kafi, vol. 1, p. 406,
 somewhat different and brief.
 
-

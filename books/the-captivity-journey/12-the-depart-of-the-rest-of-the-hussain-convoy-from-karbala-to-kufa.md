@@ -34,4 +34,3 @@ the twelfth day of Muharram during day light, which was an important
 publicity factor to shed the lights on their triumph and to show off
 their victory.
 
-

@@ -107,4 +107,3 @@ power.
 70- He who begins his day without being concerned about improving the
 Muslim's affairs should not be called a Muslim.
 
-

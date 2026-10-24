@@ -25,7 +25,7 @@ al-Husayn.
 
 **Notes:**
 
-[^56] Al-Dinawari, al-Akhbar al-Tiwal (Cairo, 1960), pp. 229-62.
-[^57] Ibid., p. 244.
-[^58] Ibid., p. 254.
+[^56]: Al-Dinawari, al-Akhbar al-Tiwal (Cairo, 1960), pp. 229-62.
+[^57]: Ibid., p. 244.
+[^58]: Ibid., p. 254.
 

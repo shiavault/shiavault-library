@@ -62,7 +62,6 @@ gratitude, with all the services he had rendered human beings, and with
 all his unparalleled worship of the Creator could be so concerned about
 his imperfections before Allah, how then, can we determine our state ?
 
-
 **Commentary : Verse 62.63.64**
 
 (62) أَلا إِنَّ أَوْلِياءَ اللَّهِ لا خَوْفٌ عَلَيْهِمْ وَ لا هُمْ
@@ -124,7 +123,6 @@ person concerned. The verse says:
 " For them are Glad Tidings in this world's life and in the Hereafter.
 There is no change in the Words of Allah. That is the great success. "
 
-
 **Commentary : Verse 65**
 
 (65) وَ لا يَحْزُنْكَ قَوْلُهُمْ إِنَّ الْعِزَّةَ لِلَّهِ جَميعاً هُوَ
@@ -176,7 +174,5 @@ and pay all the obligatory religious dues. Allah has blessed them all
 for what they earn, and He has also fixed a great reward for what they
 have saved in advance for their life in Hereafter.
 
-
 (1) The Commentary of Al- Mizan, the explanation upon the verse
-
 

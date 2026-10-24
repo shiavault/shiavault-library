@@ -339,4 +339,3 @@ Anfal.
 [^11]: Refer to Wasael Al-Shi"aa, vol. 15, pages 21 & 22 & 23 (chapter
 11 from chapters of Mahrs).
 
-

@@ -127,4 +127,3 @@ meet Allah blood-dyed".
 
 *    Midst devils perform misdeeds, unmatched.*
 
-

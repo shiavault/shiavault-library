@@ -31,4 +31,3 @@ prophet, but to cry over Karbala is wrong? What injustice! As has been
 said in Persian, ‘the mind is distraught at the incomprehensible
 ignorance of this tragedy!’
 
-

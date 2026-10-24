@@ -388,4 +388,3 @@ Politically, the doctrine of John Locke displaced theirs. But because
 Locke’s doctrine is as important for morals as for politics, to it we
 must now turn.
 
-

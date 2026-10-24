@@ -71,4 +71,3 @@ We both laughed. "You are in a good mood today, Jabbar", I said. "Mood?
 *Dile Man Danad, Wa Man Danam, Wa Danad Dile Man*.... my heart knows,
 and I know and so knows my heart."
 
-

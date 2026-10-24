@@ -15,4 +15,3 @@ and comprehensive manner as possible. With the help of Almighty Allah,
 the reader will hopefully get the message of the one who presented these
 lectures and thereby benefit from it.
 
-

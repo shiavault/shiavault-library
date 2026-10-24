@@ -183,7 +183,6 @@ N.B. A permanent construction of the grave, such as brick, cement,
 stone, mortar etc. is Makrooh. Digging up the grave and constructing it
 again is not allowed. [Sayyid, Hadi Husayn (1988).]
 
-
 **Chapter Eighteen : Acts to Assist the Deceased in the Grave**
 
 Sayyid ibn Tawoos narrates from the Holy prophet [S.W.S] that the first
@@ -228,5 +227,4 @@ pg. 171].
 The soul of the deceased is completely reliant on the living to do good
 deeds and acts as they can no longer do so. Giving Fatihah to the
 deceased is also highly recommended.
-
 

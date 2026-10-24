@@ -425,7 +425,6 @@ Tarakhkhus he should offer full prayers.
 stopover there, he will pray full, otherwise, as an obligatory
 precaution, he will combine both, full as well as QA?r prayers.
 
-
 650. A place which a person adopts for his permanent living is his
 home, irrespective of whether he was born there, or whether it was the
 home of his parents, or whether he himself selected it as his
@@ -507,5 +506,4 @@ days, even it be for a short period.
 if he stays for all thirty days at one place. If he stays for a part of
 that period at one place, and the rest at another place, he should offer
 QA?r prayers even after thirty days.
-
 

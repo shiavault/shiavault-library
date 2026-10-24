@@ -4,35 +4,15 @@ Section 3: The Great Sacrifice Shifted
 Surah As-Saffat – Verses 75-79
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُـجِيبُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُـجِيبُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ
-  </p>
-</blockquote>
+> وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا ذُرّ‌ِيَّتَه هُمُ الْبَاقِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا ذُرّ‌ِيَّتَه هُمُ الْبَاقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا عَلَيْهِ فِي الأَخِرِينَ
-  </p>
-</blockquote>
+> وَتَرَكْنَا عَلَيْهِ فِي الأَخِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ عَلَي نُوحٍ فِي الْعَالَمِينَ
-  </p>
-</blockquote>
+> سَلاَمٌ عَلَي نُوحٍ فِي الْعَالَمِينَ
 
 ***75. “And indeed Noah did call upon Us, and the most excellent
 answerer (of prayer are We).”***  
@@ -206,23 +186,11 @@ Universe.
 Surah As-Saffat – Verses 80-82
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّا كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَغْرَقْنَا الأَخَرِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَغْرَقْنَا الأَخَرِينَ
 
 ***80. “Verily thus do We recompense the doers of good.”***  
 ***81. “Verily he was (one) of Our faithful servants.”***  
@@ -274,17 +242,9 @@ the circumstance of the disobedient ones is the rank of heedlessness.
 Surah As-Saffat – Verses 83-84
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِن شِيعَتِهِ لإِبْرَاهِيمَ
-  </p>
-</blockquote>
+> وَإِنَّ مِن شِيعَتِهِ لإِبْرَاهِيمَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ جَآءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> إِذْ جَآءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ
 
 ***83. “And verily Abraham was of his persuasion.”***  
 ***84. “When he came unto his Lord with a sound (pure) heart.”***
@@ -370,23 +330,11 @@ of Allah, except Him.”*
 Surah As-Saffat – Verses 85-87
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لأَبِيهِ وَقَوْمِهِ مَاذَا تَعْبُدُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لأَبِيهِ وَقَوْمِهِ مَاذَا تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَئِفْكاً ءَالِهَةً دُونَ اللَّهِ تُرِيدُونَ
-  </p>
-</blockquote>
+> أَئِفْكاً ءَالِهَةً دُونَ اللَّهِ تُرِيدُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا ظَنُّكُم بِرَبّ‌ِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَمَا ظَنُّكُم بِرَبّ‌ِ الْعَالَمِينَ
 
 ***85. “When he said to his father and his people: ‘What is it that you
 worship?’”***  
@@ -439,35 +387,15 @@ conjectures and illusions which have no source of effect.
 Surah As-Saffat – Verses 88-92
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَنَظَرَ نَظْرَةً فِي النُّجُومِ
-  </p>
-</blockquote>
+> فَنَظَرَ نَظْرَةً فِي النُّجُومِ
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ إِنّـِي سَقِيمٌ
-  </p>
-</blockquote>
+> فَقَالَ إِنّـِي سَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ
-  </p>
-</blockquote>
+> فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَرَاغَ إِلَي ءَالِهَتِهِمْ فَقَالَ أَلاَ تَأْكُلُونَ
-  </p>
-</blockquote>
+> فَرَاغَ إِلَي ءَالِهَتِهِمْ فَقَالَ أَلاَ تَأْكُلُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَالَكُمْ لاَ تَنطِقُونَ
-  </p>
-</blockquote>
+> مَالَكُمْ لاَ تَنطِقُونَ
 
 ***88. “Then he glanced, casting glance at the stars,”***  
 ***89. “Then he said: ‘Verily I am sick (and I cannot participate in
@@ -594,17 +522,9 @@ reason of his breaking idols in this beautiful and tender form.
 Surah As-Saffat – Verses 93-94
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرَاغَ عَلَيْهِمْ ضَرْباً بِالْيَـمِينِ
-  </p>
-</blockquote>
+> فَرَاغَ عَلَيْهِمْ ضَرْباً بِالْيَـمِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَاَقْبَلُوا إِلَيْهِ يَزِفُّونَ
-  </p>
-</blockquote>
+> فَاَقْبَلُوا إِلَيْهِ يَزِفُّونَ
 
 ***93. “Then he turned against them in secret, striking (them) with the
 right hand.”***  
@@ -679,29 +599,13 @@ However, the purpose is that the idolaters came hastily toward Abraham.
 Surah As-Saffat – Verses 95-98
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
-  </p>
-</blockquote>
+> قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا ابْنُواْ لَهُ بُنْيَاناً فَأَلْقُوهُ فِي الْجَحِيمِ
-  </p>
-</blockquote>
+> قَالُوا ابْنُواْ لَهُ بُنْيَاناً فَأَلْقُوهُ فِي الْجَحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-فَأَرَادُوا بِهِ كَيْداً فَجَعَلْنَاهُمُ الأَسْفَلِينَ
-  </p>
-</blockquote>
+> فَأَرَادُوا بِهِ كَيْداً فَجَعَلْنَاهُمُ الأَسْفَلِينَ
 
 ***95. “He said: ‘Do you worship what you (yourselves) hew out?’”***  
 ***96. “While Allah has created you and what you make.”***  
@@ -811,31 +715,15 @@ accordingly.
 Surah As-Saffat – Verses 99-102
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ إِنّـِي ذَاهِبٌ إِلَي رَبّـِي سَيَهْدِينِ
-  </p>
-</blockquote>
+> وَقَالَ إِنّـِي ذَاهِبٌ إِلَي رَبّـِي سَيَهْدِينِ
 
-<blockquote dir="rtl">
-  <p>
-رَبّ‌ِ هَبْ لِي مِنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبّ‌ِ هَبْ لِي مِنَ الصَّالِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَبَشَّرْنَاهُ بِغُلاَمٍ حَلِيمٍ
-  </p>
-</blockquote>
+> فَبَشَّرْنَاهُ بِغُلاَمٍ حَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنّـِي أَرَي فِي
-الْمَنَامِ أَنّـِي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَي قَالَ يَآ أَبَتِ
-افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِن شَآءَ اللَّهُ مِنَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنّـِي أَرَي فِي
+> الْمَنَامِ أَنّـِي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَي قَالَ يَآ أَبَتِ
+> افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِن شَآءَ اللَّهُ مِنَ الصَّابِرِينَ
 
 ***99. “And he said: ‘Verily, I am going unto my Lord, He will guide
 me’.”***  
@@ -999,29 +887,13 @@ first stage of this great examination.
 Surah As-Saffat – Verses 103-106
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ
-  </p>
-</blockquote>
+> فَلَمَّآ أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَيْنَاهُ أَن يَآ إِبْرَاهِيمُ
-  </p>
-</blockquote>
+> وَنَادَيْنَاهُ أَن يَآ إِبْرَاهِيمُ
 
-<blockquote dir="rtl">
-  <p>
-قَدْ صَدَّقْتَ الرُّؤْيَآ كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> قَدْ صَدَّقْتَ الرُّؤْيَآ كَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَهُوَ الْبَلآءُ الْمُبِينُ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَهُوَ الْبَلآءُ الْمُبِينُ
 
 ***103. “So when they both submitted (to Our command) and he (Abraham)
 laid him (the son) prostrate on his forehead (for sacrifice),”***  
@@ -1108,48 +980,20 @@ And the devoted father, the hero, also said:
 Surah As-Saffat – Verses 107-113
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا عَلَيْهِ فِي الأَخِرِينَ
-  </p>
-</blockquote>
+> وَتَرَكْنَا عَلَيْهِ فِي الأَخِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ عَلَي اِبْرَاهِيمَ
-  </p>
-</blockquote>
+> سَلاَمٌ عَلَي اِبْرَاهِيمَ
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ نَجْزِي الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> كَذَلِكَ نَجْزِي الْمُحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيّاً مّـِنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيّاً مّـِنَ الصَّالِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَبَارَكْنَا عَلَيْهِ وَعَلَي إِسْحَاقَ وَمِن ذُرّ‌ِيَّتِهِمَا
-مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ
-  </p>
-</blockquote>
+> وَبَارَكْنَا عَلَيْهِ وَعَلَي إِسْحَاقَ وَمِن ذُرّ‌ِيَّتِهِمَا
+> مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ
 
 ***107. “And We ransomed him with a great sacrifice.”***  
 ***108. “And We left (praise) for him among generations (to come) in
@@ -1381,5 +1225,4 @@ side of his face on the ground in a large place.
 [^13]: verse 80
 
 [^14]: Rauh-ul-Bayan, Vol. 7, P. 479
-
 

@@ -22,9 +22,7 @@ Suyūtī said in*ad-Durr-ul-manthūr fit-tafsīr bil-ma’thūr* (2:259) that
 the verse (5:3) revealed when the Prophet (SAW) said on the day of
 Ghadīr Khum:
 
-<p dir="rtl">
 من كنت مولاه فعلي مولاه.
-</p>
 
 *One who has me as his master has ‘Alī as his master.*
 
@@ -73,9 +71,7 @@ in*Fadāil-us-sahābah* and Khatīb Baghdādī has copied it from Anas (RA).
 Khatīb Baghdādī has copied it in*Tārīkh Baghdad* (12:343) from ‘Abdullāh
 bin ‘Abbās (RA) along with the words:
 
-<p dir="rtl">
 من كنت مولاه فعلي مولاه.
-</p>
 
 *One who has me as his master has ‘Alī as his master.*
 
@@ -121,5 +117,4 @@ narrated it and its men are those of sound*hadīth* (*rijīluhū sahīh* )
 Hindī related it briefly with the words - من كنت مولاه فعلي مولاه (one
 who has me as his master has ‘Alī as his master) - in*Kanz-ul-‘ummāl*
 (11:602 \# 32905).
-
 

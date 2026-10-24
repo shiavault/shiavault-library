@@ -552,4 +552,3 @@ All praise is due to Allah, the Lord of the worlds.
 
 All peace and blessings be upon Mohammed and his family.
 
-

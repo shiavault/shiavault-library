@@ -565,7 +565,6 @@ WAY TO ESCAPE.
 
 [ 593 ]
 
-
 **THE COMMENTARY
 
 SATAN'S PLOTS (VERSE NO. 117- 121)**
@@ -654,5 +653,4 @@ and the Muslim boasted that the prophet Mohammad is the Seal of the
 prophets, and our Qura"n is not tampered with like yours, and will
 remain unaltered until the Day of Doom, and that our religion and sacred
 Book is of a higher class and the most advanced of all the scriptures.
-
 

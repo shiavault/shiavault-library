@@ -265,4 +265,3 @@ logic, i.e. the last part of the logical Organon (al-Arghanun, q.v.)
 which deals with the fine art of stirring the imagination and soul of
 the audience through the magic of words. (online text)
 
-

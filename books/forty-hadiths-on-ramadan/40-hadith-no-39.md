@@ -12,4 +12,3 @@ present anything except milk mixed with water, or a drink of sweet water
 and a date, Allah would grant him this reward.*Bihar al-Anwar, vol. 93,
 pg. 317*
 
-

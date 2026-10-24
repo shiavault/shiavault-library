@@ -941,4 +941,3 @@ assaulting others. Women are concerned with the adornments of this
 ignoble life and the creation of mischief herein. On the other hand,
 believers are humble, admonishers and afraid of Allah.
 
-

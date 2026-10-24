@@ -34,7 +34,7 @@ from scholarly criteria and from the bases upon which research and
 knowledge stand, and they are distant from any ability to prove their
 claim by sound argument and evidence.
 
-[^92] We have already stated, while discussing hadith, that the
+[^92]: We have already stated, while discussing hadith, that the
 tradition worded "... the Book of Allah and my Sunnah" is transmitted
 without any bases, and it was not included in such wording by any of the
 Sahih books. Contrariwise, the same tradition worded "... the Book of

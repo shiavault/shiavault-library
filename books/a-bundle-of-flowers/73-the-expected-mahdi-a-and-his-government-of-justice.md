@@ -138,4 +138,3 @@ Supplication
 May Allah (s.w.t.) hasten the reappearence of our 12th Imam (‘a) to
 establish equality, truth, and justice throughout the world.
 
-

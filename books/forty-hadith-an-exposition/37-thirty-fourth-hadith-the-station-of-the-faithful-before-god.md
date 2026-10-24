@@ -1,30 +1,26 @@
 Thirty-Fourth Hadith: The Station of The Faithful Before God
 ============================================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
-الكُلَيْنِي قُدِّسَ سِرُّهُ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ
-أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ إسْمَاعِيلَ بْنِ مَهْرَانَ
-عَنْ أَبِي سَعِيدٍ القَمَّاطِ عَنْ أَبَانَ بْنِ تَغْلُبَ عَنْ أَبِي
-جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: لَمَّا أُسْرِيَ بِالنَّبِيِّ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ قَالَ: يَا رَبِّ، مَا حَالُ المُؤْمِنِ
-عِنْدَكَ؟ قَالَ: يَا مُحَمَّدُ، مَنْ أَهَانَ لِي وَلِيّاً فَقَدْ
-بَارَزَنِي بِالمُحَارَبَةِ وَأَنَا أَسْرَعُ شَيْءٍ إلَى نُصْرَةِ
-أَوْلِيَائِي. وَمَا تَرَدَّدْتُ عَنْ شَيْءٍ أَنَا فَاعِلُهُ
-كَتَرَدُّدِي عَنْ وَفَاةِ المُؤْمِنِ؛ يَكْرَهُ المَوْتَ وَأَكْرَهُ
-مَسَاءَتَهُ. وَإنَّ مِنْ عِبَادِي المُؤْمِنِينَ مَنْ لا يُصْلِحُهُ
-إلاّ الغِنَى، وَلَوْ صَرَفْتُهُ إلَى غَيْرِ ذَلِكَ لَهَلَكَ. وَإنَّ
-مِنْ عِبَادِي المُؤْمِنِينَ مَنْ لا يُصْلِحُهُ إلاّ الفَقْرُ وَلَوْ
-صَرَفْتُهُ إلَى غَيْرِ ذَلِكَ لَهَلَكَ. وَمَا يَتَقَرَّبُ إلَيَّ
-عَبْدٌ مِنْ عِبَادِي بَشَيْءٍ أَحَبُّ إلَيَّ مِمَّا افْتَرَضْتُ
-عَلَيْهِ. وَإنَّهُ لَيَتَقَرَّبُ إلَيَّ بِالنَّافِلَةِ حَتَّى
-أُحِبُّهُ فَإذَا أَحْبَبْتُهُ كُنْتُ إذاً سَمْعَهُ الَّذِي يَسْمَعُ
-بِهِ وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنْطِقُ
-بِهِ وَيَدَهُ الَّتِي يَبْطِشُ بِهَا؛ إنْ دَعَانِي أَجَبْتُهُ وَإنْ
-سَأَلَنِي أَعْطَيْتُهُ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
+> الكُلَيْنِي قُدِّسَ سِرُّهُ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ
+> أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ إسْمَاعِيلَ بْنِ مَهْرَانَ
+> عَنْ أَبِي سَعِيدٍ القَمَّاطِ عَنْ أَبَانَ بْنِ تَغْلُبَ عَنْ أَبِي
+> جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: لَمَّا أُسْرِيَ بِالنَّبِيِّ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ قَالَ: يَا رَبِّ، مَا حَالُ المُؤْمِنِ
+> عِنْدَكَ؟ قَالَ: يَا مُحَمَّدُ، مَنْ أَهَانَ لِي وَلِيّاً فَقَدْ
+> بَارَزَنِي بِالمُحَارَبَةِ وَأَنَا أَسْرَعُ شَيْءٍ إلَى نُصْرَةِ
+> أَوْلِيَائِي. وَمَا تَرَدَّدْتُ عَنْ شَيْءٍ أَنَا فَاعِلُهُ
+> كَتَرَدُّدِي عَنْ وَفَاةِ المُؤْمِنِ؛ يَكْرَهُ المَوْتَ وَأَكْرَهُ
+> مَسَاءَتَهُ. وَإنَّ مِنْ عِبَادِي المُؤْمِنِينَ مَنْ لا يُصْلِحُهُ
+> إلاّ الغِنَى، وَلَوْ صَرَفْتُهُ إلَى غَيْرِ ذَلِكَ لَهَلَكَ. وَإنَّ
+> مِنْ عِبَادِي المُؤْمِنِينَ مَنْ لا يُصْلِحُهُ إلاّ الفَقْرُ وَلَوْ
+> صَرَفْتُهُ إلَى غَيْرِ ذَلِكَ لَهَلَكَ. وَمَا يَتَقَرَّبُ إلَيَّ
+> عَبْدٌ مِنْ عِبَادِي بَشَيْءٍ أَحَبُّ إلَيَّ مِمَّا افْتَرَضْتُ
+> عَلَيْهِ. وَإنَّهُ لَيَتَقَرَّبُ إلَيَّ بِالنَّافِلَةِ حَتَّى
+> أُحِبُّهُ فَإذَا أَحْبَبْتُهُ كُنْتُ إذاً سَمْعَهُ الَّذِي يَسْمَعُ
+> بِهِ وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنْطِقُ
+> بِهِ وَيَدَهُ الَّتِي يَبْطِشُ بِهَا؛ إنْ دَعَانِي أَجَبْتُهُ وَإنْ
+> سَأَلَنِي أَعْطَيْتُهُ.
 
 With a chain of authorities reaching up to the Thiqat al-Islam Muhammad
 ibn Ya’qub at-Kulayni (Q) from several of our companions, from Ahmad ibn
@@ -55,22 +51,14 @@ Exposition
 The verb أُسْرِيَ is in the passive sense and means being taken on a
 night of a journey. Al-Jawhari says:
 
-<blockquote dir="rtl">
-  <p>
-سَريتُ سُرىً ومَسرًى وَأسرَيتُ بمعنى إذا سِرتُ ليلاً، وبالألف لغةُ
-أهلِ الحِجازِ.
-  </p>
-</blockquote>
+> سَريتُ سُرىً ومَسرًى وَأسرَيتُ بمعنى إذا سِرتُ ليلاً، وبالألف لغةُ
+> أهلِ الحِجازِ.
 
 Hence, a journey by night is called إسراء (*isra’*). The descriptive
 [expression by night,’ *laylan,* used with the verb *asra*] in the noble
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلًا.﴾
-  </p>
-</blockquote>
+> ﴿سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلًا.﴾
 
 ***Glorified is He who took His servant on a night journey.***
 (***17:1***)
@@ -89,12 +77,8 @@ The expression ما حال المؤمن means, ‘what station and worth does th
 believer have before Thee?’ In the expression أهانه، من أهان لي ولياً
 conveys the sense of despising, making light of, scorning, vilifying:
 
-<blockquote dir="rtl">
-  <p>
-أهَانَهُ: أي استَخفَّ به واسْتَهانَ به. وتهَاونَ به أي استَحقَره.
-يُقال: رجُلٌ فيه مَهانَة.
-  </p>
-</blockquote>
+> أهَانَهُ: أي استَخفَّ به واسْتَهانَ به. وتهَاونَ به أي استَحقَره.
+> يُقال: رجُلٌ فيه مَهانَة.
 
 Apparently the prefix لـ in (لي) refers to the verb, in which case it
 would mean making light of a believer for his faith in God and for the
@@ -104,11 +88,7 @@ sense, for any reason whatsoever. *Wali* here means friend and intimate.
 
 In the expression بارز، بارزنيmeans to go out:
 
-<blockquote dir="rtl">
-  <p>
-بَرزَ الرَّجُل يبرزُ بُروزاً، أي خَرجَ.
-  </p>
-</blockquote>
+> بَرزَ الرَّجُل يبرزُ بُروزاً، أي خَرجَ.
 
 And here it means to commence hostility and to go to war or to declare
 it.
@@ -118,12 +98,8 @@ causing distress and vexation.
 
 In regard to the statement:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِنْ عِبَادِي المُؤْمِنِينَ مَنْ لا يُصْلِحُهُ إلاّ الغِنَى: أي
-ذُلٌّ وضَعفٌ.
-  </p>
-</blockquote>
+> إنَّ مِنْ عِبَادِي المُؤْمِنِينَ مَنْ لا يُصْلِحُهُ إلاّ الغِنَى: أي
+> ذُلٌّ وضَعفٌ.
 
 the authoritative Shaykh Baha’i (M) says: The rules of grammar require
 that the relative pronoun (*mawsul,* i.e. مَن) should be the subject
@@ -137,11 +113,7 @@ and the relative pronoun as the predicate. And although this is contrary
 to general usage, the like of it has been considered permissible by
 some, as in the statement of God, the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمِنْ النَّاسِ مَنْ يَقُولُ آمَنَّا…﴾
-  </p>
-</blockquote>
+> ﴿وَمِنْ النَّاسِ مَنْ يَقُولُ آمَنَّا…﴾
 
 (Here ends his statement.)[^3] Perhaps in such cases the subject
 (*mubtada’*) is elliptical and the genitive proposition is indicative of
@@ -208,12 +180,8 @@ Later, God willing, we will briefly refer to each of these two stations.
 As to the word يبطش, al-Jawhari says that *batshah* means domination and
 taking by force:
 
-<blockquote dir="rtl">
-  <p>
-البَطشَةُ، السَّطوةُ والأخذُ بالعُنف، وقد بَطَشَ به يبطَشُ ويبطُشُ
-بطشاً.
-  </p>
-</blockquote>
+> البَطشَةُ، السَّطوةُ والأخذُ بالعُنف، وقد بَطَشَ به يبطَشُ ويبطُشُ
+> بطشاً.
 
 Here, however, that which is meant is taking hold of (*akhdh*)*,* in
 general, and, apparently, the general sense of ‘taking hold of is that
@@ -290,11 +258,7 @@ absolutely subject to the sovereignty of God and submissive to the
 Divine commands. Accordingly, there are many references to this matter
 in the Qur’anic verses. God, the Exalted, has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى.﴾
-  </p>
-</blockquote>
+> ﴿وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى.﴾
 
 ***And when thou threwest, it was not thou that threw, but God threw.***
 (***8:17***)
@@ -321,22 +285,14 @@ wished), and in yet another place أردْنا (We wished), and all of these
 
 Of the same kind is the statement of God, the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا.﴾
-  </p>
-</blockquote>
+> ﴿اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا.﴾
 
 ***God takes the souls at tire time of their death,*** (***39:42***)
 
 Although it is the Angel of Death who is charged with, according to
 another Qur’anic verse, the taking of the souls.
 
-<blockquote dir="rtl">
-  <p>
-﴿يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ.﴾
-  </p>
-</blockquote>
+> ﴿يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ.﴾
 
 ***He leads astray whoever He will and guides whoever He will.***
 (***16:93***)
@@ -345,11 +301,7 @@ it is God, the Exalted, who is the guide (*al-hadi*) and it is He who
 leads astray (*al-mudill*), although the guides are Gabriel (Jibra’il)
 and the Noble Messenger (S):
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا أَنْتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا أَنْتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ.﴾
 
 *Thou are only a warner and a guide to every people.*[^12]
 
@@ -364,11 +316,7 @@ comparison to the kingdom of the Absolute Sovereign and the irresistible
 Divine will that anything may be ascribed to them? All of them are
 manifestations of the Divine Power and Will:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَهُوَ الَّذِي فِي السَّمَاءِ إِلَهٌ وَفِي الْأَرْضِ إِلَهٌ.﴾
-  </p>
-</blockquote>
+> ﴿وَهُوَ الَّذِي فِي السَّمَاءِ إِلَهٌ وَفِي الْأَرْضِ إِلَهٌ.﴾
 
 ***And it is He who in heaven is God and in earth is God.***
 (***43:84***)
@@ -554,11 +502,7 @@ pertaining to *‘the horizons and the souls’* and the *Mulk* and the
 *Malakut,* which have been referred to as ‘the veils of darkness and
 lights.’
 
-<blockquote dir="rtl">
-  <p>
-إنَّ للهِ سَبْعينَ ألْفَ حِجَابٍ مِنْ نُورٍ وَظُلْمَةٍ.
-  </p>
-</blockquote>
+> إنَّ للهِ سَبْعينَ ألْفَ حِجَابٍ مِنْ نُورٍ وَظُلْمَةٍ.
 
 Verily, for God there are a seventy thousand veils of light and
 darkness.[^15]
@@ -576,17 +520,9 @@ veils.[^17]
 
 And a famous gnostic says:
 
-<blockquote dir="rtl">
-  <p>
-هفت شهر عشق را عطار گشت
-  </p>
-</blockquote>
+> هفت شهر عشق را عطار گشت
 
-<blockquote dir="rtl">
-  <p>
-ما هنوز اندر خم يك كوچه ايم
-  </p>
-</blockquote>
+> ما هنوز اندر خم يك كوچه ايم
 
 *Attar has roamed through the sevenfold cites of love, While we are
 still in the bend of a lane.*[^18]
@@ -627,11 +563,7 @@ undisturbed by attachment to any other, becomes single, unified, and
 divine, and the state of his heart [like that of Abraham, as described
 in this verse]:
 
-<blockquote dir="rtl">
-  <p>
-﴿إنِّي وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ.﴾
-  </p>
-</blockquote>
+> ﴿إنِّي وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ.﴾
 
 ***I have turned my face towards Him no created the heavens and the
 earth.*** (***6:79***)
@@ -655,11 +587,7 @@ bewilderment and so as not to fall victim to *shath* and the like, which
 are remnants of egoism. And in this tradition there is a reference to
 these two, in His words:
 
-<blockquote dir="rtl">
-  <p>
-وَإنَّهُ لَيَتَقَرَّبُ إلَيَّ بِالنَّافِلَةِ حَتَّى أُحِبُّهُ.
-  </p>
-</blockquote>
+> وَإنَّهُ لَيَتَقَرَّبُ إلَيَّ بِالنَّافِلَةِ حَتَّى أُحِبُّهُ.
 
 And he gradually draws nearer to Me through the nawafil, until I love
 him.
@@ -667,17 +595,9 @@ him.
 The drawing near of the servant is through the spark of yearning
 (*‘ishq*)*,* and the pulse of Divine gravity from love (*hubb*)*:*
 
-<blockquote dir="rtl">
-  <p>
-تاكه از جانب معشوق نباشد كششي
-  </p>
-</blockquote>
+> تاكه از جانب معشوق نباشد كششي
 
-<blockquote dir="rtl">
-  <p>
-كوشش عاشق بيچاره جايي نرسد
-  </p>
-</blockquote>
+> كوشش عاشق بيچاره جايي نرسد
 
 *Until there is not an attraction from the Beloved’s quarter, The
 efforts of the poor lover do not get anywhere.*[^22]
@@ -737,11 +657,7 @@ hears by him, sees by him,.. . and so on and so forth to the end of the
 *hadith*. [The same matter is referred to in the following tradition]
 and others like it:
 
-<blockquote dir="rtl">
-  <p>
-عَلِيٌّ عَيْنُ اللهِ وَسَمْعُ اللهِ وَجَنْبُ اللهِ.
-  </p>
-</blockquote>
+> عَلِيٌّ عَيْنُ اللهِ وَسَمْعُ اللهِ وَجَنْبُ اللهِ.
 
 ‘Ali is the eye of God, the hearing of God, and the Divine
 proximity.[^24]
@@ -754,12 +670,8 @@ different from the plurality in which we are immersed. That is because
 plurality is a veil for us that hides the Divine Face, while for them it
 is a mirror of epiphany, [as stated by ‘Ali:]
 
-<blockquote dir="rtl">
-  <p>
-مَا رَأَيْتُ شَيْئاً إلاّ وَرَأَيْتُ اللهَ مَعَهُ وَفِيهِ وَقَبْلَهُ
-وَبَعْدَهُ.
-  </p>
-</blockquote>
+> مَا رَأَيْتُ شَيْئاً إلاّ وَرَأَيْتُ اللهَ مَعَهُ وَفِيهِ وَقَبْلَهُ
+> وَبَعْدَهُ.
 
 I did not see a thing without beholding God with it, in it, before it,
 and after it.[^25]
@@ -790,11 +702,7 @@ and it is feared that he would fall into blasphemy and come to believe
 in incarnation (*hulul* and *ittihad*)*.* And Exalted is God greatly
 above that:
 
-<blockquote dir="rtl">
-  <p>
-تَعَالَى اللهُ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا.
-  </p>
-</blockquote>
+> تَعَالَى اللهُ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا.
 
 Here at this point we will state the matter simply and accessibly so
 that it is near to understanding. Hence, we may say, these words
@@ -810,17 +718,9 @@ proximity, and love so mingles with his flesh and blood that he becomes
 unconscious of himself. Thereat, everything else disappears from his
 sight until I become like his sight and hearing, as has been said:
 
-<blockquote dir="rtl">
-  <p>
-جُــنوني فِيكَ لا يخْفى ونَارِي مِنكَ لا يخْبُو
-  </p>
-</blockquote>
+> جُــنوني فِيكَ لا يخْفى ونَارِي مِنكَ لا يخْبُو
 
-<blockquote dir="rtl">
-  <p>
-فَأنتَ السَّمعُ والأبْصارُ والأركانُ والقَلبُ
-  </p>
-</blockquote>
+> فَأنتَ السَّمعُ والأبْصارُ والأركانُ والقَلبُ
 
 *That I’m mad of Thee, is no secret, My fire, lit by Thee, won’t go
 out,*
@@ -988,5 +888,4 @@ al Kufr,” “bab man adha al Muslimin,” hadith 8.
 
 [^30]: Mir’at al-’uqul, vol. 10, p. 381, “kitab al-iman wa al-kufr,”
 “bab man adha al-Muslimin,” hadith 7.
-
 

@@ -349,7 +349,6 @@ whether the 'urafa' have succeeded in correctly utilizing the
 inspiration provided by Islam; our purpose was to consider whether the
 main source of their inspiration lay within Islam or outside it.
 
-
 **A Brief History**
 
 The previous lecture dealt with the question of locating the principal
@@ -541,5 +540,4 @@ consist of a series of lessons that he took from al-'Imam Ja'far
 al-Sadiq (A). This book is considered reliable by an erudite scholar of
 traditions of the last century, the late Hajj Mirza Husayn Nuri, in the
 epilogue to his Mustadrak al-Wasa'il. Fudayl died in 187/803.
-
 

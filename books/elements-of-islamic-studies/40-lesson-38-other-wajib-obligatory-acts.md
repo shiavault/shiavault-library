@@ -71,4 +71,3 @@ One act of *salaat* must be followed by the next act immediately. The
 intervening time between two acts should not be so long as to give the
 impression that the person concerned is not praying any more.
 
-

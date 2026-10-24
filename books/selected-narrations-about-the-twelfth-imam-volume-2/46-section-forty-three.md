@@ -111,4 +111,3 @@ narrators.
 [^6]: Ghaybat al-Nu\`mānī, chap. 15, pp. 287–288, no. 8; Biḥār al-anwār,
 vol. 52, chap. 27, p. 360, no. 128.
 
-

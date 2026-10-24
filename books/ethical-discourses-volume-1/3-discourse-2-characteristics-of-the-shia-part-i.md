@@ -27,14 +27,10 @@ the problems of your family members.”
 
 \*Imam Muhammad b. 'Ali al-Baqir (as) once said to Muyassir:
 
-<blockquote dir="rtl">
-  <p>
-يَا مُيَسِّرُ أَلاَّ أَخْبِرَكَ بِشِيـعَـتِنَا؟ قُلْتُ بَلى جُعِلْتُ
-فِدَاكَ. قَالَ إِنَّهُمْ حُصُونٌ حَصِينَةٍ وَ صُدُورٌ أَمِينَةٍ وَ
-أَحْلاَمٌ وَزِينَةٍ لَيْسُوا بِالْمَذِيعِ الْبَذَرِ وَلاَ بِالْجُفَاتِ
-الْمُرَاعِينَ. رُهْـبَانٌ بِاللَّيْلِ أَسَدٌ بِالنَّهَارِ.
-  </p>
-</blockquote>
+> يَا مُيَسِّرُ أَلاَّ أَخْبِرَكَ بِشِيـعَـتِنَا؟ قُلْتُ بَلى جُعِلْتُ
+> فِدَاكَ. قَالَ إِنَّهُمْ حُصُونٌ حَصِينَةٍ وَ صُدُورٌ أَمِينَةٍ وَ
+> أَحْلاَمٌ وَزِينَةٍ لَيْسُوا بِالْمَذِيعِ الْبَذَرِ وَلاَ بِالْجُفَاتِ
+> الْمُرَاعِينَ. رُهْـبَانٌ بِاللَّيْلِ أَسَدٌ بِالنَّهَارِ.
 
 “O' Muyassir!  Should I not describe to you who our Shia (true
 followers) are?”  Muyassir replied, “But of course, may I be sacrificed
@@ -207,5 +203,4 @@ been mentioned in this tradition!
 
 [^1]: A Masjid outside of Qum, Iran which was built by the order of the
 12th living Imam. (Tr.)
-
 

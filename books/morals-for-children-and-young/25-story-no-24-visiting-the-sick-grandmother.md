@@ -18,4 +18,3 @@ grandma said “I wasn’t well but I’m alright now that you visited me”.
  The children said “Grandma, may god make you and all the other sick
 people healthy”.
 
-

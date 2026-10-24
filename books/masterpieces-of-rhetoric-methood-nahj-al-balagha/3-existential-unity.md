@@ -125,7 +125,6 @@ in which the peot makes us see the human as being lost, and that he
 together with the earth he live on, are to disappear, because they are
 diminishing inside the wideness of the one wonderful cosmos:
 
-
 **What is this worthless weak voice which whispers?**
 
 O’ earth, what is the aim of your circling in your narrow, finite
@@ -396,5 +395,4 @@ realization, and to understand that what differs each other is constant
 on a basis, and what differs being stemmed from an origin, and what was
 at a distance was connected in a unity whose sides are perpetuity and
 eternity.
-
 

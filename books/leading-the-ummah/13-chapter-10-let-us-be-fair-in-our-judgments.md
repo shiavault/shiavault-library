@@ -51,13 +51,9 @@ rather it is an issue of election.
 
 In the following sentences, Imam says:
 
-<blockquote dir="rtl">
-  <p>
-“إنّه بايعني القوم الّذين بايعوا أبابكر و عمر و عثمان علی ما بايعوهم
-عليه فلم يكن للشاهد أن يختار و لا للغائب أن يرد و إنّما الشوری
-للمهاجرين و الأنصار اجتمعوا علی رجل وسموه إماماً كان ذلك (لله) رضا”.
-  </p>
-</blockquote>
+> “إنّه بايعني القوم الّذين بايعوا أبابكر و عمر و عثمان علی ما بايعوهم
+> عليه فلم يكن للشاهد أن يختار و لا للغائب أن يرد و إنّما الشوری
+> للمهاجرين و الأنصار اجتمعوا علی رجل وسموه إماماً كان ذلك (لله) رضا”.
 
 This is a kind of dispute against the contender (the word God does not
 appear in the original versions of the Nahj-ul-Balaqa, but it appears in
@@ -141,5 +137,4 @@ What hurts me most is the people's hurry to ally with Abu Bakr[^3].
 [^2]: . Sharh Nahj-ul- Balaghah, vol 1, third sermon.
 
 [^3]: . Nahj-ul- Balaghah, letter No. 62.
-
 

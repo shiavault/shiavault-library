@@ -87,4 +87,3 @@ pilgrimage, Khums, Zakah and injustices) also this part of the will is
 taken from the principle of his inheritance and the remaining from the
 third.
 
-

@@ -54,4 +54,3 @@ benefits. We pray to Allah (S.w.T.) to enlist us from those who always
 recite the Holy Qur’an when He raises us on the Day of Judgement –
 Ameen.
 
-

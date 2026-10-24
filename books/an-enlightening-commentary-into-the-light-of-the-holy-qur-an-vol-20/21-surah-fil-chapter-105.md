@@ -8,11 +8,7 @@ Surah Fil, Chapter 105
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -58,43 +54,19 @@ Allah.
 Surah Fil, Verses 1-5
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ
-  </p>
-</blockquote>
+> أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
-  </p>
-</blockquote>
+> وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
 
-<blockquote dir="rtl">
-  <p>
-تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
-  </p>
-</blockquote>
+> تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ
-  </p>
-</blockquote>
+> فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ
 
 ***1. “Have you not seen how your Lord dealt with the companions of the
 elephant?"***  
@@ -520,5 +492,4 @@ acknowledgement.*
 
 [^3]: The word 'elephant' is used here In the singular, but, it has the
 meaning or the plural form.
-
 

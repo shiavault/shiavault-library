@@ -650,4 +650,3 @@ created a rift among them by introducing a new religion. He broke their
 idols and trampled upon their beliefs although these were the things
 which they loved most.
 
-

@@ -18,4 +18,3 @@ who recite Salatul Layl regularly.
 H. and T. Kassamali  
  Sha’ban 1424/October 2003
 
-

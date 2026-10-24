@@ -3,11 +3,7 @@ Lesson Thirty Eight: Consequences of Ignorance
 
 Imam al-Jawad (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ عَلى غَيْرِ عِلْم أَفْسَدَ أَكْثَرَ مِمّا يُصْلِحُ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ عَلى غَيْرِ عِلْم أَفْسَدَ أَكْثَرَ مِمّا يُصْلِحُ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ disgraces religion; intends to create peace among people, but aggravates
 disputes and hypocrisy. He generally ends up doing more harm than good.
 
 [^1]: Montahal-aamal
-
 

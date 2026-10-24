@@ -3,12 +3,8 @@ Lesson Eleven: Martyrdom of Imam Husayn (a.s.)
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-"إنَّ لِقَتْلِ الْحُسَيْنِ حَرَارَةٌ فِى قُلُوبِ الْمُؤْمِنينَ لَنْ
-تَبْرُدَ أَبَداً"
-  </p>
-</blockquote>
+> "إنَّ لِقَتْلِ الْحُسَيْنِ حَرَارَةٌ فِى قُلُوبِ الْمُؤْمِنينَ لَنْ
+> تَبْرُدَ أَبَداً"
 
 Translation
 -----------
@@ -27,5 +23,4 @@ God, freedom, honor and virtue do not get old. Imam Husayn (a.s.) and
 his companions were the pioneers of the martyrs for faith.
 
 [^1]: Mustadrak’ul-Wasa’il, volume 2, page 217
-
 

@@ -253,4 +253,3 @@ kind of effect, as the number of conditions and their determinations
 cannot be established by rational proof, and all of them depend on
 experience.
 
-

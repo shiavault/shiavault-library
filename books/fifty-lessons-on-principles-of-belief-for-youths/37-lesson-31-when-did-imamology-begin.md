@@ -164,4 +164,3 @@ enemy?
  5.  What is the meaning of imamate in Shi’ism and what is the
 difference with the definition given by the Sunnis?
 
-

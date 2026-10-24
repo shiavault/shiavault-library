@@ -120,11 +120,7 @@ commands must be obeyed absolutely, and a person becomes submissive to
 his whims and passions to the extent of adoration. God-Almighty said
 about such a person in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ
-  </p>
-</blockquote>
+> أَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ
 
 ***“Seest thou such a one as taketh for his god His own passion (or
 impulse)?”( 25:43).***
@@ -148,23 +144,15 @@ being attached to its adornments. Following are few examples:
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ
-  </p>
-</blockquote>
+> وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ
 
 ***“For the life of this world is but goods and chattels of deception
 (3:185)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-افلا تعقلونيَتَّقُونَ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ
-وَلَهْوٌ ۖ وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ
-  </p>
-</blockquote>
+> افلا تعقلونيَتَّقُونَ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ
+> وَلَهْوٌ ۖ وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ
 
 ***“What is the life of this world but play and amusement but best is
 the home in the Hereafter, for those who are righteous. Will ye not then
@@ -172,14 +160,10 @@ understand? (6:32)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
-وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ
-كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ
-مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ
-  </p>
-</blockquote>
+> اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
+> وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ
+> كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ
+> مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ
 
 ***“Know that the life of this world is only play, and idle talk, and
 pageantry, and boasting among you and rivalry in respect of wealth and
@@ -190,13 +174,9 @@ there is grievous punishment. (57:20)***
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اما بعد فانى احذركم الدنيا فانها حلوة خضرة حفت بالشهوات وتحببت
-بالعاجلة وراقت بالقليل وحليت بالآمال وتزينت بالغرور. لاتدوم حبرتها ولا
-تؤمن فجعتها، غرارة ضرارة حائلة زائلة نافذة بائدة اكالة غوالة.
-  </p>
-</blockquote>
+> اما بعد فانى احذركم الدنيا فانها حلوة خضرة حفت بالشهوات وتحببت
+> بالعاجلة وراقت بالقليل وحليت بالآمال وتزينت بالغرور. لاتدوم حبرتها ولا
+> تؤمن فجعتها، غرارة ضرارة حائلة زائلة نافذة بائدة اكالة غوالة.
 
 *“So now, certainly I frighten you from this world for it is sweet and
 green, surrounded by lusts, and liked for its immediate enjoyments. It
@@ -207,12 +187,8 @@ exhaustible, liable to destruction eating away and destructive.”*[^1]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-والدنيا دار منى لها الفنا ولاهلها منها الجلا وهى حلوة خضرا وقد عجبت
-للطالب والتبست بقلب الناظر.
-  </p>
-</blockquote>
+> والدنيا دار منى لها الفنا ولاهلها منها الجلا وهى حلوة خضرا وقد عجبت
+> للطالب والتبست بقلب الناظر.
 
 *“The world is a place for which destruction is ordained and for its
 inhabitants departure from here is destined. It is sweet and green. It
@@ -234,12 +210,8 @@ and the one who is attached to the Hereafter. Each one of these groups
 follows their own special program. God-Almighty has said in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن يُرِدْ ثَوَابَ
-الْآخِرَةِ نُؤْتِهِ مِنْهَا
-  </p>
-</blockquote>
+> وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن يُرِدْ ثَوَابَ
+> الْآخِرَةِ نُؤْتِهِ مِنْهَا
 
 ***“Whoso desireth the reward of the world, we bestow on him thereof and
 whoso desireth the reward of the Hereafter, we bestow on him thereof.
@@ -247,12 +219,8 @@ whoso desireth the reward of the Hereafter, we bestow on him thereof.
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ
-الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
-  </p>
-</blockquote>
+> الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ
+> الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
 
 ***“Wealth and children are an ornament of life of the world. But the
 good deeds which endure are better in the Lord's sight for reward and
@@ -282,11 +250,7 @@ human beings and should be utilized for their advantages. The wealth and
 property not only is not reproached but on the contrary has been
 introduced as blessing in the Holy Qur’an as follows:
 
-<blockquote dir="rtl">
-  <p>
-إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ
-  </p>
-</blockquote>
+> إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ
 
 ***“If he leaves wealth, that he bequeath unto parents and near
 relatives in kindness. (2:180)***
@@ -298,24 +262,16 @@ Following is an example:
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: العبادة سبعون جزا افضلها طلب الحلال.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: العبادة سبعون جزا افضلها طلب الحلال.
 
 *“Worship consists of seventy acts and the best among them is the act of
 earning a genuine living through lawful means.”*[^4]
 
 Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر (ع) قال: من طلب الرزق فى الدنيا استعفافا عن الناس وتوسيعا
-على اهلها تعطفا على جارة لقى الله عز وجل يوم القيامة ووجهه مثل القمر
-ليلة البدر.
-  </p>
-</blockquote>
+> عن ابي جعفر (ع) قال: من طلب الرزق فى الدنيا استعفافا عن الناس وتوسيعا
+> على اهلها تعطفا على جارة لقى الله عز وجل يوم القيامة ووجهه مثل القمر
+> ليلة البدر.
 
 *“Whoever endeavors sincerely for earning a genuine living (through
 lawful means); becomes self-sufficient in taking care of his
@@ -326,11 +282,7 @@ full moon.”*[^5]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى عبدالله عليه السلام قال: الكاد على عياله كالحماهد فى سبيل الله.
-  </p>
-</blockquote>
+> عن ابى عبدالله عليه السلام قال: الكاد على عياله كالحماهد فى سبيل الله.
 
 *“Whoever strives for earning a living for his family is tantamount to a
 warrior engaged in Holy War for the sake of God.”*[^6]
@@ -347,14 +299,10 @@ opinion of some people it is not the world which is reproached rather it
 is the attachment to world which has been strictly condemned. e.g. the
 Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ
-وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ
-الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ ۗ ذَٰلِكَ مَتَاعُ الْحَيَاةِ
-الدُّنْيَا ۖ وَاللَّهُ عِندَهُ حُسْنُ الْمَآبِ
-  </p>
-</blockquote>
+> زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ
+> وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ
+> الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ ۗ ذَٰلِكَ مَتَاعُ الْحَيَاةِ
+> الدُّنْيَا ۖ وَاللَّهُ عِندَهُ حُسْنُ الْمَآبِ
 
 ***“Beautified for mankind is love of the joys (that come) from women
 and offspring, and stored-up heaps of gold and silver, and horses
@@ -364,11 +312,7 @@ of the world, God-Almighty ! With Him is a more excellent abode.
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اياك وحب الدنيا فانها اصل كل خطيئة ومعدن كل بليه.
-  </p>
-</blockquote>
+> قال على عليه السلام: اياك وحب الدنيا فانها اصل كل خطيئة ومعدن كل بليه.
 
 *“Be careful not to attach your self from this (transient) world,
 because love of world is the root of all sins and origin of all
@@ -376,11 +320,7 @@ catastrophes.”*[^7]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: راس كل خطيئة حب الدنيا.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: راس كل خطيئة حب الدنيا.
 
 *“Attachment to World is the basis of all sins and transgressions.”*[^8]
 
@@ -404,11 +344,7 @@ accordingly he has been created in such a manner that he should feel a
 natural inclination towards these affairs. The Commander of the Faithful
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الناس ابنا الدنيا ولايلام الرجل على حب امه.
-  </p>
-</blockquote>
+> قال على عليه السلام: الناس ابنا الدنيا ولايلام الرجل على حب امه.
 
 *“The human beings are the children of this World and they should not be
 blamed for loving their mother.”*[^9]
@@ -428,13 +364,9 @@ the example:
 In reply to a person who has condemned the world, the Commander of the
 Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-ان الدنيا دار صدق لمن صدقها ودار عافية لمن فهم عنها. ودار غنى لمن تزود
-منها ودار موعظة ولمن اتعظ بها. مسجد احبا الله ومصلى ملائكة الله وحبط
-وحى الله ومتجر اوليا الله, اكتسبوا فيها الرحمة ورحبوا فيها الجنة.
-  </p>
-</blockquote>
+> ان الدنيا دار صدق لمن صدقها ودار عافية لمن فهم عنها. ودار غنى لمن تزود
+> منها ودار موعظة ولمن اتعظ بها. مسجد احبا الله ومصلى ملائكة الله وحبط
+> وحى الله ومتجر اوليا الله, اكتسبوا فيها الرحمة ورحبوا فيها الجنة.
 
 *“Verily this world is a house of truth for those who look into it
 deeply and carefully, an abode of peace and rest for those who
@@ -451,22 +383,14 @@ their good deeds, with His Blessings, and rewards.”*[^10]
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى جعفرعليه السلام انه كان يقول: نعم العون الدنيا على الاخرة.
-  </p>
-</blockquote>
+> عن ابى جعفرعليه السلام انه كان يقول: نعم العون الدنيا على الاخرة.
 
 *“The world is the best support for the Hereafter.”*[^11]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: لا خير فى من لايحب جمع المال من حلال,
-ويكف به وجهه ويقضى به دينه ويحصل به رحمه.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: لا خير فى من لايحب جمع المال من حلال,
+> ويكف به وجهه ويقضى به دينه ويحصل به رحمه.
 
 *“Anyone who does not like earning a living by lawful means to maintain
 his prestige, to pay his obligations and to take care of his relatives,
@@ -523,12 +447,8 @@ Following are few examples of Islamic narrations in this matter:
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-فان الدنيا لم تخلق لكم دار مقام. بل خلقت لكم مجازا لتزودوا منها العمال
-الى دار القرار فكونوا منها على اوفاز وقربوا الظهور للزيال.
-  </p>
-</blockquote>
+> فان الدنيا لم تخلق لكم دار مقام. بل خلقت لكم مجازا لتزودوا منها العمال
+> الى دار القرار فكونوا منها على اوفاز وقربوا الظهور للزيال.
 
 *“Certainly this world has not been made a place of permanent stay for
 you. But it has been created as a pathway in order that you may take
@@ -538,15 +458,11 @@ for setting off.”*[^13]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-ايها الناس انما الدنيا دار مجاز والاخرة دار قرار فخدوا من ممركم لمقركم
-ولا تهتكوا أستاركم عند من يعلم أسراركم واخرجوا من الدنيا قلوبكم من قبل
-أن تخرج منها أبدانكم، ففيها اختبرتم ولغيرها خُلقتم. إن المرء إذا هلك
-قال الناس: ما ترك؟ وقالت الملائكة: ما قدم؟ لله آبائكم! فقدموا بعضاً
-يكن لكم قرضا، ولا تخلفوا كلاً فيكون عليكم.
-  </p>
-</blockquote>
+> ايها الناس انما الدنيا دار مجاز والاخرة دار قرار فخدوا من ممركم لمقركم
+> ولا تهتكوا أستاركم عند من يعلم أسراركم واخرجوا من الدنيا قلوبكم من قبل
+> أن تخرج منها أبدانكم، ففيها اختبرتم ولغيرها خُلقتم. إن المرء إذا هلك
+> قال الناس: ما ترك؟ وقالت الملائكة: ما قدم؟ لله آبائكم! فقدموا بعضاً
+> يكن لكم قرضا، ولا تخلفوا كلاً فيكون عليكم.
 
 *“Remember that this world is a thoroughfare, a road upon which people
 are passing night and day, and the Next World is the abode of permanent
@@ -566,15 +482,11 @@ you.”*[^14]
 
 He further said:
 
-<blockquote dir="rtl">
-  <p>
-الا إنّ هذه الدنيا التي أصبحتم تتمنونها وترغبون فيها ، وأصبحت تعظكم
-وترميكم ليست بداركم ، ولا منزلكم الذلى خلقتم له ، ولا الذي دعيتم إليه.
-الاوانها ليست بباقية لكم ولاتبقون عليها وهلى وان غرتكم منها فقد حذرتكم
-شرها. فدعو اغرورها لتحذيرها واطماعها لتخويفها وسابقوا فيها الى الدار
-التلى دعيتم عليها وانصرفوا بقلوبكم عنها.
-  </p>
-</blockquote>
+> الا إنّ هذه الدنيا التي أصبحتم تتمنونها وترغبون فيها ، وأصبحت تعظكم
+> وترميكم ليست بداركم ، ولا منزلكم الذلى خلقتم له ، ولا الذي دعيتم إليه.
+> الاوانها ليست بباقية لكم ولاتبقون عليها وهلى وان غرتكم منها فقد حذرتكم
+> شرها. فدعو اغرورها لتحذيرها واطماعها لتخويفها وسابقوا فيها الى الدار
+> التلى دعيتم عليها وانصرفوا بقلوبكم عنها.
 
 *“Remember, that this world which you covet so ardently and attempt to
 acquire so earnestly, and which some times annoys you and some times
@@ -630,13 +542,9 @@ marrying, and other worldly deeds are utilized for the Next World. Such
 people are not worldly and belong to the Next World. Ibn abi Yafur
 narrated from Imam al-Sadiq (a.s.) as follows:
 
-<blockquote dir="rtl">
-  <p>
-اين ابى يعفو رقال قلت لابي عبدالله عليه السلام: أنا لنحب الدنيا فقال
-لى: تصنع بها ماذا؟ قلت اتزوج منها واحج وانفق على عيالى وانيل اخوانى
-واتصدق. قال: ليس هذا من الدنيا, هذا من الاخرة.
-  </p>
-</blockquote>
+> اين ابى يعفو رقال قلت لابي عبدالله عليه السلام: أنا لنحب الدنيا فقال
+> لى: تصنع بها ماذا؟ قلت اتزوج منها واحج وانفق على عيالى وانيل اخوانى
+> واتصدق. قال: ليس هذا من الدنيا, هذا من الاخرة.
 
 *“I said to Imam al-Sadiq:*
 
@@ -652,16 +560,12 @@ brothers and give alms for the sake of God.’*
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-واعلموا عبادالله أن المتقين ذهبوا بعاجل الدنيا وآجل الآخرة فشاركوا أهل
-الدنيا في دنياهم ولم يشاركهم أهل الدنيا في آخرتهم سكنوا الدنيا بأفضل
-ما سكنت وأكلوها بأفضل ما أكلت فحظوا من الدنيا بما حظي به المترفون
-وأخذوا منها ما أخذت الجبابرة المتكبرون ثم انقلبوا عنها بالزاد المبلغ
-والمتجر الرابح. أصابوا لذة زهد الدنيا في دنياهم وتيقنوا أنهم جيران
-الله غدا في آخرتهم لاترد لهم دعوة ولاينقص لهم نصيب من لذة.
-  </p>
-</blockquote>
+> واعلموا عبادالله أن المتقين ذهبوا بعاجل الدنيا وآجل الآخرة فشاركوا أهل
+> الدنيا في دنياهم ولم يشاركهم أهل الدنيا في آخرتهم سكنوا الدنيا بأفضل
+> ما سكنت وأكلوها بأفضل ما أكلت فحظوا من الدنيا بما حظي به المترفون
+> وأخذوا منها ما أخذت الجبابرة المتكبرون ثم انقلبوا عنها بالزاد المبلغ
+> والمتجر الرابح. أصابوا لذة زهد الدنيا في دنياهم وتيقنوا أنهم جيران
+> الله غدا في آخرتهم لاترد لهم دعوة ولاينقص لهم نصيب من لذة.
 
 *“O creature of God! remember that God fearing and pious persons passed
 away from this world after having led a respectable and fruitful life ,
@@ -699,14 +603,10 @@ efforts and endeavors for earning a living was the most ascetic person,
 but simultaneously was the ruler over his people. In the darkness of
 night he cried at the alter of the worship saying:
 
-<blockquote dir="rtl">
-  <p>
-يا دنيا، يا دنيا إليك عني، أبي تعرضت؟ أم إلى تشوقت؟ لا حان حينك؟
-هيهات! غري غيري، لا حاجة لي فيك, قد طلقتك ثلاثا لا رجعة فيها! فعيشك
-قصير وخطرك يسير وأملك حقير. آه من قلة الزاد وطول الطريق وبعد السفر
-وعظم المورد.
-  </p>
-</blockquote>
+> يا دنيا، يا دنيا إليك عني، أبي تعرضت؟ أم إلى تشوقت؟ لا حان حينك؟
+> هيهات! غري غيري، لا حاجة لي فيك, قد طلقتك ثلاثا لا رجعة فيها! فعيشك
+> قصير وخطرك يسير وأملك حقير. آه من قلة الزاد وطول الطريق وبعد السفر
+> وعظم المورد.
 
 *“O world, O world ! Get away from me. Why do you present yourself to
 me? Or are you eager for me? You may not get that opportunity to impress
@@ -718,12 +618,8 @@ is hard to reach.”*[^18]
 
 Also he said:
 
-<blockquote dir="rtl">
-  <p>
-إليك عني يا دنيا فحبلك على غاربك قد انسللتُ من مخالبك وأفلتُّ من
-حبائلك واجتنبت الذهاب في مداحضك.
-  </p>
-</blockquote>
+> إليك عني يا دنيا فحبلك على غاربك قد انسللتُ من مخالبك وأفلتُّ من
+> حبائلك واجتنبت الذهاب في مداحضك.
 
 *“Get away from me O world! Your rein is on your own shoulders as I have
 released myself from your ditches, removed myself of your snares, and
@@ -733,14 +629,10 @@ The Commander of the Faithful Imam ‘Ali (a.s.) while accompanying his
 soldiers and marching towards the battle field showed a very old and
 worn out shoe to Ibne Abbas and said:
 
-<blockquote dir="rtl">
-  <p>
-قال عبدالله بن عباس -- رضى الله عنه: - دخلت على امير المؤمنين عليه
-السلام بذى قار وهو يخصف نعله فقال لى: ما قيمة هذا النعال؟ فقلت: لا
-قيمة لها! فقال عليه السلام: والله لهى احب إلى من امرتكم, الا ان اقيم
-خقا, او ادفع باطلا, ثم خرج فخطب الناس فقال:
-  </p>
-</blockquote>
+> قال عبدالله بن عباس -- رضى الله عنه: - دخلت على امير المؤمنين عليه
+> السلام بذى قار وهو يخصف نعله فقال لى: ما قيمة هذا النعال؟ فقلت: لا
+> قيمة لها! فقال عليه السلام: والله لهى احب إلى من امرتكم, الا ان اقيم
+> خقا, او ادفع باطلا, ثم خرج فخطب الناس فقال:
 
 *“If I cannot establish a regime of justice and truth and if I cannot
 eradicate tyranny and impiety, than the value of this Government and
@@ -779,35 +671,23 @@ refrain from acceptance of positions involving social responsibilities.
 
 God-Almighty said in Holy Qur’an.
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ ظَاهِرًا مِّنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ
-الْآخِرَةِ هُمْ غَافِلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ ظَاهِرًا مِّنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ
+> الْآخِرَةِ هُمْ غَافِلُونَ
 
 ***“They know only some appearance of the life of this world, and are
 needless of the Hereafter. (30: 7)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
-  </p>
-</blockquote>
+> أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
 
 ***“Such are those who buy the life of the world at the price of
 Hereafter. (2: 86)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ ۚ فَمَا مَتَاعُ
-الْحَيَاةِ الدُّنْيَا فِي الْآخِرَةِ إِلَّا قَلِيلٌ
-  </p>
-</blockquote>
+> أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ ۚ فَمَا مَتَاعُ
+> الْحَيَاةِ الدُّنْيَا فِي الْآخِرَةِ إِلَّا قَلِيلٌ
 
 ***“Take ye the pleasure in the life of the world rather in the
 Hereafter ? The comfort of the life of the life of the world is but
@@ -815,13 +695,9 @@ little than in the Hereafter. (9: 38)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ
-الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
-غَافِلُونَ أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ
+> الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
+> غَافِلُونَ أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ
 
 ***“Lo! Those who expect not the meeting with Us, but desire the life of
 this world and feel secure therein, and those who are neglectful of our
@@ -830,12 +706,8 @@ revelations, there home will be fire because of what they used to earn.
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبد الله عليه سلام قال: ابعد ما يكون العبد من الله اذاكم
-الابطنه وفرجه.
-  </p>
-</blockquote>
+> عن ابي عبد الله عليه سلام قال: ابعد ما يكون العبد من الله اذاكم
+> الابطنه وفرجه.
 
 *“The worst condition for the relationship between man and God-Almighty
 is the situation, when a person does not have any other aim, except
@@ -844,23 +716,15 @@ requirements.”*[^21]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): حرام على كل قلب مطوله بالدنيا ان يسكنه التقوى.
-  </p>
-</blockquote>
+> قال على (ع): حرام على كل قلب مطوله بالدنيا ان يسكنه التقوى.
 
 *“In a heart infatuated with world, presence of piety is
 forbidden.”*[^22]
 
 Also he said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ولبئس المتجران ترى الدنيا لنفسك ثمنا ولمالك عند
-الله عوضا.
-  </p>
-</blockquote>
+> قال على عليه السلام: ولبئس المتجران ترى الدنيا لنفسك ثمنا ولمالك عند
+> الله عوضا.
 
 *“It is the worst kind of trade, whereby one considers the world worthy
 of his self; and purchases the world at the expanses of
@@ -887,15 +751,11 @@ Therefore, whoever works in this world for Hereafter is a man of Next
 World, and the one who works for this world will join the worldly group.
 The Commander of the Faithful Imam ' ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الناس في الدنيا عاملان: عامل عمل في الدنيا
-للدنيا، قد شغلته دنياه عن آخرته يخشى على من يخلفه الفقر ويأمنه على
-نفسه فيفني عمره في منفعة غيره. وعامل عمل في الدنيا لما بعدها فجاءه
-الذي له من الدنيا بغير عمل فأحرز الحظين معاً، وملك الدارين جميعاً.
-فأصبح وجيهاً عندالله، لا يسأَل الله حاجة فيمنعه.
-  </p>
-</blockquote>
+> قال على عليه السلام: الناس في الدنيا عاملان: عامل عمل في الدنيا
+> للدنيا، قد شغلته دنياه عن آخرته يخشى على من يخلفه الفقر ويأمنه على
+> نفسه فيفني عمره في منفعة غيره. وعامل عمل في الدنيا لما بعدها فجاءه
+> الذي له من الدنيا بغير عمل فأحرز الحظين معاً، وملك الدارين جميعاً.
+> فأصبح وجيهاً عندالله، لا يسأَل الله حاجة فيمنعه.
 
 *“There are two kinds of workers in the world. One is a person who works
 in this world for this world and his work of this world keeps him
@@ -911,12 +771,8 @@ him anything He does not deny him.”*[^24]
 
 Also, he said :
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الدنيا دار ممر لا دار مقر, والناس فيها رجلان: رجل
-باغ فيها نفسه فوبـقها ورجل ابتاع نفسه فاعتقها.
-  </p>
-</blockquote>
+> قال على عليه السلام: الدنيا دار ممر لا دار مقر, والناس فيها رجلان: رجل
+> باغ فيها نفسه فوبـقها ورجل ابتاع نفسه فاعتقها.
 
 *“This world is a place for transit, not a place to stay. The people
 herein are of two categories. One is the man who sold away his self (to
@@ -1014,5 +870,4 @@ attachment is the root of all evils [Tr].
 [^24]: Nahjul Balagha, saying 269.
 
 [^25]: Nahjul Balagha, saying 133.
-
 

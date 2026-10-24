@@ -217,14 +217,10 @@ individuals presented in his lecture a symbolic interpretation of the
 story of Habil and Qabil mentioned in the Qur’an. The story as narrated
 in the Qur’an is as follows:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الآخَرِ
-قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ
-الْمُتَّقِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الآخَرِ
+> قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ
+> الْمُتَّقِينَ﴾
 
 “Relate to them truly the account of Adam’s two sons. When the two of
 them offered an offering, it was accepted from one of them and not
@@ -240,14 +236,10 @@ Habil to the extent that he murdered him. But he regretted what he had
 done. As he did not know what to do with the corpse of his brother, God
 sent a crow to teach him how to bury the dead body:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَبَعَثَ اللّهُ غُرَابًا يَبْحَثُ فِي الأَرْضِ لِيُرِيَهُ كَيْفَ
-يُوَارِي سَوْءةَ أَخِيهِ قَالَ يَا وَيْلَتَا أَعَجَزْتُ أَنْ أَكُونَ
-مِثْلَ هَـذَا الْغُرَابِ فَأُوَارِيَ سَوْءةَ أَخِي فَأَصْبَحَ مِنَ
-النَّادِمِينَ﴾
-  </p>
-</blockquote>
+> ﴿فَبَعَثَ اللّهُ غُرَابًا يَبْحَثُ فِي الأَرْضِ لِيُرِيَهُ كَيْفَ
+> يُوَارِي سَوْءةَ أَخِيهِ قَالَ يَا وَيْلَتَا أَعَجَزْتُ أَنْ أَكُونَ
+> مِثْلَ هَـذَا الْغُرَابِ فَأُوَارِيَ سَوْءةَ أَخِي فَأَصْبَحَ مِنَ
+> النَّادِمِينَ﴾
 
 “Then Allah sent a crow, exploring in the ground, to show him how to
 bury the corpse of his brother. He said, ‘Woe to me! Am I unable to be
@@ -409,11 +401,7 @@ mental setup—an interpretation which usually differs from the
 interpretations of others as well as the intention of the poet. In the
 words of Mawlana,[^7]
 
-<blockquote dir="rtl">
-  <p>
-هر كس از ظنّ خود شد يار من از درون من نجست اسرار من
-  </p>
-</blockquote>
+> هر كس از ظنّ خود شد يار من از درون من نجست اسرار من
 
 *Anyone who becomes my friend in his mind*
 
@@ -466,12 +454,8 @@ interpretation and religion can accommodate it just as the poems of
 Hafiz can accommodate diverse interpretations and understanding. Hafiz
 says, for example:
 
-<blockquote dir="rtl">
-  <p>
-اگر غم لشكر انگيزد كه خون عاشقان ريزد  
- من و ساقى به هم تازيم و بنيادش بر اندازيم
-  </p>
-</blockquote>
+> اگر غم لشكر انگيزد كه خون عاشقان ريزد
+>  من و ساقى به هم تازيم و بنيادش بر اندازيم
 
 *If sorrow's soldiers incite to shed lovers' blood tonight*
 
@@ -648,12 +632,8 @@ that metaphors, allusions, similes, and allegories are used in religious
 scriptures, in general, and in the Qur’an, in particular; for example,
 this passage in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ
-أَنكَاثًا...﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ
+> أَنكَاثًا...﴾
 
 “Do not be like her who would undo her yarn, breaking it up after
 [spinning it to] strength...”[^8]
@@ -662,12 +642,8 @@ This is one example mentioned in the Qur’an and perhaps that woman did
 not really exist at all. The same is true in the case of the similitude
 of donkey mentioned in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا
-كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا...﴾
-  </p>
-</blockquote>
+> ﴿مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا
+> كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا...﴾
 
 “The example of those who were charged with the Torah, then failed to
 carry it, is that of an ass carrying books...”[^9]
@@ -735,21 +711,13 @@ book, or else, his book shall be introduced as a book of poetry or
 witticism. *If God makes use of a parable in the Qur’an—as He does—does
 it mean that other passages of the Qur’an are poems and fables?*
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ...﴾
-  </p>
-</blockquote>
+> ﴿وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ...﴾
 
 ***“Relate to them truly the account of Adam’s two sons…”***[^10]
 
 And
 
-<blockquote dir="rtl">
-  <p>
-﴿وَبِالْحَقِّ أَنزَلْنَاهُ وَبِالْحَقِّ نَزَلَ...﴾
-  </p>
-</blockquote>
+> ﴿وَبِالْحَقِّ أَنزَلْنَاهُ وَبِالْحَقِّ نَزَلَ...﴾
 
 ***“With the truth did We send it down, and with the truth did it
 descend…**”*[^11]?
@@ -804,13 +772,9 @@ Yet, the hypocrites, the enemies, egoists and opportunists introduced
 distortions in religion that consequently led to deviation from Islam,
 fratricide and bloodshed among Muslims. Imam ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-وَلكِنَّا إِنَّمَا أَصْبَحْنَا نُقَاتِلُ إِخْوَانَنَا فِي الاِْسْلاَمِ
-عَلَى مَا دَخَلَ فِيهِ مِنَ الزَّيْغِ وَالاعْوِجَاجِ، وَالشُّبْهَةِ
-وَالتَّأْوِيلِ...
-  </p>
-</blockquote>
+> وَلكِنَّا إِنَّمَا أَصْبَحْنَا نُقَاتِلُ إِخْوَانَنَا فِي الاِْسْلاَمِ
+> عَلَى مَا دَخَلَ فِيهِ مِنَ الزَّيْغِ وَالاعْوِجَاجِ، وَالشُّبْهَةِ
+> وَالتَّأْوِيلِ...
 
 *“We now had to fight our brethren in Islam because of entry into Islam
 of misguidance, crookedness, doubts and (wrong) interpretation...”*[^12]
@@ -825,15 +789,11 @@ Qur’an at that time, as a result of which many of them were killed.
 In Sermon 17 of *Nahj al-Balaghah*, Imam ‘Ali (*‘a*) complained to God
 of the misguidance and ignorance of the people, thus:
 
-<blockquote dir="rtl">
-  <p>
-إِلَى اللهِ أَشْكُوا مِنْ مَعْشَرٍ يَعِيشُونَ جُهَّالاً، وَيَمُوتُونَ
-ضُلاَّلاً، لَيْسَ فِيهمْ سِلْعَةٌ أَبْوَرُ مِنَ الكِتَابِ إِذَا تُلِيَ
-حَقَّ تِلاَوَتِهِ، وَلاَ سِلْعَةٌ أَنْفَقُ بَيْعاً وَلاَ أَغْلَى
-ثَمَناً مِنَ الكِتَابِ إِذَا حُرِّفَ عَنْ مَوَاضِعِهِ، وَلاَ
-عِنْدَهُمْ أَنْكَرُ مِنَ المَعْرُوفِ، وَلاَ أَعْرَفُ مِنَ المُنكَرِ.
-  </p>
-</blockquote>
+> إِلَى اللهِ أَشْكُوا مِنْ مَعْشَرٍ يَعِيشُونَ جُهَّالاً، وَيَمُوتُونَ
+> ضُلاَّلاً، لَيْسَ فِيهمْ سِلْعَةٌ أَبْوَرُ مِنَ الكِتَابِ إِذَا تُلِيَ
+> حَقَّ تِلاَوَتِهِ، وَلاَ سِلْعَةٌ أَنْفَقُ بَيْعاً وَلاَ أَغْلَى
+> ثَمَناً مِنَ الكِتَابِ إِذَا حُرِّفَ عَنْ مَوَاضِعِهِ، وَلاَ
+> عِنْدَهُمْ أَنْكَرُ مِنَ المَعْرُوفِ، وَلاَ أَعْرَفُ مِنَ المُنكَرِ.
 
 *I complain to Allah about persons who live ignorant and die misguided.
 For them nothing is more worthless than the Qur’an if it is recited as
@@ -849,17 +809,13 @@ at the heedlessness of people to his words of guidance.
 
 Similar to the above statement, in Sermon 147 Imam ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ سَيَأْتي عَلَيْكُمْ مِنْ بَعْدِي زَمَانٌ لَيْسَ فِيهِ شَيْءٌ
-أَخْفَى مِنَ الْحَقِّ، وَلاَ أَظْهَرَ مِنَ الْبَاطِلِ، وَلاَ أَكْثَرَ
-مِنَ الْكَذِبِ عَلَى اللهِ وَرَسُولِهِ، وَلَيْسَ عِنْدَ أَهْلِ ذلِكَ
-الزَّمَانِ سِلْعَةٌ أَبْوَرَ مِنَ الْكِتَابِ إِذَا تُلِيَ حَقَّ
-تِلاَوَتِهِ، وَلاَ أَنْفَقَ مِنْهُ إِذَا حُرِّفَ عَنْ مَوَاضِعِهِ،
-وَلاَ فِي الْبِلاَدِ شَيءٌ أنْكَرَ مِنَ الْمَعْرُوفِ، وَلاَ أَعْرَفَ
-مِنَ المُنكَرِ...
-  </p>
-</blockquote>
+> وَإِنَّهُ سَيَأْتي عَلَيْكُمْ مِنْ بَعْدِي زَمَانٌ لَيْسَ فِيهِ شَيْءٌ
+> أَخْفَى مِنَ الْحَقِّ، وَلاَ أَظْهَرَ مِنَ الْبَاطِلِ، وَلاَ أَكْثَرَ
+> مِنَ الْكَذِبِ عَلَى اللهِ وَرَسُولِهِ، وَلَيْسَ عِنْدَ أَهْلِ ذلِكَ
+> الزَّمَانِ سِلْعَةٌ أَبْوَرَ مِنَ الْكِتَابِ إِذَا تُلِيَ حَقَّ
+> تِلاَوَتِهِ، وَلاَ أَنْفَقَ مِنْهُ إِذَا حُرِّفَ عَنْ مَوَاضِعِهِ،
+> وَلاَ فِي الْبِلاَدِ شَيءٌ أنْكَرَ مِنَ الْمَعْرُوفِ، وَلاَ أَعْرَفَ
+> مِنَ المُنكَرِ...
 
 *Certainly, a time will come upon you after me when nothing will be more
 concealed than rightfulness, nothing more apparent than wrongfulness and
@@ -872,22 +828,18 @@ vice.*[^14]
 
 In continuation, he (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ نَبَذَ الْكِتَابَ حَمَلَتُهُ، وَتَنَاسَاهُ حَفَظَتُهُ؛
-فَالْكِتَابُ يَوْمَئِذ وَأَهْلُهُ مَنْفِيَّانِ طَرِيَدانِ،
-وَصَاحِبَانِ مُصْطَحِبَانِ فِي طَرِيق وَاحِد لاَ يُؤْوِيهِمَا مُؤْو؛
-فَالْكِتَابُ وَأَهْلُهُ فِي ذلِكَ الزَّمَانِ فِي النَّاسِ وَلَيْسَا
-فِيهِمْ، وَمَعَهُمْ وَلَيْسَا مَعَهُمْ! لاَِنَّ الضَّلاَلَةَ لاَ
-تُوَافِقُ الْهُدَى، وَإِنِ اجْتَمَعَا، فَاجْتَمَعَ الْقَوْمُ عَلَى
-الْفُرْقَةِ، وَافْتَرَقُوا عَنِ الْجَمَاعَةِ، كَأَنَّهُمْ أَئِمَّةُ
-الْكِتَابِ وَلَيْسَ الْكِتَابُ إِمَامَهُمْ، فَلَمْ يَبْقَ عِنْدَهُمْ
-مِنْهُ إِلاَّ اسْمُهُ، وَلاَ يَعْرِفُونَ إِلاَّ خَطَّهُ وَزَبْرَهُ،
-وَمِنْ قَبْلُ مَا مَثَّلُوا بِالصَّالِحِينَ كُلَّ مُثْلَة، وَسَمَّوْا
-صِدْقَهُمْ عَلَى اللهِ فِرْيَةً، وَجَعَلُوا فِي الْحَسَنَةِ العُقُوبةَ
-السَّيِّئَةَ.
-  </p>
-</blockquote>
+> فَقَدْ نَبَذَ الْكِتَابَ حَمَلَتُهُ، وَتَنَاسَاهُ حَفَظَتُهُ؛
+> فَالْكِتَابُ يَوْمَئِذ وَأَهْلُهُ مَنْفِيَّانِ طَرِيَدانِ،
+> وَصَاحِبَانِ مُصْطَحِبَانِ فِي طَرِيق وَاحِد لاَ يُؤْوِيهِمَا مُؤْو؛
+> فَالْكِتَابُ وَأَهْلُهُ فِي ذلِكَ الزَّمَانِ فِي النَّاسِ وَلَيْسَا
+> فِيهِمْ، وَمَعَهُمْ وَلَيْسَا مَعَهُمْ! لاَِنَّ الضَّلاَلَةَ لاَ
+> تُوَافِقُ الْهُدَى، وَإِنِ اجْتَمَعَا، فَاجْتَمَعَ الْقَوْمُ عَلَى
+> الْفُرْقَةِ، وَافْتَرَقُوا عَنِ الْجَمَاعَةِ، كَأَنَّهُمْ أَئِمَّةُ
+> الْكِتَابِ وَلَيْسَ الْكِتَابُ إِمَامَهُمْ، فَلَمْ يَبْقَ عِنْدَهُمْ
+> مِنْهُ إِلاَّ اسْمُهُ، وَلاَ يَعْرِفُونَ إِلاَّ خَطَّهُ وَزَبْرَهُ،
+> وَمِنْ قَبْلُ مَا مَثَّلُوا بِالصَّالِحِينَ كُلَّ مُثْلَة، وَسَمَّوْا
+> صِدْقَهُمْ عَلَى اللهِ فِرْيَةً، وَجَعَلُوا فِي الْحَسَنَةِ العُقُوبةَ
+> السَّيِّئَةَ.
 
 *The holders of the Book will throw it away and its memorizers will
 forget it. In those days the Qur’an and its people will be exiled and
@@ -905,14 +857,10 @@ allegations, and enforcing on virtues the punishments for vice.*[^15]
 
 Then, the Imam (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّكُمْ لَنْ تَعْرِفُوا الرُّشْدَ حَتَّى تَعْرِفُوا
-الَّذِي تَرَكَهُ، وَلَنْ تَأْخُذُوا بِمَيثَاقِ الْكِتَابِ حَتَّى
-تَعْرِفُوا الَّذِي نَقَضَهُ، وَلَنْ تَمَسَّكُوا بِهِ حَتَّى تَعْرِفُوا
-الَّذَي نَبَذَهُ.
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّكُمْ لَنْ تَعْرِفُوا الرُّشْدَ حَتَّى تَعْرِفُوا
+> الَّذِي تَرَكَهُ، وَلَنْ تَأْخُذُوا بِمَيثَاقِ الْكِتَابِ حَتَّى
+> تَعْرِفُوا الَّذِي نَقَضَهُ، وَلَنْ تَمَسَّكُوا بِهِ حَتَّى تَعْرِفُوا
+> الَّذَي نَبَذَهُ.
 
 *You should know that you will never know guidance unless you know who
 has abandoned it; you will never abide by the pledges of the Qur’an
@@ -921,15 +869,11 @@ you know who has forsaken it.*[^16]
 
 At the end of the sermon, he (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-فَالْـتَمِسُوا ذلِكَ مِنْ عِنْدِ أَهْلِهِ، فَإِنَّهُمْ عَيْشُ
-الْعِلْمِ، وَمَوْتُ الْجَهْلِ، هُمْ الَّذِينَ يُخْبِرُكُمْ حُكْمُهُمْ
-عَنْ عِلْمِهِمْ، وَصمْتُهُمْ عَنْ مَنْطِقِهِمْ، وَظَاهِرُهُمْ عَنْ
-بَاطِنِهِمْ، لاَ يُخَالِفُونَ الدِّينَ وَلاَ يَخْتَلِفُونَ فِيهِ،
-فَهُوَ بَيْنَهُمْ شَاهِدٌ صَادِقٌ، وَصَامِتٌ نَاطِقٌ.
-  </p>
-</blockquote>
+> فَالْـتَمِسُوا ذلِكَ مِنْ عِنْدِ أَهْلِهِ، فَإِنَّهُمْ عَيْشُ
+> الْعِلْمِ، وَمَوْتُ الْجَهْلِ، هُمْ الَّذِينَ يُخْبِرُكُمْ حُكْمُهُمْ
+> عَنْ عِلْمِهِمْ، وَصمْتُهُمْ عَنْ مَنْطِقِهِمْ، وَظَاهِرُهُمْ عَنْ
+> بَاطِنِهِمْ، لاَ يُخَالِفُونَ الدِّينَ وَلاَ يَخْتَلِفُونَ فِيهِ،
+> فَهُوَ بَيْنَهُمْ شَاهِدٌ صَادِقٌ، وَصَامِتٌ نَاطِقٌ.
 
 *Seek these things from those who own them because they are the life
 spring of knowledge and death of ignorance. They are the people whose
@@ -1050,5 +994,4 @@ for his didactic epic, Mathnawi-ye Mn‘nawi [Spiritual Couplets].
 [^16]: Ibid.
 
 [^17]: Ibid.
-
 

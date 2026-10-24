@@ -66,4 +66,3 @@ May the Almighty Allah hasten his reappearance.
 
 [^1]: Biharul Anwar; Vol. 36, Pg. 296
 
-

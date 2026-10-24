@@ -5609,4 +5609,3 @@ not take revenge from her in this world, similarly Amir al-Mu’minin also
 won the war and when he caught himyarah he gave respect to her and
 postponed the revenge until the Day of Judgment.
 
-

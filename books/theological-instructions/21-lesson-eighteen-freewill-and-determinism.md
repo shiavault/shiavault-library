@@ -236,4 +236,3 @@ freewill? Why?
 
 7. Does the knowledge of God contradict the thought of freewill? Why?
 
-

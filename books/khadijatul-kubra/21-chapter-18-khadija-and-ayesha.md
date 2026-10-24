@@ -125,4 +125,3 @@ children of Fatima which he was doing all the time, she was further
 embittered being painfully reminded of her own sterility. The relations,
 therefore, of Ayesha and Fatima, were not very "friendly."
 
-

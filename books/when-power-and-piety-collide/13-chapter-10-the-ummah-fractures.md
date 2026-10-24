@@ -1,12 +1,8 @@
 Chapter 10: The Ummah Fractures
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا كُلُّ حِزْبٍ بِمَا
-لَدَيْهِمْ فَرِحُونَ
-  </p>
-</blockquote>
+> فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا كُلُّ حِزْبٍ بِمَا
+> لَدَيْهِمْ فَرِحُونَ
 
 ***But people have cut off their affair (of unity), between them into
 sects: each party rejoices in that which is with itself. (Holy Qur’an,
@@ -181,14 +177,10 @@ Since the Qur’an is written in Arabic, the language is extraordinarily
 rich in its linguistic composition and it uses the precise words,
 structure, and style to express itself clearly.
 
-<blockquote dir="rtl">
-  <p>
-وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
-الْأُولَى وَأَقِمْنَ الصَّلاَةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللهَ
-وَرَسُولَهُ إِنَّمَا يُرِيدُ اللهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
+> الْأُولَى وَأَقِمْنَ الصَّلاَةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللهَ
+> وَرَسُولَهُ إِنَّمَا يُرِيدُ اللهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***And stay quietly in your houses, and make not a dazzling display,
 like that of the former times of Ignorance; and establish regular
@@ -816,5 +808,4 @@ volumes.
 [^37]: ‘Ali Ibn Abi Talib huwa al-Imam al-Haq.
 
 [^38]: Al-Bidayah wal-Nihayah, 10:350
-
 

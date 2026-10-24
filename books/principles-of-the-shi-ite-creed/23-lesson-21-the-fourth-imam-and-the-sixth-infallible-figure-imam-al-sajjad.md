@@ -50,4 +50,3 @@ and derive benefits from it).[^2]
 
 [^2]: Wasa’il al-Shi‘ah, vol.3, p. 582.
 
-

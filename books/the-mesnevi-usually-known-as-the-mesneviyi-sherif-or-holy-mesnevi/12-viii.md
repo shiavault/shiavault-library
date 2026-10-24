@@ -1563,4 +1563,3 @@ promulgation of Islām, see Mr. Clouston's "Arabian Poetry for English
 Readers ," p. 406; London, 1881; Trübner & Co., Ludgate Hill. But Hātim
 lived and died before the Caliphs ruled. He, too, was a poet.
 
-

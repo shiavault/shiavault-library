@@ -32,5 +32,5 @@ him, he is your leader after me).[^32]
 
 **Notes:**
 
-[^32] Ibn Hanbal’s Musnad, vol. 5, 356, Matba‘ah al-Maymaniyyah.
+[^32]: Ibn Hanbal’s Musnad, vol. 5, 356, Matba‘ah al-Maymaniyyah.
 

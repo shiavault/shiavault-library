@@ -141,4 +141,3 @@ As for execrating to them, it is not a public concern and I see no
 reason for an excuse to be brought forward."50
 50- Refer to SHERH AL-NAHAJ (409:3)
 
-

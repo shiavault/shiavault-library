@@ -292,4 +292,3 @@ those are the ones who prosper.'*** **(59:9)"**
 And Allah is Sufficient for us and the Best Trustee, and may Allah bless
 our master Muhammad, the Prophet and his progeny.
 
-

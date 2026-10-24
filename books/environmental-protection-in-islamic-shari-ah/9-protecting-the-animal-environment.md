@@ -252,4 +252,3 @@ Indeed, through these texts, laws and concepts we are able to understand
 the Islamic principles which call for the protection of animals and
 their environment.
 
-

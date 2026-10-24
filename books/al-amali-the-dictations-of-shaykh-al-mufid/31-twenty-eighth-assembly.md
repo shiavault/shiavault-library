@@ -351,4 +351,3 @@ the tree. (May Allah shower them all with His pleasure)."
 
 And may Allah bless out master Muhammad, the Prophet and his progeny.
 
-

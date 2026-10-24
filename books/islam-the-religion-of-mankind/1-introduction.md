@@ -61,9 +61,7 @@ We implore Allah the Almighty to help us and our readers, submit to
 Him, and to create out of our progeny a nation obedient to Him. He is
 the best Guide to the right way.
 
-
 Al-Balagh Foundation
-
 
 **Islam : The Title and the Context**
 
@@ -128,7 +126,6 @@ from them their burden and the fetters (spiritual and social) which were
 upon them; so (as for) those who believe in him, honour him, help him
 and follow the light which has been sent down with him, these it is that
 are the successful." Sura A'raf (7:157)
-
 
 **Islam : The Message of the Prophets**
 
@@ -363,5 +360,4 @@ eras and generations, and is the final stage of mankind's historical
 march. Therefore it is life according to the incumbent upon mankind to
 mould revealed through the final call and the message of Islam, Seal of
 the Prophets.
-
 

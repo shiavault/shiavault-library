@@ -36,4 +36,3 @@ the rules of hijab. The Shi‘i as well as majority of Sunni jurists say
 that the face should be covered only if there is a danger of fitna, a
 situation that could lead to committing a sin.
 
-

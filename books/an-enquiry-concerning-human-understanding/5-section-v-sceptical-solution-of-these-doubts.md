@@ -339,7 +339,6 @@ bonds that unite our thoughts together, and beget that regular train of
 reflection or discourse, which, in a greater or less degree, takes place
 among all mankind.
 
-
 Now here arises a question, on which the solution of the present
 difficulty will depend.
 
@@ -359,12 +358,10 @@ our idea of him is evidently enlivened by the resemblance, and that
 every passion, which that idea occasions, whether of joy or sorrow,
 acquires new force and vigour.
 
-
 In producing this effect, there concur both a relation and a present
 impression. Where the picture bears him no resemblance, at least was not
 intended for him, it never so much as conveys our thought to him: and
 where it is absent, as well as the person, though the mind may pass from
 the thought of the one to that of the other, it feels its idea to be
 rather weakened than enlivened by that transition.
-
 

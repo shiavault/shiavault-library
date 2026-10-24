@@ -124,4 +124,3 @@ al-Askari, and Al-Mahdi the Awaited) are also within the Ahlul-Bayt.
 [^4]: Hadith is the body of traditions concerning the sayings and doings
 of the Prophet Muhammad (S).
 
-

@@ -83,4 +83,3 @@ present it to you as a gift. This is how he accepts the sheep as a
 sacrifice. To offer a sheep instead of Ismail is a "sacrifice", but to
 sacrifice a sheep just for the sake of sacrifice is "butchery"!
 
-

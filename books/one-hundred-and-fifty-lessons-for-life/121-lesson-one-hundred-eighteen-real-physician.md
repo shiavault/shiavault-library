@@ -3,12 +3,8 @@ Lesson One Hundred Eighteen: Real Physician
 
 The Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلطَّبِيب اللّهُ وَ لَعَلَّكَ تَرْفِقُ بِأشْياء تُحْرِقُ بِها
-غَيْرَكَ
-  </p>
-</blockquote>
+> اَلطَّبِيب اللّهُ وَ لَعَلَّكَ تَرْفِقُ بِأشْياء تُحْرِقُ بِها
+> غَيْرَكَ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ may be bitter, they are a much needed wake-up call, a means of remedial
 attention to man’s weaknesses and for removal of his conceit.
 
 [^1]: Nahjul Fasahah, page 406.
-
 

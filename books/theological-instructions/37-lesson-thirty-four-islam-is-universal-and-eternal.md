@@ -197,4 +197,3 @@ kin, clan, inhabitants of Mecca and its neighbourhood.
 Book, but also how this does not excuse them from accepting the
 universal faith.
 
-

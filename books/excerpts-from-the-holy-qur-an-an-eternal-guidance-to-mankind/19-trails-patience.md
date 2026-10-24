@@ -6,14 +6,10 @@ Test by Allah (swt)
 
 **Surah Ali-’Imran, 3:186**
 
-<blockquote dir="rtl">
-  <p>
-لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ
-الَّذِينَ أُوتُواْ الْكِتَابَ مِن قَبْلِكُمْ وَمِنَ الَّذِينَ
-أَشْرَكُواْ أَذًى كَثِيراً وَإِن تَصْبِرُواْ وَتَتَّقُواْ فَإِنَّ
-ذَلِكَ مِنْ عَزْمِ الأُمُورِ
-  </p>
-</blockquote>
+> لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ
+> الَّذِينَ أُوتُواْ الْكِتَابَ مِن قَبْلِكُمْ وَمِنَ الَّذِينَ
+> أَشْرَكُواْ أَذًى كَثِيراً وَإِن تَصْبِرُواْ وَتَتَّقُواْ فَإِنَّ
+> ذَلِكَ مِنْ عَزْمِ الأُمُورِ
 
 Latubla-wun-na fiii ’amwaalikum wa ’anfusikum; wa latasma - ’un-na
 minal-laziina ’uutul-Kitaaba min-qablikum wa minal-laziina ’ashrakuuu
@@ -29,12 +25,8 @@ something to set one’s heart upon.*
 
 **Surah Al – Baqarah, 2:155**
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوفْ وَالْجُوعِ وَنَقْصٍ مِّنَ
-الأَمَوَالِ وَالأنفُسِ وَالثَّمَرَاتِ وَبَشِّرِ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوفْ وَالْجُوعِ وَنَقْصٍ مِّنَ
+> الأَمَوَالِ وَالأنفُسِ وَالثَّمَرَاتِ وَبَشِّرِ الصَّابِرِينَ
 
 Wa lanablu-wan-nakum-bi-shay-’im-minal-’amwaali wal-’anfusi
 was-samaraat: wa bashshiris-Saabiriin.
@@ -66,12 +58,8 @@ Patience in adversity is ordained
 
 **Surah Al i- ‘Imran, 3:200**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ اصْبِرُواْ وَصَابِرُواْ وَرَابِطُواْ
-وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ اصْبِرُواْ وَصَابِرُواْ وَرَابِطُواْ
+> وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 Yaaa-’ayyu-hal-laziina ’aama-nusbiruu wa saabiruu wa raabituu:
 wat-taqul-laaha la-’al-lakum tufli-huun.
@@ -99,13 +87,9 @@ Advised to adopt patience in adversity & praise the Creator by day and by night
 
 **Surah Ta Ha, 20:130**
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ
-طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ آنَاء اللَّيْلِ فَسَبِّحْ
-وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَى
-  </p>
-</blockquote>
+> فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ
+> طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ آنَاء اللَّيْلِ فَسَبِّحْ
+> وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَى
 
 Fasbir ‘alaaa maa yaquu-luuna wa sab-bih bi-Hamdi Rab-bika qabla
 tuluu-‘ish-shamsi wa qabla ghuruu-bihaa; wa min ’aanaaa-’il-layli
@@ -130,5 +114,4 @@ Night Prayers.
 
 ‘The hours of the Night’ comprehends also the time for the ‘Sunnat’ or
 the optional prayers which are offered past midnight i.e. *‘Tahajjud’*.
-
 

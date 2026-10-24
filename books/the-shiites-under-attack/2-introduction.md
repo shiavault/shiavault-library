@@ -86,4 +86,3 @@ They have also convicted millions of contemporary Muslims without
 questioning them and without searching for the truth, which is within
 easy access to any interested person.
 
-

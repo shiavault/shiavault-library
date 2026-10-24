@@ -27,7 +27,6 @@ if you do it not, then you have not delivered His message;...(5:67)"
 Shortly, after returning to Madinah, the Holy Prophet (SA) passed
 away.
 
-
 **THE SETTLEMENT OF THE HOLY PROPHET (SA) IN MADINAH AND THE
 ADVANCEMENT OF ISLAM**
 
@@ -397,5 +396,4 @@ with two valuable things, one of which is the Holy Book (Qur'an) and the
 other my Ahl al-Bayt. These two will never be dissociated from each
 other and you will not be led astray as long as you will remain
 associated with them".
-
 

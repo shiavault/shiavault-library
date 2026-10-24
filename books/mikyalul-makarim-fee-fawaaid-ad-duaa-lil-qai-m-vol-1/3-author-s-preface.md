@@ -1,11 +1,7 @@
 Author’s Preface
 ================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
 
 **In the name of Allah the Beneficent the Merciful**
 
@@ -111,22 +107,14 @@ work on the book in order to
 
 fulfill the vow because the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُواْ بِعَهْدِ اللّهِ إِذَا عَاهَدتُّمْ
-  </p>
-</blockquote>
+> وَأَوْفُواْ بِعَهْدِ اللّهِ إِذَا عَاهَدتُّمْ
 
 ***“And fulfill the covenant of Allah when you have made a covenant.”
 (Surah Nahl 16:91)***
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَوْفُواْ بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً
-  </p>
-</blockquote>
+> وَ أَوْفُواْ بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً
 
 ***“…and fulfill the promise; surely (every) promise shall be questioned
 about.” (Surah Isra 17:34)***
@@ -153,5 +141,4 @@ book.
 
 [^3]: Words within quotes are adapted from the translation of Qur’an
 from Surahs, Haqqah, Ghashiya, Waqiyah, Mutaffifeen and Saffat.
-
 

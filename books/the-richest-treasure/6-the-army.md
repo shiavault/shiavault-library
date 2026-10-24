@@ -54,4 +54,3 @@ counts on his family position; and do not withhold proper rewards from
 one who has done great deeds simply because he holds a low position in
 life.
 
-

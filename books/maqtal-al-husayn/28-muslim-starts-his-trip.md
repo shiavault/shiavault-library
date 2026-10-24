@@ -58,4 +58,3 @@ as a sign of good omen: the killing of his foe.[^5]
 
 [^5]: al-Mufid, Al-Irshad.
 
-

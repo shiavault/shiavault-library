@@ -172,4 +172,3 @@ You my heart would lean to none other than You And these words reflect
 the extent of the sincerity of Imam Husayn alayhis-salam in his love for
 Allah, and his honesty in defending Islam.
 
-

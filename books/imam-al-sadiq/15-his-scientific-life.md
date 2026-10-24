@@ -1743,7 +1743,7 @@ which have mentioned it, that it is a good science Allah gave to
 
 1 al-A’raf, 31.
 
-*<span style="font-size: 16pt">(ahl al Bayt)</span>*. Many traditions
+*(ahl al Bayt)*. Many traditions
 have been mentioned in ‘al- KM’ on divination (al-jafr) which
 (ahlalBayt) had.
 

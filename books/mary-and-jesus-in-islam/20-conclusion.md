@@ -308,4 +308,3 @@ shortcomings; may He take our hands and guide us to what He loves and
 prefers, Allahomma Ameen, Wassalamo Alaikom wa Rahmatullahi wa
 Barakatuh.
 
-

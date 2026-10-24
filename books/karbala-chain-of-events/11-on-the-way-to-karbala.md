@@ -62,4 +62,3 @@ them to stop. When**Imam Husayn** learned that the place was called
 Karbala, he felt he reached the destination and ordered his camp to be
 setup. That day was 2nd of Muharram, Hijri 61.
 
-

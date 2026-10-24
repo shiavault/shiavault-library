@@ -62,7 +62,6 @@ They will say: "Our Lord, we wish Your pleasure!' (The commentary of
 1- Sura 'Al-i-'Imran, No. 3, verse 9
 2- Tafsir-i-Nur-uth-Thaqalayn
 
-
 **Commentary : Verse 54.55 56.57**
 
 56- وَاذْكُرْ فِى الْكِتَابِ إِدْرِيسَ إِنَّهُ كَانَ صِدِّيقاً
@@ -89,7 +88,6 @@ truth'.
 
 Then, in the second verse, Allah, referring to Idris' high rank,
 says:
-
 
 " And We raised him to a lofty station."
 
@@ -140,7 +138,6 @@ Ibn-i-Majeh; Abi-Dawood; Altiyalisi; and the book: Al-Mahdi
 4- Atyab-ul-Bayan, the Commentary
 5- the Commentaryof Nem?nah, vol. 13, p.103
 6- Atyab-ul-Bayan, the Commentary
-
 
 **Commentary : Verse 58**
 
@@ -207,5 +204,4 @@ objective-meaning of this verse."(3)
 Yes, with all greatness and glory they had, they used to prostrate and
 weep for the remembrance of Allah, but the negligent and haughty people,
 with all pollutions they have, refrain from weeping.
-
 

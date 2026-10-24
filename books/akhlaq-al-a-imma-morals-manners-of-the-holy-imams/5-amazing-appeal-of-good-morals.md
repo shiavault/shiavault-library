@@ -54,4 +54,3 @@ Islamic morals the criterion of comparing their differences. Those who
 did this realized very soon what is the difference between genuine and
 artificial pearls.
 
-

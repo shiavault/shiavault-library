@@ -104,4 +104,3 @@ slaves of holy Ahlul Bayt (as) that ‘Killer of Husain were Shias’.
 
 [^5]: Surah Baqarah 2:7
 
-

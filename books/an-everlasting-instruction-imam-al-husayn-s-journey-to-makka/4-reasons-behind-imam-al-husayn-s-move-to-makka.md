@@ -14,11 +14,7 @@ the main reason behind his uprising (in whatever stage it may be) is to
 seek reform in the Muslim nation. Then he describes the path he would
 undertake to meet this aspiration:
 
-<blockquote dir="rtl">
-  <p>
-أُرِيْدُ أَنْ آمُرَ بِالْمَعْرُوْفِ وَ أَنْهَى عَنِ الْمُنْكَرِ
-  </p>
-</blockquote>
+> أُرِيْدُ أَنْ آمُرَ بِالْمَعْرُوْفِ وَ أَنْهَى عَنِ الْمُنْكَرِ
 
 **‘I would like to invite towards good and shun the evil.’**[^1]
 
@@ -55,12 +51,8 @@ important. His flight to the Divine sanctity of safety, perhaps
 demonstrated that his only refuge is Allah in whose house there is
 always safety:
 
-<blockquote dir="rtl">
-  <p>
-فِيهِ آيَات بَيِّنَاتٌ مَّقَامُ إِبْرَهِيمَ وَ مَن دَخَلَهُ كانَ
-ءَامِناً
-  </p>
-</blockquote>
+> فِيهِ آيَات بَيِّنَاتٌ مَّقَامُ إِبْرَهِيمَ وَ مَن دَخَلَهُ كانَ
+> ءَامِناً
 
 ***In it are clear signs and whosoever enters therein is safe (3:97)***
 
@@ -84,12 +76,8 @@ However, 'amn' (safety) can also refer to seeking the shelter of 'one's
 spirit' in Almighty Allah. This meaning can also be understood by
 looking at some recommended supplications to be recited near the Ka'ba:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنَّكَ قُلْتَ وَ مَنْ دَخَلَهُ كانَ آمِناً فَآمِنِّي مِنْ
-عَذَابِ النَّارِ
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنَّكَ قُلْتَ وَ مَنْ دَخَلَهُ كانَ آمِناً فَآمِنِّي مِنْ
+> عَذَابِ النَّارِ
 
 **O Allah, surely You said: “ and whosoever enters therein he/she would
 be safe"; therefore, save me from the punishment of Hell Fire."**[^2]
@@ -111,14 +99,10 @@ should try to understand and heed to the call of Imam al-Husayn ('a)
 which still echoes in the hearts and minds of the truth-seeking human
 beings:
 
-<blockquote dir="rtl">
-  <p>
-فقد علمتم أن رسول الله (صلَّى الله عليه و آله) قد قال في حياته من رأى
-سلطاناً جائراً مستحلاً لحرم الله ناكثاً لعهد الله مخالفاً لسنة رسول
-الله يعمل في عباد الله بالاثم و العدوان ثم لم يغير بقول ولا فعل كان
-حقيقاً على الله أن يدخله مدخله
-  </p>
-</blockquote>
+> فقد علمتم أن رسول الله (صلَّى الله عليه و آله) قد قال في حياته من رأى
+> سلطاناً جائراً مستحلاً لحرم الله ناكثاً لعهد الله مخالفاً لسنة رسول
+> الله يعمل في عباد الله بالاثم و العدوان ثم لم يغير بقول ولا فعل كان
+> حقيقاً على الله أن يدخله مدخله
 
 Indeed you know that the Messenger of Allah (S) said during his
 lifetime:
@@ -129,20 +113,12 @@ God, and treating the creatures of God sinfully and oppressively, and
 does not oppose him with his speech and action, God has a right to bring
 him to the same fate as that of the tyrant…"[^3]
 
-<blockquote dir="rtl">
-  <p>
-ألا ترون أن الحق لا يعمل به و أن الباطل لا ينتهى عنه
-  </p>
-</blockquote>
+> ألا ترون أن الحق لا يعمل به و أن الباطل لا ينتهى عنه
 
 **"Don't you see that what is true and right is not acted upon and what
 is false and wrong is not forbidden?..."** [^4]
 
-<blockquote dir="rtl">
-  <p>
-هل من ذاب يذب عن حرم رسول الله
-  </p>
-</blockquote>
+> هل من ذاب يذب عن حرم رسول الله
 
 **"Is there any protector do defend the sanctuary (haram) of the
 Messenger of Allah?**[^5]
@@ -156,5 +132,4 @@ Messenger of Allah?**[^5]
 [^4]: Ibid, v.75, p. 116
 
 [^5]: Ibid, v.45, p. 45
-
 

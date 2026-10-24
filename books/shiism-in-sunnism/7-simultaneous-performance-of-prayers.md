@@ -24,12 +24,8 @@ in the people’s minds has basically been one of the major problems of
 the Prophets in the course of history. The disbelievers are quoted in
 the Holy Qur’an as saying:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى
-آثَارِهِمْ مُهْتَدُونَ.
-  </p>
-</blockquote>
+> بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى
+> آثَارِهِمْ مُهْتَدُونَ.
 
 ***Nay! They say: We found our fathers on a course, and surely we are
 guided by their footsteps. (44:22)***
@@ -52,11 +48,7 @@ desirable. Some say the hands should be placed above the navel, others
 believe they should be beneath the navel and so on, while the Prophet
 performed prayer five times everyday, before all the Muslims and said:
 
-<blockquote dir="rtl">
-  <p>
-صَلُّوا كَما رَأيْتُمونِي أُصَلّي.
-  </p>
-</blockquote>
+> صَلُّوا كَما رَأيْتُمونِي أُصَلّي.
 
 Pray as you see me pray.[^4]
 
@@ -75,12 +67,8 @@ Prayer Times According to the Holy Qur’an
 
 God, the Exalted, states in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَقِمْ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
-الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا .
-  </p>
-</blockquote>
+> أَقِمْ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
+> الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا .
 
 ***Keep up prayer from the declining of the sun till the darkness of the
 night and the morning recitation; surely the morning recitation is
@@ -125,13 +113,9 @@ Beside what was narrated from Azhari and others in proving this meaning,
 various other traditions have also been narrated in this regard, two of
 which we bring here:
 
-<blockquote dir="rtl">
-  <p>
-عِن ابنِ مِسعود رصي الله عنه قال: قالَ رَسولُ الله صلّى اللهُ عليهِ
-وسلَّم : أتاني جِبرئِيلُ عَليهِ السَّلامُ لِدُلوكِ الشَّمسِ حِينَ
-زالَتْ فَصَلّى بِيَ الظُّهْرَ.
-  </p>
-</blockquote>
+> عِن ابنِ مِسعود رصي الله عنه قال: قالَ رَسولُ الله صلّى اللهُ عليهِ
+> وسلَّم : أتاني جِبرئِيلُ عَليهِ السَّلامُ لِدُلوكِ الشَّمسِ حِينَ
+> زالَتْ فَصَلّى بِيَ الظُّهْرَ.
 
 Ibn Mas’ud—may Allah be pleased with him—said: The Messenger of Allah
 (a.s) said: “(Archangel) Gabriel (a.s) came to me at the time of
@@ -141,12 +125,8 @@ The same concept is narrated from other people such as Ibn Abbas, Anas,
 Umar, Ibn Umar, Abu Barza and others. It is also narrated from the Ahl
 al-Bayt (a.s) that *duluk* means declining, not sunset.
 
-<blockquote dir="rtl">
-  <p>
-(دُلوكُ الشَّمْسِ) زَوالُها، (غَسَقُ اللّيلِ) انتِصافُهُ، (قُرْآنُ
-الفَجْرِ) رَكْعَتا الفَجْرِ.
-  </p>
-</blockquote>
+> (دُلوكُ الشَّمْسِ) زَوالُها، (غَسَقُ اللّيلِ) انتِصافُهُ، (قُرْآنُ
+> الفَجْرِ) رَكْعَتا الفَجْرِ.
 
 ‘Declining of the sun’ is its inclination toward the west and ‘the
 darkness of the night’ is the middle of the night and ‘Qur’an Al-Fajr’
@@ -205,16 +185,12 @@ That is why when Imam Baqir (a.s) was asked about the Prayers ordered by
 Almighty God, he said: “They are five prayers a day.” He was asked
 again: “Has Allah mentioned them in His Book?” Imam Baqir (a.s) stated:
 
-<blockquote dir="rtl">
-  <p>
-نَعَمْ! قالَ اللهُ تَبارَكَ وَتَعالى لِنَبِيِّهِ:”أقِمِ الصَّلَوٰةَ
-لِدُلُوكِ الشَّمْسِ إلَى غَسَقِ اللَّيْلِ.“ (دَلُوكُها) زَوالُها،
-فَفيما بَينَ دُلوكِ الشَّمْسِ إلى غَسَقِ اللّيلِ أرْبَعُ صَلواتٍ
-سَمّاهُنَّ اللهُ وَبَيَّنَهُنَّ وَوَقَّتَهُنَّ. (غَسَقُ اللّيلِ) هُو
-انْتِصافُهُ. ثمَّ قالَ: ”وَقُرآنَ الفَجْرِ إنَّ قُرْآنَ الفَجْرِ كانَ
-مَشْهوداً.“
-  </p>
-</blockquote>
+> نَعَمْ! قالَ اللهُ تَبارَكَ وَتَعالى لِنَبِيِّهِ:”أقِمِ الصَّلَوٰةَ
+> لِدُلُوكِ الشَّمْسِ إلَى غَسَقِ اللَّيْلِ.“ (دَلُوكُها) زَوالُها،
+> فَفيما بَينَ دُلوكِ الشَّمْسِ إلى غَسَقِ اللّيلِ أرْبَعُ صَلواتٍ
+> سَمّاهُنَّ اللهُ وَبَيَّنَهُنَّ وَوَقَّتَهُنَّ. (غَسَقُ اللّيلِ) هُو
+> انْتِصافُهُ. ثمَّ قالَ: ”وَقُرآنَ الفَجْرِ إنَّ قُرْآنَ الفَجْرِ كانَ
+> مَشْهوداً.“
 
 Yes, Almighty God said to His Prophet: “Keep up prayer from the
 declining of the sun until the darkness of the night”. *Duluk* is the
@@ -279,35 +255,23 @@ narrated in other sources.
 
 In *Sahih Muslim*, there is a chapter entitled:
 
-<blockquote dir="rtl">
-  <p>
-بابُ: الجَمْع بَينَ الصّلاتَينِ في الحَضَر
-  </p>
-</blockquote>
+> بابُ: الجَمْع بَينَ الصّلاتَينِ في الحَضَر
 
 Section: Simultaneous Performance of the Two Prayers while not being in
 Travel[^16]
 
 We hereinafter quote some of the traditions mentioned therein:
 
-<blockquote dir="rtl">
-  <p>
-… صَلّى رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم الظُّهْرَ وَالعَصرَ
-جَميعاً وَالمَغْرِبَ وَالعَشاءَ جمِيعاً في غَيرِ خَوفٍ ولا سَفرٍ.
-  </p>
-</blockquote>
+> … صَلّى رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم الظُّهْرَ وَالعَصرَ
+> جَميعاً وَالمَغْرِبَ وَالعَشاءَ جمِيعاً في غَيرِ خَوفٍ ولا سَفرٍ.
 
 The Messenger of Allah (a.s) performed the Noon and Afternoon Prayers
 simultaneously and the Evening and Night Prayers too, while he was not
 in travel nor was he in danger or fear.[^17]
 
-<blockquote dir="rtl">
-  <p>
-صَلّى رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم الظّهرَ والعصْرَ جميعاً
-بِالمَدينَةِ في غَيرِ خَوفٍ ولا سَفَرٍ… أرادَ أنْ لا يُحرِجَ أحداً مِن
-أمَّتِه.
-  </p>
-</blockquote>
+> صَلّى رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم الظّهرَ والعصْرَ جميعاً
+> بِالمَدينَةِ في غَيرِ خَوفٍ ولا سَفَرٍ… أرادَ أنْ لا يُحرِجَ أحداً مِن
+> أمَّتِه.
 
 Abu Zubayr said: Sa’id narrated from Ibn \`Abbas that The Prophet (a.s)
 performed the Noon and Afternoon Prayers together in Medina, and not in
@@ -316,27 +280,19 @@ so?” He answered, “I asked the same question from Ibn Abbas and he
 answered, “The Prophet (a.s) did not want to take his nation into
 trouble.[^18]
 
-<blockquote dir="rtl">
-  <p>
-… جَمعَ رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم بَينَ الظُّهْرِ وَالعَصرِ
-والمَغرِب وَالعِشاءِ في المَدينَةِ في غَير خَوف ولا مَطر… أرادَ أنْ لا
-يُحرِجَ أمَّتَهُ.
-  </p>
-</blockquote>
+> … جَمعَ رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم بَينَ الظُّهْرِ وَالعَصرِ
+> والمَغرِب وَالعِشاءِ في المَدينَةِ في غَير خَوف ولا مَطر… أرادَ أنْ لا
+> يُحرِجَ أمَّتَهُ.
 
 Sa’id Ibn Jubayr says that Ibn Abbas said: “The Prophet (a.s) performed
 the Noon and Afternoon Prayers and Evening and Night Prayers
 simultaneously in Medina, without any fear nor in the raining
 conditions… not to take his nation into trouble.[^19]
 
-<blockquote dir="rtl">
-  <p>
-…صَلَّيْتُ مَع النّبيِّ صلّى اللهُ عليهِ وسلَّم ثَمانِياً جَميعاً
-وَسَبْعاً جَميعاً. قُلتُ: يا أبا الشّعثاء! أظُنُّه أخَّرَ الظُّهرَ
-وَعَجَّلَ العَصْر وأخَّرَ المَغرِبَ وَعجَّل العِشاءَ. قال: وأنا أظُنُّ
-ذاكَ.
-  </p>
-</blockquote>
+> …صَلَّيْتُ مَع النّبيِّ صلّى اللهُ عليهِ وسلَّم ثَمانِياً جَميعاً
+> وَسَبْعاً جَميعاً. قُلتُ: يا أبا الشّعثاء! أظُنُّه أخَّرَ الظُّهرَ
+> وَعَجَّلَ العَصْر وأخَّرَ المَغرِبَ وَعجَّل العِشاءَ. قال: وأنا أظُنُّ
+> ذاكَ.
 
 Amr narrates from Jabir Ibn Zayd that Ibn Abbas said: “We performed
 prayers with the Prophet (a.s), once eight units (four units of the Noon
@@ -350,12 +306,8 @@ The second half of the previous tradition is not more than conjectures
 of the narrator himself; yet, conjecture does not avail against the
 truth, as stipulated in the Holy Qur’an.
 
-<blockquote dir="rtl">
-  <p>
-إنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم صَلّى بِالمَدينَةِ سَبْعاً
-وَثمانِيَةً؛ الظّهْر وَالعَصرَ وَالمَغرِبَ وَالعشاءَ.
-  </p>
-</blockquote>
+> إنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم صَلّى بِالمَدينَةِ سَبْعاً
+> وَثمانِيَةً؛ الظّهْر وَالعَصرَ وَالمَغرِبَ وَالعشاءَ.
 
 The Prophet (a.s) performed seven units and eight units of prayer in
 Medina—the Noon and Afternoon Prayers, and the Evening and Night
@@ -380,12 +332,8 @@ Abdullah Ibn Shaqiq said: I was not satisfied with this claim, so I went
 to Abu Hurayrah and asked him about it. He confirmed the speech of Ibn
 Abbas.
 
-<blockquote dir="rtl">
-  <p>
-…لا أُمَّ لكَ! أتُعَلِّمُنا بِالصَّلاةِ وَكُنّا نَجْمَعُ بَينَ
-الصَّلاتَينِ عَلى عَهْدِ رَسولِ اللهِصلّى اللهُ عليهِ وسلَّم .
-  </p>
-</blockquote>
+> …لا أُمَّ لكَ! أتُعَلِّمُنا بِالصَّلاةِ وَكُنّا نَجْمَعُ بَينَ
+> الصَّلاتَينِ عَلى عَهْدِ رَسولِ اللهِصلّى اللهُ عليهِ وسلَّم .
 
 A man told Ibn Abbas, “Prayer! Prayer!” Ibn Abbas did not say anything.
 The man repeated it three times and Ibn Abbas kept quiet. At the third
@@ -404,12 +352,8 @@ performance of prayers unconditionally and even while not in travel are
 narrated by Bukhari in his *Sahih*. In Chapter: *Time of the Sunset*, we
 read:
 
-<blockquote dir="rtl">
-  <p>
-… صَلّى النّبيُّ صلّى اللهُ عليهِ وسلَّم سَبعاً جمِيعاً وَثمانِياً
-جَميعاً.
-  </p>
-</blockquote>
+> … صَلّى النّبيُّ صلّى اللهُ عليهِ وسلَّم سَبعاً جمِيعاً وَثمانِياً
+> جَميعاً.
 
 Abdullah Ibn Abbas says: The Prophet (a.s) performed seven units (of
 prayer) once and another eight units together.[^25]
@@ -417,11 +361,7 @@ prayer) once and another eight units together.[^25]
 In Chapter: *About The Night Prayer And Its Time And One Who Has Much
 Time For Performing It*, we read:
 
-<blockquote dir="rtl">
-  <p>
-… صَلّى النّبيُّ صلّى اللهُ عليهِ وسلَّم المَغْربَ وَالعِشاءَ.
-  </p>
-</blockquote>
+> … صَلّى النّبيُّ صلّى اللهُ عليهِ وسلَّم المَغْربَ وَالعِشاءَ.
 
 Ibn Umar, Abu Ayyub and Ibn Abbas said that the Prophet (a.s) performed
 the Evening and Night Prayers simultaneously.”[^26]
@@ -429,14 +369,10 @@ the Evening and Night Prayers simultaneously.”[^26]
 In Chapter: *About one who doesn’t perform nafilah (optional prayer)
 after an obligatory prayer*, it is written:
 
-<blockquote dir="rtl">
-  <p>
-…صَلَّيْتُ مَع النّبيِّ صلّى اللهُ عليهِ وسلَّم ثَمانِياً جَميعاً
-وَسَبْعاً جَميعاً. قُلتُ: يا أبا الشّعثاء! أظُنُّه أخَّرَ الظُّهرَ
-وَعَجَّلَ العَصْر وأخَّرَ المَغرِبَ وَعجَّل العِشاءَ. قال: وأنا أظُنُّ
-ذاكَ.
-  </p>
-</blockquote>
+> …صَلَّيْتُ مَع النّبيِّ صلّى اللهُ عليهِ وسلَّم ثَمانِياً جَميعاً
+> وَسَبْعاً جَميعاً. قُلتُ: يا أبا الشّعثاء! أظُنُّه أخَّرَ الظُّهرَ
+> وَعَجَّلَ العَصْر وأخَّرَ المَغرِبَ وَعجَّل العِشاءَ. قال: وأنا أظُنُّ
+> ذاكَ.
 
 Amr narrates from Jabir Ibn Zayd that Ibn Abbas said: “We performed
 prayers with the Prophet (a.s), once eight units (four units of the Noon
@@ -449,13 +385,9 @@ prayer, hurrying in the Night Prayer.” He said, “I think so.”[^27]
 In the same chapter, Part: *Postponing The Noon Prayer To The
 Afternoon*, we read:
 
-<blockquote dir="rtl">
-  <p>
-… إنَّ النّبيّ صلّى اللهُ عليهِ وسلَّم صَلّى بِالمَدينَةِ سَبْعاً
-وَثَمانِيَةً الظُّهْرَ وَالعَصْرَ وَالمَغْرِبَ وَالعِشاءَ. فقال أيّوب:
-لَعَلّه في ليلَةٍ مَطِيرةٍ. قال: عَسى.
-  </p>
-</blockquote>
+> … إنَّ النّبيّ صلّى اللهُ عليهِ وسلَّم صَلّى بِالمَدينَةِ سَبْعاً
+> وَثَمانِيَةً الظُّهْرَ وَالعَصْرَ وَالمَغْرِبَ وَالعِشاءَ. فقال أيّوب:
+> لَعَلّه في ليلَةٍ مَطِيرةٍ. قال: عَسى.
 
 Ibn Abbas said: The Prophet (a.s) performed seven units of the Noon and
 Afternoon Prayers and eight units of the Evening and Night Prayers in
@@ -489,24 +421,16 @@ the case in one of the traditions of Ibn Abbas.
 
 Also, In Part: *The Afternoon Time*, we read:
 
-<blockquote dir="rtl">
-  <p>
-عَن عَائشَةَ إنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم صَلّى العَصْرَ
-وَالشّمْسُ في حُجرَتِها لَمْ يَظْهرِ الفَيءُ مِن حِجْرَتِها.
-  </p>
-</blockquote>
+> عَن عَائشَةَ إنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم صَلّى العَصْرَ
+> وَالشّمْسُ في حُجرَتِها لَمْ يَظْهرِ الفَيءُ مِن حِجْرَتِها.
 
 Aishah narrated that the Prophet (a.s) performed the Afternoon Prayer
 while the sun was shining and the afternoon shade had not appeared in
 his room yet (i.e. the sun was still in the middle of the sky.)[^31]
 
-<blockquote dir="rtl">
-  <p>
-عَن عائِشةَ قالَت: كانَ النّبيُّ صلّى اللهُ عليهِ وسلَّم يُصَلّي
-صَلاةَ العَصْرِ وَالشَّمْسُ طالِعَةٌ في حُجرَتي لَم يَظْهَر الفَيءُ
-بَعدُ.
-  </p>
-</blockquote>
+> عَن عائِشةَ قالَت: كانَ النّبيُّ صلّى اللهُ عليهِ وسلَّم يُصَلّي
+> صَلاةَ العَصْرِ وَالشَّمْسُ طالِعَةٌ في حُجرَتي لَم يَظْهَر الفَيءُ
+> بَعدُ.
 
 The Prophet (a.s) performed the Afternoon Prayer when the sun was still
 shining in my room and there was no sign of the afternoon shade
@@ -529,14 +453,10 @@ prove the permissibility of simultaneous performance of prayers.
 
 In *Musnad Ahmad* *Ibn Hanbal*, we read:
 
-<blockquote dir="rtl">
-  <p>
-…صَلَّيْتُ مَع النّبيِّ صلّى اللهُ عليهِ وسلَّم ثَمانِياً جَميعاً
-وَسَبْعاً جَميعاً. قُلتُ: يا أبا الشّعثاء! أظُنُّه أخَّرَ الظُّهرَ
-وَعَجَّلَ العَصْر وأخَّرَ المَغرِبَ وَعجَّل العِشاءَ. قال: وأنا أظُنُّ
-ذاكَ.
-  </p>
-</blockquote>
+> …صَلَّيْتُ مَع النّبيِّ صلّى اللهُ عليهِ وسلَّم ثَمانِياً جَميعاً
+> وَسَبْعاً جَميعاً. قُلتُ: يا أبا الشّعثاء! أظُنُّه أخَّرَ الظُّهرَ
+> وَعَجَّلَ العَصْر وأخَّرَ المَغرِبَ وَعجَّل العِشاءَ. قال: وأنا أظُنُّ
+> ذاكَ.
 
 Amr narrates from Jabir Ibn Zayd that Ibn Abbas said: “We performed
 prayers with the Prophet (a.s), once eight units (four units of the Noon
@@ -546,12 +466,8 @@ I told Abu Al-Sha’tha’, “I think the Prophet (a.s) delayed the Noon
 Prayer and hurried in the Afternoon Prayer and also delayed the Evening
 prayer, hurrying in the Night Prayer.” He said, “I think so.”[^33]
 
-<blockquote dir="rtl">
-  <p>
-… صَلّى رَسولُ الله صلّى اللهُ عليهِ وسلَّم في المَدينَةِ مُقيماً
-غَيرَ مُسافِرٍ سَبعاً وَثمانِياً.
-  </p>
-</blockquote>
+> … صَلّى رَسولُ الله صلّى اللهُ عليهِ وسلَّم في المَدينَةِ مُقيماً
+> غَيرَ مُسافِرٍ سَبعاً وَثمانِياً.
 
 The Prophet (a.s) prayed seven units together and an eight unit in
 Medina, while he was not a traveler.[^34]
@@ -560,13 +476,9 @@ Medina, while he was not a traveler.[^34]
 
 It is also narrated from Ibn Mas’ud:
 
-<blockquote dir="rtl">
-  <p>
-جَمَعَ النّبيُّ صلّى اللهُ عليهِ وسلَّم (يَعني في المَدينَةِ) بَينَ
-الظُّهرِ وَالعَصْرِ وبَينَ المَغرِبِ وَالعِشاءِ… صَنَعتُ هذا لِئَلاّ
-تُحْرَجَ أمَّتي.
-  </p>
-</blockquote>
+> جَمَعَ النّبيُّ صلّى اللهُ عليهِ وسلَّم (يَعني في المَدينَةِ) بَينَ
+> الظُّهرِ وَالعَصْرِ وبَينَ المَغرِبِ وَالعِشاءِ… صَنَعتُ هذا لِئَلاّ
+> تُحْرَجَ أمَّتي.
 
 The Prophet (a.s) performed the Noon and Afternoon Prayers
 simultaneously and also the Evening and Night Prayers in Medina. He was
@@ -575,13 +487,9 @@ that I will not take my nation in trouble.[^35]
 
 It is also narrated from Ibn Umar:
 
-<blockquote dir="rtl">
-  <p>
-جَمعَ لنا رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم مُقيماً غَيرَ مُسافِرٍ
-بَينَ الظُّهرِ وَالعَصرِ وَالمَغرِبِ… لأنْ لا يُحرِجَ أمَّتَهُ إنْ
-جمَعَ رَجُلٌ.
-  </p>
-</blockquote>
+> جَمعَ لنا رَسولُ اللهِ صلّى اللهُ عليهِ وسلَّم مُقيماً غَيرَ مُسافِرٍ
+> بَينَ الظُّهرِ وَالعَصرِ وَالمَغرِبِ… لأنْ لا يُحرِجَ أمَّتَهُ إنْ
+> جمَعَ رَجُلٌ.
 
 The Prophet (a.s) performed the Noon, Afternoon and Evening Prayers
 together, while he was not traveler. Ibn Umar was asked: “Why did the
@@ -713,11 +621,7 @@ honorable Messenger of Allah (a.s) did not want to take his nation into
 trouble, some people have habitually added some conditions, taking
 themselves and others into trouble, while Almighty God states:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ اللَّهُ بِكُمْ الْيُسْرَ وَلَا يُرِيدُ بِكُمْ الْعُسْرَ .
-  </p>
-</blockquote>
+> يُرِيدُ اللَّهُ بِكُمْ الْيُسْرَ وَلَا يُرِيدُ بِكُمْ الْعُسْرَ .
 
 ***Allah desires ease for you, and He does not desire for you
 difficulty. (2:185)***
@@ -940,5 +844,4 @@ Afternoon Prayer immediately after it.
 [^49]: For the documents of these opinions, see Al-Fiqh ala Madhahib
 Al-Arba’ah; Al-Mughni; Al-Sharh Al-Kabir; Al-Majmu’; Hilyat Al-Awlia’
 and many others.
-
 

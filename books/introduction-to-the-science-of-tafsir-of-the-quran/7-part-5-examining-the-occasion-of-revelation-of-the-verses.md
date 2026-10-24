@@ -12,22 +12,14 @@ go forth and explain the Qur\`an. Rather, since the verses of the
 Qur\`an are a source of guidance, clear proofs, and the distinguisher
 between right and wrong, just as we are told that:
 
-<blockquote dir="rtl">
-  <p>
-هُدىً لِّلنَّاسِ وَبَـيِّـنَاتٍ مِّنَ الْهُدى وَالْفُرْقَانِ...
-  </p>
-</blockquote>
+> هُدىً لِّلنَّاسِ وَبَـيِّـنَاتٍ مِّنَ الْهُدى وَالْفُرْقَانِ...
 
 ***“…(this Qur\`an is a) guide to mankind, and also clear (Signs) for
 guidance and judgement (between right and wrong)…***”[^1]
 
 and:
 
-<blockquote dir="rtl">
-  <p>
-.وَأَنْـزَلْنَا إِلَيْكُمْ نُوراً مُّبِيناً...
-  </p>
-</blockquote>
+> .وَأَنْـزَلْنَا إِلَيْكُمْ نُوراً مُّبِيناً...
 
 ***“…and*** ***We have sent down to you the manifest light (the Noble
 Qur\`an)…”***[^2]
@@ -44,14 +36,10 @@ stated.
 
 It is mentioned in Suratul Tawbah (9) that:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلى الثَّلاَثَةِ الَّذِينَ خُلِّفُوا حَـتَّى إِذَا ضَاقَتْ
-عَلَيْهِمُ الأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنْفُسُهُمْ
-وَظَنُّوا أَنْ لاَّ مَلْجَأَ مِنَ اللٌّهِ إِلاَّ إِلَيْهِ ثُمَّ تَابَ
-عَلَيْهِمْ لِيَتُوبُوا إِنَّ اللٌّهَ هُوَ التَّوَّابُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَعَلى الثَّلاَثَةِ الَّذِينَ خُلِّفُوا حَـتَّى إِذَا ضَاقَتْ
+> عَلَيْهِمُ الأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنْفُسُهُمْ
+> وَظَنُّوا أَنْ لاَّ مَلْجَأَ مِنَ اللٌّهِ إِلاَّ إِلَيْهِ ثُمَّ تَابَ
+> عَلَيْهِمْ لِيَتُوبُوا إِنَّ اللٌّهَ هُوَ التَّوَّابُ الرَّحِيمُ
 
 ***“(He - Allah - turned in mercy also) to the three who were left
 behind; (they felt guilty) to such a degree that the Earth seemed
@@ -108,5 +96,4 @@ even from people who are not trustworthy or reliable!
 [^2]: Suratul Nisa (4), Verse 174
 
 [^3]: Suratul Tawbah (9), Verse 118
-
 

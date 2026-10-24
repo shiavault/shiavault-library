@@ -47,4 +47,3 @@ morals and ethical values that make a perfect human being. However, to
 explain such a vast subject is beyond the scope of this book and not its
 actual aim.
 
-

@@ -63,4 +63,3 @@ the freezing cold, become useless. His companion, Methinan, amputated
 those four fingers while Perry was asleep. On the return voyage all the
 five fingers of his other feet too became useless.
 
-

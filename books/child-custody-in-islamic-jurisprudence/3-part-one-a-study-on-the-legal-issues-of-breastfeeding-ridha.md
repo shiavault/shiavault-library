@@ -1745,4 +1745,3 @@ Tabari, Muhammad b. Jarir, ʿJamiʿ al-Bayanʿ, 2/689-690; Tusi, Abu Jaʿfar
 Muhammad b. Hasan, Al-Tibyan, 2/255; Tusi, Abu Jaʿfar Muhammad b. Hasan,
 Al-Khilaf, 1/365.
 
-

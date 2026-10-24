@@ -11,8 +11,6 @@ Volume 4 & 5
 
 Transliteration of Arabic Letters
 
-  
-
 [Introduction to the Sura Al - Ma'idah](5_000.htm)
 
 Section 1: General Discipline
@@ -262,5 +260,4 @@ Section 16: Teaching of Jesus corrupted after his departure
 [Commentary: verses 117 and 118](../../light_05/005/5_117-118.htm)
 
 [Commentary: verses 119 and 120](../../light_05/005/5_119-120.htm)
-
 

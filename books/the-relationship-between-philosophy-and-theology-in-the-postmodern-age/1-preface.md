@@ -105,4 +105,3 @@ must beware that it takes place in what is often hostile territory, in
 the context of expectations, presuppositions, and standards of reasoning
 many of which are quite foreign to those found in the Islamic sciences.
 
-

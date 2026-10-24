@@ -30,7 +30,6 @@ true of other heavenly scriptures, but is by no means true of the Holy
 Quran, which is the final and ultimate heavenly message and has a great
 deal to say about God and the reality transcending nature.
 
-
 **Purely Rationalistic Problems**
 
 The most basic problem to which the mere study of the world of creation
@@ -154,5 +153,4 @@ have forever remained uninterpreted.
 
 After these brief introductory remarks on the value of these issues, we
 shall go on to cite some relevant examples from the Nahj al-balaghah.
-
 

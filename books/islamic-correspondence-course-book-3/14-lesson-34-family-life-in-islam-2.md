@@ -197,4 +197,3 @@ The Prophet said, “A virtuous child is a flower from the flowers of
 Paradise.” He also said, “Among the good fortunes of a man is the
 virtuous child.”
 
-

@@ -72,4 +72,3 @@ creator is the intermediary, not the Unknownable Absolute, mubdi\`. This
 intermediary is the \`aqlu 'l-awwal. Ibnu 'l-\`Arabi derived much from
 the Ismi'ili concepts, Affifi, 186.
 
-

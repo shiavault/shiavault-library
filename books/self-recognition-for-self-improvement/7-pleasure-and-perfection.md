@@ -220,11 +220,7 @@ proximity, closeness, union and true relationship with Him. In other
 words, he can see his proximity and relationship very clearly and can
 consequently reach the best and most permanent pleasures:
 
-<blockquote dir="rtl">
-  <p>
-“فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ”
-  </p>
-</blockquote>
+> “فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ”
 
 ***"In the seat of honour with a most powerful king (54:55)."***
 
@@ -256,36 +252,24 @@ quadruped.
 
 In Suratul Anfal, He says:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا
-يُؤْمِنُونَ”
-  </p>
-</blockquote>
+> “إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا
+> يُؤْمِنُونَ”
 
 ***"Surely the vilest of animals in Allah's sight are those who
 disbelieve, then they would not believe (8:55)."***
 
 In another verse, He says:
 
-<blockquote dir="rtl">
-  <p>
-“وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ ۖ وَلَوْ
-أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ”
-  </p>
-</blockquote>
+> “وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ ۖ وَلَوْ
+> أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ”
 
 ***“Surely the vilest of animals, in Allah’s sight, are the deaf, the
 dumb, who do not understand (8:22).”***
 
 In chapter Araf, He says:
 
-<blockquote dir="rtl">
-  <p>
-“أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ
-الْغَافِلُونَ…..”
-  </p>
-</blockquote>
+> “أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ
+> الْغَافِلُونَ…..”
 
 ***"... They are as cattle, nay, they are in worse errors; these are the
 heedless ones (7:179)."***
@@ -360,42 +344,26 @@ laugh in a languishing manner at the disappointment of those deceived.
 
 The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-“….. أَوَلَمْ يَتَفَكَّرُوا فِي أَنْفُسِهِمْ ۗ مَا خَلَقَ اللَّهُ
-السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ”
-  </p>
-</blockquote>
+> “….. أَوَلَمْ يَتَفَكَّرُوا فِي أَنْفُسِهِمْ ۗ مَا خَلَقَ اللَّهُ
+> السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ”
 
 ***"Do they not reflect within themselves: Allah did not create the
 heavens and the earth and what is between them two but with
 truth….(30:8).”***
 
-<blockquote dir="rtl">
-  <p>
-“…. وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
-خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ.…”
-  </p>
-</blockquote>
+> “…. وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
+> خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ.…”
 
 ***“… And reflect on the creation of heavens and the earth: Our Lord!
 You have not created this in vain! Glory be to you …..(3:191).”***
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ”
-  </p>
-</blockquote>
+> “وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ”
 
 ***“And we did not create the heaven and the earth and what is between
 them for sport (21:16).”***
 
-<blockquote dir="rtl">
-  <p>
-“أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لَا تُرْجَعُونَ”
-  </p>
-</blockquote>
+> “أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لَا تُرْجَعُونَ”
 
 ***“What! Did you then think that we had created you in vain and that
 you shall not be returned to us? (23:115).”***
@@ -494,12 +462,8 @@ Almighty Allah is that which Allah has shown the people through His
 messengers and through this, He has greatly favoured His servants and
 given them the final notice:
 
-<blockquote dir="rtl">
-  <p>
-“… لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ
-الرُّسُلِ….”
-  </p>
-</blockquote>
+> “… لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ
+> الرُّسُلِ….”
 
 ***"...So that people should have no argument against Allah after the
 (coming of) the messengers...(4:165)."***
@@ -509,49 +473,29 @@ proximity with Allah and connection with the source of Infinite
 knowledge and power. They have given tidings to the people to enjoy
 eternal blessings, infinite pleasures and whatever they wish:
 
-<blockquote dir="rtl">
-  <p>
-“لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ جَزَاءُ
-الْمُحْسِنِينَ”
-  </p>
-</blockquote>
+> “لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ جَزَاءُ
+> الْمُحْسِنِينَ”
 
 ***"They shall have with their lord what they please; that is the reward
 of doers of good (39:34).”***
 
-<blockquote dir="rtl">
-  <p>
-“…فِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ ….”
-  </p>
-</blockquote>
+> “…فِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ ….”
 
 ***"... Therein shall be what their souls yearn after and (wherein) the
 eyes shall delight... (43:71)."***
 
-<blockquote dir="rtl">
-  <p>
-“…فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ”
-  </p>
-</blockquote>
+> “…فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ”
 
 ***"So no soul knows what is hidden for them of that which will refresh
 the eyes... (32:17)."***
 
-<blockquote dir="rtl">
-  <p>
-“لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ”
-  </p>
-</blockquote>
+> “لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ”
 
 ***"They have therein what they wish and with us is more yet
 (50:35)."***
 
-<blockquote dir="rtl">
-  <p>
-“…الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا الْأَرْضَ
-نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ…”
-  </p>
-</blockquote>
+> “…الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا الْأَرْضَ
+> نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ…”
 
 ***"... (All) praise is due to Allah, who has made good to us His
 promise and He has made us inherit the land; we may abide in the garden
@@ -562,13 +506,9 @@ that they remind (the people) that this limited and transient life is
 not man's final abode. It rather is a prelude to reach eternal
 prosperity and it is a bridge to get to an eternal world:
 
-<blockquote dir="rtl">
-  <p>
-”بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا وَالْآخِرَةُ خَيْرٌ وَأَبْقَى
-.إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ صُحُفِ إِبْرَاهِيمَ وَمُوسَى
-“
-  </p>
-</blockquote>
+> ”بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا وَالْآخِرَةُ خَيْرٌ وَأَبْقَى
+> .إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ صُحُفِ إِبْرَاهِيمَ وَمُوسَى
+> “
 
 ***"Nay! You prefer the life of this world, while the Hereafter is
 better and more lasting. Most surely this is in the earlier scriptures,
@@ -578,31 +518,23 @@ As the main reason behind the denial of the disbelievers and the
 rejection of the messengers has been (due to) considering this truth
 improbable:
 
-<blockquote dir="rtl">
-  <p>
-“وَقَالَ الَّذِينَ كَفَرُوا هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ
-يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ
-جَدِيدٍ”
-  </p>
-</blockquote>
+> “وَقَالَ الَّذِينَ كَفَرُوا هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ
+> يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ
+> جَدِيدٍ”
 
 ***"And those who disbelieve say: Shall we point out to you a man who
 informs you that when you are scattered the utmost scattering you shall
 then be most surely (raised) in (to) a new creation (34:7)?"***
 
-<blockquote dir="rtl">
-  <p>
-” زَعَمَ الَّذِينَ كَفَرُوا أَنْ لَنْ يُبْعَثُوا ۚ قُلْ بَلَىٰ
-وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ
-وَذَٰلِكَ عَلَى اللَّهِ يَسِيرٌَ….يَوْمَ يَجْمَعُكُمْ لِيَوْمِ
-الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ
-وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ
-جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا
-ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ َالَّذِينَ كَفَرُوا وَكَذَّبُوا
-بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ خَالِدِينَ فِيهَا ۖ وَبِئْسَ
-الْمَصِيرُ “
-  </p>
-</blockquote>
+> ” زَعَمَ الَّذِينَ كَفَرُوا أَنْ لَنْ يُبْعَثُوا ۚ قُلْ بَلَىٰ
+> وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ
+> وَذَٰلِكَ عَلَى اللَّهِ يَسِيرٌَ….يَوْمَ يَجْمَعُكُمْ لِيَوْمِ
+> الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ
+> وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ
+> جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا
+> ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ َالَّذِينَ كَفَرُوا وَكَذَّبُوا
+> بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ خَالِدِينَ فِيهَا ۖ وَبِئْسَ
+> الْمَصِيرُ “
 
 ***"Those who disbelieve think that they shall never be raised. Say:
 Aye! By my Lord! You shall most certainly be raised, then you shall most
@@ -615,18 +547,14 @@ achievement. And (as for) those who disbelieve and reject our
 communications, they are the inmates of the fire, to abide therein evil
 is the resort (64:7, 9, 10)."***
 
-<blockquote dir="rtl">
-  <p>
- ”وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا
-وَبُكْمًا وَصُمًّا ۖ مَأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ
-زِدْنَاهُمْ سَعِيرًا. ذَٰلِكَ جَزَاؤُهُمْ بِأَنَّهُمْ كَفَرُوا
-بِآيَاتِنَا وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا
-لَمَبْعُوثُونَ خَلْقًا جَدِيدًا. أَوَلَمْ يَرَوْا أَنَّ اللَّهَ
-الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَىٰ أَنْ يَخْلُقَ
-مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَا رَيْبَ فِيهِ فَأَبَى
-الظَّالِمُونَ إِلَّا كُفُورًا“
-  </p>
-</blockquote>
+>  ”وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا
+> وَبُكْمًا وَصُمًّا ۖ مَأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ
+> زِدْنَاهُمْ سَعِيرًا. ذَٰلِكَ جَزَاؤُهُمْ بِأَنَّهُمْ كَفَرُوا
+> بِآيَاتِنَا وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا
+> لَمَبْعُوثُونَ خَلْقًا جَدِيدًا. أَوَلَمْ يَرَوْا أَنَّ اللَّهَ
+> الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَىٰ أَنْ يَخْلُقَ
+> مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَا رَيْبَ فِيهِ فَأَبَى
+> الظَّالِمُونَ إِلَّا كُفُورًا“
 
 ***"... And We will gather them together on the day of resurrection on
 their faces, blind and dumb and deaf; their abode is hell; whenever it
@@ -651,65 +579,37 @@ expressing the sciences and the philosophies while being unschooled, the
 messengers practically proved the possibility of establishing connection
 with divinity and acquiring unseen are mystical sciences:
 
-<blockquote dir="rtl">
-  <p>
-“….وَعَلَّمَ آدَمَ الْأَسْمَاءَ”
-  </p>
-</blockquote>
+> “….وَعَلَّمَ آدَمَ الْأَسْمَاءَ”
 
 ***"And He taught Adam all the names... (2:31)."***
 
-<blockquote dir="rtl">
-  <p>
-“ وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا….”
-  </p>
-</blockquote>
+> “ وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا….”
 
 ***"... And whom We had taught knowledge from Ourselves (18:65)."***
 
-<blockquote dir="rtl">
-  <p>
-“وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا….”
-  </p>
-</blockquote>
+> “وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا….”
 
 ***"... And We granted him wisdom while yet a child (19:12)."***
 
-<blockquote dir="rtl">
-  <p>
-…”قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا. قَالَ
-إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا“
-  </p>
-</blockquote>
+> …”قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا. قَالَ
+> إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا“
 
 ***"... They said: How should we speak to one who was a child in the
 cradle? He said, surely 1 am a servant of Allah; He has given me the
 Book and made me a prophet (19:29 - 30)."***
 
-<blockquote dir="rtl">
-  <p>
-“…وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ
-ۚ…”
-  </p>
-</blockquote>
+> “…وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ
+> ۚ…”
 
 ***"... And I inform you of what you should eat and what you should
 store in your houses... (3:49)."***
 
-<blockquote dir="rtl">
-  <p>
-“…عُلِّمْنَا مَنْطِقَ الطَّيْرِ وَأُوتِينَا مِنْ كُلِّ شَيْءٍ…”
-  </p>
-</blockquote>
+> “…عُلِّمْنَا مَنْطِقَ الطَّيْرِ وَأُوتِينَا مِنْ كُلِّ شَيْءٍ…”
 
 ***"... We have been taught the language of birds, and we have been
 given all things,- (27:16)."***
 
-<blockquote dir="rtl">
-  <p>
-“…وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا…”
-  </p>
-</blockquote>
+> “…وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا…”
 
 ***“…And to each one We gave wisdom and knowledge... (21:79)."***
 
@@ -789,11 +689,7 @@ The Holy Qur'an introduces man as pious by nature and claims that all
 human beings, in a phase of being, have clearly observed their Lord and
 confessed His divinity:
 
-<blockquote dir="rtl">
-  <p>
-“… أَلَسْتُ بِرَبِّكُمْ…”
-  </p>
-</blockquote>
+> “… أَلَسْتُ بِرَبِّكُمْ…”
 
 ***Am I not your Lord? They said: Yes! (7:172)***
 
@@ -801,22 +697,14 @@ The worldly life is for the sake of carrying out the covenant of
 servitude and determining man's fidelity towards this innate promise and
 covenant and finally reaching voluntary development through piety:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ”
-  </p>
-</blockquote>
+> “وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ”
 
 ***"And I have not created the jinn and the men except that they should
 serve Me (51:56)."***
 For this evaluation, various conditions are put forth so that each
 person would freely choose his path:
 
-<blockquote dir="rtl">
-  <p>
-“… لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا…”
-  </p>
-</blockquote>
+> “… لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا…”
 
 ***"... That He might manifest you, which of you is best in action
 (11:7).”***
@@ -830,45 +718,29 @@ and safe path and unto Allah:
 ***"...And those who believe are stronger in love for Allah...
 (2:165).”***
 
-<blockquote dir="rtl">
-  <p>
-“…قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ”
-  </p>
-</blockquote>
+> “…قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ”
 
 ***"Say: If you love Allah, then follow me, Allah will love you
 (3:31).”***
 
-<blockquote dir="rtl">
-  <p>
-”يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ
-وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ
-وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ“
-  </p>
-</blockquote>
+> ”يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ
+> وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ
+> وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ“
 
 ***"With it Allah guides him who will follow His pleasure into the ways
 of safety and brings them out of utter darkness into light by His will
 and guides them to the right path (5:16)."***
 
-<blockquote dir="rtl">
-  <p>
-“…وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ”
-  </p>
-</blockquote>
+> “…وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ”
 
 ***"And whoever submits himself wholly to Allah and he is the doer of
 good (to others), he indeed has taken hold of the firmest thing upon
 which one can lay hold... (31:22)."***
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ
-فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ
-صِرَاطًا مُسْتَقِيمًا
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ
+> فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ
+> صِرَاطًا مُسْتَقِيمًا
 
 ***"Then as for those who believe in Allah and hold fast by Him, He will
 cause them to enter into His mercy and grace and guide them to Himself
@@ -877,12 +749,8 @@ on a right path (4:175)."***
 Such people will finally succeed in meeting the grace of Allah and
 reaching His proximity and being united with their Beloved:
 
-<blockquote dir="rtl">
-  <p>
-"يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ .ارْجِعِي إِلَىٰ رَبِّكِ
-رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي "
-  </p>
-</blockquote>
+> "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ .ارْجِعِي إِلَىٰ رَبِّكِ
+> رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي "
 
 ***"O soul that art at rest! Return to your Lord, well - pleased (with
 him), well - pleasing (Him), so enter among My servants, and enter into
@@ -892,11 +760,7 @@ my garden (89:27-30)."***
 
 ***"In the seat of honour with a Most Powerful King (54:55)."***
 
-<blockquote dir="rtl">
-  <p>
-”وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ. إِلَىٰ رَبِّهَا نَاظِرَة “
-  </p>
-</blockquote>
+> ”وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ. إِلَىٰ رَبِّهَا نَاظِرَة “
 
 ***“On that day, some faces shall be bright, looking to their Lord
 (75:22-23).”***
@@ -906,28 +770,20 @@ to that of Allah and who have no eagerness for His mercy will suffer an
 infinite and painful torment and will be deprived of seeing their innate
 Beloved.
 
-<blockquote dir="rtl">
-  <p>
-”إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ
-الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
-غَافِلُونَ. أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ“
-  </p>
-</blockquote>
+> ”إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ
+> الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا
+> غَافِلُونَ. أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ“
 
 ***"Surely those who do not hope in our meeting and are pleased with
 this world's life and are content with it and those who are heedless of
 our communications. (As for) those, their abode is the fire because of
 what they earned (10: 7-8)."***
 
-<blockquote dir="rtl">
-  <p>
-”قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
-وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
-وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
-إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
-فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ“
-  </p>
-</blockquote>
+> ”قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
+> وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
+> وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
+> إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
+> فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ“
 
 ***"Say: If your fathers and your sons and your brethren and your mates
 and your kinsfolk and property which you have acquired, and the
@@ -935,11 +791,7 @@ slackness of trade which you fear and dwellings which you like, are
 dearer to you than Allah and His messenger and striving in His way, then
 wait till Allah brings about His command... (9:24)."***
 
-<blockquote dir="rtl">
-  <p>
-“كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ”
-  </p>
-</blockquote>
+> “كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ”
 
 ***"Nay! Most surely they shall on that day be debarred from their Lord
 (83:15)."***
@@ -1192,11 +1044,7 @@ think of nothing but satisfying Him:
 "Being united with You is my heartfelt' desire.. and Your satisfaction
 is my objective."
 
-<blockquote dir="rtl">
-  <p>
-“… وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ ۚ…”
-  </p>
-</blockquote>
+> “… وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ ۚ…”
 
 ***"... And best of all is Allah's goodly pleasure... (9:72)."***
 
@@ -1245,5 +1093,4 @@ but worshipping You."
 [^6]: Al-usul al-kafi, Vol2, p 352; weal' Mahasin Barqi.
 
 [^7]: Iddatud Ibn Fand, p 291
-
 

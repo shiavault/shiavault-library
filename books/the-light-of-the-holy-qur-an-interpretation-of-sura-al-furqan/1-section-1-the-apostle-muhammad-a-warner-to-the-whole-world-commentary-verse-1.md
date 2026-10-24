@@ -5,9 +5,7 @@ The Apostle (Muhammad) a Warner to the whole world (Mankind) - There is
 no son nor any partner to Allah - The knowledge accommodated in the
 Qur'an - The Apostle, disbelieved and called an imposter
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 In the Name of Allah, The Beneficent, The Merciful
 
@@ -115,5 +113,4 @@ But some have used it for the Prophet (p.b.u.h.) as being the seal of
 the prophets, for the word /'alamin/ not only is not limited to place,
 but also it is not chronologically limited to a special time and it
 includes all the future generations, too.
-
 

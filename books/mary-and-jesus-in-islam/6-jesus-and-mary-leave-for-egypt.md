@@ -11,7 +11,7 @@ of the Messiah, he wanted to kill him. The Children of Israel saw a star
 according to whose appearance they, utilizing their books, calculated
 the date of his birth. Allah sent an angel to Joseph the
 
-[^1] “Augustus” is his title which means “revered.” His name was
+[^1]: “Augustus” is his title which means “revered.” His name was
 Octavius or Caius Octavius, and he lived from 63 B.C. to 14 A.D. He was
 a contemporary of Jesus Christ and a grand nephew of Julius Caesar. He
 also was the first Roman emperor. (Caius) Julius Caesar (102 B.C. - 44
@@ -26,10 +26,10 @@ Queen Cleopatra of Egypt (69 B.C. - 31 B.C.) at Actium, Greece, on
 September 2, 31 B.C. It was then that he became master of the Roman
 world.
 
-[^2] Or Ashkenazim, one of the two major Jewish sects; the other is the
+[^2]: Or Ashkenazim, one of the two major Jewish sects; the other is the
 Sephardim.
 
-[^3] It was through Marc Antony (83 B.C. - 30 B.C.), a protege of Julius
+[^3]: It was through Marc Antony (83 B.C. - 30 B.C.), a protege of Julius
 Caesar, that Herod (or Herod the Great) secured such a position which he
 maintained from 37 B.C. to 4 B.C. In his last years, he fell a victim to
 insanity, executing his sons Aristobulus, Alexander, and Antipater. He
@@ -43,5 +43,4 @@ was dead. Joseph transported Mary and her son on a donkey till they
 reached a place in Egypt to which the Almighty refers in this verse:
 “And We made the son of Mary and his mother a sign, and We gave them a
 shelter on a lofty ground having meadows and springs” (Qur'an, 23:50).
-
 

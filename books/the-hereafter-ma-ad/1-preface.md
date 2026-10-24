@@ -206,4 +206,3 @@ Sayyid Muhammad Hashim Dastghaib
 
 [^1]: This preface was written on 04/02/1981.
 
-

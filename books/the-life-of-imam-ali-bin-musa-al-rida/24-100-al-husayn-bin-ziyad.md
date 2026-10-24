@@ -1,10 +1,6 @@
 100. Al-husayn Bin Ziyād
 ========================
 
-  
-
-  
-
 Shaykh al-Tūsi numbered him as one of the narrators of Imām al-Ridā,
 peace be on him, and added that he had  the *Book of al-Ridā*, peace be
 on him.[[5]](#_ftn1015)
@@ -21,11 +17,6 @@ Then he and his brother al-Hasan moved to
 ------------------------------------------------------------------------
 
 [[5]](#_F1015) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 al-Ahwāz. Then he moved to the Holy (City) of Qum. He stopped at (the
 House of) al-Hasan b. Abān and died in Qum.
@@ -98,12 +89,6 @@ and Slaughtering).
 
 Answers to the Extremists).
 
-  
-
-  
-
-  
-
 29. Kitāb al-'Ittq (the Book of the Emancipation of
 
 Slaves).
@@ -146,8 +131,6 @@ of Imām al-Ridā, peace be on him.[[6]](#_ftn1021)
 He is trustworthy. Shaykh al-Tūsi numbered him as one of the companions
 of Imām al-Ridā, peace be on him.[[7]](#_ftn1022)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1016) Al-Kashi.  
@@ -157,11 +140,6 @@ of Imām al-Ridā, peace be on him.[[7]](#_ftn1022)
  [[5]](#_F1020) Al-Barqi, Rijāl.  
  [[6]](#_F1021) Al-Tūsi, Rijāl.  
  [[7]](#_F1022) Ibid.  
-  
-
-  
-
-  
 
 108. Al-Husayn Bin Qiyāmā
 -------------------------
@@ -201,19 +179,12 @@ extremist).[[3]](#_ftn1025)"
 He narrated on the authority of Imām al-Ridā, peace be on him, and 'Ali
 b. Ahmed b. Ashyam reported on his authority.[[4]](#_ftn1026)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1023) Al-Kashi.  
  [[2]](#_F1024) Al-Tūsi, Rijāl.  
  [[3]](#_F1025) Ibn Dāwud, Rijāl.  
  [[4]](#_F1026) Mu'jam Rijāl al-Hadith, vol. 6, p. 117.  
-  
-
-  
-
-  
 
 112. Hammād Bin Bakr Bin Mohammed al-Azdi
 -----------------------------------------
@@ -260,11 +231,6 @@ your ransom, supplicate Allah for me in order to provide
  [[2]](#_F1028) Al-Barqi.  
  [[3]](#_F1029) AL-Kashi.  
  [[4]](#_F1030) Al-Najāshi.  
-  
-
-  
-
-  
 
 me with a house, a wife, a son, a retainer and performing the hajj every
 year." So he (the Imām), peace be on him, said: "O Allah, bless Mohammed
@@ -304,19 +270,12 @@ craved for the lawful rights with which they were entrusted. They gave
 something of them to Hamza b. Buzaygh, Ibn Makāri, and Karrām
 al-Khath'ami.[[4]](#_ftn1034)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1031) Al-Kashi.  
  [[2]](#_F1032) Ibid.  
  [[3]](#_F1033) Ibid.  
  [[4]](#_F1034) Ibid.  
-  
-
-  
-
-  
 
 Ibrāhim b. Yahyā b. Abū al-Bilād narrated, saying: [Al-Ridā said:] "What
 did Hamza b. Buzaygh, the wretched one, do?" I (i.e. Ibrāhim b. Yahyā )
@@ -366,11 +325,6 @@ b. Ja'far, Abū Ahmed al-Qazwini. Ibn Nūh has mentioned him
  [[3]](#_F1037) Al-Tūsi, Rijāl.  
  [[4]](#_F1038) Al-Najāshi.  
  [[5]](#_F1039) Mu'jam Rijāl al-Hadith, vol. 7, p. 90.  
-  
-
-  
-
-  
 
 in his (book) *al-Rijāl*. He (Dāwud) has a book on the authority of
 al-Ridā, peace be on him.[[1]](#_ftn1040)
@@ -416,11 +370,6 @@ to me: 'After three days starting (from this
  [[2]](#_F1041) Al-Tūsi, Rijāl.  
  [[3]](#_F1042) Ibid.  
  [[4]](#_F1043) Al-Najāshi.  
-  
-
-  
-
-  
 
 day), Abū Hāshim, Allah will remove eating clay from you.'" Abū Hāshim
 said: "Nothing is more hateful to me than eating clay
@@ -460,19 +409,12 @@ and impudence, and left the people to lead a life of poverty and
 deprivation. As a result, he satirized those kings and moved the
 discontent of the general populace against them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1044) Al-Kashi.  
  [[2]](#_F1045) Mu'jam Rijāl al-Hadith.  
  [[3]](#_F1046) Al-Tūsi, Rijāl.  
  [[4]](#_F1047) Al-Kashi.  
-  
-
-  
-
-  
 
 We will briefly mention the life of Di'bil and give an outline of his
 inspired personality.
@@ -515,16 +457,9 @@ of the  (Shi'ite)  Sect in his (book) al-Amāli.
 
 9. Sa'id b. Sufyān al-Aslami al-Madani, Shaykh al-Tūsi's Amāli, p. 227.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1048) Mu'jam Rijāl al-Hadith, vol. 7, p. 148.  
-  
-
-  
-
-  
 
 10. Mohammed b. Ismā'il.
 
@@ -580,18 +515,11 @@ The book contains other chapters. It is one of the references.
 2*. Kitāb al-Wāhida fi Manāqib al-'Arab wa Mathālibihā* (the Book of the
 One on the good and bad Qualities of the Arabs).[[2]](#_ftn1050)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1049) Al-Ghadir, vol. 2, p. 273. 'Abd al-Sāhib al-Dujayli,
 Diwān Di'bil, pp. 22-24.  
  [[2]](#_F1050) Ibid., pp. 371-372.  
-  
-
-  
-
-  
 
 3. Poetry Divan
 
@@ -632,16 +560,9 @@ Verily he is pure, chaste, purified, and quick toward good
 
 things and blessings.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1051) Al-Fihrast, p. 229.  
-  
-
-  
-
-  
 
 Youth and middle-aged, the best middle-aged and young
 
@@ -698,16 +619,9 @@ denied.
 
 The authority of the chosen one and best of the people is
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1052) Di'bil, Divan, pp. 98-99.  
-  
-
-  
-
-  
 
 after the Prophet, the truthful one, the affectionate.
 
@@ -760,11 +674,6 @@ the Commander of the faithful, peace be on him. Imām 'Ali is
 
 [[1]](#_F1053) Ibid., p. 101.  
  [[2]](#_F1054) Qur'ān, 5, 55.  
-  
-
-  
-
-  
 
 more entitled and appropriate to undertake the caliphate over the
 Muslims than those other than him. That is because Allah, the exalted,
@@ -816,16 +725,9 @@ Islam. So how great his favors toward this religion are! This is an
 example of what Di'bil composed on praising Imām 'Ali, the Commander of
 the faithful, peace be on him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1055) Di'bil, divan, p. 102.  
-  
-
-  
-
-  
 
 ### His Lamenting for al-Husayn
 
@@ -885,12 +787,6 @@ lost the statement of Allah's Messenger through vague
 
 errors.
 
-  
-
-  
-
-  
-
 They displayed the head of al-Husayn on a spear and
 
 drove (his) womenfolk bareheaded and sad.
@@ -945,17 +841,10 @@ Every garden wished that it could be a bed for you and a
 
 place for your grave.[[2]](#_ftn1057)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1056) Ibid., 107.  
  [[2]](#_F1057) Ibid., pp. 99-100.  
-  
-
-  
-
-  
 
 Di'bil criticized the Muslims for their losing their enthusiasm, their
 submission to abasement and disgrace, cranked their necks with yielding
@@ -997,12 +886,6 @@ people and the grave of the most wicked of them; this is
 among the moral lessons.
 
 The nearness to the pure one does not benefit the unclean
-
-  
-
-  
-
-  
 
 one; nor does the nearness to the unclean one harm the
 
@@ -1051,16 +934,9 @@ said:
 
 O soldiers, do not be hopeless; take your salaries
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1058) Ibid., p. 174.  
-  
-
-  
-
-  
 
 and do not be displeased.
 
@@ -1123,12 +999,6 @@ wears a crown, a necklace and a gown.
 
 The authority of the people has become lost when Wasif
 
-  
-
-  
-
-  
-
 and Ashnās[[1]](#_ftn1059) have seized it, and the distress has become
 
 great.[[2]](#_ftn1060)
@@ -1179,19 +1049,12 @@ When al-Wāthiq opened (the letter) and read the poetry lines, he burst
 into anger. He ordered Di'bil to be arrested, but he did not find him
 until he (al-Wāthiq) perished.[[4]](#_ftn1062)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1059) Wasif and Ashnās were two Turkish young men.  
  [[2]](#_F1060) Di'bil, Divan, pp. 129-130  
  [[3]](#_F1061) Ibid., p. 209.  
  [[4]](#_F1062) Ibid.  
-  
-
-  
-
-  
 
 This is an example of his satire, which represents his enthusiasm toward
 the truth, his helping the oppressed and persecuted of his time.
@@ -1234,11 +1097,6 @@ and the sword to be brought in order to behead
 ------------------------------------------------------------------------
 
 [[1]](#_F1063) Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 18, p. 29.  
-  
-
-  
-
-  
 
 him. However, Di'bil denied the poem through which he satirized him. He
 said that one of his opponents had composed the poem and ascribed it to
@@ -1278,19 +1136,12 @@ he adopted in all stages of his life.  
 He narrated on the authority of Imām Abū al-Hasan al-Ridā, peace be on
 him, and 'Ali b. al-Hakam reported on his authority.[[4]](#_ftn1067)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1064) Ibid., p. 60.  
  [[2]](#_F1065) Ibid.  
  [[3]](#_F1066) Wafayāt al-A'yān, vol. 1, 180.  
  [[4]](#_F1067) Mu'jam Rijāl al-Hadith, vol. 7, p. 183.  
-  
-
-  
-
-  
 
 130. Rayyān Bin Shubayb
 -----------------------
@@ -1326,19 +1177,12 @@ for one of his garments and it was brought to him. When he (al-Rayyān)
 went out, I asked him: 'What did he give you?' Suddenly, there was
 thirty dirhams in his hand.[[4]](#_ftn1071)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1068) Al-Najāshi.  
  [[2]](#_F1069) Furū' al-Kāfi, vol. 7, Chapter on Will.  
  [[3]](#_F1070) Al-Najāshi.  
  [[4]](#_F1071) Al-Kashi.  
-  
-
-  
-
-  
 
 132. Zakariya Bin Ādam
 ----------------------
@@ -1379,11 +1223,6 @@ mercy on him on the day when he was born,
 
 [[1]](#_F1072) Al-Najāshi.  
  [[2]](#_F1073) Al-Kashi.  
-  
-
-  
-
-  
 
 the day when he died, and the day when he will be raised from the dead.
 Throughout the days of his lifetime, he lived knowing the truth,
@@ -1417,8 +1256,6 @@ father Jarir, I went in to al-Ridā, peace be on him. He asked Allah to
 have mercy on him, and then he asked me about him from the evening to
 dawn. Then he rose and performed the dawn prayer.[[5]](#_ftn1078)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1074) Ibid.  
@@ -1426,11 +1263,6 @@ dawn. Then he rose and performed the dawn prayer.[[5]](#_ftn1078)"
  [[3]](#_F1076) Mu'jam Rijāl al-Hadith, vol. 7, p. 272.  
  [[4]](#_F1077) Al-Najāshi.  
  [[5]](#_F1078) Al-Kashi.  
-  
-
-  
-
-  
 
 135. Zakariyā Bin 'Abd al-Samad al-Qummi
 ----------------------------------------
@@ -1479,11 +1311,6 @@ al-Qummi
  [[3]](#_F1081) Mu'jam Rijāl al-Hadith.  
  [[4]](#_F1082) Al-Tūsi, Rijāl.  
  [[5]](#_F1083) Al-Najāshi.  
-  
-
-  
-
-  
 
 reported, saying: "I went in to Imām Abū Ja'far II at the end of his
 life and he said: 'May Allah reward Safwān b. Yahyā, Mohammed b. Sinān,
@@ -1523,8 +1350,6 @@ Allah and (Imām) Abū al-Hasan, peace be on them. Both of them are
 trustworthy. He (Sulaymān) has a book (entitled) *Fadl al-Du'ā'*  (the
 Excellence of Supplication).[[5]](#_ftn1088)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1084) Al-Kashi.  
@@ -1532,11 +1357,6 @@ Excellence of Supplication).[[5]](#_ftn1088)
  [[3]](#_F1086) Al-Najāshi.  
  [[4]](#_F1087) Al-Tūsi, Rijāl.  
  [[5]](#_F1088) Al-Najāshi.  
-  
-
-  
-
-  
 
 144. Sulaymān Bin al-Ja'fari
 ----------------------------
@@ -1575,8 +1395,6 @@ father, and Mohammed b. 'Īsā reported on his authority.[[6]](#_ftn1094)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[7]](#_ftn1095)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1089) Mu'jam Rijāl al-Hadith, vol. 8, p. 242.  
@@ -1586,5 +1404,4 @@ peace be on him.[[7]](#_ftn1095)
  [[5]](#_F1093) Ibid.  
  [[6]](#_F1094) Mu'jam Rijāl al-Hadith.  
  [[7]](#_F1095) Al-Tūsi, Rijāl.  
-  
 

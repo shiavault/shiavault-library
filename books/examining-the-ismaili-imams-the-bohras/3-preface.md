@@ -39,4 +39,3 @@ daughters for all their help, support, insight and suggestions.
 [^1]: (swt) indicates Subhana Wa Ta’ala, meaning He is Glorified and
 Exalted
 
-

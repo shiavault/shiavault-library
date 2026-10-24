@@ -75,4 +75,3 @@ universe who can fulfill needs and rescue the afflicted.
 
 [^1]: Al-Tawhid by al-Saduq, new print, p. 231.
 
-

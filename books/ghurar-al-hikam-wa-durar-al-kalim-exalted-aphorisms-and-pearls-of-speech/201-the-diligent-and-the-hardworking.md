@@ -11,4 +11,3 @@ The Diligent And The Hardworking
 
 > 2ـ رُبَّ كادِح لِمَنْ لايَشْكُرُهُ.
 
-

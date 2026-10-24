@@ -4,19 +4,11 @@ Section 2: Mary and Jesus
 Surah Maryam – Verses 16 - 17
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انتَبَذَتْ مِنْ أَهْلِهَا
-مَكَاناً شَرْقِيّاً
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انتَبَذَتْ مِنْ أَهْلِهَا
+> مَكَاناً شَرْقِيّاً
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّخَذَتْ مِن دُونِهِمْ حِجَاباً فَاَرْسَلْنَآ إِلَيْهَا رُوحَنَا
-فَتَمَثَّلَ لَهَا بَشَراً سَوِيّاً
-  </p>
-</blockquote>
+> فَاتَّخَذَتْ مِن دُونِهِمْ حِجَاباً فَاَرْسَلْنَآ إِلَيْهَا رُوحَنَا
+> فَتَمَثَّلَ لَهَا بَشَراً سَوِيّاً
 
 ***16. “And mention in the Book about Mary when she withdrew from her
 family to an eastern place.”***  
@@ -84,24 +76,12 @@ himself to her a perfect man.”***
 Surah Maryam – Verses 18 - 20
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ إِنّـِي أَعُوذُ بِالرَّحْمَنِ مِنكَ إِن كُنتَ تَقِيّاً
-  </p>
-</blockquote>
+> قَالَتْ إِنّـِي أَعُوذُ بِالرَّحْمَنِ مِنكَ إِن كُنتَ تَقِيّاً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّمَآ أَنَاْ رَسُولُ رَبّـِكِ لاَهَبَ لَكِ غُلاَماً زَكِيّاً
-  </p>
-</blockquote>
+> قَالَ إِنَّمَآ أَنَاْ رَسُولُ رَبّـِكِ لاَهَبَ لَكِ غُلاَماً زَكِيّاً
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ أَنَّي يَكُونُ لِي غُلامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ
-أَكُ بَغِيّاً
-  </p>
-</blockquote>
+> قَالَتْ أَنَّي يَكُونُ لِي غُلامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ
+> أَكُ بَغِيّاً
 
 ***18. “She said: ‘Verily I take refuge in the Beneficent (Allah) from
 you! if you are God-fearing.”***  
@@ -172,25 +152,13 @@ me, neither have I been unchaste.”***
 Surah Maryam – Verses 21 - 23
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَذَلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيّـِنٌ وَلِنَجْعَلَهُ
-ءَايَةً لّـِلنَّاسِ وَرَحْمَةً مّـِنَّا وَكَانَ أَمْراً مقْضِيّاً
-  </p>
-</blockquote>
+> قَالَ كَذَلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيّـِنٌ وَلِنَجْعَلَهُ
+> ءَايَةً لّـِلنَّاسِ وَرَحْمَةً مّـِنَّا وَكَانَ أَمْراً مقْضِيّاً
 
-<blockquote dir="rtl">
-  <p>
-فَحَمَلَتْهُ فَانتَبَذَتْ بِهِ مَكَاناً قَصِيّاً
-  </p>
-</blockquote>
+> فَحَمَلَتْهُ فَانتَبَذَتْ بِهِ مَكَاناً قَصِيّاً
 
-<blockquote dir="rtl">
-  <p>
-فَاَجَآءَهَا الْمَـخَاضُ إِلَي جِذْعِ النَّخْلَةِ قَالَتْ يَا
-لَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنتُ نَسْياً مَنْسِيّاً
-  </p>
-</blockquote>
+> فَاَجَآءَهَا الْمَـخَاضُ إِلَي جِذْعِ النَّخْلَةِ قَالَتْ يَا
+> لَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنتُ نَسْياً مَنْسِيّاً
 
 ***21. “He said: ‘So (it will be)’. Your Lord says: ‘It is easy for Me,
 and that We will make him a Sign (miracle) unto the people and a Mercy
@@ -350,19 +318,11 @@ punishment of Hell Fire.”*[^7]
 Surah Maryam – Verses 24 - 25
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَنَادَاهَا مِن تَحْتِهَآ اَلاَّ تَحْزَنِي قَدْ جَعَلَ رَبُّكِ
-تَحْتَكِ سَرِيّاً
-  </p>
-</blockquote>
+> فَنَادَاهَا مِن تَحْتِهَآ اَلاَّ تَحْزَنِي قَدْ جَعَلَ رَبُّكِ
+> تَحْتَكِ سَرِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَهُزّ‌ِي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَباً
-جَنِيّاً
-  </p>
-</blockquote>
+> وَهُزّ‌ِي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَباً
+> جَنِيّاً
 
 ***24. “Then (a voice) called out unto her from beneath her: ‘Grieve
 not! Verily your Lord has made a stream to flow beneath you’.”***  
@@ -457,13 +417,9 @@ and the like of them.[^11]
 Surah Maryam – Verse 26
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكُلِي وَاشْرَبِي وَقَرّ‌ِي عَيْناً فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ
-أَحَداً فَقُولِي إِنّـِي نَذَرْتُ لِلرَّحْمَانِ صَوْماً فَلَنْ
-اُكَلّـِمَ الْيَوْمَ إِنسِيّاً
-  </p>
-</blockquote>
+> فَكُلِي وَاشْرَبِي وَقَرّ‌ِي عَيْناً فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ
+> أَحَداً فَقُولِي إِنّـِي نَذَرْتُ لِلرَّحْمَانِ صَوْماً فَلَنْ
+> اُكَلّـِمَ الْيَوْمَ إِنسِيّاً
 
 ***26. “So eat and drink and refresh your eye; and if you meet any
 mortal, say: ‘Verily I have vowed a fast to the Beneficent (God), so
@@ -670,19 +626,11 @@ stomach.
 Surah Maryam – Verses 27 - 28
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ قَالُوا يَامَرْيَمُ لَقَدْ جِئْتِ
-شَيْئاً فَرِيّاً
-  </p>
-</blockquote>
+> فَاَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ قَالُوا يَامَرْيَمُ لَقَدْ جِئْتِ
+> شَيْئاً فَرِيّاً
 
-<blockquote dir="rtl">
-  <p>
-يَااُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرأَ سَوْءٍ وَمَا كَانَتْ
-اُمُّكِ بَغِيّاً
-  </p>
-</blockquote>
+> يَااُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرأَ سَوْءٍ وَمَا كَانَتْ
+> اُمُّكِ بَغِيّاً
 
 ***27. “Then she brought the child to her people, carrying him (in her
 arms). They said: ‘Verily you have done a very indecent thing’.”***  
@@ -760,19 +708,11 @@ against him.”*[^22]
 Surah Maryam – Verses 29 - 30
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلّـِمُ مَن كَانَ فِي الْمَهْدِ
-صَبِيّاً
-  </p>
-</blockquote>
+> فَاَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلّـِمُ مَن كَانَ فِي الْمَهْدِ
+> صَبِيّاً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنّـِي عَبْدُ اللَّهِ ءَاتَانِيَ الْكِتَابَ وَجَعَلَنِي
-نَبِيّاً
-  </p>
-</blockquote>
+> قَالَ إِنّـِي عَبْدُ اللَّهِ ءَاتَانِيَ الْكِتَابَ وَجَعَلَنِي
+> نَبِيّاً
 
 ***29. “Then Mary pointed to him. They said: ‘How shall we speak to one
 who is (yet) a child in the cradle?’”***  
@@ -827,18 +767,10 @@ a prophet.”***
 Surah Maryam – Verses 31 - 32
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَنِي مُبَارَكاً أَيْنَ مَا كُنتُ وَأَوْصَانِي بِالصَّلاَةِ
-وَالزَّكَاةِ مَادُمْتُ حَيّاً
-  </p>
-</blockquote>
+> وَجَعَلَنِي مُبَارَكاً أَيْنَ مَا كُنتُ وَأَوْصَانِي بِالصَّلاَةِ
+> وَالزَّكَاةِ مَادُمْتُ حَيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَبَرّاً بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّاراً شَقِيّاً
-  </p>
-</blockquote>
+> وَبَرّاً بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّاراً شَقِيّاً
 
 ***31. “And He has made me blessed wherever I may be and He has enjoined
 on me prayer and almsgiving so long as I live.”***  
@@ -970,12 +902,8 @@ kin.”*[^34]
 Surah Maryam – Verse 33
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّلاَمُ عَلَيَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ
-اُبْعَثُ حَيّاً
-  </p>
-</blockquote>
+> وَالسَّلاَمُ عَلَيَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ
+> اُبْعَثُ حَيّاً
 
 ***33. “And peace be on me the day I was born, and the day I die, and
 the day I shall be raised alive.”***
@@ -997,19 +925,11 @@ of death, and the Day of Hereafter.”*[^36]
 Surah Maryam – Verses 34 - 35
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ عِيسَي ابْنُ مَرْيَمَ قَوْلَ الْحَقّ‌ِ الَّذِي فِيهِ
-يَمْتَرُونَ
-  </p>
-</blockquote>
+> ذَلِكَ عِيسَي ابْنُ مَرْيَمَ قَوْلَ الْحَقّ‌ِ الَّذِي فِيهِ
+> يَمْتَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ سُبْحَانَهُ إِذَا قَضَي
-أَمْراً فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ
-  </p>
-</blockquote>
+> مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ سُبْحَانَهُ إِذَا قَضَي
+> أَمْراً فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ
 
 ***34. “This is Jesus, son of Mary, a statement of truth, concerning
 which they doubt.”***  
@@ -1173,12 +1093,8 @@ face.[^37]
 Surah Maryam – Verse 36
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ اللَّهَ رَبّـِي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
-مُّسْتَقِيمٌ
-  </p>
-</blockquote>
+> وَإِنَّ اللَّهَ رَبّـِي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
+> مُّسْتَقِيمٌ
 
 ***36. “And verily Allah is my Lord and your Lord, so worship (only)
 Him. This is a straight path.”***
@@ -1226,19 +1142,11 @@ Messenger, accompanied with worshipping Him, has been introduced as the
 Surah Maryam – Verses 37 - 38
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاخْتَلَفَ الاَحْزَابُ مِن بَيْنِهِمْ فَوَيْلٌ لّـِلَّذِينَ كَفَرُوا
-مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> فَاخْتَلَفَ الاَحْزَابُ مِن بَيْنِهِمْ فَوَيْلٌ لّـِلَّذِينَ كَفَرُوا
+> مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا لَكِنِ الظَّالِمُونَ
-الْيَوْمَ فِي ضَلاَلٍ مُّبِينٍ
-  </p>
-</blockquote>
+> أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا لَكِنِ الظَّالِمُونَ
+> الْيَوْمَ فِي ضَلاَلٍ مُّبِينٍ
 
 ***37. “Then the sects did differ among themselves; and woe to those who
 disbelieved because of presence on the great day.”***  
@@ -1322,18 +1230,10 @@ pity! This awareness will be of no avail to them.
 Surah Maryam – Verses 39 - 40
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الاَمْرُ وَهُمْ فِي
-غَفْلَةٍ وَهُمْ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَأَنذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الاَمْرُ وَهُمْ فِي
+> غَفْلَةٍ وَهُمْ لاَ يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَرِثُ الاَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَرِثُ الاَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ
 
 ***39. “And ware them of the Day of Regret, when the matter shall have
 been decreed while they are (now) in negligence and they do not
@@ -1487,5 +1387,4 @@ Kamil-i-Ibn-i-’Athir, vol.2, p.54 & Bihar-ul-’Anwar, vol.18, p. 415
 [^40]: Tafsir-i-’Atyab-ul-Bayan
 
 [^41]: The commentary of As-Safi, Majma‘-ul-Bayan, and Al-Burhan
-
 

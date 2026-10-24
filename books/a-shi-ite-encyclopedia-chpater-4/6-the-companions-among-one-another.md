@@ -287,7 +287,6 @@ against al- Imam Ali Ibn Abi Talib (AS), whom she NEVER liked? (This is
 known as \`The Battle of the Camel') This is a sign for those who
 reflect.
 
-
 **Side Comments: Responses to Sunni Brothers**
 
 Some Sunni brothers, in response to my article when it was first
@@ -510,7 +509,6 @@ proofs? Are we not using your OWN books as evidence? Question and ask
 for the truth. May Allah (SWT) forgive us our sins, and guide us to that
 which pleases Him (SWT).
 
-
 **The Enemies of Islam as Depicted in Nahjul Balagha**
 
 [ Here is a general description of the enemies of Islam, as well as its
@@ -578,5 +576,4 @@ heritage. Many of you already know the Sunni view of history. I stronly
 urge you to read the Sunni works in history such as of al-Tabari, and
 Syed Amir Ali, to understand the forces that shaped the Muslim world in
 the 1st century AH. They are still alive and kicking today.
-
 

@@ -174,4 +174,3 @@ hundred and fifty of fictitious names of Sahabis (companions of the
 Prophet) invented by Saif are listed in the book Hundred and fifty
 invented Companions.
 
-

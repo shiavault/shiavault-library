@@ -35,4 +35,3 @@ a good keeper,*** ***knowing well,’***[^1] *and what the prophet Hud
 
 [^2]: The Qur’an 7: 68.
 
-

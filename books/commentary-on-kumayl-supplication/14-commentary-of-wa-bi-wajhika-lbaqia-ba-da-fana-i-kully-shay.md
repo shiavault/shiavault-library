@@ -1,11 +1,7 @@
 Commentary of: “Wa bi wajhika’lbaqia ba’da fana’i kully shay”
 =============================================================
 
-<blockquote dir="rtl">
-  <p>
-وَبِوَجْهِكَ الْبَاقِى بَعْدَ فَنَآءِ كُلِّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِوَجْهِكَ الْبَاقِى بَعْدَ فَنَآءِ كُلِّ شَيٍْء
 
 *(I ask You) by Your Face, which subsists after annihilation of all
 things.*
@@ -22,5 +18,4 @@ mortality. Mortality is an attribute of deficiency, while eternity is an
 attribute of perfection. Hence the Absolute Perfection has Absolute
 Eternity, and mortality is the attribute of all the beings and their
 lives.
-
 

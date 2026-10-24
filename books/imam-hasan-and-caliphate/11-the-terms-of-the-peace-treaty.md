@@ -992,4 +992,3 @@ to Baqar Qarshi - 'Hayat al Imam al Hasan bin ‘Ali', vol 2, p.405.
 [^37]: . Taha Husayn - Islamiyat - 'Al Fitnatul Kubra', ‘Ali-o-Nubuwa,
 p.979.
 
-

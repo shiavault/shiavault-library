@@ -427,4 +427,3 @@ Academy, Karachi, 1939; Rida Hamdani, *Jamal al-Din Afghani* (in Urdu),
 Lahore, 1951; Mustafid al-Rahman, *Jamal al-Din Afghani* (in Bengali),
 Dacca, 1955.
 
-

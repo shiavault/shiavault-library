@@ -262,4 +262,3 @@ with members of Basij
 
 [^7]: Sura at-Taubah, Ayah 128
 
-

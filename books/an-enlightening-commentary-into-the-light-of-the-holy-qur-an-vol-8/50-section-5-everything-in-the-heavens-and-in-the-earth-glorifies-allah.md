@@ -4,12 +4,8 @@ Section 5: Everything in the Heavens and in the Earth Glorifies Allah
 Surah Isra’ – Verse 41
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْءَانِ لَيَذَّكَّرُوا وَمَا
-يَزِيدُهُمْ إِلاَّ نُفُوراً
-  </p>
-</blockquote>
+> وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْءَانِ لَيَذَّكَّرُوا وَمَا
+> يَزِيدُهُمْ إِلاَّ نُفُوراً
 
 ***41. “And certainly We have explained (the facts in various ways) in
 this Qur’an so that they may receive admonition, but it does not add to
@@ -60,12 +56,8 @@ expression.
 Surah Isra’ – Verse 42
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّوْ كَانَ مَعَهُ ءَالِهَةٌ كَمَا يَقُولُونَ إِذاً لاَبْتَغَوْا
-إِلَي ذِي الْعَرْشِ سَبِيلاً
-  </p>
-</blockquote>
+> قُل لَّوْ كَانَ مَعَهُ ءَالِهَةٌ كَمَا يَقُولُونَ إِذاً لاَبْتَغَوْا
+> إِلَي ذِي الْعَرْشِ سَبِيلاً
 
 ***42. “Say: ‘If there were (other) gods with Him as they (the pagans)
 claim, then, they would certainly have sought a way unto the Lord of the
@@ -113,11 +105,7 @@ claim, then, they would certainly have sought a way unto the Lord of the
 Surah Isra’ – Verse 43
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَهُ وَتَعَالَي عَمَّا يَقُولُونَ عُلُوّاً كَبِيراً
-  </p>
-</blockquote>
+> سُبْحَانَهُ وَتَعَالَي عَمَّا يَقُولُونَ عُلُوّاً كَبِيراً
 
 ***43. “Glory be to Him and Exalted is He far above from what they say!
 He is High, the Great.”***
@@ -141,13 +129,9 @@ to what they claim.
 Surah Isra’ – Verse 44
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-تُسَبّـِحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالاَرْضُ وَمَن فِيهِنَّ
-وَإِن مِن شَيْءٍ إِلاَّ يُسَبّـِحُ بِحَمْدِهِ وَلَكِن لاَّ تَفْقَهُونَ
-تَسْبِيحَهُمْ إِنَّهُ كَانَ حَلِيماً غَفُوراً
-  </p>
-</blockquote>
+> تُسَبّـِحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالاَرْضُ وَمَن فِيهِنَّ
+> وَإِن مِن شَيْءٍ إِلاَّ يُسَبّـِحُ بِحَمْدِهِ وَلَكِن لاَّ تَفْقَهُونَ
+> تَسْبِيحَهُمْ إِنَّهُ كَانَ حَلِيماً غَفُوراً
 
 ***44. “The seven heavens and the earth, and every being therein,
 celebrate His glory, and there is not single thing but glorifies Him
@@ -243,12 +227,8 @@ Forbearing, Forgiving.”***
 Surah Isra’ – Verse 45
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا قَرَأْتَ الْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لاَ
-يُؤْمِنُونَ بِالاَخِرَةِ حِجَاباً مَسْتُوراً
-  </p>
-</blockquote>
+> وإِذَا قَرَأْتَ الْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لاَ
+> يُؤْمِنُونَ بِالاَخِرَةِ حِجَاباً مَسْتُوراً
 
 ***45. “And when you recite the Qur’an, We place between you, and those
 who do not believe in the Hereafter, a hidden barrier.”***
@@ -295,13 +275,9 @@ own self.
 Surah Isra’ – Verse 46
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا عَلَي قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي
-ءَاذَانِهِمْ وَقْراً وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْءَانِ
-وَحْدَهُ وَلَّوْا عَلَي أَدْبَارِهِمْ نُفُوراً
-  </p>
-</blockquote>
+> وَجَعَلْنَا عَلَي قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي
+> ءَاذَانِهِمْ وَقْراً وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْءَانِ
+> وَحْدَهُ وَلَّوْا عَلَي أَدْبَارِهِمْ نُفُوراً
 
 ***46. “And We have placed coverings on their hearts lest they should
 understand it (the Qur’an) and in their ears a heaviness. And when you
@@ -349,13 +325,9 @@ aversion.”***
 Surah Isra’ – Verse 47
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِ إِذْ يَسْتَمِعُونَ إِلَيْكَ
-وَإِذْ هُمْ نَجْوَي إِذْ يَقُولُ الظَّالِمُونَ إِن تَتَّبِعُونَ إِلاَّ
-رَجُلاً مَسْحُوراً
-  </p>
-</blockquote>
+> نَحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِ إِذْ يَسْتَمِعُونَ إِلَيْكَ
+> وَإِذْ هُمْ نَجْوَي إِذْ يَقُولُ الظَّالِمُونَ إِن تَتَّبِعُونَ إِلاَّ
+> رَجُلاً مَسْحُوراً
 
 ***47. “We are well-aware of what they listen to when they are listening
 to you, and when they are whispering (with each other), when the unjust
@@ -392,12 +364,8 @@ false accusations.
 Surah Isra’ – Verse 48
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-انظُرْ كَيْفَ ضَرَبُوا لَكَ الاَمْثَالَ فَضَلُّوا فَلاَ يَسْتَطِيعُونَ
-سَبِيلاً
-  </p>
-</blockquote>
+> انظُرْ كَيْفَ ضَرَبُوا لَكَ الاَمْثَالَ فَضَلُّوا فَلاَ يَسْتَطِيعُونَ
+> سَبِيلاً
 
 ***48. “(O’ Prophet!) Behold how they strike similitudes for you, so
 they have gone astray, therefore, they cannot find the way (to
@@ -456,18 +424,10 @@ reasoning out of work.
 Surah Isra’ – Verses 49 - 50
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا أَءِذَا كُنَّا عِظَاماً وَرُفَاتاً أَءِنَّا لَمَبْعُوثُونَ
-خَلْقاً جَدِيداً
-  </p>
-</blockquote>
+> وَقَالُوا أَءِذَا كُنَّا عِظَاماً وَرُفَاتاً أَءِنَّا لَمَبْعُوثُونَ
+> خَلْقاً جَدِيداً
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كُونُوا حِجَارَةً أَوْ حَدِيداً
-  </p>
-</blockquote>
+> قُلْ كُونُوا حِجَارَةً أَوْ حَدِيداً
 
 ***49. “And they say: ‘What! When we are bones and (scattered) dust,
 shall we then certainly be raised up into a new creation’?”***  
@@ -523,14 +483,10 @@ we then certainly be raised up into a new creation’?”***
 Surah Isra’ – Verse 51
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوْ خَلْقاً مّـِمَّا يَكْبُرُ فِي صُدُورِكُمْ فَسَيَقُولُونَ مَن
-يُعِيدُنَا قُلِ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ فَسَيُنْغِضُونَ
-إِلَيْكَ رُؤُوسَهُمْ وَيَقُولُونَ مَتَي هُوَ قُلْ عَسَي أَن يَكُونَ
-قَرِيباً
-  </p>
-</blockquote>
+> أَوْ خَلْقاً مّـِمَّا يَكْبُرُ فِي صُدُورِكُمْ فَسَيَقُولُونَ مَن
+> يُعِيدُنَا قُلِ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ فَسَيُنْغِضُونَ
+> إِلَيْكَ رُؤُوسَهُمْ وَيَقُولُونَ مَتَي هُوَ قُلْ عَسَي أَن يَكُونَ
+> قَرِيباً
 
 ***51. “Or any (other) creature harder in your minds!’ They will
 immediately say: ‘Who will return us?’ Say: ‘He Who created you the
@@ -593,12 +549,8 @@ evaluation of the acts of human beings.
 Surah Isra’ – Verse 52
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِن
-لَّبِثْتُمْ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِن
+> لَّبِثْتُمْ إِلاَّ قَلِيلاً
 
 ***52. “A day when He will call you forth, then you shall answer with
 His praise, yet thinking that you have tarried but a little while (in
@@ -650,5 +602,4 @@ further information.
 [^8]: Surah Az-Zumar, No. 39, verse 45
 
 [^9]: Surah Al-Muddaththir, No. 74, verse 50
-
 

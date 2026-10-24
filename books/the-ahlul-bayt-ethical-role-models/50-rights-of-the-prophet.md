@@ -191,13 +191,9 @@ submit to that whichever is authentically- related to him.”
 I asked: “How should we bless Muhammad and his family?” The Imam (a)
 replied: “You should say:
 
-<blockquote dir="rtl">
-  <p>
-صَلَواتُ اللهِ وصَلَوات مَلاءِكَتِهِ وَأنْبِياءِهِ وَرُسُلِهِ وَجَميعِ
-خَلْقِهِ عَلى مُحَمّدٍ وَآلِ مُحَمّدٍ وَالسّلامُ عَلَيْهِ وَعَلَيْهِمَ
-وَرَحْمَةُ اللهِ وَبَرَكاتُهُ
-  </p>
-</blockquote>
+> صَلَواتُ اللهِ وصَلَوات مَلاءِكَتِهِ وَأنْبِياءِهِ وَرُسُلِهِ وَجَميعِ
+> خَلْقِهِ عَلى مُحَمّدٍ وَآلِ مُحَمّدٍ وَالسّلامُ عَلَيْهِ وَعَلَيْهِمَ
+> وَرَحْمَةُ اللهِ وَبَرَكاتُهُ
 
 ‘The blessings of Allah and the blessings of His angels, prophets,
 messengers, and all creatures be upon Muhammad and the family of
@@ -475,5 +471,4 @@ al-Mufid’s al-Majalis).
 this narration is recorded).
 
 [^24]: Quoted from Sharafuddin’s al-Muraja’at.
-
 

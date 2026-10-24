@@ -15,4 +15,3 @@ remains peaceful and enjoys ease.
 [^1]: Meaning takes power through the support of those who are ready to
 fight alongside him for rightful cause.
 
-

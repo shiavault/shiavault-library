@@ -229,4 +229,3 @@ Sharh Nahj al-Balāghah, vol. 2, p. 58.
 [^10]: Tārīkh-e Tabarī, vol. 4, p. 1880; Ibn Athīr, Al-Kāmil, vol. 2, p.
 402; Al-Istī‘āb, vol. 1 p 400; Tabaqāt, vol. 4, p. 99.
 
-

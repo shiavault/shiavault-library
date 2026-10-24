@@ -69,4 +69,3 @@ Wa salaam,
 
 [^1]: Al-Razi, F. D. Tafsir al-Kabir, v. 27, p.166.
 
-

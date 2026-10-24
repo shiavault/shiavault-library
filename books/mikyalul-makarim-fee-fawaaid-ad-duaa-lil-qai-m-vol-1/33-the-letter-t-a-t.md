@@ -34,4 +34,3 @@ be provided, if Allah, the High wills.
 
 [^2]: Biharul Anwar; Vol. 2, Pg. 112
 
-

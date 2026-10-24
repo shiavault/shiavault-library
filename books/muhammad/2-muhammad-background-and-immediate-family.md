@@ -1246,4 +1246,3 @@ crescent.
 **A Tent**  
  It was called Ar-Rukn.
 
-

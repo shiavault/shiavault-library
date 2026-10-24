@@ -6,14 +6,10 @@ Bayt (a.s.).
 
 Allah Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي
-شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنتُمْ تُؤْمِنُونَ
-بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي
+> شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنتُمْ تُؤْمِنُونَ
+> بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا.
 
 ***O you who believe! obey Allah and obey the Apostle and those in
 authority (Ulil Amr) from among you; then if you quarrel about anything,
@@ -22,15 +18,11 @@ day; this is better and very good in the end. (Sura Nisa 4:59)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءَهُمْ أَمْرٌ مِنَ الْأَمْنِ أَوْ الْخَوْفِ أَذَاعُوا بِهِ
-وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الْأَمْرِ مِنْهُمْ
-لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ وَلَوْلَا فَضْلُ
-اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَاتَّبَعْتُمْ الشَّيْطَانَ إِلَّا
-قَلِيلًا.
-  </p>
-</blockquote>
+> وَإِذَا جَاءَهُمْ أَمْرٌ مِنَ الْأَمْنِ أَوْ الْخَوْفِ أَذَاعُوا بِهِ
+> وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الْأَمْرِ مِنْهُمْ
+> لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ وَلَوْلَا فَضْلُ
+> اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَاتَّبَعْتُمْ الشَّيْطَانَ إِلَّا
+> قَلِيلًا.
 
 ***And when there comes to them news of security or fear they spread it
 abroad; and if they had referred it to the Apostle and to those in
@@ -39,14 +31,10 @@ of it would have known it... (Sura Nisa :83)***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ
-مَنْ صَدَّ عَنْهُ وَكَفَى بِجَهَنَّمَ سَعِيرًا.
-  </p>
-</blockquote>
+> أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ
+> مَنْ صَدَّ عَنْهُ وَكَفَى بِجَهَنَّمَ سَعِيرًا.
 
 ***Or do they envy the people for what Allah has given them of His
 grace? But indeed We have given to Ibrahim’s children the Book and the
@@ -179,12 +167,8 @@ Kulaini and Ayyashi have narrated from Zaid bin Muawiyah that he said: I
 asked for the explanation of this verse from Imam Baqir (a.s.). He began
 explaining the preceding verses viz.:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنْ الْكِتَابِ
-يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ.
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنْ الْكِتَابِ
+> يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ.
 
 ***Have you not seen those to whom a portion of the Book has been given?
 They believe in idols (jibt) and false deities (taghoot). (Sura Nisa
@@ -202,13 +186,9 @@ companions. The Hazrat said: This means those unjust Caliphs and Imams
 who call people towards Hell and who say that this group is more guided
 than the group of Aale Muhammad.
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ لَعَنَهُمْ اللَّهُ وَمَنْ يَلْعَنْ اللَّهُ فَلَنْ
-تَجِدَ لَهُ نَصِيرًا. أَمْ لَهُمْ نَصِيبٌ مِنْ الْمُلْكِ فَإِذًا لَا
-يُؤْتُونَ النَّاسَ نَقِيرًا.
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ لَعَنَهُمْ اللَّهُ وَمَنْ يَلْعَنْ اللَّهُ فَلَنْ
+> تَجِدَ لَهُ نَصِيرًا. أَمْ لَهُمْ نَصِيبٌ مِنْ الْمُلْكِ فَإِذًا لَا
+> يُؤْتُونَ النَّاسَ نَقِيرًا.
 
 ***Those are they whom Allah has cursed, and whomever Allah curses you
 shall not find any helper for him. Or have they a share in the kingdom?
@@ -219,11 +199,7 @@ The Hazrat said: Here Naas (people) means us Ahlul Bayt (a.s.) whom they
 will not give anything and what ‘Naqeer’ means is the tiny dot which is
 found on the seed of a date fruit.
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ.
-  </p>
-</blockquote>
+> أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ.
 
 ***Or do they envy the people for what Allah has given them of His
 grace? (Sura Nisa:54)***
@@ -238,12 +214,8 @@ hereafter, that the Hazrat said that it means us and that people envy us
 because Allah has reserved Imamate for us and has not given it to anyone
 else.
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.
-  </p>
-</blockquote>
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.
 
 ***But indeed We have given to Ibrahim’s children the Book and the
 wisdom, and We have given them a grand kingdom. (Sura Nisa 4:54)***
@@ -253,12 +225,8 @@ Imams from the progeny of Ibrahim. Now when people accept it in the
 matter of progeny of Ibrahim, why they do not accept it for the progeny
 of Muhammad!
 
-<blockquote dir="rtl">
-  <p>
-فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ وَكَفَى
-بِجَهَنَّمَ سَعِيرًا.
-  </p>
-</blockquote>
+> فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ وَكَفَى
+> بِجَهَنَّمَ سَعِيرًا.
 
 ***So of them is he who believes in him, and of them is he who turns
 away from him, and hell is sufficient to burn. (Sura Nisa 4:55)***
@@ -274,11 +242,7 @@ that they are us and so it is necessary for us that the earlier Imam
 from us should hand over the books, the knowledge and the Prophet’s arms
 to the following Imam.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ.
-  </p>
-</blockquote>
+> وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ.
 
 ***And that when you judge between people, you judge with justice. (Sura
 Nisa 4:58)***
@@ -351,12 +315,8 @@ authority (Ulil Amr) from among you. (Sura Nisa 4:59)***
 
 And the people regarding whom He said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.
 
 ***Only Allah is your Guardian and His Apostle and those who believe,
 those who keep up prayers and pay the poor-rate while they bow. (Sura
@@ -376,14 +336,10 @@ Wilayat which Allah has ordained and it is the Wilayat of Aale Muhammad
 be adhered to and which could be an argument? The Hazrat said: Why not?
 It is Allah’s words:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي
-شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنتُمْ تُؤْمِنُونَ
-بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي
+> شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنتُمْ تُؤْمِنُونَ
+> بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا.
 
 ***O you who believe! obey Allah and obey the Apostle and those in
 authority (Ulil Amr) from among you; then if you quarrel about anything,
@@ -571,12 +527,8 @@ on this subject but I have considered these sufficient.
 Ayyashi has reported that Dawood bin Farqad (a.s.) told Imam Sadiq
 (a.s.) that according to Allah’s words:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ
-وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ.
-  </p>
-</blockquote>
+> قُلْ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ
+> وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ.
 
 ***Say: O Allah, Master of the Kingdom! Thou givest the kingdom to
 whomsoever Thou pleasest and takest away the kingdom from whomsoever
@@ -592,35 +544,23 @@ Likewise the Imam Sadiq (a.s.) is reported to have said that Allah
 taught His Messenger discipline, according to his wish and love. Then,
 told him:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلى خُلُقٍ عَظِيمٍ.
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلى خُلُقٍ عَظِيمٍ.
 
 ***And most surely you conform (yourself) to sublime morality. (Sura
 Qalam 68:26)***
 
 Thereafter, addressing the people He said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانْتَهُوا.
-  </p>
-</blockquote>
+> وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانْتَهُوا.
 
 ***And whatever the Apostle gives you, accept it, and from whatever he
 forbids you, keep back. (Sura Hashr 59:7)***
 
 Then He says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِعْ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ وَمَنْ تَوَلَّى فَمَا
-أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا.
-  </p>
-</blockquote>
+> مَنْ يُطِعْ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ وَمَنْ تَوَلَّى فَمَا
+> أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا.
 
 ***Whoever obeys the Apostle, he indeed obeys Allah, and whoever turns
 back, so We have not sent you as a keeper over them. (Sura Nisa 4:80)***
@@ -636,11 +576,7 @@ has not given any good to the one who opposes us.
 
 In the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ.
-  </p>
-</blockquote>
+> وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ.
 
 ***And Allah grants His kingdom to whom He pleases, (Sura Baqarah
 2:247)***
@@ -652,11 +588,7 @@ in our praise.
 Furat has, in his *Tafsir*, quoted Imam Sadiq (a.s.), in explanation of
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا.
-  </p>
-</blockquote>
+> وَمَنْ يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا.
 
 ***And whoever obeys Allah and His Apostle, he indeed achieves a mighty
 success. (Sura Ahzab 33:7)***
@@ -667,14 +599,10 @@ and, after him, the Imams.
 It is mentioned in the Tafsir of Muhammad bin Ayyash, about the meaning
 of the verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِنْ تَوَلَّوا
-فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَا حُمِّلْتُمْ وَإِنْ
-تُطِيعُوهُ تَهْتَدُوا وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ
-الْمُبِينُ.
-  </p>
-</blockquote>
+> قُلْ أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِنْ تَوَلَّوا
+> فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَا حُمِّلْتُمْ وَإِنْ
+> تُطِيعُوهُ تَهْتَدُوا وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ
+> الْمُبِينُ.
 
 ***Say: Obey Allah and obey the Apostle; but if you turn back, then on
 him rests that which is imposed on him and on you rests that which is
@@ -700,5 +628,4 @@ obligatory for the Prophet except to convey the divine message.
 [^1]: The writer says: The Hazrat means to convey that if Ulil Amr is
 not at the end then if would mean that the Ummah can dispute with them
 and this is in conflict with what is said in the beginning of the verse.
-
 

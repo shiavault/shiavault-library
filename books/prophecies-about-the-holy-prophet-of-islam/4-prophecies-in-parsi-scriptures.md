@@ -42,4 +42,3 @@ sacred places of the Zoroastrians and the neighbouring territories.
 Their prophet will be an eloquent man, and his message will be
 well-connected.”
 
-

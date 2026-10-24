@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا عِنْدَ اللهِ خَيْرٌ وَ أََبْقىَ أَ فَلاَ تَعقِلُونَ
-  </p>
-</blockquote>
+> وَ مَا عِنْدَ اللهِ خَيْرٌ وَ أََبْقىَ أَ فَلاَ تَعقِلُونَ
 
 *“And whatever is with Allah is better and more lasting; do you not then
 understand.”*[^1]
 
 Imam Sadiq (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ بَلَغَ جَـمِيعُ الْعَابِدِينَ فِي فَضْلِ عِبَادَتِهِمْ ماَ بَلَغَ
-الْعَاقِلُ.
-  </p>
-</blockquote>
+> لاَ بَلَغَ جَـمِيعُ الْعَابِدِينَ فِي فَضْلِ عِبَادَتِهِمْ ماَ بَلَغَ
+> الْعَاقِلُ.
 
 *“All the worshippers, despite the excellence of their worship, do not
 achieve what a person with intellect achieves.”*[^2]
@@ -68,11 +60,7 @@ It was not long before the news of this innovation reached the ears of
 the people of Iraq prompting some of them to question the Commander of
 the Faithfuls(a.s) about it whereupon the Imam (a.s) replied:
 
-<blockquote dir="rtl">
-  <p>
-اَلقَرعُ لَيسَ يُذَكَّى فَكُلُوه
-  </p>
-</blockquote>
+> اَلقَرعُ لَيسَ يُذَكَّى فَكُلُوه
 
 “It is not required to slaughter a gourd in order to eat it. Be wary,
 lest the Satan takes away your intellect and satanic ideas leave you
@@ -281,5 +269,4 @@ should not be compared to the others.
 
 [^11]: Shagirdan-e-Maktab-e-Aimmah, pg. 262; Qamus al-Rijal, vol. 2, pg.
 252
-
 

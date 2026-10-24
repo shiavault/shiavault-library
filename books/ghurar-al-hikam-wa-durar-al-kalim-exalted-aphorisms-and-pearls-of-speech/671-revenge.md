@@ -24,14 +24,9 @@ Revenge
 world and loses the reward of the Hereafter.
 
 > 5ـ مَنِ انْتَقَمَ مِنَ الجاني أبْطَلَ فَضْلَهُ فِي الدُّنْيا وفاتَهُ
-<blockquote dir="rtl">
-  <p>
-ثَوابُ الآخِرَةِ.
-  </p>
-</blockquote>
+> ثَوابُ الآخِرَةِ.
 
 6. Being hasty in taking revenge is from the traits of the wicked.
 
 > 6ـ مُعاجَلَةُ الاِنْتِقامِ مِنْ شِيَمِ اللِّئامِ.
-
 

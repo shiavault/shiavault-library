@@ -30,4 +30,3 @@ Maytham's shrine.
 
 ![](http://beta.al-islam.org/sites/default/files/pg14a.jpg)
 
-

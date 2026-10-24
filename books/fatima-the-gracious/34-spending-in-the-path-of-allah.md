@@ -314,4 +314,3 @@ be (an occasion) for thy distress.' Because the Prophet would pray for
 long hours, Allah, the Exalted, revealed this verse to him as relief,
 and comfort."
 
-

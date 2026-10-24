@@ -712,4 +712,3 @@ favourites. Prophets are the most favoured ones, therefore, any prayee
 that uses their prayer as a form of mediation is blessed with immediate
 acceptance.
 
-

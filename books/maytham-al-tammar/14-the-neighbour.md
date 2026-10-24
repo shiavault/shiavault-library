@@ -22,4 +22,3 @@ for it!*
 Thus, people knew the secret of Maytham's visit to the date palm
 throughout the long years.
 
-

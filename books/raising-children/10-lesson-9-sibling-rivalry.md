@@ -178,4 +178,3 @@ Wise Words
 1. Treat your children equally when giving them presents*.*  
  Holy Prophet (S)
 
-

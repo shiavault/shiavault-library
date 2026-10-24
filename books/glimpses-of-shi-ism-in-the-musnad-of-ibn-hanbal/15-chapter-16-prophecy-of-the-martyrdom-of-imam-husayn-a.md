@@ -50,5 +50,5 @@ and writes that Nujayy is not the only one to narrate this from Imam
 
 **Notes:**
 
-[^61] Ibid, hadith no. 6480 (Ahmad Sha-kir).
+[^61]: Ibid, hadith no. 6480 (Ahmad Sha-kir).
 

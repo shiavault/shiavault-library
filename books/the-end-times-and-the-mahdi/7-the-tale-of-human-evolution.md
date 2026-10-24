@@ -207,7 +207,6 @@ Almighty Allah, and fear and seek refuge in Him, for He squeezes the
 entire universe in a pitch-dark place of a few cubic centimeters in a
 three-dimensional, colored, shadowy, and luminous form.
 
-
 **A Materialist Faith**
 
 The information we have presented so far shows us that the theory of
@@ -357,5 +356,4 @@ as the worst deceit and the most terrible spell in the world. That spell
 is already rapidly beginning to be lifted from the shoulders of people
 all over the world. Many people who see its true face are wondering with
 amazement how they could ever have been taken in by it.
-
 

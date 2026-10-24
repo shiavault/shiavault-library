@@ -6,19 +6,11 @@ Surah Al-‘Ankabut, Section 5: To Argue in the Best Way Possible
 Surah Al-‘Ankabut, Chapter 29 - Verse 45
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-اتْلُ مَآ اُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلاَةَ إِنَّ
-الصَّلاَةَ تَنْهَي عَنِ الْفَحْشَآءِ وَالْمُنكَرِ وَلَذِكْرُ اللَّهِ
-أَكْبَرُ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ
-  </p>
-</blockquote>
+> اتْلُ مَآ اُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلاَةَ إِنَّ
+> الصَّلاَةَ تَنْهَي عَنِ الْفَحْشَآءِ وَالْمُنكَرِ وَلَذِكْرُ اللَّهِ
+> أَكْبَرُ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -436,14 +428,10 @@ man from committing sins and hinder him from kinds of mischief.”*[^21]
 Surah Al-‘Ankabut - Verse 46
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُجَادِلُوا أَهْلَ الْكِتَابِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
-إِلاَّ الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا ءَامَنَّا بِالَّذِي
-اُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ
-وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ
-  </p>
-</blockquote>
+> وَلاَ تُجَادِلُوا أَهْلَ الْكِتَابِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
+> إِلاَّ الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا ءَامَنَّا بِالَّذِي
+> اُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ
+> وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ
 
 ***46. “And do not dispute with the People of the Book save in the best
 way, except for those of them who act unjustly, and say: ‘We believe in
@@ -580,13 +568,9 @@ tree…’”***[^24][^25]
 Surah Al-‘Ankabut - Verse 47
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ الْكِتَابَ فَالَّذِينَ ءَاتَيْنَاهُمُ
-الْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَؤُلاَءِ مَن يُؤْمِنُ بِهِ وَمَا
-يَجْحَدُ بِاَيَاتِنَآ إِلاَّ الْكَافِرُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ الْكِتَابَ فَالَّذِينَ ءَاتَيْنَاهُمُ
+> الْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَؤُلاَءِ مَن يُؤْمِنُ بِهِ وَمَا
+> يَجْحَدُ بِاَيَاتِنَآ إِلاَّ الْكَافِرُونَ
 
 ***47. “And thus have We sent down unto you the Book. So (some of) those
 whom we have given the Book believe in it, and of these (pagans) there
@@ -758,12 +742,8 @@ Again, it has been narrated from the Prophet of Islam (S) that he said:
 Surah Al-‘Ankabut - Verse 48
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطَّهُ
-بِيَمِينِكَ إِذاً لاَّرْتَابَ الْمُبْطِلُونَ
-  </p>
-</blockquote>
+> وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطَّهُ
+> بِيَمِينِكَ إِذاً لاَّرْتَابَ الْمُبْطِلُونَ
 
 ***48. “And you did not recite before it any book, nor did you
 transcribe one with your right hand, indeed, would the talkers of
@@ -817,12 +797,8 @@ clear.[^30]
 Surah Al-‘Ankabut - Verse 49
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ هُوَ ءَايَاتٌ بَيّـِنَاتٌ فِي صُدُورِ الَّذِينَ اُوتُوا الْعِلْمَ
-وَمَا يَجْحَدُ بِاَيَاتِنَآ إِلاَّ الظَّالِمُونَ
-  </p>
-</blockquote>
+> بَلْ هُوَ ءَايَاتٌ بَيّـِنَاتٌ فِي صُدُورِ الَّذِينَ اُوتُوا الْعِلْمَ
+> وَمَا يَجْحَدُ بِاَيَاتِنَآ إِلاَّ الظَّالِمُونَ
 
 ***49. “Nay! It (Qur’an) is the clear signs in the breasts of those who
 have been granted the knowledge, and none but the unjust reject Our
@@ -916,12 +892,8 @@ who knows something but, in spite of his knowledge, he denies it.
 Surah Al-‘Ankabut - Verse 50
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْلآ اُنزِلَ عَلَيْهِ ءَايَاتٌ مِن رَّبّـِهِ قُلْ إِنَّمَا
-الاَيَاتُ عِندَ اللَّهِ وَإِنَّمَآ أَنَاْ نَذِيرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> وَقَالُوا لَوْلآ اُنزِلَ عَلَيْهِ ءَايَاتٌ مِن رَّبّـِهِ قُلْ إِنَّمَا
+> الاَيَاتُ عِندَ اللَّهِ وَإِنَّمَآ أَنَاْ نَذِيرٌ مُّبِينٌ
 
 ***50. “And they say: ‘Why have signs (miracles) not been sent down upon
 him from his Lord? Say: ‘The signs are only with Allah, and I am only a
@@ -1010,12 +982,8 @@ Allah, while giving them miracles is only with His Pure Essence.
 Surah Al-‘Ankabut - Verse 51
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَي
-عَلَيْهِمْ إِنَّ فِي ذَلِكَ لَرَحْمَةً وَذِكْرَي لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَي
+> عَلَيْهِمْ إِنَّ فِي ذَلِكَ لَرَحْمَةً وَذِكْرَي لِقَوْمٍ يُؤْمِنُونَ
 
 ***51. “And is it not enough for them that We have sent down to you the
 Book which is recited to them? Verily in this there is mercy and a
@@ -1156,5 +1124,4 @@ program for life, and a source of mercy.
 [^31]: Tafsir-i-Burhan, Vol. 3, P. 254 on
 
 [^32]: Surah ’Asra’, No. 17, verses 90-93
-
 

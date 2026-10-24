@@ -421,4 +421,3 @@ p. 510.
 
 [^7]: Tarikh-i Tabari, vol. Il, page 250.
 
-

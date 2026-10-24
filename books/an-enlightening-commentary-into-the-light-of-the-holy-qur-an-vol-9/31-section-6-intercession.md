@@ -4,23 +4,11 @@ Section 6: Intercession
 Surah Ta Ha – Verses 105 - 107
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْاَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبّـِي نَسْفاً
-  </p>
-</blockquote>
+> وَيَسْاَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبّـِي نَسْفاً
 
-<blockquote dir="rtl">
-  <p>
-فَيَذَرُهَا قَاعاً صَفْصَفاً
-  </p>
-</blockquote>
+> فَيَذَرُهَا قَاعاً صَفْصَفاً
 
-<blockquote dir="rtl">
-  <p>
-لاَّ تَرَي فِيهَا عِوَجاً وَلآ أَمْتاً
-  </p>
-</blockquote>
+> لاَّ تَرَي فِيهَا عِوَجاً وَلآ أَمْتاً
 
 ***105. “And they ask you (O Apostle) about the mountains (on that Day).
 Say: ‘My Lord will uproot them and scatter them (as dust),”***  
@@ -69,12 +57,8 @@ Hereafter is a manifestation of the Lordship of Allah.
 Surah Ta Ha – Verse 108
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَتَّبِعُونَ الدَّاعِيَ لاَ عِوَجَ لَهُ وَخَشَعَتِ
-الاَصْوَاتُ لِلرَّحْمَنِ فَلاَ تَسْمَعُ إِلاَّ هَمْساً
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَتَّبِعُونَ الدَّاعِيَ لاَ عِوَجَ لَهُ وَخَشَعَتِ
+> الاَصْوَاتُ لِلرَّحْمَنِ فَلاَ تَسْمَعُ إِلاَّ هَمْساً
 
 ***108. “On that day they will follow the caller in whom is no
 crookedness, and the voices shall be low before (the grandeur of) the
@@ -108,12 +92,8 @@ deeds, or both of them.
 Surah Ta Ha – Verse 109
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ لاَّ تَنفَعُ الشَّفَاعَةُ إِلاَّ مَنْ أَذِنَ لَهُ
-الرَّحْمَنُ وَرَضِيَ لَهُ قَوْلاً
-  </p>
-</blockquote>
+> يَوْمَئِذٍ لاَّ تَنفَعُ الشَّفَاعَةُ إِلاَّ مَنْ أَذِنَ لَهُ
+> الرَّحْمَنُ وَرَضِيَ لَهُ قَوْلاً
 
 ***109. “On that Day shall no intercession avail save (that of) him to
 whom the Beneficent (Allah) gives leave and whose word He is pleased
@@ -186,19 +166,11 @@ never arrive (near) me at the Pond.”* [^6]
 Surah Ta Ha – Verses 110 - 111
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِهِ
-عِلْماً
-  </p>
-</blockquote>
+> يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِهِ
+> عِلْماً
 
-<blockquote dir="rtl">
-  <p>
-وَعَنَتِ الْوُجُوهُ لِلْحَيّ‌ِ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ
-ظُلْماً
-  </p>
-</blockquote>
+> وَعَنَتِ الْوُجُوهُ لِلْحَيّ‌ِ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ
+> ظُلْماً
 
 ***110. “He knows what is before them and what is behind them, but they
 (people) do not comprehend Him in (their) knowledge.”***  
@@ -255,12 +227,8 @@ person and hinders him from going toward the bounties of Allah.
 Surah Ta Ha – Verse 112
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلاَ يَخَافُ
-ظُلْماً وَلاَ هَضماً
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلاَ يَخَافُ
+> ظُلْماً وَلاَ هَضماً
 
 ***112. “And whoever does good works, and he is a believer (on that day)
 shall fear neither of injustice nor of (any) curtailment (of his
@@ -327,12 +295,8 @@ of Hereafter has briefly been pointed out.
 Surah Ta Ha – Verse 113
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ أَنزَلْنَاهُ قُرْءَاناً عَرَبِيّاً وَصَرَّفْنَا فِيهِ مِنَ
-الْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْراً
-  </p>
-</blockquote>
+> وَكَذَلِكَ أَنزَلْنَاهُ قُرْءَاناً عَرَبِيّاً وَصَرَّفْنَا فِيهِ مِنَ
+> الْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْراً
 
 ***113. “And thus We sent it down as a perspicuous Qur’an and explained
 therein certain warnings that they may keep from evil or that it may
@@ -366,12 +330,8 @@ in other shapes.
 Surah Ta Ha – Verse 114
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَعَالَي اللَّهُ الْمَلِكُ الْحَقُّ وَلاَ تَعْجَلْ بِالْقُرْءَانِ
-مِن قَبْلِ أَن يُقْضَي إِلَيْكَ وَحْيُهُ وَقُل رَبّ‌ِ زِدْنِي عِلْماً
-  </p>
-</blockquote>
+> فَتَعَالَي اللَّهُ الْمَلِكُ الْحَقُّ وَلاَ تَعْجَلْ بِالْقُرْءَانِ
+> مِن قَبْلِ أَن يُقْضَي إِلَيْكَ وَحْيُهُ وَقُل رَبّ‌ِ زِدْنِي عِلْماً
 
 ***114. “So high exalted is Allah, The Ture Sovereign; and do not make
 haste (O Apostle) with the Qur’an before its revelation is completed
@@ -499,5 +459,4 @@ is not blessed for me.”*[^21]
 [^20]: Surah Ar-Rahman, No. 55, verses 1,2,4
 
 [^21]: The Commentary of Nur-uth-Thaqalayn, vol. 3, p. 397
-
 

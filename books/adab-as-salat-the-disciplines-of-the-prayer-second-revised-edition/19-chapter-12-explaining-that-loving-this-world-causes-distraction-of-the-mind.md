@@ -195,4 +195,3 @@ World and Being Attached to it,” hadīth 1.  
 
 [^8]: Ibid, hadīth 24.
 
-

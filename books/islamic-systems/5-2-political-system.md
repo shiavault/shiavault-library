@@ -236,4 +236,3 @@ him while he was bowing in prayer. The man took the ring from the Imam's
 finger. While this was happening in the Mosque, this verse was revealed
 to the Prophet Muhammad (s).
 
-

@@ -1544,4 +1544,3 @@ themselves and for posterity the record of the sayings and the deeds of
 Muhammad Mustafa, their Guide and Leader in this world and in the world
 to come.
 
-

@@ -26,4 +26,3 @@ obligatory Hajj, but the permission is necessary when wife wants to
 perform Mustahab Hajj. Also if Mustahab Hajj is bringing hardship and
 hurt to father or mother then there is a problem.
 
-

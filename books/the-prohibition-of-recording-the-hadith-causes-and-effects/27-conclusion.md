@@ -1056,4 +1056,3 @@ against Allah. 10/59”
 [^60]: Shaykh al-Mufid: al-Amaliy 12:51 as mentioned in al-Hurr
 al-\`Āmiliy: Wasa'il al-Shi\`ah 27:59, H. 43.
 
-

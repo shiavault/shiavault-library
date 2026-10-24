@@ -83,4 +83,3 @@ then; he walks a little and then stops. Thus Allâh punishes him with
 disgrace; and had He wished so, He would have taken away his sight and
 hearing, thereby disgracing him on the very first day.
 
-

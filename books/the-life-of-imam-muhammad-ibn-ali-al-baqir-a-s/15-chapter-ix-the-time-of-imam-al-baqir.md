@@ -1452,190 +1452,190 @@ they were false.[^92]
 
 ###
 
-[^1] Al-Falsafa al-Islamiya, p.[^170]:
+[^1]: Al-Falsafa al-Islamiya, p.170.
 
-[^2] Al-‘Aqida wa al-Shari‘a fi al-Islam, p.[^102]:
+[^2]: Al-‘Aqida wa al-Shari‘a fi al-Islam, p.102.
 
-[^3] Al-Mu‘tazila, p.[^1]:
+[^3]: Al-Mu‘tazila, p.1.
 
-[^4] Firaq al-Shi‘a, p.[^5]:
+[^4]: Firaq al-Shi‘a, p.5.
 
-[^5] Murujj al-Dhahab.
+[^5]: Murujj al-Dhahab.
 
-[^6] Tarikh Baghdad, vol.4, pp.148-[^150]:
+[^6]: Tarikh Baghdad, vol.4, pp.148-[^150]:
 
-[^7] Dirasat fi al-Firaq wa al-‘Aqa’id al-Islamiya, p.[^106]:
+[^7]: Dirasat fi al-Firaq wa al-‘Aqa’id al-Islamiya, p.106.
 
-[^8] Fajr al-Islam, p.[^295]:
+[^8]: Fajr al-Islam, p.295.
 
-[^9] Tarikh al-Falsafa fi al-Islam, p.[^49]:
+[^9]: Tarikh al-Falsafa fi al-Islam, p.49.
 
-[^10] Al-Firaq al-Islamiya fi al-‘Asr al-Umawi, p.[^290]:
+[^10]: Al-Firaq al-Islamiya fi al-‘Asr al-Umawi, p.290.
 
-[^11] Al-Fasl, vol.2, p.[^113]:
+[^11]: Al-Fasl, vol.2, p.113.
 
-[^12] Al-Milal wa al-Nihal, vol.1, p.[^58]:
+[^12]: Al-Milal wa al-Nihal, vol.1, p.58.
 
-[^13] Ibid.
+[^13]: Ibid.
 
-[^14] Al-Firaq al-Islamiya, fi al-Shi‘r al-Umawi, p.[^312]:
+[^14]: Al-Firaq al-Islamiya, fi al-Shi‘r al-Umawi, p.312.
 
-[^15] Al-Mu‘tazila, pp.51-[^52]:
+[^15]: Al-Mu‘tazila, pp.51-[^52]:
 
-[^16] Al-Milal wa al-Nihal, p.[^59]:
+[^16]: Al-Milal wa al-Nihal, p.59.
 
-[^17] Al-Murtada, al-Amali, vol.1, pp.115-[^116]:
+[^17]: Al-Murtada, al-Amali, vol.1, pp.115-[^116]:
 
-[^18] Al-Maqalat, vol.3, p.[^278]:
+[^18]: Al-Maqalat, vol.3, p.278.
 
-[^19] Al-‘Aqida wa al-Shari‘a fi al-Islam, p.[^223]:
+[^19]: Al-‘Aqida wa al-Shari‘a fi al-Islam, p.223.
 
-[^20] Dirasat fi al-Firaq wa al-‘Aqa’id al-Islamiya, p.[^115]:
+[^20]: Dirasat fi al-Firaq wa al-‘Aqa’id al-Islamiya, p.115.
 
-[^21] Ajwibat al-Masa’il al-Sagha’iya, p.[^14]:
+[^21]: Ajwibat al-Masa’il al-Sagha’iya, p.14.
 
-[^22] Dirasat fi al-Firaq wa al-‘Aqa’id al-Islamiya, p.[^115]:
+[^22]: Dirasat fi al-Firaq wa al-‘Aqa’id al-Islamiya, p.115.
 
-[^23] Jannat al-Ma’wa, p.[^232]:
+[^23]: Jannat al-Ma’wa, p.232.
 
-[^24] Koran, Saba’, [^19]:
+[^24]: Koran, Saba’, [^19]:
 
-[^25] Al-Ihtijajj, vol.2, pp.62-[^63]:
+[^25]: Al-Ihtijajj, vol.2, pp.62-[^63]:
 
-[^26] Al-Tafsir wa al-Mufasrun, p.2, p.[^33]:
+[^26]: Al-Tafsir wa al-Mufasrun, p.2, p.33.
 
-[^27] Wafayat al-A‘yan, vol.1, p.[^548]:
+[^27]: Wafayat al-A‘yan, vol.1, p.548.
 
-[^28] Koran, al-Anbiya’, [^30]:
+[^28]: Koran, al-Anbiya’, [^30]:
 
-[^29] Koran, Taha, [^81]:
+[^29]: Koran, Taha, [^81]:
 
-[^30] Roudat al-Wa‘izin, vol.1, p.[^144]:
+[^30]: Roudat al-Wa‘izin, vol.1, p.144.
 
-[^31] Al-Firaq al-Islamiya, fi al-‘Asr al-Umawi, p.[^264]:
+[^31]: Al-Firaq al-Islamiya, fi al-‘Asr al-Umawi, p.264.
 
-[^32] Naqd al-‘Ilm wa al-‘Ulama’, p.[^102]:
+[^32]: Naqd al-‘Ilm wa al-‘Ulama’, p.102.
 
-[^33] Tajj al-‘Arus, maddat raja’a.
+[^33]: Tajj al-‘Arus, maddat raja’a.
 
-[^34] Fajr al-Islam, p.[^279]:
+[^34]: Fajr al-Islam, p.279.
 
-[^35] Al-Firaq al-Islamiya, fi al-‘Asr al-Umawi, p.[^265]:
+[^35]: Al-Firaq al-Islamiya, fi al-‘Asr al-Umawi, p.265.
 
-[^36] Tayfur, Tarikh Baghdad, p.[^86]:
+[^36]: Tayfur, Tarikh Baghdad, p.86.
 
-[^37] Al-Tatawir wa al-Tajjdid fi al-Shi‘r al-Umawi, p.[^50]:
+[^37]: Al-Tatawir wa al-Tajjdid fi al-Shi‘r al-Umawi, p.50.
 
-[^38] Grimar, Islamic Civilization, p.[^19]:
+[^38]: Grimar, Islamic Civilization, p.19.
 
-[^39] Al-Bayyan wa al-Tabiyyin, vol.2, p.[^149]:
+[^39]: Al-Bayyan wa al-Tabiyyin, vol.2, p.149.
 
-[^40] Al-Aghani, vol.7, p.[^10]:
+[^40]: Al-Aghani, vol.7, p.10.
 
-[^41] Ibid, pp.10-[^11]:
+[^41]: Ibid, pp.10-[^11]:
 
-[^42] Ibid, p.[^15]:
+[^42]: Ibid, p.15.
 
-[^43] Islamic Civilization, p.[^65]:
+[^43]: Islamic Civilization, p.65.
 
-[^44] Hayat al-Shi‘r fi al-Kufa, p.[^312]:
+[^44]: Hayat al-Shi‘r fi al-Kufa, p.312.
 
-[^45] Al-Maqrizi, Khutat, vol.4, p.[^171]:
+[^45]: Al-Maqrizi, Khutat, vol.4, p.171.
 
-[^46] Al-Firaq al-Islamiya, fi al-‘Asr al-Umawi, p.[^305]:
+[^46]: Al-Firaq al-Islamiya, fi al-‘Asr al-Umawi, p.305.
 
-[^47] Al-Amini, Tafsir Fatihat al-Kitab, p.[^164]:
+[^47]: Al-Amini, Tafsir Fatihat al-Kitab, p.164.
 
-[^48] Maqalat al-Islamiyyin, vol.1, p.[^202]:
+[^48]: Maqalat al-Islamiyyin, vol.1, p.202.
 
-[^49] Tarikh Baghdad, vol.13, p.[^375]:
+[^49]: Tarikh Baghdad, vol.13, p.375.
 
-[^50] Tahdhib al-Kamal, vol.1, p.[^86]:
+[^50]: Tahdhib al-Kamal, vol.1, p.86.
 
-[^51] Manaqib Al Abi Talib, vol.2, pp.371-[^372]:
+[^51]: Manaqib Al Abi Talib, vol.2, pp.371-[^372]:
 
-[^52] Al-Milal wa al-Nihal, vol.1, p.[^158]:
+[^52]: Al-Milal wa al-Nihal, vol.1, p.158.
 
-[^53] Koran, al-Nisa’, [^35]:
+[^53]: Koran, al-Nisa’, [^35]:
 
-[^54] Roudat al-Wa‘izin, vol.1, p.[^245]:
+[^54]: Roudat al-Wa‘izin, vol.1, p.245.
 
-[^55] Tajj al-‘Arus, vol.5, p.[^405]:
+[^55]: Tajj al-‘Arus, vol.5, p.405.
 
-[^56] Koran, al-Qasas, [^15]:
+[^56]: Koran, al-Qasas, [^15]:
 
-[^57] Awa’il al-Maqalat, pp.2-[^4]:
+[^57]: Awa’il al-Maqalat, pp.2-[^4]:
 
-[^58] Majjma‘ al-Zawa’id, vol.9, p.[^131]:
+[^58]: Majjma‘ al-Zawa’id, vol.9, p.131.
 
-[^59] Asl al-Shi‘a wa Usulaha, p.[^77]:
+[^59]: Asl al-Shi‘a wa Usulaha, p.77.
 
-[^60] Firaq al-Shi‘a, p.[^15]:
+[^60]: Firaq al-Shi‘a, p.15.
 
-[^61] Khutat al-Sham, vol.5, p.[^251]:
+[^61]: Khutat al-Sham, vol.5, p.251.
 
-[^62] Tarikh al-Shi‘a, p.[^9]:
+[^62]: Tarikh al-Shi‘a, p.9.
 
-[^63] Al-Ya‘qubi, Tarikh, vol.2, p.[^105]:
+[^63]: Al-Ya‘qubi, Tarikh, vol.2, p.105.
 
-[^64] Al-Imam Sharaf al-Din, al-Muraja‘at, pp.331-[^336]:
+[^64]: Al-Imam Sharaf al-Din, al-Muraja‘at, pp.331-[^336]:
 
-[^65] Al-Tanbih wa al-Radd ‘ala Ahl al-Ahwa’ wa al-Buda‘, p.[^25]:
+[^65]: Al-Tanbih wa al-Radd ‘ala Ahl al-Ahwa’ wa al-Buda‘, p.25.
 
-[^66] Nash’at al-Fikr al-Falsafi fi al-Islam, p.[^18]:
+[^66]: Nash’at al-Fikr al-Falsafi fi al-Islam, p.18.
 
-[^67] Al-Madhahib al-Islamiya, p.[^46]:
+[^67]: Al-Madhahib al-Islamiya, p.46.
 
-[^68] Al-Sayyid al-‘Askari, ‘Abd Allah bin Saba’, vol.[^1]:
+[^68]: Al-Sayyid al-‘Askari, ‘Abd Allah bin Saba’, vol.1.
 
-[^69] Nazariyat al-Imama lada al-Shi‘a al-Ithna ‘Ashariya, pp.37-[^38]:
+[^69]: Nazariyat al-Imama lada al-Shi‘a al-Ithna ‘Ashariya, pp.37-[^38]:
 
-[^70] ‘Ali wa Banuh, pp.98-[^99]:
+[^70]: ‘Ali wa Banuh, pp.98-[^99]:
 
-[^71] Al-‘Aqd al-Farid.
+[^71]: Al-‘Aqd al-Farid.
 
-[^72] Ibn al-Athir, Tarikh, vol.5, p.[^209]:
+[^72]: Ibn al-Athir, Tarikh, vol.5, p.209.
 
-[^73] Al-Imam al-Sadiq wa al-Madhahib al-Arba‘a, vol.1, p.[^235]:
+[^73]: Al-Imam al-Sadiq wa al-Madhahib al-Arba‘a, vol.1, p.235.
 
-[^74] Lisan al-Mizan, vol.6, p.[^76]:
+[^74]: Lisan al-Mizan, vol.6, p.76.
 
-[^75] Mohammed ‘Abda, Nahjj al-Balagha, vol.2, p.[^259]:
+[^75]: Mohammed ‘Abda, Nahjj al-Balagha, vol.2, p.259.
 
-[^76] Al-Hashimiyat.
+[^76]: Al-Hashimiyat.
 
-[^77] Abu al-Aswad, Diwan, p.[^253]:
+[^77]: Abu al-Aswad, Diwan, p.253.
 
-[^78] Ibid, p.[^176]:
+[^78]: Ibid, p.176.
 
-[^79] Al-Bayan wa al-Tabiyyin, vol.3, p.360
+[^79]: Al-Bayan wa al-Tabiyyin, vol.3, p.360
 
-[^80] Ibid, p.[^365]:
+[^80]: Ibid, p.365.
 
-[^81] Ibid, p.[^360]:
+[^81]: Ibid, p.360.
 
-[^82] Al-Hashimiyat, p.[^37]:
+[^82]: Al-Hashimiyat, p.37.
 
-[^83] Al-Muraja‘at, pp.40-[^41]:
+[^83]: Al-Muraja‘at, pp.40-[^41]:
 
-[^84] Ibid, p.[^44]:
+[^84]: Ibid, p.44.
 
-[^85] Hayat al-Imam Musa bin Ja‘far, vol.1, p.[^14]:
+[^85]: Hayat al-Imam Musa bin Ja‘far, vol.1, p.14.
 
-[^86] Al-Darajat al-Rafi‘a fi Tabaqat al-Shi‘a, p.[^11]:
+[^86]: Al-Darajat al-Rafi‘a fi Tabaqat al-Shi‘a, p.11.
 
-[^87] Al-Muraja‘at.
+[^87]: Al-Muraja‘at.
 
-[^88] Al-Ma‘rifa wa al-Tarikh, vol.1, p.[^360]:
+[^88]: Al-Ma‘rifa wa al-Tarikh, vol.1, p.360.
 
-[^89] Ahmed, Musnad, vol.5, p.[^231]:
+[^89]: Ahmed, Musnad, vol.5, p.231.
 
-[^90] Al-Turmidhi, Sahih, vol.2, p.[^68]:
+[^90]: Al-Turmidhi, Sahih, vol.2, p.68.
 
-[^91] The tradition is fabricated, for it opposes the tradition
+[^91]: The tradition is fabricated, for it opposes the tradition
 successively reported on the authority of the Prophet, who said that
 al-Hasan and al-Husayn are the two lords of the youth of Heaven. Imam
 al-Jawad was asked about this tradition, so he said: “By Allah the old
 people in the garden are not old. Rather, they are young.”
 
-[^92] Hayat al-Imam al-Hasan, vol.2, pp.168-[^169]:
+[^92]: Hayat al-Imam al-Hasan, vol.2, pp.168-[^169]:

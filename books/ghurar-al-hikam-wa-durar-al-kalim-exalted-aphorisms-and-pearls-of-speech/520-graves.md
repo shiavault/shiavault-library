@@ -16,4 +16,3 @@ alive and say “We have married them to the grave.” Later, in the time of
 Islam, this expression was used in a general sense to remind people that
 they will eventually die and be lowered into their graves.
 
-

@@ -109,7 +109,6 @@ way that we can also affect our social and cultural surroundings and
 thus be in the state of readiness for the realization of the appearance
 of the 12th Imam (AS).
 
-
 **Conclusion**
 
 Over time, man has been evolving into a materialistic being. The true

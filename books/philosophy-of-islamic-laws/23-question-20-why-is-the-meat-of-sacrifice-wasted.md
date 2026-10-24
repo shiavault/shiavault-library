@@ -69,7 +69,6 @@ a practical appearance and should stop all kind of wastage and if any
 problem arises, then it is not the deficiency of divine law. The fault
 lies with the Muslims.[^3]
 
-
 [^1]: Surah Hajj 22:28
 
 [^2]: Surah Hajj 22:36
@@ -77,5 +76,4 @@ lies with the Muslims.[^3]
 [^3]: Note: Alhamdulillah, now this sacrificial meat is being
 distributed among the needy people. As nowadays this meat is sent
 directly from Mecca to Afghan refugees. (Publisher)
-
 

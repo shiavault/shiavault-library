@@ -4,26 +4,14 @@ Section 4: A Scene of the Resurrection
 Surah Ya-Sin - Verses 51-53
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِي الصُّورِ فَإِذَا هُم مِنَ الأَجْدَاثِ إِلَي رَبّـِهِمْ
-يَنسِلُونَ
-  </p>
-</blockquote>
+> وَنُفِخَ فِي الصُّورِ فَإِذَا هُم مِنَ الأَجْدَاثِ إِلَي رَبّـِهِمْ
+> يَنسِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَاوَيْلَنَا مَنْ بَعَثَنَا مِن مَّرْقَدِنَا هَذَا مَا وَعَدَ
-الرَّحْمَنُ وَصَدَقَ الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> قَالُوا يَاوَيْلَنَا مَنْ بَعَثَنَا مِن مَّرْقَدِنَا هَذَا مَا وَعَدَ
+> الرَّحْمَنُ وَصَدَقَ الْمُرْسَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِن كَانَتْ إِلاَّ صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا
-مُحْضَرُونَ
-  </p>
-</blockquote>
+> إِن كَانَتْ إِلاَّ صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا
+> مُحْضَرُونَ
 
 ***51. “And the Trumpet shall be blown, then behold, from their graves
 they shall hasten on to their Lord.”***  
@@ -184,12 +172,8 @@ expressive their warnings are!
 Surah Ya-Sin - Verse 54
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لاَ تُظْلَمُ نَفْسٌ شَيْئاً وَلاَ تُجْزَوْنَ إِلاَّ مَا
-كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ لاَ تُظْلَمُ نَفْسٌ شَيْئاً وَلاَ تُجْزَوْنَ إِلاَّ مَا
+> كُنتُمْ تَعْمَلُونَ
 
 ***54. “So this day no soul shall be dealt with unjustly in the least,
 nor shall you be recompensed but that which you used to do.”***
@@ -235,29 +219,13 @@ Mercy.
 Surah Ya-Sin - Verses 55-58
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ
-  </p>
-</blockquote>
+> إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ
 
-<blockquote dir="rtl">
-  <p>
-هُمْ وَأَزْوَاجُهُمْ فِي ظِلاَلٍ عَلَي الأَرَآئِكِ مُتَّكِئُونَ
-  </p>
-</blockquote>
+> هُمْ وَأَزْوَاجُهُمْ فِي ظِلاَلٍ عَلَي الأَرَآئِكِ مُتَّكِئُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُم مَّا يَدَّعُونَ
-  </p>
-</blockquote>
+> لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُم مَّا يَدَّعُونَ
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ قَوْلاً مِن رَّبٍّ رَّحِيمٍ
-  </p>
-</blockquote>
+> سَلاَمٌ قَوْلاً مِن رَّبٍّ رَّحِيمٍ
 
 ***55. “Verily the inhabitants of Paradise that ِay are busy in
 rejoicing,”***  
@@ -473,31 +441,15 @@ makes it thoroughly full of tranquillity, peace, and health.
 Surah Ya-Sin - Verses 59-62
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُـجْرِمُونَ
-  </p>
-</blockquote>
+> وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُـجْرِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي ءَادَمَ أَن لاَّ تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌ مُّبِينٌ
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي ءَادَمَ أَن لاَّ تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌ مُّبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِ اعْبُدُونِي هَذَا صِرَاطٌ مُّسْتَقِيمٌ
-  </p>
-</blockquote>
+> وَأَنِ اعْبُدُونِي هَذَا صِرَاطٌ مُّسْتَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلاًّ كَثِيراً أَفَلَمْ تَكُونُوا
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلاًّ كَثِيراً أَفَلَمْ تَكُونُوا
+> تَعْقِلُونَ
 
 ***59. “And (they will be told) get you aside this day O’ you the guilty
 ones!”***  
@@ -676,17 +628,9 @@ friend!
 Surah Ya-Sin - Verses 63-64
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذِهِ جَهَنَّمُ الَّتِي كُنتُمْ تُوعَدُون
-  </p>
-</blockquote>
+> هَذِهِ جَهَنَّمُ الَّتِي كُنتُمْ تُوعَدُون
 
-<blockquote dir="rtl">
-  <p>
-اصْلَوْهَا الْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ
-  </p>
-</blockquote>
+> اصْلَوْهَا الْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ
 
 ***63. “This is the Hell which you were promised.”***  
 ***64. “Enter you into it today for what you were disbelieving.”***
@@ -712,12 +656,8 @@ It says:
 Surah Ya-Sin - Verse 65
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ نَخْتِمُ عَلَي أَفْوَاهِهِمْ وَتُكَلّـِمُنَآ أَيْدِيهِمْ
-وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> الْيَوْمَ نَخْتِمُ عَلَي أَفْوَاهِهِمْ وَتُكَلّـِمُنَآ أَيْدِيهِمْ
+> وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا يَكْسِبُونَ
 
 ***65. “Today we set a seal on their mouths, and their hands speak to
 Us, and their feet bear witness as to what they have been earning.”***
@@ -798,19 +738,11 @@ least’***.”[^16]
 Surah Ya-Sin - Verses 66-67
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَي أَعْيُنِهِمْ فَاسْتَبَقُوا
-الصّـِرَاطَ فَاَنَّي يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَي أَعْيُنِهِمْ فَاسْتَبَقُوا
+> الصّـِرَاطَ فَاَنَّي يُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ نَشَآءُ لَمَسَخْنَاهُمْ عَلَي مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا
-مُضِيّاً وَلاَ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَلَوْ نَشَآءُ لَمَسَخْنَاهُمْ عَلَي مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا
+> مُضِيّاً وَلاَ يَرْجِعُونَ
 
 ***66. “And if We please, We would obliterate their eyes, then they
 would race to the way, but how would they see?”***  
@@ -892,5 +824,4 @@ Rouh-ul-Ma‘ani, and some other commentaries
 vol. 4, P. 392
 
 [^16]: Tafsir-us-Safi, under the verse; verse 7 from Surah Isra’, No. 17
-
 

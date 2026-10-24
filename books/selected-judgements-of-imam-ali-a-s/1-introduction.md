@@ -53,4 +53,3 @@ Kaukab Shadani
 
 Karachi 8th July, 1969
 
-

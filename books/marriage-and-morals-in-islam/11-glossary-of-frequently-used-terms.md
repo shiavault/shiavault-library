@@ -37,4 +37,3 @@ not be punished; however, if one performs them, he will be rewarded.
 performed. One will be punished for neglecting a wajib act, e.g., the
 daily prayers.
 
-

@@ -18,23 +18,14 @@ is only successful for those who have purity and insight.
 
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
-  </p>
-</blockquote>
+> فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
 
 ***Take a lesson, O you who have eyes!*** (59:2)
 
 and again,
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِن تَعْمَى الْقُلُوبُ الَّتِي
-فِي الصُّدُورِ
-  </p>
-</blockquote>
+> فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِن تَعْمَى الْقُلُوبُ الَّتِي
+> فِي الصُّدُورِ
 
 ***For surely it is not the eyes that are blind, but blind are the
 hearts which are in the breasts.*** (22:46)
@@ -42,5 +33,4 @@ hearts which are in the breasts.*** (22:46)
 When Allah opens the eye of someone's heart and insight by means of
 consideration, then He has given him a high station and an immense
 fortune.
-
 

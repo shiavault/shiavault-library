@@ -110,4 +110,3 @@ al-Ghābah, vol. 4, p. 268; Hilyat al-Awliyā’, vol. 1, p. 106; Ibn
 Hishām, Al-Sīrah al-Nabawiyyah, vol. 2, p. 294; Nahāyat al-Arb, p. 232;
 Tārīkh-e Payāmbar-e Islām, p. 185; Amtā‘ al-Asmā‘, p. 35.
 
-

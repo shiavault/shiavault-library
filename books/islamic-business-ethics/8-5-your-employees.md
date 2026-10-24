@@ -70,4 +70,3 @@ al-Hayat,n.d.) p.498
 levels. Thousands of Enron employees lost their life savings in plans
 tied to the energy company’s stock and pensions when Enron collapsed.
 
-

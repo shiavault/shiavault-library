@@ -13,10 +13,8 @@ a symbol of purity, chastity, and virtue. The oppressed one remembers
 how she suffered oppression and injustices, hence he tolerates his
 suffering and hardship.
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم إنا أعطيناك الكوثر\* فصل لربك وانحر\* إن شانئك
 هو الأبتر
-</p>
 
 Righteous wives recall her life as a wife of Ali (as) and consider her
 as a role model of the righteous wife.
@@ -405,5 +403,4 @@ Whoever loves the Messenger of Allah loves Fatima.
 Whoever hates him, hates her.
 Fatima is purified by Allah the Almighty.
 Peace and blessing of Allah be on FATIMA AL-ZAHRA.
-
 

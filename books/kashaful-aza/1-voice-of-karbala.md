@@ -77,12 +77,10 @@ Karbala gives us the strength and faith to save our life and our
 beliefs in a time where we would be killed simply for being Shia.
 Without Karbala we would never have been given this chance.
 
-
 **Azadari**
 
 The way we feel after the loss of a beloved, dear relative or friend is
 called grief. When this emotion occurs amongst a group of people in a
 gathering, it is called "aza? (mourning). It has three aspects; spirit
 of aza, customs of aza, and preaching of aza.
-
 

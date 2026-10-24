@@ -24,13 +24,9 @@ stimulate and instigate. Even divine guidance and illuminations
 transcending reason cannot spontaneously give rise to will-power and do
 not guarantee man's attainment of the desired perfection:
 
-<blockquote dir="rtl">
-  <p>
-…”الَّذِي آتَيْنَاهُ آيَاتِنَا فَانْسَلَخَ مِنْهَا... وَلَوْ شِئْنَا
-لَرَفَعْنَاهُ بِهَا وَلَٰكِنَّهُ أَخْلَدَ إِلَى الْأَرْضِ وَاتَّبَعَ
-هَوَاهُ“…
-  </p>
-</blockquote>
+> …”الَّذِي آتَيْنَاهُ آيَاتِنَا فَانْسَلَخَ مِنْهَا... وَلَوْ شِئْنَا
+> لَرَفَعْنَاهُ بِهَا وَلَٰكِنَّهُ أَخْلَدَ إِلَى الْأَرْضِ وَاتَّبَعَ
+> هَوَاهُ“…
 
 ***"... Of him to whom we give our communications, but he withdraws
 himself from them.... And if we had pleased, we would certainly have
@@ -117,12 +113,8 @@ significant positive items of this programme are as below:
 Worship and especially the timely performance of the *wajib* daily
 *salat* with full concentration and sincerity:
 
-<blockquote dir="rtl">
-  <p>
-”قَدْ أَفْلَحَ الْمُؤْمِنُونَ. الَّذِينَ هُمْ فِي صَلَاتِهِمْ
-خَاشِعُونَ“
-  </p>
-</blockquote>
+> ”قَدْ أَفْلَحَ الْمُؤْمِنُونَ. الَّذِينَ هُمْ فِي صَلَاتِهِمْ
+> خَاشِعُونَ“
 
 ***"Successful indeed are the believers who are humble in their prayers
 (23:1-2)."***
@@ -131,11 +123,7 @@ If possible, we should devote a part of our time to heartfelt
 remembrance (of Almighty Allah) and we should allocate an appropriate
 time and place to it:
 
-<blockquote dir="rtl">
-  <p>
-“…وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً”
-  </p>
-</blockquote>
+> “…وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً”
 
 ***“And remember your Lord within yourself humbly and fearing ...
 (7:205)."***
@@ -147,29 +135,17 @@ donations and sacrifice which are the best means to dispense with
 worldly pleasures and to purify the soul from being tarnished by the
 worldly affairs:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ...”
-  </p>
-</blockquote>
+> “وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ...”
 
 ***"... And whoever is preserved from the niggardliness of his soul,
 these it is that are the successful ones (59:9)."***
 
-<blockquote dir="rtl">
-  <p>
-“…لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ”
-  </p>
-</blockquote>
+> “…لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ”
 
 ***"You shall not attain goodness unless you spend out of what you
 love... (3:92)."***
 
-<blockquote dir="rtl">
-  <p>
-“…خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا”
-  </p>
-</blockquote>
+> “…خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا”
 
 ***"Take alms out of their property, you would cleanse them and purify
 them thereby... (9:103)."***
@@ -178,11 +154,7 @@ them thereby... (9:103)."***
 perhaps for this reason that they are often cited with one another in
 the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-“وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا...”
-  </p>
-</blockquote>
+> “وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا...”
 
 ***"... And He has enjoined on me prayer and poor-rate so long as I live
 (19:31)."***
@@ -197,11 +169,7 @@ pleasures to pains, hardships and afflictions, as well as other matters
 which encourage man to tread the path of servitude and which preclude
 him from egotism and mammonism.
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ…”
-  </p>
-</blockquote>
+> “إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ…”
 
 ***"... Most surely there are signs in this for a people who reflect
 (13:3).”***
@@ -213,11 +181,7 @@ and ethical orders so as to always remember the objective and the sound
 means of reaching it, and so as to use them (as signals) to remind us of
 our desire to seek perfection.
 
-<blockquote dir="rtl">
-  <p>
-“وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ”
-  </p>
-</blockquote>
+> “وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ”
 
 ***"And certainly We have made the Qur'an easy for remembrance but is
 there anyone who will mind? (54:17, 22, 32, 40)."***
@@ -232,19 +196,11 @@ for worshipping and being grateful to Allah. Among factors involved are
 fasting, not eating to satiety, saying little and sleeping little while
 observing moderation and health.
 
-<blockquote dir="rtl">
-  <p>
-“وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ”
-  </p>
-</blockquote>
+> “وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ”
 
 ***"And who keep aloof from what is vain (23:3)."***
 
-<blockquote dir="rtl">
-  <p>
-“وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ…”
-  </p>
-</blockquote>
+> “وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ…”
 
 ***"... And that you fast is better for you if you know (2:184)."***
 
@@ -265,15 +221,11 @@ avoid studying and discussing doubtful matters which we do not have the
 power to answer. If we occasionally conceive of doubtful matters or hear
 them, we should immediately set to find a convincing answer to them:
 
-<blockquote dir="rtl">
-  <p>
-”وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
-اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
-حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِۚ إِنَّكُمْ إِذًا مِثْلُهُمْۗ
-إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
-جَمِيعًا“
-  </p>
-</blockquote>
+> ”وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
+> اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
+> حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِۚ إِنَّكُمْ إِذًا مِثْلُهُمْۗ
+> إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
+> جَمِيعًا“
 
 ***"And indeed He has revealed to you in the Book that when you hear
 Allah's communications disbelieved in and mocked at, do not sit with
@@ -301,5 +253,4 @@ trust in Allah (SWT) and ask Him to grant us success.
 
 [^1]: Wasa' ilush - shi'a, Section on the Features of a Judge, chapter
 10, wisdoms 9 and 13
-
 

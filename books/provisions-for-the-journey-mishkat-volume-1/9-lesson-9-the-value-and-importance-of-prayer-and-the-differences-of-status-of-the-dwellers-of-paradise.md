@@ -102,11 +102,7 @@ eventually get tired of them. Of course, this phrasing is common
 parlance, otherwise there is no tiredness in the Garden of eternal
 bliss, as the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-... لاَ يَمَسُّنَا فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
-  </p>
-</blockquote>
+> ... لاَ يَمَسُّنَا فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
 
 “…toil shall not touch us therein, nor shall fatigue therein afflict
 us.”[^1]
@@ -132,12 +128,8 @@ obligatory duties and thereafter used to take a rest, but they never
 went to sleep and were busy with acts of devotion and performing secret
 prayers to Allah.” In the Qur’an’s statement, they were the people who:
 
-<blockquote dir="rtl">
-  <p>
-کَانُوا قَلِيلاً مِن اللَّيْلِ مَا يَهْجَعُون \* وَبِالأَسْحَارِهُمْ
-يَسْتَغْفِرُونَ
-  </p>
-</blockquote>
+> کَانُوا قَلِيلاً مِن اللَّيْلِ مَا يَهْجَعُون \* وَبِالأَسْحَارِهُمْ
+> يَسْتَغْفِرُونَ
 
 ***“They used to sleep but a little in the night and in the morning they
 used to seek forgiveness.”***[^2]
@@ -156,14 +148,10 @@ and sincere worshipers [*mukhlisin*] of Allah.
 
 Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِی مَنْ
-تَحْتِهَا الاَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاکِنَ طَيِّبَةً فِي
-جَنَّاتِ عَدْنٍ وَرِضْوَانٌ مِن اللهِ أَکْبَرُ ذَلِکَ هُوَ الْفَوْزُ
-الْعَظِيمُ
-  </p>
-</blockquote>
+> وَعَدَ اللهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِی مَنْ
+> تَحْتِهَا الاَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاکِنَ طَيِّبَةً فِي
+> جَنَّاتِ عَدْنٍ وَرِضْوَانٌ مِن اللهِ أَکْبَرُ ذَلِکَ هُوَ الْفَوْزُ
+> الْعَظِيمُ
 
 ***“Allah has promised to the believing men and the believing women
 gardens, beneath which rivers flow, to abide in them, and goodly
@@ -195,12 +183,8 @@ who worship Allah with purity of intention.
 
 In connection with the levels of the hereafter, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-أُنْظُرْ کَيْفَ فَضَّلْنَا بَعْضَهُم عَلَی بَعْضٍ وَلَلآخِرَةُ
-أَکْبَرُ دَرَجَاتٍ وَأَکْبَرُ تَفْضِيلاً
-  </p>
-</blockquote>
+> أُنْظُرْ کَيْفَ فَضَّلْنَا بَعْضَهُم عَلَی بَعْضٍ وَلَلآخِرَةُ
+> أَکْبَرُ دَرَجَاتٍ وَأَکْبَرُ تَفْضِيلاً
 
 ***“See how We made some of them excel others, and certainly the
 hereafter is much superior in excellence.”***[^5]
@@ -278,12 +262,8 @@ get built in front of My own eyes (and with My favor).”***
 
 In continuation, it states:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تَمْشِي أُحْتُك فَتَقُولُ هَلْ أَدُلُّکُمْ عَلَی مَنْ يَکْفُلُهُ
-فَرَجَعْنَاكَ إِلَی أُمِّكَ کَيْ تَقَرَّ عَيْنُهَا وَلاَ تَحْزَنَ...
-  </p>
-</blockquote>
+> إِذْ تَمْشِي أُحْتُك فَتَقُولُ هَلْ أَدُلُّکُمْ عَلَی مَنْ يَکْفُلُهُ
+> فَرَجَعْنَاكَ إِلَی أُمِّكَ کَيْ تَقَرَّ عَيْنُهَا وَلاَ تَحْزَنَ...
 
 ***“When your sister went and said, ‘Shall I direct you to one who will
 take charge of him? So we brought you back to your mother, that her eye
@@ -356,12 +336,8 @@ doors of Allah’s mercy are only closed to those who deny His signs and
 the proud, who of course have closed the doors of divine mercy for
 themselves:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الَّذِينَ کَذَّبُوا بِآيَاتِنَا واسْتَکْبَرُوا عَنْهَا لاَ
-تُفَتَّحُ وَلَهُمْ أَبْوَابُ السَّمَاءِ...
-  </p>
-</blockquote>
+> اِنَّ الَّذِينَ کَذَّبُوا بِآيَاتِنَا واسْتَکْبَرُوا عَنْهَا لاَ
+> تُفَتَّحُ وَلَهُمْ أَبْوَابُ السَّمَاءِ...
 
 ***“Lo! They who deny Our revelations and scorn them, for them the gates
 of heaven will not be opened…”***[^11]
@@ -460,5 +436,4 @@ of sins.”[^13]
 [^12]: Mustadrik al-Wasa’il, vol. 11, p. 253, section [bab] 17.
 
 [^13]: Ibid., vol. 13, p. 173, section [bab] 101.
-
 

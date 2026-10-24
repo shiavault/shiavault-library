@@ -126,4 +126,3 @@ plausible but its author turns out to be only a Magician in disguise."
 
 [^4]: Buruz: Appearance.
 
-

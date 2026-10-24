@@ -7,4 +7,3 @@ was the one who suggested to Yazeed to have ‘Ubayd Allah ibn Zyad a
 ruler over the people of Kufa. In the time of Marwan Ibn Al Hakem's
 ruling he was tricked and removed from his position.
 
-

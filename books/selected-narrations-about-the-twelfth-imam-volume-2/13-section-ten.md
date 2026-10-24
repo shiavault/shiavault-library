@@ -35,4 +35,3 @@ been mentioned in al-Lisān that ibn Ḥibbān has mentioned him amongst the
 reliable ones (al-thiqāt) narrators. He has narrated from Ḥakīm b.
 Jubair.
 
-

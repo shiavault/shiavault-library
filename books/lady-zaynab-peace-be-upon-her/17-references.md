@@ -34,10 +34,8 @@ books:
 الجزائري، نور الدين: الخصائص الزينبية، الطبعة الأولى 1341، المطبعة
 المرتضوية- ايران.
 
-<p dir="rtl">
 العبيدلي، العقيقي: السيدة زينب و أخبار الزينبيات (عن برنامج المعجم
 الفقهي).
-</p>
 
 The following books were also helpful in the material of the book:
 
@@ -60,5 +58,4 @@ Publications, Ofuq Press, Qum- I.R.Iran.
 
 Zakir: Tears and Tributes, First Edition 1999, Ansariyan Publications,
 Sadr Press, Qum- I.R.Iran.
-
 

@@ -18,4 +18,3 @@ number of lies”.
  Mustafa said “When we want to make peace between two people, it doesn’t
 matter how many lies we say”.
 
-

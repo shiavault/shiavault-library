@@ -105,4 +105,3 @@ my sister, my daughter is with me." Sakina had slipped away to where the
 body of her dead father lay. Zaynab [a.s.] found her there clinging to
 his body and brought the orphaned child back. 
 
-

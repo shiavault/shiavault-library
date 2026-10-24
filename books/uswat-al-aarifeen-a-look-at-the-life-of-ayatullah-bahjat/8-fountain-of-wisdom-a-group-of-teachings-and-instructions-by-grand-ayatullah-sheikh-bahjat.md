@@ -725,4 +725,3 @@ give her Your own healing, and grant her health from You.’ After the
 third time, recite this ‘Through Imam al-Kadhim, for she is Your
 bondmaid and the daughter of Your slave.”
 
-

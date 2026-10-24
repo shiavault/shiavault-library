@@ -139,4 +139,3 @@ several other countries of the world. The problem of unfair distribution
 enfolds not only money, but also goods and the valuing of it. A typical
 example is the payment for fuel.
 
-

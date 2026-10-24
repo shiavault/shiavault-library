@@ -44,4 +44,3 @@ It is worthy to mention that many narrations have been reported on the
 account of Ahlul-Bayt (as) to the effect that intercession is part of
 Fatima az-Zahra’s (sa) dowry.
 
-

@@ -119,12 +119,8 @@ companionship and mutual affection. This is made clear in the Glorious
 Qur'an, as follows:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
-لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
+> لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
 
 ***“And one of His signs is that He created mates for you from
 yourselves that you may find rest in them, and He put between you love
@@ -144,53 +140,21 @@ some modernistic societies.
  Mowlavi (Rumi as popularly known in the West) reflected the above point
 in his stanza mentioned below:-
 
-<blockquote dir="rtl">
-  <p>
-زين للناس حق آراسته است
-  </p>
-</blockquote>
+> زين للناس حق آراسته است
 
-<blockquote dir="rtl">
-  <p>
-زآنچه حق آراست كی تانندرست
-  </p>
-</blockquote>
+> زآنچه حق آراست كی تانندرست
 
-<blockquote dir="rtl">
-  <p>
-چون پی يسكن اليهاش آفريد
-  </p>
-</blockquote>
+> چون پی يسكن اليهاش آفريد
 
-<blockquote dir="rtl">
-  <p>
-كی تواند آدم از حوا بريد
-  </p>
-</blockquote>
+> كی تواند آدم از حوا بريد
 
-<blockquote dir="rtl">
-  <p>
-آچنين خاصيتی در آدمی است
-  </p>
-</blockquote>
+> آچنين خاصيتی در آدمی است
 
-<blockquote dir="rtl">
-  <p>
-مهر ، حيوان را كم است ، آن از كمی‏ است
-  </p>
-</blockquote>
+> مهر ، حيوان را كم است ، آن از كمی‏ است
 
-<blockquote dir="rtl">
-  <p>
-مهر و رقت وصف انسانی بود
-  </p>
-</blockquote>
+> مهر و رقت وصف انسانی بود
 
-<blockquote dir="rtl">
-  <p>
-خشم و شهوت وصف حيوانی بود
-  </p>
-</blockquote>
+> خشم و شهوت وصف حيوانی بود
 
      
 *The World owes to God its loveliness,*  
@@ -233,5 +197,4 @@ London. Paperbacks Ed. 1976, p. 83.
 
 [^2]: Bertrand Russell: Marriage and Morals, George Allen & Unwin Ltd.,
 London. Paperbacks Ed. 1976, p. 86-87.
-
 

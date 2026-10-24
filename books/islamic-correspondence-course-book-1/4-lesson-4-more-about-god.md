@@ -305,4 +305,3 @@ bad deeds, and will reward and punish accordingly.
 Can someone who has such a God and believes in Him ever fall prey to
 sin? Think about it.
 
-

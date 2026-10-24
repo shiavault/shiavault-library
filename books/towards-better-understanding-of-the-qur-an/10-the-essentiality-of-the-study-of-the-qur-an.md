@@ -25,4 +25,3 @@ the principles of life including that of moral and ethical values for
 the purpose of individual, social and familial existence. Unfortunately,
 the study of Qur’an has been left for Scholars and learned people only.
 
-

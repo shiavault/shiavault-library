@@ -349,4 +349,3 @@ an advance to find and confirm more to it. In comparison to these common
 place events, the spiritual reality is a far superior phenomenon that
 rather helps science to reach its faith in transcendent reality.
 
-

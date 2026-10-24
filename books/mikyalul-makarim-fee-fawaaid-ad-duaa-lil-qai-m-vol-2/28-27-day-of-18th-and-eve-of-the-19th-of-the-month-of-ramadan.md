@@ -5,4 +5,3 @@ The importance of invocation on these times can be understood from
 various invocations that have come down and narrated in Al-Iqbal. Of
 course, help is sought from Allah in all conditions.
 
-

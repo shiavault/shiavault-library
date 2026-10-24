@@ -381,4 +381,3 @@ will benefit them in this life as well as in the life hereafter.
 
 [^6]: al‑Majlisi, Biharu 'l-Anwar, vol. 4, p.118.
 
-

@@ -60,7 +60,6 @@ ugliest the eyes can ever see; each hair on his body was a flame of
 fire. Ibrahim (as) then said, "By Allah! Had a disbeliever cast one look
 at you, it would have sufficed him."
 
-
 **Chapter 21 : What is Sirat Al-Mustageem?**
 
 The significance of fast will be realised during a much more critical
@@ -345,5 +344,4 @@ We pray the Almighty to enable us to cross over His Siren with hardship
 only in the life of this world, and without any hardship in the life
 hereafter, to forgive our sins, and to accept our fast and repentance,
 Alla homma Aameen.
-
 

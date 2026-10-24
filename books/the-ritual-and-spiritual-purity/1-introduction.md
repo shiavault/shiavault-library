@@ -224,4 +224,3 @@ Development of Shi'a Islam.
 ash-Sha'rani, at-Tabaqatu 'l-Kubra, vol. 1, p. 28; Abu Nu'aym, Hilyatu
 'l-Awliya', vol. 3, p. 193, 197
 
-

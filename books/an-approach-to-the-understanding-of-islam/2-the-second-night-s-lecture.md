@@ -619,4 +619,3 @@ is the greatest possible benefit which could be bestowed upon this
 personality who must play the principal role in this unparalled event of
 history.
 
-

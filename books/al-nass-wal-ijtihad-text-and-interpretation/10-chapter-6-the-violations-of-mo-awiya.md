@@ -765,4 +765,3 @@ the great personality of Imam Hasan (as) who ascended the minbar and
 declared the truth and its people and exposed the untruth and its
 people. Refer to Sulh al-Hasan by Sheikh Radhy aal Yaseen, p.279-282.
 
-

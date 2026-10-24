@@ -215,7 +215,7 @@ The battle
 ----------
 
 The fight began on Friday morning, the seventeenth of Ramadan in the
-second year of Hijrah (15<sup>th</sup> of January, 624 AD). It was
+second year of Hijrah (15th of January, 624 AD). It was
 Quraysh that opened the door of the war when Utbah bin Rabee’ah,
 Shaybah, and al-Waleed, who were from the famous heroes of Quraysh,
 advanced to challenge. Young men from the Ansar advanced, but Utbah

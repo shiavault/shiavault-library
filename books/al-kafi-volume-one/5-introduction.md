@@ -276,4 +276,3 @@ reject it totally since the indispensable condition laid by God on the
 person for whom they (divine duties) are made imperative, is to act upon
 them with knowledge, insight and conviction, so that such people
 
-

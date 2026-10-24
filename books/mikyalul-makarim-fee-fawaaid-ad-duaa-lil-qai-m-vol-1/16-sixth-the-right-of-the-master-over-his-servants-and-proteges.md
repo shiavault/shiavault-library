@@ -15,11 +15,7 @@ I say: The matter of the leadership and mastership of the Holy Imams
 leadership of those great personalities denotes: They are having more
 authority on us in all matters than us, just the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***“The Prophet has a greater claim on the faithful than they have on
 themselves.” (Qur’an, Surah Ahzab 33:6)***
@@ -65,11 +61,7 @@ Imam Ja’far Sadiq (as). And also Allah, the Mighty and the High has also
 ordered that people may ask the family of revelation whatever they want,
 as they are the people of remembrance (Ahle Zikr):
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
 
 ***“So ask the people of remembrance if you do not know.” (Surah Anbiya
 21:7)***
@@ -103,5 +95,4 @@ Vol. 1/187, Kamaluddin; Shaykh Saduq; Vol. 1/270
 [^2]: Usul al-Kafi; Muhammad bin Yaqoob Kulaini; Vol. 1/187
 
 [^3]: Rauda Kafi; Muhammad bin Yaqoob Kulaini; Pg. 35
-
 

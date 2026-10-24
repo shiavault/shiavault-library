@@ -47,4 +47,3 @@ the Companions as heretics.
 [^2]: He is the second Umayyid Caliph appointed by his father Muawiya as
 his successor.
 
-

@@ -140,4 +140,3 @@ He took a handful of water to drink whereupon he remembered the thirst
 of Imam Hussain and those who were with him. He threw the water away
 choosing not to drink out of empathy with his kinship.
 
-

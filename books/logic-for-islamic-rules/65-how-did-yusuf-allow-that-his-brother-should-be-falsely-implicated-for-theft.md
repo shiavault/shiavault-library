@@ -20,13 +20,13 @@ in his brothers bag and then he had them accused of some other theft.
 This is the point worth nothing.
 
 Now the question remains why Yusuf (a.s.) did this? As obvious from the
-76<sup>th</sup> verse he had no other solution for retaining his
+76th verse he had no other solution for retaining his
 brother. Neither in those days of famine the laws of Egypt allowed that
 anyone could be retained there for no reason at all. Nor his other
 brothers were prepared to leave his younger brother in Misr. And as many
 commentators have written Yusuf (a.s.) had already told his
 
- brother. The 69<sup>th</sup> verse shows that he already introduced
+ brother. The 69th verse shows that he already introduced
 himself to his brother in a confidential meeting and it is possible that
 he had informed him of this plan also. Therefore, from the point of view
 of Yusuf (a.s.) there was no difficulty in this matter became his
@@ -38,5 +38,4 @@ that there had been a theft, checked the baggage and accused Yusufs
 brother and detained him. Since Yusufs brother had already known the
 plan he remained quiet. The verse does not speak of anything contrary or
 that this incident was witnessed by Yusuf (a.s.).
-
 

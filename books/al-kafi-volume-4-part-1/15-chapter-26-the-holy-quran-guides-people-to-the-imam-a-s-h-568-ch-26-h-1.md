@@ -28,7 +28,6 @@ the words of Allah. "This Quran shows the way to that which is the most
 upright . . ." (17:9) The Imams (a.s.)said, "It guides to the Imam
 (a.s.)."
 
-
 **Chapter 27 : The Bounty and Blessings that Allah, the Most Holy, the
 Most High has mentioned in His book, the Holy Quran are the Imams (a.s.)
 H 570, Ch. 27, h 1**
@@ -81,7 +80,6 @@ of God through disbelief and led their people to destruction?" (14:28)
 The Imam (a.s.) said it is a reference to all of Quraysh who exercised
 animosity towards the Holy Prophet (s.a.), created wars against him and
 rejected his will about his successor."
-
 
 **Chapter 28 : The People whom Allah, the Most Holy, the Most High, has
 called Mutawassimin (distinguished) in His book are the Imams (a.s.) who
@@ -151,5 +149,4 @@ children are the distinguieshed ones."
 In a different copy it is narrated from Ahmad ibn Mahran from Muhammad
 ibn Ali from Muhammad ibn Aslam from Ibrahim ibn Ayyub through the chain
 of his nnarrators a similar
-
 

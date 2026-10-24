@@ -30,12 +30,8 @@ pray and the people had stoop up behind him, when one of the Khawarij
 whose name was Ibn al-Kawwa' shouted out, and read a verse from the
 Qur'an in allusion to 'Ali:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
-أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ.
-  </p>
-</blockquote>
+> وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
+> أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ.
 
 This verse was addressed to the Prophet:
 
@@ -61,11 +57,7 @@ verse; and when he finished, 'Ali continued with the prayer. Then Ibn
 al-Kawwa' repeated the verse, and meanwhile \`Ali fell silent again. He
 kept silent because it is a Qur'anic command that:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا
-  </p>
-</blockquote>
+> وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا
 
 ***And when the Qur'an is recited, give you ear to it and be silent.
 (al-A'raf, 7:204)***
@@ -76,12 +68,8 @@ reciting the Qur'an, believers must be silent and listen.
 After he had repeated the verse several times, wanting to disrupt the
 prayer, 'Ali recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ
-لَا يُوقِنُونَ
-  </p>
-</blockquote>
+> فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ
+> لَا يُوقِنُونَ
 
 ***So be thou patient: surely Allah's promise is true; and let not those
 who have not sure faith make thee unsteady. (ar-Rum, 30:60)***
@@ -128,5 +116,4 @@ Khawarijism while the remainder showed their obstinacy. They were
 severely beaten, and apart from a very small band none remained.
 
 [^1]: . Sharh, Ibn Abi 'l-Hadid, vol.6, p.311.
-
 

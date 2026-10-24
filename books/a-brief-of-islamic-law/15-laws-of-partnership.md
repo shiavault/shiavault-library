@@ -402,4 +402,3 @@ if anyone sews his dress, he will pay him $10. But if he meaned to pay
 some money for doing any part of the task, he should pay the money for
 the part done.
 
-

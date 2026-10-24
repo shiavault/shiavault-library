@@ -61,4 +61,3 @@ and idolaters who did not worship only Allah.
 
 [^2]: Ibn Taimia, Al-Was'ia al-Kubra, p. 5.
 
-

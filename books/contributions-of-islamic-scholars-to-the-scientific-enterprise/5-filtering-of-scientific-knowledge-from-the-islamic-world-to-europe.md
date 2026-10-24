@@ -25,4 +25,3 @@ developments recorded in Arabic that were subsequently translated into
 Latin (Burnett, 2001; Schramm: 2001), in corners of Europe prior to the
 Renaissance.
 
-

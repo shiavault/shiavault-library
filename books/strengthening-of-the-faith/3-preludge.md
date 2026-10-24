@@ -179,4 +179,3 @@ first chapter consists of description concerning the concept of Islamic
 Monotheism and the wickedness of polytheism and the second chapter
 consists of compliance with Sunnah and the vices of Bid'ah.
 
-

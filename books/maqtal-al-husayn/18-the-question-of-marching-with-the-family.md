@@ -170,4 +170,3 @@ obeying his master whenever the latter bids or forbids him.
 [^1]: Read the text of these three speeches in a later part of this book
 where the subject of martyrdom is discussed.
 
-

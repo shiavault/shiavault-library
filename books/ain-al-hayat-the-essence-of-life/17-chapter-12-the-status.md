@@ -23,13 +23,9 @@ It is authentically reported from Imam Ja’far As-Sadiq (as) that If a
 person carries the tales of a *Mu’min,* that he had witnessed or heard,
 his position will be as stated by Allah,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
-آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ وَاللَّهُ
-يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
+> آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ وَاللَّهُ
+> يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ﴾
 
 ***Those who like to reveal the failings of the faithful, they have
 severe chastisment in store for them?*** **(24:19)**
@@ -358,5 +354,4 @@ Very soon the Prophet (S) said, “My *Ummat* will have people who will be
 born in affluence. They will be pampered with delicious foods and
 victuals. Flattering poets will sing paens in their praise. These will
 be the bad ones among my *Ummat!*”
-
 

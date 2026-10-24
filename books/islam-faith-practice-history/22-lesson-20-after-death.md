@@ -178,4 +178,3 @@ hereafter.
  Explain how the saying of Imam ‘Ali quoted at the end of the lesson
 affected you.
 
-

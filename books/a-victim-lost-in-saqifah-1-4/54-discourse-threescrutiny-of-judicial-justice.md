@@ -145,7 +145,7 @@ Mazloomiyat-e-Bartareen Banu* (Translation: Masood Shikohi), Pgs.
 **[2]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 5  
 **[3]** Its sources were explained in Discourse Two  
-**[4]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[4]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 203
 
 “When he gave his lash to the Egyptian to scourge Muhammad bin Amr Aas,
@@ -241,12 +241,12 @@ considered him a strong rival.]**
 **[2]** Allamah Sayyid Murtuza Askari: *Abdullah Ibne Saba Wa Deegar
 Afsaane* (Abdullah Bin Saba and other legends), Vol. 1, Pgs. 249-254  
 **[3]** Ibid. Vol. 1, Pg. 253  
-**[4]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+**[4]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 85; Fareedoon Islamniya: *Ashra-e-Mubashira*
-(1<sup>st</sup> Edition 1380), Pg. 90  
+(1st Edition 1380), Pg. 90  
  **[5]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 7  
-**[6]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[6]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 195  
 **[7]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 7
@@ -291,7 +291,7 @@ The judgment is upon you.
 
 ------------------------------------------------------------------------
 
-**[1]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[1]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 101  
 **[2]** Ibne Abil Hadeed: *Sharh Nahjul Balagha,* Vol. 12, Pg. 19; Ibne
 Jauzi: *Tarikh Umar bin Khattab,* Pg. 83This historical document also

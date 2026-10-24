@@ -35,4 +35,3 @@ al-Ta’rīkh, vol. 4, p. 117.
 
 [^2]: Ibid, vol. 4, p. 117.
 
-

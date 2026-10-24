@@ -59,11 +59,7 @@ Shaykh's practical monotheism. It indicated that what the Holy Qur'an
 says at the latter part of the story of the Prophet Yusuf (a) in the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-انه من يتق ويصبر فان الله لايضيع أجر المحسنين
-  </p>
-</blockquote>
+> انه من يتق ويصبر فان الله لايضيع أجر المحسنين
 
 (Behold, he that is righteous and patient-never will Allah let the
 reward to be lost, of those who do right.) (Yusuf: 90), is a general
@@ -72,11 +68,7 @@ rule and is not restricted only to the Prophet Yusuf (a).
 This shows that what the Holy Qur'an says concerning the Prophet Musa
 (a) i.e.
 
-<blockquote dir="rtl">
-  <p>
-(ولما بلغ اشده واستوى اتيناه حكماً وعلما وكذلك نجزي المحسنين)
-  </p>
-</blockquote>
+> (ولما بلغ اشده واستوى اتيناه حكماً وعلما وكذلك نجزي المحسنين)
 
 (When he attained his full manhood, and was firmly established (in life)
 We gave him power and knowledge: thus do We reward those who do right.)
@@ -160,13 +152,9 @@ both Shi'as and Sunnis -have given positive answers to this question.
 Hereby, some examples are given in this respect:[^8] The Holy prophet
 (s) said:
 
-<blockquote dir="rtl">
-  <p>
-"ما من عبد الا وله في وجهه عينان يبصر بهما امر الدنيا، وعينان في قلبه
-يبصر بهما أمر الآخرة، فاذا أراد الله بعبد خيراً فتح عينيه اللتين في
-قلبه، فأبصر بهما ما وعده بالغيب، فآمن بالغيب على الغيب"
-  </p>
-</blockquote>
+> "ما من عبد الا وله في وجهه عينان يبصر بهما امر الدنيا، وعينان في قلبه
+> يبصر بهما أمر الآخرة، فاذا أراد الله بعبد خيراً فتح عينيه اللتين في
+> قلبه، فأبصر بهما ما وعده بالغيب، فآمن بالغيب على الغيب"
 
 "There is no servant (human being) except that they have two eyes on
 their faces to see the worldly things with, and two eyes in their hearts
@@ -177,23 +165,15 @@ eyes."[^9]
 
 And in another *hadith,* the Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-"لولا تمزّع قلوبكم وتزيدكم في الحديث لسمعتم ما أسمع"
-  </p>
-</blockquote>
+> "لولا تمزّع قلوبكم وتزيدكم في الحديث لسمعتم ما أسمع"
 
 "If your hearts were not dispersed and you were not so loquacious, you
 would undoubtedly hear what I hear.[^10]
 
 Similarly, Imam al-Sadiq (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"ان للقلب أذنين: روح الايمان يساره بالخير، والشيطان يساره بالشر،
-فايهما ظهَر على صاحبه غلبه"
-  </p>
-</blockquote>
+> "ان للقلب أذنين: روح الايمان يساره بالخير، والشيطان يساره بالشر،
+> فايهما ظهَر على صاحبه غلبه"
 
 "Verily the heart has two ears: the Spirit of Faith whispers good in one
 and the Satan whispers evil in the other one. Thus, anyone of those that
@@ -322,5 +302,4 @@ will come up in the first chapter of part 3: "Private Guidelines."
 [^10]: Ibid, X, 4990: 16956.
 
 [^11]: Ibid, X, 4988: 16950.
-
 

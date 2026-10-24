@@ -93,4 +93,3 @@ p. 307.
 [^4]: Al-Mawāhib as-Saniyyah, p. 77; Al-Mahajjat al-Baydā', vol. 8, p.
 58 (with a slight difference).
 
-

@@ -9,4 +9,3 @@ sins and that he ought to be appointed by Allah. Also a brief
 description of the Divine texts (Nusoos) revealed regarding the Imams.
 So also some of their virtues. There are several Parts in this.
 
-

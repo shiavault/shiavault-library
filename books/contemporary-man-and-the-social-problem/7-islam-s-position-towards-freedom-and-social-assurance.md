@@ -201,11 +201,7 @@ mankind from others’ control, breaking the chains and shackles which
 handcuff him. It considers the achievement of this negative implication
 of free­dom as one of the greatest goals of the Divine Mess­age Itself:
 
-<blockquote dir="rtl">
-  <p>
-وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالأَغْلالَ الَّتِي كَانَتْ عَلَيْهِمْ
-  </p>
-</blockquote>
+> وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالأَغْلالَ الَّتِي كَانَتْ عَلَيْهِمْ
 
 ***And He releases them from their heavy burdens and from the yokes that
 are on them*****...** ***(Qur'an, 7: 157).***
@@ -228,14 +224,10 @@ there­fore, is unity and belief in sincere submission to Allah before
 Whose hands all idolatrous powers are crushed, the powers which trampled
 on man's dignity throughout history.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاء بَيْنَنَا
-وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ بِهِ
-شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ
-اللَّهِ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاء بَيْنَنَا
+> وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ بِهِ
+> شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ
+> اللَّهِ
 
 ***Say: "O People of the Book (Christians and Jews)! Come to common
 terms between us and you: that we worship none but Allah; that we
@@ -243,31 +235,19 @@ associate no partners with Him; that we install none, from among
 our­selves, as lords and patrons other than Allah."*** ***(Qur'an, 3:64)
 .***
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ، وَاللَّهُ خَلَقَكُمْ وَمَا
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ، وَاللَّهُ خَلَقَكُمْ وَمَا
+> تَعْمَلُونَ
 
 ***He said: "Do you worship that which you have (your­selves) carved?!
 But Allah has created you and your handiwork."*** ***(Qur'an,
 37:95-96).***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
 
 ***Verily those whom you call on besides Allah are servants like unto
 you*****..** ***(Qur'an, 7:194).***
 
-<blockquote dir="rtl">
-  <p>
-أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ
-  </p>
-</blockquote>
+> أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ
 
 ***Are many lords differing among themselves better, or the one Allah,
 Supreme and Irresist­ible?*** ***(Qur'an, 12:39).***
@@ -291,11 +271,7 @@ elevated his soul will be and the deeper his feeling of dignity and
 liberty, and the more stiff his will to stand in the face of tyranny,
 corruption and en­slavement by others:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ
 
 ***And those who, when an oppressive wrong is inflicted on them, (are
 not cowed but) help and defend themselves.*** ***(Qur'an, 42:39).***
@@ -422,18 +398,14 @@ spiritual stamp, developing his criteria and principles, pulling him out
 of earth and its limited goals to vaster horizons and more sublime
 objectives:
 
-<blockquote dir="rtl">
-  <p>
-زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاء وَالْبَنِينَ
-وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ
-الْمُسَوَّمَةِ وَالأَنْعَامِ وَالْحَرْثِ ذَلِكَ مَتَاعُ الْحَيَاةِ
-الدُّنْيَا وَاللَّهُ عِندَهُ حُسْنُ الْمَآبِ. قُلْ أَؤُنَبِّئُكُم
-بِخَيْرٍ مِّن ذَلِكُمْ لِلَّذِينَ اتَّقَوْا عِندَ رَبِّهِمْ جَنَّاتٌ
-تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَأَزْوَاجٌ
-مُّطَهَّرَةٌ وَرِضْوَانٌ مِّنَ اللَّهِ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ
-.
-  </p>
-</blockquote>
+> زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاء وَالْبَنِينَ
+> وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ
+> الْمُسَوَّمَةِ وَالأَنْعَامِ وَالْحَرْثِ ذَلِكَ مَتَاعُ الْحَيَاةِ
+> الدُّنْيَا وَاللَّهُ عِندَهُ حُسْنُ الْمَآبِ. قُلْ أَؤُنَبِّئُكُم
+> بِخَيْرٍ مِّن ذَلِكُمْ لِلَّذِينَ اتَّقَوْا عِندَ رَبِّهِمْ جَنَّاتٌ
+> تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَأَزْوَاجٌ
+> مُّطَهَّرَةٌ وَرِضْوَانٌ مِّنَ اللَّهِ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ
+> .
 
 ***Fair in the eyes of men is the love of things they covet: women and
 sons; heaped-up hoards of gold and silver; horses branded (for blood and
@@ -501,23 +473,15 @@ determining his conduct, he can never truly free himself social­ly in
 order to resist temptation, nor can he wage the battle of an external
 liberation with merits and bravery:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا
-بِأَنفُسِهِمْ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا
+> بِأَنفُسِهِمْ
 
 ***Verily, never will Allah change the con­dition of a people until they
 change it them­selves (with their own souls).*** ***(Qur'an, 13:11).***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَرَدْنَا أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا
-فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا
-تَدْمِيرًا
-  </p>
-</blockquote>
+> وَإِذَا أَرَدْنَا أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا
+> فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا
+> تَدْمِيرًا
 
 ***If We will to perish a village, We would order the rich in it who
 would make corruption therein; then it would be opportune for Our call,
@@ -533,14 +497,10 @@ It smashes, in the field of exchanged relationships among individuals,
 the social idols as well. It eman­cipates humanity from its slavery. It
 puts an end to man worshipping man:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاء بَيْنَنَا
-وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ بِهِ
-شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ
-اللَّهِ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاء بَيْنَنَا
+> وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ بِهِ
+> شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ
+> اللَّهِ
 
 ***Say: "O People of the Book (Christians and Jews)! Come to common
 terms between us and you: that we worship none but Allah; that we
@@ -573,11 +533,7 @@ idolatrous masks professing deism.
 Islam has emancipated man from slavery to desire, as we have come to
 know above, and from the fakery of those deceitful idolatrous masks:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
 
 ***Those whom you call as gods other than Allah are but His servants
 like your own selves*****.** ***(Qur'an, 7:194).***
@@ -597,21 +553,13 @@ emancipating the individual from the slavery of desires and idols,
 allowing him to behave as he pleases as long as he does not go beyond
 Allah's limits. The Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الأَرْضِ جَمِيعًا
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الأَرْضِ جَمِيعًا
 
 ***It is He Who has created for you all things that are on earth...***
 ***(Qur'an, 2:29).***
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ جَمِيعًا
-مِّنْهُ
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ جَمِيعًا
+> مِّنْهُ
 
 ***And He has subjected to you, as from Him, all that is in the heavens
 and on earth.*** ***(Qur'an, 45:13).***
@@ -683,15 +631,11 @@ idea" of the Western civilization, for it is based on man wor­shipping
 Allah, and that Allah alone is man's Master and Sustainer, the only One
 Who has the right to arrange his life-style:
 
-<blockquote dir="rtl">
-  <p>
-أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ
-الْقَهَّارُ؟ مَا تَعْبُدُونَ مِن دُونِهِ إِلاَّ أَسْمَاء
-سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن
-سُلْطَانٍ إِنِ الْحُكْمُ إِلاَّ لِلَّهِ أَمَرَ أَلاَّ تَعْبُدُواْ
-إِلاَّ إِيَّاهُ
-  </p>
-</blockquote>
+> أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ
+> الْقَهَّارُ؟ مَا تَعْبُدُونَ مِن دُونِهِ إِلاَّ أَسْمَاء
+> سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن
+> سُلْطَانٍ إِنِ الْحُكْمُ إِلاَّ لِلَّهِ أَمَرَ أَلاَّ تَعْبُدُواْ
+> إِلاَّ إِيَّاهُ
 
 ***Are many lords differing among them­selves better or the One God,
 Supreme and Irresistible? The Command is for none but Allah. He has
@@ -701,12 +645,8 @@ commanded that you should worship none but Him:...*** ***(Qur'an,
 And it blames those individuals who yield to others, granting them the
 right of Imamate in life and Divine upbringing:
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُواْ أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِّن دُونِ
-اللَّهِ
-  </p>
-</blockquote>
+> اتَّخَذُواْ أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِّن دُونِ
+> اللَّهِ
 
 ***They take their priests and anchorites to be their lords in
 derogation of Allah*****.** ***(Qur'an, 9:31).***
@@ -731,12 +671,8 @@ as well as the society whom he ruled, for he symbolized the control of
 the individual over the government and the domination of one class over
 all others:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِرْعَوْنَ عَلا فِي الأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا
-يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ
-  </p>
-</blockquote>
+> إِنَّ فِرْعَوْنَ عَلا فِي الأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا
+> يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ
 
 ***Truly Pharaoh elevated himself in the land and broke up its people
 into sections, depressing a small group among them...*** ***(Qur'an,
@@ -827,47 +763,31 @@ have already come to know, so has it liberated the human consciousness
 from the slavery of imi­tation, fanaticism and superstition. In both
 this and that has man become free indeed in his mind and will.
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوا إِلَى
-اللَّهِ لَهُمُ الْبُشْرَى فَبَشِّرْ عِبَادِ الَّذِينَ يَسْتَمِعُونَ
-الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ أُوْلَئِكَ الَّذِينَ هَدَاهُمُ
-اللَّهُ وَأُولَئِكَ هُمْ أُوْلُوا الأَلْبَابِ
-  </p>
-</blockquote>
+> وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوا إِلَى
+> اللَّهِ لَهُمُ الْبُشْرَى فَبَشِّرْ عِبَادِ الَّذِينَ يَسْتَمِعُونَ
+> الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ أُوْلَئِكَ الَّذِينَ هَدَاهُمُ
+> اللَّهُ وَأُولَئِكَ هُمْ أُوْلُوا الأَلْبَابِ
 
 ***So announce the god tidings to My servants, those who listen to the
 word, and follow the best (meaning) of it. Those are they whom Allah has
 guided; those are men of reason.*** ***(Qur'an, 39:17-18).***
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ
 
 ***And We have sent down unto thee (also) the Message; that you may
 explain clearly to men what is sent for them, and that they may give
 thought. (Qur'an, 16:44).***
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ أَمَانِيُّهُمْ؛ قُلْ: هَاتُواْ بُرْهَانَكُمْ إِن كُنتُمْ
-صَادِقِينَ
-  </p>
-</blockquote>
+> تِلْكَ أَمَانِيُّهُمْ؛ قُلْ: هَاتُواْ بُرْهَانَكُمْ إِن كُنتُمْ
+> صَادِقِينَ
 
 ***These are their (vain) desires. Say: "Pro­duce your proof if you are
 truthful."*** ***(Qur'an, 2:111).***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُواْ بَلْ
-نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
-لاَ يَعْقِلُونَ شَيْئًا وَلاَ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُواْ بَلْ
+> نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
+> لاَ يَعْقِلُونَ شَيْئًا وَلاَ يَهْتَدُونَ
 
 ***When it is said to them: "Follow what Allah has revealed," they say:
 "Nay! We shall follow the ways of our fathers." What?! Even though their
@@ -993,5 +913,4 @@ democracy in Iqtisaduna, pp. 247 -269.
 [^5]: For detailed information, see Iqtisaduna (the chapter on
 “Economical Problems as Islam sees them and their solutions”), p.328 and
 following pages.
-
 

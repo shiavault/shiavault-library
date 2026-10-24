@@ -65,4 +65,3 @@ alleged *ahadith*! 
 p. 299: Ibn al-Athir, Tarikh al-Kamil, vol. 5 (Daru l-Kutubi l-Arabi.
 1985) p. 39. 
 
-

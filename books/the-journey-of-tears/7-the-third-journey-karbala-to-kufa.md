@@ -120,4 +120,3 @@ Bibi Zainab rushed forward and planted herself in front of Imam Zain ul
 with such defiance, determination and anger that ibn Ziyad got up and
 walked away ordering that the prisoners be locked up.
 
-

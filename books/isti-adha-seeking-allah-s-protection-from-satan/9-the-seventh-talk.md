@@ -1,20 +1,12 @@
 The Seventh Talk
 ================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -23,16 +15,11 @@ then lo! They see (aright). (Sura al-A’raaf, 7:201)***
 Be Satan’s antagonist
 ---------------------
 
-
 We have said that till a person doesn’t maintain a distance from Satan,
 the true spirit of *Isti’adha* will not manifest in him. The person who
 indulges in sinning is Satan’s subordinate. Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا
-  </p>
-</blockquote>
+> إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا
 
 ***Surely the Shaitan is your enemy, so take him for an enemy.. (Sura
 al-Fatir, 35:6)***
@@ -54,11 +41,7 @@ would have some respite!”
 When you sleep, the accursed Satan is fully awake. He never sleeps. He
 always guards over men and looks for opportunities to bring harm them.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لاَ تَرَوْنَهُمْ
-  </p>
-</blockquote>
+> إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لاَ تَرَوْنَهُمْ
 
 ***He, and his retainers, watch over you from such a place that they can
 see you and you can’t see them. (Sura al‑A’raaf, 7:27)***
@@ -73,10 +56,8 @@ slightest fault or negligence, then you too must guard against him fully
 armed. The ammunition for men against Satan is *taqwa* or piety. Adopt
 piety to meet the onslaughts of Iblis!
 
-
 Mu’min’s arms: mustahabat (non mandatory) prayers and tark al-makruhat, or abstinence from undesiderable acts
 -------------------------------------------------------------------------------------------------------------
-
 
 Offering non-obligatory prayers, to the best of one’s physical
 capabilities, is very effective for warding off the enemy, Satan.
@@ -90,7 +71,6 @@ dangerously near the mouth of a serpent. Despite all the friendship and
 nearness with Satan, the person will not get any support from him when
 the time for retribution (*mukafaat)* comes. At that moment Satan will
 turn away his face as if he never knew the person.
-
 
 Satan intensifies his attacks in stages
 ---------------------------------------
@@ -116,7 +96,6 @@ Only the people of *taqwa* (piety), with their effective defenses, can
 save themselves from the maneuvers of Satan. The poor ignorant person
 cannot meet the onslaught of Satan.
 
-
 Wudhu or ablution, the sharp instrument of defence of a Mu’min
 --------------------------------------------------------------
 
@@ -135,7 +114,6 @@ It is said, “*Al-wudhu nūr wal wudhu ‘alal wudhu nūrun ‘ala nūr” (Wud
 is a light and performing a wudhu over another is light upon light!).*
 This is the light that dispels the darkness created by Satan in the
 hearts of the persons.
-
 
 Fasting and charity break the backbone of Satan
 -----------------------------------------------
@@ -191,11 +169,7 @@ his wife or others distract him from the good turn.
 
 Sadaqa is also not giving a few coins reluctantly because:
 
-<blockquote dir="rtl">
-  <p>
-لَن تَنَالُواْ الْبِرَّ حَتَّى تُنفِقُواْ مِمَّا تُحِبُّونَ
-  </p>
-</blockquote>
+> لَن تَنَالُواْ الْبِرَّ حَتَّى تُنفِقُواْ مِمَّا تُحِبُّونَ
 
 ***By no means shall you attain to righteousness until you spend
 (benevolently*** ***in the way of your*** ***Lord) out of what you
@@ -207,7 +181,6 @@ another condition attached to your charity that you should not brag
 about it to the beneficiary nor to other friends. Belittling the person
 who has received your help by reminding of your good deed can render
 your *sadaqa null and void.*
-
 
 Penitence: another weapon in the hands of a Mu’min
 --------------------------------------------------
@@ -227,7 +200,6 @@ that when you are old. At that time penitence will be ideal that you
 will be weak and sickly and you may not have strength to break your
 resolve of penitence. This is the time of your youth. How do you expect
 to keep your promise of abstinence after expressing penitence?”
-
 
 Two more powerful weapons to defeat Satan
 -----------------------------------------
@@ -250,7 +222,6 @@ Imam as-Sajjad (a.s.) says in one of his supplications:
 *“O Allah (S.w.T.)!* *I seek you protection from my enemy! O Master of
 the House! The ferocious dog is attacking me. Come to my rescue and save
 me from the harm that it can cause to me!”*
-
 
 Iblīs bites the foot of Imam as-Sajjad (a.s.)
 ---------------------------------------------
@@ -325,7 +296,6 @@ evil influences! Confess whether you value your worldly desires more
 than the love of Imam ‘Ali (a.s.)! If your concern is fulfillment of
 worldly desires, are you not concerned for the Hereafter?
 
-
 The Hereafter depends on the worldly desires
 --------------------------------------------
 
@@ -355,11 +325,9 @@ You must yourself show kindness to your friends!”
 We should hope that we die with the love for ‘Ali (a.s.) in the depths
 of our hearts and Allah (S.w.T.)’s Beneficence is on us!
 
-
 [^1]: The books wirtten by Ayatullah Dastaghaib, Dhunub al-Kabira (The
 Greatest Sins) and Qalb as-Saleem (The Tranquil Heart) cover this
 subject at great length.
 
 [^2]: Safinat al-Bihar, vol 2, page 62
-
 

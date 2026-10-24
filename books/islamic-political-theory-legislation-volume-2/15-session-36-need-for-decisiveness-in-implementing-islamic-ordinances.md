@@ -276,13 +276,9 @@ deprive the people of a conscious choice even by means of showing
 miracles and interfering in their free choice so that they accept the
 truth involuntarily and not resist it. As such, God said:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ ٭ إِنْ
-نَشَأْ نُنَزِّلْ عَلَيْهِم مِن السَّمَاء آيَةً فَظَلَّتْ أَعْنَاقُهُمْ
-لَهَا خَاضِعِينَ﴾
-  </p>
-</blockquote>
+> ﴿لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ ٭ إِنْ
+> نَشَأْ نُنَزِّلْ عَلَيْهِم مِن السَّمَاء آيَةً فَظَلَّتْ أَعْنَاقُهُمْ
+> لَهَا خَاضِعِينَ﴾
 
 “You might kill yourself [out of distress] that they will not have
 faith. If We wish We will send down to them a sign from the sky before
@@ -309,12 +305,8 @@ satanic activities hindered the realization of the divine purpose. God
 wants all human beings to be guided and be able to distinguish the path
 of truth from falsehood, but they obstruct His divine purpose:
 
-<blockquote dir="rtl">
-  <p>
-﴿...فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ إِنَّهُمْ لاَ أَيْمَانَ لَهُمْ
-لَعَلَّهُمْ يَنتَهُونَ﴾
-  </p>
-</blockquote>
+> ﴿...فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ إِنَّهُمْ لاَ أَيْمَانَ لَهُمْ
+> لَعَلَّهُمْ يَنتَهُونَ﴾
 
 ***"Then fight the leaders of unfaith—indeed they have no [commitment
 to] pledges—maybe they will relinquish.**”*[^2]
@@ -344,12 +336,8 @@ Apostle (*s*) to fight them and deal with them violently, severely and
 sternly—the same Apostle (*s*) who is described by God in the Qur’an in
 this manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَبِمَا رَحْمَةٍ مِنَ اللّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ...﴾
-  </p>
-</blockquote>
+> ﴿فَبِمَا رَحْمَةٍ مِنَ اللّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ...﴾
 
 “It is by Allah’s mercy that you are gentle to them; and had you been
 harsh and hardhearted, surely they would have scattered from around
@@ -358,12 +346,8 @@ you...”[^3]
 Elsewhere in the Qur’an, God commands him to fight and be severe with
 the faithless:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ
-وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ
+> وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ﴾
 
 “O Prophet! Wage jihad against the faithless and the hypocrites, and be
 severe with them. Their refuge shall be hell, and it is an evil
@@ -373,13 +357,9 @@ In yet another verse of the Qur’an, God orders the Apostle (*s*) to
 retaliate in kind against those who have threatened the lives and
 properties of Muslims and fight them with utmost severity:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَاتِلُواْ فِي سَبِيلِ اللّهِ الَّذِينَ يُقَاتِلُونَكُمْ... ٭
-وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِنْ حَيْثُ
-أَخْرَجُوكُمْ...﴾
-  </p>
-</blockquote>
+> ﴿وَقَاتِلُواْ فِي سَبِيلِ اللّهِ الَّذِينَ يُقَاتِلُونَكُمْ... ٭
+> وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِنْ حَيْثُ
+> أَخْرَجُوكُمْ...﴾
 
 “Fight in the way of Allah those who fight you… And kill them wherever
 you confront them and expel them from where they expelled you...”[^5]
@@ -406,12 +386,8 @@ with violence? Should we not react violently when they threaten our
 religion? Should we remain seated and smile?! What does this verse
 command, *“And kill them wherever you confront them”*? Why does He say:
 
-<blockquote dir="rtl">
-  <p>
-﴿محمدٌ رسولُ اللهِ و الذينَ معهُ اشدّاءُ عَلَی الکفّارِ رحماءُ
-بينهم... ﴾
-  </p>
-</blockquote>
+> ﴿محمدٌ رسولُ اللهِ و الذينَ معهُ اشدّاءُ عَلَی الکفّارِ رحماءُ
+> بينهم... ﴾
 
 ***“Muhammad, the Apostle of Allah, and those who are with him are hard
 against the faithless and merciful among themselves”*****?**[^6]
@@ -447,11 +423,7 @@ and tolerance while conveying His message, observe fortitude and
 forbearance in facing difficulties, verbal abuses, insults, harsh
 treatment, and persecution so that people be guided to the truth:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَاصْبِرْ كَمَا صَبَرَ أُوْلُوا الْعَزْمِ مِنَ الرُّسُلِ﴾
-  </p>
-</blockquote>
+> ﴿فَاصْبِرْ كَمَا صَبَرَ أُوْلُوا الْعَزْمِ مِنَ الرُّسُلِ﴾
 
 “So be patient just as the resolute among the apostles were
 patient.”[^7]
@@ -495,16 +467,12 @@ over the people. Only the sense of responsibility in view of the
 people’s allegiance prompted him to accept the headship of government.
 As Imam ‘Ali (*‘a*) said,
 
-<blockquote dir="rtl">
-  <p>
-أَمَا وَالَّذِي فَلَقَ الْحَبَّةَ، وَبَرَأَ النَّسَمَةَ، لَوْلاَ
-حُضُورُ الْحَاضِرِ، وَقِيَامُ الْحُجَّةِ بِوُجُودِ النَّاصِرِ، وَمَا
-أَخَذَ اللهُ عَلَى العُلَمَاءِ أَنْ لَا يُقَارُّوا عَلَى كِظَّةِ
-ظَالِمٍ، وَلا سَغَبِ مَظْلُومٍ، لاََلقَيْتُ حَبْلَهَا عَلَى
-غَارِبِهَا، وَلَسَقَيْتُ آخِرَهَا بِكَأْسِ أَوَّلِها، وَلاََلفَيْتُمْ
-دُنْيَاكُمْ هذِهِ أَزْهَدَ عِنْدِي مِنْ عَفْطَة عَنْزٍ
-  </p>
-</blockquote>
+> أَمَا وَالَّذِي فَلَقَ الْحَبَّةَ، وَبَرَأَ النَّسَمَةَ، لَوْلاَ
+> حُضُورُ الْحَاضِرِ، وَقِيَامُ الْحُجَّةِ بِوُجُودِ النَّاصِرِ، وَمَا
+> أَخَذَ اللهُ عَلَى العُلَمَاءِ أَنْ لَا يُقَارُّوا عَلَى كِظَّةِ
+> ظَالِمٍ، وَلا سَغَبِ مَظْلُومٍ، لاََلقَيْتُ حَبْلَهَا عَلَى
+> غَارِبِهَا، وَلَسَقَيْتُ آخِرَهَا بِكَأْسِ أَوَّلِها، وَلاََلفَيْتُمْ
+> دُنْيَاكُمْ هذِهِ أَزْهَدَ عِنْدِي مِنْ عَفْطَة عَنْزٍ
 
 *Behold, by Him who split the grain (to grow) and created living beings,
 if people had not come to me, and supporters had not exhausted the
@@ -623,5 +591,4 @@ enemies and the people of the world.
 [^7]: Surah al-Ahqaf 46:35.
 
 [^8]: Nahj al-Balaghah, Sermon 3.
-
 

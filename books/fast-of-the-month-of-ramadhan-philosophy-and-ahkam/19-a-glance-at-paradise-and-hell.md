@@ -672,4 +672,3 @@ pious widow or a divorcee.
 
 [^14]: Sermon 183.
 
-

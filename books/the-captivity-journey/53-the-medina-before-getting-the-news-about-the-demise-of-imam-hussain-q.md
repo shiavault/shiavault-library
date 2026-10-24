@@ -9,4 +9,3 @@ supporting the son of their Prophet’s daughter (Q), but this did not
 stop them from living in a situation full of fear and worries while
 being watchful for the coming events.
 
-

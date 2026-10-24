@@ -477,4 +477,3 @@ successor to the Prophet.
 
 [^7]: Mustadrak Al-Wasel, Intro. for Nikah c. 85, v. 3.
 
-

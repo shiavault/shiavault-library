@@ -376,4 +376,3 @@ History/Fiqh/Misc. books, and then we will study and analyze the few
 traditions which allege that the Prophet banned Mut'a towards the end of
 his life.
 
-

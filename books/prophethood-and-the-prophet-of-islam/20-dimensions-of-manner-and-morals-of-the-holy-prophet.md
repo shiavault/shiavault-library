@@ -16,11 +16,7 @@ at whatever Almighty Allah was angry with.[^1]
 He was having such excellent morals that Quran has praised him and said
 with regard to him:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلَى‏ خُلُقٍ عَظِيمٍ‏
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلَى‏ خُلُقٍ عَظِيمٍ‏
 
 ***“And most surely you conform (yourself) to sublime morality.”
 (68:4)***
@@ -127,14 +123,10 @@ As a result of the good morals and manners of the Holy Prophet (S)
 people were attracted to him and accepted his call as the Quran has
 said:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظّاً
-غَلِيظَ الْقَلْبِ لَانْفَضُّواْ مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ
-وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى الْأَمْرِ فَإِذَا عَزَمْتَ
-فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ‏
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظّاً
+> غَلِيظَ الْقَلْبِ لَانْفَضُّواْ مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ
+> وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى الْأَمْرِ فَإِذَا عَزَمْتَ
+> فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ‏
 
 ***“Thus it is due to mercy from Allah that you deal with them gently,
 and had you been rough, hard hearted, they would certainly have
@@ -231,12 +223,8 @@ concentration. He also recited the supererogatory and recommended
 prayers. He used to rise up in the last part of the night as Almighty
 Allah says in Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى‏ أَن يَبْعَثَكَ
-رَبُّكَ مَقَاماً مَّحْمُوداً
-  </p>
-</blockquote>
+> وَمِنَ الَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى‏ أَن يَبْعَثَكَ
+> رَبُّكَ مَقَاماً مَّحْمُوداً
 
 ***“And during a part of the night, pray Tahajjud (the midnight prayer)
 beyond what is incumbent on you; maybe your Lord will raise you to a
@@ -247,11 +235,7 @@ During the blessed month of Ramadan he paid more attention to ritual
 prayer and worship of God. He prayed so much that his legs got swollen
 and finally the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-طَه / مَآ أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى‏
-  </p>
-</blockquote>
+> طَه / مَآ أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى‏
 
 ***“Ta Ha. We have not revealed the Quran to you that you may be
 unsuccessful.” (20:1-2)***
@@ -311,94 +295,54 @@ the Prophet are same as Quran.
 Morals of the Prophet are taken directly from revelation and Quran. By
 way of examples see the following:
 
-<blockquote dir="rtl">
-  <p>
-خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَهِلِينَ
-  </p>
-</blockquote>
+> خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَهِلِينَ
 
 ***“Take to forgiveness and enjoin good and turn aside from the
 ignorant.” (7:199)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَنِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَنِ
 
 ***“Surely Allah enjoins the doing of justice and the doing of good (to
 others)…” (16:90)***
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ
-  </p>
-</blockquote>
+> وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ
 
 ***“And be patient and your patience is not but by (the assistance of)
 Allah.” (16:127)***
 
-<blockquote dir="rtl">
-  <p>
-وَ اصْبِرْ عَلَى‏ مَآ أَصَابَكَ إِنَّ ذَ لِكَ مِنْ عَزْمِ الْأُمُورِ
-  </p>
-</blockquote>
+> وَ اصْبِرْ عَلَى‏ مَآ أَصَابَكَ إِنَّ ذَ لِكَ مِنْ عَزْمِ الْأُمُورِ
 
 ***“…and bear patiently that which befalls you; surely these acts
 require courage.” (31:17)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
-  </p>
-</blockquote>
+> وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
 
 ***“And whoever is patient and forgiving, these most surely are actions
 due to courage.” (42:43)***
 
-<blockquote dir="rtl">
-  <p>
-فَاعْفُ عَنْهُمْ وَاصْفَحْ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ‏
-  </p>
-</blockquote>
+> فَاعْفُ عَنْهُمْ وَاصْفَحْ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ‏
 
 ***“…so pardon them and turn away; surely Allah loves those who do good
 (to others).” (5:13)***
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَعْفُواْ وَلْيَصْفَحُواْ أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ
-لَكُمْ
-  </p>
-</blockquote>
+> وَلْيَعْفُواْ وَلْيَصْفَحُواْ أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ
+> لَكُمْ
 
 ***“…and they should pardon and turn away. Do you not love that Allah
 should forgive you?” (24:22)***
 
-<blockquote dir="rtl">
-  <p>
-ادْفَعْ بِالَّتِى هِىَ أَحْسَنُ فَإِذَا الَّذِى بَيْنَكَ وَ بَيْنَهُ
-عَدَاوَةٌ كَأَنَّهُ وَلِىٌّ حَمِيمٌ‏
-  </p>
-</blockquote>
+> ادْفَعْ بِالَّتِى هِىَ أَحْسَنُ فَإِذَا الَّذِى بَيْنَكَ وَ بَيْنَهُ
+> عَدَاوَةٌ كَأَنَّهُ وَلِىٌّ حَمِيمٌ‏
 
 ***“Repel (evil) with what is best, when lo! he between whom and you was
 enmity would be as if he were a warm friend.” (41:34)***
 
-<blockquote dir="rtl">
-  <p>
-وَالْكَظِمِينَ الْغَيْظَ وَ الْعَافِينَ عَنِ الْنَّاسِ
-  </p>
-</blockquote>
+> وَالْكَظِمِينَ الْغَيْظَ وَ الْعَافِينَ عَنِ الْنَّاسِ
 
 ***“…and those who restrain (their) anger and pardon men.” (3:134)***
 
-<blockquote dir="rtl">
-  <p>
-اجْتَنِبُواْ كَثِيراً مِّنَ الظَّنِ‏ّ إِنَّ بَعْضَ الظَّنِ‏ّ إِثْمٌ
-وَلَا تَجَسَّسُواْ وَلَا يَغْتَب بَّعْضُكُم بَعْضاً
-  </p>
-</blockquote>
+> اجْتَنِبُواْ كَثِيراً مِّنَ الظَّنِ‏ّ إِنَّ بَعْضَ الظَّنِ‏ّ إِثْمٌ
+> وَلَا تَجَسَّسُواْ وَلَا يَغْتَب بَّعْضُكُم بَعْضاً
 
 ***“…avoid most of suspicion, for surely suspicion in some cases is a
 sin, and do not spy nor let some of you backbite others.” (49:12)***
@@ -412,11 +356,7 @@ and morals, in such a way that he can be called as the personification
 of the morals and manners of Quran as Ayesha had described him with this
 title. That is why Almighty Allah said with regard to him:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلَى‏ خُلُقٍ عَظِيمٍ‏
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلَى‏ خُلُقٍ عَظِيمٍ‏
 
 ***“And most surely you conform (yourself) to sublime morality.”
 (68:4)***
@@ -432,12 +372,8 @@ factors of his popularity and influence among the Muslims. Since they
 did what he told them to do and agreed to what he said. The same point
 is mentioned in Quran:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظّاً
-غَلِيظَ الْقَلْبِ لَانْفَضُّواْ مِنْ حَوْلِكَ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظّاً
+> غَلِيظَ الْقَلْبِ لَانْفَضُّواْ مِنْ حَوْلِكَ
 
 ***“Thus it is due to mercy from Allah that you deal with them gently,
 and had you been rough, hard hearted, they would certainly have
@@ -994,5 +930,4 @@ Ahyaa, Vol. 4, Pg. 128-132.
 [^43]: Seerat Halabi, Vol. 3, Pg. 120.
 
 [^44]: Biharul Anwar, Vol. 21, Pg. 410; Tarikh Yaqubi, Vol. 2, Pg. 113.
-
 

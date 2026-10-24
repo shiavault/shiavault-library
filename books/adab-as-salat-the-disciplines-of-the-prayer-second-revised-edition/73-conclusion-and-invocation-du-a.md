@@ -55,4 +55,3 @@ and sixty-one of Lunar year (1361 L.H.).[^4]
 
 [^4]: Corresponds to 30th of Farvardīn, 1321 Solar Hijri Year.
 
-

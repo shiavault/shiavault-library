@@ -29,4 +29,3 @@ The Holy Prophet said, 'Whoever wakes up in the morning aspiring for
 something other than Allah has become among the losers and
 transgressors.'
 
-

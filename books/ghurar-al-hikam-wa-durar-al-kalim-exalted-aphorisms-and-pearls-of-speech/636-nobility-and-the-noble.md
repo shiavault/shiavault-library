@@ -34,10 +34,5 @@ dignity.
 merit is deduced from his abundant tolerance.
 
 > 7ـ يُسْتَدَلُّ عَلى نُبْلِ الرَّجُلِ بِقِلَّةِ مَقالِهِ وعَلى
-<blockquote dir="rtl">
-  <p>
-تَفَضُّلِهِ بِكَثْرَةِ إحْتِمالِهِ.
-  </p>
-</blockquote>
-
+> تَفَضُّلِهِ بِكَثْرَةِ إحْتِمالِهِ.
 

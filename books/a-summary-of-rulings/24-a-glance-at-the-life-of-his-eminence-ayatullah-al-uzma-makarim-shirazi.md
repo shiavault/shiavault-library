@@ -85,4 +85,3 @@ Kalimatud-Daar
 
 1st Sha'baan 1414 A.H.
 
-

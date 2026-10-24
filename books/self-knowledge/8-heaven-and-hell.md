@@ -60,4 +60,3 @@ care of our acts, otherwise we will enter hell just now (not only in the
 future). if we think constantly about the ugliness of the sins and their
 realities we will not commit any sin.
 
-

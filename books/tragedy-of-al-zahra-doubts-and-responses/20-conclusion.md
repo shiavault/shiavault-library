@@ -16,4 +16,3 @@ sincerely look for the truth, with the impetus to research its contents
 and to distinguish truth from falsehood. If we have achieved this goal,
 we have won; if not, at least we tried.
 
-

@@ -578,4 +578,3 @@ al-Nisapuriy: al-Mustadrak \`Ala’l-Sahihayn 3:137 H. 4637, 3:138 H.
 al-Wa\`idhin 75; Jawahir al-Matalib 75; Nudhum Durar al-Simtayn 113;
 Yanabi\` al-Mawaddah 1:231.
 
-

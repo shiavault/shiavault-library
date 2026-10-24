@@ -262,4 +262,4 @@ this humble effort.
 
 **A.K. Ahmed  
  August 2006  
- 1<sup>st</sup> Sha’ban, 1427 AH**
+ 1st Sha’ban, 1427 AH**

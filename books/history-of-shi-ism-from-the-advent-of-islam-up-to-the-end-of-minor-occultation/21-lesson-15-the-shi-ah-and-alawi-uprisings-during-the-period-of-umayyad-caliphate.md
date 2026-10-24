@@ -270,4 +270,3 @@ him and some of the supplications in Sahifah as-Sajjadiyyah…” Sahifah
 al-Kamilah as-Sajjadiyyah, trans. ‘Ali-Naqi Faydh al-Islam (n.p.:
 Intisharat-e Faydh Islam, n.d.), pp. 9-12.
 
-

@@ -53,7 +53,6 @@ religion demands that every field of knowledge that is beneficial for an
 Islamic society be regarded as a part and parcel of the "religious
 sciences." [^13]
 
-
 **Group of Sciences and their Scope**
 
 Besides, we think that the group of sciences belonging to the cate­gory
@@ -178,5 +177,4 @@ There is no good in knowledge which does not benefit. [^22]
 
 Knowledge is too immense in scope for anyone to be able to contain it.
 So learn from each science its useful parts. [^23]
-
 

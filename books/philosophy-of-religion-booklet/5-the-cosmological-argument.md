@@ -247,4 +247,3 @@ Therefore:
 
 (5) God exists.
 
-

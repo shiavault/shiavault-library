@@ -8,4 +8,3 @@ from the moment the Muslim ummah gave their pledge of allegiance to Imam
 ‘Ali (as) as the new caliph. It rose to its zenith after the martyrdom
 of Imam ‘Ali (as).
 
-

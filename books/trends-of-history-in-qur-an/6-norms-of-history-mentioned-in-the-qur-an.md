@@ -429,4 +429,3 @@ has been inspired by the Qur'an, which still retains the proud privilege
 of introducing this idea for the first time in the field of human
 knowledge.
 
-

@@ -41,4 +41,3 @@ hasanatan wa fi’l aakhera hasanatan waqina adhaban-naar.*"
 just to say *'Allahu Akbar'* and remain silent between the *takbirs*.
 Such a prayer is invalid (*batil*).
 
-

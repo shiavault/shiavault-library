@@ -76,4 +76,3 @@ oh you nations, with his people. For He will avenge the blood of His
 servants and will render vengeance to his adversaries, and will be
 merciful unto his land and to his people."
 
-

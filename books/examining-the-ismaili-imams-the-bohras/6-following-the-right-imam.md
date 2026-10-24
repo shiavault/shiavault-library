@@ -18,12 +18,8 @@ The Holy Quran informs us only about some of the Prophets.
 
 Quran clearly says in Surah Ghafir verse 78:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ اَرْسَلْنَا رُسُلًا مِّنْ قَبْلِكَ مِنْہُمْ مَّنْ قَصَصْنَا
-عَلَيْكَ وَمِنْہُمْ مَّنْ لَّمْ نَقْصُصْ عَلَيْكَ
-  </p>
-</blockquote>
+> وَلَقَدْ اَرْسَلْنَا رُسُلًا مِّنْ قَبْلِكَ مِنْہُمْ مَّنْ قَصَصْنَا
+> عَلَيْكَ وَمِنْہُمْ مَّنْ لَّمْ نَقْصُصْ عَلَيْكَ
 
 ***“Certainly We have sent apostles before you. Of them are those We
 have recounted to you and of them are those We have not recounted to
@@ -46,11 +42,7 @@ a divinely appointed guide as His representative on earth.
 
 Holy Quran, Surah Ra’ad verse 7 says,
 
-<blockquote dir="rtl">
-  <p>
-وَّلِكُلِّ قَوْمٍ ہَادٍ۝۷ۧ
-  </p>
-</blockquote>
+> وَّلِكُلِّ قَوْمٍ ہَادٍ۝۷ۧ
 
 ***There is a guide for every nation.***[^2]
 
@@ -70,12 +62,8 @@ the Holy Prophet (sawa).
 
 The Holy Quran Surah Nisa verse 59 says:
 
-<blockquote dir="rtl">
-  <p>
-يٰٓاَيُّھَا الَّذِيْنَ اٰمَنُوْٓا اَطِيْعُوا اللہَ وَاَطِيْعُوا
-الرَّسُوْلَ وَاُولِي الْاَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يٰٓاَيُّھَا الَّذِيْنَ اٰمَنُوْٓا اَطِيْعُوا اللہَ وَاَطِيْعُوا
+> الرَّسُوْلَ وَاُولِي الْاَمْرِ مِنْكُمْ
 
 ***“O you who have faith! Obey Allah and Obey the Apostle and those
 vested with authority among you”.***[^4]
@@ -459,5 +447,4 @@ Tradition \#1155; al-Tabaqat, by Ibn Sa’d, vol. 5, p. 91
 
 [^26]: Holy Quran, Suratun Nisa (4), Ayahs 157 and 158 talks about it,
 it says that they say they killed Jesus but they did not.
-
 

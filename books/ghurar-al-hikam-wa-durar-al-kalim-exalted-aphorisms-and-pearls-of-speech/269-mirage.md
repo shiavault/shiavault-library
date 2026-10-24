@@ -18,4 +18,3 @@ attaining prosperity in the Hereafter] are cut off for him.
 
 > 3ـ مَنْ غَرَّهُ السَّرابُ تَقَطَّعَتْ بِهِ الأسْبابُ.
 
-

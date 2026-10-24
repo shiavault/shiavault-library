@@ -71,4 +71,3 @@ that was the prayer of Ibrahim (a.s.) regarding us."
 
 [^4]: Al-Ya'qubi, Tarikh , 1:24-25 (Printed at Qum).
 
-

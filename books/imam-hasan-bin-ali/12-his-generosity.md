@@ -45,4 +45,3 @@ witnessed by this planet after the prophets (as). This was the character
 of the Ahlul Bayt (as) generally and all of them shared the same
 character and personality.
 
-

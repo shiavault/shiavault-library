@@ -70,4 +70,3 @@ to translating every sentence as literally as possible, rather I have
 paid more attention with regards to remaining true to the meaning of the
 text itself.
 
-

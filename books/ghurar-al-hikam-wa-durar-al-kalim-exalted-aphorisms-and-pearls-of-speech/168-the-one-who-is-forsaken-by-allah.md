@@ -23,4 +23,3 @@ rights of [one’s] brothers lightly.
 
 [^1]: Because of the evil actions that one performs. See Q3:160
 
-

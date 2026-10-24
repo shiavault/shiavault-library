@@ -684,4 +684,3 @@ Allah said no such thing.”
 [^14]: I do not know whether this Zuhri is the same famous jurist Zuhri
 or he is someone else.
 
-

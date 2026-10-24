@@ -1700,4 +1700,3 @@ Tehran, 1957, p.67.
 [^1]: The writer had the honor of presiding over the conference in
 Tehran (1987) in the final release of the declaration.
 
-

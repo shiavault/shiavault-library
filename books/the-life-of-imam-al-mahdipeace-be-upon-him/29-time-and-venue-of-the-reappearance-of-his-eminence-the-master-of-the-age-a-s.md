@@ -16,14 +16,14 @@ Mohurrum).
 
 1. Abu Basir narrated from Imam Ja'far Sadiq (a.s) that he said, “Our
 Qaim shall reappear on Saturday, the day of Ashura – the day when Imam
-Husain (a.s) was martyred.”<sup>[1]</sup>
+Husain (a.s) was martyred.”[1]
 
 2. Ali Ibne Mahziyar narrated from His Eminence, Imam Muhammad Baqir
 (a.s) that he said, “As if I am seeing the Qaim on a Saturday, the day
 of Ashura, standing between Rukn and Maqam and Jibraeel is in the front
 calling that oath of fealty be given to him for the sake of God. Then he
 shall fill the earth with justice and equity like it would have been
-full of injustice and oppression.”<sup>[2]</sup>
+full of injustice and oppression.”[2]
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ allegiance to him. Then through him the Almighty Allah would fill the
 earth with justice and equity, just as it would have been filled with
 injustice and oppression. Then he would move from Mecca to Kufa and camp
 at Najaf. From there he would dispatch his armies to various
-cities.”<sup>[1]</sup>
+cities.”[1]
 
 Time of the call of the Angel
 -----------------------------
@@ -53,11 +53,11 @@ Muhammad bin Muslim says: A person asked His Eminence, Imam Ja'far Sadiq
 (a.s), “When would your Qaim reappeara” He replied, “When misguidance
 shall be more and guidance less… at such time, with the blessed name of
 Qaim on the eve of the 23rd of the month of Ramadan a call shall be
-issued and he would arise on the day of Ashura.”<sup>[2]</sup>
+issued and he would arise on the day of Ashura.”[2]
 
 And it is said that the call of the angel is in the month of Ramadan and
 the reappearance of His Eminence is in the month of Shawwal of an odd
-numbered year.<sup>[3]</sup>
+numbered year.[3]
 
 ------------------------------------------------------------------------
 
@@ -84,12 +84,12 @@ Allah shall prolong this day till my son, Mahdi reappears in it, then
 His Eminence, the Spirit of Allah, Jesus son of Maryam shall descend
 (from the heavens) and stand to pray behind the Imam and the earth shall
 be washed in divine light and his rule shall surround the east and the
-west.”<sup>[1]</sup>
+west.”[1]
 
 2. Abu Saeed Khudri narrated from the Messenger of Allah (a.s) that he
 said, “The world shall not end till a man from my Ahle Bayt (a.s) is at
 the helm of affairs and fills the earth with justice and equity just as
-it would have been fraught with injustice and oppression…”<sup>[2]</sup>
+it would have been fraught with injustice and oppression…”[2]
 
 3. Abdullah Ibne Abbas narrated from the Messenger of Allah (a.s) that
 he said, “Four persons had been absolute rulers on the earth, two were

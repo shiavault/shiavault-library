@@ -311,4 +311,3 @@ proceeds from intelligence and design. But whatever it proceeds from,
 the disposition itself, on which depends our happiness or misery, and
 consequently our conduct and deportment in life is still the same.
 
-

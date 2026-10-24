@@ -85,4 +85,3 @@ Day of Resurrection.
 
 [^1]: Harrani, Tuhaf al-Uqul an aal al-Rasul, p.33, 5th Edition.
 
-

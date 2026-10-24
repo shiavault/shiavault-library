@@ -7,7 +7,6 @@ apostle from Allah.
 (41) وَ إِنْ كَذَّبُوكَ فَقُلْ لي‏ عَمَلي‏ وَ لَكُمْ عَمَلُكُمْ
 أَنْتُمْ بَريئُونَ مِمَّا أَعْمَلُ وَ أَنَا بَري‏ءٌ مِمَّا تَعْمَلُونَ
 
-
 41. " And if they belie you, say: 'For me is my work and for you is
 your work. You are quit of what I do, and I am quit of what you do'. "
 
@@ -29,7 +28,6 @@ the call of Allah(s. w. t.), you should express your abhorrence towards
 their ideas and behaviour. The verse continues saying:
 
 "... You are quit of what I do, and I am quit of what you do'. "
-
 
 **Commentary : Verse 42**
 
@@ -61,7 +59,6 @@ pay attention to reasoning. The verse continues saying:
 "... but can you make the deaf to hear, even though they are without
 understanding ? "
 
-
 **Commentary : Verse 43**
 
 (43) وَ مِنْهُمْ مَنْ يَنْظُرُ إِلَيْكَ أَ فَأَنْتَ تَهْدِي الْعُمْيَ
@@ -86,7 +83,6 @@ The objective of this question is that such people lack wisdom and
 insight like the deaf and the blind from the point of view of their
 obstinacy in accepting the truth and adhering to it.
 
-
 **Commentary Verse 44**
 
 (44) إِنَّ اللَّهَ لا يَظْلِمُ النَّاسَ شَيْئاً وَ لكِنَّ النَّاسَ
@@ -107,7 +103,6 @@ retribution. The verse says:
 
 " Verily Allah does not any injustice to people but people to their own
 selves do injustice. "
-
 
 **Commentary : Verse 45**
 
@@ -142,7 +137,6 @@ Hereafter as well. The verse continues saying:
 "... Those will verily have perished who denied the meeting with Allah
 and were not guided a right. "
 
-
 **Commentary : Verse 46**
 
 (46) وَ إِمَّا نُرِيَنَّكَ بَعْضَ الَّذي نَعِدُهُمْ أَوْ
@@ -175,7 +169,6 @@ saying:
 "... to Us is their return. Then Allah is witness to(all)what they do.
 "
 
-
 **Commentary : Verse 47**
 
 (47) وَ لِكُلِّ أُمَّةٍ رَسُولٌ فَإِذا جاءَ رَسُولُهُمْ قُضِيَ
@@ -202,7 +195,6 @@ says:
 comes,(on the Day of Judgment), the matter will be judged between them
 with justice, and they will not be dealt with unjustly. "
 
-
 **Commentary : Verse 48**
 
 (48) وَ يَقُولُونَ مَتى‏ هذَا الْوَعْدُ إِنْ كُنْتُمْ صادِقينَ
@@ -221,7 +213,6 @@ timing.
 The verse says:
 
 " They say: 'When will this promise be, if you are truthful ?"
-
 
 **Commentary : Verse 49**
 
@@ -270,7 +261,6 @@ In fact, the Qur'an warns the polytheists not to hasten and jump unduly
 to conclusions. When the timing of their death comes no delays or
 advances will happen.
 
-
 **Commentary : Verse 50**
 
 (50) قُلْ أَ رَأَيْتُمْ إِنْ أَتاكُمْ عَذابُهُ بَياتاً أَوْ نَهاراً ما
@@ -298,7 +288,6 @@ Upon this meaning, Sura An- Naml, No. 72, verse 17 says:
 "And they say: 'when will this threat come to pass, if you are truthful
 ?"
 
-
 **Commentary : Verse 51**
 
 (51) أَ ثُمَّ إِذا ما وَقَعَ آمَنْتُمْ بِهِ آلْآنَ وَ قَدْ كُنْتُمْ
@@ -320,7 +309,6 @@ The verse says:
 
 " Is it when it(the punishment)comes to pass, you will believe in it ?
 Ah! Now ? And you wanted(aforetime)to hasten it on ? "
-
 
 **Commentary : Verse 52**
 
@@ -354,7 +342,6 @@ The reason why the term "taste" has been employed in connection with
 suffering punishment is that this sense has a stronger effect on man
 than the other senses.
 
-
 **Commentary : Verse 53**
 
 (53) وَ يَسْتَنْبِئُونَكَ أَ حَقٌّ هُوَ قُلْ إي وَ رَبِّي إِنَّهُ
@@ -387,5 +374,4 @@ make Him unable to act. The verse continues saying:
 
 "... Say: 'You! by my Lord! Verily it is the truth; and you cannot
 frustrate(Him)'. "
-
 

@@ -322,4 +322,3 @@ unaided, and which now threatens to smother him under its own weight.
 
 "Allah is the Light of the heavens and the earth".
 
-

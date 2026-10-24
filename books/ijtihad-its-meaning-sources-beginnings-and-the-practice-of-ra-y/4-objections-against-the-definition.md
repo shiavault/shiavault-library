@@ -158,4 +158,3 @@ al-­ibadat, ahadith 1, 11, 20.
 [^42]. Ibid., p. 504.
 [^43].Tamhid-e ta'rikh-e falsafeh-ye Islami, p. 138.
 
-

@@ -8,14 +8,10 @@ reported to him by someone else before he could arrest and prosecute.
 Imam ‘Abd al-Razzaq (d. 211 H) records an instance where ‘Umar, as the
 *khalifah*, invoked this authority:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا عبد الرزاق قال: أخبرنا عبيد الله بن عمر عن نافع عن صفية ابنة
-أبي عبيد. ومعمر عن نافع عن صفية قالت: وجد عمر في بيت رجل من ثقيف خمرا،
-وقد كان جلده في الخمر فحرق بيته، وقال: ما اسمك؟ قال: رويشد، . قال: بل
-أنت فويسق
-  </p>
-</blockquote>
+> أخبرنا عبد الرزاق قال: أخبرنا عبيد الله بن عمر عن نافع عن صفية ابنة
+> أبي عبيد. ومعمر عن نافع عن صفية قالت: وجد عمر في بيت رجل من ثقيف خمرا،
+> وقد كان جلده في الخمر فحرق بيته، وقال: ما اسمك؟ قال: رويشد، . قال: بل
+> أنت فويسق
 
 ‘Abd al-Razzaq – ‘Ubayd Allah b. ‘Umar AND Ma’mar – Nafi’ – Safiyyah b.
 Abi ‘Ubayd:
@@ -28,11 +24,7 @@ your name?” He (the man) replied, “Ruwayshid.” He (‘Umar) retorted,
 
 Al-Hafiz (d. 852 H) states about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق بن همام بن نافع الحميري مولاهم أبو بكر الصنعاني ثقة حافظ
-  </p>
-</blockquote>
+> عبد الرزاق بن همام بن نافع الحميري مولاهم أبو بكر الصنعاني ثقة حافظ
 
 ‘Abd al-Razzaq b. Hammam b. Nafi’ al-Humayri, their freed slave, Abu
 Bakr al-San’ani: ***Thiqah*** **(trustworthy),** ***hafiz*** **(a**
@@ -41,12 +33,8 @@ Bakr al-San’ani: ***Thiqah*** **(trustworthy),** ***hafiz*** **(a**
 There are two second narrators. So, this is what al-Hafiz has to say
 about *Second Narrator A*:
 
-<blockquote dir="rtl">
-  <p>
-عبيد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب العمري المدني أبو
-عثمان ثقة ثبت
-  </p>
-</blockquote>
+> عبيد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب العمري المدني أبو
+> عثمان ثقة ثبت
 
 ‘Ubayd Allah b. ‘Umar b. Hafs b. ‘Asim b. ‘Umar b. al-Khaṭṭab al-‘Umari
 al-Madani, Abu ‘Uthman: ***Thiqah*** **(trustworthy),** ***thabt***
@@ -54,11 +42,7 @@ al-Madani, Abu ‘Uthman: ***Thiqah*** **(trustworthy),** ***thabt***
 
 He also says about *Second Narrator B*:
 
-<blockquote dir="rtl">
-  <p>
-معمر بن راشد الأزدي مولاهم أبو عروة البصري نزيل اليمن ثقة ثبت فاضل
-  </p>
-</blockquote>
+> معمر بن راشد الأزدي مولاهم أبو عروة البصري نزيل اليمن ثقة ثبت فاضل
 
 Ma’mar b. Rashid al-Azdi, their freed slave, Abu ‘Urwah al-Basri, he
 lived in Yemen: ***Thiqah*** **(trustworthy),** ***thabt***
@@ -67,23 +51,15 @@ lived in Yemen: ***Thiqah*** **(trustworthy),** ***thabt***
 Both second narrators transmitted from Nafi’, about whom al-Hafiz
 states:
 
-<blockquote dir="rtl">
-  <p>
-نافع أبو عبد الله المدني مولى ابن عمر ثقة ثبت فقيه مشهور
-  </p>
-</blockquote>
+> نافع أبو عبد الله المدني مولى ابن عمر ثقة ثبت فقيه مشهور
 
 Nafi’, Abu ‘Abd Allah al-Madani, freed slave of Ibn ‘Umar: ***Thiqah***
 **(trustworthy),** ***thabt*** **(accurate)**, a well-known jurist.[^5]
 
 Al-Hafiz seals it with these comments about the last narrator:
 
-<blockquote dir="rtl">
-  <p>
-صفية بنت أبي عبيد بن مسعود الثقفية زوج بن عمر قيل لها إدراك وأنكره
-الدارقطني وقال العجلي ثقة
-  </p>
-</blockquote>
+> صفية بنت أبي عبيد بن مسعود الثقفية زوج بن عمر قيل لها إدراك وأنكره
+> الدارقطني وقال العجلي ثقة
 
 Safiyyah b. Abi ‘Ubayd b. Mas’ud al-Thaqafiyyah, the wife of Ibn ‘Umar.
 It is said that she met the Prophet, but al-Daraquṭni denies that.
@@ -94,22 +70,14 @@ Safiyyah is also a narrator of *Sahih Muslim*.[^7]
 In summary, the above chain is impeccably *sahih*. Elsewhere, ‘Abd
 al-Razzaq has recorded the exact same report with this chain:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا عبد الرزاق قال: أخبرنا معمر عن أيوب عن نافع عن صفية
-  </p>
-</blockquote>
+> أخبرنا عبد الرزاق قال: أخبرنا معمر عن أيوب عن نافع عن صفية
 
 ‘Abd al-Razzak – Ma’mar – **Ayub** – Nafi’ - Safiyyah[^8]
 
 The only new name is Ayub. So, who is he? Al-Hafiz answers:
 
-<blockquote dir="rtl">
-  <p>
-أيوب بن أبي تميمة جلس السختياني …. أبو بكر البصري ثقة ثبت حجة من كبار
-الفقهاء العباد
-  </p>
-</blockquote>
+> أيوب بن أبي تميمة جلس السختياني …. أبو بكر البصري ثقة ثبت حجة من كبار
+> الفقهاء العباد
 
 Ayub b. Abi Tamimah al-Sakhtayani, Abu Bakr al-Basri: ***Thiqah***
 **(trustworthy),** ***thabt*** **(accurate),** ***hujjah*** **(an
@@ -124,11 +92,7 @@ In other words, the *athar* about ‘Umar is doubly *sahih*!
 > رأيت عمر أحرق بيت رويشد الثقفي حتى كأنه جمرة أو حمة وكان جارنا يبيع
 > الخمر. وسنده صحيح. ورواه عبد الرزاق عن صفية بنت ابي عبيد كما في "
 > الجامع الكبيرة " (3 / 204 / 1) وأبو عبيد في " الأموال " (ص 103) عن ابن
-<blockquote dir="rtl">
-  <p>
-عمر وسنده صحيح أيضا
-  </p>
-</blockquote>
+> عمر وسنده صحيح أيضا
 
 Al-Dawlabi reported in *al-Kuni* (1/189) on the authority Ibrahim b.
 ‘Abd al-Rahman b. ‘Awf that he said: “I saw ‘Umar burning the house of
@@ -143,14 +107,10 @@ chain is** ***sahih*** **too**.[^10]
 
 Interestingly, this Ruwayshid was one of the Sahabah! Al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-رويشد الثقفي أبو علاج الطائفي ثم المدني له إدراك وله قصة مع عمر بسبب
-بيعه الشراب قال بن أبي ذئب انا سعد بن إبراهيم بن عبد الرحمن بن عوف عن
-أبيه ان عمر أمر باحراق بيت رويشد وكان يبيع فيه الشراب فنهاه عمر فلم
-ينته
-  </p>
-</blockquote>
+> رويشد الثقفي أبو علاج الطائفي ثم المدني له إدراك وله قصة مع عمر بسبب
+> بيعه الشراب قال بن أبي ذئب انا سعد بن إبراهيم بن عبد الرحمن بن عوف عن
+> أبيه ان عمر أمر باحراق بيت رويشد وكان يبيع فيه الشراب فنهاه عمر فلم
+> ينته
 
 Ruwayshid al-Thaqafi, Abu ‘Alaj al-Taifi al-Madani: **He met the
 Prophet. He also had a story with ‘Umar due to his selling of alcoholic
@@ -161,14 +121,10 @@ Ruwayshid be burnt down. **He used to sell alcoholic drinks in it.**
 
 Elsewhere, he reiterates:
 
-<blockquote dir="rtl">
-  <p>
-رويشد .... الثقفي .... وله قصة مع عمر في شربه الخمر .... وإنما ذكرته
-في الصحابة لأن من كان بتلك السن في عهد عمر يكون في زمن النبي صلى الله
-عليه وسلم مميزا لا محالة ولم يبق من قريش وثقيف أحد إلا أسلم وشهد حجة
-الوداع مع النبي صلى الله عليه وسلم
-  </p>
-</blockquote>
+> رويشد .... الثقفي .... وله قصة مع عمر في شربه الخمر .... وإنما ذكرته
+> في الصحابة لأن من كان بتلك السن في عهد عمر يكون في زمن النبي صلى الله
+> عليه وسلم مميزا لا محالة ولم يبق من قريش وثقيف أحد إلا أسلم وشهد حجة
+> الوداع مع النبي صلى الله عليه وسلم
 
 Ruwayshid ... al-Thaqafi.... He had a story with ‘Umar concerning his
 consumption of alcohol.... **I have mentioned him among the Sahabah**
@@ -210,15 +166,11 @@ house should be burnt to ashes. However, where did ‘Umar get that idea
 from? Was it from the Qur’an? Was it from the Sunnah? Imam Muslim
 records the standard procedure in a case like this:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن عيسى حدثنا ابن وهب أخبرني عمرو عن بكير بن الأشج قال بينا
-نحن عند سليمان بن يسار إذ جاءه عبدالرحمن بن جابر حدثه فأقبل علينا
-سليمان فقال حدثني عبدالرحمن ابن جابر عن أبيه عن أبي بردة الأنصاري: أنه
-سمع رسول الله صلى الله عليه و سلم يقول لا يجلد أحد فوق عشرة أسواط إلا
-في حد من حدود الله
-  </p>
-</blockquote>
+> حدثنا أحمد بن عيسى حدثنا ابن وهب أخبرني عمرو عن بكير بن الأشج قال بينا
+> نحن عند سليمان بن يسار إذ جاءه عبدالرحمن بن جابر حدثه فأقبل علينا
+> سليمان فقال حدثني عبدالرحمن ابن جابر عن أبيه عن أبي بردة الأنصاري: أنه
+> سمع رسول الله صلى الله عليه و سلم يقول لا يجلد أحد فوق عشرة أسواط إلا
+> في حد من حدود الله
 
 Ahmad b. ‘Isa – Ibn Wahb – ‘Amr – Bukayr b. al-Ashja’ Sulayman b. Yasar
 – ‘Abd al-Rahman b. Jabir – his father – Abu Bardah al-Ansari:
@@ -234,11 +186,7 @@ inflicted upon an alcohol seller is ten lashes. Apparently, ‘Umar did
 not follow the instructions of Allah in this regard. This brought him
 face-to-face against this verse:
 
-<blockquote dir="rtl">
-  <p>
-ومن لم يحكم بما أنزل الله فأولئك هم الكافرون
-  </p>
-</blockquote>
+> ومن لم يحكم بما أنزل الله فأولئك هم الكافرون
 
 Whosoever does NOT give rulings, verdicts, judgments, or commands based
 upon what Allah has revealed, **such people are the infidels**.[^14]
@@ -262,14 +210,10 @@ discovered, also engaging in alcohol business, ‘Umar simply let him be!
 He did not arrest him. He did not prosecute him. He did not burn his
 house! Imam Muslim records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة وزهير بن حرب وإسحاق بن إبراهيم (واللفظ لأبي
-بكر) قالوا حدثنا سفيان بن عيينة عن عمرو عن طاوس عن ابن عباس قال: بلغ
-عمر أن سمرة باع خمرا فقال قاتل الله سمرة ألم يعلم أن رسول الله صلى
-الله عليه و سلم قال لعن الله اليهود حرمت عليهم الشحوم فجملوها فباعوها
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة وزهير بن حرب وإسحاق بن إبراهيم (واللفظ لأبي
+> بكر) قالوا حدثنا سفيان بن عيينة عن عمرو عن طاوس عن ابن عباس قال: بلغ
+> عمر أن سمرة باع خمرا فقال قاتل الله سمرة ألم يعلم أن رسول الله صلى
+> الله عليه و سلم قال لعن الله اليهود حرمت عليهم الشحوم فجملوها فباعوها
 
 Abu Bakr b. Abi Shaybah, Zuhayr b. Harb and Ishaq b. Ibrahim – Sufyan b.
 ‘Uyaynah – ‘Amr – Tawus – Ibn ‘Abbas:
@@ -281,14 +225,10 @@ upon him, said: ‘May Allah curse the Jews. The fat of animals was made
 
 Imam Abu Ya’la (d. 307 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو خيثمة و أبو سعيد قالا : حدثنا سفيان بن عيينة عن عمرو عن
-طاووس عن ابن عباس قال : باع سمرة خمرا فقال عمر : قاتل الله سمرة ألم
-يعلم أن رسول الله صلى الله عليه و سلم قال : لعن الله اليهود حرمت عليهم
-الشحوم فباعوها وأكلوا أثمانها ؟
-  </p>
-</blockquote>
+> حدثنا أبو خيثمة و أبو سعيد قالا : حدثنا سفيان بن عيينة عن عمرو عن
+> طاووس عن ابن عباس قال : باع سمرة خمرا فقال عمر : قاتل الله سمرة ألم
+> يعلم أن رسول الله صلى الله عليه و سلم قال : لعن الله اليهود حرمت عليهم
+> الشحوم فباعوها وأكلوا أثمانها ؟
 
 Abu Khaythamah and Abu Sa’id – Sufyan b. ‘Uyaynah – ‘Amr – Tawus – Ibn
 ‘Abbas:
@@ -300,11 +240,7 @@ they sold it and ate its price.’”[^16]
 
 Shaykh Dr. Asad comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^17]
 
@@ -366,5 +302,4 @@ Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 Dr. Husayn Salim Asad], vol. 1, p. 178, \# 200
 
 [^17]: Ibid
-
 

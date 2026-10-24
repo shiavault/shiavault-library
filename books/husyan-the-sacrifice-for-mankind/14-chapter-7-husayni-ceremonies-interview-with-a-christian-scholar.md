@@ -161,4 +161,3 @@ complete remembrance as I have already explained. Tatbir is, in my view,
 the ritual which is most effective in stimulating feelings and
 sentiments.
 
-

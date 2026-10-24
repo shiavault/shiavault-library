@@ -189,4 +189,3 @@ can do anything at all.
 "So I woke up and I was healed." \`Ali said, "Uphold this supplication,
 for it is one of the treasures of Paradise."
 
-

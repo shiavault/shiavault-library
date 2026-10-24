@@ -341,4 +341,3 @@ cannot achieve salvation in the world and the hereafter.
 
 [^2]: Surah Yusuf 12:39
 
-

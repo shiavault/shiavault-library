@@ -177,4 +177,3 @@ Al-Kāmil fī al-Ta’rīkh, vol. 4, p. 111.
 
 [^17]: Abū al-Faraj al-Isfahānī, Al-Aghānī, vol. 1, p. 24.
 
-

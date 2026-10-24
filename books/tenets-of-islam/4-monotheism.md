@@ -105,4 +105,3 @@ self-existing? The Holy Qur'an says:
 
 [^6]: Surah Aal-e-Imran, 3:59
 
-

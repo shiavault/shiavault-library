@@ -44,7 +44,7 @@ are discussed. We expect that our presentation will benefit those people
 who want to understand the Islamic laws according to reason and
 traditions.
 
-***<span style="font-size: 16pt">Organization</span>***
+***Organization***
 
 ------------------------------------------------------------------------
 

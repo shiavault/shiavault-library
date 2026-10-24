@@ -61,11 +61,7 @@ demonstrated practical models for their respective communities. Through
 their innate attractive qualities, they guided their people toward their
 well-being and deliverance:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ ﴾
 
 ***“In the Apostle of Allah there is certainly for you a good
 example.”***[^1]
@@ -174,30 +170,18 @@ efforts, it will bring nothing except darkness, ignorance and Bedouin
 life. Have not those who regard science thus in the name of religion
 read the Qur’an which invites us repeatedly to the study nature?
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ﴾
 
 ***“Say: Travel over the land and then observe how He has originated the
 creation”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ فِي ذَلِكَ لآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ فِي ذَلِكَ لآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ ﴾
 
 ***“There is indeed a sign in that (the life of the bees) for a people
 who reflect.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
-وَالنَّهَارِ لآيَاتٍ لِّأُوْلِي الألْبَابِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
+> وَالنَّهَارِ لآيَاتٍ لِّأُوْلِي الألْبَابِ ﴾
 
 ***“Indeed in the creation of the heavens and the earth and the
 alternation of night and day, there are signs for those who possess
@@ -242,29 +226,21 @@ accepted. It is religion which considers nature as a mirror to know God,
 encouraging and giving us hope to know Him and helping us in seeking
 knowledge at the threshold of religious civilizations.
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ
-جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ
-رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ
+> جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ
+> رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ ﴾
 
 ***“Those who remember Allah standing, sitting, and lying on their
 sides, and reflect on the creation of the heavens and the earth [and
 say], ‘Our Lord, You have not created this in vain! Immaculate are
 You!’”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
-وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ
-النَّاسَ وَمَا أَنزَلَ اللّهُ مِنَ السَّمَاء مِن مَّاء فَأَحْيَا بِهِ
-الأرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
-الرِّيَاحِ وَالسَّحَابِ الْمُسَخِّرِ بَيْنَ السَّمَاء وَالأَرْضِ
-لآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
+> وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ
+> النَّاسَ وَمَا أَنزَلَ اللّهُ مِنَ السَّمَاء مِن مَّاء فَأَحْيَا بِهِ
+> الأرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
+> الرِّيَاحِ وَالسَّحَابِ الْمُسَخِّرِ بَيْنَ السَّمَاء وَالأَرْضِ
+> لآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴾
 
 ***“Indeed in the creation of the heavens and the earth, and the
 alternation of night and day, and the ships that sail at sea with profit
@@ -449,12 +425,8 @@ necessity of prophethood and the existence of prophets (*‘a*) is the
 necessity of the implementation of just laws in society so that the
 people can live in peace and tranquility:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
-الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
+> الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ﴾
 
 ***“Certainly We sent Our apostles with manifest proofs, and We sent
 down with them the Book and the Balance, so*** ***that mankind may
@@ -593,5 +565,4 @@ brought the news of a female [newborn], his face becomes darkened and he
 chokes with suppressed agony. He hides from the people out of distress
 at the news he has been brought: shall he retain it in humiliation, or
 bury it in the ground! Look! Evil is the judgment that they make.”
-
 

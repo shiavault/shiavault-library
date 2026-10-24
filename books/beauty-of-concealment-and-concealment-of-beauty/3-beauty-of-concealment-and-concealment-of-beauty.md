@@ -240,4 +240,3 @@ the way to real beauty. The beauty of concealment, therefore, lies in
 the elimination of the physical values in order to revive the values of
 the real self of a woman in the mind of the society of man and woman.
 
-

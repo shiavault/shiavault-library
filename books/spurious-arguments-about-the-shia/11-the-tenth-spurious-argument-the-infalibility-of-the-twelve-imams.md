@@ -54,4 +54,3 @@ Besides, forgiving a sin would not exist unless the sin had been
 committed. So, the sinful is not purified during committing the sin,
 while the Qur’anic verse indicates a complete purification.
 
-

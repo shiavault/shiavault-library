@@ -95,4 +95,3 @@ secured comfort for a long time. It is a beneficial transaction that
 Allah made easy for them. The world aimed at them but they did not aim
 at U. It captured them but they were freed from it by ransom.”
 
-

@@ -156,7 +156,6 @@ their government. Allah will soon bring us together with them in the
 gardens Eden along with those of their parents, children and spouse who
 had been of good deeds."
 
-
 **Chapter 80 : The Issue of Disappearance (of the twelfth Imam (a.s.)
 from Public Sight H 888, Ch. 80, h 1**
 
@@ -498,7 +497,6 @@ his longer disappearance no one will see him except very special persons
 from his friends."
 H 907, Ch. 80, h 20
 
-
 Muhammad ibn Yahya and Ahmad ibn Idris have narrated from al-Hassan ibn
 Ali al-Kufi from Ali ibn Hass'an from his paternal uncle, 'Abd al-Rahman
 ibn Kathir from Mufaddal ibn 'Umar who has said the following. "I heard
@@ -663,5 +661,4 @@ al-Husayn from Muhammad ibn 'Abdallah from Muhammad ibn al-Faraj who has
 said the following. "Abu Ja'far (a.s.) wrote to me, 'when Allah, the
 Most Holy, the Most High, is angry with His creatures He keeps us away
 from their neighborhood."
-
 

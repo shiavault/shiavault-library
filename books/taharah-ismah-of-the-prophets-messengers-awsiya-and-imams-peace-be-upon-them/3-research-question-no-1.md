@@ -95,9 +95,7 @@ If we analyze the use of the word*‘Ismah* (and its derivatives) by Allah
 
 1) Ayat Al-Balagh:
 
-<p dir="rtl">
 وَاللَّهُ يَعْصِمُكَ مِنَ النَّاسِ
-</p>
 
 **“Wallahu ya'semuka min al-naas”**
 
@@ -111,9 +109,7 @@ by the Almighty Creator.
 
 2)
 
-<p dir="rtl">
 قَالَ سَآوِي إِلَىٰ جَبَلٍ يَعْصِمُنِي مِنَ الْمَاءِ
-</p>
 
 ***“ **Qala sa-awy illa jabalen ya'semuni min al-maa'…”*****
 
@@ -124,18 +120,14 @@ The*‘Asim* in this verse is the mountain, while the son of Prophet Nuh
 (AS) is *Mu'tasim* , since the ability of the mountain to protect him is
 doubted and in fact proved to be a failure as indicated by the verse,
 
-<p dir="rtl">
 وَحَالَ بَيْنَهُمَا الْمَوْجُ فَكَانَ مِنَ الْمُغْرَقِينَ
-</p>
 
 *****“...** And a wave intervened between them, so he was from among
 those who drowned.**” [11:43].*****
 
 3)
 
-<p dir="rtl">
 وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ فَاسْتَعْصَمَ
-</p>
 
 **“Wa la-qad rawadtuhu ‘an nafsih, fasta'sam…”**
 
@@ -152,9 +144,7 @@ his seeking the protection of his God from her.
 
 4)
 
-<p dir="rtl">
 وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا
-</p>
 
 **“Wa'tasimu be-hablullah jamee'an…”**
 
@@ -211,5 +201,4 @@ achieved by the *Mutahir* ). Every one carries out his role in order to
 accomplish constant and cleanliness and purification. Based on that,
 ‘Ismah cannot be present without prior existence of Taharah, and the
 opposite is not true.
-
 

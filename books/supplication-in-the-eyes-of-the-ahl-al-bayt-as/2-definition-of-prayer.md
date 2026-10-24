@@ -598,4 +598,3 @@ pg.292.
 
 [^42]: Bihar al-Anwar, vol.93, pg.303 304.
 
-

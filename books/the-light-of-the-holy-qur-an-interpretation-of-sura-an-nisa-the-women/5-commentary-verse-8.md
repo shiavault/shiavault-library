@@ -25,7 +25,6 @@ relatives. Then, at the end of the verse, it says:
 
 "... and speak to them kind words."
 
-
 **Commentary : Verse 9**
 
 (9) وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُواْ مِنْ خَلْفِهِمْ ذُرِّيَّةً
@@ -88,5 +87,4 @@ affection, and guidance.
 nor shortcoming in their training, nor harshness in speech to them.
 
 "... so let them be in awe of Allah, ..."
-
 

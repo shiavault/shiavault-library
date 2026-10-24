@@ -12,4 +12,3 @@ trumpets or flowers”.
  After taking a suggestion from their parents, they gifted their teacher
 a moral book each.
 
-

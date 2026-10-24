@@ -45,4 +45,3 @@ stay away from the hypocrites and do not accompany the treacherous."
 
 Mustadrak-ul-Wasa'il, vol. 12, p. 197
 
-

@@ -1,30 +1,14 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله رب العالمين والصلاة والسلام على
-  </p>
-</blockquote>
+> الحمد لله رب العالمين والصلاة والسلام على
 
-<blockquote dir="rtl">
-  <p>
-رسوله المجتبى ابي القاسم محمد المصطفى واله الطبيبين الطاهرين
-  </p>
-</blockquote>
+> رسوله المجتبى ابي القاسم محمد المصطفى واله الطبيبين الطاهرين
 
-<blockquote dir="rtl">
-  <p>
-ولا سيما بقية الله في ارضه الحجة المنتظر القائم المهدي ارواحنا له
-الفداء
-  </p>
-</blockquote>
+> ولا سيما بقية الله في ارضه الحجة المنتظر القائم المهدي ارواحنا له
+> الفداء
 
 This is the translation of Mukhtasaru lthbati 'r-Raj'ah (Abridged
 lthbati 'r-Raj'ah). The original book of which this is an abridgement
@@ -352,11 +336,7 @@ resurrection, when some selected persons will be resurrected after the
 re-appearance of Imam al-Mahdi; and two ahadith (no. 7 & 17) briefly
 mention that resurrection. [^16]
 
-<blockquote dir="rtl">
-  <p>
-واخر دعوانا ان الحمد لله رب العالمين
-  </p>
-</blockquote>
+> واخر دعوانا ان الحمد لله رب العالمين
 
 25th Muharram, 1417
 Sayyid Saeed Akhtar Rizvi
@@ -415,5 +395,4 @@ Guidance , Tehran, in 1373 H. Solar.
 partial resurrection , see my article, The Belief in Raj 'at, which was
 published in The Light (Dar-es-Salaam) in 1991, and reprinted with some
 amendments in The Right Path (Toronto) in 1994.
-
 

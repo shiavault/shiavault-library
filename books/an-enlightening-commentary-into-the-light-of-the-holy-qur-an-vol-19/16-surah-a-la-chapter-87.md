@@ -8,11 +8,7 @@ Surah A'la, Chapter 87
 Contents of Surah A'la
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -84,43 +80,19 @@ last verses were revealed in Medina, is very improbable.
 Surah A’la, Verses 1-5
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
-  </p>
-</blockquote>
+> سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ فَسَوَّىٰ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ فَسَوَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي قَدَّرَ فَهَدَىٰ
-  </p>
-</blockquote>
+> وَالَّذِي قَدَّرَ فَهَدَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي أَخْرَجَ الْمَرْعَىٰ
-  </p>
-</blockquote>
+> وَالَّذِي أَخْرَجَ الْمَرْعَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلَهُ غُثَاءً أَحْوَىٰ
-  </p>
-</blockquote>
+> فَجَعَلَهُ غُثَاءً أَحْوَىٰ
 
 ***1. "Praise the name of your Lord, the Most High,”***  
 ***2. "He Who has created and fashioned (all things)"***  
@@ -292,53 +264,21 @@ verses; the study of which makes man familiar with His High Lordship.
 Surah A’la, Verses 6-13
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-سَنُقْرِئُكَ فَلَا تَنسَىٰ
-  </p>
-</blockquote>
+> سَنُقْرِئُكَ فَلَا تَنسَىٰ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ
-  </p>
-</blockquote>
+> إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَنُيَسِّرُكَ لِلْيُسْرَىٰ
-  </p>
-</blockquote>
+> وَنُيَسِّرُكَ لِلْيُسْرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ
-  </p>
-</blockquote>
+> فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-سَيَذَّكَّرُ مَن يَخْشَىٰ
-  </p>
-</blockquote>
+> سَيَذَّكَّرُ مَن يَخْشَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَيَتَجَنَّبُهَا الْأَشْقَى
-  </p>
-</blockquote>
+> وَيَتَجَنَّبُهَا الْأَشْقَى
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ
-  </p>
-</blockquote>
+> الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
-  </p>
-</blockquote>
+> ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
 
 ***6. “We will make you recite, so you shall not forget,”***  
 ***7. “Save what Allah wills, surely He knows the manifest and what is
@@ -610,41 +550,17 @@ is but little and whose period is but fleeting."*
 Surah A’la, Verses 14-19
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ
-  </p>
-</blockquote>
+> وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا
-  </p>
-</blockquote>
+> بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا
 
-<blockquote dir="rtl">
-  <p>
-وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ
-  </p>
-</blockquote>
+> وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ
-  </p>
-</blockquote>
+> إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ
 
-<blockquote dir="rtl">
-  <p>
-صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ
-  </p>
-</blockquote>
+> صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ
 
 ***14. "Indeed, he (alone) who has purified (himself) shall
 succeed",***  
@@ -998,5 +914,4 @@ importance (Nur-uth-Thaqaiayn, vol. 5, p. 556-557.)
 
 [^15]: Usul-i-Kafi, vol. 2, Chapter 'Love For The World', Tradition No.
 8
-
 

@@ -3,30 +3,18 @@ Sermon 172: Praise be to Allah from whose view one sky….
 
 *About the Consultative Committee and the Battle of Jamal*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
 Praise be to Allah from whose view one sky does not conceal another sky
 nor one earth another earth.
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لله الَّذِي لاَ تُوَارِي عَنْهُ سَمَاءٌ سَمَاءً، وَلاَ
-أَرْضٌ أَرْضاً.
-  </p>
-</blockquote>
+> الْحَمْدُ لله الَّذِي لاَ تُوَارِي عَنْهُ سَمَاءٌ سَمَاءً، وَلاَ
+> أَرْضٌ أَرْضاً.
 
 A part of the same sermon about the Consultative Committee after the death of \`Umar ibn al-Khattab
 ---------------------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-منها: في يوم الشورى
-  </p>
-</blockquote>
+> منها: في يوم الشورى
 
 Someone [^1] said to me, "O' son of Abi Talib, you are eager for the
 caliphate." Then I told him:
@@ -38,31 +26,19 @@ it." When I knocked at his ears with arguments among the crowd of those
 present he was startled as if he was stunned not knowing what reply to
 give me about it.
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ قَائِلٌ: إِنَّكَ يابْنَ أبِي طَالِب عَلَى هذَا الاْمْرِ
-لَحَرِيصٌ.
-  </p>
-</blockquote>
+> وَقَالَ قَائِلٌ: إِنَّكَ يابْنَ أبِي طَالِب عَلَى هذَا الاْمْرِ
+> لَحَرِيصٌ.
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْتُ: بَلْ أَنْتُمْ وَاللهِ أحْرَصُ وَأَبْعَدُ، وَأَنَا أَخَصُّ
-وَأَقْرَبُ، وَإِنَّمَا طَلَبْتُ حَقّاً لِي وَأَنْتُمْ تَحُولُونَ
-بَيْنِي وَبَيْنَهُ، وَتَضْرِبُونَ وَجْهِي دُونَهُ، فَلَمَّا
-قَرَّعْتُهُ بِالْحُجَّةِ فِي الْملاءِ الْحَاضِرِينَ هَبَّ كَأَنَّهُ
-بُهِتَ لاَ يَدْرِي مَا يُجِيبُنِي بِهِ!
-  </p>
-</blockquote>
+> فَقُلْتُ: بَلْ أَنْتُمْ وَاللهِ أحْرَصُ وَأَبْعَدُ، وَأَنَا أَخَصُّ
+> وَأَقْرَبُ، وَإِنَّمَا طَلَبْتُ حَقّاً لِي وَأَنْتُمْ تَحُولُونَ
+> بَيْنِي وَبَيْنَهُ، وَتَضْرِبُونَ وَجْهِي دُونَهُ، فَلَمَّا
+> قَرَّعْتُهُ بِالْحُجَّةِ فِي الْملاءِ الْحَاضِرِينَ هَبَّ كَأَنَّهُ
+> بُهِتَ لاَ يَدْرِي مَا يُجِيبُنِي بِهِ!
 
 Seeking aid against the Quraysh
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الاستنصار على قريش
-  </p>
-</blockquote>
+> الاستنصار على قريش
 
 O My God! I seek Thy succour against the Quraysh and those who are
 assisting them, because they are denying me (the rights of) kinship,
@@ -71,23 +47,15 @@ matter (of the caliphate) which is my right, and then they said, "Know
 that the rightful thing is that you have it and also that you may leave
 it." [^2]
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إنَّي أَسْتَعْدِيكَ عَلى قُرَيْش وَمَنْ أَعَانَهُمْ!
-فَإِنَّهُمْ قَطَعُوا رَحِمِي، وَصَغَّرُوا عَظِيمَ مَنْزِلَتِي،
-وَأَجْمَعُوا عَلَى مُنَازَعَتِي أَمْراً هُوَ لِي. ثُمَّ قَالُوا: أَلاَ
-إنَّ فِي الْحَقِّ أَنْ تَأْخُذَهُ، وَفِي الْحَقِّ أَنْ تَتْرُكَهُ.
-  </p>
-</blockquote>
+> اللَّهُمَّ إنَّي أَسْتَعْدِيكَ عَلى قُرَيْش وَمَنْ أَعَانَهُمْ!
+> فَإِنَّهُمْ قَطَعُوا رَحِمِي، وَصَغَّرُوا عَظِيمَ مَنْزِلَتِي،
+> وَأَجْمَعُوا عَلَى مُنَازَعَتِي أَمْراً هُوَ لِي. ثُمَّ قَالُوا: أَلاَ
+> إنَّ فِي الْحَقِّ أَنْ تَأْخُذَهُ، وَفِي الْحَقِّ أَنْ تَتْرُكَهُ.
 
 A part of the same sermon describing the people of Jamal
 --------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-منها: في ذكر أصحاب الجمل
-  </p>
-</blockquote>
+> منها: في ذكر أصحاب الجمل
 
 They (Talhah, az-Zubayr and their supporters) came out dragging the wife
 of the Messenger of Allah (the peace and blessing of Allah be upon him
@@ -98,16 +66,12 @@ themselves and to others in the army in which there was not a single
 individual who had not offered me his obedience and sworn to me
 allegiance quite obediently, without any compulsion.
 
-<blockquote dir="rtl">
-  <p>
-فَخَرَجُوا يَجُرُّونَ حُرْمَةَ رَسُولِ اللهِ(صلى الله عليه وآله) كَمَا
-تُجَرُّ الاْمَةُ عِنْدَ شِرَائِهَا، مُتَوَجِّهِينَ بِهَا إِلَى
-الْبَصْرَةِ، فَحَبَسَا نِسَاءَ هُمَا فِي بُيُوتِهِمَا، وَأَبْرَزَا
-حَبِيس رَسُولِ اللهِ(صلى الله عليه وآله) لَهُمَا وَلِغَيْرِهِمَا، فِي
-جَيْش مَا مِنْهُمْ رَجُلٌ إِلاَّ وَقَدْ أَعْطَانِي الطَّاعَةَ،
-وَسَمَحَ لِي بِالْبَيْعَةِ، طَائِعاً غَيْرَ مُكْرَه،
-  </p>
-</blockquote>
+> فَخَرَجُوا يَجُرُّونَ حُرْمَةَ رَسُولِ اللهِ(صلى الله عليه وآله) كَمَا
+> تُجَرُّ الاْمَةُ عِنْدَ شِرَائِهَا، مُتَوَجِّهِينَ بِهَا إِلَى
+> الْبَصْرَةِ، فَحَبَسَا نِسَاءَ هُمَا فِي بُيُوتِهِمَا، وَأَبْرَزَا
+> حَبِيس رَسُولِ اللهِ(صلى الله عليه وآله) لَهُمَا وَلِغَيْرِهِمَا، فِي
+> جَيْش مَا مِنْهُمْ رَجُلٌ إِلاَّ وَقَدْ أَعْطَانِي الطَّاعَةَ،
+> وَسَمَحَ لِي بِالْبَيْعَةِ، طَائِعاً غَيْرَ مُكْرَه،
 
 Here in Basrah they approached my governor and treasurers of the public
 treasury and its other inhabitants. They killed some of them in
@@ -118,24 +82,16 @@ they were present in it but did not disagree with it nor prevented it by
 tongue or hand, not to say that they killed from among the Muslims a
 number equal to that with which they had marched on them.
 
-<blockquote dir="rtl">
-  <p>
-فَقَدِمُوا عَلَى عَامِلِي بِهَا وَخُزَّانِ بَيْتِ مَالِ الْمُسْلِمِينَ
-وَغَيْرِهِمْ مِنْ أَهْلِهَا، فَقَتَلُوا طَائِفَةً صَبْراً، وَطَائِفَةً
-غَدْراً.
-  </p>
-</blockquote>
+> فَقَدِمُوا عَلَى عَامِلِي بِهَا وَخُزَّانِ بَيْتِ مَالِ الْمُسْلِمِينَ
+> وَغَيْرِهِمْ مِنْ أَهْلِهَا، فَقَتَلُوا طَائِفَةً صَبْراً، وَطَائِفَةً
+> غَدْراً.
 
-<blockquote dir="rtl">
-  <p>
-فَوَاللهِ لَوْ لَمْ يُصِيبُوا مِنَ الْمُسْلِمِينَ إِلاَّ رَجُلاً
-وَاحِداً مُعْتَمِدِينَ لِقَتْلِهِ، بِلاَ جُرْم جَرَّهُ، لَحَلَّ لي
-قَتْلُ ذلِكَ الْجَيْشِ كُلِّهِ، إِذْ حَضَرُوهُ فَلَمْ يُنْكِرُوا،
-وَلَمْ يَدْفَعُوا عَنْهُ بِلِسَان وَلاَ يَد. دَعْ مَا أَنَّهُمْ قَدْ
-قَتَلُوا مِنَ الْمُسْلِمِينَ مِثْلَ الْعِدَّةِ الَّتِي دَخَلُوا بِهَا
-عَلَيْهِمْ!
-  </p>
-</blockquote>
+> فَوَاللهِ لَوْ لَمْ يُصِيبُوا مِنَ الْمُسْلِمِينَ إِلاَّ رَجُلاً
+> وَاحِداً مُعْتَمِدِينَ لِقَتْلِهِ، بِلاَ جُرْم جَرَّهُ، لَحَلَّ لي
+> قَتْلُ ذلِكَ الْجَيْشِ كُلِّهِ، إِذْ حَضَرُوهُ فَلَمْ يُنْكِرُوا،
+> وَلَمْ يَدْفَعُوا عَنْهُ بِلِسَان وَلاَ يَد. دَعْ مَا أَنَّهُمْ قَدْ
+> قَتَلُوا مِنَ الْمُسْلِمِينَ مِثْلَ الْعِدَّةِ الَّتِي دَخَلُوا بِهَا
+> عَلَيْهِمْ!
 
 Alternative Sources for Sermon 172
 ----------------------------------
@@ -193,5 +149,4 @@ keep away from the caliphate, it would have been easy to endure it
 because this would have, at least, showed their admitting my right
 although they were not prepared to concede it. (Sharh Nahjul Balaghah,
 vol. 9, p. 306)
-
 

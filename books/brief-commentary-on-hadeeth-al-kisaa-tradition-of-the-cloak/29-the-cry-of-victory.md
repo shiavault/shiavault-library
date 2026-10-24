@@ -1,12 +1,8 @@
 The Cry of Victory
 ==================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ عَلِيٌّ- عليه السَّلام: إذَاً وَاللهِ فُزنا وَ فازَ شِيعَتنُا
-وَ رَبِّ الكَعبَةِ .
-  </p>
-</blockquote>
+> فَقالَ عَلِيٌّ- عليه السَّلام: إذَاً وَاللهِ فُزنا وَ فازَ شِيعَتنُا
+> وَ رَبِّ الكَعبَةِ .
 
 **\`Ali, peace be upon him, commented, “Then, by Allah I swear it; we
 have won. So have our adherents. I swear it by the Lord of the
@@ -49,11 +45,7 @@ he was struck by the most miserable person of his time, leading to his
 long awaited martyrdom. It was the call that resonated in the earth and
 heavens such that everyone in the city of Kufa heard his cry:
 
-<blockquote dir="rtl">
-  <p>
-فزت ورب الكعبة
-  </p>
-</blockquote>
+> فزت ورب الكعبة
 
 “*By the Lord of the Ka’ba, I have succeeded!* “
 
@@ -119,5 +111,4 @@ important and he is very serious about delivering it. Thus, there should
 not be any shred of doubt whatsoever in our minds regarding the accuracy
 and precision of the Imam’s words in regards to the reward and value of
 the Event of the Cloak.
-
 

@@ -3,11 +3,7 @@ Lesson Fifty: Slander
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْغِيْبَةُ جُهْدُ الْعاجِزِ
-  </p>
-</blockquote>
+> اَلْغِيْبَةُ جُهْدُ الْعاجِزِ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ repents and the repentance is accepted, he shall be the last one
 entering paradise. Otherwise, he would be the first one entering hell.
 
 [^1]: Nahjul Balaghah
-
 

@@ -41,7 +41,6 @@ C - What is meant by conjecture is baseless belief and decision and it
 does not include tendency of heart or inclination of mind and hence it
 is not a doubt.
 
-
 **Lesson: 38 : Pardon and Tolerance**
 
 Pardon or forgiveness and connivance or tolerance is one of the
@@ -197,7 +196,6 @@ prejudice. How nicely has the Holy Quran, addressed the Holy Prophet
 (s.a.w.s.) in this matter: Take to forgiveness and enjoin good, and turn
 aside from the ignorant.
 
-
 **Lesson: 39 : Good manners and the Islamic behaviour**
 
 Scholars of morality have divided moral issues into two categories:
@@ -297,7 +295,6 @@ and behave nicely with the ignorant.
 O Lord! Guide us all so that we may have the virtues and morals of Your
 Apostles and of our Imams to become their true followers.
 
-
 **Lesson: 40 : Self-restraint and Piety**
 
 Abstinence, self-restraint (Wara) and piety (Taqwa) are among those
@@ -388,7 +385,6 @@ doubtful. Under this description and below this definition the position
 of wara is higher than that of Taqwa and it can be said that taw has
 some stages which we shall discuss in the following talks, God
 willing.
-
 
 **Lesson: 41 : Taqwa Continued**
 
@@ -489,7 +485,6 @@ Allah and His Apostle on the Day of Judgement will be the neighbour of
 one on whom Allah will have completed His bounty and they are the
 Messengers and the Truthfuls and Martyrs and the Pious and indeed they
 are the good friends.
-
 
 **Lesson: 42 : Taqwa Contd.**
 
@@ -652,7 +647,6 @@ ways of Imam Ali (a.s.) and his honourable son Imam Khomeini (r.a.) and
 put this ideal in practice. Otherwise it is likely that tomorrow, on the
 Day of Resurrection we may stand ashamed with our heads down before
 Almighty Allah and His Apostles and friends and the immortal martyrs.
-
 
 **Lesson: 43 : Piety and the Pious**
 
@@ -927,7 +921,6 @@ like that ship which continues the voyage until it remains on the
 surface of water and so long as there is no hole in it. But if and when
 a hole appears in it and the water gets into it drowns.
 
-
 **Lesson: 44 : Relation between worship and perfection**
 
 Among all things in this world it is only man who has the best ability
@@ -1026,5 +1019,4 @@ worshipper sees himself in the presence of the Lord Almighty and, of
 course, at that time, he takes full care of the discipline and
 orderliness in this respect about addressing the Lord, quite
 naturally.
-
 

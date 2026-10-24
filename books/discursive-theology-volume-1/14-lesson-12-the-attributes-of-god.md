@@ -32,23 +32,15 @@ of derivatives as *ma‘nā* (concepts). For this matter, *‘ilm* and
 or quiddity in the sense that it is qualified by a specific quality
 (*waṣf*) or meaning, the word *ṣifah* is used.[^1]
 
-<blockquote dir="rtl">
-  <p>
-اَلصِّفَةُ هِيَ الإسْمُ الدّالُّ عَلىٰ بَعْضِ أحْوالِ الذّاتِ، وَ
-ذٰلِكَ نَحْوَ طَويلٍ وَ قَصيرٍ وَ عاقِلٍ وَ غَيْرِها.
-  </p>
-</blockquote>
+> اَلصِّفَةُ هِيَ الإسْمُ الدّالُّ عَلىٰ بَعْضِ أحْوالِ الذّاتِ، وَ
+> ذٰلِكَ نَحْوَ طَويلٍ وَ قَصيرٍ وَ عاقِلٍ وَ غَيْرِها.
 
 “*Ṣifah* (attribute) is an *ism* (noun) which indicates some states of
 the *dhāt* (essence), in the case of *ṭawīl* (long), *qaṣīr* (short),
 *‘āqil* (intelligent), and the like.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الصِّفَةَ فِي الْحَقيقَةِ ما أنْبَأَتْ عَنْ مَعْنى مُسْتَفادٍ
-يَخُصُّ المَوْصوفَ وَ ما شارَكَهُ...
-  </p>
-</blockquote>
+> إنَّ الصِّفَةَ فِي الْحَقيقَةِ ما أنْبَأَتْ عَنْ مَعْنى مُسْتَفادٍ
+> يَخُصُّ المَوْصوفَ وَ ما شارَكَهُ...
 
 “In reality, *ṣifah* refers to the meaning which is exclusive to the
 qualified (*mawṣūf*) and what shares with it [in the said description
@@ -134,11 +126,7 @@ because describing God with its opposite is not possible. For instance,
 it can be said that God does not will any form of injustice toward His
 servants:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ ﴾
 
 ***“And Allah does not desire any wrong for (His) servants.”***[^7]
 
@@ -190,35 +178,19 @@ allegorical Qur’anic verses and traditions about the Divine Attributes;
 for example, *wajh* (face), *yadd* (hand), *istiwā’* (to settle) and
 *mujī’* (advent) which are mentioned in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ﴾
 
 ***“Everything is to perish except His Face.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ﴾
 
 ***“The hand of Allah is above their hands.”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى ﴾
-  </p>
-</blockquote>
+> ﴿ الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى ﴾
 
 ***“The All-beneficent settled on the Throne.”***[^13]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا ﴾
-  </p>
-</blockquote>
+> ﴿ وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا ﴾
 
 ***“And your Lord and the angels arrive in ranks.”***[^14]
 
@@ -240,11 +212,7 @@ qualification or indication bespeaks defect or fault, these are not
 permissible. For example, God is called *zāri‘* (planter or grower) in
 this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ ﴾
 
 ***“Is it you who make it grow, or are We the grower?”***[^15]
 
@@ -268,13 +236,9 @@ Qur’an, traditions and transmitted supplications. In this regard, the
 late ‘Allāmah al-Ṭabāṭabā’ī has some remarks which include the said
 elaboration:
 
-<blockquote dir="rtl">
-  <p>
-اَلإحْتِياطُ فِي الدّينِ يَقْتَضى الإقْتِصارُ فِي التَّسْمِيَةِ بِما
-وَرَدَ مِنْ طَريقِ السَّمْعِ، وَأَمّا مُجَرَّدُ الاِجْراءِ وِالإطْلاقِ
-مِنْ دونِ التَّسْمِيَةِ فَالْأمْرُ فيهِ سَهْلٌ.
-  </p>
-</blockquote>
+> اَلإحْتِياطُ فِي الدّينِ يَقْتَضى الإقْتِصارُ فِي التَّسْمِيَةِ بِما
+> وَرَدَ مِنْ طَريقِ السَّمْعِ، وَأَمّا مُجَرَّدُ الاِجْراءِ وِالإطْلاقِ
+> مِنْ دونِ التَّسْمِيَةِ فَالْأمْرُ فيهِ سَهْلٌ.
 
 “Precaution in religion necessitates restriction in calling [God] to
 that which is received through transmission. However, if a name is
@@ -284,22 +248,14 @@ easy.”[^16]
 In another place, the ‘Allāmah has regarded naming (*tasmiyah*) and
 calling (*nidā’*) as among the supplements of worship (*‘ibādah*): [^17]
 
-<blockquote dir="rtl">
-  <p>
-وَالتَّسْمِيَةُ وَالنِّداءُ مِنْ لَواحِقِ الْعِبادَةِ.
-  </p>
-</blockquote>
+> وَالتَّسْمِيَةُ وَالنِّداءُ مِنْ لَواحِقِ الْعِبادَةِ.
 
 At any rate, a reliable proof on the Names of Allah being *tawqīfī* has
 not been established. The main argument put forth by those who support
 that view is the noble verse 180 of *Sūrat al-A‘rāf*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلِلَّهِ الأسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ
-يُلْحِدُونَ فِي أَسْمَائِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلِلَّهِ الأسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ
+> يُلْحِدُونَ فِي أَسْمَائِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ ﴾
 
 ***“To Allah belong the Best Names, so supplicate Him by them, and
 abandon those who commit sacrilege in His names. Soon they shall be
@@ -392,5 +348,4 @@ willpower (irādah), p. 86.
 [^19]: Ṭabarsī, Majma‘ al-Bayān, vol. 3, p. 503.
 
 [^20]: Zamakhsharī, Al-Kashshāf, vol. 2, p. 180.
-
 

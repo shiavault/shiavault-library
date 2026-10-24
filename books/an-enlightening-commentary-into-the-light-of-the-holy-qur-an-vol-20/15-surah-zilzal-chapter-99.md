@@ -8,11 +8,7 @@ Surah Zilzal, Chapter 99
 Contents of Surah Zilzal
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -63,61 +59,25 @@ or any worldly pests until he dies".*[^3]
 Surah Zizal, Verses 1-8
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
-  </p>
-</blockquote>
+> إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
 
-<blockquote dir="rtl">
-  <p>
-وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
-  </p>
-</blockquote>
+> وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْإِنسَانُ مَا لَهَا
-  </p>
-</blockquote>
+> وَقَالَ الْإِنسَانُ مَا لَهَا
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
-  </p>
-</blockquote>
+> يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
 
-<blockquote dir="rtl">
-  <p>
-بِأَنَّ رَبَّكَ أَوْحَى لَهَا
-  </p>
-</blockquote>
+> بِأَنَّ رَبَّكَ أَوْحَى لَهَا
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
-  </p>
-</blockquote>
+> فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
 
 ***1. “When the Earth shall quake with a mighty quaking.”***  
 ***2. “And the Earth shall cast forth her burdens,"***  
@@ -529,5 +489,4 @@ front of us, we hope for Your profound Favor alone.*
 
 [^10]: Tafsir-i-Ruh-ul-Bayan, vol. 10, p. 495 and Nur-uth-Thaqalayn,
 vol. 5. p. 650.
-
 

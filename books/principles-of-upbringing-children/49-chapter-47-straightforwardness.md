@@ -179,4 +179,3 @@ investigation is on against them.
 
 [^5]: Usul al-Kafi, v 2, p. 780
 
-

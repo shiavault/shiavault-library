@@ -1046,4 +1046,3 @@ and won great fame for his knowledge. He was one of the earliest
 authorities on the science of the exegesis of Qur’an. He died in Ta'if
 at the age of 70.
 
-

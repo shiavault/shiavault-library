@@ -127,7 +127,6 @@ and to purify you with the most perfect purification." This verse is
 meant as a guarantee and a reassurance regarding the purity of the
 Ahl-ul-Bait, so that all Muslims should recognise their excellence.
 
-
 **CHAPTER VIII: MISSIONARY ACTIVITIES IN YEMEN
 **
 
@@ -174,7 +173,6 @@ co-related like hand and glove, or like a soul in a body."
 
 **CHAPTER IX: THE FINAL PILGRIMAGE OF THE HOLY PROPHET
 
-
 AND THE LAST DECLARATION AT GHADIR-E-KHUM
 
 **
@@ -210,7 +208,6 @@ of it. The ceremonies of the pilgrimage ended with shaving of the heads
 and paring of the nails after the sacrifice of animals. The pilgrim's
 garb was then removed and Ali, who rode on the Prophet's Duldul,
 proclaimed that the restrictions of Pilgrimage were over.
-
 
 The Sermon at Ghadir-E-Khum and the Last Declaration
 Bidding farewell to his native city of Mecca, the Prophet set out for
@@ -386,7 +383,6 @@ And they all said, "Yea, verily Yea."
 Then the Prophet bent down and lifted up Ali in his hands, showing him
 to the crowds on all sides of the pulpit, and proclaimed,
 
-
 من كنت مولاه فهذا علي مولاه
 "Man Kunto Maulaho fa haatha Ali-yun Maulah"
 
@@ -443,7 +439,6 @@ passages of the Holy Quran can be properly understood in their true
 importance and full significance. By consensus of the exegesis these two
 verses were revealed after the Prophet's last pilgrimage.
 
-
 Authentic Proofs
 In Mishkat, a tradition of Bara'a Bin Azib and Zaid is quoted here for
 further clarification from the Musnad of Ahmed Ibn Hanbal : The
@@ -465,7 +460,6 @@ in Tafseer Fathul Qadir and Sideeq Hasan Khan in Fathul Bayan mention a
 tradition noted by Ibn Abi Hatim and other scholars from Abu Saeed
 Khudri in which it is stated that the verse "O Messenger! Make known
 what has been revealed unto you by
-
 
 your Lord and if you do not do so you have not made known your
 message." The Quran Ch. 5, verse 67-was re aled on the occasion of the
@@ -548,10 +542,8 @@ Shah Ali Hasan Jaisi, a great celebrated Sunni Sufi, has made the
 meaning of the word 'MAULA' as implied in the declaration, very clear in
 his couplet in Persian:
 
-<p dir="rtl">
 عبث در معني مو كنت مولي ميروي هر سو
 علي مولي به آن معني كه پيغمبر بود مولي
-</p>
 
 "Abus dar maanee-ay mun kunto Maula mee ravee hersoo, Ali Maula ba-on
 manee keh Paigamber boo-ood Maula".

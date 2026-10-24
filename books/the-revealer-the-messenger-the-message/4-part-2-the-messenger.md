@@ -540,4 +540,3 @@ see: Muhammad Yusuf al-Kandahlawi, Hayat as-Sahabah, Muhammad \`Ali
 ad-Dawlah, ed., (Damascus: Dar al-Qalam), N.D., 1st edition, vol. l,
 p.114. (Translator's footnote)
 
-

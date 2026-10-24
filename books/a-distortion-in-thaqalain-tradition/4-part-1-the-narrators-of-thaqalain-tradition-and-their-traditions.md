@@ -226,4 +226,3 @@ manuscript. We could not, due lack of space, relate the entire chain.
 [^7]: Kanzul Ummal, vol. 1, p. 73; Traditions No. 875, 876, 184, 941,
 187, 954 and 955.
 
-

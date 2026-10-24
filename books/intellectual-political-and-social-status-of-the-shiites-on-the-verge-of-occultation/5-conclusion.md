@@ -29,4 +29,3 @@ other people, they had great influence among all classes of society,
 from Shi'ites and common people to religious scholars, nobles, people of
 the Scriptures, commanders and ministers.
 
-

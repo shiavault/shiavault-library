@@ -408,4 +408,3 @@ Lawa’ij al-Ashjan: 211.
 [^11]: . Muthir al-Ahzan 15; Bihar al-Anwar 44:326; Al-Awalim: 175,
 Lawa’ij al-Ashjan: 27.
 
-

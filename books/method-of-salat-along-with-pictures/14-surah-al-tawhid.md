@@ -1,41 +1,31 @@
 Surah al-Tawhid
 ===============
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 ***Bismil laahir Rahmaanir Raheem***
 
 ***In the name of Allah, the Beneficent, the Merciful.***
 
-<p dir="rtl">
 قُلْ هُوَ اللَّهُ أَحَدٌ
-</p>
 
 ***Qul Huwal-laahu Ahad***
 
 ***1. Say: He, Allah, is One.***
 
-<p dir="rtl">
 اللَّهُ الصَّمَدُ
-</p>
 
 ***Allahus Samad***
 
 ***2. Allah is He on Whom all depend.***
 
-<p dir="rtl">
 لَمْ يَلِدْ وَلَمْ يُولَدْ
-</p>
 
 ***Lam yalid wa lam yoolad***
 
 ***3. He begets not, nor is He begotten.***
 
-<p dir="rtl">
 وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-</p>
 
 ***Wa lam yakun lahoo Kufuwan ahad***
 
@@ -46,9 +36,7 @@ position known as Ruku, in which we bend at the waist and place our
 hands on our knee caps and then say the following line once (our body
 must be completely motionless):
 
-<p dir="rtl">
 سُبْحَانَ رَبَّيَ الْعَظِيمِ وَ بِحَمْدِهِ
-</p>
 
 ***Subhaana Rabbiyal Azheemi wa bi-hamdih***
 
@@ -57,9 +45,7 @@ must be completely motionless):
 We can also say the following line three times, instead of the above
 line:
 
-<p dir="rtl">
 سُبْحَانَ اللهِ
-</p>
 
 ***Subhaanal-laahe***
 
@@ -67,9 +53,7 @@ line:
 
 5. After Ruku', we stand up straight, and while standing, we recite:
 
-<p dir="rtl">
 سَمِعَ اللهُ لِمَنْ حَمِدَهُ. اللهُ أكْبَرُ
-</p>
 
 ***Sami' Allahu liman hamidah. Allahu Akbar***
 
@@ -79,9 +63,7 @@ else.)***
 6. Then, we go into Sajdah, and while in Sajdah, we say the following
 line once:
 
-<p dir="rtl">
 سُبْحَانَ رَبَّيّ الأَعْلى وَ بِحَمْدِهِ
-</p>
 
 ***Subhaana Rabbiyal A'laa wa bihamdih***
 
@@ -90,9 +72,7 @@ line once:
 ***We can also say the following line three times, instead of the above
 line:***
 
-<p dir="rtl">
 سُبْحَانَ اللهِ
-</p>
 
 ***Subhaanal-laahe***
 
@@ -109,9 +89,7 @@ toes
 7. Once we have completed the first Sajdah, we lift our head off of the
 ground, and while sitting, we say:
 
-<p dir="rtl">
 أسْتَغْفِرُ اللهَ رَبَّي وَ أتُوبُ إلَيْهِ. اللهُ أكْبَرُ
-</p>
 
 ***Astaghfirul-laaha Rabbi ma Atoobu Ilayhi. Allahu Akbar.***
 
@@ -123,9 +101,7 @@ repentance. Allah is the greatest.)***
 8. We then go back into Sajdah. While in Sajdah, we say the following
 line once:
 
-<p dir="rtl">
 سُبْحَانَ رَبَّيّ الأَعْلى وَ بِحَمْدِهِ
-</p>
 
 ***Subhaana Rahbiyal A'laa wa bihamdih***
 
@@ -134,9 +110,7 @@ line once:
 We can also say the following line three times instead of the above
 line:
 
-<p dir="rtl">
 سُبْحَانَ اللهِ
-</p>
 
 ***Subhaanal-laahe***
 
@@ -149,9 +123,7 @@ Up until this point, we have finished one complete Rak'at of the Salat.
 9. We then stand up, and as we are getting up, we should recite the
 following:
 
-<p dir="rtl">
 بِحَوْلِ اللهِ وَ قُوَّتِهِ أقُومُ وَ أقْعُدُ
-</p>
 
 ***Bihawlil-laahi wa quwwatihi aqoomu wa aq'u'du***
 
@@ -165,10 +137,8 @@ his family once, or even if we simply say the following one time:
 
 It is better however, that we recite the following Dud':
 
-<p dir="rtl">
 رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَ فِي الآخِرَةِ حَسَنَةً وَ
 قِنَا عَذَابَ النَّارِ
-</p>
 
 ***Rabbanaa Aatina Fid-dunyaa hasanatan wa Fil-akhirate hasanatan wa
 Qinnaa Adhaab an-Naar***
@@ -176,12 +146,9 @@ Qinnaa Adhaab an-Naar***
 ***O' Our Lord! Give us good in this world and in the hereafter and save
 us from the punishment of the hell fire.)***
 
-<p dir="rtl">
 أللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-</p>
 
 Allahumma,Salli Alaa Muhammadin wa 'Aale Muhammad
 
 (Q' Allah! Send your blessings upon Muhammad and the family of Muhammad)
-
 

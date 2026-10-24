@@ -60,4 +60,3 @@ was compiled in the form we have it today, and 'in use' by the Muslims
 during the lifetime of the holy Prophet of Islam, Muhammad peace be upon
 him and his infallible descendants.
 
-

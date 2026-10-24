@@ -1,10 +1,6 @@
 Shaykh Al-mudirah:
 ==================
 
-  
-  
-  
-
 The title given to Abu Hurayrah was Shaykh al-Mudirah. The care given by
 the ulama’, writers and poets to this mudirah was never given to similar
 sorts of sweets. These people kept on mocking it, calumniating Abu
@@ -14,7 +10,7 @@ their
 reports about the mudirah:
 
 In his book Thimar al-qulub fi al-mudaf wa al-mansub al-Tha'alibi
-writes: <span id="_anchor_362"></span>362
+writes: 362
 
 Shaykh al-Mudirah was Abu Hurayrah, for his excellence and nearness to
 the Prophet (S), as a jester and glutton. Marwan ibn al-Hakam used to
@@ -65,7 +61,7 @@ when satisfying it, it would seize me, and if I starve it, it would
 defame me. In another narration by Ibn Kathir in al-Bidayah wa
 al-nihayah, he said:...it would weaken me.
 
-In Khass al-khass <span id="_anchor_363"></span>363  al-Tha'alibi
+In Khass al-khass 363  al-Tha'alibi
 stated:
 
 Abu Hurayrah used to say: I have never smelled a scent nicer than that
@@ -104,7 +100,7 @@ are certain situations in which it should be said, since the visitor
 deserving it! Don't you see that he never utters such words to Abu Bakr
 or to Ali ibn Abi Talib or their likes, while Abu Hurayrah being
 competent for that hadith! because of some slips that he should avoid
-and shun." <span id="_anchor_364"></span>364
+and shun." 364
 
 Abu Hurayrah's slips for which al-Masjidi slanders being his frequenting
 to the Companions' houses every now and then, out of his gluttony, with
@@ -139,7 +135,7 @@ of Allah, have you heard him say anything regarding this garment?!! He
 said, I heard Abu al-Qasim saying: A man from those who were before you,
 while swaggering in a vestment God caused the earth to sink with him,
 and he will keep on rattling with it till the Doomsday. By God I don't
-know, he may be of your folk or flock. <span id="_anchor_365"></span>365
+know, he may be of your folk or flock. 365
 
 Out of the question put forth by this man, we can conceive that he was
 not inquiring (to know something) but sarcasting, as didn't say to him:
@@ -152,16 +148,14 @@ ridiculing him.
 
 All men of hadith concur that Abu Hurayrah was the most prolific among
 the Sahabah in relating traditions from the Messenger of Allah! Whilst
-his company to the Prophet was only for a year and nine months. <span
-id="_anchor_366"></span>366  Muhammad ibn Hazm states that Musnad Ibn
+his company to the Prophet was only for a year and nine months. 366  Muhammad ibn Hazm states that Musnad Ibn
 Mukhallad contained 5,374 traditions narrated by Abu Hurayrah of which
 446 ones reported by al-Bukhari.
 
 He himself said about himself – as reported by al Bukhari – None among
 the Companions of the Prophet (S) exceeds me in relating traditions from
-him except Abd Allah ibn \`Amr, <span id="_anchor_367"></span>367  as he
-used to write down (the traditions) while I was not. <span
-id="_anchor_368"></span>368  If we go through all the traditions related
+him except Abd Allah ibn \`Amr, 367  as he
+used to write down (the traditions) while I was not. 368  If we go through all the traditions related
 by Ibn Amr we would find Seven hundred ones recorded by Ibn al-Jawzi,
 722 ones recorded in Musnad Ahmad, with seven ones reported by
 al-Bukhari and twenty by Muslim. The multiplicity of traditions narrated
@@ -192,10 +186,9 @@ Engage yourselves with the Qur'an as it is the speech of Allah.
 The faqih traditionist al-Sayyid. Rashid Rida (may God's mercy be upon
 him) said about this: Had Umar survived till after the death of Abu
 Hurayrah, all these abundant traditions would have never reached us at
-all. <span id="_anchor_369"></span>369  And about his fabricated
+all. 369  And about his fabricated
 miscellaneous traditions he said: "None of them can be taken as a base
-to establish any of the principles of religion. <span
-id="_anchor_370"></span>370
+to establish any of the principles of religion. 370
 
 ### His Justification for Narrating Abundantly:
 
@@ -222,18 +215,13 @@ reasonable and never deny, you should believe it whether I said it or
 not ... as I utter that which is known and not disapproved. And whenever
 you relate from me a hadith that you disapprove (by reason) and can
 never be acquainted with, you should belie it, as I never utter that
-which is disapproved and can never be reasoned." <span
-id="_anchor_371"></span>371
+which is disapproved and can never be reasoned." 371
 
 Beside some other similar traditions he reported, whereas what is
 established for us that the Prophet said: "Whoever relates from me a
 hadith that I never uttered, he should settle in hell as his abode."
 Umar was obliged to remind Abu Hurayrah with this hadith when he drew
 the long bow in narration.
-
-  
-  
-  
 
 362. See pp. 86, 87.
 

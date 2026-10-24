@@ -569,4 +569,3 @@ Historians and commentators quoted a man named Masruq, saying: When
 the Prophet to stay at home,269 she wept so much that her head cover was
 wet with tears.270
 
-

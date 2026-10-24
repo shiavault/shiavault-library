@@ -8,11 +8,7 @@ mentioned in the Qur’an, such as:
 1. It is an entity that has been created from the flames of fire, unlike
 man, who has been created from earth:[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَ خَلَقَ الْجَآنَّ مِنْ مَارِجٍ مِنْ نَارٍ
-  </p>
-</blockquote>
+> وَ خَلَقَ الْجَآنَّ مِنْ مَارِجٍ مِنْ نَارٍ
 
 2. Possesses knowledge, perception, the faculty of logic, the power of
 reasoning, and can distinguish between truth and falsehood (various
@@ -23,34 +19,22 @@ Suratul Jinn and al-Waqi'ah).
 
 4. Some of them are believers while others are disbelievers:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنَّا مِنَّا الصَّالِحُونَ وَ مِنَّا دُونَ ذٌلِكَ‏…
-  </p>
-</blockquote>
+> وَ أَنَّا مِنَّا الصَّالِحُونَ وَ مِنَّا دُونَ ذٌلِكَ‏…
 
 ***“There are among us some that are righteous, and some the
 contrary…”***[^2]
 
 5. They shall be resurrected:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَباً
-  </p>
-</blockquote>
+> وَ أَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَباً
 
 ***“And as to the deviators, they are fuel of hell.”***[^3]
 
 6. They initially possessed the power to penetrate into the skies,
 eavesdrop and procure news but were later prohibited:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ فَمَنْ
-يَسْتَمِعِ الآنَ يَجِدْ لَهُ شِهَاباً رَصَداً
-  </p>
-</blockquote>
+> وَ أَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ فَمَنْ
+> يَسْتَمِعِ الآنَ يَجِدْ لَهُ شِهَاباً رَصَداً
 
 ***“And that we used to sit in some of the sitting-places thereof to
 steal a hearing, but, he who would (try to) listen now would find a
@@ -60,12 +44,8 @@ flame lying in wait for him.”***[^4]
 of the limited knowledge of the Unseen that they possessed, endeavoured
 to misguide the people:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنَّهُ كَانَ رِجَــالٌ مِنَ الإِِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ
-الْجِنِّ فَزَادُوهُمْ رَهَقاً
-  </p>
-</blockquote>
+> وَ أَنَّهُ كَانَ رِجَــالٌ مِنَ الإِِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ
+> الْجِنِّ فَزَادُوهُمْ رَهَقاً
 
 ***“And that persons from among men used to seek refuge with persons
 from among jinn, so they increased them in wrongdoing.”***[^5]
@@ -73,12 +53,8 @@ from among jinn, so they increased them in wrongdoing.”***[^5]
 8. From amongst them there are those who, like some humans, possess
 great powers:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عِفْرِيتٌ مِنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَنْ تَقُومَ
-مِنْ مَقَامِكَ‏
-  </p>
-</blockquote>
+> قَالَ عِفْرِيتٌ مِنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَنْ تَقُومَ
+> مِنْ مَقَامِكَ‏
 
 ***“One audacious among the jinn said: I will bring it to you before you
 rise up from your place; and most surely I am strong (and) trusty for
@@ -87,14 +63,10 @@ it.”***[^6]
 9. They possess the power to perform some of the tasks that are required
 by man:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ الْجِنِّ مَنْ يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ وَ
-مَنْ يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ
-يَعْمَلُونَ لَهُ مَا يَشَآءُ مِنْ مَحَارِيبَ وَ تَمَاثِيلَ وَ جِفَانٍ
-كَالْجَوَابِ‏
-  </p>
-</blockquote>
+> وَ مِنَ الْجِنِّ مَنْ يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ وَ
+> مَنْ يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ
+> يَعْمَلُونَ لَهُ مَا يَشَآءُ مِنْ مَحَارِيبَ وَ تَمَاثِيلَ وَ جِفَانٍ
+> كَالْجَوَابِ‏
 
 ***“And of the jinn there were those who worked before him by the
 command of his Lord; and whoever turned aside from Our command from
@@ -105,11 +77,7 @@ place.”***[^7]
 
 10. Their creation on the earth was prior to man's creation:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْجَآنَّ خَلَقْنَاهُ مِنْ قَبْلُ‏ مِنْ نَّارِ السَّمُوْمِ
-  </p>
-</blockquote>
+> وَ الْجَآنَّ خَلَقْنَاهُ مِنْ قَبْلُ‏ مِنْ نَّارِ السَّمُوْمِ
 
 ***“And the jinn We created before, of intensely hot fire.”***[^8]
 
@@ -185,13 +153,9 @@ solved.
 For example, in some of the traditions of the Commander of the Faithful
 (a.s.), we read:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَشْرَبُوا الْمَآءَ مِنْ ثُلْمَةِ الإِِنَاءِ وَ لاَ مِنْ
-عُرْوَتِهِ فَإِنَّ الشَّيْطَانَ يَقْعُدُ عَلَى الْعُرْوَةِ وَ
-الثُّلْمَةِ.
-  </p>
-</blockquote>
+> لاَ تَشْرَبُوا الْمَآءَ مِنْ ثُلْمَةِ الإِِنَاءِ وَ لاَ مِنْ
+> عُرْوَتِهِ فَإِنَّ الشَّيْطَانَ يَقْعُدُ عَلَى الْعُرْوَةِ وَ
+> الثُّلْمَةِ.
 
 “Do not drink water from the broken portion of the vessel nor from the
 portion of the handle, for surely, the Shaytan sits upon the handle and
@@ -234,5 +198,4 @@ Chapter Bab al-Awani, no. 5.
 approximately 20 traditions have been complied in this regard.
 
 [^13]: Tafsir-e-Namuna, vol. 25, pg. 154
-
 

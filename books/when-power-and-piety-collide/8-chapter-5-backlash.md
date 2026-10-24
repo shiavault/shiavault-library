@@ -1,12 +1,8 @@
 Chapter 5: Backlash
 ===================
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ ٱللهُ لِيُذْهِبَ عَنكُـمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيــراً
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ ٱللهُ لِيُذْهِبَ عَنكُـمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيــراً
 
 ***Allah only wishes to remove all abomination from you, O members of
 the Family, and to make you pure and immaculate. (Holy Qur’an, 33:33)***
@@ -113,16 +109,12 @@ Setting aside the events that occurred at the door of Fatima’s home, did
 one may enter another person’s house without permission, as Allah
 orders:
 
-<blockquote dir="rtl">
-  <p>
-ياأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَدْخُلُواْ بُيُوتاً غَيْرَ
-بُيُوتِكُمْ حَتَّى تَسْتَأْنِسُواْ وَتُسَلِّمُواْ عَلىٰ أَهْلِهَا
-ذَلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ. فَإِن لَّمْ تَجِدُوا
-فِيهَآ أَحَداً فَلاَ تَدْخُلُوهَا حَتَّى يُؤْذَنَ لَكُمُ وَإِن قِيلَ
-لَكُمْ ٱرْجِعُواْ فَٱرْجِعُواْ هُوَ أَزْكى لَكُمْ وَٱللهُ بِمَا
-تَعْمَلُونَ عَلِيمٌ
-  </p>
-</blockquote>
+> ياأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَدْخُلُواْ بُيُوتاً غَيْرَ
+> بُيُوتِكُمْ حَتَّى تَسْتَأْنِسُواْ وَتُسَلِّمُواْ عَلىٰ أَهْلِهَا
+> ذَلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ. فَإِن لَّمْ تَجِدُوا
+> فِيهَآ أَحَداً فَلاَ تَدْخُلُوهَا حَتَّى يُؤْذَنَ لَكُمُ وَإِن قِيلَ
+> لَكُمْ ٱرْجِعُواْ فَٱرْجِعُواْ هُوَ أَزْكى لَكُمْ وَٱللهُ بِمَا
+> تَعْمَلُونَ عَلِيمٌ
 
 ***O you who believe! Enter not the houses other than your [own] houses
 until you have sought familiarity and saluted their inhabitants; this is
@@ -138,12 +130,8 @@ It is indeed disheartening that such an event occurred despite Allah’s
 commandment that the ummah is to treat the family of the Prophet with
 adoration:
 
-<blockquote dir="rtl">
-  <p>
-قُل لاَّ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلاَّ ٱلْمَوَدَّةَ فِى
-ٱلْقُرْبَى
-  </p>
-</blockquote>
+> قُل لاَّ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلاَّ ٱلْمَوَدَّةَ فِى
+> ٱلْقُرْبَى
 
 ***Say: ‘I demand not of you any recompense for it (the toils of the
 apostleship) save the love of (my) relatives.’ (42:23)***
@@ -304,13 +292,9 @@ circumstances, land or wealth acquired without the use of military might
 becomes the sole property of the Prophet, as indicated in the Qur’an
 where Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَفَاءَ اللهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ
-عَلَيْهِ مِنْ خَيْلٍ وَلاَ رِكَابٍ وَلَكِنَّ اللهَ يُسَلِّطُ رُسُلَهُ
-عَلَى مَن يَشَآءُ وَ اللهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> وَمَا أَفَاءَ اللهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ
+> عَلَيْهِ مِنْ خَيْلٍ وَلاَ رِكَابٍ وَلَكِنَّ اللهَ يُسَلِّطُ رُسُلَهُ
+> عَلَى مَن يَشَآءُ وَ اللهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 ***What God has bestowed on His Apostle and taken away from them - for
 this you made no expedition with either cavalry or camels: but God gives
@@ -319,12 +303,8 @@ things. (59:6)***
 
 Allah further adds in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَفَاءَ اللهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَالِلَّهِ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَى 
-  </p>
-</blockquote>
+> مَا أَفَاءَ اللهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَالِلَّهِ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَى 
 
 ***What God has bestowed on His Apostle and taken away from the people
 of the townships belongs to God, to His Apostle and to kindred and
@@ -757,5 +737,4 @@ p. 12; Abu Nuaym, Hiliyat al-Awiya, 4:185
 al-Tabari, 4:469
 
 [^52]: Usud al-Ghabah, 2:154; Al-Isabah, 1:501
-
 

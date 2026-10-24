@@ -39,4 +39,3 @@ responsible to pay it back to the owner.
 Issue 416: The person taking care of a property is not allowed to use
 the item, except with the permission of its owner.
 
-

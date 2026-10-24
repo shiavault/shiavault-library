@@ -12,4 +12,3 @@ and said:
 
 *We belong to Allah, we shall come back to Him!*
 
-

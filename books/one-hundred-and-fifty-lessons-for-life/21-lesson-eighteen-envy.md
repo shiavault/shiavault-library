@@ -3,11 +3,7 @@ Lesson Eighteen: Envy
 
 Imam As-Sadiq (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-"الحاسِدُ مُضِرُّ بِنَفْسِهِ قَبْلَ أَنْ يُضُرّ بِالْمَحْسُودِ"
-  </p>
-</blockquote>
+> "الحاسِدُ مُضِرُّ بِنَفْسِهِ قَبْلَ أَنْ يُضُرّ بِالْمَحْسُودِ"
 
 Translation
 -----------
@@ -34,5 +30,4 @@ one’s own success as opposed to trying to hold others back .
 
 [^1]: Bihar al-Anwar, volume 73, page 255, Mustadraku wassa'il, volum e
 12, page 19, Kashf Arriba, page 53, Misbah Ash-shari'a, page 104
-
 

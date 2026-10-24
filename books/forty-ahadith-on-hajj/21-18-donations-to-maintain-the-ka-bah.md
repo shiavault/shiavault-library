@@ -3,13 +3,9 @@
 
  
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَلِيٍّ (ع) قَالَ: لَوْ كَانَ لِي وَادِيَانِ يَسِيلاَنِ ذَهَباً
-وَ فِضَّةً مَا أَهْدَيْتُ إِلـى الْكَعْبَةِ شَيْئاً لأََنَّهُ يَصِيرُ
-إِلـى الْحَجْبَةِ دُونَ الْمَسَاكِينَ.
-  </p>
-</blockquote>
+> عَنْ عَلِيٍّ (ع) قَالَ: لَوْ كَانَ لِي وَادِيَانِ يَسِيلاَنِ ذَهَباً
+> وَ فِضَّةً مَا أَهْدَيْتُ إِلـى الْكَعْبَةِ شَيْئاً لأََنَّهُ يَصِيرُ
+> إِلـى الْحَجْبَةِ دُونَ الْمَسَاكِينَ.
 
    
  It has been narrated from ‘Ali [Ibn Abi Talib] (peace be upon him) who
@@ -19,5 +15,4 @@ would not donate a single thing to the Ka’bah because it would reach the
 deserving people.”  
     
  Biharul Anwar, Volume 96, Page 67
-
 

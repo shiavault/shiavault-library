@@ -15,4 +15,3 @@ social capital, it imbues every province of life completely. Hence, we
 may expect that the Islamic worldview is capable of synthesizing all
 various economic schools of thought in a convergent trend.
 
-

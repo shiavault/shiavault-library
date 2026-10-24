@@ -46,4 +46,3 @@ Sayyid Qutb, Al-Islam Wal Mushk i latal Hadarah
 
 Sayyid Qutb, Mushahidil Qiyammah
 
-

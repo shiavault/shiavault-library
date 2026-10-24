@@ -3,12 +3,8 @@ Lesson One Hundred Twenty Five: Salam, Islamic Salutation
 
 Imam Husayn (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لِلسَّلامِ سَبْعُونَ حَسَنةٌ تِسْعٌ وَ سِتُّونَ لِلْمُبْتَدى وَ
-واحِدَةٌ لِلْرّادِّ
-  </p>
-</blockquote>
+> لِلسَّلامِ سَبْعُونَ حَسَنةٌ تِسْعٌ وَ سِتُّونَ لِلْمُبْتَدى وَ
+> واحِدَةٌ لِلْرّادِّ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ especially for those who show humility by taking the initiative to
 salute first.
 
 [^1]: Tuhaful Uqul, page 177. Mustadrak Alwasail, vol 8, page 357.
-
 

@@ -84,4 +84,3 @@ Khomeini -Ridwanullah ta'ala 'alayh he was elected as the Leader of the
 Islamic Revolution by a large majority of the votes of the Assembly of
 Experts on 4th June, 1989.
 
-

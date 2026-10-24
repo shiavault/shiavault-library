@@ -221,4 +221,3 @@ phenomenon by the Quran are :-
 (4) It is fire closed in on them.
 (5) In outstretched columns (Quran 104, Al - Homaza).
 
-

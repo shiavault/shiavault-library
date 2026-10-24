@@ -491,4 +491,3 @@ Imâm Hussain (a.s.) and they slap their beautiful faces in grief.
 of Sadooq, Majlis no. 27; Ilalush Sharze 1/217, Amâli of Mufid; Bihârul
 Anwâr 45/201-241 and other sources which are present in large numbers.
 
-

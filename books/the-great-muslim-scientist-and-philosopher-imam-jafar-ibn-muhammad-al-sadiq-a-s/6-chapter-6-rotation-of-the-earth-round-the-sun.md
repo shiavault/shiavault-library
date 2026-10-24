@@ -55,4 +55,3 @@ an astronomer and mathematician, in the 15th Century. The theory of the
 earth rotation around its own axis went to Galileo who discovered the
 telescope.
 
-

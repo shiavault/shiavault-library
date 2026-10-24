@@ -6,18 +6,14 @@ mirrors the family of Ibrahim, ‘alaihi al-salam, in his Ummah. This
 fundamental fact is explicitly mentioned in authentic Sunni ahadith.
 Imam al-Bukhari (d. 256 H), for instance, records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قيس بن حفص وموسى بن إسماعيل قالا حدثنا عبد الواحد بن زياد حدثنا
-أبو قرة مسلم بن سالم الهمذاني قال حدثني عبد الله ابن عيسى سمع عبد
-الرحمن بن أبي ليلى قال : لقيني كعب بن عجرة فقال ألا أهدي لك هدية
-سمعتها من النبي صلى الله عليه و سل؟ فقلت بلى فأهدها لي فقال سألنا رسول
-الله صلى الله عليه و سلم فقلنا يا رسول الله كيف الصلاة عليكم أهل البيت
-فإن الله قد علمنا كيف نسلم عليكم؟ قال قولوا اللهم صل على محمد وعلى آل
-محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجي اللهم بارك على
-محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد
-  </p>
-</blockquote>
+> حدثنا قيس بن حفص وموسى بن إسماعيل قالا حدثنا عبد الواحد بن زياد حدثنا
+> أبو قرة مسلم بن سالم الهمذاني قال حدثني عبد الله ابن عيسى سمع عبد
+> الرحمن بن أبي ليلى قال : لقيني كعب بن عجرة فقال ألا أهدي لك هدية
+> سمعتها من النبي صلى الله عليه و سل؟ فقلت بلى فأهدها لي فقال سألنا رسول
+> الله صلى الله عليه و سلم فقلنا يا رسول الله كيف الصلاة عليكم أهل البيت
+> فإن الله قد علمنا كيف نسلم عليكم؟ قال قولوا اللهم صل على محمد وعلى آل
+> محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجي اللهم بارك على
+> محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد
 
 Qays b. Hafs and Musa b. Isma’il – ‘Abd al-Wahid b. Ziyad – Abu Qurrah
 Muslim b. Salim al-Hamdani – ‘Abd Allah b. ‘Isa – ‘Abd al-Rahman b. Abi
@@ -43,16 +39,12 @@ hadith.
 
 Al-Bukhari also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا آدم حدثنا شعبة حدثنا الحكم قال سمعت عبد الرحمن بن أبي ليلى قال :
-لقيني كعب بن عجرة فقال ألا أهدي لك هدية؟ إن النبي صلى الله عليه و سلم
-خرج علينا فقلنا يا رسول الله قد علمنا كيف نسلم عليك فكيف نصلي عليك؟
-قال قولوا اللهم صل على محمد وعلى آل محمد كما صليت على آل إبراهيم إنك
-حميد مجيد .اللهم بارك على محمد وعلى آل محمد كما باركت على آل إبراهيم
-إنك حميد مجيد
-  </p>
-</blockquote>
+> حدثنا آدم حدثنا شعبة حدثنا الحكم قال سمعت عبد الرحمن بن أبي ليلى قال :
+> لقيني كعب بن عجرة فقال ألا أهدي لك هدية؟ إن النبي صلى الله عليه و سلم
+> خرج علينا فقلنا يا رسول الله قد علمنا كيف نسلم عليك فكيف نصلي عليك؟
+> قال قولوا اللهم صل على محمد وعلى آل محمد كما صليت على آل إبراهيم إنك
+> حميد مجيد .اللهم بارك على محمد وعلى آل محمد كما باركت على آل إبراهيم
+> إنك حميد مجيد
 
 Adam – Shu’bah – al-Hakam – ‘Abd al-Rahman b. Abi Layli:
 
@@ -68,15 +60,11 @@ the Most Praiseworthy, the Most Glorious.’”[^3]
 
 He again records:
 
-<blockquote dir="rtl">
-  <p>
-حدثني سعيد بن يحيى حدثنا أبي حدثنا مسعر عن الحكم عن ابن أبي ليلى عن
-كعب بن عجرة رضي الله عنه قيل :يا رسول الله أما السلام عليك فقد عرفناه
-فكيف الصلاة ؟ قال قولوا اللهم صل على محمد وعلى آل محمد كما صليت على
-إبراهيم إنك حميد مجيد اللهم بارك على محمد وعلى آل محمد كما باركت على
-إبراهيم إنك حميد مجيد
-  </p>
-</blockquote>
+> حدثني سعيد بن يحيى حدثنا أبي حدثنا مسعر عن الحكم عن ابن أبي ليلى عن
+> كعب بن عجرة رضي الله عنه قيل :يا رسول الله أما السلام عليك فقد عرفناه
+> فكيف الصلاة ؟ قال قولوا اللهم صل على محمد وعلى آل محمد كما صليت على
+> إبراهيم إنك حميد مجيد اللهم بارك على محمد وعلى آل محمد كما باركت على
+> إبراهيم إنك حميد مجيد
 
 Sa’id b. Yahya – my father – Mas’ar – al-Hakam - Ibn Abi Layli – Ka’b b.
 ‘Ujrah, may Allah be pleased with him:
@@ -91,19 +79,15 @@ the Most Praiseworthy, the Most Glorious.’”[^4]
 
 Imam Muslim (d. 261 H) too documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى بن يحيى التميمي قال قرأت على مالك عن نعيم بن عبدالله المجمر
-أن محمد بن عبدالله بن زيد الأنصاري (وعبدالله بن زيد هو الذي كان أري
-النداء بالصلاة) أخبره عن أبي مسعود الأنصاري قال أتانا رسول الله صلى
-الله عليه و سلم ونحن في مجلس سعد بن عبادة فقال له بشير بن سعد أمرنا
-الله تعالى أن نصلي عليك يا رسول الله فكيف نصلي عليك ؟ قال فسكت رسول
-الله صلى الله عليه و سلم حتى تمنينا أنه لم يسأله ثم قال رسول الله صلى
-الله عليه و سلم قولوا اللهم صل على محمد وعلى آل محمد كما صليت على آل
-إبراهيم وبارك على محمد وعلى آل محمد كما باركت على آل إبراهيم في
-العالمين إنك حميد مجيد والسلام كما قد علمتم
-  </p>
-</blockquote>
+> حدثنا يحيى بن يحيى التميمي قال قرأت على مالك عن نعيم بن عبدالله المجمر
+> أن محمد بن عبدالله بن زيد الأنصاري (وعبدالله بن زيد هو الذي كان أري
+> النداء بالصلاة) أخبره عن أبي مسعود الأنصاري قال أتانا رسول الله صلى
+> الله عليه و سلم ونحن في مجلس سعد بن عبادة فقال له بشير بن سعد أمرنا
+> الله تعالى أن نصلي عليك يا رسول الله فكيف نصلي عليك ؟ قال فسكت رسول
+> الله صلى الله عليه و سلم حتى تمنينا أنه لم يسأله ثم قال رسول الله صلى
+> الله عليه و سلم قولوا اللهم صل على محمد وعلى آل محمد كما صليت على آل
+> إبراهيم وبارك على محمد وعلى آل محمد كما باركت على آل إبراهيم في
+> العالمين إنك حميد مجيد والسلام كما قد علمتم
 
 Yahya b. Yahya al-Tamimi – Malik – Na’im b. ‘Abd Allah al-Mujmar –
 Muhammad b. ‘Abd Allah b. Zayd al-Ansari – Abu Mas’ud al-Ansari:
@@ -123,14 +107,10 @@ been taught.[^5]
 
 Imam Ahmad (d. 241 H) has this riwayah as well:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي حدثنا عثمان بن عمر انا مالك عن نعيم المجمر عن
-محمد يعني بن عبد الله عن أبي مسعود قال قيل يا رسول الله كيف نصلي عليك
-فقال قولوا اللهم صل على محمد وعلى آل محمد وبارك على محمد وعلى آل محمد
-كما باركت على إبراهيم في العالمين انك حميد مجيد
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي حدثنا عثمان بن عمر انا مالك عن نعيم المجمر عن
+> محمد يعني بن عبد الله عن أبي مسعود قال قيل يا رسول الله كيف نصلي عليك
+> فقال قولوا اللهم صل على محمد وعلى آل محمد وبارك على محمد وعلى آل محمد
+> كما باركت على إبراهيم في العالمين انك حميد مجيد
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Uthman b. ‘Umar –
 Malik – Na’im al-Mujmar – Muhammad b. ‘Abd Allah – Abu Mas’ud:
@@ -143,23 +123,15 @@ the Most Praiseworthy, the Most Glorious.’”[^6]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is sahih upon the standard of (Imam) Muslim.[^7]
 
 There are a number of points that need to be highlighted here. First,
 this was what Ka’b b. ‘Ujrah said to the Messenger of Allah:
 
-<blockquote dir="rtl">
-  <p>
-يا رسول الله كيف الصلاة عليكم أهل البيت فإن الله قد علمنا كيف نسلم
-عليكم
-  </p>
-</blockquote>
+> يا رسول الله كيف الصلاة عليكم أهل البيت فإن الله قد علمنا كيف نسلم
+> عليكم
 
 O Messenger of Allah! What is the manner of the salat upon you, Ahl
 al-Bayt, for Allah has taught us how to send salam upon you (Ahl
@@ -178,53 +150,33 @@ abound galore in their classical books. However, in order to conserve
 space, we will be citing only a few, from Sahih al-Bukhari. Concerning
 Amir al-Muminin, ‘alaihi al-salam, Imam al-Bukhari writes:
 
-<blockquote dir="rtl">
-  <p>
-قال علي عليه السلام الذاريات الرياح
-  </p>
-</blockquote>
+> قال علي عليه السلام الذاريات الرياح
 
 ‘Ali, ‘alaihi al-salam, said: “Al-Dhariyat are the winds”.[^8]  
  With regards to his wife, the blessed daughter of the Messenger of
 Allah, ‘alaiha al-salam, al-Bukhari also states:
 
-<blockquote dir="rtl">
-  <p>
-فقالت فاطمة عليها السلام….
-  </p>
-</blockquote>
+> فقالت فاطمة عليها السلام….
 
 Fatimah, ‘alaiha al-salam, said….[^9]
 
 About Imam al-Hasan, ‘alaihi al-salam, al-Bukhari is no different
 either:
 
-<blockquote dir="rtl">
-  <p>
-ووهب الحسن بن علي عليهما السلام لرجل دينه
-  </p>
-</blockquote>
+> ووهب الحسن بن علي عليهما السلام لرجل دينه
 
 Al-Hasan b. ‘Ali, ‘alaihima al-salam, waived the debt of a man.[^10]
 
 Imam al-Husayn, ‘alaihi al-salam, the martyr of Karbala, is treated
 likewise by al-Bukhari:
 
-<blockquote dir="rtl">
-  <p>
-حسين بن علي عليهما السلام أخبره
-  </p>
-</blockquote>
+> حسين بن علي عليهما السلام أخبره
 
 Husayn b. ‘Ali, ‘alaihima al-salam, informed him[^11]
 
 He also says:
 
-<blockquote dir="rtl">
-  <p>
-أتي عبيد الله بن زياد برأس الحسين بن علي عليه السلام
-  </p>
-</blockquote>
+> أتي عبيد الله بن زياد برأس الحسين بن علي عليه السلام
 
 The head of al-Husayn b. ‘Ali, ‘alaihi al-salam, was brought to ‘Ubayd
 Allah b. Ziyad[^12]
@@ -232,11 +184,7 @@ Allah b. Ziyad[^12]
 Even Imam Zayn al-‘Abidin, ‘Ali b. al-Husayn, ‘alaihi al-salam, is given
 the same recognition by al-Bukhari:
 
-<blockquote dir="rtl">
-  <p>
-وقال علي بن الحسين عليهما السلام….
-  </p>
-</blockquote>
+> وقال علي بن الحسين عليهما السلام….
 
 ‘Ali b. al-Husayn, ‘alaihi al-salam, said….[^13]
 
@@ -247,22 +195,14 @@ aright.
 Secondly, the salat upon the Prophet is also the salat upon his Ahl
 al-Bayt. Note these words of the Sahabah:
 
-<blockquote dir="rtl">
-  <p>
-يا رسول الله كيف الصلاة عليكم أهل البيت
-  </p>
-</blockquote>
+> يا رسول الله كيف الصلاة عليكم أهل البيت
 
 O Messenger of Allah! What is the manner of the salat upon you, Ahl
 al-Bayt?
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-يا رسول الله قد علمنا كيف نسلم عليك فكيف نصلي عليك
-  </p>
-</blockquote>
+> يا رسول الله قد علمنا كيف نسلم عليك فكيف نصلي عليك
 
 O Messenger of Allah, we already know how to make salam on you. But, how
 do we make salat on you?
@@ -271,16 +211,12 @@ To both questions, he gave the same answer. Whether you want to make
 salat on the Prophet or the Ahl al-Bayt, you must mention him together
 with them. ‘Allamah al-Albani (d. 1420 H) confesses to this as well:
 
-<blockquote dir="rtl">
-  <p>
-قد علمت مما سبق أن صيغ الصلاة على النبي صلى الله عليه وسلم فيها كلها
-الصلاة على أهل بيته صلى الله عليه وسلم وآله؛ ولذلك فلا ينبغي الاكتفاء
-بالصلاة عليه صلى الله عليه وسلم وحده، بل لا بد من إضافة الآل إليه، بل
-لا بد من إتمام الصيغة من أولها إلى آخرها؛ كما وردت؛ تقيُّداً بقوله صلى
-الله عليه وسلم: "قولوا: اللهم! صل على محمد، وعلى آل محمد ... " إلخ،
-حين سألوه عن كيفية الصلاة عليه صلى الله عليه وسلم.
-  </p>
-</blockquote>
+> قد علمت مما سبق أن صيغ الصلاة على النبي صلى الله عليه وسلم فيها كلها
+> الصلاة على أهل بيته صلى الله عليه وسلم وآله؛ ولذلك فلا ينبغي الاكتفاء
+> بالصلاة عليه صلى الله عليه وسلم وحده، بل لا بد من إضافة الآل إليه، بل
+> لا بد من إتمام الصيغة من أولها إلى آخرها؛ كما وردت؛ تقيُّداً بقوله صلى
+> الله عليه وسلم: "قولوا: اللهم! صل على محمد، وعلى آل محمد ... " إلخ،
+> حين سألوه عن كيفية الصلاة عليه صلى الله عليه وسلم.
 
 You have known from our previous discussions that in all the methods of
 making salat upon the Prophet, peace be upon him, there is mention of
@@ -314,12 +250,8 @@ expresses his frustration on this matter too:
 > أنهم سألوا النبي صلى الله عليه وسلم: " كيف نصلي عليك؟"، فعلمهم صلى
 > الله عليه وسلم هذه الصيغ}، ألا وهو: الأستاذ محمد إسعاف النشاشيبي في
 > كتابه "الإسلام الصحيح" (ص 177 - 189)، وحجته في ذلك أن الآية: {يا أيها
-<blockquote dir="rtl">
-  <p>
-الذين آمنوا صلوا عليه وسلموا تسليما}؛ لم يُذكر فيها غيرَ النبي صلى
-الله عليه وسلم أحدٌ. وبناء على ذلك رد الأحاديث الصحيحة كلها
-  </p>
-</blockquote>
+> الذين آمنوا صلوا عليه وسلموا تسليما}؛ لم يُذكر فيها غيرَ النبي صلى
+> الله عليه وسلم أحدٌ. وبناء على ذلك رد الأحاديث الصحيحة كلها
 
 One of the strange things of this time is how a person denies what is
 authentically transmitted from him, peace be upon him, through several,
@@ -353,12 +285,8 @@ blessed Ibrahim and his family.
 So, what does it mean that Allah sends salat upon someone? Al-Hafiz Ibn
 Kathir (d. 774 H) gives us the answer:
 
-<blockquote dir="rtl">
-  <p>
-قال البخاري : قال أبو العالية : صلاة الله : ثناؤه عليه عند الملائكة ،
-وصلاة الملائكة : الدعاء.
-  </p>
-</blockquote>
+> قال البخاري : قال أبو العالية : صلاة الله : ثناؤه عليه عند الملائكة ،
+> وصلاة الملائكة : الدعاء.
 
 Al-Bukhari said: Abu al-‘Aliyah said: “The salat of Allah is His praise
 of him among the angels, and the salat of the angels is al-du’a (the
@@ -370,12 +298,8 @@ family among them. In that case, how did Allah praise Ibrahim and his
 family among the angels? To avoid prolonging the research, we will
 restrict ourselves to Ibrahim alone. The Qur’an has mentioned about him:
 
-<blockquote dir="rtl">
-  <p>
-ما كان إبراهيم يهوديا ولا نصرانيا ولكن كان حنيفا مسلما وما كان من
-المشركين
-  </p>
-</blockquote>
+> ما كان إبراهيم يهوديا ولا نصرانيا ولكن كان حنيفا مسلما وما كان من
+> المشركين
 
 ***Ibrahim was neither a Jew nor a Christian, but he was an absolutely
 pure Muslim monotheist, and he was not one of the polytheists.***[^18]
@@ -383,22 +307,14 @@ pure Muslim monotheist, and he was not one of the polytheists.***[^18]
 This is a praise of our dear Prophet, Ibrahim, for his unadulterated
 Islamic faith. Allah also says:
 
-<blockquote dir="rtl">
-  <p>
-إن إبراهيم لحليم أواه منيب
-  </p>
-</blockquote>
+> إن إبراهيم لحليم أواه منيب
 
 ***Verily, Ibrahim was, without doubt, forbearing, used to invoke Allah
 with humility, and was repentant.***[^19]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-إن إبراهيم كان أمة قانتا لله حنيفا ولم يك من المشركين شاكرا لأنعمه
-  </p>
-</blockquote>
+> إن إبراهيم كان أمة قانتا لله حنيفا ولم يك من المشركين شاكرا لأنعمه
 
 ***Verily, Ibrahim was (himself) an Ummah, obedient to Allah, an
 absolutely pure monotheist, and he was not one of the polytheists. He
@@ -406,23 +322,15 @@ was thankful for His Graces.***[^20]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-واذكر في الكتاب إبراهيم إنه كان صديقا نبيا
-  </p>
-</blockquote>
+> واذكر في الكتاب إبراهيم إنه كان صديقا نبيا
 
 ***And mention in the Book Ibrahim. Verily, he was a man of truth, a
 prophet.***[^21]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-واذكر عبادنا إبراهيم وإسحاق ويعقوب أولي الأيدي والأبصار إنا أخلصناهم
-بخالصة ذكرى الدار وإنهم عندنا لمن المصطفين الأخيار
-  </p>
-</blockquote>
+> واذكر عبادنا إبراهيم وإسحاق ويعقوب أولي الأيدي والأبصار إنا أخلصناهم
+> بخالصة ذكرى الدار وإنهم عندنا لمن المصطفين الأخيار
 
 ***And remember Our devout worshippers, Ibrahim, Ishaq and Ya’qub,
 owners of strength and understanding. Verily, We chose them with the
@@ -431,11 +339,7 @@ verily, of the chosen and the best.***[^22]
 
 And, finally:
 
-<blockquote dir="rtl">
-  <p>
-وإبراهيم الذي وفى
-  </p>
-</blockquote>
+> وإبراهيم الذي وفى
 
 ***And Ibrahim who thoroughly and faithfully fulfilled (the commandments
 of his Lord).***[^23]
@@ -469,12 +373,8 @@ Muhammad and his family as well. So, what were Allah’s blessings upon
 Ibrahim and the family of Ibrahim? Well, one of them is mentioned in
 this verse:
 
-<blockquote dir="rtl">
-  <p>
-إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين ذرية بعضها
-من بعض والله سميع عليم
-  </p>
-</blockquote>
+> إن الله اصطفى آدم ونوحا وآل إبراهيم وآل عمران على العالمين ذرية بعضها
+> من بعض والله سميع عليم
 
 ***Verily, Allah chose Adam, Nuh, the family of Ibrahim and the family
 of Imran above the worlds.***[^24]
@@ -488,34 +388,22 @@ their leader in anything except someone from amongst them.
 
 Concerning the same family, Allah declares:
 
-<blockquote dir="rtl">
-  <p>
-فقد آتينا آل إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما
-  </p>
-</blockquote>
+> فقد آتينا آل إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما
 
 ***We have granted the Book and the Hikmah to the family of Ibrahim, and
 We gave them a great kingdom.***[^25]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أولئك الذين آتيناهم الكتاب والحكم والنبوة
-  </p>
-</blockquote>
+> أولئك الذين آتيناهم الكتاب والحكم والنبوة
 
 ***They are those whom We gave the Book, the authority, and
 prophethood.***[^26]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات
-وفضلناهم على العالمين
-  </p>
-</blockquote>
+> ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات
+> وفضلناهم على العالمين
 
 ***And indeed, We gave the offspring of Israil the Book, and authority
 and prophethood, and We provided them with good things, AND WE MADE THEM
@@ -633,5 +521,4 @@ edition, 1420 H) [annotator: Sami b. Muhammad Salamah], vol. 6, p. 457
 [^26]: Qur’an 6:89
 
 [^27]: Qur’an 45:16
-
 

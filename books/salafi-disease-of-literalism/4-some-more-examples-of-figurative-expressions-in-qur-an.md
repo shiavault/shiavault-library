@@ -63,27 +63,19 @@ Making Shariah is only a work of Allah and no one can make even a small
 law at his own. Whole of Surah Ikhlas is full of these special
 attributes of Allah (swt):
 
-<p dir="rtl">
 بِس'مِ اللهِ الرَّح'منِ الرَّحِيمِ قُل' هُوَ اللَّهُ أَحَدٌ
-</p>
 
 [Yusufali 112:1] Say: He is Allah, the One and Only;
 
-<p dir="rtl">
 اللَّهُ الصَّمَدُ
-</p>
 
 [Yusufali 112:2] Allah, the Eternal, Absolute;
 
-<p dir="rtl">
 لَم' يَلِد' وَلَم' يُولَد'
-</p>
 
 [Yusufali 112:3] He begetteth not, nor is He begotten;
 
-<p dir="rtl">
 وَلَم' يَكُن لَّهُ كُفُوًا أَحَدٌ
-</p>
 
 [Yusufali 112:4] And there is none like unto Him.
 
@@ -118,5 +110,4 @@ attributes of Rasool Allah [saww], because they think that would make
 Rasool Allah [saww] similar to Allah!"
 
 And Allah knows the best.
-
 

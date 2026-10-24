@@ -23,4 +23,3 @@ and I have just changed its outlook. First it was imperialism,
 dictatorship, feudalism and now also it is the same but I have changed
 its dress to democracy.
 
-

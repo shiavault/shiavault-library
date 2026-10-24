@@ -855,4 +855,3 @@ unable to come to my help, you should at least prevent people siding
 with Ali”. Many persons responded to her call and there were also many
 who declined to follow her.
 
-

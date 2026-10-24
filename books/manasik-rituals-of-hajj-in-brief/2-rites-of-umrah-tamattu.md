@@ -1106,4 +1106,3 @@ A person who becomes *muhrim* for *Tamattu* in the obligatory *Hajj* but
 who deliberately delays it until he runs out of time should act in
 accordance with the precept put forward in item above.
 
-

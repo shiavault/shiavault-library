@@ -1,13 +1,9 @@
 Discourse 8: Characteristics Of The Shia – Part V
 =================================================
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ أَبَا عَبْدِ اللٌّهِ يَقُولُ: إِنَّ أَحَقَّ النَّاسَ
-بِالْوَرَعِ آلِ مُحَمّدٍ وَ شِيعَتِهِمْ كَيْ تَقْتَدِي الرَعِيَّةَ
-بِهِمْ.
-  </p>
-</blockquote>
+> سَمِعْتُ أَبَا عَبْدِ اللٌّهِ يَقُولُ: إِنَّ أَحَقَّ النَّاسَ
+> بِالْوَرَعِ آلِ مُحَمّدٍ وَ شِيعَتِهِمْ كَيْ تَقْتَدِي الرَعِيَّةَ
+> بِهِمْ.
 
 I heard Aba 'Abdillah (as) say, “The closest people to precaution and
 keeping away from sins (al-Wara') are the family of Muhammad (blessings
@@ -65,11 +61,7 @@ he fears that if he begins to speak too much, he may unknowingly
 backbite another person. In reality, this sort of person has entered
 into a mental state of:
 
-<blockquote dir="rtl">
-  <p>
-أَتْرُكُ مَا لاَ بَأْسَ بِهِ حَذَراً مِمَا بَأْسَ بِهِ.
-  </p>
-</blockquote>
+> أَتْرُكُ مَا لاَ بَأْسَ بِهِ حَذَراً مِمَا بَأْسَ بِهِ.
 
 “I will refrain from those things which there is no problem in
 performing with the fear that I may go towards those things which are
@@ -104,12 +96,8 @@ At the end of Suratul Furqan (25), there are 12 characteristics
 mentioned for the 'Ibadul Rahman (Servant of the Most Merciful) of which
 one of them is:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَ
-ذُرِّيَاتِنَا قُرَّةَ أَعْـيُنٍ وَاجَعَلْنَا لِلْمُتَّقِينَ إِمَاماً
-  </p>
-</blockquote>
+> وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَ
+> ذُرِّيَاتِنَا قُرَّةَ أَعْـيُنٍ وَاجَعَلْنَا لِلْمُتَّقِينَ إِمَاماً
 
 “Those people who say, 'O' our Lord grant us from among our spouses and
 among our children that which enlightens our eyes and make us an Imam
@@ -210,11 +198,7 @@ to Islam. In addition, Prophet Ibrahim (as) stood alone in his mission.
 Thus, we must not be afraid of the number of people who are traversing
 the path of justice:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَسْتَوْحِشُوا فِي طَرِيقِ الْهُدى لِلْقِلَّةِ أَهْلِهِ.
-  </p>
-</blockquote>
+> لاَ تَسْتَوْحِشُوا فِي طَرِيقِ الْهُدى لِلْقِلَّةِ أَهْلِهِ.
 
 “Do not be afraid of traversing the path of true guidance due to the
 small number of people who are upon it.”
@@ -266,5 +250,4 @@ anyone alone!
 [^1]: Bihar al-Anwar, vol. 65, pg. 166, tradition 21
 
 [^2]: Surat al-Furqan (25), Verse 74
-
 

@@ -1,19 +1,11 @@
 Suratul Baqarah: Verses 6-7
 ===========================
 
-<blockquote dir="rtl">
-  <p>
-(٦) إِنَّ الَّذِينَ كَفَرُواْ سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ
-لَمْ تُنذِرْهُمْ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> (٦) إِنَّ الَّذِينَ كَفَرُواْ سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ
+> لَمْ تُنذِرْهُمْ لاَ يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-(٧) خَتَمَ اللَّهُ عَلَى قُلُوبِهِمْ وَعَلَى سَمْعِهِمْ وَعَلَى
-أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> (٧) خَتَمَ اللَّهُ عَلَى قُلُوبِهِمْ وَعَلَى سَمْعِهِمْ وَعَلَى
+> أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ
 
 ***Surely those who disbelieve, alike is it to them whether you warn
 them or do not warn them, they will not believe (6).***
@@ -179,5 +171,4 @@ that is, some of you shall dissociate from others.
 
 The author says: This tradition confirms what we have previously
 mentioned that disbelief has many grades and ranks.
-
 

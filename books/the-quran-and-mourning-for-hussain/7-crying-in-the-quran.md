@@ -44,4 +44,3 @@ did not approve of crying and considered it an innovation, he would
 indeed have reprimanded us for it. But instead, here we see that it is
 being approved of, which can only mean that it is highly liked by Allah.
 
-

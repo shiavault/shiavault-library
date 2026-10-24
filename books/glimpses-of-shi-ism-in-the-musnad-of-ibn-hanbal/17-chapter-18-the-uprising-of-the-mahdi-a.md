@@ -129,16 +129,16 @@ better understanding of each other.
 
 **Notes:**
 
-[^67] Al-Musnad, hadith no. 773.
-[^68] Ibid, hadith no. 645.
-[^69] Ibid, hadith no. 3571. There are several other hadith in the
+[^67]: Al-Musnad, hadith no. 773.
+[^68]: Ibid, hadith no. 645.
+[^69]: Ibid, hadith no. 3571. There are several other hadith in the
 Musnad concerning the uprising of the Mahdi- (‘a), e.g. hadith nos.
 3572, 3573, 4098, 4279 etc. Most of the isna-d of these ahadith have
 been confirmed as sahi-h.
-[^70] Ibn Khaldun, al-Muqaddimah, translated by Franz Rosenthal, vol. 2,
+[^70]: Ibn Khaldun, al-Muqaddimah, translated by Franz Rosenthal, vol. 2,
 pp. 156-157, published by Routledge & Kegan Paul, London, 1986.
-[^71] Ibid, vol. 2, p. 158.
-[^72] Ibid, vol. 2, p. 159.
-[^73] Ibid, vol. 2, p. 162.
-[^74] Sha-kir, Sharh al-Musnad, vol. 5, pp. 197-198.
+[^71]: Ibid, vol. 2, p. 158.
+[^72]: Ibid, vol. 2, p. 159.
+[^73]: Ibid, vol. 2, p. 162.
+[^74]: Sha-kir, Sharh al-Musnad, vol. 5, pp. 197-198.
 

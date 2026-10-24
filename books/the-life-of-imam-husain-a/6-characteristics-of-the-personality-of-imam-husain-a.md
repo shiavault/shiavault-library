@@ -401,7 +401,7 @@ and frankly stated the true position to the multitudes who had been
 accompanying him. This was so because those who have firm belief in God
 and His justice never has such defects.
 
-Among the examples of his forthrightness is that on the 10<sup>th</sup>
+Among the examples of his forthrightness is that on the 10th
 eve of Mohurrum he gathered all his companions and informed them with
 absolute frankness that all those who shall remain with him would be
 martyred the next day. The Holy Imam explained to them in unequivocal
@@ -475,7 +475,7 @@ and how the tyrant Yazid was busy in extermination his Shias and
 followers. He assumed patience and forbearance in all these atrocious
 circumstances.
 
-On the 10<sup>th</sup> of Mohurrum such calamities descended upon him
+On the 10th of Mohurrum such calamities descended upon him
 one after the other that patience used to rock in front of them, while
 the grief had not ended for him and all the difficulties and sorrows had
 besieged him. He saw the bright stars of his Ahle Bayt how the swords

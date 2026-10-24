@@ -28,11 +28,9 @@ Many terms will be used in the following chapters. It is, therefore,
 necessary to explain important ones beforehand. Here a compete tradition
 is given with its translation:
 
-<p dir="rtl">
 حماد بن سلمة عن محمد بن إسحاق عن عمرو بن شعيب عن أبيه عن جده قال : "قلت
 يا رسول الله اكتب كل ما أسمع منك؟ قال, نعم . قلت في الرضا والغضب؟ قال,
 نعم. فإني لا أقول في ذلك إلا الحق".
-</p>
 
 HAMMAD IBN SALMAH narrated from MUHAMMAD IBN ISHAQ who narrated from
 \`AMR IBN SHU\`AYB who narrated from his father who narrated from his
@@ -113,7 +111,6 @@ change, add or omit some wordings from the HADITH.
 
 It is not necessary that a RAWI should be a scholar or learned
 person.
-
 
 **The Four Types Of Hadith**
 
@@ -301,5 +298,4 @@ from the days of Imam Ali (a.s) up to the days of Imam HASAN AL-ASKARI
 (A.S.) companions of Imams (a.s) wrote more than 6600 books, most of
 them containing the AHADITH of the Holy Prophet (P) and the Imams
 (a.s).
-
 

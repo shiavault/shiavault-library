@@ -124,4 +124,3 @@ you shall deny others, and some of you shall curse others . . . (29:25)
 The author says: This tradition confirms what we have previously
 mentioned that disbelief has many grades and ranks.
 
-

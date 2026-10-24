@@ -34,4 +34,3 @@ resolve that by this we would amend whatever deficiencies we have. Amen.
 **Izhar Husayn**  
  Proprietor: Haidery Kutub Khana, Mumbai - 3
 
-

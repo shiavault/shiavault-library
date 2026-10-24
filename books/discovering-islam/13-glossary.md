@@ -45,4 +45,3 @@ Resurrection.
  Wudhu—Ablution.  
 *Zakat*—Islamic tax.
 
-

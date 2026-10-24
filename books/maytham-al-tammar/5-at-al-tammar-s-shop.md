@@ -34,4 +34,3 @@ The Imam said:
 
 The man was full of astonishment. He took the dirhams and went away.
 
-

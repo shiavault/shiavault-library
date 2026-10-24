@@ -212,11 +212,7 @@ freedom of action to the Shi‘ah, renovated the tomb of Imam al-Husayn
 (*‘a*) and removed the prohibition on visiting it.[^35] Hence, Bahtari,
 a poet during his period has thus said:
 
-<blockquote dir="rtl">
-  <p>
-إنّ علياً لاولى بكم وازكی يداً عنكم من عمر
-  </p>
-</blockquote>
+> إنّ علياً لاولى بكم وازكی يداً عنكم من عمر
 
 *Verily, ‘Ali* *compared to ‘Umar is nearer to you and he is
 purer.*[^36]
@@ -577,5 +573,4 @@ al-Huda (Qum: Mu’assasah Al al-Bayt Li Ahya’ at-Turath, 1417 AH), vol.
 [^48]: I‘lam al-Wara bi A‘lam al-Huda, vol. 2, p. 34.
 
 [^49]: A‘yan ash-Shi‘ah, p. 29.
-
 

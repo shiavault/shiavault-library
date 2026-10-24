@@ -606,4 +606,3 @@ tearing apart this covering. Had you kept that covering as it is, it
 would have been better for your heart and creed; so, think about it, may
 you be guided rightly, and surely success comes from Allāh.
 
-

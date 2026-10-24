@@ -1476,4 +1476,3 @@ al-Afikar (the key of thoughts), p. 148, Kashful Ghummah, vol.2 p.241.
 [^76]: As-Sayyidah Zaynab wa Akhbar az-Zaynabiyyaat (Lady Zaynab and the
 News of the Zaynabite Ladies), by al-Ubaydali, p.9.
 
-

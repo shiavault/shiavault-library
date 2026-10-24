@@ -637,4 +637,3 @@ the rest of his clan to embrace Islam. In the subsequent wars, the
 people of Banu Tay remained steadfast in the faith and rendered valiant
 services to the cause of Islam.
 
-

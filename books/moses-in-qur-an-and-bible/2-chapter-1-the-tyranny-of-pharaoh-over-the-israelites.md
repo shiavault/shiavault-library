@@ -17,7 +17,6 @@ that the Israelites, who were aliens in the land of Egypt, might one day
 become powerful and supreme in the land, oppressed and persecuted them
 in various ways.
 
-
 **Chapter 2: The Childhood of Moses**
 
 "And We revealed to Musa's mother saying: Give him suck, then when thou
@@ -64,5 +63,4 @@ words:
 
 "So Pharaoh said: Did we not bring thee up as a child among us for many
 years of thy life." (26:18)
-
 

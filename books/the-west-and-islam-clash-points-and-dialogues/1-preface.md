@@ -12,4 +12,3 @@ rather a variety of discourses that manifest the various endeavors
 (*ijtihad* ) of the Muslims, within a specific time and place, to
 understand the world around them and to interpret the Quran.
 
-

@@ -4,12 +4,8 @@ Section 1: Immunity Declared
 Surah At-Tawbah – Verse 1
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَرَآءَةٌ مِنَ اللّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُم مِنَ
-الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> بَرَآءَةٌ مِنَ اللّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُم مِنَ
+> الْمُشْرِكِينَ
 
 ***1. “(This is a declaration of) immunity from Allah and His Messenger
 towards those of the polytheists with whom you made covenant.”***
@@ -188,12 +184,8 @@ abasement.
 Surah At-Tawbah – Verse 2
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَسِيحُوا فِي الاَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا اَنَّكُمْ
-غَيْرُ مُعْجِزِي اللّهِ وَاَنَّ اللّهَ مُخْزِي الْكَافِرِينَ
-  </p>
-</blockquote>
+> فَسِيحُوا فِي الاَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا اَنَّكُمْ
+> غَيْرُ مُعْجِزِي اللّهِ وَاَنَّ اللّهَ مُخْزِي الْكَافِرِينَ
 
 **2*****. “So go about in the earth freely for four months, and know
 that you can not make futile Allah, and that Allah degrades the
@@ -228,14 +220,10 @@ because these verses were revealed in Shawwāl.
 Surah At-Tawbah – Verse 3
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَذَانٌ مِنَ اللّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
-الاَكْبَرِ أَنَّ اللّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ وَرَسُولُهُ فَإِن
-تُبْتُمْ فَهُوَ خَيْرٌ لَكُمْ وإِن تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّكُمْ
-غَيْرُ مُعْجِزِي اللّهِ وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> وَأَذَانٌ مِنَ اللّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
+> الاَكْبَرِ أَنَّ اللّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ وَرَسُولُهُ فَإِن
+> تُبْتُمْ فَهُوَ خَيْرٌ لَكُمْ وإِن تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّكُمْ
+> غَيْرُ مُعْجِزِي اللّهِ وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ
 
 **3*****. “And (this) is proclamation from Allah and His Messenger to
 the people on the day of the great pilgrimage that Allah and His
@@ -288,14 +276,10 @@ and says:
 Surah At-Tawbah – Verse 4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إلاَّ الَّذِينَ عَاهَدْتُّمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ
-يَنقُصُوكُمْ شَيْئاً وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَداً فَاَتِمُّوا
-إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ إِنَّ اللّهَ يُحِبُّ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> إلاَّ الَّذِينَ عَاهَدْتُّمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ
+> يَنقُصُوكُمْ شَيْئاً وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَداً فَاَتِمُّوا
+> إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ إِنَّ اللّهَ يُحِبُّ
+> الْمُتَّقِينَ
 
 **4*****. “Except those of the polytheists with whom you made covenant,
 and who have not failed you in anything nor have supported anyone
@@ -327,14 +311,10 @@ those who avoid any perjury and transgression.
 Surah At-Tawbah – Verse 5
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا انسَلَخَ الاَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ
-حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ
-كُلَّ مَرْصَدٍ فَإِن تَابُوا وَأَقَامُوا الْصَّلاَةَ وَءَاتَوُا
-الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ إِنَّ اللّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> فَإِذَا انسَلَخَ الاَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ
+> حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ
+> كُلَّ مَرْصَدٍ فَإِن تَابُوا وَأَقَامُوا الْصَّلاَةَ وَءَاتَوُا
+> الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ إِنَّ اللّهَ غَفُورٌ رَحِيمٌ
 
 **5*****. “Then when the sacred months are drawn away, slay the
 polytheists wherever you find them, and seize them and besiege them and
@@ -383,13 +363,9 @@ returns to Him. The verse ends with the following phrase:
 Surah At-Tawbah – Verse 6
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَاَجِرْهُ حَتَّى
-يَسْمَعَ كَلاَمَ اللّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَلِكَ بِاَنَّهُمْ
-قَوْمٌ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَاَجِرْهُ حَتَّى
+> يَسْمَعَ كَلاَمَ اللّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَلِكَ بِاَنَّهُمْ
+> قَوْمٌ لاَ يَعْلَمُونَ
 
 **6*****. “And if any of the polytheists seeks protection from you,
 grant him protection till he hears the Word of Allah; then do convey him
@@ -449,5 +425,4 @@ swear their fealty unto you do but swear fealty unto Allah…” (Surah
 Al-Fath, No. 48, verse 10); or in obedience: “Whoever obeys the
 Messenger has obeyed Allah…” (Surah An-Nisā’, No. 4, verse 80); or in
 immunity, like this verse. (Tafsir-I-Atyab-ul-Bayān)
-
 

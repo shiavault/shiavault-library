@@ -86,4 +86,3 @@ of the internationally recognized fourth edition.
 
 [^3]: Mentioned in this book, for there are more than that.
 
-

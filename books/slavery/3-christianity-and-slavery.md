@@ -78,4 +78,3 @@ S.P.C.K., 1952), p.976.
 
 [^4]: Leeder, S.S., Veiled Mysteries of Egypt (London, 1912), p.332.
 
-

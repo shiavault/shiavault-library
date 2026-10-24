@@ -211,4 +211,3 @@ In short, remembrance of judgment and the preview of the effects of sin
 in the next world was the best way to keep the prophets from sin and
 indecency.
 
-

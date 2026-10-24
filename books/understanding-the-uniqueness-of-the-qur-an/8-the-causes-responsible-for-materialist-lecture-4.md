@@ -904,4 +904,3 @@ Islamic values. Of course, the restoration of the combative spirit to
 Islamic teaching requires an intellectual jihad, a jihad by pen and
 tongue—and yet another jihad, in action and deed.
 
-

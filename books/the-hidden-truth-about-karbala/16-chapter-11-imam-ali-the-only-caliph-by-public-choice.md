@@ -285,4 +285,3 @@ appended to this sermon...
 [^5]: Nahjul Balagha, translated by Sayyid Ali Reza, published by Abbas
 Book Agency, Lucknow, U.P.
 
-

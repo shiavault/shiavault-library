@@ -3,17 +3,13 @@ Part One
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
-<blockquote dir="rtl">
-  <p>
-كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللَّهُ النَّبِيِّينَ
-مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ
-لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ ۚ وَمَا اخْتَلَفَ
-فِيهِ إِلَّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَاءَتْهُمُ
-الْبَيِّنَاتُ بَغْيًا بَيْنَهُمْ ۖ فَهَدَى اللَّهُ الَّذِينَ آمَنُوا
-لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ ۗ وَاللَّهُ يَهْدِي
-مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللَّهُ النَّبِيِّينَ
+> مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ
+> لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ ۚ وَمَا اخْتَلَفَ
+> فِيهِ إِلَّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَاءَتْهُمُ
+> الْبَيِّنَاتُ بَغْيًا بَيْنَهُمْ ۖ فَهَدَى اللَّهُ الَّذِينَ آمَنُوا
+> لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ ۗ وَاللَّهُ يَهْدِي
+> مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ
 
 ***"Mankind was one single community, and Allah sent Messengers with
 glad tidings and warnings and with them He sent the Book in Truth, to
@@ -24,27 +20,19 @@ the Believers to the Truth, concerning that where­ in they differed, for
 Allah guides whom He wills to a path that is straight." (al-Qur'an,
 Baqara, 2:213)***
 
-<blockquote dir="rtl">
-  <p>
-أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِنْهُمْ
-يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا
-عَقَلُوهُ وَهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+> أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِنْهُمْ
+> يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا
+> عَقَلُوهُ وَهُمْ يَعْلَمُونَ
 
 ***"can you (O men of Faith) entertain the hope that they will believe
 in you? - seeing that a party of them heard the word of Allah, and
 prevented it knowingly after they understood it." (al-Qur'an, Baqara, 2:
 75)***
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ
-يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا
-قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ
-مِمَّا يَكْسِبُونَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ
+> يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا
+> قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ
+> مِمَّا يَكْسِبُونَ
 
 ***"Then woe to those who write the Book with their own hands, and then
 say, 'This is from Allah'. To traffic with it for a miserable price! Woe
@@ -64,11 +52,7 @@ all previous divine systems. For this reason He took upon Himself the
 responsibility of safeguarding and protecting the heavenly book of Islam
 against any change or alteration saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ***"We have without doubt, sent down the Message; and We will assuredly
 guard it (from corruption) "(al-Qur'an, Hijr, 15:9)***
@@ -87,11 +71,7 @@ given in the holy Qur'an, yet their elaboration and exposition have been
 made by the holy Prophet in the form of traditions which have got to be
 followed as Allah Him­ self has commanded saying:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
 
 "***And whatsoever the messenger gives you take it, and whatsoever he
 forbids,abstain(from it)".(al-Qur'an, Hashr, 59:7)***
@@ -387,36 +367,24 @@ and investigation in order that all the differences may be removed and
 all doubts dispelled. Thus alone, we can understand the true Islam by
 the grace of Almighty Allah. May Allah help us in this regard!
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ ۚ
-أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ وَمَنْ
-يَنْقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئًا ۗ
-وَسَيَجْزِي اللَّهُ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ ۚ
+> أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ وَمَنْ
+> يَنْقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئًا ۗ
+> وَسَيَجْزِي اللَّهُ الشَّاكِرِينَ
 
 ***"Muhammad is but a messenger, messengers (the like of whom) have
 passed away before him. Will it be that, when he dies or is slain, you
 will turn back on your heels? He who turns back does no harm to Allah,
 and Allah will reward the thankful. " (al-Qur'an, Ale 'Imran', 3:144)***
 
-<blockquote dir="rtl">
-  <p>
- وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانْتَهُوا ۚ وَاتَّقُوا اللَّهَ
-  </p>
-</blockquote>
+>  وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانْتَهُوا ۚ وَاتَّقُوا اللَّهَ
 
 ***"And whatsoever the messenger gives you, take it. And whatsoever be
 forbids, abstain (from it). And keep your duty to Allah." (al-Qur'an,
 Hashr, 59:7)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنْطِقُ عَنِ الْهَوَىٰ
-  </p>
-</blockquote>
+> وَمَا يَنْطِقُ عَنِ الْهَوَىٰ
 
 ***"Nor does be speak of (his own) desire. It is naught save the
 revelation that is revealed ." (al-Qur'an, Najm, 53:3)***
@@ -521,5 +489,4 @@ following books: - (a ) Sayyid Murtadha al-Askari "Min Tarikh
 al-Hadith". (b) Shaykh Mahmud Abu Riyah "Azwa 'Ala Sunnah
 al-Muhammadiyah'' and "Shaykh al-Muzirah''. (c) Sayyid Abdal-Husayn
 Sharaf al-Din "Abu-Hurayrah "
-
 

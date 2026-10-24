@@ -54,4 +54,3 @@ carried it out and performed it though you did not use your actual hands
 
 [^2]: See al-Maydani, op. cit., vol.2, p.248.
 
-

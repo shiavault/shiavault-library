@@ -5,13 +5,9 @@ Ocean of pearls and corals denote the Imams (a.s.)
 
 Allah the most high says in Surah Rahman:
 
-<blockquote dir="rtl">
-  <p>
-مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ. بَيْنَهُمَا بَرْزَخٌ لَا
-يَبْغِيَانِ. فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ. يَخْرُجُ
-مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ.
-  </p>
-</blockquote>
+> مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ. بَيْنَهُمَا بَرْزَخٌ لَا
+> يَبْغِيَانِ. فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ. يَخْرُجُ
+> مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ.
 
 ***He has made the two seas to flow freely (so that) they meet together:
 Between them is a barrier which they cannot pass. Which then of the
@@ -79,5 +75,4 @@ because ‘lolo’ is big pearl and ‘marjan’ is the small pearl.
 mention of the Prophet (S) it is possible that ‘Barzakh’ denotes the
 holiness and sinlessness of the two holy souls that restrains them from
 revolt and oppressing each other.
-
 

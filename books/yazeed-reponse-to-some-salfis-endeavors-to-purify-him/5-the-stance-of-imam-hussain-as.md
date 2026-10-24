@@ -502,4 +502,3 @@ Kuffar and Makka prevented him from doing so and he returned without
 carrying through this objective. Hajj is a duty, so how were all the
 Muslims forgiven for failing to carry out Hajj that year?
 
-

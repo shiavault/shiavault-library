@@ -60,4 +60,3 @@ Bani Abbas Caliphs are said be among the twelve Imams.
 
 [^1]: Pg. 411
 
-

@@ -4,13 +4,9 @@ Section 4: Let Not the Life of This World Deceive Anyone
 Surah Luqman – Verse 31
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّهِ
-لِيُرِيَكُم مِنْ ءَايَاتِهِ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِكُلّ‌ِ
-صَبَّارٍ شَكُورٍ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّهِ
+> لِيُرِيَكُم مِنْ ءَايَاتِهِ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِكُلّ‌ِ
+> صَبَّارٍ شَكُورٍ
 
 ***31. “Have you not seen that the ships ran on in the sea by Allah’s
 favour that He may show you of His signs? Verily in this are signs for
@@ -91,13 +87,9 @@ order to be more careful and more curious.
 Surah Luqman – Verse 32
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا غَشِيَهُم مَوْجٌ كَالظُّلَلِ دَعَوُاْ اللَّهَ مُخْلِصِينَ لَهُ
-الدّ‌ِينَ فَلَمَّا نَجَّاهُمْ إِلَي الْبَرّ‌ِ فَمِنْهُم مُّقْتَصِدٌ
-وَمَا يَجْحَدُ بِاَيَاتِنَآ إِلاَّ كُلُّ خَتَّارٍ كَفُورٍ
-  </p>
-</blockquote>
+> وَإِذَا غَشِيَهُم مَوْجٌ كَالظُّلَلِ دَعَوُاْ اللَّهَ مُخْلِصِينَ لَهُ
+> الدّ‌ِينَ فَلَمَّا نَجَّاهُمْ إِلَي الْبَرّ‌ِ فَمِنْهُم مُّقْتَصِدٌ
+> وَمَا يَجْحَدُ بِاَيَاتِنَآ إِلاَّ كُلُّ خَتَّارٍ كَفُورٍ
 
 ***32. “And when a wave covers them like the canopy (of clouds), they
 call upon Allah in sincere devotion unto Him, but when He has delivered
@@ -360,14 +352,10 @@ beings.
 Surah Luqman – Verse 33
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْماً لاَ
-يَجْزِي وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ
-شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلاَ تَغُرَّنَّكُمُ الْحَيَاةُ
-الدُّنْيَا وَلاَ يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْماً لاَ
+> يَجْزِي وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ
+> شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلاَ تَغُرَّنَّكُمُ الْحَيَاةُ
+> الدُّنْيَا وَلاَ يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ
 
 ***33. “O people! Be in awe of your Lord and dread the Day when no
 father shall avail aught for his son, nor a son shall avail aught for
@@ -485,14 +473,10 @@ must get his real chastisement in Hereafter.
 Surah Luqman – Verse 34
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ وَيُنَزّ‌ِلُ الْغَيْثَ
-وَيَعْلَمُ مَا فِي الاَرْحَامِ وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ
-غَداً وَمَا تَدْرِي نَفْسٌ بِأَيّ‌ِ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ
-عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ وَيُنَزّ‌ِلُ الْغَيْثَ
+> وَيَعْلَمُ مَا فِي الاَرْحَامِ وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ
+> غَداً وَمَا تَدْرِي نَفْسٌ بِأَيّ‌ِ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ
+> عَلِيمٌ خَبِيرٌ
 
 ***34. “Verily Allah is He with Whom is the knowledge of the Hour, and
 He sends down the rain, and He knows what is in the wombs; and no one
@@ -571,5 +555,4 @@ die?”*
 
 The above verse was sent down and announced that the knowledge of all
 these things is with Allah.
-
 

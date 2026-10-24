@@ -340,4 +340,3 @@ The Imam replied, "If such would be the case it must be suspended until
 you meet your Imam. Restraint in confusing cases is better than
 indulging in destruction."
 
-

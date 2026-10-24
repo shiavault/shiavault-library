@@ -336,4 +336,3 @@ it and all the wives withdrew from such demand. One thing in this
 regards is that it is also said that RasulAllah, in his lifetime decided
 that this particular oasis (fidak) will be given to Fatima.
 
-

@@ -21,11 +21,7 @@ rulers.
 kindness means that when you gain authority, you forgive.
 
 > 4ـ اَلعَدْلُ أنَّكَ إذا ظُلِمْتَ أنْصَفْتَ، والفَضْلُ أنَّكَ إذا
-<blockquote dir="rtl">
-  <p>
-قَدَرْتَ عَفَوْتَ.
-  </p>
-</blockquote>
+> قَدَرْتَ عَفَوْتَ.
 
 5. Be just and you will rule.
 
@@ -43,11 +39,7 @@ kindness means that when you gain authority, you forgive.
 reduced covetousness and increased piety.
 
 > 8ـ اِسْتَعِنْ عَلَى العَدْلِ بِحُسْنِ النِّيَّةِ فِي الرَّعيَّةِ،
-<blockquote dir="rtl">
-  <p>
-وقِلَّةِ الطَّمَعِ، وكَثْرَةِ الوَرَعِ.
-  </p>
-</blockquote>
+> وقِلَّةِ الطَّمَعِ، وكَثْرَةِ الوَرَعِ.
 
 9. The loftiest of endowments is justice.
 
@@ -66,11 +58,7 @@ has oppressed him.
 of justice.
 
 > 12ـ إنَّ مِنَ العَدْلِ أنْ تُنْصِفَ فِي الحُكْمِ، وتَجْتَنِبَ
-<blockquote dir="rtl">
-  <p>
-الظُّلْمَةَ.
-  </p>
-</blockquote>
+> الظُّلْمَةَ.
 
 13. Indeed justice is the scale of Allah, the Glorified, which He has
 placed among the creation and installed for the establishment of truth;
@@ -78,22 +66,14 @@ so do not oppose Him in His scale and do not contradict Him in His
 authority.
 
 > 13ـ إنَّ العَدْلَ ميزانُ اللّهِ سُبْحانَهُ الَّذي وَضَعَهُ فِي
-<blockquote dir="rtl">
-  <p>
-الخَلْقِ، ونَصَبَهُ لإقامَةِ الحَقِّ، فَلا تُخالِفْهُ في ميزانِهِ،
-ولاتُعارِضْهُ في سُلْطانِهِ.
-  </p>
-</blockquote>
+> الخَلْقِ، ونَصَبَهُ لإقامَةِ الحَقِّ، فَلا تُخالِفْهُ في ميزانِهِ،
+> ولاتُعارِضْهُ في سُلْطانِهِ.
 
 14. Verily Allah, the Glorified, has enjoined justice and benevolence
 and has forbidden indecency and injustice.
 
 > 14ـ إنَّ اللّهَ سُبْحانَهُ أمَرَ بِالعَدْلِ والإحْسانِ، ونَهى عَنِ
-<blockquote dir="rtl">
-  <p>
-الفَحْشاءِ والظُّلْمِ.
-  </p>
-</blockquote>
+> الفَحْشاءِ والظُّلْمِ.
 
 15. Justice is brings harmony while oppression causes deviation.
 
@@ -147,11 +127,7 @@ power, and the one who has the greatest clemency is he who is clement
 despite having authority.
 
 > 26ـ أعْدَلُ النّاسِ مَنْ أنْصَفَ عَنْ قُوَّة، وأعْظَمُهُمْ حِلْماً
-<blockquote dir="rtl">
-  <p>
-مَنْ حَلُمَ عَنْ قُدْرَة.
-  </p>
-</blockquote>
+> مَنْ حَلُمَ عَنْ قُدْرَة.
 
 27. Through justice, bounties are multiplied.
 
@@ -166,11 +142,7 @@ purification from oppressions and vices, and as an opening for [the
 spreading of] Islam.
 
 > 29ـ جَعَلَ اللّهُ سُبْحانَهُ العَدْلَ قِواماً لِلأنامِ، وتَنْزيهاً
-<blockquote dir="rtl">
-  <p>
-مِنَ المَظالِمِ والآثامِ، وتَسْنِيَةً لِلإسْلامِ.
-  </p>
-</blockquote>
+> مِنَ المَظالِمِ والآثامِ، وتَسْنِيَةً لِلإسْلامِ.
 
 30. Virtuous justice is [the cause of] organization [and harmony] among
 the people.
@@ -229,11 +201,7 @@ actions are consistent with his speech, then he is the one who has
 fulfilled the trust and whose justice has been established.
 
 > 42ـ مَنْ طابَقَ سِـرُّهُ عَلانِيَتَهُ، ووافَقَ فِعْلُهُ مَقالَتَهُ
-<blockquote dir="rtl">
-  <p>
-فَهُوَ الَّذي أدَّى الأمانَةَ، وتَحَقَّقَتْ عَدالَـتُهُ.
-  </p>
-</blockquote>
+> فَهُوَ الَّذي أدَّى الأمانَةَ، وتَحَقَّقَتْ عَدالَـتُهُ.
 
 43. Whoever acts justly, Allah fortifies his kingdom.
 
@@ -248,11 +216,7 @@ virtues.
 leniency, fairness in investigation and moderation in munificence.
 
 > 45ـ سِياسَةُ العَدْلِ ثَلاثٌ: لينٌ في حَزْم، واسْتِقْصاءٌ في عَدْل،
-<blockquote dir="rtl">
-  <p>
-وإفْضالٌ في قَصْد.
-  </p>
-</blockquote>
+> وإفْضالٌ في قَصْد.
 
 46. Two things are such that their reward cannot be weighed: forgiveness
 and justice.
@@ -268,11 +232,7 @@ through] justice.
 poverty and wealth.
 
 > 48ـ عَليْكَ بِالعَدْلِ في الصَّديقِ، والعَدُوِّ،وَ القَصْدِ فِي
-<blockquote dir="rtl">
-  <p>
-الفَقْرِ وَالغِنى.
-  </p>
-</blockquote>
+> الفَقْرِ وَالغِنى.
 
 49. The pinnacle of justice is for a person to be just with himself.
 
@@ -296,11 +256,7 @@ beleaguering, then oppression will be more beleaguering [and difficult]
 for him.
 
 > 53ـ فِي العَدْلِ سَعَةٌ، ومَنْ ضاقَ عَلَيْهِ العَدْلُ فَالجَوْرُ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ أضْيَقُ.
-  </p>
-</blockquote>
+> عَلَيْهِ أضْيَقُ.
 
 54. From the exigencies of justice is the forbidding of oppression.
 
@@ -365,11 +321,7 @@ justice], the souls of [other] people summon each other towards your
 justice.
 
 > 68ـ إذا نَفَذَ حُكْمُكَ في نَفْسِكَ تَداعَتْ أنْفُسُ النّاسِ إلى
-<blockquote dir="rtl">
-  <p>
-عَدْلِكَ.
-  </p>
-</blockquote>
+> عَدْلِكَ.
 
 69. The bane of the just [ones] is lack of piety.
 
@@ -386,5 +338,4 @@ justice.
 [^1]: Or (according to Ibn Abi al-Ḥadīd’s explanation): It is not from
 justice to judge upon what is known [for certain] using [mere]
 conjecture.
-
 

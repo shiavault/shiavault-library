@@ -1,11 +1,7 @@
 Commentary of: “Wa bi jabarutika’llati ghalabta biha kulla shay”
 ================================================================
 
-<blockquote dir="rtl">
-  <p>
-وَبِجَبرُوتِكَ الَّتِى غَلَبْتَ بِهَا كُلَّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِجَبرُوتِكَ الَّتِى غَلَبْتَ بِهَا كُلَّ شَيٍْء
 
 *(I ask You) by Your Invincibility, through which You overwhelm all
 things.*
@@ -146,5 +142,4 @@ much as the number of all the entire human population.
 [^2]: Gilan is a Northern province of Iran.
 
 [^3]: Neshane hayi az ‘u: 151.
-
 

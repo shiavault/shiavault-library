@@ -124,4 +124,3 @@ I swear by Him who made me the Prophet and made me the best of the
 people, indeed you are the Proof of Allah for His creatures, His Trustee
 of His Secrets, and the guardian of His slaves.
 
-

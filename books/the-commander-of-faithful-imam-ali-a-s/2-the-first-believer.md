@@ -151,7 +151,6 @@ sagacity was effective in foiling the plans of Quraish who tried to
 instigate the King of Habashah to move against the emigrants and expel
 them from his country.(25)
 
-
 **ABU TALIB'S CONFRONTING
 
 THE ENEMIES OF THE MESSAGE**
@@ -396,5 +395,4 @@ dismounted, and went with Abu Ayub Ansari (may Allah be pleased with
 him) as his guest. Later, he called for a mosque to be built on the spot
 where his camel had halted, together with rooms for his household. His
 room was built next to A'ishah's. (37)
-
 

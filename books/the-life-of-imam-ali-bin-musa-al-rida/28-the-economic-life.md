@@ -1,10 +1,6 @@
 The Economic Life
 =================
 
-  
-
-  
-
 The Economic Life
 -----------------
 
@@ -26,12 +22,6 @@ divided society into two classes:
 The first class included the capitalists who controlled the wealth of
 the community, while they had no work except unemployment, amusement,
 and extravagance in the unlawful.
-
-  
-
-  
-
-  
 
 The second class included workers and farmers. This class was miserable,
 for poverty and deprivation spread among it. This division among the
@@ -75,11 +65,6 @@ Wasting the money of the Muslims was a dominating phenomenon with the
  [[2]](#_F1389) Al-Muqaddamat, pp. 179-180.  
  [[3]](#_F1390) Hayāt al-Imām Mūsā b. Ja'far.  
  [[4]](#_F1391) Ibn al-Athir, Tārikh, vol. 6, p. 433.  
-  
-
-  
-
-  
 
 park and spent on it fifty  million dirhams.[[1]](#_ftn1392)
 Al-Mutawakkil spent fifty million dirhams on his palace called
@@ -121,11 +106,6 @@ belong to Islam. The expenditures of al-Ma'mūn on
  [[3]](#_F1394) Fam al-Sulh, a district north of Wāsit. It had a river
 called Fam al-Sulh, which took water from the Tigris on the eastern
 side. Mu'jam al-Buldān, vol. 5, p. 177.  
-  
-
-  
-
-  
 
 this marriage were thirty-eight million dinars[[1]](#_ftn1395) apart
 from what he gave to her father, for he gave him ten millions dirhams
@@ -163,8 +143,6 @@ was present at this gathering of ours; he said:
 'Its small and big bubbles are like pearl pebbles on a 'ground of
 gold![[6]](#_ftn1400)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1395) Al-Muwafaqāt, p. 98.  
@@ -173,11 +151,6 @@ gold![[6]](#_ftn1400)"
  [[4]](#_F1398) Tazyin al-Aswāq, vol. 3, p. 117.  
  [[5]](#_F1399) Al-Hadā'iq al-Wardiya, vol. 2, p. 220.  
  [[6]](#_F1400) Hidārat al-Islām.  
-  
-
-  
-
-  
 
 Al-Ma'mūn and al-Hasan b. Sahl spent on his marriage abundant money
 which was, without doubt, stolen from  the Treasury of the Muslims, and
@@ -231,12 +204,6 @@ The misfortunes of hunger enter into evening and upon
 
 the morning (causing) hunger.
 
-  
-
-  
-
-  
-
 Who relieves the hungry stomachs and naked bodies?
 
 I have reported to you conclusive news from the subjects.
@@ -287,11 +254,6 @@ Futayma said: Fast among us. So I said to her: If Ya'qūb (b.
 ------------------------------------------------------------------------
 
 [[1]](#_F1401) Bashshār, Divan, vol. 3, p. 190.  
-  
-
-  
-
-  
 
 Dāwud) desires, we will fast, O daughter of munificence.
 
@@ -344,11 +306,6 @@ inheritance is moved
 [[1]](#_F1402) Ibid., p. 59.  
  [[2]](#_F1403) Al-Hidāra al-Islāmiya, vol. 1, p. 199.  
  [[3]](#_F1404) Ibid., vol. 1, p. 200.  
-  
-
-  
-
-  
 
 to Muslims' Public Treasury. Torture and confiscating the properties of
 the people was not confined to a special class of people; rather they
@@ -401,16 +358,9 @@ red horse.
 
 When the exertion lasted long and there was no escape for
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1405) Ibid., p. 234.  
-  
-
-  
-
-  
 
 him from what they wanted, he said: Give me a
 
@@ -467,11 +417,6 @@ neither compassion nor mercy. For example, he appointed
  [[3]](#_F1408) Ibn al-Athir, Tārikh, vol. 8, pp. 181-182.  
  [[4]](#_F1409) Al-Mahāsin wa al-Masāwi', p. 339.  
  [[5]](#_F1410) Al-Wizarā' wa al-Kittāb, p. 142.  
-  
-
-  
-
-  
 
 'Abd Allah b. al-Haythem as governor for taking this tax, and he
 tortured the people with terrible kinds of painful torture, so Ibn
@@ -511,18 +456,11 @@ which were taken from the Muslim nations by force and overcoming. The
 following is the list of the inheritances which some of their kings left
 behind:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1411) Al-Ya'qūbi, Tārikh, vol. 3, p. 146.  
  [[2]](#_F1412) Al-Kharājj, p. 116.  
  [[3]](#_F1413) Ibid., 118.  
-  
-
-  
-
-  
 
 #### 1. The Inheritance of al-Mansūr
 
@@ -567,11 +505,6 @@ al-'Abbāsi, p. 35.
  [[2]](#_F1415) Al-Zubayr, p. 23.  
  [[3]](#_F1416) 'Asr al-Ma'mūn.  
  [[4]](#_F1417) Al-Tabari, Tārikh.  
-  
-
-  
-
-  
 
 to raise their economic and intellectual levels. As for the head of the
 state, he has no authority over them.
@@ -612,18 +545,11 @@ al-Sind.[[3]](#_ftn1420) Abū 'Atā' al-Sindi says:
 
 I wish that the tyranny of the Banū of Marwān lasted for
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1418) Tārikh Baghdad, vol. 10, p. 215.  
  [[2]](#_F1419) Al-Imāma wa al-Siyāsa, vol. 1, p. 145.  
  [[3]](#_F1420) Nihāyat al-Irab  
-  
-
-  
-
-  
 
 us and wish that the justice of the Banū of 'Abbās was in
 
@@ -670,18 +596,11 @@ The Muslims were indignant with the 'Abbāsid government, for it did not
 achieve their aims and hopes. Rather it was busy with recklessness,
 violence and forcing the people to do what they hated.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1421) Hayāt al-Imām al-Ridā, p. 108.  
  [[2]](#_F1422) Ibn Rashiq, al-'Umda, vol. 1, p. 75.  
  [[3]](#_F1423) Nazariyat al-Imāma, p. 381.  
-  
-
-  
-
-  
 
    Discords and Popular Revolts
 -------------------------------
@@ -721,19 +640,12 @@ turned to her and said to her warmly: "By Allah, you and the like of you
 will make me go out (with the sword) and my blood will be
 shed.[[2]](#_ftn1425)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1424) He was given this name because there was a stutter in his
 tongue when he was a child. It was his father who had given him this
 name. Ibn Khaldūn, vol. 4, p. 8.  
  [[2]](#_F1425) Maqātil al-Tālibiyyin, p. 539  
-  
-
-  
-
-  
 
 This mercy toward the poor moved him to announce his revolt, that he
 might save them from the oppressive who plundered the properties of the
@@ -776,11 +688,6 @@ al-Sarāyā, and he
 ------------------------------------------------------------------------
 
 [[1]](#_F1426) Ibid., 519.  
-  
-
-  
-
-  
 
 decided to leave him. Abū al-Sarāyā asked Herthama for permission to
 make the pilgrimage, he permitted him and gave him twenty thousand
@@ -821,11 +728,6 @@ took his army and advanced towards Naynawā. Then
 
 [[1]](#_F1427) Hayāt al-Imām Mūsā b. Ja'far, vol. 2, pp. 400-401, quoted
 from Ibn Khaldūn's Tārikh, vol. 7, p. 243.  
-  
-
-  
-
-  
 
 he headed for the Holy Shrine of the Father of the free and master of
 martyrs, Imām al-Husayn, peace be on him. He visited the Pure Shrine for
@@ -872,16 +774,9 @@ follow me!"
 The Zaydiya and others responded to him, so Abū al-Sarāyā and his army
 headed for Kūfa.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1428) The poet has likened Islam to a camel.  
-  
-
-  
-
-  
 
 As for Mohammed, he declared the revolt on the same day when Abū
 al-Sarāyā declared his revolt, and many people supported him. He
@@ -923,11 +818,6 @@ natural death, and Abū al-Sarāyā had no role in his death, for the
 
 [[1]](#_F1429) Maqātil al-Tālibiyyin, p. 533.  
  [[2]](#_F1430) Ibid.  
-  
-
-  
-
-  
 
 revolt was at the beginning. It was not possible, any how, for Abū
 al-Sarāyā to assassinate him in those critical circumstances, for he was
@@ -967,16 +857,9 @@ in ourselves."
 Then he turned to Abū al-Sarāyā and asked him: "What do you see? Are you
 content with him?"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1431) Ibid.  
-  
-
-  
-
-  
 
 "My consent conforms with your consent and my view conforms with your
 view," replied Abū al-Sarāyā.
@@ -1033,12 +916,6 @@ Act carefully before he will execute against you an affair
 
 whose evil will excite a hidden illness.
 
-  
-
-  
-
-  
-
 Do you entrust Tāhir with fighting the people while he has
 
 adopted support for them and obedience to them?
@@ -1085,10 +962,6 @@ place, he passed through al-Madā'in,  defeated its governor and occupied
 it. Then he advanced towards Kūfa and his army met the army of Abū
 al-Sarāyā.  
 
-  
-
-  
-
 They clashed and terrible fights occurred between them. Many followers
 of Abū al-Sarāyā were killed and his military forces collapsed. Abū
 al-Sarāya was unable to protect Kūfa, his Capital, so he left it for
@@ -1122,19 +995,12 @@ The 'Abbāsids openly persecuted the 'Alawides, inflicted severe
 punishments on them, and killed them. As for Imām al-Ridā, peace be on
 him, he witnessed some of these  severe punishments.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1432) Hayāt al-Imām Mūsā b. Ja'far, vol. 2, pp. 403-406, quoted
 from the book Maqātil al-Tālibiyyin and the like.  
  [[2]](#_F1433) Al-Tabari, Tārikh, vol. 10, p. 231. Ibn al-Athir,
 Tārikh, vol. 5, p. 177.  
-  
-
-  
-
-  
 
 Al-Mansūr al-Dawāniqi was the first to bring about the discord between
 the 'Alawides and the 'Abbāsids.[[1]](#_ftn1434) It was he who said: "I
@@ -1183,11 +1049,6 @@ al-Dhahab, vol. 4, p. 222.
  [[4]](#_F1437) Al-Manāqib, vol. 10, p. 446.  
  [[5]](#_F1438)Al-Maqrizi, al-Nizā' wa al-Takhāsum, p. 51.  
  [[6]](#_F1439) Mukhtasar Tārikh al-'Arab, p. 18.  
-  
-
-  
-
-  
 
 order to  summon them.[[1]](#_ftn1440) He was the leader at the Battle
 of Fakh, which was similar to the Battle of Karbalā' in tragedies, for
@@ -1223,8 +1084,6 @@ We know that all the districts which belong to Dhi
 
 Yamān, Bakr, and Mudar took part in shedding their blood
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1440) Al-Ya'qūbi, Tārikh, vol. 3, p. 136.  
@@ -1233,11 +1092,6 @@ Yamān, Bakr, and Mudar took part in shedding their blood
  [[4]](#_F1443) Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 5, p. 225.  
  [[5]](#_F1444) Al-Wilāt wa al-Qudāt, p. 198.  
  [[6]](#_F1445) Al-Shaykh al-Tūsi, al-Amāli, p. 330.  
-  
-
-  
-
-  
 
 just as the gamblers take part in gamble.
 
@@ -1298,11 +1152,6 @@ their poems in our books on the Imāms of the
 [[1]](#_F1446) Di'bil, Divan.  
  [[2]](#_F1447) By the evil Imāms the poet means the 'Abbāsid kings.  
  [[3]](#_F1448) Maqātil al-Tālibiyyin, p. 646.  
-  
-
-  
-
-  
 
 members of the House (*ahl al-Bayt)*, peace be on them, that the dear
 reader may refer to them. We will end this research with the following
@@ -1342,10 +1191,6 @@ faced at the hand of Mūsā at (the Battle of) Fakh;
  (what) 'Ali b. al-Aftas al-Husayni (faced) at the hand of Hārūn (al-  
  Rashid); (what) Ahmed b. 'Ali al-Zaydi and al-Qāsim b. 'Ali al-  
 
-  
-
-  
-
 Husayni (faced) in prison; (and what) Ghassān b. Hādir al-Khazā'i
 (faced) when he ordered him to be taken. Generally speaking, before his
 death, Hārūn had reaped the Tree of Prophethood and uprooted the Plant
@@ -1382,10 +1227,6 @@ they satirized the Commander of the faithful, peace be on him, and
 opposed the poems of the Muslims; yet their poems have been reported,
 and their stories have been recorded and transmitted by narrators like
 al-Wāqidi, Wahab b. Munabbih al-Tamimi, al-Kalbi, al-  
-
-  
-
-  
 
 Sharqi b. al-Qatāmi, al-Haythem b. 'Adi, and Da'b b. al-Kin\`ani. Some
 Shi'ite poets spoke of the laudable deeds of the Revelation; rather they
@@ -1432,11 +1273,6 @@ said[[1]](#_ftn1449): 'Do
 rather he was the creature of the members of the House (*ahl al-Bayt)*,
 peace be on them, and their poet. For them, he faced difficulties and
 persecutions.  
-  
-
-  
-
-  
 
 you not see that I have gone and come for thirty years, and I am always
 in sorrow? I see that their booty is divided among other than them, and
@@ -1478,11 +1314,6 @@ the Makhātina,  the foods of the Kallābin, the rites of
 ------------------------------------------------------------------------
 
 [[1]](#_F1450) The *Timtimis* are those who speak Arabic incorrectly.  
-  
-
-  
-
-  
 
 the Qarrādin, Makhāriq, 'Ilwiya the singer, Zarzar, and 'Umar b. Bāna
 al-Mahlabi, while they (the 'Abbāsids) are miserly toward the Fātimids
@@ -1521,10 +1352,6 @@ After this paragraph al-Khawārizmi presented the tragedies
  defects though big, many, ugly and horrid are small and few in  
  comparison with the defects of the 'Abbāsids, who built the city of
 the  
-
-  
-
-  
 
 tyrannical and spent the funds of the Muslims on amusement centers and
 sins.[[1]](#_ftn1451)"
@@ -1569,11 +1396,6 @@ appointed some agents on his behalf in order to collect the
 
 [[1]](#_F1451) Hayāt al-Imām al-Ridā, pp. 100-106, quoted from
 al-Khawārizmi's Letters.  
-  
-
-  
-
-  
 
 legal rights which had come to him from his Shi'ites, so some agents
 gathered many funds, for example, Ziyād b. Marwān al-Qandi collected
@@ -1609,17 +1431,10 @@ Through such deceiving ways, the Wāqifites spread their doctrines, but
 shortly after that they were destroyed and their false claims were
 discovered.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1452) Bihār al-Anwār, vol. 2, p. 308.  
  [[2]](#_F1453) Ibid., vol. 12, p. 308.  
-  
-
-  
-
-  
 
 ### The Imām condemns the Wāqifites' doctrines
 
@@ -1659,17 +1474,10 @@ The Imām, peace be on him, was severe in his attitude toward the
 Wāqifites, who mutinied against the True Religion and to denied the
 Imām.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1454) Hayāt al-Imām al-Imām Mūsā b. Ja'far, vol. 2, p. 207.  
  [[2]](#_F1455) Bihār al-Anwār, vol. 2, p. 909.  
-  
-
-  
-
-  
 
 1. The Imām and al-Husayn Bin Mahrān
 
@@ -1712,10 +1520,6 @@ any saint to guide him.
 therein; and how is the stratagem? And Allah says: *And they swear by  
 *
 
-  
-
-  
-
 Allah with the most energetic of their oaths: Allah will not raise up
 him who dies. Yea! it is a promise biding on Him, quite true, but most
 people do not know, to these words of Him, the Great and Almighty: *And
@@ -1753,10 +1557,6 @@ than it.' I said: 'Because he practiced precautionary dissimulation, and
 refraining from (it) is better. If he speaks, then it is obligatory on
 him to answer everything about which he is questioned.  
 
-  
-
-  
-
 And what you claimed and demanded has occurred. So the affair concerns
 other than you and it is incumbent on you to follow them regarding it;
 but you have put into (effect) that which is right according to your
@@ -1792,16 +1592,9 @@ not up to what you and your companions say. You do not know so-and-so;
 rather there is no escape for us from that, for we are sure of it, while
 you are doubtful about it.[[1]](#_ftn1456)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1456) Al-Kashi, Mu'jam Rijāl al-Hadith, vol. 6, pp. 104-107.  
-  
-
-  
-
-  
 
 This is the end of this letter which the Imām sent to al-Husayn b.
 Mahrān. It contains ambiguous matters as well as there is no logical
@@ -1844,11 +1637,6 @@ then he said to him: 'Yes, protest against me through
 ------------------------------------------------------------------------
 
 [[1]](#_F1457) Usūl al-Kāfi, vol. 1, p. 353.  
-  
-
-  
-
-  
 
 that before Allah, the Great and Almighty. If there is any sin therein,
 then it is in my neck (i.e. I will shoulder the responsibility for it),
@@ -1892,11 +1680,6 @@ Kufa. Al-Jahm b. Safwān, to whom the Jahmi
 
 [[1]](#_F1458) Ibid.  
  [[2]](#_F1459) Ibid., vol. 1, p. 354.  
-  
-
-  
-
-  
 
 sect belonged, learned from him.[[1]](#_ftn1460) In this respect Ibn
 al-Athir said: "Surely, Hishām b. 'Abd al-Malik ordered al-Ju'd to be
@@ -1930,19 +1713,12 @@ that this idea belongs to the psychological branches and researches. Had
 it not been for that the chapter would be diffuse and the book become
 too long, we would speak about it in detail.[[4]](#_ftn1463)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1460) Sarh al-'Uyuān, p. 159.  
  [[2]](#_F1461) Asr al-Ma'mūn, vol. 1, p. 395.  
  [[3]](#_F1462) Al-Nujūm al-Zāhira, vol. 1, p. 147.  
  [[4]](#_F1463) Hayāt al-Imām Mūsā b. Ja'far, vol. 2, p. 213.  
-  
-
-  
-
-  
 
 Fabricating Lies against the Imāms
 ----------------------------------
@@ -1987,5 +1763,4 @@ to mention it again.
 ------------------------------------------------------------------------
 
 [[1]](#_F1464) Sirat al-A'Imma al-Ithnā 'Ashar, vol. 2, p. 359.  
-  
 

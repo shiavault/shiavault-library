@@ -373,4 +373,3 @@ of life can only be according to shari\`a, not beyond it. Allah will
 have His own judgement on the subtler, hidden aspects of transgression,
 but shat is not our domain.
 
-

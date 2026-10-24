@@ -29,31 +29,15 @@ thigh of a woman going through a difficult labour is recommended.[^3]
 
 Their names are:
 
-<blockquote dir="rtl">
-  <p>
-مكسلمينا مليخا مكسينا مرطوس يوانس
-  </p>
-</blockquote>
+> مكسلمينا مليخا مكسينا مرطوس يوانس
 
-<blockquote dir="rtl">
-  <p>
-اريطانس اونوس كيد سططيوس قطمير
-  </p>
-</blockquote>
+> اريطانس اونوس كيد سططيوس قطمير
 
 In another tradition, it is narrated that their names are:
 
-<blockquote dir="rtl">
-  <p>
-مكسكمينا تمليخا رطيونس ينبونس
-  </p>
-</blockquote>
+> مكسكمينا تمليخا رطيونس ينبونس
 
-<blockquote dir="rtl">
-  <p>
-سازيونس كشيططونس قطميرزبان تنور
-  </p>
-</blockquote>
+> سازيونس كشيططونس قطميرزبان تنور
 
 8. Do not wear nylon, as this prevents sunrays reaching the body, and
 therefore a lack of Vitamin B and a more difficult delivery.  
@@ -74,5 +58,4 @@ Hudda
 
 [^4]: Refer to your doctor or other pregnancy manuals for more
 information.
-
 

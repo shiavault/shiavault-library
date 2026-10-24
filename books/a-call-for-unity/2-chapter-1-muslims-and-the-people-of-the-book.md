@@ -48,7 +48,6 @@ antagonisms, fears, and violence will end, and a new civilization
 founded on this common premise, one based on love, respect, and
 contentment, will emerge.
 
-
 **Islam Accepts Judaism and Christianity**
 
 There is a basic difference between how the members of the divinely
@@ -190,7 +189,6 @@ sent down to Abraham and Ishmael, Isaac and Jacob, and the Tribes; what
 Moses and Jesus were given; and what all of the Prophets were given by
 their Lord. We do not differentiate between any of them. We are Muslims
 submitted to Him." (Qur'an, 2:136)
-
 
 **Chapter 2 : Muslims and The People Of The Book in History**
 
@@ -676,5 +674,4 @@ Muslims' acceptance and understanding must find an appropriate response
 in the Jewish and Christian communities, because God also commands them
 to love all other people and to be the leaders in all matters of good
 and peace.
-
 

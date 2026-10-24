@@ -907,4 +907,3 @@ al-Nabiy 256.
 the author’s book ‘Tarikh al-Hadith al-Nubawiy; al-Mu’aththirat fi \`Ahd
 Abi-Bakr (History of the Hadith; Motives in the Reign of Abu-Bakr)’.
 
-

@@ -171,4 +171,3 @@ That means that everything whether animate or inanimate praises and
 glorifies Allah, for all are a reflection of the light of His glory and
 it is His glory that causes all movements.
 
-

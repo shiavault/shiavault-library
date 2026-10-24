@@ -31,17 +31,9 @@ Duration of life: four parts
 Forty Traditions from Imam Hussain (as)
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن الامام الحسين عليه لسلام
-  </p>
-</blockquote>
+> عن الامام الحسين عليه لسلام
 
 1. (Oh Allah) How could an argument be given about your Existence by a
 thing whose total & complete existence is in need of you?
@@ -213,47 +205,19 @@ behind. [^14]
 
 > 14- فَإن تَکُن الدُّنيا تُعَدُّ نَفيسَةً
 
-<blockquote dir="rtl">
-  <p>
-فَدارُ ثَوابِ اللهِ أَعلی وَأَنبَلُ
-  </p>
-</blockquote>
+> فَدارُ ثَوابِ اللهِ أَعلی وَأَنبَلُ
 
-<blockquote dir="rtl">
-  <p>
-وَاِن تَکُن الأً بدانُ لِلمُوتِ أنشِئَت
-  </p>
-</blockquote>
+> وَاِن تَکُن الأً بدانُ لِلمُوتِ أنشِئَت
 
-<blockquote dir="rtl">
-  <p>
-فَقَتل آمریءٍ بِالسَّيفِ في اللهِ أفضَلُ
-  </p>
-</blockquote>
+> فَقَتل آمریءٍ بِالسَّيفِ في اللهِ أفضَلُ
 
-<blockquote dir="rtl">
-  <p>
-وَاِن تَکُن الأً رزاقُ قَسماً مقدّراً
-  </p>
-</blockquote>
+> وَاِن تَکُن الأً رزاقُ قَسماً مقدّراً
 
-<blockquote dir="rtl">
-  <p>
-فَقِلَّةُ حِرصِ المَرءِ في الرِّزقِ أَجمَلُ
-  </p>
-</blockquote>
+> فَقِلَّةُ حِرصِ المَرءِ في الرِّزقِ أَجمَلُ
 
-<blockquote dir="rtl">
-  <p>
-وَاِن تَکُن الأً موالُ لِلتَّرکِ جَمعُها
-  </p>
-</blockquote>
+> وَاِن تَکُن الأً موالُ لِلتَّرکِ جَمعُها
 
-<blockquote dir="rtl">
-  <p>
-فَما بالُ مَتروکٍ بِهِ آلحُرُّ يَبخَلُ
-  </p>
-</blockquote>
+> فَما بالُ مَتروکٍ بِهِ آلحُرُّ يَبخَلُ
 
 > (بحار الانوار ج44 ص374)
 
@@ -282,11 +246,7 @@ of Allah upon you so do not get tired of the beneficence’s lest those
 should turn into calamity & woes. [^17]
 
 > 17- وَاَعلَمُوا أَنَّ حَوائِجَ النّاسِ اِلَيکُم مِن نِعَمِ اللهِ
-<blockquote dir="rtl">
-  <p>
-عَلَيکُم فَلا تَمِلوُّا النَّعَمَ فَتَحُورَ
-  </p>
-</blockquote>
+> عَلَيکُم فَلا تَمِلوُّا النَّعَمَ فَتَحُورَ
 
 > (بحارالانوار ج7 ص121)
 
@@ -545,5 +505,4 @@ not like him to say during your absence. [^40]
 [^39]: Bihar ul-Anwar Vol. 78. P 120
 
 [^40]: Bihar ul-Anwar Vol. 78. P 127
-
 

@@ -72,9 +72,7 @@ and Sunnis alike.
 
 Muslims unanimously agree that the Holy Prophet (s) said:
 
-<p dir="rtl">
 من مات و لم یعرف امام زمانه مات میته جاهلیه
-</p>
 
 He who dies without knowing the imam of his time dies the death of
 ignorance.
@@ -160,9 +158,7 @@ As the night fell, he went to Hajjaj's house. He knocked at his door,
 entered his house and asked Hajjaj to accept his allegiance. Addressing
 Hajjaj, he said that he had heard the Holy Prophet (s) say:
 
-<p dir="rtl">
 من مات و لا امام له مات میته جاهلیه
-</p>
 
 He who dies without having an imam dies the death of ignorance.
 
@@ -320,9 +316,7 @@ fast, you will never go astray: Allah’s Book and my progeny (my family)*
 Using his chain of transmitters, Ibn Abi Shayba, author of al-Mussanaf,
 quotes Jabir bin Abdullah Ansari as saying:
 
-<p dir="rtl">
 انی ترکت فیکم ما لن تضلوا بعدی ان اعتصمتم به: کتاب الله و عترتی اهل بیتی
-</p>
 
 *I have left some things among you to which as long as you hold fast you
 will never go astray: Allah’s Book and my progeny (my family).*
@@ -334,11 +328,9 @@ will never go astray: Allah’s Book and my progeny (my family).*
 Ibn Sa'ad Ahmad bin Hanbal and Tabarani have narrated from Abu Sa'eed
 Khidri who quotes the Holy Prophet as having said:
 
-<p dir="rtl">
 یا ایها الناس! انی تارک فیکم ما ان اخذتم به لن تضلوا بعدی امرین احدهما
 اکبر من الاخر: کتاب الله حبل ممدود ما بین السماء و الارض و عترتی اهل
 بیتی و انهما لن یتفرقا حتی یردا علی الحوض
-</p>
 
 *O people! I have left two things to which if you hold fast you will not
 go astray; two things one of which is greater than the other. Allah's
@@ -372,10 +364,8 @@ there his noon prayer. Afterwards, he delivered a speech in which he
 praised Allah and admonished people telling whatever he was ordered by
 Allah to tell. He then said:
 
-<p dir="rtl">
 ایها الناس! انی تارک فیکم امرین لن تضلوا ان اتبعتموهما و هما کتاب الله و
 اهل بیتی عترتی
-</p>
 
 *O people! I have left two things among you to which if you adhere you
 will never go astray; These two things are Allah's book and my progeny
@@ -383,9 +373,7 @@ will never go astray; These two things are Allah's book and my progeny
 
 Thereupon he thrice said:
 
-<p dir="rtl">
 ا تعلمون انی اولی بالمؤمنین من انفسهم؟
-</p>
 
 Do you know that I am closer to believers than their own selves.
 
@@ -393,9 +381,7 @@ People replied: Yes.
 
 Thereupon the Messenger of Allah said:
 
-<p dir="rtl">
 من کنت مولاه فعلی مولاه
-</p>
 
 Of whomsoever I am a master then Ali is his master.
 
@@ -411,10 +397,8 @@ they reached Ghadir Khum. He ordered us to clean the place under the
 trees. It was extraordinarily hot. After praising Allah, the Apostle of
 Allah (s) said:
 
-<p dir="rtl">
 یا ایها الناس! انه لم یبعث نبی قط الا ما عاش نصف ما عاش الذی کان قبله و
 انی اوشک ان ادعی فاجیب و انی تارک فیکم ما لن تضلوا بعده کتاب الله.
-</p>
 
 O people! No prophet has come except that he has lived as long as half
 of what his predecessor lived. Soon I will be invited and I will accept
@@ -423,9 +407,7 @@ will never go astray. That is Allah's book.
 
 Thereupon he stood up and taking Ali's hand, he said:
 
-<p dir="rtl">
 یا ایها الناس! من اولی بکم من انفسکم؟
-</p>
 
 O people! Who is closer to you than your own selves?
 
@@ -433,9 +415,7 @@ They replied: Allah and His Messenger know better.
 
 Thereupon the Holy Prophet (s) said:
 
-<p dir="rtl">
 من کنت مولاه فعلی مولاه
-</p>
 
 Of whomsoever I am a master Ali is his master.
 
@@ -449,10 +429,8 @@ Narrating this tradition from Zaid bin Arqam, Tabarani says: On Juhfa
 day the Holy Prophet (s) dismounted his camel. Turning his face towards
 people he after praising Allah said:
 
-<p dir="rtl">
 انی لا اجد لنبی الا نصف عمر الذی قبله و انی اوشک ان ادعی فاجیب فما انتم
 قائلون؟
-</p>
 
 I have not found any prophet living except half of the time of his
 predecessor. Soon I will be invited and I will accept the invitation.
@@ -462,10 +440,8 @@ They said: You were benevolent.
 
 The Apostle of Allah said:
 
-<p dir="rtl">
 ا لیس تشهدون ان لا اله الا الله و ان محمدا عبده و رسوله و ان الجنه حق و
 النار حق و ان البعث بعد الموت حق؟
-</p>
 
 Don't you testify that there is no god except Allah, Muhammad is His
 servant and messenger, Hell is true, Heaven is true and that
@@ -475,9 +451,7 @@ They said they testified they were true.
 
 Thereupon he placed his hand on his chest saying:
 
-<p dir="rtl">
 و انا اشهد معکم
-</p>
 
 And I testify with you as well.
 
@@ -487,10 +461,8 @@ Do you listen to my words?
 
 They answered in the positive. Thereafter he said:
 
-<p dir="rtl">
 فانی فرطکم علی الحوض و انتم واردون علی الحوض و ان عرضه ابعد ما بین صنعاء
 و بصری فیه اقداح عدد النجوم من فضه فانظروا کیف تخلفونی فی الثقلین.
-</p>
 
 I will reach the pool before you and you will join me over there. The
 width of the pool is wider than the distance between San'a and Busra.
@@ -502,12 +474,10 @@ mean from Thaqalain?
 
 The Messenger of Allah said:
 
-<p dir="rtl">
 کتاب الله طرف بید الله عز و جل و طرف بایدکم فاستمسکوا به و لا تضلوا و
 الاخر عترتی و ان اللطیف الخبیر نبأنی انهما لن یتفرقا حتی یردا علی الحوض
 و سألت ذلک لهما ربی. فلا تقدموهما فتهلکوا و لا تقصروا عنهما فتهلکوا و لا
 تعلموهم فانهم اعلم منکم
-</p>
 
 The first is Allah's book whose one end is in Allah's hand and the other
 in yours. Adhere to it and do not go astray. The second is my progeny.
@@ -529,11 +499,9 @@ Religious scholars are of the view that this tradition contains the Holy
 Prophet's last will. Ibn Hajar Makki says that this issue has appeared
 in several traditions including the following:
 
-<p dir="rtl">
 انی تارک فیکم ما ان تمسکتم به لن تضلوا بعدی الثقلین احدهما اعظم من
 الاخر: کتاب الله حبل ممدود من السماء الی الارض و عتری اهل بیتی و لن
 یفترقا حتی یردا علی الحوض فانظروا کیف تخلفونی فیهما
-</p>
 
 *I have left two things among you to which if you hold fast you will not
 go astray after me; one of which is greater than the other. Allah's book
@@ -666,5 +634,4 @@ In his*Sahih* , Bukhari narrates from Jabir bin Samara who quotes the
 Holy Prophet (s) as saying: یکون اثنا عشر امیرا There will twelve
 rulers. Thereupon he said something which I did not hear. My father
 said: The Holy Prophet said: All these rulers belong to Quraish. [^56]
-
 

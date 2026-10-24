@@ -884,4 +884,3 @@ and countries in the West, rendered through the missionaries trained in
 his Madrassah Nazmiah, Lucknow. He died on 17th Safar 1351 AH (18th
 April 1938).
 
-

@@ -458,4 +458,3 @@ So it is imperative that the watchword of the Islamic movement be
 'peace' in word, deed, and writing, and peace in all circumstances and
 with all the people.
 
-

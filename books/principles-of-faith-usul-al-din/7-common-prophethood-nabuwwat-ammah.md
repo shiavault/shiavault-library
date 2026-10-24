@@ -528,4 +528,3 @@ into him of My spirit, fall down making obeisance to him.
 [^22]: ‘Uyun Akhbar al-Rida (A): vol. 2, pp 100, ch. 34, hadith no. 1;
 Bihar al-Anwar: vol. 6, pp 59.
 
-

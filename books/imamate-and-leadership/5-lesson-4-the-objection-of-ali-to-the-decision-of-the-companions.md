@@ -205,4 +205,3 @@ Qutaybah, Kitab al-Ma'arif, p. 194.
 
 [^9]: Sharaf al-Din, al-Muraja'at, (Persian translation), p. 429.
 
-

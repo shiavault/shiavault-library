@@ -1,23 +1,15 @@
 Detrimental Effects of Hypocrisy
 ================================
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ
-إِنَّهُمْ سَاء مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ
+> إِنَّهُمْ سَاء مَا كَانُوا يَعْمَلُونَ
 
 “***They have made their oaths a screen (for their misdeeds): thus they
 obstruct (men) from the*** ***path of Allah. Truly evil are their
 deeds***.”[^1]
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَى قُلُوبِهِمْ
-فَهُمْ لَا يَفْقَهُونَ
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَى قُلُوبِهِمْ
+> فَهُمْ لَا يَفْقَهُونَ
 
 “***That is because they believed, then they rejected faith; so a seal
 was set on their hearts; therefore they understand not***.”[^2]
@@ -161,5 +153,4 @@ for free-will.
 [^3]: Imam ‛Ali (a), Nahj al-Balaghah, volume 3, page 29 (‛Abduh
 
 [^4]: Imam ‛Ali (a), Nahj al-Balaghah, speech 192
-
 

@@ -419,4 +419,3 @@ the smallest detail of practice with only one exception. From the time
 of David to the time of Jesus, the direction of prayer is Jerusalem and
 not Mecca. Otherwise, the essential features of prayer are identical.
 
-

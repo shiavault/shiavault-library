@@ -87,11 +87,7 @@ materialistic thinking about Allah and man, especially about man.
 Someone who only knows man as a heap of water and clay, and does not
 wish to acknowledge the fundamental;
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي
-  </p>
-</blockquote>
+> فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي
 
 ***“So when I have made him complete and breathed into him of My
 spirit,” (15:29)***
@@ -119,11 +115,7 @@ creation, and, as they say, is connected with the arc of descent. [^3]
 
 Existents, especially man, according to Quran:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ 
-  </p>
-</blockquote>
+> قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ
 
 ***“Surely we are Allah's and to Him we shall surely return” (2:156)***
 
@@ -152,12 +144,8 @@ angel, not to go higher than the angel, or at least not to share to the
 same extent as the angel in the attainments of being. In order to make
 clear the station of man, the Qur'an has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا
-إِبْلِيسَ
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا
+> إِبْلِيسَ
 
 ***“And when We said to the angels: Make obeisance to Adam they did
 obeisance, but Iblis (did it not). He refused.” (2:34)***
@@ -174,5 +162,4 @@ we are told that there are fruits in Paradise. (tr.)
 when his Lord tested Ibrahim with certain words, and he fulfilled them.
 He said, \`Behold, I make you an Imam for the people' " which proves
 this matter in a most elegant way.
-
 

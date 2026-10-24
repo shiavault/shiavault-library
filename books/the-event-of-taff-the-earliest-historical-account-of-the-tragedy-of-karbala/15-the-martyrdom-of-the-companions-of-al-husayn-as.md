@@ -537,4 +537,3 @@ brothers who call on us to free their companion.” [Dahhak says:] “When
 the men from the Tamim agreed with [the request of my] clansmen, the
 rest [of them] held back. Thus, Allah saved me” (5:445).
 
-

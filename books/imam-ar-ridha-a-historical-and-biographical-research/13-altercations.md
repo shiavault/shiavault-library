@@ -530,4 +530,3 @@ period of time in its intellectual and scientific spheres.
 
 [^9]: Al-'Iqd al-Farid, Vol. 2, p. 285 and also Vol. 5, p. 103 
 
-

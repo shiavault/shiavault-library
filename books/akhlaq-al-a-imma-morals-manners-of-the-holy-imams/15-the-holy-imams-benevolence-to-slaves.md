@@ -189,4 +189,3 @@ never seen a master as kind as Imam Hasan Askari (a.s).” The Imam used
 to be affectionate towards his male and female slaves like a father is
 to his children.
 
-

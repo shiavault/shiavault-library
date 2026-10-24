@@ -438,4 +438,3 @@ by extreme necessity) in a chapter abut the legality of a marriage.
 [^21]: Al-Rāzi, Al-Tafsīr al-Kabīr, Vol. 5, p. 153 (Dār Ihyā\` al-Turāth
 al-\`Arabi). Al-Tabarāni.
 
-

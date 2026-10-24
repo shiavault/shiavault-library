@@ -8,13 +8,9 @@ recognition will remain steadfast on the Mastership of Imams will not
 hold true.  
  Imam Zainul Abedeen (a.s.) prophesied,
 
-<blockquote dir="rtl">
-  <p>
-وانّ للقائم منا غيبتين، أحدهما أطول من الأخرى فلا يثبت على إمامته،
-إلاّ من قوى يقينه وصحت معرفته ولم يجد في نفسه حرجا مما قضيناه ، وسلم
-لنا أهل البيت 
-  </p>
-</blockquote>
+> وانّ للقائم منا غيبتين، أحدهما أطول من الأخرى فلا يثبت على إمامته،
+> إلاّ من قوى يقينه وصحت معرفته ولم يجد في نفسه حرجا مما قضيناه ، وسلم
+> لنا أهل البيت
 
 'Indeed our Qaim has two occultation, one of which is longer than the
 other. This period (of occultation) will extend to such an extent that
@@ -34,14 +30,10 @@ correctness of his recognition? This question is best replied by
 referring to the definition of recognition as outlined by the Ahlul Bayt
 (a.s.). Imam Muhammad Baqir (a.s) while addressing his son declares,
 
-<blockquote dir="rtl">
-  <p>
- يا بني اعرف منازل الشيعة على قدر روايتهم ومعرفتهم، فإن المعرفة هي
-الدراية للرواية، وبالدرايات للروايات يعلو المؤمن إلى أقصى درجات
-الايمان، إني نظرت في كتاب لعلي (عليه السلام) فوجدت في الكتاب أن قيمة
-كل امرئ وقدره معرفته
-  </p>
-</blockquote>
+>  يا بني اعرف منازل الشيعة على قدر روايتهم ومعرفتهم، فإن المعرفة هي
+> الدراية للرواية، وبالدرايات للروايات يعلو المؤمن إلى أقصى درجات
+> الايمان، إني نظرت في كتاب لعلي (عليه السلام) فوجدت في الكتاب أن قيمة
+> كل امرئ وقدره معرفته
 
 'O my son, know the level of the Shias from the number of traditions
 they narrate and from (the level of) their recognition. For surely
@@ -77,12 +69,8 @@ divine knowledge. He then commanded those in thirst of this knowledge to
 turn only to the infallibles (a.s.) for their queries. As Imam Sadiq
 (a.s.) revealed to Yunus b. Zabyan
 
-<blockquote dir="rtl">
-  <p>
- إن أردت العلم الصحيح فعندنا أهل البيت فنحن اهل الذكر الذي قال الله عز
-وجل فاسألوا اهل الذكر ان كنتم لا تعلمون.
-  </p>
-</blockquote>
+>  إن أردت العلم الصحيح فعندنا أهل البيت فنحن اهل الذكر الذي قال الله عز
+> وجل فاسألوا اهل الذكر ان كنتم لا تعلمون.
 
 ***'If you desire true knowledge, then it is with us, the Ahlul Bayt
 (a.s.). Then we are the 'People of Remembrance', those regarding whom
@@ -93,11 +81,7 @@ There is no source of divine knowledge other than the People of
 Remembrance. Had there been any other source, surely Allah would have
 commanded us to refer to it. That is why Imam Baqir (a .s.) narrates,
 
-<blockquote dir="rtl">
-  <p>
-والله لا يوجد العلم الا من أهل بيت نزل عليهم جبرئيل
-  </p>
-</blockquote>
+> والله لا يوجد العلم الا من أهل بيت نزل عليهم جبرئيل
 
 ‘By Allah, Knowledge cannot be found from any other source other than
 Ahlul Bayt (a.s) – Jibrail (a.s.) (himself) has descended upon them.’
@@ -107,11 +91,7 @@ Therefore if a new branch of knowledge has been discovered, its origin
 is in the Ahlul Bayt (a.s.) although we may not pay attention to this
 fact at the time of discovery. Imam Baqir (a.s.) discloses,
 
-<blockquote dir="rtl">
-  <p>
-أما إنه ليس عند أحد من الناس حق ولا صواب إلا شئ أخذوه منا أهل البيت
-  </p>
-</blockquote>
+> أما إنه ليس عند أحد من الناس حق ولا صواب إلا شئ أخذوه منا أهل البيت
 
 'Then surely there is no truth and reality with the people, except that
 it has been acquired from us, the Ahlul Bayt (a.s.).'[^5]
@@ -121,11 +101,7 @@ Ahlul Bayt (a.s.). Anything from other than the Ahlul Bayt (a.s.) is
 flawed and misguiding. It is with respect to this that Imam Baqir (a.s.)
 narrates,
 
-<blockquote dir="rtl">
-  <p>
-كل ما لم يخرج من هذا البيت، فهو باطل
-  </p>
-</blockquote>
+> كل ما لم يخرج من هذا البيت، فهو باطل
 
 'Everything that has emanated from other than this House (of Revelation)
 is invalid.'[^6]
@@ -137,11 +113,7 @@ honour of being from the Ahlul Bayt (a.s.)
 
 As Ameerul Mo'mineen (a.s.) reveals to Kumayl b. Ziad Nakhaee,
 
-<blockquote dir="rtl">
-  <p>
-يا كميل، لا تأخذ إل عنّا، تكُن منّا.
-  </p>
-</blockquote>
+> يا كميل، لا تأخذ إل عنّا، تكُن منّا.
 
 'O Kumayl! Do not acquire except from us so that you may become from
 us.'[^7]
@@ -161,11 +133,7 @@ will reach to such a level of surety that mountains may move, but not
 his faith. And this is what Ameerul Mo'mineen (a.s.) informed Muhammad
 b. Hanafiyya,
 
-<blockquote dir="rtl">
-  <p>
-تزول الجبال و لا تزل.
-  </p>
-</blockquote>
+> تزول الجبال و لا تزل.
 
 'Even if mountains move, you don't move.'[^8]
 
@@ -183,12 +151,8 @@ Allah Himself. Therefore if one is anxious of his faith then he must pay
 minute attention to this detail and should only collect his beliefs from
 the side of the Ahlul Bayt (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-من اخذ دينه من كتاب الله وسنة نبيه صلى الله عليه واله زالت الجبال قبل
-ان يزول ومن اخذ دينه من افواه الرجال ردته الرجال
-  </p>
-</blockquote>
+> من اخذ دينه من كتاب الله وسنة نبيه صلى الله عليه واله زالت الجبال قبل
+> ان يزول ومن اخذ دينه من افواه الرجال ردته الرجال
 
 'If one takes his religion from Allah's Book and the Sunnah of His
 Prophet (s.a.w.s.), mountains may move, but he will not move. And one
@@ -242,5 +206,4 @@ the Ahlul Bayt (a.s.) - the spiritual doctors assigned by Allah Himself.
 [^8]: Nahjul Balagha, Sermon 11
 
 [^9]: Preface of Usul al-Kafi
-
 

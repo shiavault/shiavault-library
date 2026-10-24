@@ -23,77 +23,49 @@ result of the commandments of Islam and the Qur’an.
 
 This is because Islam has both the command;
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً.
-  </p>
-</blockquote>
+> إِلاَّ أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً.
 
 ***“… except that you protect themselves from them (and practice
 dissimulation for the sake of more important goals).”***[^1]
 
 and the command
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالإِْيِمَانِ.
-  </p>
-</blockquote>
+> إِلاَّ مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالإِْيِمَانِ.
 
  ***“… except one who is compelled while his heart is tranquil with
 faith.”***[^2]
 
 And it also has the command
 
-<blockquote dir="rtl">
-  <p>
-جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِيَن وااغْلُظْ عَلَيْهِمْ.
-  </p>
-</blockquote>
+> جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِيَن وااغْلُظْ عَلَيْهِمْ.
 
 ***“Struggle against the disbelievers and hypocrites and be harsh
 towards them.”***[^3]
 
 as well as
 
-<blockquote dir="rtl">
-  <p>
-خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الجْاَهِلِينَ.
-  </p>
-</blockquote>
+> خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الجْاَهِلِينَ.
 
  ***“Act with compassion and accept their excuse, and command towards
 goodness, and turn away from the ignorant (and fight them not).”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَسْتَوِي الحَسَنَةُ وَلاَ السَّيِّئَةُ إِدْفَعْ بِالَّتيِ هِيَ
-أَحْسَنُ.
-  </p>
-</blockquote>
+> وَلاَ تَسْتَوِي الحَسَنَةُ وَلاَ السَّيِّئَةُ إِدْفَعْ بِالَّتيِ هِيَ
+> أَحْسَنُ.
 
  ***“Nor are good and evil alike; repel evil with what is most
 good.”***[^5]
 
 Likewise, the Qur’an says
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بمِثْلِ مَا اعْتَدَى
-عَلَيْكُمْ.
-  </p>
-</blockquote>
+> فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بمِثْلِ مَا اعْتَدَى
+> عَلَيْكُمْ.
 
 ***“So whoever transgresses with respect to you, transgress with respect
 to him in a like manner.”***[^6]
 
 And it also says with regard to executing the punishment for adulterers:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَأْخُذْكُمْ بهِمَا رَأْفَةٌ فيِ دِينِ اللهِ.
-  </p>
-</blockquote>
+> وَلاَ تَأْخُذْكُمْ بهِمَا رَأْفَةٌ فيِ دِينِ اللهِ.
 
 ***“And let not compassion for them overtake you in executing Allah’s
 command.”***[^7]
@@ -118,5 +90,4 @@ even an inch.
 [^6]: Surah al-Baqarah (2), Verse 194
 
 [^7]: Surah al-Nur (24), Verse 2
-
 

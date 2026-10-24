@@ -154,4 +154,3 @@ has to do *wuzu* for his *salat*. But, on the other hand, if he had not
 done *istibra’* before the *ghusl*, then he has to assume that it is the
 remnant of semen and he will have to do the *ghusl* again.
 
-

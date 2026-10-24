@@ -69,7 +69,7 @@ Revealed,
 The Roman fathers of the early Church, combating what they regarded as
 heresy, began to place this theology in a historical setting, providing
 locations and dates for the life of Jesus. These doctrines were enforced
-by the authorities from the second half of the 4<sup>th</sup> century
+by the authorities from the second half of the 4th century
 AD, when Rome adopted Christianity, causing it to spread throughout the
 world. It was when Rome, then the center of civilization, adopted
 Christianity that old books were burned to destroy the memory of the
@@ -103,7 +103,7 @@ neighbor or friend but my own family.
 My first two years were the hardest. I faced my family only to engage in
 a debate over religion that would develop into a harsh argument about my
 ungratefulness and misuse of an education. I began to cover my hair
-August 4<sup>th</sup>, 2002 a month prior to the 9-11 attacks. It was
+August 4th, 2002 a month prior to the 9-11 attacks. It was
 this adversity as well as the constant struggle with my family that I
 found my self truly and entirely submitting to Allah. Today, my family
 accepts my beliefs and accommodates our differences. I remind them, we

@@ -1002,4 +1002,3 @@ issue you a receipt with his seal and signature.
 
 ***Organizer***
 
-

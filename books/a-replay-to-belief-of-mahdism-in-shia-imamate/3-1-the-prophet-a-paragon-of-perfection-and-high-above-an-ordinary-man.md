@@ -262,4 +262,3 @@ to come out of my nation, there are just people alongside the members of
 my House, who cleanse the religion from deviation of the arrogant and
 wrong of the wrong doers.”
 
-

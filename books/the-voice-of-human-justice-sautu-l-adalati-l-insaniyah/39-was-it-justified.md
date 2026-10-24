@@ -290,4 +290,3 @@ and righteousness. These people desire that Ali should have become
 Mu\`awiya son of Abu Sufyan, when he was Ali son of Abu Talib, an
 embodiment of the attributes of the Prophet of Islam.
 
-

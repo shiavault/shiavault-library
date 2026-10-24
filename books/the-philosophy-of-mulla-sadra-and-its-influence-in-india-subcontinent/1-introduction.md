@@ -20,4 +20,3 @@ notable Shi'ite philosopher and the response which it received in India,
 where he came to be regarded both as a votary of reason and as a
 logician within the realm of Muslim theology.
 
-

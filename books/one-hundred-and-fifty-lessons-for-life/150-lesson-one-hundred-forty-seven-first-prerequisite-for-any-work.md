@@ -3,11 +3,7 @@ Lesson One Hundred Forty Seven: First Prerequisite For Any Work
 
 Imam ‘Ali (a.s.) said to Kumayl:
 
-<blockquote dir="rtl">
-  <p>
-ما مِنْ حَرَكَة اِلاّ وَ اَنْتَ مُحْتاجٌ فِيها اِلى مَعْرِفَة
-  </p>
-</blockquote>
+> ما مِنْ حَرَكَة اِلاّ وَ اَنْتَ مُحْتاجٌ فِيها اِلى مَعْرِفَة
 
 Translation
 -----------
@@ -29,5 +25,4 @@ adequate knowledge and correct guidance.
 
 [^1]: Safinat’ul-Bihar, volume one, page 15. Mustadrak Al-Wasail, vol
 17, page 267. Bisharat Al-Mustafa, page 24.
-
 

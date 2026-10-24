@@ -133,4 +133,3 @@ This only proves that when the time came for the Prophet to select a man
 to take command in a certain situation, he took into account, not his
 age, but his ability – the ability to get results!
 
-

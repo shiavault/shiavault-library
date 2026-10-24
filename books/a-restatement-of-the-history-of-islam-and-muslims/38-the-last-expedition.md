@@ -75,4 +75,3 @@ converted to Islam, were on the eve of a vigorous “national”
 renaissance. These were only a few of the countless blessings that Islam
 had brought to the Arabian peninsula.
 
-

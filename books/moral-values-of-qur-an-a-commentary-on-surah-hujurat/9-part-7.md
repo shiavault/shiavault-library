@@ -1,11 +1,7 @@
 Part 7
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَصْلِحُوا بَيْنَهُمَا﴾
-  </p>
-</blockquote>
+> ﴿فَأَصْلِحُوا بَيْنَهُمَا﴾
 
 ***…make peace between them… (49:9)***
 
@@ -119,11 +115,7 @@ maintaining piety both while having affinity and while entertaining
 dislike of each other. Our God, our Lord, our Master, our Sustainer, our
 Nourisher has told us that the relation between you is your religion.
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ﴾
 
 ***“The believers are but brethren, therefore make peace between your
 brethren… (49:10)”***
@@ -142,11 +134,7 @@ from religious aspect and angel of faith. As regards enmity or ill
 feeling, do not consider anyone your enemy except the one who is an
 enemy of God and His Prophet.
 
-<blockquote dir="rtl">
-  <p>
-﴿لا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ﴾
-  </p>
-</blockquote>
+> ﴿لا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ﴾
 
 ***“Do not take My enemy and your enemy for friends.”***[^3]
 
@@ -378,12 +366,8 @@ up guns and grenades? No, it is not so. Helping Master of the Age is in
 reform and wisdom, peace and improvement. Improvement of self and of
 others, rising higher and higher if one has wife and children.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الأَرْضَ
-يَرِثُهَا عِبَادِيَ الصَّالِحُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الأَرْضَ
+> يَرِثُهَا عِبَادِيَ الصَّالِحُونَ﴾
 
 ***“And certainly We wrote in the Book after the reminder that (as for)
 the land, My righteous servants shall inherit it.”***[^6]
@@ -395,14 +379,10 @@ selfishness, greed and lust. The coercion, which they inflict upon one
 another, is corruption or mischief, which ends in bloodshed and
 corruption in the land of God.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ عَادٍ وَبَوَّأَكُمْ
-فِي الأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَتَنْحِتُونَ
-الْجِبَالَ بُيُوتًا فَاذْكُرُوا آلاءَ اللَّهِ وَلا تَعْثَوْا فِي
-الأَرْضِ مُفْسِدِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ عَادٍ وَبَوَّأَكُمْ
+> فِي الأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَتَنْحِتُونَ
+> الْجِبَالَ بُيُوتًا فَاذْكُرُوا آلاءَ اللَّهِ وَلا تَعْثَوْا فِي
+> الأَرْضِ مُفْسِدِينَ﴾
 
 ***“And remember when He made you successors after Ad and settled you in
 the land- you make mansions on its plains and hew out houses in the
@@ -418,11 +398,7 @@ Hereafter is in lust and greed.
 
 It is mentioned in Surah Shams after the oath taking that:
 
-<blockquote dir="rtl">
-  <p>
-﴿قَدْ أَفْلَحَ مَنْ زَكَّاهَا. وَقَدْ خَابَ مَنْ دَسَّاهَا﴾
-  </p>
-</blockquote>
+> ﴿قَدْ أَفْلَحَ مَنْ زَكَّاهَا. وَقَدْ خَابَ مَنْ دَسَّاهَا﴾
 
 ***“He will indeed be successful who purifies it. And he will indeed
 fail who corrupts*** ***it.”***[^8]
@@ -437,11 +413,7 @@ It is repulsive. It is not so. Satan puts doubts in your heart. He does
 not spare you.  
  God is Mighty. So whoever works for God is also strong.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ﴾
 
 ***“…and to Allah belongs the might and to His Apostle and to the
 believers…”***[^9]
@@ -458,12 +430,8 @@ There were two contradictory dreams. Think over the dream of Yusuf and
 that of his aunt. Yusuf saw in his dream that eleven bright stars along
 with the sun and the moon fell in prostration before him.
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ
-رَأَيْتُهُمْ لِي سَاجِدِينَ﴾
-  </p>
-</blockquote>
+> ﴿إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ
+> رَأَيْتُهُمْ لِي سَاجِدِينَ﴾
 
 ***“Surely, I saw eleven stars and the sun and the moon- I saw them
 making obeisance to me.”***[^10]
@@ -486,11 +454,7 @@ who sinned turned into wolves but after some years, when they repented
 and felt ashamed and came to Yusuf in a state of embarrassment and asked
 forgiveness from him, Yusuf also said to them:
 
-<blockquote dir="rtl">
-  <p>
-﴿لا تَثْرِيبَ عَلَيْكُمْ الْيَوْمَ﴾
-  </p>
-</blockquote>
+> ﴿لا تَثْرِيبَ عَلَيْكُمْ الْيَوْمَ﴾
 
 ***“(There shall be) no reproof against you this day…”***[^11]
 
@@ -539,5 +503,4 @@ book of Qalbe Saleem
 [^10]: Surah Yusuf 12:4
 
 [^11]: Surah Yusuf 12:92
-
 

@@ -173,4 +173,3 @@ Bakr, now follows some of his stories in the time of ‘Omar.
 [^1]: Salati in Khasais (vol.2, p.137) and Ibn ‘Abd Ber in the al-
 Esti‘ab
 
-

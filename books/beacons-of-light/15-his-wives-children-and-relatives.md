@@ -395,4 +395,3 @@ Qur'an 33:6.
 
 [^6]: See al‑Bukhari, vol 7, pp. 121‑ 2.
 
-

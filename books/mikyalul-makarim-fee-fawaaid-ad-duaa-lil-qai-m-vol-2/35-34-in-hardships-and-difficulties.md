@@ -18,4 +18,3 @@ reappearance. For surely, this is your salvation.”
 turn, is the best medium of safety from difficulties, trials and
 tribulations.
 
-

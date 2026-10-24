@@ -10,11 +10,7 @@ Consider the following:
 In chapter ‘Abasa [80:24], Almighty Allāh says:  
   
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرِ الإِنْسَانُ إِلـى طَعَامِهِ
-  </p>
-</blockquote>
+> فَلْيَنْظُرِ الإِنْسَانُ إِلـى طَعَامِهِ
 
 “***Then let man look at his food.***”[^2]
 
@@ -26,22 +22,14 @@ follows:
 verse above.  The Imām (‘a) responds saying:  
   
 
-<blockquote dir="rtl">
-  <p>
- عِلْمُهُ الَّذِي يأْخُذُهُ عَمَّنْ يَأْخُذُهُ.
-  </p>
-</blockquote>
+>  عِلْمُهُ الَّذِي يأْخُذُهُ عَمَّنْ يَأْخُذُهُ.
 
 “It refers to the knowledge that he acquires, and its source.”  
  The Holy Prophet (s) is reported to have said:       
 
  
 
-<blockquote dir="rtl">
-  <p>
-أَبِيتُ عِنْدَ رَبِّي، يُطْعِمُنِي وَيَسْـقِيـنِي.
-  </p>
-</blockquote>
+> أَبِيتُ عِنْدَ رَبِّي، يُطْعِمُنِي وَيَسْـقِيـنِي.
 
 “I spend the night near my Lord, and He feeds me and quenches my
 thirst.”  
@@ -49,13 +37,9 @@ thirst.”
 his magnum opus, *Riyād al-Sālikīn* says:  
   
 
-<blockquote dir="rtl">
-  <p>
-ومعلوم أنّ طعامه (صلّى اللّه عليه وآله) عند ربّه ليس من جنس أطعمة
-الحيوانات اللحميّة، ولا شرابه من جنس هذه الأشربة، وإنّما المراد طعام
-العلم وشراب المعرفة.
-  </p>
-</blockquote>
+> ومعلوم أنّ طعامه (صلّى اللّه عليه وآله) عند ربّه ليس من جنس أطعمة
+> الحيوانات اللحميّة، ولا شرابه من جنس هذه الأشربة، وإنّما المراد طعام
+> العلم وشراب المعرفة.
 
 “And it is known that the Prophet’s food near his Lord is not of the
 kind of animal food, nor is his drink like the drinks that we see before
@@ -66,12 +50,8 @@ and the *sharāb* (drink) of gnosis (ma’rifah).[^3]”
 of Lights:  
   
 
-<blockquote dir="rtl">
-  <p>
-...ولا شك أن ذلك الشراب ليس إلا عبارة عن المعرفة و المحبة والإستنارة
-بأنوار عالم الغيب...
-  </p>
-</blockquote>
+> ...ولا شك أن ذلك الشراب ليس إلا عبارة عن المعرفة و المحبة والإستنارة
+> بأنوار عالم الغيب...
 
 “…and undoubtedly that drink is nothing but Divine gnosis, love, and
 seeking illumination through the lights of the hidden realm…[^4]”
@@ -85,11 +65,7 @@ The Holy Qur’ān for example, uses *shurb* for the polytheists who
 inclined to the worship of a cow after Prophet Mūsā (‘a) went to be the
 special guest of Allāh (SwT), in the following way:
 
-<blockquote dir="rtl">
-  <p>
-) وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ (
-  </p>
-</blockquote>
+> ) وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ (
 
 ** **  
  “***…and their hearts had been imbued with [the love of] the Calf, due
@@ -100,12 +76,8 @@ kind of material intake of drink.
  Imām al-Sajjād (‘a) in his supplication against Satan says:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ وَ أَشْرِبْ قُلُوبَنَا إِنْكَارَ عَمَلِهِ وَالْطُفْ لَنَا
-فِي نَقْضِ حِيَلِهِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ وَ أَشْرِبْ قُلُوبَنَا إِنْكَارَ عَمَلِهِ وَالْطُفْ لَنَا
+> فِي نَقْضِ حِيَلِهِ.
 
 “O Allāh, saturate our hearts with the rejection of his works and be
 gentle to us by destroying his stratagems![^8]”
@@ -113,11 +85,7 @@ gentle to us by destroying his stratagems![^8]”
 And in his supplication of ‘*Arafah* he (‘a) says:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرِبْ قَلْبِي عِنْدَ ذُهُولِ الْعُقُولِ طَاعَتَكَ.
-  </p>
-</blockquote>
+> وَأَشْرِبْ قَلْبِي عِنْدَ ذُهُولِ الْعُقُولِ طَاعَتَكَ.
 
 “Drench my heart with Your obedience when intellects are
 distracted…[^9]”
@@ -125,16 +93,12 @@ distracted…[^9]”
 And Imām ‘Alī (‘a) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلٌّهِ تَعَالـى شَرَابًا لأَوْلِيَائِهِ إِذَا شَرِبُوا (مِنْهُ)
-سَكِرُوا، وَإِذَا سَكِرُوا طَرِبُوا، وَإِذَا طَرِبُوا طَابُوا، وَإِذَا
-طَابُوا ذَابُوا، وَإِذَا ذَابُوا خَلَصُوا، وَإِذَا خَلَصُوا طَلَبُوا،
-وَإِذَا طَلَبُوا وَجَدُوا، وَإِذَا وَجَدُوا وَصَلُوا، وَإِذَا وَصَلُوا
-اتَّصَلُوا، وَإِذَا اتَّصَلُوا لاَ فَرْقَ بَيْنَهُمْ وَبَيْنَ
-حَبِيـبِهِمْ.
-  </p>
-</blockquote>
+> إِنَّ لِلٌّهِ تَعَالـى شَرَابًا لأَوْلِيَائِهِ إِذَا شَرِبُوا (مِنْهُ)
+> سَكِرُوا، وَإِذَا سَكِرُوا طَرِبُوا، وَإِذَا طَرِبُوا طَابُوا، وَإِذَا
+> طَابُوا ذَابُوا، وَإِذَا ذَابُوا خَلَصُوا، وَإِذَا خَلَصُوا طَلَبُوا،
+> وَإِذَا طَلَبُوا وَجَدُوا، وَإِذَا وَجَدُوا وَصَلُوا، وَإِذَا وَصَلُوا
+> اتَّصَلُوا، وَإِذَا اتَّصَلُوا لاَ فَرْقَ بَيْنَهُمْ وَبَيْنَ
+> حَبِيـبِهِمْ.
 
 “Indeed Allāh has a wine for His friends, which if they drink, they get
 intoxicated, and when they get intoxicated, they get overjoyed, and when
@@ -169,5 +133,4 @@ shīn rā bā.
 such as Mullā Hādī Sabzawārī in his Sharh al-Asmā’ (pg. 534), Ayatullāh
 Hasan Zadeh Amulī in his Nūr ‘alā Nūr (pg. 89), Mawlā Narāqī in his
 Jāmi‘ al-Sa‘ādāt (vol. 3, pg. 152).
-
 

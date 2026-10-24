@@ -76,4 +76,3 @@ closed, so ask Allah to keep them closed for you. During this month
 Shaytan (Saten) is imprisoned so ask your Lord not to let him have power
 over you.”*
 
-

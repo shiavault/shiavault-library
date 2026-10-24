@@ -58,7 +58,6 @@ the evidence. For if it becomes evident that they should be mistrusted,
 then one's brain (a gift from Allah) would (should) direct us not to use
 them as a guide, particularly, in what seems suspicious.
 
-
 **Subject: Jews/Christians/Muslims(Part 1: Is there any
 similarity?)**
 
@@ -184,5 +183,4 @@ cases, this sequence MAY be maintained.
 
 In next article, I will, insha-allah, talk about some attitiudes of
 present muslims which are attributed to Jews and Christians.
-
 

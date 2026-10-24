@@ -14,4 +14,3 @@ Muhammad [s].
 Maytham listened to Imam Ali's words. The Imam said his prayers. Maytham
 said them behind him. He listened with awe to the Imam's prayers.
 
-

@@ -24,4 +24,3 @@ and the variety of tongues.
 
 (Sermon 185)
 
-

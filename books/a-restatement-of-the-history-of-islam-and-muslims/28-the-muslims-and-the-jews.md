@@ -123,4 +123,3 @@ The Jews of the tribe of Qurayza were massacred in the spring of A.D.
 627. From this date, the Jews ceased to be an active force in the
 social, economic and political life of Medina.
 
-

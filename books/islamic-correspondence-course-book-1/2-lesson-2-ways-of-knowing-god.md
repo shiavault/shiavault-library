@@ -202,4 +202,3 @@ demonstrated through the precise design and order of creation.
 To these people we say, with the poet: Open thy heart's eye for your
 soul to see, And what is invisible will be manifest to thee.
 
-

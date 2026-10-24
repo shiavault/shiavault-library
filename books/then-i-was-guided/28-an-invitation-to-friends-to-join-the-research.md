@@ -161,4 +161,3 @@ touch with our brothers from the other madhahibs and have maintained our
 relation with al-Jamaah by praying together. Thus people started asking
 us about our prayers, ablution and our beliefs.
 
-

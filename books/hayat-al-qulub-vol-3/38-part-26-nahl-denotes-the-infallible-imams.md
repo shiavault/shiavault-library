@@ -5,11 +5,7 @@ Part 26: 'Nahl' denotes the Infallible Imams
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ.
-  </p>
-</blockquote>
+> وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ.
 
 ***And your Lord revealed to the bee… (Surah Nahl 16:68)***
 
@@ -17,12 +13,8 @@ Some have said that it was an inspiration to the bee. Some say that it
 was made in their ‘Teenat’ (life clay) and it was created on this same
 ‘Teenat’.
 
-<blockquote dir="rtl">
-  <p>
-أَنْ اتَّخِذِي مِنْ الْجِبَالِ بُيُوتًا وَمِنْ الشَّجَرِ وَمِمَّا
-يَعْرِشُونَ.
-  </p>
-</blockquote>
+> أَنْ اتَّخِذِي مِنْ الْجِبَالِ بُيُوتًا وَمِنْ الشَّجَرِ وَمِمَّا
+> يَعْرِشُونَ.
 
 ***Make hives in the mountains and in the trees and in what they build:
 (Surah Nahl 16:68)***
@@ -31,13 +23,9 @@ It means they should make hives on the mountains, and trees of grapes or
 those compartments and holes that people make for them or they make such
 hexagonal compartments that even the engineers are astonished at them.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا
-يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ
-لِلنَّاسِ إِنَّ فِي ذَلِكَ لَآيَةً لِقَوْمٍ يَتَفَكَّرُونَ.
-  </p>
-</blockquote>
+> ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا
+> يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ
+> لِلنَّاسِ إِنَّ فِي ذَلِكَ لَآيَةً لِقَوْمٍ يَتَفَكَّرُونَ.
 
 ***Then eat of all the fruits and walk in the ways of your Lord
 submissively. There comes forth from within it a beverage of many
@@ -81,12 +69,8 @@ Therefore when a sick person takes it, he would surely get well because
 the promise of Allah is not false, but the remedy is from the knowledge
 of the Quran because Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَنُنَزِّلُ مِنْ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
-لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا.
-  </p>
-</blockquote>
+> وَنُنَزِّلُ مِنْ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
+> لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا.
 
 ***And We reveal of the Quran that which is a healing and a mercy to the
 believers, (Sura Israa 17:82)***
@@ -95,11 +79,7 @@ Then the Hazrat said that the Quran is a remedy and mercy for those who
 are fit for it and the Holy Imams who guide, deserve it the most; about
 whom the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا.
-  </p>
-</blockquote>
+> ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا.
 
 ***Then We gave the Book for an inheritance to those whom We chose from
 among Our servants…(Surah Fatir 35:32)***
@@ -168,5 +148,4 @@ are compared to the honeycombs because they are attached with their
 lords and tribes as they are artificially made. Such types of similes
 and metaphors abound in verses that do not contradict the apparent
 meaning just as many traditions also prove the apparent meaning.
-
 

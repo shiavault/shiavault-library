@@ -151,4 +151,3 @@ no. 66; Tafsīr al-Ṣāfī, vol. 2, p. 228, under the commentary of Sura
 al-A\`rāf; Tafsīr al-burhān, vol. 2, p. 28, under the commentary of Sura
 al-A\`rāf; Biḥār al-anwār, vol. 100, chap. 9, p. 58, no. 2.
 
-

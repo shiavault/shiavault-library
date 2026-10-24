@@ -70,4 +70,3 @@ Sadra, 1360
 24. Maulavi, Jalal Ad-Din Muhammad, Mathnavi Ma'nvi, Corrected by -
 Reynold Nicholson, First Edition, Tehran, Intesharate Quqnus, 1376
 
-

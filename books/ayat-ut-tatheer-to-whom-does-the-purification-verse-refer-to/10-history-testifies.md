@@ -85,4 +85,3 @@ implausible that the wives of the Prophet (SA) be the ones referred to
 in the purification verse. Is there anything more clear from this
 irrefutable proof which the brain cannot help but accept?!
 
-

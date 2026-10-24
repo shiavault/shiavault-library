@@ -61,4 +61,3 @@ The atonement of wearing sewn clothing in cases of necessity is a sheep,
 but if this act is performed because of ignorance or forgetfulness, then
 it has no atonement.
 
-

@@ -1,13 +1,9 @@
 What is meant by the “White Hand of Musa (A)? 
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاء مِنْ غَيْرِ سُوءٍ فِي
-تِسْعِ آيَاتٍ إِلَى فِرْعَوْنَ وَقَوْمِهِ إِنَّهُمْ كَانُوا قَوْمًا
-فَاسِقِينَ
-  </p>
-</blockquote>
+> وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاء مِنْ غَيْرِ سُوءٍ فِي
+> تِسْعِ آيَاتٍ إِلَى فِرْعَوْنَ وَقَوْمِهِ إِنَّهُمْ كَانُوا قَوْمًا
+> فَاسِقِينَ
 
 ***And enter your hand into the opening of your bosom (collar), it shall
 come forth white without evil; among nine signs to Fir‘awn and his
@@ -88,11 +84,7 @@ To support our claim that the arguments above are weak, we can refer to
 another verse:
 
 > فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ {o} وَنَزَعَ يَدَهُ
-<blockquote dir="rtl">
-  <p>
-فَإِذَا هِيَ بَيْضَاء لِلنَّاظِرِينَ
-  </p>
-</blockquote>
+> فَإِذَا هِيَ بَيْضَاء لِلنَّاظِرِينَ
 
 ***So he cast down his rod, and lo! it was an obvious serpent; And he
 drew forth his hand, and lo! it appeared white to the onlookers.
@@ -116,11 +108,7 @@ broaden the horizons of their thinking.
 
 About the specific time when the miracle took place, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَن يُحْشَرَ النَّاسُ ضُحًى
-  </p>
-</blockquote>
+> قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَن يُحْشَرَ النَّاسُ ضُحًى
 
 *** (Musa) said: Your appointment is the day of the Festival and let the
 people be gathered together in the early forenoon. (Ta Ha, 20/59)***
@@ -148,12 +136,8 @@ who witness it feel that have been allowed a new chance to discover the
 truth.  
  On the other hand, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُرِيهِم مِّنْ آيَةٍ إِلَّا هِيَ أَكْبَرُ مِنْ أُخْتِهَا
-وَأَخَذْنَاهُم بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَمَا نُرِيهِم مِّنْ آيَةٍ إِلَّا هِيَ أَكْبَرُ مِنْ أُخْتِهَا
+> وَأَخَذْنَاهُم بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ
 
 ***And We did not show them a sign but it was greater than it’s like,
 and We overtook them with chastisement that they may turn. (al-Zukhruf,
@@ -250,5 +234,4 @@ that the explanation that the whiteness of the hand of the Messenger of
 God was similar to the whiteness of a skin affliction – which the great
 exegetes have generally inferred from the phrase, “white without evil” –
 does not agree with any of the reports mentioned above.
-
 

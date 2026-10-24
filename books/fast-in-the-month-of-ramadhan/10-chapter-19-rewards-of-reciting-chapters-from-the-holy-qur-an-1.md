@@ -117,7 +117,6 @@ Qur’an, 35:32).
 This much ought to convince the discreet reader that th information
 stated in this section is taken from a very reliable source
 
-
 **The Basmala**
 
 Whenever we recite a verse from the Holy Qur’an, we start with th
@@ -440,8 +439,6 @@ has also said that one who recites both this chapter and the next one
 never be impoverished, nor will he suffer insanity nor any calamity
 whatsoever.
 
-
 (Note: For the other Surahs, please go the the 'Holy Quran' section on
 IUA-NET and click on 'Rewards of reciting the Holy Qur'an)
-
 

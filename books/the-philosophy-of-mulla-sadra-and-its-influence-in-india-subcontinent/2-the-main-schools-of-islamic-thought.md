@@ -52,4 +52,3 @@ starting point, Mulla Sadra was able to find original solutions to many
 of the logical, metaphysical and theological difficulties which he had
 inherited from his predecessors.
 
-

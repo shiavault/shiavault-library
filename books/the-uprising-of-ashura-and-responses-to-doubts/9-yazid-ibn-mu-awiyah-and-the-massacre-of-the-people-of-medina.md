@@ -384,12 +384,8 @@ girls were violated. *We are from Allah and to whom is our return!*’
 
 Allah’s Prophet (S) had said,
 
-<blockquote dir="rtl">
-  <p>
-«من أخاف أهل المدينة اخافه الله وعليه لعنة الله والملائكة والناس
-أجمعين.»
-  </p>
-</blockquote>
+> «من أخاف أهل المدينة اخافه الله وعليه لعنة الله والملائكة والناس
+> أجمعين.»
 
 ‘Anyone who terrorizes and intimidates the people of Medina will be
 terrorized by Allah and may the curse of Allah, the angels and all the
@@ -592,5 +588,4 @@ Tarikh al-Khulafa’, p. 209.
 [^53]: Nasab al-Quraysh, p. 384.
 
 [^54]: Al-Imamah wa al-Siyasah, vol. 1, p. 214.
-
 

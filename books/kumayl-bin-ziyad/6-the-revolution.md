@@ -13,4 +13,3 @@ Al-Hajjaj was wicked. He sent people to fight and occupy lands. He
 forced them to join the invading armies. He wanted them to get the booty
 of the conquered lands. In the meantime, he wanted to get rid of them.
 
-

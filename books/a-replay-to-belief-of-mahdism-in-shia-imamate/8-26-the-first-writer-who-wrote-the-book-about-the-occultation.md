@@ -120,4 +120,3 @@ there is no literacy, there is fancy; where there is no information,
 there is imagination; and the books are written. These books are deal,
 thus should they be left.
 
-

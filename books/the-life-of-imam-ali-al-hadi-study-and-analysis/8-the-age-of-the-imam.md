@@ -1100,4 +1100,3 @@ Akhbar ad-Duwal, p.116.
 
 [^70]: At-Tawhid, p.224
 
-

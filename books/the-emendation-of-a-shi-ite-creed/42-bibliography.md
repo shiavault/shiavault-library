@@ -242,4 +242,3 @@ YAQUT AL-HAMAWI, Mu‘jamu '1-buldan, 5 vols., Beirut, 1957.
 
 AZ-ZAMAKHSHARI, al-Kashshaf ‘an haqaiqi 't-tanzil, Bulaq, 1318 AH.
 
-

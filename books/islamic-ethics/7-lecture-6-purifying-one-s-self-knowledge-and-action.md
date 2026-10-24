@@ -1,13 +1,9 @@
 Lecture 6: Purifying One’s Self; Knowledge and Action
 =====================================================
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
-وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
+> وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ
 
 It is He who has sent amongst the unlettered a messenger from among
 themselves, to rehearse to them His signs, to sanctify them, and to
@@ -307,5 +303,4 @@ contract.
 [^2]: Imān ‛Alī (a), Nahj al-Balāgha, letter 45
 
 [^3]: Shaykh Kulaynī, Usūl al-Kāfī, volume 2, page 243, chapter al-Sifah
-
 

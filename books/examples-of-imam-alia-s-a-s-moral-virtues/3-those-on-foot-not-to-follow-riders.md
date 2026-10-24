@@ -129,4 +129,3 @@ problems and sorrows. I approve of your union which pleases Allah. You
 are the most benevolent and trustworthy of them with me, Allah
 willing.”[^14]
 
-

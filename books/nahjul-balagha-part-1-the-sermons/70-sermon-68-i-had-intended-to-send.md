@@ -4,31 +4,19 @@ Sermon 68: I had intended to send ...
 *When Amir al-mu'minin appointed Muhammad ibn Abi Bakr*[^1] *Governor of
 Egypt and he was overpowered and killed, Amir al-mu'minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا قلد محمّد بن أبي بكر مصر فملكت عليه وقتل
-  </p>
-</blockquote>
+> لمّا قلد محمّد بن أبي بكر مصر فملكت عليه وقتل
 
 I had intended to send Hashim ibn \`Utbah to Egypt and had l done so he
 would not have made way for the opponents nor given them time (to get
 hold of him). This is without reproach to Muhammad ibn Abi Bakr as I
 loved him and had brought him up.
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ أَرَدْتُ تَوْلِيَةَ مِصْرَ هَاشِمَ بْنَ عُتْبَةَ، وَلَوْ
-وَلَّيْتُهُ إِيَّاهَا لَما خَلَّى لَهُمُ الْعَرْصَةَ، وَلاَ
-أَنْهَزَهُمُ الْفُرْصَةَ، بَلاَ ذَمٍّ لِمحَمَّدِ بْنِ أَبي بَكْر،
-فَلَقَدْ كَانَ إِلَيَّ حَبِيباً، وَكَانَ لي رَبِيباً.
-  </p>
-</blockquote>
+> وَقَدْ أَرَدْتُ تَوْلِيَةَ مِصْرَ هَاشِمَ بْنَ عُتْبَةَ، وَلَوْ
+> وَلَّيْتُهُ إِيَّاهَا لَما خَلَّى لَهُمُ الْعَرْصَةَ، وَلاَ
+> أَنْهَزَهُمُ الْفُرْصَةَ، بَلاَ ذَمٍّ لِمحَمَّدِ بْنِ أَبي بَكْر،
+> فَلَقَدْ كَانَ إِلَيَّ حَبِيباً، وَكَانَ لي رَبِيباً.
 
 Alternative Sources for Sermon 68
 ---------------------------------
@@ -86,5 +74,4 @@ butchered him thirsty. Then they put his body in the belly of a dead ass
 and burnt it. Malik ibn Ka\`b al-Arhabi had already left Kufah with two
 thousand men but before he could reach Egypt it had been occupied by the
 enemy.
-
 

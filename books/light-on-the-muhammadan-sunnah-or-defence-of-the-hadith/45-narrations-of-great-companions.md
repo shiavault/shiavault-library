@@ -1,10 +1,6 @@
 Narrations of Great Companions
 ==============================
 
-  
-  
-  
-
 Out of whatever was stated before, it became clear that Abu Hurayrah
 related from the Messenger of Allah 5374 traditions (of which 466 ones
 reported by al-Bukhari), though he did not keep company with the Prophet

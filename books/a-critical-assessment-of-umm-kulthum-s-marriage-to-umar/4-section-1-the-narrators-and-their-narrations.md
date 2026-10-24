@@ -66,11 +66,7 @@ He replied: “With the daughter of Ali ibn Abi Talib.[^3]
 Then he told them the story and said that he had heard the Prophet (S)
 say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.”[^4]
@@ -229,11 +225,7 @@ They said to Umar, “What do you mean? She is a little girl?!”
 Umar said, "Do not disparage me [for marrying a young girl], for I heard
 the Prophet say, upon him be blessings and peace:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 ‘Every means will be cut off and every lineage severed on the Day of
 Judgment except my means and lineage.’
@@ -268,11 +260,7 @@ Then Ali turned to Aqil and said, “Oh Aqil, I swear by Allah that it is
 not because of my inclination to you and your opinion, but Umar ibn
 Khattab informed me that he heard the Messenger of Allah (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.”
@@ -407,11 +395,7 @@ Faithful?’
 He replied, ‘With the daughter of Ali and Fatima, daughter of the
 Messenger of Allah (S). I head the Messenger of Allah (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.”
@@ -449,11 +433,7 @@ Addressing the people, Umar said, ‘Behold! I swear by Allah that what
 impelled me to marry her, was a tradition that I had heard from the
 Messenger of Allah (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.”
@@ -475,11 +455,7 @@ said, ‘She is too young to be married.’
 
 Umar said, ‘I heard the Prophet of Allah (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.”
@@ -524,11 +500,7 @@ this matter. He told Ali, ‘O Abul Hassan, what has made me to come to
 you time and again is a saying which I heard from the Prophet of Allah
 (S) that:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.”
@@ -592,11 +564,7 @@ They said, “What for, O Amirul Mu‘umeneen?”
 He said, “I have married Umm Kulthum, the daughter of Ali ibn Abi Talib.
 I heard the Prophet of Allah (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 ‘Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.’
@@ -698,11 +666,7 @@ They said, ‘What for, O Amirul Mu‘umeneen?’
 He said, ‘I have married Umm Kulthum, the daughter of Ali ibn Abi Talib.
 I heard the Prophet of Allah (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 ‘Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.’
@@ -895,11 +859,7 @@ have married the daughter of Ali ibn Abi Talib.
 
 Indeed, the Prophet of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means will be cut off and every lineage severed on the Day of
 Judgment except my lineage.’
@@ -958,5 +918,4 @@ Mu‟uminin Ali ibn Abi Talib (peace be upon him), No. 4684).
 [^17]: Al-Isti‟ab, 4/509 & 510.
 
 [^18]: Al-Isabah, 8/464 and 465.
-
 

@@ -16,28 +16,16 @@ Majority is not the criterion of soundness. The Glorious Qur’an often
 disapproves majorities and praises some minorities. Here are some
 examples:
 
-<blockquote dir="rtl">
-  <p>
-ولا تجد أكثرهم شاكرين.
-  </p>
-</blockquote>
+> ولا تجد أكثرهم شاكرين.
 
 ***“And You will not find most of them to be grateful.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-إن أولياؤه إلا المتقون ولكن هُم أكثرهم لا يعلمون.
-  </p>
-</blockquote>
+> إن أولياؤه إلا المتقون ولكن هُم أكثرهم لا يعلمون.
 
 ***“Its custodians are only the God-wary, but most of them do not
 know.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-وقليل من عبادي الشكور.
-  </p>
-</blockquote>
+> وقليل من عبادي الشكور.
 
 ***“And few of My servants are grateful.”***[^3]
 
@@ -51,12 +39,8 @@ it be that your opponents in the Battle of Jamal, who are relatively in
 majority, be false?  
  The Imam (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-"إن الحق والباطل لا يعرفان بأقدار الرجال ، إعرف الحق تعرف أهله إعرف
-الباطل تعرف أهله."
-  </p>
-</blockquote>
+> "إن الحق والباطل لا يعرفان بأقدار الرجال ، إعرف الحق تعرف أهله إعرف
+> الباطل تعرف أهله."
 
 “Truth and falsehood are not recognized through the number of men. If
 you know the truth you can know its followers and if you know falsehood
@@ -66,11 +50,7 @@ It is necessary for every Muslim to analyze this question in a
 scientific and logical manner, and take the following verse as a lamp to
 illuminate his or her path:
 
-<blockquote dir="rtl">
-  <p>
-ولا تقفُ ما ليسن لك به علم.
-  </p>
-</blockquote>
+> ولا تقفُ ما ليسن لك به علم.
 
 *“Do not follow that of which you have no knowledge.”*[^4]
 
@@ -111,5 +91,4 @@ p. 194.
 
 [^6]: In this regard, one may refer to Ta’sis ash-Shi‘ah by Sayyid Hasan
 as-Sadr.
-
 

@@ -195,4 +195,3 @@ Abdullah Ansar who is reported to have said, "We were present at
 Fatima's and Ali's (A.S.) wedding ceremony and indeed we have not seen
 any ceremony better than that one ..."
 
-

@@ -31,4 +31,3 @@ Maytham said:
 *Surely, I'm truthful! I'm the supporter of a truthful man. Really, he's
 Amirul Mu'mineen! (the Commander of the Faithful)*
 
-

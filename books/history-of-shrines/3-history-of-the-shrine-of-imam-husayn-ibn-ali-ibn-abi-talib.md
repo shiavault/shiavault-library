@@ -210,4 +210,3 @@ Chronology of Imam Husayn's Shrine at Karbala
 | 1360   | 29th January, 1941  | Dr. Syedna Taher Saifud-din, 5lst Dai-el-Mutlaq of the Dawoodi Bohra community rebuilt the western minaret.                                                                                                                                                                               |
 | 1367   | 20th Dec., 1948     | Syed Abdul Rasul Khalsi, Administrator of Karbala acquired the houses in the neighbourhood of the courtyard according to the price fixed by the government, to build a road around the holy mausoleum and to extend the courtyard.                                                        |
 
-

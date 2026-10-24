@@ -57,4 +57,3 @@ which he had taken to its owner."
 
 Mustadrak-ul-Wasa'il, vol. 17, p. 89
 
-

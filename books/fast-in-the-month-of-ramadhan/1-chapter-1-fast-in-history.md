@@ -45,7 +45,6 @@ for the pre-Easter fast among some Christians. Other Christian
 theologians started other types of fast during which they do not eat
 meat, fish, or eggs.
 
-
 **Chapter 2 : Name and Derivation**
 
 Allah Almighty has said, ‘Surely the number of months with Allah is
@@ -73,7 +72,6 @@ determine time by mentioning the word ahilla, which is the plural of the
 Arabic singular hilal, crescent, when it becomes visible to the naked
 eye. These crescents set the time for people and help them determine
 when the pilgrimage is to be performed.
-
 
 **Chapter 3 : Fast of the Month of Ramadhan**
 
@@ -275,7 +273,6 @@ hypocrisy aside, and do not harm those who serve you. Rather, adorn
 yourself with the dignity of the fast, and do not make your fasting day
 any different from the day when you do not fast."
 
-
 **The Niyyat (intention) to Fast**
 
 When the crescent is sighted in your area or country, a niyyat, that
@@ -283,5 +280,4 @@ is, a silent declaration of intention, should be made to fast during
 this sacred month to attain nearness to Allah (wajib qurbatan do-Allah).
 Just like the five daily prayers, the nijyat of fast is obligatory and
 mental, and so is the case of every deed according to Islam.
-
 

@@ -206,7 +206,6 @@ So here we learn that Mu'awiya the Hadi:
 Was asked whether he was aware that Rasulullah (s) had prohibited the
 wearing of gold, silk and animal skin.
 
-
 **Mu'awiya confirmed that he knew this to be the position**
 
 The man testified that he had witnessed all three prohibited items
@@ -252,5 +251,4 @@ abetted him in the process.
 
 Even if the advocates of Mu'awiya refuse to accept these facts, then
 let us look at this alleged hadith from several other angles.
-
 

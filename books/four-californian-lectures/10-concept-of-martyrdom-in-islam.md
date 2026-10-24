@@ -172,4 +172,3 @@ In this way he has shown us how a man should live for Allah and how he
 should die for Allah. His supreme sacrifice has taught us how we can
 turn death into eternal life.
 
-

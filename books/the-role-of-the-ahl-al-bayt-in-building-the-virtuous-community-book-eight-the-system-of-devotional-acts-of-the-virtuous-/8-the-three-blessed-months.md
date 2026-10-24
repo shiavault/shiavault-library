@@ -11,18 +11,14 @@ excellence and merits of the month of Rajab.[^1] In his books,
 *al-Majalis* and *Thawab al-A’mal*, Shaykh al-Saduq has reported that
 Abu-Sa’id al-Khidri quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ إِنَّ رَجَباً شَهْرُ اللهِ الأَصَمُّ وَهُوَ شَهْرٌ عَظِيمٌ،
-وَإِنَّمَا سُمِّيَ الأَصَمَّ لأَِنَّهُ لاَ يُقَارِبُهُ شَيْءٌ مِنَ
-الشُّهُورِ حُرْمَةً وَفَضْلاً عِنْدَ اللهِ، وَكَانَ أَهْلُ
-الْجَاهِلِيَّةِ يُعَظِّمُونَهُ فِي جَاهِلِيَّتِهِمْ، فَلَمَّا جَاءَ
-الإِسْلاَمُ لَمْ يَزْدَدْ إِلاَّ تَعْظِيماً وَفَضْلاً. أَلاَ إِنَّ
-رَجَباً شَهْرُ اللهِ، وَشَعْبَانُ شَهْرِي، وَرَمَضَانُ شَهْرُ
-أُمَّتِي. أَلاَ فَمَنْ صَامَ مِنْ رَجَبٍ يَوْماً إِيـمَاناً
-وَاحْتِسَاباً إسْتَوْجَبَ رِضْوَانَ اللهِ الأَكْبَرَ.
-  </p>
-</blockquote>
+> أَلاَ إِنَّ رَجَباً شَهْرُ اللهِ الأَصَمُّ وَهُوَ شَهْرٌ عَظِيمٌ،
+> وَإِنَّمَا سُمِّيَ الأَصَمَّ لأَِنَّهُ لاَ يُقَارِبُهُ شَيْءٌ مِنَ
+> الشُّهُورِ حُرْمَةً وَفَضْلاً عِنْدَ اللهِ، وَكَانَ أَهْلُ
+> الْجَاهِلِيَّةِ يُعَظِّمُونَهُ فِي جَاهِلِيَّتِهِمْ، فَلَمَّا جَاءَ
+> الإِسْلاَمُ لَمْ يَزْدَدْ إِلاَّ تَعْظِيماً وَفَضْلاً. أَلاَ إِنَّ
+> رَجَباً شَهْرُ اللهِ، وَشَعْبَانُ شَهْرِي، وَرَمَضَانُ شَهْرُ
+> أُمَّتِي. أَلاَ فَمَنْ صَامَ مِنْ رَجَبٍ يَوْماً إِيـمَاناً
+> وَاحْتِسَاباً إسْتَوْجَبَ رِضْوَانَ اللهِ الأَكْبَرَ.
 
 *Behold! The month of Rajab is the all-holy month of Almighty Allah and
 it is a great month. It has been described thus because no other month
@@ -40,26 +36,18 @@ any number of days this month.[^2]
 
 Shaykh al-Saduq has also reported Imam Musa al-Kazim (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-رَجَبٌ نَهْرٌ فِي الْجَنَّةِ أَشَدُّ بَيَاضاً مِنَ اللَّبَنِ وَأَحْلَى
-مِنَ الْعَسَلِ، فَمَنْ صَامَ يَوْماً مِنْ رَجَبٍ سَقَاهُ اللهُ مِنْ
-ذَلِكَ النَّهْرِ.
-  </p>
-</blockquote>
+> رَجَبٌ نَهْرٌ فِي الْجَنَّةِ أَشَدُّ بَيَاضاً مِنَ اللَّبَنِ وَأَحْلَى
+> مِنَ الْعَسَلِ، فَمَنْ صَامَ يَوْماً مِنْ رَجَبٍ سَقَاهُ اللهُ مِنْ
+> ذَلِكَ النَّهْرِ.
 
 *Rajab is (the name of) a river in Paradise that is whiter than milk and
 sweeter than honey. Hence, if one fasts for even a single day in Rajab,
 Almighty Allah will allow him to drink from that river.*[^3]
 
-<blockquote dir="rtl">
-  <p>
-رَجَبٌ شَهْرٌ عَظِيمٌ يُضَاعِفُ اللهُ فِيهِ الْحَسَنَاتِ وَيَمْحُو
-السَّيِّئَاتِ. وَمَنْ صَامَ يَوْماً مِنْ رَجَبٍ تَبَاعَدَتْ عَنْهُ
-النُّارُ مَسِيرَةَ سَنَةٍ، وَمَنْ صَامَ ثَلاَثَةَ أَيَّامٍ وَجَبَتْ
-لَهُ الْجَنَّةُ.
-  </p>
-</blockquote>
+> رَجَبٌ شَهْرٌ عَظِيمٌ يُضَاعِفُ اللهُ فِيهِ الْحَسَنَاتِ وَيَمْحُو
+> السَّيِّئَاتِ. وَمَنْ صَامَ يَوْماً مِنْ رَجَبٍ تَبَاعَدَتْ عَنْهُ
+> النُّارُ مَسِيرَةَ سَنَةٍ، وَمَنْ صَامَ ثَلاَثَةَ أَيَّامٍ وَجَبَتْ
+> لَهُ الْجَنَّةُ.
 
 *Rajab is a great month during which Almighty Allah doubles the rewards
 of good-actions and erases the punishments for evil-actions. If one
@@ -70,18 +58,14 @@ bindingly win Paradise.*[^4]
 Through a number of chains of authority, some of which are valid, Imam
 al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ نُوحاً عَلَيْهِ السَّلاَمُ رَكِبَ السَّفِينَةَ أَوَّلَ يَوْمٍ
-مِنْ رَجَبٍ، فَأَمَرَ عَلَيْهِ السَّلاَمُ مَنْ مَعَهُ أَنْ يَصُومُوا
-ذَلِكَ الْيَوْمِ. مَنْ صَامَ ذَلِكَ الْيَوْمَ تَبَاعَدَتْ عَنْهُ
-النَّارُ مَسِيرَةَ سَنَةٍ، وَمَنْ صَامَ سَبْعَةَ أَيَّامٍ أُغْلِقَتْ
-عَنْهُ أَبْوَابُ النِّيرَانِ السَّبْعَةُ، وَمَنْ صَامَ ثَمَانِيَةَ
-أَيَّامٍ فُتِحَتْ لَهُ أَبْوَابُ الْجِنَانِ الثَّمَانِيَةُ، وَمَنْ
-صَامَ خَمْسَةَ عَشَرَ يَوْماً أُعْطِيَ مَسْأَلَتَهُ، وَمَنْ زَادَ
-زَادَهُ اللهُ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> إِنَّ نُوحاً عَلَيْهِ السَّلاَمُ رَكِبَ السَّفِينَةَ أَوَّلَ يَوْمٍ
+> مِنْ رَجَبٍ، فَأَمَرَ عَلَيْهِ السَّلاَمُ مَنْ مَعَهُ أَنْ يَصُومُوا
+> ذَلِكَ الْيَوْمِ. مَنْ صَامَ ذَلِكَ الْيَوْمَ تَبَاعَدَتْ عَنْهُ
+> النَّارُ مَسِيرَةَ سَنَةٍ، وَمَنْ صَامَ سَبْعَةَ أَيَّامٍ أُغْلِقَتْ
+> عَنْهُ أَبْوَابُ النِّيرَانِ السَّبْعَةُ، وَمَنْ صَامَ ثَمَانِيَةَ
+> أَيَّامٍ فُتِحَتْ لَهُ أَبْوَابُ الْجِنَانِ الثَّمَانِيَةُ، وَمَنْ
+> صَامَ خَمْسَةَ عَشَرَ يَوْماً أُعْطِيَ مَسْأَلَتَهُ، وَمَنْ زَادَ
+> زَادَهُ اللهُ عَزَّ وَجَلَّ.
 
 *On the first of Rajab, (Prophet) Noah (‘a) embarked on the Ark; he
 therefore ordered those who accompanied him to fast on that day. If one
@@ -121,23 +105,15 @@ times followed by almsgiving:
 *I ask the forgiveness of Allah. There is no god save Him, He is alone
 without any partner, and I repent before Him.*[^8]
 
-<blockquote dir="rtl">
-  <p>
-ا سْتَغْفِرُ ٱللّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ وَحْدَهُ لا شَرِيكَ
-لَهُ وَا تُوبُ إِلَيْهِ.
-  </p>
-</blockquote>
+> ا سْتَغْفِرُ ٱللّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ وَحْدَهُ لا شَرِيكَ
+> لَهُ وَا تُوبُ إِلَيْهِ.
 
 The following litany is advised to be repeated one thousand times every
 day in Rajab:
 
 There is no god save Allah.
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٰهَ إِلاَّ ٱللّهُ.
-  </p>
-</blockquote>
+> لاَ إِلٰهَ إِلاَّ ٱللّهُ.
 
 Another litany that is advised is repeating one hundred times every day
 in Rajab is the following:
@@ -147,13 +123,9 @@ should be glorified. Glory be to the All-honorable, the All-dignified.
 Glory be to Him Who has dressed Himself with grandeur that fits none but
 Him.*
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الإِلٰهِ ٱلْجَلِيلِ سُبْحَانَ مَنْ لاَ يَنْبَغِي
-ٱلتَّسْبِيحُ إِلاَّ لَهُ سُبْحَانَ ٱلا عَزِّ ٱلا كْرَمِ سُبْحَانَ مَنْ
-لَبِسَ ٱلْعِزَّ وَهُوَ لَهُ ا هْلٌ.
-  </p>
-</blockquote>
+> سُبْحَانَ الإِلٰهِ ٱلْجَلِيلِ سُبْحَانَ مَنْ لاَ يَنْبَغِي
+> ٱلتَّسْبِيحُ إِلاَّ لَهُ سُبْحَانَ ٱلا عَزِّ ٱلا كْرَمِ سُبْحَانَ مَنْ
+> لَبِسَ ٱلْعِزَّ وَهُوَ لَهُ ا هْلٌ.
 
 Reports advise that one who is incapable of fasting during the month of
 Rajab may repeat this litany one hundred times each day.[^9]
@@ -172,13 +144,9 @@ Sha’ban, and Ramadhan:
 *al-Tawhid*, *Surah* *al-Falaq*, *Surah* *al-Nas*, and the following
 litany:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ ٱللّهِ وَٱلْحَمْدُ لِلّهِ وَلاَ إِلٰهَ إِلاَّ ٱللّهُ
-وَٱللّهُ ا كْبَرُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللّهِ
-ٱلْعَلِيِّ ٱلْعَظِيمِ.
-  </p>
-</blockquote>
+> سُبْحَانَ ٱللّهِ وَٱلْحَمْدُ لِلّهِ وَلاَ إِلٰهَ إِلاَّ ٱللّهُ
+> وَٱللّهُ ا كْبَرُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللّهِ
+> ٱلْعَلِيِّ ٱلْعَظِيمِ.
 
 *All glory be to Allah; all praise be to Allah; there is no god save
 Allah; Allah is the Greatest;* *and there is neither might nor power
@@ -186,11 +154,7 @@ save with Allah, the All-high the All-great.*
 
 The following invocation:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
 
 *O Allah, send blessings upon Muhammad and the Household of Muhammad.*
 
@@ -198,21 +162,13 @@ The following supplication:
 
 *O Allah, (please do) forgive the believing men and women.*
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ ٱغْفِرْ لِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ ٱغْفِرْ لِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ.
 
 The following prayer of forgiveness, four hundred times:
 
 *I pray to Allah for forgiveness and I repent before Him.*
 
-<blockquote dir="rtl">
-  <p>
-ا سْتَغْفِرُ ٱللّهَ وَا تُوبُ إِلَيْهِ.
-  </p>
-</blockquote>
+> ا سْتَغْفِرُ ٱللّهَ وَا تُوبُ إِلَيْهِ.
 
 Whoever does the above, will have all his sins forgiven, no matter how
 many they are.
@@ -238,14 +194,10 @@ night of the month In each unit *Surah al-Fatihah* is recited once,
 completion, the hands should be raised towards the sky and the following
 litany recited:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٰهَ إِلاَّ ٱللّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ ٱلْمُلْكُ
-وَلَهُ ٱلْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لاَ يَمُوتُ بِيَدِهِ
-ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ اَللَّهُمَّ صَلِّ عَلَى
-مُحَمَّدٍ ٱلنَّبِيِّ ٱلا مِّيِّ وَآلِهِ.
-  </p>
-</blockquote>
+> لاَ إِلٰهَ إِلاَّ ٱللّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ ٱلْمُلْكُ
+> وَلَهُ ٱلْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لاَ يَمُوتُ بِيَدِهِ
+> ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ اَللَّهُمَّ صَلِّ عَلَى
+> مُحَمَّدٍ ٱلنَّبِيِّ ٱلا مِّيِّ وَآلِهِ.
 
 *There is no god save Allah, the One and Only, without any partner. To
 him is the kingdom and to Him is all praise. He gives life and causes to
@@ -295,11 +247,7 @@ sunset and the early night prayer. Upon accomplishment of this prayer,
 it is recommended to repeat the invocation of Almighty Allah’s blessings
 upon the Holy Prophet and his Household seventy times:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
 
 *O Allah, send blessings upon Muhammad and the Household of Muhammad.*
 
@@ -309,11 +257,7 @@ times:
 *Glorified (is He). Holy (is He). (He is) the Lord of the angels and the
 Spirit.*
 
-<blockquote dir="rtl">
-  <p>
-سُبُّوحٌ قُدُّوسٌ رَبُّ ٱلْمَلاَئِكَةِ وَٱلرُّوحِ.
-  </p>
-</blockquote>
+> سُبُّوحٌ قُدُّوسٌ رَبُّ ٱلْمَلاَئِكَةِ وَٱلرُّوحِ.
 
 Then, raise the head from the prostration and repeat the following
 litany seventy times:
@@ -322,12 +266,8 @@ litany seventy times:
 (my wrongdoings) that You know. Surely, You are the Most High, the
 Greatest.*
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ ٱغْفِرْ وَٱرْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إنَّكَ اَنْتَ
-ٱلْعَلِيُّ ٱلاَعْظَمُ.
-  </p>
-</blockquote>
+> رَبِّ ٱغْفِرْ وَٱرْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إنَّكَ اَنْتَ
+> ٱلْعَلِيُّ ٱلاَعْظَمُ.
 
 One may then return to the prostration position and repeat the same
 litany seventy times:
@@ -335,11 +275,7 @@ litany seventy times:
 *Glorified (is He). Holy (is He). (He is) the Lord of the angels and the
 Spirit.*
 
-<blockquote dir="rtl">
-  <p>
-سُبُّوحٌ قُدُّوسٌ رَبُّ ٱلْمَلاَئِكَةِ وَٱلرُّوحِ.
-  </p>
-</blockquote>
+> سُبُّوحٌ قُدُّوسٌ رَبُّ ٱلْمَلاَئِكَةِ وَٱلرُّوحِ.
 
 Then, one may pray to Almighty Allah to grant him his requests, which
 will be granted if Allah wills.
@@ -409,18 +345,14 @@ recite Surahs al-Fatihah, al-Falaq, al-Nas, al-Tawhid, al-Kafirun,
 al-Qadr, and Ayat al-Kursi each seven times. After all this, you should
 say the following doxology and supplication:*
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَمْدُ لِلّهِ ٱلَّذِي لَمْ يَتَّخِذْ وَلَداً وَلَمْ يَكُنْ لَهُ
-شَرِيكٌ فِي ٱلْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ ٱلذُّلِّ
-وَكَبِّرْهُ تَكْبِيراً اَللَّهُمَّ إِنِّي ا سْا لُكَ بِمَعَاقِدِ
-عِزِّكَ عَلَىٰ ا رْكَانِ عَرْشِكَ وَمُنْتَهَىٰ ٱلرَّحْمَةِ مِنْ
-كِتَابِكَ وَبِٱسْمِكَ ٱلا عْظَمِ ٱلا عْظَمِ ٱلا عْظَمِ وَذِكْرِكَ ٱلا
-عْلَىٰ ٱلا عْلَىٰ ٱلا عْلَىٰ وَبِكَلِمَاتِكَ ٱلتَّامَّاتِ ا نْ
-تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِهِ وَا نْ تَفْعَلَ بِي مَا ا نْتَ ا
-هْلُهُ.
-  </p>
-</blockquote>
+> اَلْحَمْدُ لِلّهِ ٱلَّذِي لَمْ يَتَّخِذْ وَلَداً وَلَمْ يَكُنْ لَهُ
+> شَرِيكٌ فِي ٱلْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ ٱلذُّلِّ
+> وَكَبِّرْهُ تَكْبِيراً اَللَّهُمَّ إِنِّي ا سْا لُكَ بِمَعَاقِدِ
+> عِزِّكَ عَلَىٰ ا رْكَانِ عَرْشِكَ وَمُنْتَهَىٰ ٱلرَّحْمَةِ مِنْ
+> كِتَابِكَ وَبِٱسْمِكَ ٱلا عْظَمِ ٱلا عْظَمِ ٱلا عْظَمِ وَذِكْرِكَ ٱلا
+> عْلَىٰ ٱلا عْلَىٰ ٱلا عْلَىٰ وَبِكَلِمَاتِكَ ٱلتَّامَّاتِ ا نْ
+> تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِهِ وَا نْ تَفْعَلَ بِي مَا ا نْتَ ا
+> هْلُهُ.
 
 *All praise be to Allah, Who has not taken to Himself any son, and Who
 has no partner in sovereignty, nor has He any protecting friend through
@@ -538,13 +470,9 @@ In *Thawab al-A’mal*, Shaykh al-Saduq has also reported, through a valid
 chain of authority on the authority of Isma’il ibn Ziyad on the
 authority of Imam al-Sadiq (‘a), that the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-شَعْبَانُ شَهْرِي، وَرَمَضَانُ شَهْرُ اللهِ وَهُوَ رَبِيعُ
-الْفُقَرَاءِ. وَإِنَّمَا جُعِلَ الأَضْحَى لِيَشْبَعَ مَسَاكِينُكُمْ
-مِنَ اللَّحْمِ فَأَطْعِمُوهُمْ.
-  </p>
-</blockquote>
+> شَعْبَانُ شَهْرِي، وَرَمَضَانُ شَهْرُ اللهِ وَهُوَ رَبِيعُ
+> الْفُقَرَاءِ. وَإِنَّمَا جُعِلَ الأَضْحَى لِيَشْبَعَ مَسَاكِينُكُمْ
+> مِنَ اللَّحْمِ فَأَطْعِمُوهُمْ.
 
 *Sha’ban is my month and Ramadhan is the month of Allah. It is also the
 springtime of the poor. The ‘«d al-Adhha Feast has been established so
@@ -593,18 +521,10 @@ may be one of the following:
 *I seek the forgiveness of Allah and I pray to Him for approval of my
 repentance.*
 
-<blockquote dir="rtl">
-  <p>
-ا سْتَغْفِرُ ٱللّهَ وَا سْا لُهُ ٱلتَّوْبَةَ.
-  </p>
-</blockquote>
+> ا سْتَغْفِرُ ٱللّهَ وَا سْا لُهُ ٱلتَّوْبَةَ.
 
-<blockquote dir="rtl">
-  <p>
-ا سْتَغْفِرُ ٱللّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ ٱلرَحْمٰنُ
-ٱلرَّحِيمُ ٱلْحَيُّ ٱلْقَيُّوْمُ وَا تُوبُ إِلَيْهِ.
-  </p>
-</blockquote>
+> ا سْتَغْفِرُ ٱللّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ ٱلرَحْمٰنُ
+> ٱلرَّحِيمُ ٱلْحَيُّ ٱلْقَيُّوْمُ وَا تُوبُ إِلَيْهِ.
 
 *I seek forgiveness of Allah, there is no god save Whom, the
 All-beneficent, the All-merciful, the Ever-living, the Everlasting, and
@@ -614,12 +534,8 @@ Another litany that is reported directly from the Holy Prophet (S) in
 Sayyid Ibn Tawus’s *Iqbal al-A’mal* is recommended to be repeated one
 thousand times every day during the month of Sha’ban for great reward:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٰهَ إِلاَّ ٱللّهُ وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ مُخْلِصِينَ
-لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ.
-  </p>
-</blockquote>
+> لاَ إِلٰهَ إِلاَّ ٱللّهُ وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ مُخْلِصِينَ
+> لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ.
 
 *There is no god save Allah; and we serve none save Him, being sincere
 to Him in obedience, though the unbelievers are averse.*[^28]
@@ -646,15 +562,11 @@ possible. In this respect, Ahmad ibn ‘«sa, in his book of *al-Nawadir*,
 has reported through a valid chain of authority that Imam al-Sadiq (‘a)
 quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-رَجَبٌ شَهْرُ الإسْتِغْفَارِ لأُِمَّتِي. أَكْثِرُوا فِيهِ مِنَ
-الإسْتِغْفَارِ، فَإِنَّهُ غَفُورٌ رَحِيمٌ… وَأَكْثِرُوا فِي شَعْبَانَ
-مِنَ الصَّلَوَاتِ عَلَى نَبِيِّكُمْ… وَإِنَّمَا سُمِّيَ شَعْبَانُ
-شَهْرَ الشَّفَاعَةِ لأَِنَّ رَسُولَكُمْ يَشْفَعُ لِكُلِّ مَنْ يُصَلِّي
-عَلَيْهِ فِيهِ.
-  </p>
-</blockquote>
+> رَجَبٌ شَهْرُ الإسْتِغْفَارِ لأُِمَّتِي. أَكْثِرُوا فِيهِ مِنَ
+> الإسْتِغْفَارِ، فَإِنَّهُ غَفُورٌ رَحِيمٌ… وَأَكْثِرُوا فِي شَعْبَانَ
+> مِنَ الصَّلَوَاتِ عَلَى نَبِيِّكُمْ… وَإِنَّمَا سُمِّيَ شَعْبَانُ
+> شَهْرَ الشَّفَاعَةِ لأَِنَّ رَسُولَكُمْ يَشْفَعُ لِكُلِّ مَنْ يُصَلِّي
+> عَلَيْهِ فِيهِ.
 
 *For my people, Rajab is the month of praying for forgiveness;
 therefore, implore Almighty Allah for forgiveness in this month as
@@ -749,12 +661,8 @@ account of the sanctity of this month:
 *O Allah, If You have not forgiven us in the past days of Sha’ban,
 (please do) forgive us in* *the rest of it.*[^36]
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إِنْ لَمْ تَكُنْ غَفَرْتَ لَنَا فِيمَا مَضَىٰ مِنْ
-شَعْبَانَ فَٱغْفِرْ لَنَا فِيمَا بَقِيَ مِنْهُ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إِنْ لَمْ تَكُنْ غَفَرْتَ لَنَا فِيمَا مَضَىٰ مِنْ
+> شَعْبَانَ فَٱغْفِرْ لَنَا فِيمَا بَقِيَ مِنْهُ.
 
 Likewise, a supplication to be said on the last night of Sha’ban and the
 first night of Ramadhan is reported from Imam al-Sadiq (‘a).[^37]
@@ -813,40 +721,36 @@ This sermon has been reported by Shaykh al-Saduq in his two books of
 *al-Amali* and *‘Uyun Akhbar al-Ridha* through a highly valid chain of
 authority known as the Golden Chain of Authority:[^38]
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ إِنَّهُ قَدْ أَقْبَلَ إِلَيْكُمْ شَهْرُ اللَّهِ
-بِالْبَرَكَةِ وَالرَّحْمَةِ وَالْمَغْفِرَةِ شَهْرٌ هُوَعِنْدَ اللَّهِ
-أَفْضَلُ الشُّهُورِ وَأَيَّامُهُ أَفْضَلُ الأَيَّامِ وَلَيَالِيهِ
-أَفْضَلُ اللَّيَالِي وَسَاعَاتُهُ أَفْضَلُ السَّاعَاتِ هُوَشَهْرٌ
-دُعِيتُمْ فِيهِ إِلَى ضِيَافَةِ اللَّهِ وَجُعِلْتُمْ فِيهِ مِنْ أَهْلِ
-كَرَامَةِ اللَّهِ أَنْفَاسُكُمْ فِيهِ تَسْبِيحٌ وَنَوْمُكُمْ فِيهِ
-عِبَادَةٌ وَعَمَلُكُمْ فِيهِ مَقْبُولٌ وَدُعَاؤُكُمْ فِيهِ مُسْتَجَابٌ
-فَسَلُوا اللَّهَ رَبَّكُمْ بِنِيَّاتٍ صَادِقَةٍ وَقُلُوبٍ طَاهِرَةٍ
-أَنْ يُوَفِّقَكُمْ لِصِيَامِهِ وَتِلاوَةِ كِتَابِهِ فَإِنَّ الشَّقِيَّ
-مَنْ حُرِمَ غُفْرَانَ اللَّهِ فِي هَذَا الشَّهْرِ الْعَظِيمِ
-وَاذْكُرُوا بِجُوعِكُمْ وَعَطَشِكُمْ فِيهِ جُوعَ يَوْمِ الْقِيَامَةِ
-وَعَطَشَهُ وَتَصَدَّقُوا عَلَى فُقَرَائِكُمْ وَمَسَاكِينِكُمْ وَ
-قِّرُوا كِبَارَكُمْ وَارْحَمُوا صِغَارَكُمْ وَصِلُوا أَرْحَامَكُمْ
-وَاحْفَظُوا أَلْسِنَتَكُمْ وَغُضُّوا عَمَّا لا يَحِلُّ النَّظَرُ
-إِلَيْهِ أَبْصَارَكُمْ وَعَمَّا لا يَحِلُّ الاسْتَِماعُ إِلَيْهِ
-أَسْمَاعَكُمْ وَتَحَنَّنُوا عَلَى أَيْتَامِ النَّاسِ يُتَحَنَّنْ عَلَى
-أَيْتَامِكُمْ وَتُوبُوا إِلَى اللَّهِ مِنْ ذُنُوبِكُمْ وَارْفَعُوا
-إِلَيْهِ أَيْدِيَكُمْ بِالدُّعَاءِ فِي أَوْقَاتِ صَلَوَاتِكُمْ
-فَإِنَّهَا أَفْضَلُ السَّاعَاتِ يَنْظُرُ اللَّهُ عَزَّ وَجَلَّ فِيهَا
-بِالرَّحْمَةِ إِلَى عِبَادِهِ يُجِيبُهُمْ إِذَا نَاجَوْهُ
-وَيُلَبِّيهِمْ إِذَا نَادَوْهُ وَيَسْتَجِيبُ لَهُمْ إِذَا دَعَوْهُ
-أَيُّهَا النَّاسُ إِنَّ أَنْفُسَكُمْ مَرْهُونَةٌ بِأَعْمَالِكُمْ
-فَفُكُّوهَا بِاسْتِغْفَارِكُمْ وَظُهُورُكُمْ ثَقِيلَةٌ مِنْ
-أَوْزَارِكُمْ فَخَفِّفُوا عَنْهَا بِطُولِ سُجُودِكُمْ وَاعْلَمُوا
-أَنَّ اللَّهَ تَعَالَى ذِكْرُهُ أَقْسَمَ بِعِزَّتِهِ أَنْ لا يُعَذِّبَ
-الْمُصَلِّينَ وَالسَّاجِدِينَ وَأَنْ لا يُرَوِّعَهُمْ بِالنَّارِ
-يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعالَمِينَ أَيُّهَا النَّاسُ مَنْ
-فَطَّرَ مِنْكُمْ صَائِماً مُؤْمِناً فِي هَذَا الشَّهْرِ كَانَ لَهُ
-بِذَلِكَ عِنْدَ اللَّهِ عِتْقُ رَقَبَةٍ وَمَغْفِرَةٌ لِمَا مَضَى مِنْ
-ذُنُوبِهِ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ إِنَّهُ قَدْ أَقْبَلَ إِلَيْكُمْ شَهْرُ اللَّهِ
+> بِالْبَرَكَةِ وَالرَّحْمَةِ وَالْمَغْفِرَةِ شَهْرٌ هُوَعِنْدَ اللَّهِ
+> أَفْضَلُ الشُّهُورِ وَأَيَّامُهُ أَفْضَلُ الأَيَّامِ وَلَيَالِيهِ
+> أَفْضَلُ اللَّيَالِي وَسَاعَاتُهُ أَفْضَلُ السَّاعَاتِ هُوَشَهْرٌ
+> دُعِيتُمْ فِيهِ إِلَى ضِيَافَةِ اللَّهِ وَجُعِلْتُمْ فِيهِ مِنْ أَهْلِ
+> كَرَامَةِ اللَّهِ أَنْفَاسُكُمْ فِيهِ تَسْبِيحٌ وَنَوْمُكُمْ فِيهِ
+> عِبَادَةٌ وَعَمَلُكُمْ فِيهِ مَقْبُولٌ وَدُعَاؤُكُمْ فِيهِ مُسْتَجَابٌ
+> فَسَلُوا اللَّهَ رَبَّكُمْ بِنِيَّاتٍ صَادِقَةٍ وَقُلُوبٍ طَاهِرَةٍ
+> أَنْ يُوَفِّقَكُمْ لِصِيَامِهِ وَتِلاوَةِ كِتَابِهِ فَإِنَّ الشَّقِيَّ
+> مَنْ حُرِمَ غُفْرَانَ اللَّهِ فِي هَذَا الشَّهْرِ الْعَظِيمِ
+> وَاذْكُرُوا بِجُوعِكُمْ وَعَطَشِكُمْ فِيهِ جُوعَ يَوْمِ الْقِيَامَةِ
+> وَعَطَشَهُ وَتَصَدَّقُوا عَلَى فُقَرَائِكُمْ وَمَسَاكِينِكُمْ وَ
+> قِّرُوا كِبَارَكُمْ وَارْحَمُوا صِغَارَكُمْ وَصِلُوا أَرْحَامَكُمْ
+> وَاحْفَظُوا أَلْسِنَتَكُمْ وَغُضُّوا عَمَّا لا يَحِلُّ النَّظَرُ
+> إِلَيْهِ أَبْصَارَكُمْ وَعَمَّا لا يَحِلُّ الاسْتَِماعُ إِلَيْهِ
+> أَسْمَاعَكُمْ وَتَحَنَّنُوا عَلَى أَيْتَامِ النَّاسِ يُتَحَنَّنْ عَلَى
+> أَيْتَامِكُمْ وَتُوبُوا إِلَى اللَّهِ مِنْ ذُنُوبِكُمْ وَارْفَعُوا
+> إِلَيْهِ أَيْدِيَكُمْ بِالدُّعَاءِ فِي أَوْقَاتِ صَلَوَاتِكُمْ
+> فَإِنَّهَا أَفْضَلُ السَّاعَاتِ يَنْظُرُ اللَّهُ عَزَّ وَجَلَّ فِيهَا
+> بِالرَّحْمَةِ إِلَى عِبَادِهِ يُجِيبُهُمْ إِذَا نَاجَوْهُ
+> وَيُلَبِّيهِمْ إِذَا نَادَوْهُ وَيَسْتَجِيبُ لَهُمْ إِذَا دَعَوْهُ
+> أَيُّهَا النَّاسُ إِنَّ أَنْفُسَكُمْ مَرْهُونَةٌ بِأَعْمَالِكُمْ
+> فَفُكُّوهَا بِاسْتِغْفَارِكُمْ وَظُهُورُكُمْ ثَقِيلَةٌ مِنْ
+> أَوْزَارِكُمْ فَخَفِّفُوا عَنْهَا بِطُولِ سُجُودِكُمْ وَاعْلَمُوا
+> أَنَّ اللَّهَ تَعَالَى ذِكْرُهُ أَقْسَمَ بِعِزَّتِهِ أَنْ لا يُعَذِّبَ
+> الْمُصَلِّينَ وَالسَّاجِدِينَ وَأَنْ لا يُرَوِّعَهُمْ بِالنَّارِ
+> يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعالَمِينَ أَيُّهَا النَّاسُ مَنْ
+> فَطَّرَ مِنْكُمْ صَائِماً مُؤْمِناً فِي هَذَا الشَّهْرِ كَانَ لَهُ
+> بِذَلِكَ عِنْدَ اللَّهِ عِتْقُ رَقَبَةٍ وَمَغْفِرَةٌ لِمَا مَضَى مِنْ
+> ذُنُوبِهِ.
 
 *O people, the month of Allah (Ramadhan) has come to you with blessings,
 mercy, and forgiveness. This is the noblest of the months to Him. Its
@@ -887,30 +791,26 @@ The people said, “O Prophet of God, not all of us are able to do that.”
 
 Then, the Holy Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ. إتَّقُوا النَّارَ وَلَوْ
-بِشَرْبَةٍ مِنْ مَاءٍ. أَيُّهَا النَّاسُ مَنْ حَسُنَ مِنْكُمْ فِي
-هَذَا الشَّهْرِ خُلُقُهُ كَانَ لَهُ جَوَازاً عَلَى الصِّرَاطِ يَوْمَ
-تَزِلُّ فِيهِ الأَقْدَامُ وَمَنْ خَفَّفَ فِي هَذَا الشَّهْرِ عَمَّا
-مَلَكَتْ يَمِينُهُ خَفَّفَ اللَّهُ عَلَيْهِ حِسَابَهُ وَمَنْ كَفَّ
-فِيهِ شَرَّهُ كَفَّ اللَّهُ عَنْهُ غَضَبَهُ يَوْمَ يَلْقَاهُ وَمَنْ
-أَكْرَمَ فِيهِ يَتِيماً أَكْرَمَهُ اللَّهُ يَوْمَ يَلْقَاهُ وَمَنْ
-وَصَلَ فِيهِ رَحِمَهُ وَصَلَهُ اللَّهُ بِرَحْمَتِهِ يَوْمَ يَلْقَاهُ
-وَمَنْ قَطَعَ فِيهِ رَحِمَهُ قَطَعَ اللَّهُ عَنْهُ رَحْمَتَهُ يَوْمَ
-يَلْقَاهُ وَمَنْ تَطَوَّعَ فِيهِ بِصَلاةٍ كَتَبَ اللَّهُ لَهُ
-بَرَاءَةً مِنَ النَّارِ وَمَنْ أَدَّى فِيهِ فَرْضاً كَانَ لَهُ ثَوَابُ
-مَنْ أَدَّى سَبْعِينَ فَرِيضَةً فِيَما سِوَاهُ مِنَ الشُّهُورِ وَمَنْ
-أَكْثَرَ فِيهِ مِنَ الصَّلاةِ عَلَيَّ ثَقَّلَ اللَّهُ مِيزَانَهُ
-يَوْمَ تَخِفُّ الْمَوَازِينُ وَمَنْ تَلا فِيهِ آيَةً مِنَ الْقُرْآنِ
-كَانَ لَهُ مِثْلُ أَجْرِ مَنْ خَتَمَ الْقُرْآنَ فِي غَيْرِهِ مِنَ
-الشُّهُورِ. أَيُّهَا النَّاسُ إِنَّ أَبْوَابَ الْجِنَانِ فِي هَذَا
-الشَّهْرِ مُفَتَّحَةٌ فَسَلُوا رَبَّكُمْ أَنْ لا يُغَلِّقَهَا
-عَلَيْكُمْ وَأَبْوَابَ النِّيرَانِ مُغَلَّقَةٌ فَسَلُوا رَبَّكُمْ أَنْ
-لا يُفَتِّحَهَا عَلَيْكُمْ وَالشَّيَاطِينَ مَغْلُولَةٌ فَسَلُوا
-رَبَّكُمْ أَنْ لا يُسَلِّطَهَا عَلَيْكُمْ.
-  </p>
-</blockquote>
+> اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ. إتَّقُوا النَّارَ وَلَوْ
+> بِشَرْبَةٍ مِنْ مَاءٍ. أَيُّهَا النَّاسُ مَنْ حَسُنَ مِنْكُمْ فِي
+> هَذَا الشَّهْرِ خُلُقُهُ كَانَ لَهُ جَوَازاً عَلَى الصِّرَاطِ يَوْمَ
+> تَزِلُّ فِيهِ الأَقْدَامُ وَمَنْ خَفَّفَ فِي هَذَا الشَّهْرِ عَمَّا
+> مَلَكَتْ يَمِينُهُ خَفَّفَ اللَّهُ عَلَيْهِ حِسَابَهُ وَمَنْ كَفَّ
+> فِيهِ شَرَّهُ كَفَّ اللَّهُ عَنْهُ غَضَبَهُ يَوْمَ يَلْقَاهُ وَمَنْ
+> أَكْرَمَ فِيهِ يَتِيماً أَكْرَمَهُ اللَّهُ يَوْمَ يَلْقَاهُ وَمَنْ
+> وَصَلَ فِيهِ رَحِمَهُ وَصَلَهُ اللَّهُ بِرَحْمَتِهِ يَوْمَ يَلْقَاهُ
+> وَمَنْ قَطَعَ فِيهِ رَحِمَهُ قَطَعَ اللَّهُ عَنْهُ رَحْمَتَهُ يَوْمَ
+> يَلْقَاهُ وَمَنْ تَطَوَّعَ فِيهِ بِصَلاةٍ كَتَبَ اللَّهُ لَهُ
+> بَرَاءَةً مِنَ النَّارِ وَمَنْ أَدَّى فِيهِ فَرْضاً كَانَ لَهُ ثَوَابُ
+> مَنْ أَدَّى سَبْعِينَ فَرِيضَةً فِيَما سِوَاهُ مِنَ الشُّهُورِ وَمَنْ
+> أَكْثَرَ فِيهِ مِنَ الصَّلاةِ عَلَيَّ ثَقَّلَ اللَّهُ مِيزَانَهُ
+> يَوْمَ تَخِفُّ الْمَوَازِينُ وَمَنْ تَلا فِيهِ آيَةً مِنَ الْقُرْآنِ
+> كَانَ لَهُ مِثْلُ أَجْرِ مَنْ خَتَمَ الْقُرْآنَ فِي غَيْرِهِ مِنَ
+> الشُّهُورِ. أَيُّهَا النَّاسُ إِنَّ أَبْوَابَ الْجِنَانِ فِي هَذَا
+> الشَّهْرِ مُفَتَّحَةٌ فَسَلُوا رَبَّكُمْ أَنْ لا يُغَلِّقَهَا
+> عَلَيْكُمْ وَأَبْوَابَ النِّيرَانِ مُغَلَّقَةٌ فَسَلُوا رَبَّكُمْ أَنْ
+> لا يُفَتِّحَهَا عَلَيْكُمْ وَالشَّيَاطِينَ مَغْلُولَةٌ فَسَلُوا
+> رَبَّكُمْ أَنْ لا يُسَلِّطَهَا عَلَيْكُمْ.
 
 *Fend off the Fire from yourselves (by providing for the breaking of the
 fast of any believer) even if it be with a piece of a date. Fend off the
@@ -945,12 +845,8 @@ said, ‘O Prophet of Allah, what are the noblest of deeds in this month?’
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا الْحَسَنِ أَفْضَلُ الأَعْمَالِ فِي هَذَا الشَّهْرِ الْوَرَعُ
-عَن مَحَارِمِ اللَّهِ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> يَا أَبَا الْحَسَنِ أَفْضَلُ الأَعْمَالِ فِي هَذَا الشَّهْرِ الْوَرَعُ
+> عَن مَحَارِمِ اللَّهِ عَزَّ وَجَلَّ.
 
 *O Abu’l-Hasan, the noblest of deeds in this month are abstaining from
 what the Honorable and Exalted God has forbidden…*[^39]
@@ -1095,24 +991,16 @@ supplication the most famous formula of which is the following:
 O Allah, For Your sake have I fasted, with Your sustenance have I broken
 my fast, and in You have I trusted.
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ لَكَ صُمْتُ وَعَلَىٰ رِزْقِكَ ا فْطَرْتُ وَعَلَيْكَ
-تَوَكَّلْتُ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ لَكَ صُمْتُ وَعَلَىٰ رِزْقِكَ ا فْطَرْتُ وَعَلَيْكَ
+> تَوَكَّلْتُ.
 
 Upon eating the first bite, it is recommended to say the following:
 
 *In the Name of Allah; the All-beneficent, the All-merciful. O Liberal
 in forgiving: (please) forgive me.*
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ ٱللّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ. يَا وَاسِعَ ٱلْمَغْفِرَةِ
-ٱغْفِرْ لِي.
-  </p>
-</blockquote>
+> بِسْمِ ٱللّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ. يَا وَاسِعَ ٱلْمَغْفِرَةِ
+> ٱغْفِرْ لِي.
 
 Such matters bring about a great reward, such as forgiveness and gaining
 the rewards of all those who have fasted that day.
@@ -1180,23 +1068,15 @@ haste. Glory be to Him Who is vigilant and never forgets one thing over
 another. Glory be to Him Who is alert and steady, never engrossed with a
 thing so as to overlook another.*
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ مَنْ هُوَ حَفِيظٌ لاَ يَغْفُلُ سُبْحَانَ مَنْ هُوَ رَحِيمٌ
-لاَ يَعْجَلُ سُبْحَانَ مَنْ هُوَ قَائِمٌ لاَ يَسْهُو سُبْحَانَ مَنْ
-هُوَ دَائِمٌ لاَ يَلْهُو.
-  </p>
-</blockquote>
+> سُبْحَانَ مَنْ هُوَ حَفِيظٌ لاَ يَغْفُلُ سُبْحَانَ مَنْ هُوَ رَحِيمٌ
+> لاَ يَعْجَلُ سُبْحَانَ مَنْ هُوَ قَائِمٌ لاَ يَسْهُو سُبْحَانَ مَنْ
+> هُوَ دَائِمٌ لاَ يَلْهُو.
 
 After this litany, it is recommended to repeat the following statement
 seven times:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ ٱللّهِ وَٱلْحَمْدُ لِلّهِ وَلاَ إِلٰهَ إِلاَّ ٱللّهُ
-وَٱللّهُ ا كْبَرُ.
-  </p>
-</blockquote>
+> سُبْحَانَ ٱللّهِ وَٱلْحَمْدُ لِلّهِ وَلاَ إِلٰهَ إِلاَّ ٱللّهُ
+> وَٱللّهُ ا كْبَرُ.
 
 *All glory be to Allah, all praise be to Allah, there is no god save
 Allah, and Allah is the Greatest.*
@@ -1206,12 +1086,8 @@ After that, it is recommended to say the following supplication once:
 Glory be to You, Glory be to You, Glory be to You. O All-Great, forgive
 my grave sins.
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَكَ سُبْحَانَكَ سُبْحَانَكَ. يَا عَظِيمُ ٱغْفِرْ لِيَ
-ٱلذَّنْبَ ٱلْعَظِيمَ.
-  </p>
-</blockquote>
+> سُبْحَانَكَ سُبْحَانَكَ سُبْحَانَكَ. يَا عَظِيمُ ٱغْفِرْ لِيَ
+> ٱلذَّنْبَ ٱلْعَظِيمَ.
 
 Then, it is recommended to invoke blessings upon the Holy Prophet and
 his Household ten times:
@@ -1219,11 +1095,7 @@ his Household ten times:
 *O Allah, (please do) send blessings upon Muhammad and upon his
 Household.*
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِهِ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِهِ.
 
 About this prayer, Shaykh al-Kaf’ami has mentioned that whoever offers
 it will have seventy thousand of his sins forgiven by Almighty
@@ -1260,12 +1132,8 @@ the last hour of night, he used to say the following supplication:
 *O Allah, do not discipline me by means of Your punishment and do not
 subject me to Your planned strategy…*
 
-<blockquote dir="rtl">
-  <p>
-إِلٰهِي لاَ تُؤَدِّبْنِي بِعُقُوبَتِكَ وَلاَ تَمْكُرْ بِي فِي
-حِيلَتِكَ…
-  </p>
-</blockquote>
+> إِلٰهِي لاَ تُؤَدِّبْنِي بِعُقُوبَتِكَ وَلاَ تَمْكُرْ بِي فِي
+> حِيلَتِكَ…
 
 Very long, eloquent, refined in style and composition, this supplication
 holds highly considerable contents and a variety of diction. It plays a
@@ -1293,12 +1161,8 @@ A set of texts and supplicatory formulas have been reported to be said
 during the daytime of Ramadhan. The most important of these is the
 supplication that begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ هٰذَا شَهْرُ رَمَضَانَ ٱلَّذِي اَنْزَلْتَ فِيهِ القُرْآنَ
-هُدَىً لِلنَّاسِ وَبَيِّنَاتٍ مِنَ ٱلْهُدَىٰ وَٱلفُرْقَانِ…
-  </p>
-</blockquote>
+> اَللَّهُمَّ هٰذَا شَهْرُ رَمَضَانَ ٱلَّذِي اَنْزَلْتَ فِيهِ القُرْآنَ
+> هُدَىً لِلنَّاسِ وَبَيِّنَاتٍ مِنَ ٱلْهُدَىٰ وَٱلفُرْقَانِ…
 
 *O Allah, this is the month of Ramadhan in which You revealed the
 Qur'an, guidance for humankind and clear proofs of true guidance and
@@ -1329,13 +1193,9 @@ invoking Almighty Allah’s blessings upon the Holy Prophet and his
 Household, as well as praising and commending them, to be said every day
 in Ramadhan. This invocation begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-{إِنَّ ٱللّهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَىٰ ٱلنَّبِيِّ يَا
-اَيُّهَا ٱلَّذِينَ آمَنُوٱ صَلُّوٱ عَلَيْهِ وَسَلِّمُوٱ تَسْلِيماً.}
-لَبَّيْكَ يَا رَبِّ وَسَعْدَيْكَ وَسُبْحَانَكَ…
-  </p>
-</blockquote>
+> {إِنَّ ٱللّهَ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَىٰ ٱلنَّبِيِّ يَا
+> اَيُّهَا ٱلَّذِينَ آمَنُوٱ صَلُّوٱ عَلَيْهِ وَسَلِّمُوٱ تَسْلِيماً.}
+> لَبَّيْكَ يَا رَبِّ وَسَعْدَيْكَ وَسُبْحَانَكَ…
 
 *“Verily, Allah and His angels send blessings upon the Prophet, O you
 who believe, call for Divine blessings on him and salute him with a
@@ -1401,12 +1261,8 @@ night of Ramadhan. One of these is the supplication reported by Ibn
 Tawus from Imam al-Jawad (‘a). This supplication begins with the
 following statement:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ يَا مَنْ يَمْلِكُ ٱلتَّدْبِيرَ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ
-قَدِيرٌ.
-  </p>
-</blockquote>
+> اللَّهُمَّ يَا مَنْ يَمْلِكُ ٱلتَّدْبِيرَ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ
+> قَدِيرٌ.
 
 *O Allah, O He Who controls the management of all affairs, and has power
 over all things!*
@@ -1424,12 +1280,8 @@ others have reported through a valid chain of authority that Imam
 al-Kazim (‘a) used to say a special supplication on the first of
 Ramadhan. This supplication begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي اَسْئَلُكَ بِٱسْمِكَ ٱلَّذِي دَانَ لَهُ كُلُّ شَيْءٍ
-وَبِرَحْمَتِكَ ٱلَّتِي وَسِعَتْ كُلَّ شَيْءٍ…
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي اَسْئَلُكَ بِٱسْمِكَ ٱلَّذِي دَانَ لَهُ كُلُّ شَيْءٍ
+> وَبِرَحْمَتِكَ ٱلَّتِي وَسِعَتْ كُلَّ شَيْءٍ…
 
 *O Allah I beseech You, in the name of Your name before which everything
 kneels down and in the name of Your mercy which encompasses
@@ -1472,12 +1324,8 @@ nights. For each night, a special supplication has been reported in
 addition to other supplications that are common to the ten nights. One
 of these is the supplication that begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ إِنَّكَ قُلْتَ فِي كِتَابِكَ ٱلْمُنْزَلِ: ”شَهْرُ رَمَضَانَ
-ٱلَّذِي اُنزِلَ فِيهِ ٱلْقُرْآنُ“…
-  </p>
-</blockquote>
+> اَللّهُمَّ إِنَّكَ قُلْتَ فِي كِتَابِكَ ٱلْمُنْزَلِ: ”شَهْرُ رَمَضَانَ
+> ٱلَّذِي اُنزِلَ فِيهِ ٱلْقُرْآنُ“…
 
 *O Allah, You have said in Your revealed Book: “The month of Ramadhan in
 which the Qur'an was revealed…”*
@@ -1485,13 +1333,9 @@ which the Qur'an was revealed…”*
 On the twenty-seventh night, it is recommended to take the ritual bath
 and to repeat the following supplication throughout the night:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ ٱرْزُقْنِي ٱلتَّجَافِيَ عَنْ دَارِ ٱلْغُرُورِ وَٱلإِنَابَةَ
-إِلَىٰ دَارِ ٱلْخُلُودِ وَٱلاِسْتِعدَادَ لِلْمَوْتِ قَبْلَ حُلُولِ
-ٱلْفَوتِ.
-  </p>
-</blockquote>
+> اللَّهُمَّ ٱرْزُقْنِي ٱلتَّجَافِيَ عَنْ دَارِ ٱلْغُرُورِ وَٱلإِنَابَةَ
+> إِلَىٰ دَارِ ٱلْخُلُودِ وَٱلاِسْتِعدَادَ لِلْمَوْتِ قَبْلَ حُلُولِ
+> ٱلْفَوتِ.
 
 *O Allah, (please) provide me with alienation from the abode of
 delusion, turning to the abode of eternity, and readiness for death
@@ -1513,13 +1357,9 @@ bidding this month farewell, have been reported:
 forty-fifth supplication of *al-Sahifah al-Sajjadiyyah* and the
 following one reported from Imam al-Sadiq (‘a):
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ لاَ تَجْعَلْهُ آخِرَ ٱلْعَهْدِ من صِيَامِي لِشَهْرِ
-رَمَضَانَ وَاَعُوذُ بِكَ اَنْ يَطْلُعَ فَجْرُ هٰذِهِ ٱللَّيْلَةِ
-إِلاَّ وَقَدْ غَفَرْتَ لِي.
-  </p>
-</blockquote>
+> اللَّهُمَّ لاَ تَجْعَلْهُ آخِرَ ٱلْعَهْدِ من صِيَامِي لِشَهْرِ
+> رَمَضَانَ وَاَعُوذُ بِكَ اَنْ يَطْلُعَ فَجْرُ هٰذِهِ ٱللَّيْلَةِ
+> إِلاَّ وَقَدْ غَفَرْتَ لِي.
 
 *O Allah, (please) do not determine my observance of fasting in this
 month of Ramadhan to be the last of my observances of fasting. I seek
@@ -1551,23 +1391,15 @@ In this respect, Shaykh al-Kulayni has reported through a valid chain of
 authority that ‘Abdullah ibn Yahya al-Kahili heard Imam al-Sadiq (‘a)
 quoting the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ أَحَدُ الْجِهَادَيْنِ، هُوَ جِهَادُ الضُّعَفَاءِ.
-  </p>
-</blockquote>
+> هُوَ أَحَدُ الْجِهَادَيْنِ، هُوَ جِهَادُ الضُّعَفَاءِ.
 
 *Hajj is one of the two jihads. It is the jihad of the weak.*
 
 Commenting on this saying, Imam al-Sadiq (‘a) says:
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ الضُّعَفَاءُ. أَمَا إِنَّهُ لَيْسَ شَيْءٌ أَفْضَلَ مِنَ
-الْحَجِّ إِلاَّ الصَّلاَةَ، وَفِي الْحَجِّ هَهُنَا صَلاَةٌ وَلَيْسَ
-فِي الصَّلاَةِ قَبْلَكُمْ حَجٌّ.
-  </p>
-</blockquote>
+> وَنَحْنُ الضُّعَفَاءُ. أَمَا إِنَّهُ لَيْسَ شَيْءٌ أَفْضَلَ مِنَ
+> الْحَجِّ إِلاَّ الصَّلاَةَ، وَفِي الْحَجِّ هَهُنَا صَلاَةٌ وَلَيْسَ
+> فِي الصَّلاَةِ قَبْلَكُمْ حَجٌّ.
 
 *We are the weak. Verily, there is nothing better than Hajj except the
 ritual prayer; however, there is prayer in the Hajj but there is no Hajj
@@ -1576,11 +1408,7 @@ in the prayer.*[^61]
 *Hajj* is also the support of the religion and the foundation of its
 existence. It is thus reported:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَزَالُ الدِّينُ قَائِماً مَا قَامَتِ الْكَعْبَةُ.
-  </p>
-</blockquote>
+> لاَ يَزَالُ الدِّينُ قَائِماً مَا قَامَتِ الْكَعْبَةُ.
 
 *This religion is kept existent as long as the Ka’bah is still
 standing.*[^62]
@@ -1593,13 +1421,9 @@ of Prophet Abraham (‘a).
 In this regard, Shaykh al-Kulayni, through a valid chain of authority,
 has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا أَفَاضَ آدَمُ مِنْ مِنَى تَلَقَّتْهُ الْمَلاَئِكَةُ فَقَالَتْ:
-يَا آدَمُ، بُرَّ حَجَّكَ. أَمَا إِنَّا قَدْ حَجَجْنَا هَذَا الْبَيْتَ
-قَبْلَ أَنْ تَحُجَّهُ بِأَلْفَيْ عَامٍ.
-  </p>
-</blockquote>
+> لَمَّا أَفَاضَ آدَمُ مِنْ مِنَى تَلَقَّتْهُ الْمَلاَئِكَةُ فَقَالَتْ:
+> يَا آدَمُ، بُرَّ حَجَّكَ. أَمَا إِنَّا قَدْ حَجَجْنَا هَذَا الْبَيْتَ
+> قَبْلَ أَنْ تَحُجَّهُ بِأَلْفَيْ عَامٍ.
 
 *When Adam (‘a) returned from Mina (as a ritual practice), he was
 received by the angels who said to him, “Make lawful your Hajj, for we
@@ -1609,20 +1433,16 @@ you.”*[^63]
 Through another valid chain of authority, Shaykh al-Kulayni has reported
 Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا أُمِرَ إِبْرَاهِيمُ وَإِسْمَاعِيلُ عَلَيْهِمَا السَّلاَمُ
-بِبِنَاءِ الْبَيْتِ وَتَمَّ بِنَاؤُهُ، قَعَدَ إِبْرَاهِيمُ عَلَى
-رُكْنٍ ثُمَّ نَادَى: هَلُمَّ الْحَجَّ. فَلَوْ نَادَى هَلُمُّوا إِلَى
-الْحَجِّ لَمْ يَحِجَّ إِلاَّ مَنْ كَانَ يَوْمَئِذٍ إِنْسِيَّاً
-مَخْلُوقاً، وَلَكِنَّهُ نَادَى: هَلُمَّ الْحَجَّ. فَلَبَّى النَّاسُ
-فِي أَصْلاَبِ الرِّجَالِ: لَبَّيْكَ دَاعِيَ اللهِ عَزَّ وَجَلَّ.
-لَبَّيْكَ دَاعِيَ اللهِ. فَمَنْ لَبَّى عَشْراً يَحِجَّ عَشْراً، وَمَنْ
-لَبَّى خَمْساً يِحِجَّ خَمْساً، وَمَنْ لَبَّى أَكْثَرَ مِنْ ذَلِكَ
-فَبِعَدَدِ ذَلِكَ، وَمَنْ لَبَّى وَاحِداً حَجَّ وَاحِداً، وَمَنْ لَمْ
-يُلَبِّ لَمْ يَحِجَّ.
-  </p>
-</blockquote>
+> لَمَّا أُمِرَ إِبْرَاهِيمُ وَإِسْمَاعِيلُ عَلَيْهِمَا السَّلاَمُ
+> بِبِنَاءِ الْبَيْتِ وَتَمَّ بِنَاؤُهُ، قَعَدَ إِبْرَاهِيمُ عَلَى
+> رُكْنٍ ثُمَّ نَادَى: هَلُمَّ الْحَجَّ. فَلَوْ نَادَى هَلُمُّوا إِلَى
+> الْحَجِّ لَمْ يَحِجَّ إِلاَّ مَنْ كَانَ يَوْمَئِذٍ إِنْسِيَّاً
+> مَخْلُوقاً، وَلَكِنَّهُ نَادَى: هَلُمَّ الْحَجَّ. فَلَبَّى النَّاسُ
+> فِي أَصْلاَبِ الرِّجَالِ: لَبَّيْكَ دَاعِيَ اللهِ عَزَّ وَجَلَّ.
+> لَبَّيْكَ دَاعِيَ اللهِ. فَمَنْ لَبَّى عَشْراً يَحِجَّ عَشْراً، وَمَنْ
+> لَبَّى خَمْساً يِحِجَّ خَمْساً، وَمَنْ لَبَّى أَكْثَرَ مِنْ ذَلِكَ
+> فَبِعَدَدِ ذَلِكَ، وَمَنْ لَبَّى وَاحِداً حَجَّ وَاحِداً، وَمَنْ لَمْ
+> يُلَبِّ لَمْ يَحِجَّ.
 
 *When the construction of the House was completed by Abraham (‘a) and
 Ishmael (‘a) by the command of Almighty Allah, Abraham (‘a) sat in a
@@ -1728,12 +1548,8 @@ clothes and put on two unstitched pieces of cloth worn as shirt and
 apron. Then, the pilgrim utters the statement of *Talbiyah* (i.e.
 responding to the call of *Hajj*), which is in the following form:
 
-<blockquote dir="rtl">
-  <p>
-لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ. لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ.
-إنَّ الْحَمدَ وَالنِّعْمَةَ لكَ والْمُلْكَ. لاَ شَرِيكَ لَكَ.
-  </p>
-</blockquote>
+> لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ. لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ.
+> إنَّ الْحَمدَ وَالنِّعْمَةَ لكَ والْمُلْكَ. لاَ شَرِيكَ لَكَ.
 
 *Here I am responding to You, O Allah, here I am. Here I am, You have no
 partner, here I am. Surely, praise, grace, and kingship are Yours. You
@@ -1909,14 +1725,10 @@ Imam al-Ridha (‘a) has said:
 > أَكْثَرَ مِنْ ذَلِكَ. قِيلَ، لأَِنَّ اللَّهَ عَزَّ وَجَلَّ وَضَعَ
 > الْفَرَائِضَ عَلَى أَدْنَى الْقَوْمِ قُوَّةً كَمَا قَالَ عَزَّ
 > وَجَلَّ: "لِيَشْهَدُوا مَنَافِعَ لَهُمْ" (28) يَعْنِي شَاةً لِيَسَعَ
-<blockquote dir="rtl">
-  <p>
-لَهُ الْقَوِيُّ وَالضَّعِيفُ وَكَذَلِكَ سَائِرُ الْفَرَائِضِ إِنَّمَا
-وُضِعَتْ عَلَى أَدْنَى الْقَوْمِ قُوَّةً وَكَانَ مِنْ تِلْكَ
-الْفَرَائِضِ الْحَجُّ الْمَفْرُوضُ وَاحِداً ثُمَّ رَغَّبَ بَعْدُ
-أَهْلَ الْقُوَّةِ بِقَدْرِ طَاقَتِهِمْ.
-  </p>
-</blockquote>
+> لَهُ الْقَوِيُّ وَالضَّعِيفُ وَكَذَلِكَ سَائِرُ الْفَرَائِضِ إِنَّمَا
+> وُضِعَتْ عَلَى أَدْنَى الْقَوْمِ قُوَّةً وَكَانَ مِنْ تِلْكَ
+> الْفَرَائِضِ الْحَجُّ الْمَفْرُوضُ وَاحِداً ثُمَّ رَغَّبَ بَعْدُ
+> أَهْلَ الْقُوَّةِ بِقَدْرِ طَاقَتِهِمْ.
 
 *…If he asks, ‘Why have we been ordered to go on the Hajj pilgrimage?”
 It is said: This is because it is a form of going towards Allah the
@@ -2006,12 +1818,8 @@ forty years and you have always given me answers.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-بَيْتٌ حُجَّ إِلَيْهِ قَبْلَ آدَمَ بِأَلْفَيْ عَامٍ تُرِيدُ أَنْ
-تُفْنِيَ مَسَائِلَهُ فِي أَرْبَعِينَ عَاماً؟
-  </p>
-</blockquote>
+> بَيْتٌ حُجَّ إِلَيْهِ قَبْلَ آدَمَ بِأَلْفَيْ عَامٍ تُرِيدُ أَنْ
+> تُفْنِيَ مَسَائِلَهُ فِي أَرْبَعِينَ عَاماً؟
 
 *A house to which pilgrimages were made two thousand years before the
 creation of Adam (‘a)—do you expect that you can learn all about it in
@@ -2115,15 +1923,11 @@ Holy Prophet (S) and Imams (‘a) as perfection and completion of the
 ritual *Hajj*. Many traditions declare and confirm this fact openly. In
 this connection, Imam al-Ridha (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِكُلِّ إِمَامٍ عَهْداً فِي عُنُقِ أَوْلِيَاءِهِ وَشِيعَتِهِ،
-وَإِنَّ مِنْ تَمَامِ الْوَفَاءِ بِالْعَهْدِ وَحُسْنِ الأَدَاءِ
-زِيَارَةَ قُبُورِهِمْ. فَمَنْ زَارَهُمْ رَغْبَةً فِي زِيَارَتِهِمْ
-وَتَصْدِيقاً بِمَا رَغِبُوا فِيهِ كَانَ أَئِمَّتُهُمْ شُفَعَاءَهُمْ
-يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> إِنَّ لِكُلِّ إِمَامٍ عَهْداً فِي عُنُقِ أَوْلِيَاءِهِ وَشِيعَتِهِ،
+> وَإِنَّ مِنْ تَمَامِ الْوَفَاءِ بِالْعَهْدِ وَحُسْنِ الأَدَاءِ
+> زِيَارَةَ قُبُورِهِمْ. فَمَنْ زَارَهُمْ رَغْبَةً فِي زِيَارَتِهِمْ
+> وَتَصْدِيقاً بِمَا رَغِبُوا فِيهِ كَانَ أَئِمَّتُهُمْ شُفَعَاءَهُمْ
+> يَوْمَ الْقِيَامَةِ.
 
 *The disciples and followers of every Imam (‘a) are connected to him
 with a binding covenant that they must fulfill. Among the items of an
@@ -2134,27 +1938,19 @@ intercede for that person on the Day of Resurrection.*[^77]
 
 Isma’il ibn Mahran has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا حَجَّ أَحَدُكُمْ فَلْيَخْتِمْ حَجَّهُ بِزِيَارَتِنَا; لأَِنَّ
-ذَلِكَ مِنْ تَمَامِ الْحَجِّ.
-  </p>
-</blockquote>
+> إِذَا حَجَّ أَحَدُكُمْ فَلْيَخْتِمْ حَجَّهُ بِزِيَارَتِنَا; لأَِنَّ
+> ذَلِكَ مِنْ تَمَامِ الْحَجِّ.
 
 *Any one of you who goes on Hajj must conclude his Hajj by visiting us
 because this is the finalization of Hajj.*[^78]
 
 Imam ‘Ali, the Commander of the Faithful (‘a), is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَتِمُّوا بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ حَجَّكُمْ
-إِذَا خَرَجْتُمْ إِلَى بَيْتِ اللهِ; فَإِنَّ تَرْكَهُ جَفَاءٌ
-وَبِذَلِكَ أُمِرْتُمْ، وَأَتِمُّوا بِالْقُبُورِ الَّتِي أَلْزَمَكُمُ
-اللهُ عَزَّ وَجَلَّ زِيَارَتَهَا وَحَقَّهَا، وَاطْلُبُوا الرِّزْقَ
-عِنْدَهَا.
-  </p>
-</blockquote>
+> أَتِمُّوا بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ حَجَّكُمْ
+> إِذَا خَرَجْتُمْ إِلَى بَيْتِ اللهِ; فَإِنَّ تَرْكَهُ جَفَاءٌ
+> وَبِذَلِكَ أُمِرْتُمْ، وَأَتِمُّوا بِالْقُبُورِ الَّتِي أَلْزَمَكُمُ
+> اللهُ عَزَّ وَجَلَّ زِيَارَتَهَا وَحَقَّهَا، وَاطْلُبُوا الرِّزْقَ
+> عِنْدَهَا.
 
 *When you go on pilgrimage to the House of Allah, finalize your Hajj by
 visiting the Messenger of Allah (S) because to avoid doing this is a
@@ -2166,11 +1962,7 @@ them. Seek sustenance at these tombs.*[^79]
 In *al-Kafi*, Shaykh al-Kulayni has reported Imam al-Baqir (‘a) as
 saying
 
-<blockquote dir="rtl">
-  <p>
-تَمَامُ الْحَجِّ لِقَاءُ الإِمَامِ.
-  </p>
-</blockquote>
+> تَمَامُ الْحَجِّ لِقَاءُ الإِمَامِ.
 
 *The acme of Hajj is to visit the Imam (‘a).*[^80]
 
@@ -2421,5 +2213,4 @@ pilgrims forget them.
 [^79]: - \`Allamah al-Majlisi, Bihar al-Anwar 97:139, H. 2.
 
 [^80]: - Shaykh al-Kulayni, al-Kafi 4:549, H. 2.
-
 

@@ -72,4 +72,3 @@ another, “The Trustworthy One has arrived.”
 
 [^2]: Nasikh at-Tawarikh, vol. 2, p. 159.
 
-

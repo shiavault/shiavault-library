@@ -98,4 +98,3 @@ S. M. Rizvi
  Jamadi II 1410  
  January 1990
 
-

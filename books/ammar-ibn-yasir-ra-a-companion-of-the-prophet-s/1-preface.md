@@ -219,4 +219,3 @@ the Holy Prophet of Islam.
 
 Publishers
 
-

@@ -77,11 +77,7 @@ Allah (SwT) and are a way for us to gain guidance.
 
 Imam Musa b. Ja’far al-Kadhim (as) once told Harun al-Rashid:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَا تَرَاهُ فَهُوَ لَكَ عِظَةٌ     
-  </p>
-</blockquote>
+> كُلُّ مَا تَرَاهُ فَهُوَ لَكَ عِظَةٌ
 
 “Everything that you see around you is a lesson (which you can learn
 from).”
@@ -118,5 +114,4 @@ al-Husayn as-Sajjad (as) and that we do not seek to remove ourselves
 from the responsibility which Allah (SwT) has placed over us!
 
 [^1]: Bihar al-Anwar, vol. 75, pg. 153
-
 

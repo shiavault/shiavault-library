@@ -58,4 +58,3 @@ al-Ta’rīkh, vol. 4, p. 116.
 
 [^6]: Ibn Sa‘d, Tabaqāt, vol. 5, p. 48.
 
-

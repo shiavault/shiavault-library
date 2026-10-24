@@ -26,7 +26,6 @@ hypocrites, to keep their vision acute and dismiss the outward aspect of
 things, two things with which the Shi\`ah community is now sorely
 afflicted.
 
-
 The End
 
 **Notes:**

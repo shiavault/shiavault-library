@@ -98,4 +98,3 @@ Finally Imam Ali (as) was murdered at Kufa mosque and Muawiya was given
 access to rule the whole country. The circumstances in which Muawiya
 assumed power will be discussed promptly.
 
-

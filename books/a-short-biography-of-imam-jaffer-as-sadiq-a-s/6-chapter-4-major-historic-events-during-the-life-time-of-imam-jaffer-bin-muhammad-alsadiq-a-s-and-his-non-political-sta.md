@@ -181,4 +181,3 @@ the messenger to tell Abu Salma what he saw.
 Abu Salma had no choice but to support Saffah's claim to the
 Caliphate.
 
-

@@ -74,12 +74,8 @@ authorized to nominate anyone to this position if they desire and to
 depose anyone they do not like from this position and thus remain
 without an Imam, because:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَلَمْ يَعْرِفْ إمَامَ زَمَانِهِ مَاتَ مِيتَةً
-جَاهِلِيَّةً.
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَلَمْ يَعْرِفْ إمَامَ زَمَانِهِ مَاتَ مِيتَةً
+> جَاهِلِيَّةً.
 
 He who dies without recognition of the Imam of his time has in fact died
 just like the ignorant ones who died before accepting Islam.([^2])
@@ -99,19 +95,11 @@ cave([^4]) or in the col,([^5]) it is acceptable for the Imam to absent
 himself from view, be his occultation long or short, according to
 reason. Almighty Allah has said in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***And there is a guide for every people*****. (13/7)**
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
-  </p>
-</blockquote>
+> وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
 
 ***There is not a nation but a warner has passed among them.***
 **(35/24)**
@@ -155,11 +143,7 @@ fail to hit it, without reason-based proofs or instructions of mentors.
 The knowledge of an *imam* can however be increased and intensified. As
 a result, the Holy Prophet (s) used to pray to Almighty Allah saying,
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ زِدْنِي عِلْمًا
-  </p>
-</blockquote>
+> رَّبِّ زِدْنِي عِلْمًا
 
 ***O Lord, increase my knowledge! (20:114)*** ([^7])
 
@@ -224,12 +208,8 @@ just as the stars are the cause of security for the inhabitants of the
 heavens,([^11]) as is expressed by the Holy Prophet (s) who has further
 demonstrated their positions by saying,
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ أهْلِ بَيْتِي فِي هَذِهِ الأمَّةِ كَسَفِينَةِ نُوحٍ؛ مَنْ
-رَكِبَهَا نَجَا، وَمَنْ تَخَلَّفَ عَنْهَا غَرِقَ وَهَوَى.
-  </p>
-</blockquote>
+> مَثَلُ أهْلِ بَيْتِي فِي هَذِهِ الأمَّةِ كَسَفِينَةِ نُوحٍ؛ مَنْ
+> رَكِبَهَا نَجَا، وَمَنْ تَخَلَّفَ عَنْهَا غَرِقَ وَهَوَى.
 
 The likeness of my Household in this nation is the Ark of Noah;
 whosoever embarked upon it was saved, but whoever turned away from it
@@ -237,12 +217,8 @@ was drowned.([^12])
 
 As for the Glorious Qur'an, it has described them, saying:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ عِبَادٌ مُكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ
-بِأَمْرِهِ يَعْمَلُونَ
-  </p>
-</blockquote>
+> بَلْ عِبَادٌ مُكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ
+> بِأَمْرِهِ يَعْمَلُونَ
 
 ***[They are] honored servants who speak not until He has spoken and act
 by His Command.*** **(21/26-7)**
@@ -307,15 +283,11 @@ the genuine resources of the Divinely revealed laws of the religion
 after the Holy Prophet (s); at least on account of his authentically
 reported following statement:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي قَدْ تَرَكْتُ فِيكُمْ مَا إنْ تَمَسَّكْتُمْ بِهِ لَنْ تَضِلُّوا
-بَعْدِي أبَداً؛ الثَّقَلَيْنِ، وَأَحَدُهُمَا أكْبَرُ مِنَ الآخَرِ:
-كِتَابَ اللهِ، حَبْلٌ مَمْدُودٌ مِنَ السَّمَاءِ إلَى الأرْضِ،
-وَعِتْرَتِي أهْلَ بَيْتِي. ألاَ وَإنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى
-يَرِدَا عَلَيَّ الْحَوْضَ.
-  </p>
-</blockquote>
+> إنِّي قَدْ تَرَكْتُ فِيكُمْ مَا إنْ تَمَسَّكْتُمْ بِهِ لَنْ تَضِلُّوا
+> بَعْدِي أبَداً؛ الثَّقَلَيْنِ، وَأَحَدُهُمَا أكْبَرُ مِنَ الآخَرِ:
+> كِتَابَ اللهِ، حَبْلٌ مَمْدُودٌ مِنَ السَّمَاءِ إلَى الأرْضِ،
+> وَعِتْرَتِي أهْلَ بَيْتِي. ألاَ وَإنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى
+> يَرِدَا عَلَيَّ الْحَوْضَ.
 
 Verily, I am leaving among you that which shall forever save you from
 straying off [the straight path of the religion] as long as you hold
@@ -363,12 +335,8 @@ Love for the Ahl al-Bayt
 
 Almighty Allah says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***Say (O Muhammad, unto mankind): I do not ask for any wages for this
 except uncontaminated love and respect for my kinsfolk.*** **(42/23)**
@@ -381,13 +349,9 @@ clearly demanded the people’s love for them.([^18])
 
 The Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ أهْلِ بَيْتِي عَلاَمَةُ الإيمَانِ، وَبُغْضُهُمْ عَلاَمَةُ
-النِّفَاقِ. مَنْ أحَبَّهُمْ أحَبَّ اللهَ وَرَسُولَهُ، وَمَنْ
-أبْغَضَهُمْ أبْغَضَ اللهَ وَرَسُولَهُ.
-  </p>
-</blockquote>
+> حُبُّ أهْلِ بَيْتِي عَلاَمَةُ الإيمَانِ، وَبُغْضُهُمْ عَلاَمَةُ
+> النِّفَاقِ. مَنْ أحَبَّهُمْ أحَبَّ اللهَ وَرَسُولَهُ، وَمَنْ
+> أبْغَضَهُمْ أبْغَضَ اللهَ وَرَسُولَهُ.
 
 Love for my Household is a sign of belief, and to show enmity towards
 them is a sign of hypocrisy.([^19]) Whosoever loves them has in fact
@@ -438,11 +402,7 @@ The Holy Imams
 Concerning our belief in our Holy Imams (\`a), we do not imitate the
 Extremists (*ghulat*) and the Immanentists (*hululiyyun*):
 
-<blockquote dir="rtl">
-  <p>
-كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ
-  </p>
-</blockquote>
+> كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ
 
 ***A monstrous word it is, issuing from mouths.*** **(18:5)**
 
@@ -462,14 +422,10 @@ Qur'an as needed by people.
 
 In this respect, our Imam, Ja\`far al-Sadiq (\`a), says:
 
-<blockquote dir="rtl">
-  <p>
-مَا جَاءَكُمْ عَنّا مِمَّا يَجُوزُ أنْ يَكُونَ فِي المَخْلُوقِينَ
-وَلَمْ تَعْلَمُوهُ وَلَمْ تَفْهَمُوهُ فَلاَ تَجْحَدُوهُ، وَرُدُّوهُ
-إلَيْنَا. وَمَا جَاءَكُمْ عَنَّا مِمَّا لاَ يَجُوزُ أنْ يَكُونَ فِي
-المَخْلُوقِينَ فَاجْحَدُوهُ وَلاَ تَرُدُّوهُ إلَيْنَا.
-  </p>
-</blockquote>
+> مَا جَاءَكُمْ عَنّا مِمَّا يَجُوزُ أنْ يَكُونَ فِي المَخْلُوقِينَ
+> وَلَمْ تَعْلَمُوهُ وَلَمْ تَفْهَمُوهُ فَلاَ تَجْحَدُوهُ، وَرُدُّوهُ
+> إلَيْنَا. وَمَا جَاءَكُمْ عَنَّا مِمَّا لاَ يَجُوزُ أنْ يَكُونَ فِي
+> المَخْلُوقِينَ فَاجْحَدُوهُ وَلاَ تَرُدُّوهُ إلَيْنَا.
 
 Whatsoever, which is possible for the creatures to hold, is reported to
 you about us, but you have had no previous idea about it or you have not
@@ -506,13 +462,9 @@ that day in *Ghadir Khumm* (known as the *Ghadir* Day), appointed Imam
 \`Ali (\`a) to the position of the next leadership and ordered the
 attendants to pay homage to him as their next leader. He thus said:
 
-<blockquote dir="rtl">
-  <p>
-ألاَ، مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ. اَللَّهُمَّ
-وَالِ مَنْ وَالاَهُ، وَعَادِ مَنْ عَادَاهُ، وَانْصُرْ مَنْ نَصَرَهُ،
-وَاخْذُلْ مَنْ خَذَلَهُ، وَأدِرِ الحَقَّ مَعَهُ كَيْفَمَا دَارَ.
-  </p>
-</blockquote>
+> ألاَ، مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ. اَللَّهُمَّ
+> وَالِ مَنْ وَالاَهُ، وَعَادِ مَنْ عَادَاهُ، وَانْصُرْ مَنْ نَصَرَهُ،
+> وَاخْذُلْ مَنْ خَذَلَهُ، وَأدِرِ الحَقَّ مَعَهُ كَيْفَمَا دَارَ.
 
 Behold! \`Ali is (now) the master of everyone who has regarded me as his
 master. O Allah! (please do) support whoever supports \`Ali; and be the
@@ -525,12 +477,8 @@ the Holy Prophet (s) declared the leadership (Imamate) of Imam \`Ali
 (\`a) was when the Holy Prophet (s) invited his nearest relatives and
 members of his clan and declared the following before all of them:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ هَذَا أخِي، وَوَصِيِّي، وَخَلِيفَتِي مِنْ بَعْدِي؛ فَاسْمَعُوا
-لَهُ وَأطِيعُوا.
-  </p>
-</blockquote>
+> إنَّ هَذَا أخِي، وَوَصِيِّي، وَخَلِيفَتِي مِنْ بَعْدِي؛ فَاسْمَعُوا
+> لَهُ وَأطِيعُوا.
 
 Verily, this (\`Ali) is my brother, my successor, and my vicegerent
 after me. You must then listen to him and obey him.([^25])
@@ -541,12 +489,8 @@ not yet come of age.
 On many other occasions, the Holy Prophet (s) repeated the following
 statement:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ، أنْتَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إلاَّ
-أنَّهُ لاَ نَبِيَّ بَعْدِي.
-  </p>
-</blockquote>
+> يَا عَلِيُّ، أنْتَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى، إلاَّ
+> أنَّهُ لاَ نَبِيَّ بَعْدِي.
 
 O \`Ali! Your position in relation to me is the same as (Prophet)
 Aaron’s position in relation to (Prophet) Moses except that no Prophet
@@ -556,12 +500,8 @@ Besides, many holy Qur'anic verses and traditions have confirmed the
 general leadership of Imam \`Ali (\`a), such as the following holy
 verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Only Allah is your Guardian, and His Messenger, and those who
 believe—those who keep up prayers and pay the poor-rate while they
@@ -769,12 +709,8 @@ desire a third resurrection through which they will wish to perhaps act
 righteously and make amends. Reporting their desire, the Holy Qur'an
 says:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
-فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِنْ سَبِيلٍ
-  </p>
-</blockquote>
+> قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
+> فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِنْ سَبِيلٍ
 
 ***[They will say:] Our Lord! Thou hast caused us to die two deaths, and
 Thou hast given us twice to live; now we confess our sins. Is there any
@@ -813,12 +749,8 @@ dead to life even though the miracle of the Return is more profound,
 because it represents the resurrection of dead persons after their
 bodies have become dust:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي
-أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي
+> أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
 ***Says he (man): ‘Who will give life to the bones when they are
 rotten?’ Says (Allah): ‘He will give life to them Who brought them into
@@ -881,21 +813,13 @@ imagination to admit something that man has not encountered before,
 exactly like those who find strange the resurrection on Judgment Day;
 so, they, as the Holy Qur'an demonstrates, wonder:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ
-  </p>
-</blockquote>
+> مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ
 
 ***‘Who will revive these bones after they rot and become dust?’***
 **(36/78)**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ
-خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ
+> خَلْقٍ عَلِيمٌ
 
 ***Say: ‘He will revive them Who brought them into existence at first,
 and He is Cognizant of all Creation.’*** **(36/79)**
@@ -908,24 +832,16 @@ proving the possibility of the return to the worldly life after death,
 such as the miracle of Prophet Jesus (\`a) who restored the dead to
 life. In this respect, the Holy Qur'an reads:
 
-<blockquote dir="rtl">
-  <p>
-وَأُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ
-اللَّهِ
-  </p>
-</blockquote>
+> وَأُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ
+> اللَّهِ
 
 ***[Jesus said] And I heal the blind and the leprous and bring the dead
 to life with Allah's permission.*** **(3/49)**
 
 The Holy Qur'an also reads:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ
-اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ
-  </p>
-</blockquote>
+> قَالَ أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ
+> اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ
 
 ***[Uzair wondered] When will Allah give it life after its death? So,
 Allah caused him to die for a hundred years then raised him to life.***
@@ -933,12 +849,8 @@ Allah caused him to die for a hundred years then raised him to life.***
 
 As has been previously cited, the Holy Qur'an reads:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
-فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِنْ سَبِيلٍ
-  </p>
-</blockquote>
+> قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
+> فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِنْ سَبِيلٍ
 
 ***[They will say] Our Lord! Thou hast cause us to die two deaths, and
 Thou hast given us twice to live; now we confess our sins. Is there any
@@ -987,21 +899,13 @@ Pious Dissimulation (taqiyyah)
 Imam al-Sadiq (\`a) is reported to have said in an authenticated
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-التَّقِيَّةُ دِينِي وَدِينُ أبَائِي.
-  </p>
-</blockquote>
+> التَّقِيَّةُ دِينِي وَدِينُ أبَائِي.
 
 *Taqiyyah*([^42]) is my belief and the belief of my forefathers.([^43])
 
 He (\`a) also said,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لاَ تَقِيَّةَ لَهُ لاَ دِينَ لَهُ.
-  </p>
-</blockquote>
+> مَنْ لاَ تَقِيَّةَ لَهُ لاَ دِينَ لَهُ.
 
 Whosoever has no taqiyyah([^44]) has no belief.([^45])
 
@@ -1070,22 +974,14 @@ imposed it upon us to practice it when necessity rules. Moreover, in the
 view of our Holy Imams (\`a), *taqiyyah* is part of the religion, as
 expressed by Imam al-Sadiq’s previously cited saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لاَ تَقِيَّةَ لَهُ لاَ دِينَ لَهُ.
-  </p>
-</blockquote>
+> مَنْ لاَ تَقِيَّةَ لَهُ لاَ دِينَ لَهُ.
 
 Whosoever has no *taqiyyah* has no belief.
 
 **Second**: The legitimacy of *taqiyyah* is proclaimed in the Holy
 Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-...إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
-  </p>
-</blockquote>
+> ...إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
 
 ***…not he who is compelled while his heart is at rest on account of his
 faith.*** **(16/106)**
@@ -1096,22 +992,14 @@ Islam.([^48])
 
 On another occasion, the Holy Qur'an clarifies:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً
-  </p>
-</blockquote>
+> إِلَّا أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً
 
 ***…except that when you [have to] guard yourselves against them with
 thorough guarding…*** **(3/28)(**[^49]**)**
 
 On a third occasion, the Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ
-  </p>
-</blockquote>
+> وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ
 
 ***And a believing man of Pharaoh's people who hid his faith...***
 **(40/28)** **(40/28)**
@@ -2221,5 +2109,4 @@ Reference: al-Jami\` li-Ahkam al-Qur'an by al-Qurtubi (AH 671), 4:57;
 Sahih al-Bukhari (AH 256), 8:55, Chapter: Kitab al-Ikrah (Compulsion).
 For further details, the reader is advised to refer to the exegesis of
 the previously mentioned holy verses in the reference books of tafsir.
-
 

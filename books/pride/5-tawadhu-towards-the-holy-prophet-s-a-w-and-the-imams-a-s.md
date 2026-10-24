@@ -21,7 +21,6 @@ showing humbleness towards Prophet (s.a.w.) and the Imams (a.s.) is to
 show humbleness towards the Ulema (religious scholars and authorities)
 and the sadaat (children of the Holy Prophet's progeny).
 
-
 **Tawadhu to the People**
 
 It is important to note that man is the best of all creatures. After
@@ -68,7 +67,6 @@ distinguish these people and many a time we honour them while on the
 other hand forget the deserving ones.
 
 This category of people are the following :
-
 
 **i. Non Believers and Sinners**
 
@@ -132,5 +130,4 @@ from Kibr of all kinds.
 Aamina Rabbal 'Aalameen.
 
 Walahu Waliyyut Tawfeeque.
-
 

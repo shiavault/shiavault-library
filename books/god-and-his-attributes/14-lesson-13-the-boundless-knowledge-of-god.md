@@ -228,4 +228,3 @@ has been placed on man's shoulders as a divine trust.
 
 [^2]: Bihar al-Anwar, III, p.297.
 
-

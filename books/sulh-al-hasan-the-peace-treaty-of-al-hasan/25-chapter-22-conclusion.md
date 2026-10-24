@@ -1,8 +1,6 @@
 Chapter 22: Conclusion
 ======================
 
-  
-
 A noticeable space has remained among these gaps in history. The
 references we have are not able to fill this space with studies that
 suite those events.
@@ -35,8 +33,6 @@ The first woman to be imprisoned in Islam was from them. He ordered her
 to be imprisoned.
 
 The first patient martyrs were from them. It was he who killed them.
-
-  
 
 Mu'awiya violated all the items of the Peace Treaty, broke his strong
 oath, and opposed his certain pledges which he made before Allah, the
@@ -83,8 +79,6 @@ Therefore what is this deception? What is the excuse?
 
 Weren't those covenants, agreements, and oath the strongest and  
 
-  
-
 the most certain words in the dictionaries of the Arabic language?
 
 I (i.e., the author) wonder: Shall we apologize on behalf of Mu'awiya as
@@ -121,8 +115,6 @@ If Abu Sufyan had lived for a longer time, he would have been sure that
 these two sons of his (i.e., his son Mu'awiya and his grandson Yazid)
 were able to achieve the game, which he hoped for the children of his
 father.
-
-  
 
 Accordingly, Mu'awiya ordered Marwan b. al-Hakam [[1]](#r1) to convince
 Ju'da bint al-Ash'ath b. Qays al-Kindi, who was one of the wives of
@@ -167,8 +159,6 @@ and his sons.'" I (i.e., the author) say: Marwan was ungrateful for
 al-Hasan when he tried to convince Ju'da to poison him. He was as they
 say: "A tree is known by its fruit."
 
-  
-
 were liable to many battles and coups.
 
 Through this plot Mu'awiya was able to abolish all items of the Peace
@@ -211,8 +201,6 @@ and to Him is our return. I have heard that you showed rejoice
 [[1]](#n2) Al-Mas'udi, Hamish b. al-Athir, vol. 6, p. 55- 56. [[2]](#n3)
 Ibn 'Abd al-Bir al-Maliki, al-Isti'ab.
 
-  
-
 and pleasure when he died. Indeed, by Allah, his body has not taken the
 **next** of your grave, nor has the decrease of (the period of) his
 death increased your life. He died while he was better than you. If we
@@ -254,8 +242,6 @@ life was valuable, your death has undermined (us). The
 pp. 159- 60. Al-Ya'qubi and al-Mas'udi have mentioned words similar to
 these. [[2]](#n5) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 6, p.
 57.
-
-  
 
 excellent soul was that through which your body lived. The excellent
 body is that which your shroud has covered. Of course, you are so. For
@@ -322,8 +308,6 @@ given poison to drink several times. He was safe during these
 
 [[1]](#n6) Al-Ya'qubi, Ta'rikh, vol. 2, p. 200. Al-Mas'udi, Hamish b.
 al-Athir, vol. 6, p. 57.
-
-  
 
 times except the last time when he died. Indeed he spewed his liver."
 [[1]](#r7)

@@ -29,18 +29,10 @@ by being fed on heedlessness and vexation, it is polished by the burnish
 of repentance and cleaned by the water of regret, so that it reverts to
 its primal state and its basic essence. As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
-  </p>
-</blockquote>
-
-
+> إِنَّ اللّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
 
 ***Surely Allah loves those who turn [in repentance] to Him, and He
 loves those who purify themselves.*** (2:222)
-
 
 In recommending the use of the siwak the Holy Prophet was advocating
 that it be used on the teeth themselves; but he also implied the meaning
@@ -50,5 +42,4 @@ outward examples, with respect to both the principle and roots of faith,
 Allah will open the springs of wisdom, and will give him still more of
 His overflowing favour, for Allah does not neglect the reward of those
 who act well.
-
 

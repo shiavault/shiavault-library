@@ -22,13 +22,9 @@ Hadith One
 
 Shaykh al-Ṭusi (d. 460 H) records:
 
-<blockquote dir="rtl">
-  <p>
-فأما ما رواه محمد بن أحمد بن يحيى عن أبي الجوزا عن الحسين بن علوان عن
-عمرو بن خالد عن زيد بن علي عن آبائه عن علي عليهم السلام قال: حرم رسول
-الله صلى الله عليه وآله لحوم الحمر الأهلية ونكاح المتعة.
-  </p>
-</blockquote>
+> فأما ما رواه محمد بن أحمد بن يحيى عن أبي الجوزا عن الحسين بن علوان عن
+> عمرو بن خالد عن زيد بن علي عن آبائه عن علي عليهم السلام قال: حرم رسول
+> الله صلى الله عليه وآله لحوم الحمر الأهلية ونكاح المتعة.
 
 Muhammad b. Ahmad b. Yahya – Abu al-Jawza – **al-Husayn b. ‘Alwan** –
 **‘Amr b. Khalid** – Zayd b. ‘Ali – his fathers – ‘Ali, peace be upon
@@ -39,13 +35,9 @@ meat of domestic donkey and the marriage of *mut’ah*.[^1]
 
 He also documents in his *Tahdhib*:
 
-<blockquote dir="rtl">
-  <p>
-واما ما رواه محمد بن يحيى عن أبي جعفر عن أبي الجوزا عن الحسين بن علوان
-عن عمرو بن خالد عن زيد بن علي عن آبائه عن علي عليهم السلام قال: حرم
-رسول الله صلى الله عليه وآله يوم خيبر لحوم الحمر الأهلية ونكاح المتعة.
-  </p>
-</blockquote>
+> واما ما رواه محمد بن يحيى عن أبي جعفر عن أبي الجوزا عن الحسين بن علوان
+> عن عمرو بن خالد عن زيد بن علي عن آبائه عن علي عليهم السلام قال: حرم
+> رسول الله صلى الله عليه وآله يوم خيبر لحوم الحمر الأهلية ونكاح المتعة.
 
 Muhammad b. Yahya – Abu Ja’far – Abu al-Jawza – **al-Husayn b. ‘Alwan**
 – **‘Amr b. Khalid** – Zayd b. ‘Ali – his fathers – ‘Ali, peace be upon
@@ -57,29 +49,17 @@ Khaybar.[^2]
 
 Shaykh ‘Ali Al Muhsin comments on it:
 
-<blockquote dir="rtl">
-  <p>
-هذه الرواية ضعيفة السند بعمرو بن خالد الواسطي، فإنه لم يوثَّق في كتب
-الرجال، واختُلف في مذهبه، فقيل: إنه من أهل السنة .والمشهور أنه من
-رؤساء الزيدية، وأغلب رواياته يرويها عن زيد بن علي، ومنها هذه الرواية .
-  </p>
-</blockquote>
+> هذه الرواية ضعيفة السند بعمرو بن خالد الواسطي، فإنه لم يوثَّق في كتب
+> الرجال، واختُلف في مذهبه، فقيل: إنه من أهل السنة .والمشهور أنه من
+> رؤساء الزيدية، وأغلب رواياته يرويها عن زيد بن علي، ومنها هذه الرواية .
 
-<blockquote dir="rtl">
-  <p>
-ومن جملة رواة هذا الحديث الحسين بن علوان، وهو سُنِّي المذهب، وعبارة
-النجاشي في ترجمته موهمة تحتمل عود التوثيق فيها إليه أو إلى أخيه الحسن،
-ولا توثيق آخر له، ولهذا فنحن متوقفون فيه، وإن وثّقه بعض الأعلام،
-وضعَّفه بعض آخر .
-  </p>
-</blockquote>
+> ومن جملة رواة هذا الحديث الحسين بن علوان، وهو سُنِّي المذهب، وعبارة
+> النجاشي في ترجمته موهمة تحتمل عود التوثيق فيها إليه أو إلى أخيه الحسن،
+> ولا توثيق آخر له، ولهذا فنحن متوقفون فيه، وإن وثّقه بعض الأعلام،
+> وضعَّفه بعض آخر .
 
-<blockquote dir="rtl">
-  <p>
-والحاصل أن هذا الحديث اشتمل على راوٍ زيدي، وآخر سُني المذهب، وكلاهما
-لم يثبت توثيقهما، وما قيل في توثيقهما ليس محلاً للاعتماد والوثوق.
-  </p>
-</blockquote>
+> والحاصل أن هذا الحديث اشتمل على راوٍ زيدي، وآخر سُني المذهب، وكلاهما
+> لم يثبت توثيقهما، وما قيل في توثيقهما ليس محلاً للاعتماد والوثوق.
 
 **This report has a** ***ḍa’if*** **chain**, due to ‘Amr b. Khalid
 al-Wasiṭi, for there is no *tawthiq* (accreditation) for him in the
@@ -103,11 +83,7 @@ neither reliable nor trustworthy**.[^3]
 
 ‘Allamah al-Majlisi (d. 1111 H) also declares about the *hadith* above:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف أو موثق
-  </p>
-</blockquote>
+> ضعيف أو موثق
 
 *Ḍa’if* or *Muwaththaq*.[^4]
 
@@ -117,21 +93,13 @@ Apparently, the best that the chain of the *hadith* can be is
 the former becomes *munkar* (rejected) and therefore very *ḍa’if*.
 Al-Ṭusi submits:
 
-<blockquote dir="rtl">
-  <p>
-وأما العدالة المراعاة في ترجيح أحد الخبرين على الاخر فهو: أن يكون
-الراوي معتقدا للحق، مستبصرا ثقة في دينه، متحرجا من الكذب غير متهم فيما
-يرويه.
-  </p>
-</blockquote>
+> وأما العدالة المراعاة في ترجيح أحد الخبرين على الاخر فهو: أن يكون
+> الراوي معتقدا للحق، مستبصرا ثقة في دينه، متحرجا من الكذب غير متهم فيما
+> يرويه.
 
-<blockquote dir="rtl">
-  <p>
-فأما إذا كان مخالفا في الاعتقاد لأصل المذهب وروى مع ذلك عن الأئمة
-عليهم السلام نظر فيما يرويه. فان كان هناك من طرق الموثوق بهم ما يخالفه
-وجب اطراح خبره.
-  </p>
-</blockquote>
+> فأما إذا كان مخالفا في الاعتقاد لأصل المذهب وروى مع ذلك عن الأئمة
+> عليهم السلام نظر فيما يرويه. فان كان هناك من طرق الموثوق بهم ما يخالفه
+> وجب اطراح خبره.
 
 As for the *‘adalah* that is required in the preference of one of two
 reports over another, it is: that the narrator should have the true
@@ -156,11 +124,7 @@ This makes it *mawḍu’* (a fabrication) without a doubt. No wonder, after
 mentioning that the chain of the *riwayah* of Husayn and ‘Amr is either
 “*ḍa’if* or *muwaththaq*”, al-Majlisi immediately proceeds to proclaim:
 
-<blockquote dir="rtl">
-  <p>
-الأظهر أنه من مفتريات الزيدية، كما يظهر من أكثر أخبارهم
-  </p>
-</blockquote>
+> الأظهر أنه من مفتريات الزيدية، كما يظهر من أكثر أخبارهم
 
 **The most apparent is that it is from the FABRICATIONS of the
 Zaydiyyah**, as obvious from most of their reports.[^6]
@@ -172,12 +136,8 @@ Hadith Two
 
 Ahmad b. Muhammad b. ‘Isa al-Ash’ari is also said to have documented:
 
-<blockquote dir="rtl">
-  <p>
-قال محمد بن أبي عمير، عن عبد الله بن سنان، قال: سألت أبا عبد الله عليه
-السلام عن المتعة؟ فقال: لا تدنس نفسك بها
-  </p>
-</blockquote>
+> قال محمد بن أبي عمير، عن عبد الله بن سنان، قال: سألت أبا عبد الله عليه
+> السلام عن المتعة؟ فقال: لا تدنس نفسك بها
 
 Muhammad b. Abi ‘Umayr – ‘Abd Allah b. Sinan:
 
@@ -191,12 +151,8 @@ evidence to establish that what we have today is a true copy of his
 original book. Rather, ‘Allamah al-Muhsini declares about *al-Nawadir*
 as we have it in our hands:
 
-<blockquote dir="rtl">
-  <p>
-والحق عدم إعتبار أحاديثها المنقولة في البحار و الوسائل و المستدرك وما
-يوجد في النسخة المطبوعة منها
-  </p>
-</blockquote>
+> والحق عدم إعتبار أحاديثها المنقولة في البحار و الوسائل و المستدرك وما
+> يوجد في النسخة المطبوعة منها
 
 **The truth is the UNRELIABILITY of its** ***ahadith*** which are quoted
 in *al-Bihar*, *al-Wasail* and *al-Mustadrak*, and whatever is found in
@@ -209,17 +165,13 @@ al-Muhsini on it[^9].
 
 Mirza al-Nuri (d. 1320 H) also submits:
 
-<blockquote dir="rtl">
-  <p>
-وأما ثالثا: فقوله رحمه الله} : ولذا لم ينقل عنه الحر في الوسائل {فإن
-فيه أنه من أين علم أن الكتاب كان عنده ولم يعتمد عليه ولذا لم ينقل عنه؟
-بل المعلوم المتيقن أنه كغيره من الكتب المعتبرة لم يكن عنده، ولو كان
-لنقل عنه قطعا، فإنه ينقل عن كتب هي دونه بمراتب من جهة المؤلف، أو لعدم
-ثبوت النسبة إليه، أو ضعف الطريق إليه، كفضل الشيعة للصدوق، وتحف العقول،
-وتفسير فرات، وإرشاد الديلمي، ونوادر أحمد بن محمد بن عيسى، والاختصاص
-للمفيد.
-  </p>
-</blockquote>
+> وأما ثالثا: فقوله رحمه الله} : ولذا لم ينقل عنه الحر في الوسائل {فإن
+> فيه أنه من أين علم أن الكتاب كان عنده ولم يعتمد عليه ولذا لم ينقل عنه؟
+> بل المعلوم المتيقن أنه كغيره من الكتب المعتبرة لم يكن عنده، ولو كان
+> لنقل عنه قطعا، فإنه ينقل عن كتب هي دونه بمراتب من جهة المؤلف، أو لعدم
+> ثبوت النسبة إليه، أو ضعف الطريق إليه، كفضل الشيعة للصدوق، وتحف العقول،
+> وتفسير فرات، وإرشاد الديلمي، ونوادر أحمد بن محمد بن عيسى، والاختصاص
+> للمفيد.
 
 And thirdly, as for his statement, may Allah be merciful to him {this is
 why al-Hurr in *al-Wasail* did not quote from it}, what is there is: how
@@ -247,12 +199,8 @@ Hadith Three
 
 Ahmad b. Muhammad b. ‘Isa al-Ash’ari is further said to have recorded:
 
-<blockquote dir="rtl">
-  <p>
-ابن أبي عمير، عن هشام بن الحكم، عن أبي عبد الله عليه السلام، قال: ما
-تفعلها عندنا إلا الفواجر
-  </p>
-</blockquote>
+> ابن أبي عمير، عن هشام بن الحكم، عن أبي عبد الله عليه السلام، قال: ما
+> تفعلها عندنا إلا الفواجر
 
 Ibn Abi ‘Umayr – Hisham b. al-Hakam – Abu ‘Abd Allah, peace be upon him:
 
@@ -270,14 +218,10 @@ Hadith Four
 
 Shaykh al-Kulayni (d. 329 H) records:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن سهل بن زياد، عن علي بن أسباط، ومحمد بن الحسين
-جميعا، عن الحكم بن مسكين، عن عمار قال: قال أبو عبد الله عليه السلام لي
-ولسليمان بن خالد: قد حرمت عليكما المتعة من قبلي ما دمتما بالمدينة
-لأنكما تكثران الدخول علي فأخاف أن تؤخذا، فيقال: هؤلاء أصحاب جعفر.
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن سهل بن زياد، عن علي بن أسباط، ومحمد بن الحسين
+> جميعا، عن الحكم بن مسكين، عن عمار قال: قال أبو عبد الله عليه السلام لي
+> ولسليمان بن خالد: قد حرمت عليكما المتعة من قبلي ما دمتما بالمدينة
+> لأنكما تكثران الدخول علي فأخاف أن تؤخذا، فيقال: هؤلاء أصحاب جعفر.
 
 A number of our companions – **Sahl b. Ziyad** – ‘Ali b. Asbaṭ AND
 Muhammad b. al-Husayn – **al-Hakam b. Miskin** – ‘Ammar:
@@ -290,32 +234,20 @@ would be said, ‘These are companions of Ja’far.’”[^12]
 
 ‘Allamah al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف على المشهور
-  </p>
-</blockquote>
+> ضعيف على المشهور
 
 *Ḍa’if* upon the mainstream (standards).[^13]
 
 Al-Jawahiri also states about one of its narrators:
 
-<blockquote dir="rtl">
-  <p>
-سهل بن زياد: أبو سعيد الآدمي، الرازي … ضعيف جزما أو لم تثبت وثاقته
-  </p>
-</blockquote>
+> سهل بن زياد: أبو سعيد الآدمي، الرازي … ضعيف جزما أو لم تثبت وثاقته
 
 Sahl b. Ziyad, Abu Sa’id al-Adami al-Razi ...: **decidedly** ***ḍa’if***
 **or his trustworthiness is not established**.[^14]
 
 About another narrator, he further declares:
 
-<blockquote dir="rtl">
-  <p>
-الحكم بن مسكين الثقفي : … مجهول
-  </p>
-</blockquote>
+> الحكم بن مسكين الثقفي : … مجهول
 
 Al-Hakam b. Miskin al-Thaqafi ...: ***Majhul***.[^15]
 
@@ -345,13 +277,9 @@ Hadith Five
 
 Al-Kulayni documents:
 
-<blockquote dir="rtl">
-  <p>
-علي بن محمد، عن صالح بن أبي حماد، عن ابن سنان، عن المفضل بن عمر قال:
-سمعت أبا عبد الله عليه السلام يقول في المتعة: دعوها أما يستحيي أحدكم
-أن يرى في موضع العورة فيحمل ذلك على صالحي إخوانه وأصحابه.
-  </p>
-</blockquote>
+> علي بن محمد، عن صالح بن أبي حماد، عن ابن سنان، عن المفضل بن عمر قال:
+> سمعت أبا عبد الله عليه السلام يقول في المتعة: دعوها أما يستحيي أحدكم
+> أن يرى في موضع العورة فيحمل ذلك على صالحي إخوانه وأصحابه.
 
 ‘Ali b. Muhammad – Salih b. Abi Hammad – Ibn Sinan – al-Mufaḍḍal b.
 ‘Umar:
@@ -363,23 +291,15 @@ companions?”[^16]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف
-  </p>
-</blockquote>
+> ضعيف
 
 *Ḍa’if*.[^17]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-قوله عليه‌السلام : ) أن يرى في موضع العورة ( أي يراه الناس في موضع
-يعيب من يجدونه فيه ، لكراهتهم للمتعة فيصير ذلك سببا للضرر عليه وعلى
-إخوانه
-  </p>
-</blockquote>
+> قوله عليه‌السلام : ) أن يرى في موضع العورة ( أي يراه الناس في موضع
+> يعيب من يجدونه فيه ، لكراهتهم للمتعة فيصير ذلك سببا للضرر عليه وعلى
+> إخوانه
 
 His statement, peace be upon him (to be seen at the place of blemish)
 meaning, the people see him at a place where whosoever they find there
@@ -398,15 +318,11 @@ Hadith Six
 
 Al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن بعض أصحابنا، عن زرارة، عن
-أبي جعفر عليه السلام قال: قلت له: جعلت فداك الرجل يتزوج المتعة وينقضي
-شرطها ثم يتزوجها رجل آخر حتى بانت منه ثم يتزوجها الأول حتى بانت منه
-ثلاثا وتزوجت ثلاثة أزواج يحل للأول أن يتزوجها؟ قال: نعم كم شاء ليس هذه
-مثل الحرة هذه مستأجرة وهي بمنزلة الإماء.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن بعض أصحابنا، عن زرارة، عن
+> أبي جعفر عليه السلام قال: قلت له: جعلت فداك الرجل يتزوج المتعة وينقضي
+> شرطها ثم يتزوجها رجل آخر حتى بانت منه ثم يتزوجها الأول حتى بانت منه
+> ثلاثا وتزوجت ثلاثة أزواج يحل للأول أن يتزوجها؟ قال: نعم كم شاء ليس هذه
+> مثل الحرة هذه مستأجرة وهي بمنزلة الإماء.
 
 ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr – **one of our
 companions** – Zurarah:
@@ -422,11 +338,7 @@ the slave woman**.”[^19]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-حسن وعليه الأصحاب
-  </p>
-</blockquote>
+> حسن وعليه الأصحاب
 
 *Hasan*, and upon it are the companions (i.e. the scholars).[^20]
 
@@ -436,15 +348,11 @@ scholars who accept the *marasil* of Ibn Abi ‘Umayr – as in this case.
 Our great leader, ‘Allamah al-Khui (d. 1411 H), traces the origin of
 this practice:
 
-<blockquote dir="rtl">
-  <p>
-أقول: الأصل في هذه الدعوى هو الشيخ - قدس سره -، فقد قال في أواخر بحثه
-عن خبر الواحد في كتاب العدة …) : ولأجل ذلك سوت الطائفة بين ما يرويه
-محمد بن أبي عمير، وصفوان بن يحيى، وأحمد بن محمد بن أبي نصر، وغيرهم من
-الثقات الذين عرفوا بأنهم لا يروون ولا يرسلون إلا عمن يوثق به، وبين ما
-أسنده غيرهم(…
-  </p>
-</blockquote>
+> أقول: الأصل في هذه الدعوى هو الشيخ - قدس سره -، فقد قال في أواخر بحثه
+> عن خبر الواحد في كتاب العدة …) : ولأجل ذلك سوت الطائفة بين ما يرويه
+> محمد بن أبي عمير، وصفوان بن يحيى، وأحمد بن محمد بن أبي نصر، وغيرهم من
+> الثقات الذين عرفوا بأنهم لا يروون ولا يرسلون إلا عمن يوثق به، وبين ما
+> أسنده غيرهم(…
 
 I say: The root of this claim was Shaykh, may Allah sanctify his secret,
 for he had said at the end of his research concerning the solitary
@@ -458,13 +366,9 @@ connected) manners....”[^21]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-فمن المطمأن به أن منشأ هذا الدعوى هو دعوى الكشي الاجماع على تصحيح ما
-يصح عن هؤلاء. وقد زعم الشيخ أن منشأ الاجماع هو أن هؤلاء لا يروون إلا
-عن ثقة، وقد مر قريبا بطلان ذلك.
-  </p>
-</blockquote>
+> فمن المطمأن به أن منشأ هذا الدعوى هو دعوى الكشي الاجماع على تصحيح ما
+> يصح عن هؤلاء. وقد زعم الشيخ أن منشأ الاجماع هو أن هؤلاء لا يروون إلا
+> عن ثقة، وقد مر قريبا بطلان ذلك.
 
 From what is certain is that the origin of this claim (of Shaykh
 al-Ṭusi) was the claim of al-Kashi that there was *ijma’* (consensus)
@@ -482,11 +386,7 @@ indiscriminately, including even where he has not given the name of his
 source. However, as al-Khui demonstrates, both the *‘ijma* itself and
 the conclusion from it were made in error. He first declares:
 
-<blockquote dir="rtl">
-  <p>
-ولكن هذه الدعوى باطلة
-  </p>
-</blockquote>
+> ولكن هذه الدعوى باطلة
 
 But, this claim (i.e. that they narrated from *thiqah* narrators only)
 is fallacious.[^23]
@@ -494,17 +394,13 @@ is fallacious.[^23]
 Then, with specific reference to Ibn Abi ‘Umayr, he debunks the myth
 surrounding him:
 
-<blockquote dir="rtl">
-  <p>
-وهذا ابن أبي عمير، روى عن علي بن أبي حمزة البطائني كتابه، ذكره النجاشي
-والشيخ، وروى محمد بن يعقوب بسند صحيح عن ابن أبي عمير عن علي بن أبي
-حمزة وروى بسند صحيح عن ابن أبي عمير عن الحسين بن أحمد المنقري، والحسين
-بن أحمد المنقري، ضعفه النجاشي والشيخ. وروى الشيخ بسند صحيح عن ابن أبي
-عمير، عن علي بن حديد وعلي ابن حديد ضعفه الشيخ في موارد من كتابيه وبالغ
-في تضعيفه. وتقدمت روايته عن يونس بن ظبيان آنفا. وأما روايته عن
-المجاهيل غير المذكورين في الرجال فكثيرة
-  </p>
-</blockquote>
+> وهذا ابن أبي عمير، روى عن علي بن أبي حمزة البطائني كتابه، ذكره النجاشي
+> والشيخ، وروى محمد بن يعقوب بسند صحيح عن ابن أبي عمير عن علي بن أبي
+> حمزة وروى بسند صحيح عن ابن أبي عمير عن الحسين بن أحمد المنقري، والحسين
+> بن أحمد المنقري، ضعفه النجاشي والشيخ. وروى الشيخ بسند صحيح عن ابن أبي
+> عمير، عن علي بن حديد وعلي ابن حديد ضعفه الشيخ في موارد من كتابيه وبالغ
+> في تضعيفه. وتقدمت روايته عن يونس بن ظبيان آنفا. وأما روايته عن
+> المجاهيل غير المذكورين في الرجال فكثيرة
 
 :And this is Ibn Abi ‘Umayr. He narrated from ‘Ali b. Abi Hamzah
 al-Baṭaini his book. Al-Najashi and Shaykh mentioned it. Muhammad b.
@@ -535,7 +431,6 @@ narrated except from *thiqah* narrators, al-Khui further states:
 ومن الظاهر أنه لم ينسب إلى أحد هؤلاء إخباره وتصريحه بذلك، وليس لنا طريق
 آخر لكشفه
 
-
 .
 
 From what is apparent is that it is not attributed to any of these
@@ -545,13 +440,9 @@ for us to discover it.[^25]
 The bottomline then is that the *marasil* of Ibn Abi ‘Umayr are *ḍa’if*
 like the other *marasil*. This is what al-Khui concludes as well:
 
-<blockquote dir="rtl">
-  <p>
-تقدم عن النجاشي في أن الأصحاب سكنوا إلى مراسيل ابن أبي عمير، وذكر مثل
-ذلك الشيخ في كتاب العدة، ولكنا قد تعرضنا في المقدمة، إلى أن هذا الكلام
-لا أساس له، وأنه لا فرق بين مراسيله ومراسيل غيره من الثقات.
-  </p>
-</blockquote>
+> تقدم عن النجاشي في أن الأصحاب سكنوا إلى مراسيل ابن أبي عمير، وذكر مثل
+> ذلك الشيخ في كتاب العدة، ولكنا قد تعرضنا في المقدمة، إلى أن هذا الكلام
+> لا أساس له، وأنه لا فرق بين مراسيله ومراسيل غيره من الثقات.
 
 We have earlier quoted al-Najashi saying that the companions (i.e.
 scholars) relied upon the *marasil* of Ibn Abi ‘Umayr, and Shaykh
@@ -592,13 +483,9 @@ slave concubine. In everything else, they are different. This *hasan* or
 *sahih* *hadith* of al-Kulayni, which we have already quoted in full in
 this book, testifies to this:
 
-<blockquote dir="rtl">
-  <p>
-ليس فيها وقت ولا عدد إنما هي بمنزلة الإماء يتزوج منهن كم شاء وصاحب
-الأربع نسوة يتزوج منهن ما شاء بغير ولي ولا شهود فإذا انقضى الاجل بانت
-منه بغير طلاق ويعطيها الشئ اليسير
-  </p>
-</blockquote>
+> ليس فيها وقت ولا عدد إنما هي بمنزلة الإماء يتزوج منهن كم شاء وصاحب
+> الأربع نسوة يتزوج منهن ما شاء بغير ولي ولا شهود فإذا انقضى الاجل بانت
+> منه بغير طلاق ويعطيها الشئ اليسير
 
 There is no specific length or any (maximum) number (of the wives) in
 it. They are only of the status of slave women: he marries any number of
@@ -612,14 +499,10 @@ have more to say about this. But, first, let us examine the other
 *ahadith* which also described her as “rented”. Al-Kulayni gives us the
 second report, as well:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد بن عيسى، عن الحسين بن سعيد، ومحمد بن
-خالد البرقي، عن القاسم بن عروة، عن عبد الحميد، عن محمد بن مسلم، عن أبي
-جعفر عليه السلام في المتعة قال: ليست من الأربع لأنها لا تطلق ولا ترث
-وإنما هي مستأجرة.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد بن عيسى، عن الحسين بن سعيد، ومحمد بن
+> خالد البرقي، عن القاسم بن عروة، عن عبد الحميد، عن محمد بن مسلم، عن أبي
+> جعفر عليه السلام في المتعة قال: ليست من الأربع لأنها لا تطلق ولا ترث
+> وإنما هي مستأجرة.
 
 Muhammad b. Yahya – Ahmad b. Muhammad b. ‘Isa – al-Husayn b. Sa’id AND
 Muhammad b. Khalid al-Barqi – **al-Qasim b. ‘Urwah** – ‘Abd al-Hamid –
@@ -631,34 +514,22 @@ does not inherit. She is only a rented woman.”[^27]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-مجهول
-  </p>
-</blockquote>
+> مجهول
 
 *Majhul*.[^28]
 
 And al-Jawahiri declares concerning one of its narrators:
 
-<blockquote dir="rtl">
-  <p>
-القاسم بن عروة: أبو محمد مولى أبي أيوب الخوزي - مجهول
-  </p>
-</blockquote>
+> القاسم بن عروة: أبو محمد مولى أبي أيوب الخوزي - مجهول
 
 Al-Qasim b. ‘Urwah, Abu Muhammad, freed slave of Abu Ayyub al-Khawzi:
 ***Majhul***.[^29]
 
 Meanwhile, al-Barqi is equally said to have documented this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-وعنه، عن العباس بن معروف، عن القاسم بن عروة: عن عبد الحميد الطائي، عن
-محمد بن مسلم، قال: قلت لأبي جعفر عليه السلام : لم لا تورث المرأة عمن
-يتمتع بها؟ -قال: لأنها مستأجرة، وعدتها خمسة وأربعون يوما
-  </p>
-</blockquote>
+> وعنه، عن العباس بن معروف، عن القاسم بن عروة: عن عبد الحميد الطائي، عن
+> محمد بن مسلم، قال: قلت لأبي جعفر عليه السلام : لم لا تورث المرأة عمن
+> يتمتع بها؟ -قال: لأنها مستأجرة، وعدتها خمسة وأربعون يوما
 
 And from him – al-‘Abbas b. Ma’ruf – **al-Qasim b. ‘Urwah** – ‘Abd
 al-Hamid al-Ṭai – Muhammad b. Muslim:
@@ -674,13 +545,9 @@ compounds the unreliability of the *hadith*.
 
 And, here is al-Kulayni with the final *hadith* on this matter:
 
-<blockquote dir="rtl">
-  <p>
-الحسين بن محمد، عن أحمد بن إسحاق، عن سعدان بن مسلم، عن عبيد بن زرارة،
-عن أبيه، عن أبي عبد الله عليه السلام قال: ذكرت له المتعة أهي من
-الأربع؟ فقال: تزوج منهن ألفا فإنهن مستأجرات.
-  </p>
-</blockquote>
+> الحسين بن محمد، عن أحمد بن إسحاق، عن سعدان بن مسلم، عن عبيد بن زرارة،
+> عن أبيه، عن أبي عبد الله عليه السلام قال: ذكرت له المتعة أهي من
+> الأربع؟ فقال: تزوج منهن ألفا فإنهن مستأجرات.
 
 Al-Husayn b. Muhammad – Ahmad b. Ishaq – Sa’dan b. Muslim – ‘Ubayd b.
 Zurarah – his father:
@@ -690,11 +557,7 @@ a thousand of them, for they are rented women.”[^32]
 
 And, al-Majlisi submits:
 
-<blockquote dir="rtl">
-  <p>
-مجهول
-  </p>
-</blockquote>
+> مجهول
 
 *Majhul*.[^33]
 
@@ -715,13 +578,9 @@ woman for sex, then any *mut’ah* without sex is no *mut’ah*. However, as
 al-Kulayni has reported, *mut’ah* can be without sex, and still be
 *mut’ah*:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد وعبد الله ابني محمد بن عيسى، عن علي بن الحكم، عن
-زياد بن أبي الحلال قال: سمعت أبا عبد الله عليه‌ السلام يقول: لا بأس
-بأن يتمتع بالبكر ما لم يفض إليها مخافة كراهية العيب على أهلها.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد وعبد الله ابني محمد بن عيسى، عن علي بن الحكم، عن
+> زياد بن أبي الحلال قال: سمعت أبا عبد الله عليه‌ السلام يقول: لا بأس
+> بأن يتمتع بالبكر ما لم يفض إليها مخافة كراهية العيب على أهلها.
 
 Muhammad b. Yahya – Ahmad and ‘Abd Allah, sons of Muhammad b. ‘Isa –
 ‘Ali b. al-Hakam – Ziyad b. Abi al-Hilal:
@@ -733,28 +592,20 @@ family.”[^34]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^35]
 
 Even the locus classicus in this matter, the *mursal hadith* of Ibn Abi
 ‘Umayr, affirms the same truth. Al-Ṭusi documents:
 
-<blockquote dir="rtl">
-  <p>
-روى محمد بن يعقوب عن علي بن إبراهيم عن أبيه عن ابن أبي عمير عن بعض
-أصحابنا عن زرارة عن أبي جعفر عليه السلام قال: قلت له: جعلت فداك تتزوج
-المتعة وينقضي شرطها ثم يتزوجها رجل آخر حين بانت منه ثم يتزوجها الرجل
-الأول حين بانت منه ثلاثا وتزوجت ثلاثة أزواج يحل للأول ان يتزوجها؟ قال:
-نعم كم شاء ليس هذه مثل الحرة هذه مستأجرة وهي بمنزلة الإماء. ومتى تزوج
-الرجل امرأة متعة وشرطت عليه ان لا يطأها في فرجها فليس له إلا ما
-اشترطت.
-  </p>
-</blockquote>
+> روى محمد بن يعقوب عن علي بن إبراهيم عن أبيه عن ابن أبي عمير عن بعض
+> أصحابنا عن زرارة عن أبي جعفر عليه السلام قال: قلت له: جعلت فداك تتزوج
+> المتعة وينقضي شرطها ثم يتزوجها رجل آخر حين بانت منه ثم يتزوجها الرجل
+> الأول حين بانت منه ثلاثا وتزوجت ثلاثة أزواج يحل للأول ان يتزوجها؟ قال:
+> نعم كم شاء ليس هذه مثل الحرة هذه مستأجرة وهي بمنزلة الإماء. ومتى تزوج
+> الرجل امرأة متعة وشرطت عليه ان لا يطأها في فرجها فليس له إلا ما
+> اشترطت.
 
 Muhammad b. Ya’qub - ‘Ali b. Ibrahim – his father – Ibn Abi ‘Umayr –
 **one of our companions** – Zurarah:
@@ -778,12 +629,8 @@ Hadith Seven
 
 Shaykh al-Ṭusi records:
 
-<blockquote dir="rtl">
-  <p>
-واما ما رواه أحمد بن محمد عن أبي الحسن عن بعض أصحابنا يرفعه إلى أبي
-عبد الله عليه السلام قال: لا تتمتع بالمؤمنة فتذلها.
-  </p>
-</blockquote>
+> واما ما رواه أحمد بن محمد عن أبي الحسن عن بعض أصحابنا يرفعه إلى أبي
+> عبد الله عليه السلام قال: لا تتمتع بالمؤمنة فتذلها.
 
 Ahmad b. Muhammad – Abu al-Hasan – **one of our companions** – Abu ‘Abd
 Allah, peace be upon him:
@@ -793,11 +640,7 @@ humiliating her.[^37]
 
 Then, al-Ṭusi himself declares:
 
-<blockquote dir="rtl">
-  <p>
-فهذا الخبر مقطوع الاسناد مرسل
-  </p>
-</blockquote>
+> فهذا الخبر مقطوع الاسناد مرسل
 
 This report has a disconnected chain, *mursal*.[^38]
 
@@ -808,13 +651,9 @@ Hadith Eight
 
 Al-Ṭusi reports:
 
-<blockquote dir="rtl">
-  <p>
-روى محمد بن أحمد بن يحيى عن أحمد بن محمد عن علي ابن حديد عن جميل عن
-زرارة قال: سأل عمار وانا عنده عن الرجل يتزوج الفاجرة متعة قال: لا بأس
-وإن كان التزويج الآخر فليحصن بابه.
-  </p>
-</blockquote>
+> روى محمد بن أحمد بن يحيى عن أحمد بن محمد عن علي ابن حديد عن جميل عن
+> زرارة قال: سأل عمار وانا عنده عن الرجل يتزوج الفاجرة متعة قال: لا بأس
+> وإن كان التزويج الآخر فليحصن بابه.
 
 Muhammad b. Ahmad b. Yahya – Ahmad b. Muhammad – **‘Ali b. Hadid** –
 Jamil – Zurarah:
@@ -825,12 +664,8 @@ the other marriage, then he must fortify his door.”[^39]
 
 And, in his *Istibsar*, he proclaims:
 
-<blockquote dir="rtl">
-  <p>
-وأما خبر زرارة فالطريق إليه علي بن حديد وهو ضعيف جدا لا يعول على ما
-ينفرد بنقله
-  </p>
-</blockquote>
+> وأما خبر زرارة فالطريق إليه علي بن حديد وهو ضعيف جدا لا يعول على ما
+> ينفرد بنقله
 
 As for the report of Zurarah, **the route to him is ‘Ali b. Hadid and he
 is** ***ḍa’if jiddan***. Whatever he alone narrates is not relied
@@ -840,22 +675,14 @@ Therefore, the report is *ḍa’if jiddan* in its *sanad*.
 
 Al-Majlisi too says about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف
-  </p>
-</blockquote>
+> ضعيف
 
 *Ḍa’if*.[^41]
 
 Meanwhile, it also directly contradicts this *ayah* of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو مشرك
-وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو مشرك
+> وحرم ذلك على المؤمنين
 
 The fornicator shall not marry any but a fornicatress or an idolatress;
 **and the fornicatress, none shall marry her but a fornicator or an
@@ -868,13 +695,9 @@ Hadith Nine
 
 Al-Ṭusi documents:
 
-<blockquote dir="rtl">
-  <p>
-عنه عن سعدان عن علي بن يقطين قال: قلت لأبي الحسن عليه السلام: نساء أهل
-المدينة قال: فواسق قلت: فأتزوج منهن؟ قال: نعم. ومتى أراد الرجل تزويج
-المتعة فليس عليه التفتيش عنها بل يصدقها في قولها.
-  </p>
-</blockquote>
+> عنه عن سعدان عن علي بن يقطين قال: قلت لأبي الحسن عليه السلام: نساء أهل
+> المدينة قال: فواسق قلت: فأتزوج منهن؟ قال: نعم. ومتى أراد الرجل تزويج
+> المتعة فليس عليه التفتيش عنها بل يصدقها في قولها.
 
 From him (i.e. Muhammad b. Ahmad b. Yahya) – Sa’dan – ‘Ali b. Yaqṭin:
 
@@ -886,11 +709,7 @@ statement.”[^43]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-مجهول
-  </p>
-</blockquote>
+> مجهول
 
 *Majhul*.[^44]
 
@@ -902,14 +721,10 @@ Hadith Ten
 
 Al-Ṭusi records:
 
-<blockquote dir="rtl">
-  <p>
-روى محمد بن أحمد بن يحيى عن علي بن السندي عن عثمان بن عيسى عن إسحاق بن
-عمار عن فضل مولى محمد بن راشد عن أبي عبد الله عليه السلام قال: قلت اني
-تزوجت امرأة متعة فوقع في نفسي أن لها زوجا ففتشت عن ذلك فوجدت لها زوجا
-قال: ولم فتشت؟!
-  </p>
-</blockquote>
+> روى محمد بن أحمد بن يحيى عن علي بن السندي عن عثمان بن عيسى عن إسحاق بن
+> عمار عن فضل مولى محمد بن راشد عن أبي عبد الله عليه السلام قال: قلت اني
+> تزوجت امرأة متعة فوقع في نفسي أن لها زوجا ففتشت عن ذلك فوجدت لها زوجا
+> قال: ولم فتشت؟!
 
 Muhammad b. Ahmad b. Yahya – **‘Ali b. al-Sindi** – ‘Uthman b. ‘Isa –
 Ishaq b. ‘Ammar – **Faḍl, freed slave of Muhammad b. Rashid**:
@@ -921,12 +736,8 @@ investigate?!”[^45]
 
 Al-Jawahiri says about one of the narrators:
 
-<blockquote dir="rtl">
-  <p>
-علي بن السندي: روى ٨٤ رواية، وروى بعنوان علي بن السندي القمي - لم تثبت
-وثاقته
-  </p>
-</blockquote>
+> علي بن السندي: روى ٨٤ رواية، وروى بعنوان علي بن السندي القمي - لم تثبت
+> وثاقته
 
 ‘Ali b. al-Sindi: he narrated 84 reports, and he also narrated under the
 name ‘Ali b. al-Sanadi al-Qummi: **his trustworthiness is NOT
@@ -935,24 +746,16 @@ established**.[^46]
 This makes him *majhul* and *ḍa’if*. Al-Jawahiri also states about
 another narrator:
 
-<blockquote dir="rtl">
-  <p>
-الفضل مولى محمد بن راشد :مجهول
-  </p>
-</blockquote>
+> الفضل مولى محمد بن راشد :مجهول
 
 Al-Faḍl, freed slave of Muhammad b. Rashid: ***Majhul***.[^47]
 
 Apparently, the report has a *ḍa’if* chain. It also contradicts this
 authentic *hadith* of al-Kulayni:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن ابن محبوب، عن أبان، عن أبي مريم، عن
-أبي جعفر عليه السلام أنه سئل عن المتعة فقال: إن المتعة اليوم ليس كما
-كانت قبل اليوم إنهن كن يومئذ يؤمن واليوم لا يؤمن فاسألوا عنهن.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن ابن محبوب، عن أبان، عن أبي مريم، عن
+> أبي جعفر عليه السلام أنه سئل عن المتعة فقال: إن المتعة اليوم ليس كما
+> كانت قبل اليوم إنهن كن يومئذ يؤمن واليوم لا يؤمن فاسألوا عنهن.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – Ibn Mahbub – Aban – Abu Maryam:
 
@@ -963,11 +766,7 @@ the women) used to be faithful. But, today, they are not faithful.
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^49]
 
@@ -983,13 +782,9 @@ Hadith Eleven
 
 Al-Ṭusi reports:
 
-<blockquote dir="rtl">
-  <p>
-وعنه عن أيوب بن نوح عن مهران بن محمد عن بعض أصحابنا عن أبي عبد الله
-عليه السلام قال: قيل له ان فلانا تزوج امرأة متعة فقيل له ان لها زوجا
-فسألها فقال أبو عبد الله عليه السلام: ولم سألها؟
-  </p>
-</blockquote>
+> وعنه عن أيوب بن نوح عن مهران بن محمد عن بعض أصحابنا عن أبي عبد الله
+> عليه السلام قال: قيل له ان فلانا تزوج امرأة متعة فقيل له ان لها زوجا
+> فسألها فقال أبو عبد الله عليه السلام: ولم سألها؟
 
 And from him (Muhammad b. Ahmad b. Yahya) – Ayyub b. Nuh – **Mihran b.
 Muhammad** – **one of our companions**:
@@ -1001,11 +796,7 @@ Therefore, he asked her.” So, Abu ‘Abd Allah, peace be upon him, said,
 
 Al-Jawahiri says about one of the narrators:
 
-<blockquote dir="rtl">
-  <p>
-مهران بن محمد: مجهول
-  </p>
-</blockquote>
+> مهران بن محمد: مجهول
 
 Mihran b. Muhammad: ***Majhul***.[^51]
 
@@ -1013,11 +804,7 @@ As such, the *hadith* is *ḍa’if*. But, it is also *mursal*, as our
 esteemed reader can see. Al-Majlisi too confirms this when he declares
 concerning it:
 
-<blockquote dir="rtl">
-  <p>
-مرسل
-  </p>
-</blockquote>
+> مرسل
 
 *Mursal*.[^52]
 
@@ -1028,14 +815,10 @@ Hadith Twelve
 
 Al-Ṭusi documents:
 
-<blockquote dir="rtl">
-  <p>
-وعنه عن الهيثم بن أبي مسروق النهدي عن أحمد بن محمد بن أبي نصر ومحمد بن
-الحسن الأشعري عن محمد بن عبد الله الأشعري قال: قلت للرضا عليه السلام:
-الرجل يتزوج بالمرأة فيقع في قلبه أن لها زوجا قال: ما عليه أرأيت لو
-سألها البينة كان يجد من يشهد ان ليس لها زوج
-  </p>
-</blockquote>
+> وعنه عن الهيثم بن أبي مسروق النهدي عن أحمد بن محمد بن أبي نصر ومحمد بن
+> الحسن الأشعري عن محمد بن عبد الله الأشعري قال: قلت للرضا عليه السلام:
+> الرجل يتزوج بالمرأة فيقع في قلبه أن لها زوجا قال: ما عليه أرأيت لو
+> سألها البينة كان يجد من يشهد ان ليس لها زوج
 
 And from him (i.e. Muhammad b. Ahmad b. Yahya) – al-Haytham b. Abi
 Masruq al-Hindi – Ahmad b. Muhammad b. Abi Nasr AND Muhammad b. al-Hasan
@@ -1048,21 +831,13 @@ will testify that she has no husband?”[^53]
 
 Al-Majlisi states about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-مجهول
-  </p>
-</blockquote>
+> مجهول
 
 *Majhul*.[^54]
 
 Al-Jawahiri also submits about one of the narrators:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن عبد الله الأشعري: مجهول
-  </p>
-</blockquote>
+> محمد بن عبد الله الأشعري: مجهول
 
 Muhammad b. ‘Abd Allah al-Ash’ari: ***Majhul***.[^55]
 
@@ -1073,13 +848,9 @@ Hadith Thirteen
 
 Al-Ṭusi records:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن أحمد بن يحيى عن العباس بن معروف عن سعدان بن مسلم عن رجل عن أبي
-عبد الله عليه السلام قال: لا بأس بتزويج البكر إذا رضيت من غير اذن
-أبويها.
-  </p>
-</blockquote>
+> محمد بن أحمد بن يحيى عن العباس بن معروف عن سعدان بن مسلم عن رجل عن أبي
+> عبد الله عليه السلام قال: لا بأس بتزويج البكر إذا رضيت من غير اذن
+> أبويها.
 
 Muhammad b. Ahmad b. Yahya – al-‘Abbas b. Ma’ruf – Sa’dan b. Muslim – a
 man – Abu ‘Abd Allah, peace be upon him:
@@ -1089,24 +860,16 @@ the consent of her parents.[^56]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-مجهول مرسل
-  </p>
-</blockquote>
+> مجهول مرسل
 
 *Majhul Mursal*.[^57]
 
 Thus, it is very weak. It equally contradicts this authentic *hadith* of
 the same al-Ṭusi:
 
-<blockquote dir="rtl">
-  <p>
-فاما رواه أحمد بن محمد عن محمد بن إسماعيل عن أبى الحسن ظريف عن ابان عن
-أبي مريم عن أبي عبد الله عليه السلام قال: العذراء التي لها أب لا تتزوج
-متعة إلا باذن أبيها.
-  </p>
-</blockquote>
+> فاما رواه أحمد بن محمد عن محمد بن إسماعيل عن أبى الحسن ظريف عن ابان عن
+> أبي مريم عن أبي عبد الله عليه السلام قال: العذراء التي لها أب لا تتزوج
+> متعة إلا باذن أبيها.
 
 Ahmad b. Muhammad – Muhammad b. Isma’il – Abu al-Hasan Zarif – Aban –
 Abu Maryam – Abu ‘Abd Allah, peace be upon him:
@@ -1116,21 +879,13 @@ the permission of her father.[^58]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^59]
 
 Al-Ruhani also states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^60]
 
@@ -1141,14 +896,10 @@ Hadith Fourteen
 
 Al-Ṭusi says:
 
-<blockquote dir="rtl">
-  <p>
-وعنه عن موسى بن عمر بن يزيد عن محمد بن سنان عن أبي سعيد القماط عمن
-رواه قال: قلت لأبي عبد الله عليه السلام: جارية بكر بين أبويها تدعوني
-إلى نفسها سرا من أبويها أفأفعل ذلك؟ قال: نعم واتق موضع الفرج قال: قلت
-فان رضيت بذلك؟ قال: وان رضيت بذلك فإنه عار على الابكار.
-  </p>
-</blockquote>
+> وعنه عن موسى بن عمر بن يزيد عن محمد بن سنان عن أبي سعيد القماط عمن
+> رواه قال: قلت لأبي عبد الله عليه السلام: جارية بكر بين أبويها تدعوني
+> إلى نفسها سرا من أبويها أفأفعل ذلك؟ قال: نعم واتق موضع الفرج قال: قلت
+> فان رضيت بذلك؟ قال: وان رضيت بذلك فإنه عار على الابكار.
 
 And from him from **Musa b. ‘Umar b. Yazid** – **Muhammad b. Sinan** –
 Abu Sa’id al-Qimaṭ – **from the one who narrated it**:
@@ -1161,31 +912,19 @@ consents to that, for it is a shame upon the virgins.”[^61]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف على المشهور
-  </p>
-</blockquote>
+> ضعيف على المشهور
 
 *Ḍa’if ‘ala al-Mashhur*.[^62]
 
 Al-Jawahiri too states about one of the narrators:
 
-<blockquote dir="rtl">
-  <p>
-موسى بن عمر بن يزيد بن ذبيان: الصيقل - مجهول
-  </p>
-</blockquote>
+> موسى بن عمر بن يزيد بن ذبيان: الصيقل - مجهول
 
 Musa b. ‘Umar b. Yazid Dhibyan al-Sayqal: ***Majhul***.[^63]
 
 And, about another narrator, Shaykh al-Najashi (d. 450 H) submits:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن سنان … هو رجل ضعيف جدا لا يعول عليه ولا يلتفت إلى ما تفرد به
-  </p>
-</blockquote>
+> محمد بن سنان … هو رجل ضعيف جدا لا يعول عليه ولا يلتفت إلى ما تفرد به
 
 Muhammad b. Sinan ... **he is a man who is** ***ḍa’if jiddan*** **(very
 weak)**. He is not relied upon, and no attention is paid to whatever he
@@ -1197,13 +936,9 @@ As such, the *hadith* is *ḍa’if jiddan*. Worse still, it is equally
 With that same *ḍa’if jiddan* chain, al-Tusi proceeds with this further
 *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-وبهذا الاسناد عن أبي سعيد قال: سئل أبو عبد الله عليه السلام عن التمتع
-من الابكار اللواتي بين الأبوين فقال: لا بأس ولا أقول كما يقول هؤلاء
-الأقشاب
-  </p>
-</blockquote>
+> وبهذا الاسناد عن أبي سعيد قال: سئل أبو عبد الله عليه السلام عن التمتع
+> من الابكار اللواتي بين الأبوين فقال: لا بأس ولا أقول كما يقول هؤلاء
+> الأقشاب
 
 And with this chain from Abu Sa’id:
 
@@ -1213,11 +948,7 @@ who are still with their parents. So, he said, “There is no problem
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف
-  </p>
-</blockquote>
+> ضعيف
 
 *Ḍa’if*.[^66]
 
@@ -1226,12 +957,8 @@ We already know of the severe weakness of the *sanad*, anyway.
 Then, al-Ṭusi proceeds to narrate one more *hadith* through that same
 chain:
 
-<blockquote dir="rtl">
-  <p>
-أبو سعيد عن الحلبي قال: سألته عن التمتع من البكر إذا كانت بين أبويها
-بلا اذن أبويها قال: لا بأس ما لم يقتض ما هناك لتعف بذلك.
-  </p>
-</blockquote>
+> أبو سعيد عن الحلبي قال: سألته عن التمتع من البكر إذا كانت بين أبويها
+> بلا اذن أبويها قال: لا بأس ما لم يقتض ما هناك لتعف بذلك.
 
 Abu Sa’id from al-Halabi:
 
@@ -1242,11 +969,7 @@ chaste by that.”[^67]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف على المشهور
-  </p>
-</blockquote>
+> ضعيف على المشهور
 
 *Ḍa’if ‘ala al-Mashhur*.[^68]
 
@@ -1259,18 +982,14 @@ Hadith Fifteen
 
 Al-Tusi records:
 
-<blockquote dir="rtl">
-  <p>
-الحسن بن محبوب عن إسحاق بن جرير قال: قلت لأبي عبد الله عليه السلام ان
-عندنا بالكوفة امرأة معروفة بالفجور أيحل ان أتزوجها متعة؟ قال فقال
-:رفعت راية؟ قلت: لا لو رفعت راية اخذها السلطان قال فقال: نعم تزوجها
-متعة قال: ثم إنه اصغي إلى بعض مواليه فاسر إليه شيئا، قال: فدخل قلبي من
-ذلك شئ قال: فلقيت مولاه فقلت له: اي شئ قال لك أبو عبد الله عليه
-السلام؟ قال: فقال لي: ليس هو شئ تكرهه فقلت: فأخبرني به قال فقال: إنما
-قال لي: ولو رفعت راية ما كان عليه في تزويجها شئ إنما يخرجها من حرام
-إلى حلال.
-  </p>
-</blockquote>
+> الحسن بن محبوب عن إسحاق بن جرير قال: قلت لأبي عبد الله عليه السلام ان
+> عندنا بالكوفة امرأة معروفة بالفجور أيحل ان أتزوجها متعة؟ قال فقال
+> :رفعت راية؟ قلت: لا لو رفعت راية اخذها السلطان قال فقال: نعم تزوجها
+> متعة قال: ثم إنه اصغي إلى بعض مواليه فاسر إليه شيئا، قال: فدخل قلبي من
+> ذلك شئ قال: فلقيت مولاه فقلت له: اي شئ قال لك أبو عبد الله عليه
+> السلام؟ قال: فقال لي: ليس هو شئ تكرهه فقلت: فأخبرني به قال فقال: إنما
+> قال لي: ولو رفعت راية ما كان عليه في تزويجها شئ إنما يخرجها من حرام
+> إلى حلال.
 
 Al-Hasan b. Mahbub – Ishaq b. Jarir:
 
@@ -1290,21 +1009,13 @@ of a *haram* to a *halal*.”[^69]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^70]
 
 Al-Ruhani agrees:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^71]
 
@@ -1318,29 +1029,17 @@ to a *sahih hadith*. This is why, in the case of a conflict between a
 *ḍa’if*. Meanwhile, al-Ṭusi himself gives some further information on
 the *muwaththaq hadith*:
 
-<blockquote dir="rtl">
-  <p>
-وأما العدالة المراعاة في ترجيح أحد الخبرين على الاخر فهو: أن يكون
-الراوي معتقدا للحق، مستبصرا ثقة في دينه، متحرجا من الكذب غير متهم فيما
-يرويه.
-  </p>
-</blockquote>
+> وأما العدالة المراعاة في ترجيح أحد الخبرين على الاخر فهو: أن يكون
+> الراوي معتقدا للحق، مستبصرا ثقة في دينه، متحرجا من الكذب غير متهم فيما
+> يرويه.
 
-<blockquote dir="rtl">
-  <p>
-فأما إذا كان مخالفا في الاعتقاد لأصل المذهب وروى مع ذلك عن الأئمة
-عليهم السلام نظر فيما يرويه. فان كان هناك من طرق الموثوق بهم ما يخالفه
-وجب اطراح خبره. وان لم يكن هناك ما يوجب اطراح خبره ويكون هناك ما
-يوافقه وجب العمل به.
-  </p>
-</blockquote>
+> فأما إذا كان مخالفا في الاعتقاد لأصل المذهب وروى مع ذلك عن الأئمة
+> عليهم السلام نظر فيما يرويه. فان كان هناك من طرق الموثوق بهم ما يخالفه
+> وجب اطراح خبره. وان لم يكن هناك ما يوجب اطراح خبره ويكون هناك ما
+> يوافقه وجب العمل به.
 
-<blockquote dir="rtl">
-  <p>
-وان لم يكن من الفرقة المحقة خبر يوافق ذلك ولا يخالفه، ولا يعرف لهم قول
-فيه، وجب أيضا العمل به
-  </p>
-</blockquote>
+> وان لم يكن من الفرقة المحقة خبر يوافق ذلك ولا يخالفه، ولا يعرف لهم قول
+> فيه، وجب أيضا العمل به
 
 As for the *‘adalah* that is required in the preference of one of two
 reports over another, it is: that the narrator should have the true
@@ -1363,13 +1062,9 @@ In other words, a *muwaththaq hadith* – which is what a non-Imami Muslim
 narrates from the Ahl al-Bayt – is authentic only if there is nothing
 *sahih* that contradicts it. Al-Ṭusi also adds:
 
-<blockquote dir="rtl">
-  <p>
-وان كان ما رووه ليس هناك ما يخالفه ولا يعرف من الطائفة العمل بخلافه،
-وجب أيضا العمل به إذا كان متحرجا في روايته موثوقا في أمانته، وان كان
-مخطئا في أصل الاعتقاد.
-  </p>
-</blockquote>
+> وان كان ما رووه ليس هناك ما يخالفه ولا يعرف من الطائفة العمل بخلافه،
+> وجب أيضا العمل به إذا كان متحرجا في روايته موثوقا في أمانته، وان كان
+> مخطئا في أصل الاعتقاد.
 
 And if there is nothing that contradicts what he narrated, and the
 *ṭaifah* (i.e. Shi’is) are not known to have acted contrary to it, it is
@@ -1386,12 +1081,8 @@ contradicts the *muwaththaq hadith* of Ishaq b. Jarir above?
 
 First, it directly opposes this *ayah* of Allah:
 
-<blockquote dir="rtl">
-  <p>
-الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو مشرك
-وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها إلا زان أو مشرك
+> وحرم ذلك على المؤمنين
 
 The fornicator shall not marry any but a fornicatress or an idolatress;
 **and the fornicatress, none shall marry her but a fornicator or an
@@ -1403,13 +1094,9 @@ verse to both permanent marriage and *mut’ah*.
 
 It also contradicts this *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-اليوم أحل لكم الطيبات وطعام الذين أوتوا الكتاب حل لكم وطعامكم حل لهم
-والمحصنات من المؤمنات والمحصنات من الذين أوتوا الكتاب من قبلكم إذا
-آتيتموهن أجورهن محصنين غير مسافحين ولا متخذي أخدان
-  </p>
-</blockquote>
+> اليوم أحل لكم الطيبات وطعام الذين أوتوا الكتاب حل لكم وطعامكم حل لهم
+> والمحصنات من المؤمنات والمحصنات من الذين أوتوا الكتاب من قبلكم إذا
+> آتيتموهن أجورهن محصنين غير مسافحين ولا متخذي أخدان
 
 Today, the good things are made *halal* to you; and the food of those
 who were given the Book is *halal* for you, and your food is *halal* for
@@ -1428,13 +1115,9 @@ prostitute – is *haram* in Islam, according to the Book of our Lord.
 The third *ayah* which the *muwaththaq hadith* of Ishaq b. Jarir
 contradicts is this:
 
-<blockquote dir="rtl">
-  <p>
-ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات فمن ما ملكت أيمانكم
-من فتياتكم المؤمنات والله أعلم بإيمانكم بعضكم من بعض فانكحوهن بإذن
-أهلهن وآتوهن أجورهن بالمعروف محصنات غير مسافحات ولا متخذات أخدان
-  </p>
-</blockquote>
+> ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات فمن ما ملكت أيمانكم
+> من فتياتكم المؤمنات والله أعلم بإيمانكم بعضكم من بعض فانكحوهن بإذن
+> أهلهن وآتوهن أجورهن بالمعروف محصنات غير مسافحات ولا متخذات أخدان
 
 And whoever of you is not able to afford to marry free believing women,
 let him marry from the believing girls from among those whom your right
@@ -1456,12 +1139,8 @@ suitable for *mut’ah*.
 Thus, what happens to the *muwaththaq hadith* of Ishaq b. Jarir which
 opposes these verses? Al-Khui has a clear answer for this:
 
-<blockquote dir="rtl">
-  <p>
-وقد دلت الأخبار المتواترة على وجوب عرض الروايات على الكتاب والسنة وأن
-ما خالف الكتاب منها يجب طرحه، وضربه على الجدار.
-  </p>
-</blockquote>
+> وقد دلت الأخبار المتواترة على وجوب عرض الروايات على الكتاب والسنة وأن
+> ما خالف الكتاب منها يجب طرحه، وضربه على الجدار.
 
 The ***mutawatir*** **reports** have proved that it is obligatory to
 compare reports with the Book and the *Sunnah*, and that **whatsoever
@@ -1469,11 +1148,7 @@ contradicts the Book from them must be thrown away and discarded**.[^78]
 
 Shaykh al-Saduq (d. 381 H) too declares:
 
-<blockquote dir="rtl">
-  <p>
-وكل حديث لا يوافق كتاب الله فهو باطل
-  </p>
-</blockquote>
+> وكل حديث لا يوافق كتاب الله فهو باطل
 
 Every *hadith* that does not agree with the Book of Allah is a
 fabrication.[^79]
@@ -1482,15 +1157,11 @@ Therefore, the *hadith* of Ishaq b. Jarir is *mawḍu’*, a fabrication.
 
 Then, al-Saduq has this *hadith* too:
 
-<blockquote dir="rtl">
-  <p>
-روى داود بن سرحان، عن زرارة عن أبي عبد الله عليه السلام قال: سألته عن
-قول الله عز وجل: الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها
-إلا زان أو مشرك " قال: هن نساء مشهورات بالزنا، ورجال مشهورون بالزنا،
-شهروا بالزنا وعرفوا به، والناس اليوم بتلك المنزلة من أقيم عليه حد
-الزنا أو شهر بالزنا لم ينبغ لاحد أن يناكحه حتى يعرف منه توبة
-  </p>
-</blockquote>
+> روى داود بن سرحان، عن زرارة عن أبي عبد الله عليه السلام قال: سألته عن
+> قول الله عز وجل: الزاني لا ينكح إلا زانية أو مشركة والزانية لا ينكحها
+> إلا زان أو مشرك " قال: هن نساء مشهورات بالزنا، ورجال مشهورون بالزنا،
+> شهروا بالزنا وعرفوا به، والناس اليوم بتلك المنزلة من أقيم عليه حد
+> الزنا أو شهر بالزنا لم ينبغ لاحد أن يناكحه حتى يعرف منه توبة
 
 Dawud b. Sarhan – Zurarah:
 
@@ -1506,33 +1177,21 @@ is known from them**.”[^80]
 
 The annotator, Prof. ‘Ali Akbar al-Ghiffari, comments:
 
-<blockquote dir="rtl">
-  <p>
-الطريق صحيح
-  </p>
-</blockquote>
+> الطريق صحيح
 
 The chain is *sahih*.[^81]
 
 Al-Ruhani agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^82]
 
 Al-Ṭusi also reports this:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن عيسى عن أبي المعزا عن الحلبي قال قال: أبو عبد الله
-عليه السلام لا تتزوج المرأة المعلنة بالزنا ولا تزوج الرجل المعلن
-بالزنا إلا أن يعرف منهما التوبة.
-  </p>
-</blockquote>
+> أحمد بن محمد بن عيسى عن أبي المعزا عن الحلبي قال قال: أبو عبد الله
+> عليه السلام لا تتزوج المرأة المعلنة بالزنا ولا تزوج الرجل المعلن
+> بالزنا إلا أن يعرف منهما التوبة.
 
 Ahmad b. Muhammad b. ‘Isa – Abu al-Mua’za – al-Halabi – Abu ‘Abd Allah,
 peace be upon him:
@@ -1543,24 +1202,16 @@ them both**.”[^83]
 
 Al-Ruhani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^84]
 
 Al-Kulayni is not left out either:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن محمد بن عيسى، عن يونس، عن محمد بن الفضيل قال:سألت
-أبا الحسن عليه السلام عن المرأة الحسناء الفاجرة هل يجوز للرجل أن يتمتع
-منها يوما أو أكثر؟ فقال: إذا كانت مشهورة بالزنا فلا يتمتع منها ولا
-ينكحها.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن محمد بن عيسى، عن يونس، عن محمد بن الفضيل قال:سألت
+> أبا الحسن عليه السلام عن المرأة الحسناء الفاجرة هل يجوز للرجل أن يتمتع
+> منها يوما أو أكثر؟ فقال: إذا كانت مشهورة بالزنا فلا يتمتع منها ولا
+> ينكحها.
 
 ‘Ali b. Ibrahim – Muhammad b. ‘Isa – Yunus – Muhammad b. al-Fuḍayl:
 
@@ -1572,34 +1223,22 @@ her (permanently)**.”[^85]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq* (Reliable)[^86]
 
 Al-Ruhani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^87]
 
 Then, al-Kulayni reports this too:
 
-<blockquote dir="rtl">
-  <p>
-حميد بن زياد، عن الحسن بن محمد بن سماعة، عن أحمد بن الحسن الميثمي، عن
-أبان، عن حكم بن حكيم، عن أبي عبد الله عليه السلام في قوله عز وجل:
-والزانية لا ينكحها إلا زان أو مشرك قال: إنما ذلك في الجهر ثم قال: لو
-أن إنسانا زنى ثم تاب تزوج حيث شاء.
-  </p>
-</blockquote>
+> حميد بن زياد، عن الحسن بن محمد بن سماعة، عن أحمد بن الحسن الميثمي، عن
+> أبان، عن حكم بن حكيم، عن أبي عبد الله عليه السلام في قوله عز وجل:
+> والزانية لا ينكحها إلا زان أو مشرك قال: إنما ذلك في الجهر ثم قال: لو
+> أن إنسانا زنى ثم تاب تزوج حيث شاء.
 
 Humayd b. Ziyad – al-Hasan b. Muhammad b. Sama’ah – Ahmad b. al-Hasan
 al-Maythami – Aban – Hakam b. Hakim – Abu ‘Abd Allah, peace be upon him,
@@ -1613,26 +1252,18 @@ they can marry wherever they wish (in the** ***halal***
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^89]
 
 And, of course, we must not forget this *hadith* of al-Ṭusi:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن عيسى عن محمد بن إسماعيل بن بزيع قال: سأل رجل الرضا
-عليه السلام وانا اسمع عن الرجل يتزوج المرأة متعة ويشترط عليها ان لا
-يطلب ولدها فتأتي بعد ذلك بولد فينكر الولد فشدد في ذلك وقال يجحد؟ وكيف
-يجحد اعظاما لذلك؟ قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا
-مأمونة ان الله يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا
-ينكحها إلا زان أو مشرك وحرم ذلك على المؤمنين
-  </p>
-</blockquote>
+> أحمد بن محمد بن عيسى عن محمد بن إسماعيل بن بزيع قال: سأل رجل الرضا
+> عليه السلام وانا اسمع عن الرجل يتزوج المرأة متعة ويشترط عليها ان لا
+> يطلب ولدها فتأتي بعد ذلك بولد فينكر الولد فشدد في ذلك وقال يجحد؟ وكيف
+> يجحد اعظاما لذلك؟ قال الرجل فان اتهمها قال: لا ينبغي لك ان تتزوج إلا
+> مأمونة ان الله يقول: الزاني لا ينكح إلا زانية أو مشركة والزانية لا
+> ينكحها إلا زان أو مشرك وحرم ذلك على المؤمنين
 
 Ahmad b. Muhammad b. ‘Isa – Muhammad b. Isma’il b. Bazi’:
 
@@ -1650,33 +1281,21 @@ for the believers}.[^90]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^91]
 
 Al-Ruhani concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^92]
 
 Meanwhile, al-Kulayni still has more:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن حماد بن عيسى، عن حريز بن عبد الله، عن محمد
-ابن مسلم، عن أبي جعفر عليه السلام قال: سألته عن الخبيثة أتزوجها؟ قال:
-لا.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن حماد بن عيسى، عن حريز بن عبد الله، عن محمد
+> ابن مسلم، عن أبي جعفر عليه السلام قال: سألته عن الخبيثة أتزوجها؟ قال:
+> لا.
 
 ‘Ali b. Ibrahim – his father – Hammad b. ‘Isa – Hariz b. ‘Abd Allah –
 Muhammad b. Muslim:
@@ -1686,23 +1305,15 @@ marry her?**” He said, “**No**.”[^93]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^94]
 
 Let us then cap everything with this additional *hadith* of al-Kulayni:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن علي بن الحكم، عن العلاء بن رزين، عن
-محمد بن مسلم قال: سألت أبا جعفر عليه السلام عن الخبيثة يتزوجها الرجل،
-قال: لا، وقال: إن كان له أمة وطئها ولا يتخذها أم ولده.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن علي بن الحكم، عن العلاء بن رزين، عن
+> محمد بن مسلم قال: سألت أبا جعفر عليه السلام عن الخبيثة يتزوجها الرجل،
+> قال: لا، وقال: إن كان له أمة وطئها ولا يتخذها أم ولده.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – ‘Ali b. al-Hakam – al-‘Ala b.
 Zarin – Muhammad b. Muslim:
@@ -1714,11 +1325,7 @@ as the mother of his child.”[^95]
 
 And, al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^96]
 
@@ -1732,13 +1339,9 @@ Hadith Sixteen
 
 Shaykh al-Mufid (d. 413 H) records:
 
-<blockquote dir="rtl">
-  <p>
-وعن الحسن بن جرير قال: سألت أبا عبد الله عليه السلام في المرأة تزني
-عليها أيتمتع بها؟ قال: أرأيت ذلك؟ قلت: لا، ولكنها ترمى به قال: نعم
-يتمتع بها على أنك تغادر وتغلق بابك.
-  </p>
-</blockquote>
+> وعن الحسن بن جرير قال: سألت أبا عبد الله عليه السلام في المرأة تزني
+> عليها أيتمتع بها؟ قال: أرأيت ذلك؟ قلت: لا، ولكنها ترمى به قال: نعم
+> يتمتع بها على أنك تغادر وتغلق بابك.
 
 Narrated al-Hasan b. Jarir:
 
@@ -1757,13 +1360,9 @@ Hadith Seventeen
 
 Al-Himyari (d. 300 H), in the book attributed to him, has this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قال علي بن رئاب: سألت أبا عبد الله عليه السلام عن المرأة الفاجرة
-يتزوجها الرجل المسلم؟ قال :نعم، وما يمنعه؟ إذا فعل فليحصن بابه مخافة
-الولد
-  </p>
-</blockquote>
+> قال علي بن رئاب: سألت أبا عبد الله عليه السلام عن المرأة الفاجرة
+> يتزوجها الرجل المسلم؟ قال :نعم، وما يمنعه؟ إذا فعل فليحصن بابه مخافة
+> الولد
 
 ‘Ali b. Riab said:
 
@@ -2140,5 +1739,4 @@ Muasassat al-‘Arif li al-Maṭbu’at; 2nd edition, 1426 H), vol. 2, p. 487
 al-Muṣtafa al-‘Alami li Tarjamah wa al-Nashr), pp. 427-428, \# 6;
 Muhammad Aṣif al-Muhsini, Mashra’ah Bihar al-Anwar (Beirut: Muasassat
 al-‘Arif li al-Maṭbu’at; 2nd edition, 1426 H), vol. 1, p. 14 and 405
-
 

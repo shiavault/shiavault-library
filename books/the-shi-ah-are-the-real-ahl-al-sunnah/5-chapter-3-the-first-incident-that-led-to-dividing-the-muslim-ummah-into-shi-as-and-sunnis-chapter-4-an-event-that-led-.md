@@ -49,7 +49,7 @@ position as the caliph in order to carry out the injunctions of the
 Sunnah, he witnessed the others rejecting the Sunnah as they sought the
 caliphate.
 
-[^14] Read on p. 29, Vol. 1, of al-Shahristani's book Kitab al-milal wal
+[^14]: Read on p. 29, Vol. 1, of al-Shahristani's book Kitab al-milal wal
 nihal the Prophet's statement: "Allah curses whoever lags behind
 Usamah's army."
 

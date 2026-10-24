@@ -87,7 +87,6 @@ being Allah’s slave”[^13]. The idea of apothessizing people has been
 prevailing among other nations then it sneaked to the followers of
 heavenly religions and mixed with the beliefs of some of them.
 
-
 Christianity for example claims AlMasseiah’s deity, Judaism claims that
 Auzair is the son of Allah!
 
@@ -306,5 +305,4 @@ and said:
 O people’ beware of knowing the science of sooth telling except what is
 used to know the directions in land and sea- till he said to them- go on
 depending on Allah (be exalted). [^30]
-
 

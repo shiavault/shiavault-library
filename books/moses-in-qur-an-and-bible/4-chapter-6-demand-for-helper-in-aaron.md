@@ -20,7 +20,6 @@ that we should glorify Thee much and remember Thee aught oft; surely
 Thou art seeing us. He said: Thou art indeed granted thy petition! O
 Musa!" (20:25-36).
 
-
 **Chapter 7: Moses Ordered to go to Pharaoh and Demand the Deliverance
 of the Israelites**
 
@@ -51,7 +50,6 @@ him who follows the guidance. Surely it has been revealed to us that the
 chastisement will surely come upon him who rejects and turns back."
 (20:43-48)
 
-
 **Chapter 8: Discussion with Pharaoh**
 
 "Fir'aun asked: Who is your Lord, O Musa? He said: Our Lord is He Who
@@ -77,7 +75,6 @@ which shall be proof of my mission? He said: Forth with it then if thou
 speakest the truth. Then threw he down his staff and lo! it was an
 obvious serpent. And he drew forth his hand and to! it appeared white to
 the beholders." (26:23-33)4
-
 
 **Chapter 9 :Pharaoh's Enchanters Vanquished**
 
@@ -120,7 +117,6 @@ believer and he has done good deeds, indeed these it is who shall have
 the high ranks, the gardens of perpetuity beneath which rivers flow, to
 abide therein, and this is the reward of him who has purified himself."
 (20:72-76)
-
 
 **Chapter 10: Pharaoh's Opposition to Moses**
 
@@ -169,5 +165,4 @@ that they believe not until they see the painful chastisement. He said:
 The prayer of you both has indeed been accepted. Therefore continue in
 the right was and do not follow the path of those who do not know."
 (20:84-89)
-
 

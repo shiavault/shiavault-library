@@ -50,14 +50,10 @@ and those living around it within a distance of forty‑eight miles, and
 it is not permissible for them to perform except one of these two kinds.
 The Imamiyyah base their argument on this verse of the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ
-الْهَدْيِ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ
-وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَنْ
-لَمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ
-  </p>
-</blockquote>
+> فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ
+> الْهَدْيِ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ
+> وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَنْ
+> لَمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ
 
 ***…if any one wishes to continue the 'umra on to the hajj, He must make
 an offering, such as he can afford, but if he cannot afford it, He
@@ -93,5 +89,4 @@ ihram.
 [^2]: Ibn 'Aqil is alone among Imamiyyah legists in agreeing with the
 Sunni legists in that the acts of both the Hajj and the ‘Umrah may be
 performed with a single ihram in Hajj al-qiran.
-
 

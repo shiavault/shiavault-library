@@ -219,11 +219,7 @@ is surprising that most of us are afflicted by a degree of polytheism
 because we have no faith in the superiority of the hereafter over the
 world:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُؤْمِنُ اَکْثَرُهُمْ بِاللهِ اِلاَّ وَهُمْ مُشْرِکُونَ
-  </p>
-</blockquote>
+> وَمَا يُؤْمِنُ اَکْثَرُهُمْ بِاللهِ اِلاَّ وَهُمْ مُشْرِکُونَ
 
 ***“And most of them do not believe in Allah without associating others
 (with Him).”***[^1]
@@ -444,5 +440,4 @@ al-Islam.
 
 [^6]: Nahj al-Balaghah, p. 294, sermon [khutbah] 108, trans. Fayd
 al-Islam.
-
 

@@ -40,4 +40,3 @@ utter darkness?" (Qur’an 6:122).***
 And in the end they and everything they possess belongs to God, and God
 to them: “Whoso is near to God, God is nigh unto him.”
 
-

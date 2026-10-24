@@ -250,4 +250,3 @@ I sleep? I’ll stay up with the beloved; I’ll speak with Him till dawn so
 I won’t miss the morning prayers. I shall remain with the beloved all
 night, the One who took heed of me, while I was heedless of Him.
 
-

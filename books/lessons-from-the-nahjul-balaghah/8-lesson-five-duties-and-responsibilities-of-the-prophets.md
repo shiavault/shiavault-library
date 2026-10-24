@@ -288,4 +288,3 @@ Prophets have to show the signs of God's power to the people.
 
 [^1]: Sermon No. 1.
 
-

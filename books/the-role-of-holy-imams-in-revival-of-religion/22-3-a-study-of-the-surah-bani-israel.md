@@ -256,7 +256,6 @@ publicly in Mecca. The final result of all this being.
 First of all - The revelation of the Najm occured in the years prior to
 the migration.
 
-
 And second of all- The revelation of this surah was at the outset of
 the mission.
 

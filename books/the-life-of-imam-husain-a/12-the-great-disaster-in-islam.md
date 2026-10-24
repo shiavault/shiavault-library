@@ -86,7 +86,7 @@ may see the common Muslims. And a general congregation was arranged
 there, that he may specify a reliable way for the salvation of his
 followers so that it may keep them from misguidance and deviation.
 
-The Messenger of Allah (s) went for his last Hajj in the 10<sup>th</sup>
+The Messenger of Allah (s) went for his last Hajj in the 10th
 year of Hijrah, which is known as the Farewell Hajj. And it was
 announced in the public that it would be their last opportunity to see
 the Prophet on that occasion at that place. He said, “I don’t know;
@@ -525,7 +525,7 @@ Emigrants and Helpers regarding this. On the basis of the statements of
 historians, Abu Bakr, Umar, Abu Ubaidah Jarrah and Bashir bin
 Saad**[3]** were included in this group. And he gave the command to
 Usamah bin Zaid who was just a young boy and this expedition was sent
-out around 26<sup>th</sup> Safar, 11 A.H.  
+out around 26th Safar, 11 A.H.  
 
 ------------------------------------------------------------------------
 
@@ -546,7 +546,7 @@ reaches there. Then if Almighty Allah grants you victory on them, stay
 there only for a brief period and take some advisors with you and send
 spies and scouts before you…”
 
-On 29<sup>th</sup> Safar he himself inspected the troops that they have
+On 29th Safar he himself inspected the troops that they have
 scattered because the senior companions had not joined the formation.
 The Holy Prophet (s) became angry upon this and in spite of his severe
 illness he came out and encouraged them to move forward and himself tied
@@ -957,7 +957,7 @@ following words of Almighty Allah:
 passed away before him; if then he dies or is killed will you turn back
 upon your heels? And whoever turns back upon his heels, he will by no
 means do harm to Allah in the least; and Allah will reward the
-grateful.”<sup>(</sup>[1]<sup>)(</sup>[2]<sup>)</sup>**
+grateful.”([1])([2])**
 
 Anas bin Malik has narrated that: Fatima came to the Prophet during his
 illness with Hasan and Husain and she threw herself at him and kept her

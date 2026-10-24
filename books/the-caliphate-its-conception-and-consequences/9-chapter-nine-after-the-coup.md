@@ -460,7 +460,6 @@ of the will, their leader applauded it. They would go to any lengths to
 secure their object, and that was one of the reasons why IMAM ALI did
 not take up the sword to wrest from them what was his by right.
 
-
 **The Shura**
 
 UMAR interpreted the feelings of his party correctly when he said that
@@ -1089,5 +1088,4 @@ two persons joined up with BANU OMAYYA to support UTHMAN, BANU HASHIM
 would be helpless to dislodge him. Moreover, MU'AWIYA was already
 established in Syria to act as his guardian angel. Thus encircled and
 checkmated, the subjugation of BANU HASHIM was assured.
-
 

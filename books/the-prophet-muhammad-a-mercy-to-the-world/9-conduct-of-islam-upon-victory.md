@@ -314,4 +314,3 @@ the Day of Judgement.'151
 
 151 Bihar al-Anwar; vol. 21, p.142-143, Amali al-Saduq, p 173.
 
-

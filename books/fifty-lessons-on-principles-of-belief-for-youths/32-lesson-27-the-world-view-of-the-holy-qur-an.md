@@ -147,4 +147,3 @@ Qur’an arose?
 the Creator? Give examples.  
  5. How can one better understand the content of the Holy Qur’an?
 
-

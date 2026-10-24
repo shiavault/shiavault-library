@@ -23,4 +23,3 @@ charges leveled against the honor of their believing brethren and Muslim
 peers without regarding doing so as a sin, nor are they cautious lest
 the Great One of the heavens should overtake them on its account.
 
-

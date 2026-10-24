@@ -320,4 +320,3 @@ in the Persian book entitled 'Risalati Jahani Pyambaran'.
 
 [^7]: Seerah-i Ibn Hisham, vol. I, page 316.
 
-

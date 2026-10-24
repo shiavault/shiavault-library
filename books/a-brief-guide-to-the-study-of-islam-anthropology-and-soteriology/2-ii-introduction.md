@@ -99,4 +99,3 @@ society. And it may mean that we will discover in dialogue dimensions of
 human existence before God that our own particular tradition of
 Christian theological reflection has passed by.
 
-

@@ -16,31 +16,19 @@ prevents [divine] mercy, and sparing one who does not spare others
 destroys the nation.
 
 > 3ـ رَحْمَةُ مَنْ لا يَرْحَمُ تَمْنَعُ الرَّحْمَةَ، واسْتِبْقاءُ مَنْ
-<blockquote dir="rtl">
-  <p>
-لا يُبْقي يُهْلِكُ الاُمَّةَ.
-  </p>
-</blockquote>
+> لا يُبْقي يُهْلِكُ الاُمَّةَ.
 
 4. I am amazed at the one who hopes for the mercy of one who is above
 him, how can he not show compassion to the one who is below him?!
 
 > 4ـ عَجِبْتُ لِمَنْ يَرْجُو رَحْمَةَ مَنْ فَوْقَهُ كَيْفَ لايَرحَمُ
-<blockquote dir="rtl">
-  <p>
-مَنْ دُونَهُ.
-  </p>
-</blockquote>
+> مَنْ دُونَهُ.
 
 5. Make your heart feel compassion for all people and [show] kindness
 towards them, [and] do not oppress them or terrorize them.
 
 > 5ـ أشْعِر قَلْبَكَ الرَّحْمَةَ لِجَميعِ النَّاسِ والإحْسانَ إلَيْهِمْ
-<blockquote dir="rtl">
-  <p>
-تُنِلْهُمْ حَيْفاً وَلاتَكُنْ عَلَيْهِمْ سَيْفاً.
-  </p>
-</blockquote>
+> تُنِلْهُمْ حَيْفاً وَلاتَكُنْ عَلَيْهِمْ سَيْفاً.
 
 6. The most deserving of [showing] mercy among the people is the one who
 is most in need of it [himself].
@@ -51,11 +39,7 @@ is most in need of it [himself].
 people [in your heart].
 
 > 7ـ أبْلَغُ ما تَسْتَدِرُّ بِهِ الرَّحمَةُ أنْ تُضْمَرَ لِجَميعِ
-<blockquote dir="rtl">
-  <p>
-النَّاسِ الرَّحْمَةُ.
-  </p>
-</blockquote>
+> النَّاسِ الرَّحْمَةُ.
 
 8. When you are incapable of helping the weak [and needy] then let your
 compassion encompass them.
@@ -79,11 +63,7 @@ from him.
 when he needs it.
 
 > 12ـ مَنْ لَمْ تَسْكُنِ الرَّحْمَةُ قَلْبَهُ قَلَّ لِقاؤُها لَهُ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-حاجَتِهِ.
-  </p>
-</blockquote>
+> حاجَتِهِ.
 
 13. One who shows mercy is shown mercy.
 
@@ -97,5 +77,4 @@ when he needs it.
 ignorant.
 
 > 15ـ مِنْ أوْكَدِ أسْبابِ العَقلِ رَحْمَةُ الجُهَّالِ.
-
 

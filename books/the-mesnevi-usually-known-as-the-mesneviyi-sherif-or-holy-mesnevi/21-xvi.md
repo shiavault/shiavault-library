@@ -1163,4 +1163,3 @@ Muhammed at Medīna. He proposed to them a trial by invocation of God's
 curse on the liars, their wives, and children. He uttered it; they
 shrank, and accepted submission to him, on condition of paying tribute.
 
-

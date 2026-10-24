@@ -70,4 +70,3 @@ his father as to why he had called the witnesses. Imam Baqir replied
 that he did so, so as to silence those who could claim later on that
 Imam Baqir (A.S) had left no successor.
 
-

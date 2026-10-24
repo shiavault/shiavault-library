@@ -6,4 +6,3 @@ Pretension
 Praise to Allāh, Lord of the Worlds, greetings unto Muhammad and his
 Progeny and the sincere servants of Allāh.
 
-

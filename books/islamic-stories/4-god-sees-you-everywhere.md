@@ -30,4 +30,3 @@ non-believer. And if you believe that He sees you and you commit a sin
 in His presence, then you consider Him as the lowest of those seeing
 you”.
 
-

@@ -185,4 +185,3 @@ Islam has treated women not only fairly but generously.[^6]
 [^6]: B. Aisha Lemu and Fatima Heeren, Woman in Islam (London: Islamic
 Foundation, 1978) p. 23.
 
-

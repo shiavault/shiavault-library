@@ -40,4 +40,3 @@ Questions
 
 2. Name four things you pray to Allah for.
 
-

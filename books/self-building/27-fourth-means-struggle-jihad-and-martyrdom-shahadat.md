@@ -11,13 +11,9 @@ plenty of traditions and Qur’anic Verses which describe the special
 importance attached to struggle. e.g. : God-Almighty says in Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ
-بِأَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ اللَّهِ ۚ
-وَأُولَٰئِكَ هُمُ الْفَائِزُونَ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ
+> بِأَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ اللَّهِ ۚ
+> وَأُولَٰئِكَ هُمُ الْفَائِزُونَ
 
 ***“Those who believe and have left their homes and striven with their
 wealth and their lives in God's way are of much greater worth in God's
@@ -30,13 +26,9 @@ sedentary. (4:95)***
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: للجنة باب يقال له باب المجاهدين
-يمضون إليه فإذا هو مفتوح وهم متقلدون بـسيوفهم والجمع فى الموقف
-والملائكة ترحب بهم.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: للجنة باب يقال له باب المجاهدين
+> يمضون إليه فإذا هو مفتوح وهم متقلدون بـسيوفهم والجمع فى الموقف
+> والملائكة ترحب بهم.
 
 *“There is a gate in the Paradise called as the “Gate of Strugglers.”
 When the strugglers walk towards the Paradise, the gate opens and the
@@ -46,12 +38,8 @@ for accounting of their deeds.”*[^1]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: فوق كل ذى بربر حتى يقتل فى سبيل الله,
-فاذا قتل فى سبيل الله فليس فوقه بر.
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: فوق كل ذى بربر حتى يقتل فى سبيل الله,
+> فاذا قتل فى سبيل الله فليس فوقه بر.
 
 *“For every virtue, there is an another higher virtue except when a
 human being sacrifices his life for the sake of God-Almighty. And in
@@ -60,17 +48,13 @@ that case there exists nothing superior than that.”*[^2]
 The Holy Prophet (S) said: “That God-Almighty bestows upon a martyr the
 following seven blessings;
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: للشهيد سبع خصال من الله: أول قطرة من
-دمه مغفور له كل ذنب. والثانية يقع رأسه في حجر زوجتيه من الحور العين
-وتمسحان الغبار عن وجهه، وتقولان مرحباً بك، ويقول هو مثل ذلك لهما.
-والثالثة يكسى من كسوة الجنّة. والرابعة تبتدره خزنة الجنّة بكل ريحٍ
-طيبة أيّهم يأخذه معه. والخامسة أن يرى منزله. والسادسة أن يقال لروحه
-اسرح في الجنّة حيث شئت. والسابعة أن ينظر في وجه الله وإنّها لراحة لكل
-نبي وشهيد.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: للشهيد سبع خصال من الله: أول قطرة من
+> دمه مغفور له كل ذنب. والثانية يقع رأسه في حجر زوجتيه من الحور العين
+> وتمسحان الغبار عن وجهه، وتقولان مرحباً بك، ويقول هو مثل ذلك لهما.
+> والثالثة يكسى من كسوة الجنّة. والرابعة تبتدره خزنة الجنّة بكل ريحٍ
+> طيبة أيّهم يأخذه معه. والخامسة أن يرى منزله. والسادسة أن يقال لروحه
+> اسرح في الجنّة حيث شئت. والسابعة أن ينظر في وجه الله وإنّها لراحة لكل
+> نبي وشهيد.
 
 *1. “When the first drop of blood comes out his body all his sins are
 pardoned.*
@@ -94,16 +78,12 @@ sort of comfort for every prophet and martyr.”*[^3]
 
 God-Almighty says in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم
-بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ
-فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ
-وَالْإِنجِيلِ وَالْقُرْآنِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِ مِنَ اللَّهِ ۚ
-فَاسْتَبْشِرُوا بِبَيْعِكُمُ الَّذِي بَايَعْتُم بِهِ ۚ وَذَٰلِكَ هُوَ
-الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم
+> بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ
+> فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ
+> وَالْإِنجِيلِ وَالْقُرْآنِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِ مِنَ اللَّهِ ۚ
+> فَاسْتَبْشِرُوا بِبَيْعِكُمُ الَّذِي بَايَعْتُم بِهِ ۚ وَذَٰلِكَ هُوَ
+> الْفَوْزُ الْعَظِيمُ
 
 ***“Lo! God hath bought .from the believers their lives and their wealth
 because the Garden will be theirs: They shall fight in the way of God
@@ -144,12 +124,8 @@ That is the most supreme achievement.
 The Holy Qur’an for a human being martyred in God's path confirms the
 highest position and says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
-بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
+> بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
 
 ***“Think not of those who are slain in God's way as dead. Nay they live
 finding their sustenance in the presence of their Lord. (3:169)***
@@ -228,5 +204,4 @@ even inside the mosques and temples.
 [^2]: Wasail al-Shi’a, vol. 11,p-l0.
 
 [^3]: Wasail al-Shi’a, vol., 11,p-9.
-
 

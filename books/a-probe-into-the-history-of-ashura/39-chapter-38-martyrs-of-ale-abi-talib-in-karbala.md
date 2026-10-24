@@ -96,4 +96,3 @@ have been a matter of worry and uneasiness. Now that they have performed
 this Divine duty decently and acquired the honor of martyrdom it is only
 appropriate that we should thank Allah for this success".
 
-

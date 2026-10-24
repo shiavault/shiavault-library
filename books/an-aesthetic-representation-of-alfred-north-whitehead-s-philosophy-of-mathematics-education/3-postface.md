@@ -14,4 +14,3 @@ world. This short story demonstrates how all*becoming* s are moving to a
 destination to fulfill their potential - thus becoming*important being*
 s rather than remaining simply*expression* s.
 
-

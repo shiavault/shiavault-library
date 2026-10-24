@@ -179,4 +179,3 @@ trade in such items with non-Muslims based on the principle of “raf’u
 
 [^4]: As-Saduq, Man la Yahduruhu ‘l-Faqih, vol.3,p.169
 
-

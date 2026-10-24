@@ -192,4 +192,3 @@ The Almighty Allah also states:
 they are alive (and) are provided sustenance from their Lord
 (3:169)."***
 
-

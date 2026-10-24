@@ -45,4 +45,3 @@ Bahlool gave a loud laugh and said, “Zubaydah bought it without seeing
 (the reward), but you heard and so want to buy it, but regretfully, I
 won't sell it to you.”
 
-

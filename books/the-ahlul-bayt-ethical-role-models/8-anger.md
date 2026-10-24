@@ -141,4 +141,3 @@ and touching the hand of the relative who is the object of anger.
 
 [^7]: Quoted from Nahj ul-Balagha.
 
-

@@ -16,10 +16,5 @@ nor productivity.
 another; the best country is the one that bears you.
 
 > 3ـ لَيْسَ بَلَدٌ أحَقُّ البِلادِ بِكَ مِنْ بَلَد، خَيْرُ البِلادِ ما
-<blockquote dir="rtl">
-  <p>
-حَمَلَكَ.
-  </p>
-</blockquote>
-
+> حَمَلَكَ.
 

@@ -210,4 +210,3 @@ found in God.
  Explain in your own words the concept of “additional quality” and why
 this attribute is incompatible with the concept of Divinity.
 
-

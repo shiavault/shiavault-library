@@ -133,4 +133,3 @@ throughout the Muslim world. (Trans.)
 
 [^8]: Ahmad ibn Hanbal, Musnad, vol. 2, p. 390.
 
-

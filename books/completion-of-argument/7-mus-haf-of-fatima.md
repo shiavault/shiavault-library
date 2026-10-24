@@ -115,4 +115,3 @@ different Qurans?
 condition that it shall not have any dotted letters. Swami Dayanand
 Saraswati has mistaken it for another Quran.
 
-

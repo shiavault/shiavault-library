@@ -81,11 +81,7 @@ to pay allegiance to Abu Bakr, Imam Ali (a.s.) stood by the Prophet’s
 grave and repeated what Prophet Harun (a.s.) had told Prophet Musa
 (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي
-  </p>
-</blockquote>
+> ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي
 
 ***“Son of my mother! surely the people reckoned me weak and had
 well-nigh slain me…”***[^1]
@@ -95,12 +91,8 @@ to Abu Bakr and everyone recognized that it was the hand of the Prophet
 and a voice, which everyone recognized to be the voice of the Holy
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ
-سَوَّاكَ رَجُلًا
-  </p>
-</blockquote>
+> أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ
+> سَوَّاكَ رَجُلًا
 
 ***“Do you disbelieve in Him Who created you from dust, then from a
 small seed, then He made you a perfect man?”***[^2]
@@ -108,12 +100,8 @@ small seed, then He made you a perfect man?”***[^2]
 According to another report, a plate came out from the grave on which
 was inscribed:
 
-<blockquote dir="rtl">
-  <p>
-أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ
-سَوَّاكَ رَجُلًا
-  </p>
-</blockquote>
+> أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ
+> سَوَّاكَ رَجُلًا
 
 ***“Do you disbelieve in Him Who created you from dust, then from a
 small seed, then He made you a perfect man?”***[^3]
@@ -178,5 +166,4 @@ Ahlul Bayt (a.s.).
 [^2]: Surah Kahf 18:37
 
 [^3]: Surah Kahf 18:37
-
 

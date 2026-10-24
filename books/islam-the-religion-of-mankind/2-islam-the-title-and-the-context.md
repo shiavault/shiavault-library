@@ -63,4 +63,3 @@ and follow the light which has been sent down with him, these it is that
 are the successful."
 Sura A'raf (7:157)
 
-

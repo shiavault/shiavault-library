@@ -3,17 +3,9 @@ Sermon 7: They have made Satan the master of their affairs...
 
 *About the hypocrites*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-يذم فيها أتباع الشيطان
-  </p>
-</blockquote>
+> يذم فيها أتباع الشيطان
 
 They[^1] have made Satan the master of their affairs, and he has taken
 them as partners. He has laid eggs and hatched them in their bosoms. He
@@ -22,16 +14,12 @@ with their tongues. In this way he has led them to sinfulness and
 adorned for them foul things like the action of one whom Satan has made
 partner in his domain and speaks untruth through his tongue.
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُوا الشَّيْطَانَ لاِمْرِهِمْ مِلاَكاً، وَاتَّخَذَهُمْ لَهُ
-أَشْرَاكاً، فَبَاضَ وَفَرَّخَ في صُدُورِهِمْ، وَدَبَّ وَدَرَجَ في
-حُجُورِهِمْ، فَنَظَرَ بِأَعْيُنِهِمْ، وَنَطَقَ بِأَلسِنَتِهِمْ،
-فَرَكِبَ بِهِمُ الزَّلَلَ، وَزَيَّنَ لَهُمُ الخَطَلَ، فِعْلَ مَنْ قَدْ
-شَرِكَهُ الشَّيْطَانُ في سُلْطَانِهِ، وَنَطَقَ بِالبَاطِلِ عَلى
-لِسَانِهِ!
-  </p>
-</blockquote>
+> اتَّخَذُوا الشَّيْطَانَ لاِمْرِهِمْ مِلاَكاً، وَاتَّخَذَهُمْ لَهُ
+> أَشْرَاكاً، فَبَاضَ وَفَرَّخَ في صُدُورِهِمْ، وَدَبَّ وَدَرَجَ في
+> حُجُورِهِمْ، فَنَظَرَ بِأَعْيُنِهِمْ، وَنَطَقَ بِأَلسِنَتِهِمْ،
+> فَرَكِبَ بِهِمُ الزَّلَلَ، وَزَيَّنَ لَهُمُ الخَطَلَ، فِعْلَ مَنْ قَدْ
+> شَرِكَهُ الشَّيْطَانُ في سُلْطَانِهِ، وَنَطَقَ بِالبَاطِلِ عَلى
+> لِسَانِهِ!
 
 Alternative Sources for Sermon 7
 --------------------------------
@@ -60,5 +48,4 @@ Those whose bosoms shine with the effulgence of faith prevent such evil
 ideas but some are already ready to welcome those evils and these are
 the persons who under the garb of Islam are ever after advancement of
 heresy.
-
 

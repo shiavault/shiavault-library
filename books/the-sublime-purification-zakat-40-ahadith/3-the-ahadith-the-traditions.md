@@ -4,13 +4,9 @@ The Ahadith, The Traditions
 Hadith Number 1:Zakat, A Bridge of Islam
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنِ النَّبِي أَنَّهُ قَالَ: أَلزَّكَاةُ قَنْطَرَةُ
-الإِسْلاَمِ، فَمَنْ أَدَّاهَا جَازَ الْقَنْطَرَةَ وَمَنْ مَنَعَهَا
-إِحْتَبَسَ دُوْنَهَا وَهِيَ تُطْفِئُ غَضَبَ الرَّبِّ.
-  </p>
-</blockquote>
+> رُوِيَ عَنِ النَّبِي أَنَّهُ قَالَ: أَلزَّكَاةُ قَنْطَرَةُ
+> الإِسْلاَمِ، فَمَنْ أَدَّاهَا جَازَ الْقَنْطَرَةَ وَمَنْ مَنَعَهَا
+> إِحْتَبَسَ دُوْنَهَا وَهِيَ تُطْفِئُ غَضَبَ الرَّبِّ.
 
 It has been narrated from the Noble Prophet (blessings of Allah be upon
 him and his family), that he said: “Zakat is the bridge of Islam; so
@@ -22,13 +18,9 @@ Lord.”
 Hadith Number 2: Zakat and its Importance
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنْ أَبِي عَبْدِ اللٌّهِ الصَّادِقِ أَنَّهُ قَالَ: مَا فَرَضَ
-اللٌّهُ عَلى هٌذِهِ الأُمَّةِ شَيْئاً أَشَدُّ عَلَيْهِمْ مِنَ
-الزَّكَاةِ، وَفِيْهَا تَهْلِكُ عَامَّتُهُمْ.
-  </p>
-</blockquote>
+> رُوِيَ عَنْ أَبِي عَبْدِ اللٌّهِ الصَّادِقِ أَنَّهُ قَالَ: مَا فَرَضَ
+> اللٌّهُ عَلى هٌذِهِ الأُمَّةِ شَيْئاً أَشَدُّ عَلَيْهِمْ مِنَ
+> الزَّكَاةِ، وَفِيْهَا تَهْلِكُ عَامَّتُهُمْ.
 
 It has been narrated from Abi {Abdullah (Imam) al-Sadiq (peace be upon
 him), that he said: “Allah has not imposed anything more serious than
@@ -38,14 +30,10 @@ Zakat upon this nation – and due to it, many of them shall perish.”
 Hadith Number 3: Zakat is Coupled with Prayer
 ---------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنْ أَبِي الْحَسَنِ الرِّضَا أَنَّهُ قَالَ: إِنَّ اللٌّهَ
-عَزَّ وَجَلَّ أَمَرَ بِثَلاَثَةٍ مَقْرُوْنٌ بِهَا ثَلاَثَةٌ أُخْرَى:
-أَمَرَ بِالصَّلاَةِ وَالزَّكَاةِ، فَمَنْ صَلّى وَلَمْ يُزَكِّ لَمْ
-تُقْبَلْ مِنْهُ صَلاَتُهُ...
-  </p>
-</blockquote>
+> رُوِيَ عَنْ أَبِي الْحَسَنِ الرِّضَا أَنَّهُ قَالَ: إِنَّ اللٌّهَ
+> عَزَّ وَجَلَّ أَمَرَ بِثَلاَثَةٍ مَقْرُوْنٌ بِهَا ثَلاَثَةٌ أُخْرَى:
+> أَمَرَ بِالصَّلاَةِ وَالزَّكَاةِ، فَمَنْ صَلّى وَلَمْ يُزَكِّ لَمْ
+> تُقْبَلْ مِنْهُ صَلاَتُهُ...
 
 It has been narrated from Abul Hasan (Imam) al-Ridha (peace be upon
 him), that he said: “Indeed Allah, the Sublime and Glorious, commanded
@@ -57,12 +45,8 @@ upon the zakat, his prayer shall not be accepted from him ...”
 Hadith Number 4: Zakat is Coupled with Prayer and Piety
 -------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنِ الإِِمَامِ الصَّادِقِ أَنَّهُ قَالَ :لاَ صَلاَةَ لِمَنْ
-لاَ زَكَاةَ لَهُ، وَلاَ زَكَاةَ لِمَنْ لاَ وَرَعَ لَهُ.
-  </p>
-</blockquote>
+> رُوِيَ عَنِ الإِِمَامِ الصَّادِقِ أَنَّهُ قَالَ :لاَ صَلاَةَ لِمَنْ
+> لاَ زَكَاةَ لَهُ، وَلاَ زَكَاةَ لِمَنْ لاَ وَرَعَ لَهُ.
 
 It has been narrated from Imam al-Sadiq (peace be upon him), that he
 said: “There is no prayer for whom there is no zakat; and there is no
@@ -72,14 +56,10 @@ zakat for whom there is no piety.”
 Hadith Number 5: The Reason for Zakat, Helping Others
 -----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنِ الإِمَامِ الرِّضَا: عِلَّةُ الزَّكَاةِ مِنْ أَجْلِ قُوْتِ
-الْفُقَرَاءِ، وَتَحْصِيْلِ أَمْوَالِ الأَغْنِيَاءِ. لأَِنَّ اللٌّهَ
-تَبارَكَ وَتَعَالىٌ كَلَّفَ أَهْلَ الصِّحَّةِ الْقِيَامِ بِشَأْنِ
-أَهْلِ الزَّمَانَةِ وَالْبَلْوَى.
-  </p>
-</blockquote>
+> رُوِيَ عَنِ الإِمَامِ الرِّضَا: عِلَّةُ الزَّكَاةِ مِنْ أَجْلِ قُوْتِ
+> الْفُقَرَاءِ، وَتَحْصِيْلِ أَمْوَالِ الأَغْنِيَاءِ. لأَِنَّ اللٌّهَ
+> تَبارَكَ وَتَعَالىٌ كَلَّفَ أَهْلَ الصِّحَّةِ الْقِيَامِ بِشَأْنِ
+> أَهْلِ الزَّمَانَةِ وَالْبَلْوَى.
 
 It has been narrated from Imam al-Ridha (peace be upon him), that he
 said: “The reason for zakat is to ensure the sustenance of the poor and
@@ -91,17 +71,13 @@ people afflicted with illness and tribulation.”
 Hadith Number 6: The Reason for Zakat, Accountability of the Rich
 -----------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ جَعْفَرِ بْنِ مُحَمَّد عَنْ أَبِيْهِ عَنْ آبَائِهِ عَنْ عَلِيٍّ
-أَمِيْرِ الْمُؤْمِنِيْنَ أَنَّهُ قَالَ: إِنَّ اللٌّهَ فَرَضَ عَلى
-أَغْنِيَاءِ النَّاسِ فِي أَمْوَالِهِمْ قَدْرَ الَّذِي يَسَعُ
-فُقَرَائَهُمْ. فَإِنْ ضَاعَ الْفَقِيْرُ أَوْ أَجْهَدَ أَوْ عَرَى
-فَبِمَا يَمْنَعُ الْغَنِيُّ وَإِنَّ اللٌّهَ عَزَّ وَجَلَّ مُحَاسِبُ
-الأَغْنِيَاءَ فِي ذٌلِكَ يَوْمَ الْقِيَامَةِ وَمُعَذِّبُهُمْ عَذَاباً
-أَلِيْماً.
-  </p>
-</blockquote>
+> وَعَنْ جَعْفَرِ بْنِ مُحَمَّد عَنْ أَبِيْهِ عَنْ آبَائِهِ عَنْ عَلِيٍّ
+> أَمِيْرِ الْمُؤْمِنِيْنَ أَنَّهُ قَالَ: إِنَّ اللٌّهَ فَرَضَ عَلى
+> أَغْنِيَاءِ النَّاسِ فِي أَمْوَالِهِمْ قَدْرَ الَّذِي يَسَعُ
+> فُقَرَائَهُمْ. فَإِنْ ضَاعَ الْفَقِيْرُ أَوْ أَجْهَدَ أَوْ عَرَى
+> فَبِمَا يَمْنَعُ الْغَنِيُّ وَإِنَّ اللٌّهَ عَزَّ وَجَلَّ مُحَاسِبُ
+> الأَغْنِيَاءَ فِي ذٌلِكَ يَوْمَ الْقِيَامَةِ وَمُعَذِّبُهُمْ عَذَاباً
+> أَلِيْماً.
 
 On the authority of Imam Jafar ibn Muhammad (al-Sadiq) (peace be upon
 him), from his father (peace be upon him), from his forefathers (peace
@@ -117,12 +93,8 @@ punish them with a painful punishment.”
 Hadith Number 7: The Reason for Zakat, Sustaining the Poor
 ----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِْمَامِ مُوْسَى بْنِ جَعْفَرِ الْكَاظِمِ : إِنَّمَا وُضِعَتْ
-الزَّكَاةُ قُوْتاً لِلْفُقَرَاءِ وَتَوْفِيْراً لأَِمْوَالِهِمْ.
-  </p>
-</blockquote>
+> عَنِ الإِْمَامِ مُوْسَى بْنِ جَعْفَرِ الْكَاظِمِ : إِنَّمَا وُضِعَتْ
+> الزَّكَاةُ قُوْتاً لِلْفُقَرَاءِ وَتَوْفِيْراً لأَِمْوَالِهِمْ.
 
 On the authority of Imam Musa ibn Jafar al-Kadhim (peace be upon him):
 “Zakat has only been enforced to ensure the sustenance of the poor and
@@ -132,16 +104,12 @@ to secure the availability of their wealth.”
 Hadith Number 8: The Reason for Zakat, A Trial for the Wealthy
 --------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ الصَّادِقِ: إِنَّمَا وُضِعَتْ الزَّكَاةُ
-إِخْتِبَاراً للأَغْنِيَاءِ وَمَعُوْنَةً لِلْفُقَرَاءِ. وَلَوْ أَنَّ
-النَّاسَ أَدَّوا زَكَاةَ أَمْوَالِهِمْ مَا بَقِيَ مُسْلِمٌ فَقِيْراً
-مُحْتَاجاً، وَلاَسْتَغْنىَ بِمَا فَرَضَ اللٌّهُ، وَإِنَّ النَّاسَ مَا
-افْتَقَرُوا وَلاَ احْتَاجُوا وَلاَ جَاعُوا وَلاَ عَرَوا إِلاَّ
-بِذُنُوْبِ الأَغْنِيَاءِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ الصَّادِقِ: إِنَّمَا وُضِعَتْ الزَّكَاةُ
+> إِخْتِبَاراً للأَغْنِيَاءِ وَمَعُوْنَةً لِلْفُقَرَاءِ. وَلَوْ أَنَّ
+> النَّاسَ أَدَّوا زَكَاةَ أَمْوَالِهِمْ مَا بَقِيَ مُسْلِمٌ فَقِيْراً
+> مُحْتَاجاً، وَلاَسْتَغْنىَ بِمَا فَرَضَ اللٌّهُ، وَإِنَّ النَّاسَ مَا
+> افْتَقَرُوا وَلاَ احْتَاجُوا وَلاَ جَاعُوا وَلاَ عَرَوا إِلاَّ
+> بِذُنُوْبِ الأَغْنِيَاءِ.
 
 On the authority of Abi {Abdullah (Imam) al-Sadiq (peace be upon him):
 “Zakat has only been enforced as a trial for the rich and as a provision
@@ -154,12 +122,8 @@ needy, hungry and unclothed as a result of the sins of the wealthy.”
 Hadith Number 9: Giving Zakat Increases Wealth - \#1
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ قَالَ: قَالَ النَّبِيُّ: إِذَا أَرَدْتَ
-أَنْ يُثْرِيَ اللٌّهُ مَالَكَ فَزَكِّهِ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ قَالَ: قَالَ النَّبِيُّ: إِذَا أَرَدْتَ
+> أَنْ يُثْرِيَ اللٌّهُ مَالَكَ فَزَكِّهِ.
 
 On the authority of the Commander of the Faithful (Imam {Ali) (peace be
 upon him): the Apostle (blessings of Allah be upon him and his family)
@@ -170,12 +134,8 @@ said: “If you wish for Allah to multiply your wealth, then purify it
 Hadith Number 10: Giving Zakat Increases Wealth - \#2
 -----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِي وَصِيَّةِ الإِمَامِ الْبَاقِرِ لِجَابِرِ الْجُعْفِي: الزَّكَاةُ
-تَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> فِي وَصِيَّةِ الإِمَامِ الْبَاقِرِ لِجَابِرِ الْجُعْفِي: الزَّكَاةُ
+> تَزِيدُ فِي الرِّزْقِ.
 
 As part of the advice of Imam al-Baqir (peace be upon him) to Jabir
 al-Jufiy: “Zakat increases sustenance.”  
@@ -184,12 +144,8 @@ al-Jufiy: “Zakat increases sustenance.”
 Hadith Number 11: Giving Zakat Increases Wealth - \#3
 -----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ: فَرَضَ اللٌّهُ ... الزّكَاةَ تَسْبِيباً
-لِلرِّزْقِ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ: فَرَضَ اللٌّهُ ... الزّكَاةَ تَسْبِيباً
+> لِلرِّزْقِ.
 
 On the authority of the Commander of the Faithful (peace be upon him):
 “Allah has made zakat incumbent in order to generate sustenance.”  
@@ -198,11 +154,7 @@ On the authority of the Commander of the Faithful (peace be upon him):
 Hadith Number 12: Giving Zakat Increases Wealth - \#4
 -----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْحَسَنِ بْنِ عَلِيِّ: مَا نَقَصَتْ زَكَاةٌ مِنْ مَالٍ قَطٌّ.
-  </p>
-</blockquote>
+> عَنِ الْحَسَنِ بْنِ عَلِيِّ: مَا نَقَصَتْ زَكَاةٌ مِنْ مَالٍ قَطٌّ.
 
 On the authority of Imam Hasan ibn {Ali (peace be upon him): “Zakat does
 not decrease wealth, ever.”  
@@ -211,13 +163,9 @@ not decrease wealth, ever.”
 Hadith Number 13: Giving Zakat Increases Wealth - \#5
 -----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَبَا عَبْدِ اللٌّهِ الصَّادِقِ قَالَ (لِصَاحِبِهِ مُفَضَّلَ):
-يَا مُفَضَّلَ! قُلْ لأَِصْحَابِكَ يَضَعُوْنَ الزَّكَاةَ فِي أَهْلِهَا
-وَإِنِّي ضَامِنٌ لَمَا ذَهَبَ لَهُم.
-  </p>
-</blockquote>
+> إِنَّ أَبَا عَبْدِ اللٌّهِ الصَّادِقِ قَالَ (لِصَاحِبِهِ مُفَضَّلَ):
+> يَا مُفَضَّلَ! قُلْ لأَِصْحَابِكَ يَضَعُوْنَ الزَّكَاةَ فِي أَهْلِهَا
+> وَإِنِّي ضَامِنٌ لَمَا ذَهَبَ لَهُم.
 
 Indeed Aba {Abdullah (Imam) al-Sadiq (peace be upon him) said to his
 companion Mufaddhal: “O Mufaddhal! Tell your companions to deposit the
@@ -228,11 +176,7 @@ taken away from them.”
 Hadith Number 14: Protecting Wealth with Zakat - \#1
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ: حَصِّـنُوا أَمْوَالَكُمْ بِالزَّكَاةِ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ: حَصِّـنُوا أَمْوَالَكُمْ بِالزَّكَاةِ.
 
 On the authority of the Commander of the Faithful, Imam {Ali (peace be
 upon him): “Secure your wealth with zakat.”  
@@ -241,13 +185,9 @@ upon him): “Secure your wealth with zakat.”
 Hadith Number 15: Protecting Wealth with Zakat - \#2
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ الصَّادِق: مَا ضَاعَ مَالٌ فِي بَرٍّ وَلاَ
-بَحْرٍ إِلاَّ بِتَضْيِيْعِ الزَّكَاةِ، فَحَصِّنُوا أَمْوَالَكُمْ
-بِالزَّكَاةِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ الصَّادِق: مَا ضَاعَ مَالٌ فِي بَرٍّ وَلاَ
+> بَحْرٍ إِلاَّ بِتَضْيِيْعِ الزَّكَاةِ، فَحَصِّنُوا أَمْوَالَكُمْ
+> بِالزَّكَاةِ.
 
 On the authority of Abi {Abdullah (Imam) al-Sadiq (peace be upon him):
 “Wealth is not lost, neither in the land nor the sea, except due to
@@ -257,13 +197,9 @@ squandering zakat. So secure your wealth with zakat.”
 Hadith Number 16: Protecting Wealth with Zakat - \#3
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ الإِمَامِ الْبَاقِرِ: وَجَدْنَا فِي كِتَابِ رَسُولِ اللٌّهِ ...
-إِذَا مَنَعُوا الزَّكَاةَ مَنَعَتِ الأَرْضُ بَرَكَتَهَا مِنْ الزَّرْعِ
-وَالثِّمَارِ وَالْمَعَادِنِ كُلِّهَا.
-  </p>
-</blockquote>
+> عَنْ الإِمَامِ الْبَاقِرِ: وَجَدْنَا فِي كِتَابِ رَسُولِ اللٌّهِ ...
+> إِذَا مَنَعُوا الزَّكَاةَ مَنَعَتِ الأَرْضُ بَرَكَتَهَا مِنْ الزَّرْعِ
+> وَالثِّمَارِ وَالْمَعَادِنِ كُلِّهَا.
 
 On the authority of Imam al-Baqir (peace be upon him): “We found in the
 book of the Messenger of Allah (blessing be upon him and his family):
@@ -274,12 +210,8 @@ prosperity in terms of its crops, fruits and all its minerals.’”
 Hadith Number 17: Protecting Wealth with Zakat - \#4
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الرِّضَا: إِذَا حُبِسَتِ الزَّكَاةُ مَاتَتِ
-الْمَوَاشِي.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الرِّضَا: إِذَا حُبِسَتِ الزَّكَاةُ مَاتَتِ
+> الْمَوَاشِي.
 
 On the authority of Imam {Ali al-Ridha (peace be upon him): “When the
 zakat is restrained, livestock die.”  
@@ -288,14 +220,10 @@ zakat is restrained, livestock die.”
 Hadith Number 18: Preventing Oneself from Giving Zakat
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ: مَنْ مَنَعَ الزَّكَاةَ سَأَلَ الرَجْعَةَ
-عِنْدَ الْـمَوْتِ، وَهُوَ قَوْلُ اللٌّهِ عَزَّ وَجَلَّ: ﴿حَتَّى إِذَا
-جَآءَ أَحَدَهُمُ الْـمَوْتُ قَالَ رَبِّ ارْجِعُوْنِ. لَعَلِّي أَعْمَلُ
-صَالِحاً فِيْمَا تَرَكْتُ﴾
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ: مَنْ مَنَعَ الزَّكَاةَ سَأَلَ الرَجْعَةَ
+> عِنْدَ الْـمَوْتِ، وَهُوَ قَوْلُ اللٌّهِ عَزَّ وَجَلَّ: ﴿حَتَّى إِذَا
+> جَآءَ أَحَدَهُمُ الْـمَوْتُ قَالَ رَبِّ ارْجِعُوْنِ. لَعَلِّي أَعْمَلُ
+> صَالِحاً فِيْمَا تَرَكْتُ﴾
 
 On the authority of Imam al-Sadiq (peace be upon him): “Whoever
 withholds zakat shall beg to return (to the world) at the time of death.
@@ -307,17 +235,13 @@ righteous deed from what I had left behind.’*** (Al-Qur’an, 23:99-100)
 Hadith Number 19: Punishment for the One who does not Pay Zakat
 ---------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ الإمَامِ الْبَاقِرِ: إِنَّ اللٌّهَ عَزَّ وَجَلَّ يَبْعَثُ يَوْمَ
-الْقِيَامَةِ نَاساً مِنْ قُبُورِهِمْ مَشْدُوْدَةً أَيْدِيْهِمْ إِلَى
-أَعْنَاقِهِمْ، لاَ يَسْتَطِيْعُونَ أَنْ يَتَنَاوَلُوا بِِهَا قِيْسَ
-أَنْمُلَةٍ، مَعَهُمْ مَلاَئِكَةٌ يُعَيِّرُوْنَهُمْ تَعْيِيراً
-شَدِيداً، يَقُولُونَ: هٌؤُلاَءِ الَّذِينَ مَنَعُوا خَيْرًا قَلِيلاً
-مِنْ خَيْرٍ كَثِيرٍ، هٌؤُلاَءِ الَّذِيْنَ أَعْطَاهُمُ اللٌّهُ عَزَّ
-وَجَلَّ فَمَنَعُوا حَقَّ اللٌّهِ عَزَّ وَجَلَّ فِي أَمْوَالِهِمْ.
-  </p>
-</blockquote>
+> عَنْ الإمَامِ الْبَاقِرِ: إِنَّ اللٌّهَ عَزَّ وَجَلَّ يَبْعَثُ يَوْمَ
+> الْقِيَامَةِ نَاساً مِنْ قُبُورِهِمْ مَشْدُوْدَةً أَيْدِيْهِمْ إِلَى
+> أَعْنَاقِهِمْ، لاَ يَسْتَطِيْعُونَ أَنْ يَتَنَاوَلُوا بِِهَا قِيْسَ
+> أَنْمُلَةٍ، مَعَهُمْ مَلاَئِكَةٌ يُعَيِّرُوْنَهُمْ تَعْيِيراً
+> شَدِيداً، يَقُولُونَ: هٌؤُلاَءِ الَّذِينَ مَنَعُوا خَيْرًا قَلِيلاً
+> مِنْ خَيْرٍ كَثِيرٍ، هٌؤُلاَءِ الَّذِيْنَ أَعْطَاهُمُ اللٌّهُ عَزَّ
+> وَجَلَّ فَمَنَعُوا حَقَّ اللٌّهِ عَزَّ وَجَلَّ فِي أَمْوَالِهِمْ.
 
 On the authority of Imam al-Baqir (peace be upon him): “Indeed Allah,
 the Glorious and Sublime, shall resurrect a people from their graves on
@@ -332,14 +256,10 @@ from their wealth.’”
 Hadith Number 20: Those to Whom Zakat Should be Paid
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ فِي قَوْلِهِ تَعَالَى: ﴿إِنَّمَا
-الصَّدَقَاتُ لِلْفُقَرَاءِ...﴾؛ قَالَ: أَلْفَقِيْرُ الَّذِي لاَ
-يَسْأَلُ النَّاسَ، وَالْمِسْكِينُ أَجْهَدُ مِنْهُ وَالْبَائِسُ
-أَجْهَدُ مِنْهُم.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ فِي قَوْلِهِ تَعَالَى: ﴿إِنَّمَا
+> الصَّدَقَاتُ لِلْفُقَرَاءِ...﴾؛ قَالَ: أَلْفَقِيْرُ الَّذِي لاَ
+> يَسْأَلُ النَّاسَ، وَالْمِسْكِينُ أَجْهَدُ مِنْهُ وَالْبَائِسُ
+> أَجْهَدُ مِنْهُم.
 
 On the authority of Imam al-Sadiq (peace be upon him) with regards to
 the words of Allah: “Indeed charity is for the poor …” (Al-Qur’an,
@@ -352,18 +272,14 @@ them.”
 Hadith Number 21: Those to Whom Zakat Should be Paid
 ----------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ، الإِمَامِ عَلِيّ فِي بَيَانِ أَسْبَابِ
-مَعَايِشِ الْخَلْقِ: أَمَّا وَجْهُ الصَّدَقَاتِ فَإِنَّمَا هِيَ
-لأَقْوَامٍ لَيْسَ لَهُمْ فِي الإِمَارَةِ نَصِيْبٌ، وَلاَ فِي
-الْعِمَارَةِ حَظٌّ، وَلاَ فِي التِِّجَارَةِ مَالٌ، وَلاَ فِي
-الإِِجَارَةِ مَعْرِفَةٌ وَقُدْرَةٌ، فَفَرَضَ اللٌّهُ فِي أَمْوَالِ
-الأَغْنِيَاءِ مَا يَقُوتُهُمْ وَيُقَوِّمُ بِهِ أَوَدَهُمْ... ثُمَّ
-بَـيَّنَ سُـبْحَانَهُ لِمَنْ هٌذِهِ الصَّدَقَاتُ، فَقَالَ: ﴿إِنَّمَا
-الصَّدَقَاتُ لِلْفُقَرَاءِ...﴾
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ، الإِمَامِ عَلِيّ فِي بَيَانِ أَسْبَابِ
+> مَعَايِشِ الْخَلْقِ: أَمَّا وَجْهُ الصَّدَقَاتِ فَإِنَّمَا هِيَ
+> لأَقْوَامٍ لَيْسَ لَهُمْ فِي الإِمَارَةِ نَصِيْبٌ، وَلاَ فِي
+> الْعِمَارَةِ حَظٌّ، وَلاَ فِي التِِّجَارَةِ مَالٌ، وَلاَ فِي
+> الإِِجَارَةِ مَعْرِفَةٌ وَقُدْرَةٌ، فَفَرَضَ اللٌّهُ فِي أَمْوَالِ
+> الأَغْنِيَاءِ مَا يَقُوتُهُمْ وَيُقَوِّمُ بِهِ أَوَدَهُمْ... ثُمَّ
+> بَـيَّنَ سُـبْحَانَهُ لِمَنْ هٌذِهِ الصَّدَقَاتُ، فَقَالَ: ﴿إِنَّمَا
+> الصَّدَقَاتُ لِلْفُقَرَاءِ...﴾
 
 On the authority of the Commander of the Faithful, Imam {Ali (peace be
 upon him), in explaining the means of sustenance of the creation: “As
@@ -379,16 +295,12 @@ needy…’*** (Al-Qur’an, 9:60)
 Hadith Number 22: The Apparent and Hidden Aspects of Zakat
 ----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ لَمَّا سَأَلَهُ رَجُلٌ: فِي كَمْ تَجِبُ
-الزَّكَاةُ مِنَ الْمَالِ؟ فَقَالَ: الزَّكَاةُ الظَّاهِرَةُ أَمِ
-الْبَاطِنَةُ تُرِيْدُ؟ فَقَالَ الرَّجُلُ: أُرِيْدُهُمَا جَمِيعاً.
-فَقَالَ الإِمَامُ : أَمَّا الظَّاهِرَةُ فَفِي كُلِّ أَلْفٍ خَمْسَةٌ
-وَعِشْرُوْنَ، وَأَمَّا الْبَاطِنَةُ فَلاَ تَسْتَأْثِرْ عَلى أَخِيكَ
-بِمَا هُوَ أَحْوَجُ إِلَيْهِ مِنْكَ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ لَمَّا سَأَلَهُ رَجُلٌ: فِي كَمْ تَجِبُ
+> الزَّكَاةُ مِنَ الْمَالِ؟ فَقَالَ: الزَّكَاةُ الظَّاهِرَةُ أَمِ
+> الْبَاطِنَةُ تُرِيْدُ؟ فَقَالَ الرَّجُلُ: أُرِيْدُهُمَا جَمِيعاً.
+> فَقَالَ الإِمَامُ : أَمَّا الظَّاهِرَةُ فَفِي كُلِّ أَلْفٍ خَمْسَةٌ
+> وَعِشْرُوْنَ، وَأَمَّا الْبَاطِنَةُ فَلاَ تَسْتَأْثِرْ عَلى أَخِيكَ
+> بِمَا هُوَ أَحْوَجُ إِلَيْهِ مِنْكَ.
 
 On the authority of Imam al-Sadiq (peace be upon him), when a man asked
 him: “Upon what amount of wealth is the zakat incumbent?” He (peace be
@@ -403,11 +315,7 @@ needy than you”
 Hadith Number 23: There is a Zakat for Everything, Power
 --------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْقُدْرَةِ، الإِنْصَافُ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْقُدْرَةِ، الإِنْصَافُ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of
 (having) power is (to administer) justice.”  
@@ -416,11 +324,7 @@ On the authority of Imam {Ali (peace be upon him): “The zakat of
 Hadith Number 24: There is a Zakat for Everything, Beauty
 ---------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْجَمَالِ الْعَفَافُ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْجَمَالِ الْعَفَافُ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of beauty
 is chastity.”  
@@ -429,11 +333,7 @@ is chastity.”
 Hadith Number 25: There is a Zakat for Everything, Conquest
 -----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الظَّفَرِ الإِحْسَانُ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الظَّفَرِ الإِحْسَانُ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of
 conquest is kindness.”  
@@ -442,11 +342,7 @@ conquest is kindness.”
 Hadith Number 26: There is a Zakat for Everything, Triumph
 ----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: أَلْعَفْوُ زَكَاةُ الظَّفَرِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: أَلْعَفْوُ زَكَاةُ الظَّفَرِ.
 
 On the authority of Imam {Ali (peace be upon him): “Pardoning is the
 zakat of triumph.”  
@@ -455,12 +351,8 @@ zakat of triumph.”
 Hadith Number 27: There is a Zakat for Everything, Prosperity
 -------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْيَسَارِ، بِرُّ الْجِيْرَانِ
-وَصِلَةُ الأَرْحَامِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْيَسَارِ، بِرُّ الْجِيْرَانِ
+> وَصِلَةُ الأَرْحَامِ.
 
 On the authority of Imam Ali (peace be upon him): “The zakat of
 prosperity is goodness to neighbors and maintaining good relations with
@@ -470,12 +362,8 @@ family.”
 Hadith Number 28: There is a Zakat for Everything, Health
 ---------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الصِّحَّةِ، السَّعْيُ فِي طَاعَةِ
-اللٌّهِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الصِّحَّةِ، السَّعْيُ فِي طَاعَةِ
+> اللٌّهِ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of health
 is the exertion of effort in the obedience of Allah.”  
@@ -484,12 +372,8 @@ is the exertion of effort in the obedience of Allah.”
 Hadith Number 29: There is a Zakat for Everything, Bravery
 ----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الشُّجَاعَةِ، الْجِهَادُ فِي سَبِيلِ
-اللٌّهِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الشُّجَاعَةِ، الْجِهَادُ فِي سَبِيلِ
+> اللٌّهِ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of bravery
 is fighting in the way of Allah.”  
@@ -498,11 +382,7 @@ is fighting in the way of Allah.”
 Hadith Number 30: There is a Zakat for Everything, Blessings
 ------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ النِّعَمِ، اِصْطِنَاعُ الْـمَعرُوفِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ النِّعَمِ، اِصْطِنَاعُ الْـمَعرُوفِ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of
 blessings is to bring about beneficence.”  
@@ -511,12 +391,8 @@ blessings is to bring about beneficence.”
 Hadith Number 31: There is a Zakat for Everything, Knowledge \# 1
 -----------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْعِلْمِ بَذْلُهُ لِمُسْتَحِقِّهِ،
-وَإِجْهَادُ النَّفْسِ فِي الْعَمَلِ بِهِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ عَلِيٍّ: زَكَاةُ الْعِلْمِ بَذْلُهُ لِمُسْتَحِقِّهِ،
+> وَإِجْهَادُ النَّفْسِ فِي الْعَمَلِ بِهِ.
 
 On the authority of Imam {Ali (peace be upon him): “The zakat of
 knowledge is its conveyance to the one worthy of it and exerting the
@@ -526,12 +402,8 @@ self in acting upon it.”
 Hadith Number 32: There is a Zakat for Everything, Knowledge \# 2
 -----------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ: إِنَّ لِكُلِّ شَيْءٍ زَكَاةً، وَزَكَاةُ
-الْعِلْمِ أَنْ يُعَلِّمَهُ أَهْلَهُ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ: إِنَّ لِكُلِّ شَيْءٍ زَكَاةً، وَزَكَاةُ
+> الْعِلْمِ أَنْ يُعَلِّمَهُ أَهْلَهُ.
 
 On the authority of Imam al-Sadiq (peace be upon him): “Indeed there is
 a zakat for everything; the zakat of knowledge is to teach it to those
@@ -541,12 +413,8 @@ worthy of it.”
 Hadith Number 33:There is a Zakat for Everything, Intellect
 -----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ، الإِمَامِ عَلِيٍّ: لِكُلِّ شَيْءٍ
-زَكَاةً، وَزَكَاةُ الْعَقْلِ احْتِمَالُ الْجُهَّالِ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ، الإِمَامِ عَلِيٍّ: لِكُلِّ شَيْءٍ
+> زَكَاةً، وَزَكَاةُ الْعَقْلِ احْتِمَالُ الْجُهَّالِ.
 
 On the authority of the Commander of the Faithful, Imam {Ali (peace be
 upon him): “There is a zakat for everything, and the zakat of the
@@ -556,13 +424,9 @@ intellect is tolerance of the ignorant ones.”
 Hadith Number 34: There is a Zakat for Everything, Status
 ---------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ، الإِمَامِ عَلِيّ: إِنَّ اللٌّهَ فَرَضَ
-عَلَيْكُمْ زَكَاةَ جَاهِكُمْ كَمَا فَرَضَ عَلَيْكُمْ زَكَاةَ مَا
-مَلَكَتْ أَيْمَانُكُمْ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ، الإِمَامِ عَلِيّ: إِنَّ اللٌّهَ فَرَضَ
+> عَلَيْكُمْ زَكَاةَ جَاهِكُمْ كَمَا فَرَضَ عَلَيْكُمْ زَكَاةَ مَا
+> مَلَكَتْ أَيْمَانُكُمْ.
 
 On the authority of the Commander of the Faithful, Imam {Ali (peace be
 upon him): “Indeed Allah has ordained zakat upon your status, just as he
@@ -572,14 +436,10 @@ has ordained zakat on what you possess.”
 Hadith Number 35: Zakat on Four Things
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ: أَلْـمَعْرُوْفُ زَكَاةُ النِّعَمِ،
-وَالشَّفَاعَةُ زَكَاةُ الْجَاهِ، وَالْعِلَلُ زَكَاةُ الأَبْدَانِ،
-وَالْعَفْوُ زَكَاةُ الظَّفَرِ، وَمَا أَدَّيْتَ زَكَاتَهُ فَهُوَ
-مَأْمُوْنُ السَّلْبِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ: أَلْـمَعْرُوْفُ زَكَاةُ النِّعَمِ،
+> وَالشَّفَاعَةُ زَكَاةُ الْجَاهِ، وَالْعِلَلُ زَكَاةُ الأَبْدَانِ،
+> وَالْعَفْوُ زَكَاةُ الظَّفَرِ، وَمَا أَدَّيْتَ زَكَاتَهُ فَهُوَ
+> مَأْمُوْنُ السَّلْبِ.
 
 On the authority of Imam al-Sadiq (peace be upon him): “Beneficence is
 the zakat of blessings; intercession is the zakat of (having) status;
@@ -591,15 +451,11 @@ from being taken away.”
 Hadith Number 36: There is a Zakat for Everything, Your Organs
 --------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ: عَلى كُلِّ جُزْءٍ مِنْ أَجْزَائِكَ زَكَاةٌ
-وَاجِبَةٌ لِلٌّهِ عَزَّ وَجَلَّ، بَلْ عَلى كُلِّ شَعْرَةٍ، بَلْ عَلى
-كُلِّ لَحْظَةٍ! فَزَكَاةُ الْعَيْنِ النَّظَرُ بِالْعِبْرَةِ وَالْغَضُّ
-عَنْ الشَّهَوَاتِ وَمَا يُضَاهِيهَا، وَزَكَاةُ الأُذُنِ اِسْتِمَاعُ
-الْعِلْمِ وَالْحِكْمَةِ وَالْقُرْآنِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ: عَلى كُلِّ جُزْءٍ مِنْ أَجْزَائِكَ زَكَاةٌ
+> وَاجِبَةٌ لِلٌّهِ عَزَّ وَجَلَّ، بَلْ عَلى كُلِّ شَعْرَةٍ، بَلْ عَلى
+> كُلِّ لَحْظَةٍ! فَزَكَاةُ الْعَيْنِ النَّظَرُ بِالْعِبْرَةِ وَالْغَضُّ
+> عَنْ الشَّهَوَاتِ وَمَا يُضَاهِيهَا، وَزَكَاةُ الأُذُنِ اِسْتِمَاعُ
+> الْعِلْمِ وَالْحِكْمَةِ وَالْقُرْآنِ.
 
 On the authority of Imam al-Sadiq (peace be upon him): “Upon each one of
 your limbs, there is an obligatory zakat for Allah, the Sublime and
@@ -612,12 +468,8 @@ ear is to listen to knowledge, wisdom and the Qur’an.”
 Hadith Number 37: Zakat of the Body
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ الْمُؤْمِنِينَ الإِمَامِ عَلِيّ: عَلَيْكَ بِالصَّوْمِ؛
-فَإِنَّهُ زَكَاةُ الْبَدَنِ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ الْمُؤْمِنِينَ الإِمَامِ عَلِيّ: عَلَيْكَ بِالصَّوْمِ؛
+> فَإِنَّهُ زَكَاةُ الْبَدَنِ.
 
 On the authority of the Commander of the Faithful, Imam {Ali (peace be
 upon him): “Take up fasting, for indeed it is the zakat of the body.”  
@@ -626,15 +478,11 @@ upon him): “Take up fasting, for indeed it is the zakat of the body.”
 Hadith Number 38: Zakat of Wealth and Health
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِيِّ أَنَّهُ قَالَ لأَِصْحَابِهِ يَوْمًا: مَلْعُوْنٌ كُلُّ
-مَالٍ لاَ يُزَكَّى، مَلْعُوْنٌ كُلُّ جَسَدٍ لاَ يُزَكَّى وَلَوْ فِي
-كُلِّ أَرْبَعِيْنَ يَوْماً مَرَّةً. فَقِيْلَ: يَا رَسُوْلَ اللٌّهِ،
-أَمَّا زَكَاةُ الْمَالِ فَقَدْ عَرَفْنَاهَا، فَمَا زَكَاةُ
-الأَجْسَادِ؟
-  </p>
-</blockquote>
+> عَنِ النَّبِيِّ أَنَّهُ قَالَ لأَِصْحَابِهِ يَوْمًا: مَلْعُوْنٌ كُلُّ
+> مَالٍ لاَ يُزَكَّى، مَلْعُوْنٌ كُلُّ جَسَدٍ لاَ يُزَكَّى وَلَوْ فِي
+> كُلِّ أَرْبَعِيْنَ يَوْماً مَرَّةً. فَقِيْلَ: يَا رَسُوْلَ اللٌّهِ،
+> أَمَّا زَكَاةُ الْمَالِ فَقَدْ عَرَفْنَاهَا، فَمَا زَكَاةُ
+> الأَجْسَادِ؟
 
 **  
 **
@@ -654,11 +502,7 @@ ailment.”
 Hadith Number 39: Zakat of the Body \#2
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ: الْعِلَلُ زَكَاةُ الأَبْدَانِ.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ: الْعِلَلُ زَكَاةُ الأَبْدَانِ.
 
 On the authority of Imam al-Sadiq (peace be upon him): “Sicknesses are
 the zakat of the (physical) bodies.”  
@@ -667,14 +511,10 @@ the zakat of the (physical) bodies.”
 Hadith Number 40: The Zakat of Fitrah
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الإِمَامِ الصَّادِقِ: إِنَّ مِنْ تَمَامِ الصَّوْمِ إِعْطَاءَ
-الزَّكَاةِ - يَعْنِي الْفِطْرَةَ - كَمَا أَنَّ الصَّلاَةَ عَلى
-النَّبِيّ مِنْ تَمَامِ الصَّلاَةِ، لأَِنَّهُ مَنْ صَامَ وَلَمْ يُؤَدِّ
-الزَّكَاةَ فَلاَ صَوْمَ لَهُ إِذَا تَرَكَهَا مُتَعَمِّداً.
-  </p>
-</blockquote>
+> عَنِ الإِمَامِ الصَّادِقِ: إِنَّ مِنْ تَمَامِ الصَّوْمِ إِعْطَاءَ
+> الزَّكَاةِ - يَعْنِي الْفِطْرَةَ - كَمَا أَنَّ الصَّلاَةَ عَلى
+> النَّبِيّ مِنْ تَمَامِ الصَّلاَةِ، لأَِنَّهُ مَنْ صَامَ وَلَمْ يُؤَدِّ
+> الزَّكَاةَ فَلاَ صَوْمَ لَهُ إِذَا تَرَكَهَا مُتَعَمِّداً.
 
 On the authority of Imam al-Sadiq (peace be upon him): “Indeed as part
 of the completion of the fast (in the month of Ramadhan), is to give the
@@ -684,5 +524,4 @@ completion of the prayer; for indeed whosoever fasts but does not
 perform the zakat (of fitrah) and abandons it intentionally, it is as if
 he has not fasted at all.”  
  Man La Yahdhuruhu al-Faqih, Volume 2, Page 183
-
 

@@ -162,4 +162,3 @@ results in death in less than one week.
 
 [^2]: Gulshan-i Raz, Shabistari
 
-

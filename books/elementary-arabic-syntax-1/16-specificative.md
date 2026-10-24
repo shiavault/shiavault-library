@@ -12,4 +12,3 @@ this sentence oil is an specificative.
 
 [^1]: A specified weight, in English around 450 grams.
 
-

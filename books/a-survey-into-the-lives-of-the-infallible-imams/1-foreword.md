@@ -63,4 +63,3 @@ Translation Office.
 
 **The Ahl al-Bayt (‘a) World Assembly**
 
-

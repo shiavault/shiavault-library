@@ -39,10 +39,8 @@ obvious prosperity through other cultueres.
 
 On this basis the Prophet of Islam(P.B.IIII.) said:
 
-<p dir="rtl">
 تذاکرو وتلاقوا وتحدثوا فان الحديث جلاءُ القلوب، ان القلوب لترين کما يرين
 السيف وجلاؤها الحديث.
-</p>
 
 Confer., & meet & talk to each other because Hadieth polishes the
 hearts. No doubt hearts get rusted like the swords & Hadieth is their
@@ -51,9 +49,7 @@ polish[^1] .
 Essa (removal of that rust).' Essa (chirst)(s.w.A) at the height & sumit
 of his speach told the Bani Israel (sons of Israel):
 
-<p dir="rtl">
 لا تحدثوا لجهال بالحکمة فتظلموها ولا تمنعوها اهلها فتظلموهم
-</p>
 
 Do not inform ignorants about the word of wisdom so that you may have
 commited excess (injustice) to those subjects &: do not refuse &:
@@ -62,17 +58,13 @@ injustice &: excess upon them[^2] .
 
 Imam Ali(A.S) as per his wel known saying said.
 
-<p dir="rtl">
 ان هذه القلوب اوعية فخيرها اوعاها فاحفظ عنی ما اقول لک
-</p>
 
 These hearts are just like utencils so that the best utencil is the one
 which secures &: retains more (than others). There fore do secure &:
 memo rise what I tell you.
 
-<p dir="rtl">
 الناس ثلاثه فعالم ربانی، ومتعلم علی سبيل النجاة وهمج رعاعٌ
-</p>
 
 People are three groups I.the Godly scholars 2. the knowledge seekers
 (students) who move. on the way towards salvation. 3. silly rabble, mob.
@@ -238,5 +230,4 @@ of our souls & the .ciety, by putting them into practice.
 Seminary of Qum. Mohammad Mohammadi Ishtehardi.
 
 Summer 1371 (S.H).
-
 

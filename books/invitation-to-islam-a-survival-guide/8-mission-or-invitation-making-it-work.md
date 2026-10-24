@@ -579,4 +579,3 @@ of the indigenous Muslim community is in store for a rude awakening.
 Englishmen and Americans might revert to Islam, but they are not about
 to become second-class Pakistanis or Iranians.
 
-

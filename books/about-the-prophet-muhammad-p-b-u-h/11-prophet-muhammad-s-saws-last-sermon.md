@@ -66,7 +66,6 @@ and may the last ones understand my words better than those who listen
 to me directly. Be my witness, O Allah, that I have conveyed Your
 message to Your people."
 
-
 **Mohammed The Prophet**
 
 By Prof. K. S. Ramakrishna Rao, Head of the Department of Philosophy,
@@ -288,5 +287,4 @@ potent influence." This is also the reason why George Bernard Shaw says,
 "If any religion has a chance or ruling over England, say, Europe,
 within the next 100 years, it is Islam". It is this same democratic
 spirit of Islam that emancipated women from the bondage of man.
-
 

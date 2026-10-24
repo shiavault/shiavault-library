@@ -104,7 +104,6 @@ shall mention some further important matters.
 
 **34. The Doctrine Concerning du'a'**
 
-
 The Prophet said:Du'a' is a weapon for the believer, a pillar of din,
 ad a light of the heaven and the earth.
 

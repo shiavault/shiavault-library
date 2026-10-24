@@ -198,4 +198,3 @@ conquests'. [^9]
 [^9]: Jang wa sulh dar Islam, translated by Sayyid Ghulam Riza Sa'idi,
 p.345.
 
-

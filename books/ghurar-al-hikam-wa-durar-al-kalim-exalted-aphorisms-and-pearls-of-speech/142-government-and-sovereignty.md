@@ -17,11 +17,7 @@ sovereignty.
 a sovereign.
 
 > 3ـ اِسْتِكانَةُ الرَّجُلِ فِي الْعَزْلِ، بِقَدْرِ شَـرِّهِ فِي
-<blockquote dir="rtl">
-  <p>
-الوِلايـَةِ.
-  </p>
-</blockquote>
+> الوِلايـَةِ.
 
 4. Be just in that which you have been given authority and thank Allah
 for that which has been granted to you.
@@ -33,11 +29,7 @@ belittled due to [your] negligence in protecting that which elevated you
 to it.
 
 > 5ـ أُحْرُسْ مَنْزِلَتَكَ عِنْدَ سُلْطانِكَ، واحْذَرْ أنْ يَحُطَّكَ
-<blockquote dir="rtl">
-  <p>
-عَنْها التَّهاوُنُ عَنْ حِفْظِ ما رَقاكَ إلَيْهِ.
-  </p>
-</blockquote>
+> عَنْها التَّهاوُنُ عَنْ حِفْظِ ما رَقاكَ إلَيْهِ.
 
 6. Direct the people [based] on their practices and religions; let the
 innocent from among them be safe [from your wrath] and let the
@@ -45,33 +37,21 @@ suspicious ones be afraid of you, and protect their frontiers and
 borders.
 
 > 6ـ أقِمِ النّاسَ عَلى سُنَّتِهِمْ ودِينـِهِمْ، وَلْيَأْمَنْكَ
-<blockquote dir="rtl">
-  <p>
-بَرِئُهُمْ،وَ لْيَخَفْكَ مُرِيبُهُمْ، وَتَعاهَدْ ثُغُورَهُمْ
-وأطْرافَهُمْ.
-  </p>
-</blockquote>
+> بَرِئُهُمْ،وَ لْيَخَفْكَ مُرِيبُهُمْ، وَتَعاهَدْ ثُغُورَهُمْ
+> وأطْرافَهُمْ.
 
 7. Make the religion your refuge and justice your sword, [then] you will
 be safe from every evil and will triumph over every foe.
 
 > 7ـ إجْعَلِ الدّينَ كَهْفَكَ، والعَدْلَ سَيْفَكَ، تَنْجُ مِنْ كُلِّ
-<blockquote dir="rtl">
-  <p>
-سُوء، وتَظْفَرْ (تَظْهَرْ) على كُلِّ عَدُوّ.
-  </p>
-</blockquote>
+> سُوء، وتَظْفَرْ (تَظْهَرْ) على كُلِّ عَدُوّ.
 
 8. Be cautious of inequity and tyranny, for verily inequity invites the
 sword and tyranny leads to expulsion and hastens retribution and
 revenge.
 
 > 8ـ إحْذَرِ الحَيْفَ والجَوْرَ، فَإنَّ الحَيْفَ يَدْعُو إلَى السَّيْفِ،
-<blockquote dir="rtl">
-  <p>
-والجَوْرَ يَعُودُ بِالجَلاءِ، ويُعَجِّلُ العُقُوبَةَ والإنْتِقامَ.
-  </p>
-</blockquote>
+> والجَوْرَ يَعُودُ بِالجَلاءِ، ويُعَجِّلُ العُقُوبَةَ والإنْتِقامَ.
 
 9. The most loathsome thing is the tyranny of rulers.
 
@@ -129,11 +109,7 @@ revenge.
 cause of their decline and regression.
 
 > 22ـ تَوَلِّي الأراذِلِ والأحْداثِ الدُّوَلَ، دَليلُ إنْحِلالِها
-<blockquote dir="rtl">
-  <p>
-وإدْبارِها.
-  </p>
-</blockquote>
+> وإدْبارِها.
 
 23. Your haughtiness in sovereignty will be [the cause of your] disgrace
 in deposition.
@@ -191,14 +167,9 @@ found that in my view, this world of yours is not better than the
 sneezing of a goat.
 
 > 33ـ وَالَّذي فَلَقَ الحَبَّةَ وبـَرَءَ النَّسَمَةَ، لَوْلا حُضُورُ
-<blockquote dir="rtl">
-  <p>
-الحاضِرِ، وَقِيامُ الحُجَّةِ بِوُجوْدِ النّاصِرِ، وما أخَذَ اللّهُ
-سُبْحانَهُ عَلَى العُلَماءِ أنْ لايـُقارُّوا عَلى كِظَّةِ ظالِم،
-ولاسَغَبِ مَظْلُوْم، لألْقَيْتُ حَبْلَها عَلى غارِبِها، ولَسَقَيْتُ
-آخِرَها بِكَأْسِ أوَّلِها، وَلألْفَيْتُمْ دُنْياكُمْ هذِهِ عِنْدي
-أزْهَدَ مِنْ عَفْطَةِ عَنْز.
-  </p>
-</blockquote>
-
+> الحاضِرِ، وَقِيامُ الحُجَّةِ بِوُجوْدِ النّاصِرِ، وما أخَذَ اللّهُ
+> سُبْحانَهُ عَلَى العُلَماءِ أنْ لايـُقارُّوا عَلى كِظَّةِ ظالِم،
+> ولاسَغَبِ مَظْلُوْم، لألْقَيْتُ حَبْلَها عَلى غارِبِها، ولَسَقَيْتُ
+> آخِرَها بِكَأْسِ أوَّلِها، وَلألْفَيْتُمْ دُنْياكُمْ هذِهِ عِنْدي
+> أزْهَدَ مِنْ عَفْطَةِ عَنْز.
 

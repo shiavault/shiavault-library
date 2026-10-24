@@ -605,4 +605,3 @@ in ‘Sharhe Nahju'l-Balagha’, Firuzabadi in his lexicon, ‘Qamus’, under
 the word Najaf, and others, have held that the Commander of the
 Faithful's grave is located in Najaf.
 
-

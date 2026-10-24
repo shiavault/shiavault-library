@@ -14,4 +14,3 @@ disgraced. The truthful person is not asked the reason for his actions;
 as 'Ali said, 'No one sees a truthful person without being in awe of
 him.'
 
-

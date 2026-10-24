@@ -119,7 +119,6 @@ see?..."
 In that way he swayed his people and they succumbed to him. They were a
 people of deviators. (Qur'an, 43: 51-54)
 
-
 **Ancient Egyptian Symbols in Masonic Lodges**
 
 One of the most important things that establishes the relation between
@@ -410,5 +409,4 @@ rest of society.
 As we said at the beginning, the fundamental element of this
 philosophy, one which has transpired to Masonry from pagan cultures,
 especially that of Ancient Egypt, is materialism.
-
 

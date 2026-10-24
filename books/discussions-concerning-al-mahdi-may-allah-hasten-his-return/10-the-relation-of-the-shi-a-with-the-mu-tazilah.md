@@ -27,12 +27,8 @@ be upon him and his family) preached and informed about. And according
 to the narrations, faith in the prophecy consists of faith in all that
 the Prophet conveyed.
 
-<blockquote dir="rtl">
-  <p>
-الإِيمَانُ بِالنُّبُوَّةِ إِيمَانٌ بِكُلِّ مَا أَنْبَأَ عَنْهُ
-النَّبيُّ.
-  </p>
-</blockquote>
+> الإِيمَانُ بِالنُّبُوَّةِ إِيمَانٌ بِكُلِّ مَا أَنْبَأَ عَنْهُ
+> النَّبيُّ.
 
 Faith in the prophecy consists of faith in all that the Prophet
 conveyed.
@@ -56,12 +52,8 @@ Imams either directly or indirectly. The well-known proverb, “Belief in
 coercion and anthropomorphism is Umayyad and belief in Justice and unity
 is an Alawi doctrine,”
 
-<blockquote dir="rtl">
-  <p>
-الجَبْرُ وَالتَّشبِيهُ أَمَوِيَّان وَالْعَدْلُ وَالتَّوحِيدُ
-عَلَوِيَّان
-  </p>
-</blockquote>
+> الجَبْرُ وَالتَّشبِيهُ أَمَوِيَّان وَالْعَدْلُ وَالتَّوحِيدُ
+> عَلَوِيَّان
 
 confirms this claim.
 
@@ -69,5 +61,4 @@ In spite of this, some writers who are ignorant of the Shi‘a school of
 thought and have researched the Mu‘tazili and Ash‘ari sects have assumed
 the Shi‘a scholars, among them Sayyid Murta¤a, were Mu‘tazili since they
 found them opposed to some Ash‘ari beliefs.
-
 

@@ -9,14 +9,10 @@ would successfully make oppression, injustice and aggression very rare
 on its surface. Imam Ahmad (d. 241 H) records the *hadith* in his
 *Musnad*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي قال الحسن بن موسى قال ثنا حماد بن سلمة عن أبي
-هارون العبدي ومطر الوراق عن أبي الصديق الناجي عن أبي سعيد الخدري قال
-قال رسول الله صلى الله عليه و سلم تملأ الأرض جورا وظلما فيخرج رجل من
-عترتي يملك سبعا أو تسعا فيملأ الأرض قسطا وعدلا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي قال الحسن بن موسى قال ثنا حماد بن سلمة عن أبي
+> هارون العبدي ومطر الوراق عن أبي الصديق الناجي عن أبي سعيد الخدري قال
+> قال رسول الله صلى الله عليه و سلم تملأ الأرض جورا وظلما فيخرج رجل من
+> عترتي يملك سبعا أو تسعا فيملأ الأرض قسطا وعدلا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – al-Hasan b. Musa –
 Hammad b. Salamah – Abu Harun al-‘Abdi and Maṭar al-Warraq – Abu
@@ -29,25 +25,17 @@ will fill the earth with equity and justice**.”[^1]
 
 Shaykh al-Arnauṭ states:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح دون قوله " يملك سبعا أوتسعا "
-  </p>
-</blockquote>
+> حديث صحيح دون قوله " يملك سبعا أوتسعا "
 
 **It is a** ***sahih hadith***, with the exception of his statement: “he
 will rule by kingdom for seven or nine years.”[^2]
 
 Imam Ibn Hibban (d. 354 H) also documents a *mutaba’ah* for it:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أحمد بن علي بن المثنى قال حدثنا أبو خيثمة قال حدثنا يحيى بن
-سعيد قال حدثنا عوف قال حدثنا أبو الصديق عن أبي سعيد الخدري عن النبي
-صلى الله عليه وسلم قال لا تقوم الساعة حتى تمتلئ الأرض ظلما وعدوانا ثم
-يخرج رجل من أهل بيتي أو عترتي فيملؤها قسطا وعدلا كما ملئت ظلما وعدوانا
-  </p>
-</blockquote>
+> أخبرنا أحمد بن علي بن المثنى قال حدثنا أبو خيثمة قال حدثنا يحيى بن
+> سعيد قال حدثنا عوف قال حدثنا أبو الصديق عن أبي سعيد الخدري عن النبي
+> صلى الله عليه وسلم قال لا تقوم الساعة حتى تمتلئ الأرض ظلما وعدوانا ثم
+> يخرج رجل من أهل بيتي أو عترتي فيملؤها قسطا وعدلا كما ملئت ظلما وعدوانا
 
 Ahmad b. ‘Ali b. al-Muthanna – Abu Khaythamah – Yahya b. Sa’id – ‘Awf –
 Abu al-Siddiq – Abu Sa’id al-Khudri – the Prophet, peace be upon him:
@@ -59,21 +47,13 @@ filled with injustice and hostility.”[^3]
 
 Al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^4]
 
 And al-Arnauṭ concurs:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^5]
 
@@ -82,14 +62,10 @@ His prophets and messengers, to purify His earth. Imam Abu Dawud (d. 275
 H) in his *Sunan* – under the heading: “The Book of al-Mahdi” (*Kitab
 al-Mahdi*) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عثمان بن أبي شيبة ثنا الفضل بن دكين ثنا فطر عن القاسم بن أبي بزة
-عن أبي الطفيل عن علي رضي الله تعالى عنه عن النبي صلى الله عليه و سلم
-قال "لو لم يبق من الدهر إلا يوم لبعث الله رجلا من أهل بيتي يملؤها عدلا
-كما ملئت جورا"
-  </p>
-</blockquote>
+> حدثنا عثمان بن أبي شيبة ثنا الفضل بن دكين ثنا فطر عن القاسم بن أبي بزة
+> عن أبي الطفيل عن علي رضي الله تعالى عنه عن النبي صلى الله عليه و سلم
+> قال "لو لم يبق من الدهر إلا يوم لبعث الله رجلا من أهل بيتي يملؤها عدلا
+> كما ملئت جورا"
 
 ‘Uthman b. Abi Shaybah – al-Fadhl b. Dukayn – Fiṭr – al-Qasim b. Abi
 Barzah – Abu al-Tufayl – ‘Ali, may Allah the Most High be pleased with
@@ -101,21 +77,13 @@ with justice just as it had been filled with injustice.”[^6]
 
 ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^7]
 
 Dr. al-Bastawi, commenting upon the same *hadith*, states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^8]
 
@@ -123,22 +91,14 @@ The *same* word has been employed to describe the appointment and
 mission of the prophets and messengers, *‘alaihim al-salam*, as well in
 the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-كان الناس أمة واحدة فبعث الله النبيين مبشرين ومنذرين
-  </p>
-</blockquote>
+> كان الناس أمة واحدة فبعث الله النبيين مبشرين ومنذرين
 
 Mankind were one community and **Allah SENT prophets** as givers of glad
 tidings and warners.[^9]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ولقد بعثنا في كل أمة رسولا
-  </p>
-</blockquote>
+> ولقد بعثنا في كل أمة رسولا
 
 Verily, **We have SENT** within every *Ummah* **a messenger**.[^10]
 
@@ -149,14 +109,10 @@ al-Sunnah from the senior Tabi’in, Ibn Sirrin (d. 110 H), indicated the
 status of this man in one of his brave pronouncements. Imam al-Maruzi
 (d. 288 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ضمرة عن ابن شوذب عن محمد بن سيرين أنه ذكر فتنة تكون فقال إذا كان
-ذلك فاجلسوا في بيوتكم حتى تسمعوا على الناس بخير من أبي بكر وعمر رضي
-الله عنهما قيل يا أبا بكر خير من أبي بكر وعمر؟ قال قد كان يفضل على بعض
-الأنبياء.
-  </p>
-</blockquote>
+> حدثنا ضمرة عن ابن شوذب عن محمد بن سيرين أنه ذكر فتنة تكون فقال إذا كان
+> ذلك فاجلسوا في بيوتكم حتى تسمعوا على الناس بخير من أبي بكر وعمر رضي
+> الله عنهما قيل يا أبا بكر خير من أبي بكر وعمر؟ قال قد كان يفضل على بعض
+> الأنبياء.
 
 Dhamrah – Ibn Shawdhab:
 
@@ -169,23 +125,15 @@ prophets**.”[^11]
 
 Al-Hafiz (d. 852 H) says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-ضمرة بن ربيعة الفلسطيني أبو عبد الله أصله دمشقي صدوق يهم قليلا
-  </p>
-</blockquote>
+> ضمرة بن ربيعة الفلسطيني أبو عبد الله أصله دمشقي صدوق يهم قليلا
 
 Dhamrah b. Rubay’ah al-Filisṭini, Abu ‘Abd Allah, his origin was
 Damascus: ***Saduq*** **(very truthful)**, hallucinates a little.[^12]
 
 Concerning the second narrator, he equally states:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن شوذب الخراساني أبو عبد الرحمن سكن البصرة ثم الشام صدوق
-عابد
-  </p>
-</blockquote>
+> عبد الله بن شوذب الخراساني أبو عبد الرحمن سكن البصرة ثم الشام صدوق
+> عابد
 
 ‘Abd Allah b. Shawdhab al-Khurasani, Abu ‘Abd al-Rahman, he lived in
 Basra, then Syria: ***Saduq*** **(very truthful)**, a devout worshipper
@@ -202,14 +150,10 @@ in rank.
 Meanwhile, here is another *riwayah* about this Mahdi, *‘alaihi
 al-salam*, from the same Abu Dawud:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا سهل بن تمام بن بزيع ثنا عمران القطان عن قتادة عن أبي نضرة عن أبي
-سعيد الخدري قال قال رسول الله صلى الله عليه و سلم " المهدي مني أجلى
-الجبهة أقنى الأنف يملأ الأرض قسطا وعدلا كما ملئت جورا وظلما ويملك سبع
-سنين "
-  </p>
-</blockquote>
+> حدثنا سهل بن تمام بن بزيع ثنا عمران القطان عن قتادة عن أبي نضرة عن أبي
+> سعيد الخدري قال قال رسول الله صلى الله عليه و سلم " المهدي مني أجلى
+> الجبهة أقنى الأنف يملأ الأرض قسطا وعدلا كما ملئت جورا وظلما ويملك سبع
+> سنين "
 
 Sahl b. Tammam b. Buzay’ – ‘Imran al-Qaṭṭan – Qatadah – Abu Nadhrah –
 Abu Sa’id al-Khudri:
@@ -221,21 +165,13 @@ injustice**, and he will rule by kingdom for seven years.”[^15]
 
 Al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^16]
 
 Shaykh Ibn Taymiyyah (d. 728 H) also declares:
 
-<blockquote dir="rtl">
-  <p>
-الأحاديث التي يحتج بها على خروج المهدي أحاديث صحيحة
-  </p>
-</blockquote>
+> الأحاديث التي يحتج بها على خروج المهدي أحاديث صحيحة
 
 The *ahadith* that are relied upon as *hujjah* (proof) for the coming
 out of the Mahdi are *sahih* *ahadith*.[^17]
@@ -249,14 +185,10 @@ rule the whole planet as a just, righteous and rightly guided royal
 Interestingly, his personal name will be Muhammad, like that of our
 Prophet. Imam al-Tirmidhi (d. 279 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبيد بن أسباط بن محمد القرشي الكوفي قال حدثني أبي حدثنا سفيان
-الثوري عن عاصم بن بهدلة عن زر عن عبد الله قال قال رسول الله صلى الله
-عليه و سلم لا تذهب الدنيا حتى يملك العرب رجل من أهل بيتي يواطئ اسمه
-اسمي
-  </p>
-</blockquote>
+> حدثنا عبيد بن أسباط بن محمد القرشي الكوفي قال حدثني أبي حدثنا سفيان
+> الثوري عن عاصم بن بهدلة عن زر عن عبد الله قال قال رسول الله صلى الله
+> عليه و سلم لا تذهب الدنيا حتى يملك العرب رجل من أهل بيتي يواطئ اسمه
+> اسمي
 
 ‘Ubayd b. Asbaṭ b. Muhammad al-Qurashi al-Kufi – my father – Sufyan
 al-Thawri – ‘Asim b. Bahdalah[^18] – Zirr – ‘Abd Allah (b. Mas’ud):
@@ -267,21 +199,13 @@ end until **a man from my Ahl al-Bayt** rules the Arabs by kingdom.
 
 Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan sahih*.[^20]
 
 And al-Albani agrees:
 
-<blockquote dir="rtl">
-  <p>
-حسن صحيح
-  </p>
-</blockquote>
+> حسن صحيح
 
 *Hasan sahih*.[^21]
 
@@ -295,30 +219,14 @@ be overlooked. First, belief in his coming in an *‘aqidah* of Islam, and
 has been so named by *‘ulama* of the Ahl al-Sunnah too. For instance,
 al-Albani states:
 
-<blockquote dir="rtl">
-  <p>
-وما مثل هؤلاء إلا كمثل من ينكر عقيدة نزول عيسى عليه السلام في آخر
-  </p>
-</blockquote>
+> وما مثل هؤلاء إلا كمثل من ينكر عقيدة نزول عيسى عليه السلام في آخر
 
-<blockquote dir="rtl">
-  <p>
-الزمان التي تواتر ذكرها في الأحاديث الصحيحة، لأن بعض الدجاجلة ادعاها،
-مثل
-  </p>
-</blockquote>
+> الزمان التي تواتر ذكرها في الأحاديث الصحيحة، لأن بعض الدجاجلة ادعاها،
+> مثل
 
-<blockquote dir="rtl">
-  <p>
-ميرزا غلام أحمد القادياني، وقد أنكرها بعضهم فعلا صراحة، كالشيخ شلتوت،
-  </p>
-</blockquote>
+> ميرزا غلام أحمد القادياني، وقد أنكرها بعضهم فعلا صراحة، كالشيخ شلتوت،
 
-<blockquote dir="rtl">
-  <p>
-وأكاد أقطع أن كل من أنكر عقيدة المهدي ينكرها أيضا
-  </p>
-</blockquote>
+> وأكاد أقطع أن كل من أنكر عقيدة المهدي ينكرها أيضا
 
 These people are only like those who deny **the** ***‘aqidah*** **of the
 descent of ‘Isa**, *‘alaihi al-salam*, at the end of Time - whose
@@ -333,17 +241,13 @@ This means that whoever does not believe in the descent of Prophet ‘Isa,
 and his mission and activities, has a defective *iman* (faith). Shaykh
 Ibn Baz (d. 1420 H) puts the matter forward in an even stronger manner:
 
-<blockquote dir="rtl">
-  <p>
-وقدصحت وتواترت هذه الأخبار عن رسول الله عليه الصلاة والسلام في نزول
-الممسيح ابن مريم من السمماء في آخر الزمان، ومن خروج يأجوج ومأجوج وخروج
-الدجال في آخر الزمان، ومن مجيء المهدي، كل هذا االأربعة ثابتة: المهدي
-في آخر الزمان يملأ الأرض قسطاً بعد أن ملئت جوراً، ونزول المسيح ابن
-مريم، وخروج الدجال في آخر الزمان، وخروج يأجوج ومأجوج، كل هذا ثابت
-بالأحاديث الصحيحة المتواترة عن رسول الله صلى الله عليه وسلم، فإنكارها
-كفر وضلال
-  </p>
-</blockquote>
+> وقدصحت وتواترت هذه الأخبار عن رسول الله عليه الصلاة والسلام في نزول
+> الممسيح ابن مريم من السمماء في آخر الزمان، ومن خروج يأجوج ومأجوج وخروج
+> الدجال في آخر الزمان، ومن مجيء المهدي، كل هذا االأربعة ثابتة: المهدي
+> في آخر الزمان يملأ الأرض قسطاً بعد أن ملئت جوراً، ونزول المسيح ابن
+> مريم، وخروج الدجال في آخر الزمان، وخروج يأجوج ومأجوج، كل هذا ثابت
+> بالأحاديث الصحيحة المتواترة عن رسول الله صلى الله عليه وسلم، فإنكارها
+> كفر وضلال
 
 ***Sahih*** **and** ***mutawatir*** **reports have been reported from
 the Messenger of Allah**, peace be upon him, concerning the descent of
@@ -361,19 +265,11 @@ of them is** ***kufr*** **(disbelief and apostasy) and** ***dhalal***
 
 We also read this Q&A by the same Shaykh:
 
-<blockquote dir="rtl">
-  <p>
-يوجد لدينا رجل ينكر المسيح الدجال والمهدي ونزول عيسى عليه السلام
-ويأجوج ومأجوج ولا يعتقد في شيء منها، ويدعي عدم صحة ما ورد في ذلك من
-أحاديث… وهو يصلي ويصوم ويأتي بالفرائض. فما حكمه؟….
-  </p>
-</blockquote>
+> يوجد لدينا رجل ينكر المسيح الدجال والمهدي ونزول عيسى عليه السلام
+> ويأجوج ومأجوج ولا يعتقد في شيء منها، ويدعي عدم صحة ما ورد في ذلك من
+> أحاديث… وهو يصلي ويصوم ويأتي بالفرائض. فما حكمه؟….
 
-<blockquote dir="rtl">
-  <p>
-مثل هذا الرجل يكون كافراً
-  </p>
-</blockquote>
+> مثل هذا الرجل يكون كافراً
 
 (Question) **There is a man with us who denies the Masih al-Dajjal, THE
 MAHDI, the descent of ‘Isa,** ***‘alaihi al-salam*****, and Yajuj and
@@ -393,24 +289,16 @@ Another point is that the supplication *‘alaihi al-salam* (peace be upon
 him) is added after the name of the Mahdi too, like in the case of
 prophets and angels. Al-Albani again says about ‘Isa b. Maryam:
 
-<blockquote dir="rtl">
-  <p>
-فيأتم هو بالمهدي عليهما السلام
-  </p>
-</blockquote>
+> فيأتم هو بالمهدي عليهما السلام
 
 He (‘Isa) himself will be led in *salat* by the Mahdi, *‘alaihima
 al-salam* (peace be upon them both).[^25]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-كما فعل بعض الفرق قديما حين بادروا إلى إنكار القدر الإلهي إبطالا
-للجبر، وبعض العلماء في العصر الحاضر إلى إنكار عقيدة نزول عيسى وخروج
-المهدي عليهما السلام
-  </p>
-</blockquote>
+> كما فعل بعض الفرق قديما حين بادروا إلى إنكار القدر الإلهي إبطالا
+> للجبر، وبعض العلماء في العصر الحاضر إلى إنكار عقيدة نزول عيسى وخروج
+> المهدي عليهما السلام
 
 It is like how some sects did in the past when they denied the existence
 of divine destiny in order to invalidate the doctrine of fatalism, and
@@ -419,12 +307,8 @@ and the rise of al-Mahdi, *‘alaihima al-salam*.[^26]
 
 Imam al-Mubarakfuri (d. 1282 H) submits too:
 
-<blockquote dir="rtl">
-  <p>
-قال الخطابي ويكون ذلك في زمن المهدي أو عيسى عليهما الصلاة والسلام أو
-كليهما
-  </p>
-</blockquote>
+> قال الخطابي ويكون ذلك في زمن المهدي أو عيسى عليهما الصلاة والسلام أو
+> كليهما
 
 Al-Khaṭṭabi (d. 388 H) said: “That will occur during the time of the
 Mahdi or ‘Isa, *‘alaihima al-salat wa al-salam* (peace and blessings be
@@ -436,11 +320,7 @@ However, we have seen Sunni scholars who prefer to say *radhiyallahu
 Lastly, one of the titles of the Mahdi is *al-Muntazar* (the Awaited).
 Imam al-Kattani (d. 1345 H) gives this heading in his book:
 
-<blockquote dir="rtl">
-  <p>
-خروج المهدي الموعود المنتظر الفاطمي.
-  </p>
-</blockquote>
+> خروج المهدي الموعود المنتظر الفاطمي.
 
 The coming out of the Promised Mahdi, **the** **Awaited
 (*****al-Muntazar*****)** al-Faṭimi (i.e. from the offspring of
@@ -448,12 +328,8 @@ Faṭimah).[^28]
 
 Al-Mubarakfuri also writes:
 
-<blockquote dir="rtl">
-  <p>
-وقال القاضي الشوكاني في الفتح الرباني الذي أمكن الوقوف عليه من
-الأحاديث الواردة في المهدي المنتظر خمسون حديثا
-  </p>
-</blockquote>
+> وقال القاضي الشوكاني في الفتح الرباني الذي أمكن الوقوف عليه من
+> الأحاديث الواردة في المهدي المنتظر خمسون حديثا
 
 Al-Qadhi al-Shawkani (d. 1250 H) said in *al-Fath al-Rabbani*: “What I
 have been able to study from the *ahadith* documented about **the
@@ -463,12 +339,8 @@ Awaited Mahdi (*****al-Mahdi al-Muntazar*****)** are fifty
 The title of one of Dr. al-Bastawi’s books bears the appellation as
 well:
 
-<blockquote dir="rtl">
-  <p>
-المهدي المنتظر في ضوء الأحاديث والآثار الصحيحة وأقوال العلماء وآراء
-الفرق المختلفة
-  </p>
-</blockquote>
+> المهدي المنتظر في ضوء الأحاديث والآثار الصحيحة وأقوال العلماء وآراء
+> الفرق المختلفة
 
 **The Awaited Mahdi (*****al-Mahdi al-Muntazar*****)** in the Light of
 *Sahih Ahadith* and *Athar* and the Statements of the Scholars and the
@@ -477,22 +349,14 @@ Views of Different Sects.
 In that same book, he mentions this book by Imam Ibn Hajar al-Haythami
 (d. 974 H):
 
-<blockquote dir="rtl">
-  <p>
-القول المختصر في علامات المهدي المنتظر
-  </p>
-</blockquote>
+> القول المختصر في علامات المهدي المنتظر
 
 A Concise Statement on the Signs of **the Awaited Mahdi (*****al-Mahdi
 al-Muntazar*****)**.[^30]
 
 He further cites a book by Shaykh Mur’i b. Yusuf al-Hanbali (d. 1033 H):
 
-<blockquote dir="rtl">
-  <p>
-فوائد الفكر في ظهور المهدي المنتظر
-  </p>
-</blockquote>
+> فوائد الفكر في ظهور المهدي المنتظر
 
 The Benefits of Thinking about the Appearance of **the Awaited Mahdi
 (*****al-Mahdi al-Muntazar*****)**.[^31]
@@ -502,11 +366,7 @@ al-‘Abbad, whom he identifies as a former Vice Chancellor of the Islamic
 University of al-Madinah al-Munawwarah, published in the journal of the
 university of Dhu al-Qa’dah 1389 H, pp. 126-164:
 
-<blockquote dir="rtl">
-  <p>
-عقيدة أهل السنة والأثر في المهدي المنتظر
-  </p>
-</blockquote>
+> عقيدة أهل السنة والأثر في المهدي المنتظر
 
 The *‘Aqidah* of the Ahl al-Sunnah wa al-Athar Concerning **the Awaited
 Mahdi (*****al-Mahdi al-Muntazar*****)**.[^32]
@@ -515,33 +375,17 @@ This again reminds that the issue of the Mahdi is a matter of *‘aqidah*.
 
 ‘Allamah al-Albani mentions this as well:
 
-<blockquote dir="rtl">
-  <p>
-فمنهم مثلا من يتبع من ادعى أنه المهدي أو عيسى، كالقاديانيين
-  </p>
-</blockquote>
+> فمنهم مثلا من يتبع من ادعى أنه المهدي أو عيسى، كالقاديانيين
 
-<blockquote dir="rtl">
-  <p>
-الذين اتبعوا ميرزا غلام أحمد القادياني الذي ادعى المهدوية أولا، ثم
-العيسوية
-  </p>
-</blockquote>
+> الذين اتبعوا ميرزا غلام أحمد القادياني الذي ادعى المهدوية أولا، ثم
+> العيسوية
 
-<blockquote dir="rtl">
-  <p>
-، ثم النبوة، ومثل جماعة (جهيمان) السعودي الذي قام بفتنة الحرم المكي
-على
-  </p>
-</blockquote>
+> ، ثم النبوة، ومثل جماعة (جهيمان) السعودي الذي قام بفتنة الحرم المكي
+> على
 
 > رأس سنة (1400) هجرية، وزعم أن معه المهدي المنتظر، وطلب من الحاضرين في
 
-<blockquote dir="rtl">
-  <p>
-الحرم أن يبايعوه
-  </p>
-</blockquote>
+> الحرم أن يبايعوه
 
 Among them, for example, are those who follow someone who calls himself
 the Mahdi or ‘Isa, like the Qadiyanis, who follow Mirza Ghulam Ahmad
@@ -677,5 +521,4 @@ beheaded, along with 67 of his fighters, on January 9, 1980.
 b. Adam al-Ashqudri al-Albani, Silsilah al-Ahadith al-Sahihah wa Shayhun
 min Fiqhihah wa Fawaidihah (Riyadh: Maktabah al-Ma’arif li al-Nashr wa
 al-Tawzi’; 1st edition, 1415 H), vol. 5, p. 278, \# 2236
-
 

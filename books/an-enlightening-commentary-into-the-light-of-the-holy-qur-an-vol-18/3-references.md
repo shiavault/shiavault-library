@@ -149,4 +149,3 @@ Aryanpur (Kashani), Amir Kabir Publication Organization, 1963.
 10. ***The Larger Persian English Dictionary**,* by S. Haim, published
 in Farhang Moaser, Tehran, Iran, 1985.
 
-

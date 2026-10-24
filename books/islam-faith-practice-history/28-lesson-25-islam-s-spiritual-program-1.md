@@ -222,4 +222,3 @@ desires.
 [^1]: Ramadhān is the ninth month in the lunar calender used by the
 Muslims.
 
-

@@ -19,15 +19,11 @@ incumbent upon man, because He possesses all the attributes of
 perfection and beauty, and all creatures are dependant upon him. Allah,
 the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ إِنْ کانَ آباؤُکُمْ وَأَبْناؤُکُمْ وَإِخْوانُکُمْ
-وَأَزْواجُکُمْ وَعَشِيرَتُکُمْ وَأَموالٌ اقْتَرَفتُمُوها وَتِجارَةٌ
-تَخشَونَ کَسادَها وَمَساکِنُ تَرْضَونَها أَحَبَّ إِلَيکُمْ مِنَ اللهِ
-وَرَسُولِهِ وَجِهادٍ في سَبيلِهِ فَتَرَبَّصُوا حَتّی يأتِي اللهُ
-بِأَمْرِهِ وَاللهُ لا يَهْدِي الْقَوْمَ الْفاسِقينَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ إِنْ کانَ آباؤُکُمْ وَأَبْناؤُکُمْ وَإِخْوانُکُمْ
+> وَأَزْواجُکُمْ وَعَشِيرَتُکُمْ وَأَموالٌ اقْتَرَفتُمُوها وَتِجارَةٌ
+> تَخشَونَ کَسادَها وَمَساکِنُ تَرْضَونَها أَحَبَّ إِلَيکُمْ مِنَ اللهِ
+> وَرَسُولِهِ وَجِهادٍ في سَبيلِهِ فَتَرَبَّصُوا حَتّی يأتِي اللهُ
+> بِأَمْرِهِ وَاللهُ لا يَهْدِي الْقَوْمَ الْفاسِقينَ ﴾
 
 ***“Say: If your fathers and your sons and your brethren and your mates
 and your kindred and property which you have acquired, and the slackness
@@ -47,11 +43,7 @@ has been ordered that he, too, must be loved.
 
 The Prophet of Islam (S) says,
 
-<blockquote dir="rtl">
-  <p>
-«اَحِبُّوا اللهَ لما يغذوکمْ وَأَحِبُّوني بحُبِّ الله...»
-  </p>
-</blockquote>
+> «اَحِبُّوا اللهَ لما يغذوکمْ وَأَحِبُّوني بحُبِّ الله...»
 
 “You must love Allah because he gives you all sustenance, and love me
 for the sake of Allah…”[^2]
@@ -120,11 +112,7 @@ and said, ‘These are my *Ahl al-Bayt*’.”[^4]
 
 Imam al-Husayn (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«إنّا اَهْلُ بَيْتِ النُّبُوَّةِ.»
-  </p>
-</blockquote>
+> «إنّا اَهْلُ بَيْتِ النُّبُوَّةِ.»
 
 “We are the *Ahl al-Bayt* of the Holy Prophet (S).”[^5]
 
@@ -138,12 +126,8 @@ Al-Hasan ibn ‘Ali joined the Prophet and was permitted to enter the
 *Kisa* as well. Lastly, ‘Ali came and he too was permitted to enter the
 *Kisa*. Then, the Holy Prophet (S) recited the Qur’anic verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ اَنَّما يُريدُ اللهُ لِيذْهِبَ عَنْکُمُ الرِّجْسَ أَهْلَ البَيْتِ
-وَيطَهِّرَکُمْ تَطْهيراً ﴾
-  </p>
-</blockquote>
+> ﴿ اَنَّما يُريدُ اللهُ لِيذْهِبَ عَنْکُمُ الرِّجْسَ أَهْلَ البَيْتِ
+> وَيطَهِّرَکُمْ تَطْهيراً ﴾
 
 ***‘Allah only intends to keep away the uncleanliness from you, O people
 of the house, and to purify you a thorough purifying’.*****”**[^6]
@@ -157,12 +141,8 @@ The Holy Qur’an and love of the Ahl al-Bayt (as)
 
 In the Holy Qur’an, Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... قُلْ لا اَسأَلُکُمْ عَلَيْهِ اَجْراً إِلاَّ المَوَدَّةِ فِي
-الْقُرْبي... ﴾
-  </p>
-</blockquote>
+> ﴿ ... قُلْ لا اَسأَلُکُمْ عَلَيْهِ اَجْراً إِلاَّ المَوَدَّةِ فِي
+> الْقُرْبي... ﴾
 
 ***“… Say: I do not ask of you any reward for it but love of my near
 relatives…”***[^8]
@@ -181,14 +161,10 @@ the ones whom loving has been made incumbent upon us?’ The Holy Prophet
 After praising and glorifying Allah in a sermon that he delivered after
 the martyrdom of Imam ‘Ali (as), Imam al-Hasan (as) said,
 
-<blockquote dir="rtl">
-  <p>
-... وأنا من أهلِ البيتِ الّذي افترض الله مودّتهم علی کلِّ مسلم، فقال
-تبارك وتعالي: ﴿ قُلْ لا اَسْأَلُکُمْ عَلَيْهِ اَجْراً إِلاَّ
-المَوَدَّةِ فِي الْقُرْبي وَمَنْ يقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فيها
-حُسْناً ﴾ فاقتراف الحسنة مودّتنا أهل البيت.
-  </p>
-</blockquote>
+> ... وأنا من أهلِ البيتِ الّذي افترض الله مودّتهم علی کلِّ مسلم، فقال
+> تبارك وتعالي: ﴿ قُلْ لا اَسْأَلُکُمْ عَلَيْهِ اَجْراً إِلاَّ
+> المَوَدَّةِ فِي الْقُرْبي وَمَنْ يقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فيها
+> حُسْناً ﴾ فاقتراف الحسنة مودّتنا أهل البيت.
 
 “… And I am one of the *Ahl al-Bayt*, whose love Allah has made
 incumbent upon every Muslim. Allah, the Blessed and Exalted, has said,
@@ -229,7 +205,6 @@ The Holy Prophet (S) said,
 «ادّبوا أولادَکمْ علی ثلاثِ خصال: حبّ نبيّکمْ، وحبّ أهل بيتهِ، وقراءةِ
 القرآنِ.
 
-  
 »
 
 “Instruct and train your children to have three characteristics; love
@@ -243,7 +218,6 @@ Amir al-Mu’minin**,** Imam ‘Ali (as), said,
 
 «أحسنُ الحسنات حبُّنا، وأسوأُ السيئات بغضُنا.
 
-  
 »
 
 “The best of good works is loving us and the worst of bad works is
@@ -259,7 +233,6 @@ Allah’s Prophet (S) has said,
 «أحبّوا الله لما يغذوکم من نعمه، وأحبّوني لحبّ الله، وأحبّوا أهل بيتي
 لحبّي.
 
-  
 »
 
 “You should love Allah because he gives you sustenance from his
@@ -271,11 +244,7 @@ saw Fatimah al-Zahra enter the Prophet’s house along with her two
 children al-Hasan and al-Husayn. ‘Ali came after them and entered the
 house as well. The Prophet looked at them and said,
 
-<blockquote dir="rtl">
-  <p>
-«من أحبّ هؤلاءِ فقد أحبّني، ومن أبغضهم فقد أبغضني.»
-  </p>
-</blockquote>
+> «من أحبّ هؤلاءِ فقد أحبّني، ومن أبغضهم فقد أبغضني.»
 
 ‘The one who loves these people has loved me, and anyone who hates them
 has hated me’.”[^14]
@@ -287,7 +256,6 @@ Imam al-Sadiq (as) said,
 
 «من عرف حقّنا وأحبّنا فقد أحبّ الله تبارك وتعالى.
 
-  
 »
 
 “Anyone who recognizes our right, and loves us, has in reality loved
@@ -297,22 +265,14 @@ Allah, the Blessed and Exalted.”[^15]
 
 The Prophet of Allah has said,
 
-<blockquote dir="rtl">
-  <p>
-«أساسُ الإسلامِ حبّي وحبِّ أهلِ بيتي.»
-  </p>
-</blockquote>
+> «أساسُ الإسلامِ حبّي وحبِّ أهلِ بيتي.»
 
 “The basis and foundation of Islam is love for me and my *Ahl
 al-Bayt*.”[^16]
 
 He also said,
 
-<blockquote dir="rtl">
-  <p>
-«لکلّ شيءٍ أساسٌ، وأساسُ الإسلامِ حبُّنا أهل البيت.»
-  </p>
-</blockquote>
+> «لکلّ شيءٍ أساسٌ، وأساسُ الإسلامِ حبُّنا أهل البيت.»
 
 “There is a base for everything, and the foundation of Islam is love of
 us, the *Ahl al-Bayt*.”[^17]
@@ -321,12 +281,8 @@ us, the *Ahl al-Bayt*.”[^17]
 
 Allah’s Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«حبُّ آلِ محمّدٍ يوماً خيرٌ من عبادةِ سنةٍ، ومن ماتَ عليهِ دخلَ
-الجنّةَ.»
-  </p>
-</blockquote>
+> «حبُّ آلِ محمّدٍ يوماً خيرٌ من عبادةِ سنةٍ، ومن ماتَ عليهِ دخلَ
+> الجنّةَ.»
 
 “One day of loving Muhammad’s *Ahl al-Bayt* is better than one year of
 worship. Anyone who dies loving the *Ahl al-Bayt* will enter the
@@ -336,12 +292,8 @@ Paradise.”[^18]
 
 Allah’s Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«لا يؤمنُ عبدٌ حتّی أکونَ أحبَّ إليهِ من نفسِه، وأهلي أحبُّ إليهِ من
-أهلهِ، وعترتي أحبُّ إليهِ من عترتِهِ، وذاتي أحبُّ إليهِ من ذاتهِ.»
-  </p>
-</blockquote>
+> «لا يؤمنُ عبدٌ حتّی أکونَ أحبَّ إليهِ من نفسِه، وأهلي أحبُّ إليهِ من
+> أهلهِ، وعترتي أحبُّ إليهِ من عترتِهِ، وذاتي أحبُّ إليهِ من ذاتهِ.»
 
 “None of Allah’s servants attain complete faith unless he loves me more
 than he loves himself, loves my *Ahl al-Bayt* more than he loves his own
@@ -353,12 +305,8 @@ birth**
 
 The Holy Prophet (S) pointed at ‘Ali (as) and said,
 
-<blockquote dir="rtl">
-  <p>
-«أيها الناس! إمتحنوا أولادکم بحبّه، فإنّ علياً لايدعو إلی ضلالةٍ، ولا
-يبعدُ عن هديًّ، فمن أحبّهُ فهو منکم، ومن أبغضه فليس منکم.»
-  </p>
-</blockquote>
+> «أيها الناس! إمتحنوا أولادکم بحبّه، فإنّ علياً لايدعو إلی ضلالةٍ، ولا
+> يبعدُ عن هديًّ، فمن أحبّهُ فهو منکم، ومن أبغضه فليس منکم.»
 
 “O people! Test your children with love for ‘Ali, because he does not
 invite you to misguidance and he does not keep you away from guidance.
@@ -368,13 +316,9 @@ of them who does not love ‘Ali is not yours.”[^20]
 Amir al-Mu’minin ‘Ali (as) said, “In his last will and testament to Abu
 Dharr, the Noble Prophet (S) instructed him thus,
 
-<blockquote dir="rtl">
-  <p>
-«يا أباذر! من أحبّنا أهلَ البيت فليحمداللهَ علی أوّل النعم. قال: يا
-رسولَ اللهِ! وما أوّلُ النعمِ؟ قال: طيبّ الولادة‍ِ، انّه لا يحبّنا
-إلاّ من طابَ مولدهُ.»
-  </p>
-</blockquote>
+> «يا أباذر! من أحبّنا أهلَ البيت فليحمداللهَ علی أوّل النعم. قال: يا
+> رسولَ اللهِ! وما أوّلُ النعمِ؟ قال: طيبّ الولادة‍ِ، انّه لا يحبّنا
+> إلاّ من طابَ مولدهُ.»
 
 ‘O Abu Dharr! Anyone who loves us, the *Ahl al-Bayt*, must praise Allah
 for being granted the foremost blessing. Abu Dharr asked, ‘What is the
@@ -387,24 +331,16 @@ Judgement**
 
 Allah’s Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«أوّل ما يسألُ عنه العبدُ حبّنا أهلَ البيتِ.»
-  </p>
-</blockquote>
+> «أوّل ما يسألُ عنه العبدُ حبّنا أهلَ البيتِ.»
 
 “The first thing on the Day of Resurrection to be asked from any of
 Allah’s servants is about their love for us, the *Ahl al-Bayt*.”[^22]
 
 He also said,
 
-<blockquote dir="rtl">
-  <p>
-«لا تزولُ قدما عبدٍ يومَ القيمةِ حتّی يُسألَ عن أربعٍ: عن عمرِهِ فيما
-أفناهُ، وعن جسدِهِ فيما أبلاهُ، وعن ما له فيما أنفقَهُ ومن أينَ
-کسَبهُ، وعن حبّنا أهلَ البيتِ.»
-  </p>
-</blockquote>
+> «لا تزولُ قدما عبدٍ يومَ القيمةِ حتّی يُسألَ عن أربعٍ: عن عمرِهِ فيما
+> أفناهُ، وعن جسدِهِ فيما أبلاهُ، وعن ما له فيما أنفقَهُ ومن أينَ
+> کسَبهُ، وعن حبّنا أهلَ البيتِ.»
 
 “On the Day of Resurrection, none of Allah’s servants will take a step
 forward unless he is asked about four things: how he spent his life, in
@@ -423,22 +359,14 @@ particular. We will now recount these *hadith*s:
 
 The Holy Prophet (S) has said,
 
-<blockquote dir="rtl">
-  <p>
-براءةٌ من النّارِ حبُّ عليًّ.
-  </p>
-</blockquote>
+> براءةٌ من النّارِ حبُّ عليًّ.
 
 “The only way to gain salvation from the hell fire is to love
 ‘Ali.”[^24]
 
 Allah’s Prophet (S) also said,
 
-<blockquote dir="rtl">
-  <p>
-«يا عليُّ! طوبي لمن احبّك وصدق فيك، وويلٌ لمن أبغضك وکذب فيکك.»
-  </p>
-</blockquote>
+> «يا عليُّ! طوبي لمن احبّك وصدق فيك، وويلٌ لمن أبغضك وکذب فيکك.»
 
 “O ‘Ali! Happy and blessed is the man who loves you and is sincere in
 recognizing your right and woe on any person who hates you and is a
@@ -446,22 +374,14 @@ deceitful liar who does not recognize your right.”[^25]
 
 Umm Salamah narrates that she heard the Holy Prophet (S) say,
 
-<blockquote dir="rtl">
-  <p>
-«لا يحبّ علياً منافقّ، ولا يبغضه مؤمنٌ.»
-  </p>
-</blockquote>
+> «لا يحبّ علياً منافقّ، ولا يبغضه مؤمنٌ.»
 
 “No hypocrite loves ‘Ali and no true believer hates him.”[^26]
 
 Imam ‘Ali (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«والذي فلقَ الحبةَ وبرأ النسمةَ، إنّه لعهدَ النّبي الأمّي إليَّ انّه
-لا يحبّني إلاّ مؤمنٌ، ولا يبغضني إلاّ منافقٌ.»
-  </p>
-</blockquote>
+> «والذي فلقَ الحبةَ وبرأ النسمةَ، إنّه لعهدَ النّبي الأمّي إليَّ انّه
+> لا يحبّني إلاّ مؤمنٌ، ولا يبغضني إلاّ منافقٌ.»
 
 “I swear upon He who split the seed and created man, the Prophet verily
 promised me that no one will love me except the true believer, and no
@@ -471,11 +391,7 @@ one will hate me except the hypocrite.”[^27]
 
 Allah’s Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«فاطمةُ بضعةٌ منّي، من أغضَبها فقد أغضبني.»
-  </p>
-</blockquote>
+> «فاطمةُ بضعةٌ منّي، من أغضَبها فقد أغضبني.»
 
 “Fatimah is part of me. Whoever makes her angry, angers me.”[^28]
 
@@ -488,23 +404,15 @@ among the men was more beloved by the Holy Prophet?” She answered,
 
 The Holy Prophet (S) said about al-Hasan (as) and al-Husayn (as),
 
-<blockquote dir="rtl">
-  <p>
-«هذان ابناي الحسنُ والحسينُ، أللّهم إنّي أُحبُّهما، أللّهم فأحبَّهما
-وأحبّ من يحبُّهما.»
-  </p>
-</blockquote>
+> «هذان ابناي الحسنُ والحسينُ، أللّهم إنّي أُحبُّهما، أللّهم فأحبَّهما
+> وأحبّ من يحبُّهما.»
 
 “These two are my children. O Lord! I love these two. O Lord! May you
 too love them and love anyone who loves them.”[^30]
 
 He also said,
 
-<blockquote dir="rtl">
-  <p>
-«الحسنُ والحسينُ ريحانتايَ.»
-  </p>
-</blockquote>
+> «الحسنُ والحسينُ ريحانتايَ.»
 
 “Al-Hasan and al-Husayn are my two fragrant flowers.”[^31]
 
@@ -625,5 +533,4 @@ p. 656; Ahmad ibn Hanbal, Al-Musnad, vol. 2, p. 446.
 
 [^31]: Sahih Bukhari, vol. 5, p. 102, hadith 241; Al-Tirmidhi, Sunan,
 vol. 5, p. 657, hadith 3770; Ahmad ibn Hanbal, Al-Musnad, vol. 2, p. 85.
-
 

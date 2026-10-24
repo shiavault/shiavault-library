@@ -821,4 +821,3 @@ yourself that those who are from his Ahlul-Bait like Baqir, Sadeq,
 Kazim, Reza (A.S.), 'Nefs- Zakiyah' and their likes are great
 scholars.
 
-

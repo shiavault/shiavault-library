@@ -31,4 +31,3 @@ came, himself.)
 **کلا** and **کلتا** emphasize words in the dual form. For example:
 **أکرِم والدیک کلَیها** (Respect your parents, both of them.)
 
-

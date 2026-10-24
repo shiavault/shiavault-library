@@ -104,4 +104,3 @@ with Saeed.
 
 [^1]: Tafsir, al Qurtubi, v1, p.56
 
-

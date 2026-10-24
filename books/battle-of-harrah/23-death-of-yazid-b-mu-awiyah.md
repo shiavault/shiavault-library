@@ -37,4 +37,3 @@ wa al-Ashrāf, p. 263).
 
 [^3]: Samhūdī, Wafā’ al-Wafā’, vol. 1, p. 44.
 
-

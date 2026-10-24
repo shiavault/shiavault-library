@@ -24,7 +24,6 @@ best deserved for Succession to the IMAMAT of ISLAM, both on the
 strength of his family relationship to the Prophet and on the ground of
 his merits, being the sincerest friend and follower of the Prophet."
 
-
 In the Words of Justice Hidayatullah
 1Hidayatullah, Chief Justice of the Supreme Court, Mohammedan Law 16th
 Edition, page 12 and 13 of the Introduction, says : "The election in
@@ -35,7 +34,6 @@ the Sunnis and the Shias."
 "At Kerbala Husain died fighting after suffering great privations. The
 rift between the Sunnis and the Shias (Shian-i-Ali-party of Ali) became
 very great there after."
-
 
 In the Words of Justice Baburam Verma
 Justice Baburam Verma-Mohammedan Law-(1968 Edition page 75).
@@ -77,7 +75,6 @@ recalled that at the time of the expedition to Tabuk, when the Prophet
 had asked him to remain behind in Medina, he said to him, 'Is it not
 fitting that you should be in the same relation to me as Aaron was to
 Moses?"
-
 
 In the words of Gibbon
 "The birth, the alliance, the character of Ali, which exalted him above
@@ -371,7 +368,6 @@ was rejected and Hazrat Abubakr was appointed the first Caliph. As
 predicted by the Holy Prophet, Ali took refuge in the sanctuary of his
 home.
 
-
 Ali subjected to Humiliation.
 
 Abubakr sent Omar to Fatima's house, where Ali and some of his friends
@@ -512,7 +508,6 @@ company, I wish I had it to the end of my life. And if I make a
 permanent abode on your grave it will not be because I doubt the reward
 that God has reserved for those who bear sorrows patiently. Good-bye!
 May God's peace and blessings be with you."
-
 
 According to Shaikh Mufid, Hazrat Ali had twenty-seven children in all.
 This is inclusive of Imam. Hasan, Imam Husain, Janab-e-Zainab and

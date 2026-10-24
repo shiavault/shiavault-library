@@ -40,4 +40,3 @@ your mind will get attuned to the sense of justice and people will begin
 to love you. It will also fulfill your wish that you should enjoy their
 confidence.
 
-

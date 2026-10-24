@@ -63,4 +63,3 @@ it could only be that he took it upon himself to reckon the future.
 
 [^5]: That is, of a successor - Translator.
 
-

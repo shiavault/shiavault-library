@@ -203,4 +203,3 @@ the night of Ashura. It is found in all books of history, traditions and
 biographies. The story of his arrival the night before Ashura may be
 just an invention of some Zakirs.
 
-

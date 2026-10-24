@@ -15,12 +15,8 @@ author of Lataaef al-Maaref.
 **Three**: It has come in some of the authentic Shiite books that among
 the deeds of the eve of Friday is that you recite a hundred times,
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وآل محمد، وعجل فرجهم، وأهلك عدوهم من الجن والانس من
-الأولين والآخرين.
-  </p>
-</blockquote>
+> اللهم صل على محمد وآل محمد، وعجل فرجهم، وأهلك عدوهم من الجن والانس من
+> الأولين والآخرين.
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance. And destroy their enemies, from the Jinns and humans; from
@@ -30,12 +26,8 @@ The renowned Shaykh Abu Ja’far al-Tusi (a.r.) writes in Mukhtasar al-
 Misbaah while describing the rituals for Friday eve, “Send salutations
 on the Holy Prophet (S) in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وآل محمد، وعجل فرجهم، وأهلك عدوهم من الجن والانس من
-الأولين والآخرين.
-  </p>
-</blockquote>
+> اللهم صل على محمد وآل محمد، وعجل فرجهم، وأهلك عدوهم من الجن والانس من
+> الأولين والآخرين.
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance. And destroy their enemies, from the Jinns and humans; from
@@ -58,5 +50,4 @@ believer to be prayed for.
 [^1]: Biharul Anwar; Vol. 89, Pg. 289
 
 [^2]: An-Najmus Thaqib, Pg. 467
-
 

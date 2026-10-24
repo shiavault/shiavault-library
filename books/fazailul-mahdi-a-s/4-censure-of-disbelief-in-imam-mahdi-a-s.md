@@ -91,4 +91,3 @@ Imam as-Sajyad (A.S.) said,"In the Qaem is a similarity to Nuh (AS.)
 and that is his long life."(Kamaaluddin Vol.1, Pg.322. & Vol.2.
 Pg.524)
 
-

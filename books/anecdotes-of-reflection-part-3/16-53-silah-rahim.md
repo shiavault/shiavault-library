@@ -5,23 +5,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ عَسَيْـتُمْ إِنْ تَوَلَّيْـتُمْ أَنْ تُفْسِدُوا فِي الأَرْضِ وَ
-تَقَطَّعُوا أََرْحَامَکُمْ
-  </p>
-</blockquote>
+> فَهَلْ عَسَيْـتُمْ إِنْ تَوَلَّيْـتُمْ أَنْ تُفْسِدُوا فِي الأَرْضِ وَ
+> تَقَطَّعُوا أََرْحَامَکُمْ
 
 *”But if you held command, you were sure to make mischief in the land
 and cut off the ties of kinship.”*[^2]
 
 Imam Baqir (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-صِلَةُ الأََرْحَامِ تَطِيبُ النَّفْسَ وَ تَزِيدُ فِي الرِّزقِ.
-  </p>
-</blockquote>
+> صِلَةُ الأََرْحَامِ تَطِيبُ النَّفْسَ وَ تَزِيدُ فِي الرِّزقِ.
 
 *“Establishing the bonds of kinship freshens the soul and increases the
 sustenance.”*[^3]
@@ -100,15 +92,11 @@ lunged at you with a knife and desired to kill you?”
 He (a.s) said: “Do you not desire that I should be one of those about
 whom Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَ الَّذِينَ يَصِلُونَ ما أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَ
-يَخْشَوْنَ رَبَّهُمْ وَ يَخافُونَ سُوءَ الْحِسابِ وَ الَّذِينَ
-صَبَرُوا ابْتِغاءَ وَجْهِ رَبِّهِمْ وَ أَقامُوا الصَّلاةَ وَ
-أَنْفَقُوا مِمَّا رَزَقْناهُمْ سِرًّا وَ عَلانِيَةً وَ يَدْرَؤُنَ
-بِالْحَسَنَةِ السَّيِّئَةَ أُولئِكَ لَهُمْ عُقْبَى الدَّار
-  </p>
-</blockquote>
+> وَ الَّذِينَ يَصِلُونَ ما أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَ
+> يَخْشَوْنَ رَبَّهُمْ وَ يَخافُونَ سُوءَ الْحِسابِ وَ الَّذِينَ
+> صَبَرُوا ابْتِغاءَ وَجْهِ رَبِّهِمْ وَ أَقامُوا الصَّلاةَ وَ
+> أَنْفَقُوا مِمَّا رَزَقْناهُمْ سِرًّا وَ عَلانِيَةً وَ يَدْرَؤُنَ
+> بِالْحَسَنَةِ السَّيِّئَةَ أُولئِكَ لَهُمْ عُقْبَى الدَّار
 
 “And those who join that which Allah has bidden to be joined and have
 awe of their Lord and fear the evil reckoning. And those who are
@@ -131,12 +119,8 @@ exhibited great kindness towards his relatives and thus found himself to
 be an object of praise and commendation of the Noble Prophet (s.a.w),
 who lauded him by saying:
 
-<blockquote dir="rtl">
-  <p>
-هَذاَ عَبَّاس بنُ عَبدِ الْمُطَّلِب اَجوَدُ قُرَيش کفًّا وَ اَوصَلُها
-رَحماً
-  </p>
-</blockquote>
+> هَذاَ عَبَّاس بنُ عَبدِ الْمُطَّلِب اَجوَدُ قُرَيش کفًّا وَ اَوصَلُها
+> رَحماً
 
 “Abbas Ibn 'Abdul Muttalib is the most generous and benevolent towards
 his relatives from amongst all the Quraish.”
@@ -287,5 +271,4 @@ Tusi, pg. 128
 [^10]: Muntahal A’mal, vol. 2, pg. 213
 
 [^11]: Jame’ al-Nurain, pg. 24
-
 

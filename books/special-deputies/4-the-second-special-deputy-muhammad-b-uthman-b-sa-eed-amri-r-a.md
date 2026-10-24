@@ -3,12 +3,8 @@ The Second Special Deputy Muhammad B. ‘Uthman B. Sa’eed Amri (r.a.)
 
 Imam Hasan al-Askari (a.s.) declares:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعَمْرِىّ وَابْنُه ثِقَتَانِ فَمَا اَدَّيَا اِلَيْكَ فَعَنِّى
-يُوَدِّيَانِ...
-  </p>
-</blockquote>
+> اَلْعَمْرِىّ وَابْنُه ثِقَتَانِ فَمَا اَدَّيَا اِلَيْكَ فَعَنِّى
+> يُوَدِّيَانِ...
 
 *‘Amri (‘Uthman b. Sa’eed (r.a.)) and his son (Muhammad b. ‘Uthman
 (r.a.)) are both reliable* *and trustworthy (in narration). Whatever
@@ -16,11 +12,7 @@ they both convey to you they convey from us.’*[^1]
 
 Imam Mahdi (a.t.f.s.) reiterates,
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَزَلْ ثِقَتُنَا فِى حَيَاةِ الْاَبِ- رضى الله عنه-
-  </p>
-</blockquote>
+> لَمْ يَزَلْ ثِقَتُنَا فِى حَيَاةِ الْاَبِ- رضى الله عنه-
 
 *‘He is for us, trustworthy and reliable, from the time of his father
 (‘Uthman b. Sa’eed (r.a.))’*[^2]
@@ -76,11 +68,7 @@ Marhoom Maamqaani (r.a.) has narrated the above with references from
 Bihar al-Anwar of Allama Majlisi (r.a.) Ayatullah al-Uzma Sayyid Abul
 Qasim Al-Khu’i (r.a.) writes in his book Mojamul Rejaal
 
-<blockquote dir="rtl">
-  <p>
-وَالرِّوَايَاتُ فِى جَلَالَتِه وَعَظَمَةِ مَقَامِه مُتَاظَفَرةٌ
-  </p>
-</blockquote>
+> وَالرِّوَايَاتُ فِى جَلَالَتِه وَعَظَمَةِ مَقَامِه مُتَاظَفَرةٌ
 
 ‘The traditions that have been narrated regarding the majesty and
 greatness of his position are numerous.’
@@ -216,12 +204,8 @@ Reason for Occultation
 *‘And as for the reason for occultation Allah, the Almighty, cautions in
 the Holy Quran:*
 
-<blockquote dir="rtl">
-  <p>
-يٰاَيُّهَا الَّذِيْنَ اٰمَنُوْا لاَ تَسْئَلُوْا عَنْ اَشْيَآءَ اِنْ
-تُبْدَلَكُمْ تَسُوٴْكُمْ
-  </p>
-</blockquote>
+> يٰاَيُّهَا الَّذِيْنَ اٰمَنُوْا لاَ تَسْئَلُوْا عَنْ اَشْيَآءَ اِنْ
+> تُبْدَلَكُمْ تَسُوٴْكُمْ
 
 **‘*****O you who believe! Do not question about things which if
 declared to you, may trouble you.*****’**[^5]
@@ -306,11 +290,7 @@ Bayt (a.s.). In this era, that door of access is Imam az-Zaman (a.s.).
 He is Allah’s Gate (Babullah) and hence we send salutation upon him in
 the Ziyarat:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ يَا بَابَ اللهِ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ يَا بَابَ اللهِ
 
 *Peace be upon you O Allah’s Door*
 
@@ -435,12 +415,8 @@ have received a Tauqee’ from the pure personality (Imam (a.t.f.s.)) in a
 script (handwriting) which I recognise i.e. in the writing of Imam
 az-Zaman (a.t.f.s.) and it was written in that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَمّٰانِى فِىْ مَجْمَعٍِ مِنَ النَّاسِ بِاِسْمِى فَعَلَيْهِ
-لَعْنَةُ اللهِ
-  </p>
-</blockquote>
+> مَنْ سَمّٰانِى فِىْ مَجْمَعٍِ مِنَ النَّاسِ بِاِسْمِى فَعَلَيْهِ
+> لَعْنَةُ اللهِ
 
 *‘May Allah curse the one who calls me by my name in any assembly or
 gathering.’*
@@ -448,11 +424,7 @@ gathering.’*
 Abu Ali Muhammad b. Hammam says that I wrote a letter to Imam (a.t.f.s.)
 enquiring about the time of his reappearance. He (a.t.f.s.) informed,
 
-<blockquote dir="rtl">
-  <p>
-كَذِبَ الوَقََّاتُوْنَ
-  </p>
-</blockquote>
+> كَذِبَ الوَقََّاتُوْنَ
 
 *‘Those who fix the time of my reappearance are liars.’*[^9]
 
@@ -462,13 +434,9 @@ Note
 Imam (a.t.f.s.) himself has explained the rationale behind the
 prohibition of uttering his (a.t.f.s.) name in public:
 
-<blockquote dir="rtl">
-  <p>
-اِمَّا السُّكُوْتَ وَالجَنَّةَ، وَاِمَّا الْكَلَامَ وَالنَّارَ،
-فَاِنَّهُمْ اِنْ وَقَفُوْا عَلَى الْاِسْمِ اَذَاعُوهُ وَاِنْ وَقَفُوْا
-عَلَى الْمَكانِ دَلُّوْ عَلَيْهِ-
-  </p>
-</blockquote>
+> اِمَّا السُّكُوْتَ وَالجَنَّةَ، وَاِمَّا الْكَلَامَ وَالنَّارَ،
+> فَاِنَّهُمْ اِنْ وَقَفُوْا عَلَى الْاِسْمِ اَذَاعُوهُ وَاِنْ وَقَفُوْا
+> عَلَى الْمَكانِ دَلُّوْ عَلَيْهِ-
 
 *‘...or one should refrain from taking the name so that he may become
 deserving of heaven or he should talk (about him) so that he is put in
@@ -484,13 +452,9 @@ and fear of enemies.
 (r.a.), ‘I wish to ask you the same question that Hazrat Ibrahim (a.s.)
 asked Allah and said:
 
-<blockquote dir="rtl">
-  <p>
-وَاِذْ قَالَ اِبْرَاهِيْمُ رَبِّ اَرِنِىْ كَيْفَ تُحْيِى الْمَوْتَى
-قَالَ اَوَلَمْ تُوٴْمِنْ قَالَ : بَلٰى وَلٰكِنْ لِيَطْمَئِنَّ
-قَلْبِىْ.
-  </p>
-</blockquote>
+> وَاِذْ قَالَ اِبْرَاهِيْمُ رَبِّ اَرِنِىْ كَيْفَ تُحْيِى الْمَوْتَى
+> قَالَ اَوَلَمْ تُوٴْمِنْ قَالَ : بَلٰى وَلٰكِنْ لِيَطْمَئِنَّ
+> قَلْبِىْ.
 
 ***And when Ibrahim said: My Lord! Show me how You give life to the
 dead. He said, ‘What! And do you not believe?’ He replied, ‘Yes (I
@@ -503,12 +467,8 @@ this and he pointed towards his own neck with his hand.’*[^12]
 3) Abdullah b. Ja’far Himyari narrates that I heard from Muhammad b.
 ‘Uthman (r.a.)
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ اِنَّ صَاحِبَ هٰذَا الاَمرِ لَيَحْضُرُ الْمُوسِمَ كُلَّ سَنَةٍ
-فَيَرَى النَّاسَ وَيَعْرِفُهُمْ وَيَرَوْنَهُ وَلَا يَعْرِفُوْنَهُ.
-  </p>
-</blockquote>
+> وَاللهِ اِنَّ صَاحِبَ هٰذَا الاَمرِ لَيَحْضُرُ الْمُوسِمَ كُلَّ سَنَةٍ
+> فَيَرَى النَّاسَ وَيَعْرِفُهُمْ وَيَرَوْنَهُ وَلَا يَعْرِفُوْنَهُ.
 
 *‘I swear by Allah that Sahib ul-’Amr (a.t.f.s.) visits Mecca every year
 (at the time of Hajj). He sees the people and recognises them and the
@@ -517,22 +477,14 @@ people also see him but do not recognise him.’*
 Muhammad b. ‘Uthman (r.a.) witnessed Imam (a.t.f.s.) in Masjidul Haram
 near the Ka’ba praying:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ اَنْجِزْلى مَا وَعَدْتَنِى
-  </p>
-</blockquote>
+> اَللَّهُمَّ اَنْجِزْلى مَا وَعَدْتَنِى
 
 *‘O Allah! Fulfill the promise that You have made unto me.’*[^13]
 
 He also narrates the following tradition: I saw Imam (a.t.f.s.) near
 Babul Mustajaar clutching the cloth of Kaaba, beseeching Allah
 
-<blockquote dir="rtl">
-  <p>
-اَللّٰهُمَّ انتَقِمْ لِى مِنْ اَعْدَائى [اَوْ اَعْدَائِكَ]
-  </p>
-</blockquote>
+> اَللّٰهُمَّ انتَقِمْ لِى مِنْ اَعْدَائى [اَوْ اَعْدَائِكَ]
 
 *‘O my Lord, let me take revenge from my enemies (or Your
 enemies).’*[^14]
@@ -627,13 +579,9 @@ deputyship. His grave is situated in East Baghdad in a very clean, posh
 and populated area in a mosque, famous as Khallani. Till date Shias
 visit his shrine and recite his Ziarat:
 
-<blockquote dir="rtl">
-  <p>
-اَشَهَدُ اَنَّكَ بَابُ الْمَوْلٰى …جِئتُكَ عَارِفًا بِالْحَقّ الَّذِىْ
-اَنْتَ عَلَيْهِ وَاَنَّكَ مٰا خُنْتَ فِى التّٰاديَةِ وَالسِّفَارةِ-
-اَلسَّلَامُ عَلَيْكَ مِنْ بَابٍ مٰا اَوْسَعَهُ …
-  </p>
-</blockquote>
+> اَشَهَدُ اَنَّكَ بَابُ الْمَوْلٰى …جِئتُكَ عَارِفًا بِالْحَقّ الَّذِىْ
+> اَنْتَ عَلَيْهِ وَاَنَّكَ مٰا خُنْتَ فِى التّٰاديَةِ وَالسِّفَارةِ-
+> اَلسَّلَامُ عَلَيْكَ مِنْ بَابٍ مٰا اَوْسَعَهُ …
 
 *‘I bear witness that you are the door of mercy of my Master .... I have
 come to you after recognising your right on which you remained firmly
@@ -677,5 +625,4 @@ tradition 3
 [^15]: Tarikhe Siyaasie Ghaibate Imam al-Dawaazdahum, p.170
 
 [^16]: Mafatihul Jinaan translated by Allama Jawadi (r.a.), p. 897
-
 

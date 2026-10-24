@@ -17,4 +17,3 @@ by itself permissible but it is contemptible, and its reality is
 *shirk*; the absolute authority is the privilege of the True One, the
 Almighty, when it comes to dealing with His servants.
 
-

@@ -23,4 +23,3 @@ al-Makaarem, vol. 1, p. 116 & 142; Misbaah al-Zaaer, p. 217-219.)
 
 [^4]: (Iqbaal al-A'maal, p. 507; Behaar al-Anwaar, vol., 21, p. 312.)
 
-

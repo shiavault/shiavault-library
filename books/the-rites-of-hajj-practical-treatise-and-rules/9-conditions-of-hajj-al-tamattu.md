@@ -105,4 +105,3 @@ There is no problem for women, to prevent their menstruation by using
 pills or such, in order to perform the rites of Hajj al-Tamattu’ like
 Tawaf and prayer of Tawaf in the state of being clean.
 
-

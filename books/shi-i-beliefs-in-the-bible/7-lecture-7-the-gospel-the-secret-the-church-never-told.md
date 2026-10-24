@@ -549,4 +549,3 @@ creed, priest, church or sacraments. There is another word for religion
 that consists in the submission of the individual to God. That word is
 Islam.
 
-

@@ -2459,4 +2459,3 @@ mentioned in the account of the Holy Prophet. Refer to volume II.
 Isma‘il (instead of Ishaq) in this chapter though there are many more.
 If Allah wills we shall see many other narrations in the account of Lu§.
 
-

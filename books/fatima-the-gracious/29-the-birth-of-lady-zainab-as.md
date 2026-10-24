@@ -62,4 +62,3 @@ Syria.) (compiler's note)
 
 [^1]: Bihar: v.10.
 
-

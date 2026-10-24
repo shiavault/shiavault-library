@@ -26,12 +26,8 @@ circumambulate His House, and link their hearts to the Lord of the House
 so as to gradually prepare themselves for visiting the Lord of the
 universe. God says (in a Hadith Qudsi[^1]):
 
-<blockquote dir="rtl">
-  <p>
-لم تَسَعْني أَرضِي ولا سَمائِي وَوَسِعَني قَلبُ عَبدِيَ المُؤمِنِ
-اللّيّنُ الوادِعُ.
-  </p>
-</blockquote>
+> لم تَسَعْني أَرضِي ولا سَمائِي وَوَسِعَني قَلبُ عَبدِيَ المُؤمِنِ
+> اللّيّنُ الوادِعُ.
 
 “I am not contained in the earth nor in the heavens, but I am contained
 in the soft and tranquil heart of My believing servant.”[^2]50
@@ -81,14 +77,10 @@ devotees and the stages of servitude. The essence of worship is the
 journey towards God and the external acts of Hajj, devoid of presence of
 the heart, are not considered as worship. The Holy Prophet (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنمَا فُرِضَتِ الصّلاةُ وأُمِر بِالحَجِّ والطّوافِ وأُشْعِرتِ
-المَناسِكُ لإقَامَةِ ذِكْرِ اللهِ، فإِذا لم يكُنْ في قَلبِكَ
-لِلمذكُورِ الّذي هو المَقصُودُ والمُبتَغى عَظَمَةٌ ولا هَيبَةٌ فَما
-قيمَةُ ذِكْرِك؟
-  </p>
-</blockquote>
+> إِنمَا فُرِضَتِ الصّلاةُ وأُمِر بِالحَجِّ والطّوافِ وأُشْعِرتِ
+> المَناسِكُ لإقَامَةِ ذِكْرِ اللهِ، فإِذا لم يكُنْ في قَلبِكَ
+> لِلمذكُورِ الّذي هو المَقصُودُ والمُبتَغى عَظَمَةٌ ولا هَيبَةٌ فَما
+> قيمَةُ ذِكْرِك؟
 
 “The daily prayer, Hajj, circumambulation, and the other rites are aimed
 at remembering Allah. But when there is no remembrance of Him in your
@@ -96,29 +88,17 @@ heart, what value will your oral remembrance have?”[^3]51
 
 The Holy Qur’an has blamed the heedless worshippers
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِلْمُصَلِّينَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِلْمُصَلِّينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
 
 ***“So, woe to the praying ones who are unmindful of their prayers.
 (107:4, 5)”-,***
 
 and forbidden offering prayers while being drunk –
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ
-سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ …
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ
+> سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ …
 
 ***“O you who believe! Do not go near prayer when you are intoxicated
 until you know what you say. (4:43)***
@@ -133,11 +113,7 @@ manifestations of his inner feelings. In the same way that physical acts
 represent spiritual acts, the physical acts push the soul towards
 spiritual journey.
 
-<blockquote dir="rtl">
-  <p>
-إِليهِ يَصْعَدُ الكَلِمُ الطّيِّبُ والعَمَلُ الصّالِحُ يَرْفَعُهُ.
-  </p>
-</blockquote>
+> إِليهِ يَصْعَدُ الكَلِمُ الطّيِّبُ والعَمَلُ الصّالِحُ يَرْفَعُهُ.
 
 ***“To Him do ascend the good words; and the good deeds life them up.
 (The Holy Qur’an 35:10)”***
@@ -148,12 +124,8 @@ to the heavens to sit with the angels, otherwise prostration based on
 hypocrisy, pretense, and habit will have no spiritual effect on the
 soul.
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً.
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً.
 
 ***“Whoever does good whether male or female and he is believer, We will
 most certainly make him a happy life. (The Holy Qur’an; 16:97)”***
@@ -161,26 +133,22 @@ most certainly make him a happy life. (The Holy Qur’an; 16:97)”***
 Reflect on the following Hadith in which God spoke to the Holy Prophet
 (saw) on his Midnight Ascension –*israa and Mi’raj*:
 
-<blockquote dir="rtl">
-  <p>
-فَمَن عَمِلَ بِرضَائِي أُلزِمْهُ ثلاثَ خِصالٍ: أُعَرِّفُهُ شُكْراً لا
-يُخَالِطُهُ الجَهلُ وَذِكْراً لا يُخَالِطُهُ النّسْيانُ ومَحَبّةً لا
-يُؤثِرُ على مَحَبّتي المَخلُوقِين. فَإِذا أَحَبّني أَحْبَبْتُهُ
-وأَفتَحُ عَينَ قَلبِهِ إلى جَلالِي فلا أُخْفِي عَلَيهِ خَاصَّةَ خَلقِي
-فَأُناجِيهِ في ظُلَمِ اللّيلِ ونُورِ النّهارِ حتّى يَنقَطِعَ حَديثُهُ
-مع المَخلُوقِينَ ومُجالَسَتُهُ مَعَهُم وأُسْمِعُهُ كَلامِي وكَلامَ
-مَلائِكَتي وأُعَرِّفُهُ السّرَّ الّذِي سَترْتُهُ عَن خَلْقِي
-وأُلبِسُهُ الحَياءَ حتّى يَستَحيِي مِنهُ الخَلقُ كُلُّهُم ويمْشِي في
-الأرضِ مَغفوراً لهُ وأَجعَلُ قَلبَهُ واعِياً وبَصِيراً ولا يَخفَى
-عَلَيهِ شَيٌء مِن جَنَّةٍ ولا نارٍ وأُعَرّفُهُ ما يمُرّ عَلى النّاسِ
-في يَومِ القِيامَةِ منَ الهَولِ والشّدَّةِ وما أُحاسِبُ بهِ الأغنِياءَ
-والفُقَراءَ والجُهّالَ والعُلَماءَ وأُنوِّرُ في قَبرِهِ وأُنزِلُ
-عَليهِ مُنكَراً ونَكيراً حتّى يَسأَلاهُ ولا يَرى غَمَّ المَوتِ
-وظُلْمَةَ القَبرِ واللَّحْدِ حتّى أَنصُبَ لهُ ميزانَهُ وأَنشُرَ لهُ
-دِيوانَهُ ثُمَّ أَضَعُ كِتابَهُ في يَمِينِهِ فَيَقرَأَهُ مَنشُوراً
-ثُمّ لا أَجعَلُ بَيني وبَينَهُ تَرجُماناً. فهذِهِ صِفاتُ المُحِبّين.
-  </p>
-</blockquote>
+> فَمَن عَمِلَ بِرضَائِي أُلزِمْهُ ثلاثَ خِصالٍ: أُعَرِّفُهُ شُكْراً لا
+> يُخَالِطُهُ الجَهلُ وَذِكْراً لا يُخَالِطُهُ النّسْيانُ ومَحَبّةً لا
+> يُؤثِرُ على مَحَبّتي المَخلُوقِين. فَإِذا أَحَبّني أَحْبَبْتُهُ
+> وأَفتَحُ عَينَ قَلبِهِ إلى جَلالِي فلا أُخْفِي عَلَيهِ خَاصَّةَ خَلقِي
+> فَأُناجِيهِ في ظُلَمِ اللّيلِ ونُورِ النّهارِ حتّى يَنقَطِعَ حَديثُهُ
+> مع المَخلُوقِينَ ومُجالَسَتُهُ مَعَهُم وأُسْمِعُهُ كَلامِي وكَلامَ
+> مَلائِكَتي وأُعَرِّفُهُ السّرَّ الّذِي سَترْتُهُ عَن خَلْقِي
+> وأُلبِسُهُ الحَياءَ حتّى يَستَحيِي مِنهُ الخَلقُ كُلُّهُم ويمْشِي في
+> الأرضِ مَغفوراً لهُ وأَجعَلُ قَلبَهُ واعِياً وبَصِيراً ولا يَخفَى
+> عَلَيهِ شَيٌء مِن جَنَّةٍ ولا نارٍ وأُعَرّفُهُ ما يمُرّ عَلى النّاسِ
+> في يَومِ القِيامَةِ منَ الهَولِ والشّدَّةِ وما أُحاسِبُ بهِ الأغنِياءَ
+> والفُقَراءَ والجُهّالَ والعُلَماءَ وأُنوِّرُ في قَبرِهِ وأُنزِلُ
+> عَليهِ مُنكَراً ونَكيراً حتّى يَسأَلاهُ ولا يَرى غَمَّ المَوتِ
+> وظُلْمَةَ القَبرِ واللَّحْدِ حتّى أَنصُبَ لهُ ميزانَهُ وأَنشُرَ لهُ
+> دِيوانَهُ ثُمَّ أَضَعُ كِتابَهُ في يَمِينِهِ فَيَقرَأَهُ مَنشُوراً
+> ثُمّ لا أَجعَلُ بَيني وبَينَهُ تَرجُماناً. فهذِهِ صِفاتُ المُحِبّين.
 
 Whoever tries to win My pleasure, I will commit him to three
 characteristics; I will acquaint him with an approach of gratitude that
@@ -217,12 +185,8 @@ the physical acts that man’s soul becomes so illuminated that it will
 see no other being as real but God. In this connection, the Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آياتِنا في الآفَاقِ وفي أَنفُسِهِمْ حَتّى يَتَبَيَّنَ
-لهُمْ أَنَّهُ الحَقُّ.
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آياتِنا في الآفَاقِ وفي أَنفُسِهِمْ حَتّى يَتَبَيَّنَ
+> لهُمْ أَنَّهُ الحَقُّ.
 
 ***“We will soon show them Our sings in the universe and in their own
 souls until it will become quite clear to them that it is the truth.
@@ -234,13 +198,9 @@ everything with the light of God and he will become manifestation of
 God’s Attributes and recipient of God’s Mercy. In this relation, the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-أَوَمَنْ كَانَ مَيْتاً فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُوراً يَمْشِي
-بِهِ في النَّاسِ كَمَنْ مَثَلُهُ في الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
-مِنْهَا.
-  </p>
-</blockquote>
+> أَوَمَنْ كَانَ مَيْتاً فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُوراً يَمْشِي
+> بِهِ في النَّاسِ كَمَنْ مَثَلُهُ في الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
+> مِنْهَا.
 
 ***“Is he who was dead then We raised him to life and made for him a
 light by which he walks among the people like him whose likeness is that
@@ -255,11 +215,7 @@ Imams in its highest degree, their spiritual lives are said to be
 presented to man in the form of prayer, fasting, Hajj, almsgiving, and
 other religious duties. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-لقَدَ كَانَ لَكُمْ في رَسُولِ اللهِ أُسْوَةٌ حَسَنَةٌ.
-  </p>
-</blockquote>
+> لقَدَ كَانَ لَكُمْ في رَسُولِ اللهِ أُسْوَةٌ حَسَنَةٌ.
 
 ***“Certainly, you have in the Apostle of Allah an excellent exemplar.
 (33:21)”***
@@ -269,12 +225,8 @@ excellent exemplar, and people are duty-bound to adapt their deed and
 ethical lives to those of the Holy Prophet (saw). Addressing the Holy
 Prophet (saw), the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللهُ
-وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللهُ
+> وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
 
 ***“Say: if you love Allah, then follow me; Allah will love you and
 forgive your faults. (3:31)”***
@@ -292,15 +244,11 @@ is the Imams (as) as interpreted by the exegetes of the Holy Qur’an:
 
 Dawud ibn Kathir quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يا داوُدُ، نحنُ الصّلاةُ في كِتابِ اللهِ ونحنُ الزّكاةُ ونحنُ الصّيامُ
-ونحنُ الحَجُّ ونحنُ الشّهرُ الحَرامُ ونحنُ البَلدُ الحَرامُ ونحنُ
-كَعبَةُ اللهِ ونحنُ قِبلَةُ اللهِ ونحنُ وَجهُ اللهِ - قَالَ تعَالى:
-فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ – ونحنُ الآياتُ ونحنُ
-البَيّناتُ.
-  </p>
-</blockquote>
+> يا داوُدُ، نحنُ الصّلاةُ في كِتابِ اللهِ ونحنُ الزّكاةُ ونحنُ الصّيامُ
+> ونحنُ الحَجُّ ونحنُ الشّهرُ الحَرامُ ونحنُ البَلدُ الحَرامُ ونحنُ
+> كَعبَةُ اللهِ ونحنُ قِبلَةُ اللهِ ونحنُ وَجهُ اللهِ - قَالَ تعَالى:
+> فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ – ونحنُ الآياتُ ونحنُ
+> البَيّناتُ.
 
 "O Dawud, we are (the purpose of) the prayer in the Book of Allah, we
 are the (meaning of) almsgiving, fasting, Hajj, Sacred Month, the Sacred
@@ -310,22 +258,18 @@ clear signs of Allah.[^5]53
 
 Al-Mufazzal ibn Umar quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-ثُمّ إِني أُخبِرُكَ أنَّ الدّينَ وأَصلَ الدّينِ هُو رَجُلٌ؛ وذلِك
-الرّجُلُ هو اليَقينُ والإيمانُ وهو إِمامُ أُمَّتِهِ أو أهْلُ زَمانِهِ
-فَمن عَرِفَهُ عَرِفَ اللهَ ودِينَهُ ومَنْ أَنكَرَهُ أَنكَرَ اللهَ
-ودينَهُ ومَن جَهِلهُ جهِلَ اللهَ ودينَهُ ولا يُعرَفُ اللهُ ودينُهُ
-وحُدودُهُ وشَرائعُهُ بغَيرِ ذلِك الإمامِ فَذلِك معنى أَنّ معرِفَةَ
-الرّجالِ دينُ اللهِ... - الى أن قال عليه السلام -  وأُخبرُكَ أَنّي لو
-قُلتُ أنّ الصّلاةَ والزكَاةَ وصومَ شهرِ رَمَضانَ والحَجَّ والعُمرةَ
-والمسجِدَ الحَرامَ والبيتَ الحرامَ والطّهورَ والإغتِسالَ مِن الجَنابةِ
-وكُلَّ فريضَةٍ كان ذلِك هو النبيَّ الذي جَاء به مِن عندِ ربِّهِ
-لَصَدقْتُ لأنّ ذلك كُلّهُ إنمَا يُعرَفُ بالنّبيِّ ولولا معرِفةُ ذلِك
-النبيِّ والإيمانُ بهِ والتّسليمُ له ما عُرفَ ذلِك. فهذا كلّهُ ذلِك
-النبيُّ.
-  </p>
-</blockquote>
+> ثُمّ إِني أُخبِرُكَ أنَّ الدّينَ وأَصلَ الدّينِ هُو رَجُلٌ؛ وذلِك
+> الرّجُلُ هو اليَقينُ والإيمانُ وهو إِمامُ أُمَّتِهِ أو أهْلُ زَمانِهِ
+> فَمن عَرِفَهُ عَرِفَ اللهَ ودِينَهُ ومَنْ أَنكَرَهُ أَنكَرَ اللهَ
+> ودينَهُ ومَن جَهِلهُ جهِلَ اللهَ ودينَهُ ولا يُعرَفُ اللهُ ودينُهُ
+> وحُدودُهُ وشَرائعُهُ بغَيرِ ذلِك الإمامِ فَذلِك معنى أَنّ معرِفَةَ
+> الرّجالِ دينُ اللهِ... - الى أن قال عليه السلام -  وأُخبرُكَ أَنّي لو
+> قُلتُ أنّ الصّلاةَ والزكَاةَ وصومَ شهرِ رَمَضانَ والحَجَّ والعُمرةَ
+> والمسجِدَ الحَرامَ والبيتَ الحرامَ والطّهورَ والإغتِسالَ مِن الجَنابةِ
+> وكُلَّ فريضَةٍ كان ذلِك هو النبيَّ الذي جَاء به مِن عندِ ربِّهِ
+> لَصَدقْتُ لأنّ ذلك كُلّهُ إنمَا يُعرَفُ بالنّبيِّ ولولا معرِفةُ ذلِك
+> النبيِّ والإيمانُ بهِ والتّسليمُ له ما عُرفَ ذلِك. فهذا كلّهُ ذلِك
+> النبيُّ.
 
 “Let me inform you that the religion and the root of the religion is a
 man; a man of faith and certainty. He is the same Imam of the ummah and
@@ -352,14 +296,10 @@ The criterion of the truth of man’s belief, ethics, and deeds in the
 world and the Hereafter is the Imam. Sheikh as-Saduq quotes Husham ibn
 Salim as saying:
 
-<blockquote dir="rtl">
-  <p>
-سَأَلتُ أبا عبدِاللهِ عليهِ السلامُ عَن قولِ اللهِ تعَالى: "وَنَضَعُ
-المَوازِينَ القِسْطَ لِيَومِ القِيامَةِ فَلا تُظلَمُ نَفسٌ شَيئاً."
-قال: هُمُ الأنبياءُ والأوصِياءُ. –وفي رواية أخرى عنهم عليهم السلام: -
-نحْنُ المَوازينُ القِسطُ.
-  </p>
-</blockquote>
+> سَأَلتُ أبا عبدِاللهِ عليهِ السلامُ عَن قولِ اللهِ تعَالى: "وَنَضَعُ
+> المَوازِينَ القِسْطَ لِيَومِ القِيامَةِ فَلا تُظلَمُ نَفسٌ شَيئاً."
+> قال: هُمُ الأنبياءُ والأوصِياءُ. –وفي رواية أخرى عنهم عليهم السلام: -
+> نحْنُ المَوازينُ القِسطُ.
 
 I asked Imam Sadiq (as) about the meaning of the Qur’anic Verse, ***‘And
 We will set up a balance on the Day of Resurrection; so, no soul shall
@@ -373,26 +313,18 @@ justice.”[^7]55
 As he was asked about the meaning of ‘the straight path’ in the Qur’anic
 Verses, Imam Sadiq (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-هوَ واللهِ عَلِيٌّ. هوَ واللهِ الصّراطُ والمِيزانُ.
-  </p>
-</blockquote>
+> هوَ واللهِ عَلِيٌّ. هوَ واللهِ الصّراطُ والمِيزانُ.
 
 “By Allah, it is ‘Ali. He is the Straight Path and the Balance.”[^8]56
 
 Sheikh Saduq says: As Imam Sadiq (as) was asked about the ‘Straight
 Path’, he answered:
 
-<blockquote dir="rtl">
-  <p>
-هوَ الطّريقُ إلى معرِفةِ اللهِ عزَّ وجلَّ وهُما صِراطانِ: صِراطٌ في
-الدّنيا وصِراطٌ في الآخِرةِ. وأمّا الصِّراطُ في الدّنيا فهُو الإمامُ
-المُفتَرَضُ طاعتُهُ؛ مَن عرِفَهُ في الدّنيا واقتَدى بِهُداهُ مَرَّ على
-الصِّراطِ الّذي هو جِسرُ جَهَنَّمَ في الآخِرةِ ومَن لم يَعرِفْهُ في
-الدّنيا زلّتْ قَدَمُهُ عَن الصِّراطِ في الآخِرةِ.
-  </p>
-</blockquote>
+> هوَ الطّريقُ إلى معرِفةِ اللهِ عزَّ وجلَّ وهُما صِراطانِ: صِراطٌ في
+> الدّنيا وصِراطٌ في الآخِرةِ. وأمّا الصِّراطُ في الدّنيا فهُو الإمامُ
+> المُفتَرَضُ طاعتُهُ؛ مَن عرِفَهُ في الدّنيا واقتَدى بِهُداهُ مَرَّ على
+> الصِّراطِ الّذي هو جِسرُ جَهَنَّمَ في الآخِرةِ ومَن لم يَعرِفْهُ في
+> الدّنيا زلّتْ قَدَمُهُ عَن الصِّراطِ في الآخِرةِ.
 
 “It is the path to the knowledge of Allah, Glorified and Majestic is He.
 They are two paths; one is in the world and the other in the Hereafter.
@@ -403,22 +335,14 @@ life will stumble and fall into Hell.”[^9]57
 
 Imam Sadiq (as) also says:
 
-<blockquote dir="rtl">
-  <p>
-الصِّراطُ المُستَقيمُ أميرُ المؤمِنينَ عليه السلامُ
-  </p>
-</blockquote>
+> الصِّراطُ المُستَقيمُ أميرُ المؤمِنينَ عليه السلامُ
 
 “The Straight Path is Amir ul-Mu’mineen (The Commander of the Faithful;
 namely Imam ‘Ali).”[^10]58
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-أَنا صَلاةُ المُؤمِنينَ وصِيامُهُم
-  </p>
-</blockquote>
+> أَنا صَلاةُ المُؤمِنينَ وصِيامُهُم
 
 “I am the prayer and the fasting of the believing men.”[^11]59
 
@@ -430,17 +354,13 @@ prayer, fasting, Hajj, almsgiving, and jihad. They invoke the Hadith,
 
 Rejecting this idea, Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَهُ مَن كَانَ يَدينُ بِهذِه الصّفةِ التي كُتِبَت فهُو عِندي مُشرِكٌ
-بِاللهِ بَيِّنُ الشِّركِ لا شكَّ فيهِ. لم يبعثِ اللهُ نبِياً يدعو إلى
-مَعرفَةٍ ليسَ معَها طاعَةٌ في أمرٍ ونهيٍ فإِنما يَقبلُ اللهُ منَ
-العبادِ العملَ بالفَرائضِ الّتي افترضَها اللهُ على حُدودِها مع معرِفةِ
-مَن جاءَهُم بهِ مِن عندِهِ ودعاهُم إليهِ فأوّلُ ذلِك معرفةُ مَن دَعا
-إليهِ ثمّ طاعتُهُ فيما يقرّبُهُ إليهِ مِن الطاعةِ لهُ وأنّه مَن عرِفَ
-أطاعَ ومَن أطاعَ حرّم الحرامَ ظاهرَهُ وباطنَهُ.
-  </p>
-</blockquote>
+> إنَهُ مَن كَانَ يَدينُ بِهذِه الصّفةِ التي كُتِبَت فهُو عِندي مُشرِكٌ
+> بِاللهِ بَيِّنُ الشِّركِ لا شكَّ فيهِ. لم يبعثِ اللهُ نبِياً يدعو إلى
+> مَعرفَةٍ ليسَ معَها طاعَةٌ في أمرٍ ونهيٍ فإِنما يَقبلُ اللهُ منَ
+> العبادِ العملَ بالفَرائضِ الّتي افترضَها اللهُ على حُدودِها مع معرِفةِ
+> مَن جاءَهُم بهِ مِن عندِهِ ودعاهُم إليهِ فأوّلُ ذلِك معرفةُ مَن دَعا
+> إليهِ ثمّ طاعتُهُ فيما يقرّبُهُ إليهِ مِن الطاعةِ لهُ وأنّه مَن عرِفَ
+> أطاعَ ومَن أطاعَ حرّم الحرامَ ظاهرَهُ وباطنَهُ.
 
 “He who believes in such matter is, in my sight, evidently polytheist.
 Allah has not ordained any prophet to invite people to cognition without
@@ -455,32 +375,16 @@ whoever becomes obedient will consider disobedience as sin.”
 
 Muhammad ibn Marid reported:
 
-<blockquote dir="rtl">
-  <p>
-قُلتُ لأبي عبدِاللهِ عليهِ السلامُ: حَديثٌ رُوِيَ لنا أنّك قُلتَ "إذا
-عَرفْتَ فَاعمَلْ ما شِئتَ؟"
-  </p>
-</blockquote>
+> قُلتُ لأبي عبدِاللهِ عليهِ السلامُ: حَديثٌ رُوِيَ لنا أنّك قُلتَ "إذا
+> عَرفْتَ فَاعمَلْ ما شِئتَ؟"
 
-<blockquote dir="rtl">
-  <p>
- فقالَ (عليه السلام): قدْ قُلتُ ذلكَ.
-  </p>
-</blockquote>
+>  فقالَ (عليه السلام): قدْ قُلتُ ذلكَ.
 
-<blockquote dir="rtl">
-  <p>
- قلتُ: وإِنْ زَنوا أو سَرقوا أو شرِبوا الخَمرَ؟
-  </p>
-</blockquote>
+>  قلتُ: وإِنْ زَنوا أو سَرقوا أو شرِبوا الخَمرَ؟
 
-<blockquote dir="rtl">
-  <p>
- فقالَ  (عليه السلام) لي: إِنا للهِ وإِنا إليهِ راجِعونَ! واللهِ ما
-أنصَفونا أَنْ نكُونَ أخَذنَا بالعَملِ ووُضِعَ عنهُم. إنمَا قلتُ إذا
-عرِفتَ فاعملْ ما شِئتَ من قَليلِ الخَيرِ وكثيرِه فإنّه يُقبلُ مِنكَ.
-  </p>
-</blockquote>
+>  فقالَ  (عليه السلام) لي: إِنا للهِ وإِنا إليهِ راجِعونَ! واللهِ ما
+> أنصَفونا أَنْ نكُونَ أخَذنَا بالعَملِ ووُضِعَ عنهُم. إنمَا قلتُ إذا
+> عرِفتَ فاعملْ ما شِئتَ من قَليلِ الخَيرِ وكثيرِه فإنّه يُقبلُ مِنكَ.
 
 I asked Imam Sadiq (as) whether he has actually said the hadith, ‘When
 you reach the stage of cognition, do as you wish,’ that is related by
@@ -513,12 +417,8 @@ therefore rode off his horse.
 say it.”*  
  He (as) replied:
 
-<blockquote dir="rtl">
-  <p>
-يا بنَ أبي عامِر، كيفَ أجسِرُ أنْ أقولَ: لَبّيْكَ اللّهمَّ لَبّيكَ،
-وأخْشى أنْ يَقولَ عزّ وجلّ لا لَبّيكَ ولا سَعْدَيكَ.
-  </p>
-</blockquote>
+> يا بنَ أبي عامِر، كيفَ أجسِرُ أنْ أقولَ: لَبّيْكَ اللّهمَّ لَبّيكَ،
+> وأخْشى أنْ يَقولَ عزّ وجلّ لا لَبّيكَ ولا سَعْدَيكَ.
 
 “O son of Abi-Amir, how dare I say it? I fear that Allah will not answer
 me nor let me in.”[^14]62
@@ -588,11 +488,7 @@ Do Muslims not have, according to the Holy Qur’an, a special feature
 making them distinct from others, and that is the marks of prostration,
 humbleness, and submission to God?
 
-<blockquote dir="rtl">
-  <p>
-سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ
-  </p>
-</blockquote>
+> سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ
 
 ***“…Their marks are in their faces because of the prostration. (The
 Holy Qur’an; 48:29)”***
@@ -606,40 +502,20 @@ cases, the feature of unbelievers is seen in Muslims’ lives.
 Read the Following Reports and Get To Know the Feature of A Shiite Muslim
 -------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رُويَ عَن أميرِ المُؤمنِينَ عليهِ السلامُ أنّهُ خرجَ ذاتَ ليلةٍ منَ
-المسجِدِ – وكانتْ ليلةً قَمراءَ- فَأمَّ الجَبّانةَ ولحِقَهُ جماعةٌ
-يقفُونَ إِثرَهُ، فَوقفَ عليهِم ثمّ قال : مَن أنتم؟
-  </p>
-</blockquote>
+> رُويَ عَن أميرِ المُؤمنِينَ عليهِ السلامُ أنّهُ خرجَ ذاتَ ليلةٍ منَ
+> المسجِدِ – وكانتْ ليلةً قَمراءَ- فَأمَّ الجَبّانةَ ولحِقَهُ جماعةٌ
+> يقفُونَ إِثرَهُ، فَوقفَ عليهِم ثمّ قال : مَن أنتم؟
 
-<blockquote dir="rtl">
-  <p>
-قالوا : شيعتُكَ يا أميرَ المُؤمنِينَ.
-  </p>
-</blockquote>
+> قالوا : شيعتُكَ يا أميرَ المُؤمنِينَ.
 
-<blockquote dir="rtl">
-  <p>
- فَتفَرّسَ في وجُوهِهِم ثمّ قال : فَما لي لا أَرى عليكُم سِيماءَ
-الشّيعةِ؟
-  </p>
-</blockquote>
+>  فَتفَرّسَ في وجُوهِهِم ثمّ قال : فَما لي لا أَرى عليكُم سِيماءَ
+> الشّيعةِ؟
 
-<blockquote dir="rtl">
-  <p>
- قالوا : وما سِيماءُ الشّيعةِ يا أميرَ المُؤمنِينَ؟
-  </p>
-</blockquote>
+>  قالوا : وما سِيماءُ الشّيعةِ يا أميرَ المُؤمنِينَ؟
 
-<blockquote dir="rtl">
-  <p>
- قال : صُفرُ الوجوهِ من السَّهرِ، عُمشُ العيونِ من البُكاءِ، حُدبُ
-الظّهورِ من القِيامِ، خُمصُ البطونِ من الصّيامِ، ذُبلُ الشِّفاهِ من
-الدُّعاءِ، عليهِم غَبَرَةُ الخاشِعينَ.
-  </p>
-</blockquote>
+>  قال : صُفرُ الوجوهِ من السَّهرِ، عُمشُ العيونِ من البُكاءِ، حُدبُ
+> الظّهورِ من القِيامِ، خُمصُ البطونِ من الصّيامِ، ذُبلُ الشِّفاهِ من
+> الدُّعاءِ، عليهِم غَبَرَةُ الخاشِعينَ.
 
 It was narrated that, once, during a moonlit night, Imam ‘Ali (as),
 coming out of the mosque, headed for wilderness. The crowd following him
@@ -658,20 +534,16 @@ faces.’[^17]65
 
 This is another narration:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي عبدِاللهِ عليهِ السلامُ قالَ: كَانَ علِيُّ بنُ الحُسينِ عليهِ
-السلامُ قاعِداً في بيتِه إذ قَرعَ قومٌ عليهِ البابَ، فقالَ : يا جاريةُ
-انظُري مَن بالبابِ، فَقالوا : قَومٌ مِن شيعتِكَ. فَوثبَ عجلانَ حتّى
-كادَ أن يَقعَ، فَلمّا فتحَ البابَ ونظَر إليهِم رَجعَ وقال: كذِبوا
-فأَينَ السَّمْتُ في الوجوهِ ؟ أين أثَر ُالعِبادةِ؟ أينَ سِيماءُ
-السّجودِ؟ إنّما شِيعتُنا يُعرَفونَ بعبادتِهِم وشَعَثِهِم؛ قَد قَرِحتْ
-منهُم الآنافُ، ودَثرَت الجِباهُ والمَساجدُ. خُمصُ البُطونِ، ذُبلُ
-الشّفاهِ، قد هيّجَتِ العبادةُ وجوهَهُم، وأَخلَقَ سهرُ اللّيالي وقَطعُ
-الهَواجرِ جُثَثهُم، المُسبِّحونَ إذا سَكَتَ النّاسُ، والمُصَلّونَ إذا
-نامَ الناسُ، والمحَزُونونَ إذا فَرِح النّاسُ.
-  </p>
-</blockquote>
+> عن أبي عبدِاللهِ عليهِ السلامُ قالَ: كَانَ علِيُّ بنُ الحُسينِ عليهِ
+> السلامُ قاعِداً في بيتِه إذ قَرعَ قومٌ عليهِ البابَ، فقالَ : يا جاريةُ
+> انظُري مَن بالبابِ، فَقالوا : قَومٌ مِن شيعتِكَ. فَوثبَ عجلانَ حتّى
+> كادَ أن يَقعَ، فَلمّا فتحَ البابَ ونظَر إليهِم رَجعَ وقال: كذِبوا
+> فأَينَ السَّمْتُ في الوجوهِ ؟ أين أثَر ُالعِبادةِ؟ أينَ سِيماءُ
+> السّجودِ؟ إنّما شِيعتُنا يُعرَفونَ بعبادتِهِم وشَعَثِهِم؛ قَد قَرِحتْ
+> منهُم الآنافُ، ودَثرَت الجِباهُ والمَساجدُ. خُمصُ البُطونِ، ذُبلُ
+> الشّفاهِ، قد هيّجَتِ العبادةُ وجوهَهُم، وأَخلَقَ سهرُ اللّيالي وقَطعُ
+> الهَواجرِ جُثَثهُم، المُسبِّحونَ إذا سَكَتَ النّاسُ، والمُصَلّونَ إذا
+> نامَ الناسُ، والمحَزُونونَ إذا فَرِح النّاسُ.
 
 Imam Sadiq (as) narrated: As he was sitting in his house, a group of
 people knocked the door at Imam Sajjad (as). He asked his slave girl to
@@ -714,13 +586,9 @@ on our lives and wish to be among the angels at the same time!
 
 Addressing to Jesus (as), God says:
 
-<blockquote dir="rtl">
-  <p>
-يا عِيسَى، قُل لِظَلَمَةِ بني إسْرائِيلَ: لا تَدعُوني والسُّحْتُ تحتَ
-أَحضَانِكُم والأصْنامُ في بُيوتِكُم، فإِني آلَيتُ أنْ أُجيبَ مَن
-دَعانِي وأَنْ أجعَلَ إِجابَتي إيّاهُم لَعناً حتّى يَتفرَّقوا.
-  </p>
-</blockquote>
+> يا عِيسَى، قُل لِظَلَمَةِ بني إسْرائِيلَ: لا تَدعُوني والسُّحْتُ تحتَ
+> أَحضَانِكُم والأصْنامُ في بُيوتِكُم، فإِني آلَيتُ أنْ أُجيبَ مَن
+> دَعانِي وأَنْ أجعَلَ إِجابَتي إيّاهُم لَعناً حتّى يَتفرَّقوا.
 
 “O Jesus, tell the Israeli wrongdoers not to call upon Me while they
 have illegal riches under their arms and keep idols at home, for I have
@@ -728,13 +596,9 @@ sworn I will answer one who calls upon Me. My answer to the call for
 these wrongdoers is to curse them until they part from one
 another.”[^19]67
 
-<blockquote dir="rtl">
-  <p>
-يا عِيسَى، قُل لهُم قَلِّموا أَظفارَكُم مِن كَسْبِ الحَرامِ وأَصِمُّوا
-أَسماعَكُم مِن ذِكْرِ الخَنى وأَقبِلوا عَلَيَّ بِقلوبِكم فإِنّي لستُ
-أُريدُ صُورَكُم.
-  </p>
-</blockquote>
+> يا عِيسَى، قُل لهُم قَلِّموا أَظفارَكُم مِن كَسْبِ الحَرامِ وأَصِمُّوا
+> أَسماعَكُم مِن ذِكْرِ الخَنى وأَقبِلوا عَلَيَّ بِقلوبِكم فإِنّي لستُ
+> أُريدُ صُورَكُم.
 
 “O Jesus, tell them: Take your nails off illegal business, cover your
 ears from obscenity, and come to Me with full heart, for I certainly do
@@ -742,12 +606,8 @@ not want your external faces.”[^20]68
 
 A religious report says:
 
-<blockquote dir="rtl">
-  <p>
-مَن حَجَّ مِن غَيرِ حِلِّهِ ثمّ لبّى قالَ اللهُ عزّ وجلّ له: لا
-لَبّيكَ ولا سَعدَيكَ حتّى تَرُدّ ما في يَديكَ.
-  </p>
-</blockquote>
+> مَن حَجَّ مِن غَيرِ حِلِّهِ ثمّ لبّى قالَ اللهُ عزّ وجلّ له: لا
+> لَبّيكَ ولا سَعدَيكَ حتّى تَرُدّ ما في يَديكَ.
 
 “Whoever goes on Hajj with illegal money when saying Labbayk, Allah will
 say: I will not accept your ‘Labbayk’ until you return the money to its
@@ -792,12 +652,8 @@ Ibn-Abi’l-Aujaa who was too proud of himself said: *“I will go right now
 and make him helpless.”* Entering into the Imam’s assembly,
 Ibn-Abi’l-Aujaa said:
 
-<blockquote dir="rtl">
-  <p>
-يا أبا عبدِ الله، إنّ المجالسَ أماناتٌ ولا بُدّ لكُلِّ مَن كان به
-سُعالٌ أن يسعلَ، فتأذنُ لي بالسؤالِ؟
-  </p>
-</blockquote>
+> يا أبا عبدِ الله، إنّ المجالسَ أماناتٌ ولا بُدّ لكُلِّ مَن كان به
+> سُعالٌ أن يسعلَ، فتأذنُ لي بالسؤالِ؟
 
 “O Abu-Abdullah, assemblies are safe. (He was afraid of being killed by
 the believers.) Everyone having phlegm in his chest has to cough it out.
@@ -807,14 +663,10 @@ The Imam (as) gave him permission. Ibn-Abi’l-Aujaa bared his heart
 shamelessly of his atheistic ideas in an enchanting rhymed prose, mocked
 the Hajj rites, and insulted the pilgrims, adding:
 
-<blockquote dir="rtl">
-  <p>
-إلى كمْ تدُوسونَ هذا البَيدرَ وتلوذُونَ بهذا الحَجرِ وتعبُدونَ هذا
-البيتَ المرفوعَ بالطّوبِ والمدَرِ وتُهروِلونَ حولَهُ هروَلَةَ البعيرِ
-إذا نفرَ؟ مَن فكّر في هذا وقدّرَ علِمَ أنهُ فِعْلُ غيرِ حكيمٍ ولا ذي
-نظرٍ. فقُل فأنتَ رأسُ هذا الأمرِ وسَنامُهُ وأبوكَ أُسُّهُ ونِظامُهُ
-  </p>
-</blockquote>
+> إلى كمْ تدُوسونَ هذا البَيدرَ وتلوذُونَ بهذا الحَجرِ وتعبُدونَ هذا
+> البيتَ المرفوعَ بالطّوبِ والمدَرِ وتُهروِلونَ حولَهُ هروَلَةَ البعيرِ
+> إذا نفرَ؟ مَن فكّر في هذا وقدّرَ علِمَ أنهُ فِعْلُ غيرِ حكيمٍ ولا ذي
+> نظرٍ. فقُل فأنتَ رأسُ هذا الأمرِ وسَنامُهُ وأبوكَ أُسُّهُ ونِظامُهُ
 
 “Till when will you work in this threshing-floor, seek refuge to this
 stone, worship this house made of mud and stone, and go round it like
@@ -832,13 +684,9 @@ uttered sentences that exposed the evil intention of Ibn-Abi’l-Aujaa and
 his co-thinkers and bewared them of the sinister fate awaiting them. He
 (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنّ مَن أضلّهُ اللهُ وأعمى قلبَهُ استَوخمَ الحقَّ ولم يستعذِبْهُ
-وصارَ الشَيطانُ وليَّهُ وربَّهُ ويورِدُهُ مناهِلَ الهَلَكَةِ ولا
-يُصدِرُهُ
-  </p>
-</blockquote>
+> إِنّ مَن أضلّهُ اللهُ وأعمى قلبَهُ استَوخمَ الحقَّ ولم يستعذِبْهُ
+> وصارَ الشَيطانُ وليَّهُ وربَّهُ ويورِدُهُ مناهِلَ الهَلَكَةِ ولا
+> يُصدِرُهُ
 
 “Whomever Allah causes to go astray and to be blind in heart will find
 the truth bitter and will have Satan as guardian and lord, and will be
@@ -863,61 +711,41 @@ Imam ‘Ali’s sermon known as ‘al-Khitba al-Qassiya –Sermon of
 Disparagement-’ answers the above and similar questions. A part of the
 sermon, which is related to the Holy Kaaba, will be quoted hereinafter:
 
-<blockquote dir="rtl">
-  <p>
-أَلا تَرَوْنَ أَنّ اللهَ سُبحانهُ اخْتبَرَ الأوّليِنَ مِن لَدُنْ آدَمَ
-صَلواتُ اللهِ عَليهِ إلى الآخِرينَ مِن هذا العالمِ بِأحْجارٍ لا تَضُرّ
-ولا تَنفَعُ ولا تُبصِرُ ولا تَسمَعُ فَجَعلها بَيتَهُ الحَرامَ الّذي
-جَعَلهُ اللهُ لِلنّاسِ قِياماً ثُم وَضَعهُ بِأوْعَرِ بِقاعِ الأرْضِ
-حَجَراً وأَقَلَّ نَتائِقِ الدّنيا مَدَراً وأَضيَقَ بُطونِ الأَودِيَةِ
-قُطْراً بَينَ جِبالٍ خَشِنَةٍ ورِمالٍ دَمِثَةٍ وعُيونٍ وَشِلَةٍ وقُرىً
-مُنْقَطِعَةٍ لا يَزكُو بِها خَفٌّ ولا حافِرٌ ولا ظِلْفٌ.
-  </p>
-</blockquote>
+> أَلا تَرَوْنَ أَنّ اللهَ سُبحانهُ اخْتبَرَ الأوّليِنَ مِن لَدُنْ آدَمَ
+> صَلواتُ اللهِ عَليهِ إلى الآخِرينَ مِن هذا العالمِ بِأحْجارٍ لا تَضُرّ
+> ولا تَنفَعُ ولا تُبصِرُ ولا تَسمَعُ فَجَعلها بَيتَهُ الحَرامَ الّذي
+> جَعَلهُ اللهُ لِلنّاسِ قِياماً ثُم وَضَعهُ بِأوْعَرِ بِقاعِ الأرْضِ
+> حَجَراً وأَقَلَّ نَتائِقِ الدّنيا مَدَراً وأَضيَقَ بُطونِ الأَودِيَةِ
+> قُطْراً بَينَ جِبالٍ خَشِنَةٍ ورِمالٍ دَمِثَةٍ وعُيونٍ وَشِلَةٍ وقُرىً
+> مُنْقَطِعَةٍ لا يَزكُو بِها خَفٌّ ولا حافِرٌ ولا ظِلْفٌ.
 
-<blockquote dir="rtl">
-  <p>
-ثمّ أَمَر آدَمَ عليهِ السلامُ ووِلدَهُ أن يُثْنوا أَعطافَهُم نحْوَهُ
-فَصارَ مَثابَةً لمُنْتَجَعِ أَسفارِهِم وغايَةً لمُلقَى رِحالهِم تَهوي
-إِليهِ ثِمارُ الأفْئِدَةِ مِن مَفاوِزِ قِفارٍ سَحيقَةٍ ومَهاوي فِجاجٍ
-عَميقَةٍ وجَزائِرِ بحارٍ مُنقَطِعَةٍ حتّى يَهُزّوا مَناكِبَهُم ذُلُلاً
-يُهَلِّلونَ للهِ ويَرمُلونَ عَلى أقْدامِهِم شُعْثاً غُبْراً له، قَد
-نَبَذوا السّرابِيلَ وَراءَ ظُهورِهِم وشَوَّهوا بِإِعفَاءِ الشُّعورِ
-محَاسِنَ خَلقِهِمُ ابْتِلاءً عَظِيماً وامْتِحاناً شَديداً واخْتِباراً
-مُبيناً وتمْحِيصاً بَلِيغاً جَعَلهُ اللهُ سَبَباً لِرحْمَتِهِ
-وَوُصْلَةً الى جَنَّتِهِ.
-  </p>
-</blockquote>
+> ثمّ أَمَر آدَمَ عليهِ السلامُ ووِلدَهُ أن يُثْنوا أَعطافَهُم نحْوَهُ
+> فَصارَ مَثابَةً لمُنْتَجَعِ أَسفارِهِم وغايَةً لمُلقَى رِحالهِم تَهوي
+> إِليهِ ثِمارُ الأفْئِدَةِ مِن مَفاوِزِ قِفارٍ سَحيقَةٍ ومَهاوي فِجاجٍ
+> عَميقَةٍ وجَزائِرِ بحارٍ مُنقَطِعَةٍ حتّى يَهُزّوا مَناكِبَهُم ذُلُلاً
+> يُهَلِّلونَ للهِ ويَرمُلونَ عَلى أقْدامِهِم شُعْثاً غُبْراً له، قَد
+> نَبَذوا السّرابِيلَ وَراءَ ظُهورِهِم وشَوَّهوا بِإِعفَاءِ الشُّعورِ
+> محَاسِنَ خَلقِهِمُ ابْتِلاءً عَظِيماً وامْتِحاناً شَديداً واخْتِباراً
+> مُبيناً وتمْحِيصاً بَلِيغاً جَعَلهُ اللهُ سَبَباً لِرحْمَتِهِ
+> وَوُصْلَةً الى جَنَّتِهِ.
 
-<blockquote dir="rtl">
-  <p>
-وَلوْ أَرادَ سُبحانَهُ أَنْ يَضَعَ بَيتَهُ الحَرامَ ومَشاعِرَهُ
-العِظامَ بَين جَنّاتٍ وأَنهارٍ وسَهْلٍ وقَرارٍ جَمِّ الأشْجارِ دانِي
-الثِّمارِ مُلْتَفِّ البُنَى مُتَّصِلِ القُرى بَينَ بُـرَّةٍ سَمْراءَ
-وَرَوضَةٍ خَضْـراءَ وأَريَافٍ مُحْدِقَةٍ وعِراصٍ مُغدِقَةٍ وزُروعٍ
-ناضِرةٍ وطُرُقٍ عَامِرَةٍ لَكانَ قدْ صَغَّرَ قَدْرَ الجَزاءِ عَلى
-حَسْبِ ضَعْفِ البَلاءِ.
-  </p>
-</blockquote>
+> وَلوْ أَرادَ سُبحانَهُ أَنْ يَضَعَ بَيتَهُ الحَرامَ ومَشاعِرَهُ
+> العِظامَ بَين جَنّاتٍ وأَنهارٍ وسَهْلٍ وقَرارٍ جَمِّ الأشْجارِ دانِي
+> الثِّمارِ مُلْتَفِّ البُنَى مُتَّصِلِ القُرى بَينَ بُـرَّةٍ سَمْراءَ
+> وَرَوضَةٍ خَضْـراءَ وأَريَافٍ مُحْدِقَةٍ وعِراصٍ مُغدِقَةٍ وزُروعٍ
+> ناضِرةٍ وطُرُقٍ عَامِرَةٍ لَكانَ قدْ صَغَّرَ قَدْرَ الجَزاءِ عَلى
+> حَسْبِ ضَعْفِ البَلاءِ.
 
-<blockquote dir="rtl">
-  <p>
-ولَو كَانَ الأَساسُ المَحْمُولُ عَلَيها والأَحْجارُ المَرفُوعُ بِها
-بَين زُمُرُّدَةٍ خَضْراءَ ويَاقُوتَةٍ حَمْراءَ ونُورٍ وضِياءٍ لخَفَّفَ
-ذلِك مُصارَعَةَ الشَّكِّ في الصُّدورِ ولَوَضَعَ مُجاهَدَةَ إِبليسَ عَن
-القُلوبِ ولنَفى مُعتَلَجَ الـرَّيبِ مِن النّاسِ.
-  </p>
-</blockquote>
+> ولَو كَانَ الأَساسُ المَحْمُولُ عَلَيها والأَحْجارُ المَرفُوعُ بِها
+> بَين زُمُرُّدَةٍ خَضْراءَ ويَاقُوتَةٍ حَمْراءَ ونُورٍ وضِياءٍ لخَفَّفَ
+> ذلِك مُصارَعَةَ الشَّكِّ في الصُّدورِ ولَوَضَعَ مُجاهَدَةَ إِبليسَ عَن
+> القُلوبِ ولنَفى مُعتَلَجَ الـرَّيبِ مِن النّاسِ.
 
-<blockquote dir="rtl">
-  <p>
-ولَكنَّ اللهَ يَخْتَبِرُ عِبادَهُ بِأنواعِ الشَّدائِدِ ويَتَعَبّدُهُم
-بِأنْواعِ المجَاهِدِ ويَبتَلِيهِم بِضُرُوبِ المَكَارِهِ إِخْراجاً
-لِلتَّكَبُّرِ مِن قُلوبِهِم وِإمْكَاناً لِلتَّذَلُّلِ في نُفوسِهِم
-ولِيَجعَلَ ذلِكَ أَبواباً فُتُحاً إلى فَضْلِهِ وأَسبَاباً ذُلُلاً
-لِعَفْوِهِ.
-  </p>
-</blockquote>
+> ولَكنَّ اللهَ يَخْتَبِرُ عِبادَهُ بِأنواعِ الشَّدائِدِ ويَتَعَبّدُهُم
+> بِأنْواعِ المجَاهِدِ ويَبتَلِيهِم بِضُرُوبِ المَكَارِهِ إِخْراجاً
+> لِلتَّكَبُّرِ مِن قُلوبِهِم وِإمْكَاناً لِلتَّذَلُّلِ في نُفوسِهِم
+> ولِيَجعَلَ ذلِكَ أَبواباً فُتُحاً إلى فَضْلِهِ وأَسبَاباً ذُلُلاً
+> لِعَفْوِهِ.
 
 “Do you not see the Allah, the Glorified, has tried all the people among
 those who came before, beginning with Adam up to the last ones in this
@@ -1002,11 +830,7 @@ because Islam is the only factor ensuring the prosperity and perfection
 of a Muslim who has been trained in the school of monotheism and
 inspired by the Holy Qur’an.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللهِ الإِسْلامُ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللهِ الإِسْلامُ
 
 ***“The true religion with Allah is Islam. (The Holy Qur’an; 3:19)”***
 
@@ -1016,12 +840,8 @@ the good and forbidding the evil, the virtue of being submissive to God
 alone is enough to encourage a wise man to do religious duties and to
 abstain from committing sins
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يَتُوبُ اللَّهُ مِنْ بَعْدِ ذَٰلِكَ عَلَىٰ مَنْ يَشَاءُ ۗ
-وَاللَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> ثُمَّ يَتُوبُ اللَّهُ مِنْ بَعْدِ ذَٰلِكَ عَلَىٰ مَنْ يَشَاءُ ۗ
+> وَاللَّهُ غَفُورٌ رَحِيمٌ
 
 ***“…and best of all is Allah’s pleasure. (The Holy Qur’an; 9:72)”***
 
@@ -1041,23 +861,15 @@ who does it for pursuing worldly goals. We all help the poor but
 hypocrites are not distinct from the God-seekers. In this relation, the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَحْسَنُ دِيناً مِمَّنْ أَسْلَمَ وَجْهَهُ للهِ وَهُوَ مُحْسِنٌ
-  </p>
-</blockquote>
+> وَمَنْ أَحْسَنُ دِيناً مِمَّنْ أَسْلَمَ وَجْهَهُ للهِ وَهُوَ مُحْسِنٌ
 
 ***“And who has a better religion than he who submits himself entirely
 to Allah? (4:125)”***
 
 The Holy Qur’an further says:
 
-<blockquote dir="rtl">
-  <p>
-لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَى مَنْ حَيَّ عَنْ
-بَيِّنَةٍ
-  </p>
-</blockquote>
+> لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَى مَنْ حَيَّ عَنْ
+> بَيِّنَةٍ
 
 ***“…That he who would perish might perish by clear proof, and he who
 would live might live by clear proof. (8:42)”***
@@ -1086,12 +898,8 @@ which was the Sabbath, but were scarce on other days. The abundance of
 fish on the Sabbath was so alluring that refusal to catch all those
 fishes was painful for the Jewish tribe.
 
-<blockquote dir="rtl">
-  <p>
-فَانْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ فِي الْيَمِّ بِأَنَّهُمْ
-كَذَّبُوا بِآيَاتِنَا وَكَانُوا عَنْهَا غَافِلِينَ
-  </p>
-</blockquote>
+> فَانْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ فِي الْيَمِّ بِأَنَّهُمْ
+> كَذَّبُوا بِآيَاتِنَا وَكَانُوا عَنْهَا غَافِلِينَ
 
 ***“…Thus did we try them because they transgressed. (The Holy Qur’an;
 7:163)”***
@@ -1101,12 +909,8 @@ they tried to catch fishes on Saturday with the tricks that Satan had
 taught them. Hence, God sent tribulation upon them. In this relation,
 the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا عَتَوْا عَمَّا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً
-خَاسِئِينَ.
-  </p>
-</blockquote>
+> فَلَمَّا عَتَوْا عَمَّا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً
+> خَاسِئِينَ.
 
 ***“ Therefore, when they revoltingly persisted in what they had been
 forbidden, we said to them: Be (as) apes, despised and hated.
@@ -1118,12 +922,8 @@ Trial of Talut’s Army
 Talut (Saul) whom the Holy Qur’an admires as worthy king had a strong
 physique and great knowledge. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّ اللهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً في العِلْمِ
-والجِسْمِ
-  </p>
-</blockquote>
+> قَالَ إِنَّ اللهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً في العِلْمِ
+> والجِسْمِ
 
 ***“ He said: Surely, Allah has chosen him in preference to you, and He
 has increased him abundantly in knowledge and physique. (2:247)”***
@@ -1155,14 +955,10 @@ of the river and Satan’s temptations weakened their will. Except for 313
 soldiers, the entire army whose number was 80,000 drank from the river
 and revealed their weak faith against physical desires.
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا فَصَلَ طَالُوتُ بِالجُنُودِ قَاَل إِنَّ اللهَ مُبْتَلِيكُمْ
-بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ لَمْ يَطْعَمْهُ
-فَإِنَّهُ مِنِّي ِإلاّ مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ، فَشَرِبُوا
-مِنْهُ ِإلاّ قَلِيلاً مِنْهُمْ.
-  </p>
-</blockquote>
+> فَلَمَّا فَصَلَ طَالُوتُ بِالجُنُودِ قَاَل إِنَّ اللهَ مُبْتَلِيكُمْ
+> بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ لَمْ يَطْعَمْهُ
+> فَإِنَّهُ مِنِّي ِإلاّ مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ، فَشَرِبُوا
+> مِنْهُ ِإلاّ قَلِيلاً مِنْهُمْ.
 
 ***“So, when Talut departed with the forces, he said: Surely, Allah will
 try you with a river; whoever then drinks from it, he is not of me, and
@@ -1173,16 +969,12 @@ a few of them, they drank from it. (The Holy Qur’an; 2:249)”***
 Another trial of the children of Israel
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ القَـرْيَةِ فَكُلُوا مِنْهَا حَيْثُ
-شِئْتُمْ رَغَداً وَادْخُلُوا البَابَ سُجَّداً وَقُولُوا حِطَّةٌ
-نَغْفِرْ لَكُمْ خَطَايَاكُمْ وَسَنَـزِيدُ المحُسْنِينَ. فَبَدَّلَ
-الّذِينَ ظَلَمُوا قَوْلاً غَيْرَ الّذِي قِيلَ لَهُمْ فَأَنْزَلْنَا
-عَلَى الّذِينَ ظَلَمُوا رِجْزاً مِنَ السّمَاءِ بِمَا كَانوُا
-يَفْسُقُونَ.
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ القَـرْيَةِ فَكُلُوا مِنْهَا حَيْثُ
+> شِئْتُمْ رَغَداً وَادْخُلُوا البَابَ سُجَّداً وَقُولُوا حِطَّةٌ
+> نَغْفِرْ لَكُمْ خَطَايَاكُمْ وَسَنَـزِيدُ المحُسْنِينَ. فَبَدَّلَ
+> الّذِينَ ظَلَمُوا قَوْلاً غَيْرَ الّذِي قِيلَ لَهُمْ فَأَنْزَلْنَا
+> عَلَى الّذِينَ ظَلَمُوا رِجْزاً مِنَ السّمَاءِ بِمَا كَانوُا
+> يَفْسُقُونَ.
 
 ***“And when we said: Enter this city, and then eat from it a plenteous
 (food) wherever you wish and enter the gate making obeisance; and say,
@@ -1213,16 +1005,12 @@ was a pestilence from heaven.
 Prophet Ibrahim and God’s Strange Trial
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَى في
-المَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَى، قَالَ يَا أَبَتِ
-افْعَلْ مَا تُؤْمَرُ سَتَجِدَنِي  إِنْ شَاءَ اللهُ مِنَ الصَّابِرِينَ.
-فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ. وَنَادَيْنَاهُ أَنْ يَا
-إِبْرَاهِيمُ. قَدْ صَدَّقْتَ الرُّؤْيَا إِنَّا كَذَلِكَ نَجْزِي
-المُحْسِنِينَ. إِنَّ هَذَا لَهُوَ البَلاَءُ المِبينُ.
-  </p>
-</blockquote>
+> فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَى في
+> المَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَى، قَالَ يَا أَبَتِ
+> افْعَلْ مَا تُؤْمَرُ سَتَجِدَنِي  إِنْ شَاءَ اللهُ مِنَ الصَّابِرِينَ.
+> فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ. وَنَادَيْنَاهُ أَنْ يَا
+> إِبْرَاهِيمُ. قَدْ صَدَّقْتَ الرُّؤْيَا إِنَّا كَذَلِكَ نَجْزِي
+> المُحْسِنِينَ. إِنَّ هَذَا لَهُوَ البَلاَءُ المِبينُ.
 
 ***“And when he attained to working with him, he said: O my son, surely
 I have seen in a dream that I should sacrifice you; consider then what
@@ -1252,22 +1040,14 @@ throat. A shocking scene amazed the whole world against the power of
 faith and love for God. Therefore, God praised the devotion of these two
 devoted monotheists. This is sufficient to indicate their greatness:
 
-<blockquote dir="rtl">
-  <p>
-وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
 
 ***“And We ransomed him with a great sacrifice. (The Holy Qur’an;
 37:107)***
 
 To acknowledge this devotion, God said:
 
-<blockquote dir="rtl">
-  <p>
-سَلامٌ عَلَى إِبْراهِيمَ. إِنَّهُ مِنْ عِبَادِنَا المُؤْمِنِينَ.
-  </p>
-</blockquote>
+> سَلامٌ عَلَى إِبْراهِيمَ. إِنَّهُ مِنْ عِبَادِنَا المُؤْمِنِينَ.
 
 ***“Peace be upon Ibrahim. Surely, he was one of Our believing servants.
 (The Holy Qur’an; 37:109, 111)***
@@ -1305,12 +1085,8 @@ throw stones at him? A devoted servant of God finds out that Satan is
 always on the way to steal faith. Hence, he gets ready to expel the
 satanic temptations from his heart. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ
-تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ
+> تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
 
 ***“ Surely, those who guard against evil, when a visitation from the
 Satan afflicts them, they become mindful, then lo! They see. (7:201)”***
@@ -1328,11 +1104,7 @@ The Hajj rites, consisting of apparently unjustifiable acts, are means
 of trial of men’s devotion to God. Hajj makes those who follow ‘self’
 and superficial intellect distinct from those following God.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أُمِرُوا إِلاّ لِيَعْبُدُوا اللهَ مُخْلِصِينَ لَهُ الدِّينَ
-  </p>
-</blockquote>
+> وَمَا أُمِرُوا إِلاّ لِيَعْبُدُوا اللهَ مُخْلِصِينَ لَهُ الدِّينَ
 
 ***“And they were not enjoining anything except that they should serve
 Allah, being sincere to Him in obedience. (The Holy Qur’an; 98:5)”***
@@ -1423,13 +1195,9 @@ based on people’s interest or disadvantages and that there is no reason
 for them save obedience and devotion to God.’ Responding to this letter,
 Imam Ridha’ (as) wrote:
 
-<blockquote dir="rtl">
-  <p>
-قَد ضَلَّ مِن قال ذلكَ ضَلالاً بَعيداً. وَوجَدْنا المحُرّمَ مِن
-الأشْياءِ لا حاجَةَ لِلعبادِ إليهِ ووجدناهُ مُفسِداً داعِياً إلى
-الفَناءِ والهَلاكِ
-  </p>
-</blockquote>
+> قَد ضَلَّ مِن قال ذلكَ ضَلالاً بَعيداً. وَوجَدْنا المحُرّمَ مِن
+> الأشْياءِ لا حاجَةَ لِلعبادِ إليهِ ووجدناهُ مُفسِداً داعِياً إلى
+> الفَناءِ والهَلاكِ
 
 “Whoever has such impression of the religious precepts is in gross
 error, for we realize that what Allah has forbidden is not only
@@ -1440,15 +1208,11 @@ Sheikh Saduq, may his soul rest in peace, relates that a person went to
 Imam Baqir (as) asking, ‘Why has God forbidden drinking wine and eating
 carrion and pork as well as blood?’ The Imam (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-إنّ اللهَ تبارَكَ وتعَالى لم يُحَرّمْ ذلكَ على عِبادِهِ وأَحلَّ لهُم
-ما سِوى ذلكَ مِن رَغبَةٍ في مَا أَحَلَّ لهُم ولا زُهدٍ في مَا حَرّمَهُ
-عليهِم. ولكِنّه عزّ وجلّ خَلَقَ الخَلقَ فَعلِم ما يَقومُ بهِ
-أَبدانُهُم وما يُصلِحُهُم فَأَحَلَّهُ لهُم وأَباحَهُ وعَلِمَ ما
-يَضُرُّهُم فَنَههاهُم عنهُ وحَرّمَهُ عليهِم
-  </p>
-</blockquote>
+> إنّ اللهَ تبارَكَ وتعَالى لم يُحَرّمْ ذلكَ على عِبادِهِ وأَحلَّ لهُم
+> ما سِوى ذلكَ مِن رَغبَةٍ في مَا أَحَلَّ لهُم ولا زُهدٍ في مَا حَرّمَهُ
+> عليهِم. ولكِنّه عزّ وجلّ خَلَقَ الخَلقَ فَعلِم ما يَقومُ بهِ
+> أَبدانُهُم وما يُصلِحُهُم فَأَحَلَّهُ لهُم وأَباحَهُ وعَلِمَ ما
+> يَضُرُّهُم فَنَههاهُم عنهُ وحَرّمَهُ عليهِم
 
 “Allah has not made certain things lawful or unlawful because He Himself
 likes or dislikes them, for neither the lawful nor do the unlawful
@@ -1465,14 +1229,10 @@ will naturally feel duty-bound to submit to God’s commandments.
 The Holy Prophet of Islam (Saw) Says:
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يا عِبادَ اللهِ أنتُم كالمَرضَى ورَبُّ العَالمِينَ كالطّبِيبِ،
-فَصَلاحُ المَرضَى في ما يَعمَلُهُ الطّبِيبُ وتَدبِيرِهِ بِه لا في ما
-يَشتَهِيهِ المَريضُ ويَقتَرِحُهُ، ألا فَسَلِّموا للهِ  أَمرَهُ
-تَكُونوا مِن الفَائزِينَ.
-  </p>
-</blockquote>
+> يا عِبادَ اللهِ أنتُم كالمَرضَى ورَبُّ العَالمِينَ كالطّبِيبِ،
+> فَصَلاحُ المَرضَى في ما يَعمَلُهُ الطّبِيبُ وتَدبِيرِهِ بِه لا في ما
+> يَشتَهِيهِ المَريضُ ويَقتَرِحُهُ، ألا فَسَلِّموا للهِ  أَمرَهُ
+> تَكُونوا مِن الفَائزِينَ.
 
 “O servants of Allah, you are like patients and the Lord of the worlds
 being like a physician. Therefore, the interest of the patient is in
@@ -1482,11 +1242,7 @@ likes. Therefore, submit to Allah so as to be delivered.”[^27]75
 It is true that the prophets are like us, human being, but they receive
 divine revelation. Addressing the Holy Prophet (saw), God says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَناْ بَشَرٌ مِثْلُكُمْ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَناْ بَشَرٌ مِثْلُكُمْ
 
 ***“Say: I am only a mortal like you; it is revealed to me. (The Holy
 Qur’an; 18:110)”***
@@ -1505,39 +1261,23 @@ to add to one’s tranquility and peace of mind, it is welcome! In the
 Holy Qur’an, most of the verses express the philosophy of the
 commandments:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيامُ...
-لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيامُ...
+> لَعَلَّكُمْ تَتَّقُونَ
 
 ***“O you who believe, fasting is prescribed for you… so that you many
 guard (yourselves) against evil. (2:183)”***
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلاةَ لِذِكْرِي
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلاةَ لِذِكْرِي
 
 ***“… Keep up prayer for My remembrance. (20:14)”***
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُوهُنَّ مِنْ وَرَاءِ حِجَابٍ ذَلِكَ أَطْهَرُ لِقُلُوبِكُمْ
-وَقُلُوبِهِنَّ
-  </p>
-</blockquote>
+> فَاسْأَلُوهُنَّ مِنْ وَرَاءِ حِجَابٍ ذَلِكَ أَطْهَرُ لِقُلُوبِكُمْ
+> وَقُلُوبِهِنَّ
 
 ***“… And ask of them (women) from behind a curtain; this is purer for
 your hearts and for their hearts. (33:53)”***
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِّنْ فِي النَّاسِ بِالحَجِّ... لِيَشْهَدُوا مَنَافِعَ لَهُمْ.
-  </p>
-</blockquote>
+> وَأَذِّنْ فِي النَّاسِ بِالحَجِّ... لِيَشْهَدُوا مَنَافِعَ لَهُمْ.
 
 ***“And proclaim among men the pilgrimage… that they may witness
 advantages for them. (22:28)”***
@@ -1548,11 +1288,7 @@ their philosophy. The value of the acts of worship lies in devotion and
 man can have devotion when he has no motivation other than pleasing God.
 Then, he will become a true servant of God:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لا تُلْهِيهِمْ تِجَارَةٌ وَلا بَيْعٌ عَنْ ذِكْرِ اللهِ.
-  </p>
-</blockquote>
+> رِجَالٌ لا تُلْهِيهِمْ تِجَارَةٌ وَلا بَيْعٌ عَنْ ذِكْرِ اللهِ.
 
 ***“Men whom neither merchandise nor selling diverts from the
 remembrance of Allah… (The Holy Qur’an; 24:37)”***
@@ -1562,12 +1298,8 @@ Being the most perfect religion, Islam has a double vision, that is, it
 sees both this world and the Hereafter; it cares for the welfare of man
 and his moral education as well as spiritual perfection.
 
-<blockquote dir="rtl">
-  <p>
-اَلّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَى لَهُمْ وَحُسْنُ
-مَآبٍ
-  </p>
-</blockquote>
+> اَلّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَى لَهُمْ وَحُسْنُ
+> مَآبٍ
 
 ***“As for those who believe and do good, a good final state shall be
 theirs and a goodly return. (The Holy Qur’an; 13:29)”***
@@ -1579,26 +1311,18 @@ youths. It is only then that the young generation will naturally feel
 duty-bound to follow the Messenger of God and to obey Him with
 contentment and will never look for benefits in serving God.
 
-<blockquote dir="rtl">
-  <p>
-فَمَاذَا بَعْدَ الحَقِّ ِإلاّ الضَّلالُ
-  </p>
-</blockquote>
+> فَمَاذَا بَعْدَ الحَقِّ ِإلاّ الضَّلالُ
 
 ***“… What is there after the truth but error? (The Holy Qur’an;
 10:32)”***
 
 Imam Sajjad (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنّ دِينَ اللهِ لا يُصابُ بِالعُقولِ النّاقِصةِ والآراءِ الباطِلَةِ
-والمَقاييسِ الفاسِدةِ، ولا يُصابُ إلا بالتّسليمِ فَمَنْ سَلَّمَ لنا
-سَلِمَ ومَن اهتَدى بنا هُدِيَ ومَن دانَ بالقِياسِ والرّأْيِ هَلَكَ
-ومَن وَجَدَ في نفْسِهِ شَيئاً ممّا نَقولُهُ أو نَقضي به حَرَجاً كَفَرَ
-بالذي أَنزَلَ السّبْعَ المَثانِي والقُرآنَ العَظيمَ وهُو لا يَعلَمُ
-  </p>
-</blockquote>
+> إِنّ دِينَ اللهِ لا يُصابُ بِالعُقولِ النّاقِصةِ والآراءِ الباطِلَةِ
+> والمَقاييسِ الفاسِدةِ، ولا يُصابُ إلا بالتّسليمِ فَمَنْ سَلَّمَ لنا
+> سَلِمَ ومَن اهتَدى بنا هُدِيَ ومَن دانَ بالقِياسِ والرّأْيِ هَلَكَ
+> ومَن وَجَدَ في نفْسِهِ شَيئاً ممّا نَقولُهُ أو نَقضي به حَرَجاً كَفَرَ
+> بالذي أَنزَلَ السّبْعَ المَثانِي والقُرآنَ العَظيمَ وهُو لا يَعلَمُ
 
 “Surely, the religion of Allah cannot be comprehended with imperfect
 intellects, wrong opinions, or immoral criteria. Hence, there is no way
@@ -1616,13 +1340,9 @@ performance of the divine laws do not add to God’s glory and greatness,
 and man’s disobedience to God does not reduce from His authority. In
 this relation, Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-فإِنّ اللهَ سُبحانهُ وتَعالى خَلَقَ الخَلْقَ حِينَ خَلَقَهُمْ غَنِيّاً
-عَن طَاعَتِهِمْ آمِناً مِن مَعْصِيَتِهِم لأنّه لا تَضُرّهُ مَعصِيَةُ
-مَن عَصاهُ ولا تَنفَعُهُ طاعَةُ مَن أَطاعَهُ.
-  </p>
-</blockquote>
+> فإِنّ اللهَ سُبحانهُ وتَعالى خَلَقَ الخَلْقَ حِينَ خَلَقَهُمْ غَنِيّاً
+> عَن طَاعَتِهِمْ آمِناً مِن مَعْصِيَتِهِم لأنّه لا تَضُرّهُ مَعصِيَةُ
+> مَن عَصاهُ ولا تَنفَعُهُ طاعَةُ مَن أَطاعَهُ.
 
 “Now then, Allah, the Glorified the Sublime, created (the things of) the
 creation; He created them without any need for their obedience or being
@@ -1632,16 +1352,12 @@ Him.”[^29]77
 
 The fate of those who disobeyed God is mentioned in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَسِيرُوا فِي الأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الّذِينَ كَانُوا مِنْ قَبْلِهِمْ، كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً
-وَآثَاراً فِي الأَرْضِ فَأَخَذَهُمُ اللهُ بِذُنُوبِهِمْ وَمَا كَانَ
-لَهُمْ مِنَ اللهِ مِنْ وَاقٍ. ذَلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ
-رُسُلُهُمْ بِالبَيِّنَاتِ فَكَفَرُوا فَأَخَذَهمُ اللهُ إِنَّهُ قَوِيٌّ
-شَدِيدُ العِقَابِ
-  </p>
-</blockquote>
+> أَوَلَمْ يَسِيرُوا فِي الأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الّذِينَ كَانُوا مِنْ قَبْلِهِمْ، كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً
+> وَآثَاراً فِي الأَرْضِ فَأَخَذَهُمُ اللهُ بِذُنُوبِهِمْ وَمَا كَانَ
+> لَهُمْ مِنَ اللهِ مِنْ وَاقٍ. ذَلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ
+> رُسُلُهُمْ بِالبَيِّنَاتِ فَكَفَرُوا فَأَخَذَهمُ اللهُ إِنَّهُ قَوِيٌّ
+> شَدِيدُ العِقَابِ
 
 ***“Have they not traveled in the earth and seen how was the end of
 those who were before them? Mightier than these were they in strength
@@ -1653,13 +1369,9 @@ Severe in retribution. (40:21-2)”***
 
 Jesus Christ (as) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلم تَعلَموا أنّه مَن شَمَخَ بِرأسِه الى السّقفِ شَجَّهُ ومَن خفَضَ
-بِرأسِه عَنه استَظلَّ تحتَهُ وأكَنَّهُ، وكَذلكَ مَن لم يَتواضعْ للهِ
-خَفَضَهُ ومَن تواضعَ للهِ رَفَعَه
-  </p>
-</blockquote>
+> أَلم تَعلَموا أنّه مَن شَمَخَ بِرأسِه الى السّقفِ شَجَّهُ ومَن خفَضَ
+> بِرأسِه عَنه استَظلَّ تحتَهُ وأكَنَّهُ، وكَذلكَ مَن لم يَتواضعْ للهِ
+> خَفَضَهُ ومَن تواضعَ للهِ رَفَعَه
 
 “Do you not know that anyone who raises his head so high that it touches
 the ceiling, the ceiling will break his head? But one who lowers his
@@ -1672,11 +1384,7 @@ As long as the human society obeys the divine laws under the heavenly
 canopy, it will enjoy welfare and receive God’s mercy, but if it
 disobeys God and becomes arrogant, God will say:
 
-<blockquote dir="rtl">
-  <p>
-إِنّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ.
-  </p>
-</blockquote>
+> إِنّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ.
 
 ***“Surely, We have revealed the Reminder and We will most surely be its
 guardian. (The Holy Qur’an; 21:32)”***
@@ -1685,11 +1393,7 @@ The devils can never infiltrate into this guarded canopy and any time
 the followers of Satan have attempted to transgress, they have been
 badly defeated and become examples for others.
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ.
-  </p>
-</blockquote>
+> فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ.
 
 ***“So, We made them stories and scattered them with an utter
 scattering. (The Holy Qur’an; 34:19)”***
@@ -1697,14 +1401,10 @@ scattering. (The Holy Qur’an; 34:19)”***
 Have a look at history and see what God has done to those who fought
 against the heavenly canopy:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرّحْمنِ الرّحِيمِ. أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ
-بِأَصْحَابِ الفِيلِ. أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ.
-وَأَرْسَلَ عَلَيْهِمْ طَيْراً أَبَابِيلَ. تَرْمِيهِمْ بِحِجَارَةٍ مِنْ
-سِجِّيلٍ. فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ.
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرّحْمنِ الرّحِيمِ. أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ
+> بِأَصْحَابِ الفِيلِ. أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ.
+> وَأَرْسَلَ عَلَيْهِمْ طَيْراً أَبَابِيلَ. تَرْمِيهِمْ بِحِجَارَةٍ مِنْ
+> سِجِّيلٍ. فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ.
 
 ***“In the Name of Allah the Most Compassionate the Most Merciful. Have
 you not considered how your Lord dealt with the possessors of the
@@ -1713,15 +1413,11 @@ to prey upon them birds in flocks casting against them stones of baked
 clay; so, He rendered them like straw eaten up? (The Holy Qur’an;
 105:1-5)”***
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ. إِرَمَ ذَاتِ العِمَادِ.
-الّتِي لَمْ يَخْلَقْ مِثْلُهَا فِي البِلادِ. وَثَمُودَ الّذِينَ
-جَابُوا الصَّخْرَ بِالوَادِ. وَفِرْعَوْنَ ذِي الأوْتَادِ. الّذِينَ
-طَغَوْا فِي البِلادِ. فَأَكْثَرُوا فِيهَا الفَسَادَ. فَصَبَّ
-عَلَيْهِمُ رَبُّكَ سَوْطَ عَذَابٍ. إِنَّ رَبَّكَ لَبِالْمِرْصَادِ.
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ. إِرَمَ ذَاتِ العِمَادِ.
+> الّتِي لَمْ يَخْلَقْ مِثْلُهَا فِي البِلادِ. وَثَمُودَ الّذِينَ
+> جَابُوا الصَّخْرَ بِالوَادِ. وَفِرْعَوْنَ ذِي الأوْتَادِ. الّذِينَ
+> طَغَوْا فِي البِلادِ. فَأَكْثَرُوا فِيهَا الفَسَادَ. فَصَبَّ
+> عَلَيْهِمُ رَبُّكَ سَوْطَ عَذَابٍ. إِنَّ رَبَّكَ لَبِالْمِرْصَادِ.
 
 ***“Have you not considered how your Lord dealt with Ad; the people of
 Ihram and the possessors of lofty buildings, the like of which were not
@@ -1736,14 +1432,10 @@ In the Holy Qur’an; Sura of al-Ankabut –the spider-, after speaking
 about the painful fate of the former nations afflicted with heavenly and
 earthly tribulations, God says:
 
-<blockquote dir="rtl">
-  <p>
-فَكُلاًّ أَخَذْنَا بِذَنْبِهِ فَمِنْهُمْ مَنْ أَرْسَلْنَا عَلَيْهِ
-حَاصِباً وَمِنْهُمْ مَنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُمْ مَنْ
-خَسَفْنَا بِهِ الأَرْضَ وَمِنْهُمْ مَنْ أَغْرَقْنَا، وَمَا كَانَ اللهُ
-لِيَظْلِمَهُمْ وَلكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ.
-  </p>
-</blockquote>
+> فَكُلاًّ أَخَذْنَا بِذَنْبِهِ فَمِنْهُمْ مَنْ أَرْسَلْنَا عَلَيْهِ
+> حَاصِباً وَمِنْهُمْ مَنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُمْ مَنْ
+> خَسَفْنَا بِهِ الأَرْضَ وَمِنْهُمْ مَنْ أَغْرَقْنَا، وَمَا كَانَ اللهُ
+> لِيَظْلِمَهُمْ وَلكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ.
 
 ***“So, each We punished for his sin; of them was he on whom We went
 down a violent storm, and of them was he whom the rumbling overtook, and
@@ -1758,23 +1450,15 @@ survived and the pleasant call of ‘I bear witness that there is no god
 but Allah and Muhammad is the Messenger of Allah,’ is heard at dawn,
 noon, and in the evening forever:
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعْنَا لَكَ ذِكْرَكَ.
-  </p>
-</blockquote>
+> وَرَفَعْنَا لَكَ ذِكْرَكَ.
 
 ***“And We exalted for you (Prophet Muhammad) your esteem. (The Holy
 Qur’an; 94:4)”***
 
 Speaking about what earns people and what is worthless, God says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً وَأَمَّا مَا يَنْفَعُ النَّاسَ
-فَيَمْكُثُ فِي الأَرْضِ.
-  </p>
-</blockquote>
+> فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً وَأَمَّا مَا يَنْفَعُ النَّاسَ
+> فَيَمْكُثُ فِي الأَرْضِ.
 
 ***“Then as for the scum, it passes away as a worthless thing; and as
 for that which profits people, it tarries in the earth. (The Holy
@@ -1784,15 +1468,11 @@ In the same way that the sun shines upon the decayed bodies of the
 unjust tribes of Ad and Thamud whom were chastised by God, it will shine
 upon our dead bodies. The earth keeps on going round the sun forever.
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُمَّ مَالِكَ المُلْكِ تُؤْتِي المُلْكَ مَنْ تَشَاءُ
-وَتَنْزِعُ المُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ
-مَنْ تَشَاءُ بِيَدِكَ الخَيْرُ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
-تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ
-وَتُخْرِجُ الحَيَّ مِنَ المَيِّتِ وَتُخْرِجُ المَيِّتَ مِنَ الحَيِّ
-  </p>
-</blockquote>
+> قُلِ اللَّهُمَّ مَالِكَ المُلْكِ تُؤْتِي المُلْكَ مَنْ تَشَاءُ
+> وَتَنْزِعُ المُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ
+> مَنْ تَشَاءُ بِيَدِكَ الخَيْرُ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
+> تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ
+> وَتُخْرِجُ الحَيَّ مِنَ المَيِّتِ وَتُخْرِجُ المَيِّتَ مِنَ الحَيِّ
 
 ***“Say: O Allah; Master of the Kingdom, Thou givest the kingdom to
 whomsoever Thou pleasest and take away the kingdom from whomsoever Thou
@@ -1805,12 +1485,8 @@ and Thou bringest forth the dead from the living. (The Holy Qur’an;
 
 To sum it up, the divine laws are invincible and unchangeable:
 
-<blockquote dir="rtl">
-  <p>
-فَلَنْ تَجِدَ لِسُنَّةِ اللهِ تَبْدِيلاً وَلَنْ تَجِدَ لِسُنَّةِ اللهِ
-تَحْوِيلاً
-  </p>
-</blockquote>
+> فَلَنْ تَجِدَ لِسُنَّةِ اللهِ تَبْدِيلاً وَلَنْ تَجِدَ لِسُنَّةِ اللهِ
+> تَحْوِيلاً
 
 ***“For you shall not find any alteration in the course of Allah; and
 you shall not find any change in the course of Allah. (The Holy Qur’an;
@@ -1818,11 +1494,7 @@ you shall not find any change in the course of Allah. (The Holy Qur’an;
 
 It is the disobeying man who will come to perdition.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَعَدَّ حُدُودَ اللهِ فَقَدْ ظَلَمَ نَفْسَهُ
-  </p>
-</blockquote>
+> وَمَنْ يَتَعَدَّ حُدُودَ اللهِ فَقَدْ ظَلَمَ نَفْسَهُ
 
 ***“… Whoever goes beyond the limits of Allah indeed does injustice to
 his own soul. (The Holy Qur’an; 65:1)”***
@@ -1901,5 +1573,4 @@ with Imam ‘Ali and ending with Imam Mahdi (as).
 [^29]: See Nahjul Balagha; sermon No. 184
 
 [^30]: See Tuhaf ul-Uqoul; sermons of Jesus Christ
-
 

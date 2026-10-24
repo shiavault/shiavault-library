@@ -777,4 +777,3 @@ newspaper Jumhūri-yi Islāmi, Shahrīvar 20, 1359/October 12, 1980, p. 10.
 
 [^34]: Azān: the call to prayer.
 
-

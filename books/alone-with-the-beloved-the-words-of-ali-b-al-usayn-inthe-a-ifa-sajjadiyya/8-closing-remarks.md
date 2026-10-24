@@ -43,4 +43,3 @@ al-Ḥusayn someday will also touch the hearts of those who come across
 the Ṣaḥīfa and whereby naturally directing their growth and thereby
 fulfilling their own purpose.
 
-

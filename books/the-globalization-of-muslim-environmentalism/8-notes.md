@@ -24,7 +24,7 @@ University Press, 2003): 39-[^65]:
 
 [^6] The report can be viewed online at
 
-\<http://www.millenniumassessment.org/en/index.aspx\>.
+<http://www.millenniumassessment.org/en/index.aspx>.
 
 [^7] Tim Radford, “Two-Thirds of the World’s Resources Used up,” The
 Guardian (30 March 2005); Jean-Marcel Bougereau, “Question de Survie,”
@@ -62,7 +62,7 @@ York: Cassell, 1992).
 [^16] Mawil Y. Izzi Dien, The Environmental Dimensions of Islam
 (Cambridge: Lutterworth, 2000).
 
-[^17] See the organization’s website at \<www.ifees.org\>.
+[^17] See the organization’s website at <www.ifees.org>.
 
 [^18] Daniel Dickenson, “Eco-Islam Hits Zanzibar Fishermen,” BBC News
 (17 February 2005).

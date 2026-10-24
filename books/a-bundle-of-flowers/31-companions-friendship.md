@@ -67,4 +67,3 @@ helping of the unjust."
 
 Bihar-ul-Anwar, vol. 78, p.151.
 
-

@@ -423,4 +423,3 @@ al-Simtayn, v.2 p.242.
 
 [^21]: Sibt ibn al-Jawzi, Tadhkirat al-Khawass, p.138.
 
-

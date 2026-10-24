@@ -159,4 +159,3 @@ take the word ta'wil in the verse about the explicit muhkam, and
 implicit, mutashaibih, meanings to indicate "a meaning basically other
 than the apparent meaning.
 
-

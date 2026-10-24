@@ -84,4 +84,3 @@ either give a logical reply or admit frankly that Gospels were wrong.
 
 After a long time, the following reply was received.)
 
-

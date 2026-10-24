@@ -4,13 +4,9 @@ Section 12: The Deserters
 Surah At-Tawbah – Verse 90
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَ الْمُعَذِّرُونَ مِنَ الاَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ
-الَّذِينَ كَذَبُوا اللّهَ وَرَسُولَهُ سَيُصِيبُ الَّذِينَ كَفَرُوا
-مِنْهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> وَجَآءَ الْمُعَذِّرُونَ مِنَ الاَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ
+> الَّذِينَ كَذَبُوا اللّهَ وَرَسُولَهُ سَيُصِيبُ الَّذِينَ كَفَرُوا
+> مِنْهُمْ عَذَابٌ أَلِيمٌ
 
 **90*****. “And the dwellers of the desert came with their excuses, that
 permission might be given to them (to stay back), and those who lied to
@@ -45,13 +41,9 @@ painful chastisement shall afflict those of them who disbelieved.”***
 Surah At-Tawbah – Verse 91
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ عَلَى الضُّعَفَآءِ وَلا عَلَى الْمَرْضَى وَلا عَلَى الَّذِينَ
-لايَجِدُونَ مَايُنْفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلّهِ وَرَسُولِهِ
-مَا عَلَى اَلْمُـحْسِنِينَ مِن سَبِيلٍ وَاللّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> لَيْسَ عَلَى الضُّعَفَآءِ وَلا عَلَى الْمَرْضَى وَلا عَلَى الَّذِينَ
+> لايَجِدُونَ مَايُنْفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلّهِ وَرَسُولِهِ
+> مَا عَلَى اَلْمُـحْسِنِينَ مِن سَبِيلٍ وَاللّهُ غَفُورٌ رَحِيمٌ
 
 ***91. “There is no fault in the weak and the sick and those who find
 nothing to spend, so long as they are true to Allah and to His
@@ -103,13 +95,9 @@ exempted, the Qur’ān points to Allah’s two great attributes by saying:
 Surah At-Tawbah – Verse 92
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا عَلَى الَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لآ
-أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا وَأَعْيُنُهُمْ تَفِيضُ مِنَ
-الدَّمْعِ حَزَناً أَلاَّ يَجِدُوا مَا يُنفِقُونَ
-  </p>
-</blockquote>
+> وَلا عَلَى الَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لآ
+> أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا وَأَعْيُنُهُمْ تَفِيضُ مِنَ
+> الدَّمْعِ حَزَناً أَلاَّ يَجِدُوا مَا يُنفِقُونَ
 
 **92*****. “Nor (is the task) on those unto whom, when they come unto
 you to provide them with mounts, you said: ‘I do not find means to carry
@@ -134,13 +122,9 @@ they did not find that which they should spend.”***
 Surah At-Tawbah – Verse 93
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ
-أَغْنِيَآءُ رَضُوا بِاَن يَكُونُوا مَعَ الْخَوَالِفِ وَطَبَعَ اللّهُ
-عَلَى قُلُوبِهِمْ فَهُمْ لايَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ
+> أَغْنِيَآءُ رَضُوا بِاَن يَكُونُوا مَعَ الْخَوَالِفِ وَطَبَعَ اللّهُ
+> عَلَى قُلُوبِهِمْ فَهُمْ لايَعْلَمُونَ
 
 **93*****. “Verily the way (to blame) is only against those who ask you
 permission (to stay behind) while they are rich.*** ***They are content
@@ -185,15 +169,11 @@ expansion of Islam at that time and our retardation in this age.
 Surah At-Tawbah – Verse 94
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ قُلْ
-لاتَعْتَذِرُوا لَن نُؤْمِنَ لَكُمْ قَدْ نَبَّاَنَا اللّهُ مِنْ
-أَخْبَارِكُمْ وَسَيَرَى اللّهُ عَمَلَكُمْ وَرَسُولُهُ ثُمَّ تُرَدُّونَ
-إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنتُمْ
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ قُلْ
+> لاتَعْتَذِرُوا لَن نُؤْمِنَ لَكُمْ قَدْ نَبَّاَنَا اللّهُ مِنْ
+> أَخْبَارِكُمْ وَسَيَرَى اللّهُ عَمَلَكُمْ وَرَسُولُهُ ثُمَّ تُرَدُّونَ
+> إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنتُمْ
+> تَعْمَلُونَ
 
 **94*****. “They will offer you excuses when you return to them. Say:
 ‘Do not make excuses. We will never believe you. Allah has informed us
@@ -237,13 +217,9 @@ and human beings will understand the facts.
 Surah At-Tawbah – Verse 95
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَيَحْلِفُونَ بِاللّهِ لَكُمْ إِذَا انقَلَبْتُمْ إِلَيْهِمْ
-لِتُعْرِضُوا عَنْهُمْ فَاَعْرِضُوا عَنْهُمْ إِنَّهُمْ رِجْسٌ
-وَمَأْوَاهُمْ جَهَنَّمُ جَزَآءً بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> سَيَحْلِفُونَ بِاللّهِ لَكُمْ إِذَا انقَلَبْتُمْ إِلَيْهِمْ
+> لِتُعْرِضُوا عَنْهُمْ فَاَعْرِضُوا عَنْهُمْ إِنَّهُمْ رِجْسٌ
+> وَمَأْوَاهُمْ جَهَنَّمُ جَزَآءً بِمَا كَانُوا يَكْسِبُونَ
 
 **95*****. “They will swear to you by Allah, when you turn back unto
 them that you renounce them (their sin). So renounce them, for they are
@@ -286,12 +262,8 @@ for what they have done.[^2]
 Surah At-Tawbah – Verse 96
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ فإِن تَرْضَوْا عَنْهُمْ فإِنَّ
-اللّهَ لايَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ فإِن تَرْضَوْا عَنْهُمْ فإِنَّ
+> اللّهَ لايَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ
 
 **96*****. “They swear to you that you may be pleased with them. But
 even if you are pleased with them, yet surely Allah will not be pleased
@@ -318,12 +290,8 @@ and he must cease his communication with him.
 Surah At-Tawbah – Verse 97
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الاَعْرَابُ أَشَدُّ كُفْراً وَنِفَاقاً وَأَجْدَرُ أَلاَّ يَعْلَمُوا
-حُدُودَ مَآ أَنْزَلَ اللّهُ عَلَى رَسُولِهِ وَاللّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> الاَعْرَابُ أَشَدُّ كُفْراً وَنِفَاقاً وَأَجْدَرُ أَلاَّ يَعْلَمُوا
+> حُدُودَ مَآ أَنْزَلَ اللّهُ عَلَى رَسُولِهِ وَاللّهُ عَلِيمٌ حَكِيمٌ
 
 **97*****. “The Bedouins are more hard in disbelief and hypocrisy, and
 more apt not to know the limits of what Allah has sent down to His
@@ -352,13 +320,9 @@ down are all formed upon wisdom and cognizance. It says:
 Surah At-Tawbah – Verse 98
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الاَعْرَابِ مَن يَتَّخِذُ مَايُنْفِقُ مَغْرَماً وَيَتَرَبَّصُ
-بِكُمُ الدَّوَآئِرَ عَلَيْهِمْ دَآئِرَةُ السَّوْءِ وَاللّهُ سَمِيعٌ
-عَلِيمٌ
-  </p>
-</blockquote>
+> وَمِنَ الاَعْرَابِ مَن يَتَّخِذُ مَايُنْفِقُ مَغْرَماً وَيَتَرَبَّصُ
+> بِكُمُ الدَّوَآئِرَ عَلَيْهِمْ دَآئِرَةُ السَّوْءِ وَاللّهُ سَمِيعٌ
+> عَلِيمٌ
 
 **98*****. “And of the Bedouins are those who take what they spend to be
 a loss, and they wait for calamities against you, on them shall be an
@@ -401,14 +365,10 @@ their secrets.
 Surah At-Tawbah – Verse 99
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الاَعْرَابِ مَن يُؤْمِنُ بِاللّهِ وَالْيَوْمِ الاَخِرِ
-وَيَتَّخِذُ مَايُنفِقُ قُرُبَاتٍ عِندَ اللّهِ وَصَلَوَاتِ الرَّسُولِ
-أَلآ إِنَّهَا قُرْبَةٌ لَهُمْ سَيُدْخِلُهُمُ اللّهُ فِي رَحْمَتِهِ
-إِنَّ اللّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> وَمِنَ الاَعْرَابِ مَن يُؤْمِنُ بِاللّهِ وَالْيَوْمِ الاَخِرِ
+> وَيَتَّخِذُ مَايُنفِقُ قُرُبَاتٍ عِندَ اللّهِ وَصَلَوَاتِ الرَّسُولِ
+> أَلآ إِنَّهَا قُرْبَةٌ لَهُمْ سَيُدْخِلُهُمُ اللّهُ فِي رَحْمَتِهِ
+> إِنَّ اللّهَ غَفُورٌ رَحِيمٌ
 
 **99*****. “And of the Bedouins are those who believe in Allah and the
 Last Day, and take what they spend to be (means of) the nearness to
@@ -472,5 +432,4 @@ Fi-Zilāl, Atyab-ul-Bayān, Al- Muharrir- ul-Wajiz
 
 [^2]: Tafsir-i-Qarā’ib-ul-Qur’ān, As-Sāfi, Jawāmi‘-ul-Jāmi‘, Al-Mizān,
 and Manhaj-us-Sādiqin
-
 

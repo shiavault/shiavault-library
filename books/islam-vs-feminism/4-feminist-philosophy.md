@@ -96,4 +96,3 @@ history, for the critique of every element of culture dominated by a
 male perspective, including (to mention but a few) art, psychology,
 theology and ethics itself.
 
-

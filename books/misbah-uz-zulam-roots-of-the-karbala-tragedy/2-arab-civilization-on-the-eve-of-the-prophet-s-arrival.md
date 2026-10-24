@@ -64,4 +64,3 @@ truth is that almost all the people in this tribe, with the sole
 exception of Umar bin Abdul Aziz, are such that to call them humans is
 like killing humanity.
 
-

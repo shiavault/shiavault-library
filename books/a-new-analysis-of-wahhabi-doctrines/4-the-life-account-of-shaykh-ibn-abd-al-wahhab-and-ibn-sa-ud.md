@@ -153,11 +153,7 @@ to the inter mediation {*tawassul*} of the saints of God;
 his creed, saying: “Wage war against the infidels and polytheists until
 there is no more sedition {*fitnah*} and the religion is solely for God:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَاتِلُوهُمْ حَتَّى لا تَكُونَ فِتْنَةٌ.﴾
-  </p>
-</blockquote>
+> ﴿وَقَاتِلُوهُمْ حَتَّى لا تَكُونَ فِتْنَةٌ.﴾
 
 ***Fight them until faithlessness is no more**.*[^1]
 
@@ -236,5 +232,4 @@ should not be overlooked.
 [^2]: Kitab at-Tawhid bi’l-Lughah al-Farisiyyah, no. 27, pp. 16-34.
 
 [^3]: ‘Ali Dawani, Firqeh-ye Wahhabi, chap. 1.
-
 

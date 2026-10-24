@@ -107,4 +107,3 @@ indeclinable before the vocation (ی**ا حِذامِ)** or declinable before it
 **(یا یحییَ),** or in aorist tense verbs ending in an *alif* (**دَعا)**,
 or the subject of a *lā* that denies a whole genius (**لا فتیَ هُنا).**
 
-

@@ -47,7 +47,6 @@ sake of Allah, Allah makes him great.
 My dear son! Be courteous for the sake of truth so that you may become
 the most wise. Indeed, a wise man becomes low before the truth.
 
-
 **Lesson: 29 : Forbearance and firmness**
 
 One of the salient virtues on which both the Holy Quran and the words
@@ -219,7 +218,6 @@ and you will be rewarded and if you show impatience even then what was
 to befall you will befall without any reward for you.
 D - If one trains his soul and strengthens his spirit problems become
 easy for him: Surah Ankaboot: 69, Insharaah:6
-
 
 **Lesson: 30 : Reliance and Trust in Allah**
 
@@ -741,7 +739,6 @@ spirit of patience and firmness and a determination to endeavor for a
 favourable future and helps wipe out the dust of disappointment and
 hopelessness from the tablet of his mind.
 
-
 **Lesson: 32 : Thankfulness and Praise**
 
 One of the virtues showing faith and the knowledge about the Almighty
@@ -904,7 +901,6 @@ O chief! Distress has afflicted us and our family and we have brought
 scanty money, so give us full measure and be charitable to us; surely
 Allah rewards the charitable.
 
-
 **Lesson: 33 : Fulfilment of promise from the view point of Islam**
 
 One of the virtues talked about in the Holy Quran is Keeping of the
@@ -929,5 +925,4 @@ breach of promise includes the natural, rational and religious us
 trusts.
 
 And sometimes it involves people's relations with one another.
-
 

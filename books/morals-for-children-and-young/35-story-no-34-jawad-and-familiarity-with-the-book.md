@@ -17,4 +17,3 @@ for all his boldness.
  His mother not only forgave him, but was also kinder to him than
 before.
 
-

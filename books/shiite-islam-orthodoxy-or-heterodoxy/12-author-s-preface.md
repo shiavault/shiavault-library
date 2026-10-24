@@ -1226,4 +1226,3 @@ the hidden meanings are the domain of the awliyyā' Allāh [the Holy
 Friends of the Divine]; and the elevated metaphysical truths belong to
 the Prophets [anbiyyā'].
 
-

@@ -10,11 +10,7 @@ Surah al-Dhariyat, Chapter 51, Verses 1 - 23
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -50,37 +46,17 @@ of Resurrection [provided that he acts upon Qur’anic Injunctions].”*[^1]
 Surah al-Dhariyat - Verses 1-4
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالذَّارِيَاتِ ذَرْوًا
-  </p>
-</blockquote>
+> وَالذَّارِيَاتِ ذَرْوًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْحَامِلَآتِ وِقْرًا
-  </p>
-</blockquote>
+> فَالْحَامِلَآتِ وِقْرًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْجَارِيَاتِ يُسْرًا
-  </p>
-</blockquote>
+> فَالْجَارِيَاتِ يُسْرًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُقَسِّمَاتِ أمْرًا
-  </p>
-</blockquote>
+> فَالْمُقَسِّمَاتِ أمْرًا
 
 ***1. By the winds that scatter everything forcefully.***  
 ***2. Then by the clouds bearing heavy weight [of water].***  
@@ -183,17 +159,9 @@ shall be ruined.”*
 Surah al-Dhariyat - Verses 5-6
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا تُوعَدُونَ لَصَادِقٌ
-  </p>
-</blockquote>
+> إِنَّمَا تُوعَدُونَ لَصَادِقٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الدِّينَ لَوَاقِعٌ
-  </p>
-</blockquote>
+> وَإِنَّ الدِّينَ لَوَاقِعٌ
 
 ***5. Indeed, that which you are promised is certainly true.***  
 ***6. And indeed, the [Day of] Recompense is certain to occur.***
@@ -224,23 +192,11 @@ committing them shall be recompensed.
 Surah al-Dhariyat - Verses 7-9
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاء ذَاتِ الْحُبُكِ
-  </p>
-</blockquote>
+> وَالسَّمَاء ذَاتِ الْحُبُكِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ
-  </p>
-</blockquote>
+> إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ
 
-<blockquote dir="rtl">
-  <p>
-يُؤْفَكُ عَنْهُ مَنْ اُفِكَ
-  </p>
-</blockquote>
+> يُؤْفَكُ عَنْهُ مَنْ اُفِكَ
 
 ***7. By the heaven abounding in beauteous paths and beauties,***  
 ***8. Surely, you are [perplexed] in having different words.***  
@@ -368,17 +324,9 @@ Resurrection is indisputably involved herein.
 Surah al-Dhariyat - Verses 10-11
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُتِلَ الْخَرَّاصُونَ
-  </p>
-</blockquote>
+> قُتِلَ الْخَرَّاصُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ
 
 ***10. Down with the liars [talking of the Holy Qur’an and Resurrection
 without relying on sound arguments]***  
@@ -409,23 +357,11 @@ excuses each and every day in order to evade the Path of Truth.
 Surah al-Dhariyat - Verses 12-14
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْألُونَ أيَّانَ يَوْمُ الدِّينِ
-  </p>
-</blockquote>
+> يَسْألُونَ أيَّانَ يَوْمُ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ هُمْ عَلَی النَّارِ يُفْتَنُونَ
-  </p>
-</blockquote>
+> يَوْمَ هُمْ عَلَی النَّارِ يُفْتَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-ذُوقُوا فِتْنَتَكُمْ هَذَا الَّذِي كُنتُم بِهِ تَسْتَعْجِلُونَ
-  </p>
-</blockquote>
+> ذُوقُوا فِتْنَتَكُمْ هَذَا الَّذِي كُنتُم بِهِ تَسْتَعْجِلُونَ
 
 ***12. They inquire: “When will be the Day of Recompense?”***  
 ***13. [It shall be] a Day when they will be burned over the Fire!***  
@@ -472,18 +408,10 @@ severity of disbelievers’ torment.
 Surah al-Dhariyat - Verses 15-16
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ
-مُحْسِنِينَ
-  </p>
-</blockquote>
+> آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ
+> مُحْسِنِينَ
 
 ***15. Indeed, the God fearing shall be in the midst of Gardens and
 [beside] Springs,***  
@@ -569,23 +497,11 @@ Lord and they also receive Divine Blessings in their worldly life.
 Surah al-Dhariyat - Verses 17-19
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَانُوا قَلِيلاً مِّنَ اللَّيْلِ مَا يَهْجَعُونَ
-  </p>
-</blockquote>
+> كَانُوا قَلِيلاً مِّنَ اللَّيْلِ مَا يَهْجَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَبِالْأسْحَارِ هُمْ يَسْتَغْفِرُونَ
-  </p>
-</blockquote>
+> وَبِالْأسْحَارِ هُمْ يَسْتَغْفِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَفِي أمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُومِ
-  </p>
-</blockquote>
+> وَفِي أمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُومِ
 
 ***17. They used to sleep but little by night.***  
 ***18. And at dawn, they were invoking [Allah] for forgiveness.***  
@@ -664,30 +580,14 @@ his poverty and dire state.
 Surah al-Dhariyat - Verses 20-23
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفِي الْأرْضِ آيَاتٌ لِّلْمُوقِنِينَ
-  </p>
-</blockquote>
+> وَفِي الْأرْضِ آيَاتٌ لِّلْمُوقِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَفِي أنفُسِكُمْ أفَلَآ تُبْصِرُونَ
-  </p>
-</blockquote>
+> وَفِي أنفُسِكُمْ أفَلَآ تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَفِي السَّمَاء رِزْقُكُمْ وَمَا تُوعَدُونَ
-  </p>
-</blockquote>
+> وَفِي السَّمَاء رِزْقُكُمْ وَمَا تُوعَدُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَوَرَبِّ السَّمَاء وَالْأرْضِ إِنَّهُ لَحَقٌّ مِّثْلَ مَا أنَّكُمْ
-تَنطِقُونَ
-  </p>
-</blockquote>
+> فَوَرَبِّ السَّمَاء وَالْأرْضِ إِنَّهُ لَحَقٌّ مِّثْلَ مَا أنَّكُمْ
+> تَنطِقُونَ
 
 ***20. And on the earth are signs for those who have faith with
 certitude.***  
@@ -847,5 +747,4 @@ Tafsir Nur al-Thiqalayn, vol. 5, p. 120.
 [^9]: Majma‘ al-Bayan, under the blessed Verses in question.
 
 [^10]: Tafsir Nur al-Thiqalayn.
-
 

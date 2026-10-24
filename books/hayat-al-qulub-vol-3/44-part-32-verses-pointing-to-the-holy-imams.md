@@ -8,11 +8,7 @@ There are some verses regarding this.
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ خَلَقْنَا أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ.
-  </p>
-</blockquote>
+> وَمِمَّنْ خَلَقْنَا أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ.
 
 ***And of those whom We have created are a people who guide with the
 truth and thereby they do justice. (Surah Araf 7:181)***
@@ -36,12 +32,8 @@ way.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
-اللَّهَ لَمَعَ الْمُحْسِنِينَ.
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
+> اللَّهَ لَمَعَ الْمُحْسِنِينَ.
 
 ***And (as for) those who strive hard for Us, we will most certainly
 guide them in Our ways, and Allah is most certainly with the doers of
@@ -55,12 +47,8 @@ revealed in our praise.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لَا
-يَهِدِّي إِلَّا أَنْ يُهْدَى فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ.
-  </p>
-</blockquote>
+> أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لَا
+> يَهِدِّي إِلَّا أَنْ يُهْدَى فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ.
 
 ***Is he then who guides to the truth more worthy to be followed, or he
 who himself does not go aright unless he is guided? What then is the
@@ -79,11 +67,7 @@ especially in comparison to those who falsely claimed the Caliphate.
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنْ اللَّهِ.
-  </p>
-</blockquote>
+> وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنْ اللَّهِ.
 
 ***And who is more erring than he who follows his low desires without
 any guidance from Allah? (Surah Qasas 28:50)***
@@ -105,12 +89,8 @@ the truth from Allah and His Prophet, and they would not be misguided.
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
-اهْتَدَى.
-  </p>
-</blockquote>
+> وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
+> اهْتَدَى.
 
 ***And most surely I am most forgiving to him who repents and believes
 and does good, then continues to follow the right direction. (Surah Taha
@@ -133,11 +113,7 @@ on the day of judgement.
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَى.
-  </p>
-</blockquote>
+> فَمَنْ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَى.
 
 ***Then whoever follows My guidance, he shall not go astray nor be
 unhappy. (Surah Taha 20:123)***
@@ -154,12 +130,8 @@ guidance of Ali (a.s.), one who follows his guidance in my life and
 after my passing away, he has followed the guidance of Allah. He would
 never be misguided and a sinner. Then he said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
-وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى.
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
+> وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى.
 
 ***And whoever turns away from My reminder, his shall be a straitened
 life, and We will raise him on the day of resurrection, blind. (Surah
@@ -171,12 +143,8 @@ remain blind and perplexed.
 
 Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا. قَالَ
-كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنسَى.
-  </p>
-</blockquote>
+> قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا. قَالَ
+> كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنسَى.
 
 ***He will say; O my Lord why have you raised Me blind, and I was a
 seeing one Indeed? He will say: Even so; Our communications came to you,
@@ -188,12 +156,8 @@ guidance you neglected, so today We would similarly neglect you, it
 means, I will put you in Hell. Just as you rejected our Caliphs and did
 not obey them.
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِنْ بِآيَاتِ رَبِّهِ
-وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَى.
-  </p>
-</blockquote>
+> وَكَذَلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِنْ بِآيَاتِ رَبِّهِ
+> وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَى.
 
 ***And thus do we recompense him who is extravagant and does not believe
 in the communications of His Lord. (Surah Taha 20:127)***
@@ -205,12 +169,8 @@ towards the Aale Muhammad (S) he crosses the limit.
 
 Eighth verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كُلٌّ مُتَرَبِّصٌ فَتَرَبَّصُوا فَسَتَعْلَمُونَ مَنْ أَصْحَابُ
-الصِّرَاطِ السَّوِيِّ وَمَنْ اهْتَدَى.
-  </p>
-</blockquote>
+> قُلْ كُلٌّ مُتَرَبِّصٌ فَتَرَبَّصُوا فَسَتَعْلَمُونَ مَنْ أَصْحَابُ
+> الصِّرَاطِ السَّوِيِّ وَمَنْ اهْتَدَى.
 
 ***So you will come to know who is the follower if the even path and who
 goes aright. (Surah Taha 20:135)***
@@ -221,11 +181,7 @@ one, who has accepted our Wilayat.
 
 Ninth verse:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَاهُمْ اقْتَدِهِ.
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَاهُمْ اقْتَدِهِ.
 
 ***These are they whom Allah guided, therefore follow their guidance.
 (Surah Anam 6:90)***
@@ -235,11 +191,7 @@ whose guidance is from Allah, and that people should follow us.
 
 Tenth verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ.
-  </p>
-</blockquote>
+> إِنَّ هَذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ.
 
 ***Surely this Quran guides to that which is most upright… (Surah Israa
 17:9)***
@@ -249,11 +201,7 @@ it means the Imam and his Wilayat which is the most correct path.
 
 Eleventh verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ.
-  </p>
-</blockquote>
+> وَلِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ.
 
 ***…that you should exalt the greatness of Allah for His having guided
 you… (Surah Baqarah 2:185)***
@@ -263,12 +211,8 @@ His respect and guidance is the Wilayat of Ahlul Bayt (a.s.).
 
 Twelfth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَذَا وَمَا كُنَّا
-لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ.
-  </p>
-</blockquote>
+> وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَذَا وَمَا كُنَّا
+> لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ.
 
 ***They shall say: All praise is due to Allah, who guided us to this and
 we would not have found the way had it not been that Allah had guided
@@ -287,12 +231,8 @@ It means that Allah guided us towards the Wilayat of Amirul Momineen
 
 Thirteenth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا إِذَا تُتْلَى عَلَيْهِمْ آيَاتُ
-الرَّحْمَانِ خَرُّوا سُجَّدًا وَبُكِيًّا.
-  </p>
-</blockquote>
+> وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا إِذَا تُتْلَى عَلَيْهِمْ آيَاتُ
+> الرَّحْمَانِ خَرُّوا سُجَّدًا وَبُكِيًّا.
 
 ***And of those whom We guided and chose, when the communications of the
 beneficent Allah were recited to them, they fell down making obeisance
@@ -301,5 +241,4 @@ and weeping. (Surah Maryam 19:59)***
 Tabarsi and Ibne Shahr Aashob have narrated from Imam Zainul Aabedeen
 (a.s.), that he said: This verse refers to us and it was revealed in our
 praise.
-
 

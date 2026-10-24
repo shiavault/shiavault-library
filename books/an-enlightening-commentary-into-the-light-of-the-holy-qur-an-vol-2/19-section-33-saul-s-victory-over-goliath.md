@@ -364,4 +364,3 @@ by S. W. Mir Ahmed Ali, p. 221
 [^7]: Al-Mizan, commentary, vol. 4 p. 123 (English Version) by
 al-'Allamah as-Sayyid Muhammad Husayn at-Tabataba’i
 
-

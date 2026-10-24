@@ -1474,4 +1474,3 @@ http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-...
 [^9]: Ayatullah Dastghaib (r.a.), the Martyr of the Niche, has explained
 these verses in detail, which are published in Nafse Mutmainnah
 
-

@@ -110,4 +110,3 @@ he was from them. And most tradition scholars say that he was from Azd.
 But nothing is known about his father. However his descendants say that
 they are from the Azd tribe.
 
-

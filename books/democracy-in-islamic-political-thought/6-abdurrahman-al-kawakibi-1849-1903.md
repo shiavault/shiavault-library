@@ -38,4 +38,3 @@ almost completely absolute.' Ar-Rumi says: 'The calamity has been our
 loss of liberty.' In conclusion, Al-Kawakibi stresses that progress is
 linked to accountability while regress is linked to despotism.[^19]
 
-

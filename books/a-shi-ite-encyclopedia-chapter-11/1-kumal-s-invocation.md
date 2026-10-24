@@ -324,7 +324,5 @@ worthy of doing.
 May Allah bless His Messenger, and the blessed Leaders among his
 descendants, and bestow upon them an endless peace and tranquillity.
 
-
 Ameen
-
 

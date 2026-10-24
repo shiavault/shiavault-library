@@ -169,4 +169,3 @@ ZAHRA (The lady of light)
 Each of these names tells us about her high character and greatness We
 shall talk about these in chapter six in more detail.
 
-

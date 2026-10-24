@@ -379,4 +379,3 @@ been alive, he too would have judged in the same manner. He will
 eradicate the (false) religions from the face of the earth. Then, except
 for the pure religion, no other religion would remain over the earth.
 
-

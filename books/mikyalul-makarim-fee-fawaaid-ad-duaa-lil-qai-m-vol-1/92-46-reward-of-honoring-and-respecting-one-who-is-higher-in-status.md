@@ -411,17 +411,9 @@ knowledge and intercession for us and such others that the tongue is
 unable to mention them all. And Allah, the Mighty and Sublime says in
 Surah Rahman:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ .
-  </p>
-</blockquote>
+> هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ .
 
-<blockquote dir="rtl">
-  <p>
-فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ .
-  </p>
-</blockquote>
+> فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ .
 
 ***“Is the reward of goodness aught but goodness? Which then of the
 bounties of your Lord will you deny?” (Qur’an, Surah Rahman 55:60-61)***
@@ -783,5 +775,4 @@ al-Momineen (as). And he (this man) asks me if he is more knowledgeable
 or some of the prophets!”
 
 [^39]: Wasailush Shia, Vol. 1, Pg. 24
-
 

@@ -212,4 +212,3 @@ then your sin will be expiated."[^12]
 
 [^12]: Safinatul Bihar, Vol. 2, P. 687.
 
-

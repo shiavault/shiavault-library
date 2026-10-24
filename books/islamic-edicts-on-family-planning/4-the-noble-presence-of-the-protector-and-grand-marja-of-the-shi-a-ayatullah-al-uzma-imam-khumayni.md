@@ -28,4 +28,3 @@ And may the peace and mercy of Allah and His blessings be upon you.
 danger or it will not lead to a defect of the private parts and the
 husband approves of it, then it is not a problem.
 
-

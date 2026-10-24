@@ -501,4 +501,3 @@ development. To read about the exemplary religious life and advanced
 religious thought of Mother Teresa, see Explorations in Psychology
 describing the exemplary life of Mother Teresa.
 
-

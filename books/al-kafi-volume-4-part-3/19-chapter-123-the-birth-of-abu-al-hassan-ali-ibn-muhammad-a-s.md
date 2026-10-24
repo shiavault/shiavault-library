@@ -287,4 +287,3 @@ medicine and recovered from my illness." Muhammad ibn Ali has said that
 Zayd ibn ail told me, "The critics would refuse to accept this hadith
 saying, "Wherefrom the extremist have brought this hadith?"
 
-

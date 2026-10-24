@@ -86,4 +86,3 @@ Böckenförde by bringing into discussion the importance of religion,
 since the binding is made in his very works, even if Herbert
 Schnädelbach does not want to admit it.
 
-

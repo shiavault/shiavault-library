@@ -189,4 +189,3 @@ phenomenology. Certainly, the similarities in methodology between
 certain strands in analytic philosophy and phenomenology are striking,
 and elucidation of one can be used to throw light on the other.
 
-

@@ -21,4 +21,3 @@ considers himself to be safe from plunder will be plundered.
 
 > 4ـ مَنْ حارَبَ النّاسَ حُرِبَ، ومَنْ أمِنَ السَّلَبَ سُلِبَ.
 
-

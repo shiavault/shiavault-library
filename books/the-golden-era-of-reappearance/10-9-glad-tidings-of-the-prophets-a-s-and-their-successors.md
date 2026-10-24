@@ -56,4 +56,3 @@ cited are the original works of the Ahl al-Sunnah.)
 136; E’qd al-Dorar, P. 61; Behaar al-Anwar, vol. 51, p. 143; Mikyaal
 al-Makaarim, vol. 2,p.150.)
 
-

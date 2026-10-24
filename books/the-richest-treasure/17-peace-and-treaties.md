@@ -48,4 +48,3 @@ corporal punishment dealt by the state for any lesser crime results in
 the death of the guilty, let not the prestige of the state stand in any
 way of the deceased relations claiming compensation.
 
-

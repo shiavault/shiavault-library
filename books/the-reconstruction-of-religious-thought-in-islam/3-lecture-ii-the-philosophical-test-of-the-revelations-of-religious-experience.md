@@ -1030,4 +1030,3 @@ thought must rise higher than itself, and find its fulfilment in an
 attitude of mind which religion describes as prayer - one of the last
 words on the lips of the Prophet of Islam.51
 
-

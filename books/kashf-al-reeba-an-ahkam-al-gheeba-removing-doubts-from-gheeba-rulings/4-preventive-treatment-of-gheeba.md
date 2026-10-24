@@ -279,4 +279,3 @@ conviction (*imān*). One whose conviction is strong through combining
 all of the above prevents himself from committing the sin of backbiting,
 that is for sure.
 
-

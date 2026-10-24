@@ -43,4 +43,3 @@ Sumayah was annoyed to have seen the young man again, and she left as
 soon as she finished speaking without the least intention of waiting to
 hear his reply.
 
-

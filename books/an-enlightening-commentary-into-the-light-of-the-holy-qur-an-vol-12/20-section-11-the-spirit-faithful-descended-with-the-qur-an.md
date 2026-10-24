@@ -4,35 +4,15 @@ Section 11: The Spirit-Faithful, Descended with the Qur’an
 Surah Ash-Shu‘ara - Verses 192-196
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-نَزَلَ بِهِ الرُّوحُ الأَمِينُ
-  </p>
-</blockquote>
+> نَزَلَ بِهِ الرُّوحُ الأَمِينُ
 
-<blockquote dir="rtl">
-  <p>
-عَلَى قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ
-  </p>
-</blockquote>
+> عَلَى قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ
-  </p>
-</blockquote>
+> بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَفِي زُبُرِ الأَوَّلِينَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَفِي زُبُرِ الأَوَّلِينَ
 
 ***192. “And verily this (Qur’an) is from the Lord of the Worlds.”***  
 ***193. “The Faithful Spirit has descended with it.”***  
@@ -224,24 +204,12 @@ individuals and society from the kinds of ethical and social diseases.
 Surah Ash-Shu‘ara - Verses 197-199
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَكُن لَّهُمْ آيَةً أَن يَعْلَمَهُ عُلَمَاء بَنِي
-إِسْرَائِيلَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَكُن لَّهُمْ آيَةً أَن يَعْلَمَهُ عُلَمَاء بَنِي
+> إِسْرَائِيلَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ نَزَّلْنَاهُ عَلَى بَعْضِ الأَعْجَمِينَ
-  </p>
-</blockquote>
+> وَلَوْ نَزَّلْنَاهُ عَلَى بَعْضِ الأَعْجَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ
 
 ***197. “Is it not a sign to them that the learned of the Children of
 Israel know it (as true)?”***  
@@ -351,23 +319,11 @@ is sent down from the Wise, the Praised One’***[^9]***.”***[^10]
 Surah Ash-Shu‘ara - Verses 200-202
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ
-  </p>
-</blockquote>
+> كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُؤْمِنُونَ بِهِ حَتَّى يَرَوُا الْعَذَابَ الأَلِيمَ
-  </p>
-</blockquote>
+> لاَ يُؤْمِنُونَ بِهِ حَتَّى يَرَوُا الْعَذَابَ الأَلِيمَ
 
-<blockquote dir="rtl">
-  <p>
-فَيَأْتِيَهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ
-  </p>
-</blockquote>
+> فَيَأْتِيَهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ
 
 ***200. “Thus We caused it passing into the hearts of the sinners,”***  
 ***201. “(But) they will not believe in it until they see the painful
@@ -490,29 +446,13 @@ jealousy.[^17]
 Surah Ash-Shu‘ara - Verses 203-206
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَيَقُولُوا هَلْ نَحْنُ مُنظَرُونَ
-  </p>
-</blockquote>
+> فَيَقُولُوا هَلْ نَحْنُ مُنظَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
-  </p>
-</blockquote>
+> أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ إِن مَّتَّعْنَاهُمْ سِنِينَ
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ إِن مَّتَّعْنَاهُمْ سِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَاءهُم مَّا كَانُوا يُوعَدُونَ
-  </p>
-</blockquote>
+> ثُمَّ جَاءهُم مَّا كَانُوا يُوعَدُونَ
 
 ***203. “Then they will say: ‘Shall we be respited?’”***  
 ***204. “Do they then ask for Our Chastisement to be hastened on?”***  
@@ -570,23 +510,11 @@ promised?”***
 Surah Ash-Shu‘ara - Verses 207-209
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا أَغْنَى عَنْهُم مَّا كَانُوا يُمَتَّعُونَ
-  </p>
-</blockquote>
+> مَا أَغْنَى عَنْهُم مَّا كَانُوا يُمَتَّعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ
-  </p>
-</blockquote>
+> وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرَى وَمَا كُنَّا ظَالِمِينَ
-  </p>
-</blockquote>
+> ذِكْرَى وَمَا كُنَّا ظَالِمِينَ
 
 ***207. “That which they were made to enjoy shall not avail them.”***  
 ***208. “And We did not destroy any town but it had its warners,”***  
@@ -683,23 +611,11 @@ atom...”***
 Surah Ash-Shu‘ara - Verses 210-212
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ
-  </p>
-</blockquote>
+> وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ
-  </p>
-</blockquote>
+> وَمَا يَنبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ
-  </p>
-</blockquote>
+> إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ
 
 ***210.”And the Satans have not bring it down.”***  
 ***211. “And it behooves them not, nor they can do (it).”***  
@@ -790,11 +706,7 @@ C) The prohibition of the Satans from eavesdropping.
 Surah Ash-Shu‘ara - Verse 213
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ
-  </p>
-</blockquote>
+> فَلاَ تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ
 
 ***213. “So call you not upon another god with Allah, lest you will be
 one of the chastised (ones).”***
@@ -827,29 +739,13 @@ self-actualization and self-improvement.
 Surah Ash-Shu‘ara - Verses 214-217
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ عَشِيرَتَكَ الأَقْرَبِينَ
-  </p>
-</blockquote>
+> وَأَنذِرْ عَشِيرَتَكَ الأَقْرَبِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِّمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِّمَّا تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ
-  </p>
-</blockquote>
+> وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ
 
 ***214. “And warn your nearest relations,”***  
 ***215. “And lower your wing (be humble) to the believer who follow
@@ -1016,23 +912,11 @@ bestowed Mercy upon them.
 Surah Ash-Shu‘ara - Verses 218-220
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يَرَاكَ حِينَ تَقُومُ
-  </p>
-</blockquote>
+> الَّذِي يَرَاكَ حِينَ تَقُومُ
 
-<blockquote dir="rtl">
-  <p>
-وَتَقَلُّبَكَ فِي السَّاجِدِينَ
-  </p>
-</blockquote>
+> وَتَقَلُّبَكَ فِي السَّاجِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 ***218. “He Who sees you when you stand up (in prayer),”***  
 ***219. “And your movements among those who prostrate themselves.”***  
@@ -1078,23 +962,11 @@ affairs.
 Surah Ash-Shu‘ara - Verses 221-223
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أُنَبِّئُكُمْ عَلَى مَن تَنَزَّلُ الشَّيَاطِينُ
-  </p>
-</blockquote>
+> هَلْ أُنَبِّئُكُمْ عَلَى مَن تَنَزَّلُ الشَّيَاطِينُ
 
-<blockquote dir="rtl">
-  <p>
-تَنَزَّلُ عَلَى كُلِّ أَفَّاكٍ أَثِيمٍ
-  </p>
-</blockquote>
+> تَنَزَّلُ عَلَى كُلِّ أَفَّاكٍ أَثِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ
-  </p>
-</blockquote>
+> يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ
 
 ***221. “Shall I inform you on whom the Satans come down?”***  
 ***222. “They come down on every lying sinful one,”***  
@@ -1139,31 +1011,15 @@ will encounter a fiery meteor.
 Surah Ash-Shu‘ara - Verses 224-227
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالشُّعَرَاء يَتَّبِعُهُمُ الْغَاوُونَ
-  </p>
-</blockquote>
+> وَالشُّعَرَاء يَتَّبِعُهُمُ الْغَاوُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُمْ يَقُولُونَ مَا لاَ يَفْعَلُونَ
-  </p>
-</blockquote>
+> وَأَنَّهُمْ يَقُولُونَ مَا لاَ يَفْعَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-إلاَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ
-كَثِيرًا وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا وَسَيَعْلَمُ الَّذِينَ
-ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ
-  </p>
-</blockquote>
+> إلاَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ
+> كَثِيرًا وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا وَسَيَعْلَمُ الَّذِينَ
+> ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ
 
 ***224. “And the poets, follow them the erring ones,”***  
 ***225. “Do you not see that they wander about be wildered in every
@@ -1488,5 +1344,4 @@ of Muhammad (S). (The commentary of Nur-uth-Thaqalayn)
 
 [^40]: ’Usul-i-Kafi, Safinat-ul-Bihar, Vol. 1, P. 484, and
 Wasa’il-ush-Shi‘ah, Vol. 5, P. 415
-
 

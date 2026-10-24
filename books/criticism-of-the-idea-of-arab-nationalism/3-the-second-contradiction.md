@@ -211,4 +211,3 @@ happens to be Islam and because the adherents of nationalism have set
 themselves from the outset against that religion and aligned themselves
 with the West.
 
-

@@ -1,25 +1,19 @@
 Writing of Hadith Was Forcibly Done:
 ====================================
 
-  
-  
-  
-
 When the Companions were commanded to commit the hadith to writing, they
 did not respond to that order but only when being under coercion, as
 they were finding problem in writing it, after the sunnah (conduct) of
 the earlier Companions was based upon not writing the hadith. Mu'ammar
 reported on the authority of al-Zuhri as saying: "We loathed the
 
-writing of knowledge, until the emirs compelled us to write it. <span
-id="_anchor_477"></span>477  Later on we realized that no one from among
-the Muslims should be prevented from it. <span
-id="_anchor_478"></span>478
+writing of knowledge, until the emirs compelled us to write it. 477  Later on we realized that no one from among
+the Muslims should be prevented from it. 478
 
 Al-Zuhri further says: The kings asked me to write down knowledge (ilm,
 i.e. hadith) for them. After writing for them for some time, I felt
 ashamed before God; (I asked myself): Why was it that I was prepared to
-write for kings but not for others. <span id="_anchor_479"></span>479
+write for kings but not for others. 479
 
 That was due to the fact that concern of Muslims, in the first days of
 Islam, was mainly concentrated on writing down of the Quran, while in
@@ -36,14 +30,14 @@ fiqh (jurisprudence), grammar (nahw), linguistics and khabar, beside
 other fields.
 
 The professor Ahmad al-Iskandari, in his book Ta\`rikh adab al-Lughah
-al-Arabiyyah, <span id="_anchor_480"></span>480  writes:
+al-Arabiyyah, 480  writes:
 
 The era of Umayyads came to an end with no knowledge being written down
 except rules of grammar, beside some traditions and speeches of the
 fuqaha’ among the Sahabah on exegesis (tafsir). It is reported that
-Khalid ibn Yazid <span id="_anchor_481"></span>481  compiled books on
+Khalid ibn Yazid 481  compiled books on
 astronomy and chemistry, and that Mu'awiyah summoned Ubayd ibn Sariyah
-<span id="_anchor_482"></span>482  from San'a', who wrote for him the
+482  from San'a', who wrote for him the
 book al-Muluk wa al-akhbar al-madiyah, beside other books written on the
 same subjects by Wahb ibn Munabbih, al-Zuhri, and Musa ibn Uqbah.
 
@@ -52,7 +46,7 @@ and classification of sciences to regard the era of the Umayyads to be
 an era of compilation (tasnif), as no comprehensive, classified, or
 detailed books were compiled during it, but there were only collections
 written according to the way of reporting and concurrence in narrating
-them. <span id="_anchor_483"></span>483
+them. 483
 
 In al-Ihya’ al-Ghazzali says: Verily the books and compilations are
 altogether produced recently as none of them was produced throughout the
@@ -62,8 +56,7 @@ of the Followers, Sa'd ibn al-Musayyab (d.105 H.), al-Hasan (d.110 H.)
 and the best of Tabi'un, rather the predecessors were averse to books of
 hadith, and compilation of books, so as not to let attention of people
 be diverted from the Qur'an, memorizing it, contemplation and
-remembrance, saying: Memorize as we used to memorize... <span
-id="_anchor_484"></span>484
+remembrance, saying: Memorize as we used to memorize... 484
 
 Out of all this we conclude that the first tadwin of hadith was done
 during the last days of the reign of Umayyads. This task was executed at
@@ -71,8 +64,7 @@ random from scattered suhuf (papers) that were folded up and circulated
 without being divided into sections and chapters. This might have been
 done in accordance with what was taught in the knowledge circles
 (majalis al-’ilm) at that time, as they were not specified for a certain
-science, but every majlis would include several sciences. 'Ata' <span
-id="_anchor_485"></span>485  says: I have never seen a majlis nobler or
+science, but every majlis would include several sciences. 'Ata' 485  says: I have never seen a majlis nobler or
 more in fiqh or greater in prestige than that of Ibn Abbas, where
 Qur\`an-bearers, grammarians, and poets inquiring him, all proceeding
 from a spacious valley. Umar ibn Dinar said: I have never seen a majlis
@@ -87,7 +79,7 @@ revising and rectifying whatever was written in the suhuf, and writing
 what was kept in the breasts, arranging, classifying and compiling it in
 books. The strongest reason prompting the ulama’ to undertake the task
 of compilation during this epoch was the urging on the part of Abu
-Ja'far al-Mansur <span id="_anchor_486"></span>486  and his impelling
+Ja'far al-Mansur 486  and his impelling
 the leaders of fiqh to collect the hadith and fiqh. Further it is
 reported that he — despite his parsimony — spent abundant fortunes to
 fulfil this task. It is also said that the attention he paid for
@@ -95,7 +87,7 @@ knowledge was not confined only in supporting the Islamic sciences, but
 he impelled the ulama’ and Syriac and Iranian translators to translate
 into Arabic the Persian and Greek books on sciences of medicine,
 politics, wisdom, astronomy, astrology, arts and logic and other fields.
-<span id="_anchor_487"></span>487  Thus he was the first ruler for whom
+487  Thus he was the first ruler for whom
 the books were translated from other languages into Arabic. But the
 attention he gave for the hadith, collecting and committing it to
 writing was so extreme, to the extent that it was said to him: Is there
@@ -115,10 +107,10 @@ is like the market to which brought what should be spent in it... if he
 be righteous righteousness would be
 
 brought to him, and if he be debauchee their immorality would be brought
-to him. <span id="_anchor_488"></span>488  Ibn Tughri Barada, in
+to him. 488  Ibn Tughri Barada, in
 chronicles of the year 143, said the following: Al-Dhahabi said: In this
 age (year 143 H.) the Muslim ulama’ embarked on writing down the hadith,
-fiqh and tafsir (exegesis). Ibn Jarih <span id="_anchor_489"></span>489
+fiqh and tafsir (exegesis). Ibn Jarih 489
  prepared several compilations in Makkah (he died in 150 H), while Sa'id
 ibn Abi Urubah (d. 156 H.) and Hammad ibn Salamah (d.167H.) compiled
 books in al-Basrah. Abu Hanifah (d. 150 H). compiled books on fiqh and
@@ -126,15 +118,14 @@ qiyas (analogy) in Kufah, al-Awza'i (d. 156 or 157) in the Sham, Malik
 (d.179) compiled al-Muwatta’ in al-Madinah, Ibn Ishaq compiled
 al-Maghazi (d.151) and Mu'ammar (d.153) compiled in Yemen and Sufyan
 al-Thawri (d.161) compiled Kitab al-Jami’ in al-Kufah. After a short
-time Hisham <span id="_anchor_490"></span>490 (d.188) compiled his books
+time Hisham 490 (d.188) compiled his books
 beside al-Layth ibn Sa'd (d.175), Abd Allah ibn Luhay'ah (d.174), then
 Ibn al-Mubarak (d.181), al-Qadi Abu Yusuf Ya'qub (d.182) and Ibn Wahb
 (d.197). In that age, knowledge was increasingly classified and written,
 with many books on Arabic grammar and language, history and public
 episodes. Before this age, all the ulama’ — in another narration the
 imams — used to speak of what they learnt by heart narrating knowledge
-from disarranged suhuf (books)." Here ends al-Dhahabi's speech. <span
-id="_anchor_491"></span>491
+from disarranged suhuf (books)." Here ends al-Dhahabi's speech. 491
 
 Due to the fact that they were altogether lived contemporaneously in one
 age, it is unknown certainly which one of them superseded the others in
@@ -143,7 +134,7 @@ some others said it was Ibn Jarih, and some mentioned the name of
 al-Rabi' ibn Subayh, and some Hammad ibn Salamah. Ibn Hajar says: The
 first to compile hadith were al-Rabi' ibn Subayh and Sa'id ibn Abi
 Urubah... until the elderly among the scholars of the third tabaqah
-compiled the ahkam. <span id="_anchor_492"></span>492  Then Malik
+compiled the ahkam. 492  Then Malik
 compiled al-Muwatta’, bringing in it the strong traditions of the people
 of Hijaz, mixing them with sayings of the Sahabah and fatawa (verdicts)
 of the Tabi'un and their followers. Ibn Hajar and al-Iraqi said: All
@@ -191,8 +182,7 @@ which was the stage of revision and selection.
 In Muqaddimat Fath al-Bari Ibn Hajar says: "When al-Bukhari came across,
 related, sniffed for and discovered the truth about these compilations,
 he found them, according to their composition, including what can be
-counted sahih and good (hasan), and many that to be regarded weak. <span
-id="_anchor_493"></span>493  to which it can't be said eloquent
+counted sahih and good (hasan), and many that to be regarded weak. 493  to which it can't be said eloquent
 language. Therefore he put his best leg foremost to collect the correct
 traditions in which no honest man can suspect. What encouraged him to do
 this task was the statement he heard from his teacher, the chief of fiqh
@@ -202,11 +192,7 @@ Ishaq ibn Rahawayh who said: I recommend you to compile an abridged book
 on the sahih traditions of the Messenger of Allah, upon whom be God's
 peace and benediction? He (al-Bukhari) says: I was impressed by these
 words, so I embarked on collecting and compiling the comprehensive
-Sahih. <span id="_anchor_494"></span>494
-
-  
-  
-  
+Sahih. 494
 
 477. Abu al-Mulayh said: It was Hisham who coerced al-Zuhri to write
 down the hadith, after which writing of hadith became so common. Ibn

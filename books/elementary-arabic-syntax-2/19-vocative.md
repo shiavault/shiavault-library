@@ -55,4 +55,3 @@ the vocative prepositions, for example: **یا اللهُ** . Sometimes it is
 put into the vocative form by adding a doubled *mīm* to the end of
 Allah, for example: **اللّهُمَّ**
 
-

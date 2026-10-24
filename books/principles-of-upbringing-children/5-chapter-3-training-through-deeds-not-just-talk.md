@@ -121,4 +121,3 @@ world."
 
 [^4]: Ghurar al Hukm, p.232
 
-

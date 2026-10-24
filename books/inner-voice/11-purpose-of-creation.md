@@ -27,4 +27,3 @@ are the methods which help in bringing out our spiritual perfection.
 Fire melts gold and makes it pure; Tragedy and distress soften the heart
 and brightens the spirit.
 
-

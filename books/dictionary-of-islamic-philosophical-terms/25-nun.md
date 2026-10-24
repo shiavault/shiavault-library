@@ -198,4 +198,3 @@ sub-classes but only into individuals. In Aristotelian logic the
 individual himself is named as nau‘ al-’anwa‘; also called nau‘
 al-safil.
 
-

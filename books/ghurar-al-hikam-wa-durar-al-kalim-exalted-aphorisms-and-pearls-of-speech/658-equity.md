@@ -57,11 +57,7 @@ intelligent person from the fool, the virtuous from the vicious, and the
 noble one from the wicked.
 
 > 13ـ ثَلاثَةٌ لا يَنْتَصِفُونَ مِنْ ثَلاثَة أبَداً: اَلْعاقِلُ مِنَ
-<blockquote dir="rtl">
-  <p>
-الأحْمَقِ، والْبَـرُّ مِنَ الْفاجِرِ، والْكَريمُ مِنَ اللَّئِيمِ.
-  </p>
-</blockquote>
+> الأحْمَقِ، والْبَـرُّ مِنَ الْفاجِرِ، والْكَريمُ مِنَ اللَّئِيمِ.
 
 14. It is on equity that affection is established.
 
@@ -71,11 +67,7 @@ noble one from the wicked.
 with altruism [and prefer them over yourself].
 
 > 15ـ عامِلْ سائِرَ النّاسِ بِالإنْصافِ وعامِلِ الْمُؤْمِنِينَ
-<blockquote dir="rtl">
-  <p>
-بِالإيثارِ.
-  </p>
-</blockquote>
+> بِالإيثارِ.
 
 16. The height of equity is for a person to be equitable with himself.
 
@@ -108,11 +100,7 @@ honour.
 will not be fair with you because of his religion.
 
 > 22ـ مَنْ لَمْ يُنْصِفْكَ مِنْهُ حَياؤُهُ لَمْ يُنْصِفْكَ مِنْهُ
-<blockquote dir="rtl">
-  <p>
-دينُهُ.
-  </p>
-</blockquote>
+> دينُهُ.
 
 23. With equity brotherhood lasts.
 
@@ -121,5 +109,4 @@ will not be fair with you because of his religion.
 24. Equity is the ornament of [power and] authority.
 
 > 24ـ اَلإنْصافُ زَيْنُ الإمْرَةِ.
-
 

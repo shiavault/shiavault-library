@@ -62,4 +62,3 @@ There are many reasons why philosophy is worth doing.  Yet, it would be
 disturbing if we cannot show the agnostic that philosophy gets her the
 right type of value - true answers to philosophical questions.
 
-

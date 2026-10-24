@@ -1,17 +1,9 @@
 Who Can Enter Into The Dialogue Of Civilizations?
 =================================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم
 
-<blockquote dir="rtl">
-  <p>
-وَقُولُوا لِلنَّاسِ حُسْنًا
-  </p>
-</blockquote>
+> وَقُولُوا لِلنَّاسِ حُسْنًا
 
 ***In the name of Allah, the Beneficent, the Merciful.***
 
@@ -701,5 +693,4 @@ Abingdon, 1996), 208.
 University of Chicago Press, 1974), 57.
 
 [^11]: Hodgson (1974), 71.
-
 

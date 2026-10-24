@@ -149,7 +149,6 @@ The stories told in the Qur'an are the accounts of monotheism, justice,
 bravery and righteousness. We advise all people to read the Quranic
 stories, which are thoroughly based on realities.
 
-
 **Chapter 20: What Religion should be adopted?**
 
 Will man, who looks, most of all, for his own happiness, find it in
@@ -294,7 +293,5 @@ researches about the truth of Islam in order to find the path of God.
 
 We pray to Almighty God to guide us to the right path.
 
-
 THE END
-
 

@@ -115,4 +115,3 @@ were) security".
 established. The Urdu rendering: - "So long as the matter remains in the
 hearts of men" is erroneous.
 
-

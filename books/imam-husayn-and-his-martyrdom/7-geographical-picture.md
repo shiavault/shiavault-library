@@ -30,4 +30,3 @@ which receive its waters, and act as reservoirs. Lower down it unites
 with the other river, the Tigris, and the united rivers flow in the name
 of the Shatt-al-Arab into the Persian Gulf.
 
-

@@ -1253,4 +1253,3 @@ Contemporary Political Philosophy, Robert E. Goodin (ed), Blackwell,
 [^17]: Muhammad ibn Ali ibn Babwayh (al-shaykh al-Saduq), Ellal al-
 Shariah, Qom: Maktiba Davari, p. 253.
 
-

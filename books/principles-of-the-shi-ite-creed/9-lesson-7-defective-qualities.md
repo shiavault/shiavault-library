@@ -62,4 +62,3 @@ only one who is absolutely needless and abundant.”***[^1]
 
 [^1]: Surah al-Fatir 35:15.
 
-

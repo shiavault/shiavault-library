@@ -3,12 +3,8 @@
 
 In verse 105 of Surat Hud, we read:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَأْتِ لاَ تَکَلَّمَ نَفْسٌ إِلاَّ بِإِذْنِهِ فَمِنْهُمْ
-شَقِيٌّ وَ سَعِيدٌ
-  </p>
-</blockquote>
+> يَوْمَ يَأْتِ لاَ تَکَلَّمَ نَفْسٌ إِلاَّ بِإِذْنِهِ فَمِنْهُمْ
+> شَقِيٌّ وَ سَعِيدٌ
 
 ***“On the day when it shall come, no soul shall speak except with His
 permission, then (some) of them shall be unhappy and (others) happy.”***
@@ -24,32 +20,20 @@ is inherent. However, not only do they fail to prove this point, but
 they clearly prove that wretchedness and prosperity are states which are
 acquired. This is because the verse says:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا الَّذِينَ شَقَوْا…
-  </p>
-</blockquote>
+> أَمَّا الَّذِينَ شَقَوْا…
 
 ***“As for those who will be wretched…”***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا الَّذِينَ سُعِدُوا…
-  </p>
-</blockquote>
+> أَمَّا الَّذِينَ سُعِدُوا…
 
 ***“As for those who are fortunate…”***
 
 indeed, if prosperity and wretchedness were inherent, the verse should
 have said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا الأَشْقِيَاءُ ءِ وَ أَمَّا السُّعَدَاءُءِ…
-  </p>
-</blockquote>
+> أَمَّا الأَشْقِيَاءُ ءِ وَ أَمَّا السُّعَدَاءُءِ…
 
 ***'As for the wretched ones' and 'as for the fortunate ones',***
 
@@ -142,5 +126,4 @@ their own choice and will, and have developed within themselves the
 worthiness to benefit from such support, shall come to receive it.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 9, pg. 236
-
 

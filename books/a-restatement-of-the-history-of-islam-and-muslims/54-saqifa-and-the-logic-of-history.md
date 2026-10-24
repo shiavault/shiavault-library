@@ -1052,4 +1052,3 @@ not introduce him to the Muslim umma, is supported neither by facts nor
 by logic. Facts and logic are on his side – perennially and inevitably.
 It was in the outhouse of Saqifa that the logic of history went awry.
 
-

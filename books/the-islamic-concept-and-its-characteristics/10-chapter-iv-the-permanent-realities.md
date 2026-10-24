@@ -772,16 +772,15 @@ In this serious situation confronting mankind today, we should
 recognize the great responsibility that rests on our shoulders, not only
 in relation to ourselves, but to the rest of mankind.
 
-[^1] Refer to Julian Huxley: The Challenges of Modern Science to Human
+[^1]: Refer to Julian Huxley: The Challenges of Modern Science to Human
 Action and Belief, Chatto and Windus, London, 1931. [See also Clinging
 to A Myth: The Story Behind Evolution, American Trust Publications,
 1991. Editor]
 
-[^2] Refer to Muhammad Qutb, Are We Muslims?
+[^2]: Refer to Muhammad Qutb, Are We Muslims?
 
-[^3] Refer to Al-Islam Wa Al-Mushkilat Al-Hadarah
+[^3]: Refer to Al-Islam Wa Al-Mushkilat Al-Hadarah
 
-[^4] Mohammed Asad, Islam at the Crossroads. Ashraf Publications, Lahore
+[^4]: Mohammed Asad, Islam at the Crossroads. Ashraf Publications, Lahore
 (1955), pp. 150-155.
-
 

@@ -3,12 +3,8 @@ Lesson Fifty Five: Self Sacrificing Lovers
 
 Imam Al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أَصْحَابَ جَدِّىَ الْحُسَيْنِ لَمْ يَجِدُوا أَلَمَ مَسِّ
-الْحَدِيْدِ
-  </p>
-</blockquote>
+> إنَّ أَصْحَابَ جَدِّىَ الْحُسَيْنِ لَمْ يَجِدُوا أَلَمَ مَسِّ
+> الْحَدِيْدِ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ First , one shall be a lover, then self-sacrifice and tolerance will
 inevitably follow.
 
 [^1]: Bihar al-Anwar, volume 45, page 80
-
 

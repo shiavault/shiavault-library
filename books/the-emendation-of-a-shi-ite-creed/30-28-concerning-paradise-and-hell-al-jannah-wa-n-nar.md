@@ -114,4 +114,3 @@ innovators amongst the followers of the doctrine of "threat"[^2].
 [^2]: This is one of the five principal tenets of the Mu‘tazilah. See
 al-Khayyat,al Intisar, p.126; al-Ash‘ari, op. cit., vol.l, p.278.
 
-

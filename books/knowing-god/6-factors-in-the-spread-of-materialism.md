@@ -194,4 +194,3 @@ is also their origin. It is the idea which determines conduct. The idea
 of godliness uplifts man's spirit into a realm of purity and growth,
 clear air and healthy living.
 
-

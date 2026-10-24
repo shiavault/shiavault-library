@@ -164,4 +164,3 @@ religion’.
 
 5. What is the commonality between the revealed religions?
 
-

@@ -77,4 +77,3 @@ Qum, Iran
 
 The Winter of 1387 A.H.
 
-

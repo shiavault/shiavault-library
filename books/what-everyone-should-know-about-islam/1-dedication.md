@@ -13,4 +13,3 @@ love, and human dignity to rescue the mankind through enlightenment at
 this critical juncture of our contemporary world in the twenty-first
 century
 
-

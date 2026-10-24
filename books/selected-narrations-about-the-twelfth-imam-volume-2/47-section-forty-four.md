@@ -70,4 +70,3 @@ and other details are mentioned.
 from Nu\`aim; \`Iqd al-durar, chap. 3, p. 36, with the difference that
 he said: “Ja\`far b. Yasār al-Shāmī.”
 
-

@@ -90,4 +90,3 @@ Whatever is said about the bath to the dead body and bath for touching
 the dead body is one side of the philosophy. It is possible there may be
 other points also, which at present are invisible to us.
 
-

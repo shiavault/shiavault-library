@@ -18,21 +18,13 @@ emphasized and stated by numerous Sunnite and Shi'ite historians and
 commentators. In the commentary *al-Durrul Manthur*, it has been
 narrated from Ibne 'Abbas that when the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ آتِ ذَا الْقُربـى حَقَّهُ
-  </p>
-</blockquote>
+> وَ آتِ ذَا الْقُربـى حَقَّهُ
 
 ***“Then give to the near of kin his due”***[^1]
 
 was revealed, the Noble Prophet (S) gifted Fadak to Fatimah (s.a.)[^2]:
 
-<blockquote dir="rtl">
-  <p>
-أَقطَعَ رَسُولُ اللٌّهِ فَااَطِمَةَ فَدَکٌَ.
-  </p>
-</blockquote>
+> أَقطَعَ رَسُولُ اللٌّهِ فَااَطِمَةَ فَدَکٌَ.
 
 In the chapter of silah rahim (establishing bonds of consanguinity) of
 the book *Kanz al-'Ummal*, written as annotations for the book *Musnad*
@@ -40,11 +32,7 @@ of Ahmad ibne Hanbal, it has been reported from Abu Sa'id Khudri that
 when the above verse was revealed, the Noble Prophet (S) sought Fatimah
 (s.a.) and said to her:
 
-<blockquote dir="rtl">
-  <p>
-ياَ فاَطِمَةُ لَکِ فَدَکٌُ.
-  </p>
-</blockquote>
+> ياَ فاَطِمَةُ لَکِ فَدَکٌُ.
 
 “O' Fatimah! Fadak is for you.”[^3]
 
@@ -60,11 +48,7 @@ in the hands of 'Ali's (a.s.) spouse as a danger to their political
 power and were determined to isolate his supporters in every respect,
 confiscated it on the basis of a fabricated tradition:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لاَ نُوَرِّثُ.
-  </p>
-</blockquote>
+> نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لاَ نُوَرِّثُ.
 
 And despite the fact that Fatimah (s.a.) was in official possession of
 the land - and one in possession of something is not asked to present
@@ -105,5 +89,4 @@ onwards
 [^6]: Sahih Muslim, vol. 3, pg. 1380, no. 52 of 'The Book of Jihad'
 
 [^7]: Tafsir-e-Namuna, vol. 23, pg. 510
-
 

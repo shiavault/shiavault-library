@@ -115,4 +115,3 @@ housework, save that with very hair on his body a whole year of
 worship-during which he fasted the days and kept up the nights in prayer
 is counted for him....'
 
-

@@ -417,4 +417,3 @@ I3 Abu Muhammad, Hasan Ibn Ali (PBUH), al-Askari (232 ~ 260 AH)
 I4 Abu al-Qasim, Hujjat Ibn al-Hasan (PBUH), al-Qa'im, al-Muntadhar,
 al- Mahdi (255 AH, alive and awaiting)46, 47, 60, 65, 85, 97, 103
 
-

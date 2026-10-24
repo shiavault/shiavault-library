@@ -230,4 +230,3 @@ of the event of Karbala, from geographic viewpoint too.
 **Birthday of Imam Husayn (a.s.)**
 **Faris al-Hassoon (Tabriziyan)**
 
-

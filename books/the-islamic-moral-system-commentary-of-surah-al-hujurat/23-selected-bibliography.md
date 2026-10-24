@@ -53,4 +53,3 @@ Warram, Ibn Abi Faras, Majmu\`atul Warram
 
 Zamakshari, Mahmud ibn \`Umar, Al-Kashshaf
 
-

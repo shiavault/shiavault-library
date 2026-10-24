@@ -42,4 +42,3 @@ why is because this third possibility states that the purified
 individuals are the wives of the Prophet (SA) in addition to Ali,
 Fatima, Hasan, and Husain (AS).
 
-

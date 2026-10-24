@@ -462,4 +462,3 @@ not at the level of scientific consciousness, a kind of transfer of
 learning exists. For instance, the Holy Qur’an refers to the story of
 the ant and Solomon in verse 27:18.
 
-

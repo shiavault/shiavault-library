@@ -688,4 +688,3 @@ access to Muslim's military secrets and strategies. These verses
 revealed to warn Muslims of trusting their real enemies as confidants,
 and rely not upon such friendships.
 
-

@@ -160,4 +160,3 @@ adh-Dhahabi, Mizanu'l-i‘tidal, vol.l, p.593; Ibn Hajar, Tahdhibu
 't-tahdhib, vol.3, p.15; as-Suyuti,al-La’ali 'l-masnu‘ah, vol.1, p.25;
 vol.2, p.468; etc.
 
-

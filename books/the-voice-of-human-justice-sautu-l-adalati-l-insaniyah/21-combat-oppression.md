@@ -291,4 +291,3 @@ the rulers and religious leaders of his time. It was he who paved the
 path for the great French Revolution of 1789 A.D. He is the author of
 many valuable books
 
-

@@ -80,12 +80,8 @@ Five of these prophets are given the highest rank in the spiritual
 hierarchy: and they are Nūh (Noah), Ibrāhīm (Abraham), Mūsā (Moses),
 \`Isā (Jesus), and Muhammad (as). Almighty Allāh says in the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنْكَ وَمِنْ نُوحٍ
-وَإِبْرَاهِيمَ وَمُوسَى وَعِيسَى ابْنِ مَرْيَمَ.
-  </p>
-</blockquote>
+> وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنْكَ وَمِنْ نُوحٍ
+> وَإِبْرَاهِيمَ وَمُوسَى وَعِيسَى ابْنِ مَرْيَمَ.
 
 ***“And when We*** ***made a covenant with the prophets: with you, with
 Nūh, Ibrāhīm, Mūsā and \`Isā, son of Mariam…**”*[^2]
@@ -126,13 +122,9 @@ peaceful co-existence with them. One of the earliest messages of
 peaceful co-existence given by the Prophet Muhammad (S) to the
 idol-worshippers of Mecca is reflected in Chapter 109 of the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا الْكَافِرُونَ. لاَ أَعْبُدُ مَا تَعْبُدُونَ. وَلاَ
-أَنْـتُمْ عَابِدُونَ مَا أَعْبُدُ. وَلاَ أَنَا عَابِدٌ مَا عَبَدتُّمْ.
-وَلاَ أَنْـتُمْ عَابِدُونَ مَا أَعْبُدُ. لَكُمْ دِينُكُمْ وَلِيَ دِينِ
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا الْكَافِرُونَ. لاَ أَعْبُدُ مَا تَعْبُدُونَ. وَلاَ
+> أَنْـتُمْ عَابِدُونَ مَا أَعْبُدُ. وَلاَ أَنَا عَابِدٌ مَا عَبَدتُّمْ.
+> وَلاَ أَنْـتُمْ عَابِدُونَ مَا أَعْبُدُ. لَكُمْ دِينُكُمْ وَلِيَ دِينِ
 
 ***Say: “O unbelievers! Neither do I worship what you worship; nor do
 you worship what I worship. Neither am I going to worship what you
@@ -362,12 +354,8 @@ description of the elephant; if they had used a “candle”, they would
 have seen the light! In Islām, God does not let a searcher for truth
 grope in darkness:
 
-<blockquote dir="rtl">
-  <p>
-للٌّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى
-النُّورِ
-  </p>
-</blockquote>
+> للٌّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى
+> النُّورِ
 
 ***“Allāh is the Protector of the believers, He brings them forth from
 the shadows into the light.**”* [^11]
@@ -405,11 +393,7 @@ His final Messenger [Muhammad] has brought.”*[^12]
 
 When the Qur’ān says, for example:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللٌّهِ الإِسْلاَمُ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللٌّهِ الإِسْلاَمُ
 
 ***“Surely the religion with Allāh is al-Islām,**”*[^13],
 
@@ -422,14 +406,10 @@ In their attempt to read a politically correct idea into the Qur’ān,
 they even ignore the context of the verse. Let us read the whole passage
 together:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللٌّهِ الإِسْلاَمُ وَمَا اخْتَلَفَ الَّذِينَ
-أُوتُوا الْكِتَابَ إِلاَّ مِنْ بَعْدِ مَا جَاءَهُمْ الْعِلْمُ بَغْياً
-بَيْنَهُمْ وَمَنْ يَكْفُرْ بِآيَاتِ اللٌّهِ فَإِنَّ اللٌّهَ سَرِيعُ
-الْحِسَابِ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللٌّهِ الإِسْلاَمُ وَمَا اخْتَلَفَ الَّذِينَ
+> أُوتُوا الْكِتَابَ إِلاَّ مِنْ بَعْدِ مَا جَاءَهُمْ الْعِلْمُ بَغْياً
+> بَيْنَهُمْ وَمَنْ يَكْفُرْ بِآيَاتِ اللٌّهِ فَإِنَّ اللٌّهَ سَرِيعُ
+> الْحِسَابِ
 
 ***“Surely the*** **religion** ***with Allāh is*** **al-Islām*****. And
 those who have been given the Book [i.e., the Christians and the Jews]
@@ -437,22 +417,14 @@ did not show opposition but after knowledge had come to them, out of
 envy among themselves. And*** ***whoever disbelieves in the verses of
 Allāh, then surely Allāh is quick in reckoning.”***
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ حَاجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِي لِلٌّهِ وَمَنْ اتَّـبَعَنِي
-  </p>
-</blockquote>
+> فَإِنْ حَاجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِي لِلٌّهِ وَمَنْ اتَّـبَعَنِي
 
 ***“But if they dispute with you, say: “I have submitted myself entirely
 to Allāh and (so has)*** **everyone who follows me.”**
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ لِلَّذِينَ أُوتُوا الْكِتَابَ وَالأُمِّـيِّينَ أَأَسْلَمْتُمْ
-فَإِنْ أَسْلَمُوا فَقَدْ اهْـتَدَوا وَإِنْ تَوَلَّوا فَإِنَّمَا
-عَلَيْكَ الْبَلاَغُ وَاللٌّهُ بَصِيرٌ بِالْعِبَادِ
-  </p>
-</blockquote>
+> وَقُلْ لِلَّذِينَ أُوتُوا الْكِتَابَ وَالأُمِّـيِّينَ أَأَسْلَمْتُمْ
+> فَإِنْ أَسْلَمُوا فَقَدْ اهْـتَدَوا وَإِنْ تَوَلَّوا فَإِنَّمَا
+> عَلَيْكَ الْبَلاَغُ وَاللٌّهُ بَصِيرٌ بِالْعِبَادِ
 
 ***“And to those who have been given the Book [i.e., the Christians and
 the Jews] and to the idol-worshippers [of Mecca], say: “*****Do you
@@ -489,25 +461,17 @@ through previous prophets.
 Another passage from the same chapter is also relevant for understanding
 the meaning of “Islām”:
 
-<blockquote dir="rtl">
-  <p>
-أَفَغَيْرَ دِينِ اللٌّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَنْ فِي
-السَّمَاوَاتِ وَالأَرْضِ طَوْعاً وَكَرْهاً وَإِلَـيْهِ يُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَغَيْرَ دِينِ اللٌّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَنْ فِي
+> السَّمَاوَاتِ وَالأَرْضِ طَوْعاً وَكَرْهاً وَإِلَـيْهِ يُرْجَعُونَ
 
 ***“Is it then other than*** **Allāh’s religion** ***that they seek
 while to Him submits whoever is in the heavens and the Earth, willingly
 or unwillingly, and to Him shall they be returned?”***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ آمَنَّا بِاللٌّهِ وَمَا أُنْزِلَ عَلَيْنَا وَمَا أُنْـزِلَ عَلَى
-إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأَسْبَاطِ
-وَمَا أُوتِيَ مُوسَى وَعِيسَى وَالنَّبِيُّونَ مِنْ رَبِّهِمْ لاَ
-نُفَرِِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ آمَنَّا بِاللٌّهِ وَمَا أُنْزِلَ عَلَيْنَا وَمَا أُنْـزِلَ عَلَى
+> إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأَسْبَاطِ
+> وَمَا أُوتِيَ مُوسَى وَعِيسَى وَالنَّبِيُّونَ مِنْ رَبِّهِمْ لاَ
+> نُفَرِِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ
 
 ***“Say: “We*** **believe in** ***Allāh, and*** **what has been revealed
 to us,** ***and what was revealed to Ibrāhīm, Ismā’īl, Ishāq, Ya\`qūb,
@@ -515,12 +479,8 @@ and the Tribes; and what was given to Mūsā*** ***and \`Isā and to the
 prophets from their Lord. We do not make any distinction between (the
 claim of) any of them, and t*****o Him do we submit.”**
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَبْتَغِ غَيْرَ الإِسْلاَمِ دِيناً فَلَنْ يُقْبَلَ مِنْهُ
-وَهُوَ فِي الآخِرَةِ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ يَبْتَغِ غَيْرَ الإِسْلاَمِ دِيناً فَلَنْ يُقْبَلَ مِنْهُ
+> وَهُوَ فِي الآخِرَةِ مِنَ الْخَاسِرِينَ
 
 ***“And whoever desires*** **a religion other than Islām,** ***it shall
 not be accepted from him, and in the hereafter he shall be one of the
@@ -541,34 +501,22 @@ Prophet Muhammad (S).
 The following passage in Chapter Two of the Qur’ān further clarifies the
 meaning of “*islām*–submission” as well as “*imān*–belief”:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا كُونُوا هُوداً أَوْ نَصَارَى تَهْتَدُوا
-  </p>
-</blockquote>
+> وَقَالُوا كُونُوا هُوداً أَوْ نَصَارَى تَهْتَدُوا
 
 ***“And they say: “Be Jew or Christian and you will be guided
 aright.”***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفاً وَمَا كَانَ مِنَ
-الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفاً وَمَا كَانَ مِنَ
+> الْمُشْرِكِينَ
 
 ***“Say: “Nay! (we follow) the religion of Ibrāhīm, the sincere, and he
 was not one of the polytheists.”***
 
-<blockquote dir="rtl">
-  <p>
-قُولُوا آمَنَّا بِاللٌّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى
-إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأَسْبَاطِ
-وَمَا أُوتِيَ مُوسَى وَعِيسَى وَمَا أُوتِيَ النَّبِيُّونَ مِنْ
-رَبِّهِمْ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ
-مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُولُوا آمَنَّا بِاللٌّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى
+> إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأَسْبَاطِ
+> وَمَا أُوتِيَ مُوسَى وَعِيسَى وَمَا أُوتِيَ النَّبِيُّونَ مِنْ
+> رَبِّهِمْ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ
+> مُسْلِمُونَ
 
 ***“Say: “We*** **believe in** ***Allāh, and*** **what has been revealed
 to us,** ***and what was revealed to Ibrāhīm, Ismā’īl, Ishāq,***
@@ -576,13 +524,9 @@ to us,** ***and what was revealed to Ibrāhīm, Ismā’īl, Ishāq,***
 and to the prophets from their Lord. We do not make any distinction
 between (the claim of) any of them, and t*****o Him do we submit.”**
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنتُمْ بِهِ فَقَدْ اهْـتَدَوا وَإِنْ
-تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ فَسَيَكْفِيكَهُمْ اللٌّهُ
-وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنتُمْ بِهِ فَقَدْ اهْـتَدَوا وَإِنْ
+> تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ فَسَيَكْفِيكَهُمْ اللٌّهُ
+> وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 **“If they (i.e., the Jews and the Christians) then believe as you
 believe, then they are rightly guided;** ***but if they refuse, then
@@ -598,13 +542,9 @@ believe,” only then will they be rightly guided.
 
 Sūratul Baqarah (2), Verse 285 also confirms this meaning of *“imān”*:
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْـزِلَ إِلَيْهِ مِنْ رَبِّهِ
-وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللٌّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ
-وَرُسُلِهِ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْـزِلَ إِلَيْهِ مِنْ رَبِّهِ
+> وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللٌّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ
+> وَرُسُلِهِ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ
 
 ***“The Messenger (i.e., Muhammad) has believed in whatever that has
 been revealed to him from his Lord; and the believers all believe in
@@ -728,12 +668,8 @@ followers of various religions, especially the Jews and the Christians.
 
 While talking about polytheist parents, Almighty Allāh says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَاهَدَاكَ عَلى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ
-فَلاَ تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا
-  </p>
-</blockquote>
+> وَإِنْ جَاهَدَاكَ عَلى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ
+> فَلاَ تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا
 
 ***“And if they insist on you to associate with Me (someone as on object
 of worship) of what you have no*** ***knowledge, then do not obey them,
@@ -815,5 +751,4 @@ Tehran University Press, n.d.) p. 480-482.
 [^16]: Ibid, p. 483- 494.
 
 [^17]: Al-Qur'ān, Sūrat Luqmān (31), Verse 15
-
 

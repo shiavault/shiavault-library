@@ -58,4 +58,3 @@ Allah, Lord of the Worlds.
 [^1]: These verses were composed by the authority shaikh Muhammad Husayn
 al-Isfahani.
 
-

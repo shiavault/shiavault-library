@@ -262,4 +262,3 @@ al-Mu’tazz.
 
 [^12]: Al-Aghani, Vol. 9, p. 46.
 
-

@@ -121,4 +121,3 @@ study the account of the Battle of Hunayn.
 
 [^4]: Pg. 1579
 
-

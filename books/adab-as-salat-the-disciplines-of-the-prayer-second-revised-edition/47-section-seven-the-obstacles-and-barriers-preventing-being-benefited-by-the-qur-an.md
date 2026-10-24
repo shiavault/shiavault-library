@@ -385,4 +385,3 @@ as quoted from Ikmāl ad-Dīn (Completing the Religion).
 
 [^16]: Sūrah al-Mā'idah 5:15-16
 
-

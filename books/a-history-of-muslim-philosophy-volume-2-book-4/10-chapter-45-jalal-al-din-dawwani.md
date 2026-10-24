@@ -285,4 +285,3 @@ Arabischen Litteratur*, 2nd edn., Leiden, 1943, *Suppl.*, 1937.
 
 [^11]: Al-Zaura, p. 116.
 
-

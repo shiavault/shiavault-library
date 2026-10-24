@@ -8,19 +8,11 @@ Dhi\`lib al-Yamami has related from Ahmad ibn Qutaybah, and he from
 with Amir al-mu'minin when discussion arose about the differences of men
 (in features and conduct) and then Amir al-mu'minin said":
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-روى اليماني، عن أحمد بن قتيبة، عن عبدالله بن يزيد، عن مالك بن
-دِحْيَةَ، قال: كنّا عند أميرالمؤمنين (عليه السلام)، وقد ذكر عنده
-اختلاف الناس فقل ـ :
-  </p>
-</blockquote>
+> روى اليماني، عن أحمد بن قتيبة، عن عبدالله بن يزيد، عن مالك بن
+> دِحْيَةَ، قال: كنّا عند أميرالمؤمنين (عليه السلام)، وقد ذكر عنده
+> اختلاف الناس فقل ـ :
 
 They differ among themselves because of the sources [^1] of their clay
 (from which they have been created). This is because they are either
@@ -33,19 +25,15 @@ person is far-sighted, a good-natured person has an evil trait, a person
 of perplexed heart has bewildering mind and a sharp-tongued person has a
 wakeful heart.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا فَرَّقَ بَيْنَهُمْ مَبَادِىءُ طِينِهِمْ، وَذلِكَ أَنَّهُمْ
-كَانُوا فِلْقَةً مِنْ سَبَخِ أَرْض وَعَذْبِهَا، وَحَزْنِ تُرْبَة
-وَسَهْلِهَا، فَهُمْ عَلَى حَسَبِ قُرْبِ أَرْضِهِمْ يَتَقَارَبُونَ،
-وَعَلَى قَدْرِ اخْتِلاَفِهَا يَتَفَاوَتُونَ، فَتَامُّ الرُّوَاءِ
-نَاقِصُ الْعَقْلِ، وَمَادُّ الْقَامَةِ قَصِيرُ الْهِمَّةِ، وَزَاكِي
-الْعَمَلِ قَبِيحُ المَنْظَرِ، وَقَرِيبُ الْقَعْرِ بَعِيدُ
-السَّبْرِ،مَعْرُوفُ الضَّرِيبَةِ مُنْكَرُ الْجَلِيبَةِ، وَتَائِهُ
-الْقَلْبِ مُتَفَرِّقُ اللُّبِّ، وَطَلِيقُ اللِّسَانِ حدِيدُ
-الْجَنَانِ.
-  </p>
-</blockquote>
+> إِنَّمَا فَرَّقَ بَيْنَهُمْ مَبَادِىءُ طِينِهِمْ، وَذلِكَ أَنَّهُمْ
+> كَانُوا فِلْقَةً مِنْ سَبَخِ أَرْض وَعَذْبِهَا، وَحَزْنِ تُرْبَة
+> وَسَهْلِهَا، فَهُمْ عَلَى حَسَبِ قُرْبِ أَرْضِهِمْ يَتَقَارَبُونَ،
+> وَعَلَى قَدْرِ اخْتِلاَفِهَا يَتَفَاوَتُونَ، فَتَامُّ الرُّوَاءِ
+> نَاقِصُ الْعَقْلِ، وَمَادُّ الْقَامَةِ قَصِيرُ الْهِمَّةِ، وَزَاكِي
+> الْعَمَلِ قَبِيحُ المَنْظَرِ، وَقَرِيبُ الْقَعْرِ بَعِيدُ
+> السَّبْرِ،مَعْرُوفُ الضَّرِيبَةِ مُنْكَرُ الْجَلِيبَةِ، وَتَائِهُ
+> الْقَلْبِ مُتَفَرِّقُ اللُّبِّ، وَطَلِيقُ اللِّسَانِ حدِيدُ
+> الْجَنَانِ.
 
 Alternative Sources for Sermon 233
 ----------------------------------
@@ -109,5 +97,4 @@ This tinah is not the cause of his actions so as to snatch away from him
 his free will but the meaning of creating from suitable tinah is that
 Allah does not by force stand in man's way but allows him to tread the
 path he wants to tread of his own free will.
-
 

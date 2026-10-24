@@ -6,17 +6,13 @@ the Sahabah used to consider Amir al-Muminin, *‘alaihi al-salam*, to be
 superior to Abu Bakr during the lifetime of the Prophet, *sallallahu
 ‘alaihi wa alihi*. So, he fights back:
 
-<blockquote dir="rtl">
-  <p>
-الشيعة الأولى أصحاب علي لم يكونوا يرتابون في تقديم أبي بكر وعمر عليه
-كيف وقد ثبت عن علي من وجوه متواترة أنه كان يقول خير هذه الأمة بعد
-نبيها أبو بكر وعمر ولكن كان طائفة من شيعة علي تقدمه على عثمان وهذه
-المسألة أخفى من تلك ولهذا كان أئمة أهل السنة كلهم متفقين على تقديم أبي
-بكر وعمر من وجوه متواترة كما هو مذهب أبي حنيفة والشافعي ومالك وأحمد بن
-حنبل والثوري والأوزاعي والليث بن سعد وسائر أئمة المسلمين من أهل الفقه
-والحديث والزهد والتفسير من المتقدمين والمتأخرين
-  </p>
-</blockquote>
+> الشيعة الأولى أصحاب علي لم يكونوا يرتابون في تقديم أبي بكر وعمر عليه
+> كيف وقد ثبت عن علي من وجوه متواترة أنه كان يقول خير هذه الأمة بعد
+> نبيها أبو بكر وعمر ولكن كان طائفة من شيعة علي تقدمه على عثمان وهذه
+> المسألة أخفى من تلك ولهذا كان أئمة أهل السنة كلهم متفقين على تقديم أبي
+> بكر وعمر من وجوه متواترة كما هو مذهب أبي حنيفة والشافعي ومالك وأحمد بن
+> حنبل والثوري والأوزاعي والليث بن سعد وسائر أئمة المسلمين من أهل الفقه
+> والحديث والزهد والتفسير من المتقدمين والمتأخرين
 
 **The early Shi’is, the companions of ‘Ali, did not doubt the
 superiority of Abu Bakr and ‘Umar over him**. How can they when it has
@@ -46,15 +42,11 @@ than ‘Ali in the Sight of Allah.
 So, did Ibn Mas’ud tell a lie? We will soon find out which party is
 telling the truth, and which is not. Our Shaykh proceeds:
 
-<blockquote dir="rtl">
-  <p>
-وقد ثبت في الصحيحين عن عبد الله بن عمر قال كنا نفاضل على عهد رسول الله
-صلى الله عليه و سلم أبو بكر ثم عمر ثم عثمان وفي لفظ ثم ندع أصحاب النبي
-صلى الله عليه و سلم لا نفاضل بينهم فهذا إخبار عما كان عليه الصحابة على
-عهد النبي صلى الله عليه و سلم من تفضيل أبي بكر ثم عمر ثم عثمان وقد روى
-أن ذلك كان يبلغ النبي صلى الله عليه و سلم فلا ينكره
-  </p>
-</blockquote>
+> وقد ثبت في الصحيحين عن عبد الله بن عمر قال كنا نفاضل على عهد رسول الله
+> صلى الله عليه و سلم أبو بكر ثم عمر ثم عثمان وفي لفظ ثم ندع أصحاب النبي
+> صلى الله عليه و سلم لا نفاضل بينهم فهذا إخبار عما كان عليه الصحابة على
+> عهد النبي صلى الله عليه و سلم من تفضيل أبي بكر ثم عمر ثم عثمان وقد روى
+> أن ذلك كان يبلغ النبي صلى الله عليه و سلم فلا ينكره
 
 It has been authentically transmitted in the two *Sahihs* from ‘Abd
 Allah b. ‘Umar that he said: “We used to consider Abu Bakr to be the
@@ -76,14 +68,10 @@ determine which of them reflects the true story.
 
 Imam al-Bukhari (d. 256 H) has documented the submission of Ibn ‘Umar:
 
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن حاتم بن بزيغ حدثنا شاذان حدثنا عبد العزيز ابن أبي سلمة
-الماجشون عن عبيد الله عن نافع عن ابن عمر رضي الله عنهما قال : كنا في
-زمن النبي صلى الله عليه و سلم لا نعدل بأبي بكر أحدا ثم عمر ثم عثمان ثم
-نترك أصحاب النبي صلى الله عليه و سلم لا نفاضل بينهم .
-  </p>
-</blockquote>
+> حدثني محمد بن حاتم بن بزيغ حدثنا شاذان حدثنا عبد العزيز ابن أبي سلمة
+> الماجشون عن عبيد الله عن نافع عن ابن عمر رضي الله عنهما قال : كنا في
+> زمن النبي صلى الله عليه و سلم لا نعدل بأبي بكر أحدا ثم عمر ثم عثمان ثم
+> نترك أصحاب النبي صلى الله عليه و سلم لا نفاضل بينهم .
 
 Muhammad b. Hatim b. Bazig – Shadhan – ‘Abd al-‘Aziz b. Abi Salamah
 al-Majishun – ‘Ubayd Allah – Nafi’ – Ibn ‘Umar, may Allah be pleased
@@ -102,14 +90,10 @@ al-Muminin ‘Ali, as it places him on the same level with *all* other
 Sahabah, apart from the three *khalifahs*. Al-Bukhari has even
 *attributed* a similar report to him:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن كثير أخبرنا سفيان حدثنا جامع بن أبي راشد حدثنا أبو يعلى
-عن محمد ابن الحنفية قال : قلت لأبي أي الناس خير بعد رسول الله صلى الله
-عليه و سلم ؟ قال أبو بكر قلت ثم من ؟ قال ثم عمر وخشيت أن يقول عثمان
-قلت ثم أنت ؟ قال ما أنا إلا رجل من المسلمين
-  </p>
-</blockquote>
+> حدثنا محمد بن كثير أخبرنا سفيان حدثنا جامع بن أبي راشد حدثنا أبو يعلى
+> عن محمد ابن الحنفية قال : قلت لأبي أي الناس خير بعد رسول الله صلى الله
+> عليه و سلم ؟ قال أبو بكر قلت ثم من ؟ قال ثم عمر وخشيت أن يقول عثمان
+> قلت ثم أنت ؟ قال ما أنا إلا رجل من المسلمين
 
 Muhammad b. Kathir – Sufyan – Jami’ b. Abi Rashid – Abu Ya’la – Muhammad
 b. al-Hanafiyyah:
@@ -124,14 +108,10 @@ opinions of Abu Bakr and ‘Umar! Imam Muslim (d. 261 H), for instance,
 quotes the second *khalifah* saying to both Amir al-Muminin ‘Ali and
 ‘Abbas:
 
-<blockquote dir="rtl">
-  <p>
-فلما توفي رسول الله صلى الله عليه و سلم قال أبو بكر أنا ولي رسول الله
-صلى الله عليه و سلم .... فرأيتماه كاذبا آثما غادرا خائنا والله يعلم
-إنه لصادق بار راشد تابع للحق ثم توفي أبو بكر وأنا ولي رسول الله صلى
-الله عليه و سلم وولي أبا بكر فرأيتماني كاذبا آثما غادرا خائنا
-  </p>
-</blockquote>
+> فلما توفي رسول الله صلى الله عليه و سلم قال أبو بكر أنا ولي رسول الله
+> صلى الله عليه و سلم .... فرأيتماه كاذبا آثما غادرا خائنا والله يعلم
+> إنه لصادق بار راشد تابع للحق ثم توفي أبو بكر وأنا ولي رسول الله صلى
+> الله عليه و سلم وولي أبا بكر فرأيتماني كاذبا آثما غادرا خائنا
 
 When the Messenger of Allah, peace be upon him, died, **Abu Bakr said:
 “I am the** ***wali*** **of the Messenger of Allah, peace be upon
@@ -163,14 +143,10 @@ believed in the superiority of Abu Bakr, then his father ‘Umar, and then
 *khilafah* of ‘Ali b. Abi Talib, citing a self-made excuse, as al-Hafiz
 (d. 852 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-وإنما لم يذكر ابن عمر خلافة علي لأنه لم يبايعه لوقوع الاختلاف عليه كما
-هو مشهور في صحيح الاخبار وكان رأى أنه لا يبايع لمن لم يجتمع عليه الناس
-ولهذا لم يبايع أيضا لابن الزبير ولا لعبد الملك في حال اختلافهما وبايع
-ليزيد بن معاوية ثم لعبد الملك بن مروان بعد قتل بن الزبير
-  </p>
-</blockquote>
+> وإنما لم يذكر ابن عمر خلافة علي لأنه لم يبايعه لوقوع الاختلاف عليه كما
+> هو مشهور في صحيح الاخبار وكان رأى أنه لا يبايع لمن لم يجتمع عليه الناس
+> ولهذا لم يبايع أيضا لابن الزبير ولا لعبد الملك في حال اختلافهما وبايع
+> ليزيد بن معاوية ثم لعبد الملك بن مروان بعد قتل بن الزبير
 
 **Ibn ‘Umar did not mention the** ***khilafah*** **of ‘Ali only because
 he did not give** ***bay’ah*** **(oath of allegiance) to the latter**,
@@ -193,14 +169,10 @@ anyone among themselves as superior to another - apart from Abu Bakr,
 ‘Umar and ‘Uthman - lacks truth! The reality is far different. For
 instance, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-لا يستوي القاعدون من المؤمنين غير أولي الضرر والمجاهدون في سبيل الله
-بأموالهم وأنفسهم فضل الله المجاهدين بأموالهم وأنفسهم على القاعدين درجة
-وكلا وعد الله الحسنى وفضل الله المجاهدين على القاعدين أجرا عظيما درجات
-منه
-  </p>
-</blockquote>
+> لا يستوي القاعدون من المؤمنين غير أولي الضرر والمجاهدون في سبيل الله
+> بأموالهم وأنفسهم فضل الله المجاهدين بأموالهم وأنفسهم على القاعدين درجة
+> وكلا وعد الله الحسنى وفضل الله المجاهدين على القاعدين أجرا عظيما درجات
+> منه
 
 Not equal are those of the believers who sit (i.e. do not participate in
 *jihad*) - except those who are disabled - and those who do *jihad* in
@@ -229,13 +201,9 @@ away from *jihad*?
 
 The Qur’an adds:
 
-<blockquote dir="rtl">
-  <p>
-وما لكم ألا تنفقوا في سبيل الله ولله ميراث السماوات والأرض لا يستوي
-منكم من أنفق من قبل الفتح وقاتل أولئك أعظم درجة من الذين أنفقوا من بعد
-وقاتلوا وكلا وعد الله الحسنى والله بما تعملون خبير
-  </p>
-</blockquote>
+> وما لكم ألا تنفقوا في سبيل الله ولله ميراث السماوات والأرض لا يستوي
+> منكم من أنفق من قبل الفتح وقاتل أولئك أعظم درجة من الذين أنفقوا من بعد
+> وقاتلوا وكلا وعد الله الحسنى والله بما تعملون خبير
 
 And what is the matter with you that you do not spend in the Way of
 Allah? And to Allah belongs the heritage of the heavens and the earth.
@@ -278,5 +246,4 @@ edition), vol. 5, p. 18
 [^7]: Qur’an 4:95-96
 
 [^8]: Qur’an 57:10
-
 

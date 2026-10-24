@@ -467,4 +467,3 @@ prayers, Hazrat Isa (a.s) will be behind him.
 
 Lets all pray for the reappearance of Imam al-Mahdi (a.s).
 
-

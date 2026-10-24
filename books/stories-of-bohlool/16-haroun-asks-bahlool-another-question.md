@@ -47,4 +47,3 @@ days in a month, which are half day and half night.”
 
 All those present praised Bahlool.
 
-

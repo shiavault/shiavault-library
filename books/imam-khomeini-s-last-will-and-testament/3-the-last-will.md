@@ -10,4 +10,3 @@ respectable jurisprudents of the Council of Guardians.
 
 **Ruhollah al-Mousavi al-Khomeini**
 
-

@@ -100,7 +100,6 @@ the party of Allah will be victorious."
 Sunni reference: Tafsir al-Kabir, by al-Tha'labi under the commentary
 of verses 5:55-56 of Quran.
 
-
 **A few comments by the other Commentators**
 
 Allama al-Tabarsi, while commenting on this verse in Majma' al-Bayan
@@ -126,7 +125,6 @@ Sunni reference: Tafsir al-Kashshaf, by al-Zamakhshari, v1, p649
 
 Please refer to the Part II of the article of Ghadir Khum for further
 argument in this regard.
-
 
 **Who is the successor of the Prophet (PBUH&HF)?**
 
@@ -236,5 +234,4 @@ does not assign his deputy/successor, and it is rather Allah who does
 that. Prophet Moses prayed to Allah and requested that Aaron becomes his
 deputy, and Allah approved the suggestion/request of Prophet Moses
 (AS).
-
 

@@ -33,4 +33,3 @@ narrating from Khesaal, Mikyaal al-Makaarim, vol. 1, p.101, 247.
 [^5]: (Surah Baqarah: Verse 261; E’qd al-Dorar, p. 159; Al-Malaahem wa
 al-Fetan, Chapter 204, p. 97.)
 
-

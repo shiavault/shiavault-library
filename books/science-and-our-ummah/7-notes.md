@@ -84,4 +84,3 @@ of facilities.
 [^33]. Shaykh Mahmud Shaltut, Tafsir al-Qur an al-karim, chapter
 11,11:14.
 
-

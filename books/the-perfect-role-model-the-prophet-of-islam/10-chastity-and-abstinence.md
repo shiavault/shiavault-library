@@ -35,4 +35,3 @@ anything).[^2]"
 
 [^2]: Makarim al-Akhlaq, vol. 1, p. 17.
 
-

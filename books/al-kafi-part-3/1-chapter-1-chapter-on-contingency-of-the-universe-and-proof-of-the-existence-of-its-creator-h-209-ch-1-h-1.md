@@ -442,4 +442,3 @@ proof of His existence in what the people speak and what the messengers
 have brought and what he has revealed to people as proof of His Own
 existence."
 
-

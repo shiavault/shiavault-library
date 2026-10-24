@@ -287,4 +287,3 @@ poor. If the owner later on turns up, and if he does not approve the
 Sadaqah which was given, as a precaution, he must give him a
 replacement.
 
-

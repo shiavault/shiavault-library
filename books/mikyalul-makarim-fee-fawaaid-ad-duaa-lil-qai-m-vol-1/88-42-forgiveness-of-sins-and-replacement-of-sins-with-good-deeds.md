@@ -27,4 +27,3 @@ of Allah and remembrance of our enemies is remembrance of Shaitan.”[^2]
 
 [^2]: Wasailush Shia, Vol. 4, Pg. 1180; Kafi; Vol. 2, Pg. 496
 
-

@@ -236,4 +236,3 @@ tend to know more about Imam Hussein (a.s.), he can refer to the books
 which dealt with his life. He will find out himself how deep and great
 were Imam Hussein's (a.s.) thought and faith.(22)
 
-

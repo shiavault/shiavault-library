@@ -7,17 +7,12 @@ Imam, he must be called a liar, he must be introduced to the community
 at large as a liar and one who commits fraud and deceit! In this
 regards, Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَخْـبَرَكَ عَنَّا تَوْقِيتاً بِوَقْتٍ لاَ تَهَابَنَّ أَنْ
-تُكَذِّبَهُ فَإِنَّا لاَ نُوَقِّتُ لِأَحَدٍ وَقْتاً
-  </p>
-</blockquote>
+> مَنْ أَخْـبَرَكَ عَنَّا تَوْقِيتاً بِوَقْتٍ لاَ تَهَابَنَّ أَنْ
+> تُكَذِّبَهُ فَإِنَّا لاَ نُوَقِّتُ لِأَحَدٍ وَقْتاً
 
 “Whoever reports to you from us regarding a specified time (for the
 advent of the Imam), do not hesitate to belie him, for we have never
 specified the time (of the advent) to anyone!”[^1]
 
 [^1]: al-Ghaybah of Nu’mani, pg. 289, no. 3
-
 

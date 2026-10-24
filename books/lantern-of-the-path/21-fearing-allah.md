@@ -21,5 +21,3 @@ someone who takes the faith lightly. Do not question knowledge which
 your heart has no capacity for, and which you will not understand, of
 whoever said it, and cut off anyone who cuts you off from Allah.
 
-
-

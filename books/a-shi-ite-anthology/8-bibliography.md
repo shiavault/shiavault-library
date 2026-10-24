@@ -70,4 +70,3 @@ al-Saduq, *al-Tawhid*, ed. by Hashim al-Husayni al-Tahrani, Tehran,
  al-Shirazi, al-Sayyid 'Alikhan, *Talkhis al-riyad*, vol. I, Tehran,
 1381/1961-2.
 
-

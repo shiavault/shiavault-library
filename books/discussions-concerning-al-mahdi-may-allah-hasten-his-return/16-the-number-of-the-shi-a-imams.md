@@ -106,4 +106,3 @@ accordance to what is in the extant Torah and Bible, the precedent of
 this belief has roots in Divine religions previous to Islam and in the
 Old and New Testaments.
 
-

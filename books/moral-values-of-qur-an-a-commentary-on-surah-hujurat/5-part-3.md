@@ -1,13 +1,9 @@
 Part 3
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
-أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ
-مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
+> أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ
+> مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ﴾
 
 ***Surely those who lower their voices before Allah’s Apostle are they
 whose hearts Allah has tested for guarding (against evil); they shall
@@ -125,13 +121,9 @@ Holy Prophet is enough to show their greatness. This is a disgrace, not
 gracefulness. Disrespect has been shown to the holy grave. Their place
 was certainly not here. The next verse says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
-أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ
-مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
+> أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ
+> مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ﴾
 
 ***Surely, those who lower their voices before Allah’s Apostle are they
 whose hearts Allah has tested for guarding (against evil); they shall
@@ -159,11 +151,7 @@ perform prayer passes away from this world as a disbeliever. One who
 does not pray does not get the intercession of the Holy Prophet and the
 Ahle Bait. Whoever does not pray will burn in hellfire, as Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿…مَا سَلَكَكُمْ فِي سَقَرَ؟ قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ.﴾
-  </p>
-</blockquote>
+> ﴿…مَا سَلَكَكُمْ فِي سَقَرَ؟ قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ.﴾
 
 ***How is that they brought you to hellfire? They reply: We did not
 pray.***
@@ -248,12 +236,8 @@ place with extreme precision. This is not so for the last sixty years
 but it might be for the last sixty thousand years and may continue for
 thousands of years. So say:
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ أكْبَرُ، تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ، ذَلِكَ
-تَقْدِيرُ العَزِيزِ الحَكِيمِ.
-  </p>
-</blockquote>
+> اَللهُ أكْبَرُ، تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ، ذَلِكَ
+> تَقْدِيرُ العَزِيزِ الحَكِيمِ.
 
 **Allah is the greatest. Blessed be Allah the best of creators. This is
 the will of the most powerful and the wise.**
@@ -347,12 +331,8 @@ before the Holy Qur’an, as it is God’s Word. But, if, God forbid, there
 is no piety in heart then he has no regard and respect for God and
 everything related to God.
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
-أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
+> أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى﴾
 
 ***Surely those who lower their voices before Allah’s Apostle are they
 whose hearts Allah has tested for guarding (against evil)... (49:3)***
@@ -376,11 +356,7 @@ You say visiting the Holy Prophet’s grave is not permitted! All this is
 because of lack of piety in heart. God has given the piety of heart to
 you Shias and may he multiply it manifold.
 
-<blockquote dir="rtl">
-  <p>
-﴿…أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى﴾
-  </p>
-</blockquote>
+> ﴿…أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى﴾
 
 ***…are they whose hearts Allah has tested for guarding (against
 evil)…***
@@ -425,5 +401,4 @@ still a child even at the age of ninety.
 [^1]: Usul al-Kafi, Tafsir Durre Manthur, vol. 5; pg. 80.
 
 [^2]: Manazelul Aakherah
-
 

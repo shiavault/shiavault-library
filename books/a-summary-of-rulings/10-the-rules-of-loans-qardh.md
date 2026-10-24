@@ -108,4 +108,3 @@ hundred and ten dollars after a month, it is interest and forbidden.
 debt obligatory upon him without waiting for the time period (to
 expire). It is permissible for the lenders to seek their debt.
 
-

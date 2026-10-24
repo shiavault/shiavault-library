@@ -218,4 +218,3 @@ al-Rahim al-\`Abbasi (a man of honour, who authored the book Ma\`ahid
 al-tan’Ii’I fi Sharh Abyat al-Talkhi’I), has instigated and convinced
 the Sultan to execute the man, the act which he did. (Ibid.)
 
-

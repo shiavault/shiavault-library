@@ -25,11 +25,7 @@ will of Allah].
 chosen servant, for verily you will never go astray with submission.
 
 > 5ـ سَلِّمُوا لأمْرِ اللّهِ، وَلاِمْرِ وَلِيِّهِ، فَإنَّكُمْ لَنْ
-<blockquote dir="rtl">
-  <p>
-تَضِلُّوا مَعَ التَّسْليمِ.
-  </p>
-</blockquote>
+> تَضِلُّوا مَعَ التَّسْليمِ.
 
 6. The end result of [complete] submission [to the will of Allah] is
 success in reaching the Abode of Bounties.
@@ -44,11 +40,7 @@ success in reaching the Abode of Bounties.
 Prophet and the one vested with His authority.
 
 > 8ـ هُدِيَ مَنْ سَلَّمَ مَقادَتَهُ إلَى اللّهِ وَ رَسُوْلِهِ وَ وَلِيِّ
-<blockquote dir="rtl">
-  <p>
-أمْرِِهِ.
-  </p>
-</blockquote>
+> أمْرِِهِ.
 
 9. There is no faith better than surrendering to the will of Allah.
 
@@ -70,5 +62,4 @@ Prophet and the one vested with His authority.
 whoever wages war with Allah will be destroyed by Him.
 
 > 13ـ مَنْ سالَمَ اللّهَ سَلَّمَهُ وَمَنْ حارَبَ اللّهَ حَرَبَهُ.
-
 

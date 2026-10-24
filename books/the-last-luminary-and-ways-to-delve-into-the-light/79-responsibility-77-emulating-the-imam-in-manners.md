@@ -26,4 +26,3 @@ act which is one of the specific qualities of the twelfth Imam (ajtf).
 We must seek to stay aloof from the material world and develop a desire
 and longing for the next life.
 
-

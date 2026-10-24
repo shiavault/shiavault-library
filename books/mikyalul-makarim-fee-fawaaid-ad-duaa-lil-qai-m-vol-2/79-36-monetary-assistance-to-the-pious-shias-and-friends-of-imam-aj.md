@@ -28,4 +28,3 @@ will be noted in his account.[^2]
 
 [^2]: Tahdhib, Shaykh Tusi, Vol. 6, Pg. 104
 
-

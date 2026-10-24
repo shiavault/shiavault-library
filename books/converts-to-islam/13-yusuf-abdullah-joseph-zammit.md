@@ -51,7 +51,7 @@ whole years when I started to see similarities in the teachings to Sufi
 teachings, which I kept interested in. This was very interesting and I
 started investigating further the issue. I found out, to my amazement
 and satisfaction, that the Path was influenced, way back in the
-16<sup>th</sup> century, by Sufi teachings and mysticism. Interest again
+16th century, by Sufi teachings and mysticism. Interest again
 flared up within me regarding the Sufis and so decided to go back to the
 roots of it, therefore studying more deeply the Sufi Way, which more and
 more was influencing me. The great obstacle was that real Sufis were
@@ -73,7 +73,7 @@ enough to embrace Islam on Laylat-u-l-Qadr in year 2000. My studies of
 Sufis became deeper and I made contact with a couple of Tariqas,
 employing their daily wasifas and dhikr.
 
-<span style="font-style: normal">AFTERTHOUGHT</span>
+AFTERTHOUGHT
 ----------------------------------------------------
 
 Here I must emphasise the real cause behind my whole life. Since

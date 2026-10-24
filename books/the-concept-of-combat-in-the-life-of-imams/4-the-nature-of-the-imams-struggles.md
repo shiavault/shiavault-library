@@ -46,4 +46,3 @@ doubts that their movement had a political orientation.
 
 [^1]: Bihar-ul-Anwar, Vol. 42, P. 61
 
-

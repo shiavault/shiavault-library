@@ -93,13 +93,9 @@ disgrace is worse than disgracing of my father?[^4]
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ
-وَعَدَهَا إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِّلَّـهِ
-تَبَرَّأَ مِنْهُ ۚإِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ
-  </p>
-</blockquote>
+> وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ
+> وَعَدَهَا إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِّلَّـهِ
+> تَبَرَّأَ مِنْهُ ۚإِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ
 
 ***And Ibrahim asking forgiveness for his sire was only owing to a
 promise which he had made to him; but when it became clear to him that
@@ -140,12 +136,8 @@ to ask for Allah’s forgiveness for disbelievers.
 Speaking concerning this issue, Fakhr Razi says: Elsewhere in another
 verse, the Holy Quran mentions:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا
-لِلْمُشْرِكِينَ
-  </p>
-</blockquote>
+> مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا
+> لِلْمُشْرِكِينَ
 
 ***It is not fit for the Prophet and those who believe that they should
 ask forgiveness for pagans.*** [^7]
@@ -166,23 +158,15 @@ It is, however, noteworthy that both these point are close to one
 another in terms of meaning. Allah determines the cause of this
 prohibition in the concluding part of this very verse, as He says:
 
-<blockquote dir="rtl">
-  <p>
-من بعد ما تبين لهم انهم اصحاب الجحييم
-  </p>
-</blockquote>
+> من بعد ما تبين لهم انهم اصحاب الجحييم
 
 ***After it has become clear to them that they are the inmates of the
 flaming fire…***[^8]
 
 Elsewhere the Holy Qur’an mentions:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّـهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَٰلِكَ
-  </p>
-</blockquote>
+> إِنَّ اللَّـهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَٰلِكَ
 
 ***Allah does not forgive that anything should be associated with him
 and forgives what is beside that to whomsoever He pleases.*** [^9]
@@ -198,21 +182,13 @@ the decline of the position of a prophet.
 
 Allah the Glorious says:
 
-<blockquote dir="rtl">
-  <p>
-ادعونى اسجب لکم
-  </p>
-</blockquote>
+> ادعونى اسجب لکم
 
 ***Call upon Me I will answer you.*** [^10]
 
 On the other hand, He says:
 
-<blockquote dir="rtl">
-  <p>
-انهم اصحاب الجحيم
-  </p>
-</blockquote>
+> انهم اصحاب الجحيم
 
 ***They are surely the inmates of flaming fire.*** [^11]
 
@@ -255,12 +231,8 @@ misery of his father as his own misery?
 Another scholar says that the tradition mentioned above is in
 contradiction with the Allah’s words. Allah mentions:
 
-<blockquote dir="rtl">
-  <p>
-و ما كان استغفار ابراهيم لابية الا عن موعده وعدها اياه فلما تبين له
-انه عدو لله تأ تبرا منه
-  </p>
-</blockquote>
+> و ما كان استغفار ابراهيم لابية الا عن موعده وعدها اياه فلما تبين له
+> انه عدو لله تأ تبرا منه
 
 And Ibrahim asking forgiveness for his sire was only owing to a promise
 which he had made to him; but when it became clear to him that he was an
@@ -411,11 +383,7 @@ these traditions in his Al-Durr Al-Manthur.
 
 Commenting on,
 
-<blockquote dir="rtl">
-  <p>
-...فلما تبيين له
-  </p>
-</blockquote>
+> ...فلما تبيين له
 
 Qutada as quoted by Ibn Jarir and Ibn Abu Hatam, says: As Azer was
 dying, Ibrahim (a.s) learnt that it was no longer possible for him to
@@ -446,12 +414,8 @@ corpse while Allah has forbidden you from doing it?
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-انما اخبرنى الله فقال: "استغفر لهم او لا تستففر لهم سبعين مره " و
-سأزيده على السبعين
-  </p>
-</blockquote>
+> انما اخبرنى الله فقال: "استغفر لهم او لا تستففر لهم سبعين مره " و
+> سأزيده على السبعين
 
 ***Allah has allowed me to do or not to do it saying: “Ask forgiveness
 for them or do not ask forgiveness for them. Even if you ask forgiveness
@@ -463,11 +427,7 @@ Umar said: But Abdullah Bin Ubai is a hypocrite!
 Ibn Umar says that despite all these the Holy Prophet (S) prayed on the
 corpse of Abdullah Bin Ubai and thus the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-ولاتصل على احد منهم مات ابدا ولا تقم على قبره
-  </p>
-</blockquote>
+> ولاتصل على احد منهم مات ابدا ولا تقم على قبره
 
 And never offer prayer for anyone of them who dies and do not stand by
 his grave…[^20]
@@ -900,11 +860,7 @@ affect the lawfulness of eating the meat such animals – proposed by
 previous religions until after the advent of Islam the following verse
 was revealed:
 
-<blockquote dir="rtl">
-  <p>
-و لا تأكلوا مما لم يذكر اسم الله عليه
-  </p>
-</blockquote>
+> و لا تأكلوا مما لم يذكر اسم الله عليه
 
 ***And do not eat of that on which Allah’s name has not been
 mentioned.*** [^36]
@@ -1084,21 +1040,13 @@ is charity. Thus the wealth he left behind is under my control.
 [To prove his point of view], Imam Ali (a.s) appealed to two Qur’anic
 verses which are:
 
-<blockquote dir="rtl">
-  <p>
-ووررث سلیمان داوود
-  </p>
-</blockquote>
+> ووررث سلیمان داوود
 
 ***And Sulaiman is the heir of Dawood.*** [^45]
 
 And Zakaria said:
 
-<blockquote dir="rtl">
-  <p>
-يرثنى و يرث من ال يعقوب
-  </p>
-</blockquote>
+> يرثنى و يرث من ال يعقوب
 
 ***(One that) will (truly) inherit me and inherit the posterity of
 Jacob.*** [^46]
@@ -1124,11 +1072,7 @@ Our souls are in the hands of Allah and if He wants us to get up He will
 make us get up." When I said that, he left us without saying anything
 and I heard that he was hitting his thigh and saying:
 
-<blockquote dir="rtl">
-  <p>
-و كان الانسان اكثر شىء جدلا
-  </p>
-</blockquote>
+> و كان الانسان اكثر شىء جدلا
 
 ***But man is more quarrelsome than anything.*** [^48]& [^49]
 
@@ -1232,11 +1176,7 @@ because only those who are skeptic and impious shirk acts of worship.
 Imam Ali (a.s) was at the top of certainty and that is why he openly
 declared:
 
-<blockquote dir="rtl">
-  <p>
-لو کشف الغطاء ما ازددت یقینا
-  </p>
-</blockquote>
+> لو کشف الغطاء ما ازددت یقینا
 
 If the all the veils are removed I will gain no more certainty.
 
@@ -1284,47 +1224,19 @@ of Judgment.
 
 Thereupon he narrates the following poems about Imam Ali (a.s) [^54]:
 
-<blockquote dir="rtl">
-  <p>
-هذى المزاما بعض ما حلى بها ---- و حبى من الخرات و البركات
-  </p>
-</blockquote>
+> هذى المزاما بعض ما حلى بها ---- و حبى من الخرات و البركات
 
-<blockquote dir="rtl">
-  <p>
-و له وظائف طاعه اورادها ---- معموره الاناء و الاوقات
-  </p>
-</blockquote>
+> و له وظائف طاعه اورادها ---- معموره الاناء و الاوقات
 
-<blockquote dir="rtl">
-  <p>
-بعباده و زهاده و تورع ---- و تخشع و تدرع الاحبات
-  </p>
-</blockquote>
+> بعباده و زهاده و تورع ---- و تخشع و تدرع الاحبات
 
-<blockquote dir="rtl">
-  <p>
-و تقلل و توكل و تفكر ---- و تدبر و تذكر المثلاث
-  </p>
-</blockquote>
+> و تقلل و توكل و تفكر ---- و تدبر و تذكر المثلاث
 
-<blockquote dir="rtl">
-  <p>
-و اذا الظلام سجى يناجى ربه ---- متضرعا بالذكر و الدعوات
-  </p>
-</blockquote>
+> و اذا الظلام سجى يناجى ربه ---- متضرعا بالذكر و الدعوات
 
-<blockquote dir="rtl">
-  <p>
-علم علت درجاته و فضائل ---- شرقت معارجها على الشرقات
-  </p>
-</blockquote>
+> علم علت درجاته و فضائل ---- شرقت معارجها على الشرقات
 
-<blockquote dir="rtl">
-  <p>
-و مناقب نطقت بها اى الكتاب ---- و حسبها ان جاء شاهدها من الايات
-  </p>
-</blockquote>
+> و مناقب نطقت بها اى الكتاب ---- و حسبها ان جاء شاهدها من الايات
 
 These are some of the privileges that are bestowed on him.
 
@@ -1376,18 +1288,10 @@ night was dark and few stars could be seen; he would be holding his
 beard and crying the way a very sad person cries; and I would hear him
 saying,
 
-<blockquote dir="rtl">
-  <p>
-يا دنيا! دنيا! أبى تعرضت ام إلى تشوقت؟
-  </p>
-</blockquote>
+> يا دنيا! دنيا! أبى تعرضت ام إلى تشوقت؟
 
-<blockquote dir="rtl">
-  <p>
-هيهات ! هيهات ! غرى غيرى، قد بتتك ثلاثا لا رجعه لى فيك. فعمرك قصير و
-عيشك حقير و خطرك كثير
-  </p>
-</blockquote>
+> هيهات ! هيهات ! غرى غيرى، قد بتتك ثلاثا لا رجعه لى فيك. فعمرك قصير و
+> عيشك حقير و خطرك كثير
 
 "O world, O world, are you offering yourself to me? Do you desire me?
 Never! Never! Deceive someone other than me. I have divorced you for the
@@ -1445,22 +1349,14 @@ necessity of his actions, he does not appeal to fatalism.
 Likewise, if a person knows that his action does not involve any
 expediency or necessity, again he will not appeal to fatalism.
 
-<blockquote dir="rtl">
-  <p>
-سيقول الذين اشركوا لو شاء الله ما اشركنا و لا أباونا و لا حرمنا من شىء
-  </p>
-</blockquote>
+> سيقول الذين اشركوا لو شاء الله ما اشركنا و لا أباونا و لا حرمنا من شىء
 
 ***Those who are polytheists will say: If Allah had pleased we would not
 have associated (aught with Him) nor our falterers, nor would we have
 forbidden (to ourselves) anything.*** [^56]
 
-<blockquote dir="rtl">
-  <p>
-قل هل عندكم من علم فتخرجوه لنا ان تتبعون الا الظن و ان انتم الا
-تخرصون. قل فلله الحجه البلغه فلو شاء لهدئکم اجمعين
-  </p>
-</blockquote>
+> قل هل عندكم من علم فتخرجوه لنا ان تتبعون الا الظن و ان انتم الا
+> تخرصون. قل فلله الحجه البلغه فلو شاء لهدئکم اجمعين
 
 ***Say: have you any knowledge with you so you should bring it forth to
 us? You only follow a conjecture and you only tell lies. Say: Then
@@ -1479,21 +1375,13 @@ argument out of necessity with the aim to silencing others.
 
 It is because of this that Allah reproaches them saying:
 
-<blockquote dir="rtl">
-  <p>
-قل هل عندکم من علم فتخر جوه لنا
-  </p>
-</blockquote>
+> قل هل عندکم من علم فتخر جوه لنا
 
 Say: have you any knowledge with you so you should bring it forth to us?
 
 Thereupon He says:
 
-<blockquote dir="rtl">
-  <p>
-تتبعون الا الظن و ان انتم الا تخرصون ان
-  </p>
-</blockquote>
+> تتبعون الا الظن و ان انتم الا تخرصون ان
 
 You only follow a conjecture and you only tell lies.
 
@@ -1692,13 +1580,9 @@ people until his death. Some Sunni scholars have accepted that this
 tradition contains reproach. As an instance, in his commentary on Sahih
 Bukhari, Ibn Hajar Asqalani says:
 
-<blockquote dir="rtl">
-  <p>
-و لا ازال اتعجب من المسور كيف بالغ فى تعصبه لعلى بن الحسين عليهما
-السلام حتى قال: انه اودع عنده السيف لا يمكن احدا منه حتى تن هق روحه
-رعابه لكونه ابن فاطمه
-  </p>
-</blockquote>
+> و لا ازال اتعجب من المسور كيف بالغ فى تعصبه لعلى بن الحسين عليهما
+> السلام حتى قال: انه اودع عنده السيف لا يمكن احدا منه حتى تن هق روحه
+> رعابه لكونه ابن فاطمه
 
 I keep wondering how Miswar exaggerates about his love of Ali Bin
 Hussain (a.s). He says he has deposited a sword with him. Nobody can
@@ -1730,15 +1614,11 @@ accepted Islam but in fact he was not a Muslim. He was the leader of
 hypocrites. Bukhari says the following verse was revealed in this
 regard.
 
-<blockquote dir="rtl">
-  <p>
-وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
-بَيْنَهُمَا ۖ فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَ‌ىٰ فَقَاتِلُوا
-الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ‌ اللَّـهِ ۚ فَإِن
-فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا ۖ إِنَّ
-اللَّـهَ يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
+> بَيْنَهُمَا ۖ فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَ‌ىٰ فَقَاتِلُوا
+> الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ‌ اللَّـهِ ۚ فَإِن
+> فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا ۖ إِنَّ
+> اللَّـهَ يُحِبُّ الْمُقْسِطِينَ
 
 ***And if two parties of the believers quarrel, make peace between them;
 but if one of them acts wrongfully towards the other, fight that which
@@ -1905,11 +1785,7 @@ have taken wages for reciting Allah's Book." When they arrived at
 Medina, they said, ' O Allah's Apostle! (This person) has taken wages
 for reciting Allah's Book" On that Allah's Apostle said;
 
-<blockquote dir="rtl">
-  <p>
-” ان احق ما افذتم عليه اجرا".
-  </p>
-</blockquote>
+> ” ان احق ما افذتم عليه اجرا".
 
 "You are most entitled to take wages for doing a Ruqya with Allah's
 Book."[^72]
@@ -1931,11 +1807,7 @@ nation is being destroyed, so invoke Allah.
 
 So the Prophet recited the Holy verses of Surat-Ad-Dukhan:
 
-<blockquote dir="rtl">
-  <p>
-فَارْ‌تَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ
-  </p>
-</blockquote>
+> فَارْ‌تَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ
 
 ***'Then watch you for the day that the sky will Bring forth a kind of
 smoke plainly visible.*** [^73]
@@ -1985,11 +1857,7 @@ criticized this tradition. Yayha Bin Mu'aeen says that this tradition is
 fabricated by hypocrites. According to this tradition, the Holy Prophet
 (S) says:
 
-<blockquote dir="rtl">
-  <p>
-تكثر لكه الاحاديث من بعدى فاذا روى لكم حديث فاعرضو ه على كتاب الله
-  </p>
-</blockquote>
+> تكثر لكه الاحاديث من بعدى فاذا روى لكم حديث فاعرضو ه على كتاب الله
 
 Traditions will increase after me. If someone narrated you a tradition,
 measure it against Allah's Book (to find out whether or not it is in
@@ -2018,12 +1886,8 @@ room for accepting something that does not bring about certainty.
 In order to prove his point of view, he has appealed to the following
 tradition by the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-تكثر لكه الاحاديث من بعدى فاذا روى لكم حديث فاعرضو ه على كتاب الله فما
-وافق كتاب الله فاقبلو ه و ما خالفه فردوه
-  </p>
-</blockquote>
+> تكثر لكه الاحاديث من بعدى فاذا روى لكم حديث فاعرضو ه على كتاب الله فما
+> وافق كتاب الله فاقبلو ه و ما خالفه فردوه
 
 Traditions will increase after me. If someone narrated you a tradition,
 measure it against Allah's Book (to find out whether or not it is in
@@ -2040,11 +1904,7 @@ faith.
 Moreover the meaning of this tradition is in contradiction with the
 general meaning of the following verse of the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-و ما اتاكم الرسول فخذوه
-  </p>
-</blockquote>
+> و ما اتاكم الرسول فخذوه
 
 ***Take whatever Allah's Apostle gives you.*** [^76]
 
@@ -2068,11 +1928,7 @@ Ammar from Sadaqa Bin Khalid from Abd Al- Rahman Bin Yazid Bin Jabir
 from Atiyya Bin Qais Kilabi from Abd Al-Rahman Bin Ghanam Ash'ari from
 Abu Amir or Abu Malik Ash'ari, from the Holy Prophet (S) who says:
 
-<blockquote dir="rtl">
-  <p>
-ليكونن من امتى قوم يستحلون الخز و الحرير و الخمر و المعازف
-  </p>
-</blockquote>
+> ليكونن من امتى قوم يستحلون الخز و الحرير و الخمر و المعازف
 
 No doubt, there will emerge people in my community, who will allow
 wearing clothes made of wool and silk (or purely of silk), drinking wine
@@ -2124,14 +1980,10 @@ for a person who opposes Allah's Book is not His apostle. The tradition
 they have reported is counter to the spirit of the Holy Quran, for
 Allah, the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِائَةَ
-جَلْدَةٍ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَ‌أْفَةٌ فِي دِينِ اللَّـهِ إِن
-كُنتُمْ تُؤْمِنُونَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ‌ ۖ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِائَةَ
+> جَلْدَةٍ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَ‌أْفَةٌ فِي دِينِ اللَّـهِ إِن
+> كُنتُمْ تُؤْمِنُونَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ‌ ۖ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ
 
 ***(As for) the fornicatress and the fornicator, flog each of them,
 (giving) a hundred stripes, and let not pity for them detain you in the
@@ -2140,13 +1992,9 @@ and let a party of believers witness their chastisement.*** [^81]
 
 In another verse, it says:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّذَانِ يَأْتِيَانِهَا مِنكُمْ فَآذُوهُمَا ۖ فَإِن تَابَا
-وَأَصْلَحَا فَأَعْرِ‌ضُوا عَنْهُمَا ۗ إِنَّ اللَّـهَ كَانَ تَوَّابًا
-رَّ‌حِيمًا
-  </p>
-</blockquote>
+> وَاللَّذَانِ يَأْتِيَانِهَا مِنكُمْ فَآذُوهُمَا ۖ فَإِن تَابَا
+> وَأَصْلَحَا فَأَعْرِ‌ضُوا عَنْهُمَا ۗ إِنَّ اللَّـهَ كَانَ تَوَّابًا
+> رَّ‌حِيمًا
 
 ***And as for the two who are guilty of indecency from among you, give
 them both a punishment; then if they repent and amend, turn aside from
@@ -2170,12 +2018,8 @@ Allah has made or praise what Allah has not praised. We stand witness
 that the Holy Prophet (S) always obeyed Allah, did not bring about
 innovation or attribute lie to Allah. He was very friendly.
 
-<blockquote dir="rtl">
-  <p>
-مَّن يُطِعِ الرَّ‌سُولَ فَقَدْ أَطَاعَ اللَّـهَ ۖ وَمَن تَوَلَّىٰ
-فَمَا أَرْ‌سَلْنَاكَ عَلَيْهِمْ حَفِيظًا
-  </p>
-</blockquote>
+> مَّن يُطِعِ الرَّ‌سُولَ فَقَدْ أَطَاعَ اللَّـهَ ۖ وَمَن تَوَلَّىٰ
+> فَمَا أَرْ‌سَلْنَاكَ عَلَيْهِمْ حَفِيظًا
 
 ***Whoever obeys the Apostle, he indeed obeys Allah, and whoever turns
 back, so We have not sent you as a keeper over them.*** [^83]
@@ -2541,12 +2385,8 @@ Quran, he says: Ibn Jariha has reportedly said that the said tradition
 is somewhat modified and altered. Fakihi also quotes Ibn Jarih, though
 in a different way, as saying: Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَا تَذَرُ‌نَّ آلِهَتَكُمْ وَلَا تَذَرُ‌نَّ وَدًّا وَلَا
-سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرً‌ا
-  </p>
-</blockquote>
+> وَقَالُوا لَا تَذَرُ‌نَّ آلِهَتَكُمْ وَلَا تَذَرُ‌نَّ وَدًّا وَلَا
+> سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرً‌ا
 
 ***And they say: By no means leave your gods, nor leave Wadd, nor Suwa;
 nor Yaghus, and*** ***Yauq and Nasr.*** [^95]
@@ -3447,5 +3287,4 @@ Al-Huffaz, p. 378.
 [^121]: Tuhfa Ithna Ashariyya, chapter on mataeen.
 
 [^122]: Umda la-Qari, vol. 17, p. 247.
-
 

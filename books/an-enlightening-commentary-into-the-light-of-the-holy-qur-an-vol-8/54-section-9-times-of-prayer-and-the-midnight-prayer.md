@@ -4,12 +4,8 @@ Section 9: Times of Prayer and the Midnight Prayer
 Surah Isra’ – Verse 78
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَي غَسَقِ اللَّيْلِ
-وَقُرْءَانَ الْفَجْرِ إِنَّ قُرْءَانَ الْفَجْرِ كَانَ مَشْهُوداً
-  </p>
-</blockquote>
+> أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَي غَسَقِ اللَّيْلِ
+> وَقُرْءَانَ الْفَجْرِ إِنَّ قُرْءَانَ الْفَجْرِ كَانَ مَشْهُوداً
 
 ***78. “Perform the prayer (rituals) from the declension of the sun till
 the darkness of the night, and the recitation (of prayer) at the morn,
@@ -149,12 +145,8 @@ the onset of the dawn.
 Surah Isra’ – Verse 79
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَي أَن يَبْعَثَكَ
-رَبُّكَ مَقَاماً مَّحمُوداً
-  </p>
-</blockquote>
+> وَمِنَ الَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَي أَن يَبْعَثَكَ
+> رَبُّكَ مَقَاماً مَّحمُوداً
 
 ***79. “And some part of the night keep vigil for it as an additional
 prayer for you; maybe that your Lord will raise you up to a praised
@@ -214,12 +206,8 @@ Great Intercession.
 Surah Isra’ – Verse 80
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبّ‌ِ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ
-صِدْقٍ وَاجْعَل لِي مِن لَدُنكَ سُلْطَاناً نَصِيراً
-  </p>
-</blockquote>
+> وَقُل رَّبّ‌ِ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ
+> صِدْقٍ وَاجْعَل لِي مِن لَدُنكَ سُلْطَاناً نَصِيراً
 
 ***80. “And say: ‘My Lord! cause me to enter a goodly entrance and cause
 me to go out (of) a goodly exit, and grant me from Your part a
@@ -290,12 +278,8 @@ certainly, no one else but You are to provide me with these.
 Surah Isra’ – Verse 81
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ جَآءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ
-زَهُوقاً
-  </p>
-</blockquote>
+> وَقُلْ جَآءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ
+> زَهُوقاً
 
 ***81. “And say: ‘The truth has come and the ‘falsehood’ has vanished
 away; verily, the ‘falsehood’ is (something) vanishing’.”***
@@ -738,12 +722,8 @@ will be wiped out like the foam over the water.
 Surah Isra’ – Verse 82
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنُنَزّ‌ِلُ مِنَ الْقُرْءَانِ مَا هُوَ شِفَآءٌ وَرَحْمَةٌ
-لِلْمُؤْمِنِينَ وَلاَ يَزِيدُ الظَّالِمِينَ إِلاَّ خَسَاراً
-  </p>
-</blockquote>
+> وَنُنَزّ‌ِلُ مِنَ الْقُرْءَانِ مَا هُوَ شِفَآءٌ وَرَحْمَةٌ
+> لِلْمُؤْمِنِينَ وَلاَ يَزِيدُ الظَّالِمِينَ إِلاَّ خَسَاراً
 
 ***82. “And We send down (stage by stage), of the Qur’an, that which is
 healing and mercy to the believers, and it adds not to the unjust except
@@ -1017,19 +997,11 @@ will muster him blind and tormented on the day of resurrection.”* [^44]
 Surah Isra’ – Verses 83 - 84
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَآ أَنْعَمْنَا عَلَي الإِنسَانِ أَعْرَضَ وَنَأي بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَئُوساً
-  </p>
-</blockquote>
+> وإِذَآ أَنْعَمْنَا عَلَي الإِنسَانِ أَعْرَضَ وَنَأي بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَئُوساً
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كُلٌّ يَعْمَلُ عَلَي شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ
-أَهْدَي سَبِيلاً
-  </p>
-</blockquote>
+> قُلْ كُلٌّ يَعْمَلُ عَلَي شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ
+> أَهْدَي سَبِيلاً
 
 ***83. “And when We bestow favour on man, he turns away and (proudly)
 withdraws aside; and when any evil afflicts him, he is in despair.”***
@@ -1193,5 +1165,4 @@ attributes.
 [^43]: Nahj-ul-Fisahah, p. 80
 
 [^44]: Jami‘-ul-’Akhbar, vol. 1, p. 409
-
 

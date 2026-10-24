@@ -184,4 +184,3 @@ Three: Yielding to SAQIFA
 3- Yielding to the authority of Abu Baker was a tawdry. God shielded
 its evil/ mischief. (TRANSLATOR)
 
-

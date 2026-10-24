@@ -12,4 +12,3 @@ nothing.”
 Haroun Rashid trembled from listening to Bahlool, started crying, and
 affirmed Bahlool's statement.
 
-

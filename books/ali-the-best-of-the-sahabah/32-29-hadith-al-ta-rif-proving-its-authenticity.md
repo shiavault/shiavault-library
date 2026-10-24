@@ -3,13 +3,9 @@
 
 Imam Ahmad (d. 241 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله قال حدثني أبي قثنا اسود بن عامر قثنا إسرائيل عن الأعمش
-عن أبي صالح عن أبي سعيد الخدري قال : إنما كنا نعرف منافقي الأنصار
-ببغضهم عليا
-  </p>
-</blockquote>
+> حدثنا عبد الله قال حدثني أبي قثنا اسود بن عامر قثنا إسرائيل عن الأعمش
+> عن أبي صالح عن أبي سعيد الخدري قال : إنما كنا نعرف منافقي الأنصار
+> ببغضهم عليا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Aswad b. ‘Amir –
 Israil – al-A’mash – Abu Salih – Abu Sa’id al-Khudri:
@@ -19,12 +15,8 @@ their hatred of ‘Ali.[^1]
 
 Al-Hafiz (d. 852 H) says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن أحمد بن محمد بن حنبل الشيباني أبو عبد الرحمن ولد الإمام
-ثقة
-  </p>
-</blockquote>
+> عبد الله بن أحمد بن محمد بن حنبل الشيباني أبو عبد الرحمن ولد الإمام
+> ثقة
 
 ‘Abd Allah b. Ahmad b. Muhammad b. Hanbal al-Shaybani, Abu ‘Abd
 al-Rahman: son of the Imam, ***thiqah*** **(trustworthy)**.[^2]
@@ -32,12 +24,8 @@ al-Rahman: son of the Imam, ***thiqah*** **(trustworthy)**.[^2]
 Of course, Imam Ahmad needs no introduction. But, let’s get the verdict
 of al-Hafiz anyway:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن حنبل بن هلال بن أسد الشيباني المروزي نزيل بغداد أبو
-عبد الله أحد الأئمة ثقة حافظ فقيه حجة
-  </p>
-</blockquote>
+> أحمد بن محمد بن حنبل بن هلال بن أسد الشيباني المروزي نزيل بغداد أبو
+> عبد الله أحد الأئمة ثقة حافظ فقيه حجة
 
 Ahmad b. Muhammad b. Hanbal b. Hilal b. Asad al-Shaybani al-Maruzi, a
 Baghdad resident, Abu ‘Abd Allah: One of the Imams, ***thiqah***
@@ -45,11 +33,7 @@ Baghdad resident, Abu ‘Abd Allah: One of the Imams, ***thiqah***
 
 Concerning the third narrator, al-Hafiz says:
 
-<blockquote dir="rtl">
-  <p>
-الأسود بن عامر الشامي نزيل بغداد يكنى أبا عبد الرحمن ويلقب شاذان ثقة
-  </p>
-</blockquote>
+> الأسود بن عامر الشامي نزيل بغداد يكنى أبا عبد الرحمن ويلقب شاذان ثقة
 
 Al-Aswad b. ‘Amir al-Shami, he lived in Baghdad, and was nicknamed Abu
 ‘Abd al-Rahman and given the *laqab* Shadhan: ***Thiqah***
@@ -57,12 +41,8 @@ Al-Aswad b. ‘Amir al-Shami, he lived in Baghdad, and was nicknamed Abu
 
 The fourth narrator is like that as well, as stated by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-إسرائيل بن يونس بن أبي إسحاق السبيعي الهمداني أبو يوسف الكوفي ثقة تكلم
-فيه بلا حجة
-  </p>
-</blockquote>
+> إسرائيل بن يونس بن أبي إسحاق السبيعي الهمداني أبو يوسف الكوفي ثقة تكلم
+> فيه بلا حجة
 
 Israil b. Yunus b. Abi Ishaq al-Sabi’i al-Hamdani, Abu Yusuf al-Kufi:
 ***Thiqah*** **(trustworthy)**. He is criticized *without* evidence.[^5]
@@ -70,12 +50,8 @@ Israil b. Yunus b. Abi Ishaq al-Sabi’i al-Hamdani, Abu Yusuf al-Kufi:
 Al-A’mash, the fifth narrator, is *thiqah* (trustworthy) too, according
 to al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-سليمان بن مهران الأسدي الكاهلي أبو محمد الكوفي الأعمش ثقة حافظ عارف
-بالقراءات ورع لكنه يدلس
-  </p>
-</blockquote>
+> سليمان بن مهران الأسدي الكاهلي أبو محمد الكوفي الأعمش ثقة حافظ عارف
+> بالقراءات ورع لكنه يدلس
 
 Sulayman b. Mahran al-Asadi al-Kahili, Abu Muhammad al-Kufi al-A’mash:
 ***Thiqah*** **(trustworthy),** ***hafiz*** **(a** ***hadith***
@@ -84,11 +60,7 @@ pious. **However, he used to do** ***tadlis***.[^6]
 
 About the last narrator, al-Hafiz has these words:
 
-<blockquote dir="rtl">
-  <p>
-ذكوان أبو صالح السمان الزيات المدني ثقة ثبت
-  </p>
-</blockquote>
+> ذكوان أبو صالح السمان الزيات المدني ثقة ثبت
 
 Dhakwan Abu Salih al-Saman al-Zayat al-Madani: ***Thiqah***
 **(trustworthy),** ***thabt*** **(accurate)**.[^7]
@@ -102,11 +74,7 @@ any notion that al-A’mash did *tadlis* in his reports from Abu Salih,
 even in his *‘an-‘an* reports. For instance, Imam Muslim (d. 261 H)
 records this *‘an-‘an* chain in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-وحدثني زهير بن حرب حدثنا جرير عن الأعمش عن أبي صالح عن أبي هريرة
-  </p>
-</blockquote>
+> وحدثني زهير بن حرب حدثنا جرير عن الأعمش عن أبي صالح عن أبي هريرة
 
 Zuhayr b. Harb – Jarir – **al-A’mash** – **Abu Salih** – Abu
 Hurayrah[^8]
@@ -123,19 +91,11 @@ there were hypocrites among the Ansar. Of course, the Ansar were
 Sahabah. Therefore, there were hypocrites among the Sahabah.
 Interestingly, Shaykh Ibn Taymiyyah agrees on this point too:
 
-<blockquote dir="rtl">
-  <p>
-ولهذا قال احمد بن حنبل وغيره من العلماء انه لم يكن من المهاجرين من
-نافق و إنما كان النفاق في قبائل الأنصار….
-  </p>
-</blockquote>
+> ولهذا قال احمد بن حنبل وغيره من العلماء انه لم يكن من المهاجرين من
+> نافق و إنما كان النفاق في قبائل الأنصار….
 
-<blockquote dir="rtl">
-  <p>
-ولهذا إنما ذكر النفاق في السور المدنية و إما السور المكية فلا ذكر فيها
-للمنافقين
-  </p>
-</blockquote>
+> ولهذا إنما ذكر النفاق في السور المدنية و إما السور المكية فلا ذكر فيها
+> للمنافقين
 
 This is why Ahmad b. Hanbal and other scholars said that there was no
 hypocrite among the Muhajirun **and that hypocrisy existed only within
@@ -155,12 +115,8 @@ the least - fatally undermines the Sunni doctrine that all the Sahabah
 earned Allah’s love, and that none of them ever forfeited it. Allah does
 not love hypocrites. By contrast, He has cursed them:
 
-<blockquote dir="rtl">
-  <p>
-وعد الله المنافقين والمنافقات والكفار نار جهنم خالدين فيها هي حسبهم
-ولعنهم الله ولهم عذاب مقيم
-  </p>
-</blockquote>
+> وعد الله المنافقين والمنافقات والكفار نار جهنم خالدين فيها هي حسبهم
+> ولعنهم الله ولهم عذاب مقيم
 
 Allah has promised the hypocrites, men and women, and the disbelievers,
 the Fire of *Jahannam*. They shall remain therein forever. It will be
@@ -184,14 +140,10 @@ of the Messenger of Allah.
 
 Imam Muslim records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا وكيع وأبو معاوية عن الأعمش ح وحدثنا
-يحيى بن يحيى (واللفظ له) أخبرنا أبو معاوية عن الأعمش عن عدي بن ثابت عن
-زر قال قال علي والذي فلق الحبة وبرأ النسمة إنه لعهد النبي الأمي صلى
-الله عليه و سلم إلى أن لا يحبني إلا مؤمن ولا يبغضني إلا منافق
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا وكيع وأبو معاوية عن الأعمش ح وحدثنا
+> يحيى بن يحيى (واللفظ له) أخبرنا أبو معاوية عن الأعمش عن عدي بن ثابت عن
+> زر قال قال علي والذي فلق الحبة وبرأ النسمة إنه لعهد النبي الأمي صلى
+> الله عليه و سلم إلى أن لا يحبني إلا مؤمن ولا يبغضني إلا منافق
 
 Abu Bakr b. Abi Shaybah – Waki’ and Abu Mu’awiyah – al-A’mash, AND Yahya
 b. Yahya – Abu Mu’awiyah – al-A’mash – Adi b. Thabit – Zirr:
@@ -203,13 +155,9 @@ hypocrite**.”[^17]
 
 Imam Ahmad also records his *mutaba’ah* for Ibn Abi Shaybah:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا وكيع ثنا الأعمش عن عدى بن ثابت عن زر بن
-حبيش عن على رضي الله عنه قال عهد إلى النبي صلى الله عليه و سلم انه لا
-يحبك الا مؤمن ولا يبغضك الا منافق
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا وكيع ثنا الأعمش عن عدى بن ثابت عن زر بن
+> حبيش عن على رضي الله عنه قال عهد إلى النبي صلى الله عليه و سلم انه لا
+> يحبك الا مؤمن ولا يبغضك الا منافق
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Waki’ – al-A’mash
 – ‘Adi b. Thabit – Zirr b. Hubaysh – ‘Ali, may Allah be pleased with
@@ -220,23 +168,15 @@ except a believer, **and none hates you except a hypocrite**.”[^18]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs[^19]
 
 Imam al-Tirmidhi has also a third *mutaba’ah* for Waki’:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عيسى بن عثمان ابن أخي يحيى بن عيسى حدثنا أبو عيسى الرملي عن
-الأعمش عن عدي بن ثابت عن زر بن حبيش عن علي قال لقد عهد إلى النبي الأمي
-صلى الله عليه و سلم أنه لا يحبك إلا مؤمن ولا يبغضك إلا منافق
-  </p>
-</blockquote>
+> حدثنا عيسى بن عثمان ابن أخي يحيى بن عيسى حدثنا أبو عيسى الرملي عن
+> الأعمش عن عدي بن ثابت عن زر بن حبيش عن علي قال لقد عهد إلى النبي الأمي
+> صلى الله عليه و سلم أنه لا يحبك إلا مؤمن ولا يبغضك إلا منافق
 
 ‘Isa b. ‘Uthman, son of the brother of Yahya b. ‘Isa – Abu ‘Isa al-Ramli
 – al-Am’ash – ‘Adi b. Thabit – Zirr b. Hubaysh – ‘Ali:
@@ -246,21 +186,13 @@ you except a believer **and none hates you except a hypocrite**.”[^20]
 
 Al-Tirmidhi states:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan* *sahih*.[^21]
 
 ‘Allamah al-Albani confirms:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^22]
 
@@ -333,5 +265,4 @@ al-Ṣahih Sunan al-Tirmidhi (Beirut: Dar Ihya al-Turath al-‘Arabi)
 [^21]: Ibid
 
 [^22]: Ibid
-
 

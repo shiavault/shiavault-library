@@ -172,4 +172,3 @@ al Haddad al Hadhrami is one of the correct, famous, widespread, and
 well known traditions upon which all the umma has agreed and seventeen
 of great Hadithists have confirmed that it was true.
 
-

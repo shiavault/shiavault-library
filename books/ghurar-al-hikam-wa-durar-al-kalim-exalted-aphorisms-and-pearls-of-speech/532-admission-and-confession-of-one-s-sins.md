@@ -20,11 +20,7 @@ guilt].
 with giving excuses.
 
 > 4ـ يُسْتَثْمَرُ العَفْوُ بِالإقْرارِ أكْثَرَ مِمّا يُسْتَثْمَرُ
-<blockquote dir="rtl">
-  <p>
-بِالاِعْتِذارِ.
-  </p>
-</blockquote>
+> بِالاِعْتِذارِ.
 
 5. Confession is the intercessor of the wrongdoer.
 
@@ -33,5 +29,4 @@ with giving excuses.
 6. Admission [of one’s guilt] is [a means of] seeking pardon.
 
 > 6ـ الإقْرارُ اِعْتِذارٌ.
-
 

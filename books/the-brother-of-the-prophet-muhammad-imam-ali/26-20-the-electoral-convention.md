@@ -1061,4 +1061,3 @@ Al-Bukhari. Part 6. p. 17.
 [^16]: Ibn Abu Al-Hadid Commentaries on Nahjul-Balaghah Vol. 2 pp.
 198-199.
 
-

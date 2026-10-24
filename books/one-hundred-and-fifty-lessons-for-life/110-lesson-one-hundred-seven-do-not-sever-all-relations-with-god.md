@@ -3,12 +3,8 @@ Lesson One Hundred Seven: Do Not Sever All Relations With God
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اِتَّقِ اللّه بَعْضَ التُّقَى وَ إنْ قَلَّ وَدَعْ بَيْنَكَ وَ بَيْنَهُ
-سِتْراً وَ إنْ رَقَّ
-  </p>
-</blockquote>
+> اِتَّقِ اللّه بَعْضَ التُّقَى وَ إنْ قَلَّ وَدَعْ بَيْنَكَ وَ بَيْنَهُ
+> سِتْراً وَ إنْ رَقَّ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ and to maintain a link however flimsy so that one can return one day and
 find an open door to enter for repentance.
 
 [^1]: Tuhaful Uqul, page 268
-
 

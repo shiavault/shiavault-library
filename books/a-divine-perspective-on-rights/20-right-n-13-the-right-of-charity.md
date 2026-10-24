@@ -1,30 +1,22 @@
 Right n. 13: The Right of Charity
 =================================
 
-<blockquote dir="rtl">
-  <p>
-حق الصدقة
-  </p>
-</blockquote>
+> حق الصدقة
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ الصَّدَقَةِ فَأَنْ تَعْلَمَ أنَّها ذُخرُكَ عِنْدَ رَبكَ
-وَوَديعَتُكَ الَّتِي لا تَحْتَاجُ إلَى الإشْهَادِ، فَإذا عَلِمْتَ
-ذَلِك كُنْتَ بمَا اسْتَودَعْتَهُ سِرًّا أَوْثقَ بمَا اسْتَوْدَعْتَهُ
-عَلانِيَةً، وَكُنْتَ جَدِيرًا أَنْ تَكونَ أَسْرَرْتَ إلَيْهِ أَمْرًا
-أَعْلَنْتَهُ، وَكَانَ الأَمْرُ بَيْنَكَ وبَيْنَهُ فِيهَا سِرًّا عَلَى
-كُلِّ حَالٍ وَلَمْ تَسْتَظْهِرْ عَلَيْهِ فِيمَا اسْتَوْدَعْتَهُ
-مِنْهَا بإشْهَادِ الأَسْمَاعِ وَالأَبْصَارِ عَلَيْهِ بهَا كَأنَّهَا
-أَوْثقُ فِي نَفْسِكَ لا كَأنَّكَ لا تثِقُ بهِ فِي تَأْديَةِ وَديعَتِكَ
-إلَيْكَ، ثُمَّ لَمْ تَمْتَنَّ بهَا عَلَى أَحَدٍ لأَنّهَا لَكَ فَإذا
-امْتَنَنْتَ بهَا لَمْ تَأْمَنْ أَنْ تَكُونَ بهَا مِثْلَ تَهْجِينِ
-حَالِكَ مِنْهَا إلَى مَنْ مَنَنْتَ بهَا عَلَيْهِ لأَنَّ فِي ذلِكَ
-دَلِيلاً عَلَى أَنّكَ لَمْ تُرِدْ نفْسَكَ بهَا، وَلَوْ أَرَدْتَ
-نفْسَكَ بهَا لَمْ تَمْتَنَّ بهَا عَلَى أَحَدٍ. وَلا قُوَّةَ إلا
-باللهِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ الصَّدَقَةِ فَأَنْ تَعْلَمَ أنَّها ذُخرُكَ عِنْدَ رَبكَ
+> وَوَديعَتُكَ الَّتِي لا تَحْتَاجُ إلَى الإشْهَادِ، فَإذا عَلِمْتَ
+> ذَلِك كُنْتَ بمَا اسْتَودَعْتَهُ سِرًّا أَوْثقَ بمَا اسْتَوْدَعْتَهُ
+> عَلانِيَةً، وَكُنْتَ جَدِيرًا أَنْ تَكونَ أَسْرَرْتَ إلَيْهِ أَمْرًا
+> أَعْلَنْتَهُ، وَكَانَ الأَمْرُ بَيْنَكَ وبَيْنَهُ فِيهَا سِرًّا عَلَى
+> كُلِّ حَالٍ وَلَمْ تَسْتَظْهِرْ عَلَيْهِ فِيمَا اسْتَوْدَعْتَهُ
+> مِنْهَا بإشْهَادِ الأَسْمَاعِ وَالأَبْصَارِ عَلَيْهِ بهَا كَأنَّهَا
+> أَوْثقُ فِي نَفْسِكَ لا كَأنَّكَ لا تثِقُ بهِ فِي تَأْديَةِ وَديعَتِكَ
+> إلَيْكَ، ثُمَّ لَمْ تَمْتَنَّ بهَا عَلَى أَحَدٍ لأَنّهَا لَكَ فَإذا
+> امْتَنَنْتَ بهَا لَمْ تَأْمَنْ أَنْ تَكُونَ بهَا مِثْلَ تَهْجِينِ
+> حَالِكَ مِنْهَا إلَى مَنْ مَنَنْتَ بهَا عَلَيْهِ لأَنَّ فِي ذلِكَ
+> دَلِيلاً عَلَى أَنّكَ لَمْ تُرِدْ نفْسَكَ بهَا، وَلَوْ أَرَدْتَ
+> نفْسَكَ بهَا لَمْ تَمْتَنَّ بهَا عَلَى أَحَدٍ. وَلا قُوَّةَ إلا
+> باللهِ.
 
 **And the right of charity is that you should know that it is a storing
 away with your Lord and a deposit for which you will have no need for
@@ -51,11 +43,7 @@ might seem to us that we lose what we give away in charity while it is
 not so. Rather the Qur’an encourages us to benefit from the wealth of
 this world as we see in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا
-  </p>
-</blockquote>
+> وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا
 
 ***Nor forget thy portion in this world…” [The Holy Qur’an, al-Qasas
 28:77]***
@@ -83,13 +71,9 @@ order to get closer to God. It is a general term and covers both the
 obligatory alms tax and the recommendable forms of giving donations. God
 the Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللّهِ كَمَثَلِ
-حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّئَةُ حَبَّةٍ
-وَاللّهُ يُضَاعِفُ لِمَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللّهِ كَمَثَلِ
+> حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّئَةُ حَبَّةٍ
+> وَاللّهُ يُضَاعِفُ لِمَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
 
 ***“The parable of those who spend their substance in the way of God is
 that of a grain of corn: it groweth seven ears, and each ear hath a
@@ -133,16 +117,12 @@ The Qur’an clearly shows the various results of charity using various
 examples and drawing similitude. Consider the following verse in this
 regard:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تُبْطِلُواْ صَدَقَاتِكُم
-بِالْمَنِّ وَالأذَى كَالَّذِي يُنفِقُ مَالَهُ رِئَاء النَّاسِ وَلاَ
-يُؤْمِنُ بِاللّهِ وَالْيَوْمِ الآخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ
-عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لاَّ
-يَقْدِرُونَ عَلَى شَيْءٍ مِّمَّا كَسَبُواْ وَاللّهُ لاَ يَهْدِي
-الْقَوْمَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تُبْطِلُواْ صَدَقَاتِكُم
+> بِالْمَنِّ وَالأذَى كَالَّذِي يُنفِقُ مَالَهُ رِئَاء النَّاسِ وَلاَ
+> يُؤْمِنُ بِاللّهِ وَالْيَوْمِ الآخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ
+> عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لاَّ
+> يَقْدِرُونَ عَلَى شَيْءٍ مِّمَّا كَسَبُواْ وَاللّهُ لاَ يَهْدِي
+> الْقَوْمَ الْكَافِرِينَ
 
 ***“O ye who believe! Cancel not your charity by reminders of your
 generosity or by injury, - like those who spend their substance to be
@@ -190,14 +170,10 @@ freshness and beauty. Because of this, the garden will yield double the
 amount that other gardens produce. Consider the following verse that
 draws such a similitude:
 
-<blockquote dir="rtl">
-  <p>
-وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاء مَرْضَاتِ اللّهِ
-وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا
-وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ
-فَطَلٌّ وَاللّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاء مَرْضَاتِ اللّهِ
+> وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا
+> وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ
+> فَطَلٌّ وَاللّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***“And the likeness of those who spend their substance, seeking to
 please God and to strengthen their souls, is as a garden, high and
@@ -228,13 +204,9 @@ giving charity in private. Of course, this applies to the recommendable
 forms of charity. Obligatory forms of charity such as the alms-tax can
 obviously be given in public. Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِن تُبْدُواْ الصَّدَقَاتِ فَنِعِمَّا هِيَ وَإِن تُخْفُوهَا
-وَتُؤْتُوهَا الْفُقَرَاء فَهُوَ خَيْرٌ لُّكُمْ وَيُكَفِّرُ عَنكُم مِّن
-سَيِّئَاتِكُمْ وَاللّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> إِن تُبْدُواْ الصَّدَقَاتِ فَنِعِمَّا هِيَ وَإِن تُخْفُوهَا
+> وَتُؤْتُوهَا الْفُقَرَاء فَهُوَ خَيْرٌ لُّكُمْ وَيُكَفِّرُ عَنكُم مِّن
+> سَيِّئَاتِكُمْ وَاللّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ***“If ye disclose (acts of) charity, even so it is well, but if ye
 conceal them, and make them reach those (really) in need, that is best
@@ -264,14 +236,10 @@ The Role of Charity in Man’s Life
 
 Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـكِنَّ اللّهَ يَهْدِي مَن يَشَاء وَمَا
-تُنفِقُواْ مِنْ خَيْرٍ فَلأنفُسِكُمْ وَمَا تُنفِقُونَ إِلاَّ ابْتِغَاء
-وَجْهِ اللّهِ وَمَا تُنفِقُواْ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ
-وَأَنتُمْ لاَ تُظْلَمُونَ
-  </p>
-</blockquote>
+> لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـكِنَّ اللّهَ يَهْدِي مَن يَشَاء وَمَا
+> تُنفِقُواْ مِنْ خَيْرٍ فَلأنفُسِكُمْ وَمَا تُنفِقُونَ إِلاَّ ابْتِغَاء
+> وَجْهِ اللّهِ وَمَا تُنفِقُواْ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ
+> وَأَنتُمْ لاَ تُظْلَمُونَ
 
 ***“It is not required of thee (O Apostle), to set them on the right
 path, but God sets on the right path whom He pleaseth. Whatever of good
@@ -319,34 +287,22 @@ An Increase in Our Share of Daily Bread
 Giving charity will increase our share of daily bread. Sakuni quoted on
 the authority of Imam Sadiq on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-تَصَدّقُوا فإنَّ الصَّدَقَةَ تَزيدُ في المَالِ كَثْرَةً، فَتَصَدَّقوا
-رَحِمَكُم اللهُ.
-  </p>
-</blockquote>
+> تَصَدّقُوا فإنَّ الصَّدَقَةَ تَزيدُ في المَالِ كَثْرَةً، فَتَصَدَّقوا
+> رَحِمَكُم اللهُ.
 
 *“Give charity since it will cause an increase in your wealth. Therefore
 give charity and God will have Mercy upon you.”*[^8]
 
 Imam Kazim said:
 
-<blockquote dir="rtl">
-  <p>
-اسْتَنْزِلوا الرِّزْقَ بِالصَّدَقَةِ.
-  </p>
-</blockquote>
+> اسْتَنْزِلوا الرِّزْقَ بِالصَّدَقَةِ.
 
 *“By giving charity seek the descension of your daily bread.”*[^9]
 
 Imam Ridha quoted on the authority of his father on the authority of the
 Noble Prophet :
 
-<blockquote dir="rtl">
-  <p>
-خَيرُ مالِ المَرءِ وَذَخائِرُهُ الصَّدَقَةُ.
-  </p>
-</blockquote>
+> خَيرُ مالِ المَرءِ وَذَخائِرُهُ الصَّدَقَةُ.
 
 *“The best of a person’s wealth and savings is what he gives in
 charity.”*[^10]
@@ -356,11 +312,7 @@ Treatment of Our Patients
 
 The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-دَاووا مَرْضاكُمْ بِالصَّدَقَةِ.
-  </p>
-</blockquote>
+> دَاووا مَرْضاكُمْ بِالصَّدَقَةِ.
 
 *“Treat your patients by giving charity.”*[^11]
 
@@ -368,13 +320,9 @@ Thus we realize that the ill can be treated by both medications and
 giving charity. Abdullah ibn San’an quoted on the authority of Imam
 Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-دَاووا مَرْضاكُمْ بِالصَّدَقَةِ وادْفَعوا البَلاءَ بِالدُّعَاءِ
-واسْتَنْزِلوا الرِّزْقَ بِالصَّدَقَةِ فإنهَّا تَفُكُّ مِن بَينِ لحَيِْ
-سَبْعِمِائَةِ شَيطانٍ.
-  </p>
-</blockquote>
+> دَاووا مَرْضاكُمْ بِالصَّدَقَةِ وادْفَعوا البَلاءَ بِالدُّعَاءِ
+> واسْتَنْزِلوا الرِّزْقَ بِالصَّدَقَةِ فإنهَّا تَفُكُّ مِن بَينِ لحَيِْ
+> سَبْعِمِائَةِ شَيطانٍ.
 
 *“Treat your patients by giving charity, and fend off calamities by
 supplications. Seek the descension of your share of the daily bread by
@@ -383,12 +331,8 @@ Satans.”*[^12]
 
 Abdullah ibn San’an quoted on the authority of Imam Sadiq who said:
 
-<blockquote dir="rtl">
-  <p>
-يُسْتَحَبُّ لِلمَريضِ أنْ يُعطِيَ السّائِلَ بِيَدِهِ وَيأمُرَ السّائلَ
-أنْ يَدعُوَ لهُ.
-  </p>
-</blockquote>
+> يُسْتَحَبُّ لِلمَريضِ أنْ يُعطِيَ السّائِلَ بِيَدِهِ وَيأمُرَ السّائلَ
+> أنْ يَدعُوَ لهُ.
 
 *“It is recommended for an ill person to give charity to a poor person
 with his own hands and ask the poor man to pray for him.”*[^13]
@@ -398,20 +342,16 @@ Preventing Calamities
 
 Musa ibn Hasan quoted on the authority of Imam Ridha :
 
-<blockquote dir="rtl">
-  <p>
-ظَهرَ في بَني إسْرائيلَ قَحطٌ شَديدٌ سِنِينَ مُتَواتِرَةً، وَكَانَ
-عِنْد امْرَأةٍ لُقْمَةٌ مِن خُبزٍ فَوَضَعَتها في فِيها لِتأكُلَها
-فَنَادى السّائِلُ: يا أَمَةَ اللهِ، الجُوعَ! فقَالتِ المَرأةُ:
-أَتَصَدَّقُ في مِثلِ هذا الزَّمانِ. فَأخْرَجَتْها مِن فِيها
-وَدَفَعَتْها إلى السّائلِ. وكَانَ لها وَلَدٌ صَغيرٌ يحتَطِبُ في
-الصَّحْراءِ، فَجَاءَ ذِئبٌ فَحَمَلَهُ. فَوَقَعتِ الصَّيحَةُ فَعَدَتِ
-الأمُّ في أَثَرِ الذِّئْبِ. فبَعَثَ اللهُ عَزَّ وَجَلَّ جْبرئيلُ
-عَلَيهِ السَّلامُ فأخْرَجَ الغُلامَ مِن فمِ الذِّئبِ فَدَفَعهُ إلى
-أُمِّه. ثُمَّ قال لها جِبرئيلُ عليهِ السّلامُ: يا أَمَةَ اللهِ،
-أَرَضِيتِ لُقْمَةً بِلُقْمةٍ؟
-  </p>
-</blockquote>
+> ظَهرَ في بَني إسْرائيلَ قَحطٌ شَديدٌ سِنِينَ مُتَواتِرَةً، وَكَانَ
+> عِنْد امْرَأةٍ لُقْمَةٌ مِن خُبزٍ فَوَضَعَتها في فِيها لِتأكُلَها
+> فَنَادى السّائِلُ: يا أَمَةَ اللهِ، الجُوعَ! فقَالتِ المَرأةُ:
+> أَتَصَدَّقُ في مِثلِ هذا الزَّمانِ. فَأخْرَجَتْها مِن فِيها
+> وَدَفَعَتْها إلى السّائلِ. وكَانَ لها وَلَدٌ صَغيرٌ يحتَطِبُ في
+> الصَّحْراءِ، فَجَاءَ ذِئبٌ فَحَمَلَهُ. فَوَقَعتِ الصَّيحَةُ فَعَدَتِ
+> الأمُّ في أَثَرِ الذِّئْبِ. فبَعَثَ اللهُ عَزَّ وَجَلَّ جْبرئيلُ
+> عَلَيهِ السَّلامُ فأخْرَجَ الغُلامَ مِن فمِ الذِّئبِ فَدَفَعهُ إلى
+> أُمِّه. ثُمَّ قال لها جِبرئيلُ عليهِ السّلامُ: يا أَمَةَ اللهِ،
+> أَرَضِيتِ لُقْمَةً بِلُقْمةٍ؟
 
 *There was famine among the children of Israel for many consecutive
 years. A woman had just one morsel to eat. She put it in her mouth to
@@ -444,24 +384,16 @@ sticks and had given one of the two loaves of bread he had to eat to a
 poor man and had eaten one himself. The Prophet told him that his life
 had been saved due to his act of charity. Then the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّدَقَةُ تَدفَعُ مِيتَةَ السُّوءِ.
-  </p>
-</blockquote>
+> الصَّدَقَةُ تَدفَعُ مِيتَةَ السُّوءِ.
 
 *“Giving charity drives away a bad death.”*[^15]
 
 Hanan ibn Sodayr quoted on the authority of his father on the authority
 of Imam Baqir :
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الصَّدَقَةَ لَتَدْفَعُ سَبعِينَ بَلِيَّةٍ مِن بَلايا الدُّنيا مَع
-مِيتَةِ السُّوءِ، وإنَّ صاحِبَها لا يمُوتُ مِيتَة السُّوءِ أبَداً مَع
-ما يُدَّخَرُ لِصاحِبِها في الآخِرَةِ.
-  </p>
-</blockquote>
+> إنَّ الصَّدَقَةَ لَتَدْفَعُ سَبعِينَ بَلِيَّةٍ مِن بَلايا الدُّنيا مَع
+> مِيتَةِ السُّوءِ، وإنَّ صاحِبَها لا يمُوتُ مِيتَة السُّوءِ أبَداً مَع
+> ما يُدَّخَرُ لِصاحِبِها في الآخِرَةِ.
 
 *“Giving charity will fend off seventy of this world’s calamities and
 save you from a bad death in addition to granting you the rewards for
@@ -472,22 +404,14 @@ or in public is recommendable and has a reward. There are also several
 traditions that point this out. Imam Sadiq quoted on the authority of
 God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-صَدَقَةُ السِّرِّ تُطفِئُ غَضَبَ الرَّبِّ
-  </p>
-</blockquote>
+> صَدَقَةُ السِّرِّ تُطفِئُ غَضَبَ الرَّبِّ
 
 *“Giving charity secretly will quench God’s wrath.”*[^17]
 
 Umar ibn Yazid quoted on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-صَدَقَةُ العَلانِيَةِ تَدْفَعُ سَبعِينَ نَوعاً مِن أنْواعِ البَلاءِ
-وصَدَقَةُ السِّرِّ تُطفِئُ غَضَبَ الرَّبِّ.
-  </p>
-</blockquote>
+> صَدَقَةُ العَلانِيَةِ تَدْفَعُ سَبعِينَ نَوعاً مِن أنْواعِ البَلاءِ
+> وصَدَقَةُ السِّرِّ تُطفِئُ غَضَبَ الرَّبِّ.
 
 *“Giving charity openly will fend off seventy types of calamities and
 giving charity secretly will extinguish the wrath of the Lord.”*[^18]
@@ -495,12 +419,8 @@ giving charity secretly will extinguish the wrath of the Lord.”*[^18]
 Fazl ibn al-Hasan al-Tabarsi wrote in Majma’ al-Bayan that the Imam
 said:
 
-<blockquote dir="rtl">
-  <p>
-صَدَقَةُ السِّرِّ تُطفِئُ غَضَبَ الرَّبِّ وَتُطفِئُ الخَطيئَةَ كَما
-يُطفِئُ الماءُ النّارَ وَتَدْفَعُ سَبعينَ باباً مِن البَلاءِ.
-  </p>
-</blockquote>
+> صَدَقَةُ السِّرِّ تُطفِئُ غَضَبَ الرَّبِّ وَتُطفِئُ الخَطيئَةَ كَما
+> يُطفِئُ الماءُ النّارَ وَتَدْفَعُ سَبعينَ باباً مِن البَلاءِ.
 
 *“Giving charity in secret will quench the Wrath of the Lord and wipe
 out wrong-doings just as water puts out fire. It will also ward off
@@ -508,37 +428,25 @@ seventy types of calamities.”*[^19]
 
 Imam Sadiq quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-أَرضُ القِيامَةِ نارٌ ما خَلا ظِلِّ المُؤمِنِ؛ فإنَّ صَدَقَتَهُ
-تُظِلُّهُ.
-  </p>
-</blockquote>
+> أَرضُ القِيامَةِ نارٌ ما خَلا ظِلِّ المُؤمِنِ؛ فإنَّ صَدَقَتَهُ
+> تُظِلُّهُ.
 
 *“The plains of the Day of Judgment will be full of Fire except for the
 shadow of the believer, for his acts of charity will shade him.”*[^20]
 
 The Commander of the Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-صَدَقَةُ السِّرِّ تُكَفِّرُ الخَطيئَةَ وَصَدَقَةُ العَلانِيَةِ
-مِثْراةٌ في المَالِ.
-  </p>
-</blockquote>
+> صَدَقَةُ السِّرِّ تُكَفِّرُ الخَطيئَةَ وَصَدَقَةُ العَلانِيَةِ
+> مِثْراةٌ في المَالِ.
 
 *“Giving charity in secret will compensate for wrong-doings and sins,
 and giving charity in public will increase your wealth.”*[^21]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-سَبْعَةٌ يُظِلُّهُم اللهُ في ظِلِّهِ يَومَ لا ظِلَّ إلاّ ظِلُّه…
-وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأخْفاها حَتىّ لم تَعْلَمْ يَمِينُهُ ما
-تُنْفِقُ شِمالُهُ.
-  </p>
-</blockquote>
+> سَبْعَةٌ يُظِلُّهُم اللهُ في ظِلِّهِ يَومَ لا ظِلَّ إلاّ ظِلُّه…
+> وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأخْفاها حَتىّ لم تَعْلَمْ يَمِينُهُ ما
+> تُنْفِقُ شِمالُهُ.
 
 *“God will shade seven (groups of people) under His Shadow on the Day
 when there is no shadow other than His… One are those who give charity
@@ -591,5 +499,4 @@ favor, glory, Self, Presence.
 [^21]: Sharh-i-Ghurar wa Durar, v.4. p.207.
 
 [^22]: Wasa’il al-Shi’ah, v.6, p.207.
-
 

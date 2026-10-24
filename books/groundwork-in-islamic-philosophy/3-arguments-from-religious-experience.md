@@ -35,7 +35,6 @@ in the affirmative, however modern philosophers Iqbal and Al-Attas
 assert that intuitive knowledge must work in concert with other 'modes'
 of knowledge as well.
 
-
 **al-Ghazzali**
 
 The first major critic of philosophy in the Islamic tradition was Abu
@@ -122,7 +121,6 @@ unreliable, but Ghazzali makes the further claim that knowledge by pure
 theoretical reason alone is also unreliable. Descartes, on the other
 hand, had built his entire epistemology on the basis of the viability of
 knowledge by pure reason.
-
 
 **Iqbal's Critique of Ghazzali**
 
@@ -487,5 +485,4 @@ Sober, Elliott, Philosophy of Biology [Boulder: Westview Press, 1993]
 
 Wan Daud, Wan Mohd. Nor, The Concept of Knowledge in Islam [London:
 Mansell, 1989
-
 

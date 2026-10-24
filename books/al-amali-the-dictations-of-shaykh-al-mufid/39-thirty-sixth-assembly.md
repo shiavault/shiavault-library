@@ -254,4 +254,3 @@ He has moments, which are tested by a certain reality, (i.e. death)
  And may Allah bless our master, Muhammad, the Prophet and his pure
 progeny.
 
-

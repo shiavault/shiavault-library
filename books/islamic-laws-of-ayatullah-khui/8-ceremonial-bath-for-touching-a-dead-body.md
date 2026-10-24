@@ -66,4 +66,3 @@ intercourse with his wife, or from reciting the verses of the holy
 Qur'an which entail obligatory prostration. However, he should take bath
 for offering prayers or for performing any other similar acts.
 
-

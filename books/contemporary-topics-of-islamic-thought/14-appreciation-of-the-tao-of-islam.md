@@ -381,4 +381,3 @@ I usually use the Persian transliteration, 'Sohravardi' for the latter.
 
 [^8]: Murata (1992), 318.
 
-

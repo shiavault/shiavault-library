@@ -223,12 +223,8 @@ the mirror of *Fitrah* (innate nature) and deprives man from
 remembrance. Therefore, the cornerstone of the upright religion consists
 of the norm of “innate definition”.
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا
 
 On this basis, the divine Prophets put the innate *Ma’rifat* into
 operation through elegant methods. These methods were ‘reminding’ and
@@ -297,5 +293,4 @@ human sciences have the ability to prove and approve the religious
 Ma’arif through different ways. In particular, one can make use of them
 as a matter of support to the religious Ma’arif in the position of
 “argumentation and disputation” at the proportionate circumstances.
-
 

@@ -57,7 +57,6 @@ that Mu'awiya was responsible for the introduction of the bidah of
 cursing Ameerul Momineen 'Ali throughout his empire a bidah that went on
 for 90 years.
 
-
 **Cursing Ali (as) is tantamount to cursing Allah (swt)**
 
 "Whoever curses (or verbally abuses) Ali, he has, in fact, cursed me,
@@ -340,5 +339,4 @@ Ibn Hanbal records in his Musnad Volume 5 page 347:
 
 "Mu'awiya consumed a liquid that had been declared haraam by the
 Prophet (s)".
-
 

@@ -53,4 +53,3 @@ and the archetypical realities and acts, and as a result, it is a
 hierarchy for the expedition of the soul from the audio-visual world to
 the world of Silence and Invisible one.
 
-

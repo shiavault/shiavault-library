@@ -19,4 +19,3 @@ might have gone out to look for Hamid. In fact, Nadia had seen Hamid
 talking with Sumayah at the park, but she was sure that their meeting
 had been by chance. She continued to spy on him.
 
-

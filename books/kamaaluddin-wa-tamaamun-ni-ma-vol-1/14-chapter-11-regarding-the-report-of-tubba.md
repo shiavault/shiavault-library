@@ -77,4 +77,3 @@ Muslim.”
 [^1]: Rafa’u is a term that means that the original narrator has
 mentioned a name which the subsequent narrator/s has/have omitted.
 
-

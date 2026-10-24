@@ -20,4 +20,3 @@ Article 126
 
 Applying oils or creams for treatment on the body is permitted.
 
-

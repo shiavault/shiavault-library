@@ -7,11 +7,7 @@ Voraciousness And The Voracious
 chivalry.
 
 > 1ـ اَلشَّـرَهُ يَشينُ النَّفْسَ، ويُفْسِدُ الدِّينَ، ويُزْري
-<blockquote dir="rtl">
-  <p>
-بِالْفُتُوَّةِ.
-  </p>
-</blockquote>
+> بِالْفُتُوَّةِ.
 
 2. Beware of voraciousness, for verily it is a destructive quality.
 
@@ -31,22 +27,14 @@ causes one to enter the fire of hell.
 vileness and the foundation of every depravity.
 
 > 5ـ إيّاكَ والشَّـرَهَ، فَإنَّهُ رَأسُ كُلِّ دَنِيَّة، وأُسُّ كُلِّ
-<blockquote dir="rtl">
-  <p>
-رَذيلَة.
-  </p>
-</blockquote>
+> رَذيلَة.
 
 6. Beware of the vileness of voraciousness and greed, for verily it is
 the root of all evil, the plantation of disgrace, the debaser of the
 soul and the exhauster of the body.
 
 > 6ـ إيّاكُمْ ودَناءَةَ الشَّـرَهِ والطَّمَعِ، فَإنَّهُ رَأسُ كُلِّ
-<blockquote dir="rtl">
-  <p>
-شَـرّ، ومَزْرَعَةُ الذُّلِّ، وَمُهِينُ النَّفْسِ، ومُتْعِبُ الْجَسَدِ.
-  </p>
-</blockquote>
+> شَـرّ، ومَزْرَعَةُ الذُّلِّ، وَمُهِينُ النَّفْسِ، ومُتْعِبُ الْجَسَدِ.
 
 7. Voraciousness is [a cause of] ignominy.
 
@@ -132,5 +120,4 @@ voraciousness.
 27. The voracious one will never be seen happy.
 
 > 27ـ لَنْ يُلْقَي الشَّـرَهُ راضِياً.
-
 

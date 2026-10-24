@@ -7,4 +7,3 @@ ones that are recited all around the world on the nights of Muharram. He
 became popular for his strong lines of poetry about the tragedy of Imam
 Husayn in Karbala.
 
-

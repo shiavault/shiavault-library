@@ -5,15 +5,11 @@ Imam Ibn Abi Hatim (d. 327 H) records about another iconic judgment
 delivered by ‘Umar b. al-Khaṭṭab in his capacity as the *khalifah* over
 the *Ummah*:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبي ، ثنا أبو بكر محمد بن بشار ، ثنا إبن أبي عدي ، عن سعيد ، عن
-قتادة عن أبي حرب ، يعني : ابن أبي الاسود الديلي ، عن أبيه ، ان عمر بن
-الخطاب ، رفعت اليه امراة ولدت ستة اشهر ، فهم برجمها ، فبلغ ذلك عليا
-فقال : ليس عليها رجم ، قال الله تعالى : والوالدات يرضعن اولادهن حولين
-كاملين وستة اشهر ، ذلك ثلاثون شهرا .
-  </p>
-</blockquote>
+> أخبرنا أبي ، ثنا أبو بكر محمد بن بشار ، ثنا إبن أبي عدي ، عن سعيد ، عن
+> قتادة عن أبي حرب ، يعني : ابن أبي الاسود الديلي ، عن أبيه ، ان عمر بن
+> الخطاب ، رفعت اليه امراة ولدت ستة اشهر ، فهم برجمها ، فبلغ ذلك عليا
+> فقال : ليس عليها رجم ، قال الله تعالى : والوالدات يرضعن اولادهن حولين
+> كاملين وستة اشهر ، ذلك ثلاثون شهرا .
 
 My father (Abu Hatim) – Abu Bakr Muhammad b. Bashar – Ibn Abi ‘Adi –
 Sa’id – Qatadah – Abu Harb b. Abi al-Aswad al-Dili – his father (Abu
@@ -29,12 +25,8 @@ as the total for both pregnancy and suckling)’”.[^1]
 
 Imam al-Dhahabi (d. 748 H) submits about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-أبو حاتم الرازي محمد بن إدريس بن المنذر بن داود بن مهران: الامام
-الحافظ، الناقد، شيخ المحدثين
-  </p>
-</blockquote>
+> أبو حاتم الرازي محمد بن إدريس بن المنذر بن داود بن مهران: الامام
+> الحافظ، الناقد، شيخ المحدثين
 
 Abu Hatim al-Razi, Muhammad b. Idris b. al-Mundhir b. Dawud b. Mihran:
 ***al-imam*** **(the leader in** ***Hadith*****),** ***al-hafiz***
@@ -44,34 +36,22 @@ narrators).[^2]
 
 About the second narrator, al-Hafiz (d. 852 H) says:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن بشار بن عثمان العبدي البصري أبو بكر بندار ثقة
-  </p>
-</blockquote>
+> محمد بن بشار بن عثمان العبدي البصري أبو بكر بندار ثقة
 
 Muhammad b. Bashar b. ‘Uthman al-‘Abdi al-Basri, Abu Bakr Bandar:
 ***Thiqah*** **(trustworthy)**.[^3]
 
 What of the third narrator? Al-Dhahabi submits:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن إبراهيم بن أبي عدي أبو عمرو، بصري، ثقة
-  </p>
-</blockquote>
+> محمد بن إبراهيم بن أبي عدي أبو عمرو، بصري، ثقة
 
 Muhammad b. Ibrahim b. Abi ‘Adi, Abu ‘Amr, from Basra: ***Thiqah***
 **(trustworthy)**[^4]
 
 Al-Hafiz agrees:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن إبراهيم بن أبي عدي وقد ينسب لجده وقيل هو إبراهيم أبو عمرو
-البصري ثقة
-  </p>
-</blockquote>
+> محمد بن إبراهيم بن أبي عدي وقد ينسب لجده وقيل هو إبراهيم أبو عمرو
+> البصري ثقة
 
 Muhammad b. Ibrahim b. Abi ‘Adi.... Abu ‘Amr al-Basri: ***Thiqah***
 **(trustworthy)**.[^5]
@@ -79,12 +59,8 @@ Muhammad b. Ibrahim b. Abi ‘Adi.... Abu ‘Amr al-Basri: ***Thiqah***
 The fourth narrator is Sa’id, and al-Hafiz comments on him in this
 manner:
 
-<blockquote dir="rtl">
-  <p>
-سعيد بن أبي عروبة مهران اليشكري مولاهم أبو النضر البصري ثقة حافظ له
-تصانيف لكنه كثير التدليس واختلط وكان من أثبت الناس في قنادة
-  </p>
-</blockquote>
+> سعيد بن أبي عروبة مهران اليشكري مولاهم أبو النضر البصري ثقة حافظ له
+> تصانيف لكنه كثير التدليس واختلط وكان من أثبت الناس في قنادة
 
 Sa’id b. Abi ‘Arubah Mihran al-Yashkiri, their freed slave, Abu
 al-Nadhar al-Basri: ***Thiqah*** **(trustworthy),** ***hafiz*** **(a**
@@ -94,11 +70,7 @@ narrators from Qatadah**.[^6]
 
 Concerning the fifth narrator, al-Hafiz further submits:
 
-<blockquote dir="rtl">
-  <p>
-قتادة بن دعامة بن قتادة السدوسي أبو الخطاب البصري ثقة ثبت
-  </p>
-</blockquote>
+> قتادة بن دعامة بن قتادة السدوسي أبو الخطاب البصري ثقة ثبت
 
 Qatadah b. Da’amah b. Qatadah al-Sudusi, Aboo al-Khaṭṭaab al-Basri:
 ***Thiqah*** **(trustworthy)**, *thabt* (accurate).[^7]
@@ -106,12 +78,8 @@ Qatadah b. Da’amah b. Qatadah al-Sudusi, Aboo al-Khaṭṭaab al-Basri:
 Like the fourth narrator, he too is accused of *tadlis*, as proclaimed
 by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-قتادة بن دعامة السدوسي البصري صاحب أنس بن مالك رضي الله تعالى عنه كان
-حافظ عصره وهو مشهور بالتدليس وصفه به النسائي وغيره
-  </p>
-</blockquote>
+> قتادة بن دعامة السدوسي البصري صاحب أنس بن مالك رضي الله تعالى عنه كان
+> حافظ عصره وهو مشهور بالتدليس وصفه به النسائي وغيره
 
 Qatadah b. Da’amah al-Sudusi al-Basri, the companion of Anas b. Malik,
 may Allah the Most High be pleased with him. He was the *hafiz*
@@ -120,22 +88,14 @@ may Allah the Most High be pleased with him. He was the *hafiz*
 
 The sixth narrator is trustworthy as well, as affirmed by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-أبو حرب بن أبي الأسود الديلي البصري ثقة
-  </p>
-</blockquote>
+> أبو حرب بن أبي الأسود الديلي البصري ثقة
 
 Abu Harb b. Abi al-Aswad al-Dili al-Basri: ***Thiqah***
 **(trustworthy)**[^9]
 
 With regards to the last narrator, al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-أبو الأسود الديلي ….ثقة
-  </p>
-</blockquote>
+> أبو الأسود الديلي ….ثقة
 
 Abu al-Aswad al-Dili....: ***Thiqah*** **(trustworthy)**[^10]
 
@@ -151,12 +111,8 @@ Harb?
 Some of these questions are answered in the following *isnad* documented
 by Imam al-Bukhari (d. 256 H) in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن بشار حدثنا يحيى وابن أبي عدي عن سعيد عن قتادة عن أنس بن
-مالك
-  </p>
-</blockquote>
+> حدثنا محمد بن بشار حدثنا يحيى وابن أبي عدي عن سعيد عن قتادة عن أنس بن
+> مالك
 
 **Muhammad b. Bashar** – Yahya and **Ibn Abi ‘Adi** – **Sa’id** –
 **Qatadah** – Anas b. Malik[^11]
@@ -171,11 +127,7 @@ accepted as *sahih*, as in the above chain.
 In this *sanad* of al-Bukhari, Ibn Abi ‘Adi is conjoined with Yahya.
 However, in another chain in the same *Sahih*, he stands alone:
 
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن بشار حدثنا ابن أبي عدي عن سعيد عن قتادة عن أنس رضي الله
-  </p>
-</blockquote>
+> حدثني محمد بن بشار حدثنا ابن أبي عدي عن سعيد عن قتادة عن أنس رضي الله
 
 **Muhammad b. Bashar** – **Ibn Abi ‘Adi** – **Sa’id** – **Qatadah** –
 Anas b. Malik[^12]
@@ -188,17 +140,9 @@ affect them.
 
 ‘Allamah al-Albani (d. 1420 H) confirms all our words:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ابن المثنى: ثنا ابن أبي عدي عن سعيد عن
-  </p>
-</blockquote>
+> حدثنا ابن المثنى: ثنا ابن أبي عدي عن سعيد عن
 
-<blockquote dir="rtl">
-  <p>
-قتادة .... قلت: وهذا إسناد صحيح على شرط الشيخين.
-  </p>
-</blockquote>
+> قتادة .... قلت: وهذا إسناد صحيح على شرط الشيخين.
 
 Ibn al-Muthanna – **Ibn Abi ‘Adi** – **Sa’id** – **Qatadah**.... I
 (al-Albani) say: **This chain is** ***sahih*** **upon the standard of
@@ -206,23 +150,15 @@ the two Shaykhs**.[^13]
 
 Imam Ibn Khuzaymah (d. 311 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن بشار و أبو موسى قالا : حدثنا ابن أبي عدي عن سعيد عن
-قتادة عن أبي تميمة عن الأشعري ـ يعني أبا موسى
-  </p>
-</blockquote>
+> حدثنا محمد بن بشار و أبو موسى قالا : حدثنا ابن أبي عدي عن سعيد عن
+> قتادة عن أبي تميمة عن الأشعري ـ يعني أبا موسى
 
 Muhammad b. Bashar and Abu Musa – **Ibn Abi ‘Adi** – **Sa’id** –
 **Qatadah** – Abu Tamimah – Abu Musa al-Ash’ari.[^14]
 
 Dr. Al-A’zami declares:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^15]
 
@@ -245,23 +181,11 @@ The big question, at this point, is: what is the status of Qatadah’s
 *muhadithun*, such narrations are *sahih*. For instance, ‘Allamah
 al-Albani states:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا مسدد: نا يحيى عن ابن أبي عَرُوبة عن قتادة عن أبي حَرْب
-  </p>
-</blockquote>
+> حدثنا مسدد: نا يحيى عن ابن أبي عَرُوبة عن قتادة عن أبي حَرْب
 
-<blockquote dir="rtl">
-  <p>
-ابن أبي الأسود عن أبيه عن علي.
-  </p>
-</blockquote>
+> ابن أبي الأسود عن أبيه عن علي.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح
 
 Musaddad – Yahya – **(Sa’id) b. Abi ‘Arubah** – **Qatadah** – **Abu Harb
 b. Abi al-Aswad** – **his father** – ‘Ali.
@@ -274,13 +198,9 @@ report from Ibn Abi Hatim. Here, the ‘Allamah confirms that the
 Qatadah’s *‘an-‘an* narrations from Abu Harb. Shaykh al-Arnauṭ too backs
 him:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الصمد بن عبد الوارث ثنا هشام عن قتادة
-عن أبي حرب بن أبي الأسود عن أبيه عن علي رضي الله عنه .... إسناده صحيح
-على شرط مسلم
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الصمد بن عبد الوارث ثنا هشام عن قتادة
+> عن أبي حرب بن أبي الأسود عن أبيه عن علي رضي الله عنه .... إسناده صحيح
+> على شرط مسلم
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) - ‘Abd
 al-Samad b. ‘Abd al-Warith – Hisham – **Qatadah** – **Abu Harb b. Abi
@@ -289,23 +209,15 @@ al-Aswad** – **his father** – ‘Ali, may Allah be pleased with him....
 
 Imam Abu Ya’la further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبيد الله حدثنا معاذ بن هشام حدثني أبي عن قتادة عن أبي حرب بن
-الأسود الديلي عن أبي الأسود عن علي بن أبي طالب
-  </p>
-</blockquote>
+> حدثنا عبيد الله حدثنا معاذ بن هشام حدثني أبي عن قتادة عن أبي حرب بن
+> الأسود الديلي عن أبي الأسود عن علي بن أبي طالب
 
 ‘Ubayd Allah – Mu’adh b. Hisham – my father – **Qatadah** – **Abu Harb
 b. al-Aswad** **al-Duli** – **Abu al-Aswad** – ‘Ali b. Abi Talib.[^18]
 
 Shaykh Dr. Asad comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^19]
 
@@ -330,12 +242,8 @@ man.
 The Book of Allah has laid down the procedural law in all cases of
 *zina*:
 
-<blockquote dir="rtl">
-  <p>
-والذين يرمون المحصنات ثم لم يأتوا بأربعة شهداء فاجلدوهم ثمانين جلدة
-ولا تقبلوا لهم شهادة أبدا وأولئك هم الفاسقون
-  </p>
-</blockquote>
+> والذين يرمون المحصنات ثم لم يأتوا بأربعة شهداء فاجلدوهم ثمانين جلدة
+> ولا تقبلوا لهم شهادة أبدا وأولئك هم الفاسقون
 
 Those who accuse chaste women, **and do not produce four witnesses**,
 flog them with eighty stripes, and reject their testimony forever,
@@ -446,5 +354,4 @@ Dr. Husayn Salim Asad], vol. 1, p. 261, \# 307
 [^19]: Ibid
 
 [^20]: Qur’an 24:4
-
 

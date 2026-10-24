@@ -148,4 +148,3 @@ reports which confirm that this verse was revealed in connection with
 the question of Imamat. We have put forward these three verses as the
 gist of the Shi'ah arguments.
 
-

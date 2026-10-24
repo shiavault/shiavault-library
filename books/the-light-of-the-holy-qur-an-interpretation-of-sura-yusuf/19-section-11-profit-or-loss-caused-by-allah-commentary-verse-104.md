@@ -37,7 +37,6 @@ that)I do not worship those whom you worship other than Allah! But I
 worship Allah Who causes you to die and I have been commanded that I
 should be of the believers'. "
 
-
 **Commentary : Verse 105.106**
 
 (105) وَ أَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنيفاً وَ لا تَكُونَنَّ مِنَ
@@ -86,7 +85,6 @@ in their thinking.
 Though this speech is addressed to the Prophet, in reality it is
 targeted at the people.
 
-
 **Commentary : Verse 107**
 
 (107) وَ إِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلا كاشِفَ لَهُ إِلاَّ هُوَ
@@ -117,7 +115,6 @@ verse says:
 
 "... He causes it to reach whomsoever of His servants He pleases, and
 He is the Forgiving, the Merciful. "
-
 
 **Commentary : Verse 108**
 
@@ -166,7 +163,6 @@ His duty is to call them to Islam, to bring Allah's message to them, to
 guide them on the Straight Path, to lead them, and to serve them as
 their leader
 
-
 **Commentary : Verse 109**
 
 (109) وَ اتَّبِعْ ما يُوحى‏ إِلَيْكَ وَ اصْبِرْ حَتَّى يَحْكُمَ اللَّهُ
@@ -197,7 +193,5 @@ broken. The verse continues saying:
 "... and be patient till Allah judges, and He is the best of the
 judges. "
 
-
 The End of Sura Yunus.
-
 

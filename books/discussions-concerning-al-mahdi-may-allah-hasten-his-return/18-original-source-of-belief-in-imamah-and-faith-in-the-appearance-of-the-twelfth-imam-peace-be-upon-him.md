@@ -82,4 +82,3 @@ them.
 [^1]: Surah al-Baqara (2), Verse 124: “When his Lord tried Ibrahim by
 words, then he completed them.”
 
-

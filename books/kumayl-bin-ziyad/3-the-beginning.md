@@ -35,4 +35,3 @@ increased even by giving it away.*
 *Kumayl, those who amass wealth die even as they live while those who
 have knowledge will continue to exist for as long as time lasts.*
 
-

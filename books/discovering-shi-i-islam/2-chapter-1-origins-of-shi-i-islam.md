@@ -343,4 +343,3 @@ afi’ and ending with Yazid b. Hautharah al-Ansar i. Yous uf b. ‘Abdullah
 H ajar (d. 852 A.H.) in his Al-Isaba h are some of the non-Shi’a
 scholars who have mentioned some of the S hi’a pioneers.
 
-

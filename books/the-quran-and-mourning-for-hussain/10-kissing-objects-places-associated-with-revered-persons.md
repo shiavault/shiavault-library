@@ -45,4 +45,3 @@ or materiality, then the question of ‘kissing’ His ‘blessed feet’ or
 not an act that can be associated with Allah: it is only for a
 non-divine entity. And thus how could it ever possibly be idolatrous?
 
-

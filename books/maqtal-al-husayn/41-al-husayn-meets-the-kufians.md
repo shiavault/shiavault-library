@@ -239,4 +239,3 @@ al-’Awalim, p. 78.
 al-Khawarizmi, Maqtal al-Husayn, Vol. 1. Ibn al-Athir, Al-Kamil, Vol. 4,
 p. 22.
 
-

@@ -17,15 +17,10 @@ him.
 extent of his need from you.
 
 > 3ـ مَنِ احْتاجَ إلَيْكَ كانَتْ طاعَتُهُ لَكَ بِقَدْرِ حاجَتِهِ
-<blockquote dir="rtl">
-  <p>
-إلَيْكَ.
-  </p>
-</blockquote>
+> إلَيْكَ.
 
 4. When someone turns to you with his needs, it becomes obligatory upon
 you to help him.
 
 > 4ـ مَنِ احْتاجَ إلَيْكَ وَجَبَ إسْعافُهُ عَلَيْكَ.
-
 

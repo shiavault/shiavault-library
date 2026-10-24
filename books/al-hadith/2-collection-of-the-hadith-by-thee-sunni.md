@@ -82,4 +82,3 @@ he died. He was buried between Safa and Marwa5.
 5 Al-Shatharaat, Vol. 2, Page 240. Also Al-Saadiq and Four Madh'Habs,
 Asad Haidar, Vol. 1, Page 560.
 
-

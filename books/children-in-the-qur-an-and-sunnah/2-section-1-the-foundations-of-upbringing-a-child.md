@@ -11,4 +11,3 @@ Section 1: The Foundations of Upbringing a Child
 
 **Chapter Four: The Formation of the Life-germ**
 
-

@@ -310,4 +310,3 @@ The battle of Mootah was a defeat for the Muslims. As for the Romans, it
 was nothing more than a minor border skirmish. They drove the Arabs back
 into the desert, and for them the incident was closed.
 
-

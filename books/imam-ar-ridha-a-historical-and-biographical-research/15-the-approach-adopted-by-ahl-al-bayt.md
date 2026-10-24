@@ -296,4 +296,3 @@ the final judge on such issues.
 
 [^8]: Al Hijr:75
 
-

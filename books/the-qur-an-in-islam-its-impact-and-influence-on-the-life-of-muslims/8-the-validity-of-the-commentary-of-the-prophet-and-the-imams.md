@@ -23,7 +23,6 @@ does not include an explanation or a discussion of the linguistic and
 literal aspects or the science of Qur'an recitation since these do not
 affect the meaning.
 
-
 **Part III The Revelation of the Qur'an**
 
 General Beliefs of Muslims concerning the Revelation of the Qur'an More
@@ -249,5 +248,4 @@ by angels in his task. An indication of these obedient angels comes in
 the verse, But truly it is a warning-so let whoever will pay heed to it,
 on honoured leaves exalted, purified (set down by scribes) noble and
 righteous [LXXX:11-16] .
-
 

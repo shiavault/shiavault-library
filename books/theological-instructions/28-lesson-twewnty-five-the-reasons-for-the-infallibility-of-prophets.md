@@ -213,4 +213,3 @@ mistakes in understanding revelation?
 4. How is the prophets’ infallibility against sin in agreement with
 their freedom?
 
-

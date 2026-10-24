@@ -133,12 +133,8 @@ sperm and thus the child.[^16] Allāh (SwT) states this in the
 
 Noble Qur\`an, in Surat al-Ra°d, Verse 28:
 
-<blockquote dir="rtl">
-  <p>
- أَلَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللٌّهِ أَلاَ
-بِذِكْرِ اللٌّهِ تَطْمَئِنُّ الْقُــلُوبُ 
-  </p>
-</blockquote>
+>  أَلَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللٌّهِ أَلاَ
+> بِذِكْرِ اللٌّهِ تَطْمَئِنُّ الْقُــلُوبُ 
 
 ***“Those who have faith and whose hearts find rest in the remembrance
 of Allāh (SwT); Look! The hearts find rest in Allāh (SwT)’s
@@ -149,13 +145,9 @@ remembrance!”***
 It is narrated from the Imām al-Bāqir (as) that before the act, recite
 the following:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ ارْزُقْنِي وَلَداً وَ اجْعَلْهُ تَقِيّاً لَيْسَ فِي
-خَلْقِهِ زِيَادَةٌ وَ لاَ نُقْصَانٌ وَ اجْعَلْ عَاقِـبَتَهُ إِلَى
-خَيْرٍ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ ارْزُقْنِي وَلَداً وَ اجْعَلْهُ تَقِيّاً لَيْسَ فِي
+> خَلْقِهِ زِيَادَةٌ وَ لاَ نُقْصَانٌ وَ اجْعَلْ عَاقِـبَتَهُ إِلَى
+> خَيْرٍ.
 
 “O Allāh (SwT)! Bless me with a child, and make him pious. Let there not
 be in his creation any excess or any defect, and give him a good
@@ -195,11 +187,7 @@ the blessings He has given.
 
 3. Before engaging in the act, start with:
 
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِاللٌّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
-  </p>
-</blockquote>
+> أَعُوذُ بِاللٌّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
 
 “A’udhu billahi min ash-Satan ir-rajeem”
 
@@ -208,11 +196,7 @@ Satan.
 
 4. Recite:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِِيمِ
 
 “Bismillah ir-Rahman ir-Rahim”
 
@@ -230,15 +214,11 @@ determined by the love and enmity of us, the Ahlul Bayt.”[^24]
 
 6. Recite the following Du°ās:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ الَّذِي لاَ إِلٌهَ إِلاَ هُوَ
-بَدِيعُ السَّمٌوَاتِ وَ الأََرْضِ. أَللٌّهُمَّ إِنْ قَضَيْتَ مِنِّي
-فِي هٌذِهِ اللَّيْلَةِ خَلِيفَةً فَلاَ تَجْعَلْ لِلشَّيْطَانِ فِيهِ
-شِرْكاً وَ لاَ نَصِيباً وَ لاَ حَــظًّا وَ اجْعَلْهُ مُؤْمِناً
-مُخْلِصاً مُصَفًّى مِنَ الشَّيْطَانِ وَ رِجْزِهِ جَلَّ ثَنَاؤُكَ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ الَّذِي لاَ إِلٌهَ إِلاَ هُوَ
+> بَدِيعُ السَّمٌوَاتِ وَ الأََرْضِ. أَللٌّهُمَّ إِنْ قَضَيْتَ مِنِّي
+> فِي هٌذِهِ اللَّيْلَةِ خَلِيفَةً فَلاَ تَجْعَلْ لِلشَّيْطَانِ فِيهِ
+> شِرْكاً وَ لاَ نَصِيباً وَ لاَ حَــظًّا وَ اجْعَلْهُ مُؤْمِناً
+> مُخْلِصاً مُصَفًّى مِنَ الشَّيْطَانِ وَ رِجْزِهِ جَلَّ ثَنَاؤُكَ.
 
 “In the name of Allāh (SwT), the Beneficient, the Merciful. The one whom
 there is no God but He, the creator of the heavens and the earth. O
@@ -247,12 +227,8 @@ don’t let Satan have any part, share or portion in him, and make him a
 sincere believer, pure from Satan and his evil deeds (great is Your
 praise).”[^25]
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ وَ بِاللٌّهِ. أَللٌّهُمَّ جَنِّبْنِي الشَّيْطَانَ وَ
-جَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنِي.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ وَ بِاللٌّهِ. أَللٌّهُمَّ جَنِّبْنِي الشَّيْطَانَ وَ
+> جَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنِي.
 
 “In the name of Allāh (SwT), and with Allāh (SwT). O Allāh (SwT)! Keep
 Satan away from me, and keep Satan away from that which you bless me
@@ -624,5 +600,4 @@ coffee.
 [^69]: Ibid.
 
 [^70]: Confirmed with the office of Ayatullāh Sīstānī, Qom
-
 

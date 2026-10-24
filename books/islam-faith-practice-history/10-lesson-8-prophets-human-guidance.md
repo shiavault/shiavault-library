@@ -245,4 +245,3 @@ prophets and messengers were sent.
  How would you distinguish a real prophet from an imposter? What kind of
 miracle would you expect from a real prophet?
 
-

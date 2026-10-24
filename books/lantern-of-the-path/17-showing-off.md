@@ -13,17 +13,11 @@ Allah: you will be deceived by yourself.'
 
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-يُخَادِعُونَ اللّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلاَّ
-أَنفُسَهُم وَمَا يَشْعُرُونَ
-  </p>
-</blockquote>
+> يُخَادِعُونَ اللّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلاَّ
+> أَنفُسَهُم وَمَا يَشْعُرُونَ
 
 ***They desire to deceive Allah and those who believe, and they deceive
 only themselves and they do not perceive.*** (2:9)
-
 
 Showing off most frequently occurs in the way people glance at others,
 speak, eat, drink, arrive somewhere, sit with others, dress, laugh, and
@@ -35,5 +29,4 @@ and who sees himself as lacking even after he has exerted himself with
 every effort, will find that Allah is contented with him as a result,
 and he will be among those whom one expects to be free from showing off
 and hypocrisy, provided he continues to be in that state.
-
 

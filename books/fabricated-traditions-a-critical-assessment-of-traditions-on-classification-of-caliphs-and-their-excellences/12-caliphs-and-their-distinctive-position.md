@@ -88,4 +88,3 @@ problem. Otherwise, Dahabi, Khatib Baghadadi – who narrates from him
 through one medium -, Ibn Jawzi – who narrates from Khatib through one
 medium- would not have introduced him as unknown!
 
-

@@ -179,4 +179,3 @@ not explicit (“Islām” 1289; Rizvī Chapter 4). As Rizvī observes, “This
 dichotomy between ‘the academician’ and ‘the believer’ is indeed
 disturbing (Chapter 1).
 
-

@@ -1,20 +1,12 @@
 The Thirtieth Talk
 ==================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-أَخَذْنَا أَهْلَهَا بِالْبَأْسَاء وَالضَّرَّاء لَعَلَّهُمْ
-يَضَّرَّعُونَ
-  </p>
-</blockquote>
+> أَخَذْنَا أَهْلَهَا بِالْبَأْسَاء وَالضَّرَّاء لَعَلَّهُمْ
+> يَضَّرَّعُونَ
 
 ***We did afflict its folks with tribulation and adversity that haply
 they might grow humble. (Sura al-A’raaf, 7:94)***
@@ -78,11 +70,7 @@ definitely take him in His Protection. After assuring Allah (S.w.T.)'s
 Protection, deliverance is assured! Therefore Allah (S.w.T.) Himself
 says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ
-  </p>
-</blockquote>
+> أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ
 
 ***Is not Allah sufficient for His servant? (Sura az-Zumar, 39:36)***
 
@@ -419,22 +407,14 @@ Allah (S.w.T.) has introduced Satan at many places in the Qur’an as the
 enemy of man. He has also warned man to beware of Satan's intrigues and
 to keep away from him.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاء وَأَن تَقُولُواْ عَلَى
-اللّهِ مَا لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاء وَأَن تَقُولُواْ عَلَى
+> اللّهِ مَا لاَ تَعْلَمُونَ
 
 ***He only enjoins you evil and indecency, and that you may speak
 against Allah what you do not know*** ***(Sura al-Baqara, 2:169)***
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
 
 ***Did I not charge you, O children of Adam! that you should not serve
 the Shaitan? Surely he is your open enemy*** ***(Sura Ya Sin, 36:60)***
@@ -491,16 +471,12 @@ Our statement proves that the cause of ruination of men is their own
 carnal desire and their temptations of Satan. He works as a catalyst for
 these activities in the minds of men.
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الأَمْرُ إِنَّ اللّهَ وَعَدَكُمْ
-وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِيَ
-عَلَيْكُم مِّن سُلْطَانٍ إِلاَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي
-فَلاَ تَلُومُونِي وَلُومُواْ أَنفُسَكُم مَّا أَنَاْ بِمُصْرِخِكُمْ
-وَمَا أَنتُمْ بِمُصْرِخِيَّ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِن
-قَبْلُ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الأَمْرُ إِنَّ اللّهَ وَعَدَكُمْ
+> وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِيَ
+> عَلَيْكُم مِّن سُلْطَانٍ إِلاَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي
+> فَلاَ تَلُومُونِي وَلُومُواْ أَنفُسَكُم مَّا أَنَاْ بِمُصْرِخِكُمْ
+> وَمَا أَنتُمْ بِمُصْرِخِيَّ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِن
+> قَبْلُ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 ***And the Shaitan shall say after the affair is decided: ‘Surely Allah
 promised you the promise of truth, and I gave you promises, then failed
@@ -560,12 +536,8 @@ Court of Allah (S.w.T.) through prayer and lamentation. Allah (S.w.T.)
 definitely listens to one who laments with humility. Allah (S.w.T.)
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلا إِذْ جَاءهُمْ بَأْسُنَا تَضَرَّعُواْ وَلَـكِن قَسَتْ
-قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلَوْلا إِذْ جَاءهُمْ بَأْسُنَا تَضَرَّعُواْ وَلَـكِن قَسَتْ
+> قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُواْ يَعْمَلُونَ
 
 ***Yet why did they not, when Our punishment came to them, humble
 themselves? But their hearts hardened and the Shaitan made what they did
@@ -596,11 +568,7 @@ times of difficulty follow the footsteps of Hadrat Yusuf (a.s.). This
 Chapter of the Qur’an is a beacon for achieving felicity and guidance
 for people
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُوْلِي الأَلْبَابِ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُوْلِي الأَلْبَابِ
 
 ***In their histories there is certainly a lesson for men of
 understanding.*** ***(Sura Yusuf, 12:111)***
@@ -668,12 +636,8 @@ Isti’adha With Allah (S.w.T.)
 
 At this stage Hadrat Yusuf (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَعَاذَ اللّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ إِنَّهُ لاَ
-يُفْلِحُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> قَالَ مَعَاذَ اللّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ إِنَّهُ لاَ
+> يُفْلِحُ الظَّالِمُونَ
 
 ***He said: I seek Allah's refuge, surely my Lord made good my abode:
 Surely the unjust do not prosper.*** ***(Sura Yusuf, 12:23)***
@@ -719,12 +683,8 @@ In this event, he is not guilty of the act that Zulaikha is accusing him
 of. This witness went in favour of Yusuf (a.s.) and Allah (S.w.T.) has
 relieved him of the trouble.
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاء إِنَّهُ مِنْ
-عِبَادِنَا الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاء إِنَّهُ مِنْ
+> عِبَادِنَا الْمُخْلَصِينَ
 
 ***..Thus (it was) that We might turn away from him evil and indecency,
 surely he was one of Our sincere servants.*** ***(Sura Yusuf, 12:24)***
@@ -794,5 +754,4 @@ desires with His help.”[^1]
 
 [^1]: Ref: Bihar al-Anwār, Vol 9, Kitab ad-Du’a, Chapter: Ad’iyaa wa
 munajaat.
-
 

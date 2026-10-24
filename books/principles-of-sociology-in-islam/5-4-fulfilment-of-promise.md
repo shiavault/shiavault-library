@@ -15,17 +15,13 @@ free of legal bindings.
 The Qur'an regards fulfilment of promises as a part of belief and one of
 the qualities of the believers;
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ الَّذِينَ هُمْ فِي صَلَاتِهِمْ
-خَاشِعُونَ وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ وَالَّذِينَ
-هُمْ لِلزَّكَاةِ فَاعِلُونَ وَالَّذِينَ هُمْ لِفُرُوجِهِمْ
-حَافِظُونَ إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ
-فَإِنَّهُمْ غَيْرُ مَلُومِينَ فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ
-فَأُولَٰئِكَ هُمُ الْعَادُونَ وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ
-وَعَهْدِهِمْ رَاعُونَ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ الَّذِينَ هُمْ فِي صَلَاتِهِمْ
+> خَاشِعُونَ وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ وَالَّذِينَ
+> هُمْ لِلزَّكَاةِ فَاعِلُونَ وَالَّذِينَ هُمْ لِفُرُوجِهِمْ
+> حَافِظُونَ إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ
+> فَإِنَّهُمْ غَيْرُ مَلُومِينَ فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ
+> فَأُولَٰئِكَ هُمُ الْعَادُونَ وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ
+> وَعَهْدِهِمْ رَاعُونَ
 
 ***The believers are successful, those who humble themselves in their
 prayers, who refrain from vain talk . . . those who faithfully observe
@@ -33,23 +29,15 @@ their trusts and their covenants. (23:1-8)***
 
 Another Qur'anic verse says;
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا
-  </p>
-</blockquote>
+> وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا
 
 ***. . . ( Righteous are) those who fulfil the contracts which they have
 made . . . (2:177)***
 
 The Holy Prophet (S) on one occasion said:
 
-<blockquote dir="rtl">
-  <p>
-من عامل الناس فلم يظلمهم وحدثهم فلم يكذبهم ووعدهم فلم يُخلفهم فهو ممن
-كملت مرؤته وظهرت عدالته ووجبت أخوته
-  </p>
-</blockquote>
+> من عامل الناس فلم يظلمهم وحدثهم فلم يكذبهم ووعدهم فلم يُخلفهم فهو ممن
+> كملت مرؤته وظهرت عدالته ووجبت أخوته
 
 One who dealt with people and did not do injustice to them; and talked
 with them and did not tell lies to them; and made a covenant with them
@@ -59,12 +47,8 @@ seeking[^1].
 
 The fifth Imam, Muhammad al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-ثلاث لم يجعل الله عز وجل لإحد فيهن رخصة: اداء الأمانة إلى البر والفاجر
-والوفاء بالعهد للبر والفاجر وبر الوالدين برين كانا أو فاجرين.
-  </p>
-</blockquote>
+> ثلاث لم يجعل الله عز وجل لإحد فيهن رخصة: اداء الأمانة إلى البر والفاجر
+> والوفاء بالعهد للبر والفاجر وبر الوالدين برين كانا أو فاجرين.
 
 There are three things in which Allah has not given any option to anyone
 (i.e., they are compulsory, nobody can avoid them)
@@ -93,5 +77,4 @@ of life and are injurious to society.
 [^1]: Biharu '1-Anwar, vol. 75.
 
 [^2]: al-Usul al-Kafi\`, vol. 2.
-
 

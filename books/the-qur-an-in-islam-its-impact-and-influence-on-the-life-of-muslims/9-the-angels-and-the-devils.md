@@ -232,4 +232,3 @@ These verses refer to man's natural instinct which, unless checked,
 drives him to take advantage of his fellow-men and in doing so to
 overstep the rights of others.
 
-

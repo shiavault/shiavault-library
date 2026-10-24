@@ -520,4 +520,3 @@ the Prophet had confidence.The Apostle returned to Medina with the
 Muslim host after an absence of more than a month. *(Mohammed and the
 Rise of Islam, London, 1931)*
 
-

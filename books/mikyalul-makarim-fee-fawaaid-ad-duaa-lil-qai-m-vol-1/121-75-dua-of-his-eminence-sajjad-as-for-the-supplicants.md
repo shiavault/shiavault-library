@@ -99,13 +99,9 @@ Messenger of Allah (S) has done that: Why did he not do the opposite of
 it? Or that they feel it in his heart, due to this matter they become
 polytheists. Then he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***“But no! by your Lord! they do not believe (in reality) until they
 make you a judge of that which has become a matter of disagreement among
@@ -189,5 +185,4 @@ contemplation will be known for the followers of this family.
 [^2]: Kafi; Vol. 1, Pg. 390
 
 [^3]: Kharaij, Pg. 92
-
 

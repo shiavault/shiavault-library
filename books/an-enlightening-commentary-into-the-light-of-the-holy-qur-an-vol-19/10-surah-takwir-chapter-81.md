@@ -8,11 +8,7 @@ Surah Takwir, Chapter 81
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -80,67 +76,27 @@ recitation, is to produce knowledge, faith, and action in the reciter.
 Surah Takwir, Verses 1-9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا الشَّمْسُ كُوِّرَتْ
-  </p>
-</blockquote>
+> إِذَا الشَّمْسُ كُوِّرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا النُّجُومُ انْكَدَرَتْ
-  </p>
-</blockquote>
+> وَإِذَا النُّجُومُ انْكَدَرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجِبَالُ سُيِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجِبَالُ سُيِّرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْعِشَارُ عُطِّلَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْعِشَارُ عُطِّلَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْوُحُوشُ حُشِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْوُحُوشُ حُشِرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْبِحَارُ سُجِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْبِحَارُ سُجِّرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا النُّفُوسُ زُوِّجَتْ
-  </p>
-</blockquote>
+> وَإِذَا النُّفُوسُ زُوِّجَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْمَوْءُودَةُ سُئِلَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْمَوْءُودَةُ سُئِلَتْ
 
-<blockquote dir="rtl">
-  <p>
-بِأَيِّ ذَنْبٍ قُتِلَتْ
-  </p>
-</blockquote>
+> بِأَيِّ ذَنْبٍ قُتِلَتْ
 
 ***1. “When the sun is folded up;"***  
 ***2. “And when the stars darken;"***  
@@ -413,35 +369,15 @@ the testimony of the murdered ones is enough.
 Surah Takwir, Verses 10-14
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الصُّحُفُ نُشِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الصُّحُفُ نُشِرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا السَّمَاءُ كُشِطَتْ
-  </p>
-</blockquote>
+> وَإِذَا السَّمَاءُ كُشِطَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجَحِيمُ سُعِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجَحِيمُ سُعِّرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجَنَّةُ أُزْلِفَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجَنَّةُ أُزْلِفَتْ
 
-<blockquote dir="rtl">
-  <p>
-عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ
-  </p>
-</blockquote>
+> عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ
 
 ***10. “And when the scrolls (of the deeds of mankind) are spread,”***  
 ***11. “And when the heaven shall be unveiled,”***  
@@ -641,71 +577,27 @@ these statistics.
 Surah Takwir, Verses 15-25
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِالْخُنَّسِ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِالْخُنَّسِ
 
-<blockquote dir="rtl">
-  <p>
-الْجَوَارِ الْكُنَّسِ
-  </p>
-</blockquote>
+> الْجَوَارِ الْكُنَّسِ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذَا عَسْعَسَ
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذَا عَسْعَسَ
 
-<blockquote dir="rtl">
-  <p>
-وَالصُّبْحِ إِذَا تَنَفَّسَ
-  </p>
-</blockquote>
+> وَالصُّبْحِ إِذَا تَنَفَّسَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
-  </p>
-</blockquote>
+> إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ
-  </p>
-</blockquote>
+> ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ
 
-<blockquote dir="rtl">
-  <p>
-مُطَاعٍ ثَمَّ أَمِينٍ
-  </p>
-</blockquote>
+> مُطَاعٍ ثَمَّ أَمِينٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا صَاحِبُكُمْ بِمَجْنُونٍ
-  </p>
-</blockquote>
+> وَمَا صَاحِبُكُمْ بِمَجْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ
-  </p>
-</blockquote>
+> وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ
-  </p>
-</blockquote>
+> وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
-  </p>
-</blockquote>
+> وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
 
 ***15. "No, I swear by the orbiting planets,”***  
 ***16. "That run their course, (and) set,”***  
@@ -1076,29 +968,13 @@ of Mecca to communicate the beginning verses of Surah Taubah, No. 9.
 Surah Takwir, Verses 26-29
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَيْنَ تَذْهَبُونَ
-  </p>
-</blockquote>
+> فَأَيْنَ تَذْهَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ
-  </p>
-</blockquote>
+> لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ
 
 ***26. “Whither then will you go?”***  
 ***27. “Surely it (the Qur'an) is naught but a Reminder to (all) the
@@ -1261,5 +1137,4 @@ Nur-uth-Thaqalayn, vol 5, p. 512.
 No. 78, verse 13
 
 [^10]: Surah Zariyat, No. 51, verse 52
-
 

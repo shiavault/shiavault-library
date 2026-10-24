@@ -22,4 +22,3 @@ safe from the evil influence of these sinful habits. You will find this
 subject adequately explained in the Appendix.  
   
 
-

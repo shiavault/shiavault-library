@@ -10,11 +10,7 @@ Surah An-Naml, Chapter 27
 The Feature of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -52,5 +48,4 @@ involved in His Grace and support.”*
 (If he fulfils his religions duties sincerely.)[^1]
 
 [^1]: Nur-uth-Thaqalayn, Vol. 4, P. 74
-
 

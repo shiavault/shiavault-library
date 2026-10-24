@@ -5,11 +5,7 @@ In the Name of Allah, the Most Gracious, the Most Merciful
 
 Prophet Muhammad (s.a.w) has said,
 
-<blockquote dir="rtl">
-  <p>
-بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الأَخْلاَقِ
-  </p>
-</blockquote>
+> بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الأَخْلاَقِ
 
 ***“I have been sent to perfect the good morals.”***
 
@@ -39,5 +35,4 @@ success in their lives in this world and the hereafter.
 **Islamic Education**  
 **The World Federation of Khoja Shia Ithna-Asheri Muslim Communities**  
 *Dhul Qa'dah 1433 / October 2012*
-
 

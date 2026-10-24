@@ -16,11 +16,7 @@ with here. However, a few of them will be presented.
 
 1. The Holy Quran considers the Prophet worthier than Muslims:
 
-<blockquote dir="rtl">
-  <p>
-﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
 
 ***“The Prophet has a greater claim on the faithful than they have on
 themselves”.***[^1]
@@ -28,12 +24,8 @@ themselves”.***[^1]
 2. The Holy Quran assigns the Prophet to judge over the divine laws for
 people,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاحْكُمْ بَيْنَهُمْ بِما أَنْزَلَ اللَّهُ وَ لا تَتَّبِعْ
-أَهْواءَهُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ فَاحْكُمْ بَيْنَهُمْ بِما أَنْزَلَ اللَّهُ وَ لا تَتَّبِعْ
+> أَهْواءَهُمْ ﴾
 
 ***“Therefore judge between them by what Allah has revealed and do not
 follow their low desires (to turn away from the truth)”.*** [^2]
@@ -89,11 +81,7 @@ and knowledge”.***
 
 And Yusuf [Joseph] thankfully replies to God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ ﴾
-  </p>
-</blockquote>
+> ﴿ رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ ﴾
 
 ***“My Lord! Thou hast given me of the kingdom and taught me the
 interpretation of sayings”***[^6]
@@ -120,12 +108,8 @@ Quranic verses.
 In the following verse, the Holy Quran introduces the Prophet as the
 introducer of the sacred concepts in the Holy Book:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنْزَلْنا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ ما نُزِّلَ
-إِلَيْهِم
-  </p>
-</blockquote>
+> وَ أَنْزَلْنا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ ما نُزِّلَ
+> إِلَيْهِم
 
 ***“And We have revealed to you the reminder that you may make clear to
 men what has been revealed to them”.*** [^8]
@@ -143,8 +127,6 @@ Quran says:
 ﴿ هُوَ الَّذِي بَعَثَ فِي الأُْمِّيِّينَ رَسُولاً مِنْهُمْ يَتْلُوا
 عَلَيْهِمْ آياتِهِ وَ يُزَكِّيهِمْ وَ يُعَلِّمُهُمُ الْكِتابَ وَ
 الْحِكْمَةَ
-
-  
 
 **  
 **
@@ -184,12 +166,8 @@ says: true wisdom is located inside a healthy body).
 
 Now observe the text of the verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللَّهَ اصْطَفاهُ عَلَيْكُمْ وَ زادَهُ بَسْطَةً فِي الْعِلْمِ
-وَ الْجِسْمِ ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللَّهَ اصْطَفاهُ عَلَيْكُمْ وَ زادَهُ بَسْطَةً فِي الْعِلْمِ
+> وَ الْجِسْمِ ﴾
 
 ***“Surely Allah has chosen him in preference to you and he has
 increased him abundantly in knowledge and physique”.*** [^10]
@@ -306,11 +284,7 @@ leader accepts such a role only to correct an evil-doer.
 Imam Ali (as), referring to those governors who look at the government
 as an objective in itself, says:
 
-<blockquote dir="rtl">
-  <p>
-“و إنّ دنياكُم هذهِ أزهدُ عندي من عفطةِ عنز”
-  </p>
-</blockquote>
+> “و إنّ دنياكُم هذهِ أزهدُ عندي من عفطةِ عنز”
 
 “The world of yours is meaner in my view than the water from a goat's
 nose”.[^17]
@@ -373,5 +347,4 @@ Ali.
 [^16]: . Quran 4:54.
 
 [^17]: . Nahj-ul- Balaghah, sermon no. 3.
-
 

@@ -10,4 +10,3 @@ patience is Paradise.
 
 *Al-Kafi, vol. 4, pg. 66*
 
-

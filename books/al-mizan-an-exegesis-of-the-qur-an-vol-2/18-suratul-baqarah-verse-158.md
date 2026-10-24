@@ -1,13 +1,9 @@
 Suratul Baqarah: Verse 158
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-(١٥٨) إِنَّ ٱلصَّفَا وَٱلمَرۡوَةَ مِن شَعَآئرِ ٱللَّهِ‌ۖ فَمَنۡ حَجَّ
-ٱلبَيتَ أَوِ ٱعتَمَرَ فَلَا جُنَاحَ عَلَيهِ أَن يَطَّوَّفَ بِهِمَا‌ۚ
-وَمَن تَطَوَّعَ خَيرً۬ا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ
-  </p>
-</blockquote>
+> (١٥٨) إِنَّ ٱلصَّفَا وَٱلمَرۡوَةَ مِن شَعَآئرِ ٱللَّهِ‌ۖ فَمَنۡ حَجَّ
+> ٱلبَيتَ أَوِ ٱعتَمَرَ فَلَا جُنَاحَ عَلَيهِ أَن يَطَّوَّفَ بِهِمَا‌ۚ
+> وَمَن تَطَوَّعَ خَيرً۬ا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ
 
 ***Surely the Safa and the Marwah are among the signs of Allah; so
 whoever makes a pilgrimage to the House or per-forms*** **'umrah**
@@ -256,5 +252,4 @@ year of *hijrah.* It shows that the verses were revealed in various
 contexts, not in one.
 
 [^1]: In the 7th year of hijrah. (tr.)
-
 

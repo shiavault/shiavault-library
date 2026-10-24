@@ -29,4 +29,3 @@ As for as the nature of Human Rights is concerned, two main approaches
 were adopted to explain the nature of Human Rights from time to time.
 The approaches are philosophical approach and pragmatic approach.
 
-

@@ -4,7 +4,6 @@ Part 1: Ground Work
 1) Introduction and the First Aspect: a study of Theology and the Science of Gnosis
 -----------------------------------------------------------------------------------
 
-
 May Allah give me success in completion of this book, by the blessing
 of Muhammad, his pure family and progeny. Praise belongs to Allah, Who
 has illuminated the hearts of His slaves by the knowledge of the truth,
@@ -1285,7 +1284,6 @@ exists no contradiction between the different levels, we shall begin the
 second aspect of our study, namely the superiority of one level over the
 next.
 
-
 2) The Second Aspect
 --------------------
 
@@ -1294,7 +1292,6 @@ haqiqah*** **(the inner truth) and how their station is higher than
 that** ***of*** **the people** ***of tariqah*** **(the way); and how the
 people** ***of tariqah*** **are higher than the people** ***of
 shari\`ah*** **(the law)**
-
 
 Know that although *shari\`ah, tariqah* and *haqiqah* all describe one
 truth, *haqiqah* and its people are higher than *tariqah* and *tariqah*
@@ -1509,13 +1506,11 @@ may be of the lowest.' There are many examples of this nature in the
 Qur'an ‑ and Allah is more knowing and of greater wisdom. He it is Who
 declares the Truth and Who guides to the right path.
 
-
 3) The Third Aspect
 -------------------
 
 **The Third Aspect: the need of the intellect for the divine code of
 laws and the dependence of the latter on the intellect**
-
 
 Know that this study necessitates a passage of introduction, namely a
 description of how all the prophets and intimate friends or saints are
@@ -1886,14 +1881,12 @@ two principles and the two rules. The first principle concerns the
 general duty incum­bent upon the prophets, the messengers and the saints
 which is the duty to instruct and guide creation to the straight path.
 
-
 4) The First Principle
 ----------------------
 
 **The First Principle: the general precepts of the prophets and
 messengers in their instruction and guidance of mankind to the straight
 path**
-
 
 Know that the general precepts and the body of laws established by the
 prophets, messengers, saints and Imams from Adam him­self to our Prophet
@@ -2450,17 +2443,12 @@ the development and progression of this being with respect to the realm
 of form and to the realm of inner meaning and in accordance with their
 station of perfection.
 
-
-
 5) The Second Principle
 -----------------------
-
-
 
 **The Second Principle:** **Allah's designation of a specific perfection
 to each existing thing whether spiritual or corporeal ‑ in both the
 phenomenal realm and the realm of inner meaning.**
-
 
 Know that the search after perfection is not a feature particular to
 man alone, but rather of all existent and created beings, be they of a
@@ -2837,8 +2825,6 @@ you the truth and admonition and a reminder to the believers;' and Allah
 is more Knowing and more Wise, He it is Who says the truth and guides to
 the correct path.
 
-
-
 [^1]: The text of the copy in my possession as well those copies in the
 Mar'ashi and Consultative Assembly Libraries were all interrupted here;
 in the book Jami 'al‑Asrar, however, the text reads: (after \`because')
@@ -2849,5 +2835,4 @@ copies there is an empty space of half a line. And Allah knows best.
 
 [^2]: A detailed Exposition of the Two Lives of this World and the Next
 with respect to the Obtaining of the Two Happinesses
-
 

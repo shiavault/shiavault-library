@@ -255,4 +255,3 @@ public assembly. There also he availed of the opportunity to speak. By
 uttering a few sentences though they were brief, he impressed the
 gathering.
 
-

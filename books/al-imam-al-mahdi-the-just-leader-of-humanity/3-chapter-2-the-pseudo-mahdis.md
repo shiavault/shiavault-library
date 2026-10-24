@@ -495,4 +495,3 @@ traditions related by Imam 'Ali Naqi
 In addition, there are twenty one traditions reported on the authority
 of Imam Hasan 'Askari
 
-

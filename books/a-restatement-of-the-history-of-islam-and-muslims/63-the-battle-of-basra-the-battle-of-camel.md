@@ -1323,4 +1323,3 @@ Qurayshi to rise to high position. Any man – whether or not he was a
 Qurayshi - could rise to the highest positions during Ali's caliphate,
 if he could present two “credentials” – character and ability.
 
-

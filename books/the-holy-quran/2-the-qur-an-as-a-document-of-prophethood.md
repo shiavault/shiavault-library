@@ -68,7 +68,6 @@ transmission back to the Prophet himself; these verses confirm the
 miraculous quality of the book and state that it is beyond the power of
 man to produce such a work.
 
-
 **The Prophet's miracle**
 
 **Prophets and Miracles**
@@ -117,7 +116,6 @@ It describes the social responsibilities of man; it teaches the ways
 and the rules of social behaviour. It puts an end to class differences
 and unequal divisions. It wishes the highest in man and his borotherhood
 and equality and his elevation.
-
 
 **Unequalled Eloquence**
 
@@ -214,5 +212,4 @@ Qur'an transcends the limits of prose and poetry, because it has special
 qualities which cannot be found in any poem or prose. So the Qur'an
 cannot be called poetry or prose, rather it should be said:" It is the
 Qur'an, that is all."
-
 

@@ -93,4 +93,3 @@ away. May their souls rest in peace!
  Lahore: August 1, 1961  
  M. M. Sharif
 
-

@@ -7,15 +7,11 @@ Surah An-Nisa', Verse 113
 Endeavours of the Hypocrites to destroy the Muslims - secret plots of
 the Hypocrites- Plots against the Apostle doomed to failure
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلاَ فَضْلُ اللّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّت طَّآئِفَةٌ
-مُّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلاُّ أَنفُسَهُمْ وَمَا
-يَضُرُّونَكَ مِن شَيْءٍ وَأَنزَلَ اللّهُ عَلَيْكَ الْكِتَابَ
-وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ وَكَانَ فَضْلُ
-اللّهِ عَلَيْكَ عَظِيمًا
-  </p>
-</blockquote>
+> وَلَوْلاَ فَضْلُ اللّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّت طَّآئِفَةٌ
+> مُّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلاُّ أَنفُسَهُمْ وَمَا
+> يَضُرُّونَكَ مِن شَيْءٍ وَأَنزَلَ اللّهُ عَلَيْكَ الْكِتَابَ
+> وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ وَكَانَ فَضْلُ
+> اللّهِ عَلَيْكَ عَظِيمًا
 
 **113.** ***"And had it not been Allah's grace on you and His Mercy, a
 party of them had certainly resolved to lead you astray, but they do not
@@ -61,14 +57,10 @@ causes of light and inerrancy.
 Surah An-Nisa', Verse 114
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ إِلاَّ مَنْ أَمَرَ
-بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلاَحٍ بَيْنَ النَّاسِ وَمَن
-يَفْعَلْ ذَلِكَ ابْتَغَاء مَرْضَاتِ اللّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا
-عَظِيمًا
-  </p>
-</blockquote>
+> لاَّ خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ إِلاَّ مَنْ أَمَرَ
+> بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلاَحٍ بَيْنَ النَّاسِ وَمَن
+> يَفْعَلْ ذَلِكَ ابْتَغَاء مَرْضَاتِ اللّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا
+> عَظِيمًا
 
 **114.** ***"There is no good in most of their secret conferences,
 except for him who enjoins charity or goodness or reconciliation between
@@ -120,13 +112,9 @@ ordinance in the Qur'an may also be the very fact.
 Surah An-Nisa', Verse 115
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَى
-وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّى
-وَنُصْلِهِ جَهَنَّمَ وَسَاءتْ مَصِيرًا
-  </p>
-</blockquote>
+> وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَى
+> وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّى
+> وَنُصْلِهِ جَهَنَّمَ وَسَاءتْ مَصِيرًا
 
 **115.** ***"And whoever opposes the Messenger after the guidance has
 become manifest to him, and follows other than the way of the believers,
@@ -167,5 +155,4 @@ evil destination. It says:
 
 ***"... and We shall expose him to Hell, and an evil destination it
 is!"***
-
 

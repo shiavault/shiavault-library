@@ -718,4 +718,3 @@ fruitful trees.
 
 [^51]: Muhaj ad-Da’awat, p.274.
 
-

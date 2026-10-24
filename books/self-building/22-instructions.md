@@ -34,14 +34,10 @@ strictly avoid over-eating and becoming a slave of belly.
 terminates ablution he should perform it again. The Holy Prophet (S)
 narrated a tradition:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: قول الله تعالى: من أحدث ولم يتوضأ فقد
-جفاني, ومن أحدث وتوضأ ولم يصلِّ ركعتين فقد جفاني ومن أحدث وتوضأ، وصلى
-ركعتين، ودعاني ولم أجبه فيما سألني من أمر دينه ودنياه، فقد جفوته..
-ولست برب جاف.
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: قول الله تعالى: من أحدث ولم يتوضأ فقد
+> جفاني, ومن أحدث وتوضأ ولم يصلِّ ركعتين فقد جفاني ومن أحدث وتوضأ، وصلى
+> ركعتين، ودعاني ولم أجبه فيما سألني من أمر دينه ودنياه، فقد جفوته..
+> ولست برب جاف.
 
 *“God-Almighty said: 'Whoever after termination of ablution does not
 perform it again has been unfaithful to me,' whoever after performance
@@ -89,18 +85,14 @@ recite the following verses of Surah Heights (*al-Araf*) with heart's
 presence, which is useful for attaining certainty and negation of
 external thoughts.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
-النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
-مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ
-اللَّهُ رَبُّ الْعَالَمِينَ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ
-إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ وَلَا تُفْسِدُوا فِي الْأَرْضِ
-بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ
-اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
+> النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
+> مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ
+> اللَّهُ رَبُّ الْعَالَمِينَ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ
+> إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ وَلَا تُفْسِدُوا فِي الْأَرْضِ
+> بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ
+> اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ
 
 “Inna Rabbokumul lahu lazi khalaqas samawate wal arzfi sittate ayyame
 summastavi ala arsh yaghshil lailin nahar yatlebo hasisan washamso wal
@@ -255,47 +247,35 @@ disregards My limits and transgresses?” The Commander of the Faithful
 after narrating this narration said: 'Oh Nouf ! recite the following
 prayer:
 
-<blockquote dir="rtl">
-  <p>
-إلهي إن حمدتك فبمواهبك، وإن مجدتك فبمرادك، وإن قدّستك فبقوّتك، وإن
-هلّلتك فبقدرتك، وإن نظرت فإلى رحمتك، وإن عضضت فعلى نعمتك, إلهي إنّه من
-لم يشغله الولوع بذكرك, ولم يزده السفر بقربك, كانت حياته عليه ميتة
-وميتته عليه حسرة, إلهي تاهت أبصار الناظرين إليك بسرائر القلوب، وطالعت
-أصغى السامعين لك نجيّات الصدور، فلم يلق أبصارهم ردٌّ دون ما يريدون،
-هتكت بينك وبينهم حجب الغفلة، فسكنوا في نورك وتنفسّوا بروحك، فصارت
-قلوبهم مغارساً لهيبتك، وأبصارهم ماكفاً لقدترك، وقرّبت أرواحهم من قدسك،
-فجالسوا اسمك بوقار المجالسة وخضوع المخاطبة، فأقبلت إليهم إقبال الشفيق،
-وأنصتّ لهم إنصات الرفيق، وأجبتهم إجابات الأحبّاء، وناجيتهم مناجاة
-الأخلاّء، فبلغ بي المحلّ الذي إليه وصلوا, وانقلني من ذكري إلى ذكرك,
-ولا تترك بيني وبين ملكوت عزّك باباً إلاّ فتحته, ولا حجاباً من حجب
-الغفلة إلاّ هتكته, حتّى تقيم روحي بين ضياء عرشك، وتجعل لنا مقاماً نصب
-نورك إنّك على كلّ شيء قدير.
-  </p>
-</blockquote>
+> إلهي إن حمدتك فبمواهبك، وإن مجدتك فبمرادك، وإن قدّستك فبقوّتك، وإن
+> هلّلتك فبقدرتك، وإن نظرت فإلى رحمتك، وإن عضضت فعلى نعمتك, إلهي إنّه من
+> لم يشغله الولوع بذكرك, ولم يزده السفر بقربك, كانت حياته عليه ميتة
+> وميتته عليه حسرة, إلهي تاهت أبصار الناظرين إليك بسرائر القلوب، وطالعت
+> أصغى السامعين لك نجيّات الصدور، فلم يلق أبصارهم ردٌّ دون ما يريدون،
+> هتكت بينك وبينهم حجب الغفلة، فسكنوا في نورك وتنفسّوا بروحك، فصارت
+> قلوبهم مغارساً لهيبتك، وأبصارهم ماكفاً لقدترك، وقرّبت أرواحهم من قدسك،
+> فجالسوا اسمك بوقار المجالسة وخضوع المخاطبة، فأقبلت إليهم إقبال الشفيق،
+> وأنصتّ لهم إنصات الرفيق، وأجبتهم إجابات الأحبّاء، وناجيتهم مناجاة
+> الأخلاّء، فبلغ بي المحلّ الذي إليه وصلوا, وانقلني من ذكري إلى ذكرك,
+> ولا تترك بيني وبين ملكوت عزّك باباً إلاّ فتحته, ولا حجاباً من حجب
+> الغفلة إلاّ هتكته, حتّى تقيم روحي بين ضياء عرشك، وتجعل لنا مقاماً نصب
+> نورك إنّك على كلّ شيء قدير.
 
-<blockquote dir="rtl">
-  <p>
-إلهي ما أوحش طريقاً لا يكون رفيقي فيه أملي فيك، وأبعد سفراً لا يكون
-رجائي منه دليلي منك، خاب من اعتصم بحبل غيرك، وضعف ركن من استند إلى غير
-ركنك، فيا معلّم مؤمّليه الأمل فيذهب عنهم كآبة الوجل، لا تحرمني صالح
-العمل, واكلأني كلاءة من فارقته الحيل، فكيف يلحق مؤمليك ذلّ الفقر وأنت
-الغنيّ عن مضارّ المذنبين, إلهي وإنّ كلّ حلاوة منقطعة, وحلاوة الايمان
-تزداد حلاوتها اتّصالا بك, إلهي وإنّ قلبي قد بسط أمله فيك, فأذقته من
-حلاوة بسطك إيّاه البلوغ لما أمّل، إنّك على كلّ شيء قدير.
-  </p>
-</blockquote>
+> إلهي ما أوحش طريقاً لا يكون رفيقي فيه أملي فيك، وأبعد سفراً لا يكون
+> رجائي منه دليلي منك، خاب من اعتصم بحبل غيرك، وضعف ركن من استند إلى غير
+> ركنك، فيا معلّم مؤمّليه الأمل فيذهب عنهم كآبة الوجل، لا تحرمني صالح
+> العمل, واكلأني كلاءة من فارقته الحيل، فكيف يلحق مؤمليك ذلّ الفقر وأنت
+> الغنيّ عن مضارّ المذنبين, إلهي وإنّ كلّ حلاوة منقطعة, وحلاوة الايمان
+> تزداد حلاوتها اتّصالا بك, إلهي وإنّ قلبي قد بسط أمله فيك, فأذقته من
+> حلاوة بسطك إيّاه البلوغ لما أمّل، إنّك على كلّ شيء قدير.
 
-<blockquote dir="rtl">
-  <p>
-إلهي أسألك مسألة المسكين الذي قد تحيّر في رجاه فلا يجد ملجأً ولا
-مسنداً يصل به إليك، ولا يستدلّ به عليك إلاّ بك وبأركانك ومقاماتك التي
-لا تعطيل لها منك، فأسألك باسمك الذي ظهرت له لخاصة أوليائك فوحّدوك
-وعرفوك فعبدوك بحقيقتك أن تعرّفني نفسك لأقرّ لك بربوبيّتك على حقيقة
-الايمان بك، ولا تجعلني يا إلهي ممن يعبد الاسم دون المعنى، والحظني
-بلحظة من لحظاتك تنوّر بها قلبي بمعرفتك خاصة ومعرفة أوليائك إنك على كلّ
-شيء قدير.
-  </p>
-</blockquote>
+> إلهي أسألك مسألة المسكين الذي قد تحيّر في رجاه فلا يجد ملجأً ولا
+> مسنداً يصل به إليك، ولا يستدلّ به عليك إلاّ بك وبأركانك ومقاماتك التي
+> لا تعطيل لها منك، فأسألك باسمك الذي ظهرت له لخاصة أوليائك فوحّدوك
+> وعرفوك فعبدوك بحقيقتك أن تعرّفني نفسك لأقرّ لك بربوبيّتك على حقيقة
+> الايمان بك، ولا تجعلني يا إلهي ممن يعبد الاسم دون المعنى، والحظني
+> بلحظة من لحظاتك تنوّر بها قلبي بمعرفتك خاصة ومعرفة أوليائك إنك على كلّ
+> شيء قدير.
 
 *“Oh God! If I adore you -it is because of Your Mercy and Compassion,.
 if Glorify you -it is because of Your commandments, if I sanctify and
@@ -387,12 +367,8 @@ for the Prophet's mosque and offered salutation to him. Next day, I went
 to the Holy Prophet's tomb and after offering two units of prayer raised
 my hands up and said:
 
-<blockquote dir="rtl">
-  <p>
-يا الله يا الله ان تعطف على قلب جغقر وترزقنى من علمه ما اهتدى به الى
-صراطك المستقيم.
-  </p>
-</blockquote>
+> يا الله يا الله ان تعطف على قلب جغقر وترزقنى من علمه ما اهتدى به الى
+> صراطك المستقيم.
 
 *“Oh God! Oh God! Make Jafar's heart soft for me so that I could utilize
 his knowledge, and guide me towards straight path.”* After that with a
@@ -465,12 +441,8 @@ considered as means of prestige and superiority among the people and
 would not waste his precious hours in false pleasures. This is the first
 rank of piety which have been described by God-Almighty as follows:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
-عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
+> عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***“As for that abode of the Hereafter, we assign it unto those who seek
 not oppression in the earth, nor yet corruption, the sequel is for those
@@ -601,12 +573,8 @@ The most eminent learned Divine scholar and gnostic (late) Akhund Mulla
 Husayn-Quli Hamadani (r.a.) in his letter to one of the scholar in
 Tabriz writes:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمان الرحيم. الحمدلله رب العالمين والصلاة والسلام على محمد
-وآله الطاهرين ولعنة الله على أعدائهم اجمعين.
-  </p>
-</blockquote>
+> بسم الله الرحمان الرحيم. الحمدلله رب العالمين والصلاة والسلام على محمد
+> وآله الطاهرين ولعنة الله على أعدائهم اجمعين.
 
 (Bismillah ar Rahman ar Rahim, Alhamdulillahi rabal alimin was salat was
 salam ala Muhammad wa aleh al tahirin wa lantatullahi ala adaihim
@@ -647,21 +615,17 @@ King would be useless. I don't know, what sort of King ? The exaltedness
 belong to that king of Splendor and Majesty, and which enmity could be
 more worst then enmity with such a King ?”
 
-<blockquote dir="rtl">
-  <p>
-فافهم مما ذكرت ان طلبك المحبة الالهية مع كونك مرتكبا للمعصية امر فاسد
-جدا و كيف يخفي عليك كون المعصية سببا للنفرة و كون النفرة مانعة الجمع
-مع المحبة و اذا تحقق عندك ان ترك المعصية اول الدين و آخره و ظاهره و
-باطنه فبادر الي المجاهدة و اشتغل بتمام الجد في المراقبة من اول قيامك
-من نومك في جميع آناتك الي نومك و الزم الادب في مقدس حضرته و اعلم انك
-جميع اجزا وجودك ذرة ذرة اسير قدرته وراع حرمة شريف حضوره و اعبده كانك
-تراه فان لم تكن تراه فانه يراك و التفت دائما الي عظمته و حقارتك و
-رفعته و دنائتك و عزته و ذلتك و غناه و حاجتك و لا تغفل عن شناعة غفلتك
-عنه جل جلاله مع التفاته اليك دائما و قم بين يديه مقام العبد الذليل
-الضعيف و تبصبص تحت قدميه بصبصة الكلب النحيف.اولا يكفيك شرفا و فخرا انه
-اذن لك في ذكر اسمه العظيم.بلسانك الكثيف الذي نجسته فاذورات المعاصي.
-  </p>
-</blockquote>
+> فافهم مما ذكرت ان طلبك المحبة الالهية مع كونك مرتكبا للمعصية امر فاسد
+> جدا و كيف يخفي عليك كون المعصية سببا للنفرة و كون النفرة مانعة الجمع
+> مع المحبة و اذا تحقق عندك ان ترك المعصية اول الدين و آخره و ظاهره و
+> باطنه فبادر الي المجاهدة و اشتغل بتمام الجد في المراقبة من اول قيامك
+> من نومك في جميع آناتك الي نومك و الزم الادب في مقدس حضرته و اعلم انك
+> جميع اجزا وجودك ذرة ذرة اسير قدرته وراع حرمة شريف حضوره و اعبده كانك
+> تراه فان لم تكن تراه فانه يراك و التفت دائما الي عظمته و حقارتك و
+> رفعته و دنائتك و عزته و ذلتك و غناه و حاجتك و لا تغفل عن شناعة غفلتك
+> عنه جل جلاله مع التفاته اليك دائما و قم بين يديه مقام العبد الذليل
+> الضعيف و تبصبص تحت قدميه بصبصة الكلب النحيف.اولا يكفيك شرفا و فخرا انه
+> اذن لك في ذكر اسمه العظيم.بلسانك الكثيف الذي نجسته فاذورات المعاصي.
 
 *“You must better understand that your efforts endeavor for achieving
 God's Nearness -while still sinning and being contaminated is a serious
@@ -783,12 +747,8 @@ and their Shiite's, a lot of traditions have been narrated.”*
 In the one of his prolonged prostration Imam al-Sajjad has repeated the
 following invocation one thousand times:
 
-<blockquote dir="rtl">
-  <p>
-لا اله الا الله حقا حقا. لا اله الا الله تعبدا ورقا لا اله الا الله
-ايمانا وتصدقا.
-  </p>
-</blockquote>
+> لا اله الا الله حقا حقا. لا اله الا الله تعبدا ورقا لا اله الا الله
+> ايمانا وتصدقا.
 
 (La illahi illahi haqan haqqa, la illahi illahi taubdan wa riqqa, la
 illahi illahi Imanan wa sadqa)
@@ -809,11 +769,7 @@ wayfarer in his spiritual gnostic journey ? ' He replied: 'To prolong
 the prostration during a period of twenty four hours and reciting of
 invocation:
 
-<blockquote dir="rtl">
-  <p>
-لا اله الا انت. سبحانك انى كنت من الظالمين.
-  </p>
-</blockquote>
+> لا اله الا انت. سبحانك انى كنت من الظالمين.
 
 (La illahi ilIa ant Subahnak Inni Kunt min as Zalimin). *“There is no
 God save Thee. Be Thou Glorified. Lo! I have been a wrong doer.”* While
@@ -843,11 +799,7 @@ feels frightened with the people until reaching to a point whereby he
 turns his face away from the people and takes shelter in invocation, as
 the Holy Qur’an says:*
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُ ۖ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ
-  </p>
-</blockquote>
+> قُلِ اللَّهُ ۖ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ
 
 ***“Say God! Then leave them in the play of caviling. (6:91)***
 
@@ -919,11 +871,7 @@ of “there is no god” announces the cleanliness of heart's domain from
 alien elements, one may then expect the entry of the Lord of the Majesty
 and Splendor. As the Holy Qur’an says:[^12]
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا فَرَغْتَ فَانصَبْ وَإِلَىٰ رَبِّكَ فَارْغَب
-  </p>
-</blockquote>
+> فَإِذَا فَرَغْتَ فَانصَبْ وَإِلَىٰ رَبِّكَ فَارْغَب
 
 ***“So when thou art relieved still toil and strive to please thy Lord.
 (94:7-8)***
@@ -970,12 +918,8 @@ disaffected he should discontinue and must start again at some
 appropriate time because the Commander of the Faithful Imam ‘Ali (a.s.)
 said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ان للقلوب سهوة واقبالا وادبارا فاتوها من قبل
-شهوتها واقبالها فان القلب اذا اكره عمى.
-  </p>
-</blockquote>
+> قال على عليه السلام: ان للقلوب سهوة واقبالا وادبارا فاتوها من قبل
+> شهوتها واقبالها فان القلب اذا اكره عمى.
 
 *“Sometimes the heart is. healthy and full of enthusiasm while at other
 times it is sick and disaffected, therefore, deeds must be performed
@@ -1165,5 +1109,4 @@ horizontal plane [Tr].
 [^12]: Marsad al-ebad, p-150.
 
 [^13]: Bihar al-Anwar, vol. 70, p-61.
-
 

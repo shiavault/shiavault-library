@@ -424,42 +424,34 @@ following metaphorical expressions:
 
 Expression:
 
-
 Meaning:
 
 "What you have given them"
-
 
 Dowry
 
 "If you fear"
 
-
 If you have reasonable ground to believe.
 
 "What she gives up"
-
 
 The redemption paid in al-khul'.
 
 "So if he divorces her"
 
-
 The third divorce.
 
 "She shall not be lawful to him"
-
 
 He is prohibited to marry her again and cohabit with her.
 
 "Until she marries another husband"
 
-
 Until she marries and cohabits with him. (Notice the politeness of the
 Qur'an)
 
 "If they return"
-
 
 If they marry again.
 
@@ -797,27 +789,21 @@ them that Allah knows every thing. As the intention cannot be "seen",
 man was reminded there that Allah "knows" every thing, and even his
 intention is not hidden from Him.
 
-
 QUR'AN: And (as for) those of you who die and leave wives behind, they
 should keep themselves in waiting for four months and ten (days):
-
 
 "at-Tawaffi" means to cause to die. It is said when Allah gave him
 death, and the dead man is called al-mutawaffa (one who is given
 death).
 
-
 "Yadharun" like yad 'un means "they leave", or "they shall leave".
 These two verbs have no past tense.
-
 
 "'Ashran" (= ten) here means ten days. 'Days' was deleted as the
 meaning was clear.
 
-
 QUR'AN: Then when they have fully attained their term, there is no
 blame on you for what they do for themselves in a proper manner:
-
 
 "Bulughu 'l-ajal" (= reaching the term) means completing the waiting
 period of death, prescribed above. "There is no blame on you . . ." is a
@@ -1128,101 +1114,81 @@ is as follows:
 
 al-Yaqin
 
-
 Conviction, Certitude
 
 az-Zann
-
 
 Weightier, Supposition
 
 al-Hisban
 
-
 Reckoning, Consideration
 
 ash-Shu'ur
-
 
 Sense
 
 adh-Dhikr
 
-
 Remembering
 
 al-Irfan
-
 
 Knowledge, Recognition
 
 al-Fahm
 
-
 Understanding
 
 al-Fiqh
-
 
 Knowledge
 
 ad-Dirayah
 
-
 Comprehension
 
 al-Fikr
-
 
 Thinking
 
 ar-Ra'y
 
-
 Opinion
 
 az-Za'm
-
 
 Assumption
 
 al-Hifz
 
-
 Preservation
 
 al-Hikmah
-
 
 Wisdom
 
 al-Khubrah
 
-
 Full Knowledge
 
 ash-Shahadah
-
 
 Witness
 
 al-'aql
 
-
 Intellect, Sense, Reason
 
 al-Qawl
-
 
 Saying, i.e. Opinion
 
 at-Fatwa
 
-
 Decree, Decision
 
 al-Basirah
-
 
 Insight
 

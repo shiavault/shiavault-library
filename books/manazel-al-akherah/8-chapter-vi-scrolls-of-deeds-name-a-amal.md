@@ -199,12 +199,10 @@ the hypocrites (munafeqeen) and disbelievers behind their necks. And in
 the supplication (du'a) to be recited during Wuzu, these two punishments
 are described:
 
-<p dir="rtl">
 اللّهُمَّ أعْطني كَتابِي بِيَميني والخُلْدَ في الجِنانِ بِيَساري
 وَحاسِبْني حَساباً يَسيراً اللّهُمَّ لا تُعطِني كَتابِي بِشِمالي وَلا
 مِنْ وَرائي ظَهْري وَلا تَجْعَلها مَغْلُولَةً الى عُنُقي وَأعُوذُ بَكَ
 مَنْ مُقطَعاتِ النّيرانِ
-</p>
 
 Here I quote the narration of Sayyed Ibne Tawoos : When the month of
 Ramazan would commence, Imam Ali Zainul Abedeen (A.S.) would stop
@@ -248,10 +246,8 @@ Allah! You forgive Ali bin Husain as He has forgiven us. O Allah save
 Him from the fire as He has freed us from bondage (slavery)”. His
 servants would say this, and then Imam (A.S.) would say:
 
-<p dir="rtl">
 اللّهُمَّ آمين رَبَّ العَالَمينَ اِذْهَبوا فَقَدْ عَفَوتُ عَنْكُمْ
 وَاعْتَقتُ رِقابَكُمْ رَجاءً لِلعَفْوِ عَنّي وَاعْتِقُ رَقَبَتي
-</p>
 
 Then when the day of Eidul Fitr would pass away, Imam (A.S.) would
 forgive all the things which His servants owed Him, and would make them

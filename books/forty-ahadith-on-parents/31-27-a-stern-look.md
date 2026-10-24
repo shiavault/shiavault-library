@@ -1,14 +1,10 @@
 27.  A Stern Look 
 ==================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ (ع) قَالَ: لَوْ عَلِمَ اللٌّهُ شَيْئاً
-أَدْنَى مِنْ أُفٍّ لَنَهَى عَنْهُ وَ هُوَ مِنْ أَدْنَى الْعُقُوقِ وَ
-مِنَ الْعُقُوقِ أَنْ يَنْظُرَ الرَّجُلُ إِلَى وَالِدَيْهِ فَيُحِدَّ
-النَّظَرَ إِلَيْهِمَا.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ (ع) قَالَ: لَوْ عَلِمَ اللٌّهُ شَيْئاً
+> أَدْنَى مِنْ أُفٍّ لَنَهَى عَنْهُ وَ هُوَ مِنْ أَدْنَى الْعُقُوقِ وَ
+> مِنَ الْعُقُوقِ أَنْ يَنْظُرَ الرَّجُلُ إِلَى وَالِدَيْهِ فَيُحِدَّ
+> النَّظَرَ إِلَيْهِمَا.
 
 Imam as-Sadiq (peace be upon him) has said: “Had Allah known of a thing
 more trivial and insignificant than the word ‘ugh’, he would have
@@ -18,5 +14,4 @@ the ways in which a person can be regarded as being disowned by the
 parents is that he casts a hard and stern look upon them.”
 
 Al-Kafi, Volume 4, Page 50
-
 

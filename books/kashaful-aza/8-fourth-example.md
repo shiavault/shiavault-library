@@ -34,7 +34,6 @@ e Asr e Ashur were invented. So that people forget Imam Hussain (as) and
 start doing these acts. If something else is left, they complete it by
 stopping the procession of Ashura to stand for prayer.
 
-
 **Ziaratul Hussain (as)**
 
 We have completed our book, but it is our duty to remove one last
@@ -46,7 +45,6 @@ Because according to them, hajj is wajib and ziarat is mustahab. This
 is also an attempt to decrease the importance of Imam Mazloom (as). We
 deny this rumor with our whole existence. We openly say Ziarat e Imam
 Hussain (as) is not mustahab. It is absolutely wajib (compulsory).
-
 
 Hajj is based upon conditions such as if you have the finances then you
 can perform, but the Ziarat of Imam Hussain (as) is wajib without any
@@ -90,5 +88,4 @@ grave or on the right or left side. Perform prayer behind Their grave in
 such a way you make Their grave become your Qibla. Their love and
 marifat (recognition) is wajib and without them your ziarat will never
 be accepted.
-
 

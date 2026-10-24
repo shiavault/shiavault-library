@@ -28,4 +28,3 @@ knew that nothing would come of Mohammad ibn 'Abdullah's uprising
 because nothing was written of his rule in *Mushaf Fatimah*, which
 mentioned the names of all future rulers.
 
-

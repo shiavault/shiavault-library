@@ -151,4 +151,3 @@ color are still there when one wears the ihram.
 
 6. To answer someone else's call with Labbaik.
 
-

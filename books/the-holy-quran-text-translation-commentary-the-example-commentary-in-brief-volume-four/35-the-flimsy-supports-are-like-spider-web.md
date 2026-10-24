@@ -148,7 +148,6 @@ getting nearer to beauty and goodnessِto the absolute goodness which is
 God; and getting more and more a distance from badness and evil. The
 prayer is a good mount to ride us from darkness to light.
 
-
 THE END OF PART 20 OF QURA"N
 [ 638 ]
 THANKS FOR HELP
@@ -208,5 +207,4 @@ Qura"n, books, and publishers:ِ
 6- WEBSTER AND OXFORD DICTIONARIES
 7- ARABIC / PERSIAN DICTIONARYِBY: SAYYED HAMID TABIBIYAN
 8- GROLIER CASSICS (GLASSICS APPRECIATION SOCIETY CONDENSATIONS
-
 

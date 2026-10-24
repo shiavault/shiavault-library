@@ -342,17 +342,17 @@ struck out by the imagination of Greece.
 Notes
 -----
 
-[^1] Prof.  Butcher, 1895 and 1898; Prof.  Bywater, 1909; and Prof.
+[^1]: Prof.  Butcher, 1895 and 1898; Prof.  Bywater, 1909; and Prof.
 Margoliouth, [^1911]:
 
-[^2] See Margoliouth, p. [^121]:  By water, with most editors, emends
+[^2]: See Margoliouth, p. [^121]:  By water, with most editors, emends
 the text.
 
-[^3] See my \_Euripides and his Age\_, pp.  221-[^45]:
+[^3]: See my \_Euripides and his Age\_, pp.  221-[^45]:
 
-[^4] Cf.  Hdt.  Ii.  48; cf.  42,[^144]:  The name of Dionysus must not
+[^4]: Cf.  Hdt.  Ii.  48; cf.  42,[^144]:  The name of Dionysus must not
 be openly mentioned in connexion with mourning (ib.  61, 132, 86).  This
 may help to explain the transference of the tragic shows to other
 heroes.
 
-[^5] In Miss Harrison's \_Themis\_, pp.  341-[^63]:
+[^5]: In Miss Harrison's \_Themis\_, pp.  341-[^63]:

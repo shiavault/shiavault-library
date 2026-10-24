@@ -108,7 +108,6 @@ who had escaped, promulgated their creed and cause in secret at Busra
 and Kufa and appeared in the following year in bands of fanatic
 insurgents but were easily put to flight or cut to pieces.
 
-
 **Syrian expedition frustrated
 **
 
@@ -583,7 +582,6 @@ past transgressions. Cultivate humility and forbearance : comfort
 yourself with piety and truth. Take count of your actions with your own
 conscience, for.
 
-
 4he who takes such count reaps a great reward, and he who neglects
 incurs great loss. He who acts with piety gives rest to his soul; he who
 takes warning understands the truth; he who understands it attains
@@ -851,7 +849,6 @@ ourselves pass away.
 
 **Humbleness and prostration bring nearness to God.
 **
-
 
 God the Almighty selected us from His Creation and selected for us our
 followers who assist us. They are pleased when we are pleased and are

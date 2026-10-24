@@ -38,12 +38,8 @@ hereafter.
 Asceticism denotes disinclination or lack of desire, as has been
 narrated with regard to the brothers of Yusuf (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمْ مَعْدُودَةٍ وَکَانُوا فِيهِ مِن
-الزَّاهِدِينَ
-  </p>
-</blockquote>
+> وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمْ مَعْدُودَةٍ وَکَانُوا فِيهِ مِن
+> الزَّاهِدِينَ
 
 ***“And they sold him for a small price, a few pieces of silver, showing
 no desire for him.”***[^1]
@@ -78,12 +74,8 @@ and it is for this reason that seasonal and periodical faith not only
 has no value, but also has negative consequences and has been reproached
 in various instances in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَکِبُوا فِي الْفُلْکِ دَعَوُا اللهَ مُخْلِصِينَ لَهُ الدِّينَ
-فَلَمَّا نَجَّاهُمْ إِلَی الْبَرِّ إِذَا هُمْ‌ يُشْرِکُون
-  </p>
-</blockquote>
+> فَإِذَا رَکِبُوا فِي الْفُلْکِ دَعَوُا اللهَ مُخْلِصِينَ لَهُ الدِّينَ
+> فَلَمَّا نَجَّاهُمْ إِلَی الْبَرِّ إِذَا هُمْ‌ يُشْرِکُون
 
 ***“So when they ride in the ships they call upon Allah, being sincerely
 obedient to Him, but*** ***when He brings them safe to the land, lo!
@@ -114,27 +106,15 @@ discreditable conduct which has appeared as a result of excessive
 fondness with the world to be fair. This interpretation has been
 explained by different expressions in the Glorious Qur’an, amongst them:
 
-<blockquote dir="rtl">
-  <p>
-... زَيَّنَّا لَهُمْ أَعْمَالَهُمْ...
-  </p>
-</blockquote>
+> ... زَيَّنَّا لَهُمْ أَعْمَالَهُمْ...
 
 ***“…We have made their deeds fair-seeming to them…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-... بَلْ‌ سَوَّلَتْ لَکُمْ أَنْفُسَکُمْ أَمْرًا...
-  </p>
-</blockquote>
+> ... بَلْ‌ سَوَّلَتْ لَکُمْ أَنْفُسَکُمْ أَمْرًا...
 
 ***“…your souls have made the matter light for you…”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-... وَزَيَّنَ لَهُمْ‌ الشَّيْطَانُ أَعْمَالَهُمْ...
-  </p>
-</blockquote>
+> ... وَزَيَّنَ لَهُمْ‌ الشَّيْطَانُ أَعْمَالَهُمْ...
 
 ***“…and the Satan has made their deeds fair-seeming to them…”***[^5]
 
@@ -147,12 +127,8 @@ defects and deficiencies of their beloved. Without doubt, such an
 individual only sees the outward deceptive world and is incapable of
 perceiving and comprehending its inner side and seeing beyond it:
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ ظَاهِرًا مِن الْحَيوةِ الدُّنْيا وَهُمْ عَن الآخِرَةِ هُمْ
-غَافِلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ ظَاهِرًا مِن الْحَيوةِ الدُّنْيا وَهُمْ عَن الآخِرَةِ هُمْ
+> غَافِلُونَ
 
 ***“They know the outward of this world’s life, but of the hereafter
 they are absolutely heedless.”***[^6]
@@ -240,12 +216,8 @@ housing, food and embellishments and all too often they play a role in
 the perfection of man and for this reason the divine law not only has
 permitted but exhorted them too.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ‌ مَنْ حَرَّمَ زِينَةَ اللهِ الَّتِي أَخْرَجَ لِعِبَادِهِ
-وَالطَّيِّبَاتِ مِن الرِّزْقِ ...
-  </p>
-</blockquote>
+> قُلْ‌ مَنْ حَرَّمَ زِينَةَ اللهِ الَّتِي أَخْرَجَ لِعِبَادِهِ
+> وَالطَّيِّبَاتِ مِن الرِّزْقِ ...
 
 ***“Say: Who has prohibited the embellishment of Allah which He has
 brought forth for His servants and the good provisions?”***[^9]
@@ -316,11 +288,7 @@ eyes are set on the future of the world; when moving, he only perceives
 the destination and he does not recognize the world save as a bridge for
 passage.
 
-<blockquote dir="rtl">
-  <p>
-وَالآخِرَةُ خَيْرٌ وَأَبْقَی
-  </p>
-</blockquote>
+> وَالآخِرَةُ خَيْرٌ وَأَبْقَی
 
 *“While the hereafter is better and more lasting.”*[^11]
 
@@ -402,12 +370,8 @@ from the hereafter.
 
 Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللهَ‌ وَلْتَنْظُرْ نَفْسٌ مَا
-قَدَّمَتْ لِغَدٍ...
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللهَ‌ وَلْتَنْظُرْ نَفْسٌ مَا
+> قَدَّمَتْ لِغَدٍ...
 
 ***“O you who believe! Be careful (of your duty to) Allah, and let every
 soul consider what it has sent on for the morrow…”***[^12]
@@ -523,5 +487,4 @@ consideration and to abstain from pomp, acquisitiveness and pride.
 [^11]: Surat al-A‘la 87:17.
 
 [^12]: Surat al-Hashr 59:18.
-
 

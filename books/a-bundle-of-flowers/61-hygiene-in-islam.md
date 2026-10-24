@@ -50,4 +50,3 @@ treatment."
 
 Wasa'il-ush Shi'ah, vol. 24, p. 245
 
-

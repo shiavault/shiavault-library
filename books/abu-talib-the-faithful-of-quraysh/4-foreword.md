@@ -111,4 +111,3 @@ and the Prophet’s grandfather.
 [^5]: Shi’b means a mountain pass and saheefa means a book, a charter or
 a covenant, which usually written on a leaf or a piece of leather.
 
-

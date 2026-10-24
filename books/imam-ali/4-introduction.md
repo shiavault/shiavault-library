@@ -137,5 +137,4 @@ What would be written of truth about the personality of a man who was
 chosen by the Prophet to be his pother would certainly be a potential
 for strengthening the spirit of potherhood and love among all Muslims.
 
-
 Mohamad Jawad Chirri

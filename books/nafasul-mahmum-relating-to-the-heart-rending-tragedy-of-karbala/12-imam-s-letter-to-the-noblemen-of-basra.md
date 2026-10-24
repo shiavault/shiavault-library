@@ -199,4 +199,3 @@ He then saluted him and sat down. Then he related his intention to the
 Imam, who prayed for his well-being. He remained with the Imam till
 Karbala and fought there and was martyred along with both of his sons.
 
-

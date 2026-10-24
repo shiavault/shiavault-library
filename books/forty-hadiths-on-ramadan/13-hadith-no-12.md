@@ -10,4 +10,3 @@ eyes of Allah, is the most virtuous of the months. Its days are the best
 of the days and its nights, the best of the nights and its moments, the
 best of the moments.*Bihar al-Anwar, vol. 96, pg. 356*
 
-

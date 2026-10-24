@@ -383,12 +383,8 @@ Somewhere else, **أحبونا حبَّ الإسلام ولا تحبُّونا �
 Abu Khalid Kabuli had recounted that he had heard Iman as-Sajjad (a)
 saying,
 
-<blockquote dir="rtl">
-  <p>
-إن قوماً من شيعتنا سيُحبّونا حتى يقولوا فينا ما قالت اليهود في عزير
-وما قالتِ النصاري في عيسى بن مريم، فلا هم منّا ولا نحن منهم
-  </p>
-</blockquote>
+> إن قوماً من شيعتنا سيُحبّونا حتى يقولوا فينا ما قالت اليهود في عزير
+> وما قالتِ النصاري في عيسى بن مريم، فلا هم منّا ولا نحن منهم
 
 “ “Some of our Shi'ite Muslims go to extremes in adoring us to the
 extent that they repeat what the Jews and the Christians had declared
@@ -647,13 +643,9 @@ body of knowledge in general and that of the holy Prophet in particular
 in addition to its superiority over caliphate and leadership.We show
 some examples.
 
-<blockquote dir="rtl">
-  <p>
-ربّ صلّ على أطائب اهل بيته الذين اخترتهم لأمرك وجعلتم خزنة علمك وحفظة
-دينك وخلفائك في أرضك وحججك على عبادك وطهرّتّهم من الرجس والدّنس
-تطهيراً بارادتك وجعلتهم الوسيلة اليك والمسلك الى جنّتك
-  </p>
-</blockquote>
+> ربّ صلّ على أطائب اهل بيته الذين اخترتهم لأمرك وجعلتم خزنة علمك وحفظة
+> دينك وخلفائك في أرضك وحججك على عبادك وطهرّتّهم من الرجس والدّنس
+> تطهيراً بارادتك وجعلتهم الوسيلة اليك والمسلك الى جنّتك
 
 O Lord! Bless those pure from Muhammad's progeny, those whom Thou have
 chosen for ruling and those whom Thou have designated as Thy
@@ -662,14 +654,10 @@ Thy caliphs and proof for Thy servants on the earth. Thou not only
 cleansed them from any impurity of Thy own volition, but also determined
 them as a vehicle for reaching Thee and the abiding Heaven.” [^77] “
 
-<blockquote dir="rtl">
-  <p>
-اللّهم انّ هذا المقام لخلفائك وأصفيائك وموضع أمنائك في الدّرجة الّتي
-اختصصتهم بها قد ابتزوها… حتى عاد صفوتك وخلفائك مغلوبين، مقهورين
-مبتزّين … أللهم العن أعدائهم من الاوّلين والاخرين ومن رضي بفعالهم
-وأشياعهم وأتباعهم
-  </p>
-</blockquote>
+> اللّهم انّ هذا المقام لخلفائك وأصفيائك وموضع أمنائك في الدّرجة الّتي
+> اختصصتهم بها قد ابتزوها… حتى عاد صفوتك وخلفائك مغلوبين، مقهورين
+> مبتزّين … أللهم العن أعدائهم من الاوّلين والاخرين ومن رضي بفعالهم
+> وأشياعهم وأتباعهم
 
 “O Allah! Caliphate does solely belong to Thy caliphs, the chosen from
 creatures. The position Thou had assigned for Thy Trustee in sublime
@@ -679,13 +667,9 @@ Lord! Thy malediction be upon their enemies from the beginning to the
 end, upon those gratified with this oppression and upon their
 followers.” [^78]
 
-<blockquote dir="rtl">
-  <p>
-وصلّ على خيرتك اللّهم من خلقك محمّد وعترته الصّفوةّ من بريّتك
-الطّاهرين واجعلنا لهم سامعين ومطيعين كما أمرت اللهّم اجعلنی من أهل
-التّوحيد والايمان بك والتّصديق برسولک والائمة الّذين حتمت طاعتهم.
-  </p>
-</blockquote>
+> وصلّ على خيرتك اللّهم من خلقك محمّد وعترته الصّفوةّ من بريّتك
+> الطّاهرين واجعلنا لهم سامعين ومطيعين كما أمرت اللهّم اجعلنی من أهل
+> التّوحيد والايمان بك والتّصديق برسولک والائمة الّذين حتمت طاعتهم.
 
 “O Lord! Bless the best creature of all, Muhammad, and his chosen
 kinfolks. Make us obedient to them as Thou have commanded. O Lord! Make
@@ -733,12 +717,8 @@ Allah to his creature. Imam who was incensed, stood up, went to the
 Prophet's grave and began praying from which the content of negating
 comparison could be deduced. Shedding tears he was praying,
 
-<blockquote dir="rtl">
-  <p>
-الهي قد بدت قدرتك ولم تبد هيئتك فجهلوك وقدّروك بالتقدير على غير ما انت
-به فشبّهوك وأنا بريء يا الهي من الذّين بالتّشبيه طلبوك …
-  </p>
-</blockquote>
+> الهي قد بدت قدرتك ولم تبد هيئتك فجهلوك وقدّروك بالتقدير على غير ما انت
+> به فشبّهوك وأنا بريء يا الهي من الذّين بالتّشبيه طلبوك …
 
 “O my Allah! Thy might is revealed. They do not appreciate Thee. They
 ordain despite what Thou have foreordained. They compare Thee with
@@ -761,25 +741,21 @@ number of historical records.
 
 In this regard, we present a narration:
 
-<blockquote dir="rtl">
-  <p>
-و أتي بحرم رسول اللّه صلى الله عليه وآله حتي دخلوا مدينة دمشق من باب
-يقال له «توماء»، ثم أتي بهم حتى وقفوا علي درج باب المسجد حيث يقام
-السبي واذا الشيخ قد أقبل حتى دنا منهم وقال, الحمد لله الذي قتلكم
-وأهلككم وأراح الرجال من سطوتكم وأمكن أميرالمؤمنين منكم. فقال له علي بن
-الحسين, يا شيخ! هل قرأت القرآن؟ قال: نعم قد قرأته، قال: فعرفت هذه
-الاية: قل لاأسئلكم اجراً الا المودّة في القربى؟ قال الشيخ: نعم. فقال
-علي بن الحسين: فنحن القربى يا شيخ، قال: هل قرأت في سورة بني اسرائيل:
-وآت ذا القربي حقه؟ قال الشيخ: قد قرأت ذلك،‌ فقال علي: نحن القربى يا
-شيخ. وهل قرأت هذه الاية «واعلموا أنما غنمتم من شيء فان لله خمسه
-وللرسول ولذي القربى، قال الشيخ: قد قرأت ذلك، فقال علي: فنحن ذو القربى
-يا شيخ. ولكن هل قرأت هذه الايه:‌ انما يريد الله ليذهب عنكم الرجس أهل
-البيت ويطهركم تطهيراً،‌ قال الشيخ: قد قرأت ذلك. قال علي: فنحن اهل
-البيت الذي خصنا بآية الطهارة. فبقي الشيخ ساعة ساكتاً نادماً علي ما
-تكلّمه؛ ثم رفع رأسه الي السماء وقال: اللهم اني تائب اليك في ما تكلمته
-ومن بعض هولاء القوم،‌ اللهم اني أبرء اليك من عدّو محمد وآل محمد.
-  </p>
-</blockquote>
+> و أتي بحرم رسول اللّه صلى الله عليه وآله حتي دخلوا مدينة دمشق من باب
+> يقال له «توماء»، ثم أتي بهم حتى وقفوا علي درج باب المسجد حيث يقام
+> السبي واذا الشيخ قد أقبل حتى دنا منهم وقال, الحمد لله الذي قتلكم
+> وأهلككم وأراح الرجال من سطوتكم وأمكن أميرالمؤمنين منكم. فقال له علي بن
+> الحسين, يا شيخ! هل قرأت القرآن؟ قال: نعم قد قرأته، قال: فعرفت هذه
+> الاية: قل لاأسئلكم اجراً الا المودّة في القربى؟ قال الشيخ: نعم. فقال
+> علي بن الحسين: فنحن القربى يا شيخ، قال: هل قرأت في سورة بني اسرائيل:
+> وآت ذا القربي حقه؟ قال الشيخ: قد قرأت ذلك،‌ فقال علي: نحن القربى يا
+> شيخ. وهل قرأت هذه الاية «واعلموا أنما غنمتم من شيء فان لله خمسه
+> وللرسول ولذي القربى، قال الشيخ: قد قرأت ذلك، فقال علي: فنحن ذو القربى
+> يا شيخ. ولكن هل قرأت هذه الايه:‌ انما يريد الله ليذهب عنكم الرجس أهل
+> البيت ويطهركم تطهيراً،‌ قال الشيخ: قد قرأت ذلك. قال علي: فنحن اهل
+> البيت الذي خصنا بآية الطهارة. فبقي الشيخ ساعة ساكتاً نادماً علي ما
+> تكلّمه؛ ثم رفع رأسه الي السماء وقال: اللهم اني تائب اليك في ما تكلمته
+> ومن بعض هولاء القوم،‌ اللهم اني أبرء اليك من عدّو محمد وآل محمد.
 
 The Prophet's Household were brought. [^81]They were entered Damascus
 through a door called “Tuma''” They stood by the mosque door with other
@@ -844,11 +820,7 @@ upgrade the social reputation of this class. Once Imam freed a
 bondswoman and married her, in order to censure her, 'Abd al-Malik Ibn
 Marwan reproached him for this marriage, Imam referred to the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ.
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ.
 
 “Allah's Messenger is a good model for you.”
 
@@ -1052,23 +1024,11 @@ Alluding to the Prophet's hadith on Mahdavitism, “His name is like that
 of mine and his nickname also resembles that of mine”, he had composed,
 [^114]
 
-<blockquote dir="rtl">
-  <p>
-يفوز بكنيتي واسمي لاني نحلتمـاه والمهدي من بعدي
-  </p>
-</blockquote>
+> يفوز بكنيتي واسمي لاني نحلتمـاه والمهدي من بعدي
 
-<blockquote dir="rtl">
-  <p>
-يغيّب عنهم حتى يقولوا تضمنه بطيبة بطـن لحــد
-  </p>
-</blockquote>
+> يغيّب عنهم حتى يقولوا تضمنه بطيبة بطـن لحــد
 
-<blockquote dir="rtl">
-  <p>
-سنين وأشهر برضوى بشعب بيـن أنمـار وأسد
-  </p>
-</blockquote>
+> سنين وأشهر برضوى بشعب بيـن أنمـار وأسد
 
 “He will be in a grace that I have bestowed him with my name and
 nickname. He will be the leader after me. He will disappear while people
@@ -1078,35 +1038,15 @@ mount.”
 
 The lines below belong to Kuthayyir 'Azza about Kissanids tenets, [^115]
 
-<blockquote dir="rtl">
-  <p>
-ألا ان الائمة مـن قريش ولاة الحق أربعـة سـواء
-  </p>
-</blockquote>
+> ألا ان الائمة مـن قريش ولاة الحق أربعـة سـواء
 
-<blockquote dir="rtl">
-  <p>
-علي والثلاثه مـن بنيـه هم الاسباط ليس بهم خفاء
-  </p>
-</blockquote>
+> علي والثلاثه مـن بنيـه هم الاسباط ليس بهم خفاء
 
-<blockquote dir="rtl">
-  <p>
-فسبط، سبط ايمـان وبر وسبط غيّبتـه كربـلاء
-  </p>
-</blockquote>
+> فسبط، سبط ايمـان وبر وسبط غيّبتـه كربـلاء
 
-<blockquote dir="rtl">
-  <p>
-وسبط لا يذوق الموت حتى يقود الخيل يقدمه اللـواء
-  </p>
-</blockquote>
+> وسبط لا يذوق الموت حتى يقود الخيل يقدمه اللـواء
 
-<blockquote dir="rtl">
-  <p>
-تغيب لا يري فيهم زمانـا برضوي عنده عسل وماء
-  </p>
-</blockquote>
+> تغيب لا يري فيهم زمانـا برضوي عنده عسل وماء
 
 “Be informed that Imams from Quraysh and the owners of rights are four,
 'Ali and his three sons. These are his sons not anyone else. A son of
@@ -1146,13 +1086,9 @@ of himself.
 In response to his letter, touching upon Imam Husayn's and 'Abd
 al-Muttalib's offspring's murders, Ibn 'Abbas reproved him as saying,
 
-<blockquote dir="rtl">
-  <p>
-لا أباًلك ! أنسيت قتلك الحسين وفتيان عبدالمطلب، مصابيح الدجي الذين
-غادرهم جنودك مصرعين في صعيد واحد مرملين بالدماء مسلوبين بالعراء
-غيرمكفنين … “
-  </p>
-</blockquote>
+> لا أباًلك ! أنسيت قتلك الحسين وفتيان عبدالمطلب، مصابيح الدجي الذين
+> غادرهم جنودك مصرعين في صعيد واحد مرملين بالدماء مسلوبين بالعراء
+> غيرمكفنين … “
 
 O fatherless! Have I forgotten Husyan's murder and 'Abd al-Muttalib's
 youths who were lights in darkness, those whom your troops left while
@@ -1532,5 +1468,4 @@ Nahj al-Balaghah, Ibn Abi al-Hadid, vol. XX, p. 130
 [^126]: Sharh Nahj al-Balaghah, Ibn Abi al-Hadid, vol. XX, pp 125, 126
 
 [^127]: al-’Iqd al-Farid, vol. V, p. 149
-
 

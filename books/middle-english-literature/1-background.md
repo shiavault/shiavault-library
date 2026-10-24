@@ -13,4 +13,3 @@ evolved into Middle English, which, despite an admixture of French, is
 unquestionably English. By the mid-14th cent., Middle English had become
 the literary as well as the spoken language of England.
 
-

@@ -668,4 +668,3 @@ continued to fight till their last breath. Lastly, there are verses
 extolling those who steadfastly continued to fight till the end of the
 battle but were not martyred.
 
-

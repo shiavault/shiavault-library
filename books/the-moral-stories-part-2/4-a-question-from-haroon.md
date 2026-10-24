@@ -147,4 +147,3 @@ What is worth noting herewith is that Bahlool remained always steadfast
 on Islamic principles of justice and fairplay and refused to accept
 material favours from the oppressive and unjust ruler of the time.
 
-

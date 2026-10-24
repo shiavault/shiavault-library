@@ -168,7 +168,6 @@ Riyadh.
 themselves as his ideological successors," and in fact some of them
 "continued to believe that the mahdi had not died in 1979."
 
-
 At the risk of oversimplification, the Mahdi, whether in the Sunni or
 the Shi\`i view, would seem to have three major tasks to perform
 according to most Muslim commentators: 1) rule the entire world as a

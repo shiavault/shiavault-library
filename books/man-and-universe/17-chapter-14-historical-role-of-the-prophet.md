@@ -206,4 +206,3 @@ sense that he has equated the more powerful man with the superior man
 and has believed that the more powerful man alone is the factor that
 carried history forward.
 
-

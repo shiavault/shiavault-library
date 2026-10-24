@@ -2964,4 +2964,3 @@ al-Islamiyya, Qum, 1409/1988, 1/212.
 
 [^307]: Al-Muhalla, 8/399; Sharh al-Azhar, 4/566.
 
-

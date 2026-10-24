@@ -46,4 +46,3 @@ feelings etc. as is very much clear.
 
 [^1]: Tafseer Burhan; Vol. 4, Pg. 521.
 
-

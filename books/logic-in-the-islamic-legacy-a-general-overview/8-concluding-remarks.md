@@ -106,4 +106,3 @@ and analogy. The concern here is to determine the central method by
 which juridical qiyas was endowed with "a wider definition as to include
 formal arguments".
 
-

@@ -198,4 +198,3 @@ titles, “Al- Qayem” and “Al-Mahdi” were heard from the Prophet’s mouth
 There is no sense in arguing that one title is superior to the other.
 Both belong to one and both were given and pronounced by one.
 
-

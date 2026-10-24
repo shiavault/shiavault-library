@@ -55,4 +55,3 @@ through dialogue with the secular sciences as researchers draw on the
 Islamic intellectual traditions to elaborate hermeneutical foundations
 for Islamic social sciences.
 
-

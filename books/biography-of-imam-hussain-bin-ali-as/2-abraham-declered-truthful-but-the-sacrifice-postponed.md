@@ -110,7 +110,6 @@ be for the sake of a religion meant for the man race as a whole, and it
 could be offered by the one whose live would be, not for himself but for
 the fulfillment of the Mercy of the Lord unto the whole of Mankind.
 
-
 **The Failure Of Judasim and Christianity**
 
 The purely monotheistic faith preached and practiced by the great
@@ -153,7 +152,6 @@ condemned the Israelites as being meaningless in their faith and the
 Israelites criticized the Christians similarly in return, while both of
 them were on the wrong track, diametrically opposed to what they had
 been preached by their respective teachers, Moses and Jesus.
-
 
 **THE DARKENED EARTH**
 
@@ -927,5 +925,4 @@ a few leading events are mentioned in these few pages which will suffice
 to give any intelligent reader, a view of the situation in which HUSSAIN
 surrendered his all to fulfill the Lord's Covenant to save Humanity from
 getting astray after the departure of the Holy Prophet.
-
 

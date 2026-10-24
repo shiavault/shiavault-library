@@ -100,4 +100,3 @@ to struggle for their subsistence every moment, the responsibility for
 this situation does not lie with Divine destiny. Man, who is free is
 himself responsible for the inequity.
 
-

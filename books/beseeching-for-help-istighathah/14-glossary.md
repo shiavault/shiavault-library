@@ -95,4 +95,3 @@ Muslims liable to *zakat* to be paid to the poor and the needy of the
 Muslim Community. It is obligatory, as it is one of the five
 indispensable pillars of Islam.
 
-

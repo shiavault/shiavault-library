@@ -105,7 +105,7 @@ People who are cognizant of the Almighty and truth shall be surrounding
 him and they would help and assist His Eminence. His Eminence, Ali (a.s)
 shall descend from the heavens in such a manner that an angel would be
 at his right and another at his left; he would assist Imam Mahdi (a.s)
-and he would break the cross and kill the pig.”<sup>[1]</sup>
+and he would break the cross and kill the pig.”[1]
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ Shaykh Nuruddin Ali bin Muhammad, popularly known as Ibne Sabbagh Maliki
 says, “The twelfth Imam is Muhammad bin Hasan.” Then he mentions the
 date of his birth and the proof of his Imamate and also some traditions
 regarding His Eminence, his occultation and the duration of his
-government etc.<sup>[1]</sup>
+government etc.[1]
 
 4. Ibne Athir
 -------------
@@ -127,7 +127,7 @@ Ali bin Karam Muhammad bin Muhammad Shaibani, alias Ibne Athir Jazari
 says, “In that year, that is in 260 A.H., His Eminence, Abu Muhammad
 Hasan Askari Alawi passed away and he was the eleventh of the twelve
 Imams of the Imamiyah (Shias). He was the father of Imam Mahdi
-(Muhammad) who was born in the year 232 A.H.”<sup>[2]</sup>
+(Muhammad) who was born in the year 232 A.H.”[2]
 
 5. Shamsuddin
 -------------
@@ -137,14 +137,14 @@ has said, “Muhammad bin Hasan bin Ali bin Muhammad bin Ali bin Musa
 ar-Reza bin Ja’far bin Muhammad bin Ali bin Husain bin Ali bin Abi Talib
 (a.s), whose patronymic is Abu Abdullah and Abul Qasim, is the Caliph,
 the Proof, the Master of the time, the Qaim, the Awaited one and the
-last of the twelve Imams.”<sup>[3]</sup>
+last of the twelve Imams.”[3]
 
 6. Abul Fida
 ------------
 
 Ismail Abu Fida writes, “Imam Hasan Askari is one of the twelve Shiite
 Imams. He is the father of Muhammad, the Awaited one who was born in the
-year 235 A.H.”<sup>[4]</sup>
+year 235 A.H.”[4]
 
 Shias do not believe that the Imam (a.s) has disappeared into the
 basement, and in the same way they do not await his return at the
@@ -166,7 +166,7 @@ Qirmani has written, “Imam Abul Qasim Muhammad bin Hasan Askari who was
 five years old when his father passed away was bestowed wisdom by the
 Almighty Allah, just as He had blessed Yahya (a.s) with it. He is of
 medium height, elegant stature, beautiful hair, raised nose and
-illuminated forehead.”<sup>[1]</sup>
+illuminated forehead.”[1]
 
 8. Ibne Khallikan
 -----------------
@@ -174,7 +174,7 @@ illuminated forehead.”<sup>[1]</sup>
 Ibne Khallikan has written in his biography of the Awaited Imam (a.s) as
 follows, “Abul Qasim Muhammad bin Hasan bin Muhammad Jawwad, is the
 twelfth of the twelve Imams and he was born on Friday, the 15th of
-Ramadan (15th Shaban) in the year 255 A.H.”<sup>[2]</sup>
+Ramadan (15th Shaban) in the year 255 A.H.”[2]
 
 9. Dhahabi
 ----------
@@ -183,7 +183,7 @@ Dhahabi has mentioned regarding the birth of His Eminence, the Awaited
 Imam as follows, “An important event of the year 261 A.H. was the
 passing away of Hasan bin Ali bin Jawwad bin Reza (a.s) who was one of
 the twelve Imams and the father of the Awaited Imam (a.s), Muhammad bin
-Hasan.”<sup>[3]</sup>
+Hasan.”[3]
 
 10. Sirajuddin Rufayi
 ---------------------
@@ -200,7 +200,7 @@ the Awaited
 al-Islami, 5/115
 
 Proof, the Wali of Allah, Imam Mahdi was (born) from Imam Hasan Askari
-(a.s).”<sup>[1]</sup>
+(a.s).”[1]
 
 11. Shaykh Shablanji
 --------------------
@@ -211,12 +211,12 @@ bin Muhammad al-Jawwad bin Ali ar-Reza bin Musa al-Kazim bin Ja’far
 as-Sadiq bin Muhammad al-Baqir bin Ali bin al-Husain bin Ali bin Abi
 Talib. His mother is Ummul Walad, Narjis, Saiqal and also known as Susan
 and his patronymic is Abul Qasim and the Imamite Shias have given him
-the following titles: Hujjat<sup>[2]</sup>, Mahdi<sup>[3]</sup>, Khalaf
-Salih<sup>[4]</sup>, Qaim<sup>[5]</sup>, Montazar<sup>[6]</sup> and
-Sahib-uz-Zaman.<sup>[7]</sup> The most well known of these titles is
+the following titles: Hujjat[2], Mahdi[3], Khalaf
+Salih[4], Qaim[5], Montazar[6] and
+Sahib-uz-Zaman.[7] The most well known of these titles is
 Mahdi. His Eminence is a tall young man with a beautiful face and hair
 that reaches to his shoulders. He has big eyes and a brilliant
-countenance.”<sup>[8]</sup>
+countenance.”[8]
 
 12. Sulaiman Ibne Khwaja
 ------------------------
@@ -226,7 +226,7 @@ explanation in which he has proved that the Promised Mahdi about whom
 the Messenger of Allah (a.s) has prophesied is the same Proof of God,
 Muhammad bin Hasan Askari and he has mentioned proofs and testimonies to
 support his belief. And it is interesting to note that this Shaykh was
-from the Hanafi school and he followed the Sufi religion.<sup>[9]</sup>
+from the Hanafi school and he followed the Sufi religion.[9]
 
 ------------------------------------------------------------------------
 
@@ -241,7 +241,7 @@ The mystic Shaykh, Abdul Wahhab Ahmad bin Ali Sherani says, “The birth
 of the Awaited Imam took place on the 15th of Shaban in the year 255 AH
 and he is alive and present, till the time he would reappear and Isa bin
 Maryam would also be with him. He is from the progeny of Imam Hasan
-Askari (a.s).”<sup>[1]</sup>
+Askari (a.s).”[1]
 
 14. Khairuddin Zarkali
 ----------------------
@@ -255,7 +255,7 @@ was nine, ten or nineteen years old he entered the cellar in the house
 of his father and he never emerged from it.”
 
 Ibne Khallikan says, “In the last age the Shias expect him to reappear
-from any of the cellars of Samarrah.”<sup>[2]</sup>
+from any of the cellars of Samarrah.”[2]
 
 However, as we have repeatedly mentioned, Shias never expect the Imam to
 reappear from a cellar of Samarrah; they believe that the advent of the
@@ -269,7 +269,7 @@ stopped and entrusted his knowledge to its scholar and have the belief
 that he is from the progeny of Fatima, the daughter of the Messenger of
 Allah (a.s).” He further says, “His long age is not impossible like that
 of His Eminence, Isa bin Maryam and His Eminence, Prophet Khizr
-(a.s).”<sup>[3]</sup>
+(a.s).”[3]
 
 ------------------------------------------------------------------------
 
@@ -280,7 +280,7 @@ of His Eminence, Isa bin Maryam and His Eminence, Prophet Khizr
 
 Husain, the compiler of Quranic exegesis says, “Muhammad bin Hasan is
 the twelfth Imam and his patronymic is Abul Qasim and he was born in
-Samarrah.”<sup>[1]</sup>
+Samarrah.”[1]
 
 17. Shuqrani
 ------------
@@ -292,14 +292,14 @@ Judgment, like the advent of the Mahdi (a.s), then the Dajjal and the
 descent of Isa (a.s), the advent of the creature (Daabba), the rising of
 the sun from the west and the breaking of the barrier of Gog and Magog.
 So much so, that even if a solitary day remains for the end of the
-world, all of them shall come to pass.”<sup>[2]</sup>
+world, all of them shall come to pass.”[2]
 
 18. Salahuddin Safadi
 ---------------------
 
 Shaykh Salahuddin Safadi writes, “The Promised Mahdi is the same twelfth
 of the Twelve Imams, the first of whom is the Chief of the Pious, Ali
-(a.s) and the last is Mahdi.”<sup>[3]</sup>
+(a.s) and the last is Mahdi.”[3]
 
 19. Muhammad Najjari
 --------------------
@@ -308,7 +308,7 @@ Hafiz Muhammad bin Muhammad Najjari, a prominent Hanafi scholar says,
 “Abu Muhammad is the father of Imam Mahdi. His son is Muhammad known to
 the closest members of his family and his trusted relatives. Then he
 goes on to describe the circumstances surrounding his holy
-birth.”<sup>[4]</sup>
+birth.”[4]
 
 ------------------------------------------------------------------------
 
@@ -336,7 +336,7 @@ His Eminence, and considered his reappearance imminent. And the
 accomplished teacher, Haaj Ali Muhammad Ali Dokhiayyal has mentioned 144
 books dealing mainly about the topic of Imam Mahdi (a.s) and the
 interesting thing is that a majority of these books are written by Ahle
-Sunnat scholars.<sup>[1]</sup>
+Sunnat scholars.[1]
 
 ------------------------------------------------------------------------
 

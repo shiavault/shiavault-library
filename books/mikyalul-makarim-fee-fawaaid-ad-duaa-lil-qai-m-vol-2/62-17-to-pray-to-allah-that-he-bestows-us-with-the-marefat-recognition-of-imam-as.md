@@ -11,11 +11,7 @@ guided by Allah are actually guided.
 In **Al-Kafi** it is narrated that Abu Baseer says that Imam Sadiq (as)
 explained the verse:
 
-<blockquote dir="rtl">
-  <p>
-ومن يؤت الحكمة فقد أوتي خيراً
-  </p>
-</blockquote>
+> ومن يؤت الحكمة فقد أوتي خيراً
 
 ***And those who are bestowed wisdom they indeed are bestowed with
 exceeding goodness.***
@@ -36,11 +32,7 @@ Sublime, is obedience to the Imam after knowing him.”[^3]
 Abu Ayyub Khalid al-Kabuli said: ‘I asked Abu Ja’far (as) concerning the
 words of Allah, to Whom belong Might and Majesty:
 
-<blockquote dir="rtl">
-  <p>
-فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا
-  </p>
-</blockquote>
+> فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا
 
 ***Therefore believe in Allah and His Messenger and in the Light which
 we have sent down. (Qur’an, Surah Taghabun 64:8)***
@@ -70,28 +62,16 @@ goodness, success and divine mercy and the Almighty Allah has commanded
 His servants to obtain his recognition and Dua is one of the doors that
 the Almighty Allah has ordered us to approach Him. He says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ
 
 ***Call upon Me, I will answer you. (Surah Ghafir 40:60)***
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ
-  </p>
-</blockquote>
+> وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ
 
 ***And ask Allah of His grace. (Surah Nisa 4:32)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ
-يَشَاءُ
-  </p>
-</blockquote>
+> إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ
+> يَشَاءُ
 
 ***Surely you cannot guide whom you love, but Allah guides whom He
 pleases. (Surah Qasas 28:56)***
@@ -114,11 +94,7 @@ been told to make efforts and also pray to Allah, because it is He that
 gives sustenance. People only have to make efforts and it is on Allah to
 bestow the livelihood. Allah, the High and the Mighty says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا
 
 ***And (as for) those who strive hard for Us, We will most certainly
 guide them in Our ways. (Surah Ankabut 29:69)***
@@ -154,5 +130,4 @@ no one could open it.[^6]
 [^5]: Usool Kafi, Vol. 2, Pg. 163
 
 [^6]: Surah Fatir 35:2
-
 

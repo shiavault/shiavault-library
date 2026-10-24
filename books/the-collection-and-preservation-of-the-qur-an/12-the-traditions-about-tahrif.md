@@ -16,11 +16,7 @@ Tradition n. 1
 1. Reported by Ali b. Ibrahim al‑Qummi, with his own chain of narrators
 from Abu Dharr: "When this *ayah* was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يوم تبيضّ وجوه وتسودّ وجوة ...
-  </p>
-</blockquote>
+> يوم تبيضّ وجوه وتسودّ وجوة ...
 
 the Prophet (‘s) said:
 
@@ -112,5 +108,4 @@ from Abdul A'ala:
 
 *"Abu Abdillah (‘a) said: The scholars of Arabic language displace the
 words of Allah, Most High, from their rightful places".*
-
 

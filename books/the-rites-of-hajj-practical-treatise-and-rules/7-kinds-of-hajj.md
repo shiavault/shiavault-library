@@ -35,4 +35,3 @@ According to the fact that most of Muslims in the world should perform
 Hajj al-Tamattu’, then rulings which have been mentioned in these rites
 are for performing Hajj al-Tamattu’.
 
-

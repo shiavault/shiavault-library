@@ -10,34 +10,20 @@ the Messenger of Allah?
 
 As He said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا
-لَيْسَ لَكُم بِهِ عِلْمٌ وَتَحْسَبُونَهُ هَيِّنًا وَهُوَ عِندَ اللَّهِ
-عَظِيمٌ
-  </p>
-</blockquote>
-
-
+> إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا
+> لَيْسَ لَكُم بِهِ عِلْمٌ وَتَحْسَبُونَهُ هَيِّنًا وَهُوَ عِندَ اللَّهِ
+> عَظِيمٌ
 
 ***When you welcomed it with your tongues, and spoke with your mouths
 that which you had no knowledge of, and you deemed it an easy matter
 while with Allah it was grievous.*** (24:15*)*
 
-
 As long as you can find a way to speak well and act well of people
 whether or not they are present. Do not do anything else. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَقُولُواْ لِلنَّاسِ حُسْناً
-  </p>
-</blockquote>
+> وَقُولُواْ لِلنَّاسِ حُسْناً
 
 ***Speak to men good words.*** (2:83)
-
 
 Know that Allah chose companions for His Prophet, honoured them with
 the noblest mark of honour and robed them in the robe of support,
@@ -50,5 +36,4 @@ the heart. If the excellence of some of them is not clear to you, then
 leave them to the Knower of the Unseen, and say, 'O Allah, I love anyone
 You and Your Messenger love, and I hate anyone You and Your Messenger
 hate.' There is no obligation beyond that.
-
 

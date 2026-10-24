@@ -21,4 +21,3 @@ the property being borrowed then the person borrowing the item would be
 responsible for it, then if anything happens to that property, one must
 compensate for it.
 
-

@@ -12,24 +12,16 @@ as well as clearly demarcates his path and final destination. Those who
 lack faith are helpless to walk upon the straight path of perfection.
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ
-لَنَاكِبُونَ
-  </p>
-</blockquote>
+> وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ
+> لَنَاكِبُونَ
 
 ***“And Lo! those who believe not in the Hereafter are indeed astray
 from the path. (23: 74)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ فِي الْعَذَابِ
-وَالضَّلَالِ الْبَعِيدِ
-  </p>
-</blockquote>
+> بَلِ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ فِي الْعَذَابِ
+> وَالضَّلَالِ الْبَعِيدِ
 
 ***“Nay, but those who disbelieve in the Hereafter are in torment and
 for error. (34:8)***
@@ -52,13 +44,9 @@ beneficial for him, rather has done it for the sake of this world and,
 therefore, will see the result in this world but nothing will be left
 for him in the Hereafter. God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَّثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ أَعْمَالُهُمْ كَرَمَادٍ
-اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ ۖ لَّا يَقْدِرُونَ مِمَّا
-كَسَبُوا عَلَىٰ شَيْءٍ ۚ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ
-  </p>
-</blockquote>
+> مَّثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ أَعْمَالُهُمْ كَرَمَادٍ
+> اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ ۖ لَّا يَقْدِرُونَ مِمَّا
+> كَسَبُوا عَلَىٰ شَيْءٍ ۚ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ
 
 ***“A similitude of those who disbelieve in their Lord: their works are
 ashes which the wind bloweth hard upon a stormy day. They have no
@@ -71,12 +59,8 @@ phrase of Monotheism (*Kalma al-Tawhid*) would become illuminated and
 would ascend towards God-Almighty. Of course, righteous deeds too helps
 him in this ascent. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
-يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
-  </p>
-</blockquote>
+> مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
+> يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
 
 ***“Whoso desireth power (should know that) all power belongeth to
 God-Almighty. Unto Him good words ascend and the pious deed doth He
@@ -88,12 +72,8 @@ beautiful existence subjected to his possessed with the faith (*Iman*).
 An unbeliever's soul is dark and does not have the decency of possessing
 God's Nearness and delightful existence. The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً
 
 ***“Whosoever doth right, whether male or female and is a believer, him
 verily we shall quicken with good life. (16:97)***
@@ -102,15 +82,10 @@ Therefore, a wayfarer from the very beginning must strive and endeavor
 to strengthen his faith because the stronger and superior will be his
 faith the higher will be his ascent and rank. Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا
-الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا
+> الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ***“God-Almighty will exalt those who believe among you, and those who
 have knowledge, to high ranks, God is informed of what you do.
 (58:11)***
-
 

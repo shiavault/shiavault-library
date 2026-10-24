@@ -56,7 +56,6 @@ recourse to Allah and appealing to Him, with utmost decisiveness
 challenge them and humiliate them their power which would reinforce the
 morale of their followers and lower that of their enemies.
 
-
 **Commentary : Verse 72**
 
 (72) فَإِنْ تَوَلَّيْتُمْ فَما سَأَلْتُكُمْ مِنْ أَجْرٍ إِنْ أَجْرِيَ
@@ -100,7 +99,6 @@ The verse continues as follows:
 
 "... and I am commanded to be of those(who)surrender(unto Him). "
 
-
 **Commentary : Verse 73**
 
 (73) فَكَذَّبُوهُ فَنَجَّيْناهُ وَ مَنْ مَعَهُ فِي الْفُلْكِ وَ
@@ -134,7 +132,6 @@ Noah's companions were only eighty in number whilst the numbers of the
 unbelievers were manifold, however, by the grace of Allah, the Almighty,
 the unbelievers were annihilated and the faithful became the inheritors
 of the earth.
-
 
 **Commentary : Verse 74**
 
@@ -181,7 +178,6 @@ angels. The verse says:
 
 "... Thus do We seal up the hearts of the transgressors. "
 
-
 **Commentary : Verse 75**
 
 (75) ثُمَّ بَعَثْنا مِنْ بَعْدِهِمْ مُوسى‏ وَ هارُونَ إِلى‏ فِرْعَوْنَ
@@ -213,5 +209,4 @@ The verse says: "
 Then, after them, We sent Moses and Aaron to Pharaoh and his chiefs
 with Our Signs, but they were arrogant, and they were a guilty people.
 "
-
 

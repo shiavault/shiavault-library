@@ -560,4 +560,3 @@ al-Nahaya: 8/4.
 
 [^37]: Sharh Nahj al-Balagha: 19/161.
 
-

@@ -238,4 +238,3 @@ the traditions (in this regard); rather he considered them Ahad,
 incapable of proving anything regarding the Qur'an and worth being
 discarded.56
 
-

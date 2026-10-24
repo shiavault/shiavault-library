@@ -632,4 +632,3 @@ trans. Rah wa rasm-e zindagi, pp. 145-146.
 
 [^12]: Shaykh 'Abbas al-Qummi, Safinat al-Bihar vol. ii, p. 700.
 
-

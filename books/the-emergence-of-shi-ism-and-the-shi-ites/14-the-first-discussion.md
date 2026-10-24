@@ -317,4 +317,3 @@ al-Khulafa p. 171
 [^31]: Ibn Sa\`d, al-Tabaqat al-kubra III:339, Second Edition (Beirut:
 Dar al-Kutub al­\`Ilmiyyah, 1408 AH).f
 
-

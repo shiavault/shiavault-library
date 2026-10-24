@@ -22,4 +22,3 @@ not combine for us the suffering of this world and Hereafter.
 
 [^2]: The Holy Qur’an (40: 12)
 
-

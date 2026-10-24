@@ -85,11 +85,7 @@ is no longer alive. This is because they regard it as unlikely for a
 person to live an extraordinary long life. Their opinion is however in
 contradiction with a prophetic tradition saying:
 
-<blockquote dir="rtl">
-  <p>
-من مات و لم یعرف امام زمانه مات میته جاهلیه
-  </p>
-</blockquote>
+> من مات و لم یعرف امام زمانه مات میته جاهلیه
 
 He who dies without knowing the imam of his time, dies the death of
 ignorance.
@@ -211,14 +207,10 @@ His life and imamate are useful, for Allah does not do anything useless.
 Let's now study some of these traditions. Based on a tradition, Jabir
 bin Abdullah Ansari says: When this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ
-فَرُدُّوهُ إِلَى اللّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللّهِ
-وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ
+> فَرُدُّوهُ إِلَى اللّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللّهِ
+> وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
 
 ***O you who believe! obey Allah and obey the Apostle and those in
 authority from among you; then if you quarrel about anything, refer it
@@ -231,24 +223,20 @@ obedience. Who are they?
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ‏ خُلَفَائِي‏ يَا جَابِرُ وَ أَئِمَّةُ الْمُسْلِمِينَ مِنْ بَعْدِي
-أَوَّلُهُمْ عَلِيُّ بْنُ أَبِي طَالِبٍ ثُمَّ الْحَسَنُ وَ الْحُسَيْنُ
-ثُمَّ عَلِيُّ بْنُ الْحُسَيْنِ ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ
-الْمَعْرُوفُ فِي التَّوْرَاةِ بِالْبَاقِرِ وَ سَتُدْرِكُهُ يَا جَابِرُ
-فَإِذَا لَقِيتَهُ فَأَقْرِئْهُ مِنِّي السَّلَامَ ثُمَّ الصَّادِقُ
-جَعْفَرُ بْنُ مُحَمَّدٍ ثُمَّ مُوسَى بْنُ جَعْفَرٍ ثُمَّ عَلِيُّ بْنُ
-مُوسَى ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ ثُمَّ عَلِيُّ بْنُ مُحَمَّدٍ ثُمَّ
-الْحَسَنُ بْنُ عَلِيٍّ ثُمَّ سَمِيِّي وَ كَنِيِّي حُجَّةُ اللَّهِ فِي
-أَرْضِهِ وَ بَقِيَّتُهُ فِي عِبَادِهِ ابْنُ الْحَسَنِ بْنِ عَلِيٍّ
-ذَاكَ الَّذِي يَفْتَحُ اللَّهُ تَعَالَى ذِكْرُهُ عَلَى يَدَيْهِ
-مَشَارِقَ الْأَرْضِ وَ مَغَارِبَهَا ذَاكَ الَّذِي يَغِيبُ عَنْ
-شِيعَتِهِ وَ أَوْلِيَائِهِ غَيْبَةً لَا يَثْبُتُ فِيهَا عَلَى
-الْقَوْلِ بِإِمَامَتِهِ إِلَّا مَنِ امْتَحَنَ اللَّهُ قَلْبَهُ
-لِلْإِيمَانِ.
-  </p>
-</blockquote>
+> هُمْ‏ خُلَفَائِي‏ يَا جَابِرُ وَ أَئِمَّةُ الْمُسْلِمِينَ مِنْ بَعْدِي
+> أَوَّلُهُمْ عَلِيُّ بْنُ أَبِي طَالِبٍ ثُمَّ الْحَسَنُ وَ الْحُسَيْنُ
+> ثُمَّ عَلِيُّ بْنُ الْحُسَيْنِ ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ
+> الْمَعْرُوفُ فِي التَّوْرَاةِ بِالْبَاقِرِ وَ سَتُدْرِكُهُ يَا جَابِرُ
+> فَإِذَا لَقِيتَهُ فَأَقْرِئْهُ مِنِّي السَّلَامَ ثُمَّ الصَّادِقُ
+> جَعْفَرُ بْنُ مُحَمَّدٍ ثُمَّ مُوسَى بْنُ جَعْفَرٍ ثُمَّ عَلِيُّ بْنُ
+> مُوسَى ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ ثُمَّ عَلِيُّ بْنُ مُحَمَّدٍ ثُمَّ
+> الْحَسَنُ بْنُ عَلِيٍّ ثُمَّ سَمِيِّي وَ كَنِيِّي حُجَّةُ اللَّهِ فِي
+> أَرْضِهِ وَ بَقِيَّتُهُ فِي عِبَادِهِ ابْنُ الْحَسَنِ بْنِ عَلِيٍّ
+> ذَاكَ الَّذِي يَفْتَحُ اللَّهُ تَعَالَى ذِكْرُهُ عَلَى يَدَيْهِ
+> مَشَارِقَ الْأَرْضِ وَ مَغَارِبَهَا ذَاكَ الَّذِي يَغِيبُ عَنْ
+> شِيعَتِهِ وَ أَوْلِيَائِهِ غَيْبَةً لَا يَثْبُتُ فِيهَا عَلَى
+> الْقَوْلِ بِإِمَامَتِهِ إِلَّا مَنِ امْتَحَنَ اللَّهُ قَلْبَهُ
+> لِلْإِيمَانِ.
 
 O Jabir, they are my successors and leaders of Muslims after me. The
 first of them is \`Ali ibn Abi-Talib, then Hasan and Husayn, then \`Ali
@@ -267,15 +255,11 @@ his occultation?
 
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إِي وَ الَّذِي بَعَثَنِي بِالنُّبُوَّةِ إِنَّهُمْ يَسْتَضِيئُونَ
-بِنُورِهِ وَ يَنْتَفِعُونَ بِوَلَايَتِهِ فِي غَيْبَتِهِ كَانْتِفَاعِ
-النَّاسِ بِالشَّمْسِ وَ إِنْ تَجَلَّلَهَا سَحَابٌ يَا جَابِرُ هَذَا
-مِنْ مَكْنُونِ سِرِّ اللَّهِ وَ مَخْزُونِ عِلْمِهِ فَاكْتُمْهُ إِلَّا
-عَنْ أَهْلِهِ
-  </p>
-</blockquote>
+> إِي وَ الَّذِي بَعَثَنِي بِالنُّبُوَّةِ إِنَّهُمْ يَسْتَضِيئُونَ
+> بِنُورِهِ وَ يَنْتَفِعُونَ بِوَلَايَتِهِ فِي غَيْبَتِهِ كَانْتِفَاعِ
+> النَّاسِ بِالشَّمْسِ وَ إِنْ تَجَلَّلَهَا سَحَابٌ يَا جَابِرُ هَذَا
+> مِنْ مَكْنُونِ سِرِّ اللَّهِ وَ مَخْزُونِ عِلْمِهِ فَاكْتُمْهُ إِلَّا
+> عَنْ أَهْلِهِ
 
 Yes. By Allah who appointed me as a Messenger they will benefit from the
 rays of the light of his imamate during his occultation. [He will be
@@ -287,11 +271,7 @@ unworthy people.
 In another tradition, Imam Sadiq (a.s) quotes the Holy Prophet (S) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-لابد للغلام من غیبه. فقیل له: و لم یا رسول الله؟ قال: یخاف القتل.
-  </p>
-</blockquote>
+> لابد للغلام من غیبه. فقیل له: و لم یا رسول الله؟ قال: یخاف القتل.
 
 This young boy has to go into hiding. When the Holy Prophet (S) was
 asked as to why he had to go into hiding he said: He is afraid lest he
@@ -300,13 +280,9 @@ is killed.
 In yet another tradition, he narrates from his forefathers from the Holy
 Prophet (S) who says:
 
-<blockquote dir="rtl">
-  <p>
-المهدی من ولدی اسمه اسمی و کنیته کنیتی. اشبه الناس بی خلقا و خلقا تکون
-له غیبه و حیره حتی تضل الخلق عن ادیانهم فعند ذلک یقبل کالشهاب الثاقب
-فیملؤها قسطا و عدلا کما ملئت ضلما و جورا
-  </p>
-</blockquote>
+> المهدی من ولدی اسمه اسمی و کنیته کنیتی. اشبه الناس بی خلقا و خلقا تکون
+> له غیبه و حیره حتی تضل الخلق عن ادیانهم فعند ذلک یقبل کالشهاب الثاقب
+> فیملؤها قسطا و عدلا کما ملئت ضلما و جورا
 
 Mahdi is from my descendants. His name and tittle are the same as mine.
 He resembles me more than anyone else in terms of physical complexion
@@ -349,16 +325,12 @@ occultation dies the death of ignorance.
 In another tradition, Imam Sadiq (a.s) narrates from his great
 forefathers who quote the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-القائم من ولدی اسمه اسمی و کنیته کنیتی و شمائله شمائلی و سنته سنتی
-یقیم الناس علی ملتی و شریعتی و یدعوهم الی کتاب ربی عز و جل من اطاعه
-فقد اطاعنی و من عصاه فقد عصانی و من انکره فی غیبته فقد انکرنی و من
-کذبه فقد کذبنی و من صدقه فقد صدقنی الی الله اشکو المکذبین لی فی امره و
-الجاحدین لقولی فی شأنه و المضلین لامتی عن طریقته (و سیعلم الذین ظلموا
-ای منقلب ینقلبون(
-  </p>
-</blockquote>
+> القائم من ولدی اسمه اسمی و کنیته کنیتی و شمائله شمائلی و سنته سنتی
+> یقیم الناس علی ملتی و شریعتی و یدعوهم الی کتاب ربی عز و جل من اطاعه
+> فقد اطاعنی و من عصاه فقد عصانی و من انکره فی غیبته فقد انکرنی و من
+> کذبه فقد کذبنی و من صدقه فقد صدقنی الی الله اشکو المکذبین لی فی امره و
+> الجاحدین لقولی فی شأنه و المضلین لامتی عن طریقته (و سیعلم الذین ظلموا
+> ای منقلب ینقلبون(
 
 Qa’im (Mahdi) is from my descendants. His name and surname are the same
 as mine. His complexion is the same as mine. His tradition is the same
@@ -372,12 +344,8 @@ what final place of turning they shall turn back*** [^8].[^9]
 
 Imam Sadiq (a.s) says Imam Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-و لیبعثن الله رجلا من ولدی فی آخر الزمان یطالب بدمائنا و لیغیبن عنهم
-تمییزا لاهل الضلاله حتی یقول الجاهل: ما لله فی آل محمد من حاجه.
-  </p>
-</blockquote>
+> و لیبعثن الله رجلا من ولدی فی آخر الزمان یطالب بدمائنا و لیغیبن عنهم
+> تمییزا لاهل الضلاله حتی یقول الجاهل: ما لله فی آل محمد من حاجه.
 
 Allah shall send someone from my offspring at the end of the times. He
 will avenge our bloods. He will go into hiding in order to distinguish
@@ -387,11 +355,7 @@ household. [^10]
 
 Imam Sadiq says:
 
-<blockquote dir="rtl">
-  <p>
-ان لصاحب هذا الامر غیبه لابد منها یرتاب فیها کل مبطل
-  </p>
-</blockquote>
+> ان لصاحب هذا الامر غیبه لابد منها یرتاب فیها کل مبطل
 
 The one in authority (Imam Mahdi) shall go on an occultation which is
 inevitable. His occultation will take so long that all the people of
@@ -421,11 +385,7 @@ people who have caused his occultation.
 Fourthly Khaja Nasir al-Din Tusi, a celebrated scholar commenting on
 Imam Mahdi says:
 
-<blockquote dir="rtl">
-  <p>
-وجوده لطف و تصرفه لطف آخر و عدمه منا
-  </p>
-</blockquote>
+> وجوده لطف و تصرفه لطف آخر و عدمه منا
 
 His existence is a divine grace, his action is another divine grace and
 his absence is due to us.
@@ -574,12 +534,8 @@ house, by three imams. Other houses belonging to anyone of the
 infallibles (including the Holy Prophet (S)) have the same place and
 status no matter where they are located. This is because Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
 
 ***In the houses which Allah has permitted to be exalted and that His
 name may be remembered in them, there glorify Him therein in the
@@ -628,12 +584,8 @@ reappear.[^22]
 Based on Shiite traditions, his judgments are similar to those of
 Prophet Dawood. The Holy Prophet (S) states:
 
-<blockquote dir="rtl">
-  <p>
-انما اقضی بینکم بالبینات و الایمان و بعضکم الحن بحجته من بعض و ایما
-رجل قطعت له قطعه فانما اقطع له قطعه من نار
-  </p>
-</blockquote>
+> انما اقضی بینکم بالبینات و الایمان و بعضکم الحن بحجته من بعض و ایما
+> رجل قطعت له قطعه فانما اقطع له قطعه من نار
 
 He is abler than others in terms of presenting formal arguments….[^23]
 
@@ -720,18 +672,14 @@ on personal and social levels.
 
 Commenting on the issue of reappearance, Imam Ali (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-ِ الْزَمُوا الْأَرْضَ وَ اصْبِرُوا عَلَى الْبَلَاءِ وَ لَا تُحَرِّكُوا
-بِأَيْدِيكُمْ وَ سُيُوفِكُمْ فِي هَوَى أَلْسِنَتِكُمْ وَ لَا
-تَسْتَعْجِلُوا بِمَا لَمْ‏ يُعَجِّلْهُ‏ اللَّهُ‏ لَكُمْ‏ فَإِنَّهُ
-مَنْ مَاتَ مِنْكُمْ عَلَى فِرَاشِهِ وَ هُوَ عَلَى مَعْرِفَةِ حَقِّ
-رَبِّهِ وَ حَقِّ رَسُولِهِ وَ أَهْلِ بَيْتِهِ مَاتَ شَهِيداً وَ وَقَعَ
-أَجْرُهُ عَلَى اللَّهِ‏ وَ اسْتَوْجَبَ ثَوَابَ مَا نَوَى مِنْ صَالِحِ
-عَمَلِهِ وَ قَامَتِ النِّيَّةُ مَقَامَ إِصْلَاتِهِ لِسَيْفِهِ فَإِنَّ
-لِكُلِّ شَيْ‏ءٍ مُدَّةً وَ أَجَلا
-  </p>
-</blockquote>
+> ِ الْزَمُوا الْأَرْضَ وَ اصْبِرُوا عَلَى الْبَلَاءِ وَ لَا تُحَرِّكُوا
+> بِأَيْدِيكُمْ وَ سُيُوفِكُمْ فِي هَوَى أَلْسِنَتِكُمْ وَ لَا
+> تَسْتَعْجِلُوا بِمَا لَمْ‏ يُعَجِّلْهُ‏ اللَّهُ‏ لَكُمْ‏ فَإِنَّهُ
+> مَنْ مَاتَ مِنْكُمْ عَلَى فِرَاشِهِ وَ هُوَ عَلَى مَعْرِفَةِ حَقِّ
+> رَبِّهِ وَ حَقِّ رَسُولِهِ وَ أَهْلِ بَيْتِهِ مَاتَ شَهِيداً وَ وَقَعَ
+> أَجْرُهُ عَلَى اللَّهِ‏ وَ اسْتَوْجَبَ ثَوَابَ مَا نَوَى مِنْ صَالِحِ
+> عَمَلِهِ وَ قَامَتِ النِّيَّةُ مَقَامَ إِصْلَاتِهِ لِسَيْفِهِ فَإِنَّ
+> لِكُلِّ شَيْ‏ءٍ مُدَّةً وَ أَجَلا
 
 Stick to the earth, keep patient in trials, do not move your hands and
 swords after the liking of your tongues, and do not make haste in
@@ -749,13 +697,9 @@ rewards of those who really serve Mahdi and fight in his company.
 
 In a tradition, Imam maintains:
 
-<blockquote dir="rtl">
-  <p>
-فانه من مات منکم علی فراشه و هو علی معرفه حق ربه و حق رسوله و اهل بیته
-مات شهیدا و وقع اجره علی الله و استوجب ثوب مانوی من صالح عمله و قامت
-النیه مقام اصلاته لسیفه فان لکل شیء مده و اجلا
-  </p>
-</blockquote>
+> فانه من مات منکم علی فراشه و هو علی معرفه حق ربه و حق رسوله و اهل بیته
+> مات شهیدا و وقع اجره علی الله و استوجب ثوب مانوی من صالح عمله و قامت
+> النیه مقام اصلاته لسیفه فان لکل شیء مده و اجلا
 
 Verily he who dies from among you in his bed while he recognizes the
 right of his Lord, the right of His Messenger and the right of Prophet's
@@ -833,5 +777,4 @@ tradition as well. See for example this one: إنّما أقضى بينكم با
 [^25]: Nahj al-Balagha, Sermon 190.
 
 [^26]: Ta'awil al-Ayat, p. 642, Bihar al-Anwar, vol. 52,p. 144.
-
 

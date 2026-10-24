@@ -22,4 +22,3 @@ are revival of the affair and exalting the word of Imams (as),
 publicizing their rights and recognition and cooperation of the
 believers in helping them, and praying for their early reappearance.
 
-

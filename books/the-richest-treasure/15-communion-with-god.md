@@ -20,4 +20,3 @@ of God, how I should lead the people there in prayer, he said “Perform
 your prayers even as the weakest among you would do, and set an example
 of consideration to the faithful”.
 
-

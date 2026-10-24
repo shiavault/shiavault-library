@@ -8,11 +8,7 @@ Surah Nasr, Chapter 110
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -98,31 +94,15 @@ the tongue.
 Surah Nasr, Verses 1-3
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَاء نَصْرُ اللَّهِ وَالْفَتْحُ
-  </p>
-</blockquote>
+> إِذَا جَاء نَصْرُ اللَّهِ وَالْفَتْحُ
 
-<blockquote dir="rtl">
-  <p>
-وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
-  </p>
-</blockquote>
+> وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
 
-<blockquote dir="rtl">
-  <p>
-فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا
-  </p>
-</blockquote>
+> فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا
 
 ***1. “When there comes the help of Allah and victory",***  
 ***2. “And you see people entering Allah's religion in multitudes",***  
@@ -299,5 +279,4 @@ multitudes.*
 [^6]: Surah Yusuf, No. 12, verse 101
 
 [^7]: Surah 'Naml. No 27, verse 40
-
 

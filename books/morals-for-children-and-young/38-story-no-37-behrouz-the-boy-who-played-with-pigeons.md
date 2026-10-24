@@ -17,4 +17,3 @@ as get a diploma in language.”
  That was when Behrouz became aware of his mistake. From the next day,
 he freed his pigeons and made use of his time by acquiring knowledge.
 
-

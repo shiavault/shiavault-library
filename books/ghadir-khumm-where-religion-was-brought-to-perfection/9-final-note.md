@@ -52,19 +52,11 @@ that a Hasan and Sand, (correct) Hadith".
 
 "This is
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 B) Hafidh Abu Ja'afar Tahawi has said in 'Mushkil-ul-Athar:
 
-<blockquote dir="rtl">
-  <p>
-فهذا الحديث صحيح الإسناد و لا طعن لأحد في رواته
-  </p>
-</blockquote>
+> فهذا الحديث صحيح الإسناد و لا طعن لأحد في رواته
 
 "So, this Hadith is Sahih (correct) according to 'Asnad' and no one has
 said anything against its narrators"
@@ -74,11 +66,7 @@ chains in \`Mustadrak' and has said that this Hadith is Sahih (correct).
 
 Abu Muhammad Ahmad bin Muhammad Asimi has said in 'Zainul Fata':
 
-<blockquote dir="rtl">
-  <p>
-وهذا حديث تلقّته الأمة بالقبول و هو موافق للأصول
-  </p>
-</blockquote>
+> وهذا حديث تلقّته الأمة بالقبول و هو موافق للأصول
 
 "This Hadith is accepted by Ummah and it is confirming to the Usool".
 
@@ -117,5 +105,4 @@ said that this Hadith is Sahih (correct):
 
 It should be mentioned here that all the names mentioned above are of
 Sunni scholars.
-
 

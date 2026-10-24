@@ -333,39 +333,39 @@ dark.
 All Praise is due to Allah, the Lord of the Worlds, for having guided
 those whom He has chosen from His servants.
 
-[^93] His full name is Abu Ishaq Ka\`b ibn Mati\` (d. 32 A.H./652 A.D.).
+[^93]: His full name is Abu Ishaq Ka\`b ibn Mati\` (d. 32 A.H./652 A.D.).
 He was a Jew from Yemen who pretended to have embraced Islam then went
 to Medina during the reign of Umar ibn al-Khattab. Then he went to Syria
 to be one of Mu\`awiyah's advisers. He die in Hims. He is believed to
 have succeeded in injecting a great deal of Judaicas into the Islamic
 beliefs. \_\_ Tr.
 
-[^94] Al-Dhahabi Tadhkirat al-Huffaz., Vol. 1, p. 3.
+[^94]: Al-Dhahabi Tadhkirat al-Huffaz., Vol. 1, p. 3.
 
-[^95] Al-Hakim, Mustadrak , Vol. 3, p. 121, quotes this tradition and
+[^95]: Al-Hakim, Mustadrak , Vol. 3, p. 121, quotes this tradition and
 says, "It is authentic according to the methods of verification followed
 by both Shaykhs [Bukhari and Muslim] who did not (!) record it." It is
 also recorded on p. 73 of al-Suyuti's book Tarikh al-Khulafa, on p. 24
 of al-Nisai's Khasais, and on p. 82 of al-Khawarizmi's book
 Al-Manaqib.
 
-[^96] All these traditions are regarded by "Ahl al-Sunnah wal Jama\`a"
+[^96]: All these traditions are regarded by "Ahl al-Sunnah wal Jama\`a"
 as authentic, and they are recorded by many of their scholars who admit
 their authenticity. We have discussed them in our previous books. Anyone
 who wants to review their references ought to read Al-Muraja\`at which
 is verified by Husayn al-Radi.
 
-[^97] Refer for more information to the Introduction to Sharh
+[^97]: Refer for more information to the Introduction to Sharh
 Nahjul-Balagha by the Mu\`tazilite scholar Ibn Abul-Hadid.
 
-[^98] Al-Fakhr al-Razi states these views on p. 161, Vol. 11, of his
+[^98]: Al-Fakhr al-Razi states these views on p. 161, Vol. 11, of his
 book Al-Tafsir al-Kabir, the grand exegesis.
 
-[^99] One such testimony is in verse 33 of Surat al-Ahzab (Chapter 33)
+[^99]: One such testimony is in verse 33 of Surat al-Ahzab (Chapter 33)
 which reads, "Surely Allah wills to remove from you, O Ahl al-Bayt, all
 abomination, and to purify you with a perfect purification."
 
-[^100] Among such testimonies is his statement, peace and blessings be
+[^100]: Among such testimonies is his statement, peace and blessings be
 upon him and his progeny, "Uphold the Book of Allah and my \`Itrat
 (Progeny); so long as you uphold them both (simultaneously), you shall
 never stray after me." Just as the Book of Allah is protected by Allah
@@ -373,15 +373,14 @@ from any error, so is the case with the pure Progeny . Anyone who is not
 infallible cannot be relied upon to guide others. One who himself is
 liable to err is in need of guidance.
 
-[^101] This is stated on p. 151 of Al-Sawa\`iq al-Muhriqa by the
+[^101]: This is stated on p. 151 of Al-Sawa\`iq al-Muhriqa by the
 Shafi\`i scholar Ibn Hajar.
 
-[^102] To the best of my knowledge, no English translation of the
+[^102]: To the best of my knowledge, no English translation of the
 11-Volume encyclopedia titled Al-Ghadeer fil Kitab wal Sunnah wal Adab
 by Abd al-Husayn Ahmad al-Amini al-Najafi is available yet. Its fourth
 edition was published in 1397 A.H./1977 A.D. by Dar al-Kitab al-Arabi of
 Beirut, Lebanon. This book needs a book all by itself to describe its
 literary value, the knowledge it contains, and the data with which it is
 filled. \_\_ Tr.
-
 

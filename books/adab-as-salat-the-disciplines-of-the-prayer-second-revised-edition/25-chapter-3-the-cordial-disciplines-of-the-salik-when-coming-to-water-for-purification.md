@@ -164,4 +164,3 @@ Presence of the Beloved.
 
 [^1]: Misbāh ash-Sharī'ah, ch. 10, on “Purification”.
 
-

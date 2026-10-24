@@ -174,7 +174,6 @@ and thereby conclude that Zoroastianism is a true faith, or vice versa,
 prove it to be a false religion, either approach would be a deviation
 from the right course.
 
-
 **A Supplementary to the Method**
 
 The question that arises here is, if a person in his choice of a
@@ -252,5 +251,4 @@ historical research with an extensive study of historical sources in
 order to acknowledge the fact that fourteen centuries ago, one Muhammad,
 had indeed existed who was a prophet of God. Other than this there is no
 way.
-
 

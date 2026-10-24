@@ -294,4 +294,3 @@ that whenever they got an opportunity they mentioned the events of
 Karbala in detail and even Imam Husayn who possessed the highest human
 and Islamic virtues was usually mentioned with the title of the martyr.
 
-

@@ -9,4 +9,3 @@ Husayn; in the second he committed genocide in Madinah where he ordered
 the slaying of close to 10,000 Muslims; and in the third, he attacked
 and demolished the Ka'abah.
 
-

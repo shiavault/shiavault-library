@@ -39,4 +39,3 @@ al-Tiwal, p. 238.
 
 [^2]: al-Khawarizmi, Maqtal al-Husayn, Vol. 1, p. 196, chapter 10.
 
-

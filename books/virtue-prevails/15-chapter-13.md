@@ -47,4 +47,3 @@ Sumayah boarded a bus and Hamid followed it at a distance. She soon got
 off the bus and entered a tailor's shop. Hamid was disappointed, but he
 felt sure that he would get her one day.
 
-

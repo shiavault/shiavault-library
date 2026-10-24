@@ -396,4 +396,3 @@ Bear the bitterness of acts of worship in the same way as he had tasted
 the pleasure of sin. Only then, he should utter the formula of
 penitence."
 
-

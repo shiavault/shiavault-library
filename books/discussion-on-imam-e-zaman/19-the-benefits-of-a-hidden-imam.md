@@ -177,10 +177,8 @@ The Perfect Man is the treasure-chest of all bounties and the Pure
 Imams (a.s.) are the source of all endowments. In Ziyarat-e-Jaameah, we
 address them in the following words:
 
-<p dir="rtl">
 السلام عليكم يا اهل بيت النُّبو.ه و موضع الرساله و مختلف الملائمه و
 مهبط الوحي و معدن » .« الرُّحمه و خزّان العلم
-</p>
 
 “Peace and salutations be on you, O (you, who are) the household of
 Prophethood, the situate of messengership, the place of ascent and
@@ -313,15 +311,12 @@ that comprise of important Islamic gnosis, jurisprudence, laws, etc.
 apart from the various supplications and invocations narrated on his
 authority.
 
-<p dir="rtl">
 اللّهم. انّا نرغب اليك في دولهٍ كريمهٍ تعزُّ بِها الاسلام و اهله. و
 تذلُّ بها النّفاق و اهله و تجعلنا فيها » .« من الدعاه الي طاعتك و القاده
 الي سبيلك
-</p>
 
 “O Allah! Surely we are inclined to you concerning the noble
 government. Through it, you will honour Islam and its followers, and
 degrade hypocrisy and its supporters. And that you make us from among
 those who call towards your obedience and guide to your path.”
-
 

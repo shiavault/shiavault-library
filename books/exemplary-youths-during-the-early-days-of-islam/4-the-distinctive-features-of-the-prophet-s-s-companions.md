@@ -82,4 +82,3 @@ Only then can we judge them fairly.
 
 [^3]: Sūrat Āl ‘Imrān 3:193.
 
-

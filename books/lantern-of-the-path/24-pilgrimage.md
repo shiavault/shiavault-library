@@ -56,20 +56,12 @@ have obliged yourself to Him on the Day of Judgement. Know that Allah
 made the pilgrimage obligatory, and singled it out from all the acts of
 worship in respect of Himself when He said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
-سَبِيلاً
-  </p>
-</blockquote>
-
-
+> وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
+> سَبِيلاً
 
 ***Pilgrimage to the House is incumbent upon men for the sake of Allah,
 and [upon] everyone who is able to undertake the journey to it.***
 (3:97)
-
 
 The Holy Prophet established the organization of the rituals of
 pilgrimage as preparation for, and an indication of, death, the grave,
@@ -77,5 +69,4 @@ the resurrection and the Day of Judgement. In this lesson for mankind he
 discriminates between those who will enter the Garden and those who will
 enter the Fire, through his demonstrating the pilgrimage rites from
 beginning to end to those with intelligence and prudence.
-
 

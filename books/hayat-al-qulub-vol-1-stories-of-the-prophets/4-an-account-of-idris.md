@@ -369,4 +369,3 @@ at the time of sunset. These are to be recited with prostrations. These
 are obligatory prayers and one who prays in addition to it, his reward
 is only with Allah.
 
-

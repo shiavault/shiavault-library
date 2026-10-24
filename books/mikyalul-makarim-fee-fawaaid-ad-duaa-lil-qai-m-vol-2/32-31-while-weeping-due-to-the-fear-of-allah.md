@@ -22,4 +22,3 @@ on the same, relating to the Imam of his time, for in this way he will
 discharge his duty towards his master with his body as well as his
 tongue.
 
-

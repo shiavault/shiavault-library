@@ -9,4 +9,3 @@ Qur'an ‑ and indeed, infatuation makes a person blind and deaf. A person
 with intellect and sense of justice can have no doubt about
 groundlessness of this presumption.
 
-

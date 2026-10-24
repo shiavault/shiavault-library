@@ -194,4 +194,3 @@ as the Righteous Caliphates.
 
 [^7]: Surah Furqan 25:35
 
-

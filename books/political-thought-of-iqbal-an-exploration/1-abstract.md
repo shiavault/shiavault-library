@@ -20,4 +20,3 @@ the needs of time.
 ***Key Words: State, Church, Priest hood, Monasticism, dictatorship,
 Spiritual, material Prologue***
 
-

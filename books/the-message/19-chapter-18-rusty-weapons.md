@@ -460,4 +460,3 @@ in the Battle of Yamamah.
 [^9]: Dr Haykal says: "He joined the Prophet after the conquest of
 Makkah and we have not yet found any evidence for this statement.
 
-

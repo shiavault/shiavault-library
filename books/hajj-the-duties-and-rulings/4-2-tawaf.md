@@ -44,7 +44,6 @@ This prayer is similar to the FAJR, or morning, prayer and in the
 intention, state "I pray two Rak'ats SALA of the Umrah TAWAAF, seeking
 nearness to Allah Almighty."
 
-
 **4. The SA'Y**
 
 The fourth practice is to do SA'Y between SAFA and MARWAH. In the SA'Y
@@ -77,5 +76,4 @@ Two aspects remain Haram, and this is not because of the IHRAAM, but
 because of the Sanctity of the Holy Mosque of the CA'BAH. These are:
 
 Hunting, and Uprooting any tree or vegetation of the Holy Mosque.
-
 

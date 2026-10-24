@@ -226,4 +226,3 @@ the time. There is no objection to its removal, whether necessary to do
 so or not. Nor is there any objection to changing them, provided the
 other pair complies with the conditions stated above.
 
-

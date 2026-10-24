@@ -13,4 +13,3 @@ our son”.
 parents.  
  Truthfulness is one of the good qualities of Islam.
 
-

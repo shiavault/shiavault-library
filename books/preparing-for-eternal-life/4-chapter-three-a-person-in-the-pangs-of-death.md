@@ -47,7 +47,6 @@ It is recommended that a person who is passing away or experiencing the
 pangs of death', [if possible], lay him/her flat with the feet and face
 facing Holy Ka'aba, insh'Allah.
 
-
 **Chapter Four : When a Person Becomes Deceased**
 
 And Allah says in the Quoran:
@@ -110,5 +109,4 @@ Allah and in imploring (requesting) for His forgiveness and repeatedly
 reciting; "A'fwaka A'fwaka"
 
 [Thy Pardon, Thy Pardon] [Sayyid, Hadi Husayn, (1988), pg 128]
-
 

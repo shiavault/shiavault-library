@@ -258,7 +258,6 @@ other a good prudent policy to honor that conviction.
 In any case let us pronounce that we can not repudiate the legitimacy
 of their rule, at least, some of them.
 
-
 **37. The absence from the view of narrators**
 
 Difference in the date has opened avenues to the writer to tell what
@@ -590,5 +589,4 @@ text of BIHAR because it was not necessary. The writer now takes this
 and uses it as a weapon in which to accuse the Shia writes in
 interpreting the traditions as time fits. Our readers can judge for
 themselves whether to come to such a conclusion is just or unjust.
-
 

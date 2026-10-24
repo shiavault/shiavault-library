@@ -487,9 +487,7 @@ Also, the Qur’an tells us to safeguard values from absolute destruction,
 whether regarding work or goods; this again shows that possession is
 limited.
 
-<p dir="rtl">
 و لا تبخسوا الناس اشيائهم
-</p>
 
 ***“Do not decrease the value people's work really has.” (11:85, 7:85,
 26:83)***
@@ -524,9 +522,7 @@ toward taking steps toward
 elevating each other by showing the relation between actions and
 reactions in their works. As Jalal-addin Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 اين جهان کوه است و فعــل ما ندا ســوی مـا آيد نــداها را صـــدا
-</p>
 
 *(This world is like a mountain, and our actions like the shouting
 toward that mountain; they are echoed back to us.)*
@@ -581,18 +577,12 @@ reaction can be a factor helping to arouse unity among human beings.
 Many Iranian poets have put this concept under emphasis in their works.
 As Nasser Khusro says:
 
-<p dir="rtl">
 عيسی به رهی ديد يکی کشتـه فتــاده حيران شد و بگرفت به دندان سر انگشت
-</p>
 
-<p dir="rtl">
 گفتا که که را کشتی؟ تا کشته شدی زار تا باز کجا کشتـه شود آن که تو را
 کشت
-</p>
 
-<p dir="rtl">
 انگشت مکن رنجه به درکوفتــن کس تا کـس نکند رنجه به درکوفتنت مشت
-</p>
 
 *(One day, Jesus saw a dead man lying on the ground. Shocked, Jesus bit
 his finger and said, 'who did you kill that made someone else kill you,
@@ -621,10 +611,8 @@ viewpoint, and consider respecting it as totally necessary. Iranian
 literature shows this feeling in various ways. As the renowned Iranian
 poet, Sa'adi says,
 
-<p dir="rtl">
 به جان زنده دلان سعديا که ملک وجود نيــرزد آن که دلی را ز خود
 بيــازاری
-</p>
 
 (I swear, O Sa'adi, on the lives of all the pure-hearted, that this
 worldly life is not worth you hurting others.)
@@ -747,17 +735,11 @@ Jalal-addin Muhammad Molawi believe that all disputes and disagreements
 are due to man's own stubbornness and spiritual deviation from the right
 path:
 
-<p dir="rtl">
 در معـــانی اختـــلاف و در صـور روز و شب بين خار و گل سنگ و گهر
-</p>
 
-<p dir="rtl">
 تا ز زهـــر و از شکــر درنگـذری کــی تو از گلــزار وحدت بـو بری
-</p>
 
-<p dir="rtl">
 وحدت اندر وحدت است اين مثنوی از سمک رو تـا سماک ای معنــوی
-</p>
 
 *(Differences occur both in meanings and in appearances. For instance,
 consider the how day differs from night, or how worthless pebbles are
@@ -823,9 +805,7 @@ human life would be destroyed in its very early stages, for there would
 be no more contradicting ideas that could lead to human effort, and
 activate man's development. As Jalal-addin Muhammad Molawi says,
 
-<p dir="rtl">
 قبلـــة جان را چو پنهـان کردهانــد هر کســی رو جانبــــی آوردهانــد
-</p>
 
 *(Since the main path and direction toward the truth - God - is hidden,
 people have taken various paths.)*
@@ -946,17 +926,13 @@ importance of collaboration and cooperation, like (The House of Imran,
 3- There are also many hadith on the necessity and effect of social
 participation.
 
-<p dir="rtl">
 يدالله مع الجماعة
-</p>
 
 *“God's hand is with the public unity.”*
 
 4- Other hadith show the importance of the community.
 
-<p dir="rtl">
 من اصبح و لم يهتم بامور المسلمين فليس بمسلم
-</p>
 
 *“He who wakes up in the morning without caring about the lives of other
 Muslims is not a Muslim.”*
@@ -1197,5 +1173,4 @@ to keep him safe from fall or doom.
 
 6- If such a man loses his power, he will not feel sorry or upset at
 all.
-
 

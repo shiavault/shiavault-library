@@ -48,4 +48,3 @@ you, o ye men of understanding”*** 5 , but in upper levels it
 states:***“and those who restrain anger, and pardon (all) men, for Allah
 loves those who do good”*** 6 , that are four levels in total.
 
-

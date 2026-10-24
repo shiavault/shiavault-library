@@ -24,11 +24,7 @@ every believer. Because His Eminence is the real father of theirs. As
 explained in Part Three of the book, Imam (as) is the true father – and
 this is also supported by the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا
 
 ***“And We have enjoined on man doing of good to his parents.” (Qur’an,
 Surah Ahqaaf 46:15)***
@@ -106,11 +102,7 @@ sandal strap.”
 As for the second type: Please note the following statement of the
 Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا
-  </p>
-</blockquote>
+> اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا
 
 ***“Allah takes the souls at the time of their death.” (Qur’an, Surah
 Zumar 39:42)***
@@ -213,5 +205,4 @@ in the chapter of the Letter ‘Alif’, in Part Four of the book.
 [^3]: Kamil az-Ziyarat, Pg. 63
 
 [^4]: Al-Ihtijaaj; Vol. 2, Pg. 325
-
 

@@ -56,14 +56,10 @@ from the owners of these assets. The Holy Qur'an has also regulated the
 use of these taxes and dedicated them to the following categories that
 are mentioned in this holy verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ
-عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ
-وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً
-مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ
+> عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ
+> وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً
+> مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ
 
 ***The alms are only for the poor, the needy, those who collect them, to
 influence hearts (to belief), to free captives and debtors, for the
@@ -90,11 +86,7 @@ According to an authentic narration, Muhammad ibn Muslim, Abu-Basir,
 Burayd, and Fudhayl have reported Imam al-Baqir (‘a) and Imam al-Sadiq
 (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-فَرَضَ اللهُ الزَّكَاةَ مَعَ الصَّلاَةِ.
-  </p>
-</blockquote>
+> فَرَضَ اللهُ الزَّكَاةَ مَعَ الصَّلاَةِ.
 
 *Almighty Allah has deemed zakat obligatory along with the (duty of)
 prayer.*[^1]
@@ -102,20 +94,12 @@ prayer.*[^1]
 According to another authentic narration, Muhammad ibn Muslim has
 reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ عَبْدٍ مَنَعَ مِنْ زَكَاةِ مَالِهِ شَيْئاً إِلاَّ جَعَلَ
-اللهُ ذَلِكَ يَوْمَ الْقِيَامَةِ ثُعْبَاناً مِنْ نَارٍ مُطَوَّقاً فِي
-عُنُقِهِ يَنْهَشُ مِنْ لَحْمِهِ حَتَّى يَفْرِغَ مِنَ الْحِسَابِ.
-وَهُوَ قَوْلُ اللهِ عَزَّ وَجَلَّ:
-  </p>
-</blockquote>
+> مَا مِنْ عَبْدٍ مَنَعَ مِنْ زَكَاةِ مَالِهِ شَيْئاً إِلاَّ جَعَلَ
+> اللهُ ذَلِكَ يَوْمَ الْقِيَامَةِ ثُعْبَاناً مِنْ نَارٍ مُطَوَّقاً فِي
+> عُنُقِهِ يَنْهَشُ مِنْ لَحْمِهِ حَتَّى يَفْرِغَ مِنَ الْحِسَابِ.
+> وَهُوَ قَوْلُ اللهِ عَزَّ وَجَلَّ:
 
-<blockquote dir="rtl">
-  <p>
-سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ
-  </p>
-</blockquote>
+> سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ
 
 *As for any servant (of Allah) who refrains from paying zakat (out of
 his wealth), Almighty Allah will certainly transform his assets into a
@@ -131,24 +115,12 @@ because *zakat* is one of the essential duties of Islam.
 
 Abu-Basir has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَنَعَ قِيرَاطاً مِنَ الزَّكَاةِ فَلَيْسَ بِمُؤْمِنٍ وَلاَ
-مُسْلِمٍ. وَهُوَ قَوْلُ اللهِ عَزَّ وَجَلَّ:
-  </p>
-</blockquote>
+> مَنْ مَنَعَ قِيرَاطاً مِنَ الزَّكَاةِ فَلَيْسَ بِمُؤْمِنٍ وَلاَ
+> مُسْلِمٍ. وَهُوَ قَوْلُ اللهِ عَزَّ وَجَلَّ:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ ارْجِعُونِ
-  </p>
-</blockquote>
+> رَبِّ ارْجِعُونِ
 
-<blockquote dir="rtl">
-  <p>
-لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ
-  </p>
-</blockquote>
+> لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ
 
 *Whoever refrains from paying even a carat of zakat is neither a
 believer (mu'min) nor Muslim. This is the meaning of Almighty Allah’s
@@ -159,12 +131,8 @@ left.’ (23:99-100)**”*[^3]
 According to another authentic narration, Abu-Basir has reported Imam
 al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَنَعَ قِيرَاطاً مِنَ الزَّكَاةِ فَلْيَمُتْ إِنْ شَاءَ
-يَهُودِيّاً أَوْ نَصْرَانِيّاً.
-  </p>
-</blockquote>
+> مَنْ مَنَعَ قِيرَاطاً مِنَ الزَّكَاةِ فَلْيَمُتْ إِنْ شَاءَ
+> يَهُودِيّاً أَوْ نَصْرَانِيّاً.
 
 *He who refrains from paying even a carat of zakat may die a Jew or
 Christian, whichever he likes.*[^4]
@@ -216,29 +184,17 @@ support this observation.
 
 ‘Abdullah ibn Sinan quoted Imam al-Sadiq (‘a) to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا نَزَلَتْ آيَةُ الزَّكَاةِ:
-  </p>
-</blockquote>
+> لَمَّا نَزَلَتْ آيَةُ الزَّكَاةِ:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا
 
-<blockquote dir="rtl">
-  <p>
-فِي شَهْرِ رَمَضَانَ، فَأَمَرَ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ، مُنَادِيَهُ فَنَادَى فِي النَّاسِ: إِنَّ اللهَ، تَبَارَكَ
-وَتَعَالَى، قَدْ فَرَضَ عَلَيْكُمُ الزَّكَاةَ كَمَا فَرَضَ عَلَيْكُمُ
-الصَّلاَةَ. فَفَرَضَ عَلَيْكُمْ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالإِبِلِ
-وَالْبَقَرِ وَالْغَنَمِ وَمِنَ الْحِنْطَةِ وَالشَّعِيرِ وَالتَّمْرِ
-وَالزَّبِيبِ، وَنَادَى فِيهِمْ بِذَلِكَ فِي شَهْرِ رَمَضَانَ، وَعَفَا
-لَهُمْ عَمَّا سِوَى ذَلِكَ.
-  </p>
-</blockquote>
+> فِي شَهْرِ رَمَضَانَ، فَأَمَرَ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ، مُنَادِيَهُ فَنَادَى فِي النَّاسِ: إِنَّ اللهَ، تَبَارَكَ
+> وَتَعَالَى، قَدْ فَرَضَ عَلَيْكُمُ الزَّكَاةَ كَمَا فَرَضَ عَلَيْكُمُ
+> الصَّلاَةَ. فَفَرَضَ عَلَيْكُمْ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالإِبِلِ
+> وَالْبَقَرِ وَالْغَنَمِ وَمِنَ الْحِنْطَةِ وَالشَّعِيرِ وَالتَّمْرِ
+> وَالزَّبِيبِ، وَنَادَى فِيهِمْ بِذَلِكَ فِي شَهْرِ رَمَضَانَ، وَعَفَا
+> لَهُمْ عَمَّا سِوَى ذَلِكَ.
 
 *When this holy verse was revealed:* ***“Take charity out of their
 property, in order to cleanse them and purify them thereby, (9:103)”***
@@ -252,17 +208,13 @@ excluding all other items…*[^6]
 
 Imam al-Baqir (‘a) and Imam al-Sadiq (‘a) are reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-فَرَضَ اللهُ، عَزَّ وَجَلَّ، الزَّكَاةَ مَعَ الصَّلاَةِ فِي
-الأَمْوَالِ، وَسَنَّهَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-فِي تِسْعَةِ أَشْيَاءَ، وَعَفَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ، عَمَّا سِوَاهُنَّ: فِي الذَّهَبِ وَالْفِضَّةِ وَالإِبِلِ
-وَالْبَقَرِ وَالْغَنَمِ وَالْحِنْطَةِ وَالشَّعِيرِ وَالتَّمْرِ
-وَالزَّبِيبِ. وَعَفَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-عَمَّا سِوَى ذَلِكَ.
-  </p>
-</blockquote>
+> فَرَضَ اللهُ، عَزَّ وَجَلَّ، الزَّكَاةَ مَعَ الصَّلاَةِ فِي
+> الأَمْوَالِ، وَسَنَّهَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> فِي تِسْعَةِ أَشْيَاءَ، وَعَفَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ، عَمَّا سِوَاهُنَّ: فِي الذَّهَبِ وَالْفِضَّةِ وَالإِبِلِ
+> وَالْبَقَرِ وَالْغَنَمِ وَالْحِنْطَةِ وَالشَّعِيرِ وَالتَّمْرِ
+> وَالزَّبِيبِ. وَعَفَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> عَمَّا سِوَى ذَلِكَ.
 
 *Almighty Allah has imposed (as a religious duty) the payment of zakat
 from assets along with the (religious duty of) prayers. The Messenger of
@@ -276,14 +228,10 @@ Muhammad (ibn Ja’far) al-Tayyar has reported that he asked Imam al-Sadiq
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-فِي تِسْعَةِ أَشْيَاءَ: الذَّهَبِ وَالْفِضَّةِ وَالْحِنْطَةِ
-وَالشَّعِيرِ وَالتَّمْرِ وَالزَّبِيبِ وَالإِبِلِ وَالْبَقَرِ
-وَالْغَنَمِ. وَعَفَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-عَمَّا سِوَى ذَلِكَ.
-  </p>
-</blockquote>
+> فِي تِسْعَةِ أَشْيَاءَ: الذَّهَبِ وَالْفِضَّةِ وَالْحِنْطَةِ
+> وَالشَّعِيرِ وَالتَّمْرِ وَالزَّبِيبِ وَالإِبِلِ وَالْبَقَرِ
+> وَالْغَنَمِ. وَعَفَا رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> عَمَّا سِوَى ذَلِكَ.
 
 *These are nine things; gold, silver, wheat, barley, dates, raisins,
 camels, cows, and sheep. The Messenger of Allah (S) excluded everything
@@ -302,13 +250,9 @@ have other grains.”
 
 The Imam (‘a) reproached him and said:
 
-<blockquote dir="rtl">
-  <p>
-أَقُولُ لَكَ إِنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، عَفَا
-عَمَّا سِوَى ذَلِكَ، وَتَقُولُ: إِنَّ عِنْدَنَا حَبّاً كَثِيراً،
-أَفِيهِ الزَّكَاةُ؟
-  </p>
-</blockquote>
+> أَقُولُ لَكَ إِنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، عَفَا
+> عَمَّا سِوَى ذَلِكَ، وَتَقُولُ: إِنَّ عِنْدَنَا حَبّاً كَثِيراً،
+> أَفِيهِ الزَّكَاةُ؟
 
 *I have told you that the Messenger of Allah (S) excluded everything
 else, yet you tell me that you have other grains and ask me whether they
@@ -319,19 +263,15 @@ he was sitting with Imam al-Baqir (‘a) and no one else was with the Imam
 except his son Ja’far (al-Sadiq). At that time, the Imam (‘a) narrated
 to me:
 
-<blockquote dir="rtl">
-  <p>
-يَا زُرَارَةُ، إِنَّ أَبَا ذَرٍّ وَعُثْمَانَ تَنَازَعَا عَلَى عَهْدِ
-رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، فَقَالَ عُثْمَانُ: كُلُّ
-مَالٍ مِنْ ذَهَبٍ أَوْ فِضَّةٍ يُدَارُ بِهِ وَيُعْمَلُ بِهِ
-وَيُتَّجَرُ بِهِ فَفِيهِ الزَّكَاةُ إِذَا حَالَ عَلَيْهِ الْحَوْلُ.
-فَقَالَ أَبُو ذَرٍّ: أَمَّا مَا يُتَّجَرُ بِهِ أَوْ دِيرَ وَعُمِلَ
-بِهِ فَلَيْسَ فِيهِ زَكَاةٌ؛ إِنَّمَا الزَّكَاةُ فِيهِ إِذَا كَانَ
-رِكَازاً كَنْزاً مَوْضُوعاً، فَإِذَا حَالَ عَلَيْهِ الْحَوْلُ فَفِيهِ
-الزَّكَاةُ. فَاخْتَصَمَا فِي ذَلِكَ إِلَى رَسُولِ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، فَقَالَ: الْقَوْلُ مَا قَالَ أَبُو ذَرٍّ.
-  </p>
-</blockquote>
+> يَا زُرَارَةُ، إِنَّ أَبَا ذَرٍّ وَعُثْمَانَ تَنَازَعَا عَلَى عَهْدِ
+> رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، فَقَالَ عُثْمَانُ: كُلُّ
+> مَالٍ مِنْ ذَهَبٍ أَوْ فِضَّةٍ يُدَارُ بِهِ وَيُعْمَلُ بِهِ
+> وَيُتَّجَرُ بِهِ فَفِيهِ الزَّكَاةُ إِذَا حَالَ عَلَيْهِ الْحَوْلُ.
+> فَقَالَ أَبُو ذَرٍّ: أَمَّا مَا يُتَّجَرُ بِهِ أَوْ دِيرَ وَعُمِلَ
+> بِهِ فَلَيْسَ فِيهِ زَكَاةٌ؛ إِنَّمَا الزَّكَاةُ فِيهِ إِذَا كَانَ
+> رِكَازاً كَنْزاً مَوْضُوعاً، فَإِذَا حَالَ عَلَيْهِ الْحَوْلُ فَفِيهِ
+> الزَّكَاةُ. فَاخْتَصَمَا فِي ذَلِكَ إِلَى رَسُولِ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، فَقَالَ: الْقَوْلُ مَا قَالَ أَبُو ذَرٍّ.
 
 *O Zurarah, during the lifetime of the Messenger of Allah (S), Abu-Dharr
 and ‘Uthman disagreed about a question. ‘Uthman said, “Every item of
@@ -350,11 +290,7 @@ this?”
 
 The Imam (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-إِلَيْكَ عَنِّي! لاَ أَجِدُ مِنْهَا بُدّاً.
-  </p>
-</blockquote>
+> إِلَيْكَ عَنِّي! لاَ أَجِدُ مِنْهَا بُدّاً.
 
 *Stop this here! I have no other alternative.*[^9]
 
@@ -386,16 +322,12 @@ entrusted to the Holy Imams of the Ahl al-Bayt (‘a).
 Zurarah and Muhammad ibn Muslim have reported Imam al-Sadiq (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ، عَزَّ وَجَلَّ، فَرَضَ لِلْفُقَرَاءِ فِي مَالِ
-الأَغْنِيَاءِ مَا يَسَعُهُمْ، وَلَوْ عَلِمَ أَنَّ ذَلِكَ لاَ
-يَسَعُهُمْ لَزَادَهُمْ. إِنَّهُمْ لَمْ يُؤْتَوْا مِنْ قِبَلِ فَرِيضَةِ
-اللهِ عَزَّ وَجَلَّ، وَلَكِنْ أُوتُوا مِنْ مَنْعِ مَنْ مَنَعَهُمْ
-حَقَّهُمْ لاَ مِمَّا فَرَضَ اللهُ لَهُمْ، وَلَوْ أَنَّ النَّاسَ
-أَدَّوْا حُقُوقَهُمْ لَكَانُوا عَايِشِينَ بِخَيْرٍ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ، عَزَّ وَجَلَّ، فَرَضَ لِلْفُقَرَاءِ فِي مَالِ
+> الأَغْنِيَاءِ مَا يَسَعُهُمْ، وَلَوْ عَلِمَ أَنَّ ذَلِكَ لاَ
+> يَسَعُهُمْ لَزَادَهُمْ. إِنَّهُمْ لَمْ يُؤْتَوْا مِنْ قِبَلِ فَرِيضَةِ
+> اللهِ عَزَّ وَجَلَّ، وَلَكِنْ أُوتُوا مِنْ مَنْعِ مَنْ مَنَعَهُمْ
+> حَقَّهُمْ لاَ مِمَّا فَرَضَ اللهُ لَهُمْ، وَلَوْ أَنَّ النَّاسَ
+> أَدَّوْا حُقُوقَهُمْ لَكَانُوا عَايِشِينَ بِخَيْرٍ.
 
 *Verily, Almighty Allah has ordained a sufficient share for the poor to
 be taken from the assets of the wealthy that meets all their needs. If
@@ -409,11 +341,7 @@ due, they would certainly have lived in welfare.*[^11]
 ‘Ali ibn Mahziyar has reported that Imam al-Ridha (‘a) wrote the
 following statement in a letter he sent to ‘Abdullah ibn Muhammad:
 
-<blockquote dir="rtl">
-  <p>
-الزَّكَاةُ عَلَى كَيْلِ مَا كِيلَ بِالصَّاعِ.
-  </p>
-</blockquote>
+> الزَّكَاةُ عَلَى كَيْلِ مَا كِيلَ بِالصَّاعِ.
 
 *Zakat is levied from everything that can be measured by sa’.*[^12]
 
@@ -428,23 +356,15 @@ all grains, just like wheat and barley.”
 
 The Imam (‘a) responded:
 
-<blockquote dir="rtl">
-  <p>
-فِي الْحُبُوبِ كُلِّهَا زَكَاةٌ.
-  </p>
-</blockquote>
+> فِي الْحُبُوبِ كُلِّهَا زَكَاةٌ.
 
 *All grains are subject to zakat.*
 
 Imam al-Sadiq (‘a) is also reported to have answered the question of
 someone, saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا دَخَلَ الْقَفِيزَ فَهُوَ يَجْرِي مَجْرَى الْحِنْطَةِ وَالشَّعِيرِ
-وَالتَّمْرِ وَالزَّبِيبِ.
-  </p>
-</blockquote>
+> مَا دَخَلَ الْقَفِيزَ فَهُوَ يَجْرِي مَجْرَى الْحِنْطَةِ وَالشَّعِيرِ
+> وَالتَّمْرِ وَالزَّبِيبِ.
 
 *Whatever is measured by qafiz*[^13] *is treated just like wheat,
 barley, dates, and raisins.*
@@ -455,25 +375,17 @@ subject to *zakat* or not?”
 
 The Imam (‘a) answered in writing:
 
-<blockquote dir="rtl">
-  <p>
-الزَّكَاةُ فِي كُلِّ شَيْءٍ كِيلَ.
-  </p>
-</blockquote>
+> الزَّكَاةُ فِي كُلِّ شَيْءٍ كِيلَ.
 
 *Everything that is measured is subject to zakat.*[^14]
 
 Zurarah has reported that he asked Imam al-Sadiq (‘a) whether corn is
 subject to *zakat* or not, and the Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-الذَّرَّةُ وَالْعَدَسُ وَالسِّلْتُ وَالْحُبُوبُ فِيهَا مِثْلُ مَا فِي
-الْحِنْطَةِ وَالشَّعِيرِ، وَكُلُّ مَا كِيلَ بِالصَّاعِ فَبَلَغَ
-الأَوْسَاقَ الَّتِي يَجِبُ فِيهَا الزَّكَاةُ فَعَلَيْهِ فِيهِ
-الزَّكَاةُ.
-  </p>
-</blockquote>
+> الذَّرَّةُ وَالْعَدَسُ وَالسِّلْتُ وَالْحُبُوبُ فِيهَا مِثْلُ مَا فِي
+> الْحِنْطَةِ وَالشَّعِيرِ، وَكُلُّ مَا كِيلَ بِالصَّاعِ فَبَلَغَ
+> الأَوْسَاقَ الَّتِي يَجِبُ فِيهَا الزَّكَاةُ فَعَلَيْهِ فِيهِ
+> الزَّكَاةُ.
 
 *Corn, lentils, shelled barley, and all cereals are subject to zakat
 just like wheat and barley. Everything that is measured by sa’ and
@@ -484,13 +396,9 @@ Abu-Basir has reported that he asked Imam al-Sadiq (‘a) whether rice is
 subject to *zakat*, and the Imam (‘a) answered affirmatively and then
 added:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمَدِينَةَ لَمْ تَكُنْ يَوْمَئِذٍ أَرْضَ أَرُزٍّ فَيُقَالُ
-فِيهِ، وَلَكِنَّهُ قَدْ جُعِلَ فِيهِ. وَكَيْفَ لاَ يَكُونُ فِيهِ
-وَعَامَّةُ خَرَاجِ الْعِرَاقِ مِنْهُ؟
-  </p>
-</blockquote>
+> إِنَّ الْمَدِينَةَ لَمْ تَكُنْ يَوْمَئِذٍ أَرْضَ أَرُزٍّ فَيُقَالُ
+> فِيهِ، وَلَكِنَّهُ قَدْ جُعِلَ فِيهِ. وَكَيْفَ لاَ يَكُونُ فِيهِ
+> وَعَامَّةُ خَرَاجِ الْعِرَاقِ مِنْهُ؟
 
 *Because there were no rice farms in al-Madinah at that time (of
 legislation), nothing was mentioned about its taxation. Nevertheless,
@@ -502,13 +410,9 @@ partner must pay *zakat* on assets used in a partnership.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَنْبَغِي لَهُ أَنْ يَقُولَ لأَِصْحَابِ الْمَالِ: زَكُّوهُ. فَإِنْ
-قَالُوا: إِنَّا نُزَكِّيهِ، فَلَيْسَ عَلَيْهِ غَيْرُ ذَلِكَ. وَإِنْ
-هُمْ أَمَرُوهُ بِأَنْ يُزَكِّيَهُ فَلْيَفْعَلْ.
-  </p>
-</blockquote>
+> يَنْبَغِي لَهُ أَنْ يَقُولَ لأَِصْحَابِ الْمَالِ: زَكُّوهُ. فَإِنْ
+> قَالُوا: إِنَّا نُزَكِّيهِ، فَلَيْسَ عَلَيْهِ غَيْرُ ذَلِكَ. وَإِنْ
+> هُمْ أَمَرُوهُ بِأَنْ يُزَكِّيَهُ فَلْيَفْعَلْ.
 
 *A working partner in a partnership who does the business with the money
 of the other partners is required to advise the owner of the money to
@@ -522,14 +426,10 @@ sure that he (i.e. the owner) is not?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا هُمْ أَقَرُّوا بِأَنَّهُمْ يُزَكُّونَهُ، فَلَيْسَ عَلَيْهِ
-غَيْرُ ذَلِكَ. وَإِنْ هُمْ قَالُوا: إِنَّا لاَ نُزَكِّيهِ، فَلاَ
-يَنْبَغِي لَهُ أَنْ يَقْبَلَ ذَلِكَ الْمَالَ وَلاَ يَعْمَلَ بِهِ
-حَتَّى يُزَكِّيَهُ.
-  </p>
-</blockquote>
+> إِذَا هُمْ أَقَرُّوا بِأَنَّهُمْ يُزَكُّونَهُ، فَلَيْسَ عَلَيْهِ
+> غَيْرُ ذَلِكَ. وَإِنْ هُمْ قَالُوا: إِنَّا لاَ نُزَكِّيهِ، فَلاَ
+> يَنْبَغِي لَهُ أَنْ يَقْبَلَ ذَلِكَ الْمَالَ وَلاَ يَعْمَلَ بِهِ
+> حَتَّى يُزَكِّيَهُ.
 
 *If the owner of the money declares that he is paying the zakat of the
 money, the other partner is not required to do more than that; however,
@@ -543,14 +443,10 @@ for which *zakat* had been paid, and later the goods remained unsold.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كَانَ أَمْسَكَ مَتَاعَهُ يَبْتَغِي بِهِ رَأْسَ مَالِهِ فَلَيْسَ
-عَلَيْهِ زَكَاةٌ، وَإِنْ كَانَ حَبِسَهُ بَعْدَ مَا يَجِدُ رَأْسَ
-مَالِهِ فَعَلَيْهِ الزَّكَاةُ بَعْدَ مَا أَمْسَكَهُ بَعْدَ رَأْسِ
-الْمَالِ.
-  </p>
-</blockquote>
+> إِنْ كَانَ أَمْسَكَ مَتَاعَهُ يَبْتَغِي بِهِ رَأْسَ مَالِهِ فَلَيْسَ
+> عَلَيْهِ زَكَاةٌ، وَإِنْ كَانَ حَبِسَهُ بَعْدَ مَا يَجِدُ رَأْسَ
+> مَالِهِ فَعَلَيْهِ الزَّكَاةُ بَعْدَ مَا أَمْسَكَهُ بَعْدَ رَأْسِ
+> الْمَالِ.
 
 *If the man withheld the goods in order to recuperate his capital, the
 goods are not taxable, but if he withheld the goods after he had
@@ -562,11 +458,7 @@ this money subject to *zakat*?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا حَالَ الْحَوْلُ، فَلْيُزَكِّهَا.
-  </p>
-</blockquote>
+> إِذَا حَالَ الْحَوْلُ، فَلْيُزَكِّهَا.
 
 *After the passage of a complete year, he must pay its zakat.*[^19]
 
@@ -620,12 +512,8 @@ to the Ahl al-Bayt (‘a)).
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِمَامَ يُعْطِي هَؤُلاَءِ جَمِيعاً لأَِنَّهُمْ يُقِرُّونَ لَهُ
-بِالطَّاعَةِ.
-  </p>
-</blockquote>
+> إِنَّ الإِمَامَ يُعْطِي هَؤُلاَءِ جَمِيعاً لأَِنَّهُمْ يُقِرُّونَ لَهُ
+> بِالطَّاعَةِ.
 
 *The Imam gives to all these categories only because they recognize
 obedience to him.*
@@ -634,17 +522,13 @@ Zurarah asked, “What if they do not recognize him?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا زُرَارَةُ، لَوْ كَانَ يُعْطِي مَنْ يَعْرِفُ دُونَ مَنْ لاَ
-يَعْرِفُ لَمْ يُوجَدْ لَهَا مَوْضِعٌ؛ وَإِنَّمَا يُعْطَى مَنْ لاَ
-يَعْرِفُ لِيُرَغَّبَ فِي الدِّينِ فَيَثْبُتُ عَلَيْهِ. فَأَمَّا
-الْيَوْمَ فَلاَ تُعْطِهَا أَنْتَ وَأَصْحَابُكَ إِلاَّ مَنْ يَعْرِفُ،
-فَمَنْ وَجَدْتَ مِنْ هَؤُلاَءِ الْمُسْلِمِينَ عَارِفاً فَأَعْطِهِ
-دُونَ النَّاسِ. سَهْمُ الْمُؤَلَّفَةِ قُلُوبُهُمْ وَسَهْمُ الرِّقَابِ
-عَامٌّ، وَالْبَاقِي خَاصٌّ.
-  </p>
-</blockquote>
+> يَا زُرَارَةُ، لَوْ كَانَ يُعْطِي مَنْ يَعْرِفُ دُونَ مَنْ لاَ
+> يَعْرِفُ لَمْ يُوجَدْ لَهَا مَوْضِعٌ؛ وَإِنَّمَا يُعْطَى مَنْ لاَ
+> يَعْرِفُ لِيُرَغَّبَ فِي الدِّينِ فَيَثْبُتُ عَلَيْهِ. فَأَمَّا
+> الْيَوْمَ فَلاَ تُعْطِهَا أَنْتَ وَأَصْحَابُكَ إِلاَّ مَنْ يَعْرِفُ،
+> فَمَنْ وَجَدْتَ مِنْ هَؤُلاَءِ الْمُسْلِمِينَ عَارِفاً فَأَعْطِهِ
+> دُونَ النَّاسِ. سَهْمُ الْمُؤَلَّفَةِ قُلُوبُهُمْ وَسَهْمُ الرِّقَابِ
+> عَامٌّ، وَالْبَاقِي خَاصٌّ.
 
 *O Zurarah, if the Imam gives only to those who recognize (loyalty to
 him) and deprives those who do not, then these funds will not find
@@ -661,12 +545,8 @@ Zurarah asked, “What if we cannot find any of the mentioned groups?”
 
 The Imam answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَكُونُ فَرِيضَةٌ فَرَضَهَا اللهُ، عَزَّ وَجَلَّ، وَلاَ يُوجَدُ
-لَهَا أَهْلٌ.
-  </p>
-</blockquote>
+> لاَ يَكُونُ فَرِيضَةٌ فَرَضَهَا اللهُ، عَزَّ وَجَلَّ، وَلاَ يُوجَدُ
+> لَهَا أَهْلٌ.
 
 *Any duty that Almighty Allah has made incumbent must be practicable and
 there must be deserving individuals.*
@@ -688,11 +568,7 @@ recognize (loyalty to the Ahl al-Bayt)?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ، وَلاَ زَكَاةُ الْفِطْرَةِ.
-  </p>
-</blockquote>
+> لاَ، وَلاَ زَكَاةُ الْفِطْرَةِ.
 
 *Neither zakat funds nor zakat al-fitrah*[^20] *(can be distributed to
 them).*[^21]
@@ -703,11 +579,7 @@ it to?”
 
 The Imam answered:
 
-<blockquote dir="rtl">
-  <p>
-فِي أَهْلِ وِلاَيَتِكَ.
-  </p>
-</blockquote>
+> فِي أَهْلِ وِلاَيَتِكَ.
 
 Give it to the people of your faith.
 
@@ -716,13 +588,9 @@ lives.”
 
 The Imam (‘a) instructed:
 
-<blockquote dir="rtl">
-  <p>
-إِبْعَثْ بِهَا إِلَى بَلَدِهِمْ تُدْفَعُ إِلَيْهِمْ، وَلاَ تَدْفَعْهَا
-إِلَى قَوْمٍ إِذَا دَعَوْتَهُمْ غَداً إِلَى أَمْرِكَ لَمْ يُجِيبُوكَ،
-وَكَانَ وَاللهِ الذَّبْحُ.
-  </p>
-</blockquote>
+> إِبْعَثْ بِهَا إِلَى بَلَدِهِمْ تُدْفَعُ إِلَيْهِمْ، وَلاَ تَدْفَعْهَا
+> إِلَى قَوْمٍ إِذَا دَعَوْتَهُمْ غَداً إِلَى أَمْرِكَ لَمْ يُجِيبُوكَ،
+> وَكَانَ وَاللهِ الذَّبْحُ.
 
 *You may send these funds to a country where people of your faith live.
 Do not pay them to people who will not respond to you if you call them
@@ -749,11 +617,7 @@ pay?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَضَعُهَا فِي إِخْوَانِهِ وَأَهْلِ وِلاَيَتِهِ.
-  </p>
-</blockquote>
+> يَضَعُهَا فِي إِخْوَانِهِ وَأَهْلِ وِلاَيَتِهِ.
 
 *He must distribute them on his brethren-in-faith and followers of his
 belief.*
@@ -762,11 +626,7 @@ The reporter asked, “What if he cannot find such people?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَبْعَثُ بِهَا إِلَيْهِمْ.
-  </p>
-</blockquote>
+> يَبْعَثُ بِهَا إِلَيْهِمْ.
 
 He may send them the funds.
 
@@ -775,11 +635,7 @@ funds to them?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَدْفَعُهَا إِلَى مَنْ لاَ يَنْصِبُ.
-  </p>
-</blockquote>
+> يَدْفَعُهَا إِلَى مَنْ لاَ يَنْصِبُ.
 
 *He may then distribute the funds among those known for bearing no
 hostility (against the Ahl* *al-Bayt).*
@@ -789,11 +645,7 @@ others?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَا لِغَيْرِهِمْ إِلاَّ الْحَجَرُ.
-  </p>
-</blockquote>
+> مَا لِغَيْرِهِمْ إِلاَّ الْحَجَرُ.
 
 *The others’ share is nothing but stones!*[^23]
 
@@ -812,11 +664,7 @@ obligatory upon him to pay but came to know recently?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يُؤَدِّيهَا إِلَى أَهْلِهَا لِمَا مَضَى.
-  </p>
-</blockquote>
+> يُؤَدِّيهَا إِلَى أَهْلِهَا لِمَا مَضَى.
 
 *He must pay all the previous to worthy people.*
 
@@ -826,11 +674,7 @@ that he was wrong (about them being unworthy)?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ عَلَيْهِ أَنْ يُؤَدِّيَهَا مَرَّةً أُخْرَى.
-  </p>
-</blockquote>
+> لَيْسَ عَلَيْهِ أَنْ يُؤَدِّيَهَا مَرَّةً أُخْرَى.
 
 *In this case, he is not liable to pay it once more.*[^24]
 
@@ -907,13 +751,9 @@ reported by Shaykh al-Kulayni, in *al-Kafi*, and Shaykh al-Tusi, in
 *Tahdhib al-Ahkam* and *al-Istibsar*, Imam al-Sadiq (‘a) said the
 following about the *zakat* tax:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَخَذُوا مِنْكُمْ، بَنُو أُمَيَّةَ، فَاحْتَسِبُوا بِهَا وَلاَ
-تُعْطُوهُمْ شَيْئاً مَا إسْتَطَعْتُمْ، فَإِنَّ الْمَالَ لاَ يَبْقَى
-عَلَى هَذَا أَنْ يُزَكِّيَهُ مَرَّتَيْنِ.
-  </p>
-</blockquote>
+> مَا أَخَذُوا مِنْكُمْ، بَنُو أُمَيَّةَ، فَاحْتَسِبُوا بِهَا وَلاَ
+> تُعْطُوهُمْ شَيْئاً مَا إسْتَطَعْتُمْ، فَإِنَّ الْمَالَ لاَ يَبْقَى
+> عَلَى هَذَا أَنْ يُزَكِّيَهُ مَرَّتَيْنِ.
 
 *As for anything that is taken from you (as zakat) by the ruling
 authorities of the Umayyads, you may account it as zakat. However, try
@@ -924,16 +764,12 @@ According another authentic report of Sulayman ibn Khalid that is also
 reported by Shaykh al-Kulayni, in *al-Kafi*, and Shaykh al-Tusi, in
 *Tahdhib al-Ahkam* and *al-Istibsar*, Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَصْحَابَ أَبِي أَتَوْهُ فَسَأَلُوهُ عَمَّا يَأْخُذُ
-السُّلْطَانُ، فَرَقَّ لَهُمْ، وَإِنَّهُ لَيَعْلَمُ أَنَّ الزَّكَاةَ
-لاَ تَحِلُّ إِلاَّ لأَِهْلِهَا، فَأَمَرَهُمْ أَنْ يَحْتَسِبُوا بِهِ،
-فَجَالَ فِكْرِي، وَاللهِ، لَهُمْ، فَقُلْتُ لَهُ: يَا أَبَه، إِنَّهُمْ
-إِنْ سَمِعُوا إِذاً لَمْ يُزَكِّ أَحَدٌ. فَقَالَ: يَا بُنَيَّ، حَقٌّ
-أَحَبَّ اللهُ أَنْ يُظْهِرَهُ.
-  </p>
-</blockquote>
+> إِنَّ أَصْحَابَ أَبِي أَتَوْهُ فَسَأَلُوهُ عَمَّا يَأْخُذُ
+> السُّلْطَانُ، فَرَقَّ لَهُمْ، وَإِنَّهُ لَيَعْلَمُ أَنَّ الزَّكَاةَ
+> لاَ تَحِلُّ إِلاَّ لأَِهْلِهَا، فَأَمَرَهُمْ أَنْ يَحْتَسِبُوا بِهِ،
+> فَجَالَ فِكْرِي، وَاللهِ، لَهُمْ، فَقُلْتُ لَهُ: يَا أَبَه، إِنَّهُمْ
+> إِنْ سَمِعُوا إِذاً لَمْ يُزَكِّ أَحَدٌ. فَقَالَ: يَا بُنَيَّ، حَقٌّ
+> أَحَبَّ اللهُ أَنْ يُظْهِرَهُ.
 
 *His companions came to my father and queried about the taxes that were
 being levied by the ruling authorities. My father sympathized with them
@@ -956,13 +792,9 @@ owned by the Imam of each age because they are *anfal* (windfalls),
 which have been specified in the following holy verse as being owned by
 Almighty Allah and the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ
-ۖ فَاتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا
-اللَّهَ وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ
+> ۖ فَاتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا
+> اللَّهَ وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ
 
 ***They ask you about windfalls (anfal). Say: Windfalls are for Allah
 and the Messenger. So be careful of (your duty to) Allah and set aright
@@ -976,15 +808,11 @@ of such properties (*anfal*), indicate this ownership. For instance, in
 an authentic narration that is reported by Shaykh al-Kulayni, in *Usul
 al-Kafi*, Hafs ibn al-Buhtari reports Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الأَنْفَالُ مَا لَمْ يُوجَفْ عَلَيْهِ بِخَيْلٍ وَلاَ رِكَابٍ، أَوْ
-قَوْمٌ صَالَحُوا، أَوْ قَوْمٌ أَعْطَوْا بِأَيْدِيهِمْ، وَكُلُّ أَرْضٍ
-خَرِبَةٍ وَبُطُونُ الأَوْدِيَةِ فَهُوَ لِرَسُولِ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، وَهُوَ لِلإِمَامِ مِنْ بَعْدِهِ يَضَعُهُ حَيْثُ
-يَشَاءُ.
-  </p>
-</blockquote>
+> الأَنْفَالُ مَا لَمْ يُوجَفْ عَلَيْهِ بِخَيْلٍ وَلاَ رِكَابٍ، أَوْ
+> قَوْمٌ صَالَحُوا، أَوْ قَوْمٌ أَعْطَوْا بِأَيْدِيهِمْ، وَكُلُّ أَرْضٍ
+> خَرِبَةٍ وَبُطُونُ الأَوْدِيَةِ فَهُوَ لِرَسُولِ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، وَهُوَ لِلإِمَامِ مِنْ بَعْدِهِ يَضَعُهُ حَيْثُ
+> يَشَاءُ.
 
 *Windfalls (anfal properties) include estates towards which neither
 horse nor riding camel are pressed forward,*[^30] *estates that are
@@ -995,16 +823,12 @@ Imam, who has the right to use them as he determines.*[^31]
 In *Tahdhib al-Ahkam*, Shaykh al-Tusi has reported Muhammad ibn Muslim
 to have said that he heard Imam al-Baqir (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-الْفَيْءُ وَالأَنْفَالُ مَا كَانَ مِنْ أَرْضٍ لَمْ يَكُنْ فِيهَا
-هَرَاقَةُ الدِّمَاءِ، وَقَوْمٌ صُولِحُوا وَأَعْطَوْا بِأَيْدِيهِمْ،
-وَمَا كَانَ مِنْ أَرْضٍ خَرِبَةٍ أَوْ بُطُونِ أَوْدِيَةٍ فَهُوَ
-كُلُّهُ مِنَ الْفَيْءِ. فَهَذَا للهِ وَلِرَسُولِهِ، فَمَا كَانَ للهِ
-فَهُوَ لِرَسُولِهِ يَضَعُهُ حَيْثُ شَاءَ، وَهُوَ لِلإِمَامِ بَعْدَ
-الرَّسُولِ.
-  </p>
-</blockquote>
+> الْفَيْءُ وَالأَنْفَالُ مَا كَانَ مِنْ أَرْضٍ لَمْ يَكُنْ فِيهَا
+> هَرَاقَةُ الدِّمَاءِ، وَقَوْمٌ صُولِحُوا وَأَعْطَوْا بِأَيْدِيهِمْ،
+> وَمَا كَانَ مِنْ أَرْضٍ خَرِبَةٍ أَوْ بُطُونِ أَوْدِيَةٍ فَهُوَ
+> كُلُّهُ مِنَ الْفَيْءِ. فَهَذَا للهِ وَلِرَسُولِهِ، فَمَا كَانَ للهِ
+> فَهُوَ لِرَسُولِهِ يَضَعُهُ حَيْثُ شَاءَ، وَهُوَ لِلإِمَامِ بَعْدَ
+> الرَّسُولِ.
 
 *The fay’ and anfal are lands which have been seized without bloodshed,
 lands given as gifts due to a reconciliation contract with their owners,
@@ -1043,12 +867,8 @@ to develop these lands.
 In his book of *Tahdhib al-Ahkam*, Shaykh al-Tusi, through an authentic
 chain of authority, has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّمَا قَوْمٍ أَحْيَوْا شَيْئاً مِنَ الأَرْضِ أَوْ عَمَرُوهَا فَهُمْ
-أَحَقُّ بِهَا.
-  </p>
-</blockquote>
+> أَيُّمَا قَوْمٍ أَحْيَوْا شَيْئاً مِنَ الأَرْضِ أَوْ عَمَرُوهَا فَهُمْ
+> أَحَقُّ بِهَا.
 
 *Any people who cultivate or improve any area of land are the worthiest
 to own it.*[^33]
@@ -1058,11 +878,7 @@ According to another authentic tradition, Shaykh al-Kulayni, in
 have also reported Imam al-Baqir (‘a) and Imam al-Sadiq (‘a) as quoting
 the Holy Prophet (S) to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحْيَا أَرْضاً مَوَاتاً فَهِيَ لَهُ.
-  </p>
-</blockquote>
+> مَنْ أَحْيَا أَرْضاً مَوَاتاً فَهِيَ لَهُ.
 
 *Whoever cultivates a derelict land possesses it.*[^34]
 
@@ -1091,13 +907,9 @@ our wealth.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-أَوَمَا لَنَا مِنَ الأَرْضِ وَمَا أَخْرَجَ اللهُ مِنْهَا إِلاَّ
-الْخُمْسُ، يَا أَبَا سَيَّارٍ؟ إِنَّ الأَرْضَ كُلَّهَا لَنَا، فَمَا
-أَخْرَجَ اللهُ مِنْهَا مِنْ شَيْءٍ فَهُوَ لَنَا.
-  </p>
-</blockquote>
+> أَوَمَا لَنَا مِنَ الأَرْضِ وَمَا أَخْرَجَ اللهُ مِنْهَا إِلاَّ
+> الْخُمْسُ، يَا أَبَا سَيَّارٍ؟ إِنَّ الأَرْضَ كُلَّهَا لَنَا، فَمَا
+> أَخْرَجَ اللهُ مِنْهَا مِنْ شَيْءٍ فَهُوَ لَنَا.
 
 *Abu-Sayyar, is our share from our lands and their extracts only
 one-fifth? Verily, the entire land is ours and whatever thing that
@@ -1107,17 +919,13 @@ I said, “I have the entire amount with me and I offer it to you.”
 
 The Imam (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا سَيَّارٍ، قَدْ طَيَّبْنَاهُ لَكَ وَأَحْلَلْنَاكَ مِنْهُ،
-فَضُمَّ إِلَيْكَ مَالَكَ. وَكُلُّ مَا فِي أَيْدِي شِيعَتِنَا مِنَ
-الأَرْضِ فَهُمْ فِيهِ مُحَلَّلُونَ حَتَّى يَقُومَ قَائِمُنَا
-فَيَجْبِيهِمْ طَسْقَ مَا كَانَ فِي أَيْدِيهِمْ، وَيَتْرُكَ الأَرْضَ
-فِي أَيْدِينَا. وَأَمَّا مَا كَانَ فِي أَيْدِي غَيْرِهِمْ فَإِنَّ
-كَسْبَهُمْ مِنَ الأَرْضِ حَرَامٌ عَلَيْهِمْ حَتَّى يَقُومَ قَائِمُنَا،
-فَيَأْخُذَ الأَرْضَ مِنْ أَيْدِيهِمْ وَيُخْرِجَهُمْ صَغَرَةً.
-  </p>
-</blockquote>
+> يَا أَبَا سَيَّارٍ، قَدْ طَيَّبْنَاهُ لَكَ وَأَحْلَلْنَاكَ مِنْهُ،
+> فَضُمَّ إِلَيْكَ مَالَكَ. وَكُلُّ مَا فِي أَيْدِي شِيعَتِنَا مِنَ
+> الأَرْضِ فَهُمْ فِيهِ مُحَلَّلُونَ حَتَّى يَقُومَ قَائِمُنَا
+> فَيَجْبِيهِمْ طَسْقَ مَا كَانَ فِي أَيْدِيهِمْ، وَيَتْرُكَ الأَرْضَ
+> فِي أَيْدِينَا. وَأَمَّا مَا كَانَ فِي أَيْدِي غَيْرِهِمْ فَإِنَّ
+> كَسْبَهُمْ مِنَ الأَرْضِ حَرَامٌ عَلَيْهِمْ حَتَّى يَقُومَ قَائِمُنَا،
+> فَيَأْخُذَ الأَرْضَ مِنْ أَيْدِيهِمْ وَيُخْرِجَهُمْ صَغَرَةً.
 
 *Abu-Sayyar, I now declare our property as valid and legitimate for you.
 You can now add it* *to your money. Everything from the lands that is
@@ -1159,12 +967,8 @@ In *Tahdhib al-Ahkam*, Shaykh al-Tusi, through an authentic chain of
 authority, has reported that Muhammad al-Halabi asked Imam al-Sadiq (‘a)
 about the ruling on the lands of Iraq. The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ لِجَمِيعِ الْمُسْلِمِينَ؛ لِمَنْ هُوَ الْيَوْمَ وَمَنْ يَدْخُلُ
-فِي الإِسْلاَمِ بَعْدَ الْيَوْمِ وَلِمَنْ لَمْ يُخْلَقْ بَعْدُ.
-  </p>
-</blockquote>
+> هُوَ لِجَمِيعِ الْمُسْلِمِينَ؛ لِمَنْ هُوَ الْيَوْمَ وَمَنْ يَدْخُلُ
+> فِي الإِسْلاَمِ بَعْدَ الْيَوْمِ وَلِمَنْ لَمْ يُخْلَقْ بَعْدُ.
 
 *They are for all Muslims, including those who will convert to Islam in
 the future and Muslims who have not been born yet.*
@@ -1174,13 +978,9 @@ non-Arab chiefs of peasants?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَصْلُحُ إِلاَّ أَنْ يَشْتَرِيَ مِنْهُمْ عَلَى أَنْ يُصَيِّرَهَا
-لِلْمُسْلِمِينَ، فَإِنْ شَاءَ وَلِيُّ الأَمْرِ أَنْ يَأْخُذَهَا
-أَخَذَهَا.
-  </p>
-</blockquote>
+> لاَ يَصْلُحُ إِلاَّ أَنْ يَشْتَرِيَ مِنْهُمْ عَلَى أَنْ يُصَيِّرَهَا
+> لِلْمُسْلِمِينَ، فَإِنْ شَاءَ وَلِيُّ الأَمْرِ أَنْ يَأْخُذَهَا
+> أَخَذَهَا.
 
 *It is illegal for anyone to do so unless those who purchase such lands
 dedicate them to all Muslims commonly. Then, the legal (religious)
@@ -1191,12 +991,8 @@ give in compensation?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَرُدُّ إِلَيْهِ رَأْسَ مَالِهِ، وَلَهُ مَا أَكَلَ مِنْ غِلَّتِهَا
-بِمَا عَمِلَ.
-  </p>
-</blockquote>
+> يَرُدُّ إِلَيْهِ رَأْسَ مَالِهِ، وَلَهُ مَا أَكَلَ مِنْ غِلَّتِهَا
+> بِمَا عَمِلَ.
 
 *He (i.e. the legal authority) may give the purchaser back his capital
 and allow him (a share) in the yields that he produces in return for his
@@ -1266,14 +1062,10 @@ the people.
 
 Husham ibn Salim has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ يَتْبَعُ الرَّجُلَ بَعْدَ مَوْتِهِ مِنَ الأَجْرِ إِلاَّ ثَلاثُ
-خِصَالٍ: صَدَقَةٌ أَجْرَاهَا فِي حَيَاتِهِ فَهِيَ تَجْرِي بَعْدَ
-مَوْتِهِ، وَسُنَّةُ هُدىً سَنَّهَا فَهِيَ يُعْمَلُ بِهَا بَعْدَ
-مَوْتِهِ، أَوْ وَلَدٌ صَالِحٌ يَدْعُو لَهُ.
-  </p>
-</blockquote>
+> لَيْسَ يَتْبَعُ الرَّجُلَ بَعْدَ مَوْتِهِ مِنَ الأَجْرِ إِلاَّ ثَلاثُ
+> خِصَالٍ: صَدَقَةٌ أَجْرَاهَا فِي حَيَاتِهِ فَهِيَ تَجْرِي بَعْدَ
+> مَوْتِهِ، وَسُنَّةُ هُدىً سَنَّهَا فَهِيَ يُعْمَلُ بِهَا بَعْدَ
+> مَوْتِهِ، أَوْ وَلَدٌ صَالِحٌ يَدْعُو لَهُ.
 
 *Only three things reward man after his death: (1) a recurrent
 charitable deed that he established in his lifetime; thus, it continues
@@ -1286,16 +1078,12 @@ Mu’awiyah ibn ‘Ammar has reported that he asked Imam al-Sadiq (‘a),
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-(مَا يَلْحَقُ الرَّجُلَ بَعْدَ مَوْتِهِ) سُنَّةٌ يُعْمَلُ بِهَا بَعْدَ
-مَوْتِهِ، فَيَكُونُ لَهُ مِثْلَ أَجْرِ مَنْ عَمِلَ بِهَا مِنْ غَيْرِ
-أَنْ يَنْقُصَ مِنْ أُجُورِهِمْ شَيْءٌ، وَالصَّدَقَةُ الْجَارِيَةُ
-تَجْرِي مِنْ بَعْدِهِ، وَالْوَلَدُ الطَّيِّبُ يَدْعُو لِوَالِدَيْهِ
-بَعْدَ مَوْتِهِمَا، وَيَحِجُّ وَيَتَصَدَّقُ وَيَعْتِقُ عَنْهُمَا،
-وَيُصَلِّي وَيَصُومُ عَنْهُمَا.
-  </p>
-</blockquote>
+> (مَا يَلْحَقُ الرَّجُلَ بَعْدَ مَوْتِهِ) سُنَّةٌ يُعْمَلُ بِهَا بَعْدَ
+> مَوْتِهِ، فَيَكُونُ لَهُ مِثْلَ أَجْرِ مَنْ عَمِلَ بِهَا مِنْ غَيْرِ
+> أَنْ يَنْقُصَ مِنْ أُجُورِهِمْ شَيْءٌ، وَالصَّدَقَةُ الْجَارِيَةُ
+> تَجْرِي مِنْ بَعْدِهِ، وَالْوَلَدُ الطَّيِّبُ يَدْعُو لِوَالِدَيْهِ
+> بَعْدَ مَوْتِهِمَا، وَيَحِجُّ وَيَتَصَدَّقُ وَيَعْتِقُ عَنْهُمَا،
+> وَيُصَلِّي وَيَصُومُ عَنْهُمَا.
 
 *(Rewards of the following deeds are linked to a person after his
 death:) An observance that is continued after a man’s death for which
@@ -1323,16 +1111,12 @@ Abu’l-Husayn Muhammad ibn Ja’far al-Asadi, a document signed by Imam
 al-Mahdi (‘a) involving several paragraphs about *waqf*, the last of
 which was the following statement:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَا سَأَلْتَ عَنْهُ مِنْ أَمْرِ الرَّجُلِ الَّذِي يَجْعَلُ
-لِنَاحِيَتِنَا ضَيْعَةً وَيُسَلِّمُهَا مِنْ قَيِّمٍ يَقُومُ بِهَا
-وَيَعْمُرُهَا وَيُؤَدِّي مِنْ دَخْلِهَا وَخَرَاجِهَا وَمَؤُونَتِهَا،
-وَيَجْعَلُ مَا يَبْقَى مِنَ الدَّخْلِ لِنَاحِيَتِنَا، فَإِنَّ ذَلِكَ
-جَائِزٌ لِمَنْ جَعَلَهُ صَاحِبُ الضَّيْعَةِ قَيِّماً عَلَيْهَا.
-إِنَّمَا لاَ يَجُوزُ ذَلِكَ لِغَيْرِهِ.
-  </p>
-</blockquote>
+> وَأَمَّا مَا سَأَلْتَ عَنْهُ مِنْ أَمْرِ الرَّجُلِ الَّذِي يَجْعَلُ
+> لِنَاحِيَتِنَا ضَيْعَةً وَيُسَلِّمُهَا مِنْ قَيِّمٍ يَقُومُ بِهَا
+> وَيَعْمُرُهَا وَيُؤَدِّي مِنْ دَخْلِهَا وَخَرَاجِهَا وَمَؤُونَتِهَا،
+> وَيَجْعَلُ مَا يَبْقَى مِنَ الدَّخْلِ لِنَاحِيَتِنَا، فَإِنَّ ذَلِكَ
+> جَائِزٌ لِمَنْ جَعَلَهُ صَاحِبُ الضَّيْعَةِ قَيِّماً عَلَيْهَا.
+> إِنَّمَا لاَ يَجُوزُ ذَلِكَ لِغَيْرِهِ.
 
 *As for your question about the man who dedicates an orchard to us and
 appoints a custodian to manage and cultivate it, and pays religious dues
@@ -1517,5 +1301,4 @@ book.
 [^46]: - Shaykh al-Saduq, Ikmal al-Din, pp. 530-531, H. 49; Shaykh
 al-Tabrisi, al-Ihtijaj 2:298-300; al-Majlisi, Bihar al-Anwar 53:
 182-183, H. 11.
-
 

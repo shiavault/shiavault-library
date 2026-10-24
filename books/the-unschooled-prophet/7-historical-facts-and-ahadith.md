@@ -107,4 +107,3 @@ concerns the period before his prophethood.
 
 [^5]: Al-Sirah al-Halabiyyah, vol 3, p 24.
 
-

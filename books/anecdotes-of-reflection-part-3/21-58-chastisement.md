@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَذَابَ رَبِّکَ لَوَاقِعٌ
-  </p>
-</blockquote>
+> إِنَّ عَذَابَ رَبِّکَ لَوَاقِعٌ
 
 *“Most surely the punishment of your Lord will come to pass.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُعَذِّبُ اللهُ قَلباً وُعِيَ بِالْقُرآنِ.
-  </p>
-</blockquote>
+> لاَ يُعَذِّبُ اللهُ قَلباً وُعِيَ بِالْقُرآنِ.
 
 *“Allah shall not chastise the heart in which is contained the Noble
 Qur\`an.”*[^2]
@@ -197,11 +189,7 @@ Ash'ath Ibn Qais and Khalid Ibn Yazid Bajalli.'
 Then turning towards them, he first said to Anas Ibn Malik: “O' Anas! If
 you had heard the Noble Prophet (s.a.w) say about me:
 
-<blockquote dir="rtl">
-  <p>
-مَن کُنتُ مَولاَهُ فَهَذاَ عَلِيٌّ مَولاَهُ
-  </p>
-</blockquote>
+> مَن کُنتُ مَولاَهُ فَهَذاَ عَلِيٌّ مَولاَهُ
 
 “Of whomsoever I am the master, this ‘Ali is his master too” and refuse
 to testify to my leadership today, Allah shall afflict you with leprosy
@@ -265,5 +253,4 @@ of overshadowing gloom.’
 
 [^9]: Hikayat-ha-e-Shanidani, vol. 1, pg. 102; Minhaj al-Bara’h, vol.
 12, pg. 216
-
 

@@ -38,4 +38,3 @@ It was better that this instrument of death, destruction and devastation
 was not invented and manufactured at all so that mankind would be saved
 from the impending catastrophe.
 
-

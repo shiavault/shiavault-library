@@ -421,4 +421,3 @@ Hayya ala kharyi "l "amal (Hasten to the best of actions) two times
 Allahu Akbar (God is the greatest) two times La ilaha illa "llah (There
 is no god except Allah) two times
 
-

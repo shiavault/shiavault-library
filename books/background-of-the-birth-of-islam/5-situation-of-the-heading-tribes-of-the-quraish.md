@@ -213,7 +213,6 @@ This was the brief situation in Arabia concurrent with the rise of
 Islam with reference to its historical background which bears relation
 with our subsequent discussions.
 
-
 **Iran Before Islam**
 
 The starting point for our discussions has been chosen from an aspect
@@ -368,5 +367,4 @@ this question, since we do not believe that he know everything but
 rather that whatever he needed to know was provided to him through
 revelation. I really cannot imagine if the Prophet (a.s.) needed to know
 about all these places in those times.
-
 

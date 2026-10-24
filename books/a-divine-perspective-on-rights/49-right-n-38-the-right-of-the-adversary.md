@@ -4,26 +4,18 @@ Right n. 38: The Right of the Adversary
 The Right of the Adversary who has a claim against you
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-حق الخصم المدعي عليك
-  </p>
-</blockquote>
+> حق الخصم المدعي عليك
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الخَصْمِ المُدَّعِي عَلَيْكَ، فَإنْ كَانَ مَا يَدَّعِي
-عَلَيكَ حَقّاً لَمْ تنفَسِخ فِي حُجَّتِهِ وَلَمْ تَعمَلْ فِي إبطَالِ
-دَعْوَتِهِ وَكُنْتَ خَصْمَ نفْسِكَ لَهُ والحَاكِمَ عَلَيْهَا
-والشَّاهِدَ لَهُ بحَقِّهِ دُونَ شَهَادَةِ الشُّهُودِ، فَإنَّ ذلِكَ
-حَقُّ اللَّهِ عَلَيْكَ، وَإنْ كَانَ مَا يَدَّعِيهِ بَاطِلاً رَفَقْتَ
-بهِ وَرَوَّعْتَهُ وناشَدتهُ بدِينِه وَكَسَرْتَ حِدَّتهُ عَنكَ بذِكْرِ
-اللهِ وَأَلْقَيْتَ حَشْوَ الْكَلامِ وَلَغَطَهُ الَّذِي لا يَرُدُّ
-عَنْكَ عَاديَةَ عَدُوِّكَ بَلْ تبُوءُ بإثمِهِ وَبهِ يَشْحَذُ عَلَيْكَ
-سَيفَ عَدَاوَتِهِ لأَنَّ لَفْظَةَ السُّوءِ تَبعَثُ الشَّرَّ.
-وَالخَيْرُ مُقْمِعَةٌ لِلشَّرِّ. وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الخَصْمِ المُدَّعِي عَلَيْكَ، فَإنْ كَانَ مَا يَدَّعِي
+> عَلَيكَ حَقّاً لَمْ تنفَسِخ فِي حُجَّتِهِ وَلَمْ تَعمَلْ فِي إبطَالِ
+> دَعْوَتِهِ وَكُنْتَ خَصْمَ نفْسِكَ لَهُ والحَاكِمَ عَلَيْهَا
+> والشَّاهِدَ لَهُ بحَقِّهِ دُونَ شَهَادَةِ الشُّهُودِ، فَإنَّ ذلِكَ
+> حَقُّ اللَّهِ عَلَيْكَ، وَإنْ كَانَ مَا يَدَّعِيهِ بَاطِلاً رَفَقْتَ
+> بهِ وَرَوَّعْتَهُ وناشَدتهُ بدِينِه وَكَسَرْتَ حِدَّتهُ عَنكَ بذِكْرِ
+> اللهِ وَأَلْقَيْتَ حَشْوَ الْكَلامِ وَلَغَطَهُ الَّذِي لا يَرُدُّ
+> عَنْكَ عَاديَةَ عَدُوِّكَ بَلْ تبُوءُ بإثمِهِ وَبهِ يَشْحَذُ عَلَيْكَ
+> سَيفَ عَدَاوَتِهِ لأَنَّ لَفْظَةَ السُّوءِ تَبعَثُ الشَّرَّ.
+> وَالخَيْرُ مُقْمِعَةٌ لِلشَّرِّ. وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of the adversary who has a claim against you is that if
 his claim against you is true,**[^1] **you should not nullify his proof
@@ -45,23 +37,15 @@ no power but in God.**
 The Right of the Adversary against whom you have a claim
 --------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-حق الخصم المدعى عليه
-  </p>
-</blockquote>
+> حق الخصم المدعى عليه
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الخَصْمِ الْمُدَّعَى عَلَيهِ فَإنْ كَانَ مَا تدَّعِيهِ
-حَقًّا أَجْمَلْتَ فِي مُقَاوَلَتِهِ بمَخرَجِ الدَّعْوَى، فَإنّ
-لِلدَّعْوَى غِلْظَةً فِي سَمْعِ الْمُدَّعَى عَلَيهِ. وَقَصَدْتَ قَصْدَ
-حُجَّتِكَ بالرِّفْقِ وَأَمْهَلِ الْمُهْلَةِ وَأبْينِ الْبَيَانِ
-وَألطَفِ اللُّطْفِ ولَمْ تَتشَاغَلْ عَنْ حُجَّتِكَ بمُنازَعَتِهِ
-بالقِيلِ وَالقَالِ فَتَذهَبْ عَنْكَ حُجَّتُكَ ولا يَكُونَ لَكَ فِي
-ذَلِكَ دَرْكٌ. ولا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الخَصْمِ الْمُدَّعَى عَلَيهِ فَإنْ كَانَ مَا تدَّعِيهِ
+> حَقًّا أَجْمَلْتَ فِي مُقَاوَلَتِهِ بمَخرَجِ الدَّعْوَى، فَإنّ
+> لِلدَّعْوَى غِلْظَةً فِي سَمْعِ الْمُدَّعَى عَلَيهِ. وَقَصَدْتَ قَصْدَ
+> حُجَّتِكَ بالرِّفْقِ وَأَمْهَلِ الْمُهْلَةِ وَأبْينِ الْبَيَانِ
+> وَألطَفِ اللُّطْفِ ولَمْ تَتشَاغَلْ عَنْ حُجَّتِكَ بمُنازَعَتِهِ
+> بالقِيلِ وَالقَالِ فَتَذهَبْ عَنْكَ حُجَّتُكَ ولا يَكُونَ لَكَ فِي
+> ذَلِكَ دَرْكٌ. ولا قُوَّةَ إلا باللهِ.
 
 **And the right of the adversary against whom you have a claim is that
 if your claim against him is true,**[^2] **you should use pleasant words
@@ -101,14 +85,10 @@ followers of Islam after those who accepted Islam and migrated to
 Medina, and those who already lived in Medina and helped the Prophet and
 his followers:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاؤُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا
-وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي
-قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَؤُوفٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاؤُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا
+> وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي
+> قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَؤُوفٌ
+> رَّحِيمٌ
 
 ***“And those who came after them say: "Our Lord! Forgive us, and our
 brethren who came before us into the Faith, and leave not, in our
@@ -120,11 +100,7 @@ In this verse, we see the spirit of love in the Muslims that can
 eliminate quarrels. The same holds true for the life of the Hereafter.
 We read the following in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ
-  </p>
-</blockquote>
+> وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ
 
 ***“And We shall remove from their hearts any lurking sense of injury.”
 [The Holy Qur’an, al-A\`raaf 7:43]***
@@ -142,12 +118,8 @@ between the people. Muslims are invited to help resolve the differences
 between other Muslims. This is considered a form of worshipping. Habib
 al-Ahwal narrated that he heard Imam Sadiq had said:
 
-<blockquote dir="rtl">
-  <p>
-صَدَقَةٌ يحِبُّها اللهُ إصْلاحٌ بَينَ النّاسِ إذا تَفاسَدوا وَتَقارُبٌ
-بَينَهُم إذا تَباعَدوا.
-  </p>
-</blockquote>
+> صَدَقَةٌ يحِبُّها اللهُ إصْلاحٌ بَينَ النّاسِ إذا تَفاسَدوا وَتَقارُبٌ
+> بَينَهُم إذا تَباعَدوا.
 
 *“The charity God likes is resolving the differences between the people
 who have problems with each other; and helping them get closer to each
@@ -155,12 +127,8 @@ other when their discord has caused them to become separated.”*[^3]
 
 In another tradition, we read that Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-لأَنْ أُصْلِحَ بَينَ اثنَينِ أَحَبُّ إليَّ مِن أنْ أتصَدَّقَ
-بِدينارَيْنِ.
-  </p>
-</blockquote>
+> لأَنْ أُصْلِحَ بَينَ اثنَينِ أَحَبُّ إليَّ مِن أنْ أتصَدَّقَ
+> بِدينارَيْنِ.
 
 *“Helping resolve the differences between two people is more desirable
 to me than giving two Dinars in charity.”*[^4]
@@ -198,14 +166,10 @@ and his representative possess a higher degree of power. The Commander
 of the Faithful wrote the following in his letter to Malik al-Ashtar
 when he appointed him as his representative in Egypt:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ ﭐخْتَرْ لِلْحُكْمِ بَيْنَ النّاسِ أَفْضَلَ رَعِيَّتِكَ فِي
-نَفْسِكَ… وَأَعْطِهِ مِنَ الْمَنْزِلَةِ لَدَيْكَ ما لا يَطْمَعُ فِيهِ
-غَيْرُهُ مِنْ خاصَّتِكَ، لِيَأْمَنَ بِذٰلِكَ ﭐغْتِيالَ الرِّجالِ لَهُ
-عِنْدَكَ.
-  </p>
-</blockquote>
+> ثُمَّ ﭐخْتَرْ لِلْحُكْمِ بَيْنَ النّاسِ أَفْضَلَ رَعِيَّتِكَ فِي
+> نَفْسِكَ… وَأَعْطِهِ مِنَ الْمَنْزِلَةِ لَدَيْكَ ما لا يَطْمَعُ فِيهِ
+> غَيْرُهُ مِنْ خاصَّتِكَ، لِيَأْمَنَ بِذٰلِكَ ﭐغْتِيالَ الرِّجالِ لَهُ
+> عِنْدَكَ.
 
 *“Choose for the administration of justice among people one who is, in
 your view, the best of your subjects…. Grant him the rank near you to
@@ -261,13 +225,9 @@ he looks or points at them. He should also talk to each of them for
 about the same time. He should treat them both in the same way. Imam Ali
 said:
 
-<blockquote dir="rtl">
-  <p>
-فاخْفِضْ لهُم جَناحَكَ وَألِنْ لهُم جانِبَكَ وابْسُطْ لهُم وَجْهَكَ
-وآسِ بَينَهُم في اللَّحْظَةِ والنَّظْرَةِ حَتىّ لا يَطمَعَ العُظماءُ
-في حَيفِكَ لهُم وَلا يَيأَسَ الضُعَفاءُ مِن عَدلِكَ عَليهِمْ.
-  </p>
-</blockquote>
+> فاخْفِضْ لهُم جَناحَكَ وَألِنْ لهُم جانِبَكَ وابْسُطْ لهُم وَجْهَكَ
+> وآسِ بَينَهُم في اللَّحْظَةِ والنَّظْرَةِ حَتىّ لا يَطمَعَ العُظماءُ
+> في حَيفِكَ لهُم وَلا يَيأَسَ الضُعَفاءُ مِن عَدلِكَ عَليهِمْ.
 
 *“Humble yourself to them, be gentle with them and meet with them in a
 friendly, cheerful manner. Treat them equally in your regard and
@@ -311,15 +271,11 @@ the plaintiff, and oath is for the defendant.[^8] This has been quoted
 from Imam Sadiq on the authority of God’s Prophet . Abi Basir quoted on
 the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ حَكمَ في دِمائِكُم بِغَيرِ ما حَكَم في أمْوالِكُم؛ حَكَمَ
-في أمْوالِكُم أنَّ البَيِّنَةَ عَلى المُدَّعي وَاليَمينَ عَلى
-المُدَّعَى عَلَيهِ، وَحَكَمَ في دِمائِكُم أنَّ البَيِّنَةَ عَلى مَنِ
-أدُّعِيَ عَلَيهِ وَاليَمينَ عَلى مَن ادَّعَى لِئَلاّ يَبْطُلَ دَمُ
-امرِئٍ مُسْلِمٍ.
-  </p>
-</blockquote>
+> إنَّ اللهَ حَكمَ في دِمائِكُم بِغَيرِ ما حَكَم في أمْوالِكُم؛ حَكَمَ
+> في أمْوالِكُم أنَّ البَيِّنَةَ عَلى المُدَّعي وَاليَمينَ عَلى
+> المُدَّعَى عَلَيهِ، وَحَكَمَ في دِمائِكُم أنَّ البَيِّنَةَ عَلى مَنِ
+> أدُّعِيَ عَلَيهِ وَاليَمينَ عَلى مَن ادَّعَى لِئَلاّ يَبْطُلَ دَمُ
+> امرِئٍ مُسْلِمٍ.
 
 *“God’s ruling regarding your blood (that has been shed) is different
 from His ruling on your property. God has ruled that, regarding your
@@ -330,18 +286,14 @@ the blood of a Muslim may not be shed without compensation.”*[^9]
 
 Imam Ridha provided the following in response to a question asked:
 
-<blockquote dir="rtl">
-  <p>
-وَالعِلَّةُ في أنَّ البَيِّنَةَ في جمِيعِ الحُقوقِ على المُدَّعي
-وَاليَمِينَ عَلى المُدَّعَى عَليهِ ما خَلا الدَّمِ لأنَّ المُدَّعَى
-عَليهِ جاحِدٌ وَلا يمْكِنُهُ إقامَةُ البَيّنَةِ على الجُحودِ لأنَّهُ
-مجْهُولٌ وَصَارتِ البَيّنَةُ في الدَّمِ عَلى المُدَّعَى عَليهِ
-واليَمِينُ عَلى المُدَّعِي لأنَّهُ حَوطٌ يحْتاطُ بهِ المُسلِمونَ
-لِئَلاّ يبْطُلَ دَمُ امرِئٍ مُسْلمٍ ولِيَكونَ ذلِكَ زاجِراً وَناهِياً
-لِلقاتِلِ لِشِدَّةِ إقامَةِ البَيِّنَةِ عَلى الجُحودِ عَليهِ لأنَّ مَن
-يَشهَدُ على أنَّهُ لم يَفعَلْ قِليلٌ.
-  </p>
-</blockquote>
+> وَالعِلَّةُ في أنَّ البَيِّنَةَ في جمِيعِ الحُقوقِ على المُدَّعي
+> وَاليَمِينَ عَلى المُدَّعَى عَليهِ ما خَلا الدَّمِ لأنَّ المُدَّعَى
+> عَليهِ جاحِدٌ وَلا يمْكِنُهُ إقامَةُ البَيّنَةِ على الجُحودِ لأنَّهُ
+> مجْهُولٌ وَصَارتِ البَيّنَةُ في الدَّمِ عَلى المُدَّعَى عَليهِ
+> واليَمِينُ عَلى المُدَّعِي لأنَّهُ حَوطٌ يحْتاطُ بهِ المُسلِمونَ
+> لِئَلاّ يبْطُلَ دَمُ امرِئٍ مُسْلمٍ ولِيَكونَ ذلِكَ زاجِراً وَناهِياً
+> لِلقاتِلِ لِشِدَّةِ إقامَةِ البَيِّنَةِ عَلى الجُحودِ عَليهِ لأنَّ مَن
+> يَشهَدُ على أنَّهُ لم يَفعَلْ قِليلٌ.
 
 *“The reason why evidence, in all cases other than that of bloodshed, is
 incumbent on the plaintiff and the oath on the defendant is that the
@@ -389,5 +341,4 @@ claim is false, you fear god, repent to Him and abandon your claim.”
 [^9]: Ibid.
 
 [^10]: Wasa’il al-Shi’ah, v.18, pp.170-173.
-
 

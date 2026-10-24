@@ -75,4 +75,3 @@ Indeed, our Creator is He Who created the heavens, the earth, water, air
 and the stars. And He is All-Great and All-Powerful. It is He Who
 created and provided us with all these amenities of life.
 
-

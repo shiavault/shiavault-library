@@ -203,4 +203,3 @@ The Last and the First is for Him.”[^15]
 
 [^15]: Mafatih al-Jinan, 251
 
-

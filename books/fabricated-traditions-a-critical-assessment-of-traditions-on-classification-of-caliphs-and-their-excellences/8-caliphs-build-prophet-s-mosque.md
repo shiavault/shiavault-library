@@ -66,4 +66,3 @@ from Muhammad bin Fadl bin 'Atiyya and that is why scholars do not pay
 attention to it. Commenting on Hakim's word, Dahabi says that on his
 view Ibn 'Atiyya is a person who is rejected.[^46]
 
-

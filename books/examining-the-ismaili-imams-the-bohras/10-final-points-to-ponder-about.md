@@ -39,4 +39,3 @@ successors is found in any books. Why?
 (sawa) regarding 21 Imams (Bohra belief) or 49 Imams (Agha Khani
 belief).
 
-

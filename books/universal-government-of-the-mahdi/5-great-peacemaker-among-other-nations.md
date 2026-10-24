@@ -238,4 +238,3 @@ King David. (Quoted from Bible Dictionary)
 [^2]: In this section, the books “On Advent and Signs of Advent”,
 “Blossoms of Hope” and “A Preface to Leadership” have been used.
 
-

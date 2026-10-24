@@ -43,4 +43,3 @@ job as untouchable and did not have any contact with them. According to
 orthodox rules any one who does not belong to the four Varnas, meaning
 foreigners, are untouchables.
 
-

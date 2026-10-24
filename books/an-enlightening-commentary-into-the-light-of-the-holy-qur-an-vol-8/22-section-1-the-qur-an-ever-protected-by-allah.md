@@ -1,28 +1,16 @@
 Section 1: The Qur’an Ever Protected by Allah
 =============================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, The Merciful***
 
 Surah Al-Hijr – Verses 1-2
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الر تِلْكَ ءَايَاتُ الْكِتَابِ وَقُرْءَانٍ مُّبِينٍ
-  </p>
-</blockquote>
+> الر تِلْكَ ءَايَاتُ الْكِتَابِ وَقُرْءَانٍ مُّبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ
-  </p>
-</blockquote>
+> رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ
 
 ***1. “Alif ‘A’, Lam ‘L’, Ra ‘R’. These are the verses of the Book and
 (of) a clear Qur’an (that makes things manifest).”***  
@@ -84,12 +72,8 @@ but he said:
 Surah Al-Hijr – Verse 3
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الاَمَلُ فَسَوْفَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الاَمَلُ فَسَوْفَ
+> يَعْلَمُونَ
 
 ***3. “Leave them (alone) so that they may eat and enjoy themselves, and
 that they may be bemused by hope for they will soon know.”***
@@ -128,11 +112,7 @@ resurrection plain.
 Surah Al-Hijr – Verse 4
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ وَلَهَا كِتَابٌ مَّعْلُومٌ
-  </p>
-</blockquote>
+> وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ وَلَهَا كِتَابٌ مَّعْلُومٌ
 
 ***4. “And never did We destroy a township, but it had a known
 decree.”***
@@ -150,11 +130,7 @@ must not feel rest assured of the Divine respites thus provided for us.
 Surah Al-Hijr – Verse 5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا تَسْبِقُ مِنْ اُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ
-  </p>
-</blockquote>
+> مَا تَسْبِقُ مِنْ اُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ
 
 ***5. “No nation outstrips its term, nor can they postpone (it).***
 
@@ -188,18 +164,10 @@ certain to occur are unchangeable.
 Surah Al-Hijr – Verses 6 - 7
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا يَآ أَيُّهَا الَّذِي نُزّ‌ِلَ عَلَيْهِ الذّ‌ِكْرُ إِنَّكَ
-لَمَـجْنُونٌ
-  </p>
-</blockquote>
+> وَقَالُوا يَآ أَيُّهَا الَّذِي نُزّ‌ِلَ عَلَيْهِ الذّ‌ِكْرُ إِنَّكَ
+> لَمَـجْنُونٌ
 
-<blockquote dir="rtl">
-  <p>
-لَوْ مَا تَأْتِينَا بِالْمَلآئِكَةِ إِن كُنتَ مِنَ الصَّادِقِينَ
-  </p>
-</blockquote>
+> لَوْ مَا تَأْتِينَا بِالْمَلآئِكَةِ إِن كُنتَ مِنَ الصَّادِقِينَ
 
 ***6. “And they (unbelievers) said: ‘O’ you to whom the (Divine)
 Reminder has been sent down, you are surely insane;”***  
@@ -259,12 +227,8 @@ believe…”***[^1]
 Surah Al-Hijr – Verse 8
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا نُنَزّ‌ِلُ الْملآَئِكَةَ إِلاَّ بِالْحَقّ‌ِ وَمَا كَانُوا إِذاً
-مُّنظَرِينَ
-  </p>
-</blockquote>
+> مَا نُنَزّ‌ِلُ الْملآَئِكَةَ إِلاَّ بِالْحَقّ‌ِ وَمَا كَانُوا إِذاً
+> مُّنظَرِينَ
 
 ***8. “We do not send angels but with the Truth, and then they would not
 be respited.”***
@@ -303,11 +267,7 @@ Qur’an and other miracles.
 Surah Al-Hijr – Verse 9
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذّ‌ِكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذّ‌ِكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ***9. “Verily, We Ourself have sent down the Reminder (the Qur’an) and
 verily We, (Ourself) will be its Guardian”.***
@@ -359,17 +319,9 @@ is constant but his Book is alterable?
 Surah Al-Hijr – Verses 10 - 11
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَد أَرْسَلْنَا مِن قَبْلِكَ فِي شِيَعِ الاَوَّلِينَ
-  </p>
-</blockquote>
+> وَلَقَد أَرْسَلْنَا مِن قَبْلِكَ فِي شِيَعِ الاَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَأْتِيهِم مّـِن رَّسُولٍ إِلاَّ كَانُوا بِهِ يَسْتَهْزِءُونَ
-  </p>
-</blockquote>
+> وَمَا يَأْتِيهِم مّـِن رَّسُولٍ إِلاَّ كَانُوا بِهِ يَسْتَهْزِءُونَ
 
 ***10. “And indeed, We sent (messengers) before you among the nations of
 the ancients.”***  
@@ -416,31 +368,15 @@ ridicules of some people.
 Surah Al-Hijr – Verses 12 - 15
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْـمُجْرِمِينَ
-  </p>
-</blockquote>
+> كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْـمُجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُؤْمِنُونَ بِهِ وَقَدْ خَلَتْ سُنَّةُ الاَوَّلِينَ
-  </p>
-</blockquote>
+> لاَ يُؤْمِنُونَ بِهِ وَقَدْ خَلَتْ سُنَّةُ الاَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ فَتَحْنا عَلَيْهِم بَاباً مّـِنَ السَّمآءِ فَظَلُّوا فِيهِ
-يَعْرُجُونَ
-  </p>
-</blockquote>
+> وَلَوْ فَتَحْنا عَلَيْهِم بَاباً مّـِنَ السَّمآءِ فَظَلُّوا فِيهِ
+> يَعْرُجُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَقَالُوا إِنَّمَا سُكّـِرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ
-مَّسْحُورُونَ
-  </p>
-</blockquote>
+> لَقَالُوا إِنَّمَا سُكّـِرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ
+> مَّسْحُورُونَ
 
 ***12. “Thus do We make it to enter into the hearts of the guilty.”***  
 ***13. “(But) they do not believe in it and such has been the way of the
@@ -532,5 +468,4 @@ Allah’s remembrance (only) the hearts are set at rest.” (Surah Ar-Ra‘d,
 No. 13, verse 28)
 
 [^3]: Surah Al-’An‘am, No. 6, verse 7
-
 

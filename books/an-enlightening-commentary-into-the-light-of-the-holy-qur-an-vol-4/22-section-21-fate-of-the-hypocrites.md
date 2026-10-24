@@ -7,13 +7,9 @@ Surah An-Nisa', Verse 142
 Deceitfulness of the hypocrites -Friendship with the enemies - Fate of
 the hypocrites
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللّهَ وَهُوَ خَادِعُهُمْ وَإِذَا
-قَامُواْ إِلَى الصَّلاَةِ قَامُواْ كُسَالَى يُرَآؤُونَ النَّاسَ وَلاَ
-يَذْكُرُونَ اللّهَ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللّهَ وَهُوَ خَادِعُهُمْ وَإِذَا
+> قَامُواْ إِلَى الصَّلاَةِ قَامُواْ كُسَالَى يُرَآؤُونَ النَّاسَ وَلاَ
+> يَذْكُرُونَ اللّهَ إِلاَّ قَلِيلاً
 
 **142.** ***"Verily the hypocrites seek to trick Allah, but He is
 tricking them. And, when they stand up for prayer they stand up lazily;
@@ -50,12 +46,8 @@ very little. It says:
 Surah An-Nisa', Verse 143
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مُّذَبْذَبِينَ بَيْنَ ذَلِكَ لاَ إِلَى هَـؤُلاء وَلاَ إِلَى هَـؤُلاء
-وَمَن يُضْلِلِ اللّهُ فَلَن تَجِدَ لَهُ سَبِيلاً
-  </p>
-</blockquote>
+> مُّذَبْذَبِينَ بَيْنَ ذَلِكَ لاَ إِلَى هَـؤُلاء وَلاَ إِلَى هَـؤُلاء
+> وَمَن يُضْلِلِ اللّهُ فَلَن تَجِدَ لَهُ سَبِيلاً
 
 **143.** ***"(The hypocrites are) swaying between this (infidelity and
 Faith) neither towards these (believers) nor towards those (infidels);
@@ -86,13 +78,9 @@ for him a way."***
 Surah An-Nisa', Verse 144
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ الْكَافِرِينَ
-أَوْلِيَاء مِن دُونِ الْمُؤْمِنِينَ أَتُرِيدُونَ أَن تَجْعَلُواْ
-لِلّهِ عَلَيْكُمْ سُلْطَانًا مُّبِينًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ الْكَافِرِينَ
+> أَوْلِيَاء مِن دُونِ الْمُؤْمِنِينَ أَتُرِيدُونَ أَن تَجْعَلُواْ
+> لِلّهِ عَلَيْكُمْ سُلْطَانًا مُّبِينًا
 
 **144.** ***" O' you who have faith! Do not take the disbelievers for
 friends instead of the believers. Do you desire that you should give
@@ -141,12 +129,8 @@ There is no room in a heart for two opposite affections
 Surah An-Nisa', Verse 145
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الأَسْفَلِ مِنَ النَّارِ وَلَن
-تَجِدَ لَهُمْ نَصِيرًا
-  </p>
-</blockquote>
+> إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الأَسْفَلِ مِنَ النَّارِ وَلَن
+> تَجِدَ لَهُمْ نَصِيرًا
 
 **145.** ***"Verily the hypocrites are in the lowest stage of the Fire,
 and never you shall find a helper for them."***
@@ -166,13 +150,9 @@ their abode is in the worst place and the lowest stage of Hell.
 Surah An-Nisa', Verse 146
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ الَّذِينَ تَابُواْ وَأَصْلَحُواْ وَاعْتَصَمُواْ بِاللّهِ
-وَأَخْلَصُواْ دِينَهُمْ لِلّهِ فَأُوْلَـئِكَ مَعَ الْمُؤْمِنِينَ
-وَسَوْفَ يُؤْتِ اللّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِلاَّ الَّذِينَ تَابُواْ وَأَصْلَحُواْ وَاعْتَصَمُواْ بِاللّهِ
+> وَأَخْلَصُواْ دِينَهُمْ لِلّهِ فَأُوْلَـئِكَ مَعَ الْمُؤْمِنِينَ
+> وَسَوْفَ يُؤْتِ اللّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا
 
 **146.** ***"Except those who repent, and amend and hold fast to (the
 grace of) Allah and make their religion pure for Allah. These, then, are
@@ -214,12 +194,8 @@ believers a great reward."***
 Surah An-Nisa', Verse 147
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّا يَفْعَلُ اللّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ وَكَانَ
-اللّهُ شَاكِرًا عَلِيمًا
-  </p>
-</blockquote>
+> مَّا يَفْعَلُ اللّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ وَكَانَ
+> اللّهُ شَاكِرًا عَلِيمًا
 
 **147.** ***"What can Allah gain by your punishment, if you are grateful
 and you believe? And Allah is All-Thankful, All-Knowing."***
@@ -248,12 +224,8 @@ does not reach the position of gratitude, cannot know Him, Himself
 Surah An-Nisa', Verse 148
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يُحِبُّ اللّهُ الْجَهْرَ بِالسُّوَءِ مِنَ الْقَوْلِ إِلاَّ مَن
-ظُلِمَ وَكَانَ اللّهُ سَمِيعًا عَلِيمًا
-  </p>
-</blockquote>
+> لاَّ يُحِبُّ اللّهُ الْجَهْرَ بِالسُّوَءِ مِنَ الْقَوْلِ إِلاَّ مَن
+> ظُلِمَ وَكَانَ اللّهُ سَمِيعًا عَلِيمًا
 
 **148.** ***"Allah does not love open utterance of evil in speech except
 by one to whom injustice has been done, and Allah is All-Hearing,
@@ -291,12 +263,8 @@ it says:
 Surah An-Nisa', Verse 149
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن تُبْدُواْ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُواْ عَن سُوَءٍ فَإِنَّ
-اللّهَ كَانَ عَفُوًّا قَدِيرًا
-  </p>
-</blockquote>
+> إِن تُبْدُواْ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُواْ عَن سُوَءٍ فَإِنَّ
+> اللّهَ كَانَ عَفُوًّا قَدِيرًا
 
 **149.** ***"If you do good openly or conceal it or pardon (others)
 evil, then verily Allah is All-Pardoning, All-Powerful."***
@@ -319,21 +287,13 @@ being able to overpower him."* [^4]
 Verse 150 - 151
 ---------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن
-يُفَرِّقُواْ بَيْنَ اللّهِ وَرُسُلِهِ وَيقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيْنَ ذَلِكَ
-سَبِيلاً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن
+> يُفَرِّقُواْ بَيْنَ اللّهِ وَرُسُلِهِ وَيقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيْنَ ذَلِكَ
+> سَبِيلاً
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا وَأَعْتَدْنَا لِلْكَافِرِينَ
-عَذَابًا مُّهِينًا
-  </p>
-</blockquote>
+> أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا وَأَعْتَدْنَا لِلْكَافِرِينَ
+> عَذَابًا مُّهِينًا
 
 **150.** ***"Verily those who disbelieve in Allah and His Messengers,
 and desire to make division between Allah and His Messengers, and say:
@@ -372,13 +332,9 @@ a disgraceful chastisement."***
 Surah An-Nisa', Verse 152
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُواْ بِاللّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُواْ بَيْنَ
-أَحَدٍ مِّنْهُمْ أُوْلَـئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ وَكَانَ
-اللّهُ غَفُورًا رَّحِيمًا
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُواْ بِاللّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُواْ بَيْنَ
+> أَحَدٍ مِّنْهُمْ أُوْلَـئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ وَكَانَ
+> اللّهُ غَفُورًا رَّحِيمًا
 
 **152*****. "And those who believe in Allah and His Messengers and make
 no division between any of them, He will grant them their rewards, and
@@ -412,5 +368,4 @@ Faith and returned to *Allah,* He will forgive them.
 [^5]: Due to Imamate, it is necessary to believe in all Imams wholly.
 Believing in some of them and disbelieving in the rest, or having a
 pause, is as disbelief in all Imams.
-
 

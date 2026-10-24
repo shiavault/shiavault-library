@@ -67,4 +67,3 @@ verses. The grieved son rushed to throw himself upon the laid body,
 while the Qur’anic verses were loudly recited holding with them the pure
 spirit up toward the Malakut (Sovereign Power).
 
-

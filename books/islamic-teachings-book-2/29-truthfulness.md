@@ -20,4 +20,3 @@ If we always talk wisely and are truthful, Allah helps us in doing good
 and useful things, and in leading a prosperous life. We should always
 remember that truthfulness is the basis of one's dignity and honour.
 
-

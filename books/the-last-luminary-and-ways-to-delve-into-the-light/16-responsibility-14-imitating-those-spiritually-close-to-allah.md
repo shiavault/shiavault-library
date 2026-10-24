@@ -45,11 +45,7 @@ and purification of the soul.
 Through this, one will become a true manifestation of the collection of
 verses of the Qur\`an which start with:
 
-<blockquote dir="rtl">
-  <p>
- قَدْ أَفْلَحَ الْمُؤْمِنُونَ... 
-  </p>
-</blockquote>
+>  قَدْ أَفْلَحَ الْمُؤْمِنُونَ... 
 
 ***“Surely successful are the true believers...”***[^1]
 
@@ -57,11 +53,7 @@ In every era, there are certain individuals who make up the pure tree
 (Shajaratul Tayyibah) and for the one who is searching for the truth,
 finding such individuals is:
 
-<blockquote dir="rtl">
-  <p>
-أَيْسَرَ مِنْ كُلِّ يَسِيرٍ
-  </p>
-</blockquote>
+> أَيْسَرَ مِنْ كُلِّ يَسِيرٍ
 
 ***“Easier than all other easy tasks.”***
 
@@ -109,20 +101,16 @@ hell-fire.”[^3]
 
 In a tradition from Imam Ja’far b. Muhammad as-Sadiq (as) , we read:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ اللٌّهِ إِذَا أَضَاءَ عَلى سِرِّ عَبْدٍ أَخْلاَهُ عَنْ كُلِّ
-شَاغِلٍ وَكُلِّ ذِكْرٍ سِوَى اللٌّهِ عِنْدَ ظُلْمَةٍ وَالْمُحِبُّ
-أَخْلَصُ النَّاسِ سِرًّا لِلٌّهِ وَأَصْدَقُهُمْ قَوْلاً وَأَوْفَاهُمْ
-عَهْداً وَأَزْكَاهُمْ عَــمَلاً وَأَصْـفَاهُمْ ذِكْراً وَأَعْـبَدُهُمْ
-نَفْساً، تَتَبَاهَى الْمَلاَئِكَةُ عِنْدَ مُنَاجَاتِهِ وَتَفْتَخِرُ
-بِرُؤْيَتِهِ وَ بِهِ يَعْمُرُ اللٌّهُ تَعَالـى بِلاَدَهُ
-وَبِكَرَامَتِهِ يُكْرِمُ عِبَادَهُ يُعْطِيهِمْ إِذَا سَأَلُوا
-بِحَقِّهِ وَيَدْفَعُ عَنْهُمُ الْبَلاَيَا بِرَحْمَتِهِ فَلَوْ عَلِمَ
-الْخَلْقُ مَا مَحَلُّهُ عِنْدَ اللٌّهِ وَمَنْزِلَتُهُ لَدَيْهِ مَا
-تَقَرَّبُـوا إِلـى اللٌّهِ إلاَّ بِتُرَابِ قَدَمَيهِ
-  </p>
-</blockquote>
+> حُبُّ اللٌّهِ إِذَا أَضَاءَ عَلى سِرِّ عَبْدٍ أَخْلاَهُ عَنْ كُلِّ
+> شَاغِلٍ وَكُلِّ ذِكْرٍ سِوَى اللٌّهِ عِنْدَ ظُلْمَةٍ وَالْمُحِبُّ
+> أَخْلَصُ النَّاسِ سِرًّا لِلٌّهِ وَأَصْدَقُهُمْ قَوْلاً وَأَوْفَاهُمْ
+> عَهْداً وَأَزْكَاهُمْ عَــمَلاً وَأَصْـفَاهُمْ ذِكْراً وَأَعْـبَدُهُمْ
+> نَفْساً، تَتَبَاهَى الْمَلاَئِكَةُ عِنْدَ مُنَاجَاتِهِ وَتَفْتَخِرُ
+> بِرُؤْيَتِهِ وَ بِهِ يَعْمُرُ اللٌّهُ تَعَالـى بِلاَدَهُ
+> وَبِكَرَامَتِهِ يُكْرِمُ عِبَادَهُ يُعْطِيهِمْ إِذَا سَأَلُوا
+> بِحَقِّهِ وَيَدْفَعُ عَنْهُمُ الْبَلاَيَا بِرَحْمَتِهِ فَلَوْ عَلِمَ
+> الْخَلْقُ مَا مَحَلُّهُ عِنْدَ اللٌّهِ وَمَنْزِلَتُهُ لَدَيْهِ مَا
+> تَقَرَّبُـوا إِلـى اللٌّهِ إلاَّ بِتُرَابِ قَدَمَيهِ
 
 “When the love of Allah illuminates the inner self of a servant, it
 distracts him from all preoccupations and all thoughts other than Allah.
@@ -151,5 +139,4 @@ Suratul Shams (91), verse 9
 al-TahSin (Ibne Fahd al-Hilli), sec. 3, pg. 22
 
 [^4]: Biharul Anwar, vol. 70, sec. on the Love of Allah, pg. 23, no. 23
-
 

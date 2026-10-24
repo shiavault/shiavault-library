@@ -89,7 +89,6 @@ ask them: why they did not take the path of virtue. It says:
 
 "... Then, say: 'Will you not then keep from evil ?' "
 
-
 **Commentary : Verse 32**
 
 (32)فَذلِكُمُ اللَّهُ رَبُّكُمُ الْحَقُّ فَما ذا بَعْدَ الْحَقِّ إِلاَّ
@@ -126,7 +125,6 @@ truth by way of his own conscience and reasoning. After the cognition of
 the truth, one must abandon whatever is contrary to the truth or other
 than the truth, because they are those things that mislead.
 
-
 **Commentary : Verse 33**
 
 (33) كَذلِكَ حَقَّتْ كَلِمَةُ رَبِّكَ عَلَى الَّذينَ فَسَقُوا أَنَّهُمْ
@@ -151,7 +149,6 @@ The verse continues saying:
 
 "... that they will not believe. "
 
-
 **Commentary : Verse 34**
 
 (34) قُلْ هَلْ مِنْ شُرَكائِكُمْ مَنْ يَبْدَؤُا الْخَلْقَ ثُمَّ
@@ -175,7 +172,6 @@ weave false stories and lie The verse declares:
 Allah)one(that)can originate creation, then bring it back again ' Say:
 '(Only)Allah originates creation, then brings it back again; then how
 are you turned away(from the Truth)?"
-
 
 **Commentary : Verse 35**
 
@@ -213,7 +209,6 @@ the Truth more worthy to be followed, or he who does not go
 aright(himself)unless he is guided What then is the matter with you How
 do you judge ?"
 
-
 **Commentary : Verse 36**
 
 (36) وَ ما يَتَّبِعُ أَكْثَرُهُمْ إِلاَّ ظَنًّا إِنَّ الظَّنَّ لا
@@ -249,7 +244,6 @@ However, conjectures in the realm of ideas, if they are rooted in
 pursuing the vain way of one's ancestors or fanaticism based on
 ignorance are groundless, and hence, are of no avail. \* \* \* \*
 
-
 **Commentary : Verse 37**
 
 (37) وَ ما كانَ هذَا الْقُرْآنُ أَنْ يُفْتَرى‏ مِنْ دُونِ اللَّهِ وَ
@@ -276,7 +270,6 @@ saying:
 
 "... and a(clear)explanation of the Book, wherein there is no doubt,
 from the Lord of the Worlds. "
-
 
 **Commentary : Verse 38**
 
@@ -375,7 +368,6 @@ of letters, and geniuses. It continues saying:
 "... and call(to your aid)anyone you can, besides Allah, if you are
 truthful! '"
 
-
 **Commentary : Verse 39**
 
 (39) بَلْ كَذَّبُوا بِما لَمْ يُحيطُوا بِعِلْمِهِ وَ لَمَّا يَأْتِهِمْ
@@ -405,7 +397,6 @@ eventual fate of the oppressors, the verse continues saying:
 
 "... see then what was the end of the unjust ones. "
 
-
 **Commentary : Verse 40**
 
 (40) وَ مِنْهُمْ مَنْ يُؤْمِنُ بِهِ وَ مِنْهُمْ مَنْ لا يُؤْمِنُ بِهِ
@@ -424,5 +415,4 @@ The verse says:
 
 " And some of them believe in it and some of them do not believe in it;
 and your Lord knows best the mischief makers. "
-
 

@@ -107,4 +107,3 @@ Sheikh at-Tusi’s al-Amali).
 
 [^5]: Quoted from al-Wafi; part 3 page 149 (as quoted from al- Kafi).
 
-

@@ -304,4 +304,3 @@ on the unceasing and limitless favor and grace of God.
 
 [^2]: Majma al-Bayan on Ahzab, 40.
 
-

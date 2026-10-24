@@ -302,4 +302,3 @@ identifying the enemies of Ummah is against the ummah's interest?
 Of course, it is debatable whether it was "essential" or not But none
 can say that it is "disallowed" in Hajj.
 
-

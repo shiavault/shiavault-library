@@ -70,4 +70,3 @@ will soon face severe trouble.
 that on the Day of Judgement oppressors will be in a worse position than
 those whom they oppressed in this world.
 
-

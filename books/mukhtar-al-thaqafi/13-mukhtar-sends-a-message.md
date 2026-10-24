@@ -13,4 +13,3 @@ Rufaah answered Mukhtar 's message. In it he said:
 
 Mukhtar ordered them not to do that.
 
-

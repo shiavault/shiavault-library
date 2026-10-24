@@ -324,4 +324,3 @@ foundation of environmental protection and preserving the natural
 system. Because the verse prohibits aggression on nature and life and
 also calls for a collective relationship toward good and reformation.
 
-

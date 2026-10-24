@@ -60,4 +60,3 @@ The reward of such believers will be paradise and happiness in the
 hereafter as well as benefits in the life of this world as long as
 Islamic laws and principles are applied to behaviour and manners.
 
-

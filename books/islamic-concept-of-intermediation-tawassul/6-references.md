@@ -72,4 +72,3 @@ words through ‘Ā’ishah in his Sunan (8:278); Ahmad bin Hambal in Musnad
 
 [31]. Qur’ān (Āl-i-‘Imrān) 3:194.
 
-

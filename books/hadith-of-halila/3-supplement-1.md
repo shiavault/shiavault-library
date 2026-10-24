@@ -259,4 +259,3 @@ and all things pertaining to them. The mind guessed for certain that it
 was quite impossible for the Earth to quake by itself. Because being
 naturally firm it should never have shaken at all.
 
-

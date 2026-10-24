@@ -217,4 +217,3 @@ introducing the papers by Reck and Linsky, in particular. Husserl’s
 conception, though related, is rooted in his appeal to ‘intuition’,
 which anticipates issues discussed in the papers in Part Three.
 
-

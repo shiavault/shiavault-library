@@ -93,4 +93,3 @@ work to be only in pure devotion to Him, and that He may cause us to
 succeed in the best thing in which He causes His virtuous slaves to
 succeed. For He is the best Guide and the best Artisan.
 
-

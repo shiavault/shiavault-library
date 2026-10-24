@@ -11,4 +11,3 @@ Habib answered:
 
 *I'm happy because I'll be killed and enter the Paradise!*
 
-

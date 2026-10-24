@@ -36,7 +36,7 @@ Ahmad Sha-kir has termed the isna-d of this hadi-th as fair.
 
 **Notes:**
 
-[^28] Hamdi- ‘Abd al-Maji-d al-Salafi-, Murshid al-Muhta-r, vol. 1, p.
+[^28]: Hamdi- ‘Abd al-Maji-d al-Salafi-, Murshid al-Muhta-r, vol. 1, p.
 239, 2nd edition, Beirut, 1407/1987.
-[^29] Al-Musnad, hadith no. 1600 (Ahmad Sha-kir).
+[^29]: Al-Musnad, hadith no. 1600 (Ahmad Sha-kir).
 

@@ -45,9 +45,7 @@ the Asmā’ Khamsah[^30]
 
 the Af‘āl Khamsah[^31] , and they are:
 
-<p dir="rtl">
 يفعلان، تفعلان، يفعلون، تفعلون، تفعلين
-</p>
 
 As for the Tathniyah it is Marfū‘ with the Alif, Manṣūb and Makhfūḍ with
 the Yā’[^32] .
@@ -60,5 +58,4 @@ and Makhfūḍ with the Yā’.
 
 As for the Af‘āl Khamsah it is Marfū‘ with the Nūn, Manṣūb and Majzūm
 with the Ḥađf thereof.
-
 

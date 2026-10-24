@@ -33,31 +33,19 @@ traits of the righteous.
 this is better for you than the lying from which benefit is expected.
 
 > 7ـ اِلْزَمِ الصِّدْقَ وإنْ خِفْتَ ضُرَّهُ فَإنَّهُ خَيْرٌ لَكَ مِنَ
-<blockquote dir="rtl">
-  <p>
-الكِذْبِ المَرْجُوِّ نَفْعُهُ.
-  </p>
-</blockquote>
+> الكِذْبِ المَرْجُوِّ نَفْعُهُ.
 
 8. Seek benefit from truthfulness in every situation and you will gain;
 keep away from evil and dishonesty, and you will remain safe.
 
 > 8ـ اِغْتَنِمِ الصِّدْقَ في كُلِّ مَوْطِن تَغْنَمْ،وَ اجْتَنِبِ
-<blockquote dir="rtl">
-  <p>
-الشَّـرَّ والكِذْبَ تَسْلَمْ.
-  </p>
-</blockquote>
+> الشَّـرَّ والكِذْبَ تَسْلَمْ.
 
 9. Be truthful in your words, be sincere in your actions and purify
 yourselves with piety.
 
 > 9ـ أُصْدُقُوا في أقْوالِكُمْ، وأخْلِصُوا في أعْمالِكُمْ، وتَزَكُّوا
-<blockquote dir="rtl">
-  <p>
-بِالوَرَعِ.
-  </p>
-</blockquote>
+> بِالوَرَعِ.
 
 10. The most sublime thing is truthfulness.
 
@@ -71,11 +59,7 @@ yourselves with piety.
 is exerting yourself [in helping others].
 
 > 12ـ أحْسَنُ الصِّدْقِ اَلوَفاءُ بِالعَهْدِ، وأفْضَلُ الجُودِ بَذْلُ
-<blockquote dir="rtl">
-  <p>
-الجَهْدِ.
-  </p>
-</blockquote>
+> الجَهْدِ.
 
 13. Truthfulness is a means [of attaining success].
 
@@ -238,21 +222,13 @@ become abundant; love is been expressed by [people with their] tongue
 while they hate each other with their hearts.
 
 > 51ـ غاضَ الصِّدْقُ فِي النّاسِ، وفاضَ الكِذْبُ وَاسْتُعْمِلَتِ
-<blockquote dir="rtl">
-  <p>
-المَوَدَّةُ بِاللِّسانِ، وتَشاحَنُوا بِالقُلُوبِ.
-  </p>
-</blockquote>
+> المَوَدَّةُ بِاللِّسانِ، وتَشاحَنُوا بِالقُلُوبِ.
 
 52. For everything there is an adornment and the adornment of speech is
 truthfulness.
 
 > 52ـ لِكُلِّ شَيْء حيلَةٌ (حِلْيَةٌ وحِلْيَةُ)، وحِيلَةُ المَنْطِقِ
-<blockquote dir="rtl">
-  <p>
-الصِّدْقُ.
-  </p>
-</blockquote>
+> الصِّدْقُ.
 
 53. For [the speaker of] truth there is benefit.
 
@@ -272,21 +248,13 @@ companion.
 be with courage and cowardice would be with dishonesty.
 
 > 56ـ لَوْ تَمَيَّزَتِ الأشْياءُ لَكانَ الصِّدْقُ مَعَ الشَّجاعَةِ
-<blockquote dir="rtl">
-  <p>
-وَكانَ الجُبْنُ مَعَ الكِذْبُ.
-  </p>
-</blockquote>
+> وَكانَ الجُبْنُ مَعَ الكِذْبُ.
 
 57. A goodly mention is better for a person than the wealth that he
 bequeaths to the one who does not praise him.
 
 > 57ـ لِسانُ الصِّدْقِ خَيْرٌ لِلْمَرْءِ مِنَ المالِ يُوَرِّثُهُ مَنْ
-<blockquote dir="rtl">
-  <p>
-لايَحْمَدُهُ.
-  </p>
-</blockquote>
+> لايَحْمَدُهُ.
 
 58. One who speaks the truth becomes successful.
 
@@ -313,14 +281,10 @@ honourable one is distinguished by his morals and the vile one is
 disgraced by his wickedness.
 
 > 62ـ ما أصْدَقَ المَرْءَ عَلى نَفْسِهِ، وأيُّ شاهِد عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-كَفِعْلِهِ، ولايُعْرَفُ الرَّجُلُ إلاّ بِعِلْمِهِ، كَما لا يُعْرَفُ
-الغَريبُ مِنَ الشَّجَرِ إلاّ عِنْدَ حُضُورِ الثَّمَرِ، فَتَدُلُّ
-الأثْمارُ عَلى أُصُولِها، ويُعْرَفُ لِكُلِّ ذي فَضْل فَضْلُهُ كَذلِكَ
-يَشْرُفُ الكَريمُ بِ آدابِهِ، ويَفْتَضِحُ اللَّئيمُ بِرَذائِلِهِ.
-  </p>
-</blockquote>
+> كَفِعْلِهِ، ولايُعْرَفُ الرَّجُلُ إلاّ بِعِلْمِهِ، كَما لا يُعْرَفُ
+> الغَريبُ مِنَ الشَّجَرِ إلاّ عِنْدَ حُضُورِ الثَّمَرِ، فَتَدُلُّ
+> الأثْمارُ عَلى أُصُولِها، ويُعْرَفُ لِكُلِّ ذي فَضْل فَضْلُهُ كَذلِكَ
+> يَشْرُفُ الكَريمُ بِ آدابِهِ، ويَفْتَضِحُ اللَّئيمُ بِرَذائِلِهِ.
 
 63. Do not tell the truth to one who responds to your truth by denying
 [and belying] it.[^1]
@@ -358,5 +322,4 @@ trustworthiness.
 
 [^1]: Or in another reading: Do not believe the one who responds to your
 truth by his denial.
-
 

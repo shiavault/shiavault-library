@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَقُل لَهُما اُفٍّ وَ لاَ تَنْهَرهُما
-  </p>
-</blockquote>
+> فَلاَ تَقُل لَهُما اُفٍّ وَ لاَ تَنْهَرهُما
 
 *(Say not to them a word of contempt, nor repel them)*[^1]
 
 The Holy Prophet (s.a.w.) said:
 
-<blockquote dir="rtl">
-  <p>
-بِرُّ الْواَلِدَينِ اَفضَلُ مِنَ الصَّلاةِ وَ الصَّومِ وَ الْحَجِّ وَ
-الْعُمْرَةِ وَ الْجِهاَدِ فِی سَبِيلِ اللهِ
-  </p>
-</blockquote>
+> بِرُّ الْواَلِدَينِ اَفضَلُ مِنَ الصَّلاةِ وَ الصَّومِ وَ الْحَجِّ وَ
+> الْعُمْرَةِ وَ الْجِهاَدِ فِی سَبِيلِ اللهِ
 
 *(Kindness towards parents is better than prayers, fasts, Hajj, U’mrah
 and jihad in the path of Allah.)*[^2]
@@ -245,5 +237,4 @@ Kaashifi).
 
 [^8]: Daastaan-ha Wa Pand-ha, vol. 10, pg. 128; Wasaail al-Shia'h, vol.
 1, pg. 115 (Old Publication)
-
 

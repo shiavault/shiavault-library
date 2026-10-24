@@ -198,4 +198,3 @@ Hajj'.' "Very good. Do you like me to give you an advice?"
 "Be truthful and righteous. A truthful and righteous man is a partner
 in the wealth of others."
 
-

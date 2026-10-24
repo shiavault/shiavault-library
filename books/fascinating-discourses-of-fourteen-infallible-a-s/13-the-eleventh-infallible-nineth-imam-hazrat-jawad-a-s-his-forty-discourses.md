@@ -29,10 +29,8 @@ caliphs.
 
 His active Imamate Started at the age of seven &. he was martyred at 25.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام محمد التقی عليه السلام
 ----------------------------------------------
-</p>
 
 1- مَن وَثِقَ بِاللهِ أَراهُ السُّرُورَ، وَمَن تَوَّکَّل عَلَيهِ کَفاهُ
 الأُمُورَ، وَالثِّقَة بِاللهِ حِصنٌ لايَتَحَصَّنُ فيهِ إِلاَّ مُؤمِن
@@ -379,5 +377,4 @@ His wrath is upon the one who does not accept His pleasure. And verily
 the one who does not accept His grant is refused that. And the one who
 does not accept his guidance goes astray. (BIHAR UL ANWAR VOL 78, P
 .359)
-
 

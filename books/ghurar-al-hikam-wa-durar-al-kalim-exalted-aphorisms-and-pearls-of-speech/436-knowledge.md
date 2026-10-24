@@ -71,11 +71,7 @@ past.
 take the best from every [branch of] knowledge.
 
 > 16ـ اَلْعِلْمُ أكْثَرُ مِنْ أنْ يُحاطَ بِهِ، فَخُذُوا مِنْ كُلِّ عِلْم
-<blockquote dir="rtl">
-  <p>
-أحْسَنَهُ.
-  </p>
-</blockquote>
+> أحْسَنَهُ.
 
 17. Knowledge is a governor while wealth is governed.
 
@@ -86,21 +82,13 @@ do and renunciation of worldly pleasures makes the path to it easier for
 you.
 
 > 18ـ اَلْعِلْمُ يُرْشِدُكَ إلى ما أمَرَكَ اللّهُ بِهِ، والزُّهْدُ
-<blockquote dir="rtl">
-  <p>
-يُسَهِّلُ لَكَ الطَّريقَ إلَيْهِ.
-  </p>
-</blockquote>
+> يُسَهِّلُ لَكَ الطَّريقَ إلَيْهِ.
 
 19. Knowledge is better than wealth; knowledge guards you while you
 guard wealth.
 
 > 19ـ اَلْعِلْمُخَيْرٌ مِنَ المالِ، اَلْعِلْمُ يَحْرُسُكَ وأنْتَ
-<blockquote dir="rtl">
-  <p>
-تَحْرُسُ المالَ.
-  </p>
-</blockquote>
+> تَحْرُسُ المالَ.
 
 20. Knowledge is linked to action, so one who knows, acts.
 
@@ -124,20 +112,12 @@ intuitive knowledge is of no benefit if there is no learnt knowledge
 [accompanying it].
 
 > 24ـ اَلْعِلْمُ عِلْمانِ: مَطْبُوعٌ، ومَسْمُوعٌ، ولايَنْفَعُ
-<blockquote dir="rtl">
-  <p>
-المَطْبُوعُ، إذا لَمْ يَكُ مَسْمُوعٌ.
-  </p>
-</blockquote>
+> المَطْبُوعُ، إذا لَمْ يَكُ مَسْمُوعٌ.
 
 25. Know, then speak.
 
 > 25ـ اَلْعِلْمُ أكْثَرُ مِنْ أنْ يُحاطَ بِهِ، فَخُذُوا مِنْ كُلِّ عِلْم
-<blockquote dir="rtl">
-  <p>
-أحْسَنَهُ.
-  </p>
-</blockquote>
+> أحْسَنَهُ.
 
 26. Seek knowledge and you will increase in knowledge.
 
@@ -151,11 +131,7 @@ and if you are poor it will provide for you.
 28. Seek knowledge and you will be rightly guided.
 
 > 28ـ اِقْتَتِنِ العِلْمَ فَإنَّكَ إنْ كُنْتَ غَنيّاً زانَكَ، وإنْ
-<blockquote dir="rtl">
-  <p>
-كُنْتَ فَقِيراً مانَكَ.
-  </p>
-</blockquote>
+> كُنْتَ فَقِيراً مانَكَ.
 
 29. Acquire knowledge and it will earn you life.
 
@@ -170,40 +146,24 @@ impurity.[^1]
 will become from those who are worthy of [possessing] it.
 
 > 31ـ اِمْتاحُوا (اِمْتَحوا) مِنْ صَفْوِ عَين قَدْرُوِّقَتْ مِنَ
-<blockquote dir="rtl">
-  <p>
-الكَدَرِ.
-  </p>
-</blockquote>
+> الكَدَرِ.
 
 32. Indeed, the one who does not know should never be ashamed to learn,
 for the value of every person is [measured by] what he knows.
 
 > 32ـ أُطْلُبُوا العِلْمَ تُعْرَفُوا بهِِ، واعْمَلُوا بِهِ تَـكُونُوا
-<blockquote dir="rtl">
-  <p>
-مِنْ أهْلِهِ.
-  </p>
-</blockquote>
+> مِنْ أهْلِهِ.
 
 33. Indeed, the one who is asked about that which he does not know
 should never consider it demeaning to say “I don’t know”.
 
 > 33ـ ألا لايَسْتَحْيِيـَنَّ مَنْ لا يَعْلَمُ أنْ يَتَعَلَّمَ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-قيمَةَ كُلِّ امْرِء ما يَعْلَمُ.
-  </p>
-</blockquote>
+> قيمَةَ كُلِّ امْرِء ما يَعْلَمُ.
 
 34. The most useful knowledge is that which is acted upon.
 
 > 34ـ ألا لايَسْتَقْبِحَنَّ مَنْ سُئِلَ عَمّا لايَعْلَمُ أنْ يَقُولَ لا
-<blockquote dir="rtl">
-  <p>
-أعْلَمُ.
-  </p>
-</blockquote>
+> أعْلَمُ.
 
 35. The best knowledge is that which is accompanied by action.
 
@@ -244,21 +204,13 @@ your [good] actions in this world and draws you nearer [to the mercy of
 Allah] in the Hereafter.
 
 > 42ـ ألْزَمُ العِلْمِ بِكَ ما دَلَّكَ عَلى صَلاحِ دينِكَ، وأبانَ لَكَ
-<blockquote dir="rtl">
-  <p>
-عَنْ فَسادِهِ.
-  </p>
-</blockquote>
+> عَنْ فَسادِهِ.
 
 43. Verily the best of knowledge is [that which leads to] tranquillity
 and forbearance.
 
 > 43ـ أحْمَدُ العِلْمِ عاقِبَةً ما زادَ في عَمَلِكَ فِي العاجِلِ،
-<blockquote dir="rtl">
-  <p>
-وأزْلَفَكَ فِي الآجِلِ.
-  </p>
-</blockquote>
+> وأزْلَفَكَ فِي الآجِلِ.
 
 44. Indeed fire is not diminished by what is taken from it but is
 extinguished when it does not find firewood; similarly, knowledge is not
@@ -272,31 +224,19 @@ and the one whom He hates, but He does not grant knowledge except to the
 one whom He loves.
 
 > 45ـ إنَّ النّارَ لايَنْقُصُها ما أُخِذَ مِنْهُ، ولكِنْ يُخْمِدُها أنْ
-<blockquote dir="rtl">
-  <p>
-لاتَجِدَ حَطَباً، وَكَذلِكَ العِلْمُ لايُفْنيهِ الاِقتِباسُ، لكِنْ
-بُخْلُ الحامِلِينَ لَهُ سَبَبُ عَدَمِهِ.
-  </p>
-</blockquote>
+> لاتَجِدَ حَطَباً، وَكَذلِكَ العِلْمُ لايُفْنيهِ الاِقتِباسُ، لكِنْ
+> بُخْلُ الحامِلِينَ لَهُ سَبَبُ عَدَمِهِ.
 
 46. Verily knowledge guides, directs and saves while ignorance
 misguides, misdirects and destroys.
 
 > 46ـ إنَّ اللّهَ سُبْحانَهُ يَمْنَحُ المالَ مَنْ يُحِبُّ ويُبْغِضُ
-<blockquote dir="rtl">
-  <p>
-ولايَمْنَحُ العِلْمَ إلاّ مَنْ أحَبَّ.
-  </p>
-</blockquote>
+> ولايَمْنَحُ العِلْمَ إلاّ مَنْ أحَبَّ.
 
 47. Knowledge rescues.
 
 > 47ـ إنَّ العِلْمَ يَهْدي، ويُرْشِدُ، ويُنْجي، وإنَّ الجَهْلَ يُغْوي،
-<blockquote dir="rtl">
-  <p>
-ويُضِلُّ، ويُرْدي.
-  </p>
-</blockquote>
+> ويُضِلُّ، ويُرْدي.
 
 48. Knowledge is through understanding.
 
@@ -471,11 +411,7 @@ people act upon what they know.
 89. The bane of knowledge is to forsake acting upon it.
 
 > 89ـ إنَّما زَهَّدَ النّاسُ في طَلَبِ العِلْمِ كَثْرَةُ ما يَرَوْنَ
-<blockquote dir="rtl">
-  <p>
-مِنْ قِلَّةِ مَنْ عَمِلَ بِما عَلِمَ.
-  </p>
-</blockquote>
+> مِنْ قِلَّةِ مَنْ عَمِلَ بِما عَلِمَ.
 
 90. When you hear knowledge then treat it seriously and do not taint it
 with jesting, thereby making the hearts spit it out.
@@ -487,30 +423,18 @@ increase in your contemplation about its meanings, [for through this] it
 will be retained by the hearts.
 
 > 91ـ إذا سَمِعْتُمُ العِلْمَ فَألِطُّوا(فأكِظُّوا، فَأَنطَوُوا)
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ، فَلا تَشُوبُوهُ بِهَزْل، فَتَمُجُّهُ القُلُوبُ.
-  </p>
-</blockquote>
+> عَلَيْهِ، فَلا تَشُوبُوهُ بِهَزْل، فَتَمُجُّهُ القُلُوبُ.
 
 92. When the knowledge of a person increases, his etiquette improves and
 his awe for his Lord increases.
 
 > 92ـ إذا رُمْتُمْ الاِنْتِفاعَ بِالْعِلْمِ فَاعْمَلُوا بِهِ، وأكْثِرُوا
-<blockquote dir="rtl">
-  <p>
-الفِكْرَ في مَعانيهِ، تَعِهِ القُلُوبُ.
-  </p>
-</blockquote>
+> الفِكْرَ في مَعانيهِ، تَعِهِ القُلُوبُ.
 
 93. Through knowledge, wisdom is recognized.
 
 > 93ـ إذا زادَ عِلْمُ الرَّجُلِ زادَ أدَبُهُ، وتَضاعَفَتْ خَشْيَتُهُ
-<blockquote dir="rtl">
-  <p>
-لِرَبِّهِ.
-  </p>
-</blockquote>
+> لِرَبِّهِ.
 
 94. Through knowledge, there is life.
 
@@ -576,11 +500,7 @@ who are worthy of it.
 108. The best of knowledge is that which gives benefit.
 
 > 108ـ جَمالُ العِلْمِ نَشْرُهُ، وثَمَرَتُهُ العَمَلُ بِهِ، وصِيانَـتُهُ
-<blockquote dir="rtl">
-  <p>
-وَضْعُهُ في أهْلِهِ.
-  </p>
-</blockquote>
+> وَضْعُهُ في أهْلِهِ.
 
 109. The best of all knowledge is that which reforms you.
 
@@ -602,21 +522,13 @@ substances are produced from it: in one of them is a cure for the people
 (i.e. honey), and the other is a means of illumination (i.e. wax).
 
 > 112ـ خَيْرُ العِلْمِ ما أصْلَحْتَ بِهِ رَشادَكَ، وَشَـرُّهُ ما
-<blockquote dir="rtl">
-  <p>
-أفْسَدْتَ بِهِ مَعادَكَ.
-  </p>
-</blockquote>
+> أفْسَدْتَ بِهِ مَعادَكَ.
 
 113. The cornerstone of [all] merits is knowledge.
 
 > 113ـ خُذُوا مِنْ كُلِّ عِلْم أحْسَنَهُ، فَإنَّ النَّحْلَ يَأْكُلُ مِنْ
-<blockquote dir="rtl">
-  <p>
-كُلِّ زَهْر أزْيَنَهُ، فَيَتَوَلَّدُ مِنْهُ جَوْهَرانِ نَفيسانِ:
-أحَدُهُما فيهِ شِفاءٌ لِلنّاسِ، والاْخَرُ يُسْتَضاءُ بِهِ.
-  </p>
-</blockquote>
+> كُلِّ زَهْر أزْيَنَهُ، فَيَتَوَلَّدُ مِنْهُ جَوْهَرانِ نَفيسانِ:
+> أحَدُهُما فيهِ شِفاءٌ لِلنّاسِ، والاْخَرُ يُسْتَضاءُ بِهِ.
 
 114. Many a knowledge may lead to your misguidance.
 
@@ -634,11 +546,7 @@ and exerting the self to act upon it.
 117. The adornment of knowledge is forbearance.
 
 > 117ـ زَكاةُ العِلْمِ بَذْلُهُ لِمُسْتَحِقِّهِ، وإجْهادُ النَّفْسِ فيِ
-<blockquote dir="rtl">
-  <p>
-العَمَلِ بِهِ.
-  </p>
-</blockquote>
+> العَمَلِ بِهِ.
 
 118. The cause of fear [of Allah] is knowledge.[^3]
 
@@ -749,20 +657,12 @@ knowledge, for indeed it gains value when it abounds.
 vessel of knowledge, for verily it becomes wider.
 
 > 142ـ كُلُّ شَـيْء يَعِزُّ حينَ يَنْزُرُ (يَنْدُرُ) إلاّ الْعِلْمَ
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُ يَعِزُّ حينَ يَغْزُرُ.
-  </p>
-</blockquote>
+> فَإنَّهُ يَعِزُّ حينَ يَغْزُرُ.
 
 143. Knowledge is sufficient as loftiness.
 
 > 143ـ كُلُّ وِعاء يَضيقُ بِما جُعِلَ فيهِ إلاّ وِعاءَ الْعِلْمِ
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُ يَتَّسِعُ.
-  </p>
-</blockquote>
+> فَإنَّهُ يَتَّسِعُ.
 
 144. Every time the knowledge of a person increases, his concern for his
 soul increases, and he exerts his efforts in training and reforming it.
@@ -773,21 +673,13 @@ soul increases, and he exerts his efforts in training and reforming it.
 ignorance misguides him and destroys him.
 
 > 145ـ كُلَّمَـا ازْدادَ عِلْمُ الرَّجُلِ زادَتْ عِنايَتُهُ بِنَفْسهِ،
-<blockquote dir="rtl">
-  <p>
-وَبَذَلَ في رِياضَتِها وَصِلاحِها جُهْدَهُ.
-  </p>
-</blockquote>
+> وَبَذَلَ في رِياضَتِها وَصِلاحِها جُهْدَهُ.
 
 146. The acquisition of knowledge is indifference towards worldly
 pleasures.
 
 > 146ـ كَما أنَّ الْعِلْمَ يَهْدِي المَرْءَ ويُنْجيهِ، كَذلِكَ الجَهْلُ
-<blockquote dir="rtl">
-  <p>
-يُضِلُّهُ وَيُرْديهِ.
-  </p>
-</blockquote>
+> يُضِلُّهُ وَيُرْديهِ.
 
 147. The perfection of knowledge is forbearance, and the perfection of
 forbearance is increased tolerance and suppression [of anger].
@@ -797,11 +689,7 @@ forbearance is increased tolerance and suppression [of anger].
 148. The perfection of knowledge is action.
 
 > 148ـ كَمالُ الْعِلْمِ الحِلْمُ، وكَمالُ الحِلْمِ كَثْرَةُ الاِحْتِمالِ
-<blockquote dir="rtl">
-  <p>
-وَالكَظْمِ.
-  </p>
-</blockquote>
+> وَالكَظْمِ.
 
 149. For the seeker of knowledge, there is honour in this world and
 success in the Hereafter.
@@ -847,11 +735,7 @@ Hereafter.
 158. One who is fond of knowledge has [actually] done good to his soul.
 
 > 158ـ مَنْ عَمِلَ بِالْعِلْمِ بَلَغَ بُغْيَتَهُ مِنَ الآخِرَةِ
-<blockquote dir="rtl">
-  <p>
-ومُرادَهُ.
-  </p>
-</blockquote>
+> ومُرادَهُ.
 
 159. Whoever hides [his] knowledge, it is as if he is an ignorant
 person.
@@ -876,43 +760,27 @@ repelled) from the ways of wisdom.
 knowledge, covers himself with the gown of forbearance.
 
 > 163ـ مَنْ عَلِمَ (عَدِمَ) غَوْرَ الْعِلْمِ صَدَرَ (صُدَّ) عَنْ
-<blockquote dir="rtl">
-  <p>
-شَرايِعِ الحِكَمِ.
-  </p>
-</blockquote>
+> شَرايِعِ الحِكَمِ.
 
 164. One who increases his study of knowledge [and discussion about what
 he has learnt] does not forget what he knows and benefits from it that
 which he does not know.
 
 > 164ـ مَنِ ارْتَوى مِنْ مَشْرَبِ الْعِلْمِ، تَجَلْبَبَ جِلْبابَ
-<blockquote dir="rtl">
-  <p>
-الحِلْمِ.
-  </p>
-</blockquote>
+> الحِلْمِ.
 
 165. One who increases his reflection about what he has learnt
 safeguards his knowledge and understands that which he would not have
 [otherwise] understood.
 
 > 165ـ مَنْ أكْثَرَ مُدارَسَةَ العِلْمِ لَمْ يَنْسَ ما عَلِمَ،
-<blockquote dir="rtl">
-  <p>
-واسْتَفادَ ما لَمْيَعْلَمْ.
-  </p>
-</blockquote>
+> واسْتَفادَ ما لَمْيَعْلَمْ.
 
 166. One who does not acquire wealth through knowledge, acquires grace
 by it.
 
 > 166ـ مَنْ أكْثَرَ الفِكْرَ فيما تَعَلَّمَ أتْقَنَ عِلْمَهُ، وفَهِمَ ما
-<blockquote dir="rtl">
-  <p>
-لَمْ يَكُنْ يَفْهَمُ.
-  </p>
-</blockquote>
+> لَمْ يَكُنْ يَفْهَمُ.
 
 167. Whoever does not act upon his knowledge, it becomes a proof against
 him and a curse.
@@ -944,11 +812,7 @@ forbearance is not useful for the one who does not show clemency.
 173. The basis of knowledge is its dissemination.
 
 > 173ـ ما أفادَ الْعِلْمَ مَنْ لَمْ يَفْهَمْ، ولانَفَعَ الحِلْمَ مَنْ
-<blockquote dir="rtl">
-  <p>
-لَمْ يَحْلُمْ.
-  </p>
-</blockquote>
+> لَمْ يَحْلُمْ.
 
 174. The basis of knowledge is acting upon it.
 
@@ -986,11 +850,7 @@ most of knowledge is in that which you don’t know.
 182. There is no provision like knowledge.
 
 > 182ـ لاتُعادُوا ما تَجْهَلُونَ، فَإنَّ أكْثَرَ الْعِلْمِ فيما
-<blockquote dir="rtl">
-  <p>
-لاتَعْرِفُونَ.
-  </p>
-</blockquote>
+> لاتَعْرِفُونَ.
 
 183. There is no honour like knowledge.
 
@@ -1053,11 +913,7 @@ wealth and lineage.
 197. Knowledge needs action.
 
 > 197ـ يَتَفاضَلُ النّاسُ بِالعُلُومِ والعُقُولِ،لابِالأمْوالِ
-<blockquote dir="rtl">
-  <p>
-والأُصُولِ.
-  </p>
-</blockquote>
+> والأُصُولِ.
 
 198. Knowledge needs forbearance.
 
@@ -1084,5 +940,4 @@ be successful.
 corrupt] one.
 
 [^3]: As seen in Q35:28
-
 

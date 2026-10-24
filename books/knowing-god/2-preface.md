@@ -74,4 +74,3 @@ social, ethical and educational topics for presentation at seminars and
 conferences. Most of the above books have been translated into one or
 more foreign languages.
 
-

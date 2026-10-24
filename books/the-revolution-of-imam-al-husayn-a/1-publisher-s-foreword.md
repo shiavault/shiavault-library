@@ -224,4 +224,3 @@ al-Insaniyya (5th ed., Beirut, 1977), 236.
 [^3]: Ansar al-Husayn: Dirasa ‘an Shuhada’ Thawrat al-Husayn – al-Rijal
 wa al-Dalalat (Beirut, 1975).
 
-

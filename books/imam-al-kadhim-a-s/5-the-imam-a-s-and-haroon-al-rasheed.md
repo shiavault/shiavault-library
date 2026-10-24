@@ -712,4 +712,3 @@ Imam on the day he was born, on the day he was martyred amid the
 darkness of the prison, and on the day he shall be resurrected as a
 witness.
 
-

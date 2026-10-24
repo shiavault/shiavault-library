@@ -16,4 +16,3 @@ that God has prevented us from ridiculing and hurting others.
  Bravo to those principals that make children aware of actions against
 Islamic etiquettes.
 
-

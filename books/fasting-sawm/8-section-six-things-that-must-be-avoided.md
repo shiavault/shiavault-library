@@ -102,4 +102,3 @@ A: As long as it does not result in ejaculation, his fast is not
 affected, otherwise it is not permissible for him to do that and his
 fast will be void as well.
 
-

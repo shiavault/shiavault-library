@@ -161,4 +161,3 @@ Teachers of the Islamic Seminary in Qum, n.d.), pp. 8-9, 66, 130, 161,
 al-‘Ulama’ (Najaf: Manshurat al-Matba‘ah al-Haydariyyah, 1380 AH), p.
 31.
 
-

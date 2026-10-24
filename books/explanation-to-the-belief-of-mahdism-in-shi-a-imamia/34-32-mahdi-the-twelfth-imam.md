@@ -27,4 +27,3 @@ acknowledged by Sunni scholars. It was heard on the tongue of most
 well-known Sunni authorities. As such, it seems that it is the writer
 who is trying to invent something at this stage.
 
-

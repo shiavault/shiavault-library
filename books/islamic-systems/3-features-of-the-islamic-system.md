@@ -24,4 +24,3 @@ punishment or reward. Indeed, the welfare of humanity and its happiness
 is found in following the Divine System taught by the Prophet of
 humanity, Muhammad bin Abdullah (s).
 
-

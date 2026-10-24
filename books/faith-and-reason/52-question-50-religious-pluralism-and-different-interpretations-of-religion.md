@@ -354,4 +354,3 @@ allowing it to be called a “text centred” approach. It aims at revealing
 the intentions of the author or speaker as correctly as possible and
 uses all the means that can possibly assist him in this regard.
 
-

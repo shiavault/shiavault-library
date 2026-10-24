@@ -58,4 +58,3 @@ We beseech Allah, the Most High, to aid and grant success to all the
 culturally aware vanguards, who reject their corrupt status quo, and
 believe in their promising Islamic future. He is the best of helpers.
 
-

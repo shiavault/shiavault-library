@@ -38,4 +38,3 @@ Haroun received the list, saw and recognized the names, he broke his
 promise. Later, after listening to Bahlool again, he only freed and
 forgave ten people.
 
-

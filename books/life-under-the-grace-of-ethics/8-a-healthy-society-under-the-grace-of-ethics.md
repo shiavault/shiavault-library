@@ -165,11 +165,7 @@ In general, social value of individuals depends upon the degree of
 utilization of the society from them, and the wisely valuable utterance
 of Prophet (S) in this respect may refer to this reality, where he says:
 
-<blockquote dir="rtl">
-  <p>
-«خَیْرُ النّاسِ اَنْفَعُهُمْ لِلنّاسِ».
-  </p>
-</blockquote>
+> «خَیْرُ النّاسِ اَنْفَعُهُمْ لِلنّاسِ».
 
 The best people are the most beneficial ones.[^1]
 
@@ -226,12 +222,8 @@ other sorbs.
 considered as one of the signs of God and indications of monotheism,
 where it says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً
 
 ***And of His signs is this: He created for you helpmeets from
 yourselves that ye might find rest in them, and He ordained between you
@@ -240,17 +232,9 @@ love and mercy. (30:21)***
 3- Holy Qur’an reiterates that one of the miraculous deeds of Prophet
 (S) was creation of more friendship among the hearts, where it says:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ
-  </p>
-</blockquote>
+> وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ
 
 ***He it is Who supporteth thee with His help and with the
 believers,***  
@@ -268,13 +252,9 @@ shows the high importance of the subject.
 4- Qur’an calls scattering and hypocrisy as one of the divine
 chastisements:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ الْقَادِرُ عَلَىٰ أَنْ يَبْعَثَ عَلَيْكُمْ عَذَابًا مِنْ
-فَوْقِكُمْ أَوْ مِنْ تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا
-وَيُذِيقَ بَعْضَكُمْ بَأْسَ بَعْضٍ
-  </p>
-</blockquote>
+> قُلْ هُوَ الْقَادِرُ عَلَىٰ أَنْ يَبْعَثَ عَلَيْكُمْ عَذَابًا مِنْ
+> فَوْقِكُمْ أَوْ مِنْ تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا
+> وَيُذِيقَ بَعْضَكُمْ بَأْسَ بَعْضٍ
 
 *** Say: He is able to send punishment upon you from above you or from
 beneath your feet, or to bewilder you with dissension and make you taste
@@ -283,12 +263,8 @@ the tyranny one of another. (6:65)***
 And somewhere else Qur’an has placed it besides the burning fire, which
 swallows and incinerates everything:
 
-<blockquote dir="rtl">
-  <p>
-وَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا
-ۗ
-  </p>
-</blockquote>
+> وَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا
+> ۗ
 
 ***And (how) ye were upon the brink of an abyss of fire, and He did save
 you from it. (3:103***
@@ -303,14 +279,10 @@ with bringing hearts of people together.
 
 It is narrated from Imam As-Sadiq (A.S.) in Ehtejaj book:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ مِنْ اَکْبَرِ السِّحْرِ النَّمِیمَةُ یُفَرَّقُ بِها بَیْنَ
-الْمُتَحابِّیْنَ وَ یُجْلَبُ الْعَداوَةُ عَلَى الْمُتَصافِینَ وَ
-یُسْفَکُ بِهَا الدِّماءُ وَ یُهْدَمُ بِهَا الدُّورُ وَ یُکْشَفُ بِهَا
-السُّتُورُ، وَ النَّمّامُ اَشَرُّ مَنْ وَطِىءَ الاَْرْضَ بِقَدَم».
-  </p>
-</blockquote>
+> «اِنَّ مِنْ اَکْبَرِ السِّحْرِ النَّمِیمَةُ یُفَرَّقُ بِها بَیْنَ
+> الْمُتَحابِّیْنَ وَ یُجْلَبُ الْعَداوَةُ عَلَى الْمُتَصافِینَ وَ
+> یُسْفَکُ بِهَا الدِّماءُ وَ یُهْدَمُ بِهَا الدُّورُ وَ یُکْشَفُ بِهَا
+> السُّتُورُ، وَ النَّمّامُ اَشَرُّ مَنْ وَطِىءَ الاَْرْضَ بِقَدَم».
 
 The most important charm (in view of effect of causing disunity) is
 gossip, which causes dispersion among the friends and attracts enmity. A
@@ -331,24 +303,16 @@ and if inevitable, its permitted limit is determined to be three days.
 
 Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«لا یَحِلُّ لِمُسْلِم اَنْ یَهْجُرَ اَخاهُ فَوقَ ثَلاثَةِ اَیّام».
-  </p>
-</blockquote>
+> «لا یَحِلُّ لِمُسْلِم اَنْ یَهْجُرَ اَخاهُ فَوقَ ثَلاثَةِ اَیّام».
 
 It is not permitted for a Muslim to sulk more than three days with his
 religious brother.[^3]
 
 And in another tradition, he says:
 
-<blockquote dir="rtl">
-  <p>
-«نُهِیَ عَنِ الْهِجْرانِ، فَمَنْ کانَ لابُدَّ فاعِلا فَلا یَهْجُر
-اَخاهُ اَکْثَرَ مِنْ ثَلاثَةِ اَیّام، فَمَنْ کانَ هاجِراً لاَِخِیهِ
-اَکْثَرَ مِنْ ذلِکَ کانَتِ النّارُ اَوْلى بِهِ».
-  </p>
-</blockquote>
+> «نُهِیَ عَنِ الْهِجْرانِ، فَمَنْ کانَ لابُدَّ فاعِلا فَلا یَهْجُر
+> اَخاهُ اَکْثَرَ مِنْ ثَلاثَةِ اَیّام، فَمَنْ کانَ هاجِراً لاَِخِیهِ
+> اَکْثَرَ مِنْ ذلِکَ کانَتِ النّارُ اَوْلى بِهِ».
 
 Sulking is forbidden, and one who performs it of necessity, shall not be
 in sulks with his brother more than three days. One, who is in sulks
@@ -364,14 +328,10 @@ these principles.
 
 We read in a tradition from Imam As-Sadiq (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«یَحِقُّ عَلَى الْمُسْلِمِینَ الاِْجْتِهادُ فِی التَّواصُلِ، وَ
-التَّعاوُنُ عَلَى التَّعاطُفِ، وَ الْمُواساةُ لاَِهْلِ الْحاجَةِ، وَ
-تَعاطُفُ بَعْضِهِمْ عَلى بَعْض، حَتّى تَکُونُوا کَما اَمَرَکُمُ اللهُ
-عَزَّ وَ جَلّ رُحَماءُ بَیْنَهُمْ».
-  </p>
-</blockquote>
+> «یَحِقُّ عَلَى الْمُسْلِمِینَ الاِْجْتِهادُ فِی التَّواصُلِ، وَ
+> التَّعاوُنُ عَلَى التَّعاطُفِ، وَ الْمُواساةُ لاَِهْلِ الْحاجَةِ، وَ
+> تَعاطُفُ بَعْضِهِمْ عَلى بَعْض، حَتّى تَکُونُوا کَما اَمَرَکُمُ اللهُ
+> عَزَّ وَ جَلّ رُحَماءُ بَیْنَهُمْ».
 
 It is obligatory for the Muslims to try for bringing their hearts
 together, and do not neglect cooperation mixed with kindness, observe
@@ -398,12 +358,8 @@ the most essential means of life.
 
 Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ الْمُؤْمِنَ لَیَسْکُنُ اِلَى الْمُؤْمِنِ کَما یَسْکُنُ
-الْقَلْبُ الْظَمآنُ اِلَى الْماءِ الْبارِدِ».
-  </p>
-</blockquote>
+> «اِنَّ الْمُؤْمِنَ لَیَسْکُنُ اِلَى الْمُؤْمِنِ کَما یَسْکُنُ
+> الْقَلْبُ الْظَمآنُ اِلَى الْماءِ الْبارِدِ».
 
 The same tranquility, which the thirsty feel when finding water, the
 believers feel in solidarity with each other.[^6]
@@ -420,14 +376,10 @@ their bodies are influenced.
 
 Prophet (S) in a tradition says:
 
-<blockquote dir="rtl">
-  <p>
-«اَلا وَ اِنَّ وُدَّ الْمُؤْمِنِ مِنْ اَعْظَمِ سَبَبِ الاِْیمانِ ...
-اَلا وَ اِنَّ الْمُؤْمِنَیْنِ اِذا تَحابّا فِی اللهِ عَزَّ وَ جَلَّ وَ
-تَصافَیا فِی اللهِ کانا کَالْجَسَدِ الْواحِدِ اِذَا اشْتَکى اَحَدُهُما
-مِنْ جَسَدِهِ مَوْضِعاً وَجَدَ الاْخَرُ اَلَمَ ذلِکَ الْمَوْضِعِ».
-  </p>
-</blockquote>
+> «اَلا وَ اِنَّ وُدَّ الْمُؤْمِنِ مِنْ اَعْظَمِ سَبَبِ الاِْیمانِ ...
+> اَلا وَ اِنَّ الْمُؤْمِنَیْنِ اِذا تَحابّا فِی اللهِ عَزَّ وَ جَلَّ وَ
+> تَصافَیا فِی اللهِ کانا کَالْجَسَدِ الْواحِدِ اِذَا اشْتَکى اَحَدُهُما
+> مِنْ جَسَدِهِ مَوْضِعاً وَجَدَ الاْخَرُ اَلَمَ ذلِکَ الْمَوْضِعِ».
 
 Pay attention that friendship with a believer is one of the greatest
 causes of belief, and two believers who make friends with each other for
@@ -467,16 +419,12 @@ assemblies.
 Imam Ali (A.S.) in a sermon for repressing the thoughts of divisive
 minority of "Kharijites" (Rebels) says:
 
-<blockquote dir="rtl">
-  <p>
-«وَ الْزَمُوا السَّوادَ الاَْعْظَمَ فَاِنَّ یَدَ اللهِ مَعَ
-الْجَماعَةِ وَ اِیّاکُمْ وَ الْفُرْقَةَ فَاِنَّ الشّاذَّ مِنَ النّاسِ
-لِلشَّیْطانِ کَما اَنَّ الشّاذَّ مِنَ الْغَنَمِ لِلذِّئْبِ... وَ
-اِنَّما حُکِّمَ الْحَکَمانِ لِیُحْیِیا ما اَحْیَا الْقُرْآنُ وَ
-یُمِیتا ما اَماتَ الْقُرْآنُ، وَ اِحْیاؤُهُ الاِْجْتِماعُ عَلَیْهِ وَ
-اِماتَتُهُ الاِْفْتِراقُ عَنْهُ».
-  </p>
-</blockquote>
+> «وَ الْزَمُوا السَّوادَ الاَْعْظَمَ فَاِنَّ یَدَ اللهِ مَعَ
+> الْجَماعَةِ وَ اِیّاکُمْ وَ الْفُرْقَةَ فَاِنَّ الشّاذَّ مِنَ النّاسِ
+> لِلشَّیْطانِ کَما اَنَّ الشّاذَّ مِنَ الْغَنَمِ لِلذِّئْبِ... وَ
+> اِنَّما حُکِّمَ الْحَکَمانِ لِیُحْیِیا ما اَحْیَا الْقُرْآنُ وَ
+> یُمِیتا ما اَماتَ الْقُرْآنُ، وَ اِحْیاؤُهُ الاِْجْتِماعُ عَلَیْهِ وَ
+> اِماتَتُهُ الاِْفْتِراقُ عَنْهُ».
 
 Be with the great majority because Allah's hand (of protection) is on
 keeping unity. You should beware of division because the isolator from
@@ -516,11 +464,7 @@ of Islamic society, is in proportion with their social situation.
 2- Islam has encouraged breeding and increasing population. Prophet (S)
 says:
 
-<blockquote dir="rtl">
-  <p>
-«اُطْلُبُوا الْوَلَدَ فَاِنِّی مُکاثِرٌ بِکُمُ الاُْمَمَ غَداً».
-  </p>
-</blockquote>
+> «اُطْلُبُوا الْوَلَدَ فَاِنِّی مُکاثِرٌ بِکُمُ الاُْمَمَ غَداً».
 
 Desire child because I will boast in the day of resurrection for
 plentitude of your population.[^9]
@@ -620,22 +564,14 @@ Osman Ebne Mazoun inclined to monkery as a result of a mental defeat
 (losing his beloved child) and resorted to worship to relieve his grief.
 When the Prophet (S) was informed, he forbade him and said:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ اللهَ تَبارَکَ وَ تَعالى لَمْ یَکْتُبْ عَلَیْنَا
-الرُّهْبانِیَّةَ».
-  </p>
-</blockquote>
+> «اِنَّ اللهَ تَبارَکَ وَ تَعالى لَمْ یَکْتُبْ عَلَیْنَا
+> الرُّهْبانِیَّةَ».
 
 The Great God has not assigned monkery for us.
 
 Then he added to it a fundamental phrase:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّما رُهْبانِیَّةُ اُمَّتِی الْجِهادُ فِی سَبِیلِ اللهِ».
-  </p>
-</blockquote>
+> «اِنَّما رُهْبانِیَّةُ اُمَّتِی الْجِهادُ فِی سَبِیلِ اللهِ».
 
 Surely, the monkery of my nation is struggle in the way of God.[^12]
 
@@ -645,15 +581,11 @@ principles and magnificence of the society, like warfare.
 
 And it is narrated from Imam Mousabne Ja'far that someone asked him:
 
-<blockquote dir="rtl">
-  <p>
-«عَنِ الرَّجُلِ الْمُسْلِمِ هَلْ یَصْلُحُ اَنْ یَسِیحَ فِی الاَْرْضِ
-اَوْ یَتَرَهَّبَ فِی بَیْت لا یَخْرُجُ مِنْهُ؟ قالَ(علیه السلام): لا».
-  </p>
-</blockquote>
+> «عَنِ الرَّجُلِ الْمُسْلِمِ هَلْ یَصْلُحُ اَنْ یَسِیحَ فِی الاَْرْضِ
+> اَوْ یَتَرَهَّبَ فِی بَیْت لا یَخْرُجُ مِنْهُ؟ قالَ(علیه السلام): لا».
 
 Is it permitted for a Muslim to select journey and vagabondage, or
-monkery, and not going out of house? He said: no.[^13]
+monkery, and not going out of house? He said: no.13
 
 Wandering in this tradition may refer to a sort of monkery in the form
 of tourism without luggage and provision with the purpose of separation
@@ -668,12 +600,8 @@ contradiction with the spirit of Islamic instructions.
 Moreover, Holy Qur’an has called monkery, which is common among
 Christians, a condemned innovation:
 
-<blockquote dir="rtl">
-  <p>
-وَ رَهْبانِیَّةً ابْتَدَعُوها ما کَتَبْناها عَلَیْهِمْ اِلاَّ
-ابْتِغاءَ رِضْوانِ اللهِ فَما رَعَوْها حَقَّ رِعایَتِها
-  </p>
-</blockquote>
+> وَ رَهْبانِیَّةً ابْتَدَعُوها ما کَتَبْناها عَلَیْهِمْ اِلاَّ
+> ابْتِغاءَ رِضْوانِ اللهِ فَما رَعَوْها حَقَّ رِعایَتِها
 
 *And (as for) monkery, they innovated it-- We did not prescribe it to
 them-- only to seek Allah's pleasure, but they did not observe it with
@@ -801,5 +729,4 @@ and sensual people and the best wines were prepared there.
 Hadid, and Bihar al-Anwar, volume 70, subject "forbiddance of mockery"
 
 [^17]: Will Durant, history of civilization, 443/13
-
 

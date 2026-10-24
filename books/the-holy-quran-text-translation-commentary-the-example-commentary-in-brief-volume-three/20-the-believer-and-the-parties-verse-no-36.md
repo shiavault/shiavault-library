@@ -271,9 +271,7 @@ easily be proved through his words and sermons, and speeches.
 **سوره ابراهيم
 ABRAHAM**
 
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
 
@@ -537,5 +535,4 @@ ALLAH.
 12- AND WHY SHOULD WE NOT PUT OUR TRUST IN ALLAH, AND YET HE HAS SHOWED
 US OUR WAY. (TO PROSPERITY) AND WE DEFINITELY WILL ENDURE PATIENTLY YOUR
 PERSECUTING US; AND ON ALLAH THE RELIANTS PUT THEIR TRUST.
-
 

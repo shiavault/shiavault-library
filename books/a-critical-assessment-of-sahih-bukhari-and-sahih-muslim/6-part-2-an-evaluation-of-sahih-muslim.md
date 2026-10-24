@@ -74,12 +74,8 @@ proclaim Abu Talib as disbeliever, it is enough to refer to Al-Tabaqat
 Al-Kubra and see what its author says in regard with Abu Talib: Waqidi
 quotes Ali as saying:
 
-<blockquote dir="rtl">
-  <p>
-لما توفى ابو طالب اخبرت رسول الله ص فبكى بكاء شديدا ثم فال اذهب فاغسله
-و كفنه و واره غفرالله له و رحمه
-  </p>
-</blockquote>
+> لما توفى ابو طالب اخبرت رسول الله ص فبكى بكاء شديدا ثم فال اذهب فاغسله
+> و كفنه و واره غفرالله له و رحمه
 
 When Abu Talib died, I informed the Holy Prophet (S) [of this death]. He
 wept very much and said: Go, wash his body and shroud and bury him. May
@@ -90,11 +86,7 @@ Holy Prophet (S) said: Yes by Allah I wish he was forgiven. [After this
 happening] Allah's Apostle kept staying indoor for a few days asking
 Allah's forgiveness for him.
 
-<blockquote dir="rtl">
-  <p>
-وصلت رحمک و جزاک الله خیرا
-  </p>
-</blockquote>
+> وصلت رحمک و جزاک الله خیرا
 
 You did good to your relatives of kin. May Allah give you a good
 reward.[^6]
@@ -105,11 +97,7 @@ solid argument. Sunni scholars have also alluded to the consensus made
 by the family of Prophet (S). Quoting Ibn Athir in his Jami'a Al-Ususl,
 the author of Rawda Al-Ahbab says:
 
-<blockquote dir="rtl">
-  <p>
-زعم اهل البيت ان ابا طالب مات مسلما والله اعلم بصحته
-  </p>
-</blockquote>
+> زعم اهل البيت ان ابا طالب مات مسلما والله اعلم بصحته
 
 The family of the Holy Prophet (S) thought that Abu Talib died as a
 Muslim but Allah alone knows whether or not this is correct.
@@ -543,5 +531,4 @@ the caliphate of Abu Bakr.
 [^16]: Sahih Muslim, vol. 4, (traditions) 1945 and 3501.
 
 [^17]: Zad Al-Ma'ad fi Huda Khair Al-Ibad, vol. 1, p. 110.
-
 

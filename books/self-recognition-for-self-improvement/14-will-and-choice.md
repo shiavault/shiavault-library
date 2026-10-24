@@ -69,12 +69,8 @@ will render meaningless the special human faculties. The Qur'an
 interprets this as "heedlessness", a heedlessness which makes man less
 than animals and puts him in worse errors:
 
-<blockquote dir="rtl">
-  <p>
-“أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ
-الْغَافِلُونَ”
-  </p>
-</blockquote>
+> “أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ
+> الْغَافِلُونَ”
 
 ***“They are as cattle, nay, they are in worse errors; these are the
 heedless ones (7:179).”***
@@ -129,5 +125,4 @@ well. Its demands must be established as the criterion for restricting
 and justifying other desires. Previous discussions proved (the fact)
 that man's perfection, for whose materialization all forces should be
 mobilized, is to reach *qurb* with Almighty Allah:
-
 

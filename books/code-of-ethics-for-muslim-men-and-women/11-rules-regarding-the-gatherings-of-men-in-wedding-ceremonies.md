@@ -203,7 +203,6 @@ unfortunately, it has become common among the Muslims. G
 Answer 2: The necktie is one of the signs of the Christians and in is
 incumbent on Muslims to refrain from wearing it. G
 
-
 **Rules Relating to Women’s Wedding Ceremonies**
 
 334 – Rule: It is not a problem for women to clap their hands in
@@ -532,5 +531,4 @@ daughter is in need of getting married. M
 [^8] This is a form of Istikh?ra as explained in Maf?t¢¦ al-Jin?n, page
 1074 (as printed by Uswah Publications, Qum, Iran, 2000) using papers
 (cards).
-
 

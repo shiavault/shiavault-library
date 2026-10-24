@@ -265,4 +265,3 @@ occultations and longevity is for the attention of those scholars whose
 ideology is influenced and affected by materialism and hence they have
 rejected this belief outrightly.
 
-

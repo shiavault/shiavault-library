@@ -722,4 +722,3 @@ Protection Law of 1967, which Imām Khomeini denounced as contrary to
 Islam in an important ruling. See Imām Khomeini, Tauzih al-Masā’il,
 n.p., n.d., pp. 462-463, par. 2836, and p. 441.
 
-

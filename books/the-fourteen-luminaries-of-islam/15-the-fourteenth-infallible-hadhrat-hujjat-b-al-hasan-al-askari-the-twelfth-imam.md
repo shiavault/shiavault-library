@@ -489,4 +489,3 @@ Shi‘ism, pp. 2021.
 
 [^9]: Khurshid Maghrib, p. 338.
 
-

@@ -174,4 +174,3 @@ master, Hazrat Mahdi (A.S.). So that by the coming of Hazrat (A.S.) the
 Islamic faith may strengthen and that he may fill the earth with justice
 and equity.
 
-

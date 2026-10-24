@@ -88,4 +88,3 @@ with, just as 'Ali, after the events of the arbitration, first of all
 attacked the Khawarij and then intended to follow upon the tracks of
 Mu'awiyah.
 
-

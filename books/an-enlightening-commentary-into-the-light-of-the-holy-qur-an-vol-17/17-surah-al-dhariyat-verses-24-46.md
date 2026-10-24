@@ -4,30 +4,14 @@ Surah al-Dhariyat, Verses 24 - 46
 Surah al-Dhariyat - Verses 24-27
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ
-  </p>
-</blockquote>
+> هَلْ أتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَآمًا قَالَ سَلَآمٌ قَوْمٌ
-مُّنكَرُونَ
-  </p>
-</blockquote>
+> إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَآمًا قَالَ سَلَآمٌ قَوْمٌ
+> مُّنكَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَرَاغَ إِلَی أهْلِهِ فَجَاء بِعِجْلٍ سَمِينٍ
-  </p>
-</blockquote>
+> فَرَاغَ إِلَی أهْلِهِ فَجَاء بِعِجْلٍ سَمِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فَقَرَّبَهُ إِلَيْهِمْ قَالَ ألَآ تَأكُلُونَ
-  </p>
-</blockquote>
+> فَقَرَّبَهُ إِلَيْهِمْ قَالَ ألَآ تَأكُلُونَ
 
 ***24. Has the story reached you, of the honored guests of Abraham
 (as)?***  
@@ -113,25 +97,13 @@ you.”***
 Surah al-Dhariyat - Verses 28-30
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأوْجَسَ مِنْهُمْ خِيفَةً قَالُوا لَآ تَخَفْ وَبَشَّرُوهُ بِغُلَآمٍ
-عَلِيمٍ
-  </p>
-</blockquote>
+> فَأوْجَسَ مِنْهُمْ خِيفَةً قَالُوا لَآ تَخَفْ وَبَشَّرُوهُ بِغُلَآمٍ
+> عَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-فَأقْبَلَتِ امْرَأتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ
-عَجُوزٌ عَقِيمٌ
-  </p>
-</blockquote>
+> فَأقْبَلَتِ امْرَأتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ
+> عَجُوزٌ عَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا كَذَلِكَ قَالَ رَبُّكِ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ
-  </p>
-</blockquote>
+> قَالُوا كَذَلِكَ قَالَ رَبُّكِ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ
 
 ***28. Then he entertained fear of them [when they ate not]. They said:
 “Fear not [since we are God’s angels].” And they bore him glad tidings
@@ -191,29 +163,13 @@ Divine Presence.
 Surah al-Dhariyat - Verses 31-34
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَا خَطْبُكُمْ أيُّهَا الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> قَالَ فَمَا خَطْبُكُمْ أيُّهَا الْمُرْسَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّا اُرْسِلْنَا إِلَی قَوْمٍ مُّجْرِمِينَ
-  </p>
-</blockquote>
+> قَالُوا إِنَّا اُرْسِلْنَا إِلَی قَوْمٍ مُّجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ
-  </p>
-</blockquote>
+> لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-مُسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
-  </p>
-</blockquote>
+> مُسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
 
 ***31. [Abraham] said: “Then for what purpose you have come, O
 Messengers?”***  
@@ -265,23 +221,11 @@ act of obscenity.
 Surah al-Dhariyat - Verses 35-37
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَأخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا فِيهَا آيَةً لِّلَّذِينَ يَخَافُونَ الْعَذَابَ الْألِيمَ
-  </p>
-</blockquote>
+> وَتَرَكْنَا فِيهَا آيَةً لِّلَّذِينَ يَخَافُونَ الْعَذَابَ الْألِيمَ
 
 ***35. Therefore, We brought out from therein all the believers.***  
 ***36. But We found not there any household of the Muslims except
@@ -325,23 +269,11 @@ blameworthy deserving such afflictions.
 Surah al-Dhariyat - Verses 38-40
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفِي مُوسَی إِذْ أرْسَلْنَاهُ إِلَی فِرْعَوْنَ بِسُلْطَانٍ مُّبِينٍ
-  </p>
-</blockquote>
+> وَفِي مُوسَی إِذْ أرْسَلْنَاهُ إِلَی فِرْعَوْنَ بِسُلْطَانٍ مُّبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّی بِرُكْنِهِ وَقَالَ سَاحِرٌ أوْ مَجْنُونٌ
-  </p>
-</blockquote>
+> فَتَوَلَّی بِرُكْنِهِ وَقَالَ سَاحِرٌ أوْ مَجْنُونٌ
 
-<blockquote dir="rtl">
-  <p>
-فَأخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ
-  </p>
-</blockquote>
+> فَأخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ
 
 ***38. And in [the story of] Moses [AS there is a sign and a lesson to
 take], when We sent him to Pharaoh with a manifest authority.***  
@@ -419,17 +351,9 @@ goes:
 Surah al-Dhariyat - Verses 41-42
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفِي عَادٍ إِذْ أرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ
-  </p>
-</blockquote>
+> وَفِي عَادٍ إِذْ أرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ
 
-<blockquote dir="rtl">
-  <p>
-مَا تَذَرُ مِن شَيْءٍ أتَتْ عَلَيْهِ إِلاّ جَعَلَتْهُ كَالرَّمِيمِ
-  </p>
-</blockquote>
+> مَا تَذَرُ مِن شَيْءٍ أتَتْ عَلَيْهِ إِلاّ جَعَلَتْهُ كَالرَّمِيمِ
 
 ***41. And [there are lessons and Signs] in [the story of] ‘Ad when We
 sent against them the barren [destructive] wind;***  
@@ -459,24 +383,12 @@ bones.
 Surah al-Dhariyat - Verses 43-45
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّی حِينٍ
-  </p>
-</blockquote>
+> وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّی حِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فَعَتَوْا عَنْ أمْرِ رَبِّهِمْ فَأخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ
-يَنظُرُونَ
-  </p>
-</blockquote>
+> فَعَتَوْا عَنْ أمْرِ رَبِّهِمْ فَأخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ
+> يَنظُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا اسْتَطَاعُوا مِن قِيَامٍ وَمَا كَانُوا مُنتَصِرِينَ
-  </p>
-</blockquote>
+> فَمَا اسْتَطَاعُوا مِن قِيَامٍ وَمَا كَانُوا مُنتَصِرِينَ
 
 ***43. And in [the story of] Thamud [there are Signs and lessons], when
 they were told: “Enjoy yourselves for a while [in your lifetime]!”***  
@@ -523,11 +435,7 @@ on.
 Surah al-Dhariyat - Verse 46
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ
-  </p>
-</blockquote>
+> وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ
 
 ***46. [And were] the people of Noah [AS] before them [whom We
 destroyed]. Indeed, they were a people transgressing Divine Bounds.***
@@ -576,5 +484,4 @@ and he was quite anxious because of their denial of his Prophetic Call.
 [^1]: 10:90
 
 [^2]: 11:65
-
 

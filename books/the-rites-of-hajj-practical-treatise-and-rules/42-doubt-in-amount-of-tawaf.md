@@ -56,4 +56,3 @@ or obligatory Tawaf) and to perform this great worship with presence of
 the heart and abstain from doing anything that reduces presence of the
 heart.
 
-

@@ -338,4 +338,3 @@ Fire, neither Resurrection nor Day of Judgment." (Vide his Sharh Nahji
 Lubabu u'n-nuqul fi asbabi'n-nuzul printed with Tafsiru 'l-jalalayn, pp.
 289, 649.
 
-

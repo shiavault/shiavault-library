@@ -71,4 +71,3 @@ interactions.[^1]
 [^1]: The points summarized above are highlighted in the topics
 discussed by the author in this booklet.Ed.
 
-

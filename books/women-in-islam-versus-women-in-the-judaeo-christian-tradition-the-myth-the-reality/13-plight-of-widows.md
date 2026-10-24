@@ -84,4 +84,3 @@ with themselves.”(2:240)***
 
 [^3]: Ibid., p. 49.
 
-

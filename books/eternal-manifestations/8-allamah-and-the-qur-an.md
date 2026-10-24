@@ -53,4 +53,3 @@ would try to recite it out loud.
     
 *‘Allāmah’s daughter*  
 
-

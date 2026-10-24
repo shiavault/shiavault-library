@@ -182,23 +182,23 @@ halaka Umar (Had it not been for Ali, Umar would have surely perished),
 and his own telling Abu Bakr: "May I not live in any period of time
 without al-Hasan's father."
 
-[^15] The most glaring testimonial is Umar ibn al-Khattab's threat to
+[^15]: The most glaring testimonial is Umar ibn al-Khattab's threat to
 burn the house of Fatima and everyone inside it. This incident is quite
 famous in history chronicles.
 
-[^16] Fadak's story is well known in history books and so is al-Zahra's
+[^16]: Fadak's story is well known in history books and so is al-Zahra's
 dispute with Abu Bakr. She died angry with him. This is a famous
 incident recorded by both Bukhari and Muslim.
 
-[^17] This is stated in Volume Four of Al-\`Iqd al-Fareed where the
+[^17]: This is stated in Volume Four of Al-\`Iqd al-Fareed where the
 author discusses those who refused to swear the oath of allegiance to
 Abu Bakr.
 
-[^18] Al-Bukhari, Sahih (original Arabic text), Vol. 5, p. 82 in the
+[^18]: Al-Bukhari, Sahih (original Arabic text), Vol. 5, p. 82 in the
 discussion of the Battle of Khaybar, and it is also recorded in the
 "Book of Itjihad" in Muslim's Sahih.
 
-[^19] Umar's ignorance regarding the distribution of the legacy of a man
+[^19]: Umar's ignorance regarding the distribution of the legacy of a man
 who leaves neither parents nor offspring behind, and who has no will, is
 quite famous in the books of Sunnah. The same is true about his
 ignorance of the injunctions relevant to tayammum; these are all known

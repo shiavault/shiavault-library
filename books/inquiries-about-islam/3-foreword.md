@@ -44,4 +44,3 @@ about that which they value so highly.
 *Wilson H. Guertin, Ph.D.*
 *University of Florida*
 
-

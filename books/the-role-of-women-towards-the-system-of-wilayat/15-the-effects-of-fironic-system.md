@@ -29,11 +29,7 @@ and have seen the end of Firon through the hands of Moosa, they demanded
 from Moosa something which stunned him. As mentioned in the verse of the
 Holy Quran, they demanded from Moosa:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا مُوسَى اجْعَلْ لَنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ
-  </p>
-</blockquote>
+> قَالُوا يَا مُوسَى اجْعَلْ لَنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ
 
 ***"O*** ***Moosa, make for us a God as they have (their) Gods" (Surah
 al-A’araaf,7:138)***
@@ -65,5 +61,4 @@ scene was that the community had left Haroon isolated and was following
 Saamri. The question here is how Saamri was successful in taking the
 community away from Haroon. This is where we can again see the character
 of women.
-
 

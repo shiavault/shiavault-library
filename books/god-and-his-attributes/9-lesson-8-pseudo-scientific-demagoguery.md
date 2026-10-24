@@ -593,4 +593,3 @@ nothing other than slavery or blind obedience.
 
 [^2]: Bihar al-Anwar, Vol. III, p. 152.
 
-

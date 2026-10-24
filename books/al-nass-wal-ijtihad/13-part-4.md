@@ -690,4 +690,3 @@ because the mission would not succeed except with concealment but the
 (valor) of Umar led him to announce his being a Muslim even if he would
 contradict the order of the Prophet (s)!
 
-

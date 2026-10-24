@@ -62,4 +62,3 @@ youth of the country should be actively associated with the political
 and social happenings of the country. The youth must be given more
 freedom of choice to participate in the political process of the nation.
 
-

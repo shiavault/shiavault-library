@@ -382,4 +382,3 @@ truthful in their speech and the most ardent in paying back the deposits
 entrusted to them, and the most faithful in fulfilling their promises
 and the best in their behaviour and the most amiable to the people."
 
-

@@ -487,20 +487,20 @@ wished.[1] In spite of all that, Jabala often cried regretting what he
 had missed of the religion of Islam. He had composed the following
 verses of poetry:
 
-*<span style="font-size: 16pt">The honorables became Christians because
-of a slap,</span>*
+*The honorables became Christians because
+of a slap,*
 
-*<span style="font-size: 16pt">There would be no harm if you were a
-little patient!</span>*
+*There would be no harm if you were a
+little patient!*
 
-*<span style="font-size: 16pt">I was encircled with obstinacy and
-zeal,</span>*
+*I was encircled with obstinacy and
+zeal,*
 
-*<span style="font-size: 16pt">And I sold the sound eye for
-one-eyedness.</span>*
+*And I sold the sound eye for
+one-eyedness.*
 
-*<span style="font-size: 16pt">Would that my mother had not begotten
-me!</span>*
+*Would that my mother had not begotten
+me!*
 
 ------------------------------------------------------------------------
 
@@ -508,14 +508,14 @@ me!</span>*
 Arabic Lessons for secondary schools, vol.1 p.62 edition of al-Kashshaf
 Press, Beirut, quoted from al-Aghani by Abul Faraj al-Isfahani.
 
-*<span style="font-size: 16pt">Would that I had gone back to the people
-that Umar said!</span>*
+*Would that I had gone back to the people
+that Umar said!*
 
-*<span style="font-size: 16pt">Would that I grazed cattle in a
-desert!</span>*
+*Would that I grazed cattle in a
+desert!*
 
-*<span style="font-size: 16pt">Or I was a captive in Rabeea or
-Mudhar!</span>*
+*Or I was a captive in Rabeea or
+Mudhar!*
 
 I said: would that the caliph had not driven this Arab emir and his
 people away even if he would have tried every means to content that man
@@ -693,10 +693,10 @@ Abdullah bin Burayd said: One night while Umar was patrolling, he
 arrived at a house, inside which there was a woman singing for other
 women:
 
-*<span style="font-size: 16pt">Is there a way to get some wine to
-drink,</span>*
+*Is there a way to get some wine to
+drink,*
 
-*<span style="font-size: 16pt">or to be with Nasr bin Hajjaj?</span>*
+*or to be with Nasr bin Hajjaj?*
 
 Umar said: As long as she lives, she will not get that! In the morning
 he sent for Nasr bin Hajjaj.[2] Umar looked at him and found him very
@@ -818,11 +818,11 @@ signs of Allah, this surely is (the outcome) of the piety of hearts.**
 Qur'an, 22:32 and they did not love Allah sincerely as one of the poets
 has said:
 
-*<span style="font-size: 16pt">It is not the love of the country that
-has filled my heart,</span>*
+*It is not the love of the country that
+has filled my heart,*
 
-*<span style="font-size: 16pt">but it is the love of who has dwelled in
-the country.</span>*
+*but it is the love of who has dwelled in
+the country.*
 
 66. Umm Hani complains against him to the Prophet(s)
 ----------------------------------------------------
@@ -1228,25 +1228,25 @@ When Umar was about to die, he invented the Shura to choose the caliph
 after him. He appointed a committee of six persons pretending that Ali,
 the Prophets brother and guardian, was one of them;
 
-*<span style="font-size: 16pt">Ali, who was the best of the human beings
-after the Prophet,</span>*
+*Ali, who was the best of the human beings
+after the Prophet,*
 
-*<span style="font-size: 16pt">who was the very self of the Prophet
-(s).</span>*
+*who was the very self of the Prophet
+(s).*
 
-*<span style="font-size: 16pt">Muhammad and Ali were the two eyes of the
-world;</span>*
+*Muhammad and Ali were the two eyes of the
+world;*
 
-*<span style="font-size: 16pt">one was the right and the other was the
-left.</span>*
+*one was the right and the other was the
+left.*
 
-*<span style="font-size: 16pt">Muhammad was the city of knowledge and
-Ali was its gate</span>*
+*Muhammad was the city of knowledge and
+Ali was its gate*
 
-*<span style="font-size: 16pt">and whoever wanted to come to the
-city,</span>*
+*and whoever wanted to come to the
+city,*
 
-*<span style="font-size: 16pt">had to enter it from its gate.</span>*
+*had to enter it from its gate.*
 
 O my Lord! What was the Shura invented for?! Had he (Ali) been compared
 with the first one (Abu Bakr) so that he would be compared with these
@@ -1519,9 +1519,9 @@ But indeed he had ordered to kill them while he was comfortable and
 tranquil with that. He had ordered Abu Talha al-Ansari and his men with
 this order and stressed on them and on Suhayb to execute it.
 
-*<span style="font-size: 16pt">The Muslims saw and heard,</span>*
+*The Muslims saw and heard,*
 
-*<span style="font-size: 16pt">But none denied or felt pain!</span>*
+*But none denied or felt pain!*
 
 This was the utmost persistence of Umar. He went on his exaggeration to
 the farthest point! He knew well the position of these

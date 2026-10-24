@@ -206,4 +206,3 @@ since the creation of the world.
 The promised Mahdi will realize the ideal of all the prophets, saints
 and fighters in the path of truth.
 
-

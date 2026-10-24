@@ -10,11 +10,7 @@ Surah al-Mu’minun, Chapter 23
 The Virtues of the Recitation of Sura Al-Mu’minun
 -------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
@@ -172,5 +168,4 @@ be levied and collected by the Prophet’s agents.
 [^5]: Sura At-Taubah, No. 9, verse 103
 
 [^6]: Bihar-ul-’Anwar, Vol.93, p. 14; and Fru‘-i-Kafi, Vol. 3, p. 496
-
 

@@ -39,4 +39,3 @@ to the Prophet in two distinct ways. Sometimes Allah would Himself teach
 the Revelation to the Prophet, in which case the Prophet used to faint.
 And sometimes Revelation would be brought to him by Gabriel.
 
-

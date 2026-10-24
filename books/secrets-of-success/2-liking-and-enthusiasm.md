@@ -164,4 +164,3 @@ Maybe this man captures the Qaiser himself.”
  Finally the Muslims were victorious and this soldier was the one to
 capture the Qaiser!
 
-

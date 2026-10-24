@@ -137,4 +137,3 @@ letters. Some examples are as follows: Alla\>h, where the presence of
 ‘l’. It may help if the word is considered as Al-la\>h, with the pause
 due to the hyphen being very slight. Another example is Muhammad.
 
-

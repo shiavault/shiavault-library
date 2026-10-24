@@ -7,4 +7,3 @@ Irresponsibility
 
 > 1ـ مَنْ تَهَوَّرَ نَدِمَ.
 
-

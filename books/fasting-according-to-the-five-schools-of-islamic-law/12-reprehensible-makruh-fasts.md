@@ -13,4 +13,3 @@ the permission of its father, and when there is doubt regarding the new
 moon of Dhu al-Hijjah and the consequent possibility of the day being
 that of \`Id.
 
-

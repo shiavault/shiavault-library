@@ -5,7 +5,7 @@ In Malik’s Muwatta’ it is reported that when Ka’b became aware that Umar
 ibn al-Khattab intended to go out toward Iraq, he said to him: O Amir
 al-Mu’minin! It is better not to go there, as in it there is nine-tenth
 of sorcery: the debauchees of jinn, and it has the irremediable malady.
-<span id="_anchor_280"></span>280
+280
 
 ### Jewish Traditions Spread by Ka’b and Wahb:
 
@@ -20,7 +20,7 @@ Mu’awiyah said to Ka’b: You say that Dhu al-Qarnayn used to tie his
 horse to the chandelier! Ka’b said: If I said so, these words are said
 by God: “...and We gave him the means of access to every thing.”!!
 
-Ibn Kathir, in his Tafsir, <span id="_anchor_281"></span>281 writes:
+Ibn Kathir, in his Tafsir, 281 writes:
 What Mu’awiyah disapproved against Ka’b being the correct, and Mu’awiyah
 has the right in this denial, as he used to say in regard of Ka’b: We
 used to put falsity to test through him.
@@ -37,7 +37,7 @@ angels. Thereat the snake twisted around the Throne, which reached half
 the snake while it was twisted around it. Only then it (Throne) behaved
 humbly!
 
-In the Tafsir <span id="_anchor_282"></span>282 books, it is reported
+In the Tafsir 282 books, it is reported
 that Abd Allah ibn Qullabah went out looking after his camel, till
 reaching the garden of Shaddad where he
 
@@ -48,11 +48,9 @@ It is the many-columned Iram...and it will be visited by a Muslim man
 during your time, who will be red-faced, blond, short (of stature), with
 a mole on his eye-brow and another mole on his neck, going out in
 request of his camels. Then he turned his face, and on seeing Ibn
-Qullabah, he said: By God, this is the man meant (in the hadith), <span
-id="_anchor_283"></span>283 and no man will ever enter al-Madinah after
-him till the Day of Resurrection. <span id="_anchor_284"></span>284 When
-Ka’b finished his speech, Mu’awiyah said to him: <span
-id="_anchor_285"></span>285 O Abu Ishaq, Tell me about the chair of
+Qullabah, he said: By God, this is the man meant (in the hadith), 283 and no man will ever enter al-Madinah after
+him till the Day of Resurrection. 284 When
+Ka’b finished his speech, Mu’awiyah said to him: 285 O Abu Ishaq, Tell me about the chair of
 Sulayman ibn Dawud, and what was on it, and from what it was made. In
 his reply he embarked on citing what he had of superstitions and legends
 that are out of scope here, and can be found in Tafsir books.
@@ -70,8 +68,7 @@ face, a lion’s face, an eagle’s face, and a human being’s face. Every
 angel has four wings, two on his face so as to keep him from looking to
 the Throne, when he would stun and float in the air. Thereat he can say
 nothing but the words: Quddus (the All Holy), the Mighty King... Whose
-Greatness has filled the heavens and the earth. <span
-id="_anchor_286"></span>286
+Greatness has filled the heavens and the earth. 286
 
 Ibn al-Faqih, in his Ta’rikh, reports:
 
@@ -88,8 +85,7 @@ smooth rock. On the fifth face there is a shallow of water. On the sixth
 one there is baked clay upon which rests throne of Iblis. And on the
 seventh one there is an ox, which is over a fish, and the fish is on the
 water, and the water is on the air. The air is on the soil, and the soil
-(thara) is separated, containing the knowledge of the scholars. <span
-id="_anchor_287"></span>287
+(thara) is separated, containing the knowledge of the scholars. 287
 
 Mu’awiyah once read the verse: “Until when he reached the place where
 settest the sun (the Western most land)”, till reaching the words: “a
@@ -101,18 +97,18 @@ black mud.
 
 It is also reported that Ibn Abbas and Amr ibn al-’As differed regarding
 the way of reading these words: “...in a black muddy pool”, raising the
-issue for arbitration <span id="_anchor_288"></span>288 to Ka’b
+issue for arbitration 288 to Ka’b
 al-Ahbar, to settle the dispute.
 
 Ibn Khaythamah reported on the authority of Qatadah as saying: It came
 to Hudhayfah’s knowledge that Ka’b was saying: The sky revolves round an
 axis like a quern (handmill), when he said: Ka’b has lied...Allah says:
 “Verily God holdeth the heavens and the earth lest they come to naught.
-<span id="_anchor_289"></span>289
+289
 
 Ibn Hajar said that Ka’b al-Ahbar narrated that the heaven door which is
 called “the angels lift” (mas’ad al-mala’ikah) is opposite to Bayt
-al-Maqdis <span id="_anchor_290"></span>290 (Quds). From it some ulama’
+al-Maqdis 290 (Quds). From it some ulama’
 learnt that the philosophy behind isra’ (circulating) to Bayt al-Maqdis
 before ‘uruj (ascension), was that to make the ascension occur smoothly
 and in a straight way, without any crookedness.
@@ -141,8 +137,7 @@ Abu Abd al-Rahman reported that Umar said to Ka’b – after referring to
 poetry: O Ka’b, is there any mention of poetry in the Torah? Ka’b said:
 I find in the Torah people from among the offspring of Isma’il, having
 their gospels kept in their hearts, pronouncing only wisdom and coining
-the proverbs. We know them to be none but the Arabs. <span
-id="_anchor_291"></span>291
+the proverbs. We know them to be none but the Arabs. 291
 
 Yazid ibn Habib reported that Mu’awiyah ibn Abi Sufyan asked Ka’b
 al-Ahbar: Do you find in the Book of Allah any reference to this (River
@@ -150,8 +145,7 @@ of) Nile? He said: Yea, by Him Who split the sea for Moses (peace be
 upon him) I find in the Book of Allah, the Glorified and Exalted, that:
 God reveals to it twice a year, and reveals to it when it flows that:
 Allah orders you to flow. Then it flows in the way ordained by God.
-After that God reveals to it: Return commendably. <span
-id="_anchor_292"></span>292
+After that God reveals to it: Return commendably. 292
 
 Al-Bayhaqi, in al-Asma’ wa al-sifat, through a reliable sanad, reports
 from Ibn Abbas, saying: In regard of the Almighty’s saying: “God is He
@@ -176,7 +170,7 @@ probably thought – if be correctly reported from Ibn Abbas – that he
 Makhul reported that Ka’b said: Four of the prophets are alive so as to
 be safety for the inhabitants of the earth, two of whom are on the
 earth: al-Khidr and Ilyas, and two are in the heaven: Idris and Jesus.
-<span id="_anchor_293"></span>293
+293
 
 In Tafsir al-Tabari it is reported that Ibn Abbas inquired Ka’b about
 Sidrat al-Muntaha (the Lote-tree of the all-Comprehensive Terminus). He
@@ -216,9 +210,8 @@ with no one found, but very rarely, to reveal their falsehood and refute
 them. But, alas, we find them believed by some from among the Hashwiyyah
 (interpolators) of the end of Time, who trade with religion never caring
 for ascribing ignorance to the Seal of Apostles (S), keeping on
-referring to Ka’b al-Ahbar with mastery titles. <span
-id="_anchor_294"></span>294 I suffice with these examples believing them
-to be enough to get content. <span id="_anchor_295"></span>295
+referring to Ka’b al-Ahbar with mastery titles. 294 I suffice with these examples believing them
+to be enough to get content. 295
 
 ### Is It Permissible to Narrate Israeliyyat
 
@@ -278,17 +271,13 @@ which he forbade
 
 this. Abu Hurayrah and Abd Allah ibn ‘Amr ibn al-’As and others reported
 that the Messenger of Allah said: “There is no bjection to relate from
-Banu Israel. <span id="_anchor_296"></span>296 It is known that Abu
+Banu Israel. 296 It is known that Abu
 Hurayrah and Abd Allah ibn ‘Amr were among disciples of Ka’b al-Ahbar.
 The reports indicate that the second one – i.e. Abd Allah ibn ‘Amr ibn
 al-’As – got during the Battle of Yarmuk two scholarships of the
 sciences of Ahl al-Kitab, and used to relate from them. Ibn Hajar added
 to this: “For this reason many of the Imams of the Followers avoided
-reporting from him.” <span id="_anchor_297"></span>297
-
-  
-  
-  
+reporting from him.” 297
 
 280. Siyanat al-insan 'an waswasat Ibn Dahlan, p. 538.
 

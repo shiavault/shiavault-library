@@ -63,7 +63,6 @@ gratitude, with all the services he had rendered human beings, and with
 all his unparalleled worship of the Creator could be so concerned about
 his imperfections before Allah, how then, can we determine our state ?
 
-
 **Commentary : Verse 62**
 
 (62) أَلا إِنَّ أَوْلِياءَ اللَّهِ لا خَوْفٌ عَلَيْهِمْ وَ لا هُمْ
@@ -125,7 +124,6 @@ person concerned. The verse says:
 " For them are Glad Tidings in this world's life and in the Hereafter.
 There is no change in the Words of Allah. That is the great success. "
 
-
 **Commentary : Verse 65**
 
 (65) وَ لا يَحْزُنْكَ قَوْلُهُمْ إِنَّ الْعِزَّةَ لِلَّهِ جَميعاً هُوَ
@@ -179,7 +177,6 @@ have saved in advance for their life in Hereafter.
 
 (1) The Commentary of Al- Mizan, the explanation upon the verse
 
-
 **Commentary : Verse 66**
 
 (66) أَلا إِنَّ لِلَّهِ مَنْ فِي السَّماواتِ وَ مَنْ فِي الْأَرْضِ وَ
@@ -224,7 +221,6 @@ in this way, they do nothing but lie. The verse says:
 "... they do not follow(anything)but conjectures, and they only lie.
 "
 
-
 **Commentary : Verse 67**
 
 (67) هُوَ الَّذي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فيهِ وَ النَّهارَ
@@ -250,7 +246,6 @@ Allah, the Glorified, for no one else is able to do all this. The verse
 continues saying:
 
 "... Verily there are signs in it for people who hearken. "
-
 
 **Commentary : Verse 68
 **
@@ -301,7 +296,6 @@ If one wants to know about Allah, these words are to be regarded as
 blame, a censure and a threat from Allah, the Magnificent, to those who
 have made these unsanctioned and atrocious claims.
 
-
 **Commentary : Verse 69**
 
 (69) قُلْ إِنَّ الَّذينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لا
@@ -341,5 +335,4 @@ used to disbelieve. "
 (1) The Arabic words/ mata'/ and/ mut'ah/ are employed for short- term
 use. As man's use of the world and its blessings are short- lived, the
 Qur'an then applies the word/ mata'/ cornering worldly affairs.
-
 

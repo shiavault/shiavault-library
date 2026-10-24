@@ -127,11 +127,7 @@ These twelve people have also been clearly mentioned in other
 
 In another *hadith*, the Holy Prophet (S) has said,
 
-<blockquote dir="rtl">
-  <p>
-الحسن والحسين إماما أمتي بعد أبيهما.
-  </p>
-</blockquote>
+> الحسن والحسين إماما أمتي بعد أبيهما.
 
 “Al-Hasan and al-Husayn are the two Imams of my Islamic community
 [*ummah*] after their father.”[^11]
@@ -155,12 +151,8 @@ from raw wool on his shoulders. Al-Hasan ibn ‘Ali, al-Husayn, Fatimah
 and ‘Ali all came to join the Prophet (S) in the order mentioned. Then,
 he recited this verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ اِنَّما يريدُ اللهُ لِيذهِبَ عَنکُمُ الرِّجسَ أَهلَ البَيتِ
-وَيطَهِّرَکُم تَطهيرا ﴾
-  </p>
-</blockquote>
+> ﴿ اِنَّما يريدُ اللهُ لِيذهِبَ عَنکُمُ الرِّجسَ أَهلَ البَيتِ
+> وَيطَهِّرَکُم تَطهيرا ﴾
 
 ***“Allah only desires to keep away uncleanness from you, O people of
 the house, and to purify you a thorough purifying.”***[^12] [^13]
@@ -180,11 +172,7 @@ Fatimah, al-Hasan, al-Husayn and I sat together on that piece of cloth.
 Then, the Holy Prophet (S) picked up the corners of the cloth and spread
 it over all of us. After that, he said,
 
-<blockquote dir="rtl">
-  <p>
-«اللّهم ارضَ عنهم کما أنا راضٍ عنهم.»
-  </p>
-</blockquote>
+> «اللّهم ارضَ عنهم کما أنا راضٍ عنهم.»
 
 ‘O Allah! Be pleased with these people in the same way that I am pleased
 with them!’”[^14]
@@ -212,11 +200,7 @@ upon the legitimacy of Yazid’s claim for caliphate.
 
 Abu Sa‘id recounts that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«الحسن والحسين سيدا شباب أهل الجنّة.»
-  </p>
-</blockquote>
+> «الحسن والحسين سيدا شباب أهل الجنّة.»
 
 “Al-Hasan and al-Husayn are the two leaders of the youths of
 paradise.”[^16]
@@ -236,11 +220,7 @@ caliphate becomes subject to question and doubt.
 On his own chain of transmission, al-Tirmidhi narrates from Ya‘la ibn
 Marrah that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«حسين منّي وأنا من حسين.»
-  </p>
-</blockquote>
+> «حسين منّي وأنا من حسين.»
 
 “Al-Husayn is from me and I am from al-Husayn.”[^18]
 
@@ -563,5 +543,4 @@ Al-Futuh, vol. 4, p. 291; Mukhtasar Tarikh Damishq, vol. 13, p. 265.
 [^36]: ‘Iqad, Al-‘Abqariyyat al-Islamiyyah, vol. 2, p. 222.
 
 [^37]: Ibid., vol. 2, p. 228.
-
 

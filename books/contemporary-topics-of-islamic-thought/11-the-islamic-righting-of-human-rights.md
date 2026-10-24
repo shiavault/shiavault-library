@@ -722,7 +722,6 @@ today's world.
 
 “
 
-  
 وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ
 
 ۚ
@@ -825,5 +824,4 @@ Rights: Tradition and Politics (Boulder: 1991).
 'Abd al-'Aziz Kamil (Cairo and Kuwait) in A. Boudhiba, ed., The
 Different Aspects of Islamic Culture: The Individual and Society in
 Islam (Paris: UNESCO Publishing, 1998).
-
 

@@ -77,4 +77,3 @@ to admit that its words were situated on a higher plane than the thought
 and speech of the human being.    
   
 
-

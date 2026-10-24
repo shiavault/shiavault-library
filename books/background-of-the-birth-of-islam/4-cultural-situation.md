@@ -89,7 +89,6 @@ drawn to these exhibitions to recite their poems before judges who
 judged their poems. In this manner the fairs served both as commercial
 shows and literary societies.
 
-
 **Form of Government in Pagan Times**
 
 Sociologists say that in those days when man lived alone (if indeed
@@ -326,5 +325,4 @@ policies and ideas. According to his views the various tribes of Mecca,
 especially the branches of the Quraish tribe were involved into creating
 a central organisation and establishing a relative order in the
 society.
-
 

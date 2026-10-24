@@ -95,7 +95,6 @@ An orator has three signs: He quarrels those higher then him through
 disobedience. He does injustice to those lower than him in position
 through domination and he becomes a supporter of the unjust.'"
 
-
 **Chapter 6 : Chapter on the Rights of the scholars H 70, Ch. 6, h
 1**
 
@@ -121,5 +120,4 @@ scholar is like a fruit bearing tree in which case one needs to wait
 until three lets fruits to fall onto one. The reward for a scholar is
 greater than that for one who fasts and prays very often and those who
 fight for the cause of Allah.'"
-
 

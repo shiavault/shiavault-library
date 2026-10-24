@@ -1,25 +1,17 @@
 Right n. 40: The Right of Him Whose Advice You Seek
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-حق المشير
-  </p>
-</blockquote>
+> حق المشير
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ المُشِيرِ عَلَيْكَ فَلا تتَّهِمْهُ فِيمَا لا يُوافِقُكَ
-عَلَيهِ مِنْ رَأْيِهِ إذا أَشَارَ عَلَيْكَ فَإنَّمَا هِيَ الآرَاءُ
-وَتصَرُّفُ النَّاسِ فِيهَا وَاختِلافُهُمْ. فَكُنْ عَلَيهِ فِي رَأيِهِ
-بالخِيَارِ إذا اتَّهمْتَ رَأْيَهُ، فَأَمّا تُهْمتُهُ فَلا تَجُوزُ لَكَ
-إذَا كَانَ عِنْدكَ مِمَّنْ يَسْتَحِقُّ الْمُشَاوَرَةَ. وَلا تَدَعْ
-شُكْرَهُ عَلَى مَا بَدَا لَكَ مِن إشْخاصِ رَأْيِهِ وَحُسْنِ وَجْهِ
-مَشُورَتِهِ، فَإذا وَافَقَكَ حَمِدتَ اللَّهَ وَقَبلْتَ ذلِكَ مِن
-أَخِيكَ بالشُّكْرِ والإرْصَادِ بالْمُكَافَأَةِ فِي مِثلِهَا إنْ فَزِعَ
-إلَيْكَ. وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ المُشِيرِ عَلَيْكَ فَلا تتَّهِمْهُ فِيمَا لا يُوافِقُكَ
+> عَلَيهِ مِنْ رَأْيِهِ إذا أَشَارَ عَلَيْكَ فَإنَّمَا هِيَ الآرَاءُ
+> وَتصَرُّفُ النَّاسِ فِيهَا وَاختِلافُهُمْ. فَكُنْ عَلَيهِ فِي رَأيِهِ
+> بالخِيَارِ إذا اتَّهمْتَ رَأْيَهُ، فَأَمّا تُهْمتُهُ فَلا تَجُوزُ لَكَ
+> إذَا كَانَ عِنْدكَ مِمَّنْ يَسْتَحِقُّ الْمُشَاوَرَةَ. وَلا تَدَعْ
+> شُكْرَهُ عَلَى مَا بَدَا لَكَ مِن إشْخاصِ رَأْيِهِ وَحُسْنِ وَجْهِ
+> مَشُورَتِهِ، فَإذا وَافَقَكَ حَمِدتَ اللَّهَ وَقَبلْتَ ذلِكَ مِن
+> أَخِيكَ بالشُّكْرِ والإرْصَادِ بالْمُكَافَأَةِ فِي مِثلِهَا إنْ فَزِعَ
+> إلَيْكَ. وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of him whose advice you seek is that you should not
 accuse him when he gives you advice that does not conform to your own
@@ -52,11 +44,7 @@ went to see the Commander of the Faithful and said: “I have come to seek
 your advice and that of Hasan, Husayn and Abdullah ibn Ja’far about
 marriage.” The Blessed Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-المُستَشارُ مُؤتَمَنٌ.
-  </p>
-</blockquote>
+> المُستَشارُ مُؤتَمَنٌ.
 
 *“One whose advice is sought is a confidant”.* [^1]
 
@@ -64,12 +52,8 @@ Then he told the man his viewpoints.
 
 In the second tradition, we read that Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَن اسْتَشارَ أخاهُ فَلَم يَنْصَحْهُ مَحْضَ الرّأيِ سَلَبَهُ اللهُ
-عَزَّ وَجَلَّ رَأيَهُ.
-  </p>
-</blockquote>
+> مَن اسْتَشارَ أخاهُ فَلَم يَنْصَحْهُ مَحْضَ الرّأيِ سَلَبَهُ اللهُ
+> عَزَّ وَجَلَّ رَأيَهُ.
 
 *“One whose brother seeks counsel from him and he does not counsel him
 with sincerity, God will deprive him of his soundness in judgment.”*[^2]
@@ -131,11 +115,7 @@ affairs, it is meant seek the good.”[^6]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-لا ظَهيرَ كالمُشاوَرَةِ
-  </p>
-</blockquote>
+> لا ظَهيرَ كالمُشاوَرَةِ
 
 *“There is no aid like seeking advice.”*[^7]
 
@@ -152,5 +132,4 @@ Imam Ali said:
 [^6]: Bihar al-Anwar, v.75, p.104.
 
 [^7]: Ibid.
-
 

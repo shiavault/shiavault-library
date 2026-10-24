@@ -1,22 +1,18 @@
 Chapter 6 : Hypocrities's Dangerous Plans
 =========================================
 
-<p dir="rtl">
 هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَى مَنْ عِندَ رَسُولِ
 اللَّهِ حَتَّى يَنفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ
 وَلَكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
-</p>
 
 “They are the ones who say, 'Spend nothing on those who are with
 Allah's Messenger, to the end that they may disperse (and leave
 Medina).' But to Allah belong the treasures of the Heavens and the
 Earth; but the hypocrites understand not.”[^45]
 
-<p dir="rtl">
 يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ
 مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ
 وَلَكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
-</p>
 
 “They say, 'If we return to Medina, surely the more honorable (element)
 will expel from there the meaner.' But honor belongs to Allah and His
@@ -172,18 +168,16 @@ to do that.[^50]
 
 **Notes:**
 
-[^45] 62:7
+[^45]: 62:7
 
-[^46] 62:8
+[^46]: 62:8
 
+[^47]: Ibn Hisha-m, Si-rah, volume 1, page 350
 
-[^47] Ibn Hisha-m, Si-rah, volume 1, page 350
+[^48]: A tribe who fought against Islam
 
-[^48] A tribe who fought against Islam
-
-[^49] Ibn Hisha-m, Si-rah, volume 2, page 292; ?Ali- bin Ibra-hi-m
+[^49]: Ibn Hisha-m, Si-rah, volume 2, page 292; ?Ali- bin Ibra-hi-m
 al-Qumi-, Tafsi-r al-Qumi-, page 681
 
-[^50] Ibn Hisha-m, Si-rah, volume 2, page 292
-
+[^50]: Ibn Hisha-m, Si-rah, volume 2, page 292
 

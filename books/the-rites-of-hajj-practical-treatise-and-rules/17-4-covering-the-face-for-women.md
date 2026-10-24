@@ -31,4 +31,3 @@ Article 108
 The atonement of covering the face is one sheep for women as obligatory
 precaution.
 
-

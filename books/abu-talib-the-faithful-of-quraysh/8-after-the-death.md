@@ -2381,4 +2381,3 @@ Sayyid Shamsuddeen. It was one of our references in this book.
 
 [^123]: Sharh Nahjul Balagha, vol. 3 p.317-318.
 
-

@@ -29,4 +29,3 @@ example: **اُمّ لَبوَةٌ** (a lioness, a mother)
 
 • The اء ; for example: **حَسناء** (a beautiful woman)
 
-

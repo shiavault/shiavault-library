@@ -4,35 +4,15 @@ Section 1: Moses Commissioned with Apostleship
 Surah Ta Ha – Verses 1 - 4
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-طه
-  </p>
-</blockquote>
+> طه
 
-<blockquote dir="rtl">
-  <p>
-مَآ أَنزَلْنَا عَلَيْكَ الْقُرْءَانَ لِتَشْقَي
-  </p>
-</blockquote>
+> مَآ أَنزَلْنَا عَلَيْكَ الْقُرْءَانَ لِتَشْقَي
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ تَذْكِرَةً لِمَن يَخْشَي
-  </p>
-</blockquote>
+> إِلاَّ تَذْكِرَةً لِمَن يَخْشَي
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلاً مِمَّنْ خَلَقَ الاَرْضَ وَالسَّمَاوَاتِ الْعُلَي
-  </p>
-</blockquote>
+> تَنزِيلاً مِمَّنْ خَلَقَ الاَرْضَ وَالسَّمَاوَاتِ الْعُلَي
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
@@ -113,24 +93,12 @@ of Qadr.
 Surah Ta Ha – Verses 5 - 7
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمَنُ عَلَي الْعَرْشِ اسْتَوَي
-  </p>
-</blockquote>
+> الرَّحْمَنُ عَلَي الْعَرْشِ اسْتَوَي
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الاَرْضِ وَمَا بَيْنَهُمَا وَمَا
-تَحْتَ الثَرَي
-  </p>
-</blockquote>
+> لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الاَرْضِ وَمَا بَيْنَهُمَا وَمَا
+> تَحْتَ الثَرَي
 
-<blockquote dir="rtl">
-  <p>
-وإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السّـِرَّ وَأَخْفَي
-  </p>
-</blockquote>
+> وإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السّـِرَّ وَأَخْفَي
 
 ***5. “The Beneficent (Allah Who) dominates on the ‘Arsh (the Throne of
 existence).”***  
@@ -277,11 +245,7 @@ absolute ownership over all things.
 Surah Ta Ha – Verse 8
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لآ إِلَهَ إِلاَّ هُوَ لَهُ الاَسْمَاءُ الْحُسْنَي
-  </p>
-</blockquote>
+> اللَّهُ لآ إِلَهَ إِلاَّ هُوَ لَهُ الاَسْمَاءُ الْحُسْنَي
 
 ***8. “Allah, there is no god but He. To Him belong the Most Beautiful
 Names.”***
@@ -432,32 +396,16 @@ Pure Essence.
 Surah Ta Ha – Verses 9 - 12
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهَلْ أَتَاكَ حَدِيثُ مُوسَي
-  </p>
-</blockquote>
+> وَهَلْ أَتَاكَ حَدِيثُ مُوسَي
 
-<blockquote dir="rtl">
-  <p>
-إِذْ رَأَي نَاراً فَقَالَ لاَِهْلِهِ امْكُثُوْا إِنّـِي ءَانَسْتُ
-نَاراً لَّعَلّـِي ءَاتِيكُم مّـِنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَي
-النَّارِ هُدًي
-  </p>
-</blockquote>
+> إِذْ رَأَي نَاراً فَقَالَ لاَِهْلِهِ امْكُثُوْا إِنّـِي ءَانَسْتُ
+> نَاراً لَّعَلّـِي ءَاتِيكُم مّـِنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَي
+> النَّارِ هُدًي
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَتَاهَا نُودِيَ يَامُوسَي
-  </p>
-</blockquote>
+> فَلَمَّآ أَتَاهَا نُودِيَ يَامُوسَي
 
-<blockquote dir="rtl">
-  <p>
-إِنّـِي أَنَاْ رَبُّكَ فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ
-الْمُقَدَّسِ طُوًي
-  </p>
-</blockquote>
+> إِنّـِي أَنَاْ رَبُّكَ فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ
+> الْمُقَدَّسِ طُوًي
 
 ***9. “And has the story of Moses reached you?”***  
 ***10. “When he saw a fire, then he said to his family: ‘Wait (a
@@ -555,18 +503,10 @@ the same form of meaning.
 Surah Ta Ha – Verses 13 - 14
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَي
-  </p>
-</blockquote>
+> وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَي
 
-<blockquote dir="rtl">
-  <p>
-إِنَّنِي أَنَا اللَّهُ لآ إِلَهَ إِلآَّ أَنَاْ فَاعْبُدْنِي وَأَقِمِ
-الصَّلاَةَ لِذِكْرِي
-  </p>
-</blockquote>
+> إِنَّنِي أَنَا اللَّهُ لآ إِلَهَ إِلآَّ أَنَاْ فَاعْبُدْنِي وَأَقِمِ
+> الصَّلاَةَ لِذِكْرِي
 
 ***13. “And I myself have chosen you; therefore hearken unto what is
 revealed.”***  
@@ -614,19 +554,11 @@ might not be forgotten.
 Surah Ta Ha – Verses 15 - 16
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ السَّاعَةَ ءَاتِيَةٌ أَكَادُ اُخْفِيهَا لِتُجْزَي كُلُّ نَفْسٍ
-بِمَا تَسْعَي
-  </p>
-</blockquote>
+> إِنَّ السَّاعَةَ ءَاتِيَةٌ أَكَادُ اُخْفِيهَا لِتُجْزَي كُلُّ نَفْسٍ
+> بِمَا تَسْعَي
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ يَصُدَّنَّكَ عَنْهَا مَن لاَّ يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ
-فَتَرْدَي
-  </p>
-</blockquote>
+> فَلاَ يَصُدَّنَّكَ عَنْهَا مَن لاَّ يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ
+> فَتَرْدَي
 
 ***15. “Verily the Hour (of Doom) is coming, (but) I will to keep it
 hidden so that every soul may be rewarded for its endeavour.”***  
@@ -669,18 +601,10 @@ his invitation and mobility of this Divine school.
 Surah Ta Ha – Verses 17 - 18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تِلْكَ بِيَمِينِكَ يَامُوسَي
-  </p>
-</blockquote>
+> وَمَا تِلْكَ بِيَمِينِكَ يَامُوسَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هِيَ عَصَايَ أَتَوَكَّؤُا عَلَيْهَا وَأَهُشُّ بِهَا عَلَي
-غَنَمِي وَلِيَ فِيهَا مَاَرِبُ اُخْرَي
-  </p>
-</blockquote>
+> قَالَ هِيَ عَصَايَ أَتَوَكَّؤُا عَلَيْهَا وَأَهُشُّ بِهَا عَلَي
+> غَنَمِي وَلِيَ فِيهَا مَاَرِبُ اُخْرَي
 
 ***17. “And (Allah said) what is that in your right hand O Moses?”***  
 ***18. “He (Moses)said: ‘It is my rod: I lean on it, and I beat down
@@ -721,23 +645,11 @@ and what sort of reply he was answering!
 Surah Ta Ha – Verses 19 - 21
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَلْقِهَا يَا مُوسَي
-  </p>
-</blockquote>
+> قَالَ أَلْقِهَا يَا مُوسَي
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْقَاهَا فَإِذَا هِيَ حَيَّةٌ تَسْعَي
-  </p>
-</blockquote>
+> فَأَلْقَاهَا فَإِذَا هِيَ حَيَّةٌ تَسْعَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ خُذْهَا وَلاَ تَخَفْ سَنُعِيدُهَا سِيرَتَهَا الاُولَي
-  </p>
-</blockquote>
+> قَالَ خُذْهَا وَلاَ تَخَفْ سَنُعِيدُهَا سِيرَتَهَا الاُولَي
 
 ***19. “Said He: ‘Cast it down O Moses!”***  
 ***20. “Then he cast it down, and lo! it was a serpent gliding.”***  
@@ -811,18 +723,10 @@ the second was that the serpent was restored to its first state.
 Surah Ta Ha – Verses 22 - 23
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاضْمُمْ يَدَكَ إِلَي جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوءٍ
-ءَايَةً اُخْرَي
-  </p>
-</blockquote>
+> وَاضْمُمْ يَدَكَ إِلَي جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوءٍ
+> ءَايَةً اُخْرَي
 
-<blockquote dir="rtl">
-  <p>
-لِنُرِيَكَ مِنْ ءَايَاتِنَا الْكُبْري
-  </p>
-</blockquote>
+> لِنُرِيَكَ مِنْ ءَايَاتِنَا الْكُبْري
 
 ***22. “And place your hand under your armpit, it will come forth white
 (shining) without harm, (and this also is) another sign (miracle),”***  
@@ -922,5 +826,4 @@ unto Moses a (peculiar) speech”.
 [^18]: Surah Al-Qsas, No. 28, verse 32
 
 [^19]: Surah An-Naml, No. 27, verse 12
-
 

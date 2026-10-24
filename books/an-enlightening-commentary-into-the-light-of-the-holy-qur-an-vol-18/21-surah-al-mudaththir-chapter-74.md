@@ -10,11 +10,7 @@ Surah al-Mudaththir, Chapter 74
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -58,25 +54,13 @@ them.
 Surah al-Mudaththir – Verses 1-2
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْمُدَّثِّرُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْمُدَّثِّرُ
 
-<blockquote dir="rtl">
-  <p>
-قُمْ فَأَنذِرْ
-  </p>
-</blockquote>
+> قُمْ فَأَنذِرْ
 
 ***1. O you reposing in bed!***  
 ***2. Arise and warn [the world]!***
@@ -201,35 +185,15 @@ the Hereafter as well as the evil consequences of vices.
 Surah al-Mudaththir – Verses 3-7
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَبَّكَ فَكَبِّرْ
-  </p>
-</blockquote>
+> وَرَبَّكَ فَكَبِّرْ
 
-<blockquote dir="rtl">
-  <p>
-وَثِيَابَكَ فَطَهِّرْ
-  </p>
-</blockquote>
+> وَثِيَابَكَ فَطَهِّرْ
 
-<blockquote dir="rtl">
-  <p>
-وَالرُّجْزَ فَاهْجُرْ
-  </p>
-</blockquote>
+> وَالرُّجْزَ فَاهْجُرْ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَمْنُن تَسْتَكْثِرُ
-  </p>
-</blockquote>
+> وَلَا تَمْنُن تَسْتَكْثِرُ
 
-<blockquote dir="rtl">
-  <p>
-وَلِرَبِّكَ فَاصْبِرْ
-  </p>
-</blockquote>
+> وَلِرَبِّكَ فَاصْبِرْ
 
 ***3. And magnify your Lord!***  
 ***4. And purify your garments!***  
@@ -342,23 +306,11 @@ In this respect, it is narrated from Imam ‘Ali (as) as saying:
 Surah al-Mudaththir – Verses 8-10
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نُقِرَ فِي النَّاقُورِ
-  </p>
-</blockquote>
+> فَإِذَا نُقِرَ فِي النَّاقُورِ
 
-<blockquote dir="rtl">
-  <p>
-فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
-  </p>
-</blockquote>
+> فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
-  </p>
-</blockquote>
+> عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
 
 ***8. When it shall be blown into the Trumpet.***  
 ***9. That Day shall be a Hard Day,***  
@@ -397,35 +349,15 @@ the strongest men shall be brought to their knees.
 Surah al-Mudaththir – Verses 11-15
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا
-  </p>
-</blockquote>
+> ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًا
-  </p>
-</blockquote>
+> وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًا
 
-<blockquote dir="rtl">
-  <p>
-وَبَنِينَ شُهُودًا
-  </p>
-</blockquote>
+> وَبَنِينَ شُهُودًا
 
-<blockquote dir="rtl">
-  <p>
-وَمَهَّدتُّ لَهُ تَمْهِيدًا
-  </p>
-</blockquote>
+> وَمَهَّدتُّ لَهُ تَمْهِيدًا
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يَطْمَعُ أَنْ أَزِيدَ
-  </p>
-</blockquote>
+> ثُمَّ يَطْمَعُ أَنْ أَزِيدَ
 
 ***11. Leave Me Alone with the one whom I created alone.***  
 ***12. I granted him abundant possessions.***  
@@ -549,17 +481,9 @@ knowledge and skills.
 Surah al-Mudaththir – Verses 16-17
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا
-  </p>
-</blockquote>
+> كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا
 
-<blockquote dir="rtl">
-  <p>
-سَأُرْهِقُهُ صَعُودًا
-  </p>
-</blockquote>
+> سَأُرْهِقُهُ صَعُودًا
 
 ***16. It shall never be thus, since he opposes Our Àyat [Verses, Signs,
 proofs].***
@@ -608,53 +532,21 @@ offspring.[^11]
 Surah al-Mudaththir – Verses 18-25
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ فَكَّرَ وَقَدَّرَ
-  </p>
-</blockquote>
+> إِنَّهُ فَكَّرَ وَقَدَّرَ
 
-<blockquote dir="rtl">
-  <p>
-فَقُتِلَ كَيْفَ قَدَّرَ
-  </p>
-</blockquote>
+> فَقُتِلَ كَيْفَ قَدَّرَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قُتِلَ كَيْفَ قَدَّرَ
-  </p>
-</blockquote>
+> ثُمَّ قُتِلَ كَيْفَ قَدَّرَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ نَظَرَ
-  </p>
-</blockquote>
+> ثُمَّ نَظَرَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ عَبَسَ وَبَسَرَ
-  </p>
-</blockquote>
+> ثُمَّ عَبَسَ وَبَسَرَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ
-  </p>
-</blockquote>
+> ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ
-  </p>
-</blockquote>
+> فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ
-  </p>
-</blockquote>
+> إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ
 
 ***18. He thought and plotted [against the Qur’an].***  
 ***19. So let him be cursed: how he plotted [against the Truth]!***  
@@ -773,35 +665,15 @@ inimitability.
 Surah al-Mudaththir – Verses 26-30
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَأُصْلِيهِ سَقَرَ
-  </p>
-</blockquote>
+> سَأُصْلِيهِ سَقَرَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا سَقَرُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا سَقَرُ
 
-<blockquote dir="rtl">
-  <p>
-لَا تُبْقِي وَلَا تَذَرُ
-  </p>
-</blockquote>
+> لَا تُبْقِي وَلَا تَذَرُ
 
-<blockquote dir="rtl">
-  <p>
-لَوَّاحَةٌ لِّلْبَشَرِ
-  </p>
-</blockquote>
+> لَوَّاحَةٌ لِّلْبَشَرِ
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْهَا تِسْعَةَ عَشَرَ
-  </p>
-</blockquote>
+> عَلَيْهَا تِسْعَةَ عَشَرَ
 
 ***26. I will cast him soon into Hell.***  
 ***27. And you are unaware of the Hell.***  
@@ -908,18 +780,14 @@ such derisive remarks.
 Surah al-Mudaththir – Verse 31
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا
-جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا
-لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ
-آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ
-وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
-وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ
-يُضِلُّ اللَّهُ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَمَا يَعْلَمُ
-جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
-  </p>
-</blockquote>
+> وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا
+> جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا
+> لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ
+> آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ
+> وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
+> وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ
+> يُضِلُّ اللَّهُ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَمَا يَعْلَمُ
+> جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
 ***31. And We have set none but angels as guardians of the Fire. And We
 have fixed their number only as a trial for the disbelievers, in order
@@ -1079,23 +947,11 @@ according attention to the seriousness of Divine torment.
 Surah al-Mudaththir – Verses 32-34
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا وَالْقَمَرِ
-  </p>
-</blockquote>
+> كَلَّا وَالْقَمَرِ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذْ أَدْبَرَ
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذْ أَدْبَرَ
 
-<blockquote dir="rtl">
-  <p>
-وَالصُّبْحِ إِذَا أَسْفَرَ
-  </p>
-</blockquote>
+> وَالصُّبْحِ إِذَا أَسْفَرَ
 
 ***32. It is not what they imagine! By the moon!***  
 ***33. And the night when it withdraws,***  
@@ -1142,23 +998,11 @@ the daybreak of monotheism.
 Surah al-Mudaththir – Verses 35-37
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا لَإِحْدَى الْكُبَرِ
-  </p>
-</blockquote>
+> إِنَّهَا لَإِحْدَى الْكُبَرِ
 
-<blockquote dir="rtl">
-  <p>
-نَذِيرًا لِّلْبَشَرِ
-  </p>
-</blockquote>
+> نَذِيرًا لِّلْبَشَرِ
 
-<blockquote dir="rtl">
-  <p>
-لِمَن شَاءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
-  </p>
-</blockquote>
+> لِمَن شَاءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
 
 ***35. It [the frightful incidents on the Day of Resurrection] is but
 one of the greatest issues.***  
@@ -1202,53 +1046,21 @@ growth or its decadence and lagging behind.
 Surah al-Mudaththir – Verses 38-45
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا أَصْحَابَ الْيَمِينِ
-  </p>
-</blockquote>
+> إِلَّا أَصْحَابَ الْيَمِينِ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتٍ يَتَسَاءَلُونَ
-  </p>
-</blockquote>
+> فِي جَنَّاتٍ يَتَسَاءَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْمُجْرِمِينَ
-  </p>
-</blockquote>
+> عَنِ الْمُجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا سَلَكَكُمْ فِي سَقَرَ
-  </p>
-</blockquote>
+> مَا سَلَكَكُمْ فِي سَقَرَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
-  </p>
-</blockquote>
+> قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
-  </p>
-</blockquote>
+> وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ
-  </p>
-</blockquote>
+> وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ
 
 ***38. Every person is a pledge for what he has earned,***  
 ***39. Except those on the Right [whose records of deeds are given to
@@ -1370,23 +1182,11 @@ sacrilege, and dissemination of disbelief.
 Surah al-Mudaththir – Verses 46-48
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ أَتَانَا الْيَقِينُ
-  </p>
-</blockquote>
+> حَتَّىٰ أَتَانَا الْيَقِينُ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
-  </p>
-</blockquote>
+> فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
 
 ***46. "And we used to belie the Day of Recompense at all times,***  
 ***47. "Until there came to us the death."***  
@@ -1563,23 +1363,11 @@ may not be of any avail.[^34]
 Surah al-Mudaththir – Verses 49-51
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ
-  </p>
-</blockquote>
+> فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ
-  </p>
-</blockquote>
+> كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فَرَّتْ مِن قَسْوَرَةٍ
-  </p>
-</blockquote>
+> فَرَّتْ مِن قَسْوَرَةٍ
 
 ***49. Then, why do they turn away from the reminder?***  
 ***50. As if they were frightened wild asses,***  
@@ -1627,29 +1415,13 @@ whereas they hear nothing but the reminder aiming at their awakening.
 Surah al-Mudaththir – Verses 52-55
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً
-  </p>
-</blockquote>
+> بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ
-  </p>
-</blockquote>
+> كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّهُ تَذْكِرَةٌ
-  </p>
-</blockquote>
+> كَلَّا إِنَّهُ تَذْكِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ شَاءَ ذَكَرَهُ
-  </p>
-</blockquote>
+> فَمَنْ شَاءَ ذَكَرَهُ
 
 ***52. Nay, everyone of them desires that he should receive separate
 letters [from God Almighty].***  
@@ -1708,12 +1480,8 @@ man may find his path unto Truth.
 Surah al-Mudaththir – Verse 56
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَذْكُرُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ
-وَأَهْلُ الْمَغْفِرَةِ
-  </p>
-</blockquote>
+> وَمَا يَذْكُرُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ
+> وَأَهْلُ الْمَغْفِرَةِ
 
 ***56. And no one may receive admonition unless Allah wills. And He is
 the One, deserving that mankind should stand in awe of Him, and He is
@@ -1872,5 +1640,4 @@ Verse in question.
 [^37]: The exegetic sources, e.g. those by Qurtubi and Maraghi.
 
 [^38]: Tafsir Burhan, vol. 4, p. 405.
-
 

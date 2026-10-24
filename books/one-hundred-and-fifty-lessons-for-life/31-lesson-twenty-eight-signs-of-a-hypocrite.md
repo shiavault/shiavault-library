@@ -5,12 +5,8 @@ Imam As-Sadiq (a.s.) said:
 
 Luqman said to his son:
 
-<blockquote dir="rtl">
-  <p>
-"لِمُنافِقِ ثَلاثُ عَلامات: يُخَالِفُ لِسانُهُ قَلْبَهُ وَ قَلْبُهُ
-فِعْلَهُ وَ عَلانِيَتُهُ سَرِيْرَتَهُ"
-  </p>
-</blockquote>
+> "لِمُنافِقِ ثَلاثُ عَلامات: يُخَالِفُ لِسانُهُ قَلْبَهُ وَ قَلْبُهُ
+> فِعْلَهُ وَ عَلانِيَتُهُ سَرِيْرَتَهُ"
 
 Translation
 -----------
@@ -35,5 +31,4 @@ media, is in stark contrast with what is going on in the heart of these
 societies.
 
 [^1]: Bihar al-Anwar book, volume 15
-
 

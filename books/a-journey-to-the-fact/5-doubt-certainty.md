@@ -472,4 +472,3 @@ that, faith in God remained unshaken and atheism was defeated.
 ***F*** Thank God for leading us to this way, which we couldn’t
 otherwise find without His mercy. OK son go to bed now, good night!
 
-

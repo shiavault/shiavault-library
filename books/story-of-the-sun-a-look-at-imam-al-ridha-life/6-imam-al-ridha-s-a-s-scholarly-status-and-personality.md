@@ -129,4 +129,3 @@ believing that he was the last Imam who was still alive. (Dihkhuda)
 
 [^10]: ‘Uyun Akhbar al-Ridha (a.s.), 2/139; al-Tawhid, 417.
 
-

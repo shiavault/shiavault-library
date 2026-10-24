@@ -309,4 +309,3 @@ decline to lead the prayers. He will call upon the incumbent Imam of the
 Muslims to step forward and lead the prayers. All scholars of traditions
 and commentators are agreed on this latter point.
 
-

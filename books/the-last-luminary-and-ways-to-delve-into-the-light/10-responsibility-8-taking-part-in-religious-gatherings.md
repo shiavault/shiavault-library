@@ -10,15 +10,11 @@ of true love for our Imam.
 
 A companion narrated that Imam Muhammad b. ‘Ali al-Baqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أَتَخْلُونَ وَ تَتَحَدَّثُونَ وَ تَقُولُونَ مَا شِئْـتُمْ؟ فَقُلْتُ:
-أَيِّ وَ اللٌّهِ... فَقَالَ : أَمَا وَ اللٌّهِ لَوَدِدْتُ أَنِّي
-مَعَكُمْ فِي بَعْضِ تِلْكَ الْمَوَاطِنِ أَمَا وَ اللٌّهِ إِنِّي
-لَأُحِبُّ رِيْحَكُمْ وَ أَرْوَاحَكُمْ وَ أَنَّكُمْ عَلى دِينِ اللٌّهِ
-وَ دِينِ مَلاَئِكَتِهِ فَأَعِينُوا بِوَرَعٍ وَ اجْتِهَادٍ
-  </p>
-</blockquote>
+> أَتَخْلُونَ وَ تَتَحَدَّثُونَ وَ تَقُولُونَ مَا شِئْـتُمْ؟ فَقُلْتُ:
+> أَيِّ وَ اللٌّهِ... فَقَالَ : أَمَا وَ اللٌّهِ لَوَدِدْتُ أَنِّي
+> مَعَكُمْ فِي بَعْضِ تِلْكَ الْمَوَاطِنِ أَمَا وَ اللٌّهِ إِنِّي
+> لَأُحِبُّ رِيْحَكُمْ وَ أَرْوَاحَكُمْ وَ أَنَّكُمْ عَلى دِينِ اللٌّهِ
+> وَ دِينِ مَلاَئِكَتِهِ فَأَعِينُوا بِوَرَعٍ وَ اجْتِهَادٍ
 
 “Do you seclude yourselves and speak to one another about whatever
 pleases you (in regards to the teachings of Allah)?” I replied: “Yes, by
@@ -31,5 +27,4 @@ the religion of Allah and the religion of His Angels so help (one
 another) to observe piety and struggle (in these regards).”[^1]
 
 [^1]: al-Kafi, vol. 2, pg. 187, no. 5
-
 

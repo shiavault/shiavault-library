@@ -165,9 +165,7 @@ he gives ear and is a witness. Holy Qur'an (50:38-37)
 
 And praise be to Allah, Lord of the worlds.
 
-
 **Endnotes**
-
 
 1- (a.s.) are the abbreviations of the Arabic phrase aloyhi/alayha/
 alayhim/ as-salam which mean May peace be upon him/her/them'.
@@ -199,5 +197,4 @@ under the title The Mingling of the Two Sexes in Islam,' p. 39
 12- Ibid
 
 13- Ibid
-
 

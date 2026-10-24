@@ -248,4 +248,3 @@ number? Is your grouping together anything but a scattering apart?'
 
 [^1]: Ibn Tawus, al-Luhuf fi Qatla al-Tufuf, 3.
 
-

@@ -8,10 +8,5 @@ step towards good deeds and acquiring the pleasure of the Most Merciful,
 and a means of repelling Satan.
 
 > 1ـ لاإلهَ إلاّ اللّهُ عَزيمَةُ الإيمانِ، وفاتِحَةُ الإحْسانِ،
-<blockquote dir="rtl">
-  <p>
-ومَرْضاةُ الرَّحْمنِ، وَمَدْحَرَةُ الشَّيْطانِ.
-  </p>
-</blockquote>
-
+> ومَرْضاةُ الرَّحْمنِ، وَمَدْحَرَةُ الشَّيْطانِ.
 

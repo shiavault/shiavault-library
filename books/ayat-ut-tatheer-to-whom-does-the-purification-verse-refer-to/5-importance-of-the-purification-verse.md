@@ -71,4 +71,3 @@ without fanaticism, personal desire, arrogance, or close-mindedness!
 Those are the people who have been guided by Allah (SWT) and they are
 the ultimate winners and victors!
 
-

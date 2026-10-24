@@ -44,4 +44,3 @@ Many men of high caliber from both sides died, especially Ammar Ibn
 Yasir, the great Companion of the Prophet (S), who was 90 years old and
 fought on Imam ‘Ali's side against Mu'awiya.
 
-

@@ -111,4 +111,3 @@ Islam can bestow upon a Muslim in this world. The loved ones of Muhammad
 and Ali won eight of them in the lifetime of the former, and they were
 destined to win many more after his death. May God bless them all.
 
-

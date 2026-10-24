@@ -116,4 +116,3 @@ A’laam by Zarkali; and Fawaidul Usul by Dr. Mahmud Shahabi
 
 [^3]: Al-Risala, page 12
 
-

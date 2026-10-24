@@ -522,4 +522,3 @@ Friday, the strictly lunar calendar, and pilgrimage in the twelfth
 month, and fasting in the ninth, are merely reforms going back to the
 Bible.
 
-

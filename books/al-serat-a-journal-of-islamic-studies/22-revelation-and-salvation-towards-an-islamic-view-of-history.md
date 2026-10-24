@@ -608,4 +608,3 @@ Pre-Islamic Times, London: Longman, 1979, pp. 41 49. See also Matt 3:
 [^21] See Guillaume. op. cit., pp. 146-50.
 [^22] See Luke 14:16-24
 
-

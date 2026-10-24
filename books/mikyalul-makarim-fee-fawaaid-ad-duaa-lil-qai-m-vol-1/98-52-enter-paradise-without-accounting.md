@@ -16,4 +16,3 @@ ones fitting this description most perfectly.
 
 [^1]: Tohaf al-Uqool, Vol. 8, Pg. 227
 
-

@@ -125,4 +125,3 @@ a manner that her husband had to be angry again.[^33]
 [^32] Al-Gharat: 75/1.
 [^33] Al-Manaqib: 106/2.
 
-

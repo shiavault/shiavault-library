@@ -50,4 +50,3 @@ tampering has occurred in the Qur’an.
 
 [^1]: Ijazul Qur’an, p.41
 
-

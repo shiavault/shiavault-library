@@ -93,4 +93,3 @@ And now, as a conclusion one can see how people can work together, even
 internationally - neglecting any material interest in it. … Can this be
 the unselfish future already?
 
-

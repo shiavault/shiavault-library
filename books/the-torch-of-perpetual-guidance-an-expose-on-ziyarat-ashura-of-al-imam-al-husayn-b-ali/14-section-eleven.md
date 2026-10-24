@@ -1,12 +1,8 @@
 Section Eleven
 ==============
 
-<blockquote dir="rtl">
-  <p>
-وَلَعَنَ اللّهُ ابْنَ مَرْجانَةَ، وَلَعَنَ اللّهُ عُمَرَ بْنَ سَعْدٍ،
-وَلَعَنَ اللّهُ شِمْراً
-  </p>
-</blockquote>
+> وَلَعَنَ اللّهُ ابْنَ مَرْجانَةَ، وَلَعَنَ اللّهُ عُمَرَ بْنَ سَعْدٍ،
+> وَلَعَنَ اللّهُ شِمْراً
 
 “May the curse of Allah be upon Ibne Marjana and may the curse of Allah
 be upon ‘‘Umar b. Sa’ad and may the curse of Allah be upon Shimr.”
@@ -63,5 +59,4 @@ peace treaty with Imam Husayn and to ensure that he was killed to
 prevent any more ‘rebellion’ in the nation. His sins are too numerous to
 recount here, however his greatest crime was severing the head off of
 the body of Imam Husayn.
-
 

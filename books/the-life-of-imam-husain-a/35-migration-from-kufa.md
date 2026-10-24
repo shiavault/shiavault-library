@@ -756,7 +756,7 @@ whomsoever Thou pleasest and takest away the kingdom from whomsoever
 Thou pleasest, and Thou exaltest whom Thou pleasest and abasest whom
 Thou pleasest; in Thine hand is the good; surely, Thou hast power over
 all things…[1]and Allah grants His kingdom to whom He
-pleases”<sup>(</sup>[2]<sup>)(</sup>[3]<sup>)</sup>**
+pleases”([2])([3])**
 
 That tyrant thought that the criterion of excellence before Allah was
 temporal power and in this way he claimed his superiority over Imam. He
@@ -1506,7 +1506,7 @@ Avoid most of suspicion, for surely suspicion in some cases is a sin,
 and do not spy nor let some of you backbite others. Does one of you like
 to eat the flesh of his dead brother? But you abhor it; and be careful
 of (your duty to) Allah, surely Allah is Oft-returning (to mercy),
-Merciful.**<sup>(</sup>**[1]**<sup>)(</sup>**[2]**<sup>)</sup>
+Merciful.**(**[1]**)(**[2]**)
 
 Ghazzali has uttered misguided statements; because he has denied the
 evident facts, just as his partner, Ibn Taimiyyah had done, while

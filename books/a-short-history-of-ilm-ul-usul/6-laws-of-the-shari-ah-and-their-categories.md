@@ -114,4 +114,3 @@ do or not to do a permissible act. Accordingly the *Mukallaf* enjoys
 freedom in permissible actions; if he wishes he can do it and if he
 wishes he can refrain from doing it.
 
-

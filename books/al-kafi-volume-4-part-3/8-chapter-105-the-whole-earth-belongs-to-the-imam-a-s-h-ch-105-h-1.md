@@ -160,7 +160,6 @@ the differences. They went to Hisham but he supported the idea of abu
 Malik. Ibn abu 'Umayr became angry and distanced himself from Hisham
 thereafter."
 
-
 **Chapter 106 : Manners of the Imams in the Matters of Food and Clothes
 as Leaders with Divine Authority H , Ch. 106, h 1**
 
@@ -245,5 +244,4 @@ for a given time is the garment that people of that time would use.
 However, when our Al- Qa'im will rise with Divine Authority, he will
 wear the kind of garment that Ali (a.s.) did and he will live just as
 Ali (a.s.) lived."
-
 

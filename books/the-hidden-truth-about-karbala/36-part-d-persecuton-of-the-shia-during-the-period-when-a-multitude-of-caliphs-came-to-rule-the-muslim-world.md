@@ -136,4 +136,3 @@ the emissary was hanged.[^2]
 [^2]: Shahide Salis (the Third Martyr) by Mirza Muhammad Hadi Sahib Aziz
 Lucknowi, p. 12-13.
 
-

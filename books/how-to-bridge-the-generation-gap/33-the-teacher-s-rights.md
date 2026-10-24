@@ -9,11 +9,7 @@ the teachers’ right.We must appreciate their existence and should
 discharge our duties and obligations towards them. It is believed that
 Imam ‘Ali (as) has said.
 
-<blockquote dir="rtl">
-  <p>
-من علمني حرفاً فقد صيرني عبداً
-  </p>
-</blockquote>
+> من علمني حرفاً فقد صيرني عبداً
 
 *“The one, who had taught me one word had indeed earned the rights of
 master hood upon me.”*
@@ -27,101 +23,37 @@ A famous Iraqi poet known as Rassafi has written a beautiful and
 meaningful poem in praising teachers, describing their contributions in
 an appropriate manner, as follows:
 
-<blockquote dir="rtl">
-  <p>
-اذا كان هل الناس مدعاة غيهم
-  </p>
-</blockquote>
+> اذا كان هل الناس مدعاة غيهم
 
-<blockquote dir="rtl">
-  <p>
-فليس سوى التعليم للرشد سلم
-  </p>
-</blockquote>
+> فليس سوى التعليم للرشد سلم
 
-<blockquote dir="rtl">
-  <p>
-فلو قيل من يستنهض الناس للعلى
-  </p>
-</blockquote>
+> فلو قيل من يستنهض الناس للعلى
 
-<blockquote dir="rtl">
-  <p>
-اذا ساء محياهم لقلت المعلم
-  </p>
-</blockquote>
+> اذا ساء محياهم لقلت المعلم
 
-<blockquote dir="rtl">
-  <p>
-معلم ابناء البلاد طبيبهم
-  </p>
-</blockquote>
+> معلم ابناء البلاد طبيبهم
 
-<blockquote dir="rtl">
-  <p>
-يداوى سقام الجهل والجهل مسقم
-  </p>
-</blockquote>
+> يداوى سقام الجهل والجهل مسقم
 
-<blockquote dir="rtl">
-  <p>
-وما هو الا كوكب في سمائهم
-  </p>
-</blockquote>
+> وما هو الا كوكب في سمائهم
 
-<blockquote dir="rtl">
-  <p>
-به يهتدى السارى الى المجد منهم
-  </p>
-</blockquote>
+> به يهتدى السارى الى المجد منهم
 
-<blockquote dir="rtl">
-  <p>
-فلا تبخسن حق المعلم انه
-  </p>
-</blockquote>
+> فلا تبخسن حق المعلم انه
 
-<blockquote dir="rtl">
-  <p>
-عظيم كحق الوالدين واعظم
-  </p>
-</blockquote>
+> عظيم كحق الوالدين واعظم
 
-<blockquote dir="rtl">
-  <p>
-فان له منك الحجى وهو جوهر
-  </p>
-</blockquote>
+> فان له منك الحجى وهو جوهر
 
-<blockquote dir="rtl">
-  <p>
-وللوالدين العظم واللحم والدم
-  </p>
-</blockquote>
+> وللوالدين العظم واللحم والدم
 
-<blockquote dir="rtl">
-  <p>
-الا النما تعليمنا الناس واجب
-  </p>
-</blockquote>
+> الا النما تعليمنا الناس واجب
 
-<blockquote dir="rtl">
-  <p>
-وان على الجهال ان يتعلموا
-  </p>
-</blockquote>
+> وان على الجهال ان يتعلموا
 
-<blockquote dir="rtl">
-  <p>
-وما اخذ الله العهود على الورى
-  </p>
-</blockquote>
+> وما اخذ الله العهود على الورى
 
-<blockquote dir="rtl">
-  <p>
-بان يعلموا حتى قضى ان يعلموا
-  </p>
-</blockquote>
+> بان يعلموا حتى قضى ان يعلموا
 
 *“Whenever ignorance misleads people, there is nothing for progress
 except learning. If I am asked, 'when people are deep in corruption, who
@@ -140,17 +72,9 @@ people to learn without first making* *arrangement of divine teachers
 
 A Persian poet too, says:
 
-<blockquote dir="rtl">
-  <p>
-مقدار معلم ز پدر بيش بود بيش
-  </p>
-</blockquote>
+> مقدار معلم ز پدر بيش بود بيش
 
-<blockquote dir="rtl">
-  <p>
-اين پرورش تن دهد، آن پرورش جان
-  </p>
-</blockquote>
+> اين پرورش تن دهد، آن پرورش جان
 
 *“Higher than rank of the father is that of the teacher. As the former
 nourishes one's body* *while the later, his soul.*
@@ -188,5 +112,4 @@ useful to the society.
 [^2]: The Book of Ethics, Part 1. p. 37
 
 [^3]: The Philosophy of Education, Vol. 1 p. 41
-
 

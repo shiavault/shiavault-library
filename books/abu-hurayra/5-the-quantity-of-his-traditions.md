@@ -293,4 +293,3 @@ sixty-eight or sixty-nine of hijra. Al-Qaysarani said in his book
 Rijal-as-Sahihayn that he had died in ninety-two. Allah (S.w.T.) is the
 most aware.
 
-

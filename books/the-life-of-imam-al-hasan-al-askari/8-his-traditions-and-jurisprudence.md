@@ -298,4 +298,3 @@ To whom would the inheritance be?’
 The imam (a.s.) replied, ‘The inheritance would be for the closest one,
 inshallah.’[^180]
 
-

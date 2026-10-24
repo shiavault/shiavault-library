@@ -4,17 +4,9 @@ Sermon 80: O people, women are ...
 *After the Battle of Jamal,*[^1] *Concerning Women and their
 Shortcomings.*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-بعد فراغه من حرب الجمل، في ذم النساء
-  </p>
-</blockquote>
+> بعد فراغه من حرب الجمل، في ذم النساء
 
 O people! Women are deficient in Faith, deficient in shares and
 deficient in intelligence. As regards the deficiency in their Faith, it
@@ -28,19 +20,15 @@ So beware of the evils of women. Be on your guard even from those of
 them who are (reportedly) good. Do not obey them even in good things so
 that they may not attract you to evils.
 
-<blockquote dir="rtl">
-  <p>
-مَعَاشِرَ النَّاسِ، إِنَّ النِّسَاءَ نَوَاقِصُ الاْيمَانِ، نَوَاقِصُ
-الْحُظُوظِ، نَوَاقِصُ الْعُقُولِ: فَأَمَّا نُقْصَانُ إِيمَانِهِنَّ
-فَقُعُودُهُنَّ عَنِ الصَّلاةِ وَالصِّيَامِ فِي أَيَّامِ حَيْضِهِنَّ،
-وَأَمَّا نُقْصَانُ عُقُولِهِنَّ فَشَهَادَةُ امْرَأَتَيْنِ مِنْهُنّ
-كَشَهَادَةِ الرَّجُلِ الْوَاحِدِ، وَأَمَّا نُقْصَانُ حُظُوظِهِنَّ
-فَمَوَارِيثُهُنَّ عَلَى الاْنْصَافِ مِنْ مَوارِيثِ الرِّجَالِ;
-فَاتَّقُوا شِرَارَ النِّسَاءِ، وَكُونُوا مِنْ خِيَارِهِنَّ عَلَى
-حَذَر، وَلاَتُطِيعُوهُنَّ فِي المَعْرُوفِ حَتَّى لاَ يَطْمَعْنَ فِي
-المُنكَرِ.
-  </p>
-</blockquote>
+> مَعَاشِرَ النَّاسِ، إِنَّ النِّسَاءَ نَوَاقِصُ الاْيمَانِ، نَوَاقِصُ
+> الْحُظُوظِ، نَوَاقِصُ الْعُقُولِ: فَأَمَّا نُقْصَانُ إِيمَانِهِنَّ
+> فَقُعُودُهُنَّ عَنِ الصَّلاةِ وَالصِّيَامِ فِي أَيَّامِ حَيْضِهِنَّ،
+> وَأَمَّا نُقْصَانُ عُقُولِهِنَّ فَشَهَادَةُ امْرَأَتَيْنِ مِنْهُنّ
+> كَشَهَادَةِ الرَّجُلِ الْوَاحِدِ، وَأَمَّا نُقْصَانُ حُظُوظِهِنَّ
+> فَمَوَارِيثُهُنَّ عَلَى الاْنْصَافِ مِنْ مَوارِيثِ الرِّجَالِ;
+> فَاتَّقُوا شِرَارَ النِّسَاءِ، وَكُونُوا مِنْ خِيَارِهِنَّ عَلَى
+> حَذَر، وَلاَتُطِيعُوهُنَّ فِي المَعْرُوفِ حَتَّى لاَ يَطْمَعْنَ فِي
+> المُنكَرِ.
 
 Alternative Sources for Sermon 80
 ---------------------------------
@@ -98,5 +86,4 @@ be obeyed in all matters however evil, the inevitable consequence
 whereof will be destruction and ruin. ash-Shaykh Muhammad \`Abduh writes
 about this view of Amir al-mu'minin as under: Amir al-mu'minin has said
 a thing which is corroborated by experiences of centuries.
-
 

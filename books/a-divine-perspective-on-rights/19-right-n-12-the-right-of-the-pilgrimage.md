@@ -1,19 +1,11 @@
 Right n. 12: The Right of the Pilgrimage
 ========================================
 
-<blockquote dir="rtl">
-  <p>
-حق الحج
-  </p>
-</blockquote>
+> حق الحج
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ الحَجّ أَنْ تَعْلَمَ أَنّه وِفادةٌ إلى رَبّكَ، و فِرارٌ
-إليه من ذُنوبكَ وفيهِ قبولُ تَوبتِكَ وقَضاءُ الفَرضِ الَّذي أوجَبَه
-الله عَليك
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ الحَجّ أَنْ تَعْلَمَ أَنّه وِفادةٌ إلى رَبّكَ، و فِرارٌ
+> إليه من ذُنوبكَ وفيهِ قبولُ تَوبتِكَ وقَضاءُ الفَرضِ الَّذي أوجَبَه
+> الله عَليك
 
 **And the right of pilgrimage**[^1] **is that you should know that it is
 an arrival at the threshold of your Lord and a flight to Him from your
@@ -31,20 +23,12 @@ Ka’ba: the First House
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا
-وَهُدًى لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا
+> وَهُدًى لِّلْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فِيهِ آيَاتٌ بَيِّـنَاتٌ مَّقَامُ إِبْرَاهِيمَ وَمَن دَخَلَهُ كَانَ
-آمِنًا وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
-إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ الله غَنِيٌّ عَنِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فِيهِ آيَاتٌ بَيِّـنَاتٌ مَّقَامُ إِبْرَاهِيمَ وَمَن دَخَلَهُ كَانَ
+> آمِنًا وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
+> إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ الله غَنِيٌّ عَنِ الْعَالَمِينَ
 
 ***“The first House (of worship) appointed for men was that at
 Bakka***[^2]***: Full of blessing and of guidance for all kinds of
@@ -61,12 +45,8 @@ history and Islam that this house was built by Adam . Later it was
 damaged by a tornado at the time of Noah . The Prophet Abraham
 reconstructed it as we read in the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-عِندَ بَيْتِكَ
-  </p>
-</blockquote>
+> رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
+> عِندَ بَيْتِكَ
 
 ***"O our Lord! I have made some of my offspring to dwell in a valley
 without cultivation, by Thy Sacred House…” [The Holy Qur’an, Ibrahim
@@ -76,13 +56,9 @@ This verse implies that there were some remains of the Ka’ba when
 Abraham and his offspring and wife[^3] arrived at Mecca. Also, consider
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
-وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ
-الْعَلِيمُ
-  </p>
-</blockquote>
+> وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
+> وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ
+> الْعَلِيمُ
 
 ***“And remember Abraham and Isma'il raised the foundations of the House
 (with this prayer): "Our Lord! Accept (this service) from us: For Thou
@@ -93,14 +69,10 @@ This verse shows that the foundations of the Ka’ba existed, and all that
 Abraham and Isma’il did was to build the House. We can conclude the same
 thing from the writings of the Commander of the Faithful :
 
-<blockquote dir="rtl">
-  <p>
-أَلا تَرَوْنَ أَنّ اللهَ سُبحانهُ اخْتبَرَ الأوّليِنَ مِن لَدُنْ آدَمَ
-صَلواتُ اللهِ عَليهِ إلى الآخِرينَ مِن هذا العالمِ بِأحْجارٍ لا تَضُرّ
-ولا تَنفَعُ ولا تُبصِرُ ولا تَسمَعُ فَجَعلها بَيتَهُ الحَرامَ … ثمّ
-أَمَر آدَمَ عليهِ السلامُ ووِلدَهُ أن يُثْنوا أَعطافَهُم نحْوَهُ.
-  </p>
-</blockquote>
+> أَلا تَرَوْنَ أَنّ اللهَ سُبحانهُ اخْتبَرَ الأوّليِنَ مِن لَدُنْ آدَمَ
+> صَلواتُ اللهِ عَليهِ إلى الآخِرينَ مِن هذا العالمِ بِأحْجارٍ لا تَضُرّ
+> ولا تَنفَعُ ولا تُبصِرُ ولا تَسمَعُ فَجَعلها بَيتَهُ الحَرامَ … ثمّ
+> أَمَر آدَمَ عليهِ السلامُ ووِلدَهُ أن يُثْنوا أَعطافَهُم نحْوَهُ.
 
 *“Do you not see that God the Praised One tested the earlier ones from
 Adam onwards till the later ones in this world, by expecting them to
@@ -165,12 +137,8 @@ have stated the following conditions for going on the pilgrimage:
 
 Again, consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
-سَبِيلا
-  </p>
-</blockquote>
+> وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
+> سَبِيلا
 
 ***Pilgrimage to the Holy House is a duty men owe to God, - those who
 can afford the journey...” [The Holy Qur’an, Al-i-Imran 3:96-97]***
@@ -180,11 +148,7 @@ for those who can afford the journey. We can also conclude that this
 pilgrimage is not limited to Muslims. Rather it is incumbent upon all
 the people to go there. This is similar to the expression that
 
-<blockquote dir="rtl">
-  <p>
-الكُفّارُ مُكَلّفونَ بِالفُروعِ كَما أنَّهُم مُكَلّفونَ بِالأصُولِ.
-  </p>
-</blockquote>
+> الكُفّارُ مُكَلّفونَ بِالفُروعِ كَما أنَّهُم مُكَلّفونَ بِالأصُولِ.
 
 *“The pagans are duty-bound to perform the branches (of religion) as
 they are bound to abide by the principles.”*
@@ -207,14 +171,10 @@ Whoever has some mucous in his chest can cough it up.[^10] Will you let
 me ask a question?” The Imam granted him permission to do so. He was so
 rude that he dared to say:
 
-<blockquote dir="rtl">
-  <p>
-الى كمْ تدُوسونَ هذا البَيدرَ وتلوذُونَ بهذا الحَجرِ وتعبُدونَ هذا
-البيتَ المرفوعَ بالطّوبِ والمدَرِ وتُهروِلونَ حولَهُ هروَلَةَ البعيرِ
-إذا نفرَ؟ مَن فكّر في هذا وقدّرَ علِمَ أنهُ فِعْلُ غيرِ حكيمٍ ولا ذي
-نظرٍ. فقُل فأنتَ رأسُ هذا الأمرِ وسَنامُهُ وأبوكَ أُسُّهُ ونِظامُهُ.
-  </p>
-</blockquote>
+> الى كمْ تدُوسونَ هذا البَيدرَ وتلوذُونَ بهذا الحَجرِ وتعبُدونَ هذا
+> البيتَ المرفوعَ بالطّوبِ والمدَرِ وتُهروِلونَ حولَهُ هروَلَةَ البعيرِ
+> إذا نفرَ؟ مَن فكّر في هذا وقدّرَ علِمَ أنهُ فِعْلُ غيرِ حكيمٍ ولا ذي
+> نظرٍ. فقُل فأنتَ رأسُ هذا الأمرِ وسَنامُهُ وأبوكَ أُسُّهُ ونِظامُهُ.
 
 *“For how long will you trample on this threshing ground and seek refuge
 in this rock and worship this house made of bricks and clay, and trot
@@ -226,13 +186,9 @@ and your father was its foundation and its criterion.”*
 These words implied his inner wickedness and his purely material
 outlook. The Imam replied:
 
-<blockquote dir="rtl">
-  <p>
-إِنّ مَن أضلّهُ اللهُ وأعمى قلبَهُ استَوخمَ الحقَّ ولم يستعذِبْهُ
-وصارَ الشَيطانُ وليَّهُ وربَّهُ ويورِدُهُ مناهِلَ الهَلَكَةِ ولا
-يُصدِرُهُ.
-  </p>
-</blockquote>
+> إِنّ مَن أضلّهُ اللهُ وأعمى قلبَهُ استَوخمَ الحقَّ ولم يستعذِبْهُ
+> وصارَ الشَيطانُ وليَّهُ وربَّهُ ويورِدُهُ مناهِلَ الهَلَكَةِ ولا
+> يُصدِرُهُ.
 
 *“He whom God leads astray and whose heart He blinds, finds the truth to
 be indigestible and disagreeable. Satan becomes his friend and his
@@ -258,14 +214,10 @@ various stages of servitude and reached the position of proximity to
 God. It is clear that worshipping is the movement of man’s soul towards
 God. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إِ نمَا فُرِضَتِ الصّلاةُ وأُمِر بِالحَجِّ والطّوافِ وأُشْعِرتِ
-المَناسِكُ لإقَامَةِ ذِكْرِ اللهِ، فإِذا لم يكُنْ في قَلبِكَ
-لِلمذكُورِ الّذي هو المَقصُودُ والمُبتَغى عَظَمَةٌ ولا هَيبَةٌ فَما
-قيمَةُ ذِكْرِك؟
-  </p>
-</blockquote>
+> إِ نمَا فُرِضَتِ الصّلاةُ وأُمِر بِالحَجِّ والطّوافِ وأُشْعِرتِ
+> المَناسِكُ لإقَامَةِ ذِكْرِ اللهِ، فإِذا لم يكُنْ في قَلبِكَ
+> لِلمذكُورِ الّذي هو المَقصُودُ والمُبتَغى عَظَمَةٌ ولا هَيبَةٌ فَما
+> قيمَةُ ذِكْرِك؟
 
 *“The prayer was made obligatory, performing the pilgrimage and the
 circumambulation of the Ka’ba were commanded, and the rituals (of Hajj)
@@ -296,12 +248,8 @@ tried, his voice got stuck in his throat and he fell down from his
 horse. Malik said: “O’ grandson of the Prophet of God! Say labbayk. You
 must say labbayk.” Then Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-يا بنَ أبي عامِر، كيفَ أجسِرُ أنْ أقولَ: لَبّيْكَ اللّهمَّ لَبّيكَ،
-وأخْشى أنْ يَقولَ عزّ وجلّ لا لَبّيكَ ولا سَعْدَيكَ.
-  </p>
-</blockquote>
+> يا بنَ أبي عامِر، كيفَ أجسِرُ أنْ أقولَ: لَبّيْكَ اللّهمَّ لَبّيكَ،
+> وأخْشى أنْ يَقولَ عزّ وجلّ لا لَبّيكَ ولا سَعْدَيكَ.
 
 *“O son of Abi A’mer! How dare I say “labbayk Allahumma labbayk”*[^14]
 *when I fear that God the Almighty may reply: “No. I neither accept you
@@ -322,24 +270,20 @@ freed from the heavy burden of sins just as when you were first born.
 There are many traditions in this regard. We shall refer to a few of
 them here. It has been quoted on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-إنّ رسُولَ اللهِ صلّى اللهُ عليهِ وآلِهِ تَلَقّاهُ أَعرابيٌّ فقال: يا
-رسولَ اللهِ، إنّي خَرجْتُ أُريدُ الحَجَّ فعَاقَني وأَنا رَجُلٌ مَيِّلٌ
-(يعني كَثيرَ المَالِ) فَمُرْني أَصنَعْ في مَالي ما أَبلُغُ بهِ ما
-يبلُغُ به الحَاجُّ. (قال) فَالتَفَتَ رسُولُ اللهِ الى أبي قُبَيسٍ
-فقال:لو أَنّ أبا قُبَيسٍ لكَ زِنَتُهُ ذَهَبَةٌ حَمراءُ أَنفَقتَهُ في
-سبيلِ اللهِ ما بَلَغتَ ما بَلَغَ الحَاجُّ. إنَّ الحَاجَّ إذا أخَذَ في
-جِهازِهِ لم يَخطُ خُطْوَةً في شَيءٍ مِن جِهازِهِ إِلا كَتَبَ اللهُ
-عَزَّ وجَلَّ لهُ عَشْرَ حَسَناتٍ ومحَى عَنهُ عَشْرَ سَيّئاتٍ ورفعَ له
-عَشْرَ دَرَجَاتٍ، فَإذا رَكِبَ بَعِيرَه ُلم يَرْفَعْ خُفّاً وَلم
-يَضَعْهُ إلاّ كَتَبَ اللهُ لهُ مِثْلَ ذَلِكَ، فإذَا طَافَ بِالبَيْتِ
-خَرَجَ مِن ذُنُوبِه، فإذَا رَمَى الجِمارَ خَرَجَ مِن ذُنُوبِه…
-فَعَدَّدَ رَسُولُ اللهِ كَذا وَكَذا مَوقِفاً إذا وَقَفَها الحَاجُّ
-خَرَجَ مِن ذُنُوبِه ثُمّ قالَ: أَنّى لَكَ أنْ تَبْلُغَ ما يَبلُغُ
-الحاجُّ؟
-  </p>
-</blockquote>
+> إنّ رسُولَ اللهِ صلّى اللهُ عليهِ وآلِهِ تَلَقّاهُ أَعرابيٌّ فقال: يا
+> رسولَ اللهِ، إنّي خَرجْتُ أُريدُ الحَجَّ فعَاقَني وأَنا رَجُلٌ مَيِّلٌ
+> (يعني كَثيرَ المَالِ) فَمُرْني أَصنَعْ في مَالي ما أَبلُغُ بهِ ما
+> يبلُغُ به الحَاجُّ. (قال) فَالتَفَتَ رسُولُ اللهِ الى أبي قُبَيسٍ
+> فقال:لو أَنّ أبا قُبَيسٍ لكَ زِنَتُهُ ذَهَبَةٌ حَمراءُ أَنفَقتَهُ في
+> سبيلِ اللهِ ما بَلَغتَ ما بَلَغَ الحَاجُّ. إنَّ الحَاجَّ إذا أخَذَ في
+> جِهازِهِ لم يَخطُ خُطْوَةً في شَيءٍ مِن جِهازِهِ إِلا كَتَبَ اللهُ
+> عَزَّ وجَلَّ لهُ عَشْرَ حَسَناتٍ ومحَى عَنهُ عَشْرَ سَيّئاتٍ ورفعَ له
+> عَشْرَ دَرَجَاتٍ، فَإذا رَكِبَ بَعِيرَه ُلم يَرْفَعْ خُفّاً وَلم
+> يَضَعْهُ إلاّ كَتَبَ اللهُ لهُ مِثْلَ ذَلِكَ، فإذَا طَافَ بِالبَيْتِ
+> خَرَجَ مِن ذُنُوبِه، فإذَا رَمَى الجِمارَ خَرَجَ مِن ذُنُوبِه…
+> فَعَدَّدَ رَسُولُ اللهِ كَذا وَكَذا مَوقِفاً إذا وَقَفَها الحَاجُّ
+> خَرَجَ مِن ذُنُوبِه ثُمّ قالَ: أَنّى لَكَ أنْ تَبْلُغَ ما يَبلُغُ
+> الحاجُّ؟
 
 *A Bedouin visited the Noble Prophet of God and said: I left my house
 and set out for pilgrimage. However, for some reason I could not
@@ -363,12 +307,8 @@ attains?”*
 
 Then Imam Sadiq added:
 
-<blockquote dir="rtl">
-  <p>
-وَلا تُكتَبُ عَليهِ الذّنوبُ أرْبَعَةَ أشْهُرٍ وتُكْتَبُ لهُ
-الحَسَناتُ إلاّ أنْ يأتِيَ بِكَبِيرَةٍ.
-  </p>
-</blockquote>
+> وَلا تُكتَبُ عَليهِ الذّنوبُ أرْبَعَةَ أشْهُرٍ وتُكْتَبُ لهُ
+> الحَسَناتُ إلاّ أنْ يأتِيَ بِكَبِيرَةٍ.
 
 *“No sins will be recorded for him for four months (after Hajj) while
 his good deeds will be recorded, unless he commits a major sin.”*
@@ -378,12 +318,8 @@ Pilgrimage and Asking Others
 
 When Imam Sajjad heard someone beg from the people, he said:
 
-<blockquote dir="rtl">
-  <p>
-وَيحَكَ، أغَيرَ اللهِ تسأَلُ في هَذا المقامِ؟ إنّه ليُرجَى لمِا في
-بُطونِ الجِبالِ في هذا اليَومِ أن يَكونَ سَعِيداً.
-  </p>
-</blockquote>
+> وَيحَكَ، أغَيرَ اللهِ تسأَلُ في هَذا المقامِ؟ إنّه ليُرجَى لمِا في
+> بُطونِ الجِبالِ في هذا اليَومِ أن يَكونَ سَعِيداً.
 
 *“Shame on you! Are you begging from others in this place? Here God’s
 Mercy is so encompassing that it is even expected that whatever lies in
@@ -401,14 +337,10 @@ other with one dot being the difference. A man asked Imam Sadiq in the
 Al-Haram Mosque: “Whose sin is greater than everyone else’s?” He
 replied:
 
-<blockquote dir="rtl">
-  <p>
-مَن يقِفْ بهَذَينِ المَوقِفَينِ؛ عَرَفَةَ والمُزدَلِفَةِ، وسَعى بَينَ
-هذَينِ الجَبَلَينِ ثمّ طَافَ بهذا البَيتِ وصَلّى خَلفَ مَقامِ
-إبْراهِيمَ ثُمّ قالَ في نَفْسِهِ أو ظَنَّ أنَّ الله لم يَغفِرْ لهُ
-فَهوَ مِن أعظَمِ الناسِ وِزراً.
-  </p>
-</blockquote>
+> مَن يقِفْ بهَذَينِ المَوقِفَينِ؛ عَرَفَةَ والمُزدَلِفَةِ، وسَعى بَينَ
+> هذَينِ الجَبَلَينِ ثمّ طَافَ بهذا البَيتِ وصَلّى خَلفَ مَقامِ
+> إبْراهِيمَ ثُمّ قالَ في نَفْسِهِ أو ظَنَّ أنَّ الله لم يَغفِرْ لهُ
+> فَهوَ مِن أعظَمِ الناسِ وِزراً.
 
 *“Whoever stops at these two stations of Arafeh and Mash’ar, does the
 ceremonies for between the two hills (of Safa and Marwa),
@@ -418,14 +350,10 @@ committed the greatest sin.”*[^16]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِن رَجُلٍ مِن أهْلِ كُورَةٍ وقفَ بِعَرَفَةَ مِن المُؤمِنينَ إلا
-غَفَرَ اللهُ لأَهلِ تِلكَ الكُورَةِ مِن المُؤمِنينَ. ومَا مِن رَجُلٍ
-وقفَ بَعَرَفَةَ مِن أهْلِ بيتٍ مِن المُؤمِنينَ إلا غَفَرَ اللهُ لأهلِ
-ذلكَ البَيتِ مِن المُؤمِنينَ.
-  </p>
-</blockquote>
+> مَا مِن رَجُلٍ مِن أهْلِ كُورَةٍ وقفَ بِعَرَفَةَ مِن المُؤمِنينَ إلا
+> غَفَرَ اللهُ لأَهلِ تِلكَ الكُورَةِ مِن المُؤمِنينَ. ومَا مِن رَجُلٍ
+> وقفَ بَعَرَفَةَ مِن أهْلِ بيتٍ مِن المُؤمِنينَ إلا غَفَرَ اللهُ لأهلِ
+> ذلكَ البَيتِ مِن المُؤمِنينَ.
 
 *“Whenever a faithful man from a village or a town stops in Arafeh, God
 will forgive all the faithful men from that village or town. Whenever a
@@ -442,12 +370,8 @@ God honors man, places the crown of nobility on his head, awakens his
 long asleep conscience, encourages him to be grateful and invites him to
 go on pilgrimage and circumambulate His House.
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
-سَبِيلاً
-  </p>
-</blockquote>
+> وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
+> سَبِيلاً
 
 ***“Pilgrimage to the Sacred House is a duty men owe to God, - those who
 can afford the journey.” [The Holy Qur’an, Al-i-Imran 3:97]***
@@ -463,14 +387,10 @@ The Amazing Blessings of Hajj
 Now let us consider the many blessings that God grants those who visit
 His House. Sa’d Al-Iskafi narrated that he heard Imam Baqir say:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الحَاجَّ إذا أخَذَ في جِهازِهِ لم يَخطُ خُطْوَةً في شَيءٍ مِن
-جِهازِهِ إِلا كَتَبَ اللهُ عَزَّ وجَلَّ لهُ عَشْرَ حَسَناتٍ ومحَى
-عَنهُ عَشْرَ سَيّئاتٍ ورفعَ له عَشْرَ دَرَجَاتٍ حتّى يفْرُغَ مِن
-جِهازِهِ مَتى ما فَرَغ.
-  </p>
-</blockquote>
+> إنَّ الحَاجَّ إذا أخَذَ في جِهازِهِ لم يَخطُ خُطْوَةً في شَيءٍ مِن
+> جِهازِهِ إِلا كَتَبَ اللهُ عَزَّ وجَلَّ لهُ عَشْرَ حَسَناتٍ ومحَى
+> عَنهُ عَشْرَ سَيّئاتٍ ورفعَ له عَشْرَ دَرَجَاتٍ حتّى يفْرُغَ مِن
+> جِهازِهِ مَتى ما فَرَغ.
 
 *“When someone begins preparing his provisions for the Hajj, he does not
 take a step in its preparation but that God the Almighty records ten
@@ -480,13 +400,9 @@ his trip. Then God will give him better rewards.”*[^18]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-الحُجَّاجُ يَصدُرونَ على ثَلاثةِ أصنافٍ؛ صِنفٌ يُعْتَقُ مِن النّارِ
-وَصِنْفٌ يَخْرُجُ من ذُنوبهِ كَهَيئَةِ يومِ وَلدَتهُ أُمُّهُ وصِنْفٌ
-يُحْفَظُ في أَهلِهِ ومَالِهِ، فَذلِكَ أَدْنى مَا يَرجِعُ به الحَاجُّ.
-  </p>
-</blockquote>
+> الحُجَّاجُ يَصدُرونَ على ثَلاثةِ أصنافٍ؛ صِنفٌ يُعْتَقُ مِن النّارِ
+> وَصِنْفٌ يَخْرُجُ من ذُنوبهِ كَهَيئَةِ يومِ وَلدَتهُ أُمُّهُ وصِنْفٌ
+> يُحْفَظُ في أَهلِهِ ومَالِهِ، فَذلِكَ أَدْنى مَا يَرجِعُ به الحَاجُّ.
 
 *“The Hajjis are divided into three groups after they return from Hajj.
 A group of them is freed from the Fire. Another group includes those
@@ -555,5 +471,4 @@ hopeless of God’s mercy is very dangerous. It is a great sin.
 [^18]: Hajj Barname’ye Takamul, p.48, quoted from al-Kafi, v.4, p.254.
 
 [^19]: Ibid, quoted from al-Wafi, v.2, p.4.
-
 

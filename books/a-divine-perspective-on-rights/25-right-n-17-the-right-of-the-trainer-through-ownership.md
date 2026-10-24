@@ -1,22 +1,14 @@
 Right n. 17: The Right of the Trainer through Ownership
 =======================================================
 
-<blockquote dir="rtl">
-  <p>
-حق السائس بالملك
-  </p>
-</blockquote>
+> حق السائس بالملك
 
-<blockquote dir="rtl">
-  <p>
-وأمَّا حَقُّ سَائِسِكَ بالمِلْكِ فَنَحْوٌ مِنْ سَائِسِكَ بالسُّلْطَانِ
-إلاّ أَنَّ هذَا يَمْلِكُ مَا لا يَمْلِكُهُ ذاكَ، تَلْزِمُكَ طَاعَتُهُ
-فِيمَا دَقَّ وَجَلَّ مِنْكَ إلاّ أَنْ تُخرِجَكَ مِنْ وُجُوب حَقِّ
-الله، ويَحُولَ بَينَكَ وبَيْنَ حَقِّهِ وَحُقُوقِ الخَلْقِ، فَإذَا
-قَضَيْتَهُ رَجَعْتَ إلَى حَقِّهِ فَتَشَاغَلْتَ بهِ. ولا قُوَّةَ إلاّ
-باللهِ.
-  </p>
-</blockquote>
+> وأمَّا حَقُّ سَائِسِكَ بالمِلْكِ فَنَحْوٌ مِنْ سَائِسِكَ بالسُّلْطَانِ
+> إلاّ أَنَّ هذَا يَمْلِكُ مَا لا يَمْلِكُهُ ذاكَ، تَلْزِمُكَ طَاعَتُهُ
+> فِيمَا دَقَّ وَجَلَّ مِنْكَ إلاّ أَنْ تُخرِجَكَ مِنْ وُجُوب حَقِّ
+> الله، ويَحُولَ بَينَكَ وبَيْنَ حَقِّهِ وَحُقُوقِ الخَلْقِ، فَإذَا
+> قَضَيْتَهُ رَجَعْتَ إلَى حَقِّهِ فَتَشَاغَلْتَ بهِ. ولا قُوَّةَ إلاّ
+> باللهِ.
 
 **And the right of him who trains you through**[^1] **ownership**[^2]
 **is similar to the right of the possessor of authority over you. Except
@@ -77,23 +69,15 @@ Islam’s Point of View on Slavery
 According to Islam and opposed to Aristotle’s views, man is born free
 and slavery is not a natural phenomenon. Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-النّاسُ كُلُّهُم أحْرارٌ إلاّ مَن أَقَرَّ عَلى نَفْسِه
-بِالعُبودِيَّةِ.
-  </p>
-</blockquote>
+> النّاسُ كُلُّهُم أحْرارٌ إلاّ مَن أَقَرَّ عَلى نَفْسِه
+> بِالعُبودِيَّةِ.
 
 *“All people are born free except for those who (wrongfully) declare
 themselves to be slaves.”*[^4]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَكُنْ عَبْدَ غَيرِكَ وَقَد جَعَلَكَ اللهُ حق السائس بالملك حُرّاً.
-  </p>
-</blockquote>
+> لا تَكُنْ عَبْدَ غَيرِكَ وَقَد جَعَلَكَ اللهُ حق السائس بالملك حُرّاً.
 
 *“Do not be slaves for others since God has established you to be
 free.”*[^5]
@@ -292,14 +276,10 @@ Moral Recommendations
 By establishing divine rewards for the Hereafter, Islam encouraged
 Muslims to free their slaves. The Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ وَلِسَانًا وَشَفَتَيْنِ وَهَدَيْنَاهُ
-النَّجْدَيْنِ فَلَا اقْتَحَمَ الْعَقَبَة َ وَمَا أَدْرَاكَ مَا
-الْعَقَبَةُ فَكُّ رَقَبَةٍ أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
-يَتِيمًا ذَا مَقْرَبَةٍ أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
-  </p>
-</blockquote>
+> أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ وَلِسَانًا وَشَفَتَيْنِ وَهَدَيْنَاهُ
+> النَّجْدَيْنِ فَلَا اقْتَحَمَ الْعَقَبَة َ وَمَا أَدْرَاكَ مَا
+> الْعَقَبَةُ فَكُّ رَقَبَةٍ أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
+> يَتِيمًا ذَا مَقْرَبَةٍ أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
 
 ***“Have We not made for him a pair of eyes? And a tongue, and a pair of
 lips? And shown him the two highways? But he hath made no haste on the
@@ -357,5 +337,4 @@ on jurisprudence such as Jawahir, Shara’i, and Wasa’il al-Shi’ah.
 [^13]: Safinah al-Bihar, v.2, article on “Ettagh”.
 
 [^14]: The History of Islamic Civilization (Persian text), p.684.
-
 

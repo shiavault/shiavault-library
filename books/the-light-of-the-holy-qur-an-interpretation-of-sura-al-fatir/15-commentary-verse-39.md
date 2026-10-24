@@ -82,7 +82,6 @@ increase and excess. If he paves the path of Monotheism, he will have
 the increase of happiness and perfection, but if he paves the path of
 disbelief, he will obtain the increase of Wrath of Allah and loss.
 
-
 **Commentary : Verse 40**
 
 (40) قُلْ أَرَأَيْتُمْ شُرَكَآءَكُمُ الَّذِينَ تَدْعُونَ مِن دُونِ
@@ -173,5 +172,4 @@ that the polytheists used to take these superstitions and delusions from
 each other in the form of some hollow vain promises, and some of them
 transfer them to some others in the form of gossips and baseless
 imitations.
-
 

@@ -6,11 +6,7 @@ is the purpose of this goal?
  The answer to this question shall become clear by considering the fact
 that perfection is the final aim or in other words, it is:
 
-<blockquote dir="rtl">
-  <p>
-غَايَةُ الْغَايَاتِ.
-  </p>
-</blockquote>
+> غَايَةُ الْغَايَاتِ.
 
 Explanation
 -----------
@@ -56,5 +52,4 @@ we seek nearness to Allah (s.w.t.) for itself (i.e. nearness to Allah
 (s.w.t.) ).[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 22, pg. 393
-
 

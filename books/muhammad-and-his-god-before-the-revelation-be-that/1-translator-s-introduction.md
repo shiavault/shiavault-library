@@ -66,4 +66,3 @@ he assumed his role as Seal of Messengers. May Allah (SWT) send His
 eternal peace and blessings on Prophet Muhammad and His purified
 Household!
 
-

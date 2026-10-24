@@ -1666,267 +1666,267 @@ coincided.
 
 ###
 
-[^1] Al-Qurtubi, Tafsir, vol.16, p.[^197]:
+[^1]: Al-Qurtubi, Tafsir, vol.16, p.197.
 
-[^2] Kanz al-‘Ummal, vol.6, p.[^90]:
+[^2]: Kanz al-‘Ummal, vol.6, p.90.
 
-[^3] Al-Hakim, Mustadrak, vol.4, p.[^479]:
+[^3]: Al-Hakim, Mustadrak, vol.4, p.479.
 
-[^4] Asad al-Ghaba, vol.2, p.[^34]:
+[^4]: Asad al-Ghaba, vol.2, p.34.
 
-[^5] Ibn Hisham, Sira, vol.2, p.[^25]:
+[^5]: Ibn Hisham, Sira, vol.2, p.25.
 
-[^6] Ansab al-Ashraf, vol.1, p.[^27]:
+[^6]: Ansab al-Ashraf, vol.1, p.27.
 
-[^7] Al-Fa’iq, vol.2, p.[^305]:
+[^7]: Al-Fa’iq, vol.2, p.305.
 
-[^8] Ansab al-Ashraf, vol.5, p.[^67]:
+[^8]: Ansab al-Ashraf, vol.5, p.67.
 
-[^9] Sharh Nahjj al-Balagha, vol.1, p.[^67]:
+[^9]: Sharh Nahjj al-Balagha, vol.1, p.67.
 
-[^10] Al-Sira al-Halabiya, vol.2, p.[^87]:
+[^10]: Al-Sira al-Halabiya, vol.2, p.87.
 
-[^11] Ibn al-Athir, Tarikh, vol.3, p.[^337]:
+[^11]: Ibn al-Athir, Tarikh, vol.3, p.337.
 
-[^12] Asad al-Ghaba, p.[^348]:
+[^12]: Asad al-Ghaba, p.348.
 
-[^13] Ansab al-Ashraf, vol.5, p.[^144]:
+[^13]: Ansab al-Ashraf, vol.5, p.144.
 
-[^14] Tathir al-Jinan, p.[^142]:
+[^14]: Tathir al-Jinan, p.142.
 
-[^15] Ibn al-Athir, vol.3, p.[^328]:
+[^15]: Ibn al-Athir, vol.3, p.328.
 
-[^16] Jawahir al-Matalib fi Manaqib al-Imam ‘Ali b. Abi Talib, p.[^133]:
+[^16]: Jawahir al-Matalib fi Manaqib al-Imam ‘Ali b. Abi Talib, p.133.
 
-[^17] Al-Nijum al-Jahira, vol.1, p.[^164]:
+[^17]: Al-Nijum al-Jahira, vol.1, p.164.
 
-[^18] Murujj al-Dhahab, vol.3, p.[^31]:
+[^18]: Murujj al-Dhahab, vol.3, p.31.
 
-[^19] Ibn al-Athir, Tarikh, vol.3, p.[^327]:
+[^19]: Ibn al-Athir, Tarikh, vol.3, p.327.
 
-[^20] Al-Ya‘qubi, Tarikh, vol.3, p.[^3]:
+[^20]: Al-Ya‘qubi, Tarikh, vol.3, p.3.
 
-[^21] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.2, p.[^53]:
+[^21]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.2, p.53.
 
-[^22] Al-Ya‘qubi, Tarikh, vol.3, p.[^4]:
+[^22]: Al-Ya‘qubi, Tarikh, vol.3, p.4.
 
-[^23] Ibn Kuthayr, Tarikh, vol.8, p.260
+[^23]: Ibn Kuthayr, Tarikh, vol.8, p.260
 
-[^24] Ibid.
+[^24]: Ibid.
 
-[^25] Al-Maqrizi, al-Niza‘ wa al-Takhasum, p.[^8]:
+[^25]: Al-Maqrizi, al-Niza‘ wa al-Takhasum, p.8.
 
-[^26] Al-Siyuti, Tarikh al-Khulafa’, p.[^219]:
+[^26]: Al-Siyuti, Tarikh al-Khulafa’, p.219.
 
-[^27] Ibid, p.[^218]:
+[^27]: Ibid, p.218.
 
-[^28] Al-Ya‘qubi, Tarikh, vol.3, p.[^16]:
+[^28]: Al-Ya‘qubi, Tarikh, vol.3, p.16.
 
-[^29] Al-Siyuti, Tarikh al-Khulafa’, p.[^218]:
+[^29]: Al-Siyuti, Tarikh al-Khulafa’, p.218.
 
-[^30] Al-Tabari, Tarikh.
+[^30]: Al-Tabari, Tarikh.
 
-[^31] Ibn Kuthayr, Tarikh, vol.9, p.[^64]:
+[^31]: Ibn Kuthayr, Tarikh, vol.9, p.64.
 
-[^32] Al-Quda‘i, Tarikh, p.[^72]:
+[^32]: Al-Quda‘i, Tarikh, p.72.
 
-[^33] Al-Ya‘qubi, Tarikh, vol.2, p.[^311]:
+[^33]: Al-Ya‘qubi, Tarikh, vol.2, p.311.
 
-[^34] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.15, p.[^257]:
+[^34]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.15, p.257.
 
-[^35] Al-Imama wa al-Siyasa, vol.2, p.[^45]:
+[^35]: Al-Imama wa al-Siyasa, vol.2, p.45.
 
-[^36] Nihayat al-Irab, vol.21, p.[^334]:
+[^36]: Nihayat al-Irab, vol.21, p.334.
 
-[^37] Ibid.
+[^37]: Ibid.
 
-[^38] In al-Kamil it has been mentioned:“ He will kill those who disobey
+[^38]: In al-Kamil it has been mentioned:“ He will kill those who disobey
 him through those who obey him.”
 
-[^39] Nihayat al-Irab, vol.21, p.[^334]:
+[^39]: Nihayat al-Irab, vol.21, p.334.
 
-[^40] Ibn Kuthayr, Tarikh, vol.9, p.[^132]:
+[^40]: Ibn Kuthayr, Tarikh, vol.9, p.132.
 
-[^41] Tahdhib al-Tahdhib, vol.2, p.[^311]:
+[^41]: Tahdhib al-Tahdhib, vol.2, p.311.
 
-[^42] Ibid.
+[^42]: Ibid.
 
-[^43] Ibid.
+[^43]: Ibid.
 
-[^44] Murujj al-Dhahab, vol.3, p.[^86]:
+[^44]: Murujj al-Dhahab, vol.3, p.86.
 
-[^45] Al-Dimyari, Hayat al-Hayawan, vol.1, p.[^86]:
+[^45]: Al-Dimyari, Hayat al-Hayawan, vol.1, p.86.
 
-[^46] Tahdhib al-Tahdhib, vol.2, p.[^211]:
+[^46]: Tahdhib al-Tahdhib, vol.2, p.211.
 
-[^47] Al-Dimyari, Hayat al-Hayawan, vol.1, p.[^170]:
+[^47]: Al-Dimyari, Hayat al-Hayawan, vol.1, p.170.
 
-[^48] Ibn Sa‘d, Tabaqat, vol.6, p.[^66]:
+[^48]: Ibn Sa‘d, Tabaqat, vol.6, p.66.
 
-[^49] Murujj al-Dhahab, vol.3, p.[^74]:
+[^49]: Murujj al-Dhahab, vol.3, p.74.
 
-[^50] Al-Dimyari, Hayat al-Hayawan, vol.1, p.[^171]:
+[^50]: Al-Dimyari, Hayat al-Hayawan, vol.1, p.171.
 
-[^51] Murujj al-Dhahab, vol.3, p.[^81]:
+[^51]: Murujj al-Dhahab, vol.3, p.81.
 
-[^52] Tahdhib al-Tahdhib, vol.2, p.[^211]:
+[^52]: Tahdhib al-Tahdhib, vol.2, p.211.
 
-[^53] Al-Maqrizi, al-Niza‘ wa al-Takhasum, p.[^27]:
+[^53]: Al-Maqrizi, al-Niza‘ wa al-Takhasum, p.27.
 
-[^54] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.15, p.[^242]:
+[^54]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.15, p.242.
 
-[^55] Al-Dimyari, Hayat al-Hayawan, vol.1, p.[^170]:
+[^55]: Al-Dimyari, Hayat al-Hayawan, vol.1, p.170.
 
-[^56] Al-‘Aqd al-Farid, vol.3, p.[^149]:
+[^56]: Al-‘Aqd al-Farid, vol.3, p.149.
 
-[^57] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha.
+[^57]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha.
 
-[^58] Hayat al-Imam al-Husayn bin ‘Ali, vol.2, p.[^336]:
+[^58]: Hayat al-Imam al-Husayn bin ‘Ali, vol.2, p.336.
 
-[^59] Al-Ya‘qubi, Tarikh, vol.3, p.[^68]:
+[^59]: Al-Ya‘qubi, Tarikh, vol.3, p.68.
 
-[^60] Murujj al-Dhahab, vol.3, p.[^68]:
+[^60]: Murujj al-Dhahab, vol.3, p.68.
 
-[^61] Ibn Sa‘d, Tabaqat, vol.6, p.[^66]:
+[^61]: Ibn Sa‘d, Tabaqat, vol.6, p.66.
 
-[^62] Ibid.
+[^62]: Ibid.
 
-[^63] Ibn ‘Asakir, Tahdhib, vol.4, p.[^50]:
+[^63]: Ibn ‘Asakir, Tahdhib, vol.4, p.50.
 
-[^64] Al-Siyuti, Tarikh al-Khulafa’, p.[^84]:
+[^64]: Al-Siyuti, Tarikh al-Khulafa’, p.84.
 
-[^65] Al-Dimyari, Hayat al-Hayawan, vol.1, p.[^170]:
+[^65]: Al-Dimyari, Hayat al-Hayawan, vol.1, p.170.
 
-[^66] Mu‘jam al-Buldan, vol.5, p.[^349]:
+[^66]: Mu‘jam al-Buldan, vol.5, p.349.
 
-[^67] Tahdhib al-Tahdhib, vol.2, p.[^212]:
+[^67]: Tahdhib al-Tahdhib, vol.2, p.212.
 
-[^68] Wafayat al-A‘yan, vol.6, p.[^347]:
+[^68]: Wafayat al-A‘yan, vol.6, p.347.
 
-[^69] He died in the month of Ramadan. It was said that he died in the
+[^69]: He died in the month of Ramadan. It was said that he died in the
 month of Shawal, in the year 95 A. H. At that time, he was fifty-three
-or four years of age. Wafayat al-A‘yan, vol.1, p.[^437]:
+or four years of age. Wafayat al-A‘yan, vol.1, p.437.
 
-[^70] Tahdhib al-Tahdhib, vol.2, p.[^213]:
+[^70]: Tahdhib al-Tahdhib, vol.2, p.213.
 
-[^71] Al-Akhtal, Diwan, p.[^98]:
+[^71]: Al-Akhtal, Diwan, p.98.
 
-[^72] Al-Aghani, vol.8, p.[^287]:
+[^72]: Al-Aghani, vol.8, p.287.
 
-[^73] Al-‘Ayyashi, Tafsir, vol.1, p.[^23]:
+[^73]: Al-‘Ayyashi, Tafsir, vol.1, p.23.
 
-[^74] Al-Durr al-Nazim, p.[^188]:
+[^74]: Al-Durr al-Nazim, p.188.
 
-[^75] Al-Dimyari, Hayat al-Hayawan, vol.1, pp.63-[^64]:
+[^75]: Al-Dimyari, Hayat al-Hayawan, vol.1, pp.63-[^64]:
 
-[^76] Al Bidaya wa al-Nihaya, vol.9, p.[^68]:
+[^76]: Al Bidaya wa al-Nihaya, vol.9, p.68.
 
-[^77] Ibid.
+[^77]: Ibid.
 
-[^78] Al-Siyuti, Tarikh al-Khulafa’, p.[^220]:
+[^78]: Al-Siyuti, Tarikh al-Khulafa’, p.220.
 
-[^79] Al Bidaya wa al-Nihaya, vol.9, p.[^68]:
+[^79]: Al Bidaya wa al-Nihaya, vol.9, p.68.
 
-[^80] Abi al-Fida’, Tarikh, vol.1, p.[^209]:
+[^80]: Abi al-Fida’, Tarikh, vol.1, p.209.
 
-[^81] Al-Siyuti, Tarikh al-Khulafa’, p.[^223]:
+[^81]: Al-Siyuti, Tarikh al-Khulafa’, p.223.
 
-[^82] Ibn al-Athir, Tarikh, vol.4, p.[^138]:
+[^82]: Ibn al-Athir, Tarikh, vol.4, p.138.
 
-[^83] Ibid.
+[^83]: Ibid.
 
-[^84] Al-Siyuti, Tarikh al-Khulafa’, p.[^223]:
+[^84]: Al-Siyuti, Tarikh al-Khulafa’, p.223.
 
-[^85] Al-Anafa fi Ma’athir al-Khilafa, vol.1, p.[^133]:
+[^85]: Al-Anafa fi Ma’athir al-Khilafa, vol.1, p.133.
 
-[^86] Al-Zargali, al-A‘lam, vol.9, p.[^141]:
+[^86]: Al-Zargali, al-A‘lam, vol.9, p.141.
 
-[^87] Al-Anafa fi Ma’athir al-Khilafa, vol.1, p.[^133]:
+[^87]: Al-Anafa fi Ma’athir al-Khilafa, vol.1, p.133.
 
-[^88] Ibn al-Athir, Tarikh, vol.4, p.[^138]:
+[^88]: Ibn al-Athir, Tarikh, vol.4, p.138.
 
-[^89] Ibid.
+[^89]: Ibid.
 
-[^90] Ibn ‘Asakir, Tarikh, vol.5, p.[^80]:
+[^90]: Ibn ‘Asakir, Tarikh, vol.5, p.80.
 
-[^91] Al-Jahshyari, p.[^32]:
+[^91]: Al-Jahshyari, p.32.
 
-[^92] Murujj al-Dhahab, vol.3, p.[^113]:
+[^92]: Murujj al-Dhahab, vol.3, p.113.
 
-[^93] Ibn al-Athir, Tarikh, vol.4, p.[^151]:
+[^93]: Ibn al-Athir, Tarikh, vol.4, p.151.
 
-[^94] Al-Siyuti, Tarikh al-Khulafa’, p.[^230]:
+[^94]: Al-Siyuti, Tarikh al-Khulafa’, p.230.
 
-[^95] Nihayat al-Irab, vol.21, p.[^355]:
+[^95]: Nihayat al-Irab, vol.21, p.355.
 
-[^96] Ibn al-Athir, Tarikh, vol.44, p.[^154]:
+[^96]: Ibn al-Athir, Tarikh, vol.44, p.154.
 
-[^97] Al-Aghani, vol.8, p.[^148]:
+[^97]: Al-Aghani, vol.8, p.148.
 
-[^98] Ibn al-Athir, Tarikh, vol.4, p.[^654]:
+[^98]: Ibn al-Athir, Tarikh, vol.4, p.654.
 
-[^99] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.1, p.[^357]:
+[^99]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.1, p.357.
 
-[^100] Al-Manaqib, vol.4, pp.207-[^208]:
+[^100]: Al-Manaqib, vol.4, pp.207-[^208]:
 
-[^101] Ibn al-Athir, Tarikh, vol.4, p.[^164]:
+[^101]: Ibn al-Athir, Tarikh, vol.4, p.164.
 
-[^102] Safinat al-Bihar, vol.2, p.[^272]:
+[^102]: Safinat al-Bihar, vol.2, p.272.
 
-[^103] Ibid, p.[^172]:
+[^103]: Ibid, p.172.
 
-[^104] Tarikh Dimashaq, vol.51, p.[^38]:
+[^104]: Tarikh Dimashaq, vol.51, p.38.
 
-[^105] Al-Ya‘qubi, Tarikh, vol.2, [^48]:
+[^105]: Al-Ya‘qubi, Tarikh, vol.2, [^48]:
 
-[^106] Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.[^110]:
+[^106]: Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.110.
 
-[^107] Hayat al-Imam Musa b. Ja‘far, vol.1, p.[^305]:
+[^107]: Hayat al-Imam Musa b. Ja‘far, vol.1, p.305.
 
-[^108] Ibid.
+[^108]: Ibid.
 
-[^109] Al-Ya‘qubi, Tarikh, vol.2, [^48]:
+[^109]: Al-Ya‘qubi, Tarikh, vol.2, [^48]:
 
-[^110] Ibn al-Athir, Tarikh, vol.4, p.[^161]:
+[^110]: Ibn al-Athir, Tarikh, vol.4, p.161.
 
-[^111] Al-Inafa fi Ma’athir al-Khilafa, vol.1, p.[^142]:
+[^111]: Al-Inafa fi Ma’athir al-Khilafa, vol.1, p.142.
 
-[^112] Ibn al-Athir, Tarikh, vol.4, p.[^161]:
+[^112]: Ibn al-Athir, Tarikh, vol.4, p.161.
 
-[^113] Ibn Kuthayr, Tarikh, vol.4, p.[^232]:
+[^113]: Ibn Kuthayr, Tarikh, vol.4, p.232.
 
-[^114] Al-‘Aqd al-Farid, vol.3, p.[^180]:
+[^114]: Al-‘Aqd al-Farid, vol.3, p.180.
 
-[^115] Al-Tabaqat al-Kubra, vol.5, p.[^95]:
+[^115]: Al-Tabaqat al-Kubra, vol.5, p.95.
 
-[^116] Ibn al-Athir, Tarikh, vol.4, p.[^191]:
+[^116]: Ibn al-Athir, Tarikh, vol.4, p.191.
 
-[^117] Ibid.
+[^117]: Ibid.
 
-[^118] Murujj al-Dhahab, vol.3, p.[^191]:
+[^118]: Murujj al-Dhahab, vol.3, p.191.
 
-[^119] Al-Inafa fi Ma’athir al-Khilafa, vol.1, p.[^146]:
+[^119]: Al-Inafa fi Ma’athir al-Khilafa, vol.1, p.146.
 
-[^120] Al-Bukhla’, p.[^150]:
+[^120]: Al-Bukhla’, p.150.
 
-[^121] Akhbar al-Duwal, vol2, p.[^200]:
+[^121]: Akhbar al-Duwal, vol2, p.200.
 
-[^122] Ansab al-Ashraf.
+[^122]: Ansab al-Ashraf.
 
-[^123] Al-Bukhala’, p.[^105]:
+[^123]: Al-Bukhala’, p.105.
 
-[^124] Al-Adab al-Sultaniya.
+[^124]: Al-Adab al-Sultaniya.
 
-[^125] Al-Ya‘qubi, Tarikh, vol.2, [^393]:
+[^125]: Al-Ya‘qubi, Tarikh, vol.2, [^393]:
 
-[^126] Bihar al-Anwar, vol.11, p.[^75]:
+[^126]: Bihar al-Anwar, vol.11, p.75.
 
-[^127] Al-Manaqib, pp.203-[^204]:
+[^127]: Al-Manaqib, pp.203-[^204]:
 
-[^128] Bihar al-Anwar, vol.11, p.[^75]:
+[^128]: Bihar al-Anwar, vol.11, p.75.
 
-[^129] Diya’ al-‘Amilin, vol.[^2]:
+[^129]: Diya’ al-‘Amilin, vol.2.
 
-[^130] Al-Durr al-Nazim, p.[^190]:
+[^130]: Al-Durr al-Nazim, p.190.
 
-[^131] Al-Manaqib, vol.4, p.[^690]: Al-Bihar, vol.11, p.75.
+[^131]: Al-Manaqib, vol.4, p.690. Al-Bihar, vol.11, p.75.

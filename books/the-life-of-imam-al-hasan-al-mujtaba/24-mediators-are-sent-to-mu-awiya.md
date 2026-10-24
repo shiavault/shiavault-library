@@ -558,4 +558,3 @@ all over with fear. He summoned his cunning vizier, Amr bin al-Aas, and
 said to him: “Only this night and he is coming to us early in the
 morning along with the troops! What do you think?”
 
-

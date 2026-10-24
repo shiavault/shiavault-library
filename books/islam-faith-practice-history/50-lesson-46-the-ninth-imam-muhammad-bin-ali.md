@@ -314,4 +314,3 @@ with his wife until he atones by fasting for two successive months, or
 if that is not possible, then feeding sixty poor people. Uttering such a
 statement is known as zihār.
 
-

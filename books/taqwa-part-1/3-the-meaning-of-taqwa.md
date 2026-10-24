@@ -87,4 +87,3 @@ The same goes for the senses of tasting, touching, and smelling. In this
 case, a human being becomes like a lion without a tail, belly, and head
 which Mulawi (Jalal al-Dim Rumi) described in his story in*Mathnawi* .
 
-

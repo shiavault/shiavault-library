@@ -169,4 +169,3 @@ References:-
 "Verily in the Messenger of Allah you have an excellent example"
 33:21
 
-

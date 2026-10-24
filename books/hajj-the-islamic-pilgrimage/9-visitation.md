@@ -9,15 +9,11 @@ completed the Hajj rites. We now will go to Medina to visit the tombs of
 the Holy Prophet (saw) and the Imams (as). We approach their holy
 shrines, which are full of mercy and a fount of blessings:
 
-<blockquote dir="rtl">
-  <p>
-يا سادَتي وَمَوالِيَّ، إنّي تَوَجَّهتُ بِكُم، أَئِمَّتي وعُدَّتي
-لِيَومِ فَقْري وَحاجَتي إلى اللهِ، وَاسْتَشْفَعْتُ بِكُم إلى اللهِ
-فَاشْفَعوا لي عِندَ اللهِ واسْتَنْقِذونِي مِن ذُنوبي عِندَ اللهِ،
-فَإنَّكُم وَسيلَتي إلى اللهِ وَبحُبِّكُم وبِقُربِكُم أَرْجو نجَاةً مِن
-اللهِ فَكونوا عِندَ اللهِ رَجائي، يا سَادَتي يا أوْلِياءَ اللهِ.
-  </p>
-</blockquote>
+> يا سادَتي وَمَوالِيَّ، إنّي تَوَجَّهتُ بِكُم، أَئِمَّتي وعُدَّتي
+> لِيَومِ فَقْري وَحاجَتي إلى اللهِ، وَاسْتَشْفَعْتُ بِكُم إلى اللهِ
+> فَاشْفَعوا لي عِندَ اللهِ واسْتَنْقِذونِي مِن ذُنوبي عِندَ اللهِ،
+> فَإنَّكُم وَسيلَتي إلى اللهِ وَبحُبِّكُم وبِقُربِكُم أَرْجو نجَاةً مِن
+> اللهِ فَكونوا عِندَ اللهِ رَجائي، يا سَادَتي يا أوْلِياءَ اللهِ.
 
 “O my chiefs, O my masters, I turn to Allah through you, O my Imams, my
 supporters on the days of my destitution. I seek your advocacy before
@@ -32,12 +28,8 @@ Love For the Ahl ul-Bayt is Reward of Prophethood
 According to the Holy Qur’an, the love for the household of the Holy
 Prophet (saw) as the reward of prophethood is obligatory on the ummah:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لاَ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلاّ الْمَوَدَّةَ فِي
-الْقُرْبَى
-  </p>
-</blockquote>
+> قُلْ لاَ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلاّ الْمَوَدَّةَ فِي
+> الْقُرْبَى
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives. (The Holy Qur’an; 42:23)”***
@@ -48,12 +40,8 @@ of Allah (saw). Hence, love of them is aimed at being guided under their
 heavenly light, attaining eternal happiness, and getting rid of the
 bonds of Satan. In this relation, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلاّ مَنْ شَاءَ اتَّخَذَ
-إِلى رَبِّهِ سّبيلاً
-  </p>
-</blockquote>
+> قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلاّ مَنْ شَاءَ اتَّخَذَ
+> إِلى رَبِّهِ سّبيلاً
 
 ***“Say: I do not ask you aught in return except that he who will, may
 take the way to his Lord. (25:57)”***
@@ -63,11 +51,7 @@ under the shelter of the Ahl ul-Bayt; therefore , courtesy to them is in
 the interest of the ummah and not in the interest of the household as
 the Holy Qur’an expressly says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا سَأَلْتُكُمْ مِنْ أَجْرٍ فَهُوَ لَكُمْ.
-  </p>
-</blockquote>
+> قُلْ مَا سَأَلْتُكُمْ مِنْ أَجْرٍ فَهُوَ لَكُمْ.
 
 ***“Say: Whatever reward I have asked of you, that is only for
 yourselves. (34:47)”***
@@ -84,55 +68,27 @@ saying:
 
 *“The Messenger of Allah (saw) said:*
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللهِ صَلّى اللهُ عَلَيهِ وآلِهِ:
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللهِ صَلّى اللهُ عَلَيهِ وآلِهِ:
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، أنتَ أمِيرُ المُؤمِنينَ وإِمامُ المُتَّقينَ.
-  </p>
-</blockquote>
+> يا عَليُّ، أنتَ أمِيرُ المُؤمِنينَ وإِمامُ المُتَّقينَ.
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، أنتَ سَيِّدُ الوَصِيِّينَ وَوارِثُ عِلْمِ النَّبِيِّينَ
-وخَيرُ الصِّدِّيقِينَ وَأفْضَلُ السَّابقِينَ.
-  </p>
-</blockquote>
+> يا عَليُّ، أنتَ سَيِّدُ الوَصِيِّينَ وَوارِثُ عِلْمِ النَّبِيِّينَ
+> وخَيرُ الصِّدِّيقِينَ وَأفْضَلُ السَّابقِينَ.
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، أنتَ زَوْجُ سَيِّدَةِ نِساءِ العَالمَينَ وَخَليفَةُ
-المُرسَلينَ.
-  </p>
-</blockquote>
+> يا عَليُّ، أنتَ زَوْجُ سَيِّدَةِ نِساءِ العَالمَينَ وَخَليفَةُ
+> المُرسَلينَ.
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، أنتَ مَولى المُؤمِنينَ.
-  </p>
-</blockquote>
+> يا عَليُّ، أنتَ مَولى المُؤمِنينَ.
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، أنتَ الحُجَّةُ بَعدي عَلى النّاسِ أجمَعينَ. اِسْتَوْجَبَ
-الجَنَّةَ مَن تَوَلّاكَ وَاسْتَحَقَّ النَّارَ مَنْ عَاداكَ.
-  </p>
-</blockquote>
+> يا عَليُّ، أنتَ الحُجَّةُ بَعدي عَلى النّاسِ أجمَعينَ. اِسْتَوْجَبَ
+> الجَنَّةَ مَن تَوَلّاكَ وَاسْتَحَقَّ النَّارَ مَنْ عَاداكَ.
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، وَالّذي بَعَثَني بِالنُّبُوَّةِ وَاصْطَفانِي عَلى جَميعِ
-البَرِيَّةِ لَوْ أنَّ عَبداً عَبَدَ اللهَ أَلْفَ عامٍ ما قَبِلَ اللهُ
-ذلِكَ مِنهُ إلا بِوَلايَتِكَ وَوَلايَةِ الأَئِمَّةِ مِن وُلدِكَ.
-وَإِنَّ وَلايَتَكَ لا تُقْبَلُ إلا بِالبَراءَةِ مِن أعْدائِكَ
-وأَعْداءِ الأئِمَّةِ مِن وُلْدِكَ؛ بِذلِكَ أخْبَرَني جِبريلُ عَليهِ
-السّلامُ، فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ فَلْيَكْفُرْ.
-  </p>
-</blockquote>
+> يا عَليُّ، وَالّذي بَعَثَني بِالنُّبُوَّةِ وَاصْطَفانِي عَلى جَميعِ
+> البَرِيَّةِ لَوْ أنَّ عَبداً عَبَدَ اللهَ أَلْفَ عامٍ ما قَبِلَ اللهُ
+> ذلِكَ مِنهُ إلا بِوَلايَتِكَ وَوَلايَةِ الأَئِمَّةِ مِن وُلدِكَ.
+> وَإِنَّ وَلايَتَكَ لا تُقْبَلُ إلا بِالبَراءَةِ مِن أعْدائِكَ
+> وأَعْداءِ الأئِمَّةِ مِن وُلْدِكَ؛ بِذلِكَ أخْبَرَني جِبريلُ عَليهِ
+> السّلامُ، فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ فَلْيَكْفُرْ.
 
 O ‘Ali, you are the commander of the faithful and the Imam of the pious.
 
@@ -160,15 +116,11 @@ it is an unbeliever.”[^3]
 best?’ I answered, ‘Allah, His Messenger, and son of His Messenger know
 best.’ He (as) then said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أفْضَلَ البِقاعِ ما بَينَ الرُّكْنِ وَالمَقامِ. وَلَوْ أنَّ
-رَجُلاً عَمَّرَ ما عَمَّرَ نُوحٌ عَليهِ السّلامُ في قَومِهِ –ألْفَ
-سَنَةٍ إلا خَمْسين عاماً- يَصومُ النَّهارَ ويَقومُ اللّيلَ في ذلِكَ
-المَقامِ ثُمَّ لَقِيَ اللهَ عزّ وجَلَّ بِغَيرِ وِلايَتِنا لم
-يَنْتَفِعْ بِذلِكَ شَيئاً.
-  </p>
-</blockquote>
+> إنَّ أفْضَلَ البِقاعِ ما بَينَ الرُّكْنِ وَالمَقامِ. وَلَوْ أنَّ
+> رَجُلاً عَمَّرَ ما عَمَّرَ نُوحٌ عَليهِ السّلامُ في قَومِهِ –ألْفَ
+> سَنَةٍ إلا خَمْسين عاماً- يَصومُ النَّهارَ ويَقومُ اللّيلَ في ذلِكَ
+> المَقامِ ثُمَّ لَقِيَ اللهَ عزّ وجَلَّ بِغَيرِ وِلايَتِنا لم
+> يَنْتَفِعْ بِذلِكَ شَيئاً.
 
 The best area –in the world- is that lying between the Rukn (corner of
 the Kaaba) and Maqam (standing-place of Prophet Ibrahim). If a man lives
@@ -185,12 +137,8 @@ when I approached Imam Sadiq (as) and said, ‘Really, the performers of
 Hajj are so many.’ He (as) turned his sight towards them and asked me to
 be nearer to him. As I did, He (as) said:
 
-<blockquote dir="rtl">
-  <p>
-غُثاءٌ يأتي بهِ المَوجُ مِن كُلِّ مَكانٍ! وَاللهِ ما الحَجُّ إلا
-لَكُم. لا واللهِ، ما يَتَقَبَّلُ اللهُ إلا مِنكُمْ.
-  </p>
-</blockquote>
+> غُثاءٌ يأتي بهِ المَوجُ مِن كُلِّ مَكانٍ! وَاللهِ ما الحَجُّ إلا
+> لَكُم. لا واللهِ، ما يَتَقَبَّلُ اللهُ إلا مِنكُمْ.
 
 They are just like scum that waves bring from everywhere. By Allah I
 swear, true Hajj is only yours. Certainly, Allah will accept your Hajj
@@ -200,12 +148,8 @@ Al-Harith ibn al-Mughira reported: I was sitting near Imam Sadiq (as)
 when somebody came in and asked, ‘Son of Allah’s Messenger, the
 performers of Hajj this year were so many.’ The Imam answered (as):
 
-<blockquote dir="rtl">
-  <p>
-إنْ شَاؤُوا فَلْيَكثُروا وإنْ شَاؤوا فَلْيَقِلُّوا. واللهِ ما يَقْبَلُ
-اللهُ إلاّ مِنكُم ولا يَغْفِرُ إلا لَكُمْ
-  </p>
-</blockquote>
+> إنْ شَاؤُوا فَلْيَكثُروا وإنْ شَاؤوا فَلْيَقِلُّوا. واللهِ ما يَقْبَلُ
+> اللهُ إلاّ مِنكُم ولا يَغْفِرُ إلا لَكُمْ
 
 Let they be so many or so few. By Allah I swear, He will not accept but
 the Hajj that you perform, and none will be forgiven except you.[^5]
@@ -213,12 +157,8 @@ the Hajj that you perform, and none will be forgiven except you.[^5]
 Abu’l-Jaroud reported: I said to Imam Baqir (as) in Mecca, or Mina, that
 the performers of Hajj were so many. He (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَقَلَّ الحَاجَّ! ما يُغفَرُ إلاّ لكَ ولأَصْحابكَ وَلا يُتَقَبَّلُ
-إلا مِنكَ ومِن أصحابِكَ
-  </p>
-</blockquote>
+> مَا أَقَلَّ الحَاجَّ! ما يُغفَرُ إلاّ لكَ ولأَصْحابكَ وَلا يُتَقَبَّلُ
+> إلا مِنكَ ومِن أصحابِكَ
 
 In fact, they are so few. None will be forgiven except your companions
 and you, and nobody’s act will be admitted (by God) except your
@@ -227,13 +167,9 @@ companions’ and yours.[^6]
 Mansour as-Sayqal reported: I was with Imam Sadiq (as) in his pavilion
 in Mina (during the season of Hajj) when he looked at people and said:
 
-<blockquote dir="rtl">
-  <p>
-يأكُلونَ الحَرامَ ويَلبَسونَ الحَرامَ ويَنكِحونَ الحَرامَ. وتأْكُلونَ
-الحَلالَ وَتلْبَسونَ الحَلالَ وتَنكِحونَ الحَلالَ. لا واللهِ، ما
-يحِجُّ غَيرُكُم ولا يُتَقَبَّلُ إلا مِنكُم.
-  </p>
-</blockquote>
+> يأكُلونَ الحَرامَ ويَلبَسونَ الحَرامَ ويَنكِحونَ الحَرامَ. وتأْكُلونَ
+> الحَلالَ وَتلْبَسونَ الحَلالَ وتَنكِحونَ الحَلالَ. لا واللهِ، ما
+> يحِجُّ غَيرُكُم ولا يُتَقَبَّلُ إلا مِنكُم.
 
 They eat, dress, and marry illegally. But you eat, dress, and marry
 legally. By Allah, it is only you whose Hajj is valid and whose deeds
@@ -242,14 +178,10 @@ are accepted.[^7]
 Zureyq reported: I asked Imam Sadiq (as) about the best deed after the
 recognition of God. He (as) said:
 
-<blockquote dir="rtl">
-  <p>
-ما مِن شَيءٍ بَعدَ المَعرِفَةِ يَعدِلُ هَذِهِ الصَّلاةَ، ولا بَعدَ
-المَعرِفَةِ والصَّلاةِ شَيءٌ يَعدِلُ الزَّكاةَ، ولا بَعدَ ذلِكَ شَيءٌ
-يَعدِلُ الصَّومَ، ولا بَعدَ ذلكَ شَيءٌ يَعدِلُ الحَجَّ، وفاتِحَةُ ذلكَ
-كُلِّهِ وخاتِمَتُهُ مَعرِفَتُنا.
-  </p>
-</blockquote>
+> ما مِن شَيءٍ بَعدَ المَعرِفَةِ يَعدِلُ هَذِهِ الصَّلاةَ، ولا بَعدَ
+> المَعرِفَةِ والصَّلاةِ شَيءٌ يَعدِلُ الزَّكاةَ، ولا بَعدَ ذلِكَ شَيءٌ
+> يَعدِلُ الصَّومَ، ولا بَعدَ ذلكَ شَيءٌ يَعدِلُ الحَجَّ، وفاتِحَةُ ذلكَ
+> كُلِّهِ وخاتِمَتُهُ مَعرِفَتُنا.
 
 Nothing after the recognition of Allah may mount to prayer. Nothing,
 after the recognition of Allah and the prayer, may mount to zakat.
@@ -259,12 +191,8 @@ to Hajj. The opening and the end of all these is the recognition of us
 
 Prophet Muhammad (saw) said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أَرادَ أنْ يَتَمَسَّكَ بالعُروَةِ الوُثقى فَلْيَتَمَسَّكْ بحُبِّ
-عَلِيٍّ وأهْلِ بَيتي.
-  </p>
-</blockquote>
+> مَن أَرادَ أنْ يَتَمَسَّكَ بالعُروَةِ الوُثقى فَلْيَتَمَسَّكْ بحُبِّ
+> عَلِيٍّ وأهْلِ بَيتي.
 
 He who wants to hold fast to the Firmest Handle must cling to love for
 ‘Ali and my household –the Ahl ul-Bayt-.
@@ -274,13 +202,9 @@ Visiting the Prophet’s Tomb
 
 Imam Ridha’ (as) says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ تَزورُ قَبرَ محَمَّدٍ المُصطَفى صَلّى اللهُ عَلَيهِ وآلِهِ
-فَإنَّهُ قالَ: مَنْ حَجَّ وَلم يَزُرْني فَقَد جَفاني. وَتَزورُ قَبرَ
-السّادَةِ عَليْهِمُ السّلامُ.
-  </p>
-</blockquote>
+> ثُمَّ تَزورُ قَبرَ محَمَّدٍ المُصطَفى صَلّى اللهُ عَلَيهِ وآلِهِ
+> فَإنَّهُ قالَ: مَنْ حَجَّ وَلم يَزُرْني فَقَد جَفاني. وَتَزورُ قَبرَ
+> السّادَةِ عَليْهِمُ السّلامُ.
 
 Then you will visit the tomb of Muhammad (saw), for the Holy Prophet has
 said: “Whoever performs the Hajj rites but does not visit my tomb will
@@ -289,35 +213,23 @@ be unkind to me.” And then visit the tombs of the Sayyids (as)[^9]
 Imam Baqir (as) looked at those who were circumambulating the Holy House
 and said:
 
-<blockquote dir="rtl">
-  <p>
-أُمِروا أنْ يَطُوفوا بهَذا ثُمَّ يأْتونا فَيُعَرِّفونا مَوَدَّتَهُم
-ثُمَّ يَعرِضوا عَلَينا نَصْرَهُم.
-  </p>
-</blockquote>
+> أُمِروا أنْ يَطُوفوا بهَذا ثُمَّ يأْتونا فَيُعَرِّفونا مَوَدَّتَهُم
+> ثُمَّ يَعرِضوا عَلَينا نَصْرَهُم.
 
 They are ordained to circumambulate (the House) then come to us to show
 us their love (loyalty) for us and then offer their support for us.[^10]
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-اِبدَؤوا بمَكَّةَ واخْتِموا بنا.
-  </p>
-</blockquote>
+> اِبدَؤوا بمَكَّةَ واخْتِموا بنا.
 
 “Start Hajj with Mecca and complete it with us.”[^11]
 
 Yahya ibn Yessar reported: During the Hajj, we passed by Imam Sadiq (as)
 who said to us:
 
-<blockquote dir="rtl">
-  <p>
-حُجّاجُ بَيتِ اللهِ وزُوّارُ قَبرِ نَبيِّهِ صَلّى اللهُ عَليهِ وآلهِ
-وَشيعَةُ آلِ محَمَّدٍ، هَنيئاً لكُم.
-  </p>
-</blockquote>
+> حُجّاجُ بَيتِ اللهِ وزُوّارُ قَبرِ نَبيِّهِ صَلّى اللهُ عَليهِ وآلهِ
+> وَشيعَةُ آلِ محَمَّدٍ، هَنيئاً لكُم.
 
 O Pilgrims of the House of Allah, visitors of His Prophet’s tomb, and
 adherents (Shia) of Muhammad’s household, congratulations![^12]
@@ -326,25 +238,17 @@ Al-Hasan ibn al-Washa reported: I asked Imam Ridha’ (as) about the
 reward of him who visits the tomb of any of the Imams (as), and he
 answered:
 
-<blockquote dir="rtl">
-  <p>
-لهُ مِثلُ مَن أَتى قَبرَ أبي عَبدِ اللهِ عَليهِ السّلامُ... الجَنَّةُ
-واللهِ.
-  </p>
-</blockquote>
+> لهُ مِثلُ مَن أَتى قَبرَ أبي عَبدِ اللهِ عَليهِ السّلامُ... الجَنَّةُ
+> واللهِ.
 
 He (who visits the tomb of any of the Imams) will be rewarded as same as
 him who visits the tomb of Abu-Abdilah (Imam Husayn) (as) that is
 Paradise, I swear it by Allah.[^13]
 
-<blockquote dir="rtl">
-  <p>
-مَن زارَنا في ممَاتِنا فَكَأنمَّا زارَنا في حَياتِنا، وَمَن جاهَدَ
-عَدُوَّنا فَكأنمَّا جاهَدَ مَعَنا، ومَن تَوَلّى لمحِبِّنا فَقَدْ
-أحَبَّنا، وَمَن سَرَّ مُؤمِناً فَقَد سَرَّنا، وَمَن أعانَ فَقيرَنا
-كانَ مُكافاتُهُ عَلى جَدِّنا محَمَّدٍ صلى الله عليه وآله.
-  </p>
-</blockquote>
+> مَن زارَنا في ممَاتِنا فَكَأنمَّا زارَنا في حَياتِنا، وَمَن جاهَدَ
+> عَدُوَّنا فَكأنمَّا جاهَدَ مَعَنا، ومَن تَوَلّى لمحِبِّنا فَقَدْ
+> أحَبَّنا، وَمَن سَرَّ مُؤمِناً فَقَد سَرَّنا، وَمَن أعانَ فَقيرَنا
+> كانَ مُكافاتُهُ عَلى جَدِّنا محَمَّدٍ صلى الله عليه وآله.
 
 “He who comes to visit our tombs after our decease will have the same
 reward of him who visited us in our lifetime. He who fights our enemy
@@ -355,19 +259,15 @@ grandfather Muhammad (saw).”[^14]
 
 Imam Sadiq (as) quotes the Holy Prophet (saw) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ قَدْ وَكَّلَ بفاطِمَةَ عَليها السّلامُ رَعيلاً مِنَ
-المَلائِكَةِ يحْفَظونَها مِن بَينِ يَدَيها وَمِن خَلْفِها وعَن
-يمِينِها وعَن يَسارِها وَهُمْ مَعَها في حَياتِها وعِندَ قَبرِها بعدَ
-مَوتِها يُكثِرونَ الصَّلاةَ عَلى أَبيها وبَعْلِها وَبَنيها. فَمَن
-زارَني بَعدَ وَفاتي فَكَأنمَّا زارَني في حَياتي، وَمَنْ زار فاطِمَةَ
-عَليها السّلامُ فَكَأَنمّا زارَني وَمَن زارَ عَلِيَّ بنَ أبي طالِبٍ
-عَلَيهِ السَّلامُ فَكَأَنمَّا زارَ فاطِمَةَ عَلَيها السّلامُ وَمَنْ
-زارَ الحُسَينَ عَلَيهِ السّلامُ فَكَأَنمّا زارَ عَلياً عَليهِ السلامُ
-وَمَن زارَ ذُرِّيَّتَهُما فَكَأَنمّا زارَهُما.
-  </p>
-</blockquote>
+> إنَّ اللهَ قَدْ وَكَّلَ بفاطِمَةَ عَليها السّلامُ رَعيلاً مِنَ
+> المَلائِكَةِ يحْفَظونَها مِن بَينِ يَدَيها وَمِن خَلْفِها وعَن
+> يمِينِها وعَن يَسارِها وَهُمْ مَعَها في حَياتِها وعِندَ قَبرِها بعدَ
+> مَوتِها يُكثِرونَ الصَّلاةَ عَلى أَبيها وبَعْلِها وَبَنيها. فَمَن
+> زارَني بَعدَ وَفاتي فَكَأنمَّا زارَني في حَياتي، وَمَنْ زار فاطِمَةَ
+> عَليها السّلامُ فَكَأَنمّا زارَني وَمَن زارَ عَلِيَّ بنَ أبي طالِبٍ
+> عَلَيهِ السَّلامُ فَكَأَنمَّا زارَ فاطِمَةَ عَلَيها السّلامُ وَمَنْ
+> زارَ الحُسَينَ عَلَيهِ السّلامُ فَكَأَنمّا زارَ عَلياً عَليهِ السلامُ
+> وَمَن زارَ ذُرِّيَّتَهُما فَكَأَنمّا زارَهُما.
 
 “Allah has assigned a group of angels to guard Fatima (as) in front,
 behind, and on the left and right sides. Those angels are constantly
@@ -383,36 +283,24 @@ will be regarded as if he indeed visited those two honorable ones.”[^15]
 Imam Sadiq, on the authority of his fathers, reported that the Messenger
 of God addressed to Imam ‘Ali (as):
 
-<blockquote dir="rtl">
-  <p>
-يا أبا الحَسَنِ، إنَّ اللهَ جَعلَ قَبرَكَ وَقَبرَ وُلدِكَ بِقاعاً مِن
-بقاعِ الجَنّةِ وعَرَصاتٍ مِن عَرَصاتِها. وإنَّ اللهَ عَزَّ وجَلَّ
-جَعلَ قُلوبَ نجَباءٍ مِن خَلقِهِ وصَفْوَةٍ مِن عِبادِهِ تحِنُّ إلَيكُم
-وتحْتَمِلُ المَذَلَّةَ والأذى فيكُم فَيَعْمُرونَ قُبورَكُم ويُكثِرونَ
-زِيارَتَها تَقَرُّباً مِنهُم إلى اللهِ ومَوَدَّةً مِنهم لرَسولِهِ
-صَلّى اللهُ عَليهِ وآلهِ وسَلَّمَ. أولئِكَ يا عَليُّ المَخصوصونَ
-بشَفاعَتي والوارِدونَ حَوضي وهُمْ زُوّاري وجيراني غَداً في الجَنَّةِ.
-  </p>
-</blockquote>
+> يا أبا الحَسَنِ، إنَّ اللهَ جَعلَ قَبرَكَ وَقَبرَ وُلدِكَ بِقاعاً مِن
+> بقاعِ الجَنّةِ وعَرَصاتٍ مِن عَرَصاتِها. وإنَّ اللهَ عَزَّ وجَلَّ
+> جَعلَ قُلوبَ نجَباءٍ مِن خَلقِهِ وصَفْوَةٍ مِن عِبادِهِ تحِنُّ إلَيكُم
+> وتحْتَمِلُ المَذَلَّةَ والأذى فيكُم فَيَعْمُرونَ قُبورَكُم ويُكثِرونَ
+> زِيارَتَها تَقَرُّباً مِنهُم إلى اللهِ ومَوَدَّةً مِنهم لرَسولِهِ
+> صَلّى اللهُ عَليهِ وآلهِ وسَلَّمَ. أولئِكَ يا عَليُّ المَخصوصونَ
+> بشَفاعَتي والوارِدونَ حَوضي وهُمْ زُوّاري وجيراني غَداً في الجَنَّةِ.
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ، مَن عَمَرَ قُبورَهُم وتَعاهَدَها فَكَأَنمّا أعانَ سُلَيمانَ
-بنَ داوُدَ عَلى بِناءِ بَيتِ المَقدِسِ، وَمَن زارَ قُبورَهم عَدَلَ
-ذلِكَ ثوابَ سَبعينَ حِجَّةً بَعدَ حِجَّةِ الإسلامِ وَخَرجَ مِن ذُنوبهِ
-حَتى يرجِعَ مِن زِيارَتِكُم كَيَومِ وَلَدَتهُ أمُّهُ.
-  </p>
-</blockquote>
+> يا عَليُّ، مَن عَمَرَ قُبورَهُم وتَعاهَدَها فَكَأَنمّا أعانَ سُلَيمانَ
+> بنَ داوُدَ عَلى بِناءِ بَيتِ المَقدِسِ، وَمَن زارَ قُبورَهم عَدَلَ
+> ذلِكَ ثوابَ سَبعينَ حِجَّةً بَعدَ حِجَّةِ الإسلامِ وَخَرجَ مِن ذُنوبهِ
+> حَتى يرجِعَ مِن زِيارَتِكُم كَيَومِ وَلَدَتهُ أمُّهُ.
 
-<blockquote dir="rtl">
-  <p>
-فَأبْشِرْ يا عَليُّ وَبَشِّر أولِيائَكَ وَمحِبِّيك مِن النَّعيمِ بما
-لا عَينٌ رَأَتْ ولا أُذُنٌ سَمِعَت ولا خَطَرَ عَلى قَلبِ بَشَرٍ.
-ولكِنَّ حُثالةً مِن الناسِ يُعَيِّرونَ زُوّارَ قُبورِكُم كما تَعَيَّرُ
-الزّانِيَةُ بزِناها, أولئِك شِرارُ أُمَّتي لا تَنالهُم شَفاعَتي ولا
-يَرِدونَ حَوضي.
-  </p>
-</blockquote>
+> فَأبْشِرْ يا عَليُّ وَبَشِّر أولِيائَكَ وَمحِبِّيك مِن النَّعيمِ بما
+> لا عَينٌ رَأَتْ ولا أُذُنٌ سَمِعَت ولا خَطَرَ عَلى قَلبِ بَشَرٍ.
+> ولكِنَّ حُثالةً مِن الناسِ يُعَيِّرونَ زُوّارَ قُبورِكُم كما تَعَيَّرُ
+> الزّانِيَةُ بزِناها, أولئِك شِرارُ أُمَّتي لا تَنالهُم شَفاعَتي ولا
+> يَرِدونَ حَوضي.
 
 O Abu’l-Hasan, Allah has certainly made your descendants’ and your tombs
 areas and yards of Paradise. He, Glorified and Elevated is He, has also
@@ -448,12 +336,8 @@ beloved of Allah in your arms. O Medina, you have amazed not only the
 terrestrial but also the celestial beings with your glory for becoming
 the descending place of God’s favor and blessings.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلى النَّبِيِّ، يا أَيُّهَا
-الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيماً
-  </p>
-</blockquote>
+> إِنَّ اللهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلى النَّبِيِّ، يا أَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيماً
 
 ***“Surely Allah and His angels bless the Prophet; O you who believe!
 Call for Divine blessings on him and salute him with a becoming
@@ -476,12 +360,8 @@ heaven, become more illuminated, their knowledge of this world become
 vaster, and their influence on the world become more effective. About
 those martyred for God’s sake, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللهِ أَمْوَاتاً بَلْ
-أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ.
-  </p>
-</blockquote>
+> وَلا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللهِ أَمْوَاتاً بَلْ
+> أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ.
 
 ***“And reckon not those who are killed in Allah's way as dead; nay,
 they are alive (and) are provided sustenance from their Lord.
@@ -489,12 +369,8 @@ they are alive (and) are provided sustenance from their Lord.
 
 The Holy Qur’an has likened the unbelievers to the dead:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ يَئِسُوا مِنَ الآخِرَةِ كَما يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ
-الْقُبُورِ.
-  </p>
-</blockquote>
+> قَدْ يَئِسُوا مِنَ الآخِرَةِ كَما يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ
+> الْقُبُورِ.
 
 ***“Indeed, they despair of the hereafter as the unbelievers despair of
 those in tombs. (60:13)”***
@@ -502,16 +378,12 @@ those in tombs. (60:13)”***
 Sheikh Mufid, may Allah be pleased with him, in his book titled
 *al-Maqalaat,* writes down:
 
-<blockquote dir="rtl">
-  <p>
-وإنَّ رسولَ اللهِ والأئمةَ منْ عِترتهِ عليهمُ السلامُ خاصّةً لا تخفَى
-عَليهِم بعدَ الوفاةِ أحوالَ شيعتهِمْ في دارِ الدّنيا بإعلامِ اللهِ
-تعالى لهمْ ذلكَ حالاً بعدَ حالٍ ويسمَعونَ كلامَ المُناجي لهمْ في
-مَشاهدهم المُكرّمةِ العِظامِ بلطيفةٍ من لطائفِ اللهِ تعالى بيَّنَهم
-بها مِن جمهورِ العِبادِ، وتبلُغُهم المُناجاةُ مِن بُعدٍ كما جاءتْ به
-الروايةُ.
-  </p>
-</blockquote>
+> وإنَّ رسولَ اللهِ والأئمةَ منْ عِترتهِ عليهمُ السلامُ خاصّةً لا تخفَى
+> عَليهِم بعدَ الوفاةِ أحوالَ شيعتهِمْ في دارِ الدّنيا بإعلامِ اللهِ
+> تعالى لهمْ ذلكَ حالاً بعدَ حالٍ ويسمَعونَ كلامَ المُناجي لهمْ في
+> مَشاهدهم المُكرّمةِ العِظامِ بلطيفةٍ من لطائفِ اللهِ تعالى بيَّنَهم
+> بها مِن جمهورِ العِبادِ، وتبلُغُهم المُناجاةُ مِن بُعدٍ كما جاءتْ به
+> الروايةُ.
 
 *God’s* *Messenger and the Imams of his household are, adfter decease,
 ware of the state of their followers in this world, and no state of
@@ -524,15 +396,11 @@ aware of the supplications of those who are far away*.[^17]
 Abdullah ibn Bukeir quotes Imam Sadiq (as) as saying in relation to Imam
 Husayn (as):
 
-<blockquote dir="rtl">
-  <p>
-وَإنَّهُ لَيَنْظُرُ إلى زُوّارِهِ فهُوَ أعْرَفُ بهِمْ وبأَسمائِهِم
-وَأَسماءِ آبائهِمْ وما في رِحالهِمْ منْ أَحَدِهِم بوُلدِهِ. وإنّهُ
-لَيَنظُرُ إلى مَن يَبكيهِ فَيَستَغفِرُ لهُ وَيَسألُ أباهُ الاسْتِغفارَ
-ويقولُ: أيّها الباكي، لَو عَلِمتَ ما أعَدَّ اللهُ لكَ لَفَرِحتَ أكثَرَ
-ممّا حَزَنتَ. وإنّهُ لَيَسْتغفِرُ له مِن كلِّ ذنبٍ وخَطيئَةٍ.
-  </p>
-</blockquote>
+> وَإنَّهُ لَيَنْظُرُ إلى زُوّارِهِ فهُوَ أعْرَفُ بهِمْ وبأَسمائِهِم
+> وَأَسماءِ آبائهِمْ وما في رِحالهِمْ منْ أَحَدِهِم بوُلدِهِ. وإنّهُ
+> لَيَنظُرُ إلى مَن يَبكيهِ فَيَستَغفِرُ لهُ وَيَسألُ أباهُ الاسْتِغفارَ
+> ويقولُ: أيّها الباكي، لَو عَلِمتَ ما أعَدَّ اللهُ لكَ لَفَرِحتَ أكثَرَ
+> ممّا حَزَنتَ. وإنّهُ لَيَسْتغفِرُ له مِن كلِّ ذنبٍ وخَطيئَةٍ.
 
 Most surely, he looks at the visitors of his tomb and knows them by the
 name of themselves, their fathers, and the provisions they have with
@@ -546,22 +414,18 @@ Therefore, we realize that the special favors of God’s disciples are
 felt within the precincts of the Imams’ holy shrines more than anywhere
 else. Hence, we should expose ourselves to such favors and say:
 
-<blockquote dir="rtl">
-  <p>
-بأَبي أنْتُم وَأُمِّي وَأهْلي وَمالي وَأُسْرَتي، أُشْهِدُ اللهَ
-وَأُشْهِدُكُم أنِّي مُؤْمِنٌ بِكُم وبمِا آمَنتُم بهِ، كافِرٌ
-بعَدُوِّكُم وبما كَفَرْتمْ بهِ، مُسْتَبْصِرٌ بِشأنِكُم وَبِضَلالَةِ
-مَن خالَفَكُم، مُوالٍ لكُمْ وَلأولِيائِكُم، مُبغِضٌ لأعْدائِكُم
-وَمُعادٍ لهُم، سِلْمٌ لمَنْ سَالَمَكُمْ وَحَربٌ لمَنْ حارَبَكُم،
-محُقِّقٌ لما حَقَّقْتُم مُبْطِلٌ لما أَبطَلتُم، مُطيعٌ لكُمْ عارِفٌ
-بحَقِّكُم، مُقِرٌّ بفَضلِكُم محْتَمِلٌ لِعِلْمِكُم محْتَجِبٌ
-بذِمَّتِكُم مُعْتَرِفٌ بكُم مُؤمِنٌ بإِيابِكُم مُصَدِّقٌ برَجْعَتِكُم
-مُنتَظِرٌ لأمْرِكُم مُرتَقِبٌ لِدَولتِكُم آخِذٌ بقَولِكُم عامِلٌ
-بأَمْرِكُم مُستَجيرٌ بكُم زائِرٌ لكُم عائِذٌ بِقُبورِكُم مُسْتَشْفِعٌ
-إلى اللهِ عَزَّ وجَلَّ بكُم وَمُتَقَرِّبٌ بكُم إلَيهِ وَمُقَدِّمُكُم
-أَمامَ طَلِبَتي وَحَوائِجي وَإِرادَتي في كُلِّ أحْوالي وَأُموري.
-  </p>
-</blockquote>
+> بأَبي أنْتُم وَأُمِّي وَأهْلي وَمالي وَأُسْرَتي، أُشْهِدُ اللهَ
+> وَأُشْهِدُكُم أنِّي مُؤْمِنٌ بِكُم وبمِا آمَنتُم بهِ، كافِرٌ
+> بعَدُوِّكُم وبما كَفَرْتمْ بهِ، مُسْتَبْصِرٌ بِشأنِكُم وَبِضَلالَةِ
+> مَن خالَفَكُم، مُوالٍ لكُمْ وَلأولِيائِكُم، مُبغِضٌ لأعْدائِكُم
+> وَمُعادٍ لهُم، سِلْمٌ لمَنْ سَالَمَكُمْ وَحَربٌ لمَنْ حارَبَكُم،
+> محُقِّقٌ لما حَقَّقْتُم مُبْطِلٌ لما أَبطَلتُم، مُطيعٌ لكُمْ عارِفٌ
+> بحَقِّكُم، مُقِرٌّ بفَضلِكُم محْتَمِلٌ لِعِلْمِكُم محْتَجِبٌ
+> بذِمَّتِكُم مُعْتَرِفٌ بكُم مُؤمِنٌ بإِيابِكُم مُصَدِّقٌ برَجْعَتِكُم
+> مُنتَظِرٌ لأمْرِكُم مُرتَقِبٌ لِدَولتِكُم آخِذٌ بقَولِكُم عامِلٌ
+> بأَمْرِكُم مُستَجيرٌ بكُم زائِرٌ لكُم عائِذٌ بِقُبورِكُم مُسْتَشْفِعٌ
+> إلى اللهِ عَزَّ وجَلَّ بكُم وَمُتَقَرِّبٌ بكُم إلَيهِ وَمُقَدِّمُكُم
+> أَمامَ طَلِبَتي وَحَوائِجي وَإِرادَتي في كُلِّ أحْوالي وَأُموري.
 
 “*My father, mother, family, property, and possessions are at your
 disposal. Allah and you bear witness that I believe in you, thereby have
@@ -591,13 +455,9 @@ Dust from Messengers’ footsteps is life-giving
 
 About the story of the Golden Calf of Samiri, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ. قَالَ بَصُرْتُ ِبمَا لم
-يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِنْ أَثَرِ الرَّسُولِ
-فَنَبَذْتُهَا.
-  </p>
-</blockquote>
+> قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ. قَالَ بَصُرْتُ ِبمَا لم
+> يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِنْ أَثَرِ الرَّسُولِ
+> فَنَبَذْتُهَا.
 
 ***“He said: What was then your object, O Samiri? He said: I saw what
 they did not see, so I took a handful of the dust from the footsteps of
@@ -612,11 +472,7 @@ peculiarity. When God gives such an effect to the dust under Gabriel’s
 foot, He can give the same to the dust of the grave of the Messenger and
 his household who are more honorable that archangels:
 
-<blockquote dir="rtl">
-  <p>
-يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ وَاللهُ ذُو الْفَضْلِ الْعَظِيمِ.
-  </p>
-</blockquote>
+> يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ وَاللهُ ذُو الْفَضْلِ الْعَظِيمِ.
 
 ***“He specially chooses for His mercy whom He pleases; and Allah is the
 Lord of mighty grace.(The Holy Qur’an; 3:74)”***
@@ -632,40 +488,24 @@ opportune time for expressing our love and need for him in view of his
 sublime spiritual position. He has been described as mercy for the
 worlds:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ
 
 ***“And most surely you conform to sublime morality. (The Holy Qur’an;
 68:4)”***
 
-<blockquote dir="rtl">
-  <p>
-بِالْمُؤْمِنِينَ رَؤُوفٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> بِالْمُؤْمِنِينَ رَؤُوفٌ رَحِيمٌ.
 
 ***“To the believers, he is compassionate, merciful. (The Holy Qur’an;
 9:128)”***
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا السَّائِلَ فَلا تَنْهَرْ.
-  </p>
-</blockquote>
+> وَأَمَّا السَّائِلَ فَلا تَنْهَرْ.
 
 ***“As for him who asks, do not chide. (The Holy Qur’an; 93:10)”***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ فَقُلْ سَلامٌ عَلَيْكُمْ كَتَبَ
-رَبُّكُمْ عَلَى نَفْسِهِ الرَّحْمَةَ أَنَّهُ مَنْ عَمِلَ مِنْكُمْ
-سُوءً يِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ وَأَصْلَحَ فَأَنَّهُ
-غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ فَقُلْ سَلامٌ عَلَيْكُمْ كَتَبَ
+> رَبُّكُمْ عَلَى نَفْسِهِ الرَّحْمَةَ أَنَّهُ مَنْ عَمِلَ مِنْكُمْ
+> سُوءً يِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ وَأَصْلَحَ فَأَنَّهُ
+> غَفُورٌ رَحِيمٌ.
 
 ***“And when those who believe in Our communications come to you, say:
 Peace be on you, your Lord has ordained mercy on Himself, (so) that if
@@ -678,13 +518,9 @@ opportunity to raise our hands of need before the house of his daughter
 fulfilled. In the Holy Qur’an, God praises the Ahl ul-Bayt for giving
 their food to the poor, the orphan, and the captive in an excellent way:
 
-<blockquote dir="rtl">
-  <p>
-وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِيناً وَيَتِيماً
-وَأَسِيراً. إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللهِ لا نُرِيدُ مِنْكُمْ
-جَزَاءً وَلا شُكُوراً
-  </p>
-</blockquote>
+> وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِيناً وَيَتِيماً
+> وَأَسِيراً. إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللهِ لا نُرِيدُ مِنْكُمْ
+> جَزَاءً وَلا شُكُوراً
 
 ***“And they give food out of love for Him to the poor and the orphan
 and the captive: we only feed you for Allah's sake; we desire from you
@@ -692,11 +528,7 @@ neither reward nor thanks. (The Holy Qur’an; 78:8-9)”***
 
 After describing blessings in Paradise, God says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُمْ مَشْكُوراً
-  </p>
-</blockquote>
+> إِنَّ هَذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُمْ مَشْكُوراً
 
 ***“Surely this is a reward for you, and your striving shall be
 recompensed.(The Holy Qur’an; 78:22)”***
@@ -704,12 +536,8 @@ recompensed.(The Holy Qur’an; 78:22)”***
 Therefore, we should stand before this door—door of Allah, and
 supplicate from the bottom of our hearts, saying:
 
-<blockquote dir="rtl">
-  <p>
-بِكُمْ أَخْرَجَنَا اللهُ مِنَ الذُّلِّ وَفَرَّجَ عَنّا غَمَراتُ
-الكُروبِ وأنْقَذَنا مِن شَفا جُرُفِ الهَلَكاتِ ومِن النّارِ
-  </p>
-</blockquote>
+> بِكُمْ أَخْرَجَنَا اللهُ مِنَ الذُّلِّ وَفَرَّجَ عَنّا غَمَراتُ
+> الكُروبِ وأنْقَذَنا مِن شَفا جُرُفِ الهَلَكاتِ ومِن النّارِ
 
 “It is on account of you that Allah pulls us out of the depth of
 degradation, sets us free from the clutches of hardships, takes us to
@@ -733,21 +561,13 @@ of her holiness.
 The Messenger of God (saw) is quoted -by both Shiite and Sunni Muslims-
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-فاطِمَةُ بِضعَةٌ مِنّي، مَن آذاها فَقَد آذاني وَمَن آذاني فَقَد آذى
-اللهَ.
-  </p>
-</blockquote>
+> فاطِمَةُ بِضعَةٌ مِنّي، مَن آذاها فَقَد آذاني وَمَن آذاني فَقَد آذى
+> اللهَ.
 
 “Fatima is part of me and I am part of her. He who hurts her is hurting
 me and whoever hurts me is hurting Allah.”
 
-<blockquote dir="rtl">
-  <p>
-يا فاطِمَةُ، إنَّ اللهَ يَرضى لِرِضاكِ ويَغضَبُ لِغَضَبِكِ.
-  </p>
-</blockquote>
+> يا فاطِمَةُ، إنَّ اللهَ يَرضى لِرِضاكِ ويَغضَبُ لِغَضَبِكِ.
 
 “O Fatima, surely Allah becomes wrathful when you are wrathful and
 pleased when you are pleased.”
@@ -755,12 +575,8 @@ pleased when you are pleased.”
 To hurt Lady Fatima is to hurt the Messenger of God, and to hurt the
 Messenger of God entails God’s curse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُؤْذُونَ اللهَ وَرَسُولَهُ لَعَنَهُمُ اللهُ فِي
-الدُّنْيَا وَالآخِرَةِ وَأَعَدَّ لَهُمْ عَذَاباً مُهِيناً.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُؤْذُونَ اللهَ وَرَسُولَهُ لَعَنَهُمُ اللهُ فِي
+> الدُّنْيَا وَالآخِرَةِ وَأَعَدَّ لَهُمْ عَذَاباً مُهِيناً.
 
 ***“Surely as for those who hurt Allah and His Apostle, Allah has cursed
 them in this world and the Hereafter, and He has prepared for them a
@@ -770,11 +586,7 @@ Since we do not exactly know where the great lady of Islam was buried,
 we shed tears on the earth of Baqie cemetery for the likelihood that her
 grave is there, and say:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَليكِ يا بنتَ رسولِ اللهِ.
-  </p>
-</blockquote>
+> السَّلامُ عَليكِ يا بنتَ رسولِ اللهِ.
 
 Peace be upon you, O’ daughter of the Messenger of Allah.
 
@@ -782,11 +594,7 @@ We sometimes stand between the grave and mimbar of the Holy Prophet
 (saw) for the visitation of her grave, based on the saying of the
 Messenger of God (saw):
 
-<blockquote dir="rtl">
-  <p>
-ما بَينَ قَبري ومِنبَري رَوضَةٌ من رِياضِ الجَنَّةِ.
-  </p>
-</blockquote>
+> ما بَينَ قَبري ومِنبَري رَوضَةٌ من رِياضِ الجَنَّةِ.
 
 The area between my grave and mimbar is a garden of Paradise.
 
@@ -805,14 +613,10 @@ What gives dignity to this cemetery is the pure bodies of four Imams
 lovingly during the Hajj season and weep bitterly though there is no
 mausoleum and the graves are at ground level:
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمّ إني أعتَقِدُ حُرمَةَ صاحِبِ هذا المَشهَدِ الشّريفِ في
-غَيبَتِهِ كَما أعتَقِدُها في حَضرَتهِ وأَعلَمُ أنَّ رسولَكَ
-وخُلَفاءَكَ عليهِمُ السّلامُ أحياءٌ عِندَكَ يُرزَقونَ يَرَونَ مَقامي
-وَيسمَعون كَلامي ويَردُّونَ سَلامي.
-  </p>
-</blockquote>
+> اللّهُمّ إني أعتَقِدُ حُرمَةَ صاحِبِ هذا المَشهَدِ الشّريفِ في
+> غَيبَتِهِ كَما أعتَقِدُها في حَضرَتهِ وأَعلَمُ أنَّ رسولَكَ
+> وخُلَفاءَكَ عليهِمُ السّلامُ أحياءٌ عِندَكَ يُرزَقونَ يَرَونَ مَقامي
+> وَيسمَعون كَلامي ويَردُّونَ سَلامي.
 
 O Allah, I believe in the sanctity of the one buried in this holy shrine
 in his/her absence as in his/her presence. I know that Your Messenger
@@ -822,11 +626,7 @@ standing place, hear my words, and answer my salutation.[^22]
 The four Imams who have given dignity to Baqie cemetery are Imam Hasan,
 Imam Sajjad, Imam Baqir, and Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمّ ارزُقنا زِيارَتهُم في الدّنيا وشَفاعَتَهم في الآخرة.
-  </p>
-</blockquote>
+> اَللَّهُمّ ارزُقنا زِيارَتهُم في الدّنيا وشَفاعَتَهم في الآخرة.
 
 O Allah, grant us their visitation in this world and their intercession
 in the Hereafter.
@@ -858,15 +658,11 @@ bravely fought for Islam when it, as well as the Messenger of God were
 isolated, lost their lives, found eternal life, and made us indebted to
 them forever. Therefore, we stand by their graves and say:
 
-<blockquote dir="rtl">
-  <p>
-السّلامُ عَليكُم يا أنْصارَ دِينِ اللهِ وأَنصارَ رَسولِهِ عَلَيهِ
-وآلهِ السَّلامُ. سَلامٌ عَلَيكُم بمِا صَبَرْتُم فَنِعْمَ عُقبى
-الدّارِ. أَشْهَدُ أنَّ اللهَ اختارَكُم لِدينهِ واصطَفاكُم لرَسولهِ
-وأَشهَدُ أنَّكم قَد جاهَدتم في اللهِ حقَّ جِهادِهِ وذَبَبتُم عن دينِ
-اللهِ.
-  </p>
-</blockquote>
+> السّلامُ عَليكُم يا أنْصارَ دِينِ اللهِ وأَنصارَ رَسولِهِ عَلَيهِ
+> وآلهِ السَّلامُ. سَلامٌ عَلَيكُم بمِا صَبَرْتُم فَنِعْمَ عُقبى
+> الدّارِ. أَشْهَدُ أنَّ اللهَ اختارَكُم لِدينهِ واصطَفاكُم لرَسولهِ
+> وأَشهَدُ أنَّكم قَد جاهَدتم في اللهِ حقَّ جِهادِهِ وذَبَبتُم عن دينِ
+> اللهِ.
 
 “Peace be upon you, O helpers of the religion of Allah and helpers of
 His Messenger (peace be upon him and his progeny). Peace be upon you for
@@ -880,26 +676,18 @@ helping the religion of God and His Messenger. Hence, among the martyrs
 of Uhud, he has such great rank about whom the Holy Prophet (saw) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَن زارَني وَلم يَزُر قَبرَ عمِّي حَمزَةَ فَقد جَفاني.
-  </p>
-</blockquote>
+> مَن زارَني وَلم يَزُر قَبرَ عمِّي حَمزَةَ فَقد جَفاني.
 
 Whoever visits my grave but does not visit the grave of my uncle Hamza,
 has indeed been unkind to me.
 
 So, we should pay homage to him by saying:
 
-<blockquote dir="rtl">
-  <p>
-السّلامُ عَلَيكَ يا عَمَّ رَسولِ الله صَلّى اللهُ عَليهِ وآلهِ،
-السّلامُ عَلَيكَ يا خَيرَ الشُّهَداءِ، السّلامُ عَلَيكَ يا أَسَدَ
-اللهِ وَأَسَدَ رَسولهِ... وَأَنتَ ِممَّن أَمَرَنِيَ اللهُ بِصِلَتِهِ
-وَحَثَّني عَلى بِرِّهِ ودّلَّني عَلى فَضلهِ وهَداني لحُبِّهِ
-ورَغَّبَني في الوِفادَةِ إليهِ وألهَمَني طَلَبَ الحوائِجِ عِندَه.
-  </p>
-</blockquote>
+> السّلامُ عَلَيكَ يا عَمَّ رَسولِ الله صَلّى اللهُ عَليهِ وآلهِ،
+> السّلامُ عَلَيكَ يا خَيرَ الشُّهَداءِ، السّلامُ عَلَيكَ يا أَسَدَ
+> اللهِ وَأَسَدَ رَسولهِ... وَأَنتَ ِممَّن أَمَرَنِيَ اللهُ بِصِلَتِهِ
+> وَحَثَّني عَلى بِرِّهِ ودّلَّني عَلى فَضلهِ وهَداني لحُبِّهِ
+> ورَغَّبَني في الوِفادَةِ إليهِ وألهَمَني طَلَبَ الحوائِجِ عِندَه.
 
 “Peace be upon you, O uncle of the Messenger of Allah. Peace be upon
 you, O the best of martyrs. Peace be upon you, O the lion of Allah and
@@ -920,21 +708,13 @@ and immaculate Household, and His grace to accept our Hajj, and make the
 rest of our lives safe from the temptations of Satan under the shelter
 of Imam Mahdi (as). Also, safeguard our children from moral deviations.
 
-<blockquote dir="rtl">
-  <p>
-اَللّهمَّ صَلِّ عَلى محَمَّدٍ وآلِ محَمَّدٍ وارْزُقْنا حَجَّ بَيتِكَ
-الحَرامِ وزِيارَةَ قَبرِ نَبِيِّكَ والأئِمَّةِ عَلَيهِمُ السّلامُ في
-كُلِّ عامٍ ولا تخَلّينا يا رَبَّنا مِن تلكَ المشَاهِدِ الشّريفَةِ
-والمَواقِفِ الكَريمَةِ ما أبقَيْتَنا.
-  </p>
-</blockquote>
+> اَللّهمَّ صَلِّ عَلى محَمَّدٍ وآلِ محَمَّدٍ وارْزُقْنا حَجَّ بَيتِكَ
+> الحَرامِ وزِيارَةَ قَبرِ نَبِيِّكَ والأئِمَّةِ عَلَيهِمُ السّلامُ في
+> كُلِّ عامٍ ولا تخَلّينا يا رَبَّنا مِن تلكَ المشَاهِدِ الشّريفَةِ
+> والمَواقِفِ الكَريمَةِ ما أبقَيْتَنا.
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمدُ للهِ ربِّ العالمَينَ وَصَلّى اللهُ عَلى محَمَّدٍ وآلهِ
-الطاهِرينَ.
-  </p>
-</blockquote>
+> وَالحَمدُ للهِ ربِّ العالمَينَ وَصَلّى اللهُ عَلى محَمَّدٍ وآلهِ
+> الطاهِرينَ.
 
 O God, send peace and blessings upon Muhammad and the progeny of
 Muhammad (saw) and grant us pilgrimage to Your Sacred House and
@@ -951,12 +731,8 @@ marriage are illegal is because they refrain from paying the obligatory
 tax of Khums. In this regard many narrations are reported. Imam ‘Ali
 (as) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-هَلَكَ النّاسُ في بُطونِهِم وفُروجِهِم لأنَّهُم لم يُؤَدّوا إلَينا
-حَقَّنا. ألا وإنَّ شيعَتَنا مِن ذلِكَ في حِلٍّ.
-  </p>
-</blockquote>
+> هَلَكَ النّاسُ في بُطونِهِم وفُروجِهِم لأنَّهُم لم يُؤَدّوا إلَينا
+> حَقَّنا. ألا وإنَّ شيعَتَنا مِن ذلِكَ في حِلٍّ.
 
 People perish in matters related to their eating and marriage. This is
 because they do not fulfill our rights that are divinely incumbent upon
@@ -964,12 +740,8 @@ them. Our Shia are released from the fulfillment of such rights.[^25]
 
 Imam Sadiq (as) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-النّاسُ كُلُّهُم يَعيشونَ في فَضْلِ مَظْلَمَتِنا. ألا إننا أحْلَلْنا
-شيعَتَنا مِن ذلِكَ.
-  </p>
-</blockquote>
+> النّاسُ كُلُّهُم يَعيشونَ في فَضْلِ مَظْلَمَتِنا. ألا إننا أحْلَلْنا
+> شيعَتَنا مِن ذلِكَ.
 
 All people are plunging in the wronging against us. We however have
 released our Shia –adherents- from being involved in such wronging.
@@ -1034,5 +806,4 @@ from al-Kaf’ami’s)
 [^24]: Ziyarat of Hamza
 
 [^25]: see al-Wafi; vol. 2 Section: Khums, p.42
-
 

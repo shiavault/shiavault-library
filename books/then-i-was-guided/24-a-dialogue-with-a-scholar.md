@@ -471,4 +471,3 @@ enlightenment and for opening my eyes to see the truth.
 [^3]: Sahih, al Tirmidhi, vol 5 p 296; Khasai's, al Nisai, p 87;
 Mustadrak, al Hakim, vol 3 p 110
 
-

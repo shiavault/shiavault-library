@@ -20,4 +20,3 @@ demonstrative pronoun, for example: **هاتیک.**
 **هنا** (close), **هناک** (medium distance), and**هنالِک و ثَمَّ**
 (far).
 
-

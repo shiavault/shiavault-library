@@ -57,4 +57,3 @@ signs of hypocrisy.”*
 He (a.s.) also said: *“Surely the most hated man with Allah is he whose
 tongue people fear.”*
 
-

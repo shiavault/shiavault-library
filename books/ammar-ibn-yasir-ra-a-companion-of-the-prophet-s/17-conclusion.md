@@ -60,4 +60,3 @@ from the day of Siffin till the present times. There has been no motive
 other than sincerity and search for truth and the party spirit which is
 so common these days has been avoided at all costs.
 
-

@@ -270,4 +270,3 @@ ibn Ab: ھ"lib.’224 .asan of Basra said of !Al: that he was: ‘a straight
 arrow from Allah’s bow against His enemies, and he was the divine of
 this nation.’225
 
-

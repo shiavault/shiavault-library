@@ -145,4 +145,3 @@ them somewhere else under the pretext of extending the Mosque.
 The Holy Prophet got it all as his inheritance.  
   
 
-

@@ -405,4 +405,3 @@ one of my customs."1 Clearly this philosophy of asceticism cannot be
 attributed to Islam. This philosophy might have existed in some places
 in the world but it does not conform to Islam.
 
-

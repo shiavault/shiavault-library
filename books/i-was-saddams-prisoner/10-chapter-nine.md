@@ -73,4 +73,3 @@ washed the pyjama. And if the Muhaqqiq decided to call one right then,
 one rushed downstairs with the dripping suit. *'Harval Ya Maloon, La
 Umma Lak'* - the Haras would roar.
 
-

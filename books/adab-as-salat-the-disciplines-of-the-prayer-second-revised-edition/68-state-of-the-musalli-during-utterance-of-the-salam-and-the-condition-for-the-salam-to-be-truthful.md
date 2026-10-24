@@ -36,4 +36,3 @@ referred in our commentary on the *sūrah* of *al-Qadr*.
 last;” Muslim's Sahīh, vol. 2, p. 585; Al-Bukhārī's Sahīh, vol. 1, p.
 36: “We are the last and we are the preceding ones.”
 
-

@@ -135,4 +135,3 @@ in which great personalities fed or attended to the sickness of a person
 that committed harm to them and their families, and many times that
 person turned to Islam or became less rigid because of such kindness.
 
-

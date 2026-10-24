@@ -82,4 +82,3 @@ Was-Salam
  Translator  
  August 1997
 
-

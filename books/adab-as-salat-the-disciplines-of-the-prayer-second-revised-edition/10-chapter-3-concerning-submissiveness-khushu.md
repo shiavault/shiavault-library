@@ -63,7 +63,7 @@ Satan according to the testimony of Allah, has information about the
 Beginning and the Resurrection, yet, he is a disbeliever. He said:
 
 *“**You have created me of fire, while You created him of dust,”***[^3]
-  
+
  So, he believes in Allah and in His being the Creator; and he says:
 “**Respite me until the day they are resurrected.”** [^4] So, he
 believes in the Day of Resurrection, too. He knows about the Books, the
@@ -165,5 +165,4 @@ find, through this, a way to his happiness. And praise be to Allah.
 [^5]: Sūrah al-Hadīd 57:16.
 
 [^6]: Sūrah Fātir 35:28
-
 

@@ -39,4 +39,3 @@ Questions
 
 4. When does a difficult task become easy and profitable?
 
-

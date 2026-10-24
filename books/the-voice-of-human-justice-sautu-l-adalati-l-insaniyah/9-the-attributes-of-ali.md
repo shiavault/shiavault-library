@@ -732,4 +732,3 @@ everything in accordance with the inspiration and traditions of the
 Prophet of Islam. Hence, he did not entertain any doubt about his views
 and actions..
 
-

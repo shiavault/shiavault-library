@@ -87,7 +87,6 @@ those who are prepared to achieve their own impure, trifle objectives by
 depriving the Islamic Ummah of their greatest weapon against the global
 infidelity and arrogance." 43
 
-
 **Chapter 2 : Arrogance: Greatest Challenge of the Islamic World**
 
 **Introduction**
@@ -338,5 +337,4 @@ Khamenei) (Tehran: Islamic Propagation Organization), P. 99.
 52 Ayatollah Khamenei, Speech on the Feast of Appoint of Prophet
 Muhammad (PBUH) October 24, 1993.
 53 Ayatollah Khamenei, Speech, July 12, 1998.
-
 

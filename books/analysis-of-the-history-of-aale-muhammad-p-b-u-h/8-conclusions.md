@@ -573,4 +573,3 @@ Peace be on those who follow the guidance.
 10th Jamadi al-Oola 1363
 Syed Mehmood Taaliqaani
 
-

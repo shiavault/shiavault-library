@@ -750,4 +750,3 @@ admirable. Muslim parents should not push their children solely to
 become doctors, engineers, and lawyers, but should encourage them also
 to enter the field of Islamic studies. Thank you.
 
-

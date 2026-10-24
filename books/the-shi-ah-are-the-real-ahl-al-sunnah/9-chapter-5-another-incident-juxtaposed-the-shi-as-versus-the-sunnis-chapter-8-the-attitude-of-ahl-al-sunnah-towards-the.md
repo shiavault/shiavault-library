@@ -123,9 +123,8 @@ said, "Surely when the kings enter a town, they ruin it and make the
 most noble of its people the very lowest, and thus do they (always) do"
 (Holy Qur'an, 27:34).
 
-[^53] The Ministry of Education in Saudi Arabia has published a book
+[^53]: The Ministry of Education in Saudi Arabia has published a book
 titled Haqaiq an Ameer al-Mumineen Yazid ibn Mu'awiyah (facts about the
 commander of the faithful Yazid son of Mu\`awiyah) to be taught as a
 curriculum text book at its public schools.
-
 

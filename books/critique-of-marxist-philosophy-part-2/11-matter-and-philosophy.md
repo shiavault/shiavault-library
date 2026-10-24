@@ -32,4 +32,3 @@ When the philosophical conception of matter, as something composed of
 matter and form is understood, we know, according to al-Sadr, that
 philosophical matter cannot be the first cause of the world.
 
-

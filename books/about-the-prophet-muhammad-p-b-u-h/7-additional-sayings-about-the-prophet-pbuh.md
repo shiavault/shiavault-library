@@ -189,4 +189,3 @@ this wonderful man, Muhammad (pbuh): The Institute of Islamic
 Information & Education P.O. Box 41129 Chicago, IL 60641-0129 Tel. (312)
 777-7443 Fax. (312) 777-7199
 
-

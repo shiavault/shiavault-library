@@ -15,12 +15,8 @@ monotheism that opposes polytheism. The Holy Quran considers polytheism
 to be the only sin which is unforgivable under every circumstance. And
 He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَ
-لِكَ لِمَن يَشَآءُ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَ
+> لِكَ لِمَن يَشَآءُ
 
 ***“Surely Allah does not forgive that anything should be associated
 with Him, and forgives what is besides that to whomsoever He pleases…”
@@ -38,22 +34,14 @@ being, who is called as ‘Allah’ is one and not more and He is unique. He
 has an independent existence without any need whereas all phenomena of
 the world are related to Him and are in need of Him.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ
 
 ***“Say: He, Allah, is One.” (112:1)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا هُوَ إِلَهٌ وَحِدٌ وَإِنَّنِى بَرِى‏ءٌ مِّمَّا
-تُشْرِكُونَ‏
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا هُوَ إِلَهٌ وَحِدٌ وَإِنَّنِى بَرِى‏ءٌ مِّمَّا
+> تُشْرِكُونَ‏
 
 ***“Say: He is only one God, and surely I am clear of that which you set
 up (with Him).” (6:19)***
@@ -223,12 +211,8 @@ Peninsula also confessed to oneness in creation.
 
 The Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ وَسَخَّرَ
-الشَّمْسَ وَ الْقَمَرَ لَيَقُولُنَّ اللَّهُ فَأَنَّى‏ يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ وَسَخَّرَ
+> الشَّمْسَ وَ الْقَمَرَ لَيَقُولُنَّ اللَّهُ فَأَنَّى‏ يُؤْفَكُونَ
 
 ***“And if you ask them, Who created the heavens and the earth and made
 the sun and the moon subservient, they will certainly say, Allah. Whence
@@ -236,12 +220,8 @@ are they then turned away?” (29:61)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَآءِ مَآءً فَأَحْيَا بِهِ
-الْأَرْضَ مِن بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَآءِ مَآءً فَأَحْيَا بِهِ
+> الْأَرْضَ مِن بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ
 
 ***“And if you ask them Who is it that sends down water from the clouds,
 then gives life to the earth with it after its death, they will
@@ -249,34 +229,22 @@ certainly say, Allah.” (29:63)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-أَفِى اللَّهِ شَكٌّ فَاطِرِ السَّمَوَ تِ وَالْأَرْضِ
-  </p>
-</blockquote>
+> أَفِى اللَّهِ شَكٌّ فَاطِرِ السَّمَوَ تِ وَالْأَرْضِ
 
 ***“Is there doubt about Allah, the Maker of the heavens and the earth?”
 (14:10)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُ خَلِقُ كُلِّ شَىْ‏ءٍ وَهُوَ الْوَ حِدُ الْقَهَّرُ
-  </p>
-</blockquote>
+> قُلِ اللَّهُ خَلِقُ كُلِّ شَىْ‏ءٍ وَهُوَ الْوَ حِدُ الْقَهَّرُ
 
 ***“Say: Allah is the Creator of all things, and He is the One, the
 Supreme.” (13:16)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَآءُ
-الْحُسْنَى‏
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَآءُ
+> الْحُسْنَى‏
 
 ***“He is Allah the Creator, the Maker, the Fashioner; His are the most
 excellent names…” (59:24)***
@@ -344,14 +312,10 @@ belief and also regards lordship as a special attribute of Almighty
 Allah. There are numerous verses in the Holy Quran which mention this
 point:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِى رَفَعَ السَّمَوَ تِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ
-اسْتَوَى‏ عَلَى الْعَرْشِ وَ سَخَّرَ الشَّمْسَ وَ الْقَمَرَ كُلٌّ
-يَجْرِى لِأَجَلٍ مُّسَمّىً يُدَبِّرُ الْاُمْرَ يُفَصِّلُ الْأَيَتِ
-لَعَلَّكُمْ بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ‏
-  </p>
-</blockquote>
+> اللَّهُ الَّذِى رَفَعَ السَّمَوَ تِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ
+> اسْتَوَى‏ عَلَى الْعَرْشِ وَ سَخَّرَ الشَّمْسَ وَ الْقَمَرَ كُلٌّ
+> يَجْرِى لِأَجَلٍ مُّسَمّىً يُدَبِّرُ الْاُمْرَ يُفَصِّلُ الْأَيَتِ
+> لَعَلَّكُمْ بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ‏
 
 ***“Allah is He Who raised the heavens without any pillars that you see,
 and He is firm in power and He made the sun and the moon subservient (to
@@ -361,14 +325,10 @@ Lord.” (13:2)***
 
 And it says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكُمُ اللَّهُ الَّذِى خَلَقَ السَّمَوَتِ وَالْأَرْضَ فِى
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى‏ عَلَى الْعَرْشِ يُدَبِّرُ الْأَمْرَ
-مَا مِن شَفِيعٍ إِلَّا مِن بَعْدِ إِذْنِهِ ذَ لِكُمُ اللَّهُ رَبُّكُمْ
-فَاعْبُدُوهُ أَفَلَا تَذَكَّرُونَ‏
-  </p>
-</blockquote>
+> إِنَّ رَبَّكُمُ اللَّهُ الَّذِى خَلَقَ السَّمَوَتِ وَالْأَرْضَ فِى
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى‏ عَلَى الْعَرْشِ يُدَبِّرُ الْأَمْرَ
+> مَا مِن شَفِيعٍ إِلَّا مِن بَعْدِ إِذْنِهِ ذَ لِكُمُ اللَّهُ رَبُّكُمْ
+> فَاعْبُدُوهُ أَفَلَا تَذَكَّرُونَ‏
 
 ***“Surely your Lord is Allah, Who created the heavens and the earth in
 six periods, and He is firm in power, regulating the affair, there is no
@@ -384,33 +344,21 @@ there with His existential permission.
 
 As mentioned in other verses also:
 
-<blockquote dir="rtl">
-  <p>
-بَل رَّبُّكُمْ رَبُّ السَّمَوَتِ وَالْأَرْضِ الَّذِى فَطَرَهُنَّ
-  </p>
-</blockquote>
+> بَل رَّبُّكُمْ رَبُّ السَّمَوَتِ وَالْأَرْضِ الَّذِى فَطَرَهُنَّ
 
 ***“Nay! your Lord is the Lord of the heavens and the earth, Who brought
 them into existence…” (21:56)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَغَيْرَ اللَّهِ أَبْغِى رَبّاً وَهُوَ رَبُّ كُلِّ شَىْ‏ءٍ
-  </p>
-</blockquote>
+> قُلْ أَغَيْرَ اللَّهِ أَبْغِى رَبّاً وَهُوَ رَبُّ كُلِّ شَىْ‏ءٍ
 
 ***“Say: What! shall I seek a Lord other than Allah? And He is the Lord
 of all things…” (6:164)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ ِللَّهِ رَبِّ الْعَلَمِينَ‏
-  </p>
-</blockquote>
+> الْحَمْدُ ِللَّهِ رَبِّ الْعَلَمِينَ‏
 
 ***“All praise is due to Allah, the Lord of the Worlds.” (1:2)***
 
@@ -448,24 +396,16 @@ Oneness in worship means monotheism and restricting worship only to the
 holy being of Almighty Allah. Oneness in worship was the most important
 call of the prophets. Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللَّهَ
-وَاجْتَنِبُواْ الطَّغُوتَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللَّهَ
+> وَاجْتَنِبُواْ الطَّغُوتَ
 
 ***“And certainly We raised in every nation an apostle saying: Serve
 Allah and shun the Shaitan.” (16:36)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِى إِلَيْهِ
-أَنَّهُ لَا إِلَهَ إِلَّا أَنَاْ فَاعْبُدُونِ‏
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِى إِلَيْهِ
+> أَنَّهُ لَا إِلَهَ إِلَّا أَنَاْ فَاعْبُدُونِ‏
 
 ***“And We did not send before you any apostle but We revealed to him
 that there is no god but Me, therefore serve Me.” (21:25)***
@@ -493,24 +433,16 @@ cannot do anything. Quran has ridiculed the polytheists for this worship
 and says: Worship Allah as He is the doer of the world. The Holy Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَتَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرّاً
-وَلَا نَفْعاً
-  </p>
-</blockquote>
+> قُلْ أَتَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرّاً
+> وَلَا نَفْعاً
 
 ***“Say: Do you serve besides Allah that which does not control for you
 any harm, or any profit?” (5:76)***
 
 And says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ
-رِزْقاً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ
+> رِزْقاً
 
 ***“You only worship idols besides Allah and you create a lie; surely
 they whom you serve besides Allah do not control for you any
@@ -518,68 +450,44 @@ sustenance…” (29:17)***
 
 And says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ اللَّهَ رَبِّى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
-مُّسْتَقِيمٌ‏
-  </p>
-</blockquote>
+> وَإِنَّ اللَّهَ رَبِّى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
+> مُّسْتَقِيمٌ‏
 
 ***“And surely Allah is my Lord and your Lord, therefore serve Him; this
 is the right path.” (19:36)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا النّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِى خَلَقَكُمْ وَالَّذِينَ
-مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ‏
-  </p>
-</blockquote>
+> يَأَيُّهَا النّاسُ اعْبُدُواْ رَبَّكُمُ الَّذِى خَلَقَكُمْ وَالَّذِينَ
+> مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ‏
 
 ***“O men! serve your Lord Who created you and those before you so that
 you may guard (against evil).” (2:21)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَقَوْمِ اعْبُدُواْ اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ
-  </p>
-</blockquote>
+> يَقَوْمِ اعْبُدُواْ اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ
 
 ***“Certainly We sent Nuh to his people, so he said: O my people! serve
 Allah, you have no god other than Him…” (7:59)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ
-وَيَقُولُونَ هَؤُلَآءِ شُفَعَؤُنَا عِندَ اللَّهِ
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ
+> وَيَقُولُونَ هَؤُلَآءِ شُفَعَؤُنَا عِندَ اللَّهِ
 
 ***“And they serve beside Allah what can neither harm them nor profit
 them, and they say: These are our intercessors with Allah.” (10:18)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أُمِرُواْ إِلَّا لِيَعْبُدُواْ إِلَهاً وَ حِداً
-  </p>
-</blockquote>
+> وَمَآ أُمِرُواْ إِلَّا لِيَعْبُدُواْ إِلَهاً وَ حِداً
 
 ***“…they were enjoined that they should serve one God only.” (9:31)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ وَلَا أُشْرِكَ بِهِ
-  </p>
-</blockquote>
+> قلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ وَلَا أُشْرِكَ بِهِ
 
 ***“Say: I am only commanded that I should serve Allah and not associate
 anything with Him…” (13:36)***
@@ -598,12 +506,8 @@ in divinity, creation and lordship of the deity. And that is why the
 prostration of angels before His Eminence, Adam; since Almighty Allah
 had ordered it, it was not polytheism. Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا لِلْمَلَئِكَةِ اسْجُدُواْ لِأَدَمَ فَسَجَدُواْ إِلَّا
-إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِيناً
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا لِلْمَلَئِكَةِ اسْجُدُواْ لِأَدَمَ فَسَجَدُواْ إِلَّا
+> إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِيناً
 
 ***“And when We said to the angels: Make obeisance to Adam; they made
 obeisance, but Iblis (did it not). He said: Shall I make obeisance to
@@ -616,11 +520,7 @@ his brothers in front of their parents was not worship and polytheism as
 mentioned in Quran that Prophet Yusuf (a.s.) seated his parents on the
 throne and fell down in prostration to them along with his brothers.
 
-<blockquote dir="rtl">
-  <p>
-وَ رَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَ خَرُّواْ لَهُ سُجَّداً
-  </p>
-</blockquote>
+> وَ رَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَ خَرُّواْ لَهُ سُجَّداً
 
 ***“And he raised his parents upon the throne and they fell down in
 prostration before him.” (12:100)***
@@ -662,5 +562,4 @@ effects, nor unnatural cause; and they cannot be considered as
 polytheism.
 
 [^1]: Nahjul Balagha, Sermon 1.
-
 

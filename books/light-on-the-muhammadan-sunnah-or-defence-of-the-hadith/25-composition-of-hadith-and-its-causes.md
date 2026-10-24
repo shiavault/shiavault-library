@@ -31,7 +31,7 @@ them from the straight path they have trodden steadily, and on whose
 course the Qur’an remained established.” Then he wrote an accurate
 sincere statement declaring: “After that the sequence of events
 continued with breaching the covenant by some of those who swore
-allegiance to the Fourth Caliph, <span id="_anchor_194"></span>194 and
+allegiance to the Fourth Caliph, 194 and
 eruption of several wars among the Muslims that led to the shifting of
 power to the Umayyads! But the structure of the company was split, and
 bonds of their unity were severed, with people being divided into
@@ -39,7 +39,7 @@ several schools of thought regarding caliphate, and parties embarking on
 supporting the opinion of some school against that of its opponent,
 verbally and practically. Then originated the invention in narration and
 interpretation, with every sect going to the extremes, leading then to
-disagreement and disunity among people <span id="_anchor_195"></span>195
+disagreement and disunity among people 195
 ...etc.
 
 ### The Fabricated Hadith:
@@ -71,13 +71,13 @@ some known of composing traditions that were never uttered by the
 Messenger of Allah (S) at all, such as the Zanadiqah and their likes who
 were never observing any commitment to Allah, either out of favouritism
 as they alleged, and religiosity like the ignorants among worshippers,
-<span id="_anchor_196"></span>196 who fabricated traditions on virtues
+196 who fabricated traditions on virtues
 and recommendable deeds, or out of doing something strange and seeking
 fame like the debauchees among traditionists. Or out of bigotry and
 argumentation like the propagators among the heretics and fanatics to
 madhahib (schools of thought), or for satisfying the desires of
 world-seeking people to attain to their goals, and asking for success
-for their doing. <span id="_anchor_197"></span>197
+for their doing. 197
 
  Among them also were those who would not fabricate text of hadith, but
 would bring in a correct authentic chain of transmission for the weak
@@ -93,7 +93,7 @@ him and his Progeny).
 Besides the reasons mentioned by al-Nawawi for fabricating the hadith
 and falsifying the Messenger’s traditions, many others are there that
 were stated by the ulama’, the most important of which being the
-following: <span id="_anchor_198"></span>198
+following: 198
 
 First: Which is the most important of all. It includes the traditions
 fabricated and falsified by the Zanadiqah disguising cheatingly and
@@ -152,8 +152,7 @@ Iblis”.
 It is said that no need is there to prove the baselessness of this
 intentional violation of truth. Nevertheless, there are some
 considerable jurisprudents who mention in their fiqhi books the part of
-the hadith labelling Abu Hanifah as the beacon of the Ummah, <span
-id="_anchor_199"></span>199 without any objection. Rather they even
+the hadith labelling Abu Hanifah as the beacon of the Ummah, 199 without any objection. Rather they even
 infer it for giving superiority for their leader over other leaders
 (imams). Despite all this, they are considered the example for the Ummah
 whose sayings and judgements on religious affairs are so dependable,
@@ -179,7 +178,7 @@ traditions and reported old speeches being abundant inference by weak
 traditions to support their beliefs and their claims, with deleting some
 words once and adding some others to the hadith. Many examples for these
 cases can be found in the works of Abu al-Ma’ali and his companion Abu
-Hamid. <span id="_anchor_200"></span>200
+Hamid. 200
 
 Third: Neglecting memorization due to be busy with asceticism and
 
@@ -213,8 +212,7 @@ all.
 
 Sixth: Reporting the hadith by memorizing from those having reliable
 books, with being inaccurate in memorization, entailing consequently the
-loss of books and occurrence of mistakes and errors. <span
-id="_anchor_201"></span>201
+loss of books and occurrence of mistakes and errors. 201
 
 Seventh: Mental confusion inflicting people at the end of life, as in
 the case of a group of trustworthy narrators, who were excused for this
@@ -243,12 +241,7 @@ fabricated traditions until practising the job of preaching with
 experiencing the corruption caused to religion at the hands of the
 preachers. About himself he said that he used to disapprove the
 traditions that were usually cited during the preaching meetings held by
-him, the fact arousing the grudge of all talebearers against him. <span
-id="_anchor_202"></span>202
-
-  
-  
-  
+him, the fact arousing the grudge of all talebearers against him. 202
 
 194. Talhah and al-Zubayr were the first people who breached the swear
 of allegiance (bay'ah), supported by A'ishah, because of the malice and

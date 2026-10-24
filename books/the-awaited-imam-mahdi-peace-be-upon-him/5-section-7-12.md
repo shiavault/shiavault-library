@@ -419,10 +419,8 @@ Section 12: Imam Mahdī (Peace Be Upon Him) as the Last Caliph
 وسلم يقول: لا يزال هذا الدين قائما حتى يكون عليكم اثنا عشر خليفة، كلهم
 تجتمع عليه الأمة
 
-<p dir="rtl">
 فسمعت كلاما من النبي صلى الله عليه وآله وسلم لم أفهمه، فقلت لأبي: ما
 يقول؟ قال: كلهم من قريش.
-</p>
 
 “It is narrated by Jābir ibn Samurah (RA): I heard the Messenger of
 Allāh*(Peace Be Upon Him and His Household)* say: Islam will remain
@@ -451,13 +449,11 @@ Quraysh.”
 Imam Suyūtī comments on Abū Dāwūd’s narration in al-Hāwī lil-fatāwā
 (2:85):
 
-<p dir="rtl">
 عقد أبو داؤد في سننه بابا في المهدي، وأورد في صدره حديث جابر بن سمرة رضي
 الله عنه، عن رسول الله صلى الله عليه وآله وسلم: لا يزال هذا الدين قائما
 حتى يكون اثنا عشر خليفة، كلهم تجتمع عليه الأمة. وفي رواية: لا يزال هذا
 الدين عزيزا إلى اثني عشر خليفة، كلهم من قريش. فأشار بذلك إلى ما قاله
 العلماء: ان المهدي أحد الاثنى عشر.
-</p>
 
 “Abū Dāwūd has devoted a chapter to Imām Mahdī in his book as-Sunan
 (4:86). In the beginning of the chapter a narration of Jābir ibn Samurah
@@ -476,10 +472,8 @@ twelfth and last Imām on this earth.
 Abū Dāwūd, after introducing the chapter with these two traditions, has
 included the following narration:
 
-<p dir="rtl">
 عن أم سلمة رضي الله عنها، قالت: سمعت رسول الله صلى الله عليه وآله وسلم
 يقول: المهدي من عترتي من ولد فاطمة.
-</p>
 
 “Narrated by Umm Salamah*(Allāh Be Pleased With Her)* that she heard the
 Messenger of Allāh*(Peace Be Upon Him and His Household)* saying: Mahdī
@@ -543,10 +537,8 @@ time also ‘Īsā*(Peace Be Upon Him)* will descend (from the heaven).”
 “Imam Suyūtī in al-Hāwī lil-fatāwā (2:80) after listing the signs of the
 arrival of Imām Mahdī, comments:
 
-<p dir="rtl">
 هذه الآثار كلها لخصتها من "كتاب الفتن" لنعيم بن حماد، وهو أحد الأئمة
 الحفاظ، وأحد شيوخ البخاري.
-</p>
 
 “All these signs which I have summarised from the book “al-Fitan” by
 Nu‘aym ibn Hammād who was a hāfiz (of hadīth) and one of the teachers of
@@ -589,5 +581,4 @@ and exploitation. He will distribute things equally among the people and
 Allāh will also fill their hearts with content. He will rule for seven
 or nine years. Then after the caliphate of Mahdī, there will be a total
 end to goodness (and virtue).”
-
 

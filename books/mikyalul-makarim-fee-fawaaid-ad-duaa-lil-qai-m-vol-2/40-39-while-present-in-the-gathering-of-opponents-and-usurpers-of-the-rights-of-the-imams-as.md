@@ -7,11 +7,7 @@ asked Imam-e-Sadiq (as), ‘May I be sacrificed for you, what should I say
 when I attend the gatherings of the Bani Abbas ?’. He (as) replied,
 “When you are with them, remember us, then say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم أرنا الرخاء والسرور فإنك تأتي على كل ما تريد...
-  </p>
-</blockquote>
+> اللهم أرنا الرخاء والسرور فإنك تأتي على كل ما تريد...
 
 ‘O Allah! Provide us comfort and joy, for surely, whatever You desire,
 occurs’.”
@@ -27,5 +23,4 @@ readiness, while attending such unfriendly congregations, to pray for an
 early reappearance, which Allah, Mighty and Glorified, has promised on
 account of His obligation and nobility because He is near to the
 servants and He accepts their supplications.
-
 

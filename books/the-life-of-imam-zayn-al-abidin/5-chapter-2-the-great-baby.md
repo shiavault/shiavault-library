@@ -421,4 +421,3 @@ p.109. Al-Sirat al-Sawi fi Manaqib Al al-Nabi, p.192.
 
 [^32]: Ibn Qutayba, ‘Uyyiun al-Akhbar, vol. 1, p.302.
 
-

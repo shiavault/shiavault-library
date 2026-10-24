@@ -4,17 +4,9 @@ Section 4: The Necessity of Being Pleased With the Outcome of an Istikhara
 11) The Trust of the Imams in the Outcome of an Istikhara
 ---------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
 
-<blockquote dir="rtl">
-  <p>
-مَا اُبَالِي إِذاَ إِسْتَخَرْتُ اللهَ أَيَّ طَرَفِي وَقَعَتْ.
-  </p>
-</blockquote>
+> مَا اُبَالِي إِذاَ إِسْتَخَرْتُ اللهَ أَيَّ طَرَفِي وَقَعَتْ.
 
 *al‑Imam al‑Sadiq (‘as) said: "It does not matter to me that when I seek
 the best from Allah, which way it falls (whether it results in ease for
@@ -42,18 +34,10 @@ heart.
 12) One Must Believe that an Istikhara will Solve the Dilemma
 -------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَّلامْ:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَّلامْ:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَخَارَ اللهَ راَضِياً بِمَا صَنَعَ اللهُ خَارَ اللهُ لَهُ
-حَتْماً.
-  </p>
-</blockquote>
+> مَنِ اسْتَخَارَ اللهَ راَضِياً بِمَا صَنَعَ اللهُ خَارَ اللهُ لَهُ
+> حَتْماً.
 
 *al‑Imam al‑Sadiq (‘as), said: "Whosoever asks Allah for the best and is
 pleased with what Allah has decided for him, then without doubt, Allah
@@ -67,11 +51,7 @@ performs the customary *Istikhara*.
 Before one asks Allah for the best, it is imperative that attention is
 paid to the following point:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مُؤْمِنِ يَدْعُو اللهَ إِلاَّ اسْتجَابَ لَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ مُؤْمِنِ يَدْعُو اللهَ إِلاَّ اسْتجَابَ لَهُ.
 
 *"There is no believer that calls upon Allah except that He answers the
 call.* "[^3]
@@ -84,18 +64,10 @@ occur, will be averted [^4]20
 13) Opening of the Doors of Goodness
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَخَار اللهَ عَزَّ وَ حَلَّ مَرَّةً وَاحِدَةً وَهُوَ راَضٍ
-بِمَا صَنَعَ اللهُ لَه خَارَ اللهُ لَهُ حَتْماً.
-  </p>
-</blockquote>
+> مَنِ اسْتَخَار اللهَ عَزَّ وَ حَلَّ مَرَّةً وَاحِدَةً وَهُوَ راَضٍ
+> بِمَا صَنَعَ اللهُ لَه خَارَ اللهُ لَهُ حَتْماً.
 
 *al‑Imam al‑Sadiq (as)* *said: "Whosoever asks Allah, the Glorious and
 the High for the best a single time and is content with what Allah has
@@ -124,5 +96,4 @@ Page 1086, Hadith 8
 
 [^5]: Fath al‑Abwab, Page 257 1 Mahasin, Page 598, Hadith 1 / Bihar
 al‑Anwar, Page 91, Hadith 256)
-
 

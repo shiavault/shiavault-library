@@ -1,21 +1,17 @@
 Discourse 1: Tawhid In The Actions (Of Allah) And Benefits Of Belief In This
 ============================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إِبْنِ عَبَّاسِ قَالَ: قَالَ رَسُولُ اللٌّهِ: مَنِ انْقَطَعَ
-إِلـى اللٌّهِ، كَفَاهُ كُلَّ مَؤُونَـةٍ، وَ مَنِ انْـقَطَعَ إِلـى
-الدُّنْـيَا وَكَلَّهُ اللٌّهُ إِلَيْهَا، وَ مَنْ حَاوَلَ أَمْراً
-بِمَعْصِيَةِ اللٌّهِ كَانَ أَبْعَدَ لَهُ مِمَّا رَجَا وَ أَقْرَبَ
-مِمَّا اتَّقى، وَ مَنْ طَلَبَ مَحَامِدَ النَّاسِ بِمَعَاصِي اللٌّهِ،
-عَادَ حَامِدُهُ مِنْهُمْ ذَامًّا، وَ مَنْ أَرَضى النَّاسَ بِسَخَطِ
-اللٌّهِ وَكَّلَهُ اللٌّهُ إِلَيْهِمْ، وَ مَنْ أَرَضى اللٌّهَ بِسَخَطِ
-النَّاسِ كَفَاهُ اللٌّهُ شَرَّهُمْ، وَ مَنْ أَحْسَنَ مَا بَـيْـنَهُ وَ
-بَيْنَ اللٌّهِ كَفَاهُ اللٌّهُ مَا بَيْـنَهُ و بَيْنَ النَّاسِ، و مَنْ
-أَحْسَنَ سَرِيرَتَهُ أَصْلَحَ اللٌّهُ عَلاَنِـيَتَهُ، وَ مَنْ عَمِلَ
-لأَخِرَتِهِ كَفى اللٌّهُ أَمْرَ دُنْـيَاهُ.
-  </p>
-</blockquote>
+> عَنْ إِبْنِ عَبَّاسِ قَالَ: قَالَ رَسُولُ اللٌّهِ: مَنِ انْقَطَعَ
+> إِلـى اللٌّهِ، كَفَاهُ كُلَّ مَؤُونَـةٍ، وَ مَنِ انْـقَطَعَ إِلـى
+> الدُّنْـيَا وَكَلَّهُ اللٌّهُ إِلَيْهَا، وَ مَنْ حَاوَلَ أَمْراً
+> بِمَعْصِيَةِ اللٌّهِ كَانَ أَبْعَدَ لَهُ مِمَّا رَجَا وَ أَقْرَبَ
+> مِمَّا اتَّقى، وَ مَنْ طَلَبَ مَحَامِدَ النَّاسِ بِمَعَاصِي اللٌّهِ،
+> عَادَ حَامِدُهُ مِنْهُمْ ذَامًّا، وَ مَنْ أَرَضى النَّاسَ بِسَخَطِ
+> اللٌّهِ وَكَّلَهُ اللٌّهُ إِلَيْهِمْ، وَ مَنْ أَرَضى اللٌّهَ بِسَخَطِ
+> النَّاسِ كَفَاهُ اللٌّهُ شَرَّهُمْ، وَ مَنْ أَحْسَنَ مَا بَـيْـنَهُ وَ
+> بَيْنَ اللٌّهِ كَفَاهُ اللٌّهُ مَا بَيْـنَهُ و بَيْنَ النَّاسِ، و مَنْ
+> أَحْسَنَ سَرِيرَتَهُ أَصْلَحَ اللٌّهُ عَلاَنِـيَتَهُ، وَ مَنْ عَمِلَ
+> لأَخِرَتِهِ كَفى اللٌّهُ أَمْرَ دُنْـيَاهُ.
 
 It has been narrated from Ibne ‘Abbas that the Messenger of Allah (S)
 said: “One who keeps his hopes solely upon Allah, He will be sufficient
@@ -52,11 +48,7 @@ other actions stem from His order. To sum this belief up in one
 sentence, we refer to the tradition mentioned in Bihar al-Anwar that
 reads:
 
-<blockquote dir="rtl">
-  <p>
-لاَ مُؤَثِّرَ فِي الْوُجُودِ إِلاَّ اللٌّهَ.
-  </p>
-</blockquote>
+> لاَ مُؤَثِّرَ فِي الْوُجُودِ إِلاَّ اللٌّهَ.
 
 “There is no one effector in the creation except Allah.”[^2]
 
@@ -84,12 +76,8 @@ goes against all of these issues!
 
 If we were to have true faith in the verse of the Qur\`an which states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئاً أَنْ يَقُولَ لَهُ كُنْ
-فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئاً أَنْ يَقُولَ لَهُ كُنْ
+> فَيَكُونُ
 
 “Surely His command when He intends to do something is the mere saying
 of 'Be' and it is.”[^3]
@@ -137,13 +125,9 @@ rely solely on the frail spider's web known as the material world, then
 Allah (SwT) would leave the person alone within this weak web, as it has
 been stated in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللٌّهِ أَوْلِـــيَآءَ كَمَثَلِ
-الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتاً وَ إِنَّ أَوْهَنَ الْبُـيُوتِ
-لَبَيْتُ الْعَنْكَبُوتِ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللٌّهِ أَوْلِـــيَآءَ كَمَثَلِ
+> الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتاً وَ إِنَّ أَوْهَنَ الْبُـيُوتِ
+> لَبَيْتُ الْعَنْكَبُوتِ لَوْ كَانُوا يَعْلَمُونَ
 
 “The similitude of those who take other than Allah as their guardian is
 as the example of the spider who takes his (frail) web as a house. And
@@ -156,11 +140,7 @@ solely upon the chief Causer of all actions (Allah (SwT)) and through
 this, becomes needless of everything else.  
  It is mentioned in a tradition that:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لاٌ تَكِلْـنِــي إِلـى نَفْسِي طَرْفَةَ عَيْنَ أَبَدًا.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لاٌ تَكِلْـنِــي إِلـى نَفْسِي طَرْفَةَ عَيْنَ أَبَدًا.
 
 “O' Allah! Do not ever leave me to myself for even the period of the
 blinking of the eye!”
@@ -221,13 +201,9 @@ of the people from reaching us.
 The true believer must pay attention to the verse of the Qur\`an which
 states:
 
-<blockquote dir="rtl">
-  <p>
-تُــؤْتِـي الْمُلْكَ مَنْ تَشَآءُ و تَـنْـزِعُ الْمُلْكَ مِمَّنْ
-تَشَآءُ وَ تُعِزُّ مَنْ تَشَآءُ وَ تُذِلُّ مَنْ تَشَآءُ بِـيَدِكَ
-الْخَيْرُ إِنَّكَ عَلى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> تُــؤْتِـي الْمُلْكَ مَنْ تَشَآءُ و تَـنْـزِعُ الْمُلْكَ مِمَّنْ
+> تَشَآءُ وَ تُعِزُّ مَنْ تَشَآءُ وَ تُذِلُّ مَنْ تَشَآءُ بِـيَدِكَ
+> الْخَيْرُ إِنَّكَ عَلى كُلِّ شَيْءٍ قَدِيرٌ
 
 “You bestow the kingdom to whom You desire and You take away the kingdom
 from whom You desire; You grant honour and dignity to whom You desire
@@ -245,13 +221,9 @@ although want the best for the creations, however we seek this solely
 from Allah (SwT).  
  In the Qur\`an we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَنْصُرْكُمُ اللٌّهُ فَلاَ غَالِبَ لَكُمْ وَ إِنْ يَخْذُلْكُمْ
-فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ وَ عَلى اللٌّهِ
-فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنْ يَنْصُرْكُمُ اللٌّهُ فَلاَ غَالِبَ لَكُمْ وَ إِنْ يَخْذُلْكُمْ
+> فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ وَ عَلى اللٌّهِ
+> فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
 “If Allah were to assist you, then there would be none who could
 overcome you; and if He were to leave you alone, then who is there that
@@ -283,11 +255,7 @@ worship! These sort of idols are even worse than the idols which the
 polytheists worship as atleast they worship their false gods in order to
 achieve proximity to Allah (SwT)! In the Qur\`an we read:
 
-<blockquote dir="rtl">
-  <p>
-مٌا نَعْـبُدُهُمْ إِلاَّ لِيُقَرِّبُونَا إِلـى اللٌّهِ زُلْفى
-  </p>
-</blockquote>
+> مٌا نَعْـبُدُهُمْ إِلاَّ لِيُقَرِّبُونَا إِلـى اللٌّهِ زُلْفى
 
 “We do not serve them (the idols) except for the desire that they may
 make us nearer to Allah.”[^8]
@@ -359,12 +327,8 @@ we must start by correcting our belief in the Oneness of Allah (SwT) and
 must destroy all internal idols.  
  In the Noble Qur\`an we read that:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ مَنِ اتَّخَذَ إِلٌهَهُ هَوٌيهُ أَفَأَنْتَ تَكُونُ عَلَيْهِ
-وَكِيلاً
-  </p>
-</blockquote>
+> أَرَأَيْتَ مَنِ اتَّخَذَ إِلٌهَهُ هَوٌيهُ أَفَأَنْتَ تَكُونُ عَلَيْهِ
+> وَكِيلاً
 
 “Have you seen the person who takes his lower desires to be his god? Do
 you have any authority to guide such a person?”[^9]
@@ -375,12 +339,8 @@ rather it is their own soul and inner desires and from this we can
 understand that polytheism actually has many branches to it.  
  In Bihar al-Anwar it has been mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-أَلشِّرْكُ أَخْفى فِي الْعَمَلِ مِنْ دَبِـيبِ النَّمْلَةِ السَّوْدٌاءِ
-عَلى الصَّخْرَةِ الصَمٌّاءِ فِي اللَّيْلَةِ الظَّلْمَاءِ.
-  </p>
-</blockquote>
+> أَلشِّرْكُ أَخْفى فِي الْعَمَلِ مِنْ دَبِـيبِ النَّمْلَةِ السَّوْدٌاءِ
+> عَلى الصَّخْرَةِ الصَمٌّاءِ فِي اللَّيْلَةِ الظَّلْمَاءِ.
 
 “Polytheism is more hidden in actions than the footprints of a black ant
 on a dark rock walking in the dark of the night.”[^10]
@@ -388,12 +348,8 @@ on a dark rock walking in the dark of the night.”[^10]
 In addition, we see that Allah (SwT) has taken a promise from humanity
 that they must not worship Satan, and in the Qur\`an we read:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَـنِي آدَمَ أَنْ لاَ تَعْـبُدُوا
-الشَّيْطَانَ
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَـنِي آدَمَ أَنْ لاَ تَعْـبُدُوا
+> الشَّيْطَانَ
 
 “Did I not take a pledge from you, O' children of Adam, that you must
 not worship Satan?”[^11]
@@ -452,5 +408,4 @@ bad - is a mere reflection of our beliefs!
 [^10]: Bihar al-Anwar, vol. 61, pg. 244
 
 [^11]: Surat Yasin (36), verse 60
-
 

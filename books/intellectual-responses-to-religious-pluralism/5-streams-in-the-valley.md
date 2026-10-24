@@ -121,4 +121,3 @@ all-too-familiar.  Smith points out that each of these endeavors needs
 to be practiced and refined in the service of an urgent civic and
 academic agendum: that difference be negotiated but never overcome.
 
-

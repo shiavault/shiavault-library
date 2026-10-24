@@ -19,4 +19,3 @@ markets for sale.
 
 After that massacre, Yazeed's Army headed for Makkah to occupy it.
 
-

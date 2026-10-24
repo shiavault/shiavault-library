@@ -13,4 +13,3 @@ The food is not delicious.      لـَيسَ  الأکلُ لذيذاً.
 You know that equational sentences refer to present time. The equivalent
 in past time is expressed by using the verb **کانَ** .
 
-

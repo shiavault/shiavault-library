@@ -41,4 +41,3 @@ restrains from filth and evil. And remembrance of Allah is the greatest
 be patient whatever befalleth thee: for this is firmness in the conduct
 of affairs. 31:17***
 
-

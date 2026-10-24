@@ -70,4 +70,3 @@ about their bad situation of failure and disappointment till they
 changed their attitude towards Yazeed and started to look at him with
 disgrace and contempt.
 
-

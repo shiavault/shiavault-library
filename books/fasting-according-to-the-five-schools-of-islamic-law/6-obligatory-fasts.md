@@ -10,4 +10,3 @@ things that invalidate it. Here we intend to discuss its qada' and the
 kaffarah to which one who breaks it becomes liable. Other types of
 obligatory fasts have been discussed under the related chapters.
 
-

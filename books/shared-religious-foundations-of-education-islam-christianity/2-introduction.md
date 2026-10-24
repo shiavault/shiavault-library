@@ -97,4 +97,3 @@ every educational philosopher or religion.
 That has been the reason why we have used both phrases and items:
 “effect of ontology on education” and “ontology and education”, etc.
 
-

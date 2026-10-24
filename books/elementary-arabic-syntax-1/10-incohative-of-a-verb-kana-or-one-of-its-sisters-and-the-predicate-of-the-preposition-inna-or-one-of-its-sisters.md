@@ -17,22 +17,13 @@ in the nominative case. For example: **ﺇنّ** **البَردَ** **قارسٌ
  There are twelve verbs that perform the same action as *kana* and are
 called *kana's* sisters. They are:
 
-<blockquote dir="rtl">
-  <p>
-اصبَحَ اضحیَ ظَلّ باتَ امسیَ مازالَ مابَرَحَ ماانفَکّ مافَتِیَ مادامَ
-صارَ لَیسَ
-  </p>
-</blockquote>
+> اصبَحَ اضحیَ ظَلّ باتَ امسیَ مازالَ مابَرَحَ ماانفَکّ مافَتِیَ مادامَ
+> صارَ لَیسَ
 
 31. Are there other prepositions that perform the same action as
 *inna*?  
  There are five prepositions that perform the same action as *inna* and
 are called *inna's* sisters. They are:
 
-<blockquote dir="rtl">
-  <p>
-ﺃنّ کأنّّ لکنّ لَیتَ لَعَلّ
-  </p>
-</blockquote>
-
+> ﺃنّ کأنّّ لکنّ لَیتَ لَعَلّ
 

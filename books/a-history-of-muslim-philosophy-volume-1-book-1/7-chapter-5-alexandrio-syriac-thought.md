@@ -872,4 +872,3 @@ Hodder & Stoughton, London, 1872, p. 231.
 [^8]: R A. H. Armstrong; The Architecture of the Intelligible Universe
 in the Philosophy of Plotinus, p. 61.
 
-

@@ -9,11 +9,7 @@ great emphasis upon. Indeed, human society has been invited to approach
 the scholars and those aware of their cultural surroundings to ask them
 questions in order to overcome their ignorance, just as we read:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْئَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاسْئَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لاَ تَعْلَمُونَ
 
 “***So then ask those of the Reminder if you do not know***.”[^1]
 
@@ -164,5 +160,4 @@ people question you concerning the Hour. Say, ‘Its knowledge is only
 with God.’ What do you know, maybe the Hour is near.” (33:63)
 يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا “They ask you
 concerning the Hour, when it will set in.” (79:42)
-
 

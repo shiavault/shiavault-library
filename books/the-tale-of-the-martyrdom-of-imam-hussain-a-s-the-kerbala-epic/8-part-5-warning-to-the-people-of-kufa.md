@@ -124,4 +124,3 @@ ability. But alas! they do not seem to heed your admonition".
 
 *    All discernible trends in human thought*
 
-

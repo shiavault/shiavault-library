@@ -291,4 +291,3 @@ example, all the events narrated by Tabari in his book are not governed
 by the laws of history. There is only a particular field where these
 laws are applicable. We will further elucidate this point later.
 
-

@@ -284,4 +284,3 @@ past two lessons are only a few guidelines and that our character must
 incorporate many other finer points in order to reach the stage of
 perfection for which it was created.
 
-

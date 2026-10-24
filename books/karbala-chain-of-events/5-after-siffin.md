@@ -44,4 +44,3 @@ ill that day and his replacement was killed by the Khariji. Imam ‘Ali
 (a.s.), in wounded condition, conferred the Imamah and the reign of the
 Islamic nation to his 37 years old son Al-Hasan.
 
-

@@ -6,16 +6,12 @@ Accursed Tree denotes their enemies
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
-كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ.
-تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا وَيَضْرِبُ اللَّهُ
-الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ. وَمَثَلُ كَلِمَةٍ
-خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا
-لَهَا مِنْ قَرَارٍ.
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
+> كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ.
+> تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا وَيَضْرِبُ اللَّهُ
+> الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ. وَمَثَلُ كَلِمَةٍ
+> خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا
+> لَهَا مِنْ قَرَارٍ.
 
 ***Have you not considered how Allah set forth a parable of a good word
 (being) like a good tree, whose root is firm and who branches are in
@@ -120,13 +116,9 @@ In *Majmaul Bayan* there is a tradition from Imam Baqir (a.s.) that the
 
 Allah says in Surah Bani Israel:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً
-لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ وَنُخَوِّفُهُمْ
-فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا.
-  </p>
-</blockquote>
+> وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً
+> لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ وَنُخَوِّفُهُمْ
+> فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا.
 
 ***…And We did not make the vision which We showed you but a trial for
 men and the cursed tree in the Quran as well; and We cause them to fear,
@@ -179,12 +171,8 @@ firm and who branches are in heaven’ It means the knowledge of the Quran
 would be expounded to the people of the world and our enemies are from
 the cursed tree:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
-اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ.
-  </p>
-</blockquote>
+> يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
+> اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ.
 
 ***They desire to put out the light of Allah with their mouths, and
 Allah will not consent save to perfect His light, though the unbelievers
@@ -236,5 +224,4 @@ a branch or that tree is Sidratul Muntaha (the farthest lote tree) The
 latter tree is like that of ‘Zaqqum’ in the hereafter that grows in Hell
 and its fruits are the enemies of Ahlul Bayt (a.s.). Many things could
 be mentioned here but space limitations do not allow us to do so.
-
 

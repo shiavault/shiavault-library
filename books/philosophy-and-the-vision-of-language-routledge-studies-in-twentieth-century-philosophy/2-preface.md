@@ -124,4 +124,3 @@ life that knows itself as transfigured by the language it takes up.
 
 **July 2007**
 
-

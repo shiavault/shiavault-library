@@ -26,15 +26,10 @@ feelings and calls toward hatred; and seek to appease the one whom you
 hope to reprimand.
 
 > 5ـ لا تُكْثِرَنَّ العِتابَ، فَإنَّهُ يُورِثُ الضَّغينَةَ ويَدْعُو إلَى
-<blockquote dir="rtl">
-  <p>
-البَغْضاءِ، واسْتَعْتِبْ لِمَنْ رَجَوْتَ اِعْتابَهُ.
-  </p>
-</blockquote>
+> البَغْضاءِ، واسْتَعْتِبْ لِمَنْ رَجَوْتَ اِعْتابَهُ.
 
 6. When you reprimand then leave some room [to make amends and do not be
 excessive in reprimanding].
 
 > 6ـ إذا عاتَبْتَ فَاسْتَبْقِ.
-
 

@@ -79,10 +79,10 @@ fabrication.
 
 **Notes:**
 
-[^46] Khalifa b. Khayyat, Ta'rikh (2nd ed., Beirut, 1977), pp. 231-6
-[^47] Al-Baladhuri, Ansab al-Ashraf (Beirut, 1979), IV/2, 299-301
-[^48] Ibid., pp. 302-3; cf. al-Tabari, op. cit., pp. 216-19.
-[^49] Khalifa b. Khayyat, op. cit., pp. 232-3.
-[^50] Al-Baladhuri, op. cit., pp. 309-10.
-[^51] Khalifa b. Khayyat, op. cit., pp. 232.
+[^46]: Khalifa b. Khayyat, Ta'rikh (2nd ed., Beirut, 1977), pp. 231-6
+[^47]: Al-Baladhuri, Ansab al-Ashraf (Beirut, 1979), IV/2, 299-301
+[^48]: Ibid., pp. 302-3; cf. al-Tabari, op. cit., pp. 216-19.
+[^49]: Khalifa b. Khayyat, op. cit., pp. 232-3.
+[^50]: Al-Baladhuri, op. cit., pp. 309-10.
+[^51]: Khalifa b. Khayyat, op. cit., pp. 232.
 

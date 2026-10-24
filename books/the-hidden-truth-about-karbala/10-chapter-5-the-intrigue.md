@@ -221,4 +221,3 @@ Caliphate, p. 302.
 
 [^13]: A Short History of the Saracens, Ch.7, p.71.
 
-

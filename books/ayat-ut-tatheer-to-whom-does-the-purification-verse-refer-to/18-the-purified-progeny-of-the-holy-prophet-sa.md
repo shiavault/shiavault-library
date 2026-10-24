@@ -79,4 +79,3 @@ sins from? Truthful is Allah the Great; truthful is His promise; He
 fulfilled His will and completed His desire, and praise be to Him, the
 Lord of the Worlds!
 
-

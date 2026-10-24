@@ -187,11 +187,7 @@ All the five schools of fiqh agree that *istita\`ah* is a requirement
 for the Hajj duty to become obligatory as mentioned by the Qu’ranic
 verse:
 
-<blockquote dir="rtl">
-  <p>
- مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا
-  </p>
-</blockquote>
+>  مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا
 
 ***(“… whoever is able to make his way there”). The Qur'an, 3:97***
 
@@ -386,11 +382,7 @@ is incapable of undertaking it personally due to old age or some
 incurable disease, all the legal schools agree, is relieved of the
 obligation of performing the Hajj in person, for God says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ
-  </p>
-</blockquote>
+> وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ
 
 (... and He has laid no impediment in your religion ....).[^13]
 
@@ -587,5 +579,4 @@ and Imamiyyah schools, the Hajj performed depends on his intention
 
 [^15]: The minimum distance required for qasr in zuhr, 'asr and 'isha'
 prayers is 8 parasangs (approximately 44 kms. or 27.5 miles). (Tr.)
-
 

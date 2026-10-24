@@ -249,4 +249,3 @@ ir-Ridha).
 
 [^10]: Quoted from al-Wafi; part 3 page 65 (as quoted from al- Kafi).
 
-

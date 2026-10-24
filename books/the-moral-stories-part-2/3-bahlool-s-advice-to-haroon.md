@@ -144,4 +144,3 @@ gets covered up under his ignorance".
 "The happiness of this world and the next Has in learning and the evil
 of this world .and the next in ignorance"
 
-

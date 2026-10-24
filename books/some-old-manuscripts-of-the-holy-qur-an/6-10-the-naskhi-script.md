@@ -67,7 +67,6 @@ a dedication (waqfnameh) by Shah 'Abbas Safawi and bearing the signature
 of al-Shaykh al-Bahai who attributes it to al-'Imam al-Hasan (A), who is
 mentioned thus:
 
-
 The second codex is the one placed upon the sarcophagus at the tomb of
 'Ali (A) at Najaf. 63 The third one, written on ten folios of deerskin,
 was seen by this writer in the library of Ustad Mahmud Farrukh
@@ -88,5 +87,4 @@ it cannot comprise nearly six parts (juz') of the Qur'an, i.e. from the
 fourth to the tenth. Without doubt it consists of scattered leaves of
 the Qur'an attributed to the Imam that were collected and bound without
 attention to sequence.
-
 

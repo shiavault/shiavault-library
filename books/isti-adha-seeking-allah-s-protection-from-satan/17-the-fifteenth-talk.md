@@ -1,20 +1,12 @@
 The Fifteenth Talk
 ==================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -75,7 +67,6 @@ or not. Their vision is so powerful that they have a clear understanding
 of what act is *Rahmani* and which is *Satanic.* But such men of high
 piety are few and far between.
 
-
 Care is the Guarantee of Deliverance
 ------------------------------------
 
@@ -89,10 +80,8 @@ have a doubt about an act being Rahmani or Satanic, better wait!”* The
 morsel about which one has doubt whether it is *halal* or *Haram,* he
 should rather wait till he makes it sure.
 
-
 The Touchstone
 --------------
-
 
 In the *Islamic Shari’ah* there are clear-cut norms for removing doubts
 and fears and for arriving at the righteousness or otherwise of acts.
@@ -118,10 +107,8 @@ Another thing should not remain hidden that this standard is not for
 everyone. Because mostly people are inclined towards human desires and
 these realities have nothing to do with them.
 
-
 Istikhara, Or Augury, Guides in Situations of Doubt
 ---------------------------------------------------
-
 
 It has been narrated that when you are at the cross-roads, and do not
 know which is the righteous (*Rahmani)* way and which is the wrong one
@@ -136,10 +123,8 @@ Your Munificence make evident Your guidance in the matter.”
 This is a situation of prayer, and in *Istikhara* always there is a
 strong element of prayer to Allah (S.w.T.).
 
-
 Some People Misunderstand Istikhara
 -----------------------------------
-
 
 Muslims have adopted a bad habit that they started using *Istikhara*
 for matters connected with monetary benefit. This, truly, is not
@@ -147,10 +132,8 @@ for matters connected with monetary benefit. This, truly, is not
 seeks Allah (S.w.T.)’s wish if performance of a particular act would be
 in his best interest or not.
 
-
 Imam Husayn (a.s.) does Istikhara at the Mausoleum of The Prophet (S)
 ---------------------------------------------------------------------
-
 
 Imam Husayn (a.s.) went to the mausoleum of his grand father, the
 Prophet (S) and after much grieving entreated Allah (S.w.T.), “O my
@@ -168,7 +151,6 @@ for performance of an act that might be approved by You and the other,
 perhaps, not to Your liking and instigated by Satan.* *Then O Allah!*
 *Mould my determination and decision the way You approve of!”*
 
-
 Istikhara With the Sibha or Through the Holy Qur’an
 ---------------------------------------------------
 
@@ -180,7 +162,6 @@ doing the augury (*Istikhara).* The other condition is that you can
 correctly understand the meanings of the verses of the Qur’an when doing
 *Istikhara* through its pages. One should also be in a position to
 interpret the correct purport from the meanings.
-
 
 Strange Stories About Istikhara
 -------------------------------
@@ -195,11 +176,7 @@ well, it might be harmful for him. He also thought that if he didn’t eat
 properly, the host might feel bad. He therefore did *Istikhara* from the
 Qur’an. He saw the 69th verse of *Sura an Nahl* when he opened the book:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلاً
-  </p>
-</blockquote>
+> ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلاً
 
 ***Then eat of all the fruits and walk thou in the ways of Thy Lord
 submissively…*** ***(Sura an-Nahl, 16:69)***
@@ -221,10 +198,8 @@ The purpose of relating this tale is to impress on people that doing
 *Istikhara* and interpreting the meaning and purport from the verses is
 not easy. This can be done only by the learned.
 
-
 The Purpose of Revelation of the Holy Qur’an is not for Istikhara
 -----------------------------------------------------------------
-
 
 The Holy Qur’an is not revealed for the purpose of *Istikhara* but for
 the understanding of Allah (S.w.T.) by His creatures and for inculcating
@@ -250,7 +225,6 @@ influence of evil thoughts and keep me under Your protection”.
 Doing Soothsaying from The Holy Qur’an is Not Proper
 ----------------------------------------------------
 
-
 Such *Istikhara* and soothsaying from the Qur’an that is for the
 purpose of predicting the future are not permissible. For example: When
 a mother has to get her daughter wedded, gets an *Istikhara* to
@@ -268,7 +242,6 @@ such a prediction. She should seek the answer from the sacred
 
 Publications about Istikhara
 ----------------------------
-
 
 Allama Majlisi has written a treatise “*Mafatīh al-Ghaib”* in which he
 has entered a collection of traditions about *Istikhara.* Other scholars
@@ -309,7 +282,6 @@ examination or not. In brief, we want to mention about the edict of
 *Shari’ah* in such matters. We request you to communicate these words to
 others in your circle that people better shun their wrong ways and do
 not pollute their faith with silly habits.
-
 
 Clear Warnings about Istikhara
 ------------------------------
@@ -353,10 +325,8 @@ and never divert from it, then all actions will be felicitous. If a
 person has any doubt about this, he should study in depth the methods
 for removing the doubts recorded in the pure *Shari’ah*.
 
-
 Suggestions for Removing Doubts
 -------------------------------
-
 
 The best suggestion is that which is in according to the *Nass
 (categorical order)* of the Qur’an, and that is not to take advise from
@@ -376,16 +346,13 @@ adversary cannot give advice in your interest.
 4. A person who is your confidante and will not disclose about your
 matters to others.
 
-
 If any person has all the four qualities, he can always be consulted on
 important matters. Allah (S.w.T.), from whom you have sought help in
 your matters, will convey to you through the advice of the person of
 your choice about the best course you must adopt in your matters.
 
-
 The Holy Imams (a.s.) Used to Take Advice
 -----------------------------------------
-
 
 Allama Majlisi quotes from Imam Ridha (a.s.) that he said, “My revered
 father, Imam Mūsa Ibn Ja’far as-Sadiq (a.s.), despite being of the
@@ -404,10 +371,8 @@ Whenever one is in a doubt and confusion about matters, he should act
 in accordance with Allah (S.w.T.)’s injunction in the Holy Qur’an and
 the sayings of the Prophet and the Imams (a.s.).
 
-
 Istikhara Through Chits
 -----------------------
-
 
 At times when no advice is available or the available advice doesn’t
 agree with that given by other equally competent persons, For example:
@@ -485,5 +450,4 @@ The conclusion is that we shall seek good (*khair)* from Allah (S.w.T.)
 in our affairs and that is the crux of *Istikhara.*
 * *
 * *
-
 

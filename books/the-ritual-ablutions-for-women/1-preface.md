@@ -62,4 +62,3 @@ S. M. Rizvi
  Ramadan 1405.  
  May 1985.
 
-

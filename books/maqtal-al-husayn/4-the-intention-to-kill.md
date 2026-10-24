@@ -654,4 +654,3 @@ al-’Ashir, p. 85
 [^32]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 427 (first
 Egyptian edition), p. 427.
 
-

@@ -813,4 +813,3 @@ trans. by Mushfiq Hamadsini, p. 259.
 
 [^23]: Ghurar al-hikam wa durar al-kalim
 
-

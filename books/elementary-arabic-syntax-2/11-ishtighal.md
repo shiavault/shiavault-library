@@ -61,4 +61,3 @@ accusative or nominative cases?
 nominative cases in any other case that was not mentioned. For example:
 **التُّفاحةُ أکلتُها** (The apple, I ate it.)
 
-

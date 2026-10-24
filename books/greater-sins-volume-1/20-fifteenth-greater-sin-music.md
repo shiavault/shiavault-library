@@ -241,4 +241,3 @@ music and yet adopts music as entertainment.”[^12]
 
 [^12]: Refer to the booklet; “Tasir Mausiqi bar Asāb” pages 3,6,10.
 
-

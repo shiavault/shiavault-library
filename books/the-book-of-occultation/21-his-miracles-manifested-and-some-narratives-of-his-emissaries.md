@@ -1007,7 +1007,7 @@ requesting du‘ā. He would not write to me anything about them. And when
 my son al-Hasan was born, I wrote asking for du‘ā, he answered me that
 he will survive, and praise belongs to Allah.
 
-<span lang="ar-sa">25</span>- الكافي: علي بن محمد، عن سعد بن عبد الله
+25- الكافي: علي بن محمد، عن سعد بن عبد الله
 قال: إن الحسن بن النضر وأبا صدام وجماعة تكلموا بعد مضي أبي محمد فيما في
 أيدي الوكلاء وأرادوا الفحص فجاء الحسن بن النضر إلى أبي صدام فقال: إني
 اريد الحج فقال: أبو صدام أخره هذه السنة فقال له الحسن: إني أفزع في
@@ -1090,7 +1090,7 @@ inform anyone. If things became clear to me like their clarity in the
 days of Abu Muhammad (a.s), I will hand the assets over, or else, I will
 distribute them as alms. I went to Iraq and rented a house by the river.
 
-<span lang="ar-sa">28</span>- الكافي: الحسن بن الفضل بن زيد اليماني قال:
+28- الكافي: الحسن بن الفضل بن زيد اليماني قال:
 كتب أبي بخطه كتابا فورد جوابه ثم كتب بخطي فورد جوابه، ثم كتب بخط رجل من
 فقهاء أصحابنا فلم يرد جوابه فنظرنا فكانت العلة أن الرجل تحول قرمطيا.
 

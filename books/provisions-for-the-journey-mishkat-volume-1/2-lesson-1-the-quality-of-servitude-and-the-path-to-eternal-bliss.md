@@ -60,12 +60,8 @@ denotes additional and the second meaning is twofold mercy. The Gracious
 Qur’an has employed ‘*kiflan*’ in the second sense, that is to say
 twofold mercy.
 
-<blockquote dir="rtl">
-  <p>
-يَا اَيُّهَا الَّذينَ آمَنُوا اتَّقُوا اللهَ وَآمَنُوا بِرَسُولِهِ
-يُؤْتِکُمْ کِفْلَيْنِ مِنْ رَحْمَتِهِ...
-  </p>
-</blockquote>
+> يَا اَيُّهَا الَّذينَ آمَنُوا اتَّقُوا اللهَ وَآمَنُوا بِرَسُولِهِ
+> يُؤْتِکُمْ کِفْلَيْنِ مِنْ رَحْمَتِهِ...
 
 ***“O you who believe! Be careful of your duty to Allah and believe in
 his Apostle: He will give you two portions of his mercy…”***[^3]
@@ -165,11 +161,7 @@ point that Allah is seeing them. Of course, there is no doubt that man
 is always in the presence of Allah and Allah sees him; as the Noble
 Qur’an hints at this reality in several instances, among them:
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ خائِنَةَ الأَعْيُنِ وَمَا تُخْفِی الصُّدُورِ
-  </p>
-</blockquote>
+> يَعْلَمُ خائِنَةَ الأَعْيُنِ وَمَا تُخْفِی الصُّدُورِ
 
 ***“He knows the stealthy looks and that which the breasts
 conceal.”***[^6]
@@ -218,11 +210,7 @@ cetera et cetera have to be searched for in the adoration of Allah.
 
 Allah in the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدْ رَبَّكَ حَتَّی يَأْتِيكَ الْيَقِينُ
-  </p>
-</blockquote>
+> وَاعْبُدْ رَبَّكَ حَتَّی يَأْتِيكَ الْيَقِينُ
 
 ***“And serve your Lord until there comes to you that which is
 certain.”***[^8]
@@ -230,13 +218,9 @@ certain.”***[^8]
 And with regard to the station of being well pleased with whatever Allah
 decrees [*maqam-i rida*], it says:
 
-<blockquote dir="rtl">
-  <p>
-... وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ
-غُرُوبِهَا وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَاَطْرَافَ النَّهَارِ
-لَعَلَّكَ تَزْضَی
-  </p>
-</blockquote>
+> ... وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ
+> غُرُوبِهَا وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَاَطْرَافَ النَّهَارِ
+> لَعَلَّكَ تَزْضَی
 
 ***“…Bear then patiently what they say, and glorify your Lord by the
 praising of Him before the rising of the sun and before its setting, and
@@ -246,12 +230,8 @@ the day, that you may be well pleased.”***[^9]
 The mission of all the Prophets (*‘a*) has been to direct people towards
 adoration and worship of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي کُلِّ اُمَّةٍ رَسُولاً أَن اعْبُدُوا اللهَ
-واجْتَنِبُوا الطّاغُوتَ...
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي کُلِّ اُمَّةٍ رَسُولاً أَن اعْبُدُوا اللهَ
+> واجْتَنِبُوا الطّاغُوتَ...
 
 ***“And certainly we raised in every nation an apostle saying: ‘Serve
 Allah and shun the shaitan…’”***[^10]
@@ -260,11 +240,7 @@ One of the subjects on which the Gracious Qur’an lays great emphasis is
 that everything in existence is preoccupied with worshiping Allah,
 whether they like it or not:
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُ لِلّهِ مَا فِي السَّمواتِ وَمَا فِي الأَرْضِ...
-  </p>
-</blockquote>
+> يُسَبِّحُ لِلّهِ مَا فِي السَّمواتِ وَمَا فِي الأَرْضِ...
 
 ***“Whatever is in the heavens and whatever is in the earth declares the
 glory of Allah…”***[^11]
@@ -279,11 +255,7 @@ The importance and value of worship and devotion to Allah reaches an
 extent where Allah, the Exalted, states in the Gracious Qur’an that the
 ultimate goal of creating the jinn and mankind is worship:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتَ‌ الْجِنَّ وَالإِنْسَ الاَّ لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتَ‌ الْجِنَّ وَالإِنْسَ الاَّ لِيَعْبُدُونِ
 
 ***“And I have not created the jinn and the men except that they should
 worship Me.”***[^12]
@@ -481,13 +453,9 @@ word ‘*hantah*’ which means wheat. Allah sent down upon them His divine
 wrath because of their moral corruption and their refusing to repent and
 seek forgiveness:
 
-<blockquote dir="rtl">
-  <p>
-فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلاً غَيْرَ الَّذِي قِيلَ لَهُمْ
-فَاَنْزَلْنَا عَلَی الَّذِينَ ظَلَمُوا رِجْزاً مِنْ السَّمَاءِ بِمَا
-کانُوا يَفْسُقُونَ
-  </p>
-</blockquote>
+> فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلاً غَيْرَ الَّذِي قِيلَ لَهُمْ
+> فَاَنْزَلْنَا عَلَی الَّذِينَ ظَلَمُوا رِجْزاً مِنْ السَّمَاءِ بِمَا
+> کانُوا يَفْسُقُونَ
 
 ***“Those who were unjust changed it for a saying other than that which
 had been spoken to them, so We sent upon those who were unjust a
@@ -547,5 +515,4 @@ al-Islam.
 [^13]: Surat al-Baqarah 2:58.
 
 [^14]: Surat al-Baqarah 2:59.
-
 

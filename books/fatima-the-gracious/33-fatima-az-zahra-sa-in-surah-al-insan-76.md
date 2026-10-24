@@ -83,4 +83,3 @@ not mention the “huris”. This understood to be in honor and exaltation
 of Fatima az-Zahra (sa) the wife of Imam ‘Ali (as), and the mother of
 Hasan (as) and Husayn (as).
 
-

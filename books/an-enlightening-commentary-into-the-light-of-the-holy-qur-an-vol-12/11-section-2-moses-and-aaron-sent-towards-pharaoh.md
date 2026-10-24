@@ -4,23 +4,11 @@ Section 2: Moses and Aaron Sent Towards Pharaoh
 Surah Ash-Shu‘ara - Verses 10-12
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ نَادَى رَبُّكَ مُوسَى أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَإِذْ نَادَى رَبُّكَ مُوسَى أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَوْمَ فِرْعَوْنَ أَلاَ يَتَّقُونَ
-  </p>
-</blockquote>
+> قَوْمَ فِرْعَوْنَ أَلاَ يَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنِّي أَخَافُ أَن يُكَذِّبُونِ
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنِّي أَخَافُ أَن يُكَذِّبُونِ
 
 ***10. “And when your Lord called out to Moses (saying): ‘Go to the
 unjust people,”***  
@@ -116,23 +104,11 @@ harshly and tyrannically suppressed.
 Surah Ash-Shu‘ara - Verses 13-15
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَضِيقُ صَدْرِي وَلاَ يَنطَلِقُ لِسَانِي فَأَرْسِلْ إِلَى هَارُونَ
-  </p>
-</blockquote>
+> وَيَضِيقُ صَدْرِي وَلاَ يَنطَلِقُ لِسَانِي فَأَرْسِلْ إِلَى هَارُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ
-  </p>
-</blockquote>
+> وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَلاَ فَاذْهَبَا بِآيَاتِنَا إِنَّا مَعَكُم مُّسْتَمِعُونَ
-  </p>
-</blockquote>
+> قَالَ كَلاَ فَاذْهَبَا بِآيَاتِنَا إِنَّا مَعَكُم مُّسْتَمِعُونَ
 
 ***13. “And my breast straitens, and my tongue is not eloquent,
 therefore sent for Aaron (to help me).”***  
@@ -278,30 +254,14 @@ listen carefully’ puts emphasis on this fact, too.
 Surah Ash-Shu‘ara - Verses 16-19
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأْتِيَا فِرْعَوْنَ فَقُولاَ إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَأْتِيَا فِرْعَوْنَ فَقُولاَ إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ
-  </p>
-</blockquote>
+> أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ
-سِنِينَ
-  </p>
-</blockquote>
+> قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ
+> سِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنتَ مِنَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنتَ مِنَ الْكَافِرِينَ
 
 ***16. “So go to Pharaoh and say: ‘Verily we (two) are the Messengers of
 the Lord of the worlds!”***  
@@ -386,11 +346,7 @@ verse is the content of the tradition of Imam Rida, the eighth Imam
 Surah Ash-Shu‘ara - Verse 20
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ
-  </p>
-</blockquote>
+> قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ
 
 ***20. “Said (Moses): ‘I did it then, when I was (as you think) in
 error’.”***
@@ -454,12 +410,8 @@ and it does not mar infallibility, or it means astonishment, like verse
 Surah Ash-Shu‘ara - Verse 21
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا
-وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا
+> وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
 
 ***21. “So I fled from you when I feared you, then my Lord granted me
 wisdom and made me of the messenger.”***
@@ -542,11 +494,7 @@ in reclusion.”*
 Surah Ash-Shu‘ara - Verse 22
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ
-  </p>
-</blockquote>
+> وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ
 
 ***22. “And is it a favour with which you reproach me that you have
 enslaved the Children of Israel?”***
@@ -610,30 +558,14 @@ these things.
 Surah Ash-Shu‘ara - Verses 23-26
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا إن كُنتُم
-مُّوقِنِينَ
-  </p>
-</blockquote>
+> قَالَ رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا إن كُنتُم
+> مُّوقِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِمَنْ حَوْلَهُ أَلاَ تَسْتَمِعُونَ
-  </p>
-</blockquote>
+> قَالَ لِمَنْ حَوْلَهُ أَلاَ تَسْتَمِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الأَوَّلِينَ
-  </p>
-</blockquote>
+> قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الأَوَّلِينَ
 
 ***23. “Pharaoh said: ‘And what is the Lord of the woilds?’”***  
 ***24. “He said: ‘(He is) the Lord of the heavens and the earth and what
@@ -744,31 +676,15 @@ know themselves a little and then to know their Lord.
 Surah Ash-Shu‘ara - Verses 27-30
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ
-  </p>
-</blockquote>
+> قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا إِن كُنتُمْ
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا إِن كُنتُمْ
+> تَعْقِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَئِنِ اتَّخَذْتَ إِلَهًا غَيْرِي لاَجْعَلَنَّكَ مِنَ
-الْمَسْجُونِينَ
-  </p>
-</blockquote>
+> قَالَ لَئِنِ اتَّخَذْتَ إِلَهًا غَيْرِي لاَجْعَلَنَّكَ مِنَ
+> الْمَسْجُونِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِينٍ
-  </p>
-</blockquote>
+> قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِينٍ
 
 ***27. “(Pharaoh) said: ‘Verily your messenger who has been sent unto
 you is a veritable madman’.”***  
@@ -899,11 +815,7 @@ The verse says:
 Surah Ash-Shu‘ara - Verse 31
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ
-  </p>
-</blockquote>
+> قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ
 
 ***31. “(Pharaoh) said: ‘Bring it then, if you are of the truthful
 ones’.”***
@@ -929,17 +841,9 @@ real and true and people understand it easily.
 Surah Ash-Shu‘ara - Verses 32-33
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ
-  </p>
-</blockquote>
+> فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاء لِلنَّاظِرِينَ
-  </p>
-</blockquote>
+> وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاء لِلنَّاظِرِينَ
 
 ***32. “So he cast down his rod, and behold, it was a clear
 serpent.”***  
@@ -1027,5 +931,4 @@ Surah Al-’'Isra’, Surah Ta-Ha
 [^13]: The current Surah, verse 26
 
 [^14]: The Commentaries of Al-Mizan, Fakhr-i-Razi, Ruh ul-Ma‘ani
-
 

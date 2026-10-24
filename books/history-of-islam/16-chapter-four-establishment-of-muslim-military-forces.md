@@ -646,7 +646,6 @@ Muslims were not truly defeated.
 
 **The Event of Bi’r Ma\`unah**
 
-
 This event was even more disastrous than the event of Raji\`. It took
 place in safar, the 4th year of Hegira. Abu-Bara', the chief of
 Banu-\`amir, came to see the Holy Prophet in Medina. Showing no
@@ -722,5 +721,4 @@ shall have chastisement of the fire.
 That is because they acted in opposition to Allah and His Apostle, and
 whoever acts in opposition to Allah, then surely, Allah is severe in
 requiting evil.[^196]
-
 

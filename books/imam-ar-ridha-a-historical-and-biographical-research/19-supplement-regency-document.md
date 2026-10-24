@@ -269,4 +269,3 @@ written this on the same date."
 
 [^7]: Aali 'Imran:179
 
-

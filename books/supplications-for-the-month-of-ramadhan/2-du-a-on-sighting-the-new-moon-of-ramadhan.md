@@ -43,70 +43,29 @@ Allah has decreed that Muslims use the movement of the moon to determine
 the passing of months and years. When the early Muslims were asked about
 the new moon, Allah revealed a verse saying:
 
-<blockquote dir="rtl">
-  <p>
-يسئلونك عن الأهلة قُل هى مواقيت للناس والحج
-  </p>
-</blockquote>
+> يسئلونك عن الأهلة قُل هى مواقيت للناس والحج
 
 ***They ask you concerning the new moons. Say; they are times appointed
 for (the benefit of) people, and (for) pilgrimage. (2:189)***
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-ربي وربُك الله
-  </p>
-</blockquote>
+> ربي وربُك الله
 
-<blockquote dir="rtl">
-  <p>
-رب العالمين
-  </p>
-</blockquote>
+> رب العالمين
 
-<blockquote dir="rtl">
-  <p>
-اللهم اهله علينا بالأمن والإيمان
-  </p>
-</blockquote>
+> اللهم اهله علينا بالأمن والإيمان
 
-<blockquote dir="rtl">
-  <p>
-والسلامة والإسلام
-  </p>
-</blockquote>
+> والسلامة والإسلام
 
-<blockquote dir="rtl">
-  <p>
-والمُسارعة إلى ما تُحب وترضى
-  </p>
-</blockquote>
+> والمُسارعة إلى ما تُحب وترضى
 
-<blockquote dir="rtl">
-  <p>
-اللهم بارك لنا في شهرنا هذا وارزقنا خيره وعونه
-  </p>
-</blockquote>
+> اللهم بارك لنا في شهرنا هذا وارزقنا خيره وعونه
 
-<blockquote dir="rtl">
-  <p>
-واصرف عنا ضره وشره
-  </p>
-</blockquote>
+> واصرف عنا ضره وشره
 
-<blockquote dir="rtl">
-  <p>
-وبلائه وفتنته
-  </p>
-</blockquote>
+> وبلائه وفتنته
 
 [^1]: This Du'a is highly beneficial, and may be read at the beginning
 of every lunar month. (Translator)
-
 

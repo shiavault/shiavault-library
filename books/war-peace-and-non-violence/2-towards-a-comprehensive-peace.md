@@ -228,7 +228,6 @@ It should also be made clear that the Prophet (S) was alerted in Islam
 to the danger of wealth only "revolving amongst the rich." We have
 discussed this topic in the chapter on wealth.
 
-
 **War is an extraordinary situation**
 
 Islam calls to peace and considers peace to be normal and war to be
@@ -326,7 +325,6 @@ advised the Muslims saying:
 nearness to Allah through it for it is a duty of the Muslims at
 prescribed times.' He also used to say: 'Do not fight them until they
 begin to fight you.'
-
 
 **Islam's Guidance on War**
 
@@ -579,5 +577,4 @@ rights abused. Am I responsible for this, as I had called him to Islam?2
 It is better that he is with you defending you, your family, your
 Qiblah and your Book, rather than being against you, fighting you,
 violating your dignity, spilling your blood and burning book."
-
 

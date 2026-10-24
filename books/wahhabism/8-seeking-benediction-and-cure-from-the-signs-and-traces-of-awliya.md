@@ -9,12 +9,8 @@ affection to the Holy Prophet (s) becomes the cause of kissing the signs
 and traces related to him. Here we ask, what have they to say about the
 shirt of Yusuf (a')?
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ
-بَصِيرًا
-  </p>
-</blockquote>
+> اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ
+> بَصِيرًا
 
 ***Yusuf ('a) says:*** ***‘Take my shirt and cast it over my father's
 face so that he regains his eye-sight.*** ***(Yusuf 12:93)”***
@@ -22,12 +18,8 @@ face so that he regains his eye-sight.*** ***(Yusuf 12:93)”***
 Ya'qub ('a) too kept the shirt of Yusuf over his eyes and at that same
 moment realized that he could see. As he says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ
-بَصِيرًا
-  </p>
-</blockquote>
+> فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ
+> بَصِيرًا
 
 ***“So when the bearer of good news came he cast*** ***it on his face,
 so forthwith he regained his sight.” (Yusuf 12:96)”***
@@ -123,26 +115,14 @@ now is to know what was the practice of the Muslims in this matter:
 his grave and then taking some soil from the grave she put it over her
 face. She later cried and recited these two poems:
 
-<blockquote dir="rtl">
-  <p>
-ماذا على من شَّم تُربة احمدا أن لا يشُم مدى الزمان غواليا
-  </p>
-</blockquote>
+> ماذا على من شَّم تُربة احمدا أن لا يشُم مدى الزمان غواليا
 
-<blockquote dir="rtl">
-  <p>
-صُبَّت علىَّ مصائب لو أنها صُبت على الأيام صرن لياليا
-  </p>
-</blockquote>
+> صُبَّت علىَّ مصائب لو أنها صُبت على الأيام صرن لياليا
 
 *“What happens to the one who smells the soil of grave of Ahmad, who
 till he is alive, shall smell no more the expensive musks.”*
 
-<blockquote dir="rtl">
-  <p>
-صُبَّت علىَّ مصائب لو أنها صُبت على الأيام صرن لياليا
-  </p>
-</blockquote>
+> صُبَّت علىَّ مصائب لو أنها صُبت على الأيام صرن لياليا
 
 *“I was faced with such calamities that if it had befallen on the bright
 day it* *would have changed to night.”*[^7]
@@ -164,11 +144,7 @@ his grave over his head and started to converse with the Holy Prophet
 received the truth from Allah and we too received it from you. From the
 things which Allah revealed to you is this:
 
-<blockquote dir="rtl">
-  <p>
-ولو أنهم إذ ظلموا أنفسهم
-  </p>
-</blockquote>
+> ولو أنهم إذ ظلموا أنفسهم
 
 *I have done injustice upon myself. So seek forgiveness for me from
 Allah. Suddenly he heard a voice saying: Your sins have been forgiven.”*
@@ -238,5 +214,4 @@ al-Saqam narrating from Ibn 'Asakir, and Ibn al-'Athir in Usd al-ghaba,
 vol. 1 page 28.
 
 [^9]: Mustadrak al-Hakim, vol. 4 page 515
-
 

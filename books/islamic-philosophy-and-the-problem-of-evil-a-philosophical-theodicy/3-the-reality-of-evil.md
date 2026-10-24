@@ -18,4 +18,3 @@ evils. And thus, considering the other facts concerning God and His
 attributes, the problem of evil emerges for them as a genuine
 philosophical problem.
 
-

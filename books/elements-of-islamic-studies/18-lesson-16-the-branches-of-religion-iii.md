@@ -61,4 +61,3 @@ repents at once. Only an *aadil* person can lead the prayers, can be
 accepted as a reliable witness and be appointed as *qadhi* (judge).  
 *A’lam* means one who is the most learned of all.
 
-

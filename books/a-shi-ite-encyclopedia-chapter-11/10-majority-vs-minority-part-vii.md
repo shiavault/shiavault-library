@@ -26,7 +26,6 @@ and He said: "... but most of them do not know {6:37, 7:131, 8:34,
 
 and said: "... and most of them have no understanding [5:103]"
 
-
 and said: "... but most of them are not thankful [10:60, 27:73]"
 
 O' Hisham! On the contrary, Allah has praised the minority, by
@@ -41,7 +40,6 @@ him (Noah) but a few [11:40]"
 
 Shi'ite reference: Usul al-Kafi, Arabic-English version, part 1, pp
 31-49, Tradition \#12
-
 
 **Love of a Friend**
 
@@ -78,7 +76,6 @@ Sunni reference: Tafsir al-Kabir, by Fakhr al-Din al-Razi, v9 - Under
 the explanation of the chapter of al-Kahf - 9 ]
 
 Shi'i reference: Bihar al-Anwar, v40, pp 281-282
-
 
 **On Imam Ali (AS)**
 
@@ -124,5 +121,4 @@ To judge Your own souls before the time of judging of your action
 arrives. Make an assessment of Yourself before You are called upon to
 account for Your conduct in this existence.
 [ Imam Ali (AS)
-
 

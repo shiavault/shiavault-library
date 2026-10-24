@@ -54,4 +54,3 @@ This is how Muhammad (S) the Prophet of Islam succeeded in uniting the
 ever-fighting and ignorant Arabs with his honesty, justice and noble
 character.
 
-

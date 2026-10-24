@@ -192,4 +192,3 @@ majority followed his son Imam Ali ar Reza (a.s.), as bequeathed by him,
 as the eight Imam. However, some halted with the seventh Imam and became
 known as the ‘Waqifites’ lit. the halting ones.
 
-

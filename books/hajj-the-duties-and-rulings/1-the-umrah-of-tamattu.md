@@ -14,7 +14,6 @@ IBRAHIM (PBUH).
 
 5. TAQSEER or trimming some of one's hair or finger nails.
 
-
 **The Hajj of TAMATTU'**
 
 The Hajj of TAMATTU' consists of thirteen practices:
@@ -48,5 +47,4 @@ thirteenth of Dhil-Hajjah may also be necessary, [see MABEET in MINA.]
 13. The stoning (RAM'Y) of the three JAMRAH's in MINA on the eleventh
 and the twelfth day, and also on thirteenth day if one stayed in MINA on
 the eve of the thirteenth.
-
 

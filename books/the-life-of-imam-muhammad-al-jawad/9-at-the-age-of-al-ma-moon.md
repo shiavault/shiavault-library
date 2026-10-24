@@ -869,4 +869,3 @@ vol.4 p.105, Mir’at al-Jinan, vol.2 p.80, Mir’at az-Zaman, vol.6 p.105.
 
 [^28]: At-Tanbeeh wel Ishraf, p.404.
 
-

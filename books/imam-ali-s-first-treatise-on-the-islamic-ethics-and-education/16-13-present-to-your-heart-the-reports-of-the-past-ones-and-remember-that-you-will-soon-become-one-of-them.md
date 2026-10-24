@@ -8,14 +8,10 @@ have moved away, and where they arrived at and settled. You will find
 them having moved away from their loved ones and having inhabited an
 alien abode and (it is) as if you will soon become like one of them.**
 
-<blockquote dir="rtl">
-  <p>
-“و اعرض عليه اخبار الماضين وذكّره بما اصاب من كان قبلك من الأولين وسِر
-في ديارهم، فانظر فيما فعلوا وعمّا انتقلوا، واين حلّو ونزلوا، فانك
-تجدهم قد انتقلوا عن الأحبّة وحلّو دار الغربة وكأنك عن قليل قد صرت
-كاحدهم”
-  </p>
-</blockquote>
+> “و اعرض عليه اخبار الماضين وذكّره بما اصاب من كان قبلك من الأولين وسِر
+> في ديارهم، فانظر فيما فعلوا وعمّا انتقلوا، واين حلّو ونزلوا، فانك
+> تجدهم قد انتقلوا عن الأحبّة وحلّو دار الغربة وكأنك عن قليل قد صرت
+> كاحدهم”
 
 The Mirror of History
 ---------------------
@@ -42,28 +38,16 @@ nations. The Qur’an orders people to travel on the earth to observe the
 mirror of the history of the past nations.
 
 > 1. "قَدْخَلَتْ مِنْ قَبْلِكُمْ سُنَنٌ فَسِيرُوا فِي الْأَرْضِ
-<blockquote dir="rtl">
-  <p>
-فَانْظُرواكَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ"
-  </p>
-</blockquote>
+> فَانْظُرواكَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ"
 
 ***"Indeed there have been examples before you; therefore, travel in the
 earth and see what was the end of the rejecters."***[^1]
 
 > 2. "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ
-<blockquote dir="rtl">
-  <p>
-عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَكْثَرَ
-  </p>
-</blockquote>
+> عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَكْثَرَ
 
-<blockquote dir="rtl">
-  <p>
-مِنْهُمْ وَأَشَدَّ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَمَا أَغْنَى
-عَنْهُمْ مَا كَانُوا يَكْسِبُونَ"
-  </p>
-</blockquote>
+> مِنْهُمْ وَأَشَدَّ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَمَا أَغْنَى
+> عَنْهُمْ مَا كَانُوا يَكْسِبُونَ"
 
 ***"Have they not then journeyed in the land and seen how was the end of
 those before them? They were more in numbers than these and greater in
@@ -71,18 +55,10 @@ strength and in fortifications in the land, but what they earned did not
 avail them."***[^2]
 
 > 3. "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
-<blockquote dir="rtl">
-  <p>
-وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
-  </p>
-</blockquote>
+> وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينَ فَمَا بَكَتْ عَلَيْهِمْ
-السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنظَرِينَ"
-  </p>
-</blockquote>
+> كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينَ فَمَا بَكَتْ عَلَيْهِمْ
+> السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنظَرِينَ"
 
 ***“How many of the gardens and fountains have they left! And cornfields
 and noble places! And goodly things wherein they rejoiced; thus it was,
@@ -159,5 +135,4 @@ Till Khaqan, later on, takes lessons from your case.
 
 [^4]: . "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ" “How many of
 the gardens and fountains have they left!” [Qur’an 44:25-26]
-
 

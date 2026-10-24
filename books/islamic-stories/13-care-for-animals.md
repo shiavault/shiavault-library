@@ -48,4 +48,3 @@ By this action, the Prophet has shown that quenching the thirst of even
 a small dumb animal is a noble act full of virtue and should be given
 first attention before one prepares for offering prayers to God.
 
-

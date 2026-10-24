@@ -736,4 +736,3 @@ permissibility of women’s participation in all other fields.
 [^20]: The battle of Hamrah-ul-Asad has been mentioned in “Maghaazi “ of
 Waaqedi 1/334 and Seerah Ibn Hisham 3/52.
 
-

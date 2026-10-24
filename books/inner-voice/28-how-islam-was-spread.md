@@ -36,4 +36,3 @@ persecution suffered by the Muslims at the hand of the Meccans, Islam
 made steady progress. And, in the end, even its erstwhile enemies were
 attracted to its fold.
 
-

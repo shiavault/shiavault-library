@@ -3,29 +3,17 @@ Sermon 9: They thundered ...
 
 *Cowardice of the people of Jamal*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في صفته وصفة خصومه ويقال إنّها في أصحاب الجمل
-  </p>
-</blockquote>
+> في صفته وصفة خصومه ويقال إنّها في أصحاب الجمل
 
 They[^1] thundered like clouds and shone like lightning but despite both
 these things they exhibited cowardice, while we do not thunder until we
 pounce upon the foe nor do we show flow (of words) until we have not
 virtually rained.
 
-<blockquote dir="rtl">
-  <p>
-وقَدْ أَرْعَدُوا وَأبْرَقُوا، وَمَعَ هذَيْنِ الاْمْرَيْنِ الفَشَلُ،
-وَلَسْنَا نُرْعِدُ حَتَّى نُوقِعَ، وَلا نُسِيلُ حَتَّى نُمْطِر .
-  </p>
-</blockquote>
+> وقَدْ أَرْعَدُوا وَأبْرَقُوا، وَمَعَ هذَيْنِ الاْمْرَيْنِ الفَشَلُ،
+> وَلَسْنَا نُرْعِدُ حَتَّى نُوقِعَ، وَلا نُسِيلُ حَتَّى نُمْطِر .
 
 Alternative Sources for Sermon 9
 --------------------------------
@@ -48,5 +36,4 @@ battle, nor utter boasts, nor terrorise the enemy by raising unnecessary
 cries because it is not the way of the brave to use the tongue instead
 of the hand." That is why on this occasion he said to his comrades:
 "Beware of excessive talk as it is cowardice."
-
 

@@ -176,4 +176,3 @@ down the points Imam makes in this paragraph.
 3. Read the translation of Dua no. 44 from Saheefa as-Sajjadiyyah. What
 does Imam say about charity in the month of Ramadhan.
 
-

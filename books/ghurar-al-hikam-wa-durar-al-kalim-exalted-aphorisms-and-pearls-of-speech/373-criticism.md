@@ -7,10 +7,5 @@ Criticism
 thereby rendering your sin grave and being deprived of reward.
 
 > 1ـ إيّاكَ أنْ تَـكُونَ علَى النّاسِ طاعِناً، ولِنَفْسِكَ مُداهِناً،
-<blockquote dir="rtl">
-  <p>
-فَتَعْظُمَ عَلَيْكَ الحَوْبَةُ، وتُحْرَمَ المَثُوبَةَ.
-  </p>
-</blockquote>
-
+> فَتَعْظُمَ عَلَيْكَ الحَوْبَةُ، وتُحْرَمَ المَثُوبَةَ.
 

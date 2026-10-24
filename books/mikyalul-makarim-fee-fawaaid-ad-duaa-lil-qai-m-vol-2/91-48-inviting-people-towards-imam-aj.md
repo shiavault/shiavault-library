@@ -21,12 +21,8 @@ whose fuel is men and stones.***[^1]
 Here it will be sufficient to just mention the exegesis of the following
 verse in Tafseer Imam Hasan Askari (as):
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا
-اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا
+> اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ
 
 ***And when We made a covenant with the children of Israel: You shall
 not serve any but Allah and (you shall do) good to (your) parents, and
@@ -219,12 +215,8 @@ Hell and put them in the center of it.[^2]
 Also, that which supports this matter is the saying of Allah, the Mighty
 and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ
-  </p>
-</blockquote>
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ
 
 ***Call to the way of your Lord with wisdom and goodly exhortation, and
 have disputations with them in the best manner. (Qur’an, Surah Nahl
@@ -235,13 +227,9 @@ The evidence of this verse consists of three points:
 **First:** Even though it is addressed to the Messenger of Allah (S) it
 is meant for all in general like in the case of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلْنَا مِنَ الْبَيِّنَاتِ
-وَالْهُدَىٰ مِنْ بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ ۙ
-أُولَٰئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلْنَا مِنَ الْبَيِّنَاتِ
+> وَالْهُدَىٰ مِنْ بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ ۙ
+> أُولَٰئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ
 
 ***Surely those who conceal the clear proofs and the guidance that We
 revealed after We made it clear in the Book for men, these it is whom
@@ -250,12 +238,8 @@ Surah Baqarah 2:159)***
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
-بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ
-  </p>
-</blockquote>
+> وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
+> بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ
 
 ***And from among you there should be a party who invite to good and
 enjoin what is right. (Qur’an, Surah Aale Imran 3:104)***
@@ -297,11 +281,7 @@ the word ‘Sabeel’ as the religion of Allah, etc., as we have already
 explained that the perfection of religion cannot be achieved without
 recognition of the Imam. Therefore the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ 
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ
 
 ***This day have I perfected for you your religion. (Qur’an, Surah
 Maidah 5:3)***
@@ -332,34 +312,22 @@ controlling animals. In the same way, knowledge and action, keeps the
 person within the obedience of the Almighty Allah and outside the
 control of Satan. Therefore it is mentioned in a verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ
-تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ
+> تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
 
 ***Surely those who guard (against evil), when a visitation from the
 Shaitan afflicts them they become mindful, then lo! they see. (Qur’an,
 Surah Araaf 7:201)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا 
-  </p>
-</blockquote>
+> وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا
 
 ***And whoever is careful of (his duty to) Allah, He will make for him
 an outlet. (Qur’an, Surah Talaq 65:2)***
 
 It is from this aspect that the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا وَمَا
-يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ
-  </p>
-</blockquote>
+> وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا وَمَا
+> يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ
 
 ***And whoever is granted wisdom, he indeed is given a great good and
 none but men of understanding mind. (Qur’an, Surah Baqarah 2:269)***
@@ -422,5 +390,4 @@ some more points will be mentioned in the 52nd duty, Insha Allah.
 [^2]: Tafseer Imam, Pg. 339-345
 
 [^3]: Tafseer Burhan, Vol. 3, Pg. 253, Tr. no. 2
-
 

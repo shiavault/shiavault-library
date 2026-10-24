@@ -7,4 +7,3 @@ Section Two: The Contributions and Blessings of the Prophets
 
 Section Three: Revelation and Miracles
 
-

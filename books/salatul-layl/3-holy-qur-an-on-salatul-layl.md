@@ -11,52 +11,32 @@ the pleasure of reciting Salatul Layl.
 In many verses of the Qur’an, Allah enjoins the rising by the night for
 glorification and worship of Allah. He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ
 
 ***And in the night, give Him glory too, and at the setting of the
 stars*** **(52:49)**
 
 He also says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلاً
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلاً
 
 ***And during part of the night adore Him, and give glory to Him (for a)
 long (part of the) night*** **(76:26)**
 
 Allah says about those who rise at night:
 
-<blockquote dir="rtl">
-  <p>
-كَانُوا قَلِيلاً مِّنَ اللَّيْلِ مَا يَهْجَعُونَ
-  </p>
-</blockquote>
+> كَانُوا قَلِيلاً مِّنَ اللَّيْلِ مَا يَهْجَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
-  </p>
-</blockquote>
+> وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
 
 ***They used to sleep but little in the night. And in the early part of
 the morning they asked forgiveness. (51: 16-17)***
 
 In another verse He says:
 
-<blockquote dir="rtl">
-  <p>
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
-وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ فَلاَ تَعْلَمُ نَفْسٌ مَّا
-أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
+> وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ فَلاَ تَعْلَمُ نَفْسٌ مَّا
+> أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
 
 ***Their sides draw away from (their) beds, they call upon their Lord in
 fear and in hope, and they spend (benevolently) out of what We have
@@ -72,12 +52,8 @@ greatness with Him.*
 In yet another verse Allah describes the effect of reciting Salatul Layl
 for the believer. He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
-رَبُّكَ مَقَامًا مَّحْمُودًا
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
+> رَبُّكَ مَقَامًا مَّحْمُودًا
 
 ***And during a part of the night, pray Tahajjud beyond what is
 incumbent on you; maybe your Lord will raise you to a position of great
@@ -106,13 +82,8 @@ worship at this special time.
 Salatul Layl is thus one of the most effective ways of achieving
 closeness to Allah. That is why Allah says in Sura al-Muzammil (\#73):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْءًا وَأَقْوَمُ قِيلاً
-  </p>
-</blockquote>
+> إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْءًا وَأَقْوَمُ قِيلاً
 
 ***Surely the rising by night is the firmest way to tread and the best
 corrective of speech.*** **(73:6)**
-
 

@@ -292,4 +292,3 @@ be grateful or ungrateful.” (76: 3)
 [^2]: The Qur'an, 51:56: I have only created Jinns and men, that they
 may serve Me.
 
-

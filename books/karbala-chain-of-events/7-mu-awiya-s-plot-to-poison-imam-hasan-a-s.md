@@ -46,4 +46,3 @@ from him. This process continued for several years when people began to
 hear an ugly rumor that Mu'awiya wanted his son,**Yazid** , to succeed
 him.
 
-

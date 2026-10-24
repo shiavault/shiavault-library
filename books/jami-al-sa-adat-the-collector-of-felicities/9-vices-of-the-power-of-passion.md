@@ -37,13 +37,9 @@ say that such a man has fallen victim to the disease of the "love of the
 world." One Prophetic *hadith* delineates the features of the lovers of
 the world in these words:
 
-<blockquote dir="rtl">
-  <p>
-من اصبح والدنيا اكبر همه فليس من الله في شيء, والزم الله قلبه اربع
-خصال: هما لا ينقطع عنه ابدا, وشغلا لا يتفرع منه ابدا, وفقرا لا ينال
-غناه ابدا, واملا لا يبلغ منتهاه ابدا.
-  </p>
-</blockquote>
+> من اصبح والدنيا اكبر همه فليس من الله في شيء, والزم الله قلبه اربع
+> خصال: هما لا ينقطع عنه ابدا, وشغلا لا يتفرع منه ابدا, وفقرا لا ينال
+> غناه ابدا, واملا لا يبلغ منتهاه ابدا.
 
 One who wakes up with his whole attention directed towards the world is
 cut off from God, and God shall make four qualities to accompany him:
@@ -82,20 +78,12 @@ gardens,and will appoint for you rivers.*** **(71:12)**
 And according to narrations, the Prophet (S) has been quoted as both
 praising and condemning wealth.
 
-<blockquote dir="rtl">
-  <p>
-حب المال والشرف بنبتان النفاق, كما ينبت الماء البقل.
-  </p>
-</blockquote>
+> حب المال والشرف بنبتان النفاق, كما ينبت الماء البقل.
 
 The love of wealth and position nourish Hypocrisy *(nifaq)* just as
 plants are nourished by water.
 
-<blockquote dir="rtl">
-  <p>
-نعم المال الصالح للرجل الصالح.
-  </p>
-</blockquote>
+> نعم المال الصالح للرجل الصالح.
 
 How fair is rightly acquired wealth in the possession of an upright man.
 
@@ -179,23 +167,15 @@ includes indulgence in food, sex and other things
 
 The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يشيب ابن آدم ونشب فيه خصلتان: الحرص, وطول الأمل.
-  </p>
-</blockquote>
+> يشيب ابن آدم ونشب فيه خصلتان: الحرص, وطول الأمل.
 
 As man grows in age, two of his characteristics become young: greed, and
 far fetched hopes.
 
 Imam Abu Ja'far al-Baqir has said:
 
-<blockquote dir="rtl">
-  <p>
-مثل الحريص على الدنيا كمثل دودة القز, كلما ازدادت على نفسها لفا كان
-أبعد لها من الخروج, حتى تموت غما.
-  </p>
-</blockquote>
+> مثل الحريص على الدنيا كمثل دودة القز, كلما ازدادت على نفسها لفا كان
+> أبعد لها من الخروج, حتى تموت غما.
 
 The greedy man in his love of the world is like the silk-worm: the more
 it wraps itself in its cocoon the less chance it has of escaping from
@@ -225,23 +205,15 @@ independent of others and in condemnation of avarice. Here we shall
 quote two traditions in praise of being self-sufficient, which also
 condemn avarice. Imam al-Baqir has said:
 
-<blockquote dir="rtl">
-  <p>
-بئس العبد عبد له طمع يقوده, وبئس العبد عبد له رغبة تذله.
-  </p>
-</blockquote>
+> بئس العبد عبد له طمع يقوده, وبئس العبد عبد له رغبة تذله.
 
 What an evil creature is he who is led by his avarice. What an evil
 creature is he whose desire earns him ignominy.
 
 Imam \`Ali (A) says:
 
-<blockquote dir="rtl">
-  <p>
-إستغن عمن شئت تكن تظيره، وارغب الى من شئت تكن أسيره، واحسن الى من شئت
-تكن أميره.
-  </p>
-</blockquote>
+> إستغن عمن شئت تكن تظيره، وارغب الى من شئت تكن أسيره، واحسن الى من شئت
+> تكن أميره.
 
 Whomever you are able to do without, you will be able to become his
 peer. Whomever you are fond of, you will become his captive. Whomever
@@ -323,12 +295,8 @@ restraint, so that he will ultimately be able to abstain from even those
 things which are *mushtabah* (i.e. of doubtful legitimacy). A prophetic
 tradition says:
 
-<blockquote dir="rtl">
-  <p>
-من اكل الحلال اربعين يوما, نور الله قلبه, واجرى ينابيع الحكمة من قلبه
-على لسانه.
-  </p>
-</blockquote>
+> من اكل الحلال اربعين يوما, نور الله قلبه, واجرى ينابيع الحكمة من قلبه
+> على لسانه.
 
 Whoever lives on halal earnings for forty days, God shall enlighten his
 heart and cause springs of wisdom to emanate from his heart flowing to
@@ -349,11 +317,7 @@ One must always remember that all of the things mentioned are blessings
 of God, accompanied by specific responsibilities, violation of which
 amounts to treachery. The wise Luqman has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-ما بلغت الى ما بلغت اليه من الحكمة, إلا بصدق الحديث وأداء الأمانة.
-  </p>
-</blockquote>
+> ما بلغت الى ما بلغت اليه من الحكمة, إلا بصدق الحديث وأداء الأمانة.
 
 I did not attain my station of wisdom except through truthfulness and
 fulfillment of trust.
@@ -400,13 +364,8 @@ speech, saying only those things that are beneficial to both our worldly
 existence and our Hereafter. The wise have said: "Two things can destroy
 a man: too much wealth and garrulousness. "The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-طوبى لمن أمسك الفضل من لسانه, وانفق الفضل من ماله.
-  </p>
-</blockquote>
+> طوبى لمن أمسك الفضل من لسانه, وانفق الفضل من ماله.
 
 Blessed is he who is frugal in speech and generous with regard to his
 possessions.
-
 

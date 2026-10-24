@@ -56,4 +56,3 @@ yellows, all”.
 
 'Yes”, said Grandmother.
 
-

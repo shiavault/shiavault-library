@@ -50,4 +50,3 @@ understanding moral values in particular. Having studied revelation and
 reason as two sources of understanding Islam, I will briefly refer to
 the Shi'a understanding of faith and authority.
 
-

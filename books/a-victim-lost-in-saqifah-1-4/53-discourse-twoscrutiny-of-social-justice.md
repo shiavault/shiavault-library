@@ -90,9 +90,9 @@ prepared the food and then he himself fed the children…”!**[4]**
 
 *Dar yek Nigaah* (Status of Companions and life of Rightly Guided
 Caliphs in a Glance), Pg. 21**  
-[1]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+[1]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 149  
-**[2]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup> Edition
+**[2]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2nd Edition
 1379), Pg. 154  
 **[3]** [It is interesting that here they have translated Wali as leader
 and chief but in the instance of Ghadeer with regard to Ali (a.s.) they
@@ -148,13 +148,13 @@ was for his hatred?
 ------------------------------------------------------------------------
 
 **[1]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 90  
 **[2]** Muhammad Kamil Hasan al-Hami (translated by Ghulam Haider
-Farooqi): *Zindagi Naame Umar bin Khattab* (1<sup>st</sup> Edition
+Farooqi): *Zindagi Naame Umar bin Khattab* (1st Edition
 1382), Pg. 6  
 **[3]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 80
 
 Many people had come to the house of Umar. Little by little, the number
@@ -208,7 +208,7 @@ remained with Quraish. The Quraish tribe now owned slaves, gardens,  
 **[1]** Ahmad al-Bakri: *Min Hayatul Khaleefa,* Pg. 347; quoting from:
 *Hayatus Sahaba,* Vol. 2, Pg. 419; *Kanzul Ummal,* Vol. 2, Pgs. 480, Tr.
 4552  
- **[2]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup>
+ **[2]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th
 Edition 1382), Pgs. 205 & 206  
 **[3]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 10
@@ -355,7 +355,7 @@ Ubadah]
 **[5]** Allamah Sayyid Murtuza Askari: *Doo Maktab Dar Islam* (Two
 Schools of Islam) Vol. 2 (Outlooks of two schools about sources of
 Islamic legislation) Pg. 559, Footnote no. 3  
-**[6]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[6]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 92  
 **[7]** Quoted from: *Ahsan at-Taqaaseem,* Pg. 18  
 **[8]** [The Arabs called all the Sasanid rulers as Choesroe]  
@@ -490,7 +490,7 @@ A) “Arab cannot be enslaved by anyone.”**[6]**
 
 **[1]** [Surprising is the claim that:“He had a clean tongue and he did
 not like bad language.”! (Muhammad Kamil Ilhami (Translation by Ghulam
-Haider Farooqi): *Zindagi Name Umar bin Khattab* (1<sup>st</sup> Edition
+Haider Farooqi): *Zindagi Name Umar bin Khattab* (1st Edition
 1382), Pg. 24)While historical documents show that: Abu Sufyan in
 dialogue with Umar bin Khattab in the presence of the Holy Prophet
 (s.a.w.s.) and Abbas told Umar: “Woe be on you Umar! You are a profane
@@ -500,7 +500,7 @@ quoting from *Sirah Ibne Dahlan,* Vol. 2, Pg. 58)]
 quoting from: *Abqariya Umar,* Pg. 130  
  **[3]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 4  
-**[4]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[4]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 197  
 **[5]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 11, Autumn 81, Pg. 6  
@@ -602,10 +602,10 @@ unspecified lineage.]
 Pg. 446; *Tadkirah al-Huffaz,* Vol. 1, Pg. 31; *Sunan Baihaqi,* Vol. 8,
 Pg. 32; *Seer Alaamun Nubla,* Vol. 2, Pg. 440; *Kanzul Ummal,* Vol. 7,
 Pg. 303  
-**[4]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+**[4]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 115  
 **[5]** Muhammad Kamil Hasan al-Hami (translated by Ghulam Haider
-Farooqi): *Zindagi Naame Umar bin Khattab* (1<sup>st</sup> Edition
+Farooqi): *Zindagi Naame Umar bin Khattab* (1st Edition
 1382), Pg. 3
 
 have been.”**[1]**
@@ -649,7 +649,7 @@ fixing financial monthly allowance. They received a lion’s share while  
 ------------------------------------------------------------------------
 
 **[1]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 82  
 **[2]** Allamah Ja’far Murtuza Amili: *Salman Farsi*, Pg. 133; quoting
 from: *Iqtiza as-Siraat al-Mustaqeem,* Pg. 162  
@@ -749,18 +749,18 @@ during his administration which were unknown before.”!**[6]**
 ------------------------------------------------------------------------
 
 Pg. 433**  
-[1]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+[1]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pg. 164  
 **[2]** Ali Tantawi (Translated by Abu Bakr Hasanzadeh):
-*Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> & 2<sup>nd</sup> Edition
+*Dastan-e-Zindagani-e-Umar,* (1st & 2nd Edition
 1380), Pg. 79  
-**[3]** Ibid. *Dastan-e-Zindagani-e-Umar,* (1<sup>st</sup> &
-2<sup>nd</sup> Edition 1380), Pg. 46  
-**[4]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6<sup>th</sup> Edition
+**[3]** Ibid. *Dastan-e-Zindagani-e-Umar,* (1st &
+2nd Edition 1380), Pg. 46  
+**[4]** Sayyid Abdur Raheem Khateeb: *Shaykhain* (6th Edition
 1382), Pg. 422  
-**[5]** Ibid. *Shaykhain* (6<sup>th</sup> Edition 1382), Pg. 421  
+**[5]** Ibid. *Shaykhain* (6th Edition 1382), Pg. 421  
 **[6]** Ahmad Naseeb (translated by Saaduddin Shaykh Ahmadi):
-*Mohabbat-e-Payambar Dar Qalb-e-Yaaranash* (1<sup>st</sup> Edition
+*Mohabbat-e-Payambar Dar Qalb-e-Yaaranash* (1st Edition
 1380), Pg. 84
 
 Here it should be asked: With policy of racial discrimination even among

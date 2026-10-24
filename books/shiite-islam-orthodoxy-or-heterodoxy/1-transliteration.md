@@ -15,4 +15,3 @@ Allāhu ‘anhu* after the names of the Companions, we have chosen to drop
 them, to maintain the flow of the English. While these phrases are not
 included, they are intended, and readers are free to use them.
 
-

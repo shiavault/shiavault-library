@@ -345,4 +345,3 @@ of Rabi\` al-Awwal—the month in which the Holy Prophet arrived in
 Medina—he appointed Muharram as the starting point of the Hijri
 calendar.[^38]
 
-

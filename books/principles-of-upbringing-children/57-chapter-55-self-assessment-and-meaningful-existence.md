@@ -70,4 +70,3 @@ their children on the desired path.
 
 [^4]: Gharar al hukm, p. 693
 
-

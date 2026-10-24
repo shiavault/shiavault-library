@@ -164,4 +164,3 @@ permissible because it was the way of Adam.” Imam said, “How do they
 regard it permissible when they say that Adam, Nuh, Ibrahim, Musa, ‘Isa
 and all Prophets have declared it haram (prohibited)?”
 
-

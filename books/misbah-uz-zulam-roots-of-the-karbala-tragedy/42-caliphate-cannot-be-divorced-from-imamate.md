@@ -37,4 +37,3 @@ the writer invites the attention of the readers to the tragedy of
 Karbala’ it seems appropriate to explain the conditions of Amirul
 Mo-mineen Ali (a.s.).
 
-

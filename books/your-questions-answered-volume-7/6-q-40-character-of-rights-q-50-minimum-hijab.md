@@ -207,4 +207,3 @@ A: He should not be allowed to enter into a mosque. There is no
 difficulty if he enters into Imambara. Also, he may touch 'alam or
 taboot if he does so with respect and reverence.
 
-

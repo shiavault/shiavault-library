@@ -4,12 +4,8 @@
 The Messenger of Allah, sallallahu ‘alaihi wa alihi, proclaimed at
 Ghadir Khumm to all humanity:
 
-<blockquote dir="rtl">
-  <p>
-إني تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي وإنهما لن يتفرقا حتى
-يردا علي الحوض
-  </p>
-</blockquote>
+> إني تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي وإنهما لن يتفرقا حتى
+> يردا علي الحوض
 
 I am leaving behind over you the Two Weighty Things (al-thaqalayn): the
 Book of Allah and my offspring, my Ahl al-Bayt. Verily, both shall never
@@ -30,33 +26,17 @@ The Prophet was declaring the Qur’an and his offspring as his
 substitutes over his Ummah after him. Shaykh al-Arnaut too has something
 for us in this regard:
 
-<blockquote dir="rtl">
-  <p>
-قال السندي: قوله: "إني تارك فيكم"، أي: بعد موتي.
-  </p>
-</blockquote>
+> قال السندي: قوله: "إني تارك فيكم"، أي: بعد موتي.
 
-<blockquote dir="rtl">
-  <p>
-الثًقلين: الثقل، بفتحتين: كل شيء نفيس مصون، ومنه هذا الحديث، كذا في
-"القاموس".
-  </p>
-</blockquote>
+> الثًقلين: الثقل، بفتحتين: كل شيء نفيس مصون، ومنه هذا الحديث، كذا في
+> "القاموس".
 
-<blockquote dir="rtl">
-  <p>
-أحدهما أكبر: هو الكتاب، لأنه إمام الكل: العترة، وغيرهم…
-  </p>
-</blockquote>
+> أحدهما أكبر: هو الكتاب، لأنه إمام الكل: العترة، وغيرهم…
 
-<blockquote dir="rtl">
-  <p>
-وعترتي: كأنه صلى الله عليه وسلم جعلهم قائمين مقامه، فكما كان في حياته
-القرآن والنبي، كذلك بعده القرآن وأهل بيته، ولكن قيامهم مقامه في وجوب
-المحبة والمراعاة والإحسان، لا في العمل بأقوالهم وآرائهم، بل المرجع في
-العمل: الكتاب والسنة، والله تعالى أعلم.
-  </p>
-</blockquote>
+> وعترتي: كأنه صلى الله عليه وسلم جعلهم قائمين مقامه، فكما كان في حياته
+> القرآن والنبي، كذلك بعده القرآن وأهل بيته، ولكن قيامهم مقامه في وجوب
+> المحبة والمراعاة والإحسان، لا في العمل بأقوالهم وآرائهم، بل المرجع في
+> العمل: الكتاب والسنة، والله تعالى أعلم.
 
 Al-Sindi said: “His statement {I am leaving behind over you}: that is,
 after me death.
@@ -79,15 +59,11 @@ This is further strengthened by the fact that he called them both “the
 Two Weighty Things”, al-thaqalayn. Imam Ibn Manzur (d. 711 H), the
 leading classical Sunni linguist, explains what this means:
 
-<blockquote dir="rtl">
-  <p>
-وروي عن النبي، صلى الله عليه وسلم، أنه قال في آخر عمره: إني تارك فيكم
-الثقلين: كتاب الله وعترتي، فجعلهما كتاب الله عز وجل وعترته، وقد تقدم
-ذكر العترة. وقال ثعلب: سميا ثقلين لأن الأخذ بهما ثقيل والعمل بهما
-ثقيل، قال: وأصل الثقل أن العرب تقول لكل شئ نفيس خطير مصون ثقل، فسماهما
-ثقلين إعظاما لقدرهما وتفخيما لشأنهما
-  </p>
-</blockquote>
+> وروي عن النبي، صلى الله عليه وسلم، أنه قال في آخر عمره: إني تارك فيكم
+> الثقلين: كتاب الله وعترتي، فجعلهما كتاب الله عز وجل وعترته، وقد تقدم
+> ذكر العترة. وقال ثعلب: سميا ثقلين لأن الأخذ بهما ثقيل والعمل بهما
+> ثقيل، قال: وأصل الثقل أن العرب تقول لكل شئ نفيس خطير مصون ثقل، فسماهما
+> ثقلين إعظاما لقدرهما وتفخيما لشأنهما
 
 It is narrated from the Prophet, peace be upon him, that he said during
 the end of his lifetime: “I am leaving behind over you the Two Weighty
@@ -103,13 +79,9 @@ highlight their significance and to extol their importance [^2]
 Imam Ibn al-Athir (d. 606 H), an ace Sunni hadith linguist, has the same
 submission:
 
-<blockquote dir="rtl">
-  <p>
-]إني تارك فيكم الثقلين : كتاب الله وعترت] سماهما ثقلين لأن الأخذ بهما
-والعمل بهما ثقيل . ويقال لكك خطير نفيس ثقل فسماهما ثقلين إعظاما
-لقدرهما وتفخيما لشأنهما.
-  </p>
-</blockquote>
+> ]إني تارك فيكم الثقلين : كتاب الله وعترت] سماهما ثقلين لأن الأخذ بهما
+> والعمل بهما ثقيل . ويقال لكك خطير نفيس ثقل فسماهما ثقلين إعظاما
+> لقدرهما وتفخيما لشأنهما.
 
 [I am leaving among you the Two Weighty Things: the Book of Allah and my
 offspring], he named them both thaqalayn because holding fast to them
@@ -120,13 +92,9 @@ importance.[^3]
 
 Another leading Sunni linguist, al-Zubaydi (d. 1205 H), backs him:
 
-<blockquote dir="rtl">
-  <p>
-وكذلك الحديث} إني تارك فيكم الثقلين، كتاب الله وعترتي {جعلهما ثقلين
-إعظاما لقدرهما وتفخيما لهما. وقال ثعلب: سماهما ثقلين؛ لأن الأخذ بهما
-والعمل بهما ثقيل.
-  </p>
-</blockquote>
+> وكذلك الحديث} إني تارك فيكم الثقلين، كتاب الله وعترتي {جعلهما ثقلين
+> إعظاما لقدرهما وتفخيما لهما. وقال ثعلب: سماهما ثقلين؛ لأن الأخذ بهما
+> والعمل بهما ثقيل.
 
 And it is like that in the hadith: “I am leaving among you the Two
 Weighty Things (al-thaqalayn): the Book of Allah and my offspring”. He
@@ -137,16 +105,12 @@ them both and following them both are weighty (responsibilities).”[^4]
 Yet another leading Sunni linguist, Abu Mansur al-Azhari (d. 370 H),
 confirms them:
 
-<blockquote dir="rtl">
-  <p>
-روي عن النبي (صلى الله عليه وسلم) أنَّه قال في مرضه الذي مات فيه: (إني
-تارك فيكم الثقلين: كتابَ الله وعِتْرتي، ولن يفترقا حتى يردا علي
-الحوض)، فسَّر النبي (صلى الله عليه وسلم) الثقلين فجعلهما كتاب الله جلّ
-وعزّ وعِترته عليه السلام؛ وقد فسّرت العترة فيما تقدّم وهم جماعةُ
-عشيرته الأدْنَوْن. وقال أبو العباس أحمد بن يحيى: سميا ثقلين لأن الأخذ
-بهما ثقيل، والعمل بهما ثقيل.
-  </p>
-</blockquote>
+> روي عن النبي (صلى الله عليه وسلم) أنَّه قال في مرضه الذي مات فيه: (إني
+> تارك فيكم الثقلين: كتابَ الله وعِتْرتي، ولن يفترقا حتى يردا علي
+> الحوض)، فسَّر النبي (صلى الله عليه وسلم) الثقلين فجعلهما كتاب الله جلّ
+> وعزّ وعِترته عليه السلام؛ وقد فسّرت العترة فيما تقدّم وهم جماعةُ
+> عشيرته الأدْنَوْن. وقال أبو العباس أحمد بن يحيى: سميا ثقلين لأن الأخذ
+> بهما ثقيل، والعمل بهما ثقيل.
 
 It is narrated from the Prophet, peace be upon him, that he said in his
 fatal illness: (I am leaving behind over you the Two Weighty Things: the
@@ -163,12 +127,8 @@ named thaqalayn because holding fast to them both is a weighty
 Imam al-Nawawi (d. 676 H), the well-known hadith scientist, tables the
 view of the classical Sunni scholars as well:
 
-<blockquote dir="rtl">
-  <p>
-قوله صلى الله عليه وسلم) وانا تارك فيكم ثقلين (فذكر كتاب الله وأهل
-بيته قال العلماء سميا ثقلين لعظمهما وكبير شأنهما وقيل العمل بهما
-  </p>
-</blockquote>
+> قوله صلى الله عليه وسلم) وانا تارك فيكم ثقلين (فذكر كتاب الله وأهل
+> بيته قال العلماء سميا ثقلين لعظمهما وكبير شأنهما وقيل العمل بهما
 
 His statement, peace be upon him (I am leaving behind over you Two
 Weighty Things) and he mentioned the Book of Allah and his Ahl al-Bayt.
@@ -179,12 +139,8 @@ thaqalayn due to the fact that) both are to be followed.[^6]
 And Shaykh ‘Abd al-Baqi, in his annotation of Sahih Muslim, writes these
 words under Hadith al-Thaqalayn:
 
-<blockquote dir="rtl">
-  <p>
-(ثقلين) قال العلماء سميا ثقلين لعظمهما وكبير شأنهما وقيل لثقل العمل
-بها
-  </p>
-</blockquote>
+> (ثقلين) قال العلماء سميا ثقلين لعظمهما وكبير شأنهما وقيل لثقل العمل
+> بها
 
 (Two Weighty Things [thaqalayn]): The ‘ulama said: He named them
 thaqalayn due to their magnificence and the greatness of their
@@ -202,11 +158,7 @@ and the masters and guides over his Ummah after him.
 Meanwhile, the Rasul also described his offspring as being eternally
 inseparable from the Qur’an until the Day of Resurrection:
 
-<blockquote dir="rtl">
-  <p>
-وانهما لن يفترقا حتى يردا على الحوض
-  </p>
-</blockquote>
+> وانهما لن يفترقا حتى يردا على الحوض
 
 Verily, both shall NEVER separate from each other until they meet me at
 the Lake-Fount.
@@ -251,13 +203,9 @@ your affairs.**
 This last point is re-emphasized by ‘Allamah al-Albani (d. 1420 H) in
 these words while writing about the Qur’an and Sunnah:
 
-<blockquote dir="rtl">
-  <p>
-بل يجب اعتبار الكتاب والسنة مصدرا واحدا لا فصل بينهما أبدا كما أشار
-إلى ذلك قوله صلى الله عليه وسلم : " ألا إني أتيت القرآن ومثله معه "
-يعني السنة وقوله: " لن يتفرقا حتى يردا علي الحوض "
-  </p>
-</blockquote>
+> بل يجب اعتبار الكتاب والسنة مصدرا واحدا لا فصل بينهما أبدا كما أشار
+> إلى ذلك قوله صلى الله عليه وسلم : " ألا إني أتيت القرآن ومثله معه "
+> يعني السنة وقوله: " لن يتفرقا حتى يردا علي الحوض "
 
 Rather, it is obligatory to consider the Book and the Sunnah as a single
 source, with no difference between them both, AS INDICATED IN THE
@@ -314,5 +262,4 @@ Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 [^8]: Abu ‘Abd al-Rahman Muhammad Nasir al-Din b. al-Hajj Nuh b. Tajati
 b. Adam al-Ashqudri al-Albani, Manzilah al-Sunnah fi al-Islam (Kuwait:
 Dar al-Salafiyyah; 4th edition, 1404 H), p. 22
-
 

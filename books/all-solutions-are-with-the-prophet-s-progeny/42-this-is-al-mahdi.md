@@ -77,4 +77,3 @@ and most surely I was among scoffers***. ***Qur'an, 39:53-56***
 six sahihs), chapter - Signs of the Day of Resurrection and al-Aqa’id
 al-Islamiyyah (Islamic beliefs), by Sayyid Sabiq.
 
-

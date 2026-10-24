@@ -154,4 +154,3 @@ it? Say: I only follow what is revealed to me from my Lord; these are
 clear proofs from your Lord and a guidance and a mercy for a people who
 believe.***
 
-

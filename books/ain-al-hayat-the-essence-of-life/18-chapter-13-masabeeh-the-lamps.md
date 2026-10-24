@@ -377,4 +377,3 @@ and gave sufficient proof of their infidelity. Even then if some people
 abandoned the rightful path of the *Ahl-ul-Bayt,* the sin definitely
 goes to their account!
 
-

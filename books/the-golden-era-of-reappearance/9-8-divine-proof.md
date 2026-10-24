@@ -13,12 +13,8 @@ the Holy Prophet (s.a.w), Janabe Fatema (s.a) . This aspect has been
 mentioned in Dua an-Nudba and other reliable supplications. In dua
 an-Nudba we address Imam (a.s) thus:
 
-<blockquote dir="rtl">
-  <p>
-يابن الهداة المهديين، يابن البدور المنيرة، يابن السبل الواضحة، يابن
-الدلائل المشهودة، يابن الصراط المستقيم
-  </p>
-</blockquote>
+> يابن الهداة المهديين، يابن البدور المنيرة، يابن السبل الواضحة، يابن
+> الدلائل المشهودة، يابن الصراط المستقيم
 
 “ O son of the divinely guided leaders, O son of the illuminating moons,
 O son of the clear paths, O son of the witnessed proofs, O son of the
@@ -88,13 +84,9 @@ their supplications. Let the invocation taught by the Imam (a.t.f.s.),
 who is concealed from the eyes but close to the heart, flow on their
 tongues:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إنّا نرغب إليك في دولة كريمة، تعزز بها الاسلام و اهله، وتذل بها
-النفاق و أهله، و تجعلنا فيها من الدعاة الى طاعتك، و القادة الى سبيلك،
-و ترزقنا بها كرامة الدنيا و الآخرة، آمين رب العالمين.
-  </p>
-</blockquote>
+> اللهم إنّا نرغب إليك في دولة كريمة، تعزز بها الاسلام و اهله، وتذل بها
+> النفاق و أهله، و تجعلنا فيها من الدعاة الى طاعتك، و القادة الى سبيلك،
+> و ترزقنا بها كرامة الدنيا و الآخرة، آمين رب العالمين.
 
 “O Allah! Surely we are inclined to you concerning the noble government
 (of Imam Mahdi (a.t.f.s.)).
@@ -119,5 +111,4 @@ addressing Taariq ibn shahaab, refer Behaar al-anwaar, vol. 25, pg-
 [^4]: (Last few sentences from Dua al-Iftetah. This supplication was
 instructed by Imam az-Zamaan (a.t.f.s.) himself and has ordered us to
 recite it every night during the holy month of Ramazan.)
-
 

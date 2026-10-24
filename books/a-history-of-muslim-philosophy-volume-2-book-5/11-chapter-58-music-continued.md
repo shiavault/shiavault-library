@@ -2125,4 +2125,3 @@ demonstrative pronoun.
 
 [^279]: E. de Coussemaker, op. cit., 1, p. 193.
 
-

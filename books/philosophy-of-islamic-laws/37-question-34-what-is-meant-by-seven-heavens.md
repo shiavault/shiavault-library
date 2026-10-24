@@ -94,9 +94,7 @@ earths. Especially the last Tafseer, which seems to be more acceptable
 compared to all others and the narrations of those exegeses is in need
 of further explanation.
 
-
 [^1]: Surah Luqman 31:27
 
 [^2]: Surah Saffaat 37:6
-
 

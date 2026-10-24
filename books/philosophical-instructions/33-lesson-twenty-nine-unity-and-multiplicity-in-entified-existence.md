@@ -254,4 +254,3 @@ world requires acceptance of the third mentioned kind of composition,
 while the acceptance of that type of composition does not require the
 acceptance of such unity.
 
-

@@ -1,11 +1,7 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 *O Allah, I humbly present this short treatise to our beloved guide,
 Imam Ali (\`a)- Imam al-Arifin (the doyen of the saints), whose total
@@ -18,5 +14,4 @@ In the close Neighborhood of the ever resplendent lady, Fatima, named by
 her brother- Imam Ali al-Rida (\`a), as al-Ma'suma (the infallible one)
 may Allah imbue our hearts with intense love for her, and may He
 emancipate us by her intercession. *Amin*
-
 

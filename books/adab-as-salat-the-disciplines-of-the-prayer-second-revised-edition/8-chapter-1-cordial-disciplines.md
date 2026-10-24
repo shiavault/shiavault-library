@@ -133,4 +133,3 @@ al-Balāghah, edited by Fayd al-Islām, maxim 100.
 
 [^6]: Sūrah al-Isrā' 17:1.
 
-

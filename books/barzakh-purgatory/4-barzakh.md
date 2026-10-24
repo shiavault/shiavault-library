@@ -1268,4 +1268,3 @@ Chapter 13. One by Imam Baqir (a.s.) is as follows: The Imam (a.s.)
 says: The body is not punished, until the said branches remain green and
 God willing, it will not be punished even after the branches dry up.
 
-

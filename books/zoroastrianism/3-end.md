@@ -55,4 +55,3 @@ into fire, and again from heaven the answering flames shall fall, making
 the Iranian religion once more what it ought to be, a beacon light for
 the souls of men, one of the greatest religions of the world.
 
-

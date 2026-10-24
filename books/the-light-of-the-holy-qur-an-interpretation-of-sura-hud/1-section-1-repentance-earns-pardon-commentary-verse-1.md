@@ -6,9 +6,7 @@ and the bounties from Allah
 The verses of the Qur'an established in Wisdom The Apostle Muhammad is
 a Warner and the Bearer of Glad Tidings from Allah
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ
-</p>
 
 (1) الر كِتابٌ أُحْكِمَتْ آياتُهُ ثُمَّ فُصِّلَتْ مِنْ لَدُنْ حَكيمٍ
 خَبيرٍ
@@ -55,7 +53,6 @@ with the details of all needs. The verse says:
 " 'Alif 'A', Lam 'L', Ra 'R'.(This is)a Book whose verses are set
 firmly, then explained in detail, from One All- Wise, All- Aware. "
 
-
 **Commentary : Verse 2**
 
 (2) أَلاَّ تَعْبُدُوا إِلاَّ اللَّهَ إِنَّني‏ لَكُمْ مِنْهُ نَذيرٌ وَ
@@ -88,7 +85,6 @@ and virtuousness. The holy verse continued saying:
 
 "... Verily, I am for you from Him, a warner and a bearer of glad
 tidings. "
-
 
 **Commentary : Verse 3**
 
@@ -146,7 +142,6 @@ Divine Judgment. The verse says:
 "... But if you turn away(from serving Him), then I fear for you the
 Penalty of a Great Day. "
 
-
 **Commentary : Verse 4**
 
 (4) إِلَى اللَّهِ مَرْجِعُكُمْ وَ هُوَ عَلى‏ كُلِّ شَيْ‏ءٍ قَديرٌ
@@ -174,9 +169,7 @@ power over all things. The verse continues saying:
 
 "... and He is All- Powerful over everything. "
 
-
 **Commentary : Verse 5**
-
 
 (5) أَلا إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ أَلا
 حينَ يَسْتَغْشُونَ ثِيابَهُمْ يَعْلَمُ ما يُسِرُّونَ وَ ما يُعْلِنُونَ
@@ -222,7 +215,6 @@ hidden. The verse also says:
 "... Behold! Even when they cover themselves with their garments, He
 knows what they conceal and what they reveal: Verily He is aware of what
 is in the hearts. "
-
 
 **Commentary : Verse 6**
 
@@ -297,7 +289,6 @@ Allah's control, for He has made available to us both the resources of
 our provisions as well as the reasons and means for the exploitation,
 discovery, and acquisition of those resources.
 
-
 **Commentary : Verse 7**
 
 (7) وَ هُوَ الَّذي خَلَقَ السَّماواتِ وَ الْأَرْضَ في‏ سِتَّةِ أَيَّامٍ
@@ -359,7 +350,6 @@ recourse to accusations of sorcery and hallucinations. The verse says:
 after death', the unbelievers would surely say: 'This is(not)but a
 manifest sorcery'. "
 
-
 **Commentary : Verse 8**
 
 (8) وَ لَئِنْ أَخَّرْنا عَنْهُمُ الْعَذابَ إِلى‏ أُمَّةٍ مَعْدُودَةٍ
@@ -415,5 +405,4 @@ clouds over the sea.
 ma'doudah/ with documentations from the Qur'anic verses and the sayings
 of the Ahl- ul- Bayt(a.s.)which also exist in Sunni interpretations and
 we will not deal with them here for the sake of brevity.
-
 

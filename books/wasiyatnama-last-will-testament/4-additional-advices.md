@@ -1048,4 +1048,3 @@ judgement and ‘Hashr-nashr’ will be decided accordingly.
 
 [^72]: Tafseer al-safi, Sur al-Hijr
 
-

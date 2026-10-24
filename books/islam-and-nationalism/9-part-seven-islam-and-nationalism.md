@@ -194,4 +194,3 @@ and instead of going to the well of Zamzam, he seeks the River Ganges.
 In this way, the entity of Islam is endangered. That is why Islam has
 always been hostile to nationalism.
 
-

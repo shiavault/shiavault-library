@@ -1,17 +1,9 @@
 Presentation
 ============
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ
 
 **In the Name of Allah, the All-Beneficent, the All- Merciful.**
 
@@ -23,5 +15,4 @@ entirely to save the 'truth', and thereby practically demonstrated a
 timeless model for emulation.
 
 Abu Muhammad Zaynu’l 'Abidin
-
 

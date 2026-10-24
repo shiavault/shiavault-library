@@ -19,4 +19,3 @@ the Prophet in his last Sermon.
 
 **A. Yusuf ‘Ali.**
 
-

@@ -34,4 +34,3 @@ imagine what it would have been when Bani Umayyah were in power! Now I
 request the just people to study the factors that caused decrease in the
 religious position of Muhammad’s Progeny. They are as follows:
 
-

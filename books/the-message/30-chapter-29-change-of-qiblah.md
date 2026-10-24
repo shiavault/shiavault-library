@@ -130,4 +130,3 @@ Jibreel held his hand and turned him to the Ka'bah.[^3]
 Ka'bah, while ofering prayers, has been quoted by Hur Amili in Wasa'il.
 (chapters on Qiblah, vol. III, page 218)
 
-

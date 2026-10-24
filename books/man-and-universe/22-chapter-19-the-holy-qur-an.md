@@ -534,4 +534,3 @@ are a number of other remarkable points which prove its miraculousness
 on the intellectual level. They are related to natural sciences,
 philosophy and history.
 
-

@@ -73,4 +73,3 @@ are three forms that they have:
 
 3. **مِفعال**: for example: **مِفتاح** (key)
 
-

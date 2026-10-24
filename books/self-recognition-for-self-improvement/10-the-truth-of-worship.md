@@ -119,4 +119,3 @@ every athlete could test in combat with a champion. But at any rate, the
 correct means of development is to gradually and proportionately, lead
 to growth in all dimensions of existence.
 
-

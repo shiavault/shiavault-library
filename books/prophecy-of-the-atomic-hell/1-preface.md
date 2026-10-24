@@ -202,4 +202,3 @@ Nor the Non-Muslims could be absolved from the duty of publishing this
 prophecy in their own interest and in this interest of mankind in
 general.
 
-

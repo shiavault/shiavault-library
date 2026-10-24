@@ -754,4 +754,3 @@ matter inside His Essence, the asking will never stop. Is there any need
 in His Divine Self? Never! He is never in need of any thing. So, how can
 the objectives of His acts be returned to His Divine Self?
 
-

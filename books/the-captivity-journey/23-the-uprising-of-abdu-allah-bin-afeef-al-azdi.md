@@ -116,4 +116,3 @@ with other tribes that had a social influence in Kufa and tried not to
 aggrevate them against him by not killing some of their leaders who were
 in allegiance to the Prophet’s progeny (R).
 
-

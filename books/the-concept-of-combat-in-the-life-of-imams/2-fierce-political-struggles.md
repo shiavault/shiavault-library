@@ -39,4 +39,3 @@ the armed struggle.
 
 [^1]: Bihar-ul-Anwar, Vol. 46, P. 172, Tradition No. 2
 
-

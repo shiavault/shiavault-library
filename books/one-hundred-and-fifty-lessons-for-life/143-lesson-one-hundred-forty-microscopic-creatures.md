@@ -3,13 +3,9 @@ Lesson One Hundred Forty: Microscopic Creatures
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّما قُلْنا «الَّطِيفُ» لِلْخَلْقِ اللَّطِيفِ... وَ ما لا يَكادُ
-عُيُونُنا تَسْتَبِينَهُ لِدِمامَةِ خَلْقِها، لا تَراهُ عُيُونُنا وَ
-لاتَلْمُسُهُ اَيْدِينا!
-  </p>
-</blockquote>
+> اِنَّما قُلْنا «الَّطِيفُ» لِلْخَلْقِ اللَّطِيفِ... وَ ما لا يَكادُ
+> عُيُونُنا تَسْتَبِينَهُ لِدِمامَةِ خَلْقِها، لا تَراهُ عُيُونُنا وَ
+> لاتَلْمُسُهُ اَيْدِينا!
 
 Translation
 -----------
@@ -33,5 +29,4 @@ microbiology founder Louis Pasteur (1822-1895 AD).
 
 [^1]: Al-Kafi, volume one, page 106. Al-Tawheed, page 185. Uyoon Akhbar
 Ar-Ridha, vol 1, page 127.
-
 

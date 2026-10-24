@@ -141,4 +141,3 @@ feasting, dressing up or sex. It is available only in the Hereafter
 where enjoyment is not accompanied by any pain, provided you reach there
 with the light of piety and Love of Ahle Bayt.
 
-

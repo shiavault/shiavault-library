@@ -17,4 +17,3 @@ may keep our fathers safe”.
  Have you not heard that Imam Ali (as) was always kind to orphans and
 widows.
 
-

@@ -14,4 +14,3 @@ when the stars shine and set.
 
 (Sermon 48)
 
-

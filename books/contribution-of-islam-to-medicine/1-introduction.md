@@ -27,4 +27,3 @@ happened. This paper is an effort to elude to the important events which
 took place and the significant physicians who lived during that
 period.
 
-

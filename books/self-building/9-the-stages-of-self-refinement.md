@@ -44,23 +44,15 @@ welfare must seriously resists self's whims and passions and should not
 allow his self to commit a sin even for once. The Commander of the
 Faithful, Imam ' ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: لاترحض لنفسك في شيء من سيء الاقوال والافعال.
-  </p>
-</blockquote>
+> قال على عليه السلام: لاترحض لنفسك في شيء من سيء الاقوال والافعال.
 
 *“Don’t let your self allow to make an evil commitment or indulgence
 into evil deeds.”*[^1]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: غالب الشوة قوة ضراوتها فانها ان قويت ملكوت
-واستقادتك ولم تقدر على مقاومتها.
-  </p>
-</blockquote>
+> قال على عليه السلام: غالب الشوة قوة ضراوتها فانها ان قويت ملكوت
+> واستقادتك ولم تقدر على مقاومتها.
 
 *“Dominate the passions of your self, before he becomes stronger,
 because, once he becomes stronger, he will take-over your control
@@ -69,32 +61,20 @@ will not be able to offer resistance against him.”*[^2]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: العادة عدو متملك.
-  </p>
-</blockquote>
+> قال على عليه السلام: العادة عدو متملك.
 
 *“Habit is like an enemy who prefers his hegemony over you.”*[^3]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: العادة طبع ثان.
-  </p>
-</blockquote>
+> قال على عليه السلام: العادة طبع ثان.
 
 *“Addiction becomes second nature for a man.”*[^4]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: غالب الهوى مغالب لنصم خصمه وحاربه محاربة العدو
-عدوه لعلك تملكه.
-  </p>
-</blockquote>
+> قال على عليه السلام: غالب الهوى مغالب لنصم خصمه وحاربه محاربة العدو
+> عدوه لعلك تملكه.
 
 *“Dominate your self’s passions like an enemy dominates his enemy; wage
 a war against him like an enemy attacks his enemy; may be, through these
@@ -102,12 +82,8 @@ means you might be able to dominate him.”*[^5]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: ترك الخطيية ايسر من طلب التوبه و كم من
-شهوة ساعة اورثت حزنا طويلا و الموت فضح الدنيا فلم يترك لذي لب فرحا.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: ترك الخطيية ايسر من طلب التوبه و كم من
+> شهوة ساعة اورثت حزنا طويلا و الموت فضح الدنيا فلم يترك لذي لب فرحا.
 
 *“Not to commit sin is better than repentance, because, many a times, an
 hour of carnal pleasures results in perpetual anxiety and distress.
@@ -117,12 +93,8 @@ person.”*[^6]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: اقصر نفسك عما يضرها من قبل ان تفارقك واسع
-فى فكاكها كما تسعى فى طلب معيشتك فان نفسك وهينة بعملك.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: اقصر نفسك عما يضرها من قبل ان تفارقك واسع
+> فى فكاكها كما تسعى فى طلب معيشتك فان نفسك وهينة بعملك.
 
 *“Before the soul departs from your body, do not allow your self to
 perform harmful deeds,. endeavor for achieving self's freedom the way
@@ -131,12 +103,8 @@ mortgaged against the deeds (on the Day of Judgement).”*[^7]
 
 God-Almighty has said in the Holy Qur’an.
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ
-الْهَوَىٰ فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ 
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ
+> الْهَوَىٰ فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ
 
 ***“But as for him who feared to stand before his Lord and restrained
 his soul from lust. Lo! the Garden will be his home. (79:40-41)***
@@ -277,11 +245,7 @@ to Imam (a.s.), and he replied:
 'Upon your return to Kufa, that man will come to see you. Tell him that
 Jafar bin Muhammad said:
 
-<blockquote dir="rtl">
-  <p>
-اخرج بما انت فيه وانا اضمن لك الجنة.
-  </p>
-</blockquote>
+> اخرج بما انت فيه وانا اضمن لك الجنة.
 
 *'Quit sinning so that I could guarantee Paradise for you:'*
 
@@ -337,12 +301,8 @@ indicate that following the above path is possible for all of us.
 
 The Commander of the Faithful, Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: غالبوا نفسكم على ترك العادات وجاهدوا اهوائكم
-تملكوها.
-  </p>
-</blockquote>
+> قال على عليه السلام: غالبوا نفسكم على ترك العادات وجاهدوا اهوائكم
+> تملكوها.
 
 *“For quitting habits subdue the self: by struggling against his whims
 and passions; may be you will succeed in making him your
@@ -350,22 +310,14 @@ prisoner.”*[^10]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال علي عليه السلام: افضل العبادة ترك العادة.
-  </p>
-</blockquote>
+> قال علي عليه السلام: افضل العبادة ترك العادة.
 
 *“Best of the worships are achieving domination over habits.”*[^11]
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر عليه السلام قال: كل عين باكية يوم القيامة غير ثلاث: عين
-سهرت في سبيل الله و عين فاضت من خشية الله وعين غضت من محارم الله.
-  </p>
-</blockquote>
+> عن ابي جعفر عليه السلام قال: كل عين باكية يوم القيامة غير ثلاث: عين
+> سهرت في سبيل الله و عين فاضت من خشية الله وعين غضت من محارم الله.
 
 *“One the Day of Resurrection all eyes shall be crying except the
 following three kinds:*
@@ -381,13 +333,9 @@ things for the pleasure of God-Almighty.”*[^12]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبداللٌه (ع) قال: فيما ناجي اللٌه عز و جل موسي (ع): يا موسي! ما
-تقرب الي المتقربون بمثل الورع عن محارمي. فاني ابيحهم جنات عدن لا اشرك
-معهم احدا.
-  </p>
-</blockquote>
+> عن ابي عبداللٌه (ع) قال: فيما ناجي اللٌه عز و جل موسي (ع): يا موسي! ما
+> تقرب الي المتقربون بمثل الورع عن محارمي. فاني ابيحهم جنات عدن لا اشرك
+> معهم احدا.
 
 *“God-Almighty said to Prophet Moses (a.s.) through revelation that
 nothing is more effective in attaining my nearness as avoidance of
@@ -469,5 +417,4 @@ his soldiers completely or forcing them out of self's kingdom.
 [^12]: al-Kafi, vol. 2, p-80.
 
 [^13]: al-Kafi, vol. 2, p-80.
-
 

@@ -21,4 +21,3 @@ Afterwards he was a Prophet for the whole mankind. He himself has said:
 were not so then preference to the inferior over superior becomes
 necessary which is absurd.
 
-

@@ -16,11 +16,7 @@ hearts.
 next.
 
 > 3ـ اَللَّجاجُ أكْثَرُ (أكْبَرُ) الأشْياءِ مَضَرَّةً فِي العاجِلِ
-<blockquote dir="rtl">
-  <p>
-والآجِلِ.
-  </p>
-</blockquote>
+> والآجِلِ.
 
 4. Beware of blameworthy stubbornness, for indeed it provokes
 hostilities.
@@ -82,5 +78,4 @@ hostilities.
 18. There is no mount more insubordinate than stubbornness.
 
 > 18ـ لامَرْكَبَ أجْمَحُ مِنَ اللَّجاجِ.
-
 

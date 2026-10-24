@@ -1,12 +1,8 @@
 Discourse 38: Fleeing From Death
 ================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ : مَنْ عَدَّ غَداً مِنْ أَجَلِهِ، فَقَدْ أَسَاءَ
-صُحْبَةَ الْمَوْتِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ : مَنْ عَدَّ غَداً مِنْ أَجَلِهِ، فَقَدْ أَسَاءَ
+> صُحْبَةَ الْمَوْتِ.
 
 The Messenger of Allah (S) has said, “A person who considers tomorrow as
 being a part of his life, shows that he is definitely not pleased with
@@ -64,11 +60,7 @@ as simply being a bridge and introductory place to the Next Life. It may
 be possible that one of the proofs why we recite the following line (a
 minimum) of ten times per day is so that we do not forget this reality.
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 “Master of the Day of Judgement.”
 
@@ -90,12 +82,8 @@ Resurrection, then we do not practice self-sacrifice. It is through our
 deeds and actions that we show that we do not believe in the following
 verse of the Qur\`an which states:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبيلِ اللٌّهِ أَمْوَاتاً
-بَلْ أَحْيَآءٌ عِنْدَ رَبِّهِم يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَ لاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبيلِ اللٌّهِ أَمْوَاتاً
+> بَلْ أَحْيَآءٌ عِنْدَ رَبِّهِم يُرْزَقُونَ
 
 “And do not consider those who have been slain in the way of Allah as
 being dead, nay rather, they are alive in the presence of their Lord
@@ -116,13 +104,9 @@ In many verses of the Qur\`an it has been mentioned that on the Day of
 Resurrection or at the time of giving up one's life, a person will call
 out his last request:
 
-<blockquote dir="rtl">
-  <p>
-حَتّى ِإذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ لَعَلّى
-أَعْمَلُ صَالِحاً فِيمَا تَرَكْتُ كَلاَّ إِنَّهَا كَلِمَةٌ هُوَ
-قَائِلُهَا وَ مِنْ وَرَائِهِمْ بَرْزَخٌ إِلـى يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> حَتّى ِإذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ لَعَلّى
+> أَعْمَلُ صَالِحاً فِيمَا تَرَكْتُ كَلاَّ إِنَّهَا كَلِمَةٌ هُوَ
+> قَائِلُهَا وَ مِنْ وَرَائِهِمْ بَرْزَخٌ إِلـى يَوْمِ يُبْعَثُونَ
 
 “Until that time when death comes to one of them he says, 'O' Lord
 return me back to the world so that I may work righteous deeds which I
@@ -224,5 +208,4 @@ destroyed.” (Tafsir-e-Namuna, vol. 24, pg. 121)
 جاودان
 
 [^5]: Surat al-Mo’minun (23), Verse 99 and 100
-
 

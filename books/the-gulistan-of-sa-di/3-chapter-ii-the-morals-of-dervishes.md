@@ -1556,4 +1556,3 @@ Set aside the zekat from thy property because the exuberant vines
 
 When pruned by the vintner will yield more grapes.
 
-

@@ -90,4 +90,3 @@ him, they brought him to Mecca. But, luckily, Mut'im bin Uday and
 al-Harith bin Harb bin Umayyah saved him, due to business relation they
 had with him.
 
-

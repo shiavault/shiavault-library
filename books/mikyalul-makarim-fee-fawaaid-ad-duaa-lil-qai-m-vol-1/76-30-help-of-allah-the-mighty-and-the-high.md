@@ -6,22 +6,14 @@ is supplicating and it makes him eligible for success and victory over
 his enemies. That which proves this is the statement of Allah, the
 Mighty and the High:
 
-<blockquote dir="rtl">
-  <p>
-وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ
-  </p>
-</blockquote>
+> وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ
 
 ***“And surely Allah will help him who helps Him.” (Qur’an, Surah Hajj
 22:40)***
 
 And He has also said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ
-  </p>
-</blockquote>
+> إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ
 
 ***“If you help Allah, He will help you.” (Qur’an, Surah Muhammad
 47:7)***
@@ -61,11 +53,7 @@ till their necks in their sweat and they would be scattered all over.
 They would behold what the Almighty Allah has prepared for them (as
 punishment) and say:
 
-<blockquote dir="rtl">
-  <p>
-مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ الْأَشْرَارِ
-  </p>
-</blockquote>
+> مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ الْأَشْرَارِ
 
 ***“What is the matter with us that we do not see men whom we used to
 count among the vicious?” (Qur’an, Surah Saad 38:62)***
@@ -73,22 +61,14 @@ count among the vicious?” (Qur’an, Surah Saad 38:62)***
 Thus the *Awliya* of Allah would see them and laugh at them, and that is
 the saying of Allah:
 
-<blockquote dir="rtl">
-  <p>
-أَتَّخَذْنَاهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ الْأَبْصَارُ
-  </p>
-</blockquote>
+> أَتَّخَذْنَاهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ الْأَبْصَارُ
 
 ***“Was it that we (only) took them in scorn, or have our eyes (now)
 turned aside from them?” (Qur’an, Surah Saad 38:63)***
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
 
 ***“So today those who believe shall laugh at the unbelievers; On
 thrones, they will look.” (Qur’an, Surah Mutaffifeen 83:34)***
@@ -100,5 +80,4 @@ numbers.
 The proof of the matter is in the last part of the tradition.
 
 [^1]: Biharul Anwar; Vol. 45, Pg. 257
-
 

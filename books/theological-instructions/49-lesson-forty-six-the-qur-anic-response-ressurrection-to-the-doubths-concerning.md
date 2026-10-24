@@ -115,4 +115,3 @@ the creator?
 4. How can the doubt concerning the limitless knowledge of God be
 answered?
 
-

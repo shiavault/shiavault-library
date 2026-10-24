@@ -114,4 +114,3 @@ is there a more perfect being than man among them or not?
 But it is clear that a positive or negative response to such questions
 bears no impact on the discussion underway.
 
-

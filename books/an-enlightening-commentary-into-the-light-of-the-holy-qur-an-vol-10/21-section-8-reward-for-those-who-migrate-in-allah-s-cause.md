@@ -4,20 +4,12 @@ Section 8: Reward For Those Who Migrate in Allah’s Cause
 Surah Al-Hajj – Verses 58 - 59
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هَاجَرُوا فِي سَبِيلِ اللَّهِ ثُمَّ قُتِلُوا أَوْ مَاتُوا
-لَيَرْزُقَنَّهُمُ اللَّهُ رِزْقاً حَسَناً وَإِنَّ اللَّهَ لَهُوَ
-خَيْرُ الرَّازِقِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هَاجَرُوا فِي سَبِيلِ اللَّهِ ثُمَّ قُتِلُوا أَوْ مَاتُوا
+> لَيَرْزُقَنَّهُمُ اللَّهُ رِزْقاً حَسَناً وَإِنَّ اللَّهَ لَهُوَ
+> خَيْرُ الرَّازِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-لَيُدْخِلَنَّهُم مُّدْخَلاً يَرْضَوْنَهُ وَإِنَّ اللَّهَ لَعَلِيمٌ
-حَلِيمٌ
-  </p>
-</blockquote>
+> لَيُدْخِلَنَّهُم مُّدْخَلاً يَرْضَوْنَهُ وَإِنَّ اللَّهَ لَعَلِيمٌ
+> حَلِيمٌ
 
 ***58. “And those who migrate in the cause of Allah and are then slain
 or die, certainly will Allah provide them with a goodly sustenance, and
@@ -99,12 +91,8 @@ Hadrat Ali (as) is the most perfect example of it.
 Surah Al-Hajj – Verse 60
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ ثُمَّ بُغِيَ عَلَيْهِ
-لَيَنصُرَنَّهُ اللَّهُ إِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ
-  </p>
-</blockquote>
+> ذَلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ ثُمَّ بُغِيَ عَلَيْهِ
+> لَيَنصُرَنَّهُ اللَّهُ إِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ
 
 ***60. “That (is so); and whoever retaliates with the like of that with
 which he has been wronged, and again he has been aggressed, most
@@ -189,19 +177,11 @@ Imam Husayn (as), and the rest of the oppressed of the world.[^3]
 Surah Al-Hajj – Verses 61 - 62
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بَأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ
-النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
-  </p>
-</blockquote>
+> ذَلِكَ بَأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ
+> النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِاَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ
-هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
-  </p>
-</blockquote>
+> ذَلِكَ بِاَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ
+> هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
 
 ***61. “That is because Allah merges the night into the day and He
 merges the day into the night and that Allah is All-Hearing,
@@ -301,19 +281,11 @@ friends must be encouraged with His promises.
 Surah Al-Hajj – Verses 63 – 64
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَآءِ مَآءً فَتُصْبِحُ
-الاَرْضُ مُخْضَرَّةً إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَآءِ مَآءً فَتُصْبِحُ
+> الاَرْضُ مُخْضَرَّةً إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَإِنَّ اللَّهَ لَهُوَ
-الْغَنِيُّ الْحَمِيدُ
-  </p>
-</blockquote>
+> لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَإِنَّ اللَّهَ لَهُوَ
+> الْغَنِيُّ الْحَمِيدُ
 
 ***63. “Have you not seen that Allah has sent down water from the heaven
 then the earth becomes green? Verily Allah is All-Subtle,
@@ -450,5 +422,4 @@ eligible of all to be praised and glorified.
 Tafsir-i-Ali-ibn-’Ibrahim, following the verse.
 
 [^4]: Usul-i-Kafi, vol. 1, p. 93
-
 

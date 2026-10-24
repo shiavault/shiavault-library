@@ -3102,4 +3102,3 @@ each of them and how would you be absent, where as you are always
 observer and present and you have power over everything and the praise
 is for the only lord (ALLAH).*
 
-

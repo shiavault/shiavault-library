@@ -1,10 +1,6 @@
 Al-mumūn Questions Imām Al-ridā
 ===============================
 
-  
-
-  
-
 Al-Mamūn asked Imām al-Ridā, peace be on him,  some questions. More
 likely, he wanted to test him. The Imām answered these questions which
 are as follows:
@@ -43,10 +39,6 @@ be
 minor or major. Allah,the Great and Almighty, said: *Thus did Adam
 disobey his Lord and allow himself to be seduced.But his Lord chose  
 *
-
-  
-
-  
 
 (for His grace); He turned to him, and gave him guidance.[[1]](#_ftn235)
 And He, the Great and Almighty, said: *Allah did indeed choose Adam and
@@ -89,11 +81,6 @@ fellows about it). When it (the star) set, he said: *I do
  [[3]](#_F237) Ibid., 7, 190.  
  [[4]](#_F238) Ibid., 7, 190.  
  [[5]](#_F239) Ibid., 6, 76.  
-  
-
-  
-
-  
 
 not love those that set. That this because setting is an attribute of
 the created not of the Eternal (Being). *When he saw the moon rising in
@@ -134,11 +121,6 @@ said: Yes,but that my heart may be at ease*.He
 ------------------------------------------------------------------------
 
 [[1]](#_F240) Ibid., 2, 26.  
-  
-
-  
-
-  
 
 (Allah) said: *Then take four of the birds, then train them to follow
 you, then place on every mountain a part of them, then call them, they
@@ -179,11 +161,6 @@ entered this city. *So do You protect me,* meaning conceal me
 ------------------------------------------------------------------------
 
 [[1]](#_F241) Ibid., 28, 15.  
-  
-
-  
-
-  
 
 from Your enemies lest they should find me and kill me, *so He protected
 him; surely He is the Forgiving, the Merciful*. Mūsā said: *My Lord,
@@ -222,17 +199,10 @@ guided them to knowing you. *And find you in want and make you be free
 from want*? He (Allah) says: He has made you free from want when He has
 made your supplication accepted.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F242) Ibid., 26, 20.  
  [[2]](#_F243) Ibid., 93, 6.  
-  
-
-  
-
-  
 
 Q8: Allah bless you, son of Allahs Apostle! What is the meaning of these
 words of Allah, the Great and Almighty: *And when Mūsā came to our
@@ -269,10 +239,6 @@ According, Allah gave life to them and sent them with him. They said: If
 you ask Allah to make you look upon him, He will respond to you; you
 will tell us how He is, then we will be fully aware of Him. Mūsā said:
 People, the eyes cannot perceive Him, and He has no howness;  
-
-  
-
-  
 
 rather He is recognized through His signs and is known through
 arguments. Yet they said to him: *We will not believe in you* until you
@@ -315,11 +281,6 @@ Ans. 10: That was Yūnus b. Matti. He departed in wrath to his people.
 
 [[1]](#_F244) Ibid., 12, 24.  
  [[2]](#_F245) Ibid., 21, 87.  
-  
-
-  
-
-  
 
 straiten him, namely We will not going to sustain him, and of it is
 these words of Him, the Great and Almighty: *But when He tries him
@@ -357,8 +318,6 @@ forth, saying: Go and steadily adhere to your gods; this is most surely
 a thing sought after. We never heard of this in the former faith; this
 is nothing but a forgery*.[[5]](#_ftn250)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F246) Ibid., 89, 16.  
@@ -366,11 +325,6 @@ is nothing but a forgery*.[[5]](#_ftn250)
  [[3]](#_F248) Ibid., 12, 110.  
  [[4]](#_F249) Ibid., 48, 2.  
  [[5]](#_F250) Ibid., 38, 5-7.  
-  
-
-  
-
-  
 
 When Allah, the Great and Almighty, enabled His Prophet to conquer
 Mecca, He said to him: Mohammed, *surely We have given to you a clear
@@ -414,11 +368,6 @@ the angels? Most surely you utter a grievous
 [[1]](#_F251) Ibid., 9, 43.  
  [[2]](#_F252) Ibid., 39, 65.  
  [[3]](#_F253) Ibid., 17, 74.  
-  
-
-  
-
-  
 
 saying.[[1]](#_ftn254) When Zayd returned to his house, his wife told
 him about the coming of Allahs Apostle, may Allah bless him and his
@@ -452,17 +401,10 @@ criticize the Prophet for being married to her, so He, the Exalted
 revealed: *There is no harm in the Prophet doing that which Allah has
 ordained for him*.[[2]](#_ftn255)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F254) Ibid., 17, 40.  
  [[2]](#_F255) Ibid., 33, 38.  
-  
-
-  
-
-  
 
 With this (answer) the Imām concluded this debate, which is evidence for
 his great scientific abilities and his comprehensive knowledge of the
@@ -499,16 +441,9 @@ said: Do not be deceived by what you heard from him (al-Mamūn), for he
 will assassinate me; and Allah, the Exalted, will take vengeance on him
 out of his (evil) deed toward me.[[1]](#_ftn256)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F256) 'Uyūn Akhbār al-Ridā, vol. 1, pp. 195-204.  
-  
-
-  
-
-  
 
 The matter was just as the Imām, peace be on him, had predicted. That is
 because al-Mamūns harbored malice against him and was jealous of
@@ -546,17 +481,10 @@ the people.[[1]](#_ftn257) So he (Mohammed) brought them from Allah
 warnings and precepts through which he could disprove their statements
 and proved his argument against them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F257) The narrator of this account said: "I think that poetry
 prevailed them."  
-  
-
-  
-
-  
 
 Ibn al-Sikit admired the Imāms knowledge and said: By Allah, I have
 never seen anyone like you! What is the argument against people these
@@ -598,18 +526,11 @@ among Our servants.[[3]](#_ftn260)
 
 Surely those whom Allah chose were all Muslims, retorted the scholars.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F258) Al-Ihtijājj, vol. 2, pp. 224-225.  
  [[2]](#_F259) Ibid., 170-171.  
  [[3]](#_F260) Qur'ān, 35, 32.  
-  
-
-  
-
-  
 
 Al-Mamūn turned to the Imām and asked him: What do you say, Abū
 al-Hasan?
@@ -654,11 +575,6 @@ his companions who say with a diffused
 [[1]](#_F261) Ibid., 35, 32.  
  [[2]](#_F262) Hadith al-Thaqalayn, definite, repeatedly stated
 tradition narrated in al-Sihāh and al-Sunan.  
-  
-
-  
-
-  
 
 tradition which cannot be denied: The family*(āl)* of Mohammed is his
 community.
@@ -696,18 +612,11 @@ is (the doer of) other than good deeds; therefore, ask  not of Me that
 of which you have no knowledge; surely I admonish you lest you may be of
 the ignorant*.[[3]](#_ftn265)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F263) Ibid., 57, 26.  
  [[2]](#_F264) Ibid., 11, 40.  
  [[3]](#_F265) Ibid., 11, 46.  
-  
-
-  
-
-  
 
 Al-Mamūn burst with anger and rage, saying: Did Allah prefer the
 offspring to the rest of the people?
@@ -752,11 +661,6 @@ ordered
  [[2]](#_F267) Ibid., 4, 54.  
  [[3]](#_F268) Ibid., 4, 59.  
  [[4]](#_F269) Ibid., 26, 214.  
-  
-
-  
-
-  
 
 Zayd b. Thābit to collect the Qurān, he omitted this verse. And this is
 an exalted position, great excellence, and lofty honor when Allah, the
@@ -793,8 +697,6 @@ over which no man differ, and honor to which no creature preceded him,
 for he (the Prophet) regarded Alis soul as his own soul. This is the
 third (verse).
 
-  
-
 ------------------------------------------------------------------------
 
 ss = fo\> [[1]](#_F270) Ibid., 3, 72.  
@@ -805,11 +707,6 @@ meant by that 'Ali, peace be on him.    
  [[4]](#_F273) In al-'Uyūn, by our souls he meant 'Ali, by our sons he
 meant al-Hasan and al-Husayn, and by our women he meant Fātima, peace be
 on them. All the interpreters of the Qur'ān have agreed on that.  
-  
-
-  
-
-  
 
 As for the fourth (proof), it is that he (the Prophet) brought the
 people out of his mosque except the offspring. When the people spoke
@@ -850,16 +747,9 @@ denies (these outstanding qualities) except him who is obstinate. To
 Allah, the Great and Almighty, belongs praise for that! This is the
 fourth (proof).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F274) Qur'ān, 10, 87.  
-  
-
-  
-
-  
 
 As for the fifth (proof), it is these words of Allah, the Great and
 Almighty: *And give to the near of kin his due*.[[1]](#_ftn275) (This
@@ -900,11 +790,6 @@ bless him
  [[2]](#_F276) Ibid., 42, 22.  
  [[3]](#_F277) Ibid., 11, 29.  
  [[4]](#_F278) Ibid., 11, 51.  
-  
-
-  
-
-  
 
 and his family, toward the believers, for He imposed on them the love of
 his relations. Accordingly, he who loves Allahs Apostle, may Allah bless
@@ -942,10 +827,6 @@ the Trusted Sprit (Gabriel) to him, and he said: Mohammed, *Say: I
 demand not, of you any reward for it (the toils of preaching) except the
 love of my relations*. Do not hurt my relations after me. They went out
 and a group of them said: Allahs  
-
-  
-
-  
 
 Apostle left what we presented before him because he wanted to urge us
 to show love toward his relations after him; and this is something which
@@ -988,11 +869,6 @@ excellence of the Household (of the Prophet), peace be on them,
 [[1]](#_F279) Ibid., 46, 8.  
  [[2]](#_F280) Ibid., 42, 24.  
  [[3]](#_F281) Ibid., 33, 56.  
-  
-
-  
-
-  
 
 saying: Tell me about these words of Allah: *Yāsin, and I swear by the
 Qurān full of wisdom; most surely you are of the apostles, on a right
@@ -1037,11 +913,6 @@ His
  [[4]](#_F285) Ibid., 37, 120.  
  [[5]](#_F286) Ibid., 37, 130.  
  [[6]](#_F287) Ibid., 8, 42.  
-  
-
-  
-
-  
 
 Apostle, then the near of kin in every place of booty, and others which
 He, the Great and Almighty, accepted for Himself and accepted for them.
@@ -1085,11 +956,6 @@ of His Apostle.
 
 [[1]](#_F288) Ibid., 4, 59.  
  [[2]](#_F289) Ibid., 5, 55.  
-  
-
-  
-
-  
 
 When the story of alms came, He, may His name be Exalted, deemed Himself
 far above it as well as He deemed His Apostle, may Allah bless him and
@@ -1133,11 +999,6 @@ reminder, an Apostle who recites to you clear
 
 [[1]](#_F290) Ibid., 9, 60.  
  [[2]](#_F291) Ibid., 16, 43.  
-  
-
-  
-
-  
 
 communications.[[1]](#_ftn292) As a result, the Reminder is Allahs
 Apostle and we, his Household. This is the ninth (proof).
@@ -1183,11 +1044,6 @@ generalized His religion, so this is another deference
 [[1]](#_F292) Ibid., 65, 10-11.  
  [[2]](#_F293) Ibid., 4, 23.  
  [[3]](#_F294) Ibid., 40, 28.  
-  
-
-  
-
-  
 
 between the family *(āl)* and the community. This is the eleventh
 (proof).
@@ -1215,5 +1071,4 @@ for defending Islam.
 [[1]](#_F295) Ibid., 20, 132.  
  [[2]](#_F296) Tuhaf al-'Uqūl, pp. 425-436. 'Uyūn Akhbār al-Ridā.
 Al-Majālis.  
-  
 

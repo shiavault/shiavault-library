@@ -46,4 +46,3 @@ May God help all those who help man. Amen.
  J. Muqaddas  
  29/8/1972
 
-

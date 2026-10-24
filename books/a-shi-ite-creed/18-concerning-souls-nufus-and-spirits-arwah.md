@@ -246,4 +246,3 @@ organism" (p.120). This is generally the accepted view; per contra
 Taju'l-Arus, cited in EI, iii. 828 (top), where nafs'is applied to the
 mind, and ruh to life.
 
-

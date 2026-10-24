@@ -194,4 +194,3 @@ him.
 
 [^3]: Taj al-’Arus, Vol. 3, p. 66, in a chapter dealing with screaming.
 
-

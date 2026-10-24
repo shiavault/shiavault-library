@@ -25,4 +25,3 @@ followers lies in abandoning knowledge and compiling wealth."
 
 The Collection of Waram
 
-

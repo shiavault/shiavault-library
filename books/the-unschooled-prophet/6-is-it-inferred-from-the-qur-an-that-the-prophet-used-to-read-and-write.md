@@ -306,4 +306,3 @@ as a prophet.
 [^7]: Ibn Khaldun, Al Muqaddamah (Introduction)", Ibrahim Hilmi Press, p
 494, 495.
 
-

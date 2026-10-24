@@ -530,4 +530,3 @@ also that he was wise and brave. And because that he was weary he
 surrendered the throne unto him, and Kai Khosrau wore the crown of the
 Kaianides in his stead.
 
-

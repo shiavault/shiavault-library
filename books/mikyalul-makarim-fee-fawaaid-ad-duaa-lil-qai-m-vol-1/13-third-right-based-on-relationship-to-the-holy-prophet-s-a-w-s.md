@@ -3,12 +3,8 @@ Third: Right Based On Relationship To The Holy Prophet (S.A.W.S.)
 
 As mentioned in Surah Shura:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives…” (Qur’an, Surah Shura 42:23)***
@@ -26,5 +22,4 @@ over you.”[^2]
 [^1]: Tafseer Al-Burhan; Sayyid Hashim Bahrani; Vol. 4/121
 
 [^2]: Ghaibah; Ibne Abi Zainab Nomani; Pg. 149
-
 

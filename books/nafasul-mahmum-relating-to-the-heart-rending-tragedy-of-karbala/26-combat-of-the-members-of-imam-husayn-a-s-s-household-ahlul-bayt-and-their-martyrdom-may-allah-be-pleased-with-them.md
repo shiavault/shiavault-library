@@ -1537,4 +1537,3 @@ fulfillment of their desires from Allah on his behalf, and a refuge for
 every destitute, oppressed and downtrodden. May our lives be your ransom
 O Abbas!
 
-

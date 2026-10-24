@@ -103,4 +103,3 @@ and killed him (5:135). We made some mention of his life when giving the
 account of his meeting with the Imam (as) at Qasr Bani Muqatil, on the
 way to Karbala’.
 
-

@@ -94,13 +94,9 @@ orphans.
 Concerning those who collect gold and silver but refuse to pay the
 necessary Islamic taxes the Holy Quran states[^1]:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَوْمَ يُحْمى عَلَيْها فِي نارِ جَهَنَّمَ فَتُكْوى بِها جِباهُهُمْ
-وَ جُنُوبُهُمْ وَ ظُهُورُهُمْ هذا ما كَنَزْتُمْ لأَِنْفُسِكُمْ
-فَذُوقُوا ما كُنْتُمْ تَكْنِزُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَوْمَ يُحْمى عَلَيْها فِي نارِ جَهَنَّمَ فَتُكْوى بِها جِباهُهُمْ
+> وَ جُنُوبُهُمْ وَ ظُهُورُهُمْ هذا ما كَنَزْتُمْ لأَِنْفُسِكُمْ
+> فَذُوقُوا ما كُنْتُمْ تَكْنِزُونَ ﴾
 
 ***On the day when it shall be heated in the fire of hell, then their
 foreheads and their sides and their backs shall be branded with it; this
@@ -142,5 +138,4 @@ The innocent ones have a lame feeling towards sins and they would never
 get themselves involved in sins despite the fact that they could do so.
 
 [^1]: . Quran 9:35.
-
 

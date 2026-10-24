@@ -839,4 +839,3 @@ and women.
 
 [^1]: Liyali Akhbār
 
-

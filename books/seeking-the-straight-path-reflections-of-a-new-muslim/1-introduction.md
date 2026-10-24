@@ -50,4 +50,3 @@ version of the Bible used is NIV.
  I humbly dedicate whatever is good in this work to Imam-e-Zamana (as),
 may Allah (swt) hasten his reappearance.
 
-

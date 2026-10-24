@@ -169,4 +169,3 @@ Publication
 
 [^13]: Marriage and Morals in Islam, Sayyid Muhammad Rizvi
 
-

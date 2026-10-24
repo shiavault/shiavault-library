@@ -1,14 +1,10 @@
 Discourse 17: Making Use Of The Opportunities We Have While In The Transient World
 ==================================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: لاَ تَسُـبُّوا الدُّنْـيَا، فَنِعْمَتْ
-مَطِيَّةُ الْمُؤْمِنِ فَعَلَيْهَا يَـبْلُغُ الْخَيْرَ، وَ بِهَا
-يَنْجُو مِنَ الشَرِّ. إِنَّهُ إِذَا قَالَ الْعَبْدُ: لَعَنَ اللٌّهُ
-الدُّنْـيَا، قَالَتِ الدُّنْـيَا: لَعَنَ اللٌّهُ أَعْصَانَا لِرَبِّهِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: لاَ تَسُـبُّوا الدُّنْـيَا، فَنِعْمَتْ
+> مَطِيَّةُ الْمُؤْمِنِ فَعَلَيْهَا يَـبْلُغُ الْخَيْرَ، وَ بِهَا
+> يَنْجُو مِنَ الشَرِّ. إِنَّهُ إِذَا قَالَ الْعَبْدُ: لَعَنَ اللٌّهُ
+> الدُّنْـيَا، قَالَتِ الدُّنْـيَا: لَعَنَ اللٌّهُ أَعْصَانَا لِرَبِّهِ.
 
 The Messenger of Allah (S) has said, “Do not condemn the transient world
 since it is the thing which the true believer rides on to perform good
@@ -97,12 +93,8 @@ amenities which we can make use of for this world and the next.
 In regards to the tradition under discussion, there is a sentence which
 the late Sayyid al-Razi has narrates:
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ الزَّمَانَ بِهِ فَسَادٌ                     فَهُمْ فَسَدُوا
-وَ مَا فَسَدَ الزَّمَانَ
-  </p>
-</blockquote>
+> يَقُولُونَ الزَّمَانَ بِهِ فَسَادٌ                     فَهُمْ فَسَدُوا
+> وَ مَا فَسَدَ الزَّمَانَ
 
 “They (the people) say that the time period (which they are living in)
 has become corrupt. Rather, it is they themselves who have become
@@ -182,5 +174,4 @@ Bayt.” (Tafsir-e-Namuna, vol. 27, pg. 13)
 به كه آيد علم، نادان را به دست علم و مال و منصب و جان و
 قران                                                                      
 فتنه آرد در كف بد گوهران
-
 

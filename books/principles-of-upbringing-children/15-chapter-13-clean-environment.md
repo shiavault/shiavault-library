@@ -30,4 +30,3 @@ But now it has been found that these defects in the new born children
 are because of the environmental conditions and particularly the
 deficiency of oxygen during the pregnancy of the women."
 
-

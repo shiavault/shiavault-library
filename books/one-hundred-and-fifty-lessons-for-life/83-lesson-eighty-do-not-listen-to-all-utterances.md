@@ -3,13 +3,9 @@ Lesson Eighty: Do Not Listen To All Utterances!
 
 Imam al-Jawad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصْغَى إلى ناطِق فَقَدْ عَبَدَهُ فَاِنْ كَانَ النّاطِقُ عَنِ
-اللّهِ فَقَدْ عَبَدَ اللّهَ وَ إنْ كانَ النّاطِقُ يَنْطِقُ عَنْ لِسانِ
-إِبْلِيسَ فَقَدْ عَبَدَ إبْلِيْسَ
-  </p>
-</blockquote>
+> مَنْ أَصْغَى إلى ناطِق فَقَدْ عَبَدَهُ فَاِنْ كَانَ النّاطِقُ عَنِ
+> اللّهِ فَقَدْ عَبَدَ اللّهَ وَ إنْ كانَ النّاطِقُ يَنْطِقُ عَنْ لِسانِ
+> إِبْلِيسَ فَقَدْ عَبَدَ إبْلِيْسَ
 
 Translation
 -----------
@@ -34,5 +30,4 @@ utterances from entering one’s ears and reaching the depths of the soul.
 
 [^1]: Tuhaful Uqul, page 339. Al-Kafi, vol 6, page 434. Wasa'il Al-Shia,
 vol 27, page 127. Mustadrak AlWasail, vol 17, page 308.
-
 

@@ -10,4 +10,3 @@ right to rest after Zohr. In that case if you want to play, you can take
 your friends to the park and play there”.  
  Mohsin replied “Thank you very much for your advice, father.”
 
-

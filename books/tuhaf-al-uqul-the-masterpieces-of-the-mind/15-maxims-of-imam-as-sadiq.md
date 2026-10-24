@@ -966,4 +966,3 @@ intentionally, he will be believer provided that submission and seeking
 favors through knowledge will be present. It happens that a servant is
 Muslim but not believer. No one can be believer unless he is Muslim.
 
-

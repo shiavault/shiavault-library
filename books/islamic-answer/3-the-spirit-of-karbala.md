@@ -153,7 +153,6 @@ science invents gelatin made of different substance. one can also empty
 the capsule and use drug only or ask the doctor for tablets instead of
 capsules of the prescribed drugs.
 
-
 **Doctrine of " Mahdi "**
 
 the doctrine of mahdi is commonly held by muslim scholars. basically
@@ -194,7 +193,6 @@ books have been written by muslim scholars. ibn hajar says," hadiths
 regarding mahdi are numerously reported and many eminent scholars, like
 abu nuaim and suyuti, have written on the subject. see al sawaiq, page
 160, cairo ed. 1375 h.
-
 
 **The beautiful names of god**
 
@@ -603,7 +601,6 @@ books
 
 \* it refers to sh'iah tafsirs
 
-
 **The miracle of ummi**
 
 in islamic culture, the term ummi , in the sense of " illiterate " is
@@ -635,5 +632,4 @@ illiteracy of prophet muhammad (p.). shaik abdu says that the illiteracy
 is one of the most important signs of his prophecy since he had brought
 after his prophecy the most valuable knowledge, and this is the common
 belief among muslims today.
-
 

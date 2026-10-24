@@ -44,12 +44,9 @@ family.
 Our dear readers, the study before you, acquaints you the role of woman
 in an Islamic society. Praise be to Allah, the Lord of the worlds.
 
-
 Al-Balagh Foundation
 
-
 **The Definition of Society**
-
 
 Society is a human organization which is composed of individuals, and
 joined with each other through ideological links and limited vital
@@ -67,7 +64,6 @@ follows:
 
 "(This is) Allah's coloring and who is better than Allah in colouring;
 while Him (alone) do we worship." Holy Qur'an (Baqara 2:138)
-
 
 **Why did Social Life Grow?**
 
@@ -241,7 +237,6 @@ relationship between education and development, production, morals, and
 social life. So, the role of the woman is significant in social building
 in all fields.
 
-
 **The Elements of Building Society**
 
 The relationship between the individuals in social life is like the
@@ -325,7 +320,6 @@ need.
 
 Now we will briefly discuss woman's role in this respect.
 
-
 **Biological and Psychological Differences between Man and Woman**
 
 Psychologists and doctors say that there are axiomatic scientific
@@ -377,5 +371,4 @@ are functional differences in some of the vital fields and duties which
 the man and woman should perform. According to this discussion, we are
 able to limit the differences between the man and woman in social
 function.
-
 

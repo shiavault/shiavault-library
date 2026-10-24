@@ -8,11 +8,7 @@ them, the quickest of them in forgiving and the best of them in
 character.
 
 > 1ـ اَلْحُكَماءُ أشْرَفُ النّاسِ أنْفُساً، وأكْثَرُهُمْ صَبْراً،
-<blockquote dir="rtl">
-  <p>
-وأسْرَعُهُمْ عَفْواً، وَأوْسَعُهُمْ أخْلاقاً.
-  </p>
-</blockquote>
+> وأسْرَعُهُمْ عَفْواً، وَأوْسَعُهُمْ أخْلاقاً.
 
 2. The wise person cures the asker [of his ignorance] and is generous
 with virtues.
@@ -24,11 +20,7 @@ improved, you will ennoble yourself and your ignorance will be removed
 from you.
 
 > 3ـ جالِسِ الحُكَماءَ يَكْمُلْ عَقْلُكَ، وتَشْرُفْ نَفْسَكَ، ويَنْتَفِ
-<blockquote dir="rtl">
-  <p>
-عَنْكَ جَهْلُكَ.
-  </p>
-</blockquote>
+> عَنْكَ جَهْلُكَ.
 
 4. A wise person may [at times also] make a mistake.
 
@@ -58,10 +50,5 @@ meanings.
 when it is wrong, is a malady.
 
 > 9ـ إنَّ كَلامَ الحَكِيمِ إذا كانَ صَواباً كانَ دَواءً، وإذا كانَ
-<blockquote dir="rtl">
-  <p>
-خَطاءً كانَ داءً.
-  </p>
-</blockquote>
-
+> خَطاءً كانَ داءً.
 

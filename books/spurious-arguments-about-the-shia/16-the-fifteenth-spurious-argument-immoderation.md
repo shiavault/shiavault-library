@@ -114,4 +114,3 @@ books like Arjah ul-Matalib p. 330 and Yanabi’ul- Mawaddah p. 28. Also
 it was narrated by Imam Ali, which was mentioned by Muhibbud-Din
 at-Tabari in his book Dhakha’ir ul-Uqba p. 20 from ibnus-Seri.
 
-

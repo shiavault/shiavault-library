@@ -275,4 +275,3 @@ well for a servant, He makes him learned in the Religion (i.e.
 Islam)."  
  And may Allah bless our master, Muhammad and his progeny.
 
-

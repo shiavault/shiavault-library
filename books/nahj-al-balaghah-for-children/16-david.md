@@ -23,4 +23,3 @@ bought with that money.
 
 (Sermon 160)
 
-

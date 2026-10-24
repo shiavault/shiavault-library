@@ -71,7 +71,6 @@ upon him of divine grace and everlasting sovereignty in the real world
 in the same way as He has chosen him for mastery and leadership in this
 realm of appearance. Indeed He is Gracious, and answers prayer.
 
-
 **Prelude**
 
 It would be proper at the outset to mention the contents of this brief
@@ -117,7 +116,6 @@ preceding part and is succeeded by another part-excepting the last
 part-each of these states is an intermediate stage between the end of
 the preceding stage and the beginning of the next,
 
-
 so that every stage is the sought after goal as its previous stage
 nears its end and is left behind and abandoned as one approaches its
 succeeding stage. Hence every stage is a perfection in relation to its
@@ -129,7 +127,6 @@ One whose two days are equal is a loser. 2
 And that is why it has been said:
 
 Merits of the virtuous are vices for the saints. 3
-
 
 **Chapter 1 : Concerning the Starting Point of the Journey and its
 Requisites**
@@ -143,7 +140,6 @@ Section three: on intention (niyyah)
 Section four: on truthfulness (sidq)
 Section five: on penitence (inabah)
 Section six: on sincerity (ikhlas)
-
 
 **Section One: On Faith**
 
@@ -420,5 +416,4 @@ al-Sadiq ('a).
 6. Sunan Ibn Majah, ii, 1413, bab 26, hadith 4227.
 7. Al-Majlisi, Bihar al-anwar, Ixix, 93, Beirut.
 8. Ibid., Ixvii, 242.
-
 

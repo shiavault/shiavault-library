@@ -39,4 +39,3 @@ pronounced. For example: **تَفَتّحَ**
 The *qat‛* glottal stop denotes that the *alif* should be pronounced.
 For example: **ﺃخَذَ** (to take)
 
-

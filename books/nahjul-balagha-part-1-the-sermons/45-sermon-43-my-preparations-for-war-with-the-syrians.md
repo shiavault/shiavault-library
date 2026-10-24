@@ -8,18 +8,10 @@ Mu\`awiyah*
 Mu\`awiyah (for securing his allegiance) some of his companions
 suggested preparation to fight with him then he said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد أشار عليه أصحابه بالاستعداد لحرب أهل الشام بعد إرساله جرير بن
-عبدالله البجلي إلى معاوية
-  </p>
-</blockquote>
+> وقد أشار عليه أصحابه بالاستعداد لحرب أهل الشام بعد إرساله جرير بن
+> عبدالله البجلي إلى معاوية
 
 My preparation for war with the people of Syria (ash-Sham) while Jarir
 ibn \`Abdillah al-Bajali is still there would be closing the door for
@@ -31,15 +23,11 @@ stay without either deception or in disobedience. My opinion is in
 favour of patience, so wait a while. (In the meantime) I do not dislike
 your getting ready.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اسْتَعْدَادِي لِحَرْبِ أَهْلِ الشَّامِ وَجِرِيرٌ عِنْدَهُمْ،
-إِغْلاَقٌ لِلشَّامِ، وَصَرْفٌ لاِهْلِهِ عَنْ خَيْر إِنْ أَرادُوهُ،
-وَلكِنْ قَدْ وَقَّتُّ لِجَرِير وَقْتاً لاَ يُقِيمُ بَعْدَهُ إِلاَّ
-مَخْدُوعاً أَوْ عَاصِياً، وَالرَّأْيُ مَعَ الاْنَاةِ، فَأَرْوِدُوا،
-وَلاَ أَكْرَهُ لَكُمُ الاْعْدَادَ.
-  </p>
-</blockquote>
+> إِنَّ اسْتَعْدَادِي لِحَرْبِ أَهْلِ الشَّامِ وَجِرِيرٌ عِنْدَهُمْ،
+> إِغْلاَقٌ لِلشَّامِ، وَصَرْفٌ لاِهْلِهِ عَنْ خَيْر إِنْ أَرادُوهُ،
+> وَلكِنْ قَدْ وَقَّتُّ لِجَرِير وَقْتاً لاَ يُقِيمُ بَعْدَهُ إِلاَّ
+> مَخْدُوعاً أَوْ عَاصِياً، وَالرَّأْيُ مَعَ الاْنَاةِ، فَأَرْوِدُوا،
+> وَلاَ أَكْرَهُ لَكُمُ الاْعْدَادَ.
 
 I have observed this matter thoroughly from all sides but I do not find
 any way except war or heresy. Certainly, there was over the people a
@@ -47,14 +35,10 @@ ruler (before me) who brought about new (un-Islamic) things and
 compelled the people to speak out. So they did speak, then rose up and
 thereafter changed the whole system.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ضَرَبْتُ أَنْفَ هذَا الاْمْرِ وَعَيْنَهُ، وَقَلَّبْتُ
-ظَهْرَهُ وَبَطنَهُ، فَلَمْ أَرَلِي إِلاَّ الْقِتَالَ أَوِ الْكُفْرَ.
-إِنَّهُ قَدْ كَانَ عَلَى الاْمَّةِ وَال أَحْدَثَ أَحْدَاثاً،
-وَأَوْجَدَ النَّاسَ مَقَالاً، فَقَالُوا، ثُمَّ نَقَمُوا فَغَيَّروا.
-  </p>
-</blockquote>
+> وَلَقَدْ ضَرَبْتُ أَنْفَ هذَا الاْمْرِ وَعَيْنَهُ، وَقَلَّبْتُ
+> ظَهْرَهُ وَبَطنَهُ، فَلَمْ أَرَلِي إِلاَّ الْقِتَالَ أَوِ الْكُفْرَ.
+> إِنَّهُ قَدْ كَانَ عَلَى الاْمَّةِ وَال أَحْدَثَ أَحْدَاثاً،
+> وَأَوْجَدَ النَّاسَ مَقَالاً، فَقَالُوا، ثُمَّ نَقَمُوا فَغَيَّروا.
 
 Alternative Sources for Sermon 43
 ---------------------------------
@@ -70,5 +54,4 @@ Alternative Sources for Sermon 43
 (5) al-Saduq, *Man la yahduruh,* I, 461;
 
 (6) al-Tusi, *Misbah,* 429.
-
 

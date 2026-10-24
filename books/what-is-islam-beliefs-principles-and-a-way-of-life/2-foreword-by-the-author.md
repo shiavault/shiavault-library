@@ -108,7 +108,6 @@ of the other Prophets or one of the Imams from the Household (the
 Progeny) of the Holy Prophet, the Ahl al-Bayt. This practice has been
 followed throughout the book.
 
-
 Question:
 
 At what time did the Prophet of Islam live?
@@ -294,7 +293,6 @@ than 1.5 billion.
 4 Of course there are now large Muslim communities in Europe and North
 America
 
-
 will no longer be even one non-Muslim. The Qur’an has also promised the
 same and proclaims “that He may make it (Islam) prevail over all the
 religions”[48: 28].
@@ -356,5 +354,4 @@ Answer:
 Information about these two topics requires extensive study of various
 books but a summary can be found by a perusal of the study of a map of
 the Islamic World and the book “Invitation towards Islam”.
-
 

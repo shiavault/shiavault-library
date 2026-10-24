@@ -166,4 +166,3 @@ saying number 248.
 
 [^6]: Shaykh Kulaynī, Usūl al-Kāfī, volume 1, page 24.
 
-

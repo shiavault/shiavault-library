@@ -62,4 +62,3 @@ languages and cultures involved in the process of translation as well as
 the degree of the learner proficiency and command of both the source and
 target languages.
 
-

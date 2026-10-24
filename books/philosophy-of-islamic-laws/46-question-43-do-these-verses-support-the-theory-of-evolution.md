@@ -119,10 +119,7 @@ ingratitude?
 Thus this Ayat also has no connection, whatsoever to the theory of
 evolution.
 
-
-
 [^1]: Surah Maryam 19:67
 
 [^2]: Surah Dahr 76:1
-
 

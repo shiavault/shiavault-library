@@ -69,4 +69,3 @@ Holy Qur'an (24:40)***
 
 Al-Balagh Foundation
 
-

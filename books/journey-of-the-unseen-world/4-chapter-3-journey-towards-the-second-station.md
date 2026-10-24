@@ -125,4 +125,3 @@ universally applicable and not restricted to the earth, Otherwise the
 Qur'an would be faulty and lacking. But it is not so because it is a
 divine gift and has been revealed unto the last of the Prophets."
 
-

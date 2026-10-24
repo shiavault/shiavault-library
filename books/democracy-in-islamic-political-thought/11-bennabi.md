@@ -105,4 +105,3 @@ not a Muslim unless he or she is sinless and applied it to the question
 of civility; that is a person is not a Muslim unless he is perfectly
 civilized, and therefore all those backward Muslims are infidels!'[^69]
 
-

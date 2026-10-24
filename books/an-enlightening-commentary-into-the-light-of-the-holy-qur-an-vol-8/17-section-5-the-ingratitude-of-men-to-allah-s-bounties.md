@@ -4,18 +4,10 @@ Section 5: The Ingratitude of Men to Allah’s Bounties
 Surah ‘Ibrahim – Verses 28 - 29
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَي الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْراً
-وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَي الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْراً
+> وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
 
-<blockquote dir="rtl">
-  <p>
-جَهَنَّمَ يَصْلَوْنَهَا وَبِئْسَ الْقَرَارُ
-  </p>
-</blockquote>
+> جَهَنَّمَ يَصْلَوْنَهَا وَبِئْسَ الْقَرَارُ
 
 ***28. “Have you not seen those who changed Allah’s favour for
 ingratitude, and caused their people to alight into the abode of
@@ -85,12 +77,8 @@ The verse says:
 Surah ‘Ibrahim – Verse 30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا لِلَّهِ أَندَاداً لّـِيُضِلُّوا عَن سَبِيلِهِ قُلْ
-تَمَتَّعُوا فَإِنَّ مَصِيرَكُمْ إِلَي النَّارِ
-  </p>
-</blockquote>
+> وَجَعَلُوا لِلَّهِ أَندَاداً لّـِيُضِلُّوا عَن سَبِيلِهِ قُلْ
+> تَمَتَّعُوا فَإِنَّ مَصِيرَكُمْ إِلَي النَّارِ
 
 ***30. “And they set up (idols as) equals to Allah that they might
 mislead (the people) from His path. Say: ‘Enjoy yourselves, for verily
@@ -130,13 +118,9 @@ sense, it is deceit, disaster, and affliction.
 Surah ‘Ibrahim – Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لّـِعِبَادِيَ الَّذِينَ ءَامَنُوا يُقِيمُوا الصَّلاةَ وَيُنفِقُوا
-مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلاَنِيَةً مِن قَبْلِ أَن يَأْتِيَ
-يَوْمٌ لاَّ بَيْعٌ فِيهِ وَلا خِلالٌ
-  </p>
-</blockquote>
+> قُل لّـِعِبَادِيَ الَّذِينَ ءَامَنُوا يُقِيمُوا الصَّلاةَ وَيُنفِقُوا
+> مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلاَنِيَةً مِن قَبْلِ أَن يَأْتِيَ
+> يَوْمٌ لاَّ بَيْعٌ فِيهِ وَلا خِلالٌ
 
 ***31. “O’ Prophet! Say to My servants who have believed, to perform the
 prayers and to spend (in charity) out of what We have provided them,
@@ -228,14 +212,10 @@ The verse remarks:
 Surah ‘Ibrahim – Verse 32
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَأَنزَلَ مِنَ
-السَّمَآءِ مَآءً فَاَخْرَجَ بِهِ مِنَ الثَّـمَرَاتِ رِزْقاً لَّكُمْ
-وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِأَمْرِهِ
-وَسَخَّرَ لَكُمُ الاَنْهَارَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَأَنزَلَ مِنَ
+> السَّمَآءِ مَآءً فَاَخْرَجَ بِهِ مِنَ الثَّـمَرَاتِ رِزْقاً لَّكُمْ
+> وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِأَمْرِهِ
+> وَسَخَّرَ لَكُمُ الاَنْهَارَ
 
 ***32. “Allah is He Who created the heavens and the earth, and sent down
 water from the sky; then brought forth fruits with it to be sustenance
@@ -282,12 +262,8 @@ of the most important of them.
 Surah ‘Ibrahim – Verse 33
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَآئِبَيْنِ وَسَخَّرَ لَكُمُ
-اللَّيْلَ وَالنَّهَارَ
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَآئِبَيْنِ وَسَخَّرَ لَكُمُ
+> اللَّيْلَ وَالنَّهَارَ
 
 ***33. “And He has made the constantly moving sun and the moon
 subservient to you, and He has made the night and the day subservient to
@@ -326,12 +302,8 @@ running by man’s control.
 Surah ‘Ibrahim – Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وءَاتَاكُم مِن كُلّ‌ِ مَا سَاَلْتُـمُوهُ وَإِن تَعُدُّوا نِعْمَتَ
-اللَّهِ لاَ تُحْصُوهَآ إِنَّ الإِنسَانَ لَظَلُومٌ كَفَّارٌ
-  </p>
-</blockquote>
+> وءَاتَاكُم مِن كُلّ‌ِ مَا سَاَلْتُـمُوهُ وَإِن تَعُدُّوا نِعْمَتَ
+> اللَّهِ لاَ تُحْصُوهَآ إِنَّ الإِنسَانَ لَظَلُومٌ كَفَّارٌ
 
 ***34. “And He has given you whatever you have asked Him; and if you
 count Allah’s blessings, you are unable to number them. Verily, man is
@@ -378,5 +350,4 @@ with your own rights and do not violate the rights of other people.
 [^1]: Majma‘-ul-Bayan
 
 [^2]: The current Surah, verse 30
-
 

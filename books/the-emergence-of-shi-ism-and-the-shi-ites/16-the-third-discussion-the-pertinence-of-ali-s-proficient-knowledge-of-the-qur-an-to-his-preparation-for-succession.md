@@ -362,4 +362,3 @@ al-Tanahi V:246 (q.v “Hajar”)
 
 [^20]: \`Allamah \`Abd Sharaf al-Din, al-Muraja\`at, p. 472.
 
-

@@ -25,4 +25,3 @@ be given a *dummah* and the letter before the last should be given a
 *fathah*. So, **یَحفَظُ** would become **یُحفَظُ** and **یَستَعلِمُ**
 would become **یُستَعلَمُ**
 
-

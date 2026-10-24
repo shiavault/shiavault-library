@@ -10,11 +10,7 @@ Surah Al-’Ahzab, Chapter 33
 The Feature of the Surah Al-’Ahzab
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -68,5 +64,4 @@ so bright that the rays of which appear in his deeds.
 [^1]: Majma‘-ul-Bayan, Vol. 8, P. 234
 
 [^2]: Ibid
-
 

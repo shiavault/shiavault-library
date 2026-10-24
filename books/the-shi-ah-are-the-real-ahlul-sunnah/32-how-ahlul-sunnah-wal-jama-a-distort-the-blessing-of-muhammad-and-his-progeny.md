@@ -144,4 +144,3 @@ Those Who Know.
 [^6]: Explanation to Malik, Al-Muwatta', Vol. 6, p. 180, the chapter
 titled “Tanweer al-Hawalik” (enlightening the dark areas).
 
-

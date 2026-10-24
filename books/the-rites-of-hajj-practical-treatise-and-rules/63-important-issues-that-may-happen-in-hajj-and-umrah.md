@@ -210,4 +210,3 @@ increases the benefits and blessings of their Hajj.
 
 Allah Willing.
 
-

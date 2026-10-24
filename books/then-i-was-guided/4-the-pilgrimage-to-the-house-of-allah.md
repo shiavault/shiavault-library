@@ -309,4 +309,3 @@ abroad for three months, so I said farewell to my family and friends and
 sought my God, depending on Him, and not believing in any other god but
 Him.
 
-

@@ -93,4 +93,3 @@ problem, and will prove fruitful in the discussion on Islamic ideology.
 
 Ali Muhammad Naqavi
 
-

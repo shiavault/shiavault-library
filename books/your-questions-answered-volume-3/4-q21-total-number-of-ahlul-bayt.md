@@ -349,7 +349,6 @@ your friend mean that the whole mankind should be squeezed into Arabia,
 to make them Arabs? You should remember what Allah has said in the
 Qur'an:
 
-
 "O people. We have created you of a male and female; and we have
 distributed you into groups and tribes so that you might know one
 another; verily the most honoured of you before Allah is the one who is
@@ -444,5 +443,4 @@ A. It is not allowed to change from one Mujtahid to another unless the
 second Mujtahid is 'more learned' than the one whose Taqleed you are
 doing at present. And in such cases there is no need ask permission from
 anyone.
-
 

@@ -137,4 +137,3 @@ says: “confinement.”
 
 [^6]: Ithbāt al-waṣiyya (first edition), p. 202.
 
-

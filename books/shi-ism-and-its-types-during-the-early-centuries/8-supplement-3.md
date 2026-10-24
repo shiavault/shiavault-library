@@ -176,4 +176,3 @@ In this regard, a tradition has been narrated from the Messenger of God
 (s) that is cited in many sources. It reports the Prophet (s) as
 stating:
 
-

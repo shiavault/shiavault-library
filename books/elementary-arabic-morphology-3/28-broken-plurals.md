@@ -57,4 +57,3 @@ between this and a quasi-sound noun is by a *tā'*, for example
 way as singular nouns according to their forms, as an example the plural
 of **قوم** becomes **أقوام.**
 
-

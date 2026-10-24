@@ -81,7 +81,6 @@ went to its (people) owner."
 Then he said, "Every prophet who inherited knowledge or other things,
 they all ended to the family of Muhammad (s.a.)."
 
-
 **Chapter 38 : The Armaments and Sacred Items belonging to the Holy
 Prophet (s.a.) that transferred to the Imam (a.s.) H 621, Ch. 38, h
 1**
@@ -301,5 +300,4 @@ Once Noah came to him and whipped his on his back and said, "From the
 descendents of this donkey there will a donkey on whose back the master
 and the last of the prophets will ride. I thank Allah who has made me
 that donkey."
-
 

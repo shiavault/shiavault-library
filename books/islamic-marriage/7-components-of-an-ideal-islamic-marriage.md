@@ -115,4 +115,3 @@ procedure and proper Arabic pronunciation.
 
 [^3]: Marriage and Morals in Islam, Sayyid Muhammad Rizvi
 
-

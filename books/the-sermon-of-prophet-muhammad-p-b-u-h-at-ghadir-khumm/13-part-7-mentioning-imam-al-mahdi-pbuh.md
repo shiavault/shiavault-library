@@ -47,7 +47,6 @@ There shall be no truth except with him, nor shall there be any light
 None, indeed, shall overcome him, and none shall be supported against
 him.
 
-
 He shall be the authorized representative of Allah on His earth, His
 judge over His creation, and His trustee in His secrets and in what He
 made evident.
@@ -59,7 +58,6 @@ return after the rule of Imam al-Mahdi (PBUH). However, considering the
 fact that they are not new Imams or proofs, but the previous proofs who
 will return after Imam al-Mahdi (PBUH), resolves this apparent
 conflict.
-
 
 **Part 8 : Exhorting people to give their pledge**
 
@@ -74,7 +72,6 @@ his authority, and to shake hands with him afterwards.
 I have, indeed, sworn allegiance to Allah, and Ali has sworn allegiance
 to me, and, on behalf of Allah, the mighty and the majestic, I require
 you to swear the oath of allegiance to him, (for Allah says):
-
 
 “Verily those who pledge allegiance to you, they indeed pledge
 allegiance to Allah; the hand of Allah1 is over their hands.
@@ -110,5 +107,4 @@ servants, only through whom one can seek nearness of Allah. For the
 description of “side”, see an earlier footnote.
 
 2 Chapter 48, Verse 10 of the Holy Quran.
-
 

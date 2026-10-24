@@ -3,12 +3,8 @@ Lesson Eighty Six: Sins And Apology
 
 Imam Husayn (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إيّاكَ وَ ما تَعْتَذِرُ مِنْهُ فَانَّ الْمُؤْمِنَ لا يُسِيىءُ وَ
-لايَعْتَذِرُ وَ الْمُنافِقُ كُلَّ يَوْم يُسِيىءُ وَ يَعْتَذِرُ
-  </p>
-</blockquote>
+> إيّاكَ وَ ما تَعْتَذِرُ مِنْهُ فَانَّ الْمُؤْمِنَ لا يُسِيىءُ وَ
+> لايَعْتَذِرُ وَ الْمُنافِقُ كُلَّ يَوْم يُسِيىءُ وَ يَعْتَذِرُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ show repentance through the apology while inwardly they are unrepentant
 since they are not averse to repeating the sin
 
 [^1]: Tuhaful Uqul, page 177
-
 

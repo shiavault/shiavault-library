@@ -47,4 +47,3 @@ after death rituals. His prior permission is necessary before any other
 person(s) can handle the body.  
   
 
-

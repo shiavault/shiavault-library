@@ -122,4 +122,3 @@ Merciful of all merciful ones!
 [^1]: The Imam (A.S) has taken these descriptions from the Qur’an. I
 have added the reference at the end of each paragraph
 
-

@@ -782,4 +782,3 @@ al-Hasan’s inheritance and ideals.
 
 [^1] Al-‘Umda, vol. 1, p. 21.
 
-

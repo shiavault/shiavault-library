@@ -11,4 +11,3 @@ West, of the Influence of Muslims on Western philosophy, rationalism,
 experimental method, sciences, commerce, material life and arts of
 gracious living.
 
-

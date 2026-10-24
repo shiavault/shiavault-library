@@ -10,4 +10,3 @@ wastage is an action that is against the morals of Islam?”
  And if we want we can be content with little and avoid wasting money.  
  This is also a law of our countries.
 
-

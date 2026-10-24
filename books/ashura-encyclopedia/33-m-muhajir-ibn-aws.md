@@ -8,4 +8,3 @@ any doubt you. Why do you look so weak now?' Hurr answered him: 'I see
 myself between Paradise and Hellfire, and by God I shall choose nothing
 over Paradise'. It was then that Hurr joined the Imam's army.
 
-

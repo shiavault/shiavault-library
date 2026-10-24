@@ -456,11 +456,7 @@ the sphere of right and act against justice; of course, the two
 (rightfulness and justice) are interrelated, for if we take right in its
 general sense, justice will also be included:
 
-<blockquote dir="rtl">
-  <p>
-حَقَّهُ حَقٍّ ذى كُلِّ اِعْطاءُ اَلْعَدَالَةُ
-  </p>
-</blockquote>
+> حَقَّهُ حَقٍّ ذى كُلِّ اِعْطاءُ اَلْعَدَالَةُ
 
 “Justice is to give all rights to their rightful owner (claimant).”
 
@@ -546,11 +542,7 @@ or the Western law. Of course, in these two options there are
 intermixtures and intersections. They are the manifestations of the
 statement of the Commander of the Faithful (*‘a*) who says:
 
-<blockquote dir="rtl">
-  <p>
-فَيَمْزِجَانِ ضِغْثُ هذا وَمِنْ ضِغْثُ هذا مِنْ يُؤْخَذُ
-  </p>
-</blockquote>
+> فَيَمْزِجَانِ ضِغْثُ هذا وَمِنْ ضِغْثُ هذا مِنْ يُؤْخَذُ
 
 “Something is taken from here and
 
@@ -561,25 +553,13 @@ Western culture and this constitutes the asymmetrical combination.
 Certainly, Islam does not accept such an approach, and in reproaching it
 the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-اﷲِ بَيْنَ يُفَرِّقُوا أنْ يُرِيْدُوْنَ وَ رُسُلِهِ وَ بِاﷲِ
-يَكْفُرُوْنَ الَّذِيْنَ اِنِّ
-  </p>
-</blockquote>
+> اﷲِ بَيْنَ يُفَرِّقُوا أنْ يُرِيْدُوْنَ وَ رُسُلِهِ وَ بِاﷲِ
+> يَكْفُرُوْنَ الَّذِيْنَ اِنِّ
 
-<blockquote dir="rtl">
-  <p>
-يَتَّخِذُوا أنْ يُرِيْدُونَ وَ بِبَعْضٍ نَكْفُرُ وَ بِبَعْضٍ نُؤْمِنُ
-يَقُوْلُوْنَ وَ رُسُلِهِ وَ
-  </p>
-</blockquote>
+> يَتَّخِذُوا أنْ يُرِيْدُونَ وَ بِبَعْضٍ نَكْفُرُ وَ بِبَعْضٍ نُؤْمِنُ
+> يَقُوْلُوْنَ وَ رُسُلِهِ وَ
 
-<blockquote dir="rtl">
-  <p>
-…حَقّاً الْكَافِرُوْنَ هُمُ أولئِكَ \* سَبِيلاً ذلِكَ بَيْنَ
-  </p>
-</blockquote>
+> …حَقّاً الْكَافِرُوْنَ هُمُ أولئِكَ \* سَبِيلاً ذلِكَ بَيْنَ
 
 ***“Lo! those who disbelieve in Allah and His messengers, and seek to
 make distinction between Allah and His messengers, and say: We believe
@@ -652,17 +632,9 @@ preeminence over the other—religious interests or worldly interests? It
 is clear that the religious interests are preeminent, as it has been
 stated, thus:
 
-<blockquote dir="rtl">
-  <p>
-نَفْسِكَ، دُونَ مالَكَ فَقَدِّمْ بَلاءٌ عُرِضَ فَاِنْ
-  </p>
-</blockquote>
+> نَفْسِكَ، دُونَ مالَكَ فَقَدِّمْ بَلاءٌ عُرِضَ فَاِنْ
 
-<blockquote dir="rtl">
-  <p>
-دِينِكَ دُونَ وَنَفْسَكَ مالَكَ فَقَدِّمْ البَلاءُ تَجَاوَزَ فَاِنْ
-  </p>
-</blockquote>
+> دِينِكَ دُونَ وَنَفْسَكَ مالَكَ فَقَدِّمْ البَلاءُ تَجَاوَزَ فَاِنْ
 
 If your life is in danger, sacrifice your property for your life. If the
 situation were such that you have to choose between life and property,
@@ -673,11 +645,7 @@ to sacrifice your life and property for the religion.[^6]
 
 At this point, if man is killed, there is nothing wrong.
 
-<blockquote dir="rtl">
-  <p>
-…الْحُسْنَيَيْنِ اِحْدَى الاّ بِنآ تَرَبَّصُوْنَ هَلْ قُلْ
-  </p>
-</blockquote>
+> …الْحُسْنَيَيْنِ اِحْدَى الاّ بِنآ تَرَبَّصُوْنَ هَلْ قُلْ
 
 ***“Say: Can ye await for us aught save one of two good things (death or
 victory in Allah's way)?”***[^7]
@@ -962,5 +930,4 @@ own country and to leave and return at will). [Trans.]
 [^11]: Article 18 (Freedom of belief and religion). [Trans.]
 
 [^12]: Article 16 (Right to marriage and protection of family). [Trans.]
-
 

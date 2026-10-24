@@ -272,4 +272,3 @@ earthly beauty is but a pale reflection, in order to attain that Peace
 which all men seek but which can in fact be found only through the inner
 jihad.
 
-

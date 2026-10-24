@@ -1,15 +1,11 @@
 Discourse 9: Characteristics of a Righteous Servant of Allah – Part I
 =====================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إِبْنِ عُمَرَ قَالَ: خَطَبَنَا رَسُولُ اللٌّهِ خُطْبَةً ذَرَفَتْ
-مِنْهَا العُيُونُ وَ وَجِلَتْ مِنْهَا الْقُلُوبُ فَكَانَ مِمَّا
-ضَبَطْتُ مِنْهَا: أَيُّهَا النَّاسُ، إنَّ أَفْضَلَ النَّاسِ عَبْداً
-مَنْ تَوَاضَعَ عَنْ رَفْعَةِ، وَ زَهِدَ عَنْ رَغْبَةِ، وَ أَنْصَفَ
-عَنْ قُوَّةِ، وَ حَلُمَ عَنْ قُدْرَةِ…
-  </p>
-</blockquote>
+> عَنْ إِبْنِ عُمَرَ قَالَ: خَطَبَنَا رَسُولُ اللٌّهِ خُطْبَةً ذَرَفَتْ
+> مِنْهَا العُيُونُ وَ وَجِلَتْ مِنْهَا الْقُلُوبُ فَكَانَ مِمَّا
+> ضَبَطْتُ مِنْهَا: أَيُّهَا النَّاسُ، إنَّ أَفْضَلَ النَّاسِ عَبْداً
+> مَنْ تَوَاضَعَ عَنْ رَفْعَةِ، وَ زَهِدَ عَنْ رَغْبَةِ، وَ أَنْصَفَ
+> عَنْ قُوَّةِ، وَ حَلُمَ عَنْ قُدْرَةِ…
 
 It has been narrated from Ibne 'Umar that, “The Messenger of Allah (S)
 once gave us such a speech that made tears flow from our eyes and made
@@ -69,12 +65,8 @@ Shaitan tries to get to him and make use of him, then he will never be
 held captive by his lower desires or the Shaitan.  
  In the words of the poet, Mawlavi:
 
-<blockquote dir="rtl">
-  <p>
-نفس اژدهاست او كى مرده است                      از غم بى آلتى افسرده
-است
-  </p>
-</blockquote>
+> نفس اژدهاست او كى مرده است                      از غم بى آلتى افسرده
+> است
 
 It is for this reason that the Prophet (S) has said, “The best of people
 is the one who even though has the liking (to commit a sin) and has the
@@ -92,11 +84,7 @@ Similarly, when his duties increase and become more sensitive and
 critical (to be performed in the proper way), there is a greater danger
 that they may not be fulfilled how they should be.
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُخْلِصُونَ فِي خَطَرٍ عَظِيمٍ.
-  </p>
-</blockquote>
+> أَلْمُخْلِصُونَ فِي خَطَرٍ عَظِيمٍ.
 
 “The sincere people (al-Mukhlisun) are in the greatest danger.”
 
@@ -139,5 +127,4 @@ committed at least 21,000 sins!  Do I wish to meet Allah while I have
 21,000 sins on my record?”  At this point, he let out a loud sigh and
 fell to the ground and passed away on the spot. (Tafsir-e-Namunah, vol.
 24, pg. 465)
-
 

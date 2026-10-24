@@ -151,7 +151,6 @@ when addressing a group of visitors from Qum, he declared, “Wherever I
 may be, I am a citizen of Qum, and take pride in the fact. My heart is
 always with Qum and its people.”[^7]
 
-
 [^1]: See Muhammad Riza Hakimi, Mir Hamid Husayn, Qum, 1362 Sh./1983.
 
 [^2]: However, according to a statement by the Imam’s elder brother,
@@ -169,5 +168,4 @@ son of the Imam, Tehran, 12 September, 1982.
 [^6]: Sahifa-yi Nur, XVI, p. 121.
 
 [^7]: Sahifa-yi Nur, XII, p. 51.
-
 

@@ -649,7 +649,6 @@ classic work,*Power: A Radical View.* Lukes takes what he calls a
 others to act and power to prevent action but also power to shape
 language which makes certain issues relevant and suppresses others.[^39]
 
-
 Here, power is one directional. Even power theories that are more
 relational usually conceive power as imposed*on* people. More recent
 theory in critical studies has described the ways in which dominating
@@ -758,5 +757,4 @@ health, education and other human service fields.[^47]
 
 They also suggest both the strengths and the limits of the work of John
 Dewey.
-
 

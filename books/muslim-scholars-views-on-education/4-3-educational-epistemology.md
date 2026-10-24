@@ -535,4 +535,3 @@ Motahhari (1997) emphasizes this fact that we should also pay attention
 to the future, its needs and conditions in educational and curriculum
 planning and teaching.
 
-

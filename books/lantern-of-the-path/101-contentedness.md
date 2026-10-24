@@ -6,11 +6,7 @@ charge of his two abodes, Allah would confirm him in that, realizing his
 hope through the immensity of his contentment. How can Allah's servant
 not be content with what He has allotted him when He says,
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا
-  </p>
-</blockquote>
+> نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا
 
 ***We distribute among them their livelihood between them in the life of
 this world.*** (43:32)
@@ -29,5 +25,4 @@ not vanish.' It is the ship of Allah's pleasure, bearing whoever is on
 board it to His House. Have excellent trust in what you have not been
 given, and pleasure in what you have been given. Be patient in what
 befalls you, for this indeed is one of the greatest tasks.
-
 

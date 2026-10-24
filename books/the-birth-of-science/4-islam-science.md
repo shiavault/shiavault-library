@@ -74,4 +74,3 @@ showed how much of Aristotle’s thought could be integrated into
 Christianity. This amalgam became the foundation for natural science in
 the West.
 
-

@@ -565,4 +565,3 @@ hadith 1720; cf. The Old Testament, I Kings 3: 16-28.
 
 [^29]: Ibid, 1:33.
 
-

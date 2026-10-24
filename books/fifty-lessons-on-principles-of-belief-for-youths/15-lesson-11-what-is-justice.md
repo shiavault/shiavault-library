@@ -165,4 +165,3 @@ society?
  4. How many meanings does justice have? Explain them.  
  5. Does justice mean the same as equality?
 
-

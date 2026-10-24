@@ -186,4 +186,3 @@ took the arms of Hassan and Hussein and said, 'Whoever loves me and
 loves these two and their father, he will certainly be with me on the
 Day of Judgement.'"(9)
 
-

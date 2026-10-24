@@ -216,4 +216,3 @@ ad-Durr al-Manthur vol. 2 p. 259, at-Tabarsi in Majma’ al-Bayan vol. 3
 p. 246, and others mentioned that this verse was revealed concerning the
 Day of al-Ghadeer.
 
-

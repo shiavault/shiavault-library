@@ -705,4 +705,3 @@ Europe over other partners on the world market. This chance should be
 used. The creation of the European Centre for Futures Studies, patterned
 after the Central European Bank, may favour that.
 
-

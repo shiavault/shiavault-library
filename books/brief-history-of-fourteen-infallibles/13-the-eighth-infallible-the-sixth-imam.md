@@ -212,4 +212,3 @@ of anger; he does not do anything unjustifiable for the sake of favour
 to some; neither does he take more than his due share, though he may
 have the power.
 
-

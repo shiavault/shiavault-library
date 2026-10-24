@@ -121,4 +121,3 @@ place the face's sides and forehead on such a piece of earth since doing
 so connotes lessons in defending the Cause of Allah, the manifestations
 of His Sanctity, and the symbol of defending His canon, holy Islam?
 
-

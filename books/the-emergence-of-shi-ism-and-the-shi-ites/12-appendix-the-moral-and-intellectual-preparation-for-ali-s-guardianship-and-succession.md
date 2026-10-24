@@ -3,4 +3,3 @@ Appendix : The Moral and Intellectual Preparation for 'Ali's Guardianship and Su
 
 **Dr. \`Abd al Jabbar Shararah**
 
-

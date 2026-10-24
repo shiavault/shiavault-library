@@ -955,11 +955,7 @@ Mr. Mahdavi, the writer of the forty proposals, writes in issue No.87 of
 “In the book *al-Ahwal ash-shakhsiyyah* (Personal statutes) compiled by
 Shaykh Muhammad Abu Zahrah[^8] it is quoted from Amir al-muminin that:
 
-<blockquote dir="rtl">
-  <p>
-لا أعلم أحداً تَمتَع وُهو مُحصِن إلا رجمته بالحِجارة
-  </p>
-</blockquote>
+> لا أعلم أحداً تَمتَع وُهو مُحصِن إلا رجمته بالحِجارة
 
 “(Mr. Mahdavi has translated it thus): ‘whenever I come to know that a
 person ‘not worthy of it’ has concluded a *mut’ah* marriage, I shall
@@ -1031,5 +1027,4 @@ tobacco. This protest movement was a fore- runner of the later Iranian
 Constitutional Revolution (1905-1911).
 
 [^8]: A contemporary Egyptian religious scholar.
-
 

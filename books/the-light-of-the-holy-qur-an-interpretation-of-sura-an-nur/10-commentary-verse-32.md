@@ -131,7 +131,6 @@ they learn soon and their kindness is more stable."[^3]
 
 [^3] Bihar ul-Anwar, Vol. 103, p. 237
 
-
 **Commentary : Verse 33**
 
 33. وَلْيَسْتَعْفِفِ الَّذِينَ لاَ يَجِدُونَ نِكَاحاً حَتَّي
@@ -362,5 +361,4 @@ As we said before, this sentence may refer to the condition of the
 salve girls' owners who were penitent for their gloomy and evil past and
 they were ready to do repentance and edify themselves. Or it refers to
 the women who were compelled and forced to this unchaste action.
-
 

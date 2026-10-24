@@ -138,4 +138,3 @@ Why have they got the audacity to say to me that the Third Testimony
 does not form part of this, that or the other? And why should I not hold
 on to the Firmest Handle all the time?
 
-

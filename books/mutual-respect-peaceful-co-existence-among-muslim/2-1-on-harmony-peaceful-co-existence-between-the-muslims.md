@@ -95,4 +95,3 @@ Office of As-Sayyid As-Sistani
  An-Najaf al-Ashraf [Iraq]  
  14 Muharram 1428 / 3 February 2007
 
-

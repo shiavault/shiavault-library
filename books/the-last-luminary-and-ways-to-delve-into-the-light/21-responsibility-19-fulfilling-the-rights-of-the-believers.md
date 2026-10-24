@@ -10,12 +10,8 @@ honesty towards them.
 
 Imam Musa b. Ja’far al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ قَضى حَاجَةً لِأَحَدٍ مِنْ أَوْلِيَائِنَا فَكَأَنَّمَا
-قَضَاهَا لِجَمِيعِنَا
-  </p>
-</blockquote>
+> وَ مَنْ قَضى حَاجَةً لِأَحَدٍ مِنْ أَوْلِيَائِنَا فَكَأَنَّمَا
+> قَضَاهَا لِجَمِيعِنَا
 
 “A person who fulfills the need of one of our friends is like the one
 who has fulfilled the need for all of us (the Ahlul Bayt).”[^1]
@@ -23,27 +19,19 @@ who has fulfilled the need for all of us (the Ahlul Bayt).”[^1]
 Once, a person asked Imam Ja’far. Muhammad as-Sadiq (as) about the
 rights of another believer to which he replied:
 
-<blockquote dir="rtl">
-  <p>
-سَبْعُونَ حَقًّا
-  </p>
-</blockquote>
+> سَبْعُونَ حَقًّا
 
 “These are seventy rights.”[^2]
 
 In addition, Abul Hasan has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَتَاهُ أَخُوهُ الْمُؤْمِنُ فِي حَاجَةٍ فَإِنَّمَا هِيَ رَحْمَةٌ
-مِنَ اللٌّهِ تَعَالـى سَاقَهَا إِلَيْهِ فَإِنْ قَبِلَ ذٌلِكَ فَقَدْ
-وَصَلَهُ بِوَلاَيَـتِنَا وَ هُوَ مَوْصُولٌ بِوَلاَيَةِ اللٌّهِ وَ إِنْ
-رَدَّهُ عَنْ حَاجَتِهِ وَ هُوَ يَقْدِرُ عَلى قَضَائِهَا سَلَّطَ
-اللٌّهُ عَلَيْهِ شُجَاعاً مِنْ نَارٍ يَنْهَشُهُ فِي قَبْـرِهِ إِلـى
-يَوْمِ الْقِيَامَةِ مَغْفُوراً لَهُ أَوْ مُعَذَّباً فَإِنْ عَذَرَهُ
-الطَّالِبُ كَانَ أَسْوَأَ حَالاً
-  </p>
-</blockquote>
+> مَنْ أَتَاهُ أَخُوهُ الْمُؤْمِنُ فِي حَاجَةٍ فَإِنَّمَا هِيَ رَحْمَةٌ
+> مِنَ اللٌّهِ تَعَالـى سَاقَهَا إِلَيْهِ فَإِنْ قَبِلَ ذٌلِكَ فَقَدْ
+> وَصَلَهُ بِوَلاَيَـتِنَا وَ هُوَ مَوْصُولٌ بِوَلاَيَةِ اللٌّهِ وَ إِنْ
+> رَدَّهُ عَنْ حَاجَتِهِ وَ هُوَ يَقْدِرُ عَلى قَضَائِهَا سَلَّطَ
+> اللٌّهُ عَلَيْهِ شُجَاعاً مِنْ نَارٍ يَنْهَشُهُ فِي قَبْـرِهِ إِلـى
+> يَوْمِ الْقِيَامَةِ مَغْفُوراً لَهُ أَوْ مُعَذَّباً فَإِنْ عَذَرَهُ
+> الطَّالِبُ كَانَ أَسْوَأَ حَالاً
 
 “When a person is approached by his believing brother in need of
 assistance, this is actually a mercy from Allah, the High, which He sent
@@ -71,5 +59,4 @@ brother,’ no. 14
 
 [^3]: al-Kafi, vol. 2, pg. 196, sec. ‘Fulfilling the needs of a
 Believer,’ no. 13
-
 

@@ -320,4 +320,3 @@ Mas'ud also [^6].
 
 [^6]: Manaqib Ibn Shahr Ashob, vol. 2, p. 65 printed in Multan
 
-

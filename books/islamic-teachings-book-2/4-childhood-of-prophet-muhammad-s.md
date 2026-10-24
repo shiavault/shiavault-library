@@ -52,4 +52,3 @@ Questions
 
 3. Why did people call the Holy Prophet Sadiq and Amin?
 
-

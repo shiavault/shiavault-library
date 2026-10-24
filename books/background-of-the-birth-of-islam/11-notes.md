@@ -389,4 +389,3 @@ is related to the time after Abraha's campaign.
 
 76. Holy Qur'an, Chapter 9 (Towba), Verses 25 onward.
 
-

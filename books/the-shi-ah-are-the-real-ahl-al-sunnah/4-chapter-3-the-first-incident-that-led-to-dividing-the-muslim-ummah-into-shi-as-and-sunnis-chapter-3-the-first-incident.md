@@ -89,8 +89,8 @@ chapters will prove to the reader that those sahabah had in fact, and to
 the great misfortune of the Islamic Ummah, forsaken the Sunnah of the
 Prophet and adopted the Sunnah of Umar ibn al-Khattab instead.
 
-[^11] It is the famous "Thursday Calamity" recorded in both al-Bukhari's
+[^11]: It is the famous "Thursday Calamity" recorded in both al-Bukhari's
 and Muslim's Sahih books.
-[^12] Al-Bukhari, Sahih, Vol. 4, p. 4.
-[^13] Ibn Abul-Hadid, Sharh Nahjul Balagha, Vol. 2, p. 20
+[^12]: Al-Bukhari, Sahih, Vol. 4, p. 4.
+[^13]: Ibn Abul-Hadid, Sharh Nahjul Balagha, Vol. 2, p. 20
 

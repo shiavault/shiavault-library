@@ -7,11 +7,7 @@ Power And Might
 wickedness) of power.
 
 > 1ـ اَلتَّسَلُّطُ عَلَى الضَّعيفِ والمَمْلُوكِ مِنْ لُزُومِ (لُؤْمِ)
-<blockquote dir="rtl">
-  <p>
-القُدْرَةِ.
-  </p>
-</blockquote>
+> القُدْرَةِ.
 
 2. Power manifests the praiseworthy and blameworthy qualities [of an
 individual].
@@ -47,5 +43,4 @@ increases.
 forbearance when he is angry.
 
 > 9ـ مِنْ أحْسَنِ أفْعالِ القادِرِ أنْ يَغْضِبَ فَيَحْلُمَ.
-
 

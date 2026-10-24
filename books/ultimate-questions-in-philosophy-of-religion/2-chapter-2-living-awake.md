@@ -527,4 +527,3 @@ Iranian tale.
 light passes from one medium to another of a different density, for
 example, from air to water.
 
-

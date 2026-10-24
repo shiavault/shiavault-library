@@ -21,4 +21,3 @@ proper place in your lives."
 
 **Imam Ali (P)**
 
-

@@ -149,4 +149,3 @@ civilization, as near as possible to the universal spirit, and in terms
 of the principles of that civilized condition, which the appointed day
 is aiming at realizing under his leadership.
 
-

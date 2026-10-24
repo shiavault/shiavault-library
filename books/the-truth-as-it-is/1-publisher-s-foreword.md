@@ -166,4 +166,3 @@ know the truth as it is.
 
 Almighty Allah is the patron of all success.
 
-

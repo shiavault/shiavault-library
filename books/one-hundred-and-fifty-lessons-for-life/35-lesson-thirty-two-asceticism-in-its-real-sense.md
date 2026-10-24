@@ -3,12 +3,8 @@ Lesson Thirty Two: Asceticism in its Real Sense
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلزَّاهِدُ فِى الدُّنْيا مَنْ لَمْ يَغْلِبِ الْحَرامُ صَبْرَهُ وَ
-لَمْ يَشْغَلِ الْحَلالُ شُكْرَهُ.
-  </p>
-</blockquote>
+> اَلزَّاهِدُ فِى الدُّنْيا مَنْ لَمْ يَغْلِبِ الْحَرامُ صَبْرَهُ وَ
+> لَمْ يَشْغَلِ الْحَلالُ شُكْرَهُ.
 
 Translation
 -----------
@@ -33,5 +29,4 @@ force for self-improvement and reforms in the society rather than a
 negative influence on progress and prosperity.
 
 [^1]: Tuhaful Uqul
-
 

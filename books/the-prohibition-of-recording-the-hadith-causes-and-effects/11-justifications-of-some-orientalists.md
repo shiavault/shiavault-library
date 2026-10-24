@@ -59,4 +59,3 @@ Tawfiq Sidqiy, Rashid Rida and many others believe that the Holy Qur’an
 alone must be followed and the Holy Sunnah must thus be thrown away.
 (See Mustafa al-A\`dhamiy: Dirasatun fi’l-Hadith al-Nubawiy, 26.)
 
-

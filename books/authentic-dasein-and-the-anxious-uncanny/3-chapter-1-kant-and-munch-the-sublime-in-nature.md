@@ -298,4 +298,3 @@ to a rest along with the sea. But two small sailing boats are visible at
 a safe distance from the forest, asserting the feeling of the sublime in
 which “the mind feels itself*moved* ” (Kant, 120).
 
-

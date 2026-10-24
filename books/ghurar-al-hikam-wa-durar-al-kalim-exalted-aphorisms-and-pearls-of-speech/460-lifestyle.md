@@ -26,31 +26,19 @@ granted contentment by Allah, the Glorified, and who has been given a
 good wife.
 
 > 5ـ أنْعَمُ النّاسِ عَيْشاً مَنْ مَنَحَهُ اللّهُ سُبْحانَهُ القَناعَةَ،
-<blockquote dir="rtl">
-  <p>
-وأصْلَحَ لَهُ زَوْجَهُ.
-  </p>
-</blockquote>
+> وأصْلَحَ لَهُ زَوْجَهُ.
 
 6. Verily the person who has the happiest life of all people is one who
 is satisfied with what Allah has apportioned for him.
 
 > 6ـ إنَّ أهْنَأَ النّاسِ عَيْشاً مَنْ كانَ بِما قَسَمَ اللّهُ لَهُ
-<blockquote dir="rtl">
-  <p>
-راضِياً.
-  </p>
-</blockquote>
+> راضِياً.
 
 7. Verily the person with the best lifestyle is one through whose life
 the lives of others are improved.
 
 > 7ـ إنَّ أحْسَنَ النّاسِ عَيْشاً، مَنْ حَسُنَ عَيْشُ النّاسِ في
-<blockquote dir="rtl">
-  <p>
-عَيْشِهِ.
-  </p>
-</blockquote>
+> عَيْشِهِ.
 
 8. Death is preferable to abasement.
 
@@ -97,11 +85,7 @@ management.
 jealousy and bad character.
 
 > 18ـ ثَلاثٌ لايُهْنَأُ لِصاحِبِهِنَّ عَيْشٌ: اَلحِقْدُ،والحَسَدُ،
-<blockquote dir="rtl">
-  <p>
-وسُوءُ الخُلْقِ.
-  </p>
-</blockquote>
+> وسُوءُ الخُلْقِ.
 
 19. The beauty of life is [in] contentment.
 
@@ -116,15 +100,10 @@ life.
 extravagance.
 
 > 21ـ حُسْنُ التَّقْديرِ مَعَ الكَفافِ خَيْـرٌ مِنَ السَّعْيِ فِي
-<blockquote dir="rtl">
-  <p>
-الإسْرافِ.
-  </p>
-</blockquote>
+> الإسْرافِ.
 
 22. Preferring comfort [over hard work] cuts off the means of profit
 [and benefit].
 
 > 22ـ إيثارُ الدَّعَةِ يَقْطَعُ أسْبابَ المَنْفَعَةِ.
-
 

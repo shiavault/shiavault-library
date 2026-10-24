@@ -123,4 +123,3 @@ is a distance of thousands of miles between his country and Vietnam.
 that one bets ones life on it. The Holy Quran has mentioned this very
 clearly.
 
-

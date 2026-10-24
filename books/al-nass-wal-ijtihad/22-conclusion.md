@@ -993,4 +993,3 @@ and praise be to Allah, the Lord of the worlds.
 [^2] Bin and ibn mean the son of.
 [^3] Related to the progeny of Abu Talib.
 
-

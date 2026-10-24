@@ -53,7 +53,7 @@ entanglements, and he will dedicate his time for the worship of Allah
 and for the service of His cause. It was the custom then to bring such a
 dedicated person to Jerusalem to worship Allah and to serve His creed.
 
-[^1] Abu Bakr Muhammed ibn Ishaq (d. 151 A.H./768 A.D.) is a well known
+[^1]: Abu Bakr Muhammed ibn Ishaq (d. 151 A.H./768 A.D.) is a well known
 scholar from Medina who was contemporary to the \`Abbaside ruler Abu
 Ja\`fer Abdullah al-Mansur who came to power in June 754
 A.D./Thul-Hijjah 136 A.H. and who commissioned ibn Ishaq to write the
@@ -65,7 +65,7 @@ A.D. and who is a traditionist and a historian born in Bas,.rah and died
 in Baghdad. Ibn Sa\`d's most famous work is Kitab al-Tabaqat al-Kabir,
 or Tabaqat Ibn Sa\`d.
 
-[^2] Zacharias was father of John the Baptist (prophet Yahya). His name
+[^2]: Zacharias was father of John the Baptist (prophet Yahya). His name
 in Hebrew is Zachariah, the same as it is in Arabic. “Zakariyya” is a
 variation of it.
 
@@ -213,5 +213,4 @@ Christians have for years been debating about Mary, whether she was the
 “mother of God,” as some call her, or whether she was an ordinary pious
 lady. We do not wish to contribute to such a debate, preferring to leave
 them wandering forever in their wilderness as they please...
-
 

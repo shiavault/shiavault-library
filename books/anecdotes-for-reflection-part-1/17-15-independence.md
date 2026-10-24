@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَمُدَّنَّ عَينَيكَ اِلىَماَ مَتَّعْناَ بِهِ اَزواَجاً مِنهُم
-  </p>
-</blockquote>
+> لَا تَمُدَّنَّ عَينَيكَ اِلىَماَ مَتَّعْناَ بِهِ اَزواَجاً مِنهُم
 
 *(Do not strain your eyes after what We have provided with some of them
 pairs among them to enjoy)*[^1]
 
 Imam Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-شَرَفُ الْمُؤْمِنِ قِياَمُ اللَّيْلِ وَ عِزُّهُ اسْتِغْناَؤُهُ عَنِ
-النَّاس
-  </p>
-</blockquote>
+> شَرَفُ الْمُؤْمِنِ قِياَمُ اللَّيْلِ وَ عِزُّهُ اسْتِغْناَؤُهُ عَنِ
+> النَّاس
 
 *(The honour of a Mu'min lies in nocturnal worship and his esteem lies
 in his being independent of the people).*[^2]
@@ -188,5 +180,4 @@ vol. 2, pg. 66.
 
 [^7]: Daastaan-ha Wa Pand-ha, vol. 7, pg. 112; Majma’ al-Bayaan, vol. 9,
 pg. 211.
-
 

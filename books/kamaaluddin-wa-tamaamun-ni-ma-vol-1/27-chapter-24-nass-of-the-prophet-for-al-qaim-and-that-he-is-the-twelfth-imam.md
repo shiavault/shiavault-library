@@ -14,12 +14,8 @@ Allah (S) said:
 of seventy prophets (a.s.). Whoever disputes concerning the signs of
 Allah, has indeed disbelieved. Allah, Mighty and Glorified be He, says:
 
-<blockquote dir="rtl">
-  <p>
-مَا يُجَادِلُ فِي آيَاتِ اللَّهِ إِلَّا الَّذِينَ كَفَرُوا فَلَا
-يَغْرُرْكَ تَقَلُّبُهُمْ فِي الْبِلَادِ
-  </p>
-</blockquote>
+> مَا يُجَادِلُ فِي آيَاتِ اللَّهِ إِلَّا الَّذِينَ كَفَرُوا فَلَا
+> يَغْرُرْكَ تَقَلُّبُهُمْ فِي الْبِلَادِ
 
 ***None dispute concerning the communications of Allah but those who
 disbelieve, therefore let not their going to and fro in the cities
@@ -180,11 +176,7 @@ Trustworthy Spirit Jibraeel (a.s.). Indeed, the Messenger of Allah (S)
 was asked while I was with him, concerning the Imams after him. He
 replied to the questioner,
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
-  </p>
-</blockquote>
+> وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
 
 ***By the sky, the possessor of constellations!***[^2]
 
@@ -238,11 +230,7 @@ superiority and deny their sanctity after me. Allah suffices as a Master
 and as a Helper for my progeny and the Imams of my Ummah, and as an
 Avenger for those who have denied them their rights.
 
-<blockquote dir="rtl">
-  <p>
-وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ
-  </p>
-</blockquote>
+> وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ
 
 ***And they who act unjustly shall know to what final place of turning
 they shall turn back.***[^3]
@@ -470,23 +458,11 @@ Ubayy enquired, ‘What are these prayers, O Messenger of Allah (S)?’
 
 He answered, “When you are sitting after finishing your prayers say,
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك بكلماتك ومعاقد ع رشك وسكان سماواتك (وأرضك) وأنبيائك
-  </p>
-</blockquote>
+> اللهم إني أسألك بكلماتك ومعاقد ع رشك وسكان سماواتك (وأرضك) وأنبيائك
 
-<blockquote dir="rtl">
-  <p>
-ورسلك (أن تستجيب لي) فقد رهقني من أمري عسر، فأسألك أن تصلي على
-  </p>
-</blockquote>
+> ورسلك (أن تستجيب لي) فقد رهقني من أمري عسر، فأسألك أن تصلي على
 
-<blockquote dir="rtl">
-  <p>
-محمد وآل محمد وأن تجعل لي من عسري يسرا
-  </p>
-</blockquote>
+> محمد وآل محمد وأن تجعل لي من عسري يسرا
 
 **O Allah!** **Certainly I ask You for the sake of Your Kingdom, the
 contracting parties of Your Might, the residents of Your heavens (and
@@ -498,11 +474,7 @@ easy for me.**
 Then surely Allah, the Mighty and Glorified, will ease your affair,
 expand your heart for you and inspire unto you the testimony
 
-<blockquote dir="rtl">
-  <p>
-لا إله إلا الله
-  </p>
-</blockquote>
+> لا إله إلا الله
 
 ‘There is no god but Allah’ at the time of your death.’
 
@@ -517,18 +489,10 @@ He asked, ‘Then, what is his name and what is his supplication?’
 
 He explained, “His name is Ali and his supplication is,
 
-<blockquote dir="rtl">
-  <p>
-يا دائم يا ديموم، يا حي يا قيوم، يا كاشف الغم ويا فارج الهم، ويا باعث
-الرسل، ويا
-  </p>
-</blockquote>
+> يا دائم يا ديموم، يا حي يا قيوم، يا كاشف الغم ويا فارج الهم، ويا باعث
+> الرسل، ويا
 
-<blockquote dir="rtl">
-  <p>
-صادق الوعد
-  </p>
-</blockquote>
+> صادق الوعد
 
 **O Eternal! O Everlasting! O Living!** **O Controller! O Reliever of
 sorrows! O Remover of grief! O Sender of Messengers and O Truthful in
@@ -555,12 +519,8 @@ Ubayy asked, ‘What is his name?’
 He replied, “His name is Muhammad. Verily, the angels will soon be
 acquainted with him in the heavens and invoke with his invocation.
 
-<blockquote dir="rtl">
-  <p>
-اللهم إن كان لي عندك رضوان وود فاغفر لي ولمن تبعني من إخواني وشيعتي
-وطيب ما في صلبي
-  </p>
-</blockquote>
+> اللهم إن كان لي عندك رضوان وود فاغفر لي ولمن تبعني من إخواني وشيعتي
+> وطيب ما في صلبي
 
 O Allah! If there is any satisfaction or love near You for me, then
 forgive me and whoever follows me from my brothers or my followers, and
@@ -572,14 +532,10 @@ purified this sperm and named it Ja’far and made him a guide, the guided
 one, he is satisfied with Allah and Allah is satisfied with him. He
 prays to his Lord and says in his supplication,
 
-<blockquote dir="rtl">
-  <p>
-يا ديان غير متوان يا أرحم الراحمين اجعل لشيعتي من النار وقاء، ولهم
-عندك رضاء، فاغفر ذنوبهم، ويسر امورهم، واقض ديونهم، واستر عوراتهم، وهب
-لهم الكبائر التي بينك وبينهم، يا من لا يخاف الضيم ولا تأخذه سنة ولا
-نوم، اجعل لي من كل (هم) وغم فرجا
-  </p>
-</blockquote>
+> يا ديان غير متوان يا أرحم الراحمين اجعل لشيعتي من النار وقاء، ولهم
+> عندك رضاء، فاغفر ذنوبهم، ويسر امورهم، واقض ديونهم، واستر عوراتهم، وهب
+> لهم الكبائر التي بينك وبينهم، يا من لا يخاف الضيم ولا تأخذه سنة ولا
+> نوم، اجعل لي من كل (هم) وغم فرجا
 
 O Untiring Provider! O the most Merciful of all mercifuls! Grant
 protection for my Shias from the fire and satisfaction near You for
@@ -606,13 +562,9 @@ which he prayed, other than the supplications of his forefathers?’
 
 He replied, “Yes. He will say in his supplications
 
-<blockquote dir="rtl">
-  <p>
-يا خالق الخلق، ويا باسط الرزق، ويا فالق الحب (والنوى)، ويا بارئ النسم
-ومحيي الموتي ومميت الاحياء، و (يا) دائم الثبات، ومخرج النبات افعل بي
-ما أنت أهله
-  </p>
-</blockquote>
+> يا خالق الخلق، ويا باسط الرزق، ويا فالق الحب (والنوى)، ويا بارئ النسم
+> ومحيي الموتي ومميت الاحياء، و (يا) دائم الثبات، ومخرج النبات افعل بي
+> ما أنت أهله
 
 **O Creator of creation! O Giver of sustenance! O Splitter of grain! O
 Creator of winds! O Giver of life to the dead and Who causes death to
@@ -628,12 +580,8 @@ his creation. He made him a proof for his Shias, through which they will
 demonstrate on the Day of Judgment. He has an invocation by which he
 invokes
 
-<blockquote dir="rtl">
-  <p>
-م مي ي، ،وثبتي ي، ،واحشري يه هآمناأن نن ن .خف فعله هوالحن نال .جز، ،ك
-كل لالتقى ىوأهلالمغفرة
-  </p>
-</blockquote>
+> م مي ي، ،وثبتي ي، ،واحشري يه هآمناأن نن ن .خف فعله هوالحن نال .جز، ،ك
+> كل لالتقى ىوأهلالمغفرة
 
 **O Allah! Grant me guidance, make me firm on it, and raise me on it in
 a state of security, like the safety of the one who has neither fear nor
@@ -646,22 +594,14 @@ him Muhammad Ibn Ali. He is the intercessor of his Shias and the
 inheritor of his grandfather’s knowledge. He has clear signs and
 apparent arguments. When he will be born, he will declare:
 
-<blockquote dir="rtl">
-  <p>
-اله هال .هلل .مد درسل لهلل .صى ىهلل .عليهوه ه
-  </p>
-</blockquote>
+> اله هال .هلل .مد درسل لهلل .صى ىهلل .عليهوه ه
 
 **There is no god but Allah. Muhammad is the Messenger of Allah.**
 
 And he will recite in his supplications.
 
-<blockquote dir="rtl">
-  <p>
-ا ان ن .ه هه هال .مثا، ،أت تهلل . .ه هال .ت تال .ق قال .ت
-تتفنيالمخلوقينوتبي ي، ،حلت تعمن، ،وي يالمغفة ةرضاك
-  </p>
-</blockquote>
+> ا ان ن .ه هه هال .مثا، ،أت تهلل . .ه هال .ت تال .ق قال .ت
+> تتفنيالمخلوقينوتبي ي، ،حلت تعمن، ،وي يالمغفة ةرضاك
 
 **O the One Who has neither any similar nor any example. You are Allah,
 there is no god but You and there is no creator but You. You will
@@ -676,12 +616,8 @@ and dignity, and deposited in him sciences and secrets of every hidden
 thing. Whoever meets him, he will inform him of what is in his heart and
 caution against his enemy and he will supplicate in this manner:
 
-<blockquote dir="rtl">
-  <p>
-يانوريابرن نيامنيرا ان نيارباي يشرالشروروآفاتالدهور،وأسألكة ةيم مخ
-خفيالصور
-  </p>
-</blockquote>
+> يانوريابرن نيامنيرا ان نيارباي يشرالشروروآفاتالدهور،وأسألكة ةيم مخ
+> خفيالصور
 
 **O Light of all lights!** **O Proof! O Illuminator! O Explanator!** **O
 Lord! Protect me from the evil of the evil ones and the calamities of
@@ -696,13 +632,9 @@ punishment for those who oppose him, a proof for whoever befriends him
 and a clear argument for whoever takes him as an Imam. He will say in
 his supplication:
 
-<blockquote dir="rtl">
-  <p>
-ا اعزز زز زي يعز، ،ياعزيا اعزي يبعزك،وأيدنيبنصك كوأبد دعي
-يهمزاتالشياط، ،وادع عي يك كوامع ععي يك كواجعلي ين نر رخلق، ،ا
-اواحدياأد ديافد دا اصمد
-  </p>
-</blockquote>
+> ا اعزز زز زي يعز، ،ياعزيا اعزي يبعزك،وأيدنيبنصك كوأبد دعي
+> يهمزاتالشياط، ،وادع عي يك كوامع ععي يك كواجعلي ين نر رخلق، ،ا
+> اواحدياأد ديافد دا اصمد
 
 **O Mighty of reverence in His Might! O Mighty! Grant me might for the
 sake of Your Might, assist me with Your help, keep far from me the
@@ -1038,28 +970,16 @@ Ummah nobody reached Allah and His Prophet before me?’ Everyone replied:
 ‘Bearing Allah as Witness – Yes.’ He asked: ‘Bearing Allah as Witness,
 do you know when the verses
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ
 
 ***‘And (as for) the foremost, the first of the Muhajirs and
 Ansaar...’***[^4]
 
 And…
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ السَّابِقُونَ
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ السَّابِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ الْمُقَرَّبُونَ
-  </p>
-</blockquote>
+> أُولَٰئِكَ الْمُقَرَّبُونَ
 
 ***‘And the foremost are the foremost, these are they who are drawn nigh
 (to Allah).’***[^5]
@@ -1073,36 +993,24 @@ replied: ‘Bearing Allah as Witness – Yes.’
 He said: ‘I am telling you bearing Allah as Witness, do you know when
 these verses:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***‘O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you.’***[^6]
 
 And
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***‘Only Allah is your Wali and His Apostle and those who keep up
 prayers and pay the poor-rate while they bow.’***[^7]
 
 And
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَتَّخِذُوا مِنْ دُونِ اللَّهِ وَلَا رَسُولِهِ وَلَا
-الْمُؤْمِنِينَ وَلِيجَةً ۚ
-  </p>
-</blockquote>
+> وَلَمْ يَتَّخِذُوا مِنْ دُونِ اللَّهِ وَلَا رَسُولِهِ وَلَا
+> الْمُؤْمِنِينَ وَلِيجَةً ۚ
 
 ***‘What! Do you think that you will be left alone while Allah has not
 known those of you who have struggle hard and have not taken any one as
@@ -1125,11 +1033,7 @@ authority over the lives of Momineen than they themselves?’ Everyone
 replied: ‘Surely, O Prophet of Allah.’ He said: ‘O Ali, get up.’ So I
 got up. He said:
 
-<blockquote dir="rtl">
-  <p>
-منت تموه هفعي يموه هم مول لن نوه هود دن نعاده ه
-  </p>
-</blockquote>
+> منت تموه هفعي يموه هم مول لن نوه هود دن نعاده ه
 
 ‘Whosever’s Maula I am, then this Ali is his Maula – O Allah befriend
 him who befriends them and bear enmity towards him who bears enmity
@@ -1138,12 +1042,8 @@ Messenger of Allah, what kind of Wilayat?’ He replied: ‘On whomever I
 have more authority, Ali also has more authority’ and then the Almighty
 Allah revealed the verse:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَأَكْمَلْتُلَكُمْدِينَكُمْوَأَتْمَمْتُعَلَيْكُمْنِعْمَتِ
-يوَرَضِيتُلَكُم ُاإلِسْالَم َدِينًا
-  </p>
-</blockquote>
+> الْيَوْمَأَكْمَلْتُلَكُمْدِينَكُمْوَأَتْمَمْتُعَلَيْكُمْنِعْمَتِ
+> يوَرَضِيتُلَكُم ُاإلِسْالَم َدِينًا
 
 ***‘This day I have perfected for you your religion and completed My
 favor on you and chosen for you Islam as a religion.’***[^9]
@@ -1201,12 +1101,8 @@ they all sat down.
 Sulaym says that Ali (a.s.) said: ‘O people, you know that when Allah in
 His Book revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***‘Allah only desires to keep away the uncleanness from you, O people
 of the House! And to purify you a (thorough) purifying.’***[^10]
@@ -1226,12 +1122,8 @@ Holy Prophet (S) and he said exactly what Umme Salma had related to us.’
 Then Ali (a.s.) said: ‘I am telling you, bearing Allah as Witness, do
 you know when the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ
+> الصَّادِقِينَ
 
 ***‘O you who believe! Be careful of (your duty to) Allah and be with
 the true ones.’***[^11]
@@ -1249,12 +1141,8 @@ Everyone said: ‘Bearing Allah as Witness – Yes.’ Ali (a.s.) asked:
 ‘Bearing Allah as Witness, do you when know Allah revealed in Surah
 Hajj:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا
-رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا
+> رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***‘O you who believe! Bow down and prostrate yourselves and serve your
 Lord, and do good that you may succeed…till the end of Surah…***[^12]
@@ -1297,12 +1185,8 @@ Ahmad bin Muhammad bin Yahya Soosi: Narrated to us Abdul Aziz bin Aban:
 Narrated to us Sufyan Thawri from Jabir from Shabi from Masrooq that he
 said:
 
-<blockquote dir="rtl">
-  <p>
-يَاأَيُّهَاالَّذِين
-َآمَنُوااركَْعُواوَاسْجُدُواوَاعْبُدُوارَبَّكُمْوَافْعَلُواالْخَيْرَلَعَلَّكُمْتُفْ
-  </p>
-</blockquote>
+> يَاأَيُّهَاالَّذِين
+> َآمَنُوااركَْعُواوَاسْجُدُواوَاعْبُدُوارَبَّكُمْوَافْعَلُواالْخَيْرَلَعَلَّكُمْتُفْ
 
 “I asked Abdullah (Ibn Masud), ‘Did the Prophet (S) inform you how many
 caliphs will there be after him?’ He replied, ‘Yes, twelve caliphs. All
@@ -1541,11 +1425,7 @@ Allah (S)! Who are my partners after me?” He replied, “Those whom Allah,
 Mighty and Glorified be He, has accompanied with Himself and me in His
 verse
 
-<blockquote dir="rtl">
-  <p>
-اطيعا اهلل .واطيعواالرسل لواولىار رمنكم...
-  </p>
-</blockquote>
+> اطيعا اهلل .واطيعواالرسل لواولىار رمنكم...
 
 ***“Obey Allah and obey the Messenger and the possessors of authority
 amongst you…”***[^13]
@@ -1597,5 +1477,4 @@ Kaaba) and I know their names and their fathers and their tribes.”
 [^12]: Surah Hajj 22:77
 
 [^13]: Surah Nisa (4): verse 59
-
 

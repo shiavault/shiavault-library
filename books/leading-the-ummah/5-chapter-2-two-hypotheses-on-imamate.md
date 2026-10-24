@@ -23,11 +23,7 @@ would solve any problem Muslims might encounter.
 
 They define Imamate in the following manner: [^1]
 
-<blockquote dir="rtl">
-  <p>
-“الإمامة رئاسة عامة في أُمور الدين و الدّنيا خلافة عن النبي”
-  </p>
-</blockquote>
+> “الإمامة رئاسة عامة في أُمور الدين و الدّنيا خلافة عن النبي”
 
 In the Sunnite view, this great religious and social position is a
 social asset which is bestowed upon a caliph by people for he is elected
@@ -84,12 +80,8 @@ allowed to speak of a caliph as the Prophet's successor, an individual
 who can engage in sins and still remain the leader of an Ummah. He
 writes: [^2]
 
-<blockquote dir="rtl">
-  <p>
-“لايخلع الإمام بفسقه و ظلمه بغصب الأموال و تناول النفوس المحترمة و
-تضييع الحقوق و تعطيل الحدود”
-  </p>
-</blockquote>
+> “لايخلع الإمام بفسقه و ظلمه بغصب الأموال و تناول النفوس المحترمة و
+> تضييع الحقوق و تعطيل الحدود”
 
 An Imam is never removed from his position because of involvement in the
 disobedience of God, or for confiscation of people's possessions, or for
@@ -165,5 +157,4 @@ Imamate in the following .manner: الامامة رئاسة عامة إلهيه 
 والدنيا خلافة عن النبي: Imamate is a divine general sponsorship which
 deals with people's mundane and religious affairs, as a substitute for
 the prophet.
-
 

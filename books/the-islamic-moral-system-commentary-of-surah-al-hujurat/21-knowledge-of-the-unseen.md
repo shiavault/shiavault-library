@@ -3,12 +3,8 @@ Knowledge of the Unseen
 
 ( Verse 20 )
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ يَعْلَمُ غَيْبَ السَّمٌاوٌاتِ وَالأَرْضِ وَاللٌّهُ
-بَصِيرٌ بِمٌا تَعْمَلُونَ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ يَعْلَمُ غَيْبَ السَّمٌاوٌاتِ وَالأَرْضِ وَاللٌّهُ
+> بَصِيرٌ بِمٌا تَعْمَلُونَ
 
 **“*****Certainly Allah has (complete) knowledge of that which is hidden
 in the Heavens and the Earth and Allah is the One who Sees what all of
@@ -48,11 +44,7 @@ their own disciple and order, and all of these will remain as issues of
 the unknown. This is the point which has been alluded to in this verse
 when He (Glorified and Exalted is He) says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لِلٌّهِ غَيْبُ السَّمٌاوٌاتِ وَ الأَرْضِ
-  </p>
-</blockquote>
+> وَ لِلٌّهِ غَيْبُ السَّمٌاوٌاتِ وَ الأَرْضِ
 
 ***“And to Allah belong the unknown secrets of the Heavens and the
 Earth.”***
@@ -61,21 +53,13 @@ From this verse of the Qur’an and many other verses, we realize that the
 only One who has complete Knowledge of the Unseen is Allah (Glorified
 and Exalted is He):
 
-<blockquote dir="rtl">
-  <p>
-وَ عِنْدَهُ مَفٌاتِحَ الْغَيْبِ لاٌ يَعْلَمُهٌا إِلاٌّ هُوَ
-  </p>
-</blockquote>
+> وَ عِنْدَهُ مَفٌاتِحَ الْغَيْبِ لاٌ يَعْلَمُهٌا إِلاٌّ هُوَ
 
 ***“And with Him are the keys of the Unseen that no one knows except for
 Him.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لاٌ يَعْلَمُ مَنْ فِي السَّمٌوٌاتِ وَالأَرْضِ الْغَيْبَ إِلاٌّ
-اللٌّهُ
-  </p>
-</blockquote>
+> قُلْ لاٌ يَعْلَمُ مَنْ فِي السَّمٌوٌاتِ وَالأَرْضِ الْغَيْبَ إِلاٌّ
+> اللٌّهُ
 
 ***“Say (O’ Muhammad) no one has knowledge of that which is hidden in
 the Heavens and the Earth except for Allah.”***[^2]
@@ -93,12 +77,8 @@ times, some of His specific servants cannot be acquainted with some of
 this hidden knowledge by them. It has been mentioned in regards to the
 Prophet of Islam (blessings of Allah be upon him and his progeny) that:
 
-<blockquote dir="rtl">
-  <p>
-عٌالِمُ الْغَيْبِ فَلاٌ يُظْهِرُ عَلى غَيْـبِهِ أَحَداً إِلاٌّ مَنِ
-ارْتَضى مِنْ رَسُولٍ
-  </p>
-</blockquote>
+> عٌالِمُ الْغَيْبِ فَلاٌ يُظْهِرُ عَلى غَيْـبِهِ أَحَداً إِلاٌّ مَنِ
+> ارْتَضى مِنْ رَسُولٍ
 
 ***“The Knower of the Unseen (Allah) so then He does not make known what
 is hidden to a single person except those whom He is pleased with from
@@ -117,12 +97,8 @@ upon them) was acquainted with a great deal of information that had come
 from the Knowledge of the Unseen. The Qur’an quotes him as saying to the
 people:
 
-<blockquote dir="rtl">
-  <p>
-وَ أُنَبِّئُكُمْ بِمٌا تَأْكُلُونَ وَ مٌا تَدَّخِرُونَ فِي
-بُـيُوتِكُمْ
-  </p>
-</blockquote>
+> وَ أُنَبِّئُكُمْ بِمٌا تَأْكُلُونَ وَ مٌا تَدَّخِرُونَ فِي
+> بُـيُوتِكُمْ
 
 ***“And I inform you of what you eat (even though I have not seen you
 eating) and that which you store in your houses.”***[^4]
@@ -134,13 +110,9 @@ they were committing). In relation to the outcome of his people and that
 of his own children, he was informed (given Knowledge of the Unseen)
 that:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ لاٌ تَضَرْ عَلى الأَرْضِ مِنَ الْكٌافِرِينَ دَيٌّاراً إِنَّكَ
-إِنْ تَذَرْهُمْ يُضِلُّوا عِبٌادَكَ وَ لاٌ يَلِدُوا إِلاٌّ فٌاجِراً
-كَفٌّاراً
-  </p>
-</blockquote>
+> رَبِّ لاٌ تَضَرْ عَلى الأَرْضِ مِنَ الْكٌافِرِينَ دَيٌّاراً إِنَّكَ
+> إِنْ تَذَرْهُمْ يُضِلُّوا عِبٌادَكَ وَ لاٌ يَلِدُوا إِلاٌّ فٌاجِراً
+> كَفٌّاراً
 
 ***“(And Nuh*** ***said) O’ my Lord! Do not leave upon the Earth any
 dweller from amongst the unbelievers for surely if You leave them, they
@@ -199,11 +171,7 @@ occur in the future in Basrah. One of the companions of the Imam (peace
 be upon him) asked him, “Do you inform us of the Unseen (غيب)?” The Imam
 (peace be upon him) replied to him as follows:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ هُوَ بِعِلْمِ غَيْبٍ وَ إِنَّمٌا هُوَ تَعَلَّمُ مَنْ ذِي عِلْمٍ
-  </p>
-</blockquote>
+> لَيْسَ هُوَ بِعِلْمِ غَيْبٍ وَ إِنَّمٌا هُوَ تَعَلَّمُ مَنْ ذِي عِلْمٍ
 
 *“This is not information of the unseen (that is limited only to Allah
 and of which no one else has permission to know), rather that what I say
@@ -228,11 +196,7 @@ never claim to have Knowledge of the Unseen and if I had such knowledge,
 then surely very many bad things would have been kept away from myself
 and I would have had much good come to me.”
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُنْتُ أَعْلَمُ الْغَيْبَ لَأَسْتَكْثَرْتُ مِنَ الْخَيْرِ
-  </p>
-</blockquote>
+> لَوْ كُنْتُ أَعْلَمُ الْغَيْبَ لَأَسْتَكْثَرْتُ مِنَ الْخَيْرِ
 
 ***  
 ***
@@ -253,11 +217,7 @@ and I would have had much good come to me.”
 In another verse of the Qur’an, the Prophet (Glorified and Exalted is
 He) is commanded to say to the people:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ أَقُولُ لَكُمْ عِنْدِي خَزٌائِنُ اللٌّهِ وَ لاٌ أَعْلَمُ الْغَيْبَ
-  </p>
-</blockquote>
+> لاٌ أَقُولُ لَكُمْ عِنْدِي خَزٌائِنُ اللٌّهِ وَ لاٌ أَعْلَمُ الْغَيْبَ
 
 ***“I (Muhammad) do not say that I have the hidden secrets of Allah with
 me, nor do I have Knowledge of the Unseen.”***[^9]
@@ -313,11 +273,7 @@ type of question, the hairs on the body of a person will stand up! That
 which we know and we inform you about is the knowledge which has reached
 us from the Prophet of Allah.’”[^13]
 
-<blockquote dir="rtl">
-  <p>
-وَ الْحَمْدُ لِلٌّهِ رَبِّ الْعٌالَمِينَ
-  </p>
-</blockquote>
+> وَ الْحَمْدُ لِلٌّهِ رَبِّ الْعٌالَمِينَ
 
 **…and all the praise belongs solely to Allah, the Lord of the
 Universe**
@@ -351,5 +307,4 @@ Sitting, Page 493. For a deeper understanding on the issue of Knowledge
 of the Unseen, refer to the book, Mafahim al-Qur’an, Pages 321 to 383.
 In this section of the book, a complete discussion in relation to the
 Knowledge of the Unseen of the Prophet and the A’immah has been covered.
-
 

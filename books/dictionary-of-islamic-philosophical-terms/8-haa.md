@@ -407,4 +407,3 @@ Ages -by the Andulsian Muslim philosopher Ibn Tufail (504?-581/
 into so many languages of the world as this. link: an English language
 translation that was done in 1906(?).
 
-

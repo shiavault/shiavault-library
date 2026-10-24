@@ -1379,4 +1379,3 @@ Prayer for Imam al-Hasan al-Askari
 </tbody>
 </table>
 
-

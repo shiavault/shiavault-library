@@ -160,4 +160,3 @@ and balances everyone's interests.
 
 [^6]: Al-Kulaini, op. cit. p. 72.
 
-

@@ -531,4 +531,3 @@ falling down in adoration. Each prayer consists of several units.
 
 [^35]: Ibid., Book 1, Letter No. 251.
 
-

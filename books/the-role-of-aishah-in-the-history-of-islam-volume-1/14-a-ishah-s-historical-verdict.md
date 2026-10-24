@@ -438,4 +438,3 @@ ordered them: "Leave him alone" and then they let me go.
 
 239. History of at-Tabari 5/112, History of Ibn al-Athir 3/73.
 
-

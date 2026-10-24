@@ -273,14 +273,10 @@ though he may be a non-Muslim, and considers injustice as absolutely
 repugnant. Even if a person is an unbeliever, you still have no right to
 treat him unjustly:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ
-بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا
-تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ
-ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ
+> بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا
+> تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ
+> ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
 
 ***And ill feeling for a people should never lead you to be unfair. Be
 fair; that is nearer to God-wariness. (5:8)***
@@ -289,13 +285,9 @@ Even more serious than this, merely to observe justice with respect to
 non-Muslims is not enough; rather, compassion which is loftier than
 justice should also be observed:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
-الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
-وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
+> الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
+> وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
 
 ***Allah does not forbid you in regard to those who did not make war
 against you on account of religion and did not expel you from you homes,
@@ -396,5 +388,4 @@ souls and your souls, then let us pray earnestly and call down Allah’s
 curse upon the liars’.” [Trans.]
 
 [^3]: - Tūman: every tūman is equivalent to ten Iranian rials. [Trans.]
-
 

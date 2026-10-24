@@ -162,4 +162,3 @@ Murtadha Mutahhari
 
 [^1]: . 3 vols. Najaf,1376/ 1956.
 
-

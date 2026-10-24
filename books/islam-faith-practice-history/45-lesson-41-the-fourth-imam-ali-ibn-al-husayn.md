@@ -236,4 +236,3 @@ which he extemporaneously composed the poem about the holy Imam.
 [^1]: Ahmad is one of the names of the Prophet. In Arabic, it is common
 to call his grandfather as “his father”.
 
-

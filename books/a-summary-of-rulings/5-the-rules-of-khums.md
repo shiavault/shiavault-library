@@ -331,4 +331,3 @@ title of a donation and intend it to be Khums. Likewise, is the
 situation with the Share of the Imam which is given to needy individuals
 with the permission of the Religious Jurist.
 
-

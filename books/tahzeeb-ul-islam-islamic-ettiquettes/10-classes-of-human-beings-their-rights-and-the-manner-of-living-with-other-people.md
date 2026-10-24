@@ -1030,4 +1030,3 @@ with each other and do not talk within three days then they are
 exterminated from the fold of Islam and the person who makes the first
 gesture to reunite is the person who will enter heaven first.
 
-

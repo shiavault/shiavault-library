@@ -10,11 +10,7 @@ Surah al-Qiyama, Chapter 75
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -40,37 +36,17 @@ cross the Bridge Spanning Hellfire (sirat).
 Surah al-Qiyama – Verses 1-4
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
-  </p>
-</blockquote>
+> لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
-  </p>
-</blockquote>
+> وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ
-  </p>
-</blockquote>
+> أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ
 
-<blockquote dir="rtl">
-  <p>
-بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ
-  </p>
-</blockquote>
+> بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ
 
 ***1. I swear by the Day of Resurrection.***  
 ***2. And I swear by the self-reproaching self [the awakened conscience
@@ -292,17 +268,9 @@ existing records of the thieves and criminals and lead to his arrest.
 Surah al-Qiyama – Verses 5-6
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ أَمَامَهُ
-  </p>
-</blockquote>
+> بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ أَمَامَهُ
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ
-  </p>
-</blockquote>
+> يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ
 
 ***5. Nay! Man [entertains no doubts as to Resurrection, but he] desires
 to be free to continue committing sins all his life.***  
@@ -348,41 +316,17 @@ Resurrection.
 Surah al-Qiyama – Verses 7-12
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا بَرِقَ الْبَصَرُ
-  </p>
-</blockquote>
+> فَإِذَا بَرِقَ الْبَصَرُ
 
-<blockquote dir="rtl">
-  <p>
-وَخَسَفَ الْقَمَرُ
-  </p>
-</blockquote>
+> وَخَسَفَ الْقَمَرُ
 
-<blockquote dir="rtl">
-  <p>
-وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
-  </p>
-</blockquote>
+> وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ الْإِنسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
-  </p>
-</blockquote>
+> يَقُولُ الْإِنسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَا وَزَرَ
-  </p>
-</blockquote>
+> كَلَّا لَا وَزَرَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
-  </p>
-</blockquote>
+> إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
 
 ***7. When the sight shall be dazed out of fear.***  
 ***8. And the moon shall be eclipsed.***  
@@ -473,23 +417,11 @@ down, and finally perish.
 Surah al-Qiyama – Verses 13-15
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
-  </p>
-</blockquote>
+> يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
-  </p>
-</blockquote>
+> بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
-  </p>
-</blockquote>
+> وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
 
 ***13. On that Day man shall be informed of what he sent forward and
 what he left behind.***  
@@ -581,29 +513,13 @@ reference is also made to this world.
 Surah al-Qiyama – Verses 16-19
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
-  </p>
-</blockquote>
+> لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ
-  </p>
-</blockquote>
+> إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ
-  </p>
-</blockquote>
+> فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
 
 ***16. Move not your tongue hastily in reciting it [i.e. the Holy
 Qur’an].***  
@@ -653,17 +569,9 @@ commenced the recitation of the blessed Verses.[^18]
 Surah al-Qiyama – Verses 20-21
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ
-  </p>
-</blockquote>
+> كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَذَرُونَ الْآخِرَةَ
-  </p>
-</blockquote>
+> وَتَذَرُونَ الْآخِرَةَ
 
 ***20. It is not as you imagine [that you regard as concealed the
 reasons lying behind Resurrection], but you love the fleeting life [of
@@ -702,17 +610,9 @@ be this Day of Resurrection?"***
 Surah al-Qiyama – Verses 22-23
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-إِلَىٰ رَبِّهَا نَاظِرَةٌ
-  </p>
-</blockquote>
+> إِلَىٰ رَبِّهَا نَاظِرَةٌ
 
 ***22. Some faces that Day shall be happy,***  
 ***23. Looking at their Lord.***
@@ -757,17 +657,9 @@ else.
 Surah al-Qiyama – Verses 24-25
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
-  </p>
-</blockquote>
+> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
-  </p>
-</blockquote>
+> تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
 
 ***24. And some faces, that Day, will be gloomy.***  
 ***25. Aware that some excruciating torment is in store for them.***
@@ -802,35 +694,15 @@ material and spiritual Bounties.
 Surah al-Qiyama – Verses 26-30
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ
-  </p>
-</blockquote>
+> كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلَ مَنْ ۜ رَاقٍ
-  </p>
-</blockquote>
+> وَقِيلَ مَنْ ۜ رَاقٍ
 
-<blockquote dir="rtl">
-  <p>
-وَظَنَّ أَنَّهُ الْفِرَاقُ
-  </p>
-</blockquote>
+> وَظَنَّ أَنَّهُ الْفِرَاقُ
 
-<blockquote dir="rtl">
-  <p>
-وَالْتَفَّتِ السَّاقُ بِالسَّاقِ
-  </p>
-</blockquote>
+> وَالْتَفَّتِ السَّاقُ بِالسَّاقِ
 
-<blockquote dir="rtl">
-  <p>
-إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ
-  </p>
-</blockquote>
+> إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ
 
 ***26. Nay, he will not believe till his soul reaches the collar
 bone,***  
@@ -955,23 +827,11 @@ rather than the exclusive reference to the topic.
 Surah al-Qiyama – Verses 31-33
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا صَدَّقَ وَلَا صَلَّىٰ
-  </p>
-</blockquote>
+> فَلَا صَدَّقَ وَلَا صَلَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ
-  </p>
-</blockquote>
+> وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ
-  </p>
-</blockquote>
+> ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ
 
 ***31. So he neither believed nor established ritual prayer.***  
 ***32. But on the contrary, he belied and turned away.***  
@@ -1012,23 +872,11 @@ fits the context herein.
 Surah al-Qiyama – Verses 34-36
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوْلَىٰ لَكَ فَأَوْلَىٰ
-  </p>
-</blockquote>
+> أَوْلَىٰ لَكَ فَأَوْلَىٰ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ
-  </p>
-</blockquote>
+> ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى
-  </p>
-</blockquote>
+> أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى
 
 ***34. Divine torment is further befitting you, further befitting!***  
 ***35. Then, Divine torment is further befitting you, further
@@ -1108,29 +956,13 @@ and endless spiritual growth.[^27]
 Surah al-Qiyama – Verses 37-40
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَكُ نُطْفَةً مِّن مَّنِيٍّ يُمْنَىٰ
-  </p>
-</blockquote>
+> أَلَمْ يَكُ نُطْفَةً مِّن مَّنِيٍّ يُمْنَىٰ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
-  </p>
-</blockquote>
+> ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ
-  </p>
-</blockquote>
+> فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ
 
-<blockquote dir="rtl">
-  <p>
-أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ
-  </p>
-</blockquote>
+> أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ
 
 ***37. Was he not a discharge of semen emitted into the womb?***  
 ***38. Then he became a clot. Then, [Allah] shaped and fashioned [him]
@@ -1301,5 +1133,4 @@ Essence. Forgive us and grant us Your Mercy and Grace.*
 [^29]: 23:115
 
 [^30]: Majma‘ al-Bayan, under the blessed Verse in question.
-
 

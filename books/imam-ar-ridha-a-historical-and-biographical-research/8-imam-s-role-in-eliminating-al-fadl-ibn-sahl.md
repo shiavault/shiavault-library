@@ -450,4 +450,3 @@ Vol. 3, p. 250, of his work
 
 [^7]: Uyoon Akhbar ar-Ridha’, Vol. 6, p. 159
 
-

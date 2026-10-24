@@ -731,4 +731,3 @@ in his Tafseer, ar-Razi and others.
 [^55]: It was mentioned by Ahmed bin Hanbal in his Musnad, ibn Abu
 Shayba and ibn Jareer. Refer to Muntakhab Kanzul Ommal, vol.5, pg.44.
 
-

@@ -125,4 +125,3 @@ people to-day, you see that it is absent or dead. When we want to be
 idle, and tend to neglect our duty, we resort to "reliance on God," and
 use it in a sense quite the reverse of what the Qur'an teaches.
 
-

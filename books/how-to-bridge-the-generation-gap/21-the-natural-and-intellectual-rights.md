@@ -41,4 +41,3 @@ parent's principles and beliefs or not.
 
 [^1]: Usual Kafi, New edition, 2nd Volume, p. 16
 
-

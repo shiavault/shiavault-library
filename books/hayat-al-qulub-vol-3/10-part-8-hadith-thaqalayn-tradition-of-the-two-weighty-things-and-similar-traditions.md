@@ -124,11 +124,7 @@ who had killed those who were issuing just orders.
 The author of *Taraif* has reported in some ways from Thalabi who is one
 of the Ahle Sunnat commentators, the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا.
-  </p>
-</blockquote>
+> وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا.
 
 ***And hold fast by the covenant of Allah all together and be not
 disunited… (Sura Ale-Imran 3:103)***
@@ -211,12 +207,8 @@ great Ahle Sunnat scholar.
 It is written in Sahifa Ridha and Ayyashi has quoted Imam Ridha (a.s.)
 in explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ
-شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ.
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ
+> شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ.
 
 ***And when We said: Enter this city, then eat from it a plenteous
 (food) wherever you wish, and enter the gate making obeisance, and say,
@@ -599,5 +591,4 @@ over both worlds.’ (45:16) and about all the aspects of these great
 persons, which are like Divine announcements like their sacred lineages,
 they can also be included in the Quranic aspects (relevant aspects), but
 among all the Quranic aspects, the best one is the aspect of knowledge.
-
 

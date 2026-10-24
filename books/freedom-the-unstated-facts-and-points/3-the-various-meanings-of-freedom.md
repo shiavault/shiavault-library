@@ -33,11 +33,7 @@ light we use the concept of darkness. Similarly, in describing the
 concept of darkness, we discuss the concept of light. There is a famous
 Arabic expression, which states:
 
-<blockquote dir="rtl">
-  <p>
-بأضدادها الأشياء تُعرف
-  </p>
-</blockquote>
+> بأضدادها الأشياء تُعرف
 
 “Things are known by means of their respective opposites.”
 
@@ -85,17 +81,9 @@ having more than one meaning. The feature and attribute related to one
 meaning of the word is erroneously proved for the other meaning. As an
 instance, the word “*shir*”[^1] can be cited. Mawlawi[^2] says:
 
-<blockquote dir="rtl">
-  <p>
-باديه اندر است شير دگر وان باديه اندر است شير يكى آن
-  </p>
-</blockquote>
+> باديه اندر است شير دگر وان باديه اندر است شير يكى آن
 
-<blockquote dir="rtl">
-  <p>
-می خورد آدم است شير دگر وان می‌خورد آدم است شير يكى آن
-  </p>
-</blockquote>
+> می خورد آدم است شير دگر وان می‌خورد آدم است شير يكى آن
 
 *That one is* shir *[milk, or lion] in the* badiyeh *[cup, or jungle].*
 
@@ -259,11 +247,7 @@ natural and supra-natural elements compel us to act and even think and
 decide in a certain way. According to them, as what Mawlawi cites as an
 example,
 
-<blockquote dir="rtl">
-  <p>
-صنم اى است اختيار دليل خود كنم آن يا كنم اين گويى كه اين
-  </p>
-</blockquote>
+> صنم اى است اختيار دليل خود كنم آن يا كنم اين گويى كه اين
 
 *That you said I have to do this or that*
 
@@ -329,21 +313,13 @@ Approximately, nowadays, nobody denies it and regard himself as totally
 under compulsion, having no freewill of his own. The Qur’an naturally
 gives emphasis on this issue:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ ۖ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ
-شَاءَ فَلْيَكْفُرْ...
-  </p>
-</blockquote>
+> وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ ۖ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ
+> شَاءَ فَلْيَكْفُرْ...
 
 ***“Say: (It is) the truth from the Lord of you (all). Then whosoever
 will, let him believe, and whosoever will, let him disbelieve.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 
 ***“Lo! We have shown him the way, whether he be grateful or
 disbelieving.”***[^6]
@@ -386,11 +362,7 @@ mix the two together, however.
 The third meaning of freedom is a concept, which is often used in ethics
 and mysticism. In this famous poem of Hafiz,[^7] he has pointed to it:
 
-<blockquote dir="rtl">
-  <p>
-است آزاد ﺗﻌﻠﻖپذيرد رنگ هرچه ز كبود چرخ زير كه آنم همت غلام
-  </p>
-</blockquote>
+> است آزاد ﺗﻌﻠﻖپذيرد رنگ هرچه ز كبود چرخ زير كه آنم همت غلام
 
 *I am the servant of anyone who under the sky*
 
@@ -415,21 +387,13 @@ aegis of the Divine Beauty. In the perspective of the Islamic sciences,
 one of the highest stages of human perfection is love and affection to
 God:
 
-<blockquote dir="rtl">
-  <p>
-لِلّهِ حُبّاً أَشَدُّ آمَنُوا وَالَّذِيْنَ
-  </p>
-</blockquote>
+> لِلّهِ حُبّاً أَشَدُّ آمَنُوا وَالَّذِيْنَ
 
 ***“Those who believe are stauncher in their love for Allah.”***[^9]
 
 In the *Du‘a Kumayl*[^10] we read:
 
-<blockquote dir="rtl">
-  <p>
-مُتَيِّماً بِحُبِّكَ وَقَلْبِي
-  </p>
-</blockquote>
+> مُتَيِّماً بِحُبِّكَ وَقَلْبِي
 
 “(O Lord! Make) my heart enthralled by Your love!”
 
@@ -461,11 +425,7 @@ fettered even by the love of God and that he must emancipate himself and
 be totally free. To emphasize his point, he would recite the same poem
 of Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-است آزاد ﺗﻌﻠﻖپذيرد رنگ هرچه ز كبود چرخ زير كه آنم همت غلام
-  </p>
-</blockquote>
+> است آزاد ﺗﻌﻠﻖپذيرد رنگ هرچه ز كبود چرخ زير كه آنم همت غلام
 
 *I am the servant of anyone who under the sky*
 
@@ -604,5 +564,4 @@ Awaited Savior, http://www.al-islam.org/awaited/index.htm. [Trans.]
 ‘alayhis-salam, ‘alayhimus-salam, or ‘alayhas-salam [may peace be upon
 him/them/her], which is used after the names of the prophets, angels,
 Imams from the Prophet’s progeny, and saints (‘a). [Trans.]
-
 

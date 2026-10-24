@@ -188,4 +188,3 @@ school of thoughts of Islamic economic, a number of economists
 elaborated faith based economics for a wider scope. Thus they introduced
 the concept of divine economics.
 
-

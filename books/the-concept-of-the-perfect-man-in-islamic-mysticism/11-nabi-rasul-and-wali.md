@@ -38,4 +38,3 @@ walī and following him is essential. As the Qur’ān says: “[O Muhammad]
 Say, ‘If you love Allah, then follow me; Allah will love you and forgive
 you your sins, and Allah is All-forgiving, All- merciful’” (3/31).
 
-

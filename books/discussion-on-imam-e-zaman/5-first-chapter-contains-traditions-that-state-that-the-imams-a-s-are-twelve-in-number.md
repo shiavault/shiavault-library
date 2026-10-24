@@ -22,11 +22,9 @@ Yanaabiul Mawaddah of Qundoozi.
 
 The Holy Prophet (s.a.) said,
 
-<p dir="rtl">
 يا علي أنت وصيي, ح.رب.ك. ح.ربي و سِلم.ك. سِلمي و أنت. الامام. و أبو
 الأئمهِ الاِحدي عشر الذينُ ه.م. » .« الطَه.رونُ الم.عصومون, و مِنهم
 الم.هدي. الّذي يملأ الأرض قِسطاً و عدلاً
-</p>
 
 “O Ali! You are my successor. Your war is my war and your peace is my
 peace. You are an Imam and the father of eleven Imams those that are
@@ -39,11 +37,9 @@ traditions. Sub-chapter 5: The Imams (a.s.) are twelve in number, of
 whom the last is Mahdi (a.s.). It contains 94 traditions like the
 following one, The Messenger of Allah (s.a.) said,
 
-<p dir="rtl">
 إن اللّه تعالي أخَذ ميثاقي و ميثاقُ اثني ع.شرُ إماما ب.عدي و ه.م ح.جج.
 اللّهِ علي خَلقِه. الثّاني عشر » .« منهم القائم. الّذي يملأ بهِ الأرض.
 قسطاً و عدلا
-</p>
 
 “Surely Allah the Almighty took my covenant and the covenant of twelve
 Imams after me. They are Allah’s proofs upon His creatures. The twelfth
@@ -158,10 +154,8 @@ Hazrat Qaem (a.t.f.s.). That is, Imam Muhammad Taqi (a.s.), Imam Ali
 Naqi (a.s.) and Imam Hasan al-Askari (a.s.). This is a tradition from
 the Holy Prophet (s.a.) wherein he prophesies,
 
-<p dir="rtl">
 إذا تَوالَت أربعه أسماء مِنُ الأئمهِ مِن و.لدي, محمد و علي و الحسنْ
 فُرابِع.ها ه.و. القائم. المأمولُ » .« المنتظَر
-</p>
 
 “Whenever the names Muhammad, Ali and Hasan from the Imams from my
 progeny, are in sequence, then the fourth of them is al-Qaem (a.s.), the
@@ -212,5 +206,4 @@ of Allah the Almighty, purify the earth of polytheism, etc. It contains
 All the remaining sub-chapters of this chapter are related to the
 details of Imame- Zaman’s (a.t.f.s.) plan, which is irrelevant to our
 present discussion.
-
 

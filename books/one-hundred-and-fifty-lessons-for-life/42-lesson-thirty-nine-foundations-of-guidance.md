@@ -3,12 +3,8 @@ Lesson Thirty Nine: Foundations of Guidance
 
 Imam al-Jawad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْمُؤْمِنُ يَحْتاجُ إلى ثَلثِ خِصَال: توفيقٌ مِنَ اللّه، وَ وَاعِظٌ
-مِنْ نَفْسِهِ، وَ قَبُولٌ مِمَّنْ يَنْصَحُهُ
-  </p>
-</blockquote>
+> اَلْمُؤْمِنُ يَحْتاجُ إلى ثَلثِ خِصَال: توفيقٌ مِنَ اللّه، وَ وَاعِظٌ
+> مِنْ نَفْسِهِ، وَ قَبُولٌ مِمَّنْ يَنْصَحُهُ
 
 Translation
 -----------
@@ -29,5 +25,4 @@ and consultation of others.
 
 [^1]: Montahal-aamal, Mustadrak Alwasail, Volume 8, Page 329. Bihar
 Al-Anwar, Volume 72, page 329, Tuhaf AlUqul, page 457.
-
 

@@ -190,4 +190,3 @@ Afshar (1996), 143.
 
 [^6]: Ziba Mir-Hosseini (1996), 163.
 
-

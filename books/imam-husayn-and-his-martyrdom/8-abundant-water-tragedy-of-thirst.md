@@ -17,4 +17,3 @@ The English poet's lines*“Water, water everywhere, and not a drop to
 drink”* are brought home forcibly to you in this borderland between
 abundant water and desolate sands.
 
-

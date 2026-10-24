@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا مِنْ دَآبَّةٍ فِي الأََرْضِ إِلاَّ عَلَى اللهِ رِزْقُها
-  </p>
-</blockquote>
+> وَ مَا مِنْ دَآبَّةٍ فِي الأََرْضِ إِلاَّ عَلَى اللهِ رِزْقُها
 
 *“And there is no creature on the earth but on Allah is the sustenance
 of it.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-أََلرِّزْقُ يَطلُبُ الْعَبْدَ أَشَدُّ طَلَباً مِنْ أَجَلِهِ
-  </p>
-</blockquote>
+> أََلرِّزْقُ يَطلُبُ الْعَبْدَ أَشَدُّ طَلَباً مِنْ أَجَلِهِ
 
 *“Sustenance seeks a person more intensely than his death does.”*[^2]
 
@@ -62,11 +54,7 @@ a person. He has now been arrested so that he can be subjected to
 
 Allah says in the Noble Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ بَسَطَ اللٌّهُ الرِّزْقَ لِعِبادِهِ لَبَغَوْا فِي الأَرْضِ‏
-  </p>
-</blockquote>
+> وَ لَوْ بَسَطَ اللٌّهُ الرِّزْقَ لِعِبادِهِ لَبَغَوْا فِي الأَرْضِ‏
 
 “And if Allah should amplify the provision for His servants they would
 certainly revolt in the earth.”[^5]
@@ -88,12 +76,8 @@ himself in worship and asceticism instead. Hearing this, Imam Sadiq
 who stops working, go unanswered!”  
  During the time of the Noble Prophet (s.a.w), when the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَتَّقِ اللٌّهَ يَجْعَلْ لَهُ مَخْرَجاً وَ يَرْزُقْهُ مِنْ
-حَيْثُ لا يَحْتَسِبُ‏
-  </p>
-</blockquote>
+> وَ مَنْ يَتَّقِ اللٌّهَ يَجْعَلْ لَهُ مَخْرَجاً وَ يَرْزُقْهُ مِنْ
+> حَيْثُ لا يَحْتَسِبُ‏
 
 “And whoever is careful of (his duty to) Allah, He will make for him an
 outlet, and give him sustenance from whence he thinks not”[^7] was
@@ -143,21 +127,13 @@ sufficient and not excess)!”
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَا قَلَّ وَ كَفَى خَيْرٌ مِمَّا كَثُرَ وَ أَلْهَى
-  </p>
-</blockquote>
+> إِنَّ مَا قَلَّ وَ كَفَى خَيْرٌ مِمَّا كَثُرَ وَ أَلْهَى
 
 “A livelihood that is less but sufficient for (fulfilling the needs of)
 one's life is better than great riches that engrosses man in itself.” He
 (s.a.w) then supplicated:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ ارْزُقْ مُحَمَّداً وَ آلَ مُحَمَّدٍ الْكَفَافَ
-  </p>
-</blockquote>
+> اللَّهُمَّ ارْزُقْ مُحَمَّداً وَ آلَ مُحَمَّدٍ الْكَفَافَ
 
 “O' Lord! Grant Muhammad and his Progeny a sustenance in the measure
 that is just sufficient (for them).[^9]
@@ -260,5 +236,4 @@ and valuable stones.[^11]
 Mu’minin (as), alluding to the rule of the Buyids, had stated: يخرج من
 ديلمان بنو الصياد ... ثم يستقوي امرهم حتى يملكوا الزوراء و يخلعوا
 الخلفاء
-
 

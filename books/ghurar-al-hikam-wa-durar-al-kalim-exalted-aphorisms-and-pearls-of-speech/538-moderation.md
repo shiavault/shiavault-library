@@ -23,11 +23,7 @@ Moderation
 his expenses is lightened.
 
 > 5ـ خُذِ القَصْدَ فِي الأُمُورِ، فَمَنْ أخَذَ القَصْدَ خَفَّتْ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-المُؤَنُ.
-  </p>
-</blockquote>
+> المُؤَنُ.
 
 6. Our way is moderation and our practice is right guidance.
 
@@ -37,33 +33,21 @@ his expenses is lightened.
 moderation is unjust and one who takes to it is just.
 
 > 7ـ عَلَيْكَ بِالقَصْده فِي الأُمُورِ فَمَنْ عَدَلع عَنِ القَصْدِ جارَ،
-<blockquote dir="rtl">
-  <p>
-ومَنْ أخَذَ بِهِ عَدَلَ.
-  </p>
-</blockquote>
+> ومَنْ أخَذَ بِهِ عَدَلَ.
 
 8. Espouse moderation, for indeed it is the most helpful thing in
 attaining a fruitful life; and a person will never be destroyed until he
 prefers his lust over his faith.
 
 > 8ـ عَلَيْكَ بالقَصْدِ فَإنَّهُ أعْوَنُ شَيْء عَلى حُسْنِ العَيْشِ،
-<blockquote dir="rtl">
-  <p>
-ولَنْ يَهْلِكَ امْرُؤٌ حَتّى يُؤْثِرَ شَهْوَتَهُ عَلى دينِهِ.
-  </p>
-</blockquote>
+> ولَنْ يَهْلِكَ امْرُؤٌ حَتّى يُؤْثِرَ شَهْوَتَهُ عَلى دينِهِ.
 
 9. Espouse moderation in food, for indeed it is farther from
 extravagance, healthier for the body and more assisting in the
 performance of worship.
 
 > 9ـ عَلَيْكُمْ بِالقَصْدِ فِي المَطاعِمِ فَإنَّهُ أبْعَدُ مِنَ
-<blockquote dir="rtl">
-  <p>
-السَّرَفِ، وأصَحُّ لِلْبَدَنِ، وأعْوَنُ عَلَى العِبادَةِ.
-  </p>
-</blockquote>
+> السَّرَفِ، وأصَحُّ لِلْبَدَنِ، وأعْوَنُ عَلَى العِبادَةِ.
 
 10. The height of moderation is contentment.
 
@@ -93,31 +77,19 @@ performance of worship.
 himself for the calamities of time.
 
 > 16ـ مَنِ اقْتَصَدَ فِي الغِنى والفَقْرِ فَقَدِ اسْتَعَدَّ لِنَوائِبِ
-<blockquote dir="rtl">
-  <p>
-الدَّهْرِ.
-  </p>
-</blockquote>
+> الدَّهْرِ.
 
 17. Whoever adopts moderation, it will make his prosperity last and will
 make up for his poverty and deficiency.
 
 > 17ـ مَنْ صَحِبَ الاِقْتِصادَ دامَتْ صُحْبَةُ الغِنى لَهُ، وجَبَرَ
-<blockquote dir="rtl">
-  <p>
-الاِقْتِصادُ فَقْرَهُ وَخَلَلَهُ.
-  </p>
-</blockquote>
+> الاِقْتِصادُ فَقْرَهُ وَخَلَلَهُ.
 
 18. Being generous without extravagance and magnanimous without
 wastefulness is part of moderation.
 
 > 18ـ مِنَ الاِقْتِصادِ سَخاءٌ بِغَيْرِ سَرَف، ومُرُوَّةٌ بِغَيْرِ
-<blockquote dir="rtl">
-  <p>
-تَلَف.
-  </p>
-</blockquote>
+> تَلَف.
 
 19. There is no ruin with moderation.
 
@@ -130,5 +102,4 @@ wastefulness is part of moderation.
 21. Let your riding mount be moderation and your goal be right guidance.
 
 > 21ـ لِيَكُنْ مَرْكَبُكَ القَصْدَ، ومَطْلَبُكَ الرُّشْدَ.
-
 

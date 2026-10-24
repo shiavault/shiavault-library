@@ -4,23 +4,11 @@ Sermon 206: I dislike you starting to abuse them….
 During the battle of Siffin Amir al-mu'minin heard some of his men
 abusing the Syrians, then he said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد سمع قوماً من اصحابه يسبّون أهل الشام
-  </p>
-</blockquote>
+> وقد سمع قوماً من اصحابه يسبّون أهل الشام
 
-<blockquote dir="rtl">
-  <p>
-أيام حربهم بصفين
-  </p>
-</blockquote>
+> أيام حربهم بصفين
 
 I dislike you starting to abuse them, but if you describe their deeds
 and recount their situations that would be a better mode of speaking and
@@ -30,17 +18,13 @@ between us and them, and lead them out of their misguidance so that he
 who is ignorant of the truth may know it, and he who inclines towards
 rebellion and revolt may turn away from it."
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي أَكْرَهُ لَكُمْ أَنْ تَكُونُوا سَبَّابِينَ، وَلكِنَّكُمْ لَوْ
-وَصَفْتُمْ أَعْمَالَهُمْ، وَذَكَرْتُمْ حَالَهُمْ، كَانَ أَصْوَبَ فِي
-الْقَوْلِ، وَأَبْلَغَ فِي الْعُذْرِ، وَقُلْتُمْ مَكَانَ سَبِّكُمْ
-إِيَّاهُمْ: اللَّهُمَّ احْقِنْ دِمَاءَنَا وَدِمَاءَهُمْ، وَأَصْلِحْ
-ذَاتَ بَيْنِنَا وَبَيْنِهِمْ، وَاهْدِهِمْ مِنْ ضَلاَلَتِهِمْ، حَتَّى
-يَعْرِفَ الْحَقَّ مَنْ جَهِلَهُ، وَيَرْعَوِيَ عَنِ الْغَيِّ
-وَالْعُدْوَانِ مَنْ لَهِجَ بِهِ.
-  </p>
-</blockquote>
+> إِنِّي أَكْرَهُ لَكُمْ أَنْ تَكُونُوا سَبَّابِينَ، وَلكِنَّكُمْ لَوْ
+> وَصَفْتُمْ أَعْمَالَهُمْ، وَذَكَرْتُمْ حَالَهُمْ، كَانَ أَصْوَبَ فِي
+> الْقَوْلِ، وَأَبْلَغَ فِي الْعُذْرِ، وَقُلْتُمْ مَكَانَ سَبِّكُمْ
+> إِيَّاهُمْ: اللَّهُمَّ احْقِنْ دِمَاءَنَا وَدِمَاءَهُمْ، وَأَصْلِحْ
+> ذَاتَ بَيْنِنَا وَبَيْنِهِمْ، وَاهْدِهِمْ مِنْ ضَلاَلَتِهِمْ، حَتَّى
+> يَعْرِفَ الْحَقَّ مَنْ جَهِلَهُ، وَيَرْعَوِيَ عَنِ الْغَيِّ
+> وَالْعُدْوَانِ مَنْ لَهِجَ بِهِ.
 
 Alternative Sources for Sermon 206
 ----------------------------------
@@ -50,5 +34,4 @@ Alternative Sources for Sermon 206
 (2) Nasr, *Siffin,* 103;
 
 (3) Sibt ibn al-Jawzi, *Tadhkirah,* 154.
-
 

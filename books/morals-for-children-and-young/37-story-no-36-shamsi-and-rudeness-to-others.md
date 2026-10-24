@@ -13,4 +13,3 @@ absence which the God Almighty has strictly prohibited in the Holy
 Quran. And it is better if instead of backbiting, we improve our *own*
 actions.
 
-

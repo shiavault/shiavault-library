@@ -67,7 +67,6 @@ It is good to warn ourselves that the promises of Allah is not a game.
 When he implemens his plan, he will do as severe as he can, and Allah is
 the hard punishing God.
 
-
 **"Subject: Jews/Christians/Muslims (Part 3: Religious text books)**
 
 Another similarity among Jews/Christians/Muslims is about some of
@@ -129,10 +128,8 @@ practical differences right after the death of the prophet.) Such
 estimation is my personal data as a person who has read both shiat and
 sunni sources and others (such as Ahmadyya, and so and so).
 
-
 Source for above claims??? Read the articles which were sent to SRI
 about one month ago.
-
 
 **Subject: Re: What Muslims lack**
 
@@ -217,7 +214,6 @@ the son of God. There is no single word which says that Jesus is God, or
 there are three Gods. The announced, also, that Jesus was one prophet
 himself.
 
-
 Is this a backward?
 
 Your answer: No.
@@ -280,5 +276,4 @@ is NOT islam. Islam is over there, sitting and waiting for muslims to
 come and understand it. What muslims have done instead was to trust some
 scholars, and carry their hatred in their hearts, and FIGHT. This is
 what most people inheritated from their fathers.
-
 

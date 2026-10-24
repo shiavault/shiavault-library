@@ -339,4 +339,3 @@ p.372.
 
 [^12]: Muslim in his Sahih Part 12 p. 148.
 
-

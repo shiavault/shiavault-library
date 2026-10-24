@@ -16,4 +16,3 @@ gone for fun on a hunting trip.
 (Please note that Mu'awiya's brother was by the name of**Yazid** , and
 he had named his son after his brother.)
 
-

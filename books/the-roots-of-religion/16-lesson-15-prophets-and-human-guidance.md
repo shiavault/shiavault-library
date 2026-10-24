@@ -349,4 +349,3 @@ prophets?
 
 [^2]: Usul al-Kafi, Kitab al-Hujjah
 
-

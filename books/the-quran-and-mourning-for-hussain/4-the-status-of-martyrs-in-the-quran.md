@@ -60,4 +60,3 @@ restriction has been put on the heart, mind and tongue. To think or say
 to the contrary goes against the Quran. And how can one stay on the path
 of Islam if one contradicts the Quran?
 
-

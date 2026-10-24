@@ -32,14 +32,10 @@ up that, in spite of their being human beings, how did the prophets
 Many people have regarded the idea of creatures communicating with the
 Creator as one of the unbelievable things:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَى رَجُلٍ مِنْهُمْ
-أَنْ أَنْذِرِ النَّاسَ وَبَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ
-صِدْقٍ عِنْدَ رَبِّهِمْ قَالَ الْكَافِرُونَ إِنَّ هَذَا لَسَاحِرٌ
-مُبِينٌ ﴾
-  </p>
-</blockquote>
+> ﴿ أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَى رَجُلٍ مِنْهُمْ
+> أَنْ أَنْذِرِ النَّاسَ وَبَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ
+> صِدْقٍ عِنْدَ رَبِّهِمْ قَالَ الْكَافِرُونَ إِنَّ هَذَا لَسَاحِرٌ
+> مُبِينٌ ﴾
 
 ***Does it seem odd to these people that We have revealed to a man from
 among themselves, [declaring], ‘Warn mankind, and give good news to the
@@ -51,13 +47,9 @@ The Holy Qur’an describes God’s messages to the prophets (*‘a*) as
 word is applied in many cases in the Qur’an. This term is sometimes used
 to reference common individuals:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
-عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلا تَخَافِي وَلا تَحْزَنِي إِنَّا
-رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
+> عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلا تَخَافِي وَلا تَحْزَنِي إِنَّا
+> رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ ﴾
 
 ***“We revealed to Moses’ mother, [saying], ‘Nurse him; then, when you
 fear for him, cast him into the river, and do not fear nor grieve, for
@@ -65,23 +57,15 @@ We will restore him to you and make him one of the apostles.”***[^2]
 
 There are also times when it is applied to animals:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
-بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
+> بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ ﴾
 
 ***“And your Lord revealed to the bee [saying]: Make your home in the
 mountains, and on the trees and the trellises that they erect.”***[^3]
 
 Even inanimate objects sometimes receive “divine revelation”:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا ٭ بِأَنَّ رَبَّكَ أَوْحَى لَهَا ﴾
-  </p>
-</blockquote>
+> ﴿ يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا ٭ بِأَنَّ رَبَّكَ أَوْحَى لَهَا ﴾
 
 ***“On that day she (the earth) will relate her chronicles for her Lord
 will have inspired her.”***[^4]
@@ -96,15 +80,11 @@ recipient.
 There is also the guidance for mankind through revelation to special
 individuals chosen for this purpose:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوحٍ
-وَالنَّبِيِّينَ مِنْ بَعْدِهِ وَأَوْحَيْنَا إِلَى إِبْرَاهِيمَ
-وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأسْبَاطِ وَعِيسَى
-وَأَيُّوبَ وَيُونُسَ وَهَارُونَ وَسُلَيْمَانَ وَآتَيْنَا دَاوُدَ
-زَبُورًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوحٍ
+> وَالنَّبِيِّينَ مِنْ بَعْدِهِ وَأَوْحَيْنَا إِلَى إِبْرَاهِيمَ
+> وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالأسْبَاطِ وَعِيسَى
+> وَأَيُّوبَ وَيُونُسَ وَهَارُونَ وَسُلَيْمَانَ وَآتَيْنَا دَاوُدَ
+> زَبُورًا ﴾
 
 ***“We have indeed revealed to you as We revealed to Noah and the
 prophets after him, and [as] We revealed to Abraham and Ishmael, Isaac,
@@ -124,12 +104,8 @@ Revelation signifies the opening of a window to the unseen world and new
 horizons of the heaven of meaning to the prophets (*‘a*). Revelation
 came from God and the Apostle (*ṣ*) was not expecting it:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا كُنْتَ تَرْجُو أَنْ يُلْقَى إِلَيْكَ الْكِتَابُ إِلا رَحْمَةً
-مِنْ رَبِّكَ فَلا تَكُونَنَّ ظَهِيرًا لِلْكَافِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا كُنْتَ تَرْجُو أَنْ يُلْقَى إِلَيْكَ الْكِتَابُ إِلا رَحْمَةً
+> مِنْ رَبِّكَ فَلا تَكُونَنَّ ظَهِيرًا لِلْكَافِرِينَ ﴾
 
 ***“You did not expect that the Book would be delivered to you; but it
 was a mercy from your Lord.”***[^6]
@@ -159,11 +135,7 @@ regard to *waḥī*, however, the prophet only serves as the receiver of
 the message. He is an addressee of one who talks to with him. It is said
 that Jibra’īl (Archangel Gabriel) (*‘a*) was teaching the Prophet (ṣ):
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى ٭ عَلَّمَهُ شَدِيدُ الْقُوَى ﴾
-  </p>
-</blockquote>
+> ﴿ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى ٭ عَلَّمَهُ شَدِيدُ الْقُوَى ﴾
 
 ***“It is just a revelation that is revealed [to him], taught him by One
 of great powers.”***[^7]
@@ -193,13 +165,9 @@ such, as soon as he received a revelation, he would immediately recite
 it lest he forgot a word of it—even though God gave him assurance in
 this regard:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ وَلا تَعْجَلْ بِالْقُرْآنِ
-مِنْ قَبْلِ أَنْ يُقْضَى إِلَيْكَ وَحْيُهُ وَقُلْ رَبِّ زِدْنِي
-عِلْمًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ وَلا تَعْجَلْ بِالْقُرْآنِ
+> مِنْ قَبْلِ أَنْ يُقْضَى إِلَيْكَ وَحْيُهُ وَقُلْ رَبِّ زِدْنِي
+> عِلْمًا ﴾
 
 ***“So, exalted is Allah, the True Sovereign. Do not hasten with the
 Qur’an before its revelation is completed for you, and say, ‘My Lord!
@@ -211,12 +179,8 @@ and write. So, it cannot be entertained in the mind that their sayings
 were a product of their mystical intuition expressed in the language and
 culture of the time.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلا تَخُطُّهُ
-بِيَمِينِكَ إِذًا لارْتَابَ الْمُبْطِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلا تَخُطُّهُ
+> بِيَمِينِكَ إِذًا لارْتَابَ الْمُبْطِلُونَ ﴾
 
 ***“You did not use to recite any scripture before it, nor did you write
 it with your right hand, for then the impugners would have been
@@ -226,14 +190,10 @@ The divine revelation has been conveyed to the people in the form that
 it had been revealed to the Apostle (*ṣ*), and in order to remove any
 doubt about His Messenger (*ṣ*), God thus says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ ٭ وَلَوْ تَقَوَّلَ عَلَيْنَا
-بَعْضَ الأقَاوِيلِ ٭ لأخَذْنَا مِنْهُ بِالْيَمِينِ ٭ ثُمَّ لَقَطَعْنَا
-مِنْهُ الْوَتِينَ ٭ فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ ٭
-وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ ٭ وَلَوْ تَقَوَّلَ عَلَيْنَا
+> بَعْضَ الأقَاوِيلِ ٭ لأخَذْنَا مِنْهُ بِالْيَمِينِ ٭ ثُمَّ لَقَطَعْنَا
+> مِنْهُ الْوَتِينَ ٭ فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ ٭
+> وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ ﴾
 
 ***“[It is] gradually sent down from the Lord of all the worlds. Had he
 faked any sayings in Our name, We would have surely seized him by the
@@ -277,22 +237,14 @@ or reasoning and inference. Asking for proof of the authenticity of the
 prophets’ claims is something reasonable and wholesome that is usually
 requested by the people:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالُوا لَوْلا يَأْتِينَا بِآيَةٍ مِنْ رَبِّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالُوا لَوْلا يَأْتِينَا بِآيَةٍ مِنْ رَبِّهِ ﴾
 
 ***“They say, ‘Why does he not bring us a sign from his Lord?”***[^11]
 
 And whenever this inquiry stems from love of truth, God answers thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ثُمَّ أَرْسَلْنَا مُوسَى وَأَخَاهُ هَارُونَ بِآيَاتِنَا وَسُلْطَانٍ
-مُبِينٍ ﴾
-  </p>
-</blockquote>
+> ﴿ ثُمَّ أَرْسَلْنَا مُوسَى وَأَخَاهُ هَارُونَ بِآيَاتِنَا وَسُلْطَانٍ
+> مُبِينٍ ﴾
 
 ***“Then We sent Moses and Aaron, his brother, with Our signs and a
 manifest authority.”***[^12]
@@ -319,13 +271,9 @@ left.”[^13]
 
 Miracles are also mentioned in many verses of the Glorious Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ إِنْ كُنْتَ جِئْتَ بِآيَةٍ فَأْتِ بِهَا إِنْ كُنْتَ مِنَ
-الصَّادِقِينَ ٭ فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ ٭
-وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ إِنْ كُنْتَ جِئْتَ بِآيَةٍ فَأْتِ بِهَا إِنْ كُنْتَ مِنَ
+> الصَّادِقِينَ ٭ فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ ٭
+> وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ ﴾
 
 ***“He said, ‘If you have brought a sign, produce it, should you be
 truthful.’ Whereat he threw down his staff, and behold, it became a
@@ -334,12 +282,8 @@ the onlookers.”***[^14]
 
 Regarding the Holy Prophet (*ṣ*), it also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ٭ وَإِنْ يَرَوْا آيَةً
-يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ ﴾
-  </p>
-</blockquote>
+> ﴿ اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ٭ وَإِنْ يَرَوْا آيَةً
+> يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ ﴾
 
 ***“The Hour has drawn near and the moon is split. If they see a sign,
 they turn away, and say, ‘An incessant magic!’”***[^15]
@@ -381,25 +325,13 @@ hotness is not its essence for it is changeable. We have no power to
 change the precedents [*sunan*] of Allah, but God who has set these
 precedents in the first place can change them and say to the fire:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلامًا عَلَى إِبْرَاهِيمَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلامًا عَلَى إِبْرَاهِيمَ ﴾
 
 ***“We said, ‘O fire! Be cool and safe for Abraham!’”***[^17]
 
-<blockquote dir="rtl">
-  <p>
-گر تو خواهى آتش آب خوش شود
-  </p>
-</blockquote>
+> گر تو خواهى آتش آب خوش شود
 
-<blockquote dir="rtl">
-  <p>
-ور نخواهى آب هم آتش شود
-  </p>
-</blockquote>
+> ور نخواهى آب هم آتش شود
 
 *If You wish [to favor someone], fire can become pleasant water,*
 
@@ -560,12 +492,8 @@ its words are not exactly the words as revealed from God. According to
 His Will, God chose the Arabic language for the guidance of mankind
 during the last period of prophethood:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الر تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ ٭ إِنَّا أَنْزَلْنَاهُ
-قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ الر تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ ٭ إِنَّا أَنْزَلْنَاهُ
+> قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ ﴾
 
 ***“Alif, Lām, Rā. These are the signs of the Manifest Book. Indeed We
 have sent it down as an Arabic Qur’an so that you may apply
@@ -578,11 +506,7 @@ is available to us in the same form it was revealed to the first
 Muslims, and it has remained safe from any sort of distortion
 [*taḥrīf*]. This is based on the promise made by God to protect it:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴾
 
 ***“Indeed We have sent down the Reminder and indeed We will preserve
 it.”***[^21]
@@ -604,13 +528,9 @@ everyone but he had no prior talent in composing words of wisdom, and he
 knew neither how to read nor how to write. The Qur’an describes him as
 “uninstructed” [*ummī*]:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَآمِنُوا بِاللَّهِ وَرَسُولِهِ النَّبِيِّ الأمِّيِّ الَّذِي
-يُؤْمِنُ بِاللَّهِ وَكَلِمَاتِهِ وَاتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
-﴾
-  </p>
-</blockquote>
+> ﴿ فَآمِنُوا بِاللَّهِ وَرَسُولِهِ النَّبِيِّ الأمِّيِّ الَّذِي
+> يُؤْمِنُ بِاللَّهِ وَكَلِمَاتِهِ وَاتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
+> ﴾
 
 ***“So have faith in Allah and His Apostle, the uninstructed prophet,
 who has faith in Allah and His words, and follow him so that you may be
@@ -645,13 +565,9 @@ we are told that if we doubt the divine origin of the Qur’an, we should
 look for another person like Muḥammad (*ṣ*) who could compose similar
 words:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا
-فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ وَادْعُوا شُهَدَاءَكُمْ مِنْ دُونِ
-اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا
+> فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ وَادْعُوا شُهَدَاءَكُمْ مِنْ دُونِ
+> اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ ﴾
 
 ***“And if you are in doubt concerning what We have sent down to Our
 servant, then bring a sūrah like it, and invoke your helpers besides
@@ -660,13 +576,9 @@ Allah, should you be truthful.”***[^24]
 However, you cannot do so. In fact, even if all humans join together and
 help one another in whatever way possible, still they cannot do so:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ لَئِنِ اجْتَمَعَتِ الإنْسُ وَالْجِنُّ عَلَى أَنْ يَأْتُوا
-بِمِثْلِ هَذَا الْقُرْآنِ لا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
-بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ لَئِنِ اجْتَمَعَتِ الإنْسُ وَالْجِنُّ عَلَى أَنْ يَأْتُوا
+> بِمِثْلِ هَذَا الْقُرْآنِ لا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
+> بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا ﴾
 
 ***“Say, ‘Should all humans and jinn rally to bring the like of this
 Qur’an, they will not bring the like of it, even if they assisted one
@@ -755,12 +667,8 @@ man.
 While having no similitude whatsoever to any of His creatures, the God
 of the Qur’an[^27] is so close to man that He can hear his whisper:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ خَلَقْنَا الإنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ
-نَفْسُهُ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ خَلَقْنَا الإنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ
+> نَفْسُهُ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ ﴾
 
 ***“Certainly We have created man and We know to what his soul tempts
 him, and We are nearer to him than his jugular vein.”***[^28]
@@ -796,13 +704,9 @@ paradise or winning the pleasure of God. This important point is
 remarkably stressed in the moral training and edification of the Qur’an.
 Whenever the Qur’an invites a person to help others, it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-أَضْعَافًا كَثِيرَةً وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ
-تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> أَضْعَافًا كَثِيرَةً وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ
+> تُرْجَعُونَ ﴾
 
 ***“Who is it that will lend Allah a good loan that He may multiply it
 for him several fold? And Allah tightens and expands [the means of
@@ -839,11 +743,7 @@ it is tantamount to the denial of Islam. The Holy Prophet (*ṣ*) has
 mentioned this point many times. It is recorded that during the Tabūk
 Expedition, the Holy Prophet (*ṣ*) said to Imam ‘Alī (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-أما ترضىٰ أن تكون منّي بمنزلة هارون من موسىٰ إلاّ أنّه لانبيّ بعدي؟
-  </p>
-</blockquote>
+> أما ترضىٰ أن تكون منّي بمنزلة هارون من موسىٰ إلاّ أنّه لانبيّ بعدي؟
 
 **“Are you not satisfied that you are to me as Hārūn (Aaron) is to Mūsā
 (Moses) except that there will be no prophet after me?”**[^31]
@@ -854,13 +754,9 @@ thus there is no doubt about its authenticity [*ṣiḥah*]. More important
 than these narrations are the implicit, and at times explicit, verses of
 the Qur’an regarding this:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَكِنْ رَسُولَ
-اللَّهِ وَخَاتَمَ النَّبِيِّينَ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ
-عَلِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَكِنْ رَسُولَ
+> اللَّهِ وَخَاتَمَ النَّبِيِّينَ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ
+> عَلِيمًا ﴾
 
 ***“Muḥammad is not the father of any man among you, but he is the
 Apostle of Allah and the Seal of the Prophets, and Allah has knowledge
@@ -873,12 +769,8 @@ salvation. More explicit than this, however, are verses which indicate
 that Islam is the religion of God in its complete and final form and
 thus there is no need for the coming of another prophet:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الإسْلامَ دِينًا ﴾
-  </p>
-</blockquote>
+> ﴿ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الإسْلامَ دِينًا ﴾
 
 ***“Today I have perfected your religion for you, and I have completed
 My blessing upon you, and I have approved Islam as your
@@ -1086,5 +978,4 @@ Murtaḍā Muṭahharī, Khatm-e Nubuwwat [Finality of Prophethood] in his
 compendium of works, vol. 3, p. 151.
 
 [^36]: - Mujtahid: one who exercises or practices ijtihād. [Trans.]
-
 

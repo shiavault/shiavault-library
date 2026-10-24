@@ -2788,4 +2788,3 @@ ch. 44, hadīth 3.
 
 [^114]: Majma' ul-Bayān, vol. 1, p. 18.
 
-

@@ -111,4 +111,3 @@ himu 's-salam (may peace be upon him/her/them).
 
 [^6]: al-Kafi, vol.3, p.l70
 
-

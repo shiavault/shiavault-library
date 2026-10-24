@@ -609,4 +609,3 @@ East is lower than Oceana.
 
 [^32]: Al-Khulayni, al-Kafi, vol.4 p.152.
 
-

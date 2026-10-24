@@ -93,4 +93,3 @@ ch.1
 and Tirmidhī graded it hasan (fair) sahīh (sound) in his
 al-Jāmi‘-us-sahīh, b. of manāqib (merits) ch.57 (5:695\#3859).
 
-

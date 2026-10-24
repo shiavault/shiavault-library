@@ -581,4 +581,3 @@ Atheer-ud-Deen in his book *Usudul-Ghaba*; Halabi in his
 The traditionalists who have mentioned the events of Ghadeer­Khumm are
 Muslim, Nasai, Tirmidhi, Ibn Maja; Ahmad ibn Hanbal and Hakim.
 
-

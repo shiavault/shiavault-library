@@ -100,4 +100,3 @@ of suffering for the individual.
 they are valid, since the question still remains that why one evolved
 into that thing and the other into another thing.
 
-

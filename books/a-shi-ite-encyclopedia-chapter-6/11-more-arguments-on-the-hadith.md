@@ -273,7 +273,6 @@ seen above.
 
 **References**
 
-
 (1) al-Tafsir al-Kabir, by Fakhr al-Razi, Istanbul, 1307/1889-90
 (2) al-Durr al-Manthoor, by Jalaluddin Suyuti, 1377/1957
 (3) al-Jami' li Ahkam al-Quran, by Muhammad Ibn Ahmad Ibn Abi Bakr al-
@@ -307,7 +306,5 @@ Publications.
 (18) Temporary Marriage in Islamic Law, by Abul Qasim Gourji, rendered
 to English by Sachiko Murata.
 
-
 End of Chapter 6.a of the Shi'ite Encyclopedia v2.0
-
 

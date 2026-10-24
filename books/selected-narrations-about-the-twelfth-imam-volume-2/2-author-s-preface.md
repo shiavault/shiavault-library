@@ -545,4 +545,3 @@ the nation towards true responsibility.
 
 [^8]: Quran 26:89.
 
-

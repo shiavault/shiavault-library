@@ -20,11 +20,7 @@ The Meaning of Fear of God
 The First point in interpreting Divine fear and love is that the fear of
 God is indeed fear of committing sins and evil acts. Imam Ali (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"لا تَخَف الا ذنبك، لا ترجُ الا ربك"
-  </p>
-</blockquote>
+> "لا تَخَف الا ذنبك، لا ترجُ الا ربك"
 
 "Do not fear except of your own sins and do not hold out hope except in
 God."[^1]
@@ -58,13 +54,9 @@ fear of separation. For them the torment of separation from God is more
 painful than the Hellfire. Thus the leader of the friends of God, Amir
 al-Mu'minin Ali (a) laments in his supplication to God:
 
-<blockquote dir="rtl">
-  <p>
-"فلئن صيرتني للعقوبات مع أعدائك، وجمعت بيني وبين أهل بلائك وفرّقت بيني
-وبين أحبائك وأوليائك فهبني يا الهي وسيدي ومولاي وربي صبرت على عذابك
-فكيف أصبر على فراقك؟!"
-  </p>
-</blockquote>
+> "فلئن صيرتني للعقوبات مع أعدائك، وجمعت بيني وبين أهل بلائك وفرّقت بيني
+> وبين أحبائك وأوليائك فهبني يا الهي وسيدي ومولاي وربي صبرت على عذابك
+> فكيف أصبر على فراقك؟!"
 
 "So if you subject me to the punishments with Your enemies, gather me
 with the people of Your chastisement and separate me from Your friends
@@ -82,11 +74,7 @@ Ali (a) in supplication of Kumail:
 'Then suppose, my Allah... that I may… be able to endure Your
 chastisement, but how can I endure separation from You?'
 
-<blockquote dir="rtl">
-  <p>
-ووصلك منى نفسي وإليك شوقي ..
-  </p>
-</blockquote>
+> ووصلك منى نفسي وإليك شوقي ..
 
 And also in the supplication of Imam al-Sajjad (a): 'Joining Thee is the
 wish of my soul, and toward Thee is my yearning."[^4]
@@ -114,11 +102,7 @@ Friends of God have fear even though they perform their obligations.
 They fear lest their Beloved does not like them and does not accept
 them:
 
-<blockquote dir="rtl">
-  <p>
-(الذين يؤتون مآ أتوا وقلوبهم وجلة أنهم الى ربهم راجعون)
-  </p>
-</blockquote>
+> (الذين يؤتون مآ أتوا وقلوبهم وجلة أنهم الى ربهم راجعون)
 
 (And those who dispense their Charity with their hearts full of fear,
 because they will return to their Lord.) (al-Mu'minun: 60)
@@ -185,5 +169,4 @@ intimacy with Thee, Thy friends, and those who obey Thee!"
 [^4]: Psalms of Islam, p. 247.
 
 [^5]: Mathnawi of Taqdis: 215.
-
 

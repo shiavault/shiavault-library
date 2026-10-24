@@ -1,11 +1,7 @@
 Station of The Yememite Cloak
 =============================
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ : يا فاطِمَةُ إِيتيني بِالكِساءِ اليَمانِيِّ فَغَطّينِي بهِ .
-  </p>
-</blockquote>
+> فَقَالَ : يا فاطِمَةُ إِيتيني بِالكِساءِ اليَمانِيِّ فَغَطّينِي بهِ .
 
 What is the significance of the *Kisaa* (cloak)? It is a piece of cloth
 or sheet which the Prophet (SA) requested to cover him to ease his
@@ -45,11 +41,7 @@ Prophet (SA) resembles to his purified household, as narrated in the
 famous *Hadith As-Safinah* by Anas ibn Malik that the Messenger of Allah
 (SWT) said:
 
-<blockquote dir="rtl">
-  <p>
-"مثل أهل بيتى كمثل سفينة نوح من ركبها نجا ومن تخلف عنها غرق."
-  </p>
-</blockquote>
+> "مثل أهل بيتى كمثل سفينة نوح من ركبها نجا ومن تخلف عنها غرق."
 
 *Surely the likeness of my AhlulBayt is similar to Noah's Ark, whoever
 boards it will attain salvation and whoever remains behind is drowned.*
@@ -76,5 +68,4 @@ example of Archangel Jibrael (AS) who recognized that his station was no
 were close to that of the AhlulBayt (AS) despite his high rank in
 Allah’s eyes, yet he still expressed his devotion to them by seeking
 their unity and proximity.
-
 

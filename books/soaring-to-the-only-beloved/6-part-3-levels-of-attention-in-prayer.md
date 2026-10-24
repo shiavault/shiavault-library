@@ -10,20 +10,12 @@ heart does not confirm what his intellect says...
 
 The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَن لَّيْسَ لِلإنسَانِ إلاَّ مَا سَعَى
-  </p>
-</blockquote>
+> وَأَن لَّيْسَ لِلإنسَانِ إلاَّ مَا سَعَى
 
 ***And that a man shall have to his account only as he has
 labored.***[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
-  </p>
-</blockquote>
+> وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
 
 ***All have degrees***
 
@@ -128,5 +120,4 @@ its remedy and the correct method of its treatment.
 [^2]: Ibid., 6:132
 
 [^3]: Imam al-Khumayni, Sirr al-Salat, pp. 17-20
-
 

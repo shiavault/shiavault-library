@@ -1,25 +1,17 @@
 Right n. 10: The Right of the Prayer
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق الصلاة
-  </p>
-</blockquote>
+> حق الصلاة
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا حَقُّ الصَّلاةِ فَأَنْ تَعْلَمَ أنّهَا وِفَادَةٌ إلَى اللهِ
-وَأَنَّكَ قَائِمٌ بهَا بَيْنَ يَدَيِ اللهِ، فَإذَا عَلِمْتَ ذَلِكَ
-كُنْتَ خَلِيقًا أَنْ تَقُومَ فِيهَا مَقَامَ الذَّلِيلِ الرَّاغِب
-الرَّاهِب الْخَائِفِ الرَّاجِي الْمِسْكِينِ الْمُتَضَرِّعِ
-الْمُعَظِّمِ مَنْ قَامَ بَيْنَ يَدَيْهِ بالسُّكُونِ وَالإطْرَاقِ
-وَخُشُوعِ الأَطْرَافِ وَلِينِ الْجَنَاحَ وَحُسْنِ الْمُنَاجَاةِ لَهُ
-فِي نَفْسِهِ وَالطَّلَب إلَيْهِ فِي فَكَاكِ رَقَبَتِكَ الَّتِي
-أَحَاطَتْ بهِ خَطِيئَتُكَ وَاسْتَهلَكَتْهَا ذُنُوبُكَ. وَلا قُوَّةَ
-إلا باللهِ.
-  </p>
-</blockquote>
+> فَأَمَّا حَقُّ الصَّلاةِ فَأَنْ تَعْلَمَ أنّهَا وِفَادَةٌ إلَى اللهِ
+> وَأَنَّكَ قَائِمٌ بهَا بَيْنَ يَدَيِ اللهِ، فَإذَا عَلِمْتَ ذَلِكَ
+> كُنْتَ خَلِيقًا أَنْ تَقُومَ فِيهَا مَقَامَ الذَّلِيلِ الرَّاغِب
+> الرَّاهِب الْخَائِفِ الرَّاجِي الْمِسْكِينِ الْمُتَضَرِّعِ
+> الْمُعَظِّمِ مَنْ قَامَ بَيْنَ يَدَيْهِ بالسُّكُونِ وَالإطْرَاقِ
+> وَخُشُوعِ الأَطْرَافِ وَلِينِ الْجَنَاحَ وَحُسْنِ الْمُنَاجَاةِ لَهُ
+> فِي نَفْسِهِ وَالطَّلَب إلَيْهِ فِي فَكَاكِ رَقَبَتِكَ الَّتِي
+> أَحَاطَتْ بهِ خَطِيئَتُكَ وَاسْتَهلَكَتْهَا ذُنُوبُكَ. وَلا قُوَّةَ
+> إلا باللهِ.
 
 **Then the right of your ritual prayer is that you should know that it
 is an arrival at the threshold of God and that through it you are
@@ -57,13 +49,9 @@ Times of the Prayer
 There are verses in the Holy Qur’an that specify the times of the
 prayer. Consider the following verse in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ
-إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ذَلِكَ ذِكْرَى
-لِلذَّاكِرِينَ
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ
+> إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ذَلِكَ ذِكْرَى
+> لِلذَّاكِرِينَ
 
 ***“And establish regular prayers at the two ends of the day and at the
 approaches of the night: For those things, that are good remove those
@@ -73,12 +61,8 @@ that are evil: Be that the word of remembrance to those who remember
 This verse refers to the morning, evening and night prayers. Also,
 consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
-الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
-  </p>
-</blockquote>
+> أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
+> الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
 
 ***“Establish regular prayers - at the sun's decline till the darkness
 of the night, and the morning prayer and reading: for the prayer and
@@ -88,12 +72,8 @@ Israil 17:78]***
 This verse refers to all the five daily prayers. Also, consider the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-حَافِظُواْ عَلَى الصَّلَوَاتِ والصَّلاَةِ الْوُسْطَى وَقُومُواْ لِلّهِ
-قَانِتِينَ
-  </p>
-</blockquote>
+> حَافِظُواْ عَلَى الصَّلَوَاتِ والصَّلاَةِ الْوُسْطَى وَقُومُواْ لِلّهِ
+> قَانِتِينَ
 
 ***“Guard strictly your (habit of) prayers, especially the Middle
 Prayer; and stand before God in a devout (frame of mind).” [The Holy
@@ -109,13 +89,9 @@ looked at the people and asked: Do you know which verse of the Holy
 Qur’an is the most hopeful one? Some people said it was the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَلِكَ لِمَن يَشَاء وَمَن يُشْرِكْ بِاللّهِ فَقَدِ افْتَرَى إِثْمًا
-عَظِيما
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَلِكَ لِمَن يَشَاء وَمَن يُشْرِكْ بِاللّهِ فَقَدِ افْتَرَى إِثْمًا
+> عَظِيما
 
 ***“God forgiveth not that partners should be set up with Him; but He
 forgiveth anything else, to whom He pleaseth; to set up partners with
@@ -124,12 +100,8 @@ God is to devise a sin most heinous indeed.” [The Holy Qur’an, al-Nisaa
 
 The Imam said no. Others said it was the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللّهَ
-يَجِدِ اللّهَ غَفُورًا رَّحِيمًا
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللّهَ
+> يَجِدِ اللّهَ غَفُورًا رَّحِيمًا
 
 ***“If anyone does evil or wrongs his own soul but afterwards seeks
 God's forgiveness, he will find God Oft-forgiving, Most Merciful.” [The
@@ -138,13 +110,9 @@ Holy Qur’an, al-Nisaa 4:110]***
 Again, Imam Ali said: No, that is not what I mean. Others said it was
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنفُسِهِمْ لَا
-تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنفُسِهِمْ لَا
+> تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
 
 ***“Say: "O my Servants who have transgressed against their souls!
 Despair not of the Mercy of God: for God forgives all sins: for He is
@@ -154,13 +122,9 @@ Again, Imam Ali said no. Then the people asked him which verse it was.
 Imam Ali said: I heard God’s Prophet say that the most hopeful verse
 is:[^3]
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ
-إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ذَلِكَ ذِكْرَى
-لِلذَّاكِرِينَ
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ
+> إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ذَلِكَ ذِكْرَى
+> لِلذَّاكِرِينَ
 
 ***“And establish regular prayers at the two ends of the day and at the
 approaches of the night: For those things that are good remove those
@@ -173,12 +137,8 @@ Moses was Appointed to Establish Prayers
 Now consider the following verse which shows that Moses was appointed to
 establish regular prayers.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَى إِنَّنِي أَنَا اللَّهُ
-لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي
-  </p>
-</blockquote>
+> وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَى إِنَّنِي أَنَا اللَّهُ
+> لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي
 
 ***“I have chosen thee: listen, then, to the inspiration (sent to thee).
 Verily, I am God: There is no god but I: So serve thou Me (only), and
@@ -210,12 +170,8 @@ night, and remembers God in his soul. God has stressed that the purpose
 for the prayer is to remember Him. In another verse, He has stated that
 His remembrance is the only means of the purification of our hearts:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُواْ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللّهِ أَلاَ
-بِذِكْرِ اللّهِ تَطْمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُواْ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللّهِ أَلاَ
+> بِذِكْرِ اللّهِ تَطْمَئِنُّ الْقُلُوبُ
 
 ***“Those who believe, and whose hearts find satisfaction in the
 remembrance of God: for without doubt in the remembrance of God do
@@ -227,13 +183,9 @@ Remember God in All Circumstances
 The importance of remembering God in all circumstances is expressed in
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَضَيْتُمُ الصَّلاَةَ فَاذْكُرُواْ اللّهَ قِيَامًا وَقُعُودًا
-وَعَلَى جُنُوبِكُمْ فَإِذَا اطْمَأْنَنتُمْ فَأَقِيمُواْ الصَّلاَةَ
-إِنَّ الصَّلاَةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا
-  </p>
-</blockquote>
+> فَإِذَا قَضَيْتُمُ الصَّلاَةَ فَاذْكُرُواْ اللّهَ قِيَامًا وَقُعُودًا
+> وَعَلَى جُنُوبِكُمْ فَإِذَا اطْمَأْنَنتُمْ فَأَقِيمُواْ الصَّلاَةَ
+> إِنَّ الصَّلاَةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا
 
 ***“When ye pass (congregational) prayers, celebrate God's praises,
 standing, sitting down, or lying down on your sides; but when ye are
@@ -283,12 +235,8 @@ affair. We must believe that the life of the Hereafter is preferable to
 that of this world since it is eternal and free from trouble as we read
 in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ
-الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ
+> الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
 
 ***“What is the life of this world but amusement and play? But verily
 the Home in the Hereafter, - that is life indeed, if they but knew.”
@@ -296,11 +244,7 @@ the Home in the Hereafter, - that is life indeed, if they but knew.”
 
 We read in another place in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالْآخِرَةُ خَيْرٌ وَأَبْقَى
-  </p>
-</blockquote>
+> وَالْآخِرَةُ خَيْرٌ وَأَبْقَى
 
 ***“But the Hereafter is better and more enduring.” [The Holy Qur’an,
 al-A’la 87:17]***
@@ -368,13 +312,9 @@ book, and complied the three thousand recommended points about prayer in
 another book.” Then he points out an important philosophy behind the
 prayer that is expressed in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ إِنَّ
-الصَّلَاةَ تَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَلَذِكْرُ اللَّهِ
-أَكْبَرُ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ
-  </p>
-</blockquote>
+> اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ إِنَّ
+> الصَّلَاةَ تَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَلَذِكْرُ اللَّهِ
+> أَكْبَرُ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ
 
 ***“Recite what is sent of the Book by inspiration to thee, and
 establish regular Prayer: for Prayer restrains from shameful and unjust
@@ -420,11 +360,7 @@ This is a point of human perfection for which we strive. The late Imam
 Khomeini said the following about the secrets behind standing, bowing
 down and prostrating in prayer:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاةُ قُربَانُ كُلِّ تَقِيٍّ.
-  </p>
-</blockquote>
+> الصَّلاةُ قُربَانُ كُلِّ تَقِيٍّ.
 
 *“Prayer is a pious believer’s means of approach (to God).”*
 
@@ -449,11 +385,7 @@ wickedness. That is why the Holy Qur’an praises the believers for the
 good characteristics that they attain as we read in the following
 verses:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُون الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُون الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ
 
 ***“The believers must (eventually) win through - those who humble
 themselves in their prayers.” [The Holy Qur’an,*** ***al-Muminun
@@ -480,11 +412,7 @@ The first factor that yields humbleness is recognition of the Majesty of
 God and the minuteness of the world. Imam Ali has indicated in *Nahjul
 Balaghah* that one of the signs of the pious people is:
 
-<blockquote dir="rtl">
-  <p>
-عَظُمَ الخَالِقُ في أنْفُسِهِم فَصَغُرَ ما دُونَهُ في أعْيُنِهِم.
-  </p>
-</blockquote>
+> عَظُمَ الخَالِقُ في أنْفُسِهِم فَصَغُرَ ما دُونَهُ في أعْيُنِهِم.
 
 *“Once the Creator was recognized to be Majestic by them, everything
 else seemed small to them.”*[^13]
@@ -512,24 +440,16 @@ alone bothers us. The worst form of punishment for man is to imprison
 him in an individual cell. Man has two kinds of responsibilities - that
 is individual and social responsibility. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
 
 ***“Every soul will be (held) in pledge for its deeds.” [The Holy
 Qur’an, al-Muddath’thir 74:38]***
 
 We also read the following verse in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللّهِ وَمَا أَصَابَكَ مِن
-سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولاً وَكَفَى
-بِاللّهِ شَهِيدًا
-  </p>
-</blockquote>
+> مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللّهِ وَمَا أَصَابَكَ مِن
+> سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولاً وَكَفَى
+> بِاللّهِ شَهِيدًا
 
 ***“Whatever good, (O man!) happens to thee is from God; but whatever
 evil happens to thee, is from thy (own) soul. And We have sent thee as
@@ -540,11 +460,7 @@ When we consider social responsibility, it is not the individual that is
 important. The society is important, and we must consider what social
 responsibility individuals have. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ.
-  </p>
-</blockquote>
+> كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ.
 
 *“Each one of you is a ruler, and each one of you is responsible for his
 subjects.”*
@@ -586,11 +502,7 @@ Man cannot approach God unless he eliminates his wicked traits and
 characteristics and prepares himself for the development of noble
 characteristics. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَن تَزَكَّى وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَن تَزَكَّى وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى
 
 ***“But those will prosper who purify themselves and glorify the name of
 their Guardian-Lord, and (lift their hearts) in prayer.” [The Holy
@@ -600,11 +512,7 @@ Praying is the means of morally purifying oneself. Continued praying
 will help educate us in a good moral way, and restrains us from shameful
 deeds. We read in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلَاةَ تَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ
-  </p>
-</blockquote>
+> إِنَّ الصَّلَاةَ تَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ
 
 ***“…For Prayer restrains from shameful and unjust deeds…” [The Holy
 Qur’an, al-Ankabut 29:45]***
@@ -612,13 +520,9 @@ Qur’an, al-Ankabut 29:45]***
 Praying will uproot wickedness from man, and plant nobilities instead.
 The following verses stress this very point:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا إذا مَسَّهُ الشَّرُّ جَزُوعاً و إذا
-مَسَّهُ الخَيْرِ مَنُوعاً الّامُصَلِين الَّذِينَ هُمْ عَلَى
-صَلَاتِهِمْ دَائِمُونَ
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا إذا مَسَّهُ الشَّرُّ جَزُوعاً و إذا
+> مَسَّهُ الخَيْرِ مَنُوعاً الّامُصَلِين الَّذِينَ هُمْ عَلَى
+> صَلَاتِهِمْ دَائِمُونَ
 
 ***“Truly man was created very impatient - fretful when evil touches
 him, and niggardly when good reaches him. Not so those devoted to
@@ -729,12 +633,8 @@ the Heaven for those who obey Him whether they are a servant or a
 Tunisian slave. God has created Hell for those who commit sins - even if
 they are masters from the Quraysh tribe. Have you not heard God say?
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نُفِخَ فِي الصُّورِ فَلَا أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا
-يَتَسَاءلُونَ
-  </p>
-</blockquote>
+> فَإِذَا نُفِخَ فِي الصُّورِ فَلَا أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا
+> يَتَسَاءلُونَ
 
 ***“Then when the Trumpet is blown, there will be no more relationships
 between them that Day, nor will one ask after another!” [The Holy
@@ -753,14 +653,10 @@ deeds. Now let us see how the Prophet of God represents praying as a
 means of forgiveness of our sins. Abi Basir quoted on the authority of
 Imam Baqir , on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-لَو كَانَ عَلى بَابِ دَارِ أَحَدِكُم نَهَرٌ وَاغْتَسَلَ في كُلِّ
-يَوْمٍ مِنهُ خَمْسَ مَرَّاتٍ أكانَ يَبْقى في جَسَدِه مِن الدَّرَنِ
-شَيءٌ؟ (قلت: لا. قال) فإنَّ مَثَلَ الصَّلاةِ كَمَثَلِ النَّهَرِ
-الجارِي؛ كُلَّما صَلّى صَلاةً كَفَّرَتْ ما بَيْنَهُما مِن الذُّنُوبِ.
-  </p>
-</blockquote>
+> لَو كَانَ عَلى بَابِ دَارِ أَحَدِكُم نَهَرٌ وَاغْتَسَلَ في كُلِّ
+> يَوْمٍ مِنهُ خَمْسَ مَرَّاتٍ أكانَ يَبْقى في جَسَدِه مِن الدَّرَنِ
+> شَيءٌ؟ (قلت: لا. قال) فإنَّ مَثَلَ الصَّلاةِ كَمَثَلِ النَّهَرِ
+> الجارِي؛ كُلَّما صَلّى صَلاةً كَفَّرَتْ ما بَيْنَهُما مِن الذُّنُوبِ.
 
 *“If there was a flowing river right beside your house in which you
 washed yourself five times each day, would any dirt remain on your
@@ -774,16 +670,12 @@ The Commander of the Faithful also said the following that is recorded
 in *Nahjul Balaghah*:  
  He advised his companions as follows:
 
-<blockquote dir="rtl">
-  <p>
-تَعَاهَدوا أَمْرَ الصَّلاةِ وَحَافِظوا عَلَيْها وَاسْتَكْثِروا مِنْها
-وَتَقَرَّبوا بِها فَإنَّها كَانَتْ عَلى المُؤمِنِينَ كِتاباً
-مَوقُوتاً. ألا تَسْمَعُونَ إلى جَوابِ أهْلِ النَّارِ حِينَ سُئِلوا:
-مَا سَلَكَكُمْ في سَقَرٍ؟ قَالُوا لَمْ نَكُ مِنَ المُصَلِّينَ.
-وَإنهَّا لَتَحُطُّ الذُّنُوبَ حَطَّ الوَرَقِ وَتُطْلِقُهَا إطْلاقَ
-الرَّبْقِ.
-  </p>
-</blockquote>
+> تَعَاهَدوا أَمْرَ الصَّلاةِ وَحَافِظوا عَلَيْها وَاسْتَكْثِروا مِنْها
+> وَتَقَرَّبوا بِها فَإنَّها كَانَتْ عَلى المُؤمِنِينَ كِتاباً
+> مَوقُوتاً. ألا تَسْمَعُونَ إلى جَوابِ أهْلِ النَّارِ حِينَ سُئِلوا:
+> مَا سَلَكَكُمْ في سَقَرٍ؟ قَالُوا لَمْ نَكُ مِنَ المُصَلِّينَ.
+> وَإنهَّا لَتَحُطُّ الذُّنُوبَ حَطَّ الوَرَقِ وَتُطْلِقُهَا إطْلاقَ
+> الرَّبْقِ.
 
 *“Adhere to praying and guard it. Pray a lot and seek nearness to God
 through it, for prayer* ***“..is indeed a timed prescription for the
@@ -834,5 +726,4 @@ quoted from Asrar al-Salat, pp.176-177.
 [^18]: Bihar al-Anwar, v.46, pp.81-82.
 
 [^19]: Wasa’il al-Shi’ah, v.3, p.7, Tradition no.3.
-
 

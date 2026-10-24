@@ -1,11 +1,7 @@
 The Twenty Fourth Talk
 ======================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 Bismillahir Rahman ir Rahim
 
@@ -300,5 +296,4 @@ These facts sound incredible, but are only based on the Will of Allah
 It is among the *Mustahabbat* of our faith that on the Day of Judgement,
 *Shafa’at al-Kubra* (the Major Intercession) will be in the hands of
 Hadrat Fatima Zahra (s.a.)
-
 

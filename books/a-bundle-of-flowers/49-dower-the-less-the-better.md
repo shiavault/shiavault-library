@@ -27,4 +27,3 @@ thirty Dirhams."
 
 Wasa'il-ush Shi'ah, vol. 21, p. 251
 
-

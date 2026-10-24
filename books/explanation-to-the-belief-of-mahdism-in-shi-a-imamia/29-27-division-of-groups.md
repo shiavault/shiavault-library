@@ -82,4 +82,3 @@ This authority is vested in the person of Mahdi, the Imam of our time.
 The Shia cannot ignore the Imam. Here ends the circuit of fictitious
 sects.
 
-

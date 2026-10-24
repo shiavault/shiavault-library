@@ -234,7 +234,6 @@ Creator of the system.
 Just as when speaking, it is a person alone who expresses himself, the
 Expresser of the system is also One and Alone in His creation.
 
-
 **Lesson 6 : God in The Mirror Of Nature**
 
 **What is Nature?**
@@ -424,5 +423,4 @@ an environment that was against this or vice versa.
 In conclusion, we can say that all worshipping systems that exist
 preach humility and submission to One Supreme Being. This conforms to
 the nature of humanity.
-
 

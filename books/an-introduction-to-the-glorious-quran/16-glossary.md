@@ -198,4 +198,3 @@ telling stories and giving comments. The history of the collection of
 the Glorious Qur’an, Sayyid Muhammad Rida Jalali Na'ini (Farsi), 1365
 S.H.C. (1986), p 313
 
-

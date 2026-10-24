@@ -304,4 +304,3 @@ Al-Amali by al-Tusi: pp 521, al-majlis no. 16, hadith no. 55.
 
 [^21]: Holy Qur’an, 14: 27.
 
-

@@ -85,7 +85,6 @@ Khadija was born with Qalb Saleem or the "sound heart" such as only the
 chosen ones of Allah are born with. It was a heart brimming with deep
 convictions, dedication to Islam, and love for and gratitude to Allah.
 
-
 **Chapter 15 : Khadija's Generosity**
 
 Khadija, the princess of Arabia, and Muhammed Mustafa were married in
@@ -137,7 +136,6 @@ it is most probable that Khadija equipped the caravans and financed the
 emigration of the Muslims from Makka to Abyssinia. In Makka, she alone
 had the resources with which to underwrite emigration of Muslims on such
 a scale.
-
 
 **Chapter 16 : Khadija and Muhammed Mustafa**
 
@@ -202,7 +200,6 @@ contribution she made to the work of her husband as messenger of God.
 She was the fulcrum that he needed, in the words of A. Yusuf Ali, "all
 through his years of preparation." The years before the Proclamation of
 Islam, were his "years of preparation" for the prophethood.
-
 
 **Yusuf Ali**
 
@@ -369,5 +366,4 @@ guided by Allah Ta'ala Himself. She could, therefore, never misjudge.
 When she met Muhammed, the future Prophet, she recognized in him the
 Ultimate in Sublimity, and she put her destiny in his blessed hands.
 Those hands elevated her destiny, and made it Sublime.
-
 

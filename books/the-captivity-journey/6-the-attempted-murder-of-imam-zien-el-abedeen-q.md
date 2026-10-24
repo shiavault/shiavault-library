@@ -25,4 +25,3 @@ said to Shamer: "You had enough of our blood! By Allah, I shall never
 separate from him, if you want to kill him you shall kill me as well!"
 She (O) had repeated this great heroic act in many occasions.
 
-

@@ -22,4 +22,3 @@ create an atmosphere of mutual suspicion and hostility amongst Muslims
 that provided an opportunity to the enemies of Islam and Muslims to
 divide Muslims for their own advantage.
 
-

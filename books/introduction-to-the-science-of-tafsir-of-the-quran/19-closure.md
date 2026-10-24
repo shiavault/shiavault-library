@@ -8,13 +8,9 @@ Talib (‘a) sent Ibne Abbas towards the Khawarij (a group of individuals
 who had in fact, left the faith of Islam due to their deviant beliefs)
 to debate with them, however offered him the following advice:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُخَاصِمْهُمْ بِالْقُرْآنِ فَإِنَّ الْقُرْآنَ حَمَّالٌ ذُو وُجُوهٍ
-تَقُولُ وَ يَقُولُونَ... وَ لٌكِنْ حَاجِجْهُمْ بِالسُّـنَّةِ
-فَإِنَّهُمْ لَنْ يَجِدُوا عَنْهَا مَحِيصاً.
-  </p>
-</blockquote>
+> لاَ تُخَاصِمْهُمْ بِالْقُرْآنِ فَإِنَّ الْقُرْآنَ حَمَّالٌ ذُو وُجُوهٍ
+> تَقُولُ وَ يَقُولُونَ... وَ لٌكِنْ حَاجِجْهُمْ بِالسُّـنَّةِ
+> فَإِنَّهُمْ لَنْ يَجِدُوا عَنْهَا مَحِيصاً.
 
 “(O’ Ibne Abbas!) In your debates and discussions with them (the
 Khawarij), never resort to replying to them with the Qur\`an, since
@@ -49,5 +45,4 @@ Writing completed on the
 [ 2nd November, 1983 ce ]
 
 [^1]: Nahjul Balagha, Letter 77
-
 

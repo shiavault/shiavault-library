@@ -386,4 +386,3 @@ It is from this door that the members of Ahlul Bayt entered when they
 were taken to Shaam. They had to wait for 36 hours so that the court
 could be decorated before they entered.
 
-

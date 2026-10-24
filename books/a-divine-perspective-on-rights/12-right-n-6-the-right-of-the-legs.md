@@ -1,20 +1,12 @@
 Right n. 6: The Right of the Legs
 =================================
 
-<blockquote dir="rtl">
-  <p>
-حق الرجلين
-  </p>
-</blockquote>
+> حق الرجلين
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ رِجْلَيْكَ فَأَنْ لا تَمْشِي بهِمَا إلَى مَا لا يَحِلُّ
-لَكَ وَلا تَجْعَلْهُمَا مَطِيَّتَكَ فِي الطَّرِيقِ الْمُسْتَخِفَّةِ
-بأَهْلِهَا فِيهَا فَإنَّهَا حَامِلَتُكَ وَسَالِكَةٌ بكَ مَسْلَكَ
-الدِّينِ وَالسَّبْقُ لَكَ، وَلا قُوَّةَ إلا بالله.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ رِجْلَيْكَ فَأَنْ لا تَمْشِي بهِمَا إلَى مَا لا يَحِلُّ
+> لَكَ وَلا تَجْعَلْهُمَا مَطِيَّتَكَ فِي الطَّرِيقِ الْمُسْتَخِفَّةِ
+> بأَهْلِهَا فِيهَا فَإنَّهَا حَامِلَتُكَ وَسَالِكَةٌ بكَ مَسْلَكَ
+> الدِّينِ وَالسَّبْقُ لَكَ، وَلا قُوَّةَ إلا بالله.
 
 **And the right of your legs is that you walk not with them toward that
 which is unlawful for you. And you should not direct them in the way
@@ -24,13 +16,9 @@ go ahead. And there is no power but in God.**[^1]
 
 Almighty God says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَا أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَا
-أَمْ لَهُمْ أَعْيُنٌ يُبْصِرُونَ بِهَا أَمْ لَهُمْ آذَانٌ يَسْمَعُونَ
-بِهَا قُلِ ادْعُواْ شُرَكَاءكُمْ ثُمَّ كِيدُونِ فَلاَ تُنظِرُونِ
-  </p>
-</blockquote>
+> أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَا أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَا
+> أَمْ لَهُمْ أَعْيُنٌ يُبْصِرُونَ بِهَا أَمْ لَهُمْ آذَانٌ يَسْمَعُونَ
+> بِهَا قُلِ ادْعُواْ شُرَكَاءكُمْ ثُمَّ كِيدُونِ فَلاَ تُنظِرُونِ
 
 ***“Have they feet to walk with? Or hands to lay hold with? Or eyes to
 see with? Or ears to hear with? Say: "Call your 'god-partners', scheme
@@ -39,13 +27,9 @@ al-A’raf 7:195]***
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ كُلُواْ مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
-وَلاَ تَتَّبِعُواْ خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
-مُّبِينٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ كُلُواْ مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
+> وَلاَ تَتَّبِعُواْ خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
+> مُّبِينٌ
 
 ***“O ye people! Eat of what is on earth, lawful and good; and do not
 follow the footsteps of the evil one, for he is to you an avowed enemy.”
@@ -59,12 +43,8 @@ servants in Chapter Furqan of the Holy Qur’an. The first of these
 characteristics is regarding the way they walk as we read in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الَْأرْضِ هَوْنًا
-وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلامًا
-  </p>
-</blockquote>
+> وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الَْأرْضِ هَوْنًا
+> وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلامًا
 
 ***“And the servants of (God) Most Gracious are those who walk on the
 earth in humility, and when the ignorant address them, they say,
@@ -81,12 +61,8 @@ God’s Important Decree on This Issue
 
 The following verse revealed an important decree to the Prophet :
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَمْشِ فِي الأَرْضِ مَرَحًا إِنَّكَ لَن تَخْرِقَ الأَرْضَ وَلَن
-تَبْلُغَ الْجِبَالَ طُولاً
-  </p>
-</blockquote>
+> وَلاَ تَمْشِ فِي الأَرْضِ مَرَحًا إِنَّكَ لَن تَخْرِقَ الأَرْضَ وَلَن
+> تَبْلُغَ الْجِبَالَ طُولاً
 
 ***“Nor walk on the earth with insolence: for thou canst not rend the
 earth asunder, nor reach the mountains in height.” [The Holy Qur’an,
@@ -106,13 +82,9 @@ The Prophet called the people and said: Do you want me to introduce to
 you the very insane? Everyone was quiet and listened whole-heartedly.
 Then the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-المُتَبَخْتِرُ في مَشْيِهِ، النّاظِرُ في عِطْفَيهِ، المحُرّكُ
-جَنْبَيهِ بِمِنْكَبَيهِ الّذي لا يُرجَى خَيرُهُ ولا يُؤمَنُ شَرُّهُ
-فَذلكَ المجَنُونُ، وَهذا المُبْتَلى.
-  </p>
-</blockquote>
+> المُتَبَخْتِرُ في مَشْيِهِ، النّاظِرُ في عِطْفَيهِ، المحُرّكُ
+> جَنْبَيهِ بِمِنْكَبَيهِ الّذي لا يُرجَى خَيرُهُ ولا يُؤمَنُ شَرُّهُ
+> فَذلكَ المجَنُونُ، وَهذا المُبْتَلى.
 
 *The one who walks with pride, constantly looks on either side and
 throws up his shoulders as he walks, from whom good is not expected and
@@ -129,13 +101,9 @@ The Way the Prophet Walked
 There is a section on the way the Prophet walked in Makarim ul-Akhlaq.
 In one tradition in this section we read: Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ رَسُولُ اللهِ صَلّى اللهُ عَلَيهِ وَآلِه إذا مَشى تَكَفّأَ
-تَكَفّؤاً كَأنَّمَا يَتَقَلَّعُ مِن صَبَبٍ، لمَ أَرَ قَبْلَهُ وَلا
-بَعْدَهُ مِثْلَهُ.
-  </p>
-</blockquote>
+> كَانَ رَسُولُ اللهِ صَلّى اللهُ عَلَيهِ وَآلِه إذا مَشى تَكَفّأَ
+> تَكَفّؤاً كَأنَّمَا يَتَقَلَّعُ مِن صَبَبٍ، لمَ أَرَ قَبْلَهُ وَلا
+> بَعْدَهُ مِثْلَهُ.
 
 *“When the Prophet walked he inclined forwards as if he was going
 downhill (even though he was not in a hurry). I never saw anyone else
@@ -143,13 +111,9 @@ walk this way before or after him.”*[^4]
 
 One of the companions of the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَا رَأيْتُ أَحَداً أَسْرَعَ في مَشْيَتِهِ مِنْ رَسُولِ الله صَلّى
-اللهُ عَلَيهِ وَآلِه كَأَنَّما الأرْضُ تُطْوَى لهُ وإنّا لَنَجْهَدُ
-أنفُسَنا وَإنّه لغَيرُ مُكْتَرِثٍ.
-  </p>
-</blockquote>
+> مَا رَأيْتُ أَحَداً أَسْرَعَ في مَشْيَتِهِ مِنْ رَسُولِ الله صَلّى
+> اللهُ عَلَيهِ وَآلِه كَأَنَّما الأرْضُ تُطْوَى لهُ وإنّا لَنَجْهَدُ
+> أنفُسَنا وَإنّه لغَيرُ مُكْتَرِثٍ.
 
 *“I have never seen anyone walk faster than the Prophet did. It was as
 if the Earth was contracted for him. We would strive (to catch up with
@@ -157,12 +121,8 @@ him) but he did not pay attention to it.”*[^5]
 
 Ibn Abbas said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ رَسُولُ اللهِ صَلّى اللهُ عَلَيهِ وَآلِه إذا مَشى مَشْياً
-يُعْرَفُ أنَّهُ لَيسَ بِمَشْيِ عاجِزٍ ولا بِكَسْلانَ.
-  </p>
-</blockquote>
+> كَانَ رَسُولُ اللهِ صَلّى اللهُ عَلَيهِ وَآلِه إذا مَشى مَشْياً
+> يُعْرَفُ أنَّهُ لَيسَ بِمَشْيِ عاجِزٍ ولا بِكَسْلانَ.
 
 *“When the Prophet of God walked, he neither walked like one lacking in
 strength nor like the lethargic ones.”*[^6]
@@ -173,12 +133,8 @@ Luqman’s Will on How to Walk
 We read the following in the Holy Qur’an regarding Luqman’s will to his
 son:
 
-<blockquote dir="rtl">
-  <p>
-وَلا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلا تَمْشِ فِي الْأَرْضِ مَرَحًا
-إِنَّ اللَّهَ لا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> وَلا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلا تَمْشِ فِي الْأَرْضِ مَرَحًا
+> إِنَّ اللَّهَ لا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 ***"And swell not thy cheek (for pride) at men, nor walk in insolence
 through the earth; for God loveth not any arrogant boaster.” [The Holy
@@ -186,12 +142,8 @@ Qur’an, Luqman 31:18]***
 
 In the next verse we read:
 
-<blockquote dir="rtl">
-  <p>
-وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
-الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
-  </p>
-</blockquote>
+> وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
+> الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
 
 ***"And be moderate in thy pace, and lower thy voice; for the harshest
 of sounds without doubt is the braying of the ass." [The Holy Qur’an,
@@ -199,12 +151,8 @@ Luqman 31:19]***
 
 We read in a tradition from the Prophet of God :
 
-<blockquote dir="rtl">
-  <p>
-مَن مَشَى عَلى الأرْضِ اخْتِيالاً لَعَنَتْهُ الأرْضُ وَمَنْ تَحْتَها
-وَمَن فَوقَها.
-  </p>
-</blockquote>
+> مَن مَشَى عَلى الأرْضِ اخْتِيالاً لَعَنَتْهُ الأرْضُ وَمَنْ تَحْتَها
+> وَمَن فَوقَها.
 
 *“The Earth, everyone on it and everyone in it curse whoever walks with
 pride on the Earth.”*[^7]
@@ -212,13 +160,9 @@ pride on the Earth.”*[^7]
 In another tradition recorded in Amali we read that the Prophet
 admonished against walking with pride and haughtiness and said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَبِسَ ثَوباً فاغْتَالَ فِيهِ خَسَفَ اللهُ بهِ مِن شَفِيرِ
-جَهَنَّمَ وَكانَ قَرينَ قارُونَ لأنَّهُ أوَّلُ مَن اخْتالَ فَخَسَفَ
-اللهُ بِهِ وَبِدارِه الأرْضَ.
-  </p>
-</blockquote>
+> مَنْ لَبِسَ ثَوباً فاغْتَالَ فِيهِ خَسَفَ اللهُ بهِ مِن شَفِيرِ
+> جَهَنَّمَ وَكانَ قَرينَ قارُونَ لأنَّهُ أوَّلُ مَن اخْتالَ فَخَسَفَ
+> اللهُ بِهِ وَبِدارِه الأرْضَ.
 
 *“Wboever wears a garment and gets too proud and makes a show of it,
 then God will make him sink into edge of Hell. He will be the companion
@@ -227,12 +171,8 @@ haughtiness. God made him and his house sink into the earth.”*[^8]
 
 We also read that Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-باب اَنَّ الإيمانَ مَبثوثٌ لجوارح البدن كلها: و رِجْلاَهُ اللّتانِ
-يَمشييِ بهما
-  </p>
-</blockquote>
+> باب اَنَّ الإيمانَ مَبثوثٌ لجوارح البدن كلها: و رِجْلاَهُ اللّتانِ
+> يَمشييِ بهما
 
 *“God has made faith incumbent upon all our body parts and has divided
 it amongst them. He has made it incumbent upon our legs not to walk
@@ -243,12 +183,8 @@ Witnesses on the Resurrection Day
 
 God the Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
-وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
+> وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ
 
 ***“That Day shall We set a seal on their mouths. But their hands will
 speak to us, and their feet bear witness, to all that they did.” [The
@@ -256,12 +192,8 @@ Holy Qur’an, Ya-Sin 36:65]***
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم
-بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم
+> بِمَا كَانُوا يَعْمَلُونَ
 
 ***“On the Day when their tongues, their hands, and their feet will bear
 witness against them as to their actions.” [The Holy Qur’an, al-Nur
@@ -296,13 +228,9 @@ Ali ibn Ibrahim quoted on the authority of his father, on the authority
 of Himad, on the authority of Ibrahim ibn Omar Yamani, on the authority
 of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مُؤمِنٍ يَمْشِي لأخِيهِ المُؤمِنِ في حَاجَةٍ إلاّ كَتَبَ
-اللهُ عَزَّ وَجَلَّ لهُ بِكُلِّ خُطْوَةٍ حَسَنَةً وَحَطَّ عَنْهُ بِها
-سَيّئَةً وَرَفَعَ لهُ بِها دَرَجَةً.
-  </p>
-</blockquote>
+> مَا مِنْ مُؤمِنٍ يَمْشِي لأخِيهِ المُؤمِنِ في حَاجَةٍ إلاّ كَتَبَ
+> اللهُ عَزَّ وَجَلَّ لهُ بِكُلِّ خُطْوَةٍ حَسَنَةً وَحَطَّ عَنْهُ بِها
+> سَيّئَةً وَرَفَعَ لهُ بِها دَرَجَةً.
 
 *“A believer does not move to help fulfill another believer’s needs but
 that God will record a good deed for him for every step he takes, and
@@ -320,13 +248,9 @@ The People Entering Hell
 God informs us about this event in the following verse of the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَى رَبِّكَ حَتْمًا
-مَّقْضِيًّا ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوا وَّنَذَرُ الظَّالِمِينَ
-فِيهَا جِثِيًّا
-  </p>
-</blockquote>
+> وَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَى رَبِّكَ حَتْمًا
+> مَّقْضِيًّا ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوا وَّنَذَرُ الظَّالِمِينَ
+> فِيهَا جِثِيًّا
 
 ***“Not one of you but will pass over it: this is, with thy Lord, a
 Decree which must be accomplished. But We shall save those who guarded
@@ -342,11 +266,7 @@ similarity in the wording in Arabic that is used in this verse, and that
 used in the following verse of the Holy Qur’an about Moses and what
 happened to him to support this view:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا وَرَدَ مَاء مَدْيَنَ وَجَدَ
-  </p>
-</blockquote>
+> وَلَمَّا وَرَدَ مَاء مَدْيَنَ وَجَدَ
 
 ***“And when he arrived at the watering (place) in Madyan, he found…”
 [The Holy Qur’an, al-Qasas 28:23]***
@@ -359,15 +279,11 @@ Jabir ibn Abdullah was asked about this verse. He pointed to both his
 ears and said: I heard with both my ears that the Prophet said the
 following. May I get deaf from both ears if I lie:
 
-<blockquote dir="rtl">
-  <p>
-الوُرودُ (يعني) الدُّخُول. لا يَبْقى بَرٌّ وَلا فاجِرٌ إلا يَدْخُلُها
-فَتَكُونُ عَلى المُؤمِنِينَ بَرداً وَسَلاماً كَما كانَتْ عَلى
-إبْراهِيمَ، حَتىّ أنَّ للنّارِ (أو قالَ: لِجَهَنَّمَ) ضَجِيجاً مِن
-بَرْدِها. ثُمَّ يُنَجِّي اللهُ الّذينَ اتَّقَوا وَيَذَرُ الظّالِمِينَ
-فِيها جِثِيّاً.
-  </p>
-</blockquote>
+> الوُرودُ (يعني) الدُّخُول. لا يَبْقى بَرٌّ وَلا فاجِرٌ إلا يَدْخُلُها
+> فَتَكُونُ عَلى المُؤمِنِينَ بَرداً وَسَلاماً كَما كانَتْ عَلى
+> إبْراهِيمَ، حَتىّ أنَّ للنّارِ (أو قالَ: لِجَهَنَّمَ) ضَجِيجاً مِن
+> بَرْدِها. ثُمَّ يُنَجِّي اللهُ الّذينَ اتَّقَوا وَيَذَرُ الظّالِمِينَ
+> فِيها جِثِيّاً.
 
 *“Entry in this verse means really going in. There are no good-doers or
 bad-doers that will not enter Hell. However, the Fire will cool off for
@@ -378,12 +294,8 @@ in it, in a state of humiliation.”*[^13]
 
 In another tradition from the Prophet we read:
 
-<blockquote dir="rtl">
-  <p>
-تَقُولُ النّارُ لِلمُؤمِنِ يَومَ القِيامَةِ: جُزْ يا مُؤْمِنُ، فقَدْ
-أطْفَأَ نُورُكَ لَهَبي
-  </p>
-</blockquote>
+> تَقُولُ النّارُ لِلمُؤمِنِ يَومَ القِيامَةِ: جُزْ يا مُؤْمِنُ، فقَدْ
+> أطْفَأَ نُورُكَ لَهَبي
 
 *“On the Resurrection Day the Fire will tell the believer: “Pass
 through, O believer, for your light has extinguished my flames.”*[^14]
@@ -392,13 +304,9 @@ The other traditions regarding the Bridge over Hell that is finer than
 hair and sharper than a sword also support this view. In a tradition
 from the Prophet he said:
 
-<blockquote dir="rtl">
-  <p>
-يَرِدُ النّاسُ النّارَ ثُمَّ يَصْدُرونَ بِأعْمالِهِم، فَأوَّلهُمُ
-كَلَمْعِ البَرْقِ ثُمَّ كَمَرِّ الرّيحِ ثُمّ كَحَضْرِ الفَرَسِ ثُمَّ
-كالرّاكِبِ ثُمّ كَشَدِّ الأرْجُلِ ثُمَّ كَمَشْيِه..
-  </p>
-</blockquote>
+> يَرِدُ النّاسُ النّارَ ثُمَّ يَصْدُرونَ بِأعْمالِهِم، فَأوَّلهُمُ
+> كَلَمْعِ البَرْقِ ثُمَّ كَمَرِّ الرّيحِ ثُمّ كَحَضْرِ الفَرَسِ ثُمَّ
+> كالرّاكِبِ ثُمّ كَشَدِّ الأرْجُلِ ثُمَّ كَمَشْيِه..
 
 *“All the people will enter Hell but leave it according to their deeds.
 Some come out like a flash of lightning, some come out with the speed of
@@ -514,5 +422,4 @@ research and translation by Dr. Ali Peiravi and Ms. Lisa Zaynab Morgan.
 [^17]: Mabani’ Takmilat al-Minhaj, v.2, p.314.
 
 [^18]: Mukhtasar al-Manafi’, p.301.
-
 

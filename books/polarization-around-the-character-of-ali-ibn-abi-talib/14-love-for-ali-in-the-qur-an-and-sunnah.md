@@ -10,12 +10,8 @@ previous prophets have said, it points out that they have all said: "we
 do not ask a wage from people, our only reward is from God." However it
 addresses the Seal of the Prophets thus:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***Say: "I do not ask of you a wage for this, except love for (my)
 relatives." (ash-Shura, 42:23)***
@@ -26,12 +22,8 @@ he want friendship for his near relatives as a requital for his message?
 
 The Qur'an itself provides an answer to this question:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا سَأَلْتُكُمْ مِنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِيَ إِلَّا
-عَلَى اللَّهِ
-  </p>
-</blockquote>
+> قُلْ مَا سَأَلْتُكُمْ مِنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِيَ إِلَّا
+> عَلَى اللَّهِ
 
 ***Say: "I have asked no wage of you; that shall be yours. My wage falls
 only upon God. “(Saba', 34:47)***
@@ -71,22 +63,14 @@ doubt impossible) have reached us on this subject. Thus friendship of
 them is obligatory on all the community,[^1] because the Qur'an
 commands:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
-  </p>
-</blockquote>
+> وَاتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
 
 ***And follow him (the Prophet), haply you will be guided. (al-A'raf,
 7:158)***
 
 "It also commands:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ 
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ
 
 ***You have a good example in Allah's Messenger. (al-Ahzab, 33:21)***
 
@@ -182,5 +166,4 @@ been related in Sunni texts on this subject.
 [^8]: . al-Mustadrak \`ala as-Sahihayn, vo1.3, p.131. This story is
 related in various ways in more than eighty narrations in authoritative
 Sunni texts.
-
 

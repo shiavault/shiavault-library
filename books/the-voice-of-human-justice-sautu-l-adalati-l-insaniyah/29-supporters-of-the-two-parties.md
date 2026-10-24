@@ -1092,4 +1092,3 @@ black-coloured races are the descendants of Ham. Mu\`awiya called her
 
 [^2]: Tareef, Tarif and Turfa, the sons of Adi.
 
-

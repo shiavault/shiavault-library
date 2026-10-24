@@ -51,4 +51,3 @@ like a mother to him.
 [^1]: A deep affinity developed between the Prophet and his foster
 brothers and sister, and later in life they also accepted Islam.
 
-

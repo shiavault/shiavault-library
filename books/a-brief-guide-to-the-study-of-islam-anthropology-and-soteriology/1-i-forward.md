@@ -31,4 +31,3 @@ appropriate translation for the word "Allah". However, numerous English
 works by Muslim authors freely use God as the equivalent for Allah, and
 I have followed this pattern.
 
-

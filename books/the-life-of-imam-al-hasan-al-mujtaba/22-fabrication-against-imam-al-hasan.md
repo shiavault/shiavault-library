@@ -76,7 +76,6 @@ like the excuse of the colonialist
 
 [^1] Dubab is a ward said to a hyena, that it may come out.
 
-
 states that say that there is no escape from undertaking the affairs of
 the nations which they occupy and dominate, and control their public
 utilities and the elements of their life.”[^1]
@@ -630,5 +629,4 @@ a unique hero and an experienced leader. He could urge the people to
 fight against the forces who mutinied against his father. With this
 point we will end our talk about the problem that took place in Basra
 that we may meet with him at Siffin.
-
 

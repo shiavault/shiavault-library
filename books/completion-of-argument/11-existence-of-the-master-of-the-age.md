@@ -970,4 +970,3 @@ please note this. (Author)
 
 [^24]: Futuhat-e-Makkiyyah
 
-

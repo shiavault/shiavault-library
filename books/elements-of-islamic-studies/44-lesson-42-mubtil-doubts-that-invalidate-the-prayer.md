@@ -20,4 +20,3 @@ sixth or a higher *rak’at*.
  8. To forget in a four *rak’at* prayer the number of *rak’at*s already
 prayed.
 
-

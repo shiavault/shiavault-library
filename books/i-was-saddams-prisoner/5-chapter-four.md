@@ -74,4 +74,3 @@ from him. This was the beginning, he was told. "Go and think over it-and
 tell the truth when we call you again".  
    
 
-

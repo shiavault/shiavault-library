@@ -1,12 +1,8 @@
 The Wise Counsel of Luqman
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا
-تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا
+> تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
 
 ***when Luqman said to his son while he admonished him: O my son! do not
 associate aught with Allah; most surely polytheism is a grievous
@@ -82,13 +78,9 @@ Therefore, he counsels him in the following words:
 
 > وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا
 > تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ {o} وَوَصَّيْنَا
-<blockquote dir="rtl">
-  <p>
-الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَى وَهْنٍ
-وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ
-الْمَصِيرُ
-  </p>
-</blockquote>
+> الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَى وَهْنٍ
+> وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ
+> الْمَصِيرُ
 
 ***And when Luqman said to his son while he admonished him: O my son! Do
 not associate aught with Allah; most surely polytheism is a grievous
@@ -147,11 +139,7 @@ time advising him about his duties toward his fellow members of society:
 > يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
 > الْمُنكَرِ وَاصْبِرْ عَلَى مَا أَصَابَكَ إِنَّ ذَلِكَ مِنْ عَزْمِ
 > الْأُمُورِ {o} وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي
-<blockquote dir="rtl">
-  <p>
-الْأَرْضِ مَرَحًا إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> الْأَرْضِ مَرَحًا إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 ***O my son! Keep up prayer and enjoin the good and forbid the evil, and
 bear patiently that which befalls you; indeed these acts require
@@ -187,17 +175,12 @@ traits, and purify his soul from that which would corrupt it, as this
 was the only way to ultimate felicity and salvation. He urges him to
 always adopt moderation in his conduct, saying:
 
-<blockquote dir="rtl">
-  <p>
-وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
-الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
-  </p>
-</blockquote>
+> وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
+> الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
 
 ***And pursue the middle course in your going about and lower your
 voice; surely the most hateful of voices is braying of the asses.
 (Luqman, 31/19)***
 
  
-
 

@@ -570,4 +570,3 @@ Thought), pp. 234- 228.
 
 [^15]: George Antonius: “Arab Awakening", p. 99.
 
-

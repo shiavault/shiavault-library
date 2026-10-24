@@ -110,4 +110,3 @@ head of those revolters was Umar who, when becoming the caliph, had
 despised Khalid and hastened to depose him immediately as mentioned by
 ibnul Atheer and the other historians.
 
-

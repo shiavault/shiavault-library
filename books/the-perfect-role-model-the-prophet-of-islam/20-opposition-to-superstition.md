@@ -57,4 +57,3 @@ among God's signs."[^2]
 
 [^2]: Seyri dar Sireh-ye Nabawi, p. 136.
 
-

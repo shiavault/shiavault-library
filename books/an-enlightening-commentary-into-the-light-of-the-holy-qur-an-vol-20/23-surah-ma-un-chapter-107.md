@@ -8,11 +8,7 @@ Surah Ma’un, Chapter 107
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -52,55 +48,23 @@ the (evil) acts he committed in this world.”*[^2]
 Surah Ma’un, Verses 1-7
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ
-  </p>
-</blockquote>
+> أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ
-  </p>
-</blockquote>
+> فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
-  </p>
-</blockquote>
+> وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِّلْمُصَلِّينَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِّلْمُصَلِّينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ يُرَاءُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ يُرَاءُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيَمْنَعُونَ الْمَاعُونَ
-  </p>
-</blockquote>
+> وَيَمْنَعُونَ الْمَاعُونَ
 
 ***1. “Have you seen him who denies the Final Judgement?"***  
 ***2. “Then such is the man who repulses the orphan (with
@@ -345,5 +309,4 @@ since this word, also, means something depreciative or offensive,
 [^7]: Wasa'il-ush-Shi'ah, vol. 1, p. 49, tradition 11.
 
 [^8]: Ibid, p. 51, tradition 16.
-
 

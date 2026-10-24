@@ -117,4 +117,3 @@ and I would not care.”[^9]
 
 [^9]: Ibid., p. 137.
 
-

@@ -18,12 +18,8 @@ accord­ing to which the spiritual and intellectual foundation of society
 is considered prior to its material bases. The Qur’an has clearly stated
 the following as a principle:
 
-<blockquote dir="rtl">
-  <p>
-.. إِنَّ اللّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا
-بِأَنْفُسِهِمْ ..
-  </p>
-</blockquote>
+> .. إِنَّ اللّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُواْ مَا
+> بِأَنْفُسِهِمْ ..
 
 ***... God changes not the condition of a people until they change that
 which is in themselves .... (13:11)***
@@ -139,12 +135,8 @@ alternative not the first. The first alternative consists of
 communication through rational persuasion (*al-hikmah*) and moral
 preaching (*al-maw’idah*):
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلِى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-..
-  </p>
-</blockquote>
+> ادْعُ إِلِى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> ..
 
 *Invite them to the path of God by appealing to reason and moral sense
 ....*
@@ -201,11 +193,7 @@ creation and resurrection.[^1]
 
 The Holy Prophet (S) started his mission with the declaration:
 
-<blockquote dir="rtl">
-  <p>
-قولوا لا إله إلَّا الله تفلحوا
-  </p>
-</blockquote>
+> قولوا لا إله إلَّا الله تفلحوا
 
 *Say, there is no god except God, that you may be delivered.*
 
@@ -258,54 +246,34 @@ falsehood, corruption, meanness, degradation, and humiliation and which
 resists repression and tyranny. That spark is a manifestation of Divine
 honour and majesty:
 
-<blockquote dir="rtl">
-  <p>
-..وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ ..
-  </p>
-</blockquote>
+> ..وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ ..
 
 ***…Honor belongs to Allah and to His messengers and the
 believers…(63:8)***
 
 The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-شرف المرء قيامه بالليل و عزه استغناؤه عن الناس
-  </p>
-</blockquote>
+> شرف المرء قيامه بالليل و عزه استغناؤه عن الناس
 
 *Man’s nobility is in his nightlong vigils, and his honour lies in his
 being in no need of people.*
 
 ‘Ali (A) said to his fellowmen during the Battle of Siffin:
 
-<blockquote dir="rtl">
-  <p>
-الحياة في موتكم قاهرين و الموت في حياتكم مقهورين
-  </p>
-</blockquote>
+> الحياة في موتكم قاهرين و الموت في حياتكم مقهورين
 
 *Life is to die victorious, and death is to survive in subjugation.*
 
 Al-Husayn ib ‘Ali (A) said:
 
-<blockquote dir="rtl">
-  <p>
-لا أرى الموت إلَا سعادة و الحياة مع الظالمين إلا برماً
-  </p>
-</blockquote>
+> لا أرى الموت إلَا سعادة و الحياة مع الظالمين إلا برماً
 
 *I can see happiness only in death, and find nothing but agony and
 disgust in life in the company of tyrants and oppressors.*
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-هيهات منَّا الذلة
-  </p>
-</blockquote>
+> هيهات منَّا الذلة
 
 *We and disgrace? How preposterous!*
 
@@ -319,15 +287,11 @@ restoration for one’s rights or the rights of others, use this
 obligation as a means of motivation and mobilization. For an example, we
 may refer to the following verse of *Surat al-Nisa*:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَكُمْ لاَ تُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَالْمُسْتَضْعَفِينَ
-مِنَ الرِّجَالِ وَالنِّسَاء وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ
-رَبَّنَا أَخْرِجْنَا مِنْ هَـذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا
-وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيّاً وَاجْعَل لَّنَا مِن لَّدُنكَ
-نَصِيراً
-  </p>
-</blockquote>
+> وَمَا لَكُمْ لاَ تُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَالْمُسْتَضْعَفِينَ
+> مِنَ الرِّجَالِ وَالنِّسَاء وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ
+> رَبَّنَا أَخْرِجْنَا مِنْ هَـذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا
+> وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيّاً وَاجْعَل لَّنَا مِن لَّدُنكَ
+> نَصِيراً
 
 ***How should you not fight for the cause of Allah and of the oppressed
 among the men, women, and children, who say, 'Our Lord, bring us forth
@@ -370,12 +334,8 @@ the mosques and other places of worship, which form the heart of the
 spiritual life of a society, would be demolished, ruined and deserted.
 In *Surat al-Nisa*, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يُحِبُّ اللّهُ الْجَهْرَ بِالسُّوَءِ مِنَ الْقَوْلِ إِلاَّ مَن
-ظُلِمَ
-  </p>
-</blockquote>
+> لاَّ يُحِبُّ اللّهُ الْجَهْرَ بِالسُّوَءِ مِنَ الْقَوْلِ إِلاَّ مَن
+> ظُلِمَ
 
 ***God likes not the utterance of harsh speech unless one has been
 wronged .. (4:148)***
@@ -384,12 +344,8 @@ Evidently this is a sort of encouragement of the uprising by the
 oppressed. In the Qur’an after censuring the poets for their
 extravagantly fanciful ideas, adds:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ
-كَثِيراً وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ
+> كَثِيراً وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا
 
 ***"Except those who believe, do good deeds, remember Allah much and
 vindicate (by means of poetry) themselves after they have been
@@ -557,13 +513,9 @@ This notion finds reflection in many verses of the Qur’an. One of them
 is the fourth verse of *Surat al-Qasas*, which I have already quoted in
 the context of the 'verse of oppression':
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعاً
-يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَاءهُمْ وَيَسْتَحْيِي
-نِسَاءهُمْ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعاً
+> يَسْتَضْعِفُ طَائِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَاءهُمْ وَيَسْتَحْيِي
+> نِسَاءهُمْ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ
 
 ***Verily Pharaoh exalted himself in the land and divided its
 inhabitants into castes, oppressing one party of them, slaughtering
@@ -590,13 +542,9 @@ and Christians] who quarrelled with one another and divided. Quite
 similar to it is the verse 153 in *Surat al- 'An 'am*. In the same
 surah, verse 65 states:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ الْقَادِرُ عَلَى أَن يَبْعَثَ عَلَيْكُمْ عَذَاباً مِّن
-فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعاً
-وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ..
-  </p>
-</blockquote>
+> قُلْ هُوَ الْقَادِرُ عَلَى أَن يَبْعَثَ عَلَيْكُمْ عَذَاباً مِّن
+> فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعاً
+> وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ..
 
 ***Say, He is able to send forth upon you chastisement, from above you
 or from under your feet, or to confuse you in sects and make you taste
@@ -604,11 +552,7 @@ the violence of one another…(6:65)***
 
 In the *Surat al-‘Anfal,* the verse 46 declares:
 
-<blockquote dir="rtl">
-  <p>
-.. وَلاَ تَنَازَعُواْ فَتَفْشَلُواْ وَتَذْهَبَ رِيحُكُمْ..
-  </p>
-</blockquote>
+> .. وَلاَ تَنَازَعُواْ فَتَفْشَلُواْ وَتَذْهَبَ رِيحُكُمْ..
 
 ***…Do not quarrel with one another for then you will be weak and your
 power will depart from you…(8:46)***
@@ -624,12 +568,8 @@ ultimately results in its destruction and doom. This is verse 79 in
 of Divine mercy and compassion to the infidels of Bani Israel was their
 nonobservance of the duty to prohibit others from vices:
 
-<blockquote dir="rtl">
-  <p>
-كَانُواْ لاَ يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا
-كَانُواْ يَفْعَلُونَ
-  </p>
-</blockquote>
+> كَانُواْ لاَ يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا
+> كَانُواْ يَفْعَلُونَ
 
 ***They forbade not one another any dishonor they commited; surely evil
 were the things they did. (5:79).***
@@ -700,5 +640,4 @@ retrogressive or progressive orientation cannot solely determine the
 morality or immorality of an act, without considering the motivate
 behind the act, for judging its morality, and such a position, in the
 view of Marxism, amounts to a kind of idealism.
-
 

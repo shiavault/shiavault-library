@@ -494,4 +494,3 @@ the Farewell Pilgrimage in his book of biography known as Al-Sira
 al-Halabiyya and you will find this hadith at the end of page 214 of its
 third volume.
 
-

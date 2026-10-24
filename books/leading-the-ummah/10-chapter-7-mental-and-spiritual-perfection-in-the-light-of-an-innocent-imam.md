@@ -57,4 +57,3 @@ presence of both prophets and Imams among human societies.
 [^1]: . Shafa’ Al-Elahiyat, chapter one from the tenth article, p. 488:
 research done by Ayatullah Hassan Zadah Amuli.
 
-

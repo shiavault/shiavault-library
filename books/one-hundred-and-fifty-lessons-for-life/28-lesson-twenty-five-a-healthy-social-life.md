@@ -3,12 +3,8 @@ Lesson Twenty Five: A Healthy Social Life
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"لوْ أَنَّ النَّاسَ أَدَّوْا حُقُوقَ أَمْوَالِهِمْ لَكانُوا عايِشِينَ
-بِخَيْر"
-  </p>
-</blockquote>
+> "لوْ أَنَّ النَّاسَ أَدَّوْا حُقُوقَ أَمْوَالِهِمْ لَكانُوا عايِشِينَ
+> بِخَيْر"
 
 Translation
 -----------
@@ -34,5 +30,4 @@ of societies today. Peace and love are in short supply, violence and
 misery abound.
 
 [^1]: Wasa’il ‘ush-Shi’a, volume 6, page 2
-
 

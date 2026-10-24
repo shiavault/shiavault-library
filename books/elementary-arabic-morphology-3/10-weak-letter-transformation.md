@@ -10,4 +10,3 @@ words easy to pronounce. There are many rules regarding the
 transformation of weak letters which one can refer to the fourth volume
 of *Elementary*
 
-

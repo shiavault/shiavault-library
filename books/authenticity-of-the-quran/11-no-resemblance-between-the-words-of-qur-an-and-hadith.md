@@ -18,4 +18,3 @@ of the Ahadith. This itself is a convincing proof that the Qur’an
 originated from a source other than the mind of the Prophet.  
   
 
-

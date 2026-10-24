@@ -38,4 +38,3 @@ and make sure to walk at their pace.
 
 [^1]: Tabrasi, Mashkat al-Anwar, a chapter on respecting the old.
 
-

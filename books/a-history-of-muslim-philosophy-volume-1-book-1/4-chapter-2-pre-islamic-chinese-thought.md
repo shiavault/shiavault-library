@@ -624,4 +624,3 @@ Library, New York, 1955, pp. 112‑13.
 [^16]: Idem, The Function of Reason, Princeton University Press,
 Princeton, 1929.
 
-

@@ -541,4 +541,3 @@ Muslims and Jews must join forces against these anti-religious entities
 and disregard the radical propaganda that could prevent such an
 alliance.
 
-

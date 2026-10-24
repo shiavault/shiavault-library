@@ -881,4 +881,3 @@ with Masjid Zirar.
 [^27]: Seerah-i Ibn Hisham, vol. II, page 530 and Bihar, vol. XX, page
 253.
 
-

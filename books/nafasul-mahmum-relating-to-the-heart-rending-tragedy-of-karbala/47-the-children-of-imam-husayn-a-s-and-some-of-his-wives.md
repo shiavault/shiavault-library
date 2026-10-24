@@ -235,4 +235,3 @@ the daughter of the Prophet of Allah (S), to you”.*
 [^2]: A period of abstinence from remarriage for women who have been
 divorced or widowed.
 
-

@@ -885,4 +885,3 @@ World
  112. Wealth properly employed is a blessing; and a man may lawfully
 endeavour to increase it by honest means.
 
-

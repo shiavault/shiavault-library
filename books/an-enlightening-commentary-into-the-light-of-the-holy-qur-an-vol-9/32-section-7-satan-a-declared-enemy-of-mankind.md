@@ -4,19 +4,11 @@ Section 7: Satan, a Declared Enemy of Mankind
 Surah Ta Ha – Verses 115 - 116
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَهِدْنَآ إِلَي ءَادَمَ مِن قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ
-لَهُ عَزْماً
-  </p>
-</blockquote>
+> وَلَقَدْ عَهِدْنَآ إِلَي ءَادَمَ مِن قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ
+> لَهُ عَزْماً
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ قُلْنَا لِلْمَلآَئِكَةِ اسْجُدُوا لاِدَمَ فَسَجَدُوا إِلآَّ
-إِبْلِيسَ أَبَي
-  </p>
-</blockquote>
+> وإِذْ قُلْنَا لِلْمَلآَئِكَةِ اسْجُدُوا لاِدَمَ فَسَجَدُوا إِلآَّ
+> إِبْلِيسَ أَبَي
 
 ***115. “And We had made covenant with Adam before, but he forgot, and
 We found in him no constancy.”***  
@@ -84,24 +76,12 @@ who was eligible of the praise of that Creator.
 Surah Ta Ha – Verses 117 - 119
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْنَا يَآ ادَمُ إِنَّ هَذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ فَلاَ
-يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَي
-  </p>
-</blockquote>
+> فَقُلْنَا يَآ ادَمُ إِنَّ هَذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ فَلاَ
+> يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَي
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لَكَ أَلاَّ تَجُوعَ فِيهَا وَلاَ تَعْرَي
-  </p>
-</blockquote>
+> إِنَّ لَكَ أَلاَّ تَجُوعَ فِيهَا وَلاَ تَعْرَي
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّكَ لاَ تَظْمَؤُا فِيهَا وَلاَ تَضْحَي
-  </p>
-</blockquote>
+> وَأَنَّكَ لاَ تَظْمَؤُا فِيهَا وَلاَ تَضْحَي
 
 ***117. “Then We said: ‘O Adam! Verily this is an enemy to you and to
 your wife. Therefore let him not expel you both from the Garden so that
@@ -149,20 +129,12 @@ water, clothing, and housing (a cover against the heat of the sun).
 Surah Ta Ha – Verse 120 - 121
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَوَسْوَسَ إِلَّيْهِ الشَّيْطَانُ قَالَ يَآ ادَمُ هَلْ أَدُلُّكَ عَلَي
-شَجَرَةِ الْخُلْدِ وَمُلْكٍ لاَّ يَبْلَي
-  </p>
-</blockquote>
+> فَوَسْوَسَ إِلَّيْهِ الشَّيْطَانُ قَالَ يَآ ادَمُ هَلْ أَدُلُّكَ عَلَي
+> شَجَرَةِ الْخُلْدِ وَمُلْكٍ لاَّ يَبْلَي
 
-<blockquote dir="rtl">
-  <p>
-فَاَكَلاَ مِنْهَا فَبَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا
-يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ وَعَصَي ءَادَمُ رَبَّهُ
-فَغَوَي
-  </p>
-</blockquote>
+> فَاَكَلاَ مِنْهَا فَبَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا
+> يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ وَعَصَي ءَادَمُ رَبَّهُ
+> فَغَوَي
 
 ***120. “Then Satan whispered (evil suggestions) to him, saying: ‘O
 Adam! Shall I guide you to the Tree of Eternity and to a kingdom that
@@ -236,19 +208,11 @@ The verse says:
 Surah Ta Ha – Verses 122 - 123
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَي
-  </p>
-</blockquote>
+> ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اهْبِطَا مِنْهَا جَمِيعاً بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا
-يَأْتِيَنَّكُم مِنّـِي هُدي فَمَنِ اتَّبَعَ هُدَايَ فَلاَ يَضِلُّ
-وَلاَ يَشْقَي
-  </p>
-</blockquote>
+> قَالَ اهْبِطَا مِنْهَا جَمِيعاً بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا
+> يَأْتِيَنَّكُم مِنّـِي هُدي فَمَنِ اتَّبَعَ هُدَايَ فَلاَ يَضِلُّ
+> وَلاَ يَشْقَي
 
 ***122. “Then his Lord chose him, so He turned unto him (mercifully) and
 guided him.”***  
@@ -298,18 +262,10 @@ follows My guidance, will not lose his way nor fall into misery.”***
 Surah Ta Ha – Verses 124 - 125
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَن ذِكْرِي فإِنَّ لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ
-يَوْمَ الْقِيَامَةِ أَعْمَي
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَن ذِكْرِي فإِنَّ لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ
+> يَوْمَ الْقِيَامَةِ أَعْمَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ لِمَ حَشَرْتَنِي أَعْمَي وَقَدْ كُنتُ بَصِيراً
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ لِمَ حَشَرْتَنِي أَعْمَي وَقَدْ كُنتُ بَصِيراً
 
 ***124. “And whoever turns away from My remembrance verily for him is a
 life straitened, and the Day of Resurrection We shall raise him
@@ -353,19 +309,11 @@ I was a seeing one (in the world)?’”***
 Surah Ta Ha – Verses 126 - 127
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَذَلِكَ أَتَتْكَ ءَايَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ
-تُنسَي
-  </p>
-</blockquote>
+> قَالَ كَذَلِكَ أَتَتْكَ ءَايَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ
+> تُنسَي
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِن بِاَيَاتِ رَبّـِهِ
-وَلَعَذَابُ الاَخِرَةِ أَشَدُّ وَأَبْقَي
-  </p>
-</blockquote>
+> وَكَذَلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِن بِاَيَاتِ رَبّـِهِ
+> وَلَعَذَابُ الاَخِرَةِ أَشَدُّ وَأَبْقَي
 
 ***126. “(Allah) will say: ‘Even so, Our Signs came to you, but you
 neglected them; in like manner you are forgotten this Day’.”***  
@@ -431,20 +379,12 @@ more grievous and more lasting.”***
 Surah Ta Ha – Verses 128 - 129
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا قَبْلَهُم مّـِنَ الْقُرُونِ
-يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لاَيَاتٍ لأُوْلِي
-النُّهَي
-  </p>
-</blockquote>
+> أَفَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا قَبْلَهُم مّـِنَ الْقُرُونِ
+> يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لاَيَاتٍ لأُوْلِي
+> النُّهَي
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلاَ كَلِمَةٌ سَبَقَتْ مِن رَّبّـِكَ لَكَانَ لِزَاماً وَأَجَلٌ
-مُسَمًّي
-  </p>
-</blockquote>
+> وَلَوْلاَ كَلِمَةٌ سَبَقَتْ مِن رَّبّـِكَ لَكَانَ لِزَاماً وَأَجَلٌ
+> مُسَمًّي
 
 ***128. “Does it not then guide such men (to call to mind) how many of
 the generations We did destroy before them, amid whose dwellings they
@@ -545,5 +485,4 @@ path of truth also find an opportunity for self-improvement.
 [^9]: Al-Kafi, vol. 1, p. 436
 
 [^10]: Surah Nahl, No. 16, verse 61
-
 

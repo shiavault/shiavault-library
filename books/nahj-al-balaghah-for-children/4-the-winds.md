@@ -13,4 +13,3 @@ With His compassion.
 
 (Sermon 1)
 
-

@@ -24,4 +24,3 @@ steadfastness, and the restraint of his appetites until he reaches the
 safety of Allah in the world to come, and tastes the food of His good
 pleasure. If he intends that, everything else means nothing to him.
 
-

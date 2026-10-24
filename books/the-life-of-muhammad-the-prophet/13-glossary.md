@@ -65,4 +65,3 @@ particular good cause, a charitable trust, endowment
     
 **And surely Allah knows best.**
 
-

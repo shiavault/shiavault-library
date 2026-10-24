@@ -1,18 +1,12 @@
 Effect of Delay in Tadwin:
 ==========================
 
-  
-  
-  
-  
-
 When the Messenger's traditions were abandoned unwritten, and the
 Sahabah had not undertaken the task of committing them to writing as
 they did in case of the Qur'an, the horizons of narration from the
 Messenger expanded and doors were open wide for evil-minded and
 ill-hearted people for narrating what they willed with no fear of qualm
-of conscience nor restraint of religion. <span
-id="_anchor_495"></span>495
+of conscience nor restraint of religion. 495
 
 Had the elderly Muslims or those who embraced Islam later on, been one
 class in regard of truthfulness and equal level of reliability and good
@@ -34,8 +28,7 @@ religion and became schismatics, thou hast no concern with anything of
 them." But people are the same every age, and human beings have
 unchangeable dispositions, non-alterable instincts and unconverted
 desires. Further the Companions and the Followers who succeeded them
-were never exceptional among people nor infallibale. <span
-id="_anchor_496"></span>496  "It is the law of Allah in His creation.
+were never exceptional among people nor infallibale. 496  "It is the law of Allah in His creation.
 Thou wilt not find for the law of Allah aught of power to change."
 
 It is sufficient to know that as the Messenger was at the threshold of
@@ -62,8 +55,7 @@ shining inside their hearts.
 That who intends to study history of Islam as it is in truth, has to be
 acquainted with the conditions of the Arabs in general in the
 pre-Islamic era, particularly the disagreement that occurred between the
-Hashimites and Umayyads in the Jahiliyyah period, <span
-id="_anchor_497"></span>497  that extended till the time of Islam.
+Hashimites and Umayyads in the Jahiliyyah period, 497  that extended till the time of Islam.
 Further he has to have knowledge of the quarrels that took place between
 the Companions since the time of Uthman, and the battles occurred
 between Ali and Mu'awiyah, whose warriors both being mostly of the
@@ -159,10 +151,6 @@ extremely hazardous consequences, as it led to expansion in horizons of
 riwayah and confusion between the sahih traditions and the fabricated
 ones, in a way distinguishing between them became infeasible with
 process of time.
-
-  
-  
-  
 
 495. Refer to chapter "Fabrication of hadith and Its Causes" in this
 book.

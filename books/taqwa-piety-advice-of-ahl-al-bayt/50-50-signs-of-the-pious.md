@@ -21,4 +21,3 @@ the features mentioned in the Holy Quran and traditions. When we know
 them, we can set them as models to be followed, make friend and
 associate with them.
 
-

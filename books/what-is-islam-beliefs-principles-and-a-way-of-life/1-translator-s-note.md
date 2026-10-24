@@ -185,9 +185,7 @@ Daily, sitting in the same office that his brother used, he receives
 visitors who come to Qum to seek his advice and spiritual guidance or
 who ask for a fatwa in a particular juridical matter.
 
-
 Abdelmalik Badruddin Eagle
 London
 August 2002
-
 

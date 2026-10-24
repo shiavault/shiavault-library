@@ -77,4 +77,3 @@ of all sins."
 
 Al-Ithna 'Ashariyyah, p. 59
 
-

@@ -162,4 +162,3 @@ toward perfection as they were created. These polluted and decadent
 societies and the rulers behind them found the perfect way to achieve
 their aims. They corrupted the women and therefore corrupted the people.
 
-

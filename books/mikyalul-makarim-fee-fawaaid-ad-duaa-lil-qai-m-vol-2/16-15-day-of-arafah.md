@@ -7,4 +7,3 @@ context.
 
 [^1]: Iqbaalul Aamaal, Pg. 350; Zaad al-Maad, Pg. 280
 
-

@@ -15,4 +15,3 @@ actor. For example: **کَسََرَ** (he broke). So, if one said: **کَسَر
 one mentions the objective compliment afterwards. For example: **کَسَرَ
 الخادِمُ ﺇبریقاً** (the servant broke a pitcher.)
 
-

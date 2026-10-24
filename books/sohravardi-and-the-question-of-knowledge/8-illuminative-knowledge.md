@@ -167,4 +167,3 @@ sufiyan* as well Sohravardi teaches the principles of journey towards
 wisdom, truth and light, and in fi haqiqat al ‘ishq he writes of the
 presence of love in all things.
 
-

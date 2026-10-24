@@ -329,4 +329,3 @@ a variety of settings just as is common in America-at college, in the
 job setting, at social activities, or through friends. Here are some
 stories of those meetings.
 
-

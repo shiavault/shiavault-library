@@ -25,4 +25,3 @@ the truth, I used to ask it to light the house so it would lighten in
 the darkness, and put it on the locks to open for me, and I do take it
 with me to meet the Sultans and see of them only what pleases me".
 
-

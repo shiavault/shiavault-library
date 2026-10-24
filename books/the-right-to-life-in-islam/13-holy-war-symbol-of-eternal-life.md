@@ -17,13 +17,9 @@ The Holy Quran has stressed this in many verses.
 
 God expresses such an advantage in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى
-الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ
-وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى
+> الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ
+> وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا
 
 ***Allah has preferred the mujahideen through their wealth and their
 lives over those who remain [behind], by degrees. And to both Allah has
@@ -43,16 +39,12 @@ Not only Islam does not consider the deed of the person who takes part
 in Holy War as "jumping into the valley from the edge of a cliff,"[^3]
 but also considers itself the buyer of his life and property, and says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ
-وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ
-اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي
-التَّوْرَاةِ وَالْإِنْجِيلِ وَالْقُرْآنِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِ
-مِنَ اللَّهِ ۚ فَاسْتَبْشِرُوا بِبَيْعِكُمُ الَّذِي بَايَعْتُمْ بِهِ ۚ
-وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ
+> وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ
+> اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي
+> التَّوْرَاةِ وَالْإِنْجِيلِ وَالْقُرْآنِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِ
+> مِنَ اللَّهِ ۚ فَاسْتَبْشِرُوا بِبَيْعِكُمُ الَّذِي بَايَعْتُمْ بِهِ ۚ
+> وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
 
 ***Indeed, Allah has purchased from the believers their lives and their
 properties [in exchange] for that they will have Paradise. They fight in
@@ -95,5 +87,4 @@ life.
 [^9]: The Holy Quran, Chapter, Al- Tawbeh, verses:12 and 13.
 
 [^10]: Quran, Chapter, Al- Tawbeh, verse: 81.
-
 

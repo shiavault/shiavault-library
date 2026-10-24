@@ -24,11 +24,7 @@ The emphasis Islam lays on prayer is enough to drive one to appreciate
 its fundamental role in a person's life and character. Imam 'Ali (\`a)
 is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-واعلم ان كل شيء من عملك تبع لصلاتك
-  </p>
-</blockquote>
+> واعلم ان كل شيء من عملك تبع لصلاتك
 
 "Beware that every deed of yours is performed According to your
 prayer."[^1]
@@ -48,18 +44,10 @@ Almighty Allah informs us about a people who conjecture that they have
 done good and are on the straight path, but in reality they have nothing
 but loss:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا
-  </p>
-</blockquote>
+> قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ
-يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
-  </p>
-</blockquote>
+> الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ
+> يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
 
 ***Say (O Our Apostle Muhammad) Shall we tell you who will be the
 greatest losers in their works? Those whose striving goes astray in the
@@ -76,11 +64,7 @@ This is while the core of praise restricts it for the real doer of good
 or possessor of an attribute of perfection, which in the language of
 Qur'an is none other than Allah. The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
 
 ***All praises belong to Allah.*** [^3]
 
@@ -89,22 +73,14 @@ creation of Allah, since their existence as well as subsistence entirely
 depends on His power. And since He is the sole Creator and whatever He
 creates is beautiful, every beautiful deed is His:
 
-<blockquote dir="rtl">
-  <p>
-الذي أحسن كلَّ شئ خلقه
-  </p>
-</blockquote>
+> الذي أحسن كلَّ شئ خلقه
 
 ***'One who made beautiful all that He created'*** [^4]
 
 Furthermore, since He is the sole possessor of all perfect & beautiful
 attributes, all praises belong to Him:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لا إِلَهَ إِلاَّ هُوَ لَهُ الأَسْمَاء الْحُسْنَى
-  </p>
-</blockquote>
+> اللَّهُ لا إِلَهَ إِلاَّ هُوَ لَهُ الأَسْمَاء الْحُسْنَى
 
 ***Allah, excepting Him, there is no God;***
 
@@ -127,11 +103,7 @@ described of Him. In simpler words, He transcends the bounds of finitude
 and is free from every kind of shortcoming or imperfection. He is
 Infinite and present everywhere:
 
-<blockquote dir="rtl">
-  <p>
-فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ
-  </p>
-</blockquote>
+> فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ
 
 ***' ... Whithersoever you turn, there is the face of Allah ...'*** [^6]
 
@@ -145,11 +117,7 @@ even the assumption of a second.
 In simpler terms: The Holy Quran informs us of a people who worship
 their vain desires and consider them as their God:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ
-  </p>
-</blockquote>
+> أَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ
 
 ***Have you seen him who has taken his vain desire to be his God?***
 [^7]
@@ -163,12 +131,8 @@ If the *musulli* were to understand the above, and realized the meaning
 of *takbir,* and mold the heart accordingly, he would always be deterred
 from sin. Small wonder it is that the Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمْ الصَّلاةَ إِنَّ الصَّلاةَ تَنْهَى عَنْ الْفَحْشَاءِ
-وَالْمُنْكَرِ
-  </p>
-</blockquote>
+> وَأَقِمْ الصَّلاةَ إِنَّ الصَّلاةَ تَنْهَى عَنْ الْفَحْشَاءِ
+> وَالْمُنْكَرِ
 
 ***...And keep up prayer;***
 
@@ -206,5 +170,4 @@ to prayer.*
 [^7]: Ibid, 25:43
 
 [^8]: Ibid, 29:43
-
 

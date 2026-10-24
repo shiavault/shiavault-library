@@ -89,4 +89,3 @@ philosopher.
     
 *‘Allāmah’s daughter* 
 
-

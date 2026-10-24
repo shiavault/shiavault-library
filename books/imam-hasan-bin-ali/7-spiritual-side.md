@@ -43,4 +43,3 @@ When he recited the Qur'an and came across a verse addressing the
 faithful by these words: *'O you who believe...,'* he said: *'Here I am,
 my Lord, here I am...'*
 
-

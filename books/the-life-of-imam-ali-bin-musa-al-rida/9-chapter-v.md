@@ -1,10 +1,6 @@
 Chapter V
 =========
 
-  
-
-  
-
 HIS DEBATES AND HIS ARGUMENTS
 =============================
 
@@ -31,10 +27,6 @@ schools in the palaces of the kings and of their ministers. For example,
 the Barāmika  
  held meetings in their own palaces and summoned to them  
  theologians from among the Sunni (religious) scholars. The  
-
-  
-
-  
 
 theologians debated with the great scholar, Hishām b. al-Hakam, and
 discussed with him the matter of the Imāmate, and he disproved their
@@ -75,10 +67,6 @@ that important office because he was the most learned of the community,
 and when he had concluded that he was not the most learned of it, he
 removed him from the office. Meanwhile,  
 
-  
-
-  
-
 his mass media would have announced that the Imām had fallen short of
 answering the scholars questions, that it might respond to the Abbāsid
 familys feelings. It is worth mentioning that the members of this family
@@ -114,10 +102,6 @@ arise from the questions, and the arising questions may be vaguer than
 the previous ones themselves. Umrān, in this narration, raised these
 vague questions and they were answered by Imām Ali b. Mūsā\` al-Ridā,
 peace be on him, the eighth of Allahs proofs over His servants  
-
-  
-
-  
 
 and of His testamentary trustees on His earth. What the Imām explained
 during this debate is a clear way which cannot be effaced by the dust of
@@ -159,10 +143,6 @@ injustice, declared the Imām.
 
 (Umrān) al-Sābii bowed his head, and then he said to the Imām with
 politeness and magnification: By Allah, my master, I want  
-
-  
-
-  
 
 nothing except that you establish for me a thing to which I will cling
 and (which I) do not pass.
@@ -206,10 +186,6 @@ him, as follows:
 Firstly, Allah, the Exalted, is One; there is nothing with Him; He has
 neither limits nor accidental qualities like those possible being; He  
 
-  
-
-  
-
 is One Being; He has always been and will always remain so. His Oneness
 is neither numeral nor qualitative nor generic; rather it means that He
 is not associated with material and immaterial things. He occupies the
@@ -249,10 +225,6 @@ they have need of His favor, His mercy, and His
  beneficence over all beings and creatures. An example of His bounty  
  is that He prefers some of His creatures to others while He is in no  
 
-  
-
-  
-
 need of those whom He prefers; nor has He a vengeance on those whom He
 abases.
 
@@ -291,12 +263,6 @@ mind or without mind?"
 
 By this question al-Sābii intended to force the Imām to confess that
 Allah, the Exalted, was compound, for He had mind.
-
-  
-
-  
-
-  
 
 Ans. 3: If it had been by mind, would He then find anyway not to appoint
 for that mind a bound where knowledge ended?
@@ -338,10 +304,6 @@ Umrān questioned (the Imām) about the bounds which distinguish the
 creatures from each other. The Imām answered him:
 
 Ans. 4: You have asked, then know that the bounds of His  
-
-  
-
-  
 
 creatures are of six kinds: touched, weighed, seen, that which has no
 taste (soul), seen but has no weight nor touch nor sense nor color nor
@@ -385,10 +347,6 @@ space. The great make of Him, the Exalted, has manifested itself for
 mankind through what He has deposited in this space, such as the stars
 which are neither counted nor numbered, and which move according to
 regulation and accuracy. If they oppose their  
-
-  
-
-  
 
 course, they will collide and disappear, and no trace of them will
 remain. So glory belongs to Allah, the Wise Originator!
@@ -434,10 +392,6 @@ The meaning of the answer of the Imām, peace be on him, is that silence
 and utterance follow one another in a matter which accepts them like the
 succession of  talent and non-talent. As for the utterance  
 
-  
-
-  
-
 of Allah, it is not like the utterance of those speakers from among
 possible beings. In other words utterance and silence do not hold good
 for Him as they hold good for possible beings. The Shiites believe that
@@ -479,10 +433,6 @@ is in the other, then how did you come to see your own reflection in it,
 Umrān?
 
 The Imām, peace be on him, made it impossible for Allah, the  
-
-  
-
-  
 
 Exalted, to exist in His creatures or they exist in Him. He gave an
 example of that through the reflection in the mirror; it is not in the
@@ -535,12 +485,6 @@ my questions, for my heart has sympathized (with you).
 The Imām, peace be on him, promised him to resume the debate, then he
 rose and performed the obligatory prayer.
 
-  
-
-  
-
-  
-
 The Debate is being resumed
 ---------------------------
 
@@ -583,11 +527,6 @@ letters of  Assyrian and Hebrew. Five letters of them were changed
 ------------------------------------------------------------------------
 
 [[1]](#_F195) In a copy: "Before His creating the creatures."  
-  
-
-  
-
-  
 
 (and are) in the rest of the languages of non-Arabs in the regions.
 These five letters were derived from the twenty-five letters, so the
@@ -628,12 +567,6 @@ of the thing described by them. Did you understand them?
 
 Yes, was the answer.
 
-  
-
-  
-
-  
-
 The Imām continued his speech about explaining the meanings of the
 letters when they were put together, saying: Know that it (the letter)
 is not an adjective of that which is not described nor a bound of that
@@ -670,10 +603,6 @@ astray, become blind, and deaf toward the truth while they do not know.
 That is according to the words of Him, the Great and Almighty: *And
 whoever is blind in (the world), he  
 *
-
-  
-
-  
 
 shall also be blind in the hereafter and more erring from the
 way.[[1]](#_ftn196) I mean that he is blind toward the existing
@@ -715,11 +644,6 @@ things are the creatures of Allah, the Great and Almighty.
 
 [[1]](#_F196) Qur'ān, 17, 72.  
  [[2]](#_F197) Tuhaf al-'Uqūl, p. 527.  
-  
-
-  
-
-  
 
 Know that all the things which the senses find for you are meanings
 perceived by the senses, and every sense demonstrates what Allah, the
@@ -759,10 +683,6 @@ those whose reasons are different and whose clemency is distant, they do
 not recognize (Him). As for those who are just and have reasons, they
 are able to recognize (Him). As for the first (thing) of that: If the
 creation of what He creates is out of His need of  
-
-  
-
-  
 
 it, it is permissible for one to say: He changes according to what He
 creates because of His need of that. However, He, the Great and
@@ -807,10 +727,6 @@ Umrān al-Sābii acknowledged the many scientific abilities of the Imām,
 peace be on him, such as his definite answers to the most difficult
 philosophical questions, which none was able to answer  
 
-  
-
-  
-
 except the testamentary trustees of the prophets whom Allah endowed with
 knowledge and sound judgment. Accordingly, he embraced Islam and began
 saying: I witness that Allah, the Most High, is as you have described,
@@ -850,12 +766,6 @@ the Imām, so he said to Mohammed: The Imām (i.e. al-Mamūn) wants nothing
 except to examine him, that he may know whether he (the Imām) has
 something of the knowledge of his fathers.
 
-  
-
-  
-
-  
-
 Mohammed was not satisfied with al-Nawfalis statement, for he thought
 that al-Mamūn was wicked, so he said to al-Nawfali: Say to him
 (al-Ridā): Your uncle dislikes this chapter (of theology) and asks you
@@ -891,19 +801,12 @@ avoid him. Al-Mamūn gave him ten thousand dirhams and, in addition,
 al-Fadl gave him some money. Then the appointed him as a governor over
 the charities of Balkh, and he did right things.[[1]](#_ftn198)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F198) 'Uyyūn Akhbār al-Ridā, vol. 1, pp. 168-178. Reports
 similar to his have been mentioned by al-Tabrasi in (his book)
 al-Ihtijājj, al-Majjlisi in al-Bihār, and al-Hasan b. Shu'bā in Tuhaf
 al-'Uqūl.  
-  
-
-  
-
-  
 
 The Questions of Sulaymān al-Marūzi
 -----------------------------------
@@ -942,10 +845,6 @@ confirmed it. Then Sulaymān sought the Imāms view about it and he
 confessed it. He established it through some verses from the Holy Qurān.
 Then al-Mamūn turned to Sulaymān and said to him: Question Abū al-Hasan
 about whatever you desire. You must listen well and be fair.  
-
-  
-
-  
 
 Sulaymān asked the Imām the following questions:
 
@@ -992,12 +891,6 @@ Sulaymān denied the origination of the will, so the Imām answered him:
 Sulaymān, it is originated. If thing is not eternal, it is originated;
 if it is not originated, it is eternal.
 
-  
-
-  
-
-  
-
 Sulaymān interrupted (the Imām) saying: His (Allahs) will is (part) of
 Him just as His hearing, His sight, and His knowledge are (parts) of
 Him.
@@ -1043,12 +936,6 @@ you a question.
 
 Question (me), may I be your ransom, replied Sulaymān.
 
-  
-
-  
-
-  
-
 Tell me about you and your companions: Do you debate with the people on
 theology according to what you understand and know or according to what
 you do not understand and know?
@@ -1092,12 +979,6 @@ He increases them what is not in His knowledge that it will be.
 
 Sulaymān said: May I be your ransom, the willing has no limit.
 
-  
-
-  
-
-  
-
 The Imām continued disproving Sulaymāns vague errors, saying: In your
 view, is that His knowledge does not encompass what therein (in the
 Garden) if He does not know the limit of that (which is in the Garden).
@@ -1134,18 +1015,11 @@ The Imām, peace be on him,  continued establishing his beliefs, saying:
 If He puts (another) in the place of it, then it (the fruit) is
 everlasting; therefore they are not cut off from it.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F199) Qur'ān, 4, 56.  
  [[2]](#_F200) Ibid., 11, 108.  
  [[3]](#_F201) Ibid., 56, 33.  
-  
-
-  
-
-  
 
 Sulaymān went on clinging to vague errors and imaginations which the
 Imām had already disproved through undeniable proofs, saying:
@@ -1186,19 +1060,12 @@ Him who, too, is eternal?
 Sulaymān dodged and did not answer the Imāms question, saying: Will is
 the brining forth.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F202) Ibid., 50, 35.  
  [[2]](#_F203) Ibid., 11, 108.  
  [[3]](#_F204) Ibid., 15, 48.  
  [[4]](#_F205) Ibid., 98, 8.  
-  
-
-  
-
-  
 
 The Imām answered: This is the thing because of which you criticized
 Dirār[[1]](#_ftn206) and his companions, saying that everything Allah,
@@ -1240,17 +1107,10 @@ known.
 
 Sulaymān answered: It (i.e. will) is made.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F206) Dirār is one of the Shaykhs of the Mu'tazilites in
 theology and belongs to the Abādiya.  
-  
-
-  
-
-  
 
 The Imām invalidated Sulaymāns statement, saying: Therefore, it (will)
 is originated and is not like hearing and seeing, for hearing and seeing
@@ -1299,16 +1159,9 @@ The Imām rebuked him, saying: Woe unto you! How many times have you
 repeated this matter? I told you that will is created, for the action of
 a thing is originated.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F207) Qur'ān, 17, 16.  
-  
-
-  
-
-  
 
 Therefore will has no sense, declared Sulaymān.
 
@@ -1357,12 +1210,6 @@ As a result, al-Mamūn shouted at Sulaymān, saying: Woe unto you,
 Sulaymān! How you have erred and how often you have repeated yourself?
 Stop it and take another (matter), for you seem to be unable to provide
 any answer better than that.
-
-  
-
-  
-
-  
 
 The Imām turned to al-Mamūn and said to him: Leave him, Commander of the
 faithful. Dont interrupt his questions, for he will regard it as an
@@ -1418,12 +1265,6 @@ The Imām said: His attribute is not His selfness. That He is willing is
 telling of that He is will and is not telling of that will is one of His
 names.
 
-  
-
-  
-
-  
-
 That is because His will is His knowledge, declared Sulaymān.
 
 The Imām asked: If He knows thing, does He lose (His) will.
@@ -1469,11 +1310,6 @@ will to create a human being by
  [[2]](#_F209) Ibid., 40, 60.  
  [[3]](#_F210) Ibid., 35, 1.  
  [[4]](#_F211) Ibid., 13, 39.  
-  
-
-  
-
-  
 
 no means? That a human being will die today and He will not make him die
 today?
@@ -1516,12 +1352,6 @@ you say that will is not (a thing) other than Him, then you have
 regarded it as Him.
 
 Sulaymān asked: Does Allah know how He creates thing?
-
-  
-
-  
-
-  
 
 Yes, replied the Imām.
 
@@ -1572,12 +1402,6 @@ said: *And if We will, We should certainly take away that which We have
 revealed to you*. If will is power, He wills take it away because of His
 power.
 
-  
-
-  
-
-  
-
 Feebleness appeared on Sulaymāns face, and he stood perplexed before
 this Ocean of knowledge and merit. As a result, he kept silent. Al-Mamūn
 turned to him and praised the Imāms talents saying: Sulaymān, this is
@@ -1617,11 +1441,6 @@ the Imām, peace be on him. He asked Safwān b.
 
 [[1]](#_F212) Ibid., 40, p. 51.  
  [[2]](#_F213) 'Uyūn Akhbār al-Ridā, vol. 1, pp. 182-191.  
-  
-
-  
-
-  
 
 Yahyā, a close associate of the Imām, to ask the Imām for permission to
 come in to him. The Imām gave him permission. When Abū Qurra was honored
@@ -1666,10 +1485,6 @@ men as light and guidance. All of them are originated and are other than
 Allah, Who says: *Or that He may produce a  
 *
 
-  
-
-  
-
 reminder for them.[[1]](#_ftn214) And He says: *There comes not to them
 a new reminder from their Lord but they hear it while they
 sport*.[[2]](#_ftn215) Allah originated all the Books which He sent
@@ -1708,17 +1523,10 @@ Q5: "We have been told that Allah divided ocular vision and (His) speech
 between two prophets. He gave His speech to Mūsā, and His vision to
 Mohammed, may Allah bless him and his family?"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F214) Qur'ān, 20, 113.  
  [[2]](#_F215) Ibid., 21, 2.  
-  
-
-  
-
-  
 
 Ans. 5: "Who brought the message from Allah to the *thaqalayn* (i.e. the
 jinn and men): the eyes attain Him not; they comprehend Him not in
@@ -1757,17 +1565,10 @@ Ans. 7: "When the traditions are contrary to the Qur'ān, I deny them.
 comprehend by knowledge, that the eyes do not attain Him, and that there
 is nothing like Him."
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F216) Ibid., 53, 13.  
  [[2]](#_F217) Ibid., 20, 11.  
-  
-
-  
-
-  
 
 The Imām, peace be on him, appointed a measure for the correctness and
 incorrectness of the traditions. The measure is that if the tradition
@@ -1806,18 +1607,11 @@ directed Himself to the heaven, so He made them seven complete heavens*.
 there was no creation. He was just as He was when there was no creation.
 He does not move with those who move."
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F218) Ibid., 17, 1.  
  [[2]](#_F219) Ibid.  
  [[3]](#_F220) Ibid., 45, 6.  
-  
-
-  
-
-  
 
 Q10: "Why do you raise your hands toward the heaven when you pray?"
 
@@ -1856,10 +1650,6 @@ else, and is indeed (of others). The word 'carried' in itself connotes
 deficiency and need. On the other hand the carrier is (active) i.e., the
 one who acts. The word 'carrier' signifies analogy within  
 
-  
-
-  
-
 itself, just as the word above, below, the very high and very low are
 generally used by speakers. Allah has also said: 'And to Allah (alone)
 belongs (all) the most beautiful names, so call him by
@@ -1895,16 +1685,9 @@ Abū Qurrah was astonished, was unable to answer, and escaped from the
 session while he was defeated. He was angry with the Imām and harbored
 malice against him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F221) Al-Ihtijājj, vol. 2, pp. 185-189.  
-  
-
-  
-
-  
 
 His debate with the Catholic
 ----------------------------
@@ -1948,11 +1731,6 @@ whereas rhetoricians, theologians, and
 
 [[1]](#_F222) He was one of the disciples of a prophet. It was said that
 he was sent to the children of Israel by a prophet.  
-  
-
-  
-
-  
 
 polytheists are people who deny and try to prove what is not true. If
 you argue with them and tell them that Allah is One, they would say:
@@ -1995,10 +1773,6 @@ Through these words the Imām, peace be on him, announced that he had
 boundless scientific abilities and that he was able to argue with all
 the people of the religions and beliefs, to refute their  
 
-  
-
-  
-
 imaginations, and to show them the way to the truth. He decided to make
 al-Ma'mūn feel remorseful over those measures he took against him.
 
@@ -2037,12 +1811,6 @@ from your Gospel, will you admit it?"
 
 "Yes," retorted the Catholic, "By Allah, I will admit it. Can l repel
 what the Bible speaks about?"
-
-  
-
-  
-
-  
 
 "Question (me) whatever you desire and hear (my) answers," declared the
 Imām.
@@ -2091,12 +1859,6 @@ The Imām asked him: "If we bring you someone who recites the Bible and
 recites to you Mohammed's name, his Household, and his community, then
 will you believe him?"
 
-  
-
-  
-
-  
-
 "A sound suggestion," the Catholic answered.
 
 The Imām turned to Nestus, the Roman, and asked Him: "Have you memorized
@@ -2144,10 +1906,6 @@ Catholic asked.
 Ans. 2: "You have found the expert! As for (the number of) the
 disciples, they were twelve men. The best and the most learned of  
 
-  
-
-  
-
 them was loqā. As for (the number of) the scholars of the Christians, it
 was three men: Yohnnā, the greatest-Yāhi-, Yohannā (Baqriqisiya), and
 Yohannā al-Daylami (Bazikhār), who had the reference to the Prophet, may
@@ -2191,10 +1949,6 @@ The Imām disproved his statement, saying: "Indeed al-Yasa' did just as
 dead, healed the blind and the leprous. Why did his community not adopt
 him as a lord? Why did not anyone serve him (as a god) other  
 
-  
-
-  
-
 than Allah? He gave life to thirty-five men sixty years after their
 death. Catholic, you find in the Torah that these (men) were among the
 youths of the children of Isrā'il whom Bukht Nasr (Nebuchadnezzar) chose
@@ -2233,10 +1987,6 @@ lords, for they did just as 'Īsā b. Maryam did such as giving life to
 the dead. Then a group of the children of Isrā'il left their own
 homeland in thousands out of fear of death of plague. Allah made them
 die within  
-
-  
-
-  
 
 one hour. The people of the village fenced them, and they remained
 wherein until their bones became decayed. One of the prophets of the
@@ -2279,12 +2029,6 @@ blind and the leprous, while such miracles happened through the master
 of the prophets, the Messenger, may Allah bless him and his family, and
 through some great prophets, but they were not adopted and served as
 lords other than Allah, the Most High.
-
-  
-
-  
-
-  
 
 After the Catholic Archbishop had heard these brilliant words of the
 Imām, he addressed him, saying: "My view agrees with yours, and there is
@@ -2331,12 +2075,6 @@ quoted of the Bible."
 Then the Imām made him confess that through the Bible, saying: "Have you
 found that established in the Bible?"
 
-  
-
-  
-
-  
-
 "Yes," came the answer.
 
 "O Catholic, could you tell me about the first Bible, how you lost then
@@ -2379,12 +2117,6 @@ present from among his family and others than them. He said to them:
 
 "We testify," they said.
 
-  
-
-  
-
-  
-
 The Imām addressed the Catholic, saying: "I challenge you to swear by
 the son and his mother whether you know if Matti (Matthew) had said
 concerning the lineage of 'Īsā : 'The Messiah is Dāwud (David) son of
@@ -2426,12 +2158,6 @@ to that of his grandfather, the master of all  creatures, Mohammed, may
 Allah bless him and his family. Then he said to the Imām with submission
 and admiration: "Let someone other than me ask you. By Allah, I did not
 think that there was a scholar like you among the Muslims."
-
-  
-
-  
-
-  
 
 The Catholic bowed his head, and the session shook with saying: "There
 is no god but Allah! Allah is greater!" Al-Ma'mūn and the others came to
@@ -2476,12 +2202,6 @@ not deny it."
 
 "Did one of the brothers of the children of Isrā'il other than Mohammed
 come to you?"
-
-  
-
-  
-
-  
 
 "No," was the answer.
 
@@ -2528,10 +2248,6 @@ High, brought the Bayān from Mount Fārān; the earth was full of the
 glorification of Ahmed and his community. He will carry his horses in
 the sea just as he will carry (them) on the land. He will  
 
-  
-
-  
-
 brought us a new Book (i.e. the Qur'ān) after the destruction of
 Jerusalem. Did you know this (statement) and believe in it?"
 
@@ -2575,12 +2291,6 @@ running, cleaved the stones so that springs gushed forth from them, took
 out his hand shinning white for the onlookers, and other signs the like
 of which the creature are unable to bring."
 
-  
-
-  
-
-  
-
 The Imām confirmed his statement, saying: "You are right; they are proof
 of his Prophethood. He brought the like of which the creatures were
 unable to bring. Is it obligatory on you to believe him who claims
@@ -2621,10 +2331,6 @@ who gave an account of that?"
 
 The Imām forced him (to admit that)  through a decisive argument, and
 then he said: "In this manner the successive accounts  
-
-  
-
-  
 
 about what 'Īsā b. Maryam had done also came to you. So why do you
 believe in Mūsā and do not believe in 'Īsā?"
@@ -2669,12 +2375,6 @@ before had made legal."
 The Imām asked him: "You believed in the tales which came to you about
 him, so you followed him, didn't you?"
 
-  
-
-  
-
-  
-
 "Yes," he answered.
 
 The Imām established against him undeniable argument, saying: "This is
@@ -2712,17 +2412,10 @@ thought that he had no means to get rid of him except assassinating him
 by putting poison in food. We will explain the matter of assassinating
 the Imām  by giving more details in the chapters that follow.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F223) Al-Ihtijājj, vol. 2, pp. 199-212. 'Uyūn Akhbār al-Ridā,
 vol. 2, p. 154-168.  
-  
-
-  
-
-  
 
 The Imām debates with an Atheist
 --------------------------------
@@ -2765,12 +2458,6 @@ anything.
 
 Q2: "So then He is nothing if He cannot be perceived by any of the
 senses?"
-
-  
-
-  
-
-  
 
 Ans. 2: "Woe unto you! When your senses fail to perceive Him, you deny
 His lordship. But when our senses fail to perceive Him, we know for
@@ -2815,12 +2502,6 @@ is impossible that there is increase or decrease in his organs. It is
 well know that this surprisingly accurate creation of man is evidence
 for the existence of Allah, for effect is proof of cause as logicians
 say.
-
-  
-
-  
-
-  
 
 Among the signs of Allah are the rotation of the celestial sphere, the
 producing of clouds; the turning about of the winds; the procession of
@@ -2870,10 +2551,6 @@ Ans. 8: "Surely a person among us is subtle in accordance with
 said:  
  'How subtle is so and so!' Then how should it not be said of the  
 
-  
-
-  
-
 Majestic Creator that He is subtle, when He creates a subtle and
 majestic creation, places in its living creatures their souls, creates
 every kind different in form from its own kind, and none resembles
@@ -2921,11 +2598,6 @@ him)*[[2]](#_ftn225), these words of Him, the Great and Almighty: *And
 expression is not accurate, and al-Shaykh al-Sadūq has turned aside from
 it.  
  [[2]](#_F225) Qur'ān, 20, 121.  
-  
-
-  
-
-  
 
 Dhā al-Nūn when he departed in wrath; he imagined that We had no power
 over him[[1]](#_ftn226), His words, the Great and Almighty, concerning
@@ -2958,8 +2630,6 @@ words of Him, the Great and Almighty: *Allah did indeed choose Adam and
 Nūh, the family of Ibrāhim, and the family of 'Umrān above all
 people*.[[6]](#_ftn231)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F226) Ibid., 21, 87.  
@@ -2968,11 +2638,6 @@ people*.[[6]](#_ftn231)
  [[4]](#_F229) Ibid., 33, 37.  
  [[5]](#_F230) Ibid., 3, 7.  
  [[6]](#_F231) Ibid., 3, 3.  
-  
-
-  
-
-  
 
 "As regarding His words, the Great and Almighty: *And (remember) Dhā
 al-Nūn when he departed in wrath; he imagined that We had no power over
@@ -3015,11 +2680,6 @@ one of the prophets of Allah, the Most High. Besides the
 ------------------------------------------------------------------------
 
 [[1]](#_F232) Ibid., 89, 16.  
-  
-
-  
-
-  
 
 narration contains a fable which is that Dāwud followed the bird. As for
 the Imām, peace be on him, he was displeased with this narration when he
@@ -3060,12 +2720,6 @@ permitted to marry the widow whose husband had been killed. Accordingly,
 he married Uryah's wife after he had been killed, and her waiting period
 had been over. This made the people accused Dāwud of killing Uryah."
 
-  
-
-  
-
-  
-
 As for Mohammed, peace be on him, and these words of Him, the Great and
 Almighty: *And you concealed in your soul what Allah would bring out to
 light, and you feared men, and Allah had a greater right that you should
@@ -3096,11 +2750,8 @@ supremacy over them, and they admitted his excellence and admitted their
 feebleness before him, for he, the peace of Allah be on him, had
 abundant scientific abilities.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F233) Ibid., 33, 37.  
  [[2]](#_F234) 'Uyūn Akhbār al-Ridā, vol. 1, pp. 192-195.  
-  
 

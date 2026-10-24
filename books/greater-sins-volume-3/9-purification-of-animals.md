@@ -566,4 +566,3 @@ except by scrubbing it with mud.
 [^4]: Tafsir Ayyashi, Book of Food and Drink of Wasa’il chapter one page
 248
 
-

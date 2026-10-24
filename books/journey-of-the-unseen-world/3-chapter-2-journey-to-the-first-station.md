@@ -274,4 +274,3 @@ us. We were thankful to God, that for our small deeds on the earth he
 had so richly rewarded us, As Quran says in Soora-e-Safat verse 61, "For
 the like of this all strivers should strive".
 
-

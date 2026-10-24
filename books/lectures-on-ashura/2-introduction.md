@@ -113,4 +113,3 @@ if we fail it will be the death of our religious existence because the
 deceitful enemy is sitting in ambush. Shaykh Muhammad Mahdi Shamsuddin
 Vice President, Al-Majlis-al-lslami al Shi'ie al-A 'la (Lebanon)
 
-

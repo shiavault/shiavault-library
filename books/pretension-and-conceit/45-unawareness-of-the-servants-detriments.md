@@ -25,4 +25,3 @@ Lord! Enable us to see our faults so such vision may be one of the marks
 of Your love for us. He, peace be with him, has said, "If Allāh loves a
 servant, He enables him to see his own faults."
 
-

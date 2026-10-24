@@ -58,4 +58,3 @@ you.*
 Our Master Muhammad [s] looked at his uncle respectfully. He felt strong
 as long as the Master of Makkah was with him.
 
-

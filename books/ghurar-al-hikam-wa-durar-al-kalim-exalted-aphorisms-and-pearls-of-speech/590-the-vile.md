@@ -23,11 +23,7 @@ him.
 evil and secure from his ills.
 
 > 4ـ اَللَّئِيمُ لايُرْجى خَيْرُهُ، ولايُسْلَمُ مِنْ شَرِّهِ،
-<blockquote dir="rtl">
-  <p>
-ولايُؤْمَنُ مِنْ غَوائِلِهِ.
-  </p>
-</blockquote>
+> ولايُؤْمَنُ مِنْ غَوائِلِهِ.
 
 5. The vile one dons the attire of dishonour and harms the freemen.
 
@@ -42,41 +38,25 @@ repayment for [in the future].
 difficulty, and when you need him he torments you.
 
 > 7ـ اَللَّئِيمُ إذَا احْتاجَ إلَيْكَ أجفاكَ، وإذَا احْتَجْتَ إلَيْهِ
-<blockquote dir="rtl">
-  <p>
-عَنّاكَ.
-  </p>
-</blockquote>
+> عَنّاكَ.
 
 8. Be cautious of the vile one when you honour him, and the depraved one
 when you bring him forward, and the lowly one when you raise him.
 
 > 8ـ اِحْذَرِ اللَّئِيمَ إذا أكْرَمْتَهُ، وَالرَّذْلَ إذا قَدَّمْتَهُ،
-<blockquote dir="rtl">
-  <p>
-والسِّفْلَةَ إذا رَفَعْتَهُ.
-  </p>
-</blockquote>
+> والسِّفْلَةَ إذا رَفَعْتَهُ.
 
 9. The vile one spares no effort in seeking evil vengeance for the wrong
 that has been done to him.
 
 > 9ـ اَللَّئِيْمُ يُعْلي هِمَّتَهُ فيما جُنِيَ عَلَيْهِ مِنْ طَلَبِ
-<blockquote dir="rtl">
-  <p>
-سُوءِ المُكافاةِ.
-  </p>
-</blockquote>
+> سُوءِ المُكافاةِ.
 
 10. Beware of depending on the vile one, for indeed he forsakes the one
 who depends on him.
 
 > 10ـ إيّاكَ أنْ تَعْتَمِدَ عَلَى اللَّئْيمِ، فَإنَّهُ يَخْذُلُ مَنِ
-<blockquote dir="rtl">
-  <p>
-اعْتَمَدَ عَلَيْهِ.
-  </p>
-</blockquote>
+> اعْتَمَدَ عَلَيْهِ.
 
 11. The most difficult objective is seeking that which is in the
 possession of the vile ones.
@@ -195,11 +175,7 @@ vile one.
 him diminish, whereas the honourable one is the opposite of this.
 
 > 36ـ كُلَّمَا ارْتَفَعَتْ رُتْبَةُ اللَّئيمِ نَقَصَ النّاسُ عِنْدَهُ،
-<blockquote dir="rtl">
-  <p>
-والكَريمُ ضِدُّ ذلِكَ.
-  </p>
-</blockquote>
+> والكَريمُ ضِدُّ ذلِكَ.
 
 37. One who is vile, [the occasion of] his birth is evil.
 
@@ -226,14 +202,9 @@ the vile one.
 blameworthy miserliness.
 
 > 42ـ يُسْتَدَلُّ عَلَى اللَّئيمِ بِسُوءِ الفِعْلِ، وقُبْحِ الخُلْقِ،وَ
-<blockquote dir="rtl">
-  <p>
-ذَميمِ البُخْلِ.
-  </p>
-</blockquote>
+> ذَميمِ البُخْلِ.
 
 43. The practice of the vile ones is denial.
 
 > 43ـ سُنَّـةُ اللِّئامِ الجُحُودُ.
-
 

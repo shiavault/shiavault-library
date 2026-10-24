@@ -126,4 +126,3 @@ as a mark of gratitude for granting him a refuge. See at-Tusi, op. cit.,
 p.43; al-Kishshi, op. cit., p.68; al-Mamaqani, op. cit., vol.2, p.52,
 no.5157; Ibnu 'n-Nadim, op. cit., p.219.
 
-

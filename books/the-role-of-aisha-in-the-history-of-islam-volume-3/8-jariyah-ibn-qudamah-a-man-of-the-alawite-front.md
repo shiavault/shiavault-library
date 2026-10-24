@@ -489,4 +489,3 @@ danger of alteration was a truce with Mu'awiyah, and this was the way
 adopted by Imam al-Hasan al-Mujtaba and he went ahead with it. 194.
 al-Ya'qubi 2/164, and History of Ibn Khayyat 1/180.
 
-

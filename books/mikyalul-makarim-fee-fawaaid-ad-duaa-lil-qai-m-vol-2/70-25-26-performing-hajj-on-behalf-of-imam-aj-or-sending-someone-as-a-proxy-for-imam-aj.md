@@ -174,4 +174,3 @@ Pg. 40, Chapter 3, Tr. No. 40
 
 [^9]: Al-Kharaij wal Jarah, Qutub Rawandi, Pg. 73
 
-

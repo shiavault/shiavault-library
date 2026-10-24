@@ -34,20 +34,15 @@ that Allah will suffice him in life, wealth and children.
 There is no doubt, of course, that the one will make himself free from
 want from others by means of practicing the contents of this Sura.
 
-
 **Section 1 : Zechariah and John No. 19 (98 verses in 6 sections)**
 
 Apostle Zechariah's prayer for an issue - Allah's granting him a son,
 though Zechariah was old and his wife was barren and very old - Yahya
 (John) commissioned as an Apostle of Allah in his childhood itself.
 
-
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 **Commentary : Verse 1.2.3**
-
 
 1- كهيعص
 
@@ -63,7 +58,6 @@ In The Name of Allah, The Beneficent, The Merciful
 Zechariah."
 
 3. " When he called upon his Lord in secret."
-
 
 **Commentary:**
 
@@ -117,7 +111,6 @@ wished Allah for a son.
 Some Islamic literature indicates that the best supplication is that
 which is asked in secret, and the best provision is that which is
 sufficient. (Tafsir-i-Majma'-ul-Bayan)
-
 
 **Commentary : Verse 4.5**
 
@@ -175,9 +168,7 @@ anxiety was about his uncle and his cousins.(1)
 
 1- Nur-uth-Thaqalayn, the Commentary
 
-
 **Commentary : Verse 6.7.8**
-
 
 6- يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيّاً
 
@@ -302,9 +293,7 @@ Imam Baqir (a.s.) said that five years elapsed between the time when
 the glad tidings was given and when the birth of Yahya occurred.
 (Majma'-ul-Bayan, and Bihar-ul-'Anwar, vol. 14, p. 176)
 
-
 **Commentary : Verse 9.10**
-
 
 9- قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيّـِنٌ وَقَدْ خَلَقْتُكَ
 مِن قَبْلُ وَلَمْ تَكُ شَيْئاً
@@ -352,7 +341,6 @@ Abraham's, way who was certain of the Resurrection, yet he asked to see
 an aspect of the resurrection in this world in order that his heart
 would become more certain. Then Zechariah (a.s.) received this answer:
 
-
 " …Said He: 'Your sign is that you shall not be able to speak to the
 people for three nights, though sound (in health)."
 
@@ -378,7 +366,6 @@ the Will and device of Allah, so that if He let not we are not able to
 speak even when we are in a complete health.
 
 **Commentary : Verse 11**
-
 
 11- فَخَرَجَ عَلَى قَوْمِهِ مِنَ الْمِـحْرَابِ فَاَوْحَى إِلَيْهِمْ أَن
 سَبّـِحُوا بُكْرَةً وَعَشِيّاً
@@ -412,7 +399,6 @@ unto them that they should glorify (Allah) morning and evening."
 Moreover, this bounty, which was counted a miracle, could firm the
 foundations of belief in their hearts.
 
-
 **Some Traditions:**
 
 1. The Messenger of Allah (p.b.u.h.) said: "The most beloved sayings
@@ -426,7 +412,6 @@ from him, the least of which is poverty." (Amali by Sadugh, p. 55)
 3. Imam Sadiq (a.s.) said: "The hymns of Fatimatuz-Zahra, after every
 prayer, is more beloved with me than one thousand units (rak'ah) of
 prayer in a day." (Muhajjat-ul-Bayd?', vol. 2, p. 348)
-
 
 **Commentary : Verse 12.13**
 
@@ -510,7 +495,6 @@ which caused the kindness of people to John and John's affection unto
 people, all of which were from the Grace of Allah and His Mercy.
 
 **Commentary : Verse 14.15**
-
 
 14- وَبَرَّا بِوَالِدَيْهِ وَلَمْ يَكُن جَبَّاراً عَصِيّاً
 
@@ -605,5 +589,4 @@ Turah. Yahya scorned him for that action. Them that woman, by misusing
 the beauty of her daughter, caused Herod to kill Yahya (John). (The
 Gospel according to ST. Matthew, Chapter 14; and accrding to ST. Mark,
 Chapter 6, No. 17 on)
-
 

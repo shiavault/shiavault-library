@@ -168,7 +168,6 @@ Yanabee' al-Mawada, p41; al-Durr al-Manthoor by al-Suyuti, v2, p60; Kanz
 al- 'Umal, by al-Muttaqi al-Hindi, v1, p168; and \`Aqabat al-Anwar, v1,
 p184.
 
-
 **The Caliphate and The Question of Qada Wa Qadar**
 
 The strange thing about the Sunni belief is that while they believe
@@ -259,5 +258,4 @@ Which viewpoint is closer to reason? One that blames Allah, THE Creator
 and Sustainer of the Universe, or one that makes YOU responsible for
 your own actions? I leave the answer for the enlightened reader to
 provide.
-
 

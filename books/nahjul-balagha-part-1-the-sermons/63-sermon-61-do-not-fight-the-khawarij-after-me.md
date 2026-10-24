@@ -3,11 +3,7 @@ Sermon 61: Do not fight the Khawarij after me ...
 
 *Amir al-mu'minin also said concerning the Kharijites:*
 
-<blockquote dir="rtl">
-  <p>
-وقال (عليه السلام) فيهم
-  </p>
-</blockquote>
+> وقال (عليه السلام) فيهم
 
 Do not fight[^1] the Kharijites after me, because one who seeks right
 but does not find it, is not like one who seeks wrong and finds it.
@@ -15,18 +11,10 @@ but does not find it, is not like one who seeks wrong and finds it.
 **As-Sayyid ar-Radi says:** (By “one who seeks wrong and finds it”) Amir
 al-mu'minin means Mu\`awiyah and his men.
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَقْتُلُوا الْخَوَارِجَ بَعْدِي، فَلَيْسَ مَنْ طَلَبَ الْحَقَّ
-فَأَخْطَأَهُ، كَمَنْ طَلَبَ الْبَاطِلَ فَأَدْرَكَهُ.
-  </p>
-</blockquote>
+> لاَ تَقْتُلُوا الْخَوَارِجَ بَعْدِي، فَلَيْسَ مَنْ طَلَبَ الْحَقَّ
+> فَأَخْطَأَهُ، كَمَنْ طَلَبَ الْبَاطِلَ فَأَدْرَكَهُ.
 
-<blockquote dir="rtl">
-  <p>
-قال السيد الشريف: يعني معاوية وأصحابه.
-  </p>
-</blockquote>
+> قال السيد الشريف: يعني معاوية وأصحابه.
 
 Alternative Sources for Sermon 61
 ---------------------------------
@@ -66,5 +54,4 @@ innocent persons and placing over Muslims (as so called Khalifah) a
 vicious individual and thus opening the way to disbelief and atheism are
 events that to attribute them to any misunderstanding is like wilfully
 closing eyes to facts.
-
 

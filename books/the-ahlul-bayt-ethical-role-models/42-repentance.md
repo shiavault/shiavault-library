@@ -99,13 +99,9 @@ Allah’s forgiveness, by uttering the following statement, with deep
 feeling of sorrow, Allah will forgive his sins. He who commits more than
 forty grand sins on a single day is hopeless. The statement is:
 
-<blockquote dir="rtl">
-  <p>
-أستغْفِرُ اللهَ الّذي لا إلهَ إلا هوَ الحَيّ القَيّومُ بَديعُ
-السّمواتِ والأرْضِ ذو الجَلالِ والإكْرامِ وأسْألُهُ أنْ يُصلِيَ على
-مُحَمّدٍ وآلِ مُحَمّدٍ وأنْ يَتوبَ عَلَيّ.
-  </p>
-</blockquote>
+> أستغْفِرُ اللهَ الّذي لا إلهَ إلا هوَ الحَيّ القَيّومُ بَديعُ
+> السّمواتِ والأرْضِ ذو الجَلالِ والإكْرامِ وأسْألُهُ أنْ يُصلِيَ على
+> مُحَمّدٍ وآلِ مُحَمّدٍ وأنْ يَتوبَ عَلَيّ.
 
 astaghfiru (a)llah allathi la ilaha illa huwa (a)lhayyu (a)lqayyoumu
 badee’u (a)ssamawaati wa (a)l-ardhi thu (a)ljalaali wa (a)l’ikraami wa
@@ -274,5 +270,4 @@ Thawab ul-A’mal).
 [^8]: Quoted from al-Wafi; part 3 page 183 (as quoted from al- Kafi).
 
 [^9]: Quoted from al-Wafi; part 3 page 183 (as quoted from al- Kafi).
-
 

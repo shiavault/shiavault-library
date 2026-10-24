@@ -61,9 +61,7 @@ this matter?
 to history?
 7- Is allocating Khums for Sadat (pl. of Sayyed) Discrimination?
 
-
 **Purpose of the Objectors**
-
 
 Some people try hard for proving two issues: one of them is the issue
 of unnecessity of Taqlid (following in religious rulings) and the other
@@ -143,5 +141,4 @@ conspiracy and have known about their evil purposes, and accordingly it
 seems so unlikely that they can achieve their goals, and their fiasco
 can be predicted by now, and their plan is like a drawing on the
 water!
-
 

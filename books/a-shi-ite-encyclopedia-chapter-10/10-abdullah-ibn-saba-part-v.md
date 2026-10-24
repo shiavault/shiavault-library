@@ -109,7 +109,6 @@ extent that some facts seem frightful. But we have to obey the truth no
 matter how difficult they appear. The truth is the best to be
 followed.
 
-
 Dr. Hamid Hafni Dawud
 Oct. 12, 1961
 Cairo, Egypt.
@@ -501,5 +500,4 @@ Now, what do these mercenaries have to offer? NOTHING!!! They still
 cling to their own-made version of history, thereby contradicting
 themselves and the above proofs as well as the documented Sunni history,
 simply to defend their ignorant statements about the Shia.
-
 

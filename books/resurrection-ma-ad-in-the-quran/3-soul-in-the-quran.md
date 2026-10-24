@@ -7,16 +7,12 @@ of the self of man we can utilize three types of verses:
 First type: Verses related to death. In some verses, the Almighty Allah
 has compared death to ‘Tawafi’ (taking up). For example:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِى يَتَوَفَّكُم بِالَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم
-بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَى‏ أجَلٌ مُسَمّىً ثُمَّ
-إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ
-تَعْمَلُونَ‏ \* وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ وَيُرْسِلُ
-عَلَيْكُمْ حَفَظَةً حَتَّى‏ إِذَا جَآءَ أَحَدَكُمُ الْمَوْتُ
-تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَايُفَرِّطُونَ‏
-  </p>
-</blockquote>
+> وَهُوَ الَّذِى يَتَوَفَّكُم بِالَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم
+> بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَى‏ أجَلٌ مُسَمّىً ثُمَّ
+> إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ
+> تَعْمَلُونَ‏ \* وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ وَيُرْسِلُ
+> عَلَيْكُمْ حَفَظَةً حَتَّى‏ إِذَا جَآءَ أَحَدَكُمُ الْمَوْتُ
+> تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَايُفَرِّطُونَ‏
 
 ***And He it is Who takes your souls at night (in sleep), and He knows
 what you acquire in the day, then He raises you up therein that an
@@ -26,14 +22,10 @@ servants, and He sends keepers over you; until when death comes to one
 of you, Our messengers cause him to die, and they are not remiss.
 (6:60-61)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُواْ أَءِذَا ضَلَلْنَا فِى الْأَرْضِ أَءِنَّا لَفِى خَلْقٍ
-جَدِيدِ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَافِرُونَ \* قُلْ يَتَوَفَّاكُم
-مَّلَكُ الْمَوْتِ الَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَى‏ رَبِّكُمْ
-تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَقَالُواْ أَءِذَا ضَلَلْنَا فِى الْأَرْضِ أَءِنَّا لَفِى خَلْقٍ
+> جَدِيدِ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَافِرُونَ \* قُلْ يَتَوَفَّاكُم
+> مَّلَكُ الْمَوْتِ الَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَى‏ رَبِّكُمْ
+> تُرْجَعُونَ
 
 ***And they say: What! when we have become lost in the earth, shall we
 then certainly be in a new creation? Nay! they are disbelievers in the
@@ -41,14 +33,10 @@ meeting of their Lord. Say: The angel of death who is given charge of
 you shall cause you to die, then to your Lord you shall be brought back.
 (32:10-11)***
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِى لَمْ تَمُتْ
-فِى مَنَامِهَا فَيُمْسِكُ الَّتِى قَضَى‏ عَلَيْهَا الْمَوْتَ
-وَيُرْسِلُ الْأُخْرَى‏ إِلَى‏ أَجَلٍ مُّسَمّىً إِنَّ فِى ذَلِكَ
-لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ‏
-  </p>
-</blockquote>
+> أللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِى لَمْ تَمُتْ
+> فِى مَنَامِهَا فَيُمْسِكُ الَّتِى قَضَى‏ عَلَيْهَا الْمَوْتَ
+> وَيُرْسِلُ الْأُخْرَى‏ إِلَى‏ أَجَلٍ مُّسَمّىً إِنَّ فِى ذَلِكَ
+> لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ‏
 
 ***Allah takes the souls at the time of their death, and those that die
 not during their sleep; then He withholds those on whom He has passed
@@ -93,30 +81,18 @@ the scroll of deed of My servant till I raise him up again.’”[^1]
 Second type: Verses which state that after death, man will return to the
 Almighty Allah. There are a large number of verses of this type:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ يُحْىِ وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ‏
-  </p>
-</blockquote>
+> هُوَ يُحْىِ وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ‏
 
 ***He gives life and causes death, and to Him you shall be brought back.
 (10:56)***
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ ثُمَّ إِلَيْنَا تُرْجَعُونَ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ ثُمَّ إِلَيْنَا تُرْجَعُونَ
 
 ***Every soul must taste of death, then to Us you shall be brought back.
 (29:57)***
 
-<blockquote dir="rtl">
-  <p>
-إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعاً فَيُنَبِّئُكُم بِمَا كُنتُمْ
-تَعْمَلُونَ‏
-  </p>
-</blockquote>
+> إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعاً فَيُنَبِّئُكُم بِمَا كُنتُمْ
+> تَعْمَلُونَ‏
 
 ***…to Allah is your return, of all (of you), so He will inform you of
 what you did. (5:105)***
@@ -131,26 +107,18 @@ as the body of man is not capable of returning.
 Third type: Verses revealed about the creation of Adam and the blowing
 of the sprit of God into him. For example:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ رَبُّكَ لِلْمَلَآئِكَةِ إِنِّى خَالِقٌ بَشَراً مِّن
-طِينٍ \* فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ من رُّوحِى فَقَعُواْ
-لَهُ سَاجِدِينَ‏
-  </p>
-</blockquote>
+> إِذْ قَالَ رَبُّكَ لِلْمَلَآئِكَةِ إِنِّى خَالِقٌ بَشَراً مِّن
+> طِينٍ \* فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ من رُّوحِى فَقَعُواْ
+> لَهُ سَاجِدِينَ‏
 
 ***When your Lord said to the angels; Surely I am going to create a
 mortal from dust: So when I have made him complete and breathed into him
 of My spirit, then fall down making obeisance to him. (38:71-72)***
 
-<blockquote dir="rtl">
-  <p>
-ألَّذِى أَحْسَنَ كُلَّ شَىْ‏ءٍ خَلَقَهُ وَبَدَأَ خَلْقَ الْإِنْسَانِ
-مِن طِينٍ‏ \* ثُمَّ جَعَلَ نَسْلَهُ مِن سُلاَلَةٍ مِّن مَّآءٍ
-مَّهِينٍ \* ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ وَجَعَلَ لَكُمُ
-السَّمَعَ وَالْأَبْصَارَ وَ الْأَفْئِدَةَ قَلِيلاً مَّا تَشْكُرُونَ
-  </p>
-</blockquote>
+> ألَّذِى أَحْسَنَ كُلَّ شَىْ‏ءٍ خَلَقَهُ وَبَدَأَ خَلْقَ الْإِنْسَانِ
+> مِن طِينٍ‏ \* ثُمَّ جَعَلَ نَسْلَهُ مِن سُلاَلَةٍ مِّن مَّآءٍ
+> مَّهِينٍ \* ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ وَجَعَلَ لَكُمُ
+> السَّمَعَ وَالْأَبْصَارَ وَ الْأَفْئِدَةَ قَلِيلاً مَّا تَشْكُرُونَ
 
 ***(It is He) Who made good everything that He has created, and He began
 the creation of man from dust. Then He made his progeny of an extract of
@@ -165,12 +133,8 @@ used in many occasions in the Holy Quran and the above verse is one of
 them. People asked the Messenger of Allah (S) about the reality of the
 soul and the following verse was revealed in reply:
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْئَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ
-أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلاً
-  </p>
-</blockquote>
+> وَيَسْئَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ
+> أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلاً
 
 ***And they ask you about the soul. Say: The soul is one of the commands
 of my Lord, and you are not given aught of knowledge but a little.
@@ -178,13 +142,9 @@ of my Lord, and you are not given aught of knowledge but a little.
 
 In another verse is explained the ‘command of Allah’ as follows:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَآ أَمْرُهُ إِذَآ أَرَادَ شَيْئاً أَن يَقُولَ لَهُ كُن
-فَيَكُونُ‏ \* فَسُبْحَانَ الَّذِى بِيَدِهِ مَلَكُوتُ كُلِ‏ّ شَىْ‏ءٍ
-وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> إِنَّمَآ أَمْرُهُ إِذَآ أَرَادَ شَيْئاً أَن يَقُولَ لَهُ كُن
+> فَيَكُونُ‏ \* فَسُبْحَانَ الَّذِى بِيَدِهِ مَلَكُوتُ كُلِ‏ّ شَىْ‏ءٍ
+> وَإِلَيْهِ تُرْجَعُونَ
 
 ***His command, when He intends anything, is only to say to it: Be, so
 it is. Therefore glory be to Him in Whose hand is the kingdom of all
@@ -212,11 +172,7 @@ the command of ‘Be’; and if there are stages, they are only in the
 causes and in the acquisition of capabilities and not in the creation
 and action of the Almighty Allah as proved by the statement of:
 
-<blockquote dir="rtl">
-  <p>
-بِيَدِهِ مَلَكُوتُ كُلِّ شَىْ‏ءٍ
-  </p>
-</blockquote>
+> بِيَدِهِ مَلَكُوتُ كُلِّ شَىْ‏ءٍ
 
 ***...in Whose hand is the kingdom of all things (23:88)***
 
@@ -233,15 +189,11 @@ of ‘I blew my soul in him’ and the phrase of ‘then We caused it to grow
 into another creation’ is used in this regard. Pay attention to the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنْسَنَ مِن سُلَلَةٍ مِّن طِينٍ‏ \* ثُمَّ
-جَعَلْنَهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ‏ \* ثُمَّ خَلَقْنَا
-النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا
-الْمُضْغَةَ عِظَماً فَكَسَوْنَا الْعِظَمَ لَحْماً ثُمَّ أَنشَأْنَهُ
-خَلْقاً ءَاخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَلِقِينَ‏
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنْسَنَ مِن سُلَلَةٍ مِّن طِينٍ‏ \* ثُمَّ
+> جَعَلْنَهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ‏ \* ثُمَّ خَلَقْنَا
+> النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا
+> الْمُضْغَةَ عِظَماً فَكَسَوْنَا الْعِظَمَ لَحْماً ثُمَّ أَنشَأْنَهُ
+> خَلْقاً ءَاخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَلِقِينَ‏
 
 ***And certainly We created man of an extract of clay. Then We made him
 a small seed in a firm resting-place. Then We made the seed a clot, then
@@ -257,11 +209,7 @@ of man is mentioned, the phrase of “then We caused it to grow into
 another creation” is used in order to declare its superiority over other
 phenomena. It is about this special creation that it is said:
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَلِقِينَ‏
-  </p>
-</blockquote>
+> فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَلِقِينَ‏
 
 ***Blessed be Allah, the best of the creators.***
 
@@ -273,5 +221,4 @@ so that it may be rewarded or punished according to its good or bad
 deeds.
 
 [^1]: Biharul Anwar, Vol. 6, Pg. 152.
-
 

@@ -835,4 +835,3 @@ his body equally on two feet, stand in humility, keep both his feet in
 line. Men offering prayers should keep a distance of three open fingers,
 or a span between his feet, and women should keep the feet together.
 
-

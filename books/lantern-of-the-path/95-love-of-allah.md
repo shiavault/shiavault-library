@@ -32,4 +32,3 @@ angels and the keepers of His throne, so that they love him.’
 That lover truly has an abundance of bliss, and will be able to
 intercede with Allah on the Day of Resurrection.'
 
-

@@ -12,4 +12,3 @@ safest from sudden events and [from] the onslaught of their deaths.
 
 > 2ـ رُبَّما أدْرَكَ العاجِزُ حاجَتَهُ.
 
-

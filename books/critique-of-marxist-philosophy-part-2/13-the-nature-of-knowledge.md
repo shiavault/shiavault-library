@@ -137,4 +137,3 @@ matter. The soul is a product of this movement, which itself is the
 bridge between materiality and spirituality. Concluded - wa al-hamdu
 lillah.
 
-

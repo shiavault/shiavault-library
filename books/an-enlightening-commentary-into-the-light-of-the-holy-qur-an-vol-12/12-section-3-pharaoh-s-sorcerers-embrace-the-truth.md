@@ -4,18 +4,10 @@ Section 3: Pharaoh’s Sorcerers Embrace the Truth
 Surah Ash-Shu‘ara - Verses 34-35
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِلْمَلإِ حَوْلَهُ إِنَّ هَذَا لَسَاحِرٌ عَلِيمٌ
-  </p>
-</blockquote>
+> قَالَ لِلْمَلإِ حَوْلَهُ إِنَّ هَذَا لَسَاحِرٌ عَلِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِ فَمَاذَا
-تَأْمُرُونَ
-  </p>
-</blockquote>
+> يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِ فَمَاذَا
+> تَأْمُرُونَ
 
 ***34. “(Pharaoh) said to the chiefs around him: ‘Verily this is a
 skilled sorcerer,”***  
@@ -106,17 +98,9 @@ had no effect on people who knew them for a long time.
 Surah Ash-Shu‘ara - Verses 36-37
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَرْجِهِ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ
-  </p>
-</blockquote>
+> قَالُوا أَرْجِهِ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ
-  </p>
-</blockquote>
+> يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ
 
 ***36. “They said: ‘Give him (Moses) and his brother respite, and send
 heralds into the cities to collect’,”***  
@@ -154,17 +138,9 @@ wizards at any price to fight Moses (as).
 Surah Ash-Shu‘ara - Verses 38-39
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَّعْلُومٍ
-  </p>
-</blockquote>
+> فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَّعْلُومٍ
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ
-  </p>
-</blockquote>
+> وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ
 
 ***38. “So the sorcerers were got together for the appointment of a day
 well-known.”***  
@@ -215,24 +191,12 @@ speaking attracted more people to that gathering.
 Surah Ash-Shu‘ara - Verses 40-42
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِن كَانُوا هُمُ الْغَالِبِينَ
-  </p>
-</blockquote>
+> لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِن كَانُوا هُمُ الْغَالِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَاء السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لاَجْرًا
-إِن كُنَّا نَحْنُ الْغَالِبِينَ
-  </p>
-</blockquote>
+> فَلَمَّا جَاء السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لاَجْرًا
+> إِن كُنَّا نَحْنُ الْغَالِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ الْمُقَرَّبِينَ
-  </p>
-</blockquote>
+> قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ الْمُقَرَّبِينَ
 
 ***40. “Haply we may follow the sorcerers if they are victors.”***  
 ***41. “Then, when the sorcerers came, they said to Pharaoh: ‘Shall we
@@ -307,18 +271,10 @@ Allah’s nearness when he worships.
 Surah Ash-Shu‘ara - Verses 43-44
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَهُم مُّوسَى أَلْقُوا مَا أَنتُم مُّلْقُونَ
-  </p>
-</blockquote>
+> قَالَ لَهُم مُّوسَى أَلْقُوا مَا أَنتُم مُّلْقُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ
-إِنَّا لَنَحْنُ الْغَالِبُونَ
-  </p>
-</blockquote>
+> فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ
+> إِنَّا لَنَحْنُ الْغَالِبُونَ
 
 ***43. “Moses said to them: ‘Cast what you are going to Cast’.”***  
 ***44. “So they cast down their ropes and their rods, and said: ‘By
@@ -386,29 +342,13 @@ joy. By looking at this pleasant scene, they got very happy.
 Surah Ash-Shu‘ara - Verses 45-48
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْقَى مُوسَى عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ
-  </p>
-</blockquote>
+> فَأَلْقَى مُوسَى عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ
-  </p>
-</blockquote>
+> فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ مُوسَى وَهَارُونَ
-  </p>
-</blockquote>
+> رَبِّ مُوسَى وَهَارُونَ
 
 ***45. “Then Moses cast down his rod, when, behold, it swallowed up that
 which they falsely displayed.”***  
@@ -498,27 +438,15 @@ undue.)
 Surah Ash-Shu‘ara - Verses 49-51
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ
-الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ لاَقَطِّعَنَّ
-أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلاَفٍ وَلاُصَلِّبَنَّكُمْ
-أَجْمَعِينَ
-  </p>
-</blockquote>
+> قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ
+> الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ لاَقَطِّعَنَّ
+> أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلاَفٍ وَلاُصَلِّبَنَّكُمْ
+> أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لاَ ضَيْرَ إِنَّا إِلَى رَبِّنَا مُنقَلِبُونَ
-  </p>
-</blockquote>
+> قَالُوا لاَ ضَيْرَ إِنَّا إِلَى رَبِّنَا مُنقَلِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَن كُنَّا
-أَوَّلَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَن كُنَّا
+> أَوَّلَ الْمُؤْمِنِينَ
 
 ***49. “(Pharaoh) said: ‘You have believed in him before I give you
 leave. Verily, he is the chief of you who taught you the sorcery; so,
@@ -675,5 +603,4 @@ means to postpone and not hasting in judgment.
 [^3]: Surah Ta-Ha, No. 20, verse 66
 
 [^4]: The commentary of Fi Zilal, Vol. 6, P. 208
-
 

@@ -1,12 +1,8 @@
 Translator’s Foreword
 =====================
 
-<blockquote dir="rtl">
-  <p>
-” هل من ناصر ينصرنا هل من معين يعيننا هل من ذاب عن حرم رسول الله صلى
-الله عليه واله"
-  </p>
-</blockquote>
+> ” هل من ناصر ينصرنا هل من معين يعيننا هل من ذاب عن حرم رسول الله صلى
+> الله عليه واله"
 
 **Is there anyone to help me? Is there anyone to support me? Is there
 any defender to defend the Household of the Messenger of Allah?**
@@ -60,11 +56,7 @@ followers?
 
 • We recite in our Ziyarah to Imam Husayn (as),
 
-<blockquote dir="rtl">
-  <p>
-يَا لَيْتَنَا كُنَّا مَعَكُم فَنَفُوزُ فَوْزاً عظيماً
-  </p>
-</blockquote>
+> يَا لَيْتَنَا كُنَّا مَعَكُم فَنَفُوزُ فَوْزاً عظيماً
 
 **We wish we were with you and so we would have won the greatest
 victory!**
@@ -125,11 +117,7 @@ equate Husayn (as) with Yazid (LA)[^1] or ‘Ali (as) with Muawiya (LA)!
 
 As stated in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ
-  </p>
-</blockquote>
+> قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ
 
 ***“Say, the evil and the good are not equal…” (5:100)***
 
@@ -219,12 +207,8 @@ the victims in the case of Imam Husayn’s cold-blooded murder, even if it
 is much later in time and even if the perpetrators have departed this
 world long time ago. Hence, we recite in Ziyarat Ashura,
 
-<blockquote dir="rtl">
-  <p>
-…طَلَبَ ثَارِي مَعَ إِمَامِ هُدىً ظَاهِرٍ نَاطِقٍ بِالْـحَقِّ
-مِنْكُمْ،…
-  </p>
-</blockquote>
+> …طَلَبَ ثَارِي مَعَ إِمَامِ هُدىً ظَاهِرٍ نَاطِقٍ بِالْـحَقِّ
+> مِنْكُمْ،…
 
 **I ask Allah to provide me the opportunity to fight for justice and
 seek your vengeance under the leadership of the rightly-guided leader in
@@ -272,11 +256,7 @@ filthiest garbage and trash of history …until the awaited Mahdi and
 chosen Imam of our Time (may Allah hasten his reappearance) resonates
 his call:
 
-<blockquote dir="rtl">
-  <p>
-يا لِثَارَات الحُسَيْن
-  </p>
-</blockquote>
+> يا لِثَارَات الحُسَيْن
 
 **“Revenge on [the killers of] Al-Husayn!”**
 
@@ -296,5 +276,4 @@ are today revisiting the plains of Karbala with our swords unsheathed
 against your enemies!”**
 
 [^1]: (LA) = May that person be deprived of God’s Mercy
-
 

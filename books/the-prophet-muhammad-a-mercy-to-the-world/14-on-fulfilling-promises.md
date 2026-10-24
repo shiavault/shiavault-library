@@ -222,7 +222,6 @@ sacred just as this day is sacred and this month is sacred.'322
 He also said: 'To sit in the mosque awaiting the time of prayer is an
 act of worship as long as the person does not backbite.'323
 
-
 **On Justice**
 
 The Prophet said: 'No nation which does not firmly take the rights of
@@ -283,7 +282,6 @@ twelve years journey away.'335 He said: 'In Hellfire I saw the owner of
 a cat which was mauling her in front and behind. This was because she
 used to tie it up and did not feed it or let it loose to eat from the
 vermin of the earth.' 336
-
 
 **Words of Light**
 
@@ -453,5 +451,4 @@ to study the Qur'an, and to lower your wing [i.e. be kind to others] . .
 
 The Prophet Muhammad said: 'The best of combat is to combat one's self
 that is between one's flanks.' 357
-
 

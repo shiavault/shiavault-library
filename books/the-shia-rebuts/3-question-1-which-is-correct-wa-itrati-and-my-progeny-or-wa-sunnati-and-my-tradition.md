@@ -29,14 +29,10 @@ day Allah’s Messenger (S) stood up to deliver sermon near a pool known
 as Khumm situated between Mecca and Medina. In the said sermon, he
 extolled Allah and exhorted the people, and then he said:
 
-<blockquote dir="rtl">
-  <p>
-"ألا أيها الناس فانما أنا بشر يوشك أن يأتي رسول ربِّي فأجيب وأنا تاك
-فيكم الثَّقلين: أولهما كتاب الله فيه والهدى النور فخذو بكتاب الله
-واستمسكوا به – فحث لى كتاب والله رغب فيه ثم قال: أذكركم الله في أهل
-بيتي."
-  </p>
-</blockquote>
+> "ألا أيها الناس فانما أنا بشر يوشك أن يأتي رسول ربِّي فأجيب وأنا تاك
+> فيكم الثَّقلين: أولهما كتاب الله فيه والهدى النور فخذو بكتاب الله
+> واستمسكوا به – فحث لى كتاب والله رغب فيه ثم قال: أذكركم الله في أهل
+> بيتي."
 
 Now to our purpose: O people, I am a human being. I am about to receive
 a messenger (the angel of death) from my Lord and I, in response to
@@ -58,19 +54,11 @@ sun and there is no room for doubt about it.
 members of my Household” {*wa ‘itrati ahla bayti*}, Tirmidhi writes that
 the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"إني تارك فيكم ما ان تمسكتم به لن تضلوا بعدي ، أحدهما أعظم من الأخر:
-كتاب الله حبل ممدود من السماء
-  </p>
-</blockquote>
+> "إني تارك فيكم ما ان تمسكتم به لن تضلوا بعدي ، أحدهما أعظم من الأخر:
+> كتاب الله حبل ممدود من السماء
 
-<blockquote dir="rtl">
-  <p>
-إلى والأرض عترتي أهل بيتي لن يفتقا حتى يردا عليَّ الحوض فانظروا كيف
-تخلفوني فيها."
-  </p>
-</blockquote>
+> إلى والأرض عترتي أهل بيتي لن يفتقا حتى يردا عليَّ الحوض فانظروا كيف
+> تخلفوني فيها."
 
 Verily, I am leaving among you two weighty things to which if you hold
 fast, you shall never go astray. One is greater than the other: the Book
@@ -97,19 +85,11 @@ was concocted and transmitted by the ‘Umayyad agents:
 1. In his *Mustadrak (‘ala’s-Sahihayn)*, Hakim al-Nayshaburi relates
 this narration with the following chain of transmission:
 
-<blockquote dir="rtl">
-  <p>
-عباس عن بن أبي أويس عن ابي اويس عن ثور بن زيد الدّيلمي عن عكمة عن ابن
-عباس قال رسول الله: "يا
-  </p>
-</blockquote>
+> عباس عن بن أبي أويس عن ابي اويس عن ثور بن زيد الدّيلمي عن عكمة عن ابن
+> عباس قال رسول الله: "يا
 
-<blockquote dir="rtl">
-  <p>
-أيها الناس إني قد تركت فيكم ان اعتصمتم به فلن تضلّوا أبداً كتاب الله
-وسنّة نبيّه."
-  </p>
-</blockquote>
+> أيها الناس إني قد تركت فيكم ان اعتصمتم به فلن تضلّوا أبداً كتاب الله
+> وسنّة نبيّه."
 
 ‘Abbas ibn Abi Uways narrates on the authority of Abi Uways from Thawr
 ibn Zayd ad-Daylami from ‘Ukrumah from Ibn ‘Abbas: The Messenger of
@@ -186,12 +166,8 @@ With a chain of transmission that will come later on, Hakim
 al-Nayshaburi thus relates on the authority of Abu Hurayrah in a
 narration termed *marfu‘*:[^12]
 
-<blockquote dir="rtl">
-  <p>
-"إني قد ترتكت فيكم شيئين لن تضلّوا بعدهما: كتاب الله وسنتي لن يفترقا
-حتى يردا عليَّ الحوض".
-  </p>
-</blockquote>
+> "إني قد ترتكت فيكم شيئين لن تضلّوا بعدهما: كتاب الله وسنتي لن يفترقا
+> حتى يردا عليَّ الحوض".
 
 Verily, I am leaving among you two things to which (if you hold fast)
 you shall never go astray: the Book of Allah and my *Sunnah* {tradition}
@@ -283,16 +259,12 @@ Prophet (S) is referring to his offspring {*dhurriyyah*}, namely Hadrat
 Fatimah, Hasan and Husayn (*‘a*)[^25] as Muslim in his *Sahih*[^26] and
 Tirmidhi in his *Sunan*[^27] have narrated on the authority of ‘A’ishah:
 
-<blockquote dir="rtl">
-  <p>
-نزلت هذه الأية على النّبي صلى الله عليه وأله وسّلم – إنما يُريد الله
-ليُذهب عنكم الرّجس أهل البيت ويُطهِّركم تطهيراً – في بيت أم سلمة فدعا
-النبيّ صلى الله عليه وأله وسلم وفاطمة وحسناً وحسيناً فجللهم وبكساء على
-خلف ظهره فجلّله بكساء ثم قال: اللهم هؤلاء أهل بيتي فاذهب عنهم الرّجس
-وطهِّرهم تطهياً. قالت أم سلمة: وأنا معهم يا نبيّ الله؟ قال: أنت على
-مكانك وأنت إلى خير."
-  </p>
-</blockquote>
+> نزلت هذه الأية على النّبي صلى الله عليه وأله وسّلم – إنما يُريد الله
+> ليُذهب عنكم الرّجس أهل البيت ويُطهِّركم تطهيراً – في بيت أم سلمة فدعا
+> النبيّ صلى الله عليه وأله وسلم وفاطمة وحسناً وحسيناً فجللهم وبكساء على
+> خلف ظهره فجلّله بكساء ثم قال: اللهم هؤلاء أهل بيتي فاذهب عنهم الرّجس
+> وطهِّرهم تطهياً. قالت أم سلمة: وأنا معهم يا نبيّ الله؟ قال: أنت على
+> مكانك وأنت إلى خير."
 
 The verse, *“**Indeed, Allah desires to repel all impurity from you, O
 People of the Household, and purify you with a thorough
@@ -331,12 +303,8 @@ will be narrowed and this will pave the way to the unity of the Muslims.
 2. The Qur’an, the Word of Allah, is preserved from error and mistake.
 So how could it include errors when God says about it:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ
-تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ
+> تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ ﴾
 
  ***“Falsehood cannot approach it, from before it nor from behind it, a
 {gradually} sent down {revelation} from One all-wise,
@@ -352,11 +320,7 @@ a special privilege which only prophets (*‘a*) enjoy. It is not
 impossible for an individual to be immune from sin even though he or she
 is not a prophet. Based on the following verse,
 
-<blockquote dir="rtl">
-  <p>
-إن الله اصطفاك وطهّرك واصطفاك على نساء العالمين.
-  </p>
-</blockquote>
+> إن الله اصطفاك وطهّرك واصطفاك على نساء العالمين.
 
 ***“Allah has chosen you and purified you, and He has chosen you above
 the world’s women,”***[^31]
@@ -450,5 +414,4 @@ no. 5955. {Trans.}
 [^30]: Surah Fussilat 41:42.
 
 [^31]: Surah Al ‘Imran 3:42.
-
 

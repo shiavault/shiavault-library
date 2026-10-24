@@ -259,4 +259,3 @@ tohttp://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/061.sbt.ht...
 
 [^28]: Sijstani, Al-Musahaf, p.9, Egypt; Rahmaaniyyah publications
 
-

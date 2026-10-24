@@ -623,9 +623,7 @@ religious jurists. He is al-Sayyid al-Murtada’s brother.” When Abu Ishaq
 Sabi9 , his contemporaneous scientist, dies he recites an ode in praise
 of him,10
 
-<p dir="rtl">
 ارايت من حملوا علی الاعواد ارايت كيف خبا ضياء النادي
-</p>
 
 Did you see who they were carrying upon the coffin?
 

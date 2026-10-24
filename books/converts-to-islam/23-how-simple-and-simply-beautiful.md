@@ -1,9 +1,9 @@
 How Simple... and Simply Beautiful
 ==================================
 
-***<span style="font-size: 14pt">Bismillah Walhamdulillah Was Salaatu
+***Bismillah Walhamdulillah Was Salaatu
 Was Salaam ala Rasulillah; As-Salaam Alaikum Wa-Rahmatullahi
-Wa-Barakatuhu</span>***
+Wa-Barakatuhu***
 
 Who believe in the Unknown, and fulfil their devotional obligations, and
 spend in charity of what We have given them; Who believe in what has
@@ -303,5 +303,4 @@ Allah belongs the power entirely! And the punishment of Allah is severe
  And Musa said: My Lord knows best who comes with guidance from Him, and
 whose shall be the good end of the abode; surely the unjust shall not be
 successful.***
-
 

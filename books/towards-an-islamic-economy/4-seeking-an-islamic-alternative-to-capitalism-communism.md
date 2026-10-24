@@ -57,4 +57,3 @@ and 'pure economics confines itself to an academic investigation of the
 actual economic phenomenon and identifies the results in quantitative
 terms only.
 
-

@@ -103,97 +103,61 @@ say your Prayer without any distraction.
 The Invocation Of Wudhu
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-ِ الحَمدُ للهِ الَّذي جَعَلَ الماءَ طَهُوراً ولَم يَجعَلْهُ نَجِسا و
-بِسمِ اللهِ وَبِالله
-  </p>
-</blockquote>
+> ِ الحَمدُ للهِ الَّذي جَعَلَ الماءَ طَهُوراً ولَم يَجعَلْهُ نَجِسا و
+> بِسمِ اللهِ وَبِالله
 
 At the beginning of Wudhu, you start in the Name of Allah (SWT) and
 praise Him for making the water a pure element
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اجعَلْني مِن التَّوّابينَ ، وَاجعَلْني من المُتَطِهّرينَ
-  </p>
-</blockquote>
+> اللّهُمَّ اجعَلْني مِن التَّوّابينَ ، وَاجعَلْني من المُتَطِهّرينَ
 
 At the time of washing your hands, you request Allah (SWT) to place you
 among those who seek His forgiveness and those who are pure.
 
-<blockquote dir="rtl">
-  <p>
-اللهُمَّ لَقِّني حُجَّتي يَومَ ألقاكَ وَأطلِقْ لِساني بِذِكرك
-  </p>
-</blockquote>
+> اللهُمَّ لَقِّني حُجَّتي يَومَ ألقاكَ وَأطلِقْ لِساني بِذِكرك
 
 At the time of rinsing the mouth, you invoke to Allah (SWT) to teach you
 the correct way to answer the questions on The Day of Judgment when you
 shall meet His Divine Presence.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ لا تُحَرِّمْ عَلَيَّ رِيحَ الجَنَّةِ، وَاجعَلني مِمَّن
-يَشمُّ رِيحَها وَرَوحَها وَطيبَها
-  </p>
-</blockquote>
+> اللّهُمَّ لا تُحَرِّمْ عَلَيَّ رِيحَ الجَنَّةِ، وَاجعَلني مِمَّن
+> يَشمُّ رِيحَها وَرَوحَها وَطيبَها
 
 At the time of rinsing the nose, you request Allah (SWT) not to deprive
 you from the smell of Paradise and to place you among those who smell
 its fragrance.
 
-<blockquote dir="rtl">
-  <p>
-اللهُمَّ بَيِّضْ وَجهي يَومَ تَسْوَدُّ فيه الوجُوهُ، وَلا تُسوِّدْ
-وَجهي يَوم تَبيَضُّ فيه الوجُوهَُ
-  </p>
-</blockquote>
+> اللهُمَّ بَيِّضْ وَجهي يَومَ تَسْوَدُّ فيه الوجُوهُ، وَلا تُسوِّدْ
+> وَجهي يَوم تَبيَضُّ فيه الوجُوهَُ
 
 At the time of washing the face, you ask Allah (SWT) to brighten your
 face on that Day when He will disgrace and darken the faces of a great
 number of people.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ أعطِني كِتابي بيَميني، والخُلْدَ في الجِنانِ بِيساري،
-وحاسِبْني حِساباً يَسيراً
-  </p>
-</blockquote>
+> اللّهُمَّ أعطِني كِتابي بيَميني، والخُلْدَ في الجِنانِ بِيساري،
+> وحاسِبْني حِساباً يَسيراً
 
 At the time of washing the right forearm, you plead to Allah (SWT) to
 place the scroll of your deeds in your right hand and the certificate of
 permanency in Paradise in your left hand, and that He should render your
 accounts leniently.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ لا تُعطِني كِتابي بِشِمالي وَلا مِن وَراءِ ظَهري، ولا
-تجعَلْها مَغلُولَةً إِلى عُنُقي، وأعُوذُ بِكَ مِن مُقَطِّعاتِ
-النِّيرانِ
-  </p>
-</blockquote>
+> اللّهُمَّ لا تُعطِني كِتابي بِشِمالي وَلا مِن وَراءِ ظَهري، ولا
+> تجعَلْها مَغلُولَةً إِلى عُنُقي، وأعُوذُ بِكَ مِن مُقَطِّعاتِ
+> النِّيرانِ
 
 At the time of washing the left arm, you ask Allah (SWT) not to place
 the scroll of your deeds in your left hand, nor on your back, and He
 should not hang it around your neck. You also seek refuge from the
 fierce eternal Fire of Hell.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ غَشِّني برَحمَتِكَ وَبَرَكاتِكَ وعفْوِكَ
-  </p>
-</blockquote>
+> اللّهُمَّ غَشِّني برَحمَتِكَ وَبَرَكاتِكَ وعفْوِكَ
 
 At the time of wiping the head, you request Allah (SWT) to cover you
 with His Mercy, Blessings and Pardon.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ ثَبِتْني عَلى الصِّراط يَومَ تَزِلُّ فيهِ الأقدامُ، واجعَلْ
-سَعْيي في ما يُرضيكَ عَنّي ياذا الجَلالِ والإكرامِ
-  </p>
-</blockquote>
+> اللّهُمَّ ثَبِتْني عَلى الصِّراط يَومَ تَزِلُّ فيهِ الأقدامُ، واجعَلْ
+> سَعْيي في ما يُرضيكَ عَنّي ياذا الجَلالِ والإكرامِ
 
 Finally, at the time of wiping the feet, you ask Allah (SWT) to keep you
 steadfast on His Path on that Day when feet shall slip, and make your
@@ -480,70 +444,38 @@ whole night spent in worship.
 
 **Takbir**
 
-<blockquote dir="rtl">
-  <p>
-الله أكبر
-  </p>
-</blockquote>
+> الله أكبر
 
 Allah is Great
 
 **Translation of Chapter of al-Hamd**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِِ
 
 I commence with The Name of Allah, The Compassionate, The Merciful
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
 
 Special Praise be to Allah, The Sustainer of the creation
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمـنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> الرَّحْمـنِ الرَّحِيمِ
 
 The Compassionate, The Merciful
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 Lord of The Day of Judgment
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
-  </p>
-</blockquote>
+> إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
 
 You alone we worship, and to You alone we pray for help
 
-<blockquote dir="rtl">
-  <p>
-اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
-  </p>
-</blockquote>
+> اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
 
 Guide us to the straight path
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
-الضَّالِّينَ
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
+> الضَّالِّينَ
 
 The path of those whom You have favored,
 
@@ -552,156 +484,88 @@ astray
 
 **Translation of Chapter of al-Ikhlas**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِِ
 
 I commence with The Name of Allah, The Compassionate, The Merciful
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ
 
 Say: Allah is One - The Eternal Being
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الصَّمَدُ
-  </p>
-</blockquote>
+> اللَّهُ الصَّمَدُ
 
 Allah is He Who is independent of all beings
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَلِدْ وَلَمْ يُولَدْ
-  </p>
-</blockquote>
+> لَمْ يَلِدْ وَلَمْ يُولَدْ
 
 He begets none, nor was He begotten
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
 
 And none in the creation is equal to Him
 
 **Translation of the Dhikr During Ruku (Bending) and Sajdah
 (Prostration)**
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ
-  </p>
-</blockquote>
+> سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ
 
 Glory be to my High Sustainer and I praise Him
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ رَبِّيَ الأَعْلَى وَبِحَمْدِهِ
-  </p>
-</blockquote>
+> سُبْحَانَ رَبِّيَ الأَعْلَى وَبِحَمْدِهِ
 
 Glory be to my Great Sustainer, Most High, and I praise Him
 
 **Before Going into Prostration**
 
-<blockquote dir="rtl">
-  <p>
-سَمِعَ اللهُ لمَنْ حَمِدَةُ
-  </p>
-</blockquote>
+> سَمِعَ اللهُ لمَنْ حَمِدَةُ
 
 Allah hears and accepts the praise of one who praises
 
 **Istighfar, Between Two Prostration**
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ رَبِّي وَأَتُوبُ إِلَيْهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ رَبِّي وَأَتُوبُ إِلَيْهِ
 
 I seek forgiveness from Allah Who is my Sustainer, and I turn to Him
 
 **While Standing**
 
-<blockquote dir="rtl">
-  <p>
-بِحَوْلِ الله وَقُوتِهِ أَقُومُ وَأَقْعُدُ
-  </p>
-</blockquote>
+> بِحَوْلِ الله وَقُوتِهِ أَقُومُ وَأَقْعُدُ
 
 I stand and sit with the help and strength of Allah
 
 **Translation of Tasbihat al-Arba'ah**
 
-<blockquote dir="rtl">
-  <p>
-سبحان الله والحمد لله ولا اله الا الله والله اكبر
-  </p>
-</blockquote>
+> سبحان الله والحمد لله ولا اله الا الله والله اكبر
 
 Glory be to Allah, and all praise is for Him and there is no one worth
 worshipping other than Allah, and He is Greater than any description
 
 **Translation of Tashahhud and Salam**
 
-<blockquote dir="rtl">
-  <p>
-أشْهَدُ أنْ لا إله إِلاَّ اللَّهُ وَحْدَهُ لا شَرِيك لَهُ
-  </p>
-</blockquote>
+> أشْهَدُ أنْ لا إله إِلاَّ اللَّهُ وَحْدَهُ لا شَرِيك لَهُ
 
 I testify that there is none worth worshipping except the Almighty
 Allah, Who is One and has no partner
 
-<blockquote dir="rtl">
-  <p>
-وأشْهَدُ أنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ
-  </p>
-</blockquote>
+> وأشْهَدُ أنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ
 
 And I testify that Muhammad is His servant and Prophet
 
-<blockquote dir="rtl">
-  <p>
-اَللّهم صَلِّ عَلى مُحَمَّدٍ وَّ الِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهم صَلِّ عَلى مُحَمَّدٍ وَّ الِ مُحَمَّدٍ
 
 O Allah! Send Your blessings on Muhammad and his progeny
 
-<blockquote dir="rtl">
-  <p>
-السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ
-وَبَرَكَاتُهُ
-  </p>
-</blockquote>
+> السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ
+> وَبَرَكَاتُهُ
 
 O Prophet! Allah's peace, blessings and grace be upon you!
 
-<blockquote dir="rtl">
-  <p>
-السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ
-  </p>
-</blockquote>
+> السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ
 
 Allah's peace be on us, those offering prayers - and upon all pious
 servants of Allah
 
-<blockquote dir="rtl">
-  <p>
-السلام عليكم ورحمة الله وبركاته
-  </p>
-</blockquote>
+> السلام عليكم ورحمة الله وبركاته
 
 Allah's peace, blessings and grace be on you believers!
 
@@ -1880,5 +1744,4 @@ entire body relaxed.
 The purpose of this technique is to develop a good, relaxing breathing
 method and developing and maintaining attention during any given task,
 in particular the Five Daily Prayer.
-
 

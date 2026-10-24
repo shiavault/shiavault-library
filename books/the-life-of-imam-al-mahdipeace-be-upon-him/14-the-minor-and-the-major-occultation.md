@@ -154,7 +154,7 @@ support it with their hearts.
 O Ahmad! This is the command of Allah and one of the divine secrets and
 one of the Unseen matters of Allah. So remember what I am telling you
 and keep it confidential and be of the thankful ones so that you may
-reside in the position of Illyeen<sup>[1]</sup> with us.”<sup>[2]</sup>
+reside in the position of Illyeen[1] with us.”[2]
 
 ------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ Since His Eminence, Imam Hasan Askari (a.s) was famous among all and
 worthy of respect and honor of the Muslims and all the Alawites, it was
 hard upon the tyrant Abbaside, Mutamid. And they were not able to bear
 this honor and respect of Imam (a.s), therefore they decided to poison
-the Imam (a.s).<sup>[1]</sup> And they proceeded with the plan. And when
+the Imam (a.s).[1] And they proceeded with the plan. And when
 His Eminence was poisoned, he fell down on the earth due to the severe
 effect of pain and discomfort of the poison. In spite of this the Imam
 bore the pain and discomfort patiently.
@@ -246,7 +246,7 @@ committee and ordered them to visit His Eminence every morning and late
 afternoon. Two days after the poison was administered to His Eminence
 his condition worsened and he became weak. Mutamid commanded the
 physicians they must not leave the side of Imam (a.s) and not leave him
-alone.<sup>[2]</sup> In the same way he instructed the chief Qazi who
+alone.[2] In the same way he instructed the chief Qazi who
 was that day appointed as a minister. He in turn provided ten people to
 further subject the Imam to surveillance with clear orders not to be
 away from the side of Imam (a.s).
@@ -292,7 +292,7 @@ Ibne
 
 Muhammad Ibne Reza, who has died a natural death, while such and such
 employees of the caliph and so and so officials of the chief Judge were
-at his bedside.<sup>[1]</sup> After that he covered the face of the Holy
+at his bedside.[1] After that he covered the face of the Holy
 Imam (a.s). They did thus so that the Abbaside regime may not be held
 responsible for having poisoned the Imam like they had poisoned his
 grandfather, Imam Musa Ibne Ja'far.
@@ -302,7 +302,7 @@ grandfather, Imam Musa Ibne Ja'far.
 People from all walks of life of Samarrah converged on the residence of
 the Imam (a.s) in aggrieved condition to participate in the funeral. All
 the official organizations, courts and markets closed down and Samarrah
-resembled a scene of apocalypse.<sup>[2]</sup>
+resembled a scene of apocalypse.[2]
 
 Till that day Samarrah had not seen such a huge gathering in a funeral.
 People came in groups and in crowds and participated in the funeral of
@@ -315,11 +315,11 @@ each other of the virtues and merits of the Holy Imam (a.s).
 The holy body of Imam Hasan Askari (a.s) was buried in his own house
 besides the grave of his respected father, Imam Ali al-Hadi (a.s). Yes!
 The beloved of the Holy Prophet of Allah and the illuminated leaf and a
-luminary of the Holy Progeny was at last buried.<sup>[3]</sup> The
+luminary of the Holy Progeny was at last buried.[3] The
 Alawite Sadat and Abbasides stood besides the grave. People came in
 groups and paid condolence to them and the funeral program came to an
 end. People departed for their homes in aggrieved condition with heavy
-hearts.<sup>[4]</sup>
+hearts.[4]
 
 ------------------------------------------------------------------------
 
@@ -430,7 +430,7 @@ Himyari and said, “May Allah magnify your rewards...”
 After having received these favors the group bid farewell to His
 Eminence and departed for Iran and Qom and during the journey when they
 reached between Uqbah and the area of Hamadan, the above-mentioned
-gentleman, Abu Abbas died.<sup>[1]</sup>
+gentleman, Abu Abbas died.[1]
 
 ### Ja’far and the Abbaside Caliph
 
@@ -447,7 +447,7 @@ view of the Shias and followers of the Holy Imam he did not need
 anything else. But if the Shias of Imam Askari (a.s) do not recognize
 the merits it is evident that he did not possess what his late brother
 was having. In such circumstances any assistance from the Abbasides
-would be useless for Ja’far.<sup>[2]</sup>
+would be useless for Ja’far.[2]
 
 In fact the statement of the Abbaside Caliph was true, that the position
 and status of Iman (a.s) was not in the control of the Abbasides, that

@@ -4,12 +4,8 @@ Section 11: Zulqarnayn, The Gog and the Magog, The Barrier
 Surah Al-Kahf – Verse 83
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْأَلُونَكَ عَن ذِي الْقَرْنَيْنِ قُلْ سَاَتْلُوا عَلَيْكُم مِنْهُ
-ذِكْراً
-  </p>
-</blockquote>
+> وَيَسْأَلُونَكَ عَن ذِي الْقَرْنَيْنِ قُلْ سَاَتْلُوا عَلَيْكُم مِنْهُ
+> ذِكْراً
 
 ***83. “And they ask you about Zulqarnayn. Say: ‘I will recite unto you
 a remembrance of him’.”***
@@ -72,18 +68,10 @@ had been being discussed among people before they came to the Prophet
 Surah Al-Kahf – Verses 84 - 85
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا مَكَّنَّا لَهُ فِي الأَرْضِ وءَاتَيْنَاهُ مِن كُلّ‌ِ شَيْءٍ
-سَبَباً
-  </p>
-</blockquote>
+> إِنَّا مَكَّنَّا لَهُ فِي الأَرْضِ وءَاتَيْنَاهُ مِن كُلّ‌ِ شَيْءٍ
+> سَبَباً
 
-<blockquote dir="rtl">
-  <p>
-فَاَتْبَعَ سَبَباً
-  </p>
-</blockquote>
+> فَاَتْبَعَ سَبَباً
 
 ***84. “Verily We did make him mighty in the earth, and We granted him
 the means (of access) to every thing.***  
@@ -147,13 +135,9 @@ The verse says:
 Surah Al-Kahf – Verse 86
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ
-حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْماً قُلْنَا يَا ذَا الْقَرْنَيْنِ
-إِمَّآ أَن تُعَذّ‌ِبَ وإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْناً
-  </p>
-</blockquote>
+> حَتَّي إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ
+> حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْماً قُلْنَا يَا ذَا الْقَرْنَيْنِ
+> إِمَّآ أَن تُعَذّ‌ِبَ وإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْناً
 
 ***86. “Until when he reached the setting-place of the sun, he found it
 setting in a muddy spring and he found by it a people. We said: ‘O’
@@ -193,19 +177,11 @@ them, or to take them captives and train them.
 Surah Al-Kahf – Verses 87 - 88
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذّ‌ِبُهُ ثُمَّ يُرَدُّ إِلَي
-رَبّـِهِ فَيُعَذّ‌ِبُهُ عَذَاباً نُّكْراً
-  </p>
-</blockquote>
+> قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذّ‌ِبُهُ ثُمَّ يُرَدُّ إِلَي
+> رَبّـِهِ فَيُعَذّ‌ِبُهُ عَذَاباً نُّكْراً
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَالِحاً فَلَهُ جَزَآءً الْحُسْنَي
-وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْراً
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَالِحاً فَلَهُ جَزَآءً الْحُسْنَي
+> وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْراً
 
 ***87. “He said: ‘As for him who is unjust we will chastise him, then he
 shall be returned to his Lord and He will chastise him with a grievous
@@ -256,24 +232,12 @@ amongst the bitter fruits of the evil tree of ‘disbelief’.
 Surah Al-Kahf – Verses 89 - 91
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَتْبَعَ سَبَباً
-  </p>
-</blockquote>
+> ثُمَّ أَتْبَعَ سَبَباً
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَي قَوْمٍ
-لَّمْ نَجْعَل لَّهُم مِن دُونِهَا سِتْراً
-  </p>
-</blockquote>
+> حَتَّي إِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَي قَوْمٍ
+> لَّمْ نَجْعَل لَّهُم مِن دُونِهَا سِتْراً
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْراً
-  </p>
-</blockquote>
+> كَذَلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْراً
 
 ***89. “Then he followed (another) course.”***  
 ***90. “Until when he reached the rising-place of the sun, he found it
@@ -327,18 +291,10 @@ actions of Zul-Qarnayn and He shows that He is pleased with his deeds.
 Surah Al-Kahf – Verses 92 - 93
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَتْبَعَ سَبَباً
-  </p>
-</blockquote>
+> ثُمَّ أَتْبَعَ سَبَباً
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْماً
-لاَّ يَكَادُونَ يَفْقَهُونَ قَوْلاً
-  </p>
-</blockquote>
+> حَتَّي إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْماً
+> لاَّ يَكَادُونَ يَفْقَهُونَ قَوْلاً
 
 ***92. “Then he followed (another) course.”***  
 ***93. “Until when he reached between the two barriers (of mountains) he
@@ -380,13 +336,9 @@ because one of the clearest signs of civilization is language.
 Surah Al-Kahf – Verse 94
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ
-فِي الاَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجاً عَلَي أَن تَجْعَلَ بَيْنَنَا
-وَبَيْنَهُمْ سَدّاً
-  </p>
-</blockquote>
+> قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ
+> فِي الاَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجاً عَلَي أَن تَجْعَلَ بَيْنَنَا
+> وَبَيْنَهُمْ سَدّاً
 
 ***94. “They said: ‘O’ Zul-Qarnayn! Verily Gog and Magog make mischief
 in the earth, so may we assign to you a tribute so that you set up a
@@ -420,26 +372,14 @@ barrier between us and between them?’”***
 Surah Al-Kahf – Verses 95 - 97
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَا مَكَّنّـِي فِيهِ رَبّـِي خَيْرٌ فَاَعِينُونِي بِقُوَّةٍ
-أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْماً
-  </p>
-</blockquote>
+> قَالَ مَا مَكَّنّـِي فِيهِ رَبّـِي خَيْرٌ فَاَعِينُونِي بِقُوَّةٍ
+> أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْماً
 
-<blockquote dir="rtl">
-  <p>
-ءاَتُونِي زُبَرَ الْحَدِيدِ حَتَّي إِذَا سَاوَي بَيْنَ الصَّدَفَيْنِ
-قَالَ انفُخُوا حَتَّي إِذَا جَعَلَهُ نَاراً قَالَ ءَاتُونِي اُفْرِغْ
-عَلَيْهِ قِطْراً
-  </p>
-</blockquote>
+> ءاَتُونِي زُبَرَ الْحَدِيدِ حَتَّي إِذَا سَاوَي بَيْنَ الصَّدَفَيْنِ
+> قَالَ انفُخُوا حَتَّي إِذَا جَعَلَهُ نَاراً قَالَ ءَاتُونِي اُفْرِغْ
+> عَلَيْهِ قِطْراً
 
-<blockquote dir="rtl">
-  <p>
-فَمَا اسْطَاعُوا أَن يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْباً
-  </p>
-</blockquote>
+> فَمَا اسْطَاعُوا أَن يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْباً
 
 ***95. “He said: ‘(the power) in which my Lord has established me is
 better (than your tribute), so help me with strength (of men). I will
@@ -507,12 +447,8 @@ make a hole in it.”***
 Surah Al-Kahf – Verse 98
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَذَا رَحْمَةٌ مِن رَّبّـِي فَإِذَا جَآءَ وَعْدُ رَبّـِي
-جَعَلَهُ دَكَّآءَ وَكَانَ وَعْدُ رَبّـِي حَقّاً
-  </p>
-</blockquote>
+> قَالَ هَذَا رَحْمَةٌ مِن رَّبّـِي فَإِذَا جَآءَ وَعْدُ رَبّـِي
+> جَعَلَهُ دَكَّآءَ وَكَانَ وَعْدُ رَبّـِي حَقّاً
 
 ***98. “He said: ‘This is mercy from my Lord. But when the promise of my
 Lord comes to pass, He will make it level (with the ground), and the
@@ -635,25 +571,13 @@ Tafsir-i-Ruh-ul-Bayan.
 Surah Al-Kahf – Verses 99 - 101
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ وَنُفِخَ فِي
-الصُّورِ فَجَمَعْنَاهُمْ جَمْعَاً
-  </p>
-</blockquote>
+> وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ وَنُفِخَ فِي
+> الصُّورِ فَجَمَعْنَاهُمْ جَمْعَاً
 
-<blockquote dir="rtl">
-  <p>
-وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِلْكَافِرِينَ عَرْضاً
-  </p>
-</blockquote>
+> وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِلْكَافِرِينَ عَرْضاً
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَآءٍ عَن ذِكْرِي وَكَانُوا لاَ
-يَسْتَطِيعُونَ سَمْعاً
-  </p>
-</blockquote>
+> الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَآءٍ عَن ذِكْرِي وَكَانُوا لاَ
+> يَسْتَطِيعُونَ سَمْعاً
 
 ***99. “And on that day, We shall leave some of them (people) surge
 against others, and the Trumpet will be blown, then We shall gather them
@@ -752,5 +676,4 @@ Ali-ibn-Abitalib (as)”*[^12]
 [^11]: Nahjul-Balaqah, letter No. 53
 
 [^12]: Tafsir-i-Lahiji
-
 

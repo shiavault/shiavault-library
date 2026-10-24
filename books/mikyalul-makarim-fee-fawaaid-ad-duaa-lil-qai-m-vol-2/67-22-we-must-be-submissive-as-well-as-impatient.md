@@ -90,11 +90,7 @@ remains save the least (then he clenched his hands).[^9]
 Abdur Rahman bin Kathir from Imam Ja’far Sadiq (as) that he said
 regarding the saying of the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-أتى أمر الله فلا تستعجلوه
-  </p>
-</blockquote>
+> أتى أمر الله فلا تستعجلوه
 
 *Allah’s commandment has come, therefore do not desire to hasten it…*
 
@@ -103,11 +99,7 @@ He assists it with three armies; the angels, the believers and awe. His
 (Qaim’s) advent will be like the advent of the Prophet as Allah has
 said:
 
-<blockquote dir="rtl">
-  <p>
-كما أخرجك ربُك من بيتك بالحق
-  </p>
-</blockquote>
+> كما أخرجك ربُك من بيتك بالحق
 
 *Even as your Lord caused you to go forth from your house with the
 truth…*[^10]
@@ -120,11 +112,7 @@ Mufeed.
 Shaykh Abu Ja’far Muhammad bin Jurair Tabari through his own of
 narrators from Aban from His Eminence, Imam Sadiq (as) that he said:
 
-<blockquote dir="rtl">
-  <p>
-أتى أمر الله فلا تستعجلوه
-  </p>
-</blockquote>
+> أتى أمر الله فلا تستعجلوه
 
 *Allah’s commandment has come, therefore do not desire to hasten it…*
 
@@ -143,11 +131,7 @@ allegiance. Then keeping one foot on the Holy Kaaba and another on the
 Holy Qods issue such a loud call that when the creatures hear it they
 would cry:
 
-<blockquote dir="rtl">
-  <p>
-أتى أمر الله فلا تستعجلوه
-  </p>
-</blockquote>
+> أتى أمر الله فلا تستعجلوه
 
 *Allah’s commandment has come, therefore do not desire to hasten
 it…*[^12]
@@ -162,11 +146,7 @@ best.
 some of our associates from Abu Abdullah Imam Sadiq (as) that he was
 asked regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-أتى أمر الله فلا تستعجلوه
-  </p>
-</blockquote>
+> أتى أمر الله فلا تستعجلوه
 
 *Allah’s commandment has come, therefore do not desire to hasten it…*
 
@@ -180,19 +160,11 @@ occur it is as if it has already occurred.[^13]
 narrators it is narrated from Mufaddal from Imam Ja’far Sadiq (as) that
 he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ.
-  </p>
-</blockquote>
+> وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ.
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَالَّذِينَ
-آمَنُوا مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ ۗ أَلَا
-إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ .
-  </p>
-</blockquote>
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَالَّذِينَ
+> آمَنُوا مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ ۗ أَلَا
+> إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ .
 
 ***And what shall make you know that haply the hour be nigh? Those who
 do not believe in it would hasten it on, and those who believe are in
@@ -235,22 +207,14 @@ successful.”[^14]
 18. It is narrated from Ali bin Husain bin Ali Ibne Abi Talib (as) that
 he said: “The verses:
 
-<blockquote dir="rtl">
-  <p>
-وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِي كِتَابِ اللَّهِ
-  </p>
-</blockquote>
+> وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِي كِتَابِ اللَّهِ
 
 ***…and the possessors of relationship have the better claim in the
 ordinance of Allah… (Qur’an, Surah Anfal 8:75)***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
 
 ***And he made it a word to continue in his posterity. (Qur’an, Surah
 Zukhruf 43:28)***
@@ -297,11 +261,7 @@ When he came down from the pulpit, I asked: O Messenger of Allah (S),
 are you not Hujjat on all creatures? He replied: O Hasan, the Almighty
 Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every people.
 (Qur’an, Surah Raad 13:7)***
@@ -407,23 +367,15 @@ statements like this as one who makes haste in this regard due to
 objection against and doubt about the Almighty Allah, is the follower of
 Satan, whom when Allah commanded to prostrate before Adam and said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا
-  </p>
-</blockquote>
+> قَالَ أَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا
 
 ***Shall I make obeisance to him whom You have created of dust? (Qur’an,
 Surah Isra 17:61)***
 
 In a Surah the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
 
 ***And it behooves not a believing man and a believing woman that they
 should have any choice in their matter when Allah and His Apostle have
@@ -439,13 +391,9 @@ Would it not have been better if he had done the opposite? Or even if
 they have such a notion; they would become polytheists due to this. Then
 His Eminence (aj) recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***But no! by your Lord! they do not believe (in reality) until they
 make you a judge of that which has become a matter of disagreement among
@@ -520,15 +468,11 @@ to its apparent meaning and is against the context and to mislead people
 through it is a very despicable act in the view of intellectuals? And
 the Almighty Allah says regarding the ambiguous verses:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ
-مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا
-يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ
-يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِنْ عِنْدِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ
-إِلَّا أُولُو الْأَلْبَابِ
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ
+> مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا
+> يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ
+> يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِنْ عِنْدِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ
+> إِلَّا أُولُو الْأَلْبَابِ
 
 ***Then as for those in whose hearts there is perversity they follow the
 part of it which is allegorical, seeking to mislead and seeking to give
@@ -575,12 +519,8 @@ our master, which would make him liable to be ridiculed by the Almighty
 Allah. And this means that he has become a disbeliever and an opponent
 of Allah, the High and the Mighty. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ
-يَعْمَهُونَ
-  </p>
-</blockquote>
+> اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ
+> يَعْمَهُونَ
 
 ***Allah shall pay them back their mockery, and He leaves them alone in
 their inordinacy, blindly wandering on. (Qur’an, Surah Baqarah 2:15)***
@@ -588,20 +528,12 @@ their inordinacy, blindly wandering on. (Qur’an, Surah Baqarah 2:15)***
 In the same way is one who becomes like the people of the community of
 Prophet Nuh (as), regarding whom the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِنْ قَوْمِهِ
-سَخِرُوا مِنْهُ ۚ قَالَ إِنْ تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ
-مِنْكُمْ كَمَا تَسْخَرُونَ .
-  </p>
-</blockquote>
+> وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِنْ قَوْمِهِ
+> سَخِرُوا مِنْهُ ۚ قَالَ إِنْ تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ
+> مِنْكُمْ كَمَا تَسْخَرُونَ .
 
-<blockquote dir="rtl">
-  <p>
-فَسَوْفَ تَعْلَمُونَ مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ
-عَلَيْهِ عَذَابٌ مُقِيمٌ.
-  </p>
-</blockquote>
+> فَسَوْفَ تَعْلَمُونَ مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ
+> عَلَيْهِ عَذَابٌ مُقِيمٌ.
 
 ***And he began to make the ark; and whenever the chiefs from among his
 people passed by him they laughed at him. He said: If you laugh at us,
@@ -764,5 +696,4 @@ and is the Most Merciful.
 [^22]: Kamaluddin, Vol. 2, Pg. 512
 
 [^23]: Sahifa Sajjadiya, Supplication no. 13
-
 

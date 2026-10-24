@@ -405,33 +405,21 @@ scope, imposing on him a deeper outlook at his own interests and
 benefits, turning a quick loss into a real gain within such a deep
 sight, and the quick gain is turned in the end into a real loss:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ وَمَنْ أَسَاء فَعَلَيْهَا
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ وَمَنْ أَسَاء فَعَلَيْهَا
 
 ***Whoever does a good deed, it is for his own self, and whoever does
 wrong, it is against his own self.*** ***(Qur'an, 41:46).***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
-فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> وَمَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
+> فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ
 
 ***And whoever, male or female, does a good deed, while truly believing,
 shall certainly en­ter Paradise in which he will be sustained without a
 limit.*** ***(Qur'an, 40:40) .***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ،
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ، وَمَن يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ،
+> فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ، وَمَن يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
 
 ***On that Day (of Judgement) shall people be presented in numerous
 numbers in order to be shown their deeds; whoever does good even the
@@ -439,17 +427,13 @@ weight of an atom shall receive its reward, and whoever does wrong even
 the weight of an atom shall receive its punishment.*** ***(Qur'an,
 99:6-8).***
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّهُمْ لاَ يُصِيبُهُمْ ظَمَأٌ وَلاَ نَصَبٌ وَلاَ
-مَخْمَصَةٌ فِي سَبِيلِ اللَّهِ وَلاَ يَطَؤُونَ مَوْطِئًا يَغِيظُ
-الْكُفَّارَ وَلاَ يَنَالُونَ مِنْ عَدُوٍّ نَّيْلاً إِلاَّ كُتِبَ لَهُم
-بِهِ عَمَلٌ صَالِحٌ إِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ،
-وَلاَ يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلاَ كَبِيرَةً وَلاَ يَقْطَعُونَ
-وَادِيًا إِلاَّ كُتِبَ لَهُمْ لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا
-كَانُواْ يَعْمَلُونَ.
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّهُمْ لاَ يُصِيبُهُمْ ظَمَأٌ وَلاَ نَصَبٌ وَلاَ
+> مَخْمَصَةٌ فِي سَبِيلِ اللَّهِ وَلاَ يَطَؤُونَ مَوْطِئًا يَغِيظُ
+> الْكُفَّارَ وَلاَ يَنَالُونَ مِنْ عَدُوٍّ نَّيْلاً إِلاَّ كُتِبَ لَهُم
+> بِهِ عَمَلٌ صَالِحٌ إِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ،
+> وَلاَ يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلاَ كَبِيرَةً وَلاَ يَقْطَعُونَ
+> وَادِيًا إِلاَّ كُتِبَ لَهُمْ لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا
+> كَانُواْ يَعْمَلُونَ.
 
 ***[This is so] because thirst does not afflict them nor fatigue nor
 hunger in God’s way, nor do they tread a path which enrages the
@@ -607,5 +591,4 @@ materi­alistic angle which provides mankind with feuds and sufferings of
 all various shapes and hues.
 
 [^1]: Refer to Iqtisaduna, p.307.
-
 

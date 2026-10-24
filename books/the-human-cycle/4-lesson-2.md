@@ -95,4 +95,3 @@ the man does not respect the wife, then it is natural that the wife may
 not respect the man. Respect, love, and adherence to Islamic teachings
 will allow a marriage to flourish.
 
-

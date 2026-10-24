@@ -1,22 +1,14 @@
 Right n. 31: The Right of the Sitting Companion
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-حق الجليس
-  </p>
-</blockquote>
+> حق الجليس
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الجَلِيسِ فَأَنْ تُلِينَ لَهُ كَنَفَكَ، وَتُطِيبَ لَهُ
-جَانِبَكَ، وَتُنْصِفَهُ فِي مُجَارَاةِ اللَّفْظِ ولا تُغْرِق فِي
-نَزْعِ اللَّحْظِ إذَا لَحَظْتَ وتَقْصُدَ فِي اللَّفْظِ إلَى إفْهَامِهِ
-إذَا لَفَظْتَ. وَإنْ كُنْتَ الْجَلِيسَ إلَيْهِ كُنْتَ فِي الْقِيَامِ
-عَنْهُ بالْخِيَارِ وَإنْ كَانَ الجَالِسَ إلَيكَ كَانَ بالخِيارِ. ولا
-تَقُومُ إلا بإذْنِهِ. وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الجَلِيسِ فَأَنْ تُلِينَ لَهُ كَنَفَكَ، وَتُطِيبَ لَهُ
+> جَانِبَكَ، وَتُنْصِفَهُ فِي مُجَارَاةِ اللَّفْظِ ولا تُغْرِق فِي
+> نَزْعِ اللَّحْظِ إذَا لَحَظْتَ وتَقْصُدَ فِي اللَّفْظِ إلَى إفْهَامِهِ
+> إذَا لَفَظْتَ. وَإنْ كُنْتَ الْجَلِيسَ إلَيْهِ كُنْتَ فِي الْقِيَامِ
+> عَنْهُ بالْخِيَارِ وَإنْ كَانَ الجَالِسَ إلَيكَ كَانَ بالخِيارِ. ولا
+> تَقُومُ إلا بإذْنِهِ. وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of your sitting companion is that you should treat him
 gently, warmly welcome him, be fair while talking with him, do not take
@@ -48,11 +40,7 @@ one of the criteria for each person’s personality to be that of his
 friends. He said: “It is a great tragedy for one not to have any good
 friends.”[^2] Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَن فَقَدَ أخاً لهُ في اللهِ فَقَدَ أشْرَفَ أعْضَاءِهِ.
-  </p>
-</blockquote>
+> مَن فَقَدَ أخاً لهُ في اللهِ فَقَدَ أشْرَفَ أعْضَاءِهِ.
 
 *“When one loses his own sincere friend whose friendship with him was
 for the sake of God, it is as if he has lost one of his body
@@ -67,12 +55,8 @@ How to Choose a Good Friend
 
 Regarding the way to choose a good friend, Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَن غَضِبَ عَلَيكَ ثَلاثَ مَرّاتٍ فَلم يَقُل فِيكَ سُوءاً فاتَّخِذْهُ
-لكَ خَليلاً.
-  </p>
-</blockquote>
+> مَن غَضِبَ عَلَيكَ ثَلاثَ مَرّاتٍ فَلم يَقُل فِيكَ سُوءاً فاتَّخِذْهُ
+> لكَ خَليلاً.
 
 *“Whoever gets angry with you thrice, but does not say anything bad
 about you - take him for your friend.”*[^4]
@@ -82,24 +66,16 @@ Stable and Unstable Friendships
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَن اتَّخَذَ أخاً بَعدَ حُسنِ الاخْتِبارِ دامَتْ صُحبَتُه وَتأكَّدَتْ
-مَوَدَّتُه.
-  </p>
-</blockquote>
+> مَن اتَّخَذَ أخاً بَعدَ حُسنِ الاخْتِبارِ دامَتْ صُحبَتُه وَتأكَّدَتْ
+> مَوَدَّتُه.
 
 *“Whoever chooses a friend after properly testing him will have a
 lasting friendship with him.”*[^5]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَن اتَّخَذَ أخاً مِن غَيرِ اخْتِبارٍ ألْجَأَهُ الاضْطِرارُ إلى
-مُرافَقَةِ الأشْرارِ.
-  </p>
-</blockquote>
+> مَن اتَّخَذَ أخاً مِن غَيرِ اخْتِبارٍ ألْجَأَهُ الاضْطِرارُ إلى
+> مُرافَقَةِ الأشْرارِ.
 
 *“Whoever makes friends without proper considerations will have to put
 up with wicked friends.”*[^6]
@@ -110,11 +86,7 @@ Associating With Wicked People
 Saint Abdul Azeem Hassani quoted on the authority of Imam Baqir who
 said:
 
-<blockquote dir="rtl">
-  <p>
-مجَالَسَةُ الأشْرارِ تورِثُ سُوءَ الظَّنِّ بالأخْيارِ.
-  </p>
-</blockquote>
+> مجَالَسَةُ الأشْرارِ تورِثُ سُوءَ الظَّنِّ بالأخْيارِ.
 
 *“Associating with wicked people causes a bad opinion regarding good
 people.”*[^7]
@@ -122,12 +94,8 @@ people.”*[^7]
 Imam Sadiq quoted on the authority of his grandfather on the authority
 of the Prophet of God :
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ مُجالَسَتُهُم تُميتُ القُلوبَ: الجُلوسُ مَع الأنْذالِ،
-وَالحَديثُ مَع النِّساءِ، وَالجُلوسُ مَع الأغْنِياءِ.
-  </p>
-</blockquote>
+> ثَلاثٌ مُجالَسَتُهُم تُميتُ القُلوبَ: الجُلوسُ مَع الأنْذالِ،
+> وَالحَديثُ مَع النِّساءِ، وَالجُلوسُ مَع الأغْنِياءِ.
 
 *“Associating with the following three groups of people will make your
 heart perish: sitting with ignoble ones, conversing with women and
@@ -136,12 +104,8 @@ sitting with the rich.”*[^8]
 In another tradition regarding associating with the rich, Imam Sadiq
 said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُجالِسِ الأغنِياءَ فإنّ العَبْدَ يُجالِسُهُم وهُوَ يَرى أنّ لله
-عَليهِ نِعْمةً، فَما يَقُومُ حتّى يَرى أنّه لَيسَ للهِ عَليهِ نِعمةٌ.
-  </p>
-</blockquote>
+> لا تُجالِسِ الأغنِياءَ فإنّ العَبْدَ يُجالِسُهُم وهُوَ يَرى أنّ لله
+> عَليهِ نِعْمةً، فَما يَقُومُ حتّى يَرى أنّه لَيسَ للهِ عَليهِ نِعمةٌ.
 
 *“Do not sit with the rich. For a servant sits with them and he is aware
 of the blessings God has bestowed on him, but he rises up thinking that
@@ -160,19 +124,15 @@ Islam . In Sifat ash-Shia Sadooq - may mercy be upon him – has quoted
 Imam Baqir who quoted on the authority of the Commander of the Faithful
 :
 
-<blockquote dir="rtl">
-  <p>
-مُجالَسَةُ الأشْرارِ تورِثُ سوءَ الظَّنِّ بالأخْيار، وَمُجالَسَةُ
-الأخْيارِ تلُحِقُ الأشْرارَ بِالأخْيارِ، ومجَالَسَةُ الأبْرارِ
-للفُجّارِ تُلحِقُ الأبْرارَ بِالفُجّارِ، فَمَن اشتَبَهَ عَليكُم
-أمْرَهُ وَلَمْ تَعْرِفوا دينه فانْظُروا إلى خُلطائِهِ، فإنْ كانوا
-أهْلَ دِينِ اللّهِ فهُوَ عَلى دِينِ اللّهِ وإنْ كانوا عَلى غَيرِ دِينِ
-اللّهِ فلا حَظَّ لهُ مِن دِينِ اللّهِ. إنَّ رَسُولَ اللّهِ صَلّى اللهُ
-عَليْهِ وآلِهِ كانَ يَقولُ: مَن كانَ يُؤمِنُ باللّهِ وَاليَومِ الآخِرِ
-فلا يُؤاخِيَنَّ كافِراً ولا يُخالِطَنَّ فاجِراً، وَمَن آخى كافِراً أو
-خَالطَ فاجِراً كان كافِراً فاجِراً.
-  </p>
-</blockquote>
+> مُجالَسَةُ الأشْرارِ تورِثُ سوءَ الظَّنِّ بالأخْيار، وَمُجالَسَةُ
+> الأخْيارِ تلُحِقُ الأشْرارَ بِالأخْيارِ، ومجَالَسَةُ الأبْرارِ
+> للفُجّارِ تُلحِقُ الأبْرارَ بِالفُجّارِ، فَمَن اشتَبَهَ عَليكُم
+> أمْرَهُ وَلَمْ تَعْرِفوا دينه فانْظُروا إلى خُلطائِهِ، فإنْ كانوا
+> أهْلَ دِينِ اللّهِ فهُوَ عَلى دِينِ اللّهِ وإنْ كانوا عَلى غَيرِ دِينِ
+> اللّهِ فلا حَظَّ لهُ مِن دِينِ اللّهِ. إنَّ رَسُولَ اللّهِ صَلّى اللهُ
+> عَليْهِ وآلِهِ كانَ يَقولُ: مَن كانَ يُؤمِنُ باللّهِ وَاليَومِ الآخِرِ
+> فلا يُؤاخِيَنَّ كافِراً ولا يُخالِطَنَّ فاجِراً، وَمَن آخى كافِراً أو
+> خَالطَ فاجِراً كان كافِراً فاجِراً.
 
 *“Associating with wicked people will result in one being suspicious of
 the good people. Association of the wicked people with good people will
@@ -194,13 +154,9 @@ With Whom to Associate
 
 Imam Sajjad said to his children:
 
-<blockquote dir="rtl">
-  <p>
-جَالِسوا أهْلَ الدِّينِ وَالمَعْرِفَةِ فإنْ لم تَقدِروا عَلَيهِمْ
-فالوَحْدَةُ آنسُ وأسْلَمُ فإنْ أُبِيتُم إلاّ مُجالَسَةَ النّاسِ
-فَجالِسوا أهْلَ المُرُوّاتِ فإنَّهُم لا يَرفَثُونَ فِي مُجالَسَتِهِمْ.
-  </p>
-</blockquote>
+> جَالِسوا أهْلَ الدِّينِ وَالمَعْرِفَةِ فإنْ لم تَقدِروا عَلَيهِمْ
+> فالوَحْدَةُ آنسُ وأسْلَمُ فإنْ أُبِيتُم إلاّ مُجالَسَةَ النّاسِ
+> فَجالِسوا أهْلَ المُرُوّاتِ فإنَّهُم لا يَرفَثُونَ فِي مُجالَسَتِهِمْ.
 
 *“Associate with the people of religion and recognition (of God). If you
 cannot find any such people, then solitude is more companionable and
@@ -210,11 +166,7 @@ gatherings.”*[^11]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَن جالَسَ أهْلَ الرَّيبِ فَهُو مُريبٌ.
-  </p>
-</blockquote>
+> مَن جالَسَ أهْلَ الرَّيبِ فَهُو مُريبٌ.
 
 *“Whoever associates with dubious people will be regarded as
 dubious.”*[^12]
@@ -224,14 +176,10 @@ Associate with Scholars
 
 The Noble Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-إجْلِسوا عِندَ كُلِّ عالِمٍ يدْعوكُم مِن خَمسٍ إلى خَمسٍ: مِن الشَّكِّ
-إلى اليَقينِ ومِنَ الرّياءِ إلى الإخْلاصِ ومِن الرَّغْبَةِ إلى
-الزُّهْدِ ومِنَ الكِبَرِ إلى التّواضُعِ ومِنَ العَداوَةِ إلى
-المَحَبَّةِ.
-  </p>
-</blockquote>
+> إجْلِسوا عِندَ كُلِّ عالِمٍ يدْعوكُم مِن خَمسٍ إلى خَمسٍ: مِن الشَّكِّ
+> إلى اليَقينِ ومِنَ الرّياءِ إلى الإخْلاصِ ومِن الرَّغْبَةِ إلى
+> الزُّهْدِ ومِنَ الكِبَرِ إلى التّواضُعِ ومِنَ العَداوَةِ إلى
+> المَحَبَّةِ.
 
 *“Associate with every scholar who calls you away from five things
 towards five things:*
@@ -255,13 +203,9 @@ The Role of Wise Companions
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-الإخْوانُ ثَلاثَةٌ: فَواحِدٌ كالغِذاءِ الّذي يُحتاجُ إليه في كُل
-وَقتٍ، والثاني في مَعنى الدّاءِ وَهو الأحمَقُ والثّالِثُ في مَعنى
-الدّواءِ وهو اللَّبيبُ.
-  </p>
-</blockquote>
+> الإخْوانُ ثَلاثَةٌ: فَواحِدٌ كالغِذاءِ الّذي يُحتاجُ إليه في كُل
+> وَقتٍ، والثاني في مَعنى الدّاءِ وَهو الأحمَقُ والثّالِثُ في مَعنى
+> الدّواءِ وهو اللَّبيبُ.
 
 *“Brothers are of three kinds. The first kind is like nourishment that
 we need at all times; the second is like a disease, and they are the
@@ -302,17 +246,13 @@ The Criteria for Honesty
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-الصَّداقَةُ مَحدودةٌ، فمَنْ لمَ تَكُنْ فيهِ تِلكَ الحُدودِ فلا
-تَنسِبُهُ إلى كَمالِ الصَّداقَةِ، وَمَنْ لَم يكُنْ فيهِ شَيءٌ مِن
-تِلكَ الحُدودِ لا تَنسِبْه إلى شَيءٍ مِن الصَّداقَة. أوّلهُا أنْ تكونَ
-سَريرَتُهُ وَعَلانيَتُهُ لكَ واحِدةٌ، والثانيةُ أنْ يَرى زَينَكَ
-زَينَهُ وَشَيْنَكَ شَينَهُ، والثالثةُ أنْ لا يُغيّرَهُ مالٌ ولا
-ولايةٌ، والرابعةُ أنْ لا يَمْنَعَكَ شَيئاً ممّا تَصِلُ إلَيهِ
-مَقدِرَتُهُ، والخَامِسَةُ أنْ لا يُسَلّمَكَ عِندَ النَّكباتِ.
-  </p>
-</blockquote>
+> الصَّداقَةُ مَحدودةٌ، فمَنْ لمَ تَكُنْ فيهِ تِلكَ الحُدودِ فلا
+> تَنسِبُهُ إلى كَمالِ الصَّداقَةِ، وَمَنْ لَم يكُنْ فيهِ شَيءٌ مِن
+> تِلكَ الحُدودِ لا تَنسِبْه إلى شَيءٍ مِن الصَّداقَة. أوّلهُا أنْ تكونَ
+> سَريرَتُهُ وَعَلانيَتُهُ لكَ واحِدةٌ، والثانيةُ أنْ يَرى زَينَكَ
+> زَينَهُ وَشَيْنَكَ شَينَهُ، والثالثةُ أنْ لا يُغيّرَهُ مالٌ ولا
+> ولايةٌ، والرابعةُ أنْ لا يَمْنَعَكَ شَيئاً ممّا تَصِلُ إلَيهِ
+> مَقدِرَتُهُ، والخَامِسَةُ أنْ لا يُسَلّمَكَ عِندَ النَّكباتِ.
 
 *“There are certain criteria for sincere friendship. Do not attribute
 perfection in sincere friendship to one who does not possess these
@@ -329,14 +269,10 @@ The Prophet’s Association with the Poor Pious Ones
 
 Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ
-وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ
-تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا
-قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا
-  </p>
-</blockquote>
+> وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ
+> وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ
+> تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا
+> قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا
 
 ***“And keep thy soul content with those who call on their Lord morning
 and evening, seeking His Face; and let not thine eyes pass beyond them,
@@ -390,5 +326,4 @@ him but good.”
 [^14]: Ithna ‘Ashariyah, p.343, quoted from al-Amali by Saduq, p.397.
 
 [^15]: Tafsir-i-Namunah, v.12, p.414.
-
 

@@ -6,9 +6,7 @@ believing that she was not able to think of herself alone and lead a
 life for her own sake, because Islamic Omma belongs to all and regards
 all people as the members of one body.
 
-<p dir="rtl">
 “ كنتم خيرامة أخرجت للناس”
-</p>
 
 She had got this strong sense of responsibility since childhood and had
 been her father’s confidant when she was only five or six. She lent her
@@ -97,9 +95,7 @@ break their fast to the orphan, poor, and captive for three successive
 nights as the Prophet (peace be upon him and his descendants) said in
 this regard,
 
-<p dir="rtl">
 “واغوثاه اهل بيت محمد يموتون من الجوع”.
-</p>
 
 Although she knew that there existed no food storage in the house, she
 spent the Fadak income for the poor.
@@ -122,5 +118,4 @@ revelation and under the supervision of a professor as Mohammed (a.s),
 the father of humanity. She should be benevolent toward people, because
 she is under the supervision the one, the holy Quran said about him, “
 وما ارسلناك الا رحمة للعالمين”.
-
 

@@ -167,4 +167,3 @@ Questions to ask yourself
 
 Describe the human being in 10 lines and explain its particularities.
 
-

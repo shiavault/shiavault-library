@@ -30,4 +30,3 @@ is the best Guide, the best Helper.
 
 Tehran - IRAN.
 
-

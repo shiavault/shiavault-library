@@ -210,4 +210,3 @@ of the Bedouin lady), Abu-Furja (source of relief) and Abush- Shara
 
 [^12]: See Qamar Bani Hashim, 21
 
-

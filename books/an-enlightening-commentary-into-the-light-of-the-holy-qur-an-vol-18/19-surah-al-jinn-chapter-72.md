@@ -10,11 +10,7 @@ Surah al-Jinn, Chapter 72
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -41,27 +37,15 @@ contextual meaning and applying it to one’s life.
 Surah al-Jinn – Verses 1-2
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا
-إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا
-  </p>
-</blockquote>
+> قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا
+> إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا
 
-<blockquote dir="rtl">
-  <p>
-يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَنْ نُشْرِكَ بِرَبِّنَا
-أَحَدًا
-  </p>
-</blockquote>
+> يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَنْ نُشْرِكَ بِرَبِّنَا
+> أَحَدًا
 
 ***1. Say: "It has been revealed unto me that a group [of jinn] listened
 to me. Then, they said: 'We have heard a wondrous Qur’an,***  
@@ -139,25 +123,13 @@ even, and clear path leading t happiness and perfection.
 Surah al-Jinn – Verses 3-5
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا
-وَلَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا
+> وَلَدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
-  </p>
-</blockquote>
+> وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّهِ
-كَذِبًا
-  </p>
-</blockquote>
+> وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّهِ
+> كَذِبًا
 
 ***3. 'And that He, exalted is the Majesty of our Lord, has taken
 neither a wife nor a child.***  
@@ -248,12 +220,8 @@ jinn.
 Surah al-Jinn – Verse 6
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ
-الْجِنِّ فَزَادُوهُمْ رَهَقًا
-  </p>
-</blockquote>
+> وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ
+> الْجِنِّ فَزَادُوهُمْ رَهَقًا
 
 ***6. 'And there were men amongst mankind who took shelter with the
 males amongst the jinn, but they increased them in their error and
@@ -297,18 +265,10 @@ Allah’s Messenger (S).[^6]
 Surah al-Jinn – Verses 7-8
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّهُ أَحَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّهُ أَحَدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا
-وَشُهُبًا
-  </p>
-</blockquote>
+> وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا
+> وَشُهُبًا
 
 ***7. 'And they thought as you thought that Allah would not send any
 Messenger.***  
@@ -344,19 +304,11 @@ form haras is the plural form of haris ("guard").
 Surah al-Jinn – Verses 9-10
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَنْ
-يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
-  </p>
-</blockquote>
+> وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَنْ
+> يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ
-بِهِمْ رَبُّهُمْ رَشَدًا
-  </p>
-</blockquote>
+> وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ
+> بِهِمْ رَبُّهُمْ رَشَدًا
 
 ***9. 'And we used to sit there in stations to eavesdrop, but any who
 intends to eavesdrop now will find a shooting star watching him in
@@ -431,19 +383,11 @@ Divine Bounties and the Blessings of Creation.
 Surah al-Jinn – Verses 11-12
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا
-طَرَائِقَ قِدَدًا
-  </p>
-</blockquote>
+> وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا
+> طَرَائِقَ قِدَدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا ظَنَنَّا أَن لَّن نُّعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَن
-نُّعْجِزَهُ هَرَبًا
-  </p>
-</blockquote>
+> وَأَنَّا ظَنَنَّا أَن لَّن نُّعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَن
+> نُّعْجِزَهُ هَرَبًا
 
 ***11. 'And there are amongst us some that are righteous and some
 impious; we are groups having different ways.***  
@@ -498,25 +442,13 @@ remains no other choice but to submit to His Just Command.
 Surah al-Jinn – Verses 13-15
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَن يُؤْمِن
-بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
-  </p>
-</blockquote>
+> وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَن يُؤْمِن
+> بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ
-أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا
-  </p>
-</blockquote>
+> وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ
+> أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
-  </p>
-</blockquote>
+> وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
 
 ***13. 'And when we heard the Guidance of the Holy Qur’an, we believed
 therein and whoever believes in his Lord shall have no fear, either of a
@@ -616,19 +548,11 @@ firewood in Hell, inwardly set ablaze.
 Surah al-Jinn – Verses 16-17
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَن لَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُم مَّاءً
-غَدَقًا
-  </p>
-</blockquote>
+> وَأَن لَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُم مَّاءً
+> غَدَقًا
 
-<blockquote dir="rtl">
-  <p>
-لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِ يَسْلُكْهُ
-عَذَابًا صَعَدًا
-  </p>
-</blockquote>
+> لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِ يَسْلُكْهُ
+> عَذَابًا صَعَدًا
 
 ***16. If they [the jinn and mankind] persevere on the path [of faith],
 We shall surely bestow upon them water in abundance.***  
@@ -729,18 +653,10 @@ that surely with Allahis a great Reward"***[^13]***.***
 Surah al-Jinn – Verses 18-19
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
-  </p>
-</blockquote>
+> وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ
-عَلَيْهِ لِبَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ
+> عَلَيْهِ لِبَدًا
 
 ***18. The mosques are for Allah [Alone]. Therefore, invoke not anyone
 along with Allah.***  
@@ -870,24 +786,12 @@ the two preceding meanings.
 Surah al-Jinn – Verses 20-22
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
-  </p>
-</blockquote>
+> قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي لَن يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن
-دُونِهِ مُلْتَحَدًا
-  </p>
-</blockquote>
+> قُلْ إِنِّي لَن يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن
+> دُونِهِ مُلْتَحَدًا
 
 ***20. Say: "I invoke only my Lord and I associate none as partners
 along with Him."***  
@@ -924,19 +828,11 @@ wherein precious things are placed and locked.
 Surah al-Jinn – Verses 23-24
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا بَلَاغًا مِّنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَن يَعْصِ اللَّهَ
-وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
-  </p>
-</blockquote>
+> إِلَّا بَلَاغًا مِّنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَن يَعْصِ اللَّهَ
+> وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ
-نَاصِرًا وَأَقَلُّ عَدَدًا
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ
+> نَاصِرًا وَأَقَلُّ عَدَدًا
 
 ***23. [Mine is] but imparting Allah’s Messages and whoever disobeys
 Allah and His Messenger, Hellfire shall be in store for him where he
@@ -1014,32 +910,16 @@ battles of Badr and Ahzab.
 Surah al-Jinn – Verses 25-28
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي
-أَمَدًا
-  </p>
-</blockquote>
+> قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي
+> أَمَدًا
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ ارْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
-  </p>
-</blockquote>
+> إِلَّا مَنِ ارْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
 
-<blockquote dir="rtl">
-  <p>
-لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا
-لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
-  </p>
-</blockquote>
+> لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا
+> لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
 
 ***25. Say: "I know not whether what is promised to you is near or
 whether my Lord will appoint for it a term.***  
@@ -1609,5 +1489,4 @@ Nadir-un fihi Dhikr al-Ghayb), tradition no. 3.
 2, p. 523.
 
 [^47]: 16:89
-
 

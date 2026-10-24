@@ -3,24 +3,16 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ اِنْ طاَئِفَتاَنِ مَنَ الْمُؤْمِنِيْنَ إقْتَتَلُوْا فَأَصْلِحُوْا
-بَيْنَهُما
-  </p>
-</blockquote>
+> وَ اِنْ طاَئِفَتاَنِ مَنَ الْمُؤْمِنِيْنَ إقْتَتَلُوْا فَأَصْلِحُوْا
+> بَيْنَهُما
 
 *(And if two parties of the believers fall into a quarrel, restore peace
 between them two)*[^1]
 
 Imam Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَأَنْ اَصْلَحَ بَيْنَ اِثْنَيْنِ اَحَبُّ اِلَيَّ مِنْ أَنْ
-اَتَصَدَّقَ بِدِيْناِرَيْنِ
-  </p>
-</blockquote>
+> لَأَنْ اَصْلَحَ بَيْنَ اِثْنَيْنِ اَحَبُّ اِلَيَّ مِنْ أَنْ
+> اَتَصَدَّقَ بِدِيْناِرَيْنِ
 
 ***(Reconciling between two (disputing) persons is dearer to me than
 giving two dinars in charity.)***[^2]
@@ -227,5 +219,4 @@ minister for his conduct and elevated him in rank and status.[^7]
 [^6]: Taareekh-e-Hukamaa Wa U’rafaa, pg. 133
 
 [^7]: Lataaif al-Tawaaif, pg. 98.
-
 

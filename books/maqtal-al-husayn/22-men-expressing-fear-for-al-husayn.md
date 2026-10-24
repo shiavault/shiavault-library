@@ -326,4 +326,3 @@ reign.
 
 [^16]: Ibn Tawus, Al-Luhuf, p. 17.
 
-

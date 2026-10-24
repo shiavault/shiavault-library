@@ -68,4 +68,3 @@ comes from within. They walk along the shores of the sea of lights and
 these shores have their boundaries. This is the way of the mumin, the
 way of perfect trust.
 
-

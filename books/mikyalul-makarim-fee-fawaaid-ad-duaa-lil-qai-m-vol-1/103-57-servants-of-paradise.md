@@ -17,4 +17,3 @@ included in it first of all.
 
 [^1]: Kafi; Vol. 2, Pg. 206
 
-

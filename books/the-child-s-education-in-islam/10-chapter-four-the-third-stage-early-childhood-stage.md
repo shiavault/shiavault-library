@@ -12,7 +12,6 @@ the children and preparing them to be efficient in the midst of the
 society. The feature of this stage are pinpointed with in the following
 training methods.
 
-
 **Firstly : Teaching Child The Cognition Of Allah The Most High**
 
 Child was naturally created base on faith with Allah the most High,
@@ -120,5 +119,4 @@ The reality has established that the child possess the ability to
 repeat and memorize what he hears. The child will grow up having
 attraction and interest for the Qur'an and what is in Qur'anic
 understandings reflect on his senses and conduct.
-
 

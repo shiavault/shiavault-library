@@ -507,4 +507,3 @@ A.S. McGrade (education.). The Cambridge Campanion to Madieval
 philosophy (p. 254-275). Cambridge:
 Cambridge university Press
 
-

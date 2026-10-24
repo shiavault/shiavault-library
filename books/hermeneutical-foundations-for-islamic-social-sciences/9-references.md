@@ -136,11 +136,9 @@ Cambridge: Cambridge University Press.
 Plantinga, Alvin (2010) "Religion and Science", The Stanford
 Encyclopedia of Philosophy (Summer 2010 Edition), ed., Edward N. Zalta,
 on-line at:
-<http://plato.stanford.edu/archives/sum2010/entries/religion-science/<blockquote dir="rtl">
-  <p>
-.
-  </p>
-</blockquote>
+<http://plato.stanford.edu/archives/sum2010/entries/religion-science/
+
+> .
 
 Plantinga, Alvin (2009) "Games Scientists Play," in The Believing
 Primate, eds. Jeffrey Schloss and Michael J. Murray, Oxford: Oxford
@@ -206,5 +204,4 @@ Critique of Passional Reason, Ithaca: Cornell University Press.
 
 Westphal, Merold (1998) Suspicion and Faith: The Religious Uses of
 Modern Atheism, New York: Fordham University Press.
-
 

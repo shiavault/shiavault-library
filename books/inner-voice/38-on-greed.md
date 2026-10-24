@@ -46,4 +46,3 @@ shall put them in Hell and I shall not care for them”.
 Let us root out the ‘greed’ from our hearts. Only then this would will
 be a place to live upon.
 
-

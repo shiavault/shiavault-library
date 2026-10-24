@@ -95,7 +95,7 @@ It is also said that:
 to them what had been hidden from them of their inclinations. [Surah
 Aaraf 7:20]*
 
-On the basis of this in the 22<sup>nd</sup> verse of the same Surah it
+On the basis of this in the 22nd verse of the same Surah it
 says:
 
 *their evil inclinations became manifest to them, and they both began to

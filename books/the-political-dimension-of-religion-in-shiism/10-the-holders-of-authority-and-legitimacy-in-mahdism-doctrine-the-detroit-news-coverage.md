@@ -212,4 +212,3 @@ everyone involved loses out-and that is not only the followers of
 al-Imam al-Mahdi but the people who might come to our side inside
 American and Israeli borders.
 
-

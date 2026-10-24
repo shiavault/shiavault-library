@@ -511,4 +511,3 @@ invasions would appear to be of this type, but a superficial view is not
 enough, especially as historians have ascribed other causes for the
 Mongol invasions.
 
-

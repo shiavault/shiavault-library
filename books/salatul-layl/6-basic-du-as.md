@@ -4,59 +4,23 @@ Basic Du’as
 Du’a before beginning Salatul Layl
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اِنِّي اَتَوَجَّهُ اِلَيْكَ بِنَبِيِّكَ
-  </p>
-</blockquote>
+> اَللّهُمَّ اِنِّي اَتَوَجَّهُ اِلَيْكَ بِنَبِيِّكَ
 
-<blockquote dir="rtl">
-  <p>
-نَبِيِّ الرَّحْمَةِ وَ آلِهِ
-  </p>
-</blockquote>
+> نَبِيِّ الرَّحْمَةِ وَ آلِهِ
 
-<blockquote dir="rtl">
-  <p>
-وَ اُقَدِّمُهُمْ بَيْنَ يَدَيْ حَوَ ائِجِي
-  </p>
-</blockquote>
+> وَ اُقَدِّمُهُمْ بَيْنَ يَدَيْ حَوَ ائِجِي
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلْنِي بِهِمْ وَجِيْهًا
-  </p>
-</blockquote>
+> فَاجْعَلْنِي بِهِمْ وَجِيْهًا
 
-<blockquote dir="rtl">
-  <p>
-فِي الدُّنْيَا وَ الآخِرَةِ
-  </p>
-</blockquote>
+> فِي الدُّنْيَا وَ الآخِرَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ الْمُقَرَّبِيْنَ
-  </p>
-</blockquote>
+> وَ مِنَ الْمُقَرَّبِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ ارْحَمْنِي بِهِمْ
-  </p>
-</blockquote>
+> اَللّهُمَّ ارْحَمْنِي بِهِمْ
 
 ### English translation of Du’a before beginning Salatul Layl
 
@@ -74,53 +38,21 @@ In the name of Allah the Beneficent, the Merciful
  O Allah have mercy on me  
  through them
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تُعَذِّبْنِي بِهِمْ
-  </p>
-</blockquote>
+> وَ لاَ تُعَذِّبْنِي بِهِمْ
 
-<blockquote dir="rtl">
-  <p>
-وَ اهْدِنِي بِهِمْ
-  </p>
-</blockquote>
+> وَ اهْدِنِي بِهِمْ
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تُضِلَّنِي بِهِمْ
-  </p>
-</blockquote>
+> وَ لاَ تُضِلَّنِي بِهِمْ
 
-<blockquote dir="rtl">
-  <p>
-وَ ارْزُقْنِي بِهِمْ
-  </p>
-</blockquote>
+> وَ ارْزُقْنِي بِهِمْ
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَحْرِمْنِي بِهِمْ
-  </p>
-</blockquote>
+> وَ لاَ تَحْرِمْنِي بِهِمْ
 
-<blockquote dir="rtl">
-  <p>
-وَ اقْضِ لِي حَوَائِجَ الدُّنْيَا وَ الآَخِرَةِ
-  </p>
-</blockquote>
+> وَ اقْضِ لِي حَوَائِجَ الدُّنْيَا وَ الآَخِرَةِ
 
-<blockquote dir="rtl">
-  <p>
-اِنَّكَ عَلى كُلِّ شَيْءٍ قَدِيْرٌ
-  </p>
-</blockquote>
+> اِنَّكَ عَلى كُلِّ شَيْءٍ قَدِيْرٌ
 
-<blockquote dir="rtl">
-  <p>
-وَ بِكُلِّ شَيْءٍ عَلِيْمٌ
-  </p>
-</blockquote>
+> وَ بِكُلِّ شَيْءٍ عَلِيْمٌ
 
 and do not punish me  
  through them  
@@ -140,59 +72,23 @@ and do not punish me
 Du’a after 8 raka’ats of Nafilah of Layl
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اَنْتَ الْحَيُّ الْقَيُّوْمُ
-  </p>
-</blockquote>
+> اَللّهُمَّ اَنْتَ الْحَيُّ الْقَيُّوْمُ
 
-<blockquote dir="rtl">
-  <p>
-اَلْعَلِيُّ الْعَظِيْمُ
-  </p>
-</blockquote>
+> اَلْعَلِيُّ الْعَظِيْمُ
 
-<blockquote dir="rtl">
-  <p>
-اَلْخَالِقُ الرَّازِقُ اَلْمُحْيِي الْمُمِيْتُ
-  </p>
-</blockquote>
+> اَلْخَالِقُ الرَّازِقُ اَلْمُحْيِي الْمُمِيْتُ
 
-<blockquote dir="rtl">
-  <p>
-اَلْبَدِيئُ الْبَدِيْعُ
-  </p>
-</blockquote>
+> اَلْبَدِيئُ الْبَدِيْعُ
 
-<blockquote dir="rtl">
-  <p>
-لَكَ الْكَرَمُ وَ لَكَ الْجُوْدُ
-  </p>
-</blockquote>
+> لَكَ الْكَرَمُ وَ لَكَ الْجُوْدُ
 
-<blockquote dir="rtl">
-  <p>
-وَ لَكَ الْمَنُّ وَ لَكَ الاَمْرُ
-  </p>
-</blockquote>
+> وَ لَكَ الْمَنُّ وَ لَكَ الاَمْرُ
 
-<blockquote dir="rtl">
-  <p>
-وَحْدَكَ لاَ شَرِيْكَ لَكَ
-  </p>
-</blockquote>
+> وَحْدَكَ لاَ شَرِيْكَ لَكَ
 
 ### English translation of Du’a after 8 raka’ats of Nafilah of Layl
 
@@ -214,53 +110,21 @@ For You is nobility
 You are One  
  there is no partner for You
 
-<blockquote dir="rtl">
-  <p>
-يَا خَالِقُ يَا رَازِقُ
-  </p>
-</blockquote>
+> يَا خَالِقُ يَا رَازِقُ
 
-<blockquote dir="rtl">
-  <p>
-يَا مُحْيِي يَا مُمِيْتُ
-  </p>
-</blockquote>
+> يَا مُحْيِي يَا مُمِيْتُ
 
-<blockquote dir="rtl">
-  <p>
-يَا بَدِيْعُ يَا رَفِيْعُ
-  </p>
-</blockquote>
+> يَا بَدِيْعُ يَا رَفِيْعُ
 
-<blockquote dir="rtl">
-  <p>
-اَسْأَلُكَ اَنْ تُصَلِّيَ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَسْأَلُكَ اَنْ تُصَلِّيَ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-وَ اَنْ تَرْحَمَ ذُلِّ بَيْنَ يَدَيْكَ
-  </p>
-</blockquote>
+> وَ اَنْ تَرْحَمَ ذُلِّ بَيْنَ يَدَيْكَ
 
-<blockquote dir="rtl">
-  <p>
-وَ تَضَرُّعِي اِلَيْكَ
-  </p>
-</blockquote>
+> وَ تَضَرُّعِي اِلَيْكَ
 
-<blockquote dir="rtl">
-  <p>
-وَحْشَتِي مِنَ النَّاسِ
-  </p>
-</blockquote>
+> وَحْشَتِي مِنَ النَّاسِ
 
-<blockquote dir="rtl">
-  <p>
-وَ اُنْسِي بِكَ
-  </p>
-</blockquote>
+> وَ اُنْسِي بِكَ
 
 O Creator, O Sustainer  
  O the One who gives life  
@@ -276,59 +140,23 @@ O Creator, O Sustainer
 Du’a after Salat al-Shaf’a
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-اِلهِي تَعَرَّضَ لَكَ فِي هذَا اللَّيْلِ الْمُتَعَرِّضُوْنَ
-  </p>
-</blockquote>
+> اِلهِي تَعَرَّضَ لَكَ فِي هذَا اللَّيْلِ الْمُتَعَرِّضُوْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ قَصَدَكَ فِيْهِ الْقَاصِدُوْنَ
-  </p>
-</blockquote>
+> وَ قَصَدَكَ فِيْهِ الْقَاصِدُوْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ اَمَّلَ فَضْلَكَ وَ مَعْرُوْفَكَ الطَّالِبُوْنَ
-  </p>
-</blockquote>
+> وَ اَمَّلَ فَضْلَكَ وَ مَعْرُوْفَكَ الطَّالِبُوْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ لَكَ فِي هذَا اللَّيْلِ نَفَحَاتٌ
-  </p>
-</blockquote>
+> وَ لَكَ فِي هذَا اللَّيْلِ نَفَحَاتٌ
 
-<blockquote dir="rtl">
-  <p>
-وَ جَوَائِزُ وَ عَطَايَا وَ مَوَاهِبُ
-  </p>
-</blockquote>
+> وَ جَوَائِزُ وَ عَطَايَا وَ مَوَاهِبُ
 
-<blockquote dir="rtl">
-  <p>
-تَمُنُّ بِهَا عَلى مَنْ تَشَاءُ مِنْ عِبَادِكَ
-  </p>
-</blockquote>
+> تَمُنُّ بِهَا عَلى مَنْ تَشَاءُ مِنْ عِبَادِكَ
 
-<blockquote dir="rtl">
-  <p>
-وَ تَمْنَعُهَا مَنْ لَمْ تَسْبِقُ لَهُ الْعِنَايَةُ مِنْكَ
-  </p>
-</blockquote>
+> وَ تَمْنَعُهَا مَنْ لَمْ تَسْبِقُ لَهُ الْعِنَايَةُ مِنْكَ
 
 ### English translation of Du’a after Salat al-Shaf’a
 
@@ -347,65 +175,25 @@ For You have in this night, hidden bounties
  from Your servants  
  and You deny them to one who has not reached Your regard
 
-<blockquote dir="rtl">
-  <p>
-وَ هَا اَنَا ذَا عُبَيْدُكَ الْفَقِيْرُ اِلَيْكَ
-  </p>
-</blockquote>
+> وَ هَا اَنَا ذَا عُبَيْدُكَ الْفَقِيْرُ اِلَيْكَ
 
-<blockquote dir="rtl">
-  <p>
-اَلْمُؤَمِّلُ فَضْلَكَ وَ مَعْرُوْفَكَ
-  </p>
-</blockquote>
+> اَلْمُؤَمِّلُ فَضْلَكَ وَ مَعْرُوْفَكَ
 
-<blockquote dir="rtl">
-  <p>
-فَاِنْ كُنْتَ يَا مَوْلاَيَ تَفَضَّلْتَ فِي هذِهِ اللَّيْلَةِ
-  </p>
-</blockquote>
+> فَاِنْ كُنْتَ يَا مَوْلاَيَ تَفَضَّلْتَ فِي هذِهِ اللَّيْلَةِ
 
-<blockquote dir="rtl">
-  <p>
-عَلى اَحَدٍ مِنْ خَلْقِكَ
-  </p>
-</blockquote>
+> عَلى اَحَدٍ مِنْ خَلْقِكَ
 
-<blockquote dir="rtl">
-  <p>
-وَ عُدْتَ عَلَيْهِ بِعَائِدَةٍ مِنْ عَطْفِكَ
-  </p>
-</blockquote>
+> وَ عُدْتَ عَلَيْهِ بِعَائِدَةٍ مِنْ عَطْفِكَ
 
-<blockquote dir="rtl">
-  <p>
-فَصَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> فَصَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-اَلطَّيِّبِيْنَ الطَّاهِرِيْنَ
-  </p>
-</blockquote>
+> اَلطَّيِّبِيْنَ الطَّاهِرِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-اَلْخَيِّرِيْنَ اَلْفَاضِلِيْنَ
-  </p>
-</blockquote>
+> اَلْخَيِّرِيْنَ اَلْفَاضِلِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ جُدْ عَلَيَّ بِطَوْلِكَ وَ مَعْرُوْفِكَ
-  </p>
-</blockquote>
+> وَ جُدْ عَلَيَّ بِطَوْلِكَ وَ مَعْرُوْفِكَ
 
-<blockquote dir="rtl">
-  <p>
-يَا رَبَّ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> يَا رَبَّ الْعَالَمِيْنَ
 
 Here I am,  
  Your abject servant  
@@ -423,47 +211,19 @@ Here I am,
  and favor me with Your grace and bounty  
  O Lord of the worlds
 
-<blockquote dir="rtl">
-  <p>
-وَ صَلَّى اللّهُ عَلى مُحَمَّدٍ
-  </p>
-</blockquote>
+> وَ صَلَّى اللّهُ عَلى مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-خَاتَمِ النَّبِيِّيْنَ
-  </p>
-</blockquote>
+> خَاتَمِ النَّبِيِّيْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ آلِهِ الطَّاهِرِيْنَ وَ سَلَّمَ تَسْلِيْمًا
-  </p>
-</blockquote>
+> وَ آلِهِ الطَّاهِرِيْنَ وَ سَلَّمَ تَسْلِيْمًا
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ اللّهَ حَمِيْدٌ مَجِيْدٌ
-  </p>
-</blockquote>
+> اِنَّ اللّهَ حَمِيْدٌ مَجِيْدٌ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اِنِّي اَدْعُوْكَ كَمَا اَمَرْتَ
-  </p>
-</blockquote>
+> اَللّهُمَّ اِنِّي اَدْعُوْكَ كَمَا اَمَرْتَ
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَجِبْ لِي كَمَا وَعَدْتَ
-  </p>
-</blockquote>
+> فَاسْتَجِبْ لِي كَمَا وَعَدْتَ
 
-<blockquote dir="rtl">
-  <p>
-اِنَّكَ لاَ تُخْلِفُ الْمِيْعَادَ
-  </p>
-</blockquote>
+> اِنَّكَ لاَ تُخْلِفُ الْمِيْعَادَ
 
 And send blessings on Muhammad  
  the seal of the Prophets  
@@ -484,59 +244,23 @@ recited softly and sorrowfully
 
 .
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اَللّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-اُنَاجِيْكَ يَا مَوْجُوْدًا فِي كُلِّ مَكَانٍ
-  </p>
-</blockquote>
+> اُنَاجِيْكَ يَا مَوْجُوْدًا فِي كُلِّ مَكَانٍ
 
-<blockquote dir="rtl">
-  <p>
-لَعَلَّكَ تَسْمَعُ نِدَائِي
-  </p>
-</blockquote>
+> لَعَلَّكَ تَسْمَعُ نِدَائِي
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ عَظُمَ جُرْمِي وَ قَلَّ حَيَائِي
-  </p>
-</blockquote>
+> فَقَدْ عَظُمَ جُرْمِي وَ قَلَّ حَيَائِي
 
-<blockquote dir="rtl">
-  <p>
-مَوْلاَيَ يَا مَوْلاَيَ
-  </p>
-</blockquote>
+> مَوْلاَيَ يَا مَوْلاَيَ
 
-<blockquote dir="rtl">
-  <p>
-اَيُّ اْلاَهْوَالِ اَتَذَكَّرُ وَ اَيُّهَا اَنْسى
-  </p>
-</blockquote>
+> اَيُّ اْلاَهْوَالِ اَتَذَكَّرُ وَ اَيُّهَا اَنْسى
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ لَمْ يَكُنْ اِلاَّ الْمَوْتُ لَكَفى
-  </p>
-</blockquote>
+> وَ لَوْ لَمْ يَكُنْ اِلاَّ الْمَوْتُ لَكَفى
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ وَ مَا بَعْدَ الْمَوْتِ اَعْظَمُ وَ اَدْهى
-  </p>
-</blockquote>
+> كَيْفَ وَ مَا بَعْدَ الْمَوْتِ اَعْظَمُ وَ اَدْهى
 
 ### English translation of Du’a after Salatul Witr
 
@@ -555,65 +279,25 @@ In the name of Allah, The Beneficent, the Merciful
  then what about after death  
  greater and much worse?
 
-<blockquote dir="rtl">
-  <p>
-مَوْلاَيَ يَا مَوْلاَيَ حَتَّى مَتى وَ اِلى مَتى
-  </p>
-</blockquote>
+> مَوْلاَيَ يَا مَوْلاَيَ حَتَّى مَتى وَ اِلى مَتى
 
-<blockquote dir="rtl">
-  <p>
-اَقُوْلُ لَكَ الْعُتْبى مَرَّةً بَعْدَ اُخْرى
-  </p>
-</blockquote>
+> اَقُوْلُ لَكَ الْعُتْبى مَرَّةً بَعْدَ اُخْرى
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لاَ تَجِدُ عِنْدِي صِدْقًا وَ لاَ وَفَاءً
-  </p>
-</blockquote>
+> ثُمَّ لاَ تَجِدُ عِنْدِي صِدْقًا وَ لاَ وَفَاءً
 
-<blockquote dir="rtl">
-  <p>
-فَيَا غَوْثَاهُ ثُمَّ وَا غَوْثَاهُ بِكَ يَا اَللّهُ
-  </p>
-</blockquote>
+> فَيَا غَوْثَاهُ ثُمَّ وَا غَوْثَاهُ بِكَ يَا اَللّهُ
 
-<blockquote dir="rtl">
-  <p>
-مِنْ هَوىً قَدْ غَلَبَنِي
-  </p>
-</blockquote>
+> مِنْ هَوىً قَدْ غَلَبَنِي
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ عَدُوٍّ قَدِ اسْتَكْلَبَ عَلَيَّ
-  </p>
-</blockquote>
+> وَ مِنْ عَدُوٍّ قَدِ اسْتَكْلَبَ عَلَيَّ
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ دُنْياً قَدْ تَزَيَّنَتْ لِي
-  </p>
-</blockquote>
+> وَ مِنْ دُنْياً قَدْ تَزَيَّنَتْ لِي
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ نَفْسٍ اَمَّارَةٍ بِالسُّوْءِ اِلاَّ مَا رَحِمَ رَبِّي
-  </p>
-</blockquote>
+> وَ مِنْ نَفْسٍ اَمَّارَةٍ بِالسُّوْءِ اِلاَّ مَا رَحِمَ رَبِّي
 
-<blockquote dir="rtl">
-  <p>
-مَوْلاَيَ يَا مَوْلاَيَ
-  </p>
-</blockquote>
+> مَوْلاَيَ يَا مَوْلاَيَ
 
-<blockquote dir="rtl">
-  <p>
-اِنْ كُنْتَ رَحِمْتَ مِثْلِي فَارْحَمْنِي
-  </p>
-</blockquote>
+> اِنْ كُنْتَ رَحِمْتَ مِثْلِي فَارْحَمْنِي
 
 My master O my Master  
  up to when and till when  
@@ -633,65 +317,25 @@ My master O my master
  if You have had mercy on the likes of me  
  then have mercy on me
 
-<blockquote dir="rtl">
-  <p>
-وَ اِنْ كُنْتَ قَبِلْتَ مِثْلِي فَاقْبَلْنِي
-  </p>
-</blockquote>
+> وَ اِنْ كُنْتَ قَبِلْتَ مِثْلِي فَاقْبَلْنِي
 
-<blockquote dir="rtl">
-  <p>
-يَا قَابِلَ السَّحَرَةِ اقْبَلْنِي
-  </p>
-</blockquote>
+> يَا قَابِلَ السَّحَرَةِ اقْبَلْنِي
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ لَمْ اَزَلْ اَتَعَرَّفُ مِنْهُ الْحُسْنى
-  </p>
-</blockquote>
+> يَا مَنْ لَمْ اَزَلْ اَتَعَرَّفُ مِنْهُ الْحُسْنى
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ يُغَذِّيْنِي بِالنِّعَمِ صَبَاحًا وَ مَسَاءً
-  </p>
-</blockquote>
+> يَا مَنْ يُغَذِّيْنِي بِالنِّعَمِ صَبَاحًا وَ مَسَاءً
 
-<blockquote dir="rtl">
-  <p>
-اِرْحَمْنِي يَوْمَ آتِيْكَ فَرْدًا
-  </p>
-</blockquote>
+> اِرْحَمْنِي يَوْمَ آتِيْكَ فَرْدًا
 
-<blockquote dir="rtl">
-  <p>
-شَاخِصًا اِلَيْكَ بَصَرِي مُقَلَّدًا عَمَلِي
-  </p>
-</blockquote>
+> شَاخِصًا اِلَيْكَ بَصَرِي مُقَلَّدًا عَمَلِي
 
-<blockquote dir="rtl">
-  <p>
-قَدْ تَبَرَّأَ جَمِيْعُ الْخَلْقِ مِنِّي
-  </p>
-</blockquote>
+> قَدْ تَبَرَّأَ جَمِيْعُ الْخَلْقِ مِنِّي
 
-<blockquote dir="rtl">
-  <p>
-نَعَمْ وَ اَبِي وَ اُمِّي وَ مَنْ كَانَ لَهُ كَدِّي وَ سَعْيِي
-  </p>
-</blockquote>
+> نَعَمْ وَ اَبِي وَ اُمِّي وَ مَنْ كَانَ لَهُ كَدِّي وَ سَعْيِي
 
-<blockquote dir="rtl">
-  <p>
-فَاِنْ لَمْ تَرْحَمْنِي فَمَنْ يَرْحَمُنِي
-  </p>
-</blockquote>
+> فَاِنْ لَمْ تَرْحَمْنِي فَمَنْ يَرْحَمُنِي
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُؤْنِسُ فِي الْقَبْرِ وَحْشَتِي
-  </p>
-</blockquote>
+> وَ مَنْ يُؤْنِسُ فِي الْقَبْرِ وَحْشَتِي
 
 and if You have accepted from the likes of me  
  then accept from me  
@@ -713,65 +357,25 @@ and if You have accepted from the likes of me
  who will give me solace  
  from the loneliness of the grave
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُنْطِقُ لِسَانِي اِذَا خَلَوْتُ بِعَمَلِي
-  </p>
-</blockquote>
+> وَ مَنْ يُنْطِقُ لِسَانِي اِذَا خَلَوْتُ بِعَمَلِي
 
-<blockquote dir="rtl">
-  <p>
-وَ سَأَلْتَنِي عَمَّا اَنْتَ اَعْلَمُ بِهِ مِنِّي
-  </p>
-</blockquote>
+> وَ سَأَلْتَنِي عَمَّا اَنْتَ اَعْلَمُ بِهِ مِنِّي
 
-<blockquote dir="rtl">
-  <p>
-فَاِنْ قُلْتُ نَعَمْ فَاَيْنَ الْمَهْرَبُ مِنْ عَدْلِكَ
-  </p>
-</blockquote>
+> فَاِنْ قُلْتُ نَعَمْ فَاَيْنَ الْمَهْرَبُ مِنْ عَدْلِكَ
 
-<blockquote dir="rtl">
-  <p>
-وَ اِنْ قُلْتُ لَمْ اَفْعَلْ
-  </p>
-</blockquote>
+> وَ اِنْ قُلْتُ لَمْ اَفْعَلْ
 
-<blockquote dir="rtl">
-  <p>
-قُلْتَ اَلَمْ اَكُنِ الشَّاهِدَ عَلَيْكَ
-  </p>
-</blockquote>
+> قُلْتَ اَلَمْ اَكُنِ الشَّاهِدَ عَلَيْكَ
 
-<blockquote dir="rtl">
-  <p>
-فَعَفْوُكَ عَفْوُكَ يَا مَوْلاَيَ قَبْلَ سَرَابِيْلِ الْقَطِرَانَ
-  </p>
-</blockquote>
+> فَعَفْوُكَ عَفْوُكَ يَا مَوْلاَيَ قَبْلَ سَرَابِيْلِ الْقَطِرَانَ
 
-<blockquote dir="rtl">
-  <p>
-عَفْوُكَ عَفْوُكَ يَا مَوْلاَيَ قَبْلَ جَهَنَّمَ وَ النِّيْرَان
-  </p>
-</blockquote>
+> عَفْوُكَ عَفْوُكَ يَا مَوْلاَيَ قَبْلَ جَهَنَّمَ وَ النِّيْرَان
 
-<blockquote dir="rtl">
-  <p>
-عَفْوُكَ عَفْوُكَ يَا مَوْلاَيَ
-  </p>
-</blockquote>
+> عَفْوُكَ عَفْوُكَ يَا مَوْلاَيَ
 
-<blockquote dir="rtl">
-  <p>
-قَبْلَ اَنْ تُغَلَّ الاَيْدِي اِلى الاَعْنَاقِ
-  </p>
-</blockquote>
+> قَبْلَ اَنْ تُغَلَّ الاَيْدِي اِلى الاَعْنَاقِ
 
-<blockquote dir="rtl">
-  <p>
-يَا اَرْحَمَ الرَّاحِمِيْنَ وَ خَيْرَ الْغَافِرِيْنَ
-  </p>
-</blockquote>
+> يَا اَرْحَمَ الرَّاحِمِيْنَ وَ خَيْرَ الْغَافِرِيْنَ
 
 and who will make me speak  
  when I am alone with my deeds  
@@ -793,5 +397,4 @@ Then if I say yes (to my sins)
  before the hands are tied to the necks  
  O the most Merciful  
  and the best of Forgivers
-
 

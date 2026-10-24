@@ -277,4 +277,3 @@ of Islam.
 
 [^3]: Nahjul Balaghah Part 2 p.5.
 
-

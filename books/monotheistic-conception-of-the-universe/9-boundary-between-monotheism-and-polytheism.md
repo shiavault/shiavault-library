@@ -272,4 +272,3 @@ alone is All-powerful. To ascribe such attributes by means of words or
 action to anyone other than Allah is polytheistic. We have already
 discussed earlier what actions constitute worship and adoration.
 
-

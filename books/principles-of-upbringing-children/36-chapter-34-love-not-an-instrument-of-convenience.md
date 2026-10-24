@@ -21,4 +21,3 @@ and impostors because their purpose in life becomes pleasing others at
 any cost. Therefore, a clever and thoughtful mentor wouldn’t use the
 love and affection of the child for selfish ends.
 
-

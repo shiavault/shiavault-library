@@ -432,4 +432,3 @@ Muslim countries like Turkey and Iran, for he could judge them better.
 
 [^1]: Popularly known as Jamaluddin Afghani.
 
-

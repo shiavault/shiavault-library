@@ -45,9 +45,7 @@ Accept it from me with a good acceptance and Give me from His grace, and
 Make the believers that avoid the stumbles benefit from it, and God is
 the Helper.
 
-
 **The Author
 Markabâ-Jabal '?mil-Lebanon
 1/1980AD - 2/1400H**
-
 

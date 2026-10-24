@@ -113,4 +113,3 @@ story in his book Ekhtesas, with reference to that holy man.
 
 [^4]: Surah 9. verse 40.
 
-

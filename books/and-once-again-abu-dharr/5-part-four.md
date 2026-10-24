@@ -199,4 +199,3 @@ and economic exploitation. What is meant is a class break or cleavage,
 uneveness and the unsymmetrical or disproportionate level of social
 life.
 
-

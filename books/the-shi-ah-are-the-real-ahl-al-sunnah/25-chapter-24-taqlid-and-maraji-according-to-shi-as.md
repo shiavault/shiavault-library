@@ -95,7 +95,7 @@ doors will be called a burglar and will not be able to enter, nor will
 he come to know the Sunnah of the Prophet, and Allah will surely
 apprehend and penalize him for having thus transgressed.
 
-[^121] This is a reference to the verse saying, "Say: Come let us call
+[^121]: This is a reference to the verse saying, "Say: Come let us call
 our sons and your sons, and our women and your women, and our near
 people and your near people, then let us be earnest in prayer and pray
 to Allah to curse the liars" (Holy Qur'an, 3:61), whereupon he invited

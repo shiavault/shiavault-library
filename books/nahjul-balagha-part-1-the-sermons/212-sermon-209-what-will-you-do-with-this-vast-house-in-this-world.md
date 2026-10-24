@@ -5,18 +5,10 @@ Amir al-mu'minin went to enquire about the health of his companion
 al-\`Ala' ibn Ziyad al-Harithi and when he noticed the vastness of his
 house he said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-بالبصرة، وقد دخل على العلاء بن زياد الحارثي ـ وهو من أصحابه ـ يعوده،
-فلما رأى سعة داره قال:
-  </p>
-</blockquote>
+> بالبصرة، وقد دخل على العلاء بن زياد الحارثي ـ وهو من أصحابه ـ يعوده،
+> فلما رأى سعة داره قال:
 
 What will you do with this vast house in this world, although you need
 this house more in the next world. If you want to take it to the next
@@ -24,15 +16,11 @@ world you could entertain in it guests and be regardful of kinship and
 discharge all (your) obligations according to their accrual. In this way
 you will be able to take it to the next world.
 
-<blockquote dir="rtl">
-  <p>
-مَا كُنْتَ تَصْنَعُ بِسِعَةِ هذِهِ الدارِ فِي الدُّنْيَا، أَنْتَ
-إِلَيْهَا فِي الاْخِرَةِ كُنْتَ أَحْوَجَ؟ وَبَلَى إِنْ شِئْتَ بَلَغْتَ
-بِهَا الاْخِرَةَ، تَقْرِي فِيهَا الضَّيْفَ، وَتَصِلُ فِيهَا الرَّحِمَ،
-وَتُطْلِعُ مِنْهَا الْحُقُوقَ مَطَالِعَهَا، فَإذَا أَنْتَ قَدْ
-بَلَغْتَ بِهَا الاْخِرَةَ.
-  </p>
-</blockquote>
+> مَا كُنْتَ تَصْنَعُ بِسِعَةِ هذِهِ الدارِ فِي الدُّنْيَا، أَنْتَ
+> إِلَيْهَا فِي الاْخِرَةِ كُنْتَ أَحْوَجَ؟ وَبَلَى إِنْ شِئْتَ بَلَغْتَ
+> بِهَا الاْخِرَةَ، تَقْرِي فِيهَا الضَّيْفَ، وَتَصِلُ فِيهَا الرَّحِمَ،
+> وَتُطْلِعُ مِنْهَا الْحُقُوقَ مَطَالِعَهَا، فَإذَا أَنْتَ قَدْ
+> بَلَغْتَ بِهَا الاْخِرَةَ.
 
 **Then al-\`Ala' said to him:** O' Amir al-mu'minin, I want to complain
 to you about my brother \`Asim ibn Ziyad.
@@ -44,12 +32,8 @@ from the world.
 
 Amir al-mu'minin said: Present him to me.
 
-<blockquote dir="rtl">
-  <p>
-فقال له العلاء: يا أميرالمؤمنين، أشكو إليك أخي عاصم بن زياد. قال: وما
-له؟ قال: لبس العباءة وتخلّى من الدنيا. قال: عليَّ به.
-  </p>
-</blockquote>
+> فقال له العلاء: يا أميرالمؤمنين، أشكو إليك أخي عاصم بن زياد. قال: وما
+> له؟ قال: لبس العباءة وتخلّى من الدنيا. قال: عليَّ به.
 
 **When he came Amir al-mu'minin said:** O enemy of yourself. Certainly,
 the evil (Satan) has misguided you. Do you feel no pity for your wife
@@ -65,17 +49,13 @@ the Sublime, has made it obligatory on true leaders that they should
 maintain themselves at the level of low people so that the poor do not
 cry over their poverty. [^1]
 
-<blockquote dir="rtl">
-  <p>
-فلمّا جاء قال: يَا عُدَىَّ نَفْسِهِ! لَقَدِ اسْتَهَامَ بِكَ
-الْخَبِيثُ! أَمَا رَحِمْتَ أَهْلَكَ وَوَلَدَكَ! أَتَرَى اللهَ أَحَلَّ
-لَكَ الطَّيِّبَاتِ، وَهُوَ يَكْرَهُ أَنْ تَأْخُذَهَا! أَنْتَ أَهْوَنُ
-عَلَى اللهِ مِنْ ذلِكَ! قال: يا أميرالمؤمنين، هذا أنت في خشونة ملبسك
-وجُشوبة مأكلك! قال: وَيْحَكَ، إِنِّي لَسْتُ كَأَنْتَ، إِنَّ اللهَ
-تَعَالَى فَرَضَ عَلى أَئِمَّةِ الْعَدْلِ أَنْ يُقَدِّرُوا أَنْفُسَهُمْ
-بِضَعَفَةِ النَّاسِ، كَيْلاَ يَتَبَيَّغَ بِالْفَقِيرِ فَقْرُهُ!
-  </p>
-</blockquote>
+> فلمّا جاء قال: يَا عُدَىَّ نَفْسِهِ! لَقَدِ اسْتَهَامَ بِكَ
+> الْخَبِيثُ! أَمَا رَحِمْتَ أَهْلَكَ وَوَلَدَكَ! أَتَرَى اللهَ أَحَلَّ
+> لَكَ الطَّيِّبَاتِ، وَهُوَ يَكْرَهُ أَنْ تَأْخُذَهَا! أَنْتَ أَهْوَنُ
+> عَلَى اللهِ مِنْ ذلِكَ! قال: يا أميرالمؤمنين، هذا أنت في خشونة ملبسك
+> وجُشوبة مأكلك! قال: وَيْحَكَ، إِنِّي لَسْتُ كَأَنْتَ، إِنَّ اللهَ
+> تَعَالَى فَرَضَ عَلى أَئِمَّةِ الْعَدْلِ أَنْ يُقَدِّرُوا أَنْفُسَهُمْ
+> بِضَعَفَةِ النَّاسِ، كَيْلاَ يَتَبَيَّغَ بِالْفَقِيرِ فَقْرُهُ!
 
 Alternative Sources for Sermon 209
 ----------------------------------
@@ -235,5 +215,4 @@ severance of \`Asim ibn Ziyad from this world as the mischief of Satan,
 and he forcefully dissuaded him from adopting that course. (For further
 study, see Sharh Nahjul Balaghah, al-Hajj Mirza Habibu'llah al-Khu'i,
 vol. 13, pp. 132-417; vol. 14, pp. 2-22).
-
 

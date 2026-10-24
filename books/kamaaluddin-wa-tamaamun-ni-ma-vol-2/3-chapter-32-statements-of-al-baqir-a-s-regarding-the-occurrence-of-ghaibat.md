@@ -10,11 +10,7 @@ Ishaq from Usaid bin Thalaba from Umme Hani that she said:
 “I met Abu Ja’far Muhammad bin Ali bin Husain bin Ali Ibne Abi Talib
 (a.s.) and asked him about the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِالْخُنَّسِ الْجَوَارِ الْكُنَّسِ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِالْخُنَّسِ الْجَوَارِ الْكُنَّسِ
 
 ***But nay! I swear by the stars, That run their course (and) hide
 themselves.***[^1]
@@ -47,12 +43,8 @@ Narrated to me Musa bin Umar bin Yazid Saiqal from Ali bin Asbat from
 Ali bin Abi Hamza from Abi Baseer from Abi Ja’far (a.s.) regarding the
 words of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
-بِمَاءٍ مَعِينٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
+> بِمَاءٍ مَعِينٍ
 
 ***Say: Have you considered if your water should go down, who is it then
 that will bring you flowing water?***[^2]
@@ -181,12 +173,8 @@ said:
 
 “When Qaim (a.s.) rises up he would say:
 
-<blockquote dir="rtl">
-  <p>
-فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا
-وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا
+> وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
 
 ***“So I fled from you when I feared you, then my Lord granted me wisdom
 and made me of the apostles.***[^3]
@@ -249,11 +237,7 @@ verse in the book of Allah, the Mighty and Sublime occurred in my heart
 and made me worried and sleepless. The Imam said: Which verse, O Umme
 Hani? I said: My chief it is:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِالْخُنَّسِ الْجَوَارِ الْكُنَّسِ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِالْخُنَّسِ الْجَوَارِ الْكُنَّسِ
 
 ***“But nay! I swear by the stars. That run their course (and) hide
 themselves.”***[^4]
@@ -311,11 +295,7 @@ him and with all the Shias. At that time will arise our Qaim. When he
 reappears he would lean on the Kaaba and three hundred and thirteen men
 would reach him, and the first words he speaks would be:
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
 
 ***“What remains with Allah is better for you if you are
 believers…”***[^5]
@@ -362,5 +342,4 @@ Sadiq (a.s.) about the Nass in favor of the Qaim (a.s.).
 [^4]: Surah Takwir 81:15-16
 
 [^5]: Surah Hud 11:86
-
 

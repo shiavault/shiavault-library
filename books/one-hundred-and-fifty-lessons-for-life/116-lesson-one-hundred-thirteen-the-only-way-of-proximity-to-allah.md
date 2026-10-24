@@ -3,13 +3,9 @@ Lesson One Hundred Thirteen: The Only Way Of Proximity To Allah
 
 Imam Al-Baqir (a.s.) said to Jaber Jofi:
 
-<blockquote dir="rtl">
-  <p>
-بَلِّغْ شَيْعَتى عَنّى السَّلامَ وَ أَعْلِمهُمْ أَنَّهُ لا قَرابَةَ
-بَيْنَنا و بَيْنَ اللّهِ عَزَّ وَ جَلَّ وَ لا يُتَقَرَّبُ إِلَيْهِ
-اِلاّ بِالطّاعَةِ لَهُ
-  </p>
-</blockquote>
+> بَلِّغْ شَيْعَتى عَنّى السَّلامَ وَ أَعْلِمهُمْ أَنَّهُ لا قَرابَةَ
+> بَيْنَنا و بَيْنَ اللّهِ عَزَّ وَ جَلَّ وَ لا يُتَقَرَّبُ إِلَيْهِ
+> اِلاّ بِالطّاعَةِ لَهُ
 
 Translation
 -----------
@@ -35,5 +31,4 @@ disobeys is the farthest, whoever he may be.
 
 [^1]: Bihar al-Anwar, volume 15, page 164. AlAmali, page 296. Bisharat
 Al-Mustafa, page 188.
-
 

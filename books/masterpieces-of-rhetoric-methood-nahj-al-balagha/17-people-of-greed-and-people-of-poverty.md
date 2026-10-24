@@ -321,4 +321,3 @@ His keeping away from others is by way of asceticism and purification,
 and his nearness to those to whom he draws near by way of lenience and
 mercifulness.
 
-

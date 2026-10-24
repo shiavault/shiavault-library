@@ -366,4 +366,3 @@ Al -Furu ', vol. 5, p. 74.
 
 [^25]: Man la Yahduruhu 'l-Faqih, vol. 1. p.482
 
-

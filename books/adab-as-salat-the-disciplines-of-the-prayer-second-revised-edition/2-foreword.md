@@ -75,4 +75,3 @@ negative gnostic person, he breaks with the people, lives in seclusion,
 dislikes attending meetings, and spends his life in an isolated place,
 engaging himself in worshipping Allah.
 
-

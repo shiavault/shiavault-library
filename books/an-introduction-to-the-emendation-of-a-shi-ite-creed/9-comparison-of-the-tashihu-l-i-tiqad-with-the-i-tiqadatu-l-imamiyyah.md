@@ -200,4 +200,3 @@ teacher's knowledge in defense of what the student believed to be true.
 
 [^10]: p.72 ff.
 
-

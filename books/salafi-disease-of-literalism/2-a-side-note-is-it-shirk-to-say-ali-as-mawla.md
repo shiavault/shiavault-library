@@ -4,10 +4,8 @@ A Side Note: Is It Shirk To Say "ali[as] Mawla"?
 People criticize us for saying "Mawla" to Ali (as). They base their
 argument on the verse:
 
-<p dir="rtl">
 لَّي'سَ بِأَمَانِيِّكُم' وَلا أَمَانِيِّ أَه'لِ ال'كِتَابِ مَن يَع'مَل'
 سُوءًا يُج'زَ بِهِ وَلاَ يَجِد' لَهُ مِن دُونِ اللّهِ وَلِيًّا
-</p>
 
 [Yusufali 4:123] whoever works evil, will be requited accordingly. Nor
 will he find, besides Allah, any protector (Waliyan) We pray to Allah
@@ -28,11 +26,9 @@ have to first issue a fatwa of shirk against Rasool Allah (saww).
 In verse 39:43-44, Allah says that there is no intercessor beside
 Allah.
 
-<p dir="rtl">
 أَمِ اتَّخَذُوا مِن دُونِ اللَّهِ شُفَعَاء قُل' أَوَلَو' كَانُوا لَا
 يَم'لِكُونَ شَي'ئًا وَلَا يَع'قِلُونَ قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا
 لَّهُ مُل'كُ السَّمَاوَاتِ وَال'أَر'ضِ ثُمَّ إِلَي'هِ تُر'جَعُونَ
-</p>
 
 [Yusufali 39:43-44] What! Do they take for intercessors others besides
 Allah? Say: "Even if they have no power whatever and no intelligence?"
@@ -40,19 +36,15 @@ Say: "To Allah belongs exclusively (the right to grant) intercession But
 in verses 19:87 and 43:86, Allah says that there are some people who can
 also intercede for us with the permission of Allah.
 
-<p dir="rtl">
 لَا يَم'لِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِندَ الرَّح'مَنِ
 عَه'دًا
-</p>
 
 [Yusufali 19:87] None shall have the power of intercession, but such a
 one as has received permission (or promise) from (Allah) Most
 Gracious.
 
-<p dir="rtl">
 وَلَا يَم'لِكُ الَّذِينَ يَد'عُونَ مِن دُونِهِ الشَّفَاعَةَ إِلَّا مَن
 شَهِدَ بِال'حَقِّ وَهُم' يَع'لَمُونَ
-</p>
 
 [Yusufali 43:86] And those whom they invoke besides Allah have no power
 of intercession;- only he who bears witness to the Truth, and they know
@@ -75,17 +67,14 @@ discourage mention of those verses, that state that some other people
 and angels have also been given the power by Allah to intercede for
 us.
 
-
 **Fadhl (Grace / Bounty) is only in Hands of Allah?**
 
 You will find Salafi often quoting the following verse with great
 stress.
 
-<p dir="rtl">
 لِئَلَّا يَع'لَمَ أَه'لُ ال'كِتَابِ أَلَّا يَق'دِرُونَ عَلَى شَي'ءٍ
 مِّن فَض'لِ اللَّهِ وَأَنَّ ال'فَض'لَ بِيَدِ اللَّهِ يُؤ'تِيهِ مَن
 يَشَاء وَاللَّهُ ذُو ال'فَض'لِ ال'عَظِيمِ
-</p>
 
 [Yusufali 57:29] That the People of the Book may know that they have no
 power whatever over the Grace of Allah, that (His) Grace is (entirely)
@@ -103,11 +92,9 @@ of Shirk.
 Sadly, by doing this, they completely neglect other parts of the Qur'an
 and Sunnah. See the following verses.
 
-<p dir="rtl">
 وَلَو' أَنَّهُم' رَضُو'ا' مَا آتَاهُمُ اللّهُ وَرَسُولُهُ وَقَالُوا'
 حَس'بُنَا اللّهُ سَيُؤ'تِينَا اللّهُ مِن فَض'لِهِ وَرَسُولُهُ إِنَّا
 إِلَى اللّهِ رَاغِبُونَ
-</p>
 
 [Shakir 9:59] And if they were content with what Allah and His
 Messenger gave them, and had said: Allah is sufficient for us; Allah
@@ -115,12 +102,10 @@ will soon give us (more) out of His grace and His Messenger too; Is
 Allah himself committing shirk by saying that His Messenger can also
 GIVE to others along with Him?
 
-<p dir="rtl">
 يَح'لِفُونَ بِاللّهِ مَا قَالُوا' وَلَقَد' قَالُوا' كَلِمَةَ ال'كُف'رِ
 وَكَفَرُوا' بَع'دَ إِس'لاَمِهِم' وَهَمُّوا' بِمَا لَم' يَنَالُوا' وَمَا
 نَقَمُوا' إِلاَّ أَن' أَغ'نَاهُمُ اللّهُ وَرَسُولُهُ مِن فَض'لِهِ فَإِن
 يَتُوبُوا' يَكُ خَي'رًا
-</p>
 
 [Yusufali 9:74] They swear by Allah that they said nothing (evil), but
 indeed they uttered blasphemy, and they did it after accepting Islam;
@@ -152,11 +137,9 @@ agree with them 100% on this statement. Allah says in Qur'an:
 enemies: Allah is enough for a protector, and Allah is enough for a
 Helper.
 
-<p dir="rtl">
 قُل' مَن ذَا الَّذِي يَع'صِمُكُم مِّنَ اللَّهِ إِن' أَرَادَ بِكُم'
 سُوءًا أَو' أَرَادَ بِكُم' رَح'مَةً وَلَا يَجِدُونَ لَهُم مِّن دُونِ
 اللَّهِ وَلِيًّا وَلَا نَصِيرًا
-</p>
 
 [Yusufali 33:17]...Nor will they find for themselves, besides Allah,
 any protector or helper. Now after saying that we agree with Salafi on
@@ -168,11 +151,9 @@ Sufficient Helper, then Rasool Allah [saww], Gabriel (as), righteous
 believers and angels are already included in it allegorically. Please
 look at the following verse.
 
-<p dir="rtl">
 إِن تَتُوبَا إِلَى اللَّهِ فَقَد' صَغَت' قُلُوبُكُمَا وَإِن تَظَاهَرَا
 عَلَي'هِ فَإِنَّ اللَّهَ هُوَ مَو'لَاهُ وَجِب'رِيلُ وَصَالِحُ
 ال'مُؤ'مِنِينَ وَال'مَلَائِكَةُ بَع'دَ ذَلِكَ ظَهِيرٌ
-</p>
 
 [Pickthal 66:4] If ye (wives of Muhammad) twain turn unto Allah
 repentant, (ye have cause to do so) for your hearts desired (the ban);
@@ -191,12 +172,10 @@ Shirk by our Salafi friends, then certainly we are going to make Allah
 himself a Mushrik (naudo-billah), and along with Him all those too, who
 believe in Whole Qur'an. And please also look at this verse.
 
-<p dir="rtl">
 وَمَا لَكُم' لاَ تُقَاتِلُونَ فِي سَبِيلِ اللّهِ وَال'مُس'تَض'عَفِينَ
 مِنَ الرِّجَالِ وَالنِّسَاء وَال'وِل'دَانِ الَّذِينَ يَقُولُونَ رَبَّنَا
 أَخ'رِج'نَا مِن' هَـذِهِ ال'قَر'يَةِ الظَّالِمِ أَه'لُهَا وَاج'عَل
 لَّنَا مِن لَّدُنكَ وَلِيًّا وَاج'عَل لَّنَا مِن لَّدُنكَ نَصِيرًا
-</p>
 
 [Yusufali 4:75] .. Men, women, and children, whose cry is: "Our Lord!
 Rescue us from this town, whose people are oppressors; and raise for us
@@ -223,5 +202,4 @@ NOTE: There are a lot of more verses of Qur'an and Ahadith, where help
 and benefit has been sought allegorically by others than Allah. And one
 is not allowed to interpret them literally, otherwise several
 contradictions will appear in Qur'an.
-
 

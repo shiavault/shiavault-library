@@ -55,4 +55,3 @@ By the fading of the rightful government and the coming of the wrongful
 one, the life of Lady Zaynab (a.s.) entered a new stage would carry new,
 yet more grievous, adversities.
 
-

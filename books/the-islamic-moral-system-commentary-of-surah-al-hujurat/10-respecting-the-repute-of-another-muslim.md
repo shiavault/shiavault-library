@@ -3,15 +3,11 @@ Respecting the Repute of Another Muslim
 
 ( Verse 11 )
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ يَسْخَرْ قَومٌ مِّنْ قَوْمٍ عَسَى
-أَنْ يَكُونُوا خَيْراً مِّنْهُمْ وَلاٌ نِسٌاءٌ مِّنْ نِّسٌاءٍ عَسَى
-أَنْ يَكُنَّ خَيْراً مِّنْهُنَّ وَلاٌ تَلْمِزُوا أَنفُسَكُمْ وَلاٌ
-تَنٌابَزُوا بِالأَلْقٌابِ بِئْسَ الإِسْمُ الْفُسُـوقُ بَعْدَ
-الإِيـمٌانِ وَمَنْ لَّمْ يَتُبْ فَأُوْلٌئِكَ هُمُ الظٌّالِمُونَ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ يَسْخَرْ قَومٌ مِّنْ قَوْمٍ عَسَى
+> أَنْ يَكُونُوا خَيْراً مِّنْهُمْ وَلاٌ نِسٌاءٌ مِّنْ نِّسٌاءٍ عَسَى
+> أَنْ يَكُنَّ خَيْراً مِّنْهُنَّ وَلاٌ تَلْمِزُوا أَنفُسَكُمْ وَلاٌ
+> تَنٌابَزُوا بِالأَلْقٌابِ بِئْسَ الإِسْمُ الْفُسُـوقُ بَعْدَ
+> الإِيـمٌانِ وَمَنْ لَّمْ يَتُبْ فَأُوْلٌئِكَ هُمُ الظٌّالِمُونَ
 
 **“*****O’ you who have true faith! Do not let men make fun of other men
 – perhaps they may be better than the other (group of men). Also, do not
@@ -90,11 +86,7 @@ Support from the Qur’an in Strengthening this Principle
 
 The part of this verse that states:
 
-<blockquote dir="rtl">
-  <p>
-...عَسَى أَنْ يَكُونُوا خَيْراً مِّنْهُمْ...
-  </p>
-</blockquote>
+> ...عَسَى أَنْ يَكُونُوا خَيْراً مِّنْهُمْ...
 
 ***“…perhaps it may be that they are better than you are…”***
 
@@ -159,12 +151,8 @@ In order to protect the character of people of all levels, Islam has
 commanded that individuals must be respected and no Muslim is to be
 considered as insignificant or worthless:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ تَحْقِرَنَّ أَحَداً مِنَ الْمُسْلِمِينَ فَإِنَّ صَغِيـرَهُمْ
-عِنْدَ اللٌّهِ كَبِـيرٌ
-  </p>
-</blockquote>
+> لاٌ تَحْقِرَنَّ أَحَداً مِنَ الْمُسْلِمِينَ فَإِنَّ صَغِيـرَهُمْ
+> عِنْدَ اللٌّهِ كَبِـيرٌ
 
 *“Do not consider any of the Muslims as being insignificant, since in
 the eyes of Allah (that person whom you consider as being insignificant)
@@ -173,23 +161,15 @@ actually has a high rank.”*[^1]
 Through His final Messenger, Allah (Glorified and Exalted is He) sent
 the following message to the world that:
 
-<blockquote dir="rtl">
-  <p>
-وَ قُلْ لِعِبٌادِي يَقُولُوا الَّتِـي هِيَ أَحْسَنُ
-  </p>
-</blockquote>
+> وَ قُلْ لِعِبٌادِي يَقُولُوا الَّتِـي هِيَ أَحْسَنُ
 
 ***“And say to My servants (O’ Muhammad) that they speak only that which
 is most excellent.”***[^2]
 
 Imam Muhammad ibn \`Ali al-Baqir (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-عَظِّمُوا أَصْحٌابَكُمْ وَ وَقِّرُوهُمْ وَ لاٌ يَتَجَهَّمَ بَعْضُكْم
-بَعْضاً
-  </p>
-</blockquote>
+> عَظِّمُوا أَصْحٌابَكُمْ وَ وَقِّرُوهُمْ وَ لاٌ يَتَجَهَّمَ بَعْضُكْم
+> بَعْضاً
 
 *“Treat your companions and friends with kindness and never make faces
 or show contempt towards them.”*[^3]
@@ -241,5 +221,4 @@ women make fun of other women.”*
 [^2]: Surah al-Isra’ (17), Verse 53.
 
 [^3]: al-Kafi, Volume 2, Page 173.
-
 

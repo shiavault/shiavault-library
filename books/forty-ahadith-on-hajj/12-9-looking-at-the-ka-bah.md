@@ -3,13 +3,9 @@
 
  
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْبَاقِرِ (ع): مَنْ نَظَرَ إِلـى الْكَعْبَةَ لَمْ يَزَلْ
-يُكْتَبْ لَهُ حَسَنَةٌ وَ يُمْحى عَنْهُ سَيِئَّةٌ حَتَّى يَصْرِفُ
-بَصَرَهُ عَنْهَا.
-  </p>
-</blockquote>
+> عَنِ الْبَاقِرِ (ع): مَنْ نَظَرَ إِلـى الْكَعْبَةَ لَمْ يَزَلْ
+> يُكْتَبْ لَهُ حَسَنَةٌ وَ يُمْحى عَنْهُ سَيِئَّةٌ حَتَّى يَصْرِفُ
+> بَصَرَهُ عَنْهَا.
 
    
  It has been narrated from al-Baqir [Imam Muhammad Ibn ‘Ali] (peace be
@@ -19,5 +15,4 @@ erased until one turns away one’s glance (from the Ka’bah).”
     
  Biharul Anwar, Volume 96, Page 65  
   
-
 

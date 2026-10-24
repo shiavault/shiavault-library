@@ -17,10 +17,5 @@ this world] while he is among those who will be destroyed in the
 Hereafter.
 
 > 3ـ كَمْ مِنْ مَغْبُوط بِنِعْمَتِهِ وهُوَ فِي الاخِرَةِ مِنَ
-<blockquote dir="rtl">
-  <p>
-الهالِكينَ.
-  </p>
-</blockquote>
-
+> الهالِكينَ.
 

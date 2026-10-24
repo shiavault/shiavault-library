@@ -8,4 +8,3 @@ Ali did not remove him despite the fact that Shurayh had once naively
 accepted to indirectly remove Imam Ali from his position as Caliph and
 choose Mu'awiyeh.
 
-

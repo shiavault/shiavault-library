@@ -27,4 +27,3 @@ Allah loves those who do good deeds and help others. He gives them a
 much greater reward, as compared with the assistance rendered by them to
 others.
 
-

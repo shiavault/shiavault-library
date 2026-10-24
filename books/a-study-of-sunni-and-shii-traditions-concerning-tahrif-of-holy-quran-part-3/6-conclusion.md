@@ -89,4 +89,3 @@ Tafsir al-Safi, al­ Bihar, and other works mentioned earlier.
 
 Concluded - wa al-hamdu lillah
 
-

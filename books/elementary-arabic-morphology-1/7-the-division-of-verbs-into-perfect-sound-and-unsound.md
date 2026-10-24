@@ -18,4 +18,3 @@ letter in its root. For example: **ﺃکَلَ مَدّ** (he extended, he ate)
 yā'*) in its root. For example: **وَثَبَ نَامَ رَضِیَ** (he became
 satisfied, he slept, he jumped)
 
-

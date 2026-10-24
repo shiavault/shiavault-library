@@ -326,4 +326,3 @@ Malik bin Marwan’s rule. Ibn Zubayr was eventually killed in Makkah by
 Hajjaj bin Yusuf. Here, Imam Husayn (a.s.) is telling Abdullah bin
 Zubayr of his inevitable fate.
 
-

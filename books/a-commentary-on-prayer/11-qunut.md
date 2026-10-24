@@ -110,11 +110,7 @@ Hadrat ‘Ali (*‘a*) used to curse Mu‘awiyah and ‘Amru ibn al-‘As.[^12] 
 any rate, *tawalla* and *tabarra* are part of the religion, nay the
 foundation of our religion:
 
-<blockquote dir="rtl">
-  <p>
-هَل الدِّين إِلاَّ ٱلْحُبّ وَ ٱلْبُغْض؟
-  </p>
-</blockquote>
+> هَل الدِّين إِلاَّ ٱلْحُبّ وَ ٱلْبُغْض؟
 
 “Is the religion other than love and hatred?”[^13]
 
@@ -143,5 +139,4 @@ foundation of our religion:
 [^12]: Bihar al-Anwar, vol. 82, p. 201.
 
 [^13]: Bihar al-Anwar, vol. 68, p. 63.
-
 

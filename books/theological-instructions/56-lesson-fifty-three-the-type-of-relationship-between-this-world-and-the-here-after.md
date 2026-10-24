@@ -125,4 +125,3 @@ deeds and their results in the Hereafter?
 4. Is it possible to describe the representation of deeds (in the
 Hereafter) as ‘being represented by their worldly characteristics’? Why?
 
-

@@ -451,4 +451,3 @@ the seven days of mourning were ended, he put upon his head the crown of
 the Kaianides, and girt his loins with a red sash of might. And the
 nation called him Shah, and he was beloved in the land.
 
-

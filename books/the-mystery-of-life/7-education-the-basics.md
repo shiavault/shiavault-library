@@ -194,9 +194,7 @@ develops. The teacher must not act without knowledge.
 b) The teacher or trainer must be committed and devoted. He must realize
 that sooner or later, he will see his efforts produce results.
 
-<p dir="rtl">
 اين جهان کوه است و فعل ما ندا سـوی مــا آيـد نــداها را صــدا
-</p>
 
 *This world is like a mountain, and whatever we do is like shouting;
 they are reflected back to us.*
@@ -226,9 +224,7 @@ Teachers and trainers must always consider themselves in need of
 education. “The best teacher is always the best student himself.” As God
 as said to the Holy Prophet Muhammad :
 
-<p dir="rtl">
 قل رب زدنی علما
-</p>
 
 ***“Say 'God, increase my knowledge.”(20:114)***
 
@@ -258,21 +254,13 @@ even be able to totally discover throughout a long period of several
 years, we will have no other way for educating him but ask God to help
 us.
 
-<p dir="rtl">
 چيست اين کوزه؟ تن محصـــور ما و انــدر آن آب حـواس شـــــور ما
-</p>
 
-<p dir="rtl">
 ای خداونـد اين خم و کـــوزة مرا در پذيـــر از فضــــل الله اشتــری
-</p>
 
-<p dir="rtl">
 کوزه ای با پنج لولـه، پنــج حــس پـاک دار ايـــن آب را از هر نجــس
-</p>
 
-<p dir="rtl">
 تا شود زين کوزه منفــذ سوی بحـر تا بگيــــرد کـوزة ما خــــوی بحـر
-</p>
 
 *O people! What does the jar of our existence contain? Salty water,
 which is transferred inside us through our senses, filling up our inside
@@ -510,5 +498,4 @@ that intellectual thinking and reinforcing it are important parts of
 education, the question is how they can be developed. Cultural
 appreciation is significant, but what criteria show that a culture is
 great enough to be used for education?
-
 

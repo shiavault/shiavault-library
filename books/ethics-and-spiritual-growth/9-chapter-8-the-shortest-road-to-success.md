@@ -966,4 +966,3 @@ preserved in absence and even after death in the amber of memory.[^24]
 
 [^24]: Lord Avebury, The Pleasure of Life, pp. 99, 105-6.
 
-

@@ -25,4 +25,3 @@ the following:
 
 • True Meaning of the Traditions.
 
-

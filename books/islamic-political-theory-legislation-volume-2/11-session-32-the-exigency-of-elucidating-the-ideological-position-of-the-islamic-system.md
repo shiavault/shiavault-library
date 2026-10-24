@@ -304,21 +304,13 @@ do not need to cite Qur’anic verses and traditions to prove it,
 indicating that it is obligatory to obey the Apostle (*s*) and the Imams
 (*‘a*), such as these:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ...﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ...﴾
 
 “O you who have faith! Obey Allah and obey the Apostle and those vested
 with authority among you…”[^2] and
 
-<blockquote dir="rtl">
-  <p>
-﴿مَّنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللّهَ...﴾
-  </p>
-</blockquote>
+> ﴿مَّنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللّهَ...﴾
 
 ***“Whoever obeys the Apostle certainly obeys Allah...”***[^3]
 
@@ -423,11 +415,7 @@ of wisdom knew of the necessity of this affair and they formulated the
 ways and manners of engaging in them. Then, religion approved this wise
 practice and gave it a religious credence, stating, for example:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَأَحَلَّ اللّهُ الْبَيْعَ...﴾
-  </p>
-</blockquote>
+> ﴿وَأَحَلَّ اللّهُ الْبَيْعَ...﴾
 
 “Allah has allowed trade.”[^4]
 
@@ -464,5 +452,4 @@ and revelation, man could not be able to secure his material interests.
 [^3]: Surah an-Nisa’ 4:80.
 
 [^4]: Surah al-Baqarah 2:275. [Trans.]
-
 

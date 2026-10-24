@@ -43,7 +43,6 @@ future of a being are not like two points totally separate from each
 other, but are like two pieces of a continuous process. The past is the
 seed and the nucleus of the future.
 
-
 **Man's Revolt Against Limitations**
 
 Though man cannot totally sever his relation with his heredity, natural
@@ -283,7 +282,6 @@ is compelled to act contrary to his normal duty. Hence there is a
 two-fold difference between coercion and compulsion by force of
 circumstances:
 
-
 i. In coercion there is a threat by some human being but there is no
 such threat in compulsion by force of circumstances.
 
@@ -300,5 +298,4 @@ circumstances. Obviously no action endangering the life of others,
 causing damage to society or harming religion can ever be allowed to be
 taken under any pretext. Of course there are certain obligations, which
 must be discharged even at any loss or damage.
-
 

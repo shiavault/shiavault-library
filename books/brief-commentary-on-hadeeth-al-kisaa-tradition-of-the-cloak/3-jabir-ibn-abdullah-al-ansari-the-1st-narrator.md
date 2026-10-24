@@ -1,11 +1,7 @@
 Jabir Ibn Abdullah Al Ansari – The 1st Narrator
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-عن جابر بن عبد الله الأنصاري
-  </p>
-</blockquote>
+> عن جابر بن عبد الله الأنصاري
 
 The Tradition of the Cloak has been narrated by the tongue of one of the
 very close and pious companions of the Holy Prophet (SA), Jabir ibn
@@ -66,5 +62,4 @@ Recognizing the great status of the noble companion Jabir ibn Abdullah
 Al Ansari, we can now understand why he was honored to narrate the
 famous Hadeeth Al Kisaa which will resonate in the ears of all Muslims
 till the end of time.
-
 

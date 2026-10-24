@@ -3,12 +3,8 @@ Lesson Five: Between Two Great Responsibilities
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"اَلْمُؤْمِنُ بَيْنَ مَخافَتَيْنِ: ذَنْبٌ قَدْ مَضَى لايَدْرِى ما
-صُنْعُ اللّهُ فيه و عُمْرٌ بَقِىَ لايَدرِى ما يَكْتَسِبُ فيه"
-  </p>
-</blockquote>
+> "اَلْمُؤْمِنُ بَيْنَ مَخافَتَيْنِ: ذَنْبٌ قَدْ مَضَى لايَدْرِى ما
+> صُنْعُ اللّهُ فيه و عُمْرٌ بَقِىَ لايَدرِى ما يَكْتَسِبُ فيه"
 
 Translation
 -----------
@@ -33,5 +29,4 @@ The ones who are oblivious of their past mistakes and have no intention
 or plans to improve the future lead a poor and miserable life.
 
 [^1]: Usul al-Kafi, volume two, page 7
-
 

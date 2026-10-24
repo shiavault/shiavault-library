@@ -202,13 +202,9 @@ organs suffering any harm!
 Interestingly, from the verses of Suratul Kahf which relate their story,
 it appears that their sleep differed vastly from normal sleep:
 
-<blockquote dir="rtl">
-  <p>
-وَ تَحْسَبُهُمْ أَيْقَاظاً وَ هُمْ رُقُودٌ … لَوِ اطَّلَعْتَ
-عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِراَراً وَ لَمُلِئْتَ مِنْهُمْ
-رُعْباً
-  </p>
-</blockquote>
+> وَ تَحْسَبُهُمْ أَيْقَاظاً وَ هُمْ رُقُودٌ … لَوِ اطَّلَعْتَ
+> عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِراَراً وَ لَمُلِئْتَ مِنْهُمْ
+> رُعْباً
 
 ***“And you might think them awake while they were asleep…if you looked
 at them you would certainly turn back from them in flight, and you would
@@ -224,11 +220,7 @@ altitudes of Asia Minor in a chilly location, the exceptional nature of
 their sleep becomes all the more manifest.  
  On the other hand, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَ نُقَلِّبُهُمْ ذاَتَ الْيَمِينِ وَ ذاَتَ الشِّماَلِ
-  </p>
-</blockquote>
+> وَ نُقَلِّبُهُمْ ذاَتَ الْيَمِينِ وَ ذاَتَ الشِّماَلِ
 
 ***“And We turned them about to the right and to the left.”***[^4]
 
@@ -256,5 +248,4 @@ Resurrection.[^5] and [^6]
 Jahan Pas Az Marg.
 
 [^6]: Tafsir-e-Namuna, vol. 12, pg. 406
-
 

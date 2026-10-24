@@ -9,40 +9,24 @@ First: There is no doubt that fulfillment of divine covenant is
 obligatory and it is proved by the Holy Qur’an and accepted by reason.
 The Almighty Allah says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ
-  </p>
-</blockquote>
+> وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ
 
 ***“Be faithful to (your) covenant with Me, I will fulfill (My) covenant
 with you.” (Qur’an, Surah Baqarah 2:40)***
 
 And the saying of the Almighty Allah that:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا
-  </p>
-</blockquote>
+> وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا
 
 ***“And fulfill the promise; surely (every) promise shall be questioned
 about.” (Qur’an, Surah Isra 17:34)***
 
 And the statement of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَعْلَمُ أَنَّمَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ الْحَقُّ
-كَمَنْ هُوَ أَعْمَىٰ ۚ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ.
-  </p>
-</blockquote>
+> أَفَمَنْ يَعْلَمُ أَنَّمَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ الْحَقُّ
+> كَمَنْ هُوَ أَعْمَىٰ ۚ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنْقُضُونَ الْمِيثَاقَ
-  </p>
-</blockquote>
+> الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنْقُضُونَ الْمِيثَاقَ
 
 ***“Is he then who knows that what has been revealed to you from your
 Lord is the truth like him who is blind? Only those possessed of
@@ -51,13 +35,9 @@ not break the covenant.” (Qur’an, Surah Raad 13:19-20)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ
-وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي
-الْأَرْضِ ۙ أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ
+> وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي
+> الْأَرْضِ ۙ أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
 
 ***“And those who break the covenant of Allah after its confirmation and
 cut asunder that which Allah has ordered to be joined and make mischief
@@ -77,11 +57,7 @@ made to Allah.”[^1]
 In *Miraat al-Anwaar* it is narrated from Imam Ja’far Sadiq (as)
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا
-  </p>
-</blockquote>
+> إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا
 
 ***“Save he who has made a covenant with the Beneficent God.” (Qur’an,
 Surah Maryam 19:87)***
@@ -95,11 +71,7 @@ covenant with Allah.”[^2]
 Also in *Kanzul Fawaid* it is narrated from Imam Ja’far Sadiq (as)
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا
-  </p>
-</blockquote>
+> وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا
 
 ***“And fulfill the promise; surely (every) promise shall be questioned
 about.” (Qur’an, Surah Isra 17:34)***
@@ -140,5 +112,4 @@ need for further explanation.
 [^1]: Kafi; Vol. 1, Pg. 221
 
 [^2]: Miraat al-Anwaar, Pg. 234
-
 

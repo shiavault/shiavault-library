@@ -2071,4 +2071,3 @@ consist solely of parts which are like the whole and like one another.
 [^26]: A. W. Benn, Philosophy of Greece, Vol. 11, p. 117; Bertrand
 Russell, op. cit p. 254
 
-

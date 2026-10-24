@@ -93,4 +93,3 @@ the Quran.
 must despise all their actions and deeds. All this is a compulsory part
 of considering the Imams of Ahlul Bayt (a.s.) to be right.
 
-

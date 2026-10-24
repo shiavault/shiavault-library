@@ -691,4 +691,3 @@ manner which has been explained by the Imams of *Ahlu 'l-bayt* .
 [^15]: al-'Asqalani, al-'Isabah, vol. 1, p. 193; see also his Tahdhib
 at-Tahdhib.
 
-

@@ -27,4 +27,3 @@ creation***(21:107)*** and is a means of acceptance of supplications, so
 it is natural for us to request him to supplicate and intercede
 (*shafa'at* ) with ALLAH (SWT) for us.
 
-

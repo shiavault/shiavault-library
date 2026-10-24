@@ -996,4 +996,3 @@ according to Sellars, the essential basis for any possibility of
 semantic discourse now themselves amount to theoretically ineffable
 objects of a recurrent and essential appeal.
 
-

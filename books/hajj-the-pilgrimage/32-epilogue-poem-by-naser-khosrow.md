@@ -79,4 +79,3 @@ the hardships of the desert!
 If you do decide to go to Hajj again, try to perform it as I have
 instructed you!
 
-

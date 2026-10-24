@@ -113,7 +113,7 @@ In each unit recite Tasbeehaatul Arbaa
 Subhaanallaahi wal hamdu lillaahi wa laa ilaaha illallaahu wallaahu
 Akbar.
 
-<sup>[Glory\\ be\\ to\\ Allah,\\ Praise\\ be\\ to\\ Allah,\\ there\\ is\\ no\\ god\\ but\\ Allah,\\ and\\ Allah\\ is\\ Great.]</sup>
+[Glory\\ be\\ to\\ Allah,\\ Praise\\ be\\ to\\ Allah,\\ there\\ is\\ no\\ god\\ but\\ Allah,\\ and\\ Allah\\ is\\ Great.]
 
 (i) After recitation of Surahs… 15 times
 
@@ -370,7 +370,7 @@ when he recites the verse:
 
 **“Surely I have turned myself, being upright, wholly to Him Who
 originated the heavens and the earth, and I am not of the
-polytheists.”<sup>[1]</sup>**
+polytheists.”[1]**
 
 Is it necessary for him to add: Upon the religion of Ibrahim and the
 faith of Muhammad. May Allah bless the religion of Muhammad (a.s)a As
@@ -384,13 +384,13 @@ recites “Upon the religion of Muhammad” has committed an innovation as
 we have not found it the books of prayer. And only the tradition in the
 book of Qasim from his grandfather from Hasan Ibne Rashid is there, that
 His Eminence, Sadiq (a.s) said to Hasan: How do you recite the Verse of
-Tawajjoha<sup>[83]</sup> Hasan replied: I say: Labbaik wa Saadaik. Imam
+Tawajjoha[83] Hasan replied: I say: Labbaik wa Saadaik. Imam
 Sadiq (a.s) said: My question was not that. Rather I asked you how you
 recite the verse:
 
 **“Surely I have turned myself, being upright, wholly to Him Who
 originated the heavens and the earth, and I am not of the
-polytheists.”<sup>[1]</sup>**
+polytheists.”[1]**
 
 Hasan Said: I recite that only.
 
@@ -439,7 +439,7 @@ permitted in obligatory prayers.
 **Question 3:** How about the prostration of thanks after obligatory
 prayers because some people say that it is an innovation. If it is
 allowed should it be performed after the obligatory Magrib Prayer
-(evening prayer) or after the Nafila<sup>[1]</sup> of Maghriba
+(evening prayer) or after the Nafila[1] of Maghriba
 
 **Reply:** “The prostration of thanks is among the most necessary and
 proven practices and none says that prostration is innovation but that
@@ -451,7 +451,7 @@ innovation he further says:
 
 “A tradition that says that it must be performed after Magrib Prayer,
 which is of three units, or after four units of Nafila. Because the
-merit of supplication and Tasbih<sup>[2]</sup> after obligatory prayer
+merit of supplication and Tasbih[2] after obligatory prayer
 in relation to supplication after recommended prayer is
 
 ------------------------------------------------------------------------
@@ -531,7 +531,7 @@ Question 5: The soil of the grave is kept along with the dead body in
 the grave. Is it permitted ?
 
 Reply: It should be kept with the dead body in the grave and it should
-be mixed in the Hunut **<sup>[1]</sup>**, if Allah wills.
+be mixed in the Hunut **[1]**, if Allah wills.
 
 It is a strong possibility that the soil of the grave is the same soil
 of the grave of the chief of the martyrs, the beloved son of the
@@ -616,7 +616,7 @@ Reply: If the endowment is for the Imams of Muslims its sale is not
 allowed. If it is for a group of Muslims and every group that is capable
 to sell it they can sell it whether as a group or their own share in it.
 
-Question 13: Is it allowed for a Muhrim,<sup><sup>[1]</sup></sup> to use
+Question 13: Is it allowed for a Muhrim,[1] to use
 Murtak and Tutiya (fragrant substances) to ward off the smell of his
 armpits ?
 
@@ -638,7 +638,7 @@ Reply: It is not permitted, because the testimony mentioned is not for
 the representative. It is for the original owner and the Almighty Allah
 has said:
 
-**"…and give upright testimony…"<sup>[2]</sup>**
+**"…and give upright testimony…"[2]**
 
 Question 16: Regarding the last two units of the four-unit prayer some
 narrations say that reciting Surah Hamd is preferable and some say that
@@ -748,7 +748,7 @@ obligatory in this case ?
 Reply: If he makes a mistake in repeating the Takbir and exceeds 34
 times he should suffice with it. But if he recites 67 times he should be
 content with it. But if "Alhamdo lillah" is recited more than the
-stipulated times there is nothing upon him.<sup>[1]</sup>
+stipulated times there is nothing upon him.[1]
 
 This was a part of that which has reached us from the Master of the Age
 and it was the most beautiful and lasting reminder of the purified Imam

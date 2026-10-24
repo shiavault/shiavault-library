@@ -3,24 +3,16 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-قوله لا يؤدي عني إلا علي من الكذب
-  </p>
-</blockquote>
+> قوله لا يؤدي عني إلا علي من الكذب
 
 His statement “None can discharge on my behalf except ‘Ali” is a
 lie.[^1]
 
 This *hadith* is recorded by Imam al-Tirmidhi (d. 279 H) in his *Sunan*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسماعيل بن موسى حدثنا شريك عن أبي إسحق عن حبشي بن جنادة قال: قال
-رسول الله صلى الله عليه و سلم علي مني وأنا من علي ولا يؤدي عني إلا أنا
-أو علي
-  </p>
-</blockquote>
+> حدثنا إسماعيل بن موسى حدثنا شريك عن أبي إسحق عن حبشي بن جنادة قال: قال
+> رسول الله صلى الله عليه و سلم علي مني وأنا من علي ولا يؤدي عني إلا أنا
+> أو علي
 
 Isma’il b. Musa – Sharik – Abu Ishaq – Habashi b. Junadah:
 
@@ -30,21 +22,13 @@ am from ‘Ali, **and none can discharge on my behalf except myself or
 
 Al-Tirmidhi comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن غريب
-  </p>
-</blockquote>
+> هذا حديث حسن غريب
 
 This *hadith* is *hasan* *gharib* (i.e. has a *hasan* chain)[^3]
 
 Al-Albani (d. 1420 H) also says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^4]
 
@@ -52,13 +36,9 @@ The Messenger of Allah, *sallallahu ‘alaihi wa alihi*, further put this
 declaration into practice during his lifetime. Imam Ibn Abi Shaybah (d.
 235 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عفان قال ثنا حماد بن سلمة عن سماك عن أنس أن النبي صلى الله عليه
-وسلم بعث ببراءة مع أبي بكر إلى مكة، فدعاه فبعث عليا فقال: " لا يبلغها
-إلا رجل من أهل بيتي ".
-  </p>
-</blockquote>
+> حدثنا عفان قال ثنا حماد بن سلمة عن سماك عن أنس أن النبي صلى الله عليه
+> وسلم بعث ببراءة مع أبي بكر إلى مكة، فدعاه فبعث عليا فقال: " لا يبلغها
+> إلا رجل من أهل بيتي ".
 
 ‘Affan – Hamad b. Salamah – Simak – Anas:
 
@@ -69,28 +49,16 @@ convey it except a man from my Ahl al-Bayt**.”[^5]
 This chain is apparently *sahih*. ‘Al-Hafiz (d. 852 H) says about
 ‘Affan, the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عفان بن مسلم بن عبد الله الباهلي أبو عثمان الصفار البصري ثقة ثبت
-  </p>
-</blockquote>
+> عفان بن مسلم بن عبد الله الباهلي أبو عثمان الصفار البصري ثقة ثبت
 
 ‘Affan b. Muslim b. ‘Abd Allah al-Bahili, Abu ‘Uthman al-Saffar:
 ***thiqah*** **(trustworthy),** ***thabt*** **(accurate)**.[^6]
 
 ‘Allamah al-Albani also says:
 
-<blockquote dir="rtl">
-  <p>
-عن عفان بن مسلم، قال: كنت عند سلام....
-  </p>
-</blockquote>
+> عن عفان بن مسلم، قال: كنت عند سلام....
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح عن سلام، فعفان ثقة من رجال الشيخين
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح عن سلام، فعفان ثقة من رجال الشيخين
 
 Narrated **‘Affan b. Muslim**: I was with Salam....
 
@@ -111,15 +79,11 @@ reliable person with regards to Thabit. His memory weakened at the end
 ‘Allamah al-Albani agrees on his trustworthiness, but with a mistaken
 reservation:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أسود حدثنا حماد بن سلمة عن قتادة عن عكرمة عن ابن عباس ورجاله
-كلهم ثقات رجال مسلم، لكن حماد بن سلمة مع جلالة قدره في حديثه عن غير
-ثابت شيء، ولذلك لم يخرج له مسلم إلا ما كان من روايته عن ثابت، ولذلك
-قال الحافظ في "التقريب" :"ثقة عابد، أثبت الناس في ثابت، وتغير حفظه
-بآخره.
-  </p>
-</blockquote>
+> حدثنا أسود حدثنا حماد بن سلمة عن قتادة عن عكرمة عن ابن عباس ورجاله
+> كلهم ثقات رجال مسلم، لكن حماد بن سلمة مع جلالة قدره في حديثه عن غير
+> ثابت شيء، ولذلك لم يخرج له مسلم إلا ما كان من روايته عن ثابت، ولذلك
+> قال الحافظ في "التقريب" :"ثقة عابد، أثبت الناس في ثابت، وتغير حفظه
+> بآخره.
 
 Aswad – **Hamad b. Salamah** – Qatadah – ‘Ikrimah – Ibn ‘Abbas:
 
@@ -135,12 +99,8 @@ life)”.[^9]
 The above submission is inaccurate, actually. Imam Muslim (d. 261 H)
 has, for instance, recorded this chain:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا هداب بن خالد الأزدي حدثنا حماد بن سلمة عن سماك بن حرب قال سمعت
-جابر بن سمرة
-  </p>
-</blockquote>
+> حدثنا هداب بن خالد الأزدي حدثنا حماد بن سلمة عن سماك بن حرب قال سمعت
+> جابر بن سمرة
 
 Hadab b. Khalid al-Azdi – **Hamad b. Salamah** – **Simak b. Harb** –
 Jabir b. Samurah[^10]
@@ -150,12 +110,8 @@ Hamad authentically transmitted from Simak.
 
 Concerning the last narrator, Simak, Imam al-Dhahabi (d. 748 H) says:
 
-<blockquote dir="rtl">
-  <p>
-سماك بن حرب أبو المغيرة الهذلي الكوفي. صدوق …. قلت: قد احتج مسلم] به
-[في روايته، عن جابر بن سمرة، والنعمان بن بشير، وجماعة.
-  </p>
-</blockquote>
+> سماك بن حرب أبو المغيرة الهذلي الكوفي. صدوق …. قلت: قد احتج مسلم] به
+> [في روايته، عن جابر بن سمرة، والنعمان بن بشير، وجماعة.
 
 Simak b. Harb, Abu al-Mughirah al-Hazali al-Kufi: ***Saduq*** **(very
 truthful)**.... **I say: Muslim had relied [upon him] as a**
@@ -166,14 +122,10 @@ So, the chain is *sahih* upon the standard of *Sahih Muslim*.
 
 Imam Ahmad (d. 241 H) further records
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الصمد وعفان قالا ثنا حماد المعني عن
-سماك عن أنس بن مالك: أن رسول الله صلى الله عليه و سلم بعث ببراءة مع
-أبي بكر الصديق رضي الله عنه فلما بلغ ذا الحليفة قال عفان لا يبلغها إلا
-أنا أو رجل من أهل بيتي فبعث بها مع علي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الصمد وعفان قالا ثنا حماد المعني عن
+> سماك عن أنس بن مالك: أن رسول الله صلى الله عليه و سلم بعث ببراءة مع
+> أبي بكر الصديق رضي الله عنه فلما بلغ ذا الحليفة قال عفان لا يبلغها إلا
+> أنا أو رجل من أهل بيتي فبعث بها مع علي
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) ‘Abd al-Samad and **‘Affan** –
 **Hamad al-Ma’ni** – **Simak** – Anas b. Malik:
@@ -187,11 +139,7 @@ al-Bayt**.” So, he sent ‘Ali with it (instead).[^12]
 Note that Hamad b. Salamah is occasionally referred to as al-Ma’ni, as
 documented by Ibn Asakir (d. 571 H):
 
-<blockquote dir="rtl">
-  <p>
-…. أبو شبل وحسن يعني ابن موسى قالا نا حماد بن سلمة المعني عن ثابت ….
-  </p>
-</blockquote>
+> …. أبو شبل وحسن يعني ابن موسى قالا نا حماد بن سلمة المعني عن ثابت ….
 
 .... Abu Shibl and Hasan, that is Ibn Musa – Hamad b. Salamah
 **al-Ma’ni** – Thabit....[^13]
@@ -201,11 +149,7 @@ Therefore, there should no confusion due to this new phrase “al-Ma’ni”.
 Shockingly, Shaykh al-Arnaut says about the above chain of *Musnad
 Ahmad*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف لنكارة متنه
-  </p>
-</blockquote>
+> إسناده ضعيف لنكارة متنه
 
 Its chain is *da’if* due to the repugnancy of its *matn* (content)[^14]
 
@@ -216,12 +160,8 @@ patently reliable *sanad* as *dha’if* only on that basis?!
 Meanwhile, al-Arnaut has authenticated a very similar chain in the same
 book:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الصمد وعفان قالا ثنا حماد ثنا ثابت عن
-أنس .... إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الصمد وعفان قالا ثنا حماد ثنا ثابت عن
+> أنس .... إسناده صحيح على شرط مسلم
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – ‘Abd al-Samad and ‘Affan –
 Hamad – Thabit – Anas.... **Its chain is** ***sahih*** **upon the
@@ -230,13 +170,9 @@ standard of Muslim**.[^15]
 The only difference is: instead of Simak, there is Thabit. But, what
 does al-Arnaut say about Simak? Here are his words:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا معاوية بن عمرو ثنا زائدة قال ثنا سماك بن
-حرب عن عبد الرحمن بن القاسم عن أبيه عن عائشة ....إسناده صحيح على شرط
-مسلم
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا معاوية بن عمرو ثنا زائدة قال ثنا سماك بن
+> حرب عن عبد الرحمن بن القاسم عن أبيه عن عائشة ....إسناده صحيح على شرط
+> مسلم
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) - Mu’awiyah b. ‘Amr – Zaidah –
 **Simak b. Harb** – ‘Abd al-Rahman b. al-Qasim – his father –
@@ -250,14 +186,10 @@ the standard of *Sahih Muslim*!
 Imam al-Tirmidhi too records about the Prophet’s practicalization of the
 *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن بشار حدثنا عفان بن مسلم و عبد الصمد بن عبد الوارث قالا
-حدثنا حماد بن سلمة عن سماك بن حرب عن أنس بن مالك قال: بعث النبي صلى
-الله عليه و سلم ببراءة مع أبي بكر ثم دعاه فقال لا ينبغي لأحد أن يبلغ
-هذا إلا رجل من أهلي فدعا عليا فأعطاه إياه
-  </p>
-</blockquote>
+> حدثنا محمد بن بشار حدثنا عفان بن مسلم و عبد الصمد بن عبد الوارث قالا
+> حدثنا حماد بن سلمة عن سماك بن حرب عن أنس بن مالك قال: بعث النبي صلى
+> الله عليه و سلم ببراءة مع أبي بكر ثم دعاه فقال لا ينبغي لأحد أن يبلغ
+> هذا إلا رجل من أهلي فدعا عليا فأعطاه إياه
 
 Muhammad b. Bashar – ‘Affan b. Muslim and ‘Abd al-Samad b. ‘Abd
 al-Warith – Hamad b. Salamah – Simak b. Harb – Anas b. Malik:
@@ -269,33 +201,21 @@ him.[^17]
 
 Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن غريب
-  </p>
-</blockquote>
+> هذا حديث حسن غريب
 
 This *hadith* is *hasan gharib* (i.e. has a *hasan* chain)[^18]
 
 ‘Allamah al-Albani concurs:
 
-<blockquote dir="rtl">
-  <p>
-حسن الإسناد
-  </p>
-</blockquote>
+> حسن الإسناد
 
 Its chain is *hasan*[^19]
 
 Imam Abu Ya’la al-Mawsili (d. 307 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا زهير حدثنا عفان حدثنا حماد بن سلمة حدثنا سماك عن أنس: أن رسول
-الله صلى الله عليه و سلم بعث بـ(براءة) مع أبي بكر إلى أهل مكة ثم دعاه
-فبعث عليا فقال : لا يبلغها إلا رجل من أهل بيتي
-  </p>
-</blockquote>
+> حدثنا زهير حدثنا عفان حدثنا حماد بن سلمة حدثنا سماك عن أنس: أن رسول
+> الله صلى الله عليه و سلم بعث بـ(براءة) مع أبي بكر إلى أهل مكة ثم دعاه
+> فبعث عليا فقال : لا يبلغها إلا رجل من أهل بيتي
 
 Zuhayr – ‘Affan – Hamad b. Salamah – Simak – Anas:
 
@@ -306,26 +226,18 @@ al-Bayt**.”[^20]
 
 Shaykh Dr. Asad says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن
-  </p>
-</blockquote>
+> إسناده حسن
 
 Its chain is *hasan*.[^21]
 
 Shaykh Muhammad Ghazali al-Saqa (d. 1416 H) has his own submission too:
 
-<blockquote dir="rtl">
-  <p>
-بعث رسول الله صلى الله عليه وسلم أبا بكر أميرا على الحج، ليقيم
-بالمسلمين المناسك، فخرج من المدينة يسوق البدن أمامه مولّيا وجهه شطر
-المسجد الحرام، ونزل الوحي بسورة براءة بعد انصراف أبي بكر ووفد الحجيج،
-فأشير على رسول الله صلى الله عليه وسلم أن يبعث بالايات إليه ليقرأها
-على أهل الموسم كافّة. ورأى رسول الله صلى الله عليه وسلم أن يرسل بها
-عليّ بن أبي طالب قائلا: «لا يؤدّي عنّي إلا رجل من أهل بيتي»
-  </p>
-</blockquote>
+> بعث رسول الله صلى الله عليه وسلم أبا بكر أميرا على الحج، ليقيم
+> بالمسلمين المناسك، فخرج من المدينة يسوق البدن أمامه مولّيا وجهه شطر
+> المسجد الحرام، ونزل الوحي بسورة براءة بعد انصراف أبي بكر ووفد الحجيج،
+> فأشير على رسول الله صلى الله عليه وسلم أن يبعث بالايات إليه ليقرأها
+> على أهل الموسم كافّة. ورأى رسول الله صلى الله عليه وسلم أن يرسل بها
+> عليّ بن أبي طالب قائلا: «لا يؤدّي عنّي إلا رجل من أهل بيتي»
 
 The Messenger of Allah, peace be upon him, appointed Abu Bakr the *amir*
 over the *Hajj*, in order to lead the Muslims in the performance of the
@@ -355,19 +267,15 @@ Finally, Imam al-Hakim (d. 403 H) records Ibn ‘Abbas’ testimony,
 *radhiyallahu ‘anhu*, that *Hadith al-Ada* is an exclusive merit of
 ‘Ali:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
-عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
-أبو بلج ثنا عمرو بن ميمون قال إني لجالس عند ابن عباس إذ أتاه تسعة رهط
-فقالوا : يا ابن عباس : إما أن تقوم معنا وإما أن تخلو بنا من بين هؤلاء
-قال : فقال ابن عباس بل أنا أقوم معكم قال وهو يومئذ صحيح قبل أن يعمى
-قال : فابتدؤوا فتحدثوا فلا ندري ما قالوا قال فجاء ينفض ثوبه ويقول أف
-وتف وقعوا في رجل له بضع عشرة فضائل ليست لأحد غيره .... بعث رسول الله
-صلى الله عليه وسلم فلانا بسورة التوبة فبعث عليا خلفه فأخذها منه وقال
-لا يذهب بها إلا رجل هو مني وأنا منه
-  </p>
-</blockquote>
+> أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
+> عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
+> أبو بلج ثنا عمرو بن ميمون قال إني لجالس عند ابن عباس إذ أتاه تسعة رهط
+> فقالوا : يا ابن عباس : إما أن تقوم معنا وإما أن تخلو بنا من بين هؤلاء
+> قال : فقال ابن عباس بل أنا أقوم معكم قال وهو يومئذ صحيح قبل أن يعمى
+> قال : فابتدؤوا فتحدثوا فلا ندري ما قالوا قال فجاء ينفض ثوبه ويقول أف
+> وتف وقعوا في رجل له بضع عشرة فضائل ليست لأحد غيره .... بعث رسول الله
+> صلى الله عليه وسلم فلانا بسورة التوبة فبعث عليا خلفه فأخذها منه وقال
+> لا يذهب بها إلا رجل هو مني وأنا منه
 
 Abu Bakr Ahmad b. Ja’far b. Hamdan al-Qati’i – ‘Abd Allah b. Ahmad b.
 Hanbal – my father (Ahmad b. Hanbal) Yahya b. Hamad – Abu Awanah – Abu
@@ -388,61 +296,37 @@ with it except a man who is from me and I am from him**.”[^24]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^25]
 
 Al-Dhahabi (d. 748 H) corroborates him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^26]
 
 ‘Allamah Ahmad Shakir also declares about the *sanad*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^27]
 
 ‘Allamah al-Albani too says concerning its chain:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن.
-  </p>
-</blockquote>
+> إسناده حسن.
 
 Its chain is *hasan*.[^28]
 
 Dr. Al-Jawabirah says the same thing:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن.
-  </p>
-</blockquote>
+> اسناده حسن.
 
 Its chain is *hasan*.[^29]
 
 Imam al-Busiri is not left out either, concerning the chain:
 
-<blockquote dir="rtl">
-  <p>
-سند صحيح
-  </p>
-</blockquote>
+> سند صحيح
 
 A *sahih* chain.[^30]
 
@@ -547,5 +431,4 @@ al-Shaybani, Kitab al-Sunnah (Dar al-Sami’i li al-Nashr wa al-Tawzi’)
 [^30]: Ahmad b. Abi Bakr b. Isma’il al-Busiri, Itihaf al-Khiyarah
 al-Maharah bi Zawaid al-Masanid al-‘Ashara (Riyadh: Dar al-Watan; 1st
 edition, 1420 H), vol. 7, p. 184, \# 6630
-
 

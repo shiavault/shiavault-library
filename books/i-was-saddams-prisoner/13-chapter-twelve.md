@@ -124,4 +124,3 @@ elevated our spirits, and we ate food with relish and Thanksgiving to
 Allah for His ways, designs and wisdom.  
    
 
-

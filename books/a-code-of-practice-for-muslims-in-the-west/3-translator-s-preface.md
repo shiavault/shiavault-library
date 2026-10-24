@@ -78,4 +78,3 @@ the first edition.
 [^4]: See item 115 in this translation on the criterion of following the
 moon sighted in a city west of your own city.
 
-

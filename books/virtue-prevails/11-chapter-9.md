@@ -91,4 +91,3 @@ Ahmad has covered her with. Now I must know where she spends her free
 time. It's best that I wait until Ahmad leaves again for Europe. If he
 is nearby, he will spoil my plans.'
 
-

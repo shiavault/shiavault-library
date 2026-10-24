@@ -49,4 +49,3 @@ and also,
 ***“Whatever the Messenger gives you, accept it, and from whatever he
 forbids you, stay away therefrom” (Holy Qur'an, 59:7)***?
 
-

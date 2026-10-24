@@ -4,25 +4,17 @@
 Tasleem Safeet al-A\`mal: Delivering the Book of Deeds
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-تسليم صحيفة الأعمال
-  </p>
-</blockquote>
+> تسليم صحيفة الأعمال
 
 It is another terrifying stage of the Judgment Day when the list of
 deeds is delivered to the one it belongs to. The Almighty has made a
 number of references to this book of deeds; here are some of them: When
 the scrolls are laid open" (Qur'an, 81:10); and also these verses:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَسَوْفَ يُحَاسَبُ
-حِسَابًا يَسِيرًا وَيَنقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا، وَأَمَّا مَنْ
-أُوتِيَ كِتَابَهُ وَرَاء ظَهْرِهِ فَسَوْفَ يَدْعُو ثُبُورًا وَيَصْلَى
-سَعِيرًا
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَسَوْفَ يُحَاسَبُ
+> حِسَابًا يَسِيرًا وَيَنقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا، وَأَمَّا مَنْ
+> أُوتِيَ كِتَابَهُ وَرَاء ظَهْرِهِ فَسَوْفَ يَدْعُو ثُبُورًا وَيَصْلَى
+> سَعِيرًا
 
 ***"He who is given his book in his right hand, soon his account will be
 taken by an easy reckoning, and he will turn to his people, rejoicing!
@@ -32,14 +24,10 @@ perdition, and he will enter a blazing Fire" (Qur'an, 84:7-12).***
 On p. 314, Vol. 7 of Bihar al-Anwar, al-Ayyashi quotes Imam‎ as-Sadiq
 (as) saying:
 
-<blockquote dir="rtl">
-  <p>
-إذا قامت القيامة، تعطى لكل واحد قائمة أعماله و يقال له: إقرأ، و يذكره
-الله جميع أعماله بالنظر إلى تلك الصحيفة، و كذلك جميع أقواله، و خطواته
-و غيرها و كأنه قالها و فعلها و خطاها في الحال، فيقولون: "يا ويلتنا، ما
-لهذا الكتاب لا يغادر صغيرة و لا كبيرة إلا أحصاها؟"
-  </p>
-</blockquote>
+> إذا قامت القيامة، تعطى لكل واحد قائمة أعماله و يقال له: إقرأ، و يذكره
+> الله جميع أعماله بالنظر إلى تلك الصحيفة، و كذلك جميع أقواله، و خطواته
+> و غيرها و كأنه قالها و فعلها و خطاها في الحال، فيقولون: "يا ويلتنا، ما
+> لهذا الكتاب لا يغادر صغيرة و لا كبيرة إلا أحصاها؟"
 
 ***When it is Judgment Day, everyone will be handed over his list of
 deeds, and it will be said to him, 'Read!' Allah‎ will remind him of all
@@ -51,13 +39,9 @@ leave out the recording of anything, be it small or big?!'" (Qur'an,
 
 Ibn Qawlawayh has quoted Imam‎ as-Sadiq (as)as saying:
 
-<blockquote dir="rtl">
-  <p>
-من زار قبر الحسين (عليه السلام) في شهر رمضان و مات في سفر زيارته
-للحسين (عليه السلام)، فلا يتعرض لأمر أو حساب و يقال له: أدخل الجنة لا
-خوف عليك
-  </p>
-</blockquote>
+> من زار قبر الحسين (عليه السلام) في شهر رمضان و مات في سفر زيارته
+> للحسين (عليه السلام)، فلا يتعرض لأمر أو حساب و يقال له: أدخل الجنة لا
+> خوف عليك
 
 "If one visits the gravesite of Imam‎ al-Hussain (as)during the month of
 Ramadan and dies during his trip to visit al-Hussain (as), he will not
@@ -66,19 +50,11 @@ said to him, "Enter Paradise, you shall not fear." \`Allama al-Majlisi,
 may Allah‎ have mercy on him, has quoted Imam‎ ar-Ridha (as) through two
 reliable isnads as saying:
 
-<blockquote dir="rtl">
-  <p>
-من زارني على بعد قبري، أتيته في مواطن ثلاثة: يوم القيامة لأنقذه من
-أهوالها، و عند تطاير كتب المحسنين إلى يمينهم، و صحائف المجرمين إلى
-شمائلهم، و على الصراط، و
-  </p>
-</blockquote>
+> من زارني على بعد قبري، أتيته في مواطن ثلاثة: يوم القيامة لأنقذه من
+> أهوالها، و عند تطاير كتب المحسنين إلى يمينهم، و صحائف المجرمين إلى
+> شمائلهم، و على الصراط، و
 
-<blockquote dir="rtl">
-  <p>
-على الميزان
-  </p>
-</blockquote>
+> على الميزان
 
 "If one comes from a distance to visit my gravesite, I shall go to him
 on three occasions: on the Judgment Day to save him from its woes, when
@@ -96,21 +72,17 @@ Sa'eed has quoted Imam‎ as-Sadiq (as)as having said:
 > بِيَمِينِهِ فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا وَيَنقَلِبُ إِلَى
 > أَهْلِهِ مَسْرُورًا" (الإنشقاق، 7-9) .
 
-<blockquote dir="rtl">
-  <p>
-فسأل الراوي: أي أهل يقصد بهذا الأهل؟ هل يصحب المؤمن أهله الذين كانوا
-معه في الدنيا؟ قال الصادق (ع): إذا أراد الله بعبد سوءا حاسبه جهرا أمام
-الخلائق و أتم عليه حجته و أعطاه كتابه إلى شماله، كما قال الله تعالى: "
-وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاء ظَهْرِهِ فَسَوْفَ يَدْعُو
-ثُبُورًا وَيَصْلَى سَعِيرًا، إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا " –
-يعني في الدنيا—، " إِنَّهُ ظَنَّ أَن لَّن يَحُورَ" يعني أنه لن يعود —
-و هذا يشير إلى أن أيدي الكفار و المنافقين تغل و تقيد و تسلم صحائفهم
-إلى شمالهم، و إلى هاتين الحالتين أشير في أدعية الوضوء عند غسل اليدين:
-"اللهم أعطني كتابي بيميني و خلودي في الجنه بشمالي، و حاسبني حسابا
-يسيرا، و لا تعطني كتابي عن شمالي و لا وراء ظهري، و لا تغل يدي إلى
-عنقي".
-  </p>
-</blockquote>
+> فسأل الراوي: أي أهل يقصد بهذا الأهل؟ هل يصحب المؤمن أهله الذين كانوا
+> معه في الدنيا؟ قال الصادق (ع): إذا أراد الله بعبد سوءا حاسبه جهرا أمام
+> الخلائق و أتم عليه حجته و أعطاه كتابه إلى شماله، كما قال الله تعالى: "
+> وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاء ظَهْرِهِ فَسَوْفَ يَدْعُو
+> ثُبُورًا وَيَصْلَى سَعِيرًا، إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا " –
+> يعني في الدنيا—، " إِنَّهُ ظَنَّ أَن لَّن يَحُورَ" يعني أنه لن يعود —
+> و هذا يشير إلى أن أيدي الكفار و المنافقين تغل و تقيد و تسلم صحائفهم
+> إلى شمالهم، و إلى هاتين الحالتين أشير في أدعية الوضوء عند غسل اليدين:
+> "اللهم أعطني كتابي بيميني و خلودي في الجنه بشمالي، و حاسبني حسابا
+> يسيرا، و لا تعطني كتابي عن شمالي و لا وراء ظهري، و لا تغل يدي إلى
+> عنقي".
 
 ***"If Allah‎ wants to hold a believer to account, he gives him his book
 [of deeds] in his right hand and judges him between Himself and the
@@ -139,5 +111,4 @@ to both these conditions that the supplications related to ablution
 refer: 'Lord! Give me my book in my right hand and my eternity in
 Paradise on my left; do judge me easily and do not give me my book on my
 left or behind my back, and do not tie my hands to my neck."
-
 

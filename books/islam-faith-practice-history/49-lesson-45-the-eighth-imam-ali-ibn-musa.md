@@ -261,4 +261,3 @@ Question 2: [20 points]
 Question 3: [20 points]  
  Describe the impact of Imam ‘Ali ar-Ridā’s journey from Medina to Marw.
 
-

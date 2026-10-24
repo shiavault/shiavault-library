@@ -1,17 +1,9 @@
 Chapter 8: Upon you all I invoke the peace of Allah forever, as long as I ‌live and the night and day subsist
 =============================================================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ مِنِّي جَمِيعًا سَلاَمُ اللَّهِ أَبَدا
-  </p>
-</blockquote>
+> عَلَيْكُمْ مِنِّي جَمِيعًا سَلاَمُ اللَّهِ أَبَدا
 
-<blockquote dir="rtl">
-  <p>
-مَا بَقِيتُ وَبَقِيَ اللَّيْلُ وَالنَّهَارُ
-  </p>
-</blockquote>
+> مَا بَقِيتُ وَبَقِيَ اللَّيْلُ وَالنَّهَارُ
 
 Upon you all I invoke the peace of Allah forever, as long as I live and
 the night and day subsist
@@ -19,11 +11,7 @@ the night and day subsist
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ مِنِّي جَمِيعًا سَلاَمُ اللَّهِ
-  </p>
-</blockquote>
+> عَلَيْكُمْ مِنِّي جَمِيعًا سَلاَمُ اللَّهِ
 
 Upon you all I invoke the peace of Allah
 
@@ -44,11 +32,7 @@ This sentence is a nominal sentence (*jumla ismiyya*) too, which means
 that our invocation is perpetual and permanent. A nominal sentence
 confers the connotation of continuity (*al-dawam*).
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ مِنِّي
-  </p>
-</blockquote>
+> عَلَيْكُمْ مِنِّي
 
 Upon you, I invoke...
 
@@ -56,11 +40,7 @@ In the phrase *minni* (from me) the first person pronoun يَاء *ya’* is
 attached to the preposition مِنْ *min* implying that the *za’ir* is the
 one who invokes the *salam* of Allah for the *mazur* (the visited one).
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ مِنِّي جَمِيعًا
-  </p>
-</blockquote>
+> عَلَيْكُمْ مِنِّي جَمِيعًا
 
 Upon you all I invoke...
 
@@ -75,11 +55,7 @@ singular pronoun *ya’* affixed to the preposition *min*. It is as if the
 *za’ir* says, “Upon you I invoke *with all the elements of my being,*
 the peace of Allah*...*”
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ مِنِّي جَمِيعا سَلامُ اللَّهِ
-  </p>
-</blockquote>
+> عَلَيْكُمْ مِنِّي جَمِيعا سَلامُ اللَّهِ
 
 Upon you all I invoke the peace of Allah
 
@@ -94,11 +70,7 @@ imperfection) in all the perfect attributes of Imam al-Husayn and his
 loyal companions, who are manifestations of the all-comprehensive name
 Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَبَدا مَا بَقِيتُ وَبَقِيَ اللَّيْلُ وَالنَّهَارُ
-  </p>
-</blockquote>
+> أَبَدا مَا بَقِيتُ وَبَقِيَ اللَّيْلُ وَالنَّهَارُ
 
 ...forever, so long as I live and the night and day subsist.
 
@@ -118,22 +90,18 @@ devotion to the Ahl al-Bayt (AS):
 Abu Muhammad, brother of Yunus b. Ya’qub narrates from his brother
 Yunus, who said:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُ بِالْمَدِيْنَةِ فَاسْتَقْبَلَنِيْ جَعْفَرُ بْنُ مُحَمَّدٍ فِي
-بَعْضِ أَزِقَّتِهَا فَقَالَ اِذْهَبْ يَا يُوْنُسُ فَإنَّ بِالْبَابِ
-رَجُلاً مِنَّا أَهْلَ الْبَيْتِ قَالَ فَجِئْتُ إِلىَ الْبَابِ فَإذا
-عِيْسَى بْنِ عَبْدِ اللهِ جَالِسٌ فَقُلْتُ لَهُ مَنْ أَنْتَ قَالَ
-أَنَا رَجُلٌ مِنْ أَهْلِ قُمْ قَالَ فَلَمْ يَكُنْ بِأَسْرَع مِنْ أَنْ
-أَقْبَلَ أَبُوْ عَبْدِ اللهِ عَلىَ حِمَارٍ فَدَخَلَ عَلىَ الْحِمَارِ
-الدًَّارَ ثُمَّ اِلْتَفَتَ إِلَيْنَا فَقَالَ اُدْخُلاَ ثُمَّ قَالَ يَا
-يُوْنُسُ أَحْسَبُ أَنَّكَ أَنْكَرْتَ قَوْلِيْ لَكَ إِنَّ عِيْسَى بْنِ
-عَبْدِ اللهِ مِنَّا أَهْل الْبَيْتِ قَالَ قُلْتُ إِيْ وَاللهِ جُعِلْتُ
-فِدَاكَ لأَنَّ عِيْسَى بْنِ عَبْدِ اللهِ رَجُلٌ مِنْ أَهْلِ قُمْ
-فَكَيْفَ يَكُوْنُ مِنْكُمْ أَهْلِ الْبَيْتِ قَالَ يَا يُوْنُسُ عِيْسَى
-بْنِ عَبْدِ اللهِ رَجُلٌ مِنَّا حَيًّا وَ هُوَ مِنَّا مَيِّتًا
-  </p>
-</blockquote>
+> كُنْتُ بِالْمَدِيْنَةِ فَاسْتَقْبَلَنِيْ جَعْفَرُ بْنُ مُحَمَّدٍ فِي
+> بَعْضِ أَزِقَّتِهَا فَقَالَ اِذْهَبْ يَا يُوْنُسُ فَإنَّ بِالْبَابِ
+> رَجُلاً مِنَّا أَهْلَ الْبَيْتِ قَالَ فَجِئْتُ إِلىَ الْبَابِ فَإذا
+> عِيْسَى بْنِ عَبْدِ اللهِ جَالِسٌ فَقُلْتُ لَهُ مَنْ أَنْتَ قَالَ
+> أَنَا رَجُلٌ مِنْ أَهْلِ قُمْ قَالَ فَلَمْ يَكُنْ بِأَسْرَع مِنْ أَنْ
+> أَقْبَلَ أَبُوْ عَبْدِ اللهِ عَلىَ حِمَارٍ فَدَخَلَ عَلىَ الْحِمَارِ
+> الدًَّارَ ثُمَّ اِلْتَفَتَ إِلَيْنَا فَقَالَ اُدْخُلاَ ثُمَّ قَالَ يَا
+> يُوْنُسُ أَحْسَبُ أَنَّكَ أَنْكَرْتَ قَوْلِيْ لَكَ إِنَّ عِيْسَى بْنِ
+> عَبْدِ اللهِ مِنَّا أَهْل الْبَيْتِ قَالَ قُلْتُ إِيْ وَاللهِ جُعِلْتُ
+> فِدَاكَ لأَنَّ عِيْسَى بْنِ عَبْدِ اللهِ رَجُلٌ مِنْ أَهْلِ قُمْ
+> فَكَيْفَ يَكُوْنُ مِنْكُمْ أَهْلِ الْبَيْتِ قَالَ يَا يُوْنُسُ عِيْسَى
+> بْنِ عَبْدِ اللهِ رَجُلٌ مِنَّا حَيًّا وَ هُوَ مِنَّا مَيِّتًا
 
 I was at Madina, when Ja’far bin Muhammad (AS) met me in one of its
 lanes. He said: “O Yunus, go to the door, for a person from us the Ahl
@@ -162,5 +130,4 @@ congregation in himself.’
 [^4]: Mawla HabibulLah al-Kashani, Sharhu Ziyarat ‘Ashura\`, p. 52
 
 [^5]: Shaykh Mufid, Al-Amali, 17th Assembly, p. 140.
-
 

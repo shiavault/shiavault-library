@@ -67,4 +67,3 @@ the character of the prophets; especially that of Prophet Muhammad (S).
 **Ibrahim Amini**  
  Qom, Summer 1383
 
-

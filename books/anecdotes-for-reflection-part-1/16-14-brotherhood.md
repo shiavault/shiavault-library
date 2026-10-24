@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّماَ الْمُؤمِنُونَ اِخْوَةٌ
-  </p>
-</blockquote>
+> اِنَّماَ الْمُؤمِنُونَ اِخْوَةٌ
 
 *(The believers are but brethren)*[^1]
 
 Imam Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيكَ بِاِخْواَنِ الصِّدْقِ فَاِنَّهُم عُدَّةٌ عِندَ الرَّخاَء وَ
-جُنَّةٌ عِندَ الْبَلاَء
-  </p>
-</blockquote>
+> عَلَيكَ بِاِخْواَنِ الصِّدْقِ فَاِنَّهُم عُدَّةٌ عِندَ الرَّخاَء وَ
+> جُنَّةٌ عِندَ الْبَلاَء
 
 *(It is incumbent) upon you to take true friends for yourself, for they
 are an asset, in times of ease and a shield, during adversities*[^2]
@@ -193,11 +185,7 @@ and the Ansaar (The Helpers).***
 
 ***When the verse***
 
-<blockquote dir="rtl">
-  <p>
-اِنَّماَ الْمُؤمِنُونَ اِخْوَةٌ
-  </p>
-</blockquote>
+> اِنَّماَ الْمُؤمِنُونَ اِخْوَةٌ
 
 ***(The believers are but brethren)***[^8] ***was revealed, the Holy
 Prophet (s.a.w.) proclaimed brotherhood to be a general law amongst the
@@ -233,5 +221,4 @@ Biography Of Imam Kadhim (peace be upon him)’.
 
 [^9]: Namunah-e-Ma'arif, vol. 1, pg. 82; Kashf al-Ghummah; Tafseer
 al-Burhaan. 
-
 

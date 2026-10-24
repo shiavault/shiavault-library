@@ -304,4 +304,3 @@ p.43.
 
 [^10]: Spending the night with worshipping.
 
-

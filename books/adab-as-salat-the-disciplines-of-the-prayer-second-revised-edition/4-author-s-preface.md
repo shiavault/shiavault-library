@@ -70,4 +70,3 @@ Was-Salām.
 **Rūhullāh al-Mūsawī al-Khomeinī**  
 **2nd** **of Safar al-Muzaffar 1405 A.H.**
 
-

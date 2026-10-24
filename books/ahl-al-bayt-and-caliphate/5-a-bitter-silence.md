@@ -12,12 +12,8 @@ complaining at opportune situations the injustice done to him.
 ‘Ali (A.S.) remembers this silence as bitter and reckons it to be an
 affliction and an agony of death:
 
-<blockquote dir="rtl">
-  <p>
-و اغضيت علي القذي و شربت علي الشجي و صبرت علي اخذ الكظم و علي امر من
-طعم العلقم.
-  </p>
-</blockquote>
+> و اغضيت علي القذي و شربت علي الشجي و صبرت علي اخذ الكظم و علي امر من
+> طعم العلقم.
 
 *“I shut my eyes while there was a thorn in it and drank while there was
 a bone stuck in my throat. I was patient while my throat felt suffocated
@@ -32,11 +28,7 @@ martyrdom for him and sons. Martyrdom was the goal of ‘Ali (A.S.) and
 incidentally in this very situation he addresses Abu Sufyan in one of
 his famous sentences as such:
 
-<blockquote dir="rtl">
-  <p>
-و الله لابن ابيطالب آنس بالموت من الطفل بثدي امه.
-  </p>
-</blockquote>
+> و الله لابن ابيطالب آنس بالموت من الطفل بثدي امه.
 
 *“By Allah the son of Abu Talib is more at ease with death than an
 infant with the breast of its mother.”*[^2]
@@ -49,15 +41,11 @@ have been damaging to Islam (and not to the advantage of Islam).
 one. He himself says that he selected the path which was nearer to
 prudence:
 
-<blockquote dir="rtl">
-  <p>
-وَ طَفِقْتُ اَرْتَأى بَيْنَ اَنْ اَصُولَ بِيَد جَذّاءَ، اَوْ اَصْبِرَ
-عَلى طِخْيَة عَمْياءَ، يَهْرَمُ فيهَا الْكَبيرُ، وَ يَشيبُ فيهَا
-الصَّغيرُ، وَ يَكْدَحُ فيها مُؤْمِنٌ حَتّى يَلْقى رَبَّهُ! فَرَاَيْتُ
-اَنَّ الصَّبْرَ عَلى هاتا اَحْجى، فَصَبَرْتُ وَ فِى الْعَيْنِ قَذًى،
-وَ فِى الْحَلْقِ شَجاً!
-  </p>
-</blockquote>
+> وَ طَفِقْتُ اَرْتَأى بَيْنَ اَنْ اَصُولَ بِيَد جَذّاءَ، اَوْ اَصْبِرَ
+> عَلى طِخْيَة عَمْياءَ، يَهْرَمُ فيهَا الْكَبيرُ، وَ يَشيبُ فيهَا
+> الصَّغيرُ، وَ يَكْدَحُ فيها مُؤْمِنٌ حَتّى يَلْقى رَبَّهُ! فَرَاَيْتُ
+> اَنَّ الصَّبْرَ عَلى هاتا اَحْجى، فَصَبَرْتُ وَ فِى الْعَيْنِ قَذًى،
+> وَ فِى الْحَلْقِ شَجاً!
 
 *“Then I began to think whether I should assault or endure calmly the
 blinding darkness of tribulations wherein the grown up become feeble and
@@ -115,12 +103,8 @@ However, that which could not be imagined did really occur. They usurped
 our right and we were ranked on par with the low-class people. Tears
 rolled down from our eyes and problems stood facing us.”
 
-<blockquote dir="rtl">
-  <p>
-و ايم الله لولا مخافة الفرقه بين المسلمين و ان يعود الكفر و يبور الدين
-لكنا علي غير ما كنا لهم عليه.
-  </p>
-</blockquote>
+> و ايم الله لولا مخافة الفرقه بين المسلمين و ان يعود الكفر و يبور الدين
+> لكنا علي غير ما كنا لهم عليه.
 
 *“By Allah, if it were not for the fear of discord between the Muslims,
 the return to unbelief and destruction of religion, our stand towards
@@ -136,13 +120,9 @@ Moreover, Ibn Abi al-Hadeed narrates from Kalbi that:
 Prophet, the Quraysh snatched our right from us and attributed it
 exclusively for themselves.”
 
-<blockquote dir="rtl">
-  <p>
-فرأيت ان الصبر علي ذلك افضل من تفريق كلمة المسلمين و سفك دمائهم و
-الناس حديثو عهد بالاسلام و الدين يمخض مخض الوطب يفسده ادني وهن و يعكسه
-اقل خلق.
-  </p>
-</blockquote>
+> فرأيت ان الصبر علي ذلك افضل من تفريق كلمة المسلمين و سفك دمائهم و
+> الناس حديثو عهد بالاسلام و الدين يمخض مخض الوطب يفسده ادني وهن و يعكسه
+> اقل خلق.
 
 *“I realized that patience in that is better than dissipation of the
 Muslim creed and their bloodshed. I reckoned that the people are newly
@@ -165,19 +145,11 @@ result, he suggested to ‘Ali (A.S.) not to attend the meeting. Although
 concerned, he still did not accept his suggestion.” His reason was as he
 said:
 
-<blockquote dir="rtl">
-  <p>
-اني اكره الخلاف
-  </p>
-</blockquote>
+> اني اكره الخلاف
 
 *“I dislike discord.”* Abbas said:
 
-<blockquote dir="rtl">
-  <p>
-اذا ترى ما تكره
-  </p>
-</blockquote>
+> اذا ترى ما تكره
 
 “Then you will encounter what you dislike.­”
 
@@ -187,11 +159,7 @@ at the same time vilified his enemies.” ‘Ali prohibited him from
 reciting such poems (which in fact was a kind of provocation and threat
 to unity) and said:
 
-<blockquote dir="rtl">
-  <p>
-سلامة الدين احب الينا من غيره
-  </p>
-</blockquote>
+> سلامة الدين احب الينا من غيره
 
 *“We reckon the safety of the religion (and the continuation of the
 fundamentals of Islam( to be a matter more lovable and valuable than
@@ -204,12 +172,8 @@ Nahj al-Balaghah:
 (1) When Abu Sufyan intended to create sedition under the pretext of
 offering his support to ‘Ali (A.S.), Hazrat replied:
 
-<blockquote dir="rtl">
-  <p>
-شقوا امواج الفتن بسفن النجاة و عرجوا عن طريق المنافرة، وضعوا تيجان
-المفاخرة.
-  </p>
-</blockquote>
+> شقوا امواج الفتن بسفن النجاة و عرجوا عن طريق المنافرة، وضعوا تيجان
+> المفاخرة.
 
 *“Steer clear through the waves of mischief with the boats of
 deliverance; turn away from the path of dissension and put off the
@@ -218,12 +182,8 @@ crowns of pride.”*[^4]
 (2) In the Shura (consultative council) of six people, when ‘Uthman was
 selected by Abdur-Rahman ibn al-Auf, he (i.e. ‘Ali) said:
 
-<blockquote dir="rtl">
-  <p>
-لقد علمتم انى احق الناس بها من غيرى و و الله لا سلمن ما سلمت امور
-المسلمين و لم يكن فيها جور الا على خاصة.
-  </p>
-</blockquote>
+> لقد علمتم انى احق الناس بها من غيرى و و الله لا سلمن ما سلمت امور
+> المسلمين و لم يكن فيها جور الا على خاصة.
 
 *“You have certainly known that I am the most rightful of all for the
 Caliphate. By Allah, so long as the affairs of the Muslims remain intact
@@ -236,14 +196,10 @@ different from the famous lengthy directive). In this letter he relates
 the era of the beginning of Islam till he reaches to a point where he
 says:
 
-<blockquote dir="rtl">
-  <p>
-فامسكت يدي حتي رايت راجعة الناس قد رجعت عن الاسلام يدعون الي محق دين
-محمد صلى اللَّه عليه و آله فخشيت ان لم انصر الاسلام و اهله ان اري فيه
-ثلما او هدما تكون المصيبة به علي اعظم من فوت ولايتكم التي انما هي متاع
-ايام قلائل.
-  </p>
-</blockquote>
+> فامسكت يدي حتي رايت راجعة الناس قد رجعت عن الاسلام يدعون الي محق دين
+> محمد صلى اللَّه عليه و آله فخشيت ان لم انصر الاسلام و اهله ان اري فيه
+> ثلما او هدما تكون المصيبة به علي اعظم من فوت ولايتكم التي انما هي متاع
+> ايام قلائل.
 
 *“I withheld my hand only as long as I saw that many people were
 reverting away from Islam and calling for the effacement of the religion
@@ -288,22 +244,14 @@ Zahra (A.S.), he consoles her and says: “No, I have not changed. I am
 the same as before. Expediency lies in something else”. He comforts her
 until Zahra (A.S.) is content and hears from her the sentence of:
 
-<blockquote dir="rtl">
-  <p>
-حَسْبي الله وَ نِعْمَ الوَكِيل
-  </p>
-</blockquote>
+> حَسْبي الله وَ نِعْمَ الوَكِيل
 
 Below Sermon No.215, Ibn Abi al-Hadeed has narrated this famous
 incident:  
  “One day Fatimah (A.S.) called on ‘Ali (A.S.) to revolt. At that very
 moment the call of “Muezzin” could be heard saying:
 
-<blockquote dir="rtl">
-  <p>
-أشْهَدُ أنَّ مُحَمَّداَ رَسولُ اللهِ
-  </p>
-</blockquote>
+> أشْهَدُ أنَّ مُحَمَّداَ رَسولُ اللهِ
 
 “I testify that Muhammad is the Messenger of Allah”.
 
@@ -315,12 +263,8 @@ However the splendid revolt (limited to ‘Ali (A.S.) himself) which he
 was proud of and about which he used to say that none had the courage to
 do what he did was the revolt against the Kharijites.
 
-<blockquote dir="rtl">
-  <p>
-فَانا فقاْتُ عين الفِتْنَةِ و لم يكن ليجْتَرَأ عَليها أحَدٌ غيري بعد
-أن ماج غيهبها و اشتدَّ كلبها
-  </p>
-</blockquote>
+> فَانا فقاْتُ عين الفِتْنَةِ و لم يكن ليجْتَرَأ عَليها أحَدٌ غيري بعد
+> أن ماج غيهبها و اشتدَّ كلبها
 
 *“So now, O people, I have put out the eye of dissension. No one except
 me ventured towards it when its darkness was surging and its frenzy was
@@ -363,5 +307,4 @@ strike their heads and not tremble?
 [^5]: Nahj al-Balaghah, Sermon 72.
 
 [^6]: Nahj al-Balaghah, Letter no. 62.
-
 

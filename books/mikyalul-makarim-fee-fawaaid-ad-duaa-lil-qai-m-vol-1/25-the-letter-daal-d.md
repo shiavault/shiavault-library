@@ -298,11 +298,7 @@ condition itself. And that Allah, the Mighty and the Sublime keeps away
 divine wrath from the people if the Prophet or Imam is among them. The
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ
-  </p>
-</blockquote>
+> وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ
 
 ***“But Allah was not going to chastise them while you were among them.”
 (Qur’an, Surah Anfaal 8:33)***
@@ -418,5 +414,4 @@ from his father Muhammad bin Ali from his father Ali bin al-Husain (as).
 [^20]: Biharul Anwar; Vol. 52, Pg. 316
 
 [^21]: Biharul Anwar; Vol. 1, Pg. 330
-
 

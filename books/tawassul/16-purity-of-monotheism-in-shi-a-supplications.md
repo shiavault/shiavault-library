@@ -30,4 +30,3 @@ prostration in front of the shrines of the Infallible Imams (A.S.) is a
 form of thanksgiving to God, there is no objection, otherwise it
 is*haram* .[^46]
 
-

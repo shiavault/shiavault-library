@@ -206,4 +206,3 @@ between religion and health.
 </tbody>
 </table>
 
-

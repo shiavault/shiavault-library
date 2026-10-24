@@ -1,12 +1,8 @@
 Imam Ali – Successor And Flag Bearer Of The Prophet
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-قالَ لَهُ وَ عَلَيكَ السَّلامُ يا أَخِي وَ يا وَصِيّيِ وَ خَلِيفَتِي
-وَ صاحِبَ لِوائِي قَد أَذِنتُ لَكَ
-  </p>
-</blockquote>
+> قالَ لَهُ وَ عَلَيكَ السَّلامُ يا أَخِي وَ يا وَصِيّيِ وَ خَلِيفَتِي
+> وَ صاحِبَ لِوائِي قَد أَذِنتُ لَكَ
 
 **My father replied, "Peace be upon you too, O brother, successor,
 vicegerent, and bearer of my Flag. I allow you." Ali thus went with them
@@ -76,11 +72,7 @@ is not random and is rather intentional and without mistake.
 One must also understand that this brotherhood does not only signify the
 common Islamic brotherhood that is mentioned in the verse,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ.
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ.
 
 ***“The Believers are all brothers.” (49:10).***
 
@@ -239,5 +231,4 @@ polytheists to be one of the most staunch disbelievers among the party
 of falsehood. The status of being the holder of the Prophet’s flag is
 certainly a grand position which speaks volumes of the rank which Imam
 Ali (AS) has attained, not only in this life but also in the hereafter.
-
 

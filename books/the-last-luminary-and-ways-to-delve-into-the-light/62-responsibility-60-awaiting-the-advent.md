@@ -8,13 +8,9 @@ anticipation of the return of the Imam.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبـى لِشِيعَةِ قَائِمِنَا الْمُنْتَظِرِينَ لِظُهُورِهِ فِي
-غَيْبَتِهِ وَ الْمُطِيعِينَ لَهُ فِي ظُهُورِهِ أُوْلٌئِكَ أَوْلِيَاءُ
-اللٌّهِ الَّذِينَ لاَ خَوْفٌ عَلَيْهِمْ وَ لاَ هُمُ يَحْزَنُونَ
-  </p>
-</blockquote>
+> طُوبـى لِشِيعَةِ قَائِمِنَا الْمُنْتَظِرِينَ لِظُهُورِهِ فِي
+> غَيْبَتِهِ وَ الْمُطِيعِينَ لَهُ فِي ظُهُورِهِ أُوْلٌئِكَ أَوْلِيَاءُ
+> اللٌّهِ الَّذِينَ لاَ خَوْفٌ عَلَيْهِمْ وَ لاَ هُمُ يَحْزَنُونَ
 
 “Glad tidings (of Paradise) to the Shi’a of our Qa\`im (ajtf) those who
 are awaiting his advent during his occultation and those who are
@@ -24,12 +20,8 @@ any sorrow.]”[^1]
 
 Imam ‘Ali b. Husain as-Sajjad (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَهْلَ زَمَانِ غَيْبَتِهِ وَ الْقَائِلِينَ بِإِمَامَتِهِ وَ
-الْمُنْتَظِرِينَ لِظُهُورِهِ أَفْضَلُ مِنْ أَهْلِ كُلِّ زَمَانٍ
-  </p>
-</blockquote>
+> إِنَّ أَهْلَ زَمَانِ غَيْبَتِهِ وَ الْقَائِلِينَ بِإِمَامَتِهِ وَ
+> الْمُنْتَظِرِينَ لِظُهُورِهِ أَفْضَلُ مِنْ أَهْلِ كُلِّ زَمَانٍ
 
 “Surely the people who are living during the period of his occultation
 and who believe in his (Divinely appointed) leadership and are awaiting
@@ -37,22 +29,14 @@ his advent are the best people of all times.”[^2]
 
 Imam Muhammad b. ‘Ali al-Taqi (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَيَنْتَظِرُ خُرُوجَهُ الْمُخْلِصُونَ وَ يُنْكِرُهُ الْمُرْتَابُونَ
-  </p>
-</blockquote>
+> فَيَنْتَظِرُ خُرُوجَهُ الْمُخْلِصُونَ وَ يُنْكِرُهُ الْمُرْتَابُونَ
 
 “The sincere ones will await his advent, while the doubters shall deny
 it.”[^3]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَعِنْدَهَا فَلْيَتَوَقَّعُوا الْفَرَجَ صَبَاحاً وَ مَسَاءً
-  </p>
-</blockquote>
+> فَعِنْدَهَا فَلْيَتَوَقَّعُوا الْفَرَجَ صَبَاحاً وَ مَسَاءً
 
 “During the occultation, they will await his (Imam al-Mahdi’s) advent
 every morning and evening.”[^4]
@@ -120,12 +104,8 @@ the performance of an obligatory act legislated by Allah.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ تَوَقَّعْ أَمْرَ صَاحِبِكَ لَيْلَكَ وَ نَهَارَكَ فَإِنَّ اللٌّهَ
-كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ، لاَ يَشْغَلُهُ شَأْنٌ عَنْ شَأْنٍ
-  </p>
-</blockquote>
+> وَ تَوَقَّعْ أَمْرَ صَاحِبِكَ لَيْلَكَ وَ نَهَارَكَ فَإِنَّ اللٌّهَ
+> كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ، لاَ يَشْغَلُهُ شَأْنٌ عَنْ شَأْنٍ
 
 “Anticipate the advent of your patron (i.e. the Imam) in your day and
 night, for Almighty Allah has a decision every moment and no affair may
@@ -146,11 +126,7 @@ unexpectedly, when people are in state of complete hopelessness.
 
 It has been narrated from Imam ‘Ali b. Muhammad al-Hadi (as) that:
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَقَّعُوا الْفَرَجَ مِنْ تَحْتِ أَقْدَامِكُمْ
-  </p>
-</blockquote>
+> فَتَوَقَّعُوا الْفَرَجَ مِنْ تَحْتِ أَقْدَامِكُمْ
 
 “Anticipate the advent from (the land) under your feet (meaning at any
 place and time).”[^6]
@@ -168,5 +144,4 @@ Tamam an-Ni’mah, pg. 339, no. 17
 [^5]: al-Iqbal, pg. 201
 
 [^6]: al-Kafi, vol. 1, pg. 341, sec. ‘The Occcultation,’ no. 24
-
 

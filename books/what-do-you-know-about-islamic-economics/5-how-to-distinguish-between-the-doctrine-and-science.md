@@ -13,4 +13,3 @@ from the followed paths of societies, studying their outcomes and
 consequences, just as the naturalist studies the results and effects of,
 say, heat generating.
 
-

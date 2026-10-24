@@ -165,4 +165,3 @@ to the disobedience of some persons (although they were Muslims and they
 believed in Allah, the Prophet, Islam and the Qur'an and their opponents
 were the enemies of Allah and His Prophet).
 
-

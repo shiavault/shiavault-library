@@ -125,4 +125,3 @@ Hermeneias, known by its Latin name, De Interpretatione.
 
 [^3]: See Ihde (1999).
 
-

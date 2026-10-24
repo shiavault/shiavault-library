@@ -42,4 +42,3 @@ and intellect. If in spite of these favors, one remains deaf and mute,
 the Almighty is not to be blamed. The person himself is responsible if
 he does not prefer to derive any benefits from them.
 
-

@@ -46,4 +46,3 @@ F. H. Abdullah
  Founding Member & Trustee  
  Bilal Muslim Mission of Tanzania
 
-

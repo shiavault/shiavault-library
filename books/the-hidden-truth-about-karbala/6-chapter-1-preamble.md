@@ -308,4 +308,3 @@ philosophy behind the Battle of Karbala, in the *Shiite* perspective.
 his opponent, in single combat, introducing himself, his lineage, his
 military exploits, combat acumen and success in earlier wars.
 
-

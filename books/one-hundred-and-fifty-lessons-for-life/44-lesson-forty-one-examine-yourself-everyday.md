@@ -3,11 +3,7 @@ Lesson Forty One: Examine Yourself Everyday
 
 Imam Al-Kadhim (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ مِنّا مَنْ لَمْ يُحاسِبْ نَفْسَهُ كُلَّ يَوْم
-  </p>
-</blockquote>
+> لَيْسَ مِنّا مَنْ لَمْ يُحاسِبْ نَفْسَهُ كُلَّ يَوْم
 
 Translation
 -----------
@@ -30,5 +26,4 @@ his account everyday without exception. If he has done a good deed, he
 tries to continue it, and if he has done evil, he repents for it.
 
 [^1]: Sayings of the Imams, volume one, page 214
-
 

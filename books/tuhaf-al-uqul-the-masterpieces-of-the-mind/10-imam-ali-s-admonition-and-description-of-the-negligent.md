@@ -592,4 +592,3 @@ painful agony and permanent shame.
 43. O Kumayl, thank God for His giving you success and for
 everything.
 
-

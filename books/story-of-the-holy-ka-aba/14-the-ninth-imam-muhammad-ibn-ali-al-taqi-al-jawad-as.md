@@ -388,4 +388,3 @@ in which he could read, write and speak.”
 Someone asked the Imam about the Angels. What are they? The Imam
 replied, “ They are the powers of God that regulate the Universe.”
 
-

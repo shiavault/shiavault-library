@@ -180,4 +180,3 @@ Allah's Messenger (as) then said:
 
 thus, peace be upon you from me"
 
-

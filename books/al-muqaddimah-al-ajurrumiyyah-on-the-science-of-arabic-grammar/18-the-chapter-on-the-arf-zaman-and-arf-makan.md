@@ -71,4 +71,3 @@ the existence of (the preposition) في (“in”), like:
 
 and what is similar to that.
 
-

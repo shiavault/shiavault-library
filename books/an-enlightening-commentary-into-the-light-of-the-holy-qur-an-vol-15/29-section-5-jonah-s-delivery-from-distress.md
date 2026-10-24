@@ -4,23 +4,11 @@ Section 5: Jonah’s Delivery From Distress
 Surah As-Saffat – Verses 139-141
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَبَقَ إِلَي الْفُلْكِ الْمَشْحُونِ
-  </p>
-</blockquote>
+> إِذْ أَبَقَ إِلَي الْفُلْكِ الْمَشْحُونِ
 
-<blockquote dir="rtl">
-  <p>
-فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ
-  </p>
-</blockquote>
+> فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ
 
 ***139. “Verily Jonah was (one) of the Envoys,”***  
 ***140. “When he ran away to the laden ship.”***  
@@ -128,23 +116,11 @@ the lot fell upon his name.
 Surah As-Saffat – Verses 142-144
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ
-  </p>
-</blockquote>
+> فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلآ أَنَّهُ كَانَ مِنَ الْمُسَبّـِحِينَ
-  </p>
-</blockquote>
+> فَلَوْلآ أَنَّهُ كَانَ مِنَ الْمُسَبّـِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-لَلَبِثَ فِي بَطْنِهِ اِلَي يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> لَلَبِثَ فِي بَطْنِهِ اِلَي يَوْمِ يُبْعَثُونَ
 
 ***142. “Then the fish swallowed him while he blamed himself;”***  
 ***143. “So had he not been of those that glorify Allah,”***  
@@ -194,23 +170,11 @@ until the Hereafter.
 Surah As-Saffat – Verses 145-147
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَنَبَذْنَاهُ بِالْعَرَآءِ وَهُوَ سَقِيمٌ
-  </p>
-</blockquote>
+> فَنَبَذْنَاهُ بِالْعَرَآءِ وَهُوَ سَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِن يَقْطِينٍ
-  </p>
-</blockquote>
+> وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِن يَقْطِينٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَرْسَلْنَاهُ إِلَي مِاْئَةِ أَلْفٍ أَوْ يَزِيدُونَ
-  </p>
-</blockquote>
+> وَأَرْسَلْنَاهُ إِلَي مِاْئَةِ أَلْفٍ أَوْ يَزِيدُونَ
 
 ***145. “But We cast him forth on the naked shore while he was
 sick,”***  
@@ -293,11 +257,7 @@ The Qur’an says:
 Surah As-Saffat – Verse 148
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَنُوا فَمَتَّعْنَاهُمْ إِلَي حِينٍ
-  </p>
-</blockquote>
+> فَأَمَنُوا فَمَتَّعْنَاهُمْ إِلَي حِينٍ
 
 ***148. “And they believed, so We gave them enjoyment for a while.”***
 
@@ -330,11 +290,7 @@ of the speaker.
 Surah As-Saffat – Verse 149
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَفْتِهِمْ أَلِرَبّـِكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ
-  </p>
-</blockquote>
+> فَاسْتَفْتِهِمْ أَلِرَبّـِكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ
 
 ***149. “Then ask them whether your Lord has daughters and they have
 sons.”***
@@ -397,23 +353,11 @@ Qur’an: such as Surah An-Najm, No. 53, verses 22-23 where it says:
 Surah As-Saffat – Verses 150-152
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ خَلَقْنَا الْمَلآَئِكَةَ إِنَاثاً وَهُمْ شَاهِدُونَ
-  </p>
-</blockquote>
+> أَمْ خَلَقْنَا الْمَلآَئِكَةَ إِنَاثاً وَهُمْ شَاهِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَلآ إِنَّهُم مّـِنْ إِفْكِهِمْ لَيَقُولُونَ
-  </p>
-</blockquote>
+> أَلآ إِنَّهُم مّـِنْ إِفْكِهِمْ لَيَقُولُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ
 
 ***150. “Or did We create the angels females while they were
 witnesses?”***  
@@ -444,29 +388,13 @@ which has been taken from their certain mental issues and says:
 Surah As-Saffat – Verses 153-156
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَصْطَفَي الْبَنَاتِ عَلَي الْبَنِينَ
-  </p>
-</blockquote>
+> أَصْطَفَي الْبَنَاتِ عَلَي الْبَنِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> مَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَفَلاَ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَفَلاَ تَذَكَّرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَكُمْ سُلْطَانٌ مُبِينٌ
-  </p>
-</blockquote>
+> أَمْ لَكُمْ سُلْطَانٌ مُبِينٌ
 
 ***153. “Has He chosen daughters in preference to sons?”***  
 ***154. “What has happened to you, how is it that you judge?”***  
@@ -506,11 +434,7 @@ former Books. Do you have any clear evidence in this regard?
 Surah As-Saffat – Verse 157
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأْتُوا بِكِتَابِكُمْ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> فَأْتُوا بِكِتَابِكُمْ إِن كُنتُمْ صَادِقِينَ
 
 ***157. “Then bring your book if you are truthful.”***
 
@@ -534,24 +458,12 @@ to another ignorant generation and have no acceptable source.
 Surah As-Saffat – Verses 158-160
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَباً وَلَقَدْ عَلِمَتِ
-الْجِنَّةُ إِنَّهُمْ لَمُـحْضَرُونَ
-  </p>
-</blockquote>
+> وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَباً وَلَقَدْ عَلِمَتِ
+> الْجِنَّةُ إِنَّهُمْ لَمُـحْضَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
-  </p>
-</blockquote>
+> سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
 
 ***158. “And they have set up a kinship between Him and the jinn, while
 the jinn know (quite well) that they shall surely be brought up (to
@@ -651,23 +563,11 @@ the leaders of the religion.
 Surah As-Saffat – Verses 161-163
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّكُمْ وَمَا تَعْبُدُونَ
-  </p>
-</blockquote>
+> فَإِنَّكُمْ وَمَا تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَآ أَنتُمْ عَلَيْهِ بِفَاتِنِينَ
-  </p>
-</blockquote>
+> مَآ أَنتُمْ عَلَيْهِ بِفَاتِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ هُوَ صَالِ الْجَحِيمِ
-  </p>
-</blockquote>
+> إِلاَّ مَنْ هُوَ صَالِ الْجَحِيمِ
 
 ***161. “So verily you and what you worship,”***  
 ***162. “Can never excite (anyone) against Him.”***  
@@ -719,23 +619,11 @@ The Arabic term ***/fatin/*** is an active participle derived from
 Surah As-Saffat – Verses 164-166
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنَّآ إِلاَّ لَهُ مَقَامٌ مَعْلُومٌ
-  </p>
-</blockquote>
+> وَمَا مِنَّآ إِلاَّ لَهُ مَقَامٌ مَعْلُومٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا لَنَحْنُ الصَّآفُّونَ
-  </p>
-</blockquote>
+> وَإِنَّا لَنَحْنُ الصَّآفُّونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا لَنَحْنُ الْمُسَبّـِحُونَ
-  </p>
-</blockquote>
+> وَإِنَّا لَنَحْنُ الْمُسَبّـِحُونَ
 
 ***164. “And (the angels say:) ‘There is not (any one) of us, but for
 him is an assigned place,”***  
@@ -792,23 +680,11 @@ glorify Him.
 Surah As-Saffat – Verses 167-169
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانُوا لَيَقُولُونَ
-  </p>
-</blockquote>
+> وَإِن كَانُوا لَيَقُولُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَنَّ عِندَنَا ذِكْراً مِنَ الأَوَّلِينَ
-  </p>
-</blockquote>
+> لَوْ أَنَّ عِندَنَا ذِكْراً مِنَ الأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-لَكُنَّا عِبَادَ اللَّهِ الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> لَكُنَّا عِبَادَ اللَّهِ الْمُـخْلَصِينَ
 
 ***167. “And verily they used to say:”***  
 ***168. “If we had had but a reminder from the men of old.”***  
@@ -836,11 +712,7 @@ Here are the concerning verses:
 Surah As-Saffat – Verse 170
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَفَرُوا بِهِ فَسَوْفَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَكَفَرُوا بِهِ فَسَوْفَ يَعْلَمُونَ
 
 ***170. “Then they disbelieved in it, so soon they will know.”***
 
@@ -863,23 +735,11 @@ The verse says:
 Surah As-Saffat – Verses 171-173
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ
-  </p>
-</blockquote>
+> إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ
-  </p>
-</blockquote>
+> وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ
 
 ***171. “And certainly Our word has already gone forth for Our servants,
 the apostles:”***  
@@ -925,23 +785,11 @@ whenever they become tired.
 Surah As-Saffat – Verses 174-176
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّ عَنْهُمْ حَتَّي حِينٍ
-  </p>
-</blockquote>
+> فَتَوَلَّ عَنْهُمْ حَتَّي حِينٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
-  </p>
-</blockquote>
+> أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
 
 ***174. “So turn you away from them for a time,”***  
 ***175. “And see them, for they soon shall see (their retribution)”***  
@@ -1003,23 +851,11 @@ They should know that the chastisement of Allah will seize them soon.
 Surah As-Saffat – Verses 177-179
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ الْمُنذَرِينَ
-  </p>
-</blockquote>
+> فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ الْمُنذَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَوَلَّ عَنْهُمْ حَتَّي حِينٍ
-  </p>
-</blockquote>
+> وَتَوَلَّ عَنْهُمْ حَتَّي حِينٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ
 
 ***177. “But when it shall descend in their courtyard, how evil will be
 the morning of them that are warned!”***  
@@ -1075,23 +911,11 @@ and retribution of Allah in Hereafter.
 Surah As-Saffat – Verses 180-182
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ رَبّـِكَ رَبّ‌ِ الْعِزَّةِ عَمَّا يَصِفُونَ
-  </p>
-</blockquote>
+> سُبْحَانَ رَبّـِكَ رَبّ‌ِ الْعِزَّةِ عَمَّا يَصِفُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَسَلاَمٌ عَلَي الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَسَلاَمٌ عَلَي الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَالْحَمْدُ لِلَّهِ رَبّ‌ِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَالْحَمْدُ لِلَّهِ رَبّ‌ِ الْعَالَمِينَ
 
 ***180. “Glory be to your Lord, the Lord of Honour, far above that which
 they ascribe (unto Him).”***  
@@ -1210,5 +1034,4 @@ verse.
 
 [^13]: Majma‘-ul-Bayan, under the verses, Nur-uth-Thaqalayn, Vol. 4, P.
 440
-
 

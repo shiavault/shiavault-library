@@ -395,4 +395,3 @@ Prophet, they think he is bringing a new religion. Some traditions say
 that Imam al-Mahdi will also provide the unique interpretation (Tafsir
 book; divine commentary) for the Quran.
 
-

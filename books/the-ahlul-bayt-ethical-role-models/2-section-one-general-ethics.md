@@ -1,4 +1,3 @@
 Section One: General Ethics
 ===========================
 
-

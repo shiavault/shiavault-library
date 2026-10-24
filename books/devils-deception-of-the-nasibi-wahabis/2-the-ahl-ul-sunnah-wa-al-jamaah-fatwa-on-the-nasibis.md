@@ -187,7 +187,6 @@ to separate the true from the untrue reports, through the standard which
 was declared by the Imam:"Test the various reports by the Book of God;
 whatever agrees with it take it, whatever disagrees with it reject it"
 
-
 "Certainly We revealed the Reminder and certainly We shall preserve
 it." (The Holy Qur'an 15: 9)
 
@@ -338,5 +337,4 @@ that these Nawasib curse the Prophet and hence are kaffir. If the world
 makes these Fatwas the foundation of Islam then no Muslim will remain on
 the earth, because no sect / religion / scholar / leader not even the
 Prophet (s) evades their Takfir Fatwas.
-
 

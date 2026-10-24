@@ -744,41 +744,40 @@ Surely Allah Almighty spoke the truth in His saying:
 Then, is he who goes prone upon his face [like a worm] better guided
 than he who walks upright upon a straight path? (Al-Mulk 67:22)
 
-[^1] Quotations from the Bible are from The NeuJ English Bible,
+[^1]: Quotations from the Bible are from The NeuJ English Bible,
 corrected impression (1972), Cambridge University Press, New York.
 
-[^2] After Christ
+[^2]: After Christ
 
-[^3] William Draper, History of the Conflict Between Religion and
+[^3]: William Draper, History of the Conflict Between Religion and
 Science, pp.34-35.
 
-[^4] Ibid, p. 40.
+[^4]: Ibid, p. 40.
 
-[^5] Ibid. pp. 40-41.
+[^5]: Ibid. pp. 40-41.
 
-[^6] Alfred T. Butler, The Arab Conquest of Egypt, Oxford University
+[^6]: Alfred T. Butler, The Arab Conquest of Egypt, Oxford University
 (1978), p. 29.
 
-[^7] Eirenicon is a statement that attempts to reconcile conflicting
+[^7]: Eirenicon is a statement that attempts to reconcile conflicting
 doctrines.
 
-[^8] I. A. Dorner: A System of Christian Doctrine, vol. iii, pp.
+[^8]: I. A. Dorner: A System of Christian Doctrine, vol. iii, pp.
 215.216. (London, 1885). J. C. Robertson: History of the Christian
 Church, vol. ii, p. 226. (London 1875).
 
-[^9] T. W. Arnold, The Preaching of Islam, Constable and Company, London
+[^9]: T. W. Arnold, The Preaching of Islam, Constable and Company, London
 (1913), pp. 52-54.
 
 [^10]Sahih Al-Bukhari "Kitab Al-Mahazi."
 
-[^11] Kitab Al-Asnam, p. 34
+[^11]: Kitab Al-Asnam, p. 34
 
-[^12] TabaqatAI-Umamby Sa'd. p. 430.
+[^12]: TabaqatAI-Umamby Sa'd. p. 430.
 
-[^13] The concepts, philosophies, and religions that were found after
+[^13]: The concepts, philosophies, and religions that were found after
 Islam, especially the ones on which Western thought and life are based,
 and which are current in Eastern as well as Western countries today, are
 no better than the rubbish heaps of earlier times. We will discuss some
 of these at some other place.
-
 

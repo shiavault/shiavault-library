@@ -134,4 +134,3 @@ However, these monies, in addition to good shares of petrol, go to
 increase the welfare of the American people and the Zionists and to
 support the French franc!
 
-

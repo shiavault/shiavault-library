@@ -336,4 +336,3 @@ perfom pilgrimage of the ^House of Allah." He was succeeded by his son
 Mahdi about whom we shall learn when we discuss the Biography of Imam
 Musa Kadhim (A.S).
 
-

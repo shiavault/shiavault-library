@@ -190,4 +190,3 @@ science from the Bible, and Jews have done the same thing with the Old
 Testament. They, too, consider this to be a sign of validity of their
 book.
 
-

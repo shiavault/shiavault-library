@@ -32,4 +32,3 @@ Article 118
 Looking into the glass of a window or eyeglasses from which the other
 side is visible has no problem.
 
-

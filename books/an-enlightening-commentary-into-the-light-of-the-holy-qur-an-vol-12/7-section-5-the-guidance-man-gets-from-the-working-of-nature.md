@@ -4,18 +4,10 @@ Section 5: The Guidance Man Gets From the Working of Nature
 Surah al-Furqan - Verses 45-46
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاء لَجَعَلَهُ
-سَاكِنًا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاء لَجَعَلَهُ
+> سَاكِنًا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَبَضْنَاهُ إِلَيْنَا قَبْضًا يَسِيرًا
-  </p>
-</blockquote>
+> ثُمَّ قَبَضْنَاهُ إِلَيْنَا قَبْضًا يَسِيرًا
 
 ***45. “Have you not seen (the might of) your Lord, how He extends the
 shadow? And if He had pleased He would certainly have made it
@@ -125,12 +117,8 @@ shade makes life pleasant and possible for man.
 Surah al-Furqan - Verse 47
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا
-وَجَعَلَ النَّهَارَ نُشُورًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا
+> وَجَعَلَ النَّهَارَ نُشُورًا
 
 ***47. “And He it is Who appointed the night for you to be a covering,
 and sleep as a rest, and He appointed the day a rising.”***
@@ -223,19 +211,11 @@ Piety:
 Surah al-Furqan - Verses 48-49
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ
-وَأَنزَلْنَا مِنَ السَّمَاء مَاء طَهُورًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ
+> وَأَنزَلْنَا مِنَ السَّمَاء مَاء طَهُورًا
 
-<blockquote dir="rtl">
-  <p>
-لِنُحْيِيَ بِهِ بَلْدَةً مَّيْتًا وَنُسْقِيَهُ مِمَّا خَلَقْنَا
-أَنْعَامًا وَأَنَاسِيَّ كَثِيرًا
-  </p>
-</blockquote>
+> لِنُحْيِيَ بِهِ بَلْدَةً مَّيْتًا وَنُسْقِيَهُ مِمَّا خَلَقْنَا
+> أَنْعَامًا وَأَنَاسِيَّ كَثِيرًا
 
 ***48. “And He it is Who sends the winds as heralds of glad tidings
 going before His Mercy (rain), and We send down pure water from the
@@ -357,12 +337,8 @@ of clouds, lessening of heat, and fecundation of plants.
 Surah al-Furqan - Verse 50
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَرَّفْنَاهُ بَيْنَهُمْ لِيَذَّكَّرُوا فَأَبَى أَكْثَرُ
-النَّاسِ إِلاَ كُفُورًا
-  </p>
-</blockquote>
+> وَلَقَدْ صَرَّفْنَاهُ بَيْنَهُمْ لِيَذَّكَّرُوا فَأَبَى أَكْثَرُ
+> النَّاسِ إِلاَ كُفُورًا
 
 ***50. “And indeed We have distributed it amongst them so that they may
 remember (Allah), but most of mankind are averse (to aught) save
@@ -402,17 +378,9 @@ ancient people.
 Surah al-Furqan - Verses 51-52
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شِئْنَا لَبَعَثْنَا فِي كُلِّ قَرْيَةٍ نَذِيرًا
-  </p>
-</blockquote>
+> وَلَوْ شِئْنَا لَبَعَثْنَا فِي كُلِّ قَرْيَةٍ نَذِيرًا
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تُطِعِ الْكَافِرِينَ وَجَاهِدْهُم بِهِ جِهَادًا كَبِيرًا
-  </p>
-</blockquote>
+> فَلاَ تُطِعِ الْكَافِرِينَ وَجَاهِدْهُم بِهِ جِهَادًا كَبِيرًا
 
 ***51. “And if We had pleased certainly We would have raised up a warner
 in every town.”***  
@@ -489,12 +457,8 @@ qualities of which were referred to in the previous verses.
 Surah al-Furqan - Verse 53
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ هَذَا عَذْبٌ فُرَاتٌ وَهَذَا
-مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ هَذَا عَذْبٌ فُرَاتٌ وَهَذَا
+> مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
 
 ***53. “And He it is Who had made the two seas join and flow together,
 one palatable and sweet, and the other salt and bitter; and between the
@@ -584,12 +548,8 @@ impure deeds, but they do not get mixed.
 Surah al-Furqan - Verse 54
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاء بَشَرًا فَجَعَلَهُ نَسَبًا
-وَصِهْرًا وَكَانَ رَبُّكَ قَدِيرًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاء بَشَرًا فَجَعَلَهُ نَسَبًا
+> وَصِهْرًا وَكَانَ رَبُّكَ قَدِيرًا
 
 ***54. “And He it is Who has created man from water, then He made him
 related in blood and in wedlock; and your Lord is ever Powerful.”***
@@ -705,12 +665,8 @@ the Qur’an says:
 Surah al-Furqan - Verse 55
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لاَ يَنفَعُهُمْ وَلاَ يَضُرُّهُمْ
-وَكَانَ الْكَافِرُ عَلَى رَبِّهِ ظَهِيرًا
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لاَ يَنفَعُهُمْ وَلاَ يَضُرُّهُمْ
+> وَكَانَ الْكَافِرُ عَلَى رَبِّهِ ظَهِيرًا
 
 ***55. “And they worship besides Allah (things) which neither profit
 them nor harm them; and the infidel is a helper (of aberration) against
@@ -750,11 +706,7 @@ everywhere which includes all disbelievers.
 Surah al-Furqan - Verse 56
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلاَّ مُبَشِّرًا وَنَذِيرًا
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلاَّ مُبَشِّرًا وَنَذِيرًا
 
 ***56. “And We did not sent you but a bearer of glad tidings and a
 warner.”***
@@ -783,12 +735,8 @@ persons.
 Surah al-Furqan - Verse 57
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلاَّ مَن شَاء أَن
-يَتَّخِذَ إِلَى رَبِّهِ سَبِيلًا
-  </p>
-</blockquote>
+> قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلاَّ مَن شَاء أَن
+> يَتَّخِذَ إِلَى رَبِّهِ سَبِيلًا
 
 ***57. “Say: ‘I do not ask you a wage for it (my ministry) except for
 him who wishes to choose a way unto his Lord’.”***
@@ -840,12 +788,8 @@ sake of some indirect or direct reward.
 Surah al-Furqan - Verse 58
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لاَ يَمُوتُ وَسَبِّحْ بِحَمْدِهِ
-وَكَفَى بِهِ بِذُنُوبِ عِبَادِهِ خَبِيرًا
-  </p>
-</blockquote>
+> وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لاَ يَمُوتُ وَسَبِّحْ بِحَمْدِهِ
+> وَكَفَى بِهِ بِذُنُوبِ عِبَادِهِ خَبِيرًا
 
 ***58. “And rely on the (Ever) living One Who dies not, and celebrate
 with His praise, and sufficient is He as being aware of the faults of
@@ -948,13 +892,9 @@ of one who pins all his hopes on the world.”*[^16]
 Surah al-Furqan - Verse 59
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ
-أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ الرَّحْمَنُ فَاسْأَلْ بِهِ
-خَبِيرًا
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ
+> أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ الرَّحْمَنُ فَاسْأَلْ بِهِ
+> خَبِيرًا
 
 ***59. “(He) Who created the heavens and the earth and what is between
 them in six Days, then He established Himself on ‘Arsh (the Throne of
@@ -1033,12 +973,8 @@ wants, seems more probable.
 Surah al-Furqan - Verse 60
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ اسْجُدُوا لِلرَّحْمَنِ قَالُوا وَمَا الرَّحْمَنُ
-أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ اسْجُدُوا لِلرَّحْمَنِ قَالُوا وَمَا الرَّحْمَنُ
+> أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا
 
 ***60. “And when it is said to them: ‘Prostrate you to Rahman (The
 Beneficent Allah), they say: ‘And what is Rahman (the Beneficent Allah)?
@@ -1152,5 +1088,4 @@ Surah Al-Anbiyā, No. 21, verse 30.
 [^16]: Kanz ul-‘Ummāl, Vol. 3, P. 103
 
 [^17]: Surah Ash-Shu‘arā, No. 26, verse 23
-
 

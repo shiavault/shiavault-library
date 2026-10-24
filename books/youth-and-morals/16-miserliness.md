@@ -255,4 +255,3 @@ guidance will remain in the trap of materialism, deprivation and misery.
 
 [^11]: Furu al-Kafi v.4, p. 38
 
-

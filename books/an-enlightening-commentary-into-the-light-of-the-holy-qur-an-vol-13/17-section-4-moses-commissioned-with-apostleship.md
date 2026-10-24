@@ -4,14 +4,10 @@ Section 4: Moses Commissioned with Apostleship
 Surah Al-Qasas - Verse 29
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا قَضَي مُوسَي الأَجَلَ وَسَارَ بأَهْلِهِ ءَانَسَ مِن جَانِبِ
-الطُّورِ نَاراً قَالَ لاَهْلِهِ امْكُثُوا إِنّـِي ءَانَسْتُ نَاراً
-لَعَلّـِي ءَاتِيكُم مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ
-لَعَلَّكُمْ تَصْطَلُونَ
-  </p>
-</blockquote>
+> فَلَمَّا قَضَي مُوسَي الأَجَلَ وَسَارَ بأَهْلِهِ ءَانَسَ مِن جَانِبِ
+> الطُّورِ نَاراً قَالَ لاَهْلِهِ امْكُثُوا إِنّـِي ءَانَسْتُ نَاراً
+> لَعَلّـِي ءَاتِيكُم مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ
+> لَعَلَّكُمْ تَصْطَلُونَ
 
 ***29. “So when Moses had fulfilled the term, and he journeyed with his
 family, he observed a fire in the direction of Mount Tur. He said to his
@@ -118,13 +114,9 @@ delivery, and Moses was also anxious from this point of view.
 Surah Al-Qasas - Verse 30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَتَاهَا نُودِيَ مِن شَاطِئِ الْوَادِ الاَيْمَنِ فِي
-الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ أَن يَامُوسَي إِنّـِي
-أَنَا اللَّهُ رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَلَمَّآ أَتَاهَا نُودِيَ مِن شَاطِئِ الْوَادِ الاَيْمَنِ فِي
+> الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ أَن يَامُوسَي إِنّـِي
+> أَنَا اللَّهُ رَبُّ الْعَالَمِينَ
 
 ***30. “Then when he came to it (he) was called (by a voice) from the
 right side of the valley, in the blessed spot, from the tree, saying: ‘O
@@ -173,13 +165,9 @@ Allah (s.w.t.), not other than Him.
 Surah Al-Qasas - Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ أَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ
-وَلَّي مُدْبِراً وَلَمْ يُعَقّـِبْ يَامُوسَي أَقْبِلْ وَلاَ تَخَفْ
-إِنَّكَ مِنَ الأَمِنِينَ
-  </p>
-</blockquote>
+> وَأَنْ أَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ
+> وَلَّي مُدْبِراً وَلَمْ يُعَقّـِبْ يَامُوسَي أَقْبِلْ وَلاَ تَخَفْ
+> إِنَّكَ مِنَ الأَمِنِينَ
 
 ***31. “And saying: ‘Cast down your staff.’ So when he saw it in motion
 as if it were a serpent, he turned back retreating, and did not return.
@@ -236,21 +224,13 @@ is no room for any fear and scare.
 Surah Al-Qasas - Verses 32-33
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اسْلُكْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوءٍ
-وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ فَذَانِكَ بُرْهَانَان مِن
-رَّبّـِكَ إِلَي فِرْعَوْنَ وَمَلَئِهِ إِنَّهُمْ كَانُوا قَوْماً
-فَاسِقِينَ
-  </p>
-</blockquote>
+> اسْلُكْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوءٍ
+> وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ فَذَانِكَ بُرْهَانَان مِن
+> رَّبّـِكَ إِلَي فِرْعَوْنَ وَمَلَئِهِ إِنَّهُمْ كَانُوا قَوْماً
+> فَاسِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ إِنّـِي قَتَلْتُ مِنْهُمْ نَفْساً فَاَخَافُ أَن
-يَقْتُلُونِ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ إِنّـِي قَتَلْتُ مِنْهُمْ نَفْساً فَاَخَافُ أَن
+> يَقْتُلُونِ
 
 ***32. “(Now) enter your hand into the your bosom, and it will come
 forth white (radiant) without evil, and draw your arm to yourself to
@@ -321,20 +301,12 @@ they would slay me’.”***
 Surah Al-Qasas - Verses 34-35
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَخِي هَارُونَ هُوَ أَفْصَحُ مِنّـِي لِسَاناً فَاَرْسِلْهُ مَعِيَ
-رِدْءاً يُصَدّ‌ِقُنِي إِنّـِي أَخَافُ أَن يُكَذّ‌ِبُونِ
-  </p>
-</blockquote>
+> وَأَخِي هَارُونَ هُوَ أَفْصَحُ مِنّـِي لِسَاناً فَاَرْسِلْهُ مَعِيَ
+> رِدْءاً يُصَدّ‌ِقُنِي إِنّـِي أَخَافُ أَن يُكَذّ‌ِبُونِ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَنَشُدُّ عَضُدَكَ بِاَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَاناً فَلاَ
-يَصِلُونَ إِلَيْكُمَا بِاَيَاتِنَآ أَنتُمَا وَمَنِ اتَّبَعَكُمَا
-الْغَالِبُونَ
-  </p>
-</blockquote>
+> قَالَ سَنَشُدُّ عَضُدَكَ بِاَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَاناً فَلاَ
+> يَصِلُونَ إِلَيْكُمَا بِاَيَاتِنَآ أَنتُمَا وَمَنِ اتَّبَعَكُمَا
+> الْغَالِبُونَ
 
 ***34. “And my brother Aaron, he is more eloquent in speech than I, so
 send him with me as an assistant, to testify me, surely I fear that they
@@ -394,13 +366,9 @@ explained later through some other topics of this story.
 Surah Al-Qasas - Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءهُم مُّوسَي بِاَيَاتِنَا بَيّـِنَاتٍ قَالُوا مَا هَذَا
-إِلاَّ سِحْرٌ مُفْتَرًي وَمَا سَمِعْنَا بِهَذَا فِي ءَابَآئِنَا
-الاَوَّلِينَ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءهُم مُّوسَي بِاَيَاتِنَا بَيّـِنَاتٍ قَالُوا مَا هَذَا
+> إِلاَّ سِحْرٌ مُفْتَرًي وَمَا سَمِعْنَا بِهَذَا فِي ءَابَآئِنَا
+> الاَوَّلِينَ
 
 ***36. “So when Moses came to them with Our clear signs, they said:
 ‘This is nothing but a forged sorcery, and we never heard of it amongst
@@ -475,13 +443,9 @@ to such invitations, too.
 Surah Al-Qasas - Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ مُوسَي رَبّـِي أَعْلَمُ بِمَن جَآءَ بِالْهُدَي مِنْ عِندِهِ
-وَمَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لاَ يُفْلِحُ
-الْظَّالِمُونَ
-  </p>
-</blockquote>
+> وَقَالَ مُوسَي رَبّـِي أَعْلَمُ بِمَن جَآءَ بِالْهُدَي مِنْ عِندِهِ
+> وَمَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لاَ يُفْلِحُ
+> الْظَّالِمُونَ
 
 ***37. “And Moses said: ‘My Lord knows best who comes with guidance from
 unto Him, and whose end will be best in the Hereafter, verily the unjust
@@ -538,14 +502,10 @@ in this world and the Hereafter.
 Surah Al-Qasas - Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ فِرْعَوْنُ يَآ أَيُّهَا الْمَلأُ مَا عَلِمْتُ لَكُم مِنْ
-إِلَهٍ غَيْرِي فَأَوْقِدْ لِي يَا هامَانُ عَلَي الطّـِينِ فَاجْعَل لِي
-صَرْحاً لَعَلّـِي أَطَّلِعُ إِلَي إِلَهِ مُوسَي وإِنّـِي لأَظُنُّهُ
-مِنَ الْكَاذِبِينَ
-  </p>
-</blockquote>
+> وَقَالَ فِرْعَوْنُ يَآ أَيُّهَا الْمَلأُ مَا عَلِمْتُ لَكُم مِنْ
+> إِلَهٍ غَيْرِي فَأَوْقِدْ لِي يَا هامَانُ عَلَي الطّـِينِ فَاجْعَل لِي
+> صَرْحاً لَعَلّـِي أَطَّلِعُ إِلَي إِلَهِ مُوسَي وإِنّـِي لأَظُنُّهُ
+> مِنَ الْكَاذِبِينَ
 
 ***38. “And Pharaoh said: ‘O Chiefs! No god do I know for you but
 myself; therefore, O’ Haman, light me a fire upon the clay, and build
@@ -658,12 +618,8 @@ those words.
 Surah Al-Qasas - Verse 39
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الاَرْضِ بِغَيْرِ الْحَقّ‌ِ
-وَظَنُّوا أَنَّهُمْ إِلَيْنَا لاَ يُرْجَعُونَ
-  </p>
-</blockquote>
+> وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الاَرْضِ بِغَيْرِ الْحَقّ‌ِ
+> وَظَنُّوا أَنَّهُمْ إِلَيْنَا لاَ يُرْجَعُونَ
 
 ***39. “And he and his hosts prided in the land without any right, and
 they thought that they would not be returned unto Us.”***
@@ -695,12 +651,8 @@ Fire.”*[^6]
 Surah Al-Qasas - Verse 40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمّ‌ِ فَانظُرْ
-كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمّ‌ِ فَانظُرْ
+> كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ
 
 ***40. “So We seized him and his hosts, and We cast them into the sea;
 behold then how was the end of the unjust.”***
@@ -738,19 +690,11 @@ because the tyrants of today will have the same fate, too.
 Surah Al-Qasas - Verses 41-42
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَي النَّارِ وَيَوْمَ
-الْقِيَامَةِ لاَ يُنصَرُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَي النَّارِ وَيَوْمَ
+> الْقِيَامَةِ لاَ يُنصَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ
-هُم مِنَ الْمَقْبُوحِينَ
-  </p>
-</blockquote>
+> وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ
+> هُم مِنَ الْمَقْبُوحِينَ
 
 ***41. “And We appointed them leaders who invite unto the (Hell) Fire
 and on the Day of Judgment they shall not be helped.”***  
@@ -909,5 +853,4 @@ Tafsir-i-Al-Mizan, following the verse.
 [^13]: Surah Hud, No. 11, verse 98
 
 [^14]: Nahj-ul-Balaqah, Sermon 210
-
 

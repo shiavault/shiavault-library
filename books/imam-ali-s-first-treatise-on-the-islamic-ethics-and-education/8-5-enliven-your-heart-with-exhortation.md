@@ -1,11 +1,7 @@
 5) Enliven Your Heart with Exhortation
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-احيي قلبك بالموعظة""
-  </p>
-</blockquote>
+> احيي قلبك بالموعظة""
 
 Exhortation is a discourse which gets people emotionally involved and
 guides man by warning him of the consequences of his evil–doing.
@@ -18,13 +14,9 @@ He writes, "As it is written in the Qur’an,[^1] exhortation is one of
 the three ways of calling people to Islam (wisdom, exhortation,
 disputation):
 
-<blockquote dir="rtl">
-  <p>
-"ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
-بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ"
-  </p>
-</blockquote>
+> "ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
+> بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ"
 
 The Best Preachers And The Most Excellent Sermons
 -------------------------------------------------
@@ -76,11 +68,7 @@ The Prophet (S) has said
 
 :
 
-<blockquote dir="rtl">
-  <p>
-كَفَى بِالمَوتِ وَاعِظا
-  </p>
-</blockquote>
+> كَفَى بِالمَوتِ وَاعِظا
 
 *"Death is sufficient as an admonisher."*[^5]
 
@@ -141,12 +129,8 @@ of the reasons why the Holy Qur’an swears by the Time or “*wa’l ‘Asr*”
 Imam ‘Ali (as), considering the time as the best advice-giver and
 teacher, emphasizes the point at issue:
 
-<blockquote dir="rtl">
-  <p>
-"اَبلَغُ نَاصِحٍ لَكَ الدُّنيا لَو اِنتَصحْتَ بِمَا تُرِيكَ مِن
-تَغايُرِ الحَالاتِ وَتُؤذِنُكَ بِالبَينِ وَالشَتَاتِ"
-  </p>
-</blockquote>
+> "اَبلَغُ نَاصِحٍ لَكَ الدُّنيا لَو اِنتَصحْتَ بِمَا تُرِيكَ مِن
+> تَغايُرِ الحَالاتِ وَتُؤذِنُكَ بِالبَينِ وَالشَتَاتِ"
 
 *"The world is the most effective counselor for you if you accept its
 advice in what it shows you of the changing conditions and what it
@@ -161,14 +145,10 @@ Noushirvan's castle which was in a dilapidated state.
 Imam ‘Ali (as) said: “Why do you not read Surah al-Dukhan's verses 25-29
 from the Qur’an which say:
 
-<blockquote dir="rtl">
-  <p>
-"كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
-وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا
-آخَرِينَ فَمَا بَكَتْ عَلَيْهِمْ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا
-مُنظَرِينَ"
-  </p>
-</blockquote>
+> "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
+> وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا
+> آخَرِينَ فَمَا بَكَتْ عَلَيْهِمْ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا
+> مُنظَرِينَ"
 
 ***"How many of the gardens and fountains have they left? And cornfields
 and noble places! And goodly things wherein they rejoiced; thus it was,
@@ -189,53 +169,29 @@ In ethics and advice as well, our experience is the best friend and
 agent for adopting the right way and avoiding the improper methods. In
 this regard, Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"كَفَى بِالتَجَارِبِ مُؤدِّباً"
-  </p>
-</blockquote>
+> "كَفَى بِالتَجَارِبِ مُؤدِّباً"
 
 (i) *Experiences are sufficient for teaching the rules of ethics*;
 
-<blockquote dir="rtl">
-  <p>
-"كَفَى عِظَةً لِذَوِي الاَلبَابِ مَا جَرَّبُوا"
-  </p>
-</blockquote>
+> "كَفَى عِظَةً لِذَوِي الاَلبَابِ مَا جَرَّبُوا"
 
 (ii) *Experiences are the best source of advice for the wise*;
 
-<blockquote dir="rtl">
-  <p>
-"في كُلِّ تَجرِبَةٍ مَوعِظَةٌ"
-  </p>
-</blockquote>
+> "في كُلِّ تَجرِبَةٍ مَوعِظَةٌ"
 
 (iii) *There is a lesson in every experience*;
 
-<blockquote dir="rtl">
-  <p>
-"خَيرُ مَا جَرَّبتَ مَا وَعَظَكَ"
-  </p>
-</blockquote>
+> "خَيرُ مَا جَرَّبتَ مَا وَعَظَكَ"
 
 (iv) *The best of experiences is that which admonishes you*;
 
-<blockquote dir="rtl">
-  <p>
-"العَاقِلُ مَن وَعَظَتهُ التَجَارِبُ"
-  </p>
-</blockquote>
+> "العَاقِلُ مَن وَعَظَتهُ التَجَارِبُ"
 
 (v) *The wise man is he who gets advice from his experiences*.[^11]
 
 It is on the basis of such observations that the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"لا يُلدَغُ المُؤمِنُ مِن جُحْرٍ مَرَّتَينِ"
-  </p>
-</blockquote>
+> "لا يُلدَغُ المُؤمِنُ مِن جُحْرٍ مَرَّتَينِ"
 
 *"A believer is not bitten twice from the same hole."*[^12]
 
@@ -250,12 +206,8 @@ from the 14 infallible ones (as).
 a)"Say: I exhort you only to one thing, that rise up for Allah's sake in
 twos and singly." [^13]
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلَّهِ مَثْنَى
-وَفُرَادَى"
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلَّهِ مَثْنَى
+> وَفُرَادَى"
 
 As you will notice, God exhorts people, in this verse, only to one
 thing: that is, rise up only for God's sake, not for other
@@ -360,11 +312,7 @@ in transitory pleasures.
 Imam Hasan (as) then recited this verse from Surah al-Baqarah, verse
 197:
 
-<blockquote dir="rtl">
-  <p>
-"وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى"
-  </p>
-</blockquote>
+> "وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى"
 
 ***"And make provision, for surely the best provision is the guarding of
 oneself" [Qur’an 2:197].***
@@ -459,26 +407,18 @@ talebearer."[^23]
 
 **j)** Imam Musa al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"إِجتَهِدُوا في اَن يَكُونَ زَمَانُكُم اَربَعَ سَاعَاتٍ: سَاعَةٌ
-لِمُنَاجَاتِ الله وَسَاعَةٌ لاَمرِ المَعاشِ وَسَاعَةٌ لِمُعَاشَرَةِ
-الاخوَانِ وَالثُقاتِ الَّذِينَ يُعَرِّفُونَكُم عُيوبَكُم وَيُخلِصُونَ
-لَكُم في البَاطِنِ، وَسَاعَةٌ تخلونَ فِيهَا لِلذَّاتِكُم في غَيرِ
-مَحَرَّم وَبِهذِهِ السَّاعَةِ تَقدِرُونَ على الثَلاثِ سَاعات. لا
-تُحَدِّثُوا اَنفُسَكُم بِفَقرٍ وَلا بِطُولِ عُمرٍ فَاِنَّه مَن حَدَّثَ
-نَفسَهُ بِالفَقْرِ بَخِلَ وَمَن حَدَّثَها بِطُولِ العُمُرِ يَحرِص.
-  </p>
-</blockquote>
+> "إِجتَهِدُوا في اَن يَكُونَ زَمَانُكُم اَربَعَ سَاعَاتٍ: سَاعَةٌ
+> لِمُنَاجَاتِ الله وَسَاعَةٌ لاَمرِ المَعاشِ وَسَاعَةٌ لِمُعَاشَرَةِ
+> الاخوَانِ وَالثُقاتِ الَّذِينَ يُعَرِّفُونَكُم عُيوبَكُم وَيُخلِصُونَ
+> لَكُم في البَاطِنِ، وَسَاعَةٌ تخلونَ فِيهَا لِلذَّاتِكُم في غَيرِ
+> مَحَرَّم وَبِهذِهِ السَّاعَةِ تَقدِرُونَ على الثَلاثِ سَاعات. لا
+> تُحَدِّثُوا اَنفُسَكُم بِفَقرٍ وَلا بِطُولِ عُمرٍ فَاِنَّه مَن حَدَّثَ
+> نَفسَهُ بِالفَقْرِ بَخِلَ وَمَن حَدَّثَها بِطُولِ العُمُرِ يَحرِص.
 
-<blockquote dir="rtl">
-  <p>
-اِجعَلُوا لاَنفُسِكُم حَظّاً مِنَ الدُّنيا بِاعطَائِها مَا تَشتَهِي
-مِنَ الحَلالِ وَمَا لا يَثْلِم المُروَّةِ وَمَا لا سَرَفَ فِيهِ
-وَاستَعِينُوا بِذَلِكَ على اُمورِ الدِّينِ فاِنَّه رُويَ: «لَيسَ مِنّا
-مَن تَرَكَ دُنيَاهُ لِدِينِهِ او تَرَكَ دَينَهُ لِدُنيَاهُ»"
-  </p>
-</blockquote>
+> اِجعَلُوا لاَنفُسِكُم حَظّاً مِنَ الدُّنيا بِاعطَائِها مَا تَشتَهِي
+> مِنَ الحَلالِ وَمَا لا يَثْلِم المُروَّةِ وَمَا لا سَرَفَ فِيهِ
+> وَاستَعِينُوا بِذَلِكَ على اُمورِ الدِّينِ فاِنَّه رُويَ: «لَيسَ مِنّا
+> مَن تَرَكَ دُنيَاهُ لِدِينِهِ او تَرَكَ دَينَهُ لِدُنيَاهُ»"
 
 *“Strive to divide your time into four portions: one fourth to pray God,
 one fourth to earn your sustenance, one fourth to be in the company of
@@ -642,5 +582,4 @@ drunk or mad.
 [^28]: . Tuhaf al-‘Uqul, p.488; Bihar, vol.78, p.273.
 
 [^29]: . Bihar, vol.78, p.380.
-
 

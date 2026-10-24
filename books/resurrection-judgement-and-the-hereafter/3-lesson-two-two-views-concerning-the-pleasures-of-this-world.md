@@ -296,4 +296,3 @@ eternity and an imperishable realm across a span of infinite time. The
 narrow vision of human knowledge is incapable of fully comprehending the
 lofty destiny of such a man.
 
-

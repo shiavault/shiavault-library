@@ -10,11 +10,7 @@ Surah An-Nisa', Chapter 4, Introduction
 Introduction to the Surah
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -54,5 +50,4 @@ their worldly advantages, they will enjoy of all these rewards in the
 Hereafter.
 
 [^1]: Majma'-ul-Bayan, vol. 3, p. 1
-
 

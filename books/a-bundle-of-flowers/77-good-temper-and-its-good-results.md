@@ -43,4 +43,3 @@ Heaven most of all are godliness, and a good temper."
 
 Al-Kafi, vol. 2, p. 100
 
-

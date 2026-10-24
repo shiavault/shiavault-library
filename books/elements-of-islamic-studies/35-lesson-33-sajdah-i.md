@@ -82,4 +82,3 @@ Imams (A.S.). If they have a clear intention to do *sajdah* of thanks
 (*sajdah al-shukr*) for Allah, it is alright. Otherwise, it is
 *haraam*."
 
-

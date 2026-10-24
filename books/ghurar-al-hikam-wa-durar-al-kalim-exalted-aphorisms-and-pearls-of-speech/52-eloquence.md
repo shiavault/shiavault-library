@@ -33,4 +33,3 @@ tongue.
 [^1]: Meaning: eloquence is that which is easily spoken and easily
 understood.
 
-

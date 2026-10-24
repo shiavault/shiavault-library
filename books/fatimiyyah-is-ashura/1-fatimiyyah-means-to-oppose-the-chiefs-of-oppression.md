@@ -19,12 +19,8 @@ These people are individuals whom God, the Most High, had created the
 entire world of existence for, just as the Messenger of God, peace be
 upon him and his family, had stated:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لاَ نَحْنُ مَا خَلَقَ اللهُ آدَمَ وَ لاَ حَوَّاءَ وَ لاَ
-الْجَنَّةَ وَ لاَ النَّارَ وَ لاَ السَّمَآءَ وَ لاَ الأَرْضَ
-  </p>
-</blockquote>
+> لَوْ لاَ نَحْنُ مَا خَلَقَ اللهُ آدَمَ وَ لاَ حَوَّاءَ وَ لاَ
+> الْجَنَّةَ وَ لاَ النَّارَ وَ لاَ السَّمَآءَ وَ لاَ الأَرْضَ
 
 *Had it not been for us (the Prophet and the Ahlul Bayt), God would not
 have created Adam nor Eve nor the paradise nor the hell-fire nor the sky
@@ -34,11 +30,7 @@ In addition, the Commander of the Faithful, peace be upon him, had
 written the following in his letter to Muʿawiyah in regards to the
 status of the *Ahlul Bayt*, peace be upon them:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ صَنَائِعُ رَبِّنَا وَ النَّاسُ بَعْدُ صَنَائِعُ لَنَا
-  </p>
-</blockquote>
+> فَإِنَّ صَنَائِعُ رَبِّنَا وَ النَّاسُ بَعْدُ صَنَائِعُ لَنَا
 
 The wordings of this passage are extremely important.[^3] There are some
 people who claim that the meaning of this statement is that *“The people
@@ -51,22 +43,14 @@ Muhammad and the family of Muhammad, peace be upon all of them.”*
 There is also a sacred tradition *(hadith al-qudsi)* in which God has
 said:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقْتُكَ لِأَجْلِي
-  </p>
-</blockquote>
+> خَلَقْتُكَ لِأَجْلِي
 
 *I created you (Muhammad – and as an extension the Ahlul Bayt) for*
 ***Me*** *(God).*[^4]
 
 In yet another tradition we read:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لاَكَ مَا خَلَقْتُ الأَفْلاَكَ
-  </p>
-</blockquote>
+> لَوْ لاَكَ مَا خَلَقْتُ الأَفْلاَكَ
 
 *Had it not been for you (Muhammad) I (God) would not have created the
 entire universe.*[^5]
@@ -86,11 +70,7 @@ elevated and superior [than everything else in existence]. Of course the
 Noble Prophet, peace be upon him and his family, expresses his own
 inability [to reach the level of truly ‘knowing’ God] and openly states:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَرَفْنَاكَ حَقَّ مَعْرِفَتِكَ
-  </p>
-</blockquote>
+> مَا عَرَفْنَاكَ حَقَّ مَعْرِفَتِكَ
 
 *We fell short in truly recognizing You as You deserve to be known.*
 
@@ -103,11 +83,7 @@ Rather, we see that everything is contained with the teachings which
 emanate from the *Ahlul Bayt*, peace be upon them and it is for this
 reason that the Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي تَارِكٌ فِيكُمُ الثَّقَلَينِ كِتَابَ اللهِ وَ عِتْرَتِي
-  </p>
-</blockquote>
+> إِنِّي تَارِكٌ فِيكُمُ الثَّقَلَينِ كِتَابَ اللهِ وَ عِتْرَتِي
 
 *I leave behind you two weighty things – the book of God [Qur’an] and my
 family [the Ahlul Bayt].*
@@ -123,11 +99,7 @@ you stay behind, you will be destroyed.”*
 
 He, peace be upon him and his family, also said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُعَلِّمُوهُمْ فَإِنَّهُمْ أَعْلَمُ مِنْكُمْ
-  </p>
-</blockquote>
+> لاَ تُعَلِّمُوهُمْ فَإِنَّهُمْ أَعْلَمُ مِنْكُمْ
 
 *Do not seek to teach them (Ahlul Bayt) as they are more knowledgeable
 than all of you.*
@@ -137,11 +109,7 @@ upon her, enjoys a distinct pivotal role and significance. When the
 *Ahlul Bayt*, peace be upon them, are introduced, she is placed in the
 midst of them all, as we read:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ فَاطِمَةُ وَ أَبُوهَا وَ بَعْلُهَا وَ بَنُوهَا
-  </p>
-</blockquote>
+> هُمْ فَاطِمَةُ وَ أَبُوهَا وَ بَعْلُهَا وَ بَنُوهَا
 
 *They [those who are under the cloak during the revelation of 33:33] are
 Fatima and* ***her*** *father and* ***her*** *husband and* ***her***
@@ -179,11 +147,7 @@ his family, Umm Salama, blessings of God be upon her, was not permitted
 to partake in the sacred event in instead, the Prophet, peace be upon
 him and his family, told her:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكِ عَلىٰ الْخَيْرِ
-  </p>
-</blockquote>
+> إِنَّكِ عَلىٰ الْخَيْرِ
 
 *You (Umm Salama) are on [a path of] goodness.*
 
@@ -211,11 +175,7 @@ be in such situations, [our women] must ensure to [properly] cover and
 safe-guard their modesty – so what can be said about that woman whose
 status has been described as:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ تَعَالىٰ يَغْضِبَ لِغَضَبِ فَاطِمَةَ وَ يَرْضىٰ لِرِضَاهَا
-  </p>
-</blockquote>
+> إِنَّ اللهَ تَعَالىٰ يَغْضِبَ لِغَضَبِ فَاطِمَةَ وَ يَرْضىٰ لِرِضَاهَا
 
 *Indeed God, the Most High, becomes angry with the anger of Fatima and
 is pleased at her pleasure.*
@@ -245,12 +205,8 @@ illustrative, thrashing and ineffaceable sermon keeping in mind that he
 [ʿAli b. Abi Talib, peace be upon him] is the same person who has
 pronounced:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لَأُمَرَآءُ الْكَلاَمِ وَ فِينَا تَنَشَّبَتْ عُرُوقُهُ وَ
-عَلَيْنَا تَهَدَّلَتْ غُصُونُهُ
-  </p>
-</blockquote>
+> إِنَّا لَأُمَرَآءُ الْكَلاَمِ وَ فِينَا تَنَشَّبَتْ عُرُوقُهُ وَ
+> عَلَيْنَا تَهَدَّلَتْ غُصُونُهُ
 
 *Certainly, we are the masters of speaking. Its veins are fixed in us
 and its branches are hanging over us...*[^8]
@@ -274,11 +230,7 @@ Of course, the greatness of this lady [which has been mentioned in the
 Islamic sources] is numerous – just reflect on the famous Prophetic
 tradition in which he, peace be upon him and his family, said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ تَعَالىٰ يَغْضِبَ لِغَضَبِ فَاطِمَةَ وَ يَرْضىٰ لِرِضَاهَا
-  </p>
-</blockquote>
+> إِنَّ اللهَ تَعَالىٰ يَغْضِبَ لِغَضَبِ فَاطِمَةَ وَ يَرْضىٰ لِرِضَاهَا
 
 *Indeed God, the Most High, becomes angry with the anger of Fatima and
 is pleased at her pleasure.*[^10]
@@ -293,11 +245,7 @@ We can also consider the tradition in which the Noble Prophet, peace be
 upon him and his family, whenever he wished to console and reassure his
 daughter Sayyidah Fatima, peace be upon her, would tell her:
 
-<blockquote dir="rtl">
-  <p>
-أَبْشِرِي يَا فَاطِمَةَ إِنَّ الْمَهْدِيَّ مِنْكِ
-  </p>
-</blockquote>
+> أَبْشِرِي يَا فَاطِمَةَ إِنَّ الْمَهْدِيَّ مِنْكِ
 
 *I give you the glad tidings O Fatima! Indeed al-Mahdi is from
 you.*[^11]
@@ -344,17 +292,9 @@ she faced and also the protests which she raised in regards to what
 befell her. When she spoke and addressed her noble father, she said the
 following words:
 
-<blockquote dir="rtl">
-  <p>
-قد كان بعدك أنباء و هنبثة لو كنت شاهدها لو يكثر الخطب
-  </p>
-</blockquote>
+> قد كان بعدك أنباء و هنبثة لو كنت شاهدها لو يكثر الخطب
 
-<blockquote dir="rtl">
-  <p>
-أنا فقدناك فقد الأرض وأبها فاختل قومك فاشهدهم و لا تغب
-  </p>
-</blockquote>
+> أنا فقدناك فقد الأرض وأبها فاختل قومك فاشهدهم و لا تغب
 
 *Shortly after you such troubles and incidents came up, that if you had
 been alive they would not have increased; your death upon us is similar
@@ -364,12 +304,8 @@ it.*
 
 He then says:
 
-<blockquote dir="rtl">
-  <p>
-الهنبثة واحدة الهنابت و هي الأمور الشداد المختلفة و أشار إلى عتبها على
-أبي بكر: إنها خرجت في لمة من نسائها تتوطأ ذيلها إلى أبي بكر فعاتبته.
-  </p>
-</blockquote>
+> الهنبثة واحدة الهنابت و هي الأمور الشداد المختلفة و أشار إلى عتبها على
+> أبي بكر: إنها خرجت في لمة من نسائها تتوطأ ذيلها إلى أبي بكر فعاتبته.
 
 \*\*\*
 
@@ -440,12 +376,8 @@ is to make supplication with complete humility and penitence to God, the
 Most High, for the hastening of the advent of the dear child of Fatima,
 Imam al-Mahdi, may Allah hasten his noble advent.
 
-<blockquote dir="rtl">
-  <p>
-أللهم عَجِّلْ فَرَجَهُ الشَّرِيفِ وَ اجْعَلْنَا مِنْ أَعْوَانِهِ وَ
-أَنْصَارِهِ وَ الْمُسْتَشْهَدِينَ بَيْنَ يَدَيهِ
-  </p>
-</blockquote>
+> أللهم عَجِّلْ فَرَجَهُ الشَّرِيفِ وَ اجْعَلْنَا مِنْ أَعْوَانِهِ وَ
+> أَنْصَارِهِ وَ الْمُسْتَشْهَدِينَ بَيْنَ يَدَيهِ
 
 *O God! Hasten his noble advent and make us amongst his helpers and his
 assistants and allow us to sacrifice our lives in his presence!* 
@@ -480,5 +412,4 @@ this article. (Tr.)
 [^10]: Ṣaḥīfa Imām al-Riḍā, peace be upon him, pg. 45, tradition 22
 
 [^11]: Al-Burhān of Muttaqī al-Hindī, page 94
-
 

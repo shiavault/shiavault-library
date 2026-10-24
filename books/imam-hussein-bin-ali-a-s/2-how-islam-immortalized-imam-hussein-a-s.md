@@ -161,7 +161,6 @@ took the arms of Hassan and Hussein and said, 'Whoever loves me and
 loves these two and their father, he will certainly be with me on the
 Day of Judgement.'"(9)
 
-
 **Aspects Of His Character**
 
 In our latest booklet (10) we referred to the fact that the characters
@@ -381,5 +380,4 @@ occupies the center of original, serene Islam. Should the dear reader
 tend to know more about Imam Hussein (a.s.), he can refer to the books
 which dealt with his life. He will find out himself how deep and great
 were Imam Hussein's (a.s.) thought and faith.(22)
-
 

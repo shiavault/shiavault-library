@@ -28,4 +28,3 @@ of this booklet.
 Qom, Amiral Mu’minin School  
  Nasir Makarim Shirazi
 
-

@@ -5,12 +5,8 @@ This *Dua* is obedience of *Ulil Amr* and it is the best thing through
 which people can seek proximity to the court of the Almighty Allah.
 Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***“O you who believe! obey Allah and obey the Apostle and those in
 authority from among you.” (Qur’an, Surah Nisa 4:59)***
@@ -129,5 +125,4 @@ early reappearance, for therein lies your success…”
 [^3]: Tafseer Burhan; Vol. 1, Pg. 384
 
 [^4]: Kafi; Vol. 1, Pg. 187
-
 

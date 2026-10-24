@@ -79,4 +79,3 @@ gives a name to any person or thing, that name serves as a symbol for
 the recognition of that person or thing. If any person is named Zayd,
 people can recognize him by that name.
 
-

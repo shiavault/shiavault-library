@@ -40,4 +40,3 @@ A specific atonement had been defined for killing any desert animals.
 But because today this act is not common, we abstain from mentioning
 that matter in order not to lengthen the discussion.
 
-

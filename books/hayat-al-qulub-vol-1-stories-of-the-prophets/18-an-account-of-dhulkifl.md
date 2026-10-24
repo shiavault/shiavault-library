@@ -88,4 +88,3 @@ live and die according to Allah’s desire. Allah revealed that your
 community was not knowing what was better for them. After that they were
 dying according to Allah’s will.
 
-

@@ -75,4 +75,3 @@ She answered: 'Alaik-as-Salam, Messenger of Allah.'
 He (Prophet Muhammad (S)) repeated the request for permission to enter
 the house with me, and she gave us permission."
 
-

@@ -146,4 +146,3 @@ Seeing the fate of the enemies of Ahlebait really gratified me and we
 resumed our journey saying, -O God, give them such a punishment from
 which even the dwellers of Hell would wish that they were freed."
 
-

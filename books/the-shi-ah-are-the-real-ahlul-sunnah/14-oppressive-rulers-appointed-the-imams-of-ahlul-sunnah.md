@@ -151,4 +151,3 @@ that are in the breasts. (Holy Qur'an, 22:46)***
 
 [^1]: This is recorded on p. 170 of Abu Zuhra's book Ahmad ibn Hanbal.
 
-

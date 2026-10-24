@@ -595,4 +595,3 @@ magazines (Tr.)
 
 [^5]: Unfortunately it was never published.
 
-

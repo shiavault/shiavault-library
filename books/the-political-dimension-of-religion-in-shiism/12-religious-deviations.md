@@ -456,29 +456,28 @@ Sermon 197
 [^7] Ayatullah Murtaza Mutahheri, Man and Universe, p.95
 [^8] Al-Allamah as-Sayyid Muhammad Husayn at-Tabatabai, Al- Mizan, vol.
 3 pp. 167,168
-[^9] Ayatullah Murtaza Mutahheri, Man and Universe , p.85
-[^10] Originally known as Torath Yahveh (instruction or moral law
+[^9]: Ayatullah Murtaza Mutahheri, Man and Universe , p.85
+[^10]: Originally known as Torath Yahveh (instruction or moral law
 revealed by Yahveh) or Yirath
 Yahveh (the fear and reverence of Yahveh (Allah)
-[^11] Bible - Old Testament - Jer. 7:30,31
-[^12] Sir James Goldsmith, 1989 Adam Smith Lecture, London., as reported
+[^11]: Bible - Old Testament - Jer. 7:30,31
+[^12]: Sir James Goldsmith, 1989 Adam Smith Lecture, London., as reported
 in The Roman Chronicle
 Bolton, England, No. 57, December 1989.
-[^13] Imam Ali, Nahjol Balagha, Sermon 79.
-[^14] Dr. W.A. Visser 't Hooft, No Other Name: The Choice Between
+[^13]: Imam Ali, Nahjol Balagha, Sermon 79.
+[^14]: Dr. W.A. Visser 't Hooft, No Other Name: The Choice Between
 Syncretism and Christian
 Universalism, p.11.
-[^15] F. Thorn, Gorbachev's Politics of Religion, The Salibury Review,
+[^15]: F. Thorn, Gorbachev's Politics of Religion, The Salibury Review,
 England, Spt. 1988, p.46.
-[^16] Resolution 3379 (1975) qualified Zionism as a form of racism. This
+[^16]: Resolution 3379 (1975) qualified Zionism as a form of racism. This
 was revoked by resolution 4686
 in 1989.
-[^17] Al-Musannif, vol 11, p.371; Also found in Sahih Muslim and Sahih
+[^17]: Al-Musannif, vol 11, p.371; Also found in Sahih Muslim and Sahih
 Bukhari
-[^18] Sunan Abu Dawud, Vol.4, p.107
-[^19] Bihar-ul-Anwar, vol.52, p.129
-[^20] Musnad-I-Ahmad-ibn-Hanbal, vol.2p.83, vol. 3, p.446, vol.4,p.96;
+[^18]: Sunan Abu Dawud, Vol.4, p.107
+[^19]: Bihar-ul-Anwar, vol.52, p.129
+[^20]: Musnad-I-Ahmad-ibn-Hanbal, vol.2p.83, vol. 3, p.446, vol.4,p.96;
 Sahih Bukhari vol.5,p.13;
 Sahih Muslim vol.6,p.21, no.1849.
-
 

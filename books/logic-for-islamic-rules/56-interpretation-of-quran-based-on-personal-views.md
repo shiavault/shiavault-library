@@ -94,8 +94,8 @@ this Tafseer, it was a student of his who had written it.
 
  correct but Ashariah as a whole it constitutes *Al-Tafseer bir-Ray*.
 
-At the end of the 13<sup>th</sup> century and the beginning of the
-14<sup>th</sup> century this trend became common and discoveries and
+At the end of the 13th century and the beginning of the
+14th century this trend became common and discoveries and
 inventions threw up new sciences. On the basis of this a new basis of
 *Al-Tafseer bir-Ray* came into being for Muslim commentator and the
 interpretation of verses dealing with supernatural things like soul,

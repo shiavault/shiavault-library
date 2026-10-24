@@ -40,4 +40,3 @@ perfection of character, you have to start the spiritual journey – in
 right direction. Distance of goals is not an excuse to sit idle on the
 road-side: rather, it is a challenge.
 
-

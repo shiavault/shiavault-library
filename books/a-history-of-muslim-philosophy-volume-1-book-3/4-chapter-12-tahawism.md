@@ -898,4 +898,3 @@ Sa’adah, Hyderabad, 1328/1910, Vol. II, p. 29.
 [^72]: Some books on theology were written by Muhammad al‑Shaibani,
 al‑Hasan b. Ziyad and Zufar b. Hudhail‑all pupils of Abu Hanifah.
 
-

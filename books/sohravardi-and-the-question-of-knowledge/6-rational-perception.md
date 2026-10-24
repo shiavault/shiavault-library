@@ -48,4 +48,3 @@ existence. Here we must distinguish between logical concepts which are
 only in minds and philosophical concepts which describe external reality
 (see Secondary Intelligible, chapter 2).
 
-

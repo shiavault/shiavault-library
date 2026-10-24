@@ -71,7 +71,6 @@ cries: /wa oabura/ which means: 'woe to me.'
 
 [^1] Majma'-ul-Bayan, following the verse
 
-
 **Commentary : Verse 14**
 
 14. لاَ تَدْعُوا الْيَوْمَ ثُبُوراً وَاحِداً وَادْعُوا ثُبُوراً
@@ -170,5 +169,4 @@ boiling fetid water (blood mixed with filth)."[^3]
 [^2] Muhajjat-ul-Bayza, Vol. 8, p. 356
 
 [^3] Bihar, Vol. 8, p. 208, taken from Nahj-ul-Balaqah
-
 

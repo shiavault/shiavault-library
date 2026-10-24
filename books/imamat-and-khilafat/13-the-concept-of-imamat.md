@@ -569,4 +569,3 @@ to Khadijah and 'Ayishah.
 39. Imam Ali (AS) is reported to have said so. (Safinat ul Bihar, vol.
 2)
 
-

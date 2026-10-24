@@ -97,4 +97,3 @@ Prophet, a Siddiq and a martyr. (Vol. 5, Book 57, Number 35)
 
 [^7]: - Umda al-Qari, vol. 1, p. 8,
 
-

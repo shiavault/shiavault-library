@@ -29,4 +29,3 @@ Bibliography
 
 14. Yan’a bi‘ al-Mawwadah, Sulayman ibn Ibrahim Qanduzi
 
-

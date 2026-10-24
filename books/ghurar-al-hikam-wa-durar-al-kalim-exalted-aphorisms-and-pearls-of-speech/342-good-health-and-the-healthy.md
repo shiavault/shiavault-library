@@ -36,4 +36,3 @@ anything other than the afflictions of illness?!
 
 > 8ـ لاتُنالُ الصِّحَّةُ إلاّ بِالْحِمْيَةِ.
 
-

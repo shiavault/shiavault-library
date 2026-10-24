@@ -793,4 +793,3 @@ al-lst'iab etc.
 [^19]: Ibn Hisham has given another version of the embracement of Islam
 by Umar. (vol. I, page 368)
 
-

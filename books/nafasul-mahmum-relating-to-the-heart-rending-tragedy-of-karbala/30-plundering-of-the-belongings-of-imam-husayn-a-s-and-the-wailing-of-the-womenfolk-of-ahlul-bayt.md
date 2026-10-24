@@ -93,4 +93,3 @@ your heart consent when you killed the son of the Prophet of Allah (S),
 how could you crush his chest which was a treasury of the ‘Righteous
 Knowledge’”?
 
-

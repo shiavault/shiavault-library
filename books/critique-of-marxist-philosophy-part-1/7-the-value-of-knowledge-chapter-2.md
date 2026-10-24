@@ -203,4 +203,3 @@ perception relates to the stage of conception. By failing to recognize
 the difference between concepts and judgements, it makes it impossible
 to move in the direction of objectivity.
 
-

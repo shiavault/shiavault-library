@@ -128,4 +128,3 @@ external self gains strength."
 May Allah bless our master Muhammad, the Prophet of Makkan origin and
 upon his pure progeny, and salutations.
 
-

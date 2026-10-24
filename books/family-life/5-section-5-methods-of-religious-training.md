@@ -57,4 +57,3 @@ them hijab, fasting and other such rules are really a great burden this,
 will discourage the child.  
   
 
-

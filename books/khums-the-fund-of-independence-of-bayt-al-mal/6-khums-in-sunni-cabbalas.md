@@ -20,12 +20,8 @@ which are acceptable for all of them.
 A) It has been quoted in “Sunan of Beihaghi[^1]” from Abu Harira that
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-فى الرّکاز الخمس قیل و ما الرّکاز یا رسول اللّه؟ قال الذّهب و الفضّة
-الّذى خلقه اللّه فى الارض یوم خلقت.
-  </p>
-</blockquote>
+> فى الرّکاز الخمس قیل و ما الرّکاز یا رسول اللّه؟ قال الذّهب و الفضّة
+> الّذى خلقه اللّه فى الارض یوم خلقت.
 
 *There is Khums in Rekaz, a person who was there asked: What is Rekaz?
 Prophet (S) answered: “Mines of gold and silver which Allah has been
@@ -79,13 +75,9 @@ to send some people to my tribe in order to invite them to Islam, and
 please write a letter for them, may Allah guide them all. Prophet (S)
 ordered to write this letter:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرّحمن الرّحیم من محمّد رسول الله الی الاقیال من حضرموت
-باقام الصّلوة و ایتاء الزٌکوة و الصّدقة علی التیعة و لصاحبها التیمة و
-فی السّیوب الخمس و فی البعل العشر.
-  </p>
-</blockquote>
+> بسم الله الرّحمن الرّحیم من محمّد رسول الله الی الاقیال من حضرموت
+> باقام الصّلوة و ایتاء الزٌکوة و الصّدقة علی التیعة و لصاحبها التیمة و
+> فی السّیوب الخمس و فی البعل العشر.
 
 ***In the name of Allah the Compassionate the Merciful***  
 *From Muhammad, prophet of Allah to chieftains of Hadhramut,*  
@@ -133,5 +125,4 @@ other evidences.
 [^6]: Usd Al-Ghaba, vol. 3, page 38.
 
 [^7]: Al-Aghd Al-Fareed, vol. 2, page 48, printed by Ismaelian.
-
 

@@ -25,12 +25,8 @@ these things.
 
 Imam al-Mahdi (ajtf) wrote the following to his followers:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ آذَانَا جُهَلاَءُ الشِّيْعَةِ وَ حُمَقَائُهُمْ وَ مَنْ دِينُهُ
-جَنَاحُ الْبَعُوضَةِ أَرْحَجُ مِنْهُ
-  </p>
-</blockquote>
+> قَدْ آذَانَا جُهَلاَءُ الشِّيْعَةِ وَ حُمَقَائُهُمْ وَ مَنْ دِينُهُ
+> جَنَاحُ الْبَعُوضَةِ أَرْحَجُ مِنْهُ
 
 “Surely the ignorant and foolish Shi’as have upset us and the person
 whose faith is (as weak as) the wing of a gnat is better than one of
@@ -38,5 +34,4 @@ them (the ignorant Shi’as).”[^1]
 
 [^1]: Biharul Anwar, vol. 25, pg. 266, sec. 10, no. 9; al-Ihtijaj
 (Tabrisi), pg. 473
-
 

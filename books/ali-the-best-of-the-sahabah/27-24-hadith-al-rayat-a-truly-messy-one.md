@@ -3,19 +3,11 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-قال الرافضي والرابع أنه كان أشجع الناس....
-  </p>
-</blockquote>
+> قال الرافضي والرابع أنه كان أشجع الناس....
 
-<blockquote dir="rtl">
-  <p>
-والجواب أنه لا ريب أن عليا رضي الله عنه كان من شجعان الصحابة ... أما
-قوله إنه كان أشجع الناس فهذا كذب بل كان أشجع الناس رسول الله صلى الله
-عليه و سلم
-  </p>
-</blockquote>
+> والجواب أنه لا ريب أن عليا رضي الله عنه كان من شجعان الصحابة ... أما
+> قوله إنه كان أشجع الناس فهذا كذب بل كان أشجع الناس رسول الله صلى الله
+> عليه و سلم
 
 The Rafidhi said: “The fourth (point) is that he (‘Ali) was the bravest
 of mankind....
@@ -34,13 +26,9 @@ the Messenger of Allah” is automatically implied. Similar expressions
 can be found in these words of Sa’d b. Abi Waqqas, a very senior Sahabi,
 as documented by Imam al-Hakim (d. 403 H):
 
-<blockquote dir="rtl">
-  <p>
-يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم ألم يكن أول من
-صلى مع رسول الله صلى الله عليه وسلم ألم يكن ازهد الناس ألم يكن أعلم
-الناس؟
-  </p>
-</blockquote>
+> يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم ألم يكن أول من
+> صلى مع رسول الله صلى الله عليه وسلم ألم يكن ازهد الناس ألم يكن أعلم
+> الناس؟
 
 “O you! On what basis do you curse ‘Ali b. Abi Talib? Is he not the
 first to accept Islam? Is he not the first to perform *Salat* with the
@@ -49,21 +37,13 @@ mankind? Is he not the most knowledgeable of mankind?**”[^2]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^3]
 
 Al-Dhahabi (d. 748 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^4]
 
@@ -73,14 +53,10 @@ the Shaykh himself makes absolutely no attempt to claim Abu Bakr or
 battle. Rather, he re-defines the word “bravery”, and then plays a new
 card:
 
-<blockquote dir="rtl">
-  <p>
-والشجاعة تفسر بشيئين أحدهما قوة القلب وثباته عند المخاوف والثاني شدة
-القتال بالبدن بأن يقتل كثيرا ويقتل قتلا عظيما والأول هو الشجاعة وأما
-الثاني فيدل على قوة البدن وعمله وليس كل من كان قوي البدن كان قوي القلب
-ولا بالعكس
-  </p>
-</blockquote>
+> والشجاعة تفسر بشيئين أحدهما قوة القلب وثباته عند المخاوف والثاني شدة
+> القتال بالبدن بأن يقتل كثيرا ويقتل قتلا عظيما والأول هو الشجاعة وأما
+> الثاني فيدل على قوة البدن وعمله وليس كل من كان قوي البدن كان قوي القلب
+> ولا بالعكس
 
 And “bravery” is explained with two things. **One of them is strength of
 the heart, and its firmness in the face of fear**. The second is great
@@ -95,13 +71,9 @@ who firmly faces multiple enemy fighters in battle, and kills them is
 not brave at all. He is only “physically strong”. Our Shaykh justifies
 his new definition in this manner:
 
-<blockquote dir="rtl">
-  <p>
-والنبي صلى الله عليه و سلم كان أكمل الناس في هذه الشجاعة التي هي
-المقصودة في أئمة الحرب ولم يقتل بيده إلا أبي بن خلف قتله يوم أحد ولم
-يقتل بيده أحدا لا قبلها ولا بعدها وكان أشجع من جميع الصحابة
-  </p>
-</blockquote>
+> والنبي صلى الله عليه و سلم كان أكمل الناس في هذه الشجاعة التي هي
+> المقصودة في أئمة الحرب ولم يقتل بيده إلا أبي بن خلف قتله يوم أحد ولم
+> يقتل بيده أحدا لا قبلها ولا بعدها وكان أشجع من جميع الصحابة
 
 The Prophet, peace be upon him, was the most perfect of mankind in this
 type of bravery (i.e. of the heart) which was what was expected in the
@@ -129,12 +101,8 @@ in battle?
 But then, what exactly does Shaykh Ibn Taymiyyah want us to pick from
 his incongruous definition? He minces no words about it:
 
-<blockquote dir="rtl">
-  <p>
-وإذا كانت الشجاعة المطلوبة من الأئمة بشجاعة القلب فلا ريب أن أبا بكر
-كان أشجع من عمر وعمر أشجع من عثمان وعلي
-  </p>
-</blockquote>
+> وإذا كانت الشجاعة المطلوبة من الأئمة بشجاعة القلب فلا ريب أن أبا بكر
+> كان أشجع من عمر وعمر أشجع من عثمان وعلي
 
 Since the type of bravery that is required from the rulers is the
 bravery of the heart, then there is no doubt that Abu Bakr was braver
@@ -153,20 +121,16 @@ trio’s relative battle redundancy!
 Then comes the big question, and Shaykh Ibn Taymiyyah makes another
 attempt:
 
-<blockquote dir="rtl">
-  <p>
-وأما قوله ما انهزم قط فهو في ذلك كأبي بكر وعمر وطلحة والزبير وغيرهم من
-الصحابة رضي الله عنهم فالقول في أنه ما انهزم كالقول في أن هؤلاء ما
-انهزموا قط ولم يعرف لأحد من هؤلاء هزيمة وإن كان قد وقع شيء في الباطن
-ولم ينقل فيمكن أن عليا وقع منه مالم ينقل والمسلمون كانت لهم هزيمتان
-يوم أحد ويوم حنين ولم ينقل أن أحدا من هؤلاء انهزم بل المذكور في السير
-والمغازي أن أبا بكر وعمر ثبتا مع النبي صلى الله عليه و سلم يوم أحد
-ويوم حنين ولم ينهزما مع من انهزم ومن نقل أنهما انهزما يوم حنين فكذبه
-معلوم وإنما الذي انهزم يوم أحد عثمان وقد عفا الله عنه وما نقل من
-انهزام أبي بكر وعمر بالراية يوم حنين فمن الأكاذيب المختلقة التي
-افتراها المفترون
-  </p>
-</blockquote>
+> وأما قوله ما انهزم قط فهو في ذلك كأبي بكر وعمر وطلحة والزبير وغيرهم من
+> الصحابة رضي الله عنهم فالقول في أنه ما انهزم كالقول في أن هؤلاء ما
+> انهزموا قط ولم يعرف لأحد من هؤلاء هزيمة وإن كان قد وقع شيء في الباطن
+> ولم ينقل فيمكن أن عليا وقع منه مالم ينقل والمسلمون كانت لهم هزيمتان
+> يوم أحد ويوم حنين ولم ينقل أن أحدا من هؤلاء انهزم بل المذكور في السير
+> والمغازي أن أبا بكر وعمر ثبتا مع النبي صلى الله عليه و سلم يوم أحد
+> ويوم حنين ولم ينهزما مع من انهزم ومن نقل أنهما انهزما يوم حنين فكذبه
+> معلوم وإنما الذي انهزم يوم أحد عثمان وقد عفا الله عنه وما نقل من
+> انهزام أبي بكر وعمر بالراية يوم حنين فمن الأكاذيب المختلقة التي
+> افتراها المفترون
 
 As for his (i.e. the Shi’i scholar’s) statement that he (‘Ali) NEVER
 fled (the battlefield), then he was, in this (merit), like Abu Bakr,
@@ -213,14 +177,10 @@ the battlefields repeatedly on different occasions. It did not happen
 once, twice or thrice. Rather, on several occasions of battle, the trio
 fled away, as documented by Imam Muslim (d. 261 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن أبي بكر المقدمي وحامد بن عمر البكراوي ومحمد بن عبدالأعلى
-قالوا حدثنا المعتمر (وهو ابن سليمان) قال سمعت أبي عن أبي عثمان قال لم
-يبق مع رسول الله صلى الله عليه و سلم في بعض تلك الأيام التي قاتل فيهن
-رسول الله صلى الله عليه و سلم غير طلحة وسعد عن حديثهما
-  </p>
-</blockquote>
+> حدثنا محمد بن أبي بكر المقدمي وحامد بن عمر البكراوي ومحمد بن عبدالأعلى
+> قالوا حدثنا المعتمر (وهو ابن سليمان) قال سمعت أبي عن أبي عثمان قال لم
+> يبق مع رسول الله صلى الله عليه و سلم في بعض تلك الأيام التي قاتل فيهن
+> رسول الله صلى الله عليه و سلم غير طلحة وسعد عن حديثهما
 
 Muhammad b. Abi Bakr al-Muqaddami, Hamid b. ‘Umar al-Bakrawi and
 Muhammad b. ‘Abd al-A’la – al-Mu’tamar (and he is Ibn Sulayman) – father
@@ -240,14 +200,10 @@ notorious runner on that day was ‘Uthman. Shaykh Ibn Taymiyyah himself
 admits this. Nonetheless, this is an explicit *hadith* from *Sahih
 al-Bukhari* confirming his flight:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا موسى بن إسماعيل حدثنا أبو عوانة حدثنا عثمان هو ابن موهب قال: جاء
-رجل من أهل مصر وحج البيت فرأى قوما جلوسا فقال من هؤلاء القوم ؟ فقالوا
-هؤلاء قريش قال فمن الشيخ فيهم؟ قالوا عبد الله بن عمر قال يا ابن عمر
-إني سائلك عن شيء فحدثني هل تعلم أن عثمان فر يوم أحد ؟ قال نعم .
-  </p>
-</blockquote>
+> حدثنا موسى بن إسماعيل حدثنا أبو عوانة حدثنا عثمان هو ابن موهب قال: جاء
+> رجل من أهل مصر وحج البيت فرأى قوما جلوسا فقال من هؤلاء القوم ؟ فقالوا
+> هؤلاء قريش قال فمن الشيخ فيهم؟ قالوا عبد الله بن عمر قال يا ابن عمر
+> إني سائلك عن شيء فحدثني هل تعلم أن عثمان فر يوم أحد ؟ قال نعم .
 
 Musa b. Isma’il – Abu ‘Awanah – ‘Uthman b. Muhib:
 
@@ -260,12 +216,8 @@ to ask you about something; please tell me about it. **Do you know that
 
 Referring to this ugly incident, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-إذ تصعدون ولا تلوون على أحد والرسول يدعوكم في أخراكم فأثابكم غما بغم
-لكيلا تحزنوا على ما فاتكم ولا ما أصابكم والله خبير بما تعملون
-  </p>
-</blockquote>
+> إذ تصعدون ولا تلوون على أحد والرسول يدعوكم في أخراكم فأثابكم غما بغم
+> لكيلا تحزنوا على ما فاتكم ولا ما أصابكم والله خبير بما تعملون
 
 (And remember) when you ran away (dreadfully) without even casting a
 side glance at anyone, and the Messenger was in your rear calling you
@@ -280,12 +232,8 @@ indeed a great flight, and a great tragedy!
 On the Day of Hunayn (8 AH) too, the Sahabah fled away again! This is
 referred to by Allah in His Book:
 
-<blockquote dir="rtl">
-  <p>
-لقد نصركم الله في مواطن كثيرة ويوم حنين إذ أعجبتكم كثرتكم فلم تغن عنكم
-شيئا وضاقت عليكم الأرض بما رحبت ثم وليتم مدبرين
-  </p>
-</blockquote>
+> لقد نصركم الله في مواطن كثيرة ويوم حنين إذ أعجبتكم كثرتكم فلم تغن عنكم
+> شيئا وضاقت عليكم الأرض بما رحبت ثم وليتم مدبرين
 
 Truly, Allah has helped you on many battlefields, **and on the Day of
 Hunayn** when you rejoiced at your great number but it availed you
@@ -296,17 +244,13 @@ The statement is general. Therefore, everyone fled except whoever there
 is concrete evidence clearing him. ‘Umar, in particular, was one of the
 runners on that day. Imam al-Bukhari (d. 256 H) records:
 
-<blockquote dir="rtl">
-  <p>
-وقال الليث حدثني يحيى بن سعيد عن عمر بن كثير بن أفلح عن أبي محمد مولى
-أبي قتادة أن أبا قتادة قال لما كان حنين نظرت إلى رجل من المسلمين يقاتل
-رجلا من المشركين وآخر من المشركين يختله من ورائه ليقتله فأسرعت إلى
-الذي يختله فرفع يده ليضربني وأضرب يده فقطعتها ثم أخذني فضمني ضما شديدا
-حتى تخوفت ثم ترك فتحلل ودفعته ثم قتلته وانهزم المسلمون وانهزمت معهم
-فإذا بعمر بن الخطاب في الناس فقلت له ما شأن الناس؟ قال أمر الله ثم
-تراجع الناس إلى رسول الله صلى الله عليه و سلم
-  </p>
-</blockquote>
+> وقال الليث حدثني يحيى بن سعيد عن عمر بن كثير بن أفلح عن أبي محمد مولى
+> أبي قتادة أن أبا قتادة قال لما كان حنين نظرت إلى رجل من المسلمين يقاتل
+> رجلا من المشركين وآخر من المشركين يختله من ورائه ليقتله فأسرعت إلى
+> الذي يختله فرفع يده ليضربني وأضرب يده فقطعتها ثم أخذني فضمني ضما شديدا
+> حتى تخوفت ثم ترك فتحلل ودفعته ثم قتلته وانهزم المسلمون وانهزمت معهم
+> فإذا بعمر بن الخطاب في الناس فقلت له ما شأن الناس؟ قال أمر الله ثم
+> تراجع الناس إلى رسول الله صلى الله عليه و سلم
 
 Al-Layth – Yahya b. Sa’id – ‘Umar b. Kathir b. Aflah – Abu Muhammad,
 freed slave of Abu Qatadah – Abu Qatadah:
@@ -338,13 +282,9 @@ including himself – were obeying “the command” of Allah. We searched the
 Qur’an and *ahadith* to locate this “command”. But, we came up with
 nothing like it. Rather, this is what we read:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا إذا لقيتم الذين كفروا زحفا فلا تولوهم الأدبار ومن
-يولهم يومئذ دبره إلا متحرفا لقتال أو متحيزا إلى فئة فقد باء بغضب من
-الله ومأواه جهنم وبئس المصير
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا إذا لقيتم الذين كفروا زحفا فلا تولوهم الأدبار ومن
+> يولهم يومئذ دبره إلا متحرفا لقتال أو متحيزا إلى فئة فقد باء بغضب من
+> الله ومأواه جهنم وبئس المصير
 
 O you who believe! When you meet those who disbelieve, in a battlefield,
 **never flee from them**. And whoever flees away on such a day – unless
@@ -397,5 +337,4 @@ Kathir; 3rd edition, 1407 H) [annotator: Dr. Mustafa Dib al-Bagha], vol.
 4, p. 1570, \# 4067
 
 [^14]: Qur’an 8:15-16
-
 

@@ -11,4 +11,3 @@ Ibn Sa'ads army. They in return threw stones at him until they broke his
 arm and then they came and took him to Shimr who killed him. Some say
 his name was Hilal Ibn Nafi'i.
 
-

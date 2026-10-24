@@ -11,11 +11,7 @@ Sustenance And One Who Seeks It
 believing servants except [in places] from where they least expect it.
 
 > 2ـ إنَّ اللّهَ سُبْحانَهُ أبى أنْ يَجْعَلَ أرزاقَ عِبادِهِ
-<blockquote dir="rtl">
-  <p>
-المُؤْمِنينَ إلاّ مِنْ حَيثُ لايَحتَسِبُونَ.
-  </p>
-</blockquote>
+> المُؤْمِنينَ إلاّ مِنْ حَيثُ لايَحتَسِبُونَ.
 
 3. Assistance comes down from Allah to the extent of the provisions
 [that are required for sustenance].
@@ -79,11 +75,7 @@ it.
 animals and foolish ones would not live.
 
 > 15ـ لَوْ جَرَتِ الأرْزاقُ بِالألبابِ والعُقُولِ لَمْ تَعِشِ البَهائِمُ
-<blockquote dir="rtl">
-  <p>
-وَالحَمْقى.
-  </p>
-</blockquote>
+> وَالحَمْقى.
 
 16. One who is [too] concerned about his next day’s sustenance will
 never be successful.
@@ -103,11 +95,7 @@ important to you than the action which has been made obligatory upon you
 to perform.
 
 > 19ـ لايَكُنِ المَضْمُونُ لَكَ طَلَبُهُ أَوْلى بِكَ مِنَ المَفْرُوضِ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ عَمَلُهُ.
-  </p>
-</blockquote>
+> عَلَيْكَ عَمَلُهُ.
 
 20. Do not let the worry of the day which has not come upon you bear on
 the day which has [already] come upon you, for indeed if it will be from
@@ -116,13 +104,9 @@ in it and if it is not from your lifetime then what worry do you have
 for that which is not for you?!
 
 > 20ـ لاتَحْمِل هَمَّ يَوْمِكَ الَّذي لَمْ يَأتِكَ على يَوْمِكَ الَّذي
-<blockquote dir="rtl">
-  <p>
-قَدأتاكَ، فَإنَّهُ إنْ يَكُنْ مِنْ عُمْرِكَ يَأتِكَ اللّهُ سُبْحانَهُ
-فيهِ بِرِزقِكَ وإنْ لَمْ يَكُنْ مِنْ عُمْرِكَ فَما هَمُّكَ بِما لَيْسَ
-مِنْ أجَلِكَ.
-  </p>
-</blockquote>
+> قَدأتاكَ، فَإنَّهُ إنْ يَكُنْ مِنْ عُمْرِكَ يَأتِكَ اللّهُ سُبْحانَهُ
+> فيهِ بِرِزقِكَ وإنْ لَمْ يَكُنْ مِنْ عُمْرِكَ فَما هَمُّكَ بِما لَيْسَ
+> مِنْ أجَلِكَ.
 
 21. Sustenance is not acquired by toiling [for it].[^1]
 
@@ -137,21 +121,13 @@ except the Sustainer.
 be moderate in what you seek.
 
 > 23ـ يَطْلُبُكَ رِزْقُكَ أشَدَّ مِنْ طَلَبِكَ لَهُ فَأَجمِلْ في
-<blockquote dir="rtl">
-  <p>
-طَلَبِهِ.
-  </p>
-</blockquote>
+> طَلَبِهِ.
 
 24. Be moderate in what you seek, for how many greedy people have been
 disappointed and how many who are moderate have not been unsuccessful!
 
 > 24ـ أجْمِلُوا فِي الطَّلَبِ، فَكَمْ مِنْ حَريص خائب،و مُجْمِل لَم
-<blockquote dir="rtl">
-  <p>
-يَخِبْ.
-  </p>
-</blockquote>
+> يَخِبْ.
 
 25. Sustenance seeks the one who does not seek it.
 
@@ -172,12 +148,8 @@ yourself the trouble of the wretchedness of greed and the humiliation of
 seeking [from others]; trust in Allah and take it easy in your earning.
 
 > 28ـ إنَّكَ مُدْرِكٌ قِسْمَكَ، ومَضْمُونٌ رِزْقَكَ، ومُسْتَوْف ما
-<blockquote dir="rtl">
-  <p>
-كُتِبَ لَكَ، فَأَرِحْ نَفْسَكَ مِنْ شَقاءِ الحِرْصِ، ومَذَلَّةِ
-الطَّلَبِ، وثِقْ بِاللّهِ، وخَفِّضْ فِي المُكْتَسَبِ.
-  </p>
-</blockquote>
+> كُتِبَ لَكَ، فَأَرِحْ نَفْسَكَ مِنْ شَقاءِ الحِرْصِ، ومَذَلَّةِ
+> الطَّلَبِ، وثِقْ بِاللّهِ، وخَفِّضْ فِي المُكْتَسَبِ.
 
 29. Be satisfied and you will be relaxed.
 
@@ -212,13 +184,8 @@ is not [decreed] for you, so why are you making yourself miserable O
 wretched one?!
 
 > 35ـ إنَّكَ لَسْتَ بِسابِق أجَلَكَ ولا بِمَرْزُوقِ ما لَيْسَ لَكَ
-<blockquote dir="rtl">
-  <p>
-فَلِما ذا تُشْقي نَفْسَكَ يا شَقِيُّ.
-  </p>
-</blockquote>
+> فَلِما ذا تُشْقي نَفْسَكَ يا شَقِيُّ.
 
 [^1]: Rather it is granted by Allah and provided by Him in accordance to
 His allotment.
-
 

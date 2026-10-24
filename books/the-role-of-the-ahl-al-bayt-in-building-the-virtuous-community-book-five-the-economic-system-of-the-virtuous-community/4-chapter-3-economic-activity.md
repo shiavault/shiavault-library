@@ -44,11 +44,7 @@ about such an act?”
 
 The Imam (‘a) commented:
 
-<blockquote dir="rtl">
-  <p>
-هَذَا أَحَدُ الثَّلاَثَةِ الَّذِينَ لاَ يُسْتَجَابُ لَهُمْ.
-  </p>
-</blockquote>
+> هَذَا أَحَدُ الثَّلاَثَةِ الَّذِينَ لاَ يُسْتَجَابُ لَهُمْ.
 
 *This man is among one of the three categories of people whose prayers
 are never responded to.*[^1]
@@ -56,12 +52,8 @@ are never responded to.*[^1]
 According to another authentic tradition that is reported from ‘Umar ibn
 Yazid, Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ لَوْ أَنَّ رَجُلاً دَخَلَ بَيْتَهُ وَأَغْلَقَ بَابَهُ،
-أَكَانَ يَسْقُطُ عَلَيْهِ شَيْءٌ مِنَ السَّمَاءِ؟
-  </p>
-</blockquote>
+> أَرَأَيْتَ لَوْ أَنَّ رَجُلاً دَخَلَ بَيْتَهُ وَأَغْلَقَ بَابَهُ،
+> أَكَانَ يَسْقُطُ عَلَيْهِ شَيْءٌ مِنَ السَّمَاءِ؟
 
 *If a man were to enter his house and lock its door, would anything fall
 on him from the heavens?*[^2]
@@ -74,11 +66,7 @@ sustenance.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ أَدْعُو لَكَ! أُطْلُبْ كَمَا أَمَرَكَ اللهُ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> لاَ أَدْعُو لَكَ! أُطْلُبْ كَمَا أَمَرَكَ اللهُ عَزَّ وَجَلَّ.
 
 *No, I will not. You must seek sustenance as Almighty Allah has ordered
 you to do.*[^3]
@@ -89,11 +77,7 @@ it has attained the rank of *jihad* or even higher.
 In an authentic tradition, al-Halabi has reported Imam al-Sadiq (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-الْكَادُّ عَلَى عِيَالِهِ كَالْمُجَاهِدِ فِي سَبِيلِ اللهِ.
-  </p>
-</blockquote>
+> الْكَادُّ عَلَى عِيَالِهِ كَالْمُجَاهِدِ فِي سَبِيلِ اللهِ.
 
 *He who works to provide his dependents with sustenance is like a
 mujahid who fights for the* *sake of Almighty Allah.*[^4]
@@ -101,13 +85,9 @@ mujahid who fights for the* *sake of Almighty Allah.*[^4]
 According to another authentic tradition, Zakariyya ibn Adam has
 reported Imam al-Ridha (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يَطْلُبُ مِنْ فَضْلِ اللهِ، عَزَّ وَجَلَّ، مَا يَكُفُّ بِهِ
-عِيَالَهُ أَعْظَمُ أَجْراً مِنَ الْمُجَاهِدِ فِي سَبِيلِ اللهِ، عَزَّ
-وَجَلَّ.
-  </p>
-</blockquote>
+> الَّذِي يَطْلُبُ مِنْ فَضْلِ اللهِ، عَزَّ وَجَلَّ، مَا يَكُفُّ بِهِ
+> عِيَالَهُ أَعْظَمُ أَجْراً مِنَ الْمُجَاهِدِ فِي سَبِيلِ اللهِ، عَزَّ
+> وَجَلَّ.
 
 *He who seeks the grace of Almighty Allah to provide enough sustenance
 for his dependents will have a greater reward than fighting for the sake
@@ -115,19 +95,15 @@ of Almighty Allah.*[^5]
 
 Muhammad ibn Marwan has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي حِكْمَةِ آلِ دَاوُودَ: يَنْبَغِي لِلْمُسْلِمِ الْعَاقِلِ
-أَنْ لاَ يُرَى ظَاعِناً إِلاَّ فِي ثَلاَثٍ: مَرَمَّةٍ لِمَعَاشٍ، أَوْ
-تَزَوُّدٍ لِمَعَادٍ، أَوْ لَذَّةٍ فِي غَيْرِ ذَاتِ مُحَرَّمٍ.
-وَيَنْبَغِي لِلْمُسْلِمِ الْعَاقِلِ أَنْ يَكُونَ لَهُ سَاعَةٌ يُفْضِي
-بِهَا إِلَى عَمَلِهِ فِيمَا بَيْنَهُ وَبَيْنَ اللهِ عَزَّ وَجَلَّ،
-وَسَاعَةٌ يُلاَقِي إِخْوَانَهُ الَّذِينَ يُفَاوِضُهُمْ
-وَيُفَاوِضُونَهُ فِي أَمْرِ آخِرَتِهِ، وَسَاعَةٌ يُخْلِي بَيْنَ
-نَفْسِهِ وَلَذَّاتِهَا فِي غَيْرِ مُحَرَّمٍ، فَإِنَّهَا عَوْنٌ عَلَى
-تِلْكَ السَّاعَتَيْنِ.
-  </p>
-</blockquote>
+> إِنَّ فِي حِكْمَةِ آلِ دَاوُودَ: يَنْبَغِي لِلْمُسْلِمِ الْعَاقِلِ
+> أَنْ لاَ يُرَى ظَاعِناً إِلاَّ فِي ثَلاَثٍ: مَرَمَّةٍ لِمَعَاشٍ، أَوْ
+> تَزَوُّدٍ لِمَعَادٍ، أَوْ لَذَّةٍ فِي غَيْرِ ذَاتِ مُحَرَّمٍ.
+> وَيَنْبَغِي لِلْمُسْلِمِ الْعَاقِلِ أَنْ يَكُونَ لَهُ سَاعَةٌ يُفْضِي
+> بِهَا إِلَى عَمَلِهِ فِيمَا بَيْنَهُ وَبَيْنَ اللهِ عَزَّ وَجَلَّ،
+> وَسَاعَةٌ يُلاَقِي إِخْوَانَهُ الَّذِينَ يُفَاوِضُهُمْ
+> وَيُفَاوِضُونَهُ فِي أَمْرِ آخِرَتِهِ، وَسَاعَةٌ يُخْلِي بَيْنَ
+> نَفْسِهِ وَلَذَّاتِهَا فِي غَيْرِ مُحَرَّمٍ، فَإِنَّهَا عَوْنٌ عَلَى
+> تِلْكَ السَّاعَتَيْنِ.
 
 *The following statement is written in the book of wisdom of (Prophet)
 David’s household: A Muslim of sane mind must not be seen busy except in
@@ -167,13 +143,9 @@ Muhammad ibn ‘Adhafir has reported his father as saying:
 Imam al-Sadiq (‘a) gave my father one thousand and seven hundred dinars
 asking him to use it in business. The Imam (‘a) then said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا إِنَّهُ لَيْسَ لِي رَغْبَةٌ فِي رِبْحِهَا، وَإِنْ كَانَ
-الرِّبْحُ مَرْغُوباً فِيهِ، وَلَكِنِّي أَحْبَبْتُ أَنْ يَرَانِيَ
-اللهُ، جَلَّ وَعَزَّ، مُتَعَرِّضاً لِفَوَائِدِهِ.
-  </p>
-</blockquote>
+> أَمَا إِنَّهُ لَيْسَ لِي رَغْبَةٌ فِي رِبْحِهَا، وَإِنْ كَانَ
+> الرِّبْحُ مَرْغُوباً فِيهِ، وَلَكِنِّي أَحْبَبْتُ أَنْ يَرَانِيَ
+> اللهُ، جَلَّ وَعَزَّ، مُتَعَرِّضاً لِفَوَائِدِهِ.
 
 *Verily, I do not have the desire to gain profits from this business
 even though profit is something desired; rather, I just want Almighty
@@ -207,12 +179,8 @@ sustenance?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا فَتَحْتَ بَابَكَ وَبَسَطْتَ بِسَاطَكَ فَقَدْ قَضَيْتَ مَا
-عَلَيْكَ.
-  </p>
-</blockquote>
+> إِذَا فَتَحْتَ بَابَكَ وَبَسَطْتَ بِسَاطَكَ فَقَدْ قَضَيْتَ مَا
+> عَلَيْكَ.
 
 *If you open the door [of your store] and stretch your rug [on which you
 exhibit your goods], you will have done perfectly what you are required
@@ -226,12 +194,8 @@ He answered, “I have no job.”
 
 The Imam (‘a) instructed:
 
-<blockquote dir="rtl">
-  <p>
-فَخُذْ بَيْتاً وَاكْنُسْ فَنَاءَهُ وَرُشَّهُ وَابْسُطْ فِيهِ بِسَاطاً،
-فَإِذَا فَعَلْتَ ذَلِكَ فَقَدْ قَضَيْتَ مَا وَجَبَ عَلَيْكَ.
-  </p>
-</blockquote>
+> فَخُذْ بَيْتاً وَاكْنُسْ فَنَاءَهُ وَرُشَّهُ وَابْسُطْ فِيهِ بِسَاطاً،
+> فَإِذَا فَعَلْتَ ذَلِكَ فَقَدْ قَضَيْتَ مَا وَجَبَ عَلَيْكَ.
 
 *“Betake yourself a store, sweep the confines, and stretch a rug
 therein. If you do so, you will have done perfectly what you are
@@ -242,23 +206,15 @@ given ample sustenance.”[^10]
 
 Ibn al-Qaddah has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-عَدُوُّ الْعَمَلِ الْكَسَلُ.
-  </p>
-</blockquote>
+> عَدُوُّ الْعَمَلِ الْكَسَلُ.
 
 *Laziness is the enemy of work.*[^11]
 
 Imam Musa al-Kazim (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَبِي، عَلَيْهِ السَّلاَمُ، لِبَعْضِ وِلْدِهِ: إِيَّاكَ
-وَالْكَسَلَ وَالضَّجَرَ، فَإِنَّهُمَا يَمْنَعَانِكَ مِنْ حَظِّكَ مِنَ
-الدُّنْيَا وَالآخِرَةِ.
-  </p>
-</blockquote>
+> قَالَ أَبِي، عَلَيْهِ السَّلاَمُ، لِبَعْضِ وِلْدِهِ: إِيَّاكَ
+> وَالْكَسَلَ وَالضَّجَرَ، فَإِنَّهُمَا يَمْنَعَانِكَ مِنْ حَظِّكَ مِنَ
+> الدُّنْيَا وَالآخِرَةِ.
 
 *My father said to one of his sons, “Beware of laziness and tedium, for
 they deprive you of your share of this world and the Hereafter.”*[^12]
@@ -269,11 +225,7 @@ to him—provided it was sought through lawful means.
 
 He, the Almighty, has thus said:
 
-<blockquote dir="rtl">
-  <p>
-وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
-  </p>
-</blockquote>
+> وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
 
 ***In heaven is your sustenance, and (also) that which you are promised.
 (51:22)***
@@ -290,19 +242,15 @@ Abu-Hamzah al-Thumali has reported on the authority of Imam al-Baqir
 (‘a) that the Holy Prophet (S) said in his famous sermon at the Farewell
 Pilgrimage:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ إِنَّ الرُّوحَ الأَمِينَ نَفَثَ فِي رَوْعِي أَنَّهُ لاَ تَمُوتُ
-نَفْسٌ حَتَّى تَسْتَكْمِلَ رِزْقَهَا، فَاتَّقُوا اللهَ عَزَّ وَجَلَّ
-وَأَجْمِلُوا فِي الطَّلَبِ وَلاَ يَحْمِلَنَّكُمُ إسْتِبْطَاءُ شَيْءٍ
-مِنَ الرِّزْقِ أَنْ تَطْلِبُوهُ بِشَيْءٍ مِنْ مَعْصِيَةِ اللهِ،
-فَإِنَّ اللهَ تَبَارَكَ وَتَعَالَى قَسَّمَ الأَرْزَاقَ بَيْنَ خَلْقِهِ
-حَلاَلاً وَلَمْ يُقَسِّمْهَا حَرَاماً. فَمَنِ إتَّقَى اللهَ عَزَّ
-وَجَلَّ وَصَبَرَ أَتَاهُ اللهُ بِرِزْقِهِ مِنْ حِلِّهِ، وَمَنْ هَتَكَ
-حِجَابَ السِّتْرِ وَعَجَّلَ فَأَخَذَهُ مِنْ غَيْرِ حِلِّهِ قُصَّ بِهِ
-مِنْ رِزْقِهِ الْحَلاَلِ وَحُوسِبَ عَلَيْهِ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> أَلاَ إِنَّ الرُّوحَ الأَمِينَ نَفَثَ فِي رَوْعِي أَنَّهُ لاَ تَمُوتُ
+> نَفْسٌ حَتَّى تَسْتَكْمِلَ رِزْقَهَا، فَاتَّقُوا اللهَ عَزَّ وَجَلَّ
+> وَأَجْمِلُوا فِي الطَّلَبِ وَلاَ يَحْمِلَنَّكُمُ إسْتِبْطَاءُ شَيْءٍ
+> مِنَ الرِّزْقِ أَنْ تَطْلِبُوهُ بِشَيْءٍ مِنْ مَعْصِيَةِ اللهِ،
+> فَإِنَّ اللهَ تَبَارَكَ وَتَعَالَى قَسَّمَ الأَرْزَاقَ بَيْنَ خَلْقِهِ
+> حَلاَلاً وَلَمْ يُقَسِّمْهَا حَرَاماً. فَمَنِ إتَّقَى اللهَ عَزَّ
+> وَجَلَّ وَصَبَرَ أَتَاهُ اللهُ بِرِزْقِهِ مِنْ حِلِّهِ، وَمَنْ هَتَكَ
+> حِجَابَ السِّتْرِ وَعَجَّلَ فَأَخَذَهُ مِنْ غَيْرِ حِلِّهِ قُصَّ بِهِ
+> مِنْ رِزْقِهِ الْحَلاَلِ وَحُوسِبَ عَلَيْهِ يَوْمَ الْقِيَامَةِ.
 
 *Verily, the Trustworthy Spirit (the Angel Gabriel) inspired in me that
 no single soul will die before fully receiving its sustenance. So, (you
@@ -319,22 +267,14 @@ to compensate for it on the Day of Resurrection.*[^13]
 Ibrahim ibn Abi’l-Ballad has reported on the authority of his father
 that Imam al-Baqir (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ مِنْ نَفْسٍ إِلاَّ وَقَدْ فَرَضَ اللهُ، عَزَّ وَجَلَّ، لَهَا
-رِزْقَهَا حَلاَلاً يَأْتِيهَا فِي عَافِيَةٍ، وَعَرَضَ لَهَا
-بِالْحَرَامِ مِنْ وَجْهٍ آخَرَ. فَإِنْ هِيَ تَنَاوَلَتْ شَيْئاً مِنَ
-الْحَرَامِ قَاصَّهَا بِهِ مِنَ الْحَلاَلِ الَّذِي فُرِضَ لَهَا،
-وَعِنْدَ اللهِ سِوَاهُمَا فَضْلٌ كَثِيرٌ، وَهُوَ قَوْلُ اللهِ عَزَّ
-وَجَلَّ:
-  </p>
-</blockquote>
+> لَيْسَ مِنْ نَفْسٍ إِلاَّ وَقَدْ فَرَضَ اللهُ، عَزَّ وَجَلَّ، لَهَا
+> رِزْقَهَا حَلاَلاً يَأْتِيهَا فِي عَافِيَةٍ، وَعَرَضَ لَهَا
+> بِالْحَرَامِ مِنْ وَجْهٍ آخَرَ. فَإِنْ هِيَ تَنَاوَلَتْ شَيْئاً مِنَ
+> الْحَرَامِ قَاصَّهَا بِهِ مِنَ الْحَلاَلِ الَّذِي فُرِضَ لَهَا،
+> وَعِنْدَ اللهِ سِوَاهُمَا فَضْلٌ كَثِيرٌ، وَهُوَ قَوْلُ اللهِ عَزَّ
+> وَجَلَّ:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلُوا اللَّهَ مِن فَضْلِهِ
-  </p>
-</blockquote>
+> وَاسْأَلُوا اللَّهَ مِن فَضْلِهِ
 
 *There is no single soul but that Almighty Allah has decided for it its
 sustenance to be gained in a lawful and wholesome way, but He has also
@@ -351,12 +291,8 @@ both squandering and parsimoniousness.
 
 Almighty Allah has said in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
-بَيْنَ ذَٰلِكَ قَوَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
+> بَيْنَ ذَٰلِكَ قَوَامًا
 
 ***Those who, when they spend, are not extravagant and not niggardly,
 but hold a just balance between those extremes. (25:67)***
@@ -367,11 +303,7 @@ and managed personally, especially when such funds are considerable.
 Tha‘labah and other narrators have reported that Imam al-Sadiq (‘a)
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِصْلاَحُ الْمَالِ مِنَ الإِيـمَانِ.
-  </p>
-</blockquote>
+> إِصْلاَحُ الْمَالِ مِنَ الإِيـمَانِ.
 
 *Proper management of funds is part of faith.*[^15]
 
@@ -382,13 +314,9 @@ servants to save you from this deed.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَاوُودُ، إِنَّهُ لاَ يُصْلِحُ الْمَرْءَ الْمُسْلِمَ إِلاَّ
-ثَلاَثَةٌ: التَّفَقُّهُ فِي الدِّينِ، وَالصَّبْرُ عَلَى النَّائِبَةِ،
-وَحُسْنُ التَّقْدِيرِ فِي الْمَعِيشَةِ.
-  </p>
-</blockquote>
+> يَا دَاوُودُ، إِنَّهُ لاَ يُصْلِحُ الْمَرْءَ الْمُسْلِمَ إِلاَّ
+> ثَلاَثَةٌ: التَّفَقُّهُ فِي الدِّينِ، وَالصَّبْرُ عَلَى النَّائِبَةِ،
+> وَحُسْنُ التَّقْدِيرِ فِي الْمَعِيشَةِ.
 
 *O Dawud, three matters can lead a Muslim to uprightness: (1) mastery in
 religious knowledge, (2) steadfastness against misfortune, and (3) good
@@ -396,12 +324,8 @@ management of livelihood.*[^16]
 
 Yunus has reported that Imam al-Sadiq (‘a) instructed him saying:
 
-<blockquote dir="rtl">
-  <p>
-بَاشِرْ كِبَارَ أُمُورِكَ بِنَفْسِكَ، وَكِلْ مَا شَفَّ إِلَى
-غَيْرِكَ... ضَرْبَ أَشْرِيَةِ الْعَقَارِ وَمَا أَشْبَهَهَا.
-  </p>
-</blockquote>
+> بَاشِرْ كِبَارَ أُمُورِكَ بِنَفْسِكَ، وَكِلْ مَا شَفَّ إِلَى
+> غَيْرِكَ... ضَرْبَ أَشْرِيَةِ الْعَقَارِ وَمَا أَشْبَهَهَا.
 
 *Manage your major affairs in person, and employ others to manage minor
 dealings…major affairs include purchasing real estate and matters of a
@@ -415,14 +339,10 @@ others.
 Al-Hasan ibn al-Jahm has reported that he heard Imam al-Ridha (‘a)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِنْسَانَ إِذَا أَدْخَلَ طَعَامَ سَنَتِهِ خَفَّ ظَهْرُهُ
-وَاسْتَرَاحَ. وَكَانَ أَبُو جَعْفَرٍ وَأَبُو عَبْدِاللهِ، عَلَيْهِمَا
-السَّلاَمُ، لاَ يَشْتَرِيَانِ عُقْدَةً حَتَّى يُحْرِزَا طَعَامَ
-سَنَتِهِمَا.
-  </p>
-</blockquote>
+> إِنَّ الإِنْسَانَ إِذَا أَدْخَلَ طَعَامَ سَنَتِهِ خَفَّ ظَهْرُهُ
+> وَاسْتَرَاحَ. وَكَانَ أَبُو جَعْفَرٍ وَأَبُو عَبْدِاللهِ، عَلَيْهِمَا
+> السَّلاَمُ، لاَ يَشْتَرِيَانِ عُقْدَةً حَتَّى يُحْرِزَا طَعَامَ
+> سَنَتِهِمَا.
 
 *If one saves the provisions of a year, one’s burdens will be light and
 one will rest. Abu-Ja’far (al-Baqir) (‘a) and Abu-’Abdullah (al-Sadiq)
@@ -432,11 +352,7 @@ provisions for that whole year.*[^18]
 Ibn Bukayr has reported on the authority of Imam al-Ridha (‘a) that the
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ النَّفْسَ إِذَا أَحْرَزَتْ قُوتَهَا إسْتَقَرَّتْ.
-  </p>
-</blockquote>
+> إِنَّ النَّفْسَ إِذَا أَحْرَزَتْ قُوتَهَا إسْتَقَرَّتْ.
 
 *Verily, after a person saves his (annual) provisions, he will certainly
 be stable.*[^19]
@@ -448,12 +364,8 @@ dealing with partners.
 Al-Mufadhdhal ibn ‘Umar has reported that he heard Imam al-Sadiq (‘a)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ آجَرَ نَفْسَهُ فَقَدْ حَظَرَ عَلَى نَفْسِهِ الرِّزْقَ. وَكَيْفَ
-لاَ يَحْظُرُهُ وَمَا أَصَابَ فِيهِ فَهُوَ لِرَبِّهِ الَّذِي آجَرَهُ؟
-  </p>
-</blockquote>
+> مَنْ آجَرَ نَفْسَهُ فَقَدْ حَظَرَ عَلَى نَفْسِهِ الرِّزْقَ. وَكَيْفَ
+> لاَ يَحْظُرُهُ وَمَا أَصَابَ فِيهِ فَهُوَ لِرَبِّهِ الَّذِي آجَرَهُ؟
 
 *Whoever becomes an employee of another has in fact banned sustenance on
 himself.*[^20] *This* *is because whatever he gains goes to his
@@ -465,12 +377,8 @@ employers.”
 
 The Imam (‘a) commented:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُؤَاجِرُ نَفْسَهُ، وَلَكِنْ يَسْتَرْزِقُ اللهَ عَزَّ وَجَلَّ
-وَيَتَّجِرُ، فَإِنْ آجَرَ نَفْسَهُ حَظَرَ عَلَى نَفْسِهِ الرِّزْقَ.
-  </p>
-</blockquote>
+> لاَ يُؤَاجِرُ نَفْسَهُ، وَلَكِنْ يَسْتَرْزِقُ اللهَ عَزَّ وَجَلَّ
+> وَيَتَّجِرُ، فَإِنْ آجَرَ نَفْسَهُ حَظَرَ عَلَى نَفْسِهِ الرِّزْقَ.
 
 *They must not accept to be used as employees; rather, they should seek
 Almighty Allah’s sustenance and work in business for themselves. If they
@@ -490,12 +398,8 @@ easier to supervise and provide greater benefit.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّخَذْتُهَا مُتَفَرِّقَةً، فَإِنْ أَصَابَ هَذَا الْمَالَ شَيْءٌ
-سَلِمَ هَذَا الْمَالُ، وَالصُّرَّةُ تَجْمَعُ بِهَذَا كُلِّهِ.
-  </p>
-</blockquote>
+> إِتَّخَذْتُهَا مُتَفَرِّقَةً، فَإِنْ أَصَابَ هَذَا الْمَالَ شَيْءٌ
+> سَلِمَ هَذَا الْمَالُ، وَالصُّرَّةُ تَجْمَعُ بِهَذَا كُلِّهِ.
 
 *I have distributed them among various sectors so that if one sector
 loses, the other funds will be saved. At any rate, the total is the
@@ -508,13 +412,9 @@ commercial enterprises.
 
 Zurarah has reported that he heard Imam al-Sadiq (‘a) say:
 
-<blockquote dir="rtl">
-  <p>
-مَا يُخَلِّفُ الرَّجُلُ شَيْئاً أَشَدَّ عَلَيْهِِ مِنَ الْمَالِ
-الصَّامِتِ... يَجْعَلُهُ فِي الْحَائِطِ، يَعْنِي فِي الْبُسْتَانِ أَوِ
-الدَّارِ.
-  </p>
-</blockquote>
+> مَا يُخَلِّفُ الرَّجُلُ شَيْئاً أَشَدَّ عَلَيْهِِ مِنَ الْمَالِ
+> الصَّامِتِ... يَجْعَلُهُ فِي الْحَائِطِ، يَعْنِي فِي الْبُسْتَانِ أَوِ
+> الدَّارِ.
 
 *No legacy is worse than money that lays stagnant…money must be
 transferred into estates; i.e. farms or houses.*[^24]
@@ -593,13 +493,9 @@ ruling regimes of unjust rulers.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا مُحَمَّدٍ، لاَ وَلاَ مُدَّةُ قَلَمٍ. إِنَّ أَحَدَهُمْ لاَ
-يُصِيبُ مِنْ دُنْيَاهُمْ شَيْئاً إِلاَّ أَصَابُوا مِنْ دِينِهِ
-مِثْلَهُ.
-  </p>
-</blockquote>
+> يَا أَبَا مُحَمَّدٍ، لاَ وَلاَ مُدَّةُ قَلَمٍ. إِنَّ أَحَدَهُمْ لاَ
+> يُصِيبُ مِنْ دُنْيَاهُمْ شَيْئاً إِلاَّ أَصَابُوا مِنْ دِينِهِ
+> مِثْلَهُ.
 
 *O Abu-Muhammad, never help them in any matter even if it be as trivial
 as handing them over a pen. No one can obtain any worldly benefits from
@@ -618,14 +514,10 @@ beaver-dam. What is your opinion in this regard?”
 
 The Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أُحِبُّ أَنِّي عَقَدْتُ لَهُمْ عُقْدَةً أَوْ وَكَيْتُ لَهُمْ
-وِكَاءً وَإِنَّ لِي مَا بَيْنَ لاَبَيَتْهَا، لاَ وَلاَ مُدَّةُ قَلَمٍ.
-إِنَّ أَعْوَانَ الظَّلَمَةِ يَوْمَ الْقِيَامَةِ فِي سُرَادِقَ مِنْ
-نَارٍ حَتَّى يَحْكُمَ اللهُ بَيْنَ الْعِبَادِ.
-  </p>
-</blockquote>
+> مَا أُحِبُّ أَنِّي عَقَدْتُ لَهُمْ عُقْدَةً أَوْ وَكَيْتُ لَهُمْ
+> وِكَاءً وَإِنَّ لِي مَا بَيْنَ لاَبَيَتْهَا، لاَ وَلاَ مُدَّةُ قَلَمٍ.
+> إِنَّ أَعْوَانَ الظَّلَمَةِ يَوْمَ الْقِيَامَةِ فِي سُرَادِقَ مِنْ
+> نَارٍ حَتَّى يَحْكُمَ اللهُ بَيْنَ الْعِبَادِ.
 
 *I would never desire to do anything for them, even if it be as trivial
 as untying a knot or sewing a bag, even if they give me whatever lies
@@ -660,18 +552,14 @@ should I teach him?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا عَدَلْتَهُ عَنْ خَمْسَةِ أَشْيَاءَ فَضَعْهُ حَيْثُ شِئْتَ؛ لاَ
-تُسَلِّمْهُ صَيْرَفِيّاً فَإِنَّ الصَّيْرَفِيَّ لاَ يَسْلَمُ مِنَ
-الرِّبَا، وَلاَ تُسَلِّمْهُ بَيَّاعَ الأَكْفَانِ فَإِنَّ صَاحِبَ
-الأَكْفَانِ يَسُرُّهُ الوّبَاءُ إِذَا كَانَ، وَلاَ تُسَلِّمْهُ
-بَيَّاعَ الطَّعَامِ فَإِنَّهُ لاَ يَسْلَمُ مِنَ الإحْتِكَارِ، وَلاَ
-تُسَلِّمْهُ جَزّاراً فِإِنَّ الْجَزَّارَ تُسْلَبُ مِنْهُ الرَّحْمَةُ،
-وَلاَ تُسَلِّمْهُ نَخَّاساً فَإِنَّ رَسُولَ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، قَالَ: شَرُّ النَّاسِ مَنْ بَاعَ النَّاسَ.
-  </p>
-</blockquote>
+> إِذَا عَدَلْتَهُ عَنْ خَمْسَةِ أَشْيَاءَ فَضَعْهُ حَيْثُ شِئْتَ؛ لاَ
+> تُسَلِّمْهُ صَيْرَفِيّاً فَإِنَّ الصَّيْرَفِيَّ لاَ يَسْلَمُ مِنَ
+> الرِّبَا، وَلاَ تُسَلِّمْهُ بَيَّاعَ الأَكْفَانِ فَإِنَّ صَاحِبَ
+> الأَكْفَانِ يَسُرُّهُ الوّبَاءُ إِذَا كَانَ، وَلاَ تُسَلِّمْهُ
+> بَيَّاعَ الطَّعَامِ فَإِنَّهُ لاَ يَسْلَمُ مِنَ الإحْتِكَارِ، وَلاَ
+> تُسَلِّمْهُ جَزّاراً فِإِنَّ الْجَزَّارَ تُسْلَبُ مِنْهُ الرَّحْمَةُ،
+> وَلاَ تُسَلِّمْهُ نَخَّاساً فَإِنَّ رَسُولَ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، قَالَ: شَرُّ النَّاسِ مَنْ بَاعَ النَّاسَ.
 
 *If you turn him away from the following five crafts, you may then teach
 him any craft you like: (1) You must not put him in the craft of
@@ -688,12 +576,8 @@ According to another validly reported tradition, Talhah ibn Zayd
 reported on the authority of Imam Ja’far al-Sadiq (‘a) that the Holy
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي أَعْطَيْتُ خَالَتِي غُلاَماً وَنَهَيْتُهَا أَنْ تَجْعَلَهُ
-قَصَّاباً أَوْ حَجَّاماً أَوْ صَائِغاً.
-  </p>
-</blockquote>
+> إِنِّي أَعْطَيْتُ خَالَتِي غُلاَماً وَنَهَيْتُهَا أَنْ تَجْعَلَهُ
+> قَصَّاباً أَوْ حَجَّاماً أَوْ صَائِغاً.
 
 *I have given my (maternal) aunt a slave-boy and I warned her against
 teaching him to be a butcher, a cupper, or a goldsmith.*[^28]
@@ -729,11 +613,7 @@ also confirmed that honesty must be present in every job.
 According to a validly reported tradition, Imam ‘Ali Amir al-Mu'minin
 (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ، عَزَّ وَجَلَّ، يُحِبُّ الْمُحْتَرِفَ الأَمِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ، عَزَّ وَجَلَّ، يُحِبُّ الْمُحْتَرِفَ الأَمِينَ.
 
 *Verily, Almighty Allah loves trustworthy professionals.*[^30]
 
@@ -769,23 +649,15 @@ Shaykh al-Saduq has reported al-Mu’alla ibn Khunays as saying:
 As he noticed that I was late for work, Imam al-Sadiq (‘a) urged me
 saying:
 
-<blockquote dir="rtl">
-  <p>
-أُغْدُ إِلَى عِزِّكَ.
-  </p>
-</blockquote>
+> أُغْدُ إِلَى عِزِّكَ.
 
 *Go and join your dignity.*
 
 According to another tradition, Imam al-Sadiq (‘a) said to one of his
 servants:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَبْدَ اللهِ، إِحْفَظْ عِزَّكَ... غُدُوَّكَ إِلَى سُوقِكَ
-وَإِكْرَامَكَ نَفْسَكَ.
-  </p>
-</blockquote>
+> يَا عَبْدَ اللهِ، إِحْفَظْ عِزَّكَ... غُدُوَّكَ إِلَى سُوقِكَ
+> وَإِكْرَامَكَ نَفْسَكَ.
 
 *O servant of Allah, watch over your dignity…it is to go to markets and
 honor yourself therein.*[^32]
@@ -796,11 +668,7 @@ men’s intellects sound.**
 According to another valid tradition, Imam al-Sadiq (‘a) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-تَرْكُ التِّجَارَةِ يُنْقِصُ العَقْلَ.
-  </p>
-</blockquote>
+> تَرْكُ التِّجَارَةِ يُنْقِصُ العَقْلَ.
 
 *Abandonment of business reduces faculty of reason.*[^33]
 
@@ -817,12 +685,8 @@ will consume all my savings up to my death.”
 
 The Imam (‘a) instructed:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَتْرُكْهَا، فَإِنَّ تَرْكَهَا مُذْهِبَةٌ لِلْعَقْلِ. إِسْعَ عَلَى
-عِيَالِكَ، وَإِيَّاكَ أَنْ يَكُونُوا هُمُ السُّعَاةَ عَلَيْكَ.
-  </p>
-</blockquote>
+> لاَ تَتْرُكْهَا، فَإِنَّ تَرْكَهَا مُذْهِبَةٌ لِلْعَقْلِ. إِسْعَ عَلَى
+> عِيَالِكَ، وَإِيَّاكَ أَنْ يَكُونُوا هُمُ السُّعَاةَ عَلَيْكَ.
 
 *Do not forsake business, because forsaking it decreases one’s reason.
 Work for your dependents and never let them work for you.*[^34]
@@ -835,12 +699,8 @@ forsake all worldly affairs and give these back to their owners.”
 
 When Muhammad conveyed the matter to Imam al-Sadiq (‘a), the Imam said:
 
-<blockquote dir="rtl">
-  <p>
-يَا مُحَمَّدُ، أَيَبْدَأُ نَفْسَهُ بِالْحَرْبِ؟ لاَ، وَلَكِنْ يَأْخُذُ
-وَيُعْطِي عَلَى اللهِ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> يَا مُحَمَّدُ، أَيَبْدَأُ نَفْسَهُ بِالْحَرْبِ؟ لاَ، وَلَكِنْ يَأْخُذُ
+> وَيُعْطِي عَلَى اللهِ عَزَّ وَجَلَّ.
 
 *O Muhammad, is he intending to wage war against himself? No, he must
 not do thus; rather, he can receive (income) and give (to others) for
@@ -853,23 +713,15 @@ Shaykh al-Kulayni has reported on the authority of Muhammad ibn Muslim
 on the authority of Imam al-Sadiq (‘a) that Imam ‘Ali Amir al-Mu'minin
 (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-تَعَرَّضُوا لِلتِّجَارَةِ، فَإِنَّ فِيهَا غِنىً لَكُمْ عَمَّا فِي
-أَيْدِي النَّاسِ.
-  </p>
-</blockquote>
+> تَعَرَّضُوا لِلتِّجَارَةِ، فَإِنَّ فِيهَا غِنىً لَكُمْ عَمَّا فِي
+> أَيْدِي النَّاسِ.
 
 *Engage yourselves in business, because this will save you from being in
 need of what others hold in possession.*
 
 According to another tradition, the Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ طَلَبَ التِّجَارَةَ إسْتَغْنَى عَنِ النَّاسِ.
-  </p>
-</blockquote>
+> مَنْ طَلَبَ التِّجَارَةَ إسْتَغْنَى عَنِ النَّاسِ.
 
 *Whoever engages in business will cope without the help of others.*[^36]
 
@@ -880,13 +732,9 @@ independently.
 Referring to the noble characteristics of righteous people, the Holy
 Qur'an indicates that the righteous are engaged in business:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَّا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَن ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
-  </p>
-</blockquote>
+> رِجَالٌ لَّا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَن ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
 
 ***…men whom neither merchandise nor selling divert from the remembrance
 of Allah and the keeping up of prayer and the giving of poor-rate; they
@@ -897,27 +745,19 @@ Asbat ibn Salim said that he once visited Imam al-Sadiq (‘a) who asked
 him about the manners of ‘Umar ibn Muslim. When he was informed that
 ‘Umar had given up business, the Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-عَمَلُ الشَّيْطَانِ!
-  </p>
-</blockquote>
+> عَمَلُ الشَّيْطَانِ!
 
 *This is the act of Satan!*
 
 Having repeated the same statement three times, the Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا عَلِمَ أَنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-إشْتَرَى عِيراً أَتَتْ مِنَ الشَّامِ فَاسْتَفْضَلَ فِيهَا مَا قَضَى
-دَيْنَهُ، وَقَسَّمَ فِي قُرَابَتِهِ؟ يَقُولُ اللهُ، عَزَّ وَجَلَّ: {ﭑ
-ﭒ ﭓ ﭔ ﭕ ﭖ ﭗ ﭘ ﭙ…} يَقُولُ الْقُصَّاصُ إِنَّ الْقَوْمَ لَمْ يَكُونُوا
-يَتَّجِرُونَ. كَذِبُوا! وَلَكِنَّهُمْ لَمْ يَكُونُوا يَدَعُونَ
-الصَّلاَةَ فِي مِيقَاتِهَا، وَهُمْ أَفْضَلُ مَِمَّنْ حَضَرَ الصَّلاَةَ
-وَلَمْ يَتَّجِرْ.
-  </p>
-</blockquote>
+> أَمَا عَلِمَ أَنَّ رَسُولَ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> إشْتَرَى عِيراً أَتَتْ مِنَ الشَّامِ فَاسْتَفْضَلَ فِيهَا مَا قَضَى
+> دَيْنَهُ، وَقَسَّمَ فِي قُرَابَتِهِ؟ يَقُولُ اللهُ، عَزَّ وَجَلَّ: {ﭑ
+> ﭒ ﭓ ﭔ ﭕ ﭖ ﭗ ﭘ ﭙ…} يَقُولُ الْقُصَّاصُ إِنَّ الْقَوْمَ لَمْ يَكُونُوا
+> يَتَّجِرُونَ. كَذِبُوا! وَلَكِنَّهُمْ لَمْ يَكُونُوا يَدَعُونَ
+> الصَّلاَةَ فِي مِيقَاتِهَا، وَهُمْ أَفْضَلُ مَِمَّنْ حَضَرَ الصَّلاَةَ
+> وَلَمْ يَتَّجِرْ.
 
 *He should know that the Messenger of Allah (S) purchased some camels
 that had been brought from Sham, settled his debts from the profits and
@@ -941,15 +781,11 @@ activities.
 Al-Asbagh ibn Nubatah has reported that he heard Imam ‘Ali Amir
 al-Mu'minin (‘a) saying from the *minbar* (pulpit):
 
-<blockquote dir="rtl">
-  <p>
-يَا مَعْشَرَ التُّجَّارِ، الْفِقْهَ ثُمَّ الْمُتَّجَرَ، الْفِقْهَ
-ثُمَّ الْمُتَّجَرَ، الْفِقْهَ ثُمَّ الْمُتَّجَرَ. وَاللهِ، لَلرِّبَا
-فِي هَذِهِ الأُمَّةِ أَخْفَى مِنْ دَبِيبِ النَّمْلِ عَلَى الصَّفَا.
-شُوبُوا إِيـمَانَكُمْ بِالصِّدْقِ. التَّاجِرُ فَاجِرٌ، وَالْفَاجِرُ
-فِي النَّارِ، إِلاَّ مَنْ أَخَذَ الْحَقَّ وَأَعْطَى الْحَقَّ.
-  </p>
-</blockquote>
+> يَا مَعْشَرَ التُّجَّارِ، الْفِقْهَ ثُمَّ الْمُتَّجَرَ، الْفِقْهَ
+> ثُمَّ الْمُتَّجَرَ، الْفِقْهَ ثُمَّ الْمُتَّجَرَ. وَاللهِ، لَلرِّبَا
+> فِي هَذِهِ الأُمَّةِ أَخْفَى مِنْ دَبِيبِ النَّمْلِ عَلَى الصَّفَا.
+> شُوبُوا إِيـمَانَكُمْ بِالصِّدْقِ. التَّاجِرُ فَاجِرٌ، وَالْفَاجِرُ
+> فِي النَّارِ، إِلاَّ مَنْ أَخَذَ الْحَقَّ وَأَعْطَى الْحَقَّ.
 
 *O group of traders, give priority to learning religious laws over
 engagement in business. Give priority to learning religious laws over
@@ -961,13 +797,9 @@ wicked and the wicked will be in Hellfire.*[^38]
 
 Imam al-Sadiq (‘a) has reported the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ بَاعَ وَإشْتَرَى فَلْيَحْفَظْ خَمْسَ خِصَالٍ وَإِلاَّ فَلاَ
-يَشْتَرِيَنَّ وَلاَ يَبِيعَنَّ: الرِّبَا، وَالْحِلْفَ، وَكِتْمَانَ
-الْعَيْبِ، وَالْحَمْدَ إِذَا بَاعَ، وَالذَّمَّ إذَا إشْتَرَى.
-  </p>
-</blockquote>
+> مَنْ بَاعَ وَإشْتَرَى فَلْيَحْفَظْ خَمْسَ خِصَالٍ وَإِلاَّ فَلاَ
+> يَشْتَرِيَنَّ وَلاَ يَبِيعَنَّ: الرِّبَا، وَالْحِلْفَ، وَكِتْمَانَ
+> الْعَيْبِ، وَالْحَمْدَ إِذَا بَاعَ، وَالذَّمَّ إذَا إشْتَرَى.
 
 *He who is engaged in buying or selling must avoid the following five
 things and, if not, must neither buy nor sell: (1) usury, (2) taking
@@ -1029,12 +861,8 @@ people saying that agriculture is disapproved of.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِزْرَعُوا وَاغْرِسُوا، فَلاَ وَاللهِ مَا عَمِلَ النَّاسُ عَمَلاً
-أَحَلَّ وَلاَ أَطْيَبَ مِنْهُ.
-  </p>
-</blockquote>
+> إِزْرَعُوا وَاغْرِسُوا، فَلاَ وَاللهِ مَا عَمِلَ النَّاسُ عَمَلاً
+> أَحَلَّ وَلاَ أَطْيَبَ مِنْهُ.
 
 *You may sow and plant. By Allah (I swear), people have never been
 engaged in any job that is more lawful and more pleasant than
@@ -1042,25 +870,17 @@ agriculture.*[^40]
 
 According to another tradition, the Imam (‘a) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-خَيْرُ الأَعْمَالِ الْحَرْثُ، يَزْرَعُهُ فَيَأْكُلُ مِنْهُ الْبَرُّ
-وَالْفَاجِرُ.
-  </p>
-</blockquote>
+> خَيْرُ الأَعْمَالِ الْحَرْثُ، يَزْرَعُهُ فَيَأْكُلُ مِنْهُ الْبَرُّ
+> وَالْفَاجِرُ.
 
 *The best of jobs is the sowing of a cultivated land from which both the
 good and the bad eat.*[^41]
 
 According to a third tradition, the Imam (‘a) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-الزَّارِعُونَ كُنُوزُ الأَنَامِ، يَزْرَعُونَ طِيباً أَخْرَجَهُ اللهُ
-عَزَّ وَجَلَّ، وَهُمْ يَوْمَ الْقِيَامَةِ أَحْسَنُ النَّاسِ مَقَاماً
-وَأَقْرَبُهُمْ مَنْزِلَةً. يُدْعَوْنَ الْمُبَارَكِينَ.
-  </p>
-</blockquote>
+> الزَّارِعُونَ كُنُوزُ الأَنَامِ، يَزْرَعُونَ طِيباً أَخْرَجَهُ اللهُ
+> عَزَّ وَجَلَّ، وَهُمْ يَوْمَ الْقِيَامَةِ أَحْسَنُ النَّاسِ مَقَاماً
+> وَأَقْرَبُهُمْ مَنْزِلَةً. يُدْعَوْنَ الْمُبَارَكِينَ.
 
 *Farmers are the treasures of all creatures. They plant pleasant things
 that Almighty Allah causes to grow. On the Day of Resurrection, they
@@ -1073,12 +893,8 @@ also reported as relating the following:
 When he was asked about the best of income, the Holy Prophet (S)
 answered:
 
-<blockquote dir="rtl">
-  <p>
-زَرْعٌ زَرَعَهُ صَاحِبُهُ وَأَصْلَحَهُ وَأَدَّى حَقَّهُ يَوْمَ
-حَصَادِهِ.
-  </p>
-</blockquote>
+> زَرْعٌ زَرَعَهُ صَاحِبُهُ وَأَصْلَحَهُ وَأَدَّى حَقَّهُ يَوْمَ
+> حَصَادِهِ.
 
 *It is (the income from) a crop that is tended and refined by the
 planter who then gives its due on its harvest day.*
@@ -1086,12 +902,8 @@ planter who then gives its due on its harvest day.*
 When he was asked about the next category in superiority, the Holy
 Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-رَجُلٌ فِي غَنَمٍ لَهُ قَدْ تَبِعَ بِهَا مَوَاضِعَ الْقَطْرِ، يُقِيمُ
-الصَّلاَةَ وَيُؤْتِي الزَّكَاةَ.
-  </p>
-</blockquote>
+> رَجُلٌ فِي غَنَمٍ لَهُ قَدْ تَبِعَ بِهَا مَوَاضِعَ الْقَطْرِ، يُقِيمُ
+> الصَّلاَةَ وَيُؤْتِي الزَّكَاةَ.
 
 *It is the money of a man who tends his sheep leading them to rainwater
 and, at the same time, maintains prayers and defrays the zakat
@@ -1103,12 +915,8 @@ various stages of their lives.
 
 Imam al-Sadiq (‘a) has reported the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ جَعَلَ رِزْقَ أَنْبِيَاءِهِ فِي الزَّرْعِ وَالضَّرْعِ
-لِئَلاَّ يَكْرَهُوا شَيْئاً مِنْ قَطْرِ السَّمَاءِ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ جَعَلَ رِزْقَ أَنْبِيَاءِهِ فِي الزَّرْعِ وَالضَّرْعِ
+> لِئَلاَّ يَكْرَهُوا شَيْئاً مِنْ قَطْرِ السَّمَاءِ.
 
 *Verily, Almighty Allah has made the sustenance of His prophets in
 agriculture and shepherding so that they would not resent any drops from
@@ -1117,12 +925,8 @@ the sky (i.e. rain).*[^44]
 According to another tradition, the Holy Prophet (S) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَا بَعَثَ اللهُ نَبِيّاً إلاَّ زَرَّاعاً، إِلاَّ إدْرِيسَ فَإِنَّهُ
-كَاَن خَيَّاطاً.
-  </p>
-</blockquote>
+> مَا بَعَثَ اللهُ نَبِيّاً إلاَّ زَرَّاعاً، إِلاَّ إدْرِيسَ فَإِنَّهُ
+> كَاَن خَيَّاطاً.
 
 *All the prophets that Almighty Allah has sent were farmers except
 (Prophet) Idris (‘a) who was a tailor.*[^45]
@@ -1131,15 +935,11 @@ The Holy Prophet (S) and Imam ‘Ali Amir al-Mu'minin (‘a) worked in
 agriculture. In this respect, Imam al-Sadiq (‘a) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ أَمِيرُ الْمُؤْمِنِينَ، صَلَوَاتُ اللهِ عَلَيْهِ، يَضْرِبُ
-بِالْمُرِّ وَيَسْتَخْرِجُ الأَرَضِينَ، وَكَانَ رَسُولُ اللهِ، صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ، يَمُصُّ النَّوَى بِفِيهِ وَيَغْرِسُهُ
-فَيَطْلُعُ مِنْ سَاعَتِهِ، وَإِنَّ أَمِيرَ الْمُؤْمِنِينَ أَعْتَقَ
-أَلْفَ مَمْلُوكٍ مِنْ مَالِهِ وَكَدِّ يَدِهِ.
-  </p>
-</blockquote>
+> كَانَ أَمِيرُ الْمُؤْمِنِينَ، صَلَوَاتُ اللهِ عَلَيْهِ، يَضْرِبُ
+> بِالْمُرِّ وَيَسْتَخْرِجُ الأَرَضِينَ، وَكَانَ رَسُولُ اللهِ، صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ، يَمُصُّ النَّوَى بِفِيهِ وَيَغْرِسُهُ
+> فَيَطْلُعُ مِنْ سَاعَتِهِ، وَإِنَّ أَمِيرَ الْمُؤْمِنِينَ أَعْتَقَ
+> أَلْفَ مَمْلُوكٍ مِنْ مَالِهِ وَكَدِّ يَدِهِ.
 
 *The Commander of the Faithful, peace of Allah be upon him, used a
 shovel and cultivated the soil. The Messenger of Allah, peace be upon
@@ -1152,14 +952,10 @@ In his book, *al-Kafi*, Shaykh al-Kulayni through a valid chain of
 authority has also reported the following account on the authority of
 Imam al-Baqir (‘a):
 
-<blockquote dir="rtl">
-  <p>
-لَقِيَ رَجُلٌ أَمِيرَ الْمُؤْمِنِينَ، عَلَيْهِ السَّلاَمُ، وَتَحْتَهُ
-وَسْقٌ مِنْ نَوًى، فَقَالَ لَهُ: مَا هَذَا، يَا أَبَا الْحَسَنِ،
-تَحْتَكَ؟ فَقَالَ: مِائَةُ أَلْفِ عِذْقٍ، إِنْ شَاءَ اللهُ. فَغَرَسَهُ
-فَلَمْ يُغَادِرْ مِنْهُ نَوَاةً وَاحِدَةً.
-  </p>
-</blockquote>
+> لَقِيَ رَجُلٌ أَمِيرَ الْمُؤْمِنِينَ، عَلَيْهِ السَّلاَمُ، وَتَحْتَهُ
+> وَسْقٌ مِنْ نَوًى، فَقَالَ لَهُ: مَا هَذَا، يَا أَبَا الْحَسَنِ،
+> تَحْتَكَ؟ فَقَالَ: مِائَةُ أَلْفِ عِذْقٍ، إِنْ شَاءَ اللهُ. فَغَرَسَهُ
+> فَلَمْ يُغَادِرْ مِنْهُ نَوَاةً وَاحِدَةً.
 
 *One day, a man met the Commander of the Faithful (‘a) and found a small
 quantity of seeds (of the date-palm tree) beside him. “Abu’l-Hasan,” the
@@ -1181,21 +977,13 @@ religious duties.
 
 In this regard, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَرَعَ حِنْطَةً فِي أَرْضٍ فَلَمْ يَزْكُ زَرْعُهُ، أَوْ خَرَجَ
-زَرْعُهُ كَثِيرَ الشَّعِيرِ، فَبِظُلْمٍ عَمِلَهُ فِي مُلْكِ رَقَبَةِ
-الأَرْضِ، أَوْ بِظُلْمٍ لِمُزَارِعِهِ، أَوْ أَكْرَتِهِ، لأَِنَّ اللهَ
-يَقُولُ:
-  </p>
-</blockquote>
+> مَنْ زَرَعَ حِنْطَةً فِي أَرْضٍ فَلَمْ يَزْكُ زَرْعُهُ، أَوْ خَرَجَ
+> زَرْعُهُ كَثِيرَ الشَّعِيرِ، فَبِظُلْمٍ عَمِلَهُ فِي مُلْكِ رَقَبَةِ
+> الأَرْضِ، أَوْ بِظُلْمٍ لِمُزَارِعِهِ، أَوْ أَكْرَتِهِ، لأَِنَّ اللهَ
+> يَقُولُ:
 
-<blockquote dir="rtl">
-  <p>
-فَبِظُلْمٍ مِّنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ
-أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ اللَّهِ كَثِيرًا
-  </p>
-</blockquote>
+> فَبِظُلْمٍ مِّنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ
+> أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ اللَّهِ كَثِيرًا
 
 *If someone plants wheat but the crop fails to produce or much barley
 grows in its place, this means that the planter must have committed a
@@ -1270,13 +1058,9 @@ Through a valid chain of authority, Shaykh al-Kulayni has reported on
 the authority of Murazim that Imam al-Sadiq (‘a) advised Musadif, his
 servant, saying:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّخِذْ عُقْدَةً أَوْ ضَيْعَةً، فَإِنَّ الرَّجُلَ إِذَا نَزَلَتْ
-بِهِ النَّازِلَةُ أَوِ الْمُصِيبَةُ فَذَكَرَ أَنَّ وَرَاءَ ظَهْرِهِ
-مَا يُقِيمُ بِهِ عِيَالَهُ كَانَ أَسْخَى لِنَفْسِهِ.
-  </p>
-</blockquote>
+> إِتَّخِذْ عُقْدَةً أَوْ ضَيْعَةً، فَإِنَّ الرَّجُلَ إِذَا نَزَلَتْ
+> بِهِ النَّازِلَةُ أَوِ الْمُصِيبَةُ فَذَكَرَ أَنَّ وَرَاءَ ظَهْرِهِ
+> مَا يُقِيمُ بِهِ عِيَالَهُ كَانَ أَسْخَى لِنَفْسِهِ.
 
 *Betake yourself a building or a farm. When one is exposed to a
 misfortune or a conflict, one becomes readier to make self-sacrifice if
@@ -1286,13 +1070,9 @@ on.*[^50]
 Through a valid chain of authority, Shaykh al-Saduq has reported that
 Imam al-Sadiq (‘a) used to say:
 
-<blockquote dir="rtl">
-  <p>
-مَا يُخَلِّفُ الرَّجُلُ بَعْدَهُ شَيْئاً أَشَدَّ عَلَيْهِ مِنَ
-الْمَالِ الصَّامِتِ... يَجْعَلُهُ فِي الْحَائِطِ؛ البُسْتَانَ أَوِ
-الدَّارَ.
-  </p>
-</blockquote>
+> مَا يُخَلِّفُ الرَّجُلُ بَعْدَهُ شَيْئاً أَشَدَّ عَلَيْهِ مِنَ
+> الْمَالِ الصَّامِتِ... يَجْعَلُهُ فِي الْحَائِطِ؛ البُسْتَانَ أَوِ
+> الدَّارَ.
 
 *No legacy is worse than silent property…it must be transferred into
 estates; i.e. in gardens or houses.*[^51]
@@ -1316,11 +1096,7 @@ value.
 
 Referring to this fact, the Ahl al-Bayt (‘a) are reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ثَمَنُ الْعَقَارِ مَمْحُوقٌ إِلاَّ أَنْ يُجْعَلَ فِي عَقَارٍ مِثْلِهِ.
-  </p>
-</blockquote>
+> ثَمَنُ الْعَقَارِ مَمْحُوقٌ إِلاَّ أَنْ يُجْعَلَ فِي عَقَارٍ مِثْلِهِ.
 
 *The financial return on an estate is unblessed unless it is used to
 purchase another estate.*
@@ -1331,13 +1107,9 @@ prices.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا سَيَّارٍ، أَمَا عَلِمْتَ أَنَّ مَنْ بَاعَ الْمَاءَ
-وَالطِّينَ وَلَمْ يَجْعَلْ ثَمَنَهُ فِي الْمَاءِ وَالطِّينِ ذَهَبَ
-مَالُهُ هَبَاءً؟
-  </p>
-</blockquote>
+> يَا أَبَا سَيَّارٍ، أَمَا عَلِمْتَ أَنَّ مَنْ بَاعَ الْمَاءَ
+> وَالطِّينَ وَلَمْ يَجْعَلْ ثَمَنَهُ فِي الْمَاءِ وَالطِّينِ ذَهَبَ
+> مَالُهُ هَبَاءً؟
 
 *Abu-Sayyar, know that whoever sells water and mud (i.e. land or estate)
 but does not put its* *financial return in some other water and mud has
@@ -1351,11 +1123,7 @@ The Imam (‘a) answered, “If so, there is no objection to selling it.”
 According to another narration, the Ahl al-Bayt (‘a) are reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-مُشْتَرِي الْعُقْدَةِ مَرْزُوقٌ، وَبَائِعُهَا مَمْحُوقٌ.
-  </p>
-</blockquote>
+> مُشْتَرِي الْعُقْدَةِ مَرْزُوقٌ، وَبَائِعُهَا مَمْحُوقٌ.
 
 *A purchaser of real estate will be granted sustenance, but the seller
 of it will be deprived of blessing.*[^52]
@@ -1485,5 +1253,4 @@ quoted from Shaykh al-Kulayni, al-Kafi 5:91, H. 2, 7 & Shaykh al-Saduq,
 man-la-yahdhuruhul-faqih 3:170, H. 3642.
 
 [^52]: - Shaykh al-Kulayni, al-Kafi 5:92, H. 6, 8, 4.
-
 

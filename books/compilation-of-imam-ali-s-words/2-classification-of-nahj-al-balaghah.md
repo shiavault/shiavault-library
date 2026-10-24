@@ -223,4 +223,3 @@ raging fire of hell, should necessarily possess the recognition of the
 Imam of his time and not simply rely on his worship and virtuous
 deeds.
 
-

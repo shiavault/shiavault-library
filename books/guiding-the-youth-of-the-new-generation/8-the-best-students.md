@@ -24,34 +24,22 @@ these words (with the exception of people such as Salman (r.d.a.), Abu
 Dharr (r.d.a.) and Miqdad (r.d.a.), others may not have completely
 understood his words).  The Prophet (S) had said:
 
-<blockquote dir="rtl">
-  <p>
-نَصَرَ اللٌّهُ عَبْدً سَمِعَ مَقٌالــَتِي فَوَعٌاهٌا وَ بَلَّغَهٌا
-مَنْ لَمْ يَبْلُغْهُ
-  </p>
-</blockquote>
+> نَصَرَ اللٌّهُ عَبْدً سَمِعَ مَقٌالــَتِي فَوَعٌاهٌا وَ بَلَّغَهٌا
+> مَنْ لَمْ يَبْلُغْهُ
 
 *“May Allah assist that servant who hears my words, understands them and
 then conveys them to those who have not been informed of them.”*[^1]
 
 In other narrations, this hadith has been mentioned as:
 
-<blockquote dir="rtl">
-  <p>
-نَصَّرَ  اللٌّهُ عَبْدً سَمِعَ مَقٌالَتِي...
-  </p>
-</blockquote>
+> نَصَّرَ  اللٌّهُ عَبْدً سَمِعَ مَقٌالَتِي...
 
 *“May Allah show kindness to that servant who hears my words...”*
 
 The Prophet (S) then said:
 
-<blockquote dir="rtl">
-  <p>
-رُبَّ حٌامِلٍ فِقْهٍ غَيْرَ فَقِيهٍ وَ رُبَّ حٌامِلٍ فِقْهٍ إِلـى مَنْ
-هُوَ أَفْقَهُ مِنْهُ
-  </p>
-</blockquote>
+> رُبَّ حٌامِلٍ فِقْهٍ غَيْرَ فَقِيهٍ وَ رُبَّ حٌامِلٍ فِقْهٍ إِلـى مَنْ
+> هُوَ أَفْقَهُ مِنْهُ
 
 *“How possible it is that sometimes a person possesses a deep
 understanding of the religion whereas he himself is not a Faqihi* *(one
@@ -76,11 +64,7 @@ understanding and comprehending this knowledge.
 
 For example, a person heard the words of the Prophet (S) when he said:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ ضَرَرَ وَ لاٌ ضِرٌارَ
-  </p>
-</blockquote>
+> لاٌ ضَرَرَ وَ لاٌ ضِرٌارَ
 
 *“Do not do anything that causes harm to yourself or to others.”*
 
@@ -139,11 +123,7 @@ limits of elucidating on the concept of Tawhid, if a person was to rebel
 and go against these verses, he would definitely be destroyed.  This is
 the miracle of prophethood and the miracle of the Qurʾan which is:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ تَنْقضى عَجٌائِبُهُ وَ لاٌ تَفْنـى غَرٌائِبُهُ
-  </p>
-</blockquote>
+> لاٌ تَنْقضى عَجٌائِبُهُ وَ لاٌ تَفْنـى غَرٌائِبُهُ
 
 *“It’s (the Qur*ʾ*an) points of amazement never cease to end and its
 amazement will never pass away.”*[^3]*16*
@@ -170,5 +150,4 @@ and be guided just as we were taught and guided!”
 [^2]: Furu\` al-Kafi, Volume 5, Page 293
 
 [^3]: Nahjul Balagha, Sermon 150
-
 

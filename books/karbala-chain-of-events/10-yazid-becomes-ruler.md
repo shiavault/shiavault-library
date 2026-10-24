@@ -44,4 +44,3 @@ he insisted on going.**Imam Husayn** , along with family, friends, and
 companions began the journey toward Kufa (1,100 miles) in a long caravan
 in the blistering heat of summer.
 
-

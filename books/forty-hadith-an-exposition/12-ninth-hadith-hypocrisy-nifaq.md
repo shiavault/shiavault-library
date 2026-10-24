@@ -1,16 +1,12 @@
 Ninth Hadith: Hypocrisy (Nifaq)
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
-الكُلَيْنِي عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ
-بْنِ عِيسَى، عَنْ مُحَمَّدِ بْنِ سِنَانٍ، عَنْ عَوْنٍ القَلانِسِيِّ،
-عَنِ ابْنِ أَبِي يَعْفُورَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
-قَالَ: مَنْ لَقِيَ المُسْلِمِينَ بِوَجْهَيْنِ وَلِسَانَيْنِ جَاءَ
-يَوْمَ القِيَامَةِ وَلَهُ لِسَانَانِ مِنْ نَارٍ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
+> الكُلَيْنِي عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ
+> بْنِ عِيسَى، عَنْ مُحَمَّدِ بْنِ سِنَانٍ، عَنْ عَوْنٍ القَلانِسِيِّ،
+> عَنِ ابْنِ أَبِي يَعْفُورَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> قَالَ: مَنْ لَقِيَ المُسْلِمِينَ بِوَجْهَيْنِ وَلِسَانَيْنِ جَاءَ
+> يَوْمَ القِيَامَةِ وَلَهُ لِسَانَانِ مِنْ نَارٍ.
 
 Thiqat al-Islam Muhammad ibn Ya’qub al-Kulayni, from Muhammad ibn Yahya,
 from Ahmad ibn Muhammad ibn ‘Isa, from Muhammad ibn Sinan, from ‘Awn ibn
@@ -64,11 +60,7 @@ vice is characteristic of the Devil, such as *nifaq* and
 double-facedness, which are attributes of that cursed being-whom the
 Quran quotes as having said to Adam and Eve:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنْ النَّاصِحِينَ.﴾
-  </p>
-</blockquote>
+> ﴿وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنْ النَّاصِحِينَ.﴾
 
 ***And he swore unto them*** (***saying***)***: Lo. I am a sincere
 adviser unto you.*** (***7:21***)
@@ -142,12 +134,8 @@ announced that he was double-faced and double-tongued in the world.
 He will be known on that day by this vice of his, the following Quranic
 verse having become applicable to him:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي
-الْأَرْضِ أُوْلَئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ.﴾
-  </p>
-</blockquote>
+> ﴿وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي
+> الْأَرْضِ أُوْلَئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ.﴾
 
 ***And sever that which Allah hath commanded should be joined, and make
 mischief in the earth; theirs is the curse and theirs the ill abode.***
@@ -160,12 +148,8 @@ express text of the Quran, is worse than homicide. Another is slandering
 (*namimah*)*,* which is denounced by Imam al-Baqir (A) in the following
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-مُحَرَّمَةٌ الجَنَّةُ عَلَى الفَتَّانِينَ المَشَّائِينَ
-بِالنَّمِيمَةِ.
-  </p>
-</blockquote>
+> مُحَرَّمَةٌ الجَنَّةُ عَلَى الفَتَّانِينَ المَشَّائِينَ
+> بِالنَّمِيمَةِ.
 
 (Entry to) Paradise is prohibited to slanderers who walk on the path of
 calumny (i.e. are habitual slanderers).[^3]
@@ -256,12 +240,8 @@ can freely steer our hearts in the direction of felicity or in the
 direction of wretchedness. We are hostages of our actions, about which
 the Quran says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
-  </p>
-</blockquote>
+> ﴿فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
 
 ***And whoso doth good an atom’s weight will see it, and whoso doth ill
 an atom’s weight will see it.*** (***99:7-8***)
@@ -301,21 +281,13 @@ we pretend the highest degree of sincerity (*ikhlas*) and put forth
 claims to the *wilayah* and the *khilafah* of the Prophet (S). We
 imagine that the words uttered by the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-اللَّّهُمَّ ارْحَمْ خُلَفَائِي.
-  </p>
-</blockquote>
+> اللَّّهُمَّ ارْحَمْ خُلَفَائِي.
 
 O God! Have mercy upon my successors.
 
 And by the present Imam (A) -may my soul be sacrificed for him:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُمْ حُجَّتِي.
-  </p>
-</blockquote>
+> إنَّهُمْ حُجَّتِي.
 
 Verily they are my proofs.
 
@@ -342,11 +314,7 @@ complies with his inner reality and this appearance corresponds to his
 secret inward, he is of course truthful in claims and his blessed
 condition indeed deserves congratulations:
 
-<blockquote dir="rtl">
-  <p>
-هَنِيئاً لَهُ وَلأرْبَابِ النَّعِيمِ.
-  </p>
-</blockquote>
+> هَنِيئاً لَهُ وَلأرْبَابِ النَّعِيمِ.
 
 May the blessing do much good to him and to its other possessors.
 
@@ -359,11 +327,7 @@ darkness and humiliation that awaits him.
 My dear, you who claim adherence to Islam, there is a tradition in
 *al-Kafi* reported from the Apostle of God (S):
 
-<blockquote dir="rtl">
-  <p>
-المُسْلِمُ مَنْ سَلِمَ المُسْلِمُونَ مِنْ يَدِهِ وَلِسَانِهِ.
-  </p>
-</blockquote>
+> المُسْلِمُ مَنْ سَلِمَ المُسْلِمُونَ مِنْ يَدِهِ وَلِسَانِهِ.
 
 A Muslim is one whose hand and tongue spare all Muslims.[^4]
 
@@ -418,12 +382,8 @@ And you who claim to be an appointee to the office of *wilayah*
 *khilafah* by the Apostle (S) of God, if your condition is in accordance
 with the specifications mentioned in the tradition of *al-’Ihtijaj:*
 
-<blockquote dir="rtl">
-  <p>
-صَائِناً لِنَفْسِهِ حَافِظاً لِدِينِهِ مُخَالِفاً لِهَوَاهُ مُطِيعاً
-لأمْرِ مَوْلاهُ.
-  </p>
-</blockquote>
+> صَائِناً لِنَفْسِهِ حَافِظاً لِدِينِهِ مُخَالِفاً لِهَوَاهُ مُطِيعاً
+> لأمْرِ مَوْلاهُ.
 
 He who keeps his soul chaste, safeguards his faith, opposes his desires,
 and obeys the commands of his Master.[^5]
@@ -471,11 +431,7 @@ extravagant claims reveal only your self love and your -satanic
 tendencies, which are opposed to the love of God and godly fervor, for
 God says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أَوْلِيائِي تَحْتَ قِبابِي لا يَعْرِفُهُمْ غَيْرِي.
-  </p>
-</blockquote>
+> إنَّ أَوْلِيائِي تَحْتَ قِبابِي لا يَعْرِفُهُمْ غَيْرِي.
 
 Verily, My awliya’, under My vault (i.e. the sky), are known to none
 except Me.[^6]
@@ -490,11 +446,7 @@ to God, and their hearts are valuable and precious they are to be
 employed in the service of God. Do not make a sport of the house of the
 Lord, and do not put your hands on His sanctities, for it has been said,
 
-<blockquote dir="rtl">
-  <p>
-فَإنَّ لِلْبَيْتِ رَبّاً.
-  </p>
-</blockquote>
+> فَإنَّ لِلْبَيْتِ رَبّاً.
 
 Indeed the house has a Master.
 
@@ -543,5 +495,4 @@ la yahduruhu al-faqih, vol. 3; al-Nuri, Mustadrak al-Wasa’il, vol. 3, p.
 187 ; Shaykh Muhammad Hasan, al-Jawahir, vol. 40, p. 32.
 
 [^6]: Ahadith qudsi. Source untraced.
-
 

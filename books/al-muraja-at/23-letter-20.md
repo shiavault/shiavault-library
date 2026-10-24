@@ -130,4 +130,3 @@ book. If you look into page 255, Vol. 3, of Sharh Nahjul Balaghah by the
 Mu’tazilite Imam Ibn Abul-Hadid, or at the end of the explanation of the
 "qasi’a sermon" in it, you will find this hadith in its entirety.
 
-

@@ -269,4 +269,3 @@ and this is how Shi'ism truly reflects this spirit.
 [^21] 4:69
 [^22] al-Kulayni, Usul al-Kafi
 
-

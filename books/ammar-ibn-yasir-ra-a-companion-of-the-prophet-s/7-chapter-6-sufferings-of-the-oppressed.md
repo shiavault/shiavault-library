@@ -259,4 +259,3 @@ slavegirls and slaves who were reckoned to belong to the tribe of
 Quraysh and whose number amounted to thirteen. All of them were
 purchased and set free by Abu Bakr.
 
-

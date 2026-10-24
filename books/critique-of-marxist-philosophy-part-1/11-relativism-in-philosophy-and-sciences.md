@@ -51,4 +51,3 @@ product of Pavlov's physiology and stimuli; Freud's theory a product of
 his unconscious urges; historical materialism also becomes a product of
 the economic conditions in which Marx lived.
 
-

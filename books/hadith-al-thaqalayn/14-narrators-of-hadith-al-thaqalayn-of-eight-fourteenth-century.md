@@ -170,4 +170,3 @@ al-tali\`, i, 229.
 
 [^8]: Al­Shawkani, al-Badr al-tali\`, ii, 303.
 
-

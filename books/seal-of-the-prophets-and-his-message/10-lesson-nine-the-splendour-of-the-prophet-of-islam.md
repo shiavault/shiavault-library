@@ -318,4 +318,3 @@ would envelop him.
 
 [^5]: Sirat ibn Hisham, Volume I.
 
-

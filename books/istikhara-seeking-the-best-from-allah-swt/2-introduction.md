@@ -100,12 +100,8 @@ the deep knowledge and insight of others.
 
 He, peace be upon him, has said:
 
-<blockquote dir="rtl">
-  <p>
-حَقٌ عَلَى الْعَاقِلِ أَنْ يَضِيْفَ إلَى رَأَيِهِ رَأْيَ الْعُقَلاَّء
-وَيَضُمُّ إِلَى عِلْمِهِ عُلُومَ الْحُكَماءِ.
-  </p>
-</blockquote>
+> حَقٌ عَلَى الْعَاقِلِ أَنْ يَضِيْفَ إلَى رَأَيِهِ رَأْيَ الْعُقَلاَّء
+> وَيَضُمُّ إِلَى عِلْمِهِ عُلُومَ الْحُكَماءِ.
 
 \`It is incumbent on the person of intellect that he humble himself to
 the views and intelligence of the intellectuals and that he combine his
@@ -167,5 +163,4 @@ people, it has a special place amongst a select group of \`Ulama.[^3]
 [^2]: Refer to Hadith 30 to 33 for this method
 
 [^3]: See Hadith number 35 for this method.
-
 

@@ -12,4 +12,3 @@ at the daughters of the Prophet. Sahl payed 400 Dinars to the holder of
 the head, and in return asked for him to do as Sakeenah had asked of
 him. Sahl died at the age of 96 or 100 on 88 AH.
 
-

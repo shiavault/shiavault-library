@@ -49,7 +49,6 @@ came him. "How can I lead the prayers when they thought of many people
 saying their prayers behind me had already occurred ?" This was his
 humble reply.
 
-
 **7) Signs of Pride in Man**
 
 The following are the signs evident in a proud person :
@@ -199,5 +198,4 @@ Tawadhu - (humbleness and humility) is of three kinds :
 
 All these are ways of showing humbleness and humility towards Allah
 (s.w.t.)
-
 

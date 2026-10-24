@@ -85,52 +85,36 @@ balanced and calculated frame of organization and discipline. In Islam,
 existence is not a confusion, absurdity or loss, as is evident by the
 following verses of the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-“أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لَا تُرْجَعُونَ “
-  </p>
-</blockquote>
+> “أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لَا تُرْجَعُونَ “
 
 ***[23:115] What! did you then think that We had created you in vain and
 that you shall not be returned to Us?*** ***“He has created everything
 and has ordained for it a measure.”***
 
-<blockquote dir="rtl">
-  <p>
-“الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَلَمْ يَتَّخِذْ
-وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَخَلَقَ كُلَّ شَيْءٍ
-فَقَدَّرَهُ تَقْدِيرًا”
-  </p>
-</blockquote>
+> “الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَلَمْ يَتَّخِذْ
+> وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَخَلَقَ كُلَّ شَيْءٍ
+> فَقَدَّرَهُ تَقْدِيرًا”
 
 ***[25:2] He, Whose is the kingdom of the heavens and the earth, and Who
 did not take to Himself a son, and Who has no associate in the kingdom,
 and Who created everything, then ordained for it a measure.***
 
-<blockquote dir="rtl">
-  <p>
-“اللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنْثَىٰ وَمَا تَغِيضُ
-الْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ “
-  </p>
-</blockquote>
+> “اللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنْثَىٰ وَمَا تَغِيضُ
+> الْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ “
 
 ***[13:8] Allah knows what every female bears, and that of which the
 wombs fall short of completion and that in which they increase; and
 there is a measure with Him of everything.***
 
-<blockquote dir="rtl">
-  <p>
-“وَأَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ
-يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَاحْكُمْ بَيْنَهُمْ
-بِمَا أَنْزَلَ اللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ عَمَّا جَاءَكَ
-مِنَ الْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا ۚ
-وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ
-لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ إِلَى
-اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ
-تَخْتَلِفُونَ “
-  </p>
-</blockquote>
+> “وَأَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ
+> يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَاحْكُمْ بَيْنَهُمْ
+> بِمَا أَنْزَلَ اللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ عَمَّا جَاءَكَ
+> مِنَ الْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا ۚ
+> وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ
+> لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ إِلَى
+> اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ
+> تَخْتَلِفُونَ “
 
 ***[5:48] And We have revealed to you the Book with the truth, verifying
 what is before it of the Book and a guardian over it, therefore judge
@@ -141,5 +125,4 @@ would have made you (all) a single people, but that He might try you in
 what He gave you, therefore strive with one another to hasten to
 virtuous deeds; to Allah is your return, of all (of you), so He will let
 you know that in which you differed;***
-
 

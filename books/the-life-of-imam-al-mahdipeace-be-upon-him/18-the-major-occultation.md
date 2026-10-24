@@ -39,7 +39,7 @@ He replied, “I have not heard about his deputyship openly and clearly.”
 They told him, “Though you have not heard, other reliable and
 trustworthy people have heard it.”
 
-He said, “Your hearing is for you.”<sup>[1]</sup>
+He said, “Your hearing is for you.”[1]
 
 Some of the claims of Karkhi and his written statements prove that he
 had departed from religion and denied some necessary principles of
@@ -56,7 +56,7 @@ curse on Ahmad bin Hilal:
 not have mercy on him and those who do not seek aloofness from him. Then
 convey this matter to Ishaqi and his townspeople and inform about this
 sinner man and also whoever who has inquired about it or would inquire
-from you in the future.”<sup>[2]</sup>
+from you in the future.”[2]
 
 2. Hasan Sharii
 ---------------
@@ -70,12 +70,12 @@ befit them.
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Ghaybah, Shaykh Tusi; Mojamur Rijalul Hadith Vol. 2 Pg.
+[1] Ghaybah, Shaykh Tusi; Mojamur Rijalul Hadith Vol. 2 Pg.
 369 [2] Ghaybah, Shaykh Tusi
 
 Those great personalities dissociated themselves from him. Therefore the
 Shias have also sought aloofness from him and cursed him. His Eminence
-has also cursed him in one of his blessed epistles.<sup>[1]</sup>
+has also cursed him in one of his blessed epistles.[1]
 
 3. Husain bin Mansur
 --------------------
@@ -138,7 +138,7 @@ bread and Halwa as a result of the prayer of Hallaj.” Many gullible
 people used to be influenced by this fraud and it seemed to be an
 unnatural phenomenon and a miracle and they used to become such zealous
 disciple of his that they even sought his urine as means of
-cure.<sup>[1]</sup>
+cure.[1]
 
 It is said that Hallaj also claimed divinity and one of his writing says
 as follows, “If one fasts for three days continuously without breaking
@@ -348,21 +348,21 @@ annexed the Kingdom of Hamadani dynasty in Sanaa and Najjahi Kingdom in
 Zubaid. His grandson, Abdul Nabi took over the position of his
 grandfather in 1162 AD and continued the efforts of his predecessor.
 However, Turan Shah, on behalf of Salauddin Ayyubi destroyed his
-rule.<sup>[1]</sup>
+rule.[1]
 
 3. Mahdi of Senegal
 -------------------
 
 In 1828 A.D. a character appeared in Senegal and claimed to be the
 Awaited Mahdi. He took up the standard of revolt against the regime of
-that time but was defeated badly and executed.<sup>[2]</sup>
+that time but was defeated badly and executed.[2]
 
 4. Mahdi of Soos
 ----------------
 
 Soos is a town in Western Arabia. In this place a man arose and claimed
 to be the Awaited Imam. A large number of people began to follow him but
-he was shot dead.<sup>[3]</sup>
+he was shot dead.[3]
 
 ------------------------------------------------------------------------
 
@@ -375,7 +375,7 @@ he was shot dead.<sup>[3]</sup>
 A person named Muhammad, the son of Abdullah Somalian claimed in 1899
 A.H. to be the Awaited Imam. He had great influence in his tribe, Ujadin
 and he fought the British and Italian forces for almost 20 years and
-died in 1920 A.H.<sup>[1]</sup>
+died in 1920 A.H.[1]
 
 These were some persons who claimed to be the Promised Mahdi. Here we
 conclude our discussion on this subject.

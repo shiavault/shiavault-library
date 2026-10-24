@@ -39,4 +39,3 @@ this work.
 Islamic Thought Foundation  
 *First Publication, 1995*
 
-

@@ -1,8 +1,6 @@
 Introduction
 ============
 
-  
-
 ##### **In the Name of Allah, Most Gracious, Most Merciful**
 
 The Peace Treaty of al-Hasan, peace be on him, with Mu'awiya was among
@@ -33,8 +31,6 @@ Sharaf al-Din) had tried to achieve this task. However, Allah, the Great
 and Almighty, had decreed to single out the author of this new book,
 namely 'Sulh al-Hasan,' to accomplish this task instead of me. In his
 book, the author has shown a sound judgment, detailed  
-
-  
 
 correctness, and a separating limit between the truth and falsehood.
 
@@ -75,8 +71,6 @@ they are the manners of the Qur'an and of the Sunnah (the Prophet's
 words and deeds). In other words they are the manners  
  of the Prophet Muhammad and of Imam 'Ali. As for the  
 
-  
-
 manners of Mu'awiya, they are the manners of the Umayyads. Namely they
 were the manners of Abu Sufyan and of Hind.
 
@@ -116,8 +110,6 @@ and to waste the Public treasury. Allah's Apostle told the Muslims about
 these deeds of Mu'awiya. These deeds occurred as the Prophet said. So
 they were among the signs of his Prophethood.
 
-  
-
 Mu'awiya became active during the time of the second and third Caliphs.
 For they made him a governor over Sham (Syria) for twenty years. So he
 was able to control the organs of government strongly. In the meantime
@@ -156,8 +148,6 @@ Caliphs took them as close companions, made them governors over Muslims,
 and gave them powers of which no governor had. So the Umayyads applied
 their policy to Sham (Syria) for twenty years.
 
-  
-
 However, they did not refrain from committing ugly acts, nor did they
 prevent other people from doing them.
 
@@ -195,8 +185,6 @@ or does it belong to Allah and the people?"
 
 In this connection Abu Hurayra said: "When 'Umar removed me from
 Bahrain, he said to me: 'Enemy of Allah and enemy of His Book,  
-
-  
 
 you have stolen the money of Allah!' So I said: 'I am not the enemy of
 Allah, nor am I the enemy of His Book. Rather I am the enemy of your
@@ -238,8 +226,6 @@ sacrificed his life at the Battle of
 biography of al Harith b. Wahab, b. Hajar has reported the above-
 mentioned words in his book 'al-Isaba,' Chapter One, on the authority of
 al-Zubayr b. Bakkar.
-
-  
 
 Karbala'. He gathered the Hashimites and their followers. He waged war
 against the strong Umayyads. If al-Hasan had sacrificed his life in this
@@ -283,8 +269,6 @@ important role in supporting the truth and its followers, praise be to
 Allah. Read the chapter: "the Secret of the Attitude" in this book.
 [[3]](#n4) Read the Peace Treaty in this book.
 
-  
-
 Al-Hasan, peace be on him, made these conditions to show the people the
 artificial qualities of the Umayyads and to show them the false aspects
 of Mu'awiya. In other words al-Hasan wanted to show the people that
@@ -326,8 +310,6 @@ This Peace Treaty paved the way for al-Hasan, peace be on him, to ambush
 Mu'awiya through his own soldiers and to kill him while he did not know.
 Also the Peace Treaty helped al-Hasan to turn the  
 
-  
-
 victory of the Umayyads into a mutiny against them.
 
 Immediately after the Peace Treaty, the signs of the mutiny against
@@ -365,8 +347,6 @@ burnt their houses, and stole their money. Generally speaking, he did
 his best to persecute them.
 
 Mu'awiya ended off his abominable acts with appointing his  
-
-  
 
 corrupt son Yazid a ruler over Muslims. Yazid the corrupt spared no
 effort to destroy the religion of Muslims and to spoil their life in
@@ -409,8 +389,6 @@ kept his life to lead a silent struggle. When the time came, al Husayn
 died a martyr at the Battle of Karbala'. However, this martyrdom had
 belonged to al-Hasan before it belonged to al Husayn.
 
-  
-
 The wise deeply know that the sacrifice at the Battle of Sabat was more
 meaningful than that at the Battle of Karbala'. For al-Hasan, peace be
 on him, practiced bravery patiently. In other words he endured hardships
@@ -451,8 +429,6 @@ prophet's granddaughters as prisoners.
 The people knew that Mu'awiya went on his wicked plan towards al-Hasan
 till he poisoned him. They knew that Mu'awiya was  
 
-  
-
 indifferent to the Peace Treaty, which he made with al-Hasan. Also they
 knew that al-Husayn revolted against the Umayyads because their
 oppression reached its zenith.
@@ -492,8 +468,6 @@ Thanks to our master, our prototype, the prominent figure of the
 community, expert in the secrets of the Imams, Hujjat al-Islam and
 Muslims, our holy Shaykh, Shaykh Radi Al-Yasin, may Allah promote his
 rank. For he was the first to discover the secret of the  
-
-  
 
 relationship between the Peace Treaty of al-Hasan and the revolution of
 al-Husayn.

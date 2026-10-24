@@ -90,7 +90,6 @@ Abu Talib said: "Tell me, who is he"?
 Buhayra replied: "His eyes bear the signs of the eyes of a prominent
 prophet and a clear mark of prophethood is on his back".
 
-
 **THE STORY OF MONK NESTORIUS**
 
 After a few years, the Holy Prophet, acting as a representative, set
@@ -116,7 +115,6 @@ Masirah said: "Yes, his eyes are always like this".
 The monk said: "That's it. He is the last prophet of the prophets of
 Allah. I wish I could find out the day when he will invite the
 people."
-
 
 **GOOD TIDINGS GIVEN BY THE JEWS OF MADINAH**
 
@@ -308,7 +306,6 @@ had also made an agreement to support and vindicate the Holy Prophet
 (SA), if he came to Madinah, just as they would defend their own life
 and honour.
 
-
 **THE HIJRAH OF THE HOLY PROPHET (SA)TO MADINAH**
 
 The Holy Prophet (SA) reached a cave in Mount Thawr near Makkah and hid
@@ -469,7 +466,6 @@ reaching Madinah, the army of the enemy found no way to enter the city.
 They inevitably besieged the city and started the battle in that
 position. The siege and battle continued for sometime.
 
-
 It was in this battle only that ' Amr ibn 'Abdwudd, a most renowned
 equestrian and a most famous brave man of Arabia, was killed by the
 powerful hands of 'Ali (AS). Finally, as a result of wind, cold, the
@@ -576,5 +572,4 @@ remained in shelters and only issued the orders for attacks and killing,
 the Holy Prophet (SA) himself took part in the battlefield along with
 other soldiers, but no occasion arose for him to embark upon killing
 anyone.
-
 

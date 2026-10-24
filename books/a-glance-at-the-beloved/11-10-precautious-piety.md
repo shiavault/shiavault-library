@@ -124,12 +124,8 @@ and interconnected. However, once the string breaks down, the beads will
 scatter instantly in all directions and the rosary will lose its very
 existence. Imam Zainul Abedeen (a.s.) reveals
 
-<blockquote dir="rtl">
-  <p>
-الورع نِظامُ العِبادةِ. فاِذا انقطع الورع، ذهبت الديانة. كما انه اذا
-انقطع السلك اتبعه النظام.
-  </p>
-</blockquote>
+> الورع نِظامُ العِبادةِ. فاِذا انقطع الورع، ذهبت الديانة. كما انه اذا
+> انقطع السلك اتبعه النظام.
 
 Precautious Piety is the like the string that unites all the acts of
 worship. If Precautious Piety is severed, religion will vanish, just
@@ -142,11 +138,7 @@ together with the cohesiveness of ورع, so that it protects one's
 religion. Therefore traditions underline the futility of اجتهاد
 withoutورع In this regard Imam Sadiq (a.s.) asserts:
 
-<blockquote dir="rtl">
-  <p>
-إعْلَمْ اَنَّهُ لا يَنْفَعُ اجْتِهادٌ لا وَرَعَ فيْه.
-  </p>
-</blockquote>
+> إعْلَمْ اَنَّهُ لا يَنْفَعُ اجْتِهادٌ لا وَرَعَ فيْه.
 
 'Know that struggle without precautious piety is not beneficial.'[^4]
 
@@ -156,11 +148,7 @@ accompanied with it. A person asked Imam Sadiq (a.s.) - Which action
 stabilises a person's faith?'  
  Imam (a.s.) replied,
 
-<blockquote dir="rtl">
-  <p>
-الَّذي يُثْبِتُهُ فيه الوَرَعُ.
-  </p>
-</blockquote>
+> الَّذي يُثْبِتُهُ فيه الوَرَعُ.
 
 'ورع keeps a person's faith steadfast.'[^5]
 
@@ -172,12 +160,8 @@ the highest level is abandoning sins, while the highest form of ورع is
 abandoning even the doubtful matters (that even hint at sins). Imam
 Sadiq (a.s.) narrates:
 
-<blockquote dir="rtl">
-  <p>
-اورَعُ النَّاسِ مَنْ وَقَفَ عِنْدَ الشُبْهَةِ..... اَشَدُّ النَّاسِ
-اجْتِهاداً مَنْ تَرَكَ الّذُّنوب؟
-  </p>
-</blockquote>
+> اورَعُ النَّاسِ مَنْ وَقَفَ عِنْدَ الشُبْهَةِ..... اَشَدُّ النَّاسِ
+> اجْتِهاداً مَنْ تَرَكَ الّذُّنوب؟
 
 'The person with maximum ورع desists from committing even doubtful acts.
 And the person with maximum اجتهاد leaves all sins.'[^6]
@@ -193,12 +177,8 @@ in Allah's affairs and a means of salvation for their friends, have
 strongly recommended ورع for their Shias. As declared by traditions,
 Shias help their Imams (a.s.) by adopting ورع
 
-<blockquote dir="rtl">
-  <p>
-وَ اللهِ اِنَّكُمْ لَعَلى دِينِ اللهِ وَ مَلائِكَتِهِ. فَاعينُونا على
-ذلك بِوَرَعٍ و اجْتِهادٍ.
-  </p>
-</blockquote>
+> وَ اللهِ اِنَّكُمْ لَعَلى دِينِ اللهِ وَ مَلائِكَتِهِ. فَاعينُونا على
+> ذلك بِوَرَعٍ و اجْتِهادٍ.
 
 'I swear by Allah, you are on the religion of Allah and the religion of
 angels. Then help us through ورع and اجتهاد '[^7]
@@ -329,5 +309,4 @@ Tradition 10)
 [^9]: Bihar al-Anwar, Vol. 8, Pg. 59
 
 [^10]: Bihar al-Anwar, Vol. 8, Pg. 62, Tradtion 31
-
 

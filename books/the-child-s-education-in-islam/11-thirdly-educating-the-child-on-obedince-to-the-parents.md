@@ -85,7 +85,6 @@ possess a stature, he will then be accustomed with obedient to the
 parents consequently he will obey all personalities he meets from his
 parents or from the school or from the community.
 
-
 **Forthly : Doing Good to The Child and Honoring Him**
 
 The child of this stage is in need of love and appreciation from the
@@ -182,5 +181,4 @@ the side of his parents or from the side of the community but
 continuation of love with him. We also tried to convince him to refrain
 from bad actions and to make realize that in this situation the love and
 the sympathy will reach a higher stage.
-
 

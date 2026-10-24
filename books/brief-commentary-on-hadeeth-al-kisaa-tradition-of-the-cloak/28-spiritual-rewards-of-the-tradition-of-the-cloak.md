@@ -1,15 +1,11 @@
 Spiritual Rewards of The Tradition of The Cloak
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ النَّبيُّ ( صلى الله عليه وآله ) : وَالَّذي بَعَثَنِي بِالحَقِّ
-نَبِيّاً وَ اصطَفانِي بِالرِّسالَةِ نَجِيّاً ، ما ذُكِرَ خَبَرُنا هذا
-فِي مَحفِلٍ مِن مَحافِل أَهلِ الأَرَضِ وَ فِيهِ جَمعٌ مِن شِيعَتِنا وَ
-مُحِبِيِّنا إِلاّ وَ نَزَلَت عَلَيهِمُ الرَّحمَةُ ، وَ حَفَّت بِهِمُ
-المَلائِكَةُ وَ استَغفَرَت لَهُم إِلى أَن يَتَفَرَّقُوا
-  </p>
-</blockquote>
+> فَقالَ النَّبيُّ ( صلى الله عليه وآله ) : وَالَّذي بَعَثَنِي بِالحَقِّ
+> نَبِيّاً وَ اصطَفانِي بِالرِّسالَةِ نَجِيّاً ، ما ذُكِرَ خَبَرُنا هذا
+> فِي مَحفِلٍ مِن مَحافِل أَهلِ الأَرَضِ وَ فِيهِ جَمعٌ مِن شِيعَتِنا وَ
+> مُحِبِيِّنا إِلاّ وَ نَزَلَت عَلَيهِمُ الرَّحمَةُ ، وَ حَفَّت بِهِمُ
+> المَلائِكَةُ وَ استَغفَرَت لَهُم إِلى أَن يَتَفَرَّقُوا
 
 **The Prophet, peace be upon him and his Household, said, "I swear this
 by Him Who has sent me with the truth as Prophet and chosen me, as
@@ -110,11 +106,7 @@ Another man said to Imam Al Sajjad (AS), “Oh son of Messenger of Allah,
 I am from your sincere Shi’a.” So the Imam (AS) replied back to him, “If
 you are like Prophet Ibraheem *Khaleelullah* whom Allah (SWT) has said
 
-<blockquote dir="rtl">
-  <p>
-وإن من شيعته لابراهيم
-  </p>
-</blockquote>
+> وإن من شيعته لابراهيم
 
 ***(Verily among those who followed his Way was Abraham.) (37:83)***
 
@@ -259,13 +251,9 @@ are encouraged by Allah (SWT) to seek repentance to Him and ask
 forgiveness of our sins by intercession via the Holy Prophet (SA), as
 indicated in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا.
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا.
 
 ***“And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Messenger had (also) asked
@@ -276,5 +264,4 @@ As indicated in this verse, a servant will find Allah (SWT) to be
 forgiving if he enhances his own repentance by seeking intercession of
 the Prophet (SA) whose prayers will be answered by virtue of his close
 proximity to the Almighty Creator.
-
 

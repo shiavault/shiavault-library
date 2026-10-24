@@ -4,18 +4,10 @@ Section 1: Those Given the Knowledge (By Allah)
 Surah As-Saba- Verse 1
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي
-الأَرْضِ وَلَهُ الْحَمْدُ فِي الأَخِرَةِ وَهُوَ الْحَكِيمُ الْخَبِيرُ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي
+> الأَرْضِ وَلَهُ الْحَمْدُ فِي الأَخِرَةِ وَهُوَ الْحَكِيمُ الْخَبِيرُ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -120,12 +112,8 @@ existence, and there is no being but praises and glorifies Him.
 Surah As-Saba- Verse 2
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ مَا يَلِجُ فِي الأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ
-مِنَ السَّمَآءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ الرَّحِيمُ الْغَفُورُ
-  </p>
-</blockquote>
+> يَعْلَمُ مَا يَلِجُ فِي الأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ
+> مِنَ السَّمَآءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ الرَّحِيمُ الْغَفُورُ
 
 ***2. “He knows whatever goes down into the earth and whatever comes out
 of it, and whatever comes down from the heaven and whatever goes up to
@@ -214,14 +202,10 @@ dimensions and it must not be limited in one side.
 Surah As-Saba- Verse 3
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لاَ تَأْتِينَا السَّاعَةُ قُلْ بَلَي
-وَرَبّـِي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ لاَ يَعْزُبُ عَنْهُ
-مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلاَ فِي الأَرْضِ وَلآ أَصْغَرُ
-مِن ذَلِكَ وَلآ أَكْبَرُ إِلاَّ فِي كِتَابٍ مُّبِينٍ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لاَ تَأْتِينَا السَّاعَةُ قُلْ بَلَي
+> وَرَبّـِي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ لاَ يَعْزُبُ عَنْهُ
+> مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلاَ فِي الأَرْضِ وَلآ أَصْغَرُ
+> مِن ذَلِكَ وَلآ أَكْبَرُ إِلاَّ فِي كِتَابٍ مُّبِينٍ
 
 ***3. “And those who disbelieve say: ‘The Hour (of Judgment) shall not
 come upon us.’ Say: ‘Yes! By my Lord, the Knower of the unseen, it shall
@@ -328,12 +312,8 @@ outwardly change, but they will never vanish.
 Surah As-Saba- Verse 4
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَجْزِيَ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ اُوْلَئِكَ
-لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
-  </p>
-</blockquote>
+> لِيَجْزِيَ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ اُوْلَئِكَ
+> لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
 
 ***4. “That He may reward those who believe and do righteous deeds, for
 such is forgiveness and a bountiful provision.”***
@@ -379,12 +359,8 @@ than that.[^5]
 Surah As-Saba- Verse 5
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ سَعَوْ فِي ءَايَاتِنَا مُعَاجِزِينَ اُوْلَئِكَ لَهُمْ
-عَذَابٌ مِن رّ‌ِجْزٍ أَلِيمٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ سَعَوْ فِي ءَايَاتِنَا مُعَاجِزِينَ اُوْلَئِكَ لَهُمْ
+> عَذَابٌ مِن رّ‌ِجْزٍ أَلِيمٌ
 
 ***5. “And those who strive hard in invalidating Our signs, challenging
 (us), for such will be a chastisement of a painful wrath.”***
@@ -442,12 +418,8 @@ Allah.
 Surah As-Saba- Verse 6
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَرَي الَّذِينَ اُوتُوا الْعِلْمَ الَّذِي اُنزِلَ اِلَيْكَ مِن
-رَبّـِكَ هُوَ الْحَقَّ وَيَهْدِي اِلَي صِرَاطِ الْعَزِيزِ الْحَمِيدِ
-  </p>
-</blockquote>
+> وَيَرَي الَّذِينَ اُوتُوا الْعِلْمَ الَّذِي اُنزِلَ اِلَيْكَ مِن
+> رَبّـِكَ هُوَ الْحَقَّ وَيَهْدِي اِلَي صِرَاطِ الْعَزِيزِ الْحَمِيدِ
 
 ***6. “And those who have been given the knowledge see that what has
 been sent down to you from your Lord is the truth, and guides to the
@@ -535,13 +507,9 @@ power and all sorts of praised attributes.
 Surah As-Saba- Verse
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا هَلْ نَدُلُّكُمْ عَلَي رَجُلٍ
-يُنَبّـِئُكُمْ اِذَا مُزّ‌ِقْتُمْ كُلَّ مُمَزَّقٍ اِنَّكُمْ لَفِي
-خَلْقٍ جَدِيدٍ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا هَلْ نَدُلُّكُمْ عَلَي رَجُلٍ
+> يُنَبّـِئُكُمْ اِذَا مُزّ‌ِقْتُمْ كُلَّ مُمَزَّقٍ اِنَّكُمْ لَفِي
+> خَلْقٍ جَدِيدٍ
 
 ***7. “And those who disbelieve say (in ridicule): ‘Shall we point out
 to you a man who informs you (that) when you are scattered the utmost
@@ -595,12 +563,8 @@ end.
 Surah As-Saba- Verse 8
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفْتَرَي عَلَي اللَّهِ كَذِباً أَم بِهِ جِنَّةٌ بَلِ الَّذِينَ لاَ
-يُؤْمِنُونَ بِالأَخِرَةِ فِي الْعَذَابِ وَالضَّلاَلِ الْبَعِيدِ
-  </p>
-</blockquote>
+> أَفْتَرَي عَلَي اللَّهِ كَذِباً أَم بِهِ جِنَّةٌ بَلِ الَّذِينَ لاَ
+> يُؤْمِنُونَ بِالأَخِرَةِ فِي الْعَذَابِ وَالضَّلاَلِ الْبَعِيدِ
 
 ***8. “Has he forged a lie against Allah or there is madness in him?
 Nay! Those who do not believe in the Hereafter are in torment and are
@@ -665,14 +629,10 @@ just now they are in punishment and aberration in this world.
 Surah As-Saba- Verse 9
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَرَوْا اِلَي مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِنَ
-السَّمَآءِ وَالأَرْضِ اِن نَّشَأْ نَخْسِفْ بِهِمُ الأَرْضَ أَوْ
-نُسْقِطْ عَلَيْهِمْ كِسَفاً مِنَ السَّمَآءِ اِنَّ فِي ذَلِكَ لاَيَةً
-لِكُلّ‌ِ عَبْدٍ مُنِيبٍ
-  </p>
-</blockquote>
+> أَفَلَمْ يَرَوْا اِلَي مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِنَ
+> السَّمَآءِ وَالأَرْضِ اِن نَّشَأْ نَخْسِفْ بِهِمُ الأَرْضَ أَوْ
+> نُسْقِطْ عَلَيْهِمْ كِسَفاً مِنَ السَّمَآءِ اِنَّ فِي ذَلِكَ لاَيَةً
+> لِكُلّ‌ِ عَبْدٍ مُنِيبٍ
 
 ***9. “Have they not then observed what is before them and what is
 behind them of the heavens and the earth? If We please We will make them
@@ -755,5 +715,4 @@ under His power? Or how can we escape from the realm of His Government?
 [^4]: Surah Fatir, No. 35, verse 10
 
 [^5]: ’Alusi, in Rauh-ul-Ma‘ali, following the verse
-
 

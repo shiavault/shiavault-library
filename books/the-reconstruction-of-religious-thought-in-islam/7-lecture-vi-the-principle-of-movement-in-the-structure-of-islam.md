@@ -1046,4 +1046,3 @@ the light of ultimate principles, and evolve, out of the hitherto
 partially revealed purpose of Islam, that spiritual democracy which is
 the ultimate aim of Islam.59
 
-

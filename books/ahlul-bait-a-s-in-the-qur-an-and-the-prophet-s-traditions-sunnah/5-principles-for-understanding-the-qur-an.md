@@ -36,4 +36,3 @@ explaining most of the verses of the Qur'an and this should be done
 within the framework of the Qur'an and the Traditions in order to give
 their true and real meanings.
 
-

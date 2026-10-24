@@ -165,4 +165,3 @@ them.
 earnings as alms or charity. The mount differs according to Sunni and
 Shia traditions.
 
-

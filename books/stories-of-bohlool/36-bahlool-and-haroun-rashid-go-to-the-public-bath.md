@@ -11,4 +11,3 @@ just fifty dinars.”
 
 “I only gave the cost of the skirt because the Khalifa has no value.”
 
-

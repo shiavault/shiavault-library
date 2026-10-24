@@ -113,4 +113,3 @@ hand of Shi'ism came out of the Mongol sleeve" is a regrettable lapse
 for anyone while making a serious historical judgement, and especially
 when made by a researcher.
 
-

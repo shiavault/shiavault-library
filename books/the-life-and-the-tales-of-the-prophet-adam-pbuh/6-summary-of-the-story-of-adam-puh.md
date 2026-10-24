@@ -304,4 +304,3 @@ master of messengers and the end of the prophets Muhammand the Chosen
 and upon his Household the pious and the most righteous of his chosen
 mates, and thanks to God the Lord of all.
 
-

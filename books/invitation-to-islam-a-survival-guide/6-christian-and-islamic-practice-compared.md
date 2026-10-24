@@ -598,4 +598,3 @@ Islam is most useful when it increases real understanding of why people
 practice what they do and how they experience the practice of their
 faith.
 
-

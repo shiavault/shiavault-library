@@ -140,4 +140,3 @@ you have work but you will stop by after work.). (Jalali, pages
 If we can act on these points, it will be good for us, individually and
 as a community.
 
-

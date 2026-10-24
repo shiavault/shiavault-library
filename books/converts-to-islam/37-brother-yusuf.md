@@ -64,4 +64,3 @@ Inshallah, may Allah bless you all.
 revealed to you from your Lord is the truth, but most people do not
 believe.***
 
-

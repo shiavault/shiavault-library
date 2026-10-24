@@ -14,8 +14,7 @@ for mankind as a whole, and in general.
 
 Al-Tabarani reported on the authority of Rafi‘ ibn Khudayj as saying:
 The Messenger of Allah said: “Do not lie against me, since it is verily
-not the same as lying against any other man.” <span
-id="_anchor_73"></span>73
+not the same as lying against any other man.” 73
 
 The Muhammadan message brought to mankind doctrinal principles that no
 man, whatever his extent of knowledge be, can ever change one of them,
@@ -82,7 +81,7 @@ Ibn Sa’d in his Tabaqat, and Ibn Asakir from Mahmud ibn Labid, reported
 on the authority of Ibn Sa’d as saying: I heard Uthman ibn Affan
 addressing people from the minbar saying: It is imperssible for anyone
 to report a hadith he never heard of during the reign of Abu Bakr or
-that of Umar. <span id="_anchor_74"></span>74  The only reason that
+that of Umar. 74  The only reason that
 forbade me from narrating the hadith of the Messenger of Allah was
 fearing from being called the most conscious of his Companions, but I
 heard him saying: “Whoever ascribes to me that which I never said,
@@ -100,7 +99,7 @@ which he said: I said to al-Zubayr: You are not relating the Messenger’s
 traditions as done by so and so and so and so! He said: (You know that)
 I have never parted his (Prophet’s) company, but I verily heard him
 saying: “Whoever lies against me, shall verily occupy his abode in
-Fire.” <span id="_anchor_75"></span>75
+Fire.” 75
 
 In his comment on this hadith, Ibn Hajar said: This hadith was reported
 by al-Zubayr ibn Bakkar in his Kitab al-Nasab, in another way, from
@@ -119,15 +118,13 @@ be Fire.” The same hadith was reported by al-Darimi from Abd Allah ibn
 al-Zubayr, with the words “Whoever related from me falsely”, without
 mentioning the word “deliberately.”
 
-It was further reported by Abu Dawud, <span id="_anchor_77"></span>77
- al-Nasa’i, Ibn Majah, al-Darimi and al-Daraqutni, <span
-id="_anchor_78"></span>78  that he said: By God he never said the word
+It was further reported by Abu Dawud, 77
+ al-Nasa’i, Ibn Majah, al-Darimi and al-Daraqutni, 78  that he said: By God he never said the word
 “deliberately”, while you claim that he said it. Further, Ibn Qutaybah
-in his book Ta’wil mukhtalif al-hadith, <span id="_anchor_79"></span>79
+in his book Ta’wil mukhtalif al-hadith, 79
  is reported to have said: “Whoever tells lies against me his last abode
 shall be Fire,” adding: I see people adding the word “deliberately”,
-while I swear by God that I never heard him uttering it. <span
-id="_anchor_80"></span>80  In exposition of this hadith, Ibn Hajar says:
+while I swear by God that I never heard him uttering it. 80  In exposition of this hadith, Ibn Hajar says:
 “In al-Zubayr’s tenacity to this hadith for its indicating his paucity
 in narrating the hadith, is found the best evidence to show that falsity
 means to tell of something in a way opposite to its truth, whether
@@ -140,7 +137,7 @@ regarded an error on his part, – without his sensing it to be so – the
 method adopted to be sure of his reporting, the fact rendering him to be
 a cause for adopting rules that were never revealed by the Law-Giver.
 Thus, whoever fearing from being at fault through extensively narrating,
-is verily not immune against sinning.” <span id="_anchor_81"></span>81
+is verily not immune against sinning.” 81
  We are requested to reflect attentively on this hadith and its
 exposition, making it an example for other than it.
 
@@ -149,14 +146,13 @@ liar against him (the Prophet) is in Fire, and he insisted upon this
 declaring that the Fire shall be the last abode of that who lies against
 him (falsifies his
 
-hadith) whether deliberately or not, <span id="_anchor_82"></span>82 by
+hadith) whether deliberately or not, 82 by
 this hadith which is reported by Ibn Umar: “Verily that who ascribes
 false hadith to me, is building a house for himself in the Fire.” He
 even intensified the severity through these words that were reported by
 Uthman ibn Affan: “Whoever ascribes to me anything I never said…” So if
 he even only conveys his (S) utterance without intending falsity on
-purpose, shall be liable to this threat from the Prophet (S). <span
-id="_anchor_83"></span>83
+purpose, shall be liable to this threat from the Prophet (S). 83
 
 This tradition was reported in a different way, thus: “Whoever quotes
 from me that which I never said, should occupy his abode in Fire.”
@@ -170,8 +166,7 @@ Ahmad, to review what he narrated in this regard, when we can observe
 that many traditions with this meaning were narrated by him, all being
 devoid of the word “deliberately.”
 
-Following are some of his narrations in his famous treatise: <span
-id="_anchor_84"></span>84
+Following are some of his narrations in his famous treatise: 84
 
 It is reported from Wathilah ibn al-Asqa‘, that the Prophet said: “The
 worst calumny is that when one ascribing to me that which I never
@@ -204,7 +199,7 @@ scholars ... till he said: Men of resolution and determination have
 unanimously concurred on prohibiting falsity against common people so
 how would be the case with that whose saying is legislation, speech is
 revelation (from God), and falsity against him is falsity against Allah
-the Most High. <span id="_anchor_85"></span>85
+the Most High. 85
 
 Al-Suyuti is reported to have said: For evading this, the Rightly-guided
 Caliphs and chosen Companions (may God be pleased with them), used to be
@@ -231,14 +226,13 @@ which is strange to it, the practice
 
 entailing that they be examples followed by those addressed by them and
 taking from them, in a way that their listeners follow their tracks and
-do the same practice. <span id="_anchor_86"></span>86
+do the same practice. 86
 
 Malik ibn Ubadah is reported to have said: The Prophet has, during the
 Hijjat al-Wada‘ (Farewell Pilgrimage), committed to us declaring: Hold
 on to the Qur’an’, as you will return to a people longing for relating
 my hadith. So whoever comprehends anything, can narrate it, and whoever
-fabricates a lie against me has to occupy his abode in Hell. <span
-id="_anchor_87"></span>87
+fabricates a lie against me has to occupy his abode in Hell. 87
 
 There were the evidences I intended to cite for proving that the word
 “deliberately” never existed in Messenger’s hadith “Whoever fabricates a
@@ -246,7 +240,7 @@ lie against me…”. It is quite obvious from the traditions cited that the
 narrations of the leading Companions among whom being three of
 al-Khulafa al-Rashidun and al-Zubayr ibn al-Awwam, have all affirmed
 that the word “deliberately” could never be there in the correct
-narration of the hadith. <span id="_anchor_88"></span>88  Moreover,
+narration of the hadith. 88  Moreover,
 sound reason and noble disposition are averse to accept the narration
 with the word “deliberately”, since falsity is the mother of all
 abominable vices, whether be deliberate or not.
@@ -255,8 +249,7 @@ abominable vices, whether be deliberate or not.
 
 It might be that the Prophet (S) has warned against falsity against him
 after hearing that some people were fabricating lies against him though
-he being alive. In his book al-Ihkam fi usul al-ahkam, <span
-id="_anchor_89"></span>89  Ibn Hazm al-Zahiri reported from Abd Allah
+he being alive. In his book al-Ihkam fi usul al-ahkam, 89  Ibn Hazm al-Zahiri reported from Abd Allah
 ibn Buraydah, from Ibn al-Khatib al-Aslami, that he said: A suburb of
 Banu Layth was situated two miles away from al-Madinah, to which some
 man came putting on a cloak declaring: The Messenger of Allah garbed me
@@ -287,14 +280,9 @@ raised his hands till whiteness of his armpit could be seen, declaring:
 O Allah, I never sanction for them to fabricate a lie against me.
 Al-Muqanna‘ says: Thereafter I never related from the Prophet any hadith
 except that which agrees to the Book or be adopted and applied by a
-(practical) sunnah. <span id="_anchor_90"></span>90  Thus was the case
+(practical) sunnah. 90  Thus was the case
 regarding that who would lie against him during his lifetime! So how
 would it be after his death? Many reports are there to demonstrate this.
-
-  
-  
-  
-  
 
 73. This hadith was reported also by Muslim, al-Tirmidhi, al-Nasa'i, Ibn
 Majah, al-Daraqutni, and al-Hakim in al-Madkhal.

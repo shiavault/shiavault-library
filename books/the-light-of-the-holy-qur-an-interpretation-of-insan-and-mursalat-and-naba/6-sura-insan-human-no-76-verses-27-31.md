@@ -16,7 +16,6 @@ Sura Insan (human) No. 76 (verses 27-31)
 (31) يُدْخِلُ مَن يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمِينَ أَعَدَّ لَهُمْ
 عَذَابًا أَلِيمًا
 
-
 27. " They love the fleeting life and put away behind them a Day (that
 will be) hard and grievous."
 
@@ -32,7 +31,6 @@ All-knowing, All-wise".
 
 31. " He will admit to His Mercy whom He will, but (as for the)
 evildoers, He has prepared a painful penalty."
-
 
 **Commentary:
 This is an admonition; but it is you who choose the way**
@@ -205,7 +203,5 @@ stay firm and constant along Your way".
 "O Lord! We may not be of the righteous, but we love them. Please count
 us among them".
 
-
 **The End of Sura Insan (Human)**
-
 

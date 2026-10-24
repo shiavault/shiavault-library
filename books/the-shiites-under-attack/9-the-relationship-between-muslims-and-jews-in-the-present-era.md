@@ -217,4 +217,3 @@ those imaginary accusations which some people spread against their
 Shi'ite brothers, for it is clear that the Shi'ites are innocent of all
 these false and fabricated accusations.
 
-

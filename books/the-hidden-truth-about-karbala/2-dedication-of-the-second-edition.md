@@ -12,4 +12,3 @@ and who readily sacrificed their lives
 for perpetuating the faith in the Vicegerency of Imam Ali (a.s.) and the
 Eleven Imams (a.s.) from his progeny
 
-

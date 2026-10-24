@@ -634,4 +634,3 @@ religion" revealed after the event of Ghadir al-Khum?
 
 Answer: No, it was revealed at Ghadir al-Khum.
 
-

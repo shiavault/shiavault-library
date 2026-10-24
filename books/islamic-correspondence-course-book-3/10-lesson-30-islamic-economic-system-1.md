@@ -194,4 +194,3 @@ old and is unable (to work any longer), and then you have deprived him
 In short, Islam aims at eliminating the “need” (hajat), and elevating
 the needy people to the level of being “free from want” (ghani).
 
-

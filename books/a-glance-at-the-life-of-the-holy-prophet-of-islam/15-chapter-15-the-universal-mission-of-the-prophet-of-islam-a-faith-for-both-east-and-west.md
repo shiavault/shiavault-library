@@ -240,4 +240,3 @@ upon which the sun casts its rays'."[^10]
 
 [^10]: Bihar ul-Anwar, Vol. 21, p.361. 
 
-

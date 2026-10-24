@@ -71,4 +71,3 @@ policy of Ummayyads is based on violence, oppression and intimidation
 whereas our ways and methods are based on leniency, brotherhood and
 persuation"
 
-

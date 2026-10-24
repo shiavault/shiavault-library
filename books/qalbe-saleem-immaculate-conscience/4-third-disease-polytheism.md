@@ -2298,4 +2298,3 @@ spiritual pollution is removed.
 
 [^77]: Surah an-Nisa’ 4:49
 
-

@@ -172,9 +172,7 @@ The one to be recognized as the successor, generation after generation,
 After Muhammad, is 'Ali since for he was his companion in every
 occasion.
 
-
 Hamid Famagh (Iran) 9 These are among poetic lines composed as the
 answer of Walid ibn 'Uqbah ibn Abu Ma'it, quoted by Mohammad Mahmud
 Rafi'i in his Introduction to Sharh al-Hashemiyyat, page 8.
-
 

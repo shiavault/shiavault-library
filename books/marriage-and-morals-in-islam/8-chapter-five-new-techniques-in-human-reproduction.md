@@ -300,4 +300,3 @@ only. See Minhaj, vol. 2. p. 395 and Tahrir vol. 2, p 622-623.
 
 [^7]: See 23:5.
 
-

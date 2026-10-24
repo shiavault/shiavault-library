@@ -106,7 +106,6 @@ brethren."
 Abu 'Abdallah (a.s.) said, "How he achieves good understanding of his
 religion?"
 
-
 **Chapter 2 : Chapter on the quality of knowledge its virtue and the
 virtue of the scholars H 44, Ch. 2, h 1**
 
@@ -218,5 +217,4 @@ Also perhaps there is a worshipper among your followers who does not
 narrate your Hadith. Which of these two people is better?" The Imam
 replied, "The one who narrates our Hadith and ties them up to the hearts
 of our followers is better than seventy thousand worshippers."
-
 

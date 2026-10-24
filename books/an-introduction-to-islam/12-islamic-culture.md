@@ -44,4 +44,3 @@ acceptable in Islam. Many an artist, architect, poet, author and chef
 has, upon acceptance of Islam, adjusted himself/herself so as conform to
 the Islamic requirements.
 
-

@@ -28,7 +28,6 @@ The verse says:
 " So when the truth came to them from Us, they said: 'Verily, this is a
 manifest sorcery.'"
 
-
 **Commentary : Verse 77**
 
 (77) قالَ مُوسى‏ أَ تَقُولُونَ لِلْحَقِّ لَمَّا جاءَكُمْ أَ سِحْرٌ هذا
@@ -36,7 +35,6 @@ manifest sorcery.'"
 
 77. " Said Moses: 'Do you say(this)about the Truth when it hath
 actually reached you Is this sorcery But sorcerers do not prosper. '"
-
 
 **Commentary :**
 
@@ -62,7 +60,6 @@ confusion that sorcerers cause and reject the issue of prophecy. However
 this is a fact that sorcerers do not succeed. The verse says:
 
 "... But sorcerers do not prosper. '"
-
 
 **Commentary : Verse 78**
 
@@ -99,7 +96,6 @@ included the struggles of the reformists and prophets. The verse says:
 found our fathers upon, and that the greatness in the land may be for
 you two ?
 
-
 For this reason they said that they were never going to believe in
 Moses for they thought his message and proofs were only but the act of
 sorcery in the service of a wider scheme for political aggrandizement.
@@ -107,7 +103,6 @@ This was the first stage of their struggle against Moses(a.s.). The
 verse continues saying:
 
 "... But we shall not believe you two. "
-
 
 **Commentary : Verse 79**
 
@@ -134,7 +129,6 @@ perceived to be the powerful sorcery of Moses, little knowing that the
 Signs that Moses manifested were not the effects of sorcery and magic
 but miracles originating from Allah.
 
-
 **Commentary : Verse 80**
 
 (80) فَلَمَّا جاءَ السَّحَرَةُ قالَ لَهُمْ مُوسى‏ أَلْقُوا ما أَنْتُمْ
@@ -157,7 +151,6 @@ verse says:
 
 " When the sorcerers came, Moses said to them: 'Throw what you have to
 throw! '"
-
 
 **Commentary : Verse 81.82**
 
@@ -195,5 +188,4 @@ The verse says:
 
 " And Allah proves the Truth by His Words though the sinners be
 averse(to it). "
-
 

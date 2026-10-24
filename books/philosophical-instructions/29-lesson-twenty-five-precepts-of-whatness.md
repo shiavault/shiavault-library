@@ -323,4 +323,3 @@ the aware reader will discover from the subjects of this lesson that the
 source of the doctrine of the fundamentality of whatness is really the
 belief in the true existence of natural universals.
 
-

@@ -15,4 +15,3 @@ Please notice that the accusative Nunation **-ً**   is always written on
 consonant is either the feminine marker, Taa' MarbuTa**طالبة ً** , or
 Hamza,**سماءً**
 
-

@@ -50,4 +50,3 @@ will to fight the enemies of Islam and humanity.
 
 Allah, the Most High, is certainly, the best Patron, and best Supporter.
 
-

@@ -305,4 +305,3 @@ that in exceptional circumstances the course of events is directly
 affected by fate and destiny. But such a fate and such a destiny do not
 exist, nor can they exist.
 
-

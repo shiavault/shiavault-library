@@ -33,12 +33,8 @@ these matters.
 The witness to this is a laughable narration that he cited at the start
 of his discussion:
 
-<blockquote dir="rtl">
-  <p>
-متعتان، کانتا علی عهد رسول الله حلالاً، وانا احرمهما وأعاقب عليهما،
-المتعة، ولحم الحمر الانسية.
-  </p>
-</blockquote>
+> متعتان، کانتا علی عهد رسول الله حلالاً، وانا احرمهما وأعاقب عليهما،
+> المتعة، ولحم الحمر الانسية.
 
 He took the first part of the narration from an oration by ‘Umar, the
 second caliph, and the second part from a narration by Amīr al-Mu’minīn
@@ -157,11 +153,7 @@ it is irrefutable that the mi‘rāj occurred before the hijrah and
 what is written in “Sahīh Bukhārī”, “Sahīh Muslim” cites this famous
 saying from ‘Alī (‘a):
 
-<blockquote dir="rtl">
-  <p>
-«لولا ان عمر نهی عن المتعة ما زنی الاّ شقي.»
-  </p>
-</blockquote>
+> «لولا ان عمر نهی عن المتعة ما زنی الاّ شقي.»
 
 “If ‘Umar had not banned mut‘ah, no one would commit adultery except the
 wretched.”
@@ -408,11 +400,7 @@ adorned woman and their unrestrained socialization, which the Qur’an
 clearly states to be forbidden, and in this way carry out a mandatory
 precept of the Qur’an?
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلاَ يُبْدِينَ زِينَتَهُنَّ إِلاَّ لِبُعُولَتِهِنَّ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلاَ يُبْدِينَ زِينَتَهُنَّ إِلاَّ لِبُعُولَتِهِنَّ... ﴾
 
 ***“Women must not reveal their adornments to men, except their husbands
 and mahārīm…”***[^10]
@@ -545,30 +533,18 @@ to an old man who has only a short time to live.
 Essentially, what does liking or disliking a precept have to do with its
 ordainment or lack thereof? God, the Almighty, declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَعَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَن
-تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَعَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَن
+> تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ... ﴾
 
 ***“And how oft you hate something which is good for you and how oft you
 love something that is bad for you…”***[^13]
 
-<blockquote dir="rtl">
-  <p>
-﴿ كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ... ﴾
 
 ***“You have been commanded to jihād which is loathsome to you…”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالْأَرْضُ وَمَن فِيهِنَّ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالْأَرْضُ وَمَن فِيهِنَّ... ﴾
 
 ***“And if Truth had followed their caprices, the heavens and the earth
 and all in them would surely have been thrown into confusion and
@@ -588,12 +564,8 @@ majority to be proof is rightful? In His divine book, God, the Exalted,
 considers obedience to the truth, exclusively, to be sine qua non and
 berates the majority’s opposition to it.
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ جِئْنَاكُم بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ
-كَارِهُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ جِئْنَاكُم بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ
+> كَارِهُونَ ﴾
 
 ***“Verily We have brought you the truth; however, most of you are
 adverse to the truth.”***[^16]
@@ -662,39 +634,23 @@ At the conclusion of his treatise, Mr. Mardūkh attacks a scholar who has
 recently written a book on mut‘ah, saying that he has altered the
 quotation cited from ‘Umar in “Tafsīr Kabīr”:
 
-<blockquote dir="rtl">
-  <p>
-«متعتان، کانتا علی عهد رسول الله حلالاً، وانا احرمهما، وأُعاقب
-عليهما.»
-  </p>
-</blockquote>
+> «متعتان، کانتا علی عهد رسول الله حلالاً، وانا احرمهما، وأُعاقب
+> عليهما.»
 
 And he has reproduced it thus:
 
-<blockquote dir="rtl">
-  <p>
-متعتان، محللتان علی عهد رسول الله، وانا احرمهما، وأعاقب عليهما.
-  </p>
-</blockquote>
+> متعتان، محللتان علی عهد رسول الله، وانا احرمهما، وأعاقب عليهما.
 
 It would be well if he had taken note of the said hadīth which he cited
 in his article in the Keyhān Newspaper:
 
-<blockquote dir="rtl">
-  <p>
-متعتان، کانتا علی عهد رسول الله حلالاً، وانا احرمهما، وأعاقب عليهما
-لحم الحمر الانسية، ومتعة النساء.
-  </p>
-</blockquote>
+> متعتان، کانتا علی عهد رسول الله حلالاً، وانا احرمهما، وأعاقب عليهما
+> لحم الحمر الانسية، ومتعة النساء.
 
 He did not even suffice with this and he repeated his mistake in his
 treatise.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَاللّهُ الْمُسْتَعَانُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَاللّهُ الْمُسْتَعَانُ... ﴾
 
 ***“…And Allah is He whose help is sought…”***[^17]
 
@@ -746,5 +702,4 @@ siblings of one’s parents who one may not marry one another. [trans.]
 
 [^17]: Sūrat Yūsuf 12:18. This article was reproduced from the yearbook,
 “Maktab-e Tashayyu‘”.
-
 

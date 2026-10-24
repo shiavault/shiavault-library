@@ -68,4 +68,3 @@ this ruling, which is renouncing Tawaf of Nisa’, between man and woman
 and children, because Tawaf of Nisa’ is necessary for everyone and
 spouse does not become Halaal without that.
 
-

@@ -554,95 +554,95 @@ repentant.
 
 ###
 
-[^1] Al-Bidaya wa al-Nihaya, vol.9, p.[^309]:
+[^1]: Al-Bidaya wa al-Nihaya, vol.9, p.309.
 
-[^2] Roudat al-Kafï.Words similar to these have been mentioned in
+[^2]: Roudat al-Kafï.Words similar to these have been mentioned in
 al-Ithaf bi Hub al-Ashraf ( p.53 ) and in Tahdhïb al-Tahdhïb, vol.9,
-p.[^352]:
+p.352.
 
-[^3] Al-Saduq, al-Amali, p.[^297]:
+[^3]: Al-Saduq, al-Amali, p.297.
 
-[^4] Diya' al-‘Amilin, part 11 on the Life of Imam Mohammed al-Baqir.
+[^4]: Diya' al-‘Amilin, part 11 on the Life of Imam Mohammed al-Baqir.
 
-[^5] Al-Ghazali, al-Fara’id, vol.6, p.[^143]:
+[^5]: Al-Ghazali, al-Fara’id, vol.6, p.143.
 
-[^6]‘Uyyun al-Akhbar wa Funun al-Athar, p.[^14]: Similar words have been
+[^6]‘Uyyun al-Akhbar wa Funun al-Athar, p.14. Similar words have been
 mentioned in Hulyat al-Auliya' (vol.3, p.186), Shadhrat al-Dhahab
 (vol.1, p.149),Tarïkh by b. ‘Asakir (vol.51,p.43), and Mir'at al-Jinan (
 vol.1, p.248).
 
-[^7] Tahdhib al-Tahdhib, vol.2, p.[^133]:
+[^7]: Tahdhib al-Tahdhib, vol.2, p.133.
 
-[^8] Ibid, p.[^134]:
+[^8]: Ibid, p.134.
 
-[^9] Ibn Shar Ashub, al-Manaqib, vol.4, p.[^180]:
+[^9]: Ibn Shar Ashub, al-Manaqib, vol.4, p.180.
 
-[^10] Bihar al-Anwar, vol.11, p.[^64]:
+[^10]: Bihar al-Anwar, vol.11, p.64.
 
-[^11] Al-Sawa‘iq al-Muhriqa, p.[^120]:
+[^11]: Al-Sawa‘iq al-Muhriqa, p.120.
 
-[^12] Al-Bidaya wa al-Nihaya, vol.9, p.[^309]:
+[^12]: Al-Bidaya wa al-Nihaya, vol.9, p.309.
 
-[^13] Shadharat al-Dhahab.
+[^13]: Shadharat al-Dhahab.
 
-[^14] Jami‘ Karamat al-Awliya’, vol1, p.[^97]:
+[^14]: Jami‘ Karamat al-Awliya’, vol1, p.97.
 
-[^15] Akhbar al-Diwal, p.[^111]:
+[^15]: Akhbar al-Diwal, p.111.
 
-[^16] Tadhib al-Kamal, 3/Q4/262 (manuscript).
+[^16]: Tadhib al-Kamal, 3/Q4/262 (manuscript).
 
-[^17] Tadhkirat al-Huffaz, vol.1, p.[^124]:
+[^17]: Tadhkirat al-Huffaz, vol.1, p.124.
 
-[^18] Siyar A‘lam al-Nubala’, vol.4, p.[^241]:
+[^18]: Siyar A‘lam al-Nubala’, vol.4, p.241.
 
-[^19] Roudat al-A‘yan fi Mashahir Akhbar al-Zaman.
+[^19]: Roudat al-A‘yan fi Mashahir Akhbar al-Zaman.
 
-[^20] Ghayat al-Nihaya fi Tabaqat al-Qurra’, vol.2, p.[^202]:
+[^20]: Ghayat al-Nihaya fi Tabaqat al-Qurra’, vol.2, p.202.
 
-[^21] Matalib al-Sa'ul fï Manaqib Al al-Rasul.
+[^21]: Matalib al-Sa'ul fï Manaqib Al al-Rasul.
 
-[^22]‘Uyyun al-Akhbar wa Funun al-Athar, p.[^212]:
+[^22]‘Uyyun al-Akhbar wa Funun al-Athar, p.212.
 
-[^23] Al-Nijum al-Zahira, vol.1, p.[^273]:
+[^23]: Al-Nijum al-Zahira, vol.1, p.273.
 
-[^24] Is‘af al-Raghibin, p.[^316]:
+[^24]: Is‘af al-Raghibin, p.316.
 
-[^25] Ibn Abi al-Haddid, Sharh.
+[^25]: Ibn Abi al-Haddid, Sharh.
 
-[^26] Al-Mufid, al-Irshad, p.[^293]:
+[^26]: Al-Mufid, al-Irshad, p.293.
 
-[^27] Alam al-Wara bi Alam al-Huda, p.[^268]:
+[^27]: Alam al-Wara bi Alam al-Huda, p.268.
 
-[^28] Ghayat al-Ikhtisar, p.[^401]:
+[^28]: Ghayat al-Ikhtisar, p.401.
 
-[^29] Jawhart al-Kalam fi Madh al-Sada al-A‘lam, p.[^132]:
+[^29]: Jawhart al-Kalam fi Madh al-Sada al-A‘lam, p.132.
 
-[^30] Nazhat al-Jalis, vol.2, p.[^36]:
+[^30]: Nazhat al-Jalis, vol.2, p.36.
 
-[^31] Al-Nafha al-‘Anbariya.
+[^31]: Al-Nafha al-‘Anbariya.
 
-[^32] Minhajj al-Sunna, vol.2, pp. 114-[^115]:
+[^32]: Minhajj al-Sunna, vol.2, pp. 114-[^115]:
 
-[^33] Ibid, p.[^123]:
+[^33]: Ibid, p.123.
 
-[^34] Al-Sirat al-Sawi, p.[^194]:
+[^34]: Al-Sirat al-Sawi, p.194.
 
-[^35] Bihar al-Anwar, vol.11, p.[^84]:
+[^35]: Bihar al-Anwar, vol.11, p.84.
 
-[^36] Tahdhib al-Lughat wa al-Asma’, vol.1, p.[^87]:
+[^36]: Tahdhib al-Lughat wa al-Asma’, vol.1, p.87.
 
-[^37] A‘yan al-Shi‘a, Q1/4/[^485]:
+[^37]: A‘yan al-Shi‘a, Q1/4/[^485]:
 
-[^38] ‘Umdat al-Talib, vol.2, p.[^29]:
+[^38]: ‘Umdat al-Talib, vol.2, p.29.
 
-[^39] Kashf al-Ghumma, vol.2, p.[^363]:
+[^39]: Kashf al-Ghumma, vol.2, p.363.
 
-[^40] Imam Zayn al-‘Abidin, p.[^18]:
+[^40]: Imam Zayn al-‘Abidin, p.18.
 
-[^41] Wajjdi, Da’irat al-Ma‘ari, vol.3, p.[^563]:
+[^41]: Wajjdi, Da’irat al-Ma‘ari, vol.3, p.563.
 
-[^42] Al-Imam al-Sadiq, p.[^22]:
+[^42]: Al-Imam al-Sadiq, p.22.
 
-[^43] Al-Khafaji, Sharh al-Shafa, vol.1, p.[^292]:
+[^43]: Al-Khafaji, Sharh al-Shafa, vol.1, p.292.
 
-[^44] Al-Hadith al-Mufahhas ‘an Sharaf Nasl al-Imam ‘Ali, p.[^139]:
+[^44]: Al-Hadith al-Mufahhas ‘an Sharaf Nasl al-Imam ‘Ali, p.139.

@@ -175,4 +175,3 @@ sides. A group called him mad and a lunatic. His friends began to avoid
 his company but he continued to defend his stand strongly. Today his
 view is accepted by all and is considered a fact of science.
 
-

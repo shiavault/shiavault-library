@@ -131,4 +131,3 @@ cosmology]? And if there were no Sphere of Atlas or it had no motion,
 would the other phenomena of the cosmos not posses temporal priority or
 posteriority? And basically, how can an accident which
 
-

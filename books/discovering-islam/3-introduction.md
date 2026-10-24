@@ -122,4 +122,3 @@ age of six, Imam Ali was raised and educated by the Prophet.
 
 [^7]: Nahj al-Balagha (The Peak of Eloquence), sermon \#125.
 
-

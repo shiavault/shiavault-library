@@ -45,11 +45,7 @@ been entrusted to reason.
 
 The Noble Qur’an stresses that:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الدِّينَ عِندَ اللّهِ الإِسْلاَمُ... ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الدِّينَ عِندَ اللّهِ الإِسْلاَمُ... ﴾
 
 ***“Indeed, Religion is surrender to Allah…”***[^1]
 
@@ -57,13 +53,9 @@ It also underscores that religion is a series of teachings that are
 harmonious with the special make-up of humans and provides for their
 existential needs in an absolutely balanced manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
 
 ***“So set thy face toward the pure religion; it is in accordance with
 the nature [fitrah] of God upon which He has formed the nature of
@@ -130,12 +122,8 @@ briefly indicates its individual and social evils and names this act
 ithm (sin), an evil act that entails undesirable consequences and
 various deprivations.
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ إِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
-بَطَنَ وَالإِثْمَ وَالْبَغْيَ بِغَيْرِ الْحَقِّ... ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ إِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
+> بَطَنَ وَالإِثْمَ وَالْبَغْيَ بِغَيْرِ الْحَقِّ... ﴾
 
 ***“Say: My Lord has forbidden all indecencies in public and private and
 sin [ithm] and unjust persecution…”***[^3]
@@ -147,13 +135,9 @@ public happiness.
 
 Elsewhere, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
-وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
-اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
+> اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ ﴾
 
 ***“Satan seeks to precipitate enmity and hatred among you through
 intoxicants and gambling, and to debar you from remembrance of Allah and
@@ -190,13 +174,9 @@ vaguely proscribed use of alcohol in Sūrat al-A‘rāf introducing it as
 ithm and then relatively clearer in Sūrat al-Baqarah and finally plainly
 forbid it in Sūrat al-Mā’idah.
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
-كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِنْ
-نَفْعِهِمَا... ﴾
-  </p>
-</blockquote>
+> ﴿ يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
+> كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِنْ
+> نَفْعِهِمَا... ﴾
 
 ***“They ask you regarding intoxicants and gambling. Say: In both are
 great sin and some benefits for people; however, the sin of these two is
@@ -244,5 +224,4 @@ seen the color of wine throughout their lives.[^6]
 [^5]: Sūrat al-Baqarah 2:219.
 
 [^6]: Extracted from the yearbook, “Maktab-e Tashayyu‘”.
-
 

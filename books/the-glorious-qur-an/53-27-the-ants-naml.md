@@ -21,4 +21,3 @@ thank lessness of the Prophet's mission, for it assures him that God
 will take care of everything he has been worrying over. The final
 section (VII) offers a description of the fate awaiting rejectors.
 
-

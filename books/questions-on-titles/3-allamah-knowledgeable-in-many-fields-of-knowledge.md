@@ -59,7 +59,6 @@ were taught by the Holy Imam Ja'far Al Sadiq (a.s.)? Are they experts in
 the genealogy, chronology, pre-Islamic history and the poetry of the
 Arabs?
 
-
 **A'alam (The Most Knowledgeable)**
 
 Whatever that can possibly be learnt in matters of religion, this guy
@@ -109,5 +108,4 @@ where is the justification of using it for ordinary people?
 
 How can anyone possibly justify using this title for someone other than
 a Holy Infallible (a.s.).
-
 

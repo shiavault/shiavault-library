@@ -265,4 +265,3 @@ Imam Ja'far as-Sadiq (a.s.) describes it:
 
 [^1]: Al-Muhajabah al-Baidha'e, Book on Al-adkar and al-Da'awat, p. 274.
 
-

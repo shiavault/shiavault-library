@@ -307,4 +307,3 @@ same book, mentioned Maqtal al-Husayn (a.s.) in the name of Tibrani.
 He expired in 664. A.H. This book Malhoof Ala Qatli at-Tafoof is his
 work. He has also written Al-masra as-sheen fee Qatl al-Husayn (a.s.).
 
-

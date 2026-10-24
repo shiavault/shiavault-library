@@ -96,4 +96,3 @@ since she had been waiting for many years expecting her father’s return
 one day to empace her. But now she should be patient over the disaster
 of his loss and has to undergo grief and pain.
 
-

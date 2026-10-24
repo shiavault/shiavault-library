@@ -63,9 +63,9 @@ Thus the young mind is in search of truth.
 And the big question raising its head and haunting the youth’s innocent
 mind is “Where is the truth?”
 
-**<span style="font-weight: 400">This very question makes them go round
+**This very question makes them go round
 the world in various forms and shapes, even sometimes as
-hippies,</span>**
+hippies,**
 
 to search and investigate.
 

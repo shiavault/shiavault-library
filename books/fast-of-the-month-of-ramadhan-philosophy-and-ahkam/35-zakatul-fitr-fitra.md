@@ -26,4 +26,3 @@ Ramadhan, if someone arranges a *majlis* which commences after sunset,
 and if he treats his guests to *iftar*, he does not have to pay *fitra*
 on their behalf.
 
-

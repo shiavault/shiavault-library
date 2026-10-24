@@ -152,4 +152,3 @@ example, building a well, bridge or Masjid[^1]
 [^1]: For more information on the uses of zakat, one can refer to the
 Tawzhiul Masa’il, rule number 1933.
 
-

@@ -49,7 +49,6 @@ and generosity come in, bounties and remittal are without stint, since
 His Pure Essence is infinite and His bless is unlimited and His
 generosity is endless.
 
-
 **Commentary : Verse 39**
 
 39. وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
@@ -112,7 +111,6 @@ ul- Bayan)
 
 [^2] Majma' ul-Bayan, Ruh ul-Ma'ani, the Commentary by QurtAbi, and
 Tafsir-i-Fakhr-i-Razi
-
 
 **Commentary : Verse 40**
 
@@ -279,5 +277,4 @@ of the Fire, wherein shall they abide forever."
 [^1] Kanz ul-Abraham'mal
 
 [^2] 'Usul Kafi, Vol. 4, p. 17
-
 

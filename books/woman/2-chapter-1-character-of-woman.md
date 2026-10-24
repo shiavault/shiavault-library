@@ -903,4 +903,3 @@ XVI, p. 379.
 
 [^28]: Mu'jam Rijaal Al-hadith, vol. XXIII, pp. 179 & 196.
 
-

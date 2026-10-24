@@ -409,4 +409,3 @@ would be life and there would be liberty. There would be knowledge and
 learning as well as power and stability; enemies would be destroyed and
 there would only remain love for God.
 
-

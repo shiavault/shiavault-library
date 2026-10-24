@@ -239,7 +239,6 @@ Ham, believed to be the ancestor of the Africans, and his descendants to
 a status of slavery (Genesis 9:18-27), the Dutch Reformed Church of
 South Africa gave theological support to the Apartheid in the 1930s.
 
-
 **Conclusion**
 
 In this critical moment when eschatology is extensively fielded via
@@ -319,5 +318,4 @@ the Strangest Alliance in History," http://antiwar.com/utley.
 
 Von Grunebaum, G.E. Classical Islam: A History 600-1258, tr. Katherine
 Watson. London: George Allen and Unwin Ltd., 1970.
-
 

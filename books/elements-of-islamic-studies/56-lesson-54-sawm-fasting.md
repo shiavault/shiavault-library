@@ -65,4 +65,3 @@ so afterwards.
  5. Old people are not required (though recommended) to fast in *qadha*
 they regains their strength.
 
-

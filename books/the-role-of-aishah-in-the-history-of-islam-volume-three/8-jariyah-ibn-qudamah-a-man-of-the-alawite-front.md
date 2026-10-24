@@ -121,7 +121,6 @@ property of everyone who is rich and does not obey us. Do not abstain
 from molesting people. Kill 'Ali's supporters, and even spare no woman
 or chiLd."(182)
 
-
 **An Analysis of the above policies**
 
 Of the above two policies, obviously the policy which orders the
@@ -193,7 +192,6 @@ He did not shun any wickedness and meanness in this course. In fact the
 claim for avenging 'Uthman's blood was only a cover to attain that goal.
 That was a small picture of Mu'awiyah's evil role during Imam 'Ali's
 rule.
-
 
 **Mu'awiyah in the time of Imam al-Hasan al-Mujtaba**
 
@@ -478,5 +476,4 @@ smallest obstacle and check in this course.
 These points show that the only way of preserving true Islam from the
 danger of alteration was a truce with Mu'awiyah, and this was the way
 adopted by Imam al-Hasan al-Mujtaba and he went ahead with it.
-
 

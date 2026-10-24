@@ -31,4 +31,3 @@ our very own hands is worthy of respect so too these replica models of
 the shrine at Karbala and the standards of Imam Hussain’s army, are
 worthy of respect. This is simple acceptable logic.
 
-

@@ -66,7 +66,6 @@ Dua plus action shall help us. Dua not only can uplift us spiritually,
 but is gives us strength as well. As The holy Prophet (p.b.u.h.) said:
 "Dua is a faithful people's weapon".
 
-
 **The Rope: Prayer without Action**
 
 Another fictional story, to understand prayer without complete faith
@@ -157,5 +156,4 @@ Ashura.
 If the Dua in books doesn't express what you feel, go ahead and express
 your feelings from the bottom of your heart, with choking voice with all
 devotion and concentration.
-
 

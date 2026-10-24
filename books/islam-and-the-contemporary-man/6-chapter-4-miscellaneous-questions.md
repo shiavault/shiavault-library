@@ -21,11 +21,7 @@ strictly controlled by men. But Islam, for the first time in the history
 of humankind, acknowledged women’s full membership in the society,
 appreciating their efforts as equal to those of men:
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ
-  </p>
-</blockquote>
+> أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ
 
 ***“…I [God] do not waste the work of any worker among you, whether male
 or female…”***[^1]
@@ -212,12 +208,8 @@ In this regard see the answer to the previous question. I will once
 again underscore that the basis of Islamic law is human nature not the
 whim of the majority. God, the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ
 
 ***“Set your heart on the religion as a people of pure faith, the
 origination of God, according to which He originated humankind. There is
@@ -251,20 +243,12 @@ equality. Fundamentally, Islam acknowledges only two factors for
 superiority: knowledge and piety. God, the Exalted, states this in His
 Book:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ
 
 ***“…Indeed the noblest of you in the sight of God is the most Godwary
 among you…”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ
-  </p>
-</blockquote>
+> هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ
 
 ***“…Are those who know equal to those who do not know…”***[^6]
 
@@ -706,11 +690,7 @@ straight path, whether the intelligentsia find it palatable or not. It
 is they who are in need of embracing the truth; [the truth cannot bend
 itself to gratify their vainglory]. God, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ
-  </p>
-</blockquote>
+> لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ
 
 ***“There is no compulsion in religion: rectitude has become distinct
 from error…”***[^11]
@@ -739,12 +719,8 @@ with the Prophet’s offspring.
 Nonetheless, the Shi‘ahs pay special respect to the Prophet’s progeny in
 compliance with the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ ۗ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ ۗ
 
 ***“…Say, ‘I do not ask of you any reward…except the affection for the
 Relatives’.”***[^12]
@@ -791,21 +767,13 @@ for various crimes, transgressions, and the prevalent immorality. In
 addition, alcohol causes physical and mental damage and entails adverse
 hereditary effects. This is what the Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
-وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ
-فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
+> وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ
+> فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
-وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ
-اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنْتُمْ مُنْتَهُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ
+> اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنْتُمْ مُنْتَهُونَ
 
 ***“O you who have faith! Indeed wine, gambling, idols, and the divining
 arrows are an abomination of Satan’s doing, so avoid them, so that you
@@ -855,19 +823,11 @@ chapters, thus I will only briefly summarize what I have said there. The
 authorities have no right to take the lead or to follow others. In this
 regard, God speaks the following words to the Noble Prophet:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
-قَلِيلًا
-  </p>
-</blockquote>
+> وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
+> قَلِيلًا
 
-<blockquote dir="rtl">
-  <p>
-إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا
-تَجِدُ لَكَ عَلَيْنَا نَصِيرًا
-  </p>
-</blockquote>
+> إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا
+> تَجِدُ لَكَ عَلَيْنَا نَصِيرًا
 
 ***“Had We not fortified you, certainly you might have inclined toward
 [the pagans] a bit. Then We would have surely made you taste a double
@@ -950,20 +910,12 @@ Islam was a false religion.
 The Qur’an as the authoritative source of Islamic doctrine says the
 following in regard to this question:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ ۗ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ ۗ
 
 ***“Indeed with God, the [true] religion is Islam…”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
-وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
+> وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
 
 ***“Should anyone follow a religion other than Islam, it shall never be
 accepted from him, and he will be among the losers in the
@@ -1061,15 +1013,11 @@ exhorting Muslims to remain united in preserving the doctrines and
 practices of Islam, and warning them against befriending and following
 non-Muslims, God, the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ
-مِنَ اللَّهِ وَحَبْلٍ مِنَ النَّاسِ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ
-وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا
-يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنْبِيَاءَ بِغَيْرِ
-حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ
-  </p>
-</blockquote>
+> ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ
+> مِنَ اللَّهِ وَحَبْلٍ مِنَ النَّاسِ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ
+> وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا
+> يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنْبِيَاءَ بِغَيْرِ
+> حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ
 
 ***“Abasement has been stamped upon them wherever they are
 confronted—except for a relief from God and a relief from the people—and
@@ -1080,26 +1028,18 @@ that, because they would disobey and commit transgression.”***[^18]
 The “relief” from God and the people is clarified by the following two
 verses:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ
-وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ
-يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي
-الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ
+> وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ
+> يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي
+> الْقَوْمَ الظَّالِمِينَ
 
 ***“O you who have faith! Do not take the Jews and the Christians for
 friends: they are friends of each other. Any of you who takes them as
 friends is indeed one of them. Indeed God does not guide the wrongdoing
 lot.”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ
-وَاخْشَوْنِ ۚ
-  </p>
-</blockquote>
+> الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ
+> وَاخْشَوْنِ ۚ
 
 ***“Today the faithless have despaired of your religion. So do not fear
 them, but fear Me…”***[^20]
@@ -1213,5 +1153,4 @@ racist views concerning other people.) [trans.]
 [^21]: See Amin al-Islam Abu ‘Ali al-Fadl ibn al-Hasan al-Tabrasi,
 Majma‘ al-Bayan fi Tafsir al-Qur’an, vol. 1, p. 13, Mu’assisah al-A‘lami
 li al-Matbu‘at: Beirut, 1995.
-
 

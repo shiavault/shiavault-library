@@ -39,7 +39,6 @@ The fact that the imposition of the above conditions has made polygamy
 very much restricted among the Muslims; and one seldom comes across
 cases of polygamy in the Muslim societies.
 
-
 **Polygamy: A Natural Law**
 
 Now, we should look at the arguments of the Christians against the
@@ -135,5 +134,4 @@ sexual activities. Bertrand Russell says:-
 obvious injustice that those women who by arithmetical necessity must
 remain unmarried should be wholly debarred from sexual experience."
 (Marriage and Morals, p.47)
-
 

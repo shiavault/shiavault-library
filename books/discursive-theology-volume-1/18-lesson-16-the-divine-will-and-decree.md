@@ -204,11 +204,7 @@ quote below some examples of pertinent traditions:
 
 1. Muḥammad ibn Muslim reported that Imām al-Ṣādiq (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-ألمَشِيَّةُ مُحْدَثَةٌ.
-  </p>
-</blockquote>
+> ألمَشِيَّةُ مُحْدَثَةٌ.
 
 “The will [of God] is contingent.”[^15]
 
@@ -217,12 +213,8 @@ quote below some examples of pertinent traditions:
 and that these characteristics are impossible with regards to God, the
 Imām (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَاِرادَةُ اللهِ هِيَ الْفِعلُ لا غَيْرُ ذلِكَ، يَقولُ لَهُ كُنْ
-فَيَكونُ.
-  </p>
-</blockquote>
+> فَاِرادَةُ اللهِ هِيَ الْفِعلُ لا غَيْرُ ذلِكَ، يَقولُ لَهُ كُنْ
+> فَيَكونُ.
 
 “The will of Allah is the action itself and nothing else. He say, ‘Be’
 and it is.”[^16]
@@ -230,12 +222,8 @@ and it is.”[^16]
 3. ‘Āṣim ibn Ḥamīd asked Imām al-Ṣādiq (*‘a*), thus: “Has God been the
 Desirous (*al-murīd*) from eternity?” The Imām (*‘a*) replied:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ المُريدَ لا يَكونُ إلاّ لِمُرادٍ مَعَهُ، بَل لَّمْ يَزَلْ عالِماً
-قادِراً ثُمَّ أَرادَ.
-  </p>
-</blockquote>
+> إنَّ المُريدَ لا يَكونُ إلاّ لِمُرادٍ مَعَهُ، بَل لَّمْ يَزَلْ عالِماً
+> قادِراً ثُمَّ أَرادَ.
 
 “Indeed there cannot be the Desirous (*al-murīd*) without the object of
 desire (*murād*). Instead, He has been all-knowing and all-powerful from
@@ -254,22 +242,14 @@ the knowledge of Allah precedes His will.”[^18]
 
 5. Imām al-Riḍā (*‘a*) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ألْمَشِيَّةُ وَالْإرادَةُ مِنْ صِفاتِ الْأفْعالِ.
-  </p>
-</blockquote>
+> ألْمَشِيَّةُ وَالْإرادَةُ مِنْ صِفاتِ الْأفْعالِ.
 
 “The decree and will [of God] is among the Attributes of Actions.”[^19]
 
 6. In his debate with ‘Imrān the Sabian, Imām al-Riḍā (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُ أَنَّ الْإِبْداعَ وَالْمَشِيَّةَ وَالْإِرادَةَ مَعْناها
-وَاحِدٌ وَأَسْماؤُها ثَلاثَةٌ.
-  </p>
-</blockquote>
+> وَاعْلَمُ أَنَّ الْإِبْداعَ وَالْمَشِيَّةَ وَالْإِرادَةَ مَعْناها
+> وَاحِدٌ وَأَسْماؤُها ثَلاثَةٌ.
 
 “And know that origination, decree and will have the same meaning and
 they have three names.”[^20]
@@ -365,5 +345,4 @@ of Essence, ḥadīth 18.
 [^20]: Ibid., p. 435.
 
 [^21]: Ibid., pp. 445-454.
-
 

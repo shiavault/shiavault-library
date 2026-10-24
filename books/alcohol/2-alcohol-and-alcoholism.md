@@ -388,4 +388,3 @@ inhibiting force of the emotions weakens and the centres exercising
 control over the emotion get so vitiated that every impulse of the
 drunkard gets immediately manifested.
 
-

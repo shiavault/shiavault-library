@@ -63,4 +63,3 @@ way that it causes distraction for others.
 
 [^1]: Wasael al-Shi’aa, vol. 9, page 398.
 
-

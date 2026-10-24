@@ -31,13 +31,9 @@ Fajr *salat* with the following adjustments.
 the  
  following verse 10 times.
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً
-مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ
-أَنتَ التَّوَّابُ الرَّحِيمُ
-  </p>
-</blockquote>
+> رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً
+> مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ
+> أَنتَ التَّوَّابُ الرَّحِيمُ
 
 Rabbanaa waj-a'lnaa Muslimayni laka wa min d'urriyyatinaaa ummatam
 muslimatallak wa arinaa manaasikanaa wa tub a'laynaa innaka antat
@@ -52,12 +48,8 @@ are the oft-turning (in mercy), the Merciful.(Sura al-Baqarah, 2
 (ii) In the second *Rak’at,* after the recitation of al Fatihah, recite
 10 times *dua"a* 26 :
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا
-وَتَقَبَّلْ دُعَاء
-  </p>
-</blockquote>
+> رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا
+> وَتَقَبَّلْ دُعَاء
 
 Rabbij-A’lnee Muqeemas’ S’alaati Wa Min D’urrriyyatee Rabbanaa Wa
 Taqabbal Du-A’aa
@@ -67,12 +59,8 @@ O our Lord, accept*** ***my prayer. (Sura Ibrahim, 14: 40).***
 
 and *du-a"a* 27:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
-الْحِسَابُ
-  </p>
-</blockquote>
+> رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
+> الْحِسَابُ
 
 Rabbanaghfir Lee Wa Liwaalidayya Wa Lil-Mu’mineena Yawma Yaqoomul
 H’isaab
@@ -85,12 +73,8 @@ the reckoning shall come to pass. (Sura Ibrahim, 14: 41).***
 (i) In the first *Rak’at,* after the recitation of al Fatihah, recite
 dua'a 44:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
-أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
-  </p>
-</blockquote>
+> رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
+> أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 
 Rabbanaa Hab Lanaa Min Azwaajinaa Wa D’urriyyaatinaa Qurrata A’-Yuniw
 Waj – A’lnaa Lil – Muttaqeena Imaamaa
@@ -102,13 +86,9 @@ against evil. (Sura al-Furqan, 25:74).***
 (ii) In the second *Rak’at,* after *the* recitation of al Fatihah,
 recite *duaa* 56:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
 
 Rabbi Awzi’-Nee An Ashkura Ni’-Matakal Lateee An-A’mta A’layya Wa A’laa
 Waalidayya Wa An A’-Mala S’aalih’an Tarz”Aahu Wa As’lih’lee Fee
@@ -122,12 +102,8 @@ to You, and verily I am one of those who submit. (Sura al-Ahqaaf, 46:
 
 After the salam pray again 10 times dua'a 44:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
-أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
-  </p>
-</blockquote>
+> رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
+> أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 
 Rabbanaa Hab Lanaa Min Azwaajinaa Wa D’urriyyaatinaa Qurrata A’-Yuniw
 Waj – A’lnaa Lil – Muttaqeena Imaamaa
@@ -170,5 +146,4 @@ astaghfirullaah 10 times.
 times, before standing for *qivam.*
 
 In the 2nd Rak’at say Astaghfirullaah 10 times before reciting tashahud.
-
 

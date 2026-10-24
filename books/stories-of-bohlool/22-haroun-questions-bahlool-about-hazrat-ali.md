@@ -135,4 +135,3 @@ two pieces.'
 Husain threw their Imamahs (turbans) on the ground because of their
 sorrow.”
 
-

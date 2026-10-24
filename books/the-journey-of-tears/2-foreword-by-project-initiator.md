@@ -33,4 +33,3 @@ your prayers.
 
 Kabir Arifali Datoo
 
-

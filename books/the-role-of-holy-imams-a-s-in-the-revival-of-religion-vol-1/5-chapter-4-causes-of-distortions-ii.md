@@ -177,12 +177,8 @@ dying, then he let me go. After that he said: “Read” and I said: “What
 should I read?” I said this so I wouldn't be put through that strong,
 killing pressure again. he said:
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾ خَلَقَ الْإِنسَانَ مِنْ
-عَلَقٍ ﴿٢﴾
-  </p>
-</blockquote>
+> اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾ خَلَقَ الْإِنسَانَ مِنْ
+> عَلَقٍ ﴿٢﴾
 
 ***Recite in the name of your Lord who created - Created man from a
 clinging substance. (Qur'an, 96:2)***
@@ -374,15 +370,11 @@ characteristics, qualities, name and means of recognition.
 
 These types of verses and a short discussion of each may be seen below:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ النَّبِيِّينَ لَمَا آتَيْتُكُم مِّن
-كِتَابٍ وَحِكْمَةٍ ثُمَّ جَاءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ
-لَتُؤْمِنُنَّ بِهِ وَلَتَنصُرُنَّهُ  قَالَ أَأَقْرَرْتُمْ وَأَخَذْتُمْ
-عَلَىٰ ذَٰلِكُمْ إِصْرِي  قَالُوا أَقْرَرْنَا قَالَ فَاشْهَدُوا
-وَأَنَا مَعَكُم مِّنَ الشَّاهِدِينَ 
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ النَّبِيِّينَ لَمَا آتَيْتُكُم مِّن
+> كِتَابٍ وَحِكْمَةٍ ثُمَّ جَاءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ
+> لَتُؤْمِنُنَّ بِهِ وَلَتَنصُرُنَّهُ  قَالَ أَأَقْرَرْتُمْ وَأَخَذْتُمْ
+> عَلَىٰ ذَٰلِكُمْ إِصْرِي  قَالُوا أَقْرَرْنَا قَالَ فَاشْهَدُوا
+> وَأَنَا مَعَكُم مِّنَ الشَّاهِدِينَ
 
 ***“And when Allah made a covenant through the prophets: Certainly what
 I have given you of Book and wisdom - then an apostle comes to you
@@ -461,14 +453,10 @@ chapter 16 verse 7,12,13, and 4 the name “Fargheleet” which is
 “Perikleetos” in Greek and “Ahmad” in Arabic is mentioned along with a
 mention of his qualities and description.[^19]
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
-يَجِدُونَهُ مَكْتُوبًا عِندَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ
-يَأْمُرُهُم بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنكَرِ وَيُحِلُّ
-لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ
-  </p>
-</blockquote>
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
+> يَجِدُونَهُ مَكْتُوبًا عِندَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ
+> يَأْمُرُهُم بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنكَرِ وَيُحِلُّ
+> لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ
 
 ***“Those who follow the Apostle-Prophet, the Ummi, whom they find
 written down with them in the Tavrat and the Injeel, (who) enjoins them
@@ -626,17 +614,13 @@ This was done so that the world-wide scope of the affection beneficence
 of the Prophet of Mount Paran would be thus denied and be restricted to
 only the tribe of Israel and be correlated to Jesus Christ (a.s.)
 
-<blockquote dir="rtl">
-  <p>
-مُّحَمَّدٌ رَّسُولُ اللَّـهِ  وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
-الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا
-يَبْتَغُونَ فَضْلًا مِّنَ اللَّـهِ وَرِضْوَانًا  سِيمَاهُمْ فِي
-وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ  ذَٰلِكَ مَثَلُهُمْ فِي
-التَّوْرَاةِ  وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ
-فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ
-الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ
-  </p>
-</blockquote>
+> مُّحَمَّدٌ رَّسُولُ اللَّـهِ  وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
+> الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا
+> يَبْتَغُونَ فَضْلًا مِّنَ اللَّـهِ وَرِضْوَانًا  سِيمَاهُمْ فِي
+> وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ  ذَٰلِكَ مَثَلُهُمْ فِي
+> التَّوْرَاةِ  وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ
+> فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ
+> الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ
 
 ***“Muhammad is the Apostle of Allah, and those with him are firm of
 heart against the unbelievers, compassionate among themselves; you will
@@ -652,14 +636,10 @@ Here we see that not only the Prophet but also his supporters were
 mentioned in the old and new testaments with reference to their own
 particular qualities, centuries before the appearance of Islam.
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَاءَهُمْ كِتَابٌ مِّنْ عِندِ اللَّـهِ مُصَدِّقٌ لِّمَا
-مَعَهُمْ وَكَانُوا مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا
-فَلَمَّا جَاءَهُم مَّا عَرَفُوا كَفَرُوا بِهِ فَلَعْنَةُ اللَّـهِ
-عَلَى الْكَافِرِينَ 
-  </p>
-</blockquote>
+> وَلَمَّا جَاءَهُمْ كِتَابٌ مِّنْ عِندِ اللَّـهِ مُصَدِّقٌ لِّمَا
+> مَعَهُمْ وَكَانُوا مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا
+> فَلَمَّا جَاءَهُم مَّا عَرَفُوا كَفَرُوا بِهِ فَلَعْنَةُ اللَّـهِ
+> عَلَى الْكَافِرِينَ
 
 ***“And when there came to them a book from Allah verifying that which
 they have, and aforetime they used to pray for victory against those who
@@ -1380,11 +1360,7 @@ arm and said: “Read!”. He said: “What should I read?”
 
 Gabriel said:
 
-<blockquote dir="rtl">
-  <p>
-إقرأ باسم ربك
-  </p>
-</blockquote>
+> إقرأ باسم ربك
 
 and he read for him Gods' revelation and returned to heaven.
 
@@ -1474,22 +1450,14 @@ something would not be revealed to him which would cause the Quraishites
 hatred and aversion. At that time, however, the Lord inspired in him the
 Surah Najm. The Prophet recited it as it was until he came to the verse.
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى. وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى
-  </p>
-</blockquote>
+> أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى. وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى
 
 ***So have you considered al-Lat and al-'Uzza?*** ***And Manat, the
 third - the other one?*** ***(Holy Quran, 53: 19-20)***
 
 and it was there that satan inspired him to add:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانقة العلى و إنَّ شفاعتهن لترجى
-  </p>
-</blockquote>
+> تلك الغرانقة العلى و إنَّ شفاعتهن لترجى
 
 He spoke these words and then continued on with reciting the rest of the
 Surah. At the end of the surah he prostrated and everyone present also
@@ -1510,12 +1478,8 @@ ascribed words to God which he has not spoken?”.
 It was for this reason that the Lord revealed the following to the
 Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ
-لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ وَإِذًا لَّاتَّخَذُوكَ خَلِيلًا 
-  </p>
-</blockquote>
+> وَإِن كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ
+> لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ وَإِذًا لَّاتَّخَذُوكَ خَلِيلًا
 
 ***“And surely they had purposed to turn you away from that which We
 have revealed to you, that you should forge against Us other than that,
@@ -1525,14 +1489,10 @@ and then they would certainly have taken you for a friend”. (Quran, 17:
 The occurance left the Holy Prophet (S) saddened and depressed until
 these verses were revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
-تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّـهُ
-مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّـهُ آيَاتِهِ  وَاللَّـهُ
-عَلِيمٌ حَكِيمٌ 
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
+> تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّـهُ
+> مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّـهُ آيَاتِهِ  وَاللَّـهُ
+> عَلِيمٌ حَكِيمٌ
 
 ***“And We did not send before you any apostle or prophet, but when he
 desired, the Shaitan made a suggestion respecting his desire; but Allah
@@ -1561,31 +1521,19 @@ wrong doings) would change to moderation.
 At the time when these hopes gained strength and he spoke to himself
 about them in his heart, the lord revealed to him the Surah “Najm”
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَىٰ ﴿١﴾ مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ ﴿٢﴾
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَىٰ ﴿١﴾ مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ ﴿٢﴾
 
 ***By the star when it descends, Your companion [Muhammad] has not
 strayed, nor has he erred, (Qur'an, 53:1-2)***
 
 This revelation continued until the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى و مناة الثالثة الاخرى
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى و مناة الثالثة الاخرى
 
 when Satan inspired him to say those very things which he desired and
 hoped would be revealed for his tribe and that was:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى وان شفاعتهن ترتضى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى وان شفاعتهن ترتضى
 
 When the idolators heard these words they listened to them because it
 made them happy that the Prophet mentioned their Gods. Also, the
@@ -1606,11 +1554,7 @@ mosque in a happy mood because of these remarks, and were saying:
 Muhammad remembered our gods with the best of statements and among that
 which he recited was this passage:
 
-<blockquote dir="rtl">
-  <p>
-انها الغرانيق العلى وان شفاعتهن ترتضى
-  </p>
-</blockquote>
+> انها الغرانيق العلى وان شفاعتهن ترتضى
 
 reports of this all-inclusive prostration reached Abyssinia and the
 prophets followers who had migrated there were informed of it and it was
@@ -1632,12 +1576,8 @@ afterwards the lord abrogates the satanic expressions and strengthens
 his own verses. This means that you are like the previous prophets and
 apostles”. Then the lord revealed the following:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول ولا نبيٍ الا اذا تمنى ألقى الشيطان في
-امنيته
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول ولا نبيٍ الا اذا تمنى ألقى الشيطان في
+> امنيته
 
 in this way eliminating the Prophets sadness and grief and replacing the
 fear in his heart with security, and abrogating the satanic
@@ -1671,19 +1611,11 @@ then of course they will develop a greater liking for Islam and
 yourself. Therefore Satan inspired (these desires) in his words. It all
 happened like this: When these verses were revealed:
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى و مناة الثالثة الاخرى
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى و مناة الثالثة الاخرى
 
 Satan inspired the Prophet to say the following:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى و شفاعتهن ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى و شفاعتهن ترتجى
 
 When the Prophet recited these verses he fell to the ground and
 prostrated. The Muslims and idolators also prostrated (at that time the
@@ -1701,19 +1633,11 @@ quarters and regions of the world will turn to you.
 Then, when the Prophet was reciting the Surah Najm and came to this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى و مناة الثالثة الاخرى
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى و مناة الثالثة الاخرى
 
 Satan inspired him to say:
 
-<blockquote dir="rtl">
-  <p>
-وهي الغرانيق العلى و شفاعتهن ترتجى
-  </p>
-</blockquote>
+> وهي الغرانيق العلى و شفاعتهن ترتجى
 
 When he had finished reciting these verses he and all of the Muslims and
 idolators prostrated except for Abu Uhayha Sa'id ibn al As who also took
@@ -1726,11 +1650,7 @@ was extremely upset because of this affair and suffered from the fact
 that Satan was able to cause him to utter certain things. It was for
 this reason that the lord revealed these verses:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول و لا نبي ..
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول و لا نبي ..
 
 5-6) Tabari relates these two narratives from Said Ibn Jobair, and he
 has said:
@@ -1738,31 +1658,19 @@ has said:
 When the verse **أفرأيتم اللات و العزى** was revealed, the Prophet
 recited it. After that he said:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى وشفاعتهن ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى وشفاعتهن ترتجى
 
 and then he prostrated. The idolators said: “Before this he spoke of our
 gods favourable” and they prostrated with him. At this time the lord
 revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول و لا نبي الا اذا تمنَّى القى الشيطان في
-امنيته..
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول و لا نبي الا اذا تمنَّى القى الشيطان في
+> امنيته..
 
 7) Tabari has related this narrative from Ibn Abbas: In this narrative
 Abdullah ibn Abbas describes the revelation of this verse:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول..
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول..
 
 as such: One day the Prophet was praying in the masjid al haram and it
 was then that the verses regarding the Arabs idols were revealed to him
@@ -1770,28 +1678,16 @@ and he began to recite them. Upon hearing his words the idolators said
 to themselves: We hear that Muhammad speaks well of our gods, and for
 this reason they drew closer to him as he was reciting and was saying:
 
-<blockquote dir="rtl">
-  <p>
-أفرأيتم اللات و العزَّى ومناة الثالثة الاخرى..
-  </p>
-</blockquote>
+> أفرأيتم اللات و العزَّى ومناة الثالثة الاخرى..
 
 It was here that Satan inspired him to say:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى منها الشفاعة ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى منها الشفاعة ترتجى
 
 He then recited the above words after that. Later Gabriel descended to
 him abrogating these words and reading these verses to him;
 
-<blockquote dir="rtl">
-  <p>
-الا اذا تمنَّى... والله عليم حكيم
-  </p>
-</blockquote>
+> الا اذا تمنَّى... والله عليم حكيم
 
 8) Tabari relates from zakat, he says: The story behind the verse:
 
@@ -1803,38 +1699,22 @@ and words and saw that mention was being made of their gods, became
 happy and glad, drawing near to listen. It was then that Satan inspired
 certain words in the Prophets recitation:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى
 
 The Prophet also recited these words in this very form and therefore the
 lord revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول و لا نبي ... انه عليم حكيم
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول و لا نبي ... انه عليم حكيم
 
 9) Tabari relates this narrative from Abu Bakr Ibn al-Tahman ibn
 Al-Haras. He says: When the Prophet was in Mecca, one day he recited the
 Surah Najm for the people and when he came to the verse:
 
-<blockquote dir="rtl">
-  <p>
-أفرأيتم اللات و العزَّى ومناة الثالثة الاخرى..
-  </p>
-</blockquote>
+> أفرأيتم اللات و العزَّى ومناة الثالثة الاخرى..
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-وشفاعتهن ترتجى
-  </p>
-</blockquote>
+> وشفاعتهن ترتجى
 
 In speaking these words the Prophet had erred and made a mistake. As a
 result of this occurance, however, the idolators who were awaiting this
@@ -1842,11 +1722,7 @@ opportunity, greeted him and expressed their happiness upon hearing his
 words. and this opinion. The Prophet told them: Those words came from
 satan and the lord has sent this verse:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول و لا نبي ... فينسخ الله ما يلقي الشيطان
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول و لا نبي ... فينسخ الله ما يلقي الشيطان
 
 Tabari has offered these narratives as exegetic reasons which prove that
 the words **تمنَّى** and” Amniyyeh” mean the Prophets desire and
@@ -1864,11 +1740,7 @@ reasons for such may be found in these narratives.
 1) The first narrative is from Ibn Abbas. In an interpretation of the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-الا القى الشيطان في امنيته
-  </p>
-</blockquote>
+> الا القى الشيطان في امنيته
 
 he says: It means that when the Prophet speaks Satan inspires (doubt and
 difficulty) in his words.
@@ -1922,12 +1794,8 @@ Satan had placed on His prophets tongue.
 After this Tabari proceeds to the interpretation of the noble
 verse:[^64]
 
-<blockquote dir="rtl">
-  <p>
-ليجعل ما يلقي الشيطان فتنة للذين في قلوبهم مرض و القاسية قلوبهم و ان
-الظالمين لفي شقاق بعيد
-  </p>
-</blockquote>
+> ليجعل ما يلقي الشيطان فتنة للذين في قلوبهم مرض و القاسية قلوبهم و ان
+> الظالمين لفي شقاق بعيد
 
 and he says:
 
@@ -1937,11 +1805,7 @@ that he may make what Satan (in the way of falsities) suggests in the
 Prophets recitation a test and trial for those in whose hearts is
 disease ........” This means that the Prophets remark:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى وان شفاعتهن ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى وان شفاعتهن ترتجى
 
 was a test by which those who were hypocritical at heart were tried, and
 this was the reason for doubt that arose regarding the truth and
@@ -1953,33 +1817,21 @@ wished that the lord would not find fault with or speak ill of the
 Quraishites gods (idols). Therefore Satan inspired this in his
 recitation:
 
-<blockquote dir="rtl">
-  <p>
-ان الالهة التي تدَّعي ان شفاعتها لترتجى و انها للغرانيق العلى
-  </p>
-</blockquote>
+> ان الالهة التي تدَّعي ان شفاعتها لترتجى و انها للغرانيق العلى
 
 “These gods upon whom you call, it is hopeful that they may intercede
 and they are exalted beings”. Then the lord abrogated this satanic
 remark and strengthened his own verses: [^65]
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزَّى و مناة الثالثة الاخرى تلك اذا قسمة ضيزى... ما
-انزل الله بها من سلطان
-  </p>
-</blockquote>
+> افرأيتم اللات و العزَّى و مناة الثالثة الاخرى تلك اذا قسمة ضيزى... ما
+> انزل الله بها من سلطان
 
 Ghatadeh then adds: When Satan made those inspirations in the Prophets
 recitation, the idolators said: “The lord has mentioned our gods (and
 idols) favourably”, and they were gladdened and it was then that the
 Quran said:
 
-<blockquote dir="rtl">
-  <p>
-ليجعل ما يلقي الشيطان فتنة للذين في قلوبهم مرض
-  </p>
-</blockquote>
+> ليجعل ما يلقي الشيطان فتنة للذين في قلوبهم مرض
 
 “So that he may make what Satan suggests in the Prophets recitation a
 test and trial for those in whose hearts is disease........”
@@ -1987,12 +1839,8 @@ test and trial for those in whose hearts is disease........”
 Once again Tabari points to the Gharaniq story in an interpretation of
 the verse 54 of Surah Haj:[^66]
 
-<blockquote dir="rtl">
-  <p>
-و ليعلم الذين اوتوا العلم انه الحق من ربك فيؤمنوا به فتخبت له قلوبهم و
-ان الله لهاد الذين آمنوا الى صراط مستقيم
-  </p>
-</blockquote>
+> و ليعلم الذين اوتوا العلم انه الحق من ربك فيؤمنوا به فتخبت له قلوبهم و
+> ان الله لهاد الذين آمنوا الى صراط مستقيم
 
 And that those who have been given the knowledge may know that it is the
 truth from your lord so they may believe in it and their hearts may be
@@ -2026,20 +1874,12 @@ He relates from Sodi: The Prophet went to the mosque to pray. When he
 was praying, and in its interim when he was reciting a Surah of the
 Quran and came to this verse:
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى ومناة الثالثة الاخرى
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى ومناة الثالثة الاخرى
 
 It was here that Satan put certain words on his tongue and he spoke them
 aloud:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى و ان شفاعتهن ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى و ان شفاعتهن ترتجى
 
 He then continued the Surah Najm to its end and then prostrated and so
 did his followers, the idolators also following suit; this being because
@@ -2055,11 +1895,7 @@ in the lord if I read for you such things (!!) This matter was very
 distressing for the Prophet and the lord revealed verses to console and
 content him:[^67]
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من نبي ولا رسول الا اذا تمنى...
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من نبي ولا رسول الا اذا تمنى...
 
 \* \* \* \* \* \* \* \* \* \* \*
 
@@ -2227,11 +2063,7 @@ strange and amazing?!
 In the second part we will proceed to a study of the verses in the Surah
 “Haj” and discuss this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-وما ارسلنا من قبلك من رسول ولا نبي الا اذا تمنَّى... والله عليم حكيم
-  </p>
-</blockquote>
+> وما ارسلنا من قبلك من رسول ولا نبي الا اذا تمنَّى... والله عليم حكيم
 
 We must also study the three points we are confronted with in this verse
 so that its understanding and interpretation will be made possible.
@@ -2294,11 +2126,7 @@ sent before: and Allah is cognizant of the unjust”. (Quran 62: 7)***
 Thus, “Majma logat-e-Arab” was correct in its opinion regarding this
 word when they interpreted it as such:
 
-<blockquote dir="rtl">
-  <p>
-تمني الشيء المحبوب: رغب في ان يناله و حدثته نفسه بوقوعه
-  </p>
-</blockquote>
+> تمني الشيء المحبوب: رغب في ان يناله و حدثته نفسه بوقوعه
 
 “To desire a certain thing which is liked, meaning to wish for it and
 set ones' heart on achieving it”.[^76] Then they add: “The Apostles' or
@@ -2841,11 +2669,7 @@ Prophet and he recited them in the Quranic verses and the continued the
 Surah to its end. After that he prostrated and the believers and
 idolators also fell down in prostration.
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق
-  </p>
-</blockquote>
+> تلك الغرانيق
 
 In the last part of the narrative the narrator says: The Prophet
 prostrated when the Satanic words came to an end and afterwards Gabriel
@@ -2855,11 +2679,7 @@ was saddened by this occurance and here the lord revealed verse 52 of
 the Surah Haj to comfort him. Then he abrogated that which satan
 suggested to him and revealed
 
-<blockquote dir="rtl">
-  <p>
-كم من ملك في السماوات
-  </p>
-</blockquote>
+> كم من ملك في السماوات
 
 Therefore the substance and contents of the end of this narrative is
 that the Prostration was after the reading of the Satanic verses, and
@@ -3088,29 +2908,17 @@ century A.H Ibn Kolby who died in 204 A.H wrote in his book Al-Asnaam:
 
 “The Quraishites circled the Ka'aba in Mecca saying:
 
-<blockquote dir="rtl">
-  <p>
-واللات و العزى ومناة الثالثة الاخرى
-  </p>
-</blockquote>
+> واللات و العزى ومناة الثالثة الاخرى
 
-<blockquote dir="rtl">
-  <p>
-فانهن الغرانيق العلى منها الشفاعة ترتجى
-  </p>
-</blockquote>
+> فانهن الغرانيق العلى منها الشفاعة ترتجى
 
 The Quraishites believed that these idols were the daughters of God! and
 had the power of intercession with Him. When God sent his prophet to
 them, however, He revealed to him (in opposition to these vain beliefs)
 that: [^109]
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى و مناة الثالثة الاخرى الكم الذكر و له الانثى تلك
-اذا قسمة ضيزى ان ....... و آباؤكم ما انزل الله بها من سلطان
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى و مناة الثالثة الاخرى الكم الذكر و له الانثى تلك
+> اذا قسمة ضيزى ان ....... و آباؤكم ما انزل الله بها من سلطان
 
 Therefore the speakers of these words were the Quraishites and not the
 Holy Prophet (S). The Quraishites did not say this only once, on the
@@ -3268,12 +3076,8 @@ a time in which Muhammad introduced verses in the Quran which probably
 gave permission for the intercedence of the idols. The contents of one
 of these verses is:
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى و مناة الثالثة الاخرى تلك الغرانيق العلى و ان
-شفاعتهن لترجى
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى و مناة الثالثة الاخرى تلك الغرانيق العلى و ان
+> شفاعتهن لترجى
 
 A while later another revelation was revealed to him which abrogated the
 above verses.... Both the first and second verses had been circulated
@@ -3398,19 +3202,11 @@ scholars as such:
 When the Prophet (S) was reciting the Surah Najm and came to the
 celebrated verse:
 
-<blockquote dir="rtl">
-  <p>
-افرأيتم اللات و العزى و مناة الثالثة الاخرى
-  </p>
-</blockquote>
+> افرأيتم اللات و العزى و مناة الثالثة الاخرى
 
 Satan caused him to say:[^120]
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى و ان شفاعتهن ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى و ان شفاعتهن ترتجى
 
 and the Prophet recited these words among the Quranic verses in his
 recitation. The idolators were gladened that the Prophet spoke such
@@ -3428,14 +3224,10 @@ After this event Gabriel appeared to the Prophet and informed him that
 the aforesaid verses were from Satan and the Prophet became greatly
 saddened and unhappy and God sent this verse to console him:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
-تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّـهُ
-مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّـهُ آيَاتِهِ  وَاللَّـهُ
-عَلِيمٌ حَكِيمٌ 
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
+> تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّـهُ
+> مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّـهُ آيَاتِهِ  وَاللَّـهُ
+> عَلِيمٌ حَكِيمٌ
 
 ***“And We did not send before you any apostle or prophet, but when he
 desired, the Shaitan made a suggestion respecting his desire; but Allah
@@ -3460,12 +3252,8 @@ Najm say: “They thought of the angels as being girls and women and
 addressed them likewise”. And adds, “are you to have sons and the lord
 daughters?” Also in the Surah Saffat it has also come to us:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ  أَمْ
-خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا...
-  </p>
-</blockquote>
+> فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ  أَمْ
+> خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا...
 
 ***'Then ask them whether your lord has daughters and they have sons. Or
 did we create the angels females.....?(Qur'an, 37:149-150)***
@@ -3496,14 +3284,10 @@ they fabricated regarding them.
 
 In Surah Haj, however, the discussion concerns the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
-تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّـهُ
-مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّـهُ آيَاتِهِ  وَاللَّـهُ
-عَلِيمٌ حَكِيمٌ 
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
+> تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّـهُ
+> مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّـهُ آيَاتِهِ  وَاللَّـهُ
+> عَلِيمٌ حَكِيمٌ
 
 ***“And We did not send before you any apostle or prophet, but when he
 desired, the Shaitan made a suggestion respecting his desire; but Allah
@@ -3538,14 +3322,10 @@ plots and efforts and established his own verses.
 
 God has also said the same in another place:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ
-وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ
-غُرُورًا  وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ  فَذَرْهُمْ وَمَا
-يَفْتَرُونَ
-  </p>
-</blockquote>
+> وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنسِ
+> وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ
+> غُرُورًا  وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ  فَذَرْهُمْ وَمَا
+> يَفْتَرُونَ
 
 ***“And thus did we make for every prophet an enemy, some of them
 suggesting to others varnished falsehoods to deveive (them), and had
@@ -3575,11 +3355,7 @@ contradictions:
 Surah Najm and came to the names of the famous Arab idols (Lat, uzza and
 Manat), Satan inspired him to say:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى
 
 and the Prophet unknowingly recited them.
 
@@ -3629,11 +3405,7 @@ Discovering The Truth
 
 All of these narratives say: The first person to speak the sentence
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى منها الشفاعة ترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى منها الشفاعة ترتجى
 
 was the Holy Prophet (S) and the Quraishites heard it from him and used
 it. Ibn Kolby, the creditable historian and student of Imam Ja'far ibn
@@ -3643,17 +3415,9 @@ the event.
 In his famous book Al-Asnaam, he says on this matter; “The Quraishites
 on their processions around the Ka'aba would say:
 
-<blockquote dir="rtl">
-  <p>
-واللات و العزى ومناة الثالثة الاخرى
-  </p>
-</blockquote>
+> واللات و العزى ومناة الثالثة الاخرى
 
-<blockquote dir="rtl">
-  <p>
-فانهن الغرانيق العلى منها الشفاعة ترتجى
-  </p>
-</blockquote>
+> فانهن الغرانيق العلى منها الشفاعة ترتجى
 
 They believed that their idols were the daughters of God and possessed
 intercession with him.
@@ -3798,129 +3562,53 @@ John we read:
 
 > إنجيل يوحنا 12
 
-<blockquote dir="rtl">
-  <p>
-ان كنتم تحبوني فاحفظوا وصاياي وانا اطلب من الاب فيعطيكم فارقليط اخر
-ليثبت معكم الى الابد.
-  </p>
-</blockquote>
+> ان كنتم تحبوني فاحفظوا وصاياي وانا اطلب من الاب فيعطيكم فارقليط اخر
+> ليثبت معكم الى الابد.
 
-<blockquote dir="rtl">
-  <p>
-روح الحق الذي لن يطيق العالم ان يقبله و من لا يحبني ليس يحفظ كلامي
-  </p>
-</blockquote>
+> روح الحق الذي لن يطيق العالم ان يقبله و من لا يحبني ليس يحفظ كلامي
 
-<blockquote dir="rtl">
-  <p>
-و كلمتي التي سمعتموها ليست لي بل للاب الذي ارسلني.
-  </p>
-</blockquote>
+> و كلمتي التي سمعتموها ليست لي بل للاب الذي ارسلني.
 
-<blockquote dir="rtl">
-  <p>
-كلمتم بهذا مقيما عندكم و الفارقليط روح القدس الذي يرسله الاب
-  </p>
-</blockquote>
+> كلمتم بهذا مقيما عندكم و الفارقليط روح القدس الذي يرسله الاب
 
-<blockquote dir="rtl">
-  <p>
-بإسمي هو يعلمكم كل شيء و هو يذكركم كلما قلته لكم
-  </p>
-</blockquote>
+> بإسمي هو يعلمكم كل شيء و هو يذكركم كلما قلته لكم
 
-<blockquote dir="rtl">
-  <p>
-والان قد قلت لكم قبل ان يكون حتى اذا كان تؤمنوا.
-  </p>
-</blockquote>
+> والان قد قلت لكم قبل ان يكون حتى اذا كان تؤمنوا.
 
-<blockquote dir="rtl">
-  <p>
-من الان لا اكلمكم كثيرا لان اركون هذا العالم يأتي
-  </p>
-</blockquote>
+> من الان لا اكلمكم كثيرا لان اركون هذا العالم يأتي
 
 > إنجيل يوحنا 15
 
-<blockquote dir="rtl">
-  <p>
-فأما اذا جاء الفارقليط الذي ارسله انا اليكم من الاب روح الحق الذي من
-الاب ينبثق هو يشهد لاجلي
-  </p>
-</blockquote>
+> فأما اذا جاء الفارقليط الذي ارسله انا اليكم من الاب روح الحق الذي من
+> الاب ينبثق هو يشهد لاجلي
 
-<blockquote dir="rtl">
-  <p>
-الاصلاح السادس عشر
-  </p>
-</blockquote>
+> الاصلاح السادس عشر
 
-<blockquote dir="rtl">
-  <p>
-و لم اخبركم بهذه منذ البدي
-  </p>
-</blockquote>
+> و لم اخبركم بهذه منذ البدي
 
-<blockquote dir="rtl">
-  <p>
-لاني معكم و الان فاني منطلق الى من ارسلني و ليس احد منكم يسألني الى
-اين تذهب
-  </p>
-</blockquote>
+> لاني معكم و الان فاني منطلق الى من ارسلني و ليس احد منكم يسألني الى
+> اين تذهب
 
-<blockquote dir="rtl">
-  <p>
-بل لاني قلت لكم هذه فالكآبة ملأت قلوبكم
-  </p>
-</blockquote>
+> بل لاني قلت لكم هذه فالكآبة ملأت قلوبكم
 
-<blockquote dir="rtl">
-  <p>
-لكني اقول لكم الحق انه خير لكم ان انطلق لاني ان لم انطلق لم يأتكم
-الفارقليط
-  </p>
-</blockquote>
+> لكني اقول لكم الحق انه خير لكم ان انطلق لاني ان لم انطلق لم يأتكم
+> الفارقليط
 
-<blockquote dir="rtl">
-  <p>
-فأما انطلقت ارسلته اليكم. فاذا جاء ذاك فهو يوبخ العالم على خطية و على
-بر و على حكم.
-  </p>
-</blockquote>
+> فأما انطلقت ارسلته اليكم. فاذا جاء ذاك فهو يوبخ العالم على خطية و على
+> بر و على حكم.
 
-<blockquote dir="rtl">
-  <p>
-اما على الخطية فلانهم لم يؤمنوا بي و اما على البر فلاني منطلق الى الاب
-و لستم ترونني بعد.
-  </p>
-</blockquote>
+> اما على الخطية فلانهم لم يؤمنوا بي و اما على البر فلاني منطلق الى الاب
+> و لستم ترونني بعد.
 
-<blockquote dir="rtl">
-  <p>
-و اما على الحكم فان اركون هذا العالم قد دين. و ان ليس كلاماً كثيراً
-اقوله لكم و لكنكم لستم تطيقون حمله الان.
-  </p>
-</blockquote>
+> و اما على الحكم فان اركون هذا العالم قد دين. و ان ليس كلاماً كثيراً
+> اقوله لكم و لكنكم لستم تطيقون حمله الان.
 
-<blockquote dir="rtl">
-  <p>
-و اذا جاء روح الحق ذاك فهو يعلمكم جميع الحق لانه ليس ينطق من عنده بل
-يتكلم بكلما يسمع و يخبركم بما سيأتي.
-  </p>
-</blockquote>
+> و اذا جاء روح الحق ذاك فهو يعلمكم جميع الحق لانه ليس ينطق من عنده بل
+> يتكلم بكلما يسمع و يخبركم بما سيأتي.
 
-<blockquote dir="rtl">
-  <p>
-و هو يمجدني لانه يأخذ مما هو لي و يخبركم.
-  </p>
-</blockquote>
+> و هو يمجدني لانه يأخذ مما هو لي و يخبركم.
 
-<blockquote dir="rtl">
-  <p>
-جميع ماهو بلاب فهو لي فمن اجل هذا قلت ان مما هو لي يأخذ و يخبركم.
-  </p>
-</blockquote>
+> جميع ماهو بلاب فهو لي فمن اجل هذا قلت ان مما هو لي يأخذ و يخبركم.
 
 \* \* \* \* \* \*
 
@@ -4051,24 +3739,16 @@ Also the glorification of Jesus was said for the Jews who said unjust
 things about Mary. In the Surah Al-Imran verse 42, the Quran says about
 this:
 
-<blockquote dir="rtl">
-  <p>
- يَا مَرْيَمُ إِنَّ اللَّـهَ اصْطَفَاكِ وَطَهَّرَكِ وَاصْطَفَاكِ
-عَلَىٰ نِسَاءِ الْعَالَمِينَ 
-  </p>
-</blockquote>
+>  يَا مَرْيَمُ إِنَّ اللَّـهَ اصْطَفَاكِ وَطَهَّرَكِ وَاصْطَفَاكِ
+> عَلَىٰ نِسَاءِ الْعَالَمِينَ
 
 ***O' Marium! Surely Allah has chosen you and purified you and chosen
 you above the women of the world (in her own time) . (Quran 3:42)***
 
 and in verse 45 says:
 
-<blockquote dir="rtl">
-  <p>
- يَا مَرْيَمُ إِنَّ اللَّـهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ اسْمُهُ
-الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَجِيهًا فِي الدُّنْيَا وَالْآخِرَةِ 
-  </p>
-</blockquote>
+>  يَا مَرْيَمُ إِنَّ اللَّـهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ اسْمُهُ
+> الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَجِيهًا فِي الدُّنْيَا وَالْآخِرَةِ
 
 ***O' Marium, surely Allah gives you good news with a word from him (of)
 whose name is Messiah, is a son of Marium, worthy of regard in this
@@ -4076,12 +3756,8 @@ world and the hereafter..... (Quran 3:45)***
 
 And in verse 91 of the Surah Anbiya says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا
-وَجَعَلْنَاهَا وَابْنَهَا آيَةً لِّلْعَالَمِينَ 
-  </p>
-</blockquote>
+> وَالَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا
+> وَجَعَلْنَاهَا وَابْنَهَا آيَةً لِّلْعَالَمِينَ
 
 ***And she who guarded her chastity, so We breather into her of Our
 inspiration and made her and her son a sign for the nations . (Quran
@@ -4089,12 +3765,8 @@ inspiration and made her and her son a sign for the nations . (Quran
 
 and in the Surah Marium verse 34 it is said:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ  قَوْلَ الْحَقِّ الَّذِي فِيهِ
-يَمْتَرُونَ 
-  </p>
-</blockquote>
+> ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ  قَوْلَ الْحَقِّ الَّذِي فِيهِ
+> يَمْتَرُونَ
 
 ***Such is Isa, son of Marium: (This is) the saying of truth about which
 they dispute . (Quran 19:34)***
@@ -4503,5 +4175,4 @@ Holland. Its' first printing was published in the years 1913-1936 in
 English, German and French under the supervision of a group of famous
 Orientalists. In 1953 a condensed version of it was published and the
 first volume of new printing was published in 1960.
-
 

@@ -6,11 +6,7 @@ people of the heights, they would intercede for him and through their
 intercession he would enter Paradise. Allah, the Mighty and Sublime
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
-  </p>
-</blockquote>
+> وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
 
 ***“And on the most elevated places there shall be men who know all by
 their marks.” (Qur’an, Surah Araaf 7:46)***
@@ -101,5 +97,4 @@ is a medium of getting intercession and being recognized by the folks of
 [^4]: Al-Burhan, Vol. 2, Pg. 18
 
 [^5]: Majma al-Bayan, Vol. 4, Pg. 423
-
 

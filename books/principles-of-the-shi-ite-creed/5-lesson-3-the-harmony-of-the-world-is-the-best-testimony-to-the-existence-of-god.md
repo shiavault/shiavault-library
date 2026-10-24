@@ -74,4 +74,3 @@ system.
 
 [^1]: Indirect quotation from Tawhid Mufadhdhal, Najaf, p.55.
 
-

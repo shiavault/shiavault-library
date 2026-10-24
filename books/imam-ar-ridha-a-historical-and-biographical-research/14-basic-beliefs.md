@@ -301,4 +301,3 @@ still others preached taking an in-between approach.
 
 [^16]: Al Fajr:22
 
-

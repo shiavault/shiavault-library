@@ -44,11 +44,7 @@ heedlessness and self-admiration. Therefore, it has to be known that man
 cannot manage to discharge Allah’s rights and thank Him for His graces,
 as Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَاِنْ تَعُدُّوا نِعْمةَ اللهِ لاَ تُحْصُوهَا...
-  </p>
-</blockquote>
+> وَاِنْ تَعُدُّوا نِعْمةَ اللهِ لاَ تُحْصُوهَا...
 
 ***“And if you would count the blessings of Allah’s favors, you will not
 be able to number them…”***[^1]
@@ -144,14 +140,10 @@ One of the acknowledged principles in regard to the Day of Resurrection
 is the preservation and embodiment of deeds, which has been hinted at by
 Allah in the Qur’an; amongst which is:
 
-<blockquote dir="rtl">
-  <p>
-وَوُضِعَ الْکِتَابُ فَتَرَی الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
-وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَذَا الْکِتَابِ لاَ يُغادِرُ
-صَغِيزَةً وَلاَ کَبِيرَةً اِلاَّ أَحْصَاهَا وَوَجَدُوا ما عَمِلُوا
-حاضِرًا وَلاَ‌ يَظْلِمُ رَبُّكَ أَحَدًا
-  </p>
-</blockquote>
+> وَوُضِعَ الْکِتَابُ فَتَرَی الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
+> وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَذَا الْکِتَابِ لاَ يُغادِرُ
+> صَغِيزَةً وَلاَ کَبِيرَةً اِلاَّ أَحْصَاهَا وَوَجَدُوا ما عَمِلُوا
+> حاضِرًا وَلاَ‌ يَظْلِمُ رَبُّكَ أَحَدًا
 
 ***“And the Book shall be placed, then you will see the guilty fearing
 from what is in it, and they will say, ‘Ah! Woe to us! What a book this
@@ -161,12 +153,8 @@ not deal unjustly with anyone.”***[^5]
 
 At another juncture it states:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ \* يَرَهُ وَمَنْ‌ يَعْمَلْ مِثْقَالَ
-ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ \* يَرَهُ وَمَنْ‌ يَعْمَلْ مِثْقَالَ
+> ذَرَّةٍ شَرًّا يَرَهُ
 
 ***“So he who has done an atom’s weight of good shall see it. And he who
 has done an atom’s weight of evil shall see it.”***[^6]
@@ -176,12 +164,8 @@ has done an atom’s weight of evil shall see it.”***[^6]
 No man knows up to when he is going to remain alive and when his hour of
 death arrives, as the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-... وَمَا تَدْرِي نَفْسٌ مَا ذَا تَکْسِبُ غَدًا وَمَا تَدْرِي نَفْسٌ
-بِأَيِّ أَرْضٍ تَمُوتُ...
-  </p>
-</blockquote>
+> ... وَمَا تَدْرِي نَفْسٌ مَا ذَا تَکْسِبُ غَدًا وَمَا تَدْرِي نَفْسٌ
+> بِأَيِّ أَرْضٍ تَمُوتُ...
 
 ***“… And no one knows what he shall earn on the morrow; and no one
 knows in what land he shall die…”***[^7]
@@ -320,5 +304,4 @@ al-Islam.
 [^6]: Surat al-Zilzal 99:7-8.
 
 [^7]: Surat Luqman 31:34.
-
 

@@ -3,12 +3,8 @@ Lesson Sixty Six: Mutual Rights
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-يَلْزَمُ الْوالِدَيْنِ مِنَ الْحُقُوقِ لِوَلَدِهِما مَا يَلْزَمُ
-الْوَلَدَ لَهُما مِنْ حُقُوقِهِما
-  </p>
-</blockquote>
+> يَلْزَمُ الْوالِدَيْنِ مِنَ الْحُقُوقِ لِوَلَدِهِما مَا يَلْزَمُ
+> الْوَلَدَ لَهُما مِنْ حُقُوقِهِما
 
 Translation
 -----------
@@ -31,5 +27,4 @@ to keep them away from mental and moral taints. The tumult of their life
 shall not hinder them from this great duty.
 
 [^1]: Sayings of the Imams
-
 

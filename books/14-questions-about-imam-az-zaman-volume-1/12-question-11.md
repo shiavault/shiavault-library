@@ -43,4 +43,3 @@ the oppressed has been born and is very much present amongst them.
 
 [^1]: Khurshid al-Maghrib, Muhammad Ridha’ Hakimi, p. 24
 
-

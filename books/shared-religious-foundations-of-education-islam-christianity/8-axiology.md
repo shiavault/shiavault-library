@@ -577,4 +577,3 @@ for its own sake is as counter – productive spirituality as seeking
 happiness for its own sake is psychologically. We must seek first the
 kingdom of God (Mtt. 5: 33; cited in Astley, 2004).
 
-

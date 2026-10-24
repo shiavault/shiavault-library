@@ -58,7 +58,6 @@ After some soul searching, the man accepted Islam and thereafter
 started inviting his tribesmen to Islam, until the Muslim population
 amongst the tribe numbered more than five hundred.
 
-
 **Foes Testify to His Distinction**
 
 The Quraysh kept admitting his truthfulness, trustworthiness and every
@@ -286,5 +285,4 @@ use it as their role model if they wish to be near to Allah and to win
 the best of the Hereafter. Imam Ali has said, "Whoever seeks a role
 model, let the Prophet be his role model; otherwise, he shall have no
 safeguard against perdition."
-
 

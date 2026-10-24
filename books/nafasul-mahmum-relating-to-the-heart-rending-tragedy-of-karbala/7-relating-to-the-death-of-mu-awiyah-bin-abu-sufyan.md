@@ -159,4 +159,3 @@ Abdul Wahid Khan Page 25, Masa­lib Bani Umayyah - Isma’il bin Ali
 Hanafi), apart from being an adulterer, gambler, gluttonous and evil
 personified (Ref. Sarguzashte Mu’awiyah - Abdul Waheed Khan).
 
-

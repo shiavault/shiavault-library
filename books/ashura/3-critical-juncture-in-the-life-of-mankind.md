@@ -848,4 +848,3 @@ edition).
 [^25]: - Al-Fatal al-Nisaburi’s Rawdah al-Wa’izin, pg: 439;
 Al-Tabarasi’s Makarim al-Akhlaq, pg 447
 
-

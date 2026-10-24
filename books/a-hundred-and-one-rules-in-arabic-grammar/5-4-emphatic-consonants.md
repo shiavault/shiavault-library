@@ -8,4 +8,3 @@ of the tongue is lowered, the root of the tongue is raised towards the
 soft palate (velum), and in the process the timbre of the neighboring
 vowels is shifted towards a posterior realization.
 
-

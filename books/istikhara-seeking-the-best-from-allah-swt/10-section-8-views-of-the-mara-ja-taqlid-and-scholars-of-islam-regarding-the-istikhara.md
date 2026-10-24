@@ -218,4 +218,3 @@ discussion on \`casting lots' for more information."
 
 [^2]: Hadith 35 as found in this book
 
-

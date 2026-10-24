@@ -395,4 +395,3 @@ the Prophet of God (S) would prefer it except when there was an excuse
 as was his habit in all the recommended [practices], peace be upon him
 and his family.
 
-

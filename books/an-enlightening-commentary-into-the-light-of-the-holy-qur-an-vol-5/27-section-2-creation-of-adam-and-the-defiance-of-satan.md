@@ -8,13 +8,9 @@ Satan -Adam's seeking Allah’s pardon.
 Surah Al-‘A’raf, Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَاكُمْ ثُمَّ صَوَّرْنَاكُمْ ثُمَّ قُلْنَا
-لِلْمَلآئِكَةِ اسْجُدُواْ لآدَمَ فَسَجَدُواْ إِلاَّ إِبْلِيسَ لَمْ
-يَكُن مِّنَ السَّاجِدِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَاكُمْ ثُمَّ صَوَّرْنَاكُمْ ثُمَّ قُلْنَا
+> لِلْمَلآئِكَةِ اسْجُدُواْ لآدَمَ فَسَجَدُواْ إِلاَّ إِبْلِيسَ لَمْ
+> يَكُن مِّنَ السَّاجِدِينَ
 
 **11.** ***"And indeed We created you, then We fashioned you, then We
 said to the angels: "Prostrate yourselves unto Adam.' So they (all) did
@@ -46,12 +42,8 @@ modesty.
 Surah Al-‘A’raf, Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَا مَنَعَكَ أَلاَّ تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَاْ خَيْرٌ
-مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ
-  </p>
-</blockquote>
+> قَالَ مَا مَنَعَكَ أَلاَّ تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَاْ خَيْرٌ
+> مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ
 
 **12.** ***"He said: ' What prevented you that you did not prostrate
 when I commanded you?' He said: 'I am better than him. You created me of
@@ -91,12 +83,8 @@ Mary and mother of Moses, or one of the dishonest ones, like Satan.
 Surah Al-‘A’raf, Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا
-فَاخْرُجْ إِنَّكَ مِنَ الصَّاغِرِينَ
-  </p>
-</blockquote>
+> قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا
+> فَاخْرُجْ إِنَّكَ مِنَ الصَّاغِرِينَ
 
 **13.** ***"(Allah) said: 'Get you down from this (state): it does not
 befit you to behave proudly therein. Therefore, go you out. Verily you
@@ -143,17 +131,9 @@ kill another one."*
 Surah Al-‘A’raf, Verses 14 - 15
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَنظِرْنِي إِلَى يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> قَالَ أَنظِرْنِي إِلَى يَوْمِ يُبْعَثُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّكَ مِنَ المُنظَرِينَ
-  </p>
-</blockquote>
+> قَالَ إِنَّكَ مِنَ المُنظَرِينَ
 
 **14.** ***"(Instead of repentance, Iblis) said: 'Respite me until the
 day when they are raised up."***  
@@ -179,12 +159,8 @@ Qur'an:
 Surah Al-‘A’raf, Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِمَا أَغْوَيْتَنِي لأَقْعُدَنَّ لَهُمْ صِرَاطَكَ
-الْمُسْتَقِيمَ
-  </p>
-</blockquote>
+> قَالَ فَبِمَا أَغْوَيْتَنِي لأَقْعُدَنَّ لَهُمْ صِرَاطَكَ
+> الْمُسْتَقِيمَ
 
 **16.** ***"He (Satan) said: 'Since You have let me wander off, I will
 certainly lay wait for (deceiving) them in Your Straight Path '."***
@@ -203,12 +179,8 @@ lay wait for (deceiving) them in Your Straight Path '."***
 Surah Al-‘A’raf, Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لآتِيَنَّهُم مِّن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ
-أَيْمَانِهِمْ وَعَن شَمَآئِلِهِمْ وَلاَ تَجِدُ أَكْثَرَهُمْ شَاكِرِينَ
-  </p>
-</blockquote>
+> ثُمَّ لآتِيَنَّهُم مِّن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ
+> أَيْمَانِهِمْ وَعَن شَمَآئِلِهِمْ وَلاَ تَجِدُ أَكْثَرَهُمْ شَاكِرِينَ
 
 **17.** ***"Then I will certainly come upon them from before them, and
 from behind them, and from their right and from their left; and You will
@@ -256,12 +228,8 @@ of repentance is open to him.[^3]
 Surah Al-‘A’raf, Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اخْرُجْ مِنْهَا مَذْؤُومًا مَّدْحُورًا لَّمَن تَبِعَكَ مِنْهُمْ
-لأَمْلأنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> قَالَ اخْرُجْ مِنْهَا مَذْؤُومًا مَّدْحُورًا لَّمَن تَبِعَكَ مِنْهُمْ
+> لأَمْلأنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
 
 **18.** ***"Said He: 'Get out from this (state), despised, driven away.
 Whoever of them will follow you, I will surely fill Hell with you all
@@ -302,13 +270,9 @@ which means 'to drive away disgracefully'.
 Surah Al-‘A’raf, Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ فَكُلاَ مِنْ حَيْثُ
-شِئْتُمَا وَلاَ تَقْرَبَا هَـذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَيَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ فَكُلاَ مِنْ حَيْثُ
+> شِئْتُمَا وَلاَ تَقْرَبَا هَـذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ
+> الظَّالِمِينَ
 
 **19.** ***"And O' Adam! dwell you and your spouse in the Garden, and
 eat you two from wherever you two desire, but do not approach this tree
@@ -326,14 +290,10 @@ description of Surah Al-Baqarah. No.2. verse 35.[^6]
 Surah Al-‘A’raf, Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَوَسْوَسَ لَهُمَا الشَّيْطَانُ لِيُبْدِيَ لَهُمَا مَا وُورِيَ
-عَنْهُمَا مِن سَوْءَاتِهِمَا وَقَالَ مَا نَهَاكُمَا رَبُّكُمَا عَنْ
-هَـذِهِ الشَّجَرَةِ إِلاَّ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ
-الْخَالِدِينَ
-  </p>
-</blockquote>
+> فَوَسْوَسَ لَهُمَا الشَّيْطَانُ لِيُبْدِيَ لَهُمَا مَا وُورِيَ
+> عَنْهُمَا مِن سَوْءَاتِهِمَا وَقَالَ مَا نَهَاكُمَا رَبُّكُمَا عَنْ
+> هَـذِهِ الشَّجَرَةِ إِلاَّ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ
+> الْخَالِدِينَ
 
 **20.** ***"Then Satan whispered (evil suggestions) unto the two (Adam
 and Eve) that he might manifest unto them that which was hidden from
@@ -364,11 +324,7 @@ you may (not) become of the immortals."***
 Surah Al-‘A’raf, Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
-  </p>
-</blockquote>
+> وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
 
 **21.** ***"And he swore unto them both: ' Verily I am a sincere adviser
 to you'."***
@@ -386,14 +342,10 @@ The verse says:
 Surah Al-‘A’raf, Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَدَلاَّهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتْ لَهُمَا
-سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ
-وَنَادَاهُمَا رَبُّهُمَا أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا الشَّجَرَةِ
-وَأَقُل لَّكُمَا إِنَّ الشَّيْطَآنَ لَكُمَا عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> فَدَلاَّهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتْ لَهُمَا
+> سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ
+> وَنَادَاهُمَا رَبُّهُمَا أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا الشَّجَرَةِ
+> وَأَقُل لَّكُمَا إِنَّ الشَّيْطَآنَ لَكُمَا عَدُوٌّ مُّبِينٌ
 
 **22. "*****Then he (Satan) caused them both to fall by deceit; so when
 they tasted the (forbidden) tree, their shameful parts became exposed to
@@ -438,12 +390,8 @@ This was what Allah*,* addressing Adam and Eve, called out to them both.
 Surah Al-‘A’raf, Verse 23
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالاَ رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا
-وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> قَالاَ رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا
+> وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ
 
 **23.** ***"They said: 'Our Lord! We have been unjust to ourselves, and
 if You do not forgive us and have (not) mercy on us, we shall certainly
@@ -479,18 +427,10 @@ of bearing retribution.
 Surah Al-‘A’raf, Verses 24 - 25
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الأَرْضِ
-مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ
-  </p>
-</blockquote>
+> قَالَ اهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الأَرْضِ
+> مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
-  </p>
-</blockquote>
+> قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
 
 **24.** ***"He said: 'Get you down, some of you (being) the enemies of
 others and for you there is in the earth an abode and a provision for a
@@ -528,5 +468,4 @@ No. 5
 [^5]: Current Surah, verse 13
 
 [^6]: The Light of the Holy Qur'an, Part 1, PP. 150-155.
-
 

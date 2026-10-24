@@ -138,7 +138,6 @@ and exercise caution concerning the experiences of non-Muslims, by
 observing the values and yardstick of Islam. A noble hadith states: "It
 is not possible to obey Allah by disobeying him."
 
-
 **Problems and Obsticales**
 
 **1- External Poblems and Obstacles:**
@@ -242,7 +241,6 @@ is therefore, necessary for each missionary to study the situation,
 condition and language of his appointed region. 3- To provide the
 missionaries with scientific and practical means needed for their
 task.
-
 
 **Method of Ideological Confrontation:**
 
@@ -813,5 +811,4 @@ upper hand, if you (only) be (ture) believer." Holy Qur'an (Al-e-Imran
 
 "…If you suffer pain, assuredly they also sufer as you suffer; but you
 hope from Allah what they hope not;..." Holy Qur'an (Nisa' 4: 104)
-
 

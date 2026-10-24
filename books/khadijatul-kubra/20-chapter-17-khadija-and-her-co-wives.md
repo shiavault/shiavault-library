@@ -337,4 +337,3 @@ disclosed secrets to each other, they caused much sorrow to the holy
 Prophet, whose heart was tender and who treated all his family with
 exemplary patience and affection.
 
-

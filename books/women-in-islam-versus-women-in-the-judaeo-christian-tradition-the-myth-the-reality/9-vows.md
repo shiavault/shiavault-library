@@ -68,4 +68,3 @@ Nor could a man repudiate the oath made by any of his female relatives.
 
 [^2]: Gage, op. cit., p.141
 
-

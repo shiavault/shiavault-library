@@ -46,11 +46,7 @@ effective in selecting the prerequisites of a reason or in the quality
 of regulating the prerequisites. It might even lead to fallacious
 reasoning:
 
-<blockquote dir="rtl">
-  <p>
-“بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ”
-  </p>
-</blockquote>
+> “بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ”
 
 ***"Nay! Man desires to give the lie to what is before him (75:5)."***
 
@@ -66,12 +62,8 @@ he will refrain from wholeheartedly accepting and believing it. He will
 obstinately deny it, as previously indicated in expressing the
 difference between knowledge and belief:
 
-<blockquote dir="rtl">
-  <p>
-“إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنْفُسُ ۖ
-وَلَقَدْ جَاءَهُمْ مِنْ رَبِّهِمُ الْهُدَىٰ…”
-  </p>
-</blockquote>
+> “إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنْفُسُ ۖ
+> وَلَقَدْ جَاءَهُمْ مِنْ رَبِّهِمُ الْهُدَىٰ…”
 
 ***"... They follow naught but conjecture and the low desires which
 (their) souls incline to; and certainly the guidance has come to them
@@ -100,50 +92,30 @@ when the mind is cleared of prejudgments and is adorned with *taqwa*.
 Progress in the stages of *taqwa* prepares man for the rays of
 spirituality and heavenly and divine inspirations:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى
-السَّمْعَ وَهُوَ شَهِيدٌ”
-  </p>
-</blockquote>
+> “إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى
+> السَّمْعَ وَهُوَ شَهِيدٌ”
 
 ***"Most surely there is a reminder in this for him who has a heart or
 he gives ear and is a witness (50:37)."***
 
-<blockquote dir="rtl">
-  <p>
-“ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ”
-  </p>
-</blockquote>
+> “ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ”
 
 ***"This Book, there is no doubt in it, is a guide to the muttaqun
 (those who guard against evil) (2:2)."***
 
-<blockquote dir="rtl">
-  <p>
-”قَدْ أَفْلَحَ مَنْ زَكَّاهَا. وَقَدْ خَابَ مَنْ دَسَّاهَا“
-  </p>
-</blockquote>
+> ”قَدْ أَفْلَحَ مَنْ زَكَّاهَا. وَقَدْ خَابَ مَنْ دَسَّاهَا“
 
 ***"He will indeed be successful who purifies it, and he will indeed
 fail who corrupts it (91:9-10)."***
 
-<blockquote dir="rtl">
-  <p>
-“…إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا…”
-  </p>
-</blockquote>
+> “…إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا…”
 
 ***"... If you are careful of (your duty to) Allah, He will grant you a
 distinction... (8:29)."***
 
-<blockquote dir="rtl">
-  <p>
-”يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
-يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
-تَمْشُونَ بِهِ“
-  </p>
-</blockquote>
+> ”يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
+> يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
+> تَمْشُونَ بِهِ“
 
 ***"O you who believe! Be careful of (your duty to) Allah and believe in
 His Apostle: He will give you two portions of His mercy, and make for
@@ -155,41 +127,28 @@ understanding. It would bring about the domination of Satan, enhancement
 of ignorance, deviation and combination of unawareness and inward
 blindness:
 
-<blockquote dir="rtl">
-  <p>
-”أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
-عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
-بَصَرِهِ غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ“...
-  </p>
-</blockquote>
+> ”أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
+> عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
+> بَصَرِهِ غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ“...
 
 ***"Have you then considered him who takes his low desire for his god,
 and Allah has made him err having knowledge and has set a seal upon his
 ear and his heart and put a covering upon his eye. Who can then guide
 him after Allah... (45:23)?"***
 
-<blockquote dir="rtl">
-  <p>
-“كُتِبَ عَلَيْهِ أَنَّهُ مَنْ تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ
-وَيَهْدِيهِ إِلَىٰ عَذَابِ السَّعِيرِ”
-  </p>
-</blockquote>
+> “كُتِبَ عَلَيْهِ أَنَّهُ مَنْ تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ
+> وَيَهْدِيهِ إِلَىٰ عَذَابِ السَّعِيرِ”
 
 ***"Against him it is written down that whoever takes him for a friend,
 he shall lead him astray and conduct him to the torment of the burning
 fire (22:4)."***
 
-<blockquote dir="rtl">
-  <p>
-”وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا
-فَهُوَ لَهُ قَرِينٌ. وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ
-وَيَحْسَبُونَ أَنَّهُمْ مُهْتَدُونَ“
-  </p>
-</blockquote>
+> ”وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا
+> فَهُوَ لَهُ قَرِينٌ. وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ
+> وَيَحْسَبُونَ أَنَّهُمْ مُهْتَدُونَ“
 
 ***“And whoever turns himself away from the remembrance of the
 Beneficent God, We appoint for him a Satan, so he becomes his associate.
 And most surely they turn them away from the path, and they think that
 they are guided aright (43:36-37)."***
-
 

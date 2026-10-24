@@ -622,4 +622,3 @@ The scholars have written other fine points about this verse; the
 reader is advised to refer to their books for this purpose; Allâh is the
 creditor whose debt can never be repaid.
 
-

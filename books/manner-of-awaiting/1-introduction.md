@@ -3,13 +3,9 @@ Introduction
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ لَوْلَا أُنْزِلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ فَقُلْ
-إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ
-الْمُنْتَظِرِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ لَوْلَا أُنْزِلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ فَقُلْ
+> إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ
+> الْمُنْتَظِرِينَ
 
 ***“Say: The unseen is only for Allah; therefore wait – surely I too,
 with you am of those who wait.” (20:Surah Yunus 10)***
@@ -57,5 +53,4 @@ for Imam’s advent.
 
 [^3]: Refer to Kamaluddin 2/644-647 & Nur-al Absar Fi
 Fazilat-ul-Entezar/15-23.
-
 

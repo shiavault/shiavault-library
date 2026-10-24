@@ -73,4 +73,3 @@ those inclined towards ‘Irfān have benefited from.
 *Shahīd Mutahharī*  
   
 
-

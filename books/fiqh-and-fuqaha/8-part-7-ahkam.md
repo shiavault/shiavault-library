@@ -139,4 +139,3 @@ the liability beforehand. Similarly, a tutor carrying out corporal
 punishment must be careful not to cripple or kill the pupil. If he does,
 he is liable for compensation. These are dealt with in some detail.
 
-

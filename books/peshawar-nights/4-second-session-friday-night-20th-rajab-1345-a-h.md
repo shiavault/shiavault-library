@@ -757,4 +757,3 @@ To pray for divine blessings for the ‘Ahlul Bayt’ is the ‘sunna’
 Holy Prophet himself. We are proud to do what the Holy Qur'an and the
 Holy Prophet have enjoined us to do.
 
-

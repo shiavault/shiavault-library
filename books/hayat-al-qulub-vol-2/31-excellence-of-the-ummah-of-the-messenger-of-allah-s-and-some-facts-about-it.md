@@ -33,11 +33,7 @@ He sent a Prophet, He used to reveal to him that when some calamity
 befalls you, you must pray to Me so that I may solve the problem and the
 same was given to my Ummah:
 
-<blockquote dir="rtl">
-  <p>
-اُدْعُوْنِي أَسْتَجِبْ لَكُمْ 
-  </p>
-</blockquote>
+> اُدْعُوْنِي أَسْتَجِبْ لَكُمْ
 
 ***“Call upon Me, I will answer you…”***[^2]
 
@@ -45,19 +41,11 @@ same was given to my Ummah:
 community and He has made my Ummah a witness on all the creatures. As
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا 
-  </p>
-</blockquote>
+> وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا
 
 ***“…and (that) the Apostle may be a bearer of witness to you…”***
 
-<blockquote dir="rtl">
-  <p>
-لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ
-  </p>
-</blockquote>
+> لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ
 
 ***“…that you may be the bearers of witness to the people…”***[^3]
 
@@ -135,5 +123,4 @@ who is neither intelligent, nor forbearing or merciful.
 [^4]: The author says: Scholars have applied this quality to attribute
 false things with the dead. Or to complain to the Almighty Allah or that
 their voices may be heard by stranger men.
-
 

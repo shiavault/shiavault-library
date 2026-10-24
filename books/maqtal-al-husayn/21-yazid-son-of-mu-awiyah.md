@@ -580,4 +580,3 @@ not be achieved without his martyrdom. There is a lofty lesson in every
 syllable of the cause of the Prophet's grandson. Is there anyone in the
 nation who is admonished thereby or who discerns it?
 
-

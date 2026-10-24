@@ -205,13 +205,9 @@ series of vital issues that are indeed also pointed out by the God-given
 human make-up and fitrah. In His heavenly book, the Exalted God
 declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ... ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ... ﴾
 
 ***“So with moderation and resolve welcome and accept the religion that
 is congruous with the special human genesis. Because genesis is
@@ -237,28 +233,20 @@ utilize their cogitative minds. In this case, their human quality, the
 fitrah of reason and curiosity, is ravaged.[^3] The following holy
 verses accentuate this point:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللّهُ وَإِلَى
-الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ آبَاءنَا أَوَلَوْ
-كَانَ آبَاؤُهُمْ لاَ يَعْلَمُونَ شَيْئًا وَلاَ يَهْتَدُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللّهُ وَإِلَى
+> الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ آبَاءنَا أَوَلَوْ
+> كَانَ آبَاؤُهُمْ لاَ يَعْلَمُونَ شَيْئًا وَلاَ يَهْتَدُونَ ﴾
 
 ***“And when it is said to them, ‘Come towards what Allah has revealed
 and towards the Prophet.’ They reply, ‘Suffices us that which we
 discovered from our fathers.’ Do they follow their fathers even though
 they knew naught and were not guided?”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءنَا
-أَوَلَوْ كَانَ آبَاؤُهُمْ لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ \*
-وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لاَ
-يَسْمَعُ إِلاَّ دُعَاء وَنِدَاء صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ
-يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءنَا
+> أَوَلَوْ كَانَ آبَاؤُهُمْ لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ \*
+> وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لاَ
+> يَسْمَعُ إِلاَّ دُعَاء وَنِدَاء صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ
+> يَعْقِلُونَ ﴾
 
 ***“They reply, ‘No, we will follow that which we discovered from our
 fathers.’ Do they follow their fathers even though they were void of
@@ -306,5 +294,4 @@ al-An‘ām 6:149)
 [^4]: Sūrat al-Mā’idah 5:104.
 
 [^5]: Sūrat al-Baqarah 2:170-171.
-
 

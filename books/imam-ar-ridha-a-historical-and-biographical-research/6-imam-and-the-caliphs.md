@@ -600,4 +600,3 @@ book Nadeem al-Farid. 
 
 [^21]: Ibn al-Athir, Vol. 5, p. 138. 
 
-

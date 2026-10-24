@@ -1062,4 +1062,3 @@ the appendages were not an effective treatment.
 
 [^17]: Safinatul Bihar, root word raqa
 
-

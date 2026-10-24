@@ -290,4 +290,3 @@ society, this effort can be called *kawthar*.
 [^14]: Surat al-Hashr (59), Verse 9:  ... وَمَنْ يُوقَ شُحَّ نَفْسِهِ
 فَأُوْلٌئِكَ هُمُ الْمُفْلِحُونَ 
 
-

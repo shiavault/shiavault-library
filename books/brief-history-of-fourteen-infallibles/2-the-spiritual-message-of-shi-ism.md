@@ -87,4 +87,3 @@ For he who knows his own symbolic existence has already come to know the
 true existence that belongs solely to God who is independent and without
 need of anything whatsoever.
 
-

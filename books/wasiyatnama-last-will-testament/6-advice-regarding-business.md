@@ -225,4 +225,3 @@ to do good deeds and make your future better than your past.
 
 [^5]: Usual al-Kafi-1, p. 39
 
-

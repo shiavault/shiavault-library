@@ -780,4 +780,3 @@ purse and empty their minds of obstinacy and the causes of denial.
 
 [^3]: Bihar al-Anwar, II, p.21.
 
-

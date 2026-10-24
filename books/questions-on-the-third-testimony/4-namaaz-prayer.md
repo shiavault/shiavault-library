@@ -112,7 +112,6 @@ actions are futile. One thing is for certain. If any of the Holy
 Infallibles (a.s.) used to pray with bearing of the third testimony,
 then that should put an end to all arguments.
 
-
 **Tashahhud Of The Holy Prophet (S.A.W.)**
 
 [Shakir 17:110] Say: Call upon Allah or call upon, the Beneficent
@@ -160,5 +159,4 @@ Ali (a.s.) is the best Trustee and the best Imam; O Allah (s.w.t.) send
 blessings on Muhammad (s.a.w.) and his progeny (a.s.) and accept his
 (s.a.w.) intercession in the Ummah and elevate his (s.a.w.) station; All
 Praise is for Allah (s.w.t.).
-
 

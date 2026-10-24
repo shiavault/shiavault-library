@@ -157,4 +157,3 @@ College of Religious Studies,
 Al–Azhar University.
 20th Ramadan, 1386. (1st Jan. 1968)
 
-

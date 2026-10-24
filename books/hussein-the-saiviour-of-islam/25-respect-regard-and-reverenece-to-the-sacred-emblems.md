@@ -226,4 +226,3 @@ worship of the grave hut to con- secrate the place by dedicating it to
 the worship oft he Lord, to Whom the departed soul had been devoted, and
 had itself surrendered.
 
-

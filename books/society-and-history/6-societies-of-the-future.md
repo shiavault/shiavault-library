@@ -38,12 +38,8 @@ the world is a necessary and an inevitable matter, is just another way
 of saying that man shall ultimately attain to complete perfection. The
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ فَسَوْفَ يَأْتِي اللَّـهُ بِقَوْمٍ
-يُحِبُّهُمْ وَيُحِبُّونَهُ
-  </p>
-</blockquote>
+> مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ فَسَوْفَ يَأْتِي اللَّـهُ بِقَوْمٍ
+> يُحِبُّهُمْ وَيُحِبُّونَهُ
 
 ***“Whosoever of you turns from his religion, (know that in his stead)
 God will assuredly bring a people He loves and who love Him (for the
@@ -54,15 +50,11 @@ Here the Qur’an aims to describe the purpose of creation of man and his
 ultimate future, which, in another verse, is explained in the following
 words:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّـهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِن
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
-وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي
-لَا يُشْرِكُونَ بِي شَيْئًا
-  </p>
-</blockquote>
+> وَعَدَ اللَّـهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِن
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
+> وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي
+> لَا يُشْرِكُونَ بِي شَيْئًا
 
 ***“God has promised those of you who believe and do righteous deeds
 that He will surely make you successors in the earth, even as He made
@@ -74,11 +66,7 @@ shall serve Me, not ascribing with me anything (as partners)...***”
 
 Similarly in another place it states:
 
-<blockquote dir="rtl">
-  <p>
- …أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ 
-  </p>
-</blockquote>
+>  …أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 ***“....My righteous servants will inherit the earth.***” (21:105)
 
@@ -240,13 +228,9 @@ Islam does not amount to a negation of plurality of nations. On the
 contrary, it implies that Islam accepts the existence of various nations
 as undeniable natural realities. The following verse of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّـهِ أَتْقَاكُمْ 
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّـهِ أَتْقَاكُمْ
 
 ***“O, mankind, indeed we have created you male and female, and have
 made you nations and*** ***tribes that you may know one another. Verily,
@@ -404,11 +388,7 @@ once‑in‑a‑week visit to the church.
 
 Thirdly, the meaning of the verse (49:13) that says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى
-  </p>
-</blockquote>
+> إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى
 
 Is not that \`We have created you as two sexes,' so as to substantiate
 the claim that mankind is classified in various groups on the basis of
@@ -464,5 +444,4 @@ discussion about history.
 
 [^4]: Spengler, the well known sociologist, as quoted by Raymond Aron's
 Main Currents in sociological Thought, vol. I, p. 107.
-
 

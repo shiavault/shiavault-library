@@ -6,22 +6,14 @@ the story of Gharaniq. According to this story, the Noble Prophet (S)
 had been engaged in reciting Suratul Najm in front of the polytheists.
 When he had recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتُمُ اللاَّتَ وَ الْعُزَّى وَ مَنَاةَ الثَّالِثَةَ
-الأُُخْرى‏
-  </p>
-</blockquote>
+> أَفَرَأَيْتُمُ اللاَّتَ وَ الْعُزَّى وَ مَنَاةَ الثَّالِثَةَ
+> الأُُخْرى‏
 
 ***“Have you then considered the Lat and the 'Uzza; and Manat, the
 third, the last?”***[^1], the Satan caused him (S) to recite the
 following two sentences (which were not part of Surah) too:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الْغَرَانِيقُ الْعُلْيَ وَ إِنَّ شَفاَعَتَهُنَّ لَتُرْجَى.
-  </p>
-</blockquote>
+> تِلْكَ الْغَرَانِيقُ الْعُلْيَ وَ إِنَّ شَفاَعَتَهُنَّ لَتُرْجَى.
 
 “They are beautiful, high-ranking birds, and their intercession is
 anticipated.”[^2]
@@ -37,14 +29,10 @@ inspirations of the Satan!
 The following verse was then revealed which cautioned the Noble Prophet
 (S) and the believers[^3]:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا أَرْسَلْــنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَ لاَ نَبِيٍّ إِلاَّ
-إِذَا تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنْــسَخُ
-اللٌّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللٌّهُ آيَاتِهِ وَ
-اللٌّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَ مَا أَرْسَلْــنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَ لاَ نَبِيٍّ إِلاَّ
+> إِذَا تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنْــسَخُ
+> اللٌّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللٌّهُ آيَاتِهِ وَ
+> اللٌّهُ عَلِيمٌ حَكِيمٌ
 
 ***“And We did not send before you any messenger or prophet, but when he
 desired, the Shaytan made a suggestion respecting his desire; but Allah
@@ -80,12 +68,8 @@ and the whisperings of the Satan.)
 Testifying to this statement is another verse of the Qur’an which
 explicitly states:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ لاَ أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ
-شَيْئاً قَلِيلاً
-  </p>
-</blockquote>
+> وَ لَوْ لاَ أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ
+> شَيْئاً قَلِيلاً
 
 ***“And had it not been that We had already established you, (and had
 you not been protected from deviation under the shelter of
@@ -100,13 +84,9 @@ success by employing their diabolical suggestions.
 
 Also, in verse 113 of Suratul Nisa, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ لاَ فَضْلُ اللٌّهِ عَلَيْكَ وَ رَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ
-مِنْهُمْ أَنْ يُضِلُّوكَ وَ مَا يُضِلُّونَ إِلاَّ أَنْفُسَهُمْ وَ مَا
-يَضُرُّونَكَ مِنْ شَيْ‏ءٍ
-  </p>
-</blockquote>
+> وَ لَوْ لاَ فَضْلُ اللٌّهِ عَلَيْكَ وَ رَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ
+> مِنْهُمْ أَنْ يُضِلُّوكَ وَ مَا يُضِلُّونَ إِلاَّ أَنْفُسَهُمْ وَ مَا
+> يَضُرُّونَكَ مِنْ شَيْ‏ءٍ
 
 ***“And were it not for Allah's grace upon you and His mercy a party of
 them had certainly designed to bring you to perdition and they do not
@@ -136,12 +116,8 @@ amongst the words of the prophets in order to mislead the people, just
 as they used to do with the Noble Prophet (S) too. Verse 26 of Suratul
 Fussilat says:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَــالَ الَّذِينَ كَفَرُوا لاَ تَسْمَعُوا لِهٌذَا الْقُرْْآنِ وَ
-الْغَوْا فِيهِ لَعَلَّكُمْ تَغْلِــبُونَ
-  </p>
-</blockquote>
+> وَ قَــالَ الَّذِينَ كَفَرُوا لاَ تَسْمَعُوا لِهٌذَا الْقُرْْآنِ وَ
+> الْغَوْا فِيهِ لَعَلَّكُمْ تَغْلِــبُونَ
 
 ***“And those who disbelieve say: Do not listen to this Quran and make
 noise therein, perhaps you may overcome.”***
@@ -149,12 +125,8 @@ noise therein, perhaps you may overcome.”***
 In the light of this meaning, the meaning of the next verse (53 of
 Suratul Hajj) also becomes clear when it says:
 
-<blockquote dir="rtl">
-  <p>
-لِيَجْــعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْـنَةً لِلَّذِينَ فِي
-قُلُوبِهِمْ مَرَضٌ وَ الْقَاسِيَةِ قُلُوبُهُمْ‏
-  </p>
-</blockquote>
+> لِيَجْــعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْـنَةً لِلَّذِينَ فِي
+> قُلُوبِهِمْ مَرَضٌ وَ الْقَاسِيَةِ قُلُوبُهُمْ‏
 
 ***“So that He may make what the Shaytan casts a trial for those in
 whose hearts is disease and those whose hearts are hard.”***[^8]
@@ -173,12 +145,8 @@ greater awareness of the truthfulness of the prophets (a.s.). This, in
 turn, would make the people humble towards their invitation to the
 truth.
 
-<blockquote dir="rtl">
-  <p>
-وَ لِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ مِنْ
-رَبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ‏
-  </p>
-</blockquote>
+> وَ لِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ مِنْ
+> رَبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ‏
 
 ***“And that those on whom knowledge has been bestowed may learn that
 the (Qur’an) is the Truth from thy Lord, and that they may believe
@@ -324,22 +292,14 @@ would be sufficient to prove this myth to be false, and reveal that
 there exists no harmony between the commendation of the idols by means
 of the sentence:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الْغَرَااَنِيقُ الْعُلْيَ وَ إِنَّ شَفاَعَتَهُنَّ لَتُرْتَجَى‏.
-  </p>
-</blockquote>
+> تِلْكَ الْغَرَااَنِيقُ الْعُلْيَ وَ إِنَّ شَفاَعَتَهُنَّ لَتُرْتَجَى‏.
 
 and the verses situated before and after it. This is because, in the
 beginning of this very chapter, it has been explicitly stated that the
 Noble Prophet (S) does not speak of his own desire and whatever he says
 in connection with the Islamic beliefs and laws, is Divine revelation:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا يَنْطِقُ عَنِ الْهَوى إِنْ هُوَ إِلاَّ وَحْيٌ يُوْحى
-  </p>
-</blockquote>
+> وَ مَا يَنْطِقُ عَنِ الْهَوى إِنْ هُوَ إِلاَّ وَحْيٌ يُوْحى
 
 ***“Nor does he speak out of desire. It is naught but revelation that is
 revealed.”***[^15]
@@ -347,11 +307,7 @@ revealed.”***[^15]
 The Qur’an also emphasizes that the Noble Prophet (S) shall never go
 astray from the true path and never lose himself:
 
-<blockquote dir="rtl">
-  <p>
-مَا ضَلَّ صَاحِبُكُمْ وَ مَا غَوى
-  </p>
-</blockquote>
+> مَا ضَلَّ صَاحِبُكُمْ وَ مَا غَوى
 
 ***“Your companion does not err, nor does he go astray.”***[^16]
 
@@ -360,11 +316,7 @@ polytheism and praises of idols within the verses of monotheism? And as
 for speaking of one's desire, what could be worse than adding satanic
 words:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الْغَرَااَنِيقُ الْعُلْيَ
-  </p>
-</blockquote>
+> تِلْكَ الْغَرَااَنِيقُ الْعُلْيَ
 
 to Allah's speech?
 
@@ -372,13 +324,9 @@ Interestingly, the verses following the verses presently under
 consideration explicitly criticize and denounce the idols and the
 idol-worshippers and say:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هِيَ إِلاَّ أَسْمَآءٌ سَمَّيْتُمُوهَا أَنْــتُمْ وَ آبَاؤُكُمْ
-مَا أَنْزَلَ اللٌّهُ بِهَا مِنْ سُلْطَانٍ إِنْ يَتَّبِعُونَ إِلاَّ
-الظَّنَّ وَ مَا تَهْوَى الأََنْفُسُ‏
-  </p>
-</blockquote>
+> إِنْ هِيَ إِلاَّ أَسْمَآءٌ سَمَّيْتُمُوهَا أَنْــتُمْ وَ آبَاؤُكُمْ
+> مَا أَنْزَلَ اللٌّهُ بِهَا مِنْ سُلْطَانٍ إِنْ يَتَّبِعُونَ إِلاَّ
+> الظَّنَّ وَ مَا تَهْوَى الأََنْفُسُ‏
 
 ***“They are naught but names which you have named, you and your
 fathers; Allah (s.w.t.) has not sent for them any authority. They follow
@@ -501,5 +449,4 @@ book of the Sihah.
 [^17]: Suratul Najm (53), Verse 23
 
 [^18]: Tafsir Payam-e-Qur’an, vol. 7, pg. 164
-
 

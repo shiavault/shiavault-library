@@ -39,4 +39,3 @@ of stomach and privity parts."
 
 Al-Kafi, vol. 2, p. 79
 
-

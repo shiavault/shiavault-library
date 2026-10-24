@@ -48,4 +48,3 @@ argument, been irrational.
 [^1]: Refer to Murujuz Zahab of Masudi, Pg. 166, and Tarikh Kamil of Ibn
 Kathir, Vol. 5
 
-

@@ -637,4 +637,3 @@ avoided.
 
 [^23]: Ghurar al-Hikam p. 138
 
-

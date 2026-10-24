@@ -126,4 +126,3 @@ of a book.
 
 [^1]: Nahj al-Balaghah, ‛Abduh, volume 3, page 33
 
-

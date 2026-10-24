@@ -1,29 +1,21 @@
 Right n. 32: The Right of the Neighbor
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-حق الجار
-  </p>
-</blockquote>
+> حق الجار
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الجَارِ فَحِفْظُهُ غَائِبًا وَكَرَامَتُهُ شَاهِدًا
-ونُصْرَتُهُ وَمَعُونتُهُ فِي الحَالَينِ جَمِيعاً. لا تَتَّبعْ لَهُ
-عَوْرَةً ولا تَبحَثْ لَهُ عَنْ سَوْءَ[ةٍ] لِتَعْرِفَهَا، فَإنْ
-عَرَفْتَهَا مِنْهُ عَنْ غَيْرِ إرَادَةٍ مِنْكَ وَلا تَكَلُّفٍ كُنْتَ
-لِمَا عَلِمْتَ حِصْناً حَصِيناً وَسِتْرًا سَتِيرًا، لَوْ بَحَثتِ
-الأَسِنَّةُ عَنْهُ ضَمِيرًا لَمْ تَتَّصِلْ إلَيْه لانطِوَائِهِ
-عَلَيهِ. لا تَسْتَمِعْ عَلَيهِ مِنْ حَيْثُ لا يَعْلَمُ. لا تُسَلِّمْهُ
-عِنْدَ شَديدَةٍ، ولا تَحْسُدْهُ عِنْدَ نِعْمَةٍ. تُقِيلُ عَثْرَتهُ
-وتَغْفِرْ زَلَّتَهُ. ولا تَدَّخِرْ حِلْمَكَ عَنْهُ إذَا جَهِلَ
-عَلَيْكَ، ولا تَخرُجْ أَنْ تَكُونَ سُلَّمًا لَهُ. تَرُدُّ عَنهُ
-لِسَانَ الشَّتِيمَةِ، وَتُبْطِلُ فِيهِ كَيْدَ حَامِلِ النَّصِيحَةِ،
-وَتُعَاشِرَهُ مُعَاشَرَةً كَرِيمَةً. وَلا حَوْلَ وَلا قُوَّةَ إلا
-باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الجَارِ فَحِفْظُهُ غَائِبًا وَكَرَامَتُهُ شَاهِدًا
+> ونُصْرَتُهُ وَمَعُونتُهُ فِي الحَالَينِ جَمِيعاً. لا تَتَّبعْ لَهُ
+> عَوْرَةً ولا تَبحَثْ لَهُ عَنْ سَوْءَ[ةٍ] لِتَعْرِفَهَا، فَإنْ
+> عَرَفْتَهَا مِنْهُ عَنْ غَيْرِ إرَادَةٍ مِنْكَ وَلا تَكَلُّفٍ كُنْتَ
+> لِمَا عَلِمْتَ حِصْناً حَصِيناً وَسِتْرًا سَتِيرًا، لَوْ بَحَثتِ
+> الأَسِنَّةُ عَنْهُ ضَمِيرًا لَمْ تَتَّصِلْ إلَيْه لانطِوَائِهِ
+> عَلَيهِ. لا تَسْتَمِعْ عَلَيهِ مِنْ حَيْثُ لا يَعْلَمُ. لا تُسَلِّمْهُ
+> عِنْدَ شَديدَةٍ، ولا تَحْسُدْهُ عِنْدَ نِعْمَةٍ. تُقِيلُ عَثْرَتهُ
+> وتَغْفِرْ زَلَّتَهُ. ولا تَدَّخِرْ حِلْمَكَ عَنْهُ إذَا جَهِلَ
+> عَلَيْكَ، ولا تَخرُجْ أَنْ تَكُونَ سُلَّمًا لَهُ. تَرُدُّ عَنهُ
+> لِسَانَ الشَّتِيمَةِ، وَتُبْطِلُ فِيهِ كَيْدَ حَامِلِ النَّصِيحَةِ،
+> وَتُعَاشِرَهُ مُعَاشَرَةً كَرِيمَةً. وَلا حَوْلَ وَلا قُوَّةَ إلا
+> باللهِ.
 
 **And the right of your neighbor is that you should be a guardian for
 him when he is absent, and you should honor him when he is present, and
@@ -48,11 +40,7 @@ in the Holy Qur’an. In some places, it is used to refer to neighbors -
 close or far away. In the Holy Qur’an, it is also used to refer to those
 who seek asylum as in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ
-  </p>
-</blockquote>
+> وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ
 
 ***“If one amongst the Pagans ask thee for asylum, grant it to him...”
 [The Holy Qur’an, al-Tawbah 9:6]***
@@ -63,11 +51,7 @@ right of a neighbor is great both intellectually and religiously. The
 word ‘jar’ is used in any place where there is a great right as in the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-لاَ غَالِبَ لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَّكُمْ
-  </p>
-</blockquote>
+> لاَ غَالِبَ لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَّكُمْ
 
 ***“No one among men can overcome you this day, while I am near to you.”
 [The Holy Qur’an, al-Anfal 8:48]***
@@ -81,14 +65,10 @@ The Rights of Neighbors as Viewed in the Qur’an
 
 Consider the following verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدُواْ اللّهَ وَلاَ تُشْرِكُواْ بِهِ شَيْئًا وَبِالْوَالِدَيْنِ
-إِحْسَانًا وَبِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَالْجَارِ
-ذِي الْقُرْبَى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالجَنبِ وَابْنِ
-السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ
-  </p>
-</blockquote>
+> وَاعْبُدُواْ اللّهَ وَلاَ تُشْرِكُواْ بِهِ شَيْئًا وَبِالْوَالِدَيْنِ
+> إِحْسَانًا وَبِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَالْجَارِ
+> ذِي الْقُرْبَى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالجَنبِ وَابْنِ
+> السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ
 
 ***“Serve God, and join not any partners with Him; and do good - to
 parents, kinsfolk, orphans, those in need, neighbors who are near,
@@ -117,12 +97,8 @@ Traditions on the Rights of Neighbors
 There are many traditions about the rights of neighbors, their due
 respect and their role in our security. The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أغْلَقَ بابَهُ خَوفاً مِن جارِهِ عَلى أهْلِهِ وَمالِهِ فَليسَ
-جارُهُ مُؤمِناً.
-  </p>
-</blockquote>
+> مَن أغْلَقَ بابَهُ خَوفاً مِن جارِهِ عَلى أهْلِهِ وَمالِهِ فَليسَ
+> جارُهُ مُؤمِناً.
 
 *“The neighbor because of whom one locks the door, out of fear for one’s
 family and wealth, is not a believer.”*
@@ -130,21 +106,17 @@ family and wealth, is not a believer.”*
 The Prophet of God was asked: “O Prophet of God! What are the rights of
 neighbors incumbent upon other neighbors?” He said:
 
-<blockquote dir="rtl">
-  <p>
-مِن أدْنى حُقوقِهِ عَليَهِ إنِ اسْتَقْرَضَهُ أقْرَضَهُ وإنِ
-اسْتَعانَهُ أعانَهُ وإنِ اسْتَعارَ مِنهُ إعارَهُ وإنِ احْتاجَ إلى
-رِفْدِه رَفَدَهُ وإنْ دَعا أجَابَهُ وإنْ مَرِضَ عَادَهُ وإنْ مَاتَ
-شَيَّعَ جِنازَتَهُ وإنْ أصَابَ خَيراً فَرِحَ بِهِ وَلَمْ يَحْسِدْهُ
-وإنْ أصَابَ مُصيبَةً حَزِنَ لِحِزْنِهِ وَلا يَستَطيلُ عَليهِ بِبِناءٍ
-سَكَنَهُ فَيُؤذِيهِ بإشْرافِهِ عَلَيهِ وَسَدِّ مَنافِذِ الرّيحِ عَنهُ
-وإنْ أُهْدِيَ إلى مَنْزِلِهِ طُرفَةٌ أهْدى لهُ قِسماً مِنها إذا عَلِمَ
-أنَّهُ لَيسَ عِندَهُ مِثلُها أو فَليَسْتِرْها عَنهُ وَعَن عِيالِهِ إنْ
-شَحَّتْ نَفسُهُ بِها. إسمَعوا ما أقُولُ لَكُم: لَمْ يُؤدِّ حَقَّ
-الجارِ إلاّ قَليلٌ مِمَّنْ رَحمَهُ اللهُ، وَلَقَد أوصَاني اللهُ
-بالجَارِ حَتىّ ظَنَنْتُ أنَّهُ سَيُورِّثُهُ.
-  </p>
-</blockquote>
+> مِن أدْنى حُقوقِهِ عَليَهِ إنِ اسْتَقْرَضَهُ أقْرَضَهُ وإنِ
+> اسْتَعانَهُ أعانَهُ وإنِ اسْتَعارَ مِنهُ إعارَهُ وإنِ احْتاجَ إلى
+> رِفْدِه رَفَدَهُ وإنْ دَعا أجَابَهُ وإنْ مَرِضَ عَادَهُ وإنْ مَاتَ
+> شَيَّعَ جِنازَتَهُ وإنْ أصَابَ خَيراً فَرِحَ بِهِ وَلَمْ يَحْسِدْهُ
+> وإنْ أصَابَ مُصيبَةً حَزِنَ لِحِزْنِهِ وَلا يَستَطيلُ عَليهِ بِبِناءٍ
+> سَكَنَهُ فَيُؤذِيهِ بإشْرافِهِ عَلَيهِ وَسَدِّ مَنافِذِ الرّيحِ عَنهُ
+> وإنْ أُهْدِيَ إلى مَنْزِلِهِ طُرفَةٌ أهْدى لهُ قِسماً مِنها إذا عَلِمَ
+> أنَّهُ لَيسَ عِندَهُ مِثلُها أو فَليَسْتِرْها عَنهُ وَعَن عِيالِهِ إنْ
+> شَحَّتْ نَفسُهُ بِها. إسمَعوا ما أقُولُ لَكُم: لَمْ يُؤدِّ حَقَّ
+> الجارِ إلاّ قَليلٌ مِمَّنْ رَحمَهُ اللهُ، وَلَقَد أوصَاني اللهُ
+> بالجَارِ حَتىّ ظَنَنْتُ أنَّهُ سَيُورِّثُهُ.
 
 *“The least of a neighbor’s rights on him is that if he asks him for a
 loan he should grant it to him. If he asks for help, he should help him.
@@ -196,43 +168,27 @@ It is Forbidden to Hurt One’s Neighbors
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَلعُونٌ مَن آذى جَارَهُ.
-  </p>
-</blockquote>
+> مَلعُونٌ مَن آذى جَارَهُ.
 
 *“One who troubles his neighbor is cursed.”*[^3]
 
 On the other hand, pleasing one’s neighbor is a cause of forgiveness. In
 Lubb al-Lubab Qutb al-Rawandi quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَن مَاتَ ولَهُ جِيرانٌ ثَلاثَةٌ كُلُّهُم راضُونَ عَنهُ غُفِرَ لهُ.
-  </p>
-</blockquote>
+> مَن مَاتَ ولَهُ جِيرانٌ ثَلاثَةٌ كُلُّهُم راضُونَ عَنهُ غُفِرَ لهُ.
 
 *“Anyone who dies with three neighbors pleased with him will be forgiven
 (by God).”*[^4]  
  The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كانَ يُؤمِنُ بِاللهِ وَاليَومِ الآخِرِ فَلا يُؤذِ جَارَهُ.
-  </p>
-</blockquote>
+> مَن كانَ يُؤمِنُ بِاللهِ وَاليَومِ الآخِرِ فَلا يُؤذِ جَارَهُ.
 
 *“Whoever believes in God and the Final Day should not trouble his
 neighbors.”* [^5]
 
 The Prophet also said:
 
-<blockquote dir="rtl">
-  <p>
-حُرمَةُ الجَارِ عَلى الجَارِ كَحُرمَةِ أُمِّهِ.
-  </p>
-</blockquote>
+> حُرمَةُ الجَارِ عَلى الجَارِ كَحُرمَةِ أُمِّهِ.
 
 *“The reverence of a neighbor incumbent on the neighbor is like the
 reverence due to one’s mother.”*[^6]
@@ -244,12 +200,8 @@ Imam Sadiq narrated that someone complained to the Prophet of God about
 his neighbor. The Prophet turned his face away from him. He came back
 again. Then the Prophet told Ali , Salman and Miqdad:
 
-<blockquote dir="rtl">
-  <p>
-إذْهَبوا ونادُوا أنْ لَعْنَةُ اللهِ وَالمَلائِكَةِ عَلى مَن آذى
-جَارَهُ.
-  </p>
-</blockquote>
+> إذْهَبوا ونادُوا أنْ لَعْنَةُ اللهِ وَالمَلائِكَةِ عَلى مَن آذى
+> جَارَهُ.
 
 *“Go and publicly announce that the curse of God and the angels is on
 one who troubles his neighbor.”*[^7]
@@ -259,12 +211,8 @@ Treating Neighbors with Kindness
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-البِرُّ وَحُسْنُ الجِوارِ زيادَةٌ في الرِّزْقِ وَعِمارَةٌ في
-الدِّيارِ.
-  </p>
-</blockquote>
+> البِرُّ وَحُسْنُ الجِوارِ زيادَةٌ في الرِّزْقِ وَعِمارَةٌ في
+> الدِّيارِ.
 
 *“Treating one’s neighbors with kindness and being a good neighbor will
 result in an increase in one’s share of daily bread and the development
@@ -273,14 +221,10 @@ of towns.”* [^8]
 Imam Ridha has been quoted as having said the following in Fiqh
 al-Ridha:
 
-<blockquote dir="rtl">
-  <p>
-وَأَحْسِنْ مُجاوَرَةَ مَن جَاوَرَكَ فإنَّ اللهَ تَعالى يَسْألُكَ عَنِ
-الجارِ، وَقَد رُوِيَ عَن رَسولِ اللهِ صَلّى اللهُ عَليهِ وَآلِهِ: أنَّ
-اللهَ تَبارَكَ وَتَعالى أوْصانِي بالجَارِ حَتىّ ظَنَنْتُ أنَّهُ
-يَرِثُنِي.
-  </p>
-</blockquote>
+> وَأَحْسِنْ مُجاوَرَةَ مَن جَاوَرَكَ فإنَّ اللهَ تَعالى يَسْألُكَ عَنِ
+> الجارِ، وَقَد رُوِيَ عَن رَسولِ اللهِ صَلّى اللهُ عَليهِ وَآلِهِ: أنَّ
+> اللهَ تَبارَكَ وَتَعالى أوْصانِي بالجَارِ حَتىّ ظَنَنْتُ أنَّهُ
+> يَرِثُنِي.
 
 *“Be a good neighbor for your neighbors since God will ask you about the
 neighbour. God’s Prophet has been quoted as having said: God the
@@ -292,22 +236,14 @@ Be Considerate With Your Neighbors
 
 It is quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَا آمَنَ بي مَن باتَ شَبْعانَ وَجارُهُ جَائِعٌ.
-  </p>
-</blockquote>
+> مَا آمَنَ بي مَن باتَ شَبْعانَ وَجارُهُ جَائِعٌ.
 
 *“Whoever spends the night with a full stomach, while his neighbor is
 hungry, does not believe in me.”*[^10]  
  He also said:
 
-<blockquote dir="rtl">
-  <p>
-مَا آمَنَ بي مَن باتَ شَبْعانَ وَجارُهُ طاوٍ، مَا آمَنَ بي مَن باتَ
-كاسِياً وَجارُهُ عارٍ.
-  </p>
-</blockquote>
+> مَا آمَنَ بي مَن باتَ شَبْعانَ وَجارُهُ طاوٍ، مَا آمَنَ بي مَن باتَ
+> كاسِياً وَجارُهُ عارٍ.
 
 *“One who spends the night with a full stomach while his neighbor is
 hungry, has not believed in me. One who spends the night clothed, while
@@ -315,11 +251,7 @@ his neighbor has no clothes, has not believed in me.”* [^11]
 
 In a letter to his governor Uthman ibn Hunayf, Imam Ali wrote:
 
-<blockquote dir="rtl">
-  <p>
-أأبِيتُ مِبطاناً وَحَولي بُطونٌ غَرثَى وَأكْبادٌ حَرّى؟
-  </p>
-</blockquote>
+> أأبِيتُ مِبطاناً وَحَولي بُطونٌ غَرثَى وَأكْبادٌ حَرّى؟
 
 *“Should I pass the night with a full stomach while around me are hungry
 and thirsty bellies?”*[^12]
@@ -329,12 +261,8 @@ Bad Neighbors
 
 It has been quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-أعُوذُ باللهِ مِن جارِ سوءٍ في دَارِ إقامَةٍ تَراكَ عَيناهُ وَيَرعَاكَ
-قَلبُهُ، إنْ رآكَ بخَيرٍ ساءَهُ وإنْ رآكَ بِشَرٍّ سَرّهُ.
-  </p>
-</blockquote>
+> أعُوذُ باللهِ مِن جارِ سوءٍ في دَارِ إقامَةٍ تَراكَ عَيناهُ وَيَرعَاكَ
+> قَلبُهُ، إنْ رآكَ بخَيرٍ ساءَهُ وإنْ رآكَ بِشَرٍّ سَرّهُ.
 
 *“I seek refuge in God from an evil neighbor next to one’s place of
 residence. His eyes see you and his heart watches you. If he sees you in
@@ -346,11 +274,7 @@ Investigate Before Buying a House
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إلتَمِسوا الجَارَ قَبلَ شِراءِ الدّارِ وَالرَّفيقَ قَبلَ الطَّريِقِ.
-  </p>
-</blockquote>
+> إلتَمِسوا الجَارَ قَبلَ شِراءِ الدّارِ وَالرَّفيقَ قَبلَ الطَّريِقِ.
 
 *“Ask about the neighbor before buying the house, and the travelling
 companion before starting the journey.”*[^14]
@@ -360,12 +284,8 @@ The Domain of Neighborhood
 
 Imam Sadiq quoted on the authority of the Commander of the Faithful :
 
-<blockquote dir="rtl">
-  <p>
-حَريمُ المَسجِدِ أرْبَعُونَ داراً والجِوارُ أربَعون داراً مِن
-أرْبَعَةِ جَوانِبِها.
-  </p>
-</blockquote>
+> حَريمُ المَسجِدِ أرْبَعُونَ داراً والجِوارُ أربَعون داراً مِن
+> أرْبَعَةِ جَوانِبِها.
 
 *“The domain of the neighborhood of a mosque and a house is forty houses
 in four directions.”*[^15]
@@ -403,5 +323,4 @@ them, and associate with them in peace. Seek God’s help to do so.
 [^14]: Ibid.
 
 [^15]: Ibid.
-
 

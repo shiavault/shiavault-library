@@ -18,12 +18,8 @@ person who said, ‘I will marry the wives of Muhammad after his demise?
 Allah has not made Muhammad more rightful to the daughters of our uncles
 more than us.’ Because of your audacity, Allah revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-«وَمَا كَانَ لَكُمْ أَن تُؤْذُوا رَسُولَ اللَّهِ وَلاَ أَن تَنكِحُوا
-أَزْوَاجَهُ مِن بَعْدِهِ أَبَداً.»
-  </p>
-</blockquote>
+> «وَمَا كَانَ لَكُمْ أَن تُؤْذُوا رَسُولَ اللَّهِ وَلاَ أَن تَنكِحُوا
+> أَزْوَاجَهُ مِن بَعْدِهِ أَبَداً.»
 
 ***You should not give trouble to the Apostle of Allah, nor that you
 should marry his wives after him ever.***[^1]
@@ -146,13 +142,9 @@ by the Prophet to Mubahila?
 32. Is there anyone here except me who has paid Zakat in the state of
 Ruku (genuflection) and Allah has revealed the verse:
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ.»
-  </p>
-</blockquote>
+> «إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ.»
 
 Only Allah is your Guardian and His Apostle and those who believe, those
 who keep up prayers and pay the poor-rate while they bow?
@@ -162,13 +154,9 @@ who keep up prayers and pay the poor-rate while they bow?
 34. Is there anyone here except me for whom Allah has revealed the
 verse?
 
-<blockquote dir="rtl">
-  <p>
-«أَجَعَلْتُمْ سِقَايَةَ الْحَاجِّ وَعِمَارَةَ الْمَسْجِدِ الْحَرَامِ
-كَمَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَجَاهَدَ فِي سَبِيلِ
-اللّهِ لاَ يَسْتَوُونَ عِندَ اللَّهِ.»
-  </p>
-</blockquote>
+> «أَجَعَلْتُمْ سِقَايَةَ الْحَاجِّ وَعِمَارَةَ الْمَسْجِدِ الْحَرَامِ
+> كَمَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَجَاهَدَ فِي سَبِيلِ
+> اللّهِ لاَ يَسْتَوُونَ عِندَ اللَّهِ.»
 
 ***What! do you make (one who undertakes) the giving of drink to the
 pilgrims and the guarding of the Sacred Mosque like him who believes in
@@ -309,13 +297,9 @@ it is obligatory to kill one who opposes Abdur Rahman ibn Auf?
 
 6. Allah says regarding killing of a believer:
 
-<blockquote dir="rtl">
-  <p>
-«وَمَن يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَاؤُهُ جَهَنَّمُ خَالِداً
-فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَاباً
-عَظِيماً.»
-  </p>
-</blockquote>
+> «وَمَن يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَاؤُهُ جَهَنَّمُ خَالِداً
+> فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَاباً
+> عَظِيماً.»
 
 ***And whoever kills a believer intentionally, his punishment is hell;
 he shall abide in it, and Allah will send His wrath on him and curse him
@@ -511,12 +495,8 @@ he had participated from the side of moon.
 
 Umar said: “I strip you of your post for Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-«وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ فَمَحَوْنَا آيَةَ
-اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً.»
-  </p>
-</blockquote>
+> «وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ فَمَحَوْنَا آيَةَ
+> اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً.»
 
 ***And We have made the night and the day two signs, then We have made
 the sign of the night to pass away and We have made the sign of the day
@@ -1016,13 +996,9 @@ without meeting us.”
 
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-«يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءكُمْ فَاسِقٌ بِنَبَأٍ
-فَتَبَيَّنُوا أَن تُصِيبُوا قَوْماً بِجَهَالَةٍ فَتُصْبِحُوا عَلَى مَا
-فَعَلْتُمْ نَادِمِينَ.»
-  </p>
-</blockquote>
+> «يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءكُمْ فَاسِقٌ بِنَبَأٍ
+> فَتَبَيَّنُوا أَن تُصِيبُوا قَوْماً بِجَهَالَةٍ فَتُصْبِحُوا عَلَى مَا
+> فَعَلْتُمْ نَادِمِينَ.»
 
 ***O you who believe! If an evil-doer comes to you with a report, look
 carefully into it,*** ***lest you harm a people in ignorance, then be
@@ -1165,15 +1141,11 @@ Zaid ibn Thabit Ansari was given a hundred thousand dirhams.
 Abu Zar could not bear to see this and he recited the following verse of
 holy Quran in public:
 
-<blockquote dir="rtl">
-  <p>
-«وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا
-فِي سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ. يَوْمَ يُحْمَى
-عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا جِبَاهُهُمْ وَجُنوبُهُمْ
-وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ لأَنفُسِكُمْ فَذُوقُواْ مَا
-كُنتُمْ تَكْنِزُونَ.»
-  </p>
-</blockquote>
+> «وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا
+> فِي سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ. يَوْمَ يُحْمَى
+> عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا جِبَاهُهُمْ وَجُنوبُهُمْ
+> وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ لأَنفُسِكُمْ فَذُوقُواْ مَا
+> كُنتُمْ تَكْنِزُونَ.»
 
 ***(As for) those who hoard up gold and silver and do not spend it in
 Allah’s way, announce to them a painful chastisement, On the day when it
@@ -1398,5 +1370,4 @@ Ansaab al-Ashraaf, Vol. 5, Pg. 48
 [^31]: Masoodi, Murujuz Zahab, Vol. 2, Pg. 222
 
 [^32]: Dr. Taha Husayn, Al-Fitnah al-Kubra Uthman bin Affan, Pg. 193-194
-
 

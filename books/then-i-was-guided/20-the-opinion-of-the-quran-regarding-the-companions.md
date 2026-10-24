@@ -239,4 +239,3 @@ more examples, but just to be brief, I shall refer to some of those
 examples and the interested reader may further his own knowledge if he
 so wishes.
 
-

@@ -148,4 +148,3 @@ eventful journey I had had. I was in grief over the absent of
 Ahmad-ibn-Eshaq but as I had met my leader Imam Hasan Askari (a.s.) and
 his son Mahdi (a.s.) I was joyful.
 
-

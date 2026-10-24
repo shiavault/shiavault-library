@@ -697,4 +697,3 @@ Chief Justice: I think everyone would like a break now, so I’ll adjourn
 this court session and we shall resume again after tomorrow at 10AM
 sharp. Thank you. Court is dismissed!
 
-

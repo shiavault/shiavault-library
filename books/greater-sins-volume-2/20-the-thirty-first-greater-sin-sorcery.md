@@ -855,15 +855,11 @@ spell has been cast on him. ‘Ali (a.s.) told him to write the following
 Du’a on the skin of deer and keep it with him so that the spell may not
 affect him:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ ِبسْمِ الله وَما شَاءَ اَللهُ ِبسْمِ اللهِ لاَحَوْلَ
-ولاَقُوَّةَ اِلاَّ بِااللهِ قًََالَ مُوْسٰ ماَ جئْتُمْ بِه السَّحْرَ
-اِنَّ اللهَ سَيُبْطِلُة اِنَّ اللهَ لاَ يُصْلحُ عَمَلَ الْمُفْسِدِيْنَ
-فَوَقََعَ الْحَقُّ وَ بَطَلَ ماَ كَانُوْأ يَعْمَلُوْنَ فَغُلِبُوْا
-هُنَالِكَ وَ انْقَلَبُوْا صَاغِرِيْنَ .
-  </p>
-</blockquote>
+> بِسْمِ اللهِ ِبسْمِ الله وَما شَاءَ اَللهُ ِبسْمِ اللهِ لاَحَوْلَ
+> ولاَقُوَّةَ اِلاَّ بِااللهِ قًََالَ مُوْسٰ ماَ جئْتُمْ بِه السَّحْرَ
+> اِنَّ اللهَ سَيُبْطِلُة اِنَّ اللهَ لاَ يُصْلحُ عَمَلَ الْمُفْسِدِيْنَ
+> فَوَقََعَ الْحَقُّ وَ بَطَلَ ماَ كَانُوْأ يَعْمَلُوْنَ فَغُلِبُوْا
+> هُنَالِكَ وَ انْقَلَبُوْا صَاغِرِيْنَ .
 
 In the Name of Allah and by Allah. In the Name of Allah and as Allah
 willed. In the Name of Allah. There is no power or might except by
@@ -941,5 +937,4 @@ otherwise he is nothing but a sorcerer.
 [^11]: This paragraph, onwards to the end of this Chapter is not found
 in the Arabic version of this work (Adh-Dhunab al-Kabirah) and may have
 been translated from the Urdu version of the book. [ N. DILP team]
-
 

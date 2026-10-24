@@ -4,11 +4,7 @@ Part 1 - The Revealer
 Belief in God, The Exalted
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ﷲ سبﺣﺎ نه و تعالى
-  </p>
-</blockquote>
+> ﷲ سبﺣﺎ نه و تعالى
 
 **God, Praised and Exalted be He**
 
@@ -1463,5 +1459,4 @@ pp.480-500.
 
 [^12]: This is the dialectical process of thesis, antithesis and
 synthesis on which Marxist materialism is based. (Translator's footnote)
-
 

@@ -524,4 +524,3 @@ gallows. Thus he has no alternative but to retire and go into
 occultation until the time when the Divine Command is issued. Besides,
 Allah has set a limit for all matters.
 
-

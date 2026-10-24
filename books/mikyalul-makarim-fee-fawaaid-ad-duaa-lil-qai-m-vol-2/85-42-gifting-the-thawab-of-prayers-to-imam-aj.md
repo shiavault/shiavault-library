@@ -25,4 +25,3 @@ of Allah (S) and the Holy Imams (as).
 
 [^1]: Jamaal al-Usboo, Pg. 15
 
-

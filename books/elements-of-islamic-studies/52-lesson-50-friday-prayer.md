@@ -48,4 +48,3 @@ servants from among thy pious servants stood firm with Thy book and the
 traditions of Thy Prophet; Thou reward them with the best reward from
 us.)
 
-

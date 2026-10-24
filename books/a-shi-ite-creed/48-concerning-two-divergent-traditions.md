@@ -476,4 +476,3 @@ modern scholars like Prof. L. Massignon, s.v. Zindiq, EI, iv. 1228.
 
 [^29]: See Tawhid, p.114 sqq.
 
-

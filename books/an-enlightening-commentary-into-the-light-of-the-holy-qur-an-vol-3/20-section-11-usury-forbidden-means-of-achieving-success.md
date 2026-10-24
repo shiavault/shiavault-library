@@ -8,12 +8,8 @@ Protection - The loss inflicted upon the enemy -Misfortune at Uhud.
 Surah 'Ali-Imran, Verse 130
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ الرِّبَا أَضْعَافًا
-مُّضَاعَفَةً وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ الرِّبَا أَضْعَافًا
+> مُّضَاعَفَةً وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 **130.** ***"O' you who have Faith! Do not devour usury, doubling it
 over and over again, and be in awe of Allah; that you may be
@@ -64,11 +60,7 @@ coming world he will encounter the Wrath of *Allah.*
 Surah 'Ali-Imran, Verse 131
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ النَّارَ الَّتِي أُعِدَّتْ لِلْكَافِرِينَ
-  </p>
-</blockquote>
+> وَاتَّقُواْ النَّارَ الَّتِي أُعِدَّتْ لِلْكَافِرِينَ
 
 **131. "*****And be in awe of the Fire which has been prepared*** ***for
 the disbelievers."***
@@ -87,11 +79,7 @@ prepared for the disbelievers.
 Surah 'Ali-Imran, Verse 132
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُواْ اللّهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَأَطِيعُواْ اللّهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
 
 **132.** ***"And obey Allah and the Messenger, that you may be shown
 Mercy."***
@@ -118,12 +106,8 @@ mercy on him, too.
 Surah 'Ali-Imran, Verse 133
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسَارِعُواْ إِلَى مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
-السَّمَاوَاتُ وَالأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَسَارِعُواْ إِلَى مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
+> السَّمَاوَاتُ وَالأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
 
 **133.** ***"And hasten towards forgiveness from your Lord, and a Garden
 whose width is (as) the heavens and the earth, prepared for the pious
@@ -155,12 +139,8 @@ ones. It says:
 Surah 'Ali-Imran, Verse 134
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُنفِقُونَ فِي السَّرَّاء وَالضَّرَّاء وَالْكَاظِمِينَ
-الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللّهُ يُحِبُّ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> الَّذِينَ يُنفِقُونَ فِي السَّرَّاء وَالضَّرَّاء وَالْكَاظِمِينَ
+> الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللّهُ يُحِبُّ الْمُحْسِنِينَ
 
 **134.** ***"Those who spend (benevolently) in ease and in adversity,
 and who restrain (their) anger and pardon (the faults of men; and Allah
@@ -212,14 +192,10 @@ the opponent's heart, and to make that person kind to himself.
 Surah 'Ali-Imran, Verse 135
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
-ذَكَرُواْ اللّهَ فَاسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ
-الذُّنُوبَ إِلاَّ اللّهُ وَلَمْ يُصِرُّواْ عَلَى مَا فَعَلُواْ وَهُمْ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
+> ذَكَرُواْ اللّهَ فَاسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ
+> الذُّنُوبَ إِلاَّ اللّهُ وَلَمْ يُصِرُّواْ عَلَى مَا فَعَلُواْ وَهُمْ
+> يَعْلَمُونَ
 
 **135.** ***"And those who, when they commit an indecency or do
 injustice to their selves, remember Allah and seek forgiveness for their
@@ -248,13 +224,9 @@ committed."***
 Surah 'Ali-Imran, Verse 136
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي
-مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ
-الْعَامِلِينَ
-  </p>
-</blockquote>
+> أُوْلَـئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي
+> مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ
+> الْعَامِلِينَ
 
 **136.** ***"As for these, their reward is forgiveness from their Lord
 and Gardens beneath which rivers flow; therein they will abide forever.
@@ -284,12 +256,8 @@ effort and action are necessary.
 Surah 'Ali-Imran, Verse 137
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُواْ فِي الأَرْضِ فَانْظُرُواْ
-كَيْفَ كَانَ عَاقِبَةُ الْمُكَذَّبِينَ
-  </p>
-</blockquote>
+> قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُواْ فِي الأَرْضِ فَانْظُرُواْ
+> كَيْفَ كَانَ عَاقِبَةُ الْمُكَذَّبِينَ
 
 **137.** ***"Indeed, there have been institutions before you, therefore
 travel in the earth and see what has been the end of the rejecters."***
@@ -341,11 +309,7 @@ fate of those people is important.
 Surah 'Ali-Imran, Verse 138
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَـذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
-  </p>
-</blockquote>
+> هَـذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
 
 **138.** ***"This is an explanation for mankind, and a guidance and an
 admonition for the pious ones."***
@@ -369,12 +333,8 @@ of the Qur'an is effective.
 Surah 'Ali-Imran, Verse 139
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَهِنُوا وَلاَ تَحْزَنُوا وَأَنتُمُ الأَعْلَوْنَ إِن كُنتُم
-مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلاَ تَهِنُوا وَلاَ تَحْزَنُوا وَأَنتُمُ الأَعْلَوْنَ إِن كُنتُم
+> مُّؤْمِنِينَ
 
 **139.** ***"Do not faint and do not grieve for you shall gain the upper
 hand, if you be believers."***
@@ -408,14 +368,10 @@ command of the Messenger of *Allah* (S)*,* they would not be defeated,
 Surah 'Ali-Imran, Verse 140
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ
-وَتِلْكَ الأيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ وَلِيَعْلَمَ اللّهُ
-الَّذِينَ آمَنُواْ وَيَتَّخِذَ مِنكُمْ شُهَدَاء وَاللّهُ لاَ يُحِبُّ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ
+> وَتِلْكَ الأيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ وَلِيَعْلَمَ اللّهُ
+> الَّذِينَ آمَنُواْ وَيَتَّخِذَ مِنكُمْ شُهَدَاء وَاللّهُ لاَ يُحِبُّ
+> الظَّالِمِينَ
 
 **140.** ***" If a wound touches you, because a wound similar to it has
 also touched the (disbelieving) people, and such days We deal out in
@@ -464,11 +420,7 @@ of *Allah* to them.
 Surah 'Ali-Imran, Verse 141
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِيُمَحِّصَ اللّهُ الَّذِينَ آمَنُواْ وَيَمْحَقَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَلِيُمَحِّصَ اللّهُ الَّذِينَ آمَنُواْ وَيَمْحَقَ الْكَافِرِينَ
 
 **141.** ***"And that Allah may purge those who believe and wipe out the
 disbelievers."***
@@ -490,12 +442,8 @@ disbelievers."***
 Surah 'Ali-Imran, Verse 142
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبْتُمْ أَن تَدْخُلُواْ الْجَنَّةَ وَلَمَّا يَعْلَمِ اللّهُ
-الَّذِينَ جَاهَدُواْ مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> أَمْ حَسِبْتُمْ أَن تَدْخُلُواْ الْجَنَّةَ وَلَمَّا يَعْلَمِ اللّهُ
+> الَّذِينَ جَاهَدُواْ مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ
 
 **142.** ***"Or have you imagined that you will enter Paradise and that
 Allah does not yet know those among you who strived nor He knows the
@@ -536,12 +484,8 @@ forth after war, all in all, need patience and constancy.
 Surah 'Ali-Imran, Verse 143
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كُنتُمْ تَمَنَّوْنَ الْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ
-فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ كُنتُمْ تَمَنَّوْنَ الْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ
+> فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
 
 **143.** ***"And really you were longing for death before you met it
 (the holy struggle); but (now that) you have seen it, you look (at
@@ -573,5 +517,4 @@ struggle); but (now that) you have seen it, you look (at it)!"***
 [^1]: The Qur'an, Surah Ta'ha No.20, verse 68
 
 [^2]: Surah Ar-Ra'd, No 13, verse 24
-
 

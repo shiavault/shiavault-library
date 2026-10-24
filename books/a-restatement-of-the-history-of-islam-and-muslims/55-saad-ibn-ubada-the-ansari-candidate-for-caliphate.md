@@ -59,4 +59,3 @@ candidate for khilafat. He didn't become a khalifa. In Saqifa, the door
 of khilafat was slammed in the face of the Ansar, and they were shut out
 for all time.
 
-

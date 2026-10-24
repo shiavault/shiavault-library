@@ -17,4 +17,3 @@ example: **هَذا القَلَمُ** (this pen)
 demonstrative pronouns, conjunctions, definite by *alif-lām* and
 prefixed nouns.
 
-

@@ -22,21 +22,17 @@ the Messenger of Allah, on the Order of his Lord. It was part of His
 Mercy, made especially for this *Ummah*, as Imam ‘Abd al-Razzaq (d. 211
 H) records:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن جريج عن عطاء قال: لأول من سمعت منه المتعة صفوان بن
-يعلى، قال: أخبرني عن يعلى أن معاوية استمتع بامرأة بالطائف، فأنكرت ذلك
-عليه، فدخلنا على ابن عباس، فذكر له بعضنا، فقال له: نعم، فلم يقر في
-نفسي، حتى قدم جابر ابن عبد الله، فجئناه في منزله، فسأله القوم عن
-أشياء، ثم ذكروا له المتعة، فقال: نعم، استمتعنا على عهد رسول الله صلى
-الله عليه وسلم، وأبي بكر، وعمر، حتى إذا كان في آخر خلافة عمر … قال
-عطاء: وسمعت ابن عباس يقول: يرحم الله عمر، ما كانت المتعة إلا رخصة من
-الله عز وجل، رحم بها أمة محمد صلى الله عليه وسلم، فلو لا نهيه عنها ما
-احتاج إلى الزنا إلا شقي، قال: كأني والله أسمع قوله: إلا شقي - عطاء
-القائل - قال عطاء: فهي التي في سورة النساء } فما استمتعتم به منهن {
-إلى كذا وكذا من الأجل، على كذا وكذا
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن جريج عن عطاء قال: لأول من سمعت منه المتعة صفوان بن
+> يعلى، قال: أخبرني عن يعلى أن معاوية استمتع بامرأة بالطائف، فأنكرت ذلك
+> عليه، فدخلنا على ابن عباس، فذكر له بعضنا، فقال له: نعم، فلم يقر في
+> نفسي، حتى قدم جابر ابن عبد الله، فجئناه في منزله، فسأله القوم عن
+> أشياء، ثم ذكروا له المتعة، فقال: نعم، استمتعنا على عهد رسول الله صلى
+> الله عليه وسلم، وأبي بكر، وعمر، حتى إذا كان في آخر خلافة عمر … قال
+> عطاء: وسمعت ابن عباس يقول: يرحم الله عمر، ما كانت المتعة إلا رخصة من
+> الله عز وجل، رحم بها أمة محمد صلى الله عليه وسلم، فلو لا نهيه عنها ما
+> احتاج إلى الزنا إلا شقي، قال: كأني والله أسمع قوله: إلا شقي - عطاء
+> القائل - قال عطاء: فهي التي في سورة النساء } فما استمتعتم به منهن {
+> إلى كذا وكذا من الأجل، على كذا وكذا
 
 ‘Abd al-Razzaq – Ibn Jurayj – ‘Aṭa:
 
@@ -67,12 +63,8 @@ period, for such-and-such.[^1]
 
 Commenting on this *hadith*, al-Hafiẓ (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-فأخرجه عبد الرزاق من طريق صفوان بن يعلى بن أمية أخبرني يعلى ان معاوية
-استمتع بامرأة بالطائف واسناده صحيح
-  </p>
-</blockquote>
+> فأخرجه عبد الرزاق من طريق صفوان بن يعلى بن أمية أخبرني يعلى ان معاوية
+> استمتع بامرأة بالطائف واسناده صحيح
 
 ‘Abd al-Razzaq recorded it with the chain of Safwan b. Ya’la b. Umayyah:
 Ya’la narrated to me that Mu’awiyah did *mut’ah* with a woman at Ṭaif.
@@ -85,12 +77,8 @@ using the phrases (**قال**) [he said] and (**قال عطاء**) [‘Aṭa sai
 addition to his *‘an-‘an* manner of transmission. ‘Allamah al-Albani (d.
 1420 H) explains what both phrases indicate:
 
-<blockquote dir="rtl">
-  <p>
-روى أبو بكر بن أبى خيثمة بسند صحيح عن ابن جريج قال: " إذا قلت: قال
-عطاء , فأنا سمعته منه , وإن لم أقل سمعت ".
-  </p>
-</blockquote>
+> روى أبو بكر بن أبى خيثمة بسند صحيح عن ابن جريج قال: " إذا قلت: قال
+> عطاء , فأنا سمعته منه , وإن لم أقل سمعت ".
 
 Abu Bakr b. Abi Khaythamah recorded **with a** ***sahih*** **chain**
 that Ibn Jurayj said: **Whenever I say: “ ‘Aṭa said”, then I HEARD it
@@ -100,22 +88,14 @@ This basically rules out *tadlis* completely in the above *hadith* of
 ‘Abd al-Razzaq. As such, the objection of *tadlis* is baseless and
 erroneous. But, there is more! Al-Albani further submits:
 
-<blockquote dir="rtl">
-  <p>
-قد روى أبو بكر بن أبى خيثمة بسند صحيح عن ابن جريج قال: إذا قلت: قال
-عطاء فأنا سمعته منه , وإن لم أقل سمعت.
-  </p>
-</blockquote>
+> قد روى أبو بكر بن أبى خيثمة بسند صحيح عن ابن جريج قال: إذا قلت: قال
+> عطاء فأنا سمعته منه , وإن لم أقل سمعت.
 
-<blockquote dir="rtl">
-  <p>
-فهذا نص منه أن عدم تصريحه بالسماع من عطاء ليس معناه أنه قد دلسه عنه ,
-ولكن هل ذلك خاص بقوله " قال عطاء" أم لا فرق بينه وبين ما لو قال " عن
-عطاء " كما فى هذا الحديث وغيره؟ الذى يظهر لى الثانى , وعلى هذا فكل
-روايات ابن جريج عن عطاء محمولة على السماع إلا ما تبين تدليسه فيه ,
-والله أعلم.
-  </p>
-</blockquote>
+> فهذا نص منه أن عدم تصريحه بالسماع من عطاء ليس معناه أنه قد دلسه عنه ,
+> ولكن هل ذلك خاص بقوله " قال عطاء" أم لا فرق بينه وبين ما لو قال " عن
+> عطاء " كما فى هذا الحديث وغيره؟ الذى يظهر لى الثانى , وعلى هذا فكل
+> روايات ابن جريج عن عطاء محمولة على السماع إلا ما تبين تدليسه فيه ,
+> والله أعلم.
 
 Abu Bakr b. Abi Khaythamah has narrated with a *sahih* chain from Ibn
 Jurayj that he said: Whenever I say: “ ‘Ata said”, then I HEARD it from
@@ -177,13 +157,9 @@ viii. Ibn ‘Abbas was very explicit that it was ‘Umar who banned *mut’ah*
 
 ‘Abd al-Razzaq has another *hadith* which confirms the last point above:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير قال: سمعت جابر بن عبد
-الله يقول: استمتعنا أصحاب النبي صلى الله عليه وسلم، حتى نهي عمرو بن
-حريث
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير قال: سمعت جابر بن عبد
+> الله يقول: استمتعنا أصحاب النبي صلى الله عليه وسلم، حتى نهي عمرو بن
+> حريث
 
 ‘Abd al-Razzaq – Ibn Jurayj – Abu al-Zubayr – Jabir b. ‘Abd Allah:
 
@@ -192,12 +168,8 @@ viii. Ibn ‘Abbas was very explicit that it was ‘Umar who banned *mut’ah*
 
 The only new name here is Abu al-Zubayr. Al-Hafiẓ says about him:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن مسلم بن تدرس بفتح المثناة وسكون الدال المهملة وضم الراء الأسدي
-مولاهم أبو الزبير المكي صدوق إلا أنه يدلس
-  </p>
-</blockquote>
+> محمد بن مسلم بن تدرس بفتح المثناة وسكون الدال المهملة وضم الراء الأسدي
+> مولاهم أبو الزبير المكي صدوق إلا أنه يدلس
 
 Muhammad b. Muslim b. Tadrus al-Asadi, their freed slave, Abu al-Zubayr
 al-Makki: ***Saduq*** **(very truthful)**, except that he used to do
@@ -209,14 +181,10 @@ is *hasan*. The report is explicit that the Sahabah generally practised
 when ‘Amr b. Hurayth was prohibited from it. ‘Abd al-Razzaq has another
 *riwayah* which sheds more light:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير أنه سمع جابر بن عبد الله
-يقول: قدم عمرو بن حريث من الكوفة فاستمتع بمولاة، فأتي بها عمر وهي
-حبلى، فسألها، فقالت: استمتع بي عمرو بن حريث، فسأله، فأخبره بذلك أمرا
-ظاهرا، قال: فهلا غيرها؟ فذلك حين نهى عنها
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن جريج قال: أخبرني أبو الزبير أنه سمع جابر بن عبد الله
+> يقول: قدم عمرو بن حريث من الكوفة فاستمتع بمولاة، فأتي بها عمر وهي
+> حبلى، فسألها، فقالت: استمتع بي عمرو بن حريث، فسأله، فأخبره بذلك أمرا
+> ظاهرا، قال: فهلا غيرها؟ فذلك حين نهى عنها
 
 ‘Abd al-Razzaq – Ibn Jurayj – Abu al-Zubayr – Jabir b. ‘Abd Allah:
 
@@ -240,30 +208,18 @@ decree. The vast majority did; but, a few – along with their disciples -
 continued to uphold the Verse of *Mut’ah* and the *Sunnah*. Imam Ibn
 Hazm (d. 456 H) gives us some of their names:
 
-<blockquote dir="rtl">
-  <p>
-وقد ثبت على تحليلها بعد رسول الله صلى الله عليه وسلم جماعة من السلف،
-رضي الله عنهم، منهم من الصحابة، رضي الله عنهم، أسماء بنت أبي بكر
-الصديق، وجابر بن عبدالله، وابن مسعود، وابن عباس، ومعاوية بن أبي سفيان،
-وعمرو بن حريث، وأبو سعيد الخدري، وسلمة، ومعبد ابنا أمية بن خلف.
-  </p>
-</blockquote>
+> وقد ثبت على تحليلها بعد رسول الله صلى الله عليه وسلم جماعة من السلف،
+> رضي الله عنهم، منهم من الصحابة، رضي الله عنهم، أسماء بنت أبي بكر
+> الصديق، وجابر بن عبدالله، وابن مسعود، وابن عباس، ومعاوية بن أبي سفيان،
+> وعمرو بن حريث، وأبو سعيد الخدري، وسلمة، ومعبد ابنا أمية بن خلف.
 
-<blockquote dir="rtl">
-  <p>
-ورواه جابر بن عبدالله، عن جميع الصحابة مدة رسول الله صلى الله عليه
-وسلم ومدة أبي بكر وعمر إلى قرب آخر خلافة عمر. واختلف في إباحتها، عن
-ابن الزبير، وعن علي فيها توقف. وعن عمر بن الخطاب أنه إنما أنكرها إذا
-لم يشهد عليها عدلان فقط، وأباحها بشهادة عدليـن.
-  </p>
-</blockquote>
+> ورواه جابر بن عبدالله، عن جميع الصحابة مدة رسول الله صلى الله عليه
+> وسلم ومدة أبي بكر وعمر إلى قرب آخر خلافة عمر. واختلف في إباحتها، عن
+> ابن الزبير، وعن علي فيها توقف. وعن عمر بن الخطاب أنه إنما أنكرها إذا
+> لم يشهد عليها عدلان فقط، وأباحها بشهادة عدليـن.
 
-<blockquote dir="rtl">
-  <p>
-ومن التابعـين: طاووس، وعطاء، وسعيد بن جبير، وسائر فـقهاء مـكـة أعـزها
-الله.
-  </p>
-</blockquote>
+> ومن التابعـين: طاووس، وعطاء، وسعيد بن جبير، وسائر فـقهاء مـكـة أعـزها
+> الله.
 
 **A group of the** ***Salaf*****, may Allah be pleased with them, were
 FIRM in declaring it** ***halal*** **AFTER the Messenger of Allah**.
@@ -390,16 +346,12 @@ al-Razzaq about Sa’id b. Jubayr – one of the greatest Imams of the Ahl
 al-Sunnah throughout history. This is part of what al-Hafiẓ has
 documented about him:
 
-<blockquote dir="rtl">
-  <p>
-وقال يعقوب القمي عن جعفر بن أبي المغيرة :كان ابن عباس إذا أتاه أهل
-الكوفة يستفتونه يقول أليس فيكم ابن أم الدهماء يعني سعيد بن جبير وقال
-عمرو بن ميمون عن أبيه لقد مات سعيد بن جبير وما على ظهر الأرض أحد إلا
-وهو محتاج إلى علمه … وقال أبو قاسم الطبري هو ثقة إمام حجة على المسلمين
-قتل في شعبان سنة خمس وتسعين وهو ابن ٤٩ سنة … وكان سفيان يقدم سعيدا على
-إبراهيم في العلم وكان أعلم من مجاهد وطاووس
-  </p>
-</blockquote>
+> وقال يعقوب القمي عن جعفر بن أبي المغيرة :كان ابن عباس إذا أتاه أهل
+> الكوفة يستفتونه يقول أليس فيكم ابن أم الدهماء يعني سعيد بن جبير وقال
+> عمرو بن ميمون عن أبيه لقد مات سعيد بن جبير وما على ظهر الأرض أحد إلا
+> وهو محتاج إلى علمه … وقال أبو قاسم الطبري هو ثقة إمام حجة على المسلمين
+> قتل في شعبان سنة خمس وتسعين وهو ابن ٤٩ سنة … وكان سفيان يقدم سعيدا على
+> إبراهيم في العلم وكان أعلم من مجاهد وطاووس
 
 Ya’qub al-Qummi narrated that Ja’far b. Abi al-Mughirah said: “Whenever
 the people of Kufah came to Ibn ‘Abbas to seek his *fatwa*, he used to
@@ -415,15 +367,11 @@ Muslims**. He was murdered in Sha’ban 95 H while he was 49 years old”
 This same Ibn Jubayr examined the Sunni arguments and “proofs” against
 *mut’ah*. Then, he drew his conclusion about it. ‘Abd al-Razzaq records:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن جريج قال: أخبرني عبد الله بن عثمان بن خثيم قال: كانت
-بمكة امرأة عراقية تنسك جميلة، لها ابن يقال له أبو أمية، وكان سعد بن
-جبير يكثر الدخول عليها، قلت: يا أبا عبد الله ما أكثر ما تدخل على هذه
-المرأة، قال: إنا قد نكحناها ذلك النكاح - للمتعة - قال: وأخبرني أن سعيد
-قال له: هي أحل من شرب الماء - للمتعة.
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن جريج قال: أخبرني عبد الله بن عثمان بن خثيم قال: كانت
+> بمكة امرأة عراقية تنسك جميلة، لها ابن يقال له أبو أمية، وكان سعد بن
+> جبير يكثر الدخول عليها، قلت: يا أبا عبد الله ما أكثر ما تدخل على هذه
+> المرأة، قال: إنا قد نكحناها ذلك النكاح - للمتعة - قال: وأخبرني أن سعيد
+> قال له: هي أحل من شرب الماء - للمتعة.
 
 ‘Abd al-Razzaq – Ibn Jurayj – ‘Abd Allah b. ‘Uthman b. Khaytham:
 
@@ -438,12 +386,8 @@ referring to** ***mut’ah***.[^11]
 
 Only ‘Abd Allah needs an introduction here. Al-Hafiẓ says about him:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن عثمان بن خثيم بالمعجمة والمثلثة مصغرا القاري المكي أبو
-عثمان صدوق
-  </p>
-</blockquote>
+> عبد الله بن عثمان بن خثيم بالمعجمة والمثلثة مصغرا القاري المكي أبو
+> عثمان صدوق
 
 ‘Abd Allah b. ‘Uthman b. Khaytham al-Qari al-Makki, Abu ‘Uthman:
 ***Saduq*** **(very truthful)**.[^12]
@@ -494,5 +438,4 @@ later in the same athar, the name has been spelt correctly.
 [^12]: Ahmad b. ‘Ali b. Hajar al-‘Asqalani, Taqrib al-Tahdhib (Beirut:
 Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Muṣtafa
 ‘Abd al-Qadir ‘Aṭa], vol. 1, p. 513, \# 3477
-
 

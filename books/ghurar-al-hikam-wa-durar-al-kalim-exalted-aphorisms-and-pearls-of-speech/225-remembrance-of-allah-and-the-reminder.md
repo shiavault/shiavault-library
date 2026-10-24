@@ -11,11 +11,7 @@ Remembrance [Of Allah] And The Reminder
 brings down the mercy [of Allah].
 
 > 2ـ اَلذِّكْرُ يُؤْنِسُ اللُبَّ، ويُنيرُ القَلْبَ، ويَسْتَنْزِلُ
-<blockquote dir="rtl">
-  <p>
-الرَّحمَةَ.
-  </p>
-</blockquote>
+> الرَّحمَةَ.
 
 3. Remembering [Allah] is the light of intellect, the life of the souls
 and the polishing of the hearts.
@@ -28,12 +24,8 @@ sustenance [more easily] obtainable than travelling to different parts
 of the land [in order to earn one’s livelihood].
 
 > 4ـ اَلجُلوُسُ فِي المَسْجِدِ مِنْ بَعْدِ طُلُوعِ الفَجْرِ إلى حينِ
-<blockquote dir="rtl">
-  <p>
-طُلُوعِ الشَّمْسِ لِلاِشتِغالِ بِذِكْرِ اللّهِ سُبْحانَهُ أسْرَعُ في
-تَيْسيرِ الرِّزقِ مِنَ الضَّرْبِ في أقْطارِ الأرْضِ.
-  </p>
-</blockquote>
+> طُلُوعِ الشَّمْسِ لِلاِشتِغالِ بِذِكْرِ اللّهِ سُبْحانَهُ أسْرَعُ في
+> تَيْسيرِ الرِّزقِ مِنَ الضَّرْبِ في أقْطارِ الأرْضِ.
 
 5. A beautiful remembrance is one of the two lives.[^1]
 
@@ -48,11 +40,7 @@ the passing of thoughts rather it is first from the remembered and then
 from the rememberer.
 
 > 7ـ اَلذِّكرُ لَيْسَ مِنْ مَراسِمِ اللِّسانِ، ولا مِنْ مَناسِمِ
-<blockquote dir="rtl">
-  <p>
-الفِكْرِ، ولكِنَّهُ أوَّلٌ مِنَ المَذكُورِ، وَثان مِنَ الذّاكِرِ.
-  </p>
-</blockquote>
+> الفِكْرِ، ولكِنَّهُ أوَّلٌ مِنَ المَذكُورِ، وَثان مِنَ الذّاكِرِ.
 
 8. Fill your solitude with the remembrance [of Allah] and accompany
 blessings with gratitude.
@@ -68,11 +56,7 @@ remembrance.
 heart and is surely the best [form of] worship.
 
 > 10ـ اِسْتَديمُوا الذِّكْرَ، فَإنَّهُ يُنيرُ القَلْبَ، وهُوَ أفْضَلُ
-<blockquote dir="rtl">
-  <p>
-العِبادَةِ.
-  </p>
-</blockquote>
+> العِبادَةِ.
 
 11. The most deserving to be remembered by you is the one who does not
 forget you.
@@ -83,11 +67,7 @@ forget you.
 bringer of death[s] and the announcer of disunion and separation.
 
 > 12ـ أُذْكُرُوا مُفَرِّقَ الجَماعاتِ، ومُباعِدَ الأُمْنِيَّاتِ،
-<blockquote dir="rtl">
-  <p>
-ومُدنِيَ المَنِيَّاتِ، والمُؤْذِنَ بِالبَيْنِ والشَّتاتِ.
-  </p>
-</blockquote>
+> ومُدنِيَ المَنِيَّاتِ، والمُؤْذِنَ بِالبَيْنِ والشَّتاتِ.
 
 13. The basis of reformation of the heart is occupying it with the
 remembrance of Allah.
@@ -99,12 +79,8 @@ for the hearts, to see with after blindness and listen with after
 deafness and to become submissive with it after obduracy.
 
 > 14ـ إنَّ اللّهَ سُبْحانَهُ جَعَلَ الذِّكْرَ جَلاءَ القُلُوبِ، تَبْصُرُ
-<blockquote dir="rtl">
-  <p>
-بِِهِ بَعْدَ العِشْوَةِ، وتَسْمَعُ بِهِ بَعْدَ الوَقْرَةِ، وتَنْقادُ
-بِهِ بَعْدَ المُعانَدَةِ.
-  </p>
-</blockquote>
+> بِِهِ بَعْدَ العِشْوَةِ، وتَسْمَعُ بِهِ بَعْدَ الوَقْرَةِ، وتَنْقادُ
+> بِهِ بَعْدَ المُعانَدَةِ.
 
 15. Verily there are those who hold on to the remembrance of Allah and
 have taken it in lieu of this world and thus neither trade nor business
@@ -113,12 +89,8 @@ their lives with it and shout it in the ears of the negligent [in order
 to remind them].
 
 > 15ـ إنَّ لِلذِّكْرِ أهْلاً أخَذُوهُ مِنَ الدُّنيا بَدَلاً، فَلَمْ
-<blockquote dir="rtl">
-  <p>
-تَشْغَلْهُمْ تِجارَةٌ ولا بَيْعٌ عَنْ ذِكْر، يَقْطَعُونَ بِهِ أيّامَ
-الحَياةِ،وَ يَهْتِفُونَ بِهِ في آذانِ الغافِلينَ.
-  </p>
-</blockquote>
+> تَشْغَلْهُمْ تِجارَةٌ ولا بَيْعٌ عَنْ ذِكْر، يَقْطَعُونَ بِهِ أيّامَ
+> الحَياةِ،وَ يَهْتِفُونَ بِهِ في آذانِ الغافِلينَ.
 
 16. Remembrance is being in the company of the beloved.
 
@@ -160,11 +132,7 @@ and isolating you from His remembrance, then (know that) He dislikes
 you.
 
 > 24ـ إذا رَأيْتَ اللّهَ يُؤْنِسُكَ بِخَلْقِهِ، ويُوحِشُكَ مِنْ ذِكْرِهِ
-<blockquote dir="rtl">
-  <p>
-فَقَدْ أبْغَضَكَ.
-  </p>
-</blockquote>
+> فَقَدْ أبْغَضَكَ.
 
 25. It is through the remembrance of Allah that mercy descends.
 
@@ -219,11 +187,7 @@ consciences.
 selves illuminated.
 
 > 36ـ ذِكْرُ اللّهِ تُسْتَنْجَحُ بِهِ الأُمُورُ وتَسْتَنْيرُ بِهِ
-<blockquote dir="rtl">
-  <p>
-السَّرائِرُ.
-  </p>
-</blockquote>
+> السَّرائِرُ.
 
 37. Remembrance of Allah is the cure for the maladies of the souls.
 
@@ -238,11 +202,7 @@ and misery.
 its profit is safety against Satan.
 
 > 39ـ ذِكْرُ اللّهِ رَأسُ مالِ كُلِّ مُؤْمِن، ورِبْحُهُ السَّلامَةُ مِنَ
-<blockquote dir="rtl">
-  <p>
-الشَّيطانِ.
-  </p>
-</blockquote>
+> الشَّيطانِ.
 
 40. The remembrance of Allah is the pillar of faith and a protection
 against Satan.
@@ -285,11 +245,7 @@ of the heart.
 Glorified, cuts him off from His remembrance.
 
 > 48ـ مَنِ اشتَغَلَ بِذِكْرِ النّاسِ قَطَعَهُ اللّهُ سُبْحانَهُ عَنْ
-<blockquote dir="rtl">
-  <p>
-ذِكْرِهِ.
-  </p>
-</blockquote>
+> ذِكْرِهِ.
 
 49. Whoever is preoccupied in the remembrance of Allah, Allah makes his
 remembrance good.
@@ -300,21 +256,13 @@ remembrance good.
 actions become good [both] in secret and in the open.
 
 > 50ـ مَنْ َعَمَرَ قَلْبَهُ بِدَوامِ الذِّكْرِ حَسُنَتْ أفْعالُهُ فِي
-<blockquote dir="rtl">
-  <p>
-السِّـرِّ وَالجَهْرِ.
-  </p>
-</blockquote>
+> السِّـرِّ وَالجَهْرِ.
 
 51. Whoever remembers Allah, the Glorified, Allah enlivens his heart and
 illuminates his intellect and his mind.
 
 > 51ـ مَنْ ذَكَرَاللّهَ سُبْحانَهُ أحْييَ اللّهُ قَلْبَهُ وَنَوَّرَ
-<blockquote dir="rtl">
-  <p>
-عَقْلَهُ ولُبَّهُ.
-  </p>
-</blockquote>
+> عَقْلَهُ ولُبَّهُ.
 
 52. One whose remembrance [of Allah] increases, his mind becomes
 illuminated.
@@ -340,13 +288,9 @@ forget your ego in your remembrance and lose it in your affair [because
 all your attention is towards Allah].
 
 > 55ـ لاتَذْكُرِ اللّهَ سُبْحانَهُ ساهِياً، وَلا تَنْسَهُ لاهِياً،وَ
-<blockquote dir="rtl">
-  <p>
-اذْكُرْهُ كامِلاً، يُوافِقْ فيهِ قَلْبُكَ لِسانَكَ، ويُطابِقْ إضمارُكَ
-إعلانَكَ، ولَنْ تَذْكُرَهُ حَقيقَةَ الذِّكْرِ حَتّى تَنْسى نَفْسَكَ في
-ذِكْرِكَ، وَتَفْقِدَها في أمْرِكَ.
-  </p>
-</blockquote>
+> اذْكُرْهُ كامِلاً، يُوافِقْ فيهِ قَلْبُكَ لِسانَكَ، ويُطابِقْ إضمارُكَ
+> إعلانَكَ، ولَنْ تَذْكُرَهُ حَقيقَةَ الذِّكْرِ حَتّى تَنْسى نَفْسَكَ في
+> ذِكْرِكَ، وَتَفْقِدَها في أمْرِكَ.
 
 56. There is no guidance like remembrance [and glorification of Allah].
 
@@ -371,5 +315,4 @@ warned you [against evil].
 
 [^1]: Meaning one who is fondly remembered after his death is like one
 who is still alive.
-
 

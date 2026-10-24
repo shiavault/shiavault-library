@@ -28,12 +28,8 @@ Quoting an incident Imam Husain (a.s.) narrates that one day a group of
 Jews came to the Holy Prophet (S) with a few questions, when the
 question of intercession arose the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-وَ اَمَّا شَفَاعَتِيْ فَفِيْ اَهْلِ الْكَبَائِرِ مَا خَلاَ اَهْلُ
-الشِّرْكِ وَ الظُّلْمِ.
-  </p>
-</blockquote>
+> وَ اَمَّا شَفَاعَتِيْ فَفِيْ اَهْلِ الْكَبَائِرِ مَا خَلاَ اَهْلُ
+> الشِّرْكِ وَ الظُّلْمِ.
 
 *“As far as the question of my intercession is there my intercession
 will also be there for the great sinners, but not for polytheist and the
@@ -44,11 +40,7 @@ No Intercession For Tyrants And Oppressor
 
 In ***Surah Aaraaf : verse 18*** the Holy Qur’an says :
 
-<blockquote dir="rtl">
-  <p>
-مَا لِلظَّاْلِمِيْنَ مِنْ حَمِيْمٍ وَلاَ شَفِيْعٍ يُطَاْعُ.
-  </p>
-</blockquote>
+> مَا لِلظَّاْلِمِيْنَ مِنْ حَمِيْمٍ وَلاَ شَفِيْعٍ يُطَاْعُ.
 
 ***“The unjust shall not have any compassionate friend nor any
 intercessor who should be obeyed.”***
@@ -66,12 +58,8 @@ one tradition.
 
 Imam Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ اَنَّ الْمَلَآئِكَةَ الْمُقَرِّبِيْنَ وَالْاَنْبِيَاءَ
-الْمُرْسَلِيْنَ شَفَعُوْا فِيْ نَاصِبٍ مَّا شَفَعُوْا.
-  </p>
-</blockquote>
+> لَوْ اَنَّ الْمَلَآئِكَةَ الْمُقَرِّبِيْنَ وَالْاَنْبِيَاءَ
+> الْمُرْسَلِيْنَ شَفَعُوْا فِيْ نَاصِبٍ مَّا شَفَعُوْا.
 
 *“If (it is just an imagination) even sacred angels and prophets
 intercede for the enemies of the progeny of Holy Prophet (S) Allah
@@ -82,13 +70,9 @@ No Intercession For Those Who Harass The Progeny Of Holy Prophet (S)
 
 Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-اِذَا قُمْتُ الْمَقَامَ الْمَحْمُوْدَ تَشَفَّعْتُ فِيْ اَصْحَابِ
-الْكَبَائِرِ مِنْ اُمَّتِيْ فَيَشْفَعْنِيْ اللهُ فِيْهِمْ وَاللهِ لاَ
-تَشَفَّعْتُ فِيْمَنْ آذيٰ ذُرِّيَّتِي.
-  </p>
-</blockquote>
+> اِذَا قُمْتُ الْمَقَامَ الْمَحْمُوْدَ تَشَفَّعْتُ فِيْ اَصْحَابِ
+> الْكَبَائِرِ مِنْ اُمَّتِيْ فَيَشْفَعْنِيْ اللهُ فِيْهِمْ وَاللهِ لاَ
+> تَشَفَّعْتُ فِيْمَنْ آذيٰ ذُرِّيَّتِي.
 
 *“When I will be placed on a lofty status of intercession then I will
 intercede for the greater sinners of my nation and Lord will even accept
@@ -108,22 +92,14 @@ No Intercession For Those Who Do Not Believe In Intercession
 
 Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يُؤْمِنْ بِشَفَاعَتِيْ فَلَاْيَنَا لُه شَفَاعَتِيْ.
-  </p>
-</blockquote>
+> مَنْ لَمْ يُؤْمِنْ بِشَفَاعَتِيْ فَلَاْيَنَا لُه شَفَاعَتِيْ.
 
 *“Those who do not have faith in my intercession will be deprived from
 it.”*[^4]
 
 Imam ‘Ali Reza (a.s.) has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَذِبَ بِشَفَاعَةِ رَسُوْلِ اللهِ لَمْ يَنِلْهُ.
-  </p>
-</blockquote>
+> مَنْ كَذِبَ بِشَفَاعَةِ رَسُوْلِ اللهِ لَمْ يَنِلْهُ.
 
 *“Those who do not believe in the intercession of Holy Prophet (S) they
 will not be interceded.”*[^5]
@@ -133,11 +109,7 @@ No Intercession For People Who Usurp The Trusts
 
 Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ غَشَّ الْعَرَبَ لَمْ يَدْخُلْ فِيْ شَفَاعَتِيْ.
-  </p>
-</blockquote>
+> مَنْ غَشَّ الْعَرَبَ لَمْ يَدْخُلْ فِيْ شَفَاعَتِيْ.
 
 *“Those who cheat the Arab they will not receive my intercession.”*[^6]
 
@@ -151,11 +123,7 @@ No Intercession For Those Who Take Salat (Prayer) Lightly
 We only quote here one out of many traditions on this topic. Imam Sadiq
 (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَنَالُ شَفَاعَتُنَا مَنِ اسْتَخَفَّ بِالصَّلٰوةِ.
-  </p>
-</blockquote>
+> لاَ يَنَالُ شَفَاعَتُنَا مَنِ اسْتَخَفَّ بِالصَّلٰوةِ.
 
 “Those who consider Salat (Prayer) as a trifle affair will not receive
 our intercession.”[^7]
@@ -169,13 +137,9 @@ the punishment for longer time and then only they will be interceded for
 e.g. Fornication, the intercession will be delayed for the believer.
 Imam Sadeq (a.s.) said thus:
 
-<blockquote dir="rtl">
-  <p>
-فَوَ اللهِ لاَ تَنَالُ شَفَاعَتُنَا اِذَا رَكَبَ هٰذَا (يَعْنِي
-اَلزِّنَا) حَتَّي يُصِيْبَه اَلَمِ الْعَذَابِ وَ يَرَيٰ هَوْلَ
-جَهَنَّمٍ.
-  </p>
-</blockquote>
+> فَوَ اللهِ لاَ تَنَالُ شَفَاعَتُنَا اِذَا رَكَبَ هٰذَا (يَعْنِي
+> اَلزِّنَا) حَتَّي يُصِيْبَه اَلَمِ الْعَذَابِ وَ يَرَيٰ هَوْلَ
+> جَهَنَّمٍ.
 
 *“By Allah (s.w.t.) our intercession for a fornicator will not be up to
 that time till he has not tasted grievous punishment. Beside this other
@@ -197,12 +161,8 @@ It goes without saying that the soul of good action is a pure heart, one
 who has it his small action will be sufficient for his salvation,
 therefore Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَحِقُّ النَّاسُ بِشَفَاعَتِيْ يَوْمَ الْقِيَامَةِ مَنْ قَالَ لاَ
-اِلٰه اِلاَّ اللهُ خَالِصًا مِنْ قَلْبِه.
-  </p>
-</blockquote>
+> يَسْتَحِقُّ النَّاسُ بِشَفَاعَتِيْ يَوْمَ الْقِيَامَةِ مَنْ قَالَ لاَ
+> اِلٰه اِلاَّ اللهُ خَالِصًا مِنْ قَلْبِه.
 
 *“Those person who utter* ***لا اله الا الله*** *from the bottom of the
 heart they will be the first to receive my intercession on the day of
@@ -214,11 +174,7 @@ By this, believers will be eligible for a quick intercession by the Holy
 Prophet (S). A person asked the Holy Prophet (S) for a promise to
 intercede to which Holy Prophet (S) replied that
 
-<blockquote dir="rtl">
-  <p>
-فَاَعِنِّي بِكَثْرَةِ الْسُّجُوْدِ.
-  </p>
-</blockquote>
+> فَاَعِنِّي بِكَثْرَةِ الْسُّجُوْدِ.
 
 *“If you want my quick intercession then help me with your long
 prostration.”*[^10]
@@ -228,12 +184,8 @@ prostration.”*[^10]
 We quote here one out of many traditions from Musnud Ibn Ahmed, vol. 4,
 p. 108, Holy Prophet (S) said that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلَّي عَلٰي مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ وَ جَبَتْ لَه
-شَفَاعَتِيْ.
-  </p>
-</blockquote>
+> مَنْ صَلَّي عَلٰي مُحَمَّدٍ وَّ آلِ مُحَمَّدٍ وَ جَبَتْ لَه
+> شَفَاعَتِيْ.
 
 *“Those who send blessings on me and my progeny (a.s.) it will be
 incumbent on me to intercede for him.”*
@@ -262,11 +214,7 @@ World is aware of the saying, “you will reap as you sow”. So, be prompt
 in forgiveness if you want a prompt intercession. Hazrat ‘Ali (a.s.)
 advised his son Mohammad bin Hanafia,
 
-<blockquote dir="rtl">
-  <p>
-اِقْبَلْ مِنْ مُتَنَصِّلٍ عُذْرَه فَتَنَالُكَ الشَّفَاعَةُ.
-  </p>
-</blockquote>
+> اِقْبَلْ مِنْ مُتَنَصِّلٍ عُذْرَه فَتَنَالُكَ الشَّفَاعَةُ.
 
 *“Forgive promptly the one who asks forgiveness from you so that Lord
 may accept your intercession immediately.”*[^11]
@@ -318,5 +266,4 @@ enters heaven - our last abode.
 [^10]: Behaarul Anwaar, vol. 22, pg. 87, Tr. No. 39.
 
 [^11]: Manla Yazharal Faqih, vol. 4, p. 279.
-
 

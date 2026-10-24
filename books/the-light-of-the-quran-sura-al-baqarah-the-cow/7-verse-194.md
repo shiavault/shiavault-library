@@ -36,7 +36,6 @@ The sacred month for the sacred month, ..."
 Then, whosoever did not regard with reverences should be treated under
 the law of retaliation.
 
-
 "and all sacred things are (under the law of) retaliation."
 
 Hence, as a general rule, it says:
@@ -109,7 +108,6 @@ required means could not be supplied. The statement of the Qur'an in
 Sura At-Taubah, No. 9, verse 92 is thus; "...they went back while their
 eyes overflowed with tears on account of grief for not finding that
 which they should spend."
-
 
 **Spending, a Prevention of Destruction**
 
@@ -323,5 +321,4 @@ unto others if they do not catch its meaning!
 (1) Nahjul-Balaqah, Letter No. 4
 
 132
-
 

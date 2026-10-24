@@ -158,4 +158,3 @@ Allah says:
 ***Whoever desires to meet his Lord should strive to do good deeds.
 (Surah al-Kahf, 18:110).***
 
-

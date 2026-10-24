@@ -130,7 +130,6 @@ the question, even if there is a little evidence to indicate that he
 could read at this time. Rather, the greater portion of the available
 evidence testifies to his having not read, even in this period.
 
-
 [^1]: Al-Ya'qubi, Tarikh al-Ya'qubi vol 2, p 69.
 
 [^2]: In the book: Jami' al-Tirmidhi Al-Tirmidhi narrates from Zayd ibn
@@ -153,5 +152,4 @@ Prophet (SA) of Islam) the letters the Jews wrote to him."
 [^3]: Al-Mas'udi, Al-Tanbih wal-Ishraf, p 245-246.
 
 [^4]: Ibn al-Nadim, Al-Fihrist, Al-'Istiqamah Press, Cairo, p 67.
-
 

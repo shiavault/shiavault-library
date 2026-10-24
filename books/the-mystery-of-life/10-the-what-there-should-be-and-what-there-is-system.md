@@ -166,9 +166,7 @@ moral and religious instructions, but none have been proven by the
 harmony of the universe. What we mean here is that the amazing order and
 harmony in the universe proves is:
 
-<p dir="rtl">
 قطره ای کز جويباری میرود از پـی انجــام کــاری میرود
-</p>
 
 *(Every drop of water passing by in a stream has an aim.)*
 
@@ -354,5 +352,4 @@ knowledge I gain and the potentials and talents that flourish in me, I
 see a nihilistic world and life as equal to my own oblivion,” he will
 definitely come to the conclusion that he must submit to certain
 actions, and cannot act according to his wishes and desires any longer.
-
 

@@ -464,7 +464,6 @@ fights you and peace to whoever makes peace with
 
 [^1] Al-Imama wes-Siyasa by ibn Qutayba and other books of history.
 
-
 (145)
 
 you”.[^1]
@@ -682,7 +681,6 @@ al-Mustadrakat ala al-Wassa’il.
 [^2] Later on, during the rule of Imam Ali (s), they seceded from Imam
 Ali (s) and were called the Kharijites.
 
-
 (150)
 
 apostate man before. The Prophet’s companions mentioned and described
@@ -701,7 +699,6 @@ ordered before to kill that man so the traditions talked about two
 events with a period of time between them. Here the clear orders of the
 Prophet (s) were opposed by Abu Bakr and Umar due to their own
 ijtihad.
-
 
 **The Kharijites**
 
@@ -870,5 +867,4 @@ nature. They are the worst of people and the worst in nature.”[^2]
 If they were the worst of people and the worst in nature, then the
 idolaters and the unbelievers would not be worse than them and this
 would be a clear evidence showing their unbelief.
-
 

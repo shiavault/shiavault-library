@@ -555,4 +555,3 @@ p. 54
 [^22]: Bihar al-anwar, Vol. 51, p. 224. Additionally, there are some 46
 other traditions in this section on the same theme
 
-

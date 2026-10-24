@@ -167,4 +167,3 @@ Madinah.[^6]
 
 [^6]: Sirah ibn Hisham, vol. 1, p. 337.
 
-

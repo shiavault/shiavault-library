@@ -43,7 +43,7 @@ of  
 
 **[1]** [Umar]  
  **[2]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg.
+Ali from the Sunni point of view), [1st Edition 1380], Pg.
 95  
  **[3]** Ali Muhammad Meer Jalili: *Imam Ali (a.s.) wa Zamaamdaaraan*
 (Imam Ali and the Rulers), Pgs. 175
@@ -171,7 +171,7 @@ mode of consultation.
 
 **[1]** Abdul Kareem Bi-Aazaar Shirazi: *Mashal-e-Ittehaad* (Torch of
 Unity), Pg. 30  
- **[2]** Dar az-Zahra, Beirut, 1<sup>st</sup> Edition, 1414
+ **[2]** Dar az-Zahra, Beirut, 1st Edition, 1414
 
 Mode of Referral
 

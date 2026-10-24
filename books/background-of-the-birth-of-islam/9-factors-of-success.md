@@ -371,4 +371,3 @@ repeatedly in various verses that there is victory sent by God, but one
 should also make an endeavour,[^76] they made the endeavour and victory
 was theirs, as promised.
 
-

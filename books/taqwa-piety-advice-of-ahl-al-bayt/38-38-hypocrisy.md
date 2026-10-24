@@ -135,4 +135,3 @@ had been affected by hypocrisy.
 
 [^8]: Anwar al-Nomaniah, p. 251.
 
-

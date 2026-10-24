@@ -37,7 +37,6 @@ al-Mu'minin (a.s.) used to say, "None of the signs of Allah, the Most
 Holy, the Most High, is bigger than I and none of the news of Allah is
 greater than I."
 
-
 **Chapter 19 : The matters that Allah, the Most Holy, the Most High,
 and His Messenger (s.a.) have sanctioned as obligatory of the beings
 with the Imams (a.s.) H 539, Ch. 19, h 1**
@@ -178,5 +177,4 @@ who would follow me they will be of me."
 1. In M\`r'atu 'I- ' uqul (vol. 2, p.425) al- Aliamah al-Majlisi has
 pointed out that this phrase has been omitted, and that the reason for
 this becomes evident at the end of the hadith.
-
 

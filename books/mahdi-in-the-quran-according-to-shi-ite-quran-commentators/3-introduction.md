@@ -92,4 +92,3 @@ will be studied as classical reference.
 
 [^1]: Seyyed Hashem Bahrani : Sima-ye Hazrat-e Mahdi dar Qur’an, p.23
 
-

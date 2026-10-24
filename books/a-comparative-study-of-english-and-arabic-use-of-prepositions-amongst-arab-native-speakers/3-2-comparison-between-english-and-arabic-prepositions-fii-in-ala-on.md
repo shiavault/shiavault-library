@@ -97,7 +97,6 @@ sense in English. But the literal translations of these sentences don’t
 need such prepositions because the relationship exists in Arabic without
 them as shown in flowchart (1).
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -109,15 +108,11 @@ them as shown in flowchart (1).
 </tbody>
 </table>
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image001.gif)
-
 
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image002.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image003.gif)
-
 
 <table>
 <colgroup>
@@ -130,7 +125,6 @@ them as shown in flowchart (1).
 </tbody>
 </table>
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -142,7 +136,6 @@ them as shown in flowchart (1).
 </tbody>
 </table>
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -153,7 +146,6 @@ them as shown in flowchart (1).
 </tr>
 </tbody>
 </table>
-
 
 Flowchart (1) Arabic preposition**“Fii”** comparison with English
 preposition**“In”**
@@ -191,7 +183,6 @@ when they speak or translate into English once.  Also the differences
 between English and Arabic patterns make it difficult to choose the
 correct preposition, as shown in flowchart (2).
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -203,24 +194,17 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image004.gif)
-
 
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image005.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image006.gif)
-
 
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image007.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image004.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image008.gif)
-
 
 <table>
 <colgroup>
@@ -233,15 +217,11 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image009.gif)
-
 
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image010.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image011.gif)
-
 
 <table>
 <colgroup>
@@ -254,7 +234,6 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -265,7 +244,6 @@ correct preposition, as shown in flowchart (2).
 </tr>
 </tbody>
 </table>
-
 
 <table>
 <colgroup>
@@ -278,7 +256,6 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -290,18 +267,13 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
+![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image010.gif)
 
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image010.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image010.gif)
 
-
 ![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image010.gif)
-
-
-![](http://alhassanain.org/english/books/0818-comparative_study_of_english_and_arabic/images/image010.gif)
-
 
 <table>
 <colgroup>
@@ -313,7 +285,6 @@ correct preposition, as shown in flowchart (2).
 </tr>
 </tbody>
 </table>
-
 
 <table>
 <colgroup>
@@ -327,7 +298,6 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
-
 <table>
 <colgroup>
 <col width="100%" />
@@ -338,7 +308,6 @@ correct preposition, as shown in flowchart (2).
 </tr>
 </tbody>
 </table>
-
 
 <table>
 <colgroup>
@@ -351,8 +320,6 @@ correct preposition, as shown in flowchart (2).
 </tbody>
 </table>
 
-
 Flowchart (2) Arabic prepositions**“Ala”** comparison with English
 Preposition**“on”**
-
 

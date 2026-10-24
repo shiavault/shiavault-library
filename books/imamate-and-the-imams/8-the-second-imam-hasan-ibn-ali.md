@@ -275,4 +275,3 @@ p. 33; Kashful Ghumma, Vol 2, pp. 140-144.
 
 [^24]: Biharul Anwar, Vol 43, p. 344.
 
-

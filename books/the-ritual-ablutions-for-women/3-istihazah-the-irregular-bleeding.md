@@ -238,4 +238,3 @@ medium and profuse bleeding are concerned, sexual intercourse is lawful
 only if they have performed the ghusl or ghusls which are required of
 them. (This rule is based on precautionarily recommendation.)
 
-

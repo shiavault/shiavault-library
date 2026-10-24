@@ -5,11 +5,7 @@ While discussing this question, it is assumed that intercession
 {*shafa‘ah*} exclusively rests with God as it is stated in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-"قل لله الشفعة جميعاً."
-  </p>
-</blockquote>
+> "قل لله الشفعة جميعاً."
 
 ***“Say, ‘All intercession rests with Allah’.”***[^1]
 
@@ -30,12 +26,8 @@ God).
  According to the Glorious Qur’an, the angels prostrated to Adam (Adam)
 (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ
-سَاجِدِينَ ٭ فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ
+> سَاجِدِينَ ٭ فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ ﴾
 
 ***“‘So when I have proportioned him and breathed into him of My spirit,
 then fall down in prostration before him.’ Thereat the angels prostrated
@@ -47,11 +39,7 @@ Adam (*‘a*), otherwise God would not have ordered it.
 Similarly, the sons of Ya‘qub (Jacob) (*‘a*) as well as Ya‘qub himself
 prostrated before Yusuf (Joseph) (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-ورفع أبويه على العرش وخرُّوا له سجداً.
-  </p>
-</blockquote>
+> ورفع أبويه على العرش وخرُّوا له سجداً.
 
 ***“And he seated his parents high upon the throne, and they fell down
 prostrate before him.”***[^3]
@@ -95,19 +83,11 @@ for forgiveness (of the sins) and he would not accuse them of
 polytheism. In the *Sunan* of Ibn Majah, the Prophet (S) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-"أتدرون ما خيّرني ربي الليلة؟ قلنا: الله ورسوله أعلم. قال: فإنه خيّرني
-بين أن يدخل نصف امتي والجنة
-  </p>
-</blockquote>
+> "أتدرون ما خيّرني ربي الليلة؟ قلنا: الله ورسوله أعلم. قال: فإنه خيّرني
+> بين أن يدخل نصف امتي والجنة
 
-<blockquote dir="rtl">
-  <p>
-وبين الشفاعة فاخترت الشفاعة قلنا يا رسول الله أدعُ الله أن يجعلنا من
-أهلها قال هى لكل مسلم."
-  </p>
-</blockquote>
+> وبين الشفاعة فاخترت الشفاعة قلنا يا رسول الله أدعُ الله أن يجعلنا من
+> أهلها قال هى لكل مسلم."
 
 Do you know what God has granted me this night?” We said: “God and His
 Prophet know better.” He added: “He has granted me the favor of choosing
@@ -120,13 +100,9 @@ In this *hadith*, it is clearly shown that the Companions of the Prophet
 (S) are asking him for intercession, saying, “Ask God that…”  
  The Holy Qur’an also states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَآؤُوكَ
-فَاسْتَغْفَرُواْ اللّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ
-اللّهَ تَوَّابًا رَّحِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَآؤُوكَ
+> فَاسْتَغْفَرُواْ اللّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ
+> اللّهَ تَوَّابًا رَّحِيمًا ﴾
 
 ***“Had they, when they wronged themselves, come to you and pleaded
 Allah for forgiveness, and the Apostle had pleaded for forgiveness for
@@ -135,11 +111,7 @@ all-merciful.”***[^5]
 
 Elsewhere, the Qur’an quotes the sons of Ya‘qub (*‘a*) as saying:
 
-<blockquote dir="rtl">
-  <p>
-"قالوا يأبانا استغفر لنا ذنوبنا إنا كُنا خطئين."
-  </p>
-</blockquote>
+> "قالوا يأبانا استغفر لنا ذنوبنا إنا كُنا خطئين."
 
 ***“They said, ‘Father! Plead {with Allah} for forgiveness of our sins!
 We have indeed been erring’.”***[^6]
@@ -148,11 +120,7 @@ So, Hadrat Ya‘qub (*‘a*) promised them to plead with Allah to forgive
 them without accusing them of polytheism (for asking him to plead for
 forgiveness):
 
-<blockquote dir="rtl">
-  <p>
-قال سوف أستغفر لكم ربي إنه هو الغفور الرحيم.
-  </p>
-</blockquote>
+> قال سوف أستغفر لكم ربي إنه هو الغفور الرحيم.
 
 ***“He said, ‘I shall plead with my Lord to forgive you; indeed He is
 the All-forgiving, the All-merciful’.”***[^7]
@@ -170,5 +138,4 @@ the All-forgiving, the All-merciful’.”***[^7]
 [^6]: Surah Yusuf 12:97.
 
 [^7]: Surah Yusuf 12:98.
-
 

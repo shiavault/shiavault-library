@@ -65,4 +65,3 @@ reading of Hadad. (ed.)
 added from the quotation of al-\`Ayyâshî, given in Bîharu '1-anwâr, vol.
 15, p.226. (m)
 
-

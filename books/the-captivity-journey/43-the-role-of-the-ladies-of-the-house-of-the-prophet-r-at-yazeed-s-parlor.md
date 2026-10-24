@@ -29,4 +29,3 @@ started to weep and cry, then Fatima Bint Al-Hussain (Q) said: "Is it
 possible for the daughters of the Messenger of Allah to become captives,
 O Yazeed?"
 
-

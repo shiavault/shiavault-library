@@ -370,4 +370,3 @@ Scientific Study of Religion* , 37, 161–180.
 emerging meanings of religiousness and spirituality: Problems and
 prospects.*Journal of Personality* , 67 (6).
 
-

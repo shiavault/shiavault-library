@@ -238,4 +238,3 @@ mercifuls."
 
 And may Allah bless our master Muhammad and his progeny.
 
-

@@ -11,4 +11,3 @@ The Khalifa angrily said, “You ridicule me!”
 
 Bahlool replied, “I praised the deer that it was well-saved.”
 
-

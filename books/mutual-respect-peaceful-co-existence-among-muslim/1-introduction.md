@@ -1,17 +1,9 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد و آل محمد
-  </p>
-</blockquote>
+> اللهم صل على محمد و آل محمد
 
 We take pride in Shi‘a Islam as preserved by the Imams of Ahlul Bayt
 (a.s.), the Islam wherein justice is part of the fundamentals of our
@@ -40,17 +32,9 @@ not to say it. ***“Repel ill (conduct) with that which is the best.”***
 **(23:96)**  
  \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-<blockquote dir="rtl">
-  <p>
-وَ لا تَسُبُّوا الَّذينَ يَدْعُونَ مِنْ دُونِ اللَّهِ
-  </p>
-</blockquote>
+> وَ لا تَسُبُّوا الَّذينَ يَدْعُونَ مِنْ دُونِ اللَّهِ
 
-<blockquote dir="rtl">
-  <p>
-فَيَسُبُّوا اللَّهَ عَدْواً بِغَيْرِ عِلْم
-  </p>
-</blockquote>
+> فَيَسُبُّوا اللَّهَ عَدْواً بِغَيْرِ عِلْم
 
 > (الأنعام : 108)
 
@@ -60,30 +44,13 @@ not to say it. ***“Repel ill (conduct) with that which is the best.”***
 knowledge.***  
 ***(The Qur’ãn 6:108)***
 
-<blockquote dir="rtl">
-  <p>
-اور یه (مشرکین)
-  </p>
-</blockquote>
+> اور یه (مشرکین)
 
-<blockquote dir="rtl">
-  <p>
-الله كے سوا جن کی عبادت کرتے هيں
-  </p>
-</blockquote>
+> الله كے سوا جن کی عبادت کرتے هيں
 
-<blockquote dir="rtl">
-  <p>
-انهيں تم برا نه کها کرو
-  </p>
-</blockquote>
+> انهيں تم برا نه کها کرو
 
-<blockquote dir="rtl">
-  <p>
-و رنه یه لوگبھی الله کو بےسمجھے دشمنی ميں برا کهه بیٹھیں گے.
-  </p>
-</blockquote>
+> و رنه یه لوگبھی الله کو بےسمجھے دشمنی ميں برا کهه بیٹھیں گے.
 
 > (قرآن، سورة انعام آيت 108)
-
 

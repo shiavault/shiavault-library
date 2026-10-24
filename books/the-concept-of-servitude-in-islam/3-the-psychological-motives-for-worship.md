@@ -140,4 +140,3 @@ available means including conduct, thought, emotions and activity, to
 obtain Allah's pleasure, and win His reward for purely and sincerely
 worshipping Him.
 
-

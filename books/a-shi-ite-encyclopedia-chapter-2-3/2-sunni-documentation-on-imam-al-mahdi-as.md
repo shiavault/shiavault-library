@@ -549,4 +549,3 @@ Jama'a". In the next part, however, we will discuss the points of
 differences between the Shia and most Sunnis on the issue of Imam
 al-Mahdi.
 
-

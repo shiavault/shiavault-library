@@ -510,4 +510,3 @@ Sheikh Abu Ja’far Ahmad ibn Muhammad ibn Khalid al–Barqi, the author of
 *Al–Mahasin* compiled *Kitab al–Tabaqat*, *Kitab al–Ta'rikh* and *Kitab
 al–Rijal*. He died in 274 or, according to other sources, in 280.
 
-

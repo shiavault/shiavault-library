@@ -988,4 +988,3 @@ hadith no. 2.
 
 [^60]: Holy Qur’an, 17: 36.
 
-

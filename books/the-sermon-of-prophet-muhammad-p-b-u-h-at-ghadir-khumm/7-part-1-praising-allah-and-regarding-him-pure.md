@@ -135,7 +135,6 @@ cannot be compared to His Eternity, as He has no similarity whatsoever
 with His creation, including His light, which is the light of the
 Prophet (PBUH&HF) and His family (Ahl al-Bait (PBUT)).
 
-
 and created whatever He created without getting assistance from anyone,
 burdening Himself, or having any need to find out a solution.
 
@@ -212,7 +211,6 @@ who insist exhaust Him or force Him to assent.
 He (is Who) protected the righteous, and gave success to the
 prosperous.
 
-
 He is the guardian of the faithful, and the Lord of the worlds, Who
 deserves that all His creations thank Him and praise Him [in any
 situation. 1 cf. Chapter 57, Verse 6 of the Holy Quran. I (therefore)
@@ -233,5 +231,4 @@ though their major goal in worship was to thank Allah for His blessings.
 See also Verses 76:7, 76:10, 6:15, 7:205, 10:15, 13:21, 14:14, 24:37,
 and 32:16 of the Holy Quran concerning the fear of Allah’s best servants
 from His punishment.
-
 

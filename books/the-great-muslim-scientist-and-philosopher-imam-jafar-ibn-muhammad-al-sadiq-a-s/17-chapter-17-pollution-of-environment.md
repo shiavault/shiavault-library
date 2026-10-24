@@ -36,4 +36,3 @@ recorded and treatment prescribed, but the diseases, which have appeared
 in Japan due to the pollution of their environment are unknown to the
 science of medicine.
 
-

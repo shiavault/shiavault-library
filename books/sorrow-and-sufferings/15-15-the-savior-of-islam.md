@@ -289,4 +289,3 @@ The worldly eyes could, however, hardly see
 
 Husayn's blood had kept Islam pure and free.
 
-

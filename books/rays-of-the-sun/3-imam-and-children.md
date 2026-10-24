@@ -58,4 +58,3 @@ your children, act on that.”[^2]
 
 [^2]: Paa be Paaye Aaftaab, Vol 1, Pg. 107
 
-

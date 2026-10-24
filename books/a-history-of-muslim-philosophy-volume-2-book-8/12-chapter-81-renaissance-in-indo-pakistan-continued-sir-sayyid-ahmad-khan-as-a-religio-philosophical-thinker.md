@@ -951,4 +951,3 @@ p. 219.
 [^30]: Tafsir al-Quran, Vol. 1, pp. 217-18; Tahdhib al-Akhlaq, Vol. 2,
 p. 487.
 
-

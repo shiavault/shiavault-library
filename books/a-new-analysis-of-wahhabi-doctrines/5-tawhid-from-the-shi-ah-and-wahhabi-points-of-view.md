@@ -55,21 +55,13 @@ distinctly separated is unacceptable and itself as a kind of polytheism.
 We should not separate God from His acts and His creatures; for, we
 believe that:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا.﴾
-  </p>
-</blockquote>
+> ﴿أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا.﴾
 
 ***That power, altogether, belongs to Allah**,*[^2]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-لاَ حَوْلَ وَلاَ قُوَّةَ إلاَّ بِاللهِ العَلِيِّ العَظِيمِ.
-  </p>
-</blockquote>
+> لاَ حَوْلَ وَلاَ قُوَّةَ إلاَّ بِاللهِ العَلِيِّ العَظِيمِ.
 
 “There is no might and power except from Allah, the Exalted and
 Great.”[^3]
@@ -141,12 +133,8 @@ Action that we ascribe to Him will be the same as His other Action, and
 there is no difference and distinction among the Actions of God, and the
 apparent duplicity in the Actions of God is caused by our perception:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَلِكَ غَدًا إِلاَّ أَنْ
-يَشَاءَ اللَّهُ وَاذْكُرْ رَبَّكَ إِذَا نَسِيتَ.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَلِكَ غَدًا إِلاَّ أَنْ
+> يَشَاءَ اللَّهُ وَاذْكُرْ رَبَّكَ إِذَا نَسِيتَ.﴾
 
 ***Do not say about anything, 'I will indeed do it tomorrow,' without
 {adding}, 'if Allah wishes.' And when you forget, remember your
@@ -155,11 +143,7 @@ Lord**.*[^5]
 So, all our wishes are within the domain of His will and all the actions
 of God are one:
 
-<blockquote dir="rtl">
-  <p>
-لاَ حَوْلَ وَلاَ قُوَّةَ إلاَّ بِاللهِ العَلِيِّ العَظِيمِ.
-  </p>
-</blockquote>
+> لاَ حَوْلَ وَلاَ قُوَّةَ إلاَّ بِاللهِ العَلِيِّ العَظِيمِ.
 
 “There is no might and power except from Allah, the Exalted and Great.”
 
@@ -174,11 +158,7 @@ whatever the said creature does is outside the domain of God's will.
 This is contrary to what God has attributed to Himself as stated in the
 Holy Qur'an, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى.﴾
-  </p>
-</blockquote>
+> ﴿وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى.﴾
 
 ***And you did not throw when you threw, rather it was Allah who
 threw**.*[^6]
@@ -195,23 +175,15 @@ in worship, as the idol-worshipers and others do, it means that we are
 afflicted with polytheism in worship. The following verses of the Qur'an
 express this *Tawhid* in worship:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.﴾
-  </p>
-</blockquote>
+> ﴿إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.﴾
 
 ***You {alone} do we worship, and to You {alone} do we turn for
 help**.*[^7]
 
 And along this line, another verse states:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ إِنَّ صَلاَتِي وَنُسُكِي وَمَحْيَاي وَمَمَاتِي لِلَّهِ رَبِّ
-الْعَالَمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ إِنَّ صَلاَتِي وَنُسُكِي وَمَحْيَاي وَمَمَاتِي لِلَّهِ رَبِّ
+> الْعَالَمِينَ.﴾
 
 ***Say, 'Indeed my prayer and my worship, my life and my death are all
 for the sake of Allah, the*** ***Lord of all the worlds'**.*[^8]
@@ -234,11 +206,7 @@ Attributes. In other words, *Tawhid* in Lordship is the *Tawhid* in
 recognizing and proving God whose proofs are the verses of *Surah
 al-Kafirun*,[^9] the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ…﴾
-  </p>
-</blockquote>
+> ﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ…﴾
 
 ***Say, 'O People of the Book! Come to a word common**…*[^10]
 
@@ -386,11 +354,7 @@ the verses related to God's seeing, hearing, His having a hand, foot and
 His coming on the Day of Resurrection as allegorical. For instance, the
 Shi\`ah regard the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿الرَّحْمَانُ عَلَى الْعَرْشِ اسْتَوَى.﴾
-  </p>
-</blockquote>
+> ﴿الرَّحْمَانُ عَلَى الْعَرْشِ اسْتَوَى.﴾
 
 ***The All-beneficent settled on the Throne**,*[^14]28
 
@@ -435,5 +399,4 @@ have come into being sometime in the past.
 Maqasid at-Tawhid, p. 13.
 
 [^14]: Surat Ta Ha 20:5.
-
 

@@ -80,4 +80,3 @@ thee a leader [imam] for mankind. (Abraham) said: And of my offspring
 (Quran, II, 124). And God has also said, "And We made them chiefs
 [imams] who guide by Our command..." (Quran, XXI, 73).
 
-

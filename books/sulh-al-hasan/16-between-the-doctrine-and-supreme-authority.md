@@ -664,4 +664,3 @@ there is no oppression in it save on myself I shall keep quiet seeking
 reward for it (from Allah) and keeping aloof from its attractions and
 allurements for which you aspire." (Imam 'Ali, Nahj al-Balagha, p. 102.)
 
-

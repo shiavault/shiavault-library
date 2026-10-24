@@ -23,7 +23,6 @@ each, may be found in the large number of books on this topic. The
 Shi'as are extremely particular about the Ramadan fasts: many of them
 would rather die of thirst or hunger than not undertake it.
 
-
 **3. Zakat (Taxation)**
 
 We may consider salat and sawm as two acts of worship ('ibadat) whose
@@ -53,5 +52,4 @@ or dates on behalf of every individual.
 
 The nature of zakat is basically the same; whether from the point of
 Shi'a or Sunni fiqh.
-
 

@@ -58,4 +58,3 @@ New York Press, 1981), pp. 68-69.
 
 2.Rumi, Mathnawi, Book I, v. 3735f.
 
-

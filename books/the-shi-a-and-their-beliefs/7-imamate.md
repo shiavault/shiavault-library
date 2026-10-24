@@ -233,4 +233,3 @@ the pure shrines is meritorious and brings one closer to Alla\>h and it
 is like kissing the black stone which the Messenger of Alla\>h (N)
 himself kissed.172
 
-

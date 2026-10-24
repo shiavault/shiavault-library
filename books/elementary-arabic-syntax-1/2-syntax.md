@@ -39,4 +39,3 @@ word should be.
 is nominative, subjunctive or jussive and we must know when a noun is
 nominative, accusative or genitive.
 
-

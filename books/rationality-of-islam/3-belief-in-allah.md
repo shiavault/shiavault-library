@@ -379,4 +379,3 @@ We are neither allowed to follow any false ideas or doctrines nor to
 take any incorrect action in the name of freedom of thought or freedom
 of action, for that will amount to chaos and anarchy, and not freedom.
 
-

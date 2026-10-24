@@ -18,4 +18,3 @@ taken the first step and given encouragement to scientists and men of
 letters, there would have been no literary awakening and no Renaissance
 of knowledge.
 
-

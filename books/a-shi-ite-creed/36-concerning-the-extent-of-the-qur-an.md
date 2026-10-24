@@ -206,4 +206,3 @@ another is intended.
 [^10]: Although it begins with the Qur'an, this section contains a
 number of well-known Shi'itic beliefs.
 
-

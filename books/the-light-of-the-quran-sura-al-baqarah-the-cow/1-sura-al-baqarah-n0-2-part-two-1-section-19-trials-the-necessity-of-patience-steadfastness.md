@@ -268,7 +268,6 @@ might experience success in this life and in the Hereafter.
 
 24
 
-
 **Verses 155 - 157 (1)**
 
 (155) وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوفْ وَالْجُوعِ وَنَقْصٍ
@@ -290,7 +289,6 @@ return'."
 
 157. " Those are they on whom are blessings and Mercy from their Lord,
 and they are the ones that are guided (aright) ." Commentary:
-
 
 **Trial, an Indisputable Divine Rule**
 
@@ -472,7 +470,6 @@ and his destiny will conclude well.(2)
 
 "...and they are the ones that are guided (aright) ."
 
-
 (1) Bihar-ul-Anwar, vol. 82, p. 142
 (2) Makhzan-ul-'Irfan, vol. 2, p. 143
 
@@ -594,5 +591,4 @@ separate from Hajj pilgrimage, it is called / 'umrah mufradah/, a single
 'Umrah) . This minor pilgrimage to Mecca is very much similar to Hajj
 pilgrimage in many aspects, but its difference is not so minute, of
 course.
-
 

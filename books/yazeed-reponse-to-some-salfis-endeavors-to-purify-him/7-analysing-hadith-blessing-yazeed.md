@@ -628,4 +628,3 @@ and the murdered both be in Paradise. They can both be in Hell. They
 cannot both be in Heaven. Still less a Heaven where the murdered is the
 Leader of its Youth.
 
-

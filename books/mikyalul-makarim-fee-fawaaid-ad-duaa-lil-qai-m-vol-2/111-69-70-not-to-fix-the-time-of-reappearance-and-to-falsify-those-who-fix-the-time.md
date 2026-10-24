@@ -18,15 +18,11 @@ In the book of Husain bin Hamadan through the author’s own chain of
 narrators it is mentioned from Mufaddal bin Umar that he said: I asked
 Imam Sadiq (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا
-عِلْمُهَا عِنْدَ رَبِّي ۖ لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ ۚ
-ثَقُلَتْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا
-بَغْتَةً ۗ يَسْأَلُونَكَ كَأَنَّكَ حَفِيٌّ عَنْهَا ۖ قُلْ إِنَّمَا
-عِلْمُهَا عِنْدَ اللَّهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا
+> عِلْمُهَا عِنْدَ رَبِّي ۖ لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ ۚ
+> ثَقُلَتْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا
+> بَغْتَةً ۗ يَسْأَلُونَكَ كَأَنَّكَ حَفِيٌّ عَنْهَا ۖ قُلْ إِنَّمَا
+> عِلْمُهَا عِنْدَ اللَّهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
 
 ***They ask you about the hour, when will be its taking place? Say: The
 knowledge of it is only with my Lord; none but He shall manifest it at
@@ -37,13 +33,9 @@ know.*** ***(Qur’an, Surah Araaf 7:187)***
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً ۖ
-فَقَدْ جَاءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَاءَتْهُمْ
-ذِكْرَاهُمْ 
-  </p>
-</blockquote>
+> فَهَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً ۖ
+> فَقَدْ جَاءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَاءَتْهُمْ
+> ذِكْرَاهُمْ
 
 ***Do they then wait for aught but the hour that it should come to them
 all of a sudden? Now*** ***indeed the tokens of it have (already) come,
@@ -52,30 +44,18 @@ Surah Muhammad 47:18-19)***
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ
-  </p>
-</blockquote>
+> اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ
 
 ***The hour drew nigh and the moon did rend asunder. (Qur’an, Surah
 Qamar 54:1)***
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ.
-  </p>
-</blockquote>
+> وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ.
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَالَّذِينَ
-آمَنُوا مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ ۗ أَلَا
-إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ
-  </p>
-</blockquote>
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَالَّذِينَ
+> آمَنُوا مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ ۗ أَلَا
+> إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ
 
 ***And what shall make you know that haply the hour be nigh? Those who
 do not believe in it would hasten it on, and those who believe are in
@@ -232,12 +212,8 @@ the proof.
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُوا ۖ وَهَلْ نُجَازِي إِلَّا
-الْكَفُورَ
-  </p>
-</blockquote>
+> ذَٰلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُوا ۖ وَهَلْ نُجَازِي إِلَّا
+> الْكَفُورَ
 
 ***This We requited them with because they disbelieved; and We do not
 punish any but the ungrateful. (Qur’an, Surah Saba 34:17)***
@@ -249,12 +225,8 @@ Nawadir of Ali bin Asbath it is narrated from Thalaba bin Maimoon from
 Hasan bin Ziyad Attar that he said: I asked His Eminence, Abu Abdullah
 Imam Sadiq (as) the meaning of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ
-وَأَقِيمُوا الصَّلَاةَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ
+> وَأَقِيمُوا الصَّلَاةَ
 
 ***Have you not seen those to whom it was said: Withhold your hands, and
 keep up prayer. (Qur’an, Surah Nisa 4:77)***
@@ -616,31 +588,19 @@ appointing him as his proof; whereas these people, in separation of the
 divine proof, they gave up referring to him and even wanted to kill him.
 Thus the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي
-  </p>
-</blockquote>
+> ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي
 
 ***Son of my mother! surely the people reckoned me weak and had
 well-nigh slain me.*** ***(Qur’an, Surah Araaf 7:150)***
 
 And the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِنْ قَبْلُ يَا قَوْمِ إِنَّمَا
-فُتِنْتُمْ بِهِ ۖ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي
-وَأَطِيعُوا أَمْرِي .
-  </p>
-</blockquote>
+> وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِنْ قَبْلُ يَا قَوْمِ إِنَّمَا
+> فُتِنْتُمْ بِهِ ۖ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي
+> وَأَطِيعُوا أَمْرِي .
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا
-مُوسَىٰ
-  </p>
-</blockquote>
+> قَالُوا لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا
+> مُوسَىٰ
 
 ***And certainly Haroon had said to them before: O my people! you are
 only tried by it, and surely your Lord is the Beneficent God, therefore
@@ -719,11 +679,7 @@ be questioned.).[^40] It is in this way that the Almighty Allah has been
 kind to the Ummah of Muhammad (S) due to the fact that it had to bear so
 many difficulties as mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
 
 ***Do not lay on us a burden as You didst lay on those before us.***
 ***(Qur’an, Surah Baqarah 2:286)***
@@ -747,45 +703,29 @@ mentioned in a tradition that they are not ignorant of anything and that
 the knowledge of everything is present in the Qur’an, as mentioned by
 the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ 
-  </p>
-</blockquote>
+> وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ
 
 ***And We have revealed the Book to you explaining clearly
 everything.*** ***(Qur’an, Surah*** ***Nahl 16:89)***
 
 The Imam derives it from them and the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ
-مُبِينٍ
-  </p>
-</blockquote>
+> وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ
+> مُبِينٍ
 
 ***And there is nothing concealed in the heaven and the earth but it is
 in a clear book. (Qur’an, Surah Naml 27:75)***
 
 Also the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ُ
-  </p>
-</blockquote>
+> ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ُ
 
 ***Then We gave the Book for an inheritance to those whom We chose from
 among Our servants.*** ***(Qur’an, Surah Fatir 35:32)***
 
 They are Imams according to a tradition; then the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ 
-  </p>
-</blockquote>
+> وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
 
 ***And We have recorded everything in a clear leader.*** ***(Qur’an,
 Surah Yasin 36:12)***
@@ -815,11 +755,7 @@ although are aware of everything with few exceptions, like the Great
 Name of Allah, which the Almighty Allah has reserved for Himself and did
 not inform any of the people. But the Imams are:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
-  </p>
-</blockquote>
+> لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
 
 ***They do not precede Him in speech and (only) according to His
 commandment do they act. (Qur’an, Surah Anbiya 21:27)***
@@ -831,11 +767,7 @@ Basair.[^41]
 The conclusion of the traditional report is that the Almighty Allah has
 ordered the people to ask the Imams (as) as mentioned in the verses:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
 
 ***So ask the followers of the reminder if you do not know. (Qur’an,
 Surah Anbiya 21:7)***
@@ -844,11 +776,7 @@ That is it is upon them to ask, but the Imam is not bound to reply them.
 Rather it is upon their discretion to reply or not. The Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ
 
 ***This is Our free gift, therefore give freely or withhold, without
 reckoning.*** ***(Qur’an, Surah Saad 38:39)***
@@ -864,11 +792,7 @@ traditions which are opposed to what we have stated.
 First tradition: If one verse had not been in the Qur’an I would have
 told you everything that is to happen till Judgment Day. It is:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ 
-  </p>
-</blockquote>
+> يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
 
 ***Allah makes to pass away and establishes what He pleases, and with
 Him is the basis of the Book.*** ***(Qur’an, Surah Raad 13:39)***
@@ -1005,13 +929,9 @@ in the reply of the question. The explanation is that the Almighty Allah
 created the Lauhe Mahfooz in the sky and made it a repository of all the
 knowledges, incidents and judgments as He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا
-وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّ فِي كِتَابٍ
-مُبِينٍ
-  </p>
-</blockquote>
+> وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا
+> وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّ فِي كِتَابٍ
+> مُبِينٍ
 
 ***And there is no animal in the earth but on Allah is the sustenance of
 it, and He knows its resting place and its depository all (things) are
@@ -1019,36 +939,24 @@ in a manifest book.*** ***(Qur’an, Surah Hud 11:6)***
 
 In Surah Taha He says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عِلْمُهَا عِنْدَ رَبِّي فِي كِتَابٍ
-  </p>
-</blockquote>
+> قَالَ عِلْمُهَا عِنْدَ رَبِّي فِي كِتَابٍ
 
 ***He said: The knowledge thereof is with my Lord in a book.***
 ***(Qur’an, Surah Taha 20:52)***
 
 In Surah Naml He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ
-مُبِينٍ
-  </p>
-</blockquote>
+> وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ
+> مُبِينٍ
 
 ***And there is nothing concealed in the heaven and the earth but it is
 in a clear book.*** ***(Qur’an, Surah Naml 27:75)***
 
 He says in Surah Saba:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي
-الْأَرْضِ وَلَا أَصْغَرُ مِنْ ذَٰلِكَ وَلَا أَكْبَرُ إِلَّا فِي
-كِتَابٍ مُبِينٍ
-  </p>
-</blockquote>
+> لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي
+> الْأَرْضِ وَلَا أَصْغَرُ مِنْ ذَٰلِكَ وَلَا أَكْبَرُ إِلَّا فِي
+> كِتَابٍ مُبِينٍ
 
 ***Not the weight of an atom becomes absent from Him, in the heavens or
 in the earth, and neither less than that nor greater, but (all) is in a
@@ -1056,35 +964,23 @@ clear book.*** ***(Qur’an, Surah Saba 34:3)***
 
 It is mentioned in Surah Fatir:
 
-<blockquote dir="rtl">
-  <p>
-مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ ۚ إِنَّ
-ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ
-  </p>
-</blockquote>
+> مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ ۚ إِنَّ
+> ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ
 
 ***Nor is aught diminished of one’s life, but it is all in a book;
 surely this is easy to Allah.*** ***(Qur’an, Surah Fatir 35:11)***
 
 It is mentioned in Surah Qaf:
 
-<blockquote dir="rtl">
-  <p>
-وَعِنْدَنَا كِتَابٌ حَفِيظٌ
-  </p>
-</blockquote>
+> وَعِنْدَنَا كِتَابٌ حَفِيظٌ
 
 ***And with Us is a writing that preserves.*** ***(Qur’an, Surah Qaf
 50:4)***
 
 It is mentioned in Surah Hadid:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنْفُسِكُمْ إِلَّا
-فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا
-  </p>
-</blockquote>
+> مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنْفُسِكُمْ إِلَّا
+> فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا
 
 ***No evil befalls on the earth nor in your own souls, but it is in a
 book before We bring it into existence.*** ***(Qur’an, Surah Hadid
@@ -1092,23 +988,11 @@ book before We bring it into existence.*** ***(Qur’an, Surah Hadid
 
 It is mentioned in Surah Waqiyah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقُرْآنٌ كَرِيمٌ 
-  </p>
-</blockquote>
+> إِنَّهُ لَقُرْآنٌ كَرِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فِي كِتَابٍ مَكْنُونٍ 
-  </p>
-</blockquote>
+> فِي كِتَابٍ مَكْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
-  </p>
-</blockquote>
+> لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
 
 ***Most surely it is an honored Qur’an. In a book that is protected.
 None shall touch it save the purified ones.*** ***(Qur’an, Surah Waqiyah
@@ -1120,28 +1004,16 @@ Mahfooz is for the ethereal sphere and all that He entrusted to the
 heavenly Lauhe Mahfooz, the same was given to Imam (as). Thus the
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
 
 ***And We have recorded everything in a clear writing.*** ***(Qur’an,
 Surah Yasin 36:12)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-حم 
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-وَالْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> وَالْكِتَابِ الْمُبِينِ
 
 ***Ha Mim! I swear by the Book that makes manifest (the truth).***
 ***(Qur’an, Surah Dukhan 44:1-2)***
@@ -1170,29 +1042,17 @@ Mahfooz on the earth. He has entrusted to him all the knowledge but only
 that is given from them in which there is goodness and the rest is
 concealed. Thus Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-الْأَرْضِ وَلَٰكِنْ يُنَزِّلُ بِقَدَرٍ مَا يَشَاءُ ۚ
-  </p>
-</blockquote>
+> الْأَرْضِ وَلَٰكِنْ يُنَزِّلُ بِقَدَرٍ مَا يَشَاءُ ۚ
 
 ***But He sends it down according to a measure as He pleases.***
 ***(Qur’an, Surah Shura 42:27)***
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
-كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ.
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
+> كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ.
 
-<blockquote dir="rtl">
-  <p>
-تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
-  </p>
-</blockquote>
+> تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
 
 ***Have you not considered how Allah sets forth a parable of a good word
 (being) like a good tree, whose root is firm and whose branches are in
@@ -1271,12 +1131,8 @@ knowledge of the ghayb to you.’” He said: “He said: ‘O Sudair! Have you
 not read the Qur’an?’ I said: ‘Yes.’ He said: ‘Have you found in what
 you have read of the Book of Allah, to Whom belong Might and Majesty:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ قَبْلَ
-أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ
-  </p>
-</blockquote>
+> قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ قَبْلَ
+> أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ
 
 ***Said he who possessed knowledge from the Book: I will bring it to
 thee, before ever thy glance returns to thee.*** ***(Qur’an, Surah Naml
@@ -1297,12 +1153,8 @@ belong Might and Majesty, compares it to the knowledge which I shall
 tell you about, O Sudair, have you also found in what you have read of
 the Book of Allah, to Whom belong Might and Majesty:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كَفَىٰ بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ
-عِلْمُ الْكِتَابِ
-  </p>
-</blockquote>
+> قُلْ كَفَىٰ بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ
+> عِلْمُ الْكِتَابِ
 
 ***Say: Allah suffices as a witness between me and you, and whosoever
 possesses knowledge of the Book.*** ***(Qur’an, Surah Raad 13:43)***
@@ -1453,5 +1305,4 @@ Tr. no. 104
 in Basairud Darajat, Pg. 213
 
 [^49]: Mashaariqul Anwaarul Yaqeen, Pg. 125
-
 

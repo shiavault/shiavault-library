@@ -179,4 +179,3 @@ Janabe John's soul was taken away to Heaven.
 
 **Matam al-Husayn!**
 
-

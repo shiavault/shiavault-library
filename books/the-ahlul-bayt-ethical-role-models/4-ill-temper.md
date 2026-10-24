@@ -77,4 +77,3 @@ anything. The Prophet (S) said:
 [^1]: Jihad is religious warfare or a war for the propagation or defense
 of Islam.
 
-

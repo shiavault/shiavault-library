@@ -33,4 +33,3 @@ And is more than enough for those who comprehend and understand.
 As for the particulars of their station, no one can know and apprehend
 them other than their Lord, may His Name be blessed.
 
-

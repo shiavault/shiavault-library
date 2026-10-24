@@ -187,4 +187,3 @@ that innate sense with which everyone is endowed. They misinterpret for
 the sake of convenience, sentimental attachment, or emotion­alism, or
 for the love of the dunya (world in a negative material sense).
 
-

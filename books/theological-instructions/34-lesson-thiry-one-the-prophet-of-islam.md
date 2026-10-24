@@ -152,4 +152,3 @@ Questions
 5- What are the ways of establishing the prophethood of the Prophet of
 Islam?
 
-

@@ -13,26 +13,17 @@ of supplication.
 In Du’a al-Nudbah, we come across many lines which convey the victory of
 the Imam:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ وَ أَقِمْ بِهِ الْـحَقَّ وَ أَدْحِضْ بِهِ الْبَاطِلَ...
-  </p>
-</blockquote>
+> أَللّٰهُمَّ وَ أَقِمْ بِهِ الْـحَقَّ وَ أَدْحِضْ بِهِ الْبَاطِلَ...
 
 “O’ Allah! Through him (the Imam), establish truth and destroy all
 falsehood.”
 
 In addition, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَذْلِلِ بِهِ أَعْدَائَكَ...
-  </p>
-</blockquote>
+> وَ أَذْلِلِ بِهِ أَعْدَائَكَ...
 
 “Through him (the Imam), humiliate all of your enemies.”
 
 [^1]: Refer to footnote on responsibility Thirty-Nine for more
 information.
-
 

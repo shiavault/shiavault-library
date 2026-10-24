@@ -67,4 +67,3 @@ Muslims' lives on the one hand, and fear from the Ummayyad authorities,
 the terrorism of the rulers, and the love of life and a comfortable,
 easy living on the other.
 
-

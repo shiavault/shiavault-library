@@ -1,11 +1,7 @@
 O Allāh, Satisfy Every Hungry Person
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَشْبِعْ كُلَّ جَائِعٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَشْبِعْ كُلَّ جَائِعٍ
 
 Experiencing Hunger
 -------------------
@@ -17,13 +13,9 @@ tradition quoted by Mawlā Fayd Kāshānī from *Man Lā Yahduruhu’l Faqīh*,
 speaks of the same: in an authentic narration, Imām al-Sādiq (as),
 whilst explaining the philosophy of fasting, says:
 
-<blockquote dir="rtl">
-  <p>
-أَرَادَ اللٌّهُ عَزَّ وجَلَّ أنْ يُسَوِّيَ بَيْنَ خَلْقِهِ، وَأَنْ
-يُذِيقَ الْغَنِيَّ نَيْلَ الْجُوْعِ وَالأَلَمِ، لِيَرِقَّ عَلى
-الضَّعِيفِ وَيَرْحَمَ الْجَائِعَ.
-  </p>
-</blockquote>
+> أَرَادَ اللٌّهُ عَزَّ وجَلَّ أنْ يُسَوِّيَ بَيْنَ خَلْقِهِ، وَأَنْ
+> يُذِيقَ الْغَنِيَّ نَيْلَ الْجُوْعِ وَالأَلَمِ، لِيَرِقَّ عَلى
+> الضَّعِيفِ وَيَرْحَمَ الْجَائِعَ.
 
 “Allāh, the Exalted and Glorious, desired to maintain equality between
 His creatures and make the rich person experience hunger and pain so
@@ -58,12 +50,8 @@ verses of the Holy Qur’ān:
 
 1. Chapter al-Ā‘rāf - 7:96:
 
-<blockquote dir="rtl">
-  <p>
- وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوْا لَفَتَحْنَا
-عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَآءِ وَالأَرْضِ... 
-  </p>
-</blockquote>
+>  وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوْا لَفَتَحْنَا
+> عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَآءِ وَالأَرْضِ... 
 
 ***“And if the people of the towns were to believe and observe piety,
 surely we would have opened to them the blessings of the heaven and the
@@ -71,12 +59,8 @@ earth…”***
 
 2. Chapter al-Talāq - 65:2-3:
 
-<blockquote dir="rtl">
-  <p>
- وَمَنْ يَتَّقِ اللٌّهَ يَجْعَلْ لَهُ مَخْرَجًا. وَيَرْزُقْهُ مِنْ
-حَيْثُ لاَ يَحْتَسِبُ 
-  </p>
-</blockquote>
+>  وَمَنْ يَتَّقِ اللٌّهَ يَجْعَلْ لَهُ مَخْرَجًا. وَيَرْزُقْهُ مِنْ
+> حَيْثُ لاَ يَحْتَسِبُ 
 
 ***“And whosoever is God-wary (observes piety) He would make for him a
 way out [from difficulties] and Bestow on him sustenance from whence he
@@ -84,13 +68,9 @@ expects not…”***
 
 3. Chapter Nūh - 71:10-12:
 
-<blockquote dir="rtl">
-  <p>
- فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا. يُرْسِلِ
-السَّمَآءَ عَلَيْكُمْ مِدْرَارًا. وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ
-وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا 
-  </p>
-</blockquote>
+>  فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا. يُرْسِلِ
+> السَّمَآءَ عَلَيْكُمْ مِدْرَارًا. وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ
+> وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا 
 
 ***“Then I said: seek forgiveness from your*** ***Lord, [for] indeed He
 is the Most-forgiving; He would send down abundance of rain upon you;
@@ -103,11 +83,7 @@ and istighfār (in its various manifestations and dimensions] were to
 prevail, hunger would no more be a predicament save in cases of Divine
 trial.
 
-<blockquote dir="rtl">
-  <p>
- وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ... 
-  </p>
-</blockquote>
+>  وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ... 
 
 ***“And We would certainly try You with somewhat of fear and
 hunger…”***[^2]
@@ -121,31 +97,19 @@ Increasing Sustenance
 
 1. Imām al-Sādiq (as) is reported to have said[^3]:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْبِرَّ يَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> إِنَّ الْبِرَّ يَزِيدُ فِي الرِّزْقِ.
 
 “Indeed, virtuousness increases sustenance.”
 
 2. Imām al-Sādiq (as) is reported to have said[^4]:
 
-<blockquote dir="rtl">
-  <p>
-حُسْنُ الْخُلْقِ يَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> حُسْنُ الْخُلْقِ يَزِيدُ فِي الرِّزْقِ.
 
 “Good behaviour (*akhlāq*) increases sustenance.”
 
 3. The Holy Prophet (s) is reported to have said[^5]:
 
-<blockquote dir="rtl">
-  <p>
-دُمْ عَلى الطَّهَارَةِ، يُوَسَّعُ عَلَيْكَ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> دُمْ عَلى الطَّهَارَةِ، يُوَسَّعُ عَلَيْكَ فِي الرِّزْقِ.
 
 “Always be in the state of *tahāra* (purity) and your sustenance shall
 be increased.”
@@ -194,11 +158,7 @@ body. The following verse is an example:
 
 In chapter ‘Abasa [80:24], Almighty Allāh says:
 
-<blockquote dir="rtl">
-  <p>
- فَلْيَنْظُرِ الإِنْسَانُ إِلـى طَعَامِهِ 
-  </p>
-</blockquote>
+>  فَلْيَنْظُرِ الإِنْسَانُ إِلـى طَعَامِهِ 
 
 ***“Then let man look at his food.”***
 
@@ -209,11 +169,7 @@ tr.8] from Imām al-Sādiq (as) as follows:
 Zayd al-Shahhām asks Imām (as) what “man’s food”[^6] stands for in the
 verse above. The Imām (as) responds saying:
 
-<blockquote dir="rtl">
-  <p>
-عِلْمُهُ الَّذِي يأْخُذُهُ عَمَّنْ يَأْخُذُهُ...
-  </p>
-</blockquote>
+> عِلْمُهُ الَّذِي يأْخُذُهُ عَمَّنْ يَأْخُذُهُ...
 
 “The knowledge that he acquires; from whom does he acquire it?”[^7]
 
@@ -224,21 +180,13 @@ the acquisition of knowledge. The Holy Prophet (s) himself used to seek
 more knowledge by the following supplication that Almighty Allāh taught
 him in the Holy Qur’ān [20:114]:
 
-<blockquote dir="rtl">
-  <p>
- وَقُلْ رَبِّ زِدْنِي عِلْمًا 
-  </p>
-</blockquote>
+>  وَقُلْ رَبِّ زِدْنِي عِلْمًا 
 
 ***“And say: O my Lord increase me in knowledge.”***
 
 And saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَرَفْنَاَكَ حَقَّ مَعْرِفَتِكَ.
-  </p>
-</blockquote>
+> مَا عَرَفْنَاَكَ حَقَّ مَعْرِفَتِكَ.
 
 “We have not known your reality completely.”
 
@@ -247,22 +195,14 @@ clearly prove this contention:
 
 1. Chapter al-Baqarā: 2:282:
 
-<blockquote dir="rtl">
-  <p>
- وَاتَّقُوا اللٌّهَ وَ يُعَلِّمُكُمُ اللٌّهُ 
-  </p>
-</blockquote>
+>  وَاتَّقُوا اللٌّهَ وَ يُعَلِّمُكُمُ اللٌّهُ 
 
 ***“And adopt taqwā, and Allāh will teach you.”***
 
 2. Chapter al-Anfāl: 8:29:
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللٌّهَ يَجْعَلْ
-لَكُمْ فُرْقَانًا 
-  </p>
-</blockquote>
+>  يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللٌّهَ يَجْعَلْ
+> لَكُمْ فُرْقَانًا 
 
 ***“O believers, if you be God-wary (observe piety) Allāh shall enable
 you to distinguish the truth from the falsehood.”***
@@ -277,12 +217,8 @@ traveler by mentioning some of the following traditions:
 
 1. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُكُمْ عِنْدَ اللٌّهِ مَنْزِلَةً يَوْمَ الْقِيَامَةِ،
-أَطْوَلكُمْ جُوْعَاً وَتَفَكُّراً فِي اللٌّهِ سُبْحَانَهُ.
-  </p>
-</blockquote>
+> أَفْضَلُكُمْ عِنْدَ اللٌّهِ مَنْزِلَةً يَوْمَ الْقِيَامَةِ،
+> أَطْوَلكُمْ جُوْعَاً وَتَفَكُّراً فِي اللٌّهِ سُبْحَانَهُ.
 
 “The best of you in terms of rank near Allāh on the day of Judgment is
 the one among you who experiences hunger and engages in contemplation
@@ -290,14 +226,10 @@ about Allāh, the exalted, for the longest period.”[^8]
 
 2. The Holy Prophet (s) is reported to have told Usāma:
 
-<blockquote dir="rtl">
-  <p>
-إِنِ اسْتَطَعْتَ أَنْ يَأْتِيَكَ مَلَكُ الْمَوْتِ وَبَطْنُكَ جَائِعٌ،
-وَكَبِدُكَ ظَمْآن فَافْعَلْ، فَإِنَّكَ تُدْرِكُ بِذٌلِكَ أَشْرَفَ
-الْمَنَازِلِ، وَتَحُلُّ مَعَ النَّبِيِّينَ، وَتَفْرَحُ بِقُدُوْمِ
-رُوْحِكَ الْمَلائِكَةُ، وَ يُصَلِّي عَلَيْكَ الْجَبَّارُ.
-  </p>
-</blockquote>
+> إِنِ اسْتَطَعْتَ أَنْ يَأْتِيَكَ مَلَكُ الْمَوْتِ وَبَطْنُكَ جَائِعٌ،
+> وَكَبِدُكَ ظَمْآن فَافْعَلْ، فَإِنَّكَ تُدْرِكُ بِذٌلِكَ أَشْرَفَ
+> الْمَنَازِلِ، وَتَحُلُّ مَعَ النَّبِيِّينَ، وَتَفْرَحُ بِقُدُوْمِ
+> رُوْحِكَ الْمَلائِكَةُ، وَ يُصَلِّي عَلَيْكَ الْجَبَّارُ.
 
 “If it is possible for you to encounter the angel of death while you are
 hungry and thirsty, then do so, for by that you would experience the
@@ -307,23 +239,15 @@ His Blessings on you.”[^9]
 
 3. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَجِيْعُوْا أَكْبَادَكُمْ وَأَعْرَوا أَجْسَادَكُمْ، لَعَلَّ
-قُلُوْبُكُمْ تَرَى اللٌّهَ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> أَجِيْعُوْا أَكْبَادَكُمْ وَأَعْرَوا أَجْسَادَكُمْ، لَعَلَّ
+> قُلُوْبُكُمْ تَرَى اللٌّهَ عَزَّ وَجَلَّ.
 
 “Keep your stomachs hungry and afflict your bodies; perhaps [by doing
 so] your hearts would see Allāh, the Exalted and Glorious.”[^10]
 
 4. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَجَاعَ بَطْنَهُ عَظُمَتْ فِكْرَتُهُ.
-  </p>
-</blockquote>
+> مَنْ أَجَاعَ بَطْنَهُ عَظُمَتْ فِكْرَتُهُ.
 
 “Whosoever keeps his stomach hungry would attain sublimity of
 thought.”[^11]
@@ -331,21 +255,13 @@ thought.”[^11]
 5. The Holy Prophet (s) during his *mi*‘*rāj* (his ascent to the
 proximity of God) asks Almighty Allāh:
 
-<blockquote dir="rtl">
-  <p>
-يَا رَبِّ: مَا مِيْرَاثُ الْجوْعِ؟
-  </p>
-</blockquote>
+> يَا رَبِّ: مَا مِيْرَاثُ الْجوْعِ؟
 
 “O Lord what does hunger inherit?”
 
 Almighty Allāh says:
 
-<blockquote dir="rtl">
-  <p>
-الْحِكْمَةُ وَحِفْظُ الْقَلْبِ...
-  </p>
-</blockquote>
+> الْحِكْمَةُ وَحِفْظُ الْقَلْبِ...
 
 “It inherits wisdom and the protection of the heart…”[^12]
 
@@ -374,13 +290,9 @@ strengthens, such phenomena are feasible. Avicenna (Ibn Sīnā), the great
 Shī‘ite philosopher, who is also known as *Sayyid al-‘Uqalā’* (the doyen
 of intellectuals) in his monumental “Ishārāt wa al-Tanbīhāt” says:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا بَلَغَكَ أَنََّ عَارِفاً أَمْسَكَ عَنِ القُوْتِ الْمَرْزُوءِ
-لَهُ مُدَّةً غَيْرَ مُعْـتَادَةٍ، فاسْجَحْ بِالتَّصْدِيْقِ،
-وَاعْـتَبِرْ ذٌلِكَ مِنْ مَذَاهِبِ الطَّبِيعَةِ الْمَشْهُوْرَة.
-  </p>
-</blockquote>
+> إِذَا بَلَغَكَ أَنََّ عَارِفاً أَمْسَكَ عَنِ القُوْتِ الْمَرْزُوءِ
+> لَهُ مُدَّةً غَيْرَ مُعْـتَادَةٍ، فاسْجَحْ بِالتَّصْدِيْقِ،
+> وَاعْـتَبِرْ ذٌلِكَ مِنْ مَذَاهِبِ الطَّبِيعَةِ الْمَشْهُوْرَة.
 
 “If you come to know that a Gnostic (*‘ārif*) has refrained for an
 unusual interval from consuming the little food he has, graciously
@@ -421,5 +333,4 @@ uniform with his spirit. And this food can be nothing but knowledge.
 495
 
 [^14]: al-Ishārāt wa ‘ l-Tanbīhāt, v. 4, pg. 111
-
 

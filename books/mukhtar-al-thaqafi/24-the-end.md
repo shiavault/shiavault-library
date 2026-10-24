@@ -31,4 +31,3 @@ ordered his soldiers to kill them all. Meanwhile, he executed seven
 thousand people on one day. It was a horrible massacre. The Kufians had
 never seen it before.
 
-

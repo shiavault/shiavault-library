@@ -26,69 +26,45 @@ It can be deduced from a number of verses of the Holy Qur’an that
 certain lands have been blessed and have special distinctions over other
 lands. Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ أَوَّلَ بَيتٍ وُضِعَ لِلنّاسِ لَلَّذِي بِبَکَّةَ مُبارَکاً
-وَهُديً لِلْعالَمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ أَوَّلَ بَيتٍ وُضِعَ لِلنّاسِ لَلَّذِي بِبَکَّةَ مُبارَکاً
+> وَهُديً لِلْعالَمِينَ ﴾
 
 ***“Most surely the first house appointed for men is the one at Bekka,
 blessed and a guidance for the nations.”***[^1]
 
 And He also says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقُلْ رَبِّ أَنْزِلْنِي مُنْزَلاً مُبارَکاً وَأَنْتَ خَيْرُ
-اَلمُنْزِلِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقُلْ رَبِّ أَنْزِلْنِي مُنْزَلاً مُبارَکاً وَأَنْتَ خَيْرُ
+> اَلمُنْزِلِينَ ﴾
 
 ***“And say: O my lord! Cause me to disembark a blessed alighting, and
 Thou art the best to cause to alight.”***[^2]
 
 Another Qur’anic verse says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَنَجَّيْناهُ وَلُوطاً إِلى الأَرْضِ الَّتِي بارَکْنا فِيها
-لِلْعالَمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَنَجَّيْناهُ وَلُوطاً إِلى الأَرْضِ الَّتِي بارَکْنا فِيها
+> لِلْعالَمِينَ ﴾
 
 ***“And We delivered him as well as Lut (removing them) to the land
 which We had blessed for all people.”***[^3]
 
 Talking about the Prophet Moses (as), the Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِذْ ناداهُ رَبُّهُ بِالْوادِ المُقَدَّسِ طُوَي ﴾
-  </p>
-</blockquote>
+> ﴿ إِذْ ناداهُ رَبُّهُ بِالْوادِ المُقَدَّسِ طُوَي ﴾
 
 ***“When his Lord called upon him in the holy valley, twice.”***[^4]
 
 And likewise, while addressing him, the Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاخْلَع نَعْلَيْكَ إِنَّكَ بِالْوادِ المُقَدَّسِ طُوَي ﴾
-  </p>
-</blockquote>
+> ﴿ فَاخْلَع نَعْلَيْكَ إِنَّكَ بِالْوادِ المُقَدَّسِ طُوَي ﴾
 
 ***“Therefore put off your shoes; surely you are in the sacred valley,
 Tuwa.”***[^5]
 
 In a story about Sulayman, the Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلِسُلَيْمانَ الرِّيْحَ عاصِفَةً تَجْرِي بِأَمْرِهِ إِلى الأَرْضِ
-الَّتِي بارَكْنا فِيها ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلِسُلَيْمانَ الرِّيْحَ عاصِفَةً تَجْرِي بِأَمْرِهِ إِلى الأَرْضِ
+> الَّتِي بارَكْنا فِيها ... ﴾
 
 ***“And We made subservient to Sulaiman the wind blowing violent,
 pursuing its course by his command to the land which We had
@@ -96,12 +72,8 @@ blessed.”***[^6]
 
 About the Holy Prophet of Islam, the Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحانَ الَّذِي أَسْري بِعَبْدِهِ لَيْلاً مِنَ المَسْجِدِ الحَرامِ
-إِلى المَسْجِدِ الأَقْصي الَّذِي بارَکْنا حَولَهُ ... ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحانَ الَّذِي أَسْري بِعَبْدِهِ لَيْلاً مِنَ المَسْجِدِ الحَرامِ
+> إِلى المَسْجِدِ الأَقْصي الَّذِي بارَکْنا حَولَهُ ... ﴾
 
 ***“Glory be to Him who made His servant to go on a night from the
 Sacred Mosque to the Remote Mosque of which We have blessed the
@@ -255,11 +227,7 @@ grave of Imam al-Husayn (as) is just like the Prophet’s (S), because
 Imam al-Husayn (as) is a part of the Holy Prophet (S). The Holy Prophet
 (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«حسين منّي وأنا من حسين.»
-  </p>
-</blockquote>
+> «حسين منّي وأنا من حسين.»
 
 “Al-Husayn is from me, and I am from al-Husayn.”[^18]
 
@@ -361,5 +329,4 @@ vol. 4, p. 174; Ibn Majah, Sunan, hadith 144.
 
 [^21]: Al-Hakim al-Neyshaburi, Al-Mustadrak ‘ala al-Sahihayn, vol. 4, p.
 398.
-
 

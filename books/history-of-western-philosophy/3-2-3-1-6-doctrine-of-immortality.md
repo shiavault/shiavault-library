@@ -68,4 +68,3 @@ as soldiers, militias and in subordinate civic offices. Starting at the
 age of fifty, the demonstrably worthy will study philosophy until their
 turns come to administer the offices for their country's sake .
 
-

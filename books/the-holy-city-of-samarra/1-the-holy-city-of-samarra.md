@@ -122,4 +122,3 @@ Pictures
 
 4. The Great Mosque
 
-

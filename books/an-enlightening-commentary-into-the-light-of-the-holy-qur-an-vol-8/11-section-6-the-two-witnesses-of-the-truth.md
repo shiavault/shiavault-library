@@ -4,13 +4,9 @@ Section 6: The Two Witnesses of the Truth
 Surah Ar-Ra‘d – Verse 38
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا رُسُلاً مّـِن قَبْلِكَ وَجَعَلْنَا لَهُمْ
-أَزْوَاجاً وَذُرّ‌ِيَّةً وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِاَيَةٍ
-إِلاَّ بإِذْنِ اللَّهِ لِكُلّ‌ِ أَجَلٍ كِتَابٌ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا رُسُلاً مّـِن قَبْلِكَ وَجَعَلْنَا لَهُمْ
+> أَزْوَاجاً وَذُرّ‌ِيَّةً وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِاَيَةٍ
+> إِلاَّ بإِذْنِ اللَّهِ لِكُلّ‌ِ أَجَلٍ كِتَابٌ
 
 ***38. “And indeed We sent Messengers before you, and appointed for them
 wives and children; and it was not for any Messenger to bring a sign
@@ -52,11 +48,7 @@ Allah’s permission. For every term there is a book prescribed.”***
 Surah Ar-Ra‘d – Verse 39
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَمْحُواْ اللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ اُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> يَمْحُواْ اللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ اُمُّ الْكِتَابِ
 
 ***39. “Allah effaces out whatever He pleases and He confirms
 (similarly), and with Him is the Mother (Basic Source) of the Book.”***
@@ -365,12 +357,8 @@ abhorred and detested.”* [^23]
 Surah Ar-Ra‘d – Verse 40
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِن مَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ
-فَإِنَّمَا عَلَيْكَ الْبَلاغُ وَعَلَيْنَا الْحِسَابُ
-  </p>
-</blockquote>
+> وإِن مَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ
+> فَإِنَّمَا عَلَيْكَ الْبَلاغُ وَعَلَيْنَا الْحِسَابُ
 
 ***40. “And We will either let you see part of what We promise them or
 cause you to die, for your duty is only to make (the Message) reach
@@ -422,12 +410,8 @@ Mohammad (S).”*[^24]
 Surah Ar-Ra‘d – Verse 41
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَوْا أَنَّا نَأْتِي الأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا
-وَاللَّهُ يَحْكُمُ لاَ مُعَقّـِبَ لِحُكْمِهِ وَهُوَ سَرِيعُ الْحِسَابِ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَوْا أَنَّا نَأْتِي الأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا
+> وَاللَّهُ يَحْكُمُ لاَ مُعَقّـِبَ لِحُكْمِهِ وَهُوَ سَرِيعُ الْحِسَابِ
 
 ***41. “Do they not see that We come unto the earth and reduce it from
 its sides? And (were) Allah commands, there is no reverser for His
@@ -472,13 +456,9 @@ The verse says:
 Surah Ar-Ra‘d – Verse 42
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ مَكَرَ الَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ الْمَكْرُ جَمِيعاً
-يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ وَسَيَعْلَمُ الْكُفَّارُ لِمَنْ
-عُقْبَي الدَّارِ
-  </p>
-</blockquote>
+> وَقَدْ مَكَرَ الَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ الْمَكْرُ جَمِيعاً
+> يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ وَسَيَعْلَمُ الْكُفَّارُ لِمَنْ
+> عُقْبَي الدَّارِ
 
 ***42. “And indeed those before them devised, but the devising
 altogether is Allah’s; He knows what every soul earns, and the
@@ -553,12 +533,8 @@ abode.”***
 Surah Ar-Ra‘d – Verse 43
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلاً قُلْ كَفَي بِاللَّهِ
-شَهِيداً بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَابِ
-  </p>
-</blockquote>
+> وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلاً قُلْ كَفَي بِاللَّهِ
+> شَهِيداً بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَابِ
 
 ***43. “And those who disbelieve say: ‘You are not a messenger’. Say:
 Allah is sufficient as a witness between me and you and he with whom is
@@ -723,5 +699,4 @@ with Your Will.*
 [^28]: Surah Al-i-‘Imran, No. 3, verse 7
 
 [^29]: Al-Mizan
-
 

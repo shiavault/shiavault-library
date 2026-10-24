@@ -1642,4 +1642,3 @@ sense in the same way as the doctrine of the Rhenish mystics might be
 considered to be the source of the Protestant revolt during the
 Renaissance.
 
-

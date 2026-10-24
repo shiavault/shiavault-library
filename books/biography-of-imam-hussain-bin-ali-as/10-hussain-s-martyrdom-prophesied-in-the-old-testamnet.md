@@ -570,4 +570,3 @@ in the case of any divine object, which was expected of the angels even
 by God Himself, and was practiced even by a prophet of God like Jacob,
 is not worship, and hence not objectionable.
 
-

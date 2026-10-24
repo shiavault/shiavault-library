@@ -563,4 +563,3 @@ rope of the Progeny of Muhammad (S).
 
 [^14]: Usūl al-Kāfi
 
-

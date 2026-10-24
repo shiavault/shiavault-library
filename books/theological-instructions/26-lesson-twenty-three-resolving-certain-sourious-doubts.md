@@ -221,4 +221,3 @@ their followers to utilise the materialistic and worldly provisions?
 5- Why did the prophets not utilise industrial and empirical knowledge
 when introducing their message?
 
-

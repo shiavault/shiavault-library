@@ -29,4 +29,3 @@ However, this was a perfect opportunity. So, he took advantage of it and
 he finally opened up. His child too, in return, did likewise in such a
 warm, sincere atmosphere for a heart-to-heart conversation.
 
-

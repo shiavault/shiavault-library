@@ -156,11 +156,7 @@ his demise through reports from Abul Hasan Saleh Ibn Shu’aib Taleqani.
 Taleqani reported this incident from Ahmed Ibn Ibrahim Mukhallad who
 heard Ali Ibn Muhammad Samari (r.a.) say,
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ عَلِىَّ بْنَ الْحُسَيْنِ بنِ مُوسىٰ بنِ بَابوَيه القمى
-  </p>
-</blockquote>
+> رَحِمَ اللهُ عَلِىَّ بْنَ الْحُسَيْنِ بنِ مُوسىٰ بنِ بَابوَيه القمى
 
 *‘May Allah have mercy upon Ali Ibn Husain Ibn Musa Ibn Babwayh
 Qummi.’*[^6]
@@ -180,26 +176,18 @@ the books of traditions. Prior to his death, Janab Ali bin Muhammad
 Samari (r.a.) was asked about his successor. In reply to this question,
 he placed the following letter before the people:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِىَّ بْنَ مُحَمَّدٍ السَّمرىّ، اَعْظَمَ اللهُ اَجْرَ
-اِخْوَانِكَ فِيْكَ فَاِنَّكَ مَيِّتٌ مَا بَيْنَكَ وَ بَيْنَ سِتَّةِ
-اَيَّامٍ، فَاجْمَعْ اَمْرَكَ وَلاَ تُوصِ اِلىٰ اَحَدٍ فَيَقُوْمَ
-مَقَامَكَ بَعْدَ وَفَاتِكَ فَقَدْ وَقَعَتِ الْغَيْبَةُ التَّامَّةُ
-فَلاَ ظُهُوْرَ اِلاَّ بَعْدَ اِذْنِ اللهِ تَعَالىٰ ذِكْرُهُ وَ ذَالِكَ
-بَعْدَ طُوْلِ الْاَمَدِ وَ قَسْوَةِ الْقُلُوْبِ وَامْتِلاَءِ الْاَرْضِ
-جَوْراً وَ سَيَأتِى شِيْعَتِىْ مَنْ يَدَّعِى الْمُشَاهَدَةَ اَلاَ
-فَمَنِ ادَّعىَ الْمُشَاهَدَةَ قَبْلَ خُرُوْجِ السُّفْيَانِىّ وَ
-الصَّيْحَةِ فَهُوَ كَذَّابٌ مُفْتَرٌ وَ لاَ حَوْلَ وَ لاَ قُوَّةَ
-اِلاَّ بِاللهِ الْعَلِىِّ الْعَظِيْمِ-
-  </p>
-</blockquote>
+> يَا عَلِىَّ بْنَ مُحَمَّدٍ السَّمرىّ، اَعْظَمَ اللهُ اَجْرَ
+> اِخْوَانِكَ فِيْكَ فَاِنَّكَ مَيِّتٌ مَا بَيْنَكَ وَ بَيْنَ سِتَّةِ
+> اَيَّامٍ، فَاجْمَعْ اَمْرَكَ وَلاَ تُوصِ اِلىٰ اَحَدٍ فَيَقُوْمَ
+> مَقَامَكَ بَعْدَ وَفَاتِكَ فَقَدْ وَقَعَتِ الْغَيْبَةُ التَّامَّةُ
+> فَلاَ ظُهُوْرَ اِلاَّ بَعْدَ اِذْنِ اللهِ تَعَالىٰ ذِكْرُهُ وَ ذَالِكَ
+> بَعْدَ طُوْلِ الْاَمَدِ وَ قَسْوَةِ الْقُلُوْبِ وَامْتِلاَءِ الْاَرْضِ
+> جَوْراً وَ سَيَأتِى شِيْعَتِىْ مَنْ يَدَّعِى الْمُشَاهَدَةَ اَلاَ
+> فَمَنِ ادَّعىَ الْمُشَاهَدَةَ قَبْلَ خُرُوْجِ السُّفْيَانِىّ وَ
+> الصَّيْحَةِ فَهُوَ كَذَّابٌ مُفْتَرٌ وَ لاَ حَوْلَ وَ لاَ قُوَّةَ
+> اِلاَّ بِاللهِ الْعَلِىِّ الْعَظِيْمِ-
 
 *‘O Ali Ibn Muhammad Samari! May Allah increase the reward of your
 brothers concerning you (i.e. your demise)! Death will come to you
@@ -222,19 +210,11 @@ contents of the letter and left. They returned on the sixth day and
 found Ali Ibn Muhammad Samari in a state of illness, grappling with
 death pangs. They enquired once again,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَصِيُّكَ مِنْ بَعْدِكَ؟
-  </p>
-</blockquote>
+> مَنْ وَصِيُّكَ مِنْ بَعْدِكَ؟
 
 ‘Who is your successor?’ He replied,
 
-<blockquote dir="rtl">
-  <p>
-لِلَّهِ اَمْرٌ هُوَ بَالِغُه
-  </p>
-</blockquote>
+> لِلَّهِ اَمْرٌ هُوَ بَالِغُه
 
 ‘To Allah belongs the affair (of succession), He will fulfill it.’
 
@@ -336,12 +316,8 @@ religious matters.”
 This viewpoint is endorsed by the famous tradition of Imam az-Zaman
 (a.t.f.s.) which is regularly quoted,
 
-<blockquote dir="rtl">
-  <p>
-اَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوْا فِيْهَا اِلٰى رُوَاةِ
-حَدِيْثِنَا فاِنَّهُمْ حُجَّتِىْ عَلَيْكُمْ وَ اَنا حُجَّةُ اللهِ
-  </p>
-</blockquote>
+> اَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوْا فِيْهَا اِلٰى رُوَاةِ
+> حَدِيْثِنَا فاِنَّهُمْ حُجَّتِىْ عَلَيْكُمْ وَ اَنا حُجَّةُ اللهِ
 
 *‘If any fresh incident occurs (in matters of religious issues), then
 refer them to the narrators of our traditions. For surely, they are my
@@ -388,12 +364,8 @@ Dajlah.
  For centuries, lovers of Imam az-Zaman (a.t.f.s.) have been visiting
 his grave and reciting salutations:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلاَم عَلَيكَ ياَ عَلىَّ بْنَ مُحَمَّدٍ اَشْهَدُ اَنَّكَ بَابُ
-الْمَوْلىٰ اَدَّيْتَ عَنْهُ وَ اَدَّيْتَ اِلَيْهِ
-  </p>
-</blockquote>
+> اَلسَّلاَم عَلَيكَ ياَ عَلىَّ بْنَ مُحَمَّدٍ اَشْهَدُ اَنَّكَ بَابُ
+> الْمَوْلىٰ اَدَّيْتَ عَنْهُ وَ اَدَّيْتَ اِلَيْهِ
 
 *‘Peace be upon you, O Ali Ibn Muhammad. I bear witness that you are the
 door to our Master (Imam (a.t.f.s.)). Certainly you fulfilled the trust
@@ -419,5 +391,4 @@ Shaikh at-at-Tusi (r.a.)
 [^7]: Bihar al-Anwar, vol. 53, p. 180 narrating from al-Ehtejaaj
 
 [^8]: Yaumul Khalaas (Persian tr.) vol.1, p. 303
-
 

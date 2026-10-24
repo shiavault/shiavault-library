@@ -245,4 +245,3 @@ both spiritually and physically. I started reading and gradually I felt
 better. I never ceased thinking of Sarah, who was not only a dear
 friend, but my whole life.
 
-

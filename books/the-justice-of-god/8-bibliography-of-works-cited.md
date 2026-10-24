@@ -62,4 +62,3 @@ wa'n‑Nihal.* Iran, 3rd edition, 1361 (solar) AH.
 Tabrasi, Abu Mansur Ahmad ibn 'Ali at‑ (d. 620/1223). *al‑Ihtijaj.* Ed.
 Muhammad Baqir al-Kharsan. Beirut: 1403 / 1983.
 
-

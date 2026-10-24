@@ -62,4 +62,3 @@ person, this money will be destroyed but that aspect of this money or in
 other words that aspect of this action which is “wajh Allah” will be
 preserved forever.
 
-

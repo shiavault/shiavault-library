@@ -1,11 +1,7 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بسمه تعالى
-  </p>
-</blockquote>
+> بسمه تعالى
 
 In His Name, the Most High
 
@@ -111,5 +107,4 @@ laws from the primary sources. (Tr.)
 [^3]: Friday Prayers (Tr.)
 
 [^4]: Congregational Prayers (Tr.)
-
 

@@ -1211,4 +1211,3 @@ is continuous ill omen. Besides, Hell was created on Wednesday.
 Likewise, he whoever applies cupping in a definite hour on Fridays will
 surely die.
 
-

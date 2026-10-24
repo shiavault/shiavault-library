@@ -81,12 +81,8 @@ Philosophy of Stay at Mash’ar
 
 Allah (swt) says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ
-الْمَشْعَرِ الْحَرَامِ
-  </p>
-</blockquote>
+> فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ
+> الْمَشْعَرِ الْحَرَامِ
 
 **[Shakir 2:198]** “So ***when you hasten on from "Arafat", then
 remember Allah near the Holy Monument.***
@@ -142,5 +138,4 @@ night and ends at sunrise.
 
 *Wuqf al-Iztiari* (Compulsory stay): On the Eid day between sunrise to
 sunset a short stay.
-
 

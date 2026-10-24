@@ -29,4 +29,3 @@ We belong to Allah and we shall come back to Him.
 Imam Husayn [a] came back to his camp. He was sad because he lost the
 closest and the most loyal companion.
 
-

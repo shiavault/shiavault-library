@@ -96,14 +96,10 @@ slave-girl got her freedom.”[^1]
 
 Allah’s Messenger has been reported by Imam al-Baqir (a.s) to say:
 
-<blockquote dir="rtl">
-  <p>
-خَمْسٌ لَسْتُ بِتَارِكِهِنَّ حَتَّى الْمَمَاتٍ: لِبَاسِي الصُّوفَ،
-وَرَكُوبِي الْحِمَارَ مُؤكِفَاً، وَأكْلِي مَعَ الْعَبِيدِ، وَخَصْفِي
-الْنَّعْلَ بالْيَدِ، وَتَسْلِيمِي عَلَى الصِّبْيَانِ سُنَّةَ مِنْ
-بَعْدِي.
-  </p>
-</blockquote>
+> خَمْسٌ لَسْتُ بِتَارِكِهِنَّ حَتَّى الْمَمَاتٍ: لِبَاسِي الصُّوفَ،
+> وَرَكُوبِي الْحِمَارَ مُؤكِفَاً، وَأكْلِي مَعَ الْعَبِيدِ، وَخَصْفِي
+> الْنَّعْلَ بالْيَدِ، وَتَسْلِيمِي عَلَى الصِّبْيَانِ سُنَّةَ مِنْ
+> بَعْدِي.
 
 I will not quit five habits until the moment of my death: wearing coarse
 clothes, riding a mule without packsaddle, eating with the slaves,
@@ -422,22 +418,14 @@ fell sick and was close to death.
 
 Based on the Quranic verse,
 
-<blockquote dir="rtl">
-  <p>
- يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ
-  </p>
-</blockquote>
+>  يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ
 
 ***He brings forth the living from the dead*** ***(6:95) -***
 
 his son, a true and pure-hearted youth, was favored by the Holy Prophet
 and Muslims. Based on the Quranic verse,
 
-<blockquote dir="rtl">
-  <p>
-..وَبِالْوَالِدَيْنِ إِحْسَانًا ..
-  </p>
-</blockquote>
+> ..وَبِالْوَالِدَيْنِ إِحْسَانًا ..
 
 ***And you shall do good to your parents*** ***(2:83) -***
 
@@ -526,11 +514,7 @@ intending to draw water but she could not. The Holy Prophet went near
 her saying, “O Old Lady! Would you permit me to draw water for you?” She
 said,
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أَحْسَنْتُمْ أَحْسَنْتُمْ لِأَنْفُسِكُمْ
-  </p>
-</blockquote>
+> إِنْ أَحْسَنْتُمْ أَحْسَنْتُمْ لِأَنْفُسِكُمْ
 
 ***“If you do good, you will do good for your own souls*** ***(17:7)”***
 
@@ -579,11 +563,7 @@ or heard here so that there will be no cause of annoyance between them.”
 
 It was after this event that the following verse was revealed,
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
 
 ***And most surely you conform yourself to sublime morality. (68:4)***
 
@@ -667,11 +647,7 @@ arrested, the Imam ordered a physical punishment. Nuaym said, “By Allah,
 to be with you is humiliation and separation from you is atheism!” The
 Imam said, “I pardon you. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ
-  </p>
-</blockquote>
+> ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ
 
 **“*****Repel evil by what is best*** **(23:96)”.**
 
@@ -820,12 +796,8 @@ way to those who had lost their way, helping those who were incapable,
 reciting the following Quranic verse to the shop-keepers while passing
 by them,
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
-عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
+> عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***As for that future abode, We assign it to those who have no desire to
 exalt themselves in the earth nor to make mischief and the good end is
@@ -939,12 +911,8 @@ and break their unity against you: Surely He is aware of what they do.”
 
 In response, Ali (a.s.) said, “As for our just acts, Allah says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۗ وَمَا
-رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۗ وَمَا
+> رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ
 
 ***Whoever does good, it is for his own soul, and whoever does evil, it
 is against it; and your Lord is not in the least unjust to the servants.
@@ -957,12 +925,8 @@ Day. They will be questioned whether they fought for the world or Allah!
 As for saying that we do not give to them from the public fund, we
 cannot give them more than what they deserve. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ
-ۗ وَاللَّهُ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ
+> ۗ وَاللَّهُ مَعَ الصَّابِرِينَ
 
 ***How often has a small party vanquished numerous hosts by Allah’s
 permission, and Allah is with the patient. (2:249).***
@@ -1018,13 +982,9 @@ four. He gave away one dirham for the sake of Allah by night and one
 dirham by day. He gave away the third dirham secretly and the fourth
 openly. The following holy verse was revealed on the same occasion,
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا
-وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ
-عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا
+> وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ
+> عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
 ***As for those who spend their property by night and by day, secretly
 and openly, they shall have their reward from their Lord and they shall
@@ -1035,15 +995,11 @@ have no fear, nor shall they grieve (2:74)***
 Ibn Abbas has commented on the above-mentioned story, saying about the
 following holy verse,
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ لِيَجْزِيَهُمُ اللَّهُ
-أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۗ وَاللَّهُ يَرْزُقُ
-مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ لِيَجْزِيَهُمُ اللَّهُ
+> أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۗ وَاللَّهُ يَرْزُقُ
+> مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ
 
 ***Men whom neither merchandise nor selling diverts from the remembrance
 of Allah and the keeping up of prayer and the giving of poor-rate; they
@@ -1116,11 +1072,7 @@ steaming. Fatimah brought that big bowl which was replete with food and
 placed it before her father and her husband. Ali asked. Where has this
 food come from? She said: From Allah’s Favor and Benevolence,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ
 
 ***Surely, Allah gives to whom He pleases without measure (3:37)***
 
@@ -1240,11 +1192,7 @@ killing Uthman. Haven’t you heard the words of the Holy Prophet saying:
 enmity to Ali. Were you not the first man who swore allegiance with me
 and breached your allegiance? Allah says:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ نَفْسِهِ ۖ
-  </p>
-</blockquote>
+> فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ نَفْسِهِ ۖ
 
 ***Whoever breaks his faith, he breaks it only to the injury of his own
 soul (48:10)***
@@ -1396,12 +1344,8 @@ recognized the Imam, he did not buy from him until he came to a young
 man. He bought a shirt for three dirhams; he put it on while praying as
 such to Allah,
 
-<blockquote dir="rtl">
-  <p>
-ألْحَمْدُ للَّهِ رَزَقِنِي مِنَ الرِّ يَاشِ مَا أتَجَمَّلُ بِهِ فِي
-الْنَّاسِ وَ أوَارِي بِهِ عَوْرَتِي.
-  </p>
-</blockquote>
+> ألْحَمْدُ للَّهِ رَزَقِنِي مِنَ الرِّ يَاشِ مَا أتَجَمَّلُ بِهِ فِي
+> الْنَّاسِ وَ أوَارِي بِهِ عَوْرَتِي.
 
 ***Praise be to Allah who provided me with a good garment to adorn
 myself and to cover my private parts with.***
@@ -1460,11 +1404,7 @@ cry. At this moment Ali said, “This is the iron bar blazed by the fire
 of the world. How will be our situation on the Judgment Day when we are
 fastened with the chains of Hell?” Then he recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-إِذِ الْأَغْلَالُ فِي أَعْنَاقِهِمْ وَالسَّلَاسِلُ يُسْحَبُونَ
-  </p>
-</blockquote>
+> إِذِ الْأَغْلَالُ فِي أَعْنَاقِهِمْ وَالسَّلَاسِلُ يُسْحَبُونَ
 
 ***When the fetters and the chains shall be on their necks; they shall
 be dragged (40:71)***
@@ -1503,11 +1443,7 @@ divided with each person having five hundred Dirhams as a share. Ali
 took the same amount of dirham for himself. Addressing the public fund,
 he said,
 
-<blockquote dir="rtl">
-  <p>
-غُرِّي غَيْرِي.
-  </p>
-</blockquote>
+> غُرِّي غَيْرِي.
 
 Deceive anyone but me.
 
@@ -1700,11 +1636,7 @@ As for model of behavior in history, we can say that this young woman
 who did not live more than eighteen years left behind such tradition of
 behavior about which Imam al-Mahdi has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِي إبْنَةِ رَسُول اللَّه ِ لِي أسْوَةٌ حَسَنَة.
-  </p>
-</blockquote>
+> وَ فِي إبْنَةِ رَسُول اللَّه ِ لِي أسْوَةٌ حَسَنَة.
 
 There is a model for me in the daughter of Allah’s Messenger. [^62]
 
@@ -1726,11 +1658,7 @@ Hereafter.” Fatimah answered, “I praise Allah for His blessings and
 thank Him for His favor.”[^63] At this time, the following verse was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ
-  </p>
-</blockquote>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ
 
 ***And soon will your Lord give you so that you shall be well pleased.
 (93:5)***
@@ -1816,13 +1744,9 @@ is in the neighborhood. O Bilal! Guide this man to there.” The old man
 went with Bilal. The old man stood near the door and in a loud voice and
 said,
 
-<blockquote dir="rtl">
-  <p>
-أسْلأمُ عَلَيْكُم عَلَيْكُم يَا أهْلَ بَيتِ النُّبُوَّةِ، وَ
-مُخْتَلَفِ الْمَلأئِكَةِ، وَ مَهْبِطِ جِبْرَءِيلَ الرُّوحِ اللأمِينِ
-بِاتَّنْزِيلِ مِنْ عِنْدِ رَبِّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> أسْلأمُ عَلَيْكُم عَلَيْكُم يَا أهْلَ بَيتِ النُّبُوَّةِ، وَ
+> مُخْتَلَفِ الْمَلأئِكَةِ، وَ مَهْبِطِ جِبْرَءِيلَ الرُّوحِ اللأمِينِ
+> بِاتَّنْزِيلِ مِنْ عِنْدِ رَبِّ الْعَالَمِينَ.
 
 Peace be upon you O Household of the Prophet! You are the seal of the
 Divine mission; unto you the angels turn from the presence of the Lord
@@ -2135,24 +2059,16 @@ On the day of Ashura (the tenth Muharram), Imam Husayn was told to
 submit to the rule of Yazid and pledge allegiance to him. The Imam
 replied:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهِ لأأعْطِيِكُم بِيَدِي إعْطَاءَ الذَّلِيلِ وَلا أفِرُ فَرَارَ
-الْبَعَبِيدِ.
-  </p>
-</blockquote>
+> وَاللَّهِ لأأعْطِيِكُم بِيَدِي إعْطَاءَ الذَّلِيلِ وَلا أفِرُ فَرَارَ
+> الْبَعَبِيدِ.
 
 By Allah! I will not put my hand in your hand like the abased people nor
 will I escape from the battlefield like slaves.
 
 Raising his voice, the Imam added:
 
-<blockquote dir="rtl">
-  <p>
-عِبَادَ اللَّهِ، إنِّي عُدْتُ بِرَبِّي وَرَبِّكُمْ مِنْ كُلِّ
-مُتَكَبِّرٍ لأ يُؤمِنُ بِيَوْمِ الْحسَابِ.
-  </p>
-</blockquote>
+> عِبَادَ اللَّهِ، إنِّي عُدْتُ بِرَبِّي وَرَبِّكُمْ مِنْ كُلِّ
+> مُتَكَبِّرٍ لأ يُؤمِنُ بِيَوْمِ الْحسَابِ.
 
 O servants of Allah! I seek refuge to my Lord and Your Lord from every
 arrogant person who does not believe in the Day of Reckoning.[^82]
@@ -2165,12 +2081,8 @@ entered the room presenting a bunch of basil as greeting. The Imam said,
 an inexpensive bunch of basil to you and you set her free!” The Imam
 said, “Allah has taught us courtesy as such when He has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَاۗ
-  </p>
-</blockquote>
+> وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
+> رُدُّوهَاۗ
 
 ***And when you are greeted with a greeting, greet with a better
 greeting than it or return it, surely Allah takes account of all things.
@@ -2208,11 +2120,7 @@ saying, “O Arab! Give the one thousand dinars to your creditors and
 leave the ring for living expenditures.” The Arab took them reading the
 holy verse,
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۗ
-  </p>
-</blockquote>
+> اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۗ
 
 ***Allah best knows where He places His message. (6:124)***[^83]
 
@@ -2226,12 +2134,8 @@ went back to his house. At this moment, the Imam said to his companions,
 hear my response.” The Imam put on his shoes and set out with his
 companions saying to himself,
 
-<blockquote dir="rtl">
-  <p>
-وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ
-يُحِبُّ الْمُحْسِنِينَ 
-  </p>
-</blockquote>
+> وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ
+> يُحِبُّ الْمُحْسِنِينَ
 
 ***…and those who restrain their anger and pardon men; and Allah loves
 the doers of the good. (3:134)***
@@ -2593,14 +2497,10 @@ went to the mosque to look for him. While all people had gone home, I
 found him alone in the mosque in prostration. I heard his lamentation,
 saying,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَكَ أللَّهُمَّ رَبِّ حَقاً حَقاً. سَجَدْتُ لَكَ يا رَبِّ
-تَعَبُّداً وَرِقاً. ألْلَّهُمَّ إنَّ عَمَلِي ضَعِيفٌ فِضَاعِفهُ لِي.
-أللَّهُمَ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ، وَتُبْ عَلَيَّ
-إنَّكَ التَّوَّابُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> سُبْحَانَكَ أللَّهُمَّ رَبِّ حَقاً حَقاً. سَجَدْتُ لَكَ يا رَبِّ
+> تَعَبُّداً وَرِقاً. ألْلَّهُمَّ إنَّ عَمَلِي ضَعِيفٌ فِضَاعِفهُ لِي.
+> أللَّهُمَ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ، وَتُبْ عَلَيَّ
+> إنَّكَ التَّوَّابُ الرَّحِيمُ.
 
 Glory be to You, O my Lord, with true glory! I am prostrating myself
 before You, O my God, worshipping and serving You! O Allah! My deed is
@@ -2815,12 +2715,8 @@ the Morning Prayer and then he was engaged in benedictions until dawn.
 He would fall in prostration without raising his head until noon. The
 Imam prayed a lot and repeated the following invocation:
 
-<blockquote dir="rtl">
-  <p>
-أللهُمَّ إنِّي أسْألُكَ الرَّاحَة عِنْدَ الْمَوْتِ والْعَفْوَعِنْدَ
-الْحِسَابِ.
-  </p>
-</blockquote>
+> أللهُمَّ إنِّي أسْألُكَ الرَّاحَة عِنْدَ الْمَوْتِ والْعَفْوَعِنْدَ
+> الْحِسَابِ.
 
 O Lord! I ask you ease at deathbed and forgiveness on the Day of
 Reckoning. The sin of Your servant is great but forgiveness is with You.
@@ -2892,13 +2788,9 @@ a big tray was brought before him and he would pick up from the best
 food which was on the table, put it on the big tray and sent it for the
 needy people. Then he recited the following verses,
 
-<blockquote dir="rtl">
-  <p>
-فَلَا اقْتَحَمَ الْعَقَبَةَ وَمَا أَدْرَاكَ مَا الْعَقَبَةُ  فَكُّ
-رَقَبَةٍ أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ يَتِيمًا ذَا
-مَقْرَبَةٍ أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
-  </p>
-</blockquote>
+> فَلَا اقْتَحَمَ الْعَقَبَةَ وَمَا أَدْرَاكَ مَا الْعَقَبَةُ  فَكُّ
+> رَقَبَةٍ أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ يَتِيمًا ذَا
+> مَقْرَبَةٍ أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
 
 ***But he would not attempt the uphill road. And what will make you
 comprehend what the uphill road is. (It is) the setting free of a slave;
@@ -3180,13 +3072,9 @@ asked, “Abu-Hashim! Which of the bounties of your Lord will you thank?”
 I could not speak nor did I know what answer to give to the Imam. He
 said,
 
-<blockquote dir="rtl">
-  <p>
-رَزَقَكَ الإيمَانَ فَحَرَّمَ بَدَنَكَ عَلَى النَّارِ. وَ رَزَقَكَ
-الْعَافِيَةَ فأعَانَكَ عَلَى الطَّاعَةِ. وَ رَزَقَكَ الْقُنُوعَ
-فَصَانَكَ عَنِ التَّبَدُّلِ.
-  </p>
-</blockquote>
+> رَزَقَكَ الإيمَانَ فَحَرَّمَ بَدَنَكَ عَلَى النَّارِ. وَ رَزَقَكَ
+> الْعَافِيَةَ فأعَانَكَ عَلَى الطَّاعَةِ. وَ رَزَقَكَ الْقُنُوعَ
+> فَصَانَكَ عَنِ التَّبَدُّلِ.
 
 “Allah has given you faith as sustenance hence made your body immune
 from hellfire. He has also given you good health hence helped you to
@@ -3317,19 +3205,15 @@ Babawayh of Qum, there is a letter in part of which special attention
 has been paid to him and to all Shiites, indicating that a true Shiite
 enjoys a high value for the infallible Imam. Parts of the letter read:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالصَّبْرِ وَانْتِظَارِ الْفَرَجِ. قَالَ النَّبِيُّ: أفْضَلُ
-الأعْمَالِ إنْتِظَارُ الْفَرَجِ. وَلأ يَزَالُ شِيعَتُنَا فِي حُزْنِ
-حَتَّى يَظْهَرَ وَلَدِي اَلَّذِي بَشَّرَ بِهِ الَّبِيُّ يَمْلأُ
-الأرْضَ قِسْطاً وَعَدْلاً كَمَا مُلِئَتْ جَوْراً وَ ظُلْماً. فَاصْبِرْ
-يَا شَيخِي يَا أبَا الْحَسَنِ عَلِيُّ، وَأمُرْ جَمِيعَ شِيعَتِي
-بِالصَّبْرِ، فَإنَّ الأرْضَ لِلَّهِ يُورثُهَا مَنْ يَشَاءُ مِنْ
-عِبَادِهِ، وَالْعَاقِبَةٌ لِلْمُتَّقِينَ، وَالسَّللأمُ عَلَيْكَ وَ
-عَلَى جَمِيع شِيعَتِنَا وَ رحْمَةٌ اللَّهِ وَبَرَكَاتُهُ، وَصَلَى
-اللَّه عَلَى مُحَمَّدٍ وَآلِه.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالصَّبْرِ وَانْتِظَارِ الْفَرَجِ. قَالَ النَّبِيُّ: أفْضَلُ
+> الأعْمَالِ إنْتِظَارُ الْفَرَجِ. وَلأ يَزَالُ شِيعَتُنَا فِي حُزْنِ
+> حَتَّى يَظْهَرَ وَلَدِي اَلَّذِي بَشَّرَ بِهِ الَّبِيُّ يَمْلأُ
+> الأرْضَ قِسْطاً وَعَدْلاً كَمَا مُلِئَتْ جَوْراً وَ ظُلْماً. فَاصْبِرْ
+> يَا شَيخِي يَا أبَا الْحَسَنِ عَلِيُّ، وَأمُرْ جَمِيعَ شِيعَتِي
+> بِالصَّبْرِ، فَإنَّ الأرْضَ لِلَّهِ يُورثُهَا مَنْ يَشَاءُ مِنْ
+> عِبَادِهِ، وَالْعَاقِبَةٌ لِلْمُتَّقِينَ، وَالسَّللأمُ عَلَيْكَ وَ
+> عَلَى جَمِيع شِيعَتِنَا وَ رحْمَةٌ اللَّهِ وَبَرَكَاتُهُ، وَصَلَى
+> اللَّه عَلَى مُحَمَّدٍ وَآلِه.
 
 You have the duty to be patient and await the reappearance of Imam
 al-Mahdi, for Allah’s Messenger has said: The best deed of my ummah is
@@ -3415,12 +3299,8 @@ replete with bloodshed and killing. In certain narrations, it has even
 been pointed out that Allah will remove love for the enemies from the
 heart of Imam al-Mahdi so much so that people will say,
 
-<blockquote dir="rtl">
-  <p>
-...لَيْسَ هَذَا مِنْ آلِ مُحَمَّدٍ، لَو كَانَ مِنْ آلِ مُحَمَّدٍ
-لِرَحِمَ!
-  </p>
-</blockquote>
+> ...لَيْسَ هَذَا مِنْ آلِ مُحَمَّدٍ، لَو كَانَ مِنْ آلِ مُحَمَّدٍ
+> لِرَحِمَ!
 
 This is not from the Household of Muhammad. Were he from the Household
 of Muhammad, he would have some mercy.[^154]
@@ -3429,12 +3309,8 @@ However, one must note that when Imam al-Mahdi reappears, the world will
 be in the enemies’ hand and they will strongly resist him. In this
 connection, Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ قَائِمَنَا إذَا قَامَ اسْتَقَبَلَ مِنْ جَهَلَةِ النَّاسِ أشَدَّ
-مِمَّا اسْتَقْبَلَهُ رَسُولُ اللَّهِ مِنْ جُهَّالِ الجَاهِلِيَّةِ.
-  </p>
-</blockquote>
+> إنَّ قَائِمَنَا إذَا قَامَ اسْتَقَبَلَ مِنْ جَهَلَةِ النَّاسِ أشَدَّ
+> مِمَّا اسْتَقْبَلَهُ رَسُولُ اللَّهِ مِنْ جُهَّالِ الجَاهِلِيَّةِ.
 
 When our Imam rises up, he will find people more ignorant than that of
 the time before Allah’s Messenger.
@@ -3450,13 +3326,9 @@ at large:
 
 Looking at Husayn, Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ ابْنِي هَذَا سَيِّدٌ كَمَا سَمَّاهُ رَسُولُ اللَّهِ سِّداً.
-وَسَيُخْرِجُ اللَّهُ مِنْ صُلْبِهِ رَجُلاً بِاسْمِ نَبِيِّكُم،
-يُشبْبِهُهُ فِي الْخَلْقِ وَالْخُلْقِ.
-  </p>
-</blockquote>
+> إنَّ ابْنِي هَذَا سَيِّدٌ كَمَا سَمَّاهُ رَسُولُ اللَّهِ سِّداً.
+> وَسَيُخْرِجُ اللَّهُ مِنْ صُلْبِهِ رَجُلاً بِاسْمِ نَبِيِّكُم،
+> يُشبْبِهُهُ فِي الْخَلْقِ وَالْخُلْقِ.
 
 This son of mine is a master as the Holy Prophet has called him a master
 and from his issue will come a man who has the same name as the
@@ -3466,22 +3338,14 @@ character.[^155]
 Abdullah ibn Ata reports: I asked Imam al-Sadiq about the character of
 Imam al-Mahdi, and the Imam said:
 
-<blockquote dir="rtl">
-  <p>
-يَصْنَعَ مَا صَنَعَ رَسُولُ اللَّهِ
-  </p>
-</blockquote>
+> يَصْنَعَ مَا صَنَعَ رَسُولُ اللَّهِ
 
 He will do what the Holy Prophet did.[^156]
 
 Quoting Allah’s Messenger, Ibn Abbas has reported:
 
-<blockquote dir="rtl">
-  <p>
-التَّاسِعُ مِنْهُمْ، قَائِمُ أهْلِ بَيْتتِي وَ مَهْدِيُّ أمَّتِي،
-أشْبِهُ النًّاسِ بِي فِي شَمَائِلِهِ وَ أقْوَالِهِ وَأفْعَالهِ.
-  </p>
-</blockquote>
+> التَّاسِعُ مِنْهُمْ، قَائِمُ أهْلِ بَيْتتِي وَ مَهْدِيُّ أمَّتِي،
+> أشْبِهُ النًّاسِ بِي فِي شَمَائِلِهِ وَ أقْوَالِهِ وَأفْعَالهِ.
 
 The ninth of them, the support of my Household and al-Mahdi of my ummah
 is the most similar to me in appearance, speech and deed.[^157]
@@ -3489,24 +3353,16 @@ is the most similar to me in appearance, speech and deed.[^157]
 Abu-Muhammad Hasan ibn Ali Askari (a.s) was quoted by Ahmad ibn Ishaq
 ibn Sa’d as saying:
 
-<blockquote dir="rtl">
-  <p>
-ألْحَمْدُ لِلًّهِ الَّذِي لَمْ يُخْرِ جْنِي مِنَ الدُّنْيَا حَتَّى
-أرَانِي اْلْخَلَفَ مِنْ بَعدي، أشْبَهَ النَّاسِ بِرَسُولِ اللَّهِ
-خَلْقاً وَ خُلْقا.ً
-  </p>
-</blockquote>
+> ألْحَمْدُ لِلًّهِ الَّذِي لَمْ يُخْرِ جْنِي مِنَ الدُّنْيَا حَتَّى
+> أرَانِي اْلْخَلَفَ مِنْ بَعدي، أشْبَهَ النَّاسِ بِرَسُولِ اللَّهِ
+> خَلْقاً وَ خُلْقا.ً
 
 I praise Allah that before I die He has shown me my successor who is the
 most similar to Allah’s Messenger in appearance, speech and deed.[^158]
 
 Quoting Qatadah, Kab al-Ahbar has reported:
 
-<blockquote dir="rtl">
-  <p>
-ألْمَهْدِيُّ خَيْرُ النَّاسِ...مَحْجُوبُ الْخَلأئِقِ.
-  </p>
-</blockquote>
+> ألْمَهْدِيُّ خَيْرُ النَّاسِ...مَحْجُوبُ الْخَلأئِقِ.
 
 Al-Mahdi is the best of the people… the most beloved of people.[^159]
 
@@ -3515,13 +3371,9 @@ Al-Mahdi is the best of the people… the most beloved of people.[^159]
 Ali ibn Musa al-Ridha (a.s) was asked, “O son of Allah’s Messenger! Who
 is the support of you Ahl al-Bayt?” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-الرَّابِعُ مِنْ وُلْدي ...يُطَهِّرُ اللَّهُ بِهِ الأرْضَ مِنْ كُلِّ
-جَوْرٍ... فَإذَا خَرَجَ أشْرَقَتِ الأرْضُ بِنُورِهِ، وَوُضِع مِيزَانُ
-الْعَدْلِ بَيْنَ النَّاسِ فَلأ يَظْلِمُ أحَدٌ أحَداً.
-  </p>
-</blockquote>
+> الرَّابِعُ مِنْ وُلْدي ...يُطَهِّرُ اللَّهُ بِهِ الأرْضَ مِنْ كُلِّ
+> جَوْرٍ... فَإذَا خَرَجَ أشْرَقَتِ الأرْضُ بِنُورِهِ، وَوُضِع مِيزَانُ
+> الْعَدْلِ بَيْنَ النَّاسِ فَلأ يَظْلِمُ أحَدٌ أحَداً.
 
 It is the fourth of my sons. Through him, Allah will remove injustice
 from the Earth. When he reappears, the earth will be illuminated with
@@ -3530,40 +3382,28 @@ that no one will do any injustice to others.[^160]
 
 Quoting his father, Ali ibn Aqabah has reported:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَامَ الْقَائِم،ُ حَكَمَ بِالْعَدْلِ وَارْتَفَعَ فِي أيَّامِهِ
-الْجُورْ...وَرَدَّ كُلَّ حَقٍّ إلَى أهْلِهِ.
-  </p>
-</blockquote>
+> إذَا قَامَ الْقَائِم،ُ حَكَمَ بِالْعَدْلِ وَارْتَفَعَ فِي أيَّامِهِ
+> الْجُورْ...وَرَدَّ كُلَّ حَقٍّ إلَى أهْلِهِ.
 
 When Al-Mahdi rises up, he will rule with justice; there will be no
 injustice in his time and he will restore justice to its owner.[^161]
 
 Quoting Allah’s Messenger, Imam Ali has expressly said:
 
-<blockquote dir="rtl">
-  <p>
-آخِرُهُمْ إسْمُهُ عَلَى اسْمِي. يَخْرُجُ فَيَمْلأُ الأرْضَ عَدْلاً
-كَمَ مُلِئَتْ جَوْراً وَظُلْما
-  </p>
-</blockquote>
+> آخِرُهُمْ إسْمُهُ عَلَى اسْمِي. يَخْرُجُ فَيَمْلأُ الأرْضَ عَدْلاً
+> كَمَ مُلِئَتْ جَوْراً وَظُلْما
 
 The last of them (i.e. the Imams) has my names. He will reappear and
 fill the earth with justice when it is replete with injustice.[^162]
 
 Quoting Allah’s Messenger, Imam Ali has reported:
 
-<blockquote dir="rtl">
-  <p>
-...وَمُنَادٍ يُنَادِي:هَذا الْمَهْدِيُّ خَلِيفَةٌ اللَّهِ
-فَاتَّبِعُوهُ. يَمْلأُ الأرْضَ قِسْطاً وَعَدْلاً كَمَا مُلِئَتْ جَوراً
-وَ ظُلْماً. وَذَلِكَ عِنْدَمَا يَصِيرُ الدُّنْيَا هَرَجاً وَ مَرَجاً،
-وَ يَغَارُ بَعْضُهُم عَلَى بَعْضِ؛ فَلأ الْكَبِيرُ يَرْحَمُ الصَّغِيرَ
-وَلأ القَوِيُ يَرْحَمُ الَّعِيفَ، فَحِينَئِذٍ يَأذَنُ اللَّهُ لَهُ
-بِالْخُرُوجِ.
-  </p>
-</blockquote>
+> ...وَمُنَادٍ يُنَادِي:هَذا الْمَهْدِيُّ خَلِيفَةٌ اللَّهِ
+> فَاتَّبِعُوهُ. يَمْلأُ الأرْضَ قِسْطاً وَعَدْلاً كَمَا مُلِئَتْ جَوراً
+> وَ ظُلْماً. وَذَلِكَ عِنْدَمَا يَصِيرُ الدُّنْيَا هَرَجاً وَ مَرَجاً،
+> وَ يَغَارُ بَعْضُهُم عَلَى بَعْضِ؛ فَلأ الْكَبِيرُ يَرْحَمُ الصَّغِيرَ
+> وَلأ القَوِيُ يَرْحَمُ الَّعِيفَ، فَحِينَئِذٍ يَأذَنُ اللَّهُ لَهُ
+> بِالْخُرُوجِ.
 
 The herald will call: This is al-Mahdi, Allah’s caliph. Follow him. He
 will make the earth replete with justice when it is filled with
@@ -3574,12 +3414,8 @@ kind to the weak. [^163]
 
 Imam al-Sadiq (a.s.) has reported:
 
-<blockquote dir="rtl">
-  <p>
-أوَّلُ مَا يُظْهِرُ الْقَائِمُ مِنَ الْعَدْلِ أنْ يُنَادِي مُنَادِيَهُ
-أنْ يُسَلِّمَ صَاحِبِ الْفَرِيضَةٍ الْحَجَرَ الأسْوَدَ وَ الطَّوَافَّ.
-  </p>
-</blockquote>
+> أوَّلُ مَا يُظْهِرُ الْقَائِمُ مِنَ الْعَدْلِ أنْ يُنَادِي مُنَادِيَهُ
+> أنْ يُسَلِّمَ صَاحِبِ الْفَرِيضَةٍ الْحَجَرَ الأسْوَدَ وَ الطَّوَافَّ.
 
 The first sign of al-Mahdi's justice is that a herald on his behalf will
 call: One who is performing minor Hajj should give his place to one on
@@ -3592,24 +3428,16 @@ earth replete with justice.
 
 Imam Ali (a.s.) has reported:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ قَدْ قَامَ قَائِمُنَا...لَذَهَبَتِ الشَّحْنَاءُ مِنْ قُلُوبِ
-الْعِبَادِ
-  </p>
-</blockquote>
+> وَلَوْ قَدْ قَامَ قَائِمُنَا...لَذَهَبَتِ الشَّحْنَاءُ مِنْ قُلُوبِ
+> الْعِبَادِ
 
 When our support rises up, enmity will leave the people’s hearts.[^165]
 
 Imam al-Baqir (a.s) has reported:
 
-<blockquote dir="rtl">
-  <p>
-فَيَبْعَثُ الثَّهلاثَمِائَةٍ وَالبِضْعَةَ رَجُلاً إلَى الآفَاقِ
-كُلِّهَا...حَتَّى تَخْرُجَ الْعَجُوزُ مِنْ الْمَشْرِقِ وَالْمَغْرِبَ
-فَلا يَنْهَاهَا أحَدٌ.
-  </p>
-</blockquote>
+> فَيَبْعَثُ الثَّهلاثَمِائَةٍ وَالبِضْعَةَ رَجُلاً إلَى الآفَاقِ
+> كُلِّهَا...حَتَّى تَخْرُجَ الْعَجُوزُ مِنْ الْمَشْرِقِ وَالْمَغْرِبَ
+> فَلا يَنْهَاهَا أحَدٌ.
 
 When three hundred and odd companions of the Imam rule across the world,
 a feeble old woman in the east will set off for the west in peace and
@@ -3617,11 +3445,7 @@ security.[^166]
 
 Quoting his father, Ali ibn Aqabah has reported:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَامَ الْقَائِمُ ... أُمِّنَتْ بِهِ السُّبُلُ
-  </p>
-</blockquote>
+> إذَا قَامَ الْقَائِمُ ... أُمِّنَتْ بِهِ السُّبُلُ
 
 Should the Rising Imam rise up, all roads will become safe.[^167]
 
@@ -3629,12 +3453,8 @@ Should the Rising Imam rise up, all roads will become safe.[^167]
 
 Imam al-Baqir (a.s.) has reported:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أدْرَكَ قَائِمِ أهْلِ بِيتِي مِنْ ذِي عَاهَةٍ بَرَأ وَمِنْ ذِي
-عَاهَةٍ وَمِنْ ذِي عَاهَةٍ بَرَأ وَمِنْ ذِي ضَعَفٍ قَوِيَ.
-  </p>
-</blockquote>
+> مَنْ أدْرَكَ قَائِمِ أهْلِ بِيتِي مِنْ ذِي عَاهَةٍ بَرَأ وَمِنْ ذِي
+> عَاهَةٍ وَمِنْ ذِي عَاهَةٍ بَرَأ وَمِنْ ذِي ضَعَفٍ قَوِيَ.
 
 Should those who have been hurt see the support of the Ahl al- Bayt,
 they will be relieved; and the feeble ones who see him will become
@@ -3642,13 +3462,9 @@ powerful.[^168]
 
 Imam al-Sadiq (a.s.) has reported:
 
-<blockquote dir="rtl">
-  <p>
-إنْ قَامَ قَائِمُنَا ...يَطْلُبُ الرَّجُلُ مِنْكُمْ مَنْ يَصِلُهُ
-بِمَالِهِ وَيَأخُذُ مِنْ زَكَاتِهِ فَلأ يُجَدُ أحَدٌ يَقبَلُ مِنْهُ
-ذَالِكَ. إسْتَغْنَى النَّاسُ بِمَا رَزَقَهُمُ اللَّهُ مِنْ فَضْلِهِ.
-  </p>
-</blockquote>
+> إنْ قَامَ قَائِمُنَا ...يَطْلُبُ الرَّجُلُ مِنْكُمْ مَنْ يَصِلُهُ
+> بِمَالِهِ وَيَأخُذُ مِنْ زَكَاتِهِ فَلأ يُجَدُ أحَدٌ يَقبَلُ مِنْهُ
+> ذَالِكَ. إسْتَغْنَى النَّاسُ بِمَا رَزَقَهُمُ اللَّهُ مِنْ فَضْلِهِ.
 
 Should our support (al-Mahdi) rise up, a man from among you will look
 for a needy person to help him and to take alms from what is incumbent
@@ -3658,11 +3474,7 @@ out of His grace.[^169]
 
 Quoting the Holy Prophet, Imam Ali has reported:
 
-<blockquote dir="rtl">
-  <p>
-يَاتِيهِ الرَّجُلُ وَالْمَالُ كُدْسٌ فَيَقُولُ؛ خُدْ.
-  </p>
-</blockquote>
+> يَاتِيهِ الرَّجُلُ وَالْمَالُ كُدْسٌ فَيَقُولُ؛ خُدْ.
 
 Everyone will go to him with wealth accumulated beside him and will ask
 al-Mahdi, “Grant something to me.” And he will say, “Take whatever you
@@ -3670,17 +3482,13 @@ wish.”[^170]
 
 Imam al-Baqir (a.s.) has reported:
 
-<blockquote dir="rtl">
-  <p>
-إذَا ظَهَرَ الْقَائِمُ...يُعْطِي النَّاسَ عَطَايَا مَرَّتَينِ فِي
-السَّنَةِ وَ يَرْزُقُهُمْ فِي الشَّهْرِ رِزْقُهُمْ فِي السَّنَةِ
-وَيَرِّزُقُهُمْ فِي الشَّهَرِ رِزْقَيْنِ وَيُسَوِّي بِيْنَ النَّاسِ
-حَتَى لأتَرى مُحْتَاجاً إلَى الزَّكَاةِ. وَ يَجِيءُ أصْحَابُ
-الزَّكَاةِ بِزَكَاتِهِم ْ إلَى الْمَحَاوِيجِ مِنْ شِيعَتِهِ فَلأ
-يَقْبَلُونَهَا . فَيُصِرُّونَهَا وَيَدُورُونَ فِي دُورِهِمْ
-فَيَخْرُجُونَ إلَيْهِمْ فَيَقُولُونَ: لأحَاجَةَ فِي دَرَاهِكُم!
-  </p>
-</blockquote>
+> إذَا ظَهَرَ الْقَائِمُ...يُعْطِي النَّاسَ عَطَايَا مَرَّتَينِ فِي
+> السَّنَةِ وَ يَرْزُقُهُمْ فِي الشَّهْرِ رِزْقُهُمْ فِي السَّنَةِ
+> وَيَرِّزُقُهُمْ فِي الشَّهَرِ رِزْقَيْنِ وَيُسَوِّي بِيْنَ النَّاسِ
+> حَتَى لأتَرى مُحْتَاجاً إلَى الزَّكَاةِ. وَ يَجِيءُ أصْحَابُ
+> الزَّكَاةِ بِزَكَاتِهِم ْ إلَى الْمَحَاوِيجِ مِنْ شِيعَتِهِ فَلأ
+> يَقْبَلُونَهَا . فَيُصِرُّونَهَا وَيَدُورُونَ فِي دُورِهِمْ
+> فَيَخْرُجُونَ إلَيْهِمْ فَيَقُولُونَ: لأحَاجَةَ فِي دَرَاهِكُم!
 
 When the Rising Imam reappears, he will give away to people twice a year
 and he will provide people with sustenance twice a month equally so that
@@ -3692,14 +3500,10 @@ in need of your money!
 
 Imam al-Baqir (a.s.) has further reported:
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْتَمِعُ إلَيْهِ أمْوَالُ أهْلُ الدُّنْيَا كُلِّهَا مِنْ بَطَنِ
-الأرضِ وَظَهْرِهَا، فَيُقَالُ لِلنَّاسِ: تَعَالَو إلَي مَا قَطَعْتُمْ
-فِيهِ الأرْحَامَ فِيهِ الدَّمَ الْحَرَامَ وَ رَكَبْتُمْ فِيهِ
-المَحَارِمِ، فَيُعْطِهِ أحَدٌ قَبْلَهُ.
-  </p>
-</blockquote>
+> وَيَجْتَمِعُ إلَيْهِ أمْوَالُ أهْلُ الدُّنْيَا كُلِّهَا مِنْ بَطَنِ
+> الأرضِ وَظَهْرِهَا، فَيُقَالُ لِلنَّاسِ: تَعَالَو إلَي مَا قَطَعْتُمْ
+> فِيهِ الأرْحَامَ فِيهِ الدَّمَ الْحَرَامَ وَ رَكَبْتُمْ فِيهِ
+> المَحَارِمِ، فَيُعْطِهِ أحَدٌ قَبْلَهُ.
 
 All the people’s wealth, both inside and outside the earth will be
 accumulated for al-Mahdi and then they will be said: Come to what for
@@ -3709,23 +3513,15 @@ that no one has ever awarded.
 
 The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-يَكُونُ فِي آخِرِ الزَّمَانِ خَلِفَةٌ يُعْطي الْمَالَ وَلا يَعِدُّه
-عَدّاً.
-  </p>
-</blockquote>
+> يَكُونُ فِي آخِرِ الزَّمَانِ خَلِفَةٌ يُعْطي الْمَالَ وَلا يَعِدُّه
+> عَدّاً.
 
 At the end of the world, there will be a caliph who will divide the
 wealth without counting them.[^171]
 
 Allah’s Messenger (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَ يَمْلأُ اللَّهُ قُلُوبَ أُمَّةِ مُحَمَّدٍ غَنِىً.
-  </p>
-</blockquote>
+> وَ يَمْلأُ اللَّهُ قُلُوبَ أُمَّةِ مُحَمَّدٍ غَنِىً.
 
 At the time of al-Mahdi, Allah will make the hearts of the community of
 Muhammad free from want.[^172]
@@ -3734,59 +3530,39 @@ Muhammad free from want.[^172]
 
 Imam Ali ibn Musa al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-(ألْمَهْدِيُّ) يَكُونُ رَحْمَةً لِلمؤْمِنِينَ وَعَذَاباً عَلَى
-الْكَافِفرِينَ.
-  </p>
-</blockquote>
+> (ألْمَهْدِيُّ) يَكُونُ رَحْمَةً لِلمؤْمِنِينَ وَعَذَاباً عَلَى
+> الْكَافِفرِينَ.
 
 Al-Mahdi is a source of mercy for believers and punishment for the
 unbelievers.[^173]
 
 Imam Ali ibn Husayn Zayn al-Abidin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَامَ قَائِمُنَا أذْهَبَ اللَّهُ عَنْ شِيعَتِنَا الْعَهَةَ.
-  </p>
-</blockquote>
+> إذَا قَامَ قَائِمُنَا أذْهَبَ اللَّهُ عَنْ شِيعَتِنَا الْعَهَةَ.
 
 When the Rising Imam rises up, Allah will remove all harms from the
 Shiites.[^174]
 
 Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-(نْ قَامَ قَائِمُونَا) يُوسَعُ اللَّهُ عَلَى شِيعَتِنَا، وَلَو لأ مَا
-يُدْرِكُهُمْ مِنَ السَعَادَةِ لَبَغَوْا.
-  </p>
-</blockquote>
+> (نْ قَامَ قَائِمُونَا) يُوسَعُ اللَّهُ عَلَى شِيعَتِنَا، وَلَو لأ مَا
+> يُدْرِكُهُمْ مِنَ السَعَادَةِ لَبَغَوْا.
 
 At the time of al-Mahdi, Allah will improve the situation of the
 Shiites, for if they are not happy, they will rebel.[^175]
 
 Imam Ali ibn al-Husayn (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَامَ الْقَائِمُ أذْهَبَ اللَّهُ عَنْ كُلِّ مُؤْمِنٍ الْعَاهَةَ
-وَ رَدَّ إلَيهِ قُوَّتَهُ.
-  </p>
-</blockquote>
+> إذَا قَامَ الْقَائِمُ أذْهَبَ اللَّهُ عَنْ كُلِّ مُؤْمِنٍ الْعَاهَةَ
+> وَ رَدَّ إلَيهِ قُوَّتَهُ.
 
 When our support rises up, he will remove harms from believers and
 restore them their power.[^176]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَامَ الْقَائِمُ جَاءَتِ الْمُزَامَلْةٌ؛ وَ يَأتِي الرَّجُلُ إلَى
-كِيسِ أخِيهِ فَيَأخُذُ حَاجَتَهُ لأيَمْنَعُهُ.
-  </p>
-</blockquote>
+> إذَا قَامَ الْقَائِمُ جَاءَتِ الْمُزَامَلْةٌ؛ وَ يَأتِي الرَّجُلُ إلَى
+> كِيسِ أخِيهِ فَيَأخُذُ حَاجَتَهُ لأيَمْنَعُهُ.
 
 When our support rises up, the era of concord will come about and every
 person takes what he needs from the purse of his brother without being
@@ -3794,14 +3570,10 @@ prevented.[^177]
 
 Imam al-Sadiq (a.s.) has also said:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا أسْرِي بِي أوْحَى إلَيِ رَبِّي...وَ بِهِ (الْمَهْدِيِّ)
-أنْتَقِمُ مِنْ أعْدَائِ وَهُوَ رَاحَةٌ لأِوْلِيَائ، وَهُوَ الَّذِي
-يَشْفِي قُلُوبَ شِيعَتِك مِنَ الظَّالِمِينَ وَالْجَاحِدِينَ
-وَالكَافِرِينَ.
-  </p>
-</blockquote>
+> لَمَّا أسْرِي بِي أوْحَى إلَيِ رَبِّي...وَ بِهِ (الْمَهْدِيِّ)
+> أنْتَقِمُ مِنْ أعْدَائِ وَهُوَ رَاحَةٌ لأِوْلِيَائ، وَهُوَ الَّذِي
+> يَشْفِي قُلُوبَ شِيعَتِك مِنَ الظَّالِمِينَ وَالْجَاحِدِينَ
+> وَالكَافِرِينَ.
 
 During the Night of Ascension, Allah said to Holy Prophet (S) about
 al-Mahdi: I will take revenge from enemies through him. He is the source
@@ -3812,25 +3584,17 @@ from experiencing of revenge of oppressors and unbelievers.[^178]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَامَ قَائِمُنَ وَضَعَ يَدَهُ عَلَي رُؤوسِ الْعِبَادِ، فَجَمَعَ
-بِهِ عُقُولَهُمْ، وَأكْمَلَ بِهِ أخْلأقَهُمْ.
-  </p>
-</blockquote>
+> إذَا قَامَ قَائِمُنَ وَضَعَ يَدَهُ عَلَي رُؤوسِ الْعِبَادِ، فَجَمَعَ
+> بِهِ عُقُولَهُمْ، وَأكْمَلَ بِهِ أخْلأقَهُمْ.
 
 When our support rises up, he puts his hand on the heads of the servants
 whereby he promotes their wisdom and morality.[^179]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَائِمَنَا إذَا قَامَ مَدَّ اللَّهُ لِشِيعَتِنَا فِي أسْمَاعِهِمْ
-وَأبْصَارِهِمْ حَتَّي لأيَكُونَ بَيْنَهُمْ وَبَينَ الْقَائِمِ بَرِيدٌ؛
-يُكَلِّمُهُمْ فَيَسْمَعُونَ وَ يَنْظُرُونَ إلَيْهِ.
-  </p>
-</blockquote>
+> إذَا قَائِمَنَا إذَا قَامَ مَدَّ اللَّهُ لِشِيعَتِنَا فِي أسْمَاعِهِمْ
+> وَأبْصَارِهِمْ حَتَّي لأيَكُونَ بَيْنَهُمْ وَبَينَ الْقَائِمِ بَرِيدٌ؛
+> يُكَلِّمُهُمْ فَيَسْمَعُونَ وَ يَنْظُرُونَ إلَيْهِ.
 
 When our support rises up, Allah will strengthen the Shiites’ vision and
 hearing where by there is no need for a link between them and the
@@ -3839,15 +3603,11 @@ him.[^180]
 
 Imam al-Sadiq (a.s.) has also said:
 
-<blockquote dir="rtl">
-  <p>
-ألْعِلْمُ سَبْعَةَ وَ عِشْرُونَ حَرْفاً. فَجَمِيعُ مَا جأءَتْ بِهِ
-الرُّسُلُ حَرْفَانِ. فَلَمْ يَعْرِفِرالنَّاسُ حَتَى الْيَوْمَ غَيْرَ
-الْحَرْفَينِ فَإذَارقَامَ قَائِمُنَا أخْرَجَ الْخَمَسَةَ
-وَالْعِشْرِينَ حَرْفاً فَبَثَهَا فِي النَّاسِ وَ ضَمَّ إلَيهَا
-الْحَرْفَيْنِ حَتَّى يَبُثَّهَا سَبْعَةَ وَ عِشْرِينَ حَرْفاً.
-  </p>
-</blockquote>
+> ألْعِلْمُ سَبْعَةَ وَ عِشْرُونَ حَرْفاً. فَجَمِيعُ مَا جأءَتْ بِهِ
+> الرُّسُلُ حَرْفَانِ. فَلَمْ يَعْرِفِرالنَّاسُ حَتَى الْيَوْمَ غَيْرَ
+> الْحَرْفَينِ فَإذَارقَامَ قَائِمُنَا أخْرَجَ الْخَمَسَةَ
+> وَالْعِشْرِينَ حَرْفاً فَبَثَهَا فِي النَّاسِ وَ ضَمَّ إلَيهَا
+> الْحَرْفَيْنِ حَتَّى يَبُثَّهَا سَبْعَةَ وَ عِشْرِينَ حَرْفاً.
 
 Knowledge has twenty-seven parts. What the prophets have brought are two
 parts and people do not know more than these two parts to date. When our
@@ -3859,14 +3619,10 @@ all together.[^181]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ دَوْلَتَنَا آخِرُ الدَّولِ. وَلَمْ يَبْقَ أهْلُ بَيتٍ لَهُم
-دَوْلَةٌ لأ مَلَكوا إلأ مَلَكُوا قَبْلَنَا، لِئَلأ يَقُولُوا إذَا
-رَأوا وَالْعَاقِبَةُ لِلْمُتَّقِين سِيرَتَنَا: إذَا مَلَكْنَا
-سِرْنَالابِمِثْلِ سِيرَةِ هَئُلأءِ! وَهُوَا قَوْلُ اللَّهِ تَعَالَى:
-  </p>
-</blockquote>
+> إنَّ دَوْلَتَنَا آخِرُ الدَّولِ. وَلَمْ يَبْقَ أهْلُ بَيتٍ لَهُم
+> دَوْلَةٌ لأ مَلَكوا إلأ مَلَكُوا قَبْلَنَا، لِئَلأ يَقُولُوا إذَا
+> رَأوا وَالْعَاقِبَةُ لِلْمُتَّقِين سِيرَتَنَا: إذَا مَلَكْنَا
+> سِرْنَالابِمِثْلِ سِيرَةِ هَئُلأءِ! وَهُوَا قَوْلُ اللَّهِ تَعَالَى:
 
 Our rule is the last one. No dynasty will come after our rule lest they
 will say if the rule were ours we would act like them. This is the
@@ -3880,13 +3636,9 @@ Imam al-Sadiq (a.s.) has said:
 
 Should you survive as to see him, when you look at him, say:
 
-<blockquote dir="rtl">
-  <p>
-أسَّلأمُ عَلَيْكُمْ أهْلَ بَيْتِ الرَّحْمَةِ وَنُّبُوَّةِ وَمَعْدِنَ
-الْعِلْمِ وَمَوضِعِ الِّسَالَةِ السَّلأمُ عَلَيكَ يَا بَقِّيَّةَ
-اللَّهِ فِي أرْضِهِ.
-  </p>
-</blockquote>
+> أسَّلأمُ عَلَيْكُمْ أهْلَ بَيْتِ الرَّحْمَةِ وَنُّبُوَّةِ وَمَعْدِنَ
+> الْعِلْمِ وَمَوضِعِ الِّسَالَةِ السَّلأمُ عَلَيكَ يَا بَقِّيَّةَ
+> اللَّهِ فِي أرْضِهِ.
 
 Peace be upon you, O people of the House of the Prophet and of Mercy,
 source of knowledge, and seat of Divine Mission. Peace be upon you, O
@@ -3900,11 +3652,7 @@ inherent feature of Ahl al-Bayt (a.s.). It can be seen in the life of
 each of them so much so that they helped both those who were and those
 who were not entitled to it. The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّا لَنُعطِي َيْرَ الْمُسْتَحِقِّ حَذَراً مِنْ رَدٍرالْمُسْتَحِقِّ.
-  </p>
-</blockquote>
+> إنَّا لَنُعطِي َيْرَ الْمُسْتَحِقِّ حَذَراً مِنْ رَدٍرالْمُسْتَحِقِّ.
 
 We give away to all out of fear of rejecting a needy person.[^183]
 
@@ -3913,12 +3661,8 @@ his slave-girl, “Feed any needy person who passes by my house.” At this
 time, I said to the Imam, “But everyone who wants something and
 stretches out his hand is not needy.” The Imam said,
 
-<blockquote dir="rtl">
-  <p>
-أخَافُ أنْ يَكُونَ بَعْضُ مَنْ يَسْألُنَا مُحِقاً فَلا نُطْعِمُهُ،
-وَنَرُدُّهُ، فَيَنْزِلُ بِنَا أهْلَ البَيْتِ مَا نَزَلَ بِيَعْقُوبَ.
-  </p>
-</blockquote>
+> أخَافُ أنْ يَكُونَ بَعْضُ مَنْ يَسْألُنَا مُحِقاً فَلا نُطْعِمُهُ،
+> وَنَرُدُّهُ، فَيَنْزِلُ بِنَا أهْلَ البَيْتِ مَا نَزَلَ بِيَعْقُوبَ.
 
 “I fear to reject the one who asks for help as a needy and we fail to
 feed him. Then it may happen to us Ahl al-Bayt, what had happened to
@@ -3929,12 +3673,8 @@ whatever they had in the way of Allah.
 
 Imam al-Sadiq (a.s.) has said,
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْحَسَنَ بْنَ عَلِيٍّ قَاسَمَ رَبَّهُ ثلأثَ مَرَّاتٍ حَتَّى
-نَعْلاً وَنَعْلاً وَثَوْباً وَ ثَوباً وَدِينَاراً وَدِينَاراً.
-  </p>
-</blockquote>
+> إنَّ الْحَسَنَ بْنَ عَلِيٍّ قَاسَمَ رَبَّهُ ثلأثَ مَرَّاتٍ حَتَّى
+> نَعْلاً وَنَعْلاً وَثَوْباً وَ ثَوباً وَدِينَاراً وَدِينَاراً.
 
 “Hasan ibn Ali gave away his shoes, garments and dinars in the way of
 Allah.”[^185]
@@ -4018,12 +3758,8 @@ all the legal procedures.[^187]
 Forgiving offences and ignoring unkindness of others was an act of
 manliness for the Ahl al-Bayt. Allah’s Messenger has said:
 
-<blockquote dir="rtl">
-  <p>
-مُرُوءَتُنَا أهلَ الْبَيتِ الْعَفْوُ عَمَّنْ ظَلَمَنَا وَإعْطَاءُ مَنْ
-حَرَمَنَا.
-  </p>
-</blockquote>
+> مُرُوءَتُنَا أهلَ الْبَيتِ الْعَفْوُ عَمَّنْ ظَلَمَنَا وَإعْطَاءُ مَنْ
+> حَرَمَنَا.
 
 The manliness of us, Ahl al-Bayt, means to forgive one who has done
 injustice to us and to give to one who has withheld from us.
@@ -4076,11 +3812,7 @@ Ibn Masud reports: A person came to the presence of Allah’s Messenger
 and when he started to speak, he was trembling. The Holy Prophet (S)
 said,
 
-<blockquote dir="rtl">
-  <p>
-هَوِّنْ عَلَيْكَ! فَلَسْتُ بِمَلِكٍ.
-  </p>
-</blockquote>
+> هَوِّنْ عَلَيْكَ! فَلَسْتُ بِمَلِكٍ.
 
 “Calm down; I am not a king.”[^192]
 
@@ -4088,11 +3820,7 @@ Another person reports: A group of people and I went to the presence of
 the Holy Prophet (S) and said, “You are our master.” The Holy Prophet
 said,
 
-<blockquote dir="rtl">
-  <p>
-السَّيِّدُ اللَّهُ تَبَارَكَ وَ تَعَالى.
-  </p>
-</blockquote>
+> السَّيِّدُ اللَّهُ تَبَارَكَ وَ تَعَالى.
 
 “Allah, the Blessed and Exalted, is the Master.”[^193]
 
@@ -4100,11 +3828,7 @@ Abu-Basir reports: Imam al-Sadiq went to the public bath whose owner
 said, “Let me evacuate the public bath for you!” Imam al-Sadiq (a.s.)
 said,
 
-<blockquote dir="rtl">
-  <p>
-لأ حَاجَةَ لِي فِي ذَالِكَ. ألْمُؤمِنُ أخَفُّ مِنْ ذَالِكَ.
-  </p>
-</blockquote>
+> لأ حَاجَةَ لِي فِي ذَالِكَ. ألْمُؤمِنُ أخَفُّ مِنْ ذَالِكَ.
 
 “No, it is not necessary. The pious believer does not bother for those
 things.”[^194]
@@ -4125,24 +3849,16 @@ Day because of their in-depth insight into the truth of universe. Hence,
 all should be aware that to take lead ahead of them will cause perdition
 and to ignore them will cause bewilderment. The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-فَلأ تَسْبِقُوهُمْ فَتَهْلِكُو، وَلأ تُعَلَّمُوهُمْ فَهُمْ أعْلَمُ
-مِنْكُمْ.
-  </p>
-</blockquote>
+> فَلأ تَسْبِقُوهُمْ فَتَهْلِكُو، وَلأ تُعَلَّمُوهُمْ فَهُمْ أعْلَمُ
+> مِنْكُمْ.
 
 Do not take lead ahead of my Ahl al-Bayt, for you will come to perdition
 nor do your teach them, for they are more knowledgeable than you.[^196]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-فإنَّهُمْ أحْلَمُكُمْ صِغَاراً وَ أعْلَمَكُمْ كِبَاراً.
-لأيُدْخِلُونَكُمْ فِي ضَلألَةٍ وَلأ يُخْرِجُونَكُمْ مِنْ هُدىً.
-  </p>
-</blockquote>
+> فإنَّهُمْ أحْلَمُكُمْ صِغَاراً وَ أعْلَمَكُمْ كِبَاراً.
+> لأيُدْخِلُونَكُمْ فِي ضَلألَةٍ وَلأ يُخْرِجُونَكُمْ مِنْ هُدىً.
 
 Be aware that Ahl al-Bayt are the wisest in childhood and the most
 knowledgeable in their maturity. They will never misguide you nor will
@@ -4150,34 +3866,22 @@ they take you out of true guidance.[^197]
 
 Imam al-Baqir (a.s.) said to Salamah ibn Kuhayl and Hakam ibn Utaybah:
 
-<blockquote dir="rtl">
-  <p>
-شَرِّقَا وَ غَرِّبَا، فَلأ تَجِدَانِ عِلْماً صَحِيحاً إلأ شَيْئاً
-خَرَجَ مِنْ عِنْدِنَا أهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> شَرِّقَا وَ غَرِّبَا، فَلأ تَجِدَانِ عِلْماً صَحِيحاً إلأ شَيْئاً
+> خَرَجَ مِنْ عِنْدِنَا أهْلَ الْبَيْتِ.
 
 You will never attain sound knowledge neither in the east nor in the
 west but with us, Ahl al-Bayt. [^198]
 
 The Imam has also said:
 
-<blockquote dir="rtl">
-  <p>
-نَحُنْ خزَّانُ عِلْمِ اللَّهِ.
-  </p>
-</blockquote>
+> نَحُنْ خزَّانُ عِلْمِ اللَّهِ.
 
 We, the Ahl al-Bayt, are treasures of Divine knowledge.[^199]
 
 Imam Husayn has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا نَدْرِي مَا يَنْقِمُ النَّاسُ مِنَّا! إنَّا لَبَيْتُ الرَّحْمَةِ
-وَ شَجَرَةُ النُّبُوَّةِ وَ مَعْدِنُ الْعِلْمِ.
-  </p>
-</blockquote>
+> مَا نَدْرِي مَا يَنْقِمُ النَّاسُ مِنَّا! إنَّا لَبَيْتُ الرَّحْمَةِ
+> وَ شَجَرَةُ النُّبُوَّةِ وَ مَعْدِنُ الْعِلْمِ.
 
 We do not know why people harbor enmity against us while we are from the
 House of mercy, the tree of Prophethood and the source of
@@ -4187,13 +3891,9 @@ Imam al-Sadiq (a.s.) reports: When it was noontime, Ali ibn Husayn
 performed his prayer and then was engaged in invocations and greeted the
 Holy Prophet (S) and Ahl al-Bayt (a.s.) as follows:
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ آلِ مُحَمَّدٍ:
-شَجَرَةِ النُبُوَّةِ وَ مَوْضِعِ الرِّسَالَةِ وَمُخْتَلَفِ
-الْمَلأئِكَةِ وَ مَعْدِنِ الْعِلْمِ وَأهْلِ بَيْتِ الْوَحْيِ.
-  </p>
-</blockquote>
+> أللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ آلِ مُحَمَّدٍ:
+> شَجَرَةِ النُبُوَّةِ وَ مَوْضِعِ الرِّسَالَةِ وَمُخْتَلَفِ
+> الْمَلأئِكَةِ وَ مَعْدِنِ الْعِلْمِ وَأهْلِ بَيْتِ الْوَحْيِ.
 
 O Allah; Send greetings on Muhammad and on the descendents of Muhammad,
 the evergreen tree of Prophethood, the destination of the Divine
@@ -4215,12 +3915,8 @@ narratives on the culture of Ahl al-Bayt, the practice of which will
 ensure good life in this world and the hereafter, as well as Allahss
 pleasure and the eternal Paradise. The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا خُلِقْتُمَ لِلْفَنَاءِ، بَلْ خُلِقْتُمْ لِلْبَقَاءِ. وَإنَّمَا
-تُنْقَلُونَ مِنْ دَارِ.
-  </p>
-</blockquote>
+> مَا خُلِقْتُمَ لِلْفَنَاءِ، بَلْ خُلِقْتُمْ لِلْبَقَاءِ. وَإنَّمَا
+> تُنْقَلُونَ مِنْ دَارِ.
 
 You were not born for extinction, rather for survival. With death, you
 are only displaced; that is you are transferred from one house to
@@ -4228,34 +3924,22 @@ another house.[^201]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أخْوَفَ مَا أخَافُ عَلَى أمَّتِي الْهَوَى وَطُولُ الأمَلِ.
-  </p>
-</blockquote>
+> إنَّ أخْوَفَ مَا أخَافُ عَلَى أمَّتِي الْهَوَى وَطُولُ الأمَلِ.
 
 I fear two things for my ummah: carnal and far-away desires.[^202]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-عِزُّ الْمُؤْمِنِ اسْتِغْنَاؤُهُ عَنِ النَّاسِ، وَفِي الْقِنَاعَةِ
-الْحُرِّيَةٌ وَالْعِزُّ.
-  </p>
-</blockquote>
+> عِزُّ الْمُؤْمِنِ اسْتِغْنَاؤُهُ عَنِ النَّاسِ، وَفِي الْقِنَاعَةِ
+> الْحُرِّيَةٌ وَالْعِزُّ.
 
 A believer’s honor lies in his independence from people and his freedom
 and honor lie in contentment.[^203]
 
 Imam Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-الْمَرْءُ يُوزَنُ بِقَولِهِ وَيُقَوَّمُ بِفِعْلِهِ؛فَقُلْ مَا تَرْجَحُ
-زِنَتُهُ، وَافْعَلْ مَا تَجِلُّ قِيمَتُهُ.
-  </p>
-</blockquote>
+> الْمَرْءُ يُوزَنُ بِقَولِهِ وَيُقَوَّمُ بِفِعْلِهِ؛فَقُلْ مَا تَرْجَحُ
+> زِنَتُهُ، وَافْعَلْ مَا تَجِلُّ قِيمَتُهُ.
 
 Man is evaluated by his words and assessed by his deeds. Therefore, say
 what makes your words weighty and act in such away that makes your
@@ -4263,26 +3947,18 @@ behavior valuable.[^204]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-تَحَلَّوا بالأخْذِ بالْفَضْلِ وَالْكَفِّ عَنِ الْبَغْيِ وَالعَمَلِ
-بالْحَقِّ وَالإنْصَافِ مِنَ النَّفْسِ.
-  </p>
-</blockquote>
+> تَحَلَّوا بالأخْذِ بالْفَضْلِ وَالْكَفِّ عَنِ الْبَغْيِ وَالعَمَلِ
+> بالْحَقِّ وَالإنْصَافِ مِنَ النَّفْسِ.
 
 Adorn yourself with moral virtues and avoid tyranny. Behave justly and
 be fair to all.
 
 He further says:
 
-<blockquote dir="rtl">
-  <p>
-يَنْبَغِي لِلْعَاقِلِ أنْ يَحْتَرِسَ مِنْ سُكْرِ المَالِ وَسُكْرِ
-الْقُدْرَةِ وَسُكْرِ الْعِلْمِ وَسُكْرِ المَدْحِ وَسُكْرِ الشَّبَابِ؛
-فَإنَّ لِكُلِّ ذَلِكَ رِيَاحاً خَبِيثَةَ تَسْلُبُ الْعَقْلَ وَ
-تَسْتَخِفُّ الوَقَارَ.
-  </p>
-</blockquote>
+> يَنْبَغِي لِلْعَاقِلِ أنْ يَحْتَرِسَ مِنْ سُكْرِ المَالِ وَسُكْرِ
+> الْقُدْرَةِ وَسُكْرِ الْعِلْمِ وَسُكْرِ المَدْحِ وَسُكْرِ الشَّبَابِ؛
+> فَإنَّ لِكُلِّ ذَلِكَ رِيَاحاً خَبِيثَةَ تَسْلُبُ الْعَقْلَ وَ
+> تَسْتَخِفُّ الوَقَارَ.
 
 Man should preserve himself from being intoxicated with wealth, power,
 knowledge, praise, flattery and youth, for each of these intoxications
@@ -4291,13 +3967,9 @@ dignity.[^205]
 
 Lady Fatimah (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي أحِبُّ مِنْ دُنْيَاكُمْ ثَلأثاً: الإنْفَاقَ فِي سَبِيلِ اللَّهِ،
-وَتِلأوَةَ كِتَابِ اللَّهِ، وَالنَّظَرَ إلَى وَجْهِ أبِي رَسُولِ
-اللَّهِ.
-  </p>
-</blockquote>
+> إنِّي أحِبُّ مِنْ دُنْيَاكُمْ ثَلأثاً: الإنْفَاقَ فِي سَبِيلِ اللَّهِ،
+> وَتِلأوَةَ كِتَابِ اللَّهِ، وَالنَّظَرَ إلَى وَجْهِ أبِي رَسُولِ
+> اللَّهِ.
 
 I love three things of your world: giving away in the way of Allah,
 reciting the Book of Allah, and looking at the face of my father -
@@ -4305,11 +3977,7 @@ Allah’s Messenger.[^206]
 
 Imam Hasan (a.s.) was asked the meaning of magnanimity; he replied:
 
-<blockquote dir="rtl">
-  <p>
-شُحُّ الرَّجُلِ عَلَى دِينِهِ، وَ إصْلأحُهُ، وَقِيَامُهُ بالْحُقُوقِ.
-  </p>
-</blockquote>
+> شُحُّ الرَّجُلِ عَلَى دِينِهِ، وَ إصْلأحُهُ، وَقِيَامُهُ بالْحُقُوقِ.
 
 Zeal for faith, rectification of wealth, observation of Allah's and
 people's rights, as well as manliness and fairness.[^207]
@@ -4317,17 +3985,13 @@ people's rights, as well as manliness and fairness.[^207]
 Addressing Imam Husayn (a.s.), a man said, “I am a sinner. I cannot
 refrain from committing sin. Give me an advice.” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-إفْعَلْ خَمْسَة أشْيَاءَ وَأذْنِبْ مَا شِءتَ. فأوَّلُ ذَلِكَ: لأ
-تَأكُلْ رِذْقِ اللَّهِ وَأذنِبْ مَا شِئْتَ. وَالثَانِي: أخْرُجْ مِنْ
-وِلأيَةِ اللَّهِ وأذْنِبْ مَا شِئْتَ. وَالثَلِثُ: أطْلُبْ مَوْضِعاً
-لأيَرَاكَ اللهُ وَأذْنِبْ مَا شِئتَ. وَالرَّابِعُ: إذَا جَاءَ مَلَكُ
-لِيَقْبِضَ رُوحَكَ فَادْفَعْهُ عَنْ نَفْسِكَ وَأذْنِبْ مَا شِئْتَ.
-وَالْخَامِسُ: إذَامَالِكٌ فِي النَّارِ فَلأ تَدْخُلْ فِي النَّارِ
-وَأذْنِبْ مَا شِئْتَ.
-  </p>
-</blockquote>
+> إفْعَلْ خَمْسَة أشْيَاءَ وَأذْنِبْ مَا شِءتَ. فأوَّلُ ذَلِكَ: لأ
+> تَأكُلْ رِذْقِ اللَّهِ وَأذنِبْ مَا شِئْتَ. وَالثَانِي: أخْرُجْ مِنْ
+> وِلأيَةِ اللَّهِ وأذْنِبْ مَا شِئْتَ. وَالثَلِثُ: أطْلُبْ مَوْضِعاً
+> لأيَرَاكَ اللهُ وَأذْنِبْ مَا شِئتَ. وَالرَّابِعُ: إذَا جَاءَ مَلَكُ
+> لِيَقْبِضَ رُوحَكَ فَادْفَعْهُ عَنْ نَفْسِكَ وَأذْنِبْ مَا شِئْتَ.
+> وَالْخَامِسُ: إذَامَالِكٌ فِي النَّارِ فَلأ تَدْخُلْ فِي النَّارِ
+> وَأذْنِبْ مَا شِئْتَ.
 
 Do five things and then commit any sin you wish: Firstly, do not eat
 sustenance given by Allah and then commit any sin you wish. Secondly,
@@ -4340,17 +4004,13 @@ then commit any sin you wish.[^208]
 
 Imam Zayn al-Abidin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا حَقُّ وَلَدِكَ فَتَعْلَمَ أنَّهُ مِنْكَ وَمُضَافٌ إلَيكَ فِي
-عَاجِلِ الدُنْيَا بِخَيرِهِ وَشَرِّهِ، وَأنَّكَ مَسْئولٌ عَمَّا
-ولِّيِتَهُ مِنْ حُسْنِ الأدَب وَالدِّلالَةِ عَلَى رَبِه وَالْمَعُونَةِ
-لَهُ عَلَى طَاعَتِهِ فِي نَفْسِهِ، فَمُثابٌ عَلى ذَلِكَ وَ مُعَاقَبٌ،
-فَاعْمَلْ فِي أمْرِهِ عَمَلَ الْمُتَزَيِّنِ بِحُسْنِ أثرِهِ عَلَيهِ
-فِي عَاجِلِ الدُّنْيَا، الْمُعْذِرِ إلَى رَبهِ فِيمَا بَيْنَكَ
-وَبَيْنَهُ بِحُسْنِ الْقِيَامِ عَلَيهِ وَالأخْذُ لَهُ مِنْهُ.
-  </p>
-</blockquote>
+> وَأمَّا حَقُّ وَلَدِكَ فَتَعْلَمَ أنَّهُ مِنْكَ وَمُضَافٌ إلَيكَ فِي
+> عَاجِلِ الدُنْيَا بِخَيرِهِ وَشَرِّهِ، وَأنَّكَ مَسْئولٌ عَمَّا
+> ولِّيِتَهُ مِنْ حُسْنِ الأدَب وَالدِّلالَةِ عَلَى رَبِه وَالْمَعُونَةِ
+> لَهُ عَلَى طَاعَتِهِ فِي نَفْسِهِ، فَمُثابٌ عَلى ذَلِكَ وَ مُعَاقَبٌ،
+> فَاعْمَلْ فِي أمْرِهِ عَمَلَ الْمُتَزَيِّنِ بِحُسْنِ أثرِهِ عَلَيهِ
+> فِي عَاجِلِ الدُّنْيَا، الْمُعْذِرِ إلَى رَبهِ فِيمَا بَيْنَكَ
+> وَبَيْنَهُ بِحُسْنِ الْقِيَامِ عَلَيهِ وَالأخْذُ لَهُ مِنْهُ.
 
 The right of your child is that you should know that he is from you and
 will be ascribed to you, through both his good and his evil, in the
@@ -4362,12 +4022,8 @@ doing toward him and punished for evildoing.[^209]
 
 Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللَّهَ عَزَّ وَجَلَّ لِلشَّرِّ أقْفَلاً، وَجَعَلَ مَفَاتِيحَ
-تَلْكَ الأقْفَالِ الشَّرَابَ. وَالْكَذِبُ شَرٌّ مِنَ الشَّرَابِ.
-  </p>
-</blockquote>
+> إنَّ اللَّهَ عَزَّ وَجَلَّ لِلشَّرِّ أقْفَلاً، وَجَعَلَ مَفَاتِيحَ
+> تَلْكَ الأقْفَالِ الشَّرَابَ. وَالْكَذِبُ شَرٌّ مِنَ الشَّرَابِ.
 
 Allah has set locks for evil things so as to protect men from their
 harms. Wine, this intoxicating liquid, is the key to all evil things.
@@ -4375,13 +4031,9 @@ Telling lie is worse than drinking wine.[^210]
 
 Imam al-Baqir (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مُدْمِنَ الْخَمْرِ كَعَابِدِ وَثَنٍ؛ وَتُورِثُهُ الإرْتِعَاشَ
-وَتَهْدِمُ مُرُوئَتَهُ وَ تَحْمِلُهُ عَلَى التَّجَسُّرِ عَلَى
-الْمَحَارِمِ مِنْ سَفْكِ الدِّمَاءِ وَرُكُوبِ الزِّنَا.
-  </p>
-</blockquote>
+> إنَّ مُدْمِنَ الْخَمْرِ كَعَابِدِ وَثَنٍ؛ وَتُورِثُهُ الإرْتِعَاشَ
+> وَتَهْدِمُ مُرُوئَتَهُ وَ تَحْمِلُهُ عَلَى التَّجَسُّرِ عَلَى
+> الْمَحَارِمِ مِنْ سَفْكِ الدِّمَاءِ وَرُكُوبِ الزِّنَا.
 
 A habitual drunkard is as an idolater. One who always drinks wine will
 be afflicted with palsy and his morality will diminish. Drinking wine
@@ -4390,13 +4042,9 @@ blood nor engage in adultery.[^211]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إحْذَرْ مِنَ النَّاسِ ثَلأثَةً: الْخَائِنَ وَالظَّلُومَ وَالَّمَّامَ؛
-لأنَّ مَنْ خَانَ خَانَكَ، وَمَنْ ظَلَمَ لَكَ سَيَظْلِمُكَ، وَمَنْ
-نَمَّ إلَيْكَ سَيَنِمُّ عَلَيْكَ.
-  </p>
-</blockquote>
+> إحْذَرْ مِنَ النَّاسِ ثَلأثَةً: الْخَائِنَ وَالظَّلُومَ وَالَّمَّامَ؛
+> لأنَّ مَنْ خَانَ خَانَكَ، وَمَنْ ظَلَمَ لَكَ سَيَظْلِمُكَ، وَمَنْ
+> نَمَّ إلَيْكَ سَيَنِمُّ عَلَيْكَ.
 
 Avoid three groups of people when associating with and making friends:
 traitor, oppressor, and talebearer. One who commits treason in your
@@ -4411,12 +4059,8 @@ meet his needs. Some people who were watching this scene, said, “O son
 of Allah’s Messenger! Do you associate with this person and ask about
 his needs?” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-عَبْدٌ مِنْ عَبِيدِ اللَّهِ وَأخٌ فِي كِتَاب اللَّهِ وَ جَارٌ فِي
-بِلأدِ اللَّهِ. خَيْرُ الآبَاءِ آدَمُ وَأفْضَلُ الأدْيَانِ الإسْلأمُ.
-  </p>
-</blockquote>
+> عَبْدٌ مِنْ عَبِيدِ اللَّهِ وَأخٌ فِي كِتَاب اللَّهِ وَ جَارٌ فِي
+> بِلأدِ اللَّهِ. خَيْرُ الآبَاءِ آدَمُ وَأفْضَلُ الأدْيَانِ الإسْلأمُ.
 
 He is one of the servants of Allah and based on the Holy Quran, he is
 our brother-in-faith and our neighbor in the cities of Allah. Adam who
@@ -4425,35 +4069,23 @@ to him.[^213]
 
 Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَكُنْ نَفَقَتُكَ عَلَى نَفْسِكَ وَعِيَالِكَ قَصْداً.
-  </p>
-</blockquote>
+> وَلْيَكُنْ نَفَقَتُكَ عَلَى نَفْسِكَ وَعِيَالِكَ قَصْداً.
 
 Be moderate in your expenditures on yourself and your family.[^214]
 
 Imam al-Jawad (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أطَاعَ هَوَاهُ أعْطَى عَدُوَّهُ مُنَاهُ.
-  </p>
-</blockquote>
+> مَنْ أطَاعَ هَوَاهُ أعْطَى عَدُوَّهُ مُنَاهُ.
 
 One who obeys his carnal desires has realized the desires of his
 enemy.[^215]
 
 Imam al-Hadi (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا كَانَ زَمَانٌ الْعَدْلُ فِيهِ أغْلَبُ مِنَ الْجَورِ، فَحَرَامٌ
-أنْ يُظَنَّ بِأحَدٍ سُوءاً حَتَّى يُعْلَمَ ذَلِكَ مِنْهُ. وَإذَا كَانَ
-زَمَانٌ الْجَوْرِ، أغْلَبُ مِنَ الِّعَدْلِ، فَلَيْسَ لأِحَدٍ أنْ
-يَظُنَّ بِأحَدٍ خَيْراً مَا لَمْ يَعْلَمْ ذَلِكَ مِنهُ.
-  </p>
-</blockquote>
+> إذَا كَانَ زَمَانٌ الْعَدْلُ فِيهِ أغْلَبُ مِنَ الْجَورِ، فَحَرَامٌ
+> أنْ يُظَنَّ بِأحَدٍ سُوءاً حَتَّى يُعْلَمَ ذَلِكَ مِنْهُ. وَإذَا كَانَ
+> زَمَانٌ الْجَوْرِ، أغْلَبُ مِنَ الِّعَدْلِ، فَلَيْسَ لأِحَدٍ أنْ
+> يَظُنَّ بِأحَدٍ خَيْراً مَا لَمْ يَعْلَمْ ذَلِكَ مِنهُ.
 
 When justice prevails in a society rather than injustice, it is unlawful
 to be suspicious of any person unless he commits an evil act. But when
@@ -4498,12 +4130,8 @@ Muslims by doing so.
 
 Commenting on the Holy Quran, Allah’s Messenger has said:
 
-<blockquote dir="rtl">
-  <p>
-ظَاهِرُهُ أنِيقُ وَبَاطِنُهُ عَمِيقٌ. لأتُحْصَى عَجَائِبُهُ
-وَلأتَبْلَى غَرَائِبُهُ.
-  </p>
-</blockquote>
+> ظَاهِرُهُ أنِيقُ وَبَاطِنُهُ عَمِيقٌ. لأتُحْصَى عَجَائِبُهُ
+> وَلأتَبْلَى غَرَائِبُهُ.
 
 It has a well-arranged and well-decorated appearance and it has a
 profound inward aspect. Its marvels cannot be counted and its wonders
@@ -4526,11 +4154,7 @@ by Ahl al-Bayt. Any personal interpretation of the Quranic verses will
 make man afflicted with an irreparable loss. As an example, we read the
 following in the Holy Quran,
 
-<blockquote dir="rtl">
-  <p>
-يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ
-  </p>
-</blockquote>
+> يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ
 
 ***The hand of Allah is above their hands. (48:10)***
 
@@ -4541,12 +4165,8 @@ above-mentioned verse is: the power of Allah is above all powers.
 
 Another example is 17:72 of the Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ
-وَأَضَلُّ سَبِيلًا
-  </p>
-</blockquote>
+> وَمَنْ كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ
+> وَأَضَلُّ سَبِيلًا
 
 ***And whoever is blind in this world, he shall also be blind in the
 hereafter; and more erring from the way.(17:72)***
@@ -4557,11 +4177,7 @@ were favored by the Prophets and the Imams are deprived of seeing the
 scenes in Paradise - a belief that does not conform with 43:71 of the
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ
-  </p>
-</blockquote>
+> وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ
 
 ***Therein shall be what their souls yearn after and wherein eyes shall
 delight (43:71)***
@@ -4574,12 +4190,8 @@ based on the appearance and the literal meaning of the word but it must
 be interpreted in another way. This is exactly what Allah has entrusted
 to those firmly rooted in knowledge:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي
-الْعِلْمِ
-  </p>
-</blockquote>
+> وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي
+> الْعِلْمِ
 
 ***None knows its interpretation except Allah and those who are firmly
 rooted in knowledge. (3:7)***
@@ -4589,11 +4201,7 @@ true knowledge in which there is no change. It is knowledge that Allah
 has caused to shine in the hearts of His servants; namely, the Prophets
 and the Imams. In this relation, Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الرَّاسِخُونَ فِي الْعِلْمِ وَ نَحْنُ نَعْلَمُ تَاوِيلَهُ.
-  </p>
-</blockquote>
+> نَحْنُ الرَّاسِخُونَ فِي الْعِلْمِ وَ نَحْنُ نَعْلَمُ تَاوِيلَهُ.
 
 We are firmly rooted in knowledge and we know how to interpret the Holy
 Quran.[^220]
@@ -4613,12 +4221,8 @@ Ahl al-Bayt were extremely active in all aspects of life for the good of
 this world and the Hereafter and did not give up the struggle. Imam
 al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-لأتَكْسَلُوا فِي طَلَبِ مَعَايشِكُمْ، فَإنَّ آبَاءَنَا كَانُوا
-يَرْكُضُونَ فِيهَا وَ يَطْلُبُونَهَا.
-  </p>
-</blockquote>
+> لأتَكْسَلُوا فِي طَلَبِ مَعَايشِكُمْ، فَإنَّ آبَاءَنَا كَانُوا
+> يَرْكُضُونَ فِيهَا وَ يَطْلُبُونَهَا.
 
 Do not be lazy in earning a living, for our forefathers were running
 after it while seeking it.
@@ -4635,12 +4239,8 @@ me.[^221]
 
 Abdullah ibn Hasan says:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهِ، أعْتَقَ عَلِيٌّ ألْفَ أهْلِ بَيْتٍ بِمَا مَجَلَتْ يَدَاهُ
-وَ عَرَقَ جَبِينُهُ.
-  </p>
-</blockquote>
+> وَاللَّهِ، أعْتَقَ عَلِيٌّ ألْفَ أهْلِ بَيْتٍ بِمَا مَجَلَتْ يَدَاهُ
+> وَ عَرَقَ جَبِينُهُ.
 
 By Allah (I swear), Ali set free one thousand slaves in the way of Allah
 with the wage he had earned with blisters in the palms of his hand and
@@ -4651,12 +4251,8 @@ Abd al-Ala says:
 hard. I said, “May I be your ransom! You have a high rank before Allah;
 why are you giving yourself so much trouble?” The Imam said,
 
-<blockquote dir="rtl">
-  <p>
-يَا عَبْدَا الأعَلَى! خَرَجْتُ فِي طَلَبِ الرِّزْقِ لأسْتَغْنِيَ عَن
-مِثْلِكَ.
-  </p>
-</blockquote>
+> يَا عَبْدَا الأعَلَى! خَرَجْتُ فِي طَلَبِ الرِّزْقِ لأسْتَغْنِيَ عَن
+> مِثْلِكَ.
 
 “O Abd al-Ala! I have come out seeking my daily bread so as to be
 independent of your like.”[^223]
@@ -4678,19 +4274,15 @@ of desiring for salvation without having piety and fear of Allah.
 
 Imam al-Baqir (a.s.) has been quoted by Jabir al-Jufi to say:
 
-<blockquote dir="rtl">
-  <p>
-يَا جَابِرُ، أيكْتَفِي مَنِ أتَّخَذَ التّشَيُّعِ أنْ يَقُولَ
-بِحُبِّنَا أهْلَ الْبَيْتِ؟ فَوَ اللَّهِ مَا شِيعَتُنَا إلأمَنِ إتَّى
-اللَّهَ وَ أطَاعَهُ. وَمَا كَانُو يُعَرَفُونَ إلأ بِالتَّوَاضُعِ
-وَالتَّخَشُّعِ وَأداءِ الأمَانَةِ وَكَثَرَةِ ذِكْرِ اللَّهِ،
-وَالصَّوْمُ وَالصَّلأةِ، وَالْبِرِّ بِالْوَالِدَيْنِ، وَتَّعَهُّدِ
-لِلْجِيرَانِ مِنَ الفُقَرَاءِ وَأهْلِ الْمَسْكَنَةِ وَالْغَارِ مِينَ
-وَالأيْتَامِ، وَصِدْقِ الْحَدِيثِ، وَتِلأوَةِ الْقُرْآنِ، وَكَفِّ
-الألْسُنِ عَنِ النَّاسِ إلأ مِنْ خَيْرٍ، وَ كَانُوا أمَنَاءَ
-عَشَائِرِهِمْ فِي الأشْيَاءِ.
-  </p>
-</blockquote>
+> يَا جَابِرُ، أيكْتَفِي مَنِ أتَّخَذَ التّشَيُّعِ أنْ يَقُولَ
+> بِحُبِّنَا أهْلَ الْبَيْتِ؟ فَوَ اللَّهِ مَا شِيعَتُنَا إلأمَنِ إتَّى
+> اللَّهَ وَ أطَاعَهُ. وَمَا كَانُو يُعَرَفُونَ إلأ بِالتَّوَاضُعِ
+> وَالتَّخَشُّعِ وَأداءِ الأمَانَةِ وَكَثَرَةِ ذِكْرِ اللَّهِ،
+> وَالصَّوْمُ وَالصَّلأةِ، وَالْبِرِّ بِالْوَالِدَيْنِ، وَتَّعَهُّدِ
+> لِلْجِيرَانِ مِنَ الفُقَرَاءِ وَأهْلِ الْمَسْكَنَةِ وَالْغَارِ مِينَ
+> وَالأيْتَامِ، وَصِدْقِ الْحَدِيثِ، وَتِلأوَةِ الْقُرْآنِ، وَكَفِّ
+> الألْسُنِ عَنِ النَّاسِ إلأ مِنْ خَيْرٍ، وَ كَانُوا أمَنَاءَ
+> عَشَائِرِهِمْ فِي الأشْيَاءِ.
 
 O Jabir, do you think that it is sufficient for those who claim being
 Shia to say that they cherish us; the Prophet’s Household? By Allah I
@@ -4705,24 +4297,20 @@ people of their tribes.
 I said, “O son of Allah’s Messenger! Today, we do not know anyone who is
 having all these features.” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-يَا جَابِرُ، لأتَدْهَبَنَّ بِكَ الْمَذَاهِبُ! حَسَبُ الرَّجُلُ أنْ
-يَقُولَ أُحِبُّ عَلِيَّاً صَلَوَاتُ اللَّهِ عَلَيْهِ وَأتَولأه؟ فَلَوْ
-قَالَ إنِّي أُحِبُّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ،
-وَرَسُولُ اللَّهِ خَيرٌ مِنْ عَلِيٍّ عَلَيْهِ السَّلأمُ ثُمَّ
-لأيَتَّبِعُ سِيرَتَهُ وَلأ يَعْمَلُ بِسُنَّتِهِ مَا نَفَعَهُ حُبُّهُ
-إيَّاهُ شَيْئاً، فَاتَّقُواللَّهَ وَاعْمَلُو الِمَا عِنْدَ اللَّهِ.
-لَيْسَ بَيْنَ وَبَينَ أحَدٍ قَرَابَةٌ. أحَبُّ الْعِبَادِ إلَى اللَّهِ
-عَزَّ وَ جَلَّ وَ أكْرَمُهُمْ عَلَيْهِ أثْقَاهُمْ لَهُ وَأعْمَلُهُم
-لَهُ وَأعمَلُهُمْ بِطَاعَتِهِ. يَاجَابِرُ، مَا يَتَقَرَّبُ الْعَبْدُ
-إلَى اللَّهِ تَبَارَكَ وَ تَعَالَى إلأ بِالطَّاعَةِ. مَا مَعَنَا
-بَرَاءَةٌ مِنَ النَّارِ، وَلأ عَلَى اللَّهِ لأِحَدٍ مِنْكُمْ حُجَّةٌّ.
-مَنْ كَانَ للَّه مُطِيعاً فَهُوَ لَنَا وَلِيٌ، وَمَنْ كَانَ للَّهِ
-عَاصِياً فَهُوَ لَنَا عَدُوٌّ، وَلأتُنَالُ وِئلأيَتُنَا إلأ
-بِالْعَمَلِ وَالْوَرَعِ.
-  </p>
-</blockquote>
+> يَا جَابِرُ، لأتَدْهَبَنَّ بِكَ الْمَذَاهِبُ! حَسَبُ الرَّجُلُ أنْ
+> يَقُولَ أُحِبُّ عَلِيَّاً صَلَوَاتُ اللَّهِ عَلَيْهِ وَأتَولأه؟ فَلَوْ
+> قَالَ إنِّي أُحِبُّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ،
+> وَرَسُولُ اللَّهِ خَيرٌ مِنْ عَلِيٍّ عَلَيْهِ السَّلأمُ ثُمَّ
+> لأيَتَّبِعُ سِيرَتَهُ وَلأ يَعْمَلُ بِسُنَّتِهِ مَا نَفَعَهُ حُبُّهُ
+> إيَّاهُ شَيْئاً، فَاتَّقُواللَّهَ وَاعْمَلُو الِمَا عِنْدَ اللَّهِ.
+> لَيْسَ بَيْنَ وَبَينَ أحَدٍ قَرَابَةٌ. أحَبُّ الْعِبَادِ إلَى اللَّهِ
+> عَزَّ وَ جَلَّ وَ أكْرَمُهُمْ عَلَيْهِ أثْقَاهُمْ لَهُ وَأعْمَلُهُم
+> لَهُ وَأعمَلُهُمْ بِطَاعَتِهِ. يَاجَابِرُ، مَا يَتَقَرَّبُ الْعَبْدُ
+> إلَى اللَّهِ تَبَارَكَ وَ تَعَالَى إلأ بِالطَّاعَةِ. مَا مَعَنَا
+> بَرَاءَةٌ مِنَ النَّارِ، وَلأ عَلَى اللَّهِ لأِحَدٍ مِنْكُمْ حُجَّةٌّ.
+> مَنْ كَانَ للَّه مُطِيعاً فَهُوَ لَنَا وَلِيٌ، وَمَنْ كَانَ للَّهِ
+> عَاصِياً فَهُوَ لَنَا عَدُوٌّ، وَلأتُنَالُ وِئلأيَتُنَا إلأ
+> بِالْعَمَلِ وَالْوَرَعِ.
 
 No, Jabir. Do not misunderstand the matter. Is it enough for a man to
 claim that he loves and follows Ali? If he claims that he loves the
@@ -4742,14 +4330,10 @@ diligent work and piety.[^225]
 
 Addressing Fudhayl, Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-بَلِّغْ مَنْ لَقِيتَ مِنْ مَوَالِينَا عَنَّا السَّلأمَ وَ قُلْ لَهُمْ:
-إنِّي لأ أغْنِي عَنْكُمْ مِنَ اللَّهِ شَيْئاً إلأبِوَرَعٍ. فَاخْفَظُوا
-ألْسِنَتَكُمْ وَكُفُّوا أيْدِيَكُمْ. وَعَلَيْكُمْ. وَ عَلَيْكُمْ
-بِاصَّبْرِ وَالصَّلأةِ، إنَّ اللَّهَ مَعَ الصَّابِرِينَ.
-  </p>
-</blockquote>
+> بَلِّغْ مَنْ لَقِيتَ مِنْ مَوَالِينَا عَنَّا السَّلأمَ وَ قُلْ لَهُمْ:
+> إنِّي لأ أغْنِي عَنْكُمْ مِنَ اللَّهِ شَيْئاً إلأبِوَرَعٍ. فَاخْفَظُوا
+> ألْسِنَتَكُمْ وَكُفُّوا أيْدِيَكُمْ. وَعَلَيْكُمْ. وَ عَلَيْكُمْ
+> بِاصَّبْرِ وَالصَّلأةِ، إنَّ اللَّهَ مَعَ الصَّابِرِينَ.
 
 Send greetings to our friends and say: We cannot remove Allah’s
 chastisement unless you adopt piety. Therefore, hold your tongues, cease
@@ -4758,13 +4342,9 @@ patient.[^226]
 
 Imam al-Sadiq has said:
 
-<blockquote dir="rtl">
-  <p>
-مَعَاشِرِ الشِّيعَةِ! كُونُو الَنَا زَيْناً وَلأ تَكُونُوا عَليْنَا
-شَيئاً. قُولُو الِلنَّاسِ حُسْناً، وَاحْفَظُوا ألْسِنَتَكُمْ
-وَكُفُّوهَا عَنِ الْفُضُولِ وَ قَبِيحِ الْقَولِ.
-  </p>
-</blockquote>
+> مَعَاشِرِ الشِّيعَةِ! كُونُو الَنَا زَيْناً وَلأ تَكُونُوا عَليْنَا
+> شَيئاً. قُولُو الِلنَّاسِ حُسْناً، وَاحْفَظُوا ألْسِنَتَكُمْ
+> وَكُفُّوهَا عَنِ الْفُضُولِ وَ قَبِيحِ الْقَولِ.
 
 O Shiite community! Be an ornament for us! Do not do anything indecent!
 Speak to men good words! Hold your tongues! Avoid being talkative and
@@ -4772,14 +4352,10 @@ using a foul language.[^227]
 
 Imam al-Sadiq (a.s.) further says:
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ جُنْدَبٍ! بَلِّغْ شِيعَتَنَا وَ قُلْ لَهُم: لأتَدْهَبَنَّ
-بِكُم ااْمَذَاهِبُ!فَوَ اللَّهِ لأ تُنَالُ وَ لأيَتُنَا إلأبِالْوَرَعِ
-وَالإجْتِهَادِ فِي الدُّنْيَا وَ مُوَاسَاةِ الإخْوَانِ فِي اللَّهِ
-وَاَيسَ مِنْ شِيعَتَنَا مَنْ يَظْلِمُ النَّاسَ.
-  </p>
-</blockquote>
+> يَابْنَ جُنْدَبٍ! بَلِّغْ شِيعَتَنَا وَ قُلْ لَهُم: لأتَدْهَبَنَّ
+> بِكُم ااْمَذَاهِبُ!فَوَ اللَّهِ لأ تُنَالُ وَ لأيَتُنَا إلأبِالْوَرَعِ
+> وَالإجْتِهَادِ فِي الدُّنْيَا وَ مُوَاسَاةِ الإخْوَانِ فِي اللَّهِ
+> وَاَيسَ مِنْ شِيعَتَنَا مَنْ يَظْلِمُ النَّاسَ.
 
 O son of Jundab! Convey our message to our followers and say to them:
 Let not other trends mislead you, for, by Allah, our friendship cannot
@@ -4801,16 +4377,12 @@ Quran, following the Holy Prophet, obeying his rightful successors and
 keeping away from all sins. Addressing Abd al-Adhim al-Tasani, Imam
 al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-أبْلِغْ عَنِّي أوْلِيَائِي السَّلأمَ وَقُلْ لَهُمْ أنْ لأ يَجْعَلُوا
-للشَّيْطَانِ عَلَى أنْفُسِهِمْ سَبِيلاً. وَ مُرُهُم بِاصِّدْقِ فِي
-الحَدِيثِ وَأدَاءِ الأمَانَةٍ. وَالْمُرْهُمْ بِالسُّكُوتِ وَ تَرَكِ
-الْجِدَالِ فِيمَا لأيُعْنِيهِم وَإقْبَالِ بَعْضِهِمْ عَلَى بَعْضِ
-وَالْمُزَاوَرَةِ، فَإنَّ ذَلِكَ قُرْبَةٌ، وَلأ يَشْغَلُوا أنْفُسَهُم
-بِتَمْزِيقِ بَعْضِهِم بَعْضاً.
-  </p>
-</blockquote>
+> أبْلِغْ عَنِّي أوْلِيَائِي السَّلأمَ وَقُلْ لَهُمْ أنْ لأ يَجْعَلُوا
+> للشَّيْطَانِ عَلَى أنْفُسِهِمْ سَبِيلاً. وَ مُرُهُم بِاصِّدْقِ فِي
+> الحَدِيثِ وَأدَاءِ الأمَانَةٍ. وَالْمُرْهُمْ بِالسُّكُوتِ وَ تَرَكِ
+> الْجِدَالِ فِيمَا لأيُعْنِيهِم وَإقْبَالِ بَعْضِهِمْ عَلَى بَعْضِ
+> وَالْمُزَاوَرَةِ، فَإنَّ ذَلِكَ قُرْبَةٌ، وَلأ يَشْغَلُوا أنْفُسَهُم
+> بِتَمْزِيقِ بَعْضِهِم بَعْضاً.
 
 Convey my greetings to my friends and say to them: Expel Satan from
 yourselves. Be honest and truthful. Avoid idle talks and keep silent.
@@ -4820,13 +4392,9 @@ Avoid dispersion and don't vex others.[^229]
 Ahl al-Bayt have always warned their followers against committing sin
 and oppression, saying:
 
-<blockquote dir="rtl">
-  <p>
-وَإيَّاكُمْ وَمَعَاصِيَ اللَّهِ أنْ تَرَكَبوهَا، فَإنَّهُ مَنِ
-إنْتَهَكَ مَاصِيَ اللَّهِ فَرَكِبَهَا فَقَدْ أبْلَغَ فِي السأءَةِ إلَى
-نَفْسِهِ.
-  </p>
-</blockquote>
+> وَإيَّاكُمْ وَمَعَاصِيَ اللَّهِ أنْ تَرَكَبوهَا، فَإنَّهُ مَنِ
+> إنْتَهَكَ مَاصِيَ اللَّهِ فَرَكِبَهَا فَقَدْ أبْلَغَ فِي السأءَةِ إلَى
+> نَفْسِهِ.
 
 Beware of sins, for whoever commits sin will be unjust to himself.
 
@@ -4839,19 +4407,15 @@ important guidelines on ideological, moral and social issues as well as
 family life, peaceful coexistence in this world and issues related to
 the hereafter the excerpts of which are as follow:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أنّهُ لَيْسَ يُغْنِي عَنَّكُمْ مِنَ اللَّهِ أحَدٌ مِنْ
-خَلْقِهِ شَيْئاً؛ لأ مَلَكٌ مُقَرَّبٌ وَلأ نَبِيٌّ مُرْسَلٌ وَلإ مَنْ
-دُونَ ذَلِكَ. فَمَنْ سَرَّهُ أنْ تَنْفَعَهُ شَفَاعَةٌ الشَّافِعِينَ
-عِنْدَ اللَّهِ فَلْيَطْلُبْ إلَى اللَّهِ أنْ يَرْضَى عَنْهُ.
-وَاعْلَمُوا أنَّ أحَداً مِنْ خَلْقِ اللَّهِ لَمْ يُىصِبْ رِضَا اللَّهِ
-إلأ بِطَاعَتِهِ وَ طَا عَةِ رَسُولِهِ وَ طَاعَةِ اللَّهِ، وُلأةِ
-أمْرِهِ مِنْ آلِ مُحَمَّدٍ، صَلْوَاتُ اللَّهِ عَلَيْهِمْ.
-وَمَعْصِيَتُهُم مِنْ مَعْصِيَةِ اللَّهِ، وَ لَمْ يُنْكِرْ فَضْلاً
-عَظَمَ أو صَغُرَ.
-  </p>
-</blockquote>
+> وَاعْلَمُوا أنّهُ لَيْسَ يُغْنِي عَنَّكُمْ مِنَ اللَّهِ أحَدٌ مِنْ
+> خَلْقِهِ شَيْئاً؛ لأ مَلَكٌ مُقَرَّبٌ وَلأ نَبِيٌّ مُرْسَلٌ وَلإ مَنْ
+> دُونَ ذَلِكَ. فَمَنْ سَرَّهُ أنْ تَنْفَعَهُ شَفَاعَةٌ الشَّافِعِينَ
+> عِنْدَ اللَّهِ فَلْيَطْلُبْ إلَى اللَّهِ أنْ يَرْضَى عَنْهُ.
+> وَاعْلَمُوا أنَّ أحَداً مِنْ خَلْقِ اللَّهِ لَمْ يُىصِبْ رِضَا اللَّهِ
+> إلأ بِطَاعَتِهِ وَ طَا عَةِ رَسُولِهِ وَ طَاعَةِ اللَّهِ، وُلأةِ
+> أمْرِهِ مِنْ آلِ مُحَمَّدٍ، صَلْوَاتُ اللَّهِ عَلَيْهِمْ.
+> وَمَعْصِيَتُهُم مِنْ مَعْصِيَةِ اللَّهِ، وَ لَمْ يُنْكِرْ فَضْلاً
+> عَظَمَ أو صَغُرَ.
 
 Know that none of the Allah’s creatures including Archangels and
 Prophets can remove an iota of Allah’s punishment from you. Therefore,
@@ -5321,5 +4885,4 @@ denied.[^230]
 [^229]: Al-Ikhtisas: 247
 
 [^230]: Al-Kafi: 11/8, H. 1
-
 

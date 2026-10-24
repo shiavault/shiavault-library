@@ -38,4 +38,3 @@ harmed another person and has disgraced himself. Such a person will not
 be forgiven by Allah unless he is pardoned by the person whom he had
 wronged.
 
-

@@ -146,4 +146,3 @@ destruction of godless people. But do not overlook this one fact, dear
 friends, that with the Lord one day is as a thousand years and a
 thousand years as one day." (3:7-8)
 
-

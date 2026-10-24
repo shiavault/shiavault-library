@@ -88,4 +88,3 @@ veil, so your sight today is sharp indeed.” (Holy Qur'an, 50:22)***
 
 Surely Allah, the Great, has said the truth.
 
-

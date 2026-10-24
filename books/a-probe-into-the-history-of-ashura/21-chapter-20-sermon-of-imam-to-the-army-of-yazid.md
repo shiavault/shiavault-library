@@ -162,4 +162,3 @@ that time had cast a responsibility on the Imam. He assessed that he
 must rise and sacrifice his life, as the safety of Islam depended upon
 his rising.
 
-

@@ -640,4 +640,3 @@ lineage of Ishmael through Muhammad the Last Apostle of God, Ali the
 Ameerul Momineen, the First of the Holy Imams and Lady Fatima, the Lady
 of light.
 
-

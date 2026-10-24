@@ -273,4 +273,3 @@ lends credibility to the evil contention that Allah (SWT) has aided and
 abetted him (Muawiyah) in killing [innocent] Muslims. Allahu Akbar!
 (Allah is Great!)
 
-

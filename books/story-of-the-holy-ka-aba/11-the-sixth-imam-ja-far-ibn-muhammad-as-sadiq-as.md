@@ -437,4 +437,3 @@ the side of his father Imam Muhammad Baqir (as) . Before the destruction
 of the Baqee cemetery by the Wahhabis, the inscription on the tomb said,
 “Here is the Tomb of Imam Ja’far Ibn Muhammad al Sadiq.”
 
-

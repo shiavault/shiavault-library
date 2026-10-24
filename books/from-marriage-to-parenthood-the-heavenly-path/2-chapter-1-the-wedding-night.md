@@ -58,19 +58,11 @@ IlAllāh (SwT)’ [a recommended prayer, seeking the pleasure of Allāh
 should recite it, after which the bride should say: Ilāhī Amīn [May
 Allāh (SwT) accept this].
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ ارْزُقْنِي إِلْفَهَا وَ وُدَّهَا وَ رِضَاهَا وَ رَضِّـنِي
-بِهَا ثُمَّ اجْمَعْ بَيْنَـنَا بِأَحْسَنِ اجْتِمَاعٍ وَ أَسَرِّ
-ائْتِلاَفٍ فَإِنَّكَ تُحِبُّ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ ارْزُقْنِي إِلْفَهَا وَ وُدَّهَا وَ رِضَاهَا وَ رَضِّـنِي
+> بِهَا ثُمَّ اجْمَعْ بَيْنَـنَا بِأَحْسَنِ اجْتِمَاعٍ وَ أَسَرِّ
+> ائْتِلاَفٍ فَإِنَّكَ تُحِبُّ
 
-<blockquote dir="rtl">
-  <p>
-الْحَلاَلَ وَ تَكْرَهُ الْحَرَام.
-  </p>
-</blockquote>
+> الْحَلاَلَ وَ تَكْرَهُ الْحَرَام.
 
 “O Allāh (SwT)! Bless me with her affection, love and her acceptance of
 me; and make me pleased with her, and bring us together in the best form
@@ -83,14 +75,10 @@ children (whenever they are conceived):
  a. The groom should then place his right palm on the bride’s forehead
 facing Qibla and recite:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بِأَمَانَتِكَ أَخَذْتُهَا وَ بِكَلِمَاتِكَ
-اسْتَحْلَلْـتُهَا فَإِنْ قَضَيْتَ لِي مِنْهَا وَلَداً فَاجْعَلْهُ
-مُبَارَكاً تَقِيًّا مِنْ شِيعَةِ آلِ مُحَمَّدٍ وَ لاَ تَجْعَلْ
-لِلشَّيْطَانِ فِيهِ شِرْكاً وَ لاَ نَصِيباً.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بِأَمَانَتِكَ أَخَذْتُهَا وَ بِكَلِمَاتِكَ
+> اسْتَحْلَلْـتُهَا فَإِنْ قَضَيْتَ لِي مِنْهَا وَلَداً فَاجْعَلْهُ
+> مُبَارَكاً تَقِيًّا مِنْ شِيعَةِ آلِ مُحَمَّدٍ وَ لاَ تَجْعَلْ
+> لِلشَّيْطَانِ فِيهِ شِرْكاً وَ لاَ نَصِيباً.
 
 “O Allāh! I have taken her as Your trust and have made her lawful for
 myself by Your words. Therefore, if you have decreed for me a child from
@@ -100,13 +88,9 @@ him/her.”[^6]
 
 b. The following Du°ā should also be recited:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بِكَلِمَاتِكَ اسْتَحْلَلْتُهَا وَ بِأَمَانَتِكَ
-أَخَذْتُهَا. أَللٌّهُمَّ اجْعَلْهَا وَلُوداً وَدُوداً لاَ تَفْرَكُ
-تَأْكُلُ مِمَّا رَاحَ وَ لاَ تَسْأَلُ عَمَّا سَرَحَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بِكَلِمَاتِكَ اسْتَحْلَلْتُهَا وَ بِأَمَانَتِكَ
+> أَخَذْتُهَا. أَللٌّهُمَّ اجْعَلْهَا وَلُوداً وَدُوداً لاَ تَفْرَكُ
+> تَأْكُلُ مِمَّا رَاحَ وَ لاَ تَسْأَلُ عَمَّا سَرَحَ.
 
 “O Allāh! I have made her lawful for myself with Your words, and I have
 taken her in Your trust. O Allāh! Make her fertile and devoted.”[^7]
@@ -375,5 +359,4 @@ one year.
 [^25]: Sūrat al-Isrā, Verse 29
 
 [^26]: Sar Guzashthāye Hazrat °Alī (as) wa Fāťima (sa), pg. 31
-
 

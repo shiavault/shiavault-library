@@ -14,4 +14,3 @@ with us in our party on the Judgment Day.”[^1]
 [^1]: Maali as-Sibtain quoting from Irshaad al-Quloob from the book
 Noorul Ain
 
-

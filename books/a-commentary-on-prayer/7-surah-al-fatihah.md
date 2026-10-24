@@ -310,17 +310,9 @@ solely for Him and as He is the Only One worthy of “*hamd*,” those
 descriptions can also be assumed even if they had not appeared
 afterward.
 
-<blockquote dir="rtl">
-  <p>
-گر از دوست چشمت به احسان اوست
-  </p>
-</blockquote>
+> گر از دوست چشمت به احسان اوست
 
-<blockquote dir="rtl">
-  <p>
-تو در بند خويشى نه در بند دوست
-  </p>
-</blockquote>
+> تو در بند خويشى نه در بند دوست
 
 *If your eyes are focusing on the benevolence of the Friend, then you
 are under the fetter of your self, not under the bond of the Friend.*
@@ -331,32 +323,20 @@ are under the fetter of your self, not under the bond of the Friend.*
 God is the Lord of all the worlds. He is the Lord of whatever is in the
 heavens and the earth and whatever is between them:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَّب السمَٰوَﺍتِ وَ الأَرْضِ وَ مَا بَيْنهُمَا ﴾
-  </p>
-</blockquote>
+> ﴿ رَّب السمَٰوَﺍتِ وَ الأَرْضِ وَ مَا بَيْنهُمَا ﴾
 
 ***“The Lord of the heavens and the earth and whatever is between
 them”***[^17]
 
 And
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ رَب كلّ‏ِ شيْ‏ءٍ ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ رَب كلّ‏ِ شيْ‏ءٍ ﴾
 
 ***“He is the Lord of all things.”***[^18]
 
 Hadrat ‘Ali (*‘a*) says about the interpretation of “*‘alamin*”:
 
-<blockquote dir="rtl">
-  <p>
-من الجمادات و الحيوانات
-  </p>
-</blockquote>
+> من الجمادات و الحيوانات
 
 That is, He is the Lord of the inanimate objects and the animals, the
 living and non-living things.
@@ -420,11 +400,7 @@ Not only is it mentioned at the beginning of supplication and adulation
 but the inhabitants of paradise also repeat the same phrase at the end
 of a task:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِينَ ﴾
 
 ***“And their concluding call, ‘All praise belongs to Allah, the Lord of
 the all the worlds.”***[^23]
@@ -450,11 +426,7 @@ mercy {*rahmah*} incumbent upon Himself: ***“He has made mercy incumbent
 upon Himself.**”*[^24] Similarly, the Prophet and the Book of Allah are
 also mercies for all of creation:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَا أَرْسلْنَٰكَ إِلا رَحْمَةً لِّلْعَٰلَمِينَ ‏﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَا أَرْسلْنَٰكَ إِلا رَحْمَةً لِّلْعَٰلَمِينَ ‏﴾
 
 ***“We did not send you but as a mercy to all the nations.”***[^25]
 
@@ -523,12 +495,8 @@ the day of punishment and reward, just as the Holy Qur’an narrates about
 those who deny the Day of Resurrection: *“They ask, ‘When will be the
 Day of Retribution?’”*[^32] Or, in describing that day the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ٭ يَوْمَ لا تَمْلِكُ نَفْسٌ
-لِنَفْسٍ شَيْئًا وَالأمْرُ يَوْمَئِذٍ لِلَّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ٭ يَوْمَ لا تَمْلِكُ نَفْسٌ
+> لِنَفْسٍ شَيْئًا وَالأمْرُ يَوْمَئِذٍ لِلَّهِ ﴾
 
 ***“Again, what will show you what the Day of Retribution is? It is a
 day when no soul will be of any avail to another soul and all command
@@ -547,12 +515,8 @@ All-beneficent, the All-merciful”* shows that fear and hope must go hand
 in hand and encouragement and punishment are together. As the Holy
 Qur’an says in another verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ ٭ وَأَنَّ
-عَذَابِي هُوَ الْعَذَابُ الألِيمُ ﴾
-  </p>
-</blockquote>
+> ﴿ نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ ٭ وَأَنَّ
+> عَذَابِي هُوَ الْعَذَابُ الألِيمُ ﴾
 
 ***“Inform My servants that I am indeed the All-forgiving, the
 All-merciful, and that My punishment is a painful punishment.”***[^36]
@@ -658,11 +622,7 @@ pleasant, we do repeat the address, “*iyyaka*” {You} (twice).
 O God! Although worship is incumbent upon us, in worshipping we are also
 in need of Your help:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا كُنَّا لِنَهْتَدِيَ لَوْلا أَنْ هَدَانَا اللّهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا كُنَّا لِنَهْتَدِيَ لَوْلا أَنْ هَدَانَا اللّهُ ﴾
 
 ***“We would have never been guided had not Allah guided us.”***[^40]
 
@@ -780,12 +740,8 @@ contrary.
  The straight path is the middle path of moderation. Imam ‘Ali (*‘a*)
 says:
 
-<blockquote dir="rtl">
-  <p>
-اَلْيَمِينُ وَ الشِّمالُ مَضَلَّة وٱلطَّريقُ ٱالْوُسْطىٰ هِىَ
-الجادَّة.
-  </p>
-</blockquote>
+> اَلْيَمِينُ وَ الشِّمالُ مَضَلَّة وٱلطَّريقُ ٱالْوُسْطىٰ هِىَ
+> الجادَّة.
 
 “Left and right are deviations and the path of felicity is the middle
 way.”[^48]
@@ -830,23 +786,15 @@ to the alley and market without having proper Islamic modest dress
 All of the above are deviations from the course of the straight path.
 God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَى صِرَاطٍ مُّسْتَقِيمٍ دِينًا
-قِيَمًا ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَى صِرَاطٍ مُّسْتَقِيمٍ دِينًا
+> قِيَمًا ﴾
 
 ***“Say, ‘Indeed my Lord has guided me to a straight path, the upright
 religion.”***[^50]
 
 Elsewhere He states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ جَعَلْنَكُمْ أُمَّةً وَسطاً لِّتَكونُوا شهَدَاءَ عَلى النَّاسِ ﴾
-  </p>
-</blockquote>
+> ﴿ جَعَلْنَكُمْ أُمَّةً وَسطاً لِّتَكونُوا شهَدَاءَ عَلى النَّاسِ ﴾
 
 ***“Thus We have made you a middle nation that you may be witness to the
 people.”***[^51]
@@ -923,13 +871,9 @@ those who have earned divine grace. In *Surah an-Nisa’*, verse 69 and
 *Surah Maryam*, verse 58, the Qur’an describes this group. Here, we
 shall cite below the former reference:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ يُطِعِ ٱلرَّسُولَ فَأُولئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ اللهُ
-عَلَيهِم مِنَ ٱلنَّبِيِّينَ وَ ٱلصِّدِّيقِينَ وَ ٱلشُّهَداء وَ
-ٱلصَّالِحِينَ وَ حَسُنَ أُولٰئِكَ رَفِيقًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ يُطِعِ ٱلرَّسُولَ فَأُولئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ اللهُ
+> عَلَيهِم مِنَ ٱلنَّبِيِّينَ وَ ٱلصِّدِّيقِينَ وَ ٱلشُّهَداء وَ
+> ٱلصَّالِحِينَ وَ حَسُنَ أُولٰئِكَ رَفِيقًا ﴾
 
 ***“Whoever obeys Allah and the Apostle—they are with those whom Allah
 has blessed, including the prophets and the truthful, the martyrs and
@@ -968,11 +912,7 @@ the call for *jihad* and struggle, the common people refused to go to
 the battlefront out of self-preservation and fear, thus saying to Musa
 (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا إِنَّا هَاهُنَا قَاعِدُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا إِنَّا هَاهُنَا قَاعِدُونَ ﴾
 
 ***“Go ahead, you and your Lord, and fight! We will be sitting right
 here.”***[^69]
@@ -1015,11 +955,7 @@ aversion toward the deviant and those who have incurred the anger of God
 in every prayer makes the Islamic society firm and resistant to the
 acceptance of their rule. The Qur’an thus exhorts:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لا تَتَوَلَّوْا قَوْماً غَضِب اللَّهُ عَلَيْهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ لا تَتَوَلَّوْا قَوْماً غَضِب اللَّهُ عَلَيْهِمْ ﴾
 
 ***“Do not befriend a people at whom Allah is wrathful.”***[^70]
 
@@ -1178,5 +1114,4 @@ holy personage such as a prophet {nabi} or a saint {wali}. {Trans.}
 [^69]: Surah al-Ma’idah 5:24.
 
 [^70]: Surah al-Mumtahanah 60:13.
-
 

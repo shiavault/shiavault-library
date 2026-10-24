@@ -64,7 +64,6 @@ those more sophisticated and developed communities the true value of
 humanity, that value that is tempered by the heart and is filtered
 through love.
 
-
 **God has designed de soul to be happy**
 
 . God Blessed them, and God said to them, "Be fruitful and multiply,
@@ -246,5 +245,4 @@ seeing the beam in ours. Whoever listens to slander is himself a
 slanderer. "No one can withhold the blessing God opens up for people,
 nor can anyone but Him release whatever He withholds: He is the
 Almighty, the All Wise." (19)
-
 

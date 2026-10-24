@@ -91,7 +91,6 @@ May Allah awaken the rulers to implement the policies of the Messenger
 of Allah so that Muslims prosper in this world and in the hereafter;
 surely Allah is the Facilitator and the Helper.
 
-
 Muhammad Shirazi
 Holy City of Qum
 1st Rabee' II, 1415 Hejri (1995)
@@ -99,5 +98,4 @@ Holy City of Qum
 It is also a mark of piety to use the salutation alayhi-salam (peace be
 upon him) on mentioning one of the prophets or one of the Imams of the
 household of the prophet Muhammad.
-
 

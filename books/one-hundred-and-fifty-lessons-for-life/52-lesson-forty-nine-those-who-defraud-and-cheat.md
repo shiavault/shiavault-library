@@ -3,11 +3,7 @@ Lesson Forty Nine: Those who Defraud and Cheat
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ مِنّا مَنْ غَشَّ مُسْلِماً أَوْ ضَرَّهُ أَوْ ما كَرَهُ
-  </p>
-</blockquote>
+> لَيْسَ مِنّا مَنْ غَشَّ مُسْلِماً أَوْ ضَرَّهُ أَوْ ما كَرَهُ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ form, as is apparent from the disgust expressed in the above saying of
 Imam Ar-Ridha’ (a.s.)
 
 [^1]: Safinat’ul-Bihar
-
 

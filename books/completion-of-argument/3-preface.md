@@ -143,4 +143,3 @@ rely and in Him I trust.*
 
 [^3]: Surah Aale Imran 3:104
 
-

@@ -27,4 +27,3 @@ particle of the universe can kiss the feet. Humanity is raised so high
 in status that angels consider it a privilege to serve them. Let us now
 see their practical prowess.
 
-

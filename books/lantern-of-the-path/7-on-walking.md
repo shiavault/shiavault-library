@@ -8,13 +8,7 @@ You should reflect when you walk, and take note of the wonders of
 Allah's work wherever you go. Do not be mocking, or strut when you walk;
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ...
-  </p>
-</blockquote>
-
+> وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ...
 
 *** Do not go about in the land exulting overmuch.*** (31:18)
 
@@ -30,27 +24,13 @@ feel safe from his tricks. Make your coming and your going in obedience
 to Allah, striving for His pleasure, for all your movements will be
 recorded in your book, as Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم
-بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
-
+> يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم
+> بِمَا كَانُوا يَعْمَلُونَ
 
 ***On the day when their tongues and their hands and their feet shall
 bear witness against them regarding what they did,*** (24:24) and
 
-
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ إِنسَانٍ أَلْزَمْنَاهُ طَآئِرَهُ فِي عُنُقِهِ
-  </p>
-</blockquote>
-
+> وَكُلَّ إِنسَانٍ أَلْزَمْنَاهُ طَآئِرَهُ فِي عُنُقِهِ
 
 ***We have made every man's actions to cling to his neck.*** (17:13)
-
-
 

@@ -8,13 +8,9 @@ Holy Imams (a.s.)
 Ali bin Ibrahim has, narrated with reliable chains of narrators that
 Imam Baqir (a.s.) had said, while explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ مَنْ
-يَشَأْ اللَّهُ يُضْلِلْهُ وَمَنْ يَشَأْ يَجْعَلْهُ عَلَى صِرَاطٍ
-مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ مَنْ
+> يَشَأْ اللَّهُ يُضْلِلْهُ وَمَنْ يَشَأْ يَجْعَلْهُ عَلَى صِرَاطٍ
+> مُسْتَقِيمٍ.
 
 ***And they who reject Our communications are deaf and dumb, in utter
 darkness; whom Allah pleases He causes to err and whom He pleases He
@@ -43,11 +39,7 @@ the belying of all the legatees.[^1]
 
 Similarly in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَنْ آيَاتِنَا غَافِلُونَ.
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَنْ آيَاتِنَا غَافِلُونَ.
 
 ***And those who are heedless of Our communications. (Sura Yunus
 10:7)***
@@ -59,11 +51,7 @@ is the word of Imam Ali (a.s.): No sign of Allah is greater than I am.
 Likewise, according to reliable chains of narrators, Imam Sadiq (a.s.)
 is reported to have said, in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تُغْنِي الْآيَاتُ وَالنُّذُرُ عَنْ قَوْمٍ لَا يُؤْمِنُونَ.
-  </p>
-</blockquote>
+> وَمَا تُغْنِي الْآيَاتُ وَالنُّذُرُ عَنْ قَوْمٍ لَا يُؤْمِنُونَ.
 
 ***The verses and the warners do not give any benefit to those waywards
 who have no Faith. (Sura Yunus 10:101)***
@@ -71,12 +59,8 @@ who have no Faith. (Sura Yunus 10:101)***
 ‘Ayaat’, here, means Imams (a.s.) and ‘Nuzur’ (warners) means the
 messengers. Then in further explanation he added that:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا فَأُوْلَئِكَ لَهُمْ
-عَذَابٌ مُهِينٌ.
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا فَأُوْلَئِكَ لَهُمْ
+> عَذَابٌ مُهِينٌ.
 
 ***And (as for) those who disbelieve in and reject Our communications,
 these it is who shall have a disgraceful chastisement. (Sura Muminoon
@@ -94,12 +78,8 @@ recognize them when they see them.
 Again with a good chain of narrators Imam Sadiq (a.s.) is reported to
 have said, in explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنْ السَّمَاءِ آيَةً فَظَلَّتْ
-أَعْنَاقُهُمْ لَهَا خَاضِعِينَ.
-  </p>
-</blockquote>
+> إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنْ السَّمَاءِ آيَةً فَظَلَّتْ
+> أَعْنَاقُهُمْ لَهَا خَاضِعِينَ.
 
 ***If We wish We may send down from sky an ayat which may make them bow
 before it (Sura Shuraa 42:4)***
@@ -115,12 +95,8 @@ do not deny’ means Amirul Momineen (a.s.).
 Likewise, according to trustworthy chains of narrators, Imam Kazim
 (a.s.) is reported to have said, while explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ
-فَكَفَرُوا فَأَخَذَهُمْ اللَّهُ إِنَّهُ قَوِيٌّ شَدِيدُ الْعِقَابِ.
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ
+> فَكَفَرُوا فَأَخَذَهُمْ اللَّهُ إِنَّهُ قَوِيٌّ شَدِيدُ الْعِقَابِ.
 
 ***That was because there came to them their apostles with clear
 arguments. (Sura Ghafir 40:22)***
@@ -129,12 +105,8 @@ arguments. (Sura Ghafir 40:22)***
 
 According to Kulaini, while explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ لَا
-يَرْجُونَ لِقَاءَنَا ائْتِ بِقُرْآنٍ غَيْرِ هَذَا أَوْ بَدِّلْهُ.
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ لَا
+> يَرْجُونَ لِقَاءَنَا ائْتِ بِقُرْآنٍ غَيْرِ هَذَا أَوْ بَدِّلْهُ.
 
 ***And when Our clear communications are recited to them, those who hope
 not for Our meeting say: Bring a Quran other than this or change it.
@@ -163,11 +135,7 @@ prayer of the day of Ghadeer that: I give witness that Ali (a.s.) is the
 guiding Imam and that he is the Master of the Believers whose mention
 has been made by Allah in His book, saying:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ.
-  </p>
-</blockquote>
+> وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ.
 
 ***And surely it is in the original of the Book with Us, truly elevated,
 full of wisdom. (Sura Zukhruf 43:4)***
@@ -178,5 +146,4 @@ verses, ‘communications’ means the grandeur and greatness of Allah as
 will be described in the following verses. Second: it would mean those
 verses, which are revealed in praise of the Imams (a.s.). Denying them
 is, therefore the denial of the entire Quran.
-
 

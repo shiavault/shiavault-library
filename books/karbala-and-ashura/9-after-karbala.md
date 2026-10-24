@@ -862,4 +862,3 @@ grandmother tried to eat the liver of Hamzah Ibn ‘Abdul Muttalib
 
 [^13]: The Holy Qur’an; Sura of Ali-’Imrān 3:169
 
-

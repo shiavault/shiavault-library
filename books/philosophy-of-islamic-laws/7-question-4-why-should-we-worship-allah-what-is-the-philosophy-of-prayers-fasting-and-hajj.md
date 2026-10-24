@@ -180,7 +180,6 @@ Fasting in the Holy month of Ramadhan shows equality and unity because
 in this month the happy and poor people remain away from desires and
 lead similar life.
 
-
 The Philosophy of Hajj
 ----------------------
 
@@ -250,5 +249,4 @@ life.
 [^1]: Surah Taha 20:14
 
 [^2]: Surah Ankabut 29: 45
-
 

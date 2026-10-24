@@ -112,4 +112,3 @@ of tabi’ah, and it is with this free will that he determines his life in
 the Hereafter, as indicated in the famous hadith: “The World is a
 plantation for the Hereafter.”
 
-

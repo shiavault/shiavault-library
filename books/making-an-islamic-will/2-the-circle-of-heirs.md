@@ -9,4 +9,3 @@ are outside
 
 • The surviving spouse can never be excluded by any blood relative
 
-

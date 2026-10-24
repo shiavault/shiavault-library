@@ -544,4 +544,3 @@ from Humaid bin Muslim al-Azdi that …” See also Maqatil al-Talibiyyin
 (pg.78) [who related the report] from Abu Mikhnaf through the same chain
 of narration; and al-Irshad (pg.228) from Humaid bin Muslim.
 
-

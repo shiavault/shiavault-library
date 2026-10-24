@@ -1,12 +1,8 @@
 Section Five
 ============
 
-<blockquote dir="rtl">
-  <p>
-فَلَعَنَ اللّهُ أُمَّةً أَسَّسَتْ أَسَاسَ الظُّلْمِ وَالْجَوْرِ
-عَلَيْكُمْ أَهْلَ الْبَيْتِ
-  </p>
-</blockquote>
+> فَلَعَنَ اللّهُ أُمَّةً أَسَّسَتْ أَسَاسَ الظُّلْمِ وَالْجَوْرِ
+> عَلَيْكُمْ أَهْلَ الْبَيْتِ
 
 “May the curse (La’n) be upon those people who laid down the foundations
 for the oppression and wrongs done upon you, the family of the Prophet
@@ -49,5 +45,4 @@ Commander of the Faithful in the event of Saqifah, the foundations for
 oppression and wrongs done upon all the members of the Ahlul Bayt would
 never have been laid. Thus, we ask Allah to remove His mercy from those
 who hatched the plots which led to this great tragedy...
-
 

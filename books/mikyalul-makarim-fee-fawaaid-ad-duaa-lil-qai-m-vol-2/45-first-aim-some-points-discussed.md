@@ -30,11 +30,7 @@ Allah.
 **Third**: Perfection of rewards and excellence of manners is related to
 acquiring of piety from the aspect of the saying of the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ الْمُتَّقِينَ
 
 ***Allah only accepts from those who guard (against evil).***
 ***(Qur’an, Surah Maidah 5:27)***
@@ -45,40 +41,24 @@ piety will have better consequences and special virtues from his
 supplications and in the same way all his worship acts – whether
 obligatory or recommended – will be subject to the same criteria.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً..
-  </p>
-</blockquote>
+> إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلاً..
 
 ***We do not waste the reward of him who does a good work. (Qur’an,
 Surah Kahf 18:30)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ..
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ..
 
 ***Surely Allah does not waste the reward of the doers of good (Qur’an,
 Surah Taubah 9:120)***
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم..
-  </p>
-</blockquote>
+> أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم..
 
 ***That I will not waste the work of a worker among you (Qur’an, Surah
 Aale Imran 3:195)***
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا
-وَنَتَجاوَزُ عَن سَيِّئَاتِهِمْ فِي أَصْحَابِ الْجَنَّةِ وَعْدَ
-الصِّدْقِ الَّذِي كَانُوا يُوعَدُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا
+> وَنَتَجاوَزُ عَن سَيِّئَاتِهِمْ فِي أَصْحَابِ الْجَنَّةِ وَعْدَ
+> الصِّدْقِ الَّذِي كَانُوا يُوعَدُونَ
 
 ***These are they from whom We accept the best of what they have done
 and pass over their evil deeds, among the dwellers of the garden; the
@@ -87,11 +67,7 @@ promise of truth which they were promised. (Qur’an, Surah Ahqaf
 
 The sum total of the above verses along with the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَتَقَبَّلُ اللّهُ...
-  </p>
-</blockquote>
+> إِنَّمَا يَتَقَبَّلُ اللّهُ...
 
 …according to numerous traditional reports shows that the level of
 reward depends on the level of piety, and more explanation is not
@@ -165,11 +141,7 @@ it is narrated from Zurarah that Imam Muhammad Baqir (as) said: The
 angel does not write but that which may be understood. And Allah, the
 Mighty and Sublime has said:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً..
-  </p>
-</blockquote>
+> وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً..
 
 ***And remember your Lord within yourself humbly and fearing and in a
 voice not loud…*** ***(Qur’an, Surah Araaf 7:205)***
@@ -197,22 +169,14 @@ traditions and verses that exhort us to emulate the Imams (as) and learn
 from them knowledge and value of obedience and worship. For example the
 saying of the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي
-  </p>
-</blockquote>
+> قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي
 
 ***Say: If you love Allah, then follow me. (Qur’an, Surah Aale Imran
 3:31)***
 
 And the statement of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُواْ أَهْلَ الذِّكْرِ
-  </p>
-</blockquote>
+> فَاسْأَلُواْ أَهْلَ الذِّكْرِ
 
 ***So ask the followers of the Reminder… (Qur’an, Surah Nahl 16:42;
 Surah Anbiya 21:7)***
@@ -220,11 +184,7 @@ Surah Anbiya 21:7)***
 Because Zikr, is the Messenger of Allah (S) himself according to the
 statement of Allah:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْراً
-  </p>
-</blockquote>
+> قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْراً
 
 ***Allah has indeed revealed to you a reminder. An Apostle who recites
 to you the clear communications of Allah. (Qur’an, Surah Talaq 66:11)***
@@ -339,25 +299,17 @@ mentioned in Usool Kafi through correct, rather authentic chain of
 narrators, from Alaa bin Kamil that he said: I heard Imam Sadiq (as)
 say: the aim of…
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
-مِنَ الْقَوْلِ
-  </p>
-</blockquote>
+> وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
+> مِنَ الْقَوْلِ
 
 ***And remember your Lord within yourself humbly and fearing and in a
 voice not loud… (Qur’an, Surah Araaf 7:205)***
 
 …is evening.
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ
-وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَيُمِيتُ وَيُحْيِي وَهُوَ حَيٌّ
-لاَ يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَیْ‏ءٍ قَدِیرٌ.
-  </p>
-</blockquote>
+> لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ
+> وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَيُمِيتُ وَيُحْيِي وَهُوَ حَيٌّ
+> لاَ يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَیْ‏ءٍ قَدِیرٌ.
 
 **There is no god, except Allah, the One, there is no partner for Him.
 For Him is the Kingdom and for Him is the praise. He enlivens and causes
@@ -379,22 +331,14 @@ will not be able to see the Imam of the time. In that period no one will
 be saved except the one who recites “Dua-e-Ghareeq”. The narrator
 inquired as to what is Dua-e-Ghareeq. Imam (as) replied:
 
-<blockquote dir="rtl">
-  <p>
- يا الله يا رحمن يا رحيم يا مقلب القلوب ثبت قلبي على دينك
-  </p>
-</blockquote>
+>  يا الله يا رحمن يا رحيم يا مقلب القلوب ثبت قلبي على دينك
 
 “O Allah! O Beneficent! O Merciful! O the One Who transforms the hearts!
 Make my heart steadfast upon Your religion!”
 
 The narrator repeated the Dua in this way:
 
-<blockquote dir="rtl">
-  <p>
-يا الله يا رحمن يا رحيم يا مقلب القلوب والأبصار ثبت قلبي على دينك
-  </p>
-</blockquote>
+> يا الله يا رحمن يا رحيم يا مقلب القلوب والأبصار ثبت قلبي على دينك
 
 O Allah! O Beneficent! O Merciful! O the One Who transforms the hearts
 and the sights! Make my heart steadfast upon Your religion!
@@ -407,12 +351,8 @@ In *Wasail* it is narrated from Khisal, through the author’s own chain
 of narrators from Ismail bin Fadl that he said: I asked Imam Ja’far
 Sadiq (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ
-غُرُوبِهَا
-  </p>
-</blockquote>
+> وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ
+> غُرُوبِهَا
 
 ***And glorify your Lord by the praising of Him before the rising of the
 sun and before its setting. (Qur’an, Surah Taha 20:130)***
@@ -468,11 +408,7 @@ hold our attention as is very much obvious.
 the original command. But if you think that the saying of the Almighty
 Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُبْطِلُوا أَعْمَالَكُمْ
-  </p>
-</blockquote>
+> وَلَا تُبْطِلُوا أَعْمَالَكُمْ
 
 ***And do not make your deeds of no effect. (Qur’an, Surah Muhammad
 47:33)***
@@ -484,21 +420,13 @@ something that makes it invalid, like adopting pride and selfishness, or
 to hurt others or resort to polytheism etc., that make the deeds invalid
 in light of the following verses of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُبْطِلُواْ صَدَقَاتِكُم بِالْمَنِّ وَالأذَى
-  </p>
-</blockquote>
+> لاَ تُبْطِلُواْ صَدَقَاتِكُم بِالْمَنِّ وَالأذَى
 
 ***Do not make your charity worthless by reproach and injury. (Qur’an,
 Surah Baqarah 2:264)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
-أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ
-  </p>
-</blockquote>
+> وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
+> أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ
 
 ***And certainly, it has been revealed to you and to those before you:
 Surely if you associate (with Allah), your work would certainly come to
@@ -520,22 +448,14 @@ for this very purpose because it is a kind of according respect to the
 signs of Allah and it is these same expressions of religion about whom
 it is said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ
-  </p>
-</blockquote>
+> وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ
 
 ***And whoever respects the signs of Allah, this surely is (the outcome)
 of the piety of hearts. (Qur’an, Surah Hajj 22:32)***
 
 Also in view of the Imam’s words in Dua Nudbah:
 
-<blockquote dir="rtl">
-  <p>
- إلى متى أحأر فيك يا مولاي، وإلى متى.
-  </p>
-</blockquote>
+>  إلى متى أحأر فيك يا مولاي، وإلى متى.
 
 ***How long am I to bewail for you, O my Master! And how long (Qur’an,
 Surah Nahl 16:53)***
@@ -547,11 +467,7 @@ Jauran: Raise up your voice in Dua and call for help with humility.
 
 In *Majmaul Bahrayn* it is said: The saying of Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَإِلَيْهِ تَجْأَرُونَ
-  </p>
-</blockquote>
+> فَإِلَيْهِ تَجْأَرُونَ
 
 ***To Him do you cry for aid.***
 
@@ -627,12 +543,8 @@ Other traditional reports are also present but we have refrained from
 their mention for the sake of brevity. Our contention is also supported
 by that which has come in Dua:
 
-<blockquote dir="rtl">
-  <p>
-اللهم بلغ مولاي صاحب الزمان (عليه السلام) عن جميع المؤمنين والمؤمنات
-في مشارق الأرض ومغاربها
-  </p>
-</blockquote>
+> اللهم بلغ مولاي صاحب الزمان (عليه السلام) عن جميع المؤمنين والمؤمنات
+> في مشارق الأرض ومغاربها
 
 O Allah, convey to the master, the Master of the Time, (greetings) from
 all the believer men and women in the easts of the earth and its west…
@@ -687,13 +599,9 @@ good act. And apparently the mention of Prayer, Sadaqah and Hajj is by
 way of example. On the basis of this what we have mentioned can also be
 supported by the following lines of Dua Ahad:
 
-<blockquote dir="rtl">
-  <p>
-اللهم بلغ مولاي صاحب الزمان (عليه السلام) عن جميع المؤمنين والمؤمنات
-في مشارق الأرض ومغاربها، وبرها وبحرها، وسهلها وجبلها حيهم وميتهم، وعن
-والدي، وولدي وعني من الصلوات والتحيات
-  </p>
-</blockquote>
+> اللهم بلغ مولاي صاحب الزمان (عليه السلام) عن جميع المؤمنين والمؤمنات
+> في مشارق الأرض ومغاربها، وبرها وبحرها، وسهلها وجبلها حيهم وميتهم، وعن
+> والدي، وولدي وعني من الصلوات والتحيات
 
 **O Allah, convey to the master, the Master of the Time, from all the
 believer men and women in the easts of the earth and its west. In its
@@ -808,5 +716,4 @@ blessings on him and made him the greatest of the doers of good.[^21]
 
 [^21]: Biharul Anwar; Vol. 27, Pg. 223. In another tradition the same
 thing is related from Imam Sadiq (as).
-
 

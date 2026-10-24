@@ -7,10 +7,5 @@ The Cause And The Effects
 their causes, and the particulars to their universals.
 
 > 1ـ لَـتَرْجِعَنَّ الفُرُوعُ عَلى أُصُولِها والمَعْلُولاتُ إلى عِلَلِها
-<blockquote dir="rtl">
-  <p>
-والجُزْئيّاتُ إلى كُلِّياتِها.
-  </p>
-</blockquote>
-
+> والجُزْئيّاتُ إلى كُلِّياتِها.
 

@@ -900,4 +900,3 @@ of our mistakes and shortcomings of deeds by mentioning a suitable
 tradition, a historical incident or an expressive story and make us
 consider correcting our mistakes.
 
-

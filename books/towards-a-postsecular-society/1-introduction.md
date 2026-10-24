@@ -104,4 +104,3 @@ and unconventional spiritualities in their art
 7- Deep ecology and ‘ecosophy,’ mystical approaches to Nature, from
 Thoreau to Dillard.
 
-

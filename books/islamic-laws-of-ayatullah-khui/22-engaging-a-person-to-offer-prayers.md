@@ -107,4 +107,3 @@ and his heirs permit theta person should be hired for all his prayers
 and if they do not permit, one third of his property should be spent for
 all his prayers.
 
-

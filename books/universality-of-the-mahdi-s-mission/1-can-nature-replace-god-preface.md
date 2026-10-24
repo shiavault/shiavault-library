@@ -99,4 +99,3 @@ both will have their roles in establishing God's kingdom on Earth.
 Throughout the course of history, many prophets reminded their peoples
 of the Days of Allah. Let us first examine these days in sequence.
 
-

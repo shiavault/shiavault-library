@@ -469,7 +469,6 @@ statement when He says:
 **
 َةُ لِلْمُتَّقِيْن
 
-  
 ﴾
 
 *“And the outcome will be in favor of the God-wary.”*[^48]
@@ -750,5 +749,4 @@ http://www.al-islam.org/quran. (Trans.)
 
 [^50]: Bihar al-Anwar, vol. 52, p. 383. There have also been hadiths
 among the Ahl as-Sunnah with similar contents.
-
 

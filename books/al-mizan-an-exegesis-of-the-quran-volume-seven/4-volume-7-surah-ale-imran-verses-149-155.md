@@ -561,4 +561,3 @@ connotation, although both denote pardoning. There is no proof to show
 that pardon, forgiveness and things like that have the same connotation
 everywhere; and we have explained how the two differ in these verses.
 
-

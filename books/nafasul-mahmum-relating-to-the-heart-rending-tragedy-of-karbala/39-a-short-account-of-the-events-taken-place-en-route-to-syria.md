@@ -122,4 +122,3 @@ head of Imam from them. Therefore they took a deviated route and
 whenever they would reach a tribe and ask for food from them, they would
 say that this head is that of a rebel.
 
-

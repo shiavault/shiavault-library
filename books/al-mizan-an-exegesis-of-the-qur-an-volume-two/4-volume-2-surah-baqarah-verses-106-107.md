@@ -370,7 +370,6 @@ of "causing to be forgotten"; but all of them have to be discarded
 because they go against the teaching of the Book of Allah, as we have
 explained in the meaning of this word.
 
-
 \* al-Bada' is a terminology of Shiite theology. It means that Allah
 makes known His plan to His chosen servants only to that extent which is
 beneficial to the mankind or which is necessary to make a test

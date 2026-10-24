@@ -78,4 +78,3 @@ You feeling secure, asking You, feeling close to You, neither afraid nor
 being apprehensive, flirting with that for which I seek You; so, if Your
 response is slow, I remonstrate with You due to my own ignorance…, etc."
 
-

@@ -22,4 +22,3 @@ objective compliment.
 • Sentence: **اُطلُب** **العِلمَ** **و** **أنتَ** **فَتیً** (Seek
 knowledge while you are young.)
 
-

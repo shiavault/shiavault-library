@@ -47,4 +47,3 @@ Prophet (S) and those who were really related to the Prophet were
 forgotten. It is clear that this political need is not necessary for the
 Shias of this time.
 
-

@@ -12,5 +12,3 @@ Even then it is better if man is transfused with the blood of man and
 woman with the blood of a woman. But if this is not possible, as
 mentioned above, it is not haraam.
 
-
-

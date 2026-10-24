@@ -122,4 +122,3 @@ happiness, which is acceptable for various people of the world today,
 especially when these philosophical and religious views are compared
 with the most recent researches.
 
-

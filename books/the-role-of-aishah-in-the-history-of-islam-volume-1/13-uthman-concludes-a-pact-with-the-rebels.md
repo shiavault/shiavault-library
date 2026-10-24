@@ -782,4 +782,3 @@ the Qur'an in answer to her: "If Thou turn not away their (women) device
 from me, I will yearn towards them and become one of the ignorant."
 213
 
-

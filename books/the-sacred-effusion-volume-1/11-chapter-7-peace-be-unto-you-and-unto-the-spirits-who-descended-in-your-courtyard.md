@@ -1,22 +1,14 @@
 Chapter 7: Peace be unto you and unto the spirits who descended in your courtyard
 =================================================================================
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ وَعَلى الأَرْوَاحِ الَّتِى حَلَّتْ بِفِنَائِكَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ وَعَلى الأَرْوَاحِ الَّتِى حَلَّتْ بِفِنَائِكَ
 
 Peace be unto you and unto the spirits who descended in your courtyard
 
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ وَعَلى الأَرْوَاحِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ وَعَلى الأَرْوَاحِ
 
 Peace be unto you and unto the spirits...
 
@@ -27,11 +19,7 @@ martyrdom, also enjoy the state of peace and protection from calamities.
 And if we take the verse to be invocative, then we also pray for higher
 states of *salam* for them.
 
-<blockquote dir="rtl">
-  <p>
-وَعَلىَ الارْوَاحِ
-  </p>
-</blockquote>
+> وَعَلىَ الارْوَاحِ
 
 And unto the spirits (*arwah*)
 
@@ -42,12 +30,8 @@ quality of *rih*, which moves (*mutaharrik*) and makes things move
 tradition narrated in *al-Kafi*, Imam al-Sadiq (AS) tells Muhammad bin
 Muslim:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الرُّوْحَ مُتَحَرِّكٌ كَالرِّيْحِ وَإِنَّمَا سُمِّيَ رُوْحًا
-لأَنَّهُ اشْتُقَّ اِسْمُهُ مِنَ الرِّيْحِ...
-  </p>
-</blockquote>
+> إِنَّ الرُّوْحَ مُتَحَرِّكٌ كَالرِّيْحِ وَإِنَّمَا سُمِّيَ رُوْحًا
+> لأَنَّهُ اشْتُقَّ اِسْمُهُ مِنَ الرِّيْحِ...
 
 Indeed *ruh* (spirit) is in motion like *rih* (lit. wind), and ***it was
 named ruh because its name was gotten from al-rih...***[^2]
@@ -57,23 +41,15 @@ for the Holy Qur\`an explicitly tells us that every entity does
 *tasbih*, which, according to authoritative lexicographers like Raghib
 al-Isfahani, fundamentally means:
 
-<blockquote dir="rtl">
-  <p>
-اَلْمَرُّ السَّرِيْعُ فِيْ عِبَادَةِ اللهِ
-  </p>
-</blockquote>
+> اَلْمَرُّ السَّرِيْعُ فِيْ عِبَادَةِ اللهِ
 
 “...to travel swiftly in the path of Divine worship.”[^3]
 
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-تُسَبِّحُ لَهُ السَّماواتُ السَّبْعُ وَالأَرْضُ وَمَنْ فيهِنَّ وَإِنْ
-مِنْ شَيْ‏ءٍ إِلاَّ يُسَبِّحُ بِحَمْدِهِ وَلكِنْ لا تَفْقَهُونَ
-تَسْبيحَهُمْ إِنَّهُ كانَ حَليماً غَفُورا
-  </p>
-</blockquote>
+> تُسَبِّحُ لَهُ السَّماواتُ السَّبْعُ وَالأَرْضُ وَمَنْ فيهِنَّ وَإِنْ
+> مِنْ شَيْ‏ءٍ إِلاَّ يُسَبِّحُ بِحَمْدِهِ وَلكِنْ لا تَفْقَهُونَ
+> تَسْبيحَهُمْ إِنَّهُ كانَ حَليماً غَفُورا
 
 ***The seven heavens glorify Him, and the earth [too], and whoever is in
 them. There is not a thing but that it glorifies Him with praise, but
@@ -92,15 +68,11 @@ body, and the body serves as a lower manifestation of the spirit.
 Observe the following verse of the Qur\`an which talks about how the
 human spirit is blown:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الإِنْسَانَ مِنْ سُلاَلَةٍ مِنْ طيْنٍ. ثُمَّ
-جَعَلْنَاهُ نُطفَةً فِيْ قَرَارٍ مَكِيْنٍ. ثُمَّ خَلَقْنَا النُّطفَةَ
-عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
-عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنْشَأْنَاهُ خَلْقًا
-آخَرَ فَتَبَارَكَ اللهُ أَحْسَنَ الْخَالِقِيْنَ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الإِنْسَانَ مِنْ سُلاَلَةٍ مِنْ طيْنٍ. ثُمَّ
+> جَعَلْنَاهُ نُطفَةً فِيْ قَرَارٍ مَكِيْنٍ. ثُمَّ خَلَقْنَا النُّطفَةَ
+> عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
+> عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنْشَأْنَاهُ خَلْقًا
+> آخَرَ فَتَبَارَكَ اللهُ أَحْسَنَ الْخَالِقِيْنَ
 
 ***And certainly We created man of an extract of clay,*** ***Then We
 made him a small seed in a firm resting-place,*** ***Then We made the
@@ -118,17 +90,9 @@ very body and brings it to a higher state.
 The great philosopher and mystic, Mulla Hadi Sabzawari, in his poetical
 masterpiece *al-Manzhumah* says:
 
-<blockquote dir="rtl">
-  <p>
-اَلنَّفْسُ فِي الْحُدُوْثِ جِسْمَانِيّةٌ
-  </p>
-</blockquote>
+> اَلنَّفْسُ فِي الْحُدُوْثِ جِسْمَانِيّةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَفِي الْبَقَا تَكُوْنُ رُوْحَانِيّـــــــــــة
-  </p>
-</blockquote>
+> وَفِي الْبَقَا تَكُوْنُ رُوْحَانِيّـــــــــــة
 
 *The soul in its origination is material,*  
 *but in its survival is spiritual.*[^4]
@@ -155,12 +119,8 @@ out of corporeal matter...[^6]
 
 There is a tradition from Imam ‘Ali (AS) worthy of contemplation:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَضْمَرَ أَحَدٌ شَيْئًا اِلاَّ ظَهَرَ فِيْ فَلَتَاتِ لِسَانِهِ
-وَصَفَحَاتِ وَجْهِهِ
-  </p>
-</blockquote>
+> مَا أَضْمَرَ أَحَدٌ شَيْئًا اِلاَّ ظَهَرَ فِيْ فَلَتَاتِ لِسَانِهِ
+> وَصَفَحَاتِ وَجْهِهِ
 
 No one hides anything save that it appears in the lapses of his tongue
 and the cheeks of his face.[^7]
@@ -170,11 +130,7 @@ his physical structure and his inner side which is the spirit. The
 physical can only reveal what is hidden of the spiritual if it is united
 with the latter.
 
-<blockquote dir="rtl">
-  <p>
-وَعَلىَ الارْوَاحِ
-  </p>
-</blockquote>
+> وَعَلىَ الارْوَاحِ
 
 And unto the spirits (*al-arwah*)
 
@@ -184,13 +140,9 @@ around the radiant *rawdha* of Imam al-Husayn (AS). Explaining the
 reality of angels, Shaykh al-Tabrasi in his *Tafsir Majma’ al-Bayan*
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمَلاَئِكَةُ رُوْحَانِيُّوْنَ خُلِقُوْا مِنَ الرِّيْحِ فِي قَوْلِ
-بَعْضِهِمْ، وَمِن النُّوْرِ فِيْ قَوْلِ الْحَسَنِ، لاَ يَتَنَاسَلُوْنَ
-وَلاَ يَطعَمُوْنَ وَلاَ يَشْرَبُوْنَ.
-  </p>
-</blockquote>
+> وَالْمَلاَئِكَةُ رُوْحَانِيُّوْنَ خُلِقُوْا مِنَ الرِّيْحِ فِي قَوْلِ
+> بَعْضِهِمْ، وَمِن النُّوْرِ فِيْ قَوْلِ الْحَسَنِ، لاَ يَتَنَاسَلُوْنَ
+> وَلاَ يَطعَمُوْنَ وَلاَ يَشْرَبُوْنَ.
 
 And angels are spiritual entities (*ruhaniyyun*). They were created from
 *al-rih (the wind)* according to some, and from light (*al-nur*)
@@ -208,12 +160,8 @@ According to authoritative scholars like Mir Damad and Mulla Hadi
 Sabzawari, *al-ruhaniyyun* (the spiritual entities) are the highest of
 the classes of the angels. In his *Sharh al-Asma’* Sabzawari says:
 
-<blockquote dir="rtl">
-  <p>
-...فَالأَعْلى طبَقَةً اَلَّذِيْنَ طعَامُهُمْ التَّسْبِيْحُ
-وَشَرَابُهُم التَّقْدِيْسُ اَلرُّوْحَانِيُّوْنَ....
-  </p>
-</blockquote>
+> ...فَالأَعْلى طبَقَةً اَلَّذِيْنَ طعَامُهُمْ التَّسْبِيْحُ
+> وَشَرَابُهُم التَّقْدِيْسُ اَلرُّوْحَانِيُّوْنَ....
 
 ...The angels of the highest level, whose food is glorification
 (*al-tasbih*) and whose drink is sanctification (*al-taqdis*), are the
@@ -223,18 +171,14 @@ There are ample traditions that explicitly mention the existence of so
 many angels in the proximity and neighborhood of the grave of Imam
 al-Husayn (AS). The following is an example:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمّد بْن مَرْوَان، عَنْ أَبِيْ عَبْدِ اللهِ، قَالَ: سَمِعْتُهُ
-يَقُوْلُ: زُوْرُوْا الْحُسَيْنَ وَلَوْ كُلُّ سَنَة، فَاِنَّ كُلَّ مَنْ
-أَتَاهُ عَارِفًا بِحَقِّهِ غَيْرَ جَاحِدٍ لَمْ يَكُنْ لَهُ عِوَضٌ
-غَيْرُ الْجَنَّةِ، وَرُزِقَ رِزْقًا وَاسِعًا، وَأَتَاهُ اللهُ بِفَرَجٍ
-عَاجِلٍ، اِنَّ اللهَ وَكَّلَ بِقَبْرِ الْحُسَيْنِ بْنِ عَلِيٍّ
-أَرْبَعَةَ آلاَف مَلَكٍ كُلُّهُمْ يَبْكُوْنَهُ وَيُشَيِّعُوْنَ مَنْ
-زَارَهُ إِلى أَهْلِهِ، فَاِنْ مَرِضَ عَادُوْهُ، وَاِنْ مَاتَ شَهِدُوا
-جَنَازَتَهُ بِالاِسْتِغْفَارِ لَهُ وَالتَّرَحُّمِ عَلَيْهِ
-  </p>
-</blockquote>
+> عَنْ مُحَمّد بْن مَرْوَان، عَنْ أَبِيْ عَبْدِ اللهِ، قَالَ: سَمِعْتُهُ
+> يَقُوْلُ: زُوْرُوْا الْحُسَيْنَ وَلَوْ كُلُّ سَنَة، فَاِنَّ كُلَّ مَنْ
+> أَتَاهُ عَارِفًا بِحَقِّهِ غَيْرَ جَاحِدٍ لَمْ يَكُنْ لَهُ عِوَضٌ
+> غَيْرُ الْجَنَّةِ، وَرُزِقَ رِزْقًا وَاسِعًا، وَأَتَاهُ اللهُ بِفَرَجٍ
+> عَاجِلٍ، اِنَّ اللهَ وَكَّلَ بِقَبْرِ الْحُسَيْنِ بْنِ عَلِيٍّ
+> أَرْبَعَةَ آلاَف مَلَكٍ كُلُّهُمْ يَبْكُوْنَهُ وَيُشَيِّعُوْنَ مَنْ
+> زَارَهُ إِلى أَهْلِهِ، فَاِنْ مَرِضَ عَادُوْهُ، وَاِنْ مَاتَ شَهِدُوا
+> جَنَازَتَهُ بِالاِسْتِغْفَارِ لَهُ وَالتَّرَحُّمِ عَلَيْهِ
 
 Muhammad bin Marwan is reported to have said: I heard him [Imam al-Sadiq
 (AS)] say: Visit al-Husayn (AS), even if it is once a year, for
@@ -252,12 +196,8 @@ the grave of al-Husayn (AS). In another *ziyara* of bidding farewell to
 Imam al-Husayn (AS) we explicitly send our salams to the angels.
 Al-Mashhadi in his *al-Mazar* narrates the following *Ziyarat*:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلاَمُ عَلَيْكُمْ يَا مَلاَئِكَةَ رَبِّي الْمُقِيْمِيْنَ فِيْ
-هَذَا الْحَرَمِ
-  </p>
-</blockquote>
+> اَلسَّلاَمُ عَلَيْكُمْ يَا مَلاَئِكَةَ رَبِّي الْمُقِيْمِيْنَ فِيْ
+> هَذَا الْحَرَمِ
 
 Peace be on you o angels of my Lord, **who inhabit this
 sanctuary**.[^11]
@@ -266,11 +206,7 @@ According to this nondescript, the most probable meaning of *al-arwah*
 refers to the companions, but there is no harm if we intend the angels
 too.
 
-<blockquote dir="rtl">
-  <p>
-...الَّتِي حَلَّتْ بِفِنَائِكَ
-  </p>
-</blockquote>
+> ...الَّتِي حَلَّتْ بِفِنَائِكَ
 
 ...who descended in your courtyard
 
@@ -296,23 +232,15 @@ us understand better their sanctity and elevated spirits:
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ أَصْحَابُ
-الْجَنَّةِ هُمُ الْفَائِزُونَ
-  </p>
-</blockquote>
+> لاَ يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ أَصْحَابُ
+> الْجَنَّةِ هُمُ الْفَائِزُونَ
 
 ***The companions of Hell Fire and the companions of the Paradise are
 not alike; the companions of the Paradise are the achievers. (59:20)***
 
 Imam al-Husayn (AS) is reported to have said about his noble companions:
 
-<blockquote dir="rtl">
-  <p>
-إِنِيْ لاَ اَعْلَمُ اَصْحَاباً اَوْفَى، وَلاَ خَيْراً مِنْ اَصْحَابِيْ
-  </p>
-</blockquote>
+> إِنِيْ لاَ اَعْلَمُ اَصْحَاباً اَوْفَى، وَلاَ خَيْراً مِنْ اَصْحَابِيْ
 
 ‘Surely I do not know companions more faithful and better than my
 companions’.[^12]
@@ -320,11 +248,7 @@ companions’.[^12]
 In one of the radiant *ziyarat*, we address the companions of Imam
 al-Husayn (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-السَّلاَمُ عَلَيْكُمْ يَا خَيْرَ أَنْصَارٍ...
-  </p>
-</blockquote>
+> السَّلاَمُ عَلَيْكُمْ يَا خَيْرَ أَنْصَارٍ...
 
 Peace be unto you O best helpers.
 
@@ -340,18 +264,10 @@ common, it is not always meant. Before we establish our contention, let
 us consider the meaning of *ashab*: Raghib al-Isfahani in his lexicon of
 Qur\`an under the discussion of the root word صحب *“s h b”* says:
 
-<blockquote dir="rtl">
-  <p>
-الصاحب الملازم إنسانا كان أو حيوانا أو مكانا أو زمانا ولا فرق بين أن
-تكون مصاحبته بالبدن وهو الاصل والاكثر أو بالعناية والهمة وعلى هذا قال:
-  </p>
-</blockquote>
+> الصاحب الملازم إنسانا كان أو حيوانا أو مكانا أو زمانا ولا فرق بين أن
+> تكون مصاحبته بالبدن وهو الاصل والاكثر أو بالعناية والهمة وعلى هذا قال:
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ غِبْتِ عَنْ عَيْنِيْ لَمَا غِبْتِ عَنْ قَلْبِيْ
-  </p>
-</blockquote>
+> لَئِنْ غِبْتِ عَنْ عَيْنِيْ لَمَا غِبْتِ عَنْ قَلْبِيْ
 
 *Al-sahib* [pl. *ashab*] is one who accompanies whether a human being,
 an animal, a place or an age. And it makes no difference whether his
@@ -373,11 +289,7 @@ A well-known tradition narrated by some Muslims to establish the purity
 of all those who physically accompanied the Holy Prophet (S) is as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-اَصْحَابِيْ كَالنّجُوْمِ بِاَيّهِمْ اِقْتَدَيْتُمْ اِهْتَدَيْتُمْ
-  </p>
-</blockquote>
+> اَصْحَابِيْ كَالنّجُوْمِ بِاَيّهِمْ اِقْتَدَيْتُمْ اِهْتَدَيْتُمْ
 
 My companions are like stars, whosoever among them were you to follow,
 you will be guided.[^14]
@@ -404,19 +316,15 @@ There is another tradition narrated by Shi’i sources however, that is
 somewhat similar to the abovementioned traditon, but sound and more
 meaningful: Imam al-Baqir (AS) narrates from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-مَا وَجَدْتُمْ فِيْ كِتَابِ اللّهِ عَزّ وَجَلّ فَالْعَمَلُ بِهِ
-لاَزِمٌ لاَ عُذْرَ لَكُمْ فِيْ تَرْكِهِ، وَمَا لَمْ يَكُنْ فِيْ
-كِتَابِ اللّهِ وَكَانَتْ فِيْهِ سُنّة ٌمِنِّي لاَ عُذْرَ لَكُمْ فِيْ
-تَرْكِ سُنّتِيْ، وَمَا لَمْ يَكُنْ فِيْهِ سُنّةٌ مِنّيْ فَمَا قَالَ
-اَصْحَابِيْ فَخُذُوْهُ، فَإِنّمَا مَثَلُ اَصْحَابِيْ فِيْكُمْ كَمَثَلِ
-النّجُوْمِ، بِاَيّهَا اُخِذَ اهْتُدِيَ فَبِاَيّ اَقَاوِيْلِ
-اَصْحَابِيْ اَخَذْتُمْ اِهْتَدَيْتُمْ، وَاِخْتِلاَفُ اَصْحَابِيْ
-لَكُمْ رَحْمَةٌ، قِيْلَ: يَا رَسُوْلَ اللّهِ مَنْ اَصْحَابُكَ؟ قَالَ:
-اَهْلُ بَيْتِيْ
-  </p>
-</blockquote>
+> مَا وَجَدْتُمْ فِيْ كِتَابِ اللّهِ عَزّ وَجَلّ فَالْعَمَلُ بِهِ
+> لاَزِمٌ لاَ عُذْرَ لَكُمْ فِيْ تَرْكِهِ، وَمَا لَمْ يَكُنْ فِيْ
+> كِتَابِ اللّهِ وَكَانَتْ فِيْهِ سُنّة ٌمِنِّي لاَ عُذْرَ لَكُمْ فِيْ
+> تَرْكِ سُنّتِيْ، وَمَا لَمْ يَكُنْ فِيْهِ سُنّةٌ مِنّيْ فَمَا قَالَ
+> اَصْحَابِيْ فَخُذُوْهُ، فَإِنّمَا مَثَلُ اَصْحَابِيْ فِيْكُمْ كَمَثَلِ
+> النّجُوْمِ، بِاَيّهَا اُخِذَ اهْتُدِيَ فَبِاَيّ اَقَاوِيْلِ
+> اَصْحَابِيْ اَخَذْتُمْ اِهْتَدَيْتُمْ، وَاِخْتِلاَفُ اَصْحَابِيْ
+> لَكُمْ رَحْمَةٌ، قِيْلَ: يَا رَسُوْلَ اللّهِ مَنْ اَصْحَابُكَ؟ قَالَ:
+> اَهْلُ بَيْتِيْ
 
 It is essential to act according to what you find in the Book of Allah;
 and you have no excuse to abandon it. Likewise you have no excuse to
@@ -441,11 +349,7 @@ radiating light.
 The aforesaid discussion was to illustrate the meaning of *ashab* when
 Imam al-Husayn (AS) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِيْ لاَ اَعْلَمُ اَصْحَاباً اَوْفَى وَلاَ خَيْراً مِنْ اَصْحَابِيْ
-  </p>
-</blockquote>
+> إِنِيْ لاَ اَعْلَمُ اَصْحَاباً اَوْفَى وَلاَ خَيْراً مِنْ اَصْحَابِيْ
 
 ‘Surely I do not know companions more faithful and better than my
 companions’[^16]
@@ -462,11 +366,7 @@ ephemeral end.
 
 As earlier mentioned, the Imam clearly said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِيْ لاَ اَعْلَمُ اَصْحَاباً اَوْفَى وَلاَ خَيْراً مِنْ اَصْحَابِيْ
-  </p>
-</blockquote>
+> إِنِيْ لاَ اَعْلَمُ اَصْحَاباً اَوْفَى وَلاَ خَيْراً مِنْ اَصْحَابِيْ
 
 ‘Surely I do not know ***companions more loyal*** and better than my
 companions’[^17]
@@ -476,13 +376,9 @@ loyal of all companions. Whenever loyalty is talked about, there is
 always a pledge behind it. Perhaps the best expression of their state is
 conferred by the following verse of the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْمُؤْمِنينَ رِجالٌ صَدَقُوا ما عاهَدُوا اللَّهَ عَلَيْهِ
-فَمِنْهُمْ مَنْ قَضى‏ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ وَ ما
-بَدَّلُوا تَبْديلاً
-  </p>
-</blockquote>
+> مِنَ الْمُؤْمِنينَ رِجالٌ صَدَقُوا ما عاهَدُوا اللَّهَ عَلَيْهِ
+> فَمِنْهُمْ مَنْ قَضى‏ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ وَ ما
+> بَدَّلُوا تَبْديلاً
 
 ***Among the faithful are men*** **who fulfill what they have pledged to
 Allah.** ***Of them are some who have fulfilled their pledge, and of
@@ -500,27 +396,19 @@ were ready to be martyred with him.
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-...وَالَّذِينَ آمَنُواْ أَشَدُّ حُبًّا لِّلّهِ...
-  </p>
-</blockquote>
+> ...وَالَّذِينَ آمَنُواْ أَشَدُّ حُبًّا لِّلّهِ...
 
 ***...and those who believe are more intense in their love for Allah...
 (2:165)***
 
 It is narrated from Imam al-Baqir (AS):
 
-<blockquote dir="rtl">
-  <p>
-خَرَجَ عَلِيّ يَسِيْرُ بِالنَّاسِ حَتَّى إِذَا كَانَ بِكَرْبَلاَءِ
-عَلىَ مَيْلَيْنِ اَوْ مَيْلٍ تَقَدَّمَ بَيْنَ اَيْدِيْهِمْ حَتَّى طافَ
-بِمَكَانٍ يُقَالُ لَهَا الْمِقْذَفَانِ فَقَالَ قُتِلَ فِيْهَا مِائَتَا
-نَبِيّ وَمِائَتَا سِبْط كُلُّهُمْ شُهَدَاء وَمَنَاخُ رُكّابٍ
-وَمَصَارِعُ عُشّاقٍ شُهَدَاء لاَ يَسْبِقُهُمْ مَنْ كَانَ قَبْلَهُمْ
-وَلاَ يَلْحَقُهُمْ مَنْ بَعْدَهُمْ
-  </p>
-</blockquote>
+> خَرَجَ عَلِيّ يَسِيْرُ بِالنَّاسِ حَتَّى إِذَا كَانَ بِكَرْبَلاَءِ
+> عَلىَ مَيْلَيْنِ اَوْ مَيْلٍ تَقَدَّمَ بَيْنَ اَيْدِيْهِمْ حَتَّى طافَ
+> بِمَكَانٍ يُقَالُ لَهَا الْمِقْذَفَانِ فَقَالَ قُتِلَ فِيْهَا مِائَتَا
+> نَبِيّ وَمِائَتَا سِبْط كُلُّهُمْ شُهَدَاء وَمَنَاخُ رُكّابٍ
+> وَمَصَارِعُ عُشّاقٍ شُهَدَاء لاَ يَسْبِقُهُمْ مَنْ كَانَ قَبْلَهُمْ
+> وَلاَ يَلْحَقُهُمْ مَنْ بَعْدَهُمْ
 
 [Imam] ‘Ali (AS) went out with some people until he reached a place one
 or two miles near Karbala’, whereupon he went forward and
@@ -538,13 +426,9 @@ a plant that coils around a tree from its roots to its branches, and
 thus envelops it the way passionate love embraces one’s entire
 heart[^19]. Ibn ‘Arabi translates *‘ishq* as follows:
 
-<blockquote dir="rtl">
-  <p>
-ثم العشق وهو التفافه بالقلب مأخوذ من العشقة اللبلابة المشوكة التي تلتف
-على شجرة العنبة وأمثالها فهو يلتف بقلب المحب حتى يعميه عن النظر إلى
-غير محبوبه
-  </p>
-</blockquote>
+> ثم العشق وهو التفافه بالقلب مأخوذ من العشقة اللبلابة المشوكة التي تلتف
+> على شجرة العنبة وأمثالها فهو يلتف بقلب المحب حتى يعميه عن النظر إلى
+> غير محبوبه
 
 Then comes *‘ishq* which is when love coils the heart; it is gotten from
 *al-’ashaqa*, which is the thorned convolvulus (or bindweed), that,
@@ -556,11 +440,7 @@ beloved.[^20]
 In the well-known *Ziyarat al-Shuhada’* we address the companions of
 Imam al-Husayn (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلاَمُ عَلَيْكُمْ يَآ أَوْلِيآءَ اللهِ وَأَحِبّآءَهُ
-  </p>
-</blockquote>
+> اَلسَّلاَمُ عَلَيْكُمْ يَآ أَوْلِيآءَ اللهِ وَأَحِبّآءَهُ
 
 Peace be unto you, O friends and **beloveds of Allah**[^21]
 
@@ -576,15 +456,11 @@ necessarily His lover.
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ
-فَسَوْفَ يَأْتِي اللّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ
-عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي
-سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ذَلِكَ فَضْلُ اللّهِ
-يُؤْتِيهِ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ
+> فَسَوْفَ يَأْتِي اللّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ
+> عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي
+> سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ذَلِكَ فَضْلُ اللّهِ
+> يُؤْتِيهِ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
 
 ***O you who believe! whoever from among you turns back from his
 religion, then Allah will bring a people,*** **He shall love them and
@@ -604,12 +480,8 @@ unravel other noteworthy secrets. Expounding on the etymology of the
 word *‘hubb*’ Sayyid al-Jaza’iri in his ethical masterpiece *al-Anwar
 al-Nu’maniyya* says:
 
-<blockquote dir="rtl">
-  <p>
-سمّي الحب حبا لوصوله إلى حَبّة القلب التي هي منبع الحياة، وإذا اتصل
-بها سرى مع الحياة في جميع اجزاء البدن واثبت في كل جزء صورة المحبوب
-  </p>
-</blockquote>
+> سمّي الحب حبا لوصوله إلى حَبّة القلب التي هي منبع الحياة، وإذا اتصل
+> بها سرى مع الحياة في جميع اجزاء البدن واثبت في كل جزء صورة المحبوب
 
 The infinitive noun ‘*hubb*’ (lit. love) was called *hubb* because it
 reaches the *habbat al-qalb* (the seed of the heart), which is the
@@ -626,11 +498,7 @@ al-falaq* ***(the Lord of splitting- 113:1).***
 Another interesting expression we employ when we address the companions
 is the following:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلاَمُ عَلَيْكُمْ يَا أَصْفِيَاءَ اللهِ وَأَوِدَّاءَهُ
-  </p>
-</blockquote>
+> اَلسَّلاَمُ عَلَيْكُمْ يَا أَصْفِيَاءَ اللهِ وَأَوِدَّاءَهُ
 
 Peace be unto you, O chosen ones of Allah and His **lovers**[^25]
 
@@ -645,22 +513,14 @@ confers the meaning of stable and constant love.
 
 Ha’iri in his *Muqtaniyat al-Durar* says:
 
-<blockquote dir="rtl">
-  <p>
-وأصل الودّ من الوتد وهو أثبت من المحبّة
-  </p>
-</blockquote>
+> وأصل الودّ من الوتد وهو أثبت من المحبّة
 
 ...and the origin of *al-wudd* is *al-watad* (nail) and it is more firm
 than *al-mahabba* (germinal love)...[^27]
 
 And in his *Tafsir Ruh al-Bayan* Haqqi says:
 
-<blockquote dir="rtl">
-  <p>
-الود أثبت فى أرض القلب من المحبة لاشتقاقه من الوتد
-  </p>
-</blockquote>
+> الود أثبت فى أرض القلب من المحبة لاشتقاقه من الوتد
 
 *Al-wudd* is more firm in the earth of the heart than *al-mahabba*,
 because it is derived from *al-watad* (nail)...[^28]
@@ -706,14 +566,10 @@ manifests the love of the Only Beloved in every move he makes.
 Expressions like the following reveal how intense was the love that
 glowed in the hearts of the Imam (AS)’s companions:
 
-<blockquote dir="rtl">
-  <p>
-وَقَامَ إِلَيْهِ رَجُلٌ يُقَالُ لَهُ زُهَيْر بن اَلْقَيْن اَلْبَجلِي،
-فَقَالَ : يَا بْنَ رَسُوْلِ الله، وَدَدْتُ اَنّيْ قُتِلْتُ ثُمّ
-نُشِرْتُ، ثُمّ قُتِلْتُ ثُمّ نُشِرْتُ، ثُمّ قُتِلْتُ ثُمّ نُشِرْتُ
-فِيْكَ وَفِي الّذِيْنَ مَعَكَ مِائَةَ قَتْلَة
-  </p>
-</blockquote>
+> وَقَامَ إِلَيْهِ رَجُلٌ يُقَالُ لَهُ زُهَيْر بن اَلْقَيْن اَلْبَجلِي،
+> فَقَالَ : يَا بْنَ رَسُوْلِ الله، وَدَدْتُ اَنّيْ قُتِلْتُ ثُمّ
+> نُشِرْتُ، ثُمّ قُتِلْتُ ثُمّ نُشِرْتُ، ثُمّ قُتِلْتُ ثُمّ نُشِرْتُ
+> فِيْكَ وَفِي الّذِيْنَ مَعَكَ مِائَةَ قَتْلَة
 
 A man called Zuhayr bin al-Qayn al-Bajli came to the Imam (AS) and said:
 ‘O son of the Apostle of Allah, I wish I would be martyred and then
@@ -729,12 +585,8 @@ Only Beloved.
 The following verse of the Holy Qur\`an also depicts the reality of
 which we have so far spoken:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللّهُ
-وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللّهُ
+> وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللّهُ غَفُورٌ رَّحِيمٌ
 
 ***Say: If you love Allah, then follow me, Allah will love you and
 forgive you your faults, and Allah is Forgiving, Merciful. (3:31)***
@@ -747,25 +599,17 @@ and His messenger wants.
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَذَا فَكَشَفْنَا عَنكَ غِطاءكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
-  </p>
-</blockquote>
+> لَقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَذَا فَكَشَفْنَا عَنكَ غِطاءكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
 
 ***Certainly you were heedless of it, but now We have removed from you
 your veil, so your sight today is sharp. (50:22)***
 
 Ibn ‘Amara reports from his father who reports:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لَهُ اَخْبِرْنِيْ عَنْ اَصْحَابِ الْحُسَيْنِ وَإِقْدَامِهِمْ
-عَلَى الْمَوْتِ فَقَالَ: إِنّهُمْ كُشِف لَهُمُ الْغِطآءِ حَتّى رَاَوْا
-مَنَازِلَهُمْ مِنَ الْجَنَّةِ...
-  </p>
-</blockquote>
+> قُلْتُ لَهُ اَخْبِرْنِيْ عَنْ اَصْحَابِ الْحُسَيْنِ وَإِقْدَامِهِمْ
+> عَلَى الْمَوْتِ فَقَالَ: إِنّهُمْ كُشِف لَهُمُ الْغِطآءِ حَتّى رَاَوْا
+> مَنَازِلَهُمْ مِنَ الْجَنَّةِ...
 
 I asked Imam al-Sadiq (AS): Tell me about the companions of al-Husayn
 (AS) and how they would advance to their death, and he said: ‘**Indeed
@@ -775,11 +619,7 @@ Paradise...[^31]
 In one of the *ziyarat*, we address the companions of Imam al-Husayn
 (AS) in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-...أَشْهَدُ لَقَدْ كَشَفَ اللهُ لَكُمُ الْغِطآءَ...
-  </p>
-</blockquote>
+> ...أَشْهَدُ لَقَدْ كَشَفَ اللهُ لَكُمُ الْغِطآءَ...
 
 ...I bear witness that most surely Allah unveiled for you the
 curtain...[^32]
@@ -789,12 +629,8 @@ spirit. The reason why many of us do not enjoy this kind of vision, is
 the murkiness of our hearts. Following is a tradition narrated from the
 Holy Prophet (S) worthy of reflection:
 
-<blockquote dir="rtl">
-  <p>
-لَوْلاَ تَكْثِيْرٌ فِيْ كَلاَمِكُمْ وَتَمْرِيْجٌ فِيْ قُلُوْبِكُمْ
-لَرَأَيْتُمْ مَا أَرَى وَلَسَمِعْتُمْ مَا أَسْمَعُ
-  </p>
-</blockquote>
+> لَوْلاَ تَكْثِيْرٌ فِيْ كَلاَمِكُمْ وَتَمْرِيْجٌ فِيْ قُلُوْبِكُمْ
+> لَرَأَيْتُمْ مَا أَرَى وَلَسَمِعْتُمْ مَا أَسْمَعُ
 
 Was it not for your loquaciousness and confusion in your hearts, you
 would have surely seen what I see, and you would have surely heard what
@@ -803,13 +639,9 @@ I hear.[^33]
 In fact the faithful human being is required to behold the kernel of the
 universe. Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَنْظُرُوا في‏ مَلَكُوتِ السَّماواتِ وَ الأَرْضِ وَما خَلَقَ
-اللَّهُ مِنْ شَيْ‏ءٍ وَأَنْ عَسى‏ أَنْ يَكُونَ قَدِ اقْتَرَبَ
-أَجَلُهُمْ فَبِأَيِّ حَديثٍ بَعْدَهُ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَنْظُرُوا في‏ مَلَكُوتِ السَّماواتِ وَ الأَرْضِ وَما خَلَقَ
+> اللَّهُ مِنْ شَيْ‏ءٍ وَأَنْ عَسى‏ أَنْ يَكُونَ قَدِ اقْتَرَبَ
+> أَجَلُهُمْ فَبِأَيِّ حَديثٍ بَعْدَهُ يُؤْمِنُونَ
 
 **Have they not contemplated the dominions of the heavens and the
 earth,** ***and whatever things Allah has created, and that maybe their
@@ -820,22 +652,14 @@ this?! (7:185)***
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَـكِن كُونُواْ رَبَّانِيِّينَ
-  </p>
-</blockquote>
+> وَلَـكِن كُونُواْ رَبَّانِيِّينَ
 
 ***But be godly people...(3:79)***
 
 And in one of the salutational recitals we address the companions of
 Imam al-Husayn (AS) in the following way:
 
-<blockquote dir="rtl">
-  <p>
-اَلسّلاَمُ عَلَيْكُمْ ايّهَا الرّبانيّون
-  </p>
-</blockquote>
+> اَلسّلاَمُ عَلَيْكُمْ ايّهَا الرّبانيّون
 
 Peace be unto you, ***O Rabbaniyyun**...*[^34]
 
@@ -845,14 +669,10 @@ companions of Imam al-Husayn (AS). *Rabbaniyyun* is the plural of
 denotes ‘one who is perfect in both knowledge and action’[^35] Others
 translate ‘*Rabbani*’ more accurately and say:
 
-<blockquote dir="rtl">
-  <p>
-الربّانِي هو المنسوب الى الرّب وزيادة الالف والنون فيه تدل علي
-المبالغة فِي النسبة فتكون المعنى: من كان شديد الاختصاص بالرب وكثير
-الاشتغال بعبوديته وعبادته، ويجوز ايضا ان يكون منسوبا الى الرّب بمعناه
-المصدرى فيدل علي المبالغة فِى تربية الناس وتدبيرهم...
-  </p>
-</blockquote>
+> الربّانِي هو المنسوب الى الرّب وزيادة الالف والنون فيه تدل علي
+> المبالغة فِي النسبة فتكون المعنى: من كان شديد الاختصاص بالرب وكثير
+> الاشتغال بعبوديته وعبادته، ويجوز ايضا ان يكون منسوبا الى الرّب بمعناه
+> المصدرى فيدل علي المبالغة فِى تربية الناس وتدبيرهم...
 
 *Rabbani* رَبَّانِيْ is one who is attributed to الربَ’the Lord’ and the
 additional ‘*alif*’ and ‘*nun*’ in the word is to denote intensification
@@ -868,28 +688,20 @@ And both the meanings can be true together.
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلاَمًا عَلَى إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلاَمًا عَلَى إِبْرَاهِيمَ
 
 ***We said: O fire! be a comfort and peace to Ibrahim! (21:59)***
 
 Jabir narrates from Imam al-Baqir (AS):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الْحُسَيْنُ بْن عَلِيّ لاَصْحَابِهِ قَبْلَ أَنْ يُقْتَلَ: إِنَّ
-رَسُوْلَ اللهِ قَالَ: يَا بُنَيَّ إِنَّكَ سَتُسَاقُ إِلَى الْعِرَاقِ،
-وَهِيَ أَرْضٌ قَدْ اِلْتَقَى بِهَا النَّبِيُّوْنَ، وَأَوْصِيَاءُ
-النَّبِيِّيْنَ، وَهِيَ أَرْضٌ تُدْعى “عَمُوْرَا” وَإِنَّكَ
-تُسْتَشْهَدُ بِهَا وَيُسْتَشْهَدُ مَعَكَ جَمَاعَةٌ مِنْ أَصْحَابِكَ
-لاَ يَجِدُوْنَ أَلَمَ مَسِّ الْحَدِيْدِ، وَتَلاَ: قُلْنَا يَا نَارُ
-كُوْنِيْ بَرْدًا وَسَلاَمًا عَلَى إِبْرَاهِيْم تَكُوْنُ الْحَرْبُ
-عَلَيْكَ وَعَلَيْهِمْ بَرْدًا وَ سَلاَمًا
-  </p>
-</blockquote>
+> قَالَ الْحُسَيْنُ بْن عَلِيّ لاَصْحَابِهِ قَبْلَ أَنْ يُقْتَلَ: إِنَّ
+> رَسُوْلَ اللهِ قَالَ: يَا بُنَيَّ إِنَّكَ سَتُسَاقُ إِلَى الْعِرَاقِ،
+> وَهِيَ أَرْضٌ قَدْ اِلْتَقَى بِهَا النَّبِيُّوْنَ، وَأَوْصِيَاءُ
+> النَّبِيِّيْنَ، وَهِيَ أَرْضٌ تُدْعى “عَمُوْرَا” وَإِنَّكَ
+> تُسْتَشْهَدُ بِهَا وَيُسْتَشْهَدُ مَعَكَ جَمَاعَةٌ مِنْ أَصْحَابِكَ
+> لاَ يَجِدُوْنَ أَلَمَ مَسِّ الْحَدِيْدِ، وَتَلاَ: قُلْنَا يَا نَارُ
+> كُوْنِيْ بَرْدًا وَسَلاَمًا عَلَى إِبْرَاهِيْم تَكُوْنُ الْحَرْبُ
+> عَلَيْكَ وَعَلَيْهِمْ بَرْدًا وَ سَلاَمًا
 
 Before his martyrdom, Imam al-Husayn bin ‘Ali said to his companions:
 Indeed the Apostle of Allah (S) said [to me]: O my dear young son,
@@ -904,17 +716,13 @@ them.[^37]
 Explaining this situation of the Imam, the grand Ayatullah Jawadi Amuli
 says:
 
-<blockquote dir="rtl">
-  <p>
-ووفقا لرواية الامام الباق فإن جنود الحسين يوم عآشوراء لم يكونوا
-يستشعروا آلام الضرب والطعن و الجراح إلا بما تولده القرصة من ألمٍ...
-لماذا؟ لأن الروح هي مصدر الألم والفرح. يصوم احدهم فيشعر بوطأة الظمأ و
-الجوع...و يصوم الآخر فلا نرى فيه إلا النشاط والابتهاج...اليست الظروف
-الفيزيائية متساوية للاثنين...فلماذا يتعذب الاول و ينطلق الآخر؟! لانّ
-الروح لدي الثانِي مشدودة الى نقطة بعيدة عن الظروف المادية. و لقد كان
-ابطال كربلاء من تلك الروح العظيمة المبهورة بالغيب...
-  </p>
-</blockquote>
+> ووفقا لرواية الامام الباق فإن جنود الحسين يوم عآشوراء لم يكونوا
+> يستشعروا آلام الضرب والطعن و الجراح إلا بما تولده القرصة من ألمٍ...
+> لماذا؟ لأن الروح هي مصدر الألم والفرح. يصوم احدهم فيشعر بوطأة الظمأ و
+> الجوع...و يصوم الآخر فلا نرى فيه إلا النشاط والابتهاج...اليست الظروف
+> الفيزيائية متساوية للاثنين...فلماذا يتعذب الاول و ينطلق الآخر؟! لانّ
+> الروح لدي الثانِي مشدودة الى نقطة بعيدة عن الظروف المادية. و لقد كان
+> ابطال كربلاء من تلك الروح العظيمة المبهورة بالغيب...
 
 **According to a tradition from Imam al-Baqir (AS) the army of al-Husayn
 (AS) did not feel the pain of the blows and wounds on the ‘Ashura’ day
@@ -932,18 +740,14 @@ unseen plane of existence.[^38]
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-مُّحَمَّدٌ رَّسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاء عَلَى
-الْكُفَّارِ رُحَمَاء بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا
-يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا سِيمَاهُمْ فِي
-وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ
-وَمَثَلُهُمْ فِي الإنجِيلِ كَزَرْعٍ أَخْرَجَ شَطأَهُ فَآزَرَهُ
-فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ
-بِهِمُ الْكُفَّارَ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا
-الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> مُّحَمَّدٌ رَّسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاء عَلَى
+> الْكُفَّارِ رُحَمَاء بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا
+> يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا سِيمَاهُمْ فِي
+> وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ
+> وَمَثَلُهُمْ فِي الإنجِيلِ كَزَرْعٍ أَخْرَجَ شَطأَهُ فَآزَرَهُ
+> فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ
+> بِهِمُ الْكُفَّارَ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا
 
 ***Muhammad is the Messenger of Allah, and those with him are firm of
 heart against the unbelievers, compassionate among themselves; you will
@@ -960,13 +764,9 @@ Sayyid Radhi al-Din bin Tawus al-Hasani (may Allah elevate his noble
 spirit) in his well-known *maqtal*, *al-Luhuf ‘ala Qatla al-Tufuf*
 narrates:
 
-<blockquote dir="rtl">
-  <p>
-وَ بَاتَ الْحُسَيْنُ وَ أَصْحَابُهُ تِلْكَ اللَّيْلَةَ وَ لَهُمْ
-دَوِيٌّ كَدَوِيِّ النَّحْلِ مَا بَيْنَ رَاكِعٍ وَ سَاجِدٍ وَ قَائِمٍ
-وَ قَاعِد...
-  </p>
-</blockquote>
+> وَ بَاتَ الْحُسَيْنُ وَ أَصْحَابُهُ تِلْكَ اللَّيْلَةَ وَ لَهُمْ
+> دَوِيٌّ كَدَوِيِّ النَّحْلِ مَا بَيْنَ رَاكِعٍ وَ سَاجِدٍ وَ قَائِمٍ
+> وَ قَاعِد...
 
 ‘Al-Husayn and his companions were awake the whole night [of ‘Ashura’]
 and **their environment resembled an area permeated with the sound of
@@ -978,11 +778,7 @@ in the state of** ***sujud*****, some standing and others sitting...**
 
 And al-Qazwini narrates from the History of *al-A’tham al-Kufi*:
 
-<blockquote dir="rtl">
-  <p>
-إنه ما نام في تلك الليلة الحسين ولا احد من اصحابه واعوانه إلى الصبح.
-  </p>
-</blockquote>
+> إنه ما نام في تلك الليلة الحسين ولا احد من اصحابه واعوانه إلى الصبح.
 
 Surely that night neither al-Husayn nor anyone of his companions and
 supporters slept until morning.[^40]
@@ -1005,17 +801,13 @@ that cannot be compared to one who has presential knowledge of Allah. It
 is such knowledge about which Imam ‘Ali (AS) talks in a conversation
 with a *rabbi*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِي الْحَسَن الْمَوْصَلِي عَنْ اَبِيْ عَبْدِ اللهِ قاَلَ: جَاءَ
-حِبْرٌ إِلى اَمِيْرِ الْمُؤْمِنِيْنَ، فَقَالَ: يَا اَمِيْرَ
-الْمُؤْمِنِيْنَ هَلْ رَاَيْتَ رَبّكَ حِيْنَ عَبَدْتَهُ؟ قَالَ:
-فَقَالَ: وَيْلَكْ لَمْ اَكُنْ لأَعْبُدَ رَبّا لَمْ اَرَه، قَالَ:
-وَكَيْفَ رَاَيْتَهُ؟ قَالَ: وَيْلَكْ لاَ تُدْرِكُهُ الْعُيُوْنَ فِي
-مُشَاهَدَةِ الاَبْصَارِ وَلكِن رَاَتْهُ الْقُلُوْبُ بِحَقَائِقِ
-الاِيْمَانِ.
-  </p>
-</blockquote>
+> عَنْ اَبِي الْحَسَن الْمَوْصَلِي عَنْ اَبِيْ عَبْدِ اللهِ قاَلَ: جَاءَ
+> حِبْرٌ إِلى اَمِيْرِ الْمُؤْمِنِيْنَ، فَقَالَ: يَا اَمِيْرَ
+> الْمُؤْمِنِيْنَ هَلْ رَاَيْتَ رَبّكَ حِيْنَ عَبَدْتَهُ؟ قَالَ:
+> فَقَالَ: وَيْلَكْ لَمْ اَكُنْ لأَعْبُدَ رَبّا لَمْ اَرَه، قَالَ:
+> وَكَيْفَ رَاَيْتَهُ؟ قَالَ: وَيْلَكْ لاَ تُدْرِكُهُ الْعُيُوْنَ فِي
+> مُشَاهَدَةِ الاَبْصَارِ وَلكِن رَاَتْهُ الْقُلُوْبُ بِحَقَائِقِ
+> الاِيْمَانِ.
 
 Abu al-Hasan al-Mawsali narrates from Abi ‘Abdillah [al-Sadiq (AS)] who
 said: A rabbi came to Amir al-Mu’minin (AS), and said: ‘Ya Amir
@@ -1029,45 +821,29 @@ traditions:
 
 a. Imam ‘Ali (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-اَلاَ لاَ خَيْرَ فِي عِبَادَةٍ لاً فِقْهَ فِيْهَا
-  </p>
-</blockquote>
+> اَلاَ لاَ خَيْرَ فِي عِبَادَةٍ لاً فِقْهَ فِيْهَا
 
 Indeed there is no good in that worship that is without
 understanding.[^42]
 
 b. Imam Zayn al-’Abidin (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-لاَ عِبَادَةَ إِلاَّ بِالتّفَقّهِ
-  </p>
-</blockquote>
+> لاَ عِبَادَةَ إِلاَّ بِالتّفَقّهِ
 
 There is no worship save with understanding[^43]
 
 c. Imam ‘Ali (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-سَكّنُوْا فِيْ اَنْفُسِكُمْ مَعْرِفَةَ مَا تَعْبُدُوْنَ، حَتّى
-يَنْفَعَكُمْ مَا تُحَرّكُوْنَ مِنَ الْجَوَارِحِ بِعِبَادَةِ مَنْ
-تَعْرِفُوْنَ.
-  </p>
-</blockquote>
+> سَكّنُوْا فِيْ اَنْفُسِكُمْ مَعْرِفَةَ مَا تَعْبُدُوْنَ، حَتّى
+> يَنْفَعَكُمْ مَا تُحَرّكُوْنَ مِنَ الْجَوَارِحِ بِعِبَادَةِ مَنْ
+> تَعْرِفُوْنَ.
 
 Settle in your hearts the knowledge of Whom you worship so that the
 members that you move in worship of Whom you know can benefit you.[^44]
 
 d. Imam ‘Ali (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-لاَ خَيْرَ فِيْ عِبَادَةٍ لاَ عِلْمَ فِيْهَا
-  </p>
-</blockquote>
+> لاَ خَيْرَ فِيْ عِبَادَةٍ لاَ عِلْمَ فِيْهَا
 
 There is no good in that worship which accompanies no knowledge.[^45]
 
@@ -1127,12 +903,8 @@ Therefore the yardstick to judge the truly worshipful nature of a person
 is not by the quantity of his worship, but the quality of his worship.
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***...Who created death and life that He may try you-- which of you is
 best in deeds; and He is the Mighty, the Forgiving. (67:2)***
@@ -1143,16 +915,12 @@ according to one’s understanding and intellect. Observe the following:
 a. The Holy Prophet (S) addressing a people who praised a man [for his
 worship] said:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ عَقْلُ الرّجُلِ؟ قَالُوا: يَا رَسُوْلَ اللهِ نُخْبِرُكَ عَنْ
-اِجْتِهَادِهِ فِي الْعِبَادَةِ وَاَصْنَافِ الْخَيْرِ، وَتَسْاَلنَا
-عَنْ عَقْلِهِ؟ ! فَقَالَ: إِنّ الاَحْمَقَ يُصِيْبُ بِحُمْقِهِ اَعْظَمَ
-مِنْ فُجُوْرِ الْفَاجِرِ، وَإِنّمَا يُرْتَفَعُ الْعِبَادُ غَدًا فِي
-الدّرَجَاتِ وَيَنَالُوْنَ الزّلْفَى مِنْ رَبّهِمْ عَلىَ قَدَرِ
-عُقُوْلِهِمْ.
-  </p>
-</blockquote>
+> كَيْفَ عَقْلُ الرّجُلِ؟ قَالُوا: يَا رَسُوْلَ اللهِ نُخْبِرُكَ عَنْ
+> اِجْتِهَادِهِ فِي الْعِبَادَةِ وَاَصْنَافِ الْخَيْرِ، وَتَسْاَلنَا
+> عَنْ عَقْلِهِ؟ ! فَقَالَ: إِنّ الاَحْمَقَ يُصِيْبُ بِحُمْقِهِ اَعْظَمَ
+> مِنْ فُجُوْرِ الْفَاجِرِ، وَإِنّمَا يُرْتَفَعُ الْعِبَادُ غَدًا فِي
+> الدّرَجَاتِ وَيَنَالُوْنَ الزّلْفَى مِنْ رَبّهِمْ عَلىَ قَدَرِ
+> عُقُوْلِهِمْ.
 
 How is the man’s intellect? They said: O Apostle of Allah, we inform you
 about his struggle in worship and good actions, and you ask us about his
@@ -1164,13 +932,9 @@ their intellects.**[^47]
 
 b. Muhammad bin Sulayman al-Daylami reports from his father who said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لأَبِي عَبْدِ اللَّهِ فُلاَنٌ مِنْ عِبَادَتِهِ وَدِينِهِ
-وَفَضْلِهِ فَقَالَ كَيْفَ عَقْلُهُ قُلْتُ لاَ أَدْرِي فَقَالَ إِنَّ
-الثَّوَابَ عَلَى قَدْرِ الْعَقْلِ‏...
-  </p>
-</blockquote>
+> قُلْتُ لأَبِي عَبْدِ اللَّهِ فُلاَنٌ مِنْ عِبَادَتِهِ وَدِينِهِ
+> وَفَضْلِهِ فَقَالَ كَيْفَ عَقْلُهُ قُلْتُ لاَ أَدْرِي فَقَالَ إِنَّ
+> الثَّوَابَ عَلَى قَدْرِ الْعَقْلِ‏...
 
 I informed Imam al-Sadiq (AS) about the *‘ibada* and religiousness and
 merits of a certain person. **Thereupon he asked me: how is his
@@ -1179,11 +943,7 @@ reward is according to one’s intellect/understanding.’[^48]
 
 c. The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعِلْمُ إِمَامُ الْعَمَلِ، وَالْعَمَلُ تَابِعُهُ
-  </p>
-</blockquote>
+> اَلْعِلْمُ إِمَامُ الْعَمَلِ، وَالْعَمَلُ تَابِعُهُ
 
 Knowledge is the leader of action and the action is its follower.[^49]
 
@@ -1192,14 +952,10 @@ recitation of Qur\`an, their ignorance never allowed them to benefit
 from their worship or recitation. Perhaps the following verse of the
 Holy Qur\`an aptly describes their example:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ
-يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا أُولَئِكَ الَّذِينَ كَفَرُوا
-بِآيَاتِ رَبِّهِمْ وَلِقَائِهِ فَحَبِطتْ أَعْمَالُهُمْ فَلاَ نُقِيمُ
-لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا
-  </p>
-</blockquote>
+> الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ
+> يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا أُولَئِكَ الَّذِينَ كَفَرُوا
+> بِآيَاتِ رَبِّهِمْ وَلِقَائِهِ فَحَبِطتْ أَعْمَالُهُمْ فَلاَ نُقِيمُ
+> لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا
 
 ***Those whose endeavour goes awry in the life of the world, while they
 suppose they are doing good.’ They are the ones who deny the signs of
@@ -1249,14 +1005,10 @@ not praiseworthy. Those who have attained realization would naturally be
 pulled towards constant worship. They would, in terms of a tradition, be
 ‘amorous lovers’ of worship. Consider the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي عبد الله قال: قَالَ رَسُوْلُ اللهِ: اَفْضَلُ النّاسِ مَنْ
-عَشِقَ الْعِبَادَةَ فَعَانَقَهَا وَاَحَبّهَا بِقَلْبِهِ، وَبَاشَرَهَا
-بِجَسَدِهِ وَتَفَرّغَ لَهَا، فَهُوَ لاَيُبَالِي عَلى مَا اَصْبَحَ مِنَ
-الدّنْيَا عَلىَ عُسْرٍ اَمْ عَلى يُسْرٍ؟
-  </p>
-</blockquote>
+> عن أبي عبد الله قال: قَالَ رَسُوْلُ اللهِ: اَفْضَلُ النّاسِ مَنْ
+> عَشِقَ الْعِبَادَةَ فَعَانَقَهَا وَاَحَبّهَا بِقَلْبِهِ، وَبَاشَرَهَا
+> بِجَسَدِهِ وَتَفَرّغَ لَهَا، فَهُوَ لاَيُبَالِي عَلى مَا اَصْبَحَ مِنَ
+> الدّنْيَا عَلىَ عُسْرٍ اَمْ عَلى يُسْرٍ؟
 
 Imam al-Sadiq (AS) says: The Apostle of Allah (S) said: The best of
 people is one who intensely loves worship (*‘ashiqa al-’ibada*),
@@ -1271,21 +1023,17 @@ absorbed in prayer. It is reported about Hadhrat Zahra’ (AS) that she
 would stand in prayer so much that her feet would get swollen[^53]. And
 concerning Imam ‘Ali (AS) Imam al-Sadiq (AS) narrates:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ دَخَلَ اَبُو جَعْفَرٍ عَلىَ اَبِيْهِ فَإِذَا هُوَ قَدْ بَلَغَ
-مِنَ الْعِبَادَةِ مَا لَمْ يَبْلُغْهُ اَحَدٌ، وَقَدْ اِصْفَرّ لَوْنُهُ
-مِنَ السّهْر، وَرمضت عَيْنَاهُ مِنَ الْبُكَاءِ، وَدَبّرَتْ جِبْهَتُهُ
-مِنَ السّجُوْدِ، وَوَرّمَتْ قَدَمَاهُ مِنَ الْقِيَامِ فِيْ الصّلاَةِ.
-قَالَ: فَقَالَ اَبُو جَعْفَرْ: فَلَمْ اَمْلِكْ حِيْنَ رَاَيْتُهُ
-بِتِلْكَ اْلحَالِ مِنَ الْبُكَاءِ فَبَكَيْتُ رَحْمَةً لَهُ، وَإِذَا
-هُوَ يُفَكّرُ، فَالْتَفَتَ إِلَيّ بَعْدَ هَنِيْئَةٍ مِنْ دُخُوْلِيْ،
-فَقَالَ: يَا بُنَيّ اَعْطنِيْ بَعْضَ تِلْكَ الصّحُفِ الّتِيْ فِيْهَا
-عِبَادَةُ عَلِيّ، فَاَعْطيْتُهُ، فَقَرَاَ فِيْهَا يَسِيْرًا ثُمّ
-تَرَكَهَا مِنْ يَدِهِ تَضَجّرًا وَقَالَ: مَنْ يَقْوَى عَلىَ عِبَادَةِ
-عَلِيّ بْنِ اَبِيْ طالِب؟!
-  </p>
-</blockquote>
+> وَلَقَدْ دَخَلَ اَبُو جَعْفَرٍ عَلىَ اَبِيْهِ فَإِذَا هُوَ قَدْ بَلَغَ
+> مِنَ الْعِبَادَةِ مَا لَمْ يَبْلُغْهُ اَحَدٌ، وَقَدْ اِصْفَرّ لَوْنُهُ
+> مِنَ السّهْر، وَرمضت عَيْنَاهُ مِنَ الْبُكَاءِ، وَدَبّرَتْ جِبْهَتُهُ
+> مِنَ السّجُوْدِ، وَوَرّمَتْ قَدَمَاهُ مِنَ الْقِيَامِ فِيْ الصّلاَةِ.
+> قَالَ: فَقَالَ اَبُو جَعْفَرْ: فَلَمْ اَمْلِكْ حِيْنَ رَاَيْتُهُ
+> بِتِلْكَ اْلحَالِ مِنَ الْبُكَاءِ فَبَكَيْتُ رَحْمَةً لَهُ، وَإِذَا
+> هُوَ يُفَكّرُ، فَالْتَفَتَ إِلَيّ بَعْدَ هَنِيْئَةٍ مِنْ دُخُوْلِيْ،
+> فَقَالَ: يَا بُنَيّ اَعْطنِيْ بَعْضَ تِلْكَ الصّحُفِ الّتِيْ فِيْهَا
+> عِبَادَةُ عَلِيّ، فَاَعْطيْتُهُ، فَقَرَاَ فِيْهَا يَسِيْرًا ثُمّ
+> تَرَكَهَا مِنْ يَدِهِ تَضَجّرًا وَقَالَ: مَنْ يَقْوَى عَلىَ عِبَادَةِ
+> عَلِيّ بْنِ اَبِيْ طالِب؟!
 
 Surely Abu Ja’far came to his father, while he had worshipped Allah so
 much that none would equal him, and due to night vigil his complexion
@@ -1317,13 +1065,9 @@ at all.
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لاَ تُلْهِيهِمْ تِجَارَةٌ وَلاَ بَيْعٌ عَن ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلاَةِ وَإِيتَاء الزَّكَاةِ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالأبْصَارُ
-  </p>
-</blockquote>
+> رِجَالٌ لاَ تُلْهِيهِمْ تِجَارَةٌ وَلاَ بَيْعٌ عَن ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلاَةِ وَإِيتَاء الزَّكَاةِ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالأبْصَارُ
 
 ***Men whom neither merchandise nor selling diverts from the remembrance
 of Allah and the*** ***keeping up of prayer and the giving of poor-rate;
@@ -1333,11 +1077,7 @@ they fear a day in which the hearts and eyes shall turn about.***
 The Holy Prophet (S) was once asked about *ghuraba’* (strangers in the
 real sense of the word), and he (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلَّذِيْنَ يُحْيُوْنَ مَا اَمَاتَ النَاسُ مِنْ سُنَّتِيْ
-  </p>
-</blockquote>
+> اَلَّذِيْنَ يُحْيُوْنَ مَا اَمَاتَ النَاسُ مِنْ سُنَّتِيْ
 
 They are those who will revive what the people ruined from my
 Sunna.[^55]
@@ -1355,12 +1095,8 @@ therefore correct to call him *Gharib al-ghuraba’* (The stranger among
 the strangers (his companions)). In one of the salutational recitals we
 address Imam al-Husayn (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-اَلسّلاَمُ عَلىَ خَامِسِ اَصْحَابِ اَهْلِ الْكِسَاءِ، اَلسّلاَمُ عَلَى
-غَرِيْبِ الْغُرَبَاء...
-  </p>
-</blockquote>
+> اَلسّلاَمُ عَلىَ خَامِسِ اَصْحَابِ اَهْلِ الْكِسَاءِ، اَلسّلاَمُ عَلَى
+> غَرِيْبِ الْغُرَبَاء...
 
 Peace be unto you O the fifth member of the people of the cloak, Peace
 be unto you, **O stranger of the strangers**...[^56]
@@ -1485,5 +1221,4 @@ States, http://www.FrontPageMagazine.com, July 3, 2003
 [^55]: Al-Azhari, Mu’jam Tahdhib al-Lugha, v.3, p. 2646
 
 [^56]: Al-Mashhadi, al-Mazar, p. 497
-
 

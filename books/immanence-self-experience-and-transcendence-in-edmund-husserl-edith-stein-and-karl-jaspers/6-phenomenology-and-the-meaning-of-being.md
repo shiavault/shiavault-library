@@ -50,4 +50,3 @@ Stein denies, with Kant and Husserl, that we can have knowledge of
 ‘things in themselves’ (FEB, p. 104). Our knowledge of essences is
 always ‘fragmentary’ (FEB, p. 104).
 
-

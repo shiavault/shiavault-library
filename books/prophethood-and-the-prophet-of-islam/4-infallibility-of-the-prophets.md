@@ -112,14 +112,10 @@ is necessary for divine prophets to be infallible:
 
 Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَى‏ غَيْبِهِ أَحَداً / إِلَّا مَنِ
-ارْتَضَى‏ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ يَدَيْهِ وَمِنْ
-خَلْفِهِ رَصَداً / لِّيَعْلَمَ أَن قَدْ أَبْلَغُواْ رَسِالاَتِ
-رَبِّهِمْ وَأَحَاطَ بَمَا لَدَيْهِمْ وَ أَحْصَى‏ كُلَّ شَىْ‏ءٍ عَدَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَى‏ غَيْبِهِ أَحَداً / إِلَّا مَنِ
+> ارْتَضَى‏ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ يَدَيْهِ وَمِنْ
+> خَلْفِهِ رَصَداً / لِّيَعْلَمَ أَن قَدْ أَبْلَغُواْ رَسِالاَتِ
+> رَبِّهِمْ وَأَحَاطَ بَمَا لَدَيْهِمْ وَ أَحْصَى‏ كُلَّ شَىْ‏ءٍ عَدَدًا
 
 ***“The Knower of the unseen! so He does not reveal His secrets to any.
 Except to him whom He chooses as an apostle; for surely He makes a guard
@@ -147,11 +143,7 @@ guarded from every kind of alteration.[^1]
 
 Also it has come in the same background that:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَيهُمُ اقْتَدِهْ
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَيهُمُ اقْتَدِهْ
 
 ***“These are they whom Allah guided, therefore follow their guidance.”
 (6:90)***
@@ -159,31 +151,19 @@ Also it has come in the same background that:
 This proves the infallibility of the prophets; thus all of them are
 guided and Allah says:
 
-<blockquote dir="rtl">
-  <p>
-مَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
-  </p>
-</blockquote>
+> مَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
 
 ***“…and (as for) him whom Allah makes err, there is no guide for him.”
 (39:23)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَهْدِ اللَّهُ فَمَا لَهُ مِن مُّضِلٍّ
-  </p>
-</blockquote>
+> وَمَن يَهْدِ اللَّهُ فَمَا لَهُ مِن مُّضِلٍّ
 
 ***“And whom Allah guides, there is none that can lead him astray.”
 (39:37)***
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-مَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِى
-  </p>
-</blockquote>
+> مَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِى
 
 ***“Whomsoever Allah guides, he is the one who follows the right way.”
 (7:178)***
@@ -196,5 +176,4 @@ disobedience is also a kind of misguidance.[^2]
 [^1]: Al-Mizan, Vol. 2, Pg. 139.
 
 [^2]: Al-Mizan, Vol. 2, Pg. 140.
-
 

@@ -163,4 +163,3 @@ is a clear manifestation of the above sermon. (Tr.)
 
 [^2]: Nahj-ul-Balagha Sermon No. 234
 
-

@@ -568,4 +568,3 @@ most vicious and the most daring in killing and the deadliest of the
 people on this earth has come to see you”, and did not allow him to see
 the Imam (as) lest he should harm him (5:410).
 
-

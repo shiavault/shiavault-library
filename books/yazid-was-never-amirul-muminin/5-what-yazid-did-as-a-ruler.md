@@ -145,4 +145,3 @@ Yazid was. Allah willing, we shall do that in our next chapter by
 quoting from the books of various Muslim scholars of high repute (none
 of whom is a Shia).
 
-

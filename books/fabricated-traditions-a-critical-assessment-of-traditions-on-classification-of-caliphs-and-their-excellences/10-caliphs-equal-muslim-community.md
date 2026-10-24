@@ -72,4 +72,3 @@ Allah ordered me to love four ones; Abu Bakr, Umar, Uthman and Ali.[^54]
 It has to be pointed out that Ibn Hajar has also touched these
 issues.[^55]
 
-

@@ -31,4 +31,3 @@ behalf? Give reason for your answer.
     14. Are Paradise and Hell already-created? What, according to your
 thinking, will be the highest Bliss of Paradise?
 
-

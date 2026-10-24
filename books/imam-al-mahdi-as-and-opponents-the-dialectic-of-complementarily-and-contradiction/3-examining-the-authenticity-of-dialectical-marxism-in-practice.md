@@ -107,7 +107,6 @@ Non-religious groups had no choice but to join the Muslim masses and
 were thus forced to abandon their own slogans so as not to face popular
 objection.
 
-
 He concludes at the end of his article:
 
 \\'The greatest role in the victory of the revolution in Iran was
@@ -224,5 +223,4 @@ insidious factor, i.e. a shift from emphasis on ideology to something
 rarely, if ever, discussed within the circles of strategists, due to its
 fluid character the very nature of which escapes clear definition based
 on solid background: civilization.
-
 

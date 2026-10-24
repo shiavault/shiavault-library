@@ -194,4 +194,3 @@ property while the debtor intends to pay his/her debt.
 take secretly their portions from the property of persons who owe these
 dues except by the permission of the supreme religious authority.
 
-

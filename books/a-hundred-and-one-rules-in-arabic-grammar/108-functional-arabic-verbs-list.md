@@ -10,9 +10,7 @@ is:**
 (Option. Adv. Ph. 3) +(Op. Adv. 2) +(Op. Adv. Ph. 1) + Object + Subject+
 Verb
 
-<p dir="rtl">
 **طَبَخَت والدتي وَجبَة ً لذيذةٍبسُرعَةٍ (في مَطبَخِها)قَبلَ ساعَةٍ .**
-</p>
 
 **                                 1            2              3**
 
@@ -26,9 +24,7 @@ important comes last.**
 
 (Op. Adv. Ph. 3) +(Op. Adv. 2)+(Op. Adv. Ph. 1) + Subject+ Verb
 
-<p dir="rtl">
 **جَلسَتْ اُختي وَحيدَة ً في غُرفتِها طولَ اليَومِ.**
-</p>
 
 My sister sat by herself in her room all day long.
 
@@ -36,9 +32,7 @@ My sister sat by herself in her room all day long.
 
 (Op. Adv. Ph. 1) + Object of the Prep. + Preposition + Subject+ Verb
 
-<p dir="rtl">
 **ذهَبَ أخي إلی المکتـَبَةِ مَنذ ُ ساعَةٍ.**
-</p>
 
 My brother went to the library since an hour.
 
@@ -207,7 +201,6 @@ to take  أخَذ75
 to author   ألـَّف77
 
 to steal  سَرَق78
-
 
 to think  فـَکـَّر79
 
@@ -512,5 +505,4 @@ to welcome  228. إستـَقبَل
 to leave  229. تَرَك
 
 to occupy 230. إحتـَلّ
-
 

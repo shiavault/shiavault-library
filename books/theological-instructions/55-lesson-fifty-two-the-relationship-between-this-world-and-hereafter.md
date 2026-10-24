@@ -210,4 +210,3 @@ punishment in the next?
 5. Among which worldly affairs and prosperity or adversity in the
 Hereafter, is there a true relationship?
 
-

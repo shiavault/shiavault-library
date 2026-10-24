@@ -1,10 +1,6 @@
 The Twelve Caliphs:
 ===================
 
-  
-  
-  
-
 Following are the traditions reported about the twelve caliphs
 (successors), so as to be aware of one of the aspects of falsification
 and fabrication of hadith, which is our concern in this research.
@@ -34,7 +30,7 @@ Juhayfah
 
 narrated it with the words: "The affair of my Ummah is still all
 right..." Abu Dawud, from Jabir ibn Samurah, reported it with the same
-wording with some addition. <span id="_anchor_444"></span>444
+wording with some addition. 444
 
 "On returning home people of Quraysh approached him saying: What would
 happen then? He said: Then disorder and tumult would be there,".. i.e.
@@ -115,8 +111,7 @@ al-Zahir due to his being characterized with justice. After that remain
 the two awaited (caliphs)!! one of whom being al-Mahdi! as he belongs to
 the household of Muhammad (S)". But he missed to mention the second
 awaited one…and may God’s mercy be upon that who said in regard of
-al-Suyuti that: he was a night wood-cutter. <span
-id="_anchor_445"></span>445
+al-Suyuti that: he was a night wood-cutter. 445
 
 Before concluding our speech about al-Mahdi, I cite herewith a statement
 about him uttered by al-Allamah Murtada al-Askari, one of the Iraqi
@@ -131,8 +126,7 @@ he either be alive as a prophet to whom it is revealed, or anyone
 appointed by him to take charge of his Shari\`ah after him, and clarify
 it for his Ummah.
 
-"They consider the traditions you cited in your book pp.210-211, <span
-id="_anchor_446"></span>446  under the heading "al-Khulafa'
+"They consider the traditions you cited in your book pp.210-211, 446  under the heading "al-Khulafa'
 al-Ithna-Ashar" (the Twelve Caliphs), as an indication of the Twelve
 Imams taking charge of the Din after the Prophet, as
 

@@ -26,12 +26,8 @@ The Holy Prophet’s words “*Salman is from us, Ahl al-Bayt*” is the best
 proof. Love for Ahl al-Bayt is a valuable truth, which Allah has
 determined as a reward for the mission of the Holy Prophet:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives. (42:23)***
@@ -48,26 +44,18 @@ truths. Should there be no love for Ahl al-Bayt, there would be no
 virtues for the abovementioned acts.  
  The Holy Prophet is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ شَيْءٍ أسَاسٌ، وَأساسُ الإسْلأمِ حُبُّنَا أهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> لِكُلِّ شَيْءٍ أسَاسٌ، وَأساسُ الإسْلأمِ حُبُّنَا أهْلَ الْبَيْتِ.
 
 There is a basis for everything; and love for us, Ahl al-Bayt, is the
 basis of Islam.[^1]
 
 Imam Ali (a.s) has said: I heard Allah’s Messenger say:
 
-<blockquote dir="rtl">
-  <p>
-أنَا سَيِّدُ وُلْدِ آدَمَ. وَأنْتَ يَا عَلِيُّ وَالأئِمَّةٌ مِنْ
-بَعْدِكَ سَادَةُ أُمَّتِي. مَنْ أحَبَّنَا فَقَدْ أحَبَّ اللَّهَ،
-وَمَنْ أبْغَضَنَا فَقَدْ أبْغَضَنَا فَقَدْ أبْغَضَ اللَّهَ، وَمَنْ
-وَالأنَا فَقَدْ وَالَى اللَّهَ، وَمَنْ أطَاعَنَا فَقَدْ أطَاعَ
-اللًّهَ، وَمَنْ عَصَانَا فَقَدْ عَصىَ اللَّهَ.
-  </p>
-</blockquote>
+> أنَا سَيِّدُ وُلْدِ آدَمَ. وَأنْتَ يَا عَلِيُّ وَالأئِمَّةٌ مِنْ
+> بَعْدِكَ سَادَةُ أُمَّتِي. مَنْ أحَبَّنَا فَقَدْ أحَبَّ اللَّهَ،
+> وَمَنْ أبْغَضَنَا فَقَدْ أبْغَضَنَا فَقَدْ أبْغَضَ اللَّهَ، وَمَنْ
+> وَالأنَا فَقَدْ وَالَى اللَّهَ، وَمَنْ أطَاعَنَا فَقَدْ أطَاعَ
+> اللًّهَ، وَمَنْ عَصَانَا فَقَدْ عَصىَ اللَّهَ.
 
 Ali. I am the master of Adam’s children and you, and the Imams after you
 are the masters of my ummah. Whoever loves us has loved Allah. Whoever
@@ -78,29 +66,21 @@ Allah and whoever disobeys us has
 Love for Ahl al-Bayt is a gift, which Allah bestows on the pure hearts
 of worthy people. Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي لأعْلَمُ أنَّ هَذَا الْحُبَّ الَّذِي تُحِبُّونَنَا لَيسَ
-بِشَيْءٍ صَنَعْتُمُوهُ؛ وَلَكِنَّ اللَّهَ صَنَعَهُ.
-  </p>
-</blockquote>
+> إنِّي لأعْلَمُ أنَّ هَذَا الْحُبَّ الَّذِي تُحِبُّونَنَا لَيسَ
+> بِشَيْءٍ صَنَعْتُمُوهُ؛ وَلَكِنَّ اللَّهَ صَنَعَهُ.
 
 I know the reason why you love us. It is not something spontaneous;
 rather, it is a love made by Allah.[^3]
 
 Imam al-Sadiq (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ حُبَّنَا يُنْزِلُهُ اللَّهُ مِنَ اللَّهُ مِنَ السَّمَاءِ مِنْ
-خَزَائِنَ تَحْتَ الْعَرْشِ كَخَزَانِنَ الْذَّهَبِ وَالْفِضَّةِ،
-وَلأيُنْزِلُهُ إلأ بِقَدَرٍ، وَلأيُعْطِيهِ إلأ خَيرَ الْخَلَقِ. وَإنَّ
-لَهُ غَمَامَةً كَغَمَامَةِ الْقَطْرِ؛ فَإذَا أرَادَ اللَّهُ أنْ
-يَخُصَّ بِهِ مَنْ أحَبَّ مِنْ خَلْقِهِ أذِنَ لِتِلْكَ الْغَمَامَةِ
-فَتَهَطَّلَتْ كَمَا تَهَطَّلُ السِّحَابُ فَتُصِيبُ الْجَنِينَ فِي
-بَطْنِ أُمِّهِ.
-  </p>
-</blockquote>
+> إنَّ حُبَّنَا يُنْزِلُهُ اللَّهُ مِنَ اللَّهُ مِنَ السَّمَاءِ مِنْ
+> خَزَائِنَ تَحْتَ الْعَرْشِ كَخَزَانِنَ الْذَّهَبِ وَالْفِضَّةِ،
+> وَلأيُنْزِلُهُ إلأ بِقَدَرٍ، وَلأيُعْطِيهِ إلأ خَيرَ الْخَلَقِ. وَإنَّ
+> لَهُ غَمَامَةً كَغَمَامَةِ الْقَطْرِ؛ فَإذَا أرَادَ اللَّهُ أنْ
+> يَخُصَّ بِهِ مَنْ أحَبَّ مِنْ خَلْقِهِ أذِنَ لِتِلْكَ الْغَمَامَةِ
+> فَتَهَطَّلَتْ كَمَا تَهَطَّلُ السِّحَابُ فَتُصِيبُ الْجَنِينَ فِي
+> بَطْنِ أُمِّهِ.
 
 Allah sends down love for us from the reasuries underneath His throne,
 like the treasuries of gold and silver. This love is sent down only to a
@@ -121,13 +101,9 @@ is also a sign of other truths as follows:
 of one’s noble birth. Imam Ali (a.s.) quotes the Holy Prophet as having
 said to Abu- Dharr:
 
-<blockquote dir="rtl">
-  <p>
-يَا أبَا ذَرٍّ! مَنْ أحَبَّنَا ـ أهْلَ الْبَيْتِ ـ فَلْيَحْمِدِ
-اللَّهَ عَلَى أوَّلِ ... الْنِّعَمِ...طِيبِ الوِلأدَةِ. إنَّهُ لأ
-يُحِبُّنَا إلأ مَنْ طَابَ مَوْلِدُهُ.
-  </p>
-</blockquote>
+> يَا أبَا ذَرٍّ! مَنْ أحَبَّنَا ـ أهْلَ الْبَيْتِ ـ فَلْيَحْمِدِ
+> اللَّهَ عَلَى أوَّلِ ... الْنِّعَمِ...طِيبِ الوِلأدَةِ. إنَّهُ لأ
+> يُحِبُّنَا إلأ مَنْ طَابَ مَوْلِدُهُ.
 
 Whoever loves us, Ahl al-Bayt, must thank Allah for the first blessing…
 Nobility of birth; for whoever loves us is of noble (i.e. legitimate)
@@ -135,12 +111,8 @@ birth.[^5]
 
 Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أصْبَحَ يَجِدُ بَرْدَ حُبِّنَا عَلى قَلْبِهِ فَلْيَحْمِدِ اللَّهَ
-عَلَى بَادِئِ النَّعَمِ... طِيبِ الْمَوْلِدِ.
-  </p>
-</blockquote>
+> مَنْ أصْبَحَ يَجِدُ بَرْدَ حُبِّنَا عَلى قَلْبِهِ فَلْيَحْمِدِ اللَّهَ
+> عَلَى بَادِئِ النَّعَمِ... طِيبِ الْمَوْلِدِ.
 
 Whoever wakes up in the morning and feels the cool breeze of our love
 must thank Allah for the first blessing; purity and nobility of
@@ -149,12 +121,8 @@ birth.[^6]
 **Second**: Love for Ahl al-Bayt is a proof of purity of heart. Imam
 al-Sadiq (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهِ وَاللَّهِ، لأ يُحِبُّنَا عَبْدٌ حَتَى يُطَهِّرَ اللَّهُ
-قَلْبَهُ
-  </p>
-</blockquote>
+> وَاللَّهِ وَاللَّهِ، لأ يُحِبُّنَا عَبْدٌ حَتَى يُطَهِّرَ اللَّهُ
+> قَلْبَهُ
 
 By Allah, none loves us unless those whose hearts have been purified by
 Allah.[^7]
@@ -162,40 +130,28 @@ Allah.[^7]
 **Third**: Love for Ahl al-Bayt is a sign of true belief and acceptance
 byAllah. Allah’s Messenger has said:
 
-<blockquote dir="rtl">
-  <p>
-عَاهَدَنِي رَبِّي أنْ لأ يَقْبَلَ إيمَانَ عَبْدٍ إلأ بِمَحَبَّةِ أهْلِ
-بَيْتِي.
-  </p>
-</blockquote>
+> عَاهَدَنِي رَبِّي أنْ لأ يَقْبَلَ إيمَانَ عَبْدٍ إلأ بِمَحَبَّةِ أهْلِ
+> بَيْتِي.
 
 My Lord made a promise to me that He will not accept any of His
 servants’ belief without love for Ahl al-Bayt. [^8]
 
 Amir al-Muminin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ لَعَهْدُ النَّبِيِّ الأُمِّيِّ إلَيَّ أنَّهُ لأيُحِبُّنِي إلأ
-مُؤْمِنٌ وَلأ يُبْغِضُنِي إلأ مُنَافِقٌ.
-  </p>
-</blockquote>
+> إنَّهُ لَعَهْدُ النَّبِيِّ الأُمِّيِّ إلَيَّ أنَّهُ لأيُحِبُّنِي إلأ
+> مُؤْمِنٌ وَلأ يُبْغِضُنِي إلأ مُنَافِقٌ.
 
 The Ummi Prophet expressly said to me that no one but a believer loves
 me and no one but a hypocrite harbors rancor against me.[^9]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ ضَرَبْتُ خَيْشُومَ الْمُؤْمِنِ بِسَيفِي هَذَا عَلَى أنْ
-يُبْغِضَنِي مَا أبْغَضَنِي؛ وَلَوْ صَبَبْتُ الدُّنْيَا بِجَمَّاتِهَا
-عَلَى الْمُنَافِقِ عَلَى الْمُنَافِقِ عَلَى أنْ يُحِبَّنِي مَا
-أحَبَّنِي؛ وَذَلِكَ أنَّهُ قُضِيَ فَانْقَضَى عَلَى لِسَانِ النَّبِيِّ
-الأُمِّيِّ، صَلَّى اللَّهُ عَلَيهِ وَآلِهِ وَسَلَّمَ، أنَّهُ قَالَ:
-يَا عَلِيُّ! لأ يُبْغِضُكَ مُؤمِنٌ وَلأ يُحِبُّكَ مُنَافِقٌ.
-  </p>
-</blockquote>
+> لَوْ ضَرَبْتُ خَيْشُومَ الْمُؤْمِنِ بِسَيفِي هَذَا عَلَى أنْ
+> يُبْغِضَنِي مَا أبْغَضَنِي؛ وَلَوْ صَبَبْتُ الدُّنْيَا بِجَمَّاتِهَا
+> عَلَى الْمُنَافِقِ عَلَى الْمُنَافِقِ عَلَى أنْ يُحِبَّنِي مَا
+> أحَبَّنِي؛ وَذَلِكَ أنَّهُ قُضِيَ فَانْقَضَى عَلَى لِسَانِ النَّبِيِّ
+> الأُمِّيِّ، صَلَّى اللَّهُ عَلَيهِ وَآلِهِ وَسَلَّمَ، أنَّهُ قَالَ:
+> يَا عَلِيُّ! لأ يُبْغِضُكَ مُؤمِنٌ وَلأ يُحِبُّكَ مُنَافِقٌ.
 
 Even if I strike the nose of a believer with my sword to oblige him to
 hate me, he will never hate me; and even if I pile all the wealth of the
@@ -216,22 +172,14 @@ One of the requirements of love for Ahl al-Bayt is that a lover should
 never stop endeavoring in the way of Allah by making Ahl al-Bayt’s
 behavior and deeds as models for his life. The Ahl al-Bayt have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا فَلْيَعْمَلْ بِعَمَلِنَا.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا فَلْيَعْمَلْ بِعَمَلِنَا.
 
 Whoever loves us must do whatever we do.[^11]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا شِيعَةٌ جَعْفَرٍ مَنْ عَفَّ بَطْنَهُ وَ فَرْجَهُ وَ عَمِلَ
-لِخَالِقِهِ وَ رَجَا ثَوَابَهُ وَخَافَ عِقَابَهُ.
-  </p>
-</blockquote>
+> إنَّمَا شِيعَةٌ جَعْفَرٍ مَنْ عَفَّ بَطْنَهُ وَ فَرْجَهُ وَ عَمِلَ
+> لِخَالِقِهِ وَ رَجَا ثَوَابَهُ وَخَافَ عِقَابَهُ.
 
 A partisan (Shia) of Jafar is only he who guards his body and desires
 from what is unlawful, endeavors for his creator, hopes for His reward,
@@ -241,23 +189,15 @@ and fears His punishment.[^12]
 
 Amir al-Muminin (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-فإنْ كَانَ يُحِبُّ وَلِيَّنَا فَلَيْسَ بِمُبْغِضٍ لَنَا، وَإنْ كَانَ
-يُبْغِضُ وَلِيَّنَا فَلَيْسَ بِمُحِبٍّ لَنَا.
-  </p>
-</blockquote>
+> فإنْ كَانَ يُحِبُّ وَلِيَّنَا فَلَيْسَ بِمُبْغِضٍ لَنَا، وَإنْ كَانَ
+> يُبْغِضُ وَلِيَّنَا فَلَيْسَ بِمُحِبٍّ لَنَا.
 
 If he takes our friend as a friend, he is not our enemy; and if he is
 the enemy of our friend, he will not be our friend.[^13]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَوَلَّى مُحِبَّنَا فَقَدْ أحَبَّنَا.
-  </p>
-</blockquote>
+> مَنْ تَوَلَّى مُحِبَّنَا فَقَدْ أحَبَّنَا.
 
 One who loves our friend will be certainly our friend.[^14]
 
@@ -266,14 +206,10 @@ One who loves our friend will be certainly our friend.[^14]
 One of the requirements of love for Ahl al-Bayt is to take their enemies
 as enemy. Imam Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ أحَبَّ أنْ يَعْلَمَ حَالَهُ فِي حُبِّنَا فَلْيَمْتَحِنْ
-قَلْبَهُ، فَإنْ وَجَدَ فِيهِ حُبَّ مَنْ ألَّبَ عَلَيْنَا فَلْيَعْلَمْ
-أنَّ اللَّهَ عَدُوُّهُ وَ جِبْرِيلَ وَ مِيكَائِيلَ، وَاللَّهُ عَدُوُّ
-الكَافِرِينَ.
-  </p>
-</blockquote>
+> فَمَنْ أحَبَّ أنْ يَعْلَمَ حَالَهُ فِي حُبِّنَا فَلْيَمْتَحِنْ
+> قَلْبَهُ، فَإنْ وَجَدَ فِيهِ حُبَّ مَنْ ألَّبَ عَلَيْنَا فَلْيَعْلَمْ
+> أنَّ اللَّهَ عَدُوُّهُ وَ جِبْرِيلَ وَ مِيكَائِيلَ، وَاللَّهُ عَدُوُّ
+> الكَافِرِينَ.
 
 One who wishes to know whether he love us should test his heart. If he
 feels love in his heart for those who make people our enemy, then he
@@ -282,12 +218,8 @@ Allah is the enemy of the unbelievers.[^15]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-فَإنْ شَارَكَهُ فِي حُبِّنَا حُبُّ عَدُوِّنَا فَلَيْسَ مِنَّا
-وَلَسْنَا مِنْهُ.
-  </p>
-</blockquote>
+> فَإنْ شَارَكَهُ فِي حُبِّنَا حُبُّ عَدُوِّنَا فَلَيْسَ مِنَّا
+> وَلَسْنَا مِنْهُ.
 
 If one who loves us loves our enemies, he will certainly not belong to
 us nor do we belong to him.[^16]
@@ -301,13 +233,9 @@ so as to make them steadfast on patience, resistance, and endurance;
 hence, He paves the way for them to enter Paradise. The Holy Prophet,
 addressing Abu-Said Khidri who was complaining from poverty, said:
 
-<blockquote dir="rtl">
-  <p>
-إصْبِرْ! فَإنَّ الْفَقْرَ إلَى مَنْ يُحِبُّنِي مِنْكُمْ أسْرَعُ مِنَ
-السَّيْلِ عَلَى أعْلَى الْوَادي وَ مِنْ أعْلى الْجَبَلِ إلَى
-أسْفَلِهِ.
-  </p>
-</blockquote>
+> إصْبِرْ! فَإنَّ الْفَقْرَ إلَى مَنْ يُحِبُّنِي مِنْكُمْ أسْرَعُ مِنَ
+> السَّيْلِ عَلَى أعْلَى الْوَادي وَ مِنْ أعْلى الْجَبَلِ إلَى
+> أسْفَلِهِ.
 
 Be patient, for poverty rushes toward those who love me with a speed
 more hasty than that of a flood coming down from the peak of a
@@ -315,13 +243,9 @@ mountain.[^17]
 
 Abu-Dharr expressed his love for the Holy Prophet (S) who replied:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهَ اللَّهَ! فأعِدَّ لِلْفَقْرِ تِجْفَافاً، فَإنَّ الْفَقْرَ
-أسْرَعُ إلَى مَنْ يُحِبُّنَا مَنْ يُحِبُّنَا مِنَ السَّيْلِ مِنْ
-أعْلَى الأكَمَةِ ألَى أسْفَلِهَا.‏ُّّ
-  </p>
-</blockquote>
+> اللَّهَ اللَّهَ! فأعِدَّ لِلْفَقْرِ تِجْفَافاً، فَإنَّ الْفَقْرَ
+> أسْرَعُ إلَى مَنْ يُحِبُّنَا مَنْ يُحِبُّنَا مِنَ السَّيْلِ مِنْ
+> أعْلَى الأكَمَةِ ألَى أسْفَلِهَا.‏ُّّ
 
 If so, then prepare yourself a cover for indigence! Indigence comes to
 one who loves us with a speed more hasty than that of a flood coming
@@ -351,11 +275,7 @@ than a flood coming down from the top of mountain.”
 
 Imam Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا أهْلَ الْبَيْتِ فَلْيَسْتَعِدَّ عِدَّةً لِلْبَلأءِ.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا أهْلَ الْبَيْتِ فَلْيَسْتَعِدَّ عِدَّةً لِلْبَلأءِ.
 
 One who loves us must prepare himself for tribulation.[^19]
 
@@ -417,19 +337,15 @@ Abdullah ibn Walid says: Under Marwan’s rule, I went to the presence of
 Imam al-Sadiq (a.s.) who asked me about my identity. I said, “I am a man
 from Kufa.” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ بَلْدَةٍ مِنَ ابُلْدَانِ أكْثَرُ مُحِبّاً لَنَا مِنْ أهْلِ
-الْكُوفَةِ وَلأ سِيَّمَا هَذِهِ الْعِصَابَةِ. إنَّ اللَّهَ جَلَّ
-ذِكْرُهُ هَدَاكُمْ لأمْرِ جَهِلَهُ النَّاسُ، وَأحْبَبْتُمُونَا
-وَأبْغَضَنَا النَّاسُ، وَاتَّبَعْتُمُونَا وَ خَالَفْنَا النَّاسُ،
-وصَدَّقْتُمُونَا و كَذَّبَنَا النَّاسُ، فَأحْيَاكُمْ اللَّهُ
-مَحْيَانَا وَ أمَاتَكُمْ مَمَاتَنَا. فَأشْهَدُ عَلَى أبِي أنَّهُ كَانَ
-يَقُولُ: مَا بَيْنَ أحَدِكُمْ وَ بَيْنَ أنْ يَرَى مَا يُقِرُّ اللَّهُ
-بِهِ عَيْنَهُ وَأنْ يَغْتَبِطَ إلأ أنْ تَبْلُغَ نَفْسَهُ هَذِهِ ـ وَ
-أهْوَي بِيَدِهِ إلَى حَلْقِهِ.
-  </p>
-</blockquote>
+> مَا مِنْ بَلْدَةٍ مِنَ ابُلْدَانِ أكْثَرُ مُحِبّاً لَنَا مِنْ أهْلِ
+> الْكُوفَةِ وَلأ سِيَّمَا هَذِهِ الْعِصَابَةِ. إنَّ اللَّهَ جَلَّ
+> ذِكْرُهُ هَدَاكُمْ لأمْرِ جَهِلَهُ النَّاسُ، وَأحْبَبْتُمُونَا
+> وَأبْغَضَنَا النَّاسُ، وَاتَّبَعْتُمُونَا وَ خَالَفْنَا النَّاسُ،
+> وصَدَّقْتُمُونَا و كَذَّبَنَا النَّاسُ، فَأحْيَاكُمْ اللَّهُ
+> مَحْيَانَا وَ أمَاتَكُمْ مَمَاتَنَا. فَأشْهَدُ عَلَى أبِي أنَّهُ كَانَ
+> يَقُولُ: مَا بَيْنَ أحَدِكُمْ وَ بَيْنَ أنْ يَرَى مَا يُقِرُّ اللَّهُ
+> بِهِ عَيْنَهُ وَأنْ يَغْتَبِطَ إلأ أنْ تَبْلُغَ نَفْسَهُ هَذِهِ ـ وَ
+> أهْوَي بِيَدِهِ إلَى حَلْقِهِ.
 
 People of no city are fonder of us than the people of Kufa, especially
 this Shiite group. Allah has guided you to a truth of which other people
@@ -462,16 +378,12 @@ come back to this world. Some other truths which the devotees of Ahl
 al-Bayt will see at the moment of death are the angels of mercy who
 convey Allah’s good tidings and His greeting to them:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
-تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا
-تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ 
-نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ
-وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنْفُسُكُمْ وَلَكُمْ فِيهَا مَا
-تَدَّعُونَ نُزُلًا مِنْ غَفُورٍ رَحِيمٍ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+> تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا
+> تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ
+> نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ
+> وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنْفُسُكُمْ وَلَكُمْ فِيهَا مَا
+> تَدَّعُونَ نُزُلًا مِنْ غَفُورٍ رَحِيمٍ
 
 As for those who say: Our Lord is Allah, then continue in the right way,
 the angels descend upon them, saying: fear not, nor be grieved, and
@@ -526,17 +438,13 @@ Ahl al-Bayt in this world and is immune from fear and sorrow at the
 point of death will certainly be immune from chastisement on the
 Judgment Day. The Holy Prophet is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-فَيُوحِي اللَّهُ عَزَّ وَ جَلَّ إلَيهَا: يَا فَطِمَةُ! سَلِينِي
-أُعْطِكِ، وَتَمَنَّيْ عَلَىَّ أرْضِكِ. فَتَقُولُ: ألَهِي! أسْألُكَ أنْ
-لأ تُعَذَّبَ مُحِبِّيَّ وَمُحِبِّي عِتْرَتِي بِالنَّارِ. فَيُحِي
-اللَّهُ إلَيهَا: يَا فَاطِمَةٌ! وَ عِزَّتِي وَ جَلألِي وَارْتِفَاعِ
-مَكَانِي، لَقَدْ آليْتُ عَلَى نَفْسِي مِنْ قَبَلِ أنْ أخْلُقَ
-السًّمَاوَاتِ وَالأرْضَ بِألْفَىْ عَامٍ أنْ لأ أعَذِّبَ مُحِبِّيكِ وَ
-مُحِبِّي عِتْرَتِكِ بِالنَّارِ.
-  </p>
-</blockquote>
+> فَيُوحِي اللَّهُ عَزَّ وَ جَلَّ إلَيهَا: يَا فَطِمَةُ! سَلِينِي
+> أُعْطِكِ، وَتَمَنَّيْ عَلَىَّ أرْضِكِ. فَتَقُولُ: ألَهِي! أسْألُكَ أنْ
+> لأ تُعَذَّبَ مُحِبِّيَّ وَمُحِبِّي عِتْرَتِي بِالنَّارِ. فَيُحِي
+> اللَّهُ إلَيهَا: يَا فَاطِمَةٌ! وَ عِزَّتِي وَ جَلألِي وَارْتِفَاعِ
+> مَكَانِي، لَقَدْ آليْتُ عَلَى نَفْسِي مِنْ قَبَلِ أنْ أخْلُقَ
+> السًّمَاوَاتِ وَالأرْضَ بِألْفَىْ عَامٍ أنْ لأ أعَذِّبَ مُحِبِّيكِ وَ
+> مُحِبِّي عِتْرَتِكِ بِالنَّارِ.
 
 On the Judgment Day, Allah will address Lady Fatimah (a.s.) as such: ‘O
 Fatimah! Ask me and I will grant to you, and wish something and I will
@@ -560,12 +468,8 @@ from fire."[^27]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَاَللَّهِ، لأ يَمُوتٌ عَبْدٌ يُحِبُّ اللَّهَ وَ رَسُولَهُ وَ
-يَتَوَلَّي الأئِمَّة فَتَمَسُّهُ النَّارُ.
-  </p>
-</blockquote>
+> وَاَللَّهِ، لأ يَمُوتٌ عَبْدٌ يُحِبُّ اللَّهَ وَ رَسُولَهُ وَ
+> يَتَوَلَّي الأئِمَّة فَتَمَسُّهُ النَّارُ.
 
 By Allah (I swear), every servant who loves Allah and His Messenger and
 accepts the leadership of the Imams and then dies, hellfire will not
@@ -576,12 +480,8 @@ is immunity from hellfire on the Judgment Day.
 
 The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا أهْلَ الْبَيْتِ حَشَرَهُ اللَّهُ تَعَالَى آمِناً يَوْمَ
-الْقِيَمَةِ.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا أهْلَ الْبَيْتِ حَشَرَهُ اللَّهُ تَعَالَى آمِناً يَوْمَ
+> الْقِيَمَةِ.
 
 As for one who loves us - the Ahl al-Bayt, Allah will make him to
 associate with us on the Day of Judgment.[^29]
@@ -591,25 +491,17 @@ associate with us on the Day of Judgment.[^29]
 Immunity from slipping off the Sirat is a result of loving Ahl al-Bayt.
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-أثْبَتُكُمِّ قَدَماً عَلَى الصِّرَاطِ أشَدُّ كُمْ حُبّاً لِأهْلِ
-بَيْتِي.
-  </p>
-</blockquote>
+> أثْبَتُكُمِّ قَدَماً عَلَى الصِّرَاطِ أشَدُّ كُمْ حُبّاً لِأهْلِ
+> بَيْتِي.
 
 The most steadfast of you on the Sirat is one who loves my Ahl al-Bayt
 more. [^30]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أحَبَّنَا أهْلَ الْبَيْتِ أحَدٌ فَزَلَّتْ بِهِ قَدَمٌ إلأ
-ثَبَّتَتْهُ قَدَمٌ أُخْرَى، حَتَّى يُنْجِيَهُ اللَّهُ يَوْمَ
-الْقِيَامَةِ.
-  </p>
-</blockquote>
+> مَا أحَبَّنَا أهْلَ الْبَيْتِ أحَدٌ فَزَلَّتْ بِهِ قَدَمٌ إلأ
+> ثَبَّتَتْهُ قَدَمٌ أُخْرَى، حَتَّى يُنْجِيَهُ اللَّهُ يَوْمَ
+> الْقِيَامَةِ.
 
 Everyone who loves Ahl al-Bayt, even if one of his feet slips, his other
 foot will keep him steadfast and firm until Allah will save him on the
@@ -632,38 +524,26 @@ forgiven and he was engaged in jihad, the most praiseworthy deed, and
 experienced the most sacred truth, that is martyrdom. This is only the
 result of love! Based on this reality, Allah’s Messenger said:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّنَا أهْلَ الْبَيْتِ يُكَفِّر الذُّنُوبَ وَ يُضَاعِفُ
-الْحَسَنَاتِ.
-  </p>
-</blockquote>
+> حُبُّنَا أهْلَ الْبَيْتِ يُكَفِّر الذُّنُوبَ وَ يُضَاعِفُ
+> الْحَسَنَاتِ.
 
 Love for Ahl al-Bayt will remove all sins and increase virtues.[^31]
 
 Imam Hasan (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإنَّ حُبَّنَا لَيُسَاقِطُ الذُّنُوبَ مِنِ إبْنِ آدَمَ كَمَا
-يُسَاقِطُ الرِّيحُ الْوَرَقَ مِنِ الشَّجَرِ.
-  </p>
-</blockquote>
+> وَإنَّ حُبَّنَا لَيُسَاقِطُ الذُّنُوبَ مِنِ إبْنِ آدَمَ كَمَا
+> يُسَاقِطُ الرِّيحُ الْوَرَقَ مِنِ الشَّجَرِ.
 
 Surely, love for us will make sins fall down away from the children of
 Adam as the wind make the leaves fall down from trees.[^32]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا لِلَّهِ وَأحَبَّ مُحِبَّنَا لأ لِغَرَضِ دُنْياً
-يُصِيبُهَا مِنْهُ وَ عَادَى عَدُوَّنَا لأ لإحْنَةٍ كَانَتْ بَيْنَهُ
-وَبَيْنَهُ ثُمَّ جَاءَ يَوْمَ الْقِيَامَةِ وَعَلَيْهِ مِنَ الذُّنُوبِ
-مِثْلَ رَمْلِ عَالِجٍ وَ زَبَدِ الْبَحْرِ غَفَرَ اللَّهُ تَعَالَى
-لَهُ.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا لِلَّهِ وَأحَبَّ مُحِبَّنَا لأ لِغَرَضِ دُنْياً
+> يُصِيبُهَا مِنْهُ وَ عَادَى عَدُوَّنَا لأ لإحْنَةٍ كَانَتْ بَيْنَهُ
+> وَبَيْنَهُ ثُمَّ جَاءَ يَوْمَ الْقِيَامَةِ وَعَلَيْهِ مِنَ الذُّنُوبِ
+> مِثْلَ رَمْلِ عَالِجٍ وَ زَبَدِ الْبَحْرِ غَفَرَ اللَّهُ تَعَالَى
+> لَهُ.
 
 Whoever loves our devotees and us for the sake of Allah, and not for a
 worldly purpose, he antagonizes our enemy, not because of personal
@@ -676,13 +556,9 @@ Shiites, who have received the baptism of Ahl al-Bayt due to their love
 for them, expect to be associated with Ahl al-Bayt on the Judgment Day.
 The Holy Quran supports this truth:
 
-<blockquote dir="rtl">
-  <p>
-وَالشُّهَدَاءِ وَالصِّدِّيقِينَ النَّبِيِّينَ مِنَ عَلَيْهِمْ اللَّهُ
-أَنْعَمَ الَّذِينَ مَعَ فَأُولَٰئِكَ وَالرَّسُولَ اللَّهَ يُطِعِ
-وَمَنْ رَفِيقًا أُولَٰئِكَ وَحَسُنَۚ وَالصَّالِحِينَ
-  </p>
-</blockquote>
+> وَالشُّهَدَاءِ وَالصِّدِّيقِينَ النَّبِيِّينَ مِنَ عَلَيْهِمْ اللَّهُ
+> أَنْعَمَ الَّذِينَ مَعَ فَأُولَٰئِكَ وَالرَّسُولَ اللَّهَ يُطِعِ
+> وَمَنْ رَفِيقًا أُولَٰئِكَ وَحَسُنَۚ وَالصَّالِحِينَ
 
 ***And whoever obeys Allah and the Apostle, these are with those upon
 whom Allah and the Apostle, have bestowed favors from among the prophets
@@ -691,24 +567,16 @@ they! (4:69)***
 
 Imam al-Ridha (a.s.) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-حَقٌ عَلَى اللَّهِ أنْ يَجْعَلَ وَلِيَّنَا رَفِيقاً لِلنَّبِيِّينَ
-وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصّاَلِحِينَ، وَ حَسُنَ أُلَئكَ
-رَفِيقاً.
-  </p>
-</blockquote>
+> حَقٌ عَلَى اللَّهِ أنْ يَجْعَلَ وَلِيَّنَا رَفِيقاً لِلنَّبِيِّينَ
+> وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصّاَلِحِينَ، وَ حَسُنَ أُلَئكَ
+> رَفِيقاً.
 
 It is up to Allah to make our friend associate with the Prophets, the
 truthful, the martyrs and the righteous. What a goodly company are they!
 
 The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا أهْلَ الْبَيْتِ فِي اللَّهِ حُشِرَ مَعَنَا.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا أهْلَ الْبَيْتِ فِي اللَّهِ حُشِرَ مَعَنَا.
 
 One who loves us for the sake of Allah will be associated with us.[^34]
 
@@ -717,22 +585,14 @@ certain people but I do not like them practically.” The Holy Prophet
 said, “Man will associate with one whom he loves.” Abu-Dharr said, “I
 love Allah, His messenger, and his Ahl al-Bayt." The Holy Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-الْمَرْءُ مَعَ مَنْ أحَبَّ.
-  </p>
-</blockquote>
+> الْمَرْءُ مَعَ مَنْ أحَبَّ.
 
 “You will associate with one whom you love.”[^35]
 
 Imam Husayn (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا لِلَّهِ وَ رَدْنَا نَحْنُ وَهُوَ عَلَى نَبِيِّنَا
-هَكَذَا ـ وَضَمَّ إصْبِعَيْهِ.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا لِلَّهِ وَ رَدْنَا نَحْنُ وَهُوَ عَلَى نَبِيِّنَا
+> هَكَذَا ـ وَضَمَّ إصْبِعَيْهِ.
 
 Whoever loves us for the sake of Allah; we will meet the Prophets
 together.[^36]
@@ -742,11 +602,7 @@ Yazid ibn Muawiyah has reported: I was in the presence of Imam al-Baqir
 Showing blisters on his feet, the man said, “By Allah, nothing but love
 for Ahl al-Bayt has brought me here.” The Imam said,
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهِ، لَوْ أحَبَّنَا حَجَرٌ اللَّهُ مَعَنَا.
-  </p>
-</blockquote>
+> وَاللَّهِ، لَوْ أحَبَّنَا حَجَرٌ اللَّهُ مَعَنَا.
 
 “By Allah, even if a stone love us, Allah will make it associate with
 us.”[^37]
@@ -809,12 +665,8 @@ Imam Zayn al-Abidin once became ill. A group of companions came to visit
 him enquiring after his health. He thanked Allah and asked after their
 health. They all said, “By Allah, we love you.” The Imam said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أحَبَّنَا لِلَّهِ أسْكَنَهُ فِي ظِلٍّ ظَلِيلٍ يَوْمَ
-الْقِيَامَةِ، يَوْمَ لأظِلَّ إلأ ظِلُّهُ.
-  </p>
-</blockquote>
+> مَنْ أحَبَّنَا لِلَّهِ أسْكَنَهُ فِي ظِلٍّ ظَلِيلٍ يَوْمَ
+> الْقِيَامَةِ، يَوْمَ لأظِلَّ إلأ ظِلُّهُ.
 
 Allah will place whoever loves us for the sake of Allah under a shade on
 the Judgment Day when there is no shade save that of Him.[^40]
@@ -824,13 +676,9 @@ the way Allah made me know your rights is more beloved to me than the
 whole world.” When he finished, the sign of vexation was visible in the
 face of the Imam who said,
 
-<blockquote dir="rtl">
-  <p>
-يَا يُونُسُ! قِسْتَنَا بِغَيْرِ قِيَاسٍ. مَا الدُّنْيَا وَ مَا فِيهَا؟
-هَلْ هِيَ إلأ سَدُّ فَوْرَةٍ أوْ سِتَرُ عَورَةٍ؟ وَ أنْتَ لَكَ
-بِمَحَبَّتِنَا الْحَيَاةُ الدَّائِمَةٌ.
-  </p>
-</blockquote>
+> يَا يُونُسُ! قِسْتَنَا بِغَيْرِ قِيَاسٍ. مَا الدُّنْيَا وَ مَا فِيهَا؟
+> هَلْ هِيَ إلأ سَدُّ فَوْرَةٍ أوْ سِتَرُ عَورَةٍ؟ وَ أنْتَ لَكَ
+> بِمَحَبَّتِنَا الْحَيَاةُ الدَّائِمَةٌ.
 
 “O Yunus! You made an improper comparison. What is the world and what is
 therein? Is it anything other than eating to a full or covering of
@@ -840,14 +688,10 @@ life?”
 Truly, love for Ahl al-Bayt is source of eternal life, which begins with
 a happy death and continues until eternity:
 
-<blockquote dir="rtl">
-  <p>
-ألأ وَمَنْ مَاتَ عَلَى حُبِّ آلِ مُحَمَّدٍ بَشَّرَهُ مَلَكُ الْمَوتِ
-بِالْجَنَّةِ، ثُمَّ مُنكَرٌ وَنَكِيرٌ. ألأ وَمَنْ مَاتَ عَلَى حُبِّ
-آلِ مُحَمَّدٍ يُزَفُّ إلَى الْجَنَّةِ تُزَفُّ الْعَرُوسُ إلَى بَيْتِ
-زَوْجِهَا.
-  </p>
-</blockquote>
+> ألأ وَمَنْ مَاتَ عَلَى حُبِّ آلِ مُحَمَّدٍ بَشَّرَهُ مَلَكُ الْمَوتِ
+> بِالْجَنَّةِ، ثُمَّ مُنكَرٌ وَنَكِيرٌ. ألأ وَمَنْ مَاتَ عَلَى حُبِّ
+> آلِ مُحَمَّدٍ يُزَفُّ إلَى الْجَنَّةِ تُزَفُّ الْعَرُوسُ إلَى بَيْتِ
+> زَوْجِهَا.
 
 Whoever dies with love for the Household of Muhammad will be given the
 good news of entering Paradise by first the Angel of Death and then by
@@ -897,20 +741,12 @@ blessings of the love for Ahl al-Bayt is that it puts the hearts at
 rest, which is a blessing for the man who lives in this world of anxiety
 and restlessness. Imam Ali (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-" ـ قَالَ : مَنْ أحَبَّ اللَّهَ إنَّ رَسُولَ اللَّهِ لَمَّا نَزَلَتْ
-هَذِهِ الآيَةُ ـ " أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوب
-  </p>
-</blockquote>
+> " ـ قَالَ : مَنْ أحَبَّ اللَّهَ إنَّ رَسُولَ اللَّهِ لَمَّا نَزَلَتْ
+> هَذِهِ الآيَةُ ـ " أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوب
 
-<blockquote dir="rtl">
-  <p>
-وَرَسُولَهُ وَأحَبَّ أهْلَ بَيْتِي صَادِقاً غَيْرَ كَاذِبٍ وأحَبَّ
-الْمُؤْمِنِينَ شَاهِداً وَغَائِباً، ألأ بِذِكْرِ اللَّهِ
-يَتَحَابُّونَ.
-  </p>
-</blockquote>
+> وَرَسُولَهُ وَأحَبَّ أهْلَ بَيْتِي صَادِقاً غَيْرَ كَاذِبٍ وأحَبَّ
+> الْمُؤْمِنِينَ شَاهِداً وَغَائِباً، ألأ بِذِكْرِ اللَّهِ
+> يَتَحَابُّونَ.
 
 When the verse –
 
@@ -940,12 +776,8 @@ of Allah; now surely by*** ***Allah’s remembrance are the hearts at rest
 Imam Ali replied, “Allah and His Messenger know better.” The Holy
 Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-(نَزَلَتْ) فِي مَنْ صَدَّقَ لِي وَآمَنَ بِي وَ أحَبَّكَ وَ عَشِيرَتَكَ
-مِنْ بَعْدِكَ وَ سَلَّمَ الأمْرَ وَ لِلأئِمَّةِ مِنْ بَعْدِكَ
-  </p>
-</blockquote>
+> (نَزَلَتْ) فِي مَنْ صَدَّقَ لِي وَآمَنَ بِي وَ أحَبَّكَ وَ عَشِيرَتَكَ
+> مِنْ بَعْدِكَ وَ سَلَّمَ الأمْرَ وَ لِلأئِمَّةِ مِنْ بَعْدِكَ
 
 “It is about one who acknowledges me, believes in me, loves you and your
 family, and submits his affairs to you and the Imams after you.”[^44]
@@ -982,30 +814,22 @@ institutions.
 Addressing Fudhayl ibn Yasar, Imam al-Sadiq (a.s.) asked, “Will you get
 together and talk about us?” I said, “Yes.” The Imam said,
 
-<blockquote dir="rtl">
-  <p>
-إنَّ تِلْكَ الْمَجَالِسَ أحِبُّهَا. أحْيُو أمْرَنَا، فَرَحِمَ اللَّهُ
-مَنْ أحْيَا أمْرَنَا.
-  </p>
-</blockquote>
+> إنَّ تِلْكَ الْمَجَالِسَ أحِبُّهَا. أحْيُو أمْرَنَا، فَرَحِمَ اللَّهُ
+> مَنْ أحْيَا أمْرَنَا.
 
 “I am fond of these assemblies. Enliven our affair with them. May the
 mercy of Allah be upon one who enlivens our affair.”[^46]
 
 Imam al-Baqir (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللَّهُ إجْتَمَعَ مَعَ آخَرَ فَتَذَاكَرَ أمْرَنَا، فَإنَّ
-ثَالِثَهُمَا مَلَكٌ يَسْتَغْفِرُ لَهُمَا. وَمَا إجْتَمَعَ مَعَ مَعَ
-آخَرَ فَتَذَاكَرَ أمْرَنَا، فَإنَّ ثَالِثَهُمَا مَلَكٌ يَسْتَغْفِرُ
-لَهُمَا. وَمَاإجْتَمَعَ إثْنَانِ عَلَى ذِكْرِنَا إلأ بَاهَى اللَّهُ
-بِهِمَا الْمَلأئِكَةَ، فَإذَا اجْتَمَعَ إثْنَانِ عَلَى ذِكْرِنَا إلأ
-بَاهَى اللَّهُ بِهِمَا الْمَلأئِكَةَ فَإذَا اجْتَمَعْتُمْ
-فَاشْتَغِلُوا بِالذِّكْرِ، فَإنَّ فِي إجْتِمَاعِكُمْ وَمُذَاكَرَتِكُمْ
-إحْيَاءَنَا.
-  </p>
-</blockquote>
+> رَحِمَ اللَّهُ إجْتَمَعَ مَعَ آخَرَ فَتَذَاكَرَ أمْرَنَا، فَإنَّ
+> ثَالِثَهُمَا مَلَكٌ يَسْتَغْفِرُ لَهُمَا. وَمَا إجْتَمَعَ مَعَ مَعَ
+> آخَرَ فَتَذَاكَرَ أمْرَنَا، فَإنَّ ثَالِثَهُمَا مَلَكٌ يَسْتَغْفِرُ
+> لَهُمَا. وَمَاإجْتَمَعَ إثْنَانِ عَلَى ذِكْرِنَا إلأ بَاهَى اللَّهُ
+> بِهِمَا الْمَلأئِكَةَ، فَإذَا اجْتَمَعَ إثْنَانِ عَلَى ذِكْرِنَا إلأ
+> بَاهَى اللَّهُ بِهِمَا الْمَلأئِكَةَ فَإذَا اجْتَمَعْتُمْ
+> فَاشْتَغِلُوا بِالذِّكْرِ، فَإنَّ فِي إجْتِمَاعِكُمْ وَمُذَاكَرَتِكُمْ
+> إحْيَاءَنَا.
 
 May Allah have mercy on a person who sits with another and speaks about
 our traditions. When two persons speak about our affair, the third of
@@ -1016,12 +840,8 @@ for in this way you will enliven us.[^47]
 
 Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَلَسَ مَجْلِساً يُحْيي فِيهِ أمْرَنَا لَمْ يَمُتْ
-قَلْبُهُلايَوْمَ تَمُتْ قَلْبُهُ يَوْمَ تَمُوتُ الْقُلُوبُ.
-  </p>
-</blockquote>
+> مَنْ جَلَسَ مَجْلِساً يُحْيي فِيهِ أمْرَنَا لَمْ يَمُتْ
+> قَلْبُهُلايَوْمَ تَمُتْ قَلْبُهُ يَوْمَ تَمُوتُ الْقُلُوبُ.
 
 Whoever sits in an assembly where our affair is enlivened, his heart
 will not die when all hearts die.[^48]
@@ -1041,13 +861,9 @@ cases and psychologists prescribe it.
 
 Allah mentions weeping as a sign of true believers:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ
-تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ ۖ يَقُولُونَ
-رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
-  </p>
-</blockquote>
+> وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ
+> تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ ۖ يَقُولُونَ
+> رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
 
 ***And when they hear what has been revealed to the apostle, you will
 see their eyes overflowing with tears on account of the truth. (5:83)***
@@ -1058,13 +874,9 @@ a book.
 
 Amir al-Muminin (a.s.), in the supplication of Kumayl, says:
 
-<blockquote dir="rtl">
-  <p>
-يَا إلَهِي وَ رَبِّي وَ سَيِّدي وَمَوْلاي! لأيِّ الأُمُورِ إلَيكَ
-أشْكُو؟ وَلِمَا مِنْهَا أضِجُّ وَأبْكِي؟ لألِيمِ الْعَذَابِ وَ
-شِدَّتِهِ؟ أمْ لِطُولِ الْبَلاءِ وَمُدَّتِهِ؟
-  </p>
-</blockquote>
+> يَا إلَهِي وَ رَبِّي وَ سَيِّدي وَمَوْلاي! لأيِّ الأُمُورِ إلَيكَ
+> أشْكُو؟ وَلِمَا مِنْهَا أضِجُّ وَأبْكِي؟ لألِيمِ الْعَذَابِ وَ
+> شِدَّتِهِ؟ أمْ لِطُولِ الْبَلاءِ وَمُدَّتِهِ؟
 
 My God! My Lord! My Master! My Protector! For which things would I
 complain to You, and for which of them would I lament and weep? Is it
@@ -1073,14 +885,10 @@ of tribulation?
 
 In Dua Abi-Hamzah Thamali, Imam Zayn al-Abidin (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لِي لا أبْكِي؟ أبْكِي لِخُروجِ نَفْسِي، أبْكِي لِظُلْمَةِ
-قَبْرِي،أبْكِي لِضَيقِ لَحْدي، أبْكي لِسُؤالِ مُنْكَر وَ نَكِير
-إيَّايَ، أبْكي لِخُرُوجي مِنْ قَبْري عُرْيَاناً ذَلِيلاً حَامِلاً
-ثِقْلِي عَلى ظَهْرِي.
-  </p>
-</blockquote>
+> فَمَا لِي لا أبْكِي؟ أبْكِي لِخُروجِ نَفْسِي، أبْكِي لِظُلْمَةِ
+> قَبْرِي،أبْكِي لِضَيقِ لَحْدي، أبْكي لِسُؤالِ مُنْكَر وَ نَكِير
+> إيَّايَ، أبْكي لِخُرُوجي مِنْ قَبْري عُرْيَاناً ذَلِيلاً حَامِلاً
+> ثِقْلِي عَلى ظَهْرِي.
 
 Why should I not cry? I am sad on account of my departing soul. I cry in
 fear of the darkness of the grave. I cry in dread of the narrowing walls
@@ -1096,14 +904,10 @@ Allah’s mercy.
 
 In an authentic narration, Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَذَكَّرَ مُصَابَنَا وَبَكَى لِمَا ارْتُكِبَ لِمَا ارتُكِبَ
-مِنَّا كَانَ مَعَنَا فِي دَرَجَاتِنَا يَومَ الْقِيَامَةِ. وَمَنْ
-ذُكِّرَ بِمُصَابِنَا فَكَى وَ أبْكَى لَمْ تَبْكِ عِينُهُ يَومَ تَبْكِي
-الْعُيُونُ.
-  </p>
-</blockquote>
+> مَنْ تَذَكَّرَ مُصَابَنَا وَبَكَى لِمَا ارْتُكِبَ لِمَا ارتُكِبَ
+> مِنَّا كَانَ مَعَنَا فِي دَرَجَاتِنَا يَومَ الْقِيَامَةِ. وَمَنْ
+> ذُكِّرَ بِمُصَابِنَا فَكَى وَ أبْكَى لَمْ تَبْكِ عِينُهُ يَومَ تَبْكِي
+> الْعُيُونُ.
 
 One who remembers our calamities and weeps for what has befallen us will
 have the same rank with us on the Judgment Day. And one who reads our
@@ -1135,26 +939,18 @@ Imam Ali (a.s.) said, addressing Imam Husayn (a.s.):
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَكَرَنَا أوْ ذُكِرْنَا عِنْدَهُ فَخَرَجَ مِنْ عَينِهِ دَمَهٌ
-مِثْلُ جَنَاحِ بَعُوضَةٍ غَفَرَ اللَّهُ لَهُ ذُنُوبَهُ وَلَوْ كَانَتْ
-مِثْلَ زَبَدِ الْبَحْرِ.
-  </p>
-</blockquote>
+> مَنْ ذَكَرَنَا أوْ ذُكِرْنَا عِنْدَهُ فَخَرَجَ مِنْ عَينِهِ دَمَهٌ
+> مِثْلُ جَنَاحِ بَعُوضَةٍ غَفَرَ اللَّهُ لَهُ ذُنُوبَهُ وَلَوْ كَانَتْ
+> مِثْلَ زَبَدِ الْبَحْرِ.
 
 Whoever remembers us and weeps, Allah will forgive his sins even if they
 are as much as foam of sea.[^51]
 
 Imam al-Sadiq has also said:
 
-<blockquote dir="rtl">
-  <p>
-نَفْسُ الْمَهْمُومِ لِظُلْمِنَا تَسْبِيحٌ، وَهَمُّهُ لَنَا عِبَادةٌ،
-وَكِتْمَانُ سِرِّنَا جِهَادٌ فِي سَبِيلِ اللَّهِ...يَحِبُ أنْ يُكْتَبَ
-هَذَا الْحَدِيثُ بِالذَّهَبِ.
-  </p>
-</blockquote>
+> نَفْسُ الْمَهْمُومِ لِظُلْمِنَا تَسْبِيحٌ، وَهَمُّهُ لَنَا عِبَادةٌ،
+> وَكِتْمَانُ سِرِّنَا جِهَادٌ فِي سَبِيلِ اللَّهِ...يَحِبُ أنْ يُكْتَبَ
+> هَذَا الْحَدِيثُ بِالذَّهَبِ.
 
 A moment of sorrow for the injustice done to us is like the
 glorification of Allah. Grieving over us is as prayer and hiding our
@@ -1163,39 +959,27 @@ gold.[^52]
 
 Harun Makfuf (the blind) has reported Imam al-Sadiq (a.s.) to say:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ ذُكِرَ الْحُسَينُ عِنْدَهُ فَخَرَجَ مِنْ عَينَيْهِ مِنَ
-الدُّمُوعِ مِقْدَارَ جَنَاحٍ ذُبَابٍ كَانَ ثَوَابُهُ عَلَى اللَّهِ
-عَزَّ وَجَلَّ وَ لَمْ يَرْضُ لَهُ بِدُونِ الجَنَّةِ.
-  </p>
-</blockquote>
+> وَمَنْ ذُكِرَ الْحُسَينُ عِنْدَهُ فَخَرَجَ مِنْ عَينَيْهِ مِنَ
+> الدُّمُوعِ مِقْدَارَ جَنَاحٍ ذُبَابٍ كَانَ ثَوَابُهُ عَلَى اللَّهِ
+> عَزَّ وَجَلَّ وَ لَمْ يَرْضُ لَهُ بِدُونِ الجَنَّةِ.
 
 One who remembers Husayn and weeps for him will be rewarded; and Allah
 is not content with anything less than Paradise for him.[^53]
 
 Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَعَلَى مِثْلِ الحُسَينِ فَلْيَبْكِ الْبَاكُونَ، فَإنَّ الْبُكَاء
-عَلِيهِ يَحُطُّ الذُّنُوبَ الْعِظَامَ.
-  </p>
-</blockquote>
+> فَعَلَى مِثْلِ الحُسَينِ فَلْيَبْكِ الْبَاكُونَ، فَإنَّ الْبُكَاء
+> عَلِيهِ يَحُطُّ الذُّنُوبَ الْعِظَامَ.
 
 A weeper should lament over Husayn, for weeping for him will do away
 with sins.[^54]
 
 Addressing Ibn Shabib, Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنْ كُنتَ بَاكِياً لِشَيْءٍ فَابْكِ لِلْحُسَينِ بْنِ عَلِيِّ بْنِ أبِي
-طَالِبٍ بَكَتِ السَّمَاوَاتُ السَّبْعُ وَالأرضُونَ لِقَتْلِهِ...إنْ
-بَكَيْتَ عَلَى الْحُسَينِ حَتَّى تَصِيرَ دُمُوعُكَ عَلَى خَدَّيْكَ
-غَفَرَ اللَّهُ لَكَ كُلَّ ذَنْبٍ.
-  </p>
-</blockquote>
+> إنْ كُنتَ بَاكِياً لِشَيْءٍ فَابْكِ لِلْحُسَينِ بْنِ عَلِيِّ بْنِ أبِي
+> طَالِبٍ بَكَتِ السَّمَاوَاتُ السَّبْعُ وَالأرضُونَ لِقَتْلِهِ...إنْ
+> بَكَيْتَ عَلَى الْحُسَينِ حَتَّى تَصِيرَ دُمُوعُكَ عَلَى خَدَّيْكَ
+> غَفَرَ اللَّهُ لَكَ كُلَّ ذَنْبٍ.
 
 If you wish to weep for anything, weep for Husayn ibn Ali ibn Abi-Talib,
 for heavens and the earth wept for him when he was slain. If you weep
@@ -1232,13 +1016,9 @@ The Holy Quran expressly speaks about changing of one thing into another
 
 #### In Material Field
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُسْقِيكُمْ مِمَّا فِي
-بُطُونِهِ مِنْ بَيْنِ فَرْثٍ وَدَمٍ لَبَنًا خَالِصًا سَائِغًا
-لِلشَّارِبِينَ
-  </p>
-</blockquote>
+> وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُسْقِيكُمْ مِمَّا فِي
+> بُطُونِهِ مِنْ بَيْنِ فَرْثٍ وَدَمٍ لَبَنًا خَالِصًا سَائِغًا
+> لِلشَّارِبِينَ
 
 ***And most surely there is a lesson for you in the cattle; We give you
 to drink of what is in their bellies-- from betwixt the feces and the
@@ -1252,13 +1032,9 @@ knowledge of Allah.
 
 The Holy Quran says about the bees:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا
-ۚ يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ
-شِفَاءٌ لِلنَّاسِ ۗ
-  </p>
-</blockquote>
+> ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا
+> ۚ يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ
+> شِفَاءٌ لِلنَّاسِ ۗ
 
 ***Then eat of all the fruits and walk in the ways of your Lord
 submissively. There comes forth from within it a beverage of many
@@ -1276,19 +1052,11 @@ counted nor can their quality and quantity be measured.
 No one is aware of how water, soil, air and light change into all these
 wonderful blessings! The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-رِزْقًا الثَّمَرَاتِ مِنَ بِهِ فَأَخْرَجَ مَاءً السَّمَاءِ مِنَ
-وَأَنْزَلَ بِنَاءً وَالسَّمَاءَ فِرَاشًا الْأَرْضَ لَكُمُ جَعَلَ
-الَّذِي
-  </p>
-</blockquote>
+> رِزْقًا الثَّمَرَاتِ مِنَ بِهِ فَأَخْرَجَ مَاءً السَّمَاءِ مِنَ
+> وَأَنْزَلَ بِنَاءً وَالسَّمَاءَ فِرَاشًا الْأَرْضَ لَكُمُ جَعَلَ
+> الَّذِي
 
-<blockquote dir="rtl">
-  <p>
-.لَكُمْ
-  </p>
-</blockquote>
+> .لَكُمْ
 
 ***Who made the earth a resting place for you and the heaven a canopy
 and who sends down rain from the cloud, then brings for the subsistence
@@ -1313,24 +1081,16 @@ What is given as rewards to the righteous and punishment to the
 evildoers on the Day of Judgment is an embodiment of their deeds changed
 into Paradise or hell:
 
-<blockquote dir="rtl">
-  <p>
-أَمَدًا وَبَيْنَهُ بَيْنَهَا أَنَّ لَوْ تَوَدُّ سُوءٍ مِنْ عَمِلَتْ
-وَمَا مُحْضَرًا خَيْرٍ مِنْ عَمِلَتْ مَا نَفْسٍ كُلُّ تَجِدُ يَوْمَ
-بَعِيدًا
-  </p>
-</blockquote>
+> أَمَدًا وَبَيْنَهُ بَيْنَهَا أَنَّ لَوْ تَوَدُّ سُوءٍ مِنْ عَمِلَتْ
+> وَمَا مُحْضَرًا خَيْرٍ مِنْ عَمِلَتْ مَا نَفْسٍ كُلُّ تَجِدُ يَوْمَ
+> بَعِيدًا
 
 ***On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and***
 ***that evil, there were a long duration of time. (3:30)***
 
-<blockquote dir="rtl">
-  <p>
-يُظْلَمُونَ لَا وَهُمْ كَسَبَتْ مَا نَفْسٍ كُلُّ تُوَفَّىٰ ثُمَّ ۖ
-اللَّهِ إِلَى فِيهِ تُرْجَعُونَ يَوْمًا وَاتَّقُوا
-  </p>
-</blockquote>
+> يُظْلَمُونَ لَا وَهُمْ كَسَبَتْ مَا نَفْسٍ كُلُّ تُوَفَّىٰ ثُمَّ ۖ
+> اللَّهِ إِلَى فِيهِ تُرْجَعُونَ يَوْمًا وَاتَّقُوا
 
 ***And guard yourselves against a day in which you shall be returned to
 Allah; then every soul shall be paid back in full what it has earned,
@@ -1339,12 +1099,8 @@ and they shall not be dealt with unjustly. (2:281)***
 This is even more evident than all in the verse on eating the property
 of orphans, which will turn into fire in the bellies of the unjust:
 
-<blockquote dir="rtl">
-  <p>
-نَارًا بُطُونِهِمْ فِي يَأْكُلُونَ إِنَّمَا ظُلْمًا الْيَتَامَىٰ
-أَمْوَالَ يَأْكُلُونَ الَّذِينَ إِنَّ
-  </p>
-</blockquote>
+> نَارًا بُطُونِهِمْ فِي يَأْكُلُونَ إِنَّمَا ظُلْمًا الْيَتَامَىٰ
+> أَمْوَالَ يَأْكُلُونَ الَّذِينَ إِنَّ
 
 ***As for those who swallow the property of the orphans unjustly, surely
 they only swallow fire into their bellies and they shall enter burning
@@ -1362,23 +1118,15 @@ anything!” The Holy Prophet asked her to do what he had said. Aishah did
 so and a bit of meat came out of her mouth! Actually the Holy Prophet
 showed to Aishah the invisible result of backbiting in this world:
 
-<blockquote dir="rtl">
-  <p>
-ۚفَكَرِهْتُمُوهُ مَيْتًا أَخِيهِ لَحْمَ يَأْكُلَ أَنْ أَحَدُكُمْ
-أَيُحِبُّ بَعْضًا بَعْضُكُمْ يَغْتَبْ وَلَا
-  </p>
-</blockquote>
+> ۚفَكَرِهْتُمُوهُ مَيْتًا أَخِيهِ لَحْمَ يَأْكُلَ أَنْ أَحَدُكُمْ
+> أَيُحِبُّ بَعْضًا بَعْضُكُمْ يَغْتَبْ وَلَا
 
 ***…nor let some of you backbite others. Does one of you like to eat the
 flesh of his dead brother? But you abhor it. (49:12)***
 
 In a *Hadith*, we read:
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا هِيَ أعْمَالُكُم تُرَدُّ إلَيْكُم.
-  </p>
-</blockquote>
+> إنَّمَا هِيَ أعْمَالُكُم تُرَدُّ إلَيْكُم.
 
 All torments are the deeds that you have done and they return to you.
 
@@ -1397,27 +1145,19 @@ his holy shrine is unkindness to him, which is unlawful to Muslims.[^56]
 
 Quoting Imam al-Sadiq, Sheikh Saduq has reported:
 
-<blockquote dir="rtl">
-  <p>
-إذَا حَجَّ أحَدُكُمْ فَلْيَخْتِمُ حَجَّهُ بِزِيَارَتِنَا لأنَّ ذَلِكَ
-مِنْ تَمَامِ الْحَجِّ.
-  </p>
-</blockquote>
+> إذَا حَجَّ أحَدُكُمْ فَلْيَخْتِمُ حَجَّهُ بِزِيَارَتِنَا لأنَّ ذَلِكَ
+> مِنْ تَمَامِ الْحَجِّ.
 
 Whoever performs Hajj rites must complete it with paying visit to us,
 for to visit our graves makes Hajj perfect.[^57]
 
 Imam Ali (a.s.) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-أتِمُّوا بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ حَجَّكُمْ
-إذَا خَرَجْتُم إلَى بَيْتِ اللَّهِ، فَإنَّ تَرْكَهُ جَفَاءٌ،
-وَبِذَالِكَ أمِرْتُمْ. وَأتِمُّا بِالْقُبُورِ الَّتِي ألْزَمَكُمُ
-اللَّهُ عَزَّ وَجَلَّ زِيَارَتَهَا وَ حَقَّهَا وَاطْلُبُوا الرِّزْقَ
-عِنْدَهَا.
-  </p>
-</blockquote>
+> أتِمُّوا بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ حَجَّكُمْ
+> إذَا خَرَجْتُم إلَى بَيْتِ اللَّهِ، فَإنَّ تَرْكَهُ جَفَاءٌ،
+> وَبِذَالِكَ أمِرْتُمْ. وَأتِمُّا بِالْقُبُورِ الَّتِي ألْزَمَكُمُ
+> اللَّهُ عَزَّ وَجَلَّ زِيَارَتَهَا وَ حَقَّهَا وَاطْلُبُوا الرِّزْقَ
+> عِنْدَهَا.
 
 Make your Hajj rites perfect by visiting the Holy Prophet’s grave, for
 to abandon that would be an unkind act and against courtesy. You have
@@ -1435,23 +1175,15 @@ death.”[^59]
 
 Imam al-Sadiq is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَنِي غُفِرَتْ لَهُ ذُنُوبُهُ وَلَمْ يَمُتْ فَقِيراً.
-  </p>
-</blockquote>
+> مَنْ زَارَنِي غُفِرَتْ لَهُ ذُنُوبُهُ وَلَمْ يَمُتْ فَقِيراً.
 
 Whoever visits my grave; his sins will be forgiven and will not die as
 poor or distressed.[^60]
 
 Imam Askari has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَ جَعْفَراً وَأبَاهُ لَمْ يَشْكُ عَيْنَهُ وَلَمْ يُصِبْهُ
-سَقَمٌ وَلَمْ يَمُتْ مُبْتَلَىً.
-  </p>
-</blockquote>
+> مَنْ زَارَ جَعْفَراً وَأبَاهُ لَمْ يَشْكُ عَيْنَهُ وَلَمْ يُصِبْهُ
+> سَقَمٌ وَلَمْ يَمُتْ مُبْتَلَىً.
 
 Whoever visits the tombs of Imam al-Sadiq and Imam al-Baqir will not
 have defect in his eye, will not be diseased, and will not die
@@ -1459,38 +1191,26 @@ afflicted.[^61]
 
 The Holy Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَ الحَسَنَ فِي بَقِيعِهِ ثَبُتَ قَدَمُهُ عَلَى الصِّراطِ
-يَوْمَ تَزِلُّ فِيهِ الأقْدَامُ.
-  </p>
-</blockquote>
+> مَنْ زَارَ الحَسَنَ فِي بَقِيعِهِ ثَبُتَ قَدَمُهُ عَلَى الصِّراطِ
+> يَوْمَ تَزِلُّ فِيهِ الأقْدَامُ.
 
 Whoever visits Imam Hasan in Baqi Cemetery, his foot will remain
 steadfast on the Sirat when his other feet will slip.[^62]
 
 Imam al-Baqir (a.s.) is reported by Muhammad ibn Muslim as saying:
 
-<blockquote dir="rtl">
-  <p>
-مُرُوا شِيعَتَنَا بِزِيَارَةِ قَبْرٍ الحُسَينِ بْن عَلِيٍّ، فَإنَّ
-إتْيَانَهُ مُقْتَرَضٌ عَلَى كُلٍّ مُؤْمِنٍ يُقِرُّ لِلْحُسَيْنِ
-بِلأمَامَةِ اللَّهِ عَزَّ وَ جَلَّ.
-  </p>
-</blockquote>
+> مُرُوا شِيعَتَنَا بِزِيَارَةِ قَبْرٍ الحُسَينِ بْن عَلِيٍّ، فَإنَّ
+> إتْيَانَهُ مُقْتَرَضٌ عَلَى كُلٍّ مُؤْمِنٍ يُقِرُّ لِلْحُسَيْنِ
+> بِلأمَامَةِ اللَّهِ عَزَّ وَ جَلَّ.
 
 Enjoin our followers to visit the grave of Imam Husayn, for visiting his
 grave is incumbent upon every believer who admits his Imamate.[^63]
 
 Imam al-Sadiq (a.s.) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَ قَبْرَ الحُسَيْنِ لِلَّهِ وَفِي اللَّهِ، أعْتَقَهُ اللَّهُ
-مِنَ النَّارِ وَ آمَنَهُ يَوْمَ الْفَزَعِ الأكْبَرِ وَلَمْ يَسَالِ
-اللَّهَ حَجَةَ مِنْ حَوَائِجِ الدُّنْيَا وَالآخِرَةِ إلأ أعْطَاهُ.
-  </p>
-</blockquote>
+> مَنْ زَارَ قَبْرَ الحُسَيْنِ لِلَّهِ وَفِي اللَّهِ، أعْتَقَهُ اللَّهُ
+> مِنَ النَّارِ وَ آمَنَهُ يَوْمَ الْفَزَعِ الأكْبَرِ وَلَمْ يَسَالِ
+> اللَّهَ حَجَةَ مِنْ حَوَائِجِ الدُّنْيَا وَالآخِرَةِ إلأ أعْطَاهُ.
 
 Whoever visits the grave of Imam Husayn for the sake of Allah and in His
 way will be set free from hellfire, spared on the Day of the Greater
@@ -1499,13 +1219,9 @@ world and the hereafter.[^64]
 
 Imam al-Sadiq (a.s.) has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَاتِ قَبْرَ الْحُسَينِ حَتَى يَمُوتَ كَانَ مُنْتَقَصَ
-الدِّينِ مُنْتَقَصَ الإيمَانِ، وَإنْ أدْخِلَ الْجَنَّةَ كَانَ دُونَ
-المُؤْمِنِينَ فِي الجَنَّةِ.
-  </p>
-</blockquote>
+> مَنْ لَمْ يَاتِ قَبْرَ الْحُسَينِ حَتَى يَمُوتَ كَانَ مُنْتَقَصَ
+> الدِّينِ مُنْتَقَصَ الإيمَانِ، وَإنْ أدْخِلَ الْجَنَّةَ كَانَ دُونَ
+> المُؤْمِنِينَ فِي الجَنَّةِ.
 
 Whoever does not visit the grave of Imam Husayn before his death, his
 faith is not perfect. Even if he enters Paradise, his rank will be lower
@@ -1513,12 +1229,8 @@ than that of other believers.[^65]
 
 Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَ قَبْرَ الْحُسَينِ بِشَطِّ الْفُرَاتِ كَانَ كَمَنْ زَارَ
-اللَّهَ فَوْقَ عَرْشِهِ.
-  </p>
-</blockquote>
+> مَنْ زَارَ قَبْرَ الْحُسَينِ بِشَطِّ الْفُرَاتِ كَانَ كَمَنْ زَارَ
+> اللَّهَ فَوْقَ عَرْشِهِ.
 
 Whoever visits the grave of Husayn at the bank of the Euphrates is like
 the one who has visited Allah on His Throne.[^66]
@@ -1536,34 +1248,18 @@ way that Allah has ordered.
 There are two Quranic verses, which make offering thanks obligatory on
 human beings:
 
-<blockquote dir="rtl">
-  <p>
-وَلِوَالِدَيْكَ لِي اشْكُرْ أَنِ عَامَيْنِ فِي وَفِصَالُهُ وَهْنٍ
-عَلَىٰ وَهْنًا أُمُّهُ حَمَلَتْهُ بِوَالِدَيْهِ الْإِنْسَانَ
-وَوَصَّيْنَا
-  </p>
-</blockquote>
+> وَلِوَالِدَيْكَ لِي اشْكُرْ أَنِ عَامَيْنِ فِي وَفِصَالُهُ وَهْنٍ
+> عَلَىٰ وَهْنًا أُمُّهُ حَمَلَتْهُ بِوَالِدَيْهِ الْإِنْسَانَ
+> وَوَصَّيْنَا
 
-<blockquote dir="rtl">
-  <p>
-ۖتُطِعْهُمَا فَلَا عِلْمٌ بِهِ لَكَ لَيْسَ مَا بِي تُشْرِكَ أَنْ
-عَلَىٰ جَاهَدَاكَ إِنْ وَ الْمَصِيرُ إِلَيَّ
-  </p>
-</blockquote>
+> ۖتُطِعْهُمَا فَلَا عِلْمٌ بِهِ لَكَ لَيْسَ مَا بِي تُشْرِكَ أَنْ
+> عَلَىٰ جَاهَدَاكَ إِنْ وَ الْمَصِيرُ إِلَيَّ
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُمْ بِمَا فَأُنَبِّئُكُمْ مَرْجِعُكُمْ إِلَيَّ ثُمَّ ۚإِلَيَّ
-أَنَابَ مَنْ سَبِيلَ وَاتَّبِعْ ۖمَعْرُوفًا الدُّنْيَافِي
-وَصَاحِبْهُمَا
-  </p>
-</blockquote>
+> كُنْتُمْ بِمَا فَأُنَبِّئُكُمْ مَرْجِعُكُمْ إِلَيَّ ثُمَّ ۚإِلَيَّ
+> أَنَابَ مَنْ سَبِيلَ وَاتَّبِعْ ۖمَعْرُوفًا الدُّنْيَافِي
+> وَصَاحِبْهُمَا
 
-<blockquote dir="rtl">
-  <p>
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> تَعْمَلُونَ
 
 ***And we have enjoined man in respect of his parents - his mother bears
 him with faintings upon faintings and his weaning takes two years,
@@ -1588,15 +1284,11 @@ grateful to one's parents. In this relation, Imam al-Sadiq is reported
 as saying: A man came to the Holy Prophet saying, “O Allah’s Messenger!
 Enjoin me.” The Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشْرِكْ بِللَّهِ شَيْئاً وَ إنْ حُرِّقْتَ بِالنَّارِ وَعُذِّبْتَ
-إلاَّ وَ قَلْبُكَ مُطْمَئِنٌّ بِالإيمَانِ. وَوَالِدَيْكَ فَأطِعْهُمَا
-وَبِرَّهُمَا حَيَّينِ كَانَا أوْمَيِّتَيْنِ وَ إنْ أمَرَاكَ أنْ
-تَخْرُجَ مِنْ أهْلِكَ وَ مَالِكَ فَافْعَلْ، فَإنَّ ذَلِكَ مِنَ
-الإيمَانِ.
-  </p>
-</blockquote>
+> لاَ تُشْرِكْ بِللَّهِ شَيْئاً وَ إنْ حُرِّقْتَ بِالنَّارِ وَعُذِّبْتَ
+> إلاَّ وَ قَلْبُكَ مُطْمَئِنٌّ بِالإيمَانِ. وَوَالِدَيْكَ فَأطِعْهُمَا
+> وَبِرَّهُمَا حَيَّينِ كَانَا أوْمَيِّتَيْنِ وَ إنْ أمَرَاكَ أنْ
+> تَخْرُجَ مِنْ أهْلِكَ وَ مَالِكَ فَافْعَلْ، فَإنَّ ذَلِكَ مِنَ
+> الإيمَانِ.
 
 Do not associate anything with Allah and even if they burn or torment
 you as regards monotheism, endure it while you heart is sure of your
@@ -1757,5 +1449,4 @@ Ahl al-Bayt.
 [^66]: Thawab al-Amal wa-Iqab al-Amal: 85
 
 [^67]: Al-Kafi, 158/2, H. 2
-
 

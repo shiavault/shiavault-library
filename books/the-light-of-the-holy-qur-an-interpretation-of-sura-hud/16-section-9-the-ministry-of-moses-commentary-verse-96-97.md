@@ -6,7 +6,6 @@ people on the Day of Judgment shall be with Perfect Justice The
 punishment shall be as long as Allah wills The people of Pharaoh
 punished
 
-
 (96) وَ لَقَدْ أَرْسَلْنا مُوسى‏ بِآياتِنا وَ سُلْطانٍ مُبينٍ
 
 (97) إِلى‏ فِرْعَوْنَ وَ مَلاَئِهِ فَاتَّبَعُوا أَمْرَ فِرْعَوْنَ وَ ما
@@ -14,7 +13,6 @@ punished
 
 96. " And indeed We sent Moses with Our Signs and a manifest authority,
 "
-
 
 97. " Unto Pharaoh and his chiefs; but they followed the command of
 Pharaoh, and the command of Pharaoh was not rightly guided. "
@@ -59,7 +57,6 @@ development and their salvation. The verse says:
 " Unto Pharaoh and his chiefs; but they followed the command of
 Pharaoh, and the command of Pharaoh was not rightly guided. "
 
-
 **Commentary : Verse 98**
 
 (98) يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيامَةِ فَأَوْرَدَهُمُ النَّارَ وَ
@@ -83,7 +80,6 @@ towards the Hell Fire. The verse says:
 " He shall go before his people on the Day of Resurrection and lead
 them into the Fire, and evil is the place(they will be)led to. "
 
-
 **Commentary : Verse 99**
 
 (99) وَ أُتْبِعُوا في‏ هذِهِ لَعْنَةً وَ يَوْمَ الْقِيامَةِ بِئْسَ
@@ -105,7 +101,6 @@ The verse says:
 
 " And they are followed by a curse in this world and on the Day of
 Judgment, and woeful is the gift which shall be given(them). "
-
 
 **Commentary : Verse 100**
 
@@ -140,7 +135,6 @@ another proof of the miraculous nature of the Prophet(p.b.u.h.) as an
 uninstructed individual who brings such news. And fourthly, it offers
 instructive lessons for its audience.
 
-
 **Commentary : Verse 101**
 
 (101) وَ ما ظَلَمْناهُمْ وَ لكِنْ ظَلَمُوا أَنْفُسَهُمْ فَما أَغْنَتْ
@@ -172,7 +166,6 @@ themselves. When the decree of your Lord came, their gods, whom they
 invoked other than Allah, availed them not anything and they increased
 them naught but perdition. "
 
-
 **Commentary : Verse 102**
 
 (102) وَ كَذلِكَ أَخْذُ رَبِّكَ إِذا أَخَذَ الْقُرى‏ وَ هِيَ ظالِمَةٌ
@@ -196,5 +189,4 @@ every nation inflicts oppression, violates Divinely established limits,
 and ignores the leadership, admonitions and guidance of Allah's
 prophets, it will be eventually arrested and annihilated by Divine
 punishment.
-
 

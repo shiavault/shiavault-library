@@ -7,14 +7,9 @@ Hospitality
 place for your father and your teacher, even if you are a ruler.
 
 > 1ـ أكْرِمْ ضَيْفَكَ وإنْ كانَ حَقيراً، وقُمْ عَنْ مَجْلِسِكَ لاِبيكَ
-<blockquote dir="rtl">
-  <p>
-ومُعَلِّمِكَ وَإنْ كُنْتَ أميراً.
-  </p>
-</blockquote>
+> ومُعَلِّمِكَ وَإنْ كُنْتَ أميراً.
 
 2. Hospitality is the cornerstone of magnanimity.
 
 > 2ـ اَلضِّيافَةُ رَأسُ المُرُوَّةِ.
-
 

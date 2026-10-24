@@ -14,11 +14,7 @@ shortcomings, and divides it into two categories. The first category of
 forgiveness is that when a person notices a fault or shortcoming, he
 forgives for the sake of Allah or humanity.
 
-<blockquote dir="rtl">
-  <p>
-خُذِ الْعَفْوَ وَ أْمُرْ بِالْعُرْفِ وَ أَعْرِضْ عَنِ الجَْهِلِين
-  </p>
-</blockquote>
+> خُذِ الْعَفْوَ وَ أْمُرْ بِالْعُرْفِ وَ أَعْرِضْ عَنِ الجَْهِلِين
 
 ***Keep to forgiveness, and enjoin kindness, and turn away from the
 ignorant.*** ***(Sura al-’Araf, 7: 199)***
@@ -79,11 +75,7 @@ especially from the people associated with the pulpit and the prayer
 niche, and those who are proud to be Shias. This is the third stage of
 forbearance and forgiveness. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-ْ وَ يَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَة
-  </p>
-</blockquote>
+> ْ وَ يَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَة
 
 ***…..and they repel evil with good…..*** ***(Sura al Qasas, 28: 54)***
 
@@ -133,11 +125,7 @@ narrated by the Holy Quran, was manifested when he went to receive his
 parents. He made his parents sit on a throne with due respect and showed
 great respect to his brothers as well. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ ادْخُلُواْ مِصْرَ إِن شَاءَ اللَّهُ ءَامِنِين
-  </p>
-</blockquote>
+> وَ قَالَ ادْخُلُواْ مِصْرَ إِن شَاءَ اللَّهُ ءَامِنِين
 
 ***And he said, “Come into Egypt safe, if Allah wills!” (Sura Yusuf, 12:
 99)***
@@ -168,11 +156,7 @@ Holy Quran uses words which can have more than one meaning. The
 commentators interpret it differently, while the scholars of ethics and
 the moralists give it another meaning. For example:
 
-<blockquote dir="rtl">
-  <p>
-وَ جَزَ ؤُاْ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا
-  </p>
-</blockquote>
+> وَ جَزَ ؤُاْ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا
 
 ***The guerdon of an ill-deed is an ill the like thereof. …..***
 ***(Sura al Shuuraa, 26: 40)***
@@ -264,5 +248,4 @@ our families, we can make it a hundred percent with the adoption of the
 attitude of forbearance and forgiveness! In the view of the Holy Quran
 the environment at home should be one *"for attaining peace in it"**.***
 May Allah make our homes the abodes of peace!
-
 

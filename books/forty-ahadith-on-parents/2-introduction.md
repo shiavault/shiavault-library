@@ -46,4 +46,3 @@ parents.”
 “O’ Allah!  Make us successful in bringing forth a generation of
 pure-hearted, believing, grateful and righteous individuals.”
 
-

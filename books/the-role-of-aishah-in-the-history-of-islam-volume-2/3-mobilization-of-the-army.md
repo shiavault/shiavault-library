@@ -572,4 +572,3 @@ But concerning 'Ali, You are mistaken and have gone astray!"47
 
 47. History of at-Tabari 5/176.
 
-

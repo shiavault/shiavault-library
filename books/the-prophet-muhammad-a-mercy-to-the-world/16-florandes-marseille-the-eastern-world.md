@@ -264,7 +264,6 @@ equivalent of Ibrahim is also given for the first time, and subsequently
 only the Latin form is used for the sake of ease and simplicity for the
 English reader.
 
-
 **About The Author**
 
 Ayatollah al-Udhma al-Imam Sayyid Muhammad Husayni Shirazi is
@@ -347,5 +346,4 @@ of expression, debate and discussion, tolerance and forgiveness. He
 continuously called for the establishment of the universal Islamic
 government to encompass all the Muslim countries. These and other ideas
 are discussed in detail in his works of more than 1100 titles.
-
 

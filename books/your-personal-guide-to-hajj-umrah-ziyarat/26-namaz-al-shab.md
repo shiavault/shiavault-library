@@ -58,4 +58,3 @@ Finish the prayer in the usual way by going into Rukuu and Sajdah
 followed by Tashahud and Salaam. After finishing recite Tasbee al-Fatima
 Zehra A.S. Then make Sajda al-Shukr.
 
-

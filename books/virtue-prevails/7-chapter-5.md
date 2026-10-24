@@ -199,4 +199,3 @@ conduct, his girl friends and his mistress, Nadia.
 Fitnah found it hard to exchange words of love with him, but for the
 sake of money she carried on the role of a loving wife.
 
-

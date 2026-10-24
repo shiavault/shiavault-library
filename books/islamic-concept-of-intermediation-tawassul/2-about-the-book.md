@@ -26,4 +26,3 @@ Farid-e-Millat Research Institute
 
 Rabī‘-ul-Awwal, 1421 AH.
 
-

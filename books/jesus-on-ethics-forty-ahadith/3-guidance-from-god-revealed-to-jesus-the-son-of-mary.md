@@ -461,4 +461,3 @@ considered the name of a fountain in heaven.
 
 [^5]: This indicates that he will be the final prophet.
 
-

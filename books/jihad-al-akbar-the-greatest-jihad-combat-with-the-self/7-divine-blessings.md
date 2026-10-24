@@ -89,4 +89,3 @@ with a healthy soul.
 be with him, about the ayah mentioned, and he answered: “This is about
 those who will depart from the fire.” Majma‘ al-Bayan, vol. 10, p. 424.
 
-

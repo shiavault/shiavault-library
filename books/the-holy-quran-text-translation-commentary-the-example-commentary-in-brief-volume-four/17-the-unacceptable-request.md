@@ -526,4 +526,3 @@ his own eyes a debaucher making love with his wife. The prophet showed a
 dark and thoughtful complexion, when GABRIEL appeared to him and brought
 down the above verses.
 
-

@@ -39,4 +39,3 @@ obeyed when you command, and peace be with you.
 
 Sincerely,
 
-

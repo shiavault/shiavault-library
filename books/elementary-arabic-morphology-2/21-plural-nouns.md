@@ -150,4 +150,3 @@ becomes **فُعل**, for example: **أحمَر** (red) becomes **حُمر**
 • **أفعَل** which is the comparative/superlative form becomes
 **أفاعِل**, for example: **أفضَل** (better) becomes **أفاضِل**
 
-

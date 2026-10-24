@@ -73,9 +73,7 @@ hoped that this modest effort will help in correcting wrong concepts by
 purifying our thoughts, and exhorting Muslims to hold on to Islam. Allah
 certainly hears our prayers.
 
-
 Al-Balagh Foundation
-
 
 **Culture and Civilization**
 
@@ -212,7 +210,6 @@ The two words give this meaning idiomaticness, but each one of them
 covers a specific area which makes it impossible to use them
 interchangeably.
 
-
 **Relationship between Culture and Civilization**
 
 In spite of the fact that the area of 'culture' and its sphere of
@@ -298,5 +295,4 @@ path as the old 'jahiliyyah' civilizations. Both ancient and modem
 civilizations, as expressed in the Qur'an exploit man's scientific
 advancement devastatingly, bringing down upon humanity deviation,
 misery, oppression and ruin.
-
 

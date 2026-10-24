@@ -75,4 +75,3 @@ pond [of Kawthar]... – see the section on Muhammad (s) and his progeny.
 
 [^5]: This work was published in Iran in 1425 AH.
 
-

@@ -1284,4 +1284,3 @@ render into English.
 [^7]: This also is a profound expression of humility written by Allameh
 Husaini-Tehrani himself.
 
-

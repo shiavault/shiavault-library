@@ -5,11 +5,7 @@ The authors of Iqbaalul Aamaal, al-Mazaar and Zaadul Maad have narrated
 a tradition from Imam Sadiq (as) on the authority of Abdullah Ibne Sinan
 (Allah’s mercy be on him), which commences with the following sentence:
 
-<blockquote dir="rtl">
-  <p>
-اللهم عذب الفجرة الذين شاقوا رسولك
-  </p>
-</blockquote>
+> اللهم عذب الفجرة الذين شاقوا رسولك
 
 “O Allah! Chastise the transgressors who bore enmity against your
 messenger.....”
@@ -28,5 +24,4 @@ Hence, such a demand has been recommended in this supplication.
 Moreover, one who prays for this day will find an occasion whose reward
 cannot be measured by anyone except Allah the High and that is, seeking
 the revenge of the blood of Imam Husain (as), the leader of the martyrs.
-
 

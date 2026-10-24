@@ -19,7 +19,6 @@ after this: "They returned with the favors and the bounties of Allah
 untouched by evil and followed by the pleasure of Allah. Allah's favor
 is great." (3:174)
 
-<p dir="rtl">
 وعجبت لمن اغتمّ كيف لا يفزع إلى قوله تعالى: (لاَ إلَهَ إلاّ أَنْتَ
 سُبْحَانَكَ انّي كُنْتُ مِنَ الظَّالِمِينَ.) فانّي سمعت الله عزّ وجل
 يقول بعقبها: (فَاسْتَجَبْنَا لَهُ وَنَجّْيْنَاهُ مِنَ الْغَمِّ
@@ -27,12 +26,9 @@ is great." (3:174)
 عزّ وجلّ: (وَاُفَوِّضُ أَمْرِي إلَى اللهِ إنَّ اللهَ بَصِيرٌ
 بِالْعِبَادِ.) فانّي سمعتُ الله عزّ وجلّ يقول بعقبها: (فَوَقَاهُ اللهُ
 سَيّئاتِ مَا مَكَرُوا).
-</p>
 
-<p dir="rtl">
 وعجبت لمن أراد الدنيا وزينتها كيف لا يفزع إلى قوله تعالى: (مَا شَاءَ
 اللهُ لاَ قُوَّةَ إلاّ بِاللهِ.). فإني سمعت الله عزّ وجلّ يقول بعقبه.:
-</p>
 
 I wonder at those who are grievous-why they do not restore to Allah's
 saying: "Lord, You are the Only God whom I glorify. I have certainly
@@ -73,7 +69,6 @@ sustenance, why do you care for it then? If the shares of the sustenance
 are already distributed and decided (for people), why are you
 acquisitive then?
 
-<p dir="rtl">
 وإن كان الحساب حقّاً، فالفرح لماذا؟
 وإن كان الخلف من الله عزّ وجلّ حقّاً فالبخل لماذا؟
 وإن كانت العقوبة من الله عزّ وجلّ النار فالمعصية لماذا؟
@@ -82,7 +77,6 @@ acquisitive then?
 وإن كان الشيطان عدوّاً، فالغفلة لماذا؟
 وإن كان الممرّ على الصّراط حقّاً، فالعجب لماذا؟
 وإن كان كلّ شيء بقضاء الله وقدره، فالحزن لماذا؟
-</p>
 
 If the Judgment will unavoidably fall, why are you excessively cheerful
 then?
@@ -168,7 +162,6 @@ the reward when they go under the dust (in their grave). The most
 oblivious people are they who do not learn lessons from the ceaseless
 changes of this world.
 
-<p dir="rtl">
 وأعظم الناس في الدنيا خطراً من لم يجعل للدنيا عنده خطراً، وأعلم الناس
 من جمع علم الناس إلى علمه، وأشجع الناس من غلب هواه. وأكثر الناس قيمة
 أكثرهم علماً، وأقلّ الناس قيمة أقلّهم علماً، وأقلّ الناس لذّة الحسود،
@@ -177,7 +170,6 @@ changes of this world.
 المملوك، وأقلّ الناس صديقاً الملك، وأفقر الناس الطامع، وأغنى الناس من لم
 يكن للحرص أسيراً. وأفضل الناس إيماناً أحسنهم خلقاً، وأكرم الناس أتقاهم،
 وأعظم الناس قدراً من ترك ما لا يعنيه.
-</p>
 
 The most respectful people are they who disrespect this world. The most
 knowledgeable people are they who add people's knowledges to theirs. The
@@ -196,7 +188,6 @@ manners. The most generous people are the most God-fearing. The loftiest
 people are they who do not intrude themselves in that which does not
 concern them.
 
-<p dir="rtl">
 وأورع الناس من ترك المراء وإن كان محقّاً، وأقلّ الناس مروّة من كان
 كاذباً. وأشقى الناس المملوك، وأمقت الناس المتكبّر وأشدّ الناس اجتهاداً
 من ترك الذنوب، وأحكم الناس من فرّ من جهّال الناس، وأسعد الناس من خالط
@@ -205,7 +196,6 @@ concern them.
 بالعفو أقدرهم على العقوبة، وأحقّ الناس بالذّنب السفيه المغتاب، وأذلّ
 الناس من أهان الناس، وأحزم الناس أكظمهم للغيظ، وأصلح الناس أصلحهم للناس،
 وخير الناس من انتفع به الناس.
-</p>
 
 The most pious people are they who leave all sorts of disputation
 including the right. The owners of the weakest personalities are the
@@ -373,11 +363,9 @@ al-Amali; 90 H.1, Bihar ul-Anwar; 5:198 H.16.
 al-Amali; 95 H.2, Falah us-Sa'il; 215, Muhasabat un-Nafs; 14, Rawdhat
 ul-Wa'idheen; 393, Bihar ul-Anwar; 71:181 H.35 and 77:381 H.3.
 
-<p dir="rtl">
 الإجلال له في عينه، والودّ له في صدره، والمواساة له في ماله، وأن يحرم
 غيبته، وأن يعوده في مرضه، وأن يشيّع في جنازته، وأن لا يقول بعد موته إلاّ
 خيراً.
-</p>
 
 (90) وروى ابن أبي عمير، عن ابن أبي زياد التهمي، عن عبد الله بن وهب، عن
 الصادق جعفر بن محمد عليهما السلام قال: حسب المؤمن من الله نصرة أن يرى
@@ -425,10 +413,8 @@ al-Amali; 88 H.5, al-Khissal; 20 H.71, Bihar ul-Anwar; 71:408 H.22,
 (93) وروى محمد بن أبي عمير، عن عبد الله بن القاسم، عن الصادق جعفر بن
 محمد، عن أبيه، عن جدّه، عن علي عليهم السلام قال:
 
-<p dir="rtl">
 كن لما لا ترجو أرجى منك لما ترجو، فإنَّ موسى بن عمران خرج يقتبس لأهله
 ناراً فكلّمه الله عزّ وجل ّ فرجع نبيّاً.
-</p>
 
 (92) Al-Mu'alla bin Mohammed al-Basri narrated from Ahmed bin Mohammed
 bin Abdullah from Amr bin Ziyad from Mudrik bin Abdirrahman that Abu
@@ -453,10 +439,8 @@ al-Amali; 168 H.1, Mustatrafat us-Saraa'ir; 622, Oddat ud-Da'ee; 77,
 Irshad ul-Quloub; 165, Awali ul-La'aali; 4:6 H.10, Mishkat ul-Anwar;
 137, Bihar ul-Anwar; 2:14 H.26, 2:16 H.35.
 
-<p dir="rtl">
 وخرجت ملكة سباً فأسلمت مع سليمان عليه السلام، وخرج سحرة فرعون يطلبون
 العزّة لفرعون فرجعوا مؤمنين.
-</p>
 
 (94) وروى عبد الله بن عبّاس، عن رسول الله صلّى الله عليه وآله أنه قال:
 أشراف اُمّتي حملة القرآن، وأصحاب الليل.
@@ -497,5 +481,4 @@ al-Amali; 194 H.5, al-Khissal; 7 H.19-20 and 178 H.2, al-Ja'fariyat;
 Ma'dan ul-Jawhar; 44, Rawdhat ul-Wa'idheen; 502, Mishkat ul-Anwar; 301,
 Bihar ul-Anwar; 71:188 H.54, 75:105 H.2, 77:19 H.3 & 5, and 87:138
 H.5.
-
 

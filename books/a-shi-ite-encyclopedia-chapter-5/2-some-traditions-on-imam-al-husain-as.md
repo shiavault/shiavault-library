@@ -108,7 +108,6 @@ Mushbir."
 (9) al-Sawa'iq al-Muhriqah, by Ibn Hajar Haythami, Ch. 11, section 3,
 p292
 
-
 The third son of Lady Fatimah (AS) who was pre-named by the Prophet as
 Muhsin, was miscarried shortly after the demise of Prophet.
 
@@ -219,5 +218,4 @@ Inimitable, impeccable: I am his son
 His peerless attributes I have won.
 My heart is virtues' abode and nest
 Blessedness harbors in my breast.
-
 

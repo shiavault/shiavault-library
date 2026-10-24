@@ -441,4 +441,3 @@ tells us that the Islamic jiziyah was so trivial an amount that it was
 even less than the taxes the Muslims themselves paid and thus there was
 never any question of exaction.
 
-

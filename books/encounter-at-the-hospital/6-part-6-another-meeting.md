@@ -339,4 +339,3 @@ Warqa.
 "I hope you won't be late," said Dr. Miyad. "Let us leave now. We will
 come here again sometimes, just for a change.”
 
-

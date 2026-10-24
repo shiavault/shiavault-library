@@ -118,4 +118,3 @@ forgiveness, and also that it (the grief) is not similar to the grief
 when one looses one’s dear ones. For it is far away that a person may
 fulfill the right of mourning upon this severe grief.
 
-

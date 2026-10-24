@@ -179,4 +179,3 @@ Question 2: [20 points]
  Comment on the present state of the North American/Western family
 lifestyle in light of what you have learnt in this lesson.
 
-

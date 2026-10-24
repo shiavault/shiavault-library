@@ -48,4 +48,3 @@ understand the wisdom behind them.
 ***“And Allah is not in the least unjust to His servants” - Qur'an:
 (Chapter 8 Verse 51)***
 
-

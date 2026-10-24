@@ -75,4 +75,3 @@ but in no way for "three nights."
 But the writer of the Gospel clearly says that Jesus was to remain
 "three days and three nights" in his grave.
 
-

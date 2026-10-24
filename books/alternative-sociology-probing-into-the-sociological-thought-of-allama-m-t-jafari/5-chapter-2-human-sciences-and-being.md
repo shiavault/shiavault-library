@@ -511,4 +511,3 @@ Jafari and Clifford Geertz. Very little is known about the similarities
 between these two thinkers in relation to the constitutive role of
 meaning in the makeup of human self and human community.
 
-

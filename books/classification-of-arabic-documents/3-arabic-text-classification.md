@@ -82,4 +82,3 @@ will compare between them from the accuracy and processing time
 perspectives. This project can be then used as a base for other students
 who want to continue in this field to make deeper studies.
 
-

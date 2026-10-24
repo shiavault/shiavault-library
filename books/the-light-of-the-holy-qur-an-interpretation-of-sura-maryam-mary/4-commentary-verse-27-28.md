@@ -75,7 +75,6 @@ a heap of Fire until he comes out of what he had said against him."(6)
 5- Ibid
 6- Ibid
 
-
 **Commentary : Verse 29.30**
 
 29- فَاَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلّـِمُ مَن كَانَ فِى
@@ -127,7 +126,6 @@ deviation from the path of chastity.
 But this situation did not last so long, because that new-born-child
 started speaking, and said: "Verily I am a servant of Allah; He has
 given me the Book and made me a prophet."
-
 
 **Commentary : Verse 31.32**
 
@@ -247,5 +245,4 @@ discontented Allah." (Kanz-ul-'Ummal, vol. 16, p. 470)
 lifetime to be prolonged and his sustenance to be increased, then he
 should be kind to his parents and visit his kin." (Kanz-ul-'Ummal, vol.
 16, p. 475)
-
 

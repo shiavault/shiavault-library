@@ -112,4 +112,3 @@ can refer to his website at [www.hadavi.info](http://www.hadavi.info)
 [^1]: The study of transmitters who have narrated the sayings of the
 Noble Prophet ( ص) and the Imams ( ع).
 
-

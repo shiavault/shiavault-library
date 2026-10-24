@@ -48,4 +48,3 @@ prisoners of war?
 
 3. What has Imam Ali (a) said in praise of knowledge?
 
-

@@ -344,4 +344,3 @@ al-Ganji, Kifayat al-Talib, p. 118.
 
 [^19]: Ibn Qutaybah, al-Imamah wa al-Siyasah, Vol. I, p. 12.
 
-

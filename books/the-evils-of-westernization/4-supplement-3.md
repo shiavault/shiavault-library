@@ -169,4 +169,3 @@ imparted. Then we need factories to convert the metal into machines and
 other industrial goods. And then we need markets to make them available
 to the people in the towns and villages.
 
-

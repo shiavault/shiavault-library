@@ -4,24 +4,12 @@ Surah al-Qamar, Verses 33 - 55
 Surah al-Qamar - Verses 33-35
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلاّ آلَ لُوطٍ نَّجَّيْنَاهُم
-بِسَحَرٍ
-  </p>
-</blockquote>
+> إِنَّا أرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلاّ آلَ لُوطٍ نَّجَّيْنَاهُم
+> بِسَحَرٍ
 
-<blockquote dir="rtl">
-  <p>
-نِعْمَةً مِّنْ عِندِنَا كَذَلِكَ نَجْزِي مَن شَكَرَ
-  </p>
-</blockquote>
+> نِعْمَةً مِّنْ عِندِنَا كَذَلِكَ نَجْزِي مَن شَكَرَ
 
 ***33. The people of Lot (as) belied the Warnings.***  
 ***34. Indeed, We sent against them a violent gale along with stones,
@@ -51,11 +39,7 @@ the Hereafter.
 Surah al-Qamar - Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ
-  </p>
-</blockquote>
+> وَلَقَدْ أنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ
 
 ***36. And Lot (as) indeed had warned them of Our Wrath, but they were
 engaged in disputes regarding Our Warnings!***
@@ -68,24 +52,12 @@ until they were afflicted by Divine Torment.
 Surah al-Qamar - Verses 37-39
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أعْيُنَهُمْ فَذُوقُوا
-عَذَابِي وَنُذُرِ
-  </p>
-</blockquote>
+> وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أعْيُنَهُمْ فَذُوقُوا
+> عَذَابِي وَنُذُرِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ
-  </p>
-</blockquote>
+> وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ
 
-<blockquote dir="rtl">
-  <p>
-فَذُوقُوا عَذَابِي وَنُذُرِ
-  </p>
-</blockquote>
+> فَذُوقُوا عَذَابِي وَنُذُرِ
 
 ***37. And they indeed sought to shame his guests through conversing
 with each other. Therefore, We blinded their eyes. Then taste My Torment
@@ -123,11 +95,7 @@ you but you belied his warning.”
 Surah al-Qamar - Verse 40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
 
 ***40. And indeed, We have made the Qur’an easy to comprehend. Then is
 there anyone who will receive admonition?"***
@@ -144,18 +112,10 @@ by committing the same sins, regret their vicious deeds and repent?
 Surah al-Qamar - Verses 41-42
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَاء آلَ فِرْعَوْنَ النُّذُرُ
-  </p>
-</blockquote>
+> وَلَقَدْ جَاء آلَ فِرْعَوْنَ النُّذُرُ
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأخَذْنَاهُمْ أخْذَ عَزِيزٍ
-مُّقْتَدِرٍ
-  </p>
-</blockquote>
+> كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأخَذْنَاهُمْ أخْذَ عَزِيزٍ
+> مُّقْتَدِرٍ
 
 ***41. And verily, warners came unto the people of Pharaoh.***  
 ***42. But, they belied all Our miracles. Therefore, We seized them with
@@ -224,18 +184,10 @@ rendering them desperate and led to their perdition.
 Surah al-Qamar - Verses 43-44
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أكُفَّارُكُمْ خَيْرٌ مِّنْ اُوْلَئِكُمْ أمْ لَكُم بَرَاءةٌ فِي
-الزُّبُرِ
-  </p>
-</blockquote>
+> أكُفَّارُكُمْ خَيْرٌ مِّنْ اُوْلَئِكُمْ أمْ لَكُم بَرَاءةٌ فِي
+> الزُّبُرِ
 
-<blockquote dir="rtl">
-  <p>
-أمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ
-  </p>
-</blockquote>
+> أمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ
 
 ***43. Are your disbelievers better than these? Or have you immunity in
 the Divine Scriptures?***  
@@ -279,17 +231,9 @@ insignificant and desperate people.
 Surah al-Qamar - Verses 45-46
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ
-  </p>
-</blockquote>
+> سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ
 
-<blockquote dir="rtl">
-  <p>
-بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أدْهَی وَأمَرُّ
-  </p>
-</blockquote>
+> بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أدْهَی وَأمَرُّ
 
 ***45. Their multitude will be put to flight soon and they will show
 their backs unto each other.***  
@@ -335,23 +279,11 @@ miracle?
 Surah al-Qamar - Verses 47-49
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُجْرِمِينَ فِي ضَلَآلٍ وَسُعُرٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُجْرِمِينَ فِي ضَلَآلٍ وَسُعُرٍ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَی وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ
-  </p>
-</blockquote>
+> يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَی وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ
-  </p>
-</blockquote>
+> إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ
 
 ***47. Indeed, sinners are in error and blazing flames.***  
 ***48. The day when Hellfire shall burn their faces, it will be said
@@ -383,17 +315,9 @@ Omniscience.
 Surah al-Qamar - Verses 50-51
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أمْرُنَا إِلاّ وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
-  </p>
-</blockquote>
+> وَمَا أمْرُنَا إِلاّ وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أهْلَكْنَا أشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ أهْلَكْنَا أشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ
 
 ***50. And Our Commandment is but a fast one as the twinkling of an
 eye.***  
@@ -427,17 +351,9 @@ and takes a lesson?
 Surah al-Qamar - Verses 52-53
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ
-  </p>
-</blockquote>
+> وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ
 
-<blockquote dir="rtl">
-  <p>
-وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُسْتَطَرٌ
-  </p>
-</blockquote>
+> وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُسْتَطَرٌ
 
 ***52. And everything they have done is noted in Records of deeds.***  
 ***53. And any deed, small and large, is written down.***
@@ -466,17 +382,9 @@ the same occurs to mind. It is another warning to such ignorant sinners.
 Surah al-Qamar - Verses 54-55
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ
 
-<blockquote dir="rtl">
-  <p>
-فِي مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
-  </p>
-</blockquote>
+> فِي مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
 
 ***54. Indeed, the God fearing shall be in the midst of Gardens and
 Rivers.***  
@@ -529,5 +437,4 @@ presence.
 [^1]: 17:101
 
 [^2]: 18:49
-
 

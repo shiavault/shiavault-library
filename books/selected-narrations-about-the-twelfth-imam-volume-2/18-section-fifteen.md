@@ -57,4 +57,3 @@ al-anwār, vol. 51, chap. 6, p. 145, no. 16.
 [^2]: Refer to Kamāl al-dīn, Bishārat al-Mustafa, or al-Ghadīr, vol. 2,
 p. 246, for the entire poem.
 
-

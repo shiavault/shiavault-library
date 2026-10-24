@@ -31,10 +31,8 @@ to 2.3.3 Hijrah.
 years of it being coincident with the dictator ship period of Motawakil
 (The Tenth Abbasade Caliph &' Then The caliphs afterwards.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام علي النقي عليه السلام
 ---------------------------------------------
-</p>
 
 1- مَن هانَت عَلَيهِ نَفسُهُ فَلا تَأمَن شَرَّه. (تحف العقول ص483)
 
@@ -125,9 +123,7 @@ Modem Print)
 does not reach it, is upon beneficience. And this is the word of Allah
 where in he says.
 
-<p dir="rtl">
 «ومن يخرج من بيته مهاجراًال الله و رسوله الاية»
-</p>
 
 'The one who comes out of his house as a migrant towards Allah &. His
 prophet then the death finds him (on that way) his reward is upon
@@ -248,69 +244,37 @@ unwiseness. (TUHruL AQOOL P 483)
 
 27- شعرا نشده الامام عليه السلام،يخاطب به التوکل العباسی:
 
-<p dir="rtl">
 باتُوا عَلی قُلَلِ الأَجبال تَحرُسُهُم
-</p>
 
-<p dir="rtl">
 غُلبُ الرِّجالِ فَلَم تَنفعهُم القُلَلُ
-</p>
 
-<p dir="rtl">
 وَاستُنزلوُا بَعدَ عِزٍّعَن مَعاقِلِهِم
-</p>
 
-<p dir="rtl">
 وَأسکِنُوا حُفَراً يا بِئسَ ما نَزَلوُا
-</p>
 
-<p dir="rtl">
 ناداهُمُ صارخٌ مِن بَعدِ دَفنِهِمُ
-</p>
 
-<p dir="rtl">
 أَينَ الأَساوِرُوَالتّيجانُ وَالحُلَلُ
-</p>
 
-<p dir="rtl">
 اَينَ الوُجوُهُ الَّتي کانَت مُنَعَّمَةً
-</p>
 
-<p dir="rtl">
 مِن دُونِها تُضرَبُ الأَستارُ وَالکلَلُ
-</p>
 
-<p dir="rtl">
 فَأَفصَحَ القَبرُ عَنهُم حينَ ساءَلَهُم
-</p>
 
-<p dir="rtl">
 تِلکَ الوُجوُهُ عَلَيها الدّوُدُ يَقتَتِلُ
-</p>
 
-<p dir="rtl">
 قَد طالَما أَکَلوُادَ هراً وَقَد شَرِبُوا
-</p>
 
-<p dir="rtl">
 فَأَصبَحُوا اليَومَ بَعدَ الأَکلِ قَد أکِلُوا
-</p>
 
-<p dir="rtl">
 وَطالَما عَمَّروُا دوُراً لِتُسکِنَهُم
-</p>
 
-<p dir="rtl">
 فَفارَقُوا الدّوُرَ وَالأَهلينَ وَانتَقَلوُا
-</p>
 
-<p dir="rtl">
 وَطالَما کَنَّزوُا الأَموالَ وَادَّخَروُا
-</p>
 
-<p dir="rtl">
 فَفَرَّقُوها عَلَی الأَعداءِ وَارتَحَلوُا
-</p>
 
 (اعيان الشيعة(الطبع الجديد) ج2 ص38)
 
@@ -438,5 +402,4 @@ ANWAR VOL 78, P 369)
 cause of (people's) despise, scorn, &. ignorance.
 
 (AYAN U SHIA, VOL 2, P 39, Modem Print)
-
 

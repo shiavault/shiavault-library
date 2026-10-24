@@ -465,4 +465,3 @@ bothered about any gain and loss in the way of Allah.
 
 [^8]: Tarikh Balazari, vol. 5 p. 65
 
-

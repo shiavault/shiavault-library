@@ -778,4 +778,3 @@ to the Qur'anic injunctions, Peace (*Nahj al-Balagha*, 595).”
 ***"And say: 'Truth has come and falsehood has vanished. Falsehood [is
 bound] to perish.'"***
 
-

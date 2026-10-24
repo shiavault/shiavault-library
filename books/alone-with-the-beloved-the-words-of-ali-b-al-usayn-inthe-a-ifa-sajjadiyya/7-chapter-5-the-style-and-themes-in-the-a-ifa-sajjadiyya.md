@@ -675,4 +675,3 @@ heritage within Islam, of the main streams that run through the text and
 the various arteries they flow into, taking us towards the end of this
 study ending with the conclusion to follow.
 
-

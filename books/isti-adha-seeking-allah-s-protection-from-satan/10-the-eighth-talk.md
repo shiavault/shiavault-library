@@ -20,7 +20,6 @@ piety to gossip or backbite against another person, he must desist from
 doing it. This is termed *malikat e taqwa* wherein a tendency develops
 in a person that he is able to resist the onslaught of Satan.
 
-
 Abstinence from Reprehensible (makrūhāt)
 ----------------------------------------
 
@@ -47,7 +46,6 @@ feet?
 *Taqwa* too means that on the path of life Satan has spread thorns and
 the man of piety has to save himself from getting hurt by them and keep
 moving forward all the time.
-
 
 The bait and intrigue of Satan
 ------------------------------
@@ -168,7 +166,6 @@ task. As a follow up to the conversation, even if they go to a mosque,
 you should not think that they are God fearing persons because Satan
 continues to be with them.
 
-
 Recognize yourself
 ------------------
 
@@ -181,11 +178,7 @@ control. What right you have to find fault with others. Every individual
 is answerable for his own actions. The burden of one person will not be
 put on the back of another:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
-  </p>
-</blockquote>
+> وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
 
 ***…And no bearer of burden shall bear the burden of another… (Sura
 al-An’aam, 6:164)***
@@ -193,7 +186,6 @@ al-An’aam, 6:164)***
 Remember! Talking against each other, backbiting and carrying of tales
 are all the traps of Satan. When you are in company of others, beware of
 this trap.
-
 
 Woman is the most formidable trap
 ---------------------------------
@@ -218,8 +210,6 @@ thus involves the men in his schemes.
 ***And certainly the Shaitan found true his conjecture concerning
 them... (Sura Saba, 34:20)***
 
-
-
 The company of women is the preface to sinning
 ----------------------------------------------
 
@@ -239,7 +229,6 @@ Shaking hands with a strange woman is *Haram.* Think of the impious
 animals that how deeply they are entrapped by Satan that they are
 totally unaware that the bodily touch of a woman is one of the uncanny
 traps of Satan.
-
 
 The tale of Barseesa
 --------------------
@@ -284,5 +273,4 @@ agreed to prostrate to Satan. In his last breaths Satan tempted Barseesa
 to commit a major sin and earn a place for himself in the fiery Hell.
 
 [^1]: Safinat al-Bihar, Vol 1, Page 8
-
 

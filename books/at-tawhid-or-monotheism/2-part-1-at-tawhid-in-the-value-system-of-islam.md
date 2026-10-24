@@ -10,24 +10,16 @@ base of divine religions, in particular, the sacred religion of Islam.
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ
-وَاجْتَنِبُوا الطَّاغُوتَ..
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ..
 
 ***“And certainly We raised in every people a Messenger saying: ‘Serve
 Allah and shun the shaytan’… (16:36).”***
 
 Another ayah (verse of the Holy Qur’an) says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ
-أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ
+> أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
 
 ***“And We did not send before you any Messenger but We revealed to him
 that there is no god but Me, therefore, serve Me (21:25)”***
@@ -36,11 +28,7 @@ Also, each and every one of Allah’s Prophets (AS), as mentioned in the
 Holy Qur’an, from the very outset of their being appointed as a Prophet
 by Allah, said to their people:
 
-<blockquote dir="rtl">
-  <p>
-…يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ…
-  </p>
-</blockquote>
+> …يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ…
 
 ***“… ‘O my people! Serve Allah, you have no god other than Him’…
 (7:59).”***
@@ -180,12 +168,8 @@ which we would quote here to clarify the relationship of At-Tawhid with
 the ideological system and the value system of Islam. The Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
-كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
+> كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
 
 ***“Have you not considered how Allah has set a parable of a good word
 (being) like a good tree, whose root is firm and whose branches are in
@@ -198,12 +182,8 @@ tree whose root has been pulled out of the ground. Such a tree will
 obviously not only bear no fruit, but will before long decay and be
 destroyed too, as says the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ
-فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ
-  </p>
-</blockquote>
+> وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ
+> فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ
 
 ***“And the parable of an evil word is as an evil tree pulled up from
 the earth’s surface; it has no stability (14:26).”***
@@ -222,11 +202,7 @@ this tree never ceases to bear fruit and invariably puts its fruit at
 the disposal of men, which fruit is nothing other than felicity both in
 this world and in the Hereafter.
 
-<blockquote dir="rtl">
-  <p>
-تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا…
-  </p>
-</blockquote>
+> تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا…
 
 ***“Yielding its fruit in every season by the permission of its Lord…
 (14:25).”***
@@ -308,12 +284,8 @@ If we ponder carefully about the above-mentioned ayat of the Holy Quran’
 an, once again this relation will be clear to us. In the Holy Qur’an,
 Allah (SWT) says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ
-أَنَّهُ لَا إِلَٰهَ إِلَّا…
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ
+> أَنَّهُ لَا إِلَٰهَ إِلَّا…
 
 ***“And we did not send before you any Messenger but We revealed to him
 that there is no god but Me… (21:25).”***
@@ -373,12 +345,8 @@ into this body, it will be a body which is alive, otherwise it will turn
 into a lifeless and dead system. The Holy Qur’an has also a comparison
 in this connection, it says:
 
-<blockquote dir="rtl">
-  <p>
-..كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
-وَفَرْعُهَا فِي السَّمَاءِ
-  </p>
-</blockquote>
+> ..كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
+> وَفَرْعُهَا فِي السَّمَاءِ
 
 ***“… a good word (being) like a good tree, whose root is firm and whose
 branches are in heaven (14:24).”***
@@ -605,11 +573,7 @@ Prophet (SA) of Islam as having said that concerning their idols they
 did not believe in creation, rather, they regarded the idols as a means
 for drawing near to the One God and said:
 
-<blockquote dir="rtl">
-  <p>
-مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَىٰ
-  </p>
-</blockquote>
+> مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَىٰ
 
 ***“…We do not serve then except that they make us nearer to Allah…
 (39:3).”***
@@ -622,12 +586,8 @@ intercede with the One God (for the idolaters).
 
 In another ayah, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ اللَّهُ..
-  </p>
-</blockquote>
+> وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ اللَّهُ..
 
 ***“And if you ask them who created the heavens and the earth, they will
 certainly say Allah… (31:25).”***
@@ -673,11 +633,7 @@ death and the protection of the creatures and the world from destructive
 strikes and clashes is with Allah and it is He Who preserves the heavens
 and the earth.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا..
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا..
 
 ***“Surely Allah upholds the heavens and the earth lest they come to
 naught… (35:41).”***
@@ -770,12 +726,8 @@ Lordship in creation has many parables and innumerable ayat of the Holy
 Qur’an denote its validity. For instance, wherever we encounter the word
 Rabb (Lord) in the Holy Qur’an, it points this fact:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ
-وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ
+> وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***“O men! worship your Lord Who created you and those before you, so
 that you may practice taqwa (2:21).”***
@@ -783,12 +735,8 @@ that you may practice taqwa (2:21).”***
 You should worship the One Who is the Lord of you, of those who were
 before you and of all creatures.
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لَا إِلَٰهَ إِلَّا
-هُوَ فَأَنَّىٰ تُؤْفَكُونَ
-  </p>
-</blockquote>
+> ذَٰلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لَا إِلَٰهَ إِلَّا
+> هُوَ فَأَنَّىٰ تُؤْفَكُونَ
 
 ***“That is Allah, your Lord, the Creator of everything; there is no god
 but He; whence are you then turned away (40:62).”***
@@ -851,11 +799,7 @@ caused its fall. Because in reality Iblis did not believe in whatever
 Allah (SWT) commands, His creatures should accept His command
 unquestionably, Iblis said;
 
-<blockquote dir="rtl">
-  <p>
-..أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ
-  </p>
-</blockquote>
+> ..أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ
 
 ***“…I am better than he; You have created me out of fire**,* ***while
 him did you create out of dust (7:12).”***
@@ -865,11 +809,7 @@ while I am better than him? These words in fact arose from Iblis spirit
 of disbelief and unfaithfulness and were demonstrative of his inner and
 hidden kufr. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..وَكَانَ مِنَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> ..وَكَانَ مِنَ الْكَافِرِينَ
 
 ***“…And he was one of the disbelievers (2:34)”***
 
@@ -880,11 +820,7 @@ command order and inhabit unquestionably belongs exclusively to Allah
 (SWT) and whatever He commands has to be fulfilled: otherwise, Iblis
 believed in the One God and he also talked to Allah.
 
-<blockquote dir="rtl">
-  <p>
-..خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ
-  </p>
-</blockquote>
+> ..خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ
 
 ***“…You have created me out of fire**,* ***while him did you create out
 of dust (7:12).”***
@@ -892,11 +828,7 @@ of dust (7:12).”***
 Iblis even believed in Allah’s Lordship in creation and in the
 Resurrection Day.
 
-<blockquote dir="rtl">
-  <p>
-..أَنْظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> ..أَنْظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ
 
 ***“…Respite me until the day when they are raised up (7:14)”.***
 
@@ -913,11 +845,7 @@ law-giving for themselves or for the others, , including the Jews and
 the Christians who thought their ‘ulama’ (religious scholars) and monks
 to be their Lords and who are reproached by Allah:
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ اللَّهِ
-  </p>
-</blockquote>
+> اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ اللَّهِ
 
 ***“They have taken their doctors of law and their monks for lords
 besides Allah (9:31).”***
@@ -1016,11 +944,7 @@ greatness and magnanimity is exclusive to Allah and that man should only
 humble himself to Allah and to no one else unless Allah commands to
 respect others, as He has commanded us to respect our parents:
 
-<blockquote dir="rtl">
-  <p>
-وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ...
-  </p>
-</blockquote>
+> وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ...
 
 ***“And make yourself submissively gentle to them with compassion…
 (17:24).”***
@@ -1030,12 +954,8 @@ humbling before His infinite greatness and a muwahhid does so only at
 the command of Almighty Allah. And the same is also true of humbling
 before the Holy prophet (SA) and the Infallible Imams (AS).
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
-وَرَسُولِهِ…
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
+> وَرَسُولِهِ…
 
 ***“O you who believe! Be not forward in the presence of Allah and His
 Messenger… (49:1).”***
@@ -1073,13 +993,9 @@ to respect His Prophets (AS) and awliya’ and it is also Allah Who says:
 If anybody wants his sin to be forgiven (by Allah), he should go to the
 door of the house of the Holy prophet (SA) of Islam.
 
-<blockquote dir="rtl">
-  <p>
-..وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا
-  </p>
-</blockquote>
+> ..وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا
 
 ***“… And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Messenger had (also) asked
@@ -1106,12 +1022,8 @@ paid towards the Holy Prophet (SA) of Islam. Since they disbelieved in
 Allah’s blessing, they are no longer deserving of Allah’s forgiveness,
 even if the Holy Prophet (SA) himself asks forgiveness for them:
 
-<blockquote dir="rtl">
-  <p>
-…اسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِنْ تَسْتَغْفِرْ
-لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ
-  </p>
-</blockquote>
+> …اسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِنْ تَسْتَغْفِرْ
+> لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ
 
 ***“Ask forgiveness for them or do not ask forgiveness for them; even if
 you ask forgiveness for them seventy times, Allah will not forgive them…
@@ -1157,11 +1069,7 @@ him to obey Adam (AS) and be humble before him, so He will also test
 other creatures of His through commanding them to obey His Prophets (AS)
 and awliya’.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ…
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ…
 
 ***“And We did not send any Messenger but that he should be obeyed by
 Allah’s permission… (4:64).”***
@@ -1215,11 +1123,7 @@ even in the hereafter, are placed in the lowest parts of Hell, such as a
 munafiqun who apparently claim Islam, but who have no faith in their
 hearts, about whom the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ..
-  </p>
-</blockquote>
+> ..الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ..
 
 ***“…the hypocrites are in the lowest stage of the fire… (4:145).”***
 
@@ -1244,12 +1148,8 @@ think that they have real faith, and tells them rather what they have
 acquired is an external Islam and that they should try so that iman
 (faith in Islam) enters into their hearts.
 
-<blockquote dir="rtl">
-  <p>
-قَالَتِ الْأَعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا
-أَسْلَمْنَا…
-  </p>
-</blockquote>
+> قَالَتِ الْأَعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا
+> أَسْلَمْنَا…
 
 ***“The dwellers of the desert say: we believe. Say: You do not believe
 but say, we submit; … (49:14).”***
@@ -1274,12 +1174,8 @@ others were not as obstinate although they did not like the Islamic
 system either. In description of some of these munafiqun the Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-..وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ
-النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا
-  </p>
-</blockquote>
+> ..وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ
+> النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا
 
 ***“… And when they stand up for the salat they stand up sluggishly;
 they do it only to be seen of by the people and they do not remember
@@ -1292,11 +1188,7 @@ believe that they are also among those who recite salawat; and by
 attending religious gatherings their purpose is also the same, as the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..يُرَاءُونَ النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا
-  </p>
-</blockquote>
+> ..يُرَاءُونَ النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا
 
 ***“…They do it only to be seen of by the people and they do not
 remember Allah but a little (4:142).”***
@@ -1340,13 +1232,9 @@ to them, so that by paying attention to those interpreting and muhkam
 riwayat, the meaning of such mutushabihat and intricate ayat and riwayat
 be realized. Or in the Holy Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَٰلِكَ لِمَنْ يَشَاءُ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدِ افْتَرَىٰ
-إِثْمًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَٰلِكَ لِمَنْ يَشَاءُ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدِ افْتَرَىٰ
+> إِثْمًا عَظِيمًا
 
 ***“Surely Allah does not forgive that anything should be associated
 with Him, and forgives what is besides that to whomsoever He wills…
@@ -1357,11 +1245,7 @@ not important and it is enough for a person just to avoid saying God is
 two to enter Paradise and Allah forgives the rest of the sins, as the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ …
-  </p>
-</blockquote>
+> ..مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ …
 
 ***“… And forgives what is besides that to whomsoever He wills…
 (4:48).”***
@@ -1448,11 +1332,7 @@ interesting to note that in the Holy Qur’an, the word At-Tawhid and its
 derivatives are not found at all and this great Islamic principle has
 appeared in the Holy Qur’an in other wordings. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ لَا إِلَٰهَ إِلَّا هُوَ..
-  </p>
-</blockquote>
+> وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ لَا إِلَٰهَ إِلَّا هُوَ..
 
 ***“And your God is one God! There is no god but He… (2:163).”***
 
@@ -1529,12 +1409,8 @@ world affairs any longer."*
 
 The Holy Qur’an quotes them as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ
-وَلُعِنُوا بِمَا قَالُوا بَلْ يَدَاهُ مَبْسُوطَتَانِ…
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ
+> وَلُعِنُوا بِمَا قَالُوا بَلْ يَدَاهُ مَبْسُوطَتَانِ…
 
 ***“And the Jews say: Allah’s hand is tied up! May their hands be tied
 and they be cursed for what they said. Nay, both His hands are stretched
@@ -1559,11 +1435,7 @@ unchangeable, so abrogation in decrees does not exist either. Such a
 thought is not acceptable in the viewpoint of Islam. The Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-… كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ
-  </p>
-</blockquote>
+> … كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ
 
 ***“…Every moment He is in a state (of glory) (55:29).”***
 
@@ -1689,11 +1561,7 @@ continuously giving life to these creatures and creates them and that
 not just once, but in various stages. For instance, man, though has one
 soul, he does not have one creation. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-…يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ…
-  </p>
-</blockquote>
+> …يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ…
 
 ***“…He creates you in the womb of your mothers-a creation after a
 creation… (39:6).”***
@@ -1706,13 +1574,9 @@ perfections of ‘alaqah, nor can it create those perfections. These
 perfections have been granted to it by the Creator. The Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً
-فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ
-أَنْشَأْنَاهُ خَلْقًا آخَرَ …
-  </p>
-</blockquote>
+> ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً
+> فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ
+> أَنْشَأْنَاهُ خَلْقًا آخَرَ …
 
 ***“Then We made the life-germ a clot, then We made the clot a lump of
 flesh, then We made (in) the lump of flesh bones, then We clothed the
@@ -1799,12 +1663,8 @@ The other powers arc a limited ray of His infinite power, are dominated
 by Him and are effective just in the extent He has granted permission in
 creation for their effectiveness.
 
-<blockquote dir="rtl">
-  <p>
-..وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ أَلَا
-لَهُ الْخَلْقُ وَالْأَمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> ..وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ أَلَا
+> لَهُ الْخَلْقُ وَالْأَمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
 
 ***“…And (He created) the sun and the moon and the stars, made
 subservient by His command; surely His is the creation and the command;
@@ -1820,23 +1680,15 @@ The holders of such (an Islamic) view, attach no value to any power
 the threats of the enemies of Islam, because they know that wherever any
 power exists, it is dominated by Allah’s Will-power.
 
-<blockquote dir="rtl">
-  <p>
-…وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ …
-  </p>
-</blockquote>
+> …وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ …
 
 ***“…Allah is the Master of His affair… (12:21).”***
 
 It is such spirit that makes the Muslim combatant at the front or jihad
 so strong that he fears nothing, because he knows that:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ وَإِنْ يَخْذُلْكُمْ
-فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ ..
-  </p>
-</blockquote>
+> إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ وَإِنْ يَخْذُلْكُمْ
+> فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ ..
 
 ***“If Allah assists you, then there is none that can overcome you, and
 if He forsakes you, who is there then that can assist you after Him…
@@ -1848,11 +1700,7 @@ to them is valuable only that which has a way to Allah and which is
 related to the source of power, greatness and glory, (i.e., Allah), as
 the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ …
-  </p>
-</blockquote>
+> ..وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ …
 
 ***“…And to Allah belongs the might and to His Messenger and to the
 believers… (63:8).”***
@@ -1919,11 +1767,7 @@ the grace of existence and endows them the signs of existence and
 renders them effective with His own permission. Let us consider a
 statement of the Holy Qur’an in this regard. It says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي ..
-  </p>
-</blockquote>
+> وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي ..
 
 ***“…And when you determined out of clay a thing like the form of a bird
 by My permission… (5:110)”.***
@@ -2018,11 +1862,7 @@ commands). Anyhow, this true divine guardianship exists towards the
 faithful and the infidel, the pious and the impious and will become
 manifest on the Resurrection Day.
 
-<blockquote dir="rtl">
-  <p>
-هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ …
-  </p>
-</blockquote>
+> هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ …
 
 ***”Here is protection only Allah’s, the True One… (18:44).”***
 
@@ -2064,13 +1904,9 @@ of divine guardianship.
 The first step in the way of attaining divine guardianship is faith in
 Allah, pious deeds and struggle against taghut (satan):
 
-<blockquote dir="rtl">
-  <p>
-..فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انْفِصَامَ لَهَا وَاللَّهُ
-سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> ..فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انْفِصَامَ لَهَا وَاللَّهُ
+> سَمِيعٌ عَلِيمٌ
 
 ***“…Therefore, whoever denies in the taghut and believes in Allah, he
 indeed has a strong hold on the firmest handle, which shall not break
@@ -2080,12 +1916,8 @@ Such a person has taken hold of the surest and firmest handle, and will
 save himself from perilous situations. In the continuation or the above
 ayah it said:
 
-<blockquote dir="rtl">
-  <p>
-..اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ
-إِلَى النُّورِ
-  </p>
-</blockquote>
+> ..اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ
+> إِلَى النُّورِ
 
 ***“Allah is the guardian of those who believe. He brings them out of
 the darkness into the light… (2:257).”***
@@ -2097,11 +1929,7 @@ and leads them towards light.
 But those who are kafir are deprived of such guardianship, supervision
 and management and their supervision is with taghuts.
 
-<blockquote dir="rtl">
-  <p>
-..وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ..
-  </p>
-</blockquote>
+> ..وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ..
 
 ***“…And (to as) to those who disbelieve, their guardians are the
 taghuts… (2:257).”***
@@ -2172,11 +2000,7 @@ All that men should fulfill in the direction of benefitting from Allah’s
 blessings and favors are summed up under one main title and that title
 is: “servitude to Allah”.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِ اعْبُدُونِي هَٰذَا صِرَاطٌ مُسْتَقِيمٌ
-  </p>
-</blockquote>
+> وَأَنِ اعْبُدُونِي هَٰذَا صِرَاطٌ مُسْتَقِيمٌ
 
 ***“And that you should serve Me; this is the right way (36:61)”.***
 
@@ -2196,11 +2020,7 @@ announced their call and Prophetic mission Flr’awn (Pharaoh) asked them:
 *"Who is that Lord to Whose worship you call me?"* Prophet Musa (AS)
 replied:
 
-<blockquote dir="rtl">
-  <p>
-..رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ
-  </p>
-</blockquote>
+> ..رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ
 
 ***“…Our Lord is He Who gave to everything its creation, then guided it
 (20:50)”.***
@@ -2316,11 +2136,7 @@ particular characteristics, rather Allah has revealed to them. About
 such kinds of instinctive guidance’s, the Holy Qur’an applies the
 expression Wahy (divine revelation).
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ..
-  </p>
-</blockquote>
+> وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ..
 
 ***“And Your Lord revealed to the bee… (16:68)”.***
 
@@ -2332,12 +2148,8 @@ but one direction, such as the angels (greetings be upon them). They are
 very noble and intelligent beings, but they fulfill their actions only
 at Allah’s command.
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ بَلْ
-عِبَادٌ مُكْرَمُونَ ..
-  </p>
-</blockquote>
+> لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ بَلْ
+> عِبَادٌ مُكْرَمُونَ ..
 
 ***“...Nay! They are honoured servants: they do not precede Him*** ***in
 speech and (only) according to His commandment do they act
@@ -2360,11 +2172,7 @@ The kind of angels mentioned in the Holy Qur’an have each a specific
 position, special work and particular guidance and they are all engaged
 in praising, glorifying and extolling Allah.
 
-<blockquote dir="rtl">
-  <p>
-..وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ..
-  </p>
-</blockquote>
+> ..وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ..
 
 ***“…And we celebrate Thy praise and extol Thy holiness… (2:30).”***
 
@@ -2374,22 +2182,14 @@ really understand how birds in the sky perform prayers or praise Allah.
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ..
-  </p>
-</blockquote>
+> ..كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ..
 
 ***“…He knows the prayer of each one and its glorification… (24:41).”***
 
 In another place, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-… وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
-تَفْقَهُونَ تَسْبِيحَهُمْ …
-  </p>
-</blockquote>
+> … وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
+> تَفْقَهُونَ تَسْبِيحَهُمْ …
 
 ***“…And there is not a single thing but glorifies Him with His praise,
 but you do not understand their glorification… (17:44).”***
@@ -2439,11 +2239,7 @@ can select any one he wishes.
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 
 ***“Surely We have shown him the way: he may be thankful or unthankful
 (76:3).”***
@@ -2500,11 +2296,7 @@ this very world either. Upon those who are thankful for the blessing of
 guidance, who behaves in the way Allah has commanded and who know the
 value of this blessing, Allah increases His blessing:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى..
-  </p>
-</blockquote>
+> وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى..
 
 ***“And (as for) those who follow the right direction, He increases them
 in guidance… (47:17).”***
@@ -2512,23 +2304,15 @@ in guidance… (47:17).”***
 And in contrast, as for those who are unthankful, Allah will turn their
 hearts away from the truth.
 
-<blockquote dir="rtl">
-  <p>
-…فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ…
-  </p>
-</blockquote>
+> …فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ…
 
 ***“…But when they turned aside, Allah made their hearts turn aside…
 (61:5).”***
 
 But the Holy Qur’an depicts the way of achieving this true guidance:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ… يَهْدِي بِهِ
-اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَام
-  </p>
-</blockquote>
+> قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ… يَهْدِي بِهِ
+> اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَام
 
 ***“…There has come to you light and a clear Book from Allah; with it
 Allah guides him who will follow His pleasure into the ways of safety…
@@ -2556,12 +2340,8 @@ well as the others’ perfection. One should desire Allah’s guidance for
 himself and for the others and in this way desire nothing but Allah’s
 pleasure and in one word, one should submit his being totally to Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ…
-  </p>
-</blockquote>
+> وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ…
 
 ***“And whoever submits himself wholly to Allah and he is the doer of
 good (to others), he indeed has taken hold of the firmest thing upon
@@ -2579,13 +2359,9 @@ greatly emphasized in the Holy Qur’an is that Almighty Allah is the Only
 One Who provides sustenance to His creatures and provides for their
 needs. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ هَلْ مِنْ
-خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُمْ مِنَ السَّمَاءِ وَالْأَرْضِ لَا
-إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُؤْفَكُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ هَلْ مِنْ
+> خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُمْ مِنَ السَّمَاءِ وَالْأَرْضِ لَا
+> إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُؤْفَكُونَ
 
 ***“O’ men! Call to mind the favor of Allah on you; is there any creator
 besides Allah who gives you sustenance from the heaven and the earth?
@@ -2628,13 +2404,9 @@ particularly if they have themselves made an effort or applied their
 mental and scientific capabilities (in connection with meeting the
 needs). In this connection, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ
-نِعْمَةً مِنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ بَلْ هِيَ
-فِتْنَةٌ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ
+> نِعْمَةً مِنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ بَلْ هِيَ
+> فِتْنَةٌ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
 ***“So when harm afflicts a man he calls upon Us, then, when we give him
 a favor from Us, he says: ‘I have been given it only by means of
@@ -2649,12 +2421,8 @@ One of the distinguished examples of such persons is Qarun (Koran,
 Croesus). About the wealth of Qarun there are many stories. The Holy
 Qur’an talks about his wealth in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-…وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ
-بِالْعُصْبَةِ أُولِي الْقُوَّةِ إِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ…
-  </p>
-</blockquote>
+> …وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ
+> بِالْعُصْبَةِ أُولِي الْقُوَّةِ إِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ…
 
 ***“…And We had given him of the treasures, so much so that his hoards
 of wealth would certainly weigh down a company of men possessed of great
@@ -2662,12 +2430,8 @@ strength… (28:76).”***
 
 The pious people admonished Qarun and said to him:
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ
-نَصِيبَكَ مِنَ الدُّنْيَا…
-  </p>
-</blockquote>
+> وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ
+> نَصِيبَكَ مِنَ الدُّنْيَا…
 
 ***“And seek by means of what Allah has given you the future abode, and
 do not neglect your portion of this world… (28:77).”***
@@ -2677,11 +2441,7 @@ make them means of mischief on the earth and to try to use the bounties
 Allah had given him for his life in the Hereafter. But in reply to them,
 Qarun said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي..
-  </p>
-</blockquote>
+> إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي..
 
 ***“I have been given this only on account of the knowledge I have…
 (28:78).”***
@@ -2710,13 +2470,9 @@ wealth, when saw this event, became conscious of the fact that merely
 possessing wealth and worldly riches is not sufficient for felicity in
 this world.
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ
-وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ
-وَيَقْدِرُ…
-  </p>
-</blockquote>
+> وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ
+> وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ
+> وَيَقْدِرُ…
 
 ***“And those who yearned for his place only the day before began to
 say, ‘Ah! (know) that Allah increases and straitens the means of
@@ -2730,11 +2486,7 @@ anybody He wills and straitens it for anybody He wills’*, This matter,
 been clearly stipulated in over ten ayat of the Holy Qur’an, including
 the following Ayah:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ…
-  </p>
-</blockquote>
+> اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ…
 
 ***“Allah increases and straitens the means of subsistence for whom He
 wills… (13:26).”***
@@ -2750,13 +2502,9 @@ means of sustenance without expedience and wisdom, and if some persons’
 means of subsistence are increased or decreased, it is on the basis of
 Allah’s wise rules and principles. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ
-وَلَٰكِنْ يُنَزِّلُ بِقَدَرٍ مَا يَشَاءُ إِنَّهُ بِعِبَادِهِ خَبِيرٌ
-بَصِيرٌ
-  </p>
-</blockquote>
+> وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ
+> وَلَٰكِنْ يُنَزِّلُ بِقَدَرٍ مَا يَشَاءُ إِنَّهُ بِعِبَادِهِ خَبِيرٌ
+> بَصِيرٌ
 
 ***“And if Allah should amplify the provision for His servants they
 would certainly revolt in the earth; but He sends it down according to a
@@ -2774,12 +2522,8 @@ Besides the more important point is that the existence of various means
 of subsistence and their being less and more is one of the Divine tests
 as the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-…وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَبْلُوَكُمْ فِي مَا
-آتَاكُمْ …
-  </p>
-</blockquote>
+> …وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَبْلُوَكُمْ فِي مَا
+> آتَاكُمْ …
 
 ***“…And raised some of you above others by (various) grades, that He
 might try you by what He has given you… (6:165).”***
@@ -2787,12 +2531,8 @@ might try you by what He has given you… (6:165).”***
 And above this, basically all the affairs of the life in this world are
 the means for a test.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلًا…
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلًا…
 
 ***“Who created death and life that He may try you- which of you is the
 best in deeds… (67:2).”***
@@ -2813,11 +2553,7 @@ one who has lots of wealth, supposing that he has also acquired that
 wealth through halal ways, fulfils his duties or whether like Qarun, he
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي…
-  </p>
-</blockquote>
+> إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي…
 
 ***“I have been given this only on account of the knowledge I have…
 (28:78).”***
@@ -2839,11 +2575,7 @@ individual himself, in the way that if an individual appreciates a
 God-given blessing, makes good use of it and treads the path of Allah,
 that blessing will be increased for him:
 
-<blockquote dir="rtl">
-  <p>
-…..لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ
-  </p>
-</blockquote>
+> …..لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ
 
 ***“…If you are grateful, I would certainly give to you more…
 (14:7).”***
@@ -2853,11 +2585,7 @@ God-given blessings in a thankful way, will cause the straitening and
 decrease in the blessings and will be followed by Allah’s torment and
 displeasure:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ ..
-  </p>
-</blockquote>
+> وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ ..
 
 ***“…And if you are ungrateful, My chastisement is truly severe…
 (14:7).”***
@@ -2881,12 +2609,8 @@ their peace and tranquility arc taken away from them and eventually
 eternal torment will be brought about for them. In this regard, the Holy
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
-لِأَنْفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا...
-  </p>
-</blockquote>
+> وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
+> لِأَنْفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا...
 
 ***“And let not those who disbelieve think that Our granting them
 respite is better for them; We grant them respite so that they increase
@@ -2905,12 +2629,8 @@ the way of mischief, Allah, too, will help him to proceed further in
 that way and if he chooses the way of goodness, Allah, too, will help
 him to become better. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-كُلًّا نُمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا
-كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا
-  </p>
-</blockquote>
+> كُلًّا نُمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا
+> كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا
 
 ***“All do We aid-- these as well as those-- out of the bounty of your
 Lord, and the bounty of your Lord is not confined (17:20).”***
@@ -2940,14 +2660,10 @@ Likewise, in the Holy Qur’an certain causes and traditions have also
 been expressed for straitening the means of subsistence. One of those
 traditions is being ungrateful for the blessings. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُطْمَئِنَّةً
-يَأْتِيهَا رِزْقُهَا رَغَدًا مِنْ كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ
-اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا
-كَانُوا يَصْنَعُونَ
-  </p>
-</blockquote>
+> وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُطْمَئِنَّةً
+> يَأْتِيهَا رِزْقُهَا رَغَدًا مِنْ كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ
+> اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا
+> كَانُوا يَصْنَعُونَ
 
 ***“And Allah sets forth a parable: (Consider) a town safe and secure to
 which its means of subsistence come in abundance from every quarter; but
@@ -2980,11 +2696,7 @@ and rendered forbearance and did not speak even a word of complaint and
 he reached (such a lofty) position that the Almighty Allah, concerning
 his status has made a statement which He has made about few Prophets:
 
-<blockquote dir="rtl">
-  <p>
-..إِنَّا وَجَدْنَاهُ صَابِرًا نِعْمَ الْعَبْدُ…
-  </p>
-</blockquote>
+> ..إِنَّا وَجَدْنَاهُ صَابِرًا نِعْمَ الْعَبْدُ…
 
 ***“…Surely We found him patient; most excellent the servant! ...
 (38:44).”***
@@ -2993,13 +2705,9 @@ One of the other reasons for the straitening of the means of subsistence
 is the people’s negligence of their duty towards the deprived and the
 poor. In this connection, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ
-وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ وَأَمَّا إِذَا مَا ابْتَلَاهُ
-فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
-  </p>
-</blockquote>
+> فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ
+> وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ وَأَمَّا إِذَا مَا ابْتَلَاهُ
+> فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
 
 ***“And as for man, when his Lord tries him, then treats him with honor
 and makes him lead an easy life, he says: My Lord honors me. But when He
@@ -3021,13 +2729,9 @@ the straitening of the means of subsistence. But this straitening of the
 means of subsistence and becoming disgraced, is the punishment for the
 actions man has himself performed.
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا بَلْ لَا تُكْرِمُونَ الْيَتِيمَ وَلَا تَحَاضُّونَ عَلَىٰ
-طَعَامِ الْمِسْكِينِ وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا
-وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
-  </p>
-</blockquote>
+> كَلَّا بَلْ لَا تُكْرِمُونَ الْيَتِيمَ وَلَا تَحَاضُّونَ عَلَىٰ
+> طَعَامِ الْمِسْكِينِ وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا
+> وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
 
 ***“Nay! But you do not honor the orphan; Nor do you urge one another to
 feed the poor; and you eat away the heritage, devouring (everything)
@@ -3059,14 +2763,10 @@ the means, Allah is able to provide sustenance without the natural means
 and in an exceptional way, as was the case tor Maryam (AS). The Holy
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا
-الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ
-هَٰذَا قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ إِنَّ اللَّهَ يَرْزُقُ مَنْ
-يَشَاءُ بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا
+> الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ
+> هَٰذَا قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ إِنَّ اللَّهَ يَرْزُقُ مَنْ
+> يَشَاءُ بِغَيْرِ حِسَابٍ
 
 ***“…And Zakariyya took charge of her; whenever Zakariyya called upon
 her at the sanctuary, he found food with her. He said, “O Maryam! whence
@@ -3125,22 +2825,14 @@ in the most possible suitable manner.
 
 The Holy Qur’an, too, explicitly points out this matter and says:
 
-<blockquote dir="rtl">
-  <p>
-..الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ
-  </p>
-</blockquote>
+> ..الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ
 
 ***“Who made good everything that He has created… (32:7).”***
 
 At another place the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-..صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ إِنَّهُ خَبِيرٌ بِمَا
-تَفْعَلُونَ
-  </p>
-</blockquote>
+> ..صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ إِنَّهُ خَبِيرٌ بِمَا
+> تَفْعَلُونَ
 
 ***“…The handiwork of Allah Who has made everything thoroughly; surely
 He is Aware of what you do (27:88).”***
@@ -3157,11 +2849,7 @@ involved in each particular case?, though It is an undue expectation and
 man does not have the ability to understand and realize all secrets and
 wisdoms:
 
-<blockquote dir="rtl">
-  <p>
-…وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلَّا قَلِيلًا
-  </p>
-</blockquote>
+> …وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلَّا قَلِيلًا
 
 ***“…And you are not given aught of knowledge but a little (17:85).”***
 
@@ -3221,12 +2909,8 @@ level of the exalted prophets (AS) and the Infallible Imams (AS), the
 very level which Allah - The Almighty has granted to Prophet Ibrahim
 (Abraham) (AS). In the following ayah which we have repeatedly heard,
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
-  </p>
-</blockquote>
+> وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
 
 ***“And when Ibrahim’s Lord tried with (certain) words, he fulfilled
 them. He said: Surely I will make you an Imam*** ***(religious leader)…
@@ -3270,12 +2954,8 @@ handsomeness, perfection and worthiness. This is a very hard and a very
 great test. But without any hesitation, Ibrahim (AS) told his son that
 he had such a command. Isma’il (AS), too, responded:
 
-<blockquote dir="rtl">
-  <p>
-..يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ
-الصَّابِرِينَ
-  </p>
-</blockquote>
+> ..يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ
+> الصَّابِرِينَ
 
 ***“...O my father! Do what you are commanded; if Allah please, you will
 find me of the patient ones (37:102).”***
@@ -3288,11 +2968,7 @@ Likewise, some of the other great Prophets (AS), after bearing certain
 hardships attained the position of Imamah who have been briefly referred
 to in the following ayah of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا…
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا…
 
 ***“And We made of them Imams to guide by Our command when they were
 patient… (32:24).”***
@@ -3352,11 +3028,7 @@ consequently the seeds of rebellion and disobedience (towards Allah’s
 Commands) grow in his soul, leading him towards selfishness and egoism
 and he gradually forgets Allah.
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ أَنْ رَآهُ اسْتَغْنَىٰ
-  </p>
-</blockquote>
+> كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ أَنْ رَآهُ اسْتَغْنَىٰ
 
 ***“Nay! Man is most surely inordinate; Because he sees himself free
 from want (96:6-7).”***
@@ -3371,12 +3043,8 @@ people with hardships and troubles, so that the grounds for paying
 attention towards Allah and the state of modesty, humbleness and
 entreaty (towards Allah) occurs for them.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ
-بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ
+> بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ
 
 ***“And certainly We sent (Messengers) to nations before you, then We
 seized them with distress and affliction in order that they might humble
@@ -3384,12 +3052,8 @@ themselves (6:42).”***
 
 In another verse, Allah, with a more explicit and decisive tone, says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَبِيٍّ إِلَّا أَخَذْنَا أَهْلَهَا
-بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَبِيٍّ إِلَّا أَخَذْنَا أَهْلَهَا
+> بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ
 
 ***“And We did not send a Prophet in a town but We overtook its people
 with distress and affliction in order that they might humble themselves
@@ -3494,12 +3158,8 @@ time, in spite of the existence of ordinary causes and conditions, they
 still suffered a defeat and the divine aids no longer came to their
 help.
 
-<blockquote dir="rtl">
-  <p>
-..وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ
-عَنْكُمْ شَيْئًا ..
-  </p>
-</blockquote>
+> ..وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ
+> عَنْكُمْ شَيْئًا ..
 
 ***“…And on the day of Hunayn, when your great numbers made you vain,
 but they availed you nothing… (9:25).”***
@@ -3512,11 +3172,7 @@ suffered defeat. But in the Battle of Badr, because they felt themselves
 weak, and humble, and beseeched to Allah, though they were not at all
 ready for fighting, yet Allah helped them and rushed to their aid:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ ….
-  </p>
-</blockquote>
+> وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ ….
 
 ***“And Allah did certainly assist you at Badr when you were weak…
 (3:123).”***
@@ -3539,12 +3195,8 @@ independent of Allah. In the Holy Qur’an it has been said that all that
 occurs in the world is by Allah’s will and no phenomenon, in any place,
 is realized without Allah’s will, including man’s death:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا
-مُؤَجَّلًا…
-  </p>
-</blockquote>
+> وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا
+> مُؤَجَّلًا…
 
 ***“And no soul will ever die but with the permission of Allah, (at the
 end of) an appointed term… (3:145).”***
@@ -3759,14 +3411,10 @@ wise planning of Allah, though the actions are fulfilled as per the
 individuals’ free choice, too, and that the sinners are also responsible
 for their indecent actions. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنْفُسِكُمْ إِلَّا
-فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَٰلِكَ عَلَى اللَّهِ
-يَسِيرٌ. لِكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا
-بِمَا آتَاكُمْ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنْفُسِكُمْ إِلَّا
+> فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَٰلِكَ عَلَى اللَّهِ
+> يَسِيرٌ. لِكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا
+> بِمَا آتَاكُمْ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 ***“No evil befalls on the earth nor in your own souls, but it is in a
 book before We bring it into existence; surely that is easy for Allah;
@@ -3799,12 +3447,8 @@ fulfillment of their duty and the exaltation of the word of At-Tawhid in
 the world, they were always satisfied and their faith in the leadership
 of the Holy Prophet (SA) of Islam never decreased either. They said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَنْ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا
-وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُلْ لَنْ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا
+> وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
 ***“Say: Nothing will afflict us save what Allah has ordained for us; He
 is our Patron; and on Allah let the believers rely (9:51).”***
@@ -3894,5 +3538,4 @@ problems, and related to tashri’ (divine legislation) such as sawm.
 [^15]: “Jami’us-Sa’adat”, vol. 2, p. 59.
 
 [^16]: “Sharhu Nahjul Balaghah”, Ibn Abil-Hadid.
-
 

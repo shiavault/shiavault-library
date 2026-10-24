@@ -18,13 +18,9 @@ for some religious or secular matter. It is well known that the Prophet
 it, he thrice declared the Unity of God and magnified Him; then praising
 God he said:
 
-<blockquote dir="rtl">
-  <p>
-لا إله إلا الله وحده لا شريك له، له الملك، والله الحمد، يحيي ويمت، وهو
-على كل شيءٍ قدير، لا إله إلا الله وحده، أنجز وعده، ونصر عبده، وهزم
-الأحزاب وحده
-  </p>
-</blockquote>
+> لا إله إلا الله وحده لا شريك له، له الملك، والله الحمد، يحيي ويمت، وهو
+> على كل شيءٍ قدير، لا إله إلا الله وحده، أنجز وعده، ونصر عبده، وهزم
+> الأحزاب وحده
 
 There is no god except Allah. He is One, and has no partner. To Him
 belongs the Kingdom and the Praise. He gives life and makes to die and
@@ -40,12 +36,8 @@ to face al‑*Rukn* al‑\`Iraqi; to praise God *(hamd)* and magnify Him
 *(takbir);* to prolong one's stay al‑Safa; and, after seven *takbirs,*
 to say three times:
 
-<blockquote dir="rtl">
-  <p>
-لا إله إلا الله وحده، لا شريك له، له الملك، والله، الحمد، يحيي ويميت،
-وهوحيٌ لا يموت، بيده الخير، وهو على كل شيءٍ قدير.
-  </p>
-</blockquote>
+> لا إله إلا الله وحده، لا شريك له، له الملك، والله، الحمد، يحيي ويميت،
+> وهوحيٌ لا يموت، بيده الخير، وهو على كل شيءٍ قدير.
 
 After this he recites the prayer recommended by tradition *(al‑du\`a'*
 *al‑ma'thur).*
@@ -191,5 +183,4 @@ by starting at Marwah and finishing at Saf’a.
 muwalat (continuity of succession) is not required in the ashwal of the
 sa’y, and it is permissible to separate or interrupt them‑‑even after a
 single shawt‑‑and to pick up the count again after the break.
-
 

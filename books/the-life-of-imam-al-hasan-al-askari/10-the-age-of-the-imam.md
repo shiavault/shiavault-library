@@ -617,7 +617,6 @@ bounty with what You have bestowed on the doers of justice from Your
 people, and saved for them from Your reward that might raise in degrees,
 You do whatever You like, and determine whatever You want…’[^409]
 
-
 ### Oppression And Tyranny Of Viziers
 
 ###

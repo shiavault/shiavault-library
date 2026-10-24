@@ -20,4 +20,3 @@ of her purpose, she was far from the adversity and did not heed the
 world allurement. She was unique in her purpose, and we do not know
 anybody like her in different periods of history.
 
-

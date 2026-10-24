@@ -353,7 +353,6 @@ He says so in the following verse of the holy QUR'AN: {Allah only
 desires to keep away uncleanness from you, O people of the House, and to
 purify you wish a (thorough) purification}. [AL-AHZAB: 33].
 
-
 **Imam Hasan Al-Askari (A.S.)**
 
 **LINEAGE**
@@ -608,7 +607,6 @@ deviation. We appeal to Allah to guide us to follow in their footsteps
 in this life and enjoy His pleasure and rewards in this as well as in
 the life to come.
 
-
 **The Awaited Imam: Mohammad Al-Mehdi (A.S.)**
 
 **LINEAGE**
@@ -836,5 +834,4 @@ the Truth, Justice and Faith. We appeal to Allah Almighty to bring about
 his reappearance soon, and to consider us among his followers and
 supporters. Allah is All-Knowing All-Hearing. Praise is due only to
 Him.
-
 

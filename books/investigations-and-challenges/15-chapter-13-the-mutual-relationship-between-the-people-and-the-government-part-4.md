@@ -460,12 +460,8 @@ on the basis of these values, can become the universal culture. For
 example, the universal culture means that all people worship the One and
 Only God. Our ultimate dream is that such a day will pass:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***It is He who has sent His Apostle with the guidance and the religion
 of truth, that He may make it prevail over all religions, though the
@@ -606,21 +602,13 @@ Exalted, is realized under the aegis of obedience and will of the
 people. Its vivid example is in the case of the caliphate of the
 Commander of the Faithful ‘Ali (*‘a*) and his statement:
 
-<blockquote dir="rtl">
-  <p>
-لَوْلاَ حُضُرُ ٱلْحَاضِرِ وَ قِيَامُ ٱلْحُجَّةِ ٱلنَّاصِر…
-  </p>
-</blockquote>
+> لَوْلاَ حُضُرُ ٱلْحَاضِرِ وَ قِيَامُ ٱلْحُجَّةِ ٱلنَّاصِر…
 
 *If people had not come to me (and paid allegiance to me), and
 supporters had not exhausted the argument [hujjah], I would not have
 ruled…*
 
-<blockquote dir="rtl">
-  <p>
-لأَلَقِيتُ حَبْلَهَا عَلى غَارِبِهَا.
-  </p>
-</blockquote>
+> لأَلَقِيتُ حَبْلَهَا عَلى غَارِبِهَا.
 
 *I would have cast the (camel’s) rope of caliphate on its own
 shoulders.*[^4]
@@ -652,11 +640,7 @@ the people; rather, based on firm and numerous proofs we have, God has
 given this right. Among these proofs is this statement of the Holy
 Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَولاَهُ فَهٰذَا عَلِيٌّ مَوْلاَهُ.
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَولاَهُ فَهٰذَا عَلِيٌّ مَوْلاَهُ.
 
 *Of whosoever I am Master [mawla], then ‘Ali is also his Master.*[^6]
 
@@ -692,13 +676,9 @@ of reasoning; one is called “proof” [*burhan*] while the other is
 depending on the discussion and situation, at a certain time we use one
 type while at another time, another. In the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-دْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
-بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> دْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
+> بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
 
 ***“Invite to the way of your Lord with wisdom and good advice and
 dispute with them in a*** ***manner that is best, (16:125)”***
@@ -713,11 +693,7 @@ has reasoned out through proofs as well as disputation. In some verses,
 God the Exalted has resorted to disputation in refuting the belief of
 the polytheists and infidels. For example, He says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنْثَىٰ,تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ
-  </p>
-</blockquote>
+> أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنْثَىٰ,تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ
 
 ***Are you to have males and He females? That, then, will be an unfair
 division! (53:21-22)***
@@ -740,12 +716,8 @@ for God.” In this case, none could raise an objection.
 Regarding the belief of the Christians that God has a son, the Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ
-وَتَخِرُّ الْجِبَالُ هَدًّا, أَنْ دَعَوْا لِلرَّحْمَٰنِ وَلَدًا
-  </p>
-</blockquote>
+> تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ
+> وَتَخِرُّ الْجِبَالُ هَدًّا, أَنْ دَعَوْا لِلرَّحْمَٰنِ وَلَدًا
 
 ***The heavens are about to be rent apart at it, the earth to split
 open, and the mountains to collapse into bits that they should ascribe a
@@ -961,5 +933,4 @@ Iran, and became known as the uprising or movement of 15th of Khordad.
 supporter.” [Trans.]
 
 [^10]: Nahj al-Balaghah (Faydh al-Islam), Sermon 92.
-
 

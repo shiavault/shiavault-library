@@ -40,4 +40,3 @@ your best – and you did it. Be thankful to Allah that you were able to
 perform what was expected from you. It is your efforts which matter.
 Success or failure is not your province.
 
-

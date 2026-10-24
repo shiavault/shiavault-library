@@ -163,4 +163,3 @@ al-Husayn, Vol. 1, pp. 209-210.
 [^9]: al-Turayhi, Al-Muntakhab, p. 299 (published by the Hayderi Press,
 Najaf, Iraq), in the discussion of the tenth night.
 
-

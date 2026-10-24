@@ -64,4 +64,3 @@ generous Prophet and let the enemy go free.
 
 Seeing this noble example the man accepted the Islam then and there.
 
-

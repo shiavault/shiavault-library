@@ -233,29 +233,13 @@ theories with inspiration from divine revelation.[^3] It must be
 reminded that the path of discovery of truth, like all human affairs, is
 progressive.
 
-<blockquote dir="rtl">
-  <p>
-عـقل، چـون جبريل گويد احمدا
-  </p>
-</blockquote>
+> عـقل، چـون جبريل گويد احمدا
 
-<blockquote dir="rtl">
-  <p>
-گـر يكـي گـامي نـهم سوزد مرا
-  </p>
-</blockquote>
+> گـر يكـي گـامي نـهم سوزد مرا
 
-<blockquote dir="rtl">
-  <p>
-تو مرا بگذار زين پـس پيشـران
-  </p>
-</blockquote>
+> تو مرا بگذار زين پـس پيشـران
 
-<blockquote dir="rtl">
-  <p>
-حدّ من اين بـود اي سـلطان جـان
-  </p>
-</blockquote>
+> حدّ من اين بـود اي سـلطان جـان
 
 *As Gabriel says O Ahmad, reason;*
 
@@ -299,5 +283,4 @@ disquisition 9, chap. 7.
 
 [^4]: - Jalal ad-Din Maūlavī, Mathnavī-e Ma‘navī (Spiritual Couplets),
 Book I, verses 1069-1070.
-
 

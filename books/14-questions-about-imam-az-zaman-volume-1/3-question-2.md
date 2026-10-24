@@ -85,4 +85,3 @@ be found. But the meek will inherit the land and enjoy great peace*.”
 
 [^2]: Religions and Mahdawiyyah, Muhammad Behisti, p. 18
 
-

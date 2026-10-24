@@ -56,12 +56,8 @@ The phrases like "purification" and "exit from darkness to light" are
 applied instead of education in Qur’an. One of the following two verses
 refers to "genetic education" and the other to "legislative education":
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ لِيُخْرِجَكُمْ مِنَ
-الظُّلُمَاتِ إِلَى النُّورِ ۚ وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا
-  </p>
-</blockquote>
+> هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ لِيُخْرِجَكُمْ مِنَ
+> الظُّلُمَاتِ إِلَى النُّورِ ۚ وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا
 
 * *  
 ***He it is Who blesseth you, and His angels (bless you), that He may
@@ -74,12 +70,8 @@ bestowed to the servants by angels, both having a genetic aspect and
 anyway their aim is leading from darkness of aberration towards the
 light of guidance.
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي يُنَزِّلُ عَلَىٰ عَبْدِهِ آيَاتٍ بَيِّنَاتٍ
-لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي يُنَزِّلُ عَلَىٰ عَبْدِهِ آيَاتٍ بَيِّنَاتٍ
+> لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ
 
 * **He it is Who sendeth down clear revelations unto His slave, that He
 may bring you forth from darkness unto light. (57:9)***
@@ -228,14 +220,9 @@ Studying above twelve issues forms an independent science which could be
 studied separately under the title of "man and educative concerns". We
 hope to have this opportunity in the future.
 
-<blockquote dir="rtl">
-  <p>
-«وَ آخِرُ دَعْوانا اَنِ الْحَمْدُ للهِِ رَبِّ الْعالَمِینَ»
-  </p>
-</blockquote>
+> «وَ آخِرُ دَعْوانا اَنِ الْحَمْدُ للهِِ رَبِّ الْعالَمِینَ»
 
 [^1]: Ali Shariatmadari, Principles of Education, summarized
 
 [^2]: Developmental personality, page 453
-
 

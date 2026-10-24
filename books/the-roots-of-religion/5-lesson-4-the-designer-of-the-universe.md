@@ -141,4 +141,3 @@ Whose existence do the design and order in nature prove?
 Can you find an example of phenomena that would never follow designs and
 plans?
 
-

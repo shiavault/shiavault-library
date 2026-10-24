@@ -15,11 +15,7 @@ sorrow; and in the good times, be the source of your pride, in short to
 treat you with good behaviour, then do likewise for your father and
 mother and set yourself as an example for them, Imam As-Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-بروا آباءكم يبركم ابناءكم
-  </p>
-</blockquote>
+> بروا آباءكم يبركم ابناءكم
 
 “Treat your fathers with benevolence, so that your children will treat
 you with benevolence.” [^1]
@@ -35,5 +31,4 @@ favourite children. Right now, I pledge to treat you in no way but with
 utmost benevolence.
 
 [^1]: Tohaf-al-Aqool, p.359
-
 

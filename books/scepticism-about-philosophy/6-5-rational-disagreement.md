@@ -153,4 +153,3 @@ belief.
 
 *Jason\_Brennan@brown.edu*
 
-

@@ -65,4 +65,3 @@ likened by Shi’a 'ulama' such as 'Allamah Tabataba\`i, to a wishful
 person who wants to become the sage of the age without learning or
 studying anything.
 
-

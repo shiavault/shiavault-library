@@ -21,4 +21,3 @@ There are 3 types of blood that a woman may see:
 
 • Nifas (blood after childbirth)
 
-

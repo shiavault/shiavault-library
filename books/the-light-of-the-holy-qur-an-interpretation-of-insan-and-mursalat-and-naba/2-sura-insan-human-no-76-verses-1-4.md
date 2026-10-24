@@ -1,9 +1,7 @@
 Sura Insan (human) No. 76 (verses 1-4)
 ======================================
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 (1) هَلْ أَتَى عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن
 شَيْئًا مَّذْكُورًا
@@ -27,7 +25,6 @@ him: so We gave him hearing and sight.
 
 4. We have prepared Chains, Yokes and a Blazing Fire for the
 Rejecters.
-
 
 **Commentary:**
 
@@ -282,5 +279,4 @@ rapid replacement of bronchial and alveolar fluid by air. (2)
 (1) Williams Obstetrics, 15th Edition, p. 158.
 
 (2) Williams Obstetrics, 15th Edition, p. 385.
-
 

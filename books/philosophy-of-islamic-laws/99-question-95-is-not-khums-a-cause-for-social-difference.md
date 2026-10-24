@@ -31,6 +31,3 @@ monetary point of view there is no difference between Khums and Zakat
 a higher monetary assistance than other people, and neither is Khums
 given for well-to-do Sadaat.
 
-
-
-

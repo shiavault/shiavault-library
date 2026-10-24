@@ -89,4 +89,3 @@ absence, the grandfather becomes the guardian.
 recitation of the wedding contract (in some cases, the wedding ceremony
 may be at the same time as the nikah ceremony).
 
-

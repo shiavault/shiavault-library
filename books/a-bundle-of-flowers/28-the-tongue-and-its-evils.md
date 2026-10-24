@@ -28,4 +28,3 @@ unless the one controls his/her tongue."
 
 Bihar-ul-Anwar, vol. 78, p. 178
 
-

@@ -642,4 +642,3 @@ University of New York Press, 1993).
 [^7]: See David M. Wulff, Psychology of Religion (New York: John Wiley &
 Sons, 1991), 204f.
 
-

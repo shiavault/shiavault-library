@@ -170,4 +170,3 @@ Qur’an say about this?
  5. What difficulties does the belief in the embodiment of the deeds in
 the discussion of Resurrection answer? 
 
-

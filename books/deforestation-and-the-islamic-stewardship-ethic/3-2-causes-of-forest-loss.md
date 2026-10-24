@@ -319,4 +319,3 @@ to the overharvesting of trees. Poor central planning and inadequate
 capacity make this an even greater issue, which needs an ethical
 response.
 
-

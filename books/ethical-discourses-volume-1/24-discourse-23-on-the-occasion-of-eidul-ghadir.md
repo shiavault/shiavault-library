@@ -10,13 +10,9 @@ tradition and verse of the Qur\`an on the occasion of 'Eidul Ghadir
 concerns the greatness of the Commander of the Faithful,'Ali b. Abi
 Talib (as).
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ. وَأَلَّفَ بَيْنَ
-قُلُوبِهِمْ لَوْ أَنْفَقْتَ مَا فِي الأَرْضِ جَمِيعًا مَا أَلَّفْتَ
-بَيْنَ قُلُوبِهِمْ وَلٌكِنَّ اللٌّهَ أَلَّفَ بَيْنَهُمْ…
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ. وَأَلَّفَ بَيْنَ
+> قُلُوبِهِمْ لَوْ أَنْفَقْتَ مَا فِي الأَرْضِ جَمِيعًا مَا أَلَّفْتَ
+> بَيْنَ قُلُوبِهِمْ وَلٌكِنَّ اللٌّهَ أَلَّفَ بَيْنَهُمْ…
 
 “He (Allah) it is who has strengthened you (Muhammad) with His aid and
 with (the company of) the believers. And (moreover) He has put affection
@@ -68,14 +64,10 @@ scholars of the Ahlus Sunnah, and another tradition from al-Suyuti
 (another well known scholar of the Ahlus Sunnah). In addition, others
 have also related this tradition.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ النَّبِيُّ (صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ (وَسَلَّمَ)): لَمَا
-عُرِجَ بِي رَأَيْتُ عَلى سَاقِ الْعَرْشِ مَكْتُوباً: لاٌ إلٌهَ إِلاَّ
-اللٌّهُ، مُحَمَّدً رَسُولُ اللٌّهِ، أَيَّدْتُهُ بِعَلِيٍّ نُصْرَتُهُ
-بِعَلِيٍّ.
-  </p>
-</blockquote>
+> قَالَ النَّبِيُّ (صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ (وَسَلَّمَ)): لَمَا
+> عُرِجَ بِي رَأَيْتُ عَلى سَاقِ الْعَرْشِ مَكْتُوباً: لاٌ إلٌهَ إِلاَّ
+> اللٌّهُ، مُحَمَّدً رَسُولُ اللٌّهِ، أَيَّدْتُهُ بِعَلِيٍّ نُصْرَتُهُ
+> بِعَلِيٍّ.
 
 The Prophet (S) said, “When I was taken up (into the heavens on the
 Me'raj), I saw the following written on the leg of the Throne (of
@@ -83,14 +75,10 @@ Allah): 'There is no creature or entity worthy of worship except Allah,
 and Muhammad is the Messenger of Allah and I have strengthened him
 (Muhammad) with 'Ali and I have assisted him (Muhammad) with 'Ali.”
 
-<blockquote dir="rtl">
-  <p>
-عَنْ جَابِرٍ قَالَ النَّبِيُّ (صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ
-(وَسَلَّمَ)): مَكْتُوبٌ فِي بَابِ الْجَنَّةِ قَبْلَ أَنْ يَخْلُقَ
-اللٌّهُ السَّمٌّوَاتِ وَ الأَرْضِ بِأَلْفى سَنَّةٍ: لاٌ إِلٌهَ إِلاَّ
-اللٌّهُ مُحَمَّدً رَسُولُ اللٌّهِ أَيَّدْتُهُ بِعَلِيٍّ.
-  </p>
-</blockquote>
+> عَنْ جَابِرٍ قَالَ النَّبِيُّ (صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ
+> (وَسَلَّمَ)): مَكْتُوبٌ فِي بَابِ الْجَنَّةِ قَبْلَ أَنْ يَخْلُقَ
+> اللٌّهُ السَّمٌّوَاتِ وَ الأَرْضِ بِأَلْفى سَنَّةٍ: لاٌ إِلٌهَ إِلاَّ
+> اللٌّهُ مُحَمَّدً رَسُولُ اللٌّهِ أَيَّدْتُهُ بِعَلِيٍّ.
 
 Jabir narrated from the Prophet (S) that he said, “One thousand years
 before Allah created the heavens and the Earth, it was written on the
@@ -153,5 +141,4 @@ It is our hope that Insha-Allah, we are able to be living examples of
 [^1]: Surat al-Anfal (8), Verses 62 and 63
 
 [^2]: Mustadrak Safinat al-Bihar, vol. 2, pg. 50
-
 

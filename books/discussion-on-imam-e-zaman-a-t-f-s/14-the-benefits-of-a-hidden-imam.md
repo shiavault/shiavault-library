@@ -320,4 +320,3 @@ government. Through it, you will honour Islam and its followers, and
 degrade hypocrisy and its supporters. And that you make us from among
 those who call towards your obedience and guide to your path."
 
-

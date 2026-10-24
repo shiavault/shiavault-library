@@ -135,9 +135,8 @@ Imam Ali Asked, ‘O messenger of Allah, why did you name Fatima so?’ The
 Prophet (a.s.) said, ‘Allah the Almighty will wean her and her progeny
 from Fire on the Day of Resurrection.’ The same has been mentioned in
 Kanzol Ummal, vol.6 p.219 and Faydh al-Qadeer, vol.1 p.168.   **  
- [1]**<span lang="FR"
-style="font-size: 10.0pt; font-family: Times New Roman; letter-spacing: 0pt">
-Az-Zahra’ Sayyidaton Nisa’, vol.1 p.30.</span>
+ [1]**
+Az-Zahra’ Sayyidaton Nisa’, vol.1 p.30.
 
 #### 6. Al-Muhaddathah
 

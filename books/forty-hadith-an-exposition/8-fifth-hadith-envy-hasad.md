@@ -1,18 +1,14 @@
 Fifth Hadith: Envy (Hasad)
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
-بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ
-دَاوُدَ الرَّقِّيِّ قَالَ: قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ:
-قَالَ اللهُ عَزَّ وَجَلَّ لِمُوسَى عَلَيْهِ السَّلامُ: يَا بْنَ
-عِمْرَانَ لا تَحْسِدَنَّ النَّاسَ عَلَى مَا آتَيْتُهُمْ مِنْ فَضْلِي
-وَلا تَمُدَّنَّ عَيْنَيْكَ إلى ذَلَكَ وَلا تُتْبِعْهُ نَفْسَكَ، فَإنَّ
-الحَاسِدَ سَاخِطٌ لِنِعْمَتِي ضَادٌّ لِقِسْمِي الَّذِي قَسَمْتُ بَيْنَ
-عِبَادِي، وَمَنْ يَكُ كَذَلِكَ فَلَسْتُ مِنْهُ وَلَيْسَ مِنِّي.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
+> بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ
+> دَاوُدَ الرَّقِّيِّ قَالَ: قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ:
+> قَالَ اللهُ عَزَّ وَجَلَّ لِمُوسَى عَلَيْهِ السَّلامُ: يَا بْنَ
+> عِمْرَانَ لا تَحْسِدَنَّ النَّاسَ عَلَى مَا آتَيْتُهُمْ مِنْ فَضْلِي
+> وَلا تَمُدَّنَّ عَيْنَيْكَ إلى ذَلَكَ وَلا تُتْبِعْهُ نَفْسَكَ، فَإنَّ
+> الحَاسِدَ سَاخِطٌ لِنِعْمَتِي ضَادٌّ لِقِسْمِي الَّذِي قَسَمْتُ بَيْنَ
+> عِبَادِي، وَمَنْ يَكُ كَذَلِكَ فَلَسْتُ مِنْهُ وَلَيْسَ مِنِّي.
 
 Muhammad ibn Ya’qub (al-Kulayni), from ‘Ali ibn Ibrahim, from Muhammad
 ibn ‘Isa, from Yunus, from Dawud al-Raqqi, who reports from Abu ‘Abd
@@ -117,21 +113,13 @@ unless those favors and merits are lost.
 enjoyed by the object of his envy. God Almighty reports the nations of
 the past as saying to the prophets:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنْ أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا.﴾
-  </p>
-</blockquote>
+> ﴿إِنْ أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا.﴾
 
 ***Ye are but mortals like us.*** (***14:10***)
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا؟﴾
-  </p>
-</blockquote>
+> ﴿فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا؟﴾
 
 ***And they said: ‘Shall we put faith in two mortals like ourselves?’***
 (***23:47***)
@@ -165,23 +153,15 @@ and known to this author. There may be others, which are hidden and
 unknown. In two *sahih* traditions Imam al-Sadiq (A) and Imam al-Baqir
 (A) inform us about the evil effects of *hasad:*
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُعَاوِيَةَ بْنِ وَهَبٍ قَالَ: قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ
-السَّلامُ: آفَةُ الدِّينِ الحَسَدُ وَالعُجْبُ وَالفَخْرُ.
-  </p>
-</blockquote>
+> عَنْ مُعَاوِيَةَ بْنِ وَهَبٍ قَالَ: قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ: آفَةُ الدِّينِ الحَسَدُ وَالعُجْبُ وَالفَخْرُ.
 
 Mu’awiyah ibn wahab reports that Imam al-Sadiq (A) said, “Hasad, ‘ujb,
 and vainglory are a bane of faith.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ
-قَالَ: إنَّ الرَّجُلَ لَيَأْتِي بِأَدْنَى بَادِرَةٍ فَيُكَفَّرُ.
-وَإنَّ الحَسَدَ لَيَأْكُلُ الإيمَانَ كَمَا تَأْكُلُ النَّارُ الحَطَبَ.
-  </p>
-</blockquote>
+> عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ
+> قَالَ: إنَّ الرَّجُلَ لَيَأْتِي بِأَدْنَى بَادِرَةٍ فَيُكَفَّرُ.
+> وَإنَّ الحَسَدَ لَيَأْكُلُ الإيمَانَ كَمَا تَأْكُلُ النَّارُ الحَطَبَ.
 
 Muhammad ibn Muslim reports that Imam al-Baqir (A) said, “A man may be
 forgiven for something done in a fit of anger; but envy devours faith as
@@ -191,12 +171,8 @@ It is a known fact that faith is a Divine light that illumines the human
 heart with the radiance of His glory, as has been related by the *hadith
 qudsi* quoted before:
 
-<blockquote dir="rtl">
-  <p>
-لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
-المُؤْمِنُ.
-  </p>
-</blockquote>
+> لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
+> المُؤْمِنُ.
 
 Neither [the vastness of] My earth, nor [that of] My heaven can contain
 Me. Indeed it is the heart of the man of faith, which can contain Me.
@@ -248,11 +224,7 @@ know as to what form our anger and resentment will acquire as the result
 of this vice in the next world, our permanent abode. We hear the words
 of Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَكُ كَذَلِكَ فَلَسْتُ مِنْهُ وَلَيْسَ مِنِّي.
-  </p>
-</blockquote>
+> وَمَنْ يَكُ كَذَلِكَ فَلَسْتُ مِنْهُ وَلَيْسَ مِنِّي.
 
 Whoso is such, he neither belongs to Me nor do I belong to him.
 
@@ -263,11 +235,7 @@ and is not accepted under the standard of the Mercy of the Most
 Merciful, there is no hope of his salvation. He will, not be able to
 receive any intercession of the intercessors either:
 
-<blockquote dir="rtl">
-  <p>
-﴿مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ.﴾
-  </p>
-</blockquote>
+> ﴿مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ.﴾
 
 ***Who is he that intercedeth with Him save by His leave?***
 (***2:255***)
@@ -474,21 +442,13 @@ utterance. It is not mere reading, discussing, or quoting others; it
 requires sincerity of intention. One who seeks God succeeds in finding
 Him. Those who are interested in Divine knowledge, seek it:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ كَانَ فِي هَذِهِ أَعْمَى فَهُوَ فِي الْآخِرَةِ أَعْمَى
-وَأَضَلُّ سَبِيلاً.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ كَانَ فِي هَذِهِ أَعْمَى فَهُوَ فِي الْآخِرَةِ أَعْمَى
+> وَأَضَلُّ سَبِيلاً.﴾
 
 ***Whoso is blind here will be blind in the Hereafter, and yet further
 front the road.*** (***17:72***)
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ لَمْ يَجْعَلْ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ لَمْ يَجْعَلْ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ.﴾
 
 ***And he for whom Allah hath not appointed light, for him there is no
 light.*** (***24:40***)
@@ -539,11 +499,7 @@ darkness of hatred. God Almighty has promised that He will guide those
 who struggle and help them through His invisible grace and increase
 their capacities:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ وَلِيُّ التَّوْفِيقِ وَالهِدَايَةِ.
-  </p>
-</blockquote>
+> إنَّهُ وَلِيُّ التَّوْفِيقِ وَالهِدَايَةِ.
 
 ‘Indeed He possesses the authority to grant ability and to guide.’
 
@@ -579,14 +535,10 @@ be purged and purified.
 
 As to the following tradition narrated by Hamzah ibn Humran:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: ثَلاثَةٌ لَمْ يُنَجَّ
-مِنْهَا نَبِيٌّ فَمَنْ دُونَهُ: التَّفَكُّرُ فِي الوَسْوَسَةِ فِي
-الخَلْقِ وَالطِّيَرَةُ وَالحَسَدُ، إلا أَنَّ المُؤْمِنَ لا
-يَسْتَعْمِلُ هَذَا (الحَسَدَ).
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: ثَلاثَةٌ لَمْ يُنَجَّ
+> مِنْهَا نَبِيٌّ فَمَنْ دُونَهُ: التَّفَكُّرُ فِي الوَسْوَسَةِ فِي
+> الخَلْقِ وَالطِّيَرَةُ وَالحَسَدُ، إلا أَنَّ المُؤْمِنَ لا
+> يَسْتَعْمِلُ هَذَا (الحَسَدَ).
 
 Abu ‘Abd Allah (Imam al-Sadiq) (A) said, “There are three things from
 which neither any prophet nor others below his rank are Immune: doubts
@@ -609,11 +561,7 @@ Essence. Therefore, this tradition ought to be interpreted in the manner
 indicated above or in some other fashion, or it should be referred back
 to its speaker (S):
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
-  </p>
-</blockquote>
+> وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
 
 And Praise is God’s, in the beginning and the end.
 
@@ -630,5 +578,4 @@ text with Persian translation by Hajj Sayyid Jawad Mustafawi), vol. III,
 p. 416.
 
 [^4]: Wasa’il al-Shi’ah, Bab ‘al- amr bi al-ma’ruf’.
-
 

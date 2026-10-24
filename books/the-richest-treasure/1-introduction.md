@@ -32,4 +32,3 @@ Mustafa Bek Najib, the great living scholar of Egypt. The latter
 scholar, regarded this letter “as a basic guide in Islamic
 administration.”
 
-

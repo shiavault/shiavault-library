@@ -28,4 +28,3 @@ awaken the society from the deep sleep that had been dominating all its
 members, except for whoever had embraced the Quran and the Progeny of
 Mohammad (R).
 
-

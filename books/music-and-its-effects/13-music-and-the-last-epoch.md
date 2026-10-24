@@ -8,4 +8,3 @@ forbid anyone."
 The words of Masoomeen are a proven fact as we do experience the
 situation in our day to day lives.
 
-

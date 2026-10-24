@@ -129,7 +129,6 @@ it.
 Certainly, Gabriel has informed me of this from Allah, the most high,
 Who also said:
 
-
 “Anyone who bears enmity against Ali and refuses his authority, for him
 shall be My curse and My wrath.”
 
@@ -263,7 +262,6 @@ Indeed, there is no commander for the faithful save this brother of
 mine, and it is not permissible to call anyone other than him with the
 title of “the Commander of the Believers” after my departure.1
 
-
 1 In the traditions, the Prophet (PBUH&HF) and Imams (PBUT) have
 stressed that Amir al-Mu’minin is the exclusive title of Imam Ali
 (PBUH), and it is not at all permissible to call other Imams (PBUT) with
@@ -281,5 +279,4 @@ The second meaning of Amir given in the traditions is “the supplier” or
 “the supplies”, which comes from the root Mira (...... ......). The word
 Amir al-Mu’minin in this sense is interpreted as “the supplier of divine
 knowledge for the believers.”
-
 

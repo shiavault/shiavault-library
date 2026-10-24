@@ -13,13 +13,9 @@ A. Qur’anic verses
 
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذا سَمِعُوا ما أُنْزِلَ أِلَي الرَّسُولِ تَري أَعْينَهُمْ
-تَفِيضُ مِنَ الدِّمْعِ مِمَّا عَرَفُوا مِنَ الحَقِّ يقُولُونَ رَبَّنَا
-آمَنَّا فَاکْتُبْنَا مَعَ الشّهِدِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذا سَمِعُوا ما أُنْزِلَ أِلَي الرَّسُولِ تَري أَعْينَهُمْ
+> تَفِيضُ مِنَ الدِّمْعِ مِمَّا عَرَفُوا مِنَ الحَقِّ يقُولُونَ رَبَّنَا
+> آمَنَّا فَاکْتُبْنَا مَعَ الشّهِدِينَ ﴾
 
 ***“And when they hear what has been revealed to the Apostle, you will
 see their eyes overflowing with tears on account of the truth that they
@@ -35,12 +31,8 @@ safety.
 
 Allah, the Exalted, says in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلْيَضْحَکُوا قَلِيلاً وَلْيبْکُوا کَثِيراً جَزَاءً بِمَا کَانُوا
-يَکْسِبُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلْيَضْحَکُوا قَلِيلاً وَلْيبْکُوا کَثِيراً جَزَاءً بِمَا کَانُوا
+> يَکْسِبُونَ ﴾
 
 ***“Therefore they shall laugh little and weep much as a recompense for
 what they earned.”***[^2]
@@ -54,13 +46,9 @@ so, on the pretext that the weather was too hot or too cold.
 
 Allah, the Exalted, states,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيقُولُونَ سُبْحَانَ رَبِّنَا أِنْ کَانَ وَعْدُ رَبِّنَا
-لَمَفعُولاً \* وَيخِرّوُنَ لِلأَذقَانِ يبْکُونَ وَيَزِيدُهُمْ خُشُوعاً
-﴾
-  </p>
-</blockquote>
+> ﴿ وَيقُولُونَ سُبْحَانَ رَبِّنَا أِنْ کَانَ وَعْدُ رَبِّنَا
+> لَمَفعُولاً \* وَيخِرّوُنَ لِلأَذقَانِ يبْکُونَ وَيَزِيدُهُمْ خُشُوعاً
+> ﴾
 
 ***“And they say: Glory be to our Lord! Most surely the promise of our
 Lord was to be fulfilled. And they fall down on their faces weeping, and
@@ -70,12 +58,8 @@ it adds to their humility.”***[^3]
 
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِذَا تُتْلَي عَلَيْهِمْ آياتُ الرَّحمنِ خَرُّروا سُجَّداً وَ
-بُکِياً ﴾
-  </p>
-</blockquote>
+> ﴿ إِذَا تُتْلَي عَلَيْهِمْ آياتُ الرَّحمنِ خَرُّروا سُجَّداً وَ
+> بُکِياً ﴾
 
 ***“When the communications of the Beneficent God were recited to them
 [the prophets], they fell down making obeisance and weeping.”***[^4]
@@ -84,12 +68,8 @@ Allah, the Exalted, says,
 
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَزِفَتِ الازِفَةُ \* لَيسَ لَها مِنْ دُونِ اللهِ کاشِفَة \* أَفَمِن
-هذَا الحَديثِ تَعْجَبُونَ \* وَتَضْحَکُونَ وَلا تَبْکُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَزِفَتِ الازِفَةُ \* لَيسَ لَها مِنْ دُونِ اللهِ کاشِفَة \* أَفَمِن
+> هذَا الحَديثِ تَعْجَبُونَ \* وَتَضْحَکُونَ وَلا تَبْکُونَ ﴾
 
 ***“The near event draws nigh. There shall be none besides Allah to
 remove it. Do you then wonder at this announcement? And will you laugh
@@ -105,11 +85,7 @@ traditions.
 
 Amir al-Mu’minin, Imam ‘Ali (as), has said,
 
-<blockquote dir="rtl">
-  <p>
-«بکاء العيون وخشية القلوب من رحمة الله.»
-  </p>
-</blockquote>
+> «بکاء العيون وخشية القلوب من رحمة الله.»
 
 “The tears of the eyes and the fear of the heart (for the sake of Allah)
 are among the blessings and mercies of Allah.”[^6]
@@ -118,11 +94,7 @@ are among the blessings and mercies of Allah.”[^6]
 
 The Prophet of Allah (S) has said,
 
-<blockquote dir="rtl">
-  <p>
-«انّما هي رحمة يجعلها في قلوب عباده.»
-  </p>
-</blockquote>
+> «انّما هي رحمة يجعلها في قلوب عباده.»
 
 “Verily, tears are a mercy that Allah has placed in the essence of his
 servants (the human beings).”[^7]
@@ -131,11 +103,7 @@ servants (the human beings).”[^7]
 
 Amir al-Mu’minin, Imam ‘Ali (as), has said,
 
-<blockquote dir="rtl">
-  <p>
-«البکاء من خشية الله ينير القلب ويعصم من معاودة الذنب.»
-  </p>
-</blockquote>
+> «البکاء من خشية الله ينير القلب ويعصم من معاودة الذنب.»
 
 “Crying out of fear of Allah illuminates the heart and prevents a person
 from returning to past sins.”[^8]
@@ -145,12 +113,8 @@ from returning to past sins.”[^8]
 In his last will and testament to Imam ‘Ali (as), the Prophet of Allah
 (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«يا علي! اربع خصال من الشقاء: جمود العين وقساوة القلب وبُعد الامل وحبّ
-البقاء.»
-  </p>
-</blockquote>
+> «يا علي! اربع خصال من الشقاء: جمود العين وقساوة القلب وبُعد الامل وحبّ
+> البقاء.»
 
 “O ‘Ali! There are four notable signs of misfortune and wretchedness:
 lack of tears, hardness of the heart, unrealistically drawn out hopes,
@@ -160,11 +124,7 @@ and desire to live forever.”[^9]
 
 Imam al-Husayn (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«البکاء من خشية الله نجاة من النار.»
-  </p>
-</blockquote>
+> «البکاء من خشية الله نجاة من النار.»
 
 “Crying due to fear of Allah brings deliverance from hell.”[^10]
 
@@ -172,11 +132,7 @@ Imam al-Husayn (as) said,
 
 The Prophet of Allah (S) has said,
 
-<blockquote dir="rtl">
-  <p>
-«ما من عمل الاّ وله وزن وثواب الاّ الدمعة، فانّها تطفي غضب الرّب.»
-  </p>
-</blockquote>
+> «ما من عمل الاّ وله وزن وثواب الاّ الدمعة، فانّها تطفي غضب الرّب.»
 
 “Every action and every good deed has a fixed heavenly reward, except
 tears. Verily, tears extinguish the fire of Allah’s wrath.”[^11]
@@ -185,12 +141,8 @@ tears. Verily, tears extinguish the fire of Allah’s wrath.”[^11]
 
 The Prophet of Allah (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«... وما من قطرة احبّ الی الله من قطرتين: قطرة دم في سبيل الله، وقطرة
-دمع في سواد الليل من خشية الله.»
-  </p>
-</blockquote>
+> «... وما من قطرة احبّ الی الله من قطرتين: قطرة دم في سبيل الله، وقطرة
+> دمع في سواد الليل من خشية الله.»
 
 “… There are no drops more beloved by Allah than two: a drop of blood
 that has been shed due to sacrifice in the way of Allah, and a tear that
@@ -221,5 +173,4 @@ flows from the eyes in the dark of the night due to fear of Allah.”[^12]
 [^11]: Ibid., p. 240.
 
 [^12]: Shaykh Mufid, Amali, p. 11, hadith 8.
-
 

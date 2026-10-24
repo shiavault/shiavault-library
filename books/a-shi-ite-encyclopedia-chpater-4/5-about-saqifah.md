@@ -165,7 +165,6 @@ a Caliph) without consulting the other Muslims, then the one he has
 selected should not be granted allegiance, lest both of them should be
 killed."
 
-
 **More on Companions**
 
 I shall discuss some issues about the companions in this article. For a
@@ -210,7 +209,6 @@ commentary for this book is Ibn Abil Hadid. A mor recent commentary by
 the Sunnis is of Muhammad Abduh from al-Azhar University. The commentary
 of these scholars on the book of "Nahjul Balagha" can be found in many
 Mosques and libraries.
-
 
 **Shedding the blood of Innocents**
 
@@ -315,5 +313,4 @@ busy collecting money and competing among one another in worldly gain,
 while many Muslims died from poverty, where then was that so-called
 piety and sense of sacrifice that the Sunnis attribute to them (the
 companions)? This is a sign for those who reflect!
-
 

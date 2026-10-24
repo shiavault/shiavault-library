@@ -60,4 +60,3 @@ all other conjuncts in that it is always dynamic, for example:**یسرُّني
 the relative clause is erased, in this case it is indeclinable on a
 *dummah*, for example**:یسرُّني أیُّهم قادم**ٌ.
 
-

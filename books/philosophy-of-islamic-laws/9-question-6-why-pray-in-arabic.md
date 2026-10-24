@@ -48,4 +48,3 @@ Akbar together, that time we can understand its wisdom and depth and if
 in Prayers every person recites in their own language, there will be
 disparity.
 
-

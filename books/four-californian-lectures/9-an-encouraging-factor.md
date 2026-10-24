@@ -11,4 +11,3 @@ Middle East politics should not prevent them from standing shoulder to
 shoulder for the sake of common causes of ethics and morality.  
   
 
-

@@ -75,4 +75,3 @@ and “to”, indicates movement directive.
 11.Li this Arabic preposition is equivalent to the English prepositions
 “to and for”.
 
-

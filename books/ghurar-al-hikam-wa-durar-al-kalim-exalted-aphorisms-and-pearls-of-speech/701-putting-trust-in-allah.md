@@ -12,22 +12,14 @@ upon it.
 strength and power, and waiting for what is brought by divine decree.
 
 > 2ـ اَلتَّوَكُّلُ اَلتَبَّري مِنَ الحَوْلِ والقُوَّةِ وانْتِظارُ ما
-<blockquote dir="rtl">
-  <p>
-يَأتي بِهِ القَدَرُ.
-  </p>
-</blockquote>
+> يَأتي بِهِ القَدَرُ.
 
 3. Beware of choosing [a path] for yourself [instead of putting your
 trust in Allah], for indeed most of the success lies in that which is
 not reckoned.
 
 > 3ـ إيّاكَ أنْ تَتَخَيَّرَ لِنَفْسِكَ، فَإنَّ أكْثَرَ النُّجْحِ فيما
-<blockquote dir="rtl">
-  <p>
-لايُحْتَسَبُ.
-  </p>
-</blockquote>
+> لايُحْتَسَبُ.
 
 4. The root of the heart’s strength is in putting [one’s] trust in
 Allah.
@@ -72,11 +64,7 @@ one’s faith is evinced.
 sufficiency of those who put their trust in Him.
 
 > 13ـ تَوَكَّلْ عَلَى اللّهِ سُبْحانَهُ فَإنَّهُ قَدْ تَكَفَّلَ
-<blockquote dir="rtl">
-  <p>
-بِكِفايَةِ المُتَوَكِّلينَ عَلَيْهِ.
-  </p>
-</blockquote>
+> بِكِفايَةِ المُتَوَكِّلينَ عَلَيْهِ.
 
 14. The strength of a servant’s trust in Allah is to the extent of his
 reliance on Him.
@@ -88,11 +76,7 @@ else as a channel for acquiring your sustenance other than Allah, the
 Glorified.
 
 > 15ـ حَسْبُكَ مِنْ تَوَكُّلِكَ أنْ لاتَرى لِرِزْقِكَ مُجْرِياً إلاّ
-<blockquote dir="rtl">
-  <p>
-اللّهُ سُبْحانَهُ.
-  </p>
-</blockquote>
+> اللّهُ سُبْحانَهُ.
 
 16. It is in trusting Allah that the true essence of conviction lies.
 
@@ -118,11 +102,7 @@ Glorified.
 have no hope in anyone but Allah.
 
 > 21ـ لاتَجْعَلَنَّ لِنَفْسِكَ تَوَكُّلاً إلاّ عَلَى اللّهِ، ولايَكُنْ
-<blockquote dir="rtl">
-  <p>
-لَكَ رَجاءٌ إلاّ اللّهُ.
-  </p>
-</blockquote>
+> لَكَ رَجاءٌ إلاّ اللّهُ.
 
 22. Everyone who puts his trust in Allah is catered for [and provided
 for by Him].
@@ -159,21 +139,12 @@ others].
 is catered for and he is saved from tribulations.
 
 > 29ـ مَنْ تَوَكَّلَ عَلَى اللّهِ أضاءَتْ لَهُ الشُّبَهاتُ، وكُفِيَ
-<blockquote dir="rtl">
-  <p>
-المَؤُناتُ، وأمِنَ التَّبِعاتِ.
-  </p>
-</blockquote>
+> المَؤُناتُ، وأمِنَ التَّبِعاتِ.
 
 30. Whoever trusts in Allah, difficulties become tolerable for him,
 means become easy for him and he enters into [a place of] comfort and
 honour.
 
 > 30ـ مَنْ تَوَكَّلَ عَلَى اللّهِ ذَلَّتْ لَهُ الصِّعابُ، وتَسَهَّلَتْ
-<blockquote dir="rtl">
-  <p>
-لَهُ الأسْبابُ، وتَبَوَّءَ الخَفْضَ والكَرامَةَ.
-  </p>
-</blockquote>
-
+> لَهُ الأسْبابُ، وتَبَوَّءَ الخَفْضَ والكَرامَةَ.
 

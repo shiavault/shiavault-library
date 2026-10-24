@@ -4,17 +4,9 @@ Surah al-Najm, Verses  33 - 62
 Surah al-Najm - Verses 33-34
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتَ الَّذِي تَوَلَّی
-  </p>
-</blockquote>
+> أفَرَأيْتَ الَّذِي تَوَلَّی
 
-<blockquote dir="rtl">
-  <p>
-وَأعْطَی قَلِيلاً وَأكْدَی
-  </p>
-</blockquote>
+> وَأعْطَی قَلِيلاً وَأكْدَی
 
 ***33. Did you observe him who turned away***  
 ***34. And gave a little then stopped [giving]?***
@@ -56,23 +48,11 @@ blessed Verses, but they were not mentioned for the sake of brevity.
 Surah al-Najm - Verses 35-37
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَی
-  </p>
-</blockquote>
+> أعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَی
 
-<blockquote dir="rtl">
-  <p>
-أمْ لَمْ يُنَبَّأ بِمَا فِي صُحُفِ مُوسَی
-  </p>
-</blockquote>
+> أمْ لَمْ يُنَبَّأ بِمَا فِي صُحُفِ مُوسَی
 
-<blockquote dir="rtl">
-  <p>
-وَإِبْرَاهِيمَ الَّذِي وَفَّی
-  </p>
-</blockquote>
+> وَإِبْرَاهِيمَ الَّذِي وَفَّی
 
 ***35. Is with him the knowledge of the Unseen so that he sees the
 truths?***  
@@ -106,17 +86,9 @@ accountable for his own sins.
 Surah al-Najm - Verses 38-39
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ألَآ تَزِرُ وَازِرَةٌ وِزْرَ اُخْرَی
-  </p>
-</blockquote>
+> ألَآ تَزِرُ وَازِرَةٌ وِزْرَ اُخْرَی
 
-<blockquote dir="rtl">
-  <p>
-وَأن لَّيْسَ لِلْإِنسَانِ إِلاّ مَا سَعَی
-  </p>
-</blockquote>
+> وَأن لَّيْسَ لِلْإِنسَانِ إِلاّ مَا سَعَی
 
 ***38. [It is mentioned in all Scriptures that] that no one shall bear
 the burden of another.***  
@@ -172,23 +144,11 @@ fulfilled tasks.
 Surah al-Najm - Verses 40-42
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّ سَعْيَهُ سَوْفَ يُرَی
-  </p>
-</blockquote>
+> وَأنَّ سَعْيَهُ سَوْفَ يُرَی
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يُجْزَاهُ الْجَزَاء الْأوْفَی
-  </p>
-</blockquote>
+> ثُمَّ يُجْزَاهُ الْجَزَاء الْأوْفَی
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّ إِلَی رَبِّكَ الْمُنتَهَی
-  </p>
-</blockquote>
+> وَأنَّ إِلَی رَبِّكَ الْمُنتَهَی
 
 ***40. And that his deeds will be seen.***  
 ***41. Then he will be recompensed with a full and the best
@@ -210,17 +170,9 @@ Divine Pure Essence.
 Surah al-Najm - Verses 43-44
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّهُ هُوَ أضْحَكَ وَأبْكَی
-  </p>
-</blockquote>
+> وَأنَّهُ هُوَ أضْحَكَ وَأبْكَی
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّهُ هُوَ أمَاتَ وَأحْيَا
-  </p>
-</blockquote>
+> وَأنَّهُ هُوَ أمَاتَ وَأحْيَا
 
 ***43. And that it is He Who makes [whom He wills] laugh and makes [whom
 He wills] weep.***  
@@ -247,23 +199,11 @@ the Fosterer of the world of existence.
 Surah al-Najm - Verses 45-47
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالاُنثَی
-  </p>
-</blockquote>
+> وَأنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالاُنثَی
 
-<blockquote dir="rtl">
-  <p>
-مِن نُّطْفَةٍ إِذَا تُمْنَی
-  </p>
-</blockquote>
+> مِن نُّطْفَةٍ إِذَا تُمْنَی
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّ عَلَيْهِ النَّشْأةَ الاُخْرَی
-  </p>
-</blockquote>
+> وَأنَّ عَلَيْهِ النَّشْأةَ الاُخْرَی
 
 ***45. And that He creates the pairs, male and female***  
 ***46. From semen when it is emitted [into the womb].***  
@@ -301,17 +241,9 @@ administered.
 Surah al-Najm - Verses 48-49
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّهُ هُوَ أغْنَی وَأقْنَی
-  </p>
-</blockquote>
+> وَأنَّهُ هُوَ أغْنَی وَأقْنَی
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّهُ هُوَ رَبُّ الشِّعْرَی
-  </p>
-</blockquote>
+> وَأنَّهُ هُوَ رَبُّ الشِّعْرَی
 
 ***48. And that it is He Who causes needlessness and need.***  
 ***49. And that He is the Lord of Sirius.***
@@ -341,35 +273,15 @@ Creator.
 Surah al-Najm - Verses 50-54
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأنَّهُ أهْلَكَ عَادًا الاُولَی
-  </p>
-</blockquote>
+> وَأنَّهُ أهْلَكَ عَادًا الاُولَی
 
-<blockquote dir="rtl">
-  <p>
-وَثَمُودَ فَمَا أبْقَی
-  </p>
-</blockquote>
+> وَثَمُودَ فَمَا أبْقَی
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا هُمْ أظْلَمَ وَأطْغَی
-  </p>
-</blockquote>
+> وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا هُمْ أظْلَمَ وَأطْغَی
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْتَفِكَةَ أهْوَی
-  </p>
-</blockquote>
+> وَالْمُؤْتَفِكَةَ أهْوَی
 
-<blockquote dir="rtl">
-  <p>
-فَغَشَّاهَا مَا غَشَّی
-  </p>
-</blockquote>
+> فَغَشَّاهَا مَا غَشَّی
 
 ***50. And that it is He Who destroyed the former ‘Ad [people]***  
 ***51. And Thamud [people]. He spared none of them.***  
@@ -414,17 +326,9 @@ Sawa’im, Adima, ‘Amura, and Sodom, and Gomorrah.
 Surah al-Najm - Verses 55-56
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكَ تَتَمَارَی
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكَ تَتَمَارَی
 
-<blockquote dir="rtl">
-  <p>
-هَذَا نَذِيرٌ مِّنَ النُّذُرِ الاُولَی
-  </p>
-</blockquote>
+> هَذَا نَذِيرٌ مِّنَ النُّذُرِ الاُولَی
 
 ***55. Then which of the Graces of your Lord will you doubt?***  
 ***56. This is a warner of the warners of old.***
@@ -489,17 +393,9 @@ best.
 Surah al-Najm - Verses 57-58
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أزِفَتْ الآزِفَةُ
-  </p>
-</blockquote>
+> أزِفَتْ الآزِفَةُ
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ لَهَا مِن دُونِ اللَّهِ كَاشِفَةٌ
-  </p>
-</blockquote>
+> لَيْسَ لَهَا مِن دُونِ اللَّهِ كَاشِفَةٌ
 
 ***57. The Day of Resurrection draws near.***  
 ***58. None besides Allah can avert the torments of that Day.***
@@ -518,29 +414,13 @@ able to avert the hardships on that Day.
 Surah al-Najm - Verses 59-62
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَمِنْ هَذَا الْحَدِيثِ تَعْجَبُونَ
-  </p>
-</blockquote>
+> أفَمِنْ هَذَا الْحَدِيثِ تَعْجَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَضْحَكُونَ وَلَآ تَبْكُونَ
-  </p>
-</blockquote>
+> وَتَضْحَكُونَ وَلَآ تَبْكُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأنتُمْ سَامِدُونَ
-  </p>
-</blockquote>
+> وَأنتُمْ سَامِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا
-  </p>
-</blockquote>
+> فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا
 
 ***59. Do you then wonder at this Word?***  
 ***60. And you laugh and weep not,***  
@@ -630,5 +510,4 @@ the blessed Verse in question.
 
 [^5]: Tafsir Makhzan al-Asrar; Manhaj al-Sadiqin, under the blessed
 Verse in question.
-
 

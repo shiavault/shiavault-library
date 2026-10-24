@@ -1824,4 +1824,3 @@ come honoring Medina, welcome to you, O best of those who invite to God!
 
 [^15]: See Qur'an 7:157.
 
-

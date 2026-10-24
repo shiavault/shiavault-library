@@ -222,4 +222,3 @@ And Abul Hasan recited the following couplets by Abu al-Ata'hiya:
  Some go earlier and some lay behind."  
  And may Allah bless our master Muhammad, the Prophet and his progeny.
 
-

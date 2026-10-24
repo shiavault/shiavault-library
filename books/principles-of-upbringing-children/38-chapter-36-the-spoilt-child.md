@@ -183,4 +183,3 @@ excessive indulgence of our parents!"
 
 [^6]: Ruwan shinashi kudak, p. 461
 
-

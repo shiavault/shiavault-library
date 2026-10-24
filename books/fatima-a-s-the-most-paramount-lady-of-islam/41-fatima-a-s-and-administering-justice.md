@@ -106,43 +106,33 @@ you inherit your father but I don’t? It is a new speech. You have
 disregarded Allah’s holy book and resorted to a word, contradictory to
 the holy Quran. The holy Quran says,
 
-<p dir="rtl">
 اولوالارحام بعضهم اولي ببعض في كتاب الله…
-</p>
 
 Has this verse been negated by other versus? Are you more familiar with
 holy Koran than my father and my cousin (Ali)?
 
 The holy Quran says,
 
-<p dir="rtl">
 يوصيكم اله في اولادكم للذكر مثل حظ الانثيين
-</p>
 
 *The share of heritage for boys is two times more than girls.*
 
 It also says,
 
-<p dir="rtl">
 و ورث سليمان داوود
-</p>
 
 *And Davood inherited Soleiman.*
 
 It says somewhere else,
 
-<p dir="rtl">
 هب لي من لدنك وليا يرثني ويرث من آل يعقوب
-</p>
 
 *Zakaria prayed to Allah to beget a child in order to inherit his
 parents and relatives.”*
 
 It also says,
 
-<p dir="rtl">
 ان ترك خير الوصيه للوالدين و الاقربين بالمعروف
-</p>
 
 *If the dead leaves anything as heritage, it belongs to his parents and
 family.*
@@ -186,5 +176,4 @@ not let Imam Hasan’s corpse be buried near the tomb of the Prophet
 
 -What happened that they did not listen to Ali’s speech, but listened to
 Ayesheh?
-
 

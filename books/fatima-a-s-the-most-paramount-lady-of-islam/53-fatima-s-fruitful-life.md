@@ -29,4 +29,3 @@ heaven.
 -And once she will enter the Last Judgment while complaining the
 oppressors and seeking for justice.
 
-

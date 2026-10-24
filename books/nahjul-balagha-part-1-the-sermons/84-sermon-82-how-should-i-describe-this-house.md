@@ -3,17 +3,9 @@ Sermon 82: How should I describe this house ...
 
 *About the world and its people*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في صفة الدنيا
-  </p>
-</blockquote>
+> في صفة الدنيا
 
 In what way shall I describe this world whose beginning is grief and
 whose end is destruction?[^1] The lawful actions performed here have to
@@ -23,15 +15,11 @@ who hankers after it does not get it. If one keeps away from it then it
 advances towards him. If one sees through it, it would bestow him sight,
 but if one has his eye on it then it would blind him.
 
-<blockquote dir="rtl">
-  <p>
-مَا أَصِفُ مِنْ دَار أَوَّلُهَا عَنَاءٌ وَآخِرُهَا فَنَاءٌ! فِي
-حَلاَلِهَا حِسَابٌ، وَفِي حَرَامِهَا عِقَابٌ. مَنِ اسْتَغْنَى فِيهَا
-فُتِنَ، وَمَنِ افْتَقَرَ فِيهَا حَزِنَ، وَمَنْ سَاعَاهَا فَاتَتْهُ،
-وَمَنْ قَعَدَ عَنْهَا وَاتَتْهُ، وَمَنْ أَبْصَرَ بِهَا بَصَّرَتْهُ،
-وَمَنْ أَبْصَرَ إلَيْهَا أَعْمَتْهُ.
-  </p>
-</blockquote>
+> مَا أَصِفُ مِنْ دَار أَوَّلُهَا عَنَاءٌ وَآخِرُهَا فَنَاءٌ! فِي
+> حَلاَلِهَا حِسَابٌ، وَفِي حَرَامِهَا عِقَابٌ. مَنِ اسْتَغْنَى فِيهَا
+> فُتِنَ، وَمَنِ افْتَقَرَ فِيهَا حَزِنَ، وَمَنْ سَاعَاهَا فَاتَتْهُ،
+> وَمَنْ قَعَدَ عَنْهَا وَاتَتْهُ، وَمَنْ أَبْصَرَ بِهَا بَصَّرَتْهُ،
+> وَمَنْ أَبْصَرَ إلَيْهَا أَعْمَتْهُ.
 
 A**s-Sayyid ar-Radi says:** If a thinker thinks over this phrase of Amir
 al-mu’minin “*waman absara biha bassarat’hu”* (“If one sees through it,
@@ -43,15 +31,11 @@ eye on it, them it would blind him) he would find the difference between
 *“absara biha”* and *“absara laha”,* clear, bright, wonderful and
 shining.
 
-<blockquote dir="rtl">
-  <p>
-قال الشريف: أقول: وإذا تأمل المتأمل قوله (عليه السلام): «وَمَنْ
-أبْصَرَبِهَا بصّرَتْهُ» وجد تحته من المعنى العجيب، والغرض البعيد، ما
-لا تُبلغ غايته ولا يدرك غوره، لا سيما إذا قرن إليه قوله: «ومَن أبْصَرَ
-إليها أعْمَتْهُ»، فإنه يجد الفرق بين «أبصر بها» و«أبصر إليها» واضحاً
-نيراً عجيباً باهراً!
-  </p>
-</blockquote>
+> قال الشريف: أقول: وإذا تأمل المتأمل قوله (عليه السلام): «وَمَنْ
+> أبْصَرَبِهَا بصّرَتْهُ» وجد تحته من المعنى العجيب، والغرض البعيد، ما
+> لا تُبلغ غايته ولا يدرك غوره، لا سيما إذا قرن إليه قوله: «ومَن أبْصَرَ
+> إليها أعْمَتْهُ»، فإنه يجد الفرق بين «أبصر بها» و«أبصر إليها» واضحاً
+> نيراً عجيباً باهراً!
 
 Alternative Sources for Sermon 82
 ---------------------------------
@@ -124,5 +108,4 @@ thus: And strain not thine eyes unto that which We have provided
 (different) parties of them, (of) the splendour of the life of this
 world, so that We may try them in it; for the provision of thy Lord is
 better and more abiding. (Qur'an, 20:131)
-
 

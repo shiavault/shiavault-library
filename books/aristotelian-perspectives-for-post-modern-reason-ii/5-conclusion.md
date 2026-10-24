@@ -62,4 +62,3 @@ of these passages[^39] , which are many and profound and require a
 complete re-reading of Aristotle, but I would at least like to suggest
 that practical truth could be understood asthe truth of science in act .
 
-

@@ -15,4 +15,3 @@ supply to me on the day when I shall meet my Lord.
 
 **The Author**
 
-

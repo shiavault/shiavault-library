@@ -642,13 +642,9 @@ Hani’s house before daybreak. Shi‘as believe this journey has been made
 physically rather than only spiritually as believed by some other sects.
 In the Holy Qur’an, this magnificent journey is referred to as follows:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
-لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
+> لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
 ***﴾Immaculate is He who carried His servant on a journey by night from
 the Sacred Mosque to the Farthest Mosque whose surroundings We have
@@ -1266,5 +1262,4 @@ cuts off Satan's artery. For everything, there's a *zakat*, and the
 [^8]: Al-Qur’an 5; 67
 
 [^9]: Al-Qur’an, 73: 25.
-
 

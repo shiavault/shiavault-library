@@ -7,22 +7,14 @@ The Miser And The Avaricious
 possessions and leaves all the rest for his heirs.
 
 > 1ـ البَخيلُ يَبْخَلُ على نَفْسِهِ بِاليَسيرِ مِنْ دُنياهُ، ويَسْمَحُ
-<blockquote dir="rtl">
-  <p>
-لِوُرَّاثهِ بِكُلِّها.
-  </p>
-</blockquote>
+> لِوُرَّاثهِ بِكُلِّها.
 
 2. A miser gives up of more of his honour than what he holds of his
 possessions and loses multiple times more of his religion than what he
 saves of his property.
 
 > 2ـ اَلبَخيلُ يَسْمَحُ مِنْ عِرْضِهِ بِأكثَرَ مِمّا أمْسَكَ مِنْ
-<blockquote dir="rtl">
-  <p>
-عَرَضِهِ، ويُضَيِّعُ مِنْ دينِهِ أضعافَ ما حَفِظَ مِنْ نَشَبِهِ.
-  </p>
-</blockquote>
+> عَرَضِهِ، ويُضَيِّعُ مِنْ دينِهِ أضعافَ ما حَفِظَ مِنْ نَشَبِهِ.
 
 3. The farthest of creatures from Allah, the Exalted, is the wealthy
 miser.
@@ -38,11 +30,7 @@ honour.
 with his wealth, and [eventually] leaves it behind for his heirs.
 
 > 5ـ أبْخَلُ النَّاسِ مَنْ بَخِلَ على نَفْسِهِ بِمالِهِ، وخَلَّفَهُ
-<blockquote dir="rtl">
-  <p>
-لِوُرّاثهِِ.
-  </p>
-</blockquote>
+> لِوُرّاثهِِ.
 
 6. The miser is dispraised, the envious is disheartened.
 
@@ -74,12 +62,8 @@ life of poverty in this world and is called to account with the
 reckoning of the wealthy in the Hereafter.
 
 > 12ـ عَجِبْتُ لِلْشَّقِيِّ البَخيلِ يَتَعَجَّلُ الفَقْرَ الَّذي مِنْهُ
-<blockquote dir="rtl">
-  <p>
-هَرَبَ ويَفُوتُهُ الغِنى الَّذي إيّاهُ طَلَبَ فَيَعيشُ فِي الدُّنيا
-عَيْشَ الفُقَراءِ ويُحاسَبُ فِي الآخِرَةِ حِسابَ الأغْنياءِ.
-  </p>
-</blockquote>
+> هَرَبَ ويَفُوتُهُ الغِنى الَّذي إيّاهُ طَلَبَ فَيَعيشُ فِي الدُّنيا
+> عَيْشَ الفُقَراءِ ويُحاسَبُ فِي الآخِرَةِ حِسابَ الأغْنياءِ.
 
 13. The avaricious has no friend.
 
@@ -93,11 +77,7 @@ reckoning of the wealthy in the Hereafter.
 leaves behind his possessions for others.
 
 > 15ـ لَمْ يُوفَّقْ مَنْ بَخِلَ عَلى نَفْسِهِ بِخَيْرِهِ وخَلَّفَ مالَهُ
-<blockquote dir="rtl">
-  <p>
-لِغَيْرِهِ.
-  </p>
-</blockquote>
+> لِغَيْرِهِ.
 
 16. One who withholds his hand out of fear of poverty has [actually]
 hastened poverty.
@@ -112,22 +92,14 @@ hastened poverty.
 exceeded in meanness.
 
 > 18ـ مَنْ بَخِلَ بِما لا يَمْلِكُهُ فَقَدْ بالَغَ فيِ الرَّذيلَةِ
-<blockquote dir="rtl">
-  <p>
-(بالرَّذيلة).
-  </p>
-</blockquote>
+> (بالرَّذيلة).
 
 19. One who withholds his hand from [spending on] his family has only
 held back one hand from them but caused many hands to be withheld by
 them [against him].
 
 > 19ـ مَنْ يَقْبِضْ يَدَهُ عَنْ عَشيرَتِهِ، فَإنَّما يَقْبِضُ يَداً
-<blockquote dir="rtl">
-  <p>
-واحِداً عَنْهُمْ، ويَقْبِضُ عَنْهُ أيْديَ كَثيرَةً مِنْهُمْ.
-  </p>
-</blockquote>
+> واحِداً عَنْهُمْ، ويَقْبِضُ عَنْهُ أيْديَ كَثيرَةً مِنْهُمْ.
 
 20. One who is stingy with his wealth towards himself, is generous with
 it to his wife’s [next] husband.
@@ -138,11 +110,7 @@ it to his wife’s [next] husband.
 wrath upon him increases.
 
 > 21ـ مَنْ بَخِلَ علَى المُحْتاجِ بِما لَدَيْهِ كَثُرَ سَخَطُ اللّهِ
-<blockquote dir="rtl">
-  <p>
-علَيْهِ.
-  </p>
-</blockquote>
+> علَيْهِ.
 
 22. He who is stingy with his favours has not fastened his faith [and
 made it firm].
@@ -158,22 +126,14 @@ you were competing for yesterday. And in another narration, he said:
 This is what the misers were stingy with.
 
 > 24ـ وقال ـ عليه السّلام ـ: وَقَدْ مَرَّ بِقَذِر عَلى مَزْبَلَة: هذا ما
-<blockquote dir="rtl">
-  <p>
-كُنْتُمْ (عَلَيْهِ بالأمْسِ تَتَنافَسُونَ) تَتَنافَسُونَ فيهِ
-بِالأمْسِ وفي خبر آخر أنَّهُ قال: هذا ما بَخِلَ بِهِ الباخِلُونَ.
-  </p>
-</blockquote>
+> كُنْتُمْ (عَلَيْهِ بالأمْسِ تَتَنافَسُونَ) تَتَنافَسُونَ فيهِ
+> بِالأمْسِ وفي خبر آخر أنَّهُ قال: هذا ما بَخِلَ بِهِ الباخِلُونَ.
 
 25. Woe to the miser who hastens towards the poverty which has fled from
 him and abandons the wealth that has sought him.
 
 > 25ـ وَيْحَ البَخيلِ المُتَعَجِّلِ الفَقْرَ الَّذي مِنهُ هَرَبَ،
-<blockquote dir="rtl">
-  <p>
-والتَّارِكِ الغِنَى الَّذي إيَّاهُ طَلَبَ.
-  </p>
-</blockquote>
+> والتَّارِكِ الغِنَى الَّذي إيَّاهُ طَلَبَ.
 
 26. Do not be stingy by acting tightfistedly; and do not waste by acting
 extravagantly.
@@ -193,10 +153,5 @@ blameworthy and liable for punishment.
 Hereafter.
 
 > 29ـ اَلباخِلُ فيِ الدُّنيا مَذْمُومٌ، وفيِ الآخِرَةِ مُعَذَّبٌ
-<blockquote dir="rtl">
-  <p>
-مَلُومٌ.
-  </p>
-</blockquote>
-
+> مَلُومٌ.
 

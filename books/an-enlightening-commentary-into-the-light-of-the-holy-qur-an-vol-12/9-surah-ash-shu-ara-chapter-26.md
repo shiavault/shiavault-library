@@ -10,11 +10,7 @@ Surah Ash-Shu‘ara, Chapter 26
 The Feature of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -59,5 +55,4 @@ mixes it with water and drinks it, all his diseases may be healed by
 Allah.”*[^1]
 
 [^1]: Majma‘ ul-Bayan, Fakhr-i-Razi, Qurtabi, Tibyan, and Ruh-ul-Ma‘ani
-
 

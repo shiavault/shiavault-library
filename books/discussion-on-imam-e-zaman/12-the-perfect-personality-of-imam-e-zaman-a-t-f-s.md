@@ -53,9 +53,7 @@ creatures on the basis of grace. Therefore, one He has made the sun, the
 other moon, the third as the earth, one ocean he has made as sweet and
 the other, salty, etc.
 
-<p dir="rtl">
 .« ذلك فضل اللّه يؤتيه م.ن يشاء »
-</p>
 
 “This is the grace of Allah. He gives to whosoever He pleases.43”
 
@@ -75,9 +73,7 @@ accountability been equal (despite their differences in creation), it
 would tantamount to injustice. Hence, as endowments differ so do
 obligations and hence the declaration,
 
-<p dir="rtl">
 .« لا يكلِّف. اللّه نفساً الّا وسع.ها »
-</p>
 
 “Allah does not impose a burden on any soul except as per its
 capacity.44” He has not bestowed intellect to the animals and therefore,
@@ -117,9 +113,7 @@ than that of others. Therefore, the conclusion is as follows: Allah
 creates people for the tasks that He intends to execute. He gives them
 the power to do that job, after which He declares,
 
-<p dir="rtl">
 .« اللّه. اعلم. حيثُ يجعلُ رِسالته »
-</p>
 
 “Allah knows best where to place His message45”
 
@@ -191,9 +185,7 @@ grace.
 In Islamic terminology, this creation is called as “the light of
 Muhammad”, based on the saying of the Holy Prophet (s.a.w.a.),
 
-<p dir="rtl">
 « اولُ ما خلق اللّه. نوري »
-</p>
 
 “The first thing that Allah created was my light47”. Another term that
 is used for it is “the first intellect” (aql-e-awaal). Yet another name
@@ -211,9 +203,7 @@ creatures but the creatures too should recognize him and know that if he
 were not there, they (creatures) would not exist. For example, Allah the
 Almighty, addresses His Prophet (s.a.w.a.) declaring,
 
-<p dir="rtl">
 .« لولاك. ما خَلَقت. الافلاك »
-</p>
 
 “If you had not been there, I would not have created the spheres.48”
 Such traditions are available aplenty in the collections of traditions,
@@ -233,19 +223,15 @@ traditions, if the earth would be void of a divine proof, it would be
 destroyed49. Why? In reply, we submit that because the role of a divine
 proof is that of a medium. In Dua-e-Adeelah, one can find,
 
-<p dir="rtl">
 .« بِي.منِه ر.زِق الوري و بو.ج.وده ثبتت الارض و السماء »
-</p>
 
 “Through his blessings, the creatures are sustained and by his
 existence, the earth and the sky subsist.”
 
 For, an Imam is the medium. In Ziyaarat-e- Jaameah, we read
 
-<p dir="rtl">
 بكُم فتح اللّه و بكم يختم. الله و بكم ينزّل الغيث و بكم ي.مسك السماء ان
 تقع علي الارض الّا » . « باذنه
-</p>
 
 “Through you (Imams (a.s.)), Allah opens, and through you, Allah seals,
 and through you, He sends down rains, and through you, He controls the
@@ -290,9 +276,7 @@ ingratitude.
 Allah’s aim in creation was to create a man who would be a worshipper
 (abd) in the truest sense of the word. He says:
 
-<p dir="rtl">
 .« إني جاعلٌ في الارض خليفه »
-</p>
 
 “Surely I intend to appoint a representative (caliph) on the earth.51”
 For this perfect man or perfect worshipper, He created the earth and the
@@ -355,15 +339,12 @@ Ziyarat-e-Jaameahe- Kabeerah and some other supplications. In the
 invocations of the month of Rajab, one has been related on the authority
 of Imam-e-Zaman (a.s.) himself as follows:
 
-<p dir="rtl">
 .« اللّهم إنّي اسألُك بمعاني جميع مايدعوك به ولاه امرك المأمونون علي
 سرك »
-</p>
 
 “O Allah! I ask You for the sake of the essence of all by which those
 appointed in authority prayed to You, those trusted with Your secrets.”
 This supplication is great. And among other invocations, is the salawaat
 of the month of Shabaan, which describes the general perfection of all
 the Imams (a.s.).
-
 

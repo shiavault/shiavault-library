@@ -67,7 +67,6 @@ masterpiece in clinical medicine (Browne 1962). It describes the
 clinical difference between the two diseases so vividly that nothing
 since has been added (Keys 1971).
 
-
 **AL-Zahrawi (ABULCASIS, BUCASIS, ALZAHRAVIUS) 930-1013 A.D.**
 
 His full name is Abu-Al-Qasim Khalaf Ibn'Abbas Al-Zahrawi. He had been
@@ -225,5 +224,4 @@ in Europe, surgery was belittled and practiced by barbers and butchers.
 In 1163 A.D., the Council of Tours declared the following resolution
 "Surgery is to be abandoned by the schools of medicine and by all decent
 physicians."
-
 

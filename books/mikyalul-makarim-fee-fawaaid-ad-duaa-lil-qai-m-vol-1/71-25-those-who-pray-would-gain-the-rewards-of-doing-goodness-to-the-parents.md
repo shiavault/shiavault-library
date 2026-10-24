@@ -37,4 +37,3 @@ Imam is also there for all Imams. That is if the rights of one of them
 is proved on us then the rights of all them will also be incumbent on
 us. (The Author)
 
-

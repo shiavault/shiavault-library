@@ -56,11 +56,7 @@ Righteousness And Those Who Prevent It
 offences of his brothers and neighbours has perfected [his] virtue.
 
 > 13ـ مَنْ أتْبَعَ الإحسانَ بِالإحسانِ، واحتَمَلَ جِناياتِ الإخْوانِ
-<blockquote dir="rtl">
-  <p>
-والجيرانِ، فَقَد أكْمَلَ البِرَّ.
-  </p>
-</blockquote>
+> والجيرانِ، فَقَد أكْمَلَ البِرَّ.
 
 14. One who is miserly towards you with his cheerfulness will not be
 generous with his righteousness.
@@ -87,5 +83,4 @@ generous with his righteousness.
 righteous.
 
 > 19ـ مِنْ شِيَمِ الأبْرارِ حَمْلُ النُّفُوسِ عَلَى الإيثارِ.
-
 

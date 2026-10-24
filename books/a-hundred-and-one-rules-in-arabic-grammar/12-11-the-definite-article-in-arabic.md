@@ -7,4 +7,3 @@ A noun or adjective is made definite by prefixing (**الـ** ) to it.
 
 ** ** b. the old house    **البيتُ قديمٌ**
 
-

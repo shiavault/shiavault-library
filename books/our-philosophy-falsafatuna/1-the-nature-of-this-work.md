@@ -108,4 +108,3 @@ first volume of his other important work, Capital, was published in
 tries to determine whether it is matter or God that is the primary cause
 of the world.
 
-

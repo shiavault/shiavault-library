@@ -678,7 +678,5 @@ malevolence in the article of Mr. A. M. in introducing the book, now the
 question arises: "Does there remain any more room for criticism and
 objection towards the book of 'A'ishah's traditions?"
 
-
 Tehran, Deymah, 1355 Iranian year (1976) 'Ata Muhammad Sardar-Niya
-
 

@@ -118,7 +118,6 @@ and other perfect doctors that found an animal (organism) that grew up
 in the brain and didn't find any other way than the ears to let it reach
 there.
 
-
 **Subjects from different sources with agreement in contents**
 
 Adam was named as Adam because he was created from the skin of the
@@ -438,5 +437,4 @@ position out of clay. He continued: and all of the previous belong to
 one origin which is the sand, which is the origin of mud, and so God
 informed us that he made him out of sand, then made it into mud, then
 transferred into black mud and finally as clay.
-
 

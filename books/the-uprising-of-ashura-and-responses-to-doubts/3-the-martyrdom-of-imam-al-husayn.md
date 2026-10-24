@@ -32,11 +32,7 @@ have been recounted:
 1. On his own chain of transmission [*sanad*], Khatib Baghdadi recounts
 that Amir al-Mu’minin ‘Ali (as) quoted the Holy Prophet (S) saying,
 
-<blockquote dir="rtl">
-  <p>
-الحسن والحسين سيدا شباب أهل الجنة، وأبوهما خير منهما.
-  </p>
-</blockquote>
+> الحسن والحسين سيدا شباب أهل الجنة، وأبوهما خير منهما.
 
 “Al-Hasan and al-Husayn are the masters of the youths of Paradise and
 their father is better than these two.”[^2]
@@ -44,11 +40,7 @@ their father is better than these two.”[^2]
 2. On his own chain of transmission, Muttaqi al-Hindi recounts that Imam
 ‘Ali (as) narrated that the Holy Prophet (S) said to Fatimah (as),
 
-<blockquote dir="rtl">
-  <p>
-ألا ترضين أن تکوني سيدة نساء أهل الجنة، وأبناك سيدي شباب اهل الجنة.
-  </p>
-</blockquote>
+> ألا ترضين أن تکوني سيدة نساء أهل الجنة، وأبناك سيدي شباب اهل الجنة.
 
 “Will you not be pleased that you will be the chief of the women of
 Paradise and your two children will be the chiefs of the youths of
@@ -57,12 +49,8 @@ Paradise?”[^3]
 3. On his own chain of transmission, Ibn ‘Asakir recounts that Ibn
 ‘Abbas quoted the Holy Prophet (S) saying,
 
-<blockquote dir="rtl">
-  <p>
-الحسن والحسين سيدا شباب اهل الجنة، من أحبهما فقد أحبّني ومن أبغضهما
-فقد أبغضني.
-  </p>
-</blockquote>
+> الحسن والحسين سيدا شباب اهل الجنة، من أحبهما فقد أحبّني ومن أبغضهما
+> فقد أبغضني.
 
 “Al-Hasan and al-Husayn are both chiefs of the youths of Paradise.
 Anyone who loves them, surely loves me, and anyone who hates them,
@@ -273,12 +261,8 @@ The *hadith* recounted by Tabarani mentions the prophets Jesus Christ
 (as) and John the Baptist (as) to be exceptions. He narrates that
 Allah’s Prophet (S) addressed Fatimah (as) in the following way:
 
-<blockquote dir="rtl">
-  <p>
-والله ما من نبي الاّ وولد الأنبياء غيري، وإنّ ابنيک سيدا شباب اهل
-الجنة الاّ ابني الخالة يحيى وعيسى.
-  </p>
-</blockquote>
+> والله ما من نبي الاّ وولد الأنبياء غيري، وإنّ ابنيک سيدا شباب اهل
+> الجنة الاّ ابني الخالة يحيى وعيسى.
 
 “I swear upon Allah! There was never a man who was raised to the
 prophethood unless he was the son of a former prophet, other than me.
@@ -366,15 +350,11 @@ transmission [*sanad*].
 
 #### The first chain of transmission
 
-<blockquote dir="rtl">
-  <p>
-حدّثنا علي بن حُجر، اخبرنا وليد بن محمد الموقري عن الزهري، عن علي بن
-الحسين، عن علي بن ابي طالب، قال: کنت مع رسول الله صَلَّي اللهُ عَلَيهِ
-وآله اذ طلع ابوبکر، وعمر فقال رسول الله صَلَّی اللهَُ عَلَيهِ وآله:
-هذان سيدا کهول اهل الجنة من الاوّلين والآخرين الاّ النبيّين والمرسلين،
-يا علي لا تخبرهما.
-  </p>
-</blockquote>
+> حدّثنا علي بن حُجر، اخبرنا وليد بن محمد الموقري عن الزهري، عن علي بن
+> الحسين، عن علي بن ابي طالب، قال: کنت مع رسول الله صَلَّي اللهُ عَلَيهِ
+> وآله اذ طلع ابوبکر، وعمر فقال رسول الله صَلَّی اللهَُ عَلَيهِ وآله:
+> هذان سيدا کهول اهل الجنة من الاوّلين والآخرين الاّ النبيّين والمرسلين،
+> يا علي لا تخبرهما.
 
 “This *hadith* was related by ‘Ali ibn Hujr who quoted Walid ibn
 Muhammad al-Mawqiri. He quoted al-Zuhri who quoted ‘Ali ibn al-Husayn
@@ -1187,5 +1167,4 @@ al-Kubra (A Great Collection of Fabricated Traditions), vol. 1, p. 41.
 335; Majma‘ al-Zawa’id, vol. 10, p. 398.
 
 [^115]: Al-Taj al-Jami‘ li’l-Usul, vol. 5, p. 375.
-
 

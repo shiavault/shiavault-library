@@ -43,11 +43,7 @@ success and reach our goals!
 
 The Qur\`an clearly tells us:
 
-<blockquote dir="rtl">
-  <p>
- فَاسْئَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْــتُمْ لاَ تَعْلَمُونَ 
-  </p>
-</blockquote>
+>  فَاسْئَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْــتُمْ لاَ تَعْلَمُونَ 
 
 ***“Ask the people of the remembrance (those who have knowledge on a
 particular issue) if you do not know.” (16:43)***
@@ -105,15 +101,11 @@ responsibility of guardianship of the entire community. Therefore, to
 disobey his orders is tantamount to disobeying the commandments of Imam
 al-Hujjah (ajtf).
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اللٌّهُ تَعَالـى لِعِيسَى  عَظِّمِ الْعُلَمَآءَ وَ اعْرِفْ
-فَضْلَهُمْ فَإِنِّي فَضَّلْـتُهُمْ عَلَـى جَمِيعِ خَلْقِي إِلاَّ
-النَّبِيِّينَ وَ الْمُرْسَلِينَ كَفَضْلِ الشَّمْسِ عَلـى الْكَوَاكِبِ
-وَ كَفَضْلِ الآخِرَةِ عَلـى الدُّنْـيَا وَ كَفَضْـلِــي عَلى كُلِّ
-شَـيْءٍ
-  </p>
-</blockquote>
+> قَالَ اللٌّهُ تَعَالـى لِعِيسَى  عَظِّمِ الْعُلَمَآءَ وَ اعْرِفْ
+> فَضْلَهُمْ فَإِنِّي فَضَّلْـتُهُمْ عَلَـى جَمِيعِ خَلْقِي إِلاَّ
+> النَّبِيِّينَ وَ الْمُرْسَلِينَ كَفَضْلِ الشَّمْسِ عَلـى الْكَوَاكِبِ
+> وَ كَفَضْلِ الآخِرَةِ عَلـى الدُّنْـيَا وَ كَفَضْـلِــي عَلى كُلِّ
+> شَـيْءٍ
 
 Allah, the Most High, said to ‘Isa: “Hold the scholars in great esteem
 and recognize their greatness since surely I have granted them greatness
@@ -125,13 +117,9 @@ world, and like My greatness over all other things.”[^3]
 In a letter which Imam al-Hujjah (ajtf) wrote to Ishaq b. Ya’qub, he
 stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوا فِيهَا إِلـى رُوَاةِ
-حَدِيـثِنَا فَإِنَّهُمْ حُجَّتِي عَلَيْكُمْ وَ أَنَا حُجَّةُ اللٌّهِ
-(عَلَيْهِمْ)
-  </p>
-</blockquote>
+> وَ أَمَّا الْحَوَادِثُ الْوَاقِعَةُ فَارْجِعُوا فِيهَا إِلـى رُوَاةِ
+> حَدِيـثِنَا فَإِنَّهُمْ حُجَّتِي عَلَيْكُمْ وَ أَنَا حُجَّةُ اللٌّهِ
+> (عَلَيْهِمْ)
 
 “As for (guidance in) the events which transpire, refer to those who
 narrate our traditions, since they are my proof over all of you and I am
@@ -139,14 +127,10 @@ the proof of Allah (over them).”[^4]
 
 In a tradition from Imam Hasan b. ‘Ali al-’Askari, he said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ كَانَ مِنَ الْفُقَهَاءِ صَائِـناً لِنَفْسِهِ حَافِظاً
-لِدِيـنِهِ مُخَالِفاً عَلـى هَوَاهُ مُطِيعاً لِأَمْرِ مَوْلاَهُ
-فَلِلْعَوَامِّ أَنْ يُقَلِّدُوهُ وَ ذٌلِكَ لاَ يَكُونُ إِلاَّ بَعْضَ
-فُقَهَاءِ الشِّيـعَةِ لاَ كُلُّهُمْ
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ كَانَ مِنَ الْفُقَهَاءِ صَائِـناً لِنَفْسِهِ حَافِظاً
+> لِدِيـنِهِ مُخَالِفاً عَلـى هَوَاهُ مُطِيعاً لِأَمْرِ مَوْلاَهُ
+> فَلِلْعَوَامِّ أَنْ يُقَلِّدُوهُ وَ ذٌلِكَ لاَ يَكُونُ إِلاَّ بَعْضَ
+> فُقَهَاءِ الشِّيـعَةِ لاَ كُلُّهُمْ
 
 “As for the one who is from amongst the Fuqaha (scholars) and who
 protects his soul safe guards his faith goes against the passions of his
@@ -175,5 +159,4 @@ Anwar, vol. 2, pg. 90, sec. 14, no. 13
 [^5]: Wasa\`il ash-Shi’a, vol. 27, pg. 131, sec. 10, no. 33401; Biharul
 Anwar, vol. 2, pg. 88, sec. 14, no. 12; al-Ihtijaj (Tabrisi), vol. 2,
 pg. 283
-
 

@@ -26,10 +26,5 @@ the one whose concern (and effort) is [solely] for his stomach and his
 private parts.
 
 > 5ـ أمْقَتُ العِبادِ إلَى اللّهِ سُبْحانَهُ مَنْ كانَ هَمُّهُ
-<blockquote dir="rtl">
-  <p>
-(هِمَّتُهُ) بَطْنُهُ وَفَرْجُهُ.
-  </p>
-</blockquote>
-
+> (هِمَّتُهُ) بَطْنُهُ وَفَرْجُهُ.
 

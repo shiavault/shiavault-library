@@ -504,4 +504,3 @@ Issues such as these cannot be encompassed by other teachings which
 neither possess the requisite capacity to uphold them nor the room for
 such dicta and ideals.
 
-

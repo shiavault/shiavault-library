@@ -1,14 +1,10 @@
 Section Thirteen
 ================
 
-<blockquote dir="rtl">
-  <p>
-بِأَبِي أَنْتَ وَأُمِّي، لَقَدْ عَظُمَ مُصابِي بِكَ، فَأَسْأَلُ اللّهَ
-الَّذِي أَكْرَمَ مَقامَكَ، وَأَكْرَمَنِي بِكَ، أَنْ يَرْزُقَنِي طَلَبَ
-ثارِكَ مَعَ إِمامٍ مَنْصُورٍ مِنْ أَهْلِ بَيْتِ مُحَمَّدٍ صَلَّى
-اللّهُ عَلَيْهِ وَآلِهِ
-  </p>
-</blockquote>
+> بِأَبِي أَنْتَ وَأُمِّي، لَقَدْ عَظُمَ مُصابِي بِكَ، فَأَسْأَلُ اللّهَ
+> الَّذِي أَكْرَمَ مَقامَكَ، وَأَكْرَمَنِي بِكَ، أَنْ يَرْزُقَنِي طَلَبَ
+> ثارِكَ مَعَ إِمامٍ مَنْصُورٍ مِنْ أَهْلِ بَيْتِ مُحَمَّدٍ صَلَّى
+> اللّهُ عَلَيْهِ وَآلِهِ
 
 “May my father and mother be sacrificed for you. Surely my sorrow for
 you is great and I pray to Allah who has honoured your status and has
@@ -63,5 +59,4 @@ within us...
 It also keeps the hope of the advent of the reformer of the world, our
 12th Imam, enlivened in our hearts as we seek to be along side him when
 the Divine retribution takes place.
-
 

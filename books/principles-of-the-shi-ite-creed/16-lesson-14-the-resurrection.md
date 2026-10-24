@@ -95,4 +95,3 @@ And this hereafter refers to the Resurrection which is stressed in every
 divine religion especially Islam, in which it is presented as one of the
 primary principles of the faith.
 
-

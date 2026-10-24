@@ -528,4 +528,3 @@ Michigan. He specializes in the critical theory of religion (Frankfurt
 School) and Islam, and continues to work on a critical theory of Islamic
 modernity and revolution.
 
-

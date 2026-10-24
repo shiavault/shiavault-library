@@ -693,4 +693,3 @@ and fallacies were useless. In the meantime he came to know that Imam
 al-Hasan was determined on warring against him. After that he headed for
 war and prepared its means and requirements.
 
-

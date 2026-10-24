@@ -182,7 +182,6 @@ following. "I heard abu 'Abdallah (a.s.) say, 'Had Allah not created
 Amir al-Mu'minin Ali (a.s.) for Fatima, there would been no match on
 earth for her from Adam to the end."
 
-
 **Chapter 115 : The Birth of al-Hassan ibn Ali (a.s.)**
 
 Al-Hassan ibn Ali (a.s.) was born in the month of Ramadan in the year
@@ -296,5 +295,4 @@ to grant me a healthy son who would love you, Ahl al-Bayt. When I left,
 my wife was about to give birth." The Imam (a.s.) said, "Go to your
 place. Allah has gifted you with a healthy son who is of our Shi'a
 (followers)."
-
 

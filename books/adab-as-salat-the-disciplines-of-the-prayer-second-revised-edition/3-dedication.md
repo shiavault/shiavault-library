@@ -71,4 +71,3 @@ upon the righteous servants of Allah.
 [^1]: Mustadrak al-Wasā'il, “Book of as-Salat,” sec. on “Invocations,”
 ch. 22, hadīth 1. 
 
-

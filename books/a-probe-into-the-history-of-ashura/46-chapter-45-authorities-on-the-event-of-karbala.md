@@ -308,4 +308,3 @@ captives?" Then he tore the collar of his shirt and continued to speak
 till the people were deeply moved and the gathering dispersed in a state
 of confusion and disorder.
 
-

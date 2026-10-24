@@ -1,10 +1,6 @@
 Chapter Xii
 ===========
 
-  
-
-  
-
 HIS COMPANIONS AND NARRATORS OF HIS TRADITIONS
 ==============================================
 
@@ -35,11 +31,6 @@ and asked him to relate to them the traditions of his
 
 [[1]](#_F877) Tahdhib al-Tahdhib.  
  [[2]](#_F878) Bihār al-Anwār, vol. 12, p. 29.  
-  
-
-  
-
-  
 
 grandfather, Allahs Messenger, may Allah bless him and his family. He
 narrated to them the tradition called *al-hadith al-dhahabi* (the Golden
@@ -80,17 +71,10 @@ The murders of the children of the Prophet, Mohammed,
 
 have removed the comfort of the heart after endurance.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F879) Akhbār al-Diwal, p. 115.  
  [[2]](#_F880) Al-Barqi, Rijāl, p. 53.  
-  
-
-  
-
-  
 
 This poetry line shows the sufferings and sorrow of al-Sawli toward the
 trials and tribulations which the enemy of Islam wreaked upon the
@@ -121,8 +105,6 @@ May Allah not praise him who seeks the help of your
 
 enemies and praises them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F881) Al-Murtadā, al-Amāli, vol. 1, p. 485. In (the book) A'yān
@@ -141,11 +123,6 @@ was not similar to their religion in his good deeds."
 ones; surely he means the family of Abū Tālib and at their top is Imām
 al-Ridā, peace be on him, and that al-Ma'mūn bestowed upon them when he
 gave them some gifts which were of their properties."  
-  
-
-  
-
-  
 
 You have preferred your partner, who is a close relative,
 
@@ -189,8 +166,6 @@ Whoever desires to die after you, then let him die. For I
 
 took care of you.[[4]](#_ftn888)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F885) The one addressed in his words 'you have preferred' is
@@ -198,11 +173,6 @@ al-Ridā the great Imām, peace be on him, and his partner is al-Ma'mūn.
  [[2]](#_F886) Ibn Khullakān, Wafayāt al-A'yān, vol. 1, p. 25.  
  [[3]](#_F887) Ibid., p. 29.  
  [[4]](#_F888) Ibid.  
-  
-
-  
-
-  
 
 ### His Burning the Divan of his Poetry
 
@@ -242,18 +212,11 @@ brief, is very marvelous.[[2]](#_ftn890)
 Ibrāhim died in Samarā in Shabān 15, in the year 243 A.
 H.[[3]](#_ftn891)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F889) Al-Murtadā, Amāli, vol. 1, p. 485.  
  [[2]](#_F890) Ibn Khulakān, Wafayāt al-A'yān, vol. 1, p. 29.  
  [[3]](#_F891) Ibid.  
-  
-
-  
-
-  
 
 2. Ibrāhim Bin Abū al-Bilād
 ---------------------------
@@ -299,11 +262,6 @@ them and putting a big book on his eyes. He
 [[1]](#_F892) Al-Najāshi, Rijāl.  
  [[2]](#_F893) Ibid.  
  [[3]](#_F894) Ibid.  
-  
-
-  
-
-  
 
 wept until his tears flowed down his cheeks, so l said to him: May I be
 your ransom, your father, perhaps, said to me in one session several
@@ -352,11 +310,6 @@ Visitation of Abū al-Hasan, 'Ali b. Mūsā, peace be on him.
 every Month.  
  [[4]](#_F898) Al-Najāshi.  
  [[5]](#_F899) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 The first (premise) is that he was the agent of Imām al-Ridā, peace be
 on him. The second (premise) is that they (the Imāms) did not appoint
@@ -391,8 +344,6 @@ Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him. Shaykh al-Māmaqāni said: His state is unknown to us,
 and knowledge belongs to Allah.[[4]](#_ftn903)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F900) Mu'jam Rijāl al-Hadith, vol. 1, p. 91.  
@@ -403,11 +354,6 @@ districts of the river of 'Īsā. There were four leagues between it and
 Baghdad. Beside it there was a great, high hill which could be seen five
 leagues away. This has been mentioned in *Marāsid al-Ittilā'*  
  [[4]](#_F903) Tanqih al-Maqāl.  
-  
-
-  
-
-  
 
 10. Ibrāhim Bin Sālih
 ---------------------
@@ -442,8 +388,6 @@ women, the heroine of Karbalā, the lady Zaynab, peace be on her. Shaykh
 al-Tūsi numbered him as one of the companions of Imām al-Ridā, peace be
 on him.[[6]](#_ftn909)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F904) Al-Tūsi, Rijāl.  
@@ -453,11 +397,6 @@ namat meaning a woolen garment with soft velvet put on the howdah.
  [[4]](#_F907) Al-Tūsi, Rijāl.  
  [[5]](#_F908) Al-Tūsi, al-Fihrast.  
  [[6]](#_F909) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 13. Ibrāhim Bin Mohammed
 ------------------------
@@ -496,8 +435,6 @@ said: He performed the hajj forty times.[[7]](#_ftn916)
 He narrated on the authority of Imām Abū al-Hasan al-Ridā, peace be on
 him, and Mohammed b. Hamza reported on his authority.[[8]](#_ftn917)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F910) Al-Najāshi.  
@@ -508,11 +445,6 @@ him, and Mohammed b. Hamza reported on his authority.[[8]](#_ftn917)
  [[6]](#_F915) Al-Barqi, Rijāl.  
  [[7]](#_F916) Al-Kashi.  
  [[8]](#_F917) Mu'jam Rijāl al-Hadith, vol. 1, p. 162.  
-  
-
-  
-
-  
 
 18. Ibrāhim Bin Hāshim
 ----------------------
@@ -547,8 +479,6 @@ Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[7]](#_ftn924) He narrated on the authority of Yunus,
 and Ahmed b. Mohammed reported on his authority.[[8]](#_ftn925)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F918) Al-Najāshi.  
@@ -560,11 +490,6 @@ and Ahmed b. Mohammed reported on his authority.[[8]](#_ftn925)
  [[7]](#_F924) Al-Tūsi, Rijāl.  
  [[8]](#_F925) Al-Tahdhib, vol. 1, Chapter on Dictating to those near to
 Death.  
-  
-
-  
-
-  
 
 22. Ahmed Bin Āmir
 ------------------
@@ -610,11 +535,6 @@ Ahmed said: I was with Imām al-Ridā and spent the evening with him. He
 
 [[1]](#_F926) Al-Najāshi.  
  [[2]](#_F927) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 him, said to me: Dont leave, for you have entered into evening. He
 (Ahmed) said: I stayed with him, and he said to his slave-girl: Fetch my
@@ -651,8 +571,6 @@ He has books. The following are some of them:
 1. Kitāb Fadl al-Nabi (the Book of the Excellence of the Prophet, may
 Allah bless him and his family).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F928) In another account: "So I said: Praise belongs to Allah,
@@ -661,11 +579,6 @@ intimate with me...."
  [[2]](#_F929) Mu'jam Rijāl al-Hadith, pp. 237-239.  
  [[3]](#_F930) Al-Tūsi, Rijāl.  
  [[4]](#_F931) Taqrib al-Tahdhib. Tarjama fi Tahdhib al-Tahdhib.  
-  
-
-  
-
-  
 
 2. Kitāb al-Mutta (the Book of Fixed-term Marriage).
 
@@ -715,11 +628,6 @@ al-Ashari, al-Qummi. Shaykh al-Tūsi numbered him as one of
 [[1]](#_F932) Al-Kashi.  
  [[2]](#_F933) Al-Tūsi, Rijāl.  
  [[3]](#_F934) Mu'jam Rijāl al-Hadith, vol. 3,  p. 9.  
-  
-
-  
-
-  
 
 the companions of Imām Abū al-Hasan al-Ridā, peace be on him. He is
 reliable, and he narrated on tradition on His (the Imāms) 
@@ -758,8 +666,6 @@ one of the companions of Imām al-Ridā, peace be on him.[[6]](#_ftn940)
 al-Hudayni. Shaykh al-Tūsi numbered him as one of the companions of Imām
 al-Ridā, peace be on him.[[7]](#_ftn941)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F935) Al-Najāshi.  
@@ -769,11 +675,6 @@ al-Ridā, peace be on him.[[7]](#_ftn941)
  [[5]](#_F939) Al-Kashi.  
  [[6]](#_F940) Al-Tūsi, Rijāl.  
  [[7]](#_F941) Ibid.  
-  
-
-  
-
-  
 
 37. Ishāq Bin Imām Mūsā
 -----------------------
@@ -818,8 +719,6 @@ of Abū Yaqūb. He is trustworthy and reliable. He was one of the
 companions of Imām al-Ridā, peace be on him. He wrote a group of books.
 The following are some of them:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F942) Ibid.  
@@ -827,11 +726,6 @@ The following are some of them:
  [[3]](#_F944) Al-Barqi.  
  [[4]](#_F945) Mu'jam Rijāl al-Hadith, vol. 3,  p. 158.  
  [[5]](#_F946) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 1. Al-Malāhim (Bloody Fights).
 
@@ -874,19 +768,12 @@ traditionalists) reported the book on his authority.[[3]](#_ftn949)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[4]](#_ftn950)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F947)Al-Kashi.  
  [[2]](#_F948) Mu'jam Rijāl al-Hadith, vol. 3,  pp. 188-189.   
  [[3]](#_F949) Al-Najāshi.  
  [[4]](#_F950) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 45. Aflah Bin Zayd
 ------------------
@@ -926,8 +813,6 @@ He was the retainer of Hamza b. al-Yasa al-Ashari. He is trustworthy.
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[6]](#_ftn956)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F951) Ibid.  
@@ -936,11 +821,6 @@ peace be on him.[[6]](#_ftn956)
  [[4]](#_F954) Al-Tūsi, Rijāl.  
  [[5]](#_F955) Al-Kashi.  
  [[6]](#_F956)Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 50. Bakr Bin Sālih
 ------------------
@@ -992,11 +872,6 @@ Shaykh al-Tūsi said: He has a book; the book is ascribed to
  [[4]](#_F960) Al-Tūsi, Rijāl.  
  [[5]](#_F961) Ibid.  
  [[6]](#_F962) Al-Najāshi.  
-  
-
-  
-
-  
 
 Jafar b. Mohammed, peace be on him, and the narration of Imām Ali b.
 Mūsā al-Ridā, peace be on him.[[1]](#_ftn963)
@@ -1034,8 +909,6 @@ him.[[6]](#_ftn968)
 In the Chapter on Kunā, Shaykh al-Tūsi numbered him as one of the
 companions of Imām al-Ridā, peace be on him.[[7]](#_ftn969)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F963) Al-Tūsi, Rijāl.  
@@ -1045,11 +918,6 @@ companions of Imām al-Ridā, peace be on him.[[7]](#_ftn969)
  [[5]](#_F967) Mu'jam Rijāl al-Hadith, vol. 4, p. 92.  
  [[6]](#_F968) Al-Tūsi, Rijāl.  
  [[7]](#_F969) Ibid.  
-  
-
-  
-
-  
 
 58. Al-Hasan Bin Ibrāhim al-Kūfi
 --------------------------------
@@ -1095,8 +963,6 @@ He has a book.[[6]](#_ftn975)
 He was one of the companions of Imām al-Ridā, peace be on
 him.[[7]](#_ftn976)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F970) Ibid.  
@@ -1106,11 +972,6 @@ him.[[7]](#_ftn976)
  [[5]](#_F974) Abū Dāwud, Rijāl.  
  [[6]](#_F975) Al-Najāshi.  
  [[7]](#_F976)Mu'jam Rijāl al-Hadith, vol. 4, p. 304.   
-  
-
-  
-
-  
 
 65. Al-Hasan Bin al-Husayn al-Anbāri
 ------------------------------------
@@ -1162,11 +1023,6 @@ peace be on him, and complained to him of the alienation of the
  [[3]](#_F979) Al-Tūsi, Rijāl.  
  [[4]](#_F980) Ibid.  
  [[5]](#_F981) Ibid.  
-  
-
-  
-
-  
 
 people of (Wāsit) and their wrong against me. A group of the Uthmāniya
 harmed me. Hence, he, peace be on him, wrote with his own hand:] Verily,
@@ -1213,11 +1069,6 @@ those whom we have seen or heard about. He goes out
  [[3]](#_F984) Ibid.  
  [[4]](#_F985) Mu'jam Rijāl al-Hadith, vol. 4, p. 382.  
  [[5]](#_F986) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 to the desert and performs a long prostration to the extent that birds
 come and sit on him, for they think that he is a garment or a rag. Wild
@@ -1255,12 +1106,6 @@ believed in the True Religion, may Allah have mercy on him. 
 He has the following books:
 
 1. Kitāb al-Ziyārāt (the Book of Visitations).
-
-  
-
-  
-
-  
 
 2. Kitāb al-Thārāt (the Book of the Revenges).
 
@@ -1314,11 +1159,6 @@ mercy on you, way are you in
 ------------------------------------------------------------------------
 
 [[1]](#_F987) Al-Najāshi.  
-  
-
-  
-
-  
 
 a hurry? Go and copy them. I said to him: I am not safe from mishaps. He
 said: If I had known that this tradition would be sought in such a
@@ -1361,19 +1201,12 @@ He was the retainer of Taym Allah b. Tha'laba and was from Kūfā. Shaykh
 al-Tūsi numbered him as one of the companions of Imām al-Ridā, peace be
 on him.[[4]](#_ftn991)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F988) Ibid.  
  [[2]](#_F989) Ibid.  
  [[3]](#_F990) Mu'jam Rijāl al-Hadith, vol. 5, p. 678.  
  [[4]](#_F991) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 80. Al-Hasan Bin Ali al-Washshā
 -------------------------------
@@ -1422,11 +1255,6 @@ him, replied. He (al-Hasan b. al-Qāsim) said:
  [[3]](#_F994) Mu'jam Rijāl al-Hadith, vol. 5, p. 88.  
  [[4]](#_F995) Ibid., p. 93.  
  [[5]](#_F996) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 Shortly after that, the sick person recovered and buried his brother,
 who was sound with them. After that al-Hasan realized the True Religion
@@ -1476,18 +1304,11 @@ age of seventy-five, in the year 224 A. H.[[2]](#_ftn998)
 b. Abū Tallha. Shaykh al-Tūsi numbered him as one of the companions of
 Imām al-Ridā, peace be on him.[[3]](#_ftn999)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F997) Al-Kashi, Rijāl.  
  [[2]](#_F998) Ibid.  
  [[3]](#_F999) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 87. Al-Hasan Bin Mohammed
 -------------------------
@@ -1527,8 +1348,6 @@ peace be on him.[[5]](#_ftn1004)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[6]](#_ftn1005)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1000) Al-Najāshi.  
@@ -1538,11 +1357,6 @@ Visitation of Abū al-Hasan Mūsā.
  [[4]](#_F1003) Ibid., p. 151.  
  [[5]](#_F1004) Al-Tūsi, Rijāl.  
  [[6]](#_F1005) Ibid.  
-  
-
-  
-
-  
 
 93. Al-Hasan al-Taflisi
 -----------------------
@@ -1581,18 +1395,11 @@ after the six months was not old. Then he left the Imām, peace be on
 him. Shortly after that, poverty and affliction befell
 him.[[3]](#_ftn1008)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1006) Ibid.  
  [[2]](#_F1007) Ibid.  
  [[3]](#_F1008) Al-Kashi.  
-  
-
-  
-
-  
 
 96. Al-Husayn Bin Bashshār al-Wāsiti
 ------------------------------------
@@ -1634,17 +1441,10 @@ Yes, al-Husayn replied.[[1]](#_ftn1009)
 He narrated on the authority of Imām al-Ridā, peace be on him, and Ahmed
 b. Mohammed reported on his authority.[[2]](#_ftn1010)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1009) Ibid.  
  [[2]](#_F1010) Mu'jam Rijāl al-Hadith, vol. 5, p. 208.  
-  
-
-  
-
-  
 
 98. AL-Husayn Bin al-Jahm
 -------------------------
@@ -1667,13 +1467,10 @@ him, said: Cling to well-being wherever you find it. He (al-Husayn) was
 not satisfied with that. He went out and headed for al-Awad. However, he
 was attacked and all his money was robbed on a highway.[[4]](#_ftn1014)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1011) Al-Tūsi, Rijāl.  
  [[2]](#_F1012) Mu'jam Rijāl al-Hadith, vol. 5, p. 214.  
  [[3]](#_F1013) Al-Tūsi, Rijāl.  
  [[4]](#_F1014) Al-Kashi.  
-  
 

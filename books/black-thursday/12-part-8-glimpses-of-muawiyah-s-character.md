@@ -672,4 +672,3 @@ And his wife, the bearer of firewood.
 
 [^15]: Nahjul Balagha, Letter 28
 
-

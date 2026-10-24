@@ -676,4 +676,3 @@ devoid of the human sentiments also as they lacked religious sentiments.
 The proof of this was the arrow which left the bow and settled in the
 throat of the child and the child met martyrdom.
 
-

@@ -165,7 +165,6 @@ Allah's custom. (35:43)"
 "And they ask thee to hasten on the Punishment! Behold! Allah shall
 never break His Promise. (22:47)"
 
-
 **Our Destiny**
 
 **The Sunnis have narrated:**
@@ -516,5 +515,4 @@ this world and in the Hereafter, nor will they have anyone to help.
 "Let not their wealth nor their children dazzle thee: in reality Allah
 intends to punish them with these things in this life, and that their
 souls may perish in the state of disbelief. (9:55)"
-
 

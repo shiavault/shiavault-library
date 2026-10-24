@@ -464,4 +464,3 @@ Consequently, bewilderment, going astray, and deviation from the
 straight path are the most important marks of *\`Jahiliyah*' from which
 man suffered too much crises and endured their pains.
 
-

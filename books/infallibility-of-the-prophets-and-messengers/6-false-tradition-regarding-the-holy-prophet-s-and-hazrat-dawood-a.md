@@ -697,4 +697,3 @@ Pg.765, Al Isabah Vol.4, Pg.415-417, Biogrpahy no.1145.
 
 [^16]: Spinster or Bachelor
 
-

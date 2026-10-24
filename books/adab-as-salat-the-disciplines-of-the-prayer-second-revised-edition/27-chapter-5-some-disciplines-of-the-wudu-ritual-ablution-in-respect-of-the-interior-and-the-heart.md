@@ -205,4 +205,3 @@ pages.
 
 [^6]: Misbāh ash-Sharī'ah, ch. 10 on “Purity”.
 
-

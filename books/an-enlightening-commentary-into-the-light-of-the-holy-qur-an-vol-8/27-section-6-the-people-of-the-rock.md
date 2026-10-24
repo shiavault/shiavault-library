@@ -4,17 +4,9 @@ Section 6: The People of the Rock
 Surah Al-Hijr – Verses 80 - 81
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وءَاتَيْنَاهُمْ ءَايَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ
-  </p>
-</blockquote>
+> وءَاتَيْنَاهُمْ ءَايَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ
 
 ***80. “And indeed the inhabitants of Hijr (also) rejected the
 messengers.”***  
@@ -53,23 +45,11 @@ them.
 Surah Al-Hijr – Verses 82 - 84
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتاً ءَامِنِينَ
-  </p>
-</blockquote>
+> وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتاً ءَامِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ
-  </p>
-</blockquote>
+> فَاَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَآ أَغْنَي عَنْهُم مَّا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> فَمَآ أَغْنَي عَنْهُم مَّا كَانُوا يَكْسِبُونَ
 
 ***82. “And they used to hew secure houses in the mountains.”***  
 ***83. “So the (violent) blast overtook them in the morning.”***  
@@ -113,18 +93,10 @@ The verse says:
 Surah Al-Hijr – Verses 85 - 86
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْنَا السَّمَاوَاتِ وَالاَرْضَ وَمَا بَيْنَهُمَآ إِلاَّ
-بِالْحَقّ‌ِ وإِنَّ السَّاعَةَ لاَتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ
-  </p>
-</blockquote>
+> وَمَا خَلَقْنَا السَّمَاوَاتِ وَالاَرْضَ وَمَا بَيْنَهُمَآ إِلاَّ
+> بِالْحَقّ‌ِ وإِنَّ السَّاعَةَ لاَتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ هُوَ الْخَلاَّقُ الْعَلِيمُ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ هُوَ الْخَلاَّقُ الْعَلِيمُ
 
 ***85. “And We did not create the heavens and the earth and what is
 between them two but with truth; and verily the Hour (of resurrection)
@@ -193,12 +165,8 @@ It says:
 Surah Al-Hijr – Verse 87
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَاكَ سَبْعاً مِنَ الْمَثَانِي وَالْقُرْءَانَ
-الْعَظِيمَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَاكَ سَبْعاً مِنَ الْمَثَانِي وَالْقُرْءَانَ
+> الْعَظِيمَ
 
 ***87. “And indeed We have given you seven of the oft-repeated (verses)
 (Surah Al-Hamd) and the Grand Qur’an.”***
@@ -284,13 +252,9 @@ verses amounts to seven.
 Surah Al-Hijr – Verse 88
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَمُدَّنَّ عَيْنَيْكَ إِلَي مَا مَتَّعْنَا بِهِ أَزْوَاجاً
-مّـِنْهُمْ وَلاَ تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ
-لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> لاَ تَمُدَّنَّ عَيْنَيْكَ إِلَي مَا مَتَّعْنَا بِهِ أَزْوَاجاً
+> مّـِنْهُمْ وَلاَ تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ
+> لِلْمُؤْمِنِينَ
 
 ***88. “(O’ prophet!) Do not strain your eyes after what we have given
 certain classes of them to enjoy, and do not grieve for them, and lower
@@ -354,23 +318,11 @@ him.
 Surah Al-Hijr – Verses 89 - 91
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ إِنّـِي أَنَا النَّذِيرُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَقُلْ إِنّـِي أَنَا النَّذِيرُ الْمُبِينُ
 
-<blockquote dir="rtl">
-  <p>
-كَمَآ أَنزَلْنَا عَلَي الْمُقْتَسِمِينَ
-  </p>
-</blockquote>
+> كَمَآ أَنزَلْنَا عَلَي الْمُقْتَسِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ جَعَلُوا الْقُرْءَانَ عِضِينَ
-  </p>
-</blockquote>
+> الَّذِينَ جَعَلُوا الْقُرْءَانَ عِضِينَ
 
 ***89. “And say: ‘Verily I am the manifest Warner’.”***  
 ***90. “(We shall send them chastisement) as We sent down on the
@@ -430,17 +382,9 @@ from the side of Allah.
 Surah Al-Hijr – Verses 92 - 93
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَوَرَبّـِكَ لَنَسْاَلَنَّهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> فَوَرَبّـِكَ لَنَسْاَلَنَّهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-عَمَّا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> عَمَّا كَانُوا يَعْمَلُونَ
 
 ***92. “So, by your Lord, We shall surely question them all (in the
 Hereafter),”***  
@@ -480,24 +424,12 @@ factors in the awakening process.
 Surah Al-Hijr – Verses 94 - 96
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ
-  </p>
-</blockquote>
+> إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَهاً ءَاخَرَ فَسَوْفَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَهاً ءَاخَرَ فَسَوْفَ
+> يَعْلَمُونَ
 
 ***94. “Therefore, declare openly what you are bidden and turn you away
 from the polytheists.”***  
@@ -570,23 +502,11 @@ of which they want to make an object of ridicule out of you.
 Surah Al-Hijr – Verses 97 - 99
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَسَبّـِحْ بِحَمْدِ رَبّـِكَ وَكُن مّـِنَ السَّاجِدِينَ
-  </p>
-</blockquote>
+> فَسَبّـِحْ بِحَمْدِ رَبّـِكَ وَكُن مّـِنَ السَّاجِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدْ رَبَّكَ حَتَّي يَأْتِيَكَ الْيَقِينُ
-  </p>
-</blockquote>
+> وَاعْبُدْ رَبَّكَ حَتَّي يَأْتِيَكَ الْيَقِينُ
 
 ***97. “And (O’ prophet!) We certainly know your breast is straitened by
 what they say.”***  
@@ -684,5 +604,4 @@ process, or they have not grasped the full meaning of worshipping.
 [^4]: Tafsir-us-Safi
 
 [^5]: Tafsir-Kanz-ud-Daqayiq
-
 

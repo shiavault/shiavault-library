@@ -197,4 +197,3 @@ well-planned conspiracy of Western imperialism, intellectually supported
 by Orientalists and Western educators with a view to break Muslim
 unity.
 
-

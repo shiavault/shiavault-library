@@ -427,4 +427,3 @@ the mother, sister or daughter of this boy.
 
 [^12]: Wasa’il ul-Shia
 
-

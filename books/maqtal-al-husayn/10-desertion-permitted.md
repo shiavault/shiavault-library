@@ -523,4 +523,3 @@ majlis 15.
 
 [^10]: al-Tabari, Tarikh, Vol. 6, p. 255.
 
-

@@ -280,7 +280,5 @@ Is it (then that) the judgement of (the times of pagan) ignorance they
 desire? And who (else) can be better than Allah to judge for a people of
 assured faith. [ 5 : 50 ]
 
-
 The End of Chapet 4
-
 

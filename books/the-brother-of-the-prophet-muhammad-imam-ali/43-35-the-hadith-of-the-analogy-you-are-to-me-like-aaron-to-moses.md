@@ -422,4 +422,3 @@ Al-Fairouzabadi Fadha-Il Al-Khamsah part 1 p. 312)
 [^20]: Al-Muttaqi Al-Hindi Kanz Al-Ummal part 5 p. 40 (Al-Fairouzabadi
 Fadha-Il Al-Khamsah part 1 p. 311.
 
-

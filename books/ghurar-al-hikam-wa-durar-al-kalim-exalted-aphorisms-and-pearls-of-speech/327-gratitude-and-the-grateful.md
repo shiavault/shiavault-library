@@ -16,11 +16,7 @@ its [increase in the] future.
 lasts while the good action comes to an end.
 
 > 3ـ اَلشُّكْرُ أعْظَمُ قَدْراً مِنَ المَعْرُوفِ، لأنَّ الشُّكْرَ يَبْقى
-<blockquote dir="rtl">
-  <p>
-والمََعْرُوفَ يَفْنى.
-  </p>
-</blockquote>
+> والمََعْرُوفَ يَفْنى.
 
 4. Be grateful and you will increase.
 
@@ -39,11 +35,7 @@ delighted by it.
 for verily this is one of the gates [and means] of gratitude.
 
 > 7ـ أكْثِرِ النَّظَرَ إلى مَنْ فُضِّلْتَ عَلَيْهِ، فَإنَّ ذلِكَ مِنْ
-<blockquote dir="rtl">
-  <p>
-أبْوابِ الشُّكرِ.
-  </p>
-</blockquote>
+> أبْوابِ الشُّكرِ.
 
 8. Be grateful to the one who favours you and favour the one who is
 grateful to you, for indeed there is no end to favours when they are
@@ -51,32 +43,20 @@ appreciated and there is no continuation for them when they are
 unappreciated.
 
 > 8ـ أُشْكُرْ مَنْ أنْعَمَ عَلَيْكَ، وأنْعِمْ على مَنْ شَكَرَكَ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُ لازَوالَ لِلنِّعْمَةِ إذا شُكِرَتْ، ولابَقاءَ لَها إذا
-كُفِرَتْ.
-  </p>
-</blockquote>
+> فَإنَّهُ لازَوالَ لِلنِّعْمَةِ إذا شُكِرَتْ، ولابَقاءَ لَها إذا
+> كُفِرَتْ.
 
 9. Let the recompense for the blessing which has come upon you be the
 showing of goodness to one who wrongs you.
 
 > 9ـ اِجْعَلْ جَزاءَ النِّعْمَةِ عَلَيْكَ الاَحْسانَ إلى مَنْ أساءَ
-<blockquote dir="rtl">
-  <p>
-إلَيْكَ.
-  </p>
-</blockquote>
+> إلَيْكَ.
 
 10. Be good neighbours to the blessings of religion and this world by
 showing gratitude to the one who guides you to them.
 
 > 10ـ أحْسِنُوا جُوارَ نِعَمِ الدّينِ والدُّنيا بِالشُّكْرِ لِمَنْ دَلَّ
-<blockquote dir="rtl">
-  <p>
-(دَلَّكُم)عَلَيْها.
-  </p>
-</blockquote>
+> (دَلَّكُم)عَلَيْها.
 
 11. Take advantage of gratitude, for the least of its benefits is
 increment [of blessings].
@@ -107,32 +87,20 @@ the Glorified, is being grateful for His blessings and seeking His
 pleasure.
 
 > 16ـ أوَّلُ ما يَجِبُ عَلَيْكُمْ لِلّهِ سُبْحانَهُ شُكْرُ أياديِهِ،
-<blockquote dir="rtl">
-  <p>
-وابْتِغاءُ مَراضيهِ.
-  </p>
-</blockquote>
+> وابْتِغاءُ مَراضيهِ.
 
 17. The most effective thing that makes a blessing last longer is
 gratitude and the greatest thing by which tribulations are overcome is
 patience.
 
 > 17ـ أبْلَغُ ما تُسْتَمَدُّ بِهِ النِّعْمَةُ الشُّكْرُ، وأعْظَمُ ما
-<blockquote dir="rtl">
-  <p>
-تَمَحَّصَ بِهِ المِحْنَةُ الصَّبْرُ.
-  </p>
-</blockquote>
+> تَمَحَّصَ بِهِ المِحْنَةُ الصَّبْرُ.
 
 18. The most deserving of people for an increase in blessing is the most
 grateful of them for what he has been granted of it.
 
 > 18ـ أحَقُّ النّاسِ بِزيادَةِ النِّعْمَةِ، أشْكَرُهُمْ لِما أُعْطِيَ
-<blockquote dir="rtl">
-  <p>
-مِنْها.
-  </p>
-</blockquote>
+> مِنْها.
 
 19. The most beloved of people to Allah, the Glorified, is the one who
 deals gratefully with the blessings that have been bestowed upon him and
@@ -140,12 +108,8 @@ the most hated of them to Him is the one who deals ungratefully with His
 blessings.
 
 > 19ـ أحَبُّ النّاسِ إلَى اللّهِ سُبْحانَهُ العامِلُ فيما أنْعَمَ بِهِ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ بِالشُّكْرِ، وَأبْغَضُهُمْ إلَيْهِ اَلعامِلُ في نِعَمِهِ
-بِكُفْرِها.
-  </p>
-</blockquote>
+> عَلَيْهِ بِالشُّكْرِ، وَأبْغَضُهُمْ إلَيْهِ اَلعامِلُ في نِعَمِهِ
+> بِكُفْرِها.
 
 20. No one acquires gratitude except by giving [generously] from his
 wealth.
@@ -157,22 +121,14 @@ Most High, so whoever fulfils it, He increases it for him and whoever
 does not do so risks losing his blessing.
 
 > 21ـ إنَّ لِلّهِ تعالى في كُلِّ نِعْمَة حَقّاً مِنَ الشُّكْرِ، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-أدّاهُ زادَهُ مِنْها، وَمَنْ قَصَّرَ عَنْهُ خاطَرَ بِزَوالِ
-نِعْمَتِهِ.
-  </p>
-</blockquote>
+> أدّاهُ زادَهُ مِنْها، وَمَنْ قَصَّرَ عَنْهُ خاطَرَ بِزَوالِ
+> نِعْمَتِهِ.
 
 22. Verily the servant is [always] between blessing and sin, [and]
 nothing rectifies [or improves] them except repentance and gratitude.
 
 > 22ـ إنَّ العَبْدَ بَيْنَ نِعْمَة وذَنْب لايُصْلِحُهُما إلاّ
-<blockquote dir="rtl">
-  <p>
-الاِسْتِغْفارُ وَالشُّكْرُ.
-  </p>
-</blockquote>
+> الاِسْتِغْفارُ وَالشُّكْرُ.
 
 23. Gratitude is [a means of] increment.
 
@@ -227,13 +183,9 @@ and other disobedient people; and to make the gratitude for their good
 state prevail over them and act as a barrier for them.
 
 > 34ـ إنَّما يَنْبَغي لأهْلِ الْعِصْمَةِ والْمَصْنُوعِ إلَيْهِمْ فِي
-<blockquote dir="rtl">
-  <p>
-السَّلامَةِ أنْ يَرْحَمُوا أهْلَ المَعْصِيَةِ والذُّنُوبِ، وأنْ
-يَكُونَ الشُّكْرُ على مُعافاتِهِمْ هُوَ الغالِبَ عَلَيْهِمْ وَالحاجِزَ
-لَهُمْ.
-  </p>
-</blockquote>
+> السَّلامَةِ أنْ يَرْحَمُوا أهْلَ المَعْصِيَةِ والذُّنُوبِ، وأنْ
+> يَكُونَ الشُّكْرُ على مُعافاتِهِمْ هُوَ الغالِبَ عَلَيْهِمْ وَالحاجِزَ
+> لَهُمْ.
 
 35. When you are given, show gratitude.
 
@@ -248,11 +200,7 @@ bestowed with], then you have shown gratitude for it.
 by lack of gratitude.
 
 > 37ـ إذا وَصَلَتْ إلَيْكُمْ أطْرافُ النِّعَمِ فَلا تُنَفِّرُوا أقْصاها
-<blockquote dir="rtl">
-  <p>
-بِقِلَّةِ الشُّكْرِ.
-  </p>
-</blockquote>
+> بِقِلَّةِ الشُّكْرِ.
 
 38. Through gratitude, blessing lasts.
 
@@ -282,11 +230,7 @@ by lack of gratitude.
 sustenance and prolongs [one’s] life.
 
 > 44ـ زِيادَةُ الشُّكْرِ وَصِلَةُ الرَّحِمِ تَزيدانِ النِّعَمَ،
-<blockquote dir="rtl">
-  <p>
-وتَفْسَحانِ فِي الأجَلِ.
-  </p>
-</blockquote>
+> وتَفْسَحانِ فِي الأجَلِ.
 
 45. The cause of increment is gratitude.
 
@@ -357,11 +301,7 @@ ingratitude for it is evidence of its reduction.
 it and his sharing it with the one who deserves it.
 
 > 60ـ شُكْرُ العالِمِ عَلى عِلْمِهِ عَمَلُهُ بِهِ وبَذْلُهُ
-<blockquote dir="rtl">
-  <p>
-لِمُسْتَحَقِّهِ.
-  </p>
-</blockquote>
+> لِمُسْتَحَقِّهِ.
 
 61. Your gratitude to the one who is pleased with you increases [his]
 approval and loyalty (or preservation) towards you.
@@ -372,11 +312,7 @@ approval and loyalty (or preservation) towards you.
 reconciliation and his having a favorable disposition towards you.
 
 > 62ـ شُكْرُكَ لِلْسّاخِطِ عَلَيْكَ يُوجِبُ لَكَ (مِنْهُ)صَلاحاً
-<blockquote dir="rtl">
-  <p>
-وتَعَطُّفاً.
-  </p>
-</blockquote>
+> وتَعَطُّفاً.
 
 63. He (‘a) said to a man whom he was congratulating for the birth of
 his son: You have occasion to be grateful to Allah, the Giver, and be
@@ -384,22 +320,14 @@ blessed in the gift that you have been bestowed with. May he come of age
 and may you be blessed with his devotion.
 
 > 63ـ وقالَ ـ عَليه السّلام ـ لِرَجُل هَنَّأَهُ بِوَلَد شَكَرْتَ
-<blockquote dir="rtl">
-  <p>
-الواهِبَ وبُورِكَ لَكَ فِي المَوْهُوبِ، وَبَلَغَ أشُدَّهُ وَرُزِقْتَ
-بِرَّهُ.
-  </p>
-</blockquote>
+> الواهِبَ وبُورِكَ لَكَ فِي المَوْهُوبِ، وَبَلَغَ أشُدَّهُ وَرُزِقْتَ
+> بِرَّهُ.
 
 64. He who praises his benefactor and mentions him with goodness [and
 appreciation] has shown gratitude for [his] kindness.
 
 > 64ـ شَكَرَ الإحْسانَ مَنْ أثْنى على مُسْديهِ وذَكَرَ بِالجَميلِ
-<blockquote dir="rtl">
-  <p>
-مُولِيَهُ.
-  </p>
-</blockquote>
+> مُولِيَهُ.
 
 65. You must give thanks [both] in ease and adversity.
 
@@ -409,11 +337,7 @@ appreciation] has shown gratitude for [his] kindness.
 [qualities] increase blessing and remove tribulations.
 
 > 66ـ عَلَيْكُمْ بِدَوامِ الشُّكْرِ، ولُزُومِ الصَّبْرِ، فَإنَّهُما
-<blockquote dir="rtl">
-  <p>
-يَزيدانِ النِّعْمَةَ، وَيُزيلانِ المِحْنَةَ.
-  </p>
-</blockquote>
+> يَزيدانِ النِّعْمَةَ، وَيُزيلانِ المِحْنَةَ.
 
 67. In gratitude for blessings lies their continuity.
 
@@ -431,11 +355,7 @@ appreciation] has shown gratitude for [his] kindness.
 that escapers comes back.
 
 > 70ـ قَيِّدُوا قَوادِمَ النِّعَمِ بِالشُّكْرِ، فَما كُلُّ شارِد
-<blockquote dir="rtl">
-  <p>
-بِمَرْدُود.
-  </p>
-</blockquote>
+> بِمَرْدُود.
 
 71. Gratitude is sufficient for increase.
 
@@ -449,11 +369,7 @@ that escapers comes back.
 that which has afflicted others.
 
 > 73ـ لِيَكُنِ الشُّكْرُ شاغِلاً لَكَ عَلى مُعافاتِكَ مِمَّا ابْتُلِيَ
-<blockquote dir="rtl">
-  <p>
-بِهِ غَيْرُكَ.
-  </p>
-</blockquote>
+> بِهِ غَيْرُكَ.
 
 74. None is capable of fortifying blessings the way [showing] gratitude
 for them does.
@@ -465,11 +381,7 @@ are disobedient], it would have still been obligatory not to disobey Him
 out of gratitude for His blessings.
 
 > 75ـ لَوْ لَمْ يَتَواعَدِ اللّهُ سُبْحانَهُ لَوَجَبَ أنْ لا يُعْصى
-<blockquote dir="rtl">
-  <p>
-شُكْراً لِنِعْمَتِهِ.
-  </p>
-</blockquote>
+> شُكْراً لِنِعْمَتِهِ.
 
 76. One who shows gratitude deserves more.
 
@@ -512,11 +424,7 @@ fulfilled its right.
 then do not consider yourself safe from his censure without any breach.
 
 > 84ـ مَنْ شَكَرَكَ مِنْ غَيْرِ صَنيعَة فَلا تَأمَنْ ذَمَّهُ مِنْ غَيْرِ
-<blockquote dir="rtl">
-  <p>
-قَطيعَة.
-  </p>
-</blockquote>
+> قَطيعَة.
 
 85. Whoever thanks the one who favours him has indeed recompensed him.
 
@@ -546,11 +454,7 @@ more [blessings].
 has indeed exposed them to cessation.
 
 > 90ـ مَنْ لَمْ يُحِطِ النِّعَمَ بِالشُّكْرِ لَها فَقَدْ عَـرَّضَها
-<blockquote dir="rtl">
-  <p>
-لِزَوالِها.
-  </p>
-</blockquote>
+> لِزَوالِها.
 
 91. Whoever thanks Allah, He increases [the blessings] for him.
 
@@ -560,11 +464,7 @@ has indeed exposed them to cessation.
 [even] before he manifests [the gratitude] on his tongue.
 
 > 92ـ مَنْ شَكَرَ النِّعَمَ بِجِنانِهِ اِسْتَحَقَّ المَزيدَ قَبْلَ أنْ
-<blockquote dir="rtl">
-  <p>
-يَظْهَرَ عَلى لِسانِهِ.
-  </p>
-</blockquote>
+> يَظْهَرَ عَلى لِسانِهِ.
 
 93. One whose gratitude increases, his goodness [and blessing]
 increases.
@@ -580,22 +480,14 @@ an end.
 he is freed by his show of gratitude for it.
 
 > 95ـ مَنْ أُوتِيَ نِعْمَةً فَقَدِ اسْتُعْبِدَ بِها حَتّى يُعْتِقَةُ
-<blockquote dir="rtl">
-  <p>
-القِيامُ بِشُكْرِها.
-  </p>
-</blockquote>
+> القِيامُ بِشُكْرِها.
 
 96. One who thanks Allah, the Glorified, has to give thanks twice as it
 was He who enabled him to give thanks [in the first place] and that is
 the gratitude for being thankful.
 
 > 96ـ مَنْ شَكَرَ اللّهَ سُبْحانَهُ وَجَبَ عَلَيْهِ شُكْـرَتانِ، إذ
-<blockquote dir="rtl">
-  <p>
-وَفَّقَهُ لِشُكْرِهِ وهُوَ شُكْرُ الشُّكْرِ.
-  </p>
-</blockquote>
+> وَفَّقَهُ لِشُكْرِهِ وهُوَ شُكْرُ الشُّكْرِ.
 
 97. One who shows gratitude to you for your kindness (or the kindness of
 someone else) has [actually] requested you [for something].
@@ -619,11 +511,7 @@ someone else) has [actually] requested you [for something].
 anyone and then close the door of increase [in blessings].
 
 > 101ـ ما كانَ اللّهُ سُبْحانَهُ لِيَفْتَحَ عَلى أحَد بابَ الشُّكْرِ
-<blockquote dir="rtl">
-  <p>
-ويُغْلِقَ عَلَيْهِ بابَ المَزيد.
-  </p>
-</blockquote>
+> ويُغْلِقَ عَلَيْهِ بابَ المَزيد.
 
 102. With gratitude blessings last [longer].
 
@@ -637,12 +525,7 @@ anyone and then close the door of increase [in blessings].
 times of adversity.
 
 > 104ـ كُنْ فِي السَّـرّاءِ عَبْداً شَكُوراً، وَفِي الضَّـرّاءِ عَبْداً
-<blockquote dir="rtl">
-  <p>
-صَبُوراً.
-  </p>
-</blockquote>
+> صَبُوراً.
 
 [^1]: ...As opposed to hiding one’s wealth and pretending to be poor.
-
 

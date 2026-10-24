@@ -55,4 +55,3 @@ reference to bacteria) takes it as a refuge in which he hides."*[^6]
 
 [^6]: Makarim al-Akhlaq, vol. 1, p. 125.
 
-

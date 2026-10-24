@@ -16,4 +16,3 @@ a. Omer's hobbies               **هواياتُ عمرَ**
 
 b. from Baghdad              **من بغدادَ    **
 
-

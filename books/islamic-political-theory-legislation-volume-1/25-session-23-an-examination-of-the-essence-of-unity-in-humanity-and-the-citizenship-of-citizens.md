@@ -69,13 +69,9 @@ been created to move by our willpower and freewill toward true and
 ultimate perfection. So, we have a general obligation to move along the
 path of perfection, which in Islamic culture is called “worship of God”:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُُبِينٌ ٭ وَأَنِ اعْبُدُونِي
-هَذَا صِرَاطٌ مُسْتَقِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُُبِينٌ ٭ وَأَنِ اعْبُدُونِي
+> هَذَا صِرَاطٌ مُسْتَقِيمٌ﴾
 
 ***“Did I not exhort you, O children of Adam, saying, ‘Do not worship
 Satan. He is indeed your manifest enemy. Worship Me. This is a straight
@@ -83,11 +79,7 @@ path’?”***[^1]
 
 In another verse, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَرْسَلْنَا فِيهِمْ رَسُولاً مِنْهُمْ أَنِ اعْبُدُوا اللَّهَ...﴾
-  </p>
-</blockquote>
+> ﴿فَأَرْسَلْنَا فِيهِمْ رَسُولاً مِنْهُمْ أَنِ اعْبُدُوا اللَّهَ...﴾
 
 ***“And We sent them an apostle from among themselves, saying, ‘Worship
 Allah!’…”***[^2]
@@ -173,11 +165,7 @@ distinctions are the source of difference in duties as well as rights.
 has the choice of being male or female. This has something to do with
 the divine will:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَهَبُ لِمَنْ يَشَآءُ إِنَاثًا وَيَهَبُ لِمَنْ يَشَاءُ الذُّكُورَ﴾
-  </p>
-</blockquote>
+> ﴿يَهَبُ لِمَنْ يَشَآءُ إِنَاثًا وَيَهَبُ لِمَنْ يَشَاءُ الذُّكُورَ﴾
 
 ***“He gives females to whomever He wishes, and gives males to whomever
 He wishes**.”*[^3]
@@ -392,5 +380,4 @@ nationality.
 [^2]: Surah al-Mu’minun 23:32.
 
 [^3]: Surah ash-Shawra 42:49.
-
 

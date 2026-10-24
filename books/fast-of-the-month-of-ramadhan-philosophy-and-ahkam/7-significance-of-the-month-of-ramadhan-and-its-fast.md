@@ -315,4 +315,3 @@ send blessings unto me will (likewise) be distanced from Allah's mercy."
 [^1]: In Arabic, the word "million" does not exist; instead, Arabs use
 "a thousand thousands."
 
-

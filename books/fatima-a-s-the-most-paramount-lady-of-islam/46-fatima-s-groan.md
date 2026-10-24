@@ -26,4 +26,3 @@ over all these hypocrisy, insincerity, as well as the strangeness
 (loneliness) of Islam. Besides, she will be sorrowful if she perceives
 that some of the so-called Muslims follow the wrong models.
 
-

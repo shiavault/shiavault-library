@@ -136,4 +136,3 @@ Give examples of that.
  5. What relation is there between the trial by one’s conscience and the
 great Day of Judgment?
 
-

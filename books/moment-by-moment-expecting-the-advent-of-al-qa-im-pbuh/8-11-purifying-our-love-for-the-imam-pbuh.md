@@ -127,7 +127,6 @@ diplomatic, superficial, and circumstantial relation. If such apparent
 relation would lessen or overshadow our disgust from them in our heart,
 then it should be certainly avoided.
 
-
 **12 Keeping alive the remembrance of the Imam (PBUH)**
 
 One of our important duties during the time of occultation is to
@@ -173,5 +172,4 @@ matter. May Allah have mercy on him who revives our matter? O Fudhail!
 He who remembers us or is reminded about us, and this brings tears to
 his eyes even to the extent of a wing of a fly, Allah will forgive his
 sins even if they are greater than the foam of the sea."[^2]
-
 

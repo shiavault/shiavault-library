@@ -9,4 +9,3 @@ the heavens, so there was no question of their being torn and patched up
 again. The flimsy arguments in this connection have been refuted at
 their appropriate place.
 
-

@@ -245,4 +245,3 @@ Allah, for all He
 
 had done for him.
 
-

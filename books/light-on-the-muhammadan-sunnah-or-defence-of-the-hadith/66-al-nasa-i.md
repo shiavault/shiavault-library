@@ -24,7 +24,7 @@ narration of Ibn Hayat and Ibn al-Ahmar and Ibn Qasim, was called Sunan
 al-Nasa’i al-kabir. Ibn Kathir said: In Sunan al-Nasa’i, we find rijal
 unknown either considerably or in respect of position, among whom we
 find some of defamed reputation (majruh), and in it weak and defective
-and disapproved traditions are found. <span id="_anchor_607"></span>607
+and disapproved traditions are found. 607
 
 There are other books, the reference to which is out of scope here,
 since they (Sunnis) have said: These five books: al-Bukhari, Muslim, Abu
@@ -34,12 +34,11 @@ Messenger’s traditions but so rarely.
 In al-Taqrib (p. 3) al-Nawawi writes: “It is correct to say that only
 very few traditions were missed by the five books. Al-Suyuti, in his
 Alfiyyah, also referred to this. Ibn Khaldun, after discussing
-al-Muwatta’ and these five books, <span id="_anchor_608"></span>608
+al-Muwatta’ and these five books, 608
 said: These are the well-known masanid in faith (millah), and major
 
 reference of books of hadith among the Sunnah, which even when numbering
-many, but most often should be referred to these (five) books. <span
-id="_anchor_609"></span>609
+many, but most often should be referred to these (five) books. 609
 
 Following is a statement uttered by Monsieur Amil Darmengihim in his
 book “Hayat Muhammad” (Life of Muhammad):
@@ -97,8 +96,7 @@ respect of non-ability of human beings – except in very rare cases – to
 narrating whatever coming to their ears literally, or citing the events
 exactly with no any addition or deletion. There may be two persons
 witnessing one and the same event, but each one of them may narrate it
-slightly or much different from the other. <span
-id="_anchor_610"></span>610
+slightly or much different from the other. 610
 
 ### Al-Mustakhrajat
 
@@ -144,7 +142,7 @@ the case in which he exerts much effort for justifying and drawing it
 out, so it would be produced according to the rules through the
 narration of the mustakhrij, when it would be introduced as sahih, while
 claiming that what inflicted the sahih ones was only misconception on
-the part of the narrators. <span id="_anchor_611"></span>611
+the part of the narrators. 611
 
 Ibn al-Salah says: The compiler of the books extracted from al-Bukhari
 and Muslim have never observed agreement of hadith words with those
@@ -158,9 +156,8 @@ al-Sunan al-kubra of al-Bayhaqi, and Sharh al-Sunnah of Abu Muhammad
 al-Baghawi and others, in which they said: ‘It is reported by al-Bukhari
 or Muslim,’ the case in which it would be got that none other than
 al-Bukhari or Muslim has reported the origin of that hadith, with
-probability of presence of difference in meaning between them, <span
-id="_anchor_612"></span>612 in which I actually found some inconsistency
-in denotation. <span id="_anchor_613"></span>613 I will not discuss what
+probability of presence of difference in meaning between them, 612 in which I actually found some inconsistency
+in denotation. 613 I will not discuss what
 these extracted traditions contained of alterations in terms or meanings
 or additions, but they can be sought in their books. Al-Hamidi has
 distinguished these additions to the terms of al-Sahih, by saying, after
@@ -172,7 +169,7 @@ then: Al-Bukhari abridged it and reported only part of it, without
 indicating the portion he was satisfied with, rendering it obscure for
 the reader, the obscurity that can’t be removed but only through
 referring to the origin of the hadith when he would be mostly relieved
-of blame. <span id="_anchor_614"></span>614 And as stated before, they
+of blame. 614 And as stated before, they
 have found fault with many of the traditions reported by al-Bukhari and
 Muslim, beside many suspicions raised in Sharh Ibn Hajar against
 al-Bukhari and by al-Nawawi against Muslim, which were used by them for
@@ -191,11 +188,6 @@ who safeguards its principles and protects its foundations, so as not to
 be
 
 invaded by any alien, nor be scaled by any ill-intentioned impostor.
-
-  
-  
-  
-  
 
 607. Ibid., p. 18.
 

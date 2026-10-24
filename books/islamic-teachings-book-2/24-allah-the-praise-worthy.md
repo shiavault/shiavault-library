@@ -49,4 +49,3 @@ sufficient?
 
 3. In which part of the Holy Qur'an does surah 'al-Hamd' find its place?
 
-

@@ -32,7 +32,6 @@ ideological construction in Islamic society.
 
 (With a success granted by Allah)
 
-
 Al-Balagh Foundation
 
 **Introduction**
@@ -264,5 +263,4 @@ spirit or its direction in life. This Islamic mind must be on a great
 level of purity from all alien elements; those elements which may be
 found in any character and combine in coherence with Islamic thought and
 within a range of a single ideological structure.
-
 

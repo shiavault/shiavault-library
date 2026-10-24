@@ -1,16 +1,12 @@
 Eighth Hadith:  Prejudice (‘Asabiyyah)
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
-بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ النَّوْفَلِيِّ، عَنِ
-السَّكُونِيِّ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ
-رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَنْ كَانَ فِي قَلْبِهِ
-حَبَّةٌ مِنْ خَرْدَلٍ مِنْ عَصَبِيَّةٍ بَعَثَهُ اللهُ يَوْمَ
-القِيَامَةِ مَعَ أَعْرَابِ الجَاهِلِيَّةِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
+> بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ النَّوْفَلِيِّ، عَنِ
+> السَّكُونِيِّ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ
+> رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَنْ كَانَ فِي قَلْبِهِ
+> حَبَّةٌ مِنْ خَرْدَلٍ مِنْ عَصَبِيَّةٍ بَعَثَهُ اللهُ يَوْمَ
+> القِيَامَةِ مَعَ أَعْرَابِ الجَاهِلِيَّةِ.
 
 Muhammad ibn Ya’qub (al-Kulayni), from ‘Ali ibn Ibrahim, from his
 father, from al-Nawfali, from al-Sakuni, who reports on the authority of
@@ -90,12 +86,8 @@ inferred that the vice of *‘asabiyyah* is one of the fatal sins, which
 results in an evil life in the Hereafter and drives man out from the
 precincts of faith, being one of the abominable traits of the Devil:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: مَنْ تَعَصَّبَ أَوْ
-تُعُصِّبَ لَهُ فَقَدْ خَلَعَ رِبْقَةَ الإيمَانِ مِنْ عُنُقِهِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: مَنْ تَعَصَّبَ أَوْ
+> تُعُصِّبَ لَهُ فَقَدْ خَلَعَ رِبْقَةَ الإيمَانِ مِنْ عُنُقِهِ.
 
 [In al-Kafi, through a chain of authentic narrators], it is reported
 from Abu ‘Abd Allah (Imam al-Sadiq (A) that the Prophet (S) said, “The
@@ -112,25 +104,17 @@ detests it, this tradition would not apply to him.
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: مَنْ تَعَصَّبَ
-عَصَبَهُ اللهُ بِعِصَابَةٍ مِنْ نَارٍ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: مَنْ تَعَصَّبَ
+> عَصَبَهُ اللهُ بِعِصَابَةٍ مِنْ نَارٍ.
 
 Imam al-Sadiq (A) is reported to have said, “Whosoever practices
 ‘asabiyyah (against someone), God shall wrap around him (‘asabahu) a
 fold (‘isabah) of Fire.”[^3]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَلِيِّ بْنِ الحُسَيْنِ عَلَيْهِمَا السَّلامُ قَالَ: لَمْ
-يَدْخُلِ الجَنَّةَ حَمِيَّةٌ غَيْرَ حَمِيَّةِ حَمْزَةَ بْنِ عَبْدِ
-المُطَّلِبِ - وَذَلِكَ حِينَ أَسْلَمَ - غَضَباً لِلنَّبِيِّ صَلَّى
-اللهُ عَلَيْهِ وَآلِه.
-  </p>
-</blockquote>
+> عَنْ عَلِيِّ بْنِ الحُسَيْنِ عَلَيْهِمَا السَّلامُ قَالَ: لَمْ
+> يَدْخُلِ الجَنَّةَ حَمِيَّةٌ غَيْرَ حَمِيَّةِ حَمْزَةَ بْنِ عَبْدِ
+> المُطَّلِبِ - وَذَلِكَ حِينَ أَسْلَمَ - غَضَباً لِلنَّبِيِّ صَلَّى
+> اللهُ عَلَيْهِ وَآلِه.
 
 Imam ‘Ali ibn al-Husayn (A) is reported to have said: No hamiyyah shall
 ever enter Paradise, except the hamiyyah of Hamzah ibn ‘Abd al-Muttalib,
@@ -185,12 +169,8 @@ A Prophetic Tradition
 
 The Prophet of God (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ حَسَبٍ وَنَسَبٍ مُنْقَطِعٌ يَوْمَ القِيَامَةِ إلا حَسَبِي
-وَنَسَبِي.
-  </p>
-</blockquote>
+> كُلُّ حَسَبٍ وَنَسَبٍ مُنْقَطِعٌ يَوْمَ القِيَامَةِ إلا حَسَبِي
+> وَنَسَبِي.
 
 All the ties of lineage and affinity will be broken on the Day of
 Resurrection except the ties of my lineage and affinity.
@@ -243,14 +223,10 @@ Bedouins of the pre-Islamic era, as well as the individuals possessing
 the primitive habit of *‘asabiyyah* would be resurrected in the form of
 Satan:
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إنَّ المَلائِكَةَ
-كَانُوا يَحْسَبُونَ أنَّ إبْلِيسَ مِنْهُمْ وَكَانَ فِي عِلْمِ اللهِ
-أَنَّهُ لَيْسَ مِنْهُمْ، فَاسْتَخْرَجَ مَا فِي نَفْسِهِ بِالحَمِيَّةِ
-وَالغَضَبِ فَقَالَ: خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ.
-  </p>
-</blockquote>
+> وَعَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إنَّ المَلائِكَةَ
+> كَانُوا يَحْسَبُونَ أنَّ إبْلِيسَ مِنْهُمْ وَكَانَ فِي عِلْمِ اللهِ
+> أَنَّهُ لَيْسَ مِنْهُمْ، فَاسْتَخْرَجَ مَا فِي نَفْسِهِ بِالحَمِيَّةِ
+> وَالغَضَبِ فَقَالَ: خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ.
 
 (According to a reliable hadith of al-Kafi), Abu ‘Abd Allah (Imam al
 Sadiq) (A) is reported to have said, “Verily, the angels counted Satan
@@ -390,12 +366,8 @@ an evil scholar, a man of knowledge devoid of good deeds, whose
 retribution is a painful chastisement, as described by God Almighty in
 the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-﴿بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ
-وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ
+> وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ.﴾
 
 ***Wretched is the likeness of those who deny the revelations of Allah.
 And Allah guideth not wrongdoing folk.*** (***62:5***)
@@ -463,5 +435,4 @@ Mustafawi), p. 419.
 [^5]: Al-Kulayni, Usul al-Kafi (Intisharat ‘Ilmiyyah Islamiyyah,
 Tehran), vol. III (Arabic text with Persian translation by Sayyid Jawad
 Mustafawi), p. 419.
-
 

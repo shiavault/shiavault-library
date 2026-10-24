@@ -46,7 +46,6 @@ in the field of urbanism, and determine the positive issues that could
 lead to create the right regulations and guidelines for building a
 perfect Islamic state.
 
-
 **Introduction**
 
 The attempt to establish conceptual linkages between urbanism,
@@ -134,5 +133,4 @@ resources , and economic proficiency, based on the social structure of
 the city. The essential urban design qualities include; context,
 accessibility, connectivity, versatility, legibility, compatibility,
 creativity, choice, and collaboration.
-
 

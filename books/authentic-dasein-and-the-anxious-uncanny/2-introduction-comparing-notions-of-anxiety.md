@@ -206,4 +206,3 @@ Munch’s work (Strickland and Boswell, 123)? In relation to the final
 question, Munch’s manipulation of space, color, composition, and texture
 will be thoroughly analyzed.
 
-

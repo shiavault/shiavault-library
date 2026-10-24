@@ -234,4 +234,3 @@ Yes, in the seventh century, the world was blessed by the advent of the
 Final and Universal Prophet Muhammad, who rose from Mecca, the center of
 Arabia, to shine over the East and the West.
 
-

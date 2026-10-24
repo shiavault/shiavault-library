@@ -107,7 +107,6 @@ be carried on a spear and displayed in towns for people to see it! May
 Allah avenge the Prophet's family!!! May Allah avenge the Prophet's
 family!!! May Allah avenge the Prophet's (PBUH&HF) family!!!
 
-
 **The Holy Quran**
 
 Now let us look at the Holy Quran for different categories:
@@ -233,7 +232,6 @@ fault. That is the Grace of Allah, which He will bestow on whom He
 pleaseth. And Allah encompasseth all, And He knoweth all things.
 [5:54]"
 
-
 **The Authentic Traditions**
 
 Before giving more straightforward verses from Quran for this third
@@ -266,7 +264,6 @@ Fount, and after I recognize them, they will then be taken away from me,
 whereupon I will say, 'My companions!' Then it will be said, 'You do not
 know what they innovated (new things) in the religion after you." (also
 Sahih Muslim, part 15, pp 53-54)
-
 
 Sahih al-Bukhari Hadith: 8.585 Narrated Abu Hazim from Sahl bin Sa'd:
 
@@ -638,5 +635,4 @@ that Allah is satisfied with him for ever and unconditionally (no mater
 he kills innocents or does any other wrong thing later), then it means
 that he is no longer under the test of Allah, which is in contradiction
 with several verses of Quran.
-
 

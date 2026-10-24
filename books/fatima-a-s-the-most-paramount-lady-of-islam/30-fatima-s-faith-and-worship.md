@@ -19,9 +19,7 @@ finds a new character.
 
 Fatima’s motto is
 
-<p dir="rtl">
 اغير الله اتخذوا اوليا فاطرالسموات والارض
-</p>
 
 *Can I choose another Lord except Allah, who is the creator of the skies
 and the earth? No, it seems impossible.*
@@ -41,5 +39,4 @@ All her deeds were in the direction of the Divine will, and all her
 deeds were considered as worship: her work, life, housekeeping, taking
 care of children, helping the poor, etc. are all in Allah’s way and for
 Allah’s pleasure.
-
 

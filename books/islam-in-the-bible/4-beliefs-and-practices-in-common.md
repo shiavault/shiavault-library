@@ -387,4 +387,3 @@ remarkably consistent with Islamic belief.
 We shall look at the first pillar of Islamic belief, the be­lief in God,
 with a little more attention.
 
-

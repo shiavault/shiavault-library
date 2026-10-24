@@ -61,7 +61,6 @@ right, and that the bout is approaching~ there is no doubt about it, and
 that Allah shall bring life to those in the graves. I further bear
 witness that the Lord is my God:
 
-
 there is no partner with I-jim, nor a son, nor a father, and I bear
 witness that He does whatever He pleases and is able to do everything
 and is the Doer of what He wills. He humiliates whomsoever He wills and
@@ -73,7 +72,6 @@ describe Your greatness. Lord! I pray You to send blessings unto
 Muhammad (phub) and the progeny of Muhammad (pbuh) and to guide me and
 not to leave me to stray after having guided me, for You guide
 whomsoever You please."
-
 
 **Chapter 29 :Recommended deeds of the twenty-third Night of the Month
 of Ramadhan**
@@ -252,7 +250,6 @@ send blessings unto Muhammad (pbuh) and the progeny of Muhammad, for You
 are Capable of doing so, and not to punish me with the punishment that I
 deserve."
 
-
 **Chapter 30: Zakatul-Fitr**
 
 Zakatul-Fitr is a mandatory religious tax paid by those who can afford
@@ -416,7 +413,6 @@ Kingdom! Allaho Akbar The same reference contains other such sermons for
 those who appreciate them and who seek nearness to Allah Sub hanahu wa
 Ta ‘ala through reciting them.
 
-
 **Chapter 31 : Conclusion**
 
 It is hoped that this small book has shed some light on the
@@ -551,5 +547,4 @@ We pray Allah Ta’ala to accept our prayers and fast and yours, and to
 reward all of us with everlasting bliss and happiness in this life and
 the life to come, Allahomma Aameen, Wassalamo Alaikom wa Rahmatullahi wa
 Barakatuh.
-
 

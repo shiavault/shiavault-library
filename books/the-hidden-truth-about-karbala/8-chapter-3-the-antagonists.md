@@ -553,4 +553,3 @@ Hayatul Quloob, 289.
 
 [^30]: Nuqooshe Ismat.
 
-

@@ -73,7 +73,6 @@ Prophet. The well-known statement of Ibn 'Abbas in which he speaks
 against 'awl and ta'sib can be taken as authoritative. There are also
 other grounds of proof for negating these two principles.
 
-
 **10. Endowments (waqf); Gifts (nibah) and Charities (sadaqah)**
 
 If someone owns some property and wishes to relinquish possession of
@@ -148,5 +147,4 @@ extremely apathetic. They pay no attention to the limitations of the
 Divine Law. God is aware of all their intentions and actions.
 
 This was a brief account of sadaqah as it is generally understood.
-
 

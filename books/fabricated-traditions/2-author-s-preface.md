@@ -87,4 +87,3 @@ vol. 5, p. 12 (Book of the virtues of the companions of the Holy Prophet
 
 [^4]: - Tahzib al-Tahzib, vol. 5, p. 272.
 
-

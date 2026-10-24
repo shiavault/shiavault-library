@@ -275,4 +275,3 @@ defeat.
 
 [^6]: Maqatil al-Talibiyyin, p. 443
 
-

@@ -161,19 +161,15 @@ clear that the main axis of the invitation of all prophets (*‘a*) is
 faith, and its opposite point is unbelief. For example, it is stated in
 these verses:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ
-وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُونَ
-اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي
-خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا
-سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ
-النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ
-رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ
-آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
-وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ
-  </p>
-</blockquote>
+> إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ
+> وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُونَ
+> اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي
+> خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا
+> سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ
+> النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ
+> رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ
+> آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
+> وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ
 
 ***Indeed in the creation of the heavens and the earth and the
 alternation of night and day, there are signs for those who possess
@@ -210,13 +206,9 @@ heavens and the earth, the divine wisdom and the purpose of creation,
 and the genesis and resurrection. Then, they say to God, “Now that we
 believe, we ask You something:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ
-آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
-وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ
-  </p>
-</blockquote>
+> رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ
+> آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
+> وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ
 
 ***Our Lord, forgive us of our sins and absolve us of our misdeeds, and
 make us die with the pious. (3:193)***
@@ -233,14 +225,10 @@ setting it up, the branches and fruits will come out. What is important
 is the root. If the root is corrupt, there is no hope for leaves and
 fruits. Once the root is firm and sound, it will bear fruits for years:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
-كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
-تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ
-الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً
+> كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
+> تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ
+> الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 ***It is like a good tree: its roots are steady and its branches are in
 the sky. It gives its fruit every season by the leave of its Lord.
@@ -256,11 +244,7 @@ and extensive dimensions it has is a prelude to arrive at the Hereafter,
 just as for the fetus to be inside the womb is a prelude to come into
 this world:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
-  </p>
-</blockquote>
+> رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
 
 ***“Twice did You make us die, and twice did You give us life.***
 **(40:11)*****”***
@@ -286,12 +270,8 @@ the hands of man and it is he who builds his main personality, because
 we regard life in the world as the embryonic stage and prelude and the
 main life of man is in the Hereafter, as the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ
-الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ
+> الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ
 
 ***The life of this world is nothing but diversion and play, but the
 abode of the Hereafter is indeed Life, had they known! (29:64)***
@@ -313,13 +293,9 @@ good deeds.”* Even if in some cases, in terms of position, the action is
 mentioned first, it will immediately require that this action must be
 accompanied by faith:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***Whoever acts righteously, [whether] male or female, should he (or
 she) be faithful, verily We shall quicken with good life. (16:97)***
@@ -373,12 +349,8 @@ should man say, “Who is God by the way?! Such a being does not exist in
 the external world!” What an ungrateful applause indeed! In the words of
 the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا ۚ إِنَّ الْإِنْسَانَ لَكَفُورٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا ۚ إِنَّ الْإِنْسَانَ لَكَفُورٌ
+> مُبِينٌ
 
 ***Man is indeed a manifest ingrate. (43:15)***
 
@@ -393,12 +365,8 @@ The Unbelievers from the Viewpoint of the Qur’an
 The Qur’an confirms the idea that the label “human” is not worthy for
 the unbelievers:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا
+> يُؤْمِنُونَ
 
 ***Indeed the worst of beasts in Allah’s sight are those who are
 faithless; so they will not have faith. (8:55)***
@@ -430,14 +398,10 @@ annihilated the spirit of humanity and spirituality in his self. Through
 such works, one cannot revive the dead spirit. Yes, his good deeds may
 have effect on him in this world and he may benefit from them:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُوا عَلَى النَّارِ أَذْهَبْتُمْ
-طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنْيَا وَاسْتَمْتَعْتُمْ بِهَا
-فَالْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَسْتَكْبِرُونَ
-فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَفْسُقُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُوا عَلَى النَّارِ أَذْهَبْتُمْ
+> طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنْيَا وَاسْتَمْتَعْتُمْ بِهَا
+> فَالْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَسْتَكْبِرُونَ
+> فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَفْسُقُونَ
 
 ***The day when the faithless are exposed to the Fire, [they will be
 told,] ‘You have exhausted your good things in the life of the world and
@@ -454,27 +418,15 @@ on the Day of Resurrection, from whom does he expect any reward?!
 The Qur’an has elegant parables in this regard. For example, in *Surah
 al-Furqan*, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا لَوْلَا أُنْزِلَ عَلَيْنَا
-الْمَلَائِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُوا فِي
-أَنْفُسِهِمْ وَعَتَوْا عُتُوًّا كَبِيرًا
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا لَوْلَا أُنْزِلَ عَلَيْنَا
+> الْمَلَائِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُوا فِي
+> أَنْفُسِهِمْ وَعَتَوْا عُتُوًّا كَبِيرًا
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَرَوْنَ الْمَلَائِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍ لِلْمُجْرِمِينَ
-وَيَقُولُونَ حِجْرًا مَحْجُورًا
-  </p>
-</blockquote>
+> يَوْمَ يَرَوْنَ الْمَلَائِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍ لِلْمُجْرِمِينَ
+> وَيَقُولُونَ حِجْرًا مَحْجُورًا
 
-<blockquote dir="rtl">
-  <p>
-وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
-مَنْثُورًا
-  </p>
-</blockquote>
+> وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
+> مَنْثُورًا
 
 ***Those who do not expect to encounter Us say, ‘Why have not angels
 been sent down to us, or why do we not see our Lord?’ Certainly they are
@@ -491,17 +443,13 @@ they give?
 
 In *Surah an-Nur*, we read in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
-الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
-اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ
-أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ
-مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ۚ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا
-أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا ۗ وَمَنْ لَمْ يَجْعَلِ اللَّهُ
-لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
+> الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ
+> اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ
+> أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ
+> مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ۚ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا
+> أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا ۗ وَمَنْ لَمْ يَجْعَلِ اللَّهُ
+> لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ
 
 ***As for the faithless, their works are like a mirage in a plain, which
 the thirsty man supposes to be water. When he comes to it, he finds it
@@ -523,12 +471,8 @@ the spirit of “faith” in their selves have annihilated the capability
 for human growth in them. No matter how much good deed they may do, it
 will be of no use for them:
 
-<blockquote dir="rtl">
-  <p>
-وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ
-فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ
-  </p>
-</blockquote>
+> وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ
+> فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ
 
 ***It is like a bad tree: uprooted from the ground, it has no stability.
 (14:26)***
@@ -676,5 +620,4 @@ content of religion as a specific field of knowledge, like any other,
 and identify the issues it has dealt with.
 
 [^1]: Golestan-e Sa‘di, preface. [Trans.]
-
 

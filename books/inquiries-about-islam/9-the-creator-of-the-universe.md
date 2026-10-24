@@ -178,4 +178,3 @@ causeless cause to be the source of the existence of the universe. Then
 we have to deny the existence of the universe. We would also have to
 deny ourselves because we are a part of the universe.
 
-

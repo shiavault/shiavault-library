@@ -246,11 +246,11 @@ find many times this much if they wish.
 them in Our ways, and Allah is most surely with the doers of good. (Holy
 Qur'an, 29:69)
 
-[^57] In the coming researches, you will Insha-Allah come to find out
+[^57]: In the coming researches, you will Insha-Allah come to find out
 that Umayyad and \`Abbaside rulers were the very people who brought
 those sects to existence and forced people to follow them.
 
-[^58] We have excluded from this list Imam Ali because he distinguished
+[^58]: We have excluded from this list Imam Ali because he distinguished
 between shrewd judgment and good management, between the shrewdness of
 cunning, deception and hypocrisy. He has said more than once, "Had it
 not been for deception and hypocrisy, I would have been ranked the most
@@ -260,29 +260,28 @@ Allah's plans mean wisdom and good management. As for the polytheists'
 plans, they are nothing but deception, hypocrisy, swindling, forgery,
 and falsehood.
 
-[^59] For more details, refer to Al-Sila bayn al-Tasawwuf wal Tashayyu\`
+[^59]: For more details, refer to Al-Sila bayn al-Tasawwuf wal Tashayyu\`
 by Dr. Mustafa Kamil al-Shibeebi, an Egyptian author. By bringing ten
 strong arguments, al-Shibeebi proves that Abdullah ibn Saba', the Jew,
 or "Ibn al-Sawdaa'" (son of the black woman) was a pseydonym and title
 maliciously given to Ammar ibn Yasir because he was a follower of Imam
 Ali.
 
-[^60] If the caliph went that far in meanness and lowliness to the
+[^60]: If the caliph went that far in meanness and lowliness to the
 extent that he dug up the graves of the Imams from Ahl al-Bayt ,
 especially that of the master of the youths of Paradise, do not ask
 beyond that what they did to the Shi\`as who used to seek Allah's
 blessings by visiting that grave. The Shi\`as suffered the ultimate pain
 and tribulation.
 
-[^61] This is quoted in Ibn Hajar's Tahdhib al-Tahdhib, in his biography
+[^61]: This is quoted in Ibn Hajar's Tahdhib al-Tahdhib, in his biography
 of Nasr ibn Ali ibn Sahban.
 
-[^62] Ibn Hajar, Tahdhib al-Tahdhib, Vo. 5, p. 145. It is a well known
+[^62]: Ibn Hajar, Tahdhib al-Tahdhib, Vo. 5, p. 145. It is a well known
 fact that those who sympathized with Uthman used to curse Ali and accuse
 him of killing Uthman ibn Affan.
 
-[^63] Ibn Hajar, Tahdhib al-Tahdhib, Vol. 8, p. 348.
+[^63]: Ibn Hajar, Tahdhib al-Tahdhib, Vol. 8, p. 348.
 
-[^64] Ibid., Vol. 1, p. 82.
-
+[^64]: Ibid., Vol. 1, p. 82.
 

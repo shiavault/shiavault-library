@@ -468,4 +468,3 @@ verily non- other than this man.”
 
 [^4]: It is the fifth month of the Iranian calendar year.
 
-

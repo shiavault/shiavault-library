@@ -15,11 +15,7 @@ Conjecture
 action is the truest witness about his origin.
 
 > 3ـ ظَنُّ الإنْسانِ ميزانُ عَقْلِهِ، وفِعْلُهُ أصْدَقُ شاهِد عَلى
-<blockquote dir="rtl">
-  <p>
-أصْلِهِ.
-  </p>
-</blockquote>
+> أصْلِهِ.
 
 4. The conjecture of the people of insight and intelligence is the
 closest thing to correctness.
@@ -55,11 +51,7 @@ lapses].
 covenant [of brotherhood] and a relaxed heart.
 
 > 11ـ مَنْ كَذَّبَ سُوءَ الظَّنِّ بِأخيهِ كانَ ذا عَقْد صَحيح وقَلْب
-<blockquote dir="rtl">
-  <p>
-مُسْتريح.
-  </p>
-</blockquote>
+> مُسْتريح.
 
 12. One whose thoughts [about others] are negative assumes the
 disloyalty of the one who is not disloyal to him.
@@ -86,21 +78,13 @@ believes except because of his thinking ill [of others] and his bad
 character.
 
 > 16ـ واللّهِ لايُعَذِّبُ اللّهُ سُبْحانَهُ مُؤْمِناً بَعْدَ الإيمانِ
-<blockquote dir="rtl">
-  <p>
-إلاّ بِسُوءِ ظَنِّهِ، وسُوءِ خُلْقِهِ.
-  </p>
-</blockquote>
+> إلاّ بِسُوءِ ظَنِّهِ، وسُوءِ خُلْقِهِ.
 
 17. Do not think of a word that has been spoken by someone as evil while
 you find a possible positive meaning in it.
 
 > 17ـ لاتَظُنَّنَّ بِكَلِمَة بَدَرَتْ مِنْ أحَد سُوءً، وأنْتَ تَجِدُ
-<blockquote dir="rtl">
-  <p>
-لَها فِي الخَيْرِ مُحتَمَلاً.
-  </p>
-</blockquote>
+> لَها فِي الخَيْرِ مُحتَمَلاً.
 
 18. The one who thinks ill [of others] has no faith.
 
@@ -110,11 +94,7 @@ you find a possible positive meaning in it.
 that Allah, the Glorified, is just as his positive thoughts are of Him.
 
 > 19ـ لايُحْسِنُ عَبْدٌ الظَّنَّ بِاللّهِ سُبْحانَهُ إلاّ كانَ اللّهُ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ عِنْدَ حُسْنِ ظَنِّهِ بِهِ.
-  </p>
-</blockquote>
+> سُبْحانَهُ عِنْدَ حُسْنِ ظَنِّهِ بِهِ.
 
 20. One who thinks positively about people earns love from them.
 
@@ -142,11 +122,7 @@ the one who avoids it.
 reconciliation between him and his friend.
 
 > 25ـ مَنْ غَلَبَ عَلَيْهِ سُوءُالظَّنِّ لَمْ يَتْرُكْ بَيْنَهُ وَبَيْنَ
-<blockquote dir="rtl">
-  <p>
-خَليل صُلْحاً.
-  </p>
-</blockquote>
+> خَليل صُلْحاً.
 
 26. Thinking good of others lightens one’s grief and saves one from
 being shackled by sin.
@@ -162,11 +138,7 @@ excellent allotments.
 the extent of his hope in Him.
 
 > 28ـ حُسْنُ ظَنِّ العَبْدِ بِاللّهِ سُبْحانَهُ عَلى قَدْرِ رَجائِهِ
-<blockquote dir="rtl">
-  <p>
-لَهُ.
-  </p>
-</blockquote>
+> لَهُ.
 
 29. Thinking positive is one of the best attributes and the most
 bountiful gifts.
@@ -177,11 +149,7 @@ bountiful gifts.
 Allah will forgive your missteps.
 
 > 30ـ حُسْنُ الظَّنِّ أنْ تُخْلِصَ العَمَلَ، وتَرْجُو مِنَ اللّهِ أنْ
-<blockquote dir="rtl">
-  <p>
-يَعْفُوَ عَنِ الزَّلَلِ.
-  </p>
-</blockquote>
+> يَعْفُوَ عَنِ الزَّلَلِ.
 
 31. One who thinks positively [about others] attains Paradise.
 
@@ -195,11 +163,7 @@ Allah will forgive your missteps.
 others corrupts worship and increases the burden [of sin].
 
 > 33ـ إيّاكَ أنْ تُسِيءَ الظَّنَّ، فَإنَّ سُوءَ الظَّنِّ يُفْسِدُ
-<blockquote dir="rtl">
-  <p>
-العِبادَةَ، ويُعَظِّمُ الوِزْرَ.
-  </p>
-</blockquote>
+> العِبادَةَ، ويُعَظِّمُ الوِزْرَ.
 
 34. Conjecture is suspicion.
 
@@ -223,22 +187,14 @@ entertains an evil suspicion about another person from whom no evil has
 become evident, then he has been unjust and has transgressed.
 
 > 38ـ إذَا اسْتَوْلَي الصَّلاحُ عَلَى الزَّمانِ وأهْلِهِ ثُمَّ أساءَ
-<blockquote dir="rtl">
-  <p>
-الظَّنَّ رَجُلٌ بِرَجُل لَمْ يَظْهَرْمِنْهُ خِزْيَةٌ، فَقَدْ ظَلَمَ
-واعْتَدى.
-  </p>
-</blockquote>
+> الظَّنَّ رَجُلٌ بِرَجُل لَمْ يَظْهَرْمِنْهُ خِزْيَةٌ، فَقَدْ ظَلَمَ
+> واعْتَدى.
 
 39. In an age when corruption prevails over a people, if a man thinks
 positive of another man then he has put himself in peril.
 
 > 39ـ إذَا اسْتَوْلى الفَسادُ عَلَى الزَّمانِ وأهْلِهِ ثُمَ أحْسَنَ
-<blockquote dir="rtl">
-  <p>
-الظَّنَّ رَجُلٌ بِرَجُل فَقَدْ غَرَّرَ.
-  </p>
-</blockquote>
+> الظَّنَّ رَجُلٌ بِرَجُل فَقَدْ غَرَّرَ.
 
 40. Thinking positive is a comfort for the heart and security for
 religion.
@@ -257,10 +213,5 @@ religion.
 are brought together by thinking ill of Allah, the Glorified.
 
 > 43ـ اَلْجُبْنُ والحِرْصُ والبُخْلُ غَرائِزُ سُوء يَجْمَعُها سُوءُ
-<blockquote dir="rtl">
-  <p>
-الظَّنِّ بِاللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
-
+> الظَّنِّ بِاللّهِ سُبْحانَهُ.
 

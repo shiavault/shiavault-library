@@ -77,13 +77,9 @@ discussion, as follows:
 
 1) we read in Surah al-Anbiya’ (the prophets):
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ
-الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ إِنَّ فِي هَٰذَا
-لَبَلَاغًا لِقَوْمٍ عَابِدِينَ 
-  </p>
-</blockquote>
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ
+> الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ إِنَّ فِي هَٰذَا
+> لَبَلَاغًا لِقَوْمٍ عَابِدِينَ
 
 ***Before this We wrote in the Psalms, after the Message (given to
 Moses): My servants the righteous shall inherit the earth." Verily in
@@ -112,11 +108,7 @@ according to the fact that it has been introduced before “زبور” , and
 according to another interpretation“ذِکر” refers to holy Qur’an because
 it is mentioned in the verses of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
 
 ***Verily this is no less than a Message to (all) the Worlds (At-Takwir
 81:27)***
@@ -157,11 +149,7 @@ which have been quoted in interpretation of above verses.
 For instance, it is quoted in famous interpretation of “Majma’ al-Bayan”
 from Imam Baqir (as) beneath the above verse that:
 
-<blockquote dir="rtl">
-  <p>
-هم اصحاب المهدی فی آخر الزّمان
-  </p>
-</blockquote>
+> هم اصحاب المهدی فی آخر الزّمان
 
 These are the companions of Mahdi (as) in End of Days.
 
@@ -197,11 +185,7 @@ meek”, “wise men”, “righteous ones” and “those who wait for the Lord
 
 And we reminded, it is derived from the verse
 
-<blockquote dir="rtl">
-  <p>
-انّ فی هذا لبلاغاً لقوم عابدین
-  </p>
-</blockquote>
+> انّ فی هذا لبلاغاً لقوم عابدین
 
 ***Verily in this (Qur'an) is a Message for people who would (truly)
 worship Allah. (Surah Anbiyah 21:106)***
@@ -216,14 +200,10 @@ Caliphate on Earth
 
 We read in sura an-Noor:
 
-<blockquote dir="rtl">
-  <p>
-وعدالله الّذین آمنوا منکم و عملوا الصّالحات لیستخلفنّهم فی الارض کما
-استخلف الّذین من قبلهم و لیمکننّ لهم دینهم الذّی ارتضی لهم و
-لیبدّلنّهم من بعد خوفهم امنا یعبدوننی لایشرکون بی شیئاً و من کفر بعد
-ذلک فاولئک هم الفاسقون
-  </p>
-</blockquote>
+> وعدالله الّذین آمنوا منکم و عملوا الصّالحات لیستخلفنّهم فی الارض کما
+> استخلف الّذین من قبلهم و لیمکننّ لهم دینهم الذّی ارتضی لهم و
+> لیبدّلنّهم من بعد خوفهم امنا یعبدوننی لایشرکون بی شیئاً و من کفر بعد
+> ذلک فاولئک هم الفاسقون
 
 ***Allah has promised, to those among you who believe and work righteous
 deeds, that He will, of a surety, grant them in the land, inheritance
@@ -242,11 +222,7 @@ And we know that there are three pillars in a promise:
 The one who promises who is God in here; and those who are being
 promised to who are:
 
-<blockquote dir="rtl">
-  <p>
-الّذین آمنوا منکم و عملوا الصّالحات
-  </p>
-</blockquote>
+> الّذین آمنوا منکم و عملوا الصّالحات
 
 That means righteous believers; and what is being promised which are the
 three following matters:
@@ -307,11 +283,7 @@ The result of these three divine promises is preparations for human
 making and more perfection in human definitions and pure servitude of
 God, and breaking all idols in all forms
 
-<blockquote dir="rtl">
-  <p>
-یعبدوننی لا یشرکون بی شیئا.
-  </p>
-</blockquote>
+> یعبدوننی لا یشرکون بی شیئا.
 
 It is better to look at the expressions of interpreters and what has
 been said about the cause of revelation of the above verse:
@@ -380,25 +352,17 @@ Therefore, we read in narratives that this verse has been interpreted to
 the rise of promised Mahdi; for instance, “Tabarsi”, the precious
 interpreter, quotes from Imam Sajjad (as) in “Majma’ al-Bayan” that:
 
-<blockquote dir="rtl">
-  <p>
-هم والله شیعتنا اهل البیت یفعل الله ذلک بهم علی یدی رجل منّا و هو مهدی
-هذه الامّه
-  </p>
-</blockquote>
+> هم والله شیعتنا اهل البیت یفعل الله ذلک بهم علی یدی رجل منّا و هو مهدی
+> هذه الامّه
 
 (This group is those followers of us who accomplish this matter with a
 man of our dynasty and he is Mahdi of this nation).
 
-<blockquote dir="rtl">
-  <p>
-روي العياشي بإسناده عن علي بن الحسين (ع) أنه قرأ الآية و قال هم و الله
-شيعتنا أهل البيت يفعل الله ذلك بهم على يدي رجل منا و هو مهدي هذه الأمة
-و هو الذي قال رسول الله ص لو لم يبق من الدنيا إلا يوم واحد لطول الله
-ذلك اليوم حتى يلي رجل من عترتي اسمه اسمي يملأ الأرض عدلا و قسطا كما
-ملئت ظلما و جورا و روي مثل ذلك عن أبي جعفر (ع) و أبي عبد الله (ع
-  </p>
-</blockquote>
+> روي العياشي بإسناده عن علي بن الحسين (ع) أنه قرأ الآية و قال هم و الله
+> شيعتنا أهل البيت يفعل الله ذلك بهم على يدي رجل منا و هو مهدي هذه الأمة
+> و هو الذي قال رسول الله ص لو لم يبق من الدنيا إلا يوم واحد لطول الله
+> ذلك اليوم حتى يلي رجل من عترتي اسمه اسمي يملأ الأرض عدلا و قسطا كما
+> ملئت ظلما و جورا و روي مثل ذلك عن أبي جعفر (ع) و أبي عبد الله (ع
 
 And it is narrated from Al-\`Ayyaashee by his chain of narrators from
 \`Alee bin Al-Hussayn (عليه السلام) that he read the ayah and he (عليه
@@ -433,12 +397,8 @@ sinking ship reaches the coast of rescue by their leadership.
 
 3) It is mentioned in sura at-Tawbah:
 
-<blockquote dir="rtl">
-  <p>
-هوالذّی ارسل رسوله بالهدی و دین الحق لیظهره علی الدّین کلّه ولو کره
-المشرکون
-  </p>
-</blockquote>
+> هوالذّی ارسل رسوله بالهدی و دین الحق لیظهره علی الدّین کلّه ولو کره
+> المشرکون
 
 ***It is He Who sent His Messenger with guidance and the Religion of
 Truth, to proclaim it over all religion, even though the Pagans may
@@ -447,12 +407,8 @@ detest (it). (Surah Tawbah 9:33)***
 For understanding the meaning of this verse, we should return to the
 previous verse, which says:
 
-<blockquote dir="rtl">
-  <p>
-یریدون ان یطفؤا نور الله بافواههم و یأبی الله الّا ات یتمّ نوره ولو
-کره الکافرون
-  </p>
-</blockquote>
+> یریدون ان یطفؤا نور الله بافواههم و یأبی الله الّا ات یتمّ نوره ولو
+> کره الکافرون
 
 ***Enemies desire to put out the light of God by their mouths, but God
 intends to complete his light, although the unbelievers are averse.
@@ -470,12 +426,8 @@ are averse.
 
 The same promise is repeated in sura al-Fath with a little difference:
 
-<blockquote dir="rtl">
-  <p>
-هوالذّی ارسل رسوله بالهدی و دین الحق لیظهره علی الدّین کلّه و کفی
-بالله شهید
-  </p>
-</blockquote>
+> هوالذّی ارسل رسوله بالهدی و دین الحق لیظهره علی الدّین کلّه و کفی
+> بالله شهید
 
 ***He is the one who sent His Messenger with guidance and religion of
 truth, in order to prevail over all religions, and God is enough as the
@@ -484,12 +436,8 @@ witness (of this great promise). (Surah Fath 48:28)***
 And finally for the third time, we see this great promise in sura
 as-Staff, with the same expression of sura at-Tawbah:
 
-<blockquote dir="rtl">
-  <p>
-هوالذّی ارسل رسوله بالهدی و دین الحق لیظهره علی الدّین کلّه ولو کره
-المشرکون
-  </p>
-</blockquote>
+> هوالذّی ارسل رسوله بالهدی و دین الحق لیظهره علی الدّین کلّه ولو کره
+> المشرکون
 
 ***It is He Who has sent His Messenger with Guidance and the Religion of
 Truth, that he may proclaim it over all religion, even though the Pagans
@@ -530,29 +478,17 @@ Kahf. For example:
 (1) ***How their pact has respect, while if they prevail over you then
 they don’t observe the kinship and the pact! (Surah Tawbah 9:08).***
 
-<blockquote dir="rtl">
-  <p>
-کیف و ان یظهروا علیکم لایرقبوا فیکم الّا و لاذمّه
-  </p>
-</blockquote>
+> کیف و ان یظهروا علیکم لایرقبوا فیکم الّا و لاذمّه
 
 (2) ***O you my people {of Pharaoh}! Today you have victory on the earth
 (but…) (Surah Ghafir 40:29).***
 
-<blockquote dir="rtl">
-  <p>
-يَا قَوْمِ لَكُمُ الْمُلْكُ الْيَوْمَ ظَاهِرِينَ فِي الْأَرْضِ...
-  </p>
-</blockquote>
+> يَا قَوْمِ لَكُمُ الْمُلْكُ الْيَوْمَ ظَاهِرِينَ فِي الْأَرْضِ...
 
 (3) ***If they have victory over you (companions of Kahf) then they will
 stone you! (Surah Kahf 18:20).***
 
-<blockquote dir="rtl">
-  <p>
-انّهم ان یظهروا علیکم یرجموکم
-  </p>
-</blockquote>
+> انّهم ان یظهروا علیکم یرجموکم
 
 But the discussion is that what kind of victory is the purpose of the
 victory of this religion over other religions?
@@ -619,17 +555,9 @@ that:
 Amir al-Mu’mineen Ali (as) asked his companions when he recited the
 verse
 
-<blockquote dir="rtl">
-  <p>
-“هو الذّی ارسل رسوله بالهدی و دین الحق...”:
-  </p>
-</blockquote>
+> “هو الذّی ارسل رسوله بالهدی و دین الحق...”:
 
-<blockquote dir="rtl">
-  <p>
-اظهر ذلک؟
-  </p>
-</blockquote>
+> اظهر ذلک؟
 
 Is this victory achieved?
 
@@ -637,12 +565,8 @@ They said: Yes!
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-کلُا فوالّذی نفسی بیده حتّی لا یبقی قریة الّا و ینادی فیها شبهادة ان
-لا اله الا الله بکرة و عشیّاً
-  </p>
-</blockquote>
+> کلُا فوالّذی نفسی بیده حتّی لا یبقی قریة الّا و ینادی فیها شبهادة ان
+> لا اله الا الله بکرة و عشیّاً
 
 (No! I swear to the one whom my life is in his hands, this victory won’t
 appear, except for the time when there is no village remained on the
@@ -659,12 +583,8 @@ testifies to Muhammad (S).[^2]
 
 3) Miqdad ibn Aswad says:
 
-<blockquote dir="rtl">
-  <p>
-سمعت رسول الله (ص) یقول لا یبقی علی ظهر الارض بیت مدر و لا و بر الًا
-ادخله الله کلمة الاسلام
-  </p>
-</blockquote>
+> سمعت رسول الله (ص) یقول لا یبقی علی ظهر الارض بیت مدر و لا و بر الًا
+> ادخله الله کلمة الاسلام
 
 (No brick house and no tent (in the desert) will remain on the entire
 earth, except that Islam enters that).[^3]
@@ -700,31 +620,19 @@ considered as denier of Qur’an itself, because Qur’an has explicitly
 introduced the expressions of Prophet (S) as a reliable and binding
 resource and says:
 
-<blockquote dir="rtl">
-  <p>
-ما اتاکم الرّسول فخذوه و مانهاکم عنه فانتهوا
-  </p>
-</blockquote>
+> ما اتاکم الرّسول فخذوه و مانهاکم عنه فانتهوا
 
 ***Accept whatever prophet has brought to you and orders you to do and
 act according to that, and abstain from whatever he prohibits you from
 (Surah*** ***Hashr 59:7)***
 
-<blockquote dir="rtl">
-  <p>
-ما کان لمؤمن و لامؤمنة اذا قضی الله و رسوله امراً ان یکون لهم الخیرة
-من امرهم
-  </p>
-</blockquote>
+> ما کان لمؤمن و لامؤمنة اذا قضی الله و رسوله امراً ان یکون لهم الخیرة
+> من امرهم
 
 ***No believer man and woman have the right to disobey the order of God
 and his messenger! (Surah*** ***Ahzab 33:36)***
 
-<blockquote dir="rtl">
-  <p>
-من یطع الرّسول فقد اطاع الله و من تولّی فما ارسلناک علیهم حفیظاً
-  </p>
-</blockquote>
+> من یطع الرّسول فقد اطاع الله و من تولّی فما ارسلناک علیهم حفیظاً
 
 ***Anyone who obeys the prophet has obeyed God and those who ignore, you
 are not responsible for them (and their punishment is by god (Surah Nisa
@@ -1027,11 +935,7 @@ Firstly, this sentence is not available in most of Sunni narratives.
 
 Secondly, we read in the famous narrative of Ibn Abi Layli
 
-<blockquote dir="rtl">
-  <p>
-“اسمه اسمی و اسم ابیه اسم ابنی”.
-  </p>
-</blockquote>
+> “اسمه اسمی و اسم ابیه اسم ابنی”.
 
 Thirdly, Mutawatir narratives through Ahl al-Bayt (pbut) testify that
 his father’s name is “Hassan”.
@@ -1042,75 +946,67 @@ son of Imam Hassan Askari.
 (For more explanation about this matter, refer to the book “Muntakhab
 al-Athar” pages 231 to 236, chapter 11, and the book “Noor al-Absar”).
 
-<blockquote dir="rtl">
-  <p>
-الکرم ابومحمّد ـ المحترم (کنیا)
-  </p>
-</blockquote>
+> الکرم ابومحمّد ـ المحترم (کنیا)
 
 > السلام علیکم و رحمة اللّه و برکاته ـ اشارة الى خطابکم (المورخ فى 21
 > یوما 1976م) المتضمن عن موعد ظهور المهدى و فى اى مکان یقیم؟ نفیدکم
-<blockquote dir="rtl">
-  <p>
-باننا نوفرلکم مع خطابنا الیکم ما جاء من الفتوى فى مسأله المهدى المنتظر
-و قد قام بکتابته فضیلة الشیخ محمد المنتصر الکنانى واقرته اللجنه
-المکنونه من اصحاب الفضیله الشیخ صالح بن عثیین و فضیلة الشیخ احمد محمد
-جمال و فضیلة الشیخ احمد على و فضیلة الشیخ عبداللّه خیاط. مدیر اداره
-مجمع فقهى اسلامى: محمد منتصر کنانى و قد دعم الفتوى بما ورد من احادیث
-المهدى عن الرسول(صلى الله علیه وآله وسلم) و ما ذکره ابن تیمیه فى
-المنهاج بصحه الاعتقاد و ابن القیم فى المنار و ان شاء اللّه تعالى
-ستجدون فى الکتابه مطلبکم و ما یغنیکم عن مسأله المهدى انتم و من کان على
-نهجکم آملین لکم التوفیق والسداد. الامین العام محمد صالح القزاز بعد
-التحیه جوابا عما یسأل عنه المسلم الکینى فى شأن المهدى المنتظر عن موعد
-ظهوره عن المکان الذى یظهر منه و عن ما یطمئنه عن المهدى(علیه السلام) هو
-محمد بن عبداللّه الحسنى العلوى الفاطمى المهدى الموعود المنتظر موعد
-خروجه فى آخر الزمان و هو من علامات الساعة الکبرى یخرج من الغرب و یبایع
-له فى الحجاز فى مکة المکرمه بین الرکن والمقام ـ بین باب الکعبه المشرفه
-والحجر الاسود عند الملتزم و یظهر عند فساد الزمان و انتشار الکفر و ظلم
-الناس یملا الارض عدلا و قسطا کما ملئت جورا و ظلما یحکم العالم کله و
-تخضع له الرقاب بالاقناع تارة و الحرب اخرى وسیملک الارض سبع سنین و ینزل
-عیسى(علیه السلام) من بعده فیقتل الدجال او ینزل معه فیساعده على قتله
-بباب «اللّد» بارض فلسطین. هو آخر الخلفاء الراشدین، الاثنى عشر الذین
-اخبر عنهم النبى صلوات اللّه و سلامه علیه فى الصحاح، و احادیث المهدى
-واردة عن الکثیر من الصحابه یرفعونها الى رسول اللّه(صلى الله علیه وآله
-وسلم) و منهم عثمان بن عفان; و على بن ابى طالب، وطلحة بن عبیداللّه، و
-عبدالرحمن بن عوف، و عبداللّه بن عباس; و عمار بن یاسر، و عبداللّه بن
-مسعود، و ابوسعید الخدرى، و ثوبان، وقرة بن ایاس المزنى، و عبداللّه بن
-الحارث بن جز، وابوهریره، و حذیفة بن الیمانى، جابر بن عبداللّه; و
-ابوامامه، و جابربن ماجد الصدفى; و عبداللّه بن عمر و انس بن مالک، و
-عمران بن حصینى، و ام سلمه. هولاء عشرون منهم، ممن وقفت علیهم، و غیرهم،
-کثیر، و هناک آثار عن الصحابه، مصرحة بالمهدى، من اقوالهم، کثیره جدا،
-لها حکم الرفع، اذ لامجال للاجتهاد فیها. احادیث هؤلاء الصحابة التى
-رفعوها الى النبى(صلى الله علیه وآله وسلم); والتى قالوها من اقوالهم
-اعتماد على ما قاله رسول اللّه و سلامه علیه ورواها الکثیر من دواوین
-الاسلام; و امهات الحدیث النبوى; من السنن، و المعاجم، والمسانید منها.
-سنن ابى داود، والترمذى، و ابن ماجه، و ابن عمروالدانى; ومسانید احمد، و
-ابن یعلى; و البزاز، و صحیح الحاکم; و معاجم الطبرانى الکبیر والالوسى
-والرویانى والدار قطنى فى الافراد، و ابونعیم فى اخبار المهدى، والخطیب
-فى تاریخ بغداد، و ابن عساکر فى تاریخ دمشق و غیرها. و قد خص المهدى
-بالتالیف ابونعیم فى «اخبار المهدى» و ابن حجر الهیثمى فى القول المختصر
-فى علامات المهدى المنتظر والشوکانى فى التوضیح فى تواتر ما جاء فى
-المنتظر و الدجال والمسیح; وادریس العرقى المغربى فى تالیفه «المهدى»
-وابوالعباس بن عبدالمؤمن المغربى فى کتابه «الوهم المکنون فى الرد على
-ابن خلدون». و آخر من قرات له عن المهدى، بحثاً مستفیضا، مدیر الجامعه
-الاسلامیه، فى المدینه المنوره فى مجلة الجامعه; اکثر من عدد. و قد نص
-على ان احادیث المهدى، انها متواتره، جمع من الاعلام قدیما و حدیثا منهم
-السخاوى فى «فتح المغیث»، و محمد بن احمد السفاوینى فى شرح العقیده و
-ابوالحسین الابرى فى «مناقب الشافعى» و ابن تیمیه فى فتاواه والسیوطى فى
-الحاوى; و ادریس العراقى المغربى فى تألیف له عن المهدى، والشوکانى فى
-«التوضیح فى تواتر ما جاء فى المنتظر; و الدجال، والمسیح» و محمد بن جعفر
-الکنانى فى «نظم المتناثر فى الحدیث المتواتر»، و ابوالعباس بن عبدالمؤمن
-المغربى فى «الوهم المکنون من کلام ابن خلدون» رحمهم اللّه و حاول ابن
-خلدون فى مقدمته ان یطعن فى احادیث المهدى، محتجا بحدیث موضوع لا اصل له
-عند ابن ماجه لا مهدى الا عیسى. ولکن رد علیه الائمه والعلماء; و خصه
-بالرد شیخنا ابن عبدالمؤمن، بکتاب مطبوع متناول فى المشرق والمغرب منذ
-اکثر من ثلاثین سنه. و نص الحفاظ والمحدثون على ان احادیث المهدى فیها
-الصحیح والحسن و مجموعها متواتر مقطوع بتواتره و صحته. و ان الاعتقاد
-بخروج المهدى، واجب و انه من عقائد اهل السنة و الجماعة ولاینکر الاجاهل
-بالسّنّة، و مبتدع فى العقیده. واللّه یهدى الى الحق و یهدى السبیل. مدیر
-ادارة المجع الفقهى الاسلامى محمد المنتصر الکنانى
-  </p>
-</blockquote>
+> باننا نوفرلکم مع خطابنا الیکم ما جاء من الفتوى فى مسأله المهدى المنتظر
+> و قد قام بکتابته فضیلة الشیخ محمد المنتصر الکنانى واقرته اللجنه
+> المکنونه من اصحاب الفضیله الشیخ صالح بن عثیین و فضیلة الشیخ احمد محمد
+> جمال و فضیلة الشیخ احمد على و فضیلة الشیخ عبداللّه خیاط. مدیر اداره
+> مجمع فقهى اسلامى: محمد منتصر کنانى و قد دعم الفتوى بما ورد من احادیث
+> المهدى عن الرسول(صلى الله علیه وآله وسلم) و ما ذکره ابن تیمیه فى
+> المنهاج بصحه الاعتقاد و ابن القیم فى المنار و ان شاء اللّه تعالى
+> ستجدون فى الکتابه مطلبکم و ما یغنیکم عن مسأله المهدى انتم و من کان على
+> نهجکم آملین لکم التوفیق والسداد. الامین العام محمد صالح القزاز بعد
+> التحیه جوابا عما یسأل عنه المسلم الکینى فى شأن المهدى المنتظر عن موعد
+> ظهوره عن المکان الذى یظهر منه و عن ما یطمئنه عن المهدى(علیه السلام) هو
+> محمد بن عبداللّه الحسنى العلوى الفاطمى المهدى الموعود المنتظر موعد
+> خروجه فى آخر الزمان و هو من علامات الساعة الکبرى یخرج من الغرب و یبایع
+> له فى الحجاز فى مکة المکرمه بین الرکن والمقام ـ بین باب الکعبه المشرفه
+> والحجر الاسود عند الملتزم و یظهر عند فساد الزمان و انتشار الکفر و ظلم
+> الناس یملا الارض عدلا و قسطا کما ملئت جورا و ظلما یحکم العالم کله و
+> تخضع له الرقاب بالاقناع تارة و الحرب اخرى وسیملک الارض سبع سنین و ینزل
+> عیسى(علیه السلام) من بعده فیقتل الدجال او ینزل معه فیساعده على قتله
+> بباب «اللّد» بارض فلسطین. هو آخر الخلفاء الراشدین، الاثنى عشر الذین
+> اخبر عنهم النبى صلوات اللّه و سلامه علیه فى الصحاح، و احادیث المهدى
+> واردة عن الکثیر من الصحابه یرفعونها الى رسول اللّه(صلى الله علیه وآله
+> وسلم) و منهم عثمان بن عفان; و على بن ابى طالب، وطلحة بن عبیداللّه، و
+> عبدالرحمن بن عوف، و عبداللّه بن عباس; و عمار بن یاسر، و عبداللّه بن
+> مسعود، و ابوسعید الخدرى، و ثوبان، وقرة بن ایاس المزنى، و عبداللّه بن
+> الحارث بن جز، وابوهریره، و حذیفة بن الیمانى، جابر بن عبداللّه; و
+> ابوامامه، و جابربن ماجد الصدفى; و عبداللّه بن عمر و انس بن مالک، و
+> عمران بن حصینى، و ام سلمه. هولاء عشرون منهم، ممن وقفت علیهم، و غیرهم،
+> کثیر، و هناک آثار عن الصحابه، مصرحة بالمهدى، من اقوالهم، کثیره جدا،
+> لها حکم الرفع، اذ لامجال للاجتهاد فیها. احادیث هؤلاء الصحابة التى
+> رفعوها الى النبى(صلى الله علیه وآله وسلم); والتى قالوها من اقوالهم
+> اعتماد على ما قاله رسول اللّه و سلامه علیه ورواها الکثیر من دواوین
+> الاسلام; و امهات الحدیث النبوى; من السنن، و المعاجم، والمسانید منها.
+> سنن ابى داود، والترمذى، و ابن ماجه، و ابن عمروالدانى; ومسانید احمد، و
+> ابن یعلى; و البزاز، و صحیح الحاکم; و معاجم الطبرانى الکبیر والالوسى
+> والرویانى والدار قطنى فى الافراد، و ابونعیم فى اخبار المهدى، والخطیب
+> فى تاریخ بغداد، و ابن عساکر فى تاریخ دمشق و غیرها. و قد خص المهدى
+> بالتالیف ابونعیم فى «اخبار المهدى» و ابن حجر الهیثمى فى القول المختصر
+> فى علامات المهدى المنتظر والشوکانى فى التوضیح فى تواتر ما جاء فى
+> المنتظر و الدجال والمسیح; وادریس العرقى المغربى فى تالیفه «المهدى»
+> وابوالعباس بن عبدالمؤمن المغربى فى کتابه «الوهم المکنون فى الرد على
+> ابن خلدون». و آخر من قرات له عن المهدى، بحثاً مستفیضا، مدیر الجامعه
+> الاسلامیه، فى المدینه المنوره فى مجلة الجامعه; اکثر من عدد. و قد نص
+> على ان احادیث المهدى، انها متواتره، جمع من الاعلام قدیما و حدیثا منهم
+> السخاوى فى «فتح المغیث»، و محمد بن احمد السفاوینى فى شرح العقیده و
+> ابوالحسین الابرى فى «مناقب الشافعى» و ابن تیمیه فى فتاواه والسیوطى فى
+> الحاوى; و ادریس العراقى المغربى فى تألیف له عن المهدى، والشوکانى فى
+> «التوضیح فى تواتر ما جاء فى المنتظر; و الدجال، والمسیح» و محمد بن جعفر
+> الکنانى فى «نظم المتناثر فى الحدیث المتواتر»، و ابوالعباس بن عبدالمؤمن
+> المغربى فى «الوهم المکنون من کلام ابن خلدون» رحمهم اللّه و حاول ابن
+> خلدون فى مقدمته ان یطعن فى احادیث المهدى، محتجا بحدیث موضوع لا اصل له
+> عند ابن ماجه لا مهدى الا عیسى. ولکن رد علیه الائمه والعلماء; و خصه
+> بالرد شیخنا ابن عبدالمؤمن، بکتاب مطبوع متناول فى المشرق والمغرب منذ
+> اکثر من ثلاثین سنه. و نص الحفاظ والمحدثون على ان احادیث المهدى فیها
+> الصحیح والحسن و مجموعها متواتر مقطوع بتواتره و صحته. و ان الاعتقاد
+> بخروج المهدى، واجب و انه من عقائد اهل السنة و الجماعة ولاینکر الاجاهل
+> بالسّنّة، و مبتدع فى العقیده. واللّه یهدى الى الحق و یهدى السبیل. مدیر
+> ادارة المجع الفقهى الاسلامى محمد المنتصر الکنانى
 
 Here, it is necessary to add some other expressions of some of famous
 Sunni scholars about what has been said:
@@ -1118,24 +1014,16 @@ Sunni scholars about what has been said:
 1) Famous scholar, Sheikh Mansour Ali Nasif, the writer of the book
 “at-Taj”[^7] writes in his book:
 
-<blockquote dir="rtl">
-  <p>
-اشتهر بین العلماء - سلفاً و خلفاً - انه فی آخر الزمان لابد من ظهور رجل
-من اهل البیت یسمی "المهدی" یستولی علی الممالک الاسلامیه و یتبعه
-المسلمون و یعدل بینهم و یؤید الدین.
-  </p>
-</blockquote>
+> اشتهر بین العلماء - سلفاً و خلفاً - انه فی آخر الزمان لابد من ظهور رجل
+> من اهل البیت یسمی "المهدی" یستولی علی الممالک الاسلامیه و یتبعه
+> المسلمون و یعدل بینهم و یؤید الدین.
 
 And he continues:
 
-<blockquote dir="rtl">
-  <p>
-و قد روی احادیث المهدی جماعة من خیار الصحابه و اخرجها اکابر المحدثین
-کابی داود؛ والترمذی و ابن ماجه و الطبرانی؛ وابی یعلی؛ والبزاز؛ و
-الامام احمد، و الحاکم؛ رضی الله عنهم اجمعین و لقد اخطأ من ضعف احادیث
-المهدی کلها کابن خلدون و غیره.
-  </p>
-</blockquote>
+> و قد روی احادیث المهدی جماعة من خیار الصحابه و اخرجها اکابر المحدثین
+> کابی داود؛ والترمذی و ابن ماجه و الطبرانی؛ وابی یعلی؛ والبزاز؛ و
+> الامام احمد، و الحاکم؛ رضی الله عنهم اجمعین و لقد اخطأ من ضعف احادیث
+> المهدی کلها کابن خلدون و غیره.
 
 It means, it is famous among all past and present scholars that finally
 a man from the dynasty of the Prophet (S) appears who dominates over all
@@ -1156,12 +1044,8 @@ Islam and shows the justice and Muslims follow him.[^9]
 3) Muhammad Shablanji, famous Egyptian scholar, writes in the book “Noor
 al-Absar”:
 
-<blockquote dir="rtl">
-  <p>
-تواترت الاخبار عن النّبی (ع) علی انّ المهدی من اهل بیته و انّه یملأ
-الارض عدلاً
-  </p>
-</blockquote>
+> تواترت الاخبار عن النّبی (ع) علی انّ المهدی من اهل بیته و انّه یملأ
+> الارض عدلاً
 
 (Mutawatir news has reached from Prophet (S) that Mahdi is from his
 dynasty; he will fill the earth with justice.[^10]
@@ -1184,11 +1068,7 @@ the earth with justice.[^11]
 of Mahdi and appearance of Dajjal and return of messiah and an explained
 discussion about Tawatur of ahadith Mahdi (as):
 
-<blockquote dir="rtl">
-  <p>
-هذا یکفی لمن کان عنده ذرّة من الایمان و قلیل من انصاف!
-  </p>
-</blockquote>
+> هذا یکفی لمن کان عنده ذرّة من الایمان و قلیل من انصاف!
 
 (What has been said seems to be enough for those who has a bit of faith
 and little fairness!)[^12]
@@ -1245,12 +1125,8 @@ It is interesting that Ibn Khaldun himself confesses to this truth;
 because after dedicating some pages of his book to mentioning ahadith of
 Mahdi and doubting in their documents, he says:
 
-<blockquote dir="rtl">
-  <p>
-فهذه جملة الاحادیث التی اخرجها الائمة قی شأن المهدی و خروجه آخر الزمان
-و هی کما رأیت لم یخلص منها من النقد الا القلیل والاقل منه؛
-  </p>
-</blockquote>
+> فهذه جملة الاحادیث التی اخرجها الائمة قی شأن المهدی و خروجه آخر الزمان
+> و هی کما رأیت لم یخلص منها من النقد الا القلیل والاقل منه؛
 
 These are the entire ahadith of Mahdi, which have been quoted by the
 leaders of hadith about him and his rise in End of Days, and as you saw
@@ -1533,5 +1409,4 @@ page 138.
 [^13]: Bible Dictionary, page 818.
 
 [^14]: This book has been also translated to Persian.
-
 

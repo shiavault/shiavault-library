@@ -4,12 +4,8 @@ Section 12: Warning With the Punishment
 Surah al-‘Araf – Verse 94
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَبِيٍّ إِلآَّ أَخَذْنَآ أَهْلَهَا
-بِالْبَأْسَآءِ وَالضَّرَّآءِ لَعَلَّهُمْ يَضَّرَّعُونَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَبِيٍّ إِلآَّ أَخَذْنَآ أَهْلَهَا
+> بِالْبَأْسَآءِ وَالضَّرَّآءِ لَعَلَّهُمْ يَضَّرَّعُونَ
 
 **94.** ***“And We did not send a prophet in any town but We vertook its
 people with distress and affliction hat they might humble
@@ -52,13 +48,9 @@ bruised’.”*[^4]
 Surah al-‘Araf , Verse 95
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ بَدَّلْنَا مَكَانَ السَّيِّئَةِ الْحَسَنَةَ حَتَّىٰ عَفَوا
-وَّقَالُوا قَدْ مَسَّ آبَاءَنَا الضَّرَّاءُ وَالسَّرَّاءُ
-فَأَخَذْنَاهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
-  </p>
-</blockquote>
+> ثُمَّ بَدَّلْنَا مَكَانَ السَّيِّئَةِ الْحَسَنَةَ حَتَّىٰ عَفَوا
+> وَّقَالُوا قَدْ مَسَّ آبَاءَنَا الضَّرَّاءُ وَالسَّرَّاءُ
+> فَأَخَذْنَاهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
 
 **95.** ***“Then We altered the ill (circumstances) to good, until they
 multiplied, and said: ‘Distress and happiness did indeed touch our
@@ -122,13 +114,9 @@ it has to come, but it comes suddenly.
 Surah al-‘Araf, Verse 96
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ أَهْلَ الْقُرَى ءَامَنُوا وَاتَّقَوْا لَفَتَحْنَا
-عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَآءِ وَالاَرْض ِ وَلَكِن كَذَّبُوا
-فَاَخَذْنَاهُمْ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ أَهْلَ الْقُرَى ءَامَنُوا وَاتَّقَوْا لَفَتَحْنَا
+> عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَآءِ وَالاَرْض ِ وَلَكِن كَذَّبُوا
+> فَاَخَذْنَاهُمْ بِمَا كَانُوا يَكْسِبُونَ
 
 **96.** ***“And if the people of the towns had believed and kept from
 evil, We would have certainly opened up for them blessings from the
@@ -172,19 +160,11 @@ the earth were restrained from them.
 Surah al-‘Araf, Verses 97-98
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَاَمِنَ أَهْلُ الْقُرَى أَنْ يَأْتِيَهُمْ بَأْسُنَا بَيَاتاً وَهُمْ
-نَآئِمُونَ
-  </p>
-</blockquote>
+> أَفَاَمِنَ أَهْلُ الْقُرَى أَنْ يَأْتِيَهُمْ بَأْسُنَا بَيَاتاً وَهُمْ
+> نَآئِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَوَأَمِنَ أَهْلُ الْقُرَى أَنْ يَأْتِيَهُمْ بَأْسُنَا ضُحًى وَهُمْ
-يَلْعَبُونَ
-  </p>
-</blockquote>
+> أَوَأَمِنَ أَهْلُ الْقُرَى أَنْ يَأْتِيَهُمْ بَأْسُنَا ضُحًى وَهُمْ
+> يَلْعَبُونَ
 
 **97.** ***“What! do the people of the towns then feel secure from Our
 punishment coming upon them by night while they are sleeping?”***
@@ -224,12 +204,8 @@ obstinacies of the pagans of Mecca.
 Surah al-‘Araf , Verse 99
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَاَمِنُوا مَكْرَ اللّهِ فَلا يَأْمَنُ مَكْرَ اللّهِ إِلاَّ
-الْقَوْمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> أَفَاَمِنُوا مَكْرَ اللّهِ فَلا يَأْمَنُ مَكْرَ اللّهِ إِلاَّ
+> الْقَوْمُ الْخَاسِرُونَ
 
 **99*****. “What! Do they then feel secure from Allah’s plan (sudden
 punishment)? But none feels secure from Allah’s plan save the people
@@ -273,5 +249,4 @@ the Holy Qur’ān.
 [^3]: ’Usūl-i-Kāfi, part 3, p. 378
 
 [^4]: ’Usūl al-Kāfi, part 3, p. 378
-
 

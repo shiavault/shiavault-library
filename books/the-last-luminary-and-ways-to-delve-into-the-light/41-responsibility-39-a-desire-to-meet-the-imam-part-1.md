@@ -9,12 +9,8 @@ In the supplications which are specifically related to Imam al-Zaman
 are the exact words of Imam Ja’far b. Muhammad as-Sadiq) in which this
 responsibility has been clearly mentioned:
 
-<blockquote dir="rtl">
-  <p>
-عَزِيزٌ عَلَيَّ أَنْ أَرَى الْـخَلْقَ وَ لاَ تُرىٰ وَ لاَ أَسْمَعُ
-لَكَ حَسِيساً وَ لاَ نَـجْوىٰ
-  </p>
-</blockquote>
+> عَزِيزٌ عَلَيَّ أَنْ أَرَى الْـخَلْقَ وَ لاَ تُرىٰ وَ لاَ أَسْمَعُ
+> لَكَ حَسِيساً وَ لاَ نَـجْوىٰ
 
 “How difficult it is for me that I am able to see all the creation,
 however you cannot be seen, and I do not hear any sound or whisper from
@@ -22,11 +18,7 @@ you!”
 
 The Commander of the Faithful, ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-هَاه! وَ أَوْمـى بِيَدِهِ إِلـى صَدْرِهِ شَوْقاً إِلـى رُؤْيَتِهِ
-  </p>
-</blockquote>
+> هَاه! وَ أَوْمـى بِيَدِهِ إِلـى صَدْرِهِ شَوْقاً إِلـى رُؤْيَتِهِ
 
 “Aah! (O’ how I wish I could see him!)” And then he struck his hand on
 his chest as a sign of longing to see the Imam (al-Mahdi).[^2]
@@ -40,5 +32,4 @@ pg. 334; Biharul Anwar, vol. 102
 
 [^2]: Mikyal al-Makarim, vol. 1, pg. 115; Biharul Anwar, vol. 51, pg.
 115, sec. 2, no. 14
-
 

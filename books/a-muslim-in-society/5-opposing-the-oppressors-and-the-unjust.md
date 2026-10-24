@@ -68,4 +68,3 @@ is no god but Allah and Muhammad is the Messenger of Allah.*
 [^1]: Al-Tabari, Mishkat al-Anwar, Fasil al-Dukhul ala al-Salatin wa
 ahwalihim.
 
-

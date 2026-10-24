@@ -72,4 +72,3 @@ and their correspondence with al-Husayn (‘a).
 Ibn Isma’il al-Baghdadi al-Hilli, famous as “Ibn al-Khalfa,” who died in
 1247 A.H./1832 A.D. published on p. 174, Vol. 5, of Shu’ara’ al-Hilla.
 
-

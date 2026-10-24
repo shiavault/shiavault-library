@@ -38,5 +38,3 @@ recompense or price. Obviously, there is a wide difference between
 maintaining respect of honor of exalted personalities and paying a
 price.
 
-
-

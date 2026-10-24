@@ -178,4 +178,3 @@ the earth, the Knower of the unseen and the manifest! You (Alone) shall
 judge between Your servants in the matter wherein they were differing.”
 (Surah al-Zumar, 39:46).***
 
-

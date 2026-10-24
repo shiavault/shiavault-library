@@ -567,4 +567,3 @@ monastic asceticism. It is not based on escapism from society. The
 Islamic conception of zuhd is a means of alleviating the sufferings of
 society.
 
-

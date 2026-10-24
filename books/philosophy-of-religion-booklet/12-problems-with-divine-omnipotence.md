@@ -56,4 +56,3 @@ it, though, is arguably a logically impossible state of affairs. God’s
 inability to create such a rock, it is claimed, therefore does not count
 against his being omnipotent.
 
-

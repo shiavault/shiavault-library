@@ -1,8 +1,6 @@
 Publisher's Preface
 ===================
 
-  
-
 **In the Name of Allah, Most Gracious, Most Merciful**
 
 This valuable book, Sulh al-Hasan, is, among the works of the great

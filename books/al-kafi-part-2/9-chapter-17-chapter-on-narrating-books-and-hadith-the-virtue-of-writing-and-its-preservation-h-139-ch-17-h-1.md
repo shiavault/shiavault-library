@@ -145,7 +145,6 @@ was sever. They concealed their books and did narrate from them. When
 they died their books came to us.'" The Imam said, "You may narrate from
 them because they contain the truth."
 
-
 **Chapter 18 : Chapter on Taqlid, following the opinions of someone H
 153, Ch. 18, h 1**
 
@@ -194,5 +193,4 @@ the Messiah, son of Mary, as they should have obeyed God . . .. (9:31).'
 monks) but they (rabbis and monks) made lawful for the people what was
 unlawful and unlawful what was lawful and people followed them
 accordingly."
-
 

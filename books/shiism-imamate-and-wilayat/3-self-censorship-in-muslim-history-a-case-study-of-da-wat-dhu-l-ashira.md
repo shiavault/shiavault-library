@@ -366,4 +366,3 @@ http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al...
 
 [^16]: Sharafu 'd-Dín al-Musawi, al-Muraji'at, p. 191-192
 
-

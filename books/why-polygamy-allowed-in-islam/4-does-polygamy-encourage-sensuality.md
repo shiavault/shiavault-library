@@ -116,7 +116,6 @@ safeguard the moral policy of the community."
 (quoted in The Position of Woman in Islam, published by the Islamic
 Foundation, Karachi)
 
-
 **Does Polygamy Injure The Feelings of Woman?**
 
 The third objection is that polygamy has social disadvantages, and
@@ -185,7 +184,6 @@ than the discords and disputes in a monogamous household.
 Will the Western writers suggest to abolish the institution of
 \`Marriage' because it creates domestic troubles, disputes and discords,
 which sometimes result in divorce?
-
 
 **Polygamy VS. Family Planinng**
 
@@ -282,8 +280,6 @@ to choose between polygamy and monogamy, depending on one's wealth."
 And with this quotation, I close this booklet, hoping that the readers
 will fully appreciate
 
-
 **THE END
 **
-
 

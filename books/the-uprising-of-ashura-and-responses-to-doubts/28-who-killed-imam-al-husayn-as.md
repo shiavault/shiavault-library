@@ -111,11 +111,7 @@ al-Farid*, and Muhammad ibn Idris Shafi‘i.
 Muhammad ibn Idris Shafi‘i has recited a wonderful poem in which he
 says,
 
-<blockquote dir="rtl">
-  <p>
-إن کان حبّ الولي رفضاً فانّني أرفض العباد
-  </p>
-</blockquote>
+> إن کان حبّ الولي رفضاً فانّني أرفض العباد
 
 *“If love of the* *wali* *(the temporal and spiritual guardian Imam
 ‘Ali) makes a person a heretic, then, I am surely the most heretical of
@@ -806,12 +802,8 @@ The presence of followers of Abu Sufiyan in Sa‘d’s army
 Imam al-Husayn (as) bestowed the title, “the Shi‘ahs of Abu Sufiyan” on
 the soldiers of ‘Umar ibn Sa‘d. He addressed them in this way,
 
-<blockquote dir="rtl">
-  <p>
-«ويحکم يا شيعه آل ابي سفيان! إن لم يکن لکم دين، وکنتم لا تخافون
-المعاد، فکونوا أحراراً في دنياکم.»
-  </p>
-</blockquote>
+> «ويحکم يا شيعه آل ابي سفيان! إن لم يکن لکم دين، وکنتم لا تخافون
+> المعاد، فکونوا أحراراً في دنياکم.»
 
 “Woe upon you, O followers of the household of Abu Sufiyan! If you lack
 religion and do not fear the Day of Resurrection, then at least be free
@@ -882,5 +874,4 @@ Al-Luhuf, p. 45.
 [^15]: Ibid., p. 66; Al-Bidayah wa al-Nihayah, vol. 8, p. 183.
 
 [^16]: Al-Bidayah wa al-Nihayah, vol. 8, p. 185.
-
 

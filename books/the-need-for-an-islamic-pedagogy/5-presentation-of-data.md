@@ -917,7 +917,6 @@ on till this day. In sum however, it can be seen that “Islamic
 schooling” or pedagogy, with the exception of the last 100-200 years,
 was far from revolving around memorization.
 
-
 -
 
 “Modern” Perspectives of Islamic Pedagogy

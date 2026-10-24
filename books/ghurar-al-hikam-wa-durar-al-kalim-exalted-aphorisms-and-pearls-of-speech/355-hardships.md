@@ -46,11 +46,7 @@ hardship [itself].
 of negligence].
 
 > 10ـ إذا رَأيْتَ اللّهَ سُبْحانَهُ يُتابِـعُ عَلَيْكَ البَلاءَ فَقَدْ
-<blockquote dir="rtl">
-  <p>
-أيْقَظَكَ.
-  </p>
-</blockquote>
+> أيْقَظَكَ.
 
 11. When hardships distance themselves, solace draws near.
 
@@ -66,21 +62,13 @@ it will yield to you; and deceive time about its calamities, it will
 become easy for you.
 
 > 13ـ إذا خِفْتَ صُعُوبَةَ أمْر فَاصْعُبْ لَهُ يَذِلُّ لَكَ، وخادِعِ
-<blockquote dir="rtl">
-  <p>
-الزَّمانَ عَنْ أحْداثِهِ تَهُنْ عَلَيْكَ.
-  </p>
-</blockquote>
+> الزَّمانَ عَنْ أحْداثِهِ تَهُنْ عَلَيْكَ.
 
 14. When tribulations come to you then sit and accept them, for indeed
 your standing up and confronting them will only aggravate them.
 
 > 14ـ إذا أتَتْكَ المِحَنُ فَاقْعُدْ لَها فَإنَّ قِيامَكَ فيها زِيادَةٌ
-<blockquote dir="rtl">
-  <p>
-لَها.
-  </p>
-</blockquote>
+> لَها.
 
 15. When adversity takes you by surprise, then seek refuge in patience
 and in seeking assistance [from Allah].
@@ -104,11 +92,7 @@ loftiness of] one’s rank.
 attained.
 
 > 19ـ بِالتَّعَبِ الشَّديدِ تُدْرَكُ الدَّرَجاتُ الرَّفيعَةُ والرَّاحَةُ
-<blockquote dir="rtl">
-  <p>
-الدَّائِمَةُ.
-  </p>
-</blockquote>
+> الدَّائِمَةُ.
 
 20. The trial of a man is proportionate to his faith and religion.
 
@@ -127,11 +111,7 @@ and hope.
 family, an overwhelming loan and unrelenting sickness.
 
 > 23ـ ثَلاثٌ مِنْ أعْظَمِ البَلاءِ: كَثْرَةُ العائِلَةِ، وغَلَبَةُ
-<blockquote dir="rtl">
-  <p>
-الدَّيْنِ، ودَوامُ المَرَضِ.
-  </p>
-</blockquote>
+> الدَّيْنِ، ودَوامُ المَرَضِ.
 
 24. The reward for hardship is proportionate to the patience exhibited
 in it.
@@ -154,11 +134,7 @@ in it.
 difficulty of losing it increases.
 
 > 28ـ كُلَّما عَظُمَ قَدْرُ الشَيْءِ المُنافَسِ عَلَيْهِ عَظُمَتِ
-<blockquote dir="rtl">
-  <p>
-الرَّزِيَّةُ لِفَقْدِهِ.
-  </p>
-</blockquote>
+> الرَّزِيَّةُ لِفَقْدِهِ.
 
 29. One who does not prepare himself to confront hardships [with
 patience and supplication], the hardships befall him [while he is
@@ -170,11 +146,7 @@ unprepared for them].
 is actually only complaining against his Lord.
 
 > 30ـ مَنْ أصْبَحَ يَشْكُو مُصيبَةً نَزَلَتْ بِهِ فَإنَّما يَشْكُو
-<blockquote dir="rtl">
-  <p>
-رَبَّهُ.
-  </p>
-</blockquote>
+> رَبَّهُ.
 
 31. One who turns his attention away from this world, hardships become
 easy for him [to bear].
@@ -185,11 +157,7 @@ easy for him [to bear].
 nullified his reward.
 
 > 32ـ مَنْ ضَرَبَ يَدَهُ عَلى فَخِذِهِ عِنْدَ مُصيبَة فَقَدْ أحْبَطَ
-<blockquote dir="rtl">
-  <p>
-أجْرَهُ..
-  </p>
-</blockquote>
+> أجْرَهُ..
 
 33. One who exaggerates small hardships, Allah tries him with great
 ones.
@@ -200,11 +168,7 @@ ones.
 through them.
 
 > 34ـ مَنْ تَوالَتْ عَلَيْهِ نَـكِباتُ الزَّمانِ أكْسَبَتْهُ فَضيلَةَ
-<blockquote dir="rtl">
-  <p>
-الصَّبْرِ.
-  </p>
-</blockquote>
+> الصَّبْرِ.
 
 35. One of the greatest hardships for the virtuous is having to
 socialize with the wicked.
@@ -221,11 +185,7 @@ the hardship that befalls you while its reward and recompense is for
 others.
 
 > 37ـ مُصيبَةٌ في غَيْرِكَ لَكَ أجْرُها خَيْرٌ مِنْ مُصيبَة بِكَ
-<blockquote dir="rtl">
-  <p>
-لِغَيْرِكَ ثَوابُها وَأجْرُها.
-  </p>
-</blockquote>
+> لِغَيْرِكَ ثَوابُها وَأجْرُها.
 
 38. A hardship from which good is expected is better than a blessing for
 which gratitude is not expressed.
@@ -246,11 +206,7 @@ gain great reward for it].
 Glorified, loves a community, He tries them.
 
 > 41ـ إنَّ عَظيمَ الأجْرِ مُقارِنٌ عَظيمَ البَلاءِ، فَإذا أحَبَّ اللّهُ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ قَوْماً اِبْتَلاهُمْ.
-  </p>
-</blockquote>
+> سُبْحانَهُ قَوْماً اِبْتَلاهُمْ.
 
 42. The one who exposes himself to affliction puts himself in danger.
 
@@ -303,5 +259,4 @@ wellbeing.
 safety and comfort.
 
 > 53ـ لاتَأْمَنْ مِنَ البَلاءِ في أمْنِكَ ورَخائِكَ.
-
 

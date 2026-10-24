@@ -43,4 +43,3 @@ He (a.s.) also said: *“Having a good opinion of Allah means that you
 must not hope in anyone except Him and you should not fear for anything
 except for your sins.”*
 
-

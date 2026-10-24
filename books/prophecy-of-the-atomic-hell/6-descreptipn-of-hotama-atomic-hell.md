@@ -480,4 +480,3 @@ pray to God that He through his boundless Mercy save this mankind from
 the painful and disgraceful atomic doom which now confronts us all.
 Amen.
 
-

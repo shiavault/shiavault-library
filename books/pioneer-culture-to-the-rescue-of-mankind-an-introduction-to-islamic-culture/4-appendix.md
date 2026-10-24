@@ -222,4 +222,3 @@ Interpretation of the Nahjol-balagheh, Vols. 19 and 22.
 [^15]: Sigrid Hunke, Allah’s sonne Uber den Abendland (Allah’s Sun
 Shines Upon the West.)
 
-

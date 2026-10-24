@@ -221,4 +221,3 @@ luminous star which is visible in any part of the universe, to guide the
 sailor and the astronaut, or the solitary traveller lost in the
 desert.
 
-

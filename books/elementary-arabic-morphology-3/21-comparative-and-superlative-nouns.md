@@ -24,4 +24,3 @@ trickery one must mention its infinitive in the accusative case being a
 specificative after **أشدّ و أکثر** or the likes. So it is said: **هو
 أکثر احتراماً لأبیه.**
 
-

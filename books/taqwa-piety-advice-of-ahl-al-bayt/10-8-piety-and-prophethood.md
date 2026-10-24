@@ -57,4 +57,3 @@ believe in you while the meanest follow you?”***[^4]
 
 [^4]: Qur'an, 26: 105-111.
 
-

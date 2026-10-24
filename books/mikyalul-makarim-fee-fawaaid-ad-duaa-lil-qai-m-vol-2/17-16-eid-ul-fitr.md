@@ -13,15 +13,11 @@ congregations begins the Prayers. And if you are not able to recite all
 the Duas, you may recite them after the ritual prayers, by way of Qadha
 (fulfillment of lapsed rituals).
 
-<blockquote dir="rtl">
-  <p>
- اللهم إليك وجهت وجهي وساق الدعاء إلى قوله: اللهم صل على وليك المنتظر
-أمرك، المنتظر لفرج أوليائك، اللهم اشعب به الصدع، وارتق به الفتق وأمت
-به الجور، واظهر به العدل، وزين بطول بقائه الأرض، وأيده بنصرك وانصره
-بالرعب، وقو ناصرهم، واخذل خاذلهم، ودمدم على من نصب لهم، ودمر على من
-غشهم
-  </p>
-</blockquote>
+>  اللهم إليك وجهت وجهي وساق الدعاء إلى قوله: اللهم صل على وليك المنتظر
+> أمرك، المنتظر لفرج أوليائك، اللهم اشعب به الصدع، وارتق به الفتق وأمت
+> به الجور، واظهر به العدل، وزين بطول بقائه الأرض، وأيده بنصرك وانصره
+> بالرعب، وقو ناصرهم، واخذل خاذلهم، ودمدم على من نصب لهم، ودمر على من
+> غشهم
 
 O Allah, I turn my face to You…O Allah, bless Your Wali, who awaits for
 Your order, and awaits for the Faraj of Your Awliya. O Allah, mend the
@@ -47,5 +43,4 @@ remove their distress.
 
 [^2]: The aim of this is mentioned in Furu Kafi and also in Ilalush
 Sharai of Shaykh Sadooq/ 389 narrating from Imam Muhammad Baqir (as).
-
 

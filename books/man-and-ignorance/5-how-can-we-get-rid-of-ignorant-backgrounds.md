@@ -68,4 +68,3 @@ Qur'anic verse should be their example in life:
 enjoin what is right and forbid the wrong, and these it is that shall be
 successful.”***Holy Qur'an (3:104)
 
-

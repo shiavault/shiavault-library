@@ -49,4 +49,3 @@ terrible afflictions he
 
 had tested him with.
 
-

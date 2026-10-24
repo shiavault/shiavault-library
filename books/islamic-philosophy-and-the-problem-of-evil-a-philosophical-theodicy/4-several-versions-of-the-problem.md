@@ -122,4 +122,3 @@ futility, from
 another hand, while God's wisdom requires all His actions to be the most
 perfect and to have reasonable goals and objectives.
 
-

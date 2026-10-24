@@ -22,7 +22,6 @@ servants of Allah, then we must abstain from songs and music; and must
 keep them safe from the evil influence of these sinful habits. You will
 find this subject adequately explained in the Appendix.
 
-
 **(8) The Qur'an on Music**
 
 After briefly explaining the evil effects of Music and dance, now time
@@ -101,7 +100,6 @@ they pass in dignity'?"
 I think this much should be enough for a follower of, Muhammad (s.a.w.)
 and Ahul ul Bait (a.s.).
 
-
 **(9) Some Traditions on Music**
 
 After Ayats of the Qur'an, I mention here some of the traditions of the
@@ -179,7 +177,6 @@ because for every thing are its people.
 In a list of major sins which he sent to Caliph Mamun Rashid, Imam Ali
 Ar-Ridha (a.s.) mentioned the participation in the musical gatherings.
 
-
 **Music as per the Companions of the Holy Prophet (s.a.w.)
 
 ** Caliph Omar heard the sound of a flute of a sheperd and he hastily
@@ -229,7 +226,6 @@ This was the reaction of the companions towards the ordinary music of
 past times. How forceful would have been their condemnation of music,
 musical bands and dance of today.
 
-
 **Music in the Light of Traditions**
 
 Holy Prophet (s.a.w) said, "I forbid you to dance and to play the
@@ -271,7 +267,6 @@ at such a place neither the Supplications are responded nor the Angels
 come near such place." Imam Jafar Sadqiue (a.s) said," One who has been
 bestowed with favours of Allah; while in possession of such favours
 plays flute, he has been unthankful to the favours of Allah."
-
 
 **(10) Music and the Last Epoch**
 
@@ -421,7 +416,6 @@ because it is such a good thing in the operation theatre. If music is a
 good anaesthetic, let it be used in surgery and deliveries of children.
 But can that use ever justify its common use in every home at all times
 and in all circumstances?
-
 
 **Appendix**
 
@@ -602,5 +596,4 @@ Book of Human Body
 6. Foundation of Biology, by William D.Mc Elory & Carl P. Swanson and
 others; Prentice-Hall Inc., U.S.A.
 7. The Bridal Bed, by Joseph Braddock; Corgi Books, U.S.A.
-
 

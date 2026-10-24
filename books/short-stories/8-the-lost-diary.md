@@ -206,4 +206,3 @@ ideals?" asked Huda.
 turns into enmity. But since we are inspired by faith and we have good
 intentions to reform society, Allah will surely help us."
 
-

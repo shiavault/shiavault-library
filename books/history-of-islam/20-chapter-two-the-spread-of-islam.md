@@ -295,4 +295,3 @@ blamed them. (the Holy Qur'an 9:81) Others, too, were deprived of taking
 part in the battle due to their lack of ammunitions. (the Holy Qur'an
 9:87, 93)
 
-

@@ -512,4 +512,3 @@ simplicity the theory that provides the simpler explanation should be
 preferred. The preference which scientists given to non- Euclidian
 geometry concerning is very vast space is based on this principle.
 
-

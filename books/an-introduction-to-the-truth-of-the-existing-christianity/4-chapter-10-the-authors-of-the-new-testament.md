@@ -167,7 +167,6 @@ back against all these superstitious beliefs, and become unanimous with
 us so that together, and under the prospering standard of Islam, we
 would achieve real truths. Amen!
 
-
 **Chapter 11: What is The Eucharist?**
 
 Fighting for its very own survival, and since it lacks correct and
@@ -299,7 +298,6 @@ Testament strongly emphasizes that we are saved through faith "and not
 by performing rituals. (Therefore there is no salvation in the acts,
 rites and ceremonies of the Eucharist). May God guide all of us to the
 right path?"
-
 
 **Chapter 12: Does Christ Suffer For Our Sins?**
 
@@ -436,5 +434,4 @@ Briefly, what has been mentioned so far makes it clear that the subject
 of Christ's atonement and suffering for our sins would prevent man from
 his individual and social development. Inasmuch as man moves forward, he
 would become aware of the superstitious nature of this belief.
-
 

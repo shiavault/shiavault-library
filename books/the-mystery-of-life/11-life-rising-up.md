@@ -53,10 +53,8 @@ aspect. Respect toward man's nature is not possible unless the spiritual
 aspect of life is activated, and that happens only when all humans are
 considered as equal. As we read in the Holy Qur’an:
 
-<p dir="rtl">
 من قتل نفسا بغير نفس او فساد فی الارض فکانما قتل الناس جميعا و من
 احياها فكانما احيا الناس جميعا
-</p>
 
 ***“Whoso slays a soul not to retaliate for a slain soul, nor for
 corruption done in the land, shall be as if he had slain mankind
@@ -138,13 +136,9 @@ manages the initial, compulsory life; it never undertakes activating
 supreme levels and aspects. Let us quote from Jalal-addin Muhammad
 Molawi (Rumi) from Divan-e-shams:
 
-<p dir="rtl">
 برگشاده ســوی بالا، بالهـــا زده انـدر زمين چنگـــالها
-</p>
 
-<p dir="rtl">
 خواجه می گريد که ماند از قافله خنده ها دارد از اين ماندن خرش
-</p>
 
 *(The soul has spread its wings, heading for the heavens, but the body
 clings to the earth - this world - with its claws. The wealthy man
@@ -153,9 +147,7 @@ this.)*
 
 2- God helps man with his spiritual evolution. As Imam Ali has said:
 
-<p dir="rtl">
 عبادالله ان من احب عبادالله اليه عبدا اعانه الله علی نفسه
-</p>
 
 *“O servants of God! God's most precious servants are those God has
 helped to crush their lusts and desires.”*
@@ -163,9 +155,7 @@ helped to crush their lusts and desires.”*
 God, of course helps man know and elevate his soul when man himself
 wants it. As Jalal-addin Muhammad Molawi says:
 
-<p dir="rtl">
 چون چنين خواهی، خدا خواهد چنين حــق بــــرآرد آرزوی متّقيــــن
-</p>
 
 *(When you want it, God will do it: God grants what the pious ask for.)*
 
@@ -212,19 +202,13 @@ cast light on others, too.
 
 5- Make use of yourself for yourself. As Imam Ali says:
 
-<p dir="rtl">
 فاخذ امرو من نفسه لنفسه
-</p>
 
 *“Developed man makes use of himself to his own benefit.”*
 
-<p dir="rtl">
 خويش را تسليــم کن، بــردار مزد وانگه از خود بی ز خود چيزی بدزد
-</p>
 
-<p dir="rtl">
 چون به هر ميلی که دل خواهی سپرد از تو چيـزی در نهان خواهند برد
-</p>
 
 *(Make me true, and take any reward you like from me; but if you give
 your soul to anyone you wish, they will steal your inside from you
@@ -241,9 +225,7 @@ positive potentials, and enjoy perfection and development.
 6- If you do not know yourself, you are doomed. Let us quote from Imam
 Ali:
 
-<p dir="rtl">
 هلک امرؤ لم يعرف قدره
-</p>
 
 *“If man does not recognize his own value and potential, he is doomed.”*
 
@@ -259,10 +241,8 @@ either.
 As Imam Ali has said about this essential principle of evolutionary
 life:
 
-<p dir="rtl">
 و اعلموا انه من لم يعن علی نفسه حتی يکون له منها واعظ و زاجر لم يکن
 له من غيرها لا زاجر و لا واعظ
-</p>
 
 *“Lo and behold, he who does not care to be his own internal advisor and
 conscience, nothing and nobody else will do that for him.”*
@@ -275,9 +255,7 @@ evolutionary life.
 8- If you know yourself, you will know your God. As the Holy Prophet of
 Islam Muhammad has said:
 
-<p dir="rtl">
 من عرف نفسه فقد عرف ربه
-</p>
 
 *“If you discover yourself, you have in fact discovered your Lord.”*
 
@@ -322,10 +300,8 @@ realize how necessary this is.
 your own self by submitting to profanity and being prolific. Let us
 quote from Imam Ali:
 
-<p dir="rtl">
 و اکرم نفسک عن کل دنية و ان ساقتک الی الرغايب فانک لن تعتاض بما تبذل
 من نفسک عوضا
-</p>
 
 *“Consider your nature, your disposition, as too great to be traded with
 lowly, decadent affairs, even though your nature may encourage you
@@ -360,9 +336,7 @@ and perfection.
 12- Supreme effort is the strongest force of evolutionary life. As Imam
 Ali has said,
 
-<p dir="rtl">
 قدر الرجل علی قدر همته
-</p>
 
 *“A man's value and merit lies in his effort and endeavor.”*
 
@@ -484,10 +458,8 @@ interpreting his worldly life will also become impossible.
 21- Those who are the most obedient of God also have the best intentions
 about their own selves. As Imam Ali has said,
 
-<p dir="rtl">
 عبادالله ان انصح الناس لنفسه اطوعهم لربه و ان اغشهم لنفسه اعصاهم
 لربه
-</p>
 
 *“O servants of God, those people who are the most obedient are the
 kindest to themselves, and those who defy God are betraying themselves
@@ -842,9 +814,7 @@ and wisdom guiding the universe toward a very elevated destination by
 means of certain laws; every particle in the universe, when considered
 in relation to other particles, confirms that
 
-<p dir="rtl">
 قطــرهای کــــز جويبــاری میرود از پــی انجــام کـــاری میرود
-</p>
 
 *(There is a cause behind even a drop of water going by in a stream.)*
 
@@ -925,5 +895,4 @@ of the
 human nature or virtues - not only will the learners be deprived of
 progress toward development and perfection, but also be influenced by
 external factors.
-
 

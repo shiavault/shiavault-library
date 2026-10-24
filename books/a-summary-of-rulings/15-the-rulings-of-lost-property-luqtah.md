@@ -59,4 +59,3 @@ charity on (the owner's behalf). The recommended precaution is that the
 permission of the Religious Authority be sought in (the lost items
 affair) when its owner was impossible to be found.
 
-

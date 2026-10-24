@@ -258,4 +258,3 @@ necessary that all such people be punished with exemplary punishment.
 
 [^2]: Kāfi vol. 2, page. 352
 
-

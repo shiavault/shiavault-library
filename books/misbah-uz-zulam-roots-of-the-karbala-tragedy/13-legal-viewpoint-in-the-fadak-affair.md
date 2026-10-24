@@ -70,4 +70,3 @@ mentioned here.
 [^3]: Ref. Sharhe Mawaqif, Naval Kishor Press, Maqsad Raabe az marsad
 Raabe, Pg. 735
 
-

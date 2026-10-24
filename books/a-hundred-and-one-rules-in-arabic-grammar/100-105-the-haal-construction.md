@@ -7,9 +7,7 @@ to agree with the modified noun in number and gender. Also, you need to
 remember that the**Haal** could be a clause. Notice how the following
 sentence can be expressed.
 
-<p dir="rtl">
 حضَرَتِ الطالِبَة ُ إلی الصَّفِّ حامِلـَة ً کـُتـُبَها.
-</p>
 
 **    The student (f) came to class carrying her book.**
 
@@ -26,9 +24,7 @@ Obviously, if a verb is intransitive, such as** ** ** ضَحِكَ** , the
 active participlewill not require an object. Check the following
 sentence:
 
-<p dir="rtl">
 **حَضَرَتِ الطالِبَة ُ إلی الصَّفِّ ضاحِکـَة ً.**
-</p>
 
 The student (f) came to class smiling.
 
@@ -36,10 +32,7 @@ The student (f) came to class smiling.
 expressed by a verbal sentence or an equational sentence, the
 independent pronoun agrees with the noun modified by the .الحال**
 
-<p dir="rtl">
 **دَرَسَ العَرَبيَّة َوهو **صَغيرٌ.****
-</p>
 
 He studied Arabic while he was little/young.
-
 

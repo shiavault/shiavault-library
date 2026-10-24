@@ -62,4 +62,3 @@ that is sensed. The following are demonstrative pronouns:
 
     3. **هُنالِک تَمّ**(there, far)
 
-

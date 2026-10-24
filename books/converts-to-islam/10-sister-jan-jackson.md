@@ -199,5 +199,5 @@ I have experienced the miracle of seeing myself as part of creation and
 time and Gods plan, and the consequent joy that follows from this. I
 thank God. ***Alhamdulillah***. And I praise Allah Subhanallah.
 
- <span style="font-weight: 700">Holy Quran 56:95*  
- Most surely this is a certain truth.*</span>
+ Holy Quran 56:95*  
+ Most surely this is a certain truth.*

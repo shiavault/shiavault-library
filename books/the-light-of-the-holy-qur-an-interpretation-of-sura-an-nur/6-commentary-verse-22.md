@@ -109,7 +109,6 @@ made false statements about people's wives compose the great power of
 repulsion. The verse in question, that mentions Allah's mercifulness,
 forgiveness, and clemency, represents the attraction!
 
-
 **Commentary : Verse 23**
 
 23. إِنَّ الَّذِينَ يَرْمُونَ الْمُـحْصَنَاتِ الْغَافِلاَتِ
@@ -119,7 +118,6 @@ forgiveness, and clemency, represents the attraction!
 23. "Verily those who accuse chaste, believing women unaware (of evil),
 are cursed in this world and the Hereafter, and for them shall be a
 grievous chastisement,"
-
 
 **Commentary:**
 
@@ -206,5 +204,4 @@ those who commit great sins. The tradition which says: "Allah has cursed
 ten groups concerning wine..."[^1] is very famous.
 
 [^1] Khisal, by Saduq, Chapter 'Asharah
-
 

@@ -17,10 +17,7 @@ concrete meanings and are used as (b) ordinary nouns such as:
 The third possible use of the active participle is what the Arab
 Grammarians call**the circumstantial or Haal Construction.**
 
-<p dir="rtl">
 **حَضَرَتِ الطالبَة ُ إلی الصَّفِّ** حامِلـَة ً کَتـُبَها **.**
-</p>
 
 The student (f) came to class carrying her book.
-
 

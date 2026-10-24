@@ -25,4 +25,3 @@ is in fact deliverance of all the saints of Allah. As Imam Ja’far Sadiq
 month of Ramadan. Thus praying for it is the most obvious type of
 favoring.
 
-

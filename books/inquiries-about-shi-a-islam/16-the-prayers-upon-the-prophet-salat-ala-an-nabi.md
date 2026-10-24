@@ -48,4 +48,3 @@ Abu Dawud, “Book on Prayer” Hadith 830; Ibn Majah, “Book on Immediate
 Call for Prayer” Hadith 894; Musnad Ahmad ibn Hanbal, Vol. 4, 241, 243,
 and 244; al-Darami, “Book on Prayer” Hadith 1308
 
-

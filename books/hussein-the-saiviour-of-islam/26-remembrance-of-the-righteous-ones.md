@@ -427,4 +427,3 @@ Mujtahid' is competent for the undertaking, and if any pious 'Mujtahid'
 offers himself to shoulder the task the other 'Mujtahid' should not
 stand in his way, on the other hand he must help him.
 
-

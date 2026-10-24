@@ -18,8 +18,5 @@ e. a predicate                              **هو
 A verbal noun derived from a transitive verb does sometimes act like
 that verb and would take an object.
 
-<p dir="rtl">
 **أعجَبَني تـَدريسُ الأستاذِ** العربيَّة َ **.**
-</p>
-
 

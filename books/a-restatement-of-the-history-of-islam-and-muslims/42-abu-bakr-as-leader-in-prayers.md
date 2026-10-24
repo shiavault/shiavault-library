@@ -186,4 +186,3 @@ didn't want Umar to act as prayer-leader. Umar's insistence upon leading
 the Muslims in prayer, before or after the death of the Prophet, could
 not possibly make those prayers less unacceptable to God!
 
-

@@ -297,4 +297,3 @@ why did he believe in an imposter when Allah in the Qur'an and *Rasul*
 in His traditions had clearly declared several times in different
 wordings that there was no *Nabi* to come after Muhammad Al-Mustafa (S).
 
-

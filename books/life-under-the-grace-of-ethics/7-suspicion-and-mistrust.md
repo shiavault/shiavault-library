@@ -55,12 +55,8 @@ areas and make it safe.
 
 Qur’an explicitly instructs the believers:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ
 
 ***O ye who believe! Shun much suspicion; for lo! some suspicion is a
 crime. (49:12)***
@@ -80,12 +76,8 @@ types of suspicion for not being affected to this part.
 In the Islamic traditions too, it is so emphasized on avoidance from
 suspicion on the believers that we read in a tradition from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ اللهَ حَرَّمَ مِنَ الْمُسْلِمِ دَمَهُ وَ مالَهُ وَ عِرْضَهُ وَ
-اَنْ یُظَنَّ بِهِ ظَنَّ السُّوءِ».
-  </p>
-</blockquote>
+> «اِنَّ اللهَ حَرَّمَ مِنَ الْمُسْلِمِ دَمَهُ وَ مالَهُ وَ عِرْضَهُ وَ
+> اَنْ یُظَنَّ بِهِ ظَنَّ السُّوءِ».
 
 God has forbidden blood, wealth, reputation and suspicion about a
 Muslim.[^1]
@@ -165,11 +157,7 @@ pessimistic to all people.
 
 It is mentioned in Islamic traditions:
 
-<blockquote dir="rtl">
-  <p>
-«مُجالَسَةُ الاَْشْرارِ تُورِثُ سُوءَ الظَّنِّ بِالاَْخْیارِ».
-  </p>
-</blockquote>
+> «مُجالَسَةُ الاَْشْرارِ تُورِثُ سُوءَ الظَّنِّ بِالاَْخْیارِ».
 
 Association with evildoers causes suspicion in the righteous. [^2]
 
@@ -178,11 +166,7 @@ dominates on the people of a certain time or place, so that a man
 becomes suspicious to every thing based on this intellectual principle
 that "Suspicion connects everything to its popular sample"
 
-<blockquote dir="rtl">
-  <p>
-«الظَّنُّ یُلْحِقُ الشَیْءَ بِالاَْعَمِّ الاَْغْلَبِ».
-  </p>
-</blockquote>
+> «الظَّنُّ یُلْحِقُ الشَیْءَ بِالاَْعَمِّ الاَْغْلَبِ».
 
 Social losses of mistrust
 -------------------------
@@ -217,12 +201,8 @@ men who are killed for mistrust about them. And sometimes suspicion has
 illuminated the flame of great wars. We read in the occasion of
 revelation of the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا
-بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
-  </p>
-</blockquote>
+> إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا
+> بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
 
 ***If an evil-liver bring you tidings, verify it, lest ye smite some
 folk in ignorance and afterward repent of what ye did. (49:6)***
@@ -279,11 +259,7 @@ conditions of hypocrites, the issue of suspicion and mistrust are
 accounted among their attributes and it says: they are so suffering from
 suspicion that:
 
-<blockquote dir="rtl">
-  <p>
-يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ…
-  </p>
-</blockquote>
+> يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ…
 
 ***They deem every shout to be against them. (63:4)***
 
@@ -327,12 +303,8 @@ possible to avoid it?
 
 The following well-known tradition too proves this sense:
 
-<blockquote dir="rtl">
-  <p>
-«ثَلاثٌ لا یَسْلُمُ مِنْها اَحَدٌ: اَلطِّیَرَةُ وَ الْحَسَدُ وَ
-الظَّنُّ».
-  </p>
-</blockquote>
+> «ثَلاثٌ لا یَسْلُمُ مِنْها اَحَدٌ: اَلطِّیَرَةُ وَ الْحَسَدُ وَ
+> الظَّنُّ».
 
 There are three things that no one is secure from them: forebode, envy
 and suspicion.
@@ -342,12 +314,8 @@ The researchers have paced different ways for solving this problem:
 1- Some believe that suspicion is not forbidden instinctively, and
 express the famous prophetic tradition as their proof:
 
-<blockquote dir="rtl">
-  <p>
-«ثَلاثٌ فِی الْمُؤْمِنِ لا یُسْتَحْسَنَّ وَ لَهُ مِنْهُنَّ مَخْرَجٌ،
-فَمَخْرَجُهُ مِنْ سُوءِ الظَّنِّ اَنْ لا یُحَقِّقَهُ».
-  </p>
-</blockquote>
+> «ثَلاثٌ فِی الْمُؤْمِنِ لا یُسْتَحْسَنَّ وَ لَهُ مِنْهُنَّ مَخْرَجٌ،
+> فَمَخْرَجُهُ مِنْ سُوءِ الظَّنِّ اَنْ لا یُحَقِّقَهُ».
 
 There are three unfavourable things in the believer, and it is possible
 for him to escape them, and it is possible to escape suspicion through
@@ -382,12 +350,8 @@ perspectives.
 
 Imam Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«وَلا تَظُنَّنَّ بِکَلِمَة خَرَجَتْ مِنْ اَخِیکَ سُوءاً وَ اَنْتَ
-تَجِدُ لَها فِی الْخَیْرِ مَحْمِلا».
-  </p>
-</blockquote>
+> «وَلا تَظُنَّنَّ بِکَلِمَة خَرَجَتْ مِنْ اَخِیکَ سُوءاً وَ اَنْتَ
+> تَجِدُ لَها فِی الْخَیْرِ مَحْمِلا».
 
 Do not suspect on the utterance, which you hear from your brother as far
 as you find a proper way for it.[^5]
@@ -399,11 +363,7 @@ forbiddance of suspicion.
 
 Seemingly, the phrase:
 
-<blockquote dir="rtl">
-  <p>
-«کَذِّبْ سَمْعَکَ وَ بَصَرَکَ عَنْ اَخِیکَ».
-  </p>
-</blockquote>
+> «کَذِّبْ سَمْعَکَ وَ بَصَرَکَ عَنْ اَخِیکَ».
 
 Deny your eye and ear about your brother.[^6]
 
@@ -492,12 +452,8 @@ be completely observed.
 The famous tradition narrated from Imam Ali (A.S.) may refer to the same
 reality, where it says:
 
-<blockquote dir="rtl">
-  <p>
-«اِذَا اسْتَوْلَى الْفَسادُ عَلَى الزَّمانِ فَاَحْسَنَ رَجُلٌ الظَّنَّ
-بِرَجُل فَقَدْ غَرِرَ».
-  </p>
-</blockquote>
+> «اِذَا اسْتَوْلَى الْفَسادُ عَلَى الزَّمانِ فَاَحْسَنَ رَجُلٌ الظَّنَّ
+> بِرَجُل فَقَدْ غَرِرَ».
 
 When corruption breaks out at a time, good opinion of individuals to
 each other causes being deceived. [^7]
@@ -516,5 +472,4 @@ in the Example Commentary (Tafsir Nemouneh)
 [^6]: Kelini, Kafi, 147/8
 
 [^7]: Al-Majlisi, Bihar al-Anwar, 197/75, narration 18
-
 

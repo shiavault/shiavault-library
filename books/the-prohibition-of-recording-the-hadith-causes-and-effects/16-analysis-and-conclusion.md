@@ -607,4 +607,3 @@ to speak was Qaradhah who said, “All praise be to Allah Who supported
 your adherents, humiliated your enemies, and gave you victory over the
 tyrants, oppressors, unjust... etc.”
 
-

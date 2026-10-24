@@ -2811,4 +2811,3 @@ mankind.
 
 [^1]: Quoted from "The Enlightened Thinkers' Magazine", No. 829.
 
-

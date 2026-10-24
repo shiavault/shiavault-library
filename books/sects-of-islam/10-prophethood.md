@@ -85,4 +85,3 @@ The Shi’ahs say that ‘Ali was appointed by Allah to be the successor of
 the Prophet, and that the Prophet declared it on several occasions. The
 Sunnis say that the Prophet did not appoint anybody to be his successor.
 
-

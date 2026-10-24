@@ -114,4 +114,3 @@ you, and the community great pains).
 [^1]: Subhani, Ja’far. The Message. Trans. Muhammad Fazal Haq. Islamic
 Seminary, 1984, page 718.
 
-

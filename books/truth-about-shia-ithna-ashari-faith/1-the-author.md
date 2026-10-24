@@ -20,4 +20,3 @@ The Publisher
 Note: Please read here an interview of the author in arabic including
 his email contact details.
 
-

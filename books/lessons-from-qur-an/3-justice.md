@@ -1464,4 +1464,3 @@ the same style, it will show his weakness and lack of knowledge, but if
 all these people show some originality in style and crafts it will speak
 of their creative faculty.
 
-

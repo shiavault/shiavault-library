@@ -8,13 +8,9 @@ principle and it is a part of accounting.
 
 The Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ الْقِيَمَةِ فَلَا تُظْلَمُ
-نَفْسٌ شَيْئاً وَ إِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا
-بِهَا وَكَفَى‏ بِنَا حَسِبِينَ
-  </p>
-</blockquote>
+> وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ الْقِيَمَةِ فَلَا تُظْلَمُ
+> نَفْسٌ شَيْئاً وَ إِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا
+> بِهَا وَكَفَى‏ بِنَا حَسِبِينَ
 
 ***And We will set up a just balance on the day of resurrection, so no
 soul shall be dealt with unjustly in the least; and though there be the
@@ -62,11 +58,7 @@ deeds.”
 
 He asked, “Then what is the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَن ثَقُلَتْ مَوَ زِينُهُ
-  </p>
-</blockquote>
+> فَمَن ثَقُلَتْ مَوَ زِينُهُ
 
 ***…then as for him whose measure (of good deeds) is heavy… (7:8)***
 
@@ -132,11 +124,7 @@ interpretation is mentioned in some traditional reports.
 
 Imam Ja’far Sadiq (as) said in the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ الْقِيَمَةِ
-  </p>
-</blockquote>
+> وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ الْقِيَمَةِ
 
 ***And We will set up a just balance on the day of resurrection…
 (21:47)***
@@ -173,14 +161,10 @@ contains all beliefs, morals and laws of religion.
 From some verses of Quran it can be concluded that man has not one, but
 many balances.
 
-<blockquote dir="rtl">
-  <p>
-وَ الْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَن ثَقُلَتْ مَوَ زِينُهُ
-فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ‏ \* وَمَنْ خَفَّتْ مَوَ زِينُهُ
-فَأُوْلَئِكَ الَّذِينَ خَسِرُواْ أَنفُسَهُم بِمَا كَانُواْ بَِايَتِنَا
-يَظْلِمُونَ‏
-  </p>
-</blockquote>
+> وَ الْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَن ثَقُلَتْ مَوَ زِينُهُ
+> فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ‏ \* وَمَنْ خَفَّتْ مَوَ زِينُهُ
+> فَأُوْلَئِكَ الَّذِينَ خَسِرُواْ أَنفُسَهُم بِمَا كَانُواْ بَِايَتِنَا
+> يَظْلِمُونَ‏
 
 ***And the measuring out on that day will be just; then as for him whose
 measure (of good deeds) is heavy, those are they who shall be
@@ -221,11 +205,7 @@ All these acts, reactions and changes occur in this world and inside the
 self, but he himself is unaware of them, till on Judgment Day the
 curtain would be removed from his eyes.
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُبْلَى السَّرَآئِرُ
-  </p>
-</blockquote>
+> يَوْمَ تُبْلَى السَّرَآئِرُ
 
 ***On the day when hidden things shall be made manifest. (86:9)***
 
@@ -251,5 +231,4 @@ the pan of balance of his self either light or heavy.
 [^9]: Biharul Anwar, Vol. 35, Pg. 343.
 
 [^10]: Biharul Anwar, Vol. 23, Pg. 107.
-
 

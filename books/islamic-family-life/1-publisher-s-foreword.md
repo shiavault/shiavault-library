@@ -27,4 +27,3 @@ Friend.
 *30/7/1980*  
  Tehran, Iran.
 
-

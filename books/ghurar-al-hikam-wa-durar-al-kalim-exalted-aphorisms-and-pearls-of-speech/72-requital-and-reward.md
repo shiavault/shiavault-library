@@ -32,12 +32,8 @@ when there is an alternative, for this causes depletion of the faith and
 brings closer the transformations [of blessing into calamity].
 
 > 6ـ لاتُسْرِعَنَّ إلى بادِرَة ولا تُعَجِّلَنَّ بِعُقُوبَة وَجَدْتَ
-<blockquote dir="rtl">
-  <p>
-عَنْها مَنْدُوحَةً فَإنَّ ذلِكَ مَنْهَكَةٌ لِلدّينِ مُقَرِّبٌ مِنَ
-الغِيَـرِ.
-  </p>
-</blockquote>
+> عَنْها مَنْدُوحَةً فَإنَّ ذلِكَ مَنْهَكَةٌ لِلدّينِ مُقَرِّبٌ مِنَ
+> الغِيَـرِ.
 
 7. The quickest punishment is the punishment for transgression.
 
@@ -47,11 +43,7 @@ brings closer the transformations [of blessing into calamity].
 sins against Him in order to save His servants from His chastisement.
 
 > 8ـ إنَّ اللّهَ سُبْحانَهُ قَدْ وَضَعَ العِقابَ عَلى مَعاصِيهِ ذِيادَةً
-<blockquote dir="rtl">
-  <p>
-لِعِبادِهِ عَنْ نَقِمَتِهِ.
-  </p>
-</blockquote>
+> لِعِبادِهِ عَنْ نَقِمَتِهِ.
 
 9. The punishment of noble ones is better than the forgiveness of the
 vile ones.
@@ -95,5 +87,4 @@ merit.[^1]
 > 17ـ ما أقْبَحَ العُقُوبَةَ مَعَ الاِعْتِذارِ.
 
 [^1]: Rather, the merit is in forgiving.
-
 

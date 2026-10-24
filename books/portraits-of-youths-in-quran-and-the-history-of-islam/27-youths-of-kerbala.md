@@ -31,8 +31,8 @@ Messenger of Allah (s.a.w.s.) and each of them was a gem of the treasure
 of Prophethood.
 
 The tragedy of Imam Husain (a.s), the terrible incident of Ashura
-(10<sup>th</sup> of Mohurrum) and the horrible scenes of carnage
-occurred in the 61<sup>st</sup> year of Hijrah when seventy-two purified
+(10th of Mohurrum) and the horrible scenes of carnage
+occurred in the 61st year of Hijrah when seventy-two purified
 youths and loyal personages were martyred. This episode blackened the
 face of history and the head of mankind bowed down in shame.
 

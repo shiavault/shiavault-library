@@ -7,11 +7,7 @@ Wealth And Riches
 Allah, the Glorified.
 
 > 1ـ اَلْمالُ يُكْرِمُ صاحِبَهُ فِي الدُّنْيا، ويُهِينُهُ عِنْدَ اللّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ.
 
 2. Wealth honours its possessor as long as he spends it and abases him
 when he is miserly with it.
@@ -22,11 +18,7 @@ when he is miserly with it.
 action is the tillage of the Hereafter.
 
 > 3ـ اَلْمالُ والبَنُونُ زِينَةُ الحَياةِ الدُّنْيا، والعَمَلُ الصّالِحُ
-<blockquote dir="rtl">
-  <p>
-حَرْثُ الآخِرَةِ.
-  </p>
-</blockquote>
+> حَرْثُ الآخِرَةِ.
 
 4. Wealth elevates its possessor in this world but lowers him in the
 Hereafter.
@@ -46,21 +38,13 @@ from it [for the Hereafter].
 given away [and shared with others].
 
 > 7ـ اَلْمالُ تَنْقُصُهُ النَّفَقَةُ، وَالعِلْمُ يَـزْكُو عَلَى
-<blockquote dir="rtl">
-  <p>
-الإنْفاقِ.
-  </p>
-</blockquote>
+> الإنْفاقِ.
 
 8. Hold on to wealth according to the extent of your need, and forward
 the rest for the day of your indigence.
 
 > 8ـ أمْسِكْ مِنَ المالِ بِقَدْرِ ضَرُورَتِكَ،وَ قَدِّمِ الفَضْلَ
-<blockquote dir="rtl">
-  <p>
-لِيَوْمِ فاقَتِكَ.
-  </p>
-</blockquote>
+> لِيَوْمِ فاقَتِكَ.
 
 9. Beware of reserving for yourself (or concealing) that which all the
 people have an equal right to and turning a blind eye to what is
@@ -68,12 +52,8 @@ manifest for the onlookers otherwise it will surely be taken from you
 and given to someone else.
 
 > 9ـ إيّاكَ والاِسْتيثارَ (الاِسْتِتارَ)بِما لِلنّاسِ فيهِ أُسْوَةٌ،
-<blockquote dir="rtl">
-  <p>
-والتَّغابي عَمّا وَضَحَ لِلنّاظِرينَ فَإنَّهُ مَأْخُوذٌ مِنْكَ
-لِغَيْرِكَ.
-  </p>
-</blockquote>
+> والتَّغابي عَمّا وَضَحَ لِلنّاظِرينَ فَإنَّهُ مَأْخُوذٌ مِنْكَ
+> لِغَيْرِكَ.
 
 10. The best wealth is that by which the freemen become enthralled.[^1]
 
@@ -124,12 +104,8 @@ in the wealth of the rich, so no poor person goes hungry but because of
 the withholding of the rich, and Allah will question them about this.
 
 > 20ـ إنَّ اللّهَ سُبْحانَهُ فَرَضَ في أمْوالِ الأغْنياءِ أقْواتَ
-<blockquote dir="rtl">
-  <p>
-الفُقَراءِ، فَما جاعَ فَقِيرٌ إلاّ بِما مَنَعَ غَنِيٌّ، واللّهُ
-سائِلُهُمْ عَنْ ذلِكَ.
-  </p>
-</blockquote>
+> الفُقَراءِ، فَما جاعَ فَقِيرٌ إلاّ بِما مَنَعَ غَنِيٌّ، واللّهُ
+> سائِلُهُمْ عَنْ ذلِكَ.
 
 21. Surely the person with the greatest regret on the Day of
 Resurrection will be the man who earns wealth without obeying [the
@@ -138,12 +114,8 @@ obedience to Allah and through it enters Paradise whereas the first one
 enters Hell because of it.
 
 > 21ـ إنَّ أعْظَمَ النّاسِ حَسْرَةً يَوْمَ القِيامَةِ، رَجُلٌ اكْتَسَبَ
-<blockquote dir="rtl">
-  <p>
-مالاً مِنْ غَيْرِ طاعَةِ اللّهِ، فَوَرَّثَهُ رَجُلاً أنْفَقَهُ في
-طاعَةِ اللّهِ، فَدَخَلَ بِهِ الجَنَّةَ، ودَخَلَ بِهِ الأوَّلُ النّارَ.
-  </p>
-</blockquote>
+> مالاً مِنْ غَيْرِ طاعَةِ اللّهِ، فَوَرَّثَهُ رَجُلاً أنْفَقَهُ في
+> طاعَةِ اللّهِ، فَدَخَلَ بِهِ الجَنَّةَ، ودَخَلَ بِهِ الأوَّلُ النّارَ.
 
 22. Verily when a man dies people say: ‘What has he left behind?’ while
 the angels say: ‘What has he sent forward?’ Your forefathers are for
@@ -152,42 +124,26 @@ provision for you [in the Hereafter], and do not leave all of it behind
 such that it becomes a [heavy] burden on you.
 
 > 22ـ إنَّ المَرْءَ إذا هَلَكَ قالَ النّاسُ: ما تَرَكَ؟ وقالَتِ
-<blockquote dir="rtl">
-  <p>
-المَلائِكَةُ ما قَدَّمَ؟ لِلّهِ آباؤُكُمْ، فَقَدِّمُوا بَعْضاً يَكُنْ
-لَكُمْ ذُخْراً، ولاتُخَلِّفُوا كُلاًّ فَيَكُونَ عَلَيْكُمْ كَلاًّ.
-  </p>
-</blockquote>
+> المَلائِكَةُ ما قَدَّمَ؟ لِلّهِ آباؤُكُمْ، فَقَدِّمُوا بَعْضاً يَكُنْ
+> لَكُمْ ذُخْراً، ولاتُخَلِّفُوا كُلاًّ فَيَكُونَ عَلَيْكُمْ كَلاًّ.
 
 23. Verily the best wealth is that which earns praise and gratitude and
 brings about reward and recompense.
 
 > 23ـ إنَّ خَيْرَ المالِ ما كَسَبَ ثَناءً وشُكْراً، وأوْجَبَ ثَواباً
-<blockquote dir="rtl">
-  <p>
-وأجْراً.
-  </p>
-</blockquote>
+> وأجْراً.
 
 24. Verily the best wealth is that which bequeaths to you a provision
 [for the Hereafter] and a legacy, and earns you praise and reward.
 
 > 24ـ إنَّ خَيْرَ الْمالِ ما أوْرَثَكَ ذُخْراً وذِكْراً، وأَكْسَبَكَ
-<blockquote dir="rtl">
-  <p>
-حَمْداً وَأجْراً.
-  </p>
-</blockquote>
+> حَمْداً وَأجْراً.
 
 25. Indeed the best wealth is that by which the freeman is enthralled
 and [by which] reward is earned.
 
 > 25ـ إنَّ أفْضَلَ الأمْوالِ مَا اسْتُرِقَّ بِهِ حُرٌّ، واسْتُحِقَّ بِهِ
-<blockquote dir="rtl">
-  <p>
-أجْرٌ.
-  </p>
-</blockquote>
+> أجْرٌ.
 
 26. Verily your wealth cannot fulfil the needs of all the people, so
 reserve it specifically for the followers of the truth.
@@ -212,15 +168,11 @@ these two deserve to be preferred by you over yourself or of being
 carried by you on your back.
 
 > 29ـ إنَّ الَّذي في يَدَيْكَ قَدْ كانَ لَهُ أهْلٌ قَبْلَكَ، وهُوَ
-<blockquote dir="rtl">
-  <p>
-صائِرٌ إلى مَنْ بَعْدَكَ، وإنَّما أنْتَ جامِع لأحَدِ رَجُلَيْنِ: إمّا
-رَجُل عَمِلَ فيما جَمَعْتَ بِطاعَةِ اللّهِ فَسَعِدَ بِما شَقيتَ بِهِ،
-أوْ رَجُل عَمِلَ فيما جَمَعْتَ بِمَعْصيَةِ اللّهِ فَشَقِيَ بِما
-جَمَعْتَ، ولَيْسَ أحَدُ هذَيْنِ أهْلاً أنْ تُؤْثِرَهُ عَلى نَفْسِكَ،
-ولاتَحْمِلَ لَهُ عَلى ظَهْرِكَ.
-  </p>
-</blockquote>
+> صائِرٌ إلى مَنْ بَعْدَكَ، وإنَّما أنْتَ جامِع لأحَدِ رَجُلَيْنِ: إمّا
+> رَجُل عَمِلَ فيما جَمَعْتَ بِطاعَةِ اللّهِ فَسَعِدَ بِما شَقيتَ بِهِ،
+> أوْ رَجُل عَمِلَ فيما جَمَعْتَ بِمَعْصيَةِ اللّهِ فَشَقِيَ بِما
+> جَمَعْتَ، ولَيْسَ أحَدُ هذَيْنِ أهْلاً أنْ تُؤْثِرَهُ عَلى نَفْسِكَ،
+> ولاتَحْمِلَ لَهُ عَلى ظَهْرِكَ.
 
 30. Wealth is the plunder of calamities.
 
@@ -276,21 +228,13 @@ hardship.
 yours, while that which you leave behind belongs to your heirs.
 
 > 42ـ إنَّما لَكَ مِنْ مالِكَ ما قَدَّمْتَهُ لآخِرَتِكَ، وَما أخَّرْتَهُ
-<blockquote dir="rtl">
-  <p>
-فَلِلْوارِثِ.
-  </p>
-</blockquote>
+> فَلِلْوارِثِ.
 
 43. When you accumulate wealth, then you are [actually] a representative
 for another person who will rejoice with it while you become miserable.
 
 > 43ـ إذا جَمَعْتَ المالَ فَأنْتَ فيهِ وَكيلٌ لِغَيْرِكَ يَسْعَدُ بِهِ
-<blockquote dir="rtl">
-  <p>
-وتَشْقى أنْتَ.
-  </p>
-</blockquote>
+> وتَشْقى أنْتَ.
 
 44. When you send forth your wealth for your Hereafter and leave [the
 affair of] your heirs in the hands of Allah, you will be felicitous by
@@ -298,12 +242,8 @@ that which you have forwarded and Allah will take good care of those
 whom you leave behind.
 
 > 44ـ إذا قَدَّمْتَ مالَكَ لآخِرَتِكَ واسْتَخْلَفْتَ اللّهَ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-عَلى مَنْ خَلَّفْتَهُ مِنْ بَعْدِكَ، سَعِدْتَ بِما قَدَّمْتَ وأحْسَنَ
-اللّهُ لَكَ الخَلافَةَ عَلى مَنْ خَلَّفْتَ.
-  </p>
-</blockquote>
+> عَلى مَنْ خَلَّفْتَهُ مِنْ بَعْدِكَ، سَعِدْتَ بِما قَدَّمْتَ وأحْسَنَ
+> اللّهُ لَكَ الخَلافَةَ عَلى مَنْ خَلَّفْتَ.
 
 45. It is by overcoming [one’s] fears that wealth is acquired.
 
@@ -355,11 +295,7 @@ is the root of tribulations.
 for which your Lord will elevate your lofty deeds.
 
 > 56ـ خُذُوا مِنْ كَرائِمِ أمْوالِكُم ما يَرْفَعُ بِهِ رَبُّكُمْ سَنِيَّ
-<blockquote dir="rtl">
-  <p>
-أعْمالِكُمْ.
-  </p>
-</blockquote>
+> أعْمالِكُمْ.
 
 57. Many a person accumulates [wealth] for one who is not grateful to
 him.
@@ -383,11 +319,7 @@ of] its owner.
 Allah and the [obligatory] *zakāt* of which is not paid.
 
 > 61ـ شَرُّ المالِ مالَمْ يُنْفَقْ في سَبيلِ اللّهِ مِنْهُ، ولَمْ
-<blockquote dir="rtl">
-  <p>
-تُؤَدَّ زَكاتُهُ.
-  </p>
-</blockquote>
+> تُؤَدَّ زَكاتُهُ.
 
 62. The worst wealth is that from which the right of Allah, the
 Glorified, is not given.
@@ -414,11 +346,7 @@ destroys.
 become a burden for you.
 
 > 66ـ قَدِّمُوا بَعْضاً يَكُنْ لَكُمْ، ولاتُخَلِّفُوا كُلاًّ فَيَكُونَ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ.
 
 67. How many a person accumulates that which he will leave behind.
 
@@ -468,12 +396,8 @@ or his favour to one who is not deserving of it, but that Allah deprives
 him of their gratefulness and their love, too, would be for others.
 
 > 76ـ لَمْ يَضَعِ اِمْرُءٌ مالَهُ في غَيْرِ حَقِّهِ أوْ مَعْرُوفَهُ في
-<blockquote dir="rtl">
-  <p>
-غَيْرِ أهْلِهِ إلاّ حَرَمَهُ اللّهُ شُكْرَهُمْ وَكانَ لِغَيْرِهِ
-وُدَّهُمْ.
-  </p>
-</blockquote>
+> غَيْرِ أهْلِهِ إلاّ حَرَمَهُ اللّهُ شُكْرَهُمْ وَكانَ لِغَيْرِهِ
+> وُدَّهُمْ.
 
 77. One who gives [generously from] his wealth makes [others]
 subservient [to him].
@@ -490,11 +414,7 @@ is obeyed by them and one who accumulates [it] for himself is
 disregarded by them.
 
 > 79ـ مَنْ جَمَعَ المالَ لِيَنْفَعَ بِهِ النّاسَ أطاعُوهُ ومَنْ جَمَعَ
-<blockquote dir="rtl">
-  <p>
-لِنَفْسِهِ أضاعُوهُ.
-  </p>
-</blockquote>
+> لِنَفْسِهِ أضاعُوهُ.
 
 80. One who considers wealth to be precious, regards people as
 insignificant.
@@ -515,11 +435,7 @@ to one who does not praise him.
 the places that are unworthy [and inappropriate].
 
 > 83ـ مَنْ يَكْتَسِبْ مالاً مِنْ غَيْرِ حِلِّهِ يَصْرِفْهُ في غَيْرِ
-<blockquote dir="rtl">
-  <p>
-حَقِّهِ.
-  </p>
-</blockquote>
+> حَقِّهِ.
 
 84. One who does not let go [of his wealth] while he is praised will
 have to leave [it] while he is vilified.
@@ -530,11 +446,7 @@ have to leave [it] while he is vilified.
 [sure to be] rewarded [for it], leaves it behind while he is sinful.
 
 > 85ـ مَنْ لَمْ يُقَدِّمْ مالَهُ لآخِرَتِهِ وهُوَ مَأجُورٌ، خَلَّفَهُ
-<blockquote dir="rtl">
-  <p>
-وهُوَ مَاْثُومٌ.
-  </p>
-</blockquote>
+> وهُوَ مَاْثُومٌ.
 
 86. One whose wealth is stripped away by disasters, gains from it the
 benefit of caution.
@@ -549,11 +461,7 @@ benefit of caution.
 Lord without any [good] deed.
 
 > 88ـ لاتَصْرِفْ مالَكَ فِي المَعاصي، فَتَقْدَمَ عَلى رَبِّكَ بِلا
-<blockquote dir="rtl">
-  <p>
-عَمَل.
-  </p>
-</blockquote>
+> عَمَل.
 
 89. Never leave behind anything from this world, for indeed you will
 [only] be leaving it for one of two types of people: either the man who
@@ -563,14 +471,10 @@ case you will have been a helper for him in his disobedience, and
 neither of these two deserves to be preferred by you over yourself.
 
 > 89ـ لاتُخْلِفَنَّ وَراءَكَ شَيْئاً مِنَ الدُّنْيا فَإنَّكَ تُخَلِّفُهُ
-<blockquote dir="rtl">
-  <p>
-لأحَدِ رَجُلَيْنِ: إمّا رَجُل عَمِلَ فيهِ بِطاعَةِ اللّهِ فَسَعِدَ
-بِما شَقيتَ بِهِ، وإمّا رَجُل عَمِلَ فيهِ بِمَعْصيَةِ اللّهِ فَكُنْتَ
-عَوْناً لَهُ عَلَى المَعْصِيَةِ، ولَيْسَ أحَدُ هذَيْنِ حَقيقاً أنْ
-تُؤْثِرَهُ عَلى نَفْسِكَ.
-  </p>
-</blockquote>
+> لأحَدِ رَجُلَيْنِ: إمّا رَجُل عَمِلَ فيهِ بِطاعَةِ اللّهِ فَسَعِدَ
+> بِما شَقيتَ بِهِ، وإمّا رَجُل عَمِلَ فيهِ بِمَعْصيَةِ اللّهِ فَكُنْتَ
+> عَوْناً لَهُ عَلَى المَعْصِيَةِ، ولَيْسَ أحَدُ هذَيْنِ حَقيقاً أنْ
+> تُؤْثِرَهُ عَلى نَفْسِكَ.
 
 90. Love of wealth and praise do not go together.
 
@@ -588,11 +492,7 @@ neither of these two deserves to be preferred by you over yourself.
 proper act and the proper act of his opponent into a mistake.
 
 > 93ـ اَلدَّوْلَةُ تَرُدُّ خَطاءَ صاحِبِها صَواباً وصَوابَ ضِدِّهِ
-<blockquote dir="rtl">
-  <p>
-خَطاءً.
-  </p>
-</blockquote>
+> خَطاءً.
 
 [^1]: Meaning the natural feeling of indebtedness a person feels when
 someone helps him, financially or otherwise.
@@ -602,5 +502,4 @@ person or persons by connecting them to Allah.
 
 [^3]: Or: People acquire wealth, wealth does not acquire [and win over]
 people.
-
 

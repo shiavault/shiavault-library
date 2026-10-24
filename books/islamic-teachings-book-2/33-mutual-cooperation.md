@@ -20,4 +20,3 @@ others should help him. All of us should, therefore, endeavour to get
 acquainted with the needs and difficulties of one another, and remove
 them as far as possible.
 
-

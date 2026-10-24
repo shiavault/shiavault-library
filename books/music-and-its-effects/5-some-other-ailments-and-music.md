@@ -73,4 +73,3 @@ this disabling habit.
 
 [^6]: Time.
 
-

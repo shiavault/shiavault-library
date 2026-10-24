@@ -87,11 +87,7 @@ the share of the Divine gifts that shall come a person's way.
 
 And it is for this reason that Imam as-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِندَ اللٌّهِ مَنْزِلَةً لاَ تُـنَالُ إِِلاَّ بِمَسْأَلَةٍ.
-  </p>
-</blockquote>
+> إِنَّ عِندَ اللٌّهِ مَنْزِلَةً لاَ تُـنَالُ إِِلاَّ بِمَسْأَلَةٍ.
 
 “Allah (s.w.t.) has ordained ranks, which cannot be achieved except by
 means of supplication.”[^5]
@@ -124,5 +120,4 @@ well-known doctor and psychologist Alexis Carrol.
 [^7]: Ibid., pg. 152
 
 [^8]: Tafsir-e-Namuna, vol. 1, pg. 639
-
 

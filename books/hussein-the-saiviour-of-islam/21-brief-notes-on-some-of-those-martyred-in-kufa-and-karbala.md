@@ -475,4 +475,3 @@ of Abraham through his son Ishmae1,in the lineage of Ishmael through
 Muhammad the Last Apostle of God, Ali the Ameerul-Momineen, the First of
 the Holy Imams and Lady Fatema the Lady of Light.
 
-

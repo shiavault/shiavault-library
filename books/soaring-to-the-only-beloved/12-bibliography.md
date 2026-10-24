@@ -61,4 +61,3 @@ Mudarrisin, Qum, Iran.*
 *Fasl-e Sabr Memoirs of the days of Imam's illness and demise by the
 team of physicians and those affiliated to Imam Khumayni*
 
-

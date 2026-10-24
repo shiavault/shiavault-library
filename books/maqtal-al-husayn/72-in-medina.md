@@ -208,4 +208,3 @@ providing food for a mourning ceremony.
 
 [^8]: Abul-Faraj al-Isfahani, Al-Aghani, Vol. 2, p. 158.
 
-

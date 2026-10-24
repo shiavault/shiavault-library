@@ -155,4 +155,3 @@ over-confident of immunity from His Wrath and Punishment.
 49- Like your body your mind also gets tired and fagged, in such case
 find educational diversions for it.
 
-

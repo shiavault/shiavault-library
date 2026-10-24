@@ -688,4 +688,3 @@ it is by invoking their name in prayer, or by physical presence in their
 companionship or through expressions of love for them. These acts
 of*istighāathah* and intermediation are correct and legally permissible.
 
-

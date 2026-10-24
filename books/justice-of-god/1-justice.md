@@ -628,4 +628,3 @@ The only group remaining is the one which has enmity towards the truth
 and commit oppression, corruption and hypocrisy so that their whole
 being is covered in oppression, *kufr* and faithlessness.
 
-

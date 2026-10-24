@@ -87,7 +87,6 @@ people’s ignorance of all the Quranic verses we have listed previously
 with all their forthright significance that rejects determinism and
 authorization and man’s independence of will and deed.
 
-
 **“Free Choice is Not Equal to Independence”**
 
 Before moving to tackle the style by means of which the scholars of the
@@ -273,5 +272,4 @@ held responsible for the other’s suicide.
 Perhaps the best and most scientifically accurate example in this
 respect is the one given by the late Ayatollah Aludma Authority Syaied
 Al Khoua'y.
-
 

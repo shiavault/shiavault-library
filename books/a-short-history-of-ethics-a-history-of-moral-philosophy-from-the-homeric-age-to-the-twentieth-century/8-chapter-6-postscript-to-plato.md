@@ -212,4 +212,3 @@ obedience, for the many. But it does not follow that Plato did not
 believe in imposing virtue; but rather that the confusion imbedded in
 his beliefs obscured from him that this was what he believed in.
 
-

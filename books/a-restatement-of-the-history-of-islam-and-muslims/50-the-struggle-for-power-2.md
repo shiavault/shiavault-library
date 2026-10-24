@@ -135,4 +135,3 @@ Ansar to a mere rank-and-file status.
 When Muhammad died, and Ali's succession was precluded, the Ansar ceased
 to be the masters in their own home – Medina!
 
-

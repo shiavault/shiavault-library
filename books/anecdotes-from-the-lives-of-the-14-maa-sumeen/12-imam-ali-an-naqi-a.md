@@ -117,4 +117,3 @@ the writing on each half of the stone.
 No matter what trouble you are faced with always trust in Allah and ask
 for His help as He can make anything happen.
 
-

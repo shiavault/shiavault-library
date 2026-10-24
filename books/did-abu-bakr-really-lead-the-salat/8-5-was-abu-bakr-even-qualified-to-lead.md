@@ -30,12 +30,8 @@ Prophet’s mosque?
 
 The answer to the first question is in this verse:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا لا تقدموا بين يدي الله ورسوله واتقوا الله إن الله
-سميع عليم
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا لا تقدموا بين يدي الله ورسوله واتقوا الله إن الله
+> سميع عليم
 
 O you who believe! **Do not lead in front of Allah and His Messenger**,
 and fear Allah. Verily, Allah is All-Hearing, All-Knowing.[^1]
@@ -44,14 +40,10 @@ This effectively makes it absolutely *haram* to lead the Prophet of
 Allah in anything – including in battles and *salat*. Imam
 al-Mubarakfuri (d. 1282 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-حكى ذلك القاضي عياض قال ولا يصح لأحد أن يؤم جالسا بعده صلى الله عليه
-وسلم قال وهو مشهور قول مالك وجماعة أصحابه قال وهذا أولى الأقاويل لأنه
-صلى الله عليه وسلم لا يصح التقدم بين يديه في الصلاة ولا في غيرها ولا
-لعذر ولا لغيره
-  </p>
-</blockquote>
+> حكى ذلك القاضي عياض قال ولا يصح لأحد أن يؤم جالسا بعده صلى الله عليه
+> وسلم قال وهو مشهور قول مالك وجماعة أصحابه قال وهذا أولى الأقاويل لأنه
+> صلى الله عليه وسلم لا يصح التقدم بين يديه في الصلاة ولا في غيرها ولا
+> لعذر ولا لغيره
 
 That is narrated from Qaḍi ‘Iyaḍ. He said, “It is not correct for anyone
 to lead in *salat* in a sitting posture other than him, peace be upon
@@ -64,12 +56,8 @@ otherwise**.”[^2]
 Al-Hafiz (d. 852 H), while relating the submissions of Qaḍi Iyaḍ,
 reports:
 
-<blockquote dir="rtl">
-  <p>
-واحتج أيضا بأنه صلى الله عليه وسلم إنما صلى بهم قاعدا لأنه لا يصح
-التقدم بين يديه لنهى الله عن ذلك
-  </p>
-</blockquote>
+> واحتج أيضا بأنه صلى الله عليه وسلم إنما صلى بهم قاعدا لأنه لا يصح
+> التقدم بين يديه لنهى الله عن ذلك
 
 He cited as proof also the fact that he, peace be upon him, led them in
 *salat* in a sitting posture, **because it is NOT correct to lead in
@@ -82,12 +70,8 @@ lead the Messenger in *salat* or in any other situation or circumstance.
 Even Abu Bakr too realized this, as documented by Imam Muslim (d. 261
 H):
 
-<blockquote dir="rtl">
-  <p>
-قال أبو بكر ما كان لابن أبي قحافة أن يصلي بين يدي رسول الله صلى الله
-عليه و سلم
-  </p>
-</blockquote>
+> قال أبو بكر ما كان لابن أبي قحافة أن يصلي بين يدي رسول الله صلى الله
+> عليه و سلم
 
 Abu Bakr said, “It is NOT for the son of Abu Quhafah (i.e. Abu Bakr) to
 lead *salat* in front of the Messenger of Allah, peace be upon him.”[^4]
@@ -106,13 +90,9 @@ that moment when – as your sect claims - Abu Bakr led the Prophet in
 crucial in the light of some authentic narrations in your books. For
 instance, Imam al-Tirmidhi (d. 279 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا هناد حدثنا أبومعاوية عن الأعمش عن إسماعيل بن رجاء عن أوس بن ضمعج
-عن أبي مسعود أن رسول الله صلى الله عليه و سلم قال لا يؤم الرجل في
-سلطانه ولا يجلس على تكرمته إلا بإذنه
-  </p>
-</blockquote>
+> حدثنا هناد حدثنا أبومعاوية عن الأعمش عن إسماعيل بن رجاء عن أوس بن ضمعج
+> عن أبي مسعود أن رسول الله صلى الله عليه و سلم قال لا يؤم الرجل في
+> سلطانه ولا يجلس على تكرمته إلا بإذنه
 
 Hanad – Abu Mu’awiyah – al-A’mash – Isma’il b. Raja - Aws b. Ḍam’aj –
 Abu Mas’ud:
@@ -123,33 +103,21 @@ in his place of honour except with his permission.”[^5]
 
 Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan sahih*[^6]
 
 ‘Allamah al-Albani (d. 1420 H) also comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^7]
 
 Imam al-Nasai (d. 303 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا إبراهيم بن محمد التيمي قال حدثنا يحيى بن سعيد عن شعبة عن
-إسماعيل بن رجاء عن أوس بن ضمعج عن أبي مسعود قال قال رسول الله صلى الله
-عليه و سلم لا يؤم الرجل في سلطانه ولا يجلس على تكرمته إلا بإذنه
-  </p>
-</blockquote>
+> أخبرنا إبراهيم بن محمد التيمي قال حدثنا يحيى بن سعيد عن شعبة عن
+> إسماعيل بن رجاء عن أوس بن ضمعج عن أبي مسعود قال قال رسول الله صلى الله
+> عليه و سلم لا يؤم الرجل في سلطانه ولا يجلس على تكرمته إلا بإذنه
 
 Ibrahim b. Muhammad al-Taymi – Yahya b. Sa’id – Shu’bah – Isma’il b.
 Raja – Aws b. Ḍam’aj – Abu Mas’ud:
@@ -160,11 +128,7 @@ in his place of honour except with his permission.”[^8]
 
 And ‘Allamah al-Albani declares again:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^9]
 
@@ -184,16 +148,12 @@ way to it.
 In other *ahadith*, the Messenger of Allah mentions some other
 conditions with farther reaching implications. Imam Muslim records:
 
-<blockquote dir="rtl">
-  <p>
-وحدثنا أبو بكر بن أبي شيبة وأبو سعيد الأشج كلاهما عن أبي خالد قال أبو
-بكر حدثنا أبو خالد الأحمر عن الأعمش عن إسماعيل بن رجاء عن أوس بن ضمعج
-عن أبي مسعود الأنصاري قال قال رسول الله صلى الله عليه و سلم يؤم القوم
-أقرؤهم لكتاب الله فإن كانوا في القراءة سواء فأعلمهم بالسنة فإن كانوا
-في السنة سواء فأقدمهم هجرة فإن كانوا في الهجرة سواء فأقدمهم سلما ولا
-يؤمن الرجل الرجل في سلطانه ولا يقعد في بيته على تكرمته إلا بإذنه
-  </p>
-</blockquote>
+> وحدثنا أبو بكر بن أبي شيبة وأبو سعيد الأشج كلاهما عن أبي خالد قال أبو
+> بكر حدثنا أبو خالد الأحمر عن الأعمش عن إسماعيل بن رجاء عن أوس بن ضمعج
+> عن أبي مسعود الأنصاري قال قال رسول الله صلى الله عليه و سلم يؤم القوم
+> أقرؤهم لكتاب الله فإن كانوا في القراءة سواء فأعلمهم بالسنة فإن كانوا
+> في السنة سواء فأقدمهم هجرة فإن كانوا في الهجرة سواء فأقدمهم سلما ولا
+> يؤمن الرجل الرجل في سلطانه ولا يقعد في بيته على تكرمته إلا بإذنه
 
 Abu Bakr b. Abi Shaybah and Abu Sa’id al-Ashja’ – Abu Khalid: Abu Bakr –
 Abu Khalid al-Ahmar – al-A’mash – Isma’il b. Raja – Aws b. Ḍam’aj – Abu
@@ -218,12 +178,8 @@ conditions. However, where none in the mosque is the ruler of its area,
 then the various criteria are examined in the specified order. Imam
 al-Mubarakfuri (d. 1282 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-وفي رواية مسلم لا يؤمن الرجل الرجل في سلطانه ... ولذا كان ابن عمر يصلي
-خلف الحجاج وصح عن ابن عمر أن إمام المسجد مقدم على غير السلطان
-  </p>
-</blockquote>
+> وفي رواية مسلم لا يؤمن الرجل الرجل في سلطانه ... ولذا كان ابن عمر يصلي
+> خلف الحجاج وصح عن ابن عمر أن إمام المسجد مقدم على غير السلطان
 
 In the report of (Imam) Muslim, it is stated “No man can lead another in
 *salat* in a place where the latter has authority.”... **This was why
@@ -245,16 +201,12 @@ mosques?
 
 Imam Ahmad (d. 241 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا محمد بن جعفر ثنا شعبة عن إسماعيل بن رجاء
-قال سمعت أوس بن ضمعج يقول سمعت أبا مسعود يقول قال لنا رسول الله صلى
-الله عليه و سلم يؤم القوم أقرؤهم لكتاب الله تعالى وإقدمهم قراءة فان
-كانت قراءتهم سواء فليؤمهم أقدمهم هجرة فان كانوا في الهجرة سواء فليؤمهم
-أكبرهم سنا ولا يؤمن الرجل في أهله ولا في سلطانه ولا يجلس على تكرمته في
-بيته الا ان يأذن له أو بإذنه
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا محمد بن جعفر ثنا شعبة عن إسماعيل بن رجاء
+> قال سمعت أوس بن ضمعج يقول سمعت أبا مسعود يقول قال لنا رسول الله صلى
+> الله عليه و سلم يؤم القوم أقرؤهم لكتاب الله تعالى وإقدمهم قراءة فان
+> كانت قراءتهم سواء فليؤمهم أقدمهم هجرة فان كانوا في الهجرة سواء فليؤمهم
+> أكبرهم سنا ولا يؤمن الرجل في أهله ولا في سلطانه ولا يجلس على تكرمته في
+> بيته الا ان يأذن له أو بإذنه
 
 ‘Abd Allah (b. Ahmad) – my father – Muhammad b. Ja’far – Shu’bah –
 Isma’il b. Raja – Aws b. Ḍam’aj – Abu Mas’ud:
@@ -270,11 +222,7 @@ place of honour in his house without his permission.”[^12]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم
 
 Its chain is *sahih* upon the standard of (Imam) Muslim[^13]
 
@@ -295,12 +243,8 @@ Interestingly, Abu Bakr was equally unqualified to lead even the other
 Sahabah! In order to be qualified, he had to be their best reciter. But,
 was he? Imam al-Bukhari (d. 256 H) records the answer of ‘Umar:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عمرو بن علي حدثنا يحيى حدثنا سفيان عن حبيب عن سعيد بن جبير عن
-ابن عباس قال قال عمر رضي الله عنه: أقرؤنا أبي وأقضانا علي
-  </p>
-</blockquote>
+> حدثنا عمرو بن علي حدثنا يحيى حدثنا سفيان عن حبيب عن سعيد بن جبير عن
+> ابن عباس قال قال عمر رضي الله عنه: أقرؤنا أبي وأقضانا علي
 
 ‘Amr b. ‘Ali – Yahya – Sufyan – Habib – Sa’id b. Jubayr – Ibn ‘Abbas:
 
@@ -310,13 +254,9 @@ is Ubayy**, and the best judge among us is ‘Ali.”[^14]
 ‘Allamah al-Albani has equally copied the Prophetic confirmation of
 this:
 
-<blockquote dir="rtl">
-  <p>
-عن أنس بن مالك، أن رسول الله صلى الله عليه وسلم قال :أرحم أمتي بأمتي
-أبو بكر وأشدهم في دين الله عمر وأصدقهم حياء عثمان وأقضاهم علي بن أبي
-طالب. وأقرؤهم لكتاب الله أبي بن كعب.
-  </p>
-</blockquote>
+> عن أنس بن مالك، أن رسول الله صلى الله عليه وسلم قال :أرحم أمتي بأمتي
+> أبو بكر وأشدهم في دين الله عمر وأصدقهم حياء عثمان وأقضاهم علي بن أبي
+> طالب. وأقرؤهم لكتاب الله أبي بن كعب.
 
 Narrated Anas b. Malik:
 
@@ -326,11 +266,7 @@ religion of Allah is ‘Umar. The most shy of them is ‘Uthman. And the
 best judge among them is ‘Ali b. Abi Talib. **And the best reciter of
 the Book of Allah among them is Ubayy b. Ka’b**.”[^15]
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^16]
 
@@ -398,5 +334,4 @@ al-Ma’arif li al-Nashr wa al-Tawzi’; 1st edition, 1417 H), vol. 1, pp.
 67-68, \# 125
 
 [^16]: Ibid
-
 

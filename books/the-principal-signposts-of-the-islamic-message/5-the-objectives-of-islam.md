@@ -261,4 +261,3 @@ al-Usool rn/n al-Kafi, vol. 1, p.10.
 27-Muhammad Mahdi al-Na qrani~ Jami' al-Sa adat, vol.3, p.113.
 28- See our book Who is the Law-Maker'
 
-

@@ -31,6 +31,6 @@ sources, despite the thoroughness of her work[^42].
 
 **Notes:**
 
-[^41] Al-Tabari, op. cit., 11, 314.
-[^42] U. Sezkin, op. cit., pp. 116-22.
+[^41]: Al-Tabari, op. cit., 11, 314.
+[^42]: U. Sezkin, op. cit., pp. 116-22.
 

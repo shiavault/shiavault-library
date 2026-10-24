@@ -180,4 +180,3 @@ universal brotherhood and human dignity.
 
 [^3]: Ameer Ali, Spirit of Islam, p. 267
 
-

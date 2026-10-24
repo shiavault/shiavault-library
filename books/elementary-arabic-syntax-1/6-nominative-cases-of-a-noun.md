@@ -14,4 +14,3 @@ case?
 
 • Sixth: If it is a predicate of *inna* or one of its sisters
 
-

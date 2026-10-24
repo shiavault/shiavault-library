@@ -406,4 +406,3 @@ in the third Rak'ah which does not contain Tashahhud (like the third
 Rak;ah in Tuhr, A?r and Isha prayers) one should sit for a while after
 the second Sajdah before rising.
 
-

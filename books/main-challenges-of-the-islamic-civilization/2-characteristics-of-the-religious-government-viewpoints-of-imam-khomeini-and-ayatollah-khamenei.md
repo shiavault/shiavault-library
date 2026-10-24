@@ -94,7 +94,6 @@ mentioned Iran as a role model for other Muslims:
 various stages and today it is the best means for the confrontation of
 our nation with the provocations and plots." 19
 
-
 **Defending the Disinherited and Downtrodden Against the Arrogance**
 
 "The founder of the Islamic Republic of Iran paid special attention to
@@ -435,5 +434,4 @@ righteous Caliphs in the Sunnite political philosophy.
 33 Hadith-e Wilayat, Vol. 7, P. 144.
 34 Ayatollah Khamenei, Hajj Message, July 1987.
 35 Hadith-e Wilayat, Vol. 7, P. 146.
-
 

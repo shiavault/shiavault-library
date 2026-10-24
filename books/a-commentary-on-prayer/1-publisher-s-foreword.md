@@ -62,4 +62,3 @@ producing this work, especially the staff of the Translation Office.
 ***Cultural Affairs Department***  
 **Ahl al-Bayt (*****‘a*****) World Assembly**
 
-

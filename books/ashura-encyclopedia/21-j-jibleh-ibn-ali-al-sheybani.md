@@ -7,4 +7,3 @@ beside Muslim Ibn Aqeel in Kufa. After Muslim was killed he went and hid
 in one of the houses that were owned by his tribe until Imam Husayn came
 to Kufa.
 
-

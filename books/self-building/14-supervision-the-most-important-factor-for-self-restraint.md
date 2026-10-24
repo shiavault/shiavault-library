@@ -19,13 +19,9 @@ letter of deeds, will remain filed for the Day of Resurrection, and each
 person will be judged on that Day strictly in accordance to his
 performance. For example: God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ فَمَن
-يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ
-ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ فَمَن
+> يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ
+> ذَرَّةٍ شَرًّا يَرَهُ
 
 ***“That day mankind will issue forth in scattered groups to be shown
 their deeds. And whoso dath good an atom's weight will see it then. And
@@ -33,14 +29,10 @@ whoso doth ill on atoms weight will see it then. (99: 6-8)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
-وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ
-صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا
-حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
-  </p>
-</blockquote>
+> وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
+> وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ
+> صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا
+> حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
 
 ***“And the book is placed, and thou seest the guilty fearful of that
 which is therein and they say: What kind of a book is this that leaveth
@@ -50,13 +42,9 @@ all that they did confronting them, and Lord wrongeth no one. (18:
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا
-عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
-بَعِيدًا
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا
+> عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
+> بَعِيدًا
 
 ***“On the Day when every soul will find itself confronted with all that
 hath done of good and all that it hath done of evil (every soul) will
@@ -65,11 +53,7 @@ evil. (3:30)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
-  </p>
-</blockquote>
+> مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
 
 ***“He uttereth no word but there is with him on observer ready.
 (50:18)***
@@ -87,13 +71,9 @@ their deeds whether small a big shall be checked and even the most
 insignificant action shall not be neglected. e.g. God-Almighty said in
 the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ
-نَفْسٌ شَيْئًا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ
-أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ
-  </p>
-</blockquote>
+> وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ
+> نَفْسٌ شَيْئًا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ
+> أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ
 
 ***“And we set a just balance for the Day of Resurrection so that no
 soul is wronged in aught. Though it be of the weight of a grain of
@@ -102,26 +82,18 @@ mustard seed, We will bring it. And We suffice for reckoners. (21:
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُۗ وَإِن تُبْدُوا
-مَا فِي
-  </p>
-</blockquote>
+> أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُۗ وَإِن تُبْدُوا
+> مَا فِي
 
 ***“And whether ye make known what is in your minds or hide it, God will
 bring you to account for it. (2:284)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَازِينُهُ
-فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ وَمَنْ خَفَّتْ مَوَازِينُهُ
-فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُم بِمَا كَانُوا بِآيَاتِنَا
-يَظْلِمُونَ
-  </p>
-</blockquote>
+> وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَازِينُهُ
+> فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ وَمَنْ خَفَّتْ مَوَازِينُهُ
+> فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُم بِمَا كَانُوا بِآيَاتِنَا
+> يَظْلِمُونَ
 
 ***“The weighing on that day is the true (weighing). As for as those
 whose scale is heavy, they are the successful. And as for as those whose
@@ -147,13 +119,9 @@ Then he will realize that all the actions, deeds, beliefs, and thoughts
 written over there are indeed belong to him and henceforth shall never
 be separated from him. God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءَتْ كُلُّ نَفْسٍ مَّعَهَا سَائِقٌ وَشَهِيدٌ لَّقَدْ كُنتَ فِي
-غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ
-حَدِيدٌ
-  </p>
-</blockquote>
+> وَجَاءَتْ كُلُّ نَفْسٍ مَّعَهَا سَائِقٌ وَشَهِيدٌ لَّقَدْ كُنتَ فِي
+> غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ
+> حَدِيدٌ
 
 ***“And every soul cometh, along with it a driver and a witness, (and
 unto the evil-doer it is said): Thou wast in heedlessness of this. Now
@@ -162,13 +130,9 @@ day. (50: 21:22)***
 
 The Holy Prophet (S) had said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: لا تزول قدما عبد يوم القيامة حتى
-يسال عن اربع: عن عمره فيما افناه, وشبابه فيما ابلاه, وعن ماله من اين
-اكتسبه وفيما انفقه, وعن حبنا اهل البيت.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: لا تزول قدما عبد يوم القيامة حتى
+> يسال عن اربع: عن عمره فيما افناه, وشبابه فيما ابلاه, وعن ماله من اين
+> اكتسبه وفيما انفقه, وعن حبنا اهل البيت.
 
 *“On the Day of Judgment, each servant of God will not be able to move
 forward even a single step without being questioned about the following
@@ -180,25 +144,17 @@ earned the money and how was it spent ? And about the friendship of us
 
 In another narration the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-في الخبر النبوي: أنه يفتح للعبد يوم القيامة على كل يوم من أيام عمره
-أربعة وعشرون خزانة عدد ساعات الليل والنهار - فخزانة يجدها مملوءة نورا
-وسرورا فيناله عند مشاهدتها من الفرح والسرور ما لو وزع على أهل النار
-لادهشهم عن الاحساس بألم النار وهي الساعة التي أطاع فيها ربه.
-  </p>
-</blockquote>
+> في الخبر النبوي: أنه يفتح للعبد يوم القيامة على كل يوم من أيام عمره
+> أربعة وعشرون خزانة عدد ساعات الليل والنهار - فخزانة يجدها مملوءة نورا
+> وسرورا فيناله عند مشاهدتها من الفرح والسرور ما لو وزع على أهل النار
+> لادهشهم عن الاحساس بألم النار وهي الساعة التي أطاع فيها ربه.
 
-<blockquote dir="rtl">
-  <p>
-ثم يفتح له خزانة اخرى فيراها مظلمة منتنة مفزعة فيناله عند مشاهدتها من
-الفزع والجزع ما لو قسم على أهل الجنة لنغص عليهم نعيمها ، وهي الساعة
-التي عصى فيها ربه. ثم يفتح له خزانة اخرى فيراها فارغة ليس فيها ما يسره
-ولا ما يسوؤه وهي الساعة التي نام فيها أو اشتغل فيها بشئ من مباحات
-الدنيا فيناله من الغبن والاسف على فواتها حيث كان متمكنا من أن يملاها
-حسنات ما لا يوصف ومن هذا قوله تعالى, ذلك يوم التغابن.
-  </p>
-</blockquote>
+> ثم يفتح له خزانة اخرى فيراها مظلمة منتنة مفزعة فيناله عند مشاهدتها من
+> الفزع والجزع ما لو قسم على أهل الجنة لنغص عليهم نعيمها ، وهي الساعة
+> التي عصى فيها ربه. ثم يفتح له خزانة اخرى فيراها فارغة ليس فيها ما يسره
+> ولا ما يسوؤه وهي الساعة التي نام فيها أو اشتغل فيها بشئ من مباحات
+> الدنيا فيناله من الغبن والاسف على فواتها حيث كان متمكنا من أن يملاها
+> حسنات ما لا يوصف ومن هذا قوله تعالى, ذلك يوم التغابن.
 
 *“One of the Day of Judgment when a servant of God is being readied for
 accounting, for each day of his living in the world, twenty four
@@ -268,13 +224,9 @@ for the pious and God's descent servants it would be extremely swift and
 easier. In replying to a question regarding the length of Day of
 Judgment the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى عليه وآله: لما سئل عن طول ذالك اليوم فقال: والذى
-نفسى بيده انه ليخفف على المؤمن حتى يكون اهون عليه من الصلوة المكتوبة
-يصليها فى الدنيا.
-  </p>
-</blockquote>
+> قال رسول الله صلى عليه وآله: لما سئل عن طول ذالك اليوم فقال: والذى
+> نفسى بيده انه ليخفف على المؤمن حتى يكون اهون عليه من الصلوة المكتوبة
+> يصليها فى الدنيا.
 
 *“By God! For believers it would be so swift and easy -even easier than
 recital of an obligatory prayer.”*[^3]
@@ -297,35 +249,23 @@ right now? Acting in a manner like a wise businessman, who cheeks his
 accounts each day and each month, in order to determine his profits and
 losses. The Commander of the Faithful Imam ‘Ali (a.s.) had said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: حاسبوا انفسكم قبل ان تحاسبوا ووازنها قبل ان
-توازنوا.
-  </p>
-</blockquote>
+> قال على عليه السلام: حاسبوا انفسكم قبل ان تحاسبوا ووازنها قبل ان
+> توازنوا.
 
 *“Before being audited on the Judgment Day better self-scrutinize your
 deeds in this same world.”*[^4]
 
 Also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من حاسب نفسه ربح.
-  </p>
-</blockquote>
+> قال على عليه السلام: من حاسب نفسه ربح.
 
 *“Whoever scrutinizes the account of his self in this world would earn
 profit.”*[^5]
 
 Imam al-Naqi (a.s.) [^6]said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى الحسن الماضى عليه السلام قال: ليس منا من لم يحاسب نفسه فى كل
-يوم فان عمل حسنا استزاد الله وان عمل سيئا استغفر الله منه وتاب اليه.
-  </p>
-</blockquote>
+> عن ابى الحسن الماضى عليه السلام قال: ليس منا من لم يحاسب نفسه فى كل
+> يوم فان عمل حسنا استزاد الله وان عمل سيئا استغفر الله منه وتاب اليه.
 
 *“Whoever does not scrutinize his actions daily does not belong to us;
 then if, he found that he has performed some righteous deeds, he should
@@ -335,12 +275,8 @@ repentance.”*[^7]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: من حاسب نفسه ربح ومن غفل عنه خسر ومن
-خاف امن ومن اعتبر ابصر ومن ابصر فهم ومن فهم علم.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: من حاسب نفسه ربح ومن غفل عنه خسر ومن
+> خاف امن ومن اعتبر ابصر ومن ابصر فهم ومن فهم علم.
 
 “Whoever scrutinize the account of his self will earn a profit and
 whoever will be negligent will suffer a loss, whoever is fearful in this
@@ -351,16 +287,12 @@ intelligent.”[^8]
 
 The Holy Prophet (S) said to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-فى وصية النبى انه قال: يا ابا ذر! حاسب نفسك قبل ان تحاسب, فانه اهو
-لحسابك غذا وزن نفسك قبل ان توزن وتجهز للعرض الاكبر يوم لا تخفى على
-الله خافية (الى ان قال:) يا ابا ذر! لا يكون الرجل من المتقين حتى يحاسب
-نفسه اشد من محاسبة الشريك شريكه فيعلم من اين مطعمه ومن اين مشربه ومن
-اين ملبسه؟ امن حلال او حرام؟ يا ابا ذر! من لم يبال من اين اكتسب المال
-لم يبال الله من اين ادخله النار.
-  </p>
-</blockquote>
+> فى وصية النبى انه قال: يا ابا ذر! حاسب نفسك قبل ان تحاسب, فانه اهو
+> لحسابك غذا وزن نفسك قبل ان توزن وتجهز للعرض الاكبر يوم لا تخفى على
+> الله خافية (الى ان قال:) يا ابا ذر! لا يكون الرجل من المتقين حتى يحاسب
+> نفسه اشد من محاسبة الشريك شريكه فيعلم من اين مطعمه ومن اين مشربه ومن
+> اين ملبسه؟ امن حلال او حرام؟ يا ابا ذر! من لم يبال من اين اكتسب المال
+> لم يبال الله من اين ادخله النار.
 
 *“Oh Abu Dharr! Before they scrutinize your account of deeds on the
 Judgment Day, do your own self-auditing in this world because today's
@@ -382,14 +314,10 @@ dispatching him inside the Hell's fire through either passage.”*[^9]
 
 Imam al-Sajjad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-كان على بن الحسين عليه السلام يقول: ابن آدم! إنك لا تزال بخير ما كان
-لك واعظ من نفسك وما كانت المحاسبة من همك وما كان الخوف لك شعاراً
-والحزن لك دثاراً ابن آدم إنك ميت ومبعوث وموقوف بين يدي الله عزوجل فأعد
-جوابا.ً
-  </p>
-</blockquote>
+> كان على بن الحسين عليه السلام يقول: ابن آدم! إنك لا تزال بخير ما كان
+> لك واعظ من نفسك وما كانت المحاسبة من همك وما كان الخوف لك شعاراً
+> والحزن لك دثاراً ابن آدم إنك ميت ومبعوث وموقوف بين يدي الله عزوجل فأعد
+> جوابا.ً
 
 *“O son of Adam! You will be continuously accompanied by goodness and
 blessing so for as you possess a preacher in your heart, practice
@@ -420,13 +348,9 @@ dark and contaminated, then he has inflicted upon himself -the most
 severe damage and loss, which could never be compensated. God-Almighty
 said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ إِلَّا الَّذِينَ آمَنُوا
-وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا
-بِالصَّبْرِ
-  </p>
-</blockquote>
+> وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ إِلَّا الَّذِينَ آمَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا
+> بِالصَّبْرِ
 
 ***“By the declining day; lo! Man is a state of loss, save those who
 believe and do good works, and exhort one another to truth, exhort one
@@ -434,12 +358,8 @@ another to endurance (103:1-3)***
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ان العاقل من نظر فى يومه لغده وسعى فى فكاك نفسه
-وعمل لما لا بد له ولا محيص عنه.
-  </p>
-</blockquote>
+> قال على عليه السلام: ان العاقل من نظر فى يومه لغده وسعى فى فكاك نفسه
+> وعمل لما لا بد له ولا محيص عنه.
 
 ***“A wise man is the one who is all anxious today about his
 tomorrow -the Resurrection Day, must strive for achieving freedom of
@@ -448,12 +368,8 @@ choice except to perform righteous deeds.”***[^11]
 
 Also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من حاسب نفسه وقف على عيوبه واحاط بذنوبه فاستقال
-الذنوب واصلح العيوب.
-  </p>
-</blockquote>
+> قال على عليه السلام: من حاسب نفسه وقف على عيوبه واحاط بذنوبه فاستقال
+> الذنوب واصلح العيوب.
 
 ***“Whoever scrutinizes his deeds will discover his faults and sins.
 Then, he will offer repentance for his sins and will strive for
@@ -468,44 +384,28 @@ program. Will the imperious-self offer surrender so easily? Will he
 present himself for cross-examination and verdict? Will he agree to pay
 his dues so easily? The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من لم يس نفسه اضاعها.
-  </p>
-</blockquote>
+> قال على عليه السلام: من لم يس نفسه اضاعها.
 
 *“Whoever has not programmed his self for performance of righteous deeds
 has indeed wasted him.”*[^13]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من اغتر بنفسه سلمته إلى المعاطب.
-  </p>
-</blockquote>
+> قال على عليه السلام: من اغتر بنفسه سلمته إلى المعاطب.
 
 *“Whoever is not careful of self's frauds and cheating will be destroyed
 (by self)”*[^14]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من كان له من نفسه يقظة كان عليه من الله حفظة.
-  </p>
-</blockquote>
+> قال على عليه السلام: من كان له من نفسه يقظة كان عليه من الله حفظة.
 
 *“Whoever possesses self-awakening and self-enlightenment, God-Almighty
 will assign Divine angels for his guidance and protection.”*[^15]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: املكوا انفسكم بدوام جهادها.
-  </p>
-</blockquote>
+> قال على عليه السلام: املكوا انفسكم بدوام جهادها.
 
 *“Subdue your self through continuous struggle and resistance, and
 firmly take over his control.”*[^16]
@@ -571,14 +471,10 @@ them against sins and transgressions.
 
 Imam al-Sadiq (a.s.) narrated a tradition from his father as follows:
 
-<blockquote dir="rtl">
-  <p>
-عن الصادق عليه السلام قال: الليل إذا أقبل نادى مناد بصوت يسمعه الخلائق
-إلا الثقلين يا ابن آدم اني خلق جديد ، إنّي على ما في شهيد فخذ مني فإني
-لو طلعت الشمس لم أرجع إلى الدنيا ولم تزدد فيّ من حسنة ولم تستعتب في من
-سيئة وكذلك يقول النهار إذا أدبر الليل.
-  </p>
-</blockquote>
+> عن الصادق عليه السلام قال: الليل إذا أقبل نادى مناد بصوت يسمعه الخلائق
+> إلا الثقلين يا ابن آدم اني خلق جديد ، إنّي على ما في شهيد فخذ مني فإني
+> لو طلعت الشمس لم أرجع إلى الدنيا ولم تزدد فيّ من حسنة ولم تستعتب في من
+> سيئة وكذلك يقول النهار إذا أدبر الليل.
 
 *“When night approaches it makes an announcement which is heard by all
 the creation except human being and jins as follows:*
@@ -622,13 +518,9 @@ make their entry and, thus, disrupting the entire program.
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: إن الحازم من شغل نفسه بجهاد نفسه فأصلحها و حبسها
-عن أهويتها و لذاتها فملكها و إن للعاقل بنفسه عن الدنيا و ما فيها و
-أهلها شغلا.
-  </p>
-</blockquote>
+> قال على عليه السلام: إن الحازم من شغل نفسه بجهاد نفسه فأصلحها و حبسها
+> عن أهويتها و لذاتها فملكها و إن للعاقل بنفسه عن الدنيا و ما فيها و
+> أهلها شغلا.
 
 *“A wise man offers continuous resistance against the self, endeavors
 for self’s correction, preventing him following passions and in this
@@ -637,22 +529,14 @@ self will dejected from the world and its allurements.”*[^18]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من كان له من نفسه زاجر كان عليه من الله حافظ.
-  </p>
-</blockquote>
+> قال على عليه السلام: من كان له من نفسه زاجر كان عليه من الله حافظ.
 
 *“Whoever possesses a guard to reprimand, with m his self;.
 God-Almighty, will appoint for him Divine Protectors.”*[^19]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الثقة بالنفس من اوثق فرص الشيطان.
-  </p>
-</blockquote>
+> قال على عليه السلام: الثقة بالنفس من اوثق فرص الشيطان.
 
 *“Being optimistic and confident about self provides the best
 opportunities for Satan to deceive us.”*[^20]
@@ -735,11 +619,7 @@ Then, he should repent sincerely and should decide firmly never to
 indulge into sins and transgressions as well as to compensate for his
 past omissions. The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على (ع): من وبخ نفسه على العيوب ارتدعت من كثرة الذنوب.
-  </p>
-</blockquote>
+> قال على (ع): من وبخ نفسه على العيوب ارتدعت من كثرة الذنوب.
 
 *“Whoever would reprimand self for his faults and sins- would be able to
 restrain himself from indulgence into sins.”*[^21]
@@ -789,29 +669,21 @@ imperious-self would become subdued surrendering completely to your
 supervision and domination. The Holy Prophet (S) once asked his
 companions:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: الا انبئكم باكيس الكيسين واحمق
-الحمقا؟ قالوا: بلى يا رسول الله! قال: اكـيـس الكـيـسـيـن مـن حـاسـب
-نـفـسـه ، و عـمـل لمـا بـعـد المـوت . و احـمـق الحـمـقـاء مـن اتـبـع
-نـفـسه هواه ، و تمنى على الله الامانى. فقال رجل: يا رسول الله وكيف
-يحاسب الرجل نفسه؟ قال: إذا أصبح ثم أمسى رجع إلى نفسه فقال: يا نفس! إن
-هذا يوم مضى عليك لا يعود إليك أبدا والله يسألك عنه فيما أفنيته، فما
-الذي عملت فيه؟ أذكرت الله أم حمدته؟ أقضيت حق اخ مؤمن؟ أنفست عنه كربة؟
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: الا انبئكم باكيس الكيسين واحمق
+> الحمقا؟ قالوا: بلى يا رسول الله! قال: اكـيـس الكـيـسـيـن مـن حـاسـب
+> نـفـسـه ، و عـمـل لمـا بـعـد المـوت . و احـمـق الحـمـقـاء مـن اتـبـع
+> نـفـسه هواه ، و تمنى على الله الامانى. فقال رجل: يا رسول الله وكيف
+> يحاسب الرجل نفسه؟ قال: إذا أصبح ثم أمسى رجع إلى نفسه فقال: يا نفس! إن
+> هذا يوم مضى عليك لا يعود إليك أبدا والله يسألك عنه فيما أفنيته، فما
+> الذي عملت فيه؟ أذكرت الله أم حمدته؟ أقضيت حق اخ مؤمن؟ أنفست عنه كربة؟
 
-<blockquote dir="rtl">
-  <p>
-أحفظتيه بظهر الغيب في أهله وولده؟ أحفظتيه بعد الموت في مخلفيه؟ أكففت
-عن غيبة أخ مؤمن بفضل جاهك؟ أأعنت مسلما؟ ما الذي صنعت فيهفان ذكر أنه
-جرى منه خير، حمد الله عز وجل وكبره على توفيقه. وإن ذكر معصية أو تقصيرا
-إستغفر الله وعزم على ترك معاودته، ومحا ذلك عن نفسه بتجديد الصلاة على
-محمد وآله الطيبين وعرض بيعة أمير المؤمينن على نفسه وقبولها وإعاد الله
-لعن شانئيه وأعدائه ودافعيه عن حقوقه. فاذا فعل ذلك قال الله: لست أناقشك
-في شئ من الذنوب مع موالاتك أوليائي، ومعاداتك أعدائي.
-  </p>
-</blockquote>
+> أحفظتيه بظهر الغيب في أهله وولده؟ أحفظتيه بعد الموت في مخلفيه؟ أكففت
+> عن غيبة أخ مؤمن بفضل جاهك؟ أأعنت مسلما؟ ما الذي صنعت فيهفان ذكر أنه
+> جرى منه خير، حمد الله عز وجل وكبره على توفيقه. وإن ذكر معصية أو تقصيرا
+> إستغفر الله وعزم على ترك معاودته، ومحا ذلك عن نفسه بتجديد الصلاة على
+> محمد وآله الطيبين وعرض بيعة أمير المؤمينن على نفسه وقبولها وإعاد الله
+> لعن شانئيه وأعدائه ودافعيه عن حقوقه. فاذا فعل ذلك قال الله: لست أناقشك
+> في شئ من الذنوب مع موالاتك أوليائي، ومعاداتك أعدائي.
 
 *“Shouldn’t I inform you about the most intelligent person among the
 intelligent and the most stupid one among the stupid?"*
@@ -857,12 +729,8 @@ saints and showed enmity towards their enemies.”*[^22]
 
 Imam al- Kadhim (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن الكاظم عليه السلام قال: ليس منا من لم يحاسب نفسه فى كل يوم فان عمل
-خسنا استزاد الله وان عمل سيئا استغفر الله وتاب اليه.
-  </p>
-</blockquote>
+> عن الكاظم عليه السلام قال: ليس منا من لم يحاسب نفسه فى كل يوم فان عمل
+> خسنا استزاد الله وان عمل سيئا استغفر الله وتاب اليه.
 
 *“Whosoever does not scrutinize the account of the self does not belong
 to us; thus, if he has done some good deeds should request God-Almighty
@@ -871,13 +739,9 @@ repentance.”*[^23]
 
 The Holy Prophet (S) said to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-فى وصية ابى ذر قال النبى صلى الله عليه وآله: على العاقل ان يكون له
-ساعات: ساعة يناجى فيها ربه وساعة يحاسب فيها نفسه وساعة يتفكر فيما صنع
-الله عز وجل اليه.
-  </p>
-</blockquote>
+> فى وصية ابى ذر قال النبى صلى الله عليه وآله: على العاقل ان يكون له
+> ساعات: ساعة يناجى فيها ربه وساعة يحاسب فيها نفسه وساعة يتفكر فيما صنع
+> الله عز وجل اليه.
 
 *“A wise person should distribute his hours as follows: One hour should
 be assigned for being occupied in Prayers, supplications, and hymns with
@@ -887,12 +751,8 @@ Blessings bestowed upon him.”*[^24]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: جاسبوا انفسكم باعلماها وطالبوها بادا المفروض
-عليها والاخذ من فنائها لبقائها وتزودوا وتاهبوا قبل ان تبعثوا.
-  </p>
-</blockquote>
+> قال على عليه السلام: جاسبوا انفسكم باعلماها وطالبوها بادا المفروض
+> عليها والاخذ من فنائها لبقائها وتزودوا وتاهبوا قبل ان تبعثوا.
 
 *“Let the self be accountable for his deeds, should be demanded to
 discharge his due obligations by utilizing this transient world
@@ -902,12 +762,8 @@ transferred.”*[^25]
 
 Also, said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ما احق الانسان ان يكون له ساعة لا يشغله عنها شاغل
-يحاسب فيها نفسه فينظر فيما اكتسب بها وعليها فى ليلها ونهارها.
-  </p>
-</blockquote>
+> قال على عليه السلام: ما احق الانسان ان يكون له ساعة لا يشغله عنها شاغل
+> يحاسب فيها نفسه فينظر فيما اكتسب بها وعليها فى ليلها ونهارها.
 
 *“How much is it necessary for a person to allocate a free time for
 himself to scrutinize the account of his deeds, and see what kind of
@@ -916,20 +772,12 @@ during the past twenty four hours.”*[^26]
 
 Also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: جاهد نفسك وحاسبها محاسبة الشريك شريكه وطالبها
-بحقوق الله مطالبة الخصم خصمع فان اسعد الناس من انتدب خامسة نفسه.
-  </p>
-</blockquote>
+> قال على عليه السلام: جاهد نفسك وحاسبها محاسبة الشريك شريكه وطالبها
+> بحقوق الله مطالبة الخصم خصمع فان اسعد الناس من انتدب خامسة نفسه.
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله (ص) قال: فحاسبوا انفسكم قبل ان تحاسبوا فان فى القيامة
-خمسين موقفا كل موقف مقا ألف ستة ثم تلا هذه الاية فى يوم كان مقداره
-خمسين الف سنة.
-  </p>
-</blockquote>
+> عن ابي عبدالله (ص) قال: فحاسبوا انفسكم قبل ان تحاسبوا فان فى القيامة
+> خمسين موقفا كل موقف مقا ألف ستة ثم تلا هذه الاية فى يوم كان مقداره
+> خمسين الف سنة.
 
 *“Wage a continuous struggle against the self; like a strict business
 associate check precisely the account of his deeds, and like a creditor
@@ -964,22 +812,18 @@ Satanic justifications and interpretations.
 
 The Commander of the Faithful Imam ' ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: وان للذكر لاهلا اخذوه من الدنيا بدلا فلم تشغلهم
-تجارة ولابيع عنه يقطعون به ايام الحياة ويهتفون بالزواجر عن محارم الله
-في اسماع الغافلين, ويامرون به, وينهون عن المنكر ويتناهون عنه. فكانما
-قطعوا الدنيا الى الاخرة وهم فيها, فشاهدوا ما وراء ذلك فكأنما اطلعوا
-عيوب اهل البرزغ في طول الاقامة فيه وحققت القيامة عليهم عداتها فكشفوا
-غطاء ذلك لاهل الدنيا حتى كأنهم يرون مالا يرى الناس ويسمعون فلو مثاتهم
-لعقلك في مقاومهم المحمودة ومجالسهم المشهودة وقد نشروا دواوين اعمالهم
-وفرغوا لمحاسبة انفسهم على كل صغيرة وكبيرة امروا بها فقصروا عنها ففرطوا
-فيها وحملوا ثقل أوزارهم ظهورهم فظعفوا عن الاستقلال بها فنشجوا نشيجا
-ونحبوا نحيبا يعجون الى ربهم من مقام ندم واعتراف, لرايت اعلام هدى
-ومصابيح دجى, قد حفت بهم الملائكة وتنزلت عليهم السكينة وفتحت لهم ابواب
-السماء واعدت لهم مقاعد الكرامات.
-  </p>
-</blockquote>
+> قال على عليه السلام: وان للذكر لاهلا اخذوه من الدنيا بدلا فلم تشغلهم
+> تجارة ولابيع عنه يقطعون به ايام الحياة ويهتفون بالزواجر عن محارم الله
+> في اسماع الغافلين, ويامرون به, وينهون عن المنكر ويتناهون عنه. فكانما
+> قطعوا الدنيا الى الاخرة وهم فيها, فشاهدوا ما وراء ذلك فكأنما اطلعوا
+> عيوب اهل البرزغ في طول الاقامة فيه وحققت القيامة عليهم عداتها فكشفوا
+> غطاء ذلك لاهل الدنيا حتى كأنهم يرون مالا يرى الناس ويسمعون فلو مثاتهم
+> لعقلك في مقاومهم المحمودة ومجالسهم المشهودة وقد نشروا دواوين اعمالهم
+> وفرغوا لمحاسبة انفسهم على كل صغيرة وكبيرة امروا بها فقصروا عنها ففرطوا
+> فيها وحملوا ثقل أوزارهم ظهورهم فظعفوا عن الاستقلال بها فنشجوا نشيجا
+> ونحبوا نحيبا يعجون الى ربهم من مقام ندم واعتراف, لرايت اعلام هدى
+> ومصابيح دجى, قد حفت بهم الملائكة وتنزلت عليهم السكينة وفتحت لهم ابواب
+> السماء واعدت لهم مقاعد الكرامات.
 
 *“There are some people devoted to the remembrance (of God), who have
 adopted it, in place of worldly matters so that commerce or trade does
@@ -1089,5 +933,4 @@ in Samarra in Iraq.
 [^28]: Bihar al-Anwar, vol. 70, p-64.
 
 [^29]: Nahjul Balagha, sermon 222.
-
 

@@ -52,7 +52,6 @@ he was satisfied with the title of al-afghani, perhaps because he lived
 in afghanistan for a long time and because he admired the afghan type of
 life as his book tarikh of al-afghan shows.
 
-
 **The Caliphate**
 
 the title " caliphah" is an islamic title for the universal muslim
@@ -123,7 +122,6 @@ abbassid caliphate began to break down. many independent governments
 emerged mostly the shi'a independent governments as buyids in iraq and
 iran, and the fatimids in egypt.
 
-
 **Islamic Faith**
 
 "islam" is the name of the religion of god revealed to prophet
@@ -151,7 +149,6 @@ therefore, in islam there is no force to accept the islamic faith
 without understanding. the qur'an says,
 
 " there is no compulsion in religion." the qur'an, 2: 256
-
 
 **Unity of god**
 
@@ -189,11 +186,9 @@ these two doctrines, the unity of god and prophethood of muhammad (p.)
 are the first step for any one who wants to become a member of islamic
 community.
 
-
 **Time of Prayers**
 
 in the name of god, the merciful, the compassionate
-
 
 ".... indeed prayer is a timed duty for believers." the qur'an, 4:103
 as general principle of prayer's time, qur'an says, " perform prayers at
@@ -335,7 +330,6 @@ the qur'an reads :
 sanctuary. treat the place abraham stood upon as place of prayer." the
 qur'an, 2-125
 
-
 **declaration of qibla**
 
 jews and christians used pray toward jerusalem some reports state that
@@ -399,5 +393,4 @@ north);
 
 3. the line parallel to the name of the city on this compass points the
 qibla ( the center of the compass).
-
 

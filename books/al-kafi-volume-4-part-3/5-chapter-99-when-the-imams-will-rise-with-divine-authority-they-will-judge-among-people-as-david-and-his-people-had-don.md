@@ -66,7 +66,6 @@ judgments." The Imam (a.s.) said, " We issue judgments according to the
 laws of Allah the judgments of the family of David. The Holy Spirit
 inspires us with it."
 
-
 **Chapter 100 : The fountain head of Knowledge is Ala Muhammad (a.s.) H
 1039, Ch. 100, h 1**
 
@@ -100,5 +99,4 @@ grandfather.
 O brethren from Kufa, how can it be true that we be the ones to make
 people quench their thirst for knowledge from us but they would learn
 and we remain ignorant. This can not happen."
-
 

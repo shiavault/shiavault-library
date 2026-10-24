@@ -251,4 +251,3 @@ When Qur'anic texts such as these agree with what St. Barnabas had
 written in his Gospel, the truth will shine, but how many sincere
 seekers of the truth are there in our world?
 
-

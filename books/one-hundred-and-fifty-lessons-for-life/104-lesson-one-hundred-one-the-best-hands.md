@@ -3,12 +3,8 @@ Lesson One Hundred One: The Best Hands
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said
 
-<blockquote dir="rtl">
-  <p>
-أَلأيدِى ثَلاثَةٌ: سائَلَةٌ و مُمْسِكَةٌ وَ مُنْفِقَةٌ و خَيْرُ
-الأَيْدِىْ مُنْفِقَةٌ
-  </p>
-</blockquote>
+> أَلأيدِى ثَلاثَةٌ: سائَلَةٌ و مُمْسِكَةٌ وَ مُنْفِقَةٌ و خَيْرُ
+> الأَيْدِىْ مُنْفِقَةٌ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ their bounties with others as much as they can, and so we read in the
 above tradition that the best hands are the bountiful hands.
 
 [^1]: Tuhaful Uqul, page 32
-
 

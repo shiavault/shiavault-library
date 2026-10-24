@@ -11,11 +11,7 @@ it may refrain himself from sinning much more easier as compared to the
 one who has been contaminated by sins and now wants to refrain from
 them. The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ترك الذنب اهون من طلب التوبه.
-  </p>
-</blockquote>
+> قال على عليه السلام: ترك الذنب اهون من طلب التوبه.
 
 *“Refraining from sin is far easier than repenting after sinning.”*[^1]
 
@@ -30,13 +26,9 @@ to return towards Him after cleaning and purifying the self's tablet
 from the impurities and contamination of sins through the water of
 repentance. God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا
-تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا
+> تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
 
 ***“Say: O My slaves who have been prodigal to their own hurt. Despair
 not of the Mercy of God, who forgiveth all sins. Lo! He is the forgiving
@@ -44,14 +36,10 @@ the Merciful. (39:53)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ
-عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ أَنَّهُ
-مَنْ عَمِلَ مِنكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِن بَعْدِهِ
-وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ
+> عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ أَنَّهُ
+> مَنْ عَمِلَ مِنكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِن بَعْدِهِ
+> وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَّحِيمٌ
 
 ***“And when those who believe in our revelations come unto thee say:
 Peace be unto you! Your Lord hath prescribed for Himself Mercy, that,
@@ -107,25 +95,17 @@ something more urgent and essential than any thing else, because, our
 eternal prosperity and salvation depends upon it. God-Almighty said in
 the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَتُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَ الْمُؤْمِنُونَ لَعَلَّكُمْ
-تُفْلِحُونَ
-  </p>
-</blockquote>
+> وَتُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَ الْمُؤْمِنُونَ لَعَلَّكُمْ
+> تُفْلِحُونَ
 
 ***“And turn unto God-Almighty together, O believers in order that you
 may succeed. (24: 31)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً
-نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّئَاتِكُمْ
-وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً
+> نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّئَاتِكُمْ
+> وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
 
 ***“Oh ye who believe! Turn unto God-Almighty in sincere repentance! It
 may be that your Lord will remit from your evil deeds and bring you into
@@ -133,24 +113,16 @@ Gardens underneath which rivers flow. (66:8)***
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): لكل دا دوا ودوا الذنوب الاستغفار.
-  </p>
-</blockquote>
+> قال رسول الله (ص): لكل دا دوا ودوا الذنوب الاستغفار.
 
 *“There is a medicine for each pain and the medicine for sins is
 repentance.”*[^2]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: تاخير التوبة اغترار, وطول التسويف حيرة
-الاعتلال على الله هلكة والاصرار على الذنوب أمن لمكر الله ولا يامن مكر
-الله على القوم الخاسرون.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: تاخير التوبة اغترار, وطول التسويف حيرة
+> الاعتلال على الله هلكة والاصرار على الذنوب أمن لمكر الله ولا يامن مكر
+> الله على القوم الخاسرون.
 
 *“Delaying repentance is a sort of arrogance and deceit; continuation of
 delay results in confusion and astonishment; excuses in front of
@@ -216,38 +188,26 @@ are few examples:
 
 God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ
-السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ
+> السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
 
 ***“And He it is who accepteth repentance from His bondsmen, and
 pardoneth the evil deeds and knoweth what ye do. (42:25)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
-اهْتَدَىٰ
-  </p>
-</blockquote>
+> وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ
+> اهْتَدَىٰ
 
 ***“And lo! Verily I am forgiving towards him who repenteth and
 believeth and doth good, and afterward walketh aright. (20:82)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ
-ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ
-الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ
+> ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ
+> الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ
+> يَعْلَمُونَ
 
 ***“And those who, when they do an evil thing or wrong themselves,
 remember God-Almighty and implies forgiveness for their sins –who
@@ -256,12 +216,8 @@ forgiventh sins save God-Almighty only? And will not knowingly repeat
 
 Imam Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو جعفر عليه السلام: التائب من الذنب كمن لا ذنب له والمقيم على
-الذنب وهو مستغفر منه كالمستهز.
-  </p>
-</blockquote>
+> قال ابو جعفر عليه السلام: التائب من الذنب كمن لا ذنب له والمقيم على
+> الذنب وهو مستغفر منه كالمستهز.
 
 *“After repenting a person becomes like some one who has never sinned,
 and the one who is continuing sinning while reciting the phrase of
@@ -273,24 +229,16 @@ of repentance. Not only God-Almighty accepts repentance from a sinner
 but also loves him for undertaking this bold initiative. God-Almighty
 said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
 
 ***“Truly God-Almighty loveth, those who turn unto him, and loveth those
 who have a care of cleanness. (*****2:222)**
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو جعفر عليه السلام: ان الله اشد فرحا بتوبة عبده من رجل اضل رحلته
-وزاده فى ليلة ظلما فوجدها فالله اشد فرحا بتوبة عبده من ذلك الرجل
-براحلته حين وجدها.
-  </p>
-</blockquote>
+> قال ابو جعفر عليه السلام: ان الله اشد فرحا بتوبة عبده من رجل اضل رحلته
+> وزاده فى ليلة ظلما فوجدها فالله اشد فرحا بتوبة عبده من ذلك الرجل
+> براحلته حين وجدها.
 
 *“The happiness of God-Almighty from seeing a sinner repenting is much
 more than the joy of a lone traveler who finds his missing animal
@@ -298,14 +246,10 @@ together with the provisions of journey in a dark night.”*[^5]
 
 Imam Al- Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله (ع): اذا تاب العبد توبة نصوحا احبه الله فستر عليه فقلت
-و كيف يستر عليه؟ قال ينسي ملكيه ما كانا يكتبان عليه و يوحى الله الى
-جوارحه و الى بقاع الارض ان اكتمى عليه ذنوبه فيلقى الله عزوجل حين يلقاه
-و ليس شىء يشهد عليه بشىء من الذنوب.
-  </p>
-</blockquote>
+> قال ابو عبدالله (ع): اذا تاب العبد توبة نصوحا احبه الله فستر عليه فقلت
+> و كيف يستر عليه؟ قال ينسي ملكيه ما كانا يكتبان عليه و يوحى الله الى
+> جوارحه و الى بقاع الارض ان اكتمى عليه ذنوبه فيلقى الله عزوجل حين يلقاه
+> و ليس شىء يشهد عليه بشىء من الذنوب.
 
 *“When a servant of God offers pure and firm repentance, God-Almighty
 loves him and deletes all of his past sins. The narrator asked; 'Oh son
@@ -369,18 +313,14 @@ A person recited the sentence: “I seek God's forgiveness” in the
 presence of the Commander of the Faithful Imam ' ‘Ali (a.s.). The Imam
 said:
 
-<blockquote dir="rtl">
-  <p>
-عن اميرالمؤمنين عليه السلام: ان قائلا قال بحضرته: استغفرالله, فقال:
-ثكلتك امك اتدري ما الاسغفار درجة العليين و هو اسم واقع على ستة معان
-اولها الندم على ما مضى و الثاني العزم على ترك العود اليه ابدا و الثالث
-ان نؤدى الى المخلوقين حقوقهم حتى تلقى الله املس ليس عليك تبعة· و
-الرابع ان تعمد الى كلي فريضة عليك ضيعتها فتؤدى حقها و الخامس ان تعمد
-الى اللحم الذى نبت على السحت فبذيبه بالاحزان حتى يلصق الجلد بالعظم
-وينشا بينهما لحم جديد و السادس ان تذيق الجسم الام الطاعة كما اذقته
-حلاوة المعصية, فعند ذالك تقول: استغفرالله.
-  </p>
-</blockquote>
+> عن اميرالمؤمنين عليه السلام: ان قائلا قال بحضرته: استغفرالله, فقال:
+> ثكلتك امك اتدري ما الاسغفار درجة العليين و هو اسم واقع على ستة معان
+> اولها الندم على ما مضى و الثاني العزم على ترك العود اليه ابدا و الثالث
+> ان نؤدى الى المخلوقين حقوقهم حتى تلقى الله املس ليس عليك تبعة· و
+> الرابع ان تعمد الى كلي فريضة عليك ضيعتها فتؤدى حقها و الخامس ان تعمد
+> الى اللحم الذى نبت على السحت فبذيبه بالاحزان حتى يلصق الجلد بالعظم
+> وينشا بينهما لحم جديد و السادس ان تذيق الجسم الام الطاعة كما اذقته
+> حلاوة المعصية, فعند ذالك تقول: استغفرالله.
 
 *“May your mother lament for you, do you know what is repentance ? The
 repentance can be defined with the following six parameters:*
@@ -496,24 +436,16 @@ repentance to return towards God. The repentance offered by the prophets
 and Infallible Imams (a.s.) might belong to this category. The Holy
 Prophet (S) had said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي (ص): انه ليغان على قلبي حتى استغفرالله في اليوم و اللية
-سبعين مرة.
-  </p>
-</blockquote>
+> قال النبي (ص): انه ليغان على قلبي حتى استغفرالله في اليوم و اللية
+> سبعين مرة.
 
 *“Sometimes it happens that the darkness approaches my heart, and
 because of this reason I offer repentance seventy times every day.”*[^9]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: ان رسول الله صلي الله عليه وآله كان يتوب الى
-الله في كل يوم سبعين مرة من غير ذنب.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: ان رسول الله صلي الله عليه وآله كان يتوب الى
+> الله في كل يوم سبعين مرة من غير ذنب.
 
 *“The Holy Prophet (S) used to offer repentance seventy times a day,
 while he had not committed any sin at all.”*[^10]
@@ -537,5 +469,4 @@ while he had not committed any sin at all.”*[^10]
 [^9]: Muhjatteh, vol. 7, p-71.
 
 [^10]: al-Kafi, vol. 2, p-450.
-
 

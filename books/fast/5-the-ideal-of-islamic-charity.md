@@ -96,4 +96,3 @@ The fast of Ramadhan has shown us how it feels to be hungry; Eid-ul-Fitr
 is showing us the real meaning of happiness. Let us remember these two
 important lessons in our daily life.
 
-

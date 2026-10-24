@@ -279,4 +279,3 @@ unto Him is my return.” (13:36)
 
 [^7]: Imam Hasan (a.s.) and Imam Husain (a.s.).
 
-

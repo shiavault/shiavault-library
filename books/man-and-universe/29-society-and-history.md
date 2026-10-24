@@ -766,4 +766,3 @@ disbelieve the revelations of Allah and kill the Prophets wrongfully.
 That is because they disobeyed and used to transgress." (Surah Ale
 Imran, 3:112)
 
-

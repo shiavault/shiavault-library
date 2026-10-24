@@ -8,4 +8,3 @@ knew who his father was. In fact, he had six alleged fathers. He killed
 Muslim Ibn Aqeel by throwing him from the top of Dar Al-Imarah. He was
 the ruler of Khorasan in 54 Hijra.
 
-

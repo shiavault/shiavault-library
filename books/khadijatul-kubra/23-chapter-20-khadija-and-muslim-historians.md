@@ -628,4 +628,3 @@ the hierarchy of His true and faithful friends.
 May Allah bless Muhammad Mustafa, and his Ahlul-Bayt. Through him
 mankind received the Blessing of the Light of Islam.
 
-

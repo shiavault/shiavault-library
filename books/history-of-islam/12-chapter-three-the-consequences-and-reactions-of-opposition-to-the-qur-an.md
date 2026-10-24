@@ -359,4 +359,3 @@ an unbeliever! Is this a just evaluation of these two figures? For this
 reason, scholars look at the accusation of being an atheist on the part
 of Abu-talib as suspect.[^130]
 
-

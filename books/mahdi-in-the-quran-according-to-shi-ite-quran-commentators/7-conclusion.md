@@ -188,4 +188,3 @@ traditions is not rationally acceptable, even as *mutawatir* traditions.
 
 [^2]: like Ibn Khaldun or Ahmad Amin
 
-

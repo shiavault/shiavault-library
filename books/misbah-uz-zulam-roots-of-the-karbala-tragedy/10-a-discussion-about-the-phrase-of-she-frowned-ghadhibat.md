@@ -63,4 +63,3 @@ triad. We will come across a number of such examples henceforth.
 
 [^1]: Vol. 2, Pg. 292
 
-

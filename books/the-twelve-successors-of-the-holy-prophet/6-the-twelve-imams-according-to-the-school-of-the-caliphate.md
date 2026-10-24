@@ -54,4 +54,3 @@ al-'Asqalani, al-Durar al-kaminah, vol. 1, p. 67.
 
 [^2]: Al-Juwayni, Fara'id al-Simtayn, pg 160.
 
-

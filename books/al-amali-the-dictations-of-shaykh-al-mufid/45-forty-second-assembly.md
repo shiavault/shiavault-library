@@ -194,4 +194,3 @@ the surplus from ones wealth."
 And Praise to Allah, the Lord of Universe. And may Allah bless our
 master, Muhammad, the Prophet and his pure progeny.
 
-

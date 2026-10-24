@@ -12,13 +12,9 @@ In his book, *Tadhkirah al-Fuqaha*, ‘Allamah al-Hilli enumerates about
 70 salient features of the Prophet (S) and at the beginning of his
 statement, he thus says:
 
-<blockquote dir="rtl">
-  <p>
-فأما الواجبات عليه دون غيره من أمّته أمور أ: السّواك ب: الوتر ج:
-الأضحيه. روي عنه صلى الله عليه وأله وسلم أنه قال: ثلاث كتب عليّ ولم
-تكتب عليكم: السواك والوتر والأضحية.
-  </p>
-</blockquote>
+> فأما الواجبات عليه دون غيره من أمّته أمور أ: السّواك ب: الوتر ج:
+> الأضحيه. روي عنه صلى الله عليه وأله وسلم أنه قال: ثلاث كتب عليّ ولم
+> تكتب عليكم: السواك والوتر والأضحية.
 
 As for the things which are incumbent only upon him (S) and not upon his
 *ummah*, they are: the use of tooth-stick {*miswak*}, *witr* prayer, and
@@ -32,5 +28,4 @@ upon the other Muslims.
 
 [^1]: ‘Allamah al-Hilli, Tadhkirah al-Fuqaha, vol. 2, “Kitab an-Nikah,”
 Introduction 4.
-
 

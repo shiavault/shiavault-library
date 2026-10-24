@@ -208,11 +208,7 @@ heedless of Allah.
 
 In a tradition from Imam 'Ali (a.s) we read:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ ماَ اَلْهىَ عَن ذِكرِ اللٌّهِ فَهُوَ مِنَ الْمَيْسَرُ.
-  </p>
-</blockquote>
+> كُلُّ ماَ اَلْهىَ عَن ذِكرِ اللٌّهِ فَهُوَ مِنَ الْمَيْسَرُ.
 
 “Every thing that causes man to become unmindful of Allah, (and drowns
 him in lust) is a gamble.”[^3]
@@ -683,19 +679,15 @@ thus comes to suffer harm.[^24]
 
 In verse 23 of Suratul Nisa, we read:
 
-<blockquote dir="rtl">
-  <p>
-حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَ بَنَاتُكُمْ وَ أَخَوَاتُكُمْ وَ
-عَمَّاتُكُمْ وَ خَالاَتُكُمْ وَ بَنَاتُ الأََخِ وَ بَنَاتُ الأُُخْتِ
-وَ أُمَّهَاتُكُمُ اللاَّتِي أَرْضَعْنَكُمْ وَ أَخَوَاتُكُمْ مِنَ
-الرَّضَاعَةِ وَ أُمَّهَاتُ نِسَائِكُمْ وَ رَبَائِـبُكُمُ اللاَّتِي فِي
-حُجُورِكُمْ مِنْ نِسَائِكُمُ اللاَّتِي دَخَلْـتُمْ بِهِنَّ فَإِنْ لَمْ
-تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلاَ جُناحَ عَلَيْكُمْ وَ حَلاَئِلُ
-أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلاَبِكُمْ وَ أَنْ تَجْمَعُوا بَيْنَ
-الأُُخْـتَيْنِ إِلاَّ مَا قَدْ سَلَفَ إِنَّ اللٌّهَ كَانَ غَفُوراً
-رَحِيماً
-  </p>
-</blockquote>
+> حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَ بَنَاتُكُمْ وَ أَخَوَاتُكُمْ وَ
+> عَمَّاتُكُمْ وَ خَالاَتُكُمْ وَ بَنَاتُ الأََخِ وَ بَنَاتُ الأُُخْتِ
+> وَ أُمَّهَاتُكُمُ اللاَّتِي أَرْضَعْنَكُمْ وَ أَخَوَاتُكُمْ مِنَ
+> الرَّضَاعَةِ وَ أُمَّهَاتُ نِسَائِكُمْ وَ رَبَائِـبُكُمُ اللاَّتِي فِي
+> حُجُورِكُمْ مِنْ نِسَائِكُمُ اللاَّتِي دَخَلْـتُمْ بِهِنَّ فَإِنْ لَمْ
+> تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلاَ جُناحَ عَلَيْكُمْ وَ حَلاَئِلُ
+> أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلاَبِكُمْ وَ أَنْ تَجْمَعُوا بَيْنَ
+> الأُُخْـتَيْنِ إِلاَّ مَا قَدْ سَلَفَ إِنَّ اللٌّهَ كَانَ غَفُوراً
+> رَحِيماً
 
 ***“Forbidden to you are your mothers and your daughters and your
 sisters and your paternal aunts and your maternal aunts and brothers'
@@ -722,12 +714,8 @@ into existence:
 Foremost, alluding to the maharim by birth, who constitute seven groups,
 the verse says:
 
-<blockquote dir="rtl">
-  <p>
-حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَ بَنَاتُكُمْ وَ أَخَوَاتُكُمْ وَ
-عَمَّاتُكُمْ وَ خَالاَتُكُمْ وَ بَنَاتُ الأََخِ وَ بَنَاتُ الأُُخْتِ
-  </p>
-</blockquote>
+> حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَ بَنَاتُكُمْ وَ أَخَوَاتُكُمْ وَ
+> عَمَّاتُكُمْ وَ خَالاَتُكُمْ وَ بَنَاتُ الأََخِ وَ بَنَاتُ الأُُخْتِ
 
 “Forbidden to you are your mothers and your daughters and your sisters
 and your paternal aunts and your maternal aunts and brothers' daughters
@@ -776,12 +764,8 @@ maharim this alliance would be weak and unstable.
 Then the Qur\`an mentions the maharim that come into existence by way of
 suckling, and says:
 
-<blockquote dir="rtl">
-  <p>
-وَ أُمَّهَاتُكُمُ اللاَّتِي أَرْضَعْنَكُمْ وَ أَخَوَاتُكُمْ مِنَ
-الرَّضَاعَةِ
-  </p>
-</blockquote>
+> وَ أُمَّهَاتُكُمُ اللاَّتِي أَرْضَعْنَكُمْ وَ أَخَوَاتُكُمْ مِنَ
+> الرَّضَاعَةِ
 
 ***“…And your mothers that have suckled you and your foster-sisters.”***
 
@@ -791,11 +775,7 @@ to numerous traditions, those who become maharim as a result of suckling
 are not confined to these two groups only. The well-known tradition of
 the Noble Prophet (s.a.w) states: 
 
-<blockquote dir="rtl">
-  <p>
-يَحرَمُ مِنَ الرِّضاَعِ ماَ يحَرَمُ مِنَ النَّسَبِ.
-  </p>
-</blockquote>
+> يَحرَمُ مِنَ الرِّضاَعِ ماَ يحَرَمُ مِنَ النَّسَبِ.
 
 “All those, who become prohibited by means of genealogy, also become
 prohibited by means of suckling.”
@@ -834,11 +814,7 @@ speaking, it strengthens the general nature of that ruling.
 
 Although, apparently, the condition:
 
-<blockquote dir="rtl">
-  <p>
- فِي حُجُورِكُمْ.
-  </p>
-</blockquote>
+>  فِي حُجُورِكُمْ.
 
 “…in your guardianship” gives the impression that if the woman's
 daughter, borne from a previous husband, is not brought up by the
@@ -860,11 +836,7 @@ Pursuant to this part, the verse, for emphasizing the issue, adds: if
 you have not engaged in sexual intercourse (with the woman) her
 daughters are not forbidden for you:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ لَمْ تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلاَ جُناحَ عَلَيْكُمْ
-  </p>
-</blockquote>
+> فَإِنْ لَمْ تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلاَ جُناحَ عَلَيْكُمْ
 
 c) …and the wives of your sons who are of your own loins.   In reality,
 the expression مِن اَصلاَبِکُم (of your own loins) has been employed so
@@ -885,11 +857,7 @@ different times and after being separated from the previous sister.
 same time and there were individuals, who had entered into such
 marriages, the Qur\`an, after the abovementioned sentence, says:
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَا قَدْ سَلَفَ
-  </p>
-</blockquote>
+> إِلاَّ مَا قَدْ سَلَفَ
 
 …except what has already passed…; i.e. those, who have entered into such
 marriages before the revelation of this law shall not face chastisement,
@@ -962,5 +930,4 @@ marriages and the children that have resulted from them have been
 physically healthy and intellectually gifted.
 
 [^26]: Tafsir-e-Namunah, vol. 3, pg. 326
-
 

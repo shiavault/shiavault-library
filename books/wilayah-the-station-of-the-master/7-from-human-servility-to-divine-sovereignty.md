@@ -7,17 +7,9 @@ his servility and take two steps within the Divine boundary?
 
 In the words of Mahmud Shabistari:
 
-<blockquote dir="rtl">
-  <p>
-سيه روئى ز ممكن در دو عالم
-  </p>
-</blockquote>
+> سيه روئى ز ممكن در دو عالم
 
-<blockquote dir="rtl">
-  <p>
-جدا هرگز نشد والله اعلم
-  </p>
-</blockquote>
+> جدا هرگز نشد والله اعلم
 
 *“Non-being is not divorced from the contingent*
 
@@ -33,11 +25,7 @@ House has itself a Lord (to defend it ) [^2]
 We found the above expression from following a famous hadith which is
 found in Misbahu 'sh-shari\`ah. In that hadith it is said:
 
-<blockquote dir="rtl">
-  <p>
-العُبُودِيَّةُ جَوْهَرَةٌ كُنْهُهَا الرٌّبُوبِيَّةُ
-  </p>
-</blockquote>
+> العُبُودِيَّةُ جَوْهَرَةٌ كُنْهُهَا الرٌّبُوبِيَّةُ
 
 *"Servility is a jewel whose center is Sovereignty,"*
 
@@ -57,29 +45,13 @@ over the world; but rather his aim is at the opposite extreme to this
 aim, that is his aim is self-abasement, humility, self-annihilation and
 non-being, this amazing way is the way of servility.
 
-<blockquote dir="rtl">
-  <p>
-آن کس که تو را شناخت جان را چه کند؟
-  </p>
-</blockquote>
+> آن کس که تو را شناخت جان را چه کند؟
 
-<blockquote dir="rtl">
-  <p>
-فرزند و عیال و خانمان را چه کند؟ 
-  </p>
-</blockquote>
+> فرزند و عیال و خانمان را چه کند؟
 
-<blockquote dir="rtl">
-  <p>
-دیوانه کنی هر دو جهانش بخشی 
-  </p>
-</blockquote>
+> دیوانه کنی هر دو جهانش بخشی
 
-<blockquote dir="rtl">
-  <p>
-دیوانه تو هر دو جهان را چه کند؟
-  </p>
-</blockquote>
+> دیوانه تو هر دو جهان را چه کند؟
 
 *“What can that person who has known you do with his soul?*
 
@@ -104,22 +76,14 @@ acceptance of man's deeds by Allah is that first of all he earns a
 penetrating insight, he becomes radiant and clear-sighted. The Qur'an
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا
-  </p>
-</blockquote>
+> إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا
 
 ***“If you are careful of (your duty to) Allah, He will grant you a
 distinction” (8:29)***
 
 It also says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا
 
 ***“And (as for) those who strive hard for Us, We will most certainly
 guide them in Our ways.”(29:69)***
@@ -129,33 +93,21 @@ man's will-power becomes powerful over his bodily and animal desires; he
 becomes the master of his own existence; he acquires merited control
 within the limits of his own existence. The Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَر
-  </p>
-</blockquote>
+> إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَر
 
 ***“Surely prayer keeps (one) away from indecency and evil.” (29:45)***
 
 About fasting, it says:
 
-<blockquote dir="rtl">
-  <p>
-كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ
-قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ 
-  </p>
-</blockquote>
+> كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ
+> قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
 
 ***“Fasting is prescribed for you, as it was prescribed for those before
 you, so that you may guard (against evil). (2:183)***
 
 And about both forms of worship, it says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ
 
 ***“*** ***O you who believe! Seek assistance through patience and
 prayer.”(2:153)***
@@ -189,63 +141,27 @@ heart - the heart of someone who is overcome by his imaginative powers
 to a feather which is hanging from a tree in a desert, and which every
 breath of wind blows to and fro. He said:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْقَلْبِ, مَثَلِ رِيشَةٍ في الْفَلاةِ تَعَلَّقَتْ فِي أَصْلِ
-شَجَرَةٍ تُقَلِّبُهَا الرِّيحُ ظَهْرًا لِبَطْنٍ
-  </p>
-</blockquote>
+> مَثَلُ الْقَلْبِ, مَثَلِ رِيشَةٍ في الْفَلاةِ تَعَلَّقَتْ فِي أَصْلِ
+> شَجَرَةٍ تُقَلِّبُهَا الرِّيحُ ظَهْرًا لِبَطْنٍ
 
 “The heart is like a feather in the middle of an open desert, hanging
 from a tree and blown to and fro by the wind.”
 
-<blockquote dir="rtl">
-  <p>
-گفت پيغمبر كه دل همچون پرى است
-  </p>
-</blockquote>
+> گفت پيغمبر كه دل همچون پرى است
 
-<blockquote dir="rtl">
-  <p>
-در بيابانى اسير صرصرى است‏
-  </p>
-</blockquote>
+> در بيابانى اسير صرصرى است‏
 
-<blockquote dir="rtl">
-  <p>
-باد پر را هر طرف راند گزاف
-  </p>
-</blockquote>
+> باد پر را هر طرف راند گزاف
 
-<blockquote dir="rtl">
-  <p>
-گه چپ و گه راست با صد اختلاف‏
-  </p>
-</blockquote>
+> گه چپ و گه راست با صد اختلاف‏
 
-<blockquote dir="rtl">
-  <p>
-در حديث ديگر آن دل را چنان
-  </p>
-</blockquote>
+> در حديث ديگر آن دل را چنان
 
-<blockquote dir="rtl">
-  <p>
-كآب جوشان ز آتش اندر غازقان‏
-  </p>
-</blockquote>
+> كآب جوشان ز آتش اندر غازقان‏
 
-<blockquote dir="rtl">
-  <p>
-هر زمان دل را دگر رايى بود
-  </p>
-</blockquote>
+> هر زمان دل را دگر رايى بود
 
-<blockquote dir="rtl">
-  <p>
-آن نه از وى بلكه از جايى بود
-  </p>
-</blockquote>
+> آن نه از وى بلكه از جايى بود
 
 The Prophet said that the heart is like a feather in the desert, a
 captive of a violent blast. The wind drives the feather recklessly in
@@ -264,12 +180,8 @@ ire.*
 
 The other tradition that Rumi indicates in these verses is:
 
-<blockquote dir="rtl">
-  <p>
-لَقَلْبُ ابْنِ آدَمَ أَشَدُّ انْقِلَابًا مِنْ الْقِدْرِ إِذَا
-اجْتَمَعَتْ غَلْيًا
-  </p>
-</blockquote>
+> لَقَلْبُ ابْنِ آدَمَ أَشَدُّ انْقِلَابًا مِنْ الْقِدْرِ إِذَا
+> اجْتَمَعَتْ غَلْيًا
 
 *“Surely, the heart of man is in more upheaval than a pot when it is
 completely on the boil.”*
@@ -289,29 +201,13 @@ and ability in man's being.
 
 How great was Rumi who said:
 
-<blockquote dir="rtl">
-  <p>
-جان همه روزه لگدكوب از خيال
-  </p>
-</blockquote>
+> جان همه روزه لگدكوب از خيال
 
-<blockquote dir="rtl">
-  <p>
-وز زيان و سود و از خوف زوال
-  </p>
-</blockquote>
+> وز زيان و سود و از خوف زوال
 
-<blockquote dir="rtl">
-  <p>
-نى صفا مى ماندش نى لطف و فر
-  </p>
-</blockquote>
+> نى صفا مى ماندش نى لطف و فر
 
-<blockquote dir="rtl">
-  <p>
-نى به سوى آسمان راه سفر
-  </p>
-</blockquote>
+> نى به سوى آسمان راه سفر
 
 “All day long, from the buffets of fantasy, and from loss and gain and
 from fear of decline.
@@ -320,101 +216,37 @@ There remains to the soul neither joy, nor grace and glory,
 
 Nor way of journeying to heaven.” [^4]
 
-<blockquote dir="rtl">
-  <p>
-گفت پيغمبر كه عيناى تنام
-  </p>
-</blockquote>
+> گفت پيغمبر كه عيناى تنام
 
-<blockquote dir="rtl">
-  <p>
-لا ينام القلب عن رب الانام
-  </p>
-</blockquote>
+> لا ينام القلب عن رب الانام
 
-<blockquote dir="rtl">
-  <p>
-چشم تو بيدار و دل رفته به خواب
-  </p>
-</blockquote>
+> چشم تو بيدار و دل رفته به خواب
 
-<blockquote dir="rtl">
-  <p>
-چشم من خفته دلم در فتح باب
-  </p>
-</blockquote>
+> چشم من خفته دلم در فتح باب
 
-<blockquote dir="rtl">
-  <p>
-هم نشينت من نى ام سايه من است
-  </p>
-</blockquote>
+> هم نشينت من نى ام سايه من است
 
-<blockquote dir="rtl">
-  <p>
-برتر از انديشه ها پايه من است
-  </p>
-</blockquote>
+> برتر از انديشه ها پايه من است
 
-<blockquote dir="rtl">
-  <p>
-زان كه من ز انديشه ها بگذشته ام
-  </p>
-</blockquote>
+> زان كه من ز انديشه ها بگذشته ام
 
-<blockquote dir="rtl">
-  <p>
-خارج از انديشه پويان گشته ام
-  </p>
-</blockquote>
+> خارج از انديشه پويان گشته ام
 
-<blockquote dir="rtl">
-  <p>
-حاكم انديشه ام محكوم نى
-  </p>
-</blockquote>
+> حاكم انديشه ام محكوم نى
 
-<blockquote dir="rtl">
-  <p>
-ز آنكه بنّا حاكم آمد بر بنى
-  </p>
-</blockquote>
+> ز آنكه بنّا حاكم آمد بر بنى
 
-<blockquote dir="rtl">
-  <p>
-جمله خلقان سخره انديشه اند
-  </p>
-</blockquote>
+> جمله خلقان سخره انديشه اند
 
-<blockquote dir="rtl">
-  <p>
-زين سبب خسته دل و غم پيشه اند
-  </p>
-</blockquote>
+> زين سبب خسته دل و غم پيشه اند
 
-<blockquote dir="rtl">
-  <p>
-من چو مرغ اوجم انديشه مگس
-  </p>
-</blockquote>
+> من چو مرغ اوجم انديشه مگس
 
-<blockquote dir="rtl">
-  <p>
-كى بود بر من مگس را دسترس
-  </p>
-</blockquote>
+> كى بود بر من مگس را دسترس
 
-<blockquote dir="rtl">
-  <p>
-چون ملايم گيرد از سفلى صفات
-  </p>
-</blockquote>
+> چون ملايم گيرد از سفلى صفات
 
-<blockquote dir="rtl">
-  <p>
-برپرم هم چون طيور الصافات
-  </p>
-</blockquote>
+> برپرم هم چون طيور الصافات
 
 *“The Prophet said: "My eyes sleep,*
 
@@ -481,17 +313,9 @@ which is directed towards the Lord of Lords and the Creator and Disposer
 of all things, prepares the basis of gatheredness of thought and
 concentration of the mind.
 
-<blockquote dir="rtl">
-  <p>
-زلف آشفته او باعث جمعيت ماست 
-  </p>
-</blockquote>
+> زلف آشفته او باعث جمعيت ماست
 
-<blockquote dir="rtl">
-  <p>
-چون چنين است پس آشفته ترش بايد كرد
-  </p>
-</blockquote>
+> چون چنين است پس آشفته ترش بايد كرد
 
 *“His disheveled lock (of hair) is the cause of us gathering.*
 
@@ -560,11 +384,7 @@ gives scope for much discussion.
 
 Al-Imam Ja'far as-Sadiq, may peace be upon him, said:
 
-<blockquote dir="rtl">
-  <p>
-ما ضَعُفَ بَدَنٌ عَمّا قَوِيَتْ عَلَيْــهِ النِيَّةُ
-  </p>
-</blockquote>
+> ما ضَعُفَ بَدَنٌ عَمّا قَوِيَتْ عَلَيْــهِ النِيَّةُ
 
 *"Nobody is weak in that about which his decision is firm." i.e. with
 strong determination, any weakness and feebleness can be overcome.”*
@@ -630,11 +450,7 @@ and if Allah had not willed it. He would take this perfection from him.
 
 In the blessed surah al-Mu'min, it is written
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ
 
 ***“And it was not meet for a messenger that he should bring a sign
 except with Allah's permission” (40:78)***
@@ -659,12 +475,8 @@ present in the assembly that her throne should be brought before him
 before she herself came. Some volunteered, and Suleiman became happy at
 their way of work, until:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ قَبْلَ
-أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ
-  </p>
-</blockquote>
+> قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ قَبْلَ
+> أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ
 
 ***“One who had the knowledge of the Book said: I will bring it to you
 in the twinkling of an eye” (27:40)***
@@ -682,14 +494,10 @@ of Truth.
 Again, the Qur'an explicitly states, while talking about the same
 prophet:
 
-<blockquote dir="rtl">
-  <p>
-فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ
-أَصَابَ وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ وَآخَرِينَ
-مُقَرَّنِينَ فِي الْأَصْفَادِ هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ
-أَمْسِكْ بِغَيْرِ حِسَابٍ 
-  </p>
-</blockquote>
+> فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ
+> أَصَابَ وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ وَآخَرِينَ
+> مُقَرَّنِينَ فِي الْأَصْفَادِ هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ
+> أَمْسِكْ بِغَيْرِ حِسَابٍ
 
 ***“So, we subjected to him the wind that ran at his commandment,
 softly, wherever he might light on, and the Satans, every builder and
@@ -716,16 +524,12 @@ In the famous and remarkable al Hadithu l-qudsi, which both the Shi\`ahs
 and the Sunnis relate, this reality is explained in a very beautiful
 manner. Al-Imam Ja'far as-Sadiq (a.s.) narrated from the Holy Prophet.
 
-<blockquote dir="rtl">
-  <p>
-قالَ اللهُ عَزَّ وَجَلَّ: مَا تَقَرَّبَ إِلَيَّ عَبْدٌ بِشَىْ أَحبَّ
-إليَّ مِمّا افْتَرْضَتُ عَلَيْهِ, وَ إنَّهٌ لَيَتَقَرَّبٌ إِلَيَّ
-بِالنَّوَافِلِةِ حَتَّى أٌحِبَّهُ، فَإِذَا أَحْبَبْتُهُ كُنْتُ
-سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ،وَ
-لِسانَهُ الَّذي يَنْطِقُ بِهِ, وَيَدَهُ الَّتِي يَبْطِشُ بِهَا، َإِنْ
-دَعاني أَجَبْتُهُ, وَ إنْ سَأَلَنِي أَعْطِيَنَّهُ
-  </p>
-</blockquote>
+> قالَ اللهُ عَزَّ وَجَلَّ: مَا تَقَرَّبَ إِلَيَّ عَبْدٌ بِشَىْ أَحبَّ
+> إليَّ مِمّا افْتَرْضَتُ عَلَيْهِ, وَ إنَّهٌ لَيَتَقَرَّبٌ إِلَيَّ
+> بِالنَّوَافِلِةِ حَتَّى أٌحِبَّهُ، فَإِذَا أَحْبَبْتُهُ كُنْتُ
+> سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ،وَ
+> لِسانَهُ الَّذي يَنْطِقُ بِهِ, وَيَدَهُ الَّتِي يَبْطِشُ بِهَا، َإِنْ
+> دَعاني أَجَبْتُهُ, وَ إنْ سَأَلَنِي أَعْطِيَنَّهُ
 
 Allah says: *“No slave has become near to Me by anything more pleasing
 to Me than what I have made obligatory on him; and surely he can
@@ -757,13 +561,9 @@ caravan, the Perfect Man, who is the wali and hujjah (Proof) of Allah.
 
 For this reason, the walis of this school have said:
 
-<blockquote dir="rtl">
-  <p>
-بنَيَ الإسلامُ عَلَي‌ خَمْسٍ: عَلَي‌ الصَّلَاةِ وَالزَّكُوةِ
-وَالصَّومِ والحَجَ وَالوِلَايَةِ. وَ لَم‌ يُناد بِشَي‌ءٍ كَما نُودِيَ
-بِالوَلايَةِ.
-  </p>
-</blockquote>
+> بنَيَ الإسلامُ عَلَي‌ خَمْسٍ: عَلَي‌ الصَّلَاةِ وَالزَّكُوةِ
+> وَالصَّومِ والحَجَ وَالوِلَايَةِ. وَ لَم‌ يُناد بِشَي‌ءٍ كَما نُودِيَ
+> بِالوَلايَةِ.
 
 *“Islam is founded on five things: On salat, on zakat, on sawm
 (fasting), on hajj, and on wilayah: and we were not called for anything
@@ -793,5 +593,4 @@ the blessings of Allah and His peace be upon them.
 [^8]: al-Kafi, vol. i, p.352.
 
 [^9]: Wasa 'ilu 'sh-Shi\`ah, vol.I, p.4.
-
 

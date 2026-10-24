@@ -445,4 +445,3 @@ of the Prophet) Part 1 p. 321.
 [^8]: Muslim in his Sahih Part 15 p. 175; Al-Bukhari reported it in his
 Sahih Part 5.
 
-

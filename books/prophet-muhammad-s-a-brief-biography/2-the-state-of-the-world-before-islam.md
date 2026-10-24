@@ -149,4 +149,3 @@ sent His last great Prophet, with the universal Message of Islam to save
 mankind from disbelief, oppression, corruption, ignorance and moral
 decadence that was dragging humanity towards self-annihilation.
 
-

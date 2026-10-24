@@ -216,4 +216,3 @@ the Prophet’s (S) succession and the Imamate. This is why I placed
 bar the illusion that I may have downgraded the issues of the Imamate
 and Occultation.
 
-

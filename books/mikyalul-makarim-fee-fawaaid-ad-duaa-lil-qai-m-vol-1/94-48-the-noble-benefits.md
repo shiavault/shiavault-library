@@ -310,11 +310,7 @@ The evidence of the point that *Saa-a’b* denotes position that the
 Almighty Allah had given to them especially: In *Tafseer* of Imam Hasan
 Askari (as) it is mentioned regarding the statement of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ
-  </p>
-</blockquote>
+> وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ
 
 ***“…and do not approach this tree.” (Qur’an, Surah Baqarah 2:35)***
 
@@ -561,12 +557,8 @@ while they were moving among themselves like ants – He said: Go safely
 to Paradise. And He said to the people of the left: To the fire, and I
 don’t care. Then he asked: Am I not your Lord?
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَلَىٰ ۛ شَهِدْنَا ۛ أَنْ تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا
-كُنَّا عَنْ هَٰذَا غَافِلِينَ
-  </p>
-</blockquote>
+> قَالُوا بَلَىٰ ۛ شَهِدْنَا ۛ أَنْ تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا
+> كُنَّا عَنْ هَٰذَا غَافِلِينَ
 
 ***They said: Yes! we bear witness. Lest you should say on the day of
 resurrection: Surely we were heedless of this. (Qur’an, Surah Araaf
@@ -592,12 +584,8 @@ Allah, the Mighty and Sublime:
 “And certainly We gave a commandment to Adam before, but he forgot; and
 We did not find in him any determination.”
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ
-لَهُ عَزْمًا
-  </p>
-</blockquote>
+> وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ
+> لَهُ عَزْمًا
 
 ***Indeed since the beginning, the covenant was presented to Adam and he
 forgot it and he did not have determination upon it.” (Qur’an, Surah
@@ -645,11 +633,7 @@ we have said and to be silent on what we have been silent. If you tell
 what we have said and submit to what we have left unsaid, you have
 believed in what we have believed. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا
-  </p>
-</blockquote>
+> فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا
 
 ***“If then they believe as you believe in Him, they are indeed on the
 right course…” (Qur’an, Surah Baqarah 2:137)***
@@ -726,11 +710,7 @@ learns three characters; one from God, one from His Messenger, and one
 from the Imam. The character that he should learn from God is the
 concealment of secrets. God the Glorified says:”
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
 
 ***“He knows the unseen and He does not allow anyone to know His
 secrets…” (Qur’an, Surah Jinn 72:26)***
@@ -900,5 +880,4 @@ gaining this valuable status.
 [^38]: Tohaf al-Uqool, 228
 
 [^39]: Basairud Darajaat, Pg. 23
-
 

@@ -33,4 +33,3 @@ and charitable deeds.[^2]
 
 [^2]: Al-Kafi. Vol.2. P. 127.
 
-

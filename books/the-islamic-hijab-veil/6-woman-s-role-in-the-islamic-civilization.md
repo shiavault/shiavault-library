@@ -223,4 +223,3 @@ responsibilities under the shadow of dynamic Islamic progress.
 
 [^1]: Nahj al-Balagha, Sermon No, 192.
 
-

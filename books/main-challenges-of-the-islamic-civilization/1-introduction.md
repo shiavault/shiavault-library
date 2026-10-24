@@ -47,7 +47,6 @@ movements were formed one after another in the Islamic world… These
 movements can be designated as the Islamic Renaissance or Islamic
 Revivalism." 3
 
-
 **Main Challenges of the Islamic Civilization**
 
 The most fundamental questions and challenges of the Muslim thinkers in
@@ -93,7 +92,6 @@ and ultimately as a result of conflict between indigenous cultural
 attractions and those of the alien culture, his mentality will be more
 and more split.
 
-
 **2- Expansion of the Sphere of Power of Dictatorial**
 
 **Governments in Islamic Societies**
@@ -129,7 +127,6 @@ all-out censors. The "great civilization" is in fact savageries worse
 than that of the medieval ages. The reconciliation government kills the
 people with tanks, cannons and machineguns. Independence is military,
 economic and cultural dependence." 5
-
 
 **Solutions**
 
@@ -301,7 +298,6 @@ infallible Imams and the society founded by the Prophet (PBUH)
 rise against all manifestations of oppression, inequity and dependency."
 9
 
-
 **Chapter 1 : Islamic Culture-World of Islam**
 
 **Unlimited Capabilities**
@@ -422,5 +418,4 @@ and Terrorism (not published), P. 58.
 10 (The Holy Quran, 33: 21).
 11 Haj Aqajani, Op. Cit. P. 66.
 12 Sahifeh-e Nour, Vol. 21, P. 88.
-
 

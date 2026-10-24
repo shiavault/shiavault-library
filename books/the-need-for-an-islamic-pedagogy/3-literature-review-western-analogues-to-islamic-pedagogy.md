@@ -268,4 +268,3 @@ providing an in-depth analysis of such work. The aspects of Ethical Care
 mentioned here will be compared to similar traits found in Islamic
 pedagogy.
 
-

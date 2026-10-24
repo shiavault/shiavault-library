@@ -27,4 +27,3 @@ eyebrows and the tip of the nose.
 hand; and the palm of the right hand must be rubbed on the back of the
 left hand.
 
-

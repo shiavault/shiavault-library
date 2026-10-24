@@ -18,4 +18,3 @@ Prophet (S), placed his forehead at his feet and died.[^1]
 
 [^1]: Tārīkh-e Payāmbar-e Islām, p. 326.
 
-

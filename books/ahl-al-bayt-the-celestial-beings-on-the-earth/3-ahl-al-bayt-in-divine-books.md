@@ -14,23 +14,15 @@ readers of the Holy Quran are people of reason, thought and
 understanding, they realize that certain Quranic verses do not have any
 paragon other than Ahl al-Bayt who know how to interpret it:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي
-الْعِلْمِ
-  </p>
-</blockquote>
+> وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي
+> الْعِلْمِ
 
 ***None knows its interpretation except Allah and those who are firmly
 rooted in knowledge. (3:7)***
 
 In this relation, Imam al-Sadiq (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الرَّاسِخُونَ فِي الْعِلْمِ وَ نَحْنُ نَعْلَمُ تَاوِيلَهُ.
-  </p>
-</blockquote>
+> نَحْنُ الرَّاسِخُونَ فِي الْعِلْمِ وَ نَحْنُ نَعْلَمُ تَاوِيلَهُ.
 
 We are those who are firmly rooted in knowledge and we know its
 interpretation.[^1]
@@ -40,11 +32,7 @@ interpretation.[^1]
 The Holy Quran explicitly says about the magnificent character of the
 Holy Prophet,:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ
 
 ***Surely Allah and His angels bless the Prophet. (33:56)***
 
@@ -55,11 +43,7 @@ or mercy for him.”[^2]
 The Holy Quran gives such an excellent dignity to the Prophet
 considering the allegiance to him to be equal to allegiance to Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ
 
 ***Surely those who swear allegiance to you do but swear allegiance to
 Allah. (48:10)***
@@ -70,11 +54,7 @@ This is what the Holy Quran says about obeying Allah and the Holy
 Prophet, the result of which is a great profit in the world and the
 hereafter:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
-  </p>
-</blockquote>
+> وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا
 
 ***Whoever obeys Allah and His Apostle he indeed achieves a mighty
 success. (33:71)***
@@ -83,13 +63,9 @@ The Holy Quran regards the companionship of the Prophets, the truthful,
 the martyrs and the righteous people all as a result of obeying Allah
 and His Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ
-أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ
-وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا
-  </p>
-</blockquote>
+> وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ
+> أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ
+> وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا
 
 ***And whoever obeys Allah and the Apostle, these are with those upon
 whom Allah has bestowed favors from among the prophets and the truthful
@@ -99,11 +75,7 @@ The Holy Quran considers obeying the Holy Prophet just like obeying
 Allah. This is a good reason, which proves the superiority of the Holy
 Prophet over all other creatures in the universe:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ
-  </p>
-</blockquote>
+> مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ
 
 ***Whoever obeys the Apostle, he indeed obeys Allah. (4:80)***
 
@@ -111,13 +83,9 @@ The Holy Quran considers obeying Allah and the Holy Prophet as the
 reason for entering Paradise; and turning one’s back to them is a cause
 of painful punishment:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ
-تَحْتِهَا الْأَنْهَارُ ۖ وَمَنْ يَتَوَلَّ يُعَذِّبْهُ عَذَابًا
-أَلِيمًا
-  </p>
-</blockquote>
+> وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ
+> تَحْتِهَا الْأَنْهَارُ ۖ وَمَنْ يَتَوَلَّ يُعَذِّبْهُ عَذَابًا
+> أَلِيمًا
 
 ***Whoever obeys Allah and His Apostle, He will cause him to enter***
 ***gardens beneath which rivers flow; and whoever turns back, He will
@@ -126,11 +94,7 @@ punish him with a painful punishment. (48:17)***
 The Holy Quran considers obeying the Holy Prophet as a cause of gaining
 Allah’s mercy:
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُوا الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَأَطِيعُوا الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
 
 ***Obey the Apostle so that mercy may be shown to you. (24:56)***
 
@@ -141,12 +105,8 @@ He Imam answered, “What do your people say about it?”
 
 I said, “They say that the following verse is the most hopeful:
 
-<blockquote dir="rtl">
-  <p>
-يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا
-مِنْ رَحْمَةِ اللَّهِ ۚ
-  </p>
-</blockquote>
+> يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا
+> مِنْ رَحْمَةِ اللَّهِ ۚ
 
 ***O my servants who have acted extravagantly against their own souls;
 do not despair of the mercy of Allah (39:53)”***
@@ -157,11 +117,7 @@ I asked, “What do you say then?”
 
 The Imam answered, “We say that the following is the most hopeful:
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ 
-  </p>
-</blockquote>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ
 
 ***And soon will your Lord give you so that you shall be well pleased
 (93:5)***
@@ -188,21 +144,13 @@ Quran in a book. Send me what you have written of it.’ Ali said to me,
 where for some of the verses I have written my interpretations.’ I
 asked, ‘What for?’ The Imam answered, ‘Allah says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
-  </p>
-</blockquote>
+> لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
 
 ***None shall touch it save the purified ones. (56:79)***
 
 We are the purified ones. We are the paragon of this verse:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ
-  </p>
-</blockquote>
+> ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ
 
 ***We gave the Book in inheritance to those whom we chose from among Our
 servants (35:32).***
@@ -212,13 +160,9 @@ have been revealed about us."[^5]
 
 The Holy Quran reads,
 
-<blockquote dir="rtl">
-  <p>
-مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لَا
-يَبْغِيَانِ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ يَخْرُجُ
-مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
-  </p>
-</blockquote>
+> مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لَا
+> يَبْغِيَانِ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ يَخْرُجُ
+> مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
 
 ***He has made the two seas to flow freely so that they meet together.
 Between them is a barrier, which they cannot pass. There comes forth
@@ -227,12 +171,8 @@ from them pearls both large and small.***
 These holy verses certainly refer to Ahl al-Bayt. Imam al-Sadiq (a.s.)
 says:
 
-<blockquote dir="rtl">
-  <p>
-عَلِيٌّ و فَاطِمَةٌ الْبَحْرانِ، الْلُّؤْلُؤُ وَالْمَرْجَانُ الْحَسَنُ
-وَالْحُسَيْنُ.
-  </p>
-</blockquote>
+> عَلِيٌّ و فَاطِمَةٌ الْبَحْرانِ، الْلُّؤْلُؤُ وَالْمَرْجَانُ الْحَسَنُ
+> وَالْحُسَيْنُ.
 
 Ali and Fatimah are the two seas; and the pearls are Hasan and
 Husayn.[^6]
@@ -248,12 +188,8 @@ the ‘*near relatives*’ into Ahl al-Bayt and the purified Imams.
 
 The Holy Quran reads,
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
 
 ***In houses which Allah has permitted to be exalted and that His name
 may be remembered in*** ***them; there glorify Him therein in the
@@ -269,13 +205,9 @@ Allah’s Messenger! Is this house one of them?” The Holy Prophet said,
 Ahl al-Bayt (a.s) are the paragons of the spiritual truth as pointed out
 in the following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
-وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا
-تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
-  </p>
-</blockquote>
+> رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
+> وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا
+> تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
 
 ***Men whom neither merchandise nor selling diverts from the remembrance
 of Allah and the keeping up of prayer and the giving of poor-rate; they
@@ -295,12 +227,8 @@ Jews and Christians were waiting for his advent before his ordainment so
 as to overcome their enemies under his rule and attain spirituality
 through following him:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
-يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنْجِيلِ
-  </p>
-</blockquote>
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
+> يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنْجِيلِ
 
 ***Those who follow the Apostle Prophet, the ummi whom they find written
 down with them in the Torah and the Gospel. (7:157)***
@@ -314,14 +242,10 @@ orders.”[^8]
 
 Speaking of the Holy Prophet, Jesus Christ (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي
-رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ
-التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ
-أَحْمَدُ ۖ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي
+> رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ
+> التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ
+> أَحْمَدُ ۖ
 
 ***And when Jesus son of Maryam said: O Children of Israel! Surely I am
 the apostle of Allah to you, verifying that which is before me of the
@@ -466,11 +390,7 @@ Allah’s promise about Ishmael is the same as the meaning of Ishmael
 (Allah heard you). Granting a son to Abraham was actually answering to
 his prayer in the same way that the Holy Prophet is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-أنَا دَعْوَةُأبِي إبْرَاهِيمَ.
-  </p>
-</blockquote>
+> أنَا دَعْوَةُأبِي إبْرَاهِيمَ.
 
 I have been demanded by my father, Abraham. [^9]
 
@@ -540,34 +460,22 @@ Ahl Al Bayt In The Psalms Of David
 
 Referring to the age of Imam al-Mahdi, Quranic verses read:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***The end is for those who guard against evil. (7:128)***
 
 Narrations also testify that the rule of Imam al-Mahdi will come about
 at the end of the world:
 
-<blockquote dir="rtl">
-  <p>
-دَوْلَتُنَا آخِرُ الدُّوَلِ.
-  </p>
-</blockquote>
+> دَوْلَتُنَا آخِرُ الدُّوَلِ.
 
 Our rule will be the last rule.[^11]
 
 Quranic verses have stipulated that this news has been mentioned in the
 books of the former prophets:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ
-الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ
+> الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 ***And certainly We have written in the Psalms, after the remembrance,
 the earth shall be the inheritance of My righteous servants. (21:105)***
@@ -625,5 +533,4 @@ of the wicked shall be cut off.
 [^10]: Waq’at Siffin: 147
 
 [^11]: Kitab al-Irshad by Shaykh al-Mufid: 384/2
-
 

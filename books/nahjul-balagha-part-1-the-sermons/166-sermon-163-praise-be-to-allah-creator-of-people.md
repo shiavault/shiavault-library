@@ -4,17 +4,9 @@ Sermon 163: Praise be to Allah, Creator of people…
 Attributes of Allah
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-الخالق جلّ وعلا
-  </p>
-</blockquote>
+> الخالق جلّ وعلا
 
 Praise be to Allah, Creator of people; He has spread the earth. He makes
 streams to flow and vegetation to grow on high lands. His primality has
@@ -23,16 +15,12 @@ ever. He is the everlasting without limit. Foreheads bow before Him and
 lips declare His Oneness. He determined the limits of things at the time
 of His creating them, keeping Himself away from any likeness.
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لله خَالِقِ الْعِبَادِ، وَسَاطِحِ الْمِهَادِ، وَمُسِيلِ
-الْوِهَادِ، وَمُخْصِبِ النِّجَادِ، لَيْسَ لاِوَّلِيَّتِهِ ابْتِدَاءٌ،
-وَلاَ لاِزَلِيَّتِهِ انْقِضَاءٌ، هُوَ الاَوَّلُ لَمْ يَزَلْ،
-وَالْبَاقي بِلا أَجَل، خَرَّتْ لَهُ الْجِبَاهُ، وَوَحَّدَتْهُ
-الشِّفَاهُ، حَدَّ الاْشْيَاءَ عِنْدَ خَلْقِهِ لَهَا إبَانَةً لَهُ مِنْ
-شَبَهِهَا،
-  </p>
-</blockquote>
+> الْحَمْدُ لله خَالِقِ الْعِبَادِ، وَسَاطِحِ الْمِهَادِ، وَمُسِيلِ
+> الْوِهَادِ، وَمُخْصِبِ النِّجَادِ، لَيْسَ لاِوَّلِيَّتِهِ ابْتِدَاءٌ،
+> وَلاَ لاِزَلِيَّتِهِ انْقِضَاءٌ، هُوَ الاَوَّلُ لَمْ يَزَلْ،
+> وَالْبَاقي بِلا أَجَل، خَرَّتْ لَهُ الْجِبَاهُ، وَوَحَّدَتْهُ
+> الشِّفَاهُ، حَدَّ الاْشْيَاءَ عِنْدَ خَلْقِهِ لَهَا إبَانَةً لَهُ مِنْ
+> شَبَهِهَا،
 
 Imagination cannot surmise Him within the limits of movements limbs or
 senses. It cannot be said about Him: "whence"; and no time limit can be
@@ -42,16 +30,12 @@ not a body which can die, nor is He veiled so as to be enclosed therein.
 He is not near to things by way of touch, nor is He remote from them by
 way of separation.
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُقَدِّرُهُ الاْوْهامُ بِالْحُدُودِ وَالحَرَكَاتِ، وَلاَ
-بِالْجَوَارِحِ وَالاْدَوَاتِ، لاَ يُقَالُ لَهُ:«مَتَى»؟ وَلاَ يُضْرَبُ
-لَهُ أَمَدٌ «بِحَتَّى»، الظَّاهِرُ لاَ يُقالُ: «مِمَّ»؟ وَالْبَاطِنُ
-لاَ يُقَالُ: «فِيمَ»؟، لاَ شَبَحٌ فَيُتَقَصَّى، وَلاَ مَحْجُوبٌ
-فَيُحْوَى، لَمْ يَقْرُبْ مِنَ الاْشْيَاءِ بِالْتِصَاق، وَلَمْ يَبْعُدْ
-عَنْهَا بِافْتِرَاق،
-  </p>
-</blockquote>
+> لاَ تُقَدِّرُهُ الاْوْهامُ بِالْحُدُودِ وَالحَرَكَاتِ، وَلاَ
+> بِالْجَوَارِحِ وَالاْدَوَاتِ، لاَ يُقَالُ لَهُ:«مَتَى»؟ وَلاَ يُضْرَبُ
+> لَهُ أَمَدٌ «بِحَتَّى»، الظَّاهِرُ لاَ يُقالُ: «مِمَّ»؟ وَالْبَاطِنُ
+> لاَ يُقَالُ: «فِيمَ»؟، لاَ شَبَحٌ فَيُتَقَصَّى، وَلاَ مَحْجُوبٌ
+> فَيُحْوَى، لَمْ يَقْرُبْ مِنَ الاْشْيَاءِ بِالْتِصَاق، وَلَمْ يَبْعُدْ
+> عَنْهَا بِافْتِرَاق،
 
 The gazing of people's eyes is not hidden from Him, nor the repetition
 of words, nor the glimpse of hillocks, nor the tread of a footstep in
@@ -60,16 +44,12 @@ light and the effulgent sun comes in its wake, through its setting and
 appearing again and again with the rotation of time and periods, by the
 approach of the advancing night or the passing away of the running day.
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَخْفَى عَلَيْهِ مِنْ عِبَادِهِ شُخُوصُ لَحْظَة، وَلاَ
-كُرُورُلَفْظَة، وَلاَ ازْدِلاَفُ رَبْوَة، وَلاَ انْبِسَاطُ خُطْوَة فِي
-لَيْل دَاج، وَلاَ غَسَق سَاج، يَتَفَيَّأُ عَلَيْهِ الْقَمَرُ
-الْمُنِيرُ، وَتَعْقُبُهُ الشَّمْسُ ذَاتُ النُّورِ فِي الْكُرُورِ
-وَالاْفُولِ، وَتَقْلِيبِ الاْزْمِنَةِ وَالدُّهُورِ، مِنْ إِقْبَالِ
-لَيْل مُقْبِل، وَإِدْبَارِ نَهَار مُدْبِر،
-  </p>
-</blockquote>
+> وَلاَ يَخْفَى عَلَيْهِ مِنْ عِبَادِهِ شُخُوصُ لَحْظَة، وَلاَ
+> كُرُورُلَفْظَة، وَلاَ ازْدِلاَفُ رَبْوَة، وَلاَ انْبِسَاطُ خُطْوَة فِي
+> لَيْل دَاج، وَلاَ غَسَق سَاج، يَتَفَيَّأُ عَلَيْهِ الْقَمَرُ
+> الْمُنِيرُ، وَتَعْقُبُهُ الشَّمْسُ ذَاتُ النُّورِ فِي الْكُرُورِ
+> وَالاْفُولِ، وَتَقْلِيبِ الاْزْمِنَةِ وَالدُّهُورِ، مِنْ إِقْبَالِ
+> لَيْل مُقْبِل، وَإِدْبَارِ نَهَار مُدْبِر،
 
 He precedes every extremity and limit, and every counting and numbering.
 He is far above what those whose regard is limited attribute to Him,
@@ -77,23 +57,15 @@ such as the qualities of measure, having extremities, living in house
 and dwelling in abodes, because limits are meant for creation and are
 attributable only to other than Allah.
 
-<blockquote dir="rtl">
-  <p>
-قَبْلَ كُلِّ غَايَة وَمُدَّة، وَكُلِّ إِحْصَاء وَعِدَة، تَعَالَى
-عَمَّا يَنْحَلُهُ الْمحَدِّدُونَ مِنْ صِفَاتِ الاْقْدَارِ وَنِهَايَاتِ
-الاْقْطَارِ، وَتَأَثُّلِ الْمَسَاكِنِ، وَتَمَكُّنِ الاْمَاكِنِ;
-فَالْحَدُّ لِخَلْقِهِ مَضْرُوبٌ، وَإِلَى غَيْرهِ مَنْسُوبٌ.
-  </p>
-</blockquote>
+> قَبْلَ كُلِّ غَايَة وَمُدَّة، وَكُلِّ إِحْصَاء وَعِدَة، تَعَالَى
+> عَمَّا يَنْحَلُهُ الْمحَدِّدُونَ مِنْ صِفَاتِ الاْقْدَارِ وَنِهَايَاتِ
+> الاْقْطَارِ، وَتَأَثُّلِ الْمَسَاكِنِ، وَتَمَكُّنِ الاْمَاكِنِ;
+> فَالْحَدُّ لِخَلْقِهِ مَضْرُوبٌ، وَإِلَى غَيْرهِ مَنْسُوبٌ.
 
 Allah, the Originator from naught
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ابتداع المخلوقين
-  </p>
-</blockquote>
+> ابتداع المخلوقين
 
 He did not create things from eternal matter nor after ever-existing
 examples, but He created whatever He created and then He fixed limits
@@ -104,16 +76,12 @@ same as His knowledge about the remaining survivors, and His knowledge
 about whatever there is in the high skies is like His knowledge of
 whatever there is in the low earth.
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَخْلُقِ الاْشْيَاءَ مِنْ أُصُول أَزَلِيَّة، وَلاَ مِنْ أَوَائِلَ
-أَبَدِيَّة، بَلْ خَلَقَ مَا خَلَقَ فَأَقَامَ حَدَّهُ، وَصَوَّرَ مَا
-صَوَّرَ فَأَحْسَنَ صُورَتَهُ، لَيْسَ لِشَيْء مِنْهُ امْتِنَاعٌ، وَلاَ
-لَهُ بِطَاعَةِ شَيْء انْتِفَاعٌ، عِلْمُهُ بِالاْمْوَاتِ الْمَاضِينَ
-كَعِلْمِهِ بِالاْحْيَاءِ الْبَاقِينَ، وَعِلْمُهُ بِمَا فِي السماوَاتِ
-الْعُلَى كَعِلْمِهِ بِمَا فِي الاْرَضِينَ السُّفْلَى.
-  </p>
-</blockquote>
+> لَمْ يَخْلُقِ الاْشْيَاءَ مِنْ أُصُول أَزَلِيَّة، وَلاَ مِنْ أَوَائِلَ
+> أَبَدِيَّة، بَلْ خَلَقَ مَا خَلَقَ فَأَقَامَ حَدَّهُ، وَصَوَّرَ مَا
+> صَوَّرَ فَأَحْسَنَ صُورَتَهُ، لَيْسَ لِشَيْء مِنْهُ امْتِنَاعٌ، وَلاَ
+> لَهُ بِطَاعَةِ شَيْء انْتِفَاعٌ، عِلْمُهُ بِالاْمْوَاتِ الْمَاضِينَ
+> كَعِلْمِهِ بِالاْحْيَاءِ الْبَاقِينَ، وَعِلْمُهُ بِمَا فِي السماوَاتِ
+> الْعُلَى كَعِلْمِهِ بِمَا فِي الاْرَضِينَ السُّفْلَى.
 
 A part of the same sermon about man's creation, and pointing towards the requirements of life.
 ----------------------------------------------------------------------------------------------
@@ -125,15 +93,11 @@ originated ***from the essence of clay*** **(Qur'an, 23:12)** and placed
 ordained time. You used to move in the womb of your mother as an embryo,
 neither responding to a call nor hearing any voice.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا الْـمَخْلُوقُ السَّوِيُّ، وَالْمُنْشَأُ الْمَرْعِىُّ، فِي
-ظُلُمَاتِ الاْرْحَامِ، وَمُضَاعَفَاتِ الاْسْتَارِ، بُدِئْتَ )مِنْ
-سُلاَلَة مِنْ طِين(، وَوُضِعْتَ )فِي قَرَار مَكِين \* إِلَى قَدَر
-مَعْلُوم) وَأَجَل مَقْسُوم، تَمُورُ فِي بَطْنِ أُمِّكَ جَنِيناً لاَ
-تُحِيرُ دُعَاءً، وَلاَ تَسْمَعُ نِدَاءً،
-  </p>
-</blockquote>
+> أَيُّهَا الْـمَخْلُوقُ السَّوِيُّ، وَالْمُنْشَأُ الْمَرْعِىُّ، فِي
+> ظُلُمَاتِ الاْرْحَامِ، وَمُضَاعَفَاتِ الاْسْتَارِ، بُدِئْتَ )مِنْ
+> سُلاَلَة مِنْ طِين(، وَوُضِعْتَ )فِي قَرَار مَكِين \* إِلَى قَدَر
+> مَعْلُوم) وَأَجَل مَقْسُوم، تَمُورُ فِي بَطْنِ أُمِّكَ جَنِيناً لاَ
+> تُحِيرُ دُعَاءً، وَلاَ تَسْمَعُ نِدَاءً،
 
 Then you were taken out from your place of stay to a place you had not
 seen, and you were not acquainted with the means of acquiring its
@@ -144,16 +108,12 @@ unable to understand the qualities of a being with shape and limbs is
 the more unable to understand the qualities of the Creator and the more
 remote from appreciating Him through the limitations of creatures!
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أُخْرِجْتَ مِنْ مَقَرِّكَ إِلَى دَار لَمْ تَشْهَدْهَا، وَلَمْ
-تَعْرِفْ سُبُلَ مَنَافِعِهَا; فَمَنْ هَدَاكَ لاِجْتِرَارِ الْغِذَاءِ
-مِنْ ثَدْيِ أُمِّكَ؟ وَعَرَّفَكَ عِنْدَ الْحَاجَةِ مَوَاضِعَ طَلَبِكَ
-وَإِرَادَتِكَ؟! هَيْهَاتَ، إِنَّ مَنْ يَعْجِزُ عَنْ صِفَاتِ ذِي
-الْهَيْئَةِ وَالاْدَوَاتِ فَهُوَ عَنْ صِفَاتِ خَالِقِهِ أَعْجَزُ،
-وَمِنْ تَنَاوُلِهِ بِحُدُودِ الْمخْلُوقِينَ أَبْعَدُ!
-  </p>
-</blockquote>
+> ثُمَّ أُخْرِجْتَ مِنْ مَقَرِّكَ إِلَى دَار لَمْ تَشْهَدْهَا، وَلَمْ
+> تَعْرِفْ سُبُلَ مَنَافِعِهَا; فَمَنْ هَدَاكَ لاِجْتِرَارِ الْغِذَاءِ
+> مِنْ ثَدْيِ أُمِّكَ؟ وَعَرَّفَكَ عِنْدَ الْحَاجَةِ مَوَاضِعَ طَلَبِكَ
+> وَإِرَادَتِكَ؟! هَيْهَاتَ، إِنَّ مَنْ يَعْجِزُ عَنْ صِفَاتِ ذِي
+> الْهَيْئَةِ وَالاْدَوَاتِ فَهُوَ عَنْ صِفَاتِ خَالِقِهِ أَعْجَزُ،
+> وَمِنْ تَنَاوُلِهِ بِحُدُودِ الْمخْلُوقِينَ أَبْعَدُ!
 
 Alternative Sources for Sermon 163
 ----------------------------------
@@ -164,5 +124,4 @@ Alternative Sources for Sermon 163
 p.306;
 
 (3) al-Zamakhshari, *Rabi\`,* I, *bab al-mala'ikah.*
-
 

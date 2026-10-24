@@ -30,4 +30,3 @@ It is hoped that the radiance of these divine personalities will light
 up our life, and that we may be included among their helpers. May Allah
 hasten the reappearance of the last of them, Hazrat Mahdi (A.S.)
 
-

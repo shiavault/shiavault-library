@@ -121,4 +121,3 @@ Imam (a.s.) and pray to Him that He should forgive our shortcomings. And
 through the afflictions heaped on Janabe Zahra (s.a), let us beseech and
 pray for the earliest reappearance of Yusuf-e-Zahra.
 
-

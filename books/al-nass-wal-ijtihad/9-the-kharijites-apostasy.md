@@ -776,7 +776,6 @@ until Abu Bakr sent for Khalid and scolded him.” This is the very speech
 of Professor Haykal about Umar’s opinion and evidence about the matter
 of Khalid quoted from his book As-Siddeeq Abu Bakr, p.151.
 
-
 **Some fairness**
 
 Professor al-Aqqad, after mentioning the contradicted sayings about the
@@ -1187,5 +1186,4 @@ faith. He will strike you to keep to the religion.” Abu Bakr said: “O
 messenger of Allah, is it me?” The Prophet (s) said: “It is the one who
 is mending the shoes.” The Prophet (s) had given his shoes to Ali in
 order to mend them.”
-
 

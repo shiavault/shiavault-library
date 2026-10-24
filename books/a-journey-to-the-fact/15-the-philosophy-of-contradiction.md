@@ -151,4 +151,3 @@ philosophy.
 **F** It’s better to say: Thanks God for His high Wisdom, beautiful
 creation and magnificent Will...
 
-

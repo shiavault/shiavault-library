@@ -65,7 +65,6 @@ oblige. Often the repetition awaited never appears and the request
 drifts from the memory as if it never existed. The favour is deemed to
 have been denied when the intention was not so.
 
-
 **8- The Child's FIrst Participation in a Religious**
 
 Congregation There always comes a time when a child is seen old enough
@@ -141,5 +140,4 @@ feature!
 
 In a good Muslim family a child's best and lingering memories are of
 the parents taking pain to teach him the obligations in Islam.
-
 

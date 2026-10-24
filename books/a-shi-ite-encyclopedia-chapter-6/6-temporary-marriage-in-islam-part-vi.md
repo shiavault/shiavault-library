@@ -544,4 +544,3 @@ in permanent marriage. (Sharh al-Lum'a, v5, p286).
 In the next part, we will discuss the necessities and the advantages of
 the Temporary marriage, Insha Allah.
 
-

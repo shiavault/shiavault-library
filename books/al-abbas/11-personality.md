@@ -202,4 +202,3 @@ of Islam
 which Prophet Muhammad (S) belonged. The Umayyads also belonged to
 Koreish
 
-

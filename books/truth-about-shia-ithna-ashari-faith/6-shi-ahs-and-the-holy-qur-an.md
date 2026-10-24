@@ -281,4 +281,3 @@ valleys full of wealth, he would have desired a third”.
 
 [^18]: al-Suyūti, Al-Itqān fi \`Uloom al-Qur\`ān, p. 65.
 
-

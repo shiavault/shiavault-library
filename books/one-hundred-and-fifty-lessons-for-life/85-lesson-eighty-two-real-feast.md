@@ -3,12 +3,8 @@ Lesson Eighty Two: Real Feast
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنّما هُوَ عِيْدٌ لِمَنْ قَبِلَ اللّهُ صِيامَهُ وَ شَكَرَ قِيامَهُ وَ
-كُلُّ يَوْم لايُعْصَى اللّهُ فِيهِ فَهُوَ عَيْدٌ
-  </p>
-</blockquote>
+> إنّما هُوَ عِيْدٌ لِمَنْ قَبِلَ اللّهُ صِيامَهُ وَ شَكَرَ قِيامَهُ وَ
+> كُلُّ يَوْم لايُعْصَى اللّهُ فِيهِ فَهُوَ عَيْدٌ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ is nothing but a day of mourning and disgrace.
 [^1]: Nahjul Balaghah. Wasa'il Al-Shia, vol 15, page 308. Mustadrak
 AlWasail, vol 6, page 149. Rawthat Al-Wa'itheen, vol2, page 354. Sharh
 Nahjul Balaghah, , vol 20, page 73.
-
 

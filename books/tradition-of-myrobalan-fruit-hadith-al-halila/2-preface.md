@@ -101,4 +101,3 @@ Wali Muhammad C. Momin
 
 [^2]: Sahih Bukhari and Sahih Muslim
 
-

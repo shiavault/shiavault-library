@@ -115,7 +115,6 @@ However, if he had performed the Hajj incorrectly; both according to his
 madhhab or according to ours, that Hajj would not qualify and he remains
 obliged to repeat.
 
-
 **Hajj by Grant**
 
 54. Just as one can meet the prerequisites for qualifying for the Hajj
@@ -532,5 +531,4 @@ Mina, doing these rites by proxy is not acceptable.
 would not be possible to be left behind by her group, it would be
 permissible for her to seek an agent to do Tawaaf al-Nisa’ and Tawaaf
 al- Ziyaarah and their prayers on her behalf, and do the sa‘y herself.
-
 

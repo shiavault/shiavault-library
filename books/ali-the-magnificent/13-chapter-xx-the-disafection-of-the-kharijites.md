@@ -11,7 +11,6 @@ Moawiya remained alive. To the Kharijites, they were both ambitious
 tyrants who had usurped power and established ungodly kingdoms in
 defiance of the will of God.
 
-
 **A concerted plot
 **
 
@@ -64,7 +63,6 @@ Shub'ibbin Bijrah of the tribe of Ashjah agreed to join in the plot. The
 three conspirators now anxiously waited for the arrival of the 19th of
 Ramazan-the day fixed for the ghastly murder.
 
-
 Moawiya escapes with a wound
 Having reached Damascus, Burk ibn Abdullah on the appointed day mingled
 with the worshippers at the morning service and stabbed Moawiya who,
@@ -89,7 +87,6 @@ ever ready to defend him in an emergency. Moawiya was far too much in
 love with life ever again to run the risk of losing it. How different
 his attitude was from that of Ali will be seen later in this chapter.
 
-
 Amr bin Aas escapes death
 In Egypt Amr bin Bakr went to the mosque on the morning of the 19th
 Ramazan to assassinate Amr bin Aas. Luck favoured Amr bin Aas, who was
@@ -101,7 +98,6 @@ later by Amr bin Aas what his motive for the murder had been, he
 replied, "O thou sinner, the stroke was not intended for any other than
 thyself." "But God", said the wily Governor, "thou shalt be slain." Amr
 bin Bakr was forthwith put to a cruel death.
-
 
 Ali's nightly vigils in the mosque at Kufa
 Of the three assassins, it was Abdur Rahman who had the easiest task.
@@ -140,7 +136,6 @@ Saracens, the household birds began
 making a great noise and when one of Ali's servants attempted to
 quieten them, Ali said, "Leave them alone, for their cries are only
 lamentations foreboding my death."
-
 
 The fateful nineteenth of Ramazan
 On the 19th of Ramazan Hazrat Ali came to the mosque in Kufa for his
@@ -182,7 +177,6 @@ should be buried secretly, because he feared that his enemies would
 desecrate his grave. The coffin stopped at Najaf which is about four
 miles from Kufa.
 
-
 Ali's last testament
 To his sons Ali spoke thus : "Remain steadfast in piety and resign
 yourself to the will of God. Never aspire to anything which is beyond
@@ -222,7 +216,6 @@ constantly re-affirming the belief in the Unity of God and in the Divine
 Mission of the Holy Prophet. Ali was to survive the mortal wound for
 three days. Speech was finally silenced at the approach on the third
 day.
-
 
 The pulpit in the mosque at Kufa
 Ibn Jubayr says, "in the mosque at Kufa there is a pulpit which is
@@ -295,7 +288,6 @@ out to him in
 their difficulties, and the word "Ya Ali Madad" automatically comes to
 them. A famous prayer known as "NADEY ALI" (Call Ali) which is given on
 page iv is recited wherever abound the lovers of Ali.
-
 
 The Mausoleum
 "The Mausoleum itself of Hazrat Ali at Najaf, is breathtaking. There is
@@ -375,7 +367,6 @@ The pilgrim replied, "I did not know." The Imam continued, "Understand
 that the Amir-ul-Momineen is in the sight of God better than all the
 Imams, and to him belong the merit of the works of all the Imams, in
 addition to which he has the merit of his own works." 1
-
 
 Salutations to Hazrat Ali Alaihis Salaam-1
 Before making the visit to the Shrine, according to Imam
@@ -649,7 +640,6 @@ Have given their hands to Allah;
 But those who abandon them, have truly abandoned Allah,
 I bear witness before Allah that 1 am loyal to whoever is loyal to
 thee, and I am ready to fight those who are not loyal to thee."
-
 
 **PILGRIMAGE BY PROXY
 **

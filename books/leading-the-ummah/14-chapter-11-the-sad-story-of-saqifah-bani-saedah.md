@@ -21,13 +21,9 @@ and shaky that they even became suspicious of the existence of God and
 let their minds retreat to the age of idolatry. The Holy Quran reveals
 this secret in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ طائِفَةٌ قَدْ أَهَمَّتْهُمْ أَنْفُسُهُمْ يَظُنُّونَ بِاللَّهِ
-غَيْرَ الْحَقِّ ظَنَّ الْجاهِلِيَّةِ يَقُولُونَ هَلْ لَنا مِنَ
-الأَْمْرِ مِنْ شَيْ‏ءٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ طائِفَةٌ قَدْ أَهَمَّتْهُمْ أَنْفُسُهُمْ يَظُنُّونَ بِاللَّهِ
+> غَيْرَ الْحَقِّ ظَنَّ الْجاهِلِيَّةِ يَقُولُونَ هَلْ لَنا مِنَ
+> الأَْمْرِ مِنْ شَيْ‏ءٍ ﴾
 
 ***“And there was another party whose souls had become anxious; they
 entertained about Allah thoughts of ignorance quite unjustly saying “we
@@ -36,14 +32,10 @@ have no hand in the affair”***[^1]
 Elsewhere, the Holy Quran implicitly reveals the disagreements and
 discrepancies among the Prophet's followers:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ما مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ
-أَ فَإِنْ ماتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلى أَعْقابِكُمْ وَ مَنْ
-يَنْقَلِبْ عَلى عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئاً وَ سَيَجْزِي
-اللَّهُ الشَّاكِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ما مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ
+> أَ فَإِنْ ماتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلى أَعْقابِكُمْ وَ مَنْ
+> يَنْقَلِبْ عَلى عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئاً وَ سَيَجْزِي
+> اللَّهُ الشَّاكِرِينَ ﴾
 
 ***“And Muhammad is no more than an apostle; other apostles have already
 passed away before him; if then he dies or is killed, will you turn your
@@ -68,11 +60,7 @@ The Prophet of Islam was well aware that his Ummah was prone to
 disintegration just like the ones before it. His predictions are well
 known in this regard:
 
-<blockquote dir="rtl">
-  <p>
-“سَتفترق أُمّتي علی ثلاث و سبعين فرقة، فرقة ناجية و الباقون في النار”.
-  </p>
-</blockquote>
+> “سَتفترق أُمّتي علی ثلاث و سبعين فرقة، فرقة ناجية و الباقون في النار”.
 
 “My Ummah will divide into seventy three branches; only one group of
 these is on the right path; the rest will end up in hell [^3].
@@ -315,5 +303,4 @@ kind of reasoning.
 (vol. 3, the events of the eleventh year).And Al-Emamat Bab Al-Syasat,
 written by Ibn Qotayebah Dinbary (vol. 1) and Sharh Ibn Abi Al-Hadid
 (vol.2, pp. 22-60).
-
 

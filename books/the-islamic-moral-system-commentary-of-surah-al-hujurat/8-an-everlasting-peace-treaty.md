@@ -3,15 +3,11 @@ An Everlasting Peace Treaty
 
 ( Verse 9 )
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ طٌائِفَتٌانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
-بَيْنَهُمٌا فَإِنْ بَغَتْ إِحْدٌهُمٌا عَلى الأُخْرَى فَقٌاتِلُوا
-الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللٌّهِ فَإِنْ فٌائَتْ
-فَأَصْلِحُوا بَيْنَهُمٌا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللٌّهَ
-يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> وَإِنْ طٌائِفَتٌانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
+> بَيْنَهُمٌا فَإِنْ بَغَتْ إِحْدٌهُمٌا عَلى الأُخْرَى فَقٌاتِلُوا
+> الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللٌّهِ فَإِنْ فٌائَتْ
+> فَأَصْلِحُوا بَيْنَهُمٌا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللٌّهَ
+> يُحِبُّ الْمُقْسِطِينَ
 
 **“*****And if two factions from amongst the believers begin fighting
 against one another, then restore peace between them both. However, if
@@ -47,11 +43,7 @@ It has been said in the past that, “True peace between a powerful
 (nation) and a weaker one can never be conceivable” and this is
 definitely the truth and thus, the Qur’an has told us that:
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْلِحُوا بَيْنَمُهٌا بِالْعَدْلِ وَ أَقْسِطُوا...
-  </p>
-</blockquote>
+> فَأَصْلِحُوا بَيْنَمُهٌا بِالْعَدْلِ وَ أَقْسِطُوا...
 
 ***“…then restore the peace that was between them with justice and act
 with equality (between the parties involved).”***
@@ -69,11 +61,7 @@ and go against the laws of Islam would know that there is no room in an
 Islamic society for such people and these two fundamental conditions are
 found in the Qur’an in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ بَغَتْ إِحْدٌهُمٌا عَلى الأُخْرى فَقٌاتِلُوا الَّتِي تَبْغِي...
-  </p>
-</blockquote>
+> فَإِنْ بَغَتْ إِحْدٌهُمٌا عَلى الأُخْرى فَقٌاتِلُوا الَّتِي تَبْغِي...
 
 ***  
 ***
@@ -89,11 +77,7 @@ from his head in which he feels that he is able to violate and encroach
 upon the rights of the believers, and this can be deduced from the
 section of this verse that states:
 
-<blockquote dir="rtl">
-  <p>
-...حَتٌّى تَفِيءَ إِلـى أَمْرِ اللٌّهِ
-  </p>
-</blockquote>
+> ...حَتٌّى تَفِيءَ إِلـى أَمْرِ اللٌّهِ
 
 ***“…until they submit to the command of Allah.”***
 
@@ -111,11 +95,7 @@ have subjugated a group of people, we must still keep our spirits high
 and try to formalize a new peace treaty that is based upon justice, just
 as it has been mentioned in the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ فٌائَتْ فَأَصْلِحُوا بَيْنَهُمٌا بِالْعَدْلِ وَ أَقْسِطُوا...
-  </p>
-</blockquote>
+> فَإِنْ فٌائَتْ فَأَصْلِحُوا بَيْنَهُمٌا بِالْعَدْلِ وَ أَقْسِطُوا...
 
 ***“When they do so, then restore the peace that was between them (the
 parties involved) with justice and equality)...”***
@@ -178,13 +158,9 @@ Elaborating on the importance of peace and friendship between two
 opposing parties, Amir al-Mu’minin \`Ali ibn Abi Talib (peace be upon
 him), has said the following:
 
-<blockquote dir="rtl">
-  <p>
-وَ صَلاٌحُ ذٌاتَ بَيْنَكُمْ فَإِنِّي سَمِعْتُ جَدَّكُمٌا يَقُولُ:
-صَلاٌحُ ذٌاتَ الْبَيْنِ أَفْضَلُ مِنْ عٌامَّةٍ الصَّلاٌةِ وَ
-الصِّيٌامِ
-  </p>
-</blockquote>
+> وَ صَلاٌحُ ذٌاتَ بَيْنَكُمْ فَإِنِّي سَمِعْتُ جَدَّكُمٌا يَقُولُ:
+> صَلاٌحُ ذٌاتَ الْبَيْنِ أَفْضَلُ مِنْ عٌامَّةٍ الصَّلاٌةِ وَ
+> الصِّيٌامِ
 
 *“I advise you (my two sons – al-Hasan and al-Husain) to establish and
 foster peace amongst two opposing parties, since surely I have heard
@@ -212,11 +188,7 @@ has been commanded to fight against tyrants and oppressors until they
 return back to the straight path and open the doors to the commandments
 of Allah (Glorified and Exalted is He). It is said in this verse:
 
-<blockquote dir="rtl">
-  <p>
-...فَقٌاتِلُوا الَّتِي تَبْغِي حَتَّـى تَفِيءَ إِلـى أَمْرِ اللٌّهِ
-  </p>
-</blockquote>
+> ...فَقٌاتِلُوا الَّتِي تَبْغِي حَتَّـى تَفِيءَ إِلـى أَمْرِ اللٌّهِ
 
 > “…then fight the revolting party until they submit to the command of
 > Allah.”
@@ -224,11 +196,7 @@ of Allah (Glorified and Exalted is He). It is said in this verse:
 In another place in the Qur’an, we are cautioned that no Muslim is
 permitted to take an oppressor as a protector; it has been mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاٌ تَرْكَنُوا إِلـى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النٌّارُ
-  </p>
-</blockquote>
+> وَ لاٌ تَرْكَنُوا إِلـى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النٌّارُ
 
 > “And do not incline towards those people who are oppressive and do
 > wrong or the fire will seize you.”51
@@ -237,12 +205,8 @@ The noble leader of the Shi\`a world, Amir al-Mu’minin \`Ali ibn Abi
 Talib (peace be upon him) has said, “Many times the Prophet of Islam
 (blessings of Allah be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تُقَدَّسَ أُمَّةٌ لاٌ يُؤْخَذُ لِلضَّعِيفِ فِيهٌا حَقُّهُ مِنَ
-الْقَوِيِّ غَيْرَ مُتَتَعْـتِعٍ
-  </p>
-</blockquote>
+> لَنْ تُقَدَّسَ أُمَّةٌ لاٌ يُؤْخَذُ لِلضَّعِيفِ فِيهٌا حَقُّهُ مِنَ
+> الْقَوِيِّ غَيْرَ مُتَتَعْـتِعٍ
 
 *“That nation or government in which the rights of the oppressed and
 destitute people are not guarded and where the mighty and powerful
@@ -254,15 +218,11 @@ years, Amir al-Mu’minin \`Ali ibn Abi Talib (peace be upon him)
 explained the reason why he accepted the leadership (Khilafah), at that
 time:
 
-<blockquote dir="rtl">
-  <p>
-أَمٌّا وَالَّذِي فَلَقَ الْحَبَّةَ وَبَرَأَ النَّسَمَةَ لَوْ لاٌ
-حُضُورُ الْحٌاضِرِ وَقِيٌامُ الْحُجَّةِ بِوُجُودِ النٌّاصِرِ وَ مٌا
-أَخَذَ اللٌّهُ عَلى الْعُلَمٌاءِ أَنْ لاٌّ يُقٌارُّوا عَلى كِظَّةِ
-ظٌالِمٍ وَ لاٌ سَغَبِ مَظْلُومٍ لَأََلَـقَيْتُ حَبْلَهٌا عَلى
-غٌارِبِهٌا وَ لَسَقَيْتُ آخِرَهٌا بِكَأْسِ أَوَّلِهٌا.
-  </p>
-</blockquote>
+> أَمٌّا وَالَّذِي فَلَقَ الْحَبَّةَ وَبَرَأَ النَّسَمَةَ لَوْ لاٌ
+> حُضُورُ الْحٌاضِرِ وَقِيٌامُ الْحُجَّةِ بِوُجُودِ النٌّاصِرِ وَ مٌا
+> أَخَذَ اللٌّهُ عَلى الْعُلَمٌاءِ أَنْ لاٌّ يُقٌارُّوا عَلى كِظَّةِ
+> ظٌالِمٍ وَ لاٌ سَغَبِ مَظْلُومٍ لَأََلَـقَيْتُ حَبْلَهٌا عَلى
+> غٌارِبِهٌا وَ لَسَقَيْتُ آخِرَهٌا بِكَأْسِ أَوَّلِهٌا.
 
 *“Behold, I swear by Him who split the grain (to grow) and created
 living beings that had it not been for the people coming to me and had
@@ -325,13 +285,9 @@ The aversion that Islam shows to oppression and tyranny is to such an
 extreme, that even the person who is pleased with an oppressor living is
 counted as being amongst those who commit oppression:
 
-<blockquote dir="rtl">
-  <p>
-قٌالَ الإِمٌامُ جَعْفَرِ بْنِ مُحَمَّدٍ الصٌّادِقُ (عَلَيْهِ
-السَّلاٌمُ): أَلْعٌامِلُ بِالظُّلْمِ وَ الْمُعِينُ لَهُ وَ الرٌّاضِي
-بِهِ شُرَكٌاءٌ.
-  </p>
-</blockquote>
+> قٌالَ الإِمٌامُ جَعْفَرِ بْنِ مُحَمَّدٍ الصٌّادِقُ (عَلَيْهِ
+> السَّلاٌمُ): أَلْعٌامِلُ بِالظُّلْمِ وَ الْمُعِينُ لَهُ وَ الرٌّاضِي
+> بِهِ شُرَكٌاءٌ.
 
 Imam Ja\`far ibn Muhammad as-Sadiq (peace be upon him) said: *“The
 person who oppresses (another person) and the one who helps him and the
@@ -401,5 +357,4 @@ with patience that which we have tested you with.”
 
 [^9]: New Testament, St. Matthew, Chapter Five, Verse 39 (as found on
 bible.gospelcom.net).
-
 

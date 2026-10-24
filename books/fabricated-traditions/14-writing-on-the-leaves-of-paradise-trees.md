@@ -78,4 +78,3 @@ Dahabi remarks that this tradition is forged and fabricated.[^4]
 
 [^4]: - Al-Lu'ali al-Masnu'a, vol. 1, pp. 292 and 293.
 
-

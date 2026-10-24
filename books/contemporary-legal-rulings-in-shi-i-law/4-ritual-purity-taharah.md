@@ -143,4 +143,3 @@ implementation. As for the blood that exits with the *mudgah* and
 *'alaqah*, applying the ruling of *nifas* to them is problematic, rather
 forbidden. (MMS, p. 21, Q30)
 
-

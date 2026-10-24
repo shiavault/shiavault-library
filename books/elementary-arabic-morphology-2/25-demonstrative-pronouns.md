@@ -78,4 +78,3 @@ are made indeclinable on an *alif* if it is in the nominative case, for
 example **هذانِ**, and on a *yā'* if it is in the accusative or genitive
 cases, for example **هذَینِ**.
 
-

@@ -21,4 +21,3 @@ boiled eggs, biscuits, fresh cheese, bread, butter and fresh fruits.
 There should be variety in the diet of a child, but care has to be taken
 that it is not over fed.
 
-

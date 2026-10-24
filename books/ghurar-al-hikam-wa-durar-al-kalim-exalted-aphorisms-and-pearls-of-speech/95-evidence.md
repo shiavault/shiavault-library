@@ -7,10 +7,5 @@ Evidence
 strength of the authority of force.
 
 > 1ـ قُوَّةُ سُلْطانِ الحُجَّةِ أعْظَمُ مِنْ قَوَّةِ سُلْطانِ
-<blockquote dir="rtl">
-  <p>
-القُدْرَةِ.
-  </p>
-</blockquote>
-
+> القُدْرَةِ.
 

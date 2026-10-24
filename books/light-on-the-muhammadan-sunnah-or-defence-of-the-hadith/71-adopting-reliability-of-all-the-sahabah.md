@@ -20,7 +20,7 @@ sensed nowadays and will continue in future. It seems that the Messenger
 (S) could discern with his penetrating insight what will his Companions
 do after his passing away, as a result of which he said in the Farewell
 Pilgrimage (Hijjat al-Wada’): “Do not return after me disbelievers
-beheading and killing each other.” <span id="_anchor_680"></span>680
+beheading and killing each other.” 680
 
 Al-Bukhari reported from Ibn Abbas, that the Prophet (S) said: “Verily
 you will be resurrected bare-footed and naked, and a group of my
@@ -43,7 +43,7 @@ appeared, and as soon as I recognized them, a man came out in between me
 and them, saying: Let’s go, I said: whereto? He said: Toward the Fire,
 by God. I said: What did they do? He said: They retreated backwards. And
 I never think any of them will be delivered but as few as the ignored
-cattle. <span id="_anchor_681"></span>681
+cattle. 681
 
 In another version of the hadith, the Prophet (S) said: “On the Day of
 Resurrection, a group of my Companions will come toward me, and will be
@@ -90,10 +90,6 @@ Din.
 Those were some traditions I quoted from al-Bukhari and Muslim, which
 contained so many (odd) things I disdained from citing for sake of
 brevity.
-
-  
-  
-  
 
 680. See al-'Ilm al-shamikh, of al-Muqbili, p. 92.
 

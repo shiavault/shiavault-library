@@ -36,4 +36,3 @@ who are mean.
 vol. 2, Haq al Jiwar (The rights of neighbours), Ikram al-Dhaif
 (Respecting the Guest).
 
-

@@ -430,4 +430,3 @@ knows about it and agrees to it.
 [^1]: Translator's Note: "Religious judge" means the mujtahid or someone
 authorized by him in judicial matters.
 
-

@@ -225,4 +225,3 @@ clear.
 There are other matters worth explaining in this verse; and, God
 willing, some will be given in appropriate places.
 
-

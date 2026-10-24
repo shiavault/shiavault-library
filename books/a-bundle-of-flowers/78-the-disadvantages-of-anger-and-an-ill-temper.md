@@ -30,4 +30,3 @@ wisdom under his control, either."
 
 Al-Kafi, vol. 2, p. 303
 
-

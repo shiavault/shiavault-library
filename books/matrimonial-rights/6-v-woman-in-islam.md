@@ -86,4 +86,3 @@ until 1882, they had no personal rights and had no right to possess
 anything. Hence, women were dissolved in the per sonalities of their
 fathers or husbands. ( 31 )
 
-

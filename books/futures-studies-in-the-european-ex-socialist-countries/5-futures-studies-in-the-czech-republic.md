@@ -448,4 +448,3 @@ ed. series: Public and Social Policy No. 8/1998 (in Czech)
 
 web site: http://vize-cr.fsv.cuni.cz
 
-

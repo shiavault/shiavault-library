@@ -14,4 +14,3 @@ the only way to freedom.
 Imam Ali [a] liked Maytham because he was a good man. The Imam went to
 Maytham's shop. He taught him about Islam.
 
-

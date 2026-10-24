@@ -242,4 +242,3 @@ of the Prophets, Muhammad bin Abdullah (S)*
 
 [^12]: Holy Qur’an, 2:269.
 
-

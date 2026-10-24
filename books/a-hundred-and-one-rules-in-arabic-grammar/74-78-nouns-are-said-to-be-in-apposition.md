@@ -6,10 +6,7 @@ can drop off any of them without affecting the semantics of the
 sentence. Grammatically and logically speaking, both of the nouns should
 carry the same case marker.
 
-<p dir="rtl">
 **کانَ الخليفة ُ عُمَرُ عادلاً.**
-</p>
 
 The Caliph Omar was fair.
-
 

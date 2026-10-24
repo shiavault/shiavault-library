@@ -99,29 +99,17 @@ Khawarij, the Zaydis, and a number of sects. They even say that it is
 incumbent to rise up against an oppressive ruler. They have resorted to
 the following Qur’anic verses to prove their claim,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَتَعَاوَنُوا عَلَى البِرِّ وَالتَّقْوَي ﴾
-  </p>
-</blockquote>
+> ﴿ وَتَعَاوَنُوا عَلَى البِرِّ وَالتَّقْوَي ﴾
 
 ***“… and help one another in goodness and piety…”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَقَاتِلُوا الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللهِ
-... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَقَاتِلُوا الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللهِ
+> ... ﴾
 
 ***“… but if one of them acts wrongfully towards the other, fight that
 which acts wrongfully until it returns to Allah’s command…”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... لاَ يَنَالُ عَهْدِي الظَّالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... لاَ يَنَالُ عَهْدِي الظَّالِمِينَ ﴾
 
 ***“… My covenant does not include the unjust.”***[^13]
 
@@ -210,25 +198,17 @@ them. He said: Surely I will make you an imam of men. Ibrahim said: And
 of my offspring? My covenant does not include the unjust: said
 He.”***[^21]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذِ ابْتَلَي إِبْرَاهِيمَ رَبُّهُ بِکَلِمَاتٍ فَأَتَمَّهُنَّ
-قَالَ إِنِّي جَاعِلُکَ لِنَّاسِ إِمَاماً قَالَ وَمِنْ ذُرِّيتِي قَالَ
-لا ينَالُ عَهْدِي الظَّالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذِ ابْتَلَي إِبْرَاهِيمَ رَبُّهُ بِکَلِمَاتٍ فَأَتَمَّهُنَّ
+> قَالَ إِنِّي جَاعِلُکَ لِنَّاسِ إِمَاماً قَالَ وَمِنْ ذُرِّيتِي قَالَ
+> لا ينَالُ عَهْدِي الظَّالِمِينَ ﴾
 
 b. ***“Say: Is there any of your associates who guides to the truth?
 Say: Allah guides to the truth. Is He then who guides to the truth more
 worthy to be followed, or he who himself does not go aright unless he is
 guided? What then is the matter with you; how do you judge?”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَفَمَنْ يَهْدِي إِلَي الحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ
-لاَ يَهِدِّي إِلاَّ أَنْ يُهْدَي فَمَا لَکُمْ کَيْفَ تَحْکُمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَفَمَنْ يَهْدِي إِلَي الحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ
+> لاَ يَهِدِّي إِلاَّ أَنْ يُهْدَي فَمَا لَکُمْ کَيْفَ تَحْکُمُونَ ﴾
 
 It can be deduced from this verse that a person who does not guide
 towards the truth of Allah is not worthy of being followed and obeyed.
@@ -236,12 +216,8 @@ towards the truth of Allah is not worthy of being followed and obeyed.
 c. Some Qur’anic verses have said that submission and inclination
 towards oppressors will make man taste the fire of Hell. One verse says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلا تَرْکَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّکُمُ النَّارُ ...
-﴾
-  </p>
-</blockquote>
+> ﴿ وَلا تَرْکَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّکُمُ النَّارُ ...
+> ﴾
 
 ***“And do not incline to those who are unjust, lest the fire touch
 you…”***[^23]
@@ -250,12 +226,8 @@ d. The Holy Qur’an has called a ruler who does not rule and judge
 according to what Allah has revealed to be an unbeliever [*kafir*]. It
 says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَمَنْ لَمْ يحْکُمْ بِمَا أَنْزَلَ اللهُ فَأُولَئِکَ هُمُ
-الْکَافِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَمَنْ لَمْ يحْکُمْ بِمَا أَنْزَلَ اللهُ فَأُولَئِکَ هُمُ
+> الْکَافِرُونَ ﴾
 
 ***“… and whoever did not judge by what Allah revealed, those are they
 that are the*** ***kafirs.”***[^24]
@@ -272,60 +244,36 @@ whether he is a caliph, sultan and *imam* or otherwise.
 
 a. Allah, the Exalted says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلا تُطِعِ المُکَذِّبِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلا تُطِعِ المُکَذِّبِينَ ﴾
 
 ***“So do not yield to the rejecters.”***[^25]
 
 **b.** ***“And yield not to any mean swearer.”***[^26]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تُطِعْ کُلَّ حَلّاَّفٍ مَهِينٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تُطِعْ کُلَّ حَلّاَّفٍ مَهِينٍ ﴾
 
 **c.** ***“And be not compliant to the unbelievers and the
 hypocrites.”***[^27]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تُطِعِ الکَافِرِينَ وَالمُنَافِقِينَ ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تُطِعِ الکَافِرِينَ وَالمُنَافِقِينَ ... ﴾
 
 **d.** ***“And do not obey the bidding of the extravagant.”***[^28]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ \* الَّذِينَ يفْسِدُونَ فِي
-الأَرْضِ وَلاَ يُصْلِحُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ \* الَّذِينَ يفْسِدُونَ فِي
+> الأَرْضِ وَلاَ يُصْلِحُونَ ﴾
 
 **e.** ***“Therefore wait patiently for the command of your Lord, and
 obey not*** ***from among them a sinner or an ungrateful one.”***[^29]
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاصْبِر لِحُکْمِ رَبِّکَ وَلاَ تُطِعْ مِنْهُمْ آثمِاً أَوْ کَفُوراً
-﴾
-  </p>
-</blockquote>
+> ﴿ فَاصْبِر لِحُکْمِ رَبِّکَ وَلاَ تُطِعْ مِنْهُمْ آثمِاً أَوْ کَفُوراً
+> ﴾
 
 **f.** ***“And do not follow him whose heart we have made unmindful to
 Our remembrance, and he follows his low desires and his case is one in
 which due bounds are exceeded.”***[^30]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِکْرِنَا وَاتَّبَعَ
-هَوَاهُ وَکَانَ أَمْرُهُ فُرُطاًَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِکْرِنَا وَاتَّبَعَ
+> هَوَاهُ وَکَانَ أَمْرُهُ فُرُطاًَ ﴾
 
 **g.** ***“On the day when their faces shall be turned back into the
 fire, they shall say: O would that we had obeyed Allah and obeyed the
@@ -333,26 +281,18 @@ Apostle! And they shall say: O our Lord! Surely we obeyed our leaders
 and our great men, so they led us astray from the path; O our Lord! Give
 them a double punishment and curse them with a great curse.”***[^31]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يومَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يقُولُونَ يا لَيْتَنَا
-أَطَعْنَا اللهِ وَأَطَعْنَا الرَّسُولا \* وَقَالُوا رَبَّنَا إِنَّا
-أَطَعْنَا سَادَتَنَا وَکُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلا \*
-رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً
-کَبِيراً ﴾
-  </p>
-</blockquote>
+> ﴿ يومَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يقُولُونَ يا لَيْتَنَا
+> أَطَعْنَا اللهِ وَأَطَعْنَا الرَّسُولا \* وَقَالُوا رَبَّنَا إِنَّا
+> أَطَعْنَا سَادَتَنَا وَکُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلا \*
+> رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً
+> کَبِيراً ﴾
 
 **h.** ***“And do not incline to those who are unjust, lest the fire
 touch you, and you have no guardians besides Allah, then you shall not
 be helped.”***[^32]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تَرْکَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّکُمُ النَّارُ ...
-﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تَرْکَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّکُمُ النَّارُ ...
+> ﴾
 
 #### 3. These hadiths are opposed to the Qur’anic verses which prove that enjoining the good and forbidding the evil is incumbent upon Muslims
 
@@ -364,13 +304,9 @@ bi’l-ma‘ruf wa nahy ‘an al-munkar*] takes various forms, among them:
 
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلتَکُنْ مِنْکُمْ أُمَّةٌ يَدْعُونَ إِلَى الخَيْرِ وَيَأْمُرُونَ
-بِالْمَعرُوفِ وَيَنْهَونَ عَنِ المُنْکَرِ وَأُولئِکَ هُمُ
-المُفْلِحُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلتَکُنْ مِنْکُمْ أُمَّةٌ يَدْعُونَ إِلَى الخَيْرِ وَيَأْمُرُونَ
+> بِالْمَعرُوفِ وَيَنْهَونَ عَنِ المُنْکَرِ وَأُولئِکَ هُمُ
+> المُفْلِحُونَ ﴾
 
 ***“And from among you there should be a party who invite to good and
 enjoin what is right and forbid the wrong, and these it is that shall be
@@ -378,12 +314,8 @@ successful.”***[^33]
 
 And, He also says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ کُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنّاسِ تَأْمُرُونَ
-بِالمَعْرُوفِ وَتَنْهَوْنَ عَنِ المُنْکَرِ وَتُؤْمِنُونَ بِاللهِ ... ﴾
-  </p>
-</blockquote>
+> ﴿ کُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنّاسِ تَأْمُرُونَ
+> بِالمَعْرُوفِ وَتَنْهَوْنَ عَنِ المُنْکَرِ وَتُؤْمِنُونَ بِاللهِ ... ﴾
 
 ***“You are the best of nations raised up for the benefit of mankind;
 you enjoin what is right and forbid the wrong and believe in
@@ -391,14 +323,10 @@ Allah...”***[^34]
 
 And He also says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ لُعِنَ الَّذينَ کَفَرُوا مِنْ بَني إِسْرائيلَ عَلي لِسانِ داوُدَ
-وَعيسَى ابْنِ مَرْيَمَ ذلِکَ بِما عَصَوا وَکانُوا يَعْتَدُونَ \*
-کانُوا لا يَتَناهَونَ عَنْ مُنْکَرٍ فَعَلُوهُ لَبِئْسَ ما کانُوا
-يَفْعَلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ لُعِنَ الَّذينَ کَفَرُوا مِنْ بَني إِسْرائيلَ عَلي لِسانِ داوُدَ
+> وَعيسَى ابْنِ مَرْيَمَ ذلِکَ بِما عَصَوا وَکانُوا يَعْتَدُونَ \*
+> کانُوا لا يَتَناهَونَ عَنْ مُنْکَرٍ فَعَلُوهُ لَبِئْسَ ما کانُوا
+> يَفْعَلُونَ ﴾
 
 ***“Those who disbelieved from among the children of Israel were cursed
 by the tongue of David and Jesus, son of Mary; this was because they
@@ -477,11 +405,7 @@ followed or obeyed’.”[^38]
 
 a. In interpreting the Qur’anic verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ ينَالُ عَهْدِي الظَّالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ ينَالُ عَهْدِي الظَّالِمِينَ ﴾
 
 ***“My covenant does not include the unjust: said He.”***[^39]
 
@@ -518,33 +442,21 @@ Imam al-Husayn (as) is a person who, according to the explicit wording
 of the Qur’anic Verse of Purification [*ayah al-tathir*], is infallible
 [*ma‘sum*]. Allah’s Prophet (S) said this about him,
 
-<blockquote dir="rtl">
-  <p>
-«الحسن والحسين سيدا شباب اهل الجنة.»
-  </p>
-</blockquote>
+> «الحسن والحسين سيدا شباب اهل الجنة.»
 
 “Al-Hasan and al-Husayn are the two leaders of the youths of
 Paradise.”[^43]
 
 The Holy Prophet (S) also said,
 
-<blockquote dir="rtl">
-  <p>
-«حسين منّي وأنا من حسين.»
-  </p>
-</blockquote>
+> «حسين منّي وأنا من حسين.»
 
 “Al-Husayn is from me and I am from al-Husayn.”[^44]
 
 Elsewhere, he said,
 
-<blockquote dir="rtl">
-  <p>
-«خير رجالکم علي بن أبي طالب، وخير شبابکم الحسن والحسين، وخير نساءکم
-فاطمة بنت محمد.»
-  </p>
-</blockquote>
+> «خير رجالکم علي بن أبي طالب، وخير شبابکم الحسن والحسين، وخير نساءکم
+> فاطمة بنت محمد.»
 
 “The best man among you is ‘Ali ibn Abi Talib. The best youths among you
 are al-Hasan and al-Husayn. The best woman among you is Fatimah, the
@@ -553,12 +465,8 @@ daughter of Muhammad.”[^45]
 Ibn ‘Abbas says, “The Holy Prophet (S) said, ‘On the night that I went
 on the ascension [*mi‘raj*], I saw it written in heaven,
 
-<blockquote dir="rtl">
-  <p>
-«لا إله إلاّ الله، محمّد رسول الله، علي حبّ (حبيب) الله، الحسن والحسين
-صفوة الله، فاطمة أمَة الله (خيرة الله)، على باغضهم لعنة الله.»
-  </p>
-</blockquote>
+> «لا إله إلاّ الله، محمّد رسول الله، علي حبّ (حبيب) الله، الحسن والحسين
+> صفوة الله، فاطمة أمَة الله (خيرة الله)، على باغضهم لعنة الله.»
 
 “There is no god but Allah, Muhammad is his Prophet, ‘Ali is Allah’s
 beloved, al-Hasan and al-Husayn are Allah’s chosen ones and Fatimah is
@@ -713,5 +621,4 @@ al-Husayn (as), p. 41.
 [^45]: Ibid., p. 122.
 
 [^46]: Ibid., p. 130.
-
 

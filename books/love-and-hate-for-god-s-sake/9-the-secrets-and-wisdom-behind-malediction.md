@@ -93,11 +93,7 @@ the companions of Prophet Muhammad (S) - and the measuring stick for
 judging them is the primary role model which we all have – the Messenger
 of God (S) - just as Allah (SWT) says in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَکُمْ فِي رَسُولِ اللهِ أُسْوَةٌ حَسَنَةٌ...
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَکُمْ فِي رَسُولِ اللهِ أُسْوَةٌ حَسَنَةٌ...
 
 ***“Indeed in the Messenger of God [Muhammad] is the best role model for
 you…”***[^3]
@@ -109,5 +105,4 @@ you…”***[^3]
 بُغْضُکَ نِفَاقٌ وَ کُفْرٌ]
 
 [^3]: Noble Qurʾan, Suratul Ahzab (33), verse 21
-
 

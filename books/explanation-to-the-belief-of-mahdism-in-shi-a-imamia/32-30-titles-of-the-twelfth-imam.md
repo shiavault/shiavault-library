@@ -67,4 +67,3 @@ same Mahdi that the scholars of Sunni have acknowledged. Abu Dawood is
 one of them. He in his book “Al Mahdi” says that the twelfth Imam is the
 seal of the Imams.
 
-

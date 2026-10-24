@@ -284,4 +284,3 @@ enemies from pursuing their journey."[^6]
 
 [^6]: al Imta', page 112.
 
-

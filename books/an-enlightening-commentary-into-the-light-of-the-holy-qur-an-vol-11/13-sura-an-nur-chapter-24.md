@@ -4,11 +4,7 @@ Sura An-Nur, Chapter 24
 **(Revealed in Medina)**  
 **64 verses in 9 sections**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
@@ -116,5 +112,4 @@ above-mentioned tradition as well as its practical concept.
 
 [^1]: Majma‘ ul-Bayan under the verse, the Thawab ul-’A‘mal by Saduq (As
 it is narrated from Nur-uth-Thaqalyn Vol. 3, p. 568)
-
 

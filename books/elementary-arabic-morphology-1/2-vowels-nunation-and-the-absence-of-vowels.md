@@ -28,4 +28,3 @@ nunation:
 
 • The genitive nunation: **کِتابٍ** (a book)
 
-

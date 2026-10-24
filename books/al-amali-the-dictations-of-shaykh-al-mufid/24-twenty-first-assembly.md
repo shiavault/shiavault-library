@@ -177,4 +177,3 @@ him or her."
 
 And may Allah bless His mercy upon our master Muhammad and his progeny.
 
-

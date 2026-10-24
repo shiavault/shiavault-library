@@ -4,19 +4,11 @@ Section 9: Moses’ Search for Higher Knowledge
 Surah Al-Kahf – Verses 60 - 61
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ قَالَ مُوسَي لِفَتَاهُ لآ أَبْرَحُ حَتَّي أَبْلُغَ مَجْمَعَ
-الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُباً
-  </p>
-</blockquote>
+> وإِذْ قَالَ مُوسَي لِفَتَاهُ لآ أَبْرَحُ حَتَّي أَبْلُغَ مَجْمَعَ
+> الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُباً
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ
-سَبِيلَهُ فِي الْبَحْرِ سَرَباً
-  </p>
-</blockquote>
+> فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ
+> سَبِيلَهُ فِي الْبَحْرِ سَرَباً
 
 ***60. “And (remember) when Moses said to his young companion: ‘I will
 not cease until I reach the Junction of the two Seas, though I go on for
@@ -122,20 +114,12 @@ Companions of the Cave’.
 Surah Al-Kahf – Verses 62 - 63
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا
-مِن سَفَرِنَا هَذَا نَصَباً
-  </p>
-</blockquote>
+> فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا
+> مِن سَفَرِنَا هَذَا نَصَباً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَرَأَيْتَ إِذْ أَوَيْنَآ إِلَي الصَّخْرَةِ فإِنّـِي نَسِيتُ
-الْحُوتَ وَمَآ أَنْسَانِيهُ إِلاَّ الشَّيْطَانُ أَن أَذْكُرَهُ
-وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ عَجَباً
-  </p>
-</blockquote>
+> قَالَ أَرَأَيْتَ إِذْ أَوَيْنَآ إِلَي الصَّخْرَةِ فإِنّـِي نَسِيتُ
+> الْحُوتَ وَمَآ أَنْسَانِيهُ إِلاَّ الشَّيْطَانُ أَن أَذْكُرَهُ
+> وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ عَجَباً
 
 ***62. “Then when they had passed (the seaside), Moses said unto his
 young companion: ‘Bring us our morning meal. Indeed we have met from
@@ -176,18 +160,10 @@ marvelous manner!’”***
 Surah Al-Kahf – Verses 64 - 65
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ ذَلِكَ مَا كُنَّا نَبْغِ فَارْتَدَّا عَلَي ءَاثَارِهِمَا قَصَصاً
-  </p>
-</blockquote>
+> قَالَ ذَلِكَ مَا كُنَّا نَبْغِ فَارْتَدَّا عَلَي ءَاثَارِهِمَا قَصَصاً
 
-<blockquote dir="rtl">
-  <p>
-فَوَجَدَا عَبْداً مِنْ عِبَادِنَآ ءَاتَيْنَاهُ رَحْمَةً مِنْ عِندِنَا
-وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْماً
-  </p>
-</blockquote>
+> فَوَجَدَا عَبْداً مِنْ عِبَادِنَآ ءَاتَيْنَاهُ رَحْمَةً مِنْ عِندِنَا
+> وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْماً
 
 ***64. “He (Moses) said: ‘That was what we were seeking for!’ So they
 returned, retracing their footsteps.”***  
@@ -262,18 +238,10 @@ Allah said about Khidr:
 Surah Al-Kahf – Verses 66 - 67
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَهُ مُوسَي هَلْ أَتَّبِعُكَ عَلَي أَن تُعَلّـِمَنِ مِمَّا
-عُلّـِمْتَ رُشْداً
-  </p>
-</blockquote>
+> قَالَ لَهُ مُوسَي هَلْ أَتَّبِعُكَ عَلَي أَن تُعَلّـِمَنِ مِمَّا
+> عُلّـِمْتَ رُشْداً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْراً
-  </p>
-</blockquote>
+> قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْراً
 
 ***66. “Moses said to him (Khidr): ‘Shall I follow you so that you teach
 me right conduct of what you have been taught?’”***  
@@ -317,17 +285,9 @@ to their inward case. Therefore, bearing patience was hard for Moses
 Surah Al-Kahf – Verses 68 - 69
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ تَصْبِرُ عَلَي مَا لَمْ تُحِطْ بِهِ خُبْراً
-  </p>
-</blockquote>
+> وَكَيْفَ تَصْبِرُ عَلَي مَا لَمْ تُحِطْ بِهِ خُبْراً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَتَجِدُنِي إِن شَآءَ اللَّهُ صَابِراً وَلآ أَعْصِي لَكَ أَمْراً
-  </p>
-</blockquote>
+> قَالَ سَتَجِدُنِي إِن شَآءَ اللَّهُ صَابِراً وَلآ أَعْصِي لَكَ أَمْراً
 
 ***68. “And how can you be patient about what you have not got any
 comprehensive knowledge?”***  
@@ -382,12 +342,8 @@ have said a falsehood.
 Surah Al-Kahf – Verse 70
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فإِنِ اتَّبَعْتَنِي فَلاَ تَسْأَلْنِي عَن شَيْءٍ حَتَّي اُحْدِثَ
-لَكَ مِنْهُ ذِكْراً
-  </p>
-</blockquote>
+> قَالَ فإِنِ اتَّبَعْتَنِي فَلاَ تَسْأَلْنِي عَن شَيْءٍ حَتَّي اُحْدِثَ
+> لَكَ مِنْهُ ذِكْراً
 
 ***70. “He (Khidr) said: ‘If you follow me. Then do not question me of
 any thing until I myself speak to you about it’.”***
@@ -426,5 +382,4 @@ meeting was about Syria and Palestine.
 Truth.
 
 [^8]: Bihar-ul-’Anwar, vol. 86, p. 18
-
 

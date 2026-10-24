@@ -117,4 +117,3 @@ progeny
 
 [^4]: (AFS) = may Allah hasten his reappearance.
 
-

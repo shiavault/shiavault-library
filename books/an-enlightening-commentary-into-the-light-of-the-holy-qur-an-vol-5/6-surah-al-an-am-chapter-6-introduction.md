@@ -3,11 +3,7 @@ Surah Al-‘An’am, Chapter 6, Introduction
 
 ### Introduction to the Surah
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 **In The Name of Allah, the Beneficent, the Merciful**
 
@@ -88,5 +84,4 @@ give glory (unto* *Allah) for him until the Resurrection Day."*[^3]
 514
 
 [^3]: Tafsir by Ali-ibn-'Ibrahim
-
 

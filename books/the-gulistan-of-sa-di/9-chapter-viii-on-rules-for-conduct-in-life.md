@@ -1654,4 +1654,3 @@ But if a liberal man has a hundred faults
 
 His generosity covers his imperfections.
 
-

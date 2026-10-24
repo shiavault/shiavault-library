@@ -600,4 +600,3 @@ Farajahum (or A’jjil faraja Muhammad)
 
 [^6]: Kitab Mustatraff
 
-

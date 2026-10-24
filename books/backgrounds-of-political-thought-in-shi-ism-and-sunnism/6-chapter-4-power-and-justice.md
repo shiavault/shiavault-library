@@ -3643,4 +3643,3 @@ Rahman, Islam and Modernity, pp. 63-70.
 Better examples can be found in the various issues of the magazine
 An-Nadhir, especially in years 1981-1985.
 
-

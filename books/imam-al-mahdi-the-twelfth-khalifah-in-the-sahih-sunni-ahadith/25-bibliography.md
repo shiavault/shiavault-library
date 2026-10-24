@@ -355,4 +355,3 @@ edition)
 94. Wahbah b. Mustafa al-Zuhayli, *al-Tafsir al-Wasiṭ* (Damascus: Dar
 al-Fikr; 1st edition, 1422 H)
 
-

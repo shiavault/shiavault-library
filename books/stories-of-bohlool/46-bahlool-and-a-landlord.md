@@ -17,4 +17,3 @@ Bahlool replied, “That is true, but after praising and glorifying Allah,
 the creations lastly do Sajdah. That is why, from fear of this room's
 prostration, I want to leave as soon as I can.”
 
-

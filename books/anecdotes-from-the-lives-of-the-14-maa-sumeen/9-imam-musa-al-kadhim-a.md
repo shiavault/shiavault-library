@@ -112,4 +112,3 @@ from you today may be the same person who will help you tomorrow.
 2. Allah is the giver of things, so what you may have today, someone
 else may have tomorrow.
 
-

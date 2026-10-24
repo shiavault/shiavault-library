@@ -58,4 +58,3 @@ party executioners of the despotic regime of accursed Saddam, the late
 Ayatullah Sayyid Mohammad Baqir Sadr could not get the time to which he
 had postponed his research work).
 
-

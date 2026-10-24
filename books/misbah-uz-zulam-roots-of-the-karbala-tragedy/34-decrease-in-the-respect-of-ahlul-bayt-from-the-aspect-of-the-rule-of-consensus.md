@@ -18,4 +18,3 @@ Prophet (S). This continued till Imam Hasan Askari (a.s.). Rather, it
 exists even after that and will remain till there remains enmity to
 Ahlul Bayt (a.s.).
 
-

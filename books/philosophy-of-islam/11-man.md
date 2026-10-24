@@ -1084,4 +1084,3 @@ Yusuf, 12:87).   \`My slaves! You have nothing to fear or regret today".
 (Surah al‑Zukhruf, 43:68).   "Who forsake their beds to pray to their
 Lord in fear and hopes". (Surah al‑Sajdah, 32:16).  
 
-

@@ -126,4 +126,3 @@ law of God, and the fetus.
 
 [^3]: Minhaj, vol. 2, p. 276
 
-

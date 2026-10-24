@@ -13,26 +13,20 @@ and the chief of the Messengers of Allah (a.s.), and upon his Household
 
 Almighty Allah says:
 
-<p dir="rtl">
 رَحْمَتُ اللَّهِ وَبَرَكَاتُهٗ عَلَيْكُمْ أَهْلَ الْبَيْتِ ۚ إِنَّهٗ
 حَمِيدٌ مَجِيدٌ
-</p>
 
 ***The mercy of Allah and His Blessings are on you, O people of the
 house, surely He is Praised, Glorious.[^4]***
 
-<p dir="rtl">
 إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا‍
-</p>
 
 ***Allah (s.w.t.) only desires to keep away the uncleanness from you, O
 people of the House, and to purify you a (thorough) purifying.[^5]***
 
-<p dir="rtl">
 قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
 الْقُرْبَىٰ
-</p>
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives.[^6]***
@@ -46,14 +40,12 @@ us.
 After statements of praising and thanking Almighty Allah, as well as
 statements of preach and reminding of Him, the Prophet (s.a.w.a.) said:
 
-<p dir="rtl">
 أَلَا أَيُّهَا النَّاسُ فَإِنَّمَا أَنَا بَشَرٌ يُوشِكُ أَنْ يَأْتِيَنِي
 رَسُولُ رَبِّي فَأُجِيبَ وَ اَنَا تَارِكٌ فِيكُمْ ثَقَلَيْنِ:
 أَوَّلُهُمَا كِتَابُ اللَّهِ فِيهِ الْهُدٰى وَ النُّورُ فَخُذُوا
 بِكِتَابِ اللَّهِ وَ اسْتَمْسِكُوا بِه... وَ أَهْلُ بَيْتِي
 أُذَكِّرُكُمُ اللَّهَ فِي أَهْلِ بَيْتِي أُذَكِّرُكُمُ اللَّهَ فِي
 أَهْلِ بَيْتِي أُذَكِّرُكُمُ اللَّهَ فِي أَهْلِ بَيْتِي.
-</p>
 
 *O people, I am no more than an ordinary person, and the Messenger of my
 Lord (i.e. Angel of death) will shortly come to me and then I will
@@ -96,10 +88,8 @@ It is Almighty Allah, the Creator, Who favored, awarded, purified,
 chastened, and honored the Prophet’s Household. This is clear in His
 saying:
 
-<p dir="rtl">
 إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a (thorough) purifying.[^7]***
@@ -140,11 +130,9 @@ Al-Tabarani, in his al-Mo’jam al-Kabeer, Abu al-Shaykh, Ibn Habban, in
 his al-Sahih, and al-Bayhaqi; all recorded the Prophet’s following
 saying:
 
-<p dir="rtl">
 لَا يُؤْمِنُ عَبْدٌ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ نَفْسِهوَ
 تَكُوْنَ عِتْرَتِيْ أَحَبَّ إِلَيْهِ مِنْ عِتْرَتِهوَ اَهْلِيْ أَحَبَّ
 إِلَيْهِ مِنْ اَهْلِه وَ ذَاتِي أَحَبَّ إِلَيْهِ مِنْ ذَاتِه.
-</p>
 
 *A servant of Allah (s.w.t.) shall not be faithful believer unless he
 loves me more than he loves himself, loves my Household more than he
@@ -157,11 +145,9 @@ the following Hadees on the authority of Ali:
 The Messenger of Allah (s.a.w.a.) was furious when he came out, sat on
 the minbar, thanked and praised Allah (s.w.t.), and then said:
 
-<p dir="rtl">
 مَا بَالُ رِجَالٍ يُؤْذُوْنَنِيْ فِيْ اَهْلِ بَيْتِيْ؟ وَ الَّذِيْ
 نَفْسِيْ بِيَدِهلَا يُؤْمِنُ عَبْدٌ حَتّٰي يُحِبَّنِيْ، وَ لَا
 يُحِبَّنِيْ حَتّٰي يُحِبَّ ذُرِّيَّتِيْ.
-</p>
 
 *What is the matter with those who hurt me concerning my Household
 (a.s.)? I swear by Him Who grasps my soul in His hand that a servant (of
@@ -177,10 +163,8 @@ Muhammad (s.a.w.a.)) who says nothing but truth has said as it is
 reported by al-Tirmizi, in his al-Sunan, and al-Hakim, in al-Mustadrak,
 on the authority of (Abdullah) IbnAbbas:
 
-<p dir="rtl">
 أَحِبُّوا اللَّهَ لِمَا يَغْذُوكُمْ بِه مِنْ نِعَمِه وَ أَحِبُّونِي
 لِحُبِّ اللَّهِ عَزَّ وَ جَلَّ وَ أَحِبُّوْا أَهْلَ بَيْتِيْ لِحُبِّيْ‏
-</p>
 
 *“You should love Allah (s.w.t.) on account of the graces that He
 bestows upon you ceaselessly, and you should love I on account of your
@@ -210,10 +194,8 @@ every moment.
 
 Almighty Allah says:
 
-<p dir="rtl">
 وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ اللَّهَ
 لَغَفُورٌ رَحِيمٌ
-</p>
 
 ***And if you would count Allah’s favors, you will not be able to number
 them; most surely Allah is Forgiving, Merciful.[^10]***
@@ -298,10 +280,8 @@ The Prophet’s saying may also denote an instruction that must be carried
 out, because love for the Prophet’s Household is for their love for the
 Prophet (s.a.w.a.). Almighty Allah says:
 
-<p dir="rtl">
 قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
 الْقُرْبٰى
-</p>
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives.[^12]***
@@ -315,9 +295,7 @@ to the Prophet and his Household.
 (2)   During the Taslim[^14] of the prayers, blessings should be said to
 the Prophet and his Household. In the Holy Qur’an, Almighty Allah says:
 
-<p dir="rtl">
 سَلَامٌ عَلٰى إِلْ يَاسِينَ
-</p>
 
 ***Peace be on the family of Yasin.[^15]***
 
@@ -326,19 +304,15 @@ by saying, طٰهٰ which means ‘pure.’
 
 (4)   Almighty Allah says:
 
-<p dir="rtl">
 قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
 اللَّهُ
-</p>
 
 ***Say: If you love Allah, then follow me, Allah will love you.[^16]***
 
 (5)   Almighty Allah says:
 
-<p dir="rtl">
 قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
 الْقُرْبٰى
-</p>
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives.[^17]***
@@ -363,10 +337,8 @@ people and scholars. We have referred to some points of this topic only
 in order to enlighten those who love the Prophet’s Household, for
 Almighty Allah says:
 
-<p dir="rtl">
 إِنَّ اللَّهَ اصْطَفٰى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ عِمْرَانَ
 عَلَى الْعَالَمِينَ
-</p>
 
 ***Surely, Allah (s.w.t.) chose Adam (a.s.) and Noah (a.s.) and the
 descendants of Abraham (a.s.) and the descendants of Imran (a.s.) above
@@ -379,10 +351,8 @@ descendants of Abraham (a.s.). As a conclusion, the Prophet’s Household
 
 Regarding Almighty Allah’s saying:
 
-<p dir="rtl">
 إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a (thorough) purifying.[^19]***
@@ -392,10 +362,8 @@ Prophet’s Household. Furthermore, there are numerous Verses from the
 Holy Qur’an and Hadees supporting each other in this regard. The best
 example is Allah’s saying:
 
-<p dir="rtl">
 قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
 الْقُرْبَىٰ
-</p>
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives.[^20]***
@@ -406,19 +374,15 @@ too innumerable. Let us refer to some of them:
 Al-Tirmizi, in his al-Sunan, and Abu Hatam reported the following Hadees
 on the authority of Zayd ibn Arqam:
 
-<p dir="rtl">
 أَنَا حَرْبٌ لِمَنْ حَارَبَهُمْ وَ سِلْمٌ لِمَنْ سَالَمَهُم‏
-</p>
 
 *I am in war against him whoever is in war against them (the Prophet’s
 Household), and in peace with him whoever is in peace with them.*
 
 Al-Tirmizi and Imam Ahmad recorded the following Hadees:
 
-<p dir="rtl">
 مَنْ آذٰي قَرَابَتِيْ فَقَدْ آذَانِيْ، وَ مَنْ آذَانِيْ فَقَدْ آذَي
 اللهَ.
-</p>
 
 *Anyone who hurts my relatives will be hurting me, and whoever hurts me
 is surely hurting Allah.*
@@ -434,13 +398,11 @@ have heard from the Messenger of Allah (s.a.w.a.)?”
 He spoke, “We asked the Prophet (s.a.w.a.) how to send blessings on the
 Ahl al-Bayt (a.s.), and he answered: You should say:
 
-<p dir="rtl">
 قُوْلُوْا اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ كَمَا
 صَلَّيْتَ عَلٰى إِبْرَاهِيمَ وَ آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ
 مَجِيْدٌ اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ كَمَا
 بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَ آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ
 مَجِيْدٌ
-</p>
 
 *Say: O Allah! have mercy upon Muhammad (s.a.w.a.)and upon the family of
 Muhammad (s.a.w.a.)in the same way as you had mercy upon Abraham and the
@@ -460,10 +422,8 @@ Al-Tirmizi, in his al-Sunan, records the following on the authority of
 
 Regarding the following Verse:
 
-<p dir="rtl">
 إِنَّمَا يُرِيْدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House! and to purify you a (thorough) purifying.[^21]***
@@ -473,10 +433,8 @@ UmmeSalamah the Prophet’s righteous wife. He summoned Fatimah, al-Hasan
 (a.s.) and al-Husain (a.s.) and covered them with a cloak which too
 covered his back and said:
 
-<p dir="rtl">
 اَللّٰهُمَّ هٰؤُلَاءِ أَهْلُ بَيْتِيْ فَأَذْهِبْ عَنْهُمُ الرِّجْسَ وَ
 طَهِّرْهُمْ تَطْهِيْرًا
-</p>
 
 *O Allah! these are my Household; therefore (I beseech You to) keep away
 the uncleanness from them and purify them a thorough purifying.*
@@ -542,14 +500,12 @@ He then added, “One day, in a place between Mecca and Medina called
 After statements of praising and thanking Almighty Allah, as well as
 statements of preach and reminding of Him, the Prophet (s.a.w.a.) said:
 
-<p dir="rtl">
 أَلَا أَيُّهَا النَّاسُ فَإِنَّمَا أَنَا أ بَشَرٌ يُوشِكُ أَنْ
 يَأْتِيَنِي رَسُولُ رَبِّي فَأُجِيبَ وَ اَنَا تَارِكٌ فِيكُمْ
 ثَقَلَيْنِ: أَوَّلُهُمَا كِتَابُ اللَّهِ فِيهِ الْهُدٰى وَ النُّورُ
 فَخُذُوا بِكِتَابِ اللَّهِ وَ اسْتَمْسِكُوا بِه... وَ أَهْلُ بَيْتِي
 أُذَكِّرُكُمُ اللَّهَ فِي أَهْلِ بَيْتِي أُذَكِّرُكُمُ اللَّهَ فِي
 أَهْلِ بَيْتِي أُذَكِّرُكُمُ اللَّهَ فِي أَهْلِ بَيْتِي.
-</p>
 
 *O people, I am no more than an ordinary person, and the Messenger of my
 Lord (i.e. Angel of death) will shortly come to me and then I will
@@ -574,14 +530,12 @@ the family of Ja’far, and the family of Abbas.”
 (Abdullah) ibn Abbas narrated that the Messenger of Allah (s.a.w.a.) had
 said:
 
-<p dir="rtl">
 يَا بَنِيْ عَبْدِ الْمُطَّلِبِ إِنِّي قَدْ سَأَلْتُ اللَّهَ أَنْ
 يُثَبِّتَ قَائِمَكُمْ وَ أَنْ يَهْدِيَ ضَالَّكُمْ وَ أَنْ يُعَلِّمَ
 جَاهِلَكُمْ وَ أَنْ يَجْعَلَكُمْ جُوَدَاءَ نُجَدَاءَ رُحَمَاءَ فَلَوْ
 أَنَّ رَجُلًا صَفَنَ بَيْنَ الرُّكْنِ وَ الْمَقَامِ فَصَلَّى وَ صَامَ
 ثُمَّ لَقِيَ اللَّهَ مُبْغِضًا لِأَهْلِ بَيْتِ مُحَمَّدٍ دَخَلَ
 النَّارَ.
-</p>
 
 *O sons of Abd-al-Muttalib, I have besought Allah (s.w.t.) to make the
 chiefs among you stable (on the right course), guide the straying ones
@@ -603,11 +557,9 @@ Imam Ahmad ibn Hanbal, in his al-Musnad, and Abu Amr al-Ghifari have
 reported on the authority of Ali (a.s.) that the Messenger of Allah
 (s.a.w.a.) had said:
 
-<p dir="rtl">
 اَلنُّجُوْمُ أَمَانٌ لِأَهْلِ السَّمَاءِ فَإِذَا ذَهَبَتِ النُّجُوْمُ
 ذَهَبَ أَهْلُ السَّمَاءِ وَ أَهْلُ بَيْتِيْ أَمَانٌ لِأَهْلِ الْأَرْضِ
 فَإِذَا ذَهَبَ أَهْلُ بَيْتِي ذَهَبَ أَهْلُ الْأَرْضِ
-</p>
 
 *Stars are acting as security for the inhabitants of the heavens. If
 stars vanish, the inhabitants of the heavens will vanish, too. My
@@ -620,10 +572,8 @@ Talib (a.s.):
 The Prophet (s.a.w.a.) took al-Hasan (a.s.) and al-Husain (a.s.) from
 the hands and declared:
 
-<p dir="rtl">
 مَنْ أَحَبَّنِيْ وَ أَحَبَّ هٰذَيْنِ وَ أَبَاهُمَا وَ أُمَّهُمَا كَانَ
 مَعِي فِي دَرَجَتِيْ يَوْمَ الْقِيَامَةِ
-</p>
 
 *Anyone who loves these two, their father, their mother, and me shall
 certainly be with me in the same position on the Day of Resurrection.*
@@ -637,10 +587,8 @@ the matter for which I visited him, I asked about the things that he was
 embracing. He (s.a.w.a.) uncovered the cloak and they were al-Hasan
 (a.s.) and al-Husain (a.s.) on his hips. He then said:
 
-<p dir="rtl">
 هٰذَانِ ابْنَايَ وَ ابْنَا ابْنَتِيْ اَللّٰهُمَّ إِنِّيْ أُحِبُّهُمَا
 فَأَحِبَّهُمَا وَ أَحِبَّ مَنْ يُحِبُّهُمَا
-</p>
 
 *These two are my sons and my daughter’s (a.s.).O Allah! I do love them
 and I beseech to You to love them and to love those who love them.*
@@ -653,11 +601,9 @@ towards him in stumbling steps. Immediately, the Messenger of Allah
 (s.a.w.a.) descended from the Minbar carried them both and put them
 before him. He then commented:
 
-<p dir="rtl">
 صَدَقَ اللَّهُ:’ إِنَّما أَمْوالُكُمْ وَ أَوْلادُكُمْ فِتْنَةٌ‘ نَظَرْتُ
 إِلٰى هٰذَيْنِ الصَّبِيَّيْنِ يَمْشِيَانِ وَ يَعْثُرَانِ فَلَمْ أَصْبِرْ
 حَتّٰى قَطَعْتُ حَدِيْثِيْ وَ رَفَعْتُهُمَا
-</p>
 
 *Truthful are the words of Allah (s.w.t.) Who says:**“Your possessions
 and your children are only a trial.”** As I saw these two boys walk
@@ -668,9 +614,7 @@ Almighty Allah too urged to respect the Prophet’s Household (a.s.). In
 this regard, al-Bukhari in his al-Sahih records that Abu Bakr narrated
 the following saying of the Prophet (s.a.w.a.):
 
-<p dir="rtl">
 يَا اَيُّهَا النَّاسُ، اُرْقُبُوْا مُحَمَّدًا فِيْ اَهْلِ بَيْتِه.
-</p>
 
 *O people, regard Muhammad (s.a.w.a.) through honoring his Household
 (a.s.).*
@@ -678,10 +622,8 @@ the following saying of the Prophet (s.a.w.a.):
 Imam Ahmad ibn Hanbal in his al-Sahih records on the authority of Ali
 (a.s.) that the Prophet (s.a.w.a.) said to Fatimah (a.s.):
 
-<p dir="rtl">
 اِنِّيْ وَ اِيَّاكِ وَ هٰذَيْنِ (يعني حَسَنًا وَ حُسَيْنًا) وَ هٰذَا
 الرَّاقِدَ (يعني عَلِيًّا) فِيْ مَكَانٍ وَاحِدٍ يَوْمَ الْقِيَامَةِ.
-</p>
 
 *You, these two (i.e. al-Hasan (a.s.) and al-Husain (a.s.) this sleeping
 one (i.e. Ali (a.s.) and I shall certainly be in the same position on
@@ -690,10 +632,8 @@ the Day of Resurrection).*
 Al-Tabarani records on the authority of Ali (a.s.) that the Messenger of
 Allah (s.a.w.a.) said:
 
-<p dir="rtl">
 اَوَّلُ مَنْ يَرِدُ عَلَيَّ الْحَوْضِ اَهْلُ بَيْتِيْ وَ مَنْ
 اَحَبَّنِيْ مِنْ اُمَّتِيْ.
-</p>
 
 *My Household and those who love me among the individuals of my Ummah
 shall be the first to join me on the Divine Pool.*
@@ -701,11 +641,9 @@ shall be the first to join me on the Divine Pool.*
 Al-Tabarani, in his al-Mo’jam al-Saghir records on the authority of
 Abdullah ibn Ja’far that the Messenger of Allah (s.a.w.a.) said:
 
-<p dir="rtl">
 يَا بَنِي هَاشِمَ، إِنِّي قَدْ سَأَلْتُ اللَّهَ عَزَّ وَ جَلَّ أَنْ
 يَجْعَلَكُمْ جُوَدَاءَ نُجَدَاءَ رُحَمَاءَ. وَ سَأَلْتُهٗ اَنْ يَهْدِيَ
 ضَالَّكُمْ وَ يُؤْمِنَ خَائِفَكُمْ وَ يُشْبِعَ جَائِعَكُمْ.
-</p>
 
 *O sons of Hashim, I have implored to Allah the Exalted to make you
 generous noble and Merciful. I have also asked Him to guide the straying
@@ -717,10 +655,8 @@ authority of Anas ibn Malik and decides it as authentically reported:
 
 The Messenger of Allah (s.a.w.a.) said:
 
-<p dir="rtl">
 رشدني رَبِّيْ فِيْ اَهْلِ بَيْتِيْ مَنْ اَقَرَّ مِنْهُمْ بِالتَّوْحِيْدِ
 وَلِيٌّ بِالْبَلَاغِ اَلَا يعذبهم.
-</p>
 
 *Concerning my Household my Lord has promised me that He shall not
 punish anyone of them who believes in Allah’s oneness and my (divine)
@@ -732,9 +668,7 @@ trustworthy:
 
 The Messenger of Allah (a.s.) said to Fatimah (a.s.):
 
-<p dir="rtl">
 اِنَّ اللهَ غَيْرُ مُعَذِّبِكِ وَ لَا وُلْدِكِ.
-</p>
 
 *Most surely, Allah (s.w.t.) shall not punish your sons and you.*
 
@@ -742,12 +676,10 @@ Ahmad, al-Hakim and al-Bayhaqi record on the authority of Abu Saeed
 (al-Khudri) that the Messenger of Allah (s.a.w.a.) said while he was on
 the minbar:
 
-<p dir="rtl">
 مَا بَالُ رِجَالٍ يَقُوْلُوْنَ اَنَّ رَحِمَ رَسُوْلِ اللهِ لَا تَنْفَعُ
 قَوْمَهٗ يَوْمَ الْقِيَامَةِ؟ بَلٰي وَ اللهِ، اِنَّ رَحِ ـمِيْ
 مُوْصِلَةٌ فِيْ الدُّنْيَا وَ الْآخِرَةِ، وَ اِنِّيْ، اَيُّهَا النَّاسُ،
 فَرْطٌ لَكُمْ عَلَي الْحَوْضِ.
-</p>
 
 *What is the wrong with some individuals who claim that the kinship of
 Allah’s Messenger(s.a.w.a.) shall not be helpful on the Day of
@@ -761,10 +693,8 @@ Abu Bakr:
 While the Prophet (s.a.w.a.) was delivering a sermon, al-Hasan (a.s.)
 came; therefore, the Prophet (s.a.w.a.) said:
 
-<p dir="rtl">
 إِبْنِيْ هٰذَا سَيِّدٌ وَ لَعَلَّ اللَّهَ يُصْلِحُ بِه فِئَتَيْنِ مِنَ
 الْمُسْلِمِيْنَ‏
-</p>
 
 *This is my son. He is a chief. Perhaps, Allah (s.w.t.) will reconcile
 two Muslim parties through him.*
@@ -786,9 +716,7 @@ full acquaintance with judiciary.”
 
 The Prophet (s.a.w.a.) answered:
 
-<p dir="rtl">
 اِنْطَلِقْ فَإِنَّ اللَّهَ سَيَهْدِيْ قَلْبَكَ وَ يُثَبِّتُ لِسَانَكَ‏
-</p>
 
 *Go ahead, for it is Allah (s.w.t.)Who shall guide your heart and
 strengthen your tongue.*
@@ -820,12 +748,10 @@ Exegetes of the Holy Qur’an have confirmed the following incident:
 
 Regarding Almighty Allah’s saying:
 
-<p dir="rtl">
 فَمَنْ حَاجَّكَ فِيهِ مِنْۢ بَعْدِ مَا جَائَكَ مِنَ الْعِلْمِ فَقُلْ
 تَعَالَوْا نَدْعُ أَبْنَائَنَا وَأَبْنَائَـكُمْ وَنِسَائَنَا
 وَنِسَائَـكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
 لَعْنَتَ اللَّهِ عَلَى الْكَـاذِبِيْنَ.
-</p>
 
 ***If any one disputes in this matter with thee, now after (full)
 knowledge Hath come to thee, say: “Come! Let us gather together, our
@@ -846,10 +772,8 @@ al-Kisa’ (owners of the Cloak - The Prophet’s Household.)[^27]
 About their descendants’ following them in virtue, the following
 Qur’anic Verse proves it:
 
-<p dir="rtl">
 وَالَّذِيْنَ آمَنُوْا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيْمَانٍ
 أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ
-</p>
 
 ***And (as for) those who believe and their offspring follow them in
 faith, We will unite with them their offspring.***
@@ -881,10 +805,8 @@ and honoring them.
 
 Scholars have had different opinions regarding Almighty Allah’s saying:
 
-<p dir="rtl">
 إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 ***Allah (s.w.t.) only desires to keep away the uncleanness from you, O
 people of the House, and to purify you a (thorough) purifying.[^29]***
@@ -960,31 +882,25 @@ Ali and Fatimah (a.s.) to come close and sit before him, seated al-Hasan
 (a.s.) and al-Husain (a.s.) on his thighs, covered them with a cloak,
 and recited (Allah’s saying):
 
-<p dir="rtl">
 إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
 وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a (thorough) purifying.[^30]***
 
 According to another narration, the Prophet (s.a.w.a.) then said:
 
-<p dir="rtl">
 اَللّٰهُمَّ هٰؤُلَاءِ أَهْلُ بَيْتِيْفَاَذْهِبْ عَنْهُمُ الرِّجْسَ وَ
 طَهِّرْهُمْ تَطْهِيْرًا
-</p>
 
 *O Allah! these are my Household; (So, I beseech to You to) Keep away
 the uncleanness from them, and purify them a thorough purifying.*
 
 According to a third narration, the Prophet (s.a.w.a.) then said:
 
-<p dir="rtl">
 اَللّٰهُمَّ هٰؤُلَاءِ آلُ مُحَمَّدٍ فَاجْعَلْ صَلَوَاتِكَ وَ بَرَكَاتِكَ
 عَلَى آلِ مُحَمَّدٍ كَمَا جَعَلْتَهَا عَلٰي اِبْرَاهِيْمَ إِنَّكَ
 حَمِيْدٌ مَجِيْدٌ
-</p>
 
 *O Allah! these are the family of Muhammad; (So, I beseech to You to)
 make Your mercy and Blessings on the family of Muhammad in the same way
@@ -1018,10 +934,8 @@ Hadees on the authority of Abu Saeed al-Khudri:
 
 The Messenger of Allah (s.a.w.a.) said:
 
-<p dir="rtl">
 نَزَلَتْ هٰذِهِ الْآيَةُ فِي خَمْسَةٍ: فِيَّ، وَ فِي عَلِيٍّ، وَ فِي
 حَسَنٍ، وَ حُسَيْنٍ، وَ فَاطِمَةَ
-</p>
 
 *ThisVerse(ofPurification)hasintendedfive
 individuals;theyareAli,al-Hasan,al-Husain, Fatimah (a.s.), and I.*
@@ -1034,10 +948,8 @@ Whenever he went out for the Fajr (dawn) Prayer (in the Masjid), the
 Prophet (s.a.w.a.) used to pass by the house of Fatimah (a.s.) and
 declare:
 
-<p dir="rtl">
 اَلصَّلَاةَ أَهْلَ الْبَيْتِ: إِنَّما يُرِيْدُ اللَّهُ لِيُذْهِبَ
 عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَ يُطَهِّرَكُمْ تَطْهِيْرًا.
-</p>
 
 *Hurry for the prayer, O people of the House (i.e. the Ahl al-Bayt
 (a.s.).)**“Allah only desires to keep away the uncleanness from you, O
@@ -1051,10 +963,8 @@ Arqam:
 The Messenger of Allah (s.a.w.a.) delivered a speech to us in which he
 (s.a.w.a.) said:
 
-<p dir="rtl">
 أُذَكِّرُكُمُ اللَّهَ فِي أَهْلِ بَيْتِيْ، أُذَكِّرُكُمُ اللَّهَ فِي
 أَهْلِ بَيْتِيْ، أُذَكِّرُكُمُ اللَّهَ فِي أَهْلِ بَيْتِيْ.
-</p>
 
 *Remember Allah (s.w.t.) concerning my Household, remember Allah
 (s.w.t.)concerningmyHousehold,remember Allah (s.w.t.) concerning my
@@ -1074,5 +984,4 @@ To sum it up, the individuals of the Prophet’s pure progeny have been
 given exclusively stepped up honoring, covered by great virtue through
 Lady Fatimah, dressed with the wear of tribute, and granted more respect
 and reverence.
-
 

@@ -363,4 +363,3 @@ quoting A'ishah; Thakha'ir al-Uqba (savings for the Next world),
 al-Muhib al-Tabari, p.73; Kifayat al-Talib (What suffices the student);
 al-Kanji al-Shafi'i, p.133; Masnad Ahmad bin Hanbal, vol. 2, p.300.
 
-

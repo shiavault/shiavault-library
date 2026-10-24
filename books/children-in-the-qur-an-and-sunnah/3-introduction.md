@@ -114,4 +114,3 @@ that they have not been issued by the Infallibles (a.s.). Therefore,
 since these traditions have been quoted in authentic sources, they have
 been mentioned at the end of this chapter for the awareness of families.
 
-

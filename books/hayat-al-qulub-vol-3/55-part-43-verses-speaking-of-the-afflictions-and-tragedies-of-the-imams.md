@@ -6,14 +6,10 @@ Infallible Imams (a.s.)
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
-يُفْتَنُونَ. وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
-فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
-الْكَاذِبِينَ.
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
+> يُفْتَنُونَ. وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
+> فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
+> الْكَاذِبِينَ.
 
 ***Do men think that they will be left alone on saying, we believe and
 not be tried? And certainly we tried those before them, so Allah will
@@ -42,15 +38,11 @@ opportunity and they immediately paid allegiance to Abu Bakr, so that it
 may not happen that you get the Caliphate. When he said all this, the
 Hazrat put the spade down and recited the captioned verses:
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
-يُفْتَنُونَ. وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
-فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
-الْكَاذِبِينَ. أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَنْ
-يَسْبِقُونَا سَاءَ مَا يَحْكُمُونَ.
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
+> يُفْتَنُونَ. وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
+> فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
+> الْكَاذِبِينَ. أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَنْ
+> يَسْبِقُونَا سَاءَ مَا يَحْكُمُونَ.
 
 ***Do men think that they will be left alone on saying, we believe and
 not be tried? And certainly we tried those before them, so Allah will
@@ -85,14 +77,10 @@ enemies who are untrue in their claim of being believers.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ الْحَقُّ مِنْ رَبِّكُمْ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ
-فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ
-سُرَادِقُهَا وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ
-يَشْوِي الْوُجُوهَ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا.
-  </p>
-</blockquote>
+> وَقُلْ الْحَقُّ مِنْ رَبِّكُمْ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ
+> فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ
+> سُرَادِقُهَا وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ
+> يَشْوِي الْوُجُوهَ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا.
 
 ***And say: The truth is from your Lord, so let him who please believe,
 and let him who please disbelieve; surely we have prepared for the
@@ -115,13 +103,9 @@ which shall encompass them about.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ
-عَلَى نَصْرِهِمْ لَقَدِيرٌ. الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ
-بِغَيْرِ حَقٍّ إِلَّا أَنْ يَقُولُوا رَبُّنَا اللَّهُ.
-  </p>
-</blockquote>
+> أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ
+> عَلَى نَصْرِهِمْ لَقَدِيرٌ. الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ
+> بِغَيْرِ حَقٍّ إِلَّا أَنْ يَقُولُوا رَبُّنَا اللَّهُ.
 
 ***Permission (to fight) is given to those upon whom war is made because
 they are oppressed, and most surely Allah is well able to assist them,
@@ -163,16 +147,12 @@ and dissimulation (Taqaiyyah).
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ
-شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ
-نَغْفِرْ لَكُمْ خَطَايَاكُمْ وَسَنَزِيدُ الْمُحْسِنِينَ. فَبَدَّلَ
-الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَنزَلْنَا
-عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنْ السَّمَاءِ بِمَا كَانُوا
-يَفْسُقُونَ.
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ
+> شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ
+> نَغْفِرْ لَكُمْ خَطَايَاكُمْ وَسَنَزِيدُ الْمُحْسِنِينَ. فَبَدَّلَ
+> الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَنزَلْنَا
+> عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنْ السَّمَاءِ بِمَا كَانُوا
+> يَفْسُقُونَ.
 
 ***And when We said: Enter this city, then eat from it a plenteous
 (food) whenever you wish, and enter the gate making obeisance, and say,
@@ -196,12 +176,8 @@ their rights a pestilence from heaven, because they transgressed.[^1]
 
 Fifth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا
-إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنْ الْكَافِرِينَ.
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا
+> إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنْ الْكَافِرِينَ.
 
 ***And when We said to the angels. Make obeisance to Adam they did
 obeisance but Iblees (did it not). He refused and he was proud, and he
@@ -218,16 +194,12 @@ regarding the right of your successor.
 
 Sixth Verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنْ اللَّهُ لِيَغْفِرَ
-لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا. إِلَّا طَرِيقَ جَهَنَّمَ
-خَالِدِينَ فِيهَا أَبَدًا وَكَانَ ذَلِكَ عَلَى اللَّهِ يَسِيرًا. يَا
-أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ الرَّسُولُ بِالْحَقِّ مِنْ رَبِّكُمْ
-فَآمِنُوا خَيْرًا لَكُمْ وَإِنْ تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي
-السَّمَاوَاتِ وَالْأَرْضِ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنْ اللَّهُ لِيَغْفِرَ
+> لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا. إِلَّا طَرِيقَ جَهَنَّمَ
+> خَالِدِينَ فِيهَا أَبَدًا وَكَانَ ذَلِكَ عَلَى اللَّهِ يَسِيرًا. يَا
+> أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ الرَّسُولُ بِالْحَقِّ مِنْ رَبِّكُمْ
+> فَآمِنُوا خَيْرًا لَكُمْ وَإِنْ تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي
+> السَّمَاوَاتِ وَالْأَرْضِ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا.
 
 ***Surely (as for) those who disbelieve and act unjustly, Allah will not
 forgive them nor guide them to a path, Except the path of Hell, to abide
@@ -247,12 +219,8 @@ all that is in the heavens and the earth belongs to Him.*
 
 Seventh Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنُنَزِّلُ مِنْ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
-لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا.
-  </p>
-</blockquote>
+> وَنُنَزِّلُ مِنْ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
+> لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا.
 
 ***And we reveal of the Quran which is a healing and a mercy to the
 believers, and it adds only to the perdition of the unjust. (Surah Israa
@@ -265,11 +233,7 @@ not increase for those who were unjust on Aale Muhammad except loss.
 
 Eighth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ظَلَمُونَا وَلَكِنْ كَانُوا أَنفُسَهُمْ يَظْلِمُونَ.
-  </p>
-</blockquote>
+> وَمَا ظَلَمُونَا وَلَكِنْ كَانُوا أَنفُسَهُمْ يَظْلِمُونَ.
 
 ***And they did not do us harm, but they made their own souls suffer the
 loss. (Surah Baqarah 2:57)***
@@ -284,12 +248,8 @@ everlasting punishment.
 
 Ninth Verse:
 
-<blockquote dir="rtl">
-  <p>
-احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا
-يَعْبُدُونَ.
-  </p>
-</blockquote>
+> احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا
+> يَعْبُدُونَ.
 
 ***Gather together those who were unjust and their associates... (Surah
 Saffat 37:22)***
@@ -299,12 +259,8 @@ Muhammad (a.s.), with their associates.
 
 Tenth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
-وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ.
-  </p>
-</blockquote>
+> وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا
+> وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ.
 
 ***And whatever the Apostles gives you, accept it, and from whatever he
 forbids you, keep back, and be careful of (your duty to) Allah, surely
@@ -316,12 +272,8 @@ severely those who are unjust to Aale Muhammad.
 
 Eleventh Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَنَتْ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ
-ظُلْمًا.
-  </p>
-</blockquote>
+> وَعَنَتْ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ
+> ظُلْمًا.
 
 ***And he who bears iniquity is indeed a failure. (Surah Anbiyah
 21:111)***
@@ -332,12 +284,8 @@ of Allah.
 
 Twelfth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَنْ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُوْلَئِكَ مَا عَلَيْهِمْ مِنْ
-سَبِيلٍ.
-  </p>
-</blockquote>
+> وَلَمَنْ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُوْلَئِكَ مَا عَلَيْهِمْ مِنْ
+> سَبِيلٍ.
 
 ***And whoever defends himself after his being oppressed. These it is
 against whom there is no way (to blame). (Surah Shuraa 42:41)***
@@ -390,5 +338,4 @@ perished in a single day of plague and they were such that the Almighty
 knew they would neither believe nor a believer would be born from their
 progeny. The tradition ends here. On the basis of these two verses there
 is no need of any other explanation.
-
 

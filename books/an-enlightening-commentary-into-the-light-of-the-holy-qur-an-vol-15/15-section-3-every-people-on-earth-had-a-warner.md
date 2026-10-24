@@ -4,12 +4,8 @@ Section 3: Every People on Earth Had a Warner
 Surah Al-Fatir – Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَآءُ اِلَي اللَّهِ وَاللَّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَآءُ اِلَي اللَّهِ وَاللَّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ
 
 ***15. “O people! You are the needy unto Allah; and Allah (alone) is He
 Who is the Self-Sufficient, the Praised.”***
@@ -70,17 +66,9 @@ be neglectful from the cause of causes.
 Surah Al-Fatir – Verses 16-17
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
-  </p>
-</blockquote>
+> إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ذَلِكَ عَلَي اللَّهِ بِعَزِيزٍ
-  </p>
-</blockquote>
+> وَمَا ذَلِكَ عَلَي اللَّهِ بِعَزِيزٍ
 
 ***16. “If He pleases, He will take you off and bring a new
 generation,”***  
@@ -119,15 +107,11 @@ of them all return to you.
 Surah Al-Fatir – Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَي وَإِن تَدْعُ مُثْقَلَةٌ اِلَي
-حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَي اِنَّمَا
-تُنذِرُ الَّذِينَ يَخْشَوْن َرَبَّهُم بِالْغَيْبِ وَأَقَامُوا
-الصَّلاَةَ وَمَن تَزَكَّي فَاِنَّمَا يَتَزَكَّي لِنَفْسِهِ وَاِلَي
-اللَّهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَي وَإِن تَدْعُ مُثْقَلَةٌ اِلَي
+> حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَي اِنَّمَا
+> تُنذِرُ الَّذِينَ يَخْشَوْن َرَبَّهُم بِالْغَيْبِ وَأَقَامُوا
+> الصَّلاَةَ وَمَن تَزَكَّي فَاِنَّمَا يَتَزَكَّي لِنَفْسِهِ وَاِلَي
+> اللَّهِ الْمَصِيرُ
 
 ***18. “And no one laden bears the burden of another; and if one
 heavy-burdened calls for its load to be carried, not a thing of it will
@@ -250,36 +234,16 @@ It says:
 Surah Al-Fatir – Verses 19-23
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَسْتَوِي الأَعْمَي وَالْبَصِيرُ
-  </p>
-</blockquote>
+> وَمَا يَسْتَوِي الأَعْمَي وَالْبَصِيرُ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ الظُّلُمَاتُ وَلاَ النُّورُ
-  </p>
-</blockquote>
+> وَلاَ الظُّلُمَاتُ وَلاَ النُّورُ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ الظّـِلُّ وَلاَ الْحَرُورُ
-  </p>
-</blockquote>
+> وَلاَ الظّـِلُّ وَلاَ الْحَرُورُ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَسْتَوِي الأَحْيَآءُ وَلاَ الأَمْوَاتُ اِنَّ اللَّهَ يُسْمِعُ
-مَن يَشَآءُ وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ
-  </p>
-</blockquote>
+> وَمَا يَسْتَوِي الأَحْيَآءُ وَلاَ الأَمْوَاتُ اِنَّ اللَّهَ يُسْمِعُ
+> مَن يَشَآءُ وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ
 
-<blockquote dir="rtl">
-  <p>
-اِنْ أَنتَ اِلاَّ نَذِيرٌ
-  </p>
-</blockquote>
+> اِنْ أَنتَ اِلاَّ نَذِيرٌ
 
 ***19. “And the blind and the seeing are not alike,”***  
 ***20. “Nor the darkness and the light,”***  
@@ -475,26 +439,14 @@ nullified it.
 Surah Al-Fatir – Verses 24-26
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اِنَّآ أَرْسَلْنَاكَ بِالْحَقّ‌ِ بَشِيراً وَنَذِيراً وَاِن مِنْ
-اُمَّةٍ إِلاَّ خَلاَ فِيهَا نَذِيرٌ
-  </p>
-</blockquote>
+> اِنَّآ أَرْسَلْنَاكَ بِالْحَقّ‌ِ بَشِيراً وَنَذِيراً وَاِن مِنْ
+> اُمَّةٍ إِلاَّ خَلاَ فِيهَا نَذِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يُكَذّ‌ِبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ
-جَآءَتْهُمْ رُسُلُهُم بِالْبَيّـِنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ
-الْمُنِيرِ
-  </p>
-</blockquote>
+> وَإِن يُكَذّ‌ِبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ
+> جَآءَتْهُمْ رُسُلُهُم بِالْبَيّـِنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ
+> الْمُنِيرِ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَخَذْتُ الَّذِينَ كَفَرُوا فَكَيْفَ كَانَ نَكِيرِ
-  </p>
-</blockquote>
+> ثُمَّ أَخَذْتُ الَّذِينَ كَفَرُوا فَكَيْفَ كَانَ نَكِيرِ
 
 ***24. “Verily We sent you with truth as a bearer of glad-tidings and a
 Warner, and there was not a people but a Warner having gone in them (in
@@ -635,5 +587,4 @@ and Sah
 the books the scriptures of which have been written to be permanent
 (like writings on the stone, and the likes that here it indicates to the
 firmness of their matters.
-
 

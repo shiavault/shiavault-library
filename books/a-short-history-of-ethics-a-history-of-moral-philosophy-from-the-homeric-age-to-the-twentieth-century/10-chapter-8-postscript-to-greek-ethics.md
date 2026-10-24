@@ -918,4 +918,3 @@ be in their case. For some of these the mystery religions provided an
 answer. For even more an answer was to be given with the coming of
 Christianity.
 
-

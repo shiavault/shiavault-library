@@ -38,4 +38,3 @@ had not been my guest today, I would have washed your hands myself. But
 Allah loves to see that when a father and a son are present in a place,
 the father enjoys a privilege and a priority.
 
-

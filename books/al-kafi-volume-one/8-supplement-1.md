@@ -223,8 +223,6 @@ upon him and upon all the prophets, was sent with the gift of oration."
 (p.b.u.h.), was sent it was the time when magic had its sway over the
 people.
 
-
 Hence Moses (p.b.u.h.) brought with him such divine power as the people
 (scientists) of that time did not possess, power which completely.
-
 

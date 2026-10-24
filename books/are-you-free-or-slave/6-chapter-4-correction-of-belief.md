@@ -1179,4 +1179,3 @@ dar Zendegi-ye Ensan ('Divine assistance in human life') Tehran. p. 80.
 
 [^53]: Mizan. Hadith No. 6843
 
-

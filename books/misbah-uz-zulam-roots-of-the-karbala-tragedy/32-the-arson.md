@@ -51,4 +51,3 @@ does this incident at the house Ahlul Bayt (a.s.) not insult the
 respectable household? The next insulting behavior towards the Purified
 Household (a.s.) came about when Ali (a.s.) was brought before Abu Bakr.
 
-

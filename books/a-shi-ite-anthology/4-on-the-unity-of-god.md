@@ -2028,4 +2028,3 @@ knows them but He. He knows what is in land and sea; not a leaf falls,
 but He knows it. Not a gram in the earth's shadows, not a thing, fresh
 or withered, but it is in a Book Manifest." 
 
-

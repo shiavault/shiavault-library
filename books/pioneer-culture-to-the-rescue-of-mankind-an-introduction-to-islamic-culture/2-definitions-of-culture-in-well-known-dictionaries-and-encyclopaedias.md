@@ -19,44 +19,28 @@ six various meanings:*
 
 **First***, knowledge*
 
-<blockquote dir="rtl">
-  <p>
-فلك ر قدر تو اندوخته بسى رفعت خرد ز راى تو اموخته بسى فرهنك
-  </p>
-</blockquote>
+> فلك ر قدر تو اندوخته بسى رفعت خرد ز راى تو اموخته بسى فرهنك
 
 *“Your value has greatly elevated the heavens, and intelligence has
 gained much culture from your ideas.”* (Kamal Ismail)
 
 **Second***, manner*
 
-<blockquote dir="rtl">
-  <p>
-مرد را ور هذر فرهنجد توسنى از سرش بياهنجد
-  </p>
-</blockquote>
+> مرد را ور هذر فرهنجد توسنى از سرش بياهنجد
 
 *“If man acquires culture alongside his art, will be able to manage any
 severity”* (Sanai)
 
 **Third***, intelligence*
 
-<blockquote dir="rtl">
-  <p>
-نه دانش باشد انكس رانه فرهنك كه وقت اشتى بيش اورد جنك
-  </p>
-</blockquote>
+> نه دانش باشد انكس رانه فرهنك كه وقت اشتى بيش اورد جنك
 
 *“One who raises war at peace-time, knows no knowledge or culture.”*
 (Nezami)
 
 **Fourth***, a book containing Persian words and their meanings*
 
-<blockquote dir="rtl">
-  <p>
-نوشتست بخت از بى كام خويش بر اوراق فرهنك او نام خويش
-  </p>
-</blockquote>
+> نوشتست بخت از بى كام خويش بر اوراق فرهنك او نام خويش
 
 *“Fate has written his name in its own desire on the pages of culture.”*
 (Souzani)
@@ -206,20 +190,12 @@ In the following verses also, *adab* refers to culture, and conveys
 knowledge and demonstration of fine morals according to appropriate
 principles achieved through conditions in one's lifetime.
 
-<blockquote dir="rtl">
-  <p>
-كن ابن من شئت واكتسب ادبا نعنيك محموده عن النسب
-  </p>
-</blockquote>
+> كن ابن من شئت واكتسب ادبا نعنيك محموده عن النسب
 
 *“Acquire knowledge and culture, no matter what family you may have been
 raised.. Culture will make you independent of any relation.*
 
-<blockquote dir="rtl">
-  <p>
-ان الفتى من يقول ها انا ذا ليس الفتى من يقول كان ابى
-  </p>
-</blockquote>
+> ان الفتى من يقول ها انا ذا ليس الفتى من يقول كان ابى
 
 *Truly, a free man is one who can claim, “This is who I am, not am so
 and so’s son*[^12]*.*
@@ -2620,5 +2596,4 @@ Durant, History of Civilization, Vol.1.
 
 [^49]: For a further detailed treatise, see M.T. Ja'fari, Universal
 Human Rights: from the Viewpoints of Islam and the West. pp.292-306
-
 

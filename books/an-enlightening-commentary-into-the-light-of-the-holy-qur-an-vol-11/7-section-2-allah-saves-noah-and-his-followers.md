@@ -4,12 +4,8 @@ Section 2: Allah Saves Noah and His Followers
 Surah al-Mu’minun - Verse 23
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا نُوحاً إِلَي قَوْمِهِ فَقَالَ يَاقَوْمِ اعْبُدُوا
-اللَّهَ مَا لَكُم مِنْ إِلَهٍ غَيْرُهُ أَفَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا نُوحاً إِلَي قَوْمِهِ فَقَالَ يَاقَوْمِ اعْبُدُوا
+> اللَّهَ مَا لَكُم مِنْ إِلَهٍ غَيْرُهُ أَفَلاَ تَتَّقُونَ
 
 ***23. “And indeed We sent Noah unto his folk, and he said: ‘O’ my
 people! Worship Allah. You have no other god save Him. Will you not keep
@@ -37,14 +33,10 @@ To serve other than Allah is impiety and recklessness.
 Surah al-Mu’minun - Verse 24
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ الْمَلاَُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا هَذَآ إِلاَّ
-بَشَرٌ مّـِثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ
-اللَّهُ لأَنزَلَ مَلآَئِكَةً مَاسَمِعْنَا بِهَذَا فِي ءَابَآئِنَا
-الاَوَّلِينَ
-  </p>
-</blockquote>
+> فَقَالَ الْمَلاَُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا هَذَآ إِلاَّ
+> بَشَرٌ مّـِثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ
+> اللَّهُ لأَنزَلَ مَلآَئِكَةً مَاسَمِعْنَا بِهَذَا فِي ءَابَآئِنَا
+> الاَوَّلِينَ
 
 ***24. “But the chiefs of those who disbelieved from among his people
 said: ‘This is nothing but a mortal like you who intends to gain
@@ -86,17 +78,9 @@ situation, instead one must follow the Divine call of His prophet.
 Surah al-Mu’minun - Verses 25-26
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إلاَّ رَجُلٌ بِهِ جِنَّةٌ فَتَرَبَّصُوا بِهِ حَتَّي حِينٍ
-  </p>
-</blockquote>
+> إِنْ هُوَ إلاَّ رَجُلٌ بِهِ جِنَّةٌ فَتَرَبَّصُوا بِهِ حَتَّي حِينٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ انصُرْنِي بِمَا كَذَّبُونِ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ انصُرْنِي بِمَا كَذَّبُونِ
 
 ***25. “He is just a man in whom is a madness, so bear with him for a
 while.”***  
@@ -190,15 +174,11 @@ help me against them.
 Surah al-Mu’minun - Verse 27
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَوْحَيْنَآ إِلَيْهِ أَنِ اصْنَعِ الْفُلْكَ بِاَعْيُنِنَا
-وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ التَّنُّورُ فَاسْلُكْ
-فِيهَا مِن كُلّ‌ِ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلاَّ مَن سَبَقَ
-عَلَيْهِ الْقَوْلُ مِنْهُمْ وَلاَ تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا
-إِنَّهُم مُّغْرَقُونَ
-  </p>
-</blockquote>
+> فَاَوْحَيْنَآ إِلَيْهِ أَنِ اصْنَعِ الْفُلْكَ بِاَعْيُنِنَا
+> وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ التَّنُّورُ فَاسْلُكْ
+> فِيهَا مِن كُلّ‌ِ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلاَّ مَن سَبَقَ
+> عَلَيْهِ الْقَوْلُ مِنْهُمْ وَلاَ تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا
+> إِنَّهُم مُّغْرَقُونَ
 
 ***27. “Then We revealed unto him: ’Build the Ark before Our eyes and
 (according to) Our revelation. Then, when Our command comes and the oven
@@ -258,25 +238,13 @@ on behalf of them while they no longer deserved intercession.
 Surah al-Mu’minun - Verses 28-30
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا اسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَي الْفُلْكِ فَقُلِ
-الْحَمْدُ لِلَّهِ الَّذِي نَجَّانَا مِنَ الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَإِذَا اسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَي الْفُلْكِ فَقُلِ
+> الْحَمْدُ لِلَّهِ الَّذِي نَجَّانَا مِنَ الْقَوْمِ الظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَبّ‌ِ أَنزِلْنِي مُنزَلاً مُّبَارَكاً وَأَنتَ خَيْرُ
-الْمُنزِلِينَ
-  </p>
-</blockquote>
+> وَقُل رَبّ‌ِ أَنزِلْنِي مُنزَلاً مُّبَارَكاً وَأَنتَ خَيْرُ
+> الْمُنزِلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَاتٍ وَإِن كُنَّا لَمُبْتَلِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَاتٍ وَإِن كُنَّا لَمُبْتَلِينَ
 
 ***28.“And when you, and those with you, are settled on the Ark, say:
 ‘all praise belongs to Allah Who has delivered us from the unjust
@@ -351,18 +319,10 @@ found in the books about the history of the prophets.
 Surah al-Mu’minun - Verses 31-32
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنشَأْنَا مِنْ بَعْدِهِمْ قَرْناً ءَاخَرِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَنشَأْنَا مِنْ بَعْدِهِمْ قَرْناً ءَاخَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَرْسَلْنَا فِيهِمْ رَسُولاً مّـِنْهُمْ أَنِ اعْبُدُوا اللَّهَ مَا
-لَكُم مِنْ إِلَهٍ غَيْرُهُ أَفَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> فَاَرْسَلْنَا فِيهِمْ رَسُولاً مّـِنْهُمْ أَنِ اعْبُدُوا اللَّهَ مَا
+> لَكُم مِنْ إِلَهٍ غَيْرُهُ أَفَلاَ تَتَّقُونَ
 
 ***31. “Then, after them, We produced another generation;”***  
 ***32. “And We sent among them a messenger from among themselves
@@ -441,5 +401,4 @@ great prophet’s call of monotheism.
 [^2]: Sura Noah, No. 71, verse 27
 
 [^3]: Bihar, Vol. 11, p. 331
-
 

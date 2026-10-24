@@ -107,7 +107,6 @@ you to attain your goal of entering the sanctuary, and entering the
 House while deeply knowing the greatness of its owner; His Highness and
 Omnipotence."4
 
-
 **Hajj As Worship**
 
 Hajj is a bodily and spiritual journey. It is man's migration towards
@@ -196,7 +195,6 @@ He (a.s.) further said:
 tyrannical ruler or a disease which confines him (or her) at home and
 dies without having performed the Hajj, might as well die a Jew or a
 Christian."
-
 
 **Values and Meaning in Hajj's Rites**
 
@@ -308,5 +306,4 @@ understood nothing!" Then the Imam said, "0 friend, you have not
 performed the Hajj! And you have not obeyed Allah! You went to Mecca and
 visited the Ku' ba, but when you decide to return to Hajj again, by to
 do as I have instructed you"8
-
 

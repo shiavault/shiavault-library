@@ -15,4 +15,3 @@ Therefore it is obligatory to believe in the doctrine of 'Return'
 
 [^1]: Surah an-Naml, 27:83
 
-

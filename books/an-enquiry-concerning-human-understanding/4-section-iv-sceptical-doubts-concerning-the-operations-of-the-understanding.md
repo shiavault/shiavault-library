@@ -546,9 +546,8 @@ If I be right, I pretend not to have made any mighty discovery.
 And if I be wrong, I must acknowledge myself to be indeed a very
 backward scholar; since I cannot now discover an argument which, it
 seems, was perfectly familiar to me long before I was out of my cradle.
-[^1] The word, Power, is here used in a loose and popular sense.
+[^1]: The word, Power, is here used in a loose and popular sense.
 
 The more accurate explication of it would give additional evidence to
 this argument. See Sect.
-
 

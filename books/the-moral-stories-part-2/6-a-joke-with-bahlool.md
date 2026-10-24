@@ -83,7 +83,6 @@ his four conditions and wanted to hear more from him. Bahlool then
 added: "Man,when committing action, or uttering, or hearing any word,
 ought to keep in view the commands of Allah"
 
-
 **Inquiry On Bahlool's Welfare**
 
 Haroon once inquired from Bahlool about his welfare and how he was
@@ -118,7 +117,6 @@ of turning to others in the time of need.
 
 Whoever is contented with the morsel he gets, dry or wet, is the king
 of all the land and sea.
-
 
 **VISIT TO THE GRAVEYARD**
 
@@ -197,5 +195,4 @@ heart for the oppressive treatment of the descendants of the Prophet by
 the Abbasid rulers of his time. That Bahlool dared to raise his voice of
 protest before Haroon shows the degree of his great courage and
 uprightness.
-
 

@@ -135,4 +135,3 @@ be a burden to them.
 
 [^7]: Nasikhut Tawarikh, vol. 2, p. 21
 
-

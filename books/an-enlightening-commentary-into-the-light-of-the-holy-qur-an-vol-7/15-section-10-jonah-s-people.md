@@ -4,14 +4,10 @@ Section 10: Jonah’s People
 Surah Yunus – Verse 93
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَوَّأْنَا بَنِي إِسْرَآئِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَاهُم
-مِنَ الطَّيِّبَاتِ فَمَا اخْتَلَفُوا حَتَّي جَآءَهُمُ الْعِلْمُ إِنَّ
-رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ
-يَخْتَلِفُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَوَّأْنَا بَنِي إِسْرَآئِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَاهُم
+> مِنَ الطَّيِّبَاتِ فَمَا اخْتَلَفُوا حَتَّي جَآءَهُمُ الْعِلْمُ إِنَّ
+> رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ
+> يَخْتَلِفُونَ
 
 ***93. “And certainly We lodged the Children of Israel a goodly lodging,
 and provided them with good things, so they did not differ but after the
@@ -53,13 +49,9 @@ concerning that in which they used to differ.”***
 Surah Yunus – Verse 94
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِن كُنْتَ فِي شَكّ‌ٍ مِمَّآ أَنْزَلْنَآ إِلَيْكَ فَسْأَلِ الَّذِينَ
-يَقْرَءُونَ الْكِتَابَ مِن قَبْلِكَ لَقَدْ جَآءَكَ الْحَقُّ مِن
-رَبِّكَ فَلاَ تَكُونَنَّ مِنَ الْمُمْتَرِينَ
-  </p>
-</blockquote>
+> فَإِن كُنْتَ فِي شَكّ‌ٍ مِمَّآ أَنْزَلْنَآ إِلَيْكَ فَسْأَلِ الَّذِينَ
+> يَقْرَءُونَ الْكِتَابَ مِن قَبْلِكَ لَقَدْ جَآءَكَ الْحَقُّ مِن
+> رَبِّكَ فَلاَ تَكُونَنَّ مِنَ الْمُمْتَرِينَ
 
 ***94. “So if you are in doubt as to what We have revealed unto you,
 then ask those who read the book (sent)*** ***before you.*** ***The
@@ -139,12 +131,8 @@ doubters.”***
 Surah Yunus – Verse 95
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَكُونَنَّ مِنَ الَّذِينَ كَذَّبُوا بِاَيَاتِ اللَّهِ فَتَكُونَ
-مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَلاَ تَكُونَنَّ مِنَ الَّذِينَ كَذَّبُوا بِاَيَاتِ اللَّهِ فَتَكُونَ
+> مِنَ الْخَاسِرِينَ
 
 ***95. “Nor be of those who belied the Signs of Allah, (for) then you
 shall be of the losers.”***
@@ -172,17 +160,9 @@ that same thing?
 Surah Yunus – Verses 96 - 97
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لا يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ جَآءَتْهُم كُلُّ ءَايَةٍ حَتَّي يَرَوُا الْعَذَابَ الاَلِيمَ
-  </p>
-</blockquote>
+> وَلَوْ جَآءَتْهُم كُلُّ ءَايَةٍ حَتَّي يَرَوُا الْعَذَابَ الاَلِيمَ
 
 ***96. “Verily those against whom the Word of your Lord has proved true
 will not believe,”***  
@@ -218,13 +198,9 @@ chastisement.”***
 Surah Yunus – Verse 98
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلاَ كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهآ إِيمَانُهَآ إِلاَّ
-قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْي
-فِي الْحَيَاةِ الدُّنْيَا وَمَتَّعْنَاهُمْ إِلَي حِينٍ
-  </p>
-</blockquote>
+> فَلَوْلاَ كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهآ إِيمَانُهَآ إِلاَّ
+> قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْي
+> فِي الْحَيَاةِ الدُّنْيَا وَمَتَّعْنَاهُمْ إِلَي حِينٍ
 
 ***98. “Why was there not a township which believed, so that their
 belief should have profited them, except the people of Jonah (Yunus)?
@@ -276,12 +252,8 @@ revelation)
 Surah Yunus – Verse 99
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَآءَ رَبُّكَ لأَمَنَ مَنْ فِي الأَرْضِ كُلُّهُمْ جَميعاً
-أَفَاَنْتَ تُكْرِهُ النَّاسَ حَتَّي يَكُونُوا مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَوْ شَآءَ رَبُّكَ لأَمَنَ مَنْ فِي الأَرْضِ كُلُّهُمْ جَميعاً
+> أَفَاَنْتَ تُكْرِهُ النَّاسَ حَتَّي يَكُونُوا مُؤْمِنِينَ
 
 ***99. “And if your Lord had willed, whoever is on the earth would have
 believed, all of them, all together. Will thou then compel the people
@@ -307,12 +279,8 @@ till they become believers?”***
 Surah Yunus – Verse 100
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَجْعَلُ
-الرِّجْسَ عَلَى الَّذِينَ لَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَجْعَلُ
+> الرِّجْسَ عَلَى الَّذِينَ لَا يَعْقِلُونَ
 
 ***100. “And it is not for a soul to believe except by the Will of
 Allah, and He appoints uncleanness (of infidelity) on those who do not
@@ -343,12 +311,8 @@ exhibits ignorant and irrational behavior.
 Surah Yunus – Verse 101
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ انْظُرُوا مَاذَا فِي السَّمَاوَاتِ وَالأَرْضِ وَمَا تُغْنِي
-الاَيَاتُ وَالنُّذُرُ عَن قَوْمٍ لاَّ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُلِ انْظُرُوا مَاذَا فِي السَّمَاوَاتِ وَالأَرْضِ وَمَا تُغْنِي
+> الاَيَاتُ وَالنُّذُرُ عَن قَوْمٍ لاَّ يُؤْمِنُونَ
 
 ***101. “Say: ‘Observe you what is in the heavens and the earth! But
 neither Signs nor warnings avail a people who do not believe’.”***
@@ -387,12 +351,8 @@ believe’.”***
 Surah Yunus – Verse 102
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ يَنْتَظِرُونَ إِلاَّ مِثْلَ أَيَّامِ الَّذِينَ خَلَوْا مِن
-قَبْلِهِمْ قُلْ فَانْتَظِرُوا إِنّي مَعَكُم مِنَ الْمُنتَظِرِينَ
-  </p>
-</blockquote>
+> فَهَلْ يَنْتَظِرُونَ إِلاَّ مِثْلَ أَيَّامِ الَّذِينَ خَلَوْا مِن
+> قَبْلِهِمْ قُلْ فَانْتَظِرُوا إِنّي مَعَكُم مِنَ الْمُنتَظِرِينَ
 
 ***102. “Do they then expect (anything) but the like of the days of
 those who passed away before them? Say: ‘Wait you then, verily I also
@@ -426,12 +386,8 @@ oppressive nations of the past.
 Surah Yunus – Verse 103
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ نُنَجّي رُسُلَنَا وَالَّذِينَ ءَامَنُوا كَذَلِكَ حَقّاً
-عَلَيْنَا نُنْجِ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> ثُمَّ نُنَجّي رُسُلَنَا وَالَّذِينَ ءَامَنُوا كَذَلِكَ حَقّاً
+> عَلَيْنَا نُنْجِ الْمُؤْمِنِينَ
 
 ***103. “Then (when Our wrath fell) We deliver Our messengers and those
 who believe. Thus it is binding on Us (that) We deliver the
@@ -463,5 +419,4 @@ The verse continues saying:
 [^1]: Surah Al-Zukhruf, No. 43, verse 81
 
 [^2]: Majma‘-ul-Bayan, and As-Safi.
-
 

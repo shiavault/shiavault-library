@@ -91,4 +91,3 @@ Creator of the world Who is Aware.
 2. What is the difference between ‘horizons’ and ‘souls’? Give examples
 of God in the ‘horizons’ and within one’s own ‘soul’.
 
-

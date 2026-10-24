@@ -281,4 +281,3 @@ Himself with Ali, he lovingly paired
 
 Because the same heavenly light, they shared.
 
-

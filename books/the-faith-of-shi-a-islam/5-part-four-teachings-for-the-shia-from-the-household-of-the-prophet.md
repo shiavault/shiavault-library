@@ -198,4 +198,3 @@ Allah does not acceptdu'a' from a darkened heart, so when you recite
 adu'a', draw near with your heart and do not doubt that it will be
 accepted.
 
-

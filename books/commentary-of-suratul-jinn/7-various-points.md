@@ -14,11 +14,7 @@ which limit this knowledge strictly to Allah (Glorified and Exalted is
 He) and negate it for all others such as verse 59 of Suratul An\`am:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَعِنـدَهُ مَفٌاتِحُ الْغَيْبِ لاٌ يَعْلَمُهٌا إِلاَّ هُوَ…
-  </p>
-</blockquote>
+> وَعِنـدَهُ مَفٌاتِحُ الْغَيْبِ لاٌ يَعْلَمُهٌا إِلاَّ هُوَ…
 
 “And *with Him are the keys of the unseen treasure - none knows them
 except He…”*  
@@ -28,12 +24,8 @@ Prophet (blessings of Allah be upon him and his progeny) in Suratul
 An\`am, verse 50:  
   
 
-<blockquote dir="rtl">
-  <p>
-قُـلْ لاٌّ أَقُولُ لَكُمْ عِنـدِي خَزٌآئِـنُ اللٌّهِ وَلاٌ أَعْلَـمُ
-الْغَيْبَ
-  </p>
-</blockquote>
+> قُـلْ لاٌّ أَقُولُ لَكُمْ عِنـدِي خَزٌآئِـنُ اللٌّهِ وَلاٌ أَعْلَـمُ
+> الْغَيْبَ
 
 *“Say (O' Muhammad): I do not say to you that I have with me the
 treasures of Allah, nor do I know the unseen.”*  
@@ -41,22 +33,14 @@ treasures of Allah, nor do I know the unseen.”*
  In verse 188 of Suratul A\`raf, we read the following:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ كُنتُ أَعْلَمُ الْغَيْبَ لاَسْتَكْثَرْتُ مِنَ الْخَيْرِ
-  </p>
-</blockquote>
+> وَلَوْ كُنتُ أَعْلَمُ الْغَيْبَ لاَسْتَكْثَرْتُ مِنَ الْخَيْرِ
 
 *“Had I known about the unseen, I would have gained much good.'”*  
     
  The last verse in this discussion is found in Surah Yunus, verse 20, we
 read:
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ إِنَّمٌا الْغَيْبُ لِلٌّهِ
-  </p>
-</blockquote>
+> فَقُلْ إِنَّمٌا الْغَيْبُ لِلٌّهِ
 
 *“Say (O' Muhammad):* *Certainly the (Knowledge of the) Unseen is solely
 reserved for Allah.”*  
@@ -70,12 +54,8 @@ is He) have a general knowledge of the Unseen as has been mentioned in
 verse 179 of Surah Ale \`Imran which states:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَمٌا كٌانَ اللٌّهُ لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلٌكِنَّ اللٌّهَ
-يَجْتَبِي مِن رُّسُلِهِ
-  </p>
-</blockquote>
+> وَمٌا كٌانَ اللٌّهُ لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلٌكِنَّ اللٌّهَ
+> يَجْتَبِي مِن رُّسُلِهِ
 
 “*And* *Allah does not inform you of the unseen.  He chooses for such
 information anyone of His Messengers as He desires.”*  
@@ -84,11 +64,7 @@ information anyone of His Messengers as He desires.”*
 (peace be upon him), it is mentioned that:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأُنَـبِّئُكُم بِمٌا تَأْكُلُونَ وَمٌا تَـدَّخِرُونَ فِي بُيُوتِكُمْ
-  </p>
-</blockquote>
+> وَأُنَـبِّئُكُم بِمٌا تَأْكُلُونَ وَمٌا تَـدَّخِرُونَ فِي بُيُوتِكُمْ
 
 *“I (Prophet 'Isa) inform you of what you eat and what you store in your
 house.”*[^1]  
@@ -101,12 +77,8 @@ His chosen Messenger (since in \`Arabic, if there is ever an exception
 affirmation):  
   
 
-<blockquote dir="rtl">
-  <p>
-إِلاٌّ مَنِ ارْتَضَى مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً
-  </p>
-</blockquote>
+> إِلاٌّ مَنِ ارْتَضَى مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً
 
 *“Except to him whom He is pleased with from among (His) Messengers so
 then surely He places before him and behind him a guard.”*[^2]  
@@ -116,13 +88,9 @@ give us information about hidden matters are not few, such as the second
 to fourth verses of Suratul Rum:  
   
 
-<blockquote dir="rtl">
-  <p>
-غُـلِبَتِ الرُّومُ فِـي أَدْنَى الأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ
-سَيَـغْـلِبُونَ فِي بِضْـعِ سِنِينَ لِلٌّهِ الأَمْرُ مِن قَبْـلُ
-وَمِـن بَعْـدُ وَيَوْمَـئِذٍ يَفْرَحُ الْمُـؤْمِنُونَ
-  </p>
-</blockquote>
+> غُـلِبَتِ الرُّومُ فِـي أَدْنَى الأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ
+> سَيَـغْـلِبُونَ فِي بِضْـعِ سِنِينَ لِلٌّهِ الأَمْرُ مِن قَبْـلُ
+> وَمِـن بَعْـدُ وَيَوْمَـئِذٍ يَفْرَحُ الْمُـؤْمِنُونَ
 
 *“The Romans are vanquished. In a near land, and they, after being
 vanquished, shall overcome (within a few years) and they will be
@@ -133,11 +101,7 @@ Allah.  The believers will enjoy the help of Allah on that Day. ”*[^3]
 tells us:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرٌادُّكَ إِلَى مَعٌادٍ
-  </p>
-</blockquote>
+> إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرٌادُّكَ إِلَى مَعٌادٍ
 
 *“Certainly the One who had made the Qur'an incumbent upon you will
 return you to your starting point (Makkah).”*  
@@ -145,11 +109,7 @@ return you to your starting point (Makkah).”*
  Also, in verse 27 of Suratul Fath, we read the following:  
   
 
-<blockquote dir="rtl">
-  <p>
-لَتَدْخُـلُنَّ الْمَسْجِدَ الْحَرٌامَ إِنْ شٌاءَ اللٌّهُ آمِنِينَ
-  </p>
-</blockquote>
+> لَتَدْخُـلُنَّ الْمَسْجِدَ الْحَرٌامَ إِنْ شٌاءَ اللٌّهُ آمِنِينَ
 
 *“Certainly you shall enter into the Masjid al-Haram, with the
 permission of Allah, in security.”*  
@@ -207,13 +167,9 @@ Basrah were degraded, in which Imam \`Ali ibn Abi Talib (peace be upon
 him) said:  
   
 
-<blockquote dir="rtl">
-  <p>
-كَأَنِّي أَنْظُرُ إِلىٌ مَسْجِدِهٌا كَجُؤْجُؤْ سَفِينَةِ قَدْ بَعَثَ
-اللٌّهُ عَلَيْهٌا الْعَذٌابِ مِنْ فَوْقِهٌا وَ مِنْ تَحْتِهٌا و غَرَقَ
-مَنْ فِي ضَمْنِهٌا.
-  </p>
-</blockquote>
+> كَأَنِّي أَنْظُرُ إِلىٌ مَسْجِدِهٌا كَجُؤْجُؤْ سَفِينَةِ قَدْ بَعَثَ
+> اللٌّهُ عَلَيْهٌا الْعَذٌابِ مِنْ فَوْقِهٌا وَ مِنْ تَحْتِهٌا و غَرَقَ
+> مَنْ فِي ضَمْنِهٌا.
 
 *“So then it is as though I see its Masjid like the upper part of a boat
 or a sitting ostrich which Allah had sent down punishment to from above
@@ -281,13 +237,9 @@ through His Grace upon them.
  The proof of this is the verse that is under discussion which states:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِلاٌّ مَنِ ارْتَضَى مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً عٌالِمُ الْغَيْبِ فَلاٌ يُظْهِرُ
-عَلَى غَيْبِهِ أَحَداً.
-  </p>
-</blockquote>
+> إِلاٌّ مَنِ ارْتَضَى مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً عٌالِمُ الْغَيْبِ فَلاٌ يُظْهِرُ
+> عَلَى غَيْبِهِ أَحَداً.
 
 *“The Knower of the Unseen! So then He does not reveal His secrets to
 anyone. Except to him whom He is pleased with from among His Messengers
@@ -300,12 +252,8 @@ Empire).  One of his companions said, 'O' Amir al-Mu’minin!  Do you
 claim to have Knowledge of the Unseen?'  The Imam laughed and replied:  
   
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ هُـوَ بِعِلْمِ غَيْبِ وَ إِنَّـمٌا هُوَ تَعَلـَّمَ مَنْ ذِي
-عِلْمِ
-  </p>
-</blockquote>
+> لَيْسَ هُـوَ بِعِلْمِ غَيْبِ وَ إِنَّـمٌا هُوَ تَعَلـَّمَ مَنْ ذِي
+> عِلْمِ
 
 *“This is not Knowledge of the Unseen, rather, this is that knowledge
 which was taught to me by the possessor of knowledge (the
@@ -323,14 +271,10 @@ friends.  Again, in Nahj al-Balagha, under the same speech (as quoted
 above), we read the following:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّمٌا عِلْمُ الْغَيْبِ عِلْمُ السٌّاعَةِ وَ مٌا عَدَدَهُ اللٌّهُ
-سُبْحٌانَهُ بِقَوْلِهِ: إِنَّ اللٌّهَ عِنْدَهُ عِلْمُ السٌّاعَةِ، وَ
-يُنَـِّزلُ الْغَيْثَ، وَ يَعْلَمُ مٌا فِي الأَرْحَامِ، وَ مٌا تَدْرِي
-نَفْسٌ مٌا ذَا تَكْسِبُ غَداً وَ مٌا تَدْرِي بِأَيِّ أَرْضٍ تَمُوتَ.
-  </p>
-</blockquote>
+> وَ إِنَّمٌا عِلْمُ الْغَيْبِ عِلْمُ السٌّاعَةِ وَ مٌا عَدَدَهُ اللٌّهُ
+> سُبْحٌانَهُ بِقَوْلِهِ: إِنَّ اللٌّهَ عِنْدَهُ عِلْمُ السٌّاعَةِ، وَ
+> يُنَـِّزلُ الْغَيْثَ، وَ يَعْلَمُ مٌا فِي الأَرْحَامِ، وَ مٌا تَدْرِي
+> نَفْسٌ مٌا ذَا تَكْسِبُ غَداً وَ مٌا تَدْرِي بِأَيِّ أَرْضٍ تَمُوتَ.
 
 “*Verily knowledge of the Unseen is the knowledge of the Day of Judgment
 and what Allah has mentioned in His Saying: {Verily, Allah is He with
@@ -341,17 +285,13 @@ tomorrow; nor does any soul know in what land he shall die in.}*”[^13]
  Then to further explain this, the Imam (peace be upon him) added:  
   
 
-<blockquote dir="rtl">
-  <p>
-فَيَعْلَمُ اللٌّهُ سُبْحانَهُ ما فِي الأَرْحامِ مِنْ ذَكَرٍ أَوْ
-أُنْثَى وَ قَبِيحٍ أَوْ جَمِيلٍ وَ سَخِيٍّ أَوْ بَخِيلٍ وَ شَقِيٍّ
-أَوْ سَعِيدٍ وَ مَنْ يَكُونُ فِي النٌّارِ حَطَباً أَوْ فِي الْجِنانِ
-لِلنَّبِيِّينَ مُرافِقاً فَهذَا عِلْمُ الْغَيْبِ الَّذِي لا يَعْلَمُهُ
-أَحَدٌ إِلاٌّ اللٌّهُ وَ ما سِوَى ذٌلِكَ فَعِلْمٌ عَلَّمَهُ اللٌّهُ
-نَبِيَّهُ (صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ) فَعَلَّمَنِيهِ
-وَ دَعا لِي بِأَنْ يَعِيَهُ صَدْرِي وَ تَضْطَمَّ عَلَيْهِ جَوانِحِي.
-  </p>
-</blockquote>
+> فَيَعْلَمُ اللٌّهُ سُبْحانَهُ ما فِي الأَرْحامِ مِنْ ذَكَرٍ أَوْ
+> أُنْثَى وَ قَبِيحٍ أَوْ جَمِيلٍ وَ سَخِيٍّ أَوْ بَخِيلٍ وَ شَقِيٍّ
+> أَوْ سَعِيدٍ وَ مَنْ يَكُونُ فِي النٌّارِ حَطَباً أَوْ فِي الْجِنانِ
+> لِلنَّبِيِّينَ مُرافِقاً فَهذَا عِلْمُ الْغَيْبِ الَّذِي لا يَعْلَمُهُ
+> أَحَدٌ إِلاٌّ اللٌّهُ وَ ما سِوَى ذٌلِكَ فَعِلْمٌ عَلَّمَهُ اللٌّهُ
+> نَبِيَّهُ (صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ) فَعَلَّمَنِيهِ
+> وَ دَعا لِي بِأَنْ يَعِيَهُ صَدْرِي وَ تَضْطَمَّ عَلَيْهِ جَوانِحِي.
 
 “*Therefore, Allah alone has knowledge in reference to that which is in
 the womb of the mother - whether it is a boy or a girl; whether it is
@@ -403,13 +343,9 @@ that we have the following narration from Imam Ja\`far as-Sadiq (peace
 be upon him):  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلٌّهِ عِلْماً لَمْ يَعْلَمْهُ إِلاٌّ هُوَ، وَ عِلْماً
-أَعْلَمْهُ مَلائِكَتَهُ وَ رُسُلَهُ، فَما أَعْلَمَهُ مَلائِكَتُهُ وَ
-أَنْبَيائَهُ وَ رُسُلَهُ فَنَحْنُ نَعْلَمُهُ.
-  </p>
-</blockquote>
+> إِنَّ لِلٌّهِ عِلْماً لَمْ يَعْلَمْهُ إِلاٌّ هُوَ، وَ عِلْماً
+> أَعْلَمْهُ مَلائِكَتَهُ وَ رُسُلَهُ، فَما أَعْلَمَهُ مَلائِكَتُهُ وَ
+> أَنْبَيائَهُ وَ رُسُلَهُ فَنَحْنُ نَعْلَمُهُ.
 
 *“One type of knowledge is that which only Allah has and no one else
 knows.  Another type of knowledge is the type which He has informed
@@ -420,14 +356,10 @@ it.”*[^15]
 upon him):  
   
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لا آيَةٌ فِي كِـتابِ اللٌّهِ لَحَدَّثْتُكُمْ بِما كٌانَ وَ ما
-يَكُونُ إِلـى يَـوْمِ الْقِيامَةِ! فَقُلْتُ لَهُ أَيَّةُ آيَةُ؟
-فَقالَ: قَوْلِ اللٌّهِ: يَمْــحُوا اللٌّهُ مَا يَــشَاءُ وَ يُثْبِتُ
-وِ عِنْدَهُ أُمُّ الْكِتَابِ
-  </p>
-</blockquote>
+> لَوْ لا آيَةٌ فِي كِـتابِ اللٌّهِ لَحَدَّثْتُكُمْ بِما كٌانَ وَ ما
+> يَكُونُ إِلـى يَـوْمِ الْقِيامَةِ! فَقُلْتُ لَهُ أَيَّةُ آيَةُ؟
+> فَقالَ: قَوْلِ اللٌّهِ: يَمْــحُوا اللٌّهُ مَا يَــشَاءُ وَ يُثْبِتُ
+> وِ عِنْدَهُ أُمُّ الْكِتَابِ
 
 ”*If one verse had not been in the Holy Qur'an, I also would have
 informed you of the past happenings and what will happen until the Day
@@ -480,12 +412,8 @@ something, they are taught it!'*
 which he stated:  
   
 
-<blockquote dir="rtl">
-  <p>
-اذٌا أَرادَ الإِمامُ أَنْ يَعْلَمَ شَيْئاً أَعْلَمَهُ اللٌّهُ
-بِذٌلِكَ.
-  </p>
-</blockquote>
+> اذٌا أَرادَ الإِمامُ أَنْ يَعْلَمَ شَيْئاً أَعْلَمَهُ اللٌّهُ
+> بِذٌلِكَ.
 
 “When the Imam intends to know something, Allah teaches that thing to
 him.”[^17]  
@@ -553,14 +481,10 @@ him) when all of a sudden the Imam entered the room upset, sat down and
 said the following:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِيَا عَجَباً لِأَقْوامٍ يَزْعُمُونَ أَنَّا نَعْلَمُ الْغَيْبَ! مَا
-يَعْلَمُ الْغَيْبَ إِلاٌّ اللٌّهُ عَزَّ وَجَلّ، لَقَدْ هَمَمْتَ
-بِضَرْبِ جَارِيَتِي فُلانَةَ فَهَرَبْتَ مِنِّي فَما عَلِمْتُ فِي أَيِّ
-بُيُوتِ الدَّارِ هِيَ.
-  </p>
-</blockquote>
+> إِيَا عَجَباً لِأَقْوامٍ يَزْعُمُونَ أَنَّا نَعْلَمُ الْغَيْبَ! مَا
+> يَعْلَمُ الْغَيْبَ إِلاٌّ اللٌّهُ عَزَّ وَجَلّ، لَقَدْ هَمَمْتَ
+> بِضَرْبِ جَارِيَتِي فُلانَةَ فَهَرَبْتَ مِنِّي فَما عَلِمْتُ فِي أَيِّ
+> بُيُوتِ الدَّارِ هِيَ.
 
 “*It is surprising that some people think that we have Knowledge of the
 Unseen (\`Ilm al-Ghaib). No one apart from Allah has this knowledge. I
@@ -629,13 +553,9 @@ twinkling of an eye, brought the throne of Bilqis to the court of
 Prophet Sulayman (peace be upon him):  
   
 
-<blockquote dir="rtl">
-  <p>
-قَـالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِـتَابِ أَنَا آتِيكَ بِهِ
-قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمٌّا رَآهُ مُسْتَقِراً
-عِندَهُ قٌالَ هَذَا مِن فَضْلِ رَبِّي
-  </p>
-</blockquote>
+> قَـالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِـتَابِ أَنَا آتِيكَ بِهِ
+> قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمٌّا رَآهُ مُسْتَقِراً
+> عِندَهُ قٌالَ هَذَا مِن فَضْلِ رَبِّي
 
 “*One who had some knowledge of the book said: I will bring it to you in
 the twinkling of an eye. Then when he saw it settled beside him, he
@@ -644,12 +564,8 @@ said: This is by the grace of my Lord.”* [^19]
  2. The second verse states:  
   
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كَفَى بِاللٌّهِ شَهِيداً بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ
-عِلْمُ الْكِتَابِ
-  </p>
-</blockquote>
+> قُلْ كَفَى بِاللٌّهِ شَهِيداً بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ
+> عِلْمُ الْكِتَابِ
 
 “*Say: Allah is sufficient as a Witness between me and you and whoever
 has knowledge of the book.”*[^20]  
@@ -679,11 +595,7 @@ is made clear.
  3. The third verse under discussion is:  
   
 
-<blockquote dir="rtl">
-  <p>
-…وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَاناً لِّكُلِّ شَيْءٍ…
-  </p>
-</blockquote>
+> …وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَاناً لِّكُلِّ شَيْءٍ…
 
 “…*and We have revealed the Book to you clearly explaining everything…”*
 [^24]  
@@ -707,12 +619,8 @@ mentioned in the Qur'an that:
 who has been created and fashioned from dirt:  
   
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخٌّارِ وَخَلَقَ الْجَانَّ مِن
-مٌّارِجٍ مِّن نٌّارٍ
-  </p>
-</blockquote>
+> خَلَقَ الإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخٌّارِ وَخَلَقَ الْجَانَّ مِن
+> مٌّارِجٍ مِّن نٌّارٍ
 
 “*He created man from dry clay like Earthen vessels, and He created the
 Jinn from fire free of smoke.”*[^26]
@@ -729,12 +637,8 @@ Ayat of Suratul Jinn and Suratul Rahman)
 non-believers:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَنٌّا مِنٌّا الصٌّالِحُونَ وَمِنٌّا دُونَ ذٌلِكَ كُنٌّا طَرَائِقَ
-قِدَداً
-  </p>
-</blockquote>
+> وَأَنٌّا مِنٌّا الصٌّالِحُونَ وَمِنٌّا دُونَ ذٌلِكَ كُنٌّا طَرَائِقَ
+> قِدَداً
 
 “*As for us, certainly some of us are righteous and others are not.  We
 have all followed different paths.”*[^27]  
@@ -743,11 +647,7 @@ have all followed different paths.”*[^27]
 to account for their deeds:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَمٌّا الْقٌاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَباً
-  </p>
-</blockquote>
+> وَأَمٌّا الْقٌاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَباً
 
 *"However, the deviators from the Truth will be the fuel for
 hell.”*[^28]  
@@ -757,12 +657,8 @@ knowledge from there and used to steal information, but this was later
 on was forbidden for them:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَنٌّا كُنٌّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ فَمَنْ
-يَسْتَمِعِ الآنَ يَجِدْ لَهُ شِهَاباً رَّصَداً
-  </p>
-</blockquote>
+> وَأَنٌّا كُنٌّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ فَمَنْ
+> يَسْتَمِعِ الآنَ يَجِدْ لَهُ شِهَاباً رَّصَداً
 
 ”*We used to sit near by and try to listen to the heavens, but shooting
 flames now await those who try to do that.”*[^29]  
@@ -772,12 +668,8 @@ are able to increase their limited knowledge and information, relating
 to some of the secrets of the world:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ كٌانَ رِجٌالٌ مِّنَ الإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ
-الْجِنِّ فَزَادُوهُمْ رَهَقاً
-  </p>
-</blockquote>
+> وَأَنَّهُ كٌانَ رِجٌالٌ مِّنَ الإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ
+> الْجِنِّ فَزَادُوهُمْ رَهَقاً
 
 *"Certain human beings sought refuge with certain Jinn and this
 increased the rebelliousness of those Jinn.”*[^30]  
@@ -786,12 +678,8 @@ increased the rebelliousness of those Jinn.”*[^30]
 just as we find among humans beings as well:  
   
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عِفْريتٌ مِّنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَن تَقُومَ
-مِنْ مَّقَامِكَ وَإِنِّي عَلَيْهِ لَقَوِيٌّ أَمِينٌ
-  </p>
-</blockquote>
+> قَالَ عِفْريتٌ مِّنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَن تَقُومَ
+> مِنْ مَّقَامِكَ وَإِنِّي عَلَيْهِ لَقَوِيٌّ أَمِينٌ
 
 *"A monstrous Jinn said, “I can bring it (the Throne of Bilqis) before
 you even stand up.  Verily I am powerful and trustworthy.”*[^31]  
@@ -800,13 +688,9 @@ you even stand up.  Verily I am powerful and trustworthy.”*[^31]
 beings, as has been mentioned in the Qur'an:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ…
-يَعْمَلُونَ لَهُ مٌا يَشٌاءُ مِن مَّحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ
-كَالْجَوٌابِ ..
-  </p>
-</blockquote>
+> وَمِنَ الْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ…
+> يَعْمَلُونَ لَهُ مٌا يَشٌاءُ مِن مَّحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ
+> كَالْجَوٌابِ ..
 
 “…*and of the Jinn there were those who worked before him (Sulayman) by
 the command of his Lord … they made for him what he pleased of
@@ -817,11 +701,7 @@ cooking pots…”*[^32]
 creation of mankind:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَالْجَآنَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ
-  </p>
-</blockquote>
+> وَالْجَآنَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ
 
 “…*and We created the Jinn before (the human being) of smokeless
 fire.”*[^33]  
@@ -906,13 +786,9 @@ of Jinn.
 Islam (blessings of Allah upon him and his family) in which he said:  
   
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ اللٌّهُ الْجِنَّ خَمْسَةَ أَصْنَافٍ: صِنْفٌ كَالْرِيحِ فِي
-الْهَوَاءِ وَ صِنْفٌ حَياتٌ وَ صِنْفٌ عَقَارِبٌ وَ صِنْفٌ حَشَرَاتِ
-الأَرْضِ وَ صِنْفٌ كَبَنِي آدَمَ عَلَيْهِمُ الْحِسَابِ وَ الْعِقَابِ.
-  </p>
-</blockquote>
+> خَلَقَ اللٌّهُ الْجِنَّ خَمْسَةَ أَصْنَافٍ: صِنْفٌ كَالْرِيحِ فِي
+> الْهَوَاءِ وَ صِنْفٌ حَياتٌ وَ صِنْفٌ عَقَارِبٌ وَ صِنْفٌ حَشَرَاتِ
+> الأَرْضِ وَ صِنْفٌ كَبَنِي آدَمَ عَلَيْهِمُ الْحِسَابِ وَ الْعِقَابِ.
 
 “*Allah has created the Jinn in five different types: One group is like
 the wind (unseen); another group is in the form of a snake; a third
@@ -928,12 +804,8 @@ various other ahadith and stories in relation to the Jinn are solved.
 Talib (peace be upon him), we read the following:  
   
 
-<blockquote dir="rtl">
-  <p>
-لاٌ تَشْرِبُ الْمَــاءَ مِنْ ثُلْمَةِ الأَنَاءِ وَ لا مِنْ عَرُوتِهِ
-فَإِنَّ الشَّيْطٌانَ يَقْعُدُ عَلـى الْعُرْوَةِ وَالْثَلَمَةِ.
-  </p>
-</blockquote>
+> لاٌ تَشْرِبُ الْمَــاءَ مِنْ ثُلْمَةِ الأَنَاءِ وَ لا مِنْ عَرُوتِهِ
+> فَإِنَّ الشَّيْطٌانَ يَقْعُدُ عَلـى الْعُرْوَةِ وَالْثَلَمَةِ.
 
 “*Do not drink water from a broken or defective glass, since verily*
 *Shaytan* *sits in the defective and broken (glasses).”*[^35]  
@@ -1033,5 +905,4 @@ section on “Types of Vessels”, hadith 5.
 [^36]: In the first volume of the book, The First University and the
 Last Prophet, there are approximately 23 Ahadith in relation to this
 topic.
-
 

@@ -202,4 +202,3 @@ Musa Ash'ari, Abdullah bin Ja'far, Abul As Khuza'i, Abu Tufayl and many
 'Tabein' (followers of the companions of the Prophet) have quoted
 traditions from him.
 
-

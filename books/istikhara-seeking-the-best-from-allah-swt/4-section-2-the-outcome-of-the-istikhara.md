@@ -4,18 +4,10 @@ Section 2: The Outcome of the Istikhara
 4) Divine Inspiration to the Right Path
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإمَامُ الصَّادِقُ عَليهِ السَلامْ:
-  </p>
-</blockquote>
+> قَالَ الإمَامُ الصَّادِقُ عَليهِ السَلامْ:
 
-<blockquote dir="rtl">
-  <p>
-...مَا مِنْ عَبْدٍ مُؤْمِنٍ يَسْتَخِيرُ اللهَ فِي أَمْرٍ يُرِيدُهُ
-مَرَّةً واَحِدَةً إِلاَّ قَذِفَهُ بِخَيْرِ الأَمْرَيْنِ.
-  </p>
-</blockquote>
+> ...مَا مِنْ عَبْدٍ مُؤْمِنٍ يَسْتَخِيرُ اللهَ فِي أَمْرٍ يُرِيدُهُ
+> مَرَّةً واَحِدَةً إِلاَّ قَذِفَهُ بِخَيْرِ الأَمْرَيْنِ.
 
 *al‑Imam Jafar al‑Sadiq (‘as), said: "... there is no believing slave
 (of Allah) who asks the best from Allah one time in his affair, except
@@ -33,18 +25,10 @@ towards that which is good and advisable for him.
 5) Help in Choosing the Right Path
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ { عَليهِ السَّلامْ}:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ { عَليهِ السَّلامْ}:
 
-<blockquote dir="rtl">
-  <p>
-مَا إِسْتَخَارَ الله عَزَّ و جّلَّ عَبْدٌ مُؤْمِنٌ إلاَّ خَارَ الله
-لَهُ وَإِنْ وَقَعَ مَا يُكرِهُ.
-  </p>
-</blockquote>
+> مَا إِسْتَخَارَ الله عَزَّ و جّلَّ عَبْدٌ مُؤْمِنٌ إلاَّ خَارَ الله
+> لَهُ وَإِنْ وَقَعَ مَا يُكرِهُ.
 
 *al‑Imam Jafar al‑Sadiq (‘as), said: "There is no believing slave (of
 Allah) that asks Allah ‑the Glorious and High ‑for goodness except that
@@ -60,17 +44,9 @@ will automatically be given to him and just as he would like it to be
 6) A Way Out of Confusion
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ الله {عَليهِ السَّلامْ}:
-  </p>
-</blockquote>
+> قَالَ رَسُولُ الله {عَليهِ السَّلامْ}:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ! مَا حَارَ مَنِ أسْتخارَ ولاَ نَدِم مَنِ اسْتَثارَ.
-  </p>
-</blockquote>
+> يَا عَلِيُّ! مَا حَارَ مَنِ أسْتخارَ ولاَ نَدِم مَنِ اسْتَثارَ.
 
 *The Prophet of Islam(‘s) said, "O' 'Ali! Whosoever asks the best (from
 Allah), will never be confused, and whosoever asks (others) for advice
@@ -89,17 +65,9 @@ traits and characteristics.
 7) Removal of Remorse and Sorrow
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإمَامُ عَلِيُّ عَليهِ السلامْ:
-  </p>
-</blockquote>
+> قَالَ الإمَامُ عَلِيُّ عَليهِ السلامْ:
 
-<blockquote dir="rtl">
-  <p>
-...مَا نَدِمَ مَنِ اسْتِخَارَ.
-  </p>
-</blockquote>
+> ...مَا نَدِمَ مَنِ اسْتِخَارَ.
 
 *al‑Imam 'Ali (‘as), said, "Whosoever asks the best (from Allah) will
 never be regretful.”* [^4]*13*
@@ -117,5 +85,4 @@ elimination of all confusion and distress.
 Volume 80, Page 78, Hadith 10125
 
 [^4]: Ghurur al-Hikm, 9453
-
 

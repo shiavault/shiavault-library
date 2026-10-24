@@ -103,4 +103,3 @@ Bihar-ul-Anwar, vol. 67, p. 305
 
 [^3]: Sura Al-Baqarah, No.2, verse 177
 
-

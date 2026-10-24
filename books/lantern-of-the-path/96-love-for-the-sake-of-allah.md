@@ -11,17 +11,11 @@ each other for Allah.' Every love based on some cause other than Allah
 brings about enmity except for these two, for they come from the same
 source. Theirs always increases and never decreases. As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-الْأَخِلَّاء يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> الْأَخِلَّاء يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا
+> الْمُتَّقِينَ
 
 ***The friends shall on that day be enemies to one another except for
 those who guard against evil,*** (43:67)
-
 
 because the root of love is being free of everything except the
 Beloved.
@@ -30,20 +24,12 @@ The Commander of the Faithful said, 'The best thing in the Garden and
 the sweetest is love of Allah, love in Allah, and praise for Allah.' And
 Allah has said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِينَ
 
 ***The last of their supplication shall be "Praise be to Allah, Lord of
 the worlds",*** (10:10)
 
-
-
 because when they see the blessings that exist in the Garden, love is
 aroused in their hearts and then they call out, 'Praise be to Allah,
 Lord of the worlds.'
-
 

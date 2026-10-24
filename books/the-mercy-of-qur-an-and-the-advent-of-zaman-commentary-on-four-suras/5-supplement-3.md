@@ -427,4 +427,3 @@ Allah, the tongue of Allah, and then he moves by the mercy and grace of
 Allah. He has unified. He has directly, experientially abandoned into
 tawhid.
 
-

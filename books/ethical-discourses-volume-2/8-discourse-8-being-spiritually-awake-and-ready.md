@@ -1,28 +1,20 @@
 Discourse 8: Being Spiritually Awake And Ready
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنَسِ بْنِ مَالِكِ قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ يَقُولُ: يَا
-مَعْشَرَ الْمُسْلِمِينَ، شَمِّرُوا فَإِنَّ الأَمْرَ جِدٌّ، وَ
-تَأَهَبُّوا فَإِنَّ الرَّحِيلَ قَرِيبٌ، وَ تَزَوَّدُوا فَإِنَّ
-السَّفَرَ بَعِيدٌ، وَ خَفِّفُوا أَثْـقَالَكُمْ فَإِنَّ وَرَآءَكُمْ
-عَقَبَةً كَؤُوداً، وَ لاَ يَقْطَعُهَا إِلاَّ الْمُخِفُّونَ. أَيُّهَا
-النَّاسُ، إِنَّ بَيْنَ يَدَيِ السَّاعَةِ أُمُوراً شِدَاداً، وَ
-أَهْوَالاً عِظَاماً،
-  </p>
-</blockquote>
+> عَنْ أَنَسِ بْنِ مَالِكِ قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ يَقُولُ: يَا
+> مَعْشَرَ الْمُسْلِمِينَ، شَمِّرُوا فَإِنَّ الأَمْرَ جِدٌّ، وَ
+> تَأَهَبُّوا فَإِنَّ الرَّحِيلَ قَرِيبٌ، وَ تَزَوَّدُوا فَإِنَّ
+> السَّفَرَ بَعِيدٌ، وَ خَفِّفُوا أَثْـقَالَكُمْ فَإِنَّ وَرَآءَكُمْ
+> عَقَبَةً كَؤُوداً، وَ لاَ يَقْطَعُهَا إِلاَّ الْمُخِفُّونَ. أَيُّهَا
+> النَّاسُ، إِنَّ بَيْنَ يَدَيِ السَّاعَةِ أُمُوراً شِدَاداً، وَ
+> أَهْوَالاً عِظَاماً،
 
-<blockquote dir="rtl">
-  <p>
-وَ زَمَاناً صَعْباً يَتَمَلَّكُ فِيهِ الظَّلَمَةُ، وَ يَتَصَدَّرُ
-فِيهِ الْفَسَقَةُ، وَ يُضَامُ فِيهِ الآمِرُونَ بِالْمَعْرُوفِ، وَ
-يُضْطَهَدُ فِيهِ النَّاهِينَ عَنِ الْمُنْكَرِ. فَأَعِدُّوا لِذٌلِكَ
-الإِيـمَـانَ، وَ عَضُّوا عَلَيْهِ بِالنَّوَاجِذِ، وَ الْجَأُوا إِلـى
-الْعَمَلِ الصَّالِحِ، وَ أَكْرِهُوا عَلَيْهِ النُّفُوسَ تُفْضُوا إِلـى
-النَّعِيمِ الدَّائِمِ.
-  </p>
-</blockquote>
+> وَ زَمَاناً صَعْباً يَتَمَلَّكُ فِيهِ الظَّلَمَةُ، وَ يَتَصَدَّرُ
+> فِيهِ الْفَسَقَةُ، وَ يُضَامُ فِيهِ الآمِرُونَ بِالْمَعْرُوفِ، وَ
+> يُضْطَهَدُ فِيهِ النَّاهِينَ عَنِ الْمُنْكَرِ. فَأَعِدُّوا لِذٌلِكَ
+> الإِيـمَـانَ، وَ عَضُّوا عَلَيْهِ بِالنَّوَاجِذِ، وَ الْجَأُوا إِلـى
+> الْعَمَلِ الصَّالِحِ، وَ أَكْرِهُوا عَلَيْهِ النُّفُوسَ تُفْضُوا إِلـى
+> النَّعِيمِ الدَّائِمِ.
 
 It has been narrated by Anas b. Malik that he said, “I heard the
 Messenger of Allah (S) say, “O' assembly of Muslims! Prepare yourselves
@@ -57,11 +49,7 @@ According to the lexical defintion, the word **'شمر'** refers to
 'getting ready', and it is possible that originally, it was used by the
 ‘Arabs when they used to say:
 
-<blockquote dir="rtl">
-  <p>
-شَمَّرَ عَنْ سَاقَيْهِ.
-  </p>
-</blockquote>
+> شَمَّرَ عَنْ سَاقَيْهِ.
 
 “He rolled his garments upto his shin (in preparation of some work).”
 
@@ -72,11 +60,7 @@ up with their hands, or would pull the clothing up and tie a long piece
 of cloth around the waist as a belt. In this way, the long gown would
 reach halfway up their legs or up to the knees and thus:
 
-<blockquote dir="rtl">
-  <p>
-شَمَّرَ عَنْ سَاقَيْهِ.
-  </p>
-</blockquote>
+> شَمَّرَ عَنْ سَاقَيْهِ.
 
 is actually a figure of speech meaning that one should get ready to work
 and do some laborious task.
@@ -177,12 +161,8 @@ Thus, people tried to ensure that they did not separate from the rest of
 the caravan. With this said, we see that there is a line in the
 tradition under discussion that states:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ! إِنَّ بَيْنَ يَدَىِ السَّاعَةِ أُمُوراً شِدَاداً و
-أَهْوَالاً عِظَاماً…
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ! إِنَّ بَيْنَ يَدَىِ السَّاعَةِ أُمُوراً شِدَاداً و
+> أَهْوَالاً عِظَاماً…
 
 “O' people! Surely the events which shall occur near to the time of the
 Day of Judgment and the end of the world are great…”
@@ -243,11 +223,7 @@ Earth would have corruption in it! In summary, if the government becomes
 corrupt then everything else will also become corrupt and it is because
 of this fact that it is said:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّاسُ عَلى دِينِ مُلُوكِهِمْ.
-  </p>
-</blockquote>
+> أَلنَّاسُ عَلى دِينِ مُلُوكِهِمْ.
 
 “People follow the religion of their leaders.”
 
@@ -281,11 +257,7 @@ back teeth also force together and he gets prepared to carry out his
 responsibility. It is for this reason that in the tradition under review
 we are told that:
 
-<blockquote dir="rtl">
-  <p>
-عَضُّوا عَلَيْهِ بِالنَّوَاجِذِ.
-  </p>
-</blockquote>
+> عَضُّوا عَلَيْهِ بِالنَّوَاجِذِ.
 
 “…clench his teeth and struggle to perform righteous deeds…”
 
@@ -306,5 +278,4 @@ head of the grave of his son! It is not only limited to this great
 scholar, rather the lives of many other people is the same…!
 
 [^1]: Bihar al-Anwar, vol. 74, pg. 186
-
 

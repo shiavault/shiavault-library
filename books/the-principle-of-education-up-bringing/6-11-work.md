@@ -53,7 +53,6 @@ else's shoulder."123 Hazrat Au (ASWS) says:-
 "Allah Almighty, loves an earning skillful believer (mo'min) "124
 Sadiq-e-Ale Muhammad (ASWS) says:
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 as wax, by the flare of strength (i.e. of his hands). Hazrat Yousaf
 (AS) is resolving the political, administrative, and economic problems
@@ -147,7 +146,6 @@ conceive it's essence and could communicate it to our beloveds.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 **11.1. Balanced Life!**
 
 There need be a suitable means for subsistence to live in this world,
@@ -211,5 +209,4 @@ absorbed in praying. On hearing this, He replied.
 
 "I feel pity! Does he not know, that one who does not strives for
 subsistence, his supplications are not accepted!"131
-
 

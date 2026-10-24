@@ -9,11 +9,7 @@ falsehood there are two sins: the sin of being pleased with it and the
 sin of acting upon it.
 
 > 1ـ الرَّاضي بِفِعْلِ قَوْم كالدَّاخِلِ فيهِ مَعَهُمْ، ولِكُلِّ داخِل
-<blockquote dir="rtl">
-  <p>
-في باطِل إثمانِ: إثْمُ الرِّضا بِهِ، وإثمُ العَمَلِ بِهِ.
-  </p>
-</blockquote>
+> في باطِل إثمانِ: إثْمُ الرِّضا بِهِ، وإثمُ العَمَلِ بِهِ.
 
 2. Falsehood is the opposer of truth.
 
@@ -43,11 +39,7 @@ sin of acting upon it.
 that which he has chosen for himself.
 
 > 8ـ خالِفْ مَنْ خالَفَ الحَقَّ إلى غَيْرِهِ، وَدَعْهُ، وَما رَضيَ
-<blockquote dir="rtl">
-  <p>
-لِنَفْسِهِ.
-  </p>
-</blockquote>
+> لِنَفْسِهِ.
 
 9. Seeking assistance in support of falsehood is a serious offence and
 an act of treachery.
@@ -71,11 +63,7 @@ an act of treachery.
 darkness.
 
 > 13ـ لَيْسَ فيِ البَرْقِ اللاَّمِعِ مُسْتَمْتَعٌ لِمَنْ يَخُوضُ
-<blockquote dir="rtl">
-  <p>
-الظُّلْمَةَ.
-  </p>
-</blockquote>
+> الظُّلْمَةَ.
 
 14. One who embarks on falsehood, regrets.
 
@@ -97,11 +85,7 @@ darkness.
 is more manifest than the sun.
 
 > 18ـ مَنْ كانَ غَرَضُهُ الباطِلَ لَمْ يُدْرِكِ الحقَّ ولَوْ كانَ
-<blockquote dir="rtl">
-  <p>
-أشْهَرَ مِنَ الشَّمسِ.
-  </p>
-</blockquote>
+> أشْهَرَ مِنَ الشَّمسِ.
 
 19. One who supports falsehood, regrets.
 
@@ -118,5 +102,4 @@ is more manifest than the sun.
 22. One who resorts to falsehood does not become powerful.
 
 > 22ـ لايَعِزُّ مَنْ لَجَأ إلَى الباطِلِ.
-
 

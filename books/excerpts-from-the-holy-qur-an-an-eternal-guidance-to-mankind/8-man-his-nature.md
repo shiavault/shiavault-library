@@ -6,13 +6,9 @@ Human Cycle
 
 **Surah An – Nahl, 16:70**
 
-<blockquote dir="rtl">
-  <p>
-وَاللّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى
-أَرْذَلِ الْعُمُرِ لِكَيْ لاَ يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا إِنَّ
-اللّهَ عَلِيمٌ قَدِيرٌ
-  </p>
-</blockquote>
+> وَاللّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى
+> أَرْذَلِ الْعُمُرِ لِكَيْ لاَ يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا إِنَّ
+> اللّهَ عَلِيمٌ قَدِيرٌ
 
 Wal-laahu khalaqa-kum thumma yatawaf-faakum wa min-kum-may-yurad-du
 ’ilaaa ’arzalil-‘umuri li-kay laa ya‘lama ba‘-da ‘ilmin shay-aa:
@@ -29,24 +25,16 @@ Evolution of Man from Dust
 
 **Surah Al – Hajj, 22:5-6**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا
-خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا
+> خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن
 
-<blockquote dir="rtl">
-  <p>
-نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ
-وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِي الْأَرْحَامِ
-مَا نَشَاء إِلَى أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ
-لِتَبْلُغُوا أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّى وَمِنكُم مَّن
-يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِن بَعْدِ عِلْمٍ
-شَيْئًا وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا
-الْمَاء اهْتَزَّتْ وَرَبَتْ وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ
-  </p>
-</blockquote>
+> نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ
+> وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِي الْأَرْحَامِ
+> مَا نَشَاء إِلَى أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ
+> لِتَبْلُغُوا أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّى وَمِنكُم مَّن
+> يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِن بَعْدِ عِلْمٍ
+> شَيْئًا وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنزَلْنَا عَلَيْهَا
+> الْمَاء اهْتَزَّتْ وَرَبَتْ وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ
 
 Yaa ay-yuhan naa-so in kun-tum fi rai-bim minal Ba’-thi fa-in-naa
 khalaq-naa-kum min turaabin thum-ma min nut-fatin thom-ma min ‘ala-qatin
@@ -76,12 +64,8 @@ this:) thou canst see the earth dry and lifeless - and (suddenly,) when
 We send down waters upon it, it stirs and swells and puts forth every
 kind of lovely plant!*
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَى
-وَأَنَّهُ عَلَى كُلِّ شَيْءٍ قَدِي
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَى
+> وَأَنَّهُ عَلَى كُلِّ شَيْءٍ قَدِي
 
 Zaalika bian-nal Laaha Huwal haq-qu wa an-nahu yoh-yil mau-taa wa
 an-nahu ‘alaa kul-li shay-in qadiir.
@@ -92,40 +76,24 @@ to will anything.*
 
 **Surah Al - Mu’minun, 23:12-14**
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ
 
 Wa laqad khalaq-nal-’in-saana min-sulaa-latim-min-tiin;
 
 *12. Now, indeed, We create man out of the essence of clay,*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ
 
 Thum-ma ja-‘alnaahu nutfa-tan-fii qaraarim-makiin;
 
 *13. and then We cause him to remain as a drop of sperm in (the womb’s)
 firm keeping,*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً
-فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا
-  </p>
-</blockquote>
+> ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً
+> فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا
 
-<blockquote dir="rtl">
-  <p>
-الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ فَتَبَارَكَ
-اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ فَتَبَارَكَ
+> اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 Thum-ma khalaq-nan-nutfata ‘alaqatan-fa-khalaqnal-‘alaqata muz-ghatan
 fa-khalaqnal-muz-ghata ‘izaaman-fa-kasawnal-‘izaama lahmaa; thum-ma
@@ -170,12 +138,8 @@ Men not created without a purpose
 
 **Surah Mu’minun, 23:115**
 
-<blockquote dir="rtl">
-  <p>
-أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لَا تُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لَا تُرْجَعُونَ
 
 ’Afa-hasib-tum ’an-namaa khalaq-naakum ‘aba-thanw-wa ’an-nakum ’ilaynaa
 laa tur-ja-‘uun?
@@ -188,23 +152,15 @@ Allah (swt) has granted Man free will to choose between good and evil
 
 **Surah Al – Muddaththir, 74:31**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً وَمَا جَعَلْنَا
-عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا
-  </p>
-</blockquote>
+> وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً وَمَا جَعَلْنَا
+> عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا
 
-<blockquote dir="rtl">
-  <p>
-لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ
-آمَنُوا إِيمَانًا وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ
-وَالْمُؤْمِنُونَ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
-وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَذَا مَثَلًا كَذَلِكَ
-يُضِلُّ اللَّهُ مَن يَشَاء وَيَهْدِي مَن يَشَاء وَمَا يَعْلَمُ جُنُودَ
-رَبِّكَ إِلَّا هُوَ وَمَا هِيَ إِلَّا ذِكْرَى لِلْبَشَرِ
-  </p>
-</blockquote>
+> لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ
+> آمَنُوا إِيمَانًا وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ
+> وَالْمُؤْمِنُونَ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
+> وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَذَا مَثَلًا كَذَلِكَ
+> يُضِلُّ اللَّهُ مَن يَشَاء وَيَهْدِي مَن يَشَاء وَمَا يَعْلَمُ جُنُودَ
+> رَبِّكَ إِلَّا هُوَ وَمَا هِيَ إِلَّا ذِكْرَى لِلْبَشَرِ
 
 Wa maa ja-‘alnaaa ’As-haaban-naari ’il-laa malaaa-’i-ka. Wa maa
 ja-‘alnaa ‘id-data-hum ’il-laa fitnatal-lil-laziina kafa-ru
@@ -245,12 +201,8 @@ Man advised not to be pompous
 
 **Surah Al–Hadid, 57:23-24**
 
-<blockquote dir="rtl">
-  <p>
-لِكَيْلَا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلَا تَفْرَحُوا بِمَا
-آتَاكُمْ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> لِكَيْلَا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلَا تَفْرَحُوا بِمَا
+> آتَاكُمْ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 Li-kaylaa ta-saw ‘alaa maa faatakum wa laa tafrahuu bimaa ’aataa-kum.
 Wal-laahu laa yuhib-bu kul-la mukh-taalin fakhuur,-
@@ -260,12 +212,8 @@ escaped you nor exult (unduly) over whatever (good) has come to you:
 for, God does not love any of those who, out of self-conceit, act in a
 boastful manner -*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَمَن
-يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ
-  </p>
-</blockquote>
+> الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَمَن
+> يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ
 
 ’Al-laziina yab-khaluuna wa ya-muruu-nan-naasa bil-bukhl. Wa
 man-yatawal-la fa-’in-nal-laaha Huwal-Ghaniy-yul-Hamiid.
@@ -281,13 +229,9 @@ Man is himself accountable for his own actions
 
 **Surah Al-Isra’, 17:15**
 
-<blockquote dir="rtl">
-  <p>
-مَّنِ اهْتَدَى فَإِنَّمَا يَهْتَدي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا
-يَضِلُّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى وَمَا كُنَّا
-مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
-  </p>
-</blockquote>
+> مَّنِ اهْتَدَى فَإِنَّمَا يَهْتَدي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا
+> يَضِلُّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى وَمَا كُنَّا
+> مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
 
 Manih-tadaa fa-’in-namaa yah-tadii linafsi: wa man zal-la fa’in-namaa
 yazil-lu ‘alay-haa: wa laa taziru waazira-tuw-wizra ’ukhraa: wa maa
@@ -303,12 +247,8 @@ Man’s selfish mentality
 
 **Surah Fussilat 41, 49:51**
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْأَمُ الْإِنسَانُ مِن دُعَاء الْخَيْرِ وَإِن مَّسَّهُ الشَّرُّ
-فَيَؤُوسٌ قَنُوطٌ
-  </p>
-</blockquote>
+> لَا يَسْأَمُ الْإِنسَانُ مِن دُعَاء الْخَيْرِ وَإِن مَّسَّهُ الشَّرُّ
+> فَيَؤُوسٌ قَنُوطٌ
 
 Laa yas-’amul-’insaanu min du-‘aaa-’il-khayri wa ’im-mas-sa-hush-shar-ru
 fa-ya-’uusun-qanuut.
@@ -317,25 +257,13 @@ fa-ya-’uusun-qanuut.
 evil fortune touches him, he abandons all hope, giving himself up to
 despair.*
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِّنَّا مِن بَعْدِ ضَرَّاء مَسَّتْهُ
-لَيَقُولَنَّ هَذَا لِي وَمَا أَظُنُّ السَّاعَةَ
-  </p>
-</blockquote>
+> وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِّنَّا مِن بَعْدِ ضَرَّاء مَسَّتْهُ
+> لَيَقُولَنَّ هَذَا لِي وَمَا أَظُنُّ السَّاعَةَ
 
-<blockquote dir="rtl">
-  <p>
-قَائِمَةً وَلَئِن رُّجِعْتُ إِلَى رَبِّي إِنَّ لِي عِندَهُ لَلْحُسْنَى
-فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُوا بِمَا
-  </p>
-</blockquote>
+> قَائِمَةً وَلَئِن رُّجِعْتُ إِلَى رَبِّي إِنَّ لِي عِندَهُ لَلْحُسْنَى
+> فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُوا بِمَا
 
-<blockquote dir="rtl">
-  <p>
-عَمِلُوا وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍ
-  </p>
-</blockquote>
+> عَمِلُوا وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍ
 
 Wa la-’in ’azaqnaahu Rah-matam-min-naa mim-ba’-di zar-raaa-’a mas-sat-hu
 layaquu-lan-na haazaa lii wa maaa ’azunnus-Saa-‘ata qaaa-’imatanw-wa
@@ -354,18 +282,10 @@ were bent on denying the truth, full understanding of all that they ever
 did, and shall most certainly give them (thereby) a taste of suffering
 severe.*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاء
-  </p>
-</blockquote>
+> وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاء
 
-<blockquote dir="rtl">
-  <p>
-عَرِيضٍ
-  </p>
-</blockquote>
+> عَرِيضٍ
 
 Wa ’izaaa ’an-‘amnaa ‘alal-’insaani ’a‘-raza wa naa bi-jaanibi. Wa ’izaa
 mas-sahush-shar-ru fazuu du-‘aaa-’in ‘ariiz!
@@ -379,12 +299,8 @@ Man always makes hasty decisions
 
 **Surah Al-Isra’, 17:11**
 
-<blockquote dir="rtl">
-  <p>
-وَيَدْعُ الإِنسَانُ بِالشَّرِّ دُعَاءهُ بِالْخَيْرِ وَكَانَ الإِنسَانُ
-عَجُولاً
-  </p>
-</blockquote>
+> وَيَدْعُ الإِنسَانُ بِالشَّرِّ دُعَاءهُ بِالْخَيْرِ وَكَانَ الإِنسَانُ
+> عَجُولاً
 
 Wa yad-‘ul-’insaanu bish-shar-ri du-‘aaa-’ahuu bil-khayr; wa
 kaanal-insaanu ‘ajuulaa.
@@ -411,14 +327,10 @@ Ungrateful nature of Man
 
 **Surah Az – Zumar, 39:8**
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ ثُمَّ
-إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِن
-قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِ قُلْ
-تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَابِ النَّارِ
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ ثُمَّ
+> إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِن
+> قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِ قُلْ
+> تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَابِ النَّارِ
 
 Wa ’izaa mas-sal-’insaana zur-run-da-‘aa Rab-bahuu mu-niiban ’ilayhi
 thum-ma ’izaa khaw-walahuu ni‘-matam-min-hu nasiya maa kaana yad-‘uuu
@@ -438,18 +350,10 @@ for the fire!*
 
 **Surah Az – Zumar, 39:49**
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ
-نِعْمَةً مِّنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَى
-  </p>
-</blockquote>
+> فَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ
+> نِعْمَةً مِّنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَى
 
-<blockquote dir="rtl">
-  <p>
-عِلْمٍ بَلْ هِيَ فِتْنَةٌ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> عِلْمٍ بَلْ هِيَ فِتْنَةٌ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
 Fa iza mas-sal in-saana zur-run da-‘aa-na thum-ma iza khaw-wal-naahu
 ni‘-ma-tam min-na qaa-la in-na-maa o-ti-tuhu ‘ala ‘il-min bal hiya
@@ -474,14 +378,10 @@ wrath.”
 
 **Surah Ash – Shura, 42:48**
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا إِنْ
-عَلَيْكَ إِلَّا الْبَلَاغُ وَإِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا
-رَحْمَةً فَرِحَ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ
-أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ
-  </p>
-</blockquote>
+> فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا إِنْ
+> عَلَيْكَ إِلَّا الْبَلَاغُ وَإِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا
+> رَحْمَةً فَرِحَ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ
+> أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ
 
 Fa-’in ’a‘-razuu famaaa ’arsal-naaka ‘alayhim hafiizaa. ’In ‘alayka
 ’il-lal-balaagh. Wa ’in-naaa ’izaaa ’azaqnal-’insaana min-naa
@@ -511,127 +411,79 @@ Most men are ungrateful, except for a few who have certain distinct qualities
 
 **Surah Al - Ma’arij, 70:19-35**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا
 
 ’In-nal - ’Insaana khuliqa haluu-‘aa;-
 
 *19. Verily, man is born with a restless disposition.*
 
-<blockquote dir="rtl">
-  <p>
-إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
-  </p>
-</blockquote>
+> إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
 
 Wa ’izaa mas-sahush - shar-ru jazuu-‘aa;
 
 *20. (As a rule,) whenever misfortune touches him, he is filled with
 self-pity,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
-  </p>
-</blockquote>
+> وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
 
 Wa ’izaa mas-sahul-khayru manuu-‘aa;-
 
 *21. and whenever good fortune comes to him, he selfishly withholds it
 (from others).*
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الْمُصَلِّينَ
-  </p>
-</blockquote>
+> إِلَّا الْمُصَلِّينَ
 
 ’Il-lal-Musal-liin;-
 
 *22. Not so, however, those who consciously turn towards God in prayer,*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ عَلَى صَلَاتِهِمْ دَائِمُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ عَلَى صَلَاتِهِمْ دَائِمُونَ
 
 ’Al-laziina hum ‘alaa Salaati-him daaa-’imuun;
 
 *23. (and) who incessantly persevere in their prayer;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ
 
 Wal-laziiina fiii ’am-waa-lihim haq-qum-ma‘-luum.
 
 *24. and in whose possessions there is a due share, acknowledged (by
 them),*
 
-<blockquote dir="rtl">
-  <p>
-لِّلسَّائِلِ وَالْمَحْرُومِ
-  </p>
-</blockquote>
+> لِّلسَّائِلِ وَالْمَحْرُومِ
 
 Lis-saaa-’ili wal - mah-ruum;
 
 *25. for such as ask (for help) and such as are deprived (of what is
 good in, life);*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
 
 Wal-laziina yusad-diquuna bi-Yawmid-Diin;
 
 *26. and who accept as true the (coming of the ) Day of Judgement;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ
 
 Wal-laziina-hum-min ‘azaabi Rab-bihim mushfi-quun.
 
 *27. and who stand in dread of their Sustainer’s chastisement*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
-  </p>
-</blockquote>
+> إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
 
 ’In-na ‘azaaba Rab-bihim ghayru ma’-muun; -
 
 *28. for, behold, of their Sustainer’s chastisement none may ever feel
 (wholly) secure;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
 
 Wal-laziina hum li-furuuji-him haafizuun.
 
 *29. and who are mindful of their chastity,*
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ
-غَيْرُ مَلُومِينَ
-  </p>
-</blockquote>
+> إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ
+> غَيْرُ مَلُومِينَ
 
 ’Il-laa ‘alaaa ‘az-waa-jihim ’aw maa malakat ’aymaa-nuhum fa-’in-nahum
 ghayru maluumiin.
@@ -640,50 +492,30 @@ ghayru maluumiin.
 is, those whom they rightfully possess (through wedlock) -: for then,
 behold they are free of all blame,*
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ ابْتَغَى وَرَاء ذَلِكَ فَأُوْلَئِكَ هُمُ الْعَادُونَ
-  </p>
-</blockquote>
+> فَمَنِ ابْتَغَى وَرَاء ذَلِكَ فَأُوْلَئِكَ هُمُ الْعَادُونَ
 
 Fa-manib-taghaa waraaa-’a zaalika fa-’ulaaa-’ika humul-‘aaduun; *31.
 whereas such as seek to go beyond that (limit) are truly transgressors;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
 
 Wal-laziina hum li-’amaa-naatihim wa ‘ahdihim raa-‘uun;
 
 *32. and who are faithful to their trusts and to their pledges;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ
 
 Wal-laziina hum-bi-shahaa-daatihim qaaa-’imuun;
 
 *33. and who stand firm whenever they bear witness;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَلَى صَلَاتِهِمْ يُحَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَلَى صَلَاتِهِمْ يُحَافِظُونَ
 
 Wal-laziina hum ‘alaa Salaatihim yuhaa-fizuun;-
 
 *34. and who guard their prayers (from all worldly intent).*
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ
 
 ’Ulaaa-’ika fii Jan-naatim-mukra-muun.
 
@@ -704,5 +536,4 @@ which is prescribed for both man and women.
 
 The honourable ones in Paradise, are only those who fulfil the above
 conditions of faith and conduct.
-
 

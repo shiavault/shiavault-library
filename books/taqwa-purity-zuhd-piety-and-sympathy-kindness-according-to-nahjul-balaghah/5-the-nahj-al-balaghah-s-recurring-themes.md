@@ -19,4 +19,3 @@ and the lengthiest of all, except the famous directive sent to Malik
 al-'Ashtar. Another one is letter 45, the well-known epistle of 'Ali
 ('a) to Uthman ibn Hunayf, his governor in Basrah.
 
-

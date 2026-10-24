@@ -152,4 +152,3 @@ but the deep injuries did not allow her to do so. On returning from
 Hamra-ul-Asad, the Prophet before reaching his house, sent some- one to
 enquire about her health and was pleased to learn that she was alive.
 
-

@@ -71,4 +71,3 @@ falsehood and nonsense when it is clearly exposed. With that said, you
 are ready to pack your bags in preparation to travel in your journey of
 guidance!
 
-

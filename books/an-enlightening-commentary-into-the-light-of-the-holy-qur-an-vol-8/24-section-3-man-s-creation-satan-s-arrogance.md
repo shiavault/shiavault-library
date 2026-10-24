@@ -4,17 +4,9 @@ Section 3: Man’s Creation – Satan’s Arrogance
 Surah Al-Hijr – Verses 26 - 27
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الإِنسَانَ مِن صَلْصَالٍ مّـِنْ حَمَأٍ مَّسْنُونٍ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الإِنسَانَ مِن صَلْصَالٍ مّـِنْ حَمَأٍ مَّسْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَالْجَآنَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ
-  </p>
-</blockquote>
+> وَالْجَآنَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ
 
 ***26. “And certainly We created man of raw clay, of black mud
 moulded.”***  
@@ -76,31 +68,15 @@ The verse says:
 Surah Al-Hijr – Verses 28 - 31
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ رَبُّكَ لِلْمَلآئِكَةِ إِنّـِي خَالِقٌ بَشَراً مّـِن
-صَلْصَالٍ مّـِنْ حَمَأٍ مَّسْنُونٍ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ رَبُّكَ لِلْمَلآئِكَةِ إِنّـِي خَالِقٌ بَشَراً مّـِن
+> صَلْصَالٍ مّـِنْ حَمَأٍ مَّسْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ
-سَاجِدِينَ
-  </p>
-</blockquote>
+> فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ
+> سَاجِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَسَجَدَ الْمَلآئِكَةُ كُلُّهُمْ أَجْمَعُونَ
-  </p>
-</blockquote>
+> فَسَجَدَ الْمَلآئِكَةُ كُلُّهُمْ أَجْمَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلآَّ إِبْلِيسَ أَبَي أَن يَكُونَ مَعَ السَّاجِدِينَ
-  </p>
-</blockquote>
+> إِلآَّ إِبْلِيسَ أَبَي أَن يَكُونَ مَعَ السَّاجِدِينَ
 
 ***28. “And (remember) when your Lord said to the angels: ‘Verily, I am
 about to create man of raw clay, of black mud moulded’.”***  
@@ -161,30 +137,14 @@ are also at the service of man and submissive to him. [^6]
 Surah Al-Hijr – Verses 32 - 35
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَآ إِبْلِيسُ مَالَكَ اَلاَّ تَكُونَ مَعَ السَّاجِدِينَ
-  </p>
-</blockquote>
+> قَالَ يَآ إِبْلِيسُ مَالَكَ اَلاَّ تَكُونَ مَعَ السَّاجِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَمْ أَكُن لاَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِنْ
-حَمَأٍ مَّسْنُونٍ
-  </p>
-</blockquote>
+> قَالَ لَمْ أَكُن لاَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِنْ
+> حَمَأٍ مَّسْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَاخْرُجْ مِنْهَا فإِنَّكَ رَجِيمٌ
-  </p>
-</blockquote>
+> قَالَ فَاخْرُجْ مِنْهَا فإِنَّكَ رَجِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَي يَوْمِ الدّ‌ِينِ
-  </p>
-</blockquote>
+> وإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَي يَوْمِ الدّ‌ِينِ
 
 ***32. “He said: ‘O’ Iblis! What is your reason for not being with those
 who prostrated (in obedience)?’”***  
@@ -227,23 +187,11 @@ The verse says:
 Surah Al-Hijr – Verses 36 - 38
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ فَاَنظِرْنِي إِلَي يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ فَاَنظِرْنِي إِلَي يَوْمِ يُبْعَثُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ
-  </p>
-</blockquote>
+> قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَي يَوْمِ الْوَقْتِ الْمَعْلُومِ
-  </p>
-</blockquote>
+> إِلَي يَوْمِ الْوَقْتِ الْمَعْلُومِ
 
 ***36. “(’Iblis) said: ‘O’ Lord! Respite me then till the day when they
 are raised?”***  
@@ -288,18 +236,10 @@ of the duties.
 Surah Al-Hijr – Verses 39 - 40
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ
-وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ
+> وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عِبَادَكَ مِنْهُمُ الْـمُخْلَصِينَ
-  </p>
-</blockquote>
+> إِلاَّ عِبَادَكَ مِنْهُمُ الْـمُخْلَصِينَ
 
 ***39. “(’Iblis) said: ‘O’ Lord! because You have left me to stray,
 certainly I will adorn (evil) to them on the earth, and certainly I will
@@ -367,18 +307,10 @@ servitude are necessary.
 Surah Al-Hijr – Verses 41 - 42
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ
-  </p>
-</blockquote>
+> قَالَ هَذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلاَّ مَنِ اتَّبَعَكَ
-مِنَ الْغَاوِينَ
-  </p>
-</blockquote>
+> إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلاَّ مَنِ اتَّبَعَكَ
+> مِنَ الْغَاوِينَ
 
 ***41. “Said He: ‘This is for Me a straight path (which I have
 undertaken)’.”***  
@@ -437,17 +369,9 @@ footsteps.
 Surah Al-Hijr – Verses 43 - 44
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعينَ
-  </p>
-</blockquote>
+> وإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعينَ
 
-<blockquote dir="rtl">
-  <p>
-لَهَا سَبْعَةُ أَبْوَابٍ لّـِكُلّ‌ِ بَابٍ مّـِنْهُمْ جُزْءٌ مَّقْسُومٌ
-  </p>
-</blockquote>
+> لَهَا سَبْعَةُ أَبْوَابٍ لّـِكُلّ‌ِ بَابٍ مّـِنْهُمْ جُزْءٌ مَّقْسُومٌ
 
 ***43. “And verily Hell is certainly the promised place of them
 all.”***  
@@ -511,5 +435,4 @@ each person will be punished in it according to his own offence.
 [^5]: Surah Hūd, No. 11,verse 119
 
 [^6]: Tafsir Al-Mizan, vol. 12, p. 165
-
 

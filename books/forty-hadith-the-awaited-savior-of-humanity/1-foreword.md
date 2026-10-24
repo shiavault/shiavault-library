@@ -6,12 +6,8 @@ Foreword
 The Noble Prophet (blessings of Allah be upon him and his family) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
-بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
-  </p>
-</blockquote>
+> مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
+> بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
 
 “A person from my nation who memorizes forty traditions pertaining to
 those issues of religion which one is in need of, will be resurrected by
@@ -35,5 +31,4 @@ IEB ‑ WF would like to thank Shaykh Saleem for his efforts in the
 translation of this work. May Allah (Free from Imperfections and Exalted
 is He) accept this work as a further attempt by IEB ‑ WF to propagate
 Islam.
-
 

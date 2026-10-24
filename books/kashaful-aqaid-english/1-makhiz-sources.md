@@ -79,4 +79,3 @@ Ghazanfar Abbas Tonsvi
 *Gharar ul Haqam Wahder ul Kalam*                      Aqwal Janab
 Ameer(as) ka Majmua (A Collection of Saying by Moula Ali (as))
 
-

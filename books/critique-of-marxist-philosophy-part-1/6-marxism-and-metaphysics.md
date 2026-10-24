@@ -20,4 +20,3 @@ philosophical conclusions. Yet in spite of this philosophy may at times
 not need any sense experience, nor is it necessary for philosophy to
 accompany the procession of science in its gradual march
 
-

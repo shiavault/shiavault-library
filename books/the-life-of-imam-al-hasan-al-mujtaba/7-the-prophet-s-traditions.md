@@ -398,7 +398,6 @@ authority of Abu Hurayra.
 al-Tirmidhi, Saheeh, vol. 2, p. 301.
 [^5] Ahmed, Musnad, vol. 1, p. 77.
 
-
 5. Ibn Abbas narrated: “Allah’s Apostle (a.s) has said: ‘The stars are
 security for the inhabitants of the earth from drowning, and my
 household are security for my community from disagreement. Therefore, if
@@ -578,5 +577,4 @@ raised his position.
 [^3] Al-Bidaya wa al-Nihaya, vol. 8, p. 37.
 [^4] Imam Ahmed bin Hanbal, al-Musnad, vol. 2, p. 255. Al-Baladhiri,
 Ansab al-Ashraf.
-
 

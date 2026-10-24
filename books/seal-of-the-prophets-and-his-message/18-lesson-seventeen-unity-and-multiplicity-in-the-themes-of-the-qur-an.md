@@ -201,4 +201,3 @@ source in God, the eternal and immutable reality, Whose infinite essence
 is utterly beyond the factors that induce change, variation and
 contradiction.
 
-

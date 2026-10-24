@@ -34,4 +34,3 @@ for it being in the genitive state (the genitive preposition or the
 prefixed noun) must be repeated before the word after the conjunct. For
 example: **سَلَّمتُ علیه و علی أخیه** (I greeted him and his brother.)
 
-

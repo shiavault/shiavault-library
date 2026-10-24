@@ -1,13 +1,9 @@
 Chapter 7: Prohibition of Transcribing the Hadith
 =================================================
 
-<blockquote dir="rtl">
-  <p>
-بِالْبَيِّنَاتِ وَالزُّبُرِ وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ
-لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ
-يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> بِالْبَيِّنَاتِ وَالزُّبُرِ وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ
+> لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ
+> يَتَفَكَّرُونَ
 
 ***(We sent them) with Clear Signs and Scriptures; and We have sent down
 unto thee (also) the Message; that you may explain clearly to men what
@@ -363,5 +359,4 @@ reign lasted for only four years and nine months.
 
 [^39]: Sahih al-Bukhari; Bab Marad al-Nabi; Ketab al-Marda wa al-Tib,
 7:9
-
 

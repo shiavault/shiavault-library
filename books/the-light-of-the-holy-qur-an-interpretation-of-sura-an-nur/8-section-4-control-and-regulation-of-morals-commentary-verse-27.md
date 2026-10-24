@@ -133,7 +133,6 @@ knows what you proclaim reveal what you conceal.”[^1]
 
 [^1] Sura Al-Ma'idah, No. 5, verse 99
 
-
 **Commentary : Verse 28**
 
 28. فإِن لَّمْ تَجِدُوا فِيهَآ أَحَداً فَلاَ تَدْخُلُوهَا حَتَّي
@@ -180,7 +179,6 @@ house; at the end of the verse, it says:
 
 "... and Allah is cognizant of what you do."
 
-
 **Commentary : Verse 29**
 
 29. لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا بُيُوتاً غَيْرَ
@@ -215,5 +213,4 @@ are inhabited. But Allah (s.w.t.) is aware of all of these affairs and
 knows well about those who misuse. Thus, going to public centers while
 having no beneficial aim and only for wandering or meandering is often
 forbidden.
-
 

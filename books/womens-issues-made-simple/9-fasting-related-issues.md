@@ -101,4 +101,3 @@ If one deliberately does not perform ghusl before the morning Adhaan,
 for fasts like: Fast of oath, some other obligatory fasts or recommended
 fasts, it is okay, as long as she performs the ghusl soon.
 
-

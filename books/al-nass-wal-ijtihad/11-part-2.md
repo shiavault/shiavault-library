@@ -738,4 +738,3 @@ Bayan al-Ilm by al-Muhammisani p.226.
 [^4] vol.1 p.479.
 [^5] vol.1 p.157.
 
-

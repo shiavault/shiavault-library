@@ -189,4 +189,3 @@ should ignore his doubt.
 any increase or decrease takes place in them, whether intentionally or
 by mistake, the prayers is void.
 
-

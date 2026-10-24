@@ -27,18 +27,18 @@ to revive the practice of the Prophet…’”
 
 2. His Eminence, Imam Muhammad Baqir (a.s) said, “When our Qaim
 reappears he shall distribute equally and judge between good and bad for
-the creatures of Allah.”<sup>[1]</sup>
+the creatures of Allah.”[1]
 
 3. His Eminence, Imam Muhammad Baqir (a.s) said, “When our Qaim
 reappears, he shall rule with justice, and injustice and oppression
 shall be destroyed and roads shall become safe and the earth shall spill
 out its treasures and every right shall be restored to its rightful
-owner.”<sup>[2]</sup>
+owner.”[2]
 
 4. His Eminence, Imam Muhammad Baqir (a.s) said, “His Eminence, Mahdi
 (a.s) shall ward off oppressions of the people. So much so, that even if
 it is held between the teeth, he would restore it to its
-owner.”<sup>[3]</sup>
+owner.”[3]
 
 In fact, the method and diplomacy of His Eminence, Imam Mahdi (a.s) is
 only the continuation of the practice of his grandfather, the Messenger
@@ -47,7 +47,7 @@ of the Holy Prophet (a.s). He would rise up just as they had risen. Imam
 Muhammad Baqir (a.s) was asked about the system of the government of His
 Eminence, the Remnant of Allah and the Imam replied, “He would cancel
 the past just as the Messenger of Allah (a.s) had done and establish
-Islam anew.”<sup>[4]</sup>
+Islam anew.”[4]
 
 ### The Imam’s Companions
 
@@ -56,7 +56,7 @@ caution, merits and purity. They shall be the best kind of people.
 
 ------------------------------------------------------------------------
 
-[1] Biharul Anwar [2] Al-Irshad [3] Al-Malahim wal Fitan <sup>[4]</sup>
+[1] Biharul Anwar [2] Al-Irshad [3] Al-Malahim wal Fitan [4]
 Ghaybat Nomani, Pg. 123
 
 Characteristics of the Companions of Imam Mahdi
@@ -67,7 +67,7 @@ Ali (a.s) about Imam Mahdi (a.s) and Ali (a.s) replied, “He shall
 reappear in the Last Age.” Then he mentioned the characteristics of his
 companions and said, “Then the Almighty Allah shall collect a group of
 people near him like pieces of scattered clouds and he shall create love
-among themselves and none of them shall be fearful…”<sup>[1]</sup>
+among themselves and none of them shall be fearful…”[1]
 
 This tradition means that companions of His Eminence shall be having
 religious insight and the proofs of Allah are complete on them. They
@@ -79,12 +79,12 @@ His Eminence.
 2. His Eminence Ali (a.s) has said about their characteristics, “They
 shall be a group that does not oblige Allah by its patience. And they do
 not consider themselves great while sacrificing their lives on the path
-of truth…”<sup>[2]</sup>
+of truth…”[2]
 
 3. His Eminence, Amirul Momineen (a.s) has said regarding their
 characteristics, “They are warriors on the path of God and the arrogant
 and transgressors consider them lowly. Their worth is not known on the
-earth but they are well known in the heavens.”<sup>[3]</sup>
+earth but they are well known in the heavens.”[3]
 
 4. Muhiyuddin Arabi said, “The people having divine recognition shall
 pay the oath of allegiance to His Eminence and they are the servants of
@@ -96,7 +96,7 @@ cognizant of divine realities.”
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Mustadrak Hakim, 4/554 [2] Yanabiul Mawaddah, Pg. 437 [3]
+[1] Mustadrak Hakim, 4/554 [2] Yanabiul Mawaddah, Pg. 437 [3]
 Yanabiul Mawaddah, Pg. 437
 
 Number of the companions of Imam Mahdi (a.s)
@@ -113,12 +113,12 @@ and they are the same that are implied in the words of Allah:
 *O you who believe! Whoever from among you turns back from his religion,
 then Allah will bring a people, He shall love them and they shall love
 Him, lowly before the believers, mighty against the
-unbelievers…”<sup>[1]</sup>*
+unbelievers…”[1]*
 
 And also:
 
 **“…wherever you are, Allah will bring you all
-together…”<sup>[2]</sup>**
+together…”[2]**
 
 They shall be the companions of His Eminence, Imam Mahdi (a.s). His
 Eminence, Imam Ali (a.s) said, “By Allah! I am aware of the companions
@@ -129,10 +129,10 @@ their number shall reach the warriors of Badr, that is 313 persons. And
 that is the saying of Almighty Allah:
 
 *“…wherever you are, Allah will bring you all together; surely Allah has
-power over all things.”<sup>[3]</sup>*
+power over all things.”[3]*
 
 So much so, that people would not have time to change and Allah would
-make them reach the Imam.<sup>[4]</sup>
+make them reach the Imam.[4]
 
 Abu Khalid Kabuli narrated from His Eminence, Imam Zainul Abideen (a.s)
 that he said, “They are such that they sleep on their beds (It means
@@ -140,17 +140,17 @@ that they were asleep and Allah took them
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Surah Maidah 5:54 [2] Surah Baqarah 2:148 [3] Surah
+[1] Surah Maidah 5:54 [2] Surah Baqarah 2:148 [3] Surah
 Baqarah 2:148 [4] Ghaybah, Shaykh Tusi
 
 out and gathered them in Mecca). They are 313 persons, same as the
 number of Badr warriors and they shall be in Mecca overnight and that is
 the saying of Allah:
 
-*‘…wherever you are, Allah will bring you all together…’<sup>[1]</sup>*
+*‘…wherever you are, Allah will bring you all together…’[1]*
 
 And these are the companions of the Qaim of the Progeny of
-Muhammad.”<sup>[2]</sup>
+Muhammad.”[2]
 
 Venue of Allegiance
 -------------------
@@ -158,7 +158,7 @@ Venue of Allegiance
 The venue where companions of His Eminence, Imam Mahdi (a.s) pay the
 oath of fealty at his hands is between the Rukn and Maqam, which is the
 most sanctified and exalted spots. And a many traditions have been
-recorded on this subject.<sup>[3]</sup>
+recorded on this subject.[3]
 
 Conditions imposed by the Imam of the time (a.s) for giving allegiance
 ----------------------------------------------------------------------
@@ -198,7 +198,7 @@ there shall be no obstacle between him and his followers. All his
 activities shall be before them. He shall be satisfied with less and by
 the help of Allah he shall fill the earth with justice just as it would
 be fraught with oppression. And he shall serve Allah as He ought to be
-served…<sup>[1]</sup>
+served…[1]
 
 These conditions and characteristics show that the aim of His Eminence
 is spreading justice and equality and the establishment of the rule of
@@ -216,7 +216,7 @@ The Standard-Bearer of Imam Mahdi (a.s)
 According to traditions, the standard bearer of His Eminence, Imam Mahdi
 (a.s) shall be Shuaib, the son of Salih, who shall be the commander of a
 huge army. He shall arrive from Khorasan to help and pay oath of
-allegiance to Imam Mahdi (a.s).<sup>[2]</sup> And it
+allegiance to Imam Mahdi (a.s).[2] And it
 
 ------------------------------------------------------------------------
 
@@ -227,10 +227,10 @@ is said that he is from the Tamim and he is the one who shall defeat the
 Sufyani so that they come to Baitul Maqdas and prepare the ground for
 the government of His Eminence, the remnant of Allah. And from the time
 of the reappearance of Imam Mahdi (a.s) till the time his command gains
-absolute authority, there is a period of 72 months.<sup>[1]</sup>
+absolute authority, there is a period of 72 months.[1]
 
 It is narrated that on the flag of Imam Mahdi (a.s) shall be written:
-The allegiance is only for Allah.<sup>[2]</sup> The philosophy behind it
+The allegiance is only for Allah.[2] The philosophy behind it
 is that the allegiance to His Eminence, Imam Mahdi (a.s) is allegiance
 to Allah, and his command is the Command of Allah.
 
@@ -241,11 +241,11 @@ the period of the Imam’s government since there are various narrations
 on this subject.
 
 1. The period of his government shall be 40 years and this is narrated
-from Imam Ali (a.s).<sup>[3]</sup>
+from Imam Ali (a.s).[3]
 
-2. It is 30 years<sup>[4]</sup>
+2. It is 30 years[4]
 
-3. It is 21 years<sup>[5]</sup>
+3. It is 21 years[5]
 
 Abundance of riches and blessings during the reign of His Eminence, Imam Mahdi (a.s)
 ------------------------------------------------------------------------------------
@@ -264,13 +264,13 @@ said, “Mahdi will be from my progeny. In his regime, my nation shall be
 bestowed with bounties, without parallel in the history of mankind.
 Everything will be available and distributed freely. Wealth and riches
 will be in excess. A person shall implore, ‘O Mahdi, give me,’ Imam
-(a.s) will reply, ‘Take whatever you please.’”<sup>[1]</sup>
+(a.s) will reply, ‘Take whatever you please.’”[1]
 
 2. Abu Saeed Khudri narrated from the Prophet of Islam (a.s) that he
 said, “In the last age of my nation, the Mahdi shall reappear. And the
 Almighty Allah would shower His blessings upon him and the earth shall
 put forth its wealth. And the earth shall produce more and perfect
-economic possibilities. (Good Vegetation).”<sup>[2]</sup>
+economic possibilities. (Good Vegetation).”[2]
 
 3. His Eminence, Imam Ali (a.s) says regarding His Eminence, Imam Mahdi
 (a.s) that, “Imam Mahdi (a.s) shall instruct his representatives in all
@@ -283,7 +283,7 @@ worship, Islamic Law, charitable deeds, Prayers and religious programs.
 And the trusts shall be restored to their owners; there shall be
 increase in vegetation and blessings shall increase. Evils shall be
 destroyed and goodness shall remain and none who harbors animosity
-towards Ahle Bayt (a.s) shall survive.”<sup>[3]</sup>
+towards Ahle Bayt (a.s) shall survive.”[3]
 
 ------------------------------------------------------------------------
 

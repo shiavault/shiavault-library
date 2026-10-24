@@ -87,4 +87,3 @@ inhabitant of the Fire; that is the recompense of the evildoers.' Then
 his self prompted him to slay his brother, and he slew him, and became
 one of the losers. (5:27-30)
 
-

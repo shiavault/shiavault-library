@@ -182,7 +182,7 @@ God goes far beyond elected Caliphate.”!**[6]**
 ------------------------------------------------------------------------
 
 **[1]** Abdul Kareem Bi-Aazaar Shirazi: *Hambastigi-e-Mazaahib-e-Islami*
-(Preface to the 2<sup>nd</sup> Edition), Pg. 10  
+(Preface to the 2nd Edition), Pg. 10  
  **[2]** Abdul Kareem Bi-Aazaar Shirazi: *Seemai Imam-e-Muttaqeen,*
 (Portrait of the Imam of the Pious), Vol. 5, Pg. 20  
  **[3]** Ibid. Vol. 5, Pg. 22  

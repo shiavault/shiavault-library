@@ -1,15 +1,11 @@
 Section Twenty Eight
 ====================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ خُصَّ أَنْتَ أَوَّلَ ظالِمٍ بِاللَّعْنِ مِنِّي، وَابْدَأْ
-بِهِ أَوَّلاً، ثُمَّ الْعَن الثَّانِيَ وَالثَّالِثَ وَالرَّابِعَ.
-أَللَّهُمَّ الْعَنْ يَزِيدَ خامِساً، وَالْعَنْ عُبَيْدَ اللّهِ بْنَ
-زِيادٍ وَابْنَ مَرْجانَةَ وَعُمَرَ بْنَ سَعْدٍ وَشِمْراً وَآلَ أَبِي
-سُفْيانَ وَآلَ زِيادٍ وَآلَ مَرْوَانَ إِلى يَوْمِ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> أَللَّهُمَّ خُصَّ أَنْتَ أَوَّلَ ظالِمٍ بِاللَّعْنِ مِنِّي، وَابْدَأْ
+> بِهِ أَوَّلاً، ثُمَّ الْعَن الثَّانِيَ وَالثَّالِثَ وَالرَّابِعَ.
+> أَللَّهُمَّ الْعَنْ يَزِيدَ خامِساً، وَالْعَنْ عُبَيْدَ اللّهِ بْنَ
+> زِيادٍ وَابْنَ مَرْجانَةَ وَعُمَرَ بْنَ سَعْدٍ وَشِمْراً وَآلَ أَبِي
+> سُفْيانَ وَآلَ زِيادٍ وَآلَ مَرْوَانَ إِلى يَوْمِ الْقِيَامَةِ.
 
 “O’ Allah! Particularly curse the first tyrant, a curse from me, and
 begin the first curse with him and then send the curse on the second and
@@ -95,5 +91,4 @@ Marwan b. Hakam.
 The acts of aggression of the rest of those cursed in this section are
 too numerous to mention and thus, we leave this for the readers to
 investigate and research.
-
 

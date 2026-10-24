@@ -577,4 +577,3 @@ books, are given below:
 
 4. Ibn Ba Kathir.
 
-

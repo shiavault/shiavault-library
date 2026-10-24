@@ -3,21 +3,13 @@ Introduction: Events of Truth are Everlasting
 
 The Holy Qur’an illustrates 'the example of truth' in the following way:
 
-<blockquote dir="rtl">
-  <p>
-مَا عِنْدَكُمْ يَنفَدُ وَمَا عِنْدَ اللَّهِ بَاقٍ
-  </p>
-</blockquote>
+> مَا عِنْدَكُمْ يَنفَدُ وَمَا عِنْدَ اللَّهِ بَاقٍ
 
 ***What is with you vanishes and what is with Allah will endure. (Holy
 Qur'an, 16:96)***
 
-<blockquote dir="rtl">
-  <p>
- وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ ۚ كَذَٰلِكَ
-يَضْرِبُ اللَّهُ الْأَمْثَالَ 
-  </p>
-</blockquote>
+>  وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ ۚ كَذَٰلِكَ
+> يَضْرِبُ اللَّهُ الْأَمْثَالَ
 
 ***…As for the scum, it disappears like froth cast out; and as for that
 which benefits mankind, it remains on the earth. This is how Allah sets
@@ -43,11 +35,7 @@ Those events which have Divine color always remain, but those phenomena
 which concern other than Allah never subsist. The Holy Qur’an says in
 this connection:
 
-<blockquote dir="rtl">
-  <p>
-مَا عِنْدَكُمْ يَنفَدُ وَمَا عِنْدَ اللَّهِ بَاقٍ
-  </p>
-</blockquote>
+> مَا عِنْدَكُمْ يَنفَدُ وَمَا عِنْدَ اللَّهِ بَاقٍ
 
 ***What is with you vanishes and what is with Allah will
 endure...(16:96)***
@@ -57,11 +45,7 @@ models of emulation for all times. This is because every act of theirs
 was in complete obedience to Almighty Allah and the truth. In the
 radiant Ziyara of Jami'a al-Kabira we address them as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْحَقُّ مَعَكُمْ وَ فِيْكُمْ وَ مِنْكُمْ وَ…
-  </p>
-</blockquote>
+> وَ الْحَقُّ مَعَكُمْ وَ فِيْكُمْ وَ مِنْكُمْ وَ…
 
 **And truth is with you, in you, from you and...**
 
@@ -83,5 +67,4 @@ describes the son of Nuh as "innahu 'amalun ghayru salihin" (Surely he
 is a bad deed, Holy Qur'an, 11:46). Therefore, our curse reflects (1)
 our hatred towards the deeds of the perpetrators of evil, and (2) our
 stance of being against them - Author
-
 

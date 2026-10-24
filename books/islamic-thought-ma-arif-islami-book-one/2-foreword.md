@@ -94,4 +94,3 @@ Office of the Supreme Leader in the Universities
 [^1]: - Kalam is one of the religious sciences of Islam similar to
 dialectic theology. [trans.]
 
-

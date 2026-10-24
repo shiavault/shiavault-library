@@ -333,4 +333,3 @@ http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-...
 Implications for the Islamic Political Thought" in Ghadir (Toronto:
 Islamic Shí'a Ithna-'Asheri Jamaat & NASIMCO, 1990) p. 54.
 
-

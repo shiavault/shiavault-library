@@ -77,7 +77,6 @@ poverty may afflict them, and whoever is preserved from the
 niggardliness of his soul, these it is that are the successful ones."
 (59:9)
 
-
 **A Splendid Example of Staunch Faith**
 
 Abu Baseer was one of the faithful companions of Imam Jaffer Sadiq
@@ -123,5 +122,4 @@ requisite of a Muslim. Faith is the seed and good deeds the offshoot.
 
 "One who consumes intoxicants will meet the Lord at death like a
 worshipper of idols."
-
 

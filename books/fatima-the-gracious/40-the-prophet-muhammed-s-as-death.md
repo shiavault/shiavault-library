@@ -136,4 +136,3 @@ this show, which was put on, by Umar and Abu Bakr can only be part of
 this planning. The authenticity of this statement can be verified when
 minds are set free to search the pages of history books.
 
-

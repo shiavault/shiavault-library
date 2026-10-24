@@ -230,4 +230,3 @@ elegant where Ali *(‘a)* had planted the saplings he had nurtured with
 his own hands. His amazement, then at Ali’s *(‘a)* remark, vanished when
 he saw the full-grown trees with his own eyes.
 
-

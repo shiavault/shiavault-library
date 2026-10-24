@@ -348,7 +348,6 @@ Prophet dealing with what is being misunderstood by them due to the
 familiar linguistic style. They do not give any role or space for the
 mind to act on.
 
-
 **Qur'anic Method Of Interpretation**
 
 The method which is observed and planned, by Muslims, is the one that
@@ -509,5 +508,4 @@ So, in this way, a rich, intellectual, material and scientific means for
 understanding is created within reach of the researcher, thinker and
 deviser; besides showing the manner in which thoughts and concepts can
 obtain much benefit from the Holy Qur'an.
-
 

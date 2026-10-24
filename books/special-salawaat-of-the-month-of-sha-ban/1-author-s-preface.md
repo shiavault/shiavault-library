@@ -15,12 +15,8 @@ According to some the Ahadith, the first one is the month of Velayat,
 the second month is the month of Prophethood and the third month is the
 month of Allah.
 
-<blockquote dir="rtl">
-  <p>
-فقد روي عن أمير المؤمنين ع أنه كان يصومه (رجب) و يقول شهر رجب شهري و
-شعبان شهر رسول الله ص و شهر رمضان شهر الله عز و جل
-  </p>
-</blockquote>
+> فقد روي عن أمير المؤمنين ع أنه كان يصومه (رجب) و يقول شهر رجب شهري و
+> شعبان شهر رسول الله ص و شهر رمضان شهر الله عز و جل
 
 It is narrated about the Commander of the Faithful that he would fast in
 the month of Rajab and he is narrated to have said, “The month of Rajab
@@ -45,37 +41,21 @@ narrators of Ahadith like Shaikh Saduq have gathered these Ahadith in a
 book and in order to remind ourselves of the high rank of this month we
 narrate some of them here:
 
-<blockquote dir="rtl">
-  <p>
-الصدوق بسنده عن ابن عباس قال‏قال رسول الله ص و قد تذاكروا عنده فضائل
-شعبان فقال شهر شريف و هو شهري و حملة العرش تعظمه و تعرف حقه و هو شهر
-يزاد فيه أرزاق المؤمنين و هو شهر العمل فيه يضاعف الحسنة بسبعين و
-السيئة محطوطة و الذنب مغفور و الحسنة مقبولة و الجبار جل جلاله يباهي
-فيه بعباده و ينظر إلى صيامه و صوامه و قوامه و قيامه فيباهي به حملة
-العرش
-  </p>
-</blockquote>
+> الصدوق بسنده عن ابن عباس قال‏قال رسول الله ص و قد تذاكروا عنده فضائل
+> شعبان فقال شهر شريف و هو شهري و حملة العرش تعظمه و تعرف حقه و هو شهر
+> يزاد فيه أرزاق المؤمنين و هو شهر العمل فيه يضاعف الحسنة بسبعين و
+> السيئة محطوطة و الذنب مغفور و الحسنة مقبولة و الجبار جل جلاله يباهي
+> فيه بعباده و ينظر إلى صيامه و صوامه و قوامه و قيامه فيباهي به حملة
+> العرش
 
-<blockquote dir="rtl">
-  <p>
-فقام علي بن أبي طالب ع فقال بأبي أنت و أمي يا رسول الله صف لنا شيئا من
-فضائله لنزداد رغبة في صيامه و قيامه و لنجتهد للجليل عز و جل فيه‏
-  </p>
-</blockquote>
+> فقام علي بن أبي طالب ع فقال بأبي أنت و أمي يا رسول الله صف لنا شيئا من
+> فضائله لنزداد رغبة في صيامه و قيامه و لنجتهد للجليل عز و جل فيه‏
 
-<blockquote dir="rtl">
-  <p>
-فقال النبي ص من صام أول يوم من شعبان كتب الله له سبعين حسنة تعدل عبادة
-سنة ....
-  </p>
-</blockquote>
+> فقال النبي ص من صام أول يوم من شعبان كتب الله له سبعين حسنة تعدل عبادة
+> سنة ....
 
-<blockquote dir="rtl">
-  <p>
-و من صام ثلاثين يوما من شعبان ناداه جبرئيل من قدام العرش: يا هذا
-استأنف العمل عملا جديدا فقد غفر لك ما مضى و تقدم من ذنوبك
-  </p>
-</blockquote>
+> و من صام ثلاثين يوما من شعبان ناداه جبرئيل من قدام العرش: يا هذا
+> استأنف العمل عملا جديدا فقد غفر لك ما مضى و تقدم من ذنوبك
 
 Sheikh Saduq narrates from Ibn Abbas with the chain of narration, “In
 the presence of Prophet Mohammad we discussed the greatness of the month
@@ -100,17 +80,13 @@ thirty days of Shaban, Gabriel calls out to him from the front of
 Allah’s throne and says, “Start your life anew! Allah has forgiven all
 the sins that you had done!”[^4]
 
-<blockquote dir="rtl">
-  <p>
-الصدوق بسنده عن ابی عبد الله ع سمعت أبي قال‏:كان أبي زين العابدين ع
-إذا اهل شعبان جمع أصحابه فقال معاشر أصحابي أ تدرون أي شهر هذا؟ هذا شهر
-شعبان و كان رسول الله ص يقول: شعبان شهري ألا فصوموا فيه محبة لنبيكم و
-تقربا إلى ربكم فو الذي نفس علي بن الحسين بيده لسمعت أبي الحسين بن علي
-يقول سمعت أمير المؤمنين ع يقول: من صام شعبان محبة نبي الله ع و تقربا
-إلى الله عز و جل أحبه الله عز و جل و قربه من كرامته يوم القيامة و أوجب
-له الجنة
-  </p>
-</blockquote>
+> الصدوق بسنده عن ابی عبد الله ع سمعت أبي قال‏:كان أبي زين العابدين ع
+> إذا اهل شعبان جمع أصحابه فقال معاشر أصحابي أ تدرون أي شهر هذا؟ هذا شهر
+> شعبان و كان رسول الله ص يقول: شعبان شهري ألا فصوموا فيه محبة لنبيكم و
+> تقربا إلى ربكم فو الذي نفس علي بن الحسين بيده لسمعت أبي الحسين بن علي
+> يقول سمعت أمير المؤمنين ع يقول: من صام شعبان محبة نبي الله ع و تقربا
+> إلى الله عز و جل أحبه الله عز و جل و قربه من كرامته يوم القيامة و أوجب
+> له الجنة
 
 In another hadith Saduq narrates from our sixth Imam that he said, “My
 father told me that his father gathered all of his companions on the
@@ -137,11 +113,7 @@ justice after it will be filled with oppression and cruelty.”
 About the importance of this month it is enough to know that the Prophet
 has said,
 
-<blockquote dir="rtl">
-  <p>
-شعبان شهري، رحم اللّه من اعانني على شهري”
-  </p>
-</blockquote>
+> شعبان شهري، رحم اللّه من اعانني على شهري”
 
 “This month is my month and may Allah bless those who help me in this
 month”
@@ -149,12 +121,8 @@ month”
 Whoever hears this invitation must strive to respond to it and be
 included amongst the invited ones. His brother and his successor said,
 
-<blockquote dir="rtl">
-  <p>
-«ما فاتني صوم شعبان مذ سمعت منادي رسول اللّه صلّى اللّه عليه و آله و
-سلّم ينادي في شعبان، فلن يفوتني ايام حياتي ان شاء اللّه»
-  </p>
-</blockquote>
+> «ما فاتني صوم شعبان مذ سمعت منادي رسول اللّه صلّى اللّه عليه و آله و
+> سلّم ينادي في شعبان، فلن يفوتني ايام حياتي ان شاء اللّه»
 
 “I have not missed the fasting in Shaban from the time that I heard
 someone calling out at the Prophet’s order (to encourage people for the
@@ -191,5 +159,4 @@ knowledge of the Ahlul Bayt.
 [^5]: فضائل‏الأشهرالثلاثة ص : 62
 
 [^6]: المراقبات ص 166
-
 

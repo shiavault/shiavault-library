@@ -198,4 +198,3 @@ Tauba. May He bless His Messenger Muhammad (s.a.w.), his Ummat, his
 friends and his Ahlul-Bait with peace and give them plenty of Heavenly
 Rewards. Ameen.
 
-

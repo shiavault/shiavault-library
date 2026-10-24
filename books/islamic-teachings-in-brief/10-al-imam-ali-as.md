@@ -150,7 +150,6 @@ and his infinite virtues are countless. History has never witnessed a
 personality attracting as much the attention and the views of the
 scholars and philosophers of the world as he has.
 
-
 **AL-SIDDIQAH AL-KUBRA FATIMAH (AS)**
 
 Al-Siddiqah al-Kubra (the most strictly veracious) Fatimah (AS) was the
@@ -318,5 +317,4 @@ details, which has no parallel in the pages of history of world
 movements. It can definitely be said that this event serves as the basis
 for the survival of Islam. Had this event not taken place, Umayyads
 would have totally wiped off Islam.
-
 

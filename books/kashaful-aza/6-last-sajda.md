@@ -107,4 +107,3 @@ Ask on 3rd, 4th, and 15th of Shabaan. The greatest occasion of
 happiness is on the 18th of Zil Hajj. Ask on these occasions for any
 worldly pleasures for yourself from Moula (as).
 
-

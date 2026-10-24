@@ -124,7 +124,6 @@ has this fear, is it allowed for him to pick her up?
 
 In both circumstances, it is an area of doubt. G
 
-
 The Rules of Kissing
 
 205 – Rule: Kissing a Mahram is not a problem with the condition that
@@ -148,7 +147,6 @@ even if it is a stone, wood, metal, a statue, etc… AGK
 
 If by kissing in this manner (of lust) one does not ejaculate, then it
 is not haram. T
-
 
 **General Rule**
 
@@ -363,5 +361,4 @@ a specific way in front of a non-Mahram so as to make them fall into
 sin; putting on a necklace, keeping the arms and chest open with the aim
 of drawing the attention of non-Mahram women, etc… all of these and
 other such things are haram and one must refrain from performing them.
-
 

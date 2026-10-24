@@ -1451,29 +1451,17 @@ claim in this topic:
 Al-Tabarrāni and al-Bayhaqi are reported to have said: There are two
 surahs (dropped) in the Qur’ān, one being:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-إنا نستعينك ونستغفرك ونثني عليك الخير كله ولا نكفرك ونخلع ونترك من
-يفجرك
-  </p>
-</blockquote>
+> إنا نستعينك ونستغفرك ونثني عليك الخير كله ولا نكفرك ونخلع ونترك من
+> يفجرك
 
 meaning: We ask You to help us and seek Your forgiveness, and praise You
 with all good, never deny You, and disavow from and forsake whoever
 dissipates You ) . The second one is thus :
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم – اللهم إياك نعبد ولك نصلي ونسجد وإليك نسعى نحن
-نرجو رحمتك ونخشى عذابك بالكافرين ملحق.
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم – اللهم إياك نعبد ولك نصلي ونسجد وإليك نسعى نحن
+> نرجو رحمتك ونخشى عذابك بالكافرين ملحق.
 
 (Its translation is: O God, we worship You and for You we pray and
 prostrate, and toward You we endeavour and haste. We seek Your mercy and
@@ -1547,12 +1535,8 @@ Abu al-Dardā’ betook himself toward al-Madinah with a number of people
 of Damascus. On reaching, he entered upon ‘Umar ibn al-Khattab, reciting
 for him the following (alleged) verse:
 
-<blockquote dir="rtl">
-  <p>
-إذا جعل الذين كفروا في قلوبهم الحميّة حميّة الجاهلية ولو حميتم كما
-حموا لفسد المسجد الحرام.
-  </p>
-</blockquote>
+> إذا جعل الذين كفروا في قلوبهم الحميّة حميّة الجاهلية ولو حميتم كما
+> حموا لفسد المسجد الحرام.
 
 (meaning): Hamiyyah (fervour) of Jahiliyyah was made inside the hearts
 of disbelievers, and if you become impetuous as they are, corruption
@@ -1562,11 +1546,7 @@ Thereat ‘Umar asked: Who taught you to recite such reading? They
 replied: Ubayy ibn Ka’b did. He summoned Ubayy, and asked them to read
 (before him). So they read:
 
-<blockquote dir="rtl">
-  <p>
-ولو حميتم كما حموا لفسد المسجد الحرام.
-  </p>
-</blockquote>
+> ولو حميتم كما حموا لفسد المسجد الحرام.
 
 Ubayy said to ‘Umar: True, I taught them to read thus. Then ‘Umar said
 to Zayd ibn Thābit: O Zayd, read. Zayd read the common one (ordinary).
@@ -1582,11 +1562,7 @@ teach people whatever you know.”
 He (Ibn ‘Asākir) also said: ‘Umar passed by a youth reading in a
 mushaf:
 
-<blockquote dir="rtl">
-  <p>
-النبيّ أولى بالمؤمنين من أنفسهم وأزواجه أمّهاتهم وهو أب لهم.
-  </p>
-</blockquote>
+> النبيّ أولى بالمؤمنين من أنفسهم وأزواجه أمّهاتهم وهو أب لهم.
 
 (meaning: The Prophet has more right over the believers than they over
 themselves, and his wives are their mothers, and he is their father.)
@@ -1625,11 +1601,7 @@ you the trustee of the Prophet (S), other than whom no one has
 knowledge? Then he said: How do you read “By the night when it spreadeth
 its evil!”? Then I recited for him:
 
-<blockquote dir="rtl">
-  <p>
-والليّل إذا يخشى. والنهار إذا تجلّى. وما خلق الذكر والأنثى.
-  </p>
-</blockquote>
+> والليّل إذا يخشى. والنهار إذا تجلّى. وما خلق الذكر والأنثى.
 
 in 92:3). (Then He asked: Did you hear it from your teacher’s mouth?) I
 said: By God, I heard it from the Prophet’s mouth (mouth to mouth).”
@@ -1639,11 +1611,7 @@ something I heard from the Messenger of Allah, may God’s peace and
 benediction be upon him and his Progeny.[^59]
 Again, in another report he said:
 
-<blockquote dir="rtl">
-  <p>
-والليّل إذا يخشى. والنهار إذا تجلّى. وما خلق الذكر والأنثى.
-  </p>
-</blockquote>
+> والليّل إذا يخشى. والنهار إذا تجلّى. وما خلق الذكر والأنثى.
 
 Then he said: “The Prophet (s) has read it to me, from his mouth, and
 yet those people insist till it was about to reject my
@@ -1664,12 +1632,8 @@ of Allah against any married man or woman when perpetrating fornication,
 when it is proved by evidence or through the woman’s conceiving and
 confession. We also used to recite in our reading of the Book of Allah:
 
-<blockquote dir="rtl">
-  <p>
-أن لا ترغبوا عن أبائكم فإنه كفر بكم أو أن كفرا بكم إن ترغبوا عن
-أبائكم.
-  </p>
-</blockquote>
+> أن لا ترغبوا عن أبائكم فإنه كفر بكم أو أن كفرا بكم إن ترغبوا عن
+> أبائكم.
 
 (meaning: Don’t shun your parents since this will be counted as
 ingratitude on your part, or: It is ingratitude to shun your
@@ -1686,22 +1650,14 @@ your hearts, like those who went before you, should harden. Indeed we
 used to recite a surah similar in length and power to the Surat
 al-Barā’ah, which I forgot except for a single verse:
 
-<blockquote dir="rtl">
-  <p>
-لو كان لإبن أدم واديان من مال لأبتغى وادياً ثالثاً ولا يملاء جوف إبن
-أدم إلا الترَّاب.
-  </p>
-</blockquote>
+> لو كان لإبن أدم واديان من مال لأبتغى وادياً ثالثاً ولا يملاء جوف إبن
+> أدم إلا الترَّاب.
 
 We would also read a surah like one of the al-Musabbihit, which I forgot
 all except this:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين أمنوا لما تقولون ما لا تفعلون فتكتب شهادة في أعناقكم
-فتسألون عنها يوم القيامة.
-  </p>
-</blockquote>
+> يا أيها الذين أمنوا لما تقولون ما لا تفعلون فتكتب شهادة في أعناقكم
+> فتسألون عنها يوم القيامة.
 
 (meaning: O you who believe! Why say you that which you do not? Then it
 will be counted a testimony against you and you be answerable about it
@@ -2974,5 +2930,4 @@ al-Mahdi.
 [^95]: Sabā'ik al-dhahab, p. 78.
 
 [^96]: Muqaddimat Ibn Khaldun, p. 367.
-
 

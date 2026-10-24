@@ -40,4 +40,3 @@ done in the name of ‘progress’.
 Is the ‘conscience’ of modern nations merely stunned?
 Or, really dead?
 
-

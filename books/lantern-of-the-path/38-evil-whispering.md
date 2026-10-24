@@ -12,15 +12,9 @@ established in the heart, there is error, misguidance, and disbelief.
 Allah called on His bondsmen with His subtle call and told them about
 the enmity of Iblis:
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا
-  </p>
-</blockquote>
+> إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا
 
 ***Shaytan is an enemy to you, so take him as an enemy.*** (35:6)
-
 
 Be with him like a man who, standing near the shepherd's dog, has
 recourse to the dog's master in order to keep the dog away from him. It
@@ -29,17 +23,11 @@ path and make you forget to remember Allah. Then seek refuge from him
 with your Lord and his Lord. He will defend the truth against falsehood,
 and help wronged ones, since He says,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Surely he has no authority over those who believe and who rely on
 their Lord.*** (16:99)
-
 
 Man will only be able to do this if he knows how he comes, and can
 recognize his methods of whispering, by constant watchfulness, sincerity
@@ -61,5 +49,4 @@ makes your acts of obedience appear beautiful in your eye: if he opens
 ninety-nine doors of goodness for you, it is only so that he may
 overcome you by opening the hundredth. So meet him with opposition,
 block his path and reject his charm.
-
 

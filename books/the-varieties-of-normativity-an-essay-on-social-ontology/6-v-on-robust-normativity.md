@@ -107,4 +107,3 @@ while it is hard to imagine a society which did not develop a practice
 more or less identical to promising as we know it, it is downright
 impossible to think of human beings who do not intend.
 
-

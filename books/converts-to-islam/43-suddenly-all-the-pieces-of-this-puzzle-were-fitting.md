@@ -54,4 +54,3 @@ will take me closer to Allah. May Allah keep guiding me. Ameen.
  And they shall not bring to you any argument, but We have brought to
 you (one) with truth and best in significance.***
 
-

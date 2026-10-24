@@ -26,15 +26,11 @@ separate our question from ambiguity and find its borders. A good
 example is mentioned in the Holy Qur'an where God discloses the nature
 of man:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ. ثُمَّ
-جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَكِينٍ. ثُمَّ خَلَقْنَا النُّطْفَةَ
-عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
-عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا
-آخَرَ.
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ. ثُمَّ
+> جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَكِينٍ. ثُمَّ خَلَقْنَا النُّطْفَةَ
+> عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
+> عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا
+> آخَرَ.
 
 ***“And certainly we created man of an extract of clay. Then we made him
 a small seed in a firm resting-place. Then we made the seed a clot, Then
@@ -56,21 +52,13 @@ says:
  “Thus, you will observe that Allah responds to supplications that are
 not uttered by our tongues. Allah says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ وَإِنْ تَعُدُّوا نِعْمَةَ
-اللَّهِ لَا تُحْصُوهَا.
-  </p>
-</blockquote>
+> وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ وَإِنْ تَعُدُّوا نِعْمَةَ
+> اللَّهِ لَا تُحْصُوهَا.
 
 ***“And He gives you of all that you ask Him; and if you count Allah's
 favors, you will not be able to number them. 14:34 ”***
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ والأرض.
-  </p>
-</blockquote>
+> يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ والأرض.
 
 ***“All those who are in the heavens and the earth ask of him. 55:29”***
 
@@ -114,11 +102,7 @@ We shall begin this discussion with the question: Is supplication
 necessary? To answer this question, we resort to this verse of the
 Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ.
-  </p>
-</blockquote>
+> قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ.
 
 ***“Say: My Lord would not care for you were it not for your prayer.
 25:77”***
@@ -134,12 +118,8 @@ Allah's subjects would lose the ability to deserve Allah's favors.
 that originally has no prestige except for the prestige of being Allah's
 humble servant.
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمْ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ.
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمْ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ.
 
 ***“And your Lord says: call upon me, I will answer you; surely those
 who are too proud for my service shall soon enter hell abased. 40:
@@ -152,40 +132,24 @@ verses it can be understood that why the Holy Qur'an through different
 means has invited man to use supplications; for instance, the previous
 verse and the following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ
-يَأْتِيَكُمْ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ.
-  </p>
-</blockquote>
+> وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ
+> يَأْتِيَكُمْ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ.
 
 ***“And return to your Lord time after time and submit to Him before
 there comes to you the punishment, then you shall not be helped.
 39:54”***
 
-<blockquote dir="rtl">
-  <p>
-وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ.
-  </p>
-</blockquote>
+> وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ.
 
 ***“And (He) guides to Himself him who turns (to Him) frequently. 42:
 13”***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ.
-  </p>
-</blockquote>
+> وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ.
 
 ***“And none minds but he who turns to Him again and again. 40:13”***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا وَأَنَابُوا
-إِلَى اللَّهِ لَهُمْ الْبُشْرَى.
-  </p>
-</blockquote>
+> وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا وَأَنَابُوا
+> إِلَى اللَّهِ لَهُمْ الْبُشْرَى.
 
 ***“And as for those who keep off from the worship of the idols and turn
 to Allah, they shall have good news. 39: 17”***
@@ -201,22 +165,14 @@ matter to such an extent that no sufferer or miserable person could
 bring excuses when not practicing supplication. In *Al-Mahajjat
 al-Baydhaa*, it is narrated from Imam as-Sadiq (s):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ عِندَ اللهِ مَنْزِلَةً لا تُنالُ إلاّ بالمَسْألَةِ.
-  </p>
-</blockquote>
+> إنَّ عِندَ اللهِ مَنْزِلَةً لا تُنالُ إلاّ بالمَسْألَةِ.
 
 “There is an honorable position near Allah which can be earned only
 through supplication.”[^4]
 
 It is also narrated from Imam Ali (s):
 
-<blockquote dir="rtl">
-  <p>
-إدْفَعوا أمْواجَ البَلاءِ بِالدُّعاءِ.
-  </p>
-</blockquote>
+> إدْفَعوا أمْواجَ البَلاءِ بِالدُّعاءِ.
 
 “Be safe from the waves of disasters by supplication.”[^5]
 
@@ -237,11 +193,7 @@ existence and to other creatures' existence as well.”
 For further elaboration, let us refer to the words, which Allamah
 Tabatabai has added when talking about this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ يَسْجُدُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ.
-  </p>
-</blockquote>
+> وَلِلَّهِ يَسْجُدُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ.
 
 ***“And whoever that is in the heavens and the earth makes obeisance to
 Allah only. 13:15 and 16:49,”***
@@ -333,23 +285,15 @@ existence is a tongue which always asks Almighty God for its continuity.
 This is because if at any fraction of a second He decides to cut off His
 favors, everything becomes null and void. Thus, God has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ
-إِلَّا بِقَدَرٍ مَعْلُومٍ.
-  </p>
-</blockquote>
+> وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ
+> إِلَّا بِقَدَرٍ مَعْلُومٍ.
 
 ***“And there is not a thing but with Us are the treasures of it, and we
 do not send it down but in a known measure. 15:21”***
 
 God has also said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ.
-  </p>
-</blockquote>
+> إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ.
 
 ***“If He pleases, He will take you off and bring a new creation.
 14:19”***
@@ -437,13 +381,9 @@ But a delay in responding to it by Allah might be due to the secret
 behind that issue. Imam Ali (s) writes in his will to his son Imam
 Hassan (s):
 
-<blockquote dir="rtl">
-  <p>
-وَرُبَما سَألْتَ الشَّيْءَ فَلا تُؤتاهُ وَأُوتِيتَ خَيراً مِنهُ
-عاجِلاً أوْ آجِلاً أوْ صُرِفَ عَنْكَ لِما هُو خَيرٌ لَكَ؛ فَلَرُبّ
-أمْرٍ قَد طَلَبْتَهُ فِيهِ هَلاكُ دِينِكَ لَو أُوتِيتَهُ.
-  </p>
-</blockquote>
+> وَرُبَما سَألْتَ الشَّيْءَ فَلا تُؤتاهُ وَأُوتِيتَ خَيراً مِنهُ
+> عاجِلاً أوْ آجِلاً أوْ صُرِفَ عَنْكَ لِما هُو خَيرٌ لَكَ؛ فَلَرُبّ
+> أمْرٍ قَد طَلَبْتَهُ فِيهِ هَلاكُ دِينِكَ لَو أُوتِيتَهُ.
 
 “Sometimes you ask Allah, the Almighty, for something, but you are not
 given what you have asked for or you may be given something better than
@@ -465,13 +405,9 @@ the secrets behind his demand, he not only would reject it but he would
 try to keep away from it. It is narrated that once Imam Ali (s) heard a
 man saying, “O God, protect me against seditions,” Imam Ali (s) said:
 
-<blockquote dir="rtl">
-  <p>
-أَراكَ تَتَعَوّذُ مِن مالِكَ وَولدِكَ، يَقولُ اللهُ تَعالى: “أنمَّا
-أمْوالُكُم وَأوْلادُكُمْ فِتْنَةٌ.” وَلكِنْ قُلْ: اللّهُمَّ إنّي
-أَعوذُ بِكَ مِن مُضِلاّتِ الفِتَنِ.
-  </p>
-</blockquote>
+> أَراكَ تَتَعَوّذُ مِن مالِكَ وَولدِكَ، يَقولُ اللهُ تَعالى: “أنمَّا
+> أمْوالُكُم وَأوْلادُكُمْ فِتْنَةٌ.” وَلكِنْ قُلْ: اللّهُمَّ إنّي
+> أَعوذُ بِكَ مِن مُضِلاّتِ الفِتَنِ.
 
 “By using this supplication you are asking God to let you keep away from
 your wife, children and your wealth because Allah, the Almighty has
@@ -479,12 +415,8 @@ said: your wealth and your children are seditions. You are to say: O
 God, I seek Your protection the misleading seditions.”  
  Elsewhere, Imam Ali (s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَرُبَّ أمْرٍِِِ حَرَصَ الأنْسانُ عَلَيهِ فَلمّا أدْرَكهُ وَدَّ أنْ
-لَمْ يَكنْ أدْرَكهُ.
-  </p>
-</blockquote>
+> وَرُبَّ أمْرٍِِِ حَرَصَ الأنْسانُ عَلَيهِ فَلمّا أدْرَكهُ وَدَّ أنْ
+> لَمْ يَكنْ أدْرَكهُ.
 
 “There may be something that one tries his best to get but when he gets
 it, he wished he had not got it.”
@@ -502,13 +434,9 @@ advantages are. Hafiz, the Iranian famous poet, says:
 
 In the supplication of (*al-Iftitah*), we read:
 
-<blockquote dir="rtl">
-  <p>
-فَإنْ أبْطَأَ عَنيّ عَتِبْتُ بِجَهْلي عَلَيْكَ، وَلَعَلَّ الّذي أبْطَأ
-عَنيّ هُوَ خَيرٌ لِي لِعِلْمِكَ بِعاقِبَةِ الأُمُورِ، فَلَمْ أَرَ
-مَولىً كَريماً أصْبَرَ عَلى عَبْدٍ لَئيمٍ مِنْكَ عَلَيَّ يا رَبِّ.
-  </p>
-</blockquote>
+> فَإنْ أبْطَأَ عَنيّ عَتِبْتُ بِجَهْلي عَلَيْكَ، وَلَعَلَّ الّذي أبْطَأ
+> عَنيّ هُوَ خَيرٌ لِي لِعِلْمِكَ بِعاقِبَةِ الأُمُورِ، فَلَمْ أَرَ
+> مَولىً كَريماً أصْبَرَ عَلى عَبْدٍ لَئيمٍ مِنْكَ عَلَيَّ يا رَبِّ.
 
 “O my Lord! If it is delayed, I complain because of my ignorance and
 perhaps the delay is better for me for You know the ends of the matters…
@@ -517,14 +445,10 @@ mean servant like me, O my Lord!”
 
 Imam as-Sadiq (s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْرِفْ طُرُقَ نَجاتِكَ وَهَلاكِكَ كَيْلا تَدعُوَ اللهَ بِشَيْءٍ
-مِنهُ هَلاكُكَ وَأنْتَ تَظُنُّ فِيهِ نَجاتَكَ. قالَ الله عَزَّ
-وَجَلَّ: “وَيَدْعُ الْإِنسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ
-وَكَانَ الْإِنسَانُ عَجُولًا.”
-  </p>
-</blockquote>
+> وَاعْرِفْ طُرُقَ نَجاتِكَ وَهَلاكِكَ كَيْلا تَدعُوَ اللهَ بِشَيْءٍ
+> مِنهُ هَلاكُكَ وَأنْتَ تَظُنُّ فِيهِ نَجاتَكَ. قالَ الله عَزَّ
+> وَجَلَّ: “وَيَدْعُ الْإِنسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ
+> وَكَانَ الْإِنسَانُ عَجُولًا.”
 
 “Know the ways of your deliverance and perdition lest you ask Allah for
 something that makes you perish whereas you think it will deliver you.
@@ -567,15 +491,11 @@ In this concern, it is narrated that somebody has come to Imam Ali (s)
 and told him: “Today Bilal was arguing with an Arab and he committed an
 error in his speech and the man laughed at him”. Imam Ali (s) replied:
 
-<blockquote dir="rtl">
-  <p>
-يا عَبدَ اللهِ، إنمَّا يُرادُ إعْراب الكَلامِ وَتَقْويمُه الأعمال
-وتَهذِيبها، ما يَنْفَعُ فُلاناً إعْرابُه وَتقْويمُه لِكَلامهِ إذا
-كانَتْ أفْعالُه مَلحونَةً أقْبحَ لَحْنٍ، وَماذا يَضُرُّ بِلالاً
-لحْنُهُ في كَلامِه إذا كانَتْ أفعالُهُ مُقَومَةً أحْسَنَ تَقويمٍ
-وَمُهذّبةً أحسنَ تَهذيبٍ.
-  </p>
-</blockquote>
+> يا عَبدَ اللهِ، إنمَّا يُرادُ إعْراب الكَلامِ وَتَقْويمُه الأعمال
+> وتَهذِيبها، ما يَنْفَعُ فُلاناً إعْرابُه وَتقْويمُه لِكَلامهِ إذا
+> كانَتْ أفْعالُه مَلحونَةً أقْبحَ لَحْنٍ، وَماذا يَضُرُّ بِلالاً
+> لحْنُهُ في كَلامِه إذا كانَتْ أفعالُهُ مُقَومَةً أحْسَنَ تَقويمٍ
+> وَمُهذّبةً أحسنَ تَهذيبٍ.
 
 “O Servant of God! Nothing will benefit anyone whose doings are wrong
 whereas his supplication is correct…nothing will harm Bilal if he
@@ -583,14 +503,10 @@ mistakes in uttering his supplication whereas his doings are of the best
 doings.”  
  We read in a tradition narrated from Imam al-Jawad (s):
 
-<blockquote dir="rtl">
-  <p>
-ما أسْتَوى رَجُلانِ في حَسَبٍ ودِينٍ قَطُّ إلاّ كانَ أفْضَلَهُما عِندَ
-اللهِ عزَّ وَجَلَّ آدابُهُما… بِقِراءَةِ القُرْآنِ كَما أُنزِلَ
-وَدُعائِهِ اللهَ عَزّ وَجَلَّ مِن حَيثُ لا يَلحَنُ، وَذلِكَ أنَّ
-الدُّعاءَ المَلحونَ لا يَصعَدُ إلى اللهِ عَزَّ وجَلَّ.
-  </p>
-</blockquote>
+> ما أسْتَوى رَجُلانِ في حَسَبٍ ودِينٍ قَطُّ إلاّ كانَ أفْضَلَهُما عِندَ
+> اللهِ عزَّ وَجَلَّ آدابُهُما… بِقِراءَةِ القُرْآنِ كَما أُنزِلَ
+> وَدُعائِهِ اللهَ عَزّ وَجَلَّ مِن حَيثُ لا يَلحَنُ، وَذلِكَ أنَّ
+> الدُّعاءَ المَلحونَ لا يَصعَدُ إلى اللهِ عَزَّ وجَلَّ.
 
 “If two men are equal due to their ancestry and faith, the politer of
 them will be better near Allah.” The narrator asked him, “What is his
@@ -618,14 +534,10 @@ the fact that it was inadvisable. This same content is observed in
 numerous supplications and traditions. Imam Ali (s) in “Kumayl
 supplication” says to God:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ مَولايَ، كَمْ مِنْ قَبيحٍ سَتَرْتَهُ وَكَمْ مِنْ فادِحٍ
-مِن البَلاءِ أقَلْتَهُ وَكَمْ مِنْ عَثارٍ وَقَيْتَهُ وَكَمْ مِنْ
-مَكرُوهٍ دَفَعْتَهُ وَكَمْ مِنْ ثَناءٍ جَميلٍ لَسْتُ أهْلاً لَهُ
-نَشَرْتَهُ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ مَولايَ، كَمْ مِنْ قَبيحٍ سَتَرْتَهُ وَكَمْ مِنْ فادِحٍ
+> مِن البَلاءِ أقَلْتَهُ وَكَمْ مِنْ عَثارٍ وَقَيْتَهُ وَكَمْ مِنْ
+> مَكرُوهٍ دَفَعْتَهُ وَكَمْ مِنْ ثَناءٍ جَميلٍ لَسْتُ أهْلاً لَهُ
+> نَشَرْتَهُ.
 
 “O my Lord, how many bad doings I have done but You have covered them,
 how many serious disasters You have saved me from, how many troubles You
@@ -633,26 +545,18 @@ have removed from my way, how many misfortunes You have got me rid of
 and how much fine praise that I do not deserve You have spread!”  
  And we read in the supplication of *al-Iftitah*:
 
-<blockquote dir="rtl">
-  <p>
-فَكمْ يا إلهِٰي مِنْ كرْبَةٍ قَدْ فَرَّجْتَها وَهُمُومٍ قَدْ كشَفْتَها
-وَعَثْرَةٍ قَدْ أقَلْتَها وَرَحْمَةٍ قَدْ نَشَرْتَها وَحَلَقَةِ بَلاءٍ
-قَدْ فَككتَها.
-  </p>
-</blockquote>
+> فَكمْ يا إلهِٰي مِنْ كرْبَةٍ قَدْ فَرَّجْتَها وَهُمُومٍ قَدْ كشَفْتَها
+> وَعَثْرَةٍ قَدْ أقَلْتَها وَرَحْمَةٍ قَدْ نَشَرْتَها وَحَلَقَةِ بَلاءٍ
+> قَدْ فَككتَها.
 
 “O my Lord, how many distresses You have relieved me of, how many griefs
 You have dispelled, how many troubles You have removed, how many mercies
 You have spread, how many ordeals You have kept (me) safe from.”  
  The Prophet (s) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَامَ يَومَ الإثْنَينِ وَالخَميسِ مِن شَعْبانَ قَضَى لَهُ
-عِشْرِينَ حاجَةً مِنْ حَوائِجِ الدُّنيا وَعِشرينَ حَاجَةً مِن حَوائِجِ
-الآخِرَةِ.
-  </p>
-</blockquote>
+> مَنْ صَامَ يَومَ الإثْنَينِ وَالخَميسِ مِن شَعْبانَ قَضَى لَهُ
+> عِشْرِينَ حاجَةً مِنْ حَوائِجِ الدُّنيا وَعِشرينَ حَاجَةً مِن حَوائِجِ
+> الآخِرَةِ.
 
 “Anybody who goes on fasting on Mondays and Thursdays in the month of
 Sha'ban, Allah will satisfy twenty of his worldly needs and twenty of
@@ -670,22 +574,14 @@ infant's food which is made ready in the mother's breasts even before
 its birth. This food is needed by the child. In the holy Qur'an, we
 read:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ والأرض.
-  </p>
-</blockquote>
+> يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ والأرض.
 
 ***“All those who are in the heavens and the earth ask of him. 55:29”***
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ وَإِنْ تَعُدُّوا نِعْمَةَ
-اللَّهِ لَا تُحْصُوهَا.
-  </p>
-</blockquote>
+> وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ وَإِنْ تَعُدُّوا نِعْمَةَ
+> اللَّهِ لَا تُحْصُوهَا.
 
 ***“And He gives you of all that you ask Him; and if you count Allah's
 favors, you will not be able to number them. 14:34”***
@@ -757,20 +653,12 @@ wishes for his healing, but he does not take the necessary medicines. In
 such cases, no doubt, supplication is not influential. In this
 connection, Imam Ali (s) tells Imam Hassan (s):
 
-<blockquote dir="rtl">
-  <p>
-العَطِيَّةُ عَلى قَدْرِ النّيَّّةِ.
-  </p>
-</blockquote>
+> العَطِيَّةُ عَلى قَدْرِ النّيَّّةِ.
 
 “The gift of Allah will be as much as one's intention.”  
  Imam Ali (s) says:
 
-<blockquote dir="rtl">
-  <p>
-لا يَقْبَلُ اللهُ دُعاءَ قَلْبِ لاهٍٍ.
-  </p>
-</blockquote>
+> لا يَقْبَلُ اللهُ دُعاءَ قَلْبِ لاهٍٍ.
 
 “Allah will not respond to the supplication of a heedless heart.”[^9]  
  In *Tafseer Al-Mizan*, concerning this tradition, we read:“The secret
@@ -780,13 +668,9 @@ not genuine and sincere.”
 Research on one verse of the Qur’an
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِي إِذَا دَعَانِي فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
-لَعَلَّهُمْ يَرْشُدُونَ.
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِي إِذَا دَعَانِي فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
+> لَعَلَّهُمْ يَرْشُدُونَ.
 
 ***“And when My servants ask you concerning Me, then surely I am very
 near; I answer the prayer of the suppliant when he calls on Me, so they
@@ -845,5 +729,4 @@ Apostle when he calls you to that which gives you life. 8:24”
 [^8]: Tafsir Al-Mizan, vol. 10, p. 39.
 
 [^9]: Uddat al-Da’ee, p. 97.
-
 

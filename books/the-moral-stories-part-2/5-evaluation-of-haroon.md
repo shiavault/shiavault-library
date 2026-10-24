@@ -115,4 +115,3 @@ behind.for them:
 you will never go astray: The Book of Allah (the Holy Qura'n) and my
 progeny (the people of my house)
 
-

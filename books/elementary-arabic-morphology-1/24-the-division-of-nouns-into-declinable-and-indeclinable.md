@@ -23,11 +23,7 @@ it is represented by:
 
 • *Wāw* in the masculine sound plurals and the five nouns which are:
 
-<blockquote dir="rtl">
-  <p>
-اب اخ حم فم ذو
-  </p>
-</blockquote>
+> اب اخ حم فم ذو
 
 (possessor, mouth, father-in-law, brother, father)
 
@@ -45,5 +41,4 @@ it is represented by:
  • *Yā'* in the dual forms, masculine sound plurals and the five nouns.
 
 • *Fathah* in the unnonated nouns.
-
 

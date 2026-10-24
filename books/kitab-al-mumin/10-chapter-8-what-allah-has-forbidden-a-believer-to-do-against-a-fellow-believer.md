@@ -4,12 +4,8 @@ Chapter  8: What Allah has Forbidden a Believer to do Against a Fellow Believer
 > 8 - باب ما حرم الله(جلّ جلاله) على المؤمن من حرمة أخيه المؤمن
 
 > 171 - وعن زرارة قال: سمعت أبا عبد الله (ع) يقول  
-<blockquote dir="rtl">
-  <p>
- أقربُ ما يكونُ العبدُ إلى الكُفرِ أن يكونَ الرّجلُ مواخِياً للرجُلِ
-على الدّينِ ثم يحفَظُ زلاتِه وعثَراتِه ليضَعَه بها يوماً ما.
-  </p>
-</blockquote>
+>  أقربُ ما يكونُ العبدُ إلى الكُفرِ أن يكونَ الرّجلُ مواخِياً للرجُلِ
+> على الدّينِ ثم يحفَظُ زلاتِه وعثَراتِه ليضَعَه بها يوماً ما.
 
 171. It has been related that Zurarah said: I heard Abu 'Abd Allah [a.s]
 saying:  
@@ -18,13 +14,9 @@ one to be his brother-in-faith then the latter keeps track of his
 mistakes and slips that he may use them against him someday.[^1]
 
 > 172 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- من بهَتَ مؤمناً أو مؤمنةً بما لَيس فيه بعثَهُ اللهُ (جلّ جلاله) في
-طينةِ خبالٍ حتى يخرُجَ ممّا قال.  
- قلت: وما طينة الخبال؟ قال: صديدٌ يخرجُ من فُروج المومِساتِ.
-  </p>
-</blockquote>
+>  من بهَتَ مؤمناً أو مؤمنةً بما لَيس فيه بعثَهُ اللهُ (جلّ جلاله) في
+> طينةِ خبالٍ حتى يخرُجَ ممّا قال.
+>  قلت: وما طينة الخبال؟ قال: صديدٌ يخرجُ من فُروج المومِساتِ.
 
 172. It has been reported that Abu 'Abd Allah [a.s] said:  
  One who accuses a believing man or believing woman falsely will be
@@ -35,12 +27,8 @@ unsays it.
 [a.s] replied.[^2]
 
 > 173 - وعن أبي عبد الله (ع) قال: قال النبي (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن أذاعَ فاحشةً كان كمُبتدِئِها، ومَن عَيَّرَ مؤمناً بشئٍ لم يمُتْ
-حتى يركَبَه.
-  </p>
-</blockquote>
+>  مَن أذاعَ فاحشةً كان كمُبتدِئِها، ومَن عَيَّرَ مؤمناً بشئٍ لم يمُتْ
+> حتى يركَبَه.
 
 173. It has been reported that Abu 'Abd Allah [a.s] said: The Prophet
 [a.s] said:  
@@ -49,13 +37,9 @@ who dishonors a believer of something will not die until he perpetrates
 it himself.[^3]
 
 > 174 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- ما مِن مؤمنَين إلاّ وبينهُما حجابٌ، فإن قال له لستَ لي بوَليٍّ فقد
-كَفرَ، فإن إتَّهَمهُ فقد انماثَ الإيمانُ في قلبِه كما ينماثُ الملحُ في
-الماء.
-  </p>
-</blockquote>
+>  ما مِن مؤمنَين إلاّ وبينهُما حجابٌ، فإن قال له لستَ لي بوَليٍّ فقد
+> كَفرَ، فإن إتَّهَمهُ فقد انماثَ الإيمانُ في قلبِه كما ينماثُ الملحُ في
+> الماء.
 
 174. It has been reported that Abu 'Abd Allah [a.s] said:  
  Between every two believers there is a covering (that binds them); if
@@ -64,13 +48,9 @@ commits apostasy; and if he accuses him of something, faith will
 dissolve in his heart like salt in water.[^4]
 
 > 175 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- لَو قالَ الرّجلُ لأخيه أُفٍّ لكَ انقطعَ ما بينهُما، فإذا قالَ له:
-أنتَ عدُوّي فقد كفرَ أحدُهما، فإن اتَّهمهُ انماثَ الإيمانُ في قلبه كما
-ينماثُ الملحُ في الماء.
-  </p>
-</blockquote>
+>  لَو قالَ الرّجلُ لأخيه أُفٍّ لكَ انقطعَ ما بينهُما، فإذا قالَ له:
+> أنتَ عدُوّي فقد كفرَ أحدُهما، فإن اتَّهمهُ انماثَ الإيمانُ في قلبه كما
+> ينماثُ الملحُ في الماء.
 
 175. It has been reported that Abu 'Abd Allah [a.s] said:  
  If a person says to his brother the lease expression of contempt, he
@@ -79,23 +59,15 @@ enemy,' one of them has then committed apostasy; and if he accuses him
 falsely, faith will dissolve in his heart like salt in water.[^5]
 
 > 176 - وقال النبي (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن لا يعرفُ لأخيه مثلَ ما يعرف له فَليس بأخيه.
-  </p>
-</blockquote>
+>  مَن لا يعرفُ لأخيه مثلَ ما يعرف له فَليس بأخيه.
 
 176. The Prophet [a.s] has said:  
  One who does not care to know of his brother what he knows of him is
 not his brother.[^6]
 
 > 177 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- أبى اللهُ أنْ يظُنَّ بالمؤمن إلاّ خيراً، وكسْرُ عظمِ المؤمن ميتاً
-ككسرِه حيّاً.
-  </p>
-</blockquote>
+>  أبى اللهُ أنْ يظُنَّ بالمؤمن إلاّ خيراً، وكسْرُ عظمِ المؤمن ميتاً
+> ككسرِه حيّاً.
 
 177. It has been reported that Abu 'Abd Allah [a.s] said:  
  It is Allah's will that a believer should always be thought of well;
@@ -103,24 +75,16 @@ and to humiliate a dead believer is like humiliating him whilst
 alive.[^7]
 
 > 178 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- ما مِن مؤمنٍ يخذلُ أخاه وهو يقدِرُ على نُصرتِه إلاّ خذلهُ اللهُ (جلّ
-جلاله) في الدّنيا والآخرَة.
-  </p>
-</blockquote>
+>  ما مِن مؤمنٍ يخذلُ أخاه وهو يقدِرُ على نُصرتِه إلاّ خذلهُ اللهُ (جلّ
+> جلاله) في الدّنيا والآخرَة.
 
 178. It has been reported that Abu 'Abd Allah [a.s] said:  
  Any believer that disappoints his brother while he is able to help him,
 Allah will desert him in the world and the hereafter.[^8]
 
 > 179 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- أيّما مؤمنٍ سأل أخاه المؤمنَ حاجةً وهو يقدرُ على قضائها فردَّه بها
-سلَّطَ اللهُ عليه شُجاعاً في قبره ينهشُ أصابعَه.
-  </p>
-</blockquote>
+>  أيّما مؤمنٍ سأل أخاه المؤمنَ حاجةً وهو يقدرُ على قضائها فردَّه بها
+> سلَّطَ اللهُ عليه شُجاعاً في قبره ينهشُ أصابعَه.
 
 179. It has been reported that Abu 'Abd Allah [a.s] said:  
  If any believer asks a fellow believer for help but the other refuses
@@ -128,11 +92,7 @@ though he is able to do, Allah will impose a serpent in his grave biting
 his fingers.[^9]
 
 > 180 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- أيّما مؤمنٍ مشى مع أخيه في حاجةٍ ولم يُناصحْه فقد خانَ اللهَ ورسولَه.
-  </p>
-</blockquote>
+>  أيّما مؤمنٍ مشى مع أخيه في حاجةٍ ولم يُناصحْه فقد خانَ اللهَ ورسولَه.
 
 180. It has been narrated that Abu 'Abd Allah [a.s] said:  
  Any believer who goes with his brother for a need to help him and does
@@ -140,12 +100,8 @@ not counsel him correctly has been disloyal to Allah and His
 Messenger.[^10]
 
 > 181 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- لا تَستخِفَّ بأخيكَ المؤمنِ فيرحمُهُ اللهُ (جلّ جلاله) عندَ استخفافِك
-ويُغيّر ما بِك.
-  </p>
-</blockquote>
+>  لا تَستخِفَّ بأخيكَ المؤمنِ فيرحمُهُ اللهُ (جلّ جلاله) عندَ استخفافِك
+> ويُغيّر ما بِك.
 
 181. It has been narrated that Abu 'Abd Allah [a.s] said:  
  Do not belittle your brother-in-faith lest Allah [M.G] should show
@@ -153,12 +109,8 @@ mercy to him while you are belittling him and your circumstances should
 change for worse.[^11]**200**
 
 > 182 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن حقَّر مؤمناً فقيراً لم يزلِ اللهُ (جلّ جلاله) له حاقراً ماقتاً
-حتى يرجعَ عن محقرتِه إيّاه.
-  </p>
-</blockquote>
+>  مَن حقَّر مؤمناً فقيراً لم يزلِ اللهُ (جلّ جلاله) له حاقراً ماقتاً
+> حتى يرجعَ عن محقرتِه إيّاه.
 
 182. It has been reported that Abu 'Abd Allah [a.s] said:  
  If one belittles a destitute believer, Allah [M.G] will not cease
@@ -166,13 +118,9 @@ scorning and loathing him until he makes up for his looking down on the
 believer.[^12]
 
 > 183 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن أدخل السّرورَ على مؤمنٍ فقد أدخلَه على رسولُ الله (ص)، ومَن أدخلَ
-على رسول الله (ص) فقَد وصَل ذلك إلى الله (جلّ جلاله)، وكذلك مَن أدخل
-عليه كرباً.
-  </p>
-</blockquote>
+>  مَن أدخل السّرورَ على مؤمنٍ فقد أدخلَه على رسولُ الله (ص)، ومَن أدخلَ
+> على رسول الله (ص) فقَد وصَل ذلك إلى الله (جلّ جلاله)، وكذلك مَن أدخل
+> عليه كرباً.
 
 183. It has been reported that Abu 'Abd Allah [a.s] said:  
  One who brings happiness to a believer has in fact brought it to the
@@ -181,13 +129,9 @@ of Allah [a.s] has had the happiness reached Allah [M.G]; and the same
 is for one who causes him distress.[^13]
 
 > 184 - وعن أبي عبد الله (ع) أنه قال: قال رسول الله (ص): قال الله (جلّ
-<blockquote dir="rtl">
-  <p>
-جلاله  
- مَن أهان لي وليّاً فقد أرصدَ لمحارَبتي. وأنا أسرُع شئ إلى نُصرة
-أوليائي.
-  </p>
-</blockquote>
+> جلاله
+>  مَن أهان لي وليّاً فقد أرصدَ لمحارَبتي. وأنا أسرُع شئ إلى نُصرة
+> أوليائي.
 
 184. It has been reported that Abu 'Abd Allah [a.s] said: the Messenger
 of Allah [a.s] said: Allah [M.G] says:  
@@ -195,12 +139,8 @@ of Allah [a.s] said: Allah [M.G] says:
 I am the swiftest in coming to My friends' aid.[^14]
 
 > 185 - وعن المعلى بن خنيس قال: سمعته يقول: إن الله (جلّ جلاله) يقول  
-<blockquote dir="rtl">
-  <p>
- مَن أهان لي وليّاً فقد أرصدَ لمحاربتي، وأنا أسرعُ شئ إلى نُصرة
-أوليائي.
-  </p>
-</blockquote>
+>  مَن أهان لي وليّاً فقد أرصدَ لمحاربتي، وأنا أسرعُ شئ إلى نُصرة
+> أوليائي.
 
 185. It has been narrated that al-Mu'alla ibn Khunays said: I heard
 al-Sadiq [a.s] saying: Most surely, Allah [M.G] has declared:  
@@ -208,12 +148,8 @@ al-Sadiq [a.s] saying: Most surely, Allah [M.G] has declared:
 and I am the swiftest of all in coming to My friends' rescue.[^15]
 
 > 186 - وعن أبي عبد الله (ع) أنه قال: نزل جبرئيل على النبي (ص) وقال له:
-<blockquote dir="rtl">
-  <p>
-يا محمد إن ربك يقول:  
- مَن أهان عبدي المؤمنَ فقد استقبلني بالمحُاربة.
-  </p>
-</blockquote>
+> يا محمد إن ربك يقول:
+>  مَن أهان عبدي المؤمنَ فقد استقبلني بالمحُاربة.
 
 186. It has been narrated that Abu 'Abd Allah [a.s] said that Archangel
 Gabriel descended to the Prophet [a.s] and said, 'O Muhammad, your Lord
@@ -222,12 +158,8 @@ says:
 war.'[^16]
 
 > 187 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن سترَ عَورة مؤمنٍ سترَ اللهُ (جلّ جلاله) عورتَه يوم القيامةِ، ومَن
-هتكَ سترَ مؤمن هتكَ الله سِترَه يوم القيامة.
-  </p>
-</blockquote>
+>  مَن سترَ عَورة مؤمنٍ سترَ اللهُ (جلّ جلاله) عورتَه يوم القيامةِ، ومَن
+> هتكَ سترَ مؤمن هتكَ الله سِترَه يوم القيامة.
 
 187. It has been narrated that Abu 'Abd Allah [a.s] said:  
  Whoever conceals the shame of a believer, Allah will conceal his shame
@@ -235,13 +167,9 @@ on the Day of Resurrection; and whoever exposes a believer, Allah will
 expose him on the Day of Resurrection.[^17]
 
 > 188 - وعن أبي جعفر (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- لا ترموا المؤمنين ولا تتّبعوا عثراتِهم، فإنّه مَن يتبعْ عثرةَ مؤمنٍ
-يتبعِ اللهُ (جلّ جلاله) عثرتَه، ومن يتبعِ الله (جلّ جلاله) عثرتَه
-يفضَحْه في بَيتِه.
-  </p>
-</blockquote>
+>  لا ترموا المؤمنين ولا تتّبعوا عثراتِهم، فإنّه مَن يتبعْ عثرةَ مؤمنٍ
+> يتبعِ اللهُ (جلّ جلاله) عثرتَه، ومن يتبعِ الله (جلّ جلاله) عثرتَه
+> يفضَحْه في بَيتِه.
 
 188. It has been narrated that Abu Ja'far [a.s] said:  
  Do not revile at the believers and do not try and uncover their faults;
@@ -250,12 +178,8 @@ and if Allah discloses a person's faults, he will be disgraced even in
 his own home.[^18]
 
 > 189 - وعن أبي جعفر (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن أدخَل على رجُلٍ من شيعتِنا سروراً فقد أدخلَه على رسولِ الله (ص)،
-وكذلك مَن أدخل عليه أذىً أو غمّاً.
-  </p>
-</blockquote>
+>  مَن أدخَل على رجُلٍ من شيعتِنا سروراً فقد أدخلَه على رسولِ الله (ص)،
+> وكذلك مَن أدخل عليه أذىً أو غمّاً.
 
 189. It has been narrated that Abu Ja'far [a.s] said:  
  Whoever makes one of our Shi'ah happy will make happy the Messenger of
@@ -263,12 +187,8 @@ Allah [a.s]; and the same is said about one who offends or causes
 grief.[^19]
 
 > 190 - عن عبد الله بن سنان قال: قلت لأبي عبد الله (ع): عورة المؤمن على
-<blockquote dir="rtl">
-  <p>
-المؤمن حرام؟ قال: نعم، قلت: يعني سبيليه؟ فقال:  
- لَيس حيثُ تذهبُ، إنّما هو إذاعةُ سرِّه.
-  </p>
-</blockquote>
+> المؤمن حرام؟ قال: نعم، قلت: يعني سبيليه؟ فقال:
+>  لَيس حيثُ تذهبُ، إنّما هو إذاعةُ سرِّه.
 
 190. It has been narrated that 'Abd Allah ibn Sinan said:  
  I said to Abu 'Abd Allah [a.s], 'it is true that believers are
@@ -278,26 +198,18 @@ replied. 'Does this mean physical nakedness?' I asked.
 secrets.'[^20]
 
 > 191 - وعنه (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن قالَ في مؤمنٍ ما ليسَ فيه بعثَه اللهُ (جلّ جلاله) في طينةِ خبالٍ
-حتى يخرجَ ممّا قال فيه.
-  </p>
-</blockquote>
+>  مَن قالَ في مؤمنٍ ما ليسَ فيه بعثَه اللهُ (جلّ جلاله) في طينةِ خبالٍ
+> حتى يخرجَ ممّا قال فيه.
 
 191. And from him (al-Sadiq) [a.s] it is reported that he said:  
  One who accuses a believing man or believing woman falsely will be
 raised on the Day of Judgment by Allah in a messy substance unless he
 unsays it.[^21]
 
-<blockquote dir="rtl">
-  <p>
-وقال: إنّما الغيبةُ أن تقولَ في أخيك ما هو فيه ممّا قد سترَهُ الله
-(جلّ جلاله) علَيه، فاذا قُلتَ فيه ما ليس فيه، فذلك قولُ الله (جلّ
-جلاله) في كتابِه: ﴿وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ
-بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُّبِينًا﴾
-  </p>
-</blockquote>
+> وقال: إنّما الغيبةُ أن تقولَ في أخيك ما هو فيه ممّا قد سترَهُ الله
+> (جلّ جلاله) علَيه، فاذا قُلتَ فيه ما ليس فيه، فذلك قولُ الله (جلّ
+> جلاله) في كتابِه: ﴿وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ
+> بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُّبِينًا﴾
 
 He also said: Backbiting (***ghibah***) is to say about your brother
 what is true but Allah has hidden; for when you say about him what is
@@ -306,15 +218,11 @@ himself the burden of a calumny and a manifest sin. [Holy Quran
 4/112]'[^22]
 
 > 192 - وعن أبي عبد الله (ع) أنه قال: قال النبي (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن كان يؤمنُ باللهِ واليَوم الآخرِ فلا يجلِسْ في مجلسٍ يُسبُّ فيه
-إمامٌ أو يُغتاب فيه مُسلمٌ، إنَّ الله (جلّ جلاله) يقولُ: ﴿وَإِذَا
-رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّى
-يَخُوضُواْ فِي حَدِيثٍ غَيْرِهِ وَإِمَّا يُنسِيَنَّكَ الشَّيْطَانُ
-فَلاَ تَقْعُدْ بَعْدَ الذِّكْرَى مَعَ الْقَوْمِ الظَّالِمِي﴾
-  </p>
-</blockquote>
+>  مَن كان يؤمنُ باللهِ واليَوم الآخرِ فلا يجلِسْ في مجلسٍ يُسبُّ فيه
+> إمامٌ أو يُغتاب فيه مُسلمٌ، إنَّ الله (جلّ جلاله) يقولُ: ﴿وَإِذَا
+> رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّى
+> يَخُوضُواْ فِي حَدِيثٍ غَيْرِهِ وَإِمَّا يُنسِيَنَّكَ الشَّيْطَانُ
+> فَلاَ تَقْعُدْ بَعْدَ الذِّكْرَى مَعَ الْقَوْمِ الظَّالِمِي﴾
 
 192. It has been reported that Abu 'Abd Allah [a.s] said: the Prophet
 [a.s] said:  
@@ -326,12 +234,8 @@ discourse, and if Satan causes you to forget, then do not sit after
 recollection with the unjust people. [Holy Quran 6/68]'[^23]
 
 > 193 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن روى على مؤمنٍ روايةً يُريد بها عيبَه وهدْمَ مُرُوّتهِ أقامهُ
-اللهُ (جلّ جلاله) مقامَ الذّلِّ يَوم القيامةِ حتى يخرُج ممّا قالَ.
-  </p>
-</blockquote>
+>  مَن روى على مؤمنٍ روايةً يُريد بها عيبَه وهدْمَ مُرُوّتهِ أقامهُ
+> اللهُ (جلّ جلاله) مقامَ الذّلِّ يَوم القيامةِ حتى يخرُج ممّا قالَ.
 
 193. It has been reported that Abu 'Abd Allah [a.s] said:  
  One who narrates something concerning a believer with the intention of
@@ -339,14 +243,10 @@ disgracing and defaming him, Allah will humiliate him on the Day of
 Resurrection unless he unsays.[^24]
 
 > 194 - وعن أبي عبد الله (ع) أنه قال: قال رسول الله (ص)  
-<blockquote dir="rtl">
-  <p>
- يا مَعشرَ مَن آمنَ بلسانِه ولم يؤمنْ بقَلبِه! لا تطلُبوا عَوراتِ
-المُؤمنينَ ولا تتَّبِعوا عثَراتِهم، فإنَّ مَن اتَّبعَ عثرَةَ أخيهِ
-اتَّبعَ الله عَثرتَهُ، ومَن اتَّبعَ اللهُ عَثرتَهُ فَضَحهُ ولَو في
-جَوفِ بَيتِه.
-  </p>
-</blockquote>
+>  يا مَعشرَ مَن آمنَ بلسانِه ولم يؤمنْ بقَلبِه! لا تطلُبوا عَوراتِ
+> المُؤمنينَ ولا تتَّبِعوا عثَراتِهم، فإنَّ مَن اتَّبعَ عثرَةَ أخيهِ
+> اتَّبعَ الله عَثرتَهُ، ومَن اتَّبعَ اللهُ عَثرتَهُ فَضَحهُ ولَو في
+> جَوفِ بَيتِه.
 
 194. It has been reported that Abu 'Abd Allah [a.s] said: the Messenger
 of Allah [a.s] said:  
@@ -358,13 +258,9 @@ whomsoever Allah discloses his faults, He will disgrace him even if it
 be within his own home.[^25]
 
 > 195 - عن محمد بن مسلم عن أحدهما (ع) قال: قال رسول الله (ص)  
-<blockquote dir="rtl">
-  <p>
- لَيس بمؤمنٍ مَن لم يأمَنْ جارُهُ بوائقَهُ.  
- قيل: يا رسول الله، وما بوائقه؟ قال  
- غَشْمُه وظُلمُه.
-  </p>
-</blockquote>
+>  لَيس بمؤمنٍ مَن لم يأمَنْ جارُهُ بوائقَهُ.
+>  قيل: يا رسول الله، وما بوائقه؟ قال
+>  غَشْمُه وظُلمُه.
 
 195. It has been reported that Muhammad ibn Muslim said that one of the
 two (al-Baqir or al-Sadiq [a.s]) said: the Messenger of Allah [a.s]
@@ -375,12 +271,8 @@ said:
 replied.[^26]
 
 > 196 - وعن أبي عبد الله (ع)  
-<blockquote dir="rtl">
-  <p>
- عَورَةُ المؤمِنِ على المؤمِن حَرامٌ، لَيسَ هو أن يكشِفَ فيَرى منه
-شيئاً، إنّما هو أن يُزريَ عَليه أو يَعيبُه.
-  </p>
-</blockquote>
+>  عَورَةُ المؤمِنِ على المؤمِن حَرامٌ، لَيسَ هو أن يكشِفَ فيَرى منه
+> شيئاً، إنّما هو أن يُزريَ عَليه أو يَعيبُه.
 
 196. It has been narrated that Abu 'Abd Allah [a.s] said:  
  It is forbidden on believers to exposes the secrets of each other. I do
@@ -388,12 +280,8 @@ not mean that they see each other naked; rather they find faults in or
 disgrace each other.[^27]
 
 > 197 - وعن أبي جعفر (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- مَن اغتيبَ عنده أخوهُ المؤمنُ فلَم ينصُرهُ ولم يدفعْ عنهُ وهو يقدِر
-على نُصرتِه وعَونهِ فَضحَهُ الله (جلّ جلاله) في الدّنيا والآخرة.
-  </p>
-</blockquote>
+>  مَن اغتيبَ عنده أخوهُ المؤمنُ فلَم ينصُرهُ ولم يدفعْ عنهُ وهو يقدِر
+> على نُصرتِه وعَونهِ فَضحَهُ الله (جلّ جلاله) في الدّنيا والآخرة.
 
 197. It has been narrated that Abu Ja'far [a.s] said:  
  If one's brother-in-faith is backbitten in his presence while he does
@@ -401,17 +289,13 @@ neither aid nor defend him when he is able to do so, Allah will disgrace
 him in the world and the hereafter.[^28]
 
 > 198 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- إذا قالَ الرّجلُ لأخيه أُفٍّ لكَ انقطعَ ما بينهُما، فإذا قالَ له:
-أنتَ عدُوّي فقد كفرَ أحدُهما لأنّه لا يقبل اللهُ (جلّ جلاله) عملاً من
-أحدٍ يُعجّل في تثريب على مؤمنٍ بفضيحتِه ولا يقبلُ مِن مؤمن عملاً وهو
-يضْمرُ في قلبه على المؤمن سوءً، ولو كُشفَ الغطاءُ عن الناسِ لنَظروا
-إلى ما وصلَ بين الله (جلّ جلاله) وبين المؤمن وخَضعتْ للمؤمنين رقابُهم
-وتَسهّلت لهم أمورُهم ولانَتْ لهم طاعتُهم، ولو نظروا إلى مَردودِ
-الأعمالِ من السماء لقالوا: ما يقبلُ الله من أحد عملاً.
-  </p>
-</blockquote>
+>  إذا قالَ الرّجلُ لأخيه أُفٍّ لكَ انقطعَ ما بينهُما، فإذا قالَ له:
+> أنتَ عدُوّي فقد كفرَ أحدُهما لأنّه لا يقبل اللهُ (جلّ جلاله) عملاً من
+> أحدٍ يُعجّل في تثريب على مؤمنٍ بفضيحتِه ولا يقبلُ مِن مؤمن عملاً وهو
+> يضْمرُ في قلبه على المؤمن سوءً، ولو كُشفَ الغطاءُ عن الناسِ لنَظروا
+> إلى ما وصلَ بين الله (جلّ جلاله) وبين المؤمن وخَضعتْ للمؤمنين رقابُهم
+> وتَسهّلت لهم أمورُهم ولانَتْ لهم طاعتُهم، ولو نظروا إلى مَردودِ
+> الأعمالِ من السماء لقالوا: ما يقبلُ الله من أحد عملاً.
 
 198. It has been reported that Abu 'Abd Allah [a.s] said:  
  When a believer says a word of contempt loses his friendship; and when
@@ -427,11 +311,7 @@ being rejected from the heavens, they would have said, 'Allah will not
 accept any action from anyone!'[^29]
 
 > 199 - وعن أبي عبد الله (ع) أنه قال: قال النبي (ص)  
-<blockquote dir="rtl">
-  <p>
- المؤمنُ حرامٌ كلُّه، عِرضُه ومالُه ودمُه.
-  </p>
-</blockquote>
+>  المؤمنُ حرامٌ كلُّه، عِرضُه ومالُه ودمُه.
 
 199. It has been reported that Abu 'Abd Allah [a.s] said: the Prophet
 [a.s] said:  
@@ -439,36 +319,24 @@ accept any action from anyone!'[^29]
 life.[^30]
 
 > 200 - وعن أبي عبد الله (ع) أنه قال  
-<blockquote dir="rtl">
-  <p>
- لا تبدأ الشّماتةَ بأخيك المؤمنِ فيرحمُه الله (جلّ جلاله) ويُغيّرُ ما
-بِك.
-  </p>
-</blockquote>
+>  لا تبدأ الشّماتةَ بأخيك المؤمنِ فيرحمُه الله (جلّ جلاله) ويُغيّرُ ما
+> بِك.
 
 200. It has been reported that Abu 'Abd Allah [a.s] said:  
  Do not rejoice at the misfortune of your brother-in-faith lest Allah
 [M.G] should have mercy on him and change your condition.
 
-<blockquote dir="rtl">
-  <p>
-قال: ومَن شمتَ بمصيبةٍ نزَلَت بأخيه لم يخرجْ مِن الدنيا حتىّ يغيّر ما
-بِه.
-  </p>
-</blockquote>
+> قال: ومَن شمتَ بمصيبةٍ نزَلَت بأخيه لم يخرجْ مِن الدنيا حتىّ يغيّر ما
+> بِه.
 
 The Imam also said: One who rejoices at a misfortune that has befallen
 his brother will not leave this world before his condition changes to
 the worse.[^31]
 
 > 201 - وعن أخي الطربال قال: سمعته يقول  
-<blockquote dir="rtl">
-  <p>
- إنّ لله (جلّ جلاله) في الأرض حُرماتٍ؛ حرمة كتابِ الله وحرمة رسولِ
-الله وحرمة أهل البَيت وحرمة الكعبة وحرمة المسلم وحرمة المسلم وحرمة
-المسلم.
-  </p>
-</blockquote>
+>  إنّ لله (جلّ جلاله) في الأرض حُرماتٍ؛ حرمة كتابِ الله وحرمة رسولِ
+> الله وحرمة أهل البَيت وحرمة الكعبة وحرمة المسلم وحرمة المسلم وحرمة
+> المسلم.
 
 201. It has been narrated that the brother of al-Tirbal (i.e. Ibrahim
 ibn Jamil al-Kufi) said: I heard al-Sadiq [a.s] saying:  
@@ -603,5 +471,4 @@ al-Kulayni: al-Kafi 2/359 h.1].
 
 [^32]: A similar narration is recorded in al-Majlisi: Bihar al-Anwar
 74/232 as quoted from al-Suri: Qaďa\` al-°uquq.
-
 

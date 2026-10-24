@@ -27,4 +27,3 @@ and the ostrich.
 
 (Sermon 185)
 
-

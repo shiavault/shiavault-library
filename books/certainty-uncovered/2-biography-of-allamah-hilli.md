@@ -235,4 +235,3 @@ is visited to date by the pilgrims of Amir al-Mu’minin.[^22]
 
 [^22]: A’yan al-Shi’ah, vol. 5, pp. 396
 
-

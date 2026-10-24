@@ -8,4 +8,3 @@ against them. This is not possible in these times at all except by
 praying for the reappearance of Hazrat Mahdi (may Allah hasten his
 reappearance), as is evident.
 
-

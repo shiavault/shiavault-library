@@ -21,4 +21,3 @@ impure, corrupted stance of non-Islamic views.
 
 Bint-Al-Huda
 
-

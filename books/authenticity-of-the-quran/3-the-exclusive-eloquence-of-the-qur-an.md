@@ -83,4 +83,3 @@ and literary composition, hence their admitting that the Qur’an could
 not have been the production of Prophet Muhammad (S).  
   
 
-

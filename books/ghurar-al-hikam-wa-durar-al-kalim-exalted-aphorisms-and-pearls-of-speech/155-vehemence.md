@@ -13,16 +13,11 @@ your bigotry and boasting over your ignorance, for indeed these are the
 fertilizers of enmity and the bellows of Satan.
 
 > 2ـ فَاللّهَ اللّهَ عِبادَ اللّهِ في كِبْرِ الْحَمِيَّةِ وفَخْرِ
-<blockquote dir="rtl">
-  <p>
-الْجاهِلِيَّةِ فَإنَّهُ مَلاقِحُ الشَّنَأنِ وَمَنافِجُ الشَّيْطانِ.
-  </p>
-</blockquote>
+> الْجاهِلِيَّةِ فَإنَّهُ مَلاقِحُ الشَّنَأنِ وَمَنافِجُ الشَّيْطانِ.
 
 3. There is no vehemence in one who has no sense of honour.
 
 > 3ـ لاحَمِيَّةَ لِمَنْ لا أنَفَةَ لَهُ.
 
 [^1]: In the sense of protecting one’s dignity and integrity.
-
 

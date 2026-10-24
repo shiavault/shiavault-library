@@ -223,4 +223,3 @@ inspired.
 Imam Ja'far Sadiq (p.b.u.h.) asked: "Do you now believe that Allah, who
 can not be seen, does exist and what you worship is the unseen Allah?"
 
-

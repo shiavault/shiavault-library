@@ -305,4 +305,3 @@ al-'Ummal, Vol. III, p. 128; Ibn Abi'l-Hadid, Sharh ., Vol. I, pp. 122,
 
 [^20]: al-Tabari, Tarikh; Ibn al-Athir, al-Kamil.
 
-

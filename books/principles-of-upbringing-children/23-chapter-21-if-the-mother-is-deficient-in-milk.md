@@ -38,4 +38,3 @@ product suitable for any particular child.
 If the milk recommended by the doctor is not found suitable, then the
 mother should refer back to the doctor and get a fresh recommendation.
 
-

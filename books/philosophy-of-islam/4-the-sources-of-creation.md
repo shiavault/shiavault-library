@@ -826,4 +826,3 @@ process in the course of our forthcoming discussions.
 distance which light covers in one year. Light travels at the speed of
 three hundred thousand kilometres per second.
 
-

@@ -41,7 +41,6 @@ verse continues saying:
 would have been decided between them: but they are in grave doubt
 concerning it. "
 
-
 **Commentary : Verse 111**
 
 (111) وَ إِنَّ كُلاًّ لَمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ أَعْمالَهُمْ
@@ -75,7 +74,6 @@ Anyway, in the Divine system of belief, no deed will be left unanswered
 and uncompensated for; if it is good, it will be rewarded with good and
 if it is evil it will be compensated for with the same.
 
-
 **Commentary : Verse 112**
 
 (112) فَاسْتَقِمْ كَما أُمِرْتَ وَ مَنْ تابَ مَعَكَ وَ لا تَطْغَوْا
@@ -86,7 +84,6 @@ who has turned(unto Allah)with you, and(O' men)do not transgress(from
 the Path ); verily He sees well what you do. "
 
 **Commentary :
-
 
 The Command of Steadfastness:**
 
@@ -141,7 +138,6 @@ unruliness, and non- violence. Victory over our enemies, who have been
 surrounding us from all sides, exploiting us in all cultural, political,
 economic, social, and military spheres, might not be possible without
 the implementation of the four principles mentioned above.
-
 
 **Commentary : Verse 113**
 
@@ -212,7 +208,6 @@ and, on the other hand, since relying upon and seeking the support of
 the unjust is forbidden, therefore the/ ulul- 'amr/ cannot be unjust,
 they must necessarily be "immaculate", too, because sin is considered an
 example of injustice.(And do not incline to those who are unjust,)
-
 
 **Commentary : Verse 114.115**
 
@@ -354,7 +349,6 @@ have acted extravagantly against their own selves! Do not despair of the
 mercy of Allah; surely Allah forgives the faults altogether; verily He
 is the Forgiving, the Merciful. "(3)
 
-
 (1) Sura An- Nisa, No. 4, verse 48
 
 (2) Ibid, verse 110
@@ -381,9 +375,7 @@ toward Qiblah he will become purified. O' Ali! The example of the daily
 prayers resembles one who washes himself in a stream in front of his
 house, fives times every day. "(2)
 
-
 (1) Sura 'Al- i- 'Imran verse 135
 
 (2) Majma'- ul- Bayan, the commentary, and Kanz- ud- Daqayiq.
-
 

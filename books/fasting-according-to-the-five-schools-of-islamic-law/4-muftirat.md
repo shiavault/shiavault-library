@@ -95,4 +95,3 @@ sixty poor persons. This shows the ignorance or malice of those who say
 that the Imamis consider it permissible to forge lies against God and
 His Messenger (s).
 
-

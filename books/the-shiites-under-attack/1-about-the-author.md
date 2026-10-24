@@ -45,4 +45,3 @@ Imam Hussein, Leader of the Martyrs 5. The Brother of the Prophet
 Muhammad (the Imam Ali). (He also wrote this book in Arabic and named it
 *Amir al-Mu'minin*)
 
-

@@ -324,7 +324,6 @@ disclosed secrets to each other, they caused much sorrow to the holy
 Prophet, whose heart was tender and who treated all his family with
 exemplary patience and affection.
 
-
 **Chapter 18 : Khadija and Ayesha**
 
 Hadhrat Ayesha was jealous not only of those wives of Muhammed Mustafa
@@ -439,5 +438,4 @@ saw her husband coddling and cuddling the children of Fatima which he
 was doing all the time, she was further embittered being painfully
 reminded of her own sterility. The relations, therefore, of Ayesha and
 Fatima, were not very "friendly."
-
 

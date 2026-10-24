@@ -106,7 +106,6 @@ strongly recommended that Yazid should leave al-'Imam al-Husayn (AS)
 alone and not bother him; but would the drunkenness and self-admiration
 of Yazid permit him to differentiate between his benefit and his loss?
 
-
 **AL-'IMAM 'ALI AL-SAJJAD (AS)**
 
 The policy of al-'Imam 'Ali al-Sajjad (AS), during his Imamate, is
@@ -442,5 +441,4 @@ honour and prestige of others.
 
 The explanation of these epithets and their impact should be studied in
 more detail in the section on "Ethics".
-
 

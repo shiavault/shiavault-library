@@ -336,4 +336,3 @@ This supplication is great. And among other invocations, is the salawaat
 of the month of Shabaan, which describes the general perfection of all
 the Imams (a.s.).
 
-

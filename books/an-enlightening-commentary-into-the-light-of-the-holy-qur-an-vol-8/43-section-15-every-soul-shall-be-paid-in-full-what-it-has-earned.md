@@ -4,12 +4,8 @@ Section 15: Every Soul Shall Be Paid in Full What It Has Earned
 Surah An-Nahl – Verse 111
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَن نَّفْسِهَا وَتُوَفَّي كُلُّ
-نَفْسٍ مَّا عَمِلَتْ وُهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَن نَّفْسِهَا وَتُوَفَّي كُلُّ
+> نَفْسٍ مَّا عَمِلَتْ وُهُمْ لاَ يُظْلَمُونَ
 
 ***111. “The day (that) everyone will come disputing in his own behalf;
 and everyone will be rewarded in full (for) what he has done, and they
@@ -49,14 +45,10 @@ they will not be dealt with unjustly.”***
 Surah An-Nahl – Verse 112
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ اللَّهُ مَثَلاً قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً
-يَأْتِيهَا رِزْقُهَا رَغَداً مِن كُلّ‌ِ مَكَانٍ فَكَفَرَتْ بِاَنْعُمِ
-اللَّهِ فَاَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا
-كَانُوا يَصْنَعُونَ
-  </p>
-</blockquote>
+> وَضَرَبَ اللَّهُ مَثَلاً قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً
+> يَأْتِيهَا رِزْقُهَا رَغَداً مِن كُلّ‌ِ مَكَانٍ فَكَفَرَتْ بِاَنْعُمِ
+> اللَّهِ فَاَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا
+> كَانُوا يَصْنَعُونَ
 
 ***112. “And Allah sets forth a parable: a township that was secure, at
 rest, its sustenance coming to it in abundance from every side; then it
@@ -100,12 +92,8 @@ refers to the pangs of hunger and fear felt deeply within their selves.
 Surah An-Nahl – Verse 113
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَآءَهُمْ رَسُولٌ مِنْهُمْ فَكَذَّبُوهُ فَاَخَذَهُمُ
-الْعَذَابُ وَهُمْ ظَالِمُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ جَآءَهُمْ رَسُولٌ مِنْهُمْ فَكَذَّبُوهُ فَاَخَذَهُمُ
+> الْعَذَابُ وَهُمْ ظَالِمُونَ
 
 ***113. “And certainly there came to them a messenger from amongst them,
 but they rejected him; so the punishment overtook them while they were
@@ -127,12 +115,8 @@ unjust.”***
 Surah An-Nahl – Verse 114
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلاَلاً طَيّـِباً وَاشْكُرُوا
-نِعْمَتَ اللَّهِ إِن كُنتُم إِيَّاهُ تَعْبُدُونَ
-  </p>
-</blockquote>
+> فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلاَلاً طَيّـِباً وَاشْكُرُوا
+> نِعْمَتَ اللَّهِ إِن كُنتُم إِيَّاهُ تَعْبُدُونَ
 
 ***114. “Therefore, eat out of what Allah has provided for you, lawful
 and good, and give you thanks for Allah’s bounty if (only) Him do you
@@ -205,13 +189,9 @@ their consumption, as well as their inherent and ‘legal cleanliness’.
 Surah An-Nahl – Verse 115
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ
-وَمَآ اُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ
-عَادٍ فَإِنَّ اللَّهَ غَفُورٌرَحِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ
+> وَمَآ اُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ
+> عَادٍ فَإِنَّ اللَّهَ غَفُورٌرَحِيمٌ
 
 ***115. “Verily He has forbidden for you only carrion, blood, swine
 flesh, and whatever has other (name), than Allah’s, been invoked upon
@@ -294,19 +274,11 @@ spiritual vices, like paganism, is also another criterion.
 Surah An-Nahl – Verses 116 - 117
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَذَا حَلاَلٌ
-وَهَذَا حَرَامٌ لّـِتَفْتَرُوا عَلَي اللَّهِ الْكَذِبَ إِنَّ الَّذِينَ
-يَفْتَرُونَ عَلَي اللَّهِ الْكَذِبَ لاَ يُفْلِحُونَ
-  </p>
-</blockquote>
+> وَلاَ تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَذَا حَلاَلٌ
+> وَهَذَا حَرَامٌ لّـِتَفْتَرُوا عَلَي اللَّهِ الْكَذِبَ إِنَّ الَّذِينَ
+> يَفْتَرُونَ عَلَي اللَّهِ الْكَذِبَ لاَ يُفْلِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***116. “And do not utter whatever lie your tongues describe (saying):
 ‘This is lawful and this is forbidden’ in order to forge falsehood
@@ -371,12 +343,8 @@ punishment of the Hereafter.
 Surah An-Nahl – Verse 118
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَلي الَّذِينَ هَادُوا حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ
-وَمَا ظَلَمْنَاهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> وَعَلي الَّذِينَ هَادُوا حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ
+> وَمَا ظَلَمْنَاهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
 
 ***118. “And for those who were Jews, We prohibited what We have already
 related to you. And We did them no injustice, but they were unjust to
@@ -419,13 +387,9 @@ committing oppression.
 Surah An-Nahl – Verse 119
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ ثُمَّ
-تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا إِنَّ رَبَّكَ مِن بَعْدِهَا
-لَغَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ ثُمَّ
+> تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا إِنَّ رَبَّكَ مِن بَعْدِهَا
+> لَغَفُورٌ رَّحِيمٌ
 
 ***119. “Yet verily your Lord, unto those who do an evil act in
 ignorance and afterward they repent and amend, your Lord after that will
@@ -462,5 +426,4 @@ forbade every (animal) having claws, and of oxen and sheep unto them the
 fat of both, save what is upon their backs or the entrails or what is
 mixed with bones. This (prohibition) We recompensed them for their
 rebellion, and verily we are truthful.”
-
 

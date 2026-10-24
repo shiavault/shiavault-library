@@ -97,4 +97,3 @@ sins, and has not won the pleasure of Allah, and the rewards that He
 gives so abundantly during Ramadhan. To avoid such a failure, it is
 necessary to keep a Ramadhan checklist that is regularly updated.
 
-

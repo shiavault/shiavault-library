@@ -4,17 +4,13 @@ Hadith 10 to 20
 HadīthNo. 11
 ------------
 
-<p dir="rtl">
 أخرج سفيان بن عيينة... عن سعد بن أبي وقاص رضي الله عنه (في مناقب علي رضي
 الله عنه)، إن له لمناقب أربع: لأن يكون لي واحدة منهن أحب إلي من كذا
 وكذا، ذكر حمر النعم.
-</p>
 
-<p dir="rtl">
 قوله صلى الله عليه وآله وسلم: لأعطين الراية. وقوله صلى الله عليه وآله
 وسلم: بمنزلة هارون بن موسى. وقوله صلى الله عليه وآله وسلم: من كنت مولاه،
 ونسي سفيان الرابعة.
-</p>
 
 “Sufyān bin ‘Uyaynah (in praise of ‘Alī (RA)) relates it from Sa‘d bin
 Abī Waqās (RA) that of the four qualities of ‘Alī (RA) if I possessed
@@ -30,13 +26,11 @@ quality.”[11]
 Hadīth No. 12
 -------------
 
-<p dir="rtl">
 عن عبد الرحمن بن سابط (في مناقب علي رضي الله عنه)، قال: قال سعد رضي الله
 عنه: سمعت رسول الله صلى الله عليه وآله وسلم يقول في علي رضي الله عنه
 ثلاث خصال، لأن يكون لي واحدة منهن أحب إلي من الدنيا وما فيها، سمعت رسول
 الله صلى الله عليه وآله وسلم يقول: من كنت مولاه، وأنت مني بمنزلة هارون
 من موسى، ولأعطين الراية.
-</p>
 
 “‘Abd-ur-Rahmān bin Sābit (in praise of ‘Alī (RA)) relates that Sa‘d
 (RA) said: I heard Allāh’s Messenger (SAW) describe three of ‘Alī’s
@@ -50,13 +44,11 @@ Allāh (SWT) and His Messenger (SAW) are his friends).”[12]
 Hadīth No. 13
 -------------
 
-<p dir="rtl">
 عن رفاعة بن إياس الضبي، عن أبيه، عن جده، قال: كنا مع علي رضي الله عنه
 يوم الجمل، فبعث إلى طلحة بن عبيد الله أن القني، فأتاه طلحة رضي الله عنه،
 فقال: نشدتك الله! هل سمعت رسول الله صلى الله عليه وآله وسلم يقول: من كنت
 مولاه فعلي مولاه، اللهم! وال من ولاه، وعاد من عاداه؟ قال: نعم. قال: فلم
 تقاتلني؟ قال: لم أذكر. قال: فانصرف طلحة رضي الله عنه.
-</p>
 
 “Rifā‘ah bin Iyās ad-Dabbī relates on the authority of his father who
 relates it on the authority of his grandfather. He said: We were with
@@ -72,13 +64,11 @@ back.”[13]
 HadīthNo. 14
 ------------
 
-<p dir="rtl">
 عن بريدة، قال: غزوتُ مع علي رضي الله عنه اليمن، فرأيت منه جفوة، فلما
 قدمتُ على رسول الله صلى الله عليه وآله وسلم، ذكرت عليا، فتنقصته، فرأيت
 وجه رسول الله صلى الله عليه وآله وسلم يتغير، فقال: يا بريدة! ألست أولى
 بالمؤمنين من أنفسهم؟ قلت: بلى، يا رسول الله! قال: من كنت مولاه فعلي
 مولاه.
-</p>
 
 “It is narrated by Buraydah (RA): I took part in the Battle of Yemen
 with ‘Alī (RA) and I had a complaint against him. When I went to see the
@@ -91,14 +81,12 @@ master has ‘Alī as his master.”[14]
 Hadīth No. 15
 -------------
 
-<p dir="rtl">
 عن ميمون أبي عبد الله، قال: قال زيد بن أرقم رضي الله عنه وأنا أسمع:
 نزلنا مع رسول الله صلى الله عليه وآله وسلم بواد يقال له وادي خم، فأمر
 بالصلاة، فصلاها بهجير. قال: فخطبنا وظلل لرسول الله صلى الله عليه وآله
 وسلم بثوب على شجرة سمرة من الشمس، فقال: ألستم تعلمون أو لستم تشهدون أنى
 أولى بكل مؤمن من نفسه؟ قالوا: بلى. قال: فمن كنت مولاه فإن عليا مولاه،
 اللهم! عاد من عاداه، ووال من والاه.
-</p>
 
 “Maymūn Abū ‘Abdullāh describes that he heard Zayd bin Arqam (RA) say:
 We came down to a valley, named the valley of Khum, with the Messenger
@@ -114,7 +102,6 @@ his master has ‘Alī as his master. O Allāh! Be you his enemy who is his
 Hadīth No. 16
 -------------
 
-<p dir="rtl">
 عن عطية العوفي، قال: سألت زيد بن أرقم رضي الله عنه، فقلت له: أن ختنا لي
 حدثني عنك بحديث في شأن علي رضي الله عنه يوم غدير خم، فانا أحب أن أسمعه
 منك، فقال: إنكم معشر أهل العراق فيكم ما فيكم، فقلت له: ليس عليك منى بأس،
@@ -123,7 +110,6 @@ Hadīth No. 16
 أنى أولى بالمؤمنين من أنفسهم؟ قالوا: بلى. قال: فمن كنت مولاه فعلي مولاه.
 قال: فقلت له: هل قال: اللهم! وال من والاه، وعاد من عاداه؟ قال: إنما
 أخبرك كما سمعت.
-</p>
 
 “It is narrated by ‘Atiyyah al-‘Awfī. He says: I asked Zayd bin Arqam
 (RA): I have a son-in-law who relates a*hadīth* in praise of ‘Alī (RA)
@@ -142,11 +128,9 @@ said: I have told you all that I had heard.”[16]
 Hadīth No. 17
 -------------
 
-<p dir="rtl">
 عن جابر بن عبد الله رضي الله عنهما، قال: كنا بالجحفة بغدير خم، إذا خرج
 علينا رسول الله صلى الله عليه وآله وسلم، فأخذ بيد علي رضي الله عنه،
 فقال: من كنت مولاه فعلي مولاه.
-</p>
 
 “It is narrated by Jābir bin ‘Abdullāh رضي الله عنهما)) that when we
 were at Ghadīr Khum in Juhfah, the Messenger of Allāh (SAW) came out,
@@ -156,13 +140,11 @@ then, holding ‘Alī’s hand, he said: One who has me as his master has
 Hadīth No. 18
 -------------
 
-<p dir="rtl">
 عن علي أن النبي صلى الله عليه وآله وسلم قام بحفرة الشجرة بخم، وهو آخذ
 بيد علي رضي الله عنه، فقال: أيها الناس! ألستم تشهدون أن الله ربكم؟
 قالوا: بلى. قال: ألستم تشهدون أن الله ورسوله أولى بكم من أنفسكم؟ قالوا:
 بلى، وأن الله ورسوله مولاكم؟ قالوا: بلى. قال: فمن كنت مولاه فإن هذا
 مولاه.
-</p>
 
 “It is narrated by ‘Alī that the Holy Prophet (SAW) was standing under a
 tree at Khum and he was holding ‘Alī’s hand. He said: O people! Don’t
@@ -177,7 +159,6 @@ master.”[18]
 Hadīth No. 19
 -------------
 
-<p dir="rtl">
 عن حذيفة بن أسيد الغفاري رضي الله عنه... فقال صلى الله عليه وآله وسلم:
 يا أيها الناس! إني قد نبأني اللطيف الخبير أنه لم يعمر نبي إلا نصف عمر
 الذي يليه من قبله، وإني لأظن أني يوشك أن أدعي فأجيب، وإني مسؤول، وإنكم
@@ -193,7 +174,6 @@ Hadīth No. 19
 الثقل الأكبر كتاب الله عز وجل سبب طرفه بيد الله وطرفه بأيدكم، فاستمسكوا
 به لا تضلوا ولا تبدلوا، وعترتي أهل بيتي، فإنه قد نبأني اللطيف الخبير
 أنهما لن ينقضيا حتى يردا علي الحوض.
-</p>
 
 “It is narrated by Hudhayfah bin Usayd al-Ghifārī (RA)… He (SAW) said: O
 people! I have been told by a highly reliable source that Allāh (SWT)
@@ -228,7 +208,6 @@ from the truth and they will meet me at the Fountain.”[19]
 Hadīth No. 20
 -------------
 
-<p dir="rtl">
 عن جرير رضي الله عنه، قال: شهدنا الموسم في حجة مع رسول الله صلى الله
 عليه وآله وسلم، وهي حجة الوداع، فبلغنا مكانا يقال له غدير خم، فنادى:
 الصلاة جامعة، فاجتمعنا المهاجرون والأنصار، فقام رسول الله صلى الله عليه
@@ -238,7 +217,6 @@ Hadīth No. 20
 فأقامه فنزع عضده فأخذ بذراعيه، فقال: من يكن الله ورسوله مولياه فإن هذا
 مولاه، اللهم! وال من والاه، وعاد من عاداه، اللهم! من أحبه من الناس فكن
 له حبيبا، ومن أبغضه فكن له مبغضا.
-</p>
 
 “It is narrated by Jarīr (RA) that at the occasion of Hajjat-ul-wadā‘ we
 were with the Messenger of Allāh (SAW). We reached a place called Ghadīr
@@ -255,5 +233,4 @@ Messenger. O Allāh! Be his friend who befriends him and be his enemy who
 is his (‘Alī’s) enemy. O Allāh! Love him who loves him (‘Alī) from among
 the people and bear malice towards him who bears malice towards him
 (‘Alī).”[20]
-
 

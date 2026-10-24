@@ -37,35 +37,15 @@ Notwithstanding his anti-Shi‘ah tendency, Zubayr ibn Bakkar has
 mentioned some of these poems. Among these were the poems of ‘Utbah ibn
 Abi Lahab which run as follows:
 
-<blockquote dir="rtl">
-  <p>
-ما كنت احسب أن الأمر منصرف عن هاشم ثم منها عن أبي حسن!
-  </p>
-</blockquote>
+> ما كنت احسب أن الأمر منصرف عن هاشم ثم منها عن أبي حسن!
 
-<blockquote dir="rtl">
-  <p>
-أليس اولى من صلى لقبلتكم و أعلم الناس بالقرآن و السنن؟
-  </p>
-</blockquote>
+> أليس اولى من صلى لقبلتكم و أعلم الناس بالقرآن و السنن؟
 
-<blockquote dir="rtl">
-  <p>
-و أقرب الناس عهداً بالنبي ومن جبريل عون له في الغسل و الكفن؟
-  </p>
-</blockquote>
+> و أقرب الناس عهداً بالنبي ومن جبريل عون له في الغسل و الكفن؟
 
-<blockquote dir="rtl">
-  <p>
-ما فيه و ما فيهم لا يمترون به و ليس في القوم ما فيه من الحسن
-  </p>
-</blockquote>
+> ما فيه و ما فيهم لا يمترون به و ليس في القوم ما فيه من الحسن
 
-<blockquote dir="rtl">
-  <p>
-ماذا الذي ردهم عنه فنعلمه ها ان ذاغبنا من اعظم الغبن
-  </p>
-</blockquote>
+> ماذا الذي ردهم عنه فنعلمه ها ان ذاغبنا من اعظم الغبن
 
 *I did not imagine that they would take away the matter of caliphate
 from the Banu* *Hashim and among whom from Abu’l-Hasan (‘Ali)!*
@@ -88,11 +68,7 @@ of poetry, used to satisfactorily appreciate and honor Shi‘ah poets. One
 day, Kumayt Asadi came to Imam al-Baqir (*‘a*) and recited his elegy
 until he reached this couplet:
 
-<blockquote dir="rtl">
-  <p>
-و قتيل بالطف غودر منهم بين غوعاء أمّةٍ و طغام
-  </p>
-</blockquote>
+> و قتيل بالطف غودر منهم بين غوعاء أمّةٍ و طغام
 
 *And the killed one among them in the land of* *Taf has been abjectly
 and miserably abandoned by people.*
@@ -452,5 +428,4 @@ century AH starting from the time of Mu‘tasim with the entrance of the
 Turks in the ‘Abbasid court.
 
 [^26]: Tarikh al-Adab al-‘Arabi al-‘Asr al-‘Abbas ath-Thani, p. 386.
-
 

@@ -356,4 +356,3 @@ malady of our modern times which has emerged as the result of the
 weakening of religious faith is the increase in the incidence of the
 psychic and neural diseases.
 
-

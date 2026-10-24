@@ -271,4 +271,3 @@ Thus all kinds of pains and pleasures are experienced by the soul
 through the network of brain. This is why the Soul is absolutely
 responsible for all our actions whether good or bad.
 
-

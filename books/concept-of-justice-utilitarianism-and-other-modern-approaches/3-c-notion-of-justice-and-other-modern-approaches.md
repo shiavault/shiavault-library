@@ -209,4 +209,3 @@ ushered by parliamentary legislations. Marx talks of withering away of
 state as the promise of Marxism is that we may attain a state of being
 beyond justice, beyond any rational ideal.
 
-

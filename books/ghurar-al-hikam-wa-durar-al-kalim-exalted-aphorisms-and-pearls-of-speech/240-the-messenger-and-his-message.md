@@ -12,11 +12,7 @@ intelligence of the sender [of the message] is gauged.
 written message is more conveying than his speech.
 
 > 2ـ رَسُولُ الرَّجُلِ تَرْجُمانُ عَقْلِهِ، وكِتابُهُ أبْلَغُ مِنْ
-<blockquote dir="rtl">
-  <p>
-نُطْقِهِ.
-  </p>
-</blockquote>
+> نُطْقِهِ.
 
 3. You messenger is the interpreter of your intellect, and your
 tolerance is an indication of your forbearance.
@@ -27,5 +23,4 @@ tolerance is an indication of your forbearance.
 most eloquent thing that speaks on your behalf.
 
 > 4ـ رَسُولُكَ ميزانُ نُبْلِكَ، وقَلَمُكَ أبْلَغُ مَنْ يَنْطِقُ عَنْكَ.
-
 

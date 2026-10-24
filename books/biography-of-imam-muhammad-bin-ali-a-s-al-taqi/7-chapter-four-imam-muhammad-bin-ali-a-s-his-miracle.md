@@ -135,4 +135,3 @@ Muhammad became thirsty again, The Imam f A.S.) again got water for him
 tested it himself first and then passed it on to Muhammad Bin All
 Al-Hashim.
 
-

@@ -38,4 +38,3 @@ of the beloved family of Prophet Muhammad (S), in such a deplorable
 unimaginable condition, all caused by people who called themselves
 Muslims!
 
-

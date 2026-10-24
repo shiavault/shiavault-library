@@ -324,4 +324,3 @@ AL-KAZIM (AS) who led the burial prayers. He was laid to rest in that
 compound of JANNAT AL-BAQI' where IMAM HASAN (AS), IMAM ZAIN AL-ABIDIN
 (AS) and IMAM AL-BAQIR (AS) lay buried.
 
-

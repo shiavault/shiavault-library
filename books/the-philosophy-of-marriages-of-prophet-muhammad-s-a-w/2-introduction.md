@@ -41,4 +41,3 @@ Muslims, since part of their faith is to believe in the infallibillity
 But at the same time it is imperative to acquaint the non-Muslims with
 the true facts.
 
-

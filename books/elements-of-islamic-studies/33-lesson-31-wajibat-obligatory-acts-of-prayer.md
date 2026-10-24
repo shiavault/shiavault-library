@@ -36,4 +36,3 @@ are left out, or added, intentionally. But they do not invalidate the
 prayer if they are left or added unintentionally. These are the
 remaining *wajib* acts of prayer.
 
-

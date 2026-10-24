@@ -281,4 +281,3 @@ English, German and French under the supervision of a group of famous
 Orientalists. In 1953 a condensed version of it was published and the
 first volume of new printing was published in 1960.
 
-

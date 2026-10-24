@@ -11,4 +11,3 @@ works of the author, Sharh Du’ae sahar, and Adab al-*salat*, were
 recovered from the library of the late Ayatullah Akhund al-Hamadani. All
 the three works have now been published.
 
-

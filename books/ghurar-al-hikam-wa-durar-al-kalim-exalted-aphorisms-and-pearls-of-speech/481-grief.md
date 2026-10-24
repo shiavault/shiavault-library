@@ -43,11 +43,7 @@ Grief
 and virtuous certitude.
 
 > 10ـ إطْرَحْ عَنْكَ وارِداتِ الهُمُومِ بِعَزائِمِ الصَّبْرِ، وحُسْنِ
-<blockquote dir="rtl">
-  <p>
-اليَقينِ.
-  </p>
-</blockquote>
+> اليَقينِ.
 
 11. Grief emaciates the body.
 
@@ -90,5 +86,4 @@ his sorrow.
 for.
 
 > 20ـ مَنْ جَعَلَ كُلَّ هَمِّهِ لآخِرَتِهِ ظَفِرَ بِالمَأْمُولِ.
-
 

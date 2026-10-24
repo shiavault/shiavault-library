@@ -58,9 +58,7 @@ permanent
 elements in change and even sought to reduce permanence itself to change
 and historical process.
 
-<p dir="rtl">
 \*          \*          \*
-</p>
 
 From the point of view of traditional metaphysical and cosmological
 doctrines there are several elements of permanence in the relationship
@@ -348,57 +346,57 @@ the Universe, a situation of permanence midst apparent change.
 NOTES
 -----
 
-[^1] See S. H. Nasr, The Encounter of Man and Nature, the Spiritual
+[^1]: See S. H. Nasr, The Encounter of Man and Nature, the Spiritual
 Crisis of Modern Man, London, 1968, pp. 63 ff.
 
-[^2] See F. Schuon, The Transcendent Unity of Religions, trans. by P.
+[^2]: See F. Schuon, The Transcendent Unity of Religions, trans. by P.
 Townsend, London , 1953, pp. 9 ff., and R. Guénon, La métaphysique
 orientale, Paris , [^1951]:
 
-[^3] See. F Schuon, In the Tracks of Buddhism, trans. by M. Pallis,
+[^3]: See. F Schuon, In the Tracks of Buddhism, trans. by M. Pallis,
 London, 1968, where the relation between nirvana and samsâra is
 discussed in all its amplitude and depth
 
-[^4] Concerning this theme in its Islamic setting, see S. H. Nasr, An
+[^4]: Concerning this theme in its Islamic setting, see S. H. Nasr, An
 Introduction to Islamic Cosmological Doctrines, Cambridge (U.S.A.),
 1964, chapter XV.
 
-[^5] The meaning of traditional symbols cannot be treated here. This
+[^5]: The meaning of traditional symbols cannot be treated here. This
 question has been amply dealt with in the writings of F. Schuon, R.
 Guénon, T. Burckhardt, and A. K. Coomaraswamy as well as H. Zimmer and
 M. Eliade.
 
-[^6] "The science of symbols—not simply a knowledge of traditional
+[^6]: "The science of symbols—not simply a knowledge of traditional
 symbols—proceeds from the qualitative significances of substances,
 forms,..., we are not dealing here with subjective appreciations, for
 the cosmic qualities are ordered both in relation to Being and according
 to a hierarchy which is more real than the individual..." F. Schuon,
 Gnosis, Divine Wisdom, trans. G. E. H. Palmer, London, 1959, p. [^110]:
 
-[^7] On the cosmologia perennis, see T. Burckhardt, Scienza moderna e
+[^7]: On the cosmologia perennis, see T. Burckhardt, Scienza moderna e
 saggezza traditionale, Torino, 1968; see also his Alchemie, Sinn and
 Weltbild, Olten, 1960, which deals with permanent values of Hermetic
 cosmology.
 
-[^8] Concerning the "symbolist spirit" see F. Schuon, "The Symbolist
+[^8]: Concerning the "symbolist spirit" see F. Schuon, "The Symbolist
 Outlook", Studies in Comparative Religion, Winter, 1966, pp. 50 ff.
 
-[^9] The author has dealt fully with this question in his Encounter of
+[^9]: The author has dealt fully with this question in his Encounter of
 Man and Nature.
 
-[^10] On the relation between linear and cyclic time as it effects both
+[^10]: On the relation between linear and cyclic time as it effects both
 history and cosmology, see M. Eliade, The Myth of the Eternal Return,
 trans. by W. Trask, New York, 1954; see also, A. K. Coomaraswamy, Time
 and Eternity, Ascona, 1947, where the metaphysical relationship between
 time and eternity in different traditions is elucidated.
 
-[^11] The downward tendency of the Kali Yuga or Dark Age which itself
+[^11]: The downward tendency of the Kali Yuga or Dark Age which itself
 obliterates the vision of qualitative time for most men is admirably
 treated by R. Guénon in many of his writings, especially The Reign of
 Quantity and the Signs of the Times, trans. by Lord Northbourne, London,
 [^1951]:
 
-[^12] "Modern Science, which is rationalist as to its subject and
+[^12]: "Modern Science, which is rationalist as to its subject and
 materialist as to its object, can describe our situation physically and
 approximately, but it can tell us nothing about our extra-spatial
 situation in the total and real Universe". F. Schuon, Light on the

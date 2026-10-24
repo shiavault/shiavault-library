@@ -294,7 +294,6 @@ them is a clear evidence of their roles. The said tradition says:
 "AL-HASAN and AL-HUSAIN are two Imams (leaders) whether they are in
 office or not"
 
-
 **AL-IMAM AL-HUSAIN (A.S.)**
 
 **LINEAGE**
@@ -684,5 +683,4 @@ learn how to rebel against the arrogant and the tyrants.
 " Imam HUSAIN comes at the head of all strugglers of the world who
 strive to achieve justice and dignity and equality for mankind.
 It is a unique revolution in the lengthy human history.
-
 

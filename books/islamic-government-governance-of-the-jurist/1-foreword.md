@@ -694,4 +694,3 @@ pupil of Imām Khomeini. He was a leading member of the Revolutionary
 Council until his assassination on May 1, 1979 by the terrorist Furqān
 group.
 
-

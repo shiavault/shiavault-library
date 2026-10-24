@@ -22,4 +22,3 @@ beliefs in order to achieve a status in their hearts and fame among them
 that he is kind, sound of belief, trustworthy and pious without truly
 seeking to please the Almighty. This materializes in certain levels:
 
-

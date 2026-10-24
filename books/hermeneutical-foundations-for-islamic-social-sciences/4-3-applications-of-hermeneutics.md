@@ -254,4 +254,3 @@ regard to animals.
 
 [^9]: Sellars (1963), 169.
 
-

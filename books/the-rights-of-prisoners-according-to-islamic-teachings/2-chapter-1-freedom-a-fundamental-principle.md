@@ -222,4 +222,3 @@ Almighty, Imam Ali (A).
 
 [^13]: Al-Kafi, vol. 7, p 188, hadith 3
 
-

@@ -58,7 +58,6 @@ recourse to Allah and appealing to Him, with utmost decisiveness
 challenge them and humiliate them their power which would reinforce the
 morale of their followers and lower that of their enemies.
 
-
 **Commentary : Verse 72**
 
 (72) فَإِنْ تَوَلَّيْتُمْ فَما سَأَلْتُكُمْ مِنْ أَجْرٍ إِنْ أَجْرِيَ
@@ -102,7 +101,6 @@ The verse continues as follows:
 
 "... and I am commanded to be of those(who)surrender(unto Him). "
 
-
 **Commentary : Verse 73**
 
 (73) فَكَذَّبُوهُ فَنَجَّيْناهُ وَ مَنْ مَعَهُ فِي الْفُلْكِ وَ
@@ -136,7 +134,6 @@ Noah's companions were only eighty in number whilst the numbers of the
 unbelievers were manifold, however, by the grace of Allah, the Almighty,
 the unbelievers were annihilated and the faithful became the inheritors
 of the earth.
-
 
 **Commentary : Verse 74**
 
@@ -183,9 +180,7 @@ angels. The verse says:
 
 "... Thus do We seal up the hearts of the transgressors. "
 
-
 **Commentary : Verse 75**
-
 
 (75) ثُمَّ بَعَثْنا مِنْ بَعْدِهِمْ مُوسى‏ وَ هارُونَ إِلى‏ فِرْعَوْنَ
 وَ مَلاَئِهِ بِآياتِنا فَاسْتَكْبَرُوا وَ كانُوا قَوْماً مُجْرِمينَ
@@ -217,7 +212,6 @@ Then, after them, We sent Moses and Aaron to Pharaoh and his chiefs
 with Our Signs, but they were arrogant, and they were a guilty people.
 "
 
-
 **Commentary : Verse 76**
 
 (76) فَلَمَّا جاءَهُمُ الْحَقُّ مِنْ عِنْدِنا قالُوا إِنَّ هذا لَسِحْرٌ
@@ -246,7 +240,6 @@ The verse says:
 
 " So when the truth came to them from Us, they said: 'Verily, this is a
 manifest sorcery.'"
-
 
 **Commentary : Verse 77**
 
@@ -280,7 +273,6 @@ confusion that sorcerers cause and reject the issue of prophecy. However
 this is a fact that sorcerers do not succeed. The verse says:
 
 "... But sorcerers do not prosper. '"
-
 
 **Commentary : Verse 78**
 
@@ -325,7 +317,6 @@ verse continues saying:
 
 "... But we shall not believe you two. "
 
-
 **Commentary : Verse 79**
 
 (79) وَ قالَ فِرْعَوْنُ ائْتُوني‏ بِكُلِّ ساحِرٍ عَليمٍ
@@ -351,7 +342,6 @@ perceived to be the powerful sorcery of Moses, little knowing that the
 Signs that Moses manifested were not the effects of sorcery and magic
 but miracles originating from Allah.
 
-
 **Commentary : Verse 80**
 
 (80) فَلَمَّا جاءَ السَّحَرَةُ قالَ لَهُمْ مُوسى‏ أَلْقُوا ما أَنْتُمْ
@@ -374,7 +364,6 @@ verse says:
 
 " When the sorcerers came, Moses said to them: 'Throw what you have to
 throw! '"
-
 
 **Commentary : Verse 81**
 
@@ -412,5 +401,4 @@ The verse says:
 
 " And Allah proves the Truth by His Words though the sinners be
 averse(to it). "
-
 

@@ -1,10 +1,6 @@
 Chapter Iii
 ===========
 
-  
-
-  
-
 IMPRESSIONS OF HIS CHARACTER
 ============================
 
@@ -35,17 +31,10 @@ the origin of knowledge and wisdom in Islam; and the Imām (al-Ridā) was
 their master in this noble quality. We will mention some other words
 reported from Imām al-Kāzim regarding the qualities of his son.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F108) Kashf al-Ghumma, vol. 3, p. 107. A'yān al-Shi'a 4/Q2/100.
 Al-Bihār.  
-  
-
-  
-
-  
 
 2. Al-Mamūn
 -----------
@@ -88,17 +77,10 @@ E. The special associates and the general populace acknowledged that he
 was the most meritorious person, and that none had qualities similar to
 those of him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F109) A'yān al-Shi'a 4/Q2/133.  
  [[2]](#_F110) Al-Bihār, vol. 12, p. 133.  
-  
-
-  
-
-  
 
 F. He was the firmest of the people in Divine essence, for he did not
 fear the blame of a blamer regarding Allah.
@@ -139,17 +121,10 @@ Al-Mamūn realized these exalted qualities of the Imām, and it was they
 which urged him to appoint the Imām as his successor, just as he has
 said in the above mentioned statement.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F111) Kashf al-Ghumma, vol. 3, p. 125. Al-Bihār, vol. 12, p.
 44.  
-  
-
-  
-
-  
 
 3. Ibrāhim Bin al-Abbās al-Sawli
 --------------------------------
@@ -195,18 +170,11 @@ These words show the spiritual side in the Imāms character, for he was
 the most religious of all the people; he praised Allah and feared Him
 more than they did.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F112) Kashf al-Ghumma.  
  [[2]](#_F113) A'yān al-Shi'a 4/Q2/99-100.  
  [[3]](#_F114) Bihār al-Anwār.  
-  
-
-  
-
-  
 
 6. Al-Shaykh al-Mufid
 ---------------------
@@ -247,17 +215,10 @@ Al-Wāqidi has mentioned two of the Imāms qualities which are as follows:
 
 2. His giving religious decisions at the age of over twenty.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F115) Al-Mufid, al-Irshād, p. 34.  
  [[2]](#_F116) Tadhkirat al-Khawās, p. 361.  
-  
-
-  
-
-  
 
 8. Jamāl al-Din
 ---------------
@@ -300,19 +261,12 @@ people of his time, for the Hāshimites were the master of the people
 because of  their good manners, their exalted ethics, and their
 excellent behavior.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F117) 'Umdat al-Tālib fi Ansāb Āl Abū Tālib, p. 198.  
  [[2]](#_F118) Al-Nujūm al-Zāhira, vol. 2, p. 74.  
  [[3]](#_F119) A'yān al-Shi'a 4/Q2/85. Khulāsat Tahdhib al-Kamāl, p.
 278.  
-  
-
-  
-
-  
 
 11. Ibn Hajar
 -------------
@@ -358,11 +312,6 @@ In the previous chapters we mentioned examples of his
 [[1]](#_F120) Tahdhib al-Tahdhib, vol. 7, p. 389.  
  [[2]](#_F121) Mir'āt al-Jinān, vol. 2, p. 11.  
  [[3]](#_F122) A'yān al-Shi'a 4/Q2/188.  
-  
-
-  
-
-  
 
 acts of worship and his reverential fear, which are evidence for what
 al-Tāi has mentioned. 
@@ -407,11 +356,6 @@ him, which is his exalted morals. It is worth mentioning that his
 
 [[1]](#_F123) Al-Fusūl al-Muhimma, p. 245.  
  [[2]](#_F124) Sirat al-A'imma al-Ithnā 'Ashar, vol. 2, p. 359.  
-  
-
-  
-
-  
 
 morals were similar to those of his grandfather, the greatest Prophet,
 may Allah bless him and his family, who was the master of all prophets.
@@ -458,11 +402,6 @@ prevented him from wasting the properties of the state and
 [[1]](#_F125) Tārikh al-Islām, vol. 8, p. 34.  
  [[2]](#_F126) Jawāhir al-Kalām, p. 143.  
  [[3]](#_F127) 'Uyyūn al-Tawārikh, vol. 3, p. 226.  
-  
-
-  
-
-  
 
 from other matters which we will mention in the chapters of this book,
 and which support al-Sayyid Ārif Thāmirs statement concerning the Imām
@@ -509,11 +448,6 @@ to his clear lineage, so he was among the pillars
 
 [[1]](#_F128) Al-Mujaddidūn fi al-Islām, p. 87.  
  [[2]](#_F129) Jāmi' Karāmāt al-Awliyā', vol. 2, p. 156.  
-  
-
-  
-
-  
 
 of excellence and honor. He had famous miracles, just as al-Nabahāni has
 said in the above-mentioned statement.
@@ -553,17 +487,10 @@ as al-Ridā (consent), was munificent, just, worshipful, and ascetic.
 Were it had not been for his fear of al-Mamūn, he would not have
 responded to regency.[[2]](#_ftn131)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F130) Al-Imām 'Ali al-Ridā Wali 'Ahd al-Ma'mūn, p. 1.  
  [[2]](#_F131) Mir'āt al-Zamān, vol. 6, p. 41.  
-  
-
-  
-
-  
 
 All noble traits such as, munificence, justice, worship, and asceticism
 gathered in the personality of Imām Abū Mohammed al-Ridā, peace be on
@@ -599,17 +526,10 @@ Allah has enriched Islamic thought, and made clear the purpose. He has
 made him an eminent figure on His earth in ordered to guide the
 perplexed and those who go astray.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F132) Al-A'lām, vol. 5, p. 178.  
  [[2]](#_F133) Hayāt al-Imām al-Ridā.  
-  
-
-  
-
-  
 
 26. Ahmed al-Khazraji
 ---------------------
@@ -655,11 +575,6 @@ was generous, great, dignified, and respected. His
 
 [[1]](#_F134) Khulāsat Tahdhib al-Kamāl, p. 678.  
  [[2]](#_F135) Al-Ithāf bi Hub al-Ashrāf, p. 88.  
-  
-
-  
-
-  
 
 father Mūsā al-Kāzim showed abundant love toward him. He gave to him the
 country estate which he bought for thirty thousand
@@ -696,8 +611,6 @@ I have said: I cannot find the right way to praise the Imām
 
 whose father Gabriel served!
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F136) Ibid.  
@@ -709,11 +622,6 @@ mountain, and singing, but you have said nothing concerning 'Ali b. Mūsā
 al-Ridā, who is in your time.' He said: 'By Allah, I have left this to
 honor and magnify him. The like of me can say nothing concerning the
 like of him.' Then, after an hour, he composed these lines."  
-  
-
-  
-
-  
 
 The people have memorized these poetry lines and regarded them as part
 of the wonderful Arab poetry, for these  lines suit their feelings,
@@ -762,11 +670,6 @@ These poetry lines are part of the most splendid poetry. Abū
 
 [[1]](#_F138) Tārikh al-Islām, vol. 8, p. 35.  
  [[2]](#_F139) Khulāsat al-Dhahab al-Masbūk, p. 200.  
-  
-
-  
-
-  
 
 kind of uncleanness and to purify you, people of the House, with a
 thorough purification. Allah purified them from deviation, kept off from
@@ -810,18 +713,11 @@ part of his nature.
 Al-Sāhib Bin Abbād adored Imām al-Ridā, peace be on him, so he has
 greeted him in these poetry lines:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F140) Al-Ithāf bi Hub al-Ashrāf, p. 60. Nazhat al-Jalis, vol. 2,
 p. 105. Kashf al-Ghumma, vol. 3, p. 107.  
  [[2]](#_F141) Di'bil, Divān, p. 108.  
-  
-
-  
-
-  
 
 O you who intend to go and visit Tūs,
 
@@ -885,18 +781,11 @@ O he who has given the name of al-Ridā, Ali b. Mūsā,
 
 may Allah be pleased with his father and him![[3]](#_ftn144)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F142) 'Uyyūn Akhbār al-Ridā, vol. 1, p. 4.  
  [[2]](#_F143) Ibid., p. 6.  
  [[3]](#_F144) AL-Manāqib, vol. 4, p. 343.  
-  
-
-  
-
-  
 
 33. Abd Allah Bin al-Mubārak
 ----------------------------
@@ -951,18 +840,11 @@ Tūs!
 
 Do not be afraid of their being tired, and leave hitting
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F145) Ibid.  
  [[2]](#_F146) 'Uyyūn Akhbār al-Ridā, vol. 1, p. 15.  
  [[3]](#_F147) AL-Manāqib, vol. 4, p. 350.  
-  
-
-  
-
-  
 
 them during stopping and taking a rest.
 
@@ -1033,12 +915,6 @@ join the army.
 They have filled my heart with friendship and hope, and I
 
 have filled the pages with my praising them.
-
-  
-
-  
-
-  
 
 So you realize that I am obedient to them and showing 
 

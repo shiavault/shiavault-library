@@ -44,4 +44,3 @@ of our master, the Imam of the time (aj).
 [^1]: Biharul Anwar; Vol. 86, Pg. 61, Zaad al-Maad, Pg. 489, Anwaar
 an-No’maaniya, Vol. 2, Pg. 104-105
 
-

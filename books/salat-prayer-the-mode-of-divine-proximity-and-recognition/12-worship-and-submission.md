@@ -3,30 +3,18 @@ Worship and Submission
 
 Allah the Almighty declares,
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاَّ لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاَّ لِيَعْبُدُونِ
 
 ***“I have not created the Jinns and mankind except to worship Me.”
 (Qur’an, 51:56)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَضَى رَبُّكَ أَلاَّ تَعْبُدُواْ إِلاَّ إِيَّاهُ
-  </p>
-</blockquote>
+> وَقَضَى رَبُّكَ أَلاَّ تَعْبُدُواْ إِلاَّ إِيَّاهُ
 
 ***“And your Lord has decreed that you will not worship anybody but
 Him.” (Qur’an, 17:23)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللهَ
-وَاجْتَنِبُواْ الطَّاغُوتَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللهَ
+> وَاجْتَنِبُواْ الطَّاغُوتَ
 
 ***“And indeed We sent in every nation a Prophet saying, ‘worship Allah
 and keep away from the rebellious ones.” (Qur’an, 16:36)***
@@ -38,24 +26,16 @@ Him.”[^1]
 
 Similarly, in another exegesis of the above verse, he (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَهُمْ لِلْعِبَادَةِ.
-  </p>
-</blockquote>
+> خَلَقَهُمْ لِلْعِبَادَةِ.
 
 “He created them for worship.”[^2]
 
 Amir al Mu’minin (‘a), in the sermon of *Dhi-qar* elucidates,
 
-<blockquote dir="rtl">
-  <p>
-…فَإِنَّ اللهَ تَعالى بَعَثَ مُحَمَّدًا – صَلَّى اللهُ عَلَيْهِ و
-آلِهِ – بِالْحَقِّ لِيُخْرِجَ عِبَادَهُ مِنْ عِبَادَةِ عِبَادِهِ إِلى
-عِبادَتِهِ، وَمِنْ عُهُودِ عِبَادِهِ إِلى عُهُودِهِ، وَمِنْ طَاعَةِ
-عِبَادِهِ إِلى طَاعَتِهِ، وَمِنْ وِلاَيَةِ عِبادِهِ إِلى وِلايَتِهِ.
-  </p>
-</blockquote>
+> …فَإِنَّ اللهَ تَعالى بَعَثَ مُحَمَّدًا – صَلَّى اللهُ عَلَيْهِ و
+> آلِهِ – بِالْحَقِّ لِيُخْرِجَ عِبَادَهُ مِنْ عِبَادَةِ عِبَادِهِ إِلى
+> عِبادَتِهِ، وَمِنْ عُهُودِ عِبَادِهِ إِلى عُهُودِهِ، وَمِنْ طَاعَةِ
+> عِبَادِهِ إِلى طَاعَتِهِ، وَمِنْ وِلاَيَةِ عِبادِهِ إِلى وِلايَتِهِ.
 
 “Then surely Allah the Almighty raised Muhammad (‘s) with truth to bring
 out His servants from the worship of His servants to His worship, from
@@ -72,15 +52,11 @@ prohibitions for everybody without exception. It is necessary that the
 servants should feel a sense of slavery, submission and humility in His
 presence. Imam As-Sadiq (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ الْعِلْمُ بِالتَّعَلُّمِ. إِنَّمَا هُوَ نُورٌ يَقَعُ فِي قَلْبِ
-مَنْ يُرِيْدُ اللهُ تَبَارَكَ وَتَعَالى أَن يَهْدِيَهُ. فَأِنْ
-أَرَدْتَ الْعِلْمَ فَاطْلُبْ أَوَّلاً فِيْ نَفْسِكَ حَقِيقَةَ
-الْعُبُودِيَّةِ. وَاطْلُبِ الْعِلْمَ بِاسْتِعْمَالِهِ. وَاسْتَفْهِمِ
-اللهَ يُفْهِمْكَ.
-  </p>
-</blockquote>
+> لَيْسَ الْعِلْمُ بِالتَّعَلُّمِ. إِنَّمَا هُوَ نُورٌ يَقَعُ فِي قَلْبِ
+> مَنْ يُرِيْدُ اللهُ تَبَارَكَ وَتَعَالى أَن يَهْدِيَهُ. فَأِنْ
+> أَرَدْتَ الْعِلْمَ فَاطْلُبْ أَوَّلاً فِيْ نَفْسِكَ حَقِيقَةَ
+> الْعُبُودِيَّةِ. وَاطْلُبِ الْعِلْمَ بِاسْتِعْمَالِهِ. وَاسْتَفْهِمِ
+> اللهَ يُفْهِمْكَ.
 
 “Knowledge is not acquired by learning. It is only a light which Allah
 (Blessed and High is He) penetrates in the heart of one whom He intends
@@ -115,12 +91,8 @@ a few days due to his laziness.
 
 All these are from the first degree of piety. Allah the Almighty warns,
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ اْلآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
-عُلُوًّا فِي اْلأَرْضِ وَلاَ فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> تِلْكَ الدَّارُ اْلآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
+> عُلُوًّا فِي اْلأَرْضِ وَلاَ فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***“This is the house of the hereafter. We have made it for those who do
 not seek any loftiness in the earth nor mischief.” (Qur’an, 28:83)***
@@ -135,14 +107,10 @@ creature in this universe depends on His will and intention.
 
 Imam As-Sadiq (‘a) declares,
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَكُونُ شَيْءٌ فِي اْلاَرْضِ وَلا فِي السَّمَاءِ إِلاَّ بِهذِهِ
-الْخِصَالِ السَّبْعِ: بِمَشيئَةٍ وَ إِرادَةٍ وَقَدَرٍ وَقَضَاءٍ وَ
-إِذْنٍ وَكِتابٍ وَأَجَلٍ. فَمَنْ زَعَمَ أَنَّهُ يَقْدِرُ عَلى نَقْضٍ
-وَاحِدَةٍ، فَقَدْ كَفَرَ.
-  </p>
-</blockquote>
+> لاَ يَكُونُ شَيْءٌ فِي اْلاَرْضِ وَلا فِي السَّمَاءِ إِلاَّ بِهذِهِ
+> الْخِصَالِ السَّبْعِ: بِمَشيئَةٍ وَ إِرادَةٍ وَقَدَرٍ وَقَضَاءٍ وَ
+> إِذْنٍ وَكِتابٍ وَأَجَلٍ. فَمَنْ زَعَمَ أَنَّهُ يَقْدِرُ عَلى نَقْضٍ
+> وَاحِدَةٍ، فَقَدْ كَفَرَ.
 
 “Nothing occurs in this earth and in the heaven except with the
 following seven stages: Will, intention, destiny, decree, permission,
@@ -160,12 +128,8 @@ the same level or at par with Him is sheer polytheism.
 
 Allah the Almighty says,
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذُوا مِن دُونِ اللهِ آلِهَةً لِّيَكُونُوا لَهُمْ عِزًّا.
-كَلاَّ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
-  </p>
-</blockquote>
+> وَاتَّخَذُوا مِن دُونِ اللهِ آلِهَةً لِّيَكُونُوا لَهُمْ عِزًّا.
+> كَلاَّ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
 
 ***“And they take gods other than Allah so that they become the cause of
 might for them. Nay! Soon they will deny them and will turn into their
@@ -196,13 +160,9 @@ the Almighty, he deserves to be left to himself. And anyone who takes a
 deity and lord besides Allah, He will hand him over to that deity and
 lord. The Holy Prophet (‘s) says that Allah the Almighty has warned,
 
-<blockquote dir="rtl">
-  <p>
-أَيَّمَا عَبْدٍ أَطَاعَنِيْ، لَمْ أَكِلْهُ إِلى غَيْرِي. وَأَيَّمَا
-عَبْدٍ عَصَانِيْ، وَكَلْتُهُ إِلى نَفْسِهِ، ثُمَّ لَمْ أُبالِ فِيْ
-أَيِّ وادٍ هَلَكَ.
-  </p>
-</blockquote>
+> أَيَّمَا عَبْدٍ أَطَاعَنِيْ، لَمْ أَكِلْهُ إِلى غَيْرِي. وَأَيَّمَا
+> عَبْدٍ عَصَانِيْ، وَكَلْتُهُ إِلى نَفْسِهِ، ثُمَّ لَمْ أُبالِ فِيْ
+> أَيِّ وادٍ هَلَكَ.
 
 “Whoever obeys Me, I will not hand him over to other than Myself. And
 whoever disobeys Me, I will leave him unto himself. Then I won’t bother
@@ -210,12 +170,8 @@ in which valley he is destroyed.”[^8]
 
 Imam As-Sadiq (‘a) said to Abbad Ibn Kathir Basri,
 
-<blockquote dir="rtl">
-  <p>
-وَيْلَكْ يَا عَبَّادُ! إِيَّاكَ وَالرِّياءَ! فَإِنَّهُ مَنْ عَمِلَ
-لِغَيْرِ اللهِ، وَكَلَهُ اللهُ إِلى مَنْ عَمِلَ لَهُ.
-  </p>
-</blockquote>
+> وَيْلَكْ يَا عَبَّادُ! إِيَّاكَ وَالرِّياءَ! فَإِنَّهُ مَنْ عَمِلَ
+> لِغَيْرِ اللهِ، وَكَلَهُ اللهُ إِلى مَنْ عَمِلَ لَهُ.
 
 “Woe unto you O Abbad! Keep away from ostentation. For, whoever works
 for other than Allah, Allah will hand him over to the one for whom he
@@ -234,13 +190,9 @@ divine laws and regulations. Consequently, none possesses authority and
 domination over the other except that it has been granted by Allah the
 Almighty. He declares in the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ
-وَتَنْزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن
-تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ
+> وَتَنْزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن
+> تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“Say O Allah! You are the King of the kingdom. You give the kingdom
 to whomsoever You please and snatch it away from whomsoever You please.
@@ -275,13 +227,9 @@ he has received from his benevolent Lord, he should not think that these
 gifts are due to his transgressions. Rather, these are for preparing him
 for a great calamity in the next world. Allah the Almighty warns,
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَحْسَبَنَّ الَّذِينَ كَفَرُواْ أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
-لِّأَنفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُواْ إِثْمًا وَلَهْمُ
-عَذَابٌ مُّهِينٌ
-  </p>
-</blockquote>
+> وَلاَ يَحْسَبَنَّ الَّذِينَ كَفَرُواْ أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
+> لِّأَنفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُواْ إِثْمًا وَلَهْمُ
+> عَذَابٌ مُّهِينٌ
 
 ***“Let not those who disbelieve think that the respite that We have
 given them, is good for them. We have given them respite so that they
@@ -304,13 +252,9 @@ the chiefs of the armies, governors of cities, judges, scholars,
 guardians, etc. have all derived their mastership and authority from
 Allah’s last messenger (‘s). Imam Al-Baqir and Imam As-Sadiq (‘a) say,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ فَوَّضَ إِلى نَبِيِّهِ – صَلّى اللهُ عليه وآله – أَمْرَ
-خَلْقِهِ لِيَنْظُرَ كَيْفَ طَاعَتُهُمْ. ثُمَّ تَلاَ هذِهِ الآيَةَ: مَا
-آتاكُمُ الرَّسُوْلُ فَخُذُوهُ وَ مَا نَهاكُمْ عَنْهُ فَانْتَهُوْا.
-  </p>
-</blockquote>
+> إِنَّ اللهَ فَوَّضَ إِلى نَبِيِّهِ – صَلّى اللهُ عليه وآله – أَمْرَ
+> خَلْقِهِ لِيَنْظُرَ كَيْفَ طَاعَتُهُمْ. ثُمَّ تَلاَ هذِهِ الآيَةَ: مَا
+> آتاكُمُ الرَّسُوْلُ فَخُذُوهُ وَ مَا نَهاكُمْ عَنْهُ فَانْتَهُوْا.
 
 “Surely Allah has delegated to His Prophet (‘s) the affairs of His
 creation so that he overlooks as to how they obey Him. Then he (‘a)
@@ -322,24 +266,16 @@ Imam Ar-Ridha’ (‘a) says,
 “Certainly Allah delegated the matters of His creation to His Prophet
 (‘s) and said,
 
-<blockquote dir="rtl">
-  <p>
-مَا آتاكُمُ الرَّسُوْلُ فَخُذُوهُ وَمَا نَهاكُمْ عَنْهُ فَانْتَهُوْا.
-  </p>
-</blockquote>
+> مَا آتاكُمُ الرَّسُوْلُ فَخُذُوهُ وَمَا نَهاكُمْ عَنْهُ فَانْتَهُوْا.
 
 **‘Whatever the Prophet gives you, take it and whatever he prohibits,
 refrain from it**. But He has not delegated to him the affairs of
 creation and providing sustenance…Indeed, the Creator of everything is
 Allah as He says, ‘
 
-<blockquote dir="rtl">
-  <p>
-اللهُ الَّذِيْ خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
-يُحْيِيْكُمْ هَلْ مِنْ شُرَكائكُمْ مَنْ يَفْعَلُ مِنْ ذلِكُمْ مِنْ
-شَىْءٍ سُبْحَانَهُ وَ تَعالى عَمَّا يُشْرِكُونَ.
-  </p>
-</blockquote>
+> اللهُ الَّذِيْ خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
+> يُحْيِيْكُمْ هَلْ مِنْ شُرَكائكُمْ مَنْ يَفْعَلُ مِنْ ذلِكُمْ مِنْ
+> شَىْءٍ سُبْحَانَهُ وَ تَعالى عَمَّا يُشْرِكُونَ.
 
 ‘Allah is He Who created you, then provided you sustenance, then caused
 you to die, then He brings to life (once) again. Is there anyone from
@@ -348,12 +284,8 @@ is He from what they associate.’**”(Qur’an, 30:40)[^11]
 
 Imam Al-Baqir (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-فَمَا حَرَّمَ رَسُولُ اللهِ – صَلَّى اللهُ عَلَيْه وآله – فَهُوَ
-بِمَنْزِلَةِ مَا حَرَّمَ اللهُ.
-  </p>
-</blockquote>
+> فَمَا حَرَّمَ رَسُولُ اللهِ – صَلَّى اللهُ عَلَيْه وآله – فَهُوَ
+> بِمَنْزِلَةِ مَا حَرَّمَ اللهُ.
 
 “Whatever the Messenger of Allah (‘s) has prohibited, then it is as if
 Allah has prohibited it.”[^12]
@@ -363,24 +295,16 @@ progeny of the Holy Prophet (‘s) and were his successors barring the
 fact that making a thing permissible (*halal*) or prohibited (*haram*)
 was beyond their domain. Under the verse
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَ أُولِي اْلأَمْرِ مِنْكُمْ.
-  </p>
-</blockquote>
+> أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَ أُولِي اْلأَمْرِ مِنْكُمْ.
 
 ***‘Obey Allah and obey His messenger and those in authority among
 you’,*** (Qur’an, 4:59)
 
 Imam Al-Baqir (‘a) explains,
 
-<blockquote dir="rtl">
-  <p>
-هِيَ فِيْ عَلِيٍّ وَفِي اْلأَئِمَّةِ. جَعَلَهُمُ اللهُ مَوَاضِعَ
-اْلأَنْبِيَاءِ، غَيْرَ أَنَّهُمْ لاَ يُحِلُّوْنَ شَيْئًا وَلاَ
-يُحَرِّمُونَهُ.
-  </p>
-</blockquote>
+> هِيَ فِيْ عَلِيٍّ وَفِي اْلأَئِمَّةِ. جَعَلَهُمُ اللهُ مَوَاضِعَ
+> اْلأَنْبِيَاءِ، غَيْرَ أَنَّهُمْ لاَ يُحِلُّوْنَ شَيْئًا وَلاَ
+> يُحَرِّمُونَهُ.
 
 “This is about Ali and the Imams (‘a). Allah has placed them in the
 position of the Prophets (‘a) except that they don’t make a thing
@@ -527,5 +451,4 @@ re-appearence).
 [^14]: Tuhaf al Uqul, p. 332
 
 [^15]: Ilalush shar’ia, p. 12
-
 

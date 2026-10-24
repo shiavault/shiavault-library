@@ -28,4 +28,3 @@ that according to Shias, the three Caliphs were Muslims.
 
 [^2]: Pg. 29.
 
-

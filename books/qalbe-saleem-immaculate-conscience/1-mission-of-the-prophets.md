@@ -1446,4 +1446,3 @@ on line at: http://www.al-islam.org/the-hereafter/
 
 [^66]: Surah Yunus 10:58
 
-

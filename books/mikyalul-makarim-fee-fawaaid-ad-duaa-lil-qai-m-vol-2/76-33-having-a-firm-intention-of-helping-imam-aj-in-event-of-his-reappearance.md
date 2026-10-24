@@ -100,4 +100,3 @@ before.
 
 [^4]: Usool Kafi, Vol. 2, Pg. 222
 
-

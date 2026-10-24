@@ -154,4 +154,3 @@ in whose hand lies the soul of this son of Abu Talib (‘a), I would
 prefer a thousand wounds of the sword in the way of Allah, than disobey
 Him and die in bed.***
 
-

@@ -14,11 +14,7 @@ be cleaned and his followers did so clearing it from the brushwood and
 preparing a sunshade for him. Thereupon a call was made for
 congregational prayer and the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أيها الناس! من كنت مولاه فعلي مولاه، الست أولى بكم من انفسكم؟
-  </p>
-</blockquote>
+> أيها الناس! من كنت مولاه فعلي مولاه، الست أولى بكم من انفسكم؟
 
 *O’ people! Of whomsoever I am a master, Ali is his master. Am I not
 closer to you than your own selves?*
@@ -26,11 +22,7 @@ closer to you than your own selves?*
 They said: “Yes.”
 The Prophet of Allah(S) said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه، فهذا علي مولاه. رب! وال من والاه وعاد من عاداه.
-  </p>
-</blockquote>
+> من كنت مولاه، فهذا علي مولاه. رب! وال من والاه وعاد من عاداه.
 
 *Of whomsoever I am a master, Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes enmity
@@ -54,11 +46,7 @@ When Gabriel (a.s.) descended upon the Prophet (S) at the farewell hajj
 to tell him to proclaim the issue of the guardianship of Ali Ibn Abi
 Talib (a.s.), this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ..
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ..
 
 ***O’ Apostle, Proclaim the Message which has been sent to you from your
 Lord…*** ***Sura Al-Ma'idah: verse 67.***
@@ -68,11 +56,7 @@ then, he did not raise Ali’s hand, fearing people. However when he
 arrived on Ghadir Day at Mahi’ah, a place at Juhfa, he called for
 congregational prayer. After people gathered there he said:
 
-<blockquote dir="rtl">
-  <p>
-من اولى بكم من انفسكم؟
-  </p>
-</blockquote>
+> من اولى بكم من انفسكم؟
 
 *Who are closer to you than your own selves?*
 
@@ -86,13 +70,9 @@ replied: Allah and His Prophet.
 
 Then the Prophet (S) raised Hazrat Ali’s hand, saying:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه، وانصر
-من نصره وأخذل من خذله، فإنه مني وانا منه. وهو منّي بمنزلة هارون من
-موسى إلا انه لا نبي بعدي.
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه، وانصر
+> من نصره وأخذل من خذله، فإنه مني وانا منه. وهو منّي بمنزلة هارون من
+> موسى إلا انه لا نبي بعدي.
 
 *Of whomsoever I am a master, Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes*
@@ -121,13 +101,9 @@ of Ali (a.s.) was also revealed at Mina, but knowing that the people
 would react negatively, the Prophet of Allah(S), did not proclaim it. At
 this moment Gabriel said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ  وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ  وَاللَّـهُ
-يَعْصِمُكَ مِنَ النَّاسِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ  وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ  وَاللَّـهُ
+> يَعْصِمُكَ مِنَ النَّاسِ
 
 ***O’ Prophet, Proclaim the Message which has been sent to you from your
 Lord! And if you do not do that, then you would not have fulfilled and
@@ -147,13 +123,9 @@ quoting narrations from Hasan Basri– came in the presence of Imam
 saying: “O‟ son of Prophet of Allah, May I be your ransom! Hasan Basri
 quotes a narration to us according to which this verse[^5]:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ  وَاللَّـهُ
-يَعْصِمُكَ مِنَ النَّاسِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ  وَاللَّـهُ
+> يَعْصِمُكَ مِنَ النَّاسِ
 
 is revealed concerning one of the companions (of the Prophet), but he
 has not mentioned the name of that companion. (That is to say: are you
@@ -165,12 +137,8 @@ Allah not pay his debt! (May Allah not accept his prayer!). Be aware, if
 he wanted, he would have mentioned the name of that companion.”
 Gabriel descended upon Prophet of Allah (S) and said;
 
-<blockquote dir="rtl">
-  <p>
-إن الله تبارك وتعالى يأمرك أن تدل أمتك من وليهم، على مقل ما دللتهم
-عليه في صلاتهم و زكاتهم وصيامهم و حجهم
-  </p>
-</blockquote>
+> إن الله تبارك وتعالى يأمرك أن تدل أمتك من وليهم، على مقل ما دللتهم
+> عليه في صلاتهم و زكاتهم وصيامهم و حجهم
 
 “Allah, the Exalted orders you to show the people, their guardian just
 as you showed them their prayers, zakat, fasting and hajj.
@@ -180,13 +148,9 @@ of ignorance.”
 
 At this moment Allah revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّـهُ
-يَعْصِمُكَ مِنَ النَّاسِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّـهُ
+> يَعْصِمُكَ مِنَ النَّاسِ
 
 ***O’ Prophet, Proclaim the Message which has been sent to you from your
 Lord! And if you do not do that, then you would not have fulfilled and
@@ -195,11 +159,7 @@ mischievous) men.*** Sura Al-Ma'idah: verse 67.
 
 The Prophet of Allah(S) stood up, took Ali’s hand and raised it saying:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فعلي مولاه...
-  </p>
-</blockquote>
+> من كنت مولاه فعلي مولاه...
 
 *Of whomsoever I am a master, Ali is his master*…[^6]
 
@@ -216,11 +176,7 @@ Sadiq (a.s.) as saying:
 When Zaid Ibn Suhan fell on the ground in the battle of Jamal, Ali, the
 commander of the faithful attended to him, saying:
 
-<blockquote dir="rtl">
-  <p>
-رحمك الله يا زيد! لقد كنت خفيف المؤونة عظيم المعونة
-  </p>
-</blockquote>
+> رحمك الله يا زيد! لقد كنت خفيف المؤونة عظيم المعونة
 
 *O, Zaid, May Allah have mercy upon you, your expenses were meagre but
 your assistance was great.*
@@ -232,12 +188,8 @@ your heart. By God, I did not fight alongside you out of ignorance, I
 fought alongside you for I heard Umm Salameh, the Prophet‟s wife,
 saying: I heard Allah‟s Apostle (S) saying:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه، وانصر
-من نصره وأخذل من خذله
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه، وانصر
+> من نصره وأخذل من خذله
 
 *Of whomsoever I am a master, this Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes enmity
@@ -273,13 +225,9 @@ where he ordered people to stop. They stopped there and the call for
 prayer was made. Prophet of Allah (S) prayed a two unit congregational
 prayer with his followers and then he turned towards them saying:
 
-<blockquote dir="rtl">
-  <p>
-انه قد نبأني اللطيف الخبير أني ميت و انكم ميتون، وكأني قد دعيت فأجبت،
-واني مسؤول عمّا ارسلت به إليكم وعمّا خلّفت فيكم من كتاب الله وحجته،
-وإنكم مسؤولون، فما أنتم قائلون لربكم؟
-  </p>
-</blockquote>
+> انه قد نبأني اللطيف الخبير أني ميت و انكم ميتون، وكأني قد دعيت فأجبت،
+> واني مسؤول عمّا ارسلت به إليكم وعمّا خلّفت فيكم من كتاب الله وحجته،
+> وإنكم مسؤولون، فما أنتم قائلون لربكم؟
 
 *Allah, the Merciful and All-Knowing has informed me that all of you and
 I shall die; It seems* *that I have been invited by Allah, therefore I
@@ -293,12 +241,8 @@ guiding us.
 
 Then Prophet of Allah(S) told them:
 
-<blockquote dir="rtl">
-  <p>
-ألستم تهدون ان لا اله الا الله و أني رسول الله اليكم، و أن الجنّة حق و
-النّار حق، وان البعث بعد الموت حق؟
-  </p>
-</blockquote>
+> ألستم تهدون ان لا اله الا الله و أني رسول الله اليكم، و أن الجنّة حق و
+> النّار حق، وان البعث بعد الموت حق؟
 
 *“Will you not attest that there is none worthy our of worship other
 than Allah, and that I am his messenger towards you, and that Paradise
@@ -314,11 +258,7 @@ own selves. Do you now confess to this and accept my testimony?”
 They said: “Yes, your testimony is acceptable.”
 The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ألا من كنت مولاه، فإن عليّا مولاه وهو هذا
-  </p>
-</blockquote>
+> ألا من كنت مولاه، فإن عليّا مولاه وهو هذا
 
 *“Behold! Of whomsoever I am a master, this Ali is his master*.”
 
@@ -326,14 +266,10 @@ Then Prophet of Allah(S) took Hazrat Ali’s hand and raised it with his
 own hand to a point that armpits of both of them were visible. Then he
 said:
 
-<blockquote dir="rtl">
-  <p>
-ألا وإني فرطكم وأنتم واردون عليّ الحوض غداً، وهو حوض عرضه ما بين بصرى
-وصنعاء، فيه أقداح من فضة عدد نجوم السماء، ألا وإنّي سائلكم غداً ماذا
-صنعتم فيما أشهدت اللّه به عليكم في يومكم هذا إذ وردتم عليَّ حوضي؟
-وماذا صنعتم بالثقلين من بعدي؟ فانظروا كيف خلفتموني فيهما حين تلقوني؟
-  </p>
-</blockquote>
+> ألا وإني فرطكم وأنتم واردون عليّ الحوض غداً، وهو حوض عرضه ما بين بصرى
+> وصنعاء، فيه أقداح من فضة عدد نجوم السماء، ألا وإنّي سائلكم غداً ماذا
+> صنعتم فيما أشهدت اللّه به عليكم في يومكم هذا إذ وردتم عليَّ حوضي؟
+> وماذا صنعتم بالثقلين من بعدي؟ فانظروا كيف خلفتموني فيهما حين تلقوني؟
 
 *“My Lord, Befriend anyone who befriends him and make enmity towards
 anyone who makes enmity towards him.*
@@ -354,14 +290,10 @@ treat these two precious things when you shall meet me”.*
 They said: “O! Allah’s Apostle! What are these two precious things?”
 The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أمّا الثقل الأكبر فكتاب اللّه عزّوجل، سبب ممدود من اللّه ومني في
-أيديكم، طرفه بيد اللّه، والطرف الآخر بأيديكم، فيه علم ما مضى وما بقي
-إلى أن تقوم الساعة. وأمّا الثقل الأصغر فهو حليف القرآن وهو علي بن
-أبي طالب وعترته. وإنّهما لن يفترقا حتى يردا عليّ الحوض
-  </p>
-</blockquote>
+> أمّا الثقل الأكبر فكتاب اللّه عزّوجل، سبب ممدود من اللّه ومني في
+> أيديكم، طرفه بيد اللّه، والطرف الآخر بأيديكم، فيه علم ما مضى وما بقي
+> إلى أن تقوم الساعة. وأمّا الثقل الأصغر فهو حليف القرآن وهو علي بن
+> أبي طالب وعترته. وإنّهما لن يفترقا حتى يردا عليّ الحوض
 
 *“The bigger precious thing is Allah’s book which is like a rope from
 Allah and I, which has been pulled and placed in your hands. One side of
@@ -403,12 +335,8 @@ Sheikh Hurre Ameli quotes another narration in this regard. He quotes
 Ana as saying: One day the Prophet of Allah mounted the pulpit. He took
 Ali’s hand and said:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إن هذا منّي بمنزلة هارون من موسى إلّا انه لا نبي بعدي، أيها
-الناس! الست اولى بكم من انفسكم؟
-  </p>
-</blockquote>
+> اللهم إن هذا منّي بمنزلة هارون من موسى إلّا انه لا نبي بعدي، أيها
+> الناس! الست اولى بكم من انفسكم؟
 
 *My Lord, indeed he is to me as Aaron was to Moses, except that there
 will be no Prophet after me. O’ you people! Am I not much closer to you
@@ -416,11 +344,7 @@ than your own selves?*
 
 They said: Yes, you do. He said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فعلي مولاه، ومن كنت وليّه فعلي وليّه
-  </p>
-</blockquote>
+> من كنت مولاه فعلي مولاه، ومن كنت وليّه فعلي وليّه
 
 *Of whomsoever I am a master, Ali is his master, and of whomsoever I am
 a guardian, Ali is his guardian*.[^10]
@@ -447,13 +371,9 @@ his place in the hellfire.
 
 He went on saying:
 
-<blockquote dir="rtl">
-  <p>
-ألا وإنّي فرط لكم على الحوض ومكاثر بكم الأمم يوم القيامة، فلا تسوّدوا
-وجهي. ألا لأستنقذنّ رجالا من النار وليستنقذنّ من يدي أقوام. إنّ اللّه
-مولاي وأنا مولى كلّ مؤمن ومؤمنة، ألا فمن كنت مولاه فهذا علي مولاه»
-  </p>
-</blockquote>
+> ألا وإنّي فرط لكم على الحوض ومكاثر بكم الأمم يوم القيامة، فلا تسوّدوا
+> وجهي. ألا لأستنقذنّ رجالا من النار وليستنقذنّ من يدي أقوام. إنّ اللّه
+> مولاي وأنا مولى كلّ مؤمن ومؤمنة، ألا فمن كنت مولاه فهذا علي مولاه»
 
 *Know that I am entering into the Howd (pond) in advance, and on the day
 of judgement i will be proud of myself because of you outnumbering other
@@ -481,11 +401,7 @@ allegiance to Amir Al-Mu‟minin, Ali (a.s.), and all the people did so.
 
 On the basis of some narrations, the Holy Prophet (S) told people:
 
-<blockquote dir="rtl">
-  <p>
-سلموا على علي بإمرة المؤمنين
-  </p>
-</blockquote>
+> سلموا على علي بإمرة المؤمنين
 
 Greet Ali as the commander of the faithful.[^12]
 
@@ -505,19 +421,11 @@ were also others who were sympathizing with them.
 According to narration of Ghadir, the Prophet of Allah(S) alluding to
 the issue of pond, said:
 
-<blockquote dir="rtl">
-  <p>
-فلا تسوّدو وجهي
-  </p>
-</blockquote>
+> فلا تسوّدو وجهي
 
 Therefore do not embarrass me. Then he said:
 
-<blockquote dir="rtl">
-  <p>
-لأستنقذنّ رجالا من النار و ليستنقذنّ من يدي أقوام
-  </p>
-</blockquote>
+> لأستنقذنّ رجالا من النار و ليستنقذنّ من يدي أقوام
 
 ***I shall save some people from the hellfire and some people shall find
 salvation through me***.
@@ -555,13 +463,9 @@ Ziyad Ibn Munzar and Saeed Ibn Muhammad from Abu Tufail on the authority
 of Ali (a.s.) as saying while trying to argue against the people of
 council:
 
-<blockquote dir="rtl">
-  <p>
-انشدكم الله، هل فيكم أحد قال له رسول الله صلّى الله عليه و آله ما قال
-في غزاة تبوك: ((انما أنت منّي بمنزلة هارون من موسى إلاّ أنه لا نبي
-بعدي))، غيري؟
-  </p>
-</blockquote>
+> انشدكم الله، هل فيكم أحد قال له رسول الله صلّى الله عليه و آله ما قال
+> في غزاة تبوك: ((انما أنت منّي بمنزلة هارون من موسى إلاّ أنه لا نبي
+> بعدي))، غيري؟
 
 *I ask you to tell me for the sake of Allah if there is anyone among you
 about whom at the battle of Tabuk Prophet of Allah(s ) said: " You are
@@ -571,12 +475,8 @@ me.”*
 They said: “No!”
 He said:
 
-<blockquote dir="rtl">
-  <p>
-انشدكم الله، هل فيكم أحد قال له رسول الله صلّى الله عليه و آله ((من
-كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه))، غيري؟
-  </p>
-</blockquote>
+> انشدكم الله، هل فيكم أحد قال له رسول الله صلّى الله عليه و آله ((من
+> كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه))، غيري؟
 
 *I ask you to tell me for the sake of Allah if there is anyone among you
 except me regarding whom Prophet of Allah(S) on Ghadir Khum said: "Of
@@ -602,11 +502,7 @@ and began narrating traditions. Meanwhile, a youngster from the Ansar
 concerning one narration, and I ask you to tell me for the sake of Allah
 whether you heard the Holy Prophet (S) say regarding Ali (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه
 
 *Of whomsoever I am a master, Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes enmity
@@ -615,11 +511,7 @@ towards him.*
 Abu Huraira replied: Yes, I swear by Allah who is the sole object of
 worship that I heard the Prophet say:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه
 
 *Of whomsoever I am a master, Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes enmity
@@ -638,11 +530,7 @@ When Abu Bakr was delivering a speech, Ubi Ibn Ka’b told him: “Don’t you
 know that the Prophet of Allah (S) delivered a speech to us somewhere
 and designated Ali as caliph and said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه...
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه...
 
 *Of whomsoever I am a master, Ali is his master….*[^18]
 
@@ -675,21 +563,13 @@ In a long dialogue with Muawiyah, Sa’d Ibn Abi Waqqas said: I heard that
 a man went to the Prophet of Allah (S) and complained against Ali
 (a.s.), but the Prophet (S) told him:
 
-<blockquote dir="rtl">
-  <p>
-الا تعلم أني أولى بالمؤمنين من أنفسهم؟
-  </p>
-</blockquote>
+> الا تعلم أني أولى بالمؤمنين من أنفسهم؟
 
 *Don’t you know that I am closer to believers than their own selves?*
 
 He said: Yes, I know. Imam said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه،
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه،
 
 *Of whomsoever I am a master, Ali is his master.*
 
@@ -700,11 +580,7 @@ deputy in order to manage things related to women and children?
 
 Allah‟s Apostle (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-أما ترضى أن تكون منّي بمنزلة هارون بن موسى إلا أنه لا نبي بعدي؟
-  </p>
-</blockquote>
+> أما ترضى أن تكون منّي بمنزلة هارون بن موسى إلا أنه لا نبي بعدي؟
 
 *Are you not satisfied to be to me as Aaron was to Moses except that
 there would be no Prophet after me?* [^22]
@@ -747,11 +623,7 @@ He said: “Yes, I will narrate it to you, and to make sure you can ask
 about this from Muhjireen Ansar and also the Quraish. On the day of
 Ghadir, Allah’s Apostle (S) delivered a speech and said:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الناس! ألست أولى بالمؤمنون من أنفسهم؟
-  </p>
-</blockquote>
+> يا أيها الناس! ألست أولى بالمؤمنون من أنفسهم؟
 
 ***“O You people! Am I not closer to you than your own selves?”***
 
@@ -762,11 +634,7 @@ The Prophet (S) repeated his words three times and then said:
 Allah’s Apostle (S) raised Ali’s hand (a.s.) to the extent that I saw
 the whiteness of their armpits. The Prophet (S) thrice said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فعلي مولاه
-  </p>
-</blockquote>
+> من كنت مولاه فعلي مولاه
 
 ***“Of whomsoever I am a master, Ali is his master.”***
 
@@ -815,11 +683,7 @@ Hanan from Abu Ayyub Ansari who said:
 “When the Prophet of Allah(S) took Ali’s hand (a.s.), raised it up and
 said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فعلي مولاه
-  </p>
-</blockquote>
+> من كنت مولاه فعلي مولاه
 
 *“Of whomsoever I am a master, Ali is his master,”*
 
@@ -841,11 +705,7 @@ Kufi has related the following:
 Ishaq Ibn Muhammad Ibn Qasim Hashemi all the time quotes Ghadir
 narration from Hadhifah in this way: The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أيها الناس! الستم تعلمون أني أولى بكم من أنفسكم؟
-  </p>
-</blockquote>
+> أيها الناس! الستم تعلمون أني أولى بكم من أنفسكم؟
 
 *“O you people! Don’t you know that I am closer to you than your own
 selves?”*
@@ -853,11 +713,7 @@ selves?”*
 They said: “We do.”
 The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أيها الناس! من كنت مولاه فهذا علي مولاه
-  </p>
-</blockquote>
+> أيها الناس! من كنت مولاه فهذا علي مولاه
 
 *“O you people! Of whomsoever I am a master, Ali is his master.”*
 
@@ -867,11 +723,7 @@ said:
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت نبيه فعلي أميره، اللهم وال من والاه وعاد من عاداه
-  </p>
-</blockquote>
+> من كنت نبيه فعلي أميره، اللهم وال من والاه وعاد من عاداه
 
 *“Of whomsoever I am a Prophet, Ali is his leader. My Lord! Befriend
 anyone who befriends* *him and make enmity towards anyone who makes
@@ -889,14 +741,10 @@ Apostle (S) mean by saying this?
 
 The Imam sat in a proper way and then said:
 
-<blockquote dir="rtl">
-  <p>
-سئل عنها- والله- رسول الله صلى الله عليه وآله فقال: الله مولاي أولى بي
-من نفسي لا أمر لي معه، وأنا مولى المؤمنين وأولى بهم من أنفسهم لا أمر
-لهم معي، ومن كنت مولاه وأولى به من نفسه فعلي بن ابي طالب، مولاه أولى
-به من نفسه، لا أمر له معه.
-  </p>
-</blockquote>
+> سئل عنها- والله- رسول الله صلى الله عليه وآله فقال: الله مولاي أولى بي
+> من نفسي لا أمر لي معه، وأنا مولى المؤمنين وأولى بهم من أنفسهم لا أمر
+> لهم معي، ومن كنت مولاه وأولى به من نفسه فعلي بن ابي طالب، مولاه أولى
+> به من نفسه، لا أمر له معه.
 
 *The same question – by Allah- was asked from Allah’s Apostle (S). He
 answered:*
@@ -917,11 +765,7 @@ words: "Of whomsoever I am a master, Ali is his master".
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-يا ابا سعيد! تسأل عن مثل هذا؟ّ اعلمهم أنّه يقوم فيهم مقامه
-  </p>
-</blockquote>
+> يا ابا سعيد! تسأل عن مثل هذا؟ّ اعلمهم أنّه يقوم فيهم مقامه
 
 *O’ Aba Saeed! Are you asking about such a (an obvious) thing?! The
 Prophet (S) proclaimed publicly that Ali is his successor*.[^30]
@@ -935,11 +779,7 @@ his master"
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-أخبره أنّه الامام بعده
-  </p>
-</blockquote>
+> أخبره أنّه الامام بعده
 
 *He informed them that after him Ali is his Imam.*[^31]
 
@@ -952,11 +792,7 @@ al-Dalael by Abdullah Ibn Ja‟far Hamyari as saying:
 concerning Imam Ali (a.s.), (Of whomsoever I am a master, Ali is his
 master), Imam Sajjad (a.s.) replied:”
 
-<blockquote dir="rtl">
-  <p>
-أراد بذلك أن يجعله علماً يعرف به حزب الله عند الفرقة
-  </p>
-</blockquote>
+> أراد بذلك أن يجعله علماً يعرف به حزب الله عند الفرقة
 
 *By doing so, Prophet of Allah (S) intended to install him as an
 indicator, so that the party of Allah gets known through him in time of
@@ -1011,11 +847,7 @@ Husain Ibn Hasan Husaini from Muhammad Ibn Musa Hamdani from Ali Ibn
 Hasan Wasiti from Ali Ibn Husain Abdi on the authority of Imam Ja’far
 Sadiq (a.s.) as saying:
 
-<blockquote dir="rtl">
-  <p>
-صيام يوم غدير خم يعدل صيام [عمر] الدنيا
-  </p>
-</blockquote>
+> صيام يوم غدير خم يعدل صيام [عمر] الدنيا
 
 *Fasting on Ghadir Day equals fasting [the age] of this world....*
 
@@ -1036,11 +868,7 @@ Talib’s hand (a.s.) and said:
 
 They said: “Yes, you are. O‟ Allah‟s Apostle! The Prophet (S) said:”
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فعلي مولاه
-  </p>
-</blockquote>
+> من كنت مولاه فعلي مولاه
 
 *Of whomsoever I am a master, Ali is his master.*
 
@@ -1049,11 +877,7 @@ my master and the master of all the Muslims.
 
 It was now that Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-اليوم أكملت لكم دينكم
-  </p>
-</blockquote>
+> اليوم أكملت لكم دينكم
 
 ***Today I have perfected your religion for you***[^34]
 
@@ -1080,12 +904,8 @@ One day I was taking Imam Sadiq (a.s.) from Mecca to Medina. When we
 reached at Ghadir Mosque, Imam (a.s.) looking at the left side of the
 mosque said:
 
-<blockquote dir="rtl">
-  <p>
-ذلك موضع قدم رسول الله صلى الله عليه وآله حيث قال ((من كنت مولاه فعلي
-مولاه... ))
-  </p>
-</blockquote>
+> ذلك موضع قدم رسول الله صلى الله عليه وآله حيث قال ((من كنت مولاه فعلي
+> مولاه... ))
 
 *That is the place where Allah’s Apostle (S) placed his foot, saying:
 “Of whomsoever I am a master, Ali is his master.”*[^38]
@@ -1093,12 +913,8 @@ mosque said:
 Based on his chain of transmitters, Sheikh Kulaini also quotes in this
 regard Aban on the authority of Imam Sadiq (a.s.) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يستحب الصلاة في مسجد الغدير: لأن النبي صلى الله عليه وآله أقام أمير
-المؤمنين عليه السلام وهو موضع أظهر الله فيه الحق
-  </p>
-</blockquote>
+> يستحب الصلاة في مسجد الغدير: لأن النبي صلى الله عليه وآله أقام أمير
+> المؤمنين عليه السلام وهو موضع أظهر الله فيه الحق
 
 *It is recommended to offer prayer in Ghadir Mosque. This is because the
 Holy Prophet (S) designated Amir Al-Mu’minin to governance in that
@@ -1129,13 +945,9 @@ I said: May I be your ransom, which day?”
 I said: May I be your ransom, what is our duty on this day?”
 He said:
 
-<blockquote dir="rtl">
-  <p>
-تصومه ياحسن! وتكثر الصلاة على محمد وآل محمد وتبرء الى الله عز وجل ممّن
-ظلمهم، فإن الانبياء صلوات الله عليهم كانت تأمر الاوصياء باليوم الذي
-كان يقام فيه الوصي أن يتخذ عيداً
-  </p>
-</blockquote>
+> تصومه ياحسن! وتكثر الصلاة على محمد وآل محمد وتبرء الى الله عز وجل ممّن
+> ظلمهم، فإن الانبياء صلوات الله عليهم كانت تأمر الاوصياء باليوم الذي
+> كان يقام فيه الوصي أن يتخذ عيداً
 
 *O’ Hasan! Fast on this day, send a lot of salutations (salawat) to the
 Prophet and his progeny and seek Allah’s favour by showing disgust
@@ -1276,5 +1088,4 @@ Al-Nadarah, vol. 2, p. 169, Kanz Al-Amal, vol. 6, p. 397.
 [^42]: MaTalib Al-Su'ol, p. 97.
 
 [^43]: Wafiyat Al-A'ayan, vol. 1, p. 180 and vol. 5, p. 230.
-
 

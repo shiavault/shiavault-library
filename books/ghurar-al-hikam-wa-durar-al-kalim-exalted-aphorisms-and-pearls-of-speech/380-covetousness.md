@@ -114,21 +114,13 @@ Hereafter.
 27. Abandon covetousness and greediness and cling to chastity and piety.
 
 > 27ـ ذَرِ الطَّمَعَ، والشَّـرَهَ، وعَلَيْكَ بِلُزُومِ العِفَّةِ،
-<blockquote dir="rtl">
-  <p>
-والوَرَعِ.
-  </p>
-</blockquote>
+> والوَرَعِ.
 
 28. The abasement of men is in the things they covet and the passing
 away of lifetimes is in [following] the deceptions of [false] hopes.
 
 > 28ـ ذُلُّ الرِّجالِ فِي المَطامِعِ، وَفِناءُ الآجالِ في غُرُورِ
-<blockquote dir="rtl">
-  <p>
-الآمالِ.
-  </p>
-</blockquote>
+> الآمالِ.
 
 29. The cornerstone of piety is abandoning covetousness.
 
@@ -188,11 +180,7 @@ piety.
 ambitions that are disliked [by Him].
 
 > 42ـ نَعُوذُ بِاللّهِ مِنَ المَطامِعِ الدَّنِيَّةِ، والهِمَمِ الغَيْرِ
-<blockquote dir="rtl">
-  <p>
-المَرْضِيَّةِ.
-  </p>
-</blockquote>
+> المَرْضِيَّةِ.
 
 43. Do not covet that which you do not deserve.
 
@@ -207,11 +195,7 @@ of this world].
 letting it overcome you with the desire for more.
 
 > 45ـ لاتُطْمِعَنَّ نَفْسَكَ فيما فَوْقَ الكَفافِ، فَيَغْلِبَكَ
-<blockquote dir="rtl">
-  <p>
-بِالزِّيادَةِ.
-  </p>
-</blockquote>
+> بِالزِّيادَةِ.
 
 46. Do not let covetousness enslave you while Allah has made you free.
 
@@ -265,11 +249,7 @@ has actually abased himself and shall be even more abased and disgraced
 in the Hereafter.
 
 > 57ـ مَنْ لَمْ يُنَزِّهْ نَفْسَهُ عَنْ دَناءَةِ المَطامِعِ فَقَدْ
-<blockquote dir="rtl">
-  <p>
-أذَلَّ نَفْسَهُ، وهُوَ فِي الآخِرَةِ أذَلُّ وأَخْزى.
-  </p>
-</blockquote>
+> أذَلَّ نَفْسَهُ، وهُوَ فِي الآخِرَةِ أذَلُّ وأَخْزى.
 
 58. A little cupidity corrupts a lot of piety.
 
@@ -323,5 +303,4 @@ coveter.
 70. The coveter is forever in the shackles of disgrace.
 
 > 70ـ اَلطَّامِعُ أبَداً في وِثاقِ الذُّلِّ.
-
 

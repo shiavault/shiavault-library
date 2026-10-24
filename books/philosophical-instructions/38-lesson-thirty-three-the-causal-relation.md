@@ -250,4 +250,3 @@ that an existent is an effect, and among these are limitations in time
 and place, limitations in a thing’s effects, changeability, moveability
 and destructibility.
 
-

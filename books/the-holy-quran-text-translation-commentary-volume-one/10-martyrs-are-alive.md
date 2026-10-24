@@ -18,7 +18,6 @@ who have been slain for the cause of Allah as 'Dead' Nay! They are
 indeed alive - eternally alive. They are having sustenance and all
 necessities for living, in the presence of
 
-
 [ 166 ]
 
 Their Lord; in contrary to you mortals, who are confined beyond the
@@ -685,5 +684,4 @@ they were afraid of losing their social religious influences and
 advantages through which they piled wealth and were on the carpet for
 consultation and judgements, being invited in parties, or leading social
 and religious ceremonies.
-
 

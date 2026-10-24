@@ -22,4 +22,3 @@ the book.
 
 **International Relations Department Islamic Propagation Organization**
 
-

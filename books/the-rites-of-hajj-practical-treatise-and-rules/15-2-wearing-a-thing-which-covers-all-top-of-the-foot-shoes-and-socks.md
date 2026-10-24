@@ -26,4 +26,3 @@ deliberately, this act has no atonement and obligatory precaution is to
 shear the topside of the shoe if the pilgrim forced to wear socks or
 shoes.
 
-

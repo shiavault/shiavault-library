@@ -339,4 +339,3 @@ power had already decided (Chomsky, 2002). If we truly wish to see
 coexistence between East and West, we must learn to be tolerant of
 others’ differences, even when they really are different.
 
-

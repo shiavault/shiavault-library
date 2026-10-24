@@ -1187,4 +1187,3 @@ that only a Muslim with correct faith is the real beneficiary of the
 rewards that accrue to him through the mediation of the saints and the
 pious people of Allah.
 
-

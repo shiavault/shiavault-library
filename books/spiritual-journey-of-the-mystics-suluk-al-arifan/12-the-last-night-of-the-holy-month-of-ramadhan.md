@@ -718,4 +718,3 @@ of poetry, describing the religious and gnostic sublime realities in a
 simple language. 2. Divan al-Kabir, consisting of 50,000 mystical verses
 is another literary mystical masterpiece left by Maulana [Tr].
 
-

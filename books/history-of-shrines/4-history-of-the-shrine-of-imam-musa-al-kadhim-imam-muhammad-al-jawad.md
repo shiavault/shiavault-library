@@ -393,4 +393,3 @@ XXIII, ii, p. 42.
 [^17]: . Zafar Nameh, by Sharifu'd-din Ali Yazdi, edt. Calcutta 1887-8,
 vol. II pp. 363-369.
 
-

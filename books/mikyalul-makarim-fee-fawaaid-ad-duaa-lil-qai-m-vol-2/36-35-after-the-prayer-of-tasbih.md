@@ -10,4 +10,3 @@ supplications of Friday, Inshallah.
 
 [^1]: Jamaal al-Usboo, Pg. 292
 
-

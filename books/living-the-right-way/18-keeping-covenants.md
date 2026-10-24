@@ -29,4 +29,3 @@ anybody to disregard them; trustworthiness to the good and to the bad,
 keeping covenants for the good and the bad, and doing good to parents
 whether they are good or bad.”*
 
-

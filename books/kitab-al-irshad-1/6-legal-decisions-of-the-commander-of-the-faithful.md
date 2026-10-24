@@ -14,7 +14,6 @@ them and submit to his judgement concerning them. I will endeavour to
 put forward a brief summary which will give some indication of the
 others, if God, the Exalted, wills.
 
-
 A. (Judgements of the Commander of the Faithful during the Lifetime of
 the Prophet)
 
@@ -69,7 +68,6 @@ on him, over all the rest of the Muslims in the succession (khilafa) of
 the Apostle of God, may God bless him and his family, and in the Imamate
 of the community because of his precedence, peace be on him, over them
 in knowledge and wisdom and their falling short of his rank in that.
-
 
 1. His Judgements in Yemen
 
@@ -172,7 +170,6 @@ The Apostle of God, may God bless him and his family, accepted his
 judgement in this decision and he declared its correctness through his
 acceptance of it, as we have mentioned and described.
 
-
 2. A Case outside Yemen during the Life of the Prophet
 
 Reports have been handed down that two men brought a dispute before the
@@ -237,7 +234,6 @@ Some of the non-Shi'a ('amma) authorities report that this judgement
 between the two men was made by the Commander of the faithful, peace be
 on him, in Yemen.
 
-
 B. Judgements of the Commander of the Faithful
 
 during the Rule of Abu Bakr
@@ -274,7 +270,6 @@ him and his family. So he told him to repent and let him go. He
 submitted to (the authority of) 'Ali in judging it.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 They have reported that Abu Bakr was asked about God's words: Fakihatan
 wa abban (XXXIII 40). He did not know the meaning of al-abb in the
@@ -358,10 +353,8 @@ over it."
 
 Reports like these are numerous.
 
-
 C. Reports of the Judgements of (the Commander of the faithful) during
 the Rule of 'Umar b. al-Khattab
-
 
 Among these is what has been handed down by non-Shi'a ('amma) and Shi'a
 (khassa) authorities concerning the story of Qudama b. Maz'un. The
@@ -429,7 +422,6 @@ prescribed punishment from her.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 It is reported that a pregnant woman who had committed adultery was
 brought before 'Umar. He ordered her to be stoned. The Commander of the
 faithful, peace be on him, told him: "Take care that you have a (right
@@ -449,7 +441,6 @@ Thus was 'Umar relieved of (his cares). In that decision, he relied on
 the Commander of the faithful, peace be on him.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 It is reported that ('Umar) summoned a woman who had been conversing
 with men at her (house). When his messengers came to her, she was
@@ -489,7 +480,6 @@ about.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 It is reported that during the time of 'Umar, two women were disputing
 over a child. Each of them claimed that it was her child without any
 proof but no one else contested their claim to it. The decision with
@@ -520,7 +510,6 @@ that he had saved him from through (his) judgement.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 [It is reported on the authority of Yunus, on the authority of
 al-Hasan:]
 
@@ -541,7 +530,6 @@ Companions acted according to it and the Successors (al-tabi'un) (to the
 Companions) and those who adopted it right up to the present time.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 It is reported that witnesses gave evidence against a woman that they
 had found her at one of the watering places of the Bedouin and a man who
@@ -683,11 +671,9 @@ Commander of the faithful), peace be on him, during the rule of 'Umar b.
 al-Khattab. There were similar (judgements) during the rule of 'Uthman
 b. 'Affan.
 
-
 D. Reports of the Judgements of the Commander of the Faithful
 
 during the Rule of 'Uthman b. 'Affan
-
 
 Among these is the report which non-Shi'a ('amma) and Shi'a (khassa)
 historians (naqalat al-athar) relate.
@@ -765,11 +751,9 @@ the faithful).
 Mentioning further examples such as these would make the book unduly
 long. However the reports about them are well known.
 
-
 E. Reports of the Judgements of (the Commander of the Faithful), peace
 be on him, after the Pledge of Allegiance of the General Populace to him
 and the Death of 'Uthman
-
 
 The traditionists (ahl al-naql wa hamalat al-athar) report that a woman
 gave birth on the bed of her husband to a child who had two heads and
@@ -784,7 +768,6 @@ are two persons and their rights in inheritance are the rights of two
 persons."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 [Al-Hasan b. 'Ali al-'Abdi reported on the authority of Sa'd b. Tarif,
 on the authority of al-Asbagh b. Nubata, who said:]
@@ -872,7 +855,6 @@ declared the pregnancy of the slave girl as due to him and he associated
 him with it.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 They reported that one day the Commander of the faithful, peace be on
 him, went into the mosque and found a young man weeping (there) with
@@ -1035,9 +1017,7 @@ he judged them according to this judgement. The murder was proved
 against them and he got the money from them. Then he said to her:
 'Maidservant of God, name this child of yours Religion is Alive.' "
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 It is reported that a woman desired a young man and she tried to seduce
 him but the young man refused. She went away and got an egg. She put the
@@ -1065,9 +1045,7 @@ They tasted it and found that it (tasted like) egg. He ordered the
 young man to be freed and the woman to be flogged as a punishment for
 her false accusation.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 [Al-Hasan b. Mahbub reported: \`Abd al-Rahman b. al-Hajjaj told me: I
 heard Ibn Abi Layla saying:]
@@ -1117,9 +1095,7 @@ one-eighth of the guest's food)."
 The two men departed (reflecting on) the perspicacity of the judgement
 of their case.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 The scholars of (religious) practices (siyar) report that during the
 time of the Commander of the faithful, peace be on him, four men drank
@@ -1150,9 +1126,7 @@ intention to kill? Therefore the judgement was made according to the
 rule of accidental killing and on the basis of confusion about (the
 actions of) the killer and killed.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 It is reported that six men went down to the Euphrates and dived into
 it to play. One of them drowned. Two of them testified that the (other)
@@ -1165,9 +1139,7 @@ accord with the amount of testimony against them.
 There was no judgement in that with more right to (be considered)
 correct than the judgement he, peace be on him, gave.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 They reported that a man was about to die and he bequeathed part of his
 wealth without designating it. His heirs differed on that after his
@@ -1186,7 +1158,6 @@ for the poor and needy. (IX 60). There were eight categories for the
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 He, peace be on him, judged a case concerning a man who made a bequest
 and said: "Free every slave of mine who has been long in my
 possession."
@@ -1203,9 +1174,7 @@ It has been established that the branch of a palm tree only becomes
 similar to the new moon in its strength six months after fruit has been
 taken from it.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 He gave judgement concerning a man who had made a vow to fast for a
 time but without mentioning any definite time. (He told him) to fast for
@@ -1216,9 +1185,7 @@ brings forth its fruit at every season by the permission of its Lord.
 That was every six months (so the time he interpreted to be equivalent
 to six months).
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 A man came to him and said: "Commander of the faithful, I had some
 dates. My wife rushed (up to me) and took one of them and put it in her
@@ -1227,9 +1194,7 @@ mouth. I vowed that she would never eat it nor spit it out."
 He, peace be on him, said: "Let her eat half of it and spit out the
 other half. Then you will be free of your vow."
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 He, peace be on him, gave judgement concerning a man who struck a woman
 and she had a miscarriage (when it was still) an embryo. (He ordered
@@ -1248,7 +1213,6 @@ thousand dinars.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 This has been a sample of the judgements and difficult decisions
 pronounced by (the Commander of the faithful), peace be on him. No one
 had given judgements on (such cases) before him. Nor did any of the
@@ -1263,7 +1227,6 @@ faithful) which we have put forward here, there is sufficient for our
 purposes, if God wills.
 
 **NOTES**
-
 
 1. According to Ahmad b. Abi 'Abd Allah al-Barqi, the Shurtat al-Khamis
 were six thousand of 'Ali's followers who had pledged themselves to

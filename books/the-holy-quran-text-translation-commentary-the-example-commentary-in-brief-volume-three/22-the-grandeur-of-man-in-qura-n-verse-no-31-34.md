@@ -287,10 +287,8 @@ OPPRESSORS DO. HE ONLY DEFERS THEM TO A DAY IN WHICH EYES SHALL STARE.
 43- WITH NECKS OUTSTRETCHED, HEADS UPLIFTED THEIR GAZE WILL NOT TURN ON
 THEMSELVES, AND THEIR HEART IS UTTERLY VACANT.
 
-<p dir="rtl">
 وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ فَيَقُولُ الَّذِينَ
 ظَلَمُوا رَبَّنَا أَخِّرْنَا إِلَى أَجَل قَرِيب
-</p>
 
 [ 386 ]
 
@@ -608,5 +606,4 @@ Divine Light which was called ABRAHAM was not quenched. Thereafter he
 began his real carrier which was to convey God's Message of truth, and
 show to mankind the way of Monotheism and righteousness, which ends in
 man's salvation and prosperity.
-
 

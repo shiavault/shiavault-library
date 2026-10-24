@@ -1140,4 +1140,3 @@ immigration agreement made between the host country and the immigrant."
 
 [^62]: ãq means a child who is disobedient to his parents.
 
-

@@ -282,4 +282,3 @@ seen that person, and he had seen him an hour earlier, he would say that
 he has not seen him, meaning in his mind that he has not seen him during
 the last few minutes.
 
-

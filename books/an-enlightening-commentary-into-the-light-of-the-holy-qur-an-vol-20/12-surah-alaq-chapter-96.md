@@ -8,11 +8,7 @@ Surah ‘Alaq, Chapter 96
 Contents of Surah 'Alaq
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -58,43 +54,19 @@ called: 'Alaq, Iqra', or Qalam.
 Surah ‘Alaq, Verses 1-5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
-  </p>
-</blockquote>
+> اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ
-  </p>
-</blockquote>
+> خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
-  </p>
-</blockquote>
+> اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي عَلَّمَ بِالْقَلَمِ
-  </p>
-</blockquote>
+> الَّذِي عَلَّمَ بِالْقَلَمِ
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
-  </p>
-</blockquote>
+> عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
 
 ***1. “Read (Proclaim!) In the Name of your Lord Who created"***  
 ***2. “Created man, out of a clot (of congealed blood).”***  
@@ -438,59 +410,23 @@ which conform to this idea. [^4]
 Surah ‘Alaq, Verses 6-14
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى
-  </p>
-</blockquote>
+> كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى
 
-<blockquote dir="rtl">
-  <p>
-أَن رَّآهُ اسْتَغْنَى
-  </p>
-</blockquote>
+> أَن رَّآهُ اسْتَغْنَى
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِلَى رَبِّكَ الرُّجْعَى
-  </p>
-</blockquote>
+> إِنَّ إِلَى رَبِّكَ الرُّجْعَى
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ الَّذِي يَنْهَى
-  </p>
-</blockquote>
+> أَرَأَيْتَ الَّذِي يَنْهَى
 
-<blockquote dir="rtl">
-  <p>
-عَبْدًا إِذَا صَلَّى
-  </p>
-</blockquote>
+> عَبْدًا إِذَا صَلَّى
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَى
-  </p>
-</blockquote>
+> أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَى
 
-<blockquote dir="rtl">
-  <p>
-أَوْ أَمَرَ بِالتَّقْوَى
-  </p>
-</blockquote>
+> أَوْ أَمَرَ بِالتَّقْوَى
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّى
-  </p>
-</blockquote>
+> أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّى
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَى
-  </p>
-</blockquote>
+> أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَى
 
 ***6. “Nay! Most surely man does transgress (all bounds).”***  
 ***7. “For he thinks himself self-sufficient.”***  
@@ -669,35 +605,15 @@ He has seen from me?"*
 Surah ‘Alaq, Verses 15-19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ
-  </p>
-</blockquote>
+> كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ
 
-<blockquote dir="rtl">
-  <p>
-نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
-  </p>
-</blockquote>
+> نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَدْعُ نَادِيَه
-  </p>
-</blockquote>
+> فَلْيَدْعُ نَادِيَه
 
-<blockquote dir="rtl">
-  <p>
-سَنَدْعُ الزَّبَانِيَةَ
-  </p>
-</blockquote>
+> سَنَدْعُ الزَّبَانِيَةَ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ
-  </p>
-</blockquote>
+> كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ
 
 ***15. “Nay! If he desist not, We will certainly seize him by the
 forelock,"***  
@@ -903,5 +819,4 @@ fruitless.*
 [^10]: 34:34
 
 [^11]: 23:67
-
 

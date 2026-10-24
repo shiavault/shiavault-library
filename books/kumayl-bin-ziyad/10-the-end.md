@@ -10,4 +10,3 @@ annoy Kumayl followers. He deprived them of money. So, their economic
 condition was bad. Kumayl heard about that. Thus, he decided to
 surrender. The police took him to al-Hajjaj.
 
-

@@ -1411,4 +1411,3 @@ sent out either to make alliances with neighboring tribes, or they were
 reconnaissance patrols, for news was reaching Medina that, the Meccans
 might strike any day.
 
-

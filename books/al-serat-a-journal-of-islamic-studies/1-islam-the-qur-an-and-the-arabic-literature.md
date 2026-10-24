@@ -939,4 +939,3 @@ Encyclopedia, New York and London, 1975, p. 1670.
 Spain, Guadalquivir is a river which runs through the ancient city of
 Seville, and the Alcazar is the famous palace in that city.
 
-

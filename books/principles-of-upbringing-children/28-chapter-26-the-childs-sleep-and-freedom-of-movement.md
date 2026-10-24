@@ -36,4 +36,3 @@ will impede its free movement and will have ill effect on its nerves.
 Such children have no other alternative than crying which will be the
 precursor of rebellious and angry nature.
 
-

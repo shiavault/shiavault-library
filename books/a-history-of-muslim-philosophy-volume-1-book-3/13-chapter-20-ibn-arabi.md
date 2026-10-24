@@ -1253,4 +1253,3 @@ Affifi, Bulletin of the Faculty of Arts, Vol. VIII, pp. 112f.
 
 [^39]: Fusus, p.94.
 
-

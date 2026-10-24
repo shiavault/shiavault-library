@@ -113,4 +113,3 @@ realised the perfection and glory of the true *wahy* from the Miraculous
 Qur'an. I hope this and the next sections of this book can provide a
 basis for the examination of such claims.
 
-

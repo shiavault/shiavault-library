@@ -240,4 +240,3 @@ part of this period preceded to the prophetic mission.
 
 [^6]: 2Tarikh-i Tabari, vol. II, page 215. .
 
-

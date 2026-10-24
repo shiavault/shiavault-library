@@ -116,4 +116,3 @@ that of Ibn-El-Nafis, on Unitarianism. Servetus was burnt with his book,
 "Restitutio Christianismi" in Geneva in October 1553 at the order of
 Calvin because he was considered heretic.
 
-

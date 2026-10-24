@@ -56,4 +56,3 @@ la-dh-Dhaaliiin*
 of those upon whom Thy wrath is brought down, nor of those who go
 astray.*
 
-

@@ -27,12 +27,8 @@ cried for him.”[^1]
 On his own chain of transmission, Tabari recounts the following
 statement of al-Hasan Basri while interpreting the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... تَاللهِ تَفتَؤُا تَذْکُرُ يُوسُفَ حَتَّى تَکُونَ حَرَضاً أَوْ
-تَکُونَ مِنَ الْهلِکِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... تَاللهِ تَفتَؤُا تَذْکُرُ يُوسُفَ حَتَّى تَکُونَ حَرَضاً أَوْ
+> تَکُونَ مِنَ الْهلِکِينَ ﴾
 
 ***“They said: By Allah! You will not cease to remember Yusuf until you
 are a prey to constant disease or until you are of those who
@@ -71,12 +67,8 @@ Prophet saw them, his eyes were filled with tears. His color, too,
 changed. I said to him, ‘We see something in your face showing that you
 are in pain.’ The Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-«انّا اهل بيت اختار الله لنا الآخرة على الدنيا، وانّ أهل بيتي سيلقون
-بلاء.»
-  </p>
-</blockquote>
+> «انّا اهل بيت اختار الله لنا الآخرة على الدنيا، وانّ أهل بيتي سيلقون
+> بلاء.»
 
 ‘Verily, we are the *Ahl al-Bayt*, for whom Allah has preferred the
 afterlife over this worldly life. And verily, soon it shall be that
@@ -114,11 +106,7 @@ uncle! O uncle!’”
 
 The Prophet of Allah said,
 
-<blockquote dir="rtl">
-  <p>
-على مثل جعفر فلتبك البواکي.
-  </p>
-</blockquote>
+> على مثل جعفر فلتبك البواکي.
 
 “People ought to shed tears for people like Ja‘far.”[^9]
 
@@ -148,11 +136,7 @@ Prophet (S) kissed the dead body of ‘Uthman ibn Maz‘un and cried.[^12]
 Anas ibn Malik says, “When Ibrahim (Abraham), the son of the Noble
 Prophet (S), died the Prophet (S) cried and told his companions,
 
-<blockquote dir="rtl">
-  <p>
-«لا تدرجوه في اکفانه حتّى انظر اليه.»
-  </p>
-</blockquote>
+> «لا تدرجوه في اکفانه حتّى انظر اليه.»
 
 ‘Do not put him in the shroud until I see him’.”[^13]
 
@@ -169,11 +153,7 @@ place. ‘Umar ibn Khattab was among the people taking it for burial. He
 heard the voices of women crying, and commanded them to stop. The Holy
 Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«يا عمر! دعهنّ، فانّ العين دامعة، والنفس مصابة والعهد قريب.»
-  </p>
-</blockquote>
+> «يا عمر! دعهنّ، فانّ العين دامعة، والنفس مصابة والعهد قريب.»
 
 ‘O ‘Umar! Leave them alone, because tearful eyes, a troubled soul and
 the promise are near’.”[^15]
@@ -186,17 +166,9 @@ Fatimah (as) passed away, ‘Ali used to visit her grave every day. One
 day he went to visit her and threw himself on her grave while crying. He
 recited this poem,
 
-<blockquote dir="rtl">
-  <p>
-مالي مررتُ على القبورِ مسلّماً قَبر الحبيبِ فلم يردِّ جوابي
-  </p>
-</blockquote>
+> مالي مررتُ على القبورِ مسلّماً قَبر الحبيبِ فلم يردِّ جوابي
 
-<blockquote dir="rtl">
-  <p>
-يا قبرُ مالك لا تجيبُ منادياً أمللتَ بعدي خلّةَ الأحبابِ
-  </p>
-</blockquote>
+> يا قبرُ مالك لا تجيبُ منادياً أمللتَ بعدي خلّةَ الأحبابِ
 
 *What has happened to me that I visit the graves and give my greetings
 and peace [salam] to my friend and beloved but I do not hear a reply!?*
@@ -211,21 +183,13 @@ weary after associating with me?*”[^16]
 Ibn Qutaybah says, “When ‘Ammar was killed, Imam ‘Ali (as) said to
 ‘Uday,
 
-<blockquote dir="rtl">
-  <p>
-«يا عدي! قتل عمار بن ياسر؟»
-  </p>
-</blockquote>
+> «يا عدي! قتل عمار بن ياسر؟»
 
 ‘O ‘Uday! Has ‘Ammar ibn Yasir been killed?’
 
 ‘Uday replied, ‘Yes.’ Then, Imam ‘Ali (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«رحمك الله يا عمار! استوجب الحياة والرزق الکريم...»
-  </p>
-</blockquote>
+> «رحمك الله يا عمار! استوجب الحياة والرزق الکريم...»
 
 ‘May Allah forgive you, O ‘Ammar. You were worthy of a bountiful life
 and sustenance…’”[^17]
@@ -256,11 +220,7 @@ afterlife.”[^20]
 Anas ibn Malik says, “When we were returning from burying the Holy
 Prophet (S), Fatimah came forward and addressed me,
 
-<blockquote dir="rtl">
-  <p>
-«کيف طابت انفسکم ان تحثوا على وجه رسول الله (ص) التراب؟»
-  </p>
-</blockquote>
+> «کيف طابت انفسکم ان تحثوا على وجه رسول الله (ص) التراب؟»
 
 ‘How did you manage to drop dirt on the Prophet’s face?’
 
@@ -345,11 +305,7 @@ dragged on the ground in streets around the butcher shops. They also
 sent their heads to Yazid ibn Mu‘awiyah. Imam al-Husayn sighed deeply
 and cried. He then said,
 
-<blockquote dir="rtl">
-  <p>
-« إِنّا لِلّهِ وَإِنّا إِلَيْهِ راجِعُونَ»
-  </p>
-</blockquote>
+> « إِنّا لِلّهِ وَإِنّا إِلَيْهِ راجِعُونَ»
 
 ***‘We are from Allah and to Him is our return.’’”***[^27]
 
@@ -375,12 +331,8 @@ mercy on me, then at least have mercy on this infant.’ A man from among
 the army shot an arrow at the newborn’s neck piercing it and killing the
 infant. Imam al-Husayn (as) started to cry and said,
 
-<blockquote dir="rtl">
-  <p>
-«الّلهم احکم بيننا وبين قوم دعونا لينصرونا فقتلونا. فنودي من الهواء:
-دعه يا حسين! فانّ له مرضعاً في الجنّة.»
-  </p>
-</blockquote>
+> «الّلهم احکم بيننا وبين قوم دعونا لينصرونا فقتلونا. فنودي من الهواء:
+> دعه يا حسين! فانّ له مرضعاً في الجنّة.»
 
 ‘O my Lord! Jugde between us and the people who invited us on the
 pretext that they would help us but have instead betrayed and killed
@@ -393,12 +345,8 @@ because he will be given milk in heaven’.”[^28]
 When Imam al-Husayn (as) was informed that Qays had been killed, he
 cried out and shed tears. Then he said,
 
-<blockquote dir="rtl">
-  <p>
-«اللهم اجعل لنا ولشيعتنا منزلاً کريماً عندك واجمع بيننا وايّا هم في
-مستقرّ رحمتك، انّك على کلّ شيء قدير.»
-  </p>
-</blockquote>
+> «اللهم اجعل لنا ولشيعتنا منزلاً کريماً عندك واجمع بيننا وايّا هم في
+> مستقرّ رحمتك، انّك على کلّ شيء قدير.»
 
 “O my Lord! Give us and our Shi‘ahs a generous abode near Thyself, and
 gather us and them in Thy abode of mercy, because Thou art powerful over
@@ -413,12 +361,8 @@ They cut his head off and threw it in the direction of Imam al-Husayn.
 Imam al-Husayn put Hurr’s head on his lap and as he cried, he wiped
 blood from Hurr’s face and said,
 
-<blockquote dir="rtl">
-  <p>
-«والله ما اخطأت أمّك اذ سمّتك حرّاً فانّك حرّ في الدنيا وسعيد في
-الآخرة.»
-  </p>
-</blockquote>
+> «والله ما اخطأت أمّك اذ سمّتك حرّاً فانّك حرّ في الدنيا وسعيد في
+> الآخرة.»
 
 ‘I swear upon Allah! Your mother did not make a mistake when she named
 you Hurr, because you were a free man in this world and one who has
@@ -470,11 +414,7 @@ mercy on you, O Aba Muhammad!’”[^35]
 
 Jazri recounts, “Bilal saw the Noble Prophet in a dream telling him,
 
-<blockquote dir="rtl">
-  <p>
-«ما هذه الجفوة يا بلال؟ اما اَن لك اَن تزورنا؟»
-  </p>
-</blockquote>
+> «ما هذه الجفوة يا بلال؟ اما اَن لك اَن تزورنا؟»
 
 ‘What kind of unkindness and disloyalty is this, O Bilal? Has not the
 time come for you to come and visit us?’
@@ -577,5 +517,4 @@ trans. Imam al-Hasan, p. 229.
 [^35]: Al-‘Aqd al-Farid, vol. 2, p. 8; Tadhkirah al-Khawass, p. 213.
 
 [^36]: Usd al-Ghabah, vol. 1, p. 208.
-
 

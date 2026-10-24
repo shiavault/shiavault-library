@@ -43,4 +43,3 @@ of faith, hasten to pray for His Eminence.
 
 [^4]: Wasailush Shia, Vol. 4, Pg. 1148, Tr. 13
 
-

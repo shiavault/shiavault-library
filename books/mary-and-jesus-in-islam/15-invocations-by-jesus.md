@@ -47,4 +47,3 @@ created us. We testify that You are the One and Only One, on Whom all
 depend, the One Who does not beget, nor is He begotten, and none at all
 is like Him.
 
-

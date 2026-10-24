@@ -605,4 +605,3 @@ Husayn (a.s.) get killed, and that I could not defend him with my life,
 but both my sons have.” These being the words of an honest and sincere
 adherer of the Household (Ahlul Bayt (a.s.)) of the Prophet (S).
 
-

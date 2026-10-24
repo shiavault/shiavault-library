@@ -38,7 +38,6 @@ equal time between the two locations, he has the choice [of which Hajj
 to perform] even if he was mostatee’ to perform one rather than the
 other, and the preferred choice is to perform the Tamattu‘ Hajj.
 
-
 **A brief outline of the Tamattu‘ Hajj**
 
 120. The Tamattu‘ Hajj consists of Umrah and Hajj, and a brief outline
@@ -464,5 +463,4 @@ miqaat.
 153. It is important to note that the references made to the month in
 this respect do not suggest lunar months, but the criterion is the
 passage of thirty days.
-
 

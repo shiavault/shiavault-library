@@ -214,4 +214,3 @@ on Sūrah al-Baqarah, narrative 530.
 
 [^7]: 'Ilal ash-Sharā'i', vol. 2, p. 312.
 
-

@@ -195,4 +195,3 @@ Lahore, 1972 onward. 
 
 [^3]: The Encyclopedia of Islam, vol. III, p.24.
 
-

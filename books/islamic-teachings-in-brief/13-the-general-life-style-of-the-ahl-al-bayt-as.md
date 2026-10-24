@@ -997,4 +997,3 @@ They did not transgress upon the honor and prestige of others.
 The explanation of these epithets and their impact should be studied in
 more detail in the section on "Ethics".
 
-

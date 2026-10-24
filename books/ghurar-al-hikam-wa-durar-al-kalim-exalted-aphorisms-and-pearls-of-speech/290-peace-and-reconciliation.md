@@ -38,14 +38,9 @@ from their adversities.
 beneficial than war.
 
 > 8ـ وَجَدْتُ المُسالَمَةَ مالَمْ يَكُنْ وَهْنٌ فِي الإسْلامِ أنْجَعَ
-<blockquote dir="rtl">
-  <p>
-مِنَ القِتالِ.
-  </p>
-</blockquote>
+> مِنَ القِتالِ.
 
 9. There is no outcome sounder than the outcomes of peace.
 
 > 9ـ لاعاقِبَةَ أسْلَمُ مِنْ عَواقِبِ السِّلْمِ.
-
 

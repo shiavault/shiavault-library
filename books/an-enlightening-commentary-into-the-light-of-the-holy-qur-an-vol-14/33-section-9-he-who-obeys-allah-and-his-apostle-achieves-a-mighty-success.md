@@ -4,13 +4,9 @@ Section 9: He Who Obeys Allah and His Apostle Achieves a Mighty Success
 Surah Al-’Ahzab – Verse 69
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ ءَامَنُوا لاَ تَكُونُوا كَالَّذِينَ ءَاذَوْا
-مُوسَي فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا وَكَانَ عِندَ اللَّهِ
-وَجِيهاً
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ ءَامَنُوا لاَ تَكُونُوا كَالَّذِينَ ءَاذَوْا
+> مُوسَي فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا وَكَانَ عِندَ اللَّهِ
+> وَجِيهاً
 
 ***69. “O’ you who believe! Be not like those who hurt Moses (with a
 slander), but Allah cleared him of what they said, and he was well
@@ -117,19 +113,11 @@ those who hurt Ali (as) and his progeny are involved in this verse.[^1]
 Surah Al-’Ahzab – Verses 70-71
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ ءَامَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلاً
-سَدِيدًا
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ ءَامَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلاً
+> سَدِيدًا
 
-<blockquote dir="rtl">
-  <p>
-يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن
-يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزاً عَظِيمًا
-  </p>
-</blockquote>
+> يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن
+> يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزاً عَظِيمًا
 
 ***70. “O’ you who believe! Be in awe of Allah and speak you the right
 word,”***  
@@ -228,13 +216,9 @@ purified, his sins be forgiven, and he becomes acceptable before Allah.
 Surah Al-’Ahzab – Verse 72
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا عَرَضْنَا الأَمَانَةَ عَلَي السَّمَاوَاتِ وَالأَرْضِ
-وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
-وَحَمَلَهَا الاِنسَانُ إِنَّهُ كَانَ ظَلُوماً جَهُولاً
-  </p>
-</blockquote>
+> اِنَّا عَرَضْنَا الأَمَانَةَ عَلَي السَّمَاوَاتِ وَالأَرْضِ
+> وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
+> وَحَمَلَهَا الاِنسَانُ إِنَّهُ كَانَ ظَلُوماً جَهُولاً
 
 ***72. “Verily We offered the trust unto the heavens and the earth and
 the mountains, but they refused to bear it, and were afraid thereof; and
@@ -504,13 +488,9 @@ were unable to bear, if he does not forget his rank.
 Surah Al-’Ahzab – Verse 73
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيُعَذّ‌ِبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ
-وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللَّهُ عَلَي
-الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَكَانَ اللَّهُ غَفُوراً رَحِيماً
-  </p>
-</blockquote>
+> لِيُعَذّ‌ِبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ
+> وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللَّهُ عَلَي
+> الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَكَانَ اللَّهُ غَفُوراً رَحِيماً
 
 ***73. “So Allah punishes the hypocritical men and the hypocritical
 women, and the polytheist-men and the polytheist-women and Allah turns
@@ -583,5 +563,4 @@ under the verse
 [^12]: Surah ’Isra’, No. 17, verse 70
 
 [^13]: Surah Al-Baqarah, No. 2, verse 30
-
 

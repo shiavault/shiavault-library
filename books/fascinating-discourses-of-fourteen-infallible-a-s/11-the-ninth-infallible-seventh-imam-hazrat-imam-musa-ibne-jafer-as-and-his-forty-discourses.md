@@ -36,10 +36,8 @@ coincident with the era of Haroon, which stretched as long as 2.3 year,
 Dynasity during whose period of rule the Imam mostly remained
 imprisoned.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام موسی الکاظم عليه السلام
 -----------------------------------------------
-</p>
 
 1- وَجدتُ عِلمَ النّاسِ في أَربَعٍ :اوَّلُها أَن تَعرِفَ رَبَّکَ
 وَالثّانِيَةُ أَن تَعرِفَ ما صَنَعَ بِکَ، وَالثّالِثَةُ،أَن تَعرِفَ ما
@@ -466,5 +464,4 @@ one who enters into self conciet &. self applause gets annihilated.
 40. The one who squanders, wastes &. spends lavishly, the beneficiences
 &. blessings are abated, terminated &. cease to exist with him. (BIHAR
 UL ANWAR VOL 78, P 327)
-
 

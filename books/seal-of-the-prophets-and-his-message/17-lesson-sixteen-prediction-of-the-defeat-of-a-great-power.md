@@ -258,4 +258,3 @@ personal desires and wishes.
 
 [^2]:  Majma al-Bayan, Vol. VIII, p. 295
 
-

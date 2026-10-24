@@ -2078,4 +2078,3 @@ thank Him.
 
 [^3]: Rawdatus Safa
 
-

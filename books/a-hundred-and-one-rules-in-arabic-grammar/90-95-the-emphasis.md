@@ -10,26 +10,19 @@ marker of the noun it refers to.
 
 a. nominative
 
-<p dir="rtl">
 **حَضَرَ** المُعلـِّمُ نـَفسُهُ **.**
-</p>
 
 The teacher, himself, came.
 
 b. accusative
 
-<p dir="rtl">
 **شاهَدتُ** المُدرِّساتِ کـُلـَّهُنَّ.
-</p>
 
 I saw the teachers (f), all of them.
 
 c. genitive
 
-<p dir="rtl">
 **تـَحَدَّثتُ إلی** الطلابِ بَعضِهـِم.
-</p>
 
 I spoke to the students, some of them.
-
 

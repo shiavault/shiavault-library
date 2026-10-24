@@ -234,4 +234,3 @@ ground.
 This was on 9th Dhul Hajj. Immediately after Hazrat Muslim was killed
 Hani bin Urwah was dragged to the roof top and executed.
 
-

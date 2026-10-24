@@ -40,22 +40,14 @@ Somatic Resurrection
 The belief in somatic resurrection (after death) is one of the
 fundamentals of Islam to which the Holy Qur'an has referred openly:
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ بَلَىٰ قَادِرِينَ
-عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ
-  </p>
-</blockquote>
+> أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ بَلَىٰ قَادِرِينَ
+> عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ
 
 ***What! Does man reckon We shall not gather his bones? Yes, indeed, We
 are able to shape again his fingertips.*** **(75/3-4)**
 
-<blockquote dir="rtl">
-  <p>
-أَفَعَيِينَا بِالْخَلْقِ الْأَوَّلِ ۚ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ
-جَدِيدٍ
-  </p>
-</blockquote>
+> أَفَعَيِينَا بِالْخَلْقِ الْأَوَّلِ ۚ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ
+> جَدِيدٍ
 
 ***Were We then fatigued with the first creation? Yet are they in doubt
 with regard to a new creation.*** **(50/15)**
@@ -134,11 +126,7 @@ strange anything that he has not known, experienced, or perceived
 before, just like one who, pushed by ignorance, finds the Resurrection
 and thus asks:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ
-  </p>
-</blockquote>
+> قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ
 
 ***Who shall quicken the bones when they have decayed?*** **(36/78)**
 
@@ -150,19 +138,11 @@ other matters carried by it and from the space and its contents until he
 became a perfect, intelligent, and speaking human being. Referring to
 this fact, the Holy Qur'an puts forth the following question:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا
-هُوَ خَصِيمٌ مُبِينٌ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا
+> هُوَ خَصِيمٌ مُبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَنْ يُحْيِي
-الْعِظَامَ وَهِيَ رَمِيمٌ
-  </p>
-</blockquote>
+> وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَنْ يُحْيِي
+> الْعِظَامَ وَهِيَ رَمِيمٌ
 
 ***Has not man regarded how We created him of a sperm-drop? Then lo! He
 becomes a*** ***manifest adversary. He strikes for us a similitude and
@@ -171,12 +151,8 @@ forgets his own creation.*** **(36/77-78)**
 He who finds strange the restoration to life while he has forgotten his
 creation must be answered with the following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ
-خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ
+> خَلْقٍ عَلِيمٌ
 
 ***Say: ‘He shall quicken them (the bones) Who originated them the first
 time.’ He knows all creation.*** **(36/79)**
@@ -219,13 +195,9 @@ properly and to mull carefully over what he will definitely encounter
 after his death, such as the agony of the grave and the judgment when he
 will stand before the Lord, the Master and Knower of all things:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا
-يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ
-يُنْصَرُونَ
-  </p>
-</blockquote>
+> وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا
+> يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ
+> يُنْصَرُونَ
 
 ***Beware of a day when no soul for another shall give satisfaction, and
 no intercession shall be accepted from it, nor any compensation be taken
@@ -233,5 +205,4 @@ from it, neither shall they be helped.*** **(2/48)**
 
 [^1]: () This paragraph is quoted from Kashf al-Ghita' \`An Mubhamat
 al-Shari\`ah al-Gharra' by Ja\`far Kashif al-Ghita' (AH 1228), pp. 5.
-
 

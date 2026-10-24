@@ -344,4 +344,3 @@ Prophets it is an experience. This experience has been narrated to us in
 the form of a story because we are not yet free from egoism. The mention
 of the mountain or the Mount Sinai is only for our sake.
 
-

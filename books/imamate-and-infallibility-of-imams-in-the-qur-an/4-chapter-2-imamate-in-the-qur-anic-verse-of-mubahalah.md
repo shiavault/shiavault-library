@@ -1,14 +1,10 @@
 Chapter 2: Imamate in the Qur’anic Verse of Mubahalah
 =====================================================
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ ما جاءَكَ مِنَ الْعِلْمِ فَقُلْ
-تَعالَوْا نَدْعُ أَبْناءَنا وَ أَبْناءَكُمْ وَ نِساءَنا وَ نِساءَكُمْ
-وَ أَنْفُسَنا وَ أَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ
-اللَّهِ عَلَى الْكاذِبِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ ما جاءَكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعالَوْا نَدْعُ أَبْناءَنا وَ أَبْناءَكُمْ وَ نِساءَنا وَ نِساءَكُمْ
+> وَ أَنْفُسَنا وَ أَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ
+> اللَّهِ عَلَى الْكاذِبِينَ ﴾
 
 **“*****So, whoever disputes with you in this matter after what has come
 to you of the knowledge, then sa Come, We will call our sons and your
@@ -193,11 +189,7 @@ curse of Allah upon those who lie*” in this particular case interprets
 the sentence rather than indicates sequence, as in the Qur’anic verse 45
 of chapter 11,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ نادى نُوحٌ رَبَّهُ فَقالَ رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي﴾
-  </p>
-</blockquote>
+> ﴿وَ نادى نُوحٌ رَبَّهُ فَقالَ رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي﴾
 
 ***And Nuh cried out to his Lord and said: My Lord! Surely my son is of
 my family*****”** **(11:45)**
@@ -1207,11 +1199,7 @@ because these words do imply “equality” in the verses he was cited.
 
 For example, when the lexical item **“انفس”** meaning “souls” in
 
-<blockquote dir="rtl">
-  <p>
-﴿ولا تلمزوا انفسكم ﴾
-  </p>
-</blockquote>
+> ﴿ولا تلمزوا انفسكم ﴾
 
 ***“And do not find fault with your own people”*** (49:11)
 
@@ -1449,5 +1437,4 @@ verses among which are the following: “لولا اذ سمعتموه ظن ال�
 women, when you heard it, think well of their own people?” Surah 24,
 verse 12, “انفسكم ولا تلمزوا …and do not find fault with your own
 people” Surah 49, verse 11.
-
 

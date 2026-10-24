@@ -6,12 +6,8 @@ Noble Prophet (S) to 'Ali (as) in which he listed one hundred and three
 characteristics of a true believer. We have covered twenty-six of these
 characteristics and in this lecture, we will cover another five of them.
 
-<blockquote dir="rtl">
-  <p>
-… لَطِيفُ الْحَرَكَاتِ، حُلُّو الْمُشَاهِدَةِ، كَثِيرُ الْعِبَادَةِ،
-حُسْنُ الْوِقَارِ، لَيِِّنُ الْجَانِبِ…
-  </p>
-</blockquote>
+> … لَطِيفُ الْحَرَكَاتِ، حُلُّو الْمُشَاهِدَةِ، كَثِيرُ الْعِبَادَةِ،
+> حُسْنُ الْوِقَارِ، لَيِِّنُ الْجَانِبِ…
 
 ”(The true believer is one whose) movements are with grace and elegance;
 seeing him is something that is sweet (pleasing); he performs a great
@@ -62,20 +58,12 @@ engrossed in this materialistic world.
 The enemies of Islam are unyielding on placing the label of violence and
 aggression on the Muslims and we must show them that although we are:
 
-<blockquote dir="rtl">
-  <p>
-أَشِدَّآءُ عَلَــى الْكُفَّارِ
-  </p>
-</blockquote>
+> أَشِدَّآءُ عَلَــى الْكُفَّارِ
 
 “Harsh against the disbelievers.”  
  However at the same time, we are also:
 
-<blockquote dir="rtl">
-  <p>
-رُحَـمَآءُ بَيْـنَهُمْ
-  </p>
-</blockquote>
+> رُحَـمَآءُ بَيْـنَهُمْ
 
 “Merciful with one another.”
 
@@ -97,11 +85,7 @@ he accepted Islam.
 Acting according to such a simple injunction in the religion of Islam
 resulted in a great number of people becoming Muslims:
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ يَدْخُلُونَ فِـي دِينِ اللٌّهِ أَفْوَاجاً
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ يَدْخُلُونَ فِـي دِينِ اللٌّهِ أَفْوَاجاً
 
 “And you will see people entering into the religion of Allah in groups.”
 
@@ -113,11 +97,7 @@ hatred.
  In the Qur\`an, we have 114 chapters of which 113 of them all start
 with the words: 
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ
 
 “In the Name of Allah the Most Merciful, the Most Compassionate.”
 
@@ -145,11 +125,7 @@ they do this to unite hearts and get spiritually closer to one another.
 The story of Luqman, the Wise, and the advice that he gave to his son,
 it has been narrated in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلاَ تَمْشِ فِي الأَرْضِ مَرَحًا  
-  </p>
-</blockquote>
+> وَلاَ تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلاَ تَمْشِ فِي الأَرْضِ مَرَحًا
 
 “And swell not thy cheek (for pride) at peopke, nor walk with insolence
 through the Earth.”[^1]
@@ -170,5 +146,4 @@ in mind!
   
 
 [^1]: Surat Luqman (31), Verse 18
-
 

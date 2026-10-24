@@ -193,4 +193,3 @@ a distinguished religious scholar.
 
 [^2]: Usul al-Kafi, Mu’aMalat.
 
-

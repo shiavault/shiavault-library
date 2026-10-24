@@ -51,4 +51,3 @@ guardians in this spiritual sulūk (spiritual travel) and mi'rāj
 (ascension) of faith …” He has finished the said honorable book on the
 21st of Rabī' ath-Thānī 1358 L.H. (19 Khordād, 1318 S.H.).
 
-

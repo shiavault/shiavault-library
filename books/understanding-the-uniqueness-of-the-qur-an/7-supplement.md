@@ -609,4 +609,3 @@ Russell's statements. Editor
 detail in our studies on epistemology (shenakht), which we hope to
 publish in the future.
 
-

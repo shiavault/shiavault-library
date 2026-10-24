@@ -7,4 +7,3 @@ lights were shedding from it towards the sky. The Rabab, the wife of
 Imam Hussain (Q), could not control herself, so she threw herself on him
 and started kissing him.
 
-

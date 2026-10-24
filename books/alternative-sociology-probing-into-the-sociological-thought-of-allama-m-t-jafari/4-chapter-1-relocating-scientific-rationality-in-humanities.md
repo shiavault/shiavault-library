@@ -490,4 +490,3 @@ been absent in its makeup we are witnessing a gradual return of all that
 matters in the sojourn of human self. In our upcoming work we shall look
 at religion based on the works of Allama Jafari and Jurgen Habermas.
 
-

@@ -23,20 +23,12 @@ tent.”
 is patience and awaiting for the reappearance! Have you not heard Allah,
 the Mighty and Sublime say?
 
-<blockquote dir="rtl">
-  <p>
-وَارْتَقِبُوا إِنِّي مَعَكُمْ رَقِيبٌ
-  </p>
-</blockquote>
+> وَارْتَقِبُوا إِنِّي مَعَكُمْ رَقِيبٌ
 
 ***And watch, surely I too am watching with you. (Qur’an, Surah Hud
 11:93)***
 
-<blockquote dir="rtl">
-  <p>
-فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ
-  </p>
-</blockquote>
+> فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ
 
 ***Wait then, I too with you will be of those who wait. (Qurah Surah
 Araaf 7:71)***
@@ -269,12 +261,8 @@ moment.”[^16]
 19. It is narrated from Imam Ja’far Sadiq (as) regarding the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-الم . ٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ .
-الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
-  </p>
-</blockquote>
+> الم . ٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ .
+> الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
 
 ***Alif Lam Mim. This Book, there is no doubt in it, is a guide to those
 who guard (against evil). Those who believe in the unseen. (Qur’an,
@@ -284,12 +272,8 @@ That he said: ‘Those who guard against evil’ are the Shias of Ali (as)
 and ‘unseen’ is the unseen Hujjat and that which proves this is the
 statement of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ
-الْمُنْتَظِرِينَ
-  </p>
-</blockquote>
+> فَقُلْ إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ
+> الْمُنْتَظِرِينَ
 
 ***And they say: Why is not a sign sent to him from his Lord? Say: The
 unseen is only for Allah; therefore wait- surely I too, with you am of
@@ -572,11 +556,7 @@ this;[^30] each is higher than the other and each has its own method.
 And the condition of intention is must for all as mentioned in the
 following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَاعْبُدِ اللَّهَ مُخْلِصاً لَّهُ الدِّينَ..
-  </p>
-</blockquote>
+> فَاعْبُدِ اللَّهَ مُخْلِصاً لَّهُ الدِّينَ..
 
 ***Therefore serve Allah, being sincere to Him in obedience.. (Qur’an,
 Surah Zumar 39:2)***
@@ -1002,5 +982,4 @@ Imam’s permission, and this depends on reappearance of the Imam.
 [^46]: Biharul Anwar, Vol. 52, Pg. 213
 
 [^47]: Kamaluddin, Vol. 2, Pg. 649
-
 

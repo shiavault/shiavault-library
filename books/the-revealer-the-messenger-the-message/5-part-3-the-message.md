@@ -229,4 +229,3 @@ our refuge “To God do we belong and to Him shall be our return.”
 [^2]: In this he refers to God's words: And we have sent the winds as
 fecundators. (Qur'an, 25:22)
 
-

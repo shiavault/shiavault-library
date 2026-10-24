@@ -181,4 +181,3 @@ ones resolve and intention!
 
 [^1]: Ten persons who received the glad tidings of Paradise.
 
-

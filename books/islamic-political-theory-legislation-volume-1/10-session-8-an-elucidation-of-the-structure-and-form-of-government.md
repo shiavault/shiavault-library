@@ -386,23 +386,15 @@ endorsement by the Prophet (*s*). Finally, credibility of the Prophet’s
 approval is confirmed through an explicit text [*nass*] of the Qur’an
 where God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ...﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ...﴾
 
 ***“O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you...”***[^3]
 
 and in another verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ...﴾
-  </p>
-</blockquote>
+> ﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ...﴾
 
 ***“The Prophet is closer to the faithful than their own souls….”***[^4]
 
@@ -457,36 +449,24 @@ his decree shall have no credit at all. The Holy Qur’an has pointed out
 God’s direct designation of Hadrat Dawud (David) (*‘a*) to judge among
 men:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم
-بَيْنَ النَّاسِ بِالْحَقِّ...﴾
-  </p>
-</blockquote>
+> ﴿يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم
+> بَيْنَ النَّاسِ بِالْحَقِّ...﴾
 
 ***“O David! Indeed We have made you a vicegerent on the earth. So judge
 between the people with justice….”***[^5]
 
 And regarding the Prophet of Islam (*s*), it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
-النَّاسِ بِمَا أَرَاكَ اللّهُ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
+> النَّاسِ بِمَا أَرَاكَ اللّهُ﴾
 
 ***“Indeed We have sent down to you the Book with the truth, so that you
 may judge between the people by what Allah has shown you.”*** [^6]
 
 It also states:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ...﴾
-  </p>
-</blockquote>
+> ﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ...﴾
 
 ***“But no, by your Lord! They will not believe until they make you a
 judge in their disputes.”***[^7]
@@ -512,5 +492,4 @@ considered the founder of modern chemistry. [Trans.]
 [^6]: Surah an-Nisa’ 4:105.
 
 [^7]: Surah an-Nisa’ 4:65.
-
 

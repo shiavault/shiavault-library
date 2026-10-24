@@ -399,4 +399,3 @@ Can anything other than belief in God and the day of resurrection and
 requital impel man to act in righteousness and sincerity and to shun all
 forms of personal aim and motivation?
 
-

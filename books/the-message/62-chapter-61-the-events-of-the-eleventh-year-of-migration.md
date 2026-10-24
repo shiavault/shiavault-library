@@ -381,4 +381,3 @@ servant of A'isha (Tabaqat, vol. II, page 204).
 [^17]: However, as has also been stated in discussions relating to
 contact with the souls, it is not proper to listen to every claimant.  
 
-

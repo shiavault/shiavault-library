@@ -10,12 +10,8 @@ There are many verses in this regard.
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
-بِمَاءٍ مَعِينٍ.
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
+> بِمَاءٍ مَعِينٍ.
 
 ***Say: Have you considered if your water should go down, who is it then
 that will bring you flowing water? (Surah Mulk 67 :30)***
@@ -49,12 +45,8 @@ seven interiors rather seventy interiors (meanings).
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَلَّوْ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً
-غَدَقًا.
-  </p>
-</blockquote>
+> وَأَلَّوْ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً
+> غَدَقًا.
 
 ***And that if they should keep to the (right) way, We would certainly
 give them to drink of abundant water. (Surah Jinn 72:16)***
@@ -69,12 +61,8 @@ The inner meaning of this verse is also as mentioned.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ
-خَاوِيَةٌ عَلَى عُرُوشِهَا وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ.
-  </p>
-</blockquote>
+> فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ
+> خَاوِيَةٌ عَلَى عُرُوشِهَا وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ.
 
 ***So how many a town did We destroy while it was unjust, so it was
 fallen down upon its roofs, and (how many a) deserted well and palace
@@ -107,13 +95,9 @@ palace raised high’ and ‘the deserted well’ refer to Amirul Momineen
 
 Fourth Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي
-خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا كَذَلِكَ نُصَرِّفُ الْآيَاتِ
-لِقَوْمٍ يَشْكُرُونَ.
-  </p>
-</blockquote>
+> وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي
+> خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا كَذَلِكَ نُصَرِّفُ الْآيَاتِ
+> لِقَوْمٍ يَشْكُرُونَ.
 
 ***And as for the good land, its Vegetation springs forth (abundantly)
 by the permission of its Lord, and (as for) that which is inferior (its
@@ -138,15 +122,11 @@ remembrance of Allah, should thank Allah.[^3]
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَى يُخْرِجُ الْحَيَّ مِنْ
-الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنْ الْحَيِّ ذَلِكُمْ اللَّهُ
-فَأَنَّا تُؤْفَكُونَ. فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا
-وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا ذَلِكَ تَقْدِيرُ الْعَزِيزِ
-الْعَلِيمِ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَى يُخْرِجُ الْحَيَّ مِنْ
+> الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنْ الْحَيِّ ذَلِكُمْ اللَّهُ
+> فَأَنَّا تُؤْفَكُونَ. فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا
+> وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا ذَلِكَ تَقْدِيرُ الْعَزِيزِ
+> الْعَلِيمِ.
 
 ***Surely Allah causes the grain and the stone to germinate, He brings
 forth the living from the dead and He is the bringer froth of the dead
@@ -172,13 +152,9 @@ I have given the implicit explanation in *Biharul Anwar.*
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ. فِي سِدْرٍ مَخْضُودٍ.
-وَطَلْحٍ مَنْضُودٍ. وَظِلٍّ مَمْدُودٍ. وَمَاءٍ مَسْكُوبٍ. وَفَاكِهَةٍ
-كَثِيرَةٍ. لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ. وَفُرُشٍ مَرْفُوعَةٍ.
-  </p>
-</blockquote>
+> وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ. فِي سِدْرٍ مَخْضُودٍ.
+> وَطَلْحٍ مَنْضُودٍ. وَظِلٍّ مَمْدُودٍ. وَمَاءٍ مَسْكُوبٍ. وَفَاكِهَةٍ
+> كَثِيرَةٍ. لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ. وَفُرُشٍ مَرْفُوعَةٍ.
 
 ***And the companions of the right hand, how happy are the companions of
 the right hand. Amid thorn less lote-trees and banana-trees (with
@@ -192,16 +168,12 @@ people.[^4]
 
 Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-بِِسْمِ اللَّهِ الرَّحْمَانِ الرَّحِيمِ. وَالتِّينِ وَالزَّيْتُونِ.
-وَطُورِ سِينِينَ. وَهَذَا الْبَلَدِ الْأَمِينِ. لَقَدْ خَلَقْنَا
-الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ. ثُمَّ رَدَدْنَاهُ أَسْفَلَ
-سَافِلِينَ. إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ
-أَجْرٌ غَيْرُ مَمْنُونٍ. فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ. أَلَيْسَ
-اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ.
-  </p>
-</blockquote>
+> بِِسْمِ اللَّهِ الرَّحْمَانِ الرَّحِيمِ. وَالتِّينِ وَالزَّيْتُونِ.
+> وَطُورِ سِينِينَ. وَهَذَا الْبَلَدِ الْأَمِينِ. لَقَدْ خَلَقْنَا
+> الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ. ثُمَّ رَدَدْنَاهُ أَسْفَلَ
+> سَافِلِينَ. إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ
+> أَجْرٌ غَيْرُ مَمْنُونٍ. فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ. أَلَيْسَ
+> اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ.
 
 ***I swear by the fig and the olive, And mount Sinai, And this city made
 secure, Certainly We created man in the best make.***
@@ -361,5 +333,4 @@ evil of all his followers. Just as ‘those who believe’ denotes Ali
 excelled over others. In this case the exception would be dropped. The
 plural is used for respect or it includes all other Holy Imams (a.s.).
 Allah knows best.
-
 

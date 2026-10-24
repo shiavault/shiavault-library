@@ -562,8 +562,6 @@ in Sunnism' and 'Commentary on Du'a Kumayl'. However, I still need the
 readers' probable suggestions and criticisms regarding my translation.
 You can communicate with me at... haminia@gmail.com.
 
-
 Qom, Birthday anniversary of Fatima al-Ma'suma (a.s).
 November, 2007.
-
 

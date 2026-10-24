@@ -28,4 +28,3 @@ between the *mā* of wonder and the **أفعَل** form. For example: **ما
 یکونُ أحسنَ منظَرَ الرِّیاضِ** (What a beautiful view of the garden it
 will be.)
 
-

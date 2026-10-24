@@ -59,4 +59,3 @@ her husband over her is the greatest right of all people over her."
 
 Bihar-ul-Anwar, vol. 103, p. 256
 
-

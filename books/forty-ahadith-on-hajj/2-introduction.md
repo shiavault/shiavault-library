@@ -3,12 +3,8 @@ Introduction
 
 Allah, the Most High, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّـــــةَ
-مُّـبَارَكاً وَّ هُدىً لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّـــــةَ
+> مُّـبَارَكاً وَّ هُدىً لِّلْعَالَمِينَ
 
 ***“Surely the first House which was appointed for mankind (as a place
 of worship) was that in Bakkah (Makkah), the blessed, and a source of
@@ -96,14 +92,10 @@ person renews the pledge one made in the other world, as the Qur’an
 mentions:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ
-ذُرِّيَّـتَهُمْ وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ
-قَالُوا بَلَى شَهِدْنَا أَنْ تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا
-كُــنَّا عَنْ هٌذَا غَافِلِينَ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ
+> ذُرِّيَّـتَهُمْ وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ
+> قَالُوا بَلَى شَهِدْنَا أَنْ تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا
+> كُــنَّا عَنْ هٌذَا غَافِلِينَ
 
    
 ***“And when your Lord brought forth from the children of Adam, from
@@ -142,15 +134,10 @@ Hajj. The visitors to the sacred house of Allah, or those who have a
 strong desire to make the trip, but have not yet been blessed to do so,
 would do well to study these carefully.
 
-<blockquote dir="rtl">
-  <p>
-حجكم مقبول و سعيكم مشكور
-  </p>
-</blockquote>
+> حجكم مقبول و سعيكم مشكور
 
 ‘May your Hajj be accepted and may all of your efforts be
 appreciated.’  
  Mahmud Mahdipur  
   
-
 

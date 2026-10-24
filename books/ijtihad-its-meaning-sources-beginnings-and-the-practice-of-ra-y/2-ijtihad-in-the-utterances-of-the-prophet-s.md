@@ -311,4 +311,3 @@ regard to a hukm of the Shari'ah", there is no doubt that this
 controversy can be completely avoided and a synthesis of the views of
 the Akhbaris and the Usulis can be achieved.
 
-

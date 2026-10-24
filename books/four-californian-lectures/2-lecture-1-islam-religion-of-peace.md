@@ -39,4 +39,3 @@ greeted by the angels in these words: Peace be on you, because you were
 patient; how excellent is then the issue of the abode. (13:24).***  
   
 
-

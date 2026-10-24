@@ -383,4 +383,3 @@ ibn Ibrahim Qummi
 
 [^2]: Nahj al Balaghah, Sermon 110
 
-

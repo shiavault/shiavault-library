@@ -424,4 +424,3 @@ Saqeefa?'
 ' Saqeefa' , be counted as the voice or the choice of the millions of
 the people of the whole of the Muslim World?
 
-

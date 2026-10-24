@@ -176,4 +176,3 @@ The word strive (Jihad) in the Qur'anic verse carries the meaning of
 scientific research to reach the truth, and Allah will lead anyone to
 the truth, if he chooses to seek it.
 
-

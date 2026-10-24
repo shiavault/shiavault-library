@@ -694,4 +694,3 @@ choosing of Abu Musa al-Ash‘ari, who had dull mind and weak reason. So
 how did they choose him to decide their fate and the fate of the
 following generations?
 
-

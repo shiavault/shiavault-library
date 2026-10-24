@@ -6,12 +6,8 @@ Introduction
 The Noble Prophet (blessings of Allah be upon him and his family) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
-بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
-  </p>
-</blockquote>
+> مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
+> بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
 
 *“A person from my nation who memorizes forty traditions pertaining to
 those issues of religion which one is in need of, will be resurrected by
@@ -32,5 +28,4 @@ The World Federation extends its appreciation to Br. Muhammad for his
 efforts in the translation of this work. May Allah (Free from
 imperfections and Exalted is He) accept this work as a further attempt
 by The World Federation to propagate Islam.
-
 

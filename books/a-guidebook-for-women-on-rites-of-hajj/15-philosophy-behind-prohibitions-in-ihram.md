@@ -496,4 +496,3 @@ Prohibitions Specific to Men
 
 4. Finding shelter in a shaded place during the journey.
 
-

@@ -221,12 +221,8 @@ asked: “Was it also mentioned that hypocrites will usurp the Caliphate
 of Imam Ali (a.s.)?” Imam (a.s.) replied: “Yes, perhaps you have not
 heard the following statement of Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا
-وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا
+> وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
 
 ***“Surely We give life to the dead, and We write down what they have
 sent before and their footprints, and We have recorded everything in the
@@ -420,12 +416,8 @@ me.” Khizr (a.s.) asked: “Did you understand and memorize all the
 sciences?” “Yes,” he replied. He asked: “What are the dark spots in
 every moon?” His Eminence, replied: “The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ
-اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً
-  </p>
-</blockquote>
+> وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ
+> اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً
 
 ***“And We have made the night and the day two signs, then We have made
 the sign of the night to pass away and We have made the sign of the day
@@ -522,12 +514,8 @@ disunited. And remain Muslims and follow the leaders of religion so that
 you are secured from the punishment of the world and the Hereafter.”
 Then he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ
-عَزِيزٌ
-  </p>
-</blockquote>
+> كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ
+> عَزِيزٌ
 
 ***“Allah has written down: I will most certainly prevail, I and My
 apostles; surely Allah is Strong, Mighty.”***[^4]
@@ -608,12 +596,8 @@ among the best people, from the People of the Right. And he divided
 families in both the parts and made me and Ali (a.s.) among the best of
 the families as mentioned by Him:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
-أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
+> أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
 
 ***“…and made you tribes and families that you may know each other;
 surely the most honorable of you with Allah is the one among you most
@@ -622,12 +606,8 @@ careful (of his duty)…”***[^5]
 Then from those tribes he appointed the clans and made us to be from the
 best of the clans, as He has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Allah only desires to keep away the uncleanness from you, O people
 of the House! and to purify you a (thorough) purifying.”***[^6]
@@ -663,12 +643,8 @@ block their hearing so that they may not hear what I am saying.” Then he
 said, “O my brother, have you heard what the Almighty Allah has said in
 Qur’an?”
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولٰئِكَ هُمْ خَيْرُ
-الْبَرِيَّةِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولٰئِكَ هُمْ خَيْرُ
+> الْبَرِيَّةِ
 
 ***“(As for) those who believe and do good, surely they are the best of
 men.”***[^7]
@@ -682,12 +658,8 @@ and your Shias and you will arrive with illuminated faces and limbs in a
 satiated condition. O Ali, have you heard what the Almighty Allah has
 said in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي
-نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي
+> نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ
 
 ***“Surely those who disbelieve from among the followers of the Book and
 the polytheists shall be in the fire of hell, abiding therein; they are
@@ -733,12 +705,8 @@ Lady Fatima’s voice he opened his eyes and said in a thin voice: Dear
 daughter, this was composed by your uncle, Abu Talib. On the contrary
 you should say:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ ۚ
-أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ
-  </p>
-</blockquote>
+> وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ ۚ
+> أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ
 
 ***“And Muhammad is no more than an apostle; the apostles have already
 passed away before him; if then he dies or is killed will you turn back
@@ -817,5 +785,4 @@ appropriate place.
 [^8]: Surah Bayyina 98:6
 
 [^9]: Surah Aale Imran 3:144
-
 

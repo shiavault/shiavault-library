@@ -8,15 +8,11 @@ The First Verse:
 
 The Lord Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
-فَمِنْهُمْ ظَالِمٌ لِنَفْسِهِ وَمِنْهُمْ مُقْتَصِدٌ وَمِنْهُمْ سَابِقٌ
-بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ذَلِكَ هُوَ الْفَضْلُ الْكَبِيرُ.
-جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ
-ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ.
-  </p>
-</blockquote>
+> ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
+> فَمِنْهُمْ ظَالِمٌ لِنَفْسِهِ وَمِنْهُمْ مُقْتَصِدٌ وَمِنْهُمْ سَابِقٌ
+> بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ذَلِكَ هُوَ الْفَضْلُ الْكَبِيرُ.
+> جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ
+> ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ.
 
 ***Then We gave the Book for an inheritance to those whom We chose from
 among Our servants; but of them is he who makes his soul to suffer a
@@ -148,11 +144,7 @@ his own soul would be detained during interrogation for a long time and
 thereafter he would be admitted to Paradise. In short, these are the
 people who would say:
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ.
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ.
 
 ***(All) praise is due to Allah, Who has made grief to depart from us.
 (Sura Fatir 35:34)***
@@ -224,13 +216,9 @@ that is, the troubles given to them by the people of their time.[^1]
 
 The Second Verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ. ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ
-وَاللَّهُ سَمِيعٌ عَلِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ. ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ
+> وَاللَّهُ سَمِيعٌ عَلِيمٌ.
 
 ***Surely Allah chose Adam and Nuh and the descendants of Ibrahim (Aale
 Ibrahim) and the descendants of Imran (Aale Imran) above the nations.
@@ -356,12 +344,8 @@ Muhammad) above the nations… in Abdullah bin Masood’s copy of Quran
 
 The Third Verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ الْحَمْدُ لِلَّهِ وَسَلَامٌ عَلَى عِبَادِهِ الَّذِينَ اصْطَفَى
-أَاللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ.
-  </p>
-</blockquote>
+> قُلْ الْحَمْدُ لِلَّهِ وَسَلَامٌ عَلَى عِبَادِهِ الَّذِينَ اصْطَفَى
+> أَاللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ.
 
 ***Praise be to Allah and peace on His servants whom He has chosen.
 (Sura Naml 27:59)***
@@ -370,14 +354,10 @@ Ali bin Ibrahim said the selected servants are Aale Muhammad (a.s.).
 
 The Fourth Verse:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا إِنِّي أَسْكَنتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-عِنْدَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ
-أَفْئِدَةً مِنْ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنْ
-الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ.
-  </p>
-</blockquote>
+> رَبَّنَا إِنِّي أَسْكَنتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
+> عِنْدَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ
+> أَفْئِدَةً مِنْ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنْ
+> الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ.
 
 ***O our Lord! surely I have settled a part of my offspring in a valley
 unproductive of fruit near Thy Sacred House, our Lord! that they may
@@ -415,12 +395,8 @@ religion.
 
 The Fifth Verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَذَا
-النَّبِيُّ وَالَّذِينَ آمَنُوا وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُوا وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ.
 
 ***Most surely the nearest of people to Ibrahim are those who followed
 him and this Prophet and those who believe and Allah is the guardian of
@@ -438,14 +414,10 @@ in His Book: *Most surely the nearest of people.*
 
 The Sixth Verse:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنْ النَّبِيِّينَ
-مِنْ ذُرِّيَّةِ آدَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِنْ ذُرِّيَّةِ
-إِبْرَاهِيمَ وَإِسْرَائِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا إِذَا
-تُتْلَى عَلَيْهِمْ آيَاتُ الرَّحْمَانِ خَرُّوا سُجَّدًا وَبُكِيًّا.
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنْ النَّبِيِّينَ
+> مِنْ ذُرِّيَّةِ آدَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِنْ ذُرِّيَّةِ
+> إِبْرَاهِيمَ وَإِسْرَائِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا إِذَا
+> تُتْلَى عَلَيْهِمْ آيَاتُ الرَّحْمَانِ خَرُّوا سُجَّدًا وَبُكِيًّا.
 
 ***These are they on whom Allah bestowed favors, from among the prophets
 of the seed of Adam, and of those whom We carried with Nuh, and of the
@@ -475,11 +447,7 @@ them.”*[^2]
 
 The Seventh Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ اخْتَرْنَاهُمْ عَلَى عِلْمٍ عَلَى الْعَالَمِينَ.
-  </p>
-</blockquote>
+> وَلَقَدْ اخْتَرْنَاهُمْ عَلَى عِلْمٍ عَلَى الْعَالَمِينَ.
 
 ***And certainly We chose them, having knowledge, above the nations.
 (Sura Dukhan 44:32)***[^3]
@@ -515,5 +483,4 @@ to Moosa (a.s.) and his community, but since the affair of Bani Israel
 is similar to this community and as, instead of the prophets who were in
 their Ummah and were their vicegerent in that Ummah, the vicegerents of
 the Holy Prophet (S) are the holy Imams (a.s.).
-
 

@@ -26,4 +26,3 @@ of the premises and take not the other sides into consideration.
 Besides, our problem is to consider just today while the life is not
 irrelevant to yesterday and tomorrow.
 
-

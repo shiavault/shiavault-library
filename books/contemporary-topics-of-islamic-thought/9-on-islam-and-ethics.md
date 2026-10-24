@@ -1143,4 +1143,3 @@ Mahmud 'Abadi (Tehran: Intisharat Itila'at, 1370/1991), p. 544.
 [^17]: Translated by 'Ali Quli Qara'i in Al-Tawhid, vol. 14, No. 3, p.
 18.
 
-

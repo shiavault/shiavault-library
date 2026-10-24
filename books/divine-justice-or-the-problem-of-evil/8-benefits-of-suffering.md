@@ -105,4 +105,3 @@ al-anwar, vol. 67, p.200).
 
 [^12]: Asfar, vo1.3
 
-

@@ -189,4 +189,3 @@ arguments by citing one verse of the Qur'an or one tradition transmitted
 in Arabic, now one does so by relating one sentence by some European,
 whatever the subject under discussion. (pp. 94-98).
 
-

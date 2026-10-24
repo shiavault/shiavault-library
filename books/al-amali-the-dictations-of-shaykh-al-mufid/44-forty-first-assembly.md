@@ -195,4 +195,3 @@ except that Allah rewards him by entering him into Paradise."
 
 And may Allah bless our master Muhammad, the Prophet and his progeny.
 
-

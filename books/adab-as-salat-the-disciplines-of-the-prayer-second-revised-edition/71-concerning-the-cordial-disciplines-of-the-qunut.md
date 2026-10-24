@@ -136,4 +136,3 @@ hadīth 14.
 
 [^5]: “Munājāt-i Sha'bāniyyah,” Bihār al-Anwār, vol. 91, p. 99.
 
-

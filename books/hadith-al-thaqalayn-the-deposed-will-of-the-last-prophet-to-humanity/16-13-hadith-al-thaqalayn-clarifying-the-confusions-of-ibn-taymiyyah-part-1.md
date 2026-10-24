@@ -3,33 +3,21 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) says:
 
-<blockquote dir="rtl">
-  <p>
-والذي رواه مسلم انه بغدير خم قال إني تارك فيكم الثقلين كتاب الله فذكر
-كتاب الله وحض عليه ثم قال وعثرتي أهل بيتي أذكركم الله في أهل بيتي
-ثلاثا وهذا مما انفرد به مسلم ولم يروه البخاري وقد رواه الترمذي وزاد
-فيه وانهما لن يفترقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> والذي رواه مسلم انه بغدير خم قال إني تارك فيكم الثقلين كتاب الله فذكر
+> كتاب الله وحض عليه ثم قال وعثرتي أهل بيتي أذكركم الله في أهل بيتي
+> ثلاثا وهذا مما انفرد به مسلم ولم يروه البخاري وقد رواه الترمذي وزاد
+> فيه وانهما لن يفترقا حتى يردا علي الحوض
 
-<blockquote dir="rtl">
-  <p>
-وقد طعن غير واحد من الحفاظ في هذه الزيادة وقال إنها ليست من الحديث
-والذين اعتقدوا صحتها قالوا إنما يدل على أن مجموع العترة الذين هم بنو
-هاشم لا يتفقون على ضلالة وهذا قاله طائفة من أهل السنة وهو من أجوبة
-القاضي أبي يعلى وغيره
-  </p>
-</blockquote>
+> وقد طعن غير واحد من الحفاظ في هذه الزيادة وقال إنها ليست من الحديث
+> والذين اعتقدوا صحتها قالوا إنما يدل على أن مجموع العترة الذين هم بنو
+> هاشم لا يتفقون على ضلالة وهذا قاله طائفة من أهل السنة وهو من أجوبة
+> القاضي أبي يعلى وغيره
 
-<blockquote dir="rtl">
-  <p>
-والحديث الذي في مسلم إذا كان النبي صلى الله عليه و سلم قد قاله فليس
-فيه إلا الوصية باتباع كتاب الله وهذا أمر قد تقدمت الوصية به في حجة
-الوداع قبل ذلك وهو لم يأمر باتباع العترة لكن قال أذكركم الله في أهل
-بيتي وتذكير الأمة بهم يقتضي أن يذكروا ما تقدم الأمر به قبل ذلك من
-إعطائهم حقوقهم والامتناع من ظلمهم وهذا أمر قد تقدم بيانه قبل غدير خم
-  </p>
-</blockquote>
+> والحديث الذي في مسلم إذا كان النبي صلى الله عليه و سلم قد قاله فليس
+> فيه إلا الوصية باتباع كتاب الله وهذا أمر قد تقدمت الوصية به في حجة
+> الوداع قبل ذلك وهو لم يأمر باتباع العترة لكن قال أذكركم الله في أهل
+> بيتي وتذكير الأمة بهم يقتضي أن يذكروا ما تقدم الأمر به قبل ذلك من
+> إعطائهم حقوقهم والامتناع من ظلمهم وهذا أمر قد تقدم بيانه قبل غدير خم
 
 As for that which is narrated by (Imam) Muslim, that at Ghadir Khumm he
 (the Prophet) said: “I am leaving behind over you the two weighty things
@@ -62,14 +50,10 @@ been explained before Ghadir Khumm.[^1]
 
 He also says:
 
-<blockquote dir="rtl">
-  <p>
-وأما قوله وعترتي أهل بيتي وأنهما لن يفترقا حتى يردا على الحوض فهذا
-رواه الترمذى وقد سئل عنه احمد بن حنبل فضعفه وضعفه غير واحد من أهل
-العلم وقالوا لا يصح وقد أجاب عنه طائفة بما يدل على أن أهل بيته كلهم لا
-يجتمعون على ضلالة قالوا ونحن نقول بذلك كما ذكر القاضي أبو يعلي وغيره
-  </p>
-</blockquote>
+> وأما قوله وعترتي أهل بيتي وأنهما لن يفترقا حتى يردا على الحوض فهذا
+> رواه الترمذى وقد سئل عنه احمد بن حنبل فضعفه وضعفه غير واحد من أهل
+> العلم وقالوا لا يصح وقد أجاب عنه طائفة بما يدل على أن أهل بيته كلهم لا
+> يجتمعون على ضلالة قالوا ونحن نقول بذلك كما ذكر القاضي أبو يعلي وغيره
 
 As for his statement “and my offspring, my Ahl al-Bayt. Verily, both
 shall never separate from each other until they meet me at the
@@ -116,13 +100,9 @@ them both! Let us remind the esteemed reader of the words of Imam Ibn
 al-Athir (d. 606 H), a leading classical Sunni hadith linguist, in this
 regard:
 
-<blockquote dir="rtl">
-  <p>
-]إني تارك فيكم الثقلين : كتاب الله وعترت] سماهما ثقلين لأن الأخذ بهما
-والعمل بهما ثقيل . ويقال لكك خطير نفيس ثقل فسماهما ثقلين إعظاما
-لقدرهما وتفخيما لشأنهما.
-  </p>
-</blockquote>
+> ]إني تارك فيكم الثقلين : كتاب الله وعترت] سماهما ثقلين لأن الأخذ بهما
+> والعمل بهما ثقيل . ويقال لكك خطير نفيس ثقل فسماهما ثقلين إعظاما
+> لقدرهما وتفخيما لشأنهما.
 
 [I am leaving among you the Two Weighty Things: the Book of Allah and my
 offspring], he named them both thaqalayn because holding fast to them
@@ -143,12 +123,8 @@ from “offspring” to “clan”. However, this contradicts the default,
 customary definition of the term. Ibn Manzur, the ace Sunni
 lexicographer, submits on the word “‘itrah”:
 
-<blockquote dir="rtl">
-  <p>
-والعامة تظن أنها ولد الرجل خاصة وأن عترة رسول الله، صلى الله عليه
-وسلم، ولد فاطمة، رضي الله عنها، هذا قول ابن سيده
-  </p>
-</blockquote>
+> والعامة تظن أنها ولد الرجل خاصة وأن عترة رسول الله، صلى الله عليه
+> وسلم، ولد فاطمة، رضي الله عنها، هذا قول ابن سيده
 
 The common masses claim that it (i.e. ‘itrah) refers to the offspring of
 the man alone, and that the ‘itrah of the Messenger of Allah, peace be
@@ -163,12 +139,8 @@ and not everyone who is descended from the Prophet. As ‘Allamah
 al-Albani (d. 1420 H) records, he identified those intended as his
 offspring in the ahadith as his khalifahs:
 
-<blockquote dir="rtl">
-  <p>
-إني تارك فيكم خليفتين: كتاب الله حبل ممدود ما بين السماء والأرض وعترتي
-أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> إني تارك فيكم خليفتين: كتاب الله حبل ممدود ما بين السماء والأرض وعترتي
+> أهل بيتي وإنهما لن يتفرقا حتى يردا علي الحوض
 
 I am leaving behind over you TWO KHALIFAHS: the Book of Allah - a rope
 stretching between the heaven and the earth – and my offspring, my Ahl
@@ -177,11 +149,7 @@ meet me at the Lake-Fount.[^5]
 
 Then, the ‘Allamah comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^6]
 
@@ -196,13 +164,9 @@ Therefore, only twelve people from the bloodline of Muhammad are
 included in Hadith al-Thaqalayn. Imam Ahmad (d. 241 H) has this
 authentic hadith:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا مؤمل بن إسماعيل ثنا حماد بن سلمة حدثنا
-داود بن هند عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى الله عليه و
-سلم يقول يكون لهذه الأمة اثنا عشر خليفة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا مؤمل بن إسماعيل ثنا حماد بن سلمة حدثنا
+> داود بن هند عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى الله عليه و
+> سلم يقول يكون لهذه الأمة اثنا عشر خليفة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Mumal b. Isma’il –
 Hammad b. Salamah – Dawud b. Hind – al-Shu’bi – Jabir b. Samurah:
@@ -212,11 +176,7 @@ Ummah TWELVE KHALIFAHS.”[^7]
 
 Shaykh al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 It is a sahih hadith.[^8]
 
@@ -225,14 +185,10 @@ He is only an impostor. This riwayah is extremely significant.
 
 Ahmad again documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا هاشم ثنا زهير ثنا زياد بن خيثمة عن الأسود
-بن سعيد الهمداني عن جابر بن سمرة قال سمعت رسول الله صلى الله عليه و
-سلم أو قال قال رسول الله صلى الله عليه و سلم يكون بعدي اثنا عشر خليفة
-كلهم من قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا هاشم ثنا زهير ثنا زياد بن خيثمة عن الأسود
+> بن سعيد الهمداني عن جابر بن سمرة قال سمعت رسول الله صلى الله عليه و
+> سلم أو قال قال رسول الله صلى الله عليه و سلم يكون بعدي اثنا عشر خليفة
+> كلهم من قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Hashim – Zuhayr –
 Ziyad b. Khaythamah – al-Aswad b. Sa’id al-Hamdani – Jabir b. Samurah:
@@ -243,11 +199,7 @@ TWELVE KHALIFAHS, all of them from Quraysh.”[^9]
 
 Al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 It is a sahih hadith[^10]
 
@@ -259,16 +211,12 @@ from the Prophet’s offspring, shall remain continuous, unbroken and
 uninterrupted till the Last Hour. Imam Muslim (d. 261 H) records in this
 regard:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة بن سعيد وأبو بكر بن أبي شيبة قالا حدثنا حاتم (وهو ابن
-إسماعيل) عن المهاجر بن مسمار عن عامر بن سعد بن أبي وقاص قال كتبت إلى
-جابر بن مرة مع غلامي نافع أن أخبرني بشيء سمعته من رسول الله صلى الله
-عليه و سلم قال فكتب لي سمعت رسول الله صلى الله عليه و سلم يوم جمعة
-عشية رجم الأسلمي يقول (لا يزال الدين قائما حتى تقوم الساعة أو يكون
-عليكم اثنا عشر خليفة كلهم من قريش)
-  </p>
-</blockquote>
+> حدثنا قتيبة بن سعيد وأبو بكر بن أبي شيبة قالا حدثنا حاتم (وهو ابن
+> إسماعيل) عن المهاجر بن مسمار عن عامر بن سعد بن أبي وقاص قال كتبت إلى
+> جابر بن مرة مع غلامي نافع أن أخبرني بشيء سمعته من رسول الله صلى الله
+> عليه و سلم قال فكتب لي سمعت رسول الله صلى الله عليه و سلم يوم جمعة
+> عشية رجم الأسلمي يقول (لا يزال الدين قائما حتى تقوم الساعة أو يكون
+> عليكم اثنا عشر خليفة كلهم من قريش)
 
 Qutaybah b. Sa’id and Abu Bakr b. Abi Shaybah – Hatim b. Isma’il –
 al-Muhajir b. Musmar – ‘Amir b. Sa’d b. Abi Waqqas:
@@ -290,13 +238,9 @@ very moment their rule ceases, Islam will collapse.
 The same point is emphasized in this hadith of Imam Ibn Abi ‘Asim (d.
 287 H):
 
-<blockquote dir="rtl">
-  <p>
-ثنا الحسن بن علي، ثنا سنيد بن داود، عن حجاج، عن ابن جريج، حدثني محمد
-بن طلحة، عن معاوية بن أبي سفيان أنه قال وهو على المنبر أن رسول الله
-صلى الله عليه وسل قال:لا يزال والي من قريش.
-  </p>
-</blockquote>
+> ثنا الحسن بن علي، ثنا سنيد بن داود، عن حجاج، عن ابن جريج، حدثني محمد
+> بن طلحة، عن معاوية بن أبي سفيان أنه قال وهو على المنبر أن رسول الله
+> صلى الله عليه وسل قال:لا يزال والي من قريش.
 
 Al-Hasan b. ‘Ali – Sunayd b. Dawud – Hajjaj – Ibn Jurayj – Muhammad b.
 Talhah – Mu’awiyah b. Abi Sufyan, who said while on the pulpit:
@@ -306,25 +250,17 @@ to be a wali from Quraysh.”[^12]
 
 Al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 A sahih hadith.[^13]
 
 The authority of the wali is called al-wilayah. A reference is made to
 this, in an hadith of Imam Muslim:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ابن أبي عمر حدثنا سفيان عن عبدالملك بن عمير عن جابر بن سمرة قال
-سمعت النبي صلى الله عليه و سلم يقول (لا يزال أمر الناس ماضيا ما وليهم
-اثنا عشر رجلا) ثم تكلم النبي صلى الله عليه و سلم بكلمة خفيت علي فسألت
-أبي ماذا قال رسول الله صلى الله عليه و سلم؟ فقال ( كلهم من قريش)
-  </p>
-</blockquote>
+> حدثنا ابن أبي عمر حدثنا سفيان عن عبدالملك بن عمير عن جابر بن سمرة قال
+> سمعت النبي صلى الله عليه و سلم يقول (لا يزال أمر الناس ماضيا ما وليهم
+> اثنا عشر رجلا) ثم تكلم النبي صلى الله عليه و سلم بكلمة خفيت علي فسألت
+> أبي ماذا قال رسول الله صلى الله عليه و سلم؟ فقال ( كلهم من قريش)
 
 Ibn Abi ‘Umar – Sufyan – ‘Abd al-Malik b. ‘Umayr – Jabir b. Samurah:
 
@@ -353,15 +289,11 @@ Another key fact about these twelve men is that they are all kings. They
 are all royal khalifahs, in a dynastic system. Imam Ahmad here presents
 the relevant hadith:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يونس بن محمد ثنا حماد يعنى بن زيد ثنا
-مجالد عن الشعبي عن جابر بن سمرة قال خطبنا رسول الله صلى الله عليه و
-سلم بعرفات فقال لن يزال هذا الأمر عزيزا منيعا ظاهرا على من ناوأه حتى
-يملك اثنا عشر كلهم قال فلم أفهم ما بعد قال فقلت لأبي ما بعد كلهم قال
-كلهم من قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يونس بن محمد ثنا حماد يعنى بن زيد ثنا
+> مجالد عن الشعبي عن جابر بن سمرة قال خطبنا رسول الله صلى الله عليه و
+> سلم بعرفات فقال لن يزال هذا الأمر عزيزا منيعا ظاهرا على من ناوأه حتى
+> يملك اثنا عشر كلهم قال فلم أفهم ما بعد قال فقلت لأبي ما بعد كلهم قال
+> كلهم من قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) - Yunus b. Muhammad
 – Hammad b. Zayd – Mujalid – al-Sha’bi – Jabir b. Samurah:
@@ -377,24 +309,16 @@ of them will be from Quraysh.”[^15]
 
 Al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 A sahih hadith[^16]
 
 Imam Ibn Hibban (d. 354 H) here documents a mutaba’ah for Mujalid:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إبراهيم بن نصر العنبري بسمرقند قال ثنا على بن خشرم قال ثنا عيسى
-بن يونس عن عمران القبي عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى
-الله عليه وسلم يقول في حجة الوداع لا يزال أمر هذه الأمة عاليا على من
-ناواها حتى يملك اثنا عشر خليفة
-  </p>
-</blockquote>
+> حدثنا إبراهيم بن نصر العنبري بسمرقند قال ثنا على بن خشرم قال ثنا عيسى
+> بن يونس عن عمران القبي عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى
+> الله عليه وسلم يقول في حجة الوداع لا يزال أمر هذه الأمة عاليا على من
+> ناواها حتى يملك اثنا عشر خليفة
 
 Ibrahim b. Nasr al-Anbari – ‘Ali b. Khashram – ‘Isa b. Yunus – ‘Imran
 al-Qubi – al-Sha’bi – Jabir b. Samurah:
@@ -406,13 +330,9 @@ opposes it as long as twelve khalifahs rule by kingdom.”[^17]
 Meanwhile, Imam al-Tirmidhi (d. 279 H) has recorded an interesting
 shahid:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن منيع حدثنا زيد بن حباب حدثنا معاوية بن صالح حدثنا أبو
-مريم الأنصاري عن أبي هريرة قال قال رسول الله صلى الله عليه و سلم الملك
-في قريش
-  </p>
-</blockquote>
+> حدثنا أحمد بن منيع حدثنا زيد بن حباب حدثنا معاوية بن صالح حدثنا أبو
+> مريم الأنصاري عن أبي هريرة قال قال رسول الله صلى الله عليه و سلم الملك
+> في قريش
 
 Ahmad b. Mani’ – Zayd b. Hubbab – Mu’awiyah b. Salih – Abu Maryam
 al-Ansari – Abu Hurayrah:
@@ -422,23 +342,15 @@ Quraysh.”[^18]
 
 ‘Allamah al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^19]
 
 Imam Ahmad has written it too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي حدثنا زيد بن الحباب حدثنا معاوية بن صالح قال
-حدثني أبو مريم انه سمع أبا هريرة يقول قال رسول الله صلى الله عليه و
-سلم الملك في قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي حدثنا زيد بن الحباب حدثنا معاوية بن صالح قال
+> حدثني أبو مريم انه سمع أبا هريرة يقول قال رسول الله صلى الله عليه و
+> سلم الملك في قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Zayd b. al-Hubbab
 – Mu’awiyah b. Salih – Abu Maryam – Abu Hurayrah:
@@ -448,12 +360,8 @@ Quraysh.”[^20]
 
 Assessing the sanad, al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-وهذا إسناد صحيح رجاله ثقات رجال مسلم غير أبي مريم وهو الأنصاري وهو ثقة
-كما في التقريب
-  </p>
-</blockquote>
+> وهذا إسناد صحيح رجاله ثقات رجال مسلم غير أبي مريم وهو الأنصاري وهو ثقة
+> كما في التقريب
 
 This chain is sahih. Its narrators are thiqah (trustworthy), narrators
 of (Sahih) Muslim, apart from Abu Maryam, and he is al-Ansari, and he is
@@ -461,12 +369,8 @@ thiqah (trustworthy) as stated in al-Taqrib.[^21]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-قلت: زيد ثقة صدوق كما في " الميزان " وقد رفعه، وهي زيادة يجب قبولها
-كما تقرر في المصطلح.
-  </p>
-</blockquote>
+> قلت: زيد ثقة صدوق كما في " الميزان " وقد رفعه، وهي زيادة يجب قبولها
+> كما تقرر في المصطلح.
 
 I say: Zayd is thiqah (trustworthy), saduq (very truthful) as stated in
 al-Mizan, and he has narrated it in a marfu’ manner. It is a ziyadah
@@ -476,15 +380,11 @@ al-Mustalah.[^22]
 In another hadith, the Prophet interchanged “kingdom” and “khilafah”.
 Imam Ibn Abi ‘Asim records:
 
-<blockquote dir="rtl">
-  <p>
-ثنا أبو صالح هدبة بن عبد الوهاب، حدثنا النضر بن شميل، ثنا شعبة، عن
-حبيب بن الزبير، عن عبد الله بن أبي الهذيل قال: كنا نجالس عمرو ابن
-العاص نذاكره الفقه فقال رجل من بكر لتنتهين قريش أو ليجعلن الله هذا
-الأمر في جمهور من جماهير العرب فقال عمرو بن العاص: كذبت سمعت رسول الله
-صلى الله عليه وسلم يقول: الخلافة في قريش إلى قيام الساعة.
-  </p>
-</blockquote>
+> ثنا أبو صالح هدبة بن عبد الوهاب، حدثنا النضر بن شميل، ثنا شعبة، عن
+> حبيب بن الزبير، عن عبد الله بن أبي الهذيل قال: كنا نجالس عمرو ابن
+> العاص نذاكره الفقه فقال رجل من بكر لتنتهين قريش أو ليجعلن الله هذا
+> الأمر في جمهور من جماهير العرب فقال عمرو بن العاص: كذبت سمعت رسول الله
+> صلى الله عليه وسلم يقول: الخلافة في قريش إلى قيام الساعة.
 
 Abu Salih Hudbah b. ‘Abd al-Wahhab – al-Nadhr b. Shumayl – Shu’bah –
 Habib b. al-Zubayr – ‘Abd Allah b. Abi al-Hudhayl:
@@ -497,23 +397,15 @@ is in Quraysh till the establishment of the Hour.’”[^23]
 
 And ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده جيد
-  </p>
-</blockquote>
+> إسناده جيد
 
 Its chain is good.[^24]
 
 Ibn Abi ‘Asim further documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر، ثنا عفان، ثنا سكين بن عبد العزيز، عن أبي المنهال سيار
-بن سلامة قال: دخلت مع أبي على أبي برزة وأنا غلام فقال: قال رسول الله
-صلى الله عليه وسلم: الأئمة من قريش.
-  </p>
-</blockquote>
+> حدثنا أبو بكر، ثنا عفان، ثنا سكين بن عبد العزيز، عن أبي المنهال سيار
+> بن سلامة قال: دخلت مع أبي على أبي برزة وأنا غلام فقال: قال رسول الله
+> صلى الله عليه وسلم: الأئمة من قريش.
 
 Abu Bakr – ‘Affan – Sikkin b. ‘Abd al-‘Aziz – Abu al-Minhal Sayyar b.
 Salamah:
@@ -524,11 +416,7 @@ Imams are from Quraysh.’”[^25]
 
 Al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح إسناده حسن
-  </p>
-</blockquote>
+> حديث صحيح إسناده حسن
 
 It is a sahih hadith. Its chain is hasan.[^26]
 
@@ -617,5 +505,4 @@ al-Shaybani, Kitab al-Sunnah (al-Maktab al-Islami; 1st edition, 1400 H)
 [^25]: Ibid, vol. 2, p. 532, \# 1125
 
 [^26]: Ibid
-
 

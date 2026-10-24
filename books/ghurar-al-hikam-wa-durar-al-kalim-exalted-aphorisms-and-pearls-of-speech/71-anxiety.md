@@ -32,11 +32,7 @@ adversities.
 magnifies the calamity.
 
 > 7ـ إغْلِبُوا الجَزَعَ بِالصَّبْرِ، فإنَّ الجَزَعَ يَحبِطُ الأجرَ،
-<blockquote dir="rtl">
-  <p>
-ويُعَظِّمُ الفَجيعَةَ.
-  </p>
-</blockquote>
+> ويُعَظِّمُ الفَجيعَةَ.
 
 8. Anxiety is [a cause of] destruction.
 
@@ -58,11 +54,7 @@ magnifies the calamity.
 your hands, then be anxious about what has not reached you.
 
 > 12ـ إنْ كُنْتَ جازِعاً على كُلِّ ما يَفْلِتُ مِنْ يَدَيْكَ فَاجْزَعْ
-<blockquote dir="rtl">
-  <p>
-على مالَمْ يَصِلْ إلَيكَ.
-  </p>
-</blockquote>
+> على مالَمْ يَصِلْ إلَيكَ.
 
 13. With excessive anxiety, the calamity is magnified.
 
@@ -88,24 +80,15 @@ your hands, then be anxious about what has not reached you.
 of Allah, the Glorified, and sold off his reward.
 
 > 18ـ مَنْ جَزَعَ فَنَفْسَهُ عَذَّبَ، وأمْرَ اللّهِ سُبْحانَهُ أضاعَ،
-<blockquote dir="rtl">
-  <p>
-وثَوابَهُ باعَ.
-  </p>
-</blockquote>
+> وثَوابَهُ باعَ.
 
 19. Do not get anxious in the [face of] little that you dislike for it
 will put you in a lot of what you dislike.
 
 > 19ـ لاتَجزَعُوا مِنْ قَليلِ ماأكْرَهَكُمْ (كَرِهْتُم)، فَيُوقِعَكُمْ
-<blockquote dir="rtl">
-  <p>
-ذلِكَ في كَثير مِمّا تَـكْرَهُونَ.
-  </p>
-</blockquote>
+> ذلِكَ في كَثير مِمّا تَـكْرَهُونَ.
 
 20. Patience and anxiety do not go together.
 
 > 20ـ لا تَجْتَمِعُ الصَّبْرُ والجَزَعُ.
-
 

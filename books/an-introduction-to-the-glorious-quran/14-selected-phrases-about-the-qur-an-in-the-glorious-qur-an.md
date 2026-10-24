@@ -95,4 +95,3 @@ before). Therefore these ayat relate to the very early stage of wahy and
 in my estimate this is probably the first time the word Qur'an is
 revealed.
 
-

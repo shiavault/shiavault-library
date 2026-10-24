@@ -398,4 +398,3 @@ experiences, he came across personalities such as Mowlana Jalaludin
 Mohammad Moulavi, the great poet of Balkh, Sheikh Safiyudin of Ardabil,
 Hamam Tabriz and Amir Khosro of Delhi. (Hakimi, 2005)
 
-

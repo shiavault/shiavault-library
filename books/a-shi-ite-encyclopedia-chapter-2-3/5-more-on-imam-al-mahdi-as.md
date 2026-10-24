@@ -123,4 +123,3 @@ So let's pray together to Allah that He would make that day near, since
 his appearance is the victory for the nation of the Prophet Muhammad
 (PBUH&HF).
 
-

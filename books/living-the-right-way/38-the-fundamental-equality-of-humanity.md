@@ -47,4 +47,3 @@ He (S) also said: *“Surely people from the period of Adam until now are
 like the teeth of a comb: there is no superiority of an Arab over a
 non-Arab and of the red over the black except on the basis of piety.”*
 
-

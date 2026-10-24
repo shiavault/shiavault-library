@@ -72,4 +72,3 @@ recognise the Qur’an as a Word of God.
     
 *** ***
 
-

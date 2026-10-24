@@ -88,4 +88,3 @@ reflects that Jonas thinks that ethics is based on religion or at least
 moral values stemmed from religion. To this we might be able to see an
 answer from an Islamic perspective.
 
-

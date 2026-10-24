@@ -4,12 +4,8 @@ Section 3: An Excellent Pattern in the Apostle Muhammad
 Surah Al-’Ahzab – Verse 21
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ اُسْوَةٌ حَسَنَةٌ لِمَن كَانَ
-يَرْجُوا اللَّهَ وَالْيَوْمَ الأَخِرَ وَذَكَرَ اللَّهَ كَثِيراً
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ اُسْوَةٌ حَسَنَةٌ لِمَن كَانَ
+> يَرْجُوا اللَّهَ وَالْيَوْمَ الأَخِرَ وَذَكَرَ اللَّهَ كَثِيراً
 
 ***21. “Indeed in the messenger of Allah you have an excellent pattern
 (of conduct) for him who hopes in Allah and the Last Day, and remembers
@@ -86,13 +82,9 @@ Allah (S) and none of us was closer to the enemy than he himself.”*[^1]
 Surah Al-’Ahzab – Verse 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا رَأَي الْمُؤْمِنُونَ الأَحْزَابَ قَالُوا هَذَا مَا وَعَدَنَا
-اللَّهُ وَرَسُولُهُ وَصَدَقَ اللَّهُ وَرَسُولُهُ وَمَا زَادَهُمْ
-اِلآَّ اِيمَاناً وَتَسْلِيماً
-  </p>
-</blockquote>
+> وَلَمَّا رَأَي الْمُؤْمِنُونَ الأَحْزَابَ قَالُوا هَذَا مَا وَعَدَنَا
+> اللَّهُ وَرَسُولُهُ وَصَدَقَ اللَّهُ وَرَسُولُهُ وَمَا زَادَهُمْ
+> اِلآَّ اِيمَاناً وَتَسْلِيماً
 
 ***22. “And when the believers saw the allies, they said: ‘This is what
 Allah and His Messenger promised us, and Allah and His Messenger spoke
@@ -150,13 +142,9 @@ seems completely appropriate.
 Surah Al-’Ahzab – Verse 23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ
-فَمِنْهُم مَّن قَضَي نَحْبَهُ وَمِنْهُم مَّن يَنتَظِرُ وَمَا بَدَّلُوا
-تَبْدِيلا
-  </p>
-</blockquote>
+> مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ
+> فَمِنْهُم مَّن قَضَي نَحْبَهُ وَمِنْهُم مَّن يَنتَظِرُ وَمَا بَدَّلُوا
+> تَبْدِيلا
 
 ***23. “Among the believers are men who were true to their covenant with
 Allah; some of them have fulfilled their vow (by martyrdom), and some
@@ -271,13 +259,9 @@ Allah and were ready for Holy war and martyrdom.
 Surah Al-’Ahzab – Verse 24
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ّلِيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ وَيُعَذّ‌ِبَ
-الْمُنَافِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ اِنَّ اللَّه كَانَ
-غَفُوراً رَّحِيماً
-  </p>
-</blockquote>
+> ّلِيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ وَيُعَذّ‌ِبَ
+> الْمُنَافِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ اِنَّ اللَّه كَانَ
+> غَفُوراً رَّحِيماً
 
 ***24. “That Allah may recompense the truthful ones for their
 truthfulness, and chastise the hypocrites if He please, or turn unto
@@ -315,13 +299,9 @@ vice which is an initiation of a goodness.[^8]
 Surah Al-’Ahzab – Verse 25
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْراً
-وَكَفَي اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ وَكَانَ اللَّهُ قَوِيًّا
-عَزِيزًا
-  </p>
-</blockquote>
+> وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْراً
+> وَكَفَي اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ وَكَانَ اللَّهُ قَوِيًّا
+> عَزِيزًا
 
 ***25. “And Allah sent back those who disbelieved in their wrath, they
 gained no good; and Allah sufficed the believers of fighting, and Allah
@@ -401,20 +381,12 @@ did they left so many martyrs.
 Surah Al-’Ahzab – Verses 26-27
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِنْ أَهْلِ الْكِتَابِ مِن
-صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الْرُّعْبَ فَرِيقاً تَقْتُلُونَ
-وَتَأْسِرُونَ فَرِيقاً
-  </p>
-</blockquote>
+> وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِنْ أَهْلِ الْكِتَابِ مِن
+> صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الْرُّعْبَ فَرِيقاً تَقْتُلُونَ
+> وَتَأْسِرُونَ فَرِيقاً
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ وَأَمْوَالَهُمْ وَأَرْضاً
-لَّمْ تَطَؤُوهَا وَكَانَ اللَّهُ عَلَي كُلّ‌ِ شَيْءٍ قَدِيراً
-  </p>
-</blockquote>
+> وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ وَأَمْوَالَهُمْ وَأَرْضاً
+> لَّمْ تَطَؤُوهَا وَكَانَ اللَّهُ عَلَي كُلّ‌ِ شَيْءٍ قَدِيراً
 
 ***26. “And He drove down those of the people of the Book (the Jews) who
 supported them from their fortresses and He cast awe into their hearts,
@@ -742,5 +714,4 @@ enemies and friends inside and outside of Medina was established.
 
 [^12]: Kamil, by Ibn-i-’Athir, Vol. 2, P. 185 and Sirah, by Ibn-Husham,
 Vol. 2 P. 244
-
 

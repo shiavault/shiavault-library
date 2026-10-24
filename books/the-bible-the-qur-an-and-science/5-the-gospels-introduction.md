@@ -326,4 +326,3 @@ Transjordania, Syria and Mesopotamia. Others joined in the orthodoxy of
 the Great Church, at the same time preserving traces of Semitic culture;
 some of these still persist in the Churches of Ethiopia and Chaldea".
 
-

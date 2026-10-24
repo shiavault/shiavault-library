@@ -190,4 +190,3 @@ Thus, worship serves life. Its upbringing and religious success is
 determined by its exten- sion, in meaning and spirit, to all fields of
 life.
 
-

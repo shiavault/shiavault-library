@@ -216,4 +216,3 @@ It is obvious that it is impossible for us now to understand and
 perceive fully all these dimensions of the inevitable reckoning that
 will follow resurrection.
 
-

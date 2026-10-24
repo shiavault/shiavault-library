@@ -3,12 +3,8 @@ Lesson One Hundred Five: Respect Of Freedom Of Thought
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-بِئْسَ الْقَوْمُ قَوْمٌ يَمْشِى الْمُؤْمِنُ فيهِمْ بِالتَّقِيَّةِ وَ
-الْكِتْمانِ
-  </p>
-</blockquote>
+> بِئْسَ الْقَوْمُ قَوْمٌ يَمْشِى الْمُؤْمِنُ فيهِمْ بِالتَّقِيَّةِ وَ
+> الْكِتْمانِ
 
 Translation
 -----------
@@ -33,5 +29,4 @@ of thought and reformative thinking and facilities should be provided
 for imparting training and bringing good ideas to fruition.
 
 [^1]: Nahjul Fasahah
-
 

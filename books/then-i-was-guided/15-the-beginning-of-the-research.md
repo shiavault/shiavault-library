@@ -80,4 +80,3 @@ fanaticism and national tendencies. In the meantime I would be able to
 pass through the road of doubt and reach the mountain of certainty, and
 that is the correct path of Allah.
 
-

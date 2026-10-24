@@ -676,4 +676,3 @@ person, the obligatory precaution is that he should not transfer the
 fitrah to some other place, and if he does and it is lost, he should
 give its replacement.
 
-

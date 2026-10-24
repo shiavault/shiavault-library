@@ -13,22 +13,14 @@ cheerfulness, and the enemy with that which you can [use to] establish
 your proof over him.
 
 > 2ـ اِصْحَبِ السُّلْطان َ بِالحَذَرِ،وَ الصَّدِيقَ بِالتَّواضُعِ
-<blockquote dir="rtl">
-  <p>
-والبِشْرِ، والعَدُوَّ بِما تَقُومُ بِهِ عَلَيْهِ حُجَّتُكَ.
-  </p>
-</blockquote>
+> والبِشْرِ، والعَدُوَّ بِما تَقُومُ بِهِ عَلَيْهِ حُجَّتُكَ.
 
 3. Verily the ruler is a trustee of Allah on earth, the establisher of
 justice in the lands and among the people, and the one who deters people
 from misdeeds in the land.
 
 > 3ـ إنَّ السُّلْطانَ لأمينُ اللّهِ فِي الأرْضِ، ومُقيمُ العَدْلِ فِي
-<blockquote dir="rtl">
-  <p>
-البِلادِ والعِبادِ، ووَزَعَتُهُ فِي الأرْضِ.
-  </p>
-</blockquote>
+> البِلادِ والعِبادِ، ووَزَعَتُهُ فِي الأرْضِ.
 
 4. The tyrant king frightens the innocent.
 
@@ -63,11 +55,7 @@ sustains it on the pillars of reason, Allah helps his friends and
 forsakes his enemies.
 
 > 11ـ إذا بَنىَ المَلِكُ (مُلْكُهُ) عَلى قَواعِدِ العَدْلِ، ودَعَمَ
-<blockquote dir="rtl">
-  <p>
-بِدَعائِمِ العَقْلِ، نَصَرَهُ اللّهُ مُوالِيَهُ،وَ خَذَلَ مُعادِيَهُ.
-  </p>
-</blockquote>
+> بِدَعائِمِ العَقْلِ، نَصَرَهُ اللّهُ مُوالِيَهُ،وَ خَذَلَ مُعادِيَهُ.
 
 12. When the ruler makes you come closer to him, then increase your
 exaltation of him.
@@ -117,21 +105,13 @@ whatever he deposits in them, be it justice or oppression, he will find
 it there.
 
 > 22ـ قُلُوبُ الرَّعِيَّةِ خَزائِنُ راعيها، فَما أوْدَعَها مِنْ عَدْل
-<blockquote dir="rtl">
-  <p>
-أوْجَوْر وَجَدَهُ.
-  </p>
-</blockquote>
+> أوْجَوْر وَجَدَهُ.
 
 23. There is no reward with Allah, the Glorified, greater than the
 reward of a just ruler and a benevolent man.
 
 > 23ـ لَيْسَ ثَوابٌ عِنْدَ اللّهِ سُبْحانَهُ أعْظَمُ مِنْ ثَوابِ
-<blockquote dir="rtl">
-  <p>
-السُّلْطانِ العادِلِ، والرَّجُلِ المُحْسِنِ.
-  </p>
-</blockquote>
+> السُّلْطانِ العادِلِ، والرَّجُلِ المُحْسِنِ.
 
 24. One who gains authority [usually] adopts partiality.
 
@@ -184,11 +164,7 @@ disgrace.
 and hastens his ruin and destruction.
 
 > 35ـ مَنْ عامَلَ رَعِيَّتـَهُ بِالظُّلْمِ أزالَ اللّهُ مُلْكَهُ،
-<blockquote dir="rtl">
-  <p>
-وعَجَّلَ بَوارَهُ وَهُلْكَهُ.
-  </p>
-</blockquote>
+> وعَجَّلَ بَوارَهُ وَهُلْكَهُ.
 
 36. One who is tyrannical in his kingdom, the people wish for his
 annihilation.
@@ -204,33 +180,21 @@ grandeur of kingship.
 moves out from safety into harm.
 
 > 38ـ مَنْ طَلَبَ خِدْمَةَ السُّلْطانِ بِغَيْرِ أدَب خَرَجَ مِنَ
-<blockquote dir="rtl">
-  <p>
-السَّلامَةِ إلَى العَطَبِ.
-  </p>
-</blockquote>
+> السَّلامَةِ إلَى العَطَبِ.
 
 39. Whoever is tyrannical in his reign and increases his aggression,
 Allah will demolish his foundation and tear down his pillars [of
 kingship].
 
 > 39ـ مَنْ جارَ في سُلْطانِهِ،وَ أكْثَرَ عُدْوانَهُ، هَدَمَ اللّهُ
-<blockquote dir="rtl">
-  <p>
-بُنْيانَهُ،وَ هَدَّ أرْكانَهُ.
-  </p>
-</blockquote>
+> بُنْيانَهُ،وَ هَدَّ أرْكانَهُ.
 
 40. Whoever is just in his rule and shows kindness [to the people],
 Allah will elevate his stature and will strengthen [and grant victory
 to] his helpers.
 
 > 40ـ مَنْ عَدَلَ في سُلْطانِهِ، وَبَذَلَ إحْسانَهُ، أعْلَى اللّهُ
-<blockquote dir="rtl">
-  <p>
-شَأْنَهُ، وأعَزَّ أعْوانَهُ.
-  </p>
-</blockquote>
+> شَأْنَهُ، وأعَزَّ أعْوانَهُ.
 
 41. One who makes his kingship subservient to his religion, every king
 will submit to him.
@@ -275,23 +239,15 @@ accompany them they will become weary of you and if you advise them
 sincerely they will debase you.
 
 > 49ـ لاتُـكْثِرَنَّ الدُّخُولَ عَلَى المُلُوكِ، فَإنَّهُمْ إنْ
-<blockquote dir="rtl">
-  <p>
-صَحِبْتَهُمْ مَلُّوكَ، وإنْ نَصَحْتَهُمْ غَشُّوكَ.
-  </p>
-</blockquote>
+> صَحِبْتَهُمْ مَلُّوكَ، وإنْ نَصَحْتَهُمْ غَشُّوكَ.
 
 50. Do not desire to mingle with kings, for indeed they consider
 replying salutations to be too much speech and striking the necks to be
 insignificant punishment.
 
 > 50ـ لاتَرْغَبْ في خُلْطَةِ المُلُوكِ، فَإنَّهُمْ يَسْتَكْثِرُونَ مِنَ
-<blockquote dir="rtl">
-  <p>
-الكَلامِ رَدَّ السَّلامِ، ويَسْتَقِلُّونَ مِنَ العِقابِ ضَرْبَ
-الرِّقابِ.
-  </p>
-</blockquote>
+> الكَلامِ رَدَّ السَّلامِ، ويَسْتَقِلُّونَ مِنَ العِقابِ ضَرْبَ
+> الرِّقابِ.
 
 51. Do not associate with the king in times of disturbance and upheaval,
 for indeed the sea is such that even when it is calm, the seafarer
@@ -299,23 +255,15 @@ barely manages to remain safe in it, so how would he fare with its
 turbulent winds and the tumultuous waves?!
 
 > 51ـ لاتَلْتَبِسْ بِالسُّلْطانِ في وَقْتِ اضْطِرابِ الأُمُورِ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-فَإنَّ البَحْرَ لايَكادُ يَسْلَمُ مِنْهُ راكِبُهُ مَعَ سُكُونِهِ،
-فَكَيْفَ مَعَ اخْتِلافِ رياحهِ واضْطِرابِ أمْواجِهِ.
-  </p>
-</blockquote>
+> فَإنَّ البَحْرَ لايَكادُ يَسْلَمُ مِنْهُ راكِبُهُ مَعَ سُكُونِهِ،
+> فَكَيْفَ مَعَ اخْتِلافِ رياحهِ واضْطِرابِ أمْواجِهِ.
 
 52. Never desire to gain the affection of kings, for indeed they will
 forsake you when you are most intimate with them and they will cut you
 off when you are closest to them.
 
 > 52ـ لاتَطْمَعَنَّ في مَوَدَّةِ المُلُوكِ، فَإنَّهُمْ يُوحِشُونَكَ
-<blockquote dir="rtl">
-  <p>
-آنَسَ ما تَكُونُ بِهِمْ وَيَقْطَعُونَكَ أقْرَبَ ما تَكُونُ إلَيْهِمْ.
-  </p>
-</blockquote>
+> آنَسَ ما تَكُونُ بِهِمْ وَيَقْطَعُونَكَ أقْرَبَ ما تَكُونُ إلَيْهِمْ.
 
 53. There is no prosperity [in the place] where the king passes (or is
 oppressive).
@@ -353,11 +301,7 @@ are envious of his status while he is more aware of his own [dangerous]
 position.
 
 > 60ـ صاحِبُ السُّلْطانِ كَراكِبِ الأسَدِ، يُغْبَطُ بِمَوْقِفِهِ وهُوَ
-<blockquote dir="rtl">
-  <p>
-أعْرَفُ بِمَوْضِعِهِ.
-  </p>
-</blockquote>
+> أعْرَفُ بِمَوْضِعِهِ.
 
 61. Partnership in sovereignty leads to turmoil.
 
@@ -367,11 +311,7 @@ position.
 affliction.
 
 > 62ـ اَلمَكانَةُ مِنَ المُلُوكِ مِفْتاحُ المِحْنَةِ، وبَذْرُ
-<blockquote dir="rtl">
-  <p>
-الفِتْنَةِ.
-  </p>
-</blockquote>
+> الفِتْنَةِ.
 
 63. The best king is the just one.
 
@@ -400,44 +340,28 @@ spreads justice.
 who is just with his army and his people.
 
 > 68ـ أفْضَلُ المُلُوكِ مَنْ حَسُنَ فِعْلُهُ ونِيَّتُهُ، وعَدَلَ في
-<blockquote dir="rtl">
-  <p>
-جُنْدِهِ وَرَعِيَّتِهِ.
-  </p>
-</blockquote>
+> جُنْدِهِ وَرَعِيَّتِهِ.
 
 69. The king who is in the best condition is one whose subjects become
 prosperous in his prosperity and whose justice prevails over all his
 people.
 
 > 69ـ أحْسَنُ المُلُوكِ حالاً مَنْ حَسُنَ عَيْشُ النّاسِ في عَيْشِهِ
-<blockquote dir="rtl">
-  <p>
-وعَمَّ رَعِيَّتَهُ بِعَدْلِهِ.
-  </p>
-</blockquote>
+> وعَمَّ رَعِيَّتَهُ بِعَدْلِهِ.
 
 70. The people whom one should be cautious of the most are the
 tyrannical king, the powerful enemy and the disloyal friend.
 
 > 70ـ أحَقُّ النّاسِ أنْ يُحْذَرَ السُّلْطانُ الجائِرُ، والعَدُوُّ
-<blockquote dir="rtl">
-  <p>
-القادِرُ،وَ الصَّديقُ الغادِرُ.
-  </p>
-</blockquote>
+> القادِرُ،وَ الصَّديقُ الغادِرُ.
 
 71. The most intelligent of kings is he who governs himself for the
 people in a way that will remove any proof against him and governs the
 people in a way that affirms his proof against them.
 
 > 71ـ أعْقَلُ المُلُوكِ مَنْ ساسَ نَفْسَهُ لِلرَّعِيَّةِ بِما يَسْقُطُ
-<blockquote dir="rtl">
-  <p>
-عَنْهُ حُجَّتُها وساسَ الرَّعِيَّةَ بِما تَثْبُتُ بِهِ حُجَّتُهُ
-عَلَيْها.
-  </p>
-</blockquote>
+> عَنْهُ حُجَّتُها وساسَ الرَّعِيَّةَ بِما تَثْبُتُ بِهِ حُجَّتُهُ
+> عَلَيْها.
 
 72. The kings are [supposed to be] defenders of the religion.
 
@@ -465,11 +389,7 @@ justice.
 oppression of a king.
 
 > 77ـ خَورُ السُّلْطانِ أشَدُّ عَلَى الرَّعِيَّةِ مِنْ جَوْرِ
-<blockquote dir="rtl">
-  <p>
-السُّلْطانِ.
-  </p>
-</blockquote>
+> السُّلْطانِ.
 
 78. The alms-tax of the king is assisting the aggrieved.
 
@@ -487,14 +407,9 @@ oppression of a king.
 lowered from it by negligence towards that which raised you to it.
 
 > 81ـ اُحْرُسْ مَنْزِلَتَكَ عِنْدَ سُلْطانِكَ واحْذَرْ أنْ يَحُطَّكَ
-<blockquote dir="rtl">
-  <p>
-عَنْهَا التَّهاوُنُ عَنْ حِفْظِ ما رَقاكَ إلَيْهِ.
-  </p>
-</blockquote>
+> عَنْهَا التَّهاوُنُ عَنْ حِفْظِ ما رَقاكَ إلَيْهِ.
 
 82. Works are [only] accomplished by the [right] workers.
 
 > 82ـ اَلأعْمالُ تَسْتَقيمُ بِالعُّمالِ.
-
 

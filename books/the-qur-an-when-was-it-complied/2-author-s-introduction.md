@@ -12,4 +12,3 @@ It is the same Qur'an today that was sent down to the Messenger of
 Allah and was compiled by him in the same structure of verses and
 chapters at the command of Allah during his life.
 
-

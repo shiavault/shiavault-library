@@ -15,4 +15,3 @@ You provided me solace and relief and removed the difficulty. Every
 blessing and goodness reaches us from You and everything should be
 sought from You only".
 
-

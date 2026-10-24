@@ -1748,4 +1748,3 @@ response of love towards God.
 
 [^456]: Ibid., IX, 100.
 
-

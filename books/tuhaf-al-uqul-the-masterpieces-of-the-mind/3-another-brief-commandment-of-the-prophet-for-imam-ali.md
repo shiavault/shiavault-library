@@ -151,4 +151,3 @@ arbitrator and a fair judge. Furthermore, the inhabitants of the heavens
 will favor you and the inhabitants of the earth will love you. You
 should keep my commandments, inshallah .
 
-

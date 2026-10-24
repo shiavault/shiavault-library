@@ -22,12 +22,8 @@ Today's topic of discussion is about the fact that a decent man and wife
 are the source of comfort and contentment for each other. This is
 reflected in one of the verses of the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ ءَايَتِهِ أَنْ خَلَقَ لَكمُ مِّنْ أَنفُسِكُمْ أَزْوَجًا
-لِّتَسْكُنُواْ إِلَيْهَا
-  </p>
-</blockquote>
+> وَ مِنْ ءَايَتِهِ أَنْ خَلَقَ لَكمُ مِّنْ أَنفُسِكُمْ أَزْوَجًا
+> لِّتَسْكُنُواْ إِلَيْهَا
 
 ***And of his signs is this: He created for you helpmates from
 yourselves that ye might find rest in them.....*** ***(Sura ar-Rum, 30:
@@ -66,11 +62,7 @@ According to the Holy Quran, man and wife are not only the source of
 mutual comfort, but are like ornaments for each other. The Holy Book
 says:
 
-<blockquote dir="rtl">
-  <p>
-هُنَّ لِبَاسٌ لَّكُمْ وَ أَنتُمْ لِبَاسٌ لَّهُن
-  </p>
-</blockquote>
+> هُنَّ لِبَاسٌ لَّكُمْ وَ أَنتُمْ لِبَاسٌ لَّهُن
 
 ***They are raiment for you and ye are raiment for them. .....***
 ***(Sura al Baqarah, 2: 187)***
@@ -80,12 +72,8 @@ meaning is that the wife is an ornament for the husband just as a good
 raiment is an ornamentation for him. The Holy Quran itself is witness to
 this fact that it says:
 
-<blockquote dir="rtl">
-  <p>
-يَبَنىِ ءَادَمَ خُذُواْ زِينَتَكمُ‏ْ عِندَ كلُ‏ِّ مَسْجِدٍ وَ كُلُواْ
-وَ اشرَْبُواْ وَ لَا تُسرِْفُواْ إِنَّهُ لَا يحُِبُّ الْمُسرِْفِين
-  </p>
-</blockquote>
+> يَبَنىِ ءَادَمَ خُذُواْ زِينَتَكمُ‏ْ عِندَ كلُ‏ِّ مَسْجِدٍ وَ كُلُواْ
+> وَ اشرَْبُواْ وَ لَا تُسرِْفُواْ إِنَّهُ لَا يحُِبُّ الْمُسرِْفِين
 
 ***O Children of Adam! Put on your adornment on every occasion of
 prayer, and eat and drink, but do not waste; indeed Allah does not like
@@ -283,5 +271,4 @@ O Allah! For the sake of the children of Abi Abdallah al Husayn, make
 our homes, our spouses and our children sources of comfort. O Allah!
 Give good wives and husbands to our sons and daughters who bring joy in
 their lives!
-
 

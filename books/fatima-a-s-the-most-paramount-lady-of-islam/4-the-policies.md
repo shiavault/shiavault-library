@@ -35,4 +35,3 @@ that by making a skeleton, we have built a house and can settle in it-
 negligent that there is no possibility of living in it at ease until it
 is not completed.
 
-

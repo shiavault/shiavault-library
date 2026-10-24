@@ -1,11 +1,6 @@
 Al-tirmidhi
 ===========
 
-  
-  
-  
-  
-
 His name is Abu ‘Isa Muhammad ibn ‘Isa al-Tirmidhi al-Darir. He
 
 was born in Tirmidh in 209 H. and died in it in 279 H. Ibn al-Athir is
@@ -17,7 +12,7 @@ and manifestation of kinds of hadith, namely the sahih, hasan and gharib
 When compiling his book, he epitomized in it so elegantly the ways of
 hadith, elucidating its sorts, whether being sahih or weak or
 disapproved. But his book al-Jami’ al-sahih contained so many
-disapproved traditions. <span id="_anchor_606"></span>606
+disapproved traditions. 606
 
 Al-Hafiz Ibn Rajab, in Sharh ‘Ilal al-Tirmidhi, stated that al-Tirmidhi
 reported in his book the correct (sahih) hadith and good (hasan) one,

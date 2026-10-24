@@ -146,4 +146,3 @@ purifications of the holy men [*awliyā'*]. And praise be to Allah.
 [^1]: A poem by Hāfiz. In the printed copies it is stated: ”…to come to
 the show place of the Secret.”
 
-

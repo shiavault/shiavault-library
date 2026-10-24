@@ -8,11 +8,7 @@ Surah Takathur, Chapter 102
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -57,61 +53,25 @@ practices it in his daily life and harmonizes his mind and soul with it.
 Surah Takathur, Verses 1-8
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-أَلْهَاكُمُ التَّكَاثُرُ
-  </p>
-</blockquote>
+> أَلْهَاكُمُ التَّكَاثُرُ
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى زُرْتُمُ الْمَقَابِرَ
-  </p>
-</blockquote>
+> حَتَّى زُرْتُمُ الْمَقَابِرَ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا سَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> كَلَّا سَوْفَ تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
-  </p>
-</blockquote>
+> كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
 
-<blockquote dir="rtl">
-  <p>
-لَتَرَوُنَّ الْجَحِيمَ
-  </p>
-</blockquote>
+> لَتَرَوُنَّ الْجَحِيمَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
-  </p>
-</blockquote>
+> ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  </p>
-</blockquote>
+> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
 
 ***1. “Engageth you (your) vying in exuberance.”***  
 ***2. “Until you visit the graves.”***  
@@ -501,5 +461,4 @@ them.*
 [^10]: Al-Mizan, vol. 6, p. 200.
 
 [^11]: Majma'-al-Bayan, vol. 10, p. 535.
-
 

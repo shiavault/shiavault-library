@@ -32,7 +32,6 @@ him from Medina and send him to the same place where Abu Dharr had been
 sent. Let him also lead the same life and don't let him come to Medina
 as long as I am alive".
 
-
 Ammar said, "By Allah! I prefer the vicinity of wolves and dogs to my
 stay near you”. After that he rose from there and came back to his
 house.
@@ -513,5 +512,4 @@ accepted the counsels of the revered Abu Dharr, he would not have faced
 this day, and such calamities would not have fallen on him and Abu Dharr
 also would not have been thrown into seclusion at Rabzah where he died a
 tragic death.
-
 

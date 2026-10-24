@@ -4,19 +4,11 @@ Section 1
 Surah Al-‘An’am, Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَجَعَلَ
-الظُّلُمَاتِ وَالنُّورَ ثُمَّ الَّذِينَ كَفَرُواْ بِرَبِّهِم
-يَعْدِلُونَ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَجَعَلَ
+> الظُّلُمَاتِ وَالنُّورَ ثُمَّ الَّذِينَ كَفَرُواْ بِرَبِّهِم
+> يَعْدِلُونَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -60,12 +52,8 @@ Lord."***
 Surah Al-‘An’am, Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَى أَجَلاً وَأَجَلٌ
-مُّسمًّى عِندَهُ ثُمَّ أَنتُمْ تَمْتَرُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَى أَجَلاً وَأَجَلٌ
+> مُّسمًّى عِندَهُ ثُمَّ أَنتُمْ تَمْتَرُونَ
 
 **2.** ***"He it is Who created you from clay, then decreed a term (for
 your life) and the term is fixed with Him, yet still you doubt."***
@@ -121,12 +109,8 @@ shedding his own blood."*[^3]
 Surah Al-‘An’am, Verse 3
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ اللّهُ فِي السَّمَاوَاتِ وَفِي الأَرْضِ يَعْلَمُ سِرَّكُمْ
-وَجَهرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ
-  </p>
-</blockquote>
+> وَهُوَ اللّهُ فِي السَّمَاوَاتِ وَفِي الأَرْضِ يَعْلَمُ سِرَّكُمْ
+> وَجَهرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ
 
 **3.** ***"And He is*** ***Allah*** ***in the heavens and in the earth!
 He knows your secret and your open, and He knows what you earn."***
@@ -153,19 +137,11 @@ like the aware ones'."*[^5]
 Surah Al-‘An’am, Verses 4 - 5
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلاَّ كَانُواْ
-عَنْهَا مُعْرِضِينَ
-  </p>
-</blockquote>
+> وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلاَّ كَانُواْ
+> عَنْهَا مُعْرِضِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ كَذَّبُواْ بِالْحَقِّ لَمَّا جَاءهُمْ فَسَوْفَ يَأْتِيهِمْ
-أَنبَاء مَا كَانُواْ بِهِ يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> فَقَدْ كَذَّبُواْ بِالْحَقِّ لَمَّا جَاءهُمْ فَسَوْفَ يَأْتِيهِمْ
+> أَنبَاء مَا كَانُواْ بِهِ يَسْتَهْزِئُونَ
 
 **4.** ***"There never came unto them any Sign from the Signs of their
 Lord but they turned away from it."***  
@@ -218,15 +194,11 @@ mocking the facts and Signs of Allah*.*
 Surah Al-‘An’am, Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَرَوْاْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ
-مَّكَّنَّاهُمْ فِي الأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا
-السَّمَاء عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا الأَنْهَارَ تَجْرِي مِن
-تَحْتِهِمْ فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ وَأَنْشَأْنَا مِن بَعْدِهِمْ
-قَرْنًا آخَرِينَ
-  </p>
-</blockquote>
+> أَلَمْ يَرَوْاْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ
+> مَّكَّنَّاهُمْ فِي الأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا
+> السَّمَاء عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا الأَنْهَارَ تَجْرِي مِن
+> تَحْتِهِمْ فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ وَأَنْشَأْنَا مِن بَعْدِهِمْ
+> قَرْنًا آخَرِينَ
 
 **6.** ***"Have they not considered how many a generation We destroyed
 before them, whom We had established in the earth (to the extent) that
@@ -274,13 +246,9 @@ They are usually a generation living a length of time about 60 years or
 Surah Al-‘An’am, Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي قِرْطَاسٍ فَلَمَسُوهُ
-بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُواْ إِنْ هَـذَا إِلاَّ سِحْرٌ
-مُّبِينٌ
-  </p>
-</blockquote>
+> وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي قِرْطَاسٍ فَلَمَسُوهُ
+> بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُواْ إِنْ هَـذَا إِلاَّ سِحْرٌ
+> مُّبِينٌ
 
 **7.** ***"And had We sent down unto you a book written on a paper, so
 that they touched it with their hands, certainly (still) the
@@ -305,12 +273,8 @@ would have said: 'This is naught but manifest sorcery.' "***
 Surah Al-‘An’am, Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُواْ لَوْلا أُنزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنزَلْنَا مَلَكًا
-لَّقُضِيَ الأمْرُ ثُمَّ لاَ يُنظَرُونَ
-  </p>
-</blockquote>
+> وَقَالُواْ لَوْلا أُنزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنزَلْنَا مَلَكًا
+> لَّقُضِيَ الأمْرُ ثُمَّ لاَ يُنظَرُونَ
 
 **8.** ***"And they said: ' Why has not an angel been sent down to him?
 And if We had sent down an angel, the matter would have certainly been
@@ -336,12 +300,8 @@ respite."***
 Surah Al-‘An’am, Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ جَعَلْنَاهُ مَلَكًا لَّجَعَلْنَاهُ رَجُلاً وَلَلَبَسْنَا
-عَلَيْهِم مَّا يَلْبِسُونَ
-  </p>
-</blockquote>
+> وَلَوْ جَعَلْنَاهُ مَلَكًا لَّجَعَلْنَاهُ رَجُلاً وَلَلَبَسْنَا
+> عَلَيْهِم مَّا يَلْبِسُونَ
 
 **9.** ***"And had We appointed him (Our Messenger) an angel, We would
 certainly have made him as a man, and We would certainly have made
@@ -374,12 +334,8 @@ not change with the desires of this one or that one.
 Surah Al-‘An’am, Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ
-سَخِرُواْ مِنْهُم مَّا كَانُواْ بِهِ يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ
+> سَخِرُواْ مِنْهُم مَّا كَانُواْ بِهِ يَسْتَهْزِئُونَ
 
 **10.** ***"And certainly some Messengers were mocked at, before you,
 then the retribution which they used to ridicule fell on them.***
@@ -420,5 +376,4 @@ in ancient Greece.
 by Fakhr-i-Razi
 
 [^8]: Qurar-ul-Hikam, No. 3178
-
 

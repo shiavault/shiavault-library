@@ -624,4 +624,3 @@ with the lash. But he let him wear a thick cloak so that he would not
 feel the strokes of the lash and sent him into the room where the
 punishment was to be carried out.
 
-

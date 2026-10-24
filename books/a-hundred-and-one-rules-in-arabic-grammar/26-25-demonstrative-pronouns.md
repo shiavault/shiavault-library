@@ -10,4 +10,3 @@ a. Singulars are      **(f)**  ** هذهِ** **،** **(f)** **، هذا�
 b. Plurals are          **هؤلاءِ  ، أولئكَ        ** ** (** no gender
 distinction)
 
-

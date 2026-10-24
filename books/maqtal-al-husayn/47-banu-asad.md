@@ -28,4 +28,3 @@ One, the Great.”[^1]
 [^1]: al-Majlisi, Bihar al-Anwar, quoting Maqtal Muhammad Ibn Abu Talib.
 Al-Khawarizmi, Maqtal al-Husayn, Vol. 1, p. 243.
 
-

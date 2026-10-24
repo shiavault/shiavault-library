@@ -185,4 +185,3 @@ n.d.) p. 213; Abu \`Ubayd, al-Amwal, p. 13. This has also been recorded
 by other Sunni sources of hadith like Sahih Muslim, Sunan Nisa'i, Musnad
 of Ahmad bin Hanbal, and Sunan of Tirmidhi.
 
-

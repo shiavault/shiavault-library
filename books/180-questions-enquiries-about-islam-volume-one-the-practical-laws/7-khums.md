@@ -107,4 +107,3 @@ those, who are seriously in need of it.
 
 [^4]: Tafsir-e-Namunah, vol. 7, pg. 181
 
-

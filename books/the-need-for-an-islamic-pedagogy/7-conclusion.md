@@ -138,4 +138,3 @@ fruitless venture. Education all over the world has massive potential to
 create raw social change in society, but first we must realize it is not
 just what we teach, but how it is taught.
 
-

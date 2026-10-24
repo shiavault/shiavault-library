@@ -133,4 +133,3 @@ depending on the help of His Sacred Essence. In his privacy he is to
 implore Him and very seriously request Him to improve his condition, for
 there is no refuge save Him. And praise be to Allah!
 
-

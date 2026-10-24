@@ -8456,4 +8456,3 @@ Tafsir of Tibrani
 
 [^266]: Usul al-Kafi, Book of Intelligence.
 
-

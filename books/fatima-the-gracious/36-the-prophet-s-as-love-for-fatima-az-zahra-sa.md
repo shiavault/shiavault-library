@@ -236,4 +236,3 @@ love, affection and harmony that they shared was unique. Thus, we
 realize that it was not strange that he taught Fatima az-Zahra (sa) the
 best deeds and guided her to the noblest traits and best conduct.
 
-

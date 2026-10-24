@@ -63,4 +63,3 @@ Imams and are enough to refute the Sunni Caliphate. But divine help is
 required to understand the truth. Nothing is possible without good
 sense.
 
-

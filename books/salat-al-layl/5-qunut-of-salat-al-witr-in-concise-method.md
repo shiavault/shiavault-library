@@ -3,22 +3,14 @@ Qunut of Salat al-Witr (in Concise Method)
 
 1. Recite the following 70 times:
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ رَبِّي وَأَتُوبُ إِلَيْهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ رَبِّي وَأَتُوبُ إِلَيْهِ
 
 *“I seek repentance from Allah, my Lord and to Him I turn back.”*
 
 2. Followed by reciting the following seven times:
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ الَّذِي لاٌ إِلٌهَ إِلاٌّ هُوَ الْحَيُّ
-الْقَيُّومُ وَأَتُوبُ إِلَيهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ الَّذِي لاٌ إِلٌهَ إِلاٌّ هُوَ الْحَيُّ
+> الْقَيُّومُ وَأَتُوبُ إِلَيهِ
 
 *“I seek repentance from Allah the One whom there is no god except Him,
 the Living and Self-Subsisting and to Him I turn back.”*[^1]
@@ -32,22 +24,14 @@ answered.[^2]
 
 4. One should then say the following three hundred times:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعَفْوُ
-  </p>
-</blockquote>
+> اَلْعَفْوُ
 
 *“I ask for forgiveness.”*
 
 5. Following this, the following should be said once:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّ اغْفِرْلِي وَارْحَمْنِي وَتُبْ عَلَيِّ إِنَّكَ أَنْتَ التَّوٌابُ
-الرَّحِيمِ
-  </p>
-</blockquote>
+> رَبَّ اغْفِرْلِي وَارْحَمْنِي وَتُبْ عَلَيِّ إِنَّكَ أَنْتَ التَّوٌابُ
+> الرَّحِيمِ
 
 *“Lord, please forgive me and have mercy upon me and turn back towards
 me. Verily You are the Oft-Turning back, Most Merciful”*[^3]
@@ -66,5 +50,4 @@ equality.
 [^2]: Bihar Al-Anwar, Vol., 87, Pg., 284; Misbah Al-Muttahajjid, Pg. 101
 
 [^3]: Bihar Al-Anwar, Vol., 87, Pg. 275; Misbah Al-Muttahajjid, Pg. 101
-
 

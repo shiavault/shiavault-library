@@ -239,4 +239,3 @@ from such individuals any excuse or compensation.
 
 Peace and God's mercy and blessings be upon you.
 
-

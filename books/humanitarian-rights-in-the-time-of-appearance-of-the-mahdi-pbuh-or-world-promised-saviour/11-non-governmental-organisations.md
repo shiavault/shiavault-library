@@ -52,7 +52,6 @@ stability of an economy and the inner happiness of individuals. Thus it
 is the duty of the state to safeguard the life and property of all
 individuals within its boundaries.
 
-
 **Social and economic justice**
 
 Equal treatment of all individuals in society and before the law would
@@ -249,5 +248,4 @@ of Imam Khomeini's works (international Affairs Department), 2000.
 Alavi Mehr K, 'Islamic Sources of Iran's Constitution', Message of
 Thaqalayn, A Quarterly Journal of Islamic Studies, Vol1, No 3, April
 1994, Dhu al Q'adah 1414.
-
 

@@ -11,11 +11,7 @@ Taking The Initiative
 you will realize the greatest hope.
 
 > 2ـ بادِرُوا العَمَلَ(الأمَل)، وخَافُوا بَغْتَةَ الأجَلِ، تُدْرِكُوا
-<blockquote dir="rtl">
-  <p>
-أفْضَلَ الأمَلِ.
-  </p>
-</blockquote>
+> أفْضَلَ الأمَلِ.
 
 3. Hasten towards [virtuous] actions before old age disables you.
 
@@ -51,21 +47,13 @@ you have the ability to act by volition[^1], and have the opportunity of
 repentance, and the possibility of abrogating your misdeeds.
 
 > 9ـ بادِرُوا في مَهَلِ البَقِيَّةِ، وأنْفِ المَشيَّةِ، وانْتِظارِ
-<blockquote dir="rtl">
-  <p>
-التَّوبَةِ، وانْفِساخِ الحَوبَةِ.
-  </p>
-</blockquote>
+> التَّوبَةِ، وانْفِساخِ الحَوبَةِ.
 
 10. Hasten to act while the bodies are healthy, the tongues are untied,
 the [cry of] repentance is heard and the deeds are accepted.
 
 > 10ـ بادِرُوا والأبْدانُ صَحيحَةٌ، والألْسُنُ مُطْلَقَةٌ، والتَّوبَةُ
-<blockquote dir="rtl">
-  <p>
-مَسْمُوعَةٌ، وَالأعْمالُ مَقْبُولَةٌ.
-  </p>
-</blockquote>
+> مَسْمُوعَةٌ، وَالأعْمالُ مَقْبُولَةٌ.
 
 11. Hasten to act before [you are seized with] the seizing of the
 all-Powerful, the Omnipotent.
@@ -86,22 +74,14 @@ remain for you [in the Hereafter] with what will depart from you [of
 this world].
 
 > 14ـ بادِروُا آجالَكُمْ بِأعْمالِكُمْ، وابتاعُوا ما يَبْقى لَكُمْ بِما
-<blockquote dir="rtl">
-  <p>
-يَزُولُ عَنْكُمْ.
-  </p>
-</blockquote>
+> يَزُولُ عَنْكُمْ.
 
 15. Hasten [to do good] with your wealth before your deaths come upon
 you, so that it may purify you, set you aright and bring you closer [to
 Allah].
 
 > 15ـ بادِرُوا بِأمْوالِكُمْ قَبلَ حُلُولِ آجالِكُمْ تُزَكِّكُمْ
-<blockquote dir="rtl">
-  <p>
-وتُصْلِحْكُمْ وَتُزْلِفْكُمْ.
-  </p>
-</blockquote>
+> وتُصْلِحْكُمْ وَتُزْلِفْكُمْ.
 
 16. Hasten towards obedience [to Allah] and you will be felicitous.
 
@@ -119,45 +99,29 @@ Allah].
 and get ready for it before it descends.
 
 > 19ـ بادِرُوا المَوْتَ وغَمَراتِهِ، ومَهِّدُوا لَهُ قَبْلَ حُلُولِهِ
-<blockquote dir="rtl">
-  <p>
-وأعِدُّوا لَهُ قَبْلَ نُزولِهِ.
-  </p>
-</blockquote>
+> وأعِدُّوا لَهُ قَبْلَ نُزولِهِ.
 
 20. Hasten [to act] in the period of guidance and repose of the bodies,
 and in your remaining lifetime, and while you have the ability to act by
 volition.
 
 > 20ـ بادِرُوا في فَيْنَةِ الإرْشادِ، وراحَةِ الأجسادِ، ومَهَلِ
-<blockquote dir="rtl">
-  <p>
-البَقِيَّةِ، وأنْفِ المَشِيَّةِ.
-  </p>
-</blockquote>
+> البَقِيَّةِ، وأنْفِ المَشِيَّةِ.
 
 21. Hasten in performing your good deeds and compete with your deaths,
 for you will be compensated for what you sent forward, rewarded for what
 you did beforehand and held accountable for what you left behind.
 
 > 21ـ بادِرُوا أعْمالَكُمْ، وسابِقُوا آجالَكُمْ، فَإنَّكُمْ مَدينُونَ
-<blockquote dir="rtl">
-  <p>
-بِما أسْلَفْتُمْ، وَمُجازَوْنَ بِما قَدَّمْتُمْ، ومُطالَبُونَ بِما
-خَلَّفْتُمْ.
-  </p>
-</blockquote>
+> بِما أسْلَفْتُمْ، وَمُجازَوْنَ بِما قَدَّمْتُمْ، ومُطالَبُونَ بِما
+> خَلَّفْتُمْ.
 
 22. Surpass your hope and anticipate the assault of death, for people
 are on the verge of having their hopes cut short and being surprised by
 death.
 
 > 22ـ بادِرُوا الأمَلَ، وسابِقُوا هُجومَ الأجَلِ، فَإنَّ النَّاسَ
-<blockquote dir="rtl">
-  <p>
-يُوشِكُ أنْ يَنْقَطِعَ بِهِمُ الأمَلُ، فَيَرْهَقُهُمُ الأجَلُ.
-  </p>
-</blockquote>
+> يُوشِكُ أنْ يَنْقَطِعَ بِهِمُ الأمَلُ، فَيَرْهَقُهُمُ الأجَلُ.
 
 23. Hurry to take advantage of opportunity before it becomes [a cause
 of] distress.
@@ -168,23 +132,14 @@ of] distress.
 means are cut short.
 
 > 24ـ طُوبى لِمَنْ بادَرَ صالِحَ العَمَلِ قَبْلَ أنْ تَنْقَطِعَ
-<blockquote dir="rtl">
-  <p>
-أسْبابُهُ.
-  </p>
-</blockquote>
+> أسْبابُهُ.
 
 25. Blessed is he who anticipates death, takes advantage of respite and
 prepares the provision of good deeds [for the Hereafter].
 
 > 25ـ طُوبى لِمَنْ بادَرَ الأجَلَ، واغْتَنَمَ المَهَلَ، وتَزَوَّدَ مِنَ
-<blockquote dir="rtl">
-  <p>
-العَمَلِ.
-  </p>
-</blockquote>
+> العَمَلِ.
 
 [^1]: Also translated: ...at the first available opportunity when the
 intention is made.
-
 

@@ -29,11 +29,7 @@ pages that, according to some reliable traditions the rank of an Imam is
 higher than that of a messenger as Allah has, after (granting him
 Prophethood) said to Ibrahim (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا.
-  </p>
-</blockquote>
+> قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا.
 
 **“I will make you an Imam of men." (Sura Baqara 2:124)**
 
@@ -50,11 +46,7 @@ First Verse
 
 Allah Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ.
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ.
 
 ***You are only a warner (Munzir) and (there is) a guide (Haad) for
 every people...*** **(Sura Ra’d 13:7)**
@@ -134,11 +126,7 @@ Second verse
 
 The Lord of the worlds says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ وَصَّلْنَا لَهُمْ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ.
-  </p>
-</blockquote>
+> وَلَقَدْ وَصَّلْنَا لَهُمْ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ.
 
 ***And certainly We have made the word to reach them so that they may be
 mindful… (Sura Qasas 28:51)***
@@ -162,11 +150,7 @@ propagation of the truthful commands and the clear code for the people.
 Third: this may be a hint towards the verse wherein Almighty Allah, at
 the time of determining to create Adam (a.s.), said to the angels:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً.
-  </p>
-</blockquote>
+> إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً.
 
 ***I am going to place in the earth a khalif. (Sura Baqara 2:30)***
 
@@ -180,11 +164,7 @@ apparent meaning as mentioned by commentators, Allah knows better.
 In *Basairud Darajat*, there is a narration from Imam Baqir (a.s.) in
 the explanation of the Almighty’s verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ خَلَقْنَا أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ.
-  </p>
-</blockquote>
+> وَمِمَّنْ خَلَقْنَا أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ.
 
 ***And of those whom We have created are the people who guide with the
 Truth and thereby do justice. (Sura Araf 7:181)***
@@ -478,11 +458,7 @@ Allah keeps the chastisement away from the people of the earth so long
 as there is a prophet or an Imam among them as He says in the Holy
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ.
-  </p>
-</blockquote>
+> وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ.
 
 ***“But Allah was not going to chastise them while you were among them."
 (Sura Anfal 8:33)***
@@ -500,11 +476,7 @@ Ibne Babawayh says Ahlul Bayt means the holy Imams about whom Allah has
 said that obedience to them is obedience to Allah. It is mentioned in
 the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ.
-  </p>
-</blockquote>
+> أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُوْلِي الْأَمْرِ مِنْكُمْ.
 
 ***Obey Allah and obey the Apostle and those in authority from among
 you. (Sura Nisa 4:59)***
@@ -677,11 +649,7 @@ Hujjats of Allah on earth, we are Allah’s trustees with His permission
 and we are the caliphs of Allah among His servants and we are the Word
 of Righteousness (Kalimah Taqwa) as mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَى.
-  </p>
-</blockquote>
+> وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَى.
 
 ***“And made them keep the word of guarding (against evil)"*** **(Sura
 Fath 48:26)**
@@ -713,12 +681,8 @@ since the earth was created it has never been without a scholar and a
 Hujjat who enlivens the truths destroyed by people and then he recited
 this verse of the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
-اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ.
-  </p>
-</blockquote>
+> يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
+> اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ.
 
 ***They desire to put out the light of Allah with their mouths and Allah
 will not consent save to perfect His light, though the unbelievers are
@@ -1082,5 +1046,4 @@ argument that the Imamate of all the Imams is proved.
 (Wasiyat) right from Adam (a.s.) to the last legatees has already been
 made in the first volume of this book and that its repetition is
 unnecessary.
-
 

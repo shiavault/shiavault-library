@@ -193,4 +193,3 @@ your status in Heaven.
 2. Allah has mercy on a parent who loves his child greatly.  
  Imam Ja’far as-Sadiq (a)
 
-

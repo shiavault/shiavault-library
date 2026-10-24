@@ -82,4 +82,3 @@ God’s guidance for mankind.
 ‘They follow guidance from their Lord and they are the ones who will
 prosper.’6
 
-

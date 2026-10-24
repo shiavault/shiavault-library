@@ -212,4 +212,3 @@ a certain day and time, no du'a or medicine (including Khak-e-Shafa) can
 postpone his death. For details of firm and conditional decrees, see my
 book, Justice of God, available from the Mission.
 
-

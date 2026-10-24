@@ -133,4 +133,3 @@ Imam Sadiq spread the Shia teachings and the original Islamic knowledge.
 It is not an imaginary ideology. These are the facts, how long will the
 writer ignore them and fantasize them otherwise?
 
-

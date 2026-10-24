@@ -208,4 +208,3 @@ to anything or anyone else. Hence, their hearts were cleansed and
 purified, so Allah (SWT) chose them to deliver His Message. He (SWT)
 honored them by permitting them to speak on His Behalf and in His Name.
 
-

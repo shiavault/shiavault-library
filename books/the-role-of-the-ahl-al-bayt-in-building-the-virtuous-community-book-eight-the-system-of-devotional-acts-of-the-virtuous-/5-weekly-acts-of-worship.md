@@ -58,4 +58,3 @@ spread over the days of two weeks.[^2]
 
 [^2]: - Al-Hurr al-\`Amili, Wasa’il al-Shi\`ah 5:284.
 
-

@@ -152,4 +152,3 @@ Bayt (as).
 
 [^4]: Plural form of nass.
 
-

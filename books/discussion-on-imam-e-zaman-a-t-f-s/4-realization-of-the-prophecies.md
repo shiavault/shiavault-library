@@ -287,4 +287,3 @@ after the invasion of the Saljuks and the Turks, that part of Asia Minor
 was called as Rome. (The Encyclopaedia of Dehkhuda-Under the word
 'Rome').
 
-

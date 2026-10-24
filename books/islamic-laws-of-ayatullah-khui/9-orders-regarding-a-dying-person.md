@@ -106,4 +106,3 @@ necessary that the person whom the dead person has appointed to carry
 out these jobs should accept the will. However, if he does accept it he
 should act upon it.
 
-

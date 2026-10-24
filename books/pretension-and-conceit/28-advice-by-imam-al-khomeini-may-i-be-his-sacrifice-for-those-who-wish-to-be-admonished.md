@@ -332,4 +332,3 @@ away from You through my wrongdoing, hence I will be afflicted with Your
 contempt, and Your wrath will fall upon me! Do, Lord, shelter me from
 all of this, O Lord of the Worlds!"
 
-

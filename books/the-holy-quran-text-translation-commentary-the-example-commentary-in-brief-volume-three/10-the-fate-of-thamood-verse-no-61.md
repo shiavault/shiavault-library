@@ -524,4 +524,3 @@ anything too hard for the Lord? As I said, nine months from now I will
 return and Sa"rah will have a son.'' Sa"rah was afraid and she denied to
 have laughed! But the Lord said, yes you did laugh.
 
-

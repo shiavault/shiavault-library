@@ -94,4 +94,3 @@ generations. Hence, in the last section of this article I shall explain
 briefly how an Islamic environment is consistent with only a sustainable
 development process.
 
-

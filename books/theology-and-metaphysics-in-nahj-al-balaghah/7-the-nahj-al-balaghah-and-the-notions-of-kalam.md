@@ -69,7 +69,6 @@ of it in the Quran. Had the ideas and beliefs of the mutakallimun found
 their way into the Nahj al-balaghah, first of all the traces of this
 doctrine should have been found in that book.
 
-
 **The Nahj al-balaghah and Philosophical Concepts**
 
 Some others, on coming across certain words such as 'existence'
@@ -192,5 +191,4 @@ before al-Sayyid al-Radi's times. Secondly, the axes of arguments
 presented in this book are altogether different from the axes of
 philosophical discussions which have been prevalent throughout history
 until the present day.
-
 

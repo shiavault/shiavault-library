@@ -6,18 +6,14 @@ Imams and their Shias
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
-رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
-رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ
-تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا
-وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ
-آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ
-الْحَكِيمُ. وَقِهِمْ السَّيِّئَاتِ وَمَنْ تَقِي السَّيِّئَاتِ
-يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
+> رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
+> رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ
+> تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا
+> وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ
+> آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ
+> الْحَكِيمُ. وَقِهِمْ السَّيِّئَاتِ وَمَنْ تَقِي السَّيِّئَاتِ
+> يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.
 
 ***Those who bear the power and those around Him celebrate the praise of
 their Lord and believe in Him and ask protection for those who believe:
@@ -64,12 +60,8 @@ our enemies and asks Allah to send a terrible chastisement on them.
 
 Also Imam Baqir (a.s.) remarks on the words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ حَقَّتْ كَلِمَةُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوا أَنَّهُمْ
-أَصْحَابُ النَّارِ.
-  </p>
-</blockquote>
+> وَكَذَلِكَ حَقَّتْ كَلِمَةُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوا أَنَّهُمْ
+> أَصْحَابُ النَّارِ.
 
 ***And thus did the word of your Lord prove true against those who
 disbelieved that they are the inmates of the fire. (Surah Ghafir
@@ -139,5 +131,4 @@ Hazrat none had brought faith and none had prayed the Prayer.
 From authentic sources Imam Sadiq (a.s.) is reported to have said that
 ‘Sabil’ (path) refers to Ali Ibne Abi Talib (a.s.) in this verse. ‘Those
 who believe’ refers to the Shias of Ali (a.s.).
-
 

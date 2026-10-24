@@ -216,4 +216,3 @@ manner, the good deeds erase the evildoings. Gloomy of night covers up
 the light of day and, in the same manner, the evildoings blacken the
 good deeds.
 
-

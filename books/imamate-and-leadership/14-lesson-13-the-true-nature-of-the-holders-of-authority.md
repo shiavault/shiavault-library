@@ -587,4 +587,3 @@ Vol. III, p. 431; al-Wahidi, asbab al-Nuzul, p. 148.
 [^14]: al-Tabari, al-Tafsir, Vol. XXVIII, p. 270; al-Suyuti, al-Durr
 al-Manthur, Vol. VI, p. 223.
 
-

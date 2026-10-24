@@ -314,4 +314,3 @@ Jesus, I will take you away and lift you up to Me.’”. (3:54)
 
 [^7]: Cf. Matt. 23:25.
 
-

@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَضْحَكُواْ قَلِيلًا وَ لْيَبْكُواْ كَثِيرًا
-  </p>
-</blockquote>
+> فَلْيَضْحَكُواْ قَلِيلًا وَ لْيَبْكُواْ كَثِيرًا
 
 ***“Therefore they shall laugh little and weep much”***[^1]
 
 Imam Ali (peace be upon him) had said:
 
-<blockquote dir="rtl">
-  <p>
-بُكاءُ الْعُيُون وَ خَشْيَةُ الْقُلوبِ مِنْ رَحْمَةِ اللهِ تَعاَليَ
-  </p>
-</blockquote>
+> بُكاءُ الْعُيُون وَ خَشْيَةُ الْقُلوبِ مِنْ رَحْمَةِ اللهِ تَعاَليَ
 
 *“The weeping of the eyes and the fear of the hearts are of the mercy of
 God, The Exalted”*[^2]
@@ -210,5 +202,4 @@ pg. 27.
 
 [^7]: Daastaan-ha Wa Pand-ha, vol. 7, pg. 75; Wasaail al-Shia’h, vol. 2,
 pg. 921.
-
 

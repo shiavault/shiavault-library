@@ -56,10 +56,9 @@ to realize an end or purpose.
 [Aristotle has been called the "father of Biology"Plato of
 "Physics".].
 
-
 **2.3.2.5 Four causes**
 
-[^1] Material [constituents], [^2] formal [structure], [^3] efficient or
+[^1]: Material [constituents], [^2] formal [structure], [^3] efficient or
 moving [the producer', [^4] the final cause [end or purpose]
 
 Everything is explicable, at the same time, by all four causes. In
@@ -187,5 +186,4 @@ concepts: substance, matter, form, actuality, potentiality, etc.
 His influence was greatest during the Middle Ages but it is also
 apparent in the greatest systems of the modern period including those of
 Descartes, Leibniz and Hegel.
-
 

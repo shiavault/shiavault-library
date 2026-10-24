@@ -9,11 +9,7 @@ for prostration, specific supplications have been recommended. Moreover,
 after the prayers, great emphasis has been laid to invoke and express
 our needs in front of the Almighty. Imam As-Sadiq (‘a) exhorts,
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ بِالدُّعاءِ فِي أدْبارِ الصَّلاةِ. فَإِنَّهُ مُسْتَجَابٌ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ بِالدُّعاءِ فِي أدْبارِ الصَّلاةِ. فَإِنَّهُ مُسْتَجَابٌ.
 
 “It is obligatory for you to supplicate after Salat, for such
 supplications are answered.”[^1]
@@ -28,25 +24,17 @@ persistence, thereby attempting to attract the attention of the invoked
 one. Traditions have stated that Allah loves importunity and persistence
 in invocations. Imam Muhammad Al-Baqir (‘a) assures,
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ لا يُلِحُّ عَبْدٌ مُؤْمِنٌ عَلى اللهِ عَزَّ وَ جَلَّ فِي
-حاجَتِهِ إلاّ قَضَاهَا لَهُ.
-  </p>
-</blockquote>
+> وَاللهِ لا يُلِحُّ عَبْدٌ مُؤْمِنٌ عَلى اللهِ عَزَّ وَ جَلَّ فِي
+> حاجَتِهِ إلاّ قَضَاهَا لَهُ.
 
 “By Allah, no believer persists with Allah (Mighty and Glorified be He)
 in his needs but that He fulfils it.”[^2]
 
 Imam As-Sadiq (‘a) informs,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ عَزَّ وَ جَلَّ كَرِهَ إِلْحَاحَ النّاسِ بَعْضِهِمْ عَلى
-بَعْضٍ فِي الْمَسْأَلَةِ، وَأَحَبَّ ذلِكَ لِنَفْسِهِ. إِنَّ اللهَ
-عَزَّ وَ جَلَّ يُحِبُّ أَنْ يُسْأَلَ وَ يُطْلَبَ مَا عِنْدَهُ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ عَزَّ وَ جَلَّ كَرِهَ إِلْحَاحَ النّاسِ بَعْضِهِمْ عَلى
+> بَعْضٍ فِي الْمَسْأَلَةِ، وَأَحَبَّ ذلِكَ لِنَفْسِهِ. إِنَّ اللهَ
+> عَزَّ وَ جَلَّ يُحِبُّ أَنْ يُسْأَلَ وَ يُطْلَبَ مَا عِنْدَهُ.
 
 “Surely Allah (Mighty and Glorified be He) detests that people should be
 importune and persistent while asking each other for some need but loves
@@ -57,12 +45,8 @@ On the other hand, anyone who refuses to invoke Allah or express his
 needs before Him, subjects himself to His wrath. For, he has considered
 himself to be needless, great and haughty. Allah the Almighty warns,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ
-جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ
+> جَهَنَّمَ دَاخِرِينَ
 
 ***“Surely those who are arrogant regarding My worship (invoking Me),
 will soon enter hell in a degraded state.” (Qur’an, 23:60)***
@@ -70,25 +54,17 @@ will soon enter hell in a degraded state.” (Qur’an, 23:60)***
 Imam Al-Baqir (‘a) interprets the word ‘worship’ in this verse as
 ‘supplication’ and then proceeds to say,
 
-<blockquote dir="rtl">
-  <p>
-وَ أَفْضَلُ الْعِبَادَةِ الدُّعاءُ.
-  </p>
-</blockquote>
+> وَ أَفْضَلُ الْعِبَادَةِ الدُّعاءُ.
 
 “And supplication is the most superior form of worship.”[^4]
 
 Hannan Bin Sudair relates from his father, who asked Imam Al-Baqir (‘a),
 ‘What is the best form of worship?” Imam (‘a) replied,
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍ أَفْضَلُ عِنْدَ اللهِ عَزَّ وَ جَلَّ مِنْ أَنْ
-يُسْأَلَ وَ يُطْلَبَ مِمّا عِنْدَهُ. وَمَا مِنْ أَحَدٍ أَبْغَضُ إِلَى
-اللهِ عَزَّ وَ جَلَّ مِمَّنْ يَسْتَكْبِرُ عَنْ عِبادَتِهِ وَ لا
-يَسْأَلُ مَا عِنْدَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍ أَفْضَلُ عِنْدَ اللهِ عَزَّ وَ جَلَّ مِنْ أَنْ
+> يُسْأَلَ وَ يُطْلَبَ مِمّا عِنْدَهُ. وَمَا مِنْ أَحَدٍ أَبْغَضُ إِلَى
+> اللهِ عَزَّ وَ جَلَّ مِمَّنْ يَسْتَكْبِرُ عَنْ عِبادَتِهِ وَ لا
+> يَسْأَلُ مَا عِنْدَهُ.
 
 “There is nothing better near Allah (Mighty and Glorified be He) than
 that He is asked and sought for what is with Him. And the most hateful
@@ -128,5 +104,4 @@ His nearness a means for the acceptance of our supplications and needs.
 [^4]: Usul al Kafi, vol.2, p. 466
 
 [^5]: Usul al Kafi, vol. 2, p. 466
-
 

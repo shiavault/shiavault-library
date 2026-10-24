@@ -9,4 +9,3 @@ Dedicatory Acknowledgement
 
 *Who hope that it may guide many into the path of truth.*
 
-

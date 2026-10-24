@@ -109,11 +109,7 @@ The Holy Qur’an compares our earth to the cradle and it is possible that
 the reason of such comparison may be that the as the rocks softly in
 circulatory movement, the same is also the movement of the earth.
 
-
-
-
 [^1]: Surah Naml 27:88
 
 [^2]: Surah Taha 20:53
-
 

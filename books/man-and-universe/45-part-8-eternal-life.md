@@ -1106,4 +1106,3 @@ belief in the next world is that it delivers us from thinking that our
 existence has no purpose and gives a meaning to ourselves, our thinking
 and our life.
 
-

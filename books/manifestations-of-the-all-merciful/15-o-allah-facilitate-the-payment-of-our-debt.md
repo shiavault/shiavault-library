@@ -1,11 +1,7 @@
 O Allāh, Facilitate the Payment of Our Debt
 ===========================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اقْضِ عَنَّا الدَّيْنَ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اقْضِ عَنَّا الدَّيْنَ
 
 O Allāh, Facilitate the Payment of Our Debt
 
@@ -25,13 +21,9 @@ Following are some examples:
 taught his beloved daughter Fātimah  for sustenance, we find the
 following:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُ رَبُّنَا وَرَبُّ كُلِّ شَئْ ٍ، مُنْزِلُ التَّوْرَاةِ
-وَالانْجِيلِ وَالزَّبُوْرِ وَالْفُرْقَان… إِقْضِ عَنّيْ الدَّيْنَ
-وَأَغْنِنِي مِنَ الْفَقْرِ…
-  </p>
-</blockquote>
+> أَللٌّهُ رَبُّنَا وَرَبُّ كُلِّ شَئْ ٍ، مُنْزِلُ التَّوْرَاةِ
+> وَالانْجِيلِ وَالزَّبُوْرِ وَالْفُرْقَان… إِقْضِ عَنّيْ الدَّيْنَ
+> وَأَغْنِنِي مِنَ الْفَقْرِ…
 
 “Allāh is our Lord and the Lord of all things; He is the Revealer of
 Torah, *Injīl*, *Zabūr* and *Furqān*…facilitate the payment of my debt
@@ -40,37 +32,25 @@ and make me needless…”[^1]
 2. The Holy Prophet (s) is reported to have said to his noble companion
 Salmān:
 
-<blockquote dir="rtl">
-  <p>
-يَا سَلْمَان: أَكْثِرْ أَنْ تَقُوْلَ رَبِّيْ اقْضِ عَنِّيْ الدَّيْنَ
-وَاَغْنِنِيْ مِنَ الْفَقْرِ.
-  </p>
-</blockquote>
+> يَا سَلْمَان: أَكْثِرْ أَنْ تَقُوْلَ رَبِّيْ اقْضِ عَنِّيْ الدَّيْنَ
+> وَاَغْنِنِيْ مِنَ الْفَقْرِ.
 
 “O Salmān frequently say: ‘O Lord, pay for me my debt and make me
 needless.’”[^2]
 
 3. In the well-known supplication of *‘Alqamah* we recite:
 
-<blockquote dir="rtl">
-  <p>
-… وَتَقْضِيَ عَنِّي دَيْنِي وَتُجِيرَنِي مِنَ الْفَقْرِ وَ…
-  </p>
-</blockquote>
+> … وَتَقْضِيَ عَنِّي دَيْنِي وَتُجِيرَنِي مِنَ الْفَقْرِ وَ…
 
 “…and pay for me my debt and save me from my poverty…”[^3]
 
 4. In a lengthy supplication recommended for the first day of the Holy
 month of Ramadān we say:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ الأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْ‏ءٌ، وَأَنْتَ الآخِرُ فَلَيْسَ
-بَعْدَكَ شَيْ‏ءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ دُونَكَ شَيْ‏ءٌ،
-فَصَلِّ عَلَى‏ مُحَمَّدٍ وَآلِهِ وَاقْضِ عَنِّي الدَّيْنَ وَأَغْنِنِي
-مِنَ الْفَقْرِ.
-  </p>
-</blockquote>
+> أَنْتَ الأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْ‏ءٌ، وَأَنْتَ الآخِرُ فَلَيْسَ
+> بَعْدَكَ شَيْ‏ءٌ، وَاَنْتَ الظَّاهِرُ فَلَيْسَ دُونَكَ شَيْ‏ءٌ،
+> فَصَلِّ عَلَى‏ مُحَمَّدٍ وَآلِهِ وَاقْضِ عَنِّي الدَّيْنَ وَأَغْنِنِي
+> مِنَ الْفَقْرِ.
 
 “You are the First[^4], and thus there is none before You, and You are
 the Last, and therefore there is none after You; and You are the
@@ -96,22 +76,14 @@ is for ‘determination’ and thus refers to a particular debt. What kind
 of debt actually is this? There is well-known dictum (which some
 scholars narrate as a tradition[^6]) that says:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُ سُبْحَانَهُ غَرِيْمٌ، لاَ يُقْضَى دَيْنُهُ.
-  </p>
-</blockquote>
+> أَللٌّهُ سُبْحَانَهُ غَرِيْمٌ، لاَ يُقْضَى دَيْنُهُ.
 
 “Allāh is a Creditor whose debt cannot be paid.”
 
 A rephrasal of this dictum is mentioned in the first sermon of Imām ‘Alī
 (as) in *Nahju’l Balāghah* as follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَلاَ يُؤَدِّي حَقَّهُ الْمُجْتَهِدُوْنَ....
-  </p>
-</blockquote>
+> ...وَلاَ يُؤَدِّي حَقَّهُ الْمُجْتَهِدُوْنَ....
 
 “…One Whose rights the diligent cannot fulfill…”[^7]
 
@@ -120,17 +92,13 @@ those who struggle hard and are diligent. In his *Minhāj al-Barā’ah*- a
 commentary on the Nahju’l Balāghah - ‘Allāmah Habībullāh al-Khu’ī
 expounds the above statement of Imām ‘Alī (as) as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُرَادُ بالْحَقِّ اللاّزمِ هُوَ الْقِيَامُ عَلى شُكْرِ
-النَّعْمَاءِ، وَحَمْدِ الآلاَءِ، فَأَشَارَ عَلَيْهِ السَّلاَمُ إلى
-أَنَّهُ لاَ يُمْكِنُ الْقِيَامُ بوَظَايِفِ حَمْدِهِ، لأَنَّ الْحَمْدَ
-مِنْ جُمْلَةِ نِعَمِهِ، فَيَسْتَحِقُّ عَلَيْهِ حَمْدًا وَشُكْرًا،
-فَلاَ يَنْقَضِي مَا يَسْتَحِقُّهُ مِنَ الْمَحَامِدِ، لِعَدَمِ تَنَاهِي
-نِعَمِهِ، فَالأَوْلىَ حِيْنَئِذٍ الاِعْتِرَافُ بالْعَجْزِ
-وَالْقُصُوْرِ.
-  </p>
-</blockquote>
+> وَالْمُرَادُ بالْحَقِّ اللاّزمِ هُوَ الْقِيَامُ عَلى شُكْرِ
+> النَّعْمَاءِ، وَحَمْدِ الآلاَءِ، فَأَشَارَ عَلَيْهِ السَّلاَمُ إلى
+> أَنَّهُ لاَ يُمْكِنُ الْقِيَامُ بوَظَايِفِ حَمْدِهِ، لأَنَّ الْحَمْدَ
+> مِنْ جُمْلَةِ نِعَمِهِ، فَيَسْتَحِقُّ عَلَيْهِ حَمْدًا وَشُكْرًا،
+> فَلاَ يَنْقَضِي مَا يَسْتَحِقُّهُ مِنَ الْمَحَامِدِ، لِعَدَمِ تَنَاهِي
+> نِعَمِهِ، فَالأَوْلىَ حِيْنَئِذٍ الاِعْتِرَافُ بالْعَجْزِ
+> وَالْقُصُوْرِ.
 
 “The meaning of compulsory rights [as depicted in the dictum of Imām
 ‘Alī (as) - ‘One whose rights…’] is to thank God for His blessings and
@@ -144,11 +112,7 @@ praising and thanking Him]…”[^8]
 
 Almighty Allāh says in the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
- وَ إِنْ تَعُدُّوا نِعْمَتَ اللٌّهِ لاَ تُحْصُوهَا 
-  </p>
-</blockquote>
+>  وَ إِنْ تَعُدُّوا نِعْمَتَ اللٌّهِ لاَ تُحْصُوهَا 
 
 ***“…If you enumerate Allāh’s blessings, you will not be able to count
 them…”***[^9]
@@ -156,15 +120,11 @@ them…”***[^9]
 In his supplication when confessing his shortcomings in giving thanks,
 Imām al-Sajjād (as) says:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنَّ أَحَداً لا يَبْلُغُ مِنْ شُكْرِكَ غَايَةً إِلا
-حَصَلَ عَلَيْهِ مِنْ إِحْسَانِكَ مَا يُلْزِمُهُ شُكْراً. وَلا يَبْلُغُ
-مَبْلَغاً مِنْ طَاعَتِكَ وَإِنِ اجْتَهَدَ إِلاّ كَانَ مُقَصِّرا دُونَ
-اسْتِحْقَاقِكَ بِفَضْلِكَ. فَأَشْكَرُ عِبَادِكَ عَاجِزٌ عَنْ شُكْرِكَ،
-وَأَعْبَدُهُمْ مُقَصِّرٌ عَنْ طَاعَتِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنَّ أَحَداً لا يَبْلُغُ مِنْ شُكْرِكَ غَايَةً إِلا
+> حَصَلَ عَلَيْهِ مِنْ إِحْسَانِكَ مَا يُلْزِمُهُ شُكْراً. وَلا يَبْلُغُ
+> مَبْلَغاً مِنْ طَاعَتِكَ وَإِنِ اجْتَهَدَ إِلاّ كَانَ مُقَصِّرا دُونَ
+> اسْتِحْقَاقِكَ بِفَضْلِكَ. فَأَشْكَرُ عِبَادِكَ عَاجِزٌ عَنْ شُكْرِكَ،
+> وَأَعْبَدُهُمْ مُقَصِّرٌ عَنْ طَاعَتِكَ.
 
 O Allāh,  
  no one reaches a limit in thanking You  
@@ -181,15 +141,11 @@ O Allāh,
 
 Imām ‘Alī (as) is sermon 52 of Nahja’l Balāghah says:
 
-<blockquote dir="rtl">
-  <p>
-وَاللٌّهِ لَوِ انْمَاثَتْ قُلُوبُكُمُ انْمِيَاثاً-وَسَالَتْ
-عُيُونُكُمْ مِنْ رَغْبَةٍ إِلَيْهِ أَوْ رَهْبَةٍ مِنْهُ دَماً-ثُمَّ
-عُمِّرْتُمْ فِي الدُّنْيَا-مَا الدُّنْيَا بَاقِيَةٌ مَا جَزَتْ
-أَعْمَالُكُمْ وَلَوْ لَمْ تُبْقُوا شَيْئاً مِنْ جُهْدِكُمْ-أَنْعُمَهُ
-عَلَيْكُمُ الْعِظَامَ-وَهُدَاهُ إِيَّاكُمْ إلَى الإِيْمَانِ.
-  </p>
-</blockquote>
+> وَاللٌّهِ لَوِ انْمَاثَتْ قُلُوبُكُمُ انْمِيَاثاً-وَسَالَتْ
+> عُيُونُكُمْ مِنْ رَغْبَةٍ إِلَيْهِ أَوْ رَهْبَةٍ مِنْهُ دَماً-ثُمَّ
+> عُمِّرْتُمْ فِي الدُّنْيَا-مَا الدُّنْيَا بَاقِيَةٌ مَا جَزَتْ
+> أَعْمَالُكُمْ وَلَوْ لَمْ تُبْقُوا شَيْئاً مِنْ جُهْدِكُمْ-أَنْعُمَهُ
+> عَلَيْكُمُ الْعِظَامَ-وَهُدَاهُ إِيَّاكُمْ إلَى الإِيْمَانِ.
 
 “By Allāh, if your hearts melt down thoroughly and your eyes shed tears
 of blood either in hope for Him or for fear from Him and you are also
@@ -203,15 +159,11 @@ Thanking Allāh As He Deserves
 But despite all this, Almighty Allāh has shown us a method of thanking
 Him. Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَوْحَى اللٌّهُ تَعَالَى إِلَى مُوسَى (ع): يَا مُوسَى اشْكُرْنِي حَقَّ
-شُكْرِي. فَقَالَ: يَا رَبِّ كَيْفَ أَشْكُرُكَ حَقَّ شُكْرِكَ وَلَيْسَ
-مِنْ شُكْرٍ أَشْكُرُكَ بِهِ إِلاَّ وَأَنْتَ أَنْعَمْتَ بِهِ عَلَيَّ.
-فَقَالَ: يَا مُوسَى شَكَرْتَنِي حَقَّ شُكْرِي حِينَ عَلِمْتَ أَنَّ
-ذَلِكَ مِنِّي.
-  </p>
-</blockquote>
+> أَوْحَى اللٌّهُ تَعَالَى إِلَى مُوسَى (ع): يَا مُوسَى اشْكُرْنِي حَقَّ
+> شُكْرِي. فَقَالَ: يَا رَبِّ كَيْفَ أَشْكُرُكَ حَقَّ شُكْرِكَ وَلَيْسَ
+> مِنْ شُكْرٍ أَشْكُرُكَ بِهِ إِلاَّ وَأَنْتَ أَنْعَمْتَ بِهِ عَلَيَّ.
+> فَقَالَ: يَا مُوسَى شَكَرْتَنِي حَقَّ شُكْرِي حِينَ عَلِمْتَ أَنَّ
+> ذَلِكَ مِنِّي.
 
 “Allāh, the Exalted, Revealed unto Mūsā (as): ‘O Mūsā, thank Me the way
 I deserve to be thanked. Mūsā (as) said: O Lord, how can I thank you the
@@ -230,11 +182,7 @@ this kind of thankfulness.The following verse of the Holy Qur’ān clearly
 says the every being together with its action stands by the permission
 of Almighty Allāh:
 
-<blockquote dir="rtl">
-  <p>
- وَ اللٌّهُ خَلَقَكُمْ وَ مَا تَعْمَلُونَ 
-  </p>
-</blockquote>
+>  وَ اللٌّهُ خَلَقَكُمْ وَ مَا تَعْمَلُونَ 
 
 ***“And Allāh has created you and whatever you do.”***[^13]
 
@@ -265,12 +213,8 @@ dependence. Observe the following narrations:
 
 1. Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ حَقِّ الشُّكْرِ لِلٌّهِ أَنْ تَشْكُرَ مَنْ أَجْرَى تِلْكَ
-النِّعْمَةَ عَلَى يَدِهِ.
-  </p>
-</blockquote>
+> مِنْ حَقِّ الشُّكْرِ لِلٌّهِ أَنْ تَشْكُرَ مَنْ أَجْرَى تِلْكَ
+> النِّعْمَةَ عَلَى يَدِهِ.
 
 “An example of thanking Allāh the way He deserves to be thanked is when
 you thank one in whose hands He enabled the blessing to take
@@ -278,12 +222,8 @@ place.”[^14]
 
 2. Imām al-Ridā (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَشْكُرِ الْمُنْعِمَ مِنَ الْمَخْلُوقِينَ لَمْ يَشْكُرِ
-اللٌّهَ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> مَنْ لَمْ يَشْكُرِ الْمُنْعِمَ مِنَ الْمَخْلُوقِينَ لَمْ يَشْكُرِ
+> اللٌّهَ عَزَّ وَجَلَّ.
 
 “Whosoever does not thank the giver of the blessing from among the
 creatures, would not thank Allāh, the Invincible and Majestic.”[^15]
@@ -297,18 +237,14 @@ the *shākir* and the *mashkūr* is Allāh. Mullā Hādī Sabzawārī in his
 Sharh al-Asmā’ under the verse ‘*…yā khayra Shākirin wa Mashkūr, yā
 khayra Hāmidin wa Mahmūd…*’ says:
 
-<blockquote dir="rtl">
-  <p>
-(يَا خَيْرَ ذَاكِرٍ وَمَذْكُوْرٍ، يَا خَيْرَ شَاكِرٍ وَمَشْكُوْرِ، يَا
-خَيْرَ حَامِدٍ وَمَحْمُوْدٍ): قَدْ ذَكَرْنَا سَابقًا اَنّهُ إذاَ
-قِيْلَ: (لَهُ الْحَمْدُ) لاَ يُقْصَدُ اَنَّ الْمَحْمُوْدِيّةَ فَقَطْ
-أَيْنَمَا وَقَعَتْ طُرّاً وَكُلاًّ لَهُ تَعَالـى، بَلْ الْمَقْصُوْدُ
-اَنَّ الْحَامِدِيَّةَ أَيْضًا لَهُ وَبِهِ تَعَالـى، فَالذّاَكِرِيّةُ
-وَالشَّاكِرِيَّةُ وَالْحَامِدِيَّةُ وَنَظَائِرُهَا لَهُ وَبهِ تَعَالى.
-وَالْعِبَارَةُ الأَوْلى فِي بَعْضِ الْمَرَاتِبِ أَنْ يُقَالَ: اِنَّهُ
-بحَوْلِهِ وَقُوَّتِهِ تَعَالى.
-  </p>
-</blockquote>
+> (يَا خَيْرَ ذَاكِرٍ وَمَذْكُوْرٍ، يَا خَيْرَ شَاكِرٍ وَمَشْكُوْرِ، يَا
+> خَيْرَ حَامِدٍ وَمَحْمُوْدٍ): قَدْ ذَكَرْنَا سَابقًا اَنّهُ إذاَ
+> قِيْلَ: (لَهُ الْحَمْدُ) لاَ يُقْصَدُ اَنَّ الْمَحْمُوْدِيّةَ فَقَطْ
+> أَيْنَمَا وَقَعَتْ طُرّاً وَكُلاًّ لَهُ تَعَالـى، بَلْ الْمَقْصُوْدُ
+> اَنَّ الْحَامِدِيَّةَ أَيْضًا لَهُ وَبِهِ تَعَالـى، فَالذّاَكِرِيّةُ
+> وَالشَّاكِرِيَّةُ وَالْحَامِدِيَّةُ وَنَظَائِرُهَا لَهُ وَبهِ تَعَالى.
+> وَالْعِبَارَةُ الأَوْلى فِي بَعْضِ الْمَرَاتِبِ أَنْ يُقَالَ: اِنَّهُ
+> بحَوْلِهِ وَقُوَّتِهِ تَعَالى.
 
 “We mentioned earlier that if it is said ‘to Him belongs all praises’ it
 does not only mean that every praise wherever it may occur belongs to
@@ -329,11 +265,7 @@ Remember us before we remember Him, but causally it is essential for Him
 to Remember us so that we Remember Him. Rather, our remembrance is
 entirely by Him. Imām Husayn (as) says:
 
-<blockquote dir="rtl">
-  <p>
-...أَنْتَ الذَّاكِرُ قَبْلَ الذَّاكِرِينَ...
-  </p>
-</blockquote>
+> ...أَنْتَ الذَّاكِرُ قَبْلَ الذَّاكِرِينَ...
 
 “…You are the Rememberer before the rememberers…”[^17]
 
@@ -350,15 +282,11 @@ is a blessing in itself. And secondly, we cannot enumerate and count the
 blessings of Almighty Allāh. Imām al-Sajjād (as) in his prayer *Munājāt
 al-Shākirīn* mentions these two reasons as follows:
 
-<blockquote dir="rtl">
-  <p>
-…فَآلاؤُكَ جَمَّةٌ ضَعُفَ لِسَانِي عَنْ إِحْصَائِهَا، وَنَعْمَاؤُكَ
-كَثِيرَةٌ قَصُرَ فَهْمِي عَنْ إِدْرَاكِهَا فَضْلاً عَنِ
-اسْتِقْصَائِهَا، فَكَيْفَ لِي بِتَحْصِيلِ الشُّكْرِ وَشُكْرِي إِيَّاكَ
-يَفْتَقِرُ إِلَى شُكْرٍ؟ فَكُلَّمَا قُلْتُ لَكَ الْحَمْدُ وَجَبَ
-عَلَيَّ لِذٌلِكَ أَنْ أَقُولَ لَكَ الْحَمْدُ.
-  </p>
-</blockquote>
+> …فَآلاؤُكَ جَمَّةٌ ضَعُفَ لِسَانِي عَنْ إِحْصَائِهَا، وَنَعْمَاؤُكَ
+> كَثِيرَةٌ قَصُرَ فَهْمِي عَنْ إِدْرَاكِهَا فَضْلاً عَنِ
+> اسْتِقْصَائِهَا، فَكَيْفَ لِي بِتَحْصِيلِ الشُّكْرِ وَشُكْرِي إِيَّاكَ
+> يَفْتَقِرُ إِلَى شُكْرٍ؟ فَكُلَّمَا قُلْتُ لَكَ الْحَمْدُ وَجَبَ
+> عَلَيَّ لِذٌلِكَ أَنْ أَقُولَ لَكَ الْحَمْدُ.
 
 “Your boons are abundant -  
  my tongue is too weak to count them!  
@@ -391,13 +319,9 @@ praise (*hamd*), etc.) of the supplicant is according to his imperfect
 state and not according to what Almighty Allāh deserves. In his Munājāt
 al-Dhākirīn, Imām al-Sajjād (as) whispers:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. إِلٌهِي لَوْلا الْوَاجِبُ مِنْ
-قَبُولِ أَمْرِكَ لَنَزَّهْتُكَ مِنْ [عَنْ‏] ذِكْرِي إِيَّاكَ، عَلَى
-أَنَّ ذِكْرِي لَكَ بِقَدْرِي لا بِقَدْرِكَ…
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. إِلٌهِي لَوْلا الْوَاجِبُ مِنْ
+> قَبُولِ أَمْرِكَ لَنَزَّهْتُكَ مِنْ [عَنْ‏] ذِكْرِي إِيَّاكَ، عَلَى
+> أَنَّ ذِكْرِي لَكَ بِقَدْرِي لا بِقَدْرِكَ…
 
 “My God,  
  were it not incumbent to accept Your command,  
@@ -415,14 +339,10 @@ transaction for Paradise. They would worship Him because He deserves to
 be worshipped. Their worship would be a worship of thankfulness or love.
 Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ قَوْمًا عَبَدُوا اللٌّهَ رَغْبَةً فَتِلْكَ عِبَادَةُ
-التُّجَّارِ، وَاِنَّ قَوْمًا عَبَدُوا اللٌّهَ رَهْبَةً فَتِلْكَ
-عِبَادَةُ الْعَبِيْدِ، وَاِنَّ قَوْمًا عَبَدُوا اللٌّهَ شُكْرًا
-فَتِلْكَ عِبَادَةُ الاَحْرَارِ.
-  </p>
-</blockquote>
+> اِنَّ قَوْمًا عَبَدُوا اللٌّهَ رَغْبَةً فَتِلْكَ عِبَادَةُ
+> التُّجَّارِ، وَاِنَّ قَوْمًا عَبَدُوا اللٌّهَ رَهْبَةً فَتِلْكَ
+> عِبَادَةُ الْعَبِيْدِ، وَاِنَّ قَوْمًا عَبَدُوا اللٌّهَ شُكْرًا
+> فَتِلْكَ عِبَادَةُ الاَحْرَارِ.
 
 “Surely a people worshipped Allāh in anticipation [of reward]; this is
 the worship of traders; and a people worshipped Allāh out of fear [of
@@ -436,11 +356,7 @@ human being and Allāh. They feel they can offer something independent
 from themselves. They do not realize that every perfect action entirely
 stands by Allāh:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ اللّهِ
-  </p>
-</blockquote>
+> وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ اللّهِ
 
 ***Whatever blessing you have is from God***…[^21]
 
@@ -485,11 +401,7 @@ Allāh has forgiven all your past and future sins?’ and he replied:
 
 Despite all this, he (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَبَدْناَكَ حَقَّ عِبَادَتِكَ…
-  </p>
-</blockquote>
+> مَا عَبَدْناَكَ حَقَّ عِبَادَتِكَ…
 
 “We have not worshiped you the way You deserve to be worshipped…”
 
@@ -498,14 +410,10 @@ perpetual worship, declare their shortcoming in worshipping Almighty
 Allāh the way He deserves to be worshipped. The Holy Prophet (s) is
 reported to have said to Abū Dharr:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا ذرّ! إنَّ لِلٌّهِ مَلائكَةٌ قِيَامًا مِنْ خِيْفَةِ اللٌّهِ،
-مَا رَفَعُوْا رُؤُوسَهُمْ حَتَّى يُنْفَخُ فِي الصُّوْرِ النَّفْخَةُ
-الآخِرَة، فَيَقُوْلُوْنَ جَمِيْعًا: سُبْحَانَكَ رَبَّنا وَبحَمْدِكَ،
-مَا عَبَدْنَاكَ كَمَا يَنْبَغِي لَكَ أَنْ تُعْبَدُ.
-  </p>
-</blockquote>
+> يَا أَبَا ذرّ! إنَّ لِلٌّهِ مَلائكَةٌ قِيَامًا مِنْ خِيْفَةِ اللٌّهِ،
+> مَا رَفَعُوْا رُؤُوسَهُمْ حَتَّى يُنْفَخُ فِي الصُّوْرِ النَّفْخَةُ
+> الآخِرَة، فَيَقُوْلُوْنَ جَمِيْعًا: سُبْحَانَكَ رَبَّنا وَبحَمْدِكَ،
+> مَا عَبَدْنَاكَ كَمَا يَنْبَغِي لَكَ أَنْ تُعْبَدُ.
 
 “O Abū Dharr, surely Allāh has angels who stand in fear of Him; they
 would not raise their heads until the final blow of the trumpet;
@@ -516,11 +424,7 @@ worshipped.”[^23]
 And Imām al-Sajjād (as) alluding to this in one of his supplications
 quotes the angels of Allāh saying:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَكَ ما عَبَدْناكَ حَقَّ عِبادَتِكَ.
-  </p>
-</blockquote>
+> سُبْحانَكَ ما عَبَدْناكَ حَقَّ عِبادَتِكَ.
 
 “Free from imperfection are You! We have not worshipped You the way You
 deserve to be worshipped.”[^24]
@@ -603,25 +507,17 @@ It is indeed interesting to note the extent of hope in our infallible
 Imāms (as), who enjoyed very exalted stations: Imām ‘Alī (as) whispers
 in his Sha’bān whisperings (*Munājāt al-Sha’abāniyyah*):
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أَدْخَلْتَنِي النَّارَ أَعْلَمْتُ أَهْلَهَا أَنِّي أُحِبُّكَ‏.
-  </p>
-</blockquote>
+> إِنْ أَدْخَلْتَنِي النَّارَ أَعْلَمْتُ أَهْلَهَا أَنِّي أُحِبُّكَ‏.
 
 “If you place me in the Hell Fire I will inform its inhabitants that I
 love You…”[^30]
 
 And in his well-known *Du‘ā al-Kumayl* he cries:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ كَيْفَ أَسْكُنُ فِي النَّارِ وَرَجَائِي عَفْوُكَ؟ فَبِعِزَّتِكَ
-يَا سَيِّدِي وَمَوْلايَ أُقْسِمُ صَادِقاً، لَئِنْ تَرَكْتَنِي
-نَاطِقاً، لأََضِجَّنَّ إِلَيْكَ بَيْنَ أَهْلِهَا ضَجِيجَ
-الآمِلِينَ...وَلأَبْكِيَنَّ عَلَيْكَ بُكَاءَ الْفَاقِدِينَ‏…
-  </p>
-</blockquote>
+> أَمْ كَيْفَ أَسْكُنُ فِي النَّارِ وَرَجَائِي عَفْوُكَ؟ فَبِعِزَّتِكَ
+> يَا سَيِّدِي وَمَوْلايَ أُقْسِمُ صَادِقاً، لَئِنْ تَرَكْتَنِي
+> نَاطِقاً، لأََضِجَّنَّ إِلَيْكَ بَيْنَ أَهْلِهَا ضَجِيجَ
+> الآمِلِينَ...وَلأَبْكِيَنَّ عَلَيْكَ بُكَاءَ الْفَاقِدِينَ‏…
 
 “How can I stay in the Hell Fire when I am hopeful of Your forgiveness;
 for by Your Invincibility, O my Leader and my Master- I swear
@@ -715,5 +611,4 @@ the team of physicians and those affiliated to Āyatullāh Khumaynī, pp.
 [^30]: Mafātīh al-Jinān, v. 1, pg. 158
 
 [^31]: Ibid.,v. 1, pg. 65
-
 

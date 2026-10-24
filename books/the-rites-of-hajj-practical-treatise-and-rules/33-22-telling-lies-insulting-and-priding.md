@@ -12,11 +12,7 @@ to others or expressing the weakness of others against himself/herself,
 and these three acts have been collected in the term “Fosuq” according
 to some Hadees quoted from the infallibles (a.s.) in the holy verse;
 
-<blockquote dir="rtl">
-  <p>
-فَلا رَفَثَ وَ لا فُسُوقَ وَ لا جِدالَ فى الْحَجّ
-  </p>
-</blockquote>
+> فَلا رَفَثَ وَ لا فُسُوقَ وَ لا جِدالَ فى الْحَجّ
 
 ***Let there be no obscenity, nor wickedness, nor wrangling in the Hajj.
 (2:197)***
@@ -26,5 +22,4 @@ Ihram is not invalidated, and the atonement of that is Istighfar (asking
 forgiveness from Allah). It is better than a person abstain from saying
 anything bad, evil and incompatible to the soul of Hajj and say nothing
 other than good words.
-
 

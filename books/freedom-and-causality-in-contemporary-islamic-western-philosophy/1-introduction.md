@@ -398,4 +398,3 @@ movement, and consequently choose which one is the best.
 
 [^14]: Card R. 2004, p. 2.2
 
-

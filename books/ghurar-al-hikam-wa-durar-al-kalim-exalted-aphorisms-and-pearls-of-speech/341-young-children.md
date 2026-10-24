@@ -7,10 +7,5 @@ Young Children
 them accountable for it when they reach puberty.
 
 > 1ـ عَلِّمُوا صِبْيانَـكُمْ الصَّلاةَ،وَ خُذُوهُمْ بِها إذا بَلَغُوا
-<blockquote dir="rtl">
-  <p>
-الحُلُمَ.
-  </p>
-</blockquote>
-
+> الحُلُمَ.
 

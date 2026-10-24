@@ -133,29 +133,13 @@ family of the Prophet, is beyond any doubt. Imam Shafí'i, the founder of
 the Sunni Shafí'í school of law, has explained the meaning of this verse
 in a poem:
 
-<blockquote dir="rtl">
-  <p>
-يا اهل بيت رسول الله حبكم
-  </p>
-</blockquote>
+> يا اهل بيت رسول الله حبكم
 
-<blockquote dir="rtl">
-  <p>
-فرض من الله في القرآن انزله
-  </p>
-</blockquote>
+> فرض من الله في القرآن انزله
 
-<blockquote dir="rtl">
-  <p>
-من لم يصل عليكم لا صلاة له
-  </p>
-</blockquote>
+> من لم يصل عليكم لا صلاة له
 
-<blockquote dir="rtl">
-  <p>
-كفاكم من عظيم القدر انكم
-  </p>
-</blockquote>
+> كفاكم من عظيم القدر انكم
 
 *O Ahlul Bayt of the Messenger of Allah, your love,*
 
@@ -325,5 +309,4 @@ Murtaza al-'Askari, 'Abdullah bin Saba and Other Myths (Tehran: WOFIS,
 [^14]: Sayyid Razi, Nahju 'l-Balagha, sermon 67. For Sunni sources, see
 at-Tabari, Ta'ríkh, vol. 6, p. 263 and Ibn 'Abdi 'l-Barr, al-Isti'ab
 under biography of 'Awf bin Athathah. [Also see Master and Mastership]
-
 

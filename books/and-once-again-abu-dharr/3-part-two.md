@@ -220,4 +220,3 @@ which were filled with the flame of the fire of the desert, he hurriedly
 turned upon the mountainous walls of the valley of Makkah and held his
 look upon the idols of the Ka'bah.
 
-

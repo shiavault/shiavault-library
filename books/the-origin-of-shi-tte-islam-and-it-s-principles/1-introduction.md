@@ -679,6 +679,5 @@ character, knowledge of and belief in the Holy Quran and Sunnah,
 blessings of faith, and kind manners, and live according to principles
 which are based on reasoning and certain proofs.
 
-
 **Muhammad Husayn Al-Kashifi 'l-Ghita' Najaf al-Ashraf Jamadi 'l-awwal
 1350 A.H. (1931 A. D.)**

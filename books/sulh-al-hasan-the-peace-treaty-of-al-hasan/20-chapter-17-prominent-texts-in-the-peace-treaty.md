@@ -1,8 +1,6 @@
 Chapter 17: Prominent Texts in the Peace Treaty
 ===============================================
 
-  
-
 The form of the Peace Treaty, whose objective elements are religiously
 and politically important, is a new proof for the success which al-Hasan
 achieved. In the meantime it indicates that he had a high politico-
@@ -34,8 +32,6 @@ al-Hasan did his best to find the most practical conditions as
 precautionary steps to maintain his legal right to authority and to
 preserve his  
  position and the position of his brother, and to facilitate  
-
-  
 
 the affairs of his family. In the Peace Treaty, al-Hasan asked Mu'awiya
 to give security to his Shi'a (followers) and the Shi'a of his father.
@@ -74,8 +70,6 @@ Peace Treaty but through this facet.
 
 To understand clearly the aims of the two parties, we have to analyze
 their words on the day when they made peace with each other.
-
-  
 
 ### 1. The Declarations of the two Parties
 
@@ -116,8 +110,6 @@ made a plan to save his Shi'a from killing, to preserve
 [[3]](#n3) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, p. 203.
 [[4]](#n4) Al-Ya'qubi, Ta'rikh, vol. 2, p. 192.
 
-  
-
 his religious doctrines that were better than what the sun rose over,
 and to make peace with Mu'awiya for a fixed time.
 
@@ -155,8 +147,6 @@ Besides the person who succeeded the Prophet, may Allah bless him and
 his family, had no right to oppose his (the Prophet's) rules openly and
 secretly, while Mu'awiya had violated them openly and secretly when he
 committed ugly deeds such as adding the adulterer to his  
-
-  
 
 lineage, performing Friday prayer on Wednesday, and breaking the pledge
 he made with Allah.
@@ -198,8 +188,6 @@ he said: 'The banu of al-Zarqa' (i.e., the Umayyads) have told lies.
 Muhammad b. 'Aqil, al-Nasa'ih al-Kafiya, p. 158. [[2]](#n6) Al-Mas'udi,
 Hamish b. al-Athir, vol. 6, p. 7. [[3]](#n7) Ibn Kathir, al-Bidaya wa
 al-Nihaya, vol. 6, p. 321.
-
-  
 
 Rather they are kings from the evil kings. Mu'awiya is the first of
 them.'" [[1]](#r8)
@@ -243,8 +231,6 @@ Al-Mas'udi, Hamish b. al-Athir, vol. 6, p. 7. [[5]](#n12) Al-Mas'udi,
 Muruj al-Dhahab, vol. 2, p. 342. Ibn Abu al-Hadid, Sharh Nahj
 al-Balagha, vol. 2. p. 357.
 
-  
-
 Mu'awiya's governor Samra cursed him on the day when he removed him from
 the authority of Basrah. He (Samra) said: "My Allah curse Mu'awiya, by
 Allah, if I had obeyed Allah as I obeyed him (Mu'awiya), He (Allah)
@@ -284,8 +270,6 @@ He said: "That is because we think that if we had joined the Camp of
 'Ali b. Abu Talib may Allah honor him, we would have help him against
 Mu'awiya and fought the latter for the former. For this reason they hate
 us." See, Muhammad b. 'Aqil, al-Nasa'ih al-Kafiya, p. 36, in what he has
-
-  
 
 So I (i.e., the author) wonder: where is the succession (Khilafa)?
 
@@ -327,8 +311,6 @@ Farid Wajdi, Da'irat Ma'arif al-Qarn al-'Ishrin, vol. 3, p. 231.
 [[3]](#n20) Dr. Mustafa Jawad, Abu Ja'far al-Naqib (Baghdad), p. 41.
 [[4]](#n21) Ibn Kathir, al-Bidaya wa al-Nihaya, vol. 8, p. 19.
 
-  
-
 said." [[1]](#r22)
 
 At last, Muhammad b. 'Aqil wrote his valuable book 'al-Nasa'ih al-Kafiya
@@ -363,8 +345,6 @@ may be a trial for you and a provision till a time.' " [[2]](#r23)
 [[1]](#n22) Al-Dimyari, Hayht al-Hayawan al-Kubra, vol. 1, p. 58.
 [[2]](#n23) Al-Bayhaqi, al-Mahasin wa al-Masawi', vol. 2, p. 63. Other
 authors have mentioned this speech.'
-
-  
 
 ### 2. Ideas on the Pledge of Allegiance
 
@@ -405,8 +385,6 @@ If we want to look for an excuse for those who hastened to mention the
 pledge of allegiance (to Mu'awiya), we will say that they were affected
 by the propagation which was still heard. In the history of Islam there
 is no matter more prominent than transferring authority  
-
-  
 
 from the grandson of the Prophet to a freed prisoner from the freed
 prisoners who were known for their near history. For this reason, love
@@ -449,8 +427,6 @@ the pledge of allegiance and the meaning of the Imamate as they are, and
 then we must depend on the reports of the event and the declarations of
 those who are specialists in the matter.
 
-  
-
 There are many proofs for this fact, so it leaves no room for doubt.
 
 In the past the people resorted to the sayings of the old historians to
@@ -488,8 +464,6 @@ must study this brief explanation through the two parties themselves.
 From what we have already mentioned, we have understood that Mu'awiya
 said to his son Yazid concerning the members of the House (Ahl al-Bayt),
 peace be on them: "Indeed the right is their right."
-
-  
 
 Also we have known that Mu'awiya wrote to al-Hasan to pave the way to
 peacemaking: "The matters are not settled without you, and you are not
@@ -532,8 +506,6 @@ the latter came to the former and said to him: "King, asSalamu
 'alayka!," and did not say: "Commander of the faithful." The deep
 meaning of this phrase indicates clearly that Mu'awiya wanted to  
 
-  
-
 admit his error when he wanted to take the authority as war booty, not
 as means between the Muslims and their Prophet, may Allah bless him and
 his family. For this reason Mu'awiya was worthy of the words of Sa'd,
@@ -574,8 +546,6 @@ al-Nihaya, vol. 8, p. 19. ' Sayyid Muhsin al-Amin al-'Amili, A'yan
 al-Shi'a, vol. 4, p. 52. Al Hakim, al-Mustadrak. [[3]](#n26) Ahmad
 Shahab al-Din al-'Asqalani, al-Isaba fi Tamyiz al-Shahaba, vol. 2, p.
 12.
-
-  
 
 For they made peace today with each other for what they differed over
 yesterday. In the viewpoint that was standing between the two parties,
@@ -619,8 +589,6 @@ there will be no doubt in the term.
 
 [[1]](#n27) Al-Bayhaqi, al-Mahasin wa al-Masawi', vol. 1, p. 64.
 
-  
-
 According to this idea, no wonder when Mu'awiya was the successor of the
 influence and authority, and al-Hasan b. 'Ali was the successor of the
 Prophet and the partner of the Qur'an.
@@ -661,8 +629,6 @@ for the truthful historians, they have narrated it (the Peace
 
 [[1]](#n28) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 13.
 
-  
-
 forgotten that distorting the fact in the text does not avail them in
 changing the reality during the practical stage. That is because it was
 impossible for the Muslims, whether through the consultative committee
@@ -702,8 +668,6 @@ the Great and Almighty. Rather she attributed it to 'Umar b. al Khattab.
 Besides if she had found a way to ascribe it to Allah, she would have
 followed it, for that would have supported her proof very much. So when
 she entered Basrah, she said: "1 think that you should  
-
-  
 
 look for those who had killed 'Uthman to kill them as they had killed
 him." [[1]](#r29)
@@ -749,8 +713,6 @@ outstretched
 [[1]](#n29) Farid Wajdi, Da'irat Ma'arif al-Qarn al-'Ishrin, vol.4,
 p.535.
 
-  
-
 you since they hated you." [[1]](#r30) There are many examples similar
 to this one.
 
@@ -790,8 +752,6 @@ chapter 20 when we will mention the way that facilitated the pledge of
 allegiance to Yazid. [[2]](#n31) Ibn al-Athir, al-Kamil fi al-Ta'rikh,
 vol. 3, p. 162. After that he said: "Then he (i.e., Mu'awiya) did not
 fulfill it, either."
-
-  
 
 (followers). These sums of money were from his rights. He disposed them
 according to the authorization of Allah, the Most High. He chose these

@@ -39,7 +39,7 @@ him, her or them”. When used for the Prophet, his Household is included.
 When used for others, it only refers to that person.  
  **[2]** Rituals peformed after the prayers.
 
-#### <span dir="RTL"> ولادته وأحوال أمه (صلوات الله عليه)</span>
+####  ولادته وأحوال أمه (صلوات الله عليه)
 
 1- الكافي: ولد (ع) للنصف من شعبان سنة خمس وخمسين ومأتين.
 

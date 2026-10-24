@@ -20,18 +20,13 @@ every important task.
 
 The Messenger of Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-سَلُوا اللٌّهَ عَزَّ وَجَلَّ مَا بَدَالَكُمْ مِنْ حَوَائِجِكُمْ
-حَـتَّى شِسْعَ الْنَعْلِ فَإِنَّهُ إِنْ لَمْ يُـيَسِّرْهُ لَمْ
-يَتَيَسَّرْ
-  </p>
-</blockquote>
+> سَلُوا اللٌّهَ عَزَّ وَجَلَّ مَا بَدَالَكُمْ مِنْ حَوَائِجِكُمْ
+> حَـتَّى شِسْعَ الْنَعْلِ فَإِنَّهُ إِنْ لَمْ يُـيَسِّرْهُ لَمْ
+> يَتَيَسَّرْ
 
 “Ask Allah, the Majestic and Glorious, for the necessities that you
 require, even for as much as your shoelace, because if He does not make
 it easily available for you then it will not be attainable.”[^1]
 
 [^1]: Biharul Anwar, vol. 93, pg. 295, sec. 16, no. 23
-
 

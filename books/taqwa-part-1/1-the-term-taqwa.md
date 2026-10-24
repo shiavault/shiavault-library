@@ -65,4 +65,3 @@ doubt that in practice, the prerequisite of having taqwā and
 self-protection for something is to avoid it, but it does not mean that
 the word “taqwā” has this meaning.
 
-

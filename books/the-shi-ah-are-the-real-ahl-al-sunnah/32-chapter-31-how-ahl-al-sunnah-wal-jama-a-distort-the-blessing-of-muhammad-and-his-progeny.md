@@ -123,13 +123,13 @@ They wish to put out the Light of Allah with their mouths, while Allah
 insists upon completing His Light though the unbelievers are averse
 thereto. (Holy Qur'an, 61:8)
 
-[^136] Al-Bukhari, Sahih., Vol. 4, p. 118.
-[^137] This is recorded on p. 136 of al-Dar Qutni's Sunan.
-[^138] This is recorded on p. 88 of Ibn Hajar al-\`Asqalani's book
+[^136]: Al-Bukhari, Sahih., Vol. 4, p. 118.
+[^137]: This is recorded on p. 136 of al-Dar Qutni's Sunan.
+[^138]: This is recorded on p. 88 of Ibn Hajar al-\`Asqalani's book
 Al-Sawa\`iq al-Muhriqa.
-[^139] Fayd al-Qadeer, Vol. 5, p. 19. Kanz al-Ummal, Vol. 6, p. 173.
-[^140] For documentation of this claim, refer to p. 46 of my book Ask
+[^139]: Fayd al-Qadeer, Vol. 5, p. 19. Kanz al-Ummal, Vol. 6, p. 173.
+[^140]: For documentation of this claim, refer to p. 46 of my book Ask
 Those Who Know.
-[^141] Explanation to Malik, Al-Muwatta', Vol. 6, p. 180, the chapter
+[^141]: Explanation to Malik, Al-Muwatta', Vol. 6, p. 180, the chapter
 titled "Tanweer al-Hawalik" (enlightening the dark areas).
 

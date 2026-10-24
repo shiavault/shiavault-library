@@ -214,4 +214,3 @@ ibid. Extracts from supplications of Imam Sajjad (A) known as "Makaarem
 al- Akhlaaq" or "The Noble Ethics". 64The holy Qur'an, the Heifer [^2]:
 237.
 
-

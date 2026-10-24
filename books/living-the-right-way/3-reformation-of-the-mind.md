@@ -113,4 +113,3 @@ be praised by no one except by Allah.”*
 
 [^1]: The Qur’an, 9: 110.
 
-

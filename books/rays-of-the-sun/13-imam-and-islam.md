@@ -56,11 +56,7 @@ complete piece of advice.”
 in the Qur’an:  
   
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا أَعِظُكُم بِوَاحِدَةٍ أَن تَقُومُوا لِلَّهِ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا أَعِظُكُم بِوَاحِدَةٍ أَن تَقُومُوا لِلَّهِ
 
    
  “Say: I exhort you only to one thing, that (you) rise up for Allah's
@@ -497,5 +493,4 @@ laughed heartily and Imam himself smiled.[^22]
 [^21]: Paa be Paaye Aaftaab, Vol 4, Pg. 279
 
 [^22]: Bardashthayi az Seereye Imam Khomeini, Vol 3, Pg. 284
-
 

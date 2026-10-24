@@ -16,14 +16,10 @@ are recommended to be performed during his occultation.
 
 One of the companions said to Imam Ja’far b. Muhammad as-Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-جَعَلَنِي اللٌّهُ فِدَاكَ، مَتَـى هٌذَا الأَمْرُ الَّذِي
-تَنْتَظِرُونَهُ؟ فَقَدْ طَالَ عَلَيْنَا. فَقَالَ: كَذِبَ
-الْمُتَمَنُّونَ وَ هَلَكَ الْمُسْتَعْجِلُونَ وَ نَجَا الْمُسْلِمُونَ
-وَ إِلَيْنَا يَصِيرُونَ
-  </p>
-</blockquote>
+> جَعَلَنِي اللٌّهُ فِدَاكَ، مَتَـى هٌذَا الأَمْرُ الَّذِي
+> تَنْتَظِرُونَهُ؟ فَقَدْ طَالَ عَلَيْنَا. فَقَالَ: كَذِبَ
+> الْمُتَمَنُّونَ وَ هَلَكَ الْمُسْتَعْجِلُونَ وَ نَجَا الْمُسْلِمُونَ
+> وَ إِلَيْنَا يَصِيرُونَ
 
 “May Allah sacrifice me for your sake, when will this definite command
 (the advent of al-Mahdi) which you are waiting for (come about)? For it
@@ -57,14 +53,10 @@ actions which the faith of Islam is not pleased with!
 Thus, the physical and mental state, words and deeds of a true believer
 must be exactly that which Imam al-Hujjah (ajtf) himself has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنْتَ الْعَالِمُ غَيْرُ مُعَلَّمٍ بِالْوَقْتِ الَّذِي فِيهِ
-صَلاَحُ أَمْرِ وَلِيِّكَ فِي الإِذْنِ لَهُ بِإِظْهَارِ أَمْرِهِ وَ
-كَشْفِ سِرِّهِ فَصَبِّرْنِي عَلَـى ذٌلِكَ حَـتـى لاَ أُحِبَّ تَعْجِيلَ
-مَا أَخَّرْتَ وَ لاَ تَأْخِـيرَ مَا عَجَّلْتَ
-  </p>
-</blockquote>
+> وَ أَنْتَ الْعَالِمُ غَيْرُ مُعَلَّمٍ بِالْوَقْتِ الَّذِي فِيهِ
+> صَلاَحُ أَمْرِ وَلِيِّكَ فِي الإِذْنِ لَهُ بِإِظْهَارِ أَمْرِهِ وَ
+> كَشْفِ سِرِّهِ فَصَبِّرْنِي عَلَـى ذٌلِكَ حَـتـى لاَ أُحِبَّ تَعْجِيلَ
+> مَا أَخَّرْتَ وَ لاَ تَأْخِـيرَ مَا عَجَّلْتَ
 
 “And You O’ Allah are the All-Knowing, without the aid of a teacher,
 about the time which is best for your close servant to get the
@@ -77,5 +69,4 @@ you have decided to hasten...”[^2]
 been Commanded to Follow,’ no. 8
 
 [^2]: Kamal ad-Din wa Tamam an-Ni’mah, pg. 512
-
 

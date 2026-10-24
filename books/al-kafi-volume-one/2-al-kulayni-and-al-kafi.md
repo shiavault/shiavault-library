@@ -115,7 +115,6 @@ young person from amongst my followers having no under-standing of
 religion I would like 'I deal with him very strictly till he acquires
 the knowledge of religion."26
 
-
 **KULAYN**
 
 Kulayn was the name of a village under the jurisdiction of \`Ray' ،X
@@ -127,7 +126,6 @@ the compiler of this book al-Kafi.27
 The fact of his belonging to this village Kulayn, can also be proved by
 his relationship with Ray.28 He was the Shaykh ،X the religious head of
 the Sh.،¦ah scholars of Ray in his time.29
-
 
 **Biography of al-Kulayni, the Compiler**
 
@@ -196,5 +194,4 @@ sufficient to point out his two books namely:-
 2) A book on verse ،X a compilation of eulogies to the Imams.
 In addition, his book on the interpretation of the dreams is regarded
 to be the best book in this field.
-
 

@@ -3,7 +3,6 @@ Introduction and Biographical Background
 
 ***In the Name of Allah, the Beneficent, the Merciful.***
 
-
 Praise belongs to Allah, the Lord of the worlds who in His essential
 divine substance is before time and ever‑existent, who in His own
 necessary independence is the beginning and the end and whose eternity
@@ -72,9 +71,7 @@ up.
 May the peace and blessings of Allah be upon them
 Until the moment the trumpet is sounded on the day of rising.
 
-
 \* \* \* \* \* \* \* \*
-
 
 The divine decrees come into being in a world other than our own and
 they are governed by an order and time which is par­ticular to them ‑
@@ -1350,10 +1347,8 @@ For it shall return your song generously after death.
 
 Muhammad Khajavi (26/7/1362 AH solar dating)
 
-
 Postscript
 ----------
-
 
 The burial place of Sayyid Amuli is to be found in the town of Amul, at
 the lower end of the bazaar in a quarter known as Buqayye Mir Haydar
@@ -1616,5 +1611,4 @@ the limits of the world of the senses and the four dimensions.
 [^24]: The editor's commentary on the text has been omitted since it
 largely comprises a selection of passages translated into Persian for
 the benefit of the Persian reader with a poor knowledge of Arabic.
-
 

@@ -773,4 +773,3 @@ hadith 2.
 
 [^42]: Al-Tawhid: pp 122, ch. 9, hadith no. 4; Al-Kafi: vol. 1, pp 75.
 
-

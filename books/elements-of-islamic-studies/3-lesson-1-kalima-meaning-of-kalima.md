@@ -18,4 +18,3 @@ is the Messenger of Allah.
 *Wasi-yu-Rasulil-Laah*: Imam Ali (A.S.) is the successor of the Prophet.
 *Wa Khalifatuhu bila fasl*: And he is the First Khalifa of the Prophet.
 
-

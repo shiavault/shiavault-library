@@ -9,11 +9,7 @@ and consent. It is rather based on intrinsic and true felicity and
 adversity. The Noble Messenger (S) is the messenger of God and his
 decree is the decree of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ما يَنْطِقُ عَنِ ٱلْهَوَى إِنْ هُوَ إِلاَّ وَحْيٌ يُوْحى ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ما يَنْطِقُ عَنِ ٱلْهَوَى إِنْ هُوَ إِلاَّ وَحْيٌ يُوْحى ﴾
 
 ***“Nor doth he speak of (his own) desire. It is naught save an
 inspiration that is inspired.”***[^1]
@@ -293,5 +289,4 @@ Manshurat al-A‘lami, n.d.), p. 310.
 
 [^14]: Ibn Nadim, Al-Fihrist (Beirut: Dar al-Ma‘rifah Li’t-Taba‘ah
 wa’n-Nashr, n.d.), p. 308.
-
 

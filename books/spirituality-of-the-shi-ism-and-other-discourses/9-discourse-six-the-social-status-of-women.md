@@ -323,22 +323,14 @@ some aspects they may even be stronger than humans.
 In many verses, the Holy Qur’an reminds humans of the gift of intellect
 and holds humans responsible for their perceptions and intellect:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ هُوَ الَّذِي أَنْشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ
-وَالأَبْصَارَ وَالأَفْئِدَةَ قَلِيلاً مَا تَشْكُرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ هُوَ الَّذِي أَنْشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ
+> وَالأَبْصَارَ وَالأَفْئِدَةَ قَلِيلاً مَا تَشْكُرُونَ ﴾
 
 ***“Say: ‘It is He that created you and appointed for you ears, eyes,
 and hearts; how little you give thanks’.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ
-وَالْفُؤَادَ كُلُّ أُولئِكَ كَانَ عَنْهُ مَسْؤُولاً ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ
+> وَالْفُؤَادَ كُلُّ أُولئِكَ كَانَ عَنْهُ مَسْؤُولاً ﴾
 
 ***“And adhere not to that which you have no knowledge. Verily, ears,
 eyes, and hearts are responsible (before Allah).”***[^3]
@@ -353,20 +345,12 @@ because, on the path to happiness humans should choose a destination
 that their intellects judge to be the point of happiness not where their
 animal urges favor.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... يَهْدِي إِلَى الْحَقِّ وَإِلَى طَرِيقٍ مُسْتَقِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ ... يَهْدِي إِلَى الْحَقِّ وَإِلَى طَرِيقٍ مُسْتَقِيمٍ ﴾
 
 ***“The Qur’an guides people towards Truth and a straight path.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالأَرْضُ وَمَن فِيهِنَّ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالأَرْضُ وَمَن فِيهِنَّ... ﴾
 
 ***“And if Truth had followed their caprices, the heavens and the earth
 and all in them would surely have been thrown into confusion and
@@ -378,23 +362,15 @@ masculinity, they are no different in their humanity, since all
 humans—whether man or woman—come into being by the procreation of two
 individuals: a woman and a man.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ
-أُنثَى بَعْضُكُمْ مِنْ بَعْضٍ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ
+> أُنثَى بَعْضُكُمْ مِنْ بَعْضٍ... ﴾
 
 ***“I shall not leave unrewarded the work of any agent among you,
 whether man or woman; you are all members of the same race…”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِنْدَ اللَّهِ أَتْقَاكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِنْدَ اللَّهِ أَتْقَاكُمْ... ﴾
 
 ***“O people! Surely, I have created you as males and females and have
 made you into [diverse] races and tribes that you may know one another.
@@ -481,14 +457,10 @@ shame and loathed daughters, the tribe of Banī Tamīm even buried their
 daughters alive. Thus, the Qur’an specifically remonstrates against
 these two problems:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذَا بُشِّرَ أَحَدُهُمْ بِالأُنثَى ظَلَّ وَجْهُهُ مُسْوَدًّا
-وَهُوَ كَظِيمٌ \* يَتَوَارَى مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ
-بِهِ أَيُمْسِكُهُ عَلَى هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ أَلاَ سَاء
-مَا يَحْكُمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذَا بُشِّرَ أَحَدُهُمْ بِالأُنثَى ظَلَّ وَجْهُهُ مُسْوَدًّا
+> وَهُوَ كَظِيمٌ \* يَتَوَارَى مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ
+> بِهِ أَيُمْسِكُهُ عَلَى هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ أَلاَ سَاء
+> مَا يَحْكُمُونَ ﴾
 
 ***“And when one of them was given the good tidings of the birth of a
 girl, their face would darken in repressed anger. They would hide from
@@ -496,11 +468,7 @@ the people because of the bad news they received asking themselves
 whether they should keep it in disgrace or bury it in the earth. Ah!
 Evil is that which they judge.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذَا الْمَوْؤُدَةُ سُئِلَتْ \* بِأَيِّ ذَنْبٍ قُتِلَتْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذَا الْمَوْؤُدَةُ سُئِلَتْ \* بِأَيِّ ذَنْبٍ قُتِلَتْ ﴾
 
 ***“And when the infant daughter that was buried alive is asked for what
 crime she was killed.”***[^10]
@@ -518,22 +486,14 @@ encroached upon they can take legal action and also bear witness. In all
 these phases, whereby the generalities of a woman’s life are completely
 ensured, men have no dominance, charge, or command over women.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنْفُسِهِنَّ
-بِالْمَعْرُوفِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنْفُسِهِنَّ
+> بِالْمَعْرُوفِ... ﴾
 
 ***“The responsibility of what women do within the confines of religious
 law and custom is not yours (and they are free)…”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ
-وَالأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَفْرُوضًا ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ
+> وَالأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَفْرُوضًا ﴾
 
 ***“And women have a share in what their parents and family leave; be it
 slight or considerable.”***[^12]
@@ -547,11 +507,7 @@ Comparison and contrast of the rights of women and men
 1. Regarding inheritance, on the whole, women receive half that of men
 just as the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... لِلذَّكَرِ مِثْلُ حَظِّ الأُنثَيَيْنِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... لِلذَّكَرِ مِثْلُ حَظِّ الأُنثَيَيْنِ... ﴾
 
 ***“To the male an equivalent of the share of two females (must be
 given)…”***[^13]
@@ -580,11 +536,7 @@ wealth and one third is withheld from them. The two thirds belonging to
 men is used equally by both men and women; therefore, two thirds of the
 world’s wealth is used by women and one third by men.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ... ﴾
 
 ***“The precepts that have been ordained to the advantage of women are
 equal to those that are against them…”***[^14]
@@ -609,12 +561,8 @@ the least different from men. They are free to socialize on the
 condition that they refrain from showing off their adornments, flaunting
 themselves, flirting, and inflaming the lusts of men.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ
-بِالْمَعْرُوفِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ
+> بِالْمَعْرُوفِ... ﴾
 
 ***“The responsibility of what women do within the confines of religious
 law and custom is not yours (and they are free)…”***[^15]
@@ -623,23 +571,15 @@ law and custom is not yours (and they are free)…”***[^15]
 difference between people in rank is their piety and respect before God.
 There is no difference between women and men.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِنكُمْ مِنْ ذَكَرٍ أَوْ
-أُنثَى بَعْضُكُمْ مِنْ بَعْضٍ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِنكُمْ مِنْ ذَكَرٍ أَوْ
+> أُنثَى بَعْضُكُمْ مِنْ بَعْضٍ... ﴾
 
 ***“I shall not leave unrewarded the work of any agent among you,
 whether man or woman; you are all members of the same race…”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ﴾
 
 “O people! Surely, I have created you as males and females and have made
 you into [diverse] races and tribes that you may know one another.
@@ -766,12 +706,8 @@ According to the religious statements and practice of the Holy Prophet
 cannot act as a judge and cannot directly participate in jihād and
 supervise battles.
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَوَ مَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ
-مُبِينٍ ﴾
-  </p>
-</blockquote>
+> ﴿ أَوَ مَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ
+> مُبِينٍ ﴾
 
 ***“Are then those who have been brought up amid adornments and who by
 nature cannot show their true aims in times of hostility to be
@@ -780,11 +716,7 @@ state?”***[^18]
 
 Therefore, men are responsible for these threefold aspects:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ ... ﴾
-  </p>
-</blockquote>
+> ﴿ الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ ... ﴾
 
 ***“Men are the protectors and supervisors of women.”***[^19]
 
@@ -849,5 +781,4 @@ Dehkhodā”) [trans.]
 [^19]: Sūrat al-Nisā’ 4:34.
 
 [^20]: From the yearbook, “Maktab-e Tashayyu‘”.
-
 

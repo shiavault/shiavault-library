@@ -315,7 +315,6 @@ G moves through the Milky Way with the rest of the solar system. A
 slight change in the velocity of the earth or its distance from the sun
 can throw it either into the deep space or right into the sun.
 
-
 There are more than 100,000,000,000,000,000,000,000,000,000. stars only
 in our galaxy, the Milky Way. These stars, like sun, have planets and
 satellites moving in their respective orbits. Then there are more than
@@ -532,5 +531,4 @@ besides Allah, you call, can not create (even) a fly, if they all meet
 together to do this. And if the fly snatch away anything from them, they
 would have no power to release it from the fly. Weak are those who
 petition and whom they petition." (22:73)
-
 

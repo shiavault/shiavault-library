@@ -43,4 +43,3 @@ Naba Organization, Tehran- Iran 10-Lesson's From sermon's of Ghadir,
 Abdol Hossein Taleie, Naba organization, Tehran Iran, Naba
 Organization
 
-

@@ -112,4 +112,3 @@ beyond physical perception, so He cannot be seen through physical eyes.
 
 [^6]: Pg. 296
 
-

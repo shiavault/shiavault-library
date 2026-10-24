@@ -10,11 +10,7 @@ Surah An-Nahl, Chapter 16
 Content of Surah An-Nahl
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -63,5 +59,4 @@ meditation and decision which leads one to practice and taking steps on
 the path of gratitude.
 
 [^1]: Tafsir-i-Burhan
-
 

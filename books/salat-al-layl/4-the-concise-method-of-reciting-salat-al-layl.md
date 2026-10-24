@@ -19,4 +19,3 @@ Once this part of the Salat is finished, we raise our hands in Qunut
 such that our palms are facing the sky and our hands are level with our
 eyes and perform the following.
 
-

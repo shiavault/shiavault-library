@@ -94,4 +94,3 @@ Through his hundreds of comprehensive studies and analyses, he has told
 us that it is impossible to solve the mystery of life without making it
 face eternity.
 
-

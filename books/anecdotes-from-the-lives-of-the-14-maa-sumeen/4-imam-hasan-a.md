@@ -97,4 +97,3 @@ the greatest respect by Imam (A).
 do not really want it.
 2. Always try to give people more than they give you.
 
-

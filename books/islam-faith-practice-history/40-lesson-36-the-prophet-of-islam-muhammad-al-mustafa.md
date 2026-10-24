@@ -487,4 +487,3 @@ Question 3: [15 points]
  Express your opinion about the statement of Ja\`far bin Abi Tālib to
 the king of Abyssinia.
 
-

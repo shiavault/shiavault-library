@@ -526,4 +526,3 @@ Kingdom', p. 107 (see 'The Origin').
 [^20]: Dinawari, 'Al Akhbar al Tiwal', Cairo, Dar Ahya al Kutub, 1960,
 p.217
 
-

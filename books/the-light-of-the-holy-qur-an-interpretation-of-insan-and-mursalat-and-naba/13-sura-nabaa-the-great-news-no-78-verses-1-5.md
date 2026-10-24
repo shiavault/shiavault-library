@@ -1,9 +1,7 @@
 Sura Nabaa (the Great News) No. 78 (verses 1-5)
 ===============================================
 
-<p dir="rtl">
 **بسم الله الرحمن الرحيم**
-</p>
 
 (1) عَمَّ يَتَسَاءَلُونَ
 
@@ -14,7 +12,6 @@ Sura Nabaa (the Great News) No. 78 (verses 1-5)
 (4) كَلَّا سَيَعْلَمُونَ
 
 (5) ثُمَّ كَلَّا سَيَعْلَمُونَ
-
 
 **In The Name of Allah, The Beneficent, The Merciful**
 
@@ -27,7 +24,6 @@ Sura Nabaa (the Great News) No. 78 (verses 1-5)
 4. Nay! they shall soon (come to) know,
 
 5. Nay indeed! they shall soon (come to) know.
-
 
 **Commentary:
 The Great News!**
@@ -259,5 +255,4 @@ whoever has done an atom's weight of evil shall behold it, nothing will
 he forgotten and everything will be in front of Man. This kind of belief
 supplies such a piety in Man that can guide him to the path of charity
 and goodness throughout his life.
-
 

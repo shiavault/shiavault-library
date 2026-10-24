@@ -90,7 +90,6 @@ How, then, did it happen that such an advanced country should succumb so
 easily to a newly-risen movement originating in Hejaz, is the topic for
 our further discussion.
 
-
 **Iran in the Sassanid Period**
 
 Iran under the Sassanids went through a glorious age distinct in its
@@ -113,7 +112,6 @@ Within a short time Ardshir managed to gather forces and mobilise them
 and seize the control and then, after much struggle, establish the
 government of Iran on the same model and the same extent as the
 Achaemenid realm.
-
 
 **Supremacy of Religion and Political Power**
 
@@ -141,7 +139,6 @@ Achaemenid period there was no religion as the state religion, although
 the priests were regarded as a distinguished class, yet they had no
 official recognition. During the Ashkani period, too, the position was
 the same.
-
 
 **Zoroastrianism as the State Religion**
 
@@ -229,7 +226,6 @@ and faiths, namely the influence of Buddhism, certain Indian creeds,
 Christianity and Judaism upon the thoughts and beliefs of Iranians. This
 is the first characteristic of the Sassanid rule which lasted four
 centuries before the advent of Islam.
-
 
 **Administration of the State**
 
@@ -322,7 +318,6 @@ As it has been noted earlier, the social life of people was always
 divided into various clans and in this period the order of classes was
 undergoing a change.
 
-
 **Social Class Structure**
 
 In the Sassanid time the division of the population into the 'haves'
@@ -399,5 +394,4 @@ The war between the Emperors of Iran and Rome continued so long that
 they were losing their last ounce of strength. We will discuss these
 wars in more details later on when the subject of the birth of Islam
 comes up.
-
 

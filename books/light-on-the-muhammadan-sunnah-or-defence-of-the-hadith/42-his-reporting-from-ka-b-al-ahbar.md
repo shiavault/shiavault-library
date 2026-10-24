@@ -1,10 +1,6 @@
 His Reporting From Ka'b Al-ahbar:
 =================================
 
-  
-  
-  
-
 Ulama’ of hadith state, under the bab "The Companions reporting from the
 Followers" or "Riwayat al-Akabir 'an al-Asaghir", that Abu Hurayrah, the
 three Abds, Mu'awiyah and Anas and others used to report from Ka'b
@@ -30,7 +26,7 @@ artifice against Abu Hurayrah, which is manifest through his biography
 that shows him to be a man of unawareness and inexperience! As how could
 Abu Hurayrah be acquainted with what the Torah contained while he never
 knew about it, and had he known he would have never been able to read it
-<span id="_anchor_390"></span>390  since it was written with the Hebrew
+390  since it was written with the Hebrew
 language, and he was unable to read his own language — the Arabic as he
 was illiterate knowing not how to read or write.
 
@@ -49,8 +45,7 @@ al-Mousili that Ka'b said: The sun and moon will be brought on the Day
 of Resurrection like two barren oxen, and they will be pelted into the
 Hell in a
 
-way that can be seen by those who worshipped them. <span
-id="_anchor_391"></span>391
+way that can be seen by those who worshipped them. 391
 
 Al-Hakim in al-Mustadrak, and al-Tabarrani — and his rijal of al-Sahih —
 reported that Abu Hurayrah said: The Prophet said: Allah permitted me to
@@ -63,7 +58,7 @@ This hadith is related by Ka'b al-Ahbar with its text being thus: Allah
 has a rooster whose neck is under the Throne and claws at the bottom of
 the earth ... when it crows the other roosters will crow, saying:
 Glorified is the Holy One, the Sovereign Lord and the Beneficent, that
-no god is there other than Him. <span id="_anchor_392"></span>392
+no god is there other than Him. 392
 
 Abu Hurayrah reported that the Messenger of Allah said: The Nile, Sihan,
 Jihan and Euphratese are the rivers of paradise. The same hadith was
@@ -85,8 +80,7 @@ Hurayrah narrated that: Allah has created
 
 Adam according to His shape, the same words reported in the first Ishah
 of the Torah (the Old Testament) as such: Allah created man according to
-His shape, with His shape He created him. <span
-id="_anchor_393"></span>393
+His shape, with His shape He created him. 393
 
 When Ka'b mentioned the Prophet's attribute stated in the Torah, Abu
 Hurayrah said about his attribute: He was neither obscene nor indecent
@@ -158,24 +152,23 @@ river is there in heavens but flowing from the root of this tree.
 In this way these two collaborate to propagate such kind of
 superstitions. What raises our wonder is the fact that this report being
 related by Wahb ibn Munabbih in an odd work, to which can be referred by
-anyone desiring to. <span id="_anchor_394"></span>394  Many examples of
+anyone desiring to. 394  Many examples of
 this kind can be found in the chapter of Israeliyyat.
 
 When he narrated that the Messenger of Allah said: "Verily if the belly
 of any of you be filled with pus and blood is much better than to be
 filled with poetry", A'ishah said: He did not learn by heart, rather he
 (the Prophet) said: "...than to be filled with poetry with which you are
-satired." <span id="_anchor_395"></span>395
+satired." 395
 
 ### Memorizing the Two Receptacles:
 
 Al-Bukhari reported from Abu Hurayrah as saying: "I learnt by heart from
-the Messenger of Allah two receptacles, <span
-id="_anchor_396"></span>396 one of which I have already disseminated,
+the Messenger of Allah two receptacles, 396 one of which I have already disseminated,
 while the other if I spread my pharynx would be cut."
 
 This hadith is incongruous with another one reported by the Jama'ah
-(Sunnis), <span id="_anchor_397"></span>397  with similar words, from
+(Sunnis), 397  with similar words, from
 Ali, who when asked: Do you have a (separate) book? said: No, except the
 Book of Allah or comprehension bestowed to a Muslim man, or what this
 Sahifah contains.
@@ -219,21 +212,17 @@ from his bosom friends and beloved and nearest people to him?!
 
 In fact he neither had any merit to bring him near to the Prophet nor
 counted, after the demise of the Messenger, among any of the classes of
-Companions, <span id="_anchor_398"></span>398  nor he was among the
+Companions, 398  nor he was among the
 early foremost (in Islam) nor among the Immigrants (Muhajirun) or
 Helpers (Ansar), nor among those who strove with their wealth or their
-lives, <span id="_anchor_399"></span>399  nor among the poets who
+lives, 399  nor among the poets who
 defended the
 
 Prophet (against his opponents), nor among the muftis (those giving
 verdicts), nor among the reciters (qurra') who memorized the Qur'an, nor
 of those regarding whose merit a hadith from the Messenger was reported.
-<span id="_anchor_400"></span>400 And all that was known about him is
+400 And all that was known about him is
 that he was one of Ahl al-Siffah, no more no less!
-
-  
-  
-  
 
 390. Al-Bukhari reported from Abu Hurayrah as saying: The people of the
 Scripture used to read the Torah with the Hebrew, interpreting it with

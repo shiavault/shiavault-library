@@ -943,4 +943,3 @@ including Tarikh-i Kamil they were under the guardianship of Mu'az bin
 
 [^30]: Biharul Anwar, vol. XIX, page 126.
 
-

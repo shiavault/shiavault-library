@@ -3,11 +3,7 @@ Lesson Ninety Seven: Who Is Wise?
 
 Imam ‘Ali (a.s.) was asked to describe a wise man. He replied:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعاقِلُ هُوَ الّذِى يَضَعُ الشَّىءَ مَواضِعَهُ
-  </p>
-</blockquote>
+> اَلْعاقِلُ هُوَ الّذِى يَضَعُ الشَّىءَ مَواضِعَهُ
 
 Translation
 -----------
@@ -27,5 +23,4 @@ adopting correct priorities in worship, work and healthy recreation . In
 short, doing the right thing in the right way at the right time.
 
 [^1]: Nahjul Balaghah
-
 

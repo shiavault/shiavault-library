@@ -929,4 +929,3 @@ pp. 85-86
 [^64]: Abu Hatim al-Razi, A\`lam al-Nubuwwah in Opera Philosophica, Vol.
 I, p. 304.
 
-

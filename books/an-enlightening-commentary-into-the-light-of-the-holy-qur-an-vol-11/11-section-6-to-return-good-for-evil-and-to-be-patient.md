@@ -4,23 +4,11 @@ Section 6: To Return Good For Evil and to Be Patient
 Surah al-Mu’minun - Verses 93-95
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل رَبّ‌ِ إِمَّا تُرِيَنّـِي مَا يُوعَدُونَ
-  </p>
-</blockquote>
+> قُل رَبّ‌ِ إِمَّا تُرِيَنّـِي مَا يُوعَدُونَ
 
-<blockquote dir="rtl">
-  <p>
-رَبّ‌ِ فَلاَ تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> رَبّ‌ِ فَلاَ تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّا عَلَي أَن نُرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ
-  </p>
-</blockquote>
+> وإِنَّا عَلَي أَن نُرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ
 
 ***93. “Say: ‘My Lord! If You show me what (chastisement) they are
 promised, ’”***  
@@ -101,24 +89,12 @@ grace.
 Surah al-Mu’minun - Verses 96-98
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيّـِئَةَ نَحْنُ أَعْلَمُ بِمَا
-يَصِفُونَ
-  </p>
-</blockquote>
+> ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيّـِئَةَ نَحْنُ أَعْلَمُ بِمَا
+> يَصِفُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَبّ‌ِ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ
-  </p>
-</blockquote>
+> وَقُل رَبّ‌ِ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَأَعُوذُ بِكَ رَبّ‌ِ أَن يَحْضُرُونِ
-  </p>
-</blockquote>
+> وَأَعُوذُ بِكَ رَبّ‌ِ أَن يَحْضُرُونِ
 
 ***96. “Repel evil with that which is best. We know best what they
 describe.”***  
@@ -243,5 +219,4 @@ ul-Futuh, the Commentary, and ruh ul-Ma‘ani
 [^2]: The great commentary of Fakhr Razi
 
 [^3]: Nur-uth-Thaqalyn, Vol. 3, p. 552
-
 

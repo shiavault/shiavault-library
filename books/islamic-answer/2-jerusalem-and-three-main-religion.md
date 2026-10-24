@@ -48,7 +48,6 @@ philosophers, doctors of medicine, and poets (non arabs) enjoyed the
 protection provided for them by islamic rulers. in short, islam
 considers jerusalem as the cradle of all prophets.
 
-
 **muharram.... what is it?**
 
 "do you not see that righteousness has been abandoned and evil goes
@@ -98,7 +97,6 @@ consequently, after the death of mu'awiyah in 60/679 c.e., most of the
 muslims looked toward imam husayn (a.) as their true religious leader.
 thus, creating resentment on the part of yazid, who demanded
 relinquishment of imam husayn's (a.) leadership.
-
 
 **Imam Husayn's mission**
 
@@ -160,5 +158,4 @@ on the actual grave and covered by gold and precious stones. this box is
 with six angels to signify the grave of imam and his son ali al akbar.
 other places of inside the tomb are covered by thousands of small
 mirrors, mosaic, precious stones, silver and gold.
-
 

@@ -162,4 +162,3 @@ them, those (unbelievers) whose hearts are inclined (towards the truth),
 the slaves, the debtors, in the way of Allah, and the traveller. So does
 Allah ordain. Allah is Knowing, Wise.” (9:60)
 
-

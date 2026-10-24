@@ -5,7 +5,7 @@ Scholars and intellectuals of the Islamic world have written numerous
 books about Imam Mahdi (a.s) and it is worth pointing out that a
 majority of them are from Ahle Sunnat community. Moreover, the Shia
 scholars have also written many books about Imam Mahdi
-(a.s).<sup>[1]</sup> Below we mention some of these books:
+(a.s).[1] Below we mention some of these books:
 
 1. Al-Bayan Fi Akhbar Sahib az-Zaman, written by Abu Abdillah Muhammad
 bin Yusuf Ganji Shafei. Recently, the great researcher Sayyid Mahdi
@@ -35,10 +35,10 @@ the original sources.
 
 6. Al-Fitan, written by Naeem bin Hammad Maroozi (died 228 A.H.). Copies
 of this manuscript are available in Riyadh, Medina, Mecca from Turkey,
-London, India and Iraq.<sup>[1]</sup>
+London, India and Iraq.[1]
 
 7. Al-Malahim, written by Abul Hasan bin Manadi Ahmad bin Ja’far (died
-336 A.H.).<sup>[2]</sup>
+336 A.H.).[2]
 
 8. Al-Mahdi or Akhbar al-Mahdi, written by Abu Naeem Isfahani (died 430
 A.H.) is present in manuscript form.
@@ -111,7 +111,7 @@ from Riyadh.
 
 27. Al-Ahadith Waarida fil Mahdi fi Meezan al-Jarah Ta’deel, written by
 Abdul Aleem bin Abdul Azeem and it was published in the Makkah Mukarrama
-University.<sup>[1]</sup>
+University.[1]
 
 28. Al-Muntazar A’laa Zawa al-Haqaiq, written by Muhammad Husain Adeeb,
 published from the Haidariyya Press, Najaf al-Ashraf.
@@ -152,7 +152,7 @@ Tulun.
 39. Al-Hadiyatul Mahdaviyyah, written by Abul Rajaa Muhammad Hindi.
 
 40. Al-Awasim Anil Fitan al-Qawasim, written by Ali bin Burhanuddin
-Halabi Shafei.<sup>[1]</sup>
+Halabi Shafei.[1]
 
 41. Al-Ghaybah, written by Shaykh Tusi
 
@@ -183,7 +183,7 @@ Sunnat scholars.
 
 ------------------------------------------------------------------------
 
-<sup>[1]</sup> Razail Shaykh Mufid
+[1] Razail Shaykh Mufid
 
 [![ Back](images/back.gif)](23.htm)[  
  Back](29.htm)

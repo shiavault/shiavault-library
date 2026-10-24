@@ -8,11 +8,7 @@ Surah Lail, Chapter 92
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -46,79 +42,31 @@ life) smooth for him.”*[^1]
 Surah Lail, Verses 1-11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذَا يَغْشَى
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذَا يَغْشَى
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّهَارِ إِذَا تَجَلَّى
-  </p>
-</blockquote>
+> وَالنَّهَارِ إِذَا تَجَلَّى
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَى
-  </p>
-</blockquote>
+> وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَى
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ سَعْيَكُمْ لَشَتَّى
-  </p>
-</blockquote>
+> إِنَّ سَعْيَكُمْ لَشَتَّى
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَن أَعْطَى وَاتَّقَى
-  </p>
-</blockquote>
+> فَأَمَّا مَن أَعْطَى وَاتَّقَى
 
-<blockquote dir="rtl">
-  <p>
-وَصَدَّقَ بِالْحُسْنَى
-  </p>
-</blockquote>
+> وَصَدَّقَ بِالْحُسْنَى
 
-<blockquote dir="rtl">
-  <p>
-فَسَنُيَسِّرُهُ لِلْيُسْرَى
-  </p>
-</blockquote>
+> فَسَنُيَسِّرُهُ لِلْيُسْرَى
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَن بَخِلَ وَاسْتَغْنَى
-  </p>
-</blockquote>
+> وَأَمَّا مَن بَخِلَ وَاسْتَغْنَى
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَّبَ بِالْحُسْنَى
-  </p>
-</blockquote>
+> وَكَذَّبَ بِالْحُسْنَى
 
-<blockquote dir="rtl">
-  <p>
-فَسَنُيَسِّرُهُ لِلْعُسْرَى
-  </p>
-</blockquote>
+> فَسَنُيَسِّرُهُ لِلْعُسْرَى
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّى
-  </p>
-</blockquote>
+> وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّى
 
 ***1. “By the night when it enshrouds,"***  
 ***2. “By the day when it brightens up,"***  
@@ -428,65 +376,25 @@ the occasion of revelation.
 Surah Lail, Verses 12-21
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلَيْنَا لَلْهُدَى
-  </p>
-</blockquote>
+> إِنَّ عَلَيْنَا لَلْهُدَى
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَى
-  </p>
-</blockquote>
+> وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَى
 
-<blockquote dir="rtl">
-  <p>
-فَأَنذَرْتُكُمْ نَارًا تَلَظَّى
-  </p>
-</blockquote>
+> فَأَنذَرْتُكُمْ نَارًا تَلَظَّى
 
-<blockquote dir="rtl">
-  <p>
-لَا يَصْلَاهَا إِلَّا الْأَشْقَى
-  </p>
-</blockquote>
+> لَا يَصْلَاهَا إِلَّا الْأَشْقَى
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي كَذَّبَ وَتَوَلَّى
-  </p>
-</blockquote>
+> الَّذِي كَذَّبَ وَتَوَلَّى
 
-<blockquote dir="rtl">
-  <p>
-وَسَيُجَنَّبُهَا الْأَتْقَى
-  </p>
-</blockquote>
+> وَسَيُجَنَّبُهَا الْأَتْقَى
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى
-  </p>
-</blockquote>
+> الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَى
-  </p>
-</blockquote>
+> وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَى
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا ابْتِغَاء وَجْهِ رَبِّهِ الْأَعْلَى
-  </p>
-</blockquote>
+> إِلَّا ابْتِغَاء وَجْهِ رَبِّهِ الْأَعْلَى
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يَرْضَى
-  </p>
-</blockquote>
+> وَلَسَوْفَ يَرْضَى
 
 ***12. “Verily We take upon Ourselves to guide,"***  
 ***13. “And certainly to Us (belongs the End) the Hereafter and (the
@@ -751,5 +659,4 @@ with us and we will be well pleased, too.*
 [^5]: Usul al-Kafi, vol. 2, on 'Feeding a Believer', Tradition 17.
 
 [^6]: Bihar-al-Anwar, vol. 74, p. 388, Traditions 113.
-
 

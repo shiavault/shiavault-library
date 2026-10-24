@@ -100,7 +100,6 @@ Through this, the movement may be able to continue to expand and
 progress and will be accompanied by peace. In this way the movement will
 end in the government of one billion Muslims by the leave of Allah.
 
-
 **Instilling Peace**
 
 The process of instilling and instructing the self has a great effect
@@ -230,5 +229,4 @@ Allah to guide them. In the end the Messenger of Allah achieved that
 success which has no parallel in the entire world. We ask Allah to grant
 us such success in this. Surely He is the granter of success and the
 best helper.
-
 

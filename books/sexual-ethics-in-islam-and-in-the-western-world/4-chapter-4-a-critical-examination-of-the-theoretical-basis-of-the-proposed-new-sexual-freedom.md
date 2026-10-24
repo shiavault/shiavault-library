@@ -271,11 +271,7 @@ the Holy Qur'an with the sincere regards that brothers have for each
 other.  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ
 
 ***“Indeed the Believers are but a single Brotherhood:”*** ***(Sura
 al-Hujarat, 49: 10)***
@@ -304,5 +300,4 @@ reason can be the fact that Westerners have come to believe in sex
 without love or inhibition. Sexual experimentation and diversification
 do not allow any specific interpersonal love to develop. They tend to be
 indiscriminate in seeking sexual enjoyment
-
 

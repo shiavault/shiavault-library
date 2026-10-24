@@ -50,4 +50,3 @@ of their loved ones with their wealth of resources, then we also can and
 should certainly accomplish the same and more for the holy grandson of
 the Seal of Messengers (S), Imam Husayn ibn ‘Ali ibn Abi Talib (as)!!
 
-

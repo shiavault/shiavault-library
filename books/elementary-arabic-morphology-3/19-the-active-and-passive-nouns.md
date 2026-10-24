@@ -36,4 +36,3 @@ The passive participle noun is formed from passive transitive verbs
 whether they accept an objective compliment by themselves or by a
 intermediary, for example: **مکانٌ مَجلوسٌ فیه.**
 
-

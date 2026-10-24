@@ -412,4 +412,3 @@ ash-Shaybani and al-Asma’iy had said and he didn’t know that the “ka’b�
 according to the Shia was the very joint, which was known and
 perceptible by every one.
 
-

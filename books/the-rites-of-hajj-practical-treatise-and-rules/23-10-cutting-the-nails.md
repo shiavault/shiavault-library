@@ -40,4 +40,3 @@ then paying the atonement of one sheep is obligatory for the person who
 has issued the fatwa and even if blood does not shed then, it is still a
 precaution to pay the atonement.
 
-

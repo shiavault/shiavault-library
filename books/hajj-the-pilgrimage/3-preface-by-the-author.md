@@ -129,4 +129,3 @@ result, all his life a Hajj could remain a guide in the darkness of his
 society - like a glittering beam in the darkness!  
  Dr. Ali Shariati
 
-

@@ -34,7 +34,6 @@ In fact, this meaning is the most evident epithet of the godly prophets
 and the bringers of the Divine revelations that they do convey the
 command of Allah to the servants of God completely.
 
-
 **Commentary : Verse 42**
 
 42- إِذْ قَالَ لأَبِيهِ يَآ أَبَتِ لِمَ تَعْبُدُ مَا لاَ يَسْمَعُ وَلاَ
@@ -92,7 +91,6 @@ vices).
 
 6. The path of truth should not be sacrificed for affections.
 Relationship ought not to hinder the act of forbidding of wrong.
-
 
 **Commentary : Verse 43.44**
 
@@ -157,5 +155,4 @@ for himself, and, far from bigotries and blindly followings, choose his
 good and benefit.
 
 1- Safinat-ul-Bihar, vol. 2, p. 115
-
 

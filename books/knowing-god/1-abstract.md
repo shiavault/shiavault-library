@@ -23,4 +23,3 @@ based on years of delving into religious texts and sources, constant
 contact with the young generation and pondering over ideological and
 educational issues.
 
-

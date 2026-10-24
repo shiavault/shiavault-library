@@ -206,4 +206,3 @@ as the Qur’an, Nahjul Balagha (Peak of Eloquence) and the traditions of
 the Prophet and his Pure Progeny, we would find out that this approach
 is closer to these sources than the first, [i.e.*kalaam* methodology].
 
-

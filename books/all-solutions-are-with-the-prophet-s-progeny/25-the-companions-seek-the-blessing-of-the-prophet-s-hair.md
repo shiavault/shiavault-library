@@ -46,4 +46,3 @@ iron, and it is the Messenger of Allah (S*)*.”
 
 [^2]: Ibid
 
-

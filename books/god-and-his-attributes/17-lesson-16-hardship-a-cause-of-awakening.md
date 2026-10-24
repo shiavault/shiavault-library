@@ -216,4 +216,3 @@ phenomenon.
 
 [^1]: Nahj al-Balaghah, ed., Subhi Salh, p. 493.
 
-

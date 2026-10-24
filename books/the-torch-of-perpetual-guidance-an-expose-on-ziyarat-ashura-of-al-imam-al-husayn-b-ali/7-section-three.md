@@ -1,13 +1,9 @@
 Section Three
 =============
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ وَعَلَى الأَََرْواحِ الَّتِي حَلَّتْ بِفِنائِكَ،
-عَلَيْكُمْ مِنِّي جَمِيعاً سَلامُ اللّهِ أَبَداً مَا بَقِيتُ وَبَقِيَ
-اللَّيْلُ وَالنَّهارُ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ وَعَلَى الأَََرْواحِ الَّتِي حَلَّتْ بِفِنائِكَ،
+> عَلَيْكُمْ مِنِّي جَمِيعاً سَلامُ اللّهِ أَبَداً مَا بَقِيتُ وَبَقِيَ
+> اللَّيْلُ وَالنَّهارُ
 
 “Peace be upon you and also upon those souls who accompanied you to your
 annihilation. Upon you and upon all of those (who were killed) is the
@@ -36,5 +32,4 @@ to Karbala’, we see that they are truly worthy of submitting and
 pledging our allegiance to – this is definitely not something we see in
 the companions of the Prophet – especially those who were in the Battle
 of Uhud who fled the scene of the battle, looking for the spoils of war!
-
 

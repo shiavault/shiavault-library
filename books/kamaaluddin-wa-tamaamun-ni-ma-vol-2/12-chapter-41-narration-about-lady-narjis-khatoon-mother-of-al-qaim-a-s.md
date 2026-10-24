@@ -252,4 +252,3 @@ Messenger of Allah (S), take her to your house and teach her the duties
 and traditions, for she is the wife of Abu Muhammad and the mother of
 the Qaim (a.s.).”
 
-

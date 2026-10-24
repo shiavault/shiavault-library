@@ -89,12 +89,8 @@ from “Anfal” (dead land, pasturages and streams).
 And we read in the book “Kanz Al-Ummal[^7]” which if one famous
 resources of Ahlul Sunnah that he said:
 
-<blockquote dir="rtl">
-  <p>
-ان لکم بطول الارض و سهولها و تلاع الاودیة و ظهورها على ان ترعوا نباتها
-و تشربوا مائها على ان تؤدّوا الخمس
-  </p>
-</blockquote>
+> ان لکم بطول الارض و سهولها و تلاع الاودیة و ظهورها على ان ترعوا نباتها
+> و تشربوا مائها على ان تؤدّوا الخمس
 
 [^1]: Refer to Ahadith of chapter eight from chapters of “What Khums is
 obligatory in it”, vol. 6 of Wasael Al-Shi’aa.
@@ -113,5 +109,4 @@ obligatory in it”, vol. 6 of Wasael Al-Shi’aa.
 
 [^7]: Kanz Al-Ummal, vol. 7, page 65; and in the book “Makateeb
 Al-Rasool”, page 365, it has been quoted from other resources.
-
 

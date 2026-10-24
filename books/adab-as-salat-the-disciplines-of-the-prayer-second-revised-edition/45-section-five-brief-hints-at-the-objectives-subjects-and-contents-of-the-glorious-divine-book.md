@@ -346,4 +346,3 @@ hadīth 3, p. 123.
 
 [^19]: Sūrah al-Mu'minūn 23:91
 
-

@@ -7,11 +7,7 @@ helper of the weak is al­Qadr. Everything has an ease, and the ease of
 those in difficulty is al­Qadr . . . everything has a chief and the
 chief of knowledge is al­Qadr. . .”*
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 > إنا أنزلناه في ليلة القدر (1)
 
@@ -19,11 +15,7 @@ chief of knowledge is al­Qadr. . .”*
 
 > ليلة القدر خير من الف شهر(3)
 
-<blockquote dir="rtl">
-  <p>
-تنزل الملائكة والروح فيها بإذن ربهم
-  </p>
-</blockquote>
+> تنزل الملائكة والروح فيها بإذن ربهم
 
 > من كل أمر(4)
 
@@ -43,5 +35,4 @@ chief of knowledge is al­Qadr. . .”*
 of their Lord, with (decrees) for every affair.
 
 5. Peace, until the break of dawn.
-
 

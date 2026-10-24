@@ -347,4 +347,3 @@ possessed by the traders of wars and the suckers of peoples’ bloods.
 
 [^4]: Nahjul Balaghah, sermon 159.
 
-

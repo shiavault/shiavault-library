@@ -313,4 +313,3 @@ who hoard up gold and silver and do not spend it in the way of Allah,
 announce to them (O Muhammad) a painful doom."
 Sura Tawba (9:34)
 
-

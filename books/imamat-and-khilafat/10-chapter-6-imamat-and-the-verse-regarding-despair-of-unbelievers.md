@@ -314,4 +314,3 @@ instructions should have been received.35
 These explanations of 'this day' have no textual indication or
 historical evidence to support them.
 
-

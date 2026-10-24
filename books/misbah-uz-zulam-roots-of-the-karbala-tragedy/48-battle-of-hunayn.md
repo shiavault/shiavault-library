@@ -1178,4 +1178,3 @@ Maarijun Nubuwwah; Rauzatul Safa and Habibus Sayr
 
 [^10]: Surah Maidah 5:3
 
-

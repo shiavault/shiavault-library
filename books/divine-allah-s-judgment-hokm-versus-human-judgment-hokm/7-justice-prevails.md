@@ -94,4 +94,3 @@ Uthman, the previous Caliph. Therefore, even though the intentions were
 merely according to the principles of this world, it was not due to
 heavenly and spiritual faith.
 
-

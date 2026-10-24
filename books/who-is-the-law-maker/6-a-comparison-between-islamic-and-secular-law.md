@@ -31,17 +31,13 @@ and to liberate man from oppression, be kind to him, and protect his
 interests in life, as is evident from the following verse of the
 glorious Qur'an;
 
-<blockquote dir="rtl">
-  <p>
-“الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
-يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنْجِيلِ
-يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ
-لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ وَيَضَعُ
-عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ عَلَيْهِمْ ۚ
-فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
-النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ “
-  </p>
-</blockquote>
+> “الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي
+> يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنْجِيلِ
+> يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ
+> لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ وَيَضَعُ
+> عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ عَلَيْهِمْ ۚ
+> فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
+> النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ “
 
 ***[7:157] Those who follow the Messenger-Prophet, the Ummi, whom they
 find written down with them in the Taurat and the Injeel (who) enjoins
@@ -52,11 +48,7 @@ who believe in him and honor him and help him, and follow the light
 which has been sent down with him, these it is that are the
 successful.***
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ “
-  </p>
-</blockquote>
+> “وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ “
 
 ***[21:107] And We have not sent you but as a mercy to the worlds.***
 
@@ -112,22 +104,14 @@ negative course practiced by man against the idea of Truth. For this
 reason the Qur'an rejects it as passing and vanishing, unable to occupy
 the place of truth or remain constant in the world of reality:
 
-<blockquote dir="rtl">
-  <p>
-“لَا تَرْكُضُوا وَارْجِعُوا إِلَىٰ مَا أُتْرِفْتُمْ فِيهِ
-وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ “
-  </p>
-</blockquote>
+> “لَا تَرْكُضُوا وَارْجِعُوا إِلَىٰ مَا أُتْرِفْتُمْ فِيهِ
+> وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ “
 
 ***[21:13] Do not fly (now) and come back to what you were made to lead
 easy lives in and to your dwellings, haply you will be questioned.***
 
-<blockquote dir="rtl">
-  <p>
-“وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ
-زَهُوقًا “
-  </p>
-</blockquote>
+> “وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ
+> زَهُوقًا “
 
 ***[17:81] And say: The truth has come and the falsehood has vanished;
 surely falsehood is a vanishing (thing).***
@@ -151,36 +135,24 @@ Therefore, the glorious Qur'an describes this procedure on the part of
 man as confusion, going astray, ignorance and forgery, and condemns this
 act of the ignorant man who undertakes the responsibility of law-making.
 
-<blockquote dir="rtl">
-  <p>
-“وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ
-وَأَنْتُمْ تَعْلَمُونَ “
-  </p>
-</blockquote>
+> “وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ
+> وَأَنْتُمْ تَعْلَمُونَ “
 
 ***[2:42] And do not mix up the truth with the falsehood, nor hide the
 truth while you know (it).***
 
-<blockquote dir="rtl">
-  <p>
-“أُولَٰئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ ۖ
-وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ “
-  </p>
-</blockquote>
+> “أُولَٰئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ ۖ
+> وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ “
 
 ***[11:16] These are they for whom there is nothing but fire in the
 hereafter, and what they wrought in it shall go for nothing, and vain is
 what they do.***
 
-<blockquote dir="rtl">
-  <p>
-“أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ
-مِنْهُ وَمِنْ قَبْلِهِ كِتَابُ مُوسَىٰ إِمَامًا وَرَحْمَةً ۚ
-أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۚ وَمَنْ يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ
-فَالنَّارُ مَوْعِدُهُ ۚ فَلَا تَكُ فِي مِرْيَةٍ مِنْهُ ۚ إِنَّهُ
-الْحَقُّ مِنْ رَبِّكَ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ“
-  </p>
-</blockquote>
+> “أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ
+> مِنْهُ وَمِنْ قَبْلِهِ كِتَابُ مُوسَىٰ إِمَامًا وَرَحْمَةً ۚ
+> أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۚ وَمَنْ يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ
+> فَالنَّارُ مَوْعِدُهُ ۚ فَلَا تَكُ فِي مِرْيَةٍ مِنْهُ ۚ إِنَّهُ
+> الْحَقُّ مِنْ رَبِّكَ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ“
 
 ***[11:17] Is he then who has with him clear proof from his Lord, and a
 witness from Him recites it and before it (is) the Book of Musa, a guide
@@ -193,22 +165,14 @@ Then the Qur'an further stresses the objective of the Divine Law and its
 role in defining truth and dismissing the scheming of the straying human
 soul which intrudes on the truth a false and vain course and law:
 
-<blockquote dir="rtl">
-  <p>
-“لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ
-الْمُجْرِمُونَ “
-  </p>
-</blockquote>
+> “لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ
+> الْمُجْرِمُونَ “
 
 ***[8:8] That He may manifest the truth of what was true and show the
 falsehood of what was false, though the guilty disliked.***
 
-<blockquote dir="rtl">
-  <p>
-“وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ ۗ وَمَا أَرْسَلْنَاكَ
-إِلَّا مُبَشِّرًا وَنَذِيرًا “
-  </p>
-</blockquote>
+> “وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ ۗ وَمَا أَرْسَلْنَاكَ
+> إِلَّا مُبَشِّرًا وَنَذِيرًا “
 
 ***[17:105] And with truth have We revealed it, and with truth did it
 come; and We have not sent you but as the giver of good news and as a
@@ -233,65 +197,45 @@ criterion, etc.
 
 Allah the Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
-الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ “
-  </p>
-</blockquote>
+> “إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
+> الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ “
 
 ***[16:90] Surely Allah enjoins the doing of justice and the doing of
 good (to others) and the giving to the kindred, and He forbids indecency
 and evil and rebellion; He admonishes you that you may be mindful.***
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ
-أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا
-بِالْعَدْلِ ۚ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ ۗ إِنَّ اللَّهَ
-كَانَ سَمِيعًا بَصِيرًا “
-  </p>
-</blockquote>
+> “إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ
+> أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا
+> بِالْعَدْلِ ۚ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ ۗ إِنَّ اللَّهَ
+> كَانَ سَمِيعًا بَصِيرًا “
 
 ***[4:58] Surely Allah commands you to make over trusts to their owners
 and that when you judge between people you judge with justice; surely
 Allah admonishes you with what is excellent; surely Allah is Seeing,
 Hearing.***
 
-<blockquote dir="rtl">
-  <p>
-“وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
-وَاللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ
-بِالْفَحْشَاءِ ۖ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ “
-  </p>
-</blockquote>
+> “وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
+> وَاللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ
+> بِالْفَحْشَاءِ ۖ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ “
 
 ***[7:28] And when they commit an indecency they say: We found our
 fathers doing this, and Allah has enjoined it on us. Say: Surely Allah
 does not enjoin indecency; do you say against Allah what you do not
 know?***
 
-<blockquote dir="rtl">
-  <p>
-“قُلْ أَمَرَ رَبِّي بِالْقِسْطِ ۖ وَأَقِيمُوا وُجُوهَكُمْ عِنْدَ كُلِّ
-مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۚ كَمَا بَدَأَكُمْ
-تَعُودُونَ “
-  </p>
-</blockquote>
+> “قُلْ أَمَرَ رَبِّي بِالْقِسْطِ ۖ وَأَقِيمُوا وُجُوهَكُمْ عِنْدَ كُلِّ
+> مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۚ كَمَا بَدَأَكُمْ
+> تَعُودُونَ “
 
 ***[7:29] Say: My Lord has enjoined justice, and set upright your faces
 at every time of prayer and call on Him, being sincere to Him in
 obedience; as He brought you forth in the beginning, so shall you also
 return.***
 
-<blockquote dir="rtl">
-  <p>
-“وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ
-نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ
-أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ “
-  </p>
-</blockquote>
+> “وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ
+> نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ
+> أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ “
 
 ***[21:47] And We will set up a just balance on the day of resurrection,
 so no soul shall be dealt with unjustly in the least; and though there
@@ -303,25 +247,17 @@ injustice and resents it in several verses, attacking the wrong-doers
 and threatening them with torture and curse as is clear from the
 examples given below:
 
-<blockquote dir="rtl">
-  <p>
-“إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ
-كَثِيرًا وَانْتَصَرُوا مِنْ بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ
-الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ “
-  </p>
-</blockquote>
+> “إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ
+> كَثِيرًا وَانْتَصَرُوا مِنْ بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ
+> الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ “
 
 ***[26:227] Except those who believe and do good and remember Allah
 much, and defend themselves after they are oppressed; and they who act
 unjustly shall know to what final place of turning they shall turn
 back.***
 
-<blockquote dir="rtl">
-  <p>
-“يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ
-اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ “
-  </p>
-</blockquote>
+> “يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ
+> اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ “
 
 ***[40:52] The day on which their excuse shall not benefit the unjust,
 and for them is curse and for them is the evil abode.***
@@ -561,11 +497,7 @@ is addressed to the human race as a whole. Its message is a universal
 one. Its laws are general and not legislated for the sake of a
 particular group. The glorious Qur'an says to the Messenger:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ “
-  </p>
-</blockquote>
+> “وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ “
 
 ***[21:107] And We have not sent you but as a mercy to the worlds.***
 
@@ -593,37 +525,25 @@ Islam's everlastingness is due to the following factors:
 since it expresses the eternal will and wisdom of Allah in existence,
 Allah, the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
-الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ “
-  </p>
-</blockquote>
+> “إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
+> الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ “
 
 ***[16:90] Surely Allah enjoins the doing of justice and the doing of
 good (to others) and the giving to the kindred, and He forbids indecency
 and evil and rebellion; He admonishes you that you may be mindful.***
 
-<blockquote dir="rtl">
-  <p>
-“قُلْ أَمَرَ رَبِّي بِالْقِسْطِ ۖ وَأَقِيمُوا وُجُوهَكُمْ عِنْدَ كُلِّ
-مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۚ كَمَا بَدَأَكُمْ
-تَعُودُونَ “
-  </p>
-</blockquote>
+> “قُلْ أَمَرَ رَبِّي بِالْقِسْطِ ۖ وَأَقِيمُوا وُجُوهَكُمْ عِنْدَ كُلِّ
+> مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۚ كَمَا بَدَأَكُمْ
+> تَعُودُونَ “
 
 ***[7:29] Say: My Lord has enjoined justice, and set upright your faces
 at every time of prayer and call on Him, being sincere to Him in
 obedience; as He brought you forth in the beginning, so shall you also
 return.***
 
-<blockquote dir="rtl">
-  <p>
-“وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ ۗ وَمَا أَرْسَلْنَاكَ
-إِلَّا مُبَشِّرًا وَنَذِيرًا “
-  </p>
-</blockquote>
+> “وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ ۗ وَمَا أَرْسَلْنَاكَ
+> إِلَّا مُبَشِّرًا وَنَذِيرًا “
 
 ***[17:105] And with truth have We revealed it, and with truth did it
 come; and We have not sent you but as the giver of good news and as a
@@ -662,15 +582,11 @@ them whenever these do not suit their purpose.
 
 Such people are described in the Qur’an as:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ ۖ يُضَلُّ بِهِ الَّذِينَ
-كَفَرُوا يُحِلُّونَهُ عَامًا وَيُحَرِّمُونَهُ عَامًا لِيُوَاطِئُوا
-عِدَّةَ مَا حَرَّمَ اللَّهُ فَيُحِلُّوا مَا حَرَّمَ اللَّهُ ۚ زُيِّنَ
-لَهُمْ سُوءُ أَعْمَالِهِمْ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ
-الْكَافِرِينَ “
-  </p>
-</blockquote>
+> “إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ ۖ يُضَلُّ بِهِ الَّذِينَ
+> كَفَرُوا يُحِلُّونَهُ عَامًا وَيُحَرِّمُونَهُ عَامًا لِيُوَاطِئُوا
+> عِدَّةَ مَا حَرَّمَ اللَّهُ فَيُحِلُّوا مَا حَرَّمَ اللَّهُ ۚ زُيِّنَ
+> لَهُمْ سُوءُ أَعْمَالِهِمْ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ
+> الْكَافِرِينَ “
 
 ***[9:37] Postponing (of the sacred month) is only an addition in
 unbelief, wherewith those who disbelieve are led astray, violating it
@@ -683,13 +599,9 @@ So, they assume the powers to confirm or change laws, as if there were
 no reality for truth, justice and the natural law established in the
 world of existence, save that which cares for their own interests:
 
-<blockquote dir="rtl">
-  <p>
-“وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ بَلْ أَتَيْنَاهُمْ بِذِكْرِهِمْ فَهُمْ
-عَنْ ذِكْرِهِمْ مُعْرِضُونَ “
-  </p>
-</blockquote>
+> “وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ بَلْ أَتَيْنَاهُمْ بِذِكْرِهِمْ فَهُمْ
+> عَنْ ذِكْرِهِمْ مُعْرِضُونَ “
 
 ***[23:71] And should the truth follow their low desires, surely the
 heavens and the earth and all those who are therein would have perished.
@@ -705,5 +617,4 @@ their authority and interests.
 
 [^1]: Ijtihad: The process of arriving at a personal opinion by an
 Islamic jurisprudent through inference, induction and analogy.
-
 

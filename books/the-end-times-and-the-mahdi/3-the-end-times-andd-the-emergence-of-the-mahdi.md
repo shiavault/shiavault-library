@@ -28,7 +28,6 @@ worlds will come together in one faith, and the world will experience
 that period of great peace, security, happiness, and well-being known as
 the Golden Age.
 
-
 **SIGNS OF THE MAHDI'S EMERGENCE**
 
 **Pervasive corruption**
@@ -89,7 +88,6 @@ not spread throughout the world. As a result, no other worldwide
 corruption that had declared war against Allah's Existence, creation,
 and religion was seen in the past. All of these are among the important
 signs that the Mahdi's advent coincides with the present time.
-
 
 **Religious prohibitions gaining acceptance**
 
@@ -261,7 +259,6 @@ Ka\`ba. The incidents during 1407 actually took place near the Ka\`ba,
 and not inside it, unlike the event of 1400. Both incidents happened
 just the hadiths indicated that they would.
 
-
 **Sighting a flare in the East**
 
 In its section on the signs of the Mahdi's emergence, the book
@@ -401,5 +398,4 @@ and make the Qur'an's morality prevail. When this time comes, He will
 remove all deviations that hinder people from living by His religion,
 and will purify Islam from all heresies, false beliefs, and forms of
 worship.
-
 

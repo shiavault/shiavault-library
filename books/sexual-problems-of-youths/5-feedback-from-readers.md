@@ -62,18 +62,10 @@ recited the verse of the Throne, and felt its effect clearly.
 
 Furthermore, I recited the following two verses:
 
-<blockquote dir="rtl">
-  <p>
-و اذا فعلوا فاحشه او ظلموا انفسهم، ذکروالله، فاستغفروا لذنوبهم و من
-یغفر الذنوب الا الله، و لم یصروا علی ما فعلوا و هم یعلمون
-  </p>
-</blockquote>
+> و اذا فعلوا فاحشه او ظلموا انفسهم، ذکروالله، فاستغفروا لذنوبهم و من
+> یغفر الذنوب الا الله، و لم یصروا علی ما فعلوا و هم یعلمون
 
-<blockquote dir="rtl">
-  <p>
-و ان الذین اتقوا اذا مسهم طائف من الشیطان تذکروا فاذا هم مبصرون
-  </p>
-</blockquote>
+> و ان الذین اتقوا اذا مسهم طائف من الشیطان تذکروا فاذا هم مبصرون
 
 Then, I immediately forgot the calamitous thoughts. Recitation of these
 two verses is very effective.  
@@ -148,5 +140,4 @@ rebellion of this instinct.
 
 O God! Support all who try to guide the youths, and enable them to
 accomplish this godly action and let them to enter everlasting paradise.
-
 

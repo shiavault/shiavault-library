@@ -91,9 +91,7 @@ hereunder;
 One third of my estate, which I can distribute as per my wish should be
 distributed as follows:
 
-<p dir="rtl">
 ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
-</p>
 
 Two-thirds of my estate, which will be distributed according to the
 ratios set out in the Islamic law of Inheritance and Succession as
@@ -191,8 +189,5 @@ Name: ………………………………………….. Name: ……………�
 
 Address: ……………………………………….. Address: ………………………………………..
 
-<p dir="rtl">
 ……………………………………….. ………………………………………..
-</p>
-
 

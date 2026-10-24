@@ -285,4 +285,3 @@ disbelievers?
 69. Those who strive hard for Us, We will most certainly guide them to
 our ways; and Allah is always with the doers of good.
 
-

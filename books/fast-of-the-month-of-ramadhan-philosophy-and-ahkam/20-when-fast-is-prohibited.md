@@ -34,4 +34,3 @@ Some Muslims, particularly Shi’as, may disagree with some of these eight
 items depending on who they follow as their *marji’ taqlid*. When in
 doubt, ask your *marji’* or his representative, and Allah knows best.
 
-

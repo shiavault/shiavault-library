@@ -159,4 +159,3 @@ and leadership and not friend?
 Ghadir concerning the rights of ‘Ali?  
  5. Where are Ghadir and Jahfah?
 
-

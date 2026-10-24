@@ -188,4 +188,3 @@ loyal people with.
 Holy city of Najaf  
  Baqir Sharif al-Qurashi
 
-

@@ -46,7 +46,6 @@ What happened after a month? Well. In that month, Arif changed a lot.
 He is now a good and obedient boy who never goes anywhere without his
 parent's permission.
 
-
 **The Girl Who Sulked**
 
 There were many young girls studying in a certain school. Among them
@@ -100,5 +99,4 @@ is," said Fatima.
 What happened after that, I do not know: But I can see Seymina now, one
 of the group, laughing and playing with the girls. So I assume, the
 girls must have been forgiven by her.
-
 

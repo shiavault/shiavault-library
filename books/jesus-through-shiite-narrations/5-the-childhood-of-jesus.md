@@ -42,4 +42,3 @@ addition to its vocal value
 
 [^3]: Bihar 14, 254, 47
 
-

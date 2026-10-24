@@ -243,7 +243,6 @@ in the day. They do not boast nor betray, nor spoil, nor create
 mischief. Their hearts are in Paradise, while their bodies are busy in
 fullilling (good) acts.
 
-
 **The world is being Wrapped From Behind you**
 
 An instruction to Muhammad Ibn Abi Bakr when Imam oppointed him
@@ -569,5 +568,4 @@ this document in which I have exhausted my argument over, least you have
 an argument when your soul hastens towards her desires. I ask Allah that
 He may grant us his help to me and you to have always a clear argument
 before Him and His slaves.
-
 

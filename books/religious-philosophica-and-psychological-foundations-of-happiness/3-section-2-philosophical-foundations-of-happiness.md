@@ -767,4 +767,3 @@ achieve happiness without pains and hardship. He believed that if you
 want to utilize the maximum of pleasure, you should surely taste the
 maximum of displeasure (De Batton, 1969).
 
-

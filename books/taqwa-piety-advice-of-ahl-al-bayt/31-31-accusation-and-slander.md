@@ -50,4 +50,3 @@ Taqwa in relation to it.
 
 [^3]: Ibid., p. 198
 
-

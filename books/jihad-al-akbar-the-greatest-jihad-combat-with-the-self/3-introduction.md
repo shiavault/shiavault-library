@@ -504,4 +504,3 @@ considered as the preeminent master of the ghazal form. (Pub.)
 along with explanatory notes is published by this Institute under the
 title, A Call to Divine Unity. Its second edition is forthcoming. (Pub.)
 
-

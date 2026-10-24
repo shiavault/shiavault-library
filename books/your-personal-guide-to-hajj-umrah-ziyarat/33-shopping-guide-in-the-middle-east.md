@@ -57,4 +57,3 @@ al-Najaf, Kafan, scarves and many more.
 al-Zainabia you can buy the same things that are also available in
 Najaf.
 
-

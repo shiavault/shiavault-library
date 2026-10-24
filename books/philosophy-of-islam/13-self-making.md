@@ -3189,4 +3189,3 @@ spiritual, cultural, economic and administrative factors.
 the Islamic society and to build yourself accordingly.  
   
 
-

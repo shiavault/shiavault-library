@@ -47,4 +47,3 @@ First Cause (*al-‘illat al-ula* ), in which terminates the entire chain
 of existents, and Its most beautiful Names and sublime Attributes; that
 is, Allah, exalted is His Name.
 
-

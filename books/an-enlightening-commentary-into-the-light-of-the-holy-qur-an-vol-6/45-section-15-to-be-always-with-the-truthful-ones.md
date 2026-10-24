@@ -4,12 +4,8 @@ Section 15: To Be Always With the Truthful Ones
 Surah At-Tawbah – Verse 119
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ ءَامَنُوا اتَّقُوا اللّهَ وَكُونُوا مَعَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ ءَامَنُوا اتَّقُوا اللّهَ وَكُونُوا مَعَ
+> الصَّادِقِينَ
 
 **119.** ***“O you who have Faith! Be in awe of Allah and be (always)
 with the truthful ones.”***
@@ -47,16 +43,12 @@ them.
 Surah At-Tawbah – Verse 120
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَاكَانَ لاَهْلِ الْمَدِينَةِ وَمَنْ حَوْلَهُم مِنَ الاَعْرَابِ أَن
-يَتَخَلَّفُوا عَن رَسُولِ اللّهِ وَلا يَرْغَبُوا بِاَنْفُسِهِمْ عَن
-نَفْسِهِ ذَلِكَ بِاَنَّهُمْ لاَ يُصِيبُهُمْ ظَمَأٌ وَلا نَصَبٌ وَلاَ
-مَخْمَصَةٌ فِي سَبِيلِ اللّهِ وَلا يَطَأُونَ مَوْطِئاً يَغِيظُ
-الْكُفَّارَ وَلا يَنَالُونَ مِنْ عَدُوٍّ نَيْلاً إِلاَّ كُتِبَ لَهُم
-بِهِ عَمَلٌ صَالِحٌ إِنَّ اللّهَ لايُضِيعُ أَجْرَ الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> مَاكَانَ لاَهْلِ الْمَدِينَةِ وَمَنْ حَوْلَهُم مِنَ الاَعْرَابِ أَن
+> يَتَخَلَّفُوا عَن رَسُولِ اللّهِ وَلا يَرْغَبُوا بِاَنْفُسِهِمْ عَن
+> نَفْسِهِ ذَلِكَ بِاَنَّهُمْ لاَ يُصِيبُهُمْ ظَمَأٌ وَلا نَصَبٌ وَلاَ
+> مَخْمَصَةٌ فِي سَبِيلِ اللّهِ وَلا يَطَأُونَ مَوْطِئاً يَغِيظُ
+> الْكُفَّارَ وَلا يَنَالُونَ مِنْ عَدُوٍّ نَيْلاً إِلاَّ كُتِبَ لَهُم
+> بِهِ عَمَلٌ صَالِحٌ إِنَّ اللّهَ لايُضِيعُ أَجْرَ الْمُـحْسِنِينَ
 
 **120*****. “It is not for the people of Medina and the Bedouins around
 them to offend against the (command of) the Messenger of Allah, and to
@@ -121,13 +113,9 @@ Allah does not waste the reward of the good-doers.”***
 Surah At-Tawbah – Verse 121
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلا كَبِيرَةً وَلا يَقْطَعُونَ
-وَادِياً إِلاَّ كُتِبَ لَهُمْ لِيَجْزِيَهُمُ اللّهُ أَحْسَنَ
-مَاكَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلا كَبِيرَةً وَلا يَقْطَعُونَ
+> وَادِياً إِلاَّ كُتِبَ لَهُمْ لِيَجْزِيَهُمُ اللّهُ أَحْسَنَ
+> مَاكَانُوا يَعْمَلُونَ
 
 **121*****. “And neither do they expend anything (in the way of Holy
 Struggle), small or great, nor do they cross any land, but it is
@@ -161,14 +149,10 @@ hardships, and He will not waste the wage of the righteous.
 Surah At-Tawbah – Verse 122
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَآفَّةً فَلَوْلا نَفَرَ مِن
-كُلِّ فِرْقَةٍ مِنْهُمْ طَآئِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
-وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
-يَحْذَرُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَآفَّةً فَلَوْلا نَفَرَ مِن
+> كُلِّ فِرْقَةٍ مِنْهُمْ طَآئِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
+> وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
+> يَحْذَرُونَ
 
 **122*****. “And it is not for the believers to go out (to fight)
 totally; why should not then a group from every*** ***party of them go
@@ -264,5 +248,4 @@ So, the verse commands such believers that they did not need to go
 totally to Medina to attend the presence of the Prophet (S), but a group
 of them were sufficient to come and learn the lessons of the religion
 and return to their people in order to teach those lessons to them.
-
 

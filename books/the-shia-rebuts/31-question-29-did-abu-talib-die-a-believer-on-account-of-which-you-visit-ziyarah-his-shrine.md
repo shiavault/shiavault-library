@@ -29,40 +29,20 @@ destruction?”
 
 Full of faith and trust in God, ‘Abd al-Muttalib replied:
 
-<blockquote dir="rtl">
-  <p>
-"أنا رب الإبل وللبيت رب يمنعه ويحميه."
-  </p>
-</blockquote>
+> "أنا رب الإبل وللبيت رب يمنعه ويحميه."
 
 “I am the owner of the camels, and this House (*Ka‘bah*) has its Owner
 Who shall protect it.”[^1]  
  He then went back to Mecca, and holding the door of the *Ka‘bah*, he
 thus said:
 
-<blockquote dir="rtl">
-  <p>
-يا رب لا أرجو لهم سواك
-  </p>
-</blockquote>
+> يا رب لا أرجو لهم سواك
 
-<blockquote dir="rtl">
-  <p>
-يا رب فامنع منهم حماكا
-  </p>
-</blockquote>
+> يا رب فامنع منهم حماكا
 
-<blockquote dir="rtl">
-  <p>
-إن البيت عدوّ من عاداكا
-  </p>
-</blockquote>
+> إن البيت عدوّ من عاداكا
 
-<blockquote dir="rtl">
-  <p>
-امنعهم أن يخربوا فناكا
-  </p>
-</blockquote>
+> امنعهم أن يخربوا فناكا
 
 *O God! I plead no one but You to repel the enemies. O God! Guard Your
 Sanctuary against them.*  
@@ -74,11 +54,7 @@ monotheistic belief and unflinching faith of ‘Abd al-Muttalib, the
 eminent father of Abu Talib. In his history book, Ya‘qubi writes the
 following about ‘Abd al-Muttalib:
 
-<blockquote dir="rtl">
-  <p>
-"رفض عبادة الأصناز وحدّ الله عز وجل."
-  </p>
-</blockquote>
+> "رفض عبادة الأصناز وحدّ الله عز وجل."
 
 “He kept aloof from worshipping idols and worshipped no one other than
 Allah, the Honorable and Glorious.”[^3]  
@@ -98,17 +74,9 @@ delivering an eloquent speech, the ruler of Abyssinia gave him glad
 tidings of the coming of an honorable prophet from his offspring, and
 regarding the prophet’s features he thus said:
 
-<blockquote dir="rtl">
-  <p>
-اسمه محمد – صلى الله عليه وأله وسلم
-  </p>
-</blockquote>
+> اسمه محمد – صلى الله عليه وأله وسلم
 
-<blockquote dir="rtl">
-  <p>
-يموت أبوه وأمه ويكلفه جده وعمه
-  </p>
-</blockquote>
+> يموت أبوه وأمه ويكلفه جده وعمه
 
 “His name shall be Muhammad (S); his father and mother will die (early)
 and his grandfather and uncle will shoulder the burden of his
@@ -116,12 +84,8 @@ custodianship.”[^4]
 
 Then, giving more details about this future prophet, he added:
 
-<blockquote dir="rtl">
-  <p>
-"يعبد الرحمن ويدحض الشيطان ويخمد النيران ويكسر الأوثان. قوله فصل وحكمه
-عدل ويأمر بالمعروف ويفعله وينهى عن المنكر ويبطله."
-  </p>
-</blockquote>
+> "يعبد الرحمن ويدحض الشيطان ويخمد النيران ويكسر الأوثان. قوله فصل وحكمه
+> عدل ويأمر بالمعروف ويفعله وينهى عن المنكر ويبطله."
 
 He will worship the Most Merciful (God), avert Satan, extinguish the
 fires, and break down the idols. His words are decisive and his judgment
@@ -129,24 +93,16 @@ equitable and fair. He will enjoin good and he himself will do good
 deeds and he will forbid evil and nullify it.[^5]  
  Then, he said to ‘Abd al-Muttalib:
 
-<blockquote dir="rtl">
-  <p>
-"إنك لجده يا عبد المطلب غير كذب."
-  </p>
-</blockquote>
+> "إنك لجده يا عبد المطلب غير كذب."
 
 “O ‘Abd al-Muttalib! Without doubt, you are his grandfather.”[^6]  
  Upon hearing this glad tiding, ‘Abd al-Muttalib performed thanks-giving
 prostration {*sujud ash-shukr*}, and concerning that blessed birth (of
 the Prophet) he said:
 
-<blockquote dir="rtl">
-  <p>
-إنه كان لي وابن كنت به معجباً وعليه ورفيقاً إني زوجته كريمة من كرائم
-قومي أمنة بنت وهب بن عبد مناف ابن زهرة فجاءت بغلام فسمّيته محمدا مات
-أبوه وأمّه وكفلته أنا عمّه ، يعني ابا طالب.
-  </p>
-</blockquote>
+> إنه كان لي وابن كنت به معجباً وعليه ورفيقاً إني زوجته كريمة من كرائم
+> قومي أمنة بنت وهب بن عبد مناف ابن زهرة فجاءت بغلام فسمّيته محمدا مات
+> أبوه وأمّه وكفلته أنا عمّه ، يعني ابا طالب.
 
 I had a son whom I greatly admired and was gentle with him. I married
 him off to an honorable lady named Aminah bint al-Wahhab ibn ‘Abd
@@ -174,29 +130,13 @@ Muslim scholars and historians have recounted eloquent elegies from Abu
 Talib. The contents of these magnificent works verify his true faith.
 Below are some of these works which are plenty:
 
-<blockquote dir="rtl">
-  <p>
-ليعلم خيار الناس أن محمد
-  </p>
-</blockquote>
+> ليعلم خيار الناس أن محمد
 
-<blockquote dir="rtl">
-  <p>
-نبيّ كموسى والمسيح ابن مريم
-  </p>
-</blockquote>
+> نبيّ كموسى والمسيح ابن مريم
 
-<blockquote dir="rtl">
-  <p>
-أتانا بهدي مثل ما أتيا به
-  </p>
-</blockquote>
+> أتانا بهدي مثل ما أتيا به
 
-<blockquote dir="rtl">
-  <p>
-فكلّ بأمر الله يهدي ويعصم
-  </p>
-</blockquote>
+> فكلّ بأمر الله يهدي ويعصم
 
 *Distinguished personalities should be aware that Muhammad is a prophet
 like Musa (Moses) and Masih* *(Messiah) the son of Maryam (Mary).*  
@@ -204,58 +144,26 @@ like Musa (Moses) and Masih* *(Messiah) the son of Maryam (Mary).*
 Each of them guides people and keeps them away from sins through the
 command of Allah.*[^9]
 
-<blockquote dir="rtl">
-  <p>
-ألم تعلموا أنا وجدنا محمدا
-  </p>
-</blockquote>
+> ألم تعلموا أنا وجدنا محمدا
 
-<blockquote dir="rtl">
-  <p>
-رسولا كموسى خطّ في أولا الكتب
-  </p>
-</blockquote>
+> رسولا كموسى خطّ في أولا الكتب
 
-<blockquote dir="rtl">
-  <p>
-وأن عليه في العباد محبة
-  </p>
-</blockquote>
+> وأن عليه في العباد محبة
 
-<blockquote dir="rtl">
-  <p>
-و لا حيف فيمن خّه الله بالحب
-  </p>
-</blockquote>
+> و لا حيف فيمن خّه الله بالحب
 
 *Don’t you know that we consider Muhammad an apostle (of Allah) like
 Musa (ibn ‘Imran) and read about him in the earlier Scriptures?*  
 *The people love him and it is not unfair to love someone, the love of
 whom Allah has in people’s hearts.*[^10]
 
-<blockquote dir="rtl">
-  <p>
-لقد أكرم الله النبيّ محمد
-  </p>
-</blockquote>
+> لقد أكرم الله النبيّ محمد
 
-<blockquote dir="rtl">
-  <p>
-فأكرم خلق الله في الناس أحمد
-  </p>
-</blockquote>
+> فأكرم خلق الله في الناس أحمد
 
-<blockquote dir="rtl">
-  <p>
-وشقّ له من اسمه ليجله
-  </p>
-</blockquote>
+> وشقّ له من اسمه ليجله
 
-<blockquote dir="rtl">
-  <p>
-فذو العرش محمود وهذا محمد
-  </p>
-</blockquote>
+> فذو العرش محمود وهذا محمد
 
 *Allah has exalted Prophet Muhammad. So, the most exalted one of the
 creation of Allah is Ahmad.*  
@@ -263,53 +171,21 @@ creation of Allah is Ahmad.*
 Owner of the Throne is the Praised One {Mahmud} and he is the Highly
 Praised {Muhammad}.*[^11]
 
-<blockquote dir="rtl">
-  <p>
-والله لن يصلوا ليه بجمعهم
-  </p>
-</blockquote>
+> والله لن يصلوا ليه بجمعهم
 
-<blockquote dir="rtl">
-  <p>
-أوسّد حتى التراب في دفينا
-  </p>
-</blockquote>
+> أوسّد حتى التراب في دفينا
 
-<blockquote dir="rtl">
-  <p>
-فاصدع بأمرك ما عليك غضاضة
-  </p>
-</blockquote>
+> فاصدع بأمرك ما عليك غضاضة
 
-<blockquote dir="rtl">
-  <p>
-وابشر بذلك وقرمنك عيونا
-  </p>
-</blockquote>
+> وابشر بذلك وقرمنك عيونا
 
-<blockquote dir="rtl">
-  <p>
-ودعوتني وعلمت أنك ناصحي
-  </p>
-</blockquote>
+> ودعوتني وعلمت أنك ناصحي
 
-<blockquote dir="rtl">
-  <p>
-ولقد دعوت وكنت ثمّ أمينا
-  </p>
-</blockquote>
+> ولقد دعوت وكنت ثمّ أمينا
 
-<blockquote dir="rtl">
-  <p>
-ولقد علمت بأنّ دين محمد
-  </p>
-</blockquote>
+> ولقد علمت بأنّ دين محمد
 
-<blockquote dir="rtl">
-  <p>
-من خير أديان البريّة دينا
-  </p>
-</blockquote>
+> من خير أديان البريّة دينا
 
 *By Allah! The enemies will never harm you so long as I am alive.*  
 *So, fear not, and execute that which has been entrusted to you. Be glad
@@ -319,23 +195,11 @@ you are indeed trustworthy in your invitation.*
 *And I knew well that the religion of Muhammad is the best of all
 religions that exist.*[^12]
 
-<blockquote dir="rtl">
-  <p>
-يا شاهد الله عليّ فاشهد
-  </p>
-</blockquote>
+> يا شاهد الله عليّ فاشهد
 
-<blockquote dir="rtl">
-  <p>
-أني على دين النبيّ أحمد
-  </p>
-</blockquote>
+> أني على دين النبيّ أحمد
 
-<blockquote dir="rtl">
-  <p>
-من ضلّ في الدين فإنّي مهتدي
-  </p>
-</blockquote>
+> من ضلّ في الدين فإنّي مهتدي
 
 *O witness of Allah! Bear witness that I believe in the religion of
 Prophet Ahmad. (Bear witness that) if anyone deviates from the religion,
@@ -345,41 +209,17 @@ In the last days of his blessed life, Abu Talib urged the chiefs of
 Quraysh to completely support the Messenger of Allah (S) as shown in the
 following odes:
 
-<blockquote dir="rtl">
-  <p>
-أربعة الخير نبيّ بنصر أوصي
-  </p>
-</blockquote>
+> أربعة الخير نبيّ بنصر أوصي
 
-<blockquote dir="rtl">
-  <p>
-عباسا القوم شيخ و عليّا ابني
-  </p>
-</blockquote>
+> عباسا القوم شيخ و عليّا ابني
 
-<blockquote dir="rtl">
-  <p>
-حقيقته الحامى الأسد وحمزة
-  </p>
-</blockquote>
+> حقيقته الحامى الأسد وحمزة
 
-<blockquote dir="rtl">
-  <p>
-النّاسا دونه تذودوا أن وجعفرا
-  </p>
-</blockquote>
+> النّاسا دونه تذودوا أن وجعفرا
 
-<blockquote dir="rtl">
-  <p>
-ولدت ما و أمّي لكم فداء كونوا
-  </p>
-</blockquote>
+> ولدت ما و أمّي لكم فداء كونوا
 
-<blockquote dir="rtl">
-  <p>
-أتراسا النّاس دون أحمدَ نصرِ في
-  </p>
-</blockquote>
+> أتراسا النّاس دون أحمدَ نصرِ في
 
 *I admonish four people to assist the Prophet of Goodness: my son ‘Ali,
 the chief of (our) clan ‘Abbas,* *Hamzah the Lion (of God) who is
@@ -426,23 +266,11 @@ For this reason, the great Muslim scholar, Ibn Abi’l-Hadid refers in his
 verses to Abu Talib’s major role in protecting and guarding the
 Messenger of Allah (S) and his pure creed, and says:
 
-<blockquote dir="rtl">
-  <p>
-ولولا أبو طالب وابنه لما مثل الدين شخصاً فقاما
-  </p>
-</blockquote>
+> ولولا أبو طالب وابنه لما مثل الدين شخصاً فقاما
 
-<blockquote dir="rtl">
-  <p>
-فذاك مكة وأوى حامى وهذا بيثرب جسّ الحماما
-  </p>
-</blockquote>
+> فذاك مكة وأوى حامى وهذا بيثرب جسّ الحماما
 
-<blockquote dir="rtl">
-  <p>
-وما ضرّ مجد أبي طالب جهول أو لغى أو بصثر تعامى
-  </p>
-</blockquote>
+> وما ضرّ مجد أبي طالب جهول أو لغى أو بصثر تعامى
 
 *Had it not been for Abu* *Talib and his son, the religion (of Islam)
 would have never been established.*  
@@ -460,13 +288,9 @@ his *Sirah*, and Muhammad ad-Diyar al-Bakri in *Tarikh al-Khamis*,
 mentions Abu Talib in which he calls upon his people to assist the
 Messenger of Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-يا معشر قريش كونوا له ولاة ولحزبه حماة ، والله لا يسلك أحد منكم سبيله
-إلا رشد ولا يأخذ أحد بهدية إلا سعد ، ولو كان لنفسي مدة ولأجلي تأخر
-لكففت عنه والهزائز لدفعت عنه الدواهي ثم هلك؟
-  </p>
-</blockquote>
+> يا معشر قريش كونوا له ولاة ولحزبه حماة ، والله لا يسلك أحد منكم سبيله
+> إلا رشد ولا يأخذ أحد بهدية إلا سعد ، ولو كان لنفسي مدة ولأجلي تأخر
+> لكففت عنه والهزائز لدفعت عنه الدواهي ثم هلك؟
 
 O my kinsmen! Be his friends and the supporters of his party. By Allah!
 Whoever follows him becomes prosperous. If death would delay, I would
@@ -482,11 +306,7 @@ cite two instances:
 **a.** A group of historians have narrated that the Holy Prophet (S) has
 said to ‘Aqil ibn Abi Talib:
 
-<blockquote dir="rtl">
-  <p>
-"إني أحبك حبين حباً لقرابتك ومني حبا لما كنت أعلم من حب عمي إياك."
-  </p>
-</blockquote>
+> "إني أحبك حبين حباً لقرابتك ومني حبا لما كنت أعلم من حب عمي إياك."
 
 “Indeed, I love you for two reasons: the first is your kinship to me and
 the second is that which I know of the love of my uncle (Abu Talib) to
@@ -495,11 +315,7 @@ you.”[^20]
 **b.** Also, Halabi narrates in his *Sirah* that the Messenger of Allah
 (S) has said in praise of his uncle Abu Talib:
 
-<blockquote dir="rtl">
-  <p>
-"ما نالت قريش منّي شيئا أكرهه أي اشد الكراهة حتى مات أبو طالب."
-  </p>
-</blockquote>
+> "ما نالت قريش منّي شيئا أكرهه أي اشد الكراهة حتى مات أبو طالب."
 
 “Throughout Abu Talib’s life, the Quraysh {infidels} had not caused me
 serious trouble.”[^21]
@@ -510,25 +326,17 @@ the Messenger of Allah (S), abiding by the Qur’anic verses, loves the
 believers and is hard against the infidels and idolaters. The Glorious
 Qur’an states in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"محمد رسول الله والذين معه أشداء على الكفار رحماء بينهم."
-  </p>
-</blockquote>
+> "محمد رسول الله والذين معه أشداء على الكفار رحماء بينهم."
 
 ***“Muhammad, the Apostle of Allah, and those who are with him are hard
 against the faithless and merciful among themselves.”***[^22]
 
 And it also states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ﻻ تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
-يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءهُمْ
-أَوْ أَبْنَاءهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُوْلَئِكَ
-كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ ﴾
-  </p>
-</blockquote>
+> ﴿ ﻻ تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
+> يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءهُمْ
+> أَوْ أَبْنَاءهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُوْلَئِكَ
+> كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ ﴾
 
 ***“You will not find a people believing in Allah and the Last Day
 endearing those who oppose Allah and His Apostle even though they were
@@ -549,24 +357,16 @@ sincere faith of Abu Talib. Below are some accounts:
 in the presence of the Commander of the Faithful ‘Ali (*‘a*). So, Imam
 ‘Ali (*‘a*) to him with a sign of anger on his face said:
 
-<blockquote dir="rtl">
-  <p>
-"مه ، فضّ الله فاك ، والذي بعث محمداً بالحقّ نبياَّ لو شفع أبي في كل
-مذنب على وجه الأرض لشفعه الله."
-  </p>
-</blockquote>
+> "مه ، فضّ الله فاك ، والذي بعث محمداً بالحقّ نبياَّ لو شفع أبي في كل
+> مذنب على وجه الأرض لشفعه الله."
 
 Keep silent! May God disfigure your mouth! By the One Who sent Muhammad
 with the truth to be a prophet! If my father intercedes for every sinner
 on the earth, Allah will accept his intercession.[^24]  
  And he (*‘a*) also says elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-"كان الله وأبو طالب عبد مناف بن عبد المطلب مؤمناً مسلماً يكتم إيمانه
-مخافة على هاشم بي أن تنابذها قريش."
-  </p>
-</blockquote>
+> "كان الله وأبو طالب عبد مناف بن عبد المطلب مؤمناً مسلماً يكتم إيمانه
+> مخافة على هاشم بي أن تنابذها قريش."
 
 By Allah! Abu Talib ‘Abd Manaf ibn ‘Abd al-Muttalib was a true believer
 and Muslim. He used to hide his faith before the Quraysh {infidels} lest
@@ -577,11 +377,7 @@ of others by a divine decree.
 
 **b.** Abu Dharr al-Ghaffari thus says about Abu Talib:
 
-<blockquote dir="rtl">
-  <p>
-والله الذي لا إله إلا هو ما مات أبوطالب رضى على عنه حتى أسلم.
-  </p>
-</blockquote>
+> والله الذي لا إله إلا هو ما مات أبوطالب رضى على عنه حتى أسلم.
 
 “By Allah other than Whom there is no god! Abu Talib (may Allah be
 pleased with him) did not depart this life without having accepted
@@ -591,11 +387,7 @@ Islam.”[^26]
 transmission that ‘Abbas ibn ‘Abd al-Muttalib and Abubakr ibn Abu
 Qahafah thus said:
 
-<blockquote dir="rtl">
-  <p>
-"إن أبا طالب ما مات حتى قال: لا إله إلا الله محمد رسول الله."
-  </p>
-</blockquote>
+> "إن أبا طالب ما مات حتى قال: لا إله إلا الله محمد رسول الله."
 
 7Surely, Abu Talib did not depart this life without having uttered,
 “There is no god but Allah and Muhammad is the Messenger of Allah” {*La
@@ -610,12 +402,8 @@ two examples in this regard:
 
 **a.** Imam al-Baqir (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-لو وضع ايمان أبي طالب في كفّة وميزان إيمان هذا الخلق في الكفّة الأخرى
-لرجّح إيمانه."
-  </p>
-</blockquote>
+> لو وضع ايمان أبي طالب في كفّة وميزان إيمان هذا الخلق في الكفّة الأخرى
+> لرجّح إيمانه."
 
 “If the faith of Abu Talib is placed in one pan of a scale and the faith
 of this creation in the other pan, his faith will tip the scale in his
@@ -623,12 +411,8 @@ favor.”[^28]
 
 **b.** Imam as-Sadiq (*‘a*) narrates from the Messenger of Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-"إن أصحاب الكهف أسروا الإيمان وأظهروا الكفر فأتاهم الله أجرهم مرتين ،
-وإن أباطالب أسرّ الإيمان وأظهر الشرك فأتاه الله أجره مرّتين."
-  </p>
-</blockquote>
+> "إن أصحاب الكهف أسروا الإيمان وأظهروا الكفر فأتاهم الله أجرهم مرتين ،
+> وإن أباطالب أسرّ الإيمان وأظهر الشرك فأتاه الله أجره مرّتين."
 
 Verily, the Companions of the Cave {*Ashab al-Kahf*} hid their faith (on
 account of some expediency) and pretended to be infidels; so, Allah gave
@@ -679,12 +463,8 @@ the following two statements to the Holy Prophet (S):
 
 **a.**
 
-<blockquote dir="rtl">
-  <p>
-"وجدته في غمرات من النار فاخرجته إلى ضحضاح لعله تنفعه شفاعتي يوم
-القيامة فيجعل في ضحضاح من النار يبلغ كعبيه يغلي منه دماغه."
-  </p>
-</blockquote>
+> "وجدته في غمرات من النار فاخرجته إلى ضحضاح لعله تنفعه شفاعتي يوم
+> القيامة فيجعل في ضحضاح من النار يبلغ كعبيه يغلي منه دماغه."
 
 “He is in a shallow place of Fire {*duhdah*}.[^30] But had it not been
 for me he would have been in the lowest part of the Fire.”[^31]
@@ -719,11 +499,7 @@ narrators:
  Abu ‘Abd Allah Muhammad ibn Ahmad ‘Uthman adh-Dhahabi, a renowned Sunni
 scholar of *‘ilm ar-rijal*, says regarding Sufyan:
 
-<blockquote dir="rtl">
-  <p>
-"كان يدلسّ عن الضعفاء."
-  </p>
-</blockquote>
+> "كان يدلسّ عن الضعفاء."
 
 “He used to narrate fabricated *hadith*s from weak narrators.”[^33]  
  This statement confirms that Sufyan ath-Thawri’s narrations are
@@ -733,13 +509,9 @@ deceitful and related by weak or unknown narrators. Consequently, his
 **b.** ‘Abd al-Malik ibn ‘Umayr  
  Referring to Ibn ‘Umayr, adh-Dhahabi says:
 
-<blockquote dir="rtl">
-  <p>
-طال عمره وساء حفظه قال أبو حاتم: ليس يحافظ تغيّر حفظه. وقال أحمج ضعيف:
-يخلط وقال بن معين مخلط وقال ابن خراش: كان شعبه لا يرضاه وذكر الكوسج عن
-أحمد أنه ضعفه جداً.
-  </p>
-</blockquote>
+> طال عمره وساء حفظه قال أبو حاتم: ليس يحافظ تغيّر حفظه. وقال أحمج ضعيف:
+> يخلط وقال بن معين مخلط وقال ابن خراش: كان شعبه لا يرضاه وذكر الكوسج عن
+> أحمد أنه ضعفه جداً.
 
 He has grown old and his memory became defective. Abu Hatam says: “He is
 unable to memorize *hadith*s and his memory changed.” Ahmad ibn Hanbal
@@ -770,21 +542,13 @@ person whose memory is so weak that his traditions cannot be relied
 on.  
  Ahmad ibn Hanbal says about ad-Darawardi:
 
-<blockquote dir="rtl">
-  <p>
-"إذا حدّث من حفظه جاء ببواطيل."
-  </p>
-</blockquote>
+> "إذا حدّث من حفظه جاء ببواطيل."
 
 “When he narrated *hadith*s from memory, he presented unfounded and
 irrelevant statements.”[^35]  
  Also, Abu Hatam says about him:
 
-<blockquote dir="rtl">
-  <p>
-"لا يحتجّ به."
-  </p>
-</blockquote>
+> "لا يحتجّ به."
 
 “One cannot rely on him.”[^36]  
  Abu Zura‘ah describes him as **“الحفظ سيّئ”** {*sayya’u’l-hifz*}, i.e.
@@ -800,11 +564,7 @@ Layth ibn Sa‘d is one of the weak and heedless narrators who was
 nonchalant about what to hear and what to narrate.  
  Yahya ibn Mu‘in says about him:
 
-<blockquote dir="rtl">
-  <p>
-"إنه كان يتساهل في الشيوخ والسماع."
-  </p>
-</blockquote>
+> "إنه كان يتساهل في الشيوخ والسماع."
 
 “He was not careful as to whom he narrated from or to the kind of
 *hadith* he heard.”[^39]
@@ -838,13 +598,9 @@ Book of Allah and the *Sunnah* of the Holy Prophet (S):
 
 **a.** The Holy Qur’an thus says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَى عَلَيْهِمْ
-فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَلِكَ نَجْزِي
-كُلَّ كَفُورٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَى عَلَيْهِمْ
+> فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَلِكَ نَجْزِي
+> كُلَّ كَفُورٍ ﴾
 
 ***“As for the faithless there is for them the fire of hell: they will
 neither be done away with so that they may die, nor shall its punishment
@@ -854,11 +610,7 @@ be lightened for them. Thus do We requite every ingrate”***[^41]
 infidels. Abu Dharr al-Ghaffari has thus narrated from the Messenger of
 Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-"أعطيت الشفاعة وهى نائلة من أمتي من لا يشرك بالله شيئاً."
-  </p>
-</blockquote>
+> "أعطيت الشفاعة وهى نائلة من أمتي من لا يشرك بالله شيئاً."
 
 “My intercession is granted to those of my *ummah* who do not associate
 others with Allah.”
@@ -992,5 +744,4 @@ vol. 5, book 58, hadith 224. {Trans.}
 [^40]: Shaykh al-Abtah, p. 75; Mizan al-I‘tidal, vol. 3, p. 423.
 
 [^41]: Surah al-Fatir (or, al-Mala’ikah) 35:36.
-
 

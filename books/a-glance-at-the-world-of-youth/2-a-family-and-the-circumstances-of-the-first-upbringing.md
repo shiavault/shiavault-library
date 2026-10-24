@@ -438,4 +438,3 @@ work of the mass media in the formation of emotions and conduct
 involving instinct, as well as, copying the role of the heroes, is
 important.
 
-

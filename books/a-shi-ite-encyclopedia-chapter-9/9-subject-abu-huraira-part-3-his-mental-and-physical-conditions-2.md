@@ -135,7 +135,6 @@ The likelihood of this man doing it for personal gain, influence, and
 political/social motivation is very high and we should be wary of that
 instead of questioning the motive of someone who raised these points.
 
-
 **Subject: Re: Abou Huraira**
 
 Aysha (respected mother of believers) narrated more than Abu Huraira in
@@ -172,5 +171,4 @@ Huraira himself.)
 
 Another part is why such man has narrated similar traditions to old
 testement? (parts which were clearly rejected by islamic theology?)
-
 

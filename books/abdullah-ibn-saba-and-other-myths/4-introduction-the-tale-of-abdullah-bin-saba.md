@@ -212,4 +212,3 @@ stories about Muhammad, his family and companions. We should not defend
 Saif and his tales, or protect them in the name of Islamic tradition.
 Otherwise we will harm Islam by opposing the publicity of Islamic truth.
 
-

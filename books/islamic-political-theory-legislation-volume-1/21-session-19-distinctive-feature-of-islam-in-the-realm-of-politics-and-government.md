@@ -94,11 +94,7 @@ addition, benevolence [*ihsan*], i.e. service to the indigent and those
 who lack any potential to offer any service to society, is also a duty
 of the government. As God says in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ...﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ...﴾
 
 ***“Indeed Allah enjoins justice and kindness**...”*[^1]
 
@@ -249,11 +245,7 @@ also have rights. The Islamic state has to provide their needs for they
 are also servants of God and born in society. It is for this reason that
 in addition to justice, the Qur’an mentions kindness:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ﴾
 
 ***“Indeed Allah enjoins justice and kindness.”***[^3]
 
@@ -394,5 +386,4 @@ courage.
 [^2]: Surah adh-Dhariyat 51:56.
 
 [^3]: Surah an-Nahl 16:90.
-
 

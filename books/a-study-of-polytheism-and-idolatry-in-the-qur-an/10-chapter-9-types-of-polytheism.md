@@ -408,4 +408,3 @@ al-Baqarah.
 
 [^19]: Greater Sins, discourse on polytheism [shirk bi’llāh].
 
-

@@ -165,4 +165,3 @@ He told her that he had been killed! Zainab overheard him and screamed,
 "0 Our Abbas! What a loss!". The women started crying and Hussain joined
 them saying, "We are at a loss after your demise!".
 
-

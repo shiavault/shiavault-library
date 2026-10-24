@@ -59,7 +59,6 @@ are the leaders who invite people to Hell. Allah and His Prophet
 (PBUH&HF) are clear of them and their actions. They, their supporters,
 and their followers will be in the lowest pit of the Hellfire.
 
-
 **The Ghadir event leaves no excuse**
 
 During the Sermon, the Prophet (PBUH&HF) stressed that his speech
@@ -109,7 +108,6 @@ Prophet (PBUH&HF) at Ghadir Khum in defining the position of Imam Ali
 (PBUH) is clear, evident, and definitive, and it exhausts arguments
 brought by anyone. Thus, it can be presented as a comprehensive proof to
 everyone.
-
 
 **Our obligations towards the sermon and the event**
 
@@ -184,7 +182,6 @@ directions.
 2 cf. the Holy Quran, Chapter 5, Verse 67.
 3 cf. the Holy Quran, Chapter 5, Verse 3.
 
-
 **Learning, acknowledging, and protecting the text of the sermon**
 
 The sermon of Ghadir Khum constitutes the last instructions of the last
@@ -251,5 +248,4 @@ The Messenger of Allah (PBUH&HF) stated that those who precede others
 in acknowledging their covenant with Imam Ali (PBUH) and the Imams after
 him and truly believe in their guardianship are those who succeed in
 attaining the gardens of bliss.
-
 

@@ -8,11 +8,7 @@ and if you are unable [to do this] then the very least you should do is
 thank him.
 
 > 1ـ أطِلْ يَدَكَ في مُكافاةِ مَنْ أحْسَنَ إلَيْكَ، فَإنْ لَمْ تَقْدِرْ
-<blockquote dir="rtl">
-  <p>
-فَلا أقَلَّ مِنْ أنْ تَشْكُرَهُ.
-  </p>
-</blockquote>
+> فَلا أقَلَّ مِنْ أنْ تَشْكُرَهُ.
 
 2. Recompense is liberation.
 
@@ -47,13 +43,8 @@ good to you] then lengthen your speech with gratitude.
 repulsed except by evil.[^1]
 
 > 8ـ رُدَّ الحَجَرَ مِنْ حَيثُ جاءَكَ، فَإنَّهُ لايُرَدُّ الشَّرُّ إلاّ
-<blockquote dir="rtl">
-  <p>
-بِالشَّرِّ.
-  </p>
-</blockquote>
+> بِالشَّرِّ.
 
 [^1]: This is in situations where forgiveness and patience may bring
 greater harm.
-
 

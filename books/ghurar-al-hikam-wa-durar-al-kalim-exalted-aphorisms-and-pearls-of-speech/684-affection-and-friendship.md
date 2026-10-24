@@ -39,11 +39,7 @@ people.
 expressed by the gaze (or the eyes).
 
 > 8ـ إنَّ المَوَدَّةَ يُعَبِّرُ عَنْهَا اللِّسانُ، وَعَنِ المَحَبَّةِ
-<blockquote dir="rtl">
-  <p>
-العَيْنانِ (العَيانُ).
-  </p>
-</blockquote>
+> العَيْنانِ (العَيانُ).
 
 9. Friendship is kinship.
 
@@ -90,11 +86,7 @@ blood-relationship.
 and humility.
 
 > 19ـ ثَلاثٌ يُوجِبْنَ المَحَبَّةَ: حُسْنُ الخُلْقِ، وحُسْنُ الرِّفْقِ،
-<blockquote dir="rtl">
-  <p>
-وَالتَّواضُعُ.
-  </p>
-</blockquote>
+> وَالتَّواضُعُ.
 
 20. The best choice is making friends with the virtuous.
 
@@ -112,11 +104,7 @@ and humility.
 witnesses that do not accept bribes.
 
 > 23ـ سَلُوا القُلُوبَ عَنِ المَودّاتِ: فَإنَّها شَواهِدُ لاتَقْبَلُ
-<blockquote dir="rtl">
-  <p>
-الرُّشا.
-  </p>
-</blockquote>
+> الرُّشا.
 
 24. Soundness of friendship is part of honouring one’s promise.
 
@@ -132,11 +120,7 @@ than seeking proximity to Allah is misguidance, and relying on it is
 impossible.
 
 > 26ـ كُلُّ مَوَدَّة مَبْنِيَّة عَلى غَيْرِ ذاتِ اللّهِ ضَلالٌ
-<blockquote dir="rtl">
-  <p>
-والاِعْتِمادُ عَلَيْها مُحالٌ.
-  </p>
-</blockquote>
+> والاِعْتِمادُ عَلَيْها مُحالٌ.
 
 27. Be an upholder of friendship even if you do not find any custodian
 [for it].
@@ -160,11 +144,7 @@ you] once it is accomplished.
 character.
 
 > 31ـ مَا اسْتُجْلِبَتِ المَحَبَّةُ بِمِثْلِ السَّخاءِ، والرِّفْقِ،
-<blockquote dir="rtl">
-  <p>
-وحُسْنِ الخُلْقِ.
-  </p>
-</blockquote>
+> وحُسْنِ الخُلْقِ.
 
 32. One who does not give good advice is not sincere in his friendship.
 
@@ -174,11 +154,7 @@ character.
 and is ever firm and lasting.
 
 > 33ـ مَوَدَّةُ ذَوِى الدّينِ بَطيئَةُ الاِنْقـطاعِ، دائِمَةُ الثَّباتِ
-<blockquote dir="rtl">
-  <p>
-والبَقاءِ.
-  </p>
-</blockquote>
+> والبَقاءِ.
 
 34. The friendship of a fool is like a tree of fire, part of it consumes
 [its] other parts.
@@ -189,11 +165,7 @@ and is ever firm and lasting.
 dispersed the way mist gets dispersed.
 
 > 35ـ مَوَدَّةُ الحَمْقى تَزُولُ كَما يَزُولُ السَّرابُ، وتُقْشِعُ كَما
-<blockquote dir="rtl">
-  <p>
-يُقْشِعُ الضَّبابُ.
-  </p>
-</blockquote>
+> يُقْشِعُ الضَّبابُ.
 
 36. The friendship of ignorant people constantly changes [with changes
 in circumstances] and quickly transforms [into enmity].
@@ -204,11 +176,7 @@ in circumstances] and quickly transforms [into enmity].
 disappears like the mirage disappears.
 
 > 37ـ مَوَدَّةُ العَوامِّ تَنْقَطِعُ كَانْقِطاعِ السَّحابِ، وتَنْقَشِعُ
-<blockquote dir="rtl">
-  <p>
-كَما يَنْقَشِعُ السَّرابُ.
-  </p>
-</blockquote>
+> كَما يَنْقَشِعُ السَّرابُ.
 
 38. The friendship of worldly people is cut off when its [worldly]
 motives are severed.
@@ -225,11 +193,7 @@ Allah and hate those whom you dislike [only] for the sake of Allah, the
 Glorified.
 
 > 40ـ وادُّوا مَنْ تُوادُّونَهُ فِي اللّهِ، وأبْغِضُوا مَنْ
-<blockquote dir="rtl">
-  <p>
-تُبْغِضُونَهُ فيِ اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> تُبْغِضُونَهُ فيِ اللّهِ سُبْحانَهُ.
 
 41. Do not grant your friendship to one who has no loyalty.
 
@@ -312,11 +276,7 @@ for other than the friends of Allah, for indeed whoever loves a group of
 people is resurrected with them.
 
 > 58ـ إيّاكَ أنْ تُحِبَّ أعْداءَ اللّهِ، أوْ تُصْفِيَ وُدَّكَ لِغَيْرِ
-<blockquote dir="rtl">
-  <p>
-أوْلِياءِ اللّهِ، فَإنَّ مَنْ أحَبَّ قَوْماً حُشِرَ مَعَهُمْ.
-  </p>
-</blockquote>
+> أوْلِياءِ اللّهِ، فَإنَّ مَنْ أحَبَّ قَوْماً حُشِرَ مَعَهُمْ.
 
 59. Seek the love of Allah, the Glorified, by desiring that which is
 with Him.
@@ -327,11 +287,7 @@ with Him.
 possessions and you will be successful in gaining their love.
 
 > 60ـ تَحَبَّبْ إلَى النّاسِ بِالزٌّهْدِ فيما أيْديِهِمْ، تَفُزْ
-<blockquote dir="rtl">
-  <p>
-بِالمَحَبَّةِ مِنْهُمْ.
-  </p>
-</blockquote>
+> بِالمَحَبَّةِ مِنْهُمْ.
 
 61. How can one in whose heart love for this world resides, claim to
 love Allah?!
@@ -345,5 +301,4 @@ well-mannered.
 
 [^1]: Or [in another reading]: The wicked do not befriend anyone except
 those who are like them.
-
 

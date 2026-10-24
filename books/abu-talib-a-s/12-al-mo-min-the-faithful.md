@@ -234,7 +234,6 @@ seek your protection. We pray You not to let us deviate from the
 straight way or stay in the slips of dangers or the abysses of
 darkness!
 
-
 Eeman is the infinitive form of the verb (aamana) and it means
 believing or trusting. Later on the word eeman takes a religious sense
 to mean faithfulness and it has its special definition. Al-mo'min is the
@@ -479,5 +478,4 @@ without carrying out the sayings! He carried out whatever he had said.
 He protected the Prophet (s) and supported him. He supported Islam and
 defended it that even his enemies, who had fabricated against him tens
 of lies, couldn't deny his favors and virtues.
-
 

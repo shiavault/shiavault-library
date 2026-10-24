@@ -102,11 +102,7 @@ necessary receptivity to benefit from the infinite grace of his Creator.
 
 There is a tradition of the Holy Prophet (S) which says:
 
-<blockquote dir="rtl">
-  <p>
-((لا تدخل الملائكة بيتا فيه كلب))
-  </p>
-</blockquote>
+> ((لا تدخل الملائكة بيتا فيه كلب))
 
 The angels do not enter a house in which there is a dog.
 
@@ -114,11 +110,7 @@ How is it possible, then, for the rays of God's grace and Divine
 illumination to enter a heart filled to the brim with immoral, selfish,
 and bestial desires? The hadith of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-))بنى الدين على النظافة))
-  </p>
-</blockquote>
+> ))بنى الدين على النظافة))
 
 "My religion is based on cleanliness", does not refer to outward
 cleanliness alone; more than that it alludes to the inner purity of the
@@ -247,14 +239,10 @@ are demoniac.
 
 In a hadith from Imam Ali (A), he is related as saying:
 
-<blockquote dir="rtl">
-  <p>
-)) ان الله خص الملك بالعقل دون الشهوة والغضب, وخص الحيوانات بهما دونه
-وشرّف الانسان باعطاء الجميع ، فان انقادت شهوته وغضبه لعقله صار افضل من
-الملائكة لوصوله الى هذه المرتبة مع وجود المنازع والملائكة ليس لهم
-مزاحم))
-  </p>
-</blockquote>
+> )) ان الله خص الملك بالعقل دون الشهوة والغضب, وخص الحيوانات بهما دونه
+> وشرّف الانسان باعطاء الجميع ، فان انقادت شهوته وغضبه لعقله صار افضل من
+> الملائكة لوصوله الى هذه المرتبة مع وجود المنازع والملائكة ليس لهم
+> مزاحم))
 
 Surely God has characterized the angels by intellect without sexual
 desire and anger, and the animals with anger and desire without reason.
@@ -339,5 +327,4 @@ all its limbs and organs are healthy. Therefore, the individual who
 seeks to attain ultimate and perfect happiness, must free himself or
 herself from the clutches of demonic and animal forces and tendencies
 and step on the ladder of ascension to the higher realms.
-
 

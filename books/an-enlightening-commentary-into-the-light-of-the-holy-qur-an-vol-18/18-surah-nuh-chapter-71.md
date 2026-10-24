@@ -10,11 +10,7 @@ Surah Nuh, Chapter 71
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -78,32 +74,16 @@ after the passage of 950 years.
 Surah Nuh – Verses 1-3
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن
-قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن
+> قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ
 
 ***1. We sent Noah to his people and We said: "Warn your people before
 there comes to them an excruciating torment."***  
@@ -148,13 +128,9 @@ Resurrection.
 Surah Nuh – Verse 4
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ
-مُّسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ
-كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ
+> مُّسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ
+> كُنتُمْ تَعْلَمُونَ
 
 ***4. "He will forgive you of your sins and respite you to an appointed
 term. But, when the term of Allah comes, it cannot be delayed, if you
@@ -224,37 +200,17 @@ to his family will be granted longevity."*[^10]
 Surah Nuh – Verses 5-9
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
 
-<blockquote dir="rtl">
-  <p>
-فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا
-  </p>
-</blockquote>
+> فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا
-أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا
-وَاسْتَكْبَرُوا اسْتِكْبَارًا
-  </p>
-</blockquote>
+> وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا
+> أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا
+> وَاسْتَكْبَرُوا اسْتِكْبَارًا
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا
-  </p>
-</blockquote>
+> ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا
-  </p>
-</blockquote>
+> ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا
 
 ***5. He said: "O my Lord! I have called my people unto you night and
 day,***  
@@ -361,36 +317,16 @@ voice of the men of God and the blessed Qur’anic Verses.
 Surah Nuh – Verses 10-14
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا
-  </p>
-</blockquote>
+> فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا
 
-<blockquote dir="rtl">
-  <p>
-يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا
-  </p>
-</blockquote>
+> يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا
 
-<blockquote dir="rtl">
-  <p>
-وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ
-وَيَجْعَل لَّكُمْ أَنْهَارًا
-  </p>
-</blockquote>
+> وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ
+> وَيَجْعَل لَّكُمْ أَنْهَارًا
 
-<blockquote dir="rtl">
-  <p>
-مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
-  </p>
-</blockquote>
+> مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ خَلَقَكُمْ أَطْوَارًا
-  </p>
-</blockquote>
+> وَقَدْ خَلَقَكُمْ أَطْوَارًا
 
 ***10. "I said [unto them]: 'Ask forgiveness from your Lord since He is
 Oft-Forgiving.***  
@@ -444,17 +380,9 @@ was sent to them and cause their total perdition.
 Surah Nuh – Verses 15-16
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا
-  </p>
-</blockquote>
+> أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
-  </p>
-</blockquote>
+> وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
 
 ***15. Know you not how Allah has created the seven heavens one above
 another?***  
@@ -513,29 +441,13 @@ Qur’an. Further details in this respect were mentioned under 10:5.
 Surah Nuh – Verses 17-20
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا
-  </p>
-</blockquote>
+> وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
-  </p>
-</blockquote>
+> ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا
-  </p>
-</blockquote>
+> وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا
 
-<blockquote dir="rtl">
-  <p>
-لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا
-  </p>
-</blockquote>
+> لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا
 
 ***17. And Allah has brought you forth from the earth.***  
 ***18. Then He will return you into it, and bring you forth.***  
@@ -599,18 +511,10 @@ following blessed Verses.
 Surah Nuh – Verses 21-22
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ
-مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا
-  </p>
-</blockquote>
+> قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ
+> مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا
 
-<blockquote dir="rtl">
-  <p>
-وَمَكَرُوا مَكْرًا كُبَّارًا
-  </p>
-</blockquote>
+> وَمَكَرُوا مَكْرًا كُبَّارًا
 
 ***21. [Having despaired of guiding them] Noah said: "My Lord! They have
 disobeyed me and followed those whose wealth and children availed them
@@ -665,25 +569,13 @@ led them to servitude and bondage and aforesaid vile ploys worked.
 Surah Nuh – Verses 23-25
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا
-سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
-  </p>
-</blockquote>
+> وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا
+> سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا
-  </p>
-</blockquote>
+> وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا
 
-<blockquote dir="rtl">
-  <p>
-مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا
-لَهُم مِّن دُونِ اللَّهِ أَنصَارًا
-  </p>
-</blockquote>
+> مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا
+> لَهُم مِّن دُونِ اللَّهِ أَنصَارًا
 
 ***23. "And they said: 'You shall not leave your gods: you shall leave
 neither Wadd, nor Suwa‘, nor Yaghuth, nor Ya‘uq, nor Nasr.***  
@@ -744,19 +636,11 @@ appeared in the midst of the tempest and devoured them.[^16]
 Surah Nuh – Verses 26-27
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ
-دَيَّارًا
-  </p>
-</blockquote>
+> وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ
+> دَيَّارًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا
-فَاجِرًا كَفَّارًا
-  </p>
-</blockquote>
+> إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا
+> فَاجِرًا كَفَّارًا
 
 ***26. And Noah said: "O Lord! Leave not one single disbeliever on the
 earth!***  
@@ -842,13 +726,9 @@ beliefs.
 Surah Nuh – Verse 28
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا
-وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
-تَبَارًا
-  </p>
-</blockquote>
+> رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا
+> وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
+> تَبَارًا
 
 ***28. "O Lord! Forgive me and my parents and all those who enter my
 home as believers and all the believing men and women. And to the wrong
@@ -964,5 +844,4 @@ al-Anwar, vol. 11.
 
 [^23]: Wasa’il al-Shi‘a; al-Gadir; Kanz al-‘Ummal; Ihqaq al-Haqq;
 ‘Abaqat al-Anwar; and other tradition sources.
-
 

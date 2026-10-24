@@ -34,12 +34,8 @@ of the last Messenger (S) and he was the only human able to withstand
 revelation directly from its source, and qualified to understand its
 content:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللّهِ مُصَدِّقاً لِّمَا
-بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَى لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللّهِ مُصَدِّقاً لِّمَا
+> بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَى لِلْمُؤْمِنِينَ
 
 ***For surely he (Jibra’il) revealed it to your heart by Allah's
 command, verifying that which is before it and guidance and good news
@@ -57,12 +53,8 @@ A great thinker like Mulla Sadra derives from the following Qur’anic
 verse, the concept of *burhan al-siddiqin*[^1] in his thesis on *hikmat
 al-muta’aliya* (transcendent philosophy):
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
 
 ***We will soon show them Our signs in the Universe and in their own
 souls, until it will become quite clear to them that it is the truth.
@@ -92,11 +84,7 @@ that time.
 
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا
-  </p>
-</blockquote>
+> أَفَلا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا
 
 ***Do they not then reflect on the Qur’an? Or are there locks on their
 hearts? (Muhammad, 47/24)***
@@ -174,13 +162,9 @@ Indeed, the sea of God’s words is boundless; the deeper we will search
 in this vast ocean, the more radiant and valuable jewels will come to
 hand. The Qur’an sates:
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّوْ كَانَ الْبَحْرُ مِدَادًا لِّكَلِمَاتِ رَبِّي لَنَفِدَ
-الْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا
-بِمِثْلِهِ مَدَدًا
-  </p>
-</blockquote>
+> قُل لَّوْ كَانَ الْبَحْرُ مِدَادًا لِّكَلِمَاتِ رَبِّي لَنَفِدَ
+> الْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا
+> بِمِثْلِهِ مَدَدًا
 
 ***Say: If the sea were ink for the words of my Lord, the sea would
 surely be consumed before the words of my Lord are exhausted, though We
@@ -216,5 +200,4 @@ Sayyid Mujtaba Musavi Lari
 
 [^1]: Literally, “the argument of the veracious”, an ontological proof
 for the existence of God.
-
 

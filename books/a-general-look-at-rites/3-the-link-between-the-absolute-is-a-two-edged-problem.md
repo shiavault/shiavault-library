@@ -197,4 +197,3 @@ lengthy path. It is but the Truth which is worthy of saving the march
 from loss, helping it explode all its creative energies, emancipating it
 from each and every false and obstructing "absolute" . . .
 
-

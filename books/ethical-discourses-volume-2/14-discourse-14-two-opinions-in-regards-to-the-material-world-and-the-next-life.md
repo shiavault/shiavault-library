@@ -1,16 +1,12 @@
 Discourse 14: Two Opinions In Regards To The Material World And The Next Life
 =============================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ نَافِعَ عَـنِ ابْنِ عُمَرَ قَـالَ: سَمِعْتُ رَسُولَ اللٌّهِ
-يَقُولُ: أَيُّهَا النَّاسُ، هٌذِهِ دَارُ تَرَحٍ لاٌ دَارُ فَرَحٍ،
-دَارُ الْتِوَاءٍ لاٌ دَارُ اسْتِوَاءٍ، فَمَنْ عَرَفَهَا لَمْ يَفْرَحْ
-لِرَجَآءِ وَ لَمْ يَحْزُنْ لِشَقَآءِ. أَلاَّ وَ إِنَّ اللٌّهَ خَلَقَ
-الدُّنْـيَا دَارَ بَلْوى وَ الآخِرَةَ دَارَ عُقْبـى، فَجَعَلَ بَلْوَى
-الدُّنْــيَا لِثَوَابِ الآخِرَةِ سَـبَباً…
-  </p>
-</blockquote>
+> عَنْ نَافِعَ عَـنِ ابْنِ عُمَرَ قَـالَ: سَمِعْتُ رَسُولَ اللٌّهِ
+> يَقُولُ: أَيُّهَا النَّاسُ، هٌذِهِ دَارُ تَرَحٍ لاٌ دَارُ فَرَحٍ،
+> دَارُ الْتِوَاءٍ لاٌ دَارُ اسْتِوَاءٍ، فَمَنْ عَرَفَهَا لَمْ يَفْرَحْ
+> لِرَجَآءِ وَ لَمْ يَحْزُنْ لِشَقَآءِ. أَلاَّ وَ إِنَّ اللٌّهَ خَلَقَ
+> الدُّنْـيَا دَارَ بَلْوى وَ الآخِرَةَ دَارَ عُقْبـى، فَجَعَلَ بَلْوَى
+> الدُّنْــيَا لِثَوَابِ الآخِرَةِ سَـبَباً…
 
 It has been narrated from Nafi’ from Ibne ‘Umar that he said: “I heard
 the Messenger of Allah (S) say: 'O' people! This (the world in which we
@@ -37,11 +33,7 @@ view of science, it has been proven that the Earth is going through a
 also one day cease to give us light, just as it is mentioned in the
 Noble Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا الشَّمْسُ كُوِّرَتْ
-  </p>
-</blockquote>
+> إِذَا الشَّمْسُ كُوِّرَتْ
 
 “When the sun is covered over (and darkened).”[^2]
 
@@ -58,12 +50,8 @@ Indeed, this is the correct viewpoint and is the true 'Islamic world
 view' of the transient world. This is also the essence of the verse of
 the Noble Qur\`an which states:
 
-<blockquote dir="rtl">
-  <p>
-لِكَيْلاَ تَأْسَوْا عَلى مَا فَاتَكُمْ وَ لاَ تَفْرَحُوا بِمَا
-آتٌيكُمْ
-  </p>
-</blockquote>
+> لِكَيْلاَ تَأْسَوْا عَلى مَا فَاتَكُمْ وَ لاَ تَفْرَحُوا بِمَا
+> آتٌيكُمْ
 
 “So that you may not grieve for what has escaped you, nor be exultant at
 what He has given you.”[^3]
@@ -78,13 +66,9 @@ Commander of the Faithful, ‘Ali b. Abi Talib (as) in Nahj al-Balagha. In
 one of his sermons, the Imam (as) has summarized the entire meaning of
 Zuhd (asceticism) in one sentence:
 
-<blockquote dir="rtl">
-  <p>
-أَلزُّهْدُ كُلُّهُ بَيْنَ كَلِمَـتَيْنِ مِنَ الْقُرْآنِ قَالَ اللٌّهُ
-سُبْحانَهُ: لِكَيْلا َتَأْسَوْا عَلى مَا فَاتَكُمْ وَ لاَ تَفْرَحُوا
-بِمَا آتٌيكُمْ -
-  </p>
-</blockquote>
+> أَلزُّهْدُ كُلُّهُ بَيْنَ كَلِمَـتَيْنِ مِنَ الْقُرْآنِ قَالَ اللٌّهُ
+> سُبْحانَهُ: لِكَيْلا َتَأْسَوْا عَلى مَا فَاتَكُمْ وَ لاَ تَفْرَحُوا
+> بِمَا آتٌيكُمْ -
 
 “The entire essence of Zuhd (asceticism) is contained within two
 statements from the Qur\`an where Allah (SwT) has said, ”(So that you
@@ -139,12 +123,8 @@ while in the material world!
 
 The Imam has then stated:
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ مَا تَعِبَ أَوْلِـيَآءُ اللٌّهِ فِي الدُّنْـيَا لِلدُّنْـيَا،
-بَلْ تَعِبُوا فِي الدُّنْـيَا لِلآخِرَةِ.
-  </p>
-</blockquote>
+> كَلاَّ مَا تَعِبَ أَوْلِـيَآءُ اللٌّهِ فِي الدُّنْـيَا لِلدُّنْـيَا،
+> بَلْ تَعِبُوا فِي الدُّنْـيَا لِلآخِرَةِ.
 
 “The intimate friends of Allah would never struggle in the transient for
 the transient world, rather, they would strive in the transient world
@@ -159,5 +139,4 @@ for the next life!”[^5]
 [^4]: Nahj al-Balagha, Short Saying 439
 
 [^5]: Tafsir-e-Namuna, vol. 27, pg. 203
-
 

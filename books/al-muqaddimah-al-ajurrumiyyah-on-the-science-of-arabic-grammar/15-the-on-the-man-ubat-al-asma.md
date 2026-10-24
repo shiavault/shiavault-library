@@ -40,4 +40,3 @@ the Ism of "إنّ" and its sisters
 the Tābi‘ of something that is Manṣūb, and it is four things: the Na‘t,
 the ‘Aṭf, the Taukīd and the Badal.
 
-

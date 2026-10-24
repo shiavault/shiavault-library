@@ -2227,4 +2227,3 @@ the bounty will be perfected, and the light will be completed! We will
 then prostrate to Allah (SWT) and say “Praise be to Allah, the Lord of
 All Worlds!”
 
-

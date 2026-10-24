@@ -304,4 +304,3 @@ cloth. (Zaadul Ma'ad).
 
 [^12]: Tabaqat Ibn Sa'd
 
-

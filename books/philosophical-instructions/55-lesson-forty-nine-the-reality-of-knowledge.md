@@ -309,4 +309,3 @@ argument given in Lesson Forty-Four, where scientific and empirical
 premises were employed for the establishment of the immateriality of the
 soul.
 
-

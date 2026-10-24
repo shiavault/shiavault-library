@@ -558,4 +558,3 @@ greatest written compositions in Islam, complied by Al-Sharif Al-Radi
 
 [^4]: Barbara Brown, A Closer Look at Christianity.
 
-

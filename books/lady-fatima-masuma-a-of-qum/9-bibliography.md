@@ -119,4 +119,3 @@ al-Kāđim (A) Edition, Tehran.
 • **Tustarī**, Muhammad Taqī; *Tawārīkh al-Nabī wa al-Āl*, Tehran
 1391A.H.
 
-

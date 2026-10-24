@@ -142,4 +142,3 @@ them) and the authentic scriptures are lost.
 
 [^2]: ‘Uyun Akhbar ar-Ridha, vol. 2, Qum, p. 87.
 
-

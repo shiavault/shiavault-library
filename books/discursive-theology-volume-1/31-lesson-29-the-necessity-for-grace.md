@@ -49,12 +49,8 @@ And this matter is concomitant with His justice and wisdom, as we will
 explain. The following expression is the popular definition of the rule
 of *luṭf*:
 
-<blockquote dir="rtl">
-  <p>
-اَللُّطْفُ ما يُقَرِّبُ العِبادَ إلى الطّاعَةِ وَ يُبَعِّدُهُ عَنِ
-المعصِيَةِ.
-  </p>
-</blockquote>
+> اَللُّطْفُ ما يُقَرِّبُ العِبادَ إلى الطّاعَةِ وَ يُبَعِّدُهُ عَنِ
+> المعصِيَةِ.
 
 “Grace is that which makes the servant closer to obedience [to God] and
 keeps him away from commiting sin.”
@@ -133,12 +129,8 @@ because grace differs according to the obligations, and in the absence
 of free-will, there is no obligation. The following passage indicates
 the said two conditions: [^9]
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُنْ لَهُ حَظٌّ فِي التَّمْكينِ وَلَمْ يَبلُغْ حَدَّ
-الإلجاءِ.
-  </p>
-</blockquote>
+> وَلَمْ يَكُنْ لَهُ حَظٌّ فِي التَّمْكينِ وَلَمْ يَبلُغْ حَدَّ
+> الإلجاءِ.
 
 3. There must be compatibility between grace and obligation, because
 grace plays as a motivator and its being a motivator with respect to the
@@ -162,11 +154,7 @@ grace necessitates reversal of the motive which, in turn, is
 incompatible with wisdom, and it is invalid. Acting upon grace is thus
 incumbent. As Muḥaqqiq al-Ṭūsī has said,
 
-<blockquote dir="rtl">
-  <p>
-وَاللُّطْفُ واجِبٌ لِيَحْصُلَ الْغَرَضُ بِهِ.
-  </p>
-</blockquote>
+> وَاللُّطْفُ واجِبٌ لِيَحْصُلَ الْغَرَضُ بِهِ.
 
 “Grace is incumbent so as to materialize the motive.”[^11]
 
@@ -264,11 +252,7 @@ munificence of God.
 The Holy Qur’an has regarded prophethood (*nubuwwah*) as a manifestation
 of God’s mercy, as it says thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَهُمْ يَقْسِمُونَ رَحْمَةَ رَبِّكَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَهُمْ يَقْسِمُونَ رَحْمَةَ رَبِّكَ ﴾
 
 ***“Is it they who dispense the mercy of your Lord?”***[^15]
 
@@ -276,12 +260,8 @@ This verse was a reply to the narrow-minded people who said in protest
 to the Holy Prophet (*ṣ*), “Why was the Qur’an not revealed to two
 prominent men of Arabia (Walīd ibn Mughayrah and ‘Urwah ibn Mas‘ūd)?”
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالُوا لَوْلا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنَ
-الْقَرْيَتَيْنِ عَظِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالُوا لَوْلا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنَ
+> الْقَرْيَتَيْنِ عَظِيمٍ ﴾
 
 ***“And they said, ‘Why was not this Qur’an sent down to some great man
 from the two cities?”***[^16]
@@ -290,12 +270,8 @@ The Holy Qur’an has regarded the soft disposition and flexibility of the
 Prophet (*ṣ*) and refraining from harsh treatment of the people as signs
 of God’s mercy upon him and the people, stating thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَبِمَا رَحْمَةٍ مِّنَ اللّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا
-غَلِيظَ الْقَلْبِ لاَنفَضُّواْ مِنْ حَوْلِكَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَبِمَا رَحْمَةٍ مِّنَ اللّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لاَنفَضُّواْ مِنْ حَوْلِكَ ﴾
 
 ***“It is by Allah’s mercy that you are gentle to them; and had you been
 harsh and hardhearted, surely they would have scattered from around
@@ -304,12 +280,8 @@ you.”***[^17]
 God thus admonishes Prophet Mūsā (Moses) and Prophet Hārūn (Aaron)
 (*‘a*) in dealing with Pharaoh:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ ٭ فَقُولاَ لَهُ قَوْلاً
-لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ ﴾
-  </p>
-</blockquote>
+> ﴿ ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ ٭ فَقُولاَ لَهُ قَوْلاً
+> لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ ﴾
 
 ***“Let the two of you go to Pharaoh. Indeed he has rebelled. Speak to
 him in a soft manner; maybe he will take admonition or fear.”***[^18]
@@ -319,12 +291,8 @@ prophets as bearers of good news and as warners has completed the
 argument (*ḥujjah*) for the people, thereby giving no more room for
 complaint:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رُسُلاً مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلا يَكُونَ لِلنَّاسِ عَلَى
-اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ رُسُلاً مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلا يَكُونَ لِلنَّاسِ عَلَى
+> اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا ﴾
 
 ***“…apostles, as bearers of good news and warners, so that mankind may
 not have any argument against Allah, after the [sending of the]
@@ -342,12 +310,8 @@ From the viewpoint of the Qur’an, the philosophy of some adversities and
 afflictions in human life is to bring them to their senses and to
 strengthen the spirit of submission to the Divine commands in them:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّبِيٍّ إِلاَّ أَخَذْنَا
-أَهْلَهَا بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّبِيٍّ إِلاَّ أَخَذْنَا
+> أَهْلَهَا بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ ﴾
 
 ***“We did not send a prophet to any town without visiting its people
 with stress and distress so that they might entreat [for Allah’s
@@ -390,15 +354,11 @@ made mention of the philosophy behind the Divine rewards and punishments
 as admittance of the obedient ones to paradise and keeping them out of
 hell:
 
-<blockquote dir="rtl">
-  <p>
-اِبْتَدَعَ الأشْياءَ لا مِنْ شَيءٍ كانَ قَبْلَها... تَثْبيتاً
-لحِكمَتِهِ، وَتَنْبيهاً عَلَى طاعَتِهِ... وَتَعَبُّدًا لِبَرِيَّتِهِ،
-ثمّ جَعَلَ الثَّوابَ عَلى طاعَتِهِ، وَوَضَعَ العِقابَ عَلى
-مَعصِيَتِهِ، زِيادَةً لِعِبادِهِ مِنْ نَقِمَتِهِ، وَحِياشَةً لهم إلى
-جَنَّتِهِ.
-  </p>
-</blockquote>
+> اِبْتَدَعَ الأشْياءَ لا مِنْ شَيءٍ كانَ قَبْلَها... تَثْبيتاً
+> لحِكمَتِهِ، وَتَنْبيهاً عَلَى طاعَتِهِ... وَتَعَبُّدًا لِبَرِيَّتِهِ،
+> ثمّ جَعَلَ الثَّوابَ عَلى طاعَتِهِ، وَوَضَعَ العِقابَ عَلى
+> مَعصِيَتِهِ، زِيادَةً لِعِبادِهِ مِنْ نَقِمَتِهِ، وَحِياشَةً لهم إلى
+> جَنَّتِهِ.
 
 “He created the things without anything there prior to them… in order to
 establish His wisdom and remind them (people) of obedience to Him and
@@ -578,5 +538,4 @@ could duly be her husband. See Biḥār al-Anwār, vol. 43, section (bāb) 2,
 [^26]: Kashf al-Murād wa Sharḥ Tajrīd Qawshajī, topic on grace.
 
 [^27]: Talkhīṣ al-Muḥaṣṣil, p. 342 quoting Fakhr al-Dīn al-Rāzī.
-
 

@@ -1200,4 +1200,3 @@ and it attracts large numbers of tourists throughout the year [Tr].
 tamannai). “They suggest me, ask something from my beloved, I would
 never ask anything from my beloved but beloved himself.”
 
-

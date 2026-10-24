@@ -96,7 +96,6 @@ have our day out after all and lucky enough to have learnt more about
 Allah (S.W.T.) at the same time! Alhamdulillah! Allah (S.W.T.) worked in
 a mysterious way to teach us more about Himself!
 
-
 **SOMETHING TO THINK ABOUT…**
 
 1. One of the most amazing things in the world is the water cycle. A
@@ -140,7 +139,6 @@ Qur'an?
 
 5. How does the above-mentioned verse show us Allah (S.W.T.)'s Power
 and Greatness?
-
 
 **Introduction to Chapter Two**
 
@@ -190,7 +188,6 @@ not see the fruits immediately but it is important to fully trust Allah
 Finally, we will read parts of the "Will of a Martyr". In this, we will
 see how a martyr prepares himself to remain firm and take up all sorts
 of challenges just to gain the nearness of Allah (S.W.T.).
-
 
 **Lesson 3 : Harvest Period**
 
@@ -378,5 +375,4 @@ would deserves these blessings?
 
 5. This world is the passageway for the next world. What does this
 mean?
-
 

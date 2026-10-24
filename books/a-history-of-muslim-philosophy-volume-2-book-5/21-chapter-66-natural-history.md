@@ -881,4 +881,3 @@ subjects.
 of Maulana Jalal al-Din Rami. See Book IV, verses 3637 to 3647 of the
 text of Mathnawi ed. R. A. Nicholson, E. J. Brill, Leiden, 1929.
 
-

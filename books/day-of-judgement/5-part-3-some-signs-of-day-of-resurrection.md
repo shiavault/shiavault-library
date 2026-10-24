@@ -1014,4 +1014,3 @@ Eqypt, 1307, vol.2, p.410; ch.65. The age given as “706 years” should be
 
 [^16]: Ibid; also p.212
 
-

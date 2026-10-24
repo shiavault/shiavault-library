@@ -111,4 +111,3 @@ Majesty, from that which they attribute (to him); and peace be upon
 those sent (to warn); and praise be to Allah, Lord of the Worlds.}50 50
 The Holy Qur’an, The Ranks (37): 180-182.
 
-

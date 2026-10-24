@@ -3,21 +3,13 @@ Part 1: Interpretation of “Peace be upon Ilyasin”
 
 The Lord of the worlds has said:
 
-<blockquote dir="rtl">
-  <p>
-يس
-  </p>
-</blockquote>
+> يس
 
 ***Ya Seen. (Sura Yaseen 36:1)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-سَلَامٌ عَلَى إِلْ يَاسِينَ.
-  </p>
-</blockquote>
+> سَلَامٌ عَلَى إِلْ يَاسِينَ.
 
 ***Peace be upon Ilyasin. (Surah Saffat 37:130)***
 
@@ -58,11 +50,7 @@ Ali bin Ibrahim has said in his *Tafsir* quoting Imam Sadiq (a.s.) that
 ‘Yasin’ is the blessed name of the Holy Prophet (S). The proof of it is
 that thereafter Allah Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَمِنْ الْمُرْسَلِينَ.
-  </p>
-</blockquote>
+> إِنَّكَ لَمِنْ الْمُرْسَلِينَ.
 
 ***Most surely you are one of the apostles. (Surah Yasin 36:3)***
 
@@ -109,5 +97,4 @@ and Haroon” and “Peace be upon Nuh” and not said Peace be upon the
 progeny of Ibrahim and Peace be upon the progeny of Moosa and Haroon but
 He has said “Peace be upon the progeny of Yasin” that is Salam on the
 progeny of Muhammad (a.s.).
-
 

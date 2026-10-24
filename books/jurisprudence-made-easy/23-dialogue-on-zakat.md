@@ -200,4 +200,3 @@ not qualify for zakat money.  Those of a Hashimite pedigree are not
 eligible to receive zakat money from non-Hashimites; they can receive it
 from their fellow Hashimites only.
 
-

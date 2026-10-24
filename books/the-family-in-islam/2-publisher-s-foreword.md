@@ -47,4 +47,3 @@ long experience in the field of social work. He does not propound the
 religious view alone but marries it with historical understanding and
 practical experience.
 
-

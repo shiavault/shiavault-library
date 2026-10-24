@@ -424,4 +424,3 @@ still seeking the directions of their own researches in the sphere of
 the inner country problems. This does not allow a full positioning of
 these researches in the WFSF’s activities.
 
-

@@ -214,4 +214,3 @@ with the aim and object of aiding the oppressed in Mecca, irrespective
 of their being dwellers of the city or aliens. Young Muhammad became an
 enthusiastic member of the organisation.
 
-

@@ -236,4 +236,3 @@ approach - something which also became extinct with them. As we know, a
 religion so rich and resourceful as Islam needs a kalam which has an
 unshakeable faith in the freedom of reason.
 
-

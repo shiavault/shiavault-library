@@ -40,4 +40,3 @@ development of mind and thought, in fighting and jihad and in reforming
 the world in all aspects, for participating in that great revolutionary
 program.
 
-

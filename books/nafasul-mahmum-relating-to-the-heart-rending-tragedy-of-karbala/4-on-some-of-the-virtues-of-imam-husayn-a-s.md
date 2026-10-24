@@ -459,4 +459,3 @@ nations” (Sura al A’araf: 159-160).
 [^3]: Midhah - This particular game is played with pebbles which have to
 be aimed into a pit.
 
-

@@ -140,7 +140,6 @@ Paradise."[^4]
 
 [^4] Kanz-ul-'Ummal, Vol. 1, p. 79
 
-
 **Commentary : Verse 17.18**
 
 17. وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ فَيَقُولُ
@@ -189,5 +188,4 @@ verse continues saying:
 
 "... but You did provide them and their fathers to enjoy until they
 forgot the Message and they were a people in perdition'."
-
 

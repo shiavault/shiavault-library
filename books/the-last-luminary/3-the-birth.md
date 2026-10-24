@@ -226,4 +226,3 @@ Eleventh Imam expired, and by Divine decree the office of Divine
 Leadership (Imamate) was vested in the Master of the Authority (*Sahibu
 'lAmr*).
 
-

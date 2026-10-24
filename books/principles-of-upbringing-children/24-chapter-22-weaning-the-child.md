@@ -37,4 +37,3 @@ psychology.
 
 [^1]: Wasail al-shiah, v15, p. 177
 
-

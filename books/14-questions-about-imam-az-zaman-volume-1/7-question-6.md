@@ -20,4 +20,3 @@ Abdullah al-Magrebi, Mahdi al- Sudani, Sayed Muhammad Jaunpuri Hindi,
 Musa Kurdi, Mahdi al-Bengali, Ghulam Ahmad Qadiyani, Sayed Bab and
 Bahaaullah.
 
-

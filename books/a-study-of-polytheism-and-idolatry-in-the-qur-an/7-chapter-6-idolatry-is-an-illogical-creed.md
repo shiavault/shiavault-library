@@ -645,4 +645,3 @@ invitation’.
 
 [^45]: Sūrat al-Anbiyā’ 21:52-70.
 
-

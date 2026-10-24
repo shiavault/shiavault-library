@@ -128,4 +128,3 @@ very apparent in time of trouble. That is one subject. Whether man's
 first impulse towards seeking some such refuge sprang from fear is a
 different subject. The two questions must be handled quite separately.
 
-

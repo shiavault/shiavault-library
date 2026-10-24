@@ -51,7 +51,6 @@ do so with the pride and the feel of goodness for the parents from the
 beats of the heart and not grudgingly with the pride for themselves from
 the beats of the regimental (soldier-Iike) foot- steps.
 
-
 **Childhood Trauma**
 
 The son aged seven was among the small group of relatives. friends and
@@ -139,7 +138,6 @@ characterised by the death of near and dear ones is enemy because he was
 not let to know about death -as being an avenue of freedom for the soul
 from the interim and constrained mortal life to the eternal blissful
 life.
-
 
 **Slip of Expletives in Conversation - As a Habit**
 
@@ -230,5 +228,4 @@ boys is bad, it will be much worse if the behaviour is allowed to take
 roots as the boys grow up as adults. There will always be a price for
 the lack of a polished personality however high their station of life.
 The price is bigger if the station of life is low.
-
 

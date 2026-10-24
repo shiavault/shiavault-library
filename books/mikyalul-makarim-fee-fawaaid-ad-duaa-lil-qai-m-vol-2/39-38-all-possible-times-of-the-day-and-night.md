@@ -19,4 +19,3 @@ above, that is Dua for hastening the reappearance and victory of the
 oppressed hidden Imam (as) – and what we have mentioned is as brilliant
 as light upon Mt. Tur.
 
-

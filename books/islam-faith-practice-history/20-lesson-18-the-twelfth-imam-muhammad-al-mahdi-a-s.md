@@ -228,4 +228,3 @@ to whom God will bestow the leadership of this world. But there are two
 qualities which have been mentioned both in the Psalms and the Qur'ān.
 What are those two qualities?
 
-

@@ -165,4 +165,3 @@ mention others according to their chronology and relevance; in this
 order: Wāqidi, Ibn Is’hāq, Ibn Shihāb al-Zuhri, Kalā’i and Ibn Sayyid
 al-Nās.
 
-

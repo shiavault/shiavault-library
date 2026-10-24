@@ -29,14 +29,10 @@ deprived ones. There are countless quotations from the Prophet (S) and
 countless verses in The Holy Quran in this regard. The following is a
 sample:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ
-كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ
-مِائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ ۗ وَاللَّهُ
-وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ
+> كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ
+> مِائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ ۗ وَاللَّهُ
+> وَاسِعٌ عَلِيمٌ
 
 ***The example of those who spend their wealth in the way of Allah is
 like a seed [of grain] which grows seven spikes; in each spike is a
@@ -47,12 +43,8 @@ wills. And Allah is all- Encompassing and Knowing.*** ***(Quran,
 Also The Holy Quran blames those who refrain from donating to charity by
 helping the needy:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا
-فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا
+> فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
 
 ***…. and those who hoard gold and silver and spend it not in the way of
 Allah - give them tidings of a painful punishment.*** ***(Quran,
@@ -81,13 +73,9 @@ will be subject to khums.[^3]
 
 The Holy Quran says in this issue:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ
 
 ***And know that anything you obtain of war booty - then indeed, for
 Allah is one fifth of it and for the Messenger and for [his] near
@@ -101,13 +89,9 @@ certain amount, he must donate a certain part of his savings.[^4]
 There are many verses in The Holy Quran about Zakaat. The requirement of
 Zakaat has been emphasized after prayer:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا
-لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ ۗ إِنَّ اللَّهَ
-بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا
+> لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ ۗ إِنَّ اللَّهَ
+> بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***And*** ***establish*** ***prayer*** ***and*** ***give*** ***zakaat,
 and*** ***whatever*** ***good*** ***you*** ***put*** ***forward***
@@ -117,13 +101,9 @@ and*** ***whatever*** ***good*** ***you*** ***put*** ***forward***
 
 Also, describing those who assist God, The Holy Quran, says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
-وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
-  </p>
-</blockquote>
+> الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
+> وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
 
 ***[And they are] those who, if We give them authority in the land,
 establish prayer and give zakat and enjoin what is right and forbid what
@@ -189,5 +169,4 @@ Al- hajj, verse:35, etc.
 [^9]: Quran, 5:89.
 
 [^10]: Quran, 5:95.
-
 

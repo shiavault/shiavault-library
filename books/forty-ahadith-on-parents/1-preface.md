@@ -5,12 +5,8 @@ Preface
  The Noble Prophet (peace be upon him and his family) has said:  
   
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
-بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
-  </p>
-</blockquote>
+> مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
+> بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
 
 *“The person from amongst my nation who memorizes forty traditions
 pertaining to those issues of religion which he is in need of, Allah
@@ -31,5 +27,4 @@ like to thank the Shaykh Mahdavi for his efforts in the compilation and
 translation of this work.  May Allah (Glory and Greatness be to Him)
 accept this work as a further attempt by IEB ‑ WF to propagate Islam.  
   
-
 

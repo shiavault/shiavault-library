@@ -37,4 +37,3 @@ granted by Allah and He is the Guardian.
 the Prophet, peace be upon him and his family, himself recommended, have
 written it completely.
 
-

@@ -1,11 +1,7 @@
 O Allāh, Change Our Unpleasant State Into Your Beautiful State
 ==============================================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ غَيِّرْ سُوْء حَالنَا بَحُسْنِ حَالِكَ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ غَيِّرْ سُوْء حَالنَا بَحُسْنِ حَالِكَ
 
 O Allāh, Change Our Unpleasant State Into Your Beautiful State
 
@@ -13,15 +9,11 @@ In order to properly understand the above verse, it is imperative to
 know the meaning of the word “*husn*” in the phrase ‘*bi husni Hālik.*’
 According to Rāghib al-Isfahāni, the word husn means:
 
-<blockquote dir="rtl">
-  <p>
-الْحُسْنُ: عِبَارَةٌ عَنْ كُلِّ مُبْهِجٍ مَرْغُوْبٍ فِيهِ، وَذَلِكَ
-ثَلاَثَة أَضْرُبٍ: مُسْتَحْسَنٌ مِن جِهَةِ الْعَقْلِ، مُسْتَحْسَنٌ
-مِنْ جهَةِ الْهَوَى، مُسْتَحْسَنٌ مِنْ جهَةِ الْحِسّ وَالْحَسَنَةُ
-يُعبّر عَنْهَا عَنْ كُلَِ ما يَسُرُّ مِنْ نِعْمَةٍ تَنَالُ الإِنْسَان
-فِيْ نَفْسِهِ وَبَدَنِهِ وَاَحْوَالِهِ وَالسَّيِّئَةُ تضادّهَا...
-  </p>
-</blockquote>
+> الْحُسْنُ: عِبَارَةٌ عَنْ كُلِّ مُبْهِجٍ مَرْغُوْبٍ فِيهِ، وَذَلِكَ
+> ثَلاَثَة أَضْرُبٍ: مُسْتَحْسَنٌ مِن جِهَةِ الْعَقْلِ، مُسْتَحْسَنٌ
+> مِنْ جهَةِ الْهَوَى، مُسْتَحْسَنٌ مِنْ جهَةِ الْحِسّ وَالْحَسَنَةُ
+> يُعبّر عَنْهَا عَنْ كُلَِ ما يَسُرُّ مِنْ نِعْمَةٍ تَنَالُ الإِنْسَان
+> فِيْ نَفْسِهِ وَبَدَنِهِ وَاَحْوَالِهِ وَالسَّيِّئَةُ تضادّهَا...
 
 “*Husn* is every pleasant and desirable thing. And it is of three
 kinds:  
@@ -56,11 +48,7 @@ the prayer would read: “O Allāh change our unpleasant state into Your
 Beautiful State”. This also reminds us of another supplication which is
 recommended to be recited on the first day of the solar year – Nawrūz:
 
-<blockquote dir="rtl">
-  <p>
-...حَوِّل حَالَنَا إلى اَحْسَنِ الْحَالِ...
-  </p>
-</blockquote>
+> ...حَوِّل حَالَنَا إلى اَحْسَنِ الْحَالِ...
 
 …change our state into the most beautiful state…[^4]  
  (2) It can denote sababiyyah (mediation)[^5], and thus the prayer would
@@ -84,12 +72,8 @@ Almighty Allāh saying:
 And in one of his sermons, while glorifying Almighty Allāh, Amīru‘l
 Mu’minīn’Alī (as) says:
 
-<blockquote dir="rtl">
-  <p>
-...الَّذِيْ لا يَحُوْلُ وَلاَ يزولُ وَلاَ يَجُوْزُ عَلَيْهِ الاًفُولُ
-...
-  </p>
-</blockquote>
+> ...الَّذِيْ لا يَحُوْلُ وَلاَ يزولُ وَلاَ يَجُوْزُ عَلَيْهِ الاًفُولُ
+> ...
 
 “One Who neither changes nor ceases to exist, nor is He transitory.”[^7]
 
@@ -113,12 +97,8 @@ theologian hired by Ma ‘mūn is reported to have employed the word
 “*Hāl*” for Almighty Allāh, which of course does not depict “a changing
 state”. He says:
 
-<blockquote dir="rtl">
-  <p>
-...لأنَّه لاَ يَكُوْنُ أَنْ يُحْدِثَ نَفْسَهُ ولاَ يَتَغَيَّرُ عَنْ
-حَالِهِ، تَعالى اللٌّه عَنْ ذٌلِكَ...
-  </p>
-</blockquote>
+> ...لأنَّه لاَ يَكُوْنُ أَنْ يُحْدِثَ نَفْسَهُ ولاَ يَتَغَيَّرُ عَنْ
+> حَالِهِ، تَعالى اللٌّه عَنْ ذٌلِكَ...
 
 “…This is because it is impossible that he created Himself, nor does He
 change from His State, Exalted is Allāh from that…”[^9]
@@ -145,16 +125,12 @@ it warns the believing men and women that even if an unbeliever is so
 beautiful or so handsome, you are not allowed to marry with him or her.
 Consider the following verses:
 
-<blockquote dir="rtl">
-  <p>
- وَلاَ تَنكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ وَلَأَمَةٌ
-مُؤْمِنَةٌ خَيْرٌ مِنْ مُشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ
-تُنكِحُوا الْمُشْرِكِينَ حَتَّى يُؤْمِنُوا وَلَعَبْدٌ مُؤْمِنٌ خَيْرٌ
-مِنْ مُشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَئِكَ يَدْعُونَ إِلَى النَّارِ
-وَاللٌّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ
-وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ 
-  </p>
-</blockquote>
+>  وَلاَ تَنكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ وَلَأَمَةٌ
+> مُؤْمِنَةٌ خَيْرٌ مِنْ مُشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ
+> تُنكِحُوا الْمُشْرِكِينَ حَتَّى يُؤْمِنُوا وَلَعَبْدٌ مُؤْمِنٌ خَيْرٌ
+> مِنْ مُشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَئِكَ يَدْعُونَ إِلَى النَّارِ
+> وَاللٌّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ
+> وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ 
 
 ***“Do not marry idolatresses until they embrace faith. A faithful slave
 girl is better than an idolatress, though she should impress you. And do
@@ -169,12 +145,8 @@ the physically beautiful. There are traditions which clearly encourage
 one to be a companion of one who enjoys beautiful features. Imām Abu’l
 Hasan (*al-Ridā*) (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثةٌ يَجْلُونَ الْبَصَرَ: النَّظَرُ إِلَى الْخُضْرَةِ، وَالنَّظَرُ
-إِلَى الْمَاءِ الْجَارِي، وَالنَّظَرُ إِلَى الْوَجْهِ الْحَسَنِ.
-  </p>
-</blockquote>
+> ثَلاثةٌ يَجْلُونَ الْبَصَرَ: النَّظَرُ إِلَى الْخُضْرَةِ، وَالنَّظَرُ
+> إِلَى الْمَاءِ الْجَارِي، وَالنَّظَرُ إِلَى الْوَجْهِ الْحَسَنِ.
 
 “Three things enlighten the eye: (1) Looking at greenery, (2) looking at
 running water, and (3) looking at a beautiful face (*al-wajh
@@ -187,13 +159,9 @@ descent is also highly significant as spiritual heredity plays a
 fundamental role in one’s future generation. Imām al-Sādiq (as) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَامَ النَّبيّ (ص) خَطِيْبًا فَقَالَ: أَيُّهَا النَّاسُ! إيَّاكُمْ
-وَخَضْرَاءُ الدِّمَن. قِيْلَ: يَا رَسُولَ اللٌّهِ (ص): وَمَا خَضْرَاءُ
-الدِّمَن؟ قَالَ: اَلْمَرْأةُ الْحَسنَاء فِي مَنْبَتِ السُّوْءِ.
-  </p>
-</blockquote>
+> قَامَ النَّبيّ (ص) خَطِيْبًا فَقَالَ: أَيُّهَا النَّاسُ! إيَّاكُمْ
+> وَخَضْرَاءُ الدِّمَن. قِيْلَ: يَا رَسُولَ اللٌّهِ (ص): وَمَا خَضْرَاءُ
+> الدِّمَن؟ قَالَ: اَلْمَرْأةُ الْحَسنَاء فِي مَنْبَتِ السُّوْءِ.
 
 “The Holy Prophet (s) once addressing the people said: O people, beware
 of the verdure of the dung. He was asked:’O Messenger of Allāh, ‘And
@@ -209,12 +177,8 @@ of marriage that the fundamental criteria of spousal selection is ‘the
 brilliance of the heart which is manifest on the face’. Imām al-Sādiq
 (as) is reported to have said that the Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): أَفْضَلُ نِسَاءِ أُمَّتِي أَصْبَحُهُنَّ
-وَجْهاً وَأَقَلُّهُنَّ مَهْراً.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): أَفْضَلُ نِسَاءِ أُمَّتِي أَصْبَحُهُنَّ
+> وَجْهاً وَأَقَلُّهُنَّ مَهْراً.
 
 “The best of the women of my Nation are the most radiant in complexion
 and seek the least of dowry.”[^14]
@@ -229,11 +193,7 @@ something good and naturally pleasant, it warns us from bartering our
 spiritual beauty for physical beauty. There is a prophetic tradition
 that says:
 
-<blockquote dir="rtl">
-  <p>
-أللٌّهُ جَمِيْلٌ يُحِبُّ الْجَمَالَ.
-  </p>
-</blockquote>
+> أللٌّهُ جَمِيْلٌ يُحِبُّ الْجَمَالَ.
 
 “Allāh is Beautiful and He Loves beauty.”
 
@@ -245,11 +205,7 @@ system. In religious terminology this world is known as al-nizām
 al-ahsan (The most beautiful system). The holy Qur’ān terms the entire
 creation of Allāh as beautiful. Observe the following verse:
 
-<blockquote dir="rtl">
-  <p>
- أَلَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ 
-  </p>
-</blockquote>
+>  أَلَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ 
 
 ***“One Who Made Beautiful every thing that He Created.”***[^15]  
  The beauty of every creature can be well appreciated by intellectually
@@ -263,16 +219,12 @@ The contemporary mystic-scholar, Āllāmah Hasan Zadeh Āmolī, may the
 Almighty Allāh protect his noble presence, in his treatise- Nūrun’Alā
 Nūr[^16], says:
 
-<blockquote dir="rtl">
-  <p>
-سعى كن تا به آب برسى با اينكه از آب بريده نيستى. و چون به آب رسيده‏اى
-آن وقت است كه حسن حال دارى و ابتهاج تو به وصف نمى‏آيد. در دعاى مأثور
-آمده است كه: (اللّهُمّ غَيِّرْ سُوءَ حَالِنَا بحُسْنِ حَالِكَ) . پس
-خداى تعالى حسن حال دارد، آرى اين حسن حال همانست كه شيخ در فصل هجدهم
-نمط بهجت و سرور «اشارات» فرمود: «أجل مبتهج بشي‏ء هو الاول بذاته».
-فافهم.
-  </p>
-</blockquote>
+> سعى كن تا به آب برسى با اينكه از آب بريده نيستى. و چون به آب رسيده‏اى
+> آن وقت است كه حسن حال دارى و ابتهاج تو به وصف نمى‏آيد. در دعاى مأثور
+> آمده است كه: (اللّهُمّ غَيِّرْ سُوءَ حَالِنَا بحُسْنِ حَالِكَ) . پس
+> خداى تعالى حسن حال دارد، آرى اين حسن حال همانست كه شيخ در فصل هجدهم
+> نمط بهجت و سرور «اشارات» فرمود: «أجل مبتهج بشي‏ء هو الاول بذاته».
+> فافهم.
 
 “Try to reach the water, although you are not cut off from water. And
 when you reach the water, you would have *husnu ‘l hāl* and your joy
@@ -283,11 +235,7 @@ Almighty God Has the State of *Husnu’l Hāl*. Yes, this State of Joy
 in chapter eighteen of the section on Joy and Happiness of his
 monumental work *al-Ishārāt*:
 
-<blockquote dir="rtl">
-  <p>
-أَجَلُّ مُبْتَهجٍ بِشَيْ‏ءٍ هُوَ الأَوَّلُ بِذَاتِهِ.
-  </p>
-</blockquote>
+> أَجَلُّ مُبْتَهجٍ بِشَيْ‏ءٍ هُوَ الأَوَّلُ بِذَاتِهِ.
 
 The Being that has the greatest joy in a thing is the First (i.e. God)
 as having joy in His Essence.”[^17]
@@ -296,15 +244,11 @@ With regard to Almighty Allāh’s sincere servants, the state of Ridā is
 known to be the state of joy and ecstasy. Shaykh al-Rā’īs also mentions
 this in section nine of his monumental *al-Ishārāt*, as follows:
 
-<blockquote dir="rtl">
-  <p>
-العَارِفُ هَشٌّ بَشٌّ بَسَّامٌ، يُبَجِّلُ الصَّغِيْرَ مِنْ تَوَاضُعِهِ
-مِثْلَ مَا يُبَجِّلُ الْكَبِيْرَ، وَ يَنْبَسِطُ مِنَ النَّبِيْه.
-وَكَيْفَ لاَ يَهُشُّ، وَهُوَ فَرْحَان بِا لْحَقِّ وَ بِكُلِّ شَيْءٍ-
-فَإِنَّهُ يَرَى فِيْهِ الْحَقَّ؟! وَكَيْفَ لاَ يُسَوِّي وَالْجَمْعُ
-عِنْدَهُ سَوَاسِيَة أَهْلُ الرَّحْمَةِ قَدْ شَغَلُوْا بِا لْبَاطِل؟!
-  </p>
-</blockquote>
+> العَارِفُ هَشٌّ بَشٌّ بَسَّامٌ، يُبَجِّلُ الصَّغِيْرَ مِنْ تَوَاضُعِهِ
+> مِثْلَ مَا يُبَجِّلُ الْكَبِيْرَ، وَ يَنْبَسِطُ مِنَ النَّبِيْه.
+> وَكَيْفَ لاَ يَهُشُّ، وَهُوَ فَرْحَان بِا لْحَقِّ وَ بِكُلِّ شَيْءٍ-
+> فَإِنَّهُ يَرَى فِيْهِ الْحَقَّ؟! وَكَيْفَ لاَ يُسَوِّي وَالْجَمْعُ
+> عِنْدَهُ سَوَاسِيَة أَهْلُ الرَّحْمَةِ قَدْ شَغَلُوْا بِا لْبَاطِل؟!
 
 “The Gnostic (*‘ārif*) is bright faced, friendly and smiling. Due to his
 modesty he honors the young as he honors the old. He is as pleased with
@@ -318,12 +262,8 @@ Avicenna’s statement “… for he sees the Truth even in everything other
 than the Truth” reminds us of the Holy Prophet (s), and the Holy Imāms
 of the Ahlu’l Bayt (as). Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا رَأَيْتُ شَيْئًا إِلاَّ وَرَأَيْتُ اللَّهَ قَبْلَهُ وَبَعْدَهُ
-وَمَعَهُ.
-  </p>
-</blockquote>
+> مَا رَأَيْتُ شَيْئًا إِلاَّ وَرَأَيْتُ اللَّهَ قَبْلَهُ وَبَعْدَهُ
+> وَمَعَهُ.
 
 “I did not see anything save that I saw Allāh before it, after it, and
 with it.”
@@ -335,14 +275,10 @@ neared his supreme sacrifice, which guaranteed the salvation of Islam
 forever: Shaykh Sadūq in his Ma’āni al-Akhbār reports Imām al-Sajjād
 (as) to have said:
 
-<blockquote dir="rtl">
-  <p>
-لماّ اشتَدَّ الأمر بِالحسين بن علي عليهما الصلاة والسلام نظر إليه من
-كان معه فإذا هو بخلافهم، لانّهم كلما اشتد الأمر تغيرت ألوانهم، وارتعدت
-فرائصهم، ووجلت قلوبهم، وكان الحسين عليه السّلام وبعض من معه من خواصه
-تشرق ألوانهم، وتهدأ جوارحهم، وتسكن نفوسهم.
-  </p>
-</blockquote>
+> لماّ اشتَدَّ الأمر بِالحسين بن علي عليهما الصلاة والسلام نظر إليه من
+> كان معه فإذا هو بخلافهم، لانّهم كلما اشتد الأمر تغيرت ألوانهم، وارتعدت
+> فرائصهم، ووجلت قلوبهم، وكان الحسين عليه السّلام وبعض من معه من خواصه
+> تشرق ألوانهم، وتهدأ جوارحهم، وتسكن نفوسهم.
 
 “When the situation became tense for Imām al-Husayn (as) those who were
 with him looked at him and saw that his state was contrary to theirs,
@@ -356,12 +292,8 @@ Pleased with his Beloved and the Beloved is pleased with him. The last
 verses of Sūratu‘l Fajr, because of which the chapter was also known as
 *Sūratu‘l Husayn* (as), also depicts the state of *Sayyid al-Shuhadā*:
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ. ارْجِعِي إِلَى رَبِّكِ
-رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي 
-  </p>
-</blockquote>
+>  يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ. ارْجِعِي إِلَى رَبِّكِ
+> رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي 
 
 ***“O soul that art at rest! Return to your Lord, well-pleased (with
 him), well-pleasing (Him), So enter among My servants, And enter into My
@@ -372,14 +304,10 @@ mystic and contemporary of the late ‘Allāmah Tabātabā’ī, is reported to
 have said. His disciple, the late Ayatullāh Muhammad Husayn al-Tehrānī
 in his Rūh-e-Mujarrad quotes him as saying:
 
-<blockquote dir="rtl">
-  <p>
-صحنة عاشوراء عاليترين مناظر عشقبازي است و زيباترين مواطن جمال و جلال
-الهي و نيكوترين اسماء رحمت و غضب و براي اهل بيت جز عبور از درجات و
-مراتب و وصول به اعلي ذروة حيات جاويدان و منسلخ شدن از مظاهر و تحقّق به
-اصل ظاهر و فناي مطلق در ذات احديت چيزي نبوده است.
-  </p>
-</blockquote>
+> صحنة عاشوراء عاليترين مناظر عشقبازي است و زيباترين مواطن جمال و جلال
+> الهي و نيكوترين اسماء رحمت و غضب و براي اهل بيت جز عبور از درجات و
+> مراتب و وصول به اعلي ذروة حيات جاويدان و منسلخ شدن از مظاهر و تحقّق به
+> اصل ظاهر و فناي مطلق در ذات احديت چيزي نبوده است.
 
 “The scene of ‘Āshurā is the sublimest expression of love and reveals
 the most beautiful scenes of Divine Beauty and Glory, and the finest
@@ -391,16 +319,12 @@ absolute annihilation in the Being of the One.”
 
 Āyatullāh Tehrānī adds saying[^21]:
 
-<blockquote dir="rtl">
-  <p>
-تحقيقا روز شادي و مسرت اهل بيت است زيرا روز كاميابي و ظفر و قبولي
-ورورد در حريم خدا و حرم امن و امان او است. روز عبور از جزئيت و دخول در
-عالم كليت است. روز پيروزي و نجاح است. روز وصول به مطلوب غائي و هدف
-اصلي است. روزي است كه گوشه اي از آن را اگر به سالكان و عاشقان و
-شوريدگان راه خدا نشان دهند در تمام عمر از فرط شادي مدهوش مي گردند و
-يكسره تا قيامت برپا شود به سجده شكر به رو در مي افتند.
-  </p>
-</blockquote>
+> تحقيقا روز شادي و مسرت اهل بيت است زيرا روز كاميابي و ظفر و قبولي
+> ورورد در حريم خدا و حرم امن و امان او است. روز عبور از جزئيت و دخول در
+> عالم كليت است. روز پيروزي و نجاح است. روز وصول به مطلوب غائي و هدف
+> اصلي است. روزي است كه گوشه اي از آن را اگر به سالكان و عاشقان و
+> شوريدگان راه خدا نشان دهند در تمام عمر از فرط شادي مدهوش مي گردند و
+> يكسره تا قيامت برپا شود به سجده شكر به رو در مي افتند.
 
 “Truly it was the day of joy and delight for the Ahlu’l Bayt as it was a
 day of success and victory, of reception into the Divine Sanctity and
@@ -423,15 +347,11 @@ sorrowful side and transcended it. He says:
 
 Āyatullāh Tehrānī says[^23]:
 
-<blockquote dir="rtl">
-  <p>
-أما ساير افراد مردم كه در عالم كثرات گرفتارند و از نفس برون نيامده اند
-حتما بايد گريه و عزاداري و سينه زني و نوحه خواني كنند تا بدين طريق
-بتوانند راه را طي كنند و بدان مقصد عالي نائل آيند...همچنانكه در روايات
-كثيرة مستفيضه ما را امر به عزاداري نموده اند تا بدين وسيله جان خود را
-پاك كنيم و با آن سروران در طي اين سبيل هم آهنگ گرديم
-  </p>
-</blockquote>
+> أما ساير افراد مردم كه در عالم كثرات گرفتارند و از نفس برون نيامده اند
+> حتما بايد گريه و عزاداري و سينه زني و نوحه خواني كنند تا بدين طريق
+> بتوانند راه را طي كنند و بدان مقصد عالي نائل آيند...همچنانكه در روايات
+> كثيرة مستفيضه ما را امر به عزاداري نموده اند تا بدين وسيله جان خود را
+> پاك كنيم و با آن سروران در طي اين سبيل هم آهنگ گرديم
 
 “But those who are still captives within the realm of multiplicity and
 have not emerged from the domain of the self, they should definitely
@@ -510,5 +430,4 @@ Al-Tawhid Quareterly Journal, v. 12, no.3, pp. 42-43
 
 [^24]: Spirit Immaterial, translated by Sayyid ‘Alī Qūlī Qarā’ī,
 Al-Tawhid Quarterly Journal, v. 12, no.3, pp. 52
-
 

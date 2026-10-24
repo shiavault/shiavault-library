@@ -113,7 +113,6 @@ is a balance between immediate and ultimate "needs." This ultimate realm
 that I have labeled [ Journey in Being | home ] can be thought of as
 true philosophy.
 
-
 **6.5 The education of the philosopher**
 
 It may be too much to ask that a philosopher be trained in all the
@@ -261,10 +260,8 @@ of being; cosmology; the nature of existence, of categories, the problem
 of substance and of spirit; the nature of mind and matter and the
 classical mind-matter problem.
 
-
 LATEST REVISION AND COPYRIGHT
 
 ANIL MITRA PHD, COPYRIGHT 1988, SECOND EDITION 2002, AND REVISED June
 2003
-
 

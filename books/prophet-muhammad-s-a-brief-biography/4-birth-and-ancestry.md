@@ -35,4 +35,3 @@ banquet for the Quraish, to celebrate the auspicious occasion. Makkah
 overflowed with joy as throngs of people flocked to Abdul Muttalib's
 house to congratulate him on the birth of his grandchild.
 
-

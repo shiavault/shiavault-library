@@ -94,4 +94,3 @@ Allah likes for us to work hard and do things for ourselves.
 You should always try hard to do something by yourself and only when
 you have tried and can not do it you should ask for help.
 
-

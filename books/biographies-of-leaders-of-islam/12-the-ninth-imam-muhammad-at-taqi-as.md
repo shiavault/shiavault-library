@@ -323,4 +323,3 @@ called TAQAWIS. But as IMAM AR-RIDA (AS) had been famous as the
 heir-apparent of AL-MA'MUN, his descendants wish to be introduced as
 RADAWIS.
 
-

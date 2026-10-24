@@ -45,12 +45,8 @@ why he was placed on this Earth, which is beautifully illustrated in the
 Noble Qur\`an, we can then begin to understand the reason why Allah
 (SWT) appointed prophets to humanity, just as He (SWT) clearly tells us:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولاً أَنِ اعْـبُدُوا اللهَ
-وَاجْتَنِبُوا الطَّاغُوتَ..
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولاً أَنِ اعْـبُدُوا اللهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ..
 
 ***“Indeed We raised an apostle in every nation [to preach:] ‘Worship
 Allah, and keep away from the despot...’***”[^1]
@@ -185,14 +181,10 @@ times in one surah – one after the other! In these verses, He (SWT) has
 severely castigated those who rule and adjudicate by anything other than
 the revelation of the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-. وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزَلَ اللهُ فَأُوْلَئِكَ هُمُ
-الْكَافِرُونَ...وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزَلَ اللهُ فَأُوْلَئِكَ
-هُمُ الظَّالِمُونَ...وَمَنْ لَمْ يَحْكُمْ بِـــمَا أَنزَلَ اللهُ
-فَـــأُوْلَئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> . وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزَلَ اللهُ فَأُوْلَئِكَ هُمُ
+> الْكَافِرُونَ...وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزَلَ اللهُ فَأُوْلَئِكَ
+> هُمُ الظَّالِمُونَ...وَمَنْ لَمْ يَحْكُمْ بِـــمَا أَنزَلَ اللهُ
+> فَـــأُوْلَئِكَ هُمُ الْفَاسِقُونَ
 
 ***“ ... Those who do not judge by what Allah has sent down, it is they
 who are the*** ***faithless ...*** ***Those who do not judge by what
@@ -308,5 +300,4 @@ that anyone who is alive may be warned, and that the word may come due
 against the faithless.”
 
 [^5]: Islamic Government: Governance of the Jurist
-
 

@@ -8,7 +8,6 @@ example, if hands or feet become disabled or one loses his eyesight or
 ears become deaf, then the person loses his authority over his body
 parts.
 
-
 **Wilayat e Sharie**
 
 The sharia gives this wilayat to mankind. For example, a father is wali
@@ -41,7 +40,6 @@ The example of Balam Baoor is in front of us. Allah blessed him with
 His Ism e Azm, but he became treacherous towards the Proofs of Allah, Hz
 Musa (as) and Hz Haroon (as) and Allah removed this blessing of Ism e
 Azm from him.
-
 
 **Wilayat e Illahiya Sughra**
 
@@ -207,5 +205,4 @@ that which begins with Moula (as), ends with Moula (as), its zahir
 is the wilayat e Ameerul Momineen (as). If you wish to rid of yourself
 of falsehood and begin searching for the truth, our books are very
 useful in this regard.
-
 

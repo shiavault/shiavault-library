@@ -64,4 +64,3 @@ together to make it a memorable occasion. Eid prayers, and other
 programs held to celebrate it allow Muslims to meet and enjoy the
 company of one another.
 
-

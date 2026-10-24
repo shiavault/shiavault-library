@@ -3,12 +3,8 @@ Lesson Ninety Two: Sinful Ways Solve Nothing!
 
 Imam Husayn (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَاوَلَ أَمْراً بِمَعْصِيَةِ اللّهِ كانَ أَفْوَتُ لِما يَرجُو و
-اَسْرَعُ لِما يَحْذِرُ
-  </p>
-</blockquote>
+> مَنْ حَاوَلَ أَمْراً بِمَعْصِيَةِ اللّهِ كانَ أَفْوَتُ لِما يَرجُو و
+> اَسْرَعُ لِما يَحْذِرُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ anxiety which he had feared.
 
 [^1]: Tuhaful Uqul, page 977. Al-Kafi, vol 2, page 373. Wasa'il Al-Shia,
 vol 16, page 153.
-
 

@@ -229,7 +229,6 @@ only we, as a specimen, have made a mention of a few of them. Whosoever
 understands them clearly, shall have a clear understanding of the
 concept of Shirk and Tauhid. In sha 'Allah.
 
-
 **Chapter Two : Categories and aspects of Shirk (Polytheism)**
 
 It is necessary to gain knowledge about the characteristics which Allah
@@ -450,5 +449,4 @@ Allah.
 These four kinds of Shirk have been clearly stated in the Qur'an and
 Hadith and therefore we shall be mentioning about them in the next
 chapters.
-
 

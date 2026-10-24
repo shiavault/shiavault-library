@@ -797,10 +797,9 @@ into man, (because) not to allow any change to corrupt what Allah has
 thus created is the (purpose of the one) ever-true faith. But most
 people do not know this. (Al-Rum 30:30).
 
-[^1] professor Al-Akkad, Allah, p.l17.
+[^1]: professor Al-Akkad, Allah, p.l17.
 
-[^2] Ibid., pp. 139-140
+[^2]: Ibid., pp. 139-140
 
-[^3] Ibid., p. 187-188.
-
+[^3]: Ibid., p. 187-188.
 

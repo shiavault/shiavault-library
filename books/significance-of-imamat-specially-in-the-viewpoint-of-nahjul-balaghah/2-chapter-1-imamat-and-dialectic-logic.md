@@ -112,4 +112,3 @@ leaving intact its shape and appearance by changing its courseand its
 goal and altering its meaning.[^3] The simple-minded Muslims must be
 aware of the fraud of this group.
 
-

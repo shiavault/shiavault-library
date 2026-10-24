@@ -520,4 +520,3 @@ and a perfection. He feels to be a being who can never be annihilated
 and even whose death is the beginning of a new era of life.  
   
 
-

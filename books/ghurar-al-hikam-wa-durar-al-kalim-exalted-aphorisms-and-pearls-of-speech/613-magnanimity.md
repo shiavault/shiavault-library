@@ -7,11 +7,7 @@ Magnanimity
 his earning that which embellishes him.
 
 > 1ـ اَلْمُـرُوءَةُ اجْتِنابُ الرَّجُلِ ما يَشِينُهُ واكْتِسابُهُ ما
-<blockquote dir="rtl">
-  <p>
-يَزينُهُ.
-  </p>
-</blockquote>
+> يَزينُهُ.
 
 2. Magnanimity is [displaying] equity when in authority, showing
 forgiveness despite having the power [to take revenge] and being
@@ -19,11 +15,7 @@ financially supportive [to those in need] in one’s society (or in times
 of hardship).
 
 > 2ـ اَلْمُرُوءَةُ اَلْعَدْلُ فِي الإمْرَةِ، والعَفْوُمَعَ القُدْرَةِ،
-<blockquote dir="rtl">
-  <p>
-والمُواساةُ فِي العِشْرَةِ (العُسْرَةِ).
-  </p>
-</blockquote>
+> والمُواساةُ فِي العِشْرَةِ (العُسْرَةِ).
 
 3. Magnanimity is spreading goodness and being hospitable to guests.
 
@@ -64,21 +56,13 @@ brothers.
 keeping away from vile traits.
 
 > 11ـ أوَّلُ المُرُوءَةِ طاعَةُ اللّهِ، وآخِرُها التَّنَزُّهُ عَنِ
-<blockquote dir="rtl">
-  <p>
-الدَّنايا.
-  </p>
-</blockquote>
+> الدَّنايا.
 
 12. The beginning of magnanimity is [having] a cheerful mien and its end
 is being affectionate towards the people.
 
 > 12ـ أوَّلُ المُرُوءَةِ طَلاقَةُ الوَجْهِ، وآخِرُها التَّوَدُّدُ إلَى
-<blockquote dir="rtl">
-  <p>
-النّاسِ.
-  </p>
-</blockquote>
+> النّاسِ.
 
 13. The beginning of magnanimity is cheerfulness and its end is
 persistence in righteousness.
@@ -94,11 +78,7 @@ chastity.
 brothers with [your] wealth, and treating them as your equals in status.
 
 > 15ـ أفْضَلُ المُرُوءَةِ مُواساةُ الإخْوانِ بِالأمْوالِ، ومُساواتُهُمْ
-<blockquote dir="rtl">
-  <p>
-فِي الأحْوالِ.
-  </p>
-</blockquote>
+> فِي الأحْوالِ.
 
 16. Magnanimity is fulfilling one’s promise.
 
@@ -144,54 +124,34 @@ brothers with [your] wealth, and treating them as your equals in status.
 one’s voice and walking with modesty.
 
 > 26ـ ثَلاثٌ فيهِنَّ المُرُوءَةُ: غَضُّ الطَّرْفِ، وغَضُّ الصَّوْتِ،
-<blockquote dir="rtl">
-  <p>
-وَمَشْيُ القَصْدِ.
-  </p>
-</blockquote>
+> وَمَشْيُ القَصْدِ.
 
 27. Three things are the consolidators of magnanimity: Giving without
 being asked, being faithful without having made a promise and being
 generous despite having less.
 
 > 27ـ ثَلاثٌ هُنَّ جِماعُ المُرُوءَةِ: عَطاءٌ مِنْ غَيْرِ مَسْئَلَة،
-<blockquote dir="rtl">
-  <p>
-ووَفاءٌ مِنْ غَيْرِ عَهْد، وَجُودٌ مَعَ إقْلال.
-  </p>
-</blockquote>
+> ووَفاءٌ مِنْ غَيْرِ عَهْد، وَجُودٌ مَعَ إقْلال.
 
 28. Three things amount to magnanimity: generosity despite poverty [and
 hardship], tolerance of everything other than humiliation and refraining
 from asking others.
 
 > 28ـ ثَلاثَةٌ هُنَّ المُرُوءَةُ: جُودٌ مَعَ قِلَّة، واحْتِمالٌ مِنْ
-<blockquote dir="rtl">
-  <p>
-غَيْرِ مَذَلَّة، وتَعَفُّفٌ عَنِ المَسْئَلَةِ.
-  </p>
-</blockquote>
+> غَيْرِ مَذَلَّة، وتَعَفُّفٌ عَنِ المَسْئَلَةِ.
 
 29. The completeness of magnanimity is for you not to do in private what
 you would feel ashamed of doing in front of others.
 
 > 29ـ جِماعُ المُرُوءَةِ أنْ لاتَعْمَلَ فِي السِّرِّ ما تَسْتَحْيي
-<blockquote dir="rtl">
-  <p>
-مِنْهُ فِي العَلانِيَةِ.
-  </p>
-</blockquote>
+> مِنْهُ فِي العَلانِيَةِ.
 
 30. Two qualities have in them the consolidation of magnanimity: a
 person’s eschewing that which disgraces him and his acquiring that which
 embellishes him.
 
 > 30ـ خَصْلَتانِ فيهِما جِماعُ المُرُوءَةِ: اِجْتِنابُ الرَّجُلِ ما
-<blockquote dir="rtl">
-  <p>
-يَشينُهُ، واكْتِسابُهُ ما يَزينُهُ.
-  </p>
-</blockquote>
+> يَشينُهُ، واكْتِسابُهُ ما يَزينُهُ.
 
 31. One’s magnanimity is to the extent of the nobility of his soul.
 
@@ -201,11 +161,7 @@ embellishes him.
 not treat his enemies justly cannot be attributed with magnanimity.
 
 > 32ـ لَمْ يَتَّصِفْ بِالمُرُوَّةِ مَنْ لَمْ يَرْعَ ذِمَّةَ أوْلِيائِهِ
-<blockquote dir="rtl">
-  <p>
-ويُنْصِفْ أعْدائَهُ.
-  </p>
-</blockquote>
+> ويُنْصِفْ أعْدائَهُ.
 
 33. If magnanimity was not difficult to acquire and heavy to bear, the
 wicked and ignorant ones would not have left from it anything even for a
@@ -214,13 +170,9 @@ so the wicked and ignorant turned away from it and the honourable and
 virtuous ones adopted it.
 
 > 33ـ لَوْ أنَّ المُرُوَّةَ لَمْ تَشْتَدَّ مَؤُنَتُها، ويَثْقُلُ
-<blockquote dir="rtl">
-  <p>
-مَحْمِلُها ما تَرَكَ اللِّئامُ الأغْمارُ مِنْها مَبيتَ لَيْلَة،
-ولكِنَّهَا اشْتَدَّتْ مَؤُنَتُها، وثَقُلَ مَحْمِلُها، فَحادَ عَنْها
-اللِّئامُ الأغْمارُ، وحَمَلَهاَ الكِرامُ الأخْيارُ.
-  </p>
-</blockquote>
+> مَحْمِلُها ما تَرَكَ اللِّئامُ الأغْمارُ مِنْها مَبيتَ لَيْلَة،
+> ولكِنَّهَا اشْتَدَّتْ مَؤُنَتُها، وثَقُلَ مَحْمِلُها، فَحادَ عَنْها
+> اللِّئامُ الأغْمارُ، وحَمَلَهاَ الكِرامُ الأخْيارُ.
 
 34. Part of magnanimity is going beyond one’s [normal] capacity in
 working for [the pleasure of] Allah.
@@ -249,11 +201,7 @@ himself.
 there is no good in a religion which has no magnanimity in it.
 
 > 39ـ مِنْ أفْضَلِ الدّينِ المُرُوَّةُ ولاخَيْرَ في دين لَيْسَ لَهُ
-<blockquote dir="rtl">
-  <p>
-(فيهِ) مُرُوَّةٌ.
-  </p>
-</blockquote>
+> (فيهِ) مُرُوَّةٌ.
 
 40. Staying clear of vile traits is from the completeness of
 magnanimity.
@@ -274,32 +222,20 @@ excellent magnanimity.
 right upon others while recalling their right upon you.
 
 > 43ـ مِنْ تَمامِ المُرُوَّةِ أنْ تَنْسَى الحَقَّ لَكَ، وتَذْكُرَ
-<blockquote dir="rtl">
-  <p>
-الحَقَّ عَلَيْكَ.
-  </p>
-</blockquote>
+> الحَقَّ عَلَيْكَ.
 
 44. It is from magnanimity for you to go out of your way when you are
 asked [for something] and to lighten [your requests] when you ask
 [someone for anything].
 
 > 44ـ مِنَ المُرُوَّةِ أنَّكَ إذا سُئِلْتَ أنْ تَتَكَلَّفَ وإذا سَأَلْتَ
-<blockquote dir="rtl">
-  <p>
-أنْ تُخَفِّفَ.
-  </p>
-</blockquote>
+> أنْ تُخَفِّفَ.
 
 45. It is part of magnanimity for you to be moderate and not
 extravagant, and to keep the promises you make.
 
 > 45ـ مِنَ المُرُوَّةِ أنْ تَقْتَصِدَ فَلا تُسْرِفَ، وتَعِدَ فَلا
-<blockquote dir="rtl">
-  <p>
-تُخْلِفَ.
-  </p>
-</blockquote>
+> تُخْلِفَ.
 
 46. Bearing the offences of one’s brothers is from magnanimity.
 
@@ -337,12 +273,8 @@ to make him obey Allah, the Glorified, and restraining him from
 disobeying Him, and increasing your censure [of him] for it.
 
 > 53ـ نِظامُ المُرُوَّةِ في مُجاهَدَةِ أخيكَ عَلى طاعَةِ اللّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ، وصَدِّهِ عَنْ مَعاصيهِ، وأنْ تُـكْثِرَ عَلى ذلِكَ
-مَلامَهُ،(وَأنْ تَكَثَّر عَلى ذلِكَ مَلامُهُ).
-  </p>
-</blockquote>
+> سُبْحانَهُ، وصَدِّهِ عَنْ مَعاصيهِ، وأنْ تُـكْثِرَ عَلى ذلِكَ
+> مَلامَهُ،(وَأنْ تَكَثَّر عَلى ذلِكَ مَلامُهُ).
 
 54. Magnanimity is not perfected except for the intelligent one.
 
@@ -365,20 +297,11 @@ acts.
 refraining from harming others.
 
 > 58ـ يُسْتَدَلُّ عَلَى المُرُوَّةِ بِكَثْرَةِ الحَياءِ، وبَذْلِ
-<blockquote dir="rtl">
-  <p>
-النَّدى، وكَفِّ الأذى.
-  </p>
-</blockquote>
+> النَّدى، وكَفِّ الأذى.
 
 59. The magnanimity of a person is evinced by [his] spreading goodness,
 granting favours and abandoning [putting others under] obligation.
 
 > 59ـ يُسْتَدَلُّ عَلى مُرُوَّةِ الرَّجُلِ بِبَثِّ المَعْرُوفِ، وَبَذْلِ
-<blockquote dir="rtl">
-  <p>
-الإحْسانِ، وتَرْكِ الاِمْتِنانِ.
-  </p>
-</blockquote>
-
+> الإحْسانِ، وتَرْكِ الاِمْتِنانِ.
 

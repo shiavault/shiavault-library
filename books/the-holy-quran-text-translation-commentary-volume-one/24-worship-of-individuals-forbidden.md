@@ -156,12 +156,10 @@ authority.'' The verse then ends in showing the unbelievers' final
 destiny and destination, which is the Fire of Hell! \`\`And indeed a bad
 abode is that of the oppressors.''
 
-<p dir="rtl">
 وَلَقَدْ صَدَقَكُمُ اللهُ وَعْدَهُ إِذْ تَحُسُّونَهُمْ بِإِذْنِهِ
 حَتَّى إِذَا فَشِلْتُمْ وَتَنَـازَعْتُمْ فِى الاَْمْرِ وَعَصَيْتُم مِّن
 بَعْدِ مَآ أَرَاكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ الدُّنْيَا
 وَمِنكُم مَّن يُرِيدُ الاَْخِرَةَ ثُمَّ
-</p>
 
 [ 430 ]
 
@@ -184,12 +182,10 @@ AFTER GRIEF, THAT YOU MAY NOT SORROW FOR WHAT ESCAPED YOU (OF BOOTY) AND
 NEITHER FOR THE ILL THAT HAD BEFALLEN YOU, AND ALLAH IS AWARE OF
 WHATEVER YOU DO.
 
-<p dir="rtl">
 ثُمَّ أَنزَلَ عَلَيْكُمْ مِن بَعْدِ الْغَمِّ أَمَنَةً نُّعَاساً يَغْشَى
 طَآئفَةً مِّنكُمْ وَطَآئفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ
 بِاللهِ غَيْرَ الْحَقِّ ظَنَّ الْجَـاهِلِيّةِ يَقُولُونَ هَل لَّنَا مِنَ
 الاَْمْرِ مِن شَىْء قُلْ إِنَّ الاَْمْرَ
-</p>
 
 [ 431 ]
 
@@ -588,5 +584,4 @@ whatever they do.
 RAISED AMONG THEM A MESSENGER FROM THEMSELVES, WHO RECITES TO THEM HIS
 SIGNS (REVELATIONS), AND PURIFIES THEM, AND TEACHES THEM THE BOOK AND
 WISDOM; WHILE BEFORE, THEY WERE IN MANIFEST ERROR.
-
 

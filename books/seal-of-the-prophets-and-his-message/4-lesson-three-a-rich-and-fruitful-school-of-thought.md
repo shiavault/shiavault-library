@@ -243,4 +243,3 @@ weigh the offense carefully and specify a punishment corresponding to
 the degree of seriousness of the crime and take into consideration the
 situation of the criminal.
 
-

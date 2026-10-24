@@ -3,11 +3,7 @@ Lesson One Hundred Thirty Five: Source Of Evils
 
 The Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-اِجْتَنِبِ الْخَمْرَ فَإِنَّها مِفْتاحُ كُلِّ شَرٍّ
-  </p>
-</blockquote>
+> اِجْتَنِبِ الْخَمْرَ فَإِنَّها مِفْتاحُ كُلِّ شَرٍّ
 
 Translation
 -----------
@@ -27,5 +23,4 @@ comprehensive , as the valuable tradition of our Prophet which , in one
 short sentence, says it all.
 
 [^1]: Nahjul Fasahah, page 1
-
 

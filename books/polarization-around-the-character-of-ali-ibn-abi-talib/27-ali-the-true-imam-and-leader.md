@@ -29,4 +29,3 @@ things with which the Shi\`ah community is now sorely afflicted.
 ma'sum (immaculates) - the Prophet, his daughter Fatimah, and the twelve
 Imams. (tr.)
 
-

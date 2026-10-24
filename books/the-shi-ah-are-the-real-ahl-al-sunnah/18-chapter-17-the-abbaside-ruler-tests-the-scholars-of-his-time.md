@@ -255,7 +255,7 @@ followed the innovations of their rulers among their predecessors and
 the latter's posterity; moreover they truly cannot prove their claims at
 all.
 
-[^80] On p. 150, Vol. 2, of his book Tarikh al-Khulafa, Ibn Qutaybah
+[^80]: On p. 150, Vol. 2, of his book Tarikh al-Khulafa, Ibn Qutaybah
 indicates that their first meeting took place in 148 A.H./765 A.D. and
 the second one took place during the season of the pilgrimage in 163
 A.H./780 A.D. We say that Malik used to meet the caliph quite often, and
@@ -265,13 +265,13 @@ because such narrations contained very important issues. It is not
 rational to say that the caliph used to meet with his state's supreme
 judge only once every fifteen years.
 
-[^81] Ibid., Vol. 2, p. 142.
-[^82] Ibn Qutaybah, Tarikh al-Khulafa, Vol. 2, p. 144.
-[^83] Tadhkirat al-Huffaz, Vol. 1, p. 176.
-[^84] Such admission is recorded on p. 524 of al-Shafi\`i's book
+[^81]: Ibid., Vol. 2, p. 142.
+[^82]: Ibn Qutaybah, Tarikh al-Khulafa, Vol. 2, p. 144.
+[^83]: Tadhkirat al-Huffaz, Vol. 1, p. 176.
+[^84]: Such admission is recorded on p. 524 of al-Shafi\`i's book
 Al-Manaqib.
-[^85] You have already come across Malik's statement that, "No eyes had
+[^85]: You have already come across Malik's statement that, "No eyes had
 ever seen, nor ears have ever heard, nor anyone saw anyone a better
 jurist than Ja\`far ibn Muhammad al-Sadiq.
-[^86] Zahara al-Islam, Vol. 4, p. 96.
+[^86]: Zahara al-Islam, Vol. 4, p. 96.
 

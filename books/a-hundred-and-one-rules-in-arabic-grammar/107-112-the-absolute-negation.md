@@ -13,4 +13,3 @@ Check the following examples:
 
 ****3.** There is a no man in the house.   لا رَجُلَ في البَيتِ.**
 
-

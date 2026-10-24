@@ -36,4 +36,3 @@ were all full. The uncle admired that. So, he said to his nephew:
 
 *“Muhammad you're blessed!”*
 
-

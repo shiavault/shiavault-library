@@ -442,4 +442,3 @@ shameless thing. I cannot hand over my guest to you so that you kill
 him." Ibn Ziyâd: "By Allâh, you must deliver him." Hâni: "I will never
 do so."
 
-

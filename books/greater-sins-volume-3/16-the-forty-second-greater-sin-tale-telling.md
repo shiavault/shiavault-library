@@ -220,4 +220,3 @@ bloodshed. All as a consequence of tale telling.
 
 [^5]: Wasa’il ul-Shia
 
-

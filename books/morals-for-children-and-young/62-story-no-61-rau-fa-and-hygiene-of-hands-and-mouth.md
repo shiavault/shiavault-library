@@ -14,4 +14,3 @@ to brush our teeth after meals.
 Bravo to those teachers who make children aware of the recommended
 schedule in Islam.
 
-

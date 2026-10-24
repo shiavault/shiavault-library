@@ -353,4 +353,3 @@ teaching Kharij al-Fiqh and the *Usul* for more than forty years, and he
 used to teach this subject at his house in order to avoid fame. Many men
 of virtue benefited from him during those long past years.
 
-

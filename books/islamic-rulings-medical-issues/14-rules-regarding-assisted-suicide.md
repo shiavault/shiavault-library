@@ -20,4 +20,3 @@ death, so the second method would be permissible. But, any action that
 would cause death would not be permissible, for example, the other two
 scenarios.
 
-

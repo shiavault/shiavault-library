@@ -1366,4 +1366,3 @@ loc. cit.; Baladhuri, I, p. 588; 'Iqd, IV, p.259; Hadid, II, pp. 50 ff.
 
 [^83]: e.g. see Ibn Sa'd, III, pp. 181-5
 
-

@@ -144,4 +144,3 @@ did he tell some people out right to their face what others could never
 say?" Such confidence depends completely upon being convinced that one
 has a true divine revelation.
 
-

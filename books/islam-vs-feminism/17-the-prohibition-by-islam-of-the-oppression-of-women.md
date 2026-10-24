@@ -22,4 +22,3 @@ legal religious authorities may intervene even when there has been no
 explicit violation of Islamic precepts in case of mistreatment of a wife
 by her husband.31
 
-

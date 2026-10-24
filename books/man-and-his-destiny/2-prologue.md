@@ -621,4 +621,3 @@ It is hoped this book will prove useful and interesting to the
 inquisitive reader, and it would also remove his doubts in regard to the
 subject discussed, and would enlighten him to an appreciable degree.
 
-

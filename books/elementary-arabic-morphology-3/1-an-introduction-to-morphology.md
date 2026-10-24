@@ -26,4 +26,3 @@ because they remain in one form.
 imperative cases. Nouns are conjugated by putting them into the single,
 dual, plural, diminutive, and possessive forms.
 
-

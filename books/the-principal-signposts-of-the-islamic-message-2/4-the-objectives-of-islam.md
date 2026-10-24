@@ -28,7 +28,6 @@ This enables man to cleave to the road of safety in reaching Allah, and
 insures his fate on the day of returning to the world of eternity and
 lasting existance.
 
-
 **2. Preserving Life's Order**
 
 The Islamic message aims at preserving the order of life. to realize
@@ -138,7 +137,6 @@ cultivation of the earth, exploiting its wealth, improving it via
 knowledge and good work, and using man s energies in the field of good
 deeds and constructive active.
 
-
 **CONCLUSION**
 
 Mankind, in the bitterness of historical struggle. and because of the
@@ -227,7 +225,6 @@ and nothing else.
 
 Praise be to Allah, Lord of the worlds.
 
-
 **Footnotes**
 
 1-Those who are born to Muslim parents are regarded Muslims by birth.
@@ -266,5 +263,4 @@ p.39.87
 26- Sayid Muhammad Baqir al-Sadr, al-Ma'alim al-Jadidah, p.l48.
 27-Muhammad Mahdi al-Na qrani~ Jami' al-Sa adat, vol.3, p.113.
 28- See our book Who is the Law-Maker'
-
 

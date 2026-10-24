@@ -11,4 +11,3 @@ is very much clear which people constituted the opposing groups and
 which group was on the side of Yazeed and which one sided with Imam
 Husayn (a.s.).
 
-

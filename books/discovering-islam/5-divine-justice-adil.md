@@ -73,4 +73,3 @@ befalls you is from yourself”** (4:79).
 [^1]: “We” refers to God. Sometimes “We” is used instead of “I” or
 “Allah” in the Quran to refer to God.
 
-

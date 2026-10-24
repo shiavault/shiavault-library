@@ -427,4 +427,3 @@ has washed and purified a thing with water when the thing is in his
 possession or he is reliable, his word should be accepted and the same
 orders apply if he says that a thing is impure.
 
-

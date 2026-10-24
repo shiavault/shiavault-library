@@ -14,22 +14,14 @@ through the remnants (and symbols) of the *awliya’*.
 **1.** In the Holy Qur’an we read that when Yusuf (Joseph) the Truthful
 (*‘a*) introduced himself to his brothers and forgave them, he said:
 
-<blockquote dir="rtl">
-  <p>
-"اذهبوا بقميصي هذا فألقوه على وجه أبي يأتي بصيراً."
-  </p>
-</blockquote>
+> "اذهبوا بقميصي هذا فألقوه على وجه أبي يأتي بصيراً."
 
 ***“Take this shirt of mine, and cast it upon my father’s face; he will
 regain his sight.”***[^1]
 
 Then, the Qur’an recounts:
 
-<blockquote dir="rtl">
-  <p>
-"فلما أن جاء البشير ألقه على وجهه فارتدّ بصيراً."
-  </p>
-</blockquote>
+> "فلما أن جاء البشير ألقه على وجهه فارتدّ بصيراً."
 
 ***“When the bearer of good news arrived, he cast it on his face, and he
 regained his sight.”***[^2]
@@ -47,11 +39,7 @@ within the ambit of monotheism and worship of God?!
 Stone {*Hajar al-Aswad*}.  
  Bukhari in his *Sahih* says:
 
-<blockquote dir="rtl">
-  <p>
-"رأيت رسول الله صلى الله عليه وأله وسلم يستلمه ويقبّله."
-  </p>
-</blockquote>
+> "رأيت رسول الله صلى الله عليه وأله وسلم يستلمه ويقبّله."
 
 “I saw the Messenger of Allah (S) touch and kiss it (*Hajar
 al-Aswad*).”[^3]  
@@ -71,11 +59,7 @@ and we shall mention only some of them:
 a description of some of the features of the Prophet (S) and his
 Companions, and says:
 
-<blockquote dir="rtl">
-  <p>
-"وإذا كادوا توضأ يقتتلون على وضوئه."
-  </p>
-</blockquote>
+> "وإذا كادوا توضأ يقتتلون على وضوئه."
 
 “When he (Prophet) performed *wudu’*, they (Muslims) would seemingly
 fight with one another (in order to get some of the water the Prophet
@@ -83,11 +67,7 @@ fight with one another (in order to get some of the water the Prophet
 
 **b.** Ibn Hajar says:
 
-<blockquote dir="rtl">
-  <p>
-"إن النبيّ صلى الله عليه وأله وسلم كان يؤتي بالصبيان فيبرك عليهم."
-  </p>
-</blockquote>
+> "إن النبيّ صلى الله عليه وأله وسلم كان يؤتي بالصبيان فيبرك عليهم."
 
 “They brought children to the Prophet (S) and he blessed them.”[^5]
 
@@ -105,13 +85,9 @@ mouth of the waterskin so as to keep for herself the place of the
 Prophet’s mouth whereby she sought blessing {*tabarruk*}. Similarly, the
 Companions would drink water from where the Prophet used to drink’.”[^6]
 
-<blockquote dir="rtl">
-  <p>
-"كان رسول الله صلى الله عليه وأله وسلم إذا صلى الغداة جاء خدم المدينة
-بأنيتهم فيها الماء فما يؤتي بإناء إلا غمس يده فيه فربما جاؤوه في
-الغداة الباردة فيغمس يده فيها."
-  </p>
-</blockquote>
+> "كان رسول الله صلى الله عليه وأله وسلم إذا صلى الغداة جاء خدم المدينة
+> بأنيتهم فيها الماء فما يؤتي بإناء إلا غمس يده فيه فربما جاؤوه في
+> الغداة الباردة فيغمس يده فيها."
 
 “The servants of Medina used to go to the Messenger of Allah (S) after
 morning {*subh*} prayer with vessels full of water and he would place
@@ -142,12 +118,8 @@ al-Bayt* (*‘a*), it is only because they love the Holy Prophet (S) and
 his progeny, and this is an issue of human emotion, which manifests
 itself in the person in love. A sweet-tongued man of letter says:
 
-<blockquote dir="rtl">
-  <p>
-"أمر على الديار ديار سلمى أقبل ذا الجدار و ذا الجدار و ما حب الديار
-شغفن قلبي ولكن حب من سكن الديار.
-  </p>
-</blockquote>
+> "أمر على الديار ديار سلمى أقبل ذا الجدار و ذا الجدار و ما حب الديار
+> شغفن قلبي ولكن حب من سكن الديار.
 
 *By Layla’s residence I pass; I kiss this wall and that wall.*  
 *It is not the love of residence that gladdens my heart; rather, the
@@ -175,5 +147,4 @@ Al-Muwatta’, vol. 1, the section on invoking blessings to the Prophet
 (S), p. 138; Asad al-Ghabah, vol. 5, p. 90; Musnab Ahmad ibn Hanbal,
 vol. 4, p. 32; Al-Isti‘ab, vol. 3, at the margin of “al-Isabah,” p. 631;
 Fath al-Bari, vol. 1, pp. 281-282.
-
 

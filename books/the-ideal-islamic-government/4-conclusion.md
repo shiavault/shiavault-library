@@ -26,4 +26,3 @@ guidance can be bad for the propagation of right and justice, the
 establishment of peace and security, and the prosperity and well-being
 of the people.
 
-

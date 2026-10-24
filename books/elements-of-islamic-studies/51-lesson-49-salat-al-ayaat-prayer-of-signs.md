@@ -59,4 +59,3 @@ lahu kufuwan ahad'* before the the 5th *ruku’*,
 in one *rak’at*. You may recite one *rak’at* in one way and the other
 *rak’at* in the other way.
 
-

@@ -56,22 +56,14 @@ support in times of tribulation.
 as its causes are severed.
 
 > 12ـ إخوانُ الدُّنيا تَنْقَطِعُ مَوَدَّتُهُمْ لِسُرْعَةِ انْقِطاعِ
-<blockquote dir="rtl">
-  <p>
-أسبابِها.
-  </p>
-</blockquote>
+> أسبابِها.
 
 13. The best of your brothers is he who supports you with his
 benevolence, and better than him is one who makes you needless of all
 other than him.
 
 > 13ـ خَيرُ إخْوانِكَ مَنْ واساكَ بِخيرِهِ وخَيرٌ منهُ مَنْ أغناكَ عَنْ
-<blockquote dir="rtl">
-  <p>
-غيرِهِ.
-  </p>
-</blockquote>
+> غيرِهِ.
 
 14. The best of brothers are the most sincere [of them] and the worst of
 them are the most
@@ -98,33 +90,21 @@ remain [alive].
 you towards it, and enjoins you to righteousness and assists you in it.
 
 > 18ـ خيرُ إخوانِكَ مَنْ سارَعَ إلَى الخَيرِ وجَذَبَكَ إليه، وأمَرَكَ
-<blockquote dir="rtl">
-  <p>
-بِالبِرِّ وَأعانَكَ علَيْهِ.
-  </p>
-</blockquote>
+> بِالبِرِّ وَأعانَكَ علَيْهِ.
 
 19. The best of your brothers is the one who exhorts you to speak the
 truth by his own veracity and compels you to perform the best deeds by
 his own good actions.
 
 > 19ـ خَيرُ إخوانِكَ مَنْ دَعاكَ إلى صِدْقِ المَقالِ بِصِدقِ مَقالِهِ
-<blockquote dir="rtl">
-  <p>
-ونَدَبَكَ إلى أفْضلِ الأعمالِ بِحُسنِ أعمالهِ.
-  </p>
-</blockquote>
+> ونَدَبَكَ إلى أفْضلِ الأعمالِ بِحُسنِ أعمالهِ.
 
 20. The best of your brothers is the one who shows you the path of
 guidance, makes you acquire piety and prevents you from following your
 lowly desires.
 
 > 20ـ خَيرُ إخوانِكَ مَنْ دَلَّكَ على هُدىً، وألبَسَكَ(أكْسَبَكَ) تُقىً،
-<blockquote dir="rtl">
-  <p>
-وَصَدَّكَ عَنْ إتّباعِ هَوىً.
-  </p>
-</blockquote>
+> وَصَدَّكَ عَنْ إتّباعِ هَوىً.
 
 21. The best of your brothers is the one who assists you financially [in
 your time of need].
@@ -154,31 +134,19 @@ your vain desires, [by this] you will join the company of the Exalted
 Assembly.
 
 > 26ـ صاحبِ العُقلاءَ وجالِسِ العُلَماءَ، وأغْلِبِ الهوى، تُرافِقِ
-<blockquote dir="rtl">
-  <p>
-المَلأ الأعلى.
-  </p>
-</blockquote>
+> المَلأ الأعلى.
 
 27. Accompany the wise, associate with the forbearing and turn away from
 this world - you shall dwell in the Garden of the Abode.
 
 > 27ـ صاحبِ الحُكَماءَ، وجالِسِ الحُلَماءَ، وأعرِضْ عَنِ الدُّنيا
-<blockquote dir="rtl">
-  <p>
-تَسْكُنْ جَنَّةَ المأوى.
-  </p>
-</blockquote>
+> تَسْكُنْ جَنَّةَ المأوى.
 
 28. Association with the wicked leads one to become evil, just like the
 wind - when it passes by a foul smell, it carries the stench.
 
 > 28ـ صُحبَةُ الأشرارِ تُكْسِبُ الشَّرَّ كالرّيحِ إذا مَرَّتْ بالنَّتِنِ
-<blockquote dir="rtl">
-  <p>
-حَمَلَتْ نَتِناً.
-  </p>
-</blockquote>
+> حَمَلَتْ نَتِناً.
 
 29. Accompanying a fool is torment for the soul.
 
@@ -217,21 +185,13 @@ surely he is the best of companions.
 embellishment in times of ease and a support in [times of] tribulation.
 
 > 36ـ عَليكَ بإخْوانِ الصَّفا فإنّهُمْ زينَةٌ فِي الرَّخاءِ وعَونٌ فِي
-<blockquote dir="rtl">
-  <p>
-البلاءِ.
-  </p>
-</blockquote>
+> البلاءِ.
 
 37. You should build a bond of brotherhood with the one who cautions and
 forbids you [from doing evil] for verily he is aiding and guiding you.
 
 > 37ـ عَلَيكَ بِمُواخاةِ مَنْ حَذَّرَكَ وَنهاكَ فإنّهُ يُنجِدُكَ
-<blockquote dir="rtl">
-  <p>
-ويُرشِدُكَ.
-  </p>
-</blockquote>
+> ويُرشِدُكَ.
 
 38. One who is amiable towards people is loved by them.
 
@@ -250,22 +210,14 @@ about your nature and faults, so have confidence in one who does this
 for he is your [true] friend.
 
 > 41ـ إنّما سُمِّيَ الصَّديقُ صديقاً لأنّه يَصْدُقُكَ في نَفْسِكَ
-<blockquote dir="rtl">
-  <p>
-ومَعائبِكَ، فَمَنْ فَعَلَ ذلك فاستَنِمْ إليْهِ فإنَّهُ الصَّديقُ.
-  </p>
-</blockquote>
+> ومَعائبِكَ، فَمَنْ فَعَلَ ذلك فاستَنِمْ إليْهِ فإنَّهُ الصَّديقُ.
 
 42. The comrade has been named *rafīq* because he encourages you to
 improve your religion; so whoever assists you to improve your faith,
 then *he* is a concerned comrade.
 
 > 42ـ إنَّما سُمِّىَ الرَّفيقُ رَفيقاً لأنَّه يَرفَقُكَ على إصلاحِ دينكَ
-<blockquote dir="rtl">
-  <p>
-فَمنْ أعانَكَ على صَلاحِ دينكَ فَهُوَ الرَّفيقُ الشَّفيقُ.
-  </p>
-</blockquote>
+> فَمنْ أعانَكَ على صَلاحِ دينكَ فَهُوَ الرَّفيقُ الشَّفيقُ.
 
 43. As the companionship prolongs, the [mutual] respect is affirmed.
 
@@ -285,11 +237,7 @@ decreases.
 him and accord him with true loyalty and perfect sincerity.
 
 > 46ـ إذَا اتَّخذَكَ وَليُّكَ أخاً فَكُنْ لَهُ عَبْداً وامْنَحْهُ صِدقَ
-<blockquote dir="rtl">
-  <p>
-الوفاءِ وحُسْنَ الصَّفاءِ.
-  </p>
-</blockquote>
+> الوفاءِ وحُسْنَ الصَّفاءِ.
 
 47. When the disloyalty of a friend becomes evident, forsaking him
 becomes easy.
@@ -326,22 +274,14 @@ becomes easy.
 in times of distress).
 
 > 54ـ تَمَسَّكْ بِكُلِّ صَديق أفادَتْكَهُ الشِّدَّةُ، (أفادكَ نَكْبَةُ
-<blockquote dir="rtl">
-  <p>
-الشِّدَّةِ).
-  </p>
-</blockquote>
+> الشِّدَّةِ).
 
 55. Be warm-hearted to your friend and he will be warm-hearted towards
 you, honour him and he will honour you, give him preference over
 yourself and he will give you preference over himself and his family.
 
 > 55ـ تَحَبَّبْ إلى خَليلِكَ يُحْبِبْكَ، وأكرِمْهُ يُكْرِمْكَ وآثِرْهُ
-<blockquote dir="rtl">
-  <p>
-على نَفْسِكَ يُؤثِرْكَ على نَفسِهِ وأهْلِهِ.
-  </p>
-</blockquote>
+> على نَفْسِكَ يُؤثِرْكَ على نَفسِهِ وأهْلِهِ.
 
 56. A good companion is a blessing.
 
@@ -356,11 +296,7 @@ your discourse with them, for if you are ignorant they will enlighten
 you and if you are knowledgeable, you will increase your knowledge.
 
 > 58ـ جالِسْ أهْلَ الوَرَعِ والحِكْمَةِ، وأكثِرْ مُناقَشَتَهُمْ، فإنَّكَ
-<blockquote dir="rtl">
-  <p>
-إنْ كُنتَ جاهلاً عَلَّمُوكَ، وإنْ كُنْتَ عالِماً إزدَدْتَ عِلماً.
-  </p>
-</blockquote>
+> إنْ كُنتَ جاهلاً عَلَّمُوكَ، وإنْ كُنْتَ عالِماً إزدَدْتَ عِلماً.
 
 59. Good companionship increases the affection of the hearts.
 
@@ -383,22 +319,14 @@ and insight.
 to seek adjudication between yourself and him.
 
 > 63ـ خَيْرُ مَنْ صَحِبْتَهُ مَنْ لايُحوِجُكَ إلى حاكِم بَينَكَ
-<blockquote dir="rtl">
-  <p>
-وبيْنَهُ.
-  </p>
-</blockquote>
+> وبيْنَهُ.
 
 64. The best companion is one who makes you infatuated with the
 Hereafter, urges you to renounce worldly pleasures and assists you in
 obeying your Lord.
 
 > 64ـ خَيرُ مَنْ صَحِبْتَ مَنْ وَلَّهَكَ بالاُخرى، وزَهَّدَكَ في
-<blockquote dir="rtl">
-  <p>
-الدُّنيا، وأعانَكَ على طاعةِ المَولى.
-  </p>
-</blockquote>
+> الدُّنيا، وأعانَكَ على طاعةِ المَولى.
 
 65. A man’s friend is a sign of his intelligence and his speech is
 evidence of his merit.
@@ -415,11 +343,7 @@ deeds, the most active in doing good deeds and the most affable in
 companionship.
 
 > 67ـ خَيرُ الإخْوانِ أعْوَنُهُمْ عَلى الخَيْرِ، وأعْمَلُهُمْ بِالبِرِّ،
-<blockquote dir="rtl">
-  <p>
-وأرْفَقُهُمْ بِالمُصاحِبِ.
-  </p>
-</blockquote>
+> وأرْفَقُهُمْ بِالمُصاحِبِ.
 
 68. Many a friend may be envious.
 
@@ -461,11 +385,7 @@ undergo hardship.
 but abandons you in times of difficulty.
 
 > 76ـ شرُّ الإخوانِ المُواصِلُ عِنْدَ الرَّخاءِ، والمَفاصِلُ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-البلاءِ.
-  </p>
-</blockquote>
+> البلاءِ.
 
 77. The worst of your brothers is the one who beguiles you with vain
 desire and distracts you with this world.
@@ -485,22 +405,14 @@ your faults from you.
 deeds and slows you down [from doing good] along with him.
 
 > 80ـ شرُّ إخوانِكَ مَنْ تَثبَّطَ (يَتبَطّئُ) عنِ الخَيرِ وثبَّطكَ
-<blockquote dir="rtl">
-  <p>
-(ويُبَطِّئُكَ) معَهُ.
-  </p>
-</blockquote>
+> (ويُبَطِّئُكَ) معَهُ.
 
 81. The worst and most deceitful of your brothers is the one who entices
 you with [the pleasures of] this transitory world and makes you
 unmindful of the Hereafter.
 
 > 81ـ شرُّ إخوانِكَ وأغَشُّهُمْ لَكَ مَنْ أغراكَ بِالعاجِلَةِ واَلهاكَ
-<blockquote dir="rtl">
-  <p>
-عَنِ الآجِلَةِ.
-  </p>
-</blockquote>
+> عَنِ الآجِلَةِ.
 
 82. The worst companion is the one who changes [his loyalty] quickly.
 
@@ -528,11 +440,7 @@ just like the wind - when it passes by perfume, it carries the
 fragrance.
 
 > 87ـ صُحْبَةُ الأخْيارِ تُكْسِبُ (تَكتسِبُ) الخَيرَ كالريحِ إذا مَرَّتْ
-<blockquote dir="rtl">
-  <p>
-بالطّيبِ حَمَلَتْ طيباً.
-  </p>
-</blockquote>
+> بالطّيبِ حَمَلَتْ طيباً.
 
 88. Enmity with the honourable is safer than friendship with the wicked.
 
@@ -572,30 +480,18 @@ tribulations.
 is saved from
 
 > 96ـ مُصاحِبُ الأشرارِ كراكِبِ البَحرِ إنْ سَلِمَ مِنَ الغَرَقِ لَمْ
-<blockquote dir="rtl">
-  <p>
-يَسْلَمْ مِنَ الفَرَقِ.
-  </p>
-</blockquote>
+> يَسْلَمْ مِنَ الفَرَقِ.
 
 97. Drowning he will still not be saved from the fear [of drowning].
 
 > 97ـ مُجالَسَةُ أبناءِ الدُّنيا مِنْساةٌ للإيمانِ قائدَةٌ إلى طاعةِ
-<blockquote dir="rtl">
-  <p>
-الشيطانِ.
-  </p>
-</blockquote>
+> الشيطانِ.
 
 98. Sitting with worldly people causes one to forget his faith and
 drives [one] towards the obedience of Satan.
 
 > 98ـ مُوافَقَةُ الأصحابِ تُديمُ الإصطِحابَ، والرِّفقُ في المَطالِبِ
-<blockquote dir="rtl">
-  <p>
-يُسَهِّلُ الأسبابَ.
-  </p>
-</blockquote>
+> يُسَهِّلُ الأسبابَ.
 
 99. Agreement with companions prolongs the companionship; and showing
 courtesy in matters makes the means [of accomplishment] easy.
@@ -616,12 +512,8 @@ comrade.
 fruitful.
 
 > 102ـ تُبْتَنى الاُخوَّةُ في اللّهِ علَى التَّناصُحِ في اللّهِ،
-<blockquote dir="rtl">
-  <p>
-والتَّباذُلِ في اللّهِ، والتَّعاونِ على طاعةِ اللّهِ، والتَّناهي عن
-معاصِى اللّهِ، والتَّناصرِ في اللّهِ، وإخْلاصِ المَحَبِّةِ.
-  </p>
-</blockquote>
+> والتَّباذُلِ في اللّهِ، والتَّعاونِ على طاعةِ اللّهِ، والتَّناهي عن
+> معاصِى اللّهِ، والتَّناصرِ في اللّهِ، وإخْلاصِ المَحَبِّةِ.
 
 103. Brotherhood for the sake of Allah is based on advising each other
 for the sake of Allah, contributing for His sake, helping each other to
@@ -671,21 +563,13 @@ will not be deprived of the benefit of brotherhood.
 brothers.
 
 > 112ـ ما أكثَرَ الإخوانَ عِندَ الجِفانِ وأقَلَّهُمْ عِندَ حادِثاتِ
-<blockquote dir="rtl">
-  <p>
-الزَّمانِ.
-  </p>
-</blockquote>
+> الزَّمانِ.
 
 113. How numerous are friends during times of prosperity and how few
 they are during the difficult times!
 
 > 113ـ ما تَواخى قَوْمٌ على غَيرِ ذاتِ اللّه سُبْحانَهُ إلاّ كانَتْ
-<blockquote dir="rtl">
-  <p>
-اُخُوَّتُهُمْ علَيْهِم تِرَةً يَوْمَ العَرْضِ علَى اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> اُخُوَّتُهُمْ علَيْهِم تِرَةً يَوْمَ العَرْضِ علَى اللّهِ سُبْحانَهُ.
 
 114. No community has established brotherhood for other than seeking the
 pleasure of Allah, the Glorified, but that their brotherhood will be
@@ -697,11 +581,7 @@ Allah, the Glorified.
 115. Death of a brother is like having wings clipped and hands cut.
 
 > 115ـ نِظامُ المُرُوَّةِ حُسْنُ الاُخُوَّةِ، ونِظامُ الدّينِ حُسنُ
-<blockquote dir="rtl">
-  <p>
-اليَقينِ.
-  </p>
-</blockquote>
+> اليَقينِ.
 
 116. The order of humanity is based on righteous brotherhood and the
 order of religion is based on unshakable certainty.
@@ -712,11 +592,7 @@ order of religion is based on unshakable certainty.
 have, and do not abandon him after he has sought [your] pardon.
 
 > 117ـ لاتُضَيِّعَنَّ حَقَّ أخيكَ اتِّكالاً على ما بَينَكَ وبَينَهُ
-<blockquote dir="rtl">
-  <p>
-فَليسَ لَكَ بأخ مَنْ أضَعْتَ حَقَّهُ.
-  </p>
-</blockquote>
+> فَليسَ لَكَ بأخ مَنْ أضَعْتَ حَقَّهُ.
 
 118. Do not neglect the rights of your brother out of confidence in your
 close relationship with him, for he whose rights you neglect is not your
@@ -728,11 +604,7 @@ brother.
 exposes your shortcomings.
 
 > 119ـ لاتَطْلُبَنَّ الإخاءَ عِندَ أهْلِ الجَفاءِ واطلُبْهُ عِندَ أهلِ
-<blockquote dir="rtl">
-  <p>
-الحِفاظِ والوَفاءِ.
-  </p>
-</blockquote>
+> الحِفاظِ والوَفاءِ.
 
 120. Do not seek brotherhood [and friendship] among the uncouth people,
 rather seek it among the trustworthy and loyal people.
@@ -748,74 +620,46 @@ committing] any offence.
 enjoins on himself.
 
 > 122ـ يُغْتَنَمُ مُؤاخاةُ الأخيارِ، ويُجّتَنَبُ مُصاحَبَةُ الأشرارِ
-<blockquote dir="rtl">
-  <p>
-والفُجَّارِ.
-  </p>
-</blockquote>
+> والفُجَّارِ.
 
 123. The brotherhood of the righteous is to be considered beneficial
 whereas association with the wicked and sinful is to be avoided.
 
 > 123ـ إيّاكَ ومُصادَقَةَ الكَذَّابِ، فإنّهُ يُقَرِّبُ عَلَيكَ
-<blockquote dir="rtl">
-  <p>
-الْبَعيدَ، ويُبَعِّدُ علَيكَ القَريبَ.
-  </p>
-</blockquote>
+> الْبَعيدَ، ويُبَعِّدُ علَيكَ القَريبَ.
 
 124. Be careful not to accept the words of a liar, for he will bring
 close to you that which is far and take far away from you that which is
 close.
 
 > 124ـ إيّاك أنْ تُخرِجَ صَديقَكَ إخراجاً يُخرِجُهُ عَنْ مَودَّتِكَ
-<blockquote dir="rtl">
-  <p>
-وَاستَبْقِ لَهُ مِنْ اُنْسِكَ مَوْضِعاً يَثِقُ بالرُّجوعِ إليهِ.
-  </p>
-</blockquote>
+> وَاستَبْقِ لَهُ مِنْ اُنْسِكَ مَوْضِعاً يَثِقُ بالرُّجوعِ إليهِ.
 
 125. Be careful not to drive away your friend in a way that removes all
 the affection he has for you, and leave some room from your friendship
 for him so that he may rely on returning back to it.
 
 > 125ـإيّاكَ أنْ تُوحِشَ مُوادَّكَ وَحْشةً تُفضي بهِ إلى اختيارِهِ
-<blockquote dir="rtl">
-  <p>
-البُعدَ عَنْكَ، وَإيثارِ الفُرْقَةِ.
-  </p>
-</blockquote>
+> البُعدَ عَنْكَ، وَإيثارِ الفُرْقَةِ.
 
 126. Be careful not to alienate the one who has affection for you in
 such a manner that he opts to distance himself and prefers to separate
 himself from you.
 
 > 126ـ إيّاكَ وصُحبَةَ مَنْ ألهاكَ، وأغراكَ، فإنّهُ يَخْذُلُكَ
-<blockquote dir="rtl">
-  <p>
-ويُوبِقُكَ.
-  </p>
-</blockquote>
+> ويُوبِقُكَ.
 
 127. Be careful not to associate with the one who makes you negligent
 and deceives you, for he will surely forsake you and destroy you.
 
 > 127ـ إيّاكَ ومُصاحَبَةَ أهلِ الفُسُوقِ، فإنّ الرَّاضيَ بِفِعْلِ قَوْم
-<blockquote dir="rtl">
-  <p>
-كالدَّاخِلِ مَعَهُمْ.
-  </p>
-</blockquote>
+> كالدَّاخِلِ مَعَهُمْ.
 
 128. Be careful not to associate with the sinners, for verily one who is
 pleased with the actions of a group is like one of them.
 
 > 128ـ إيّاكُمْ ومُصادَقَةَ الفاجِرِ، فإنّهُ يَبيعُ مُصادِقَهُ
-<blockquote dir="rtl">
-  <p>
-بِالتَّافِهِ المُحتَقَرِ.
-  </p>
-</blockquote>
+> بِالتَّافِهِ المُحتَقَرِ.
 
 129. Be careful not to befriend a wicked person, for he would surely
 sell his friendship for the most worthless of things.
@@ -831,21 +675,13 @@ wisdom and intelligence.
 seeks help.
 
 > 131ـ أشرَفُ الشِّيَمِ رِعايَةُ الوُدِّ، وأحسَنُ الهِمَمِ إنجازُ
-<blockquote dir="rtl">
-  <p>
-الوَعدِ.
-  </p>
-</blockquote>
+> الوَعدِ.
 
 132. The noblest of traits is guarding one’s friendship and the best of
 endeavours is fulfilling one’s promise.
 
 > 132ـ مَنْ دَعاكَ إلى الدَّارِ الباقيةِ، وأعانَكَ علَى العَمَلِ لَها،
-<blockquote dir="rtl">
-  <p>
-فَهُوَ الصَّديقُ الشَّفيقُ.
-  </p>
-</blockquote>
+> فَهُوَ الصَّديقُ الشَّفيقُ.
 
 133. Whoever invites you to the Eternal Abode and assists you to work
 for it, then *he* is the true, caring friend.
@@ -864,14 +700,10 @@ for it, then *he* is the true, caring friend.
 is treated harshly.
 
 > 136ـ إحمِلْ نَفْسَكَ معَ أخِيكَ عِندَ صَرْمِهِ علَى الصِّلَةِ وعندَ
-<blockquote dir="rtl">
-  <p>
-صُدُودهِ علَى اللُّطْفِ والمُقارَبَةِ، وعندَ تَباعُدِهِ علَى
-الدُنُوِّ، وعندَ جُرمِهِ علَى العُذرِ حتّى كأنّكَ لَهُ عبدٌ، وكأنّهُ
-ذُو نِعمَة عَلَيكَ، وإيّاكَ أنْ تَضَعَ ذلكَ في غيرِ مَوْضِعهِِ، أو
-تَفْعَلَهُ معَ غيرِ أهْلِهِ.
-  </p>
-</blockquote>
+> صُدُودهِ علَى اللُّطْفِ والمُقارَبَةِ، وعندَ تَباعُدِهِ علَى
+> الدُنُوِّ، وعندَ جُرمِهِ علَى العُذرِ حتّى كأنّكَ لَهُ عبدٌ، وكأنّهُ
+> ذُو نِعمَة عَلَيكَ، وإيّاكَ أنْ تَضَعَ ذلكَ في غيرِ مَوْضِعهِِ، أو
+> تَفْعَلَهُ معَ غيرِ أهْلِهِ.
 
 137. Bring yourself to build ties with your brother when he cuts you
 off, and to be kind and seek closeness [to him] when he turns away from
@@ -887,12 +719,8 @@ befitting or with someone who is not worthy of it.
 courteous or offensive.
 
 > 138ـ إحمِلْ نَفْسكَ عِندَ شِدَّةِ أخيكَ علَى اللّينِ، وعِندَ قَطيعتهِ
-<blockquote dir="rtl">
-  <p>
-علَى الوَصلِ، وعِندَ جُمودِهِ علَى البَذلِ، وكُنْ للَّذي يَبدُو مِنْهُ
-حَمُولاً وَلَهُ وَصوُلاً.
-  </p>
-</blockquote>
+> علَى الوَصلِ، وعِندَ جُمودِهِ علَى البَذلِ، وكُنْ للَّذي يَبدُو مِنْهُ
+> حَمُولاً وَلَهُ وَصوُلاً.
 
 139. Bring yourself to be polite to your brother when he is harsh to
 you, and to build ties [with him] when he cuts you off, and to be
@@ -905,12 +733,8 @@ keep relations with him.
 brothers.
 
 > 140ـ إجْتَنِبْ مُصاحِبَةَ الكَذَّابِ، فإنِ اضْطُرِرْتَ إلَيهِ فلا
-<blockquote dir="rtl">
-  <p>
-تُصَدِّقْهُ، ولا تُعلِمْهُ أنّكَ تُـكَذِّبُهُ، فإنّه يَنْتَقِلُ عَنْ
-وُدِّكَ ولا يَنْتَقِلُ عَنْ طَبْعِهِ.
-  </p>
-</blockquote>
+> تُصَدِّقْهُ، ولا تُعلِمْهُ أنّكَ تُـكَذِّبُهُ، فإنّه يَنْتَقِلُ عَنْ
+> وُدِّكَ ولا يَنْتَقِلُ عَنْ طَبْعِهِ.
 
 141. Avoid the company of a liar, but if you are forced to be in his
 company then do not accept his words as true, and do not let him know
@@ -918,12 +742,8 @@ that you belie him, for he will readily turn away from your friendship
 rather than abandoning his habit [of lying].
 
 > 141ـ اُبْذُل لِصَديقِكَ كُلَّ المَودَّةِ، ولا تَبْذُلْ لَهُ كُلَّ
-<blockquote dir="rtl">
-  <p>
-الطُّمَأنينةِ وأعْطِهِ مِنْ نَفْسِكَ كُلَّ المُواساةِ، ولا تَقُصَّ
-إلَيهِ بِكُلِّ أسرارِكَ.
-  </p>
-</blockquote>
+> الطُّمَأنينةِ وأعْطِهِ مِنْ نَفْسِكَ كُلَّ المُواساةِ، ولا تَقُصَّ
+> إلَيهِ بِكُلِّ أسرارِكَ.
 
 142. Spare no effort in showing affection to your friend, but do not put
 your entire trust in him; give him all your support, but do not disclose
@@ -938,11 +758,7 @@ all your secrets to him.
 144. He whom you need to indulge is not your [true] brother.
 
 > 144ـ لَيسَ بِرَفيق مَحمُودِ الطَّريقَةِ مَنْ أحوَجَ صاحِبَهُ إلى
-<blockquote dir="rtl">
-  <p>
-مُماراتِهِ.
-  </p>
-</blockquote>
+> مُماراتِهِ.
 
 145. He who forces his companion to argue with him is not a comrade with
 praiseworthy traits.
@@ -977,11 +793,7 @@ brother to seek from anyone other than him.
 regarding obedience to Allah.
 
 > 151ـ خَيرُ إخوانِكَ مَنْ واساكَ، وخيرٌ مِنْهُ مَنْ كَفاكَ، وإنِاحْتاجَ
-<blockquote dir="rtl">
-  <p>
-إلَيكَ أعفاكَ.
-  </p>
-</blockquote>
+> إلَيكَ أعفاكَ.
 
 152. The best of your brothers is the one who supports you, and better
 than him is the one who suffices for you, and when he needs you, he
@@ -1014,21 +826,13 @@ in matters pertaining to the truth.
 you.
 
 > 158ـ اَلصَّديقُ الصَّدوُقُ مَنْ نَصَحَكَ في عَيبكَ وحَفِظَكَ في
-<blockquote dir="rtl">
-  <p>
-غَيبِكَ وَآثرَكَ على نَفْسِهِ.
-  </p>
-</blockquote>
+> غَيبِكَ وَآثرَكَ على نَفْسِهِ.
 
 159. The truthful friend is one who advises you of your faults protects
 your dignity in your absence and gives you preference over himself.
 
 > 159ـ الحازمُ مَنْ تَخيَّرَ لِخُلَّتِهِ فإنَّ المَرْءَ يُوزَنُ
-<blockquote dir="rtl">
-  <p>
-بخَلِيلِهِ.
-  </p>
-</blockquote>
+> بخَلِيلِهِ.
 
 160. The wise person is one who selects his friend carefully, for a man
 is gauged by his friend.
@@ -1038,21 +842,13 @@ is gauged by his friend.
 161. Friends are one soul in different bodies.
 
 > 161ـ الصَّديقُ مَنْ كانَ ناهِياً عَنِ الظُّلمِ والعُدْوانِ مُعيناً
-<blockquote dir="rtl">
-  <p>
-علَى البِرِّ وَالإحسان ِ.
-  </p>
-</blockquote>
+> علَى البِرِّ وَالإحسان ِ.
 
 162. The [true] friend is he who forbids [one from] injustice and
 wrongdoing while helping [one] to perform good deeds and be righteous.
 
 > 162ـ إصحَبْ مَنْ لا تَراهُ إلاّ وكَأنّهُ لاغَناءَ بِهِ عَنْكَ، وإنْ
-<blockquote dir="rtl">
-  <p>
-أسَأتَ إلَيهِ أحسَنَ إلَيكَ وكَأنّهُ المُسيءُ.
-  </p>
-</blockquote>
+> أسَأتَ إلَيهِ أحسَنَ إلَيكَ وكَأنّهُ المُسيءُ.
 
 163. Keep the company of one whom you find cannot do without you, and if
 you do something bad to him he responds with good, as if he was the one
@@ -1118,12 +914,8 @@ put to test.
 176. It is when power is lost that friend is distinguished from foe.
 
 > 176ـ عَجِبْتُ لِمَنْ يَرْغَبُ في التَّكثُّرِ مِنَ الأصحابِ كَيفَ
-<blockquote dir="rtl">
-  <p>
-لايَصحَبُ العُلَماءَ الألِبَّاءَ الأتقياءَ الَّذينَ يَغنَمُ
-فَضائِلَهُمْ وتَهْديهِ عُلُومُهُمْ وتُزَّينُهُ صُحبَتُهُمْ.
-  </p>
-</blockquote>
+> لايَصحَبُ العُلَماءَ الألِبَّاءَ الأتقياءَ الَّذينَ يَغنَمُ
+> فَضائِلَهُمْ وتَهْديهِ عُلُومُهُمْ وتُزَّينُهُ صُحبَتُهُمْ.
 
 177. I am amazed at the one who seeks more companions why does he not
 accompany the wise, pious scholars from whose character he can benefit
@@ -1148,22 +940,14 @@ friend’s generosity becomes apparent.
 181. Good companionship is something friends wish for.
 
 > 181ـ إيّاكَ أنْ تَغفُلَ عَنْ حقِّ أخيكَ، اتِّكالاً على واجبِ حَقِّكَ
-<blockquote dir="rtl">
-  <p>
-عَليهِ، فإنَّ لأخيكَ علَيكَ مِنَ الحقِّ مِثلَ الَّذي لَكَ عَلَيهِ.
-  </p>
-</blockquote>
+> عَليهِ، فإنَّ لأخيكَ علَيكَ مِنَ الحقِّ مِثلَ الَّذي لَكَ عَلَيهِ.
 
 182. Be careful not to become negligent of your brother’s right [over
 you] while counting on your right over him, for indeed your brother has
 the same right over you that you have over him.
 
 > 182ـ إيّاكَ أنْ تُهْمِلَ حقَّ أخيكَ اتِّكالاً عَلى ما بَينَكَ
-<blockquote dir="rtl">
-  <p>
-وبَيْنَهُ فَلَيسَ لَكَ بأخ مَنْ أضَعْتَ حَقَّهُ.
-  </p>
-</blockquote>
+> وبَيْنَهُ فَلَيسَ لَكَ بأخ مَنْ أضَعْتَ حَقَّهُ.
 
 183. Be careful not to ignore the right of your brother while relying on
 the bond between you and him, for he whose right you overlook is not
@@ -1178,11 +962,7 @@ your brother.
 185. The best of assets are a loyal brother and a righteous sibling.
 
 > 185ـأصْدَقُ الإخْوانِ مَوَدَّةً أفْضَلُهُمْ لإخوانِهِ في السَّرّاءِ
-<blockquote dir="rtl">
-  <p>
-والضَّرّاءِ مُواساةً.
-  </p>
-</blockquote>
+> والضَّرّاءِ مُواساةً.
 
 186. The brother whose friendship is strongest is one who is most
 supportive of his brother [both] in times of ease and difficulty.
@@ -1193,23 +973,15 @@ supportive of his brother [both] in times of ease and difficulty.
 farthest.
 
 > 187ـإنَّ أخاكَ حقَّاً مَنْ غَفَرَ زلَّتَكَ، وَسَدَّ خَلَّتَكَ وقَبِلَ
-<blockquote dir="rtl">
-  <p>
-عُذْرَكَ، وسَتَرَ عَوْرتَكَ، ونَفى وَجَلَكَ، وحَقَّقَ أمَلَكَ.
-  </p>
-</blockquote>
+> عُذْرَكَ، وسَتَرَ عَوْرتَكَ، ونَفى وَجَلَكَ، وحَقَّقَ أمَلَكَ.
 
 188. Your true brother is one who forgives your mistake, fulfils your
 need, accepts your excuse, hides your [hidden] flaw, removes your
 apprehension and actualizes your hope.
 
 > 188ـ لا تَصْحَبْ مَنْ فاتَهُ العَقلُ، ولاتَصْطَنِعْ مَنْ خانَهُ
-<blockquote dir="rtl">
-  <p>
-الأصلُ، فإنَّ مَنْ لا عَقلَ لَهُ يَضُرُّكَ مِنْ حيثُ يَرى أنَّه
-يَنْفَعُكَ، وَمَنْ لا أصلَ لَهُ يُسيءُ إلى مَنْ يُحْسِنُ إلَيهِ.
-  </p>
-</blockquote>
+> الأصلُ، فإنَّ مَنْ لا عَقلَ لَهُ يَضُرُّكَ مِنْ حيثُ يَرى أنَّه
+> يَنْفَعُكَ، وَمَنْ لا أصلَ لَهُ يُسيءُ إلى مَنْ يُحْسِنُ إلَيهِ.
 
 189. Do not accompany the one who has lost his mind and do not seek good
 from one who is betrayed by his roots, for the one who is insane will
@@ -1217,22 +989,14 @@ harm you while he thinks he is helping you and the one who does not have
 [virtuous] roots will do evil to the one who does good to him.
 
 > 189ـ تَصْحَبْ إلاَّ عاقِلاً تَقِيّاً، ولا تُعاشِرْ إلاّ عالِماً
-<blockquote dir="rtl">
-  <p>
-زَكيّاً، ولاتُودِعْ سِرَّكَ إلاّ مُؤمِناً وَفيّاً.
-  </p>
-</blockquote>
+> زَكيّاً، ولاتُودِعْ سِرَّكَ إلاّ مُؤمِناً وَفيّاً.
 
 190. Do not accompany anyone but the intelligent and pious; and do not
 associate with anyone but the knowledgeable and righteous; and do not
 mention your secret to anyone but the trustworthy and loyal.
 
 > 190ـ لا تَصْحَبْ مَنْ يَحفَظُ مَساوِيَكَ، ويَنْسى فَضائلَكَ
-<blockquote dir="rtl">
-  <p>
-وَمعالِيَكَ.
-  </p>
-</blockquote>
+> وَمعالِيَكَ.
 
 191. Do not accompany one who recalls your misdeeds and forgets your
 virtues and merits.
@@ -1265,53 +1029,33 @@ him even if he shuns you.
 you will remain safe, seek advice from him and you will benefit.
 
 > 197ـ أحْبِبْ في اللّهِ مَنْ يُجاهِدُكَ على صَلاحِ دين،
-<blockquote dir="rtl">
-  <p>
-ويُكْسِيكَ(يُكْسِبُكَ) حُسنَ يَقين.
-  </p>
-</blockquote>
+> ويُكْسِيكَ(يُكْسِبُكَ) حُسنَ يَقين.
 
 198. Love for the sake of Allah the one who struggles against you for
 the betterment of [your] religion and covers you with the mantle of
 certitude.
 
 > 198ـ إرْفَقْ بِإخْوانِكَ، وَاكْفِهِمْ غَربَ لِسانِكَ، وأجْرِ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِمْ سَيْبَ إحسانِكَ.
-  </p>
-</blockquote>
+> عَلَيْهِمْ سَيْبَ إحسانِكَ.
 
 199. Be courteous to your brothers and don’t expose them to the
 harshness of your tongue; and let your goodness flow forth for them.
 
 > 199ـ اُبْذُلْ لِصَديقِكَ نُصْحَكَ، ولِمَعارِفِكَ مَعُونَتـَكَ،
-<blockquote dir="rtl">
-  <p>
-ولِكافَّةِ النَّاسِ بِشْرَكَ.
-  </p>
-</blockquote>
+> ولِكافَّةِ النَّاسِ بِشْرَكَ.
 
 200. Offer your advice to your friend, your assistance to your
 acquaintance, and to all the people, your cheerfulness.
 
 > 200ـ إحْذَرْ مُصاحَبَةَ كُلِّ مَنْ يُقْبَلُ رَأيُهُ، ويُنكَرُ
-<blockquote dir="rtl">
-  <p>
-عَمَلُهُ، فإنَّ الصّاحِبَ مُعْتَبَرٌ بِصاحِبِهِ.
-  </p>
-</blockquote>
+> عَمَلُهُ، فإنَّ الصّاحِبَ مُعْتَبَرٌ بِصاحِبِهِ.
 
 201. Be cautious of the company of one whose opinion is accepted but
 whose actions are evil, for surely a person is judged by the company he
 keeps.
 
 > 201ـ إحْذَر مُجالِسَةَ قَرينِ السَّوءِ فَإنَّهُ يُهْلِكُ مُقارِنَهُ،
-<blockquote dir="rtl">
-  <p>
-ويُرْدي مُصاحِبَهُ.
-  </p>
-</blockquote>
+> ويُرْدي مُصاحِبَهُ.
 
 202. Be careful not to associate with an evil colleague, for his
 association will destroy you and his companionship will ruin you.
@@ -1325,43 +1069,27 @@ association will destroy you and his companionship will ruin you.
 204. Never associate with one who has no intelligence.
 
 > 204ـ لا تَصْحَبِ المائِقَ فَيُزَيِّنَ لَكَ فِعْلَهُ، ويَوَدَّ أنّكَ
-<blockquote dir="rtl">
-  <p>
-مِثْلُهُ.
-  </p>
-</blockquote>
+> مِثْلُهُ.
 
 205. Do not associate with a fool, for he will embellish his actions for
 you and want you to become like him.
 
 > 205ـ لاتَصْحَبَنَّ أبْناءَ الدُّنيا فإنّكَ إنْ أقْلَلْتَ
-<blockquote dir="rtl">
-  <p>
-إسْتَثْقَلُوكَ وإنْ أكْثَرتَ حَسَدُوكَ.
-  </p>
-</blockquote>
+> إسْتَثْقَلُوكَ وإنْ أكْثَرتَ حَسَدُوكَ.
 
 206. Do not associate with those who love this world, for if you have
 less they will disregard you and if you have more they will envy you.
 
 > 206ـ لا تُكْثِرَنَّ صُحْبَةَ اللَّئيمِ، فإنَّهُ إنْ صَحِبَتْكَ
-<blockquote dir="rtl">
-  <p>
-نِعْمَةٌ حَسَدَكَ، وإنْ طرَقَتْكَ نائِبَةٌ قَذَفَكَ.
-  </p>
-</blockquote>
+> نِعْمَةٌ حَسَدَكَ، وإنْ طرَقَتْكَ نائِبَةٌ قَذَفَكَ.
 
 207. Do not frequent the company of a wicked person, for if you are
 bestowed with a blessing, he will envy you and if a misfortune befalls
 you, he will abandon you.
 
 > 207ـ لا تَسْتَكْثِرَنَّ مِنْ إخوانِ الدُّنيا، فَإنَّكَ إنْ عَجَزْتَ
-<blockquote dir="rtl">
-  <p>
-عَنْهُمْ تَحَوَّلُوا أعداءً، وإنَّ مَثَلَهُمْ كَمَثَلِ النَّارِ
-كَثيرُها يُحرِقُ وقليلُها يَنْفَعُ.
-  </p>
-</blockquote>
+> عَنْهُمْ تَحَوَّلُوا أعداءً، وإنَّ مَثَلَهُمْ كَمَثَلِ النَّارِ
+> كَثيرُها يُحرِقُ وقليلُها يَنْفَعُ.
 
 208. Do not acquire more ‘worldly’ brothers, for if you become incapable
 of fulfilling their wishes they turn into enemies; and their example is
@@ -1397,11 +1125,7 @@ lifetime is [being in] the company of an enemy.
 214. One who mingles with the wicked is not intelligent.
 
 > 214ـ لَيْسَ شَيْءٌ أدْعى لِخَير وأنْجى مِنْ شَرّ مِنْ صُحْبَةِ
-<blockquote dir="rtl">
-  <p>
-الأخيارِ.
-  </p>
-</blockquote>
+> الأخيارِ.
 
 215. There is nothing that brings one closer to good and keeps one safer
 from evil than keeping company with the righteous.
@@ -1411,11 +1135,7 @@ from evil than keeping company with the righteous.
 216. One who accompanies the wise is respected.
 
 > 216ـ إحْذَرْ مُصاحَبَةَ الفُسَّاقِ والفُجَّارِ والمُجاهِرينَ بِمَعاصِى
-<blockquote dir="rtl">
-  <p>
-اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ.
 
 217. Be careful not to accompany the immoral, the wretched, and those
 who openly disobey the commandments of Allah.
@@ -1436,31 +1156,19 @@ evil clings to evil.
 your foe.
 
 > 220ـ إيّاكَ ومُصادَقَةَ الأحْمَقِ، فَإنَّهُ يُريدُ أنْ يَنْفَعَكَ
-<blockquote dir="rtl">
-  <p>
-فَيَضُـَّركَ.
-  </p>
-</blockquote>
+> فَيَضُـَّركَ.
 
 221. Be careful not to befriend a fool, for he will harm you while
 trying to benefit you.
 
 > 221ـ إيّاكَ ومُصادَقَةَ البَخيلِ، فإنَّهُ يَقْعُدُ عَنْكَ (بِكَ)
-<blockquote dir="rtl">
-  <p>
-أحوَجَ ما تَـكوُنُ إلَيهِ.
-  </p>
-</blockquote>
+> أحوَجَ ما تَـكوُنُ إلَيهِ.
 
 222. Be careful not to befriend a miser, for he will hold back [from
 assisting you] when you are most in need of him.
 
 > 222ـ إيّاكَ ومُصاحَبَةَ الأشْرارِ، فَإنَّهُمْ يَمُنُّونَ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-بِالسَّلامَةِ مِنْهُمْ.
-  </p>
-</blockquote>
+> بِالسَّلامَةِ مِنْهُمْ.
 
 223. Be careful not to accompany the wicked, for they consider it a
 favour upon you to keep you safe from themselves.
@@ -1470,22 +1178,14 @@ favour upon you to keep you safe from themselves.
 224. Your brother is your supporter in times of difficulty.
 
 > 224ـ إنْ اَرَدْتَ قَطيعَةَ أخيكَ فَاسْتَبْقِ لَهُ مِنْ نَفْسِكَ
-<blockquote dir="rtl">
-  <p>
-بَقِيَّةً يَرْجِعُ إلَيْها إنْ بَدا لَهُ ذلِكَ يَوْماًما.
-  </p>
-</blockquote>
+> بَقِيَّةً يَرْجِعُ إلَيْها إنْ بَدا لَهُ ذلِكَ يَوْماًما.
 
 225. If you want to cut off ties with your brother [in faith] then leave
 some of your friendship for him, so that he may return to it someday if
 he so wishes.
 
 > 225ـ َقدِّمِ الإخْتبارَ وأجِدِ الإسْتِظْهارَ فِي اخْتيارِ الإخوانِ
-<blockquote dir="rtl">
-  <p>
-وإلاّ ألْجَأكَ الإضطرارُ إلى مُقارَنَةِ الأشرارِ.
-  </p>
-</blockquote>
+> وإلاّ ألْجَأكَ الإضطرارُ إلى مُقارَنَةِ الأشرارِ.
 
 226. Before choosing a friend, assess him and try hard to find out about
 him, otherwise you will be forced by necessity to associate with the
@@ -1497,12 +1197,8 @@ wicked.
 him.
 
 > 227ـ إنِ اسْتَنَمْتَ إلى وَدُودِكَ فَأحْرِزْ لَهُ مِنْ أمْرِكَ
-<blockquote dir="rtl">
-  <p>
-واستَبْقِ لهُ مِنْ سِـِّركَ مالَعَلَّكَ أنْ تَنْدِمَ عَلَيْهِ وَقتاً
-ما.
-  </p>
-</blockquote>
+> واستَبْقِ لهُ مِنْ سِـِّركَ مالَعَلَّكَ أنْ تَنْدِمَ عَلَيْهِ وَقتاً
+> ما.
 
 228. [Even] if you have gained confidence and trust in your close
 friend, safeguard some of your affairs and conceal some of your secrets
@@ -1520,32 +1216,20 @@ distasteful.
 the right of brotherhood.
 
 > 230ـ إذا وَثِقْتَ بِمَودَّةِ أخيكَ فَلا تُبالِ مَتى لَقيتَهُ
-<blockquote dir="rtl">
-  <p>
-ولَقِيَكَ.
-  </p>
-</blockquote>
+> ولَقِيَكَ.
 
 231. If you are certain of the affection of your brother then don’t be
 concerned [about what transpires] when you meet him or he meets you.
 
 > 231ـ مَنِاتَّخَذَ أخَاً بَعدَ حُسنِ الإختبارِ دامَتْ صُحبَتُهُ
-<blockquote dir="rtl">
-  <p>
-وتَأكَّدَتْ مَوَدَّتُهُ.
-  </p>
-</blockquote>
+> وتَأكَّدَتْ مَوَدَّتُهُ.
 
 232. One who takes a brother after successfully evaluating him, his
 companionship will last longer and his bond will be more firmly
 established.
 
 > 232ـ مَنْ لَم يُقَدِّمْ فِي اتّخاذِ الإخوانِ الاعتِبارَ دَفَعَهُ
-<blockquote dir="rtl">
-  <p>
-الاغتِرارُ إلى صُحْبَةِ الفُجَّارِ.
-  </p>
-</blockquote>
+> الاغتِرارُ إلى صُحْبَةِ الفُجَّارِ.
 
 233. One who does not investigate before he takes a brother will be
 misled to association with
@@ -1553,21 +1237,13 @@ misled to association with
 the depraved.
 
 > 233ـ مَنِاتَّخذَ أخَاً مِنْ غيرِ اختِبار ألجَأهُ الاضطرارُ إلى
-<blockquote dir="rtl">
-  <p>
-مُرافَقَةِ الأشرارِ.
-  </p>
-</blockquote>
+> مُرافَقَةِ الأشرارِ.
 
 234. One who takes a brother without evaluation will be forced by
 necessity to associate with the wicked.
 
 > 234ـ اَلإخْوانُ في اللّه تعالى تَدُومُ مَوَّدَتُهُمْ لِدَوامِ
-<blockquote dir="rtl">
-  <p>
-سَبَبِها.
-  </p>
-</blockquote>
+> سَبَبِها.
 
 235. The amity between those who are brothers for the sake of Allah
 endures because of its firm foundation.
@@ -1578,32 +1254,20 @@ endures because of its firm foundation.
 provision in times of difficulty.
 
 > 236ـ اَلأخُ المُكْتَسَبُ في اللّهِ أقْرَبُ الأقْرِباءِ وأحَمُّ مِنَ
-<blockquote dir="rtl">
-  <p>
-الأُمَّهاتِ والآباءِ.
-  </p>
-</blockquote>
+> الأُمَّهاتِ والآباءِ.
 
 237. The brother acquired for the sake of Allah is the nearest of
 relations – even closer than mothers and fathers.
 
 > 237ـ أخُوكَ في اللّهِ مَنْ هَداكَ إلى رَشاد، ونَهاكَ عَنْ فَساد،
-<blockquote dir="rtl">
-  <p>
-وأعانَكَ إلى إصلاحِ معاد.
-  </p>
-</blockquote>
+> وأعانَكَ إلى إصلاحِ معاد.
 
 238. Your brother for the sake of Allah is one who guides you towards
 rectitude, forbids you from corruption and assists you to improve your
 Hereafter.
 
 > 238ـ أخُوكَ الصَّديقُ مَنْ وَقاكَ بِنَفْسِهِ، وآثَرَكَ على مالِهِ
-<blockquote dir="rtl">
-  <p>
-ووَلدِهِ، وَعِرْسِهِ.
-  </p>
-</blockquote>
+> ووَلدِهِ، وَعِرْسِهِ.
 
 239. Your true friend and brother is the one who protects you with his
 life, and prefers you over his wealth, his children and his spouse.
@@ -1618,71 +1282,43 @@ life, and prefers you over his wealth, his children and his spouse.
 ignobility is a concealed disease.
 
 > 241ـ قارِنْ أهلَ الخَيرِ تَكُنْ مِنْهُمْ، وبايِنْ أهْلَ الشَّـرِّ
-<blockquote dir="rtl">
-  <p>
-تَبِنْ عَنْهُمْ.
-  </p>
-</blockquote>
+> تَبِنْ عَنْهُمْ.
 
 242. Accompany the virtuous and you will become one of them; separate
 yourself from the evil people and you will be dissociated from them.
 
 > 242ـ قَدِّمِ الاختبارَ فِي اتِّخاذِ الإخوانِ، فإنَّ الاختِبارَ مِعيارٌ
-<blockquote dir="rtl">
-  <p>
-يَفْرُقُ بَيْنَ الأخيارِ والأشرارِ.
-  </p>
-</blockquote>
+> يَفْرُقُ بَيْنَ الأخيارِ والأشرارِ.
 
 243. Be sure to investigate before taking anyone as your brother, for
 assessment is the gauge that distinguishes the virtuous from the wicked.
 
 > 243ـ مَنْ رَفِقَ بِمُصاحِبِهِ وافَقَهُ، ومَنْ أعنَفَ بِهِ أخْرَجَهُ
-<blockquote dir="rtl">
-  <p>
-وفارَقَهُ.
-  </p>
-</blockquote>
+> وفارَقَهُ.
 
 244. One who is courteous to his companion will gain his acceptance, and
 one who is harsh to him will drive him away and get separated from him.
 
 > 244ـ مَنْ لَمْ يَرْضَ مِنْ صَديقِهِ إلاّ بِإيثارِهِ على نَفْسِهِ دامَ
-<blockquote dir="rtl">
-  <p>
-سَخَطُهُ.
-  </p>
-</blockquote>
+> سَخَطُهُ.
 
 245. One who is not pleased with his friend except when he prefers him
 over himself, will always be resentful.
 
 > 245ـ مَنْ كانَتْ صُحْبَتُهُ في اللّهِ كانَتْ صُحْبَتُهُ كَريمَةً
-<blockquote dir="rtl">
-  <p>
-ومَوَدَّتُهُ مُسْتَقيمَةً.
-  </p>
-</blockquote>
+> ومَوَدَّتُهُ مُسْتَقيمَةً.
 
 246. One whose companionship is for the sake of Allah, his companionship
 is honourable and his friendship is upright.
 
 > 246ـ مَنْ لَمْ تَكُنْ مَوَدَّتُهُ فِي اللّهِ فَاحْذَرْهُ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-مَوَّدَتَهُ لَئيمَةٌ وصُحْبَتَهُ مَشُومَةٌ.
-  </p>
-</blockquote>
+> مَوَّدَتَهُ لَئيمَةٌ وصُحْبَتَهُ مَشُومَةٌ.
 
 247. Be careful of the one whose friendship is not for the sake of
 Allah, for his friendship is wicked and his company is doomed.
 
 > 247ـ مَنْ لَم يَصْحَبْكَ مُعيناً عَلى نَفْسِكَ فَصُحْبَتُهُ وَبالٌ
-<blockquote dir="rtl">
-  <p>
-عَليْكَ إنْ عَلِمتَ.
-  </p>
-</blockquote>
+> عَليْكَ إنْ عَلِمتَ.
 
 248. One who does not assist you by [his] accompanying you, then his
 company is [actually] a burden on you, if [only] you knew.
@@ -1733,11 +1369,7 @@ enemy out of your friend.
 258. There is no good in a stingy (or suspicious) friend.
 
 > 258ـ لا يَكُونُ الصَّديقُ صَديقاً حتّى يَحْفَظَ أخاهُ في غَيْبَتِهِ
-<blockquote dir="rtl">
-  <p>
-ونَكْبَتهِ وَوَفاتِهِ.
-  </p>
-</blockquote>
+> ونَكْبَتهِ وَوَفاتِهِ.
 
 259. A friend is not truly a friend unless he protects his brother in
 his absence, his misfortune and his death.
@@ -1756,11 +1388,7 @@ his absence, his misfortune and his death.
 friend.
 
 > 262ـ لاتَأمَنْ صَديقَكَ حتّى تَخْتَبِرَهُ وكُنْ مِنْ عَدُوِّكَ على
-<blockquote dir="rtl">
-  <p>
-أشَدِّ الحَذَرِ.
-  </p>
-</blockquote>
+> أشَدِّ الحَذَرِ.
 
 263. Do not rely on your friend until you have tested him, and be
 extremely cautious of your enemy.
@@ -1771,11 +1399,7 @@ extremely cautious of your enemy.
 bond [with him] last longer.
 
 > 264ـ مَنْ بَصَّـَركَ عَيْبَكَ وحَفِظَكَ في غَيْبِكَ فَهُوَ الصَّديقُ
-<blockquote dir="rtl">
-  <p>
-فَاحفَظْهُ.
-  </p>
-</blockquote>
+> فَاحفَظْهُ.
 
 265. One who points out your faults to you and defends you in your
 absence, then *he* is your true friend, so protect him.
@@ -1785,11 +1409,7 @@ absence, then *he* is your true friend, so protect him.
 266. One who has no friend has no provision.
 
 > 266ـ مَنْ دَعاكَ إلى الدَّارِ الباقِيَةِ وأعانَكَ علَى العَمَلِ لَها
-<blockquote dir="rtl">
-  <p>
-فَهُوَ الصَّديقُ الشَّفيقُ.
-  </p>
-</blockquote>
+> فَهُوَ الصَّديقُ الشَّفيقُ.
 
 267. One who calls you towards the Eternal Abode and assists you to work
 for it, then *he* is indeed a caring friend.
@@ -1803,5 +1423,4 @@ wicked.
 
 269. Nothing establishes the boundaries of respect like companionship
 and neighbourhood.
-
 

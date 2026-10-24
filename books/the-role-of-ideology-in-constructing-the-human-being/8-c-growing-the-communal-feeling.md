@@ -424,69 +424,68 @@ alturaathil Arabi.
 [^15] Asbaab alnouzoul: Abbilhassan alnissaboori: 281, Enteshaaraat
 Alrezi, pub. Of A’alam Alkutub: 235.
 
-[^16] Kenzel aumaal 1:206
+[^16]: Kenzel aumaal 1:206
 
-[^17] Kenzel aumaal 1: 206/ 1035.
+[^17]: Kenzel aumaal 1: 206/ 1035.
 
-[^18] Rawzatel waaeizeen: Alfattal alnissabouri 334- Alrezi pub. Qum.
+[^18]: Rawzatel waaeizeen: Alfattal alnissabouri 334- Alrezi pub. Qum.
 
-[^19] Jaamel sa’adaat; Alneraaqhi 3:195-197, Alnejjaf alashraf pub. 3/
+[^19]: Jaamel sa’adaat; Alneraaqhi 3:195-197, Alnejjaf alashraf pub. 3/
 1383 H.
 
-[^20] Mekarem Al-Akhlak, by Al-Tebrisy vol.1 p. 466/769.
+[^20]: Mekarem Al-Akhlak, by Al-Tebrisy vol.1 p. 466/769.
 
-[^21] Kenzel aumaal 1: 154/ 769.
+[^21]: Kenzel aumaal 1: 154/ 769.
 
-[^22] Kenzelaumaal 4: 454/ 11354.
+[^22]: Kenzelaumaal 4: 454/ 11354.
 
-[^23] Alfateh: 48-26.
+[^23]: Alfateh: 48-26.
 
-[^24] Usool Al-Kafi vol.2, p. 308/ ch. Of zealotry.
+[^24]: Usool Al-Kafi vol.2, p. 308/ ch. Of zealotry.
 
-[^25] Sunnan Abbi dawood 2: 332/ 4- ch. of zealotry.
+[^25]: Sunnan Abbi dawood 2: 332/ 4- ch. of zealotry.
 
-[^26] Interpretation of Nehjelbalagha, Ibna Abil hadeed 13: 166, Dar
+[^26]: Interpretation of Nehjelbalagha, Ibna Abil hadeed 13: 166, Dar
 Ehiaael turath alarabi pub. 2.
 
-[^27] Ausoulilkaafi 2: 308/7 ch. Of zealotry ketaab aleimaan walkufur.
+[^27]: Ausoulilkaafi 2: 308/7 ch. Of zealotry ketaab aleimaan walkufur.
 
-[^28] The morals of Ahlilbait (A.S.) sayed M. Alsadre: 70.
+[^28]: The morals of Ahlilbait (A.S.) sayed M. Alsadre: 70.
 
 [^29] Al- Ihtejaj vol.1, p. 260.
 
 [^30] Alhujuraat 49:13.
 
-[^31] Al Maeideh 5: 2.
+[^31]: Al Maeideh 5: 2.
 
-[^32] Mekaarim alakhlaaq, Shakh Tabressi: 251-252, Al’alemi, pub. 6.
+[^32]: Mekaarim alakhlaaq, Shakh Tabressi: 251-252, Al’alemi, pub. 6.
 
-[^33] Behaarel anwaar 76- 274, quoting Almahaasin.
+[^33]: Behaarel anwaar 76- 274, quoting Almahaasin.
 
-[^34] Fi Rehaab a’emmat Ahlilbait (A.S.) Sayed Mohsim Alameen 2: 202
+[^34]: Fi Rehaab a’emmat Ahlilbait (A.S.) Sayed Mohsim Alameen 2: 202
 Darel ta’aruf.
 
-[^35] The previous source 4: 84 Daar Saaub.
+[^35]: The previous source 4: 84 Daar Saaub.
 
-[^36] Ausoul ilkaafi: 2: 173-174/ 13 ch. Of Muamin rights.
+[^36]: Ausoul ilkaafi: 2: 173-174/ 13 ch. Of Muamin rights.
 
-[^37] Tenbeehil Khawaatir, Ameer Warram 2: 266, Daar Saoub.
+[^37]: Tenbeehil Khawaatir, Ameer Warram 2: 266, Daar Saoub.
 
-[^38] Warraam collection 2: 185 Dar saoub.
+[^38]: Warraam collection 2: 185 Dar saoub.
 
-[^39] Ausoulilkaafi 2: 173/ 10 ketaabil eeimaan walkufur.
+[^39]: Ausoulilkaafi 2: 173/ 10 ketaabil eeimaan walkufur.
 
-[^40] Nehjilbalaagha: Subhi alsaalih 203/ sermon 146.
+[^40]: Nehjilbalaagha: Subhi alsaalih 203/ sermon 146.
 
-[^41] Mekaarim alakhlaaq: Tebressi: 26.
+[^41]: Mekaarim alakhlaaq: Tebressi: 26.
 
-[^42] The same previous source.
+[^42]: The same previous source.
 
-[^43] Nehjil balagha: subhi Elsaalih: 475/ hekma 37.
+[^43]: Nehjil balagha: subhi Elsaalih: 475/ hekma 37.
 
-[^44] Nehjil balagha Suhi Elsaalih: 538/ hekma 359
+[^44]: Nehjil balagha Suhi Elsaalih: 538/ hekma 359
 
-[^45] Al-Raad 13: 11.
+[^45]: Al-Raad 13: 11.
 
-[^46] Iktisaduna, by the martyr Mohammad Baqir Al-Sadr, p. 324.
-
+[^46]: Iktisaduna, by the martyr Mohammad Baqir Al-Sadr, p. 324.
 

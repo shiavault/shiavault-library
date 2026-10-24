@@ -10,11 +10,7 @@ Surah Qaf, Chapter 50, Verses 1 - 26
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -55,26 +51,14 @@ with the contextual meaning of the Chapter.
 Surah Qaf - Verses 1-2
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-ق وَالْقُرْآنِ الْمَجِيدِ
-  </p>
-</blockquote>
+> ق وَالْقُرْآنِ الْمَجِيدِ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ عَجِبُوا أن جَاءهُمْ مُنذِرٌ مِّنْهُمْ فَقَالَ الْكَافِرُونَ
-هَذَا شَيْءٌ عَجِيبٌ
-  </p>
-</blockquote>
+> بَلْ عَجِبُوا أن جَاءهُمْ مُنذِرٌ مِّنْهُمْ فَقَالَ الْكَافِرُونَ
+> هَذَا شَيْءٌ عَجِيبٌ
 
 ***1. Qaf. By the Glorious Qur’an [your Prophethood and Resurrection are
 true].***  
@@ -136,18 +120,10 @@ Prophet’s (S) words and it serves as warning to people.
 Surah Qaf - Verses 3-4
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أئِذَا مِتْنَا وَكُنَّا تُرَابًا ذَلِكَ رَجْعٌ بَعِيدٌ
-  </p>
-</blockquote>
+> أئِذَا مِتْنَا وَكُنَّا تُرَابًا ذَلِكَ رَجْعٌ بَعِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-قَدْ عَلِمْنَا مَا تَنقُصُ الْأرْضُ مِنْهُمْ وَعِندَنَا كِتَابٌ
-حَفِيظٌ
-  </p>
-</blockquote>
+> قَدْ عَلِمْنَا مَا تَنقُصُ الْأرْضُ مِنْهُمْ وَعِندَنَا كِتَابٌ
+> حَفِيظٌ
 
 ***3. “When we are dead and have become dust [shall we be resurrected?]
 That is a far return.”***  
@@ -208,11 +184,7 @@ tablet.’
 Surah Qaf - Verse 5
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءهُمْ فَهُمْ فِي أمْرٍ مَّرِيجٍ
-  </p>
-</blockquote>
+> بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءهُمْ فَهُمْ فِي أمْرٍ مَّرِيجٍ
 
 ***5. Nay, but they have denied the truth [the Holy Qur’an] when it has
 come to them; thus they are in a confused state [as to Prophethood and
@@ -232,25 +204,13 @@ Holy Qur’an lead to serenity and peace of mind.
 Surah Qaf - Verses 6-8
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَلَمْ يَنظُرُوا إِلَی السَّمَاء فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا
-وَزَيَّنَّاهَا وَمَا لَهَا مِن فُرُوجٍ
-  </p>
-</blockquote>
+> أفَلَمْ يَنظُرُوا إِلَی السَّمَاء فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا
+> وَزَيَّنَّاهَا وَمَا لَهَا مِن فُرُوجٍ
 
-<blockquote dir="rtl">
-  <p>
-وَالْأرْضَ مَدَدْنَاهَا وَألْقَيْنَا فِيهَا رَوَاسِيَ وَأنبَتْنَا
-فِيهَا مِن كُلِّ زَوْجٍ بَهِيجٍ
-  </p>
-</blockquote>
+> وَالْأرْضَ مَدَدْنَاهَا وَألْقَيْنَا فِيهَا رَوَاسِيَ وَأنبَتْنَا
+> فِيهَا مِن كُلِّ زَوْجٍ بَهِيجٍ
 
-<blockquote dir="rtl">
-  <p>
-تَبْصِرَةً وَذِكْرَی لِكُلِّ عَبْدٍ مُّنِيبٍ
-  </p>
-</blockquote>
+> تَبْصِرَةً وَذِكْرَی لِكُلِّ عَبْدٍ مُّنِيبٍ
 
 ***6. Have they not looked at the heaven above them, how We have made it
 and adorned it [with stars], and there are no rifts in it?***  
@@ -292,25 +252,13 @@ world through perceiving the effects.
 Surah Qaf - Verses 9-11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَّلْنَا مِنَ السَّمَاء مَاء مُّبَارَكًا فَأنبَتْنَا بِهِ جَنَّاتٍ
-وَحَبَّ الْحَصِيدِ
-  </p>
-</blockquote>
+> وَنَزَّلْنَا مِنَ السَّمَاء مَاء مُّبَارَكًا فَأنبَتْنَا بِهِ جَنَّاتٍ
+> وَحَبَّ الْحَصِيدِ
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّخْلَ بَاسِقَاتٍ لَّهَا طَلْعٌ نَّضِيدٌ
-  </p>
-</blockquote>
+> وَالنَّخْلَ بَاسِقَاتٍ لَّهَا طَلْعٌ نَّضِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-رِزْقًا لِّلْعِبَادِ وَأحْيَيْنَا بِهِ بَلْدَةً مَّيْتًا كَذَلِكَ
-الْخُرُوجُ
-  </p>
-</blockquote>
+> رِزْقًا لِّلْعِبَادِ وَأحْيَيْنَا بِهِ بَلْدَةً مَّيْتًا كَذَلِكَ
+> الْخُرُوجُ
 
 ***9. And We send down blessed water [rain] from the sky, then We
 produce therewith gardens and grain [every kind of harvests] that are
@@ -383,24 +331,12 @@ life to those who have died and have turned into dust.
 Surah Qaf - Verses 12-14
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأصْحَابُ الرَّسِّ وَثَمُودُ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأصْحَابُ الرَّسِّ وَثَمُودُ
 
-<blockquote dir="rtl">
-  <p>
-وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ
-  </p>
-</blockquote>
+> وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ
 
-<blockquote dir="rtl">
-  <p>
-وَأصْحَابُ الْأيْكَةِ وَقَوْمُ تُبَّعٍ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ
-وَعِيدِ
-  </p>
-</blockquote>
+> وَأصْحَابُ الْأيْكَةِ وَقَوْمُ تُبَّعٍ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ
+> وَعِيدِ
 
 ***12. Denied before them [polytheists of Mecca] the people of Noah, and
 the dwellers of Rass, and [the people of] Thamud;***  
@@ -465,12 +401,8 @@ torments in this world and desist from denial of Prophets (as).
 Surah Qaf - Verse 15
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَعَيِينَا بِالْخَلْقِ الْأوَّلِ بَلْ هُمْ فِي لَبْسٍ مِّنْ خَلْقٍ
-جَدِيدٍ
-  </p>
-</blockquote>
+> أفَعَيِينَا بِالْخَلْقِ الْأوَّلِ بَلْ هُمْ فِي لَبْسٍ مِّنْ خَلْقٍ
+> جَدِيدٍ
 
 ***15. Were We then tired with the first creation [to be hopeless of
 creating you anew on the Day of Resurrection]? Nay, they are in confused
@@ -496,12 +428,8 @@ change.
 Surah Qaf - Verse 16
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
-وَنَحْنُ أقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
+> وَنَحْنُ أقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
 
 ***16. And verily We have created man and We know what his ownself
 whispers to him. And We are closer unto him than his jugular vein [and
@@ -565,18 +493,10 @@ servant.
 Surah Qaf - Verses 17-18
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَتَلَقَّی الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ
-قَعِيدٌ
-  </p>
-</blockquote>
+> إِذْ يَتَلَقَّی الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ
+> قَعِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-مَا يَلْفِظُ مِن قَوْلٍ إِلاّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
-  </p>
-</blockquote>
+> مَا يَلْفِظُ مِن قَوْلٍ إِلاّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
 
 ***17. [Remember] that the two angels [accompanying man] receive [man’s
 deeds], one sitting on the right and one on the left [to note his
@@ -610,11 +530,7 @@ the twain angels accompany man at all times and watch his deeds.
 Surah Qaf - Verse 19
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
-  </p>
-</blockquote>
+> وَجَاءتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
 
 ***19. And the stupor of death will come in truth [and it is said unto
 man]: “This is what you escaped at all times!”***
@@ -667,17 +583,9 @@ well-pleasing”***[^13]***.***
 Surah Qaf - Verses 20-21
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِي الصُّورِ ذَلِكَ يَوْمُ الْوَعِيدِ
-  </p>
-</blockquote>
+> وَنُفِخَ فِي الصُّورِ ذَلِكَ يَوْمُ الْوَعِيدِ
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءتْ كُلُّ نَفْسٍ مَّعَهَا سَائِقٌ وَشَهِيدٌ
-  </p>
-</blockquote>
+> وَجَاءتْ كُلُّ نَفْسٍ مَّعَهَا سَائِقٌ وَشَهِيدٌ
 
 ***20. And the Trumpet [of Resurrection] will be blown that will be the
 Day when the warning of torment shall be realized.***  
@@ -706,18 +614,10 @@ It may also make a reference to the aforesaid twain angels (raqib and
 Surah Qaf - Verses 22-23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَذَا فَكَشَفْنَا عَنكَ غِطَاءكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
-  </p>
-</blockquote>
+> لَقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَذَا فَكَشَفْنَا عَنكَ غِطَاءكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ قَرِينُهُ هَذَا مَا لَدَيَّ عَتِيدٌ
-  </p>
-</blockquote>
+> وَقَالَ قَرِينُهُ هَذَا مَا لَدَيَّ عَتِيدٌ
 
 ***22. [It will be said to him]: “Verily, you were [totally] heedless of
 this [scene]. Now We have removed from you your covering [of neglect]
@@ -750,24 +650,12 @@ Thus, the ‘companion’ will say on the Day of Resurrection
 Surah Qaf - Verses 24-26
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ألْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ
-  </p>
-</blockquote>
+> ألْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ
-  </p>
-</blockquote>
+> مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَعَلَ مَعَ اللَّهِ إِلَهًا آخَرَ فَألْقِيَاهُ فِي الْعَذَابِ
-الشَّدِيدِ
-  </p>
-</blockquote>
+> الَّذِي جَعَلَ مَعَ اللَّهِ إِلَهًا آخَرَ فَألْقِيَاهُ فِي الْعَذَابِ
+> الشَّدِيدِ
 
 ***24. [Allah will say to the driving and witnessing angels:] “Both of
 you throw into Hell every stubborn disbeliever.***  
@@ -835,5 +723,4 @@ such disbelievers has to be cast into severe torment.
 
 [^15]: For further details, consult exegetic works. Details have not
 been dealt with for the sake of brevity.
-
 

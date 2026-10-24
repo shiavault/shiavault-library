@@ -41,4 +41,3 @@ Yet this is not sufficient for proving the possibility of knowledge.
 Aren't idealist thought and theological and metaphysical thought as much
 part of nature and products of it as dialectical materialism?
 
-

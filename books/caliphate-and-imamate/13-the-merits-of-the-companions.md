@@ -582,4 +582,3 @@ Ihqaq al-haqq wa izhaq al-batil, ed, Sayyid Mahmud Mar'ashi, Qumm, n.d.
 
 [^58]: See above, 25.
 
-

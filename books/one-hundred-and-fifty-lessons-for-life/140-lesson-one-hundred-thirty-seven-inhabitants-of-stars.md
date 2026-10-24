@@ -3,12 +3,8 @@ Lesson One Hundred Thirty Seven: Inhabitants Of Stars
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-هذِهِ النُّجُومُ الَّتى فِى السَّماءِ مَدائِنٌ مِثْلُ الْمَدائِنِ
-الَّتى فِى الاَرْضِ مَرْبُوطَةٌ كُلُّ مَدِينَة اِلى عَمُود مِنْ نُور
-  </p>
-</blockquote>
+> هذِهِ النُّجُومُ الَّتى فِى السَّماءِ مَدائِنٌ مِثْلُ الْمَدائِنِ
+> الَّتى فِى الاَرْضِ مَرْبُوطَةٌ كُلُّ مَدِينَة اِلى عَمُود مِنْ نُور
 
 Translation
 -----------
@@ -34,5 +30,4 @@ above tradition of Imam ‘Ali (a.s.) is nothing less than a miracle.
 
 [^1]: Safinat’ul-Bihar, volume 3, page 574. Tafseer Al-Qummi, vol 2,
 page 218.
-
 

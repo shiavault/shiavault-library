@@ -37,4 +37,3 @@ The author
 A.H., 14/4/1954 A.D. and the last letter of the draft was in 2/8/1374
 A.H., 27/3/1955 A.D.
 
-

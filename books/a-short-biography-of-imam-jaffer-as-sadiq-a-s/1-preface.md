@@ -43,7 +43,6 @@ Mohamed Raza Mohamed Husein Dungersi,
 February 11, 1999 Shawwal24, 1419
 New York-U.S. A
 
-
 **Chapter 1 : Imam Jaffer Bin Muhammad Al-Sadiq(A.S.) Childhood and
 Early Manhood**
 
@@ -172,5 +171,4 @@ one who would take over form him as the Imam of the time.
 
 He tapped Imam Sadiq (A.S) with his hand and said, "By Allah, this man
 from the family of Muhammad (S.A.W.W.) will take charge."
-
 

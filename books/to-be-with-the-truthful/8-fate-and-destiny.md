@@ -600,4 +600,3 @@ Vol. IX, p. 163; Yanābi' al-mawaddah, p. 41; al-Suyuti in al-Durr
 al-manthur, Vol. II, p. 60; Kanz al-'ummāl, Vol. I, p. 168; Usd
 al-ghābah, Vol. III, p. 137; 'Abaqāt al-'anwār, Vol. I, p. 184.
 
-

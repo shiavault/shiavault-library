@@ -104,4 +104,3 @@ the creation and education of the Islamic identities.
 poor Muslims in their fight against Imperialism and Communism, the
 assurance of material-spiritual security of the Islamic nation.
 
-

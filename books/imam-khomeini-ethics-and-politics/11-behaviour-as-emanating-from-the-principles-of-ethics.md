@@ -301,16 +301,11 @@ himself, goes beyond himself, and enters a loftier plane: 
 
  
 
-<blockquote dir="rtl">
-  <p>
-عارفان هر دمى دو عيد كنند                عنكبوتان مگس قديد كنند
-  </p>
-</blockquote>
+> عارفان هر دمى دو عيد كنند                عنكبوتان مگس قديد كنند
 
 *Every moment the mystics make two celebrations;*
 
 *But the spider-like men let dry the fly to prey on it.*
 
            
-
 

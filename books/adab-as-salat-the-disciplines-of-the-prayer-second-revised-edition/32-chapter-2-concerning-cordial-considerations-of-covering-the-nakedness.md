@@ -210,4 +210,3 @@ stated.  
 
 [^10]: Misbāh ash-Sharī'ah, sec. 7, on “Clothing”.
 
-

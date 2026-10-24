@@ -182,13 +182,9 @@ Thus far we have covered five types of**مبني** words.
 
 All**حروف** .
 
-<p dir="rtl">
 **ماضي** .
-</p>
 
-<p dir="rtl">
 **أمر حاضر معروف** .
-</p>
 
 **مضارع** with the ‘nun’ of feminine plurality.
 
@@ -214,9 +210,7 @@ the emphatic tables are**مبني**   in their entirety due to the ‘**ن** �
 of emphasis being a particle and particles do not give way to last
 letter change.
 
-The 20% of أسماء that are مبن<p dir="rtl">
-ي
-</p>
+The 20% of أسماء that are مبني
 ------------------------------
 
 From the perspective of**أعراب** and**بناء** , the ‘**إسم** ’ is
@@ -339,585 +333,253 @@ particles: one of the three**مبني الأصل** .
 The following is a full table of all the**ضَماﺋﺮ** discussed in this
 section:
 
-<p dir="rtl">
 **مجرور متّصِل**
-</p>
 
-<p dir="rtl">
 **منصوب**
-</p>
 
-<p dir="rtl">
 **مرفوع**
-</p>
 
-<p dir="rtl">
 **صيغة**
-</p>
 
-<p dir="rtl">
 بِمضاف
-</p>
 
-<p dir="rtl">
 بِحرف جر
-</p>
 
-<p dir="rtl">
 منفصل
-</p>
 
-<p dir="rtl">
 متّصِل
-</p>
 
-<p dir="rtl">
 مُنفَصِل
-</p>
 
-<p dir="rtl">
 متّصِل
-</p>
 
-<p dir="rtl">
 مضارع
-</p>
 
-<p dir="rtl">
-ماض<p dir="rtl">
-ي
-</p>
-</p>
+ماضي
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُهُ
+
+لَهُ
+
+إيّاهُ
+
 هُ
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-هُ
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-هُ
-</p>
-</p>
-
-<p dir="rtl">
-هُ
-</p>
-
-<p dir="rtl">
 هُوَ
-</p>
 
-<p dir="rtl">
 يَضرِبُ (هو )
-</p>
 
-<p dir="rtl">
 ضَرَبَ (هو )
-</p>
 
-<p dir="rtl">
 واحد مذكر غاﺋﺐ
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُهُما
+
+لَهُما
+
+إيّاهُما
+
 هُما
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
 هُما
-</p>
-</p>
 
-<p dir="rtl">
-إيّا<p dir="rtl">
-هُما
-</p>
-</p>
-
-<p dir="rtl">
-هُما
-</p>
-
-<p dir="rtl">
-هُما
-</p>
-
-<p dir="rtl">
 يَضرِبا نِ
-</p>
 
-<p dir="rtl">
 ضَرَبا
-</p>
 
-<p dir="rtl">
 تثنية مذكر غاﺋﺐ
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُهُم
+
+لَهُم
+
+إيّاهُم
+
 هُم
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
 هُم
-</p>
-</p>
 
-<p dir="rtl">
-إيّا<p dir="rtl">
-هُم
-</p>
-</p>
-
-<p dir="rtl">
-هُم
-</p>
-
-<p dir="rtl">
-هُم
-</p>
-
-<p dir="rtl">
 يَضرِبُو نَ
-</p>
 
-<p dir="rtl">
 ضَرَبُو ا
-</p>
 
-<p dir="rtl">
 جمع مذكر غاﺋﺐ
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُها
+
+لَها
+
+إيّاها
+
 ها
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-ها
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-ها
-</p>
-</p>
-
-<p dir="rtl">
-ها
-</p>
-
-<p dir="rtl">
 هِيَ
-</p>
 
-<p dir="rtl">
 تَضرِبُ (هي )
-</p>
 
-<p dir="rtl">
 ضَرَبَتْ (هي )
-</p>
 
-<p dir="rtl">
 واحد مؤنث غاﺋﺐ
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُهُما
+
+لَهُما
+
+إيّاهُما
+
 هُما
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
 هُما
-</p>
-</p>
 
-<p dir="rtl">
-إيّا<p dir="rtl">
-هُما
-</p>
-</p>
-
-<p dir="rtl">
-هُما
-</p>
-
-<p dir="rtl">
-هُما
-</p>
-
-<p dir="rtl">
 تَضرِبا نِ
-</p>
 
-<p dir="rtl">
 ضَرَبَتا
-</p>
 
-<p dir="rtl">
 تثنية مؤنث غاﺋﺐ
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُهُنَّ
+
+لَهُنَّ
+
+إيّاهُنَّ
+
 هُنَّ
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
 هُنَّ
-</p>
-</p>
 
-<p dir="rtl">
-إيّا<p dir="rtl">
-هُنَّ
-</p>
-</p>
-
-<p dir="rtl">
-هُنَّ
-</p>
-
-<p dir="rtl">
-هُنَّ
-</p>
-
-<p dir="rtl">
 يَضرِبنَ
-</p>
 
-<p dir="rtl">
 ضَرَبْنَ
-</p>
 
-<p dir="rtl">
 جمع مؤنث غاﺋﺐ
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُكَ
+
+لَكَ
+
+إيّاكَ
+
 كَ
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-كَ
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-كَ
-</p>
-</p>
-
-<p dir="rtl">
-كَ
-</p>
-
-<p dir="rtl">
 أنتَ
-</p>
 
-<p dir="rtl">
 تَضرِبُ (هو )
-</p>
 
-<p dir="rtl">
 ضَرَبْتَ
-</p>
 
-<p dir="rtl">
 واحد مذكر حاضر
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُكُما
+
+لَكُما
+
+إيّاكُما
+
 كُما
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-كُما
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-كُما
-</p>
-</p>
-
-<p dir="rtl">
-كُما
-</p>
-
-<p dir="rtl">
 أنتُما
-</p>
 
-<p dir="rtl">
 تَضرِبا نِ
-</p>
 
-<p dir="rtl">
 ضَرَبْتُما
-</p>
 
-<p dir="rtl">
 تثنية مذكر حاضر
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُكُم
+
+لَكُم
+
+إيّاكُم
+
 كُم
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-كُم
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-كُم
-</p>
-</p>
-
-<p dir="rtl">
-كُم
-</p>
-
-<p dir="rtl">
 أنتُم
-</p>
 
-<p dir="rtl">
 تَضرِبُو نَ
-</p>
 
-<p dir="rtl">
 ضَرَبْتُمْ
-</p>
 
-<p dir="rtl">
 جمع مذكر حاضر
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُكِ
+
+لَكِ
+
+إيّاكِ
+
 كِ
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-كِ
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-كِ
-</p>
-</p>
-
-<p dir="rtl">
-كِ
-</p>
-
-<p dir="rtl">
 أنتِ
-</p>
 
-<p dir="rtl">
 تَضرِﺑِﻴ ﻦَ
-</p>
 
-<p dir="rtl">
 ضَرَبْتِ
-</p>
 
-<p dir="rtl">
 واحد مؤنث حاضر
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُكُما
+
+لَكُما
+
+إيّاكُما
+
 كُما
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-كُما
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-كُما
-</p>
-</p>
-
-<p dir="rtl">
-كُما
-</p>
-
-<p dir="rtl">
 أنتُما
-</p>
 
-<p dir="rtl">
 تَضرِبا نِ
-</p>
 
-<p dir="rtl">
 ضَرَبْتُما
-</p>
 
-<p dir="rtl">
 تثنية مؤنث حاضر
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُكُنَّ
+
+لَكُنَّ
+
+إيّاكُنَّ
+
 كُنَّ
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-كُنَّ
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-كُنَّ
-</p>
-</p>
-
-<p dir="rtl">
-كُنَّ
-</p>
-
-<p dir="rtl">
 أنتُنَّ
-</p>
 
-<p dir="rtl">
 تَضرِبنَ
-</p>
 
-<p dir="rtl">
 ضَرَبْتُنَّ
-</p>
 
-<p dir="rtl">
 جمع مؤنث حاضر
-</p>
 
-<p dir="rtl">
 دارِيَ
-</p>
 
-<p dir="rtl">
-لِ<p dir="rtl">
-ي
-</p>
-</p>
+لِي
 
-<p dir="rtl">
 إيّايَ
-</p>
 
-<p dir="rtl">
 ي
-</p>
 
-<p dir="rtl">
-أ<p dir="rtl">
-نا
-</p>
-</p>
+أنا
 
-<p dir="rtl">
 أضرِبُ (أنا )
-</p>
 
-<p dir="rtl">
 ضَرَبْتُ
-</p>
 
-<p dir="rtl">
 واحد متكلم
-</p>
 
-<p dir="rtl">
-دارُ<p dir="rtl">
+دارُنا
+
+لَنا
+
+إيّانا
+
 نا
-</p>
-</p>
 
-<p dir="rtl">
-لَ<p dir="rtl">
-نا
-</p>
-</p>
-
-<p dir="rtl">
-إيّا<p dir="rtl">
-نا
-</p>
-</p>
-
-<p dir="rtl">
-نا
-</p>
-
-<p dir="rtl">
 نَحنُ
-</p>
 
-<p dir="rtl">
 نَضرِبُ (نحن )
-</p>
 
-<p dir="rtl">
 ضَرَبْنَا
-</p>
 
-<p dir="rtl">
 جمع متكلم
-</p>
 
 Table Error! No text of specified style in document. -B - Personal
 Pronouns

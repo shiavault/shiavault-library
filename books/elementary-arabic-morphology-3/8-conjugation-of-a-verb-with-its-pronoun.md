@@ -86,4 +86,3 @@ predicate of an appropinquation verb except with the predicate of
 43. A verb does not change when connected to accusative and genitive
 pronouns.
 
-

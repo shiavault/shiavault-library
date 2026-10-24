@@ -159,11 +159,7 @@ unpublished.
 The tenth part dealing with the hadith... (*al-haqqu ma’a ‘Aliyyin wa
 ‘Aliyyun ma’al- haqq*) [^12] also remains unpublished.
 
-<blockquote dir="rtl">
-  <p>
-الحق مع علي وعلي مع الحق
-  </p>
-</blockquote>
+> الحق مع علي وعلي مع الحق
 
 The eleventh part dealing with *Hadith al-­Muqatalah* [^13] also remains
 unpublished.
@@ -184,18 +180,14 @@ great scholar ‘Allamah Aqa Buzurg Tehrani, the author of *al-­Dhari’ah
 ila tasanif al-­Shi’ah,* about Sayyid Hamid Husayn and his work. He says
 about the author:
 
-<blockquote dir="rtl">
-  <p>
-من أكابر متكلمي الامامية وأعاظم علماء الشيعة المتبحرين في أوليات هذا
-القرن ، كان كثير التتبع ، واسع الاطلاع والإحاطة بالآثار والاخبار
-والتراث الإسلامي ، بلغ في ذلك مبلغا لم يبلغه أحد من معاصريه ولا
-المتأخرين عنه ، بل ولا كثير من أعلام القرون السابقة ، أفنى عمره الشريف
-في البحث عن اسرار الديانة والذب عن بيضة الإسلام وحوزة الدين الحنيف ،
-ولا أعهد في القرون المتأخرة من جاهد جهاده وبذل في سبيل الحقائق الراهنة
-طارفه وتلاده ، ولم تر عين الزمان في جميع الأمصار والاعصار مضاهيا له في
-تتبعه وكثرة اطلاعه ودقته وذكائه وشدة حفظه وضبطه.
-  </p>
-</blockquote>
+> من أكابر متكلمي الامامية وأعاظم علماء الشيعة المتبحرين في أوليات هذا
+> القرن ، كان كثير التتبع ، واسع الاطلاع والإحاطة بالآثار والاخبار
+> والتراث الإسلامي ، بلغ في ذلك مبلغا لم يبلغه أحد من معاصريه ولا
+> المتأخرين عنه ، بل ولا كثير من أعلام القرون السابقة ، أفنى عمره الشريف
+> في البحث عن اسرار الديانة والذب عن بيضة الإسلام وحوزة الدين الحنيف ،
+> ولا أعهد في القرون المتأخرة من جاهد جهاده وبذل في سبيل الحقائق الراهنة
+> طارفه وتلاده ، ولم تر عين الزمان في جميع الأمصار والاعصار مضاهيا له في
+> تتبعه وكثرة اطلاعه ودقته وذكائه وشدة حفظه وضبطه.
 
 (He is) one of the greatest of Imami theologians (mutakallimun) and one
 of the greatest and deeply learned of Shi’i scholars who lived in the
@@ -521,5 +513,4 @@ Dhakha'ir al-uqba, 20; al-­Manawi in Kunuz al-­haqa'iq, 132.
 
 [^15]: See al-Sayyid \`Ali al-­Milani, "Al-Sayyid Hamid Husayn (r) wa
 Kitabuhu al­-Abaqat," Turathuna, No. 4 (Rabi\` 1406 H.) pp. 144­156.
-
 

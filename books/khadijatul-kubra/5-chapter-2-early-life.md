@@ -275,4 +275,3 @@ who was not only the best in all Arabia but was also the very best in
 all creation. It was her destiny which prompted her to turn down offers
 of marriage sent by commonplace mortals.
 
-

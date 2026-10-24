@@ -75,4 +75,3 @@ of those who were accused of showing hostility towards Ali (a.s).[^4]
 
 [^4]: - Tadrib al-Rawi, vol. 1, pp. 278 and 279.
 
-

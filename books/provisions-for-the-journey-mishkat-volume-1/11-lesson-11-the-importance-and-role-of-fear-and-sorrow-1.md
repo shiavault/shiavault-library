@@ -58,12 +58,8 @@ perfection.
 Allah, the Exalted, states in two verses that once We send prophets
 (*‘a*) to the people, We afflict them with hardships and adversities:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا اَرْسَلْنَا في قَرْيَةٍ مِنْ نَبِيِّ اِلاَّ أَخَذْنَا أَهْلَهَا
-بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ
-  </p>
-</blockquote>
+> وَمَا اَرْسَلْنَا في قَرْيَةٍ مِنْ نَبِيِّ اِلاَّ أَخَذْنَا أَهْلَهَا
+> بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ
 
 ***“And We did not send a prophet in a town but We overtook its people
 with distress and affliction in order that they might humble
@@ -71,12 +67,8 @@ themselves.”***[^1]
 
 And in another verse, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا إِلی أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ
-بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا إِلی أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ
+> بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ
 
 ***“And certainly We sent apostles to nations before you, then We seized
 them with distress and affliction in order that they might humble
@@ -96,12 +88,8 @@ It has been said that fear and dread with regard to matters of the
 hereafter causes spiritual ascendance, perfection and prosperity. In
 this regard, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ‌ رَبِّهِ وَنَهَی النَّفْسَ عَن الْهَوَی \*
-فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَي
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ‌ رَبِّهِ وَنَهَی النَّفْسَ عَن الْهَوَی \*
+> فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَي
 
 ***“And as for him who fears to stand in the presence of his Lord and
 forbids the soul from low desires; then surely the Garden—that is the
@@ -178,12 +166,8 @@ overjoyed with the world and is busy with himself, he lags behind in
 paying attention to Allah and spiritual matters. It is for this reason
 that in the Qur’an this drunken ecstasy is castigated:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَذَقْنَاهُ نَعْمَاءَ بَعْدَ ضَرّآءَ مَسَّتْهُ لَيَقُولَنَّ
-ذَهَبَ السَّيِّأَتُ عَنِّي إِنَّهُ لَفَرَحٌ فَخُورٌ
-  </p>
-</blockquote>
+> وَلَئِنْ أَذَقْنَاهُ نَعْمَاءَ بَعْدَ ضَرّآءَ مَسَّتْهُ لَيَقُولَنَّ
+> ذَهَبَ السَّيِّأَتُ عَنِّي إِنَّهُ لَفَرَحٌ فَخُورٌ
 
 ***“And if We make him taste favor after distress has afflicted him, he
 will certainly say, ‘The evils are gone away from me. Most surely, he is
@@ -209,12 +193,8 @@ Essentially, people who used to derive benefit from the directions and
 the divine invitations of the prophets (*‘a*) and saints [*awliya’*] of
 Allah were people who held fear of Allah in their hearts.
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ
-وَأَقَامُوا الصَّلوةَ ...
-  </p>
-</blockquote>
+> ... إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ
+> وَأَقَامُوا الصَّلوةَ ...
 
 ***“You warn only those who fear their Lord in secret and keep up
 prayer…”***[^9]
@@ -222,12 +202,8 @@ prayer…”***[^9]
 The invitation and instruction of the Prophets (S) are ineffective in
 people who do not fear Allah, as Allah states:
 
-<blockquote dir="rtl">
-  <p>
-... سَوآءٌ عَلَيْهِمْ ءَأَنْذَرْتَهُمْ أَمْ لَمْ تُنُذِرْهُمْ لا
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> ... سَوآءٌ عَلَيْهِمْ ءَأَنْذَرْتَهُمْ أَمْ لَمْ تُنُذِرْهُمْ لا
+> يُؤْمِنُونَ
 
 ***“Surely those who disbelieve, it being alike to them whether you warn
 them, or do not warn them, will not believe.”***[^10]
@@ -341,12 +317,8 @@ the ground for sorrow by mentioning this point.
 
 In this regard, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْکُمْ اِلاَّ وَارِدُهَا کَانَ عَلَی رَبِّكَ حَتْمًا
-مَقْضِيًّا
-  </p>
-</blockquote>
+> وَإِنْ مِنْکُمْ اِلاَّ وَارِدُهَا کَانَ عَلَی رَبِّكَ حَتْمًا
+> مَقْضِيًّا
 
 ***“And there is none of you but shall come to it, this is an
 unavoidable decree of your Lord.”***[^11]
@@ -455,5 +427,4 @@ al-Islam.
 [^12]: Bihar al-Anwar, vol. 8, p. 21, hadith 205.
 
 [^13]: Ibid., vol. 27, p. 107, hadith 81.
-
 

@@ -120,4 +120,3 @@ the source of the milk should be analyzed to avoid any bad effects on
 the child. Nowadays, however, formulas and powdered milk may be used
 making the position of a wet nurse obsolete.
 
-

@@ -1,26 +1,18 @@
 Hypocrites’ Dangerous Plans
 ===========================
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَى مَنْ عِندَ رَسُولِ
-اللَّهِ حَتَّى يَنفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ
-وَالْأَرْضِ وَلَكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
-  </p>
-</blockquote>
+> هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَى مَنْ عِندَ رَسُولِ
+> اللَّهِ حَتَّى يَنفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ
+> وَالْأَرْضِ وَلَكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
 
 “***They are the ones who say, 'Spend nothing on those who are with
 Allah's Messenger, to the end that they may disperse (and leave
 Medina).' But to Allah belong the treasures of the Heavens and the
 Earth; but the hypocrites understand not.***”[^1]
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ
-الْأَعَزُّ مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ
-وَلِلْمُؤْمِنِينَ وَلَكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ
+> الْأَعَزُّ مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ
+> وَلِلْمُؤْمِنِينَ وَلَكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
 
 “***They say, 'If we return to Medina, surely the more honorable
 (element) will expel from there the meaner.' But honor belongs to Allah
@@ -191,5 +183,4 @@ to do that.[^6]
 Tafsir al-Qumi, page 681
 
 [^6]: Ibn Hisham, Sirah, volume 2, page 292
-
 

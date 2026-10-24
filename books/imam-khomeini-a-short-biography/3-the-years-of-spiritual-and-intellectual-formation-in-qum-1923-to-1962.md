@@ -226,7 +226,6 @@ same subject by the critical spirit the Imam instilled in his students,
 as well as his ability to connect *fiqh* with all the other dimensions
 of Islam - ethical, gnostic, philosophical, political, and social.
 
-
 [^1]: Shadharat al-Ma’arif, Tehran, 1360 Sh./1982, pp. 6-7.
 
 [^2]: Sayyid ‘Ali Riza Yazdi Husayni, Aina-yi Danishvaran, Tehran,
@@ -238,5 +237,4 @@ I, Najaf, n.d., pp. 55-9.
 [^4]: Kashf al-Asrar, p. 185.
 
 [^5]: Kashf al-Asrar, p. 186.
-
 

@@ -341,4 +341,3 @@ ruled in Tabaristan in 250AH and died in 270AH.
 
 [^24]: Mu’jam Rijal al-Hadith, vol.12 p.159.
 
-

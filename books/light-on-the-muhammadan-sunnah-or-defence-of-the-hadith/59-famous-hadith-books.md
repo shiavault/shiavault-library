@@ -17,6 +17,3 @@ followed by a large number of Muslims.
 I will start by discussing al-Muwatta' as it preceded all these books in
 time and compilation.
 
-  
-  
-

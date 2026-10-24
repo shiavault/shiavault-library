@@ -47,4 +47,3 @@ their cousins (about 17 of them). They were all in their teens but each
 stood bravely, believing in the mission, facing a formidable enemy, and
 showed no less enthusiasm in their quest to embrace the martyrdom.
 
-

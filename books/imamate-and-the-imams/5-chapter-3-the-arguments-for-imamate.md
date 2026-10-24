@@ -254,11 +254,7 @@ Husayn. If anyone likes to meet Allah while his sins are forgiven, he
 should accept the guardianship of Ali Ibn Husayn, since the Almighty
 said about him,
 
-<blockquote dir="rtl">
-  <p>
-سيماهُمْ في‏ وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ
-  </p>
-</blockquote>
+> سيماهُمْ في‏ وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ
 
 ***‘On their faces are their marks, (being) the traces of their
 prostration.’***[^14]
@@ -367,5 +363,4 @@ of Imamate.
 [^15]: Jami’ Ahadith Al-Shi’ah, Vol 17, p. 103.
 
 [^16]: Ghayatul Maram, Vol 1, p. 193.
-
 

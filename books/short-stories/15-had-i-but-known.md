@@ -189,4 +189,3 @@ saying:
 "Repent the day before you die. Because you do not know when you will
 die, then always be repentant."
 
-

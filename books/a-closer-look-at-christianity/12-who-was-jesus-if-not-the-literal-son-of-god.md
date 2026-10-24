@@ -41,4 +41,3 @@ the current Bible written by Paul, John, Luke, Matthew, and so on.
 Rather they were the true books of Moses and Jesus. These are not to be
 found today.)
 
-

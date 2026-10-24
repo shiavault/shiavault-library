@@ -46,4 +46,3 @@ force and in appearance the government of Banu ‘Umayyah continued, but
 overall these events caused the Shi‘a school to spread and become
 entrenched in people’s hearts.
 
-

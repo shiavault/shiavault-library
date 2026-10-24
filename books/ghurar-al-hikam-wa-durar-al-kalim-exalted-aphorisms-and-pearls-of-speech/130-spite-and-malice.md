@@ -12,11 +12,7 @@ raging fire that is not put out by anything other than death or
 vanquish).
 
 > 2ـ الحِقْدُ نارٌ لاتُطْفَيُ إلاّ بِالظَّفَرِ.(نارٌ كامِنَةٌ
-<blockquote dir="rtl">
-  <p>
-لايُطْفِئُها إلاّ مَوْتٌ أوْ ظَفَرٌ).
-  </p>
-</blockquote>
+> لايُطْفِئُها إلاّ مَوْتٌ أوْ ظَفَرٌ).
 
 3. Malice wears away [its possessor].
 
@@ -47,11 +43,7 @@ other, quarrelling with one other and not lending a supporting hand to
 each other, [and by doing this] you will gain mastery over your affairs.
 
 > 9ـ تَجَنَّبُوا تَضاغُنَ القُلُوبِ، وَتَشاحُنَ الصُّدُورِ وتَدابُـرَ
-<blockquote dir="rtl">
-  <p>
-النُّفُوسِ، وَتَخاذُلَ الأيـْدي تَمْلِكُوا أمْرَكُمْ.
-  </p>
-</blockquote>
+> النُّفُوسِ، وَتَخاذُلَ الأيـْدي تَمْلِكُوا أمْرَكُمْ.
 
 10. The cornerstone of flaws is spite.
 
@@ -85,5 +77,4 @@ each other, [and by doing this] you will gain mastery over your affairs.
 become relaxed.
 
 > 17ـ مَنِ اطَّرَحَ الحِقْدَ اسْتَراحَ قَلْبُُه ولُبُّهُ.
-
 

@@ -159,4 +159,3 @@ the Shias.
 
 [^18]: Surah Baqarah 2:195
 
-

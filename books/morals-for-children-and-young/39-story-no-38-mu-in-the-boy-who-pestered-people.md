@@ -18,4 +18,3 @@ unhappy. But they did not have any choice except for advising him.
  It wasn’t long before Mu’in, from the advice of his parents, left these
 bad actions and was in the circle of the good children of the street.
 
-

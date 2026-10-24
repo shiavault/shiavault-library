@@ -95,76 +95,60 @@ teaching authority, for they condemn false unauthorized religious
 teachings, and to sacramental authority, for they condemn unauthorized
 worship of false gods.
 
-<p dir="rtl">
 سنُلْقِى فى قُلُوبِ الّذِينَ كَفَرُوا الرّعْب بِمَا أَشرَكوا
 بِاللّهِ مَا لَمْ يُنزِّلْ بِهِ سلْطناً وَ مَأْوَاهُمُ النّارُ وَ بِئْس
 مَثْوَى الظلِمِينَ
-</p>
 
 ***We shall cast terror into the hearts of the faithless because of
 their ascribing to Allah partners for which He has not sent down any
 authority, and their refuge shall be the Fire; and evil is the abode of
 the wrongdoers. (3:151)***
 
-<p dir="rtl">
 وَ كيْف أَخَاف مَا أَشرَكتُمْ وَ لا تخَافُونَ أَنّكُمْ أَشرَكْتُم
 بِاللّهِ مَا لَمْ يُنزِّلْ بِهِ عَلَيْكمْ سلْطناً فَأَى الْفَرِيقَينِ
 أَحَقّ بِالأَمْنِ إِن كُنتُمْ تَعْلَمُونَ
-</p>
 
 ***How could I [Abraham] fear what you ascribe as partners, when you do
 not fear ascribing to Allah partners for which He has not sent down any
 authority to you? (6:81)***
 
-<p dir="rtl">
 قُلْ إِنّمَا حَرّمَ رَبىَ الْفَوَحِش مَا ظهَرَ مِنهَا وَ مَا بَطنَ
 وَ الاثْمَ وَ الْبَغْىَ بِغَيرِ الْحَقِّ وَ أَن تُشرِكُوا بِاللّهِ مَا
 لَمْ يُنزِّلْ بِهِ سلْطناً وَ أَن تَقُولُوا عَلى اللّهِ مَا لا
 تَعْلَمُونَ
-</p>
 
 ***Say, 'My Lord has only forbidden indecencies… and that you should
 ascribe to Allah partners for which He has not sent down any authority…
 (7:33)***
 
-<p dir="rtl">
 أَ تُجَدِلُونَنى فى أَسمَاءٍ سمّيْتُمُوهَا أَنتُمْ وَ ءَابَاؤُكُم
 مّا نَزّلَ اللّهُ بِهَا مِن سلْطنٍ
-</p>
 
 ***…Do you dispute with me regarding names that you have named—you and
 your fathers—for which Allah has not sent down any authority? (7:71)2***
 
-<p dir="rtl">
 مَا تَعْبُدُونَ مِن دُونِهِ إِلا أَسمَاءً سمّيْتُمُوهَا أَنتُمْ وَ
 ءَابَاؤُكم مّا أَنزَلَ اللّهُ بهَا مِن سلْطنٍ إِنِ الْحُكْمُ إِلا للّهِ
 أَمَرَ أَلا تَعْبُدُوا إِلا إِيّاهُ ذَلِك الدِّينُ الْقَيِّمُ وَ لَكِنّ
 أَكثرَ النّاسِ لا يَعْلَمُونَ
-</p>
 
 ***You do not worship besides Him but names that you and your fathers
 have coined for which Allah has not sent down any authority. Sovereignty
 belongs only to Allah… (12:40)***
 
-<p dir="rtl">
 وْ لا يَأْتُونَ عَلَيْهِم بِسلْطنِ بَينٍ
-</p>
 
 ***…if only they would bring some clear authority concerning them [gods
 besides Him]… (18:15)***
 
-<p dir="rtl">
 أَمْ أَنزَلْنَا عَلَيْهِمْ سلْطناً فَهُوَ يَتَكلّمُ بِمَا كانُوا
 بِهِ يُشرِكُونَ
-</p>
 
 ***Have We sent down to them any authority which might speak of what
 they associate with Him? (30:35)***
 
-<p dir="rtl">
 وَ يَعْبُدُونَ مِن دُونِ اللّهِ مَا لَمْ يُنزِّلْ بِهِ سلْطناً وَ
 مَا لَيْس لهُم بِهِ عِلْمٌ
-</p>
 
 ***They worship besides Allah that for which He has not sent down any
 authority, and of which they have no knowledge… (22:71)***
@@ -176,20 +160,16 @@ eavesdropping indicates that those condemned lack knowledge on which to
 base their pronouncements. They are ridiculed by God in the following
 verse:
 
-<p dir="rtl">
 أَمْ لهمْ سلّمٌ يَستَمِعُونَ فِيهِ فَلْيَأْتِ مُستَمِعُهُم بِسلْطنٍ
 مّبِين
-</p>
 
 ***Or do they have a ladder whereby they eavesdrop? If so let their
 eavesdropper produce a manifest authority. (52:38)***
 
 No one becomes privy to the divine knowledge by illegitimate means:
 
-<p dir="rtl">
 يَمَعْشرَ الجِْنِّ وَ الانسِ إِنِ استَطعْتُمْ أَن تَنفُذُوا مِنْ
 أَقْطارِ السمَوَتِ وَ الأَرْضِ فَانفُذُوا لا تَنفُذُونَ إِلا بِسلْطنٍ
-</p>
 
 ***O company of jinn and humans! If you can pass through the confines of
 the heavens and the earth, then do pass through. But you will not pass
@@ -198,11 +178,9 @@ through except by an authority. (55:33)***
 Likewise, the attribution of polytheistic doctrines about God is
 declared to be unauthorized and not based on any knowledge.
 
-<p dir="rtl">
 قَالُوا اتّخَذَ اللّهُ وَلَداً سبْحَنَهُ هُوَ الْغَنىّ لَهُ مَا فى
 السمَوَتِ وَ مَا فى الأَرْضِ إِنْ عِندَكم مِّن سلْطنِ بهَذَا أَ
 تَقُولُونَ عَلى اللّهِ مَا لا تَعْلَمُونَ
-</p>
 
 ***They say, 'Allah has taken a son!' Immaculate is He! To Him belongs
 whatever is in the heavens and whatever is in the earth. You have no
@@ -223,18 +201,14 @@ teaching authority that is at issue, and those condemned for
 unauthorized teaching are condemned for making attributions without
 knowledge.
 
-<p dir="rtl">
 أَمْ لَكمْ سلْطنٌ مّبِينٌ
-</p>
 
 ***Do you have a manifest authority? (37:156)***
 
 [asked of those who hold that Allah has begotten daughters]
 
-<p dir="rtl">
 إِنّ الّذِينَ يجَدِلُونَ فى ءَايَتِ اللّهِ بِغَيرِ سلْطنٍ أَتَاهُمْ
 إِن فى صدُورِهِمْ إِلا كبرٌ مّا هُم بِبَلِغِيهِ
-</p>
 
 ***Indeed those who dispute the signs of Allah without any authority
 that may have come to them—there is only vanity in their breasts, which
@@ -246,9 +220,7 @@ positive concept of authority, the divine authorization given to the
 prophets. Here, the authority is not limited to teaching, but has legal
 and political dimensions, as well.
 
-<p dir="rtl">
 وَ ءَاتَيْنَا مُوسي سلْطناً مّبِينا
-</p>
 
 ***…and We gave Moses a manifest authority. (4:153)***
 
@@ -260,10 +232,8 @@ and political dimensions, as well.
 Pharaoh and his elite, but they followed Pharaoh's dictates, and
 Pharaoh's dictates were not right. (11: 96-97)***
 
-<p dir="rtl">
 ثمّ أَرْسلْنَا مُوسى وَ أَخَاهُ هَرُونَ بِئَايَتِنَا وَ سلْطنٍ
 مّبِين
-</p>
 
 ***Then We sent Moses and Aaron, his brother, with Our signs and a
 manifest authority… (23:45).***
@@ -277,9 +247,7 @@ prophets is over whoever God wishes, and is not confined to the prophet
 himself or his people. Moses has de jure authority over Pharaoh, even if
 Pharaoh refuses to recognize it.
 
-<p dir="rtl">
 وَ لَكِنّ اللّهَ يُسلِّط رُسلَهُ عَلى مَن يَشاءُ
-</p>
 
 ***…but Allah gives authority to His apostles over whomsoever He wishes
 (59:6)***
@@ -289,14 +257,12 @@ prophets acknowledge that whatever authority they bring is only by the
 permission of God. Here the authority may be indicated in the form of a
 miracle, or sign indicative of their mission.
 
-<p dir="rtl">
 قَالُوا إِنْ أَنتُمْ إِلا بَشرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصدّونَا
 عَمّا كانَ يَعْبُدُ ءَابَاؤُنَا فَأْتُونَا بِسلْطنٍ مّبِينٍ قَالَت
 لَهُمْ رُسلُهُمْ إِن نحْنُ إِلا بَشرٌ مِّثْلُكمْ وَ لَكِنّ اللّهَ يَمُنّ
 عَلى مَن يَشاءُ مِنْ عِبَادِهِ وَ مَا كانَ لَنَا أَن نّأْتِيَكُم
 بِسلْطنٍ إِلا بِإِذْنِ اللّهِ وَ عَلى اللّهِ فَلْيَتَوَكلِ
 الْمُؤْمِنُونَ
-</p>
 
 ***…They said, 'You are nothing but humans like us who desire to bar us
 from what our fathers used to worship. So bring us a manifest
@@ -310,18 +276,14 @@ is the case of Iblis, or Satan. What is denied here is not specifically
 teaching authority, but a quasi-political/legal right to rule over or
 command.
 
-<p dir="rtl">
 إِنّ عِبَادِى لَيْس لَك عَلَيْهِمْ سلْطنٌ وَ كَفَى بِرَبِّك وَكيلاً
-</p>
 
 ***As for My servants, you [Satan] shall have no authority over them
 (17:65)***
 
-<p dir="rtl">
 وَ قَالَ الشيْطنُ لَمّا قُضىَ الأَمْرُ إِنّ اللّهَ وَعَدَكمْ وَعْدَ
 الحْقِّ وَ وَعَدتّكمْ فَأَخْلَفْتُكمْ وَ مَا كانَ لىَ عَلَيْكُم مِّن
 سلْطنٍ إِلا أَن دَعَوْتُكُمْ فَاستَجَبْتُمْ لى
-</p>
 
 ***…Satan will say, 'Indeed Allah made you a promise that was true and I
 made you a promise, but I failed you. I had no authority over you,
@@ -330,9 +292,7 @@ except that I called you and you responded to me… (14:22)***
 Just as Satan admits that he had no legitimate authority over man, the
 idols will testify against their worshippers at the end of the world:
 
-<p dir="rtl">
 وَ مَا كانَ لَنَا عَلَيْكم مِّن سلْطنِ بَلْ كُنتُمْ قَوْماً طغِينَ
-</p>
 
 ***…we [what wrongdoers used to worship] had no authority over you; no,
 you were an insolent people… (37:30)***
@@ -342,10 +302,8 @@ by the words I called you and you responded to me, but this is not a
 legitimate form of authority. It merely means that Satan is obeyed by
 men. We see the same distinction in the following verses.
 
-<p dir="rtl">
 إِنّ عِبَادِى لَيْس لَك عَلَيهِمْ سلْطنٌ إِلا مَنِ اتّبَعَك مِنَ
 الْغَاوِينَ
-</p>
 
 ***Indeed as for My servants, you [Iblis] do not have any authority over
 them, except the perverse who follow you (15:42)***
@@ -362,10 +320,8 @@ those who befriend him and those who make him a partner [of Allah].
 The possibility of de facto Satanic authority is the result of the free
 will granted to human beings. Satan is able to tempt:
 
-<p dir="rtl">
 وَ مَا كانَ لَهُ عَلَيهِم مِّن سلْطنٍ إِلا لِنَعْلَمَ مَن يُؤْمِنُ
 بِالاَخِرَةِ مِمّنْ هُوَ مِنْهَا فى شكٍ َ
-</p>
 
 ***He [Iblis] had no authority over them, but that We may ascertain
 those who believe in the Hereafter from those who are in doubt about it…
@@ -374,9 +330,7 @@ those who believe in the Hereafter from those who are in doubt about it…
 Often the believers have been protected by God from the de facto
 authority of tyrants:
 
-<p dir="rtl">
 وَ لَوْ شاءَ اللّهُ لَسلّطهُمْ عَلَيْكمْ فَلَقَتَلُوكُمْ
-</p>
 
 ***…had Allah wished, He would have given them authority against you,
 and then they would surely have fought you. (4:90)***
@@ -385,11 +339,9 @@ There is a recurrent association of tyranny and the illegitimate
 exercise of authority, the taking up of idols, the failure to follow the
 prophets, and disputing religious tenets without divine authority.
 
-<p dir="rtl">
 الّذِينَ يجَدِلُونَ فى ءَايَتِ اللّهِ بِغَيرِ سلْطنٍ أَتَاهُمْ كبرَ
 مَقْتاً عِندَ اللّهِ وَ عِندَ الّذِينَ ءَامَنُوا كَذَلِك يَطبَعُ اللّهُ
 عَلى كلِّ قَلْبِ مُتَكَبرٍ جَبّارٍ
-</p>
 
 ***Those who dispute the signs of Allah without any authority that may
 have come to them—[that is] greatly outrageous to Allah and to those who
@@ -400,9 +352,7 @@ Authority often has the sense of permission. The signs brought by the
 prophets are by the permission of God. The religious/legal permission to
 take retribution for murder is also described as an authority.
 
-<p dir="rtl">
 وَ مَن قُتِلَ مَظلُوماً فَقَدْ جَعَلْنَا لِوَلِيِّهِ سلْطنا
-</p>
 
 ***…and whoever is killed wrongfully, We have certainly given his heir
 an authority (17:33)***
@@ -412,19 +362,15 @@ described as an authority, perhaps better translated in this case and
 the above as authorization. The authorization here pertains to what is
 to be considered lawful, not to teaching, spirituality, or worship.
 
-<p dir="rtl">
 وَ أُولَئكُمْ جَعَلْنَا لَكُمْ عَلَيهِمْ سلْطناً مّبِينا
-</p>
 
 ***…and it is such against whom We have given you a clear authorization.
 (4:91)***
 
 When the hoopoe doesn't show up on time for Solomon, he says:
 
-<p dir="rtl">
 لأُعَذِّبَنّهُ عَذَاباً شدِيداً أَوْ لأَاذْبحَنّهُ أَوْ لَيَأْتِيَنى
 بِسلْطنٍ مّبِينٍ
-</p>
 
 ***'I will surely punish him with a severe punishment, or I will surely
 behead him, unless he brings a clear authority (27:21)***
@@ -433,9 +379,7 @@ The meaning of “authority” here is also that of an authorization or
 excuse. When one has no excuse left to offer, one is said to lack
 authority:
 
-<p dir="rtl">
 هَلَك عَنى سلْطنِيَهْ
-</p>
 
 ***My authority has departed from me (69:29)***
 
@@ -449,11 +393,9 @@ permission of humans for anything; yet by failing to carry out the
 conditions needed for being granted a reward, it is as though one gives
 permission to the authority not to grant the reward.
 
-<p dir="rtl">
 يَأَيهَا الّذِينَ ءَامَنُوا لا تَتّخِذُوا الْكَفِرِينَ أَوْلِيَاءَ
 مِن دُونِ الْمُؤْمِنِينَ أَ تُرِيدُونَ أَن تجْعَلُوا للّهِ عَلَيْكمْ
 سلْطناً مّبِينا
-</p>
 
 ***O you who have faith! Do not take the faithless for friends instead
 of the faithful. Do you wish to give Allah a clear authorization against
@@ -465,10 +407,8 @@ assistance, signs and guidance than with having free reign or liberty to
 rule. Here the authority mentioned is more clearly associated with
 spiritual guidance than those previously mentioned.
 
-<p dir="rtl">
 وَ قُل رّب أَدْخِلْنى مُدْخَلَ صِدْقٍ وَ أَخْرِجْنى مخْرَجَ صِدْقٍ
 وَ اجْعَل لى مِن لّدُنك سلْطناً نّصِيرا
-</p>
 
 ***And say, 'My Lord! Admit me with a worthy entrance, and bring me out
 with a worthy departure, and make for me a helping authority from
@@ -895,5 +835,4 @@ erroneously rejects this authority on the basis of his own reasoning, he
 is not to be considered a sinner because of this. However, failure to
 recognize authority is no excuse for disobedience of the law or criminal
 activity.
-
 

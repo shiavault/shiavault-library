@@ -6,11 +6,7 @@ Imams (a.s.) and their Shias
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَصْرِ. إِنَّ الْإِنسَانَ لَفِي خُسْرٍ.
-  </p>
-</blockquote>
+> وَالْعَصْرِ. إِنَّ الْإِنسَانَ لَفِي خُسْرٍ.
 
 ***I swear by the time (Asr), Most surely man is in loss… (Surah Asr
 103:1-2)***
@@ -21,12 +17,8 @@ Sahibul Amr (a.s.) will reappear, as it would be mentioned afterwards.
 Some have said that ‘Asr’ refers to the last day of the world and some
 say that ‘Asr’ refers to the Holy Prophet (S).
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
-بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ.
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
+> بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ.
 
 ***Except those who believe and do good and enjoin on each other truth,
 and enjoin on each other patience. (Surah Asr 103:3)***
@@ -63,12 +55,8 @@ true religion.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
-وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
+> وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ.
 
 ***O those who have faith have patience and be prepared to fight the
 enemy and be careful about the chastisement of Allah, so that you get
@@ -150,15 +138,11 @@ Imams (a.s.) and refrain from opposing them.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
-وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ
-يُنفِقُونَ. وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا
-لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا
-نَبْتَغِي الْجَاهِلِينَ.
-  </p>
-</blockquote>
+> أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
+> وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ
+> يُنفِقُونَ. وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا
+> لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا
+> نَبْتَغِي الْجَاهِلِينَ.
 
 ***These shall be granted their rewards twice, because they are
 steadfast and they repel evil with good and spend out of what we have
@@ -181,12 +165,8 @@ secrets of the holy Imams (a.s.) and abandoned dissimulation.
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ
-بَصِيرًا.
-  </p>
-</blockquote>
+> وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ
+> بَصِيرًا.
 
 ***And we have made some of you a trial for others, will you bear
 patiently, and your Lord is ever seeing. (Surah Furqan 25:20)***
@@ -212,13 +192,9 @@ and that they would be patient in this test.
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مُوسَى بِآيَاتِنَا أَنْ أَخْرِجْ قَوْمَكَ مِنْ
-الظُّلُمَاتِ إِلَى النُّورِ وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ إِنَّ فِي
-ذَلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ.
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مُوسَى بِآيَاتِنَا أَنْ أَخْرِجْ قَوْمَكَ مِنْ
+> الظُّلُمَاتِ إِلَى النُّورِ وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ إِنَّ فِي
+> ذَلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ.
 
 ***And certainly We sent Moosa with Our communications saying: Bring
 forth your people from utter darkness into light and remind them of the
@@ -247,12 +223,8 @@ grateful to Allah on our blessing that Allah has given them.
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ عَلَى مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا.
-وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا.
-  </p>
-</blockquote>
+> وَاصْبِرْ عَلَى مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا.
+> وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا.
 
 ***And bear patiently what they say and avoid them with a becoming
 avoidance. And leave me and the rejecters, the possessors of ease and
@@ -282,5 +254,4 @@ Prophet (S) to remain aloof from them and said:
 
 And bear patiently what they say and avoid them with a becoming
 avoidance.
-
 

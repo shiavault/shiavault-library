@@ -12,7 +12,6 @@ their swords for shedding his blood. Thus, he asked for a copy of the
 Holy Qur’an to put it on the head and raised his hands upward for
 supplicating to his Lord for seeking His refuge, saying:
 
-<p dir="rtl">
 اَللّٰهُمَّ أَنْتَ ثِقَتِيْ فِي كُلِّ كَرْبٍ وَ رَجَائِي فِي كُلِّ
 شِدَّةٍ وَ أَنْتَ لِي فِي كُلِّ أَمْرٍ نَزَلَ بِي ثِقَةٌ وَ عِدَّةٌ.
 كَمْ مِنْ هَمٍّ يَضْعُفُ فِيهِ الْفُؤَادُ وَ تَقِلُّ فِيهِ الْحِيلَةُ وَ
@@ -20,7 +19,6 @@ supplicating to his Lord for seeking His refuge, saying:
 بِكَ وَ شَكَوْتُهٗ إِلَيْكَ رَغْبَةً مِنِّي إِلَيْكَ عَمَّنْ سِوَاكَ
 فَفَرَّجْتَهٗ وَ كَشَفْتَهٗ فَأَنْتَ وَلِيُّ كُلِّ نِعْمَةٍ وَ صَاحِبُ
 كُلِّ حَسَنَةٍ وَ مُنْتَهٰى كُلِّ رَغْبَةٍ
-</p>
 
 *O Allah! I trust in You in hard times and confide in you hopefully in
 tribulations, and in You lay my faith and hope in every misfortune that
@@ -37,7 +35,6 @@ would be full acquainted with the reality of the situation. He rode on,
 went towards them, and raised his voice with the finest words of wisdom
 so that most of them, at least, would hear him. He said:[^247]
 
-<p dir="rtl">
 أَمَّا بَعْدُ فَتَبًّا لَكُمْ أَيَّتُهَا الْجَمَاعَةُ وَ تَرْحًا حِينَ
 اسْتَصْرَخْتُمُوْنَا وَالِهِيْنَ فَأَصْرَخْنَاكُمْ مُوْجِفِيْنَ
 سَلَلْتُمْ عَلَيْنَا سَيْفًا كَانَ فِي أَيْمَانـِنَا وَ حَشَشْتُمْ
@@ -53,7 +50,6 @@ so that most of them, at least, would hear him. He said:[^247]
 مُحَرِّفِي الْكـَلَامِ وَ مُطْفِئِي السُّنَنِ وَ مُلْحِقِي الْعَهَرَةِ
 بِالنَّسَبِ الْمُسْتَهْزِئِيْنَ الَّذِيْنَ جَعَلُوْا الْقُرْآنَ
 عِضِيْنَ.
-</p>
 
 *So then, fie and grief be on you, O group. When you appealed for our
 help grievously and we hurried for your help exhaustingly, you
@@ -71,7 +67,6 @@ Shaitan, distorters of the meanings, extinguishers of the traditions,
 avowers of the bastards, and the mockers who divided the Qur’an
 believing in some parts and rejecting others.*
 
-<p dir="rtl">
 أَ هٰؤُلَاءِ تَعْضُدُوْنَ وَ عَنَّا تَتَخَاذَلُوْنَ؟ أَجَلْ وَ اللَّهِ
 اِنَّهٗ لَ خَذْلٌ فِيْكُمْ مَعْرُوْفٌ،قَدْ وَشَجَتْ عَلَيْهِ
 عُرُوْقُكُمْ وَ تَوَارَتْ عَلَيْهِ اُصُوْلُكُمْ فَكُنْتُمْ أَخْبَثَ
@@ -85,7 +80,6 @@ believing in some parts and rejecting others.*
 اللَّئَامِ عَلٰي مَصَارِعِ الْكِرَامِ. وَ اِنِّيْ زَاحِفٌ اِلَيْهِمْ
 بِهٰذِهِ الْاُسْرَةِ عَلٰي كـَلَبِ الْعَدُوِّ وَ كَثْرَةِ الْعَدَدِ وَ
 خِذْلَةِ النَّاصِرِ.
-</p>
 
 *How is it that you are supporting those ones and disappointing us? Yes,
 why not? By Allah (s.w.t.) I swear your disloyalty is expected because
@@ -128,14 +122,12 @@ He then recited poetic verses:[^248]
 
 *You shall for sure encounter the same fate!*
 
-<p dir="rtl">
 اَمَا وَاللهِ لَا يَلْبَثُوْنَ اِلاَّ كَرَيْثِ مَا يُرْكَبُ الْفَرَسُ
 حَتّٰي تَدُوْرَ رَحَا الْحَرْبِ وَ تُعَلَّقَ النُّحُوْرُ. عَهْدٌ
 عَهِدَهٗ اِلَيَّ اَبِيْ عَنْ جَدِّيْ، (صلی الله علیه و آله و سلم).
 فَاَجْمِعُوْا اَمْرَكُمْ ثُمَّ كِيْدُوْنِ فَلَا تُنْظِرُوْنِ، إِنِّي
 تَوَكـَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُمْ مَا مِنْ دَابَّةٍ إِلَّا
 هُوَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي عَلٰى صِرَاطٍ مُسْتَقِيْمٍ.
-</p>
 
 *By Allah (s.w.t.) I swear it, you shall not be respite very long; very
 soon, horses will be ridden, days will revolve around you like
@@ -148,13 +140,11 @@ creatures. It is my Lord Who knows the right path.***
 Imam al-Husain (a.s.) then raised his two hands towards the heavens and
 invoked Allah’s curse upon them, saying:[^249]
 
-<p dir="rtl">
 اَللّٰهُمَّ احْبِسْ عَنْهُمْ قَطْرَ السَّمَاءِ وَ ابْعَثْ عَلَيْهِمْ
 سِنِيْنَ كَسِنِي يُوسُفَ وَ سَلِّطْ عَلَيْهِمْ غُلَامَ ثَقِيفٍ
 يَسُوْمُهُمْ كَأْساً مُصَبَّرَةً فَإِنَّهُمْ كَذَّبُونَا وَ خَذَلُونَا
 وَ أَنْتَ رَبُّنَا عَلَيْكَ تَوَكَّلْنا وَ إِلَيْكَ أَنَبْنا وَ إِلَيْكَ
 الْمَصِيرُ.
-</p>
 
 *O Allah! deprive them of the drops of the heavens, and inflict them
 with years like those (which occurred in the time) of Prophet Joseph,
@@ -179,10 +169,8 @@ Qays ibn al-Ash’as then asked the Imam (a.s.) to surrender and submit to
 the Umayyad government, but the Imam (a.s.), courageously and
 steadfastly, refused and declaring his unchangeable situation:
 
-<p dir="rtl">
 لاَ و اللهِ! لا أُعْطِيْكُمْ بِيَدِي إِعْطَاءَ الذَّلِيْلِ وَلاَ اُقِرُّ
 لَكُمْ اِقْرَارَ العَبِيْدِ.
-</p>
 
 *No, by Allah (s.w.t.) I will never extend my hands to you like the
 abject do, and I will never submit to you like slaves do.[^251]*
@@ -285,7 +273,6 @@ Prophet’s Household, saw Ali al-Akbar (a.s.) off with tears, cries, and
 moaning. He then put his hand under his beard, raised it towards the
 heavens, and prayed:
 
-<p dir="rtl">
 اَللّٰهُمَّ اشْهَدْ عَلٰي هٰؤُلاَءِ القَوْمِ، فَقَدْ بَرَزَ اِلَيْهِمْ
 غُلامٌ اَشْبَهُ النَّاسِ خَلْقًا وَ خُلْقًا وَ مَنْطِقًا بِرَسُوْلِكَ،
 وَ كُنَّا اِذَا اشْتَقْنَا اِلٰي نَبِيِّكَ نَظَرْنَا اِلٰي وَجْهِه.
@@ -293,7 +280,6 @@ heavens, and prayed:
 وَ مَزِّقْهُمْ تَمْزِيْقًا، وَاجْعَلْهُمْ طَرَائِقَ قِدَدًا، وَلاَ
 تُرْضِ الوُلاةَ عَنْهُمْ اَبَدًا فَاِنَّهُمْ دَعَوْنَا لِيَنْصُرُوْنَا
 ثُمَّ عَدَوْا عَلَيْنَا يُقَاتِلُوْ نَنَا.
-</p>
 
 *O Allah! be the witness on those people! A youth who is the most
 similar to Your Prophet in form, morals, and personality is now facing
@@ -312,11 +298,9 @@ kinship andviolated my relation to the Messenger of Allah (s.a.w.a.).”
 
 Imam al-Husain (a.s.) then recited Allah’s saying:
 
-<p dir="rtl">
 إِنَّ اللَّهَ اصْطَفٰى آدَمَ وَنُوْحًا وَآلَ إِبْرَاهِيْمَ وَآلَ
 عِمْرَانَ عَلَى الْعَالَمِيْنَ. ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ ۗ
 وَاللَّهُ سَمِيْعٌ عَلِيْمٌ.
-</p>
 
 ***Surely, Allah (s.w.t.) chose Adam and Nuh (Noah) and the descendants
 of Ibrahim (Abraham) andthe descendants of Imran above the nations.
@@ -351,11 +335,9 @@ son’s cries to his father who hurried to him and found him in the last
 sparks of life. He put his cheek on his son’s severed body and shed
 tears for him, saying:
 
-<p dir="rtl">
 قَتَلَ اللهُ قَوْمًا قَتَلُوكَ يَا بُنَيَّ، مَا اَجْرَاَهُمْ عَلٰي اللهِ
 وَ عَلٰي انْتِهَاكِ حُرْمَةِ الرَّسُوْلِ عَلٰي الدُّنْيَا بَعْدَكَ
 العَفَا.
-</p>
 
 *May Allah (s.w.t.) kill those who killed you son! They are so reckless
 that they have regarded neither Allah (s.w.t.) nor the Messenger of
@@ -504,9 +486,7 @@ himself among the troops of the enemies and threw himself on the body of
 his brother. Expressing the grave misfortune he suffered by the
 martyrdom of al-Abbas (a.s.), Imam al-Husain (a.s.) shouted;
 
-<p dir="rtl">
 الآنَ انْكَسَرَ ظَهْرِي، وَ قَلَّتْ حِيْلَتِيْ، وَ شَمُتَ بِي عَدُوِّي.
-</p>
 
 *Only now have I become spineless and hopeless and my enemies are
 rejoicing at my misfortune.*
@@ -580,14 +560,12 @@ Finally, he gave the last instructions to the harem: dress heavy
 loincloth, ready themselves for misfortunes, and submit completely to
 Almighty Allah. The Imam’s last words to them were:
 
-<p dir="rtl">
 اِسْتَعِدُّوا لِلْبَلاَءِ وَ اَعْلَمُوْا اَنَّ اللهَ حَامِيْكُمْ وَ
 حَافِظُكُمْ وَ سَيُنْجِيْكُمْ مِنْ شَرِّ الأعْدَاءِ وَ يَجْعَلُ
 عَاقِبَةَ أَمْرِكُمْ اِلٰي خَيْرٍ وَ يُعَذِّبُ عَدُوَّكُمْ بِاَنْوَاعِ
 العَذَابِ وَ يُعَوِّضُكُمْ عَنْ هٰذِهِ البَلِيَّةِ بِاَنْوَاعِ النِّعَمِ
 وَ الْكَرَامَةِ فَلاَ تَشْكُوا وَلاَ تَقُوْلُوا بِأَلْسِنَتِكُمْ مَا
 يُنْقِصُ قَدْرَكُمْ.
-</p>
 
 *Prepare yourselves for the imminent misfortunes. You should know that
 Allah (s.w.t.) shall guard, protect, and save you from the evils of
@@ -599,14 +577,12 @@ must not complain and must not say things that discredit you.*
 He then supplicated to his Lord and complained to Him against the
 misfortunes he had to suffer. He said:
 
-<p dir="rtl">
 صَبْرًا عَلٰي قَضَائِكَ يَا رَبُّ، لاَ اِلٰهَ سِوَاكَ، يَا غِيَاثَ
 الْمُسْتَغِيْثِيْنَ، مَا لِي رَبٌّ سِوَاكَ وَلاَ مَعْبُوْدٌ غَيْرُكَ
 صَبْرًا عَلٰي حَكْمِكَ يَا غِيَاثَ مَنْ لاَ غِيَاثَ لَهٗ ، يَا دَائِمًا
 لاَ نَفَادَ لَه ٗ ، يَا مُحْيِيَ ال مَوْتٰي، يضا قَائِمًا عَلٰي كُلِّ
 نَفْسٍ بِمَا كَسَبَتْ، اَحْكُمْ بَيْنِي وَ بَيْنَهُمْ وَ اَنْتَ خَيْرُ
 الْحَاكِـمِيْنَ.
-</p>
 
 *O Lord, I take patience over Your providence. There is no god save You.
 You are the helper of the succor-seekers. Except You, I have neither
@@ -653,9 +629,7 @@ though the surrounding of the enemies glanced at the heavens, and said
 that statement, which has lit up with the purest spirit of faith and
 sincerity to Almighty Allah (s.w.t.). She said:
 
-<p dir="rtl">
 اَللّٰهُمَّ تَقَبَّلْ مِنَّا هٰذَا الْقُرْبَانَ.
-</p>
 
 *O Allah! accept from us this offering.*
 
@@ -721,7 +695,6 @@ pass by the dead bodies of Imam al-Husain (a.s.) and the other martyrs.
 When her eyes fell on the severed, headless body of Imam al-Husain
 (a.s.), Lady Zaynab (a.s.) shouted with a grief-stricken voice:
 
-<p dir="rtl">
 يَا مُحَمَّدَاهُ! صَلّٰي عَلَيْكَ مَلِيْكُ السَّمَاءِ! هٰذَا حُسَيِّنٌ
 مُرَمَّلٌ بِالدِّمَاءِ مُقَطِّعُ الأَعْضَاءِ، وَ بَنَاتُكَ سَبَايَا!
 اِلٰي اللهِ الْمُشْتَكَيٰ وَ اِلٰي عَلِيٍّ الْمُرْتَضٰي وَ اِلٰي
@@ -730,7 +703,6 @@ When her eyes fell on the severed, headless body of Imam al-Husain
 الأدْعِيَاءِ وَاحُزْنَاهُ! وَاكَرْبَاهُ! الْيَوْمَ مَاتَ جَدِّي رَسُوْلُ
 اللهِ! يَا اَصْحَابَ مُحَمَّدَاهُ! هٰؤلاءِ ذُرِّيَّةُ الْمُصْطَفٰي
 يُسَاقُوْنَ سَوْقَ السَّبَايَا.
-</p>
 
 *Oh, Muhammad (s.a.w.a.)! May the King of the Heavens bless you, This is
 Husain (a.s.)! He is stained with his blood and his limbs are severed!
@@ -749,7 +721,6 @@ himself when he saw the dead bodies of his father and the other martyrs
 thrown away in the desert. His grief was about to kill him, but Lady
 Zaynab (a.s.),noticing his nephew’s behavior, hurried to him and said:
 
-<p dir="rtl">
 مَا لِي أَرَاكَ تَجُوْدُ بِنَفْسِكَ- يَا بَقِيَّةَ جَدِّيْ وَ أَبِي وَ
 إِخْوَتِيْ؟ لَا يَجْزَعَنَّكَ مَا تَرٰى، فَوَ اللَّهِ إِنَّ ذٰلِكَ
 لَعَهْدٌ مِنَ اللَّهِ إِلٰى جَدِّكَ وَ أَبِيْكَ. وَ لَقَدْ أَخَذَ
@@ -762,7 +733,6 @@ Zaynab (a.s.),noticing his nephew’s behavior, hurried to him and said:
 كُرُوْرِ اللَّيَالِي وَ الْأَيَّامِوَ لَيَجْتَهِدَنَّ أَئِمَّةُ
 الْكُفْرِ وَ أَشْيَاعُ الضَّلَالَةِفِي مَحْوِه وَ تَطْمِيسِه فَلَا
 يَزْدَادُ أَثَرُهٗ إِلَّا ظُهُوْراً وَ أَمْرُهٗ إِلَّا عُلُوّاً.
-</p>
 
 *O the legacy of my grandfather, father, and brothers: what for is it
 that I see you plead for death?[^263] Do not be sad for what you see. It
@@ -806,5 +776,4 @@ the Imam (a.s.).
 Humanity too must take pride in the anniversary of Imam al-Husain’s
 (a.s.) martyrdom so as to regain its true face and play the very role
 that the Creator has chosen for it.
-
 

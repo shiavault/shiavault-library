@@ -131,24 +131,16 @@ history, had been put to the distinguished scholar 'Alam al-Huda - the
 late Sayyid Murtadha - a thousand years ago. The questioner presented
 his query in the form of a couplet, which is as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَدٌ بِخَمْسِ مِئَين عَسْجَدٍ وُوَدِيَتْ مَا بَالُهَا قُطِعَتْ فِي
-رُبْعِ دِيْنَارٍ؟
-  </p>
-</blockquote>
+> يَدٌ بِخَمْسِ مِئَين عَسْجَدٍ وُوَدِيَتْ مَا بَالُهَا قُطِعَتْ فِي
+> رُبْعِ دِيْنَارٍ؟
 
 “The hand, whose atonement is five hundred dinars; why should it be
 amputated for a quarter of a dinar?”[^2]
 
 Sayyid Murtadha, in reply, recited this couplet:
 
-<blockquote dir="rtl">
-  <p>
-عِزُّ الاَمَانَةِ أَاغْلاَهَا وَ أَارْخَصَهَا ذِلُّ الْخِيَانَةِ
-فَافْهَمْ حِكْمَةَ الْبَارِيْ
-  </p>
-</blockquote>
+> عِزُّ الاَمَانَةِ أَاغْلاَهَا وَ أَارْخَصَهَا ذِلُّ الْخِيَانَةِ
+> فَافْهَمْ حِكْمَةَ الْبَارِيْ
 
 “The honour of trustworthiness made it high-priced, while the abjectness
 of treachery lowered its value, so comprehend the wisdom of Allah.”[^3]
@@ -168,5 +160,4 @@ Alusi, however, it has been attributed to Alam al-Din al-Sakhavi instead
 of 'Alam al-Huda.
 
 [^4]: Tafsir-e-Namuna, vol. 4, pg. 376
-
 

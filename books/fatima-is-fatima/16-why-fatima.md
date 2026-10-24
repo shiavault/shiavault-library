@@ -831,4 +831,3 @@ only a few hours separation.
 difference does it make if this person was Abu Bakr or anyone else for
 that matter? It is not Ali.
 
-

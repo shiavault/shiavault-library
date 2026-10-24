@@ -5,20 +5,12 @@ What has prompted this question to be posed is the outward meaning of
 some of the verses of the Qur’an, which seemingly prohibit invoking
 anyone other than Allah.
 
-<blockquote dir="rtl">
-  <p>
-"وأن المسجد ببه فلا تدعو مع الله أحداً."
-  </p>
-</blockquote>
+> "وأن المسجد ببه فلا تدعو مع الله أحداً."
 
 ***“The places of worship belong to Allah, so do not invoke anyone along
 with Allah.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-"ولا تجع من دون الله ما لا ينفعك ولا يضّرك."
-  </p>
-</blockquote>
+> "ولا تجع من دون الله ما لا ينفعك ولا يضّرك."
 
 ***“Nor invoke besides Allah that which neither benefits you nor can do
 you any harm.”***[^2]
@@ -40,11 +32,7 @@ terms should not be considered synonymous. That is, the word “call” or
 in some Qur’anic verses but not in the sense of “*‘ibadah*”. For
 example:
 
-<blockquote dir="rtl">
-  <p>
-"إني دعوت قومي ليلاً ونهاراً."
-  </p>
-</blockquote>
+> "إني دعوت قومي ليلاً ونهاراً."
 
 ***“He (Nuh) said, ‘My Lord! Indeed I have summoned my people night and
 day’.”***[^3]
@@ -72,11 +60,7 @@ As vivid evidence to the fact that the idol-worshippers’ supplication or
 invocation is an expression of their belief in the divinity of idols, we
 introduce the following verse:
 
-<blockquote dir="rtl">
-  <p>
-"فما أغنت عنهم ألهتهم التي يدعون من دون الله من شئ."
-  </p>
-</blockquote>
+> "فما أغنت عنهم ألهتهم التي يدعون من دون الله من شئ."
 
 ***“Of no avail to them were their gods whom they would invoke besides
 Allah, in any wise.”***[^4]
@@ -90,13 +74,9 @@ by God and has been chosen for the station of prophethood or *imamah*
 {leadership} and God has promised to grant his supplication on behalf of
 His servants as He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَآؤُوكَ
-فَاسْتَغْفَرُواْ اللّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ
-اللّهَ تَوَّابًا رَّحِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَآؤُوكَ
+> فَاسْتَغْفَرُواْ اللّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ
+> اللّهَ تَوَّابًا رَّحِيمًا ﴾
 
 ***“Had they, when they wronged themselves, come to you and pleaded
 Allah for forgiveness, and the Apostle had pleaded for forgiveness for
@@ -108,12 +88,8 @@ all-merciful.”***[^5]
 but a ‘devotional’ call. As such, in one of the verses, the term
 “*‘ibadah*” has been mentioned immediately after the word *da‘wah*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ ﴾
 
 ***“Your Lord has said, ‘Call Me, and I will hear you{r supplications}!’
 Indeed those who are disdainful of My worship will enter hell in utter
@@ -143,11 +119,7 @@ servitude, but a beloved and honorable servant of God?!
 
 When the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"وأن المسجد لله فلا تدعوا مع الله أحداً."
-  </p>
-</blockquote>
+> "وأن المسجد لله فلا تدعوا مع الله أحداً."
 
 ***“The places of worship belong to Allah, so do not invoke anyone along
 with Allah,”***[^7]
@@ -196,5 +168,4 @@ kind of implorations) has been treated elsewhere.
 [^6]: Surah al-Ghafir (or Mu’min) 40:60.
 
 [^7]: Surah al-Jinn 72:18.
-
 

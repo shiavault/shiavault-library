@@ -332,12 +332,8 @@ implemented only in very rare cases—for example, one or two cases every
 year. For instance, the Qur’an thus says regarding the punishment for
 theft:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا جَزَاءً بِمَا
-كَسَبَا...﴾
-  </p>
-</blockquote>
+> ﴿وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا جَزَاءً بِمَا
+> كَسَبَا...﴾
 
 “As for the thief, man and woman, cut off their hands as a requital for
 what they have earned.”[^1]
@@ -345,14 +341,10 @@ what they have earned.”[^1]
 And regarding the punishments for those who committed licentious acts,
 it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ٱلزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِئَةَ
-جَلْدَةٍ وَلاَ تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
-كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ﴾
-  </p>
-</blockquote>
+> ﴿ٱلزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِئَةَ
+> جَلْدَةٍ وَلاَ تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
+> كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ﴾
 
 “As for the fornicatress and the fornicator, strike each of them a
 hundred lashes, and let not pity for them overcome you in Allah’s law,
@@ -424,5 +416,4 @@ lost.
 [^1]: Surah al-Ma’idah 5:38.
 
 [^2]: Surah an-Nur 24:2.
-
 

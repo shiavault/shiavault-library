@@ -18,11 +18,7 @@ our Imams (a) in deeds and words, as our paradigms."
 In public sessions, the reverend Shaykh would always resort to the holy
 verse:
 
-<blockquote dir="rtl">
-  <p>
-(ان تنصروا الله ينصركم ويثبت أقدامكم)
-  </p>
-</blockquote>
+> (ان تنصروا الله ينصركم ويثبت أقدامكم)
 
 ***(...If you make effort in Allah's Way, He will help you and make your
 feet firm and secures you from being Shaykh along His Path), (Sura
@@ -192,5 +188,4 @@ speech, and the same day of their meeting he was initiated among his
 disciples through being instructed a special dhikr by him. Dr. Goya
 believed the Shaykh specially favored Dr. Farzam and found him capable
 and talented.
-
 

@@ -44,4 +44,3 @@ traditions from the infallible progeny of the Messenger of Allah
 [^1]: (The details of these concepts have been discussed later in the
 book.)
 
-

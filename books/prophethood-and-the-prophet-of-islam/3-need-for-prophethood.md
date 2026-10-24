@@ -107,44 +107,32 @@ of the hereafter. In compilation and arrangement of these laws, real
 benefits of all human beings are kept in view and narrow mindedness,
 improper prejudice and groupism are avoided. Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ اسْتَجِيبُواْ لِلَّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ وَ اعْلَمُواْ أَنَّ اللَّهَ يَحُولُ
-بَيْنَ الْمَرْءِ وَ قَلْبِهِ وَ أَنَّهُ إِلَيْهِ تُحْشَرُونَ‏
-  </p>
-</blockquote>
+> يَأَيُّهَا الَّذِينَ ءَامَنُواْ اسْتَجِيبُواْ لِلَّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ وَ اعْلَمُواْ أَنَّ اللَّهَ يَحُولُ
+> بَيْنَ الْمَرْءِ وَ قَلْبِهِ وَ أَنَّهُ إِلَيْهِ تُحْشَرُونَ‏
 
 ***“O you who believe! answer (the call of) Allah and His Apostle when
 he calls you to that which gives you life; and know that Allah
 intervenes between man and his heart, and that to Him you shall be
 gathered.” (8:24)***
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا النَّاسُ قَدْ جَآءَكُمْ بُرْهَنٌ مِنْ رَّبِّكُمْ
-وَأَنْزَلْنَآ إِلَيْكُمْ نُوراً مُّبِيْناً \* فَأَمَّا الَّذِينَ
-ءامَنُواْ بِاللَّهِ وَاعْتَصَمُواْ بِهِ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ
-مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَ طاً مُّسْتَقِيماً
-  </p>
-</blockquote>
+> يَأَيُّهَا النَّاسُ قَدْ جَآءَكُمْ بُرْهَنٌ مِنْ رَّبِّكُمْ
+> وَأَنْزَلْنَآ إِلَيْكُمْ نُوراً مُّبِيْناً \* فَأَمَّا الَّذِينَ
+> ءامَنُواْ بِاللَّهِ وَاعْتَصَمُواْ بِهِ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ
+> مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَ طاً مُّسْتَقِيماً
 
 ***“O people! surely there has come to you manifest proof from your Lord
 and We have sent to you clear light. Then as for those who believe in
 Allah and hold fast by Him, He will cause them to enter into His mercy
 and grace and guide them to Himself on a right path.” (4:174-175)***
 
-<blockquote dir="rtl">
-  <p>
-كَانَ الْنَّاسُ أُمَّةً وَ حِدَةً فَبَعَثَ اللَّهُ الْنَّبِيِّينَ
-مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَبَ بِالْحَقِّ
-لِيَحْكُمَ بَيْنَ الْنَّاسِ فِيمَا اخْتَلَفُوا فِيهِ وَمَا اخْتَلَفَ
-فِيهِ إِلّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَآءَتْهُمُ
-الْبَيِّنَتُ بَغْياً بَيْنَهُمْ فَهَدَى اللَّهُ الَّذِينَ ءَامَنُوا
-لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ وَاللَّهُ يَهْدِى
-مَنْ يَشَاءُ إِلى‏ صِرَاطٍ مُسْتَقِيمٍ‏
-  </p>
-</blockquote>
+> كَانَ الْنَّاسُ أُمَّةً وَ حِدَةً فَبَعَثَ اللَّهُ الْنَّبِيِّينَ
+> مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَبَ بِالْحَقِّ
+> لِيَحْكُمَ بَيْنَ الْنَّاسِ فِيمَا اخْتَلَفُوا فِيهِ وَمَا اخْتَلَفَ
+> فِيهِ إِلّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَآءَتْهُمُ
+> الْبَيِّنَتُ بَغْياً بَيْنَهُمْ فَهَدَى اللَّهُ الَّذِينَ ءَامَنُوا
+> لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ وَاللَّهُ يَهْدِى
+> مَنْ يَشَاءُ إِلى‏ صِرَاطٍ مُسْتَقِيمٍ‏
 
 ***“(All) people are a single nation; so Allah raised prophets as
 bearers of good news and as warners, and He revealed with them the Book
@@ -209,11 +197,7 @@ perfection for different types of material beings so that they may be
 able to through their actions and efforts to reach their intended aim.
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّنَا الَّذِى أَعْطَى‏ كُلَّ شَىْ‏ءٍ خَلْقَهُ ثُمَّ هَدَى‏
-  </p>
-</blockquote>
+> قَالَ رَبُّنَا الَّذِى أَعْطَى‏ كُلَّ شَىْ‏ءٍ خَلْقَهُ ثُمَّ هَدَى‏
 
 ***“Our Lord is He Who gave to everything its creation, then guided it
 (to its goal).” (20:50)***
@@ -231,15 +215,11 @@ regard to their needs. Thus prophets are selected human beings who
 convey the message of God and guide to success and perfection and warn
 of the factors of decline and misfortune. Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَبَنِى ءَادَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ
-عَلَيْكُمْ ءَايَتِى فَمَنِ اتَّقَى‏ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ
-وَلَا هُمْ يَحْزَنُونَ‏ / وَ الَّذِينَ كَذَّبُواْ بَِايَتِنَا و
-اسْتَكْبَرُواْ عَنْهَآ أُوْلَئِكَ أصْحَبُ النَّارِ هُمْ فِيهَا
-خَلِدُونَ‏
-  </p>
-</blockquote>
+> يَبَنِى ءَادَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ
+> عَلَيْكُمْ ءَايَتِى فَمَنِ اتَّقَى‏ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ
+> وَلَا هُمْ يَحْزَنُونَ‏ / وَ الَّذِينَ كَذَّبُواْ بَِايَتِنَا و
+> اسْتَكْبَرُواْ عَنْهَآ أُوْلَئِكَ أصْحَبُ النَّارِ هُمْ فِيهَا
+> خَلِدُونَ‏
 
 ***“O children of Adam! if there come to you apostles from among you
 relating to you My communications, then whoever shall guard (against
@@ -248,14 +228,10 @@ evil) and act aright- they shall have no fear nor shall they grieve. And
 haughtily- these are the inmates of the fire, they shall abide in it.”
 (7:35-36)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ فَمَنْ
-ءَامَنَ وَ أَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ‏ /
-وَالَّذِينَ كَذَّبُواْ بَِايَتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا
-كَانُواْ يَفْسُقُونَ‏
-  </p>
-</blockquote>
+> وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ فَمَنْ
+> ءَامَنَ وَ أَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ‏ /
+> وَالَّذِينَ كَذَّبُواْ بَِايَتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا
+> كَانُواْ يَفْسُقُونَ‏
 
 ***“And We send not messengers but as announcers of good news and givers
 of warning, then whoever believes and acts aright, they shall have no
@@ -263,18 +239,13 @@ fear, nor shall they grieve. And (as for) those who reject Our
 communications, chastisement shall afflict them because they
 transgressed.” (6:48-49)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللَّهَ
-وَاجْتَنِبُواْ الطَّغُوتَ فَمِنْهُم مَّنْ هَدَى اللَّهُ وَمِنْهُم
-مَّنْ حَقَّتْ عَلَيْهِ الضَّلَلَةُ فَسِيرُواْ فِى الْأَرْضِ
-فَانظُرُواْ كَيْفَ كَانَ عَقِبَةُ الْمُكَذِّبِينَ‏
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ اللَّهَ
+> وَاجْتَنِبُواْ الطَّغُوتَ فَمِنْهُم مَّنْ هَدَى اللَّهُ وَمِنْهُم
+> مَّنْ حَقَّتْ عَلَيْهِ الضَّلَلَةُ فَسِيرُواْ فِى الْأَرْضِ
+> فَانظُرُواْ كَيْفَ كَانَ عَقِبَةُ الْمُكَذِّبِينَ‏
 
 ***“And certainly We raised in every nation an apostle saying: Serve
 Allah and shun the Shaitan. So there were some of them whom Allah guided
 and there were others against whom error was due; therefore travel in
 the land, then see what was the end of the rejecters.” (16:36)***
-
 

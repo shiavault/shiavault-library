@@ -370,4 +370,3 @@ Muawiyah, Yazid, Abdullah bin Zubair and Marwan bin al-Hakam.
 
 [^11]: Revelation 12:1-11
 
-

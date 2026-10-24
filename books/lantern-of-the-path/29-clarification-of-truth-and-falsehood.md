@@ -41,5 +41,3 @@ If someone brings to you anything which falls short of this fundamental
 truth, do not accept it. Devote your inward being to that and you will
 see its blessings close at hand. You will be among the victors.
 
-
-

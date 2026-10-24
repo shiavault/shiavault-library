@@ -80,6 +80,6 @@ Lord, and who are taught by a witness from Himself, as did the Book of
 Moses before it, [who was] a guide and a mercy? (Holy Qur'an, 11:17)
 Surely Allah has said the truth.
 
-[^245] The exact words of the Prophet were: "... slam it on the wall,"
+[^245]: The exact words of the Prophet were: "... slam it on the wall,"
 an expression the Arabs use meaning "discard" or "ignore" it. \_\_ Tr.
 

@@ -55,4 +55,3 @@ prayers left during the period of *haidh* and *nifas*.
 5. A woman in *haidh* or *nifas* cannot fast; but she must fast its
 *qadha* after that period.
 
-

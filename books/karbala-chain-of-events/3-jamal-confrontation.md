@@ -46,4 +46,3 @@ order. He compensated for the dead, and decided to forgive and absolve
 all who fought against him, exactly as the Prophet (S) had done when he
 triumphed over Mecca 40 years earlier.
 
-

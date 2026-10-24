@@ -142,4 +142,3 @@ enjoin good and forbid evil. Of course, there are conditions and
 regulations for carrying out this duty. This chapter deals with them
 extensively.
 
-

@@ -111,12 +111,8 @@ monotheism accepted by Islam is not only confined to this meaning. The
 polytheists of Mecca also believed in ‘monotheism in creation’. For
 example, God indicates this point, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَئِن سَأَلْتَهُم مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ اللَّهُ...﴾
-  </p>
-</blockquote>
+> ﴿وَلَئِن سَأَلْتَهُم مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ اللَّهُ...﴾
 
 ***“If you ask them, ‘Who created the heavens and the earth?’ they will
 surely say, ‘Allah’…”***[^1]
@@ -127,14 +123,10 @@ between Iblis and God as mentioned in the Holy Qur’an, shows that he
 believed in monotheism in creation and cosmic Lordship [*rububiyyat-e
 takwini*], as well as in the hereafter and the Day of Judgment:
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالَ رَبِّ فَأَنظِرْنِي إِلَى يَوْمِ يُبْعَثُونَ ٭ قَالَ فَإِنَّكَ
-مِنَ الْمُنظَرِينَ ٭ إِلَى يَومِ الْوَقْتِ الْمَعْلُومِ ٭ قَالَ رَبِّ
-بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الأَرْضِ
-وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ﴾
-  </p>
-</blockquote>
+> ﴿قَالَ رَبِّ فَأَنظِرْنِي إِلَى يَوْمِ يُبْعَثُونَ ٭ قَالَ فَإِنَّكَ
+> مِنَ الْمُنظَرِينَ ٭ إِلَى يَومِ الْوَقْتِ الْمَعْلُومِ ٭ قَالَ رَبِّ
+> بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الأَرْضِ
+> وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ﴾
 
 ***“He said, ‘My Lord! Respite me till the day they will be
 resurrected.’ Said He, ‘You are indeed among the reprieved until the day
@@ -165,14 +157,10 @@ Essence. Then, God makes a statement to dissuade them from believing in
 the legislative lordship of other-than-God and save them from becoming
 infidels:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاءٍ
-بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
-بِهِ شَيئاً وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَاباً مِن دُونِ
-اللّهِ...﴾
-  </p>
-</blockquote>
+> ﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاءٍ
+> بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
+> بِهِ شَيئاً وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَاباً مِن دُونِ
+> اللّهِ...﴾
 
 ***“Say, ‘O People of the Book! Come to a word common between us and
 you: that we will worship no one but Allah, and that we will not ascribe
@@ -211,13 +199,9 @@ of *kufr* which Islam ascribes to some of the People of the Book—calling
 upon them to relinquish it and return to *tawhid*—is *legislative
 polytheism*. As the Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِن دُونِ اللّهِ
-وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلاَّ لِيَعْبُدُوا
-إِلَـهًا وَاحِدًا...﴾
-  </p>
-</blockquote>
+> ﴿اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِن دُونِ اللّهِ
+> وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلاَّ لِيَعْبُدُوا
+> إِلَـهًا وَاحِدًا...﴾
 
 ***“They have taken their scribes and their monks as lords besides
 Allah, also Christ, Mary’s son; though they were commanded to worship
@@ -285,13 +269,9 @@ stated before that subordinate to God’s legislation and not parallel to
 Him, there are those who have the right to enact law by God’s leave, and
 that law is credible and binding with the permission of God.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
-وَهَـذَا حَرَامٌ لِِِتَفْتَرُوا عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
-يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
+> وَهَـذَا حَرَامٌ لِِِتَفْتَرُوا عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
+> يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ﴾
 
 ***“Do not say, asserting falsely with your tongues, ‘This is lawful,
 and this is unlawful,’ to fabricate lies against Allah. Indeed those who
@@ -302,11 +282,7 @@ As such, one should not say to himself, “This is *halal* and that is
 preference. This is a form of polytheism. You have to see what God has
 said. In another place, the Qur’an thus states:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ ءَاَللّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللّهِ تَفْتَرُونَ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ ءَاَللّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللّهِ تَفْتَرُونَ﴾
 
 ***“Say, ‘Did Allah give you the sanction [to do so], or do you
 fabricate a lie against Allah?**’”*[^7]
@@ -320,11 +296,7 @@ revelation. At times when a verse would not be revealed to him, he used
 to receive divine inspiration [*ilham*] and non-Qur’anic revelation
 [*wahy*] by the legislative will of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا يَنطِقُ عَنِ الْهَوَى ٭ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى﴾
-  </p>
-</blockquote>
+> ﴿وَمَا يَنطِقُ عَنِ الْهَوَى ٭ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى﴾
 
 ***“He does not speak out of [his own] desire: it is just a revelation
 that is revealed [to him].**”*[^10]
@@ -338,12 +310,8 @@ One of these proofs is the tradition about the two weighty things
 [*hadith* *ath*-*thaqalayn*] in which the pure Imams (*‘a*) are treated
 as partners [‘idl] of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي أهْلَ
-بَيْتِي، مَا إنْ تَمَسَّكْتُمْ بِهِمَا لَنْ تَضِلُّوا بَعْدِي أبَداً .
-  </p>
-</blockquote>
+> إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي أهْلَ
+> بَيْتِي، مَا إنْ تَمَسَّكْتُمْ بِهِمَا لَنْ تَضِلُّوا بَعْدِي أبَداً .
 
 *“Verily, I am leaving among you two weighty things [thaqalayn]: The
 Book of Allah and my progeny [‘itrati], the members of my Household [Ahl
@@ -405,16 +373,12 @@ the Prophet (*s*), and thus, to God. This point has been categorically
 stated in the *Maqbulah* of ‘Umar ibn Hanzalah when Imam as-Sadiq (*‘a*)
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَنْظُرُ إِلىٰ مَنْ كَانَ مِنْكُمْ قَدْ رَوىٰ حَدِيثُنَا وَ نَظَرَ في
-حَلاَلِنَا وَ حَرَامِنَا وَ عَرَفَ أَحْكَامَنَا فَلْيَرْضُوا بِهِ
-حَكَمًا فَإِنّي قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِمًا. فَإِذَا حَكَمَ
-بِحُكْمِنَا فَلَمْ يَقْبَلْهُ مِنْهُ فَإِنَّمَا إِسْتَخَفَّ بِحُكْمِ
-اللهِ وَ عَلَيْنَا رَدَّ وَ الرَّادُّ عَلَيْنَا الرَّادُّ عَلىٰ اللهِ
-وَ هُوَ عَلىٰ حَدِّ الشِّرْكِ بِاللهِ.
-  </p>
-</blockquote>
+> يَنْظُرُ إِلىٰ مَنْ كَانَ مِنْكُمْ قَدْ رَوىٰ حَدِيثُنَا وَ نَظَرَ في
+> حَلاَلِنَا وَ حَرَامِنَا وَ عَرَفَ أَحْكَامَنَا فَلْيَرْضُوا بِهِ
+> حَكَمًا فَإِنّي قَدْ جَعَلْتُهُ عَلَيْكُمْ حَاكِمًا. فَإِذَا حَكَمَ
+> بِحُكْمِنَا فَلَمْ يَقْبَلْهُ مِنْهُ فَإِنَّمَا إِسْتَخَفَّ بِحُكْمِ
+> اللهِ وَ عَلَيْنَا رَدَّ وَ الرَّادُّ عَلَيْنَا الرَّادُّ عَلىٰ اللهِ
+> وَ هُوَ عَلىٰ حَدِّ الشِّرْكِ بِاللهِ.
 
 *“They must seek out one of you who narrates our traditions, who is
 versed in what is permissible and what is forbidden, who is well
@@ -494,11 +458,7 @@ advance all dimensions of his existence which are at the service of the
 spiritual and religious dimension toward perfection, and finally,
 achieve the ideal:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ﴾
-  </p>
-</blockquote>
+> ﴿وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.**”*[^16]
@@ -590,13 +550,9 @@ of God must be observed, and rules obeyed which have been introduced by
 those who are designated by God as far as they are authorized, so that
 man is not guilty of what the following verse describes:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ أَرَأَيْتُم مََا أَنزَلَ اللّهُ لَكُم مِّن رِزْقٍ فَجَعَلْتُم
-مِنْهُ حَرَامًا وَحَلاَلاً قُلْ ءَاَللّهُ أَذِنَ لَكُمْ أَمْ عَلَى
-اللّهِ تَفْتَرُونَ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ أَرَأَيْتُم مََا أَنزَلَ اللّهُ لَكُم مِّن رِزْقٍ فَجَعَلْتُم
+> مِنْهُ حَرَامًا وَحَلاَلاً قُلْ ءَاَللّهُ أَذِنَ لَكُمْ أَمْ عَلَى
+> اللّهِ تَفْتَرُونَ﴾
 
 ***“Say, ‘Have you regarded what Allah has sent down for you of [His]
 provision, whereupon you made some of it unlawful and [some] lawful?’
@@ -605,13 +561,9 @@ lie against Allah?’**”*[^18]
 
 And in another verse, it is stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
-وَهَـذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
-يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
+> وَهَـذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
+> يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ﴾
 
 ***“Do not say, asserting falsely with your tongues, ‘This is lawful,
 and this is unlawful,’ to*** ***fabricate lies against Allah. Indeed
@@ -714,5 +666,4 @@ ruling power’.” Wasa’il ash-Shi‘ah, vol. 18, p. 100. [Trans.]
 [^18]: Surah Yunus 10:59.
 
 [^19]: Surah an-Nahl 16:116.
-
 

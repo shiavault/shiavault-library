@@ -155,4 +155,3 @@ Ta'zirat”
 
 [^2]: Shirazi, Muhammad; “al-Fiqh series”, volumes 101-102.
 
-

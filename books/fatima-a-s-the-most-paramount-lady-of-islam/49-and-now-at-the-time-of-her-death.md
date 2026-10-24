@@ -8,4 +8,3 @@ happening.
 She has four children of tender years; the children, who need their
 mother and care.
 
-

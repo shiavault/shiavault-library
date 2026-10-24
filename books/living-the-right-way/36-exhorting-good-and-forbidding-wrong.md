@@ -87,4 +87,3 @@ the Almighty.”*
 
 [^1]: The Qur’an 42:42.
 
-

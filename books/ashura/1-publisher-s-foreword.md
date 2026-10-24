@@ -62,4 +62,3 @@ staff of the Translation Office.
 
 **Ahl al-Bayt (*****‘a*****) World Assembly**
 
-

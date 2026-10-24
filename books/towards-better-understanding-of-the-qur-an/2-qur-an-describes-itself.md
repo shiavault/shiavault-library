@@ -131,4 +131,3 @@ receive admonition”. (38:29).***
 mankind. He that receives guidance benefits his own soul, but he that
 strays injures his own soul”. (39:41).***
 
-

@@ -88,4 +88,3 @@ It's like using an umbrella with holes in it. *Hijab* is used for
 protection from guys as well as from the girl herself, and should not be
 used as an accessory or for beautifying one's self. Anyway, that's it….
 
-

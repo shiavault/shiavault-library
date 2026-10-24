@@ -272,4 +272,3 @@ Now, according to his own standard Mirza Ghulam Ahmad Qadianis claim of
 prophethood proves to be a lie, because God did not protect him from the
 'Khabith" (dirty) disease.
 
-

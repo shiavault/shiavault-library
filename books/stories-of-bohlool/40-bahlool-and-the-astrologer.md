@@ -15,4 +15,3 @@ about the stars of the sky?”
 The man was left speechless at Bahlool's statement, and left the
 assembly.
 
-

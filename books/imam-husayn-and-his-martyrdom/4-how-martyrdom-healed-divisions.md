@@ -22,4 +22,3 @@ to the Prophet:
 That was wonderfully exemplified by the sorrows and sufferings and
 finally the martyrdom of Imam Husayn.
 
-

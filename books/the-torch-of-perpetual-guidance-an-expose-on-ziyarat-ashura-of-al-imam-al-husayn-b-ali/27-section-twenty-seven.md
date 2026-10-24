@@ -1,16 +1,12 @@
 Section Twenty Seven
 ====================
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا أَبا عَبْد ِاللّهِ وَعَلَى الأَرْواحِ الَّتِي
-حَلَّتْ بِفِنائِكَ، عَلَيْكَ مِنِّي سَلامُ اللّهِ أَبَداً مَا بَقِيتُ
-وَبَقِيَ اللَّيْلُ وَالنَّهارُ، وَلاَ جَعَلَهُ اللّهُ آخِرَ الْعَهْدِ
-مِنِّي لِزِيارَتِكُمْ، أَلسَّلاَمُ عَلَى الْحُسَيْنِ، وَعَلَى عَلِيِّ
-بْنِ الْحُسَيْنِ، وَعَلَى أَوْلادِ الْحُسَيْنِ، وَعَلَى أَصْحابِ
-الْحُسَيْنِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا أَبا عَبْد ِاللّهِ وَعَلَى الأَرْواحِ الَّتِي
+> حَلَّتْ بِفِنائِكَ، عَلَيْكَ مِنِّي سَلامُ اللّهِ أَبَداً مَا بَقِيتُ
+> وَبَقِيَ اللَّيْلُ وَالنَّهارُ، وَلاَ جَعَلَهُ اللّهُ آخِرَ الْعَهْدِ
+> مِنِّي لِزِيارَتِكُمْ، أَلسَّلاَمُ عَلَى الْحُسَيْنِ، وَعَلَى عَلِيِّ
+> بْنِ الْحُسَيْنِ، وَعَلَى أَوْلادِ الْحُسَيْنِ، وَعَلَى أَصْحابِ
+> الْحُسَيْنِ.
 
 “Peace be upon you O’ Aba ‘Abdillah and upon the souls which were
 annihilated with you. Upon you, from me, is the peace of Allah for
@@ -113,5 +109,4 @@ located inside the Hair (the area where Imam Husayn (peace be upon him)
 is buried) to the right of the body while the other is that of Hurr b.
 Yazid al-Riyahi who is buried a few kilometres from the grave of Imam
 Husayn (peace be upon him).
-
 

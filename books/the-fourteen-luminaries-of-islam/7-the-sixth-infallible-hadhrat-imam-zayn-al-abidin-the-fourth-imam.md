@@ -483,4 +483,3 @@ into English by Ahmad Rezwani, Islamic Research Foundation, Mashhad,
 al-Kamilat al-Sajjadiyya, (Supplication 47) Muhammadi Trust, London,
 1988.
 
-

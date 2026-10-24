@@ -711,4 +711,3 @@ supplications, prayer and the Qur'an.
 
 [^1]: The name of a book.
 
-

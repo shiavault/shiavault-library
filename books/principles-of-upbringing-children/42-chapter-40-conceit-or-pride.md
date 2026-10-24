@@ -52,4 +52,3 @@ any of the child’s action is found incorrect, instead of saying that dad
 doesn’t approve of it, they should tell him that God will not approve of
 it.
 
-

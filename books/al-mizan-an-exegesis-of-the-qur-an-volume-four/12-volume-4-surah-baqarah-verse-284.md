@@ -271,4 +271,3 @@ abrogated one.
 In short, the purpose of the next verses is quite different from the
 aim of this verse, as you will see.
 
-

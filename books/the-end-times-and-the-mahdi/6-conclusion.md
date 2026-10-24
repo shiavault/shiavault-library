@@ -92,7 +92,6 @@ theory of evolution. It is also clear that the wide acceptance of the
 theory of evolution in society will further nourish materialism as well
 as communism.
 
-
 **The Scientific Collapse of Darwinism**
 
 Although this doctrine goes back as far as ancient Greece, the theory
@@ -291,7 +290,6 @@ demolished the legend that acquired traits were passed on to subsequent
 generations. Thus, natural selection fell out of favor as an
 evolutionary mechanism.
 
-
 **Neo-Darwinism and Mutations**
 
 In order to find a solution, Darwinists advanced the "Modern Synthetic
@@ -332,7 +330,6 @@ selection, on the other hand, "can do nothing by itself," as Darwin also
 accepted. This fact shows us that there is no "evolutionary mechanism"
 in nature. Since no evolutionary mechanism exists, no such any imaginary
 process called "evolution" could have taken place.
-
 
 **The Fossil Record: No Sign of Intermediate Forms**
 
@@ -393,5 +390,4 @@ created by some omnipotent intelligence.26 Fossils show that living
 beings emerged fully developed and in a perfect state on the earth. That
 means that "the origin of species," contrary to Darwin's supposition, is
 not evolution, but creation.
-
 

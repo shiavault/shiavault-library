@@ -876,4 +876,3 @@ she said to the people: "Kill Na'thal".
 because Ashtar settled in Kufa and gave Abu Musa the governorship of
 Kufa and ‘Uthman supported him.
 
-

@@ -70,11 +70,7 @@ Ja'far (Imam Muhammad al‑Baqir (‘a))
 
 "Jibra’ill came with this *ayah* to Muhammad in this way:
 
-<blockquote dir="rtl">
-  <p>
-وان كنتم في ريب مما نزلنا على عبدنا – في علي- فأتوا بسورة من مثلة
-  </p>
-</blockquote>
+> وان كنتم في ريب مما نزلنا على عبدنا – في علي- فأتوا بسورة من مثلة
 
 In reply to all these, we have clarified earlier that some parts of the
 revelations to the Prophet did not constitute the Qur’an; they were
@@ -113,11 +109,7 @@ tradition from Abu Abdillah, Imam Ja’far as‑Sadiq (‘a) reported by
 *al-Kafi* from Abu Basir. He says: "I asked Abu Abdillah (‘a) about the
 *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-واطيعوا الله واطيعوا الرسول وأولي الأمر منكم
-  </p>
-</blockquote>
+> واطيعوا الله واطيعوا الرسول وأولي الأمر منكم
 
 He said the verse was revealed for Ali b. Abi Talib, Hasan and Husayn
 (peace be upon them)".
@@ -148,21 +140,13 @@ death, people replaced some words in the Qur'an with the others.
 Ali b. Ibrahim al‑Qummi has reported with his chain of narrators from
 Hurayz who says: "Abu Abdillah (‘a) read this *ayah* as:
 
-<blockquote dir="rtl">
-  <p>
-صراط من أنعمت عليهم غير المغضوب عليهم وغير الضالين
-  </p>
-</blockquote>
+> صراط من أنعمت عليهم غير المغضوب عليهم وغير الضالين
 
 Al‑Ayyashi reports from Hisham b. Salim:
 
 "I asked Abu Abdillah (‘a) about this *ayah*:­
 
-<blockquote dir="rtl">
-  <p>
-ان الله اصطفى آدم ونوحا وآل ابراهيم وآل عمران على العالمين
-  </p>
-</blockquote>
+> ان الله اصطفى آدم ونوحا وآل ابراهيم وآل عمران على العالمين
 
 He said: "It is **آل عمران** . They have changed one name for the other.
 They have substituted **آل محمد** for **آل ابراهيم**.
@@ -237,5 +221,4 @@ allayed.
 [^1]: Al‑ Wasail Vol 3.
 
 [^2]: Al‑ Wasail Vol 3.
-
 

@@ -28,4 +28,3 @@ departure of the sweetness of obedience, lack of the bitterness of
 rebellion, and of confusion in the knowledge of what is permitted and
 what is forbidden.
 
-

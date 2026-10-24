@@ -197,4 +197,3 @@ and deed. People having correct belief and doing good deeds will be
 placed in the paradise; while people having wrong belief will go to the
 hell.
 
-

@@ -622,4 +622,3 @@ sometimes he threw his arrows against the army of Aa'isha and sometimes
 he threw his arrows against the army of Ali (s) saying: “Which of them I
 hit, it will be success!” It was said that he had killed Talha.
 
-

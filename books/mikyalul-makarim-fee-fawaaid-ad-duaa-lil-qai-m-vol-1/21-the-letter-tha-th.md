@@ -49,12 +49,8 @@ truth.”[^2]
 
 Ayyashi has mentioned in the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا
-يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا
-  </p>
-</blockquote>
+> وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا
+> يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا
 
 ***“And whoever is slain unjustly, We have indeed given to his heir
 authority, so let him not exceed the just limits in slaying; surely he
@@ -169,11 +165,7 @@ something, it is just as if he has committed it.
 In the book, *Al Muhajja Feema Nazala Lil Qaaimil Hujjah* it is
 mentioned that Imam Sadiq (as) said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قُتِلَ مَظْلُومًا
-  </p>
-</blockquote>
+> وَمَنْ قُتِلَ مَظْلُومًا
 
 ***“And one who is killed unjustly… (Qur’an, Surah Isra 17:33)***
 
@@ -200,5 +192,4 @@ And his *Wali* is Qaim (aj).”[^10]
 [^9]: Biharul Anwar; Vol. 52, Pg. 313
 
 [^10]: Al-Muhajja, Pg. 740
-
 

@@ -318,4 +318,3 @@ take place in future.
 The size of this book was three times that of the Quran. Remember: this
 book was not part of the Quran.
 
-

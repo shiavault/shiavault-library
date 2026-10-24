@@ -243,4 +243,3 @@ time. Or ‘from their front and behind’, that is, from all sides.
 
 [^17]: Sūrat al-Nahl 16:48-49.
 
-

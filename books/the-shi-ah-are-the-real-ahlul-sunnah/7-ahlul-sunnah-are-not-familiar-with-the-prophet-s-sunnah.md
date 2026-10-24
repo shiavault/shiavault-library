@@ -295,4 +295,3 @@ Allah to be pleased with their master Mu\`awiyah to whom they refer as
 “the revelation's scribe.” This proves that their love for Ali is not
 genuine at all and unworthy of being taken seriously.
 
-

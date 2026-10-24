@@ -126,4 +126,3 @@ deviation.
 [^1]: N reads: fima dhakara Abu Ja‘far fi 'l-qada’ wa 'l-qadr, qala
 rahimahu allah
 
-

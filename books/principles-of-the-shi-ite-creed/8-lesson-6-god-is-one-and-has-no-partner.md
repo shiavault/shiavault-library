@@ -105,4 +105,3 @@ partner.”[^2]
 
 [^2]: Nahj al-Balaghah, vol. 3, Egypt, p. 49.
 
-

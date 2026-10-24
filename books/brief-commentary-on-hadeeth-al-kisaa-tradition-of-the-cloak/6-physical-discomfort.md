@@ -1,12 +1,8 @@
 Physical Discomfort
 ===================
 
-<blockquote dir="rtl">
-  <p>
-قالَ : إنّي أَجِدُ في بَدَني ضَعفاً ، فَقُلتُ لَهُ : أُعِيذُكَ باللهِ
-يا أَبَتاهُ مِنَ الضَّعفِ.
-  </p>
-</blockquote>
+> قالَ : إنّي أَجِدُ في بَدَني ضَعفاً ، فَقُلتُ لَهُ : أُعِيذُكَ باللهِ
+> يا أَبَتاهُ مِنَ الضَّعفِ.
 
 **"I can feel some fatigue in my body," he said to me, and I answered,
 "I pray Allah to protect you O father against fatigue."**
@@ -18,11 +14,7 @@ their children. What is expected is for the children and family members
 to rush to the aid of their loved ones, especially the elderly.
 Furthermore, it is narrated that
 
-<blockquote dir="rtl">
-  <p>
-من شكى إلى مؤمن فقد شكى إلى الله ومن شكى لغير مؤمن فقد شكى الله.
-  </p>
-</blockquote>
+> من شكى إلى مؤمن فقد شكى إلى الله ومن شكى لغير مؤمن فقد شكى الله.
 
 *Whoever complains to a believer has complained to Allah and whoever
 complains to a nonbeliever has complained about Allah.”* (Bihaar Al
@@ -110,5 +102,4 @@ weakness, and there is no doubt that this feeling of weakness is only
 temporary and will disappear as the whole world is in need of this great
 energy of the Prophet (SA) that is crystalized in his mercy, goodness,
 and generosity, etc.
-
 

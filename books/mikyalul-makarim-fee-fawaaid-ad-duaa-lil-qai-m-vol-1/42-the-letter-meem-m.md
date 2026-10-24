@@ -34,12 +34,8 @@ said:
 Ibne Abbas sent a person to His Eminence to ask him the interpretation
 of the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
-وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
+> وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“O you who believe! be patient and excel in patience and remain
 steadfast, and be careful of (your duty to) Allah, that you may be
@@ -196,5 +192,4 @@ glimpse of His *Wali*.
 [^4]: Ithbaath al-Huda, Vol. 7, Pg. 357
 
 [^5]: Ghaibat Nomani, Pg. 296
-
 

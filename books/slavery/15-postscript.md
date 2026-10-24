@@ -45,4 +45,3 @@ Gopalpur, India
 
 November 27, 1987
 
-

@@ -16,4 +16,3 @@ in the form of repentance.
 
 > 3ـ كُلُّ قانِط آئِسٌ.
 
-

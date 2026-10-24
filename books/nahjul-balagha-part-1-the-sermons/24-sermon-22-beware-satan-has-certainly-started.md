@@ -4,23 +4,11 @@ Sermon 22: Beware! Satan has certainly started….
 *When he received reports about those who had broken their oath of
 allegiance to him*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-حين بلغه خبر الناكثين ببيعته
-  </p>
-</blockquote>
+> حين بلغه خبر الناكثين ببيعته
 
-<blockquote dir="rtl">
-  <p>
-[وفيها يذم عملهم ويلزمهم دم عثمان ويتهدّدهم بالحرب]
-  </p>
-</blockquote>
+> [وفيها يذم عملهم ويلزمهم دم عثمان ويتهدّدهم بالحرب]
 
 Beware! Satan has certainly started instigating his forces and has
 collected his army in order that oppression may reach its extreme ends
@@ -28,23 +16,15 @@ and wrong may come back to its position. By Allah they have not put a
 correct blame on me, nor have they done justice between me and
 themselves.
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ وإِنَّ الشَّيْطَانَ قَدْ ذَمَّرَ حِزْبَهُ وَاسْتَجْلَبَ جَلَبَهُ
-لِيَعُودَ الجَوْرُ إِلَى أَوْطَانِهِ، وَيَرْجِعَ البِاطِلُ إِلَى
-نِصَابِهِ وَاللهِ مَا أَنْكَرُوا عَلَيَّ مُنْكَراً، وَلاَ جَعَلُوا
-بَيْنِي وَبَيْنَهُمْ نَصِفاً
-  </p>
-</blockquote>
+> أَلاَ وإِنَّ الشَّيْطَانَ قَدْ ذَمَّرَ حِزْبَهُ وَاسْتَجْلَبَ جَلَبَهُ
+> لِيَعُودَ الجَوْرُ إِلَى أَوْطَانِهِ، وَيَرْجِعَ البِاطِلُ إِلَى
+> نِصَابِهِ وَاللهِ مَا أَنْكَرُوا عَلَيَّ مُنْكَراً، وَلاَ جَعَلُوا
+> بَيْنِي وَبَيْنَهُمْ نَصِفاً
 
 Criticism of their actions
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يذم عملهم
-  </p>
-</blockquote>
+> يذم عملهم
 
 They are demanding of me a right which they have abandoned, and a blood
 that they have themselves shed.[^1] If I were a partner with them in it
@@ -58,26 +38,18 @@ challenger (to battle)? Who is this challenger and for what is he being
 responded to? I am happy that the reasoning of Allah has been exhausted
 before them and He knows (all) about them.
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُمْ لَيَطْلُبُونَ حَقّاً هُمْ تَرَكُوهُ، وَدَماً هُمْ
-سَفَكُوهُ، فَلَئِنْ كُنْتُ شَرِيكَهُمْ فِيهِ فَإِنَّ لَهُمْ
-لَنَصِيبَهُمْ مِنْهُ، وَلَئِنْ كَانُوا وَلُوهُ دُوني، فَمَا
-التَّبِعَةُ إِلاَّ عِنْدَهُمْ، وَإِنَّ أَعْظَمَ حُجَّتِهِمْ لَعَلَى
-أَنْفُسِهِمْ، يَرْتَضِعُونَ أُمّاً قَدْ فَطَمَتْ وَيُحْيُونَ بِدْعَةً
-قَدْأُمِيتَتْ. يا خَيْبَةَ الدَّاعِي! مَنْ دَعَا! وَإِلاَمَ أُجِيبَ!
-وَإِنِّي لَرَاضٍ بِحُجَّةِ اللهِ عَلَيْهِمْ وَعِلْمِهِ فِيهمْ.
-  </p>
-</blockquote>
+> وَإِنَّهُمْ لَيَطْلُبُونَ حَقّاً هُمْ تَرَكُوهُ، وَدَماً هُمْ
+> سَفَكُوهُ، فَلَئِنْ كُنْتُ شَرِيكَهُمْ فِيهِ فَإِنَّ لَهُمْ
+> لَنَصِيبَهُمْ مِنْهُ، وَلَئِنْ كَانُوا وَلُوهُ دُوني، فَمَا
+> التَّبِعَةُ إِلاَّ عِنْدَهُمْ، وَإِنَّ أَعْظَمَ حُجَّتِهِمْ لَعَلَى
+> أَنْفُسِهِمْ، يَرْتَضِعُونَ أُمّاً قَدْ فَطَمَتْ وَيُحْيُونَ بِدْعَةً
+> قَدْأُمِيتَتْ. يا خَيْبَةَ الدَّاعِي! مَنْ دَعَا! وَإِلاَمَ أُجِيبَ!
+> وَإِنِّي لَرَاضٍ بِحُجَّةِ اللهِ عَلَيْهِمْ وَعِلْمِهِ فِيهمْ.
 
 The threat to wage war against them
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-التهديد بالحرب
-  </p>
-</blockquote>
+> التهديد بالحرب
 
 If they refuse (to obey) I will offer them the edge of the sword which
 is enough a curer of wrong and supporter of Right.
@@ -88,16 +60,12 @@ over them. I have ever been so that I was never frightened by fighting
 nor threatened by clashing. I enjoy full certainty of belief from My God
 and have no doubt in my faith.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَبَوْا أَعْطَيْتُهُمْ حَدَّ السَّيْفِ، وَكَفَى بِهِ شَافِياً
-مِنَ البَاطِلِ، وَنَاصَراً لِلْحَقِّ! وَمِنَ العَجَبِ بَعْثُهُمْ
-إِلَيَّ أَنْ أَبْرُزَ لِلطِّعَانِ! وَأَنْ أصْبِرَ لِلْجِلادِ!
-هَبِلَتْهُمُ الهَبُولُ! لَقَدْ كُنْتُ وَمَا أُهَدَّدُ بِالحَرْبِ،
-وَلاَ أُرَهَّبُ بِالضَّرْبِ! وَإِنِّي لَعَلَى يَقِينٍ مِنْ رَبِّي،
-وَغَيْرِ شُبْهَةٍ مِنْ دِيني.
-  </p>
-</blockquote>
+> فَإِنْ أَبَوْا أَعْطَيْتُهُمْ حَدَّ السَّيْفِ، وَكَفَى بِهِ شَافِياً
+> مِنَ البَاطِلِ، وَنَاصَراً لِلْحَقِّ! وَمِنَ العَجَبِ بَعْثُهُمْ
+> إِلَيَّ أَنْ أَبْرُزَ لِلطِّعَانِ! وَأَنْ أصْبِرَ لِلْجِلادِ!
+> هَبِلَتْهُمُ الهَبُولُ! لَقَدْ كُنْتُ وَمَا أُهَدَّدُ بِالحَرْبِ،
+> وَلاَ أُرَهَّبُ بِالضَّرْبِ! وَإِنِّي لَعَلَى يَقِينٍ مِنْ رَبِّي،
+> وَغَيْرِ شُبْهَةٍ مِنْ دِيني.
 
 Alternative Sources for Sermon 22
 ---------------------------------
@@ -156,5 +124,4 @@ some of them stuck my body." al- Mughirah said, "I wish one of them
 should have killed you." She said, "Allah may have pity you; why so?" He
 replied, "So that it would have been some atonement for what you had
 done against \`Uthman." (al-\`Iqd al-farid, vol. 4, p. 294)
-
 

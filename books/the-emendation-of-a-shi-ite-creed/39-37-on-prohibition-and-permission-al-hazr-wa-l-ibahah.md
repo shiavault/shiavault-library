@@ -19,4 +19,3 @@ religious canon has laid down the limits of the law, and distinguished
 finally what is prohibited, so it follows logically that what lies
 outside their scope is permitted.
 
-

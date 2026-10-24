@@ -159,4 +159,3 @@ religion?
 
 6- Explain the logical form of the second argument.
 
-

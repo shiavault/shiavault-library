@@ -46,4 +46,3 @@ people) dislike me and I, too, dislike them."
 
 Al-Ithna 'Ashariyyah, p. 202
 
-

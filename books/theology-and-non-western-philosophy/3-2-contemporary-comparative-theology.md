@@ -394,4 +394,3 @@ particular traditions in shaping theology and in any case to be
 unnecessary, in order to secure the possibility of theological openness
 to other traditions.
 
-

@@ -8,14 +8,11 @@ head (in fighting for Allah, give yourself to Allah). Plant your feet
 firmly on the ground. Have your eye on the remotest foe and close your
 eyes (to their numerical majority). And keep sure that succour is but
 from Allah, the Glorified.
-<blockquote dir="rtl">
-  <p>
-تَزُولُ الجِبَالُ وَلاَ تَزُلْ! عَضَّ عَلَى نَاجِذِكَ، أَعِرِ اللهَ
-جُمجُمَتَكَ، تِدْ في الاْرْضِ قَدَمَكَ، ارْمِ بِبَصَرِكَ أَقْصَى
-القَوْمِ، وَغُضَّ بَصَرَكَ، وَاعْلَمْ أَنَّ النَّصْرَ مِنْ عِنْدِ
-اللهِ سُبْحَانَهُ.
-  </p>
-</blockquote>
+
+> تَزُولُ الجِبَالُ وَلاَ تَزُلْ! عَضَّ عَلَى نَاجِذِكَ، أَعِرِ اللهَ
+> جُمجُمَتَكَ، تِدْ في الاْرْضِ قَدَمَكَ، ارْمِ بِبَصَرِكَ أَقْصَى
+> القَوْمِ، وَغُضَّ بَصَرَكَ، وَاعْلَمْ أَنَّ النَّصْرَ مِنْ عِنْدِ
+> اللهِ سُبْحَانَهُ.
 
 Alternative Sources for Sermon 11
 ---------------------------------
@@ -135,5 +132,4 @@ from Allah. "If Allah helps you no one can overpower you." Therefore,
 instead of relying on material means seek His support and succour.
 (Remember O' ye Believers!) If Allah helpeth you, none shall overcome
 you...(Qur'an, 3:160)
-
 

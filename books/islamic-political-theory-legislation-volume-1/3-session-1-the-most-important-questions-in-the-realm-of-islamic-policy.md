@@ -359,12 +359,8 @@ it in convincing the enemy by presenting His firm and solid proofs, and
 He has also invited us to talk and dispute with others by using the same
 method:
 
-<blockquote dir="rtl">
-  <p>
-﴿ٱدْعُ إِلِىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
-الْحَسَنَةِ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ﴾
-  </p>
-</blockquote>
+> ﴿ٱدْعُ إِلِىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
+> الْحَسَنَةِ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ﴾
 
 ***“Invite to the way of your Lord with wisdom and good advice and
 dispute with them in a manner that is best.**”*[^5]
@@ -426,5 +422,4 @@ Prophet Muhammad (s). [Trans.]
 passages is adapted from Sayyid ‘Ali Quli Qara’i, The Qur’an with a
 Phrase-by-Phrase English Translation (London: Islamic College for
 Advanced Studies Press, 2004). [Trans.]
-
 

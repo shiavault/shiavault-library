@@ -73,4 +73,3 @@ has. So, it is quite easy to tell what this imagination might bring to
 his mind. In such an event he has rejected the established traditions
 and acknowledged the realities of history.
 
-

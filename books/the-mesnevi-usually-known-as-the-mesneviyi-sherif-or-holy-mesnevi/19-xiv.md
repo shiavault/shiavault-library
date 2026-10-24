@@ -339,4 +339,3 @@ aDāru-’l-Qarār , Home of Permanence, mentioned in Qur’ān xl. 42; but it
 applies to Hell and Heaven, as does theDāru-’l-Baqā , Home of Duration,
 commonly used, but not found in the Qur’ān.
 
-

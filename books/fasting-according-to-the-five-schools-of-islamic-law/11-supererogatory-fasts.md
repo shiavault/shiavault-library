@@ -13,4 +13,3 @@ Mondays and Thursdays has also been emphasized. There are other days as
 well which have been mentioned in elaborate works. There is consensus
 among all the schools that fasting on these days is mustahabb.
 
-

@@ -9,12 +9,8 @@ month, week and every day if possible!
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-دِرْهَمٌ يُوْصَلُ بِهِ الإِمَامُ أَفْضَلُ مِنْ أَلْفَيْ أَلْفِ
-دِرْهَمٍ فِيمَا سِوٌاهُ مِنْ وُجُوهِ الْبِرِّ
-  </p>
-</blockquote>
+> دِرْهَمٌ يُوْصَلُ بِهِ الإِمَامُ أَفْضَلُ مِنْ أَلْفَيْ أَلْفِ
+> دِرْهَمٍ فِيمَا سِوٌاهُ مِنْ وُجُوهِ الْبِرِّ
 
 “One dirham which reaches the Imam is better than two million dirham’s
 (spent) in all other good deeds.”[^2]
@@ -36,12 +32,8 @@ scholars, propagators and missionaries of the faith!
 
 Imam Musa b. Ja’far al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ لَمْ يَقْدِرْ عَلـى صِلَتِنَا فَلْيَصِلْ عَلـى صَالِحِي
-مَوَالِينَا يُكْتَبُ لَهُ ثَوَابُ صِلَتِنَا
-  </p>
-</blockquote>
+> وَ مَنْ لَمْ يَقْدِرْ عَلـى صِلَتِنَا فَلْيَصِلْ عَلـى صَالِحِي
+> مَوَالِينَا يُكْتَبُ لَهُ ثَوَابُ صِلَتِنَا
 
 “A person who is not able to present us with a gift should give it to
 the righteous ones from among our followers and through this, a reward
@@ -57,5 +49,4 @@ which are offered to him.
 65
 
 [^3]: Kamil al-Ziyarat, pg. 319, no. 1
-
 

@@ -140,4 +140,3 @@ unwarranted inference and accusation, such as had not been made by any
 historian of insight from among those whose names have been mentioned
 above.
 
-

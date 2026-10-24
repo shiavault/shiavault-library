@@ -13,4 +13,3 @@ environment.   In this short booklet you will find a clear concept of
 war and peace in Islam and a clear picture of victory in Islam and how
 this good religion propagates its message.
 
-

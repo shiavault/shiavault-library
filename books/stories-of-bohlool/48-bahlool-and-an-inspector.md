@@ -20,4 +20,3 @@ inspector began to rave. He said, “This is the first time! A lunatic has
 given me this kind of deceit. He kept me useless for these hours
 unnecessarily.”
 
-

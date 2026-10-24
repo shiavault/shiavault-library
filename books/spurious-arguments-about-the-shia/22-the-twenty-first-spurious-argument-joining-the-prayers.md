@@ -33,4 +33,3 @@ the separation of the prayers obligatory and sometimes miss the Asr and
 the “Isha Prayers which has happened not only to ordinary people but to
 some of the Sunni scholars as well?
 
-

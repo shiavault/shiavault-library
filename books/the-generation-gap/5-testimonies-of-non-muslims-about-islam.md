@@ -346,7 +346,6 @@ be a world wide religion. It can manage the affairs of people. And it
 can establish discipline and universal peace. And finally it can provide
 eternal happiness for mankind.
 
-
 My child! My purpose of speaking about the religious issues was for you
 to become familiar with a sample of the beliefs of you father and
 mother, and to become certain that it is not without reasons that they
@@ -379,5 +378,4 @@ The Child:
 Of course the matter of religious beliefs has nothing to do with the
 rights of parents. They exist whether the child is in agreement with
 parent's principles and beliefs or not.
-
 

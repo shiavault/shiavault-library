@@ -34,4 +34,3 @@ the benefit in telling such stories:
 unto you this [portion of the] Qur'an. Before this you too were among
 those who knew it not”. (1:3)***
 
-

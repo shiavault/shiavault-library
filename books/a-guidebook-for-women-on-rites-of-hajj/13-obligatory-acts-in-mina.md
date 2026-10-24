@@ -164,4 +164,3 @@ is permitted, but sex is still prohibited.
 sacrifice. As a precaution it should not be delayed later than 11th of
 Dhil Hajjah.
 
-

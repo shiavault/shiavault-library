@@ -26,4 +26,3 @@ wine-drinkers will be saved, provided they are not guilty of shirk, 329
 [^2]: Compare Fiqh Akbar II, art. 14, MC, 193, fully discussed at p.221,
 MC, 267, art. 25; BHA, no. 233.
 
-

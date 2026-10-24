@@ -103,4 +103,3 @@ al-Ta’rīkh, vol. 4, p. 56; Bal‘amī, Ta’rīkh Nāma-yi Tabarī, vol. 4, p
 
 [^11]: Philip Hitti, Ta’rīkh al-‘Arab, vol. 1, p. 248.
 
-

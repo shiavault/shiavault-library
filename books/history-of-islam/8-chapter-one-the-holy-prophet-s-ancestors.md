@@ -84,7 +84,6 @@ and \`Abd Manaf, did not believe in any form of idolatory. They were
 true followers of Prophet Abraham’s religion and used to perform prayers
 to God at the Kaaba.”[^17]
 
-
 **Chapter Two : The Holy Prophet’s Childhood and Adolescence**
 
 **The Birth**
@@ -307,5 +306,4 @@ have genuine followers to be proud of. Islam stands so high that the
 world of Christianity even centuries after the Crusade campaigns, still
 worries about the expansion of Islam and tries helplessly to
 de-emphasize Islam's glories.[^59]
-
 

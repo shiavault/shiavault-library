@@ -326,4 +326,3 @@ edition (Qum: Markaz-e Jahani-ye ‘Ulum-e Islami, 1377 AHS), vol. 1, p.
 
 [^27]: Tarikh al-Khulafa’, p. 525.
 
-

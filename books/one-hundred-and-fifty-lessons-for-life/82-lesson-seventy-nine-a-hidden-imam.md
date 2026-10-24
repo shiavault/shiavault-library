@@ -3,12 +3,8 @@ Lesson Seventy Nine: A Hidden Imam
 
 Imam al-Sadiq (a.s) said,
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ يَنْتَفِعُ النّاسُ بِالْحُجَّةِ الْغائِب الْمَسْتُور؟ قالَ كَما
-يَنْتَفِعُونَ بِالشَّمْسِ إذا سَتَرَهَا السَّحآبُ
-  </p>
-</blockquote>
+> كَيْفَ يَنْتَفِعُ النّاسُ بِالْحُجَّةِ الْغائِب الْمَسْتُور؟ قالَ كَما
+> يَنْتَفِعُونَ بِالشَّمْسِ إذا سَتَرَهَا السَّحآبُ
 
 Translation
 -----------
@@ -37,5 +33,4 @@ leadership is proportionate to the method and degree of their relation
 and connection with the Imam.
 
 [^1]: Bihar al-Anwar, volume 52, page 92
-
 

@@ -44,4 +44,3 @@ not know the religion of Sayyid Mortaza, the most renowned scholar of
 the Shia sect, whom they suspect of being a Motazel because of his
 disagreement with Ash’ari belief.
 
-

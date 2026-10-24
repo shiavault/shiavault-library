@@ -350,9 +350,7 @@ future "Lady of Heaven." The father and mother showered their love upon
 her, and she brought hope and happiness and the blessings and the mercy
 of Allah with her into their home.
 
-
 **Chapter 5 : The Eve of the Proclamation of Islam**
-
 
 Not with standing the fact that Arabia was a pit of iniquity and the
 bastion of idolatry and polytheism, Muhammed himself was free from all
@@ -505,5 +503,4 @@ explorations in the domain of the soul, were coming to an end. He might
 have sensed that the time to turn his back upon a life of contemplation
 and meditation had come, and that he had soon to plunge into a life of
 action and conflict.
-
 

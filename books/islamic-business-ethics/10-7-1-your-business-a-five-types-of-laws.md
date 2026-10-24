@@ -54,4 +54,3 @@ others; however, if no one fulfills it, then the entire community is
 responsible. This is opposite of wajib ‘ayni in which each person has to
 fulfill that obligation, e.g., salat.
 
-

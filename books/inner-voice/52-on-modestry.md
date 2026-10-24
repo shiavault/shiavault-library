@@ -42,4 +42,3 @@ if the “primitive tribes” of last century were not more civilized than
 the rest of the world. After all, it is rest of the world which is now
 imitating the ways of that “so-called primitive society”.
 
-

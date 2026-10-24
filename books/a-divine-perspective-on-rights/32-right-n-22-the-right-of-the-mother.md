@@ -1,29 +1,21 @@
 Right n. 22: The Right of the Mother
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق الأم
-  </p>
-</blockquote>
+> حق الأم
 
-<blockquote dir="rtl">
-  <p>
-فَحَقُّ أُمِّكَ، فَأَنْ تَعْلَمَ أَنَّهَا حَمَلَتكَ حَيْثُ لا يَحْمِلُ
-أَحَدٌ أَحَدًا وَأَطْعَمَتكَ مِنْ ثَمَرَةِ قَلْبها مَا لا يُطْعِمُ
-أَحَدٌ أَحَدًا، وَأَنَّهَا وَقَتكَ بسَمْعِهَا وبَصَرِهَا ويَدِهَا
-وَرِجْلها وَشَعْرِهَا وبَشَرِهَا وَجَمِيعِ جَوَارِحِهَا مُسْتَبشِرَةً
-بذَلِكَ، فَرِحَةً مُوَابلَةً، مُحْتَمِلَةً لِمَا فِيهِ مَكْرُوهُها
-وأَلَمُها وثِقْلُها وَغَمُّهَا حَتَّى دَفَعَتهَا عَنْكَ يَدُ
-القُدْرَةِ وَأَخرَجَتكَ إلَى الأَرضِ فَرَضِيَتْ أَنْ تَشْبَعَ وتجوعُ
-هِيَ، وَتَكْسُوكَ وَتعْرَى، وَتُرْوِيكَ وَتَظْمَأُ، وَتُظِلُّكَ
-وتَضْحَى، وَتُنَعِّمَكَ ببُؤْسِهَا، وَتُلَذِّذُكَ بالنَّوْمِ
-بأَرَقِهَا، وَكَانَ بَطْنُهَا لَكَ وِعَاءً، وَحِجْرُهَا لَكَ حِوَاءً،
-وثَدْيُهَا لَكَ سِقَاءً، ونَفْسُهَا لَكَ وِقَاءً، تُبَاشِرُ حَرَّ
-الدُّنيَا وبَرْدِهَا لَكَ وَدُونَكَ، فَتَشْكُرَهَا عَلَى قَدْرِ ذَلِكَ
-وَلا تَقْدِرُ عَلَيْهِ إلاّ بعَونِ اللَّهِ وَتَوفِيقِهِ.
-  </p>
-</blockquote>
+> فَحَقُّ أُمِّكَ، فَأَنْ تَعْلَمَ أَنَّهَا حَمَلَتكَ حَيْثُ لا يَحْمِلُ
+> أَحَدٌ أَحَدًا وَأَطْعَمَتكَ مِنْ ثَمَرَةِ قَلْبها مَا لا يُطْعِمُ
+> أَحَدٌ أَحَدًا، وَأَنَّهَا وَقَتكَ بسَمْعِهَا وبَصَرِهَا ويَدِهَا
+> وَرِجْلها وَشَعْرِهَا وبَشَرِهَا وَجَمِيعِ جَوَارِحِهَا مُسْتَبشِرَةً
+> بذَلِكَ، فَرِحَةً مُوَابلَةً، مُحْتَمِلَةً لِمَا فِيهِ مَكْرُوهُها
+> وأَلَمُها وثِقْلُها وَغَمُّهَا حَتَّى دَفَعَتهَا عَنْكَ يَدُ
+> القُدْرَةِ وَأَخرَجَتكَ إلَى الأَرضِ فَرَضِيَتْ أَنْ تَشْبَعَ وتجوعُ
+> هِيَ، وَتَكْسُوكَ وَتعْرَى، وَتُرْوِيكَ وَتَظْمَأُ، وَتُظِلُّكَ
+> وتَضْحَى، وَتُنَعِّمَكَ ببُؤْسِهَا، وَتُلَذِّذُكَ بالنَّوْمِ
+> بأَرَقِهَا، وَكَانَ بَطْنُهَا لَكَ وِعَاءً، وَحِجْرُهَا لَكَ حِوَاءً،
+> وثَدْيُهَا لَكَ سِقَاءً، ونَفْسُهَا لَكَ وِقَاءً، تُبَاشِرُ حَرَّ
+> الدُّنيَا وبَرْدِهَا لَكَ وَدُونَكَ، فَتَشْكُرَهَا عَلَى قَدْرِ ذَلِكَ
+> وَلا تَقْدِرُ عَلَيْهِ إلاّ بعَونِ اللَّهِ وَتَوفِيقِهِ.
 
 **Then the right of your mother is that you should know that she carried
 you where no one carries anyone, and she fed you with the fruit of her
@@ -58,13 +50,9 @@ The Use of ‘Umm’ in the Qur’an
 One of the uses of ‘Umm’ in the Qur’an is to refer to a real mother as
 in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
-عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي
-إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
+> عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي
+> إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ
 
 ***“So We sent this inspiration to the mother of Moses: "Suckle (thy
 child)…” [The Holy Qur’an, al-Qasas 28:7]***
@@ -72,12 +60,8 @@ child)…” [The Holy Qur’an, al-Qasas 28:7]***
 The second use of ‘Umm’ in the Qur’an is to refer to its basic meaning
 of root and foundation as in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِيَ أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ
-هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ
-  </p>
-</blockquote>
+> هُوَ الَّذِيَ أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ
+> هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ
 
 ***“He it is Who has sent down to thee the Book: In it are verses basic
 or fundamental (of established meaning); they are the foundation of the
@@ -86,11 +70,7 @@ Book: others are allegorical.”[The Holy Qur’an, Al-i-Imran 3:7]***
 The third use of the word ‘Umm’ in the Qur’an is to refer to the
 greatest of several things or the central one as in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لِّتُنذِرَ أُمَّ الْقُرَى وَمَنْ حَوْلَهَا
-  </p>
-</blockquote>
+> لِّتُنذِرَ أُمَّ الْقُرَى وَمَنْ حَوْلَهَا
 
 ***“…that thou mayest warn the Mother of Cities***[^1] ***and all around
 her***[^2]***…” [The Holy Qur’an, al-Shura 42:7]***
@@ -102,12 +82,8 @@ is the first spot created and the first piece of dry land on the Earth.
 The wives of the Prophet are also considered the mothers of the
 believers in the Qur’an as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَاجُهُ
-أُمَّهَاتُهُمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَاجُهُ
+> أُمَّهَاتُهُمْ
 
 ***“The Prophet is closer to the Believers than their own selves, and
 his wives are their mothers…” [The Holy Qur’an, al-Ahzab 33:6]***
@@ -128,16 +104,12 @@ This is the type of hardship that no one else is ready to suffer for our
 sake. This point is clearly stressed in the Holy Qur’an in the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
-كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
-حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
-أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
+> كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
+> حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
+> أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
 
 ***“We have enjoined on man kindness to his parents: In pain did his
 mother bear him, and in pain did she give him birth. The carrying of the
@@ -151,13 +123,9 @@ Islam."[The Holy Qur’an, al-Ahqaf 46:15]***
 
 Moreover, in another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا
-عَلَى وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي
-وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا
+> عَلَى وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي
+> وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
 
 ***“And We have enjoined on man (to be good) to his parents: in travail
 upon travail did his mother bear him, and in years twain was his
@@ -212,12 +180,8 @@ The Period of Breast-Feeding
 The Qur’an states that the period of breast-feeding is two years as in
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
-لِمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ
-  </p>
-</blockquote>
+> وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
+> لِمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ
 
 ***“The mothers shall give suck to their offspring for two whole years,
 if the father desires to complete the term…” [The Holy Qur’an,
@@ -226,11 +190,7 @@ al-Baqarah 2:233]***
 In another verse, the full period of pregnancy and breast-feeding is
 said to be thirty months:
 
-<blockquote dir="rtl">
-  <p>
-وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
-  </p>
-</blockquote>
+> وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
 
 ***The carrying of the (child) to his weaning is (a period of) thirty
 months." [The Holy Qur’an, al-Ahqaf 46:15]***
@@ -303,19 +263,15 @@ The Period of Breast-Feeding as Viewed by the Qur’an
 
 Consider the following verse of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
-لِمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ وَعلَى الْمَوْلُودِ لَهُ
-رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ لاَ تُكَلَّفُ نَفْسٌ إِلاَّ
-وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
-بِوَلَدِهِ وَعَلَى الْوَارِثِ مِثْلُ ذَلِكَ فَإِنْ أَرَادَا فِصَالاً
-عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ
-أَرَدتُّمْ أَن تَسْتَرْضِعُواْ أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ
-إِذَا سَلَّمْتُم مَّا آتَيْتُم بِالْمَعْرُوفِ وَاتَّقُواْ اللّهَ
-وَاعْلَمُواْ أَنَّ اللّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
+> لِمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ وَعلَى الْمَوْلُودِ لَهُ
+> رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ لاَ تُكَلَّفُ نَفْسٌ إِلاَّ
+> وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+> بِوَلَدِهِ وَعَلَى الْوَارِثِ مِثْلُ ذَلِكَ فَإِنْ أَرَادَا فِصَالاً
+> عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ
+> أَرَدتُّمْ أَن تَسْتَرْضِعُواْ أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ
+> إِذَا سَلَّمْتُم مَّا آتَيْتُم بِالْمَعْرُوفِ وَاتَّقُواْ اللّهَ
+> وَاعْلَمُواْ أَنَّ اللّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***“The mothers shall give suck to their offspring for two whole years,
 if the father desires to complete the term. But he shall bear the cost
@@ -377,13 +333,9 @@ Milk Formation
 
 Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَكُمْ فِي الأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي
-بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا
-لِلشَّارِبِينَ
-  </p>
-</blockquote>
+> وَإِنَّ لَكُمْ فِي الأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي
+> بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا
+> لِلشَّارِبِينَ
 
 ***“And verily in cattle (too) will ye find an instructive sign. From
 what is within their bodies between excretions and blood, We produce,
@@ -424,11 +376,7 @@ sulphate as well as oxygen, nitrogen and carbonic acid. It also contains
 sugar in the form of lactose. Milk has B, P, A and D vitamins.[^10] That
 is why the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ يُجْزِي مَكانَ الطَّعامِ وَالشَّرابِ إلاّ اللَّبَنَ.
-  </p>
-</blockquote>
+> لَيسَ يُجْزِي مَكانَ الطَّعامِ وَالشَّرابِ إلاّ اللَّبَنَ.
 
 *“The only thing that can be substituted for food and water is
 milk.”*[^11]
@@ -460,12 +408,8 @@ it is born.”[^13] It is perhaps for this reason that it was revealed to
 the mother of Moses to breast-feed him before putting him in the river
 as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
-عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ
-  </p>
-</blockquote>
+> وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ
+> عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ
 
 ***So We sent this inspiration to the mother of Moses: "Suckle (thy
 child), but when thou hast fears about him, cast him into the river."
@@ -561,11 +505,7 @@ to other traditions in which Heaven has been presented as being under
 the shade of the swords of those who fight in the way of God. Now let us
 look at a few traditions in this regard.[^15] The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-الجَنَّةُ تَحْتَ أقْدامِ الأُمَّهَاتِ.
-  </p>
-</blockquote>
+> الجَنَّةُ تَحْتَ أقْدامِ الأُمَّهَاتِ.
 
 *“Heaven lies under the feet of mothers.”*
 
@@ -574,13 +514,9 @@ to His own pure Self for all those three times. However, Moses asked for
 more advice. God advised him regarding his mother twice and advised him
 regarding his father for the third time.
 
-<blockquote dir="rtl">
-  <p>
-جَاءَ رَجُلٌ إلى النَّبيِّ صَلّى اللهُ عَليهِ وَآلِهِ فَقَالَ: يا
-رَسُولَ الله،ِ مَن أبُرّ؟ قَالَ: أمَّكَ. قَالَ: ُثمَّ مَن؟ قال:
-أُمَّكَ. قال: ثُمَّ مَن؟ قالَ: أُمَّكَ. قالَ: ثُمَّ مَن؟ قال: أباكَ.
-  </p>
-</blockquote>
+> جَاءَ رَجُلٌ إلى النَّبيِّ صَلّى اللهُ عَليهِ وَآلِهِ فَقَالَ: يا
+> رَسُولَ الله،ِ مَن أبُرّ؟ قَالَ: أمَّكَ. قَالَ: ُثمَّ مَن؟ قال:
+> أُمَّكَ. قال: ثُمَّ مَن؟ قالَ: أُمَّكَ. قالَ: ثُمَّ مَن؟ قال: أباكَ.
 
 *A man went to see the Prophet of God and said: “O Prophet of God! Whom
 shall I treat well?” He said: “Your mother.” The man asked: “Who else?”
@@ -603,12 +539,8 @@ A young man went to see the Prophet along with his mother. He wanted to
 go to the front but his mother would not let him do so. The Prophet
 said:
 
-<blockquote dir="rtl">
-  <p>
-عِندَ أُمِّكَ قِرَّ وإنَّ لَكَ مِن الأجْرِ عِندَها مِثلَ ما لَكَ في
-الجِهادِ.
-  </p>
-</blockquote>
+> عِندَ أُمِّكَ قِرَّ وإنَّ لَكَ مِن الأجْرِ عِندَها مِثلَ ما لَكَ في
+> الجِهادِ.
 
 *“Be at the service of your mother since it is not any less of a service
 than going to the war front.”*
@@ -665,5 +597,4 @@ unnecessary risk of Hg exposure.
 [^14]: Usul-i-Ravanshenasi Ma’an, v.1, p.441.
 
 [^15]: Mizan al-Hikmah, v.10, pp.712-713.
-
 

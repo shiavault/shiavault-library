@@ -225,7 +225,6 @@ ideological warfare against the enemies of religious morality, all
 believers must prepare for the most celebrated era in human history: the
 second coming of Jesus (pbuh).
 
-
 **Chapter 7 : The Second Coming Of Jesus (PBUH) The Messiah**
 
 In this chapter, we will examine the revelation of Jesus' (pbuh) second
@@ -794,5 +793,4 @@ in faith. Let us try to bring the peace, brotherhood, compassion, love
 that he envisages to the world. Let us fight together the ideological
 war against the philosophies and ideologies that oppose him and deny
 God. Come, let us await one of the world's greatest miracles together.
-
 

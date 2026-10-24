@@ -73,4 +73,3 @@ throw) which is an aorist tense verb in the jussive state because of
 *lam* and its sign is the subtraction of the weak letter because it is a
 weak verb of the root letter.
 
-

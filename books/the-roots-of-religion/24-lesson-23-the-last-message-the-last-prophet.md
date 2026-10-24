@@ -396,4 +396,3 @@ see Al-Ghadir, vol. 3 p. 196-202.
 
 [^6]: Bihar al- Anwar, vol. 70, p. 114.
 
-

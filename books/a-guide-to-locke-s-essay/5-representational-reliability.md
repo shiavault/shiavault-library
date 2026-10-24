@@ -271,7 +271,6 @@ III x 20-21] The false expectation that classification is natural can
 only lead to profound skepticism about the possiblity of general
 knowledge.
 
-
 **Real and Nominal Essence**
 
 Locke drew a careful distinction between two senses of the word
@@ -342,5 +341,4 @@ we have found often to coexist with these marks, forming the nominal
 essence by virtue of which we determine the applicability of a general
 term. [Essay III xi 19-21] When it comes to the classification of
 substances into sorts, it's all about us.
-
 

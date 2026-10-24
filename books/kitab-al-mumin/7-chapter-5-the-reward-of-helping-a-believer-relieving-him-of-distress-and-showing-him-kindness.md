@@ -4,13 +4,9 @@ Chapter 5: The Reward of Helping a Believer, Relieving Him of Distress And Showi
 > 5 - باب ثواب قضاء حاجة المؤمن وتنفيس كربه وإدخال الرفق عليه
 
 > 107 - عن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن مَشى لامرئٍ مُسلمٍ في حاجتِه فنصَحَه فيها كتبَ اللهُ له بكُلّ
-خُطوةٍ حسنةً ومحى عنه سيّئةً، قُضيَتِ الحاجةُ أم لم تُقضَ. فإنْ لم
-ينصَحْه فقَد خانَ اللهَ ورسولَه وكانَ رسولُ الله (ص) خصمَه.
-  </p>
-</blockquote>
+>  مَن مَشى لامرئٍ مُسلمٍ في حاجتِه فنصَحَه فيها كتبَ اللهُ له بكُلّ
+> خُطوةٍ حسنةً ومحى عنه سيّئةً، قُضيَتِ الحاجةُ أم لم تُقضَ. فإنْ لم
+> ينصَحْه فقَد خانَ اللهَ ورسولَه وكانَ رسولُ الله (ص) خصمَه.
 
 107. It has been reported that Abu 'Abd Allah [a.s] said:  
  One who goes along with a Muslim to help him and counsels him
@@ -21,12 +17,8 @@ betrayed Allah and His Messenger, and it is the Messenger of Allah [a.s]
 who will litigate against him.[^1]
 
 > 108 – وعن أبي عبد الله (ع)  
-<blockquote dir="rtl">
-  <p>
- إنّ الله (جلّ جلاله) انتخَب قوماً مِن خلقِه لقَضاءِ حوائجِ فُقراءَ من
-شيعةِ علي (ع) ليُثيبَهم بذلك الجنَّةَ.
-  </p>
-</blockquote>
+>  إنّ الله (جلّ جلاله) انتخَب قوماً مِن خلقِه لقَضاءِ حوائجِ فُقراءَ من
+> شيعةِ علي (ع) ليُثيبَهم بذلك الجنَّةَ.
 
 108. It has been narrated that Abu 'Abd Allah said:  
  Allah has elected some people from His creation for fulfilling the
@@ -34,25 +26,17 @@ needs of the destitute amongst the Shi'ah of 'Ali [a.s] that He may
 reward them for that with Paradise.[^2]
 
 > 109 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- أيمّا مؤمنٍ نفَّسَ عن مؤمِن كُربَةً نَفَّس اللهُ عنه سَبعين كُربَة من
-كُربِ الدّنيا وكربِ يوم القِيامة.
-  </p>
-</blockquote>
+>  أيمّا مؤمنٍ نفَّسَ عن مؤمِن كُربَةً نَفَّس اللهُ عنه سَبعين كُربَة من
+> كُربِ الدّنيا وكربِ يوم القِيامة.
 
 109. It has been reported that Abu 'Abd Allah [a.s] said:  
  Any believer who relieves a distress from another believer, Allah will
 relieve seventy distresses from him, of the distresses of the world and
 the distresses of the Day of Resurrection.
 
-<blockquote dir="rtl">
-  <p>
-قال: ومَن يَسَّر عَلى مؤمِنٍ وهو مُعسِرٌ يَسَّر اللهُ له حَوائجَ
-الدُّنيا وَالآخرَةِ ومَن سَترَ على مؤمنٍ عورَةً سترَ الله عليه سَبعينَ
-عَورة من عَوراته الّتي يخلفها في الدّنيا والآخِرة.
-  </p>
-</blockquote>
+> قال: ومَن يَسَّر عَلى مؤمِنٍ وهو مُعسِرٌ يَسَّر اللهُ له حَوائجَ
+> الدُّنيا وَالآخرَةِ ومَن سَترَ على مؤمنٍ عورَةً سترَ الله عليه سَبعينَ
+> عَورة من عَوراته الّتي يخلفها في الدّنيا والآخِرة.
 
 He also said: One who brings ease to a believer in straitened
 circumstances, Allah will make easy for him the needs of the world and
@@ -60,25 +44,17 @@ the hereafter; and one who hides the fault of a believer, Allah will
 conceal seventy faults that he leaves behind, in the world and in the
 hereafter.
 
-<blockquote dir="rtl">
-  <p>
-قال: وإنّ اللهَ لفي عَون المؤمنِ ما كانَ المؤمنُ في عَون أخيهِ
-المؤمنِ، فانتَفعوا في العِظةِ وارغَبوا في الخَير.
-  </p>
-</blockquote>
+> قال: وإنّ اللهَ لفي عَون المؤمنِ ما كانَ المؤمنُ في عَون أخيهِ
+> المؤمنِ، فانتَفعوا في العِظةِ وارغَبوا في الخَير.
 
 He also said: Indeed, Allah continues to aid a believer as long as he
 continues to aid his fellow believer; therefore, benefit from the
 exhortation and seek the good (of doing this).[^3]
 
 > 110 - وعن أبي جعفر (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن خَطا في حاجَةِ أخيه المسلمِ بخطوَةٍ كتَبَ اللهُ له بها عَشرَ
-حَسناتٍ وكانَت له خيراً مِن عِتقِ عَشرَ رقاب وصيامِ شَهرٍ وَاعتكافِه
-في المسجد الحَرام.
-  </p>
-</blockquote>
+>  مَن خَطا في حاجَةِ أخيه المسلمِ بخطوَةٍ كتَبَ اللهُ له بها عَشرَ
+> حَسناتٍ وكانَت له خيراً مِن عِتقِ عَشرَ رقاب وصيامِ شَهرٍ وَاعتكافِه
+> في المسجد الحَرام.
 
 110. It has been reported that Abu Ja'far [a.s] said:  
  One who takes one step in fulfilling the need of his Muslim brother,
@@ -87,35 +63,23 @@ freeing ten slaves, and fasting for a month and performing ***i'tikaf***
 (isolation for worship) in the Sacred Mosque (of Makkah).[^4]
 
 > 111 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- قَضاءُ حاجةِ المؤمنِ خَيرٌ من حملانِ ألف فَرَس في سبيل الله (جلّ
-جلاله) وعِتقِ ألف نَسَمة.
-  </p>
-</blockquote>
+>  قَضاءُ حاجةِ المؤمنِ خَيرٌ من حملانِ ألف فَرَس في سبيل الله (جلّ
+> جلاله) وعِتقِ ألف نَسَمة.
 
 111. It has been reported that Abu 'Abd Allah [a.s] said:  
  To fulfill the need of a believer is better than providing one thousand
 horses in the way of Allah and freeing one thousand slaves.[^5]
 
-<blockquote dir="rtl">
-  <p>
-وقال: ما مِن مؤمن يمشي لأخيهِ في حاجَةٍ إلاّ كتبَ اللهُ له بكُلّ
-خُطوةٍ حَسنةً وحَطّ بها عنه سيّئةً ورَفعَ له بها دَرجةً.
-  </p>
-</blockquote>
+> وقال: ما مِن مؤمن يمشي لأخيهِ في حاجَةٍ إلاّ كتبَ اللهُ له بكُلّ
+> خُطوةٍ حَسنةً وحَطّ بها عنه سيّئةً ورَفعَ له بها دَرجةً.
 
 He also said: If any believer goes out to help his brother, Allah writes
 for him a good deed for every step (he takes) and erases from him a sin
 and elevates him a degree.[^6]
 
-<blockquote dir="rtl">
-  <p>
-وما مِن مؤمن يُفرّج عن أخيه المؤمِن كُربةً إلاّ فرَّجَ اللهُ عنه
-كُربةً مِن كُربِ الآخرة، وما مِن مؤمنٍ يُعينُ مظلوماً إلاّ كان ذلكَ
-أفضَلَ من صِيام شَهر واعتِكافِه في المسجدِ الحَرام.
-  </p>
-</blockquote>
+> وما مِن مؤمن يُفرّج عن أخيه المؤمِن كُربةً إلاّ فرَّجَ اللهُ عنه
+> كُربةً مِن كُربِ الآخرة، وما مِن مؤمنٍ يُعينُ مظلوماً إلاّ كان ذلكَ
+> أفضَلَ من صِيام شَهر واعتِكافِه في المسجدِ الحَرام.
 
 And any believer who relieves his fellow believer of a distress, Allah
 will relieve him of a distress in the hereafter. And if any believer
@@ -124,14 +88,10 @@ fasting for a whole month and performing i'tikaf in the Sacred Mosque
 (in Makkah).[^7]
 
 > 112 - عن نصر بن قابوس قال: قلت لأبي الحسن الماضي (ع): بلغني عن أبيك
-<blockquote dir="rtl">
-  <p>
-أنه أتاه آتٍ فاستعان به على حاجته، فذُكِرَ له أنه معتكف، فأتى الحسن
-(ع)، فذكر له ذلك، فقال:  
- أما عَلمْتَ أنّ المشيَ في حاجةِ المؤمن خَيرٌ من اعتِكافِ شَهرينِ
-مُتَتابعَين في المَسجدِ الحرام بصِيامِهما.
-  </p>
-</blockquote>
+> أنه أتاه آتٍ فاستعان به على حاجته، فذُكِرَ له أنه معتكف، فأتى الحسن
+> (ع)، فذكر له ذلك، فقال:
+>  أما عَلمْتَ أنّ المشيَ في حاجةِ المؤمن خَيرٌ من اعتِكافِ شَهرينِ
+> مُتَتابعَين في المَسجدِ الحرام بصِيامِهما.
 
 112. It has been related that Nasr ibn Qabus said: I said to Abu
 al-Hasan (Imam al-Kaďim [a.s]), 'I have come to know that someone once
@@ -142,32 +102,24 @@ should have known that going to help a believer is better than two
 consecutive months of ***i'tikaf*** in the Sacred Mosque (in Makkah)
 whilst fasting for these two months.'
 
-<blockquote dir="rtl">
-  <p>
-ثم قال أبو الحسن (ع)  
- ومِن إعتكاف الدهر.
-  </p>
-</blockquote>
+> ثم قال أبو الحسن (ع)
+>  ومِن إعتكاف الدهر.
 
 Abu al-Hasan [a.s] added, 'Moreover, it is better than performing
 ***i'tikaf*** for the whole lifetime.'[^8]
 
 > 113 - وعن رجل من حلوان قال: كنت أطوف بالبيت، فأتاني رجل من أصحابنا
-<blockquote dir="rtl">
-  <p>
-فسألني قرض دينارين، وكنت قد طفت خمسة أشواط، فقلت له: أتم اسبوعي ثم
-أخرج، فلما دخلت في السادس إعتمد علي أبو عبد الله (ع)، و وضع يده على
-منكبي، قال: فاتممت سبعي ودخلت في الآخر لاعتماد أبي عبد الله (ع) علي،
-فكنت كلما جئت إلى الركن أومأ إلي الرجل، فقال أبو عبد الله (ع): من كان
-هذا يؤمي إليك؟ قلت: جعلت فداك هذا رجل من مواليك، سألني قرض دينارين،
-قلت: اتم أسبوعي وأخرج إليك، قال: فدفعني أبو عبد الله (ع) وقال: إذهب
-فأعطهما إياه، فظننت أنه قال: فأعطهما إياه لقولي قد أنعمت له، فلما كان
-من الغد دخلت عليه وعنده عدة من أصحابنا يحدثهم، فلما رآني قطع الحديث
-وقال  
- لأَنْ أمشيَ مع أخ لي في حاجة حتىّ أقضي له أحَبُّ إليّ مِن أن أعتقَ
-ألفَ نسَمة وأحمِلَ على ألفِ فرسٍ في سبيل الله مُسرّجةً ملجمةً.
-  </p>
-</blockquote>
+> فسألني قرض دينارين، وكنت قد طفت خمسة أشواط، فقلت له: أتم اسبوعي ثم
+> أخرج، فلما دخلت في السادس إعتمد علي أبو عبد الله (ع)، و وضع يده على
+> منكبي، قال: فاتممت سبعي ودخلت في الآخر لاعتماد أبي عبد الله (ع) علي،
+> فكنت كلما جئت إلى الركن أومأ إلي الرجل، فقال أبو عبد الله (ع): من كان
+> هذا يؤمي إليك؟ قلت: جعلت فداك هذا رجل من مواليك، سألني قرض دينارين،
+> قلت: اتم أسبوعي وأخرج إليك، قال: فدفعني أبو عبد الله (ع) وقال: إذهب
+> فأعطهما إياه، فظننت أنه قال: فأعطهما إياه لقولي قد أنعمت له، فلما كان
+> من الغد دخلت عليه وعنده عدة من أصحابنا يحدثهم، فلما رآني قطع الحديث
+> وقال
+>  لأَنْ أمشيَ مع أخ لي في حاجة حتىّ أقضي له أحَبُّ إليّ مِن أن أعتقَ
+> ألفَ نسَمة وأحمِلَ على ألفِ فرسٍ في سبيل الله مُسرّجةً ملجمةً.
 
 113. It has been reported that a man from Hulwan said: I was
 circumambulating the Sacred House (i.e. the Ka'bah) when a man came to
@@ -191,11 +143,7 @@ thousand horses in the way of Allah, all saddled and reined (i.e. fully
 equipped).'[^9]
 
 > 114 - وعن أبي جعفر (ع) قال: قال رسول الله (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن سرَّ مؤمناً فقد سرّني ومَن سرّني فقد سرَّ اللهَ.
-  </p>
-</blockquote>
+>  مَن سرَّ مؤمناً فقد سرّني ومَن سرّني فقد سرَّ اللهَ.
 
 114. It has been reported that Abu Ja'far [a.s] said that the Messenger
 of Allah [a.s] said:  
@@ -203,12 +151,8 @@ of Allah [a.s] said:
 makes me happy has in fact made Allah happy.[^10]
 
 > 115 - عن مسمع قال: سمعت الصادق (ع) يقول  
-<blockquote dir="rtl">
-  <p>
- مَن نفَّسَ عن مؤمن كُربةً من كُربِ الدنيا نَفَّسَ الله عنه كُربة من
-كُربِ الآخرة وخَرجَ مِن قبره وهو ثَلِجُ الفؤاد.
-  </p>
-</blockquote>
+>  مَن نفَّسَ عن مؤمن كُربةً من كُربِ الدنيا نَفَّسَ الله عنه كُربة من
+> كُربِ الآخرة وخَرجَ مِن قبره وهو ثَلِجُ الفؤاد.
 
 115. It has been related that Musmi' said: I heard al-Sadiq [a.s]
 saying:  
@@ -217,13 +161,9 @@ from him a distress of the hereafter and he will come forth from his
 grave whilst he is delighted.”[^11]
 
 > 116 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن طافَ بهذا البيت أسبوعاً كتب الله (جلّ جلاله) له ستّةَ آلاف حسنة
-ومحى عنه ستة آلاف سيئة ورفعَ له ستة آلاف درجة.  
- وفي رواية ابن عمار: وقضى له ستة آلاف حاجة.
-  </p>
-</blockquote>
+>  مَن طافَ بهذا البيت أسبوعاً كتب الله (جلّ جلاله) له ستّةَ آلاف حسنة
+> ومحى عنه ستة آلاف سيئة ورفعَ له ستة آلاف درجة.
+>  وفي رواية ابن عمار: وقضى له ستة آلاف حاجة.
 
 116. It has been reported that Abu 'Abd Allah [a.s] said:  
  One who circumambulates around this House (i.e. the Ka'bah) seven
@@ -232,24 +172,16 @@ thousand misdeeds and elevate him six thousand degrees.[^12]
  According to Ibn 'Ammar's narration, 'And fulfill for him six thousand
 needs.'
 
-<blockquote dir="rtl">
-  <p>
-وقال أبو عبد الله (ع)  
- لَقضاءُ حاجَة المُؤمن خيرٌ مِن طواف وطواف… حتى عَدَّ عشر مرات.
-  </p>
-</blockquote>
+> وقال أبو عبد الله (ع)
+>  لَقضاءُ حاجَة المُؤمن خيرٌ مِن طواف وطواف… حتى عَدَّ عشر مرات.
 
 Then Abu 'Abd Allah [a.s] said:  
  Fulfilling the need of a believer is better than circumambulating and
 circumambulating…” he repeated ten times.
 
 > 117 - وقال أبو عبد الله (ع)  
-<blockquote dir="rtl">
-  <p>
- لَقضاءُ حاجةِ المؤمن خَير من عِتقِ ألف نسمَة ومن حملان ألف فَرَس في
-سبيلِ الله.
-  </p>
-</blockquote>
+>  لَقضاءُ حاجةِ المؤمن خَير من عِتقِ ألف نسمَة ومن حملان ألف فَرَس في
+> سبيلِ الله.
 
 117. Abu 'Abd Allah [a.s] also said:  
  Fulfilling the need of a believer is better than freeing one thousand
@@ -257,12 +189,8 @@ slaves and better than providing one thousand horses in the way of
 Allah.[^13]
 
 > 118 - وعن أبي جعفر (ع)  
-<blockquote dir="rtl">
-  <p>
- مَن قضى لمسلم حاجتَه ناداه الله (جلّ جلاله): ثوابُك عَليَّ ولا أرضى
-لك ثواباً دون الجنّة.
-  </p>
-</blockquote>
+>  مَن قضى لمسلم حاجتَه ناداه الله (جلّ جلاله): ثوابُك عَليَّ ولا أرضى
+> لك ثواباً دون الجنّة.
 
 118. It has been reported that Abu Ja'far [a.s] said:  
  One who fulfils the need of a Muslim will be called out to by Allah
@@ -270,12 +198,8 @@ Allah.[^13]
 a reward for you less than Paradise.[^14]
 
 > 119 - وعن أبي عبد الله (ع) قال:  
-<blockquote dir="rtl">
-  <p>
- أيمّا مؤمنٍ سأله أخوه المؤمنُ حاجتَه وهو يقدِر على قضائها فَردَّهُ
-منها سلَّطَ الله عليه شُجاعاً في قبره ينهَشُ من أصابِعه.
-  </p>
-</blockquote>
+>  أيمّا مؤمنٍ سأله أخوه المؤمنُ حاجتَه وهو يقدِر على قضائها فَردَّهُ
+> منها سلَّطَ الله عليه شُجاعاً في قبره ينهَشُ من أصابِعه.
 
 119. It has been reported that Abu 'Abd Allah [a.s] said:  
  If any believer asks his fellow brother to help him and he refuses
@@ -283,13 +207,9 @@ while he is able to do, Allah will impose on him a serpent in his grave
 to bite his fingers.[^15]
 
 > 120 - وعن أبي جعفر (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن قضى لأخيهِ المؤمن حاجةً كتب اللهُ بها عشرَ حسنات ومحى عنه عشر
-سيئات ورفع له بها عشر درجات وكان عِدلَ عشر رقاب وصومِ شهرٍ واعتكافه في
-المسجد الحرام.
-  </p>
-</blockquote>
+>  مَن قضى لأخيهِ المؤمن حاجةً كتب اللهُ بها عشرَ حسنات ومحى عنه عشر
+> سيئات ورفع له بها عشر درجات وكان عِدلَ عشر رقاب وصومِ شهرٍ واعتكافه في
+> المسجد الحرام.
 
 120. It has been reported that Abu Ja'far [a.s] said:  
  One who fulfils a need for his Muslim brother, Allah records for him
@@ -298,12 +218,8 @@ degrees and it is equal to freeing ten slaves and fasting and
 ***i'tikaf*** in the Sacred Mosque for one month.”[^16]
 
 > 121 - وعن الصادق (ع)  
-<blockquote dir="rtl">
-  <p>
- مَن فرَّجَ عن أخيه المسلم كُربةً فرّج الله عنه كُربة يوم القيامة
-ويخرجُ من قبره مثلوجَ الصدر.
-  </p>
-</blockquote>
+>  مَن فرَّجَ عن أخيه المسلم كُربةً فرّج الله عنه كُربة يوم القيامة
+> ويخرجُ من قبره مثلوجَ الصدر.
 
 121. It has been related that al-Sadiq [a.s] said:  
  One who relieves a distress from his Muslim brother, Allah will remove
@@ -311,11 +227,7 @@ a distress from him on the Day of Resurrection and he shall come forth
 from his grave delighted.[^17]
 
 > 122 - وعن أبي إبراهيم الكاظم (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن فرَّجَ عن أخيه المسلم كُربةً فرّج الله عنه كُربة يوم القيامة.
-  </p>
-</blockquote>
+>  مَن فرَّجَ عن أخيه المسلم كُربةً فرّج الله عنه كُربة يوم القيامة.
 
 122. It has been related that Abu Ibrahim Musa al-Kaďim [a.s] said:  
  One who relieves his Muslim brother of a distress, Allah will
@@ -323,22 +235,18 @@ compensate him for it (by relieving him) of a distress on the Day of
 Resurrection.[^18]
 
 > 123 - وعن أبي جعفر (ع) قال: فيما ناجي الله به عبدَه موسى بن عمران أن
-<blockquote dir="rtl">
-  <p>
-قال:  
- إنّ لي عِباداً أُبيحهُم جنّتى وأحكّمُهم فيها.  
- قال موسى: يا رب من هؤلاء الذين تبيحهم جنتك وتحكمهم فيها؟ قال  
- مَن أدخل على مؤمنٍ سروراً.  
- ثم قال:إنّ مؤمناً كان في مملكة جبار وكان مولعا به فهرب منه إلى دار
-الشرك، ونزل برجل من أهل الشرك فألطفه وأرفقه وأضافه. فلما حضره الموت،
-أوحى الله عزو جل إليه  
- وعِزّتي وجلالي، لو كان في جنتي مسكَنٌ لمِشرِكٍ لأسكنتُكَ فيها،
-ولكنّها مُحرَّمةٌ على مَن مات مشركاً، ولكن يا نارُ هارِبيه ولا
-تُؤذيه.  
- قال: ويؤتى برزقه طرفي النهار، قلت: من الجنة؟ قال: أو من حيث شاء الله
-عز وجل.
-  </p>
-</blockquote>
+> قال:
+>  إنّ لي عِباداً أُبيحهُم جنّتى وأحكّمُهم فيها.
+>  قال موسى: يا رب من هؤلاء الذين تبيحهم جنتك وتحكمهم فيها؟ قال
+>  مَن أدخل على مؤمنٍ سروراً.
+>  ثم قال:إنّ مؤمناً كان في مملكة جبار وكان مولعا به فهرب منه إلى دار
+> الشرك، ونزل برجل من أهل الشرك فألطفه وأرفقه وأضافه. فلما حضره الموت،
+> أوحى الله عزو جل إليه
+>  وعِزّتي وجلالي، لو كان في جنتي مسكَنٌ لمِشرِكٍ لأسكنتُكَ فيها،
+> ولكنّها مُحرَّمةٌ على مَن مات مشركاً، ولكن يا نارُ هارِبيه ولا
+> تُؤذيه.
+>  قال: ويؤتى برزقه طرفي النهار، قلت: من الجنة؟ قال: أو من حيث شاء الله
+> عز وجل.
 
 123. It has been reported that Abu Ja'far [a.s] said:  
  Allah confided to His servant Musa ibn 'Imran (Prophet Moses), 'For
@@ -363,13 +271,9 @@ day.'
 'Or from wherever Allah pleases,' the Imam replied.[^19]
 
 > 124 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن قضى لِمسلمٍ حاجةً كتب اللهُ له عشرَ حسناتٍ ومحى عنه عشرَ سيئاتٍ
-ورفع له عشر درجات وأظلّه الله (جلّ جلاله) في ظِلّه يوم لا ظلَّ إلاّ
-ظِلّه.
-  </p>
-</blockquote>
+>  مَن قضى لِمسلمٍ حاجةً كتب اللهُ له عشرَ حسناتٍ ومحى عنه عشرَ سيئاتٍ
+> ورفع له عشر درجات وأظلّه الله (جلّ جلاله) في ظِلّه يوم لا ظلَّ إلاّ
+> ظِلّه.
 
 124. It has been reported that Abu 'Abd Allah [a.s] said:  
  Whoever fulfils a Muslim's need, Allah shall write for him ten good
@@ -378,12 +282,8 @@ shall cover him under His shade on the Day when there is no shade except
 His.[^20]
 
 > 125 - أبوحمزة عن أحدهما (ع)  
-<blockquote dir="rtl">
-  <p>
- أيّما مسلمٍ أقالَ مسلماً نَدامةً في بيعٍ أقالَه اللهُ (جلّ جلاله)
-عذابَ يومِ القيامَة.
-  </p>
-</blockquote>
+>  أيّما مسلمٍ أقالَ مسلماً نَدامةً في بيعٍ أقالَه اللهُ (جلّ جلاله)
+> عذابَ يومِ القيامَة.
 
 125. Abu Hamzah reported that one of the two (al-Baqir or al-Sadiq)
 [a.s] said:  
@@ -392,16 +292,12 @@ grant him an exemption from the chastisement of the Day of
 Resurrection.[^21]
 
 > 126 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن أدخَل على مؤمن سُروراً خلقَ اللهُ (جلّ جلاله) من ذلك السّرور
-خلقاً فيلقاه عندَ مَوته فيقول له: أبشِر يا وَليّ الله بكَرامةٍ من الله
-ورضوانٍ منه، ثمّ لا يزالُ معهُ حتى يدخُلَ قبرَهُ فيقول له مثلَ ذلكَ،
-فإذا بُعثَ تلقّاه فيقولُ له مثلَ ذلك فلا يزالُ معَه في كلِّ هَولٍ
-يُبشّرُه ويقولُ له مثلَ ذلك، فيقولُ له: مَن أنت رحمَكَ اللهُ؟ فيقول:
-أنا السّرورُ الذي أدخَلتَ على فلان.
-  </p>
-</blockquote>
+>  مَن أدخَل على مؤمن سُروراً خلقَ اللهُ (جلّ جلاله) من ذلك السّرور
+> خلقاً فيلقاه عندَ مَوته فيقول له: أبشِر يا وَليّ الله بكَرامةٍ من الله
+> ورضوانٍ منه، ثمّ لا يزالُ معهُ حتى يدخُلَ قبرَهُ فيقول له مثلَ ذلكَ،
+> فإذا بُعثَ تلقّاه فيقولُ له مثلَ ذلك فلا يزالُ معَه في كلِّ هَولٍ
+> يُبشّرُه ويقولُ له مثلَ ذلك، فيقولُ له: مَن أنت رحمَكَ اللهُ؟ فيقول:
+> أنا السّرورُ الذي أدخَلتَ على فلان.
 
 126. It has been reported that Abu 'Abd Allah [a.s] said:  
  Whoever brings joy to a believer, Allah creates from that joy a
@@ -415,12 +311,8 @@ man will say to it, 'Who are you, may Allah have mercy on you?' 'I am
 the happiness that you brought to so-and-so,' it will reply.[^22]
 
 > 127 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مِن أحَبِّ الأعمالِ إلى الله (جلّ جلاله) إدخالُ السّرورِ على أخيه
-المؤمِن من إشباع جوعَته أو تنفيسِ كُربَته أو قَضاءِ دَينِه.
-  </p>
-</blockquote>
+>  مِن أحَبِّ الأعمالِ إلى الله (جلّ جلاله) إدخالُ السّرورِ على أخيه
+> المؤمِن من إشباع جوعَته أو تنفيسِ كُربَته أو قَضاءِ دَينِه.
 
 127. It has been reported that Abu 'Abd Allah [a.s] said:  
  Amongst the deeds most loved by Allah are (for a person) to bring joy
@@ -428,12 +320,8 @@ to his fellow believer by satiating his hunger, relieving his distress
 or paying off his debt.[^23]
 
 > 128 - وعن أبي جعفر (ع) قال: قال رسول الله (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن أكرمَ أخاه المسلمَ بمجلسٍ يكرِمُه أو بكلمةٍ يلطّفه بها أو حاجة
-يكفيه إياها لم يزلْ في ظلٍّ منَ الملائكةِ ما كان بتلكَ المَنـزلةِ.
-  </p>
-</blockquote>
+>  مَن أكرمَ أخاه المسلمَ بمجلسٍ يكرِمُه أو بكلمةٍ يلطّفه بها أو حاجة
+> يكفيه إياها لم يزلْ في ظلٍّ منَ الملائكةِ ما كان بتلكَ المَنـزلةِ.
 
 128. It has been reported that Abu Ja'far [a.s] said: The Messenger of
 Allah [a.s] said:  
@@ -442,14 +330,10 @@ benevolence to him or helps him in a need, he continues to remain under
 the shade of the angels as long as he is in that state.[^24]**147**
 
 > 129 - وعن أبي عبد الله (ع) قال: أوحى الله (جلّ جلاله) إلى موسى بن
-<blockquote dir="rtl">
-  <p>
-عمران  
- إنّ مِن عبادي مَن يتقرَّبُ إليَّ بالحسَنة فأحكمُه بالجنة.  
- قال: يا رب وما هذه الحسنة؟ قال  
- يُدخل على مؤمنٍ سُروراً.
-  </p>
-</blockquote>
+> عمران
+>  إنّ مِن عبادي مَن يتقرَّبُ إليَّ بالحسَنة فأحكمُه بالجنة.
+>  قال: يا رب وما هذه الحسنة؟ قال
+>  يُدخل على مؤمنٍ سُروراً.
 
 129. It has been reported that Abu 'Abd Allah [a.s] said: Allah revealed
 to Musa ibn 'Imran:  
@@ -459,12 +343,8 @@ a certain good deed.
  'This is bringing joy to a believer,' He replied.44
 
 > 130 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَشيُ المسلِم في حاجةِ المسلمِ خيرٌ مِن سبعين طَوافاً بالبيت
-الحَرامِ.
-  </p>
-</blockquote>
+>  مَشيُ المسلِم في حاجةِ المسلمِ خيرٌ مِن سبعين طَوافاً بالبيت
+> الحَرامِ.
 
 130. It has been reported that Abu 'Abd Allah [a.s] said:  
  The walking of a Muslim in fulfilling the need of a fellow Muslim is
@@ -472,30 +352,22 @@ better than seventy circumambulations of the Sacred House (i.e.
 Ka'bah).[^25]
 
 > 131 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- إنّ ممّا يُحبُّ اللهُ من الأعمالِ إدخالُ السّرورِ على المسلم.
-  </p>
-</blockquote>
+>  إنّ ممّا يُحبُّ اللهُ من الأعمالِ إدخالُ السّرورِ على المسلم.
 
 131. It has been reported that Abu 'Abd Allah [a.s] said:  
  Indeed, of the actions loved by Allah is bringing happiness to a
 Muslim.[^26]
 
 > 132 - عن صفوان قال: كنت عند أبي عبد الله (ع) يوم التروية فدخل عليه
-<blockquote dir="rtl">
-  <p>
-ميمون القداح، فشكى إليه عذر الكراء، فقال لي: قُم فأعِنْ أخاك، فخرجت
-معه فيسر الله له الكراء، فرجعت إلى مجلسي، فقال لي: ما صنعت في حاجة
-أخيك المسلم؟ قلت: قضاها الله تعالى، فقال  
- أما إنّك إنْ تُعِنْ أخاك أحبُّ إليَّ من طواف أسبوعٍ بالكعبة.  
- ثم قال: إن رجلا أتى الحسن بن علي (ع) فقال: بابي أنت وامي يا أبا محمد
-أعني على حاجتي؟ فانتعل وقام معه، فمر على الحسين بن علي (ع) وهو قائم
-يصلي، فقال له: أين كنت عن أبي عبد الله تستعينه على حاجتك؟ قال: قد فعلت
-فذُكرَ لي أنه معتكف، فقال  
- أما إنَّه لو أعانكَ على حاجتِك لكان خيراً له من اعتِكاف شهرٍ.
-  </p>
-</blockquote>
+> ميمون القداح، فشكى إليه عذر الكراء، فقال لي: قُم فأعِنْ أخاك، فخرجت
+> معه فيسر الله له الكراء، فرجعت إلى مجلسي، فقال لي: ما صنعت في حاجة
+> أخيك المسلم؟ قلت: قضاها الله تعالى، فقال
+>  أما إنّك إنْ تُعِنْ أخاك أحبُّ إليَّ من طواف أسبوعٍ بالكعبة.
+>  ثم قال: إن رجلا أتى الحسن بن علي (ع) فقال: بابي أنت وامي يا أبا محمد
+> أعني على حاجتي؟ فانتعل وقام معه، فمر على الحسين بن علي (ع) وهو قائم
+> يصلي، فقال له: أين كنت عن أبي عبد الله تستعينه على حاجتك؟ قال: قد فعلت
+> فذُكرَ لي أنه معتكف، فقال
+>  أما إنَّه لو أعانكَ على حاجتِك لكان خيراً له من اعتِكاف شهرٍ.
 
 132. Safwan reported: I was with Abu 'Abd Allah [a.s] on the Day of
 al-Tarwiyah when Maymun al-Qaddah visited him and complained to him
@@ -517,13 +389,9 @@ commented, 'it would have been better for him than a whole month's
 ***i'tikaf***.'[^27]
 
 > 133 - وعن أبي جعفر (ع) قال  
-<blockquote dir="rtl">
-  <p>
- ما مِن عَملٍ يعملُه المسلم أحبُّ إلى الله (جلّ جلاله) مِن إدخالِ
-السّرورِ على أخيه المسلم، وما مِن رجُلٍ يُدخِل على أخيه المسلم باباً
-من السّرور إلاّ أدخلَ اللهُ (جلّ جلاله) عليه باباً مِن السّرور.
-  </p>
-</blockquote>
+>  ما مِن عَملٍ يعملُه المسلم أحبُّ إلى الله (جلّ جلاله) مِن إدخالِ
+> السّرورِ على أخيه المسلم، وما مِن رجُلٍ يُدخِل على أخيه المسلم باباً
+> من السّرور إلاّ أدخلَ اللهُ (جلّ جلاله) عليه باباً مِن السّرور.
 
 133. It has been reported that Abu Ja'far [a.s] said:  
  No action of a Muslim is more loved by Allah than bringing joy to his
@@ -531,13 +399,9 @@ Muslim brother; and anyone who brings joy to his Muslim brother, Allah
 will bring an equal measure of joy to him.[^28]
 
 > 134 - وعن أبي الحسن (ع) قال  
-<blockquote dir="rtl">
-  <p>
- إنّ للهِ (جلّ جلاله) جنّةً إدَّخرَها لثلاثٍ: إمامٍ عادل ورجُلٍ يُحكم
-أخاه المسلمَ في ماله ورجُلٌ يمشي لأخيه المسلمِ في حاجة قُضِيتْ له أو
-لم تُقضَ.
-  </p>
-</blockquote>
+>  إنّ للهِ (جلّ جلاله) جنّةً إدَّخرَها لثلاثٍ: إمامٍ عادل ورجُلٍ يُحكم
+> أخاه المسلمَ في ماله ورجُلٌ يمشي لأخيه المسلمِ في حاجة قُضِيتْ له أو
+> لم تُقضَ.
 
 134. It has been reported that Abu al-Hasan [a.s] said:  
  Allah has a Paradise that He has stored away exclusively for three
@@ -546,13 +410,9 @@ to share in his wealth and a man who goes out to help his Muslim brother
 regardless of whether he succeeds in helping him or not.[^29]
 
 > 136 - عن محمد بن مروان عن أحدهما (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَشيُ الرجلِ في حاجة أخيه المسلم تُكتبُ له عشر حسنات وتُمحى عنه عشر
-سيئات ويُرفع له عشر درجات ويُعدل عشر رقاب وأفضلُ من اعتكاف شهرٍ في
-المسجد الحرام وصيامهِ.
-  </p>
-</blockquote>
+>  مَشيُ الرجلِ في حاجة أخيه المسلم تُكتبُ له عشر حسنات وتُمحى عنه عشر
+> سيئات ويُرفع له عشر درجات ويُعدل عشر رقاب وأفضلُ من اعتكاف شهرٍ في
+> المسجد الحرام وصيامهِ.
 
 135. It has been reported that Muhammad ibn Marwan said that one of the
 two (al-Baqir or al-Sadiq) [a.s] had said:  
@@ -563,12 +423,8 @@ addition, it is better than performing ***i'tikaf*** in the Sacred
 Mosque whilst fasting.[^30]
 
 > 137 - وعن أبي جعفر (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن مشى في حاجةٍ لأخيه المسلمِ حتى يُتمَّها أثبتَ اللهُ قدمَيه يوم
-تزِلُّ الأقدامُ.
-  </p>
-</blockquote>
+>  مَن مشى في حاجةٍ لأخيه المسلمِ حتى يُتمَّها أثبتَ اللهُ قدمَيه يوم
+> تزِلُّ الأقدامُ.
 
 136. It has been reported that Abu Ja'far [a.s] said:  
  One who goes a distance to help his Muslim brother until he completes
@@ -576,13 +432,9 @@ it, Allah will steady his feet on the Day when feet shall waver and
 slip.[^31]
 
 > 137 - وعن أبي عبد الله (ع) قال: قال النبي (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن أعانَ أخاه الّلهفانَ اللهبانَ مِن غمٍّ أو كُربةٍ كتبَ الله (جلّ
-جلاله) له إثنتَين وسبعين رحمةً عجَّلَ له منها واحدةً يُصلح بها أمرَ
-دنياه وإحدى وسبعين لأهوال الآخرةِ.
-  </p>
-</blockquote>
+>  مَن أعانَ أخاه الّلهفانَ اللهبانَ مِن غمٍّ أو كُربةٍ كتبَ الله (جلّ
+> جلاله) له إثنتَين وسبعين رحمةً عجَّلَ له منها واحدةً يُصلح بها أمرَ
+> دنياه وإحدى وسبعين لأهوال الآخرةِ.
 
 137. It has been reported that Abu 'Abd Allah [a.s] said: The Prophet
 [a.s] said:  
@@ -593,24 +445,16 @@ seventy-one (will be postponed) to alleviate the horrors of the
 hereafter.”[^32]
 
 > 138 - وعن أبي عبد الله (ع) قال: قال رسول الله (ص)  
-<blockquote dir="rtl">
-  <p>
- مَن أكرم مؤمناً فإنَّما يُكرمُ اللهَ (جلّ جلاله
-  </p>
-</blockquote>
+>  مَن أكرم مؤمناً فإنَّما يُكرمُ اللهَ (جلّ جلاله
 
 138. It has been reported that Abu 'Abd Allah [a.s] said: The Messenger
 of Allah [a.s] said:  
  One who honors a believer has in fact honored Allah [M.G].[^33]
 
 > 139 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- في حاجةِ الرّجُل لأخيه المسلمِ ثلاثٌ: تعجيلُها وتصغيرُها وسَترُها،
-فاذا عجّلْتَها هنّيتَها وإذا صغَّرتها فقد عظَّمتَها وإذا ستَرتَها فقد
-صُنتَها.
-  </p>
-</blockquote>
+>  في حاجةِ الرّجُل لأخيه المسلمِ ثلاثٌ: تعجيلُها وتصغيرُها وسَترُها،
+> فاذا عجّلْتَها هنّيتَها وإذا صغَّرتها فقد عظَّمتَها وإذا ستَرتَها فقد
+> صُنتَها.
 
 139. It has been reported that Abu 'Abd Allah [a.s] said:  
  An individual who intends to fulfill the need of his Muslim brother,
@@ -620,13 +464,9 @@ and when you make it look small, you in fact make it great; and when you
 conceal it, you have preserved it (i.e. its reward).
 
 > 140 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- أيّما مؤمنٍ يُقرض مؤمناً قرضاً يلتمِسُ وجهَ الله (جلّ جلاله)، كتبَ
-اللهُ له أجرَه بحساب الصّدقةِ، وما مِن مؤمنٍ يدعو لأخيهِ بظَهر الغَيبِ
-إلاَّ وكَّلَ اللهُ (جلّ جلاله) به مَلَكاً يقول: ولك مثلُه.
-  </p>
-</blockquote>
+>  أيّما مؤمنٍ يُقرض مؤمناً قرضاً يلتمِسُ وجهَ الله (جلّ جلاله)، كتبَ
+> اللهُ له أجرَه بحساب الصّدقةِ، وما مِن مؤمنٍ يدعو لأخيهِ بظَهر الغَيبِ
+> إلاَّ وكَّلَ اللهُ (جلّ جلاله) به مَلَكاً يقول: ولك مثلُه.
 
 140. It has been reported that Abu 'Abd Allah [a.s] said:  
  Any believer who gives another believer a loan, seeking the pleasure of
@@ -635,38 +475,30 @@ reward; and any believer who prays for his brother in his absence, Allah
 appoints for him an angel saying (to him), 'and for you is the same as
 for him.'[^34]
 
-<blockquote dir="rtl">
-  <p>
-وقال (ع): دُعاءُ المؤمنِ للمؤمنِ يدفعُ عنه البلاءَ ويدُرُّ عليه
-الرّزقَ.
-  </p>
-</blockquote>
+> وقال (ع): دُعاءُ المؤمنِ للمؤمنِ يدفعُ عنه البلاءَ ويدُرُّ عليه
+> الرّزقَ.
 
 Abu 'Abd Allah [a.s] also said:  
  The supplication of a believer for another believer repels afflictions
 from him and amplifies his livelihood.[^35]
 
 > 141 - عن إبراهيم التيمي قال: كنت في الطواف إذ أخذ أبو عبد الله (ع)
-<blockquote dir="rtl">
-  <p>
-بعضدي، فسلّم علي ثم قال:  
- ألا أخبرك بفضلِ الطواف حول هذا البيت؟  
- قلت: بلى، قال  
- أيّما مسلمٍ طاف حَول هذا البيتِ أسبوعا ثمّ أتى المقامَ فصلّى خلفه
-رَكعتين كتبَ اللهُ له ألفَ حسنة ومحى عنه ألفَ سيّئة ورفع له ألفَ درجة
-وأثبتَ له ألف شفاعة.  
- ثم قال: ألا أخبرك بأفضلَ من ذلك؟ قلت: بلى، قال:  
- قضاءُ حاجةِ امرئٍ أفضلُ من طواف أسبوع وأسبوع…  
- حتى بلغ عشرة.ثم قال  
- يا إبراهيمُ، ما أفادَ المؤمن من فائدة أضَرَّ عليه من مالٍ يفيده؛
-المالُ أضرُّ عَليه من ذئبَين ضاريَين في غَنمٍ قد هلكتْ رعاتُها، واحدٌ
-في أوّلها وآخَرُ في آخرِها.  
- ثم قال: فما ظنّك بهما؟  
- قلت: يفسدان، أصلحك الله، قال  
- صَدقتَ، إنّ أيسرَ ما يدخُل عليه أن يأتيَهُ أخوه المسلِم فيقول زوّجني،
-فيقول: لَيسَ لك مال.
-  </p>
-</blockquote>
+> بعضدي، فسلّم علي ثم قال:
+>  ألا أخبرك بفضلِ الطواف حول هذا البيت؟
+>  قلت: بلى، قال
+>  أيّما مسلمٍ طاف حَول هذا البيتِ أسبوعا ثمّ أتى المقامَ فصلّى خلفه
+> رَكعتين كتبَ اللهُ له ألفَ حسنة ومحى عنه ألفَ سيّئة ورفع له ألفَ درجة
+> وأثبتَ له ألف شفاعة.
+>  ثم قال: ألا أخبرك بأفضلَ من ذلك؟ قلت: بلى، قال:
+>  قضاءُ حاجةِ امرئٍ أفضلُ من طواف أسبوع وأسبوع…
+>  حتى بلغ عشرة.ثم قال
+>  يا إبراهيمُ، ما أفادَ المؤمن من فائدة أضَرَّ عليه من مالٍ يفيده؛
+> المالُ أضرُّ عَليه من ذئبَين ضاريَين في غَنمٍ قد هلكتْ رعاتُها، واحدٌ
+> في أوّلها وآخَرُ في آخرِها.
+>  ثم قال: فما ظنّك بهما؟
+>  قلت: يفسدان، أصلحك الله، قال
+>  صَدقتَ، إنّ أيسرَ ما يدخُل عليه أن يأتيَهُ أخوه المسلِم فيقول زوّجني،
+> فيقول: لَيسَ لك مال.
 
 141. It has been related that Ibrahim al-Taymi said: I was
 circumambulating (the Ka'bah) when Abu 'Abd Allah [a.s] took hold of my
@@ -696,22 +528,18 @@ his Muslim brother comes to him and says, 'Marry me (to your daughter),'
 but he replies, 'you have no wealth!'[^37]
 
 > 142 - عن أبان بن تغلب قال: سألت أبا عبد الله (ع) عن حق المؤمن على
-<blockquote dir="rtl">
-  <p>
-المؤمن، فقال  
- حقُّ المؤمن أعظمُ من ذلك، لو حدّثتُكم به لكفَرتُم، إنّ المؤمنَ إذا
-خرجَ من قبرِه خرج معه مِثالٌ من قبره فيقول له: أبشِر بالكَرامة من ربّك
-والسّرورِ، فيقول له: بشَّركَ الله بخَيرٍ. ثمَّ يمضي معه يُبشّره بمثل
-ذلك. ورواه عن غيره قال: فإذا مَرَّ بهَولٍ قال: لَيس هذا لك، وإذا مرَّ
-بخَير قال: هذا لكَ. فلا يزالُ معه يؤمِّنُه ممّا يخافُ ويُبشّره بما
-يحبُّ حتىّ يقفَ معهُ بين يدَي الله (جلّ جلاله)، فإذا أُمِر به إلى
-الجنّةِ قال له المثالُ: أبشِر بالجنّة فإنَّ الله (جلّ جلاله) قد أمَرَ
-بك إلى الجنّة، فيقول له: مَن أنتَ يرحمك الله؟ بشَّرتَني حين خرجتُ من
-قبري وآنستَني في طريقي وخبَّرتني عن ربي. فيقولُ: أنا السّرور الذي
-كُنتَ تُدخلُه على إخوانك في الدنيا؛ جُعلتُ منه لأنصُرَك وأونِسَ
-وَحشتَك.
-  </p>
-</blockquote>
+> المؤمن، فقال
+>  حقُّ المؤمن أعظمُ من ذلك، لو حدّثتُكم به لكفَرتُم، إنّ المؤمنَ إذا
+> خرجَ من قبرِه خرج معه مِثالٌ من قبره فيقول له: أبشِر بالكَرامة من ربّك
+> والسّرورِ، فيقول له: بشَّركَ الله بخَيرٍ. ثمَّ يمضي معه يُبشّره بمثل
+> ذلك. ورواه عن غيره قال: فإذا مَرَّ بهَولٍ قال: لَيس هذا لك، وإذا مرَّ
+> بخَير قال: هذا لكَ. فلا يزالُ معه يؤمِّنُه ممّا يخافُ ويُبشّره بما
+> يحبُّ حتىّ يقفَ معهُ بين يدَي الله (جلّ جلاله)، فإذا أُمِر به إلى
+> الجنّةِ قال له المثالُ: أبشِر بالجنّة فإنَّ الله (جلّ جلاله) قد أمَرَ
+> بك إلى الجنّة، فيقول له: مَن أنتَ يرحمك الله؟ بشَّرتَني حين خرجتُ من
+> قبري وآنستَني في طريقي وخبَّرتني عن ربي. فيقولُ: أنا السّرور الذي
+> كُنتَ تُدخلُه على إخوانك في الدنيا؛ جُعلتُ منه لأنصُرَك وأونِسَ
+> وَحشتَك.
 
 142. It has been related that Aban ibn Taghlib said: I asked Abu 'Abd
 Allah [a.s] concerning the right of a believer on a (fellow) believer.
@@ -740,14 +568,10 @@ that joy so that I may help you and offer you company in your
 loneliness.'[^38]
 
 > 143 - وعن أبي عبد الله (ع) قال: أوحى الله (جلّ جلاله) إلى داود (ع)  
-<blockquote dir="rtl">
-  <p>
- إنّ العبدَ من عبادي لَيأتيني بالحَسنة فأبيحُه جنّتي.  
- فقال داود، يا رب وما تلك الحسنة؟ قال  
- يُدخل على عبدي المؤمنِ سروراً ولو بتَمرة.  
- قال داود: يا ربُّ، حقَّ لمَن عرفك أن لا يقطَعَ رجاءَ‌ه منك.
-  </p>
-</blockquote>
+>  إنّ العبدَ من عبادي لَيأتيني بالحَسنة فأبيحُه جنّتي.
+>  فقال داود، يا رب وما تلك الحسنة؟ قال
+>  يُدخل على عبدي المؤمنِ سروراً ولو بتَمرة.
+>  قال داود: يا ربُّ، حقَّ لمَن عرفك أن لا يقطَعَ رجاءَ‌ه منك.
 
 143. It has been reported that Abu 'Abd Allah [a.s] said:  
  Allah [M.G] revealed to Dawud (Prophet David [a.s] saying: 'Sometimes,
@@ -760,26 +584,18 @@ it be with a single piece of date.'
 You.'[^39]
 
 > 144 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- إنّ المسلمَ إذا جاء‌ه أخوه المسلمُ فقام معه في حاجتِه كان كالمجاهدِ
-في سبيلِ الله.
-  </p>
-</blockquote>
+>  إنّ المسلمَ إذا جاء‌ه أخوه المسلمُ فقام معه في حاجتِه كان كالمجاهدِ
+> في سبيلِ الله.
 
 144. It has been reported that Abu 'Abd Allah [a.s] said:  
  A believer who rises to assist another believer when he comes to him
 for help is like one who strives in the way of Allah.[^40]
 
 > 145 - وعن أبي عبد الله (ع) قال  
-<blockquote dir="rtl">
-  <p>
- مَن أعان أخاه المؤمنَ اللهبانَ اللهفانَ عند جهدِه فنَفَّسَ كربه
-وأعانه على نجاح حاجتِه كانت له بذلك إثنتانِ وسبعون رحمةً من الله (جلّ
-جلاله) يُعجّل له منها واحدةً يُصلح بها أمرَ معيشتِه ويدّخِر له إحدى
-وسبعين رحمة لحَوائِج القيامة وأهوالِها.
-  </p>
-</blockquote>
+>  مَن أعان أخاه المؤمنَ اللهبانَ اللهفانَ عند جهدِه فنَفَّسَ كربه
+> وأعانه على نجاح حاجتِه كانت له بذلك إثنتانِ وسبعون رحمةً من الله (جلّ
+> جلاله) يُعجّل له منها واحدةً يُصلح بها أمرَ معيشتِه ويدّخِر له إحدى
+> وسبعين رحمة لحَوائِج القيامة وأهوالِها.
 
 145. It has been reported that Abu 'Abd Allah [a.s] said:  
  One who helps his grieving and distressed fellow believer in his
@@ -965,5 +781,4 @@ recorded in al-Majlisi: Bihar al-Anwar 7/299 h.49, 75/22 h.25 [as quoted
 from Shaykh al-Saduq: Thawab al-A\`mal 220] and al-Hurr al-\`Amili:
 Wasa\`il al-Shi\`ah 11/586 h.1 [as quoted from al-Kulayni: al-Kafi and
 Shaykh al-Saduq: Thawab al-A\`mal].
-
 

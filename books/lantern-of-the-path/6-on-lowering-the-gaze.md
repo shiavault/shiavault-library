@@ -16,14 +16,9 @@ The Holy Prophet said, 'Lower your eyes and you will see wonders.'
 
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-يَصْنَعُونَ
-  </p>
-</blockquote>
+> قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> يَصْنَعُونَ
 
 ***Say to the believing men that they cast down their looks and guard
 their private parts***. (24:30)
@@ -48,6 +43,4 @@ will take him to the Fire.
 
 As for the one who repents of it with grief and regret, his abode is
 the Garden and his destiny is Allah's favour.
-
-
 

@@ -850,4 +850,3 @@ squandering.
 
 [^54]: Usul al-Kafi-2, p. 363
 
-

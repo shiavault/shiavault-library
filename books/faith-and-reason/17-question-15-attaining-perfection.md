@@ -282,4 +282,3 @@ much so that it has been considered equal to that of the Kaaba.
 [^3]: These traits can be found in the Noble Qur\`an: Surat al-Tawbah
 (9), verse 112 and Surat al-Fath (49), veresse 29 are two examples.
 
-

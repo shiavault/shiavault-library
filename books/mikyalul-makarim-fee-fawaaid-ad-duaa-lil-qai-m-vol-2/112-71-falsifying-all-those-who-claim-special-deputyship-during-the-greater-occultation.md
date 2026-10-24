@@ -136,12 +136,8 @@ it denotes special meat of sheep and not absolute meat. In the same way
 the context mentioned in the present matter is as the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ عَلَيْنَا وَمَا أُنْزِلَ عَلَىٰ
-إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ
-  </p>
-</blockquote>
+> قُلْ آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ عَلَيْنَا وَمَا أُنْزِلَ عَلَىٰ
+> إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ
 
 ***Say: We believe in Allah and what has been revealed to us, and what
 was revealed to Ibrahim and Ismail and Ishaq and Yaqoob and the tribes.
@@ -488,5 +484,4 @@ proper place. Allah knows best.
 [^20]: Al-Ghaibah, Shaykh Tusi, Pg. 242
 
 [^21]: Kamaluddin, Vol. 2, Pg. 484
-
 

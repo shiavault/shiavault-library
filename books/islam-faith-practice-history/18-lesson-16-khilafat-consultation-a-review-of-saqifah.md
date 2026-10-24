@@ -241,4 +241,3 @@ Prophet's corpse to attend Saqifah's meeting.
 
 [^2]: Tabari, Ta'rikh, vol. 3, p. 1546.
 
-

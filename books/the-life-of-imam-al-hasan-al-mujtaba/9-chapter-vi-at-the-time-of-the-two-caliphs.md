@@ -519,4 +519,3 @@ people because they plundered his inheritance, and denied his authority
 and his rights.
 [^1] Ali wa Banuh, p. 19.
 
-

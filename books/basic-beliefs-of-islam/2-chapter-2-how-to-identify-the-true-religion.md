@@ -330,4 +330,3 @@ fulfillment of this basic condition demands sincere efforts to acquire
 useful knowledge and to do some research. This is why, acquisition of
 knowledge is compulsory for every male and female Muslim.
 
-

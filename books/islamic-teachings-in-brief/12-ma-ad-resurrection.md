@@ -173,14 +173,12 @@ punished if he is a malefactor. He will present himself for public
 reckoning on the Day of Judgement. The interval between the death of a
 man and the Ma'ad is called "Barzakh".
 
-
 The Almighty Allah states:
 
 "...And before them is Barzakh until the day they are raised (23:100)."
 The Almighty Allah also states: "And reckon not those who are killed in
 Allah's way as dead: nay, they are alive (and) are provided sustenance
 from their Lord (3:169)."
-
 
 **ETHIC**
 
@@ -402,5 +400,4 @@ leaders of religion. We must endeavour for the honour of the Divine Book
 holy shrines of the leaders of religion, as the Almighty Allah states:
 "...and whoever respects the signs of Allah, this surely is (the
 outcome) of the piety of hearts (22:32)."
-
 

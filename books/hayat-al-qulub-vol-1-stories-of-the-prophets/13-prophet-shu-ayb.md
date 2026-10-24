@@ -147,4 +147,3 @@ closed it. Sahl bin Sa’id wrote about this matter to Husham bin Abdul
 Malik and he ordered the well to be closed as before and dig at another
 place.
 
-

@@ -4,13 +4,9 @@ Section 5: Moses’ Mission Referred to
 Surah Al-Qasas - Verse 43
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ مِن بَعْدِ مَآ أَهْلَكْنَا
-الْقُرُونَ الأُولَي بَصَآئِرَ لِلنَّاسِ وَهُدًي وَرَحْمَةً لَعَلَّهُمْ
-يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ مِن بَعْدِ مَآ أَهْلَكْنَا
+> الْقُرُونَ الأُولَي بَصَآئِرَ لِلنَّاسِ وَهُدًي وَرَحْمَةً لَعَلَّهُمْ
+> يَتَذَكَّرُونَ
 
 ***43. “And indeed We gave Moses the Book (Torah) after We had destroyed
 the earlier generations (as a means) of insight for mankind and a
@@ -63,12 +59,8 @@ there follows it admonition and vigilance of the receptive hearts.
 Surah Al-Qasas - Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنتَ بِجَانِبِ الْغَرْبِيّ‌ِ إِذْ قَضَيْنَآ إِلَي مُوسَي
-الأَمْرَ وَمَا كُنتَ مِنَ الشَّاهِدِينَ
-  </p>
-</blockquote>
+> وَمَا كُنتَ بِجَانِبِ الْغَرْبِيّ‌ِ إِذْ قَضَيْنَآ إِلَي مُوسَي
+> الأَمْرَ وَمَا كُنتَ مِنَ الشَّاهِدِينَ
 
 ***44. “And you were not on the western side of (Mount Tur) when We
 passed to Moses the commandment, and you were not one of the
@@ -129,13 +121,9 @@ Hereafter; and this itself is a great miracle.*[^2]
 Surah Al-Qasas - Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَكِنَّآ أَنشَأْنَا قُرُوناً فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ وَمَا
-كُنتَ ثَاوِياً فِي أَهْلِ مَدْيَنَ تَتْلُواْ عَلَيْهِمْ ءَايَاتِنَا
-وَلَكِنَّا كُنَّا مُرْسِلِينَ
-  </p>
-</blockquote>
+> وَلَكِنَّآ أَنشَأْنَا قُرُوناً فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ وَمَا
+> كُنتَ ثَاوِياً فِي أَهْلِ مَدْيَنَ تَتْلُواْ عَلَيْهِمْ ءَايَاتِنَا
+> وَلَكِنَّا كُنَّا مُرْسِلِينَ
 
 ***45. “But We raised up generations and a long time passed upon them,
 and you were not dwelling among the people of Madyan, reciting unto them
@@ -173,13 +161,9 @@ the Prophet of Islam (S) lasted about two thousand years.
 Surah Al-Qasas - Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا وَلَكِن رَّحْمَةً مِن
-رَّبّـِكَ لِتُنذِرَ قَوْماً مَّآ أَتَاهُم مِن نَّذِيرٍ مِن قَبْلِكَ
-لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَمَا كُنتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا وَلَكِن رَّحْمَةً مِن
+> رَّبّـِكَ لِتُنذِرَ قَوْماً مَّآ أَتَاهُم مِن نَّذِيرٍ مِن قَبْلِكَ
+> لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 ***46. “And you were not on the side of the Mount Tur when We called
 (unto Moses), but (this revelation is) a mercy from your Lord that you
@@ -233,13 +217,9 @@ salvation.”*[^3]
 Surah Al-Qasas - Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلآ أَن تُصِيبَهُم مُّصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ
-فَيَقُولُوا رَبَّنَا لَوْلآ أَرْسَلْتَ إِلَيْنَا رَسُولاً فَنَتَّبِعَ
-ءَايَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَوْلآ أَن تُصِيبَهُم مُّصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ
+> فَيَقُولُوا رَبَّنَا لَوْلآ أَرْسَلْتَ إِلَيْنَا رَسُولاً فَنَتَّبِعَ
+> ءَايَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ
 
 ***47. “And were it not that there should befall them a calamity for
 what their hands have sent before, they would say: ‘Our Lord! Why did
@@ -285,14 +265,10 @@ of) the messengers, and Allah is the Mighty, the Wise.”***
 Surah Al-Qasas - Verse 48
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوا لَوْلآ اُوتِيَ
-مِثْلَ مَا اُوتِيَ مُوسَي أَوَلَمْ يَكْفُرُوا بِمَآ اُوتِيَ مُوسَي مِن
-قَبْلُ قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ
-كَافِرُونَ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوا لَوْلآ اُوتِيَ
+> مِثْلَ مَا اُوتِيَ مُوسَي أَوَلَمْ يَكْفُرُوا بِمَآ اُوتِيَ مُوسَي مِن
+> قَبْلُ قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ
+> كَافِرُونَ
 
 ***48. “But when the truth came to them from Us they said: ‘Why has he
 not been given the like of what was given Moses?’ (But) did they not
@@ -346,12 +322,8 @@ same.
 Surah Al-Qasas - Verse 49
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِندِ اللَّهِ هُوَ أَهْدَي مِنْهُمَآ
-أَتَّبِعْهُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِندِ اللَّهِ هُوَ أَهْدَي مِنْهُمَآ
+> أَتَّبِعْهُ إِن كُنتُمْ صَادِقِينَ
 
 ***49. “Say (O’ Apostle Muhammad): ‘Bring you then a Book from Allah
 that gives better guidance than both of them (i.e., Torah and Qur’an),
@@ -378,13 +350,9 @@ seekers.
 Surah Al-Qasas - Verse 50
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن لَّمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
-أَهْوَآءَهُمْ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًي
-مِنَ اللَّهِ إِنَّ اللَّهَ لاَ يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فإِن لَّمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
+> أَهْوَآءَهُمْ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًي
+> مِنَ اللَّهِ إِنَّ اللَّهَ لاَ يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 ***50. “But if they do not answer you, then know that they only follow
 their own low desires, and who is more astray than he who follows his
@@ -436,5 +404,4 @@ enjoy the rays of this guidance.
 
 [^4]: ’Usul-i-Kafi, Basa’ir-ud-Darajat, according to Nur-uth-Thaqalayn,
 Vol. 4, P. 136
-
 

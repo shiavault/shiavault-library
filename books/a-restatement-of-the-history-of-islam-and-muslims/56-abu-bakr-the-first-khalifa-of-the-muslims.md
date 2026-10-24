@@ -121,4 +121,3 @@ non-official mourning over his demise. It appeared as if his death and
 his burial were matters of least importance in the psyche of his own
 companions.
 
-

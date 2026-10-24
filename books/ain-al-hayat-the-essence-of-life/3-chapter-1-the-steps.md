@@ -1,9 +1,8 @@
 Chapter 1: The Steps
 ====================
 
-\<h2\>\<a name="step-1-meaning-sighting-exalted-creator"
-href="\#step-1-meaning-sighting-exalted-creator"\>Step 1: The Meaning Of
-The Sighting Of The Exalted Creator\</a\>\</h2\>  
+## Step 1: The Meaning Of The Sighting Of The Exalted Creator
+
  In the tradition sighted at the end of the previous chapter there has
 been stress on the sighting of the Exalted Creator. We must know that
 the sighting is of two types, namely, 1) sighting with the eyes and 2)
@@ -22,7 +21,7 @@ have no such faculty. I have witnessed Allah with the eyes of my heart
 and the firmness of my Faith in Him.”
 
 Imam Ja’far As-Sadiq (as) was asked by someone, “O son of the Prophet!
-How to create \<em\>khudu wa khushu \</em\>(humility and fear of Allah)
+How to create *khudu wa khushu* (humility and fear of Allah)
 in prayer?”
 
 The Imam (as) replied, “During prayer keep your eyes focused on the
@@ -47,9 +46,8 @@ knowledgeable, and the most knowledgeable are the Infallible members of
 the Prophet’s progeny. They are on record praying to Allah thus, “We
 have not been able to justify Your Mystic knowledge.
 
-\<h2\>\<a name="step-2-reason-creation-universe"
-href="\#step-2-reason-creation-universe"\>Step 2: The Reason For
-Creation Of The Universe\</a\>\</h2\>  
+## Step 2: The Reason For Creation Of The Universe
+
  There are numerous verses of the Holy Qur’an and several traditions of
 the Prophet (S) and the Imams that illustrate that the purpose of the
 creation of the universe, and all the creatures living in it, is for the
@@ -72,16 +70,17 @@ prescribing prayer for the human kind. The prayer of such persons will
 be hypocritical, tantamount to going through the ritual for making a
 show in the social environment.
 
-\<h2\>\<a name="step-3-conditions-prayer"
-href="\#step-3-conditions-prayer"\>Step 3: The Conditions For
-Prayer\</a\>\</h2\>  
+## Step 3: The Conditions For Prayer
+
  Going into the details of the steps of prayer is not in the purpose of
 this book. But briefly, the most important aspect of prayer is the
 intent of the worshipper who offers prayer. The Prophet (S) has said,
 
-\<blockquote class="rtl"\>إنَّمَا الأَعْمَالُ
-بِالنِّيَّاتِ.\</blockquote\>\<em\>“The actions of a person depend on
-his intentions.”\</em\>
+> إنَّمَا الأَعْمَالُ
+> بِالنِّيَّاتِ.
+
+*“The actions of a person depend on
+his intentions.”*
 
 Imam Ja’far As-Sadiq (as) has said, “the intent of a pious person is
 better than his actions.” The intent in which there is no desire for
@@ -148,9 +147,9 @@ They will automatically develop love for Me!”
 
 The Holy Prophet (S) said, “O people! Love Allah for His countless
 bounties, Love me because of Allah and because of me, love my
-\<em\>Ahl-ul-Bayt\</em\>!”
+*Ahl-ul-Bayt*!”
 
-The purpose of \<em\>Innamal aamaal bil niyaat \</em\>(Actions are in
+The purpose of *Innamal aamaal bil niyaat* (Actions are in
 accordance to the intents) is that the actions should purely be for the
 sake of Allah. The ‘intent’ which is from the depth of the heart is
 better than the action. Some people wrongly assume that when they utter
@@ -202,12 +201,12 @@ were few and far between.
 
 Imam Ja’far As-Sadiq (as) narrates that the Prophet (S) said, “abstain
 from hypocrisy, because hypocrisy is like polytheism
-(\<em\>Shirk)\</em\>.The hypocrite will be addressed with four names on
+(*Shirk)*.The hypocrite will be addressed with four names on
 the Day of Reckoning: unbeliever, characterless, deceit, adulterer. He
 will be told that his actions will earn him retribution and all his
 prayers would have gone in vain. He will be asked to seek the wages and
-return for his efforts from the one he was working for (\<em\>the
-Satan)\</em\>”
+return for his efforts from the one he was working for (*the
+Satan)*”
 
 Imam Musa al-Kadhim (as) narrates that the Prophet of Islam (S) said
 that on the Day of Reckoning Allah would order consigning of one group
@@ -234,11 +233,11 @@ every activity they seek more and more approbation from others.
 
 Imam Muhammad Al-Baqir (as) narrates from the Prophet (S) He said, “The
 person who offers prayers to show-off to others is a polytheist
-(\<em\>mushrik)\</em\>. The person who performs Hajj to impress others
-is a \<em\>mushrik \</em\>and one who fasts to attract others’ attention
-too is a\<em\> mushrik. One who pays the tithe (\</em\>the Zakat) to
+(*mushrik)*. The person who performs Hajj to impress others
+is a *mushrik* and one who fasts to attract others’ attention
+too is a *mushrik. One who pays the tithe (*the Zakat) to
 impress others and pretends to follow all the Commandments of Allah
-hypocritically too is a \<em\>mushrik. \</em\>Allah doesn’t accept any
+hypocritically too is a *mushrik.* Allah doesn’t accept any
 acts of the hypocrites.”
 
 Imam Ja’far As-Sadiq (as) said, “Every hypocrisy is polytheism. Whatever
@@ -308,7 +307,7 @@ Some of the companions asked, “How could we have the fear of Allah?”
 
 The Prophet (S) replied, “If you wish to have fear of Allah, always keep
 your death in mind and keep all your senses free of sins against Allah.
-Take care to eat legitimate (\<em\>Halal)\</em\> food and tell the
+Take care to eat legitimate (*Halal)* food and tell the
 truth. Also you must remember that your destiny is to go to the grave
 and the dust.”
 
@@ -353,7 +352,7 @@ indulging in sinful acts. In his eyes, now, the evil appear good and the
 good appear evil.”
 
 Allah observes about the Infallible of the Family of the Prophet
-(\<em\>the Ahl-ul-Bayt)\</em\> thus, “Allah is friendly towards them,
+(*the Ahl-ul-Bayt)* thus, “Allah is friendly towards them,
 and they are friendly towards Allah.” They are such worshippers of Allah
 that even if they are in the Heaven and they don’t have the Pleasure of
 Allah, then the Heaven would be worse than the Hell for them. And if
@@ -393,7 +392,7 @@ Liar is a person who claims that he is friendly with Allah but sleeps
 away when the night comes. A friend seeks to converse with his beloved
 in loneliness! In the loneliness of nights Our friends converse with Us
 in a manner, as if, they are in Our presence! This status is achieved by
-a \<em\>mu’min (\</em\>pious person) when he thinks of Our countless
+a *mu’min (*pious person) when he thinks of Our countless
 Blessings and accepts their greatness.”
 
 The Prophet of Allah (S) said to his companions, “Tell me which of
@@ -462,11 +461,13 @@ said, “the way to achieve nearness of the Creator is to talk more of
 Him. The best prayer is the supplication of the pious person!”
 Amir’ul-Mu’mineen ‘Ali (as) said,
 
-\<blockquote class="rtl"\>مَا عَبَدْتُكَ خَوْفاً مِنْ نَارِكَ وَلا
-طَمَعاً فِي جَنَّتِكَ، وَلَكِنْ وَجَدْتُكَ أهْلاً لِلْعِبادَةِ
-فَعَبَدْتُكَ.\</blockquote\>“\<em\>I don’t worship Allah with the desire
+> مَا عَبَدْتُكَ خَوْفاً مِنْ نَارِكَ وَلا
+> طَمَعاً فِي جَنَّتِكَ، وَلَكِنْ وَجَدْتُكَ أهْلاً لِلْعِبادَةِ
+> فَعَبَدْتُكَ.
+
+“*I don’t worship Allah with the desire
 for the Heaven nor for the fear of the Hell! I Worship Him because I
-found Him deserving of Worship!”\</em\>
+found Him deserving of Worship!”*
 
 This is the stage of Divine Understanding when even if the supplicant is
 sent to the Hell, he will continue with his supplication unmindful of
@@ -500,12 +501,11 @@ forbearance when You punish me but how could I bear separation from You.
 The heat of the Fire of the Hell can be bearable for me but how could I
 bear the heat of the fire of separation from you!
 
-\<h2\>\<a name="step-4-total-devotion-mind-and-heart"
-href="\#step-4-total-devotion-mind-and-heart"\>Step 4: Total Devotion Of
-Mind And Heart\</a\>\</h2\>  
+## Step 4: Total Devotion Of Mind And Heart
+
  Among the conditions for prayer, one most important condition is the
 total dedication and devotion of the heart. If there is no humility and
-fear of Allah (\<em\>Khudu wa Khushu)\</em\> in prayer, then it remains
+fear of Allah (*Khudu wa Khushu)* in prayer, then it remains
 ineffective. Even, such prayer might bring the person punishment. If a
 person is conversing with the king and his mind is elsewhere and the
 king notices that his subject is not giving his full attention, he might
@@ -514,15 +514,15 @@ punish the person for his lack of attention.
 Humility of heart means that the heart is in full attention towards his
 Creator while in prayer. The person makes his body and mind totally
 submissive to the heart. If this state is achieved in prayer, then even
-the lonely (\<em\>furada) \</em\>prayer offered by a person will be
+the lonely (*furada)* prayer offered by a person will be
 highly rated. It would be quite possible that he might get the reward of
 congregational prayer because the heart in this case functions as the
-leader (\<em\>Imam) \</em\>of the congregation and the different parts
+leader (*Imam)* of the congregation and the different parts
 of the body of the devotee as the followers.
 
 As the faith increases, the humility of heart too increases in the same
 proportion. Therefore the humility of the hearts of the Infallible
-persons of the prophet’s Family (\<em\>the Masoomeen)\</em\> is of the
+persons of the prophet’s Family (*the Masoomeen)* is of the
 highest order. The limbs and body of Amir’ul-Mu’mineen ‘Ali (as) used to
 shiver when going for the prayer. Somebody asked him, “O ‘Ali! Is it not
 the same body that captured the fort of Khaibar and single handedly rent
@@ -611,8 +611,7 @@ of the Creator, and also Allah has forgiven all possible acts of
 omission and commission of his past and present, kept himself so much
 busy in prayer that his feet used to develop inflammation. The
 companions used to tell the Prophet (S) that Allah has been so kind to
-him that He promised to forgive his mistakes.(\<em\>tark al-aula)
-\</em\>Then they wondered why the Prophet (S) was inflicting so much
+him that He promised to forgive his mistakes.(*tark al-aula)* Then they wondered why the Prophet (S) was inflicting so much
 hardship on himself.
 
 The Prophet (S) used to say, “O my companions! When God is showering so
@@ -643,7 +642,7 @@ to stand up with the intention of the prayer, his face used to turn
 yellow and while in prostration, his eyes used to get wet.
 
 Imam Muhammad Al-Baqir (as) says that Imam Zain-ul-’Abidin (as) used to
-offer one thousand \<em\>rakaat of prayer \</em\>in a period of one day
+offer one thousand *rakaat of prayer* in a period of one day
 and night. When he used to stand up for the prayer, the color of his
 face used to change and it used to appear as if he was standing like a
 hapless person in the presence of a great king. His entire body used to
@@ -677,8 +676,8 @@ slumber of negligence and reminds them of the Hereafter. Islam has set
 clearly defined schedules for the prayers and it keeps the believers
 reminded to come for the congregations. The first call comes in the
 early morning to raise the people from their slumber. This call, which
-is termed the \<em\>adhaan, \</em\>is made in loud tones in which the
-name of the Great Allah (\<em\>Allah ho Akbar)\</em\> is repeated four
+is termed the *adhaan,* is made in loud tones in which the
+name of the Great Allah (*Allah ho Akbar)* is repeated four
 times to break the slumber of the proud and the negligent. Then follows
 the witness there is no god but Allah.
 
@@ -713,10 +712,10 @@ Judgment, the pious would carry their record of actions in the right
 hands and the sinners would carry their records in the left hands.
 
 Therefore he must pray that his record of actions is held in the right
-hand on the Day of Judgment. While anointing (\<em\>masah)\</em\> his
+hand on the Day of Judgment. While anointing (*masah)* his
 forehead, he should pray, “O Allah! Please be kind on me.” While
 anointing the feet, he should pray that the feet do not falter on the
-Bridge of \<em\>Sirat\</em\> on the Day of Judgment.
+Bridge of *Sirat* on the Day of Judgment.
 
 It has been mentioned in the traditions that a house which has dogs,
 where intoxicants are stored, where pictures and paintings are kept, the
@@ -725,34 +724,35 @@ the living quarters and even the thoughts of these forbidden things
 should be banished from the minds of the believers. At the threshold of
 the mosque, he should say, “O Allah! You have opened this door to me,
 please open the doors to Your nearness too for me!” While standing at
-the place of prayer, he should say \<em\>iqamah \</em\>and in his mind
-recall the words of the \<em\>adhaan\</em\> and their meanings because
+the place of prayer, he should say *iqamah* and in his mind
+recall the words of the *adhaan* and their meanings because
 prayer is the height of piety and the Prophet (S), while he was in
-\<em\>Me’raj\</em\>, reiterated the words \<em\>Allah O Akbar\</em\>
+*Me’raj*, reiterated the words *Allah O Akbar*
 while entering every stage. Therefore before every prayer the words
-\<em\>Allah O Akbar\</em\> are repeated seven times.
+*Allah O Akbar* are repeated seven times.
 
 Now the person is ready for the conversation, that is, for offering his
 prayer to Allah. At this stage, he should say
 
-\<blockquote class="rtl"\>أعُوذُ بِاللهِ السَّمِيعِ العَلِيمِ مِنَ
-الشَّيْطانِ الرَّجِيمِ.\</blockquote\>  
- \<em\>“I seek refuge in Allah the all-hearing all-knowing from the
-cursed devil?” \</em\>to ward off the Satan. Now that the time to go to
+> أعُوذُ بِاللهِ السَّمِيعِ العَلِيمِ مِنَ
+> الشَّيْطانِ الرَّجِيمِ.
+
+ *“I seek refuge in Allah the all-hearing all-knowing from the
+cursed devil?”* to ward off the Satan. Now that the time to go to
 the presence of the Almighty Allah has come, the worshipper should say
-\<em\>Bismillahir Rahmanir Raheem.\</em\>
+*Bismillahir Rahmanir Raheem.*
 
 These words are reiterated before any work is commenced and particularly
 so when one starts to offer his prayer. Even in our mundane lives we
 have to praise the important persons when we approach them. When we
 stand in the Presence of Allah, the Beneficent and Merciful, it is
 natural that we must praise Him and acknowledge that He is the Lord of
-The Day of Judgment (\<em\>Youm iddeen)\</em\>. Then the worshipper
-says, “\<em\>Iyyaka nabudo \</em\>(We worship only You)”
+The Day of Judgment (*Youm iddeen)*. Then the worshipper
+says, “*Iyyaka nabudo* (We worship only You)”
 
 Therefore, the Prophet of Allah (S) has said, “Whilst praying think that
-you are seeing Him (\<em\>Allah\</em\>) and in humility submit,
-\<em\>waiiaka nastaeen\</em\> (O Sustainer! We ask for your succor for
+you are seeing Him (*Allah*) and in humility submit,
+*waiiaka nastaeen* (O Sustainer! We ask for your succor for
 our failings and shortcomings!). Thereafter a request is made to Allah
 to include the prayers of the supplicant with the prayers of the persons
 on whom Allah has showered his Blessings and Bounties and not of those
@@ -760,17 +760,18 @@ on whom Allah’s wrath has fallen!”
 
 Now we quote Amir’ul-Mu’mineen ‘Ali’s (as) eloquent saying,
 
-\<blockquote class="rtl"\>واعْلَمْ أَنَّ أَوَّلَ عِبادَةِ اللهِ
-المَعْرِفَةُ بِهِ، أنَّهُ الأَوَّلُ قَبْلَ كُلِّ شَيْءٍ، فَلا شَيْءَ
-قَبْلَهُ، وَالفَرْدُ فَلاَ ثَانِيَ لَهُ، وَالبَاقِي لاَ إلَى غَايَةٍ،
-فَاطِرُ السَّمَاوَاتِ وَالأَرْضِ وَمَا فِيهِمَا وَمَا بَيْنَهُمَا مِنْ
-شَيْءٍ، وَهُوَ اللَّطِيفُ الخَبِيرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ.\</blockquote\>\<em\>“The best prayer is Knowledge of Allah
-(\</em\>Ma’rifa) \<em\>and Identification that He is ahead of everything
+> واعْلَمْ أَنَّ أَوَّلَ عِبادَةِ اللهِ
+> المَعْرِفَةُ بِهِ، أنَّهُ الأَوَّلُ قَبْلَ كُلِّ شَيْءٍ، فَلا شَيْءَ
+> قَبْلَهُ، وَالفَرْدُ فَلاَ ثَانِيَ لَهُ، وَالبَاقِي لاَ إلَى غَايَةٍ،
+> فَاطِرُ السَّمَاوَاتِ وَالأَرْضِ وَمَا فِيهِمَا وَمَا بَيْنَهُمَا مِنْ
+> شَيْءٍ، وَهُوَ اللَّطِيفُ الخَبِيرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ.
+
+*“The best prayer is Knowledge of Allah
+(*Ma’rifa) *and Identification that He is ahead of everything
 and nothing was there before Him. He is the only One and has none like
 Him. He is Immortal and has no end. He is the Creator of the Universe
 and everything that is found on the earth and in the sky. He is
-Omniscient (\</em\>Khabeer\<em\>) and Gentle (\</em\>Lateef)\<em\> and
-he is \</em\>Omnipotent; that He has control over all things!”
-
+Omniscient (*Khabeer*) and Gentle (*Lateef) *and
+he is* Omnipotent; that He has control over all things!”
 

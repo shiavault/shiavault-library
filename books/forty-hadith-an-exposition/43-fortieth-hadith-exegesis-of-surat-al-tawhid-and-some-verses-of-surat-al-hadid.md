@@ -1,20 +1,16 @@
 Fortieth Hadith: Exegesis of Surat Al-Tawhid and Some Verses of Surat Al-Hadid
 ==============================================================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى الشَّيْخِ الأَقْدَمِ وَالرُّكْنِ
-الأَعْظَمِ مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِي رَضِيَ اللهُ عَنْهُ
-عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ
-الحُسَيْنِ بْنِ سَعِيدٍ عَنِ النَّضْرِ بْنِ سُوَيْدٍ عَنْ عَاصِمِ بْنِ
-حَمِيدٍ قَالَ: سُئِلَ عَلِيُّ بْنُ الحُسَيْنِ عَلَيْهِ السَّلامُ عَنِ
-التَّوْحِيدِ فَقَالَ: إنَّ اللهَ عَزَّ وَجَلَّ عَلِمَ أَنَّهُ يَكُونُ
-فِي آخِرِ الزَّمَانِ أَقْوَامٌ مُتَعَمِّقُونُ، فَأَنْزَلَ اللهُ
-تَعَالَى: ﴿قُلْ هُوَ اللهُ أَحَدٌ.﴾ وَالآيَاتِ مِنْ سُورَةِ الحَدِيدِ
-إلَى قَوْلِهِ: ﴿وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ.﴾ فَمَنْ رَامَ
-وَرَاءَ ذَلِكَ فَقَدْ هَلَكَ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى الشَّيْخِ الأَقْدَمِ وَالرُّكْنِ
+> الأَعْظَمِ مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِي رَضِيَ اللهُ عَنْهُ
+> عَنْ مُحَمَّدِ بْنِ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ
+> الحُسَيْنِ بْنِ سَعِيدٍ عَنِ النَّضْرِ بْنِ سُوَيْدٍ عَنْ عَاصِمِ بْنِ
+> حَمِيدٍ قَالَ: سُئِلَ عَلِيُّ بْنُ الحُسَيْنِ عَلَيْهِ السَّلامُ عَنِ
+> التَّوْحِيدِ فَقَالَ: إنَّ اللهَ عَزَّ وَجَلَّ عَلِمَ أَنَّهُ يَكُونُ
+> فِي آخِرِ الزَّمَانِ أَقْوَامٌ مُتَعَمِّقُونُ، فَأَنْزَلَ اللهُ
+> تَعَالَى: ﴿قُلْ هُوَ اللهُ أَحَدٌ.﴾ وَالآيَاتِ مِنْ سُورَةِ الحَدِيدِ
+> إلَى قَوْلِهِ: ﴿وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ.﴾ فَمَنْ رَامَ
+> وَرَاءَ ذَلِكَ فَقَدْ هَلَكَ.
 
 With my chain of authorities reaching up to the foremost shaykh and the
 greatest pillar, Muhammad ibn Ya’qub al-Kulayni (R) from Muhammad ibn
@@ -295,13 +291,9 @@ intellects of the intelligent. And should this noble verse be capable of
 reinterpretation (*ta’wil*)*,* other noble verses cannot be interpreted
 in this manner, such as the statement of God, the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ
-فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ
-وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِنْ النَّاسِ.﴾
-  </p>
-</blockquote>
+> ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ
+> فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ
+> وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِنْ النَّاسِ.﴾
 
 ***Hast thou not seen how to God bow all who are in the heavens and all
 who are in the earth, the sun and the moon, the stars and the mountains,
@@ -359,12 +351,8 @@ If supposedly it were possible to interpret the verses pertaining to the
 *tasbih* of existents as something inbuilt or innate, what are we to do
 with the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا
-يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ.﴾
-  </p>
-</blockquote>
+> ﴿قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا
+> يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ.﴾
 
 ***An Ant said, “O ants, enter your dwellings, lest Solomon and his
 troops should trample upon you without knowing?*** (***27:18***)
@@ -457,12 +445,8 @@ descriptions and metaphysical proofs.
 
 As to the third noble verse- it is as follows:
 
-<blockquote dir="rtl">
-  <p>
-﴿هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ
-شَيْءٍ عَلِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ
+> شَيْءٍ عَلِيمٌ.﴾
 
 ***He is the First and the Last, and the Outward and the Inward, and He
 is the Knower of all things.*** (***57:3***)
@@ -483,12 +467,8 @@ noble verse, he is overcome by such a celestial ecstasy and a Divine
 delight that is inexpressible in any language and unbearable by any
 creature.
 
-<blockquote dir="rtl">
-  <p>
-فَسُبْحَانَ اللهِ، مَا أَعْظَمَ شَأْنَهُ وَأَجَلَّ سُلْطَانَهُ
-وَأَكْرَمَ قَدْرَهُ وَأَمْنَعَ عِزَّهُ وَأَعَزَّ جَنَابَهُ.
-  </p>
-</blockquote>
+> فَسُبْحَانَ اللهِ، مَا أَعْظَمَ شَأْنَهُ وَأَجَلَّ سُلْطَانَهُ
+> وَأَكْرَمَ قَدْرَهُ وَأَمْنَعَ عِزَّهُ وَأَعَزَّ جَنَابَهُ.
 
 So glory be to God, how lofty is His station, how splendid is His
 sovereignty, how great is His worth, how inaccessible His majesty and
@@ -699,5 +679,4 @@ the night enter the day and He makes the day enter the night and He
 knows that which is in the breasts. (57:6)
 
 [^13]: A reference to 4:79.
-
 

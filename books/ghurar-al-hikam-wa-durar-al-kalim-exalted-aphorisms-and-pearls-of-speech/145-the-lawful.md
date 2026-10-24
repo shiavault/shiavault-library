@@ -7,10 +7,5 @@ The Lawful
 kindness, and to remembering Allah in all circumstances.
 
 > 1ـ عَلَيْكَ بِلُزُومِ الحَلالِ، وحُسْنِ البِرِّ بِالعِيالِ،وَ ذِكْرِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ في كُلِّ حال.
-  </p>
-</blockquote>
-
+> اللّهِ في كُلِّ حال.
 

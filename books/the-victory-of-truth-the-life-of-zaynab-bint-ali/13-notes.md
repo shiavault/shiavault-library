@@ -29,4 +29,3 @@ anniversary of her death is observed on the following dates: 11th or
 21st of Jamadi uth-thani, the 24th of Safar, or the 16th of
 Dhu'l-Hijjah. 
 
-

@@ -69,4 +69,3 @@ these. Remember:     *‘Ar-Risalatul Khalidah’*, the everlasting message
 of Arabism: wake up from your sleep!"  
   
 
-

@@ -29,4 +29,3 @@ are examples testifying to our argument. They form our view regarding
 Islam's stance towards the economic freedom, and they reflect the
 general Islamic principle.
 
-

@@ -101,4 +101,3 @@ female child
 father or mother 1/6; husband 1/4; male child gets twice the share of
 female child
 
-

@@ -1,13 +1,9 @@
 Discourse 23: Jihad Against The Soul
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الصَّادِقُ: إِحْذَرُوا أَهْوَائَكُمْ كَمَا تَحْذَرُونَ
-أَعْدَائَكُمْ فَلَـيْسَ شَيْءٌ أَعْدى لِلرِّجَالِ مِنْ إِتِّـبَاعِ
-أَهْوَائَهُمْ وَ حَصَائِدَ أَلْسِنَتَهُمْ.
-  </p>
-</blockquote>
+> قَالَ الصَّادِقُ: إِحْذَرُوا أَهْوَائَكُمْ كَمَا تَحْذَرُونَ
+> أَعْدَائَكُمْ فَلَـيْسَ شَيْءٌ أَعْدى لِلرِّجَالِ مِنْ إِتِّـبَاعِ
+> أَهْوَائَهُمْ وَ حَصَائِدَ أَلْسِنَتَهُمْ.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said: “Be aware of your lower
 desires just as you keep aware of your enemies since there is nothing
@@ -49,11 +45,7 @@ take their lower passions to be their leader!
 Definitely, there are many people who take their lower passions to be
 their object of worship:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ مَنِ اتَّخَذَ إِلٌهَهُ هَوَاهُ
-  </p>
-</blockquote>
+> أَرَأَيْتَ مَنِ اتَّخَذَ إِلٌهَهُ هَوَاهُ
 
 “Have you seen the person who takes his lower desires as his lord?”[^2]
 
@@ -73,22 +65,14 @@ of idol worship! The heart in which only Allah (SwT) must be present is
 sometimes contaminated with various idols such as the love of wealth,
 status, our children and other things:
 
-<blockquote dir="rtl">
-  <p>
-بت ساخته اى در دل و خنديدى   بر كيش بد برهمن و بودا را
-  </p>
-</blockquote>
+> بت ساخته اى در دل و خنديدى   بر كيش بد برهمن و بودا را
 
 One of the poets stated that sometimes, people sit and talk about others
 who worship idols in the traditional houses of idol worship whereas if
 they were to look within their own souls, they would see that it is the
 house of idols and that numerous false gods of worship reside in it!
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصْغى إِلـى نَاطِقٍ فَقَدْ عَبَدَهُ.
-  </p>
-</blockquote>
+> مَنْ أَصْغى إِلـى نَاطِقٍ فَقَدْ عَبَدَهُ.
 
 A tradition tells us that the person who listens to one who tells him
 something has actually worshipped that person! If the person speaking is
@@ -125,13 +109,9 @@ others.
 There is a well-known tradition which may also relate to this tradition
 under discussion which states:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّاسُ كُلُّهُمْ هَالِكُونَ إِلاَّ الْعَالِمُونَ وَ الْعَالِمُونَ
-كُلُّهُمْ هَالِكُونَ إِلاَّ الْعَامِلُونَ وَ الْعَامِلُونَ كُلُّهُمْ
-هَالِكُونَ إِلاَّ الْمُخْلِصُونَ وَ الْمُخْلِصُونَ فِي خَطَرٍ عَظِيمٍ.
-  </p>
-</blockquote>
+> أَلنَّاسُ كُلُّهُمْ هَالِكُونَ إِلاَّ الْعَالِمُونَ وَ الْعَالِمُونَ
+> كُلُّهُمْ هَالِكُونَ إِلاَّ الْعَامِلُونَ وَ الْعَامِلُونَ كُلُّهُمْ
+> هَالِكُونَ إِلاَّ الْمُخْلِصُونَ وَ الْمُخْلِصُونَ فِي خَطَرٍ عَظِيمٍ.
 
 “All people shall be destroyed except for those with knowledge; and all
 of those who are endowed with knowledge shall be destroyed except for
@@ -170,21 +150,13 @@ The Noble Prophet (S) was once speaking to a desert ‘Arab and was
 describing the spiritual effects of the tongue and the dangers
 associated with speaking. The ‘Arab asked the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-أَفَنُؤَاخِذُ بِمَا نَقُولُ؟
-  </p>
-</blockquote>
+> أَفَنُؤَاخِذُ بِمَا نَقُولُ؟
 
 “Shall we be taken to account for what we say?”  
  The Noble Prophet (S) replied:
 
-<blockquote dir="rtl">
-  <p>
-وَ هَلْ تَكُبُّ النَّاسَ عَلى مَنَاخِرَهُمْ فِي النَّارِ إِلاَّ
-حَصَائِدِ أَلْسِنَتَهُمْ؟
-  </p>
-</blockquote>
+> وَ هَلْ تَكُبُّ النَّاسَ عَلى مَنَاخِرَهُمْ فِي النَّارِ إِلاَّ
+> حَصَائِدِ أَلْسِنَتَهُمْ؟
 
 “Shall mankind be thrown into the hell fire for any reason other than
 that which their tongues have earned?”
@@ -204,5 +176,4 @@ committing these sins.
 [^1]: Ibid., vol. 67, pg. 82
 
 [^2]: Suratul Furqan (25), Verse 43
-
 

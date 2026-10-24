@@ -4,7 +4,6 @@ Volume 2: Surah Baqarah, Verses 183
 Therefore remember Me, I will remember you, and be thankful to Me, and
 do not be ungrateful to Me. ( 152)
 
-
 **COMMENTARY
 **
 Allah first mentioned His favor on the Muslims that He sent to them a
@@ -90,7 +89,6 @@ words," Remember Me", have been used here in their real, and not
 metaphorical sense, then we will have to say that man has, or can have,
 a knowledge whose definition would be quite different from the one known
 to us.
-
 
 **TRADITIONS
 **

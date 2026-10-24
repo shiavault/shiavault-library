@@ -399,4 +399,3 @@ spelling as ibn or bin, and both variants have been used.
 The words caliph and khalifa or caliphate and khilafat have been used
 interchangeably.
 
-

@@ -1174,4 +1174,3 @@ p. 625.
 
 [^33]: Sharh-i Nahjul Balaghah by Ibn Abil Hadid, vol. XIV, page 191.
 
-

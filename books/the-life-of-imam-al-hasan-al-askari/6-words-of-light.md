@@ -289,4 +289,3 @@ livelihoods are not gained by greediness and requesting…submit yourself
 to fates and know that you shall not get except what has been determined
 for you.”
 
-

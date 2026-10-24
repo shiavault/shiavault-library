@@ -1363,4 +1363,3 @@ appointed leadership as it appears in the Bible corresponds amazingly
 closely to the Islamic Imamate. No institution in established
 Christianity so closely parallels it.
 
-

@@ -157,4 +157,3 @@ All of us must know that the only way of protecting our independence and
 regaining our initial glory is to be united and to follow the principles
 of the civilized Islam.
 
-

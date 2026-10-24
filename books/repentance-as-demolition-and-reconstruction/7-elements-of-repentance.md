@@ -135,4 +135,3 @@ and, also, correcting his direction in life.Consequently, firm will is a
 power capable of changing a man's route and, also, correcting his
 direction in life.
 
-

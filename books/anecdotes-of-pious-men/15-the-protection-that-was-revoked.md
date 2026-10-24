@@ -148,4 +148,3 @@ Waleed came forward and said:
 "But I have decided not to accept anyone's protection except that of
 God."
 
-

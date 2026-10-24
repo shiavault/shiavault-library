@@ -819,4 +819,3 @@ Supplication of Mujir, the Supplication of Kumayl, the Supplication of
 Abu Hamzah Thumali and the Supplication of 'Arafah may be mentioned in
 this connection.
 
-

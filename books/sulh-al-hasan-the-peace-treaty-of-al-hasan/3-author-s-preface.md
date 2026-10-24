@@ -1,10 +1,6 @@
 Author's Preface
 ================
 
-  
-
-  
-
 ##### **"In the Name of Allah, Most Gracious, Most Merciful  
  Praise belongs to Allah, the Lord of the worlds.  
  May Allah bless Muhammad, his family, and his companions."**
@@ -34,8 +30,6 @@ is because this period was unique in the history of the other caliphs.
 Namely, it was the beginning of a new rule that distinguished between
 the spiritual powers and the temporal ones in Islam. It was the period
 whose events confirmed the tradition in which  
-
-  
 
 the Prophet told the people that oppressive rulers would take the reins
 of authority. It was the period when tribal spites appeared for the
@@ -77,8 +71,6 @@ creating such a historical problem to al-Hasan, peace be on him. That is
 because such authors have not studied the private conditions of al-Hasan
 thoroughly. Besides they have decided to  
 
-  
-
 support their party activities, to comply with the wishes of the ruling
 policy, and to make people forget this great Imam.
 
@@ -119,8 +111,6 @@ about his life.
 Our matter (the Peace Treaty of al-Hasan) is wide and difficult.
 However, the reference books are very few. That is because most of  
 
-  
-
 our old books were liable to be missing. For example, we have not found
 these books:
 
@@ -155,8 +145,6 @@ conditions and the coordination of the events with which we can evaluate
 a certain situation.
 
 Among the best chances is that we have depended on the plain  
-
-  
 
 proof in choosing the way to order the reports that are here and there
 in books. So these reports, though incomplete, are all our perfect

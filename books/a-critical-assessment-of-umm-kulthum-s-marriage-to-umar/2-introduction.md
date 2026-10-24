@@ -41,4 +41,3 @@ intimidation and pressure, making recourse to such an argument would
 then be counterproductive and it will be counted as another injustice
 done to the Prophet‘s progeny (a.s.).
 
-

@@ -4,18 +4,10 @@ Section 4: Job’s Patience Rewarded
 Surah Sad - Verses 41-42
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَي رَبَّهُ أَنّـِي مَسَّنِيَ
-الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ
-  </p>
-</blockquote>
+> وَاذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَي رَبَّهُ أَنّـِي مَسَّنِيَ
+> الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ
 
-<blockquote dir="rtl">
-  <p>
-ارْكُضْ بِرِجْلِكَ هَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
-  </p>
-</blockquote>
+> ارْكُضْ بِرِجْلِكَ هَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
 
 ***41. “And remember Our servant Job, when he called to his Lord
 ‘Verily, Satan has afflicted me with toil and torment’.”***  
@@ -197,19 +189,11 @@ do drink a little of its water.[^3]
 Surah Sad - Verses 43-44
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُم مَعَهُمْ رَحْمَةً مِنَّا
-وَذِكْرَي لأُوْلِي الأَلْبَابِ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُم مَعَهُمْ رَحْمَةً مِنَّا
+> وَذِكْرَي لأُوْلِي الأَلْبَابِ
 
-<blockquote dir="rtl">
-  <p>
-وَخُذْ بِيَدِكَ ضِغْثاً فَاضْرِبْ بّـِهِ وَلاَ تَحْنَثْ إِنَّا
-وَجَدْنَاهُ صَابِراً نِعْمَ الْعَبْدُ اِنَّهُ أَوَّابٌ
-  </p>
-</blockquote>
+> وَخُذْ بِيَدِكَ ضِغْثاً فَاضْرِبْ بّـِهِ وَلاَ تَحْنَثْ إِنَّا
+> وَجَدْنَاهُ صَابِراً نِعْمَ الْعَبْدُ اِنَّهُ أَوَّابٌ
 
 ***43. “And we gave him his family and the like of them with them as a
 mercy from Us, and a reminder for those with understanding.”***  
@@ -327,31 +311,15 @@ the chains of tribulation comes ease.”* [^4]
 Surah Sad - Verses 45-48
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ عِبَادَنَآ إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُوْلِي
-الأَيْدِي وَالأَبصَارِ
-  </p>
-</blockquote>
+> وَاذْكُرْ عِبَادَنَآ إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُوْلِي
+> الأَيْدِي وَالأَبصَارِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّآ أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَي الدَّارِ
-  </p>
-</blockquote>
+> إِنَّآ أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَي الدَّارِ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُمْ عِندَنَا لَمِنَ الْمُصْطَفَيْنَ الأَخْيَارِ
-  </p>
-</blockquote>
+> وَإِنَّهُمْ عِندَنَا لَمِنَ الْمُصْطَفَيْنَ الأَخْيَارِ
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ اِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ وَكُلٌّ مِنَ
-الأَخْيَارِ
-  </p>
-</blockquote>
+> وَاذْكُرْ اِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ وَكُلٌّ مِنَ
+> الأَخْيَارِ
 
 ***45. “And remember Our servants Abraham, Isaac, and Jacob, men of
 might and insight.”***  
@@ -585,23 +553,11 @@ not judge minutely about the details of their lives.
 Surah Sad - Verses 49-51
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا ذِكْرٌ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَأَبٍ
-  </p>
-</blockquote>
+> هَذَا ذِكْرٌ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَأَبٍ
 
-<blockquote dir="rtl">
-  <p>
-جَنَّاتِ عَدْنٍ مُفَتَّحَةً لَهُمُ الأَبْوَابُ
-  </p>
-</blockquote>
+> جَنَّاتِ عَدْنٍ مُفَتَّحَةً لَهُمُ الأَبْوَابُ
 
-<blockquote dir="rtl">
-  <p>
-مُتَّكِئِينَ فِيهَا يَدْعُونَ فِيهَا بِفَاكِهَةٍ كَثِيرَةٍ وَشَرَابٍ
-  </p>
-</blockquote>
+> مُتَّكِئِينَ فِيهَا يَدْعُونَ فِيهَا بِفَاكِهَةٍ كَثِيرَةٍ وَشَرَابٍ
 
 ***49. “This is a reminder; and verily for the pious there is an
 excellent resort.”***  
@@ -703,23 +659,11 @@ Qur’an.
 Surah Sad - Verses 52-54
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ
-  </p>
-</blockquote>
+> وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا مَا تُوعَدُونَ لِيَوْمِ الْحِسَابِ
-  </p>
-</blockquote>
+> هَذَا مَا تُوعَدُونَ لِيَوْمِ الْحِسَابِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَرِزْقُنَا مَالَهُ مِن نَّفَادٍ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَرِزْقُنَا مَالَهُ مِن نَّفَادٍ
 
 ***52. “And beside them will be chaste women restraining their glances,
 (companions) of equal age.”***  
@@ -781,23 +725,11 @@ under the Will of Allah.
 Surah Sad - Verses 55-57
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَأَبٍ
-  </p>
-</blockquote>
+> هَذَا وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَأَبٍ
 
-<blockquote dir="rtl">
-  <p>
-جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ
-  </p>
-</blockquote>
+> جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ
-  </p>
-</blockquote>
+> هَذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ
 
 ***55. “This (for the righteous), and verily for the wicked ones there
 is an evil resort.”***  
@@ -885,32 +817,16 @@ doing.”***[^12]
 Surah Sad - Verses 58-61
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَاخَرُ مِن شَكْلِهِ أَزْوَاجٌ
-  </p>
-</blockquote>
+> وَءَاخَرُ مِن شَكْلِهِ أَزْوَاجٌ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ لاَ مَرْحَباً بِهِمْ إِنَّهُمْ
-صَالُوا النَّارِ
-  </p>
-</blockquote>
+> هَذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ لاَ مَرْحَباً بِهِمْ إِنَّهُمْ
+> صَالُوا النَّارِ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَلْ أَنتُمْ لاَ مَرْحَباً بِكُمْ أَنتُمْ قَدَّمْتُمُوهُ لَنَا
-فَبِئْسَ الْقَرَارُ
-  </p>
-</blockquote>
+> قَالُوا بَلْ أَنتُمْ لاَ مَرْحَباً بِكُمْ أَنتُمْ قَدَّمْتُمُوهُ لَنَا
+> فَبِئْسَ الْقَرَارُ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبَّنَا مَن قَدَّمَ لَنَا هَذَا فَزِدْهُ عَذَاباً ضِعْفاً فِي
-النَّارِ
-  </p>
-</blockquote>
+> قَالُوا رَبَّنَا مَن قَدَّمَ لَنَا هَذَا فَزِدْهُ عَذَاباً ضِعْفاً فِي
+> النَّارِ
 
 ***58. “And other punishments of a similar kind to match them!”***  
 ***59. “(To their leaders it shall be said:) ‘This is a group (of your
@@ -1050,24 +966,12 @@ We say:
 Surah Sad - Verses 62-64
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا مَا لَنَا لاَ نَرَي رِجَالاً كُنَّا نَعُدُّهُم مِنَ
-الأَشْرَارِ
-  </p>
-</blockquote>
+> وَقَالُوا مَا لَنَا لاَ نَرَي رِجَالاً كُنَّا نَعُدُّهُم مِنَ
+> الأَشْرَارِ
 
-<blockquote dir="rtl">
-  <p>
-أَتَّخَذْنَاهُمْ سِخْرِيّاً أَمْ زَاغَتْ عَنْهُمُ الأَبْصَارُ
-  </p>
-</blockquote>
+> أَتَّخَذْنَاهُمْ سِخْرِيّاً أَمْ زَاغَتْ عَنْهُمُ الأَبْصَارُ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ ذَلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ
-  </p>
-</blockquote>
+> إِنَّ ذَلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ
 
 ***62. “And they say: ‘What has happened to us that we do not see the
 men whom we counted among the wicked ones?’”***  
@@ -1192,5 +1096,4 @@ each of which has pointed to a part of the matters
 
 [^13]: The commentary books of Atyab-ul-Bayan, Nur-uth-Thaqalayn, and
 kanz-ud-Daqayiq.
-
 

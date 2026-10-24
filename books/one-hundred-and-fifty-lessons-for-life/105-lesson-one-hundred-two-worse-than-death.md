@@ -3,12 +3,8 @@ Lesson One Hundred Two: Worse Than Death
 
 Imam Hasan Al-’Askari (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-خَيْرٌ مِنَ الْحَياةِ ما إذا فَقَدْتَهُ أَبْغَضْتَ الْحَياةَ! وَ شَرٌّ
-مِنَ الْمَوْتِ مَا إِذا نَزَلَ بِكَ أَحْبَبْتَ الْمَوْتَ!
-  </p>
-</blockquote>
+> خَيْرٌ مِنَ الْحَياةِ ما إذا فَقَدْتَهُ أَبْغَضْتَ الْحَياةَ! وَ شَرٌّ
+> مِنَ الْمَوْتِ مَا إِذا نَزَلَ بِكَ أَحْبَبْتَ الْمَوْتَ!
 
 Translation
 -----------
@@ -32,5 +28,4 @@ wider world, as well as God’s satisfaction, they bade farewell to life
 and embraced death.
 
 [^1]: Tuhaful Uqul, page 368
-
 

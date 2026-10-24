@@ -67,4 +67,3 @@ useful to society.
 
 [^2]: Ibid.
 
-

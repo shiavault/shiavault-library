@@ -4,20 +4,12 @@
 Allah helps those who help Him
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-….إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
-  </p>
-</blockquote>
+> ….إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
 
 ***'If you help Allah, He will help you and will keep your feet
 steadfast.' (47: 7)***
 
-<blockquote dir="rtl">
-  <p>
-إِن تَنصُرُوا اللَّـهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
-  </p>
-</blockquote>
+> إِن تَنصُرُوا اللَّـهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
 
 ***'And surely Allah helps those who help Him.' (22: 45)***
 
@@ -152,11 +144,7 @@ him. He advanced forward keeping his sight fixed on the mane of the
 horse, not looking either left or right. I began praying for him
 sincerely. When he passed by in front of me, he looked at me and said,
 
-<blockquote dir="rtl">
-  <p>
-اسْتَجابَ اللهُ دُعائَكَ. وَ طَوَّلَ عُمْرَكَ. و كَثَّرَ مالَكَ.
-  </p>
-</blockquote>
+> اسْتَجابَ اللهُ دُعائَكَ. وَ طَوَّلَ عُمْرَكَ. و كَثَّرَ مالَكَ.
 
 'May Allah accept your prayers, has prolong your life and multiply your
 wealth and children.'
@@ -186,5 +174,4 @@ is Allah's promise that He helps the one who helps Him, through Imam
 
 [^2]: Al-Kharaaej al-Qutb al-Rawandi, Chp. 11 about miracles of Imam
 Hadi (a.s.)
-
 

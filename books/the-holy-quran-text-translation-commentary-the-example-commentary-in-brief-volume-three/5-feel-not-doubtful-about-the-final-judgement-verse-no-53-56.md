@@ -539,7 +539,6 @@ GUILTIES MIGHT DISLIKE IT.
 **THE COMMENTARY
 THE SECOND FIELD OF CONFLICT (VERSE NO. 79 - 82)**
 
-
 When Pharaoh observed some of the miracles of Moses like the serpent
 and the brilliant white hand, which were not without effect upon his
 chiefs and courtiers, he thought of some practical answers for that. He
@@ -587,5 +586,4 @@ LET THE OPPRESSORS TO PERSECUTE US)
 86- AND DELIEVER US THROUGH YOUR MERCY FROM THE UNBELIEVING PEOPLE.
 
 [ 115 ]
-
 

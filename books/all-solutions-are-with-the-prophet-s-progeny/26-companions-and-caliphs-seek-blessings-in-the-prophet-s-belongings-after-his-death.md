@@ -130,4 +130,3 @@ you were going to hide. So We said: Strike the (dead body) with part of
 the (sacrificed cow), thus Allah brings the dead to life, and He shows
 you His signs so that you may understand.” Qur’an 2:73
 
-

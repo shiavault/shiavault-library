@@ -375,4 +375,3 @@ Universe, the bona- fide of the apostleship of his grandfather, the Holy
 Prophet Muham- mad, and the truthfulness of Islam, as God's prescribed
 rc1igio for Mankind as a whole.
 
-

@@ -27,4 +27,3 @@ Ali, representing Alfred North Whitehead’s belief that there was only
 one subject worth studying and that was life in all its manifestations
 (Whitehead, 1929).
 
-

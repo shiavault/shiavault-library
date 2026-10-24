@@ -28,7 +28,6 @@ Sura Insan (human) No. 76 (verses 12-22)
 
 (22) إِنَّ هَذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُم مَّشْكُورًا
 
-
 12. " And Allah will reward them for their patience, with a garden and
 clothes of silk (in Heaven) ."
 
@@ -63,7 +62,6 @@ give to them to drink of a Drink Pure and Holy."
 
 22. " Verily this is a reward for you, and your endeavor is accepted
 and appreciated.
-
 
 **Commentary:
 Great Rewards in Heaven**
@@ -368,7 +366,6 @@ The first is about the 'rain' (Sura Furqan, No 45, verse 25) which
 purifies and revives everything. And, the second is in the current verse
 about the special Divine Drink, which is also purifying and reviving.
 
-
 In the last verse, of this part, the last point on this subject is
 presented. It states that these great blessings and unique gifts are a
 recompense for your deeds; and your efforts, struggles and diligence are
@@ -390,5 +387,4 @@ The verb /kana/ 'was', which is in the past tense, perhaps refers to
 this point: that these blessings have been prepared for you (the
 Righteous) in advance. As when one pays careful attention to detail and
 prepares everything, in advance, for his guest.
-
 

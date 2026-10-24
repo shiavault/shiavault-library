@@ -851,4 +851,3 @@ II, pp. 242-243.
 
 [^23]: Tarikh-i Tabari, vol. II, page 244
 
-

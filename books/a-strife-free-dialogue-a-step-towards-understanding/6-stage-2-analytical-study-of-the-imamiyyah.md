@@ -116,4 +116,3 @@ because it is very hard for them to perceive them at this particular
 stage. Now, let us take a cursory look at the issue of knowing the
 Imamiyyah.
 
-

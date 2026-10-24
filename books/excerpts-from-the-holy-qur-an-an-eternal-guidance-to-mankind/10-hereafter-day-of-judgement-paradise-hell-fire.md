@@ -6,18 +6,10 @@ Day of Judgement
 
 **Surah Al-Isra’, 17:71**
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ فَمَنْ أُوتِيَ كِتَابَهُ
-بِيَمِينِهِ فَأُوْلَـئِكَ يَقْرَؤُونَ
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ فَمَنْ أُوتِيَ كِتَابَهُ
+> بِيَمِينِهِ فَأُوْلَـئِكَ يَقْرَؤُونَ
 
-<blockquote dir="rtl">
-  <p>
-كِتَابَهُمْ وَلاَ يُظْلَمُونَ فَتِيلاً
-  </p>
-</blockquote>
+> كِتَابَهُمْ وَلاَ يُظْلَمُونَ فَتِيلاً
 
 Yawma nad-‘uu kulla ’unaa-sim bi-’Imaa-mihim: fa-man ’outiya kitaa-bahuu
 bi-ya-miinihii fa-’ulaaa-’ika yaqra-’uuna kitaa-bahum wa laa yuzlamuuna
@@ -79,14 +71,10 @@ Repeated warning of the Day of Judgement
 
 **Surah Saba, 34:3**
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لَا تَأْتِينَا السَّاعَةُ قُلْ بَلَى
-وَرَبِّي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ لَا يَعْزُبُ عَنْهُ
-مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ وَلَا أَصْغَرُ
-مِن ذَلِكَ وَلَا أَكْبَرُ إِلَّا فِي كِتَابٍ مُّبِينٍ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لَا تَأْتِينَا السَّاعَةُ قُلْ بَلَى
+> وَرَبِّي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ لَا يَعْزُبُ عَنْهُ
+> مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ وَلَا أَصْغَرُ
+> مِن ذَلِكَ وَلَا أَكْبَرُ إِلَّا فِي كِتَابٍ مُّبِينٍ
 
 Wa qaalal-laziina kafaruu laa ta’-tiinas-Saa-‘ah: qul balaa wa Rab-bii
 lata’tiyan-nakum ‘Aalimil-ghayb. Laa ya‘-zubu ‘anhu mithqaalu zar-ratin
@@ -104,31 +92,19 @@ or larger, but is recorded in His clear degree.*
 
 **Surah Al – Haqqah, 69:1-3**
 
-<blockquote dir="rtl">
-  <p>
-الْحَاقَّةُ
-  </p>
-</blockquote>
+> الْحَاقَّةُ
 
 ’Al-Haaaq-qatu!
 
 *1. Oh, the laying-bare of the truth!*
 
-<blockquote dir="rtl">
-  <p>
-مَا الْحَاقَّةُ
-  </p>
-</blockquote>
+> مَا الْحَاقَّةُ
 
 Mal-Haaq-qa?
 
 *2. How awesome that laying-bare of the truth!*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْحَاقَّةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْحَاقَّةُ
 
 Wa maaa ’adraaka mal-Haaaq-qa?
 
@@ -140,142 +116,86 @@ Signs to proclaim the arrival of the Day of Judgement
 
 **Surah At – Takwir, 81:1-14**
 
-<blockquote dir="rtl">
-  <p>
-إِذَا الشَّمْسُ كُوِّرَتْ
-  </p>
-</blockquote>
+> إِذَا الشَّمْسُ كُوِّرَتْ
 
 ’Izash-shamsu kuw-wirat;
 
 *1. When the sun is shrouded in darkness,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا النُّجُومُ انكَدَرَتْ
-  </p>
-</blockquote>
+> وَإِذَا النُّجُومُ انكَدَرَتْ
 
 Wa ’izan-nujuu-mun-kadarat;
 
 *2. and when the stars lose their light,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجِبَالُ سُيِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجِبَالُ سُيِّرَتْ
 
 Wa ’izal-jibaalu suy-yirat;
 
 *3. and when the mountains are made to vanish,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْعِشَارُ عُطِّلَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْعِشَارُ عُطِّلَتْ
 
 Wa ’izal-‘ishaaru ‘ut-tilat;
 
 *4. and when the she-camels big with young, about to give birth, are
 left untended,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْوُحُوشُ حُشِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْوُحُوشُ حُشِرَتْ
 
 Wa ’izal-wuhuu-shu hushirat;
 
 *5. and when all beasts are gathered together,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْبِحَارُ سُجِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْبِحَارُ سُجِّرَتْ
 
 Wa ’izal-bihaaru suj-jirrat;
 
 *6. and when the seas boil over,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا النُّفُوسُ زُوِّجَتْ
-  </p>
-</blockquote>
+> وَإِذَا النُّفُوسُ زُوِّجَتْ
 
 Wa ’izan-nufuusu zuw-wijat:
 
 *7. and when all human beings are coupled (with their deeds),*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْمَوْؤُودَةُ سُئِلَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْمَوْؤُودَةُ سُئِلَتْ
 
 Wa ’izal-maw-’uudatu su’ilat-
 
 *8. and when the girl-child that was buried alive is made to ask*
 
-<blockquote dir="rtl">
-  <p>
-بِأَيِّ ذَنبٍ قُتِلَتْ
-  </p>
-</blockquote>
+> بِأَيِّ ذَنبٍ قُتِلَتْ
 
 Bi-’ay-yi zambin-qutilat:
 
 *9. for what crime she had been slain,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الصُّحُفُ نُشِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الصُّحُفُ نُشِرَتْ
 
 Wa ’izas-suhu-fu nushirat:
 
 *10. and when the scrolls (of men’s deeds) are unfolded,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا السَّمَاء كُشِطَتْ
-  </p>
-</blockquote>
+> وَإِذَا السَّمَاء كُشِطَتْ
 
 Wa ’izas-samaaa-’u kushitat;
 
 *11. and when heaven is laid bare,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجَحِيمُ سُعِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجَحِيمُ سُعِّرَتْ
 
 Wa ’izal-Jahiimu su‘-‘irat;
 
 *12. and when the blazing fire (of hell) is kindled bright,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجَنَّةُ أُزْلِفَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجَنَّةُ أُزْلِفَتْ
 
 Wa ’izal-Jan-natu ’uzlifat;
 
 *13. and when paradise is brought into view:*
 
-<blockquote dir="rtl">
-  <p>
-عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
-  </p>
-</blockquote>
+> عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ
 
 ‘Alimat nafsum-maaa-’ah-zarat.
 
@@ -302,51 +222,31 @@ there will naturally be an open space in the place of the present skies.
 
 **Surah Al – Infitar, 82:1-5**
 
-<blockquote dir="rtl">
-  <p>
-إِذَا السَّمَاء انفَطَرَتْ
-  </p>
-</blockquote>
+> إِذَا السَّمَاء انفَطَرَتْ
 
 ’izas - Samaaa - ’un-fatarat;
 
 *1. When the sky is cleft asunder,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْكَوَاكِبُ انتَثَرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْكَوَاكِبُ انتَثَرَتْ
 
 Wa ’izal-kawaa-ki-bun-tatharat;
 
 *2. and when the stars are scattered,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْبِحَارُ فُجِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْبِحَارُ فُجِّرَتْ
 
 Wa ’izal-bihaaru fuj-jirat;
 
 *3. and when the seas burst beyond their bounds,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْقُبُورُ بُعْثِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْقُبُورُ بُعْثِرَتْ
 
 Wa ’izal-qubuuru bu‘-thirat;
 
 *4. and when the graves are overturned -*
 
-<blockquote dir="rtl">
-  <p>
-عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ
-  </p>
-</blockquote>
+> عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ
 
 ‘Alimat nafsum-maa qad-damat wa’akh-kharat.
 
@@ -367,19 +267,11 @@ State of Mankind on the Day Of Judgment
 
 **Surah Al – Hajj, 22:1-2**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ
-شَيْءٌ عَظِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ
+> شَيْءٌ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ
-وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا
-  </p>
-</blockquote>
+> يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ
+> وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا
 
 Yaa ay-yuhan naa-sut-taqu Rab-bakum; In-na zal-zala-tas-saa-‘ati shay-un
 ‘aziim.
@@ -387,12 +279,8 @@ Yaa ay-yuhan naa-sut-taqu Rab-bakum; In-na zal-zala-tas-saa-‘ati shay-un
 *1. O people! guard against(the punishment from) your Lord; for, verily,
 the violent convulsion of the Last Hour will be an awesome thing.*
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَى النَّاسَ سُكَارَى وَمَا هُم بِسُكَارَى وَلَكِنَّ عَذَابَ
-اللَّهِ شَدِيدٌ
-  </p>
-</blockquote>
+> وَتَرَى النَّاسَ سُكَارَى وَمَا هُم بِسُكَارَى وَلَكِنَّ عَذَابَ
+> اللَّهِ شَدِيدٌ
 
 Yau-ma tarau-naha taz-halu kul-lu mur-zi-‘atin ‘am-maa ar-za-‘at
 wataza-‘u kul-lu zaa-ti ham-lin ham-laha wa taran-naasa sukaa-ra wa maa
@@ -409,23 +297,15 @@ State of Mankind when the Trumpet is blown
 
 **Surah Al – Qamar, 54:6-8**
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ إِلَى شَيْءٍ نُّكُرٍ
-  </p>
-</blockquote>
+> فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ إِلَى شَيْءٍ نُّكُرٍ
 
 Fatawal-la ‘anhum. Yawma yad-‘ud-Daa-‘i ’laa shay-’in-nukur.
 
 *6. turn thou away from them, On the Day when the Summoning Voice will
 summon (man) unto something that the mind cannot conceive,*
 
-<blockquote dir="rtl">
-  <p>
-خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ
-جَرَادٌ مُّنتَشِرٌ
-  </p>
-</blockquote>
+> خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ
+> جَرَادٌ مُّنتَشِرٌ
 
 Khush-sha-‘an absaa-ruhum yakhru-juuna minal-’ajdaa-thi ka-’an-nahum
 jaraa-dum-mun-tashir.
@@ -433,11 +313,7 @@ jaraa-dum-mun-tashir.
 *7. they will come forth from their graves, with their eyes downcast,
 (swarming about) like locusts* *scattered (by the wind),*
 
-<blockquote dir="rtl">
-  <p>
-مُّهْطِعِينَ إِلَى الدَّاعِ يَقُولُ الْكَافِرُونَ هَذَا يَوْمٌ عَسِرٌ
-  </p>
-</blockquote>
+> مُّهْطِعِينَ إِلَى الدَّاعِ يَقُولُ الْكَافِرُونَ هَذَا يَوْمٌ عَسِرٌ
 
 Muh-ti-‘iina ’ilad - Daa‘! Yaquu-lul-kaafiruuna “Haazaa Yawmun ‘asir”
 
@@ -449,13 +325,9 @@ This Life will seem like an hour on the Day of Judgment
 
 **Surah Yunus, 10:45**
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُواْ إِلاَّ سَاعَةً مِّنَ
-النَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ قَدْ خَسِرَ الَّذِينَ كَذَّبُواْ
-بِلِقَاء اللّهِ وَمَا كَانُواْ مُهْتَدِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُواْ إِلاَّ سَاعَةً مِّنَ
+> النَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ قَدْ خَسِرَ الَّذِينَ كَذَّبُواْ
+> بِلِقَاء اللّهِ وَمَا كَانُواْ مُهْتَدِينَ
 
 Wa yawma yah-shuruhum ka-’al-lam yal-bathuuu ’il-laa
 saa-‘atam-minan-nahaari yata-‘aara-fuuna bay-nahum. Qad
@@ -478,18 +350,10 @@ State of affairs on Day of Judgement
 
 **Surah Az – Zumar, 39:67-75**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ
-يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ
-  </p>
-</blockquote>
+> وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ
+> يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ
 
-<blockquote dir="rtl">
-  <p>
-مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
 
 Wa maa qadarul-laaha haq-qa qadrihii wal-‘arzu jamii-‘an-qabzatuhuu
 Yawmal-Qiyaa-mati was-samaa-waatu matwiy-yaatum-biyamiini: Sub-haa-nahuu
@@ -501,18 +365,10 @@ handful to Him on resurrection Day, and the heavens will be rolled up in
 His right hand: limitless is He in His glory, and sublimely exalted
 above anything to which they may ascribe a share in His divinity!*
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِي الصُّورِ فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي
-الْأَرْضِ إِلَّا مَن شَاء اللَّهُ
-  </p>
-</blockquote>
+> وَنُفِخَ فِي الصُّورِ فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي
+> الْأَرْضِ إِلَّا مَن شَاء اللَّهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ نُفِخَ فِيهِ أُخْرَى فَإِذَا هُم قِيَامٌ يَنظُرُونَ
-  </p>
-</blockquote>
+> ثُمَّ نُفِخَ فِيهِ أُخْرَى فَإِذَا هُم قِيَامٌ يَنظُرُونَ
 
 Wa nufikha fis-Suuri fasa‘iqa man fis-samaa-waati wa man fil-‘arzi
 ’il-laa man-shaaa-’al-laah. Thum-ma nufikhaa fiihi’ukh-raa fa-’izaa hum
@@ -525,13 +381,9 @@ fall down senseless, unless they be such as God wills (to exempt).*
 *And then it will sound again - and lo! standing (before the Seat of
 Judgement), they will begin to see (the truth)!*
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ
-بِالنَّبِيِّينَ وَالشُّهَدَاء وَقُضِيَ بَيْنَهُم بِالْحَقِّ وَهُمْ لَا
-يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ
+> بِالنَّبِيِّينَ وَالشُّهَدَاء وَقُضِيَ بَيْنَهُم بِالْحَقِّ وَهُمْ لَا
+> يُظْلَمُونَ
 
 Wa ’ash-raqatil-’arzu bi-nuuri Rab-bihaa wa wuzi-‘al-Kitaabu wa jiii-’a
 bin-nabiy-yiina wash-shuha-daaa-’i wa quziya baynahum-bil-haq-qi wa hum
@@ -542,12 +394,8 @@ record (of everyone’s deeds) will be laid bare, and all the Prophets
 will be brought forward, and all (other) witnesses; and judgement will
 be passed on them all in justice. And they will not be wronged,*
 
-<blockquote dir="rtl">
-  <p>
-وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا
-يَفْعَلُونَ
-  </p>
-</blockquote>
+> وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا
+> يَفْعَلُونَ
 
 Wa wuf-fiyat kul-lu nafsim-maa ‘amilat wa Huwa ’a‘ lamu bimaa
 yaf-‘aluun.
@@ -555,15 +403,11 @@ yaf-‘aluun.
 *70. for every human being will be repaid in full for whatever (good or
 evil) he has done: and He is fully aware of all that they do.*
 
-<blockquote dir="rtl">
-  <p>
-وَسِيقَ الَّذِينَ كَفَرُوا إِلَى جَهَنَّمَ زُمَرًا حَتَّى إِذَا
-جَاؤُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا أَلَمْ
-يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ آيَاتِ رَبِّكُمْ
-وَيُنذِرُونَكُمْ لِقَاء يَوْمِكُمْ هَذَا قَالُوا بَلَى وَلَكِنْ
-حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَسِيقَ الَّذِينَ كَفَرُوا إِلَى جَهَنَّمَ زُمَرًا حَتَّى إِذَا
+> جَاؤُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا أَلَمْ
+> يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ آيَاتِ رَبِّكُمْ
+> وَيُنذِرُونَكُمْ لِقَاء يَوْمِكُمْ هَذَا قَالُوا بَلَى وَلَكِنْ
+> حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَافِرِينَ
 
 Wa siiqal-laziina kafaruuu ’ilaa Jahan-nama zumaraa: Hat-taaa ’izaa
 jaaa-’uuhaa futihat ’abwaa-buhaaa wa qaala lahum khazanatuhaaa ’alam
@@ -581,12 +425,8 @@ answer: “Yea, indeed!”*
 *But the sentence of suffering will (already) have fallen due upon the
 deniers of the truth;*
 
-<blockquote dir="rtl">
-  <p>
-قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى
-الْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى
+> الْمُتَكَبِّرِينَ
 
 Qiilad-khuluuu ’abwaaba Jahan-nama khaalidiina fiihaa fabi‘sa
 math-wal-mutakab-biriin!
@@ -594,19 +434,11 @@ math-wal-mutakab-biriin!
 *72. (and) they will be told, “Enter the gates of hell, therein to
 abide!” And how vile an abode for those who were given to false pride!*
 
-<blockquote dir="rtl">
-  <p>
-وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَرًا حَتَّى
-إِذَا جَاؤُوهَا وَفُتِحَتْ أَبْوَابُهَا
-  </p>
-</blockquote>
+> وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَرًا حَتَّى
+> إِذَا جَاؤُوهَا وَفُتِحَتْ أَبْوَابُهَا
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ لَهُمْ خَزَنَتُهَا سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا
-خَالِدِينَ
-  </p>
-</blockquote>
+> وَقَالَ لَهُمْ خَزَنَتُهَا سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا
+> خَالِدِينَ
 
 Wa siiqal-lazii-nat-taqaw Rab-bahum ’ilal - Jan-nati zumaraa: hat-taaa
 ’izaa jaaa-’uuhaa wa futihat ’abwaa-buhaa wa qaala lahum khazanatuhaa
@@ -617,18 +449,10 @@ throngs towards paradise till, when they reach it, they shall find its
 gates wide-open; and its keepers will say unto them, “Peace be upon you!
 Well have you done: enter, then, this (paradise), herein to abide!”*
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا
-الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ
-  </p>
-</blockquote>
+> وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا
+> الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ
 
-<blockquote dir="rtl">
-  <p>
-نَشَاء فَنِعْمَ أَجْرُ الْعَامِلِينَ
-  </p>
-</blockquote>
+> نَشَاء فَنِعْمَ أَجْرُ الْعَامِلِينَ
 
 Wa qaalul-Hamdu-lil-lahil lazii sadaqanaa Wa‘-dahuu wa
 ’awra-thanal-’arza natabaw-wa-’u minal-Jan-nati hay-thu nashaaa:
@@ -641,13 +465,9 @@ bliss) as our portion, so that we may dwell in paradise as we please!”*
 *And how excellent a reward will it be for those who laboured (in God’s
 way)!*
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَى الْمَلَائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ
-بِحَمْدِ رَبِّهِمْ وَقُضِيَ بَيْنَهُم بِالْحَقِّ وَقِيلَ الْحَمْدُ
-لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَتَرَى الْمَلَائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ
+> بِحَمْدِ رَبِّهِمْ وَقُضِيَ بَيْنَهُم بِالْحَقِّ وَقِيلَ الْحَمْدُ
+> لِلَّهِ رَبِّ الْعَالَمِينَ
 
 Wa taral-malaaa-’ikata haaaf-fiina min hawlil-‘Arshi yusab-bihuuna
 bi-Hamdi Rab-bihim. Wa quziya baynahum-bil-haq-qi wa qiilal-Hamdu
@@ -661,56 +481,36 @@ Sustainer of all the worlds!”*
 
 **Surah Al – Haqqah, 69:13-37**
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
-  </p>
-</blockquote>
+> فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
 
 Fa-izaa nufikha fis-suuri nafkhatuw-waahida
 
 *13. Hence, (bethink yourselves of the Last Hour,) when the trumpet (of
 judgement) shall be sounded with a single blast,*
 
-<blockquote dir="rtl">
-  <p>
-وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
-  </p>
-</blockquote>
+> وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
 
 Wa humilatil-arzu waljibaalu faduk-kataa dak-kataw-waahida
 
 *14. and the earth and the mountains shall be lifted up and crushed with
 a single stroke!*
 
-<blockquote dir="rtl">
-  <p>
-فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
-  </p>
-</blockquote>
+> فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
 
 Fa yauma-izinw-waqa-‘atil waaqi-‘a
 
 *15. And so, that which must come to pass will on that Day have come to
 pass;*
 
-<blockquote dir="rtl">
-  <p>
-وَانشَقَّتِ السَّمَاء فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
-  </p>
-</blockquote>
+> وَانشَقَّتِ السَّمَاء فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
 
 Wanshaq-qatis-samaaa-u fahiya yauma-izinw-waahiya
 
 *16. and the sky will be rent asunder - for, frail will it have become
 on that Day -;*
 
-<blockquote dir="rtl">
-  <p>
-وَالْمَلَكُ عَلَى أَرْجَائِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ
-يَوْمَئِذٍ ثَمَانِيَةٌ
-  </p>
-</blockquote>
+> وَالْمَلَكُ عَلَى أَرْجَائِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ
+> يَوْمَئِذٍ ثَمَانِيَةٌ
 
 Wal malaku ‘alaaa arjaaa-ihaa. Wa yahmilu ‘arsha rab-bika fauqahum
 yauma-izin thamaaniya
@@ -719,23 +519,15 @@ yauma-izin thamaaniya
 will bear aloft on that Day the throne of thy Sustainer’s
 almightiness.....”*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَى مِنكُمْ خَافِيَةٌ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَى مِنكُمْ خَافِيَةٌ
 
 Yauma-izin tu‘razuuna laa takhfaa minkum khaafiya
 
 *18. On that Day you shall be brought to judgement: not (even) the most
 hidden of your deeds will* *remain hidden.*
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ
-اقْرَؤُوا كِتَابِيهْ
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ
+> اقْرَؤُوا كِتَابِيهْ
 
 Fa-am-ma man uutiya kitaabahu biyamiinihii fayaquulu haaaumuqra-uu
 kitaabiya
@@ -743,53 +535,33 @@ kitaabiya
 *19. Now as for him whose record shall be placed in his right hand, he
 will exclaim: “Come you all! Read this my record!*
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيهْ
-  </p>
-</blockquote>
+> إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيهْ
 
 In-nii zanantu an-nii mulaaqin hisaabiya
 
 *20. Behold, I did know that (one day) I would have to face my
 account!”*
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
-  </p>
-</blockquote>
+> فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
 
 Fahuwa fii ‘iishatir raaziya
 
 *21. And so he will find himself in a happy state of life,*
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّةٍ عَالِيَةٍ
-  </p>
-</blockquote>
+> فِي جَنَّةٍ عَالِيَةٍ
 
 Fii jan-natin ‘aaliya
 
 *22. in a lofty paradise,*
 
-<blockquote dir="rtl">
-  <p>
-قُطُوفُهَا دَانِيَةٌ
-  </p>
-</blockquote>
+> قُطُوفُهَا دَانِيَةٌ
 
 Qutuufuhaa daaniya
 
 *23. with its fruits within easy reach.*
 
-<blockquote dir="rtl">
-  <p>
-كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ
-الْخَالِيَةِ
-  </p>
-</blockquote>
+> كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ
+> الْخَالِيَةِ
 
 Kuluu washrabuu haniii-am bimaaa aslaftum filay-yaamil-khaaliya
 
@@ -797,12 +569,8 @@ Kuluu washrabuu haniii-am bimaaa aslaftum filay-yaamil-khaaliya
 cheer in return for all (the good deeds) that you have sent ahead in
 days gone by!”*
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي
-لَمْ أُوتَ كِتَابِيهْ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي
+> لَمْ أُوتَ كِتَابِيهْ
 
 Wa am-ma man uutiya kitaabahu bishimaalihii fayaquulu yaalaitanii lam
 uuta kitaabiya
@@ -810,123 +578,75 @@ uuta kitaabiya
 *25. But as for him whose record shall be placed in his left hand, he
 will exclaim: “Oh, would that I had never been shown this my record,*
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ أَدْرِ مَا حِسَابِيهْ
-  </p>
-</blockquote>
+> وَلَمْ أَدْرِ مَا حِسَابِيهْ
 
 Walam adrimaa hisaabiya
 
 *26. and neither known this my account!*
 
-<blockquote dir="rtl">
-  <p>
-يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ
-  </p>
-</blockquote>
+> يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ
 
 Yaalaitahaa kaanatil qaaziya
 
 *27. Oh, would that this (death of mine) had been the end of me!*
 
-<blockquote dir="rtl">
-  <p>
-مَا أَغْنَى عَنِّي مَالِيهْ
-  </p>
-</blockquote>
+> مَا أَغْنَى عَنِّي مَالِيهْ
 
 Maaa aghnaa ‘an-nii maaliya
 
 *28. Of no avail to me is all that I have (ere) possessed,*
 
-<blockquote dir="rtl">
-  <p>
-هَلَكَ عَنِّي سُلْطَانِيهْ
-  </p>
-</blockquote>
+> هَلَكَ عَنِّي سُلْطَانِيهْ
 
 Halaka ‘an-nii sultaaniya
 
 *29. (and) all my power of argument has died away from me!”*
 
-<blockquote dir="rtl">
-  <p>
-خُذُوهُ فَغُلُّوهُ
-  </p>
-</blockquote>
+> خُذُوهُ فَغُلُّوهُ
 
 Khuzuuhu fagul-luuhu
 
 *30. (Thereupon the command will go forth:) “Lay hold of him, and
 shackle him,*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ الْجَحِيمَ صَلُّوهُ
-  </p>
-</blockquote>
+> ثُمَّ الْجَحِيمَ صَلُّوهُ
 
 Thum-mal jahiima sal-luuhu
 
 *31. and then let him enter hell,*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
-  </p>
-</blockquote>
+> ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
 
 Thum-ma fii silsilatin zir‘uhaa sab‘uuna ziraa-‘an faslukuu
 
 *32. and then thrust him into a chain (of sinners like him - a chain)
 the length whereof is seventy cubits:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
-  </p>
-</blockquote>
+> إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
 
 In-nahu kaana laa yu-minu bil-laahil ‘aziim
 
 *33. for, behold, he did not believe in God, the Tremendous,*
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ
-  </p>
-</blockquote>
+> وَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ
 
 Wa laa yahuz-zu ‘alaa ta-‘aamil miskiin
 
 *34. and did not feel any urge to feed the needy:*
 
-<blockquote dir="rtl">
-  <p>
-فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
-  </p>
-</blockquote>
+> فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
 
 Fa laisa lahul yawma haa-hunaa hamiim
 
 *35. and so, no friend has he here today,*
 
-<blockquote dir="rtl">
-  <p>
-وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
-  </p>
-</blockquote>
+> وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
 
 Walaa ta-‘aaamun il-laa min ghisliin
 
 *36. nor any food save the filth*
 
-<blockquote dir="rtl">
-  <p>
-لَا يَأْكُلُهُ إِلَّا الْخَاطِؤُونَ
-  </p>
-</blockquote>
+> لَا يَأْكُلُهُ إِلَّا الْخَاطِؤُونَ
 
 Laa ya-kuluhuuu il-lal khaati-uun.
 
@@ -934,63 +654,39 @@ Laa ya-kuluhuuu il-lal khaati-uun.
 
 **Surah Al - Ma’arij, 70:6-18**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
-  </p>
-</blockquote>
+> إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
 
 ’In-nahum yarawnahuu ba-‘iidaa:
 
 *6. Behold, men look upon that (reckoning) as something far away*
 
-<blockquote dir="rtl">
-  <p>
-وَنَرَاهُ قَرِيبًا
-  </p>
-</blockquote>
+> وَنَرَاهُ قَرِيبًا
 
 Wa naraahu qariibaa.
 
 *7. but We see it as near!*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَكُونُ السَّمَاء كَالْمُهْلِ
-  </p>
-</blockquote>
+> يَوْمَ تَكُونُ السَّمَاء كَالْمُهْلِ
 
 Yawma takuunus-samaaa-’u kal-muhl,
 
 *8. (It will take place) on a Day when the sky will be like molten
 lead,*
 
-<blockquote dir="rtl">
-  <p>
-وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
-  </p>
-</blockquote>
+> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
 
 Wa takuunul - jibaali kal-‘ihn,
 
 *9. and the mountains will be like tufts of wool,*
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
-  </p>
-</blockquote>
+> وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
 
 Wa laa yas-’alu hamiimun hamiimaa,
 
 *10. and (when) no friend will ask about his friend,*
 
-<blockquote dir="rtl">
-  <p>
-يُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ
-يَوْمِئِذٍ بِبَنِيهِ
-  </p>
-</blockquote>
+> يُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ
+> يَوْمِئِذٍ بِبَنِيهِ
 
 Yubas-saruu-nahum,: ya-wad-dul-mujrimu lau yaftadii min ‘Azaabi
 Yaw-mi-’izim-bi-baniih,
@@ -999,73 +695,45 @@ Yaw-mi-’izim-bi-baniih,
 lost in sin will on that Day but desire to ransom himself from suffering
 at the price of his own children,*
 
-<blockquote dir="rtl">
-  <p>
-وَصَاحِبَتِهِ وَأَخِيهِ
-  </p>
-</blockquote>
+> وَصَاحِبَتِهِ وَأَخِيهِ
 
 Wa saahi-batiihii wa’akhiih,
 
 *12. and of his spouse, and of his brother,*
 
-<blockquote dir="rtl">
-  <p>
-وَفَصِيلَتِهِ الَّتِي تُؤْويهِ
-  </p>
-</blockquote>
+> وَفَصِيلَتِهِ الَّتِي تُؤْويهِ
 
 Wa fasiilatihii-latiii tu’-wiih,
 
 *13. and of all the kinsfolk who ever sheltered him,*
 
-<blockquote dir="rtl">
-  <p>
-وَمَن فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ
-  </p>
-</blockquote>
+> وَمَن فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ
 
 Wa man fil-’arzi jamii-‘an-thum-ma yunjiih:
 
 *14. and of whoever (else) lives on earth, all of them - so that he
 could but save himself.*
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّهَا لَظَى
-  </p>
-</blockquote>
+> كَلَّا إِنَّهَا لَظَى
 
 Kal-laa! ’in-nahaa lazaa!
 
 *15. But, nay! Verily, all (that awaits him) is a raging flame,*
 
-<blockquote dir="rtl">
-  <p>
-نَزَّاعَةً لِّلشَّوَى
-  </p>
-</blockquote>
+> نَزَّاعَةً لِّلشَّوَى
 
 Naz-zaa-‘atal-lish-shawaa!
 
 *16. tearing away his skin!*
 
-<blockquote dir="rtl">
-  <p>
-تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّى
-  </p>
-</blockquote>
+> تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّى
 
 Tad-‘uu man ’ad-bara wa tawal-laa,
 
 *17. It will claim all such as turn their backs (on what is right), and
 turn away (from the truth),*
 
-<blockquote dir="rtl">
-  <p>
-وَجَمَعَ فَأَوْعَى
-  </p>
-</blockquote>
+> وَجَمَعَ فَأَوْعَى
 
 Wa jam-‘a fa-’aw-‘aa!
 
@@ -1074,86 +742,54 @@ fellow-men).*
 
 **Surah An - Nazi’at, 79:34-41**
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاءتِ الطَّامَّةُ الْكُبْرَى
-  </p>
-</blockquote>
+> فَإِذَا جَاءتِ الطَّامَّةُ الْكُبْرَى
 
 Fa-’izaa jaaa-’atit-taaam-’matul-Kubraa,-
 
 *34. And so, when the great, overwhelming event (of resurrection) comes
 to pass -*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَتَذَكَّرُ الْإِنسَانُ مَا سَعَى
-  </p>
-</blockquote>
+> يَوْمَ يَتَذَكَّرُ الْإِنسَانُ مَا سَعَى
 
 Yawma yatazak-karul-’insaanu maa sa-‘aa,
 
 *35. on that Day man will (clearly) remember all that he has ever
 wrought;*
 
-<blockquote dir="rtl">
-  <p>
-وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَى
-  </p>
-</blockquote>
+> وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَى
 
 Wa bur-rizatil-Jahiimu liman-yaraa.
 
 *36. and the blazing fire (of hell) will be laid open before all who
 (are destined to) see it.*
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَن طَغَى
-  </p>
-</blockquote>
+> فَأَمَّا مَن طَغَى
 
 Fa-’am-maa man-taghaa,
 
 *37. For, unto him who shall have transgressed the bounds of what is
 right,*
 
-<blockquote dir="rtl">
-  <p>
-وَآثَرَ الْحَيَاةَ الدُّنْيَا
-  </p>
-</blockquote>
+> وَآثَرَ الْحَيَاةَ الدُّنْيَا
 
 Wa-’aa-tharal-hayaatad-dun-yaa,
 
 *38. and preferred the life of this world (to the good of his soul),*
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَى
-  </p>
-</blockquote>
+> فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَى
 
 Fa-’in-nal-Jahiima hiyal-ma’-waa.
 
 *39. that blazing fire will truly be the goal!*
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
 
 Wa ’am-maa man khaafa Maqaama Rab-bihii wa nahan-nafsa ‘anil-hawaa,
 
 *40. But unto him who shall have stood in fear of his Sustainer’s
 Presence, and held back his inner self from base desires,*
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى
-  </p>
-</blockquote>
+> فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى
 
 Fa-’in-nal-Jan-nata hiyal-ma’-waa.
 
@@ -1161,92 +797,56 @@ Fa-’in-nal-Jan-nata hiyal-ma’-waa.
 
 **Surah ’Abasa, 80:33-41**
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاءتِ الصَّاخَّةُ
-  </p>
-</blockquote>
+> فَإِذَا جَاءتِ الصَّاخَّةُ
 
 Fa-’izaa jaaa-’atis-Saaakh-khah,-
 
 *33. And so, when the piercing call (of resurrection) is heard,*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
-  </p>
-</blockquote>
+> يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
 
 Yawma yafir-rul-mar-’u min ’akhiihi.
 
 *34. on a Day when everyone will (want to) flee from his brother,*
 
-<blockquote dir="rtl">
-  <p>
-وَأُمِّهِ وَأَبِيهِ
-  </p>
-</blockquote>
+> وَأُمِّهِ وَأَبِيهِ
 
 Wa ’um-mihil wa ’abiihi,
 
 *35. and from his mother and father*
 
-<blockquote dir="rtl">
-  <p>
-وَصَاحِبَتِهِ وَبَنِيهِ
-  </p>
-</blockquote>
+> وَصَاحِبَتِهِ وَبَنِيهِ
 
 Wa saahiba-tihii wa baniih.
 
 *36. and from his spouse and his children:*
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
-  </p>
-</blockquote>
+> لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
 
 Li-kul-limri-’im - minhum Yawma-’izin sha’-nun-yugh-niih.
 
 *37. on that Day, to every one of them will his own state be of
 sufficient concern.*
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ
 
 Wujuu-hun-Yawma-’izim-musfirah,
 
 *38. Some faces will on that Day be bright with happiness,*
 
-<blockquote dir="rtl">
-  <p>
-ضَاحِكَةٌ مُّسْتَبْشِرَةٌ
-  </p>
-</blockquote>
+> ضَاحِكَةٌ مُّسْتَبْشِرَةٌ
 
 Zaahika-tum-mustab-shirah,
 
 *39. laughing, rejoicing at glad tidings.*
 
-<blockquote dir="rtl">
-  <p>
-وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
-  </p>
-</blockquote>
+> وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
 
 Wa wujuu-hun-Yawma-’izin ‘alayhaa ghaba-rah;
 
 *40. And some faces will on that Day with dust be covered,*
 
-<blockquote dir="rtl">
-  <p>
-تَرْهَقُهَا قَتَرَةٌ
-  </p>
-</blockquote>
+> تَرْهَقُهَا قَتَرَةٌ
 
 Tarha-quhaa qatarah:
 
@@ -1254,33 +854,21 @@ Tarha-quhaa qatarah:
 
 **Surah Al – Infitar, 82:17-19**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
 
 Wa maaa ’ad-raaka maa Yawmud-Diin?
 
 *17. And what could make thee conceive what that Judgment Day will be?*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
-  </p>
-</blockquote>
+> ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
 
 Thum-ma maaa ’ad-rakaa maa Yawmud-Diin?
 
 *18. And once again: What could make thee conceive what that Judgement
 Day will be?*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ
-لِلَّهِ
-  </p>
-</blockquote>
+> يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ
+> لِلَّهِ
 
 Yawma laa tamlik nafsul-li-nafsin-shay-’aa: wal-’Amru
 Yawma-’izil-lil-laah.
@@ -1291,51 +879,31 @@ all sovereignty is God’s alone.*
 
 **Surah Al – Ghashiyah, 88:1-16**
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
-  </p>
-</blockquote>
+> هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
 
 Hal ’ataaka hadii-thul-Ghaashiyah?
 
 *1. Has there come unto thee the tiding of the Overshadowing Event?*
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
 
 Wujuu-hun-Yawma-’izin khaashi-‘ah.
 
 *2. Some faces will on that Day be downcast,*
 
-<blockquote dir="rtl">
-  <p>
-عَامِلَةٌ نَّاصِبَةٌ
-  </p>
-</blockquote>
+> عَامِلَةٌ نَّاصِبَةٌ
 
 ‘Aamila-tun-naa-sibah.
 
 *3. toiling (under burdens of sin), worn out (by fear),*
 
-<blockquote dir="rtl">
-  <p>
-تَصْلَى نَارًا حَامِيَةً
-  </p>
-</blockquote>
+> تَصْلَى نَارًا حَامِيَةً
 
 Taslaa Naaran haamiyah,-
 
 *4. about to enter a glowing fire,*
 
-<blockquote dir="rtl">
-  <p>
-تُسْقَى مِنْ عَيْنٍ آنِيَةٍ
-  </p>
-</blockquote>
+> تُسْقَى مِنْ عَيْنٍ آنِيَةٍ
 
 Tusqaa min ‘aynin-’aaniyah,
 
@@ -1343,21 +911,13 @@ Tusqaa min ‘aynin-’aaniyah,
 *
 5. given to drink from a boiling spring
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
-  </p>
-</blockquote>
+> لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
 
 Laysa lahum ta-‘aamun ’il-laa min-Zarii‘.
 
 *6. No food for them save the bitterness of dry thorns,*
 
-<blockquote dir="rtl">
-  <p>
-لَا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
-  </p>
-</blockquote>
+> لَا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
 
 Laa usminu wa laa yughnii min juu‘
 
@@ -1365,81 +925,49 @@ Laa usminu wa laa yughnii min juu‘
 *
 7. which gives no strength and neither stills hunger.
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ
 
 Wujuu-uy-yawma-izin-naa-‘ima
 
 *8. (And) some faces will on that Day shine with bliss,*
 
-<blockquote dir="rtl">
-  <p>
-لِسَعْيِهَا رَاضِيَةٌ
-  </p>
-</blockquote>
+> لِسَعْيِهَا رَاضِيَةٌ
 
 Lisa‘-yihaa raaziya
 
 *9. well-pleased with (the fruit of) their striving,*
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّةٍ عَالِيَةٍ
-  </p>
-</blockquote>
+> فِي جَنَّةٍ عَالِيَةٍ
 
 Fii jan-natin ‘aaliya
 
 *10. in a garden sublime,*
 
-<blockquote dir="rtl">
-  <p>
-لَّا تَسْمَعُ فِيهَا لَاغِيَةً
-  </p>
-</blockquote>
+> لَّا تَسْمَعُ فِيهَا لَاغِيَةً
 
 Laa tasma-‘u fiihaa laaghiya
 
 *11. wherein thou wilt hear no empty talk.*
 
-<blockquote dir="rtl">
-  <p>
-فِيهَا عَيْنٌ جَارِيَةٌ
-  </p>
-</blockquote>
+> فِيهَا عَيْنٌ جَارِيَةٌ
 
 Fiihaa a‘iinun jaariya
 
 *12. Countless springs will flow therein,*
 
-<blockquote dir="rtl">
-  <p>
-فِيهَا سُرُرٌ مَّرْفُوعَةٌ
-  </p>
-</blockquote>
+> فِيهَا سُرُرٌ مَّرْفُوعَةٌ
 
 Fiihaa sururum-marfuu-‘aa
 
 *13. (and) there will be thrones (of happiness) raised high,*
 
-<blockquote dir="rtl">
-  <p>
-وَأَكْوَابٌ مَّوْضُوعَةٌ
-  </p>
-</blockquote>
+> وَأَكْوَابٌ مَّوْضُوعَةٌ
 
 Wa-akwaabum-mauzuu-‘aa
 
 *14. and goblets placed ready,*
 
-<blockquote dir="rtl">
-  <p>
-وَنَمَارِقُ مَصْفُوفَةٌ
-  </p>
-</blockquote>
+> وَنَمَارِقُ مَصْفُوفَةٌ
 
 Wa namaariqu masfuufa
 
@@ -1447,11 +975,7 @@ Wa namaariqu masfuufa
 *
 15. and cushions ranged,
 
-<blockquote dir="rtl">
-  <p>
-وَزَرَابِيُّ مَبْثُوثَةٌ
-  </p>
-</blockquote>
+> وَزَرَابِيُّ مَبْثُوثَةٌ
 
 Wazaraa biy-yu mab-thuutha
 
@@ -1459,34 +983,22 @@ Wazaraa biy-yu mab-thuutha
 
 **Surah Al – Fajr, 89:21-30**
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
-  </p>
-</blockquote>
+> كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
 
 Kal-laa ’izaa duk-katil-’arzu dak-kan dak-kaa,
 
 *21. Nay, but (how will you fare on Judgement Day,) when the earth is
 crushed with crushing upon crushing,*
 
-<blockquote dir="rtl">
-  <p>
-وَجَاء رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
-  </p>
-</blockquote>
+> وَجَاء رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
 
 Wa jaaa-’a Rab-buka wal-malaku saf-fan saf-faa,
 
 *22. and (the majesty of) thy Sustainer stands revealed, as well as (the
 true nature of) the angels, rank upon rank?*
 
-<blockquote dir="rtl">
-  <p>
-وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ
-وَأَنَّى لَهُ الذِّكْرَى
-  </p>
-</blockquote>
+> وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ
+> وَأَنَّى لَهُ الذِّكْرَى
 
 Wa jiii-’a Yawma-’izim-bi-Jahan-nam,-Yawma-’ izin-yatazak-karul-’insaanu
 wa ’an-naa lahuz-zikraa?
@@ -1495,74 +1007,46 @@ wa ’an-naa lahuz-zikraa?
 man will remember (all that he did and failed to do): but what will that
 remembrance avail him?*
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي
-  </p>
-</blockquote>
+> يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي
 
 Yaquulu yaalay-tanii qad-damtu li-Hayaatii!
 
 *24. He will say, “Oh, would that I had provided beforehand for my life
 (to come)!”*
 
-<blockquote dir="rtl">
-  <p>
-فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ
-  </p>
-</blockquote>
+> فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ
 
 Fa-Yawma-’izil-laayu--’za-zibu ‘Azaa-bahuuu ’ahad,
 
 *25. For, none can make suffer as He will make suffer (the sinners) on
 that Day,*
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
-  </p>
-</blockquote>
+> وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
 
 Wa laa yuu-thiqu wathaaqa-huuu ’ahad,
 
 *26. and none can bind with bonds like His.*
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
 
 Yaaa-’ay-yatuhan - Nafsul-mutma-’in-nah!
 
 *27. (But unto the righteous God will say,) “O thou human being that
 hast attained to inner peace!*
 
-<blockquote dir="rtl">
-  <p>
-ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
-  </p>
-</blockquote>
+> ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
 
 ’Irji-‘iii ‘ilaa Rab-biki raa-ziyatam-marziy-yah!
 
 *28. return thou unto thy Sustainer, well-pleased (and) pleasing (Him):*
 
-<blockquote dir="rtl">
-  <p>
-فَادْخُلِي فِي عِبَادِي
-  </p>
-</blockquote>
+> فَادْخُلِي فِي عِبَادِي
 
 Fad-khulii fii ‘Ibaadii!
 
 *29. enter, then, together with My (other true) servants -*
 
-<blockquote dir="rtl">
-  <p>
-وَادْخُلِي جَنَّتِي
-  </p>
-</blockquote>
+> وَادْخُلِي جَنَّتِي
 
 Wad-khulii Jan-natii!
 
@@ -1570,82 +1054,50 @@ Wad-khulii Jan-natii!
 
 **Surah Az – Zalzalah, 99:1-8**
 
-<blockquote dir="rtl">
-  <p>
-إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
-  </p>
-</blockquote>
+> إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
 
 ’Izaa zul-zilatil-’Arzu zilaa-lahaa
 
 *1. When the Earth quakes with her (last) mighty quaking,*
 
-<blockquote dir="rtl">
-  <p>
-وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
-  </p>
-</blockquote>
+> وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
 
 Wa ’akhra-jatil - ’Arzu ’ath-qaalahaa,
 
 *2. and (when) the earth yields up her burdens,*
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْإِنسَانُ مَا لَهَا
-  </p>
-</blockquote>
+> وَقَالَ الْإِنسَانُ مَا لَهَا
 
 Wa qaalal-’insaanu maa lahaa? –
 
 *3. and man cries out, “What has happened to her?”*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
-  </p>
-</blockquote>
+> يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
 
 Yawma - ’izin -tuhad-dithu ’akhbaa-rahaa
 
 *4. on that Day will she recount all her tidings,*
 
-<blockquote dir="rtl">
-  <p>
-بِأَنَّ رَبَّكَ أَوْحَى لَهَا
-  </p>
-</blockquote>
+> بِأَنَّ رَبَّكَ أَوْحَى لَهَا
 
 Bi-’an-na Rab-baka ’awhaa lahaa.
 
 *5. as thy Sustainer will have inspired her to do.*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ
 
 Yawma-’izin - yasdurun-naasu ’ashtaa-tal-liyuraw ’a‘-maalahum.
 
 *6. On that Day will all men come forward, cut off from one another, to
 be shown their (past) deeds.*
 
-<blockquote dir="rtl">
-  <p>
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
-  </p>
-</blockquote>
+> فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
 
 Faman-ya‘-mal mithqaala zar-ratin khay-ran-yarah!
 
 *7. And so, he who has done an atom’s weight of good, shall behold it;*
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
 
 Wa man-ya‘mal mithqaala zar-ratin shar-ran-yarah!
 
@@ -1669,113 +1121,69 @@ be able to bear the burden of the other.
 
 **Surah Al - Qari’ah, 101:1-11**
 
-<blockquote dir="rtl">
-  <p>
-الْقَارِعَةُ
-  </p>
-</blockquote>
+> الْقَارِعَةُ
 
 ’Al-Qaari-’ah:
 
 *1. Oh, the sudden calamity!*
 
-<blockquote dir="rtl">
-  <p>
-مَا الْقَارِعَةُ
-  </p>
-</blockquote>
+> مَا الْقَارِعَةُ
 
 Mal-Qaari-‘ah?
 
 *2. How awesome the sudden calamity!*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْقَارِعَةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْقَارِعَةُ
 
 Wa maa ’ad-raaka mal-Qaari-‘ah?
 
 *3. And what could make thee conceive what that sudden calamity will
 be?*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
-  </p>
-</blockquote>
+> يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
 
 Yawma yakuu-nun - naasu kal-faraashil-mab-thuuth.
 
 *4. (It will occur) on that Day when men will be like moths swarming in
 confusion,*
 
-<blockquote dir="rtl">
-  <p>
-وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
-  </p>
-</blockquote>
+> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
 
 Wa takuunul - jibbalu kal-ihnil-manfuush.
 
 *5. and the mountains will be like fluffy tufts of wool.....*
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ
-  </p>
-</blockquote>
+> فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ
 
 Fa-’am-maa man-thaqulat mawaa-ziinu-huu.
 
 *6. And then, he whose weight (of good deeds) is heavy in the balance*
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
-  </p>
-</blockquote>
+> فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
 
 Fa-huwa fii ‘Ishatir-raazi-yah.
 
 *7. shall find himself in a happy state of life;*
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
 
 Wa ’am-maa man khaf-fat mawaa-ziinu-huu.
 
 *8. whereas he whose weight is light in the balance*
 
-<blockquote dir="rtl">
-  <p>
-فَأُمُّهُ هَاوِيَةٌ
-  </p>
-</blockquote>
+> فَأُمُّهُ هَاوِيَةٌ
 
 Fa-’um-muhuu Haawiyah.
 
 *9. shall be engulfed by an abyss.*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا هِيَهْ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا هِيَهْ
 
 Wa maaa ’ad-raaka maa hiyah?
 
 *10. And what could make thee conceive what that (abyss) will be?*
 
-<blockquote dir="rtl">
-  <p>
-نَارٌ حَامِيَةٌ
-  </p>
-</blockquote>
+> نَارٌ حَامِيَةٌ
 
 Naarun haamiyah!
 
@@ -1818,12 +1226,8 @@ State of the Believers and Non Believers on the Day of Judgement
 
 **Surah Ya’Sin, 36 :51-65**
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِي الصُّورِ فَإِذَا هُم مِّنَ الْأَجْدَاثِ إِلَى رَبِّهِمْ
-يَنسِلُونَ
-  </p>
-</blockquote>
+> وَنُفِخَ فِي الصُّورِ فَإِذَا هُم مِّنَ الْأَجْدَاثِ إِلَى رَبِّهِمْ
+> يَنسِلُونَ
 
 Wa nufikha fis-Suuri fa-’izaa hum-minal-’ajdaathi ’ilaa Rab-bihim
 yansiluun!
@@ -1831,12 +1235,8 @@ yansiluun!
 *51. And (then) the trumpet (of resurrection) will be blown - and lo!
 out of their graves towards their Sustainer will they all rush forth!*
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا وَيْلَنَا مَن بَعَثَنَا مِن مَّرْقَدِنَا هَذَا مَا وَعَدَ
-الرَّحْمَنُ وَصَدَقَ الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> قَالُوا يَا وَيْلَنَا مَن بَعَثَنَا مِن مَّرْقَدِنَا هَذَا مَا وَعَدَ
+> الرَّحْمَنُ وَصَدَقَ الْمُرْسَلُونَ
 
 Qaaluu yaa-waylanaa mam-ba-‘athanaa mim-marqa-dinaa-Haazaa maa
 wa-‘adar-Rahmaanu wa sadaql-mursaluun!
@@ -1847,12 +1247,8 @@ wa-‘adar-Rahmaanu wa sadaql-mursaluun!
 *(Whereupon they will be told:) “This is what the Most Gracious has
 promised! And His message-bearers spoke the truth!”*
 
-<blockquote dir="rtl">
-  <p>
-إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا
-مُحْضَرُونَ
-  </p>
-</blockquote>
+> إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا
+> مُحْضَرُونَ
 
 ’In-kaanat ’il-laa Sayhatanw-waalidatan fa-’izaa hum jamii-‘ul-ladaynaa
 muh-zaruun!
@@ -1860,12 +1256,8 @@ muh-zaruun!
 *53. Nothing will there have been but one single blast - and lo! before
 Us will all of them be brought (and be told):*
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا
-كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا
+> كُنتُمْ تَعْمَلُونَ
 
 Fal-Yawma laa tuzlamu nafsun shay-’anw-wa laa tuj-zawna ’il-laa maa
 kuntum ta‘-maluun.
@@ -1873,65 +1265,41 @@ kuntum ta‘-maluun.
 *54. “Today, then, no human being shall be wronged in the least, nor
 shall you be requited for aught but what you were doing (on earth).*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ
-  </p>
-</blockquote>
+> إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ
 
 ’In-na ’As-haabal-Jan-natil-Yawma fii shu-ghulin-faakihuun.
 
 *55. “Behold, those who are destined for paradise shall today have joy
 in whatever they do:*
 
-<blockquote dir="rtl">
-  <p>
-هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِؤُونَ
-  </p>
-</blockquote>
+> هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِؤُونَ
 
 Hum wa ’azwaa-juhum fii zilaalin ‘alal-’araaa-’iki mut-ta-ki-’uun;
 
 *56. in happiness will they and their spouses on couches recline;*
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُم مَّا يَدَّعُونَ
-  </p>
-</blockquote>
+> لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُم مَّا يَدَّعُونَ
 
 Lahum fiihaa faakiha-tunw-wa lahum-maa yad-da-‘uun.
 
 *57. (only) delight will there be for them, and theirs shall be all that
 they could ask for:*
 
-<blockquote dir="rtl">
-  <p>
-سَلَامٌ قَوْلًا مِن رَّبٍّ رَّحِيمٍ
-  </p>
-</blockquote>
+> سَلَامٌ قَوْلًا مِن رَّبٍّ رَّحِيمٍ
 
 “Salaam!” - Qawlam-mir Rab-bir-Rahiim!
 
 *58. peace and fulfilment through the word of a Sustainer who dispenses
 all grace.*
 
-<blockquote dir="rtl">
-  <p>
-وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
 
 Wamtaazul-Yawma ’ay-yuhal-muj-rimuun!
 
 *59. “But stand aside today, O you who were lost in sin!*
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
 
 ’Alam ’a‘had ’ilaykum yaa-Baniii-’Aadama ’al-laa ta‘bu-dush-Shaytaan;
 ’in-nahuu lakum ‘aduw-wun-mubiin?-
@@ -1939,23 +1307,15 @@ Wamtaazul-Yawma ’ay-yuhal-muj-rimuun!
 *60. Did I not enjoin on you, O you children of Adam, that you should
 not worship Satan - since, verily he is your open foe -*
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ اعْبُدُونِي هَذَا صِرَاطٌ مُّسْتَقِيمٌ
-  </p>
-</blockquote>
+> وَأَنْ اعْبُدُونِي هَذَا صِرَاطٌ مُّسْتَقِيمٌ
 
 Wa ’ani-buduunii. Haazaa Siraatum-Mustaqiim.
 
 *61. and that you should worship Me (alone)? This would have been a
 straight way!*
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيراً أَفَلَمْ تَكُونُوا
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيراً أَفَلَمْ تَكُونُوا
+> تَعْقِلُونَ
 
 Wa laqad ’azal-la minkum jibil-lan kathiiraa. ’Afalam takuunuu
 ta‘qiluun?
@@ -1963,39 +1323,23 @@ ta‘qiluun?
 *62. And (as for Satan -) he had already led astray a great many of you:
 could you not, then, use your reason?*
 
-<blockquote dir="rtl">
-  <p>
-هَذِهِ جَهَنَّمُ الَّتِي كُنتُمْ تُوعَدُونَ
-  </p>
-</blockquote>
+> هَذِهِ جَهَنَّمُ الَّتِي كُنتُمْ تُوعَدُونَ
 
 Haazihii Jahan-namul-latii kuntum tuu-‘aduun!
 
 *63. “This, then, is the hell of which you were warned again and again:*
 
-<blockquote dir="rtl">
-  <p>
-اصْلَوْهَا الْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ
-  </p>
-</blockquote>
+> اصْلَوْهَا الْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ
 
 ’Islau-hal-Yawma bimaa kuntum takfuruun.
 
 *64. endure it today as an outcome of your persistent denial of the
 truth!”*
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
-وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا
-  </p>
-</blockquote>
+> الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
+> وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا
 
-<blockquote dir="rtl">
-  <p>
-يَكْسِبُونَ
-  </p>
-</blockquote>
+> يَكْسِبُونَ
 
 ’Al-Yawma nakhtimu ‘alaaa ’afwaahihim wa tukal-limunaaa ’aydiihim wa
 tash-hadu ’ajruluhum-bimaa kaanuu yaksibuun.
@@ -2009,29 +1353,17 @@ Man’s limbs will be his witness on the Day of Judgement
 
 **Surah Fussilat, 41:19-23**
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُحْشَرُ أَعْدَاء اللَّهِ إِلَى النَّارِ فَهُمْ يُوزَعُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُحْشَرُ أَعْدَاء اللَّهِ إِلَى النَّارِ فَهُمْ يُوزَعُونَ
 
 Wa Yawmayuh-sharo ’a‘-adaaa-’ul-laahi ’ilan-Naad fahum yuuza-‘uun.
 
 *19. Hence, (warn all men of) the Day when the enemies of God shall be
 gathered together before the fire, and then shall be driven onward,*
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى إِذَا مَا جَاؤُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ
-وَأَبْصَارُهُمْ وَجُلُودُهُمْ بِمَا كَانُوا
-  </p>
-</blockquote>
+> حَتَّى إِذَا مَا جَاؤُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ
+> وَأَبْصَارُهُمْ وَجُلُودُهُمْ بِمَا كَانُوا
 
-<blockquote dir="rtl">
-  <p>
-يَعْمَلُونَ
-  </p>
-</blockquote>
+> يَعْمَلُونَ
 
 Hat-taaa ’izaa - maa jaaa-uuhaa shahida ‘alayhim sam-‘uhum wa
 ’absaa-ruhum wa juluu-duhum-bimaa kaanuu ya‘maluun,
@@ -2040,13 +1372,9 @@ Hat-taaa ’izaa - maa jaaa-uuhaa shahida ‘alayhim sam-‘uhum wa
 their (very) skins will bear witness against them, speaking of what they
 were doing (on earth).*
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا قَالُوا أَنطَقَنَا
-اللَّهُ الَّذِي أَنطَقَ كُلَّ شَيْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ
-وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا قَالُوا أَنطَقَنَا
+> اللَّهُ الَّذِي أَنطَقَ كُلَّ شَيْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ
+> وَإِلَيْهِ تُرْجَعُونَ
 
 Wa qaaluu lijuluu-dihim lima shahit-tum ‘alaynaa? Qaa-luuu ‘antaqakul-la
 shay-’inw-wa ’antaqakil-la shay-’inw-wa Huwa khala-qakum ’aw-wala
@@ -2057,13 +1385,9 @@ us?” - (and) these will reply: “God, who gives speech to all things, has
 given speech to us (as well): for He (it is who) has created you in the
 first instance - and unto Him you are (now) brought back.*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنتُمْ تَسْتَتِرُونَ أَنْ يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَا
-أَبْصَارُكُمْ وَلَا جُلُودُكُمْ وَلَكِن ظَنَنتُمْ أَنَّ اللَّهَ لَا
-يَعْلَمُ كَثِيراً مِّمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَمَا كُنتُمْ تَسْتَتِرُونَ أَنْ يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَا
+> أَبْصَارُكُمْ وَلَا جُلُودُكُمْ وَلَكِن ظَنَنتُمْ أَنَّ اللَّهَ لَا
+> يَعْلَمُ كَثِيراً مِّمَّا تَعْمَلُونَ
 
 Wa maa kuntum tastatiruuna ’an-yash-hada ‘alaykum sam-‘ukum wa laaa
 ‘absaarukum wa laa juluu-dukum wa laakin zanan-tum ’an-nal-laaha laa
@@ -2073,12 +1397,8 @@ ya‘-lamu kathiiram-mim-maa ta‘-maluun!
 sight or your skins bear witness against you: nay, but you thought that
 God did not know much of what you were doing -*
 
-<blockquote dir="rtl">
-  <p>
-وَذَلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنتُم بِرَبِّكُمْ أَرْدَاكُمْ
-فَأَصْبَحْتُم مِّنْ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَذَلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنتُم بِرَبِّكُمْ أَرْدَاكُمْ
+> فَأَصْبَحْتُم مِّنْ الْخَاسِرِينَ
 
 Wa zaalikum zan-nukumul-lazii zanan-tum-bi-Rab-bikum ’ardaakum
 fa-‘asbahtum-minal-khaasiriin.
@@ -2092,114 +1412,70 @@ Division of Mankind into three groups on the Day of Judgement
 
 **Surah Al - Waqi’ah, 56:4-14**
 
-<blockquote dir="rtl">
-  <p>
-إِذَا رُجَّتِ الْأَرْضُ رَجًّا
-  </p>
-</blockquote>
+> إِذَا رُجَّتِ الْأَرْضُ رَجًّا
 
 ’Izaa nuj-jatil-’arzu raj-jaa,
 
 *4. When the earth is shaken with a shaking (severe),*
 
-<blockquote dir="rtl">
-  <p>
-وَبُسَّتِ الْجِبَالُ بَسًّا
-  </p>
-</blockquote>
+> وَبُسَّتِ الْجِبَالُ بَسًّا
 
 Wa bus-satil-jibaalu bas-saa,
 
 *5. and the mountains are shattered into (countless) shards,*
 
-<blockquote dir="rtl">
-  <p>
-فَكَانَتْ هَبَاء مُّنبَثًّا
-  </p>
-</blockquote>
+> فَكَانَتْ هَبَاء مُّنبَثًّا
 
 Fakaanat habaaa-’am-mum-bath-thaa,
 
 *6. so that they become as scattered dust -*
 
-<blockquote dir="rtl">
-  <p>
-وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً
-  </p>
-</blockquote>
+> وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً
 
 Wa kuntum ’azwaajan-thalaathah.
 
 *7. (on that Day), then, shall you be (divided into) three kinds.*
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ
-  </p>
-</blockquote>
+> فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ
 
 Fa-’As-haabul-May-manah: Maaa ’As-haabul-May-manah?
 
 *8. Thus, there shall be such as will have attained to what is right:
 Oh, how (happy) will be they who have attained to what is right!*
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
-  </p>
-</blockquote>
+> وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
 
 Wa as-haabul mash-amah: maaa as-haabul mash-amah?
 
 *9. And there shall be such as will have lost themselves in evil: Oh,
 how (unhappy) will be they who* *have lost themselves to evil!*
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ السَّابِقُونَ
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ السَّابِقُونَ
 
 Was-Saabiquu-nas-Saabiquun.
 
 *10. But the foremost shall be (they who in life were) the foremost (in
 faith and good works):*
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الْمُقَرَّبُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ الْمُقَرَّبُونَ
 
 ’Ulaaa-’ikal-Muqar-rabuun:
 
 *11. they who were (always) drawn close unto God!*
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> فِي جَنَّاتِ النَّعِيمِ
 
 Fii Jan-naatin-Na-‘iim:
 
 *12. In gardens of bliss (will they dwell) -*
 
-<blockquote dir="rtl">
-  <p>
-ثُلَّةٌ مِّنَ الْأَوَّلِينَ
-  </p>
-</blockquote>
+> ثُلَّةٌ مِّنَ الْأَوَّلِينَ
 
 Thul-latum-minal-’aw-waliin.
 
 *13. a good many of those olden times,*
 
-<blockquote dir="rtl">
-  <p>
-وَقَلِيلٌ مِّنَ الْآخِرِينَ
-  </p>
-</blockquote>
+> وَقَلِيلٌ مِّنَ الْآخِرِينَ
 
 Wa qali-lum-minal-’aa-khiriin.
 
@@ -2210,12 +1486,8 @@ Intercession will be permitted by Allah on the Day of Judgement
 
 **Surah An – Najm, 53:26**
 
-<blockquote dir="rtl">
-  <p>
-وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا
-إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَاء وَيَرْضَى
-  </p>
-</blockquote>
+> وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا
+> إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَاء وَيَرْضَى
 
 Wa kam-mim-malakin-fis-samaa-waati laa tugh-nil shafaa-‘atuhum shay-’an
 ’il-laa mim-ba‘-di ’an-ya’-zanal-laahu liman-yashaaa’u wa yarzaa.-
@@ -2230,12 +1502,8 @@ Intercession will be accepted from His selected people
 
 **Surah Az – Zumar, 39:44**
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا لَّهُ مُلْكُ السَّمَاوَاتِ
-وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا لَّهُ مُلْكُ السَّمَاوَاتِ
+> وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
 Qul-lil-laahish-Shafaa-‘atu jamii-‘aa: lahuu mulkus-samaa-waati
 wal-‘arz: thum-ma ’ilayhi turja-’uun.
@@ -2249,13 +1517,9 @@ The inheritors of Paradise
 
 **Surah Ash – Shura, 42:36-39**
 
-<blockquote dir="rtl">
-  <p>
-فَمَا أُوتِيتُم مِّن شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَمَا
-عِندَ اللَّهِ خَيْرٌ وَأَبْقَى لِلَّذِينَ آمَنُوا وَعَلَى رَبِّهِمْ
-يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> فَمَا أُوتِيتُم مِّن شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَمَا
+> عِندَ اللَّهِ خَيْرٌ وَأَبْقَى لِلَّذِينَ آمَنُوا وَعَلَى رَبِّهِمْ
+> يَتَوَكَّلُونَ
 
 Famaa ’uutiitum-min-shay-’ in-famataa- ‘ul-bayaatid-dunyaa: wa maa
 ‘indal-lahi khay-runw-wa ‘abqaa lil-laziina ’aamanuu wa ‘alaa Rab-bihim
@@ -2268,18 +1532,10 @@ God is far better and more enduring.*
 *(It shall be given) to all who attain to faith and in their Sustainer
 place their trust;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا
-مَا غَضِبُوا هُمْ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا
+> مَا غَضِبُوا هُمْ
 
-<blockquote dir="rtl">
-  <p>
-يَغْفِرُونَ
-  </p>
-</blockquote>
+> يَغْفِرُونَ
 
 Wal-laziina yajto-nibuuna kabaaa-’iral-’ithmi wal-fawaa-hisha wa ’izaa
 maa ghazibuu hum yaghfiruun.
@@ -2287,12 +1543,8 @@ maa ghazibuu hum yaghfiruun.
 *37. and who shun the more heinous sins and abominations; and who,
 whenever they are moved to anger, readily forgive;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ
-وَأَمْرُهُمْ شُورَى بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ
+> وَأَمْرُهُمْ شُورَى بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
 
 Wal-laziinas-tajaa-buu li-Rab-bihim wa ’aqaamus-Salaah; wa ’amruhum
 Shuuraa bay-nahum wa mim-maa razaq-naahum yunfiquun;
@@ -2302,11 +1554,7 @@ in prayer; and whose rule (in all matters of common concern) is
 consultation among themselves; and who spend on others out of what We
 provide for them as sustenance;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ
 
 Wal-laziina ’izaa ’asaabahumul-bagh-yu hum yantasiruun.
 
@@ -2337,62 +1585,38 @@ away the coat also if the cloak has already been taken away by force’.*
 
 **Surah Al - Mu’minun, 23:1-11**
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ
 
 Qad ’aflahal-mu’minuun,
 
 *1. Truly, to a happy state shall attain the believers :*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ
 
 ’Al-laziina hum fii Salaati-him khaashi-‘uun;
 
 *2. those who humble themselves in their prayer*[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ
 
 Wal-laziina hum a‘nil-laghwi mu’ri-zuun;
 
 *3. and who turn away from all that is frivolous,*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ
 
 Wal-laziina hum liz-Zakaati-fa-‘iluun;
 
 *4. and who are intent on inner purity*[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
 
 Wal-laziina hum li-furuujihim haafizuun,
 
 *5. and who are mindful of their chastity,*[^3]
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا عَلَى أَزْوَاجِهِمْ أوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ
-غَيْرُ مَلُومِينَ
-  </p>
-</blockquote>
+> إِلَّا عَلَى أَزْوَاجِهِمْ أوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ
+> غَيْرُ مَلُومِينَ
 
 ’Il-laa ‘alaaa ’azwaa-jihim ’aw maa malakat ’aymaanuhum fa-’in-nahum
 ghayru maluumin.
@@ -2401,52 +1625,32 @@ ghayru maluumin.
 is, those whom they rightfully possess (through wedlock) - for then,
 behold, they are free of all blame,*
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ ابْتَغَى وَرَاء ذَلِكَ فَأُوْلَئِكَ هُمُ الْعَادُونَ
-  </p>
-</blockquote>
+> فَمَنِ ابْتَغَى وَرَاء ذَلِكَ فَأُوْلَئِكَ هُمُ الْعَادُونَ
 
 Famanib-taghaa waraaa-’a zaalika fa’ulaaa-’ika humul-‘aaduun.
 
 *7. whereas such as seek to go beyond that (limit) are truly
 transgressors;*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
 
 Wal-laziina hom li-amaa-naa-tihim wa ah-dihim raa-uun.
 
 *8. and who are faithful to their trusts and to their pledges,*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ عَلَى صَلَوَاتِهِمْ يُحَافِظُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ عَلَى صَلَوَاتِهِمْ يُحَافِظُونَ
 
 Wal-laziina hom alaa salawaa-tihim yoha-fizuun.
 
 *9. and who guard their prayers (from all worldly intent)*[^4],
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ هُمُ الْوَارِثُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ هُمُ الْوَارِثُونَ
 
 Ulaa-ika homul waa-rithuun.
 
 *10. It is they, they who shall be the inheritors*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ
 
 Al-laziina yarithu-nal Firdausa, hom fiiha khaa-liduun.
 
@@ -2460,144 +1664,88 @@ Hell-Fire - the final resort of the evil doers and the unbelievers
 
 **Surah Al – Muddaththir, 74:35-48**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا لَإِحْدَى الْكُبَرِ
-  </p>
-</blockquote>
+> إِنَّهَا لَإِحْدَى الْكُبَرِ
 
 ’In-nahaa La-’ihdal-kubar.
 
 *35. Verily, that (hell-fire) is indeed one of the great (forewarnings)*
 
-<blockquote dir="rtl">
-  <p>
-نَذِيرًا لِّلْبَشَرِ
-  </p>
-</blockquote>
+> نَذِيرًا لِّلْبَشَرِ
 
 Naziiral-lil-bashar,-
 
 *36. a warning to mortal man -*
 
-<blockquote dir="rtl">
-  <p>
-لِمَن شَاء مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
-  </p>
-</blockquote>
+> لِمَن شَاء مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
 
 Liman shaaa-’a minkum ’an-yata-qad-dama ’aw yata-’akh-khar;
 
 *37. o every one of you, whether he chooses to come forward or to hang
 back!*
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
 
 Kul-lu nafsim-bimaa kasabat rahiinah,
 
 *38.(On the Day of Judgement,) every human being will be held in pledge
 for whatever (evil) he has wrought-*
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا أَصْحَابَ الْيَمِينِ
-  </p>
-</blockquote>
+> إِلَّا أَصْحَابَ الْيَمِينِ
 
 ’Il-lasa ’As-haabal-yamiin.
 
 *39. save only those who shall have attained to righteousness:*
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتٍ يَتَسَاءلُونَ
-  </p>
-</blockquote>
+> فِي جَنَّاتٍ يَتَسَاءلُونَ
 
 Fil Jan-naa-tin-yata-saaa-’aluun
 
 *40. (dwelling) in gardens (of paradise), they will inquire*
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْمُجْرِمِينَ
-  </p>
-</blockquote>
+> عَنِ الْمُجْرِمِينَ
 
 ‘Anil-mujrimiin:
 
 *41. of those who were lost in sin:*
 
-<blockquote dir="rtl">
-  <p>
-مَا سَلَكَكُمْ فِي سَقَرَ
-  </p>
-</blockquote>
+> مَا سَلَكَكُمْ فِي سَقَرَ
 
 Maa salaka-kum fii Saqar?
 
 *42. “What has brought you into hell-fire?”*
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
-  </p>
-</blockquote>
+> قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
 
 Qaaluu lam naku minal-Musal-liin.
 
 *43. They will answer: “ We were not among those who prayed,*
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
-  </p>
-</blockquote>
+> وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
 
 Wa lam naku nut - ‘imul-Miskiin;
 
 *44. and neither did we feed the needy;*
 
-<blockquote dir="rtl">
-  <p>
-وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ
-  </p>
-</blockquote>
+> وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ
 
 Wa kun-naa nakhuuzu ma’al-khaa-’iziin.
 
 *45. and we were wont to indulge in sinning together with all (the
 others) who indulged in it;*
 
-<blockquote dir="rtl">
-  <p>
-وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ
 
 Wa kun-naa nukaz-zibu bi-Yawmid-Diin
 
 *46. and the Day of Judgement we were wont to lie -*
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى أَتَانَا الْيَقِينُ
-  </p>
-</blockquote>
+> حَتَّى أَتَانَا الْيَقِينُ
 
 Hat-taaa ’ataanal-yaqiin.
 
 *47. until certainty came upon us (in death).”*
 
-<blockquote dir="rtl">
-  <p>
-فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
-  </p>
-</blockquote>
+> فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
 
 Famaa tanfa-‘uhum shafaa‘atush-shaafi-‘iin.
 
@@ -2614,13 +1762,9 @@ Condition of unbelievers in Hell
 
 **Surah Al – Hajj, 22:19-22**
 
-<blockquote dir="rtl">
-  <p>
-هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا
-قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُؤُوسِهِمُ
-الْحَمِيمُ
-  </p>
-</blockquote>
+> هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا
+> قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُؤُوسِهِمُ
+> الْحَمِيمُ
 
 Hazaa-ni khas-ma-nikh-tasa-mu fi rab-bihim; Fal-lazii-na kafa-ru
 qot-ti-at lahum thia-bum min naa-rin yusab-bo min fau-qi ro-usihim-ul
@@ -2630,39 +1774,23 @@ hamiim.
 garments of fire shall be cut out for them (in the life to come);
 boiling water will be poured over their heads,*
 
-<blockquote dir="rtl">
-  <p>
-يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
-  </p>
-</blockquote>
+> يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
 
 Yos-haro bihii maa fi botunihim wal-joludo
 
 *20. causing all that is within their bodies, as well as the skins, to
 melt away.*
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
-  </p>
-</blockquote>
+> وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
 
 Wa lahum maqa-mi-o min hadiid.
 
 *21. And they shall be held (in this state as if) by iron grips;*
 
-<blockquote dir="rtl">
-  <p>
-كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
-وَذُوقُوا عَذَابَ
-  </p>
-</blockquote>
+> كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+> وَذُوقُوا عَذَابَ
 
-<blockquote dir="rtl">
-  <p>
-الْحَرِيقِ
-  </p>
-</blockquote>
+> الْحَرِيقِ
 
 Kul-lamaa araa-duu an yakhroju min-ha min gham-min o-iidu fiiha wa zuqu
 asaa-bal hariiq.
@@ -2759,5 +1887,4 @@ who respects the orphans and act as a kind father to them, and for the
 widows he is like a tender husband. The one who are these qualities, if
 he calls Me, I will answer him at once and if he asks Me (for anything)
 I will give him.”
-
 

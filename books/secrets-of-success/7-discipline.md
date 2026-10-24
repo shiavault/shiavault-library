@@ -66,4 +66,3 @@ view it is not correct to delay anything.”
 surprises me because the value of time becomes more than gold if
 everything is done in time.
 
-

@@ -806,4 +806,3 @@ Those might have passed the road of history; nothing is left of them
 except views based on studies, thinking and experiences. No doubt some
 of their actions are acceptable while others are rejected.
 
-

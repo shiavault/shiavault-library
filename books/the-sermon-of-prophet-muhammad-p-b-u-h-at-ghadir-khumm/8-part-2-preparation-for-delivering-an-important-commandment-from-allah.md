@@ -131,4 +131,3 @@ at all, and Allah shall protect you from (evil) people.”1
 
 1 Chapter 5, Verse 67 of the Holy Quran.
 
-

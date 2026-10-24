@@ -319,4 +319,3 @@ individuals of one or several whatnesses of the same degree differ in
 their grades [of being]; rather the differences among them are to be
 considered distinctions with the entirety of their simple existences.
 
-

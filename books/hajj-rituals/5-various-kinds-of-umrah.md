@@ -107,4 +107,3 @@ of Thil Hijjah, he is permitted to treat it as Umrat-ut-Tamatu' and
 perform obligatory pilgrimage. However, there is no difference in this
 regard between an obligatory pilgrimage and an optional one.
 
-

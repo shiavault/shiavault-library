@@ -62,8 +62,8 @@ said before.[^41]
 
 **Notes:**
 
-[^40] Al-Musnad, hadith no. 1608 (Ahmad Sha-kir).
-[^41] Muslim bin Hajja-j, al-Ja-mi‘ al-Sahi-h, vol. 2, pp. 236-237,
+[^40]: Al-Musnad, hadith no. 1608 (Ahmad Sha-kir).
+[^41]: Muslim bin Hajja-j, al-Ja-mi‘ al-Sahi-h, vol. 2, pp. 236-237,
 Bulaq Press, Cairo, 1290 AH; Muhammad bin ‘Isa- Tirmidhi-: al-Sunan
 (al-Ja-mi‘ al-Sahi-h), vol. 4, pp. 329-330, printed in India, 1328.
 

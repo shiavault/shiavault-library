@@ -273,4 +273,3 @@ world."[^10]
 
 [^10]: al-Kulayni, al-Kafi, Vol. II, p. 179.
 
-

@@ -172,4 +172,3 @@ of guidance. It would not tolerate a breach of unity among the believers
 or a limitation of its universal message and validity. Hence, it rejects
 nationalism and is in turn rejected by it.
 
-

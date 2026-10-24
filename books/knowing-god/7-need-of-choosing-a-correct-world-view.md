@@ -160,4 +160,3 @@ and which specifies the dos and don’ts and values and that is why it is
 considered to be an effect of the world view. In this book we have used
 the word of ideology in this sense.
 
-

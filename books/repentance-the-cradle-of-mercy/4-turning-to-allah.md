@@ -1135,4 +1135,3 @@ Anwar, Warram Collection, Nahjol Balagha, Ghurarul Hikam.
 
 [^39]: Majma’ul Bayan, vol. 10 p.361.
 
-

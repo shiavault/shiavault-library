@@ -1292,4 +1292,3 @@ From Khawāss al-Qur'an.
 
 [^54]: Ghurar al-Hikam, ch. 3, letter R, hadīth 1.
 
-

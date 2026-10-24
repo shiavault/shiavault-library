@@ -7,21 +7,13 @@ has written in Jamaal al-Usboo. He writes, ‘From the duties of Thursday,
 it is recommended to send blessings on the Holy Prophet (S) a thousand
 times, and it is recommended that one should say:
 
-<blockquote dir="rtl">
-  <p>
- اللهم صل على محمد وآل محمد وعجل فرجهم
-  </p>
-</blockquote>
+>  اللهم صل على محمد وآل محمد وعجل فرجهم
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance.
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وآل محمد، وعجل فرجهم، وأهلك عدوهم من الجن والانس من
-الأولين والآخرين.
-  </p>
-</blockquote>
+> اللهم صل على محمد وآل محمد، وعجل فرجهم، وأهلك عدوهم من الجن والانس من
+> الأولين والآخرين.
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance. And destroy their enemies, from the Jinns and humans; from
@@ -45,5 +37,4 @@ would prolong the discussion.
 
 [^2]: Kafi, Vol. 1, Pg. 219; Basairud Darajaat, Pg. 424; Tafseer
 Al-Burhan; Vol. 2/157
-
 

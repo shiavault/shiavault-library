@@ -8,14 +8,10 @@ them. These, of course, were the most senior Sahabah – from the
 Muhajirun, the Ansar and some others. Writing about these people, Shaykh
 Ibn Taymiyyah (d. 728 H) says:
 
-<blockquote dir="rtl">
-  <p>
-ثم إن المسلمين بايعوه و دخلوا في طاعته و الذين بايعوه هم الذين بايعوا
-رسول الله صلى الله عليه و سلم تحت الشجرة و هم السابقون الأولون من
-المهاجرين و الأنصار و الذين اتبعوهم بإحسان رضي الله عنهم و رضوا عنه و
-هم أهل الإيمان و الهجرة و الجهاد و لم يتخلف عن بيعته إلا سعد بن عبادة
-  </p>
-</blockquote>
+> ثم إن المسلمين بايعوه و دخلوا في طاعته و الذين بايعوه هم الذين بايعوا
+> رسول الله صلى الله عليه و سلم تحت الشجرة و هم السابقون الأولون من
+> المهاجرين و الأنصار و الذين اتبعوهم بإحسان رضي الله عنهم و رضوا عنه و
+> هم أهل الإيمان و الهجرة و الجهاد و لم يتخلف عن بيعته إلا سعد بن عبادة
 
 Besides, the Muslims gave ba’yah to him (i.e. Abu Bakr) and obeyed him.
 Those who gave ba’yah to him were those same who gave ba’yah to the
@@ -36,16 +32,12 @@ Meanwhile, we have Sunni reports which also identify some of these
 Sahabah by name with various other bid’ahs. Imam Muslim (d. 261 H)
 records one of them:
 
-<blockquote dir="rtl">
-  <p>
-وحدثنا محمد بن المثنى وابن بشار قال ابن المثنى حدثنا محمد بن جعفر
-حدثنا شعبة عن الحكم عن عمارة بن عمير عن إبراهيم بن أبي موسى عن أبي
-موسى أنه كان يفتي بالمتعة فقال له رجل رويدك ببعض فتياك فإنك لا تدري ما
-أحدث أمير المؤمين في النسك بعد حتى لقيه بعد فسأله فقال عمر قد علمت أن
-النبي صلى الله عليه و سلم قد فعله وأصحابه ولكن كرهت أن يظلوا معرسين
-بهن في الأراك ثم يروحون في الحج تقطر رؤسهم
-  </p>
-</blockquote>
+> وحدثنا محمد بن المثنى وابن بشار قال ابن المثنى حدثنا محمد بن جعفر
+> حدثنا شعبة عن الحكم عن عمارة بن عمير عن إبراهيم بن أبي موسى عن أبي
+> موسى أنه كان يفتي بالمتعة فقال له رجل رويدك ببعض فتياك فإنك لا تدري ما
+> أحدث أمير المؤمين في النسك بعد حتى لقيه بعد فسأله فقال عمر قد علمت أن
+> النبي صلى الله عليه و سلم قد فعله وأصحابه ولكن كرهت أن يظلوا معرسين
+> بهن في الأراك ثم يروحون في الحج تقطر رؤسهم
 
 Muhammad b. al-Muthanna and Ibn Bashar – Muhammad b. Ja’far – Shu’bah –
 al-Hakam – ‘Amarah b. ‘Umayr – Ibrahim b. Abi Musa – Abu Musa:
@@ -61,21 +53,17 @@ for Hajj with water trickling from their heads.”[^4]
 
 Imam Ahmad (d. 241 H) documents a fuller version:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرزاق أنا الثوري عن قيس بن مسلم عن
-طارق بن شهاب عن أبي موسى الأشعري قال …ما زلت أفتي الناس بالذي أمرني
-رسول الله صلى الله عليه و سلم حتي توفي ثم زمن أبي بكر رضي الله تعالى
-عنه ثم زمن عمر رضي الله تعالى عنه فبينا أنا قائم عند الحجر الأسود أو
-المقام أفتي الناس بالذي أمرني به رسول الله صلى الله عليه و سلم إذ
-أتاني رجل فسارني فقال لا تعجل بفتياك فان أمير المؤمنين قد أحدث في
-المناسك شيئا فقلت أيها الناس من كنا أفتيناه في المناسك شيئا فليتئد فإن
-أمير المؤمنين قادم فبه فأتموا قال فقدم عمر رضي الله تعالى عنه فقلت يا
-أمير المؤمنين هل أحدثت في المناسك شيئا قال نعم إن نأخذ بكتاب الله عز و
-جل فإنه يأمر بالتمام وإن نأخذ بسنة نبينا صلى الله عليه و سلم فإنه لم
-يحلل حتى نحر الهدي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرزاق أنا الثوري عن قيس بن مسلم عن
+> طارق بن شهاب عن أبي موسى الأشعري قال …ما زلت أفتي الناس بالذي أمرني
+> رسول الله صلى الله عليه و سلم حتي توفي ثم زمن أبي بكر رضي الله تعالى
+> عنه ثم زمن عمر رضي الله تعالى عنه فبينا أنا قائم عند الحجر الأسود أو
+> المقام أفتي الناس بالذي أمرني به رسول الله صلى الله عليه و سلم إذ
+> أتاني رجل فسارني فقال لا تعجل بفتياك فان أمير المؤمنين قد أحدث في
+> المناسك شيئا فقلت أيها الناس من كنا أفتيناه في المناسك شيئا فليتئد فإن
+> أمير المؤمنين قادم فبه فأتموا قال فقدم عمر رضي الله تعالى عنه فقلت يا
+> أمير المؤمنين هل أحدثت في المناسك شيئا قال نعم إن نأخذ بكتاب الله عز و
+> جل فإنه يأمر بالتمام وإن نأخذ بسنة نبينا صلى الله عليه و سلم فإنه لم
+> يحلل حتى نحر الهدي
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Razzaq –
 al-Thawri – Qays b. Muslim – Tariq b. Shihab – Abu Musa al-Ash’ari:
@@ -102,25 +90,17 @@ him, did not put off ihram till he had sacrificed the animal.”[^5]
 
 Al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is sahih upon the standard of the two Shaykhs.[^6]
 
 But, what exactly was this self-confessed “innovation” of ‘Umar in the
 Hajj rites? Imam al-Nasai (d. 303 H) records the answer:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا محمد بن علي بن الحسن بن شقيق قال أنبأنا أبي قال أنبأنا أبو حمزة
-عن مطرف عن سلمة بن كهيل عن طاوس عن بن عباس قال سمعت عمر يقول والله إني
-لأنهاكم عن المتعة وإنها لفي كتاب الله ولقد فعلها رسول الله صلى الله
-عليه و سلم يعني العمرة في الحج
-  </p>
-</blockquote>
+> أخبرنا محمد بن علي بن الحسن بن شقيق قال أنبأنا أبي قال أنبأنا أبو حمزة
+> عن مطرف عن سلمة بن كهيل عن طاوس عن بن عباس قال سمعت عمر يقول والله إني
+> لأنهاكم عن المتعة وإنها لفي كتاب الله ولقد فعلها رسول الله صلى الله
+> عليه و سلم يعني العمرة في الحج
 
 Muhammad b. ‘Ali b. al-Hasan b. Shaqiq – my father – Abu Hamzah –
 Mutarrif – Salamah b. Kuhayl – Tawus – Ibn ‘Abbas:
@@ -132,11 +112,7 @@ of Allah, peace be upon him, practised it.” He meant the performance of
 
 ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح الإسناد
-  </p>
-</blockquote>
+> صحيح الإسناد
 
 It has a sahih chain[^8]
 
@@ -161,14 +137,10 @@ Another senior Sahabi whose bid’ah became apparent was ‘Uthman b.
 ‘Affan, the third Sunni khalifah. After the death of ‘Umar, he carried
 on the former’s bid’ah, as Imam Muslim documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن المثنى وابن بشار قال ابن المثنى حدثنا محمد بن جعفر حدثنا
-شعبة عن قتادة قال قال عبدالله ابن شقيق كان عثمان ينهى عن المتعة وكان
-علي يأمر بها فقال عثمان لعلي كلمة ثم قال علي لقد علمت أنا قد تمتعنا مع
-رسول الله صلى الله عليه و سلم فقال أجل ولكنا كنا خائفين
-  </p>
-</blockquote>
+> حدثنا محمد بن المثنى وابن بشار قال ابن المثنى حدثنا محمد بن جعفر حدثنا
+> شعبة عن قتادة قال قال عبدالله ابن شقيق كان عثمان ينهى عن المتعة وكان
+> علي يأمر بها فقال عثمان لعلي كلمة ثم قال علي لقد علمت أنا قد تمتعنا مع
+> رسول الله صلى الله عليه و سلم فقال أجل ولكنا كنا خائفين
 
 Muhammad b. al-Muthanna and Ibn Bashar – Muhammad b. Ja’far – Shu’bah –
 Qatadah – ‘Abd Allah b. Shaqiq:
@@ -186,16 +158,12 @@ ridiculous revision of history. Besides, ‘Umar himself named it an
 innovation. So, ‘Uthman had no real defence whatsoever. Imam Ahmad also
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا محمد بن جعفر ثنا شعبة عن الحكم عن على بن
-الحسين عن مروان بن الحكم انه قال شهدت عليا وعثمان رضي الله عنهما بين
-مكة والمدينة وعثمان ينهى عن المتعة وان يجمع بينهما فلما رأى ذلك على
-رضي الله عنه أهل بهما فقال لبيك بعمرة وحج معا فقال عثمان رضي الله عنه
-تراني أنهى الناس عنه وأنت تفعله قال لم أكن أدع سنة رسول الله صلى الله
-عليه و سلم لقول أحد من الناس
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا محمد بن جعفر ثنا شعبة عن الحكم عن على بن
+> الحسين عن مروان بن الحكم انه قال شهدت عليا وعثمان رضي الله عنهما بين
+> مكة والمدينة وعثمان ينهى عن المتعة وان يجمع بينهما فلما رأى ذلك على
+> رضي الله عنه أهل بهما فقال لبيك بعمرة وحج معا فقال عثمان رضي الله عنه
+> تراني أنهى الناس عنه وأنت تفعله قال لم أكن أدع سنة رسول الله صلى الله
+> عليه و سلم لقول أحد من الناس
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Muhammad b. Ja’far
 – Shu’bah – al-Hakam – ‘Ali b. al-Husayn – Marwan b. al-Hakam:
@@ -218,15 +186,11 @@ rather die than commit such an abomination.
 Meanwhile, apart from continuing the bid’ah of ‘Umar, ‘Uthman proceed to
 found his own too. Imam Abu Dawud (d. 275 H) documents his feat:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن سلمة المرادي ثنا ابن وهب عن يونس عن ابن شهاب قال أخبرني
-السائب بن يزيد أن الأذان كان أوله حين يجلس الإمام على المنبر يوم
-الجمعة في عهد النبي صلى الله عليه و سلم وأبي بكر وعمر [رضي الله عنهما]
-فلما كان خلافة عثمان وكثر الناس أمر عثمان يوم الجمعة بالأذان الثالث
-فأذن به على الزوراء (الزوراء موضع بسوق المدينة) فثبت الأمر على ذلك
-  </p>
-</blockquote>
+> حدثنا محمد بن سلمة المرادي ثنا ابن وهب عن يونس عن ابن شهاب قال أخبرني
+> السائب بن يزيد أن الأذان كان أوله حين يجلس الإمام على المنبر يوم
+> الجمعة في عهد النبي صلى الله عليه و سلم وأبي بكر وعمر [رضي الله عنهما]
+> فلما كان خلافة عثمان وكثر الناس أمر عثمان يوم الجمعة بالأذان الثالث
+> فأذن به على الزوراء (الزوراء موضع بسوق المدينة) فثبت الأمر على ذلك
 
 Muhammad b. Salamah al-Muradi – Ibn Wahb – Yunus – Ibn Shihab – al-Saib
 b. Yazid:
@@ -241,11 +205,7 @@ established.[^12]
 
 Al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^13]
 
@@ -254,14 +214,10 @@ seated on the pulpit during his lifetime. Later, there was a second one
 – actually the iqamah, which was also the final. Imam al-Mubarakfuri (d.
 1282 H) clarifies further:
 
-<blockquote dir="rtl">
-  <p>
-والمعنى كان الأذان في العهد النبوي وعهد أبي بكر وعمر أذانين أحدهما حين
-خروج الإمام وجلوسه على المنبر والثاني حين إقامة الصلاة فكان في عهدهم
-الأذانان فقط ولم يكن الأذان الثالث والمراد بالأذانين الأذان الحقيقي
-والإقامة
-  </p>
-</blockquote>
+> والمعنى كان الأذان في العهد النبوي وعهد أبي بكر وعمر أذانين أحدهما حين
+> خروج الإمام وجلوسه على المنبر والثاني حين إقامة الصلاة فكان في عهدهم
+> الأذانان فقط ولم يكن الأذان الثالث والمراد بالأذانين الأذان الحقيقي
+> والإقامة
 
 The meaning of the statement “the adhan during the time of the Prophet,
 and the time of Abu Bakr and ‘Umar, used to be two adhans”: one of them
@@ -275,14 +231,10 @@ was made near the marketplace. It was also called the “first adhan”,
 because it was placed before original adhan. Imam Ibn Khuzaymah (d. 311
 H) records:
 
-<blockquote dir="rtl">
-  <p>
-أن سلم بن جنادة حدثنا : و كيع عن ابن أبي ذئب عن الزهري عن السائب بن
-يزيد قال كان الأذان على رسول الله صلى الله عليه و سلم أبي بكر و عمر
-أذانين يوم الجمعة حتى كان زمن عثمان فكثر الناس فأمر بالأذان الأول
-بالزوراء
-  </p>
-</blockquote>
+> أن سلم بن جنادة حدثنا : و كيع عن ابن أبي ذئب عن الزهري عن السائب بن
+> يزيد قال كان الأذان على رسول الله صلى الله عليه و سلم أبي بكر و عمر
+> أذانين يوم الجمعة حتى كان زمن عثمان فكثر الناس فأمر بالأذان الأول
+> بالزوراء
 
 Salam b. Junadah – Waki’ – Ibn Abi Dhaib – al-Zuhri – al-Saib b. Yazid:
 
@@ -293,23 +245,15 @@ adhan at al-Zawra.”[^15]
 
 Al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is sahih[^16]
 
 Al-Mubarakfuri also explains:
 
-<blockquote dir="rtl">
-  <p>
-قال الحافظ في رواية وكيع عن ابن أبي ذئب فأمر عثمان بالأذان الأول ونحوه
-للشافعي من هذا الوجه ولا منافاة بينهما لأنه باعتبار كونه مزيدا يسمى
-ثالثا وباعتبار كونه جعل مقدما على الأذان والإقامة يسمى أولا
-  </p>
-</blockquote>
+> قال الحافظ في رواية وكيع عن ابن أبي ذئب فأمر عثمان بالأذان الأول ونحوه
+> للشافعي من هذا الوجه ولا منافاة بينهما لأنه باعتبار كونه مزيدا يسمى
+> ثالثا وباعتبار كونه جعل مقدما على الأذان والإقامة يسمى أولا
 
 Al-Hafiz said: In the riwayah of Waki’ from Ibn Abi Dhaib, it is
 narrated that “‘Uthman ordered the first adhan.” Al-Shafi’i transmitted
@@ -322,12 +266,8 @@ Meanwhile, some top ‘ulama of the Ahl al-Sunnah have identified
 ‘Uthman’s new adhan as an “innovation”. Imam Ibn Abi Shaybah (d. 235 H)
 documents one such testimony:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا ابن علية عن برد عن الزهري قال كان الأذان عند خروج الامام فأحدث
-أمير المؤمنين عثمان التأذينة الثالثة على الزوراء ليجتمع الناس.
-  </p>
-</blockquote>
+> حدثنا ابن علية عن برد عن الزهري قال كان الأذان عند خروج الامام فأحدث
+> أمير المؤمنين عثمان التأذينة الثالثة على الزوراء ليجتمع الناس.
 
 Ibn ‘Ulayyah – Burd:
 
@@ -337,12 +277,8 @@ third adhan which was made at al-Zawra to gather the people.[^18]
 
 Al-Hafiz (d. 852 H) says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-إسماعيل بن إبراهيم بن مقسم الأسدي مولاهم أبو بشر البصري المعروف بابن
-علية ثقة حافظ
-  </p>
-</blockquote>
+> إسماعيل بن إبراهيم بن مقسم الأسدي مولاهم أبو بشر البصري المعروف بابن
+> علية ثقة حافظ
 
 Isma’il b. Ibrahim b. Miqsam al-Asadi, their freed slave, Abu Bishr
 al-Basri, well-known as Ibn ‘Ulayyah: Thiqah (trustworthy), a hadith
@@ -350,11 +286,7 @@ scientist.[^19]
 
 And concerning the main narrator, he further states:
 
-<blockquote dir="rtl">
-  <p>
-برد بن سنان أبو العلاء الدمشقي نزيل البصرة مولى قريش صدوق رمي بالقدر
-  </p>
-</blockquote>
+> برد بن سنان أبو العلاء الدمشقي نزيل البصرة مولى قريش صدوق رمي بالقدر
 
 Burd b. Sinan, Abu al-‘Ala al-Dimashqi, he resided in Basra, freed slave
 of Quraysh: Saduq (very truthful), he was accused of believing in
@@ -363,15 +295,11 @@ fatalism.[^20]
 So, the sanad is hasan. Al-Zuhri himself was a grand Sunni Imam, as
 testified by Imam al-Dhahabi (d. 748 H):
 
-<blockquote dir="rtl">
-  <p>
-محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب بن عبد الله بن الحارث بن
-زهرة بن كلاب بن مرة بن كعب بن لؤي بن غالب، الامام العلم، حافظ زمانه
-أبو بكر القرشي الزهري المدني نزيل الشام .روى عن ابن عمر، وجابر بن عبد
-الله شيئا قليلا، ويحتمل أن يكون سمع منهما، وأن يكون رأى أبا هريرة،
-وغيره
-  </p>
-</blockquote>
+> محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب بن عبد الله بن الحارث بن
+> زهرة بن كلاب بن مرة بن كعب بن لؤي بن غالب، الامام العلم، حافظ زمانه
+> أبو بكر القرشي الزهري المدني نزيل الشام .روى عن ابن عمر، وجابر بن عبد
+> الله شيئا قليلا، ويحتمل أن يكون سمع منهما، وأن يكون رأى أبا هريرة،
+> وغيره
 
 Muhammad b. Muslim b. ‘Ubayd Allah b. ‘Abd Allah b. Shihab b. ‘Abd Allah
 b. al-Harith b. Zuhrah b. Kilab b. Murrah b. Ka’b b. Luayy b. Ghalib,
@@ -384,12 +312,8 @@ This huge Imam named ‘Uthman’s action an innovation.
 
 Besides, Ibn Abi Shaybah has an even more important athar for us:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا شبابة قال حدثنا هشام بن الغاز عن نافع عن ابن عمر قال الأذان
-الأول يوم الجمعة بدعة.
-  </p>
-</blockquote>
+> حدثنا شبابة قال حدثنا هشام بن الغاز عن نافع عن ابن عمر قال الأذان
+> الأول يوم الجمعة بدعة.
 
 Shubabah – Hisham b. al-Ghaz – Nafi’ – Ibn ‘Umar:
 
@@ -397,12 +321,8 @@ Shubabah – Hisham b. al-Ghaz – Nafi’ – Ibn ‘Umar:
 
 Al-Hafiz says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-شبابة بن سوار المدائني أصله من خراسان يقال كان اسمه مروان مولى بني
-فزارة ثقة حافظ رمي بالإرجاء
-  </p>
-</blockquote>
+> شبابة بن سوار المدائني أصله من خراسان يقال كان اسمه مروان مولى بني
+> فزارة ثقة حافظ رمي بالإرجاء
 
 Shubabah b. Sawar al-Madaini, his origin was Khurasan. It is said that
 his (real) name was Marwan, freed slave of Banu Fazarah: Thiqah
@@ -410,23 +330,15 @@ his (real) name was Marwan, freed slave of Banu Fazarah: Thiqah
 
 What about the second? Al-Hafiz submits:
 
-<blockquote dir="rtl">
-  <p>
-هشام بن الغاز بن ربيعة الجرشي بضم الجيم وفتح الراء بعدها معجمة الدمشقي
-نزيل بغداد ثقة
-  </p>
-</blockquote>
+> هشام بن الغاز بن ربيعة الجرشي بضم الجيم وفتح الراء بعدها معجمة الدمشقي
+> نزيل بغداد ثقة
 
 Hisham b. al-Ghaz al-Jurashi al-Dimashqi, he lived in Baghdad: Thiqah
 (trustworthy).[^24]
 
 The last narrator is like that too, according to al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-نافع أبو عبد الله المدني مولى ابن عمر ثقة ثبت فقيه مشهور
-  </p>
-</blockquote>
+> نافع أبو عبد الله المدني مولى ابن عمر ثقة ثبت فقيه مشهور
 
 Nafi’, Abu ‘Abd Allah al-Madani, freed slave of Ibn ‘Umar: Thiqah
 (trustworthy), thabt (accurate), a well-known jurist.[^25]
@@ -436,12 +348,8 @@ As such, the chain is sahih. Ibn ‘Umar, a prominent Sahabi, described
 
 Ibn Abi Shaybah has recorded a mutaba’ah as well:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا وكيع قال حدثنا بن الغاز قال سألت نافعا مولى ابن عمر عن الأذان
-الأول يوم الجمعة فقال :قال ابن عمر :بدعة.
-  </p>
-</blockquote>
+> حدثنا وكيع قال حدثنا بن الغاز قال سألت نافعا مولى ابن عمر عن الأذان
+> الأول يوم الجمعة فقال :قال ابن عمر :بدعة.
 
 Waki’ – Ibn al-Ghaz:
 
@@ -451,12 +359,8 @@ Friday. He replied, “Ibn ‘Umar said: ‘It is a bid’ah’”.[^26]
 The only new name here is Waki, and this is what al-Hafiz says about
 him:
 
-<blockquote dir="rtl">
-  <p>
-وكيع بن الجراح بن مليح الرؤاسي بضم الراء وهمزة ثم مهملة، أبو سفيان
-الكوفي ثقة حافظ عابد
-  </p>
-</blockquote>
+> وكيع بن الجراح بن مليح الرؤاسي بضم الراء وهمزة ثم مهملة، أبو سفيان
+> الكوفي ثقة حافظ عابد
 
 Waki’ b. al-Jarah b. Malih al-Ruwasi, Abu Sufyan al-Kufi: Thiqah
 (trustworthy), a hadith scientist, a devout worshipper of Allah.[^27]
@@ -465,15 +369,11 @@ So, this chain too is sahih.
 
 However, al-Mubarakfuri thinks he has a defence for ‘Uthman:
 
-<blockquote dir="rtl">
-  <p>
-وروى ابن أبي شيبة من طريق ابن عمر قال الأذان الأول يوم الجمعة بدعة
-فيحتمل أن يكون قال ذلك على سبيل الانكار ويحتمل أنه يريد أنه لم يكن في
-زمن النبي صلى الله عليه وسلم وكل ما لم يكن في زمنه يسمى بدعة لكن منها
-ما يكون حسنا ومنها ما يكون بخلاف ذلك وتبين بما مضى أن عثمان أحدثه
-لإعلام الناس بدخول وقت الصلاة
-  </p>
-</blockquote>
+> وروى ابن أبي شيبة من طريق ابن عمر قال الأذان الأول يوم الجمعة بدعة
+> فيحتمل أن يكون قال ذلك على سبيل الانكار ويحتمل أنه يريد أنه لم يكن في
+> زمن النبي صلى الله عليه وسلم وكل ما لم يكن في زمنه يسمى بدعة لكن منها
+> ما يكون حسنا ومنها ما يكون بخلاف ذلك وتبين بما مضى أن عثمان أحدثه
+> لإعلام الناس بدخول وقت الصلاة
 
 Ibn Abi Shaybah recorded through the route of Ibn ‘Umar that he said,
 “The first adhan on Friday is a bid’ah.” It is possible that he said
@@ -488,11 +388,7 @@ So, it was after all only a “good” bid’ah, a “good” innovation. Really
 But, how can that be, considering these words of the Messenger of Allah,
 documented by Imam al-Nasai:
 
-<blockquote dir="rtl">
-  <p>
-شر الأمور محدثاتها وكل محدثة بدعة وكل بدعة ضلالة وكل ضلالة في النار
-  </p>
-</blockquote>
+> شر الأمور محدثاتها وكل محدثة بدعة وكل بدعة ضلالة وكل ضلالة في النار
 
 The worst of the (religious) affairs are their innovations, and every
 innovation is a bid’ah, and every bid’ah is misguidance, and every
@@ -500,11 +396,7 @@ misguidance is in the Fire.[^29]
 
 Al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^30]
 
@@ -514,12 +406,8 @@ a “misguidance”, which led its inventor and followers into the Fire.
 Meanwhile, another innovator among the Sahabah was also Mu’awiyah b. Abi
 Sufyan. Imam al-Mubarakfuri confirms:
 
-<blockquote dir="rtl">
-  <p>
-وروى ابن أبي شيبة في المصنف بإسناد صحيح عن ابن المسيب قال أول من أحدث
-الأذان في العيد معاوية
-  </p>
-</blockquote>
+> وروى ابن أبي شيبة في المصنف بإسناد صحيح عن ابن المسيب قال أول من أحدث
+> الأذان في العيد معاوية
 
 Ibn Abi Shaybah recorded in al-Musannaf with a sahih chain from Ibn
 al-Musayyab that he said: “The first to INNOVATE the azan during the
@@ -528,13 +416,9 @@ al-Musayyab that he said: “The first to INNOVATE the azan during the
 His comrade-in-arms against Imam ‘Ali was an innovator too. Imam Ibn Abi
 Shaybah documents her testimony:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو أسامة حدثنا إسماعيل بن أبي خالد عن قيس قال قالت عائشة لما
-حضرتها الوفاة ادفنوني مع أزواج النبي صلى الله عليه وسلم فإني كنت أحدث
-بعده.
-  </p>
-</blockquote>
+> حدثنا أبو أسامة حدثنا إسماعيل بن أبي خالد عن قيس قال قالت عائشة لما
+> حضرتها الوفاة ادفنوني مع أزواج النبي صلى الله عليه وسلم فإني كنت أحدث
+> بعده.
 
 Abu Usamah – Isma’il b. Abi Khalid – Qays:
 
@@ -543,12 +427,8 @@ Prophet, peace be upon him, for I had INNOVATED after him.”[^32]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو أسامة قال حدثنا إسماعيل عن قيس قال: قالت عائشة لما حضرتها
-الوفاة: ادفنوني مع أزواج النبي عليه السلام فإني كنت أحدثت بعده حدثا.
-  </p>
-</blockquote>
+> حدثنا أبو أسامة قال حدثنا إسماعيل عن قيس قال: قالت عائشة لما حضرتها
+> الوفاة: ادفنوني مع أزواج النبي عليه السلام فإني كنت أحدثت بعده حدثا.
 
 Abu Usamah – Isma’il – Qays:
 
@@ -558,12 +438,8 @@ him.”[^33]
 
 Al-Hafiz says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-حماد بن أسامة القرشي مولاهم الكوفي أبو أسامة مشهور بكنيته ثقة ثبت ربما
-دلس وكان بأخرة يحدث من كتب غيره
-  </p>
-</blockquote>
+> حماد بن أسامة القرشي مولاهم الكوفي أبو أسامة مشهور بكنيته ثقة ثبت ربما
+> دلس وكان بأخرة يحدث من كتب غيره
 
 Hammad b. Usamah al-Qurshi, their freed slave, al-Kufi, Abu Usamah,
 well-known with his kunya: Thiqah (trustworthy), accurate, perhaps did
@@ -574,22 +450,14 @@ His probable tadlis is inconsequential here, as he has narrated with
 explicit tahdith. He stated that he literally heard the athar from the
 mouth of Isma’il. Concerning Isma’il himself, al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-إسماعيل بن أبي خالد الأحمسي مولاهم البجلي ثقة ثبت
-  </p>
-</blockquote>
+> إسماعيل بن أبي خالد الأحمسي مولاهم البجلي ثقة ثبت
 
 Isma’il b. Abi Khalid al-Ahmasi, their freed slave, al-Bajali: Thiqah
 (trustworthy), accurate.[^35]
 
 And finally, he has this verdict about the last narrator:
 
-<blockquote dir="rtl">
-  <p>
-قيس بن أبي حازم البجلي أبو عبد الله الكوفي ثقة
-  </p>
-</blockquote>
+> قيس بن أبي حازم البجلي أبو عبد الله الكوفي ثقة
 
 Qays b. Abi Hazim al-Bajali, Abu ‘Abd Allah al-Kufi: Thiqah
 (trustworthy).[^36]
@@ -597,15 +465,11 @@ Qays b. Abi Hazim al-Bajali, Abu ‘Abd Allah al-Kufi: Thiqah
 Therefore, the report is perfectly sahih. Imam al-Hakim (d. 403 H) also
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو العباس محمد بن يعقوب ثنا أبو البحتري عبد الله بن محمد بن بشر
-العبدي ثنا إسماعيل بن أبي خالد عن قيس بن أبي حازم قال قالت عائشة رضي
-عنها : وكانت تحدث نفسها أن تدفن في بيتها مع رسول الله صلى الله عليه
-وسلم وأبي بكر فقالت : إني أحدثت بعد رسول الله صلى الله عليه وسلم حدثا
-أدفنوني مع أزواجه فدفنت بالبقيع
-  </p>
-</blockquote>
+> حدثنا أبو العباس محمد بن يعقوب ثنا أبو البحتري عبد الله بن محمد بن بشر
+> العبدي ثنا إسماعيل بن أبي خالد عن قيس بن أبي حازم قال قالت عائشة رضي
+> عنها : وكانت تحدث نفسها أن تدفن في بيتها مع رسول الله صلى الله عليه
+> وسلم وأبي بكر فقالت : إني أحدثت بعد رسول الله صلى الله عليه وسلم حدثا
+> أدفنوني مع أزواجه فدفنت بالبقيع
 
 Abu al-‘Abbas Muhammad b. Ya’qub – Abu al-Bahtari ‘Abd Allah b. Muhammad
 b. Bishr al-‘Abdi – Isma’il b. Abi Khalid – Qays b. Abi Hazim:
@@ -618,21 +482,13 @@ al-Baqi’.[^37]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This hadith is sahih upon the standard of the two Shaykhs.[^38]
 
 And, Imam al-Dhahabi concurs with him:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 Upon the standard of al-Bukhari and Muslim.[^39]
 
@@ -647,14 +503,10 @@ Sunni brothers is how they quote the athar below – from Musnad Ahmad –
 in “retaliation” when we show them some of the aforementioned Sunni
 ahadith about the innovations of the various Sahabah:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني وهب بن بقية الواسطي أخبرنا خالد بن عبد الله عن
-حصين عن المسيب بن عبد خير عن أبيه قال قام علي فقال خير هذه الأمة بعد
-نبيها أبو بكر وعمر وأنا قد أحدثنا بعدهم أحداثا يقضى الله تعالى فيها ما
-شاء
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني وهب بن بقية الواسطي أخبرنا خالد بن عبد الله عن
+> حصين عن المسيب بن عبد خير عن أبيه قال قام علي فقال خير هذه الأمة بعد
+> نبيها أبو بكر وعمر وأنا قد أحدثنا بعدهم أحداثا يقضى الله تعالى فيها ما
+> شاء
 
 ‘Abd Allah (b. Ahmad) – Wahb b. Baqiyyah al-Wasiti – Khalid b. ‘Abd
 Allah – Husayn – al-Musayyab b. ‘Abd Khayr – his father:
@@ -666,24 +518,16 @@ wills.”[^40]
 
 Al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is sahih.[^41]
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبو بحر عبد الواحد البصري ثنا أبو عوانة عن خالد
-بن علقمة عن عبد خير قال قال علي رضي الله عنه لما فرغ من أهل البصرة إن
-خير هذه الأمة بعد نبيها صلى الله عليه و سلم أبو بكر وبعد أبي بكر عمر
-وأحدثنا أحداثا يصنع الله فيها ما شاء
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبو بحر عبد الواحد البصري ثنا أبو عوانة عن خالد
+> بن علقمة عن عبد خير قال قال علي رضي الله عنه لما فرغ من أهل البصرة إن
+> خير هذه الأمة بعد نبيها صلى الله عليه و سلم أبو بكر وبعد أبي بكر عمر
+> وأحدثنا أحداثا يصنع الله فيها ما شاء
 
 ‘Abd Allah (b. Ahmad) – Abu Bahr ‘Abd al-Wahid al-Basri – Abu ‘Awanah –
 Khalid b. ‘Alqamah – ‘Abd Khayr:
@@ -696,11 +540,7 @@ wills.”[^42]
 
 Al-Arnaut again says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is sahih.[^43]
 
@@ -718,13 +558,9 @@ narrators in the two chains of the report are equally dha’if. So, it is
 extremely dha’if, in fact mawdu’ (fabricated). No wonder, Grand
 Ayatullah al-Tustari says:
 
-<blockquote dir="rtl">
-  <p>
-ثم إن الذهبي نقل روايتهم عنه، عن المسيب بن عبد خير، عن أبيه سمع عليا
-يقول: ألا أن خير هذه الأمة بعد نبيها أبو بكر وعمر .ولابد أنهم وضعوها
-عليه.
-  </p>
-</blockquote>
+> ثم إن الذهبي نقل روايتهم عنه، عن المسيب بن عبد خير، عن أبيه سمع عليا
+> يقول: ألا أن خير هذه الأمة بعد نبيها أبو بكر وعمر .ولابد أنهم وضعوها
+> عليه.
 
 Then, al-Dhahabi quoted their report from him, from al-Musayyab b. ‘Abd
 Khayr, from his father, that he heard ‘Ali saying: “Verily, the best of
@@ -938,5 +774,4 @@ al-Islami; 1st edition, 1422 H), vol. 11, p. 165, \# 8553
 
 [^48]: We have investigated a lot of them in both our previous books:
 ‘Ali: The Best of the Sahabah and On the Khilafah of ‘Ali over Abu Bakr.
-
 

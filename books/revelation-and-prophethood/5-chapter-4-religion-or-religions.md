@@ -73,4 +73,3 @@ At another place the Holy Qur'an says:
 "Ibrahim was neither a Jew nor a Christian. He was upright in faith and
 a Muslim"(Surah Ale Imran, 3:67)
 
-

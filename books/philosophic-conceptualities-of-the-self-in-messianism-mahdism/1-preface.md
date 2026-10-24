@@ -137,4 +137,3 @@ ethical and eschatological, the former active and constructive, the
 latter quite passive and receptive. We move now to the discussion of
 these two modes.
 
-

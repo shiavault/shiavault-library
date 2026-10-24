@@ -82,7 +82,6 @@ just because they do not follow the teachings of the Holy prophets.
 There is no dispute today that scientific and technological advancement
 has become a threat to mankind.
 
-
 Thus, human intellect is not sufficient to discover all the realities
 of the universe. The tr ue religion teaches us all those things which no
 one can discover by his effor ts.
@@ -160,7 +159,6 @@ following difficult questions :
 
 Who has created the millions of types of living species ?
 
-
 Who has made humans superior over all the creatures?
 
 Why has He created us ?
@@ -189,5 +187,4 @@ The basic aim of this lesson is to equip you to fight intellectually
 with the false propaganda of the West which they have been tactfully
 doing against the religion. The students should realize that religion is
 a necessity of life.
-
 

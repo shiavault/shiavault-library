@@ -138,4 +138,3 @@ date is also mentioned in some sourcebooks.
 
 [^4]: Noor al-Absar, p.150, Kashf al-Ghummah, vol.3 p.174
 
-

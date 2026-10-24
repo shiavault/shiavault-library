@@ -37,23 +37,15 @@ passing­out and when asked why they were not reciting the *talbiyyah*
 while in this state, they would reply that we are afraid that the reply
 (from Allah) may come that:
 
-<blockquote dir="rtl">
-  <p>
-لا لبيك ولا سعديك
-  </p>
-</blockquote>
+> لا لبيك ولا سعديك
 
 “You are not accepted and you are not welcome. “
 
 ***Second Action***: The *Tawaf* is the second act. The Tawaf resembles
 the continuous act of the Angels circumambulating the Throne of Allah .
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَى الْمَلَائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ
-بِحَمْدِ رَبِّهِمْ
-  </p>
-</blockquote>
+> وَتَرَى الْمَلَائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ
+> بِحَمْدِ رَبِّهِمْ
 
 ***“And you shall see the Angels going round about the Throne glorifying
 the praise of their Lord.*** “[^1]
@@ -67,11 +59,7 @@ his wealth, his wife and children and whatever else he has in this world
 are all sacrificed for Allah (swt) and that he is ready to give
 everything he has in the way of Allah and only for His pleasure.
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاةِ اللَّهِ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاةِ اللَّهِ
 
 ***“And from the people is he who sells his soul seeking the pleasure of
 Allah.”*** [^2]
@@ -101,19 +89,11 @@ Willingly or unwillingly, one will reach to the level of closeness with
 Allah and of complete annihilation in Him ‑ it is at this point that one
 has reached to the Straight Path *(Sirat al‑Mustaqim).*
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ يَهْدِي بِهِ
-اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُل
-  </p>
-</blockquote>
+> قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ يَهْدِي بِهِ
+> اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُل
 
-<blockquote dir="rtl">
-  <p>
-السَّلَامِ وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ
-وَيَهْدِيهِمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> السَّلَامِ وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ
+> وَيَهْدِيهِمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ
 
 ***“Indeed Our Messenger has come to you making clear to you much of
 what you concealed of the Book and passing over much; indeed, there has
@@ -147,11 +127,7 @@ Therefore, the Salat is the best thing for a servant and is the action
 which brings about the most pleasure. In Islam, it has been mentioned
 that after cognition *(ma'rifah)* of Allah , the Salat is the best act:
 
-<blockquote dir="rtl">
-  <p>
-أفضل الأعمال بعض المعرفة الصلاة
-  </p>
-</blockquote>
+> أفضل الأعمال بعض المعرفة الصلاة
 
 *“The best of actions after cognition (ma\`rifah) (of Allah) is the
 Salat.”*
@@ -163,11 +139,7 @@ of the best creations of Allah after the Ahl al‑Bait, who, The
 Maintainer of the Universe has mentioned and acknowledged (that sincere
 action of this servant) in the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا
-  </p>
-</blockquote>
+> وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا
 
 ***“And Allah took Ibrahim as a friend. “*** [^4]
 
@@ -175,12 +147,8 @@ It was truly a beautiful event in which a man submitted his complete
 entity to the Maintainer of the Universe and which He Himself personally
 endorsed:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ قَالَ أَسْلَمْتُ لِرَبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ قَالَ أَسْلَمْتُ لِرَبِّ
+> الْعَالَمِينَ
 
 ***“And when his Lord said to him, \`Submit!', he said, I have submitted
 to the Lord of all the Worlds.”*** [^5]
@@ -193,11 +161,7 @@ in old age, along with the mother of this child with the words of Allah
 child and departing in a deserted area without water, food or any
 guardian':
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا إِنِّي أَسْكَنْتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-  </p>
-</blockquote>
+> رَبَّنَا إِنِّي أَسْكَنْتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
 
 ***“O' our Lord! Surely I have settled a part of my offspring in a
 valley unproductive of fruit.*** *“* [^6]
@@ -232,12 +196,8 @@ companions showed us ‑ leaving away all things for Allah
 
 and sacrificing our lives and properties for the religion of Allah .
 
-<blockquote dir="rtl">
-  <p>
-قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
-مَعَهُ
-  </p>
-</blockquote>
+> قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
+> مَعَهُ
 
 ***“Indeed, there is for you a good example in Ibrahim and those with
 him. “*** [^7]
@@ -256,12 +216,8 @@ While mankind must be in the constant thought and remembrance of Allah
 and the Last Day, at the same time, they must also be in remembrance of
 this world and the needs of this world:
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَغِ فِيمَا ءَاتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ
-نَصِيبَكَ مِنَ الدُّنْيَا
-  </p>
-</blockquote>
+> وَابْتَغِ فِيمَا ءَاتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ
+> نَصِيبَكَ مِنَ الدُّنْيَا
 
 ***“And seek by means of what Allah has given you the future abode, and
 do not neglect your portion of this world.”*** [^8]
@@ -285,12 +241,8 @@ the eyes of deep insight which were previously forbidden, by way of the
 Tawaf, Salat, Sa'i between al‑Safa and al‑Marwah and the taqsir have now
 become permitted, then one has not been extravagent in one's speech.
 
-<blockquote dir="rtl">
-  <p>
-لولا أن الشياطين يحومون على قلوب بني آدم لنظروا إلى ملكوت السماوات
-والأرض
-  </p>
-</blockquote>
+> لولا أن الشياطين يحومون على قلوب بني آدم لنظروا إلى ملكوت السماوات
+> والأرض
 
 *“Verily, had not the Shaitans hovered around the hearts of the
 offspring of Adam, they would have been able to see towards the higher
@@ -308,11 +260,7 @@ Entity goes towards the simulated being; an attraction that a lover has
 with the one he loves. In more passionate terms, it is the attraction
 between a servant and Allah ‑ and what an attraction it is!
 
-<blockquote dir="rtl">
-  <p>
-هانئا لارباب النعيم نعيمهم
-  </p>
-</blockquote>
+> هانئا لارباب النعيم نعيمهم
 
 *“Congratulations to the possessors of the Garden of Na\`im for their
 prosperity. “*
@@ -326,11 +274,7 @@ Eternal Being *(Qadim));* cognition of the guardianship of the Truth,
 and the absolute destitution of the creation. In summary, attaining the
 cognition that:
 
-<blockquote dir="rtl">
-  <p>
-ليس في الدار غيره ديار
-  </p>
-</blockquote>
+> ليس في الدار غيره ديار
 
 *“There is no one in the building except for it's owner.”*
 
@@ -355,12 +299,8 @@ land of *Mash\`ar* holds a special place in the sight of Allah, the Most
 High, such that in the Qur'an it is been given the attribute of being a
 sanctuary and a place that demands respect:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ
-الْمَشْعَرِ الْحَرَامِ
-  </p>
-</blockquote>
+> فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ
+> الْمَشْعَرِ الْحَرَامِ
 
 ***“So when you hasten on from Arafat, then remember Allah near the al­
 Mash\`ar al‑Haram.”*** [^9]
@@ -384,11 +324,7 @@ That which the soul had achieved in 'Arafat must be seized and
 controlled. It is here that the World of the Unseen *(Alam al‑Ghaib)*
 becomes the World of the Witnessed *(Alam al‑Shuhud):*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
-  </p>
-</blockquote>
+> الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
 
 ***“Those who believe in the Unseen.*** **“**[^10]
 
@@ -399,11 +335,7 @@ visualize. With the eyes of the heart, one will be able to see the power
 of Allah , the *Nubuwat* and the *Wilayat* in its true essence. In
 addition to this, one will also be able to see the Day of Judgement:
 
-<blockquote dir="rtl">
-  <p>
-عبدي أطعني حتى أجعلك مثلي أقول كن فيكن تقول كن فيكن
-  </p>
-</blockquote>
+> عبدي أطعني حتى أجعلك مثلي أقول كن فيكن تقول كن فيكن
 
 *“My servant, obey Me, I shall make you like Me. When I say 'Be!, it is
 ‑ you (too) shall say Be!', and it shall become. “*
@@ -450,18 +382,10 @@ It is on account of this that the last Surah of the Qur'an has commanded
 us to seek refuge with Allah from these despots and from their evil
 whisperings:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاس
-مَلِكِ النَّاسِ ِ إِلَهِ النَّاسِ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاس
+> مَلِكِ النَّاسِ ِ إِلَهِ النَّاسِ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ مِنَ الْجِنَّةِ وَالنَّاسِ
-  </p>
-</blockquote>
+> الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ مِنَ الْجِنَّةِ وَالنَّاسِ
 
 ***“Say: I seek refuge in the Lord of men, The King of men, The God of
 men, From the evil of the whisperings of the slinking (Shaitan), Who
@@ -471,11 +395,7 @@ whispers into the hearts of men, From among the jinn and the men.”***
 From the Holy Qur'an, we clearly see that the internal despot (the
 *al-Nafs al-Amarah­*: is the most dangerous of all enemies:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
-  </p>
-</blockquote>
+> إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
 
 ***Most surely (man's) self (Nafs al‑Amarah) is habituated to command
 (him to do) evil, except such as my Lord has mercy upon.*** “[^12]
@@ -521,12 +441,8 @@ In the Qur'an it has been mentioned that *Habil* and *Qabil* (the sons
 of Adam) had offered a sacrifice, and since one of these sons was a
 *Muttaqi* (a pious person), his sacrifice was accepted (by Allah ).
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ
-يُتَقَبَّلْ مِنَ الْآخَرِ وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ
-  </p>
-</blockquote>
+> إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ
+> يُتَقَبَّلْ مِنَ الْآخَرِ وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ
 
 ***“When they both offered an offering, but it was accepted from one of
 them and was not accepted from the other.”*** [^13]
@@ -537,17 +453,9 @@ property and children. The sacrifice is a symbol of love and commitment;
 it is a symbol of the acceptance of the personality and the respect one
 has for one's Beloved:
 
-<blockquote dir="rtl">
-  <p>
-جان چه باشد که فدا قدم دست كنی
-  </p>
-</blockquote>
+> جان چه باشد که فدا قدم دست كنی
 
-<blockquote dir="rtl">
-  <p>
-اين متاعی است که هر بی سروپايی دارد
-  </p>
-</blockquote>
+> اين متاعی است که هر بی سروپايی دارد
 
 *What is it to sacrifice at the feet of the beloved, one's soul,*  
 *It is something that everything, little or big, possesses!*
@@ -556,11 +464,7 @@ The slaughtering of the animal, just like the Tawaf, has a secret behind
 it, which is kept between the servant and the Master *(Mawla).* It is
 one in which the servant and all that one possesses is from Him:
 
-<blockquote dir="rtl">
-  <p>
-العبد وما في يده كان لمولاه
-  </p>
-</blockquote>
+> العبد وما في يده كان لمولاه
 
 *“The servant and that which is in his possession is (all) for his
 Master. “*
@@ -574,11 +478,7 @@ child in Mina. Prophet Ibrahim (as) took his young son Isma\`il (as) and
 explained to him what his Beloved had commanded him to do. The young boy
 entirely, and with full devotion, accepted:
 
-<blockquote dir="rtl">
-  <p>
-يَاأَبَتِ افْعَلْ مَا تُؤْمَرُ
-  </p>
-</blockquote>
+> يَاأَبَتِ افْعَلْ مَا تُؤْمَرُ
 
 ***“O' my father! Carry out that which you have been commanded to
 do!”*** [^14]
@@ -588,19 +488,11 @@ command, and at the moment that the knife was on the throat about to
 slaughter (the young Isma'il (as)), a call was heard from the Beloved
 that you have successfully completed your test:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ صَدَّقْتَ الرُّؤْيَا
-  </p>
-</blockquote>
+> قَدْ صَدَّقْتَ الرُّؤْيَا
 
 ***“You have indeed shown the truth of the vision.*** “[^15]
 
-<blockquote dir="rtl">
-  <p>
-وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
 
 ***“And we ransomed him with a great sacrifice”.*** [^16]
 
@@ -612,22 +504,14 @@ put him through.
 What a sweet ending, but what a bitter way to learn! What a trial that
 the Beloved has mentioned as something great!
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَهُوَ الْبَلَاءُ الْمُبِينُ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَهُوَ الْبَلَاءُ الْمُبِينُ
 
 ***“Verily this was a manifest trial. “*** [^17]
 
 What was more important than this was the reward that the Beloved
 blessed them with and that was of being counted as true servants:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
 
 ***“Verily he was of Our believing servants.*** “[^18]
 
@@ -653,11 +537,7 @@ Whatever a person does to try and build one's self and ethics, one must
 know that the roots of the negative attributes are centered deep down in
 the heart of a person:
 
-<blockquote dir="rtl">
-  <p>
-آخر ما يخرج عن قلوب الصدقين حب الجاه
-  </p>
-</blockquote>
+> آخر ما يخرج عن قلوب الصدقين حب الجاه
 
 *“The last thing that will come out of the hearts of the truthful
 (people) is the love of status. “*
@@ -719,12 +599,8 @@ Allah , however, in order to gain authority over one's sexual instincts,
 one is still in need of reaching to an even higher station and is in
 need of more assistance.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَى بُرْهَانَ
-رَبِّهِ
-  </p>
-</blockquote>
+> وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَى بُرْهَانَ
+> رَبِّهِ
 
 ***“And certainly she made for him, and he would have made for her were
 it not that he had seen the manifest evidence of his Lord.”*** [^19]
@@ -735,11 +611,7 @@ with their apparent beauty, which in reality was their lack of modesty,
 tried to seduce him. He replied: \`O' Allah! The prison is better for me
 than what these women say!' [^20]
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
-  </p>
-</blockquote>
+> رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
 
 ***“My Lord! The prison is dearer to me, than that to which they invite
 me.”*** [^21]
@@ -750,12 +622,8 @@ but when put face to face with his sexual instincts, he showed his
 weakness or inability. He said that it was Allah who saved him, not
 himself, and that if He were not there, he would have failed the exam:
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ
-الْجَاهِلِينَ
-  </p>
-</blockquote>
+> وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ
+> الْجَاهِلِينَ
 
 ***“And if Thou turn not away their device from me, I will yearn towards
 them and become (one) of the ignorant.”*** [^22]
@@ -782,12 +650,8 @@ the performance of Ziyarat in Madinatul Munawarrah is the actual
 completion of the Hajj. As well, in the Holy Qur'an, *Tawassul* or
 seeking help from the Ahl al‑Bait (as) has been made compulsory on us:
 
-<blockquote dir="rtl">
-  <p>
-يَاأَيُّهَا الَّذِينَ ءَامَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
-الْوَسِيلَةَ
-  </p>
-</blockquote>
+> يَاأَيُّهَا الَّذِينَ ءَامَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
+> الْوَسِيلَةَ
 
 ***“O' you who believe! Be careful of (your duty to) Allah and seek a
 means of nearness (intermediary) to Him.”*** [^23]
@@ -802,13 +666,9 @@ supplications and asking of forgiveness with the condition that it be
 done in the presence of these holy personalities (the Noble Prophet of
 Islam (s) and his Ahl al‑Bait (as))
 
-<blockquote dir="rtl">
-  <p>
-»وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا
-  </p>
-</blockquote>
+> »وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا
 
 ***“And had they, when they were unjust to themselves, come to you
 (Muhammad) and asked forgiveness of Allah, and had the Messenger (also)
@@ -852,12 +712,8 @@ Prophet or his Ahl al‑Bait (as):
 speech, actions, thoughts and even intentions are all presented to these
 holy personalities:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
-وَالْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
+> وَالْمُؤْمِنُونَ
 
 ***“Say: Work: so Allah will see your work and (so will) His Messenger
 and the believers.”*** [^25]
@@ -867,11 +723,7 @@ intention and observe the proper etiquette of speaking and acting. It
 may be possible that reciting the salutations *(Ziyarat)* in a loud
 voice may not be appropriate, nor would speaking with others:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ
-  </p>
-</blockquote>
+> لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ
 
 ***“Do not raise your voices over the voice of the Prophet!”*** [^26]
 
@@ -882,17 +734,9 @@ against the blessed enclosure *(dharih),* kissing it and the walls of
 the rooms and the sanctuary is an outward show of love that each lover
 must perform.
 
-<blockquote dir="rtl">
-  <p>
-اين سگ فرخ رخ نيل است اين
-  </p>
-</blockquote>
+> اين سگ فرخ رخ نيل است اين
 
-<blockquote dir="rtl">
-  <p>
-پاسدر کوجه ليلی است اين
-  </p>
-</blockquote>
+> پاسدر کوجه ليلی است اين
 
 *Majnun has said that the door and walls of the city that Laila lives in
 are kissed by the dog that guards the alley where Laila is and says that
@@ -926,11 +770,7 @@ forgiveness, we enter their sanctuary.
 simply asking for things of this world and the next. Rather, these
 requests should be left to them (to decide for us):
 
-<blockquote dir="rtl">
-  <p>
-علمهم بحالنا من سؤالنا
-  </p>
-</blockquote>
+> علمهم بحالنا من سؤالنا
 
 *“Their knowledge of our condition suffices us from our asking (them) “*
 
@@ -950,12 +790,8 @@ For a person, the *Buraq* (stead) on this trip is one's human presence,
 which is the body. In order to increase the power of this Buraq, the
 Qur'an has recommended us that:
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَغِ فِيمَا ءَاتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ
-نَصِيبَكَ مِنَ الدُّنْيَا
-  </p>
-</blockquote>
+> وَابْتَغِ فِيمَا ءَاتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ
+> نَصِيبَكَ مِنَ الدُّنْيَا
 
 ***“And seek by means of what Allah has given you the future abode, and
 do not neglect your portion of this world. “*** [^27]
@@ -964,11 +800,7 @@ One's provisions and supplies for this trip are piety *(taqwa)* and a
 soul that truly fears Allah , which according to the Qur'an are the best
 supplies for a trip:
 
-<blockquote dir="rtl">
-  <p>
-وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى
-  </p>
-</blockquote>
+> وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى
 
 ***“And make provision, for surely the best provision is the guarding of
 oneself.”*** [^28]
@@ -976,11 +808,7 @@ oneself.”*** [^28]
 The light *(Nur)* which a person must take on this trip, so as to save
 himself oneself from darkness is the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ
-  </p>
-</blockquote>
+> قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ
 
 ***“Indeed, there has come to you light and a clear Book from Allah.”***
 [^29]
@@ -1001,11 +829,7 @@ axis of the world of possibility *(al‑Alam al‑Imkan),* the pivot of the
 world of creation, and the intermediary between the unseen and witnessed
 *(ghaib wa shuhud) is* Imam Wali al‑\`Asr (as).
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا
 
 ***“And We made them Imams who guided (people) by Our command.”*** [^30]
 
@@ -1082,5 +906,4 @@ their graves will guide one in this world as well as in the next life.
 [^29]: Surah al Ma'idah (5), Verse 15
 
 [^30]: Surah al Anbiya (21), Verse 73
-
 

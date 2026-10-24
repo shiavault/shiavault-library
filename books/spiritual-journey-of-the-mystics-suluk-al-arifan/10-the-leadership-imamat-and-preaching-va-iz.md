@@ -390,4 +390,3 @@ way should not forget to pay attention towards the eloquence, softness,
 easiness, fluency, and kindness in his preaching which is the method of
 divine prophets.
 
-

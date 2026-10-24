@@ -516,4 +516,3 @@ Al-Luhuf and by Ibn Nama in his book Muthir al-Ahzan.
 published on p. 445 (Najaf: Al-Adab Press) of Riyad al-Madh wa
 al-Ratha’.
 
-

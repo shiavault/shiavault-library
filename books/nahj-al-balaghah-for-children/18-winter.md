@@ -29,4 +29,3 @@ and his two hands his servant.
 
 (Sermon 160)
 
-

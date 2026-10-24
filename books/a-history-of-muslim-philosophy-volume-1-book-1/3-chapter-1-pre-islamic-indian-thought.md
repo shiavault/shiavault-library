@@ -1844,4 +1844,3 @@ Calcutta ii, p. 436.
 [^57]: An Introduction to Indian Philosophy, Calcutta University,
 Calcutta, 1944, p. 247
 
-

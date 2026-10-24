@@ -140,4 +140,3 @@ see it or may keep it with him, so that he may purchase it, if he likes
 it, and in case that property perishes, he should pay compensation for
 it to its owner.
 
-

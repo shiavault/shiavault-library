@@ -52,4 +52,3 @@ end of a lazy person is poverty.)
 • Fragment, for example: **بَلاء** **الإنسانِ** **مِن** **اللسانِ**
 (Man's tribulations come from the tongue.)
 
-

@@ -222,4 +222,3 @@ Day of Judgement."
 And may Allah bless upon our master Muhammad, the Prophet, and upon his
 progeny.
 
-

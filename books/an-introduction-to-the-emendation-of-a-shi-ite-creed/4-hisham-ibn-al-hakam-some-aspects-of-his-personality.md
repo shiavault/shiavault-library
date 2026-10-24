@@ -367,4 +367,3 @@ Majma‘u 'r-rijal, vol.6, pp.233,234; adh-Dhari‘ah, vol.10, p.183.
 [^35]: See the biography of al-Fadl ibn Shadhan in the forward to the
 English translation of "Kitabu 't-Tawhid" of al-Kafi.
 
-

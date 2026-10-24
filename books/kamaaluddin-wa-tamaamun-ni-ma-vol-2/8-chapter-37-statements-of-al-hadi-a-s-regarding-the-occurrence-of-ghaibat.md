@@ -170,4 +170,3 @@ bin Ali ar-Reza (a.s.) say:
 who would fill up the earth with justice and equity as it would be
 fraught with injustice and oppression.”
 
-

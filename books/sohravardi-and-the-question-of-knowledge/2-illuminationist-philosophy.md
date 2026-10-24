@@ -81,4 +81,3 @@ light is used as a symbol for wisdom, knowledge, guidance, life,
 insight, revelation, and luminosity, which are set in apposition to
 ignorance, darkness, death, blindness, deviation, etc.
 
-

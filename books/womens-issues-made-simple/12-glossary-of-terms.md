@@ -128,4 +128,3 @@ performing them one will incur Allah’s punishment.
 Tawaaf and other acts of worship where ritual purification is a
 pre-requisite. Wudhu is done with water.
 
-

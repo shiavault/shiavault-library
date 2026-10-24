@@ -66,7 +66,3 @@ Prophet." Among them too were some who memorized some portion of it, and
 some most of it, beside some — who were few in number — who learnt by
 heart all of it completely.
 
-  
-  
-  
-

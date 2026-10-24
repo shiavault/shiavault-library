@@ -294,4 +294,3 @@ lives in this world. Therefore, faith in life after death and the Day of
 Judgement, which is an essential part of Islam, like prayer, is very
 helpful in controlling men against committing sins.
 
-

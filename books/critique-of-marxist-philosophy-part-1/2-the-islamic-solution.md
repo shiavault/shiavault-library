@@ -61,4 +61,3 @@ of Islam and other schools which confront it. Since the capitalist
 system lacks any philosophical basis, he proposes to examine in detail
 the philosophical foundations of dialectical materialism.
 
-

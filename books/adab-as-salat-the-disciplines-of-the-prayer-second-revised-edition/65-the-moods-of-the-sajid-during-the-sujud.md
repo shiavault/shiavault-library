@@ -28,4 +28,3 @@ multiplicity, also happen during this sobriety after annihilation
 [*mahw*]. Up to this point, all the circle of man's journey has been
 full and complete.
 
-

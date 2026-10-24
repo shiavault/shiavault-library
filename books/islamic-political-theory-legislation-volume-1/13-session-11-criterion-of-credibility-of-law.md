@@ -386,14 +386,10 @@ special and constitutes the essence of humanity is his soul. Now, if
 that which is the criterion of humanity faces danger, man will
 experience real death. As God says,
 
-<blockquote dir="rtl">
-  <p>
-﴿أَوَ مَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا
-يَمْشِي بِهِ فِي النَّاسِ كَمَن َ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ
-بِخَارِجٍ مِنْهَا كَذَلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُواْ
-يَعْمَلُونَ﴾
-  </p>
-</blockquote>
+> ﴿أَوَ مَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا
+> يَمْشِي بِهِ فِي النَّاسِ كَمَن َ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ
+> بِخَارِجٍ مِنْهَا كَذَلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُواْ
+> يَعْمَلُونَ﴾
 
 ***“Is he who was lifeless, then We gave him life and provided him with
 a light by which he walks among the people, like one who dwells in
@@ -477,5 +473,4 @@ question: Do we really have interests other than material ones?
 [^1]: Surah an-Nisa’ 4:176
 
 [^2]: Surah al-An‘am 6:122.
-
 

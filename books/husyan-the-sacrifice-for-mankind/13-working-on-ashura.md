@@ -698,4 +698,3 @@ that the Imams alayhum-as-salam used to, and Imam Mahdi alayhis-salam,
 and may Allah hasten his reappearance, goes as far as weeping blood
 instead of tears for Imam Husayn alayhis-salam.
 
-

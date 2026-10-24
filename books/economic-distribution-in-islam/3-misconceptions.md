@@ -192,4 +192,3 @@ then come to incarnate the theory and give it a practical quality in the
 lives of the individual and the community (like the areas of obligation,
 prohibition, permission, unlawfulness and lawfulness).
 
-

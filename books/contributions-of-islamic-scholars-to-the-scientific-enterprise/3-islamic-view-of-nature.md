@@ -52,4 +52,3 @@ attitude of the Quran which engendered in its followers a feeling of
 reverence and thus made them founders of an enlightened society (Iqbal,
 1986).
 
-

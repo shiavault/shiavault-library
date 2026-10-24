@@ -390,4 +390,3 @@ Al-Miqdad saw Uthman deviating from the Prophet's behaviour. However, he
 stayed loyal to his religion. He became ninety years old. Then he passed
 away.
 
-

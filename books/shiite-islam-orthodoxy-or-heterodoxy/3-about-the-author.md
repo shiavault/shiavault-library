@@ -68,4 +68,3 @@ in Soria, Spain. In collaboration with Dr. John A. Morrow and Barbara
 Castleton, Professor Vittor has completed the book *Arabic, Islām, and
 the Allāh Lexicon* (2006) which is published by the Edwin Mellen Press.
 
-

@@ -6,13 +6,9 @@ Allah (swt) is most Gracious - The Dispenser of Grace
 
 **Surah Az-Zumar, 39:53**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنفُسِهِمْ لَا
-تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنفُسِهِمْ لَا
+> تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
 
 Qul yaa - ‘Ibaadiyal-laziina ’asrafuu ‘alaaa ’anfusihim laa taq-natuu
 mir - Rahmatil-laah: ’in-nal-laaha yagh-firuz - zunuuba jamii - ‘aa.
@@ -71,15 +67,11 @@ Allah (swt) is Omniscient (Knowing Everything)
 
 **Surah Yunus, 10:61**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُو مِنْهُ مِن قُرْآنٍ وَلاَ
-تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُودًا إِذْ
-تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ
-فِي الأَرْضِ وَلاَ فِي السَّمَاء وَلاَ أَصْغَرَ مِن ذَلِكَ وَلا
-أَكْبَرَ إِلاَّ فِي كِتَابٍ مُّبِينٍ
-  </p>
-</blockquote>
+> وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُو مِنْهُ مِن قُرْآنٍ وَلاَ
+> تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُودًا إِذْ
+> تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ
+> فِي الأَرْضِ وَلاَ فِي السَّمَاء وَلاَ أَصْغَرَ مِن ذَلِكَ وَلا
+> أَكْبَرَ إِلاَّ فِي كِتَابٍ مُّبِينٍ
 
 Wa maa takuunu fii sha’-ninw-wa maa tatluu minhu min Qur-’aaninw-wa laa
 ta’-maluuna min ‘amalin ’il-laa kun-naa ‘alay-kum Shuhuu-dan ’iz
@@ -105,12 +97,8 @@ Allah (swt) is Omnipotent and Omnipresent (Having infinite power and being prese
 
 **Surah Qaaf, 50:16**
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
 
 Wa laqad khalaqnal-’insaa-na wa na‘-lamu maa tuwas-wisu bihii nafsuh. wa
 Nahnu ’aqra-bu ’ilayhi min hablil-wariid
@@ -133,11 +121,7 @@ Declaration of Allah’s (swt) Perfection and Absolute Oneness
 
 **Surah Ikhlas, 112:1-4**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ
 
 Qul Hu-wal-laahu ’Ahad;
 
@@ -145,11 +129,7 @@ Qul Hu-wal-laahu ’Ahad;
 *
 Say: “He is the One God:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الصَّمَدُ
-  </p>
-</blockquote>
+> اللَّهُ الصَّمَدُ
 
 . ’Al-laahus-Samad;
 
@@ -157,11 +137,7 @@ Say: “He is the One God:
 *
 God the Eternal, the Uncaused Cause of All Being.
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَلِدْ وَلَمْ يُولَدْ
-  </p>
-</blockquote>
+> لَمْ يَلِدْ وَلَمْ يُولَدْ
 
 Lam yalid, wa lam yuulad;
 
@@ -169,11 +145,7 @@ Lam yalid, wa lam yuulad;
 *
 He begets not, and neither is He begotten;
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
 
 Walam yakul-la-Huu kufuwan ’ahad.
 
@@ -191,12 +163,8 @@ Attributes of Allah (swt)
 
 **Surah al-Hashr, 59:22-24**
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ
-وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ
+> وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ
 
 .
 
@@ -208,13 +176,9 @@ beyond the reach of a created being’s perception, as well as all that
 can be witnessed by a creature’s senses or mind: He, the Most Gracious,
 the Dispenser of Grace.*
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ
-السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ
-الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ
+> السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ
+> الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
 
 Huwal-laa-hul-lazil Laaa-’i-laaha ’il-la a Huu; -
 ’Al-Malikul-Qud-duusus-Salaamul - Mu‘-minul -
@@ -229,13 +193,9 @@ wrong and restores right, the One to whom all greatness belongs!*
 *Utterly remote is God, in His limitless glory, from anything to which
 men may ascribe a share in His divinity!*
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَاء
-الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ
-الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَاء
+> الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ
+> الْعَزِيزُ الْحَكِيمُ
 
 Huwal-laahul Khaaliqul- Baari-’ul-Musaw-wiru lahul-’Asmaaa-’ul-Husnaa:
 yusab-bi-hu lahuu maa fis-samaa-waati wal-’arz: wa Huwal-
@@ -260,12 +220,8 @@ Allah’s (swt) Justice (‘Adil)
 
 **Surah Ali \`Imran, 3:182**
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللّهَ لَيْسَ بِظَلاَّمٍ
-لِّلْعَبِيدِ
-  </p>
-</blockquote>
+> ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللّهَ لَيْسَ بِظَلاَّمٍ
+> لِّلْعَبِيدِ
 
 Zaalika bimaa qad-damat ’y-diikum wa ’an-nallaaha laysa
 bi-zal-laamil-lil-’abiid.
@@ -293,12 +249,8 @@ it.”*
 
 **Surah an-Nisa, 4:40**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً
-يُضَاعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً
+> يُضَاعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا
 
 ’In-nallaaha laa yazlimu misqaala zar-rah: wa ’in-taku hasanatan -
 yuzaa - ’ifhaa wa yu’-ti mil-la-dunhu ’ajran ‘a-ziimaa.
@@ -310,12 +262,8 @@ may have merited)”*
 
 **Surah an-Nisa, 4:49**
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنفُسَهُمْ بَلِ اللّهُ
-يُزَكِّي مَن يَشَاء وَلاَ يُظْلَمُونَ فَتِيلاً
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنفُسَهُمْ بَلِ اللّهُ
+> يُزَكِّي مَن يَشَاء وَلاَ يُظْلَمُونَ فَتِيلاً
 
 ’Alam tara ilal-lazina yu-zak-kuuna ’anfusahum? Balil-laahu yuzak-kii
 man-yashaaa-’u wa laa yuzlamuuna fatiilaa.
@@ -329,16 +277,12 @@ A Supplication for Allah’s (swt) Unlimited Mercy
 
 **Surah al-Baqarah, 2:286**
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُكَلِّفُ اللّهُ نَفْسًا إِلاَّ وُسْعَهَا لَهَا مَا كَسَبَتْ
-وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا
-أَوْ أَخْطَأْنَا رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا
-حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا
-مَا لاَ طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا
-أَنتَ مَوْلاَنَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> لاَ يُكَلِّفُ اللّهُ نَفْسًا إِلاَّ وُسْعَهَا لَهَا مَا كَسَبَتْ
+> وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا
+> أَوْ أَخْطَأْنَا رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا
+> حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا
+> مَا لاَ طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا
+> أَنتَ مَوْلاَنَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 
 Laa yukalli-fullaahunaf-san‘il-las wus-’ahaa. Lahaa maa kasabat wa
 ‘alay-haa mak-tasabat. Rab-banaa wa laa tuham-mil-naa maa laa taaqata
@@ -367,13 +311,9 @@ The Innumerous Blessings of Allah (swt) Bestowed upon Mankind
 
 **Surah an-Nahl, 16:66-69**
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَكُمْ فِي الأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي
-بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا
-لِلشَّارِبِينَ
-  </p>
-</blockquote>
+> وَإِنَّ لَكُمْ فِي الأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي
+> بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا
+> لِلشَّارِبِينَ
 
 Wa ’in-na lakum fil-an‘aami la-‘ibrah. Nus-qiikum-mim-maa fii
 butuu-nihii mimbayni far-thinw-wa damil-labanan khaalisan -
@@ -384,12 +324,8 @@ give you to drink of that (fluid) which is (secreted from) within their
 bellies between that which is to be eliminated (from the animal’s body)
 and (its) life-blood: milk pure and pleasant to those who drink it.*
 
-<blockquote dir="rtl">
-  <p>
-وَمِن ثَمَرَاتِ النَّخِيلِ وَالأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا
-وَرِزْقًا حَسَنًا إِنَّ فِي ذَلِكَ لآيَةً لِّقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمِن ثَمَرَاتِ النَّخِيلِ وَالأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا
+> وَرِزْقًا حَسَنًا إِنَّ فِي ذَلِكَ لآيَةً لِّقَوْمٍ يَعْقِلُونَ
 
 Wa min - thama-raatin-na-khiili wal-’a‘-naabi tat-takhi-zuuna minhu
 sakaranw-wa rizqan hasanaa: ‘in-na fii zaalika la- ’Aaya-tal-liqaw-min
@@ -400,12 +336,8 @@ from it you derive intoxicants*[^2] *as well as wholesome sustenance -
 in this, behold, there is a message indeed for people who use their
 reason!*
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
-بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ
-  </p>
-</blockquote>
+> وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
+> بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ
 
 Wa’awhaa Rab-buka ’ilan Nahli ’anit-ta-khizii minal-jibaali
 buyuu-tanw-wa minash-shajari wa mim-maa ya‘-ri-shuun;
@@ -414,13 +346,9 @@ buyuu-tanw-wa minash-shajari wa mim-maa ya‘-ri-shuun;
 thyself dwellings in mountains and in trees, and in what (men) may build
 ( for thee by way of hives);*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلاً
-يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاء
-لِلنَّاسِ إِنَّ فِي ذَلِكَ لآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلاً
+> يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاء
+> لِلنَّاسِ إِنَّ فِي ذَلِكَ لآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ
 
 Thum-ma kulii min kul-lis-thamaraati faslukiisubula Rab-biki zululaa.
 Yakhruju mim-butuu-nihaa sharaa-bum-mukh-talifun ’lwaa-nuhuu fiihi
@@ -437,12 +365,8 @@ How to earn Allah’s (swt) Mercy
 
 **Surah An-Nur, 24:56**
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ
-لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ
+> لَعَلَّكُمْ تُرْحَمُونَ
 
 Wa ’aqiimus - Salaata wa ’aatuz - Zakaata wa ’atii-‘ur-Rasu-la la -
 ‘al-lakum turha-muun
@@ -456,14 +380,10 @@ Certain Knowledge is only with Allah (swt)
 
 **Surah Luqman, 31:34**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ
-وَيَعْلَمُ مَا فِي الْأَرْحَامِ وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ
-غَدًا وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ
-عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ
+> وَيَعْلَمُ مَا فِي الْأَرْحَامِ وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ
+> غَدًا وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ
+> عَلِيمٌ خَبِيرٌ
 
 ’In-nal-laaha ‘indahuu ‘il-mus-Saa-‘ah Wa yunaz-zilul-ghaythawaya‘-lamu
 maa fil - ’arhaam. Wa maa tadrii nafsum-maa-zaa taksibu ghadaa: wa maa
@@ -480,51 +400,31 @@ Taking Refuge With The Almighty
 
 **Surah Al–Falaq, 113:1-5**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
 
 Qul ’a-‘uuzu bi-Rab-bil Falaq,
 
 *Say: “I seek refuge with the Sustainer of the rising dawn,*
 
-<blockquote dir="rtl">
-  <p>
-مِن شَرِّ مَا خَلَقَ
-  </p>
-</blockquote>
+> مِن شَرِّ مَا خَلَقَ
 
 Min-shar-ri maa khalaq;
 
 *from the evil of aught that He has created,*
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
-  </p>
-</blockquote>
+> وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
 
 Wa min-shar-ri ghaa-siqin ’izaa waqab,
 
 *and from the evil of the black darkness whenever it descends,*
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
-  </p>
-</blockquote>
+> وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
 
 Wa min-shar-rin Naf-faa-thaati fil-‘uqad,
 
 *and from the evil of all human beings bent on occult* *endeavours,*
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
-  </p>
-</blockquote>
+> وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
 Wa min-shar-ri haasidin ’izaa hasad.
 
@@ -532,61 +432,37 @@ Wa min-shar-ri haasidin ’izaa hasad.
 
 **Surah An–Nas, 114:1-6**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبِّ النَّاسِ
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبِّ النَّاسِ
 
 Qul ’a-’uuzu bi Rab-bin-Naas.
 
 *Say: “ I seek refuge with the Sustainer of men,*
 
-<blockquote dir="rtl">
-  <p>
-مَلِكِ النَّاسِ
-  </p>
-</blockquote>
+> مَلِكِ النَّاسِ
 
 Malikin-Naas,
 
 *the Sovereign of men,*
 
-<blockquote dir="rtl">
-  <p>
-إِلَهِ النَّاسِ
-  </p>
-</blockquote>
+> إِلَهِ النَّاسِ
 
 ’Ilaahin-Naas,
 
 *the God of men,*
 
-<blockquote dir="rtl">
-  <p>
-مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
-  </p>
-</blockquote>
+> مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
 
 Min-shar-ril-Waswaasil-khan-Naas,
 
 *from the evil of the whispering, elusive tempter*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
-  </p>
-</blockquote>
+> الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
 
 ’Al-lazii yu was-wisu fii su duu-rin-Naas
 
 *who whispers in the hearts of men*
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْجِنَّةِ وَ النَّاسِ
-  </p>
-</blockquote>
+> مِنَ الْجِنَّةِ وَ النَّاسِ
 
 Minal-Jin-nati wan-Naas.
 
@@ -605,5 +481,4 @@ various usage of the product of the fruits.
 unborn embryo, but also to the question of whether it will be born at
 all, and if so, what its natural endowments and its character will be,
 as well as what role it will be able to play in life.
-
 

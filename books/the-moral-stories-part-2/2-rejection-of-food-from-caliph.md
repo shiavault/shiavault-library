@@ -100,4 +100,3 @@ criticism of people".
 
 "The one who seeks advice is helped"
 
-

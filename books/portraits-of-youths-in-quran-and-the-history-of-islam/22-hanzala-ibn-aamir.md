@@ -52,10 +52,10 @@ Thus that so-called mosque was razed to the ground. When Abu Aamir
 learnt that his life was in danger, he fled to Mecca and
 
 united with Abu Sufyan. He was present in the Battle of Uhad in the
-3<sup>rd</sup> year of Hijrah. Then he returned to Mecca . Later he
+3rd year of Hijrah. Then he returned to Mecca . Later he
 migrated to Byzantine lands and was favored by the Roman King, Hebeclus,
 and lived in great comfort and luxury. When he died in the
-9<sup>th</sup> year of Hijrah the King transferred all his property to
+9th year of Hijrah the King transferred all his property to
 his companion, Kinana Abdul Yalil.
 
 As mentioned before, Abu Aamir had a son named Hanzala, who was exactly

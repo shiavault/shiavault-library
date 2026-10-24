@@ -60,13 +60,9 @@ all are forgotten by people, or else completely unknown.
  But not only did 'Ali not die with his being killed, he became more
 alive. He spoke well when he said:
 
-<blockquote dir="rtl">
-  <p>
- هَلَكَ خُزَّانُ الاْمْوَالِ وَهُمْ أَحْيَاءٌ، وَالْعَلَمَاءُ بَاقُونَ
-مَا بَقِيَ الدَّهْرُ، أَعْيَانُهُمْ مَفْقُودَةٌ،أَمْثَالُهُمْ فِي
-الْقُلُوبِ مَوْجُودَةٌ
-  </p>
-</blockquote>
+>  هَلَكَ خُزَّانُ الاْمْوَالِ وَهُمْ أَحْيَاءٌ، وَالْعَلَمَاءُ بَاقُونَ
+> مَا بَقِيَ الدَّهْرُ، أَعْيَانُهُمْ مَفْقُودَةٌ،أَمْثَالُهُمْ فِي
+> الْقُلُوبِ مَوْجُودَةٌ
 
 Those who amass wealth are dead even when they are alive, but those with
 knowledge will remain as long as the world remains. Their bodies may
@@ -74,12 +70,8 @@ have disappeared, but their images continue to exist in the hearts.[^1]
 
 He said about his own character:
 
-<blockquote dir="rtl">
-  <p>
- غَداً تَرَوْنَ أَيَّامِي، وَيُكْشَفُ لَكُمْ عَنْ سَرَائِرِي،
-وَتَعْرِفُونَنِي بَعْدَ خُلُوِّ مَكَانِي وَقِيَامِ غَيْرِي مَقَامِي.
-  </p>
-</blockquote>
+>  غَداً تَرَوْنَ أَيَّامِي، وَيُكْشَفُ لَكُمْ عَنْ سَرَائِرِي،
+> وَتَعْرِفُونَنِي بَعْدَ خُلُوِّ مَكَانِي وَقِيَامِ غَيْرِي مَقَامِي.
 
 Tomorrow, you will see these days of mine and unknown characteristics of
 mine will be revealed to you, and after my place has been vacated and
@@ -142,5 +134,4 @@ those personalities who was born before his time.
 Nicholson, 2nd revised ed., Lahore 1940.
 
 [^4]: Jubran Khalil Jubran [1300/ 1883 - 1349/1931]
-
 

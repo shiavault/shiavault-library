@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ سَيَعْلَمُونَ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَتقَلِبُونَ
-  </p>
-</blockquote>
+> وَ سَيَعْلَمُونَ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَتقَلِبُونَ
 
 *“And they who act unjustly shall know to what final place of turning
 they shall turn back.”*[^1]
 
 Imam Baqir (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ أََحَدٍ يَظْلِمُ بِمَظلِمَةٍ إِلاَّ أََخَذَهُ اللهُ تَعاَلـى
-بِهَا فِي نَفْسِهِ أََوْ مَالِهِ.
-  </p>
-</blockquote>
+> مَا مِنْ أََحَدٍ يَظْلِمُ بِمَظلِمَةٍ إِلاَّ أََخَذَهُ اللهُ تَعاَلـى
+> بِهَا فِي نَفْسِهِ أََوْ مَالِهِ.
 
 *“There is none who commits oppression by means of an (act of)
 injustice, except that Allah afflicts him or his wealth because of
@@ -298,5 +290,4 @@ Maqatil al-Talibin, Kashf al-Astar, Al-Imamah Wa al-Siyasah, Akhbar
 al-Duwal, Tarikh Masu’di.
 
 [^11]: Muntahal A’mal, vol. 2, pg. 34
-
 

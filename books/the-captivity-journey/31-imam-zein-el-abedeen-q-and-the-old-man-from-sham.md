@@ -68,4 +68,3 @@ society. That is why we see that the man from Sham started his speech by
 expressing his thanks to God for killing the "outlaw" and finishing his
 family.
 
-

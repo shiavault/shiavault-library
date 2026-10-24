@@ -211,4 +211,3 @@ twelve days.
 Thanks to Imam Husayn, his family and his faithful friends. Their great
 sacrifice in Karbala’, saved Islam, our great religion.
 
-

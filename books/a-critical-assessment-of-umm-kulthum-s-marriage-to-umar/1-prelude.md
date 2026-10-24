@@ -63,4 +63,3 @@ the Imam of Time, may Allah hasten his reappearance.
 
 **Islamic Truths Center**
 
-

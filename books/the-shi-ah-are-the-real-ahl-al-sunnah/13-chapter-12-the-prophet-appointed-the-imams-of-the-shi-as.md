@@ -215,7 +215,7 @@ rule through sects which they invented and fiqh which is totally their
 own, one which they built on their sect, a sect which criticizes a
 number of the sahaba."[^73]
 
-[^65] Abul-Qasim Mahmud ibn Muhammad ibn Ahmad al-Khawarizmi
+[^65]: Abul-Qasim Mahmud ibn Muhammad ibn Ahmad al-Khawarizmi
 al-Zamakhshari was a senior mentor and instructor in exegesis, hadith,
 Arabic grammar, and logic. He was born on a Wednesday in the month of
 Rajab, 367 A.H./978 A.D. in the village of Zamakhshar in the area of
@@ -230,24 +230,24 @@ Shafi al-\`Ay (healer of mental blocks). May Allah have mercy on the
 soul of this great man and on the souls of all great men, Allahomma
 Aameen. \_\_ Tr.
 
-[^66] This is recorded on p. 440 of Yanabee\` al-Mawaddah by the Hanafi
+[^66]: This is recorded on p. 440 of Yanabee\` al-Mawaddah by the Hanafi
 author al-Qandoozi. It is also recorded by al-Hamawayni [another Sunni
 scholar] who quotes Mujahid quoting Ibn Abbas.
 
-[^67] For more details on this matter, refer to pp. 159-160 of my book
+[^67]: For more details on this matter, refer to pp. 159-160 of my book
 With the Truthful where you will come to know that Ibn Taymiyya calls
 for abandoning the Prophet's Sunnah because it became the banner of the
 Shi\`as. Yet they call him mujaddid al-Sunnah, the one who revived the
 Sunnah!
 
-[^68] Imam Ahmad ibn Hanbal, Musnad, Vol. 5, p. 189, and also al-Hakim,
+[^68]: Imam Ahmad ibn Hanbal, Musnad, Vol. 5, p. 189, and also al-Hakim,
 Mustadrak, Vol. 3, p. 148. Al-Hakim comments thus: "This is an authentic
 tradition which both Shaykhs [al-Bukhari and Muslim] had verified and
 did not exclude (from their own books). Al-Dhahabi, too, has classified
 it as authentic in his book Al-Talkhees, admitting its authenticity,
 relying in doing so on both Shaykhs' endorsement."
 
-[^69] In his Sahih, al-Bukhari states that the Prophet prohibited
+[^69]: In his Sahih, al-Bukhari states that the Prophet prohibited
 congregatinal taraweeh prayers during the month of Ramadan, saying,
 "Offer prayers, O people, at your own homes, for the best prayers one
 can offer are the ones which he offers at home with the exception of
@@ -255,12 +255,12 @@ obligatory prayers." But "Ahl al-Sunnah" ignored the Prophet's
 prohibition and followed the innovation started by Umar ibn
 al-Khattab.
 
-[^70] Al-Dhahabi, Tadhkirat al-Huffaz, Vol. 1, p. 3.
-[^71] Imam Ahmad ibn Hanbal, Musnad, Vol. 1, p. 4, and also on p. 126,
+[^70]: Al-Dhahabi, Tadhkirat al-Huffaz, Vol. 1, p. 3.
+[^71]: Imam Ahmad ibn Hanbal, Musnad, Vol. 1, p. 4, and also on p. 126,
 Vol. 3, of Kanz al-Ummal.
-[^72] Al-Hakim, Mustadrak, Vol. 3, p. 121; Ahmad ibn Hanbal, Musnad,
+[^72]: Al-Hakim, Mustadrak, Vol. 3, p. 121; Ahmad ibn Hanbal, Musnad,
 Vol. 6, p. 323, Vol. 6; and al-Nasa'i, Khasais, p. 17.
-[^73] This is stated on p. 494, in the part dealing with the science of
+[^73]: This is stated on p. 494, in the part dealing with the science of
 fiqh and the injunctions upon which they are based, of Ibn Khaldun's
 Muqaddimah (Introduction).
 

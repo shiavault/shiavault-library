@@ -1,11 +1,7 @@
 Lady Fatima – Flesh Of The Holy Prophet
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-قالَ : وَ عَليك السَّلامُ يا بِنتِي وَ يا بَضعَتِي قَد أَذِنتُ لَكِ
-  </p>
-</blockquote>
+> قالَ : وَ عَليك السَّلامُ يا بِنتِي وَ يا بَضعَتِي قَد أَذِنتُ لَكِ
 
 **My father replied, "Peace be upon you too, my daughter and part of my
 flesh. I allow you." I thus went with them under the cloak.**
@@ -16,12 +12,8 @@ by saying “Peace be upon you O father O Messenger of Allah”. Here, we
 are to be reminded of an interesting story which took place after the
 revelation of this verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَجْعَلُوا دُعَاءَ الرَّسُولِ بَيْنَكُمْ كَدُعَاءِ بَعْضِكُمْ
-بَعْضًا.
-  </p>
-</blockquote>
+> لَا تَجْعَلُوا دُعَاءَ الرَّسُولِ بَيْنَكُمْ كَدُعَاءِ بَعْضِكُمْ
+> بَعْضًا.
 
 ***“Make not the calling of the messenger among you as your calling upon
 one another.” (24:63)***
@@ -129,5 +121,4 @@ narration. With that in mind, one can imagine what great retribution and
 castigation the unjust oppressors deserve from the Almighty Allah (SWT)
 whose pleasure is aligned with the pleasure of the Prophet which is also
 aligned with the pleasure of Lady Fatima (AS).
-
 

@@ -27,4 +27,3 @@ philosophy of other luminaries of twentieth century analytic philosophy
 should help us to identify an entrenched trend, and also thereby
 contribute also to its reversal.
 
-

@@ -17,4 +17,3 @@ another one rises.
 
 (Sermon 100)
 
-

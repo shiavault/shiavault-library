@@ -35,5 +35,3 @@ We hope that Muslims would once again derive the benefits of Islamic
 principles and resume their intellectual mission as nowadays we can see
 the signs of revival among them.
 
-
-

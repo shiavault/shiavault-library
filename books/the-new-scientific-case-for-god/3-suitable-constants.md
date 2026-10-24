@@ -103,7 +103,6 @@ of energy given the gravity of the singularity. No known natural force
 could have overcome even a tenth of the gravity of the singularity at
 the time of the big bang. "...and We split them apart." (Koran 21:30).
 
-
 Consider this law in science:
 
 Occam's Razor
@@ -131,7 +130,6 @@ originated in the universe. Koran 23:91 states:
 each god would have declared independence with their creations, and they
 would have competed with each other for dominance. GOD be glorified; far
 above their claims." (Koran 23:91) .
-
 
 **Who Created God?**
 
@@ -181,5 +179,4 @@ Blue stars on the other hand burn only for a short time, i.e. around
 life to emerge on earth. 150 million just would not cut it. The constant
 was set by the designer to make sure that life emerged when and where He
 decided.
-
 

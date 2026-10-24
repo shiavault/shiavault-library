@@ -120,4 +120,3 @@ O Ali, the present richness is surely the fewness of asking from
 people. To ask from people frequently is surely humility. It is also the
 present poverty.
 
-

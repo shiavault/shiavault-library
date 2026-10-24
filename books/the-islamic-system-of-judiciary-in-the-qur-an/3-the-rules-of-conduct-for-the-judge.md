@@ -183,7 +183,6 @@ by Allah, the Exalted. The judge must be on his guard against inclining
 towards him, defending him, driving away the oppressed person, and
 standing by the oppressor.
 
-
 **Conclusion**
 
 The aim of the judiciary is that the judge should possess the greatest
@@ -245,10 +244,8 @@ of anyone's reproach. \`The judges are of four kinds, three of which
 belong in the fire and one in heaven. [^2] This kind is the one who
 judges rightly and knows that it is right.
 
-
 **Notes**
 
 [^1]. Al-Tabataba'i, al-\`Urwat al-wuthqa, p.3.
 [^2]. Al-Wasa'il, Chapter 4, "The Qualities of a Judge."
-
 

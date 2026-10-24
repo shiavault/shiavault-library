@@ -1,20 +1,12 @@
 The Twenty Sixth Talk
 =====================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***He said: ‘Then by Thy Might I will surely make them live an evil
 life, all, Except Thy servants from among them, the purified ones.’***
@@ -200,11 +192,7 @@ It is a strange thing that till a person takes refuge in the fortress of
 sincerity of purpose he is not safe from the machinations of Satan. This
 is the stage where a person prays from the depths of his heart:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-  </p>
-</blockquote>
+> أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
 
 ***Or, Who answers the distressed one when he calls upon Him and removes
 the evil... (Sura an-Naml, 27:62)***
@@ -243,5 +231,4 @@ leftovers of your table! How can I abandon in times of hardship?” The
 person pleaded with the Imam so much that he was given permission to go
 to the field of battle. He, at last, attained the felicity of Martyrdom.
 What act could be better than this!
-
 

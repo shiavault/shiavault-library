@@ -209,4 +209,3 @@ than) God,”*** (5:58) refer to the leader ship and imamate?
  5. In all of the verses of the Qur’an about the issue of wilayat’, what
 point can be made?
 
-

@@ -616,4 +616,3 @@ daughters’ hands so that the rest of the people would leave his progeny
 unharmed. Both of these two points find mention in the traditions
 related by us previously.
 
-

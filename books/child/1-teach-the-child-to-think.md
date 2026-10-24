@@ -96,7 +96,6 @@ invites emotions to help and fill the gap. As adult, he is likely to
 make worse decisions for himself more through emotions than reasoning.
 The road to hell in this life is paved with emotional decisions!
 
-
 **Treat the Child as an Adult**
 
 A child on his first day in the school leaves his desk, walks to his
@@ -217,7 +216,6 @@ It is reported that in a community of boat people somewhere in a Far
 East jungle, children are let into the water and learn to float, like
 adults, even before they can walk!
 
-
 **Allow the Child to Speak**
 
 A prisoner misbehaving in the prison is sometimes punished by a
@@ -292,5 +290,4 @@ parents. The child when adult will have no legacy of 'competitiveness in
 languages' to pass on. The child will remember the parents, not kindly,
 for this thoughtless and myopic omission or, worse still, parental
 negligence.
-
 

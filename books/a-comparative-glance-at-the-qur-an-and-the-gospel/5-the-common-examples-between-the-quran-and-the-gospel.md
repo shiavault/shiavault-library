@@ -471,4 +471,3 @@ evening. (The Lord said unto Zachariah's son) ‘O’ Yahya! Hold thou the
 Book fast!’ and We granted him wisdom (apostleship) while yet a child."
 (Maryam, 11-12)
 
-

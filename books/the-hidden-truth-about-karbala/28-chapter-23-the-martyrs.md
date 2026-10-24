@@ -383,4 +383,3 @@ Prayer. Sa’eed was mortally wounded by an arrow and was martyred.
 
 [^7]: Nafasul Mahmoom, p. 355.
 
-

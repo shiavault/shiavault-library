@@ -1,11 +1,7 @@
 Fabrication of Traditions Against Ali
 =====================================
 
-  
-  
-  
-
-Abu Ja'far al-Iskafi <span id="_anchor_412"></span>412  said that
+Abu Ja'far al-Iskafi 412  said that
 Mu'awiyah forced some of the Companions and the Followers to narrate
 obscene and indecent reports, with ascribing then to Ali, with the aim
 of defaming and disowning him. He dedicated for this act a certain
@@ -14,13 +10,12 @@ him, among whom being Abu Hurayrah, 'Amr ibn al-\`As and al-Mughirah ibn
 Shu'bah, beside Urwah ibn al-Zubayr from among the Tabi'un.
 
 Al-A'mash reported that: When Abu Hurayrah arrived, with Mu'awiyah, in
-Iraq in the year called at-Jama'ah year <span
-id="_anchor_413"></span>413  he betook himself to the Kufah Mosque. On
+Iraq in the year called at-Jama'ah year 413  he betook himself to the Kufah Mosque. On
 noticing the great multitude of people gathered for his reception, he
 kneeled down on his knees, beating his bald head recurringly, saying: O
 people of Iraq! do you allege that I am lying to Allah and His
 
-Messenger, <span id="_anchor_414"></span>414  and burn myself in Fire?
+Messenger, 414  and burn myself in Fire?
 By God, I heard the Messenger of Allah saying: For every prophet there
 is a special shrine, and my shrine is at al-Madinah between "Ir to
 Thawr. Whoever causing hadath (condition requiring wudu' or ghusl), will
@@ -45,12 +40,11 @@ enmity of His friend. Then after levelling at him such a painful blow,
 he departed him.
 
 Muslim reported that Mu'awiyah ibn Abi Sufyan said to Sa'd ibn Abi
-Waqqas: What prohibits you from insulting Abu Turab? <span
-id="_anchor_415"></span>415  He said: Don't you remember three virtues
+Waqqas: What prohibits you from insulting Abu Turab? 415  He said: Don't you remember three virtues
 disclosed by the Messenger to him? Had I possessed one of which, it
 would have been dearer for me than the red camels, the fact for which I
 abstain from slandering him! I heard the Messenger of Allah, as he left
-him behind in one of his battles, <span id="_anchor_416"></span>416  and
+him behind in one of his battles, 416  and
 when Ali inquired him: O Messenger of Allah, are you leaving me with the
 women and lads? he
 
@@ -106,7 +100,7 @@ have earned it through lawful means, and discharged it willingly! Have
 you come from the farthest spot in the Bahrayn, to this region where
 taxes are collected from people for you, neither for God nor for the
 Muslims? Verily Umaymah (mother of Abu Hurayrah) has never produced you
-but only for pasturing the red camels. <span id="_anchor_417"></span>417
+but only for pasturing the red camels. 417
 
 In another narration reported by Abu Hurayrah himself: Umar said: O the
 enemy of Allah and enemy of His Book! you have looted property of Allah,
@@ -142,14 +136,13 @@ most of the (Sunni) traditionists — just in whole, this epithet (adalah)
 can never be applied to the Followers (Tabi'un). Further it is confirmed
 that he used to hear and take traditions from Ka'b al-Ahbar who was
 known of uttering weak and unauthentic traditions. But Abu Hurayrah used
-to declare publicly of hearing <span id="_anchor_418"></span>418  in the
+to declare publicly of hearing 418  in the
 hadith "Allah created the soil (turbah) on Saturday," upon which there
 was unanimity among ulama’ that he quoted this hadith from Ka'b
-al-Ahbar." <span id="_anchor_419"></span>419
+al-Ahbar." 419
 
 He added: "In his traditions, he depended on narration on the basis of
-denotation (intended by the hadith) and irsal <span
-id="_anchor_420"></span>420  (reporting hadith without referring to
+denotation (intended by the hadith) and irsal 420  (reporting hadith without referring to
 chain of narrators), due to the fact that most of them he heard from the
 Sahabah and some of the Tabi'un. Narrating hadith according to its
 meaning used to be the cause and source of a large number of seditions
@@ -165,10 +158,8 @@ traditions) were odd and strange in themselves, in a way that had the
 like of which been singly reported by anyone other than the Companions,
 it would have been counted among the factors through which its narration
 could be confirmed — as commonly known among hadith critics, Ahl al-Jarh
-wa al-Ta\`dil (men of sarcasm and modification) <span
-id="_anchor_421"></span>421 . For this reason we see some people keep on
-murmuring about narrations of Abu Hurayrah. <span
-id="_anchor_422"></span>422
+wa al-Ta\`dil (men of sarcasm and modification) 421 . For this reason we see some people keep on
+murmuring about narrations of Abu Hurayrah. 422
 
 Al-Bukhari recorded 446 traditions on the authority of Abu Hurayrah,
 with recording only 217 ones for Ibn Abbas. They were not alone in
@@ -184,8 +175,7 @@ interdiction and distress,
 establishing and preferring ease, beside the principle of freedom from
 obligation, and that prohibition is applied originally to all evils and
 adversities, and lawfulness being the basic rule for all the good things
-(tayyibat), and that necessity knows no law, and other laws. <span
-id="_anchor_423"></span>423
+(tayyibat), and that necessity knows no law, and other laws. 423
 
 Also al-Bukhari, declaring that the two champions of Israeliyyat and
 sources of superstitions being Ka'b al-Ahbar and Wahb ibn Munabbih,
@@ -200,14 +190,13 @@ the Tabi'un, rather most of the marfu’ traditions reported by Abu
 Hurayrah, he never heard from the Prophet (S), the reason why he
 narrated them with weakness (‘an’anah) or by saying; The Messenger of
 Allah said (S), or at least with the words: I heard the Messenger of
-Allah say so and so. <span id="_anchor_424"></span>424  It is known that
+Allah say so and so. 424  It is known that
 he reported from some Companions and some Followers, and it is proved
 that he reported hadith from Ka'b al-Ahbar. Hence we can say decisively
 that the inalienable (mawquf) traditions of the Sahabah, that having no
 room for ijtihad or exertion of opinion, have not the power of marfu’
 (whose chain goes back to the Prophet) — as said by the traditionists —
-unless they be not like the Israeliyyat. <span
-id="_anchor_425"></span>425
+unless they be not like the Israeliyyat. 425
 
 That was a brief profile of Abu Hurayrah, in which I observed the
 reportorial aspect, not adopting the analytical and objective method,
@@ -242,14 +231,13 @@ as it was previously manifested.
 Among the statements uttered by the ulama of Kalam — owners of open and
 free reasons I would prefer the following wise words about him: "What
 raises our wonder about them — i.e. men of hadith — being their accusing
-the (shaykh) <span id="_anchor_426"></span>426  with falsity, and
+the (shaykh) 426  with falsity, and
 abstaining from recording from him those traditions that got the
 approval of muhaddithun, through referring to sarcasm of Yahya ibn Mu'in
-and Ali ibn al-Midyani and their likes, <span
-id="_anchor_427"></span>427  arguing with the hadith of Abu Hurayrah in
+and Ali ibn al-Midyani and their likes, 427  arguing with the hadith of Abu Hurayrah in
 respect of what was disapproved by all the Companions. And it is known
 that Umar, Ali, Uthman and A'ishah belied him and denied the veracity of
-his traditions. <span id="_anchor_428"></span>428
+his traditions. 428
 
 Throughout the exposition of biography of Abu Hurayrah only reality is
 observed, and I demonstrated his true character as created by Allah,
@@ -264,8 +252,7 @@ And — as said before — Abu Hurayrah had no considerable position whether
 during the lifetime of the Prophet (S) or the reigns of the Four
 Caliphs, with being unable to utter even one hadith except only after
 the murder of Umar. Further he could not dare to issue one fatwa (legal
-verdict) but only after the first fitnah (insurrection) <span
-id="_anchor_429"></span>429  which was the killing of Uthman and the
+verdict) but only after the first fitnah (insurrection) 429  which was the killing of Uthman and the
 Umayyads' attaining to sublime status and dominance. Further we never
 forget to say that al-Bukhari has never mentioned his name among the
 Companions in whose honour and excellence several traditions are
@@ -279,8 +266,7 @@ healthy hearts. These traditions might be among what he actually heard
 ### Samples of Abu Hurayrah's Narrations:
 
 Al-Bukhari and Muslim reported that he said: Death Angel was sent to
-Moses (A), and when he approached him, he (Moses) slapped him, <span
-id="_anchor_430"></span>430  when he returned to his Lord! saying to
+Moses (A), and when he approached him, he (Moses) slapped him, 430  when he returned to his Lord! saying to
 Him: You have delegated me to a bondman refusing to die. Then Allah
 recovered his eyes! and said to him: Go back and
 
@@ -320,7 +306,7 @@ said: If a fly falls in the cup of anyone of you, he has to immerse all
 of it and
 
 throw it away then, as verily in one of its wings there is malady and in
-the other is remedy. <span id="_anchor_431"></span>431
+the other is remedy. 431
 
 In al-Awsat, al-Tabarrani reported from him that the Prophet said: an
 angel brought me a letter from Allah, the Glorious and Exalted, and then
@@ -344,10 +330,6 @@ hundred years.
 Beside other narrations for Abu Hurayrah like that or even much more
 exorbitant with which many books are replete, and we are unable to cite
 them as a whole, since this task needs several complete volumes.
-
-  
-  
-  
 
 412. Sharh Nahj al-balaghah, vol. I, p. 358.
 

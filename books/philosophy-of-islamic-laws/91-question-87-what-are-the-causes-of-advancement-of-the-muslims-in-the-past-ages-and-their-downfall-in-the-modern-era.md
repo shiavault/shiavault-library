@@ -130,4 +130,3 @@ the winds the established code of law of Islam.
 
 [^1]: Surah Aale Imran 3:139
 
-

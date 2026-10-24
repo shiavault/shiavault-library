@@ -267,4 +267,3 @@ The Names of The Infallible Imams (as)
 
 12. Al-'Imam Muhammad (as) (Al-Mahdi), al-Hujjat ibn al-Hasan).
 
-

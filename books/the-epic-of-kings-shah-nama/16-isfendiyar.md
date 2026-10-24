@@ -250,4 +250,3 @@ and he made a great feast, and gave gifts richly unto all his servants.
 And the mouths of men overflowed with the doughty deeds done of
 Isfendiyar, and there was gladness throughout the land.
 
-

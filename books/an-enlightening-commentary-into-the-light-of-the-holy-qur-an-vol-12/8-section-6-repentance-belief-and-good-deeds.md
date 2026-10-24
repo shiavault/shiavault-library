@@ -4,12 +4,8 @@ Section 6: Repentance, Belief and Good Deeds
 Surah al-Furqan - Verse 61
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ الَّذِي جَعَلَ فِي السَّمَاء بُرُوجًا وَجَعَلَ فِيهَا
-سِرَاجًا وَقَمَرًا مُّنِيرًا
-  </p>
-</blockquote>
+> تَبَارَكَ الَّذِي جَعَلَ فِي السَّمَاء بُرُوجًا وَجَعَلَ فِيهَا
+> سِرَاجًا وَقَمَرًا مُّنِيرًا
 
 ***61. “Blessed is He Who has set in heaven constellations, and has set
 therein a lamp (the sun) and the moonilluminating.”***
@@ -74,12 +70,8 @@ used for the moon, though its light is borrowed from somewhere else.[^3]
 Surah al-Furqan - Verse 62
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ
-أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ
+> أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
 
 ***62. “And He it is Who has made the night and the day to succeed each
 other for him who desires to reflect or desires to be thankful.”***
@@ -158,18 +150,10 @@ them.
 Surah al-Furqan - Verses 63-64
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الأَرْضِ هَوْنًا
-وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلاَمًا
-  </p>
-</blockquote>
+> وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الأَرْضِ هَوْنًا
+> وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلاَمًا
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا
 
 ***63. “And the servants of the Beneficent (Allah) are those who walk on
 the earth humbly; and when the ignorant address them, they answer;
@@ -398,18 +382,10 @@ man’s vision strong.”*[^19]
 Surah al-Furqan - Verse 65-66
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَقُولُونَ رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ
-عَذَابَهَا كَانَ غَرَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ يَقُولُونَ رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ
+> عَذَابَهَا كَانَ غَرَامًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا سَاءتْ مُسْتَقَرًّا وَمُقَامًا
-  </p>
-</blockquote>
+> إِنَّهَا سَاءتْ مُسْتَقَرًّا وَمُقَامًا
 
 ***65. “And those who say: ‘O’ our Lord! Avert from us the torment of
 Hell, verily the torment of it is a lasting affliction;”***  
@@ -477,12 +453,8 @@ than that they desire the Paradise.
 Surah al-Furqan - Verse 67
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
-بَيْنَ ذَلِكَ قَوَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
+> بَيْنَ ذَلِكَ قَوَامًا
 
 ***67. “And those who when they spend, are neither extravagant nor
 niggardly, and are stationed between the two (extremes).”***
@@ -538,13 +510,9 @@ what is necessary and right.
 Surah al-Furqan - Verse 68
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ لاَ يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلاَ يَقْتُلُونَ
-النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ وَلاَ يَزْنُونَ
-وَمَن يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ لاَ يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلاَ يَقْتُلُونَ
+> النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ وَلاَ يَزْنُونَ
+> وَمَن يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا
 
 ***68. “And those who do not call with Allah any other god, and do not
 slay the soul which Allah has forbidden except for just cause, nor
@@ -685,20 +653,12 @@ will be punished.
 Surah al-Furqan - Verses 69-70
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ
-مُهَانًا
-  </p>
-</blockquote>
+> يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ
+> مُهَانًا
 
-<blockquote dir="rtl">
-  <p>
-إلاَّ مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلاً صَالِحًا فَأُوْلَئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
-رَّحِيمًا
-  </p>
-</blockquote>
+> إلاَّ مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلاً صَالِحًا فَأُوْلَئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
+> رَّحِيمًا
 
 ***69. “On the Day of Judgment, the chastisement will be doubled to him,
 and he shall abide therein in abasement.”***  
@@ -876,11 +836,7 @@ and manure, He changes man’s evil deeds to good deeds.
 Surah al-Furqan - Verse 71
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن تَابَ وَعَمِلَ صَالِحًا فَإِنَّهُ يَتُوبُ إِلَى اللَّهِ مَتَابًا
-  </p>
-</blockquote>
+> وَمَن تَابَ وَعَمِلَ صَالِحًا فَإِنَّهُ يَتُوبُ إِلَى اللَّهِ مَتَابًا
 
 ***71. “And whoever repents and does good, he verily repents toward
 Allah with true repentance.”***
@@ -940,12 +896,8 @@ as one of you gets happy when he finds something he has lost.”*[^34]
 Surah al-Furqan - Verse 72
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ لاَ يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ
-مَرُّوا كِرَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ لاَ يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ
+> مَرُّوا كِرَامًا
 
 ***72. “And those who witness no falsehood, and when they pass by what
 is vain, they pass by nobly.”***
@@ -1036,19 +988,11 @@ then he (as) recited this verse.[^36]
 Surah al-Furqan - Verses 73-74
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا ذُكِّرُوا بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّوا
-عَلَيْهَا صُمًّا وَعُمْيَانًا
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا ذُكِّرُوا بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّوا
+> عَلَيْهَا صُمًّا وَعُمْيَانًا
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا
-وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا
+> وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 
 ***73. “And those who, when admonished with the Signs of their Lord, do
 not fall down thereat deaf and blind.”***  
@@ -1190,18 +1134,10 @@ singular, sometimes it is used in plural sense. In this verse it is so.
 Surah al-Furqan - Verses 75-76
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا
-تَحِيَّةً وَسَلاَمًا
-  </p>
-</blockquote>
+> أُوْلَئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا
+> تَحِيَّةً وَسَلاَمًا
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فِيهَا حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا
-  </p>
-</blockquote>
+> خَالِدِينَ فِيهَا حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا
 
 ***75. “Those (servants of the Beneficent) shall be rewarded with the
 high stations (in Paradise) because they were patient, and they shall be
@@ -1286,12 +1222,8 @@ says:
 Surah al-Furqan - Verse 77
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلاَ دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ
-فَسَوْفَ يَكُونُ لِزَامًا
-  </p>
-</blockquote>
+> قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلاَ دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ
+> فَسَوْفَ يَكُونُ لِزَامًا
 
 ***77. “Say (to the disbelievers: ) ‘My Lord would not esteem you at all
 were it not for your prayer (unto Him), but you: indeed have belied (the
@@ -1775,5 +1707,4 @@ By Ibn Ab il-Hadīd. Vol. 20. P. 322, and ’Ihyā’-ul-’Ulūm, Vol. 3, P.
 [^73]: Bihār, Vol. 75, P. 43
 
 [^74]: Bihār. Vol. 68, P. 91
-
 

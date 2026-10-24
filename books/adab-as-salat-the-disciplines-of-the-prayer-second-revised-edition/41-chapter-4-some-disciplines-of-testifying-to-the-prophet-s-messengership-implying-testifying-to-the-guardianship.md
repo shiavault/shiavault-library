@@ -471,4 +471,3 @@ Adhān and the Iqāmah,” ch. 4, hadīth 4, p. 620.
 [^20]: Ibid., hadīth 9: “O Abū Dharr, your Lord boasts over His angels
 for three persons: a man in a waste land…”
 
-

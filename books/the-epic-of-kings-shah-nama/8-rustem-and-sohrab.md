@@ -1075,4 +1075,3 @@ poor. And when a year had thus rolled over her bitterness, the breath
 departed from out her body, and her spirit went forth after Sohrab her
 son.
 
-

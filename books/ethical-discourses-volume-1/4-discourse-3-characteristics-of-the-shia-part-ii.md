@@ -11,14 +11,10 @@ this means that in addition to the noble and lofty rank that is
 mentioned in the traditions which the Shia possess, they also have a
 great responsibility by being called Shia.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الصَّادِقُ : إِمْتَحِنُوا شِيعَتِنَا عِنْدَ مَوَاقِيتِ
-الْصَّلوٌةِ كَيْفَ مُحَافِظَتَهُمْ عَلَيْهَا وَ إِلـى أَسْرَارِنَا
-كَيْفَ حَفَظَهُمْ لَـهَا وَ عِنْدَ عَدُوِّنَا وِ إِلـى أَمْوَالَهَمْ
-كَيْفَ مَوَاسَاتَهُمْ لِإِخْوَانِهِمْ فِيهَا.
-  </p>
-</blockquote>
+> قَالَ الصَّادِقُ : إِمْتَحِنُوا شِيعَتِنَا عِنْدَ مَوَاقِيتِ
+> الْصَّلوٌةِ كَيْفَ مُحَافِظَتَهُمْ عَلَيْهَا وَ إِلـى أَسْرَارِنَا
+> كَيْفَ حَفَظَهُمْ لَـهَا وَ عِنْدَ عَدُوِّنَا وِ إِلـى أَمْوَالَهَمْ
+> كَيْفَ مَوَاسَاتَهُمْ لِإِخْوَانِهِمْ فِيهَا.
 
 Imam Ja'far b. Muhammad as-Sadiq (as) has said, “Test our Shia during
 the times of the (five daily) Salat - how do they protect them (the
@@ -41,12 +37,8 @@ performance of Salat on time and that we (the Shia) do not! 
 In relation to the importance of Salat, Imam 'Ali b. Abi Talib (as), in
 his famous letter of recommendations to Malik al-Ashtar has stated:
 
-<blockquote dir="rtl">
-  <p>
-إِجْعَلْ أَفْضَلُ أَوقَاتِكَ لِلصَّلوٌةِ. كَيْفَ مُحَافِظَتَهُمْ
-عَلَيْهَا.
-  </p>
-</blockquote>
+> إِجْعَلْ أَفْضَلُ أَوقَاتِكَ لِلصَّلوٌةِ. كَيْفَ مُحَافِظَتَهُمْ
+> عَلَيْهَا.
 
 “Make the best of the times that you reserve (during the day) for the
 Salat and see how all of you (you and your subjects) protect and
@@ -142,5 +134,4 @@ these characteristics within ourselves.
 
 We hope that all of us can keep in mind the commandments of the A\`immah
 in our day to day life and act upon them! 
-
 

@@ -4,19 +4,11 @@ Section 2: The Bounties Awaiting the Apostle
 Sura Al-Furqan - Verses 9-10
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-انظُرْ كَيْفَ ضَرَبُوا لَكَ الاَمْثَالَ فَضَلُّوا فَلاَ يَسْتَطِيعُونَ
-سَبِيلاً
-  </p>
-</blockquote>
+> انظُرْ كَيْفَ ضَرَبُوا لَكَ الاَمْثَالَ فَضَلُّوا فَلاَ يَسْتَطِيعُونَ
+> سَبِيلاً
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ الَّذِي إِن شَآءَ جَعَلَ لَكَ خَيْراً مّـِن ذَلِكَ جَنَّاتٍ
-تَجْرِي مِن تَحْتِهَا الاَنْهَارُ وَيَجْعَل لَّكَ قُصُوراً
-  </p>
-</blockquote>
+> تَبَارَكَ الَّذِي إِن شَآءَ جَعَلَ لَكَ خَيْراً مّـِن ذَلِكَ جَنَّاتٍ
+> تَجْرِي مِن تَحْتِهَا الاَنْهَارُ وَيَجْعَل لَّكَ قُصُوراً
 
 ***9. “Behold, how they strike similitudes for you, but they have gone
 astray, so they shall not be able to find a way (to the truth).”***  
@@ -210,12 +202,8 @@ the sense of ‘fix’ and ‘ever lasting’, or from /barakat/ which means
 Sura Al-Furqan - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ كَذَّبُوا بِالسَّاعَةِ وَأَعْتَدْنَا لِمَن كَذَّبَ بِالسَّاعَةِ
-سَعِيراً
-  </p>
-</blockquote>
+> بَلْ كَذَّبُوا بِالسَّاعَةِ وَأَعْتَدْنَا لِمَن كَذَّبَ بِالسَّاعَةِ
+> سَعِيراً
 
 ***11. “But they deny the Hour (of Resurrection), and We have prepared a
 Blazing Fire for him who denies the Hour.”***
@@ -258,19 +246,11 @@ Hour.”***
 Sura Al-Furqan - Verses 12-13
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذَا رَأَتْهُم مِن مَكَانٍ بَعِيدٍ سَمِعُوا لَهَا تَغَيُّظاً
-وَزَفِيراً
-  </p>
-</blockquote>
+> إِذَا رَأَتْهُم مِن مَكَانٍ بَعِيدٍ سَمِعُوا لَهَا تَغَيُّظاً
+> وَزَفِيراً
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَآ اُلْقُوا مِنْهَا مَكَاناً ضَيّـِقاً مُقَرَّنِينَ دَعَوْا
-هُنَالِكَ ثُبُوراً
-  </p>
-</blockquote>
+> وَإِذَآ اُلْقُوا مِنْهَا مَكَاناً ضَيّـِقاً مُقَرَّنِينَ دَعَوْا
+> هُنَالِكَ ثُبُوراً
 
 ***12. “When it sees them from a far place, they will hear its raging
 and roaring.”***  
@@ -336,11 +316,7 @@ cries: /wa abura/ which means: ‘woe to me.’
 Sura Al-Furqan - Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَدْعُوا الْيَوْمَ ثُبُوراً وَاحِداً وَادْعُوا ثُبُوراً كَثِيراً
-  </p>
-</blockquote>
+> لاَ تَدْعُوا الْيَوْمَ ثُبُوراً وَاحِداً وَادْعُوا ثُبُوراً كَثِيراً
 
 ***14. “ (It will be said to them:) ‘Call not this day for one
 destruction, but call for many destructions!”***
@@ -440,19 +416,11 @@ deep and its ornament is iron, and its beverage is boiling fetid water
 Sura Al-Furqan - Verses 15-16
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَذَلِكَ خَيْرٌ أَمْ جَنَّةُ الْخُلْدِ الَّتِي وُعِدَ
-الْمُتَّقُونَ كَانَتْ لَهُمْ جَزَآءً وَمَصِيراً
-  </p>
-</blockquote>
+> قُلْ أَذَلِكَ خَيْرٌ أَمْ جَنَّةُ الْخُلْدِ الَّتِي وُعِدَ
+> الْمُتَّقُونَ كَانَتْ لَهُمْ جَزَآءً وَمَصِيراً
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ فِيهَا مَا يَشَآءُونَ خَالِدِينَ كَانَ عَلَي رَبّـِكَ وَعْداً
-مَسْؤُولاً
-  </p>
-</blockquote>
+> لَهُمْ فِيهَا مَا يَشَآءُونَ خَالِدِينَ كَانَ عَلَي رَبّـِكَ وَعْداً
+> مَسْؤُولاً
 
 ***15. “Say: ‘Is that better or the eternal garden which has been
 promised to the pious ones? That shall be a reward and a resort for
@@ -615,20 +583,12 @@ but for the Paradise.”*[^19]
 Sura Al-Furqan - Verses 17-18
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ فَيَقُولُ
-أَأَنتُمْ أَضْلَلْتُمْ عِبَادِي هَؤُلآءِ أَمْ هُمْ ضَلُّوا السَّبِيلَ
-  </p>
-</blockquote>
+> وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ فَيَقُولُ
+> أَأَنتُمْ أَضْلَلْتُمْ عِبَادِي هَؤُلآءِ أَمْ هُمْ ضَلُّوا السَّبِيلَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا سُبْحَانَكَ مَا كَانَ يَنبَغِي لَنَا أَن نَّتَّخِذَ مِن
-دُونِكَ مِنْ أَوْلِيَآءَ وَلَكِن مَّتَّعْتَهُمْ وءَابَآءَهُمْ حَتَّي
-نَسُوا الذّ‌ِكْرَ وَكَانُوا قَوْمَاً بُوراً
-  </p>
-</blockquote>
+> قَالُوا سُبْحَانَكَ مَا كَانَ يَنبَغِي لَنَا أَن نَّتَّخِذَ مِن
+> دُونِكَ مِنْ أَوْلِيَآءَ وَلَكِن مَّتَّعْتَهُمْ وءَابَآءَهُمْ حَتَّي
+> نَسُوا الذّ‌ِكْرَ وَكَانُوا قَوْمَاً بُوراً
 
 ***17. “And (remember) the Day He will muster them and that which they
 worship instead of Allah, and He shall say: ‘Was it you who misled these
@@ -673,12 +633,8 @@ forgot the Message and they were a people in perdition’.”***
 Sura Al-Furqan - Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفاً وَلاَ
-نَصْراً وَمَن يَظْلِم مِنكُمْ نُذِقْهُ عَذَاباً كَبِيراً
-  </p>
-</blockquote>
+> فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفاً وَلاَ
+> نَصْراً وَمَن يَظْلِم مِنكُمْ نُذِقْهُ عَذَاباً كَبِيراً
 
 ***19. “ (Allah will say to the idolaters:) ‘So they shall indeed belie
 you of what you say, so you shall not be able to avert (your penalty)
@@ -796,13 +752,9 @@ virtues can no longer be found in weathered land of their entity.
 Sura Al-Furqan - Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلآَّ إِنَّهُمْ
-لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الاَسْوَاقِ وَجَعَلْنَا
-بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيراً
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلآَّ إِنَّهُمْ
+> لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الاَسْوَاقِ وَجَعَلْنَا
+> بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيراً
 
 ***20. “And We never sent any messengers before you but they certainly
 ate food and walked in the markets; and We have made some of you a trial
@@ -922,5 +874,4 @@ sees and knows everything precisely.
 [^19]: Kanz-ul-‘Ummal, Vol. 14, p. 645
 
 [^20]: Kanz-ul-‘Ummal, Vol. 1, p. 79
-
 

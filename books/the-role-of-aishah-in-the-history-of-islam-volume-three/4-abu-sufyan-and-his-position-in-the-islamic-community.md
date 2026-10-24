@@ -147,7 +147,6 @@ bless you!"(63) Such an attitude was not confined to the time of the
 Prophet. After him, too, as we shall see in the next chapter, the
 Muslim's attitude towards Abu Sufyan had undergone no change whatever.
 
-
 **Abu Sufyan in the time of two caliphs**
 
 May God kill them for not abandoning their rancor against the
@@ -224,7 +223,6 @@ saying to each group: "My son! Repeat the story for them!" I repeated
 all I had heard, and they were amazed at all that hypocrisy and
 hostility to Islam.(67)
 
-
 **Part Two : Battle of al-Jamal Abu Sufyan in the time of 'Uthman**
 
 By God! There exists neither a heaven, nor a hell!
@@ -273,7 +271,6 @@ Abu Sufyan died in 'Uthman's time in one of the years between 31 and 34
 of the Hijrah, and according to various reports he was between 80 and 90
 years of age. But his wife, Hind, had died before him during 'Umar's
 caliphate.(74)
-
 
 **Part Two :Role of Mu'awiyah in the history of Islam**
 
@@ -369,7 +366,6 @@ Many such words have remained from the Prophet which can be found in
 the books of history and tradition, all of which give a true picture of
 the personality of Mu'awiyah from the viewpoint of the Prophet, and the
 true opinion of Islam about them (87)
-
 
 **Mu'awiyah in the time of the caliphs**
 
@@ -483,7 +479,6 @@ According to Ahmad ibn Hanbal and an-Nisai, 'Ubadah had said: "I swear
 to God that it does not matter at all if I do not spend one night in a
 land where Mu'awiyah lives!"(96)
 
-
 In Usd a1-ghabah and Siyar al-a'lam an-nubala' which give an account of
 'Ubadah, it is stated that he criticized some acts of Mu'awiyah and
 declared them to be contrary to the explicit injunctions of Islam, and
@@ -525,5 +520,4 @@ said was true.
 Follow him, for, he is wiser than me!"(102) These events which show a
 greater degree of mildness, occurred during 'Umar's rule, who, owing to
 his coarseness, did not allow anyone to go to excess.
-
 

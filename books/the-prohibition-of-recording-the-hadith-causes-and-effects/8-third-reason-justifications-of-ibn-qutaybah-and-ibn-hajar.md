@@ -201,4 +201,3 @@ al-Rawi 1:88.
 
 [^14]: Thabt al-Baladiy 77.
 
-

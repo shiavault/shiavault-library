@@ -1,21 +1,17 @@
 Twenty-First Hadith: Thankfulness (Shukr)
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى حُجَّةِ الفِرْقَةِ وَإمَامِهِمْ مُحَمَّدِ
-بْنِ يَعْقُوبَ، كَرَّمَ اللهُ وَجْهَهُ، عَنْ حُمَيْدِ بْنِ زِيَادٍ،
-عَنِ الحَسَنِ بْنِ مُحَمَّدِ بْنِ سُمَاعَةَ، عَنْ وُهَيْبِ بْنِ
-حَفْصٍ، عَنْ أبِي بَصِيرٍ، عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ
-قَالَ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ عِنْدَ
-عَائِشَةَ لَيْلَتَهَا، فَقَالَتْ: يَا رَسُولَ اللهِ لِمَ تُتْعِبُ
-نَفْسَكَ وَقَدْ غَفَرَ اللهُ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا
-تَأَخَّرَ؟ فَقَالَ: يَا عَائِشَةُ، ألا أَكُونُ عَبْداً شَكُوراً؟
-قَالَ: وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُومُ
-عَلَى أَطْرَافِ أَصَابِعِ رِجْلَيْهِ. فَأَنْزَلَ اللهُ سُبْحَانَهُ
-وَتَعَالَى: ﴿طه \* مَا أَنْزَلْنَا عَلَيْكَ القُرْآنَ لِتَشْقَى.﴾
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى حُجَّةِ الفِرْقَةِ وَإمَامِهِمْ مُحَمَّدِ
+> بْنِ يَعْقُوبَ، كَرَّمَ اللهُ وَجْهَهُ، عَنْ حُمَيْدِ بْنِ زِيَادٍ،
+> عَنِ الحَسَنِ بْنِ مُحَمَّدِ بْنِ سُمَاعَةَ، عَنْ وُهَيْبِ بْنِ
+> حَفْصٍ، عَنْ أبِي بَصِيرٍ، عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ
+> قَالَ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ عِنْدَ
+> عَائِشَةَ لَيْلَتَهَا، فَقَالَتْ: يَا رَسُولَ اللهِ لِمَ تُتْعِبُ
+> نَفْسَكَ وَقَدْ غَفَرَ اللهُ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا
+> تَأَخَّرَ؟ فَقَالَ: يَا عَائِشَةُ، ألا أَكُونُ عَبْداً شَكُوراً؟
+> قَالَ: وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُومُ
+> عَلَى أَطْرَافِ أَصَابِعِ رِجْلَيْهِ. فَأَنْزَلَ اللهُ سُبْحَانَهُ
+> وَتَعَالَى: ﴿طه \* مَا أَنْزَلْنَا عَلَيْكَ القُرْآنَ لِتَشْقَى.﴾
 
 Through my continuous sanad going back to the proof of the sect and its
 leader, Muhammad ibn Ya’qub al-Kulayni (Q) from Humayd ibn Ziyad, from
@@ -35,13 +31,9 @@ Exposition
 The words قَدْ غَفَرَ اللهُ (God has forgiven thee) refer to the
 following utterance of God Almighty in Surat al-Fath:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا
-تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ
-وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا
+> تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ
+> وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا.﴾
 
 ***Surely, We have given thee a manifest victory that God may forgive
 thee thy former and thy latter sins.*** (***48:1-2***)
@@ -61,26 +53,18 @@ the Ummah have been attributed to him because of the connection that
 exists between him and it. This possibility is supported by the
 following narration of Mufaddal ibn ‘Umar from Imam al Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: سَأَلَهُ رَجُلٌ عَنْ هَذِهِ الآيَةِ فَقَالَ عَلَيْهِ السَّلامُ:
-وَاللهِ مَا كَانَ لَهُ ذَنْبٌ وَلَكِنَّ اللهَ سُبْحَانَهُ ضَمِنَ لَهُ
-أنْ يَغْفِرَ ذُنُوبَ شِيعَتِهِ عَلَى مَا تَقَدَّمَ وَمَا تَأَخَّرَ.
-  </p>
-</blockquote>
+> قَالَ: سَأَلَهُ رَجُلٌ عَنْ هَذِهِ الآيَةِ فَقَالَ عَلَيْهِ السَّلامُ:
+> وَاللهِ مَا كَانَ لَهُ ذَنْبٌ وَلَكِنَّ اللهَ سُبْحَانَهُ ضَمِنَ لَهُ
+> أنْ يَغْفِرَ ذُنُوبَ شِيعَتِهِ عَلَى مَا تَقَدَّمَ وَمَا تَأَخَّرَ.
 
 Mufaddal says: A man asked the Imam concerning this verse. He replied,
 “By Allah, he (i.e. the Prophet) had no sin of his own. However, Allah,
 subhanahu, has insured that He would forgive the sins, whatever they
 have committed, of those who followed ‘Ali (shi’at ‘Ali).”
 
-<blockquote dir="rtl">
-  <p>
-وَرَوَى عُمَرُ بْنُ يَزِيدَ عَنْهُ عَلَيْهِ السَّلامُ قَالَ: مَا كَانَ
-لَهُ ذَنْبٌ وَلا هَمَّ بِذَنْبٍ وَلَكِنَّ اللهَ حَمَّلَهُ ذُنُوبَ
-شِيعَتِهِ ثُمَّ غَفَرَهَا لَهُ.
-  </p>
-</blockquote>
+> وَرَوَى عُمَرُ بْنُ يَزِيدَ عَنْهُ عَلَيْهِ السَّلامُ قَالَ: مَا كَانَ
+> لَهُ ذَنْبٌ وَلا هَمَّ بِذَنْبٍ وَلَكِنَّ اللهَ حَمَّلَهُ ذُنُوبَ
+> شِيعَتِهِ ثُمَّ غَفَرَهَا لَهُ.
 
 ‘Umar ibn Yazid narrates that Imam al-Sadiq (A) said, “He had not
 committed any sin, not even intended to commit any. However, God made
@@ -111,83 +95,47 @@ with the necessary relation between *zahir* and *mazhar.* This
 attribution is not metaphorical, but literal and factual. It is the
 reality of this relation, which is pointed out in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
 
 ***Whatever evil visits thee it of thy self.*** (***4:79***)
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
 
 ***Say: Everything it from God.*** (***4:78***)
 
 And reference to this matter occurs a lot in the Noble Prophet’s
 traditions:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ السَّابِقُونَ الآخِرُونَ.
-  </p>
-</blockquote>
+> نَحْنُ السَّابِقُونَ الآخِرُونَ.
 
 We are the foremost and the last ones.[^3]
 
-<blockquote dir="rtl">
-  <p>
-آدَمُ وَمَنْ تَحْتَهُ تَحْتَ لِوَائِي يَوْمَ القِيَامَةِ.
-  </p>
-</blockquote>
+> آدَمُ وَمَنْ تَحْتَهُ تَحْتَ لِوَائِي يَوْمَ القِيَامَةِ.
 
 Adam and whoever that came after him shall stand under my standard on
 the Day of Resurrection.[^4]
 
-<blockquote dir="rtl">
-  <p>
-أَوَّلُ مَا خَلَقَ اللهُ نُورِي.
-  </p>
-</blockquote>
+> أَوَّلُ مَا خَلَقَ اللهُ نُورِي.
 
 The first thing that God created was my light.[^5]
 
-<blockquote dir="rtl">
-  <p>
-سَبَّحْنَا فَسَبَّحَتِ المَلائِكَةُ وَقَدَّسْنَا فَقَدَّسَتِ
-المَلائِكَةُ.
-  </p>
-</blockquote>
+> سَبَّحْنَا فَسَبَّحَتِ المَلائِكَةُ وَقَدَّسْنَا فَقَدَّسَتِ
+> المَلائِكَةُ.
 
 (Before Adam was created) we glorified (God) and following us the angels
 glorified (Him We extolled (His) sanctity and following us the angels
 called Him Holy.[^6]
 
-<blockquote dir="rtl">
-  <p>
-لَوْلانَا مَا عُرِفَ اللهُ.
-  </p>
-</blockquote>
+> لَوْلانَا مَا عُرِفَ اللهُ.
 
 Had we not existed, God would not have been known.[^7]
 
-<blockquote dir="rtl">
-  <p>
-لَوْلاكَ لَمَا خَلَقْتُ الأَفْلاكَ.
-  </p>
-</blockquote>
+> لَوْلاكَ لَمَا خَلَقْتُ الأَفْلاكَ.
 
 (God said to the Prophet) Had you not been, I would not have created the
 heavens.[^8]
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ وَجْهُ اللهِ.
-  </p>
-</blockquote>
+> نَحْنُ وَجْهُ اللهِ.
 
 We are the face of God.[^9]
 
@@ -208,11 +156,7 @@ those to come will be covered by My encompassing mercy and the entire
 realm of being shall attain its ultimate felicity through your
 *shafa’ah* (intercession), and:
 
-<blockquote dir="rtl">
-  <p>
-وَآخِرُ مَنْ يَشْفَعُ أَرْحَمُ الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> وَآخِرُ مَنْ يَشْفَعُ أَرْحَمُ الرَّاحِمِينَ.
 
 The last to intercede is the most merciful of the merciful ones (i.e.
 God).
@@ -220,22 +164,14 @@ God).
 According to this teaching, the noble verse at hand fulfills the promise
 given in another verse, which says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى.﴾
-  </p>
-</blockquote>
+> ﴿وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى.﴾
 
 ***And thy Lord shall soon give thee, and thou shalt be satisfied.***
 (***93:5***)
 
 And it has been said of this verse that it is:
 
-<blockquote dir="rtl">
-  <p>
-أَرْجَى آيَةٍ فِي القُرْآنِ.
-  </p>
-</blockquote>
+> أَرْجَى آيَةٍ فِي القُرْآنِ.
 
 The most hope-giving of verses in the Qur’an.[^11]
 
@@ -284,44 +220,36 @@ be sin for others may be considered sin in relation to him.
 The fifth explanation is that this verse is intended to glorify the
 Prophet (S) and is equivalent to a eulogy, as when one says:
 
-<blockquote dir="rtl">
-  <p>
-غَفَرَ اللهُ لَكَ.
-  </p>
-</blockquote>
+> غَفَرَ اللهُ لَكَ.
 
 Sixthly, al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ رَوَى الصَّدُوقُ فِي العُيُونِ بِإسْنَادِهِ عَنْ عَلِيِّ بْنِ
-مُحَمَّدِ بْنِ الجَهْمِ قَالَ: حَضَرْتُ مَجْلِسَ المَأْمُونِ
-وَعِنْدَهُ الرِّضَا عَلَيْهِ السَّلامُ فَقَالَ لَهُ المَأْمُونُ: يَا
-بْنَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَلَيْسَ مِنْ
-قَوْلِكَ أنَّ الأنْبِيَاءَ مَعْصُومُونَ؟ قَالَ: بَلَى. قَالَ: فَمَا
-مَعْنَى قَوْلِ اللهِ، ﴿ لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ
-ذَنْبِكَ وَمَا تَأَخَّرَ.﴾ قَالَ لِلرِّضَا عَلَيْهِ السَّلامُ: لَمْ
-يَكُنْ أَحَدٌ عِنْدَ مُشْرِكِي مَكَّةَ أَعْظَمَ ذَنْباً مِنْ رَسُولِ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لأنَّهُمْ كَانُوا يَعْبُدُونَ مِنْ
-دُونِ اللهِ ثَلاثَمِائَةٍ وَسِتِّينَ صَنَماً. فَلَمَّا جَاءَهُمْ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ بِالدَّعْوَةِ إلَى كَلِمَةِ الإخْلاصِ
-كَبُرَ ذَلِكَ عَلَيْهِمْ وَعَظُمَ. قَالُوا ﴿أَجَعَلَ الْآلِهَةَ
-إِلَهًا وَاحِدًا إِنَّ هَذَا لَشَيْءٌ عُجَابٌ. وَانطَلَقَ الْمَلَأُ
-مِنْهُمْ أَنْ امْشُوا وَاصْبِرُوا عَلَى آلِهَتِكُمْ إِنَّ هَذَا
-لَشَيْءٌ يُرَادُ. مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ
-هَذَا إِلَّا اخْتِلَاقٌ.﴾ فَلَمَّا فَتَحَ اللهُ تَعَالَى عَلَى
-نَبِيِّهِ مَكَّةَ قَالَ لَهُ يَا مُحَمَّدُ: ﴿إِنَّا فَتَحْنَا لَكَ
-فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ
-وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا
-مُسْتَقِيمًا.﴾ عِنْدَ مُشْرِكِي أَهْلِ مَكَّةَ، بِدُعَائِكَ إلَى
-تَوْحِيدِ اللهِ فِيمَا تَقَدَّمَ وَمَا تَأَخَّرَ لأنَّ مُشْرِكِي
-مَكَّةَ أَسْلَمَ بَعْضُهُمْ وَخَرَجَ بَعْضُهُمْ عَنْ مَكَّةَ، وَمَنْ
-بَقِيَ مِنْهُمْ لَمْ يَقْدِرْ عَلَى إنْكَارِ التَّوْحِيدِ عَلَيْهِ،
-إذَا دَعَا النَّاسَ إلَيْهِ فَصَارَ ذَنْبُهُ عِنْدَهُمْ فِي ذَلِكَ،
-مَغْفُوراً بِظُهُورِهِ عَلَيْهِمْ. فَقَاَل المَأمُونُ: للهِ دَرُّكَ
-يَا أبَا الحَسَنِ.
-  </p>
-</blockquote>
+> وَقَدْ رَوَى الصَّدُوقُ فِي العُيُونِ بِإسْنَادِهِ عَنْ عَلِيِّ بْنِ
+> مُحَمَّدِ بْنِ الجَهْمِ قَالَ: حَضَرْتُ مَجْلِسَ المَأْمُونِ
+> وَعِنْدَهُ الرِّضَا عَلَيْهِ السَّلامُ فَقَالَ لَهُ المَأْمُونُ: يَا
+> بْنَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَلَيْسَ مِنْ
+> قَوْلِكَ أنَّ الأنْبِيَاءَ مَعْصُومُونَ؟ قَالَ: بَلَى. قَالَ: فَمَا
+> مَعْنَى قَوْلِ اللهِ، ﴿ لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ
+> ذَنْبِكَ وَمَا تَأَخَّرَ.﴾ قَالَ لِلرِّضَا عَلَيْهِ السَّلامُ: لَمْ
+> يَكُنْ أَحَدٌ عِنْدَ مُشْرِكِي مَكَّةَ أَعْظَمَ ذَنْباً مِنْ رَسُولِ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لأنَّهُمْ كَانُوا يَعْبُدُونَ مِنْ
+> دُونِ اللهِ ثَلاثَمِائَةٍ وَسِتِّينَ صَنَماً. فَلَمَّا جَاءَهُمْ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ بِالدَّعْوَةِ إلَى كَلِمَةِ الإخْلاصِ
+> كَبُرَ ذَلِكَ عَلَيْهِمْ وَعَظُمَ. قَالُوا ﴿أَجَعَلَ الْآلِهَةَ
+> إِلَهًا وَاحِدًا إِنَّ هَذَا لَشَيْءٌ عُجَابٌ. وَانطَلَقَ الْمَلَأُ
+> مِنْهُمْ أَنْ امْشُوا وَاصْبِرُوا عَلَى آلِهَتِكُمْ إِنَّ هَذَا
+> لَشَيْءٌ يُرَادُ. مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ
+> هَذَا إِلَّا اخْتِلَاقٌ.﴾ فَلَمَّا فَتَحَ اللهُ تَعَالَى عَلَى
+> نَبِيِّهِ مَكَّةَ قَالَ لَهُ يَا مُحَمَّدُ: ﴿إِنَّا فَتَحْنَا لَكَ
+> فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ
+> وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا
+> مُسْتَقِيمًا.﴾ عِنْدَ مُشْرِكِي أَهْلِ مَكَّةَ، بِدُعَائِكَ إلَى
+> تَوْحِيدِ اللهِ فِيمَا تَقَدَّمَ وَمَا تَأَخَّرَ لأنَّ مُشْرِكِي
+> مَكَّةَ أَسْلَمَ بَعْضُهُمْ وَخَرَجَ بَعْضُهُمْ عَنْ مَكَّةَ، وَمَنْ
+> بَقِيَ مِنْهُمْ لَمْ يَقْدِرْ عَلَى إنْكَارِ التَّوْحِيدِ عَلَيْهِ،
+> إذَا دَعَا النَّاسَ إلَيْهِ فَصَارَ ذَنْبُهُ عِنْدَهُمْ فِي ذَلِكَ،
+> مَغْفُوراً بِظُهُورِهِ عَلَيْهِمْ. فَقَاَل المَأمُونُ: للهِ دَرُّكَ
+> يَا أبَا الحَسَنِ.
 
 Al Saduq in ‘Uyun akhbar al-Rida has reported with his isnad from ‘Ali
 ibn Muhammad ibn al-Jahm that he said: I was present in al-Ma’mun’s
@@ -330,11 +258,7 @@ him, “O son of the Messenger of Allah, don’t you claim that the prophets
 are secure from error (ma’sumun)?” He replied, “Yes.” Al-Ma’mun said,
 “Then what is the meaning of the utterance of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ.﴾
-  </p>
-</blockquote>
+> ﴿لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ.﴾
 
 *(Surely, We have given thee a manifest victory) that God may forgive
 thee thy former and thy latter sins.*
@@ -385,11 +309,7 @@ the ‘station of the heart’ (*maqam al-qalb*)*.* This stage is called
 the nearest of them. It is this *fath* that is referred to in this
 utterance of God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ.﴾
-  </p>
-</blockquote>
+> ﴿نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ.﴾
 
 ***...help from God and a nigh opening.*** (***61:13***)
 
@@ -411,12 +331,8 @@ of the heart (*qalb*) becoming effaced and covered (*maghfur*) by the
 covering grace (*ghaffariyyat wasattariyyat*) of the Names. Hence, they
 say that to this refers the utterance of God, the Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا
-تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا
+> تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ.﴾
 
 *Surely, We have given thee a manifest victory that God may forgive thee
 thy former and thy latter sins. (48:1-2)*
@@ -438,22 +354,14 @@ al-mutlaq*) is enveloped (*maghfur*) and the essential sin (*dhanb
 al-dhati*)*,* which is the source of all sins, is covered by the
 irradiations of the One.
 
-<blockquote dir="rtl">
-  <p>
-وُجُودُكَ ذَنْبٌ لا يُقَاسُ بِهِ ذَنْبٌ.
-  </p>
-</blockquote>
+> وُجُودُكَ ذَنْبٌ لا يُقَاسُ بِهِ ذَنْبٌ.
 
 Your existence is a sin to which no (other) sin is comparable.
 
 And, they say, it is to this *fath* that the following utterance of God,
 the Exalted, alludes:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ.﴾
-  </p>
-</blockquote>
+> ﴿إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ.﴾
 
 ***When comes the help of God and the opening.*** (***110:1***)
 
@@ -477,12 +385,8 @@ sinfulness. Some of them are considered virtues for the virtuous but are
 sins for the immaculate. It is reported that the Noble Messenger (S)
 stated:
 
-<blockquote dir="rtl">
-  <p>
-لَيُرَانُ - لَيُغَانُ - عَلَى قَلْبِي، وَإنِّي لأَسْتَغْفِرُ اللهَ فِي
-كُلِّ يَوْمٍ سَبْعِينَ مَرَّةً.
-  </p>
-</blockquote>
+> لَيُرَانُ - لَيُغَانُ - عَلَى قَلْبِي، وَإنِّي لأَسْتَغْفِرُ اللهَ فِي
+> كُلِّ يَوْمٍ سَبْعِينَ مَرَّةً.
 
 In order that my heart should not gather rust, I seek the forgiveness of
 God seventy times a day.[^13]
@@ -536,11 +440,7 @@ bodily members, the effects consist of obedience, the use of the bodily
 members for the good pleasure of the *Mun’im,* and the like. According
 to al-Raghib:
 
-<blockquote dir="rtl">
-  <p>
-الشُّكْرُ تَصَوُّرُ النِّعْمَةِ وَإظْهَارُهَا.
-  </p>
-</blockquote>
+> الشُّكْرُ تَصَوُّرُ النِّعْمَةِ وَإظْهَارُهَا.
 
 Thankfulness (shukr) is the contemplation of the ni’mah and its
 expression.[^16]
@@ -641,11 +541,7 @@ others are devoid of some or rather most of those stations. Rather, as
 long as the reality of Divine efficacy does not make an imprint on the
 devotee’s heart and as long as he does not attain conviction that
 
-<blockquote dir="rtl">
-  <p>
-لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
-  </p>
-</blockquote>
+> لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
 
 No one is effective in the realm of existence except God.
 
@@ -663,11 +559,7 @@ efficient, and at times he relates the bounties to their apparent
 dispensers while considering God to be bereft of any efficacy, believing
 God’s hands to be fettered, whereas:
 
-<blockquote dir="rtl">
-  <p>
-﴿غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا بِمَا قَالُوا.﴾
-  </p>
-</blockquote>
+> ﴿غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا بِمَا قَالُوا.﴾
 
 ***Fettered are their hands, and they are cursed for what they have
 said*** (***5:64***)***.***
@@ -682,11 +574,7 @@ realm of existence owes its being to Him, and others have no
 However, the eyes are blind, the ears are deaf and the hearts have
 curtains drawn upon them.
 
-<blockquote dir="rtl">
-  <p>
-ديده مي خواهم سبب سوراخ كن.
-  </p>
-</blockquote>
+> ديده مي خواهم سبب سوراخ كن.
 
 I want a vision that may pierce the (curtain of) causes.
 
@@ -733,14 +621,10 @@ and possess the station of unity and plurality. Therefore, the adept
 gnostic Khwajah ‘Abd Allah Ansari, who, although he states that *shukr*
 is one of the stations of the common people, adds:
 
-<blockquote dir="rtl">
-  <p>
-وَالدَّرجةُ الثالثةُ أنْ لا يشْهدَ العبدُ إلا المُنعِمَ فإذا شهِدَ
-المُنعمَ عُبُودَةً اسْتعظَمَ منهُ النِّعمَةَ، وإذا شَهِدهُ حُبّاً
-اسْتَحْلى منهُ الشَّدّةَ، وإذا شهِدهُ تفْريداً لم يَشهَدْ منهُ نِعمَةً
-ولا شِدَّةً.
-  </p>
-</blockquote>
+> وَالدَّرجةُ الثالثةُ أنْ لا يشْهدَ العبدُ إلا المُنعِمَ فإذا شهِدَ
+> المُنعمَ عُبُودَةً اسْتعظَمَ منهُ النِّعمَةَ، وإذا شَهِدهُ حُبّاً
+> اسْتَحْلى منهُ الشَّدّةَ، وإذا شهِدهُ تفْريداً لم يَشهَدْ منهُ نِعمَةً
+> ولا شِدَّةً.
 
 That is, the third degree of *shukr* lies there where the servant does
 not see anything except the beauty of the *Mun’im,* being immersed in
@@ -770,16 +654,12 @@ The Station Of Shukr In Hadith
 We shall complete this section with the mention of some traditions
 relating to *shukr.*
 
-<blockquote dir="rtl">
-  <p>
-الكَافي بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الطَّاعِمُ
-الشَّاكِرُ لَهُ مِنَ الأجْرِ كَأَجْرِ الصَّائِمِ المُحْتَسِبِ.
-وَالمُعَافَى الشَّاكِرُ لَهُ مِنَ الأجْرِ كَأَجْرِ المُبْتَلى
-الصَّابِرِ. وَالمُعْطَى الشَّاكِرُ لَهُ مِنَ الأجْرِ كَأجْرِ
-المَحْرومِ القَانِعِ.
-  </p>
-</blockquote>
+> الكَافي بِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الطَّاعِمُ
+> الشَّاكِرُ لَهُ مِنَ الأجْرِ كَأَجْرِ الصَّائِمِ المُحْتَسِبِ.
+> وَالمُعَافَى الشَّاكِرُ لَهُ مِنَ الأجْرِ كَأَجْرِ المُبْتَلى
+> الصَّابِرِ. وَالمُعْطَى الشَّاكِرُ لَهُ مِنَ الأجْرِ كَأجْرِ
+> المَحْرومِ القَانِعِ.
 
 In al-Kafi, al-Kulayni narrates with his isnad from Abu ‘Abd Allah (A)
 that he said: The Messenger of Allah (S) said, “One who takes food with
@@ -789,32 +669,24 @@ the one who bears his (bodily) afflictions patiently. And one who gives
 gratefully has a reward similar to the one who bears his deprivation
 with continence.”[^18]
 
-<blockquote dir="rtl">
-  <p>
-وَبإسْنَادِهِ عَنْ عُبَيْدِ اللهِ بنِ الوَلِيدِ قَالَ: سَمِعْتُ أبَا
-عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: ثَلاثٌ لا يَضُرُّ مَعَهُنَّ
-شَيْءٌ: الدُّعَاءُ عِنْدَ الكَرْبِ وَالإسْتِغْفَارُ عِنْدَ الذَّنْبِ
-وَالشُّكْرُ عِنْدَ النِّعْمَةِ.
-  </p>
-</blockquote>
+> وَبإسْنَادِهِ عَنْ عُبَيْدِ اللهِ بنِ الوَلِيدِ قَالَ: سَمِعْتُ أبَا
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: ثَلاثٌ لا يَضُرُّ مَعَهُنَّ
+> شَيْءٌ: الدُّعَاءُ عِنْدَ الكَرْبِ وَالإسْتِغْفَارُ عِنْدَ الذَّنْبِ
+> وَالشُّكْرُ عِنْدَ النِّعْمَةِ.
 
 Al-Kulayni reports with his isnad from ‘Ubayd Allah ibn al-Walid that he
 said: I heard Abu ‘Abd Allah (A) say, “There are three things in whose
 presence nothing can harm one: prayer in affliction, seeking God’s
 forgiveness for one’s sins, and thanksgiving for God’s favors.”[^19]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أبِي بَصِيرٍ قَالَ: قَالَ أَبُو عَبْدِاللهِ
-عَلَيْهِ السَّلامُ: إنَّ الرَّجُلَ مِنكُمْ لَيَشْرَبُ الشُّرْبَةَ مِنَ
-المَاءِ فَيُوجِبُ اللهُ لَهُ بِهَا الجَنَّةَ. ثُمَّ قَالَ: إنَّهُ
-لَيَأْخُذُ الإنَاءَ فَيَضَعُهُ عَلَى فِيهِ فَيُسَمِّي ثُمَّ يَشْرَبُ
-فَيُنَحِّيهِ وَهُوَ يَشْتَهِيهِ فَيَحْمَدُ اللهَ، ثُمَّ يَعُودُ
-فَيَشْرَبُ، ثُمَّ يُنَحِّيهِ فَيَحْمَدُ اللهَ، ثُمَّ يَعُودُ
-فَيَشْرَبُ، ثُمَّ يُنَحِّيهِ فَيَحْمَدُ اللهَ، فَيُوجِبُ اللهُ عَزَّ
-وَجَلَّ بِهَا لَهُ الجَنَّةَ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أبِي بَصِيرٍ قَالَ: قَالَ أَبُو عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ: إنَّ الرَّجُلَ مِنكُمْ لَيَشْرَبُ الشُّرْبَةَ مِنَ
+> المَاءِ فَيُوجِبُ اللهُ لَهُ بِهَا الجَنَّةَ. ثُمَّ قَالَ: إنَّهُ
+> لَيَأْخُذُ الإنَاءَ فَيَضَعُهُ عَلَى فِيهِ فَيُسَمِّي ثُمَّ يَشْرَبُ
+> فَيُنَحِّيهِ وَهُوَ يَشْتَهِيهِ فَيَحْمَدُ اللهَ، ثُمَّ يَعُودُ
+> فَيَشْرَبُ، ثُمَّ يُنَحِّيهِ فَيَحْمَدُ اللهَ، ثُمَّ يَعُودُ
+> فَيَشْرَبُ، ثُمَّ يُنَحِّيهِ فَيَحْمَدُ اللهَ، فَيُوجِبُ اللهُ عَزَّ
+> وَجَلَّ بِهَا لَهُ الجَنَّةَ.
 
 Al-Kulayni reports with his isnad from Abu Basir that Abu ‘Abd Allah (A)
 said, “Verily one of you drinks water and God assigns paradise to him on
@@ -831,42 +703,30 @@ many traditions, one who says *“Al-hamdu lillah’* (All praise is God’s)
 has offered his thanks to God. Al-Kulayni, in the noble *al-Kafi*,
 narrates this tradition through his isnad from ‘Umar ibn Yazid:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: سَمِعْتُ أبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: شُكْرُ
-كُلِّ نِعْمَةٍ وَإنْ عَظُمَتْ أنْ تَحْمَدَ اللهَ عَزَّ وَجَلَّ
-عَلَيْهَا.
-  </p>
-</blockquote>
+> قَالَ: سَمِعْتُ أبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: شُكْرُ
+> كُلِّ نِعْمَةٍ وَإنْ عَظُمَتْ أنْ تَحْمَدَ اللهَ عَزَّ وَجَلَّ
+> عَلَيْهَا.
 
 ‘Umar ibn Yazid says: I heard Abu ‘Abd Allah (A) say, “The (adequate
 mode of) thanksgiving for all favors, however great they may be, is that
 you praise God, the Almighty and the Glorious, on their account.”[^21]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: شُكْرُ
-النِّعْمَةِ اجْتِنَابُ المَحَارِمِ وَتَمَامُ الشُّكْرِ قَوْلُ
-الرَّجُلِ: الحَمْدُ للهِ رَبِّ العَالمَِينَ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: شُكْرُ
+> النِّعْمَةِ اجْتِنَابُ المَحَارِمِ وَتَمَامُ الشُّكْرِ قَوْلُ
+> الرَّجُلِ: الحَمْدُ للهِ رَبِّ العَالمَِينَ.
 
 Al-Kulayni reports with his isnad from Abu ‘Abd Allah (A) that he said,
 “Gratitude for God’s gifts lies in abstaining from what He has made
 unlawful. One’s thanksgiving is complete when one says: Praise be to
 Allah, the Lord of the worlds.”[^22]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ حَمَّادِ بْنِ عُثْمَانَ قَالَ: خَرَجَ أبُو
-عَبْدِاللهِ عَلَيْهِ السَّلامُ مِنَ المَسْجِدِ، وَقَدْ ضَاعَتْ
-دَابَّتُهُ فَقَالَ: لَئِنْ رَدَّهَا اللهُ عَلَيَّ لأَشْكُرَنَّ اللهَ
-حَقَّ شُكْرِهِ. قَالَ: فَمَا لَبِثَ أنْ أُتِيَ بِهَا، فَقَالَ:
-الحَمْدُ للهِ. فَقَالَ لَهُ قَائِلٌ: جُعِلْتُ فِدَاكَ، أَلَيْسَ
-قُلْتَ: لأشْكُرَنَّ اللهَ حَقَّ شُكْرِهِ؟ فَقَالَ أبُو عَبْدِاللهِ
-عَلَيْهِ السَّلامُ: أَلَمْ تَسْمَعْنِي قُلْتُ: الحَمْدُ للهِ؟
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ حَمَّادِ بْنِ عُثْمَانَ قَالَ: خَرَجَ أبُو
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ مِنَ المَسْجِدِ، وَقَدْ ضَاعَتْ
+> دَابَّتُهُ فَقَالَ: لَئِنْ رَدَّهَا اللهُ عَلَيَّ لأَشْكُرَنَّ اللهَ
+> حَقَّ شُكْرِهِ. قَالَ: فَمَا لَبِثَ أنْ أُتِيَ بِهَا، فَقَالَ:
+> الحَمْدُ للهِ. فَقَالَ لَهُ قَائِلٌ: جُعِلْتُ فِدَاكَ، أَلَيْسَ
+> قُلْتَ: لأشْكُرَنَّ اللهَ حَقَّ شُكْرِهِ؟ فَقَالَ أبُو عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ: أَلَمْ تَسْمَعْنِي قُلْتُ: الحَمْدُ للهِ؟
 
 Al-Kulayni reports with his isnad from Hammad ibn ‘Uthman that he said:
 Imam al-Sadiq (A) once came out of the mosque to find his mount missing.
@@ -881,23 +741,15 @@ This tradition shows that the praise of God is the best of the ways of
 oral thanksgiving. Among the effects of thanksgiving is increase in
 *ni’mah*, as mentioned unambiguously in the Noble Scripture:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ.﴾
-  </p>
-</blockquote>
+> ﴿لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ.﴾
 
 ***If you are thankful, surely I will increase you.*** (***19:7***)
 
 And the noble *al-Kafi* has recorded this *mustanad* tradition of Imam
 al-Sadiq (A) in this regard:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: مَنْ أُعْطِيَ الشُّكْرُ أُعْطِيَ الزِّيَادَةُ. يَقُولُ اللهُ
-عَزَّ وَجَلَّ: ﴿لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ.﴾
-  </p>
-</blockquote>
+> قَالَ: مَنْ أُعْطِيَ الشُّكْرُ أُعْطِيَ الزِّيَادَةُ. يَقُولُ اللهُ
+> عَزَّ وَجَلَّ: ﴿لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ.﴾
 
 Imam al-Sadiq (A) said: One who has been given thankfulness has been
 also given increase (in ni’mah) Allah, Almighty and Glorious, says: “If
@@ -932,16 +784,12 @@ to mentioning one of the lower stations so as to make her understand
 that the worship of that master was not aimed at such base purposes. And
 all praise is God’s.
 
-<blockquote dir="rtl">
-  <p>
-رَوَى عَلِيُّ بْنُ إبْرَاهِيمَ فِي تَفْسِيرِهِ بِإسْنَادِهِ عَنْ أبِي
-جَعْفَرٍ وَأَبِي عَبْدِاللهِ عَلَيْهِمَا السَّلامُ قَالا: كَانَ
-رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ إذَا صَلَّى قَامَ عَلَى
-أصَابِعِ رِجْلَيْهِ حَتَّى تَوَرَّمَتْ، فَأنْزَلَ اللهُ تَبَارَكَ
-وَتَعَالَى: ﴿طه - بِلُغَةِ طَيٍّ: يَا مُحَمَّدُ - مَا أَنْزَلْنَا
-عَلَيْكَ القُرْآنَ لِتَشْقَى. إلا تَذْكِرَةً لِمَنْ يَخْشَى.﴾
-  </p>
-</blockquote>
+> رَوَى عَلِيُّ بْنُ إبْرَاهِيمَ فِي تَفْسِيرِهِ بِإسْنَادِهِ عَنْ أبِي
+> جَعْفَرٍ وَأَبِي عَبْدِاللهِ عَلَيْهِمَا السَّلامُ قَالا: كَانَ
+> رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ إذَا صَلَّى قَامَ عَلَى
+> أصَابِعِ رِجْلَيْهِ حَتَّى تَوَرَّمَتْ، فَأنْزَلَ اللهُ تَبَارَكَ
+> وَتَعَالَى: ﴿طه - بِلُغَةِ طَيٍّ: يَا مُحَمَّدُ - مَا أَنْزَلْنَا
+> عَلَيْكَ القُرْآنَ لِتَشْقَى. إلا تَذْكِرَةً لِمَنْ يَخْشَى.﴾
 
 ‘Ali ibn Ibrahim, in his tafsir, reports with his isnad from Abu Ja’far
 (A) and Abu ‘Abd Allah (A) that they said: The Messenger of Allah (S)
@@ -950,15 +798,11 @@ Thereupon Allah, Blessed and Exalted, sent down the verse: “Taha,” —it
 meant: O Muhammad!— We have not sent down the Qur’an upon thee to put
 thee to hardship. (20:1-2)”[^25]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ الصَّدُوقِ فِي مَعَانِي الأخْبَارِ بِإسْنَادِهِ عَنْ سُفْيَانَ
-الثَّوْرِيِّ عَنِ الصَّادِقِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ طَوِيلٍ
-قَالَ فِيهِ: وَأَمَّا (طه) فإسْمٌ مِنْ أَسْمَاءِ النَّبِيِّ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ، وَمَعْنَاهُ: يَا طَالِبَ الحَقِّ الهَادِي
-إلَيْهِ.
-  </p>
-</blockquote>
+> وَعَنِ الصَّدُوقِ فِي مَعَانِي الأخْبَارِ بِإسْنَادِهِ عَنْ سُفْيَانَ
+> الثَّوْرِيِّ عَنِ الصَّادِقِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ طَوِيلٍ
+> قَالَ فِيهِ: وَأَمَّا (طه) فإسْمٌ مِنْ أَسْمَاءِ النَّبِيِّ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ، وَمَعْنَاهُ: يَا طَالِبَ الحَقِّ الهَادِي
+> إلَيْهِ.
 
 Al-Saduq in Ma’ani al-’akhbar reports with his isnad from Sufyan
 al-Thawri from Imam al-Sadiq (A) that he said in the course of a long
@@ -978,11 +822,7 @@ on the *ta* and *sukun* on the *ha*. Should this reading of his be
 correct, then it must originally have been ta, with the hamzah having
 changed to ha. Then the meaning of the verse becomes:
 
-<blockquote dir="rtl">
-  <p>
-طَأِ الأَرْضَ بِرِجْلَيْكَ جَمِيعاً.
-  </p>
-</blockquote>
+> طَأِ الأَرْضَ بِرِجْلَيْكَ جَمِيعاً.
 
 Take the earth under both of thy feet.[^27]
 
@@ -1001,25 +841,17 @@ interpretation.[^28] *Shaqa’* and *shaqawah* (whose derivative *tashqa*
 occurs in 20:1) are antonyms of *sa’adah* (felicity) and mean hardship
 and trouble. This is what al-Jawhari states:
 
-<blockquote dir="rtl">
-  <p>
-الشَّقاءُ والشَّقاوَةُ نَقيضُ السَّعَادَة.
-  </p>
-</blockquote>
+> الشَّقاءُ والشَّقاوَةُ نَقيضُ السَّعَادَة.
 
 Al-Tabrisi narrates this tradition in his *al-’Ihtijaj:*
 
-<blockquote dir="rtl">
-  <p>
-رَوَى الطَّبِرْسِيُّ فِي الاحْتِجَاجِ عَنْ مُوسَى بْنِ جَعْفَرٍ
-عَلَيْهِ السَّلامُ عَنْ آبَائِهِ عَلَيْهِمُ السَّلامُ قَالَ: قَالَ
-أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: وَلَقَدْ قَامَ رَسُولُ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ عَشْرَ سِنِينَ عَلَى أَطْرَافِ
-أَصَابِعِهِ حَتَّى تَوَرَّمَتْ قَدَمَاهُ وَاصْفَرَّ وَجْهُهُ يَقُومُ
-اللَّيْلَ أَجْمَعَ حَتَّى عُويِبَ عَلَى ذَلِكَ، فَقَالَ اللهُ عَزَّ
-وَجَلَّ: ﴿طه. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى.﴾
-  </p>
-</blockquote>
+> رَوَى الطَّبِرْسِيُّ فِي الاحْتِجَاجِ عَنْ مُوسَى بْنِ جَعْفَرٍ
+> عَلَيْهِ السَّلامُ عَنْ آبَائِهِ عَلَيْهِمُ السَّلامُ قَالَ: قَالَ
+> أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: وَلَقَدْ قَامَ رَسُولُ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ عَشْرَ سِنِينَ عَلَى أَطْرَافِ
+> أَصَابِعِهِ حَتَّى تَوَرَّمَتْ قَدَمَاهُ وَاصْفَرَّ وَجْهُهُ يَقُومُ
+> اللَّيْلَ أَجْمَعَ حَتَّى عُويِبَ عَلَى ذَلِكَ، فَقَالَ اللهُ عَزَّ
+> وَجَلَّ: ﴿طه. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى.﴾
 
 Imam Muse ibn Ja’far (A) narrates from his ancestors (A) that Amir al
 Mu’minin (A) said: For ten years the Messenger of Allah (S) stood on his
@@ -1046,12 +878,8 @@ ten years, until his blessed feet became swollen. Then the noble verse
 came down: Don’t subject yourself to hardship. You are pure, and a true
 guide. The defect is not in you but in the people, and that:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللَّهَ يَهْدِي مَنْ
-يَشَاءُ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللَّهَ يَهْدِي مَنْ
+> يَشَاءُ.﴾
 
 ***Thou guidest not whom thou likest, but God guides whom He wills.***
 (***28:56***)
@@ -1141,5 +969,4 @@ no. 8.
 (S) used to pray while standing on one foot.
 
 [^28]: This refers to verse 28:56.
-
 

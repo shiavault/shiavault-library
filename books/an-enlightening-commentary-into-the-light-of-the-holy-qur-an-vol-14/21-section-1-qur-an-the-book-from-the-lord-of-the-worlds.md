@@ -4,23 +4,11 @@ Section 1: Qur’an, the Book From the Lord of the Worlds
 Surah As-Sajdah – Verses 1-2
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الم
-  </p>
-</blockquote>
+> الم
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلُ الْكِتَابِ لاَ رَيْبَ فِيهِ مِن رَّبّ‌ِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> تَنزِيلُ الْكِتَابِ لاَ رَيْبَ فِيهِ مِن رَّبّ‌ِ الْعَالَمِينَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -119,13 +107,9 @@ Book itself is a witness to its legitimacy and veracity.
 Surah As-Sajdah – Verse 3
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَاهُ بَلْ هُوَ الْحَقُّ مِن رَّبّـِكَ لِتُنذِرَ
-قَوْماً مَّآ أَتَاهُم مِن نَّذِيرٍ مِن قَبْلِكَ لَعَلَّهُمْ
-يَهْتَدُونَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَاهُ بَلْ هُوَ الْحَقُّ مِن رَّبّـِكَ لِتُنذِرَ
+> قَوْماً مَّآ أَتَاهُم مِن نَّذِيرٍ مِن قَبْلِكَ لَعَلَّهُمْ
+> يَهْتَدُونَ
 
 ***3. “Or do they say: ‘He (the Prophet) has forged it’? Nay! It is the
 truth from your Lord, that you may warn a people to whom no warner came
@@ -185,13 +169,9 @@ and Atyab-ul-Bayan.
 Surah As-Sajdah – Verse 4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَي عَلي الْعَرْشِ مَا لَكُم مّـِن دُونِهِ
-مِن وَلِيٍّ وَلاَ شَفِيعٍ أَفَلاَ تَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَي عَلي الْعَرْشِ مَا لَكُم مّـِن دُونِهِ
+> مِن وَلِيٍّ وَلاَ شَفِيعٍ أَفَلاَ تَتَذَكَّرُونَ
 
 ***4. “Allah is He Who created the heavens and the earth and what is
 between them in six Days then He established Himself on ‘Arsh (the
@@ -329,12 +309,8 @@ in fact, it returns to this very meaning, too.
 Surah As-Sajdah – Verse 5
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُدَبّـِرُ الأَمْرَ مِنَ السَّمَآءِ إِلَي الأَرْضِ ثُمَّ يَعْرُجُ
-إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ
-  </p>
-</blockquote>
+> يُدَبّـِرُ الأَمْرَ مِنَ السَّمَآءِ إِلَي الأَرْضِ ثُمَّ يَعْرُجُ
+> إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ
 
 ***5. “He directs the affair (of this world) from the heaven to the
 earth, then shall it ascend to Him in a Day the measure of which is a
@@ -443,11 +419,7 @@ that a person must stand for a long time in each of them.
 Surah As-Sajdah – Verse 6
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> ذَلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ
 
 ***6. “This is the Knower of the hidden and the manifest, the Mighty,
 the Merciful,”***
@@ -481,18 +453,10 @@ with rudeness, it is accompanied with mercifulness and grace.
 Surah As-Sajdah – Verses 7-8
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ وَبَدَأَ خَلْقَ الإِنسَانِ مِن
-طِينٍ
-  </p>
-</blockquote>
+> الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ وَبَدَأَ خَلْقَ الإِنسَانِ مِن
+> طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلَ نَسْلَهُ مِن سُلاَلَةٍ مِن مَآءٍ مَهِينٍ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلَ نَسْلَهُ مِن سُلاَلَةٍ مِن مَآءٍ مَهِينٍ
 
 ***7. “He Who made best everything that He created, and He began the
 creation of man from clay,”***  
@@ -603,12 +567,8 @@ mysterious beings.
 Surah As-Sajdah – Verse 9
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُوحِهِ وَجَعَلَ لَكُمُ السَّمْعَ
-وَالاَبْصَارَ وَالاَفْئِدَةَ قَلِيلاً مَّا تَشْكُرُونَ
-  </p>
-</blockquote>
+> ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُوحِهِ وَجَعَلَ لَكُمُ السَّمْعَ
+> وَالاَبْصَارَ وَالاَفْئِدَةَ قَلِيلاً مَّا تَشْكُرُونَ
 
 ***9. “Then He fashioned him, and breathed into him of His spirit and
 appointed for you hearing, and sight, and hearts (but) little is it that
@@ -714,12 +674,8 @@ bounties, the less it is for them.
 Surah As-Sajdah – Verse 10
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا أَءِذَا ضَلَلْنَا في الأَرْضِ أَءِنَّا لَفِي خَلْقٍ جَدِيدٍ
-بَلْ هُم بِلقَآءِ رَبّـِهِمْ كَافِرُونَ
-  </p>
-</blockquote>
+> وَقَالُوا أَءِذَا ضَلَلْنَا في الأَرْضِ أَءِنَّا لَفِي خَلْقٍ جَدِيدٍ
+> بَلْ هُم بِلقَآءِ رَبّـِهِمْ كَافِرُونَ
 
 ***10. “And they said: ‘When we are lost in the earth, shall we even
 then be (returned) into a new creation?’ Nay! They are disbelievers in
@@ -789,12 +745,8 @@ state, they will gather together again and join to each other.
 Surah As-Sajdah – Verse 11
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَتَوَفَّاكُم مَلَكُ الْمَوْتِ الَّذِي وُكّـِلَ بِكُمْ ثُمَّ
-إِلَي رَبّـِكُمْ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُلْ يَتَوَفَّاكُم مَلَكُ الْمَوْتِ الَّذِي وُكّـِلَ بِكُمْ ثُمَّ
+> إِلَي رَبّـِكُمْ تُرْجَعُونَ
 
 ***11. “Say: ‘The angel of death, who is put in charge of you, shall
 cause you to die, then unto your Lord you shall be brought back.”***
@@ -897,5 +849,4 @@ under the verse
 [^20]: Surah Az-Zumar, No. 39, verse 42
 
 [^21]: Surah An-Nahl, No. 16, verse 28
-
 

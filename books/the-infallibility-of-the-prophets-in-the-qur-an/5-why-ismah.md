@@ -22,11 +22,7 @@ The Qur'an also supports this reasoning.
 The 1st Verse
 -------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ
 
 ***“We did not send any prophet, except so that he may be obeyed by the
 will of Allah.”*** **(4:64)**
@@ -43,12 +39,8 @@ Such absolute obedience cannot be possible unless the prophets were
 The 2nd Verse
 -------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ
 
 ***“O you who believe!*** ***Obey Allah and obey the Messenger…”***
 **(4:59)**
@@ -64,11 +56,7 @@ Himself alongside with the obedience to His messengers. Actually, in one
 verse, obedience to the messenger is made synonymous with the obedience
 to Allah:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ
-  </p>
-</blockquote>
+> مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ
 
 ***“And whoever obeys the Messenger has actually obeyed Allah.”***
 **(4:80)**
@@ -90,31 +78,19 @@ The 3rd Verse
 To the above verses, add those verses in which Allah forbids you to obey
 certain types of people who commit sins:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تُطِعِ الْمُكَذِّبِينَ وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ وَلَا
-تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ
-  </p>
-</blockquote>
+> فَلَا تُطِعِ الْمُكَذِّبِينَ وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ وَلَا
+> تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ
 
 ***“So do not obey those who accuse you of lying…& do not obey any mean
 swearer…forbidder of good, one who steps beyond the limits, a
 sinner.”*** **(68:8-10)**
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا
-  </p>
-</blockquote>
+> وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا
 
 ***“And do not obey among them a sinner or an ungrateful person.”***
 **(76:24)**
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ
 
 ***“And do not obey the command of the prodigals…”*** **(26:151)**
 
@@ -127,5 +103,4 @@ a) The prophets are to be obeyed unconditionally.
 categories of the sinners or the wrongdoers.
 
 [^1]: See the following verses of the Qur'an: 4:14; 48:7; 33:66.
-
 

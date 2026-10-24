@@ -186,7 +186,6 @@ Carol Anway and Jodi Tahireh Mohammadzadeh
 P.O. Box 27
 Lee's Summit, MO 64063
 
-
 **AMERICAN-BORN WOMEN CONVERTED TO ISLAM QUESTIONNAIRE**
 
 by Carol Anderson Anway and Jodi Tahireh Mohammadzadeh
@@ -222,7 +221,6 @@ prayers ----fasting during Ramadan ----eat only approved
 meats ----on-going study of Qur'an and Islamic teachings
 Name------------- Phone (--------))----------------
 Address----------------
-
 
 **II. YOUR CONVERSION TO ISLAM**
 
@@ -336,5 +334,4 @@ analogy!"
 
 The woman is 35 years old, has three children, works part-time, has a
 bachelor's degree, and has been Muslim 14 years.
-
 

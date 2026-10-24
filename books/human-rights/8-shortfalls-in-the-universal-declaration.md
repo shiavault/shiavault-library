@@ -35,4 +35,3 @@ environment.
 Tenth: Granting absolute freedom of expression, which could be
 destructive.
 
-

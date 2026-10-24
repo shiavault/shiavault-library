@@ -662,4 +662,3 @@ and rules. According to Motahhari (1988), man in Islam has a
 comprehensive personality and is very sensitive to his social
 responsibilities.
 
-

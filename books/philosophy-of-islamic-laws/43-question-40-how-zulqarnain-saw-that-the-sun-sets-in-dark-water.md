@@ -67,10 +67,8 @@ much more and it had acquired the state which was almost blackish, that
 is why the Holy Qur’an has interpreted it as the water mixed with black
 soil.[^1]
 
-
 [^1]: Tafseer Muraghi, Part 16, Page 17, Tafseer Majmaul Bayan, Vol. 7,
 Page 490, Tafseer Tantavi, Part 9, Page 200. Al Munjid , under the words
 'Ham'aa' and 'Aien'. Mufradate Raghib, Qisase Qur’an, under the word
 Zulqarnain.
-
 

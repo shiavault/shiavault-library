@@ -139,4 +139,3 @@ honour, or those of his brethren.  However, if there was room for
 equivocation (tawriyah), [he may resort to it].  
   
 
-

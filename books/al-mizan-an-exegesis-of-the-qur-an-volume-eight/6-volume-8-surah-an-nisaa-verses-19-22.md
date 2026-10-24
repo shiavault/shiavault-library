@@ -263,4 +263,3 @@ said that it refers to their becoming lawful to each other as a result
 of marriage. But quite obviously, these interpretations are far-fetched,
 as the words of the verse show.
 
-

@@ -1718,4 +1718,3 @@ near the actual figure.
 
 [^59]: Keane, The Evolution of Geography, p. 48
 
-

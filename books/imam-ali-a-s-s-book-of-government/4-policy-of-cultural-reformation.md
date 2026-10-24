@@ -1869,4 +1869,3 @@ al-Mu'minin, VII, 21.
 
 [^43]: See 9/6, hadith 511.
 
-

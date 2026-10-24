@@ -81,4 +81,3 @@ he composed in the memory of his brother, Kaleeb. The sentence Alaa
 Laisa Adlam min Qaleeb is repeated twenty times. And of the Urdu poets,
 especially in Dr Iqbal's poetry we find such examples of repetition.
 
-

@@ -21,4 +21,3 @@ Wish to understand Shiaism
 
 In the light of truth.
 
-

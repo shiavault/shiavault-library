@@ -197,4 +197,3 @@ Allah has placed man on earth as a guardian, and that guardianship
 comes with responsibility, the responsibility of acknowledging his debt
 at all times to the merciful King of creation.
 
-

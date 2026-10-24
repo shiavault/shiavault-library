@@ -84,4 +84,3 @@ a further year.
 
 11 The Qur'an: The Clot (96):1.
 
-

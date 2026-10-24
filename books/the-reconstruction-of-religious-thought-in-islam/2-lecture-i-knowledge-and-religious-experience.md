@@ -854,4 +854,3 @@ fruits. The former is applied by the philosopher, the latter by the
 prophet. In the lecture that follows, I will apply the intellectual
 test.
 
-

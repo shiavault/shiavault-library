@@ -267,4 +267,3 @@ is the creature itself.[^1]
 
 [^1]: From the quarterly, “Maktab-e Tashayyu‘”.
 
-

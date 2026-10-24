@@ -107,4 +107,3 @@ rewarded in the life hereafter.
 [^1]: Ya'qoobi, Tarikh al-Ya'qoobi, vol. 2, p.89, Dar Sadir, Beirut,
 Harrani, Tuhaf al-Uqul an aal al-Rasul, Mawa'idh al-Rasul.
 
-

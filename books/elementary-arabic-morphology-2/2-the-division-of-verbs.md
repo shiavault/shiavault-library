@@ -51,4 +51,3 @@ example: **رَمَیَ** (he threw).
 14. A double-letter verb is a verb that has two identical letters in its
 root. For example: **زَلزَلَ** (it quaked).
 
-

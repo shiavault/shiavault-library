@@ -52,4 +52,3 @@ subject is a controversial one, and if we deal with it at length it will
 be long drawn out indeed, then what we have established about it is
 sufficient to the intelligent.
 
-

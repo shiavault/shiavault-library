@@ -49,7 +49,6 @@ attention that people paid to their work. And now this hope is induced
 in them that if God Speeds, it might be a work accepted in the presence
 of Allah.
 
-
 The FARSI VERSION of the BOOK has repeatedly gone under print. (more
 than ten times so far) The ORDU TRANSLATION too, in twenty seven
 volumes, has had several prints.
@@ -187,13 +186,11 @@ PATH
 صِرَ طَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ
 وَلاَالضَّآلِّينَ(( 6 )) 6- THE PATH OF THOSE WHOM YOU HAVE FAVOURED.
 
-
 NOT OF THOSE WHO HAVE INCURRED YOUR WRATH.
 
 NOR OF THOSE WHO ARE ASTRAY.
 
 [ 18 ]
-
 
 **THE COMMENTARY**
 
@@ -578,5 +575,4 @@ verses of QURA"N: \`\`And whoever obeys Allah and the Apostle, they are
 with those whom God HAS favoured, such as the PROPHETS, THE TRUTHFULS,
 THE ,MARTYRS, THE RIGHTEOUS, and what a good friends are they.''
 QURA"N - S 4:69
-
 

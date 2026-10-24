@@ -66,4 +66,3 @@ scholars (ulama) quoted Prophetic narrations and religious science.
 
 [^3]: Tabrasi, Mashkat al-Anwar, p. 29.
 
-

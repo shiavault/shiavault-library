@@ -216,4 +216,3 @@ apologized for the delay. He asked about our reading and gave Sarah her
 notebook with some explanations written in it. Then he began his
 lecture.
 
-

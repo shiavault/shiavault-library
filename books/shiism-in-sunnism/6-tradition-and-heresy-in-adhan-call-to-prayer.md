@@ -4,12 +4,8 @@ Tradition and Heresy in Adhan (Call to Prayer)
 *Adhan* (call to prayer) lexically means ‘announcement,’[^1] as the
 Exalted God states in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَأَذَانٌ مِنْ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
-الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنْ الْمُشْرِكِينَ وَرَسُولُهُ .
-  </p>
-</blockquote>
+> وَأَذَانٌ مِنْ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
+> الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنْ الْمُشْرِكِينَ وَرَسُولُهُ .
 
 ***And an announcement from Allah and His Messenger to the people on the
 day of the greater pilgrimage that Allah and His Messenger are free from
@@ -36,30 +32,22 @@ supporting this meaning:
 
 Kulayni, in *Al-Kafi*, narrates:
 
-<blockquote dir="rtl">
-  <p>
-…لمّا أُسْرِيَ بِرَسولِ اللهِ صلّى اللهُ عليهِ وآلِهِ وسلَّم إلى
-السَّماءِ فَبَلغَ البَيتَ المَعمورَ وَحَضَرتِ الصّلاةُ، أذَّنَ
-جِبرَئيلُ وأقامَ فَتَقدَّمَ رَسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ
-وسلَّم وَصَفَّ المَلائِكَةُ وَالنّبيّونَ خَلْفَ مُحَمَّد صلّى اللهُ
-عليهِ وآلِهِ وسلَّم .
-  </p>
-</blockquote>
+> …لمّا أُسْرِيَ بِرَسولِ اللهِ صلّى اللهُ عليهِ وآلِهِ وسلَّم إلى
+> السَّماءِ فَبَلغَ البَيتَ المَعمورَ وَحَضَرتِ الصّلاةُ، أذَّنَ
+> جِبرَئيلُ وأقامَ فَتَقدَّمَ رَسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ
+> وسلَّم وَصَفَّ المَلائِكَةُ وَالنّبيّونَ خَلْفَ مُحَمَّد صلّى اللهُ
+> عليهِ وآلِهِ وسلَّم .
 
 Imam Baqir (a.s) said: When the Messenger of Allah (a.s) was ascended to
 the heaven and reached *Al-Bayt Al-Ma’mur*,[^2] the prayer time came.
 So, (Archangel) Gabriel called out *Adhan* and iqamah. The Prophet (a.s)
 stood in front and the angels and Prophets queued behind him.[^3]
 
-<blockquote dir="rtl">
-  <p>
-…لمّا هَبطَ جِبرَئيلُ بالأذانِ عَلى رَسولِ اللهِ كانَ رأسُهُ في حِجْرِ
-عليٍّ عَليهِ السَّلامُ فأذَّنَ جِبرَئيلُ عَليهِ السَّلامُ وأقامَ،
-فَلَمّا انْتَبَهَ رَسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ وسلَّم قال: يا
-عَليُّ! أسَمِعْتَ؟ قالَ نعم. قال: ادْعُ بِلالاً فَعَلِّمْهُ. فَدَعا
-عليٌّ عَليهِ السَّلامُ بِلالاً فَعَلَّمَه.
-  </p>
-</blockquote>
+> …لمّا هَبطَ جِبرَئيلُ بالأذانِ عَلى رَسولِ اللهِ كانَ رأسُهُ في حِجْرِ
+> عليٍّ عَليهِ السَّلامُ فأذَّنَ جِبرَئيلُ عَليهِ السَّلامُ وأقامَ،
+> فَلَمّا انْتَبَهَ رَسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ وسلَّم قال: يا
+> عَليُّ! أسَمِعْتَ؟ قالَ نعم. قال: ادْعُ بِلالاً فَعَلِّمْهُ. فَدَعا
+> عليٌّ عَليهِ السَّلامُ بِلالاً فَعَلَّمَه.
 
 Imam Sadiq (a.s) said: When Gabriel descended to the Prophet (a.s)
 bearing *Adhan*, his honorable head was on Ali’s leg. Gabriel called out
@@ -106,12 +94,8 @@ Prophets’ souls. Then the dream of Abdullah Ibn Zayd is mentioned.”[^7]
 Various traditions narrated by major Sunni narrators confirm that the
 origin of *Adhan* has been a revelation, not a dream:
 
-<blockquote dir="rtl">
-  <p>
-…لَمّا أُسرِيَ بِالنّبيِّ أوْحى اللهُ إلَيهِ الأذان فَنَزَلَ بِه
-فَعَلَّمَهُ بِلالاً.
-  </p>
-</blockquote>
+> …لَمّا أُسرِيَ بِالنّبيِّ أوْحى اللهُ إلَيهِ الأذان فَنَزَلَ بِه
+> فَعَلَّمَهُ بِلالاً.
 
 In the Prophet’s Ascension to heaven, God revealed *Adhan* to him, so he
 descended and taught it to Bilal.[^8]
@@ -138,12 +122,8 @@ supporting the dream (as the origin of *Adhan*), people would be seen
 who are not so much different from Talha Ibn Zayd, if not worse than
 him. Hence, there is no sense in preferring the traditions about dream.
 
-<blockquote dir="rtl">
-  <p>
-عَن أنَسٍ أنَّ جِبرَئيلَ أمَرَ النّبيَّ صلّى اللهُ عليهِ وسلَّم
-بالأذانِ حينَ فُرِضَتِ الصَّلاةُ.
-  </p>
-</blockquote>
+> عَن أنَسٍ أنَّ جِبرَئيلَ أمَرَ النّبيَّ صلّى اللهُ عليهِ وسلَّم
+> بالأذانِ حينَ فُرِضَتِ الصَّلاةُ.
 
 Anas narrated that when the prayer became obligatory, Gabriel ordered
 the Prophet (a.s) to call out the *Adhan*.[^12]
@@ -153,26 +133,18 @@ set up, *Adhan* was established. On the other hand, the prayer was
 established from the very beginning of the Prophet’s Mission, so the
 origin of *Adhan* has nothing to do with the dream at all.
 
-<blockquote dir="rtl">
-  <p>
-…لمّا أسْريَ بي أذَّنَ جِبْرَئِيلُ فَظَنَّتِ المَلائِكَةُ أنَّهُ
-يُصَلّي بِهِمْ، فَقَدَّمَني فَصَلَّيْتُ.
-  </p>
-</blockquote>
+> …لمّا أسْريَ بي أذَّنَ جِبْرَئِيلُ فَظَنَّتِ المَلائِكَةُ أنَّهُ
+> يُصَلّي بِهِمْ، فَقَدَّمَني فَصَلَّيْتُ.
 
 A’ishah said that the Holy Prophet (a.s) said: When I was ascended to
 the heaven, Gabriel called out the *Adhan*. The angels thought that he
 wanted to lead the prayer; but he led me forward and I led the
 prayer.[^13]
 
-<blockquote dir="rtl">
-  <p>
-…لمّا أرادَ اللهُ أنْ يُعَلِّمَ رَسولَهُ الأذان أتاهُ جِبرَئيلُ
-بِدابَّةٍ يُقالُ لَها البُراقُ فَرَكِبَها... إذا خَرجَ مَلَكٌ مِن
-وَراءِ الحِجابِ فقالَ: اللهُ أكْبَرُ اللهُ أكْبَرُ… ثمَّ أخَذَ
-المَلَكُ بِيَدِه فَأمَّ بأهْلِ السَّماءِ.
-  </p>
-</blockquote>
+> …لمّا أرادَ اللهُ أنْ يُعَلِّمَ رَسولَهُ الأذان أتاهُ جِبرَئيلُ
+> بِدابَّةٍ يُقالُ لَها البُراقُ فَرَكِبَها... إذا خَرجَ مَلَكٌ مِن
+> وَراءِ الحِجابِ فقالَ: اللهُ أكْبَرُ اللهُ أكْبَرُ… ثمَّ أخَذَ
+> المَلَكُ بِيَدِه فَأمَّ بأهْلِ السَّماءِ.
 
 … (Imam Ali narrated) When God inclined to teach His Messenger the
 *Adhan*, Gabriel brought the Prophet a riding thing named Buraq and the
@@ -187,16 +159,12 @@ Al-Jarud is subject to controversy, but he is not as doubtful as those
 present in the tradition of dream. So, there is no sense in preferring
 the traditions of the dream to these ones.
 
-<blockquote dir="rtl">
-  <p>
-…لَمّا كانَ مِن الحَسنِ بنِ عَليٍّ ما كانَ قَدِمْتُ عَليهِ المَدينةَ
-وهو جالِسٌ في أصْحابِه... فَتَذاكَرنا عندَهُ الأذان فقالَ بعضُنا:
-إنَّما كانَ بِدءُ الأذان بِرؤيا عبدِاللهِ بنِ زَيد بن ِعاصمٍ. فَقالَ
-له الحَسنُ بنُ عَليٍّ: إنَّ شَأنَ الأذان أعْظَمُ مِن ذاكَ! أذَّنَ
-جِبرَئِيلُ في السَّماءِ مَثنى وَعَلَّمهُ رَسولُ اللهِ صلّى اللهُ عليهِ
-وآلِهِ وسلَّم وَأقامَ مَرّةً مَرّةً فَعَلَّمهُ رَسولُ اللهِ.
-  </p>
-</blockquote>
+> …لَمّا كانَ مِن الحَسنِ بنِ عَليٍّ ما كانَ قَدِمْتُ عَليهِ المَدينةَ
+> وهو جالِسٌ في أصْحابِه... فَتَذاكَرنا عندَهُ الأذان فقالَ بعضُنا:
+> إنَّما كانَ بِدءُ الأذان بِرؤيا عبدِاللهِ بنِ زَيد بن ِعاصمٍ. فَقالَ
+> له الحَسنُ بنُ عَليٍّ: إنَّ شَأنَ الأذان أعْظَمُ مِن ذاكَ! أذَّنَ
+> جِبرَئِيلُ في السَّماءِ مَثنى وَعَلَّمهُ رَسولُ اللهِ صلّى اللهُ عليهِ
+> وآلِهِ وسلَّم وَأقامَ مَرّةً مَرّةً فَعَلَّمهُ رَسولُ اللهِ.
 
 Sufyan Al-Layl narrated that after what happened for Imam Hasan (a.s),
 he went to him in Medina. There, a discussion posed about *Adhan*. Some
@@ -205,12 +173,8 @@ Hasan Ibn Ali (a.s) said, “The status of *Adhan* is greater than that.
 Gabriel called out the phrases of *Adhan*, each twice and taught it to
 the Prophet (a.s) and called out iqamah once and taught it to him.[^15]
 
-<blockquote dir="rtl">
-  <p>
-…إنّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم عَلَّم الأذانَ لَيلَةَ
-أُسْرِيَ بهِ وَفُرضَتْ عَلَيهِ الصّلاةُ.
-  </p>
-</blockquote>
+> …إنّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم عَلَّم الأذانَ لَيلَةَ
+> أُسْرِيَ بهِ وَفُرضَتْ عَلَيهِ الصّلاةُ.
 
 Harun Ibn Sa’d reported form the martyr, Zayd Ibn Al-Imam Ali Ibn
 Al-Husayn, from his grandfathers from Imam Ali that the Prophet (a.s)
@@ -720,11 +684,7 @@ Consequently, since naming Ali (a.s) is as worship, there is no doubt
 about the preference of mentioning his name in general and in *Adhan*,
 in particular. As Muttaqi Hindi narrates in *Kanz Al-Ummal*:
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرُ عَلِيٍّ عِبادَةٌ.
-  </p>
-</blockquote>
+> ذِكْرُ عَلِيٍّ عِبادَةٌ.
 
 Mentioning Ali’s name is as worship.[^84]
 
@@ -971,5 +931,4 @@ Al-Adhan, p. 80 (Editor).
 [^84]: Vol. 11, p. 601, No. 32894; Jami’ Al-Saghir, No. 4332; “Ibn
 Asakir” has narrated this tradition in “Tarikh Madina Dimashq” (The
 history of Damascus) with valid documents (Vol. 42, p. 356).
-
 

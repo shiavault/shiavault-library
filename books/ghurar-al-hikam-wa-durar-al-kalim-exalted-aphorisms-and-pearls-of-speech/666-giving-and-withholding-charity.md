@@ -8,21 +8,13 @@ treasurer for someone else in that which you withhold from what is in
 excess of your daily requirement.
 
 > 1ـ إيّاكَ والإمْساكَ فَإنَّ ما أمْسَكْتَهُ فَوْقَ قُوتِ يَوْمِكَ
-<blockquote dir="rtl">
-  <p>
-كُنْتَ فيهِ خازِناً لِغَيْرِكَ.
-  </p>
-</blockquote>
+> كُنْتَ فيهِ خازِناً لِغَيْرِكَ.
 
 2. If you spend your wealth for the sake of Allah, then [know that]
 indeed Allah is quick in recompense.
 
 > 2ـ إنْ تَبْذُلُوا أمْوالَكُمْ في جَنْبِ اللّهِ فَإنَّ اللّهَ مُسْرِعُ
-<blockquote dir="rtl">
-  <p>
-الخَلَفَ.
-  </p>
-</blockquote>
+> الخَلَفَ.
 
 3. When you are blessed with sustenance then give charity.
 
@@ -70,11 +62,7 @@ spends on others.
 earned than acquiring what you accumulate.
 
 > 12ـ إنَّكُمْ إلى إنْفاقِ مَا اكْتَسَبْتُمْ أحْوَجُ مِنْكُمْ إلَى
-<blockquote dir="rtl">
-  <p>
-اكْتِسابِ ما تَجْمَعُونَ.
-  </p>
-</blockquote>
+> اكْتِسابِ ما تَجْمَعُونَ.
 
 [^1]: The dirham is a silver coin and the dinar is a gold coin (which is
 typically valued as ten times as much as the dirham).
@@ -83,5 +71,4 @@ typically valued as ten times as much as the dirham).
 it means the human being gets much reward for the little charity that he
 gives. For the entire explanation refer to the commentary of Nahj
 al-Balāgha, Hikma no. 232
-
 

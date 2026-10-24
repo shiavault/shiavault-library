@@ -21,7 +21,6 @@ Even the great Apostles of God like Abraham, Solomon and the others had
 wives more than one." (Translation of the Holy Qur'an, footnote
 no.499)
 
-
 **Polygamy: According To Hindu Law**
 
 Further he writes:-
@@ -61,7 +60,6 @@ p.113)\*
 
 \* S. V. Mir Ahmad Ali, Ibid
 
-
 **Polygamy: According To Jewish Law**
 
 "If he take him another wife, her food, her raiment, and her duty of
@@ -70,7 +68,6 @@ marriage shall he not diminish."
 It is evident to even a casual reader of Old Testament that not only is
 polygamy permitted but also practised, and that regulations for that
 have been stipulated in the scriptures.
-
 
 **Polygamy: According To Christianity**
 
@@ -246,5 +243,4 @@ most dangerous tendency in religion, \`to account as sin what is not
 such in reality,' it appears true that, so far from the question
 respecting the lawfulness of polygamy being trivial, it is of the
 highest importance that it should be decided." (pp.231-232)
-
 

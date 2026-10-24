@@ -450,4 +450,3 @@ Harvard University has carried out such a research on psychology and
 Allama Jafari which is due to be published by London Academy of Iranian
 Press in United Kingdom in June 2012.
 
-

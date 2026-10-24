@@ -7,12 +7,8 @@ greatness, its key and the door of all good affairs and the pleasure of
 the Merciful Allah is to obey the Imam after recognizing him. Then he
 said: Allah Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِعْ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ وَمَنْ تَوَلَّى فَمَا
-أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا.
-  </p>
-</blockquote>
+> مَنْ يُطِعْ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ وَمَنْ تَوَلَّى فَمَا
+> أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا.
 
 ***Whoever obeys the Apostle, he indeed obeys Allah, and whoever turns
 back, so We have not sent you as a keeper over them. (Sura Nisa 4:80)***
@@ -39,11 +35,7 @@ The same gentleman is reported to have said that Imam Baqir (a.s.) has,
 explaining the Divine words about the descendants of Abraham (Aale
 Ibrahim), meaning:
 
-<blockquote dir="rtl">
-  <p>
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.
-  </p>
-</blockquote>
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا.
 
 ***We have granted them a great kingdom… (Sura Nisa 4:54)***
 
@@ -65,11 +57,7 @@ booty and that we are perfect in knowledge and steadfast and that our
 knowledge is certain and that we are the envied about whom Allah has
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ.
-  </p>
-</blockquote>
+> أَمْ يَحْسُدُونَ النَّاسَ عَلَى مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ.
 
 ***Are the people envious of what We have granted to them out of Our
 Grace? (Sura Nisa:54)***
@@ -87,12 +75,8 @@ means the Infallible Imams who are related to Imamate and the obedience
 of whose orders is obligatory and that only they are the persons about
 whom Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمْ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ.
 
 ***Your Guardian is only Allah and His Messenger and those who establish
 Prayer and who pay Zakat while they are bowing. (Sura Maida 5:55)***
@@ -171,5 +155,4 @@ and the prophet’s obedience is the obedience of Allah.
 angels also like this religion for the servants (human) of Allah. It is
 just as what is meant by religion of Allah is that the angels are bound
 to accept this belief as is understood from other traditions.
-
 

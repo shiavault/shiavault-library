@@ -853,4 +853,3 @@ Vol. XII, p. 12a
 [^70]: ‘Umrah is the pilgrimage performed at any time other than the 9th
 of Dhu al-Hijjah.
 
-

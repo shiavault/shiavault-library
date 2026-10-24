@@ -49,24 +49,16 @@ into negligence.
 
 Imam al-Mahdi (ajtf) has stated:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّا نُحِيطُ عِلْماً بِأَنْبَائِكُمْ، وَ لاَ يَعْزُبُ عَنَّا
-شَيْءٌ مِنْ أَخْـبَارِكُمْ
-  </p>
-</blockquote>
+> فَإِنَّا نُحِيطُ عِلْماً بِأَنْبَائِكُمْ، وَ لاَ يَعْزُبُ عَنَّا
+> شَيْءٌ مِنْ أَخْـبَارِكُمْ
 
 “Surely we have complete knowledge of your situation and there is
 nothing which is hidden from us concerning you.”[^3]
 
 In another tradition, Imam al-Mahdi (ajtf) has stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا غَـيْرُ مُهْمِلِينَ لِـمُرَاعَاتِكُمْ وَ لاَ نَاسِينَ
-لِذِكْرِكُمْ
-  </p>
-</blockquote>
+> إِنَّا غَـيْرُ مُهْمِلِينَ لِـمُرَاعَاتِكُمْ وَ لاَ نَاسِينَ
+> لِذِكْرِكُمْ
 
 “Verily, we are not inattentive in taking care of you nor are we
 heedless in remembering you.”[^4]
@@ -101,5 +93,4 @@ A’immah .
 
 [^4]: al-Kharaij, pg. 902; Biharul Anwar, vol. 53, pg. 174, sec. 31, no.
 7
-
 

@@ -829,4 +829,3 @@ and Ours the reckoning” (Surah ar-R’ad 13:40); “It is only for the
 Messanger to deliver the Message” (Surah al-Ma’idah 5:99); and the
 likes.
 
-

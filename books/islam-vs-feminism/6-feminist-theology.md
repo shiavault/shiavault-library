@@ -103,4 +103,3 @@ interpret the basic message of Christianity as a call to struggle for
 liberation, particularly, the liberation of women from male domination,
 which entails the dismantling of the traditional family.
 
-

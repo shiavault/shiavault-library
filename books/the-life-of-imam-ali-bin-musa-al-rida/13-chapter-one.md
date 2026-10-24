@@ -1,10 +1,6 @@
 Chapter One
 ===========
 
-  
-
-  
-
 ON INVOCATION OF ALLAH
 ----------------------
 
@@ -28,10 +24,6 @@ him, related to me in the year 194 A. H. He said: My father Mūsā b.
 Jafar related to me. He said: My father Jafar b. Mohammed related to me.
 He said: My father Mohammed b. Ali related to me. He said: My father Ali
 b. al-Husayn related to me. He  
-
-  
-
-  
 
 said: My father al-Husayn b. Ali related to me. He said: My father Ali
 b. Abū Tālib, the peace of Allah be on them all, amen to the Day of
@@ -76,11 +68,6 @@ from the means of the heavens and the earth, so if he asks Me,
 [[1]](#_F343) In the narration of al-Tabrisi: "In its condition and its
 conditions, and I am among its conditions." We will talk about this holy
 tradition within this book.  
-  
-
-  
-
-  
 
 I will not give him; and if he supplicates Me, I will not answer him;
 and if a creature seeks refuge in Me other than My creatures, I will
@@ -124,12 +111,6 @@ its intellectual and scientific renaissance. It is certain that if the
 cushion had been folded for him and he had undertaken the leadership of
 the reign after the Prophet, may Allah bless him and his family, the
 Jews, the Christians, and the Magians would have adopted Islam.
-
-  
-
-  
-
-  
 
 6. Through his chain of authorities, he, peace be on him, said: [Allahs
 Messenger, may Allah bless him and his family, said:] The best deeds
@@ -177,12 +158,6 @@ surely takes part in building Islamic thought; and Allahs Apostle, may
 Allah bless him and his family, had promised him that Allah would raise
 him from the dead a jurist and scholar on the Day of Resurrection.
 
-  
-
-  
-
-  
-
 8. Through his chain of authorities, he, peace be on him, said: [Allahs
 Apostle, may Allah bless him and his family, said:] He who gives a
 religious opinion to men without knowledge, the heavens and the earth
@@ -211,12 +186,6 @@ him: *O Mūsā, I am the friend of him who invoke Me!*
 11. Through his chain of authorities, he, peace be on him, said: [Allahs
 Apostle, may Allah bless him and his family, said:] The supplication of
 the children of my community is accepted unless they commit sins.
-
-  
-
-  
-
-  
 
 Certainly, the supplication of the children of the faithful is accepted,
 for Allah does not refuse a supplication of theirs on the condition that
@@ -265,12 +234,6 @@ disobedience to Allah.
 These six qualities give an account of mans honor, manhood, and good
 inner self.
 
-  
-
-  
-
-  
-
 16. Through his chain of authorities, he, peace be on him, said: [Allahs
 Apostle, may Allah bless him and his family, said three times:] O Allah,
 have mercy on my successors!
@@ -314,10 +277,6 @@ does not know, should not be ashamed of saying that Allah and His
 Messenger know. He who does not know should not be ashamed of learning.
 Steadfastness is of the same rank with  
 
-  
-
-  
-
 faith as (that of) the head with the body. He who has no patience has no
 faith.
 
@@ -359,10 +318,6 @@ faithful, peace be on him, said:] When Allahs Messenger, may Allah bless
 him and his family, began learning the *adhān* (call to prayer), Gabriel
 brought him the Burāq, but it was difficult for him (to  
 
-  
-
-  
-
 ride it). Then he brought him a riding animal called Burāqa and it was
 difficult for him (to ride it), so Gabriel said to it: Be calm, for none
 more honorable than him in Allahs view has ever ridden you! It became
@@ -394,19 +349,12 @@ worship Me. And surely successful is he who perseveres in
 it.[[1]](#_ftn344) Allahs Messenger, may Allah bless him and his family,
 said: Allah has completed for me the honor over the first and the last.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F344) The tradition has been mentioned in the book *Tārikh
 al-Khamis* in this formula along with and addition *Hayya 'ala
 khayri'l-'amal* (Make haste to the best of actions). The Shi'ite
 references of hadith and jurisprudence have also mentioned it.  
-  
-
-  
-
-  
 
 The Shiites have unanimously agreed that it was the Prophet, may Allah
 bless him and his family, who legislated the *adhān* in this manner
@@ -440,16 +388,9 @@ of prayer. Then why did Abd Allah b. Zayd see the angle and the rest of
 Companions (of the Prophet), who were greater than him in importance,
 did not see him?
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F345) Al-Fiqh 'alā al-Madhāhib al-Arba'a, vol. 1, p. 311.  
-  
-
-  
-
-  
 
 ### CHAPTER THREE
 
@@ -487,10 +428,6 @@ Allah would afflict them with a dreadful tribulation.
 26. Through his chain of authorities, he, peace be on him, said: [Allahs
 Messenger, may Allah bless him and his family, said:] If man is not able
 to perform prayer in standing position, he can pray in  
-
-  
-
-  
 
 sitting position. If he cannot pray in sitting position, he can pray
 laying down on his back and his feet facing the *qibla*, and he makes a
@@ -533,12 +470,6 @@ first *(raka) al-hamd* and *qul yā ayuhā al-kafirūn*, and in the other
 *(raka)* he recited *al-hamd* and *qul huwa Allahu ahad*. Then he said:
 I recited to you the one-third and one-fourth of the Qurān.
 
-  
-
-  
-
-  
-
 A four-*raka* prayer is shortened during travel, and surely the Prophet,
 may Allah bless him and his family, recited *qul yā ayuhā al-kafirūn* in
 the first *raka* after *al-fātiha*, and in the second *raka* he recited
@@ -579,11 +510,6 @@ House (*ahl al-Bayt)*, peace be on them.[[2]](#_ftn347) As for the
 
 [[1]](#_F346) Al-'Urwat al-Withqā, vol. 1, p. 170.  
  [[2]](#_F347) Wasā'il al-Shi'a, Chapter on the Prayer for the Dead.  
-  
-
-  
-
-  
 
 Sunnis, they believe that the *takbirs* are four, and the worshipper
 departs after the fourth *(takbir)*.[[1]](#_ftn348)
@@ -618,10 +544,7 @@ he/she dies at the age of six years, then the prayer for the dead should
 be performed over him. If he/she has not reached this age, then prayer
 over them is recommended.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F348) Al-Fiqh 'alā al-Madhāhib al-Arba'a, vol. 1, p. 519.  
-  
 

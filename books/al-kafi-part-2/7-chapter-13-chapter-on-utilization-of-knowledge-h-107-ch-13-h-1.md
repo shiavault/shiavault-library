@@ -109,7 +109,6 @@ plots of Satan are weak." I asked the Imam (a.s.) "What is it that we
 know?'" The Imam replied, "Fight him with whatever of the power of
 Allah, the Majestic, the Glorious, has come to light before you."
 
-
 **Chapter 14 : Chapter on Those who use their Knowledge to Fill their
 Stomach and are Boastful for it H 114, Ch. 14, h 1**
 
@@ -188,5 +187,4 @@ ibn 'Isa from Ri'ab'i ibn 'Abdallah from one he narrated from abu Ja'far
 in arguments with fools or to attract people to himself he should know
 that in so doing he has prepare his seat in the fire. Leadership does
 not suite anyone besides those qualified for it."
-
 

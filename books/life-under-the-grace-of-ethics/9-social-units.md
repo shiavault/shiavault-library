@@ -217,11 +217,7 @@ the human society are all created from two spouses.
 
 So, all should form one unit:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
 
 *** O mankind! Lo! We have created you male and female. (49:13)***
 
@@ -240,11 +236,7 @@ each other, and there is no more natural and correct way than relation
 to the forefathers, ancestors, nations and tribes, but it should be only
 a means of knowing, not boasting:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا
-  </p>
-</blockquote>
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا
 
 ***And have made you nations and tribes that ye may know one another.***
 ***(49:13)***
@@ -255,11 +247,7 @@ is never attainable through heritage, and in other words, if presumably
 heretical attributes are "beautiful", they are involuntarily beautiful,
 and cannot be a criterion for personality and dignity.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ
 
 ***Lo! the noblest of you, in the sight of Allah, is the best in
 conduct.*** ***(49:13)***
@@ -284,12 +272,8 @@ them.
 
 b- Qur’an assumed all of the earth as God's vast territory, as it says:
 
-<blockquote dir="rtl">
-  <p>
-يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ
-فَاعْبُدُونِ
-  </p>
-</blockquote>
+> يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ
+> فَاعْبُدُونِ
 
 ***O my bondmen who believe! Lo! My earth is spacious. Therefore serve
 Me only. (29:56)***
@@ -300,12 +284,8 @@ And somewhere else it instructs to roam all around the earth for
 observing the remains of annihilated civilizations of the ancestors and
 taking lesson from their life associated with sin and injustice.
 
-<blockquote dir="rtl">
-  <p>
-فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الْمُكَذِّبِينَ
 
 ***Do but travel in the land and see the nature of the consequence for
 the deniers! (16:36)***
@@ -313,11 +293,7 @@ the deniers! (16:36)***
 And also it invites people to correction on the earth, and avoiding
 corruption on it:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا
-  </p>
-</blockquote>
+> وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا
 
 ***Work not confusion in the earth after the fair ordering (thereof).
 (7:56)***
@@ -325,11 +301,7 @@ corruption on it:
 And someone else it calls the earth the inheritance of righteous and
 good doers, who finally will govern on it:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
-  </p>
-</blockquote>
+> أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 * **My righteous slaves will inherit the earth: (21:105)***
 
@@ -339,11 +311,7 @@ obligations, and if they cannot implement them in a point, they shall
 immigrate to the other parts of earth, and it blames and rebukes
 refraining emigration:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا
-  </p>
-</blockquote>
+> قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا
 
 ***(The angels) will say: Was not Allah's earth spacious that ye could
 have migrated therein? (4:97)***
@@ -446,23 +414,15 @@ except Allah", and attention to "Allah", the unique God.
 Qur’an says: not only deity on the earth is God; rather He is the only
 rightful deity throughout the world of creation, where it says:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي فِي السَّمَاءِ إِلَٰهٌ وَفِي الْأَرْضِ إِلَٰهٌ ۚ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي فِي السَّمَاءِ إِلَٰهٌ وَفِي الْأَرْضِ إِلَٰهٌ ۚ
 
 ***And He it is Who in the heaven is Allah, and in the earth Allah.
 (43:84)***
 
 And somewhere else it says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَٰنِ
-عَبْدًا
-  </p>
-</blockquote>
+> إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَٰنِ
+> عَبْدًا
 
 ***There is none in the heavens and the earth but cometh unto the
 Beneficent as a slave. (19:93)***
@@ -471,23 +431,15 @@ Islam has also expanded the reality of monotheism to the world of
 creation in its instructions, and introduces the entire world as a unit,
 originating from a unique source:
 
-<blockquote dir="rtl">
-  <p>
-مَا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِنْ تَفَاوُتٍ ۖ فَارْجِعِ
-الْبَصَرَ هَلْ تَرَىٰ مِنْ فُطُورٍ
-  </p>
-</blockquote>
+> مَا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِنْ تَفَاوُتٍ ۖ فَارْجِعِ
+> الْبَصَرَ هَلْ تَرَىٰ مِنْ فُطُورٍ
 
 ***Thou (Muhammad) canst see no fault in the Beneficent One's creation;
 then look again: Canst thou see any rifts? (67:3)***
 
 And also Qur’an introduces all living creatures from one single source:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ
-  </p>
-</blockquote>
+> مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ
 
 ***We made every living thing of water? (21:30)***
 
@@ -501,27 +453,15 @@ According to Islamic instructions, the creator and lord of this world is
 not separate from this world, that is, while it is not the same as them,
 it is not separate from them too.
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَٰكِنْ لَا تُبْصِرُونَ
-  </p>
-</blockquote>
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَٰكِنْ لَا تُبْصِرُونَ
 
 ***And We are nearer unto him than ye are, but ye see not – (56-85)***
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
-  </p>
-</blockquote>
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
 
 ***We are nearer to him than his jugular vein. (50:16)***
 
-<blockquote dir="rtl">
-  <p>
-«مَعَ کُلِّ شَیْء لا بِمُقارَنَة وَ غَیْرُ کُلِّ شَیء لا بِمُزایَلَة».
-  </p>
-</blockquote>
+> «مَعَ کُلِّ شَیْء لا بِمُقارَنَة وَ غَیْرُ کُلِّ شَیء لا بِمُزایَلَة».
 
 He is with everything but not in physical nearness. He is different from
 everything but not in physical separation.[^6]
@@ -543,11 +483,7 @@ and intellect), and there is no other condition.
 All Islamic sorbs are common in this sense that they are warner and
 cause reflection:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلَاةَ لِذِكْرِي
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلَاةَ لِذِكْرِي
 
 *** So serve Me and establish worship for My remembrance. (20:14)***
 
@@ -616,23 +552,15 @@ Notifying the variation of people in view of creation of body, soul,
 mentalities and sentiments as it is narrated in the well known
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-«لَوْ عَلِمَ النّاسُ کَیْفَ خَلَقَ اللهُ هذا الْخَلْقَ لَمْ یَلُمْ
-اَحَدٌ اَحَداً».
-  </p>
-</blockquote>
+> «لَوْ عَلِمَ النّاسُ کَیْفَ خَلَقَ اللهُ هذا الْخَلْقَ لَمْ یَلُمْ
+> اَحَدٌ اَحَداً».
 
 If people knew how God has created people, no one blamed the other.[^7]
 
 And also a reference is briefly made to the variation in creation as it
 is narrated from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اَلنّاسُ مَعادِنٌ کَمَعادِنِ الذَّهَبِ وَ الْفِضَّةِ».
-  </p>
-</blockquote>
+> «اَلنّاسُ مَعادِنٌ کَمَعادِنِ الذَّهَبِ وَ الْفِضَّةِ».
 
 The people are the mines like the mines of gold and silver.[^8]
 
@@ -733,12 +661,8 @@ most critical Islamic obligations.
 
 Following samples prove this claim:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ
-لَكُمْ ۗ
-  </p>
-</blockquote>
+> وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ
+> لَكُمْ ۗ
 
 ***Let them forgive and show indulgence. Yearn ye not that Allah may
 forgive you? (24:22)***
@@ -752,11 +676,7 @@ other party through tongue or sulking, has not actually forgiven him.
 Rather, complete forgiveness is the same forgetting and ignoring
 completely.
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلِ الْعَفْوَ
-  </p>
-</blockquote>
+> وَيَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلِ الْعَفْوَ
 
 ***And they ask thee what they ought to spend. Say: that which is
 superfluous. (2:219)***
@@ -777,26 +697,18 @@ the other party and answers accordingly.
 As when it is questioned about the reason for transformation of falcate,
 instead of replying to it, Qur’an mentions its advantages and results:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ
-وَالْحَجِّ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ
+> وَالْحَجِّ
 
 ***They ask thee, (O Muhammad), of new moons, say: They are fixed
 seasons for mankind and for the pilgrimage. (2:189)***
 
-<blockquote dir="rtl">
-  <p>
-عَنْ رَسُولِ اللهِ (صلى الله علیه وآله) «ثَلاثٌ وَ الَّذِی نَفْسِی
-بِیَدِهِ لَوْ کُنْتُ حَلاّفاً لَحَلَفْتُ عَلَیْهِنَّ: ما نَقَصَ مالٌ
-مِنْ صَدَقَة فَتَصَدَّقُوا; وَ لا عَفا رَجُلٌ مَظْلَمَةً یَبْتَغِی
-بِها وَجْهَ اللهِ اِلاّ زادَهُ اللهُ بِها عِزّاً یَوْمَ الْقِیامَةِ;
-وَ لا فَتَحَ رَجُلٌ عَلى نَفْسِهِ بابَ مَسْأَلَةِ اِلاّ فَتَحَ اللهُ
-عَلَیْهِ بابَ فَقْر».
-  </p>
-</blockquote>
+> عَنْ رَسُولِ اللهِ (صلى الله علیه وآله) «ثَلاثٌ وَ الَّذِی نَفْسِی
+> بِیَدِهِ لَوْ کُنْتُ حَلاّفاً لَحَلَفْتُ عَلَیْهِنَّ: ما نَقَصَ مالٌ
+> مِنْ صَدَقَة فَتَصَدَّقُوا; وَ لا عَفا رَجُلٌ مَظْلَمَةً یَبْتَغِی
+> بِها وَجْهَ اللهِ اِلاّ زادَهُ اللهُ بِها عِزّاً یَوْمَ الْقِیامَةِ;
+> وَ لا فَتَحَ رَجُلٌ عَلى نَفْسِهِ بابَ مَسْأَلَةِ اِلاّ فَتَحَ اللهُ
+> عَلَیْهِ بابَ فَقْر».
 
 Islam's Prophet (S) said: By God, Who my soul is on His hand, there are
 three things that if I was a swearer, I swore by them: no wealth is
@@ -805,33 +717,21 @@ satisfaction, unless God increases his dignity at the day of
 resurrection, and no one opens the door of demand to himself, unless God
 opens a door of poverty to him.[^9]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ رَسُولِ اللهِ (صلى الله علیه وآله) : «عَلَیْکُمْ بِالْعَفْوِ
-فَاِنَّ الْعَفْوَ لا یَزِیدُ الْعَبْدَ اِلاّ عِزّاً فَتَعافَوْا
-یُعِزُّکُمُ اللهُ».
-  </p>
-</blockquote>
+> عَنْ رَسُولِ اللهِ (صلى الله علیه وآله) : «عَلَیْکُمْ بِالْعَفْوِ
+> فَاِنَّ الْعَفْوَ لا یَزِیدُ الْعَبْدَ اِلاّ عِزّاً فَتَعافَوْا
+> یُعِزُّکُمُ اللهُ».
 
 Do not forget forgiveness, because forgiveness increases man's honour.
 So forgive each other; God shall honor you.[^10]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ الْباقِرِ (علیه السلام) : «النَّدامَةُ عَلَى الْعَفْوِ اَفْضَلُ
-وَ اَیْسَرُ مِنَ النَّدامَةِ عَلَى الْعُقُوبَةِ».
-  </p>
-</blockquote>
+> عَنْ الْباقِرِ (علیه السلام) : «النَّدامَةُ عَلَى الْعَفْوِ اَفْضَلُ
+> وَ اَیْسَرُ مِنَ النَّدامَةِ عَلَى الْعُقُوبَةِ».
 
 Regretting for forgiveness is better and easier than regretting for
 punishment.[^11]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِی الْحَسَنِ (الرِّضا) (علیه السلام) : «مَا الْتَقَتْ فِئَتانِ
-قَطُّ اِلاّ نُصِرَ اَعْظَمُهُما عَفْواً».
-  </p>
-</blockquote>
+> عَنْ اَبِی الْحَسَنِ (الرِّضا) (علیه السلام) : «مَا الْتَقَتْ فِئَتانِ
+> قَطُّ اِلاّ نُصِرَ اَعْظَمُهُما عَفْواً».
 
 Imam Reza (A.S.) said: When two groups confront each other, one who
 pardons more, will be helped.[^12]
@@ -873,19 +773,11 @@ effective ways in ending the enmities and hostilities.
 
 We read in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ
-عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ
-  </p>
-</blockquote>
+> ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ
+> عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
-ذُو حَظٍّ عَظِيمٍ
-  </p>
-</blockquote>
+> وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
+> ذُو حَظٍّ عَظِيمٍ
 
 ***Repel the evil deed with one which is better, then lo! he, between
 whom and thee there was enmity (will become) as though he was a bosom
@@ -919,14 +811,10 @@ In the attractive and subtle comments narrated in the traditions of
 Prophet (S) and Islamic leaders about this prominent attribute, it is
 introduced as one of the greatest and highest humanitarian attributes:
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسُولُ اللهِ (صلى الله علیه وآله) فِی خُطْبَتِهِ: «اَلا
-اُخْبِرُکُمْ بِخَیْرِ خَلائِقِ الدُّنْیا وَ الاْخِرَةِ؟ اَلْعَفْوُ
-عَمَّنْ ظَلَمَکَ، وَ تَصِلُ مَنْ قَطَعَکَ، وَ الاِْحْسانُ اِلى مَنْ
-اَساءَ اِلَیْکَ، وَ اِعْطاءُ مَنْ حَرَمَکَ».
-  </p>
-</blockquote>
+> قالَ رَسُولُ اللهِ (صلى الله علیه وآله) فِی خُطْبَتِهِ: «اَلا
+> اُخْبِرُکُمْ بِخَیْرِ خَلائِقِ الدُّنْیا وَ الاْخِرَةِ؟ اَلْعَفْوُ
+> عَمَّنْ ظَلَمَکَ، وَ تَصِلُ مَنْ قَطَعَکَ، وَ الاِْحْسانُ اِلى مَنْ
+> اَساءَ اِلَیْکَ، وَ اِعْطاءُ مَنْ حَرَمَکَ».
 
 The Prophet (S) told in one of his lectures: Would you like me to inform
 you about one of the best moralities of the world and hereafter?
@@ -941,13 +829,9 @@ sense), the best ethic of this and the other world is "forgiveness" and
 above are concerned with repelling vice with goodness and only one
 phrase is concerned with forgiveness and pardon.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِی جَعْفَر (الْباقِرِ) (علیه السلام) : «ثَلاثٌ لا یَزِیدُ
-اللهُ بِهِنَّ الْمَرْءَ الْمُسْلِمَ اِلاّ عِزّاً: الصَّفْحُ عَمَّنْ
-ظَلَمَهُ، وَ اِعْطاءُ مَنْ حَرَمَهُ، وَ الصِّلَةُ لِمَنْ قَطَعَهُ».
-  </p>
-</blockquote>
+> عَنْ اَبِی جَعْفَر (الْباقِرِ) (علیه السلام) : «ثَلاثٌ لا یَزِیدُ
+> اللهُ بِهِنَّ الْمَرْءَ الْمُسْلِمَ اِلاّ عِزّاً: الصَّفْحُ عَمَّنْ
+> ظَلَمَهُ، وَ اِعْطاءُ مَنْ حَرَمَهُ، وَ الصِّلَةُ لِمَنْ قَطَعَهُ».
 
 Imam Al-Baqir (A.S.) told: There are three things which do not result in
 anything for a Muslim, save honour: forgiving one who has been unjust
@@ -1015,12 +899,8 @@ traditions are narrated from Islamic great leaders about the role of
 "tolerance"[^15] in man's life. Citing following traditions may be
 adequate for realizing Islam's logic in this respect.
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِیّ(صلى الله علیه وآله): «اِنَّ فِی الرِّفْقِ الزِّیادَةَ
-وَ الْبَرَکَةَ وَ مَنْ یُحْرَمُ الرِّفْقَ یُحْرَمُ الْخَیْرَ».
-  </p>
-</blockquote>
+> عَنِ النَّبِیّ(صلى الله علیه وآله): «اِنَّ فِی الرِّفْقِ الزِّیادَةَ
+> وَ الْبَرَکَةَ وَ مَنْ یُحْرَمُ الرِّفْقَ یُحْرَمُ الْخَیْرَ».
 
 There is bounty and blessing in tolerance and forbearance, and one who
 is deprived from forbearance and amenity, will be deprived from
@@ -1031,12 +911,8 @@ exists in tolerance and stopping violence, and those who resort to
 violence, are deprived from any goodness and blessing, and this logic
 clarifies the significance of the matter in men's life.
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِیِّ(صلى الله علیه وآله): «لَوْ کانَ الرِّفْقُ خَلْقاً یُرى
-ما کانَ مِمّا خَلَقَ اللهُ عَزَّوَجَلَّ شَىْء اَحْسَنَ مِنْهُ».
-  </p>
-</blockquote>
+> عَنِ النَّبِیِّ(صلى الله علیه وآله): «لَوْ کانَ الرِّفْقُ خَلْقاً یُرى
+> ما کانَ مِمّا خَلَقَ اللهُ عَزَّوَجَلَّ شَىْء اَحْسَنَ مِنْهُ».
 
 If tolerance was depicted, there was no creature better than it.[^17]
 
@@ -1044,13 +920,9 @@ In this tradition, stopping violence is called the most beautiful moral
 visages, and it means that violence is the ugliest visage that human's
 spirit may have.
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسُولُ اللهِ(صلى الله علیه وآله): «مَا اصْطَحَبَ اثْنانِ اِلاّ
-کانَ اَعْظَمُهُما اَجْراً وَ اَحَبُّهُما اِلَى اللهِ اَرْفَقَهُما
-بِصاحِبِهِ».
-  </p>
-</blockquote>
+> قالَ رَسُولُ اللهِ(صلى الله علیه وآله): «مَا اصْطَحَبَ اثْنانِ اِلاّ
+> کانَ اَعْظَمُهُما اَجْراً وَ اَحَبُّهُما اِلَى اللهِ اَرْفَقَهُما
+> بِصاحِبِهِ».
 
 From two persons, one whose friendship and tolerance is more than the
 other, will have more reward and is more favourite before God.[^18]
@@ -1059,12 +931,8 @@ In this tradition, the greatest rewards and most favourite ranks before
 God belong to those who advocate tolerance and peacefulness and
 flexibility in life.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِی جَعْفَرِ الْباقِرِ(علیه السلام): «مَنْ قُسِمَ لَهُ
-الرِّفْقُ قُسِمَ لَهُ الاِْیمانُ».
-  </p>
-</blockquote>
+> عَنْ اَبِی جَعْفَرِ الْباقِرِ(علیه السلام): «مَنْ قُسِمَ لَهُ
+> الرِّفْقُ قُسِمَ لَهُ الاِْیمانُ».
 
 One who is granted flexibility, belief is granted to him.[^19]
 
@@ -1084,13 +952,9 @@ be gradually led to social seclusion, and social seclusion is the source
 of suspicion on the creature and Creator, and this is not compatible
 with belief.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِی جَعْفَر(علیه السلام): قالَ: قالَ رَسُولُ اللهِ(صلى الله
-علیه وآله): «اِنَّ الرِّفْقَ لَمْ یُضَعْ عَلى شَیْء اِلاّ زانَهُ وَ لا
-نُزِعَ مِنْ شَىْء اِلاّ شانَهُ».
-  </p>
-</blockquote>
+> عَنْ اَبِی جَعْفَر(علیه السلام): قالَ: قالَ رَسُولُ اللهِ(صلى الله
+> علیه وآله): «اِنَّ الرِّفْقَ لَمْ یُضَعْ عَلى شَیْء اِلاّ زانَهُ وَ لا
+> نُزِعَ مِنْ شَىْء اِلاّ شانَهُ».
 
 Tolerance and flexibility embellish whatever they accompany with, and
 disfigure whatever they separate from.[^20]
@@ -1098,13 +962,9 @@ disfigure whatever they separate from.[^20]
 According to this wise utterance, tolerance and peacefulness adorns
 everything, and violence disfigures everything and any deed and person.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِی جَعْفَر(علیه السلام): «اِنَّ اللهَ عَزَّ وَ جَلَّ رَفِیقٌ
-یُحِبُّ الْرِّفْقَ وَ یُعْطِی عَلَى الرِّفْقِ ما لا یُعْطِی عَلَى
-الْعُنْفِ».
-  </p>
-</blockquote>
+> عَنْ اَبِی جَعْفَر(علیه السلام): «اِنَّ اللهَ عَزَّ وَ جَلَّ رَفِیقٌ
+> یُحِبُّ الْرِّفْقَ وَ یُعْطِی عَلَى الرِّفْقِ ما لا یُعْطِی عَلَى
+> الْعُنْفِ».
 
 God has tolerance, and likes tolerance, and whatever He bestows for
 tolerance, does not bestow for violence and harshness.[^21]
@@ -1142,11 +1002,7 @@ resorting to violence do not mean submission to injustices and violence
 of evil doers and the stubborn and bloody enemies and the imperialists.
 Rather, as Qur’an has explicitly specified in verse 29 of Sura 48:
 
-<blockquote dir="rtl">
-  <p>
-أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ
-  </p>
-</blockquote>
+> أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ
 
 ***Hard against the disbelievers and merciful among themselves
 (48:29)***
@@ -1206,5 +1062,4 @@ Collections have mentioned it.
 [^20]: Kulayini, Kafi, 119/2, tradition 6
 
 [^21]: The same document, tradition 5
-
 

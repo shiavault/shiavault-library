@@ -174,4 +174,3 @@ started reciting Soora Dukhan and the other Soora Dahr for me. I cannot
 describe how happy this made me. I prayed for their well being and
 returned to my current abode.
 
-

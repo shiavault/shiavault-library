@@ -949,4 +949,3 @@ seal, originally meant concluding or ending. It came to mean seal,
 because seal is customarily affixed at the end of every covenant and
 treaty).
 
-

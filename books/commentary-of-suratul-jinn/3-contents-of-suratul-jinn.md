@@ -29,4 +29,3 @@ those individuals whom He decides to inform about these matters.
     
   
 
-

@@ -50,7 +50,6 @@ vigorously and steadily employs all the operative faculties of body and
 mind for the attainment of the beloved object, without which he cannot
 be happy.
 
-
 **Thus I Think**
 
 It is a man's proper business to seek happiness and avoid misery.
@@ -111,5 +110,4 @@ my health, and consist with my improvement, condition, and my other more
 solid pleasures of knowledge and reputation, I will enjoy, but no
 further, and this I will carefully watch and examine, that I may not be
 deceived by the flattery of a present pleasure to lose a greater.
-
 

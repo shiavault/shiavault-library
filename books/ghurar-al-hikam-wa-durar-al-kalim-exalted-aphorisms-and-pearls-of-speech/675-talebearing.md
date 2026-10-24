@@ -7,11 +7,7 @@ Talebearing
 distances one from Allah and the people.
 
 > 1ـ إيّاكَ والنَّمِيمَةَ، فَإنَّها تَزْرَعُ الضَّغِينَةَ، وتُبَعِّدُ
-<blockquote dir="rtl">
-  <p>
-عَنِ اللّهِ وَالنّاسِ.
-  </p>
-</blockquote>
+> عَنِ اللّهِ وَالنّاسِ.
 
 2. The worst [type of] truthful speech is gossip.
 
@@ -44,11 +40,7 @@ resembles the good advisers, for indeed the slanderer oppresses the one
 whom he slanders [about] and deceives the one whom he slanders to.
 
 > 8ـ لاتَعْجِلَنَّ إلى تَصْديقِ واش وإنْ تَشَبَّهَ بِالنّاصِحينَ فَإنَّ
-<blockquote dir="rtl">
-  <p>
-السّاعِيَ ظالِمٌ لِمَنْ سَعى بِهِ غاشٌّ لِمَنْ سَعى إلَيْهِ.
-  </p>
-</blockquote>
+> السّاعِيَ ظالِمٌ لِمَنْ سَعى بِهِ غاشٌّ لِمَنْ سَعى إلَيْهِ.
 
 9. Be neither scandalmongers nor revealers of others’ secrets.
 
@@ -66,5 +58,4 @@ whom he slanders [about] and deceives the one whom he slanders to.
 an oppressor to the one whom he slanders about.
 
 > 12ـ اَلسّاعي كاذِبٌ لِمَنْ سَعى إلَيْهِ ظالِمٌ لِمَنْ سَعى عَلَيْهِ.
-
 

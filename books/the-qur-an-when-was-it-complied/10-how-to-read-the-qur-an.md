@@ -309,7 +309,6 @@ He (a) also said:
 168 Seas of Lights: vol.89, p.80.
 169 Usul al-Kafi: vol.1, p.191.
 
-
 'We the people of the household cannot be compared to anyone. The
 Qur'an was revealed amongst us and the mine of the prophetic mission is
 amongst us.' 170
@@ -374,5 +373,4 @@ and the family of Muhammad (S) be followed saying in his final sermon:
 lesser. The greater thing is the book of my Lord and the lesser is the
 people of my household so remember me through them for you will not
 stray as long as you adhere to these two.' 180
-
 

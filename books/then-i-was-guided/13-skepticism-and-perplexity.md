@@ -217,4 +217,3 @@ Ahl-al-Bayt.
 I left Iraq for the Hijaz seeking the House of Allah and the grave of
 the Master of the First and the Last (saw).
 
-

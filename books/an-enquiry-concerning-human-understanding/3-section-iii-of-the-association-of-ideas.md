@@ -70,4 +70,3 @@ Where two objects are contrary, the one destroys the other; that is,
 the cause of its annihilation, and the idea of the annihilation of an
 object, implies the idea of its former existence.
 
-

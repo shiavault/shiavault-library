@@ -207,4 +207,3 @@ The Qur'an says, Say, "The signs are only with God, and I am only a
 plain warner." (29:50) It is not for any Messenger to bring a sign,
 except by God's permission. (?:78)
 
-

@@ -176,7 +176,6 @@ with some more laws concerning Taharat, Ghusl, Tayyamum and apparel for
 prayers. It is advisable for you to have the book on Masael in order to
 be able to better study the laws of Islam.
 
-
 **Lesson 17 : Taharrat (Cleanliness)**
 
 Allah (S.W.T.) says in the Holy Qur'an:
@@ -326,5 +325,4 @@ conditions of cleaning/purifying the earth?
 5. Sunlight is also one of the Mutaahirat. Explain what kind of objects
 it can purify and the conditions that must be met for such a
 cleansing.
-
 

@@ -8,11 +8,7 @@ being made to stumble by the joy of an insignificant transitory pleasure
 [of this world].
 
 > 1ـ اِحْذَرْ أنْ يَخْدَعَكَ (يَخْتَدِعَكَ)الغُرُورُ بِالحائِلِ
-<blockquote dir="rtl">
-  <p>
-اليَسيرِ، أوْ يَسْتَزِلَّكَ السُّرُورُ بِالزّائِلِ الحَقيرِ.
-  </p>
-</blockquote>
+> اليَسيرِ، أوْ يَسْتَزِلَّكَ السُّرُورُ بِالزّائِلِ الحَقيرِ.
 
 2. The consolidation of delusion is in sleeping with ease in the
 presence of the enemy.
@@ -28,34 +24,22 @@ deception.
 lures him towards.
 
 > 4ـ كَفى بِالمَرْءِ غُرُوراً أنْ يَثِقَ بِكُلِّ ما تُسَوِّلُ لَهُ
-<blockquote dir="rtl">
-  <p>
-نَفْسُهُ.
-  </p>
-</blockquote>
+> نَفْسُهُ.
 
 5. He (‘a) said about the one whom he praised: He has not been killed by
 the lethal poisons of delusion and has not been covered (or overcome) by
 the uncertainties of matters.
 
 > 5ـ وقالَ ـ عَلَيْهِ السّلامُ ـ في حَقِّ مَنْ أثنى عَلَيْهِ: لَمْ
-<blockquote dir="rtl">
-  <p>
-تَقْتُلْهُ قاتِلاتُ الغُرُورِ، وَلَمْتُغَمَّ (وَلَمْ تُعَمَّ) عَلَيْهِ
-مُشْتَبِهاتُ الأُمُورِ.
-  </p>
-</blockquote>
+> تَقْتُلْهُ قاتِلاتُ الغُرُورِ، وَلَمْتُغَمَّ (وَلَمْ تُعَمَّ) عَلَيْهِ
+> مُشْتَبِهاتُ الأُمُورِ.
 
 6. He who trusts in the falsehood of delusions and yearns for the false
 [and short-lived] joys has not thought about the consequences of
 matters.
 
 > 6ـ لَمْ يُفَكِّرْ في عَواقِبِ الأُمُورِ مَنْ وَثِقَ بِزُورِالغُرُورِ
-<blockquote dir="rtl">
-  <p>
-وصَبا إلى زُورِ السُّرُورِ.
-  </p>
-</blockquote>
+> وصَبا إلى زُورِ السُّرُورِ.
 
 7. One who is deluded by respite, is tormented by death.
 
@@ -73,21 +57,13 @@ matters.
 by the impact of calamities.
 
 > 10ـ مَنِ اغْتَرَّ بِمُسالَمَةِ الزَّمَنِ اِغْتَصَّ بِمُصادَمَةِ
-<blockquote dir="rtl">
-  <p>
-المِحَنِ.
-  </p>
-</blockquote>
+> المِحَنِ.
 
 11. When a person persists in sinning and [still] expects to be
 forgiven, then he is under a delusion about Allah, the Glorified.
 
 > 11ـ مِنَ الغِرَّةِ بِاللّهِ سُبْحانَهُ أنْ يُصِرَّ المَرْءُ عَلَى
-<blockquote dir="rtl">
-  <p>
-المَعْصِيَةِ ويَتَمَنَّى المَغْفِرَةَ.
-  </p>
-</blockquote>
+> المَعْصِيَةِ ويَتَمَنَّى المَغْفِرَةَ.
 
 12. There is no judiciousness with heedlessness.
 
@@ -112,5 +88,4 @@ forgiven, then he is under a delusion about Allah, the Glorified.
 17. Neither is every deluded person saved, nor is every seeker needy.
 
 > 17ـ لَيْسَ كُلُّ مَغْرُور بِناج، ولاكُلُّ طالِب بِمُحْتاج.
-
 

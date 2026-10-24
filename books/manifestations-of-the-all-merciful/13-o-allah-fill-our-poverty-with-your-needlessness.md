@@ -16,22 +16,14 @@ understands the relation between the Creator and the creation,
 self-sufficiency makes no sense with regard to the creation at all. The
 Holy Qur’ān alluding to this says:
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلـى اللٌّهِ وَاللٌّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ 
-  </p>
-</blockquote>
+>  يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلـى اللٌّهِ وَاللٌّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ 
 
 ***“O mankind! You are the ones who stand in need of Allāh, and Allāh -
 He is the All-Sufficient, the All-Laudable.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
- لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَإِنَّ اللٌّهَ لَهُوَ
-الْغَنِيُّ الْحَمِيدُ 
-  </p>
-</blockquote>
+>  لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَإِنَّ اللٌّهَ لَهُوَ
+> الْغَنِيُّ الْحَمِيدُ 
 
 ***“To Him only belongs what is in the heavens and what is in the earth;
 and indeed Allāh is the All-sufficient, the All-laudable.”***[^3]
@@ -39,36 +31,24 @@ and indeed Allāh is the All-sufficient, the All-laudable.”***[^3]
 And in his well-known supplication of *‘Arafah*, Imām Husayn (as) humbly
 cries:
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهِي: أَنَا الْفَقِيرُ فِي غِنَايَ، فَكَيْفَ لا أَكُونُ فَقِيراً
-فِي فَقْرِي؟‏
-  </p>
-</blockquote>
+> إِلٌهِي: أَنَا الْفَقِيرُ فِي غِنَايَ، فَكَيْفَ لا أَكُونُ فَقِيراً
+> فِي فَقْرِي؟‏
 
 “O God, I am the poor in my self-sufficiency; therefore how can I not be
 needy in my state of need?”
 
 And Imām ‘Alī (as) in his famous whisperings (*munājāt*) cries:
 
-<blockquote dir="rtl">
-  <p>
-مَوْلايَ يَا مَوْلايَ: أَنْتَ الْغَنِيُّ وَأَنَا الْفَقِيرُ، وَهَلْ
-يَرْحَمُ الْفَقِيرَ إِلا الْغَنِيُ؟‏
-  </p>
-</blockquote>
+> مَوْلايَ يَا مَوْلايَ: أَنْتَ الْغَنِيُّ وَأَنَا الْفَقِيرُ، وَهَلْ
+> يَرْحَمُ الْفَقِيرَ إِلا الْغَنِيُ؟‏
 
 “My Master, My Master, You are the All-Sufficient and I am the needy;
 and who other than the All-Sufficient can have mercy on the needy?”
 
 And in the recommended prayer after ‘Asr, we introduce ourselves as:
 
-<blockquote dir="rtl">
-  <p>
-…لا يَمْلِكُ لِنَفْسِهِ نَفْعاً وَلا ضَرّاً وَلا مَوْتاً وَلا حَيَاةً
-وَلا نُشُوراً…
-  </p>
-</blockquote>
+> …لا يَمْلِكُ لِنَفْسِهِ نَفْعاً وَلا ضَرّاً وَلا مَوْتاً وَلا حَيَاةً
+> وَلا نُشُوراً…
 
 “…one who does not own any benefit, nor harm, nor death, nor life, nor
 resurrection…”[^4]
@@ -84,11 +64,7 @@ its own. To come into being and subsist in any state whatsoever requires
 the Divine Will. The following verse of the Qur’ān expounds the
 continual process of causation with relation to the creation:
 
-<blockquote dir="rtl">
-  <p>
- قُلِ اللٌّهُ خَالِقُ كُلِّ شَيْءٍ وَ هُوَ الْوَاحِدُ الْقَهَّارُ 
-  </p>
-</blockquote>
+>  قُلِ اللٌّهُ خَالِقُ كُلِّ شَيْءٍ وَ هُوَ الْوَاحِدُ الْقَهَّارُ 
 
 ***“Say, ‘God is the Creator of all things, and He is the One, the
 All-paramount.’”***
@@ -100,22 +76,14 @@ his well-known theory of transubstantial motion (*harakah jawhariyyah*),
 the fact that every contingent being receives existence every moment.
 Reflect over the following verses of the Holy Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
- أَفَعَيِينَا بِالْخَلْقِ الأَوَّلِ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ
-جَدِيدٍ 
-  </p>
-</blockquote>
+>  أَفَعَيِينَا بِالْخَلْقِ الأَوَّلِ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ
+> جَدِيدٍ 
 
 ***“Were We exhausted by the first creation? Rather they are in doubt
 about a new creation.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
- وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ
-السَّحَابِ 
-  </p>
-</blockquote>
+>  وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ
+> السَّحَابِ 
 
 ***“And you see the mountains, which you suppose to be stationary, while
 they drift like passing clouds...”***[^6]
@@ -168,14 +136,10 @@ that he lacks… In short, He has no kind of deficiency in the level of
 His Essence, Attributes or Actions. Mullā Hādī Sabzawārī in his Sharh
 al-Asmā’ says:
 
-<blockquote dir="rtl">
-  <p>
-فانّه لمّا كان بسيط الحقيقة واجداً للكمالات والخيرات لا يسلب عنه خير،
-كان كالمصمّت الّذي لا جوف له - تعالى عن الشبيه و النظير علوّاً
-كبيراً - فهو بخلاف الممكن الّذي هو الأجوف النّاقص الجائع الفاقد لكلّ
-كمال، في مرتبة ذاته بذاته...
-  </p>
-</blockquote>
+> فانّه لمّا كان بسيط الحقيقة واجداً للكمالات والخيرات لا يسلب عنه خير،
+> كان كالمصمّت الّذي لا جوف له - تعالى عن الشبيه و النظير علوّاً
+> كبيراً - فهو بخلاف الممكن الّذي هو الأجوف النّاقص الجائع الفاقد لكلّ
+> كمال، في مرتبة ذاته بذاته...
 
 “Because His reality is Simple[^9] and Non-composite [*Basīt al-Haqīqa*]
 and He possesses all the perfections and virtues, and does not lack any
@@ -203,16 +167,12 @@ being gains sufficiency (*ghinā*) through the Absolutely Sufficient
 (*al-Ghanī*). The following sacred tradition (*hadith al-qudsī*) refers
 to this exalted station:
 
-<blockquote dir="rtl">
-  <p>
-يَا ابْنَ آدَمَ: أَنَا غَنِيٌّ لاَ أَفْتَقِرُ، أَطِعْنِي فِيمَا
-أَمَرْتُكَ أَجْعَلُكَ غَنِيّاً لاَ تَفْتَقِرْ. يَا ابْنَ آدَمَ: أَنَا
-حَيٌّ لاَ أَمُوتُ، أَطِعْنِي فِيمَا أَمَرْتُكَ أَجْعَلُكَ حَيّاً لاَ
-تَمُوتُ. يَا ابْنَ آدَمَ: أَنَا أَقُولُ لِلشَّيْ‏ءِ كُنْ فَيَكُونُ،
-أَطِعْنِي فِيمَا أَمَرْتُكَ أَجْعَلُكَ تَقُولُ لِلشَّيْءِ كُنْ
-فَيَكُونُ.
-  </p>
-</blockquote>
+> يَا ابْنَ آدَمَ: أَنَا غَنِيٌّ لاَ أَفْتَقِرُ، أَطِعْنِي فِيمَا
+> أَمَرْتُكَ أَجْعَلُكَ غَنِيّاً لاَ تَفْتَقِرْ. يَا ابْنَ آدَمَ: أَنَا
+> حَيٌّ لاَ أَمُوتُ، أَطِعْنِي فِيمَا أَمَرْتُكَ أَجْعَلُكَ حَيّاً لاَ
+> تَمُوتُ. يَا ابْنَ آدَمَ: أَنَا أَقُولُ لِلشَّيْ‏ءِ كُنْ فَيَكُونُ،
+> أَطِعْنِي فِيمَا أَمَرْتُكَ أَجْعَلُكَ تَقُولُ لِلشَّيْءِ كُنْ
+> فَيَكُونُ.
 
 “O offspring of Adam, I am the All-sufficient, and will never become
 needy; obey Me, and I will make you All-sufficient such that you will
@@ -245,14 +205,10 @@ fundamental journeys:
 Ibn Maytham al-Bahrānī, in his *Sharhu Mi’at Kalimah* quoting the
 mystical scholars says:
 
-<blockquote dir="rtl">
-  <p>
-السَّفَرُ سَفَرَانِ، سَفَرٌ اِلى اللٌّهِ، وَسَفَرٌ فِي اللٌّهِ.
-وَالأَوَّلُ إِشَارَةٌ إِلـى إِنْتِقَالاَتِ النَّفْسِ فِي مَراَتِبِ
-السُّلُوْكِ، وَالثَّانِي اِشَارَةٌ إِلـى اِنْتِقَالِهَا فِي دَرَجَاتِ
-الْوُصُوْلِ...
-  </p>
-</blockquote>
+> السَّفَرُ سَفَرَانِ، سَفَرٌ اِلى اللٌّهِ، وَسَفَرٌ فِي اللٌّهِ.
+> وَالأَوَّلُ إِشَارَةٌ إِلـى إِنْتِقَالاَتِ النَّفْسِ فِي مَراَتِبِ
+> السُّلُوْكِ، وَالثَّانِي اِشَارَةٌ إِلـى اِنْتِقَالِهَا فِي دَرَجَاتِ
+> الْوُصُوْلِ...
 
 “There are two journeys: journey to Allāh, and journey in Allāh; the
 first alludes to the transformations of the soul in the different levels
@@ -276,11 +232,7 @@ may be, is still in need of more and more perfection. The following
 famous dictum of Imām ‘Alī (as) according to some scholars[^14] refers
 to this very journey:
 
-<blockquote dir="rtl">
-  <p>
-آهِ مِنْ قِلَّةِ الزَّادِ، وَطُولِ الطَّرِيقِ، وَ ُبعْدِ السَّفَرِ…
-  </p>
-</blockquote>
+> آهِ مِنْ قِلَّةِ الزَّادِ، وَطُولِ الطَّرِيقِ، وَ ُبعْدِ السَّفَرِ…
 
 “O, how little is the provision, and how long the path and distant the
 journey…!”[^15]
@@ -338,5 +290,4 @@ about the human soul from Mullā Hādī Sabzawārī’s philosophical poetry
 al-Manzūmah, page 298]
 
 [^15]: Bihār al-Anwār, v. 34, pg. 284
-
 

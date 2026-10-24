@@ -62,4 +62,3 @@ interested in the topic will benefit from it, as well.
 
 **The Islamic Research Foundation of Astan Quds Razavi**
 
-

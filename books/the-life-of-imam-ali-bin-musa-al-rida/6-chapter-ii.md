@@ -1,8 +1,6 @@
 Chapter Ii
 ==========
 
-  
-
 HIS QUALITIES
 =============
 
@@ -35,10 +33,6 @@ As
  into laughter; rather, his laughter was just a smile. When he was
 ready  
  to eat, he seated with him all his attendants, including the doorman  
-
-  
-
-  
 
 and the groom. He slept little at night. He spent most of his nights
 from begging to end (in praying or reciting the Qurān). He did abundant
@@ -86,11 +80,6 @@ his place and ordered him to pour water on
 ------------------------------------------------------------------------
 
 [[1]](#_F51) Hayāt al-Imām al-Jawād, p.37.  
-  
-
-  
-
-  
 
 his head, and the Imām did. Then a man who recognized the Imām entered
 the bath-house, and he shouted at the soldier, saying: You have ruined
@@ -130,19 +119,12 @@ nations and tribes that you may know each other; surely the most
 honorable of you with Allah is the most Allah-fearing of you; surely
 Allah is Knowing, Aware*.[[4]](#_ftn55)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F52) Nūr al-Abbsār, p. 138.  
  [[2]](#_F53) 'Uyyūn al-Tawārikh (photographed), vol. 3, p. 227.  
  [[3]](#_F54) Al-Majjlisi, Bihār al-Anwār, vol. 12, p.28.  
  [[4]](#_F55) Ibid.  
-  
-
-  
-
-  
 
 It has been narrated that the Imām  has composed poetry in this respect:
 
@@ -194,11 +176,6 @@ peace be on him. The narrators have unanimously agreed that
  [[3]](#_F58) 'Uyyūn Akhbār al-Ridā, vol. 2, p. 178. Al-Manāqib, vol. 4,
 p. 361.  
  [[4]](#_F59) Hayāt al-Imām al-Jawād, p. 39.  
-  
-
-  
-
-  
 
 when he became the heir apparent (of al-Mamūn), he paid no attention to
 any of the aspects of the authority and of magnification which men
@@ -241,11 +218,6 @@ Sulaymān al-Jafari turned to the Imām and asked
 ------------------------------------------------------------------------
 
 [[1]](#_F60) Ibid., p. 40.  
-  
-
-  
-
-  
 
 him: May I be your ransom, you gave to the man a lot of money and had
 mercy on him, but why did you cover your face from him?
@@ -291,11 +263,6 @@ Allah, may Allah bless him and his family, called so-
 
 [[1]](#_F61)Al-Majjlisi, Bihār al-Anwār , vol.  12,  p.  28.  
  [[2]](#_F62) Al-Manāqib, vol. 4, p. 361.  
-  
-
-  
-
-  
 
 and-so, had me in his debt. He demanded payment from me and insisted on
 my paying him. When I realized that, I prayed the morning prayer in the
@@ -335,16 +302,9 @@ the man is twenty-eighty dinars and the rest is yours.[[1]](#_ftn63)
 These are some acts of his generosity, and they show his noble soul
 which was created for kindness to people.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F63) Al-Majjlisi, Bihār al-Anwār, vol. 12,  p. 28.  
-  
-
-  
-
-  
 
  
 
@@ -384,18 +344,11 @@ men and to show that they were in one mosque, and that nothing
 discriminated one person from another except reverential fear and good
 deeds.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F64) Ibid.,  p. 18.  
  [[2]](#_F65) Al-Ithāf bi Hub al-Ashrāf,  p.  58.  
  [[3]](#_F66) Al-Majjlisi,  Bihār al-Anwār, vol. 12, p. 18.  
-  
-
-  
-
-  
 
 His Knowledge
 -------------
@@ -433,19 +386,12 @@ he was able to develop the cultural and scientific life of the Muslims.
 Al-Mamūn has said: I think that there is no person on the face of earth
 more learned than this man (i.e. Imām al-Ridā).[[3]](#_ftn69)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F67) Kashf al-Ghumma, vol.  3, p.  107.  
  [[2]](#_F68) 'Uyyūn Akhbār al-Ridā,  vol. 2, p. 180. Imām  al-Jawād, p.
 42. Al-Ithāf  bi Hub al-Ashrāf.  
  [[3]](#_F69) A'yān   al-Shi'a, 4/Q2.  
-  
-
-  
-
-  
 
 His (i.e. Imām al-Ridās) debates in Khurasān, Basrah, and Kūfa give
 evidence for his being the most knowledgeable on the face of earth.
@@ -481,18 +427,11 @@ them. He heard them speak in Slavic and Romanian, saying: We are visited
 in our homeland every year, but we are not visited here. In the
 following morning he (al-Ridā) sent someone to visit them.[[3]](#_ftn72)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F70) Al-Majjlisi,  Bihār al-Anwār, vol. 12, p. 15.  
  [[2]](#_F71) Al-Manāqib, vol. 4, p. 333.  
  [[3]](#_F72) Ibid.  
-  
-
-  
-
-  
 
 Shaykh Mohammed b. al-Hasan has composed a poem concerning this quality,
 saying:
@@ -538,11 +477,6 @@ and his
 
 [[1]](#_F73) Nazhat al-Jalis, vol. 2, p. 107.  
  [[2]](#_F74) Al-Manāqib, vol. 4, p. 335. Jawhart al-Kalām, p. 146.  
-  
-
-  
-
-  
 
 fighters and defeated them. Then Mohammed asked al-Jalūdi for security,
 and he gave it to him. Then he went up on the pulpit and abdicated
@@ -586,11 +520,6 @@ fear for you from this tyrant (i.e. Hārūn al-
 13.  
  [[3]](#_F77) Al-Ithāf bi Hub al-Ashrāf, p. 59. Akhbār al-Diwal, p.
 114.  
-  
-
-  
-
-  
 
 Rashid). Let him try as hard as he can, he answered, he will find no way
 to harm me.[[1]](#_ftn78)
@@ -633,11 +562,6 @@ dust. He (Abū al-Hasan Ali al-
  [[2]](#_F79) Ibid.  
  [[3]](#_F80) Al-Ithāf bi Hub al-Ashrāf, p. 59.  
  [[4]](#_F81) Ibid.  
-  
-
-  
-
-  
 
 Rida) said: Wretched ones who do not know what will happen to them
 during this year.
@@ -679,11 +603,6 @@ wife is pregnant, so supplicate Allah to make her give birth
  [[2]](#_F83) The house of the pilgrims of Basrah  
  [[3]](#_F84) Kashf al-Ghumma, vol. 3, p. 103. Jāmi' Karāmāt al-Awliyā',
 vol. 2, p. 156. Nūr al-Abbsār.  
-  
-
-  
-
-  
 
 to a male. As a result he said: They are twin. I went away and said: I
 will name one of them Mohammed and the other Ali. Then I came to him,
@@ -727,11 +646,6 @@ phrases until the sun
 
 [[1]](#_F85)Jawharat al-Kalām, p. 146.  
  [[2]](#_F86) Al-Ithāf bi Hub al-Ashrāf, p. 59.  
-  
-
-  
-
-  
 
 rose. Then he prostrated himself in prayer for a long time. Then he went
 to the people to speak to them and to preach to them until it was
@@ -769,10 +683,6 @@ after the recitation. When he recited the *taslim,* he sat in his place
 of prayer, glorified Allah, praised Him, and said: Allah is Greater!
 There is no god but Allah. He recited these phrases for a long time.
 Then he performed *Salāt al-Shukr* (the prayer for giving  
-
-  
-
-  
 
 thanks). Then he raised his head and did not say anything until he stood
 and prayed four *rakas*, finishing each two *rakas* with the taslim.
@@ -814,10 +724,6 @@ performed (the prayer of *al-witr*), which is one *raka*. In it he
 recited the sura *al-  
 *
 
-  
-
-  
-
 hamd, the sura *qul huwa Allah ahad* three times, the sura *qul aūdhu bi
 Rab al-falaq* one time, and the sura *qul aūdhu bi Rab al-nās* one time.
 Then he said his personal prayer before the kneeling and after the
@@ -851,18 +757,11 @@ worshipping Allah, the Exalted.
 The love for Allah dominated the Imāms heart, sentiments and feelings,
 to the extent that it was one of his qualities.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F87) Al-Bihār, vol. 12, pp. 26-27. The tradition also includes
 the explanation of some of his supplications, his acts of worship, and
 his reciting some *suras* during his supererogatory prayers.  
-  
-
-  
-
-  
 
 His Supplication during his Personal Prayer *(qunūt)*
 -----------------------------------------------------
@@ -905,16 +804,9 @@ aggression (against us); make use control them thoroughly! O Allah, so
 do not withhold Your punishment, which if occur among people, *evil
 shall then be the morning of the warned one!*[***[1]***](#_ftn88)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F88) Muhajj al-Da'awāt, p.73.  
-  
-
-  
-
-  
 
 This supplications gives an account of the vengeance of the Imām, peace
 be on him, on the oppressive and tyrannical rulers of his time who
@@ -957,12 +849,6 @@ humiliation, abasement to abasement, and disgrace to disgrace!
 O Allah, drive them away to the Fire with violence and return them to
 Your painful chastisement with a return!
 
-  
-
-  
-
-  
-
 O Allah, gather them and their followers in the Hell-fire in group! O
 Allah, divide their gathering; scatter their affair; make their words
 disagree with each other; disperse their unity; curse their Imāms; kill
@@ -998,16 +884,9 @@ enjoyment which none of the enjoyments of life equaled it. We will
 mention his statements concerning the importance of supplication before
 we present some of his supplications.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F89) Muhajj al-Da'awāt, p.320.  
-  
-
-  
-
-  
 
 ### Supplication is the Weapon of the Prophets
 
@@ -1052,11 +931,6 @@ with Allah, the Great and Almighty. Adhere to patience, seeking the
 
 [[1]](#_F90) Usūl al-Kāfi, vol. 2, p. 368.  
  [[2]](#_F91) Ibid., p. 476.  
-  
-
-  
-
-  
 
 lawful, and tightening your bonds of kin. Beware of showing open enmity
 toward men, for we, the members of the House, tighten ties with him who
@@ -1098,11 +972,6 @@ there is neither likeness nor similitude! You are Allah!
  [[2]](#_F93) Ibid., 39, 53.  
  [[3]](#_F94) Ibid., 2, 268.  
  [[4]](#_F95) Usūl al-Kāfi, vol. 2, p. 489.  
-  
-
-  
-
-  
 
 There is no god but you; nor is there a creator except You! You perish
 the creatures and You remain! You are clement toward him who disobeys
@@ -1140,18 +1009,11 @@ who gives me evidence for Himself and humiliates my heart through
 certainty in Him, I ask from You security and faith in this world and
 the next![[3]](#_ftn98)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F96) Muhajj al-Da'awāt, p. 44.  
  [[2]](#_F97) Al-Musbāh, p. 217.  
  [[3]](#_F98) Usūl al-Kāfi, vol. 2, p. 579.  
-  
-
-  
-
-  
 
 This supplication, though short, contains a proof of the Oneness of
 Allah; the proof is that Allah makes His creatures profess His existence
@@ -1193,11 +1055,6 @@ eye has been seized by good opinion of
  [[2]](#_F100) Qur'ān, 39, 53.  
  [[3]](#_F101) Ibid., 15, 56.  
  [[4]](#_F102) Ibid., 40, 60.  
-  
-
-  
-
-  
 
 You in releasing my neck from the Fire, covering my slips, releasing
 (me) from my stumble! O Allah, Your words, which have neither alteration
@@ -1237,11 +1094,6 @@ worlds, al-Hasan, al-Husayn,
 ------------------------------------------------------------------------
 
 [[1]](#_F103) Ibid., 17, 71.  
-  
-
-  
-
-  
 
 and the one after them who will pave the way for the hidden proof from
 among his children, hoped for the community after him.
@@ -1277,16 +1129,9 @@ way out from every hardship and a road for every plenty! Surely, You are
 the Most Merciful of the merciful. May Allah bless Mohammed and his pure
 Household! Amen, Lord of the world![[1]](#_ftn104)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F104) Muhajj al-Da'awāt, pp. 315-317.  
-  
-
-  
-
-  
 
 This supplication gives an account of the firm clinging of the Imām to
 Allah, the Exalted, and his absolute obedience to Him. Also it gives an
@@ -1328,11 +1173,6 @@ O
 ------------------------------------------------------------------------
 
 [[1]](#_F105) Al-Musbāh, p. 168.  
-  
-
-  
-
-  
 
 He by whose magnificence the subtlest of imaginations are bewildered,
 and the swiftest of the eyes of mankind fall short of knowing His might!
@@ -1372,11 +1212,6 @@ fruitful
 ------------------------------------------------------------------------
 
 [[1]](#_F106) Ibid., p. 292. Al-Bihār, vol. 12, p. 24.  
-  
-
-  
-
-  
 
 little gratitude, Your giving abundant reward, Your lessening the weight
 of heavy sins, Your accepting narrow excuse, Your lifting up burdensome
@@ -1399,10 +1234,7 @@ spiritual life, namely he devoted himself to Allah, communicated with
 Him, and held fast to His cord. With this supplication we will end our
 speech about some qualities of the Imāms holy character.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F107) Ibid., 415.  
-  
 

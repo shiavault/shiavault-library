@@ -169,4 +169,3 @@ edition).
 [^5]: Excerpted from a poem by Sayyid ‘Abd al-Muttalib al-Hilli
 published in its entirety in al-Khaqani's book Shu’ara’ al-Hilla.
 
-

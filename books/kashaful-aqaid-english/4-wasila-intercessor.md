@@ -2947,4 +2947,3 @@ mushrik.”*
 of this ayah (**and we will punish for shirk** ) shirk is the
 association of any one with Moula Ali (as).
 
-

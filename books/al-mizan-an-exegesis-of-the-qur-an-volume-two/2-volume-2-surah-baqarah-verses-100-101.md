@@ -27,7 +27,6 @@ which verified that which they had in their hands.
 
 \*\*\*\*\*\*\*\*
 
-
 Volume 2: Surah Baqarah, Verses 102-103
 
 And they followed what the satans chanted (of sorcery) against the

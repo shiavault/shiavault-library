@@ -263,4 +263,3 @@ return to their people to teach them. Indeed he (S) meant their
 departure from their places, not their divergence in the Din of Allah,
 For, verily, the Din is one."
 
-

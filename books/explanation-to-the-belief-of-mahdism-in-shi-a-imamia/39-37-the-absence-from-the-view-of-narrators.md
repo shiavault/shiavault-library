@@ -33,4 +33,3 @@ alive too. In the year 260 the martyrdom of Imam Hasan Askari put an end
 to an era and opened a new one. The twelfth Imam took the office. Then
 he went into hiding. Then he appeared. Then he went into hiding.
 
-

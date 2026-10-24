@@ -207,4 +207,3 @@ Al-Muttafaq, has transmitted it from al-Khatib who quotes Ibn ‘Abbas;
 so, refer to Al-Muntakhab and read the first line of footnote on page
 39, Vol. 5, of Ahmad's Musnad.
 
-

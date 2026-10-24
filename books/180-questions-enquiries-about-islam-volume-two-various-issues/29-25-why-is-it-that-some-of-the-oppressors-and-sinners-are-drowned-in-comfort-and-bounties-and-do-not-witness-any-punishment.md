@@ -10,12 +10,8 @@ the worthiness to be guided aright and hence are eligible for the grace
 of Allah (s.w.t.). In truth, their punishments and troubles can be
 regarded as bounties for them, as the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَ الْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
-النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُون
-  </p>
-</blockquote>
+> ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَ الْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
+> النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُون
 
 ***“Corruption has appeared in the land and the sea on account of what
 the hands of men have wrought, that He may make them taste a part of
@@ -67,13 +63,9 @@ taste the maximum torment in the life of this very world. This is
 because losing such an affluent and leisurely life is intensely
 disturbing, as we read:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ
-كُلِّ شَيْ‏ءٍ حَتَّى إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُمْ
-بَغْـتَةً فَإِذَا هُمْ مُبْلِسُونَ
-  </p>
-</blockquote>
+> فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ
+> كُلِّ شَيْ‏ءٍ حَتَّى إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُمْ
+> بَغْـتَةً فَإِذَا هُمْ مُبْلِسُونَ
 
 “But when they neglected that with which they had been admonished, We
 opened for them the doors of all things, until when they rejoiced in
@@ -90,5 +82,4 @@ from that height - a fall that leaves all his bones shattered.[^3]
 [^2]: Suratul An'am (6), Verse 44
 
 [^3]: Tafsir-e-Namuna, vol. 3, pg. 183
-
 

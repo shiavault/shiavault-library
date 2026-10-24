@@ -33,4 +33,3 @@ In the first chapter of this volume devotional acts in their capacity as
 particular to certain times have been discussed. In this chapter, we
 will discuss untimed devotional acts.
 
-

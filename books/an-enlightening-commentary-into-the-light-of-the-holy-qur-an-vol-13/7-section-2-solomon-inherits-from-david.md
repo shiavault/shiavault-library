@@ -4,12 +4,8 @@ Section 2: Solomon Inherits From David
 Surah An-Naml - Verse 15
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا دَاوُدَ وَسُلَيْمَـانَ عِلْماً وَقَالاَ الْحَمْدُ
-لِلَّهِ الَّذِي فَضَّلَنَا عَلَي كَثِيرٍ مِنْ عِبَادِهِ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا دَاوُدَ وَسُلَيْمَـانَ عِلْماً وَقَالاَ الْحَمْدُ
+> لِلَّهِ الَّذِي فَضَّلَنَا عَلَي كَثِيرٍ مِنْ عِبَادِهِ الْمُؤْمِنِينَ
 
 ***15. “And certainly We gave David and Solomon knowledge and they both
 said: ‘Praise belongs to Allah, Who has favoured us above many of His
@@ -141,13 +137,9 @@ been some greater prophets than them during the history of man.
 Surah An-Naml - Verse 16
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَرِثَ سُلَيْمَـانُ دَاوُدَ وَقَالَ يَآ أَيُّهَا النَّاسُ
-عُلّـِمْنَا مَنطِقَ الطَّيْرِ وَاُوتِينَا مِن كُلّ‌ِ شَيْءٍ إِنَّ
-هَذَا لَهُوَ الْفَضْلُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَوَرِثَ سُلَيْمَـانُ دَاوُدَ وَقَالَ يَآ أَيُّهَا النَّاسُ
+> عُلّـِمْنَا مَنطِقَ الطَّيْرِ وَاُوتِينَا مِن كُلّ‌ِ شَيْءٍ إِنَّ
+> هَذَا لَهُوَ الْفَضْلُ الْمُبِينُ
 
 ***16. “And Solomon inherited David and he said: ‘O people! We have been
 taught the language of the birds, and we have been granted of
@@ -703,12 +695,8 @@ revelation, had opposed it?
 Surah An-Naml - Verse 17
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَحُشِرَ لِسُلَيْمَـانَ جُنُودُهُ مِنَ الْجِنّ‌ِ وَالإِنسِ وَالطَّيْرِ
-فَهُمْ يُوزَعُونَ
-  </p>
-</blockquote>
+> وَحُشِرَ لِسُلَيْمَـانَ جُنُودُهُ مِنَ الْجِنّ‌ِ وَالإِنسِ وَالطَّيْرِ
+> فَهُمْ يُوزَعُونَ
 
 ***17. “And gathered together unto Solomon his hosts of jinn and men and
 birds and they were kept in order and ranks.”***
@@ -802,13 +790,9 @@ of hoopoes among them, this meaning could not be correct. (Be careful)
 Surah An-Naml - Verse 18
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَآ أَتَوْا عَلَي وَادِ الَّنمْلِ قَالَتْ نَمْلَةٌ يَآ
-أَيُّهَا النَّـمْلُ ادْخُلُوا مَسَاكِنَكُمْ لاَ يَحْطِمَنَّكُمْ
-سُلَيْمَـانُ وَجُنُودُهُ وَهُمْ لاَيَشْعُرُونَ
-  </p>
-</blockquote>
+> حَتَّي إِذَآ أَتَوْا عَلَي وَادِ الَّنمْلِ قَالَتْ نَمْلَةٌ يَآ
+> أَيُّهَا النَّـمْلُ ادْخُلُوا مَسَاكِنَكُمْ لاَ يَحْطِمَنَّكُمْ
+> سُلَيْمَـانُ وَجُنُودُهُ وَهُمْ لاَيَشْعُرُونَ
 
 ***18. “Until when they came to the Valley of Ants, an ant said: ‘O you
 ants! Get into your habitations, so that Solomon and his hosts may not
@@ -847,14 +831,10 @@ because they do not know it.
 Surah An-Naml - Verse 19
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَسَّمَ ضَاحِكاً مِن قَوْلِهَا وَقَالَ رَبّ‌ِ أَوْزِعْنِي أَنْ
-أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَي وَالِدَيَّ
-وَأَنْ أَعْمَلَ صَالِحاً تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي
-عِبَادِكَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> فَتَبَسَّمَ ضَاحِكاً مِن قَوْلِهَا وَقَالَ رَبّ‌ِ أَوْزِعْنِي أَنْ
+> أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَي وَالِدَيَّ
+> وَأَنْ أَعْمَلَ صَالِحاً تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي
+> عِبَادِكَ الصَّالِحِينَ
 
 ***19. “Then he smiled, laughing at its words, and said: ‘My Lord!
 Dispose me that I may be thankful for Your bounty, which You have
@@ -921,26 +901,14 @@ Finally, the third thing he asked was that he said:
 Surah An-Naml - Verses 20-22
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَالِيَ لآ أَرَي الْهُدْهُدَ أَمْ كَانَ
-مِنَ الْغَآئِبِينَ
-  </p>
-</blockquote>
+> وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَالِيَ لآ أَرَي الْهُدْهُدَ أَمْ كَانَ
+> مِنَ الْغَآئِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-لاُعَذّ‌ِبَنَّهُ عَذَاباً شَدِيداً أَوْ لاَذبَحَنَّهُ أَوْ
-لَيَأْتِيَنّـِي بِسُلْطَانٍ مُبِينٍ
-  </p>
-</blockquote>
+> لاُعَذّ‌ِبَنَّهُ عَذَاباً شَدِيداً أَوْ لاَذبَحَنَّهُ أَوْ
+> لَيَأْتِيَنّـِي بِسُلْطَانٍ مُبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ
-وَجِئْتُكَ مِن سَبإٍ بِنَبَإٍ يَقِينٍ
-  </p>
-</blockquote>
+> فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ
+> وَجِئْتُكَ مِن سَبإٍ بِنَبَإٍ يَقِينٍ
 
 ***20. “And he reviewed the birds; then he said: ‘How is it with me that
 I do not see the hoopoe? Or is it that he is of the absentees?’”***  
@@ -1090,20 +1058,12 @@ vast knowledge of prophecy.
 Surah An-Naml - Verse 23-24
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنّـِي وَجَدتُّ امْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلّ‌ِ شَيْءٍ
-وَلَهَا عَرْشٌ عَظِيمٌ
-  </p>
-</blockquote>
+> إِنّـِي وَجَدتُّ امْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلّ‌ِ شَيْءٍ
+> وَلَهَا عَرْشٌ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ اللَّهِ
-وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ
-السَّبِيلِ فَهُمْ لاَيَهْتَدُونَ
-  </p>
-</blockquote>
+> وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ اللَّهِ
+> وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ
+> السَّبِيلِ فَهُمْ لاَيَهْتَدُونَ
 
 ***23. “Verily I found a woman ruling over them, and she has been given
 of everything, and she possesses a magnificent throne.”***  
@@ -1167,18 +1127,10 @@ ornamentations, right and wrong, guidance and misguidance.
 Surah An-Naml - Verses 25-26
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلاَّ يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ
-وَالاَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ
-  </p>
-</blockquote>
+> أَلاَّ يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ
+> وَالاَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لآ إِلَهَ إِلاَّ هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
-  </p>
-</blockquote>
+> اللَّهُ لآ إِلَهَ إِلاَّ هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
 
 ***25. “So that they prostrate not themselves to Allah, Who brings forth
 what is hidden in the heavens and the earth and knows what you hide and
@@ -1302,11 +1254,7 @@ the people.)
 > ﴿27﴾ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ الْكَاذِبـِينَ
 
 > ﴿28﴾ اذْهَب بِكِتَابِي هَذَا فَاَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ
-<blockquote dir="rtl">
-  <p>
-عَنْهُمْ فَانظُرْ مَاذَا يَرْجِعُونَ
-  </p>
-</blockquote>
+> عَنْهُمْ فَانظُرْ مَاذَا يَرْجِعُونَ
 
 ***27. “(Solomon, after hearing hoopoe’s information,) said: ‘Soon we
 will see whether you have told the truth or whether you are of the
@@ -1358,25 +1306,13 @@ turn away from them, and (wait to) see what (answer) they return.”***
 Surah An-Naml - Verses 29-31
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ يَآ أَيُّهَا الْمَلَؤُا إِنّـِي اُلْقِيَ إِلَيَّ كِتَابٌ
-كَرِيمٌ
-  </p>
-</blockquote>
+> قَالَتْ يَآ أَيُّهَا الْمَلَؤُا إِنّـِي اُلْقِيَ إِلَيَّ كِتَابٌ
+> كَرِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مِن سُلَيْمَـانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَنِ
-الرَّحِيمِ
-  </p>
-</blockquote>
+> إِنَّهُ مِن سُلَيْمَـانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَنِ
+> الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-أَلاَّ تَعْلُوا عَلَيَّ وَأْتُونِي مُسْلِمِينَ
-  </p>
-</blockquote>
+> أَلاَّ تَعْلُوا عَلَيَّ وَأْتُونِي مُسْلِمِينَ
 
 ***29. “(When the Queen of Sheba received the letter,) she said: ‘O
 chiefs! Verily there has been thrown unto me a noble letter.”***  
@@ -1548,5 +1484,4 @@ not accept any letter without sealing. Then the holy Prophet (S) ordered
 that a ring should be made and on its bezel had to be carved “La ’ilaha
 ’illallah, Muhammad Rasul-ul-lah”. Then he sealed the letter with it.
 (Qurtubi, the explanation of the verse)
-
 

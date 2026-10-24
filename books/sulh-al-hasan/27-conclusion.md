@@ -294,12 +294,8 @@ thousand dinars, and ten estates from Iraq. Also he ensured her to marry
 her to his son Yazid. Thus she gave al-Hasan poison to drink. The poison
 was (mixed with) sweetened flour in a gold bowl."[^8]
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ
-وَتُقَطِّعُوا أَرْحَامَكُمْ
-  </p>
-</blockquote>
+> فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ
+> وَتُقَطِّعُوا أَرْحَامَكُمْ
 
 ***Allah, the Great and Almighty said: "However, if you held command,
 you were sure to make mischief in the land and cut off the ties of
@@ -340,5 +336,4 @@ al-Athir, vol. 6, p. 57.
 [^7]: Al-Hakim, al-Mustadrak (Kufa), vol. 6, p. 5.
 
 [^8]: Al-Tabari, Dala'il al-Imama, p. 61.
-
 

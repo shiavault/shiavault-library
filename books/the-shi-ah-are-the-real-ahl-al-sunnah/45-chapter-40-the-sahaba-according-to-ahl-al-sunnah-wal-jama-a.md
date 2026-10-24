@@ -161,19 +161,19 @@ We, by the Grace of Allah, have come to know the solution of the
 mystery of such false views, and this we will explain in the forthcoming
 section. Seekers of the truth have, in turn, to uncover some secrets.
 
-[^276] Muslim, Sahih, Vol. 8, p. 22.
-[^277] Tahdhib al-Tahdhib, Vol. 1, p. 509.
-[^278] Both pages 233 and 235 of al-Dhahabi's book Al-Kabaair (major
+[^276]: Muslim, Sahih, Vol. 8, p. 22.
+[^277]: Tahdhib al-Tahdhib, Vol. 1, p. 509.
+[^278]: Both pages 233 and 235 of al-Dhahabi's book Al-Kabaair (major
 sins) record this statement.
-[^279] This is recorded on p. 275 of the book titled Al-Sarim
+[^279]: This is recorded on p. 275 of the book titled Al-Sarim
 al-Maslool.
-[^280] This is recorded on p. 187 of Mu\`een al-Hukkam feema Yataraddadu
+[^280]: This is recorded on p. 187 of Mu\`een al-Hukkam feema Yataraddadu
 baynal Khasmayn min al-Ahkam (rulers' aid with regard to injunctions
 relevant to opponents).
-[^281] This statements continues from p. 8 to p. 9 of the author's book
+[^281]: This statements continues from p. 8 to p. 9 of the author's book
 Al-Sahaba fe Nadar al-Shi\`a al-Imamiyya (the companions as viewed by
 Imamite Shi\`as).
-[^282] This is stated on p. 51 of Al-Kifaya and also on p. 2 of Talqeeh
+[^282]: This is stated on p. 51 of Al-Kifaya and also on p. 2 of Talqeeh
 Fuhum Ahl al-Athaar.
-[^283] Ibn Hajar, Al-Isaba, Vol. 1, p. 10.
+[^283]: Ibn Hajar, Al-Isaba, Vol. 1, p. 10.
 

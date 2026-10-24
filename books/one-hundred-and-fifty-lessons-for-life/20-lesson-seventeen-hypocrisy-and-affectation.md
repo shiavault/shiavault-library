@@ -3,12 +3,8 @@ Lesson Seventeen: Hypocrisy and Affectation
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"لا تُرّاءِ بِعَمَلِكَ مَنْ لاَ يُحْيي وَ لا يُمِيْتُ وَ لايُغْنِى
-عَنْكَ شَيْئاً"
-  </p>
-</blockquote>
+> "لا تُرّاءِ بِعَمَلِكَ مَنْ لاَ يُحْيي وَ لا يُمِيْتُ وَ لايُغْنِى
+> عَنْكَ شَيْئاً"
 
 Translation
 -----------
@@ -29,5 +25,4 @@ criticizes this ugly attribute and says that your destiny in not under
 control of these people, so why this facade?
 
 [^1]: Bihar al-Anwar, volume 73, page 255
-
 

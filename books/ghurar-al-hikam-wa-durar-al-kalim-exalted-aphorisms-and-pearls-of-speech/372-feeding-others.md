@@ -12,4 +12,3 @@ spreads [like a pleasant fragrance].
 
 > 2ـ ما أكَلْتَهُ راحَ، وما أطْعَمْتَهُ فاحَ.
 
-

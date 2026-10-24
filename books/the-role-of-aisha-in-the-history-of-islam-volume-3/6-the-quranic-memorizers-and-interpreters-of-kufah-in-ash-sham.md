@@ -451,4 +451,3 @@ word.145
 144. The Event of Siffin 2/491.
 145. The Event of Siffin 490-492.
 
-

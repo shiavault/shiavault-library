@@ -473,4 +473,3 @@ satisfied. Al-Hasan headed them. When they arrived in Thi Qaar[^1] , they
 met Imam Ali (a.s) who had stayed their. He was pleased with his son’s
 success. He thanked him for his great efforts.
 
-

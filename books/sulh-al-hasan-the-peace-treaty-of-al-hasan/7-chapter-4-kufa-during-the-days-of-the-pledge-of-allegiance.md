@@ -1,8 +1,6 @@
 Chapter 4: Kufa During the Days of the Pledge of Allegiance
 ===========================================================
 
-  
-
 Sa'sa'a b. Sawhan al-'Abdi [[1]](#r1) described Kufa as: "the dome of
 Islam and top of speech." However, there were rude persons in Kufa. They
 prevented the people from obeying those who were in charge of authority
@@ -31,8 +29,6 @@ Al-Mas'udi, Hamish b. al-Athir, vo1.6, p.118. [[2]](#n2) Al-Baladhuri,
 Futuh al-Buldan. Al-Buraqi, Ta'rikh al-Kufa. Al-Hamawi, al-Mu'jam.
 However, al-Hamawi opposed him when he said: "Basrah was inhabited six
 months before Kufa in the year 14 A.H."
-
-  
 
 a porch on which they built pillars made of marble, which the followers
 of Kasra (a Persian king) brought from the ruins of al-Hira. They (the
@@ -73,8 +69,6 @@ nomination though they rarely agreed on a certain idea.
 
 Throughout his life in this city, al-Hasan, peace be on him, showed  
 
-  
-
 the noble qualities which the family of Muhammad, may Allah bless him
 and his family, inherited. Those noble qualities were: goodness, good
 manners, noble feelings, gentle traits, wide patience, excellent mind,
@@ -111,8 +105,6 @@ inclined towards him. For he was the son of the daughter of the Apostle
 of Allah, may Allah bless him and his family. To love him was among the
 conditions of belief. To obey him was among the conditions of the pledge
 of allegiance to him.
-
-  
 
 Ibn Kathir said: "They (the Kufans) loved him (i.e., al-Hasan) more than
 they loved his father. [[1]](#r3)
@@ -155,8 +147,6 @@ Hasan, peace be on him, as they had opposed the late Imam (i.e.,
 
 [[1]](#n3) Ibn Kathir, al-Bidaya wa al-Nihaya, vol. 8, p.41.
 
-  
-
 Imam 'Ali) who said to them: "You have filled my heart with puss and
 loaded my bosom with rage. You made me drink mouthfuls of grief one
 after the other." In this manner, that corrupt group of people clung to
@@ -193,8 +183,6 @@ al-Hasan, peace be on him, in Kufa.
 
 Thus the people during the pledge of allegiance to al-Hasan, peace be on
 him, were many parties. We may classify them as follows:
-
-  
 
 ### The Umayyad Party
 
@@ -240,8 +228,6 @@ al-Hasan did not reveal the secret as Mu'awiya did, or the historians
 have intentionally ignored this matter as they have ignored many
 matters.
 
-  
-
 persons) threw an arrow at him. However, the arrow did not hit him
 because of his breastplate. [[1]](#r6)
 
@@ -284,8 +270,6 @@ to pledge allegiance to him to conform to "listening and obeying."
 
 [[1]](#n6) 'Ilal al-Sharai', p.82.
 
-  
-
 Moreover, he asked them to fight against him whom he fought against and
 to make peace with him whom he made peace with. So the Kharijites went
 to his brother al-Husayn, peace be on him. They said to him: "Stretch
@@ -326,8 +310,6 @@ evil deeds and thought that they did good deeds. They relied on
 [[1]](#n7) Al-Imama wa al-Siyasa, p. 150. [[2]](#n8) Al-Tabari, Ta'rikh,
 vol. 6, p. 109.
 
-  
-
 Allah, but there was no religious relation between Him and them.
 
 We will mention the Kharijites again when we discuss the members of the
@@ -364,8 +346,6 @@ slaves. Maybe, most of them were from the sons of the Persian women who
 were taken prisoners at the Battles of 'Ayn al-Tamr and Jalawla' in the
 years 12- 17 A.H. So they carried weapons in the crisis of al-Hasan in
 the year 41 A.H., and in the crisis of al-Husayn in the year 61 A.H.
-
-  
 
 The Hamra' were the police- men of Ziyad who killed the Shi'a in the
 year 51 A.H. They were from those who carried out their duties well when
@@ -405,8 +385,6 @@ group of people. By the activity we mean the abilities that helped that
 Shi'ite group to bear and understand the hardships. Also they help them
 find solutions to these hardships.
 
-  
-
 Among that blessed Shi'ite group were: Qays b. Sa'd b. 'Abbada
 al-Ansari, Hujr b. 'Abu al-Kindi, 'Amr b. al-Hamq al-Khiza'i, Said b.
 Qays al-Hamadani, Habib b. Muzahir al-Asadi, 'Adi b. Hatam al-Ta'i,
@@ -445,8 +423,6 @@ rambled in every valley. So they were not appropriate for a political
 field, nor were they appropriate for a war field. It is enough for you
 to know that they were the reason for creating disturbances, riots, and
 fear.
-
-  
 
 In this way, since the ancient times, the Iraqis have the ability to
 understand opinions and violent revolts on various occasions.
@@ -489,8 +465,6 @@ they should listen and obey him, fight those whom he fought against, and
 make peace with those whom he made peace with. Thus the people admired
 his ability to run war and peace at the same time.
 
-  
-
 In this way he was able to please the two parties in Kufa, namely those
 who wanted war and those who wanted peace. That is because the general
 situation in Kufa forced him to take such wise precautions for a certain
@@ -531,8 +505,6 @@ Abu al-Faraj al-Isfahani has mentioned a report similar to what
 
 [[1]](#n9) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol.4, p. 12.
 [[2]](#n10) Al-Mufid, al-Irshad, p. 168. al-Anwar. Kashf al-Ghumma.
-
-  
 
 al-Mufid has mentioned: "You sent men to use deception and to carry out
 assassinations and you sent out spies as if you want to meet (in

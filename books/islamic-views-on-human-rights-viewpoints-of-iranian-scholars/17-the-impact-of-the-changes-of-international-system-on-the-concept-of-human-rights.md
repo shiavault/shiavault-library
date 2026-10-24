@@ -911,4 +911,3 @@ Question Mondiales, Paris: Seuil, 1994. p. 22.
 [^29]: Chandra Muzafar, “Europe-Asia and the Case of Human Rights.”
 Ittila’at Newspaper, 27 January, 1996, p. 12.
 
-

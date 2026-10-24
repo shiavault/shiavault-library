@@ -160,4 +160,3 @@ Article 189
 It is an obligatory precaution to observe all condition of clothes of a
 performer of prayer for Tawaf.
 
-

@@ -319,4 +319,3 @@ Kafan and Zakat-ul-fitrah of the woman should also be given by the
 husband, and after death of either of them, they inherit from each
 other. Also the man cannot marry her sister during the ‘Iddah.
 
-

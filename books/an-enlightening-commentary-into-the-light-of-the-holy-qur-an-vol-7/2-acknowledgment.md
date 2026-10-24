@@ -25,43 +25,27 @@ volume, Tafsir Nemunah has been mainly utilized.
 
 \* \* \* \*
 
-<blockquote dir="rtl">
-  <p>
-يَأَيهَا النّاس قَدْ جَاءَكُم بُرْهَنٌ مِّن رّبِّكُمْ وَ أَنزَلْنَا
-إِلَيْكُمْ نُوراً مّبِيناً
-  </p>
-</blockquote>
+> يَأَيهَا النّاس قَدْ جَاءَكُم بُرْهَنٌ مِّن رّبِّكُمْ وَ أَنزَلْنَا
+> إِلَيْكُمْ نُوراً مّبِيناً
 
 ***“O mankind!*** ***Verily there has come to you a convincing proof
 (the Messenger and the Qur’an) from your Lord: for We have sent unto you
 a light (that is) manifest.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-إِنّا نحْنُ نَزّلْنَا الذِّكْرَ وَ إِنّا لَهُ لحََفِظونَ
-  </p>
-</blockquote>
+> إِنّا نحْنُ نَزّلْنَا الذِّكْرَ وَ إِنّا لَهُ لحََفِظونَ
 
 ***"We have,*** ***without doubt, sent down the Message and We will
 assuredly Guard it (from corruption)."***[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ أَعْرَض عَن ذِكرِى فَإِنّ لَهُ مَعِيشةً ضنكاً وَ نحْشرُهُ
-يَوْمَ الْقِيَمَةِ أَعْمَى
-  </p>
-</blockquote>
+> وَ مَنْ أَعْرَض عَن ذِكرِى فَإِنّ لَهُ مَعِيشةً ضنكاً وَ نحْشرُهُ
+> يَوْمَ الْقِيَمَةِ أَعْمَى
 
 ***"But whosoever turns away from My Message (the Qur’an), verily for
 him is a straitened toilsome life, and We shall raise him up blind on
 the Day of Judgement''.***[^3]
 
-<blockquote dir="rtl">
-  <p>
-وَ نُنزِّلُ مِنَ الْقُرْءَانِ مَا هُوَ شِفَاءٌ وَ رَحْمَةٌ
-لِّلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَ نُنزِّلُ مِنَ الْقُرْءَانِ مَا هُوَ شِفَاءٌ وَ رَحْمَةٌ
+> لِّلْمُؤْمِنِينَ
 
 ***“And We send down (stage by stage) of the Qur’an that which is a
 healing and a mercy for those who believe ..."***[^4]
@@ -73,5 +57,4 @@ healing and a mercy for those who believe ..."***[^4]
 [^3]: 20:124
 
 [^4]: 17:82
-
 

@@ -214,7 +214,6 @@ travel. Can such a person, O uncle, be anyone other than my own son?" I
 then said, "You have spoken the truth, may Allah take my souls in
 service for your cause."
 
-
 **Chapter 74 : Tacit and Explicit Testimony as proof of abu
 al-Hassan's, al-Thalith (the third) (a.s.) Divine Authority over the
 people after Muhammad ibn Ali al-Rida (a.s.) H 844, Ch. 74, h 1**
@@ -335,5 +334,4 @@ of Ahmad ibn abu Khalid at the beginning of this document. He als has
 written his testimony with his own hand and the witness to bear
 testimony in the document is Nasr, the servant and he has written his
 bearing testimony with his own hand."
-
 

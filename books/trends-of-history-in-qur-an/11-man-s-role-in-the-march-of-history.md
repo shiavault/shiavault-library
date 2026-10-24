@@ -383,4 +383,3 @@ the despots and tyrants over society throughout history.
 
 [^2]: (aliha)
 
-

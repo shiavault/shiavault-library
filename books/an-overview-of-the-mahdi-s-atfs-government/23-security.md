@@ -156,11 +156,7 @@ One of the companions of Imam as-Sadiq (*‘a*) said: “One day, Abu
 Hanifah came to Imam as-Sadiq (*‘a*). The Imam (*‘a*) asked him: ‘Which
 place does this Qur’anic verse refer to:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سِيرُوا فِيهَا لَيَالِيَ وَأَيَّامًا آمِنِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ سِيرُوا فِيهَا لَيَالِيَ وَأَيَّامًا آمِنِينَ ﴾
 
 *“Travel through them in safely, night and day”*[^15]?”
 
@@ -174,11 +170,7 @@ His companions replied: “Yes, it is so,” and Abu Hanifah kept silent.
  The Imam (*‘a*) asked him again: “Which place in the world is referred
 to in this verse when God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَنْ دَخَلَهُ كَانَ آمِنًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَنْ دَخَلَهُ كَانَ آمِنًا ﴾
 
 *“And whoever enters shall be secure.”*[^16]?”
 
@@ -379,5 +371,4 @@ al-Hudah, vol. 3, p. 573; Bihar al-Anwar, vol. 52, p. 365; vol. 53, p.
 
 [^27]: Ibn Hammad, Fitan, p. 98; ‘Iqd ad-Durar, p. 36; Ibn Tawus,
 Malahim, p. 68; Al-Qawl al-Mukhtasar, p. 52.
-
 

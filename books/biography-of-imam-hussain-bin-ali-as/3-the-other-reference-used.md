@@ -1146,4 +1146,3 @@ restricted to any particular people of any particular age; those
 referred to in the verses are the people of all times, if they own the
 qualities referred to in the verses.
 
-

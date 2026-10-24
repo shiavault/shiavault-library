@@ -11,4 +11,3 @@ middle ten days of the holy month and finally, he observed it during the
 last 10 days of the month and then continued to do so in the last ten
 days (for as long as he was alive).*Bihar al-Anwar, vol. 16, pg. 274*
 
-

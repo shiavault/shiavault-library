@@ -71,4 +71,3 @@ enters the fire is among those who took Allah's signs lightly."
 
 [^1]: Rabee\` al-Abrar fee Nusoos al-Akhbar, pp. 258-259.
 
-

@@ -194,4 +194,3 @@ the purpose of creation?
 
 8. What is the argument for the Divine Truth?
 
-

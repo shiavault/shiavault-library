@@ -1,12 +1,8 @@
 Imam Ali Seeks Explanation
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ : عَلِيٌّ لِأَبِي : يا رَسُولَ اللهِ أَخبِرنِي ما لِجُلُوسِنا
-هَذا تَحتَ الكِساءِ مِنَ الفَضلِ عِندَ اللهِ؟
-  </p>
-</blockquote>
+> فَقالَ : عَلِيٌّ لِأَبِي : يا رَسُولَ اللهِ أَخبِرنِي ما لِجُلُوسِنا
+> هَذا تَحتَ الكِساءِ مِنَ الفَضلِ عِندَ اللهِ؟
 
 **\`Ali then said to my father, “O Allah’s Messenger! Please tell me;
 what is the value of this gathering of us under this cloak in the sight
@@ -79,11 +75,7 @@ Cloak* or dilute its significance.
 
 As Allah (SWT) testifies on behalf of the truthfulness of Imam Ali (AS),
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا
-  </p>
-</blockquote>
+> وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا
 
 ***“And We granted them lofty honor on the tongue of truth.”***
 ***(19:50)***
@@ -102,5 +94,4 @@ tongue” (Lisaan Sidq). so Allah (SWT) revealed these verses in Surat
 Maryam (19:49-50)”. Just as Allah (SWT) bestowed Prophet Is-haaq (Isaac)
 to Prophet Ya’qoob (Jacob), He (SWT) bestowed Imam Ali (AS) as the
 “truthful tongue” to Prophet Muhammad (SA).
-
 

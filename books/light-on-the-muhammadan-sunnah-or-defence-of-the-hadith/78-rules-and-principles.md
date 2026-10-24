@@ -32,14 +32,14 @@ explaining everything, and a guidance, and mercy, and glad tidings unto
 those who submit themselves (to God).” (16:89)
 
 – The Most High said also: “...We have not neglected in the Book
-(Qur’an) anything...” <span id="_anchor_774"></span>774 (6:38)
+(Qur’an) anything...” 774 (6:38)
 
 – He said too: “This day have I perfected for you, your religion, and
 have completed My favour on you, and chosen for you Islam (to be) the
 Religion.” (5:3)
 
 The two Shaykhs (al-Bukhari and Muslim) reported that it was said to Abd
-Allah ibn Awfa: <span id="_anchor_775"></span>775 Did the Messenger of
+Allah ibn Awfa: 775 Did the Messenger of
 Allah left a will? He said: No. It was said to him: How is that! while
 he has prescribed on people to leave a will? He said: He recommended
 with (heeding to) the Book of Allah. Exposing this hadith, Ibn Hajar
@@ -85,7 +85,7 @@ reported by al-Bazzaz and Ibn Abi Hatam and al-Tabarrani.
 – Marasil ibn Abi Mulaykah is reported to have said: Abu Bakr al-Siddiq
 has gathered people after the demise of the Prophet (S), addressing
 them: “I was informed that you relate from the Messenger of Allah
-traditions regarding which you differ, <span id="_anchor_776"></span>776
+traditions regarding which you differ, 776
 and people who follow you will be more differing. So never relate
 anything from the Messenger of Allah! And when asked by anyone you can
 say: The Book of Allah is (the arbitrator) between us and you. You
@@ -99,14 +99,14 @@ saying: O people, fire is kindled, and seditions are coming forward like
 dark night clouds. By God you cannot find in me any fault to blame for,
 as I have never deemed lawful but only what is permitted (as lawful) by
 the Qur’an, nor forbidden except what the Qur’an forbade (as unlawful).
-<span id="_anchor_777"></span>777
+777
 
 – When the Prophet’s she-camel was lost during the Battle of Tabuk, the
 hypocrites (mockingly) said: He cannot foretell of the whereabouts of
 his she-camel, so how can he be aware of the khabar of the heaven
 (prophesy of future)?! On hearing this saying, he (S) said: I have no
 knowledge of anything but only of that which Allah taught (revealed to)
-me. <span id="_anchor_778"></span>778
+me. 778
 
 – When A’ishah was inquired about the morals of the Prophet, she said:
 The Prophet’s morality was the Qur’an itself. This hadith was reported
@@ -118,7 +118,7 @@ followed and practised by the Muslims of the first stage before the
 emergence of the seditions.
 
 – He also said: This Ummah can never rise (progress) as long as these
-books are found in it, <span id="_anchor_779"></span>779 and will not
+books are found in it, 779 and will not
 rise or flourish but only by the morale that used to be possessed by the
 first people, which was the Qur’an. Anything other than it, is no more
 than a veil standing between it and endeavour and knowledge.
@@ -135,8 +135,7 @@ to say is that the Qur’an should be the main origin upon which all the
 madhahib and opinions in religion must be based, not the opposite, i.e.
 the madhahib be the origin and the Qur’an be dependent on them, or
 referred to them through ta’wil or tahrif (perversion), as was done by
-the disappointed and thought wrongly by the astray. <span
-id="_anchor_780"></span>780
+the disappointed and thought wrongly by the astray. 780
 
 – Learning a lesson from the beliefs (aqa’id), through the definite
 indication. And all the doctrines on which the veracity of Islam depends
@@ -203,7 +202,7 @@ held that: “The khabar al-wahid necessitates knowledge (‘ilm).”
 sahih, and vice versa, i.e., not every hadith the sanad of which be
 correct, its text be necessarily correct.
 
-– Unanimity of the Ummah <span id="_anchor_781"></span>781 on acting
+– Unanimity of the Ummah 781 on acting
 according to the traditions recorded in Sahih al-Bukhari and Sahih
 Muslim, and can never be counted as unanimity on determining their being
 uttered by the Prophet (S), nor that whatever stated in them being
@@ -258,7 +257,7 @@ Al-Imam Ahmad ibn Hanbal says: Three things have no isnad: tafsir
 (exegesis), malahim (epics) and maghazi (moral lessons). Ibn Taymiyyah,
 who succeeded Ahmad in leading the Hanbalis, says: For the mu’adda there
 are no usul, i.e. isnad (chain of transmission), as the majority of them
-being marasil <span id="_anchor_782"></span>782v (traditions with no
+being marasil 782v (traditions with no
 chain of narrators).
 
 – The Sahabah have not collected (or compiled) the oral (qawli) Sunnah,

@@ -872,4 +872,3 @@ translator.)
 
 [^30]: Al-Kafi, vol. 1, p. 458
 
-

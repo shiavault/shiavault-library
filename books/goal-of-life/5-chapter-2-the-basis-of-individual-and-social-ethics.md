@@ -337,4 +337,3 @@ individual, as well as society, something to work for. And, these ideals
 are meaningless without a belief in the Creator and His Wisdom manifest
 in the Creation.
 
-

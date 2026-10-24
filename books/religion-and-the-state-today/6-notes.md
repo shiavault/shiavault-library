@@ -40,7 +40,7 @@ Frankfurt am Main, 2009, p. [^137]:
 
 [^14] Ibidem., p. [^132]:
 
-[^15] Ibidem., p.[^120]:
+[^15] Ibidem., p.120.
 
 [^16] Ibidem., p. [^28]:
 

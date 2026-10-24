@@ -69,4 +69,3 @@ Qom, Theological Center
  Nasir Makarim Shirazi  
  November 1973
 
-

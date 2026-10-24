@@ -54,7 +54,6 @@ people who have received Our Book (Quran), and read it thoroughly,
 believe in it. Those who disbelieve the Book are certainly losers."
 (2:121) The Imams (a.s.) said that such people are the Imams (a.s.)."
 
-
 **Chapter 25 : Two Kinds of Imam are mentioned in the Holy Quran: the
 Imams (a.s.) who call to Allah and the Imams who call to Fire H 566, Ch.
 25, h 1**
@@ -94,5 +93,4 @@ leaders (Imams) who would invite people to the fire . . ." (28:41) 'They
 let their own commands to come before the commands of Allah and their
 laws before the laws of Allah. They follow their desires against what
 the book of Allah, the Most Holy, the Most High requires.'"
-
 

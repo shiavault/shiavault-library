@@ -436,4 +436,3 @@ Another reason to go from Amman is that you can visit Baitul-Muqaddas
 and other Ziyarat both in and around Amman and in and around
 Baitul-Muqaddas.
 
-

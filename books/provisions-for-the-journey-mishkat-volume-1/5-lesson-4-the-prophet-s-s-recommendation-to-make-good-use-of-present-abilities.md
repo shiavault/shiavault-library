@@ -66,13 +66,9 @@ because no permission will be given to any to return to the world.
 
 With regard to this, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-حَتّی اِذَا جاءَ اَحَدَهُم الْمَوْتُ قالَ‌ رَبِّ ارْجِعُونِ \*
-لَعَلِّي اَعْمَلُ صَالِحًا فِيما تَرَكْتُ كَلاَّ‌ اِنَّهَا كَلِمَةٌ
-هُوَ قَائِلُهَا...
-  </p>
-</blockquote>
+> حَتّی اِذَا جاءَ اَحَدَهُم الْمَوْتُ قالَ‌ رَبِّ ارْجِعُونِ \*
+> لَعَلِّي اَعْمَلُ صَالِحًا فِيما تَرَكْتُ كَلاَّ‌ اِنَّهَا كَلِمَةٌ
+> هُوَ قَائِلُهَا...
 
 ***“Until when death overtakes one of them, he says: ‘Send me back, my
 Lord, send me back; haply I may do good in that which I have left.’ By
@@ -166,11 +162,7 @@ Despite that may be wealth and needlessness may have worse demands than
 poverty and lead you to disobedience, because man becomes defiant when
 he perceives himself needless.
 
-<blockquote dir="rtl">
-  <p>
-كَلاّ اِنَّ الاِنْسَانَ لَيَطْغَی، \* اَنْ‌ رَآهُ اسْتَغْنَی
-  </p>
-</blockquote>
+> كَلاّ اِنَّ الاِنْسَانَ لَيَطْغَی، \* اَنْ‌ رَآهُ اسْتَغْنَی
 
 ***“Nay! Man is most surely inordinate, because he sees himself free
 from want.”***[^3]
@@ -238,5 +230,4 @@ today, and not play for time.
 [^2]: Surat al-Mu’minun 23:99-100.
 
 [^3]: Surat al-‘Alaq 96:6-7.
-
 

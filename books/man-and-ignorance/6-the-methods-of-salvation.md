@@ -76,4 +76,3 @@ Rather our belief will bend toward \`*jahiliyah*' and servitude at
 random, though many of us do not feel this contrast, duplicity, and
 collapse.
 
-

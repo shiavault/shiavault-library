@@ -16,4 +16,3 @@ Issue 453: If even one letter is pronounced incorrectly in the marriage
 formula such that it changes the meaning, then the marriage formula (and
 marriage) are void.
 
-

@@ -10,11 +10,7 @@ Surah Yunus, Chapter 10
 The Contents of Surah Yunus
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, the Beneficent, the Merciful***
 
@@ -39,5 +35,4 @@ months may not be of the ignorant and will be of the near-stationed on
 the Day of Resurrection. [^1]
 
 [^1]: Tafsir-us-Safi, and Tafsi-i-Burhan
-
 

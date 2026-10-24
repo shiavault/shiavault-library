@@ -4,12 +4,8 @@ Section 7: Satan’s Pride against Man
 Surah Isra’ – Verse 61
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا لِلْمَلآئِكَةِ اسْجُدُوا لاَدَمَ فَسَجَدُوا إِلآَّ
-إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِيناً
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا لِلْمَلآئِكَةِ اسْجُدُوا لاَدَمَ فَسَجَدُوا إِلآَّ
+> إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِيناً
 
 ***61. “And (remember) when We said to the angels: ‘Prostrate unto
 Adam’; so they (all) did prostrate except ’Iblis who said: ‘Am I to
@@ -68,12 +64,8 @@ said:
 Surah Isra’ – Verse 62
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَرَأَيْتَكَ هذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ
-إِلَي يَوْمِ الْقِيَامَةِ لاَحْتَنِكَنَّ ذُرّ‌ِيَّتَهُ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> قَالَ أَرَأَيْتَكَ هذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ
+> إِلَي يَوْمِ الْقِيَامَةِ لاَحْتَنِكَنَّ ذُرّ‌ِيَّتَهُ إِلاَّ قَلِيلاً
 
 ***62. “He (the Satan) said: ‘Tell me, is this he whom you have honoured
 above me? If You respite me till the Day of Resurrection, I will
@@ -113,12 +105,8 @@ leading them toward the wrong path.
 Surah Isra’ – Verse 63
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ
-جَزَآءً مَّوْفُوراً
-  </p>
-</blockquote>
+> قَالَ اذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ
+> جَزَآءً مَّوْفُوراً
 
 ***63. “(Addressing the Satan), He said: ‘Depart! But whoever of them
 follows you, then verily Hell will be your recompense, a recompense in
@@ -150,13 +138,9 @@ trial.
 Surah Isra’ – Verse 64
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ
-عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الاَمْوَالِ
-وَالاَوْلاَدِ وَعِدْهُمْ وَمَايَعِدُهُمُ الشَّيْطَانُ إِلاَّ غُرُوراً
-  </p>
-</blockquote>
+> وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ
+> عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الاَمْوَالِ
+> وَالاَوْلاَدِ وَعِدْهُمْ وَمَايَعِدُهُمُ الشَّيْطَانُ إِلاَّ غُرُوراً
 
 ***64. “And startle whomever of them you can with your voice, and
 collect your cavalry and infantry against them; and share with them in
@@ -225,12 +209,8 @@ The verse says:
 Surah Isra’ – Verse 65
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِبَادي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ وَكَفَي بِرَبّـِكَ
-وَكِيلاً
-  </p>
-</blockquote>
+> إِنَّ عِبَادي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ وَكَفَي بِرَبّـِكَ
+> وَكِيلاً
 
 ***65. “Verily (as for) My servants, you have not any authority over
 them; and your Lord suffices (as their) Guardian.”***
@@ -265,12 +245,8 @@ his advocate, as his guardian, and as his superintendent.
 Surah Isra’ – Verse 66
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا
-مِن فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيماً
-  </p>
-</blockquote>
+> رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا
+> مِن فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيماً
 
 ***66. “Your Lord is He Who makes the ship go for you through the sea
 that you may seek of His grace; verily He is ever Merciful to you.”***
@@ -314,13 +290,9 @@ you.”***
 Surah Isra’ – Verse 67
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلآَّ
-إِيَّاهُ فَلَمَّا نَجَّاكُمْ إِلَي الْبَرّ‌ِ أَعْرَضْتُمْ وَكَانَ
-الإِنسَانُ كَفُوراً
-  </p>
-</blockquote>
+> وإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلآَّ
+> إِيَّاهُ فَلَمَّا نَجَّاكُمْ إِلَي الْبَرّ‌ِ أَعْرَضْتُمْ وَكَانَ
+> الإِنسَانُ كَفُوراً
 
 ***67. “And when affliction touches you in the sea, away will go those
 on whom you call except him; but as He delivers you to the land, you
@@ -381,12 +353,8 @@ The verse continues saying:
 Surah Isra’ – Verse 68
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَاَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ الْبَرّ‌ِ أَوْ يُرْسِلَ
-عَلَيْكُمْ حَاصِباً ثُمَّ لاَ تَجِدُوا لَكُمْ وَكِيلاً
-  </p>
-</blockquote>
+> أَفَاَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ الْبَرّ‌ِ أَوْ يُرْسِلَ
+> عَلَيْكُمْ حَاصِباً ثُمَّ لاَ تَجِدُوا لَكُمْ وَكِيلاً
 
 ***68. “Do you then feel secure that He will not cause the shore to
 swallow you up, or send on you squall of pebbles? Then, you will not
@@ -427,13 +395,9 @@ The verse concludes:
 Surah Isra’ – Verse 69
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً اُخْرَي فَيُرْسِلَ
-عَلَيْكُمْ قَاصِفاً مِنَ الرّ‌ِيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ
-ثُمَّ لاَ تَجِدُوا لَكُمْ عَلَيْنَا بِهِ تَبِيعاً
-  </p>
-</blockquote>
+> أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً اُخْرَي فَيُرْسِلَ
+> عَلَيْكُمْ قَاصِفاً مِنَ الرّ‌ِيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ
+> ثُمَّ لاَ تَجِدُوا لَكُمْ عَلَيْنَا بِهِ تَبِيعاً
 
 ***69. “Or do you feel secure that He will (not) send you back into it
 (the sea) another time, and then send on you a fierce gale then drown
@@ -469,13 +433,9 @@ Lord, and Allah is not responsible to anyone.
 Surah Isra’ – Verse 70
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي ءَادَمَ وَحَمَلْنَاهُمْ فِي الْبَرّ‌ِ
-وَالْبَحْرِ وَرَزَقْنَاهُم مِنَ الطَّيّـِبَاتِ وَفَضَّلْنَاهُمْ عَلَي
-كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي ءَادَمَ وَحَمَلْنَاهُمْ فِي الْبَرّ‌ِ
+> وَالْبَحْرِ وَرَزَقْنَاهُم مِنَ الطَّيّـِبَاتِ وَفَضَّلْنَاهُمْ عَلَي
+> كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
 
 ***70. “And, indeed, We have honored the children of Adam, and We
 carried them on the land and the sea; and We provided them with
@@ -636,5 +596,4 @@ Imam Baqir (as) says:
 [^18]: Surah Al-Baqarah, No. 2, verse 74
 
 [^19]: Tafsir-Kanz-uld-Daqayiq
-
 

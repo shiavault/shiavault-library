@@ -21,4 +21,3 @@ doubts. The scholars should pay heed in this respect to furnish the
 facts so as to obviate the doubts and present the subject in the minds
 in a clear picture.
 
-

@@ -1,12 +1,8 @@
 Imam Ali – Commander of The Faithful
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-فَقُلتُ : وَعَلَيكَ السَّلامُ يا أَبَا الحَسَن وَيا أَمِيرَ
-المُؤمِنينَ
-  </p>
-</blockquote>
+> فَقُلتُ : وَعَلَيكَ السَّلامُ يا أَبَا الحَسَن وَيا أَمِيرَ
+> المُؤمِنينَ
 
 **"Peace be upon you too, O Abul-Hasan and Commander of the Faithful," I
 replied.**
@@ -136,5 +132,4 @@ latter be replaced with the former. It is sad to note that as with other
 rights of Imam Ali (AS) that was confiscated unjustly, some of his
 unique titles were also stolen such as “Ameerul Momineen” and used by
 others who are not worthy of that title.
-
 

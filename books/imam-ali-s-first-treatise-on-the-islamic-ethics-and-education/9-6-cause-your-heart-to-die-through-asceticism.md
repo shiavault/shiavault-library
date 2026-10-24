@@ -1,11 +1,7 @@
 6) Cause your heart to die through asceticism
 =============================================
 
-<blockquote dir="rtl">
-  <p>
-و أمته - بالزهادة
-  </p>
-</blockquote>
+> و أمته - بالزهادة
 
 As we have already said: in order to survive, man is equipped with
 certain means such as desires towards possession, food, clothing,
@@ -25,11 +21,7 @@ world. Through this policy, Islam harnesses man's exceeding demands and
 lusts from one hand, and tames his aggressive spirit, on the other hand
 to the degree that he will say, as Imam ‘Ali (as) has said,
 
-<blockquote dir="rtl">
-  <p>
-"مَا لِعَليٍّ وَلِنَعِيمٍ يَفنَى وَلَذَّةٍ لا تَبْقَى"
-  </p>
-</blockquote>
+> "مَا لِعَليٍّ وَلِنَعِيمٍ يَفنَى وَلَذَّةٍ لا تَبْقَى"
 
 *"What does ‘Ali have to do with transitory enjoyments and
 pleasures?"*[^5] and he would agree with Hafiz: I am a slave to the
@@ -58,12 +50,8 @@ the like, are just a means for man's perfection.
 If these are used normally, not only will the world of other people be
 built, but the Hereafter will also be built; this is because
 
-<blockquote dir="rtl">
-  <p>
-"وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنسَ
-نَصِيبَكَ مِنْ الدُّنْيَا"
-  </p>
-</blockquote>
+> "وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنسَ
+> نَصِيبَكَ مِنْ الدُّنْيَا"
 
 ***"And seek, by means of what Allah has given you, the future abode,
 and do not neglect your portion of this world”.***[^6]
@@ -150,13 +138,9 @@ interpretation. It is a synopsis of different explanations given by
 books on tradition: Here are some of them:
 **a)** The Prophet (S), in one of his maxims says:
 
-<blockquote dir="rtl">
-  <p>
-"الزُهَادَةُ في الدُّنيا لَيسَت بِتَحرِيمِ الحَلالَ وَلا إِضَاعَةِ
-المالِ وَلكِنَّ الزُهَادَة في الدُّنيَا اَن لا تَكُونَ بِما في يَدِكَ
-أَوثَقَ مَنكَ بِمَا في يَدِ الله"
-  </p>
-</blockquote>
+> "الزُهَادَةُ في الدُّنيا لَيسَت بِتَحرِيمِ الحَلالَ وَلا إِضَاعَةِ
+> المالِ وَلكِنَّ الزُهَادَة في الدُّنيَا اَن لا تَكُونَ بِما في يَدِكَ
+> أَوثَقَ مَنكَ بِمَا في يَدِ الله"
 
 *"Asceticism in this world is not to prohibit what is lawful or to leave
 wealth alone; rather, asceticism in this world is that you should not
@@ -166,14 +150,10 @@ God"*[^13]
 **b)** In Nahj al-Balaghah, Imam ‘Ali (as) describes asceticism in the
 following manner:
 
-<blockquote dir="rtl">
-  <p>
-"الزُهدُ كُلُّهُ بَينَ كَلِمَتَينِ مِنَ القُرآن: قَالَ الله سُبحانَه
-"لِكَيْلَا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلَا تَفْرَحُوا بِمَا
-آتَاكُمْ" فمن لم يأس على الماضي ولم يفرح بالآتي فقد اخذ الزهد
-بِطَرَفَيْهِ"
-  </p>
-</blockquote>
+> "الزُهدُ كُلُّهُ بَينَ كَلِمَتَينِ مِنَ القُرآن: قَالَ الله سُبحانَه
+> "لِكَيْلَا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلَا تَفْرَحُوا بِمَا
+> آتَاكُمْ" فمن لم يأس على الماضي ولم يفرح بالآتي فقد اخذ الزهد
+> بِطَرَفَيْهِ"
 
 *“The whole of asceticism lies within two phrases of the Holy Qur’an:
 God the Almighty has said:* ***"So that you may not grieve for what has
@@ -185,12 +165,8 @@ what is to come, has taken hold of both aspects of asceticism."*[^14]
 
 **c)** Elsewhere in Nahj al-Balaghah, we read:
 
-<blockquote dir="rtl">
-  <p>
-"اَيُّهَا النّاسُ الزُّهَادَةُ قُصرُ الأمَلِ وَالشُكرُ عِندَ النِعَمِ
-وَالوَرَعُ عَن المَحارِم"
-  </p>
-</blockquote>
+> "اَيُّهَا النّاسُ الزُّهَادَةُ قُصرُ الأمَلِ وَالشُكرُ عِندَ النِعَمِ
+> وَالوَرَعُ عَن المَحارِم"
 
 *“O people! Asceticism is the curtailment of hope, thanking God for
 blessings, and the utmost self-vigilance in abstaining from what is
@@ -237,12 +213,8 @@ Based on Imam Sadiq’s statement: *"It is not asceticism that you should
 not possess anything; rather, ascetism is that nothing should possess
 you,"*
 
-<blockquote dir="rtl">
-  <p>
-"لَيسَ الزُّهدُ اَن لا تَملِكَ شَيئاً بَل الزُّهدُ اَن لا يَملِكَكَ
-شَئٌ"
-  </p>
-</blockquote>
+> "لَيسَ الزُّهدُ اَن لا تَملِكَ شَيئاً بَل الزُّهدُ اَن لا يَملِكَكَ
+> شَئٌ"
 
 and also based on the fact that for a ascetic person this world is a
 means and not an objective, Naraqi asked the dervish what kind of life
@@ -374,23 +346,15 @@ among social layers. For this reason, the Holy Qur’an praises the people
 of Medina (the Ansar) who gave priority to the needs of Muhajirin in the
 following manner:
 
-<blockquote dir="rtl">
-  <p>
-"وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ"
-  </p>
-</blockquote>
+> "وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ"
 
 ***“And they prefer (them) before themselves though poverty may afflict
 them”.***[^21]
 
 Allah has revealed:
 
-<blockquote dir="rtl">
-  <p>
-"وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِينًا وَيَتِيمًا
-وَأَسِيرًا"
-  </p>
-</blockquote>
+> "وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِينًا وَيَتِيمًا
+> وَأَسِيرًا"
 
 ***"And they give food out of love for Him to the poor and the orphan
 and the captive"***[^22] because Imam ‘Ali (as), Fatima (as), Imam Hasan
@@ -401,12 +365,8 @@ Imam ‘Ali (as) in his sermon Al-muttaqin (The God-wary ones) mentions
 "Tolerating hardships oneself for the comfort of others" as one of the
 attributes of the true believers:
 
-<blockquote dir="rtl">
-  <p>
-"نَفسُهُ في عَنَاءٍ وَالنَاسُ مِنهُ في رَاحَةٍ، اَتعَبَ نَفسَه
-لآخرَتِهِ وَارَاحَ النّاسَ مِن نَفسِهِ"
-  </p>
-</blockquote>
+> "نَفسُهُ في عَنَاءٍ وَالنَاسُ مِنهُ في رَاحَةٍ، اَتعَبَ نَفسَه
+> لآخرَتِهِ وَارَاحَ النّاسَ مِن نَفسِهِ"
 
 *"His own self is in difficulty while people are at ease from him. He
 wearies himself for the Hereafter, while he gives people ease."*[^23]
@@ -433,12 +393,8 @@ caliphate.
 
 Imam ‘Ali (as) in one place states:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الله فَرَضَ على اَئِمَةِ العَدلِ اَن يَقدِرُوا اَنفُسَهُم
-بِضَعَفَةِ النّاسِ كَيلا يَتَبيّغَ بِالفَقِيرِ فَقرُهُ"
-  </p>
-</blockquote>
+> "اِنَّ الله فَرَضَ على اَئِمَةِ العَدلِ اَن يَقدِرُوا اَنفُسَهُم
+> بِضَعَفَةِ النّاسِ كَيلا يَتَبيّغَ بِالفَقِيرِ فَقرُهُ"
 
 *"God has made it obligatory for the just leaders to make themselves
 like the indigent, so that the poor man’s burden of poverty is not
@@ -446,17 +402,13 @@ unbearable for him."*[^24]
 
 Imam ‘Ali (as) has stated somewhere else:
 
-<blockquote dir="rtl">
-  <p>
-"أأقنَعُ مِن نَفسِي بِاَن يُقالَ أَمِيرُ المُؤمِنِينَ وَلا
-اُشَارِكُهُم في مَكَارِهِ الدَّهرِ او اَكُونَ اُسوَةً لَهُم في
-جُشُوبَةِ العَيشِ ... وَلكِن هَيهَاتَ اَن يَغلِبَنِي هَوايَ
-وَيَقُودَنِي جَشَعِي الى تَخَيُّر الاطعِمَةِ وَلَعَلَّ بِالحِجَازِ
-اَواليَمَامَةِ مَن لا طَمَعَ لَهُ في القُرْصِ وَلا عَهْدَ لَهُ
-بِالشَبَعِ او اَبِيتَ مِبطَانَا وَحَولِي بُطُونٌ غَرثَى وَاكبَادٌ
-حَرَّى"
-  </p>
-</blockquote>
+> "أأقنَعُ مِن نَفسِي بِاَن يُقالَ أَمِيرُ المُؤمِنِينَ وَلا
+> اُشَارِكُهُم في مَكَارِهِ الدَّهرِ او اَكُونَ اُسوَةً لَهُم في
+> جُشُوبَةِ العَيشِ ... وَلكِن هَيهَاتَ اَن يَغلِبَنِي هَوايَ
+> وَيَقُودَنِي جَشَعِي الى تَخَيُّر الاطعِمَةِ وَلَعَلَّ بِالحِجَازِ
+> اَواليَمَامَةِ مَن لا طَمَعَ لَهُ في القُرْصِ وَلا عَهْدَ لَهُ
+> بِالشَبَعِ او اَبِيتَ مِبطَانَا وَحَولِي بُطُونٌ غَرثَى وَاكبَادٌ
+> حَرَّى"
 
 *"Should I be content to be called Amir al-Mu'minin, but not share with
 them (the deprived) in the adversities of time or be an example for them
@@ -527,12 +479,8 @@ world, i.e., leaving pleasure-taking a lot.
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"الدُّنيا دَارُ مَمَرٍّ لا دَارُ مَقَرٍّ، وَالنّاس فِيهَا رَجُلانِ:
-رَجُلٌ بَاعَ نَفسَهُ فَأوبَقَهَا وَرَجُلٌ اِبتَاعَ نَفسَهُ فَأعتَقَها"
-  </p>
-</blockquote>
+> "الدُّنيا دَارُ مَمَرٍّ لا دَارُ مَقَرٍّ، وَالنّاس فِيهَا رَجُلانِ:
+> رَجُلٌ بَاعَ نَفسَهُ فَأوبَقَهَا وَرَجُلٌ اِبتَاعَ نَفسَهُ فَأعتَقَها"
 
 *"This world is a place of passage, not a resting place, and people in
 it are of two types: one who sells his soul (through following his
@@ -612,12 +560,8 @@ You will still be heading for Him, anyway.[^32]
 Imam Sadiq (as) emphasizes this stage of asceticism in the following
 words:
 
-<blockquote dir="rtl">
-  <p>
-"وَهُوَ تَركُ كُلِّ شَئٍ شَغَلَكَ عَن الله مِن غَيرِ تَأسُفٍ عَلى
-فَوتِها"
-  </p>
-</blockquote>
+> "وَهُوَ تَركُ كُلِّ شَئٍ شَغَلَكَ عَن الله مِن غَيرِ تَأسُفٍ عَلى
+> فَوتِها"
 
 *"Asceticism means the abandonment of everything which diverts you from
 God without regretting its abandonment"*[^33]
@@ -631,13 +575,9 @@ further:
 Khwajah, may God bless him, in his erudite book "Awsaf al-Ashraf" writes
 on asceticism (zuhd) in Chapter two:
 
-<blockquote dir="rtl">
-  <p>
-قال الله تعالى: "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ
-أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنيَا لِنَفْتِنَهُمْ فِيهِ
-وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَى"
-  </p>
-</blockquote>
+> قال الله تعالى: "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ
+> أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنيَا لِنَفْتِنَهُمْ فِيهِ
+> وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَى"
 
 ***“And do not stretch your eyes after that with which we have provided
 different classes of them, of the splendor of this world’s life, that we
@@ -686,15 +626,11 @@ Avicenna in chapter nine of his erudite book "Al-Isharat wa al-Tanbihat"
 which deals with the stages is Sufism writes on the degrees of
 asceticism:
 
-<blockquote dir="rtl">
-  <p>
-"المُعْرِضُ عَن مَتاعِ الدُّنيا وَطيِّبَاتِها يُخَصُّ بإسمِ
-الزُّهدِ... الزُهدُ عِندَ غَيرِ العَارِفِ مُعَامَلَةُ مَا كَأنَّهُ
-يُشتَرى بِمتَاعِ الدُّنيا مَتَاعَ الآخِرَةِ وَعِندَ العَارِفِ
-تَنَـزُّهَ مَا عَمَّا يَشْغَل سِرَّه عَن الحَقِّ وَتَكَبَّر عَلى كُلِّ
-شَئٍ غَيرَ الحَقِّ"
-  </p>
-</blockquote>
+> "المُعْرِضُ عَن مَتاعِ الدُّنيا وَطيِّبَاتِها يُخَصُّ بإسمِ
+> الزُّهدِ... الزُهدُ عِندَ غَيرِ العَارِفِ مُعَامَلَةُ مَا كَأنَّهُ
+> يُشتَرى بِمتَاعِ الدُّنيا مَتَاعَ الآخِرَةِ وَعِندَ العَارِفِ
+> تَنَـزُّهَ مَا عَمَّا يَشْغَل سِرَّه عَن الحَقِّ وَتَكَبَّر عَلى كُلِّ
+> شَئٍ غَيرَ الحَقِّ"
 
 "Anybody who turns away from the enjoyments of the world and its
 pleasures is characterized by the term asceticism… Asceticism for one
@@ -844,5 +780,4 @@ Sabzwrari's Manzumah Hikmah, and Fayd Kashani’s Mahjjah al-Bayda, vol.
 5.
 
 [^39]: . Mustadrak al-Wasa’il, vol.2, p.284.
-
 

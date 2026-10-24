@@ -98,4 +98,3 @@ has forbidden certain things. That shows His aversion.
 
 [^2]: Surah an-Nisa, 4:164
 
-

@@ -56,7 +56,6 @@ least mut'a can be said to provide a legal structure which, when
 observed, prevents most of the well known problems and abuses connected
 with unregulated sexual relationships.
 
-
 **Sachiko Murata**
 
 Port Jefferson, NY 14 December 1986
@@ -65,5 +64,4 @@ Acknowledgement
 
 The Muhammadi Trust wishes to express its gratitude to its patron for
 their willing and kind support in making this publication possible.
-
 

@@ -11,10 +11,5 @@ Indolence And Lassitude
 the slumber of negligence in your eyes through alertness.
 
 > 2ـ تَداوَمِنْ داءِ الفَتْرَةِ في قَلْبِكَ بِعَزيمَة، وَمِنْ كَرَى
-<blockquote dir="rtl">
-  <p>
-الْغَفْلَةِ في ناظِرِكَ بِيَقْظَة.
-  </p>
-</blockquote>
-
+> الْغَفْلَةِ في ناظِرِكَ بِيَقْظَة.
 

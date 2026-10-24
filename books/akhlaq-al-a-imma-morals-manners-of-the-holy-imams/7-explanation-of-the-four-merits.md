@@ -237,4 +237,3 @@ possessed. The most important of these is knowledge because no virtue is
 possible without it. However we would like to mention a few points as
 introduction to our discussion.
 
-

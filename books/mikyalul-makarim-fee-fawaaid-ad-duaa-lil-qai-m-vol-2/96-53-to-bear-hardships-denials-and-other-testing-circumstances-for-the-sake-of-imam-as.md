@@ -7,12 +7,8 @@ the righteous ones from the sinful. So that He may reward the righteous
 slaves and gather the wrong doers with other evil creatures and dispatch
 them to Hell. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ اللَّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَىٰ مَا أَنْتُمْ عَلَيْهِ
-حَتَّىٰ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ
-  </p>
-</blockquote>
+> مَا كَانَ اللَّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَىٰ مَا أَنْتُمْ عَلَيْهِ
+> حَتَّىٰ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ
 
 ***On no account will Allah leave the believers in the condition which
 you are in until He separates the evil from the good. (Qur’an, Surah
@@ -22,18 +18,10 @@ Now this is not something new because before this Allah has taken the
 examination of all the previous nations and those who would come in the
 future. Allah also says:
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
-يُفْتَنُونَ .
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
+> يُفْتَنُونَ .
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
-  </p>
-</blockquote>
+> وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
 
 ***Do men think that they will be left alone on saying, We believe, and
 not be tried? And*** ***certainly We tried those before them…(Qur’an,
@@ -43,11 +31,7 @@ Hazrat Ali (as) says, “O Men! The Almighty Allah has kept you away from
 oppression but He has not given you exemption from trials because Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً
-  </p>
-</blockquote>
+> وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً
 
 ***Most surely there are signs in this, and most surely We are ever
 trying (men).***[^1]
@@ -89,11 +73,7 @@ one from His Messenger, and one from the Imam. The characteristic he
 should learn from God is the concealment of secrets. God the Glorified
 says:
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
 
 ***The Knower of the unseen! so He does not reveal His secrets to any,
 (Qur’an, Surah Jinn 72:26)***
@@ -115,12 +95,8 @@ taken a covenant from our followers to observe patience in the rule of
 tyrant rulers. So be patient at the command of your Lord and when the
 leader of the creatures arises, they shall say:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا ۜ ۗ هَٰذَا مَا
-وَعَدَ الرَّحْمَٰنُ وَصَدَقَ الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا ۜ ۗ هَٰذَا مَا
+> وَعَدَ الرَّحْمَٰنُ وَصَدَقَ الْمُرْسَلُونَ
 
 ***O woe to us! who has raised us up from our sleeping-place? This is
 what the Beneficent God promised and the apostles told the truth.***[^4]
@@ -160,12 +136,8 @@ traditional reports.
 
 It is mentioned in Burhan under the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
-وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
+> وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***O you who believe! be patient and co-operate in patience and remain
 steadfast. (Qur’an, Surah Aale Imran 3:200)***
@@ -196,17 +168,9 @@ is necessary for you to be patient in all your affairs as Allah, the
 Mighty and Sublime sent His Eminence, Muhammad (S) and commanded him
 patience and forbearance and He said:
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا .
-  </p>
-</blockquote>
+> وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا .
 
-<blockquote dir="rtl">
-  <p>
-وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
-  </p>
-</blockquote>
+> وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
 
 ***And bear patiently what they say and avoid them with a becoming
 avoidance. And leave Me and the rejecters, the possessors of ease and
@@ -214,20 +178,12 @@ plenty. (Qur’an, Surah Muzzammil 73:10-11)***
 
 The Almighty Allah also said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي
-هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
-وَلِيٌّ حَمِيمٌ .
-  </p>
-</blockquote>
+> وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي
+> هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
+> وَلِيٌّ حَمِيمٌ .
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
-ذُو حَظٍّ عَظِيمٍ
-  </p>
-</blockquote>
+> وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
+> ذُو حَظٍّ عَظِيمٍ
 
 ***Repel (evil) with what is best, when lo! he between whom and you was
 enmity would be as if he were a warm friend. And none are made to
@@ -239,17 +195,9 @@ Thus the Messenger of Allah (S) maintained patience till he was even
 accused of serious things [like sorcery and insanity] and the Almighty
 Allah revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ .
-  </p>
-</blockquote>
+> وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ .
 
-<blockquote dir="rtl">
-  <p>
-فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِدِينَ 
-  </p>
-</blockquote>
+> فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِدِينَ
 
 ***And surely We know that your breast straitens at what they say.
 Therefore celebrate the praise of your Lord, and be of those who make
@@ -258,20 +206,12 @@ obeisance. (Qur’an, Surah Hijr 15:97-98)***
 After that they rejected His Eminence, and made allegations against him;
 so he became sad. Therefore the Almighty Allah revealed:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ ۖ فَإِنَّهُمْ
-لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ
-يَجْحَدُونَ .
-  </p>
-</blockquote>
+> قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ ۖ فَإِنَّهُمْ
+> لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ
+> يَجْحَدُونَ .
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا
-كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ
-  </p>
-</blockquote>
+> وَلَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا
+> كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ
 
 ***We know indeed that what they say certainly grieves you, but surely
 they do not call you a liar; but the unjust deny the communications of
@@ -286,18 +226,10 @@ The Holy Prophet (S) said: I remained patient regarding myself, my
 family and my honor but I cannot be patient on disrespect to my Lord. So
 Allah, the Mighty and Sublime revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي
-سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ.
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي
+> سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ.
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ
-  </p>
-</blockquote>
+> فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ
 
 ***And certainly We created the heavens and the earth and what is
 between them in six periods and there touched Us not any fatigue.
@@ -307,12 +239,8 @@ His Eminence, (S) remained patient in all circumstances till he was
 given glad tidings about the Imams from his progeny and they were
 described to be having patience as Allah, the Mighty and Sublime said:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ
-وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ
+> وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
 
 ***And We made of them Imams to guide by Our command when they were
 patient, and they were certain of Our communications. (Qur’an, Surah
@@ -322,13 +250,9 @@ His Eminence, (S) said: Patience is to faith, like the head is to the
 body; then the Almighty Allah recompensed him for patience and revealed
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَتُ رَبِّكَ الْحُسْنَىٰ عَلَىٰ بَنِي إِسْرَائِيلَ بِمَا
-صَبَرُوا ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا
-كَانُوا يَعْرِشُونَ 
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَتُ رَبِّكَ الْحُسْنَىٰ عَلَىٰ بَنِي إِسْرَائِيلَ بِمَا
+> صَبَرُوا ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا
+> كَانُوا يَعْرِشُونَ
 
 ***And the good word of your Lord was fulfilled in the children of
 Israel because they bore up (sufferings) patiently; and We utterly
@@ -339,12 +263,8 @@ The Holy Prophet (S) said: This is a glad tiding and revenge that Allah,
 the Mighty and Sublime has allowed war against the polytheists. And the
 Almighty Allah revealed:
 
-<blockquote dir="rtl">
-  <p>
-فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ
-وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ
-  </p>
-</blockquote>
+> فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ
+> وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ
 
 ***Then slay the idolaters wherever you find them, and take them
 captives and besiege them and lie in wait for them in every ambush.
@@ -352,11 +272,7 @@ captives and besiege them and lie in wait for them in every ambush.
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ 
-  </p>
-</blockquote>
+> وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ
 
 ***And kill them wherever you find them. (Qur’an, Surah Baqarah 2:
 191)***
@@ -399,20 +315,12 @@ quoted from Imam Reza (as) that he said: “How good is patience and
 awaiting for the reappearance! Have you not heard Allah, the Mighty and
 Sublime say?
 
-<blockquote dir="rtl">
-  <p>
-وَارْتَقِبُوا إِنِّي مَعَكُمْ رَقِيبٌ
-  </p>
-</blockquote>
+> وَارْتَقِبُوا إِنِّي مَعَكُمْ رَقِيبٌ
 
 ***And watch, surely I too am watching with you. (Qur’an, Surah Hud
 11:93)***
 
-<blockquote dir="rtl">
-  <p>
-فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ
-  </p>
-</blockquote>
+> فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ
 
 ***Wait then, I too with you will be of those who wait. (Qur’an, Surah
 Araaf 7:71)***
@@ -430,12 +338,8 @@ That is before the advent of the Qaim the believers will be tested
 through fear and hunger and loss of property and lives and fruits; and
 give good news to the patient.
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
-الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ
+> الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ
 
 ***And We will most certainly try you with somewhat of fear and hunger
 and loss of property and lives and fruits; and give good news to the
@@ -448,12 +352,8 @@ good news to the patient means those who await for the reappearance.”
 Then he said: “O Muhammad, this is the interpretation of the saying of
 the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي
-الْعِلْمِ
-  </p>
-</blockquote>
+> وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي
+> الْعِلْمِ
 
 ***…but none knows its interpretation except Allah, and those who are
 firmly rooted in knowledge…***[^10]
@@ -482,13 +382,9 @@ things) and then Allah might do to me whatever He liked. But it is the
 will of Allah that we are to be patient and to wait. Then he recited the
 following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ
-وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِنْ تَصْبِرُوا
-وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
-  </p>
-</blockquote>
+> وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ
+> وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِنْ تَصْبِرُوا
+> وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
 
 ***And you shall certainly hear from those who have been given the Book
 before you and from those who are polytheists, much annoying talk; and
@@ -522,11 +418,7 @@ from his opponents.
 3. Patience on different calamities and hardships that befall him as
 mentioned in the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ
-  </p>
-</blockquote>
+> وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ
 
 ***And be patient and your patience is not but by (the assistance of)
 Allah. (Qur’an, Surah Nahl 16:127)***
@@ -561,5 +453,4 @@ types of patiences that a believer has to observe in difficult times.
 [^12]: Ghaibat Nomani, Pg. 105
 
 [^13]: Ghaibat Nomani, Pg. 105
-
 

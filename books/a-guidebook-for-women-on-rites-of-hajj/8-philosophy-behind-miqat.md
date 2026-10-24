@@ -59,4 +59,3 @@ it is not possible to go to a Miqat then on the basis of precaution she
 should go as far away as possible from the Haram and as a precaution
 wear ihram there.
 
-

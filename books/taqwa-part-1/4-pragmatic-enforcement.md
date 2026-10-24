@@ -26,4 +26,3 @@ these practices. It is the great and potent holy state of the soul that
 supports and protects human beings. One has to struggle to achieve the
 true essence of piety.
 
-

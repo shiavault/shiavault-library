@@ -65,4 +65,3 @@ with blood; with this in mind, the Prophet (S) told Asma:
 He would embrace Al-Hasan (as) and put his tongue in the baby's mouth,
 which would suckle it.
 
-

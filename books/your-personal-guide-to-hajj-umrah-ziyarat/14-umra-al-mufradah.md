@@ -284,4 +284,3 @@ with the exception of hunting which must be paid in Makkah.**
 Khoei. If you are a Muqaleed of another Ayatullah please make sure you
 check his rulings with an A’alem.**
 
-

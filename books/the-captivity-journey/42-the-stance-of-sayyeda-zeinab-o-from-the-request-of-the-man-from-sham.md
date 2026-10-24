@@ -44,4 +44,3 @@ consider the Muslim women as captives of the wars and they should not be
 treated as captives either. So how is it when these women are the
 daughters of the Messenger of Allah Q?
 
-

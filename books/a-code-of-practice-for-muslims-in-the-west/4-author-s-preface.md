@@ -68,4 +68,3 @@ Master, so help us against the unbelieving people."
 
 **27 Ramadhan 1418 / 26 January 1998**
 
-

@@ -104,4 +104,3 @@ Just as this surah is about those who take refuge in the discern­able
 and material world and believe that there is nothing beyond it, the next
 surah explains by example the falseness of their beliefs.
 
-

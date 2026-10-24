@@ -50,4 +50,3 @@ return and want to thank you. O king! We are Jinn and not Al-jinn.” The
 king asked, “What is the difference between Jinn and Al-jinn?” The text
 ends here.
 
-

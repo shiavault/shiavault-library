@@ -369,7 +369,6 @@ fourth of the infallible purified Imams who are inheritors of Prophetic
 sciences and Divine knowledge. They are bright torches that lead mankind
 to he right path.
 
-
 **Imam Mohammad Al-Baqir (A.S.)**
 
 **LINEAGE**
@@ -714,6 +713,5 @@ their blood for the sake of Islam. Thus he added to the bright pages of
 Islamic mission another bright page. He enhanced the community with
 elements of awareness and progress that brought about flourishing
 civilization.
-
 
 **

@@ -264,4 +264,3 @@ did they make them slaves of theirs. They only imposed on them their
 despotic rule. The Holy Prophet through his Divine foresight calls this
 position enslavement and a sort of polytheism.
 
-

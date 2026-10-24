@@ -494,4 +494,3 @@ originally a man and a woman of the tribe of jaiham who found their way
 into the Ka'ba and were metamorphosed later, during the period of ‘Amr
 bin Lahi, and assumed the shape of idol.
 
-

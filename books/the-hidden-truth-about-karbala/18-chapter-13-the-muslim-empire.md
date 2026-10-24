@@ -255,4 +255,3 @@ Chronicle, Hyderabad, 20 February 2005.
 
 [^8]: The Spirit of Islam, by Amir Ali.
 
-

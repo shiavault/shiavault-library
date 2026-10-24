@@ -33,14 +33,10 @@ To summarize, in light of this discussion the meanings of the traditions
 about Wilayat can be comprehended. We repeatedly state sentences and
 words from one well known tradition:
 
-<blockquote dir="rtl">
-  <p>
-لَوْاَنَّ رَجُلاً قٰامَ لَيْلَہُ وَصٰامَ نَہٰارَہُ وَتَصَدَّقَ
-بِجَمِيِع مٰالِہِ وَحَجَّ جَميعَ دَھْرِہِ وَلَمْ يَعْرِفْ وِلاٰيَۃَ
-وَلِّيِ الله فَيُواليہِ وَيَکُونُ جميعُ اَعْمٰالِہِ بِدَلاٰلَتِہِ
-اِلَيْہِ‘ مٰاکٰانَ لَہُ عَلَي الله عَزَّوجلَّ حَقُ في ثَوٰابِہ
-  </p>
-</blockquote>
+> لَوْاَنَّ رَجُلاً قٰامَ لَيْلَہُ وَصٰامَ نَہٰارَہُ وَتَصَدَّقَ
+> بِجَمِيِع مٰالِہِ وَحَجَّ جَميعَ دَھْرِہِ وَلَمْ يَعْرِفْ وِلاٰيَۃَ
+> وَلِّيِ الله فَيُواليہِ وَيَکُونُ جميعُ اَعْمٰالِہِ بِدَلاٰلَتِہِ
+> اِلَيْہِ‘ مٰاکٰانَ لَہُ عَلَي الله عَزَّوجلَّ حَقُ في ثَوٰابِہ
 
 *If someone prays the whole night while standing, not just in the month
 of Ramadan but his whole life; fasts all year long; gives away all his
@@ -78,11 +74,7 @@ The Prophet came to take the human beings to the zenith of humanity; he
 came to endow people with Allah's virtues; he came to push the morals to
 perfection and according to the tradition[^2]:
 
-<blockquote dir="rtl">
-  <p>
-اِنِّي بُعِثْتُ لِاُتَمِّمَ مَکٰارِمَ الْاَخْلاٰقِ
-  </p>
-</blockquote>
+> اِنِّي بُعِثْتُ لِاُتَمِّمَ مَکٰارِمَ الْاَخْلاٰقِ
 
 The Prophet came to build up people. He came to develop and enhance this
 creation called human being.
@@ -149,11 +141,7 @@ teach, train and cleanse their inner selves. The standard of war (jihad)
 was brought here; the Prophet would raise it and give it to Usama Bin
 Zaid or some other believer commander and say:
 
-<blockquote dir="rtl">
-  <p>
-اِنْطَلِقُوا عَلَي اسْمِ اللّٰہ
-  </p>
-</blockquote>
+> اِنْطَلِقُوا عَلَي اسْمِ اللّٰہ
 
 "Go on in the name of Allah," and would give instructions for victory
 over the enemy. In the same mosque Allah's Prophet would issue Allah's
@@ -230,11 +218,7 @@ beginning so his first task is to prepare and launch a united and
 mutually agreeable group. The Prophet acting on the Qur'anic verses
 creates such a group by adopting a soft counseling manner.
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-  </p>
-</blockquote>
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
 
 ***Invite people towards your creator through wisdom and fine
 counseling***.[^3]
@@ -251,11 +235,7 @@ What people compose this group?
 They are the believing, faithful and persevering Muslims. This group is
 formulated through accumulation of those:
 
-<blockquote dir="rtl">
-  <p>
-لاٰ تَاْخُذُ ھُمْ فِي الله لَوْمَۃُ لاٰئِم
-  </p>
-</blockquote>
+> لاٰ تَاْخُذُ ھُمْ فِي الله لَوْمَۃُ لاٰئِم
 
 "Who cannot be swerved from the path of Allah by the censure of the
 censurers."[^4]
@@ -502,33 +482,21 @@ the Wilayat of the Imams is unreal and based on ignorance.
 
 During the days of Eid-Ghadeer people supplicate:
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَمْدُلِلّٰہِ الَّذي جَعَلَنٰا مِنَ الْمُتَمَسِّکِينَ بِوِلاٰيَۃِ
-عِليّ بْنِ اَبيطٰالبٍ عليہ السَّلام
-  </p>
-</blockquote>
+> اَلْحَمْدُلِلّٰہِ الَّذي جَعَلَنٰا مِنَ الْمُتَمَسِّکِينَ بِوِلاٰيَۃِ
+> عِليّ بْنِ اَبيطٰالبٍ عليہ السَّلام
 
 Praise be to Allah who made us adherents of Wilayat of Ali Ibn Abi
 Talib.
 We tell our friends that we should not say:
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَمْدُلِلّٰہِ الَّذي جَعَلَنٰا
-  </p>
-</blockquote>
+> اَلْحَمْدُلِلّٰہِ الَّذي جَعَلَنٰا
 
 Praise be to Allah who made us.
 
 As it might be a lie. Instead we should say:
 
-<blockquote dir="rtl">
-  <p>
-اَلّٰلھُمَّ ا جْعَلْنٰا مِنَ الْمُتَمَسِّکِينَ بِوِلاٰيَۃِ عِليّ بْنِ
-اَبيطٰالبٍ عليہ السَّلام
-  </p>
-</blockquote>
+> اَلّٰلھُمَّ ا جْعَلْنٰا مِنَ الْمُتَمَسِّکِينَ بِوِلاٰيَۃِ عِليّ بْنِ
+> اَبيطٰالبٍ عليہ السَّلام
 
 O' Allah! Make us adherents of Wilayat of Ali Ibn Abi Talib.
 
@@ -550,12 +518,8 @@ This fact has been described in the early verses of Surah Mumtahina[^5]
 so we think that from the perspective of this topic, the surah could
 even be labeled Surah Wilayat.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
-أَوْلِيَاءَ تُلْقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
+> أَوْلِيَاءَ تُلْقُونَ
 
 In some translations it says, ***"O' those who believe don't befriend My
 enemies and your enemies."*** These are incomplete meanings. It is not a
@@ -565,46 +529,26 @@ consider yourself part of their ranks. Don't give space next to you to
 someone who is an enemy of God and yourself; instead consider him your
 rival, your enemy and adversary.
 
-<blockquote dir="rtl">
-  <p>
-تُلْقُوْنَ اِلَيْہِمْ بِالْمَوَدَّۃِ
-  </p>
-</blockquote>
+> تُلْقُوْنَ اِلَيْہِمْ بِالْمَوَدَّۃِ
 
 ***Don't consider them part of your ranks so as to start sending them
 messages of friendship.***
 
-<blockquote dir="rtl">
-  <p>
-وَ قَدْ کَفَرُوْا بِمَاجَآئَکُمْ مِّنَ الْحَقِّ
-  </p>
-</blockquote>
+> وَ قَدْ کَفَرُوْا بِمَاجَآئَکُمْ مِّنَ الْحَقِّ
 
 ***When you know that they have denied the truth that has been sent down
 by your Lord.***
 
-<blockquote dir="rtl">
-  <p>
-يُخْرِجُوْنَ الرَّسُوْلَ وَ اِيَّاکُمْ
-  </p>
-</blockquote>
+> يُخْرِجُوْنَ الرَّسُوْلَ وَ اِيَّاکُمْ
 
 ***These people are evicting the Prophet and you out of your land.***
 
-<blockquote dir="rtl">
-  <p>
-اَنْ تُوْمِنُوْا بِاالله رَبِّکُمْ
-  </p>
-</blockquote>
+> اَنْ تُوْمِنُوْا بِاالله رَبِّکُمْ
 
 ***Only because you believe in your Lord, Allah.***
 
-<blockquote dir="rtl">
-  <p>
-اِنْ کُنْتُمْ خَرَجْتُمْ جِہَادًا فِيْ سَبِيْلِيْ وَ ابْتِغَآئَ
-مَرْضَاتِيْ
-  </p>
-</blockquote>
+> اِنْ کُنْتُمْ خَرَجْتُمْ جِہَادًا فِيْ سَبِيْلِيْ وَ ابْتِغَآئَ
+> مَرْضَاتِيْ
 
 ***If you have come out to fight (jihad) in My way and for seeking My
 pleasure, then don't seek friendship and help from My enemies and your
@@ -618,27 +562,15 @@ However, the later verses further clarify who are infidels in the eyes
 of God and then the infidels have been divided into groups in these
 verses.
 
-<blockquote dir="rtl">
-  <p>
-تُسِرُّوْنَ اِلَيْہِمْ بِالْمَوَدَّۃِ
-  </p>
-</blockquote>
+> تُسِرُّوْنَ اِلَيْہِمْ بِالْمَوَدَّۃِ
 
 ***You love them secretly.***
 
-<blockquote dir="rtl">
-  <p>
-وَاَنَااَعْلَمُ بِمَاَاخْفَيْتُمْ وَمَاَاعْلَنْتُمْ
-  </p>
-</blockquote>
+> وَاَنَااَعْلَمُ بِمَاَاخْفَيْتُمْ وَمَاَاعْلَنْتُمْ
 
 ***And whatever you do openly and secretly I know very well.***
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَّفْعَلْہُ مِنْکُمْ فَقَدْ ضَلَّ سَوَآئَ السَّبِيْلِ
-  </p>
-</blockquote>
+> وَ مَنْ يَّفْعَلْہُ مِنْکُمْ فَقَدْ ضَلَّ سَوَآئَ السَّبِيْلِ
 
 ***And whoever among you extends a hand of friendship and cooperation
 towards the enemies of God and thinks and shows himself to be one of
@@ -684,11 +616,7 @@ friends."
 
 The next verse while explaining this point says:
 
-<blockquote dir="rtl">
-  <p>
-اِنْ يَّثْقَفُوْکُمْ يَکُوْنُوْا لَکُمْ اَعْدَآئً
-  </p>
-</blockquote>
+> اِنْ يَّثْقَفُوْکُمْ يَکُوْنُوْا لَکُمْ اَعْدَآئً
 
 ***If they overpower you, they will turn out to be your enemies.***
 
@@ -697,11 +625,7 @@ take care of you. This is not going to happen. As a matter of fact, if
 you help them, they will overpower you even more and subject you to
 extreme oppression.
 
-<blockquote dir="rtl">
-  <p>
-وَّ يَبْسُطُوْ اِلَيْکُمْ اَيْدِيَہُمْ وَ اَلْسِنَتَہُمْ بِالسُّوْئِ
-  </p>
-</blockquote>
+> وَّ يَبْسُطُوْ اِلَيْکُمْ اَيْدِيَہُمْ وَ اَلْسِنَتَہُمْ بِالسُّوْئِ
 
 ***And they will use their hands and tongue against you.***
 
@@ -710,11 +634,7 @@ like nobody; they will not think of you as a human being.
 
 Don't think that this help will serve you.
 
-<blockquote dir="rtl">
-  <p>
-وَ وَدُّوْا لَوْ تَکْفُرُوْنَ
-  </p>
-</blockquote>
+> وَ وَدُّوْا لَوْ تَکْفُرُوْنَ
 
 ***They will want you to be infidels.***
 
@@ -740,49 +660,29 @@ the Prophet to protect his friends and relatives from harm. How much can
 the friends and relatives be of help to a person who is willing to
 invite the Lord's wrath and severe punishment?
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنْفَعَکُمْ اَرْحَامُکُمْ وَ لا اَوْلادُکُمْ
-  </p>
-</blockquote>
+> لَنْ تَنْفَعَکُمْ اَرْحَامُکُمْ وَ لا اَوْلادُکُمْ
 
 ***Your offspring and relatives do not give you any benefit.***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ الْقِيٰمَۃِ يَفْصِلُ بَيْنَکُمْ
-  </p>
-</blockquote>
+> يَوْمَ الْقِيٰمَۃِ يَفْصِلُ بَيْنَکُمْ
 
 ***On the day of judgment you will be separated from them.***
 
 Or if we read and interpret it as follows:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنْفَعَکُمْ اَرْحَامُکُمْ وَ لا اَوْلادُکُمْ يَوْمَ الْقِيٰمَۃِ
-  </p>
-</blockquote>
+> لَنْ تَنْفَعَکُمْ اَرْحَامُکُمْ وَ لا اَوْلادُکُمْ يَوْمَ الْقِيٰمَۃِ
 
 ***On the day of judgment your offspring and relatives will not be able
 to offer you any benefit.***
 
-<blockquote dir="rtl">
-  <p>
-يَفْصِلُ بَيْنَکُمْ
-  </p>
-</blockquote>
+> يَفْصِلُ بَيْنَکُمْ
 
 ***God will put a distance between you and them.***
 
 As the God of the universe says in Surah A'bas:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيْہِ وَ اُمِّہ وَ اَبِيْہِ وَ
-صَاحِبَتِہ وَ بَنِيْہِ
-  </p>
-</blockquote>
+> يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيْہِ وَ اُمِّہ وَ اَبِيْہِ وَ
+> صَاحِبَتِہ وَ بَنِيْہِ
 
 ***That day a person will avoid his brother, his parents, his kind wife
 and his beloved children***[^6]***.***
@@ -793,11 +693,7 @@ you; and both will run away from other people; every human being will
 take flight from another human being; none of them will have the nerve
 to ask another person of his well-being.
 
-<blockquote dir="rtl">
-  <p>
-لِکُلِّ امْرِيٍ مِّنْہُمْ يَوْمَئِذٍ شَاْن يُّغْنِيْہِ
-  </p>
-</blockquote>
+> لِکُلِّ امْرِيٍ مِّنْہُمْ يَوْمَئِذٍ شَاْن يُّغْنِيْہِ
 
 ***Everyone will be so desperate for himself that he will be of no
 benefit to anybody else.*** [^7]
@@ -809,12 +705,8 @@ aware of this logic of Qur'an; maybe they will come to their senses.
 
 God of the universe says in Surah Mumtahina as well:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنْفَعَکُمْ اَرْحَامُکُمْ وَ لا اَوْلادُکُمْ يَوْمَ الْقِيٰمَۃِ
-يَفْصِلُ بَيْنَکُمْ وَ الله بِمَا تَعْمَلُوْنَ بَصِيْر
-  </p>
-</blockquote>
+> لَنْ تَنْفَعَکُمْ اَرْحَامُکُمْ وَ لا اَوْلادُکُمْ يَوْمَ الْقِيٰمَۃِ
+> يَفْصِلُ بَيْنَکُمْ وَ الله بِمَا تَعْمَلُوْنَ بَصِيْر
 
 ***O' believers! understand that on the Day of Judgment your offspring
 and relatives will be of no benefit to you; there will be total
@@ -839,79 +731,47 @@ false gods, "we are disgusted with you and your gods; we deny you and
 turn away from you; there will always be enmity, hatred and malice
 between us."
 
-<blockquote dir="rtl">
-  <p>
-حَتّٰي توْمِنُوْا بِا اللهِ وَحْدَہ’
-  </p>
-</blockquote>
+> حَتّٰي توْمِنُوْا بِا اللهِ وَحْدَہ’
 
 ***The only way to friendship and peace between us is for you to come
 and accept our faith.***
 
 So it is being explicitly stated, "O' believers! act like Abraham".
 
-<blockquote dir="rtl">
-  <p>
-قَدْ کَانَتْ لَکُمْ اُسْوَۃ حَسَنَۃ فِيْ اِبْرَاہِيْمَ وَ الَّذِيْنَ
-مَعَہ
-  </p>
-</blockquote>
+> قَدْ کَانَتْ لَکُمْ اُسْوَۃ حَسَنَۃ فِيْ اِبْرَاہِيْمَ وَ الَّذِيْنَ
+> مَعَہ
 
 ***Abraham and his followers are best of role models for you
 believers.***
 
-<blockquote dir="rtl">
-  <p>
-اِذْ قَالُوْا لِقَوْمِہِمْ اِنَّا بُرَئٰوُا مِنْکُمْ وَ مِمَّا
-تَعْبُدُوْنَ مِنْ دُوْنِ الله
-  </p>
-</blockquote>
+> اِذْ قَالُوْا لِقَوْمِہِمْ اِنَّا بُرَئٰوُا مِنْکُمْ وَ مِمَّا
+> تَعْبُدُوْنَ مِنْ دُوْنِ الله
 
 ***When he told his people, "We loathe you and everything that you
 worship other than God."***
 
-<blockquote dir="rtl">
-  <p>
-کَفَرْنَا بِکُمْ وَ بَدَا بَيْنَنَا وَ بَيْنَکُمُ الْعَدَاوَۃُ وَ
-الْبَغْضَآئُ اَبَدًا
-  </p>
-</blockquote>
+> کَفَرْنَا بِکُمْ وَ بَدَا بَيْنَنَا وَ بَيْنَکُمُ الْعَدَاوَۃُ وَ
+> الْبَغْضَآئُ اَبَدًا
 
 ***We have denied you and malice and enmity between us have become
 evident.***
 
-<blockquote dir="rtl">
-  <p>
-حَتّٰي تُومِنُوْا بِاِ الله وَحْدَہ
-  </p>
-</blockquote>
+> حَتّٰي تُومِنُوْا بِاِ الله وَحْدَہ
 
 ***Until you believe in one God.***
 
-<blockquote dir="rtl">
-  <p>
-اِلَّا قَوْلَ اِبْرَاہِيْمَ لِاَبِيْہِ
-  </p>
-</blockquote>
+> اِلَّا قَوْلَ اِبْرَاہِيْمَ لِاَبِيْہِ
 
 ***Except what Abraham told his uncle***[^10]***.***
 
 This was an exception where Abraham did not completely disconnect from
 the infidels. This exception was when he told his uncle:
 
-<blockquote dir="rtl">
-  <p>
-لاَاسْتَغْفِرَنَّ
-  </p>
-</blockquote>
+> لاَاسْتَغْفِرَنَّ
 
 ***I will pray for your atonement.***
 
-<blockquote dir="rtl">
-  <p>
-ومَآ اَمْلِکُ لَکَ مِنَ الله مِنْ شَيْئٍ
-  </p>
-</blockquote>
+> ومَآ اَمْلِکُ لَکَ مِنَ الله مِنْ شَيْئٍ
 
 ***I have received no means from God to defend you with.***
 
@@ -921,13 +781,9 @@ uncle. No, such is not the case. I cannot take you to heaven. I can
 beseech to God for you that He may forgive your sins and you become a
 believer.
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا عَلَيْکَ تَوَکَّلْنَا وَ اِلَيْکَ اَنَبْنَا وَ اِلَيْکَ
-الْمَصِيْرُ۔ رَبَّنَا لااَ تَجْعَلْنَا فِتْنَۃً لِّلَّذِيْنَ کَفَرُوْا
-وَ اغْفِرْ لَنَا رَبَّنَا اِنَّکَ اَنْتَ الْعَزِيْزُ الْحَکِيْم
-  </p>
-</blockquote>
+> رَبَّنَا عَلَيْکَ تَوَکَّلْنَا وَ اِلَيْکَ اَنَبْنَا وَ اِلَيْکَ
+> الْمَصِيْرُ۔ رَبَّنَا لااَ تَجْعَلْنَا فِتْنَۃً لِّلَّذِيْنَ کَفَرُوْا
+> وَ اغْفِرْ لَنَا رَبَّنَا اِنَّکَ اَنْتَ الْعَزِيْزُ الْحَکِيْم
 
 **He prayed,** ***"Our Lord! in Thee do we trust, and to Thee do we turn
 in repentance; to Thee is our final goal. Our Lord! make us a not a
@@ -938,28 +794,16 @@ These were the supplications of Abraham.
 
 Then the Glorious Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ کَانَ لَکُمْ فِيْہِمْ اُسْوَۃ حَسَنَۃ
-  </p>
-</blockquote>
+> لَقَدْ کَانَ لَکُمْ فِيْہِمْ اُسْوَۃ حَسَنَۃ
 
 ***For you believers Abraham and his followers are best of role
 models.***
 
-<blockquote dir="rtl">
-  <p>
-لِّمَنْ کَانَ يَرْجُوا الله وَ الْيَوْمَ الْاٰخِر
-  </p>
-</blockquote>
+> لِّمَنْ کَانَ يَرْجُوا الله وَ الْيَوْمَ الْاٰخِر
 
 ***For those who have hope in God and the Day of the Judgment.***
 
-<blockquote dir="rtl">
-  <p>
-وَ مَن يَتَوَلَّ فَاِنَّ الله ہُوَ الْغَنِيُّ الْحَمِيْدُ
-  </p>
-</blockquote>
+> وَ مَن يَتَوَلَّ فَاِنَّ الله ہُوَ الْغَنِيُّ الْحَمِيْدُ
 
 ***And for the one who disobeys, turns away from the Word of the Lord
 and is neglectful, God is independent and praiseworthy and no harm will
@@ -970,11 +814,7 @@ defiled and no harm will be done to the Lord. You should keep in mind
 this sentence of Abraham. Abraham and his companions told the infidels
 and the misguided of the time:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّابُرَئٰوُا مِنْکُمْ
-  </p>
-</blockquote>
+> اِنَّابُرَئٰوُا مِنْکُمْ
 
 ***We are disgusted with you.***
 
@@ -997,12 +837,8 @@ Prophet.
 Yahya Ibn Umme Tavil used to stand in front of such people and repeat
 this Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
-کَفَرْنَا بِکُمْ وَ بَدَا بَيْنَنَا وَ بَيْنَکُمُ الْعَدَاوَۃُ وَ
-الْبَغْضَآئُ
-  </p>
-</blockquote>
+> کَفَرْنَا بِکُمْ وَ بَدَا بَيْنَنَا وَ بَيْنَکُمُ الْعَدَاوَۃُ وَ
+> الْبَغْضَآئُ
 
 ***We have turned away from you and malice and animosity have become
 apparent between you and us.***
@@ -1017,12 +853,8 @@ enemy due to greed or fear, he stepped out of the Wilayat of Imam
 Sajjad. He was no longer a part of Imam Sajjad's group. So a close pupil
 of Imam Sajjad told these people:
 
-<blockquote dir="rtl">
-  <p>
-کَفَرْنَا بِکُمْ وَ بَدَا بَيْنَنَا وَ بَيْنَکُمُ الْعَدَاوَۃُ وَ
-الْبَغْضَآئُ
-  </p>
-</blockquote>
+> کَفَرْنَا بِکُمْ وَ بَدَا بَيْنَنَا وَ بَيْنَکُمُ الْعَدَاوَۃُ وَ
+> الْبَغْضَآئُ
 
 ***We have turned away from you and malice and animosity have become
 evident between you and us.***
@@ -1059,5 +891,4 @@ of Abraham or his mother's husband; in any case this person addressed
 here was Azer.
 
 [^11]: Ch. 60 Mumtahina, verses 4-5.
-
 

@@ -17,7 +17,6 @@ and refrain from any elaborate discussion. Because, if we were to
 comment on every sentence of the Nahj al-balaghah, the result will be,
 as is said: My mathnawi requires seventy maunds of paper.
 
-
 **The Divine Essence**
 
 Does the Nahj al-balaghah have anything to say about the Divine Essence
@@ -153,5 +152,4 @@ philosophy. There is no trace of this profound concept in the writings
 of the early Islamic philosophers like al Farabi and Ibn Sina. Only the
 later philosophers ushered this concept into their philosophic thinking
 calling it "Really True Unity," in their terminology.
-
 

@@ -422,4 +422,3 @@ experience. The Qur’an also hints at this fact when it says: "When they
 others, 'Enter your dwellings lest you be carelessly crushed by Sulayman
 and his army." (Surah an-Naml, 27:18)
 
-

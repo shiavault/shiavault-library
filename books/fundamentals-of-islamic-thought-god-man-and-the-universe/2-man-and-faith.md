@@ -1682,4 +1682,3 @@ and in their souls, until it grows clear to them that this is the Truth”
 [^29]: Immanuel Kant, Critique of Pure Reason (Indianapolis, 1956),
 conclusion.
 
-

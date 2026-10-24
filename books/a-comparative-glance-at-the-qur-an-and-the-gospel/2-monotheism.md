@@ -375,4 +375,3 @@ smallest part of a letter of the Law (The Torah) to become invalid... ."
 about Me. But if you do not believe his writings, how will you believe
 My teachings?" (John 5:46)
 
-

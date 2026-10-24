@@ -231,4 +231,3 @@ Zakariyya ibn Adam, 73
 
 *zakat*, 60
 
-

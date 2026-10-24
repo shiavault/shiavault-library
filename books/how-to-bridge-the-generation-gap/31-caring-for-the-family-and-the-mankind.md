@@ -44,4 +44,3 @@ or part of a day, but ask those who keep accounts.” (The Holy Qur'an 23:
 
 [^3]: In Search of Happiness, pp. 107, 139
 
-

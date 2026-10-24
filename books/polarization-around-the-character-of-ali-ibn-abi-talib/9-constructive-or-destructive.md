@@ -205,4 +205,3 @@ and compassion. (ar-Rum, 30:21 ) وَمِنْ آيَاتِهِ مَنَامُك�
 
 [^4]: . ibid. Translated from the Persian, original untraced.
 
-

@@ -425,4 +425,3 @@ or as the need stood. They justified; they interpreted; and they
 expounded God's laws; and had it been possible they would have even
 questioned the very text of the Holy Quran.
 
-

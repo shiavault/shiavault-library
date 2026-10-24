@@ -212,7 +212,5 @@ verse of the Holy Qur'an. It is known as the verse of "Perfection of
 Religion and Completion of Divine Favour", that is,
 "Ayat-e-Takmeele-deen wa Itmam-eNe'mat."
 
-
 Rukhsana Mushtaq (Pakistan)
-
 

@@ -771,4 +771,3 @@ supplications are not accepted. His desires are not fulfilled and Allah
 
 [^34]: Layali al-Akhbar
 
-

@@ -42,4 +42,3 @@ the matter becomes clear.”[^2]
 
 [^2]: Al-Ghaibah, Pg. 81
 
-

@@ -333,4 +333,3 @@ No'maniah).
 
 [^8]: Tarikh A'tham Kufi, p. 131, printed Dehli
 
-

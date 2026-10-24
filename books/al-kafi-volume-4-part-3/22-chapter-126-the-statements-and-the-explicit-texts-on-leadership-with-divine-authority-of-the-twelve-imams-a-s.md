@@ -490,7 +490,6 @@ They are all like me except prophet-hood. Repent before Allah because
 of what you involvement in what you are involved. You have no right in
 it." The narrator has said that then he went and was not seen around."
 
-
 14
 
 Abu Ali al-Ash'ari has narrated from 'Ubaydallah from al-Hassan ibn
@@ -587,5 +586,4 @@ ones to whom angels speak)." Abu Basir then said, "Did you hear abu
 'Abdallah (a.s.) say so? He made him to swear one or twice that he has
 heard so. Abu Basir then said, "However, I have heard it from abu Ja'far
 (a.s.)."
-
 

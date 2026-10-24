@@ -779,4 +779,3 @@ Sunnat
 
 [^27]: The greatest discriminator of truth and falsehood
 
-

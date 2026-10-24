@@ -283,4 +283,3 @@ the end of his journey and on the place of his (eventual) return.”[^24]
 
 [^24]: Nahj al-Balaghah, p. 1181
 
-

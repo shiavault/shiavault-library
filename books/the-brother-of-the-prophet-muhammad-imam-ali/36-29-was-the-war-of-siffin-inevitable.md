@@ -588,4 +588,3 @@ part 5 pp.413-414.
 
 [^25]: Al-Imam ‘Ali Nahjul-Balaghah part 1 p.94.
 
-

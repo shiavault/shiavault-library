@@ -1038,4 +1038,3 @@ about explaining the maddah, i.e. the lengthening of certain words, the
 doubling of letters, the diacritical marks of vowelling and the pause,
 that the difficulty of reading script was finally removed.
 
-

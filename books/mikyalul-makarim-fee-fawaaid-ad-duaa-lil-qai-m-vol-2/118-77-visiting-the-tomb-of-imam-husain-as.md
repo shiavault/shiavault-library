@@ -114,4 +114,3 @@ not seen at home for the rest of his life…[^7]
 
 [^7]: Kaamiluz Ziaraat, Pg. 297, Tr. no. 15
 
-

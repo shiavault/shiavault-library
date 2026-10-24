@@ -143,4 +143,3 @@ Unfortunately, Fatima az-Zahra (sa) was neither given the chance to
 teach us, nor did she live more than twenty years, as you will come to
 know.
 
-

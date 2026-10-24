@@ -1036,4 +1036,3 @@ mentioned eighty nine ways from Sunnis and forty three times from Shi’a.
 
 [^22]: The direction of prayer i.e. Holy Mecca [Tr].
 
-

@@ -1,12 +1,8 @@
 Section Ten
 ===========
 
-<blockquote dir="rtl">
-  <p>
-وَلَعَنَ اللّهُ آلَ زِيادٍ وَآلَ مَرْوانَ، وَلَعَنَ اللّهُ بَنِي
-أُمَيَّةَ قاطِبَةً
-  </p>
-</blockquote>
+> وَلَعَنَ اللّهُ آلَ زِيادٍ وَآلَ مَرْوانَ، وَلَعَنَ اللّهُ بَنِي
+> أُمَيَّةَ قاطِبَةً
 
 “May the curse of Allah be upon the family of Ziyad and the family of
 Marwan and may the curse of Allah be upon Bani Umayyah.”
@@ -49,5 +45,4 @@ tyranny and oppression against the Prophet and the first 6 Imams.
 Insha-Allah, during this exposition, more light will be shed on the
 polluted tree of the Bani Umayyah and the evils which they wreaked on
 the Muslim society.
-
 

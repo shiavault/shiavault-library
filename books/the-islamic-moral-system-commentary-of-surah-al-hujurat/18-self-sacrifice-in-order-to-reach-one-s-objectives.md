@@ -3,13 +3,9 @@ Self-Sacrifice in Order to Reach One’s Objectives
 
 ( Verse 15 )
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللٌّهِ وَرَسُولِهِ ثُمَّ
-لَمْ يَرْتٌابُوا وَجٌاهَدُوا بِأَمْوٌالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ
-اللٌّهِ أُوْلٌئِكَ هُمُ الصٌّادِقُونَ
-  </p>
-</blockquote>
+> إِنَّمٌا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللٌّهِ وَرَسُولِهِ ثُمَّ
+> لَمْ يَرْتٌابُوا وَجٌاهَدُوا بِأَمْوٌالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ
+> اللٌّهِ أُوْلٌئِكَ هُمُ الصٌّادِقُونَ
 
 **“*****Without doubt the true believers are only those who have faith
 in Allah and His Messenger (Muhammad) and then do not change their
@@ -39,11 +35,7 @@ design of this verse is to explain some of the signs of a person of true
 faith, however in reality it explains the causes why the tribe of Bani
 Asad must say:
 
-<blockquote dir="rtl">
-  <p>
-أَسْلَمْنٌا وَ لَمٌّا يَدْخُلِ الإِيْمٌانُ فِي قُلُوبِكُمْ
-  </p>
-</blockquote>
+> أَسْلَمْنٌا وَ لَمٌّا يَدْخُلِ الإِيْمٌانُ فِي قُلُوبِكُمْ
 
 ***“(Rather say) that we submit (as Muslims) since true faith has not
 yet entered into your hearts.”***
@@ -299,5 +291,4 @@ Page 121.
 Page 251.
 
 [^5]: Surah al-Hujurat (49), Verse 15 [Verse Under Discussion].
-
 

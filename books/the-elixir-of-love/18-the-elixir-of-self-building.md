@@ -10,12 +10,8 @@ except God is broken off.
 In the Whispered Prayer of lovers, which is attributed to Imam Zayn
 al-'Abidin (a), we read:
 
-<blockquote dir="rtl">
-  <p>
-"الهي من ذا الذي ذاق حلاوة محبتك فرام منك بدلا ومن الذي الذي انس بقربك
-فابتغى عنك حولا"
-  </p>
-</blockquote>
+> "الهي من ذا الذي ذاق حلاوة محبتك فرام منك بدلا ومن الذي الذي انس بقربك
+> فابتغى عنك حولا"
 
 "My God, who can have tasted the sweetness of Thy love, then wanted
 another in place of thee? Who can have become intimate with Thy
@@ -26,12 +22,8 @@ It closes the door of heart to everything other than the beloved.'
 
 And in a *hadith* attributed to Imam al-Sadiq (a), we read:
 
-<blockquote dir="rtl">
-  <p>
-"حب الله إذا أضاء على سر عبد أخلاه عن كل شاغل، وكل ذكر سوى الله ظلمة،
-والمحب أخلص الناس سراُ لله تعالى، وأصدقهم قولاٌ، وأوفاهم عهداُ"
-  </p>
-</blockquote>
+> "حب الله إذا أضاء على سر عبد أخلاه عن كل شاغل، وكل ذكر سوى الله ظلمة،
+> والمحب أخلص الناس سراُ لله تعالى، وأصدقهم قولاٌ، وأوفاهم عهداُ"
 
 "When the radiance of love of God shines on the heart of a devoted
 person, it delivers him from any other preoccupation; anything but
@@ -45,11 +37,7 @@ highest stage the eye of heart enlightens by the light of meeting with
 Allah and man attains the highest degree of monotheism, which is the
 status of *ulu 'l* *'ilm.* We read in *Munajat-i Sha'baniyya:*
 
-<blockquote dir="rtl">
-  <p>
-"الهي هب لي كمال الاننقطاع اليك وأنر أبصار قلوبنا بضياء نظرها اليك"
-  </p>
-</blockquote>
+> "الهي هب لي كمال الاننقطاع اليك وأنر أبصار قلوبنا بضياء نظرها اليك"
 
 "My lord! Grace me with the highest stage of detachment (from all
 things) toward Yourself, and enlighten the eyes of our hearts with the
@@ -67,11 +55,7 @@ nothing.
 
 Then, in a spiritual state I was graced with the verse,
 
-<blockquote dir="rtl">
-  <p>
-(من كان يريد العزة فلله العزة جميعا)
-  </p>
-</blockquote>
+> (من كان يريد العزة فلله العزة جميعا)
 
 (If any do seek for glory and power-to Allah belong all glory and power)
 (Fatir: 10). I said I wanted the science of alchemy. I was told (by
@@ -93,11 +77,7 @@ Sometimes the Shaykh would recite the following statement from the
 supplication of *'Arafah* to his friends in respect to the above
 verdict:
 
-<blockquote dir="rtl">
-  <p>
-"ماذا وجد من فقدك ومالذي فقد من وجدك."
-  </p>
-</blockquote>
+> "ماذا وجد من فقدك ومالذي فقد من وجدك."
 
 "The one who has not found (known) You, what has he found? And the one
 who has found you; what has he not found?"
@@ -106,11 +86,7 @@ Imam al-Sajjad (a) has made an interesting reference to the elixir of
 love of God at the ending part of the supplication of *Makarim
 al-Akhlaq* (Noble Moral Traits).
 
-<blockquote dir="rtl">
-  <p>
-"وانهج لي الى محبتك سبيلا سهلة أكمل لي بها خير الدنيا والآخرة"
-  </p>
-</blockquote>
+> "وانهج لي الى محبتك سبيلا سهلة أكمل لي بها خير الدنيا والآخرة"
 
 "...Open a smooth road for me to Thy love, and complete for me thereby
 the good of this world and the next."[^3]
@@ -211,19 +187,11 @@ Sometimes, he would say:
 "While you are in need of God, He is in love with you!" We read in a
 *Hadith-i Qudsi* (Divine tradition):
 
-<blockquote dir="rtl">
-  <p>
-"يا ابن آدم! إني أحبك فأنت أيضا أحببني"
-  </p>
-</blockquote>
+> "يا ابن آدم! إني أحبك فأنت أيضا أحببني"
 
 "O son of Adam! I love you, So, you love Me you, too."[^4]
 
-<blockquote dir="rtl">
-  <p>
-"عبدي! أنا وحقي لكَ محبٌّ، فبحقي عليكَ كن لي محباُ"
-  </p>
-</blockquote>
+> "عبدي! أنا وحقي لكَ محبٌّ، فبحقي عليكَ كن لي محباُ"
 
 "My servant! I swear by My right that I love you, so, do love Me by my
 right over you!"[^5]
@@ -301,11 +269,7 @@ Yusuf).'
 
 Imam al-Hasan al-Mujtaba (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"من عَرف الله أحبه"
-  </p>
-</blockquote>
+> "من عَرف الله أحبه"
 
 "Every one who knows God will love Him.'[^10]
 
@@ -316,11 +280,7 @@ The reverend Shaykh said: "The main point here is that unless man
 attains intuitive knowledge toward God, he will not fall in love (with
 Him). If he gains the knowledge, he sees all goodness is gathered in God
 
-<blockquote dir="rtl">
-  <p>
-(ءالله خير أمّا يشركون)
-  </p>
-</blockquote>
+> (ءالله خير أمّا يشركون)
 
 ((Who) is better? Allah or the false gods they associate (with Him)?)
 (al-Naml: 59)); in this case it is unlikely that he pays attention to
@@ -330,11 +290,7 @@ The Holy Qur'an names two groups whose knowledge toward the Exalted and
 Almighty God is of the intuitive type: One is "the angels", and the
 other is "those endowed with knowledge":
 
-<blockquote dir="rtl">
-  <p>
-(شهد الله أنه لآ إله إلا هو والملئكة وأولو العلم)
-  </p>
-</blockquote>
+> (شهد الله أنه لآ إله إلا هو والملئكة وأولو العلم)
 
 (There is no god but He: that is the witness of Allah, His angels and
 those endowed with knowledge.) (Ale 'Imran: 18)
@@ -343,15 +299,11 @@ Imam Ali (a) is quoted as saying about the sweetness of His knowledge
 and the satiating cup of His love enjoyed by the first group, i. e., the
 angels:
 
-<blockquote dir="rtl">
-  <p>
-"ثم خلق سبحانه لإسكان سماواته وعمارة الصفيح الأعلى من ملكوته خلقا
-بديعا من ملائكنه .. قد استفرغنهم اشغال عبادته ووصلت حقائق الايمان
-بينهم وبين معرفته وقطعهم الايقان به الى الوله اليه، ولم تجاوز رغباتهم
-ما عنده الى ما عند غيره، قد ذاقوا حلاوة معرفته، وشربوا بالكأس الروية
-من محبته"
-  </p>
-</blockquote>
+> "ثم خلق سبحانه لإسكان سماواته وعمارة الصفيح الأعلى من ملكوته خلقا
+> بديعا من ملائكنه .. قد استفرغنهم اشغال عبادته ووصلت حقائق الايمان
+> بينهم وبين معرفته وقطعهم الايقان به الى الوله اليه، ولم تجاوز رغباتهم
+> ما عنده الى ما عند غيره، قد ذاقوا حلاوة معرفته، وشربوا بالكأس الروية
+> من محبته"
 
 "Then Allah, the Glorified, created for inhabiting His skies and
 populating the higher strata of His realm new variety of creatures
@@ -369,12 +321,8 @@ To attain intuitive knowledge, there is no way other than cleansing the
 stains of unseemly deeds off the heart's mirror. Imam al-Sajjad (a) has
 said in a supplication quoted by Abu Hamza Thumali:
 
-<blockquote dir="rtl">
-  <p>
-"وأن الراحل اليك قريب المسافة وأنك لا تحتجب عن خلقك الا ان تحجبهم
-الأعمال دونك"
-  </p>
-</blockquote>
+> "وأن الراحل اليك قريب المسافة وأنك لا تحتجب عن خلقك الا ان تحجبهم
+> الأعمال دونك"
 
 "The seeker after You has a near distance to You. And verily, You are
 not veiled from Your creatures unless (unseemly) deeds veil You from
@@ -404,33 +352,21 @@ gains and pleasures make man farther distant from God.
 
 The Holy Prophet (s) has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-"حب الدنيا وحب الله لايجتمعان في قلبٍ أبداٌ"
-  </p>
-</blockquote>
+> "حب الدنيا وحب الله لايجتمعان في قلبٍ أبداٌ"
 
 The love of the world and love of God never meet in a single
 heart."[^13]
 
 Imam Ali (a) also said in this respect:
 
-<blockquote dir="rtl">
-  <p>
-"كما ان الشمس والليل لايجتمعان، كذلك حب الله وحب الدنيا لايجتمعان"
-  </p>
-</blockquote>
+> "كما ان الشمس والليل لايجتمعان، كذلك حب الله وحب الدنيا لايجتمعان"
 
 "As the sun and the (darkness of the) night do not meet, neither do the
 love of God and the love of the world (ever) meet."[^14]
 
 He said in another *hadith:*
 
-<blockquote dir="rtl">
-  <p>
-"كيف يدعي حب الله من سكن قلبه حب الدنيا؟!"
-  </p>
-</blockquote>
+> "كيف يدعي حب الله من سكن قلبه حب الدنيا؟!"
 
 "How may a person claim (boast of) love of God, whereas love of the
 world has nestled in his heart?"[^15]
@@ -447,15 +383,11 @@ Who is there in the way of who lies not such a snare of tribulation?"
 Actualy, the Shaykh had adopted this comparison from the following
 *hadith:*
 
-<blockquote dir="rtl">
-  <p>
-"ان عيسى بن مريم – عليه السلام- كوشف بالدنيا فرآها في صورة عجوز هتماء،
-عليها من كل زينة فقال لها: كم تزوجت؟ قالت: لا أحصيهم. قال: وكلهم ماتوا
-او كلهم طلّقوك؟ قالت: بل كلهم قتلت. فقال عيسى –ع- بؤسا لازواجك
-الباقين، كيف لايعتبرون بازواجك الماضين؟ كيف تهلكينهم واحدا واحدا ولا
-يكونوا منك على حذر؟"
-  </p>
-</blockquote>
+> "ان عيسى بن مريم – عليه السلام- كوشف بالدنيا فرآها في صورة عجوز هتماء،
+> عليها من كل زينة فقال لها: كم تزوجت؟ قالت: لا أحصيهم. قال: وكلهم ماتوا
+> او كلهم طلّقوك؟ قالت: بل كلهم قتلت. فقال عيسى –ع- بؤسا لازواجك
+> الباقين، كيف لايعتبرون بازواجك الماضين؟ كيف تهلكينهم واحدا واحدا ولا
+> يكونوا منك على حذر؟"
 
 "The reality of the world was revealed to Jesus (a). He saw it as an old
 woman (hag) that had lost all her teeth and had all (types of) ornaments
@@ -627,16 +559,12 @@ At the peak of his God-Seeking, man worships God on the basis of
 affection rather than out of desire for the Paradise or fear of the
 Hell; the same way as Imam al-Sadiq (a) said about his own worship:
 
-<blockquote dir="rtl">
-  <p>
-"ان الناس يعبدون الله عز وجل على ثلاثة أوجه: فطبقة يعبدونه رغبة في
-ثوابه فتلك عبادة الحرصاء وهو الطمع، وآخرون يعبدونه فرقا من النار فتلك
-عبادة العبيد وهي الرهبة، ولكني أعبده حبا له عز وجل فتلك عبادة الكرام
-وهو الأمن، لقوله عز وجل: (وهم من فزع يومئذ آمنون) ولقوله عز وجل: (قل
-ان كنتم تحبون الله ..) فمن أحب الله أحبه الله عز وجل، ومن أحبه الله عز
-وجل كان من الآمنين".
-  </p>
-</blockquote>
+> "ان الناس يعبدون الله عز وجل على ثلاثة أوجه: فطبقة يعبدونه رغبة في
+> ثوابه فتلك عبادة الحرصاء وهو الطمع، وآخرون يعبدونه فرقا من النار فتلك
+> عبادة العبيد وهي الرهبة، ولكني أعبده حبا له عز وجل فتلك عبادة الكرام
+> وهو الأمن، لقوله عز وجل: (وهم من فزع يومئذ آمنون) ولقوله عز وجل: (قل
+> ان كنتم تحبون الله ..) فمن أحب الله أحبه الله عز وجل، ومن أحبه الله عز
+> وجل كان من الآمنين".
 
 "In worship of the Almighty and Glorious God, people are in three
 groups: one group worship Him for reward, which is the worship of the
@@ -727,23 +655,15 @@ Interpreting the verse: (الا من أتى الله بقلب سليم)(But only
 prosper) that brings to Allah a sound heart) (al-Shu'ara': 89), the holy
 Imam (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"هو القلب الذي سَلِمَ من الدنيا"
-  </p>
-</blockquote>
+> "هو القلب الذي سَلِمَ من الدنيا"
 
 "That is a heart which is pure from (impurity) of the love of the
 profane desires."[^23]
 
 In another *hadith,* the holy Imam (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"القلب السليم الذي يلقى ربه وليس فيه أحد سواه، وكل قلبٍ فيه شرك أو شك
-فهو ساقط"
-  </p>
-</blockquote>
+> "القلب السليم الذي يلقى ربه وليس فيه أحد سواه، وكل قلبٍ فيه شرك أو شك
+> فهو ساقط"
 
 "A submissive and pure heart is one that meets the Lord while there is
 nothing in it other than Him; and every heart in which there is
@@ -820,12 +740,8 @@ especially the oppressed and the ones stuck in a plight.
 
 The Holy Prophet (s) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-"الخلق عيال الله فأحب الخلق الى الله من نفع عيال الله وأدخل على أهل
-بيتٍ سروراٌ"
-  </p>
-</blockquote>
+> "الخلق عيال الله فأحب الخلق الى الله من نفع عيال الله وأدخل على أهل
+> بيتٍ سروراٌ"
 
 "People are the family of God; the most favorite person with God is the
 one who is the most beneficial to the family of God and who makes them
@@ -838,12 +754,8 @@ replied: 'The one who is the most beneficial to the people.[^27]
 It is also related in another *hadith* that the Almighty God told the
 Holy Prophet (s) on the eve of Ascension (Mi'raj):
 
-<blockquote dir="rtl">
-  <p>
-"يا أحمد! محبتي محبة الفقراء، فأدْن الفقراء وقرب مجلسهم منك... فان
-الفقراء أحبائي"
-  </p>
-</blockquote>
+> "يا أحمد! محبتي محبة الفقراء، فأدْن الفقراء وقرب مجلسهم منك... فان
+> الفقراء أحبائي"
 
 "O Ahmad (Muhammad (s))! Loving me is to love the poor; so draw the poor
 near to yourself and go to their gatherings, for the poor are My
@@ -970,5 +882,4 @@ from Me! -al-Mawa'iz al-Adadiyah, 420."
 [^27]: Ibid. 164: 7.
 
 [^28]: Irshad al-Qulub, 199.
-
 

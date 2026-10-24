@@ -217,4 +217,3 @@ to have a stick in the hand for threatening or punishing people As a
 matter of fact, it was Omar ibn al- Khattab who used to have a stick in
 the hand about which tens of narrations were reported.)) The Translator
 
-

@@ -458,4 +458,3 @@ Husayn.
 [^37]: Here there is a pun between the words for promise, payman, and
 for measure, paymaneh, which indicates the cup.
 
-

@@ -23,4 +23,3 @@ follow it, itself, so they would always be singular and masculine, or to
 follow its meaning, for example:**رأیتُ من** **النساءِ مَن تَجَمَّلنَ**
 **بالحِکمَة.**
 
-

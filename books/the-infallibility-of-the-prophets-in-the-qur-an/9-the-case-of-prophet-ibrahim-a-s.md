@@ -137,4 +137,3 @@ other hand, we see that Ibrahim, at the last stage of his life, prays
 for his “walid,” a word that is used for the real father. See verse
 14:41.
 
-

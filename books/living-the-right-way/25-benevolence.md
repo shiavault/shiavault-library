@@ -39,4 +39,3 @@ double-tongued: they who praise their brethren in their presence and
 backbite them in their absence; they who envy their brethren for their
 favours and abase them in their afflictions.”*
 
-

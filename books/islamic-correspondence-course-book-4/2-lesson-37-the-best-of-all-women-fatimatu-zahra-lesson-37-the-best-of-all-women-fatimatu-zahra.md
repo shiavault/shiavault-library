@@ -251,4 +251,3 @@ This lesson has been written by Sayyid M. Rizvi.
 Sources used for this lesson are: 1. Bdnu-e Banuiuan of Dar Rah-e Haq.
 2. Sahih al-Bukhari. 3. Fatimatu ‘z-Zahra’ of S. M. Kazim al-Qazwini.
 
-

@@ -96,4 +96,3 @@ foreign exploiters and in addition to it that their national feelings
 were also trampled upon. Unfortunately those customs linger in many
 places of the world.
 
-

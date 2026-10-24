@@ -147,4 +147,3 @@ mothers’*
 
 [^2]: Wasail al-shia, v 19, p. 169
 
-

@@ -9,4 +9,3 @@ imperative tenses and are joined by personal pronouns in the single,
 dual and plural forms. The verb is then conjugated into the nominative,
 subjunctive and jussive cases.
 
-

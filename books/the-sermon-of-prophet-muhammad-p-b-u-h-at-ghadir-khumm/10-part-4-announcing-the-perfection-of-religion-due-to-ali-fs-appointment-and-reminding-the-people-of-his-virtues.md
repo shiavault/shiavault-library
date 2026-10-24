@@ -137,4 +137,3 @@ that path.پh (Bihar al-Anwar, vol. 24, p. 215, Hadith 4).
 time of death, this verse implies that one should always be in the state
 of submission.
 
-

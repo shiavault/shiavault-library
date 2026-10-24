@@ -479,4 +479,3 @@ defendant, Yazid ibn Muawiya.
 Chief Justice: The court will now be dismissed and will resume tomorrow
 morning at 10AM sharp. Court is dismissed…..
 
-

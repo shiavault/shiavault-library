@@ -700,4 +700,3 @@ al-Islam), Sermon 207.
 Malik al-Ashtar with respect to Imam ‘Ali (‘a), see Nahj al-Balaghah
 (Faydh al-Islam), Letter 38 and Saying 435.
 
-

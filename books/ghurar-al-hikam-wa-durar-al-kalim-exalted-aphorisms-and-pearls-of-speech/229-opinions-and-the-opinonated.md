@@ -8,11 +8,7 @@ safe; avoid entering into that which does not concern you and you will
 be honoured.
 
 > 1ـ اُقْصُرْ رَأيَكَ على ما يَلْزَمُكَ تَسْلَمْ، وَدَعِ الخَوضَ فيما
-<blockquote dir="rtl">
-  <p>
-لايَعنيكَ تَكْرُمْ.
-  </p>
-</blockquote>
+> لايَعنيكَ تَكْرُمْ.
 
 2. Churn the opinion [like] the churning of a water-skin, and the
 outcome will be the most pertinent of opinions.
@@ -164,11 +160,7 @@ opinionated is destroyed.
 perceived by sight nor penetrated by thought.
 
 > 34ـ لاتَسْتَعْمِلُوا الرَّأيَ فيما لايُدْرِكُهُ البَصَرُ،
-<blockquote dir="rtl">
-  <p>
-ولاتَتَغَلْغَلُ فيهِ الفِكَرُ.
-  </p>
-</blockquote>
+> ولاتَتَغَلْغَلُ فيهِ الفِكَرُ.
 
 35. One who is not obeyed has no opinion.
 
@@ -216,5 +208,4 @@ an abyss.
 
 [^1]: Literally translated as: one who stubbornly holds on to his own
 opinion without considering the opinions of others.
-
 

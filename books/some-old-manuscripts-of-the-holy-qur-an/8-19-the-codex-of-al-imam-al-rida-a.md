@@ -27,7 +27,6 @@ collection of the Astaneh-ye Quds-e Radawi, the Iran Bastan Museum, the
 museum of the shrine at Qumm, the library and museum of Shiraz and
 Kitabkhanehye Waziri at Yazd, as well as several libraries abroad.
 
-
 **20. Specimens in Kufic Pertaining to the 2nd to 4th Centuries**
 
 The codex numbered 11 at the Astaneh-ye Quds-e Radawi is' one such
@@ -115,5 +114,4 @@ onwards are so numerous that their description would virtually take a
 voluminous work. If life and leisure provide the opportunity, we shall
 give a summary of the same in a later article with the help of the
 Almighty; great are His bounties, insha 'Allah ta'ala.
-
 

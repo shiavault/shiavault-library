@@ -21,7 +21,6 @@ be found right in your own body." Jihad al-asghar means subduing anyone
 who is opposed to justice and equity, peace and humanity, and religion
 and reality.
 
-
 **7. Amr Bi 'l-ma 'Ruf and Nahy 'ani'l-munkar**
 
 (The enjoining of good and the prevention of evil)
@@ -58,5 +57,4 @@ research further on this topic in numerous books written by 'ulama'
 belonging to the period ranging from the first century A.H. till the
 present time. Countless fine works of research are still available
 despite the attempt in past centuries to destroy any trace of them.
-
 

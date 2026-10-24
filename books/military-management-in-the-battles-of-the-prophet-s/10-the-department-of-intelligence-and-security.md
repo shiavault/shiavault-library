@@ -3952,4 +3952,3 @@ al-Nās 2:318
 
 [^734]: Abu Dāwud (al-Jihād 233); Wāqidi 3:1057; Ibn Sa’d 2:120
 
-

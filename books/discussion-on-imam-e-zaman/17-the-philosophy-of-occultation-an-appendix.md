@@ -430,4 +430,3 @@ right in the beginning that only Allah knows the real objective behind
 occultation and we have no right to intervene in His tasks. “For surely
 knowledge is with Allah.”
 
-

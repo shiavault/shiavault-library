@@ -71,4 +71,3 @@ nine, for example: **خمسة عَشَرَ** **قَلماً.**
 genitive case after a number between three and ten, where in this case
 it is plural, as you have seen.
 
-

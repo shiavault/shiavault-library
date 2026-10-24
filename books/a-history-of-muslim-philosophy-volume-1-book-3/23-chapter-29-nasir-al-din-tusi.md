@@ -943,4 +943,3 @@ brain, and recollection (tadhakkur) in the rear verticle of the brain.
 
 [^52]: Afnan, op.cit., p.101.
 
-

@@ -1,13 +1,9 @@
 14. Increase in Life and Livelihood 
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): مَنْ أَحَبَّ أَنْ يَمُدُّ لَهُ عُمْرَهُ وَ
-أَنْ يَزْدَادُ فِي رِزْقِهِ فَلْـيَبِرْ وَالِدَيْهِ وَ لْـيَصِلْ
-رَحِمَهُ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): مَنْ أَحَبَّ أَنْ يَمُدُّ لَهُ عُمْرَهُ وَ
+> أَنْ يَزْدَادُ فِي رِزْقِهِ فَلْـيَبِرْ وَالِدَيْهِ وَ لْـيَصِلْ
+> رَحِمَهُ.
 
 The Messenger of Allah (peace be upon him and his family) said: “One who
 desires a long life and an increase in livelihood should exhibit
@@ -17,5 +13,4 @@ relatives).”
  Kanzul \`Ummal, Volume 16, Page 475  
     
   
-
 

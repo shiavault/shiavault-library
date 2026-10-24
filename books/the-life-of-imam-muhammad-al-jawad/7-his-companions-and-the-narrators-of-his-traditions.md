@@ -1924,4 +1924,3 @@ Abdullah al- Aftah.
 
 [^222]: Ibid.
 
-

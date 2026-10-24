@@ -153,4 +153,3 @@ by Allah and the curse of cursors be upon them."
 All the hopes are reposed in the day when Hazrat Mahdi (A.S.) will
 reappear and reform the distortions and misguided men.
 
-

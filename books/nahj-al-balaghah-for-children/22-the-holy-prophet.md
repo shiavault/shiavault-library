@@ -39,4 +39,3 @@ and patched his clothes himself.
 
 (Sermon 160)
 
-

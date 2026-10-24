@@ -328,4 +328,3 @@ should not be doubted."
 And we know that the Book of God is the one on which all the Islamic
 scholars agree.
 
-

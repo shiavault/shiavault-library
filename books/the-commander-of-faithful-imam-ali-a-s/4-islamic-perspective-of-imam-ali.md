@@ -484,4 +484,3 @@ singled out their importance in the advance of the Caliphate. He once
 said to him, "I take refuge in Allah from having to live in a community
 where you are not there, O Abul- Hasan!"(99)
 
-

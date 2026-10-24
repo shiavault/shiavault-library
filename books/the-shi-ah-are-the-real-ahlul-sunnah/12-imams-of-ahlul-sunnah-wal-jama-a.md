@@ -294,4 +294,3 @@ him of killing Uthman ibn Affan.
 
 [^8]: Ibid., Vol. 1, p. 82.
 
-

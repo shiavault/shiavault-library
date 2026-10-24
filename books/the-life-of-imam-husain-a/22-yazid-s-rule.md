@@ -54,7 +54,7 @@ Know that, Amirul Momineen (Muawiyah)  
 ------------------------------------------------------------------------
 
 **[1]** *Al-Futuh* 4/265  
- **[2]** Dhahabi, *Tarikh Islam* 4/168 (Hadith of 6<sup>th</sup> year)  
+ **[2]** Dhahabi, *Tarikh Islam* 4/168 (Hadith of 6th year)  
  **[3]** Ibne Athir, *Tarikh* 9/45  
  **[4]** *Tarikh Khulafa*, written by anonymous writer published by
 Akadami Ittehad Shura

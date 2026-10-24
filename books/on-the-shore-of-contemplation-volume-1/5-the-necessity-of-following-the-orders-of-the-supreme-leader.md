@@ -10,22 +10,14 @@ tied to the management of the affairs of the society – for the Prophet
 the discussion of the ‘wilayat tashrii’ or the ‘legislative authority’.
 This is what is referred to in the verse of the Qur\`an which reads:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّبِيُّ أَوْلـى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ...
-  </p>
-</blockquote>
+> أَلنَّبِيُّ أَوْلـى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ...
 
 ***“The Prophet has a greater authority over the believers than they
 have over their own selves.”*** [^1]
 
 In addition, there is a hadith which states:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ.
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ.
 
 “Whosoever I am his master, this Ali is also his master (and
 authority).”
@@ -41,11 +33,7 @@ obliged to submit to such an individual and follow his laws.
 
 The meaning of:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّبِيُّ أَوْلـى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ...
-  </p>
-</blockquote>
+> أَلنَّبِيُّ أَوْلـى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ...
 
 “The Prophet has a greater authority over the believers than they have
 over their own selves.”[^2]
@@ -78,11 +66,7 @@ right and obeying his decisions, commands and laws.
 
 It is for this reason that we state that according to the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَلنَّبِيُّ أَوْلـى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ...
-  </p>
-</blockquote>
+> أَلنَّبِيُّ أَوْلـى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ...
 
 ***“The Prophet has a greater authority over the believers than they
 have over their own selves***.”[^3]
@@ -128,11 +112,7 @@ of the Imam (AS) was to order something, his commands would be obeyed.
 
 It is for this reason that when the late Mirza Shirazi stated that:
 
-<blockquote dir="rtl">
-  <p>
-اليوم استعمال تنباكو حرام و مخالفت با امام زمان (عليه السلام) است.
-  </p>
-</blockquote>
+> اليوم استعمال تنباكو حرام و مخالفت با امام زمان (عليه السلام) است.
 
 “From today, the use of tobacco is forbidden (haram) and is akin to
 going against Imam al-Zaman (peace be upon him).”
@@ -171,5 +151,4 @@ Muhammad Taqi Misbah Yazdi
 [^2]: Ibid.
 
 [^3]: Ibid.
-
 

@@ -172,4 +172,3 @@ proofs.
 
 [^2]: Surah Baqarah 2:183
 
-

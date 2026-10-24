@@ -342,4 +342,3 @@ Abu Da'ud, Vol. V, pp. 182, 189; Mustadrak Hakim, Vol. III, pp. 14, 17,
 Vol. III, p. 109, Tabaqat of Ibn Sa'd, Vol. IV, p. 8; Usudul Ghabah,
 Vol. II, p.12, Vol. III, p. 147 and Ibn Abil Hadid.
 
-

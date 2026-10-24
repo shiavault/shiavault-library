@@ -120,4 +120,3 @@ same hadith conveying this meaning.
 Ibn Abu Shaybah, and it is hadith number 6084 on page 400, Vol. 6, of
 Kanz al-’Ummal.
 
-

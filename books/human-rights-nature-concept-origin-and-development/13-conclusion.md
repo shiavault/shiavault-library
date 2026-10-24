@@ -29,13 +29,13 @@ p.2
 12  H.O.Agarwal, Human Rights,  p.2
 
 [^3] J. Maritain, The Rights of man and natural law, Macmillan, 1951,
-p.[^65]:
+p.65.
 
 [^4] D.D. Raphael. “Human Rights Old and New”, In D.D. Raphael, ed.
-Political theory and the     Rights of  Man, Macmillan,1967, p.[^55]:
+Political theory and the     Rights of  Man, Macmillan,1967, p.55.
 
 [^5] “Human Rights old and new”, In D.D. Raphael, ed. Political theory
-and the Rights of Man, Macmillan, p.[^57]:
+and the Rights of Man, Macmillan, p.57.
 
 [^6] Eddy Asirvatham, “Political theory”, quoted in Dr.U.Chandra, Human
 rights, law agency, Allahabad, 1999, p [^16]:

@@ -4,19 +4,11 @@ Section 1: The Qur’an Contains Signs From the All-Wise
 Surah Yunus – Verse 1
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-الر تِلْكَ ءَايَاتُ الْكِتَابِ الْحَكِيمِ
-  </p>
-</blockquote>
+> الر تِلْكَ ءَايَاتُ الْكِتَابِ الْحَكِيمِ
 
 ***1. “Alif ‘A’, Lam ‘L’, Ra ‘R’. These are the verses of the Book of
 Wisdom.”***
@@ -44,14 +36,10 @@ leave no impact upon it. It is “***the Book of Wisdom***”.
 Surah Yunus – Verse 2
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-أَكَانَ لِلنَّاسِ عَجَباً أَنْ أَوْحَيْنَآ إِلَي رَجُلٍ مِنْهُمْ أَنْ
-أَنذِرِ النَّاسَ وَبَشّرِ الَّذِينَ ءَامَنُوا أَنَّ لَهُمْ قَدَمَ
-صِدْقٍ عِنْدَ رَبّهِمْ قَالَ الْكَافِرُونَ إِنَّ هَذَا لَسَاحِرٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> أَكَانَ لِلنَّاسِ عَجَباً أَنْ أَوْحَيْنَآ إِلَي رَجُلٍ مِنْهُمْ أَنْ
+> أَنذِرِ النَّاسَ وَبَشّرِ الَّذِينَ ءَامَنُوا أَنَّ لَهُمْ قَدَمَ
+> صِدْقٍ عِنْدَ رَبّهِمْ قَالَ الْكَافِرُونَ إِنَّ هَذَا لَسَاحِرٌ
+> مُبِينٌ
 
 ***2. “Was it a wonder to the people that We revealed to a man from
 among themselves that he should warn mankind and give good tidings to
@@ -95,14 +83,10 @@ miracles and the work of magicians.
 Surah Yunus – Verse 3
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكُمُ اللّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَي عَلَي الْعَرْشِ يُدَبِّرُ الاَمْرَ مَا
-مِن شَفِيعٍ إِلاَّ مِنْ بَعْدِ إِذْنِهِ ذَلِكُمُ اللّهُ رَبُّكُمْ
-فَاعْبُدُوهُ أَفَلاَ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكُمُ اللّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَي عَلَي الْعَرْشِ يُدَبِّرُ الاَمْرَ مَا
+> مِن شَفِيعٍ إِلاَّ مِنْ بَعْدِ إِذْنِهِ ذَلِكُمُ اللّهُ رَبُّكُمْ
+> فَاعْبُدُوهُ أَفَلاَ تَذَكَّرُونَ
 
 ***3. “Verily, your Lord is Allah, Who created the heavens and the Earth
 in six Days. Then He established Himself on ‘Arsh (the Throne),
@@ -182,14 +166,10 @@ The verse concludes:
 Surah Yunus – Verse 4
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَيْهِ مَرْجِعُكُمْ جَمِيعاً وَعْدَ اللّهِ حَقّاً إِنَّهُ يَبْدَؤُ
-الْخَلْقَ ثُمَّ يُعِيدُهُ لِيَجْزِيَ الَّذِينَ ءَامَنُوا وَعَمِلُوا
-الصَّالِحَاتِ بِالْقِسْطِ وَالَّذِينَ كَفَرُوا لَهُمْ شَرَابٌ مِنْ
-حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ
-  </p>
-</blockquote>
+> إِلَيْهِ مَرْجِعُكُمْ جَمِيعاً وَعْدَ اللّهِ حَقّاً إِنَّهُ يَبْدَؤُ
+> الْخَلْقَ ثُمَّ يُعِيدُهُ لِيَجْزِيَ الَّذِينَ ءَامَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ بِالْقِسْطِ وَالَّذِينَ كَفَرُوا لَهُمْ شَرَابٌ مِنْ
+> حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ
 
 ***4. “To Him will be your return, all together. The promise of Allah is
 true. Verily He originates the (process of) creation, then He causes it
@@ -227,13 +207,9 @@ torture them painfully and they will be kept in Hell forever.
 Surah Yunus – Verse 5
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَآءً وَالْقَمَرَ نُوراً وَقَدَّرَهُ
-مَنَازِلَ لِتَعْلَمُوا عَدَدَ السّنِينَ وَالْحِسَابَ مَا خَلَقَ اللّهُ
-ذَلِكَ إِلاَّ بِالْحَقِّ يُفَصِّلُ الاَيَاتِ لِقَوْمٍ يَعْلَمُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَآءً وَالْقَمَرَ نُوراً وَقَدَّرَهُ
+> مَنَازِلَ لِتَعْلَمُوا عَدَدَ السّنِينَ وَالْحِسَابَ مَا خَلَقَ اللّهُ
+> ذَلِكَ إِلاَّ بِالْحَقِّ يُفَصِّلُ الاَيَاتِ لِقَوْمٍ يَعْلَمُونَ
 
 ***5. “He it is Who made the sun a radiation and the moon a light, and
 determined it by stations, that you might know the number of years and
@@ -305,12 +281,8 @@ know.”***
 Surah Yunus – Verse 7
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي اخْتِلاَفِ الَّيْلِ وَالنَّهَارِ وَمَا خَلَقَ اللّهُ فِي
-السَّمَاوَاتِ وَالأَرْضِ لاَيَاتٍ لِقَوْمٍ يَتَّقُونَ
-  </p>
-</blockquote>
+> إِنَّ فِي اخْتِلاَفِ الَّيْلِ وَالنَّهَارِ وَمَا خَلَقَ اللّهُ فِي
+> السَّمَاوَاتِ وَالأَرْضِ لاَيَاتٍ لِقَوْمٍ يَتَّقُونَ
 
 ***6. “Verily, in the alternation of night and day, and all that Allah
 has created in the heavens and the earth, surely there are signs for a
@@ -370,19 +342,11 @@ cognition.
 Surah Yunus – Verses 7 - 8
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ لاَ يَرْجُونَ لِقَآءَنَا وَرَضُوا بِالْحَيَاةِ
-الدُّنْيَا وَاطْمَاَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ ءَايَاتِنَا
-غَافِلُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ لاَ يَرْجُونَ لِقَآءَنَا وَرَضُوا بِالْحَيَاةِ
+> الدُّنْيَا وَاطْمَاَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ ءَايَاتِنَا
+> غَافِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ
 
 ***7. “Verily those who do not expect the meeting with Us, but are
 pleased with the life of this world and are satisfied with it, and those
@@ -424,13 +388,9 @@ whose ultimate result cannot be aught but Fire.
 Surah Yunus – Verse 9
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ يَهْدِيهِمْ
-رَبُّهُم بِإِيمَانِهِمْ تَجْرِي مِن تَحْتِهِمُ الاَنْهَارُ فِي
-جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ يَهْدِيهِمْ
+> رَبُّهُم بِإِيمَانِهِمْ تَجْرِي مِن تَحْتِهِمُ الاَنْهَارُ فِي
+> جَنَّاتِ النَّعِيمِ
 
 ***9. “Verily those who believe and do righteous deeds, their Lord will
 guide them by their Faith: beneath them rivers flow in gardens of
@@ -461,12 +421,8 @@ The verse continues saying:
 Surah Yunus – Verse 10
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا
-سَلاَمٌ وءَاخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا
+> سَلاَمٌ وءَاخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبّ الْعَالَمِينَ
 
 ***10. “Their cry therein (will be): ‘Glory be to You, O Allah!’ and
 ‘Peace’ will be their greeting therein. And the close of their cry (will
@@ -542,5 +498,4 @@ Truth. (See the of Qurtubi and Al-Borhan).
 [^9]: Surah Al-Waqi‘ah, No. 56, verse 26
 
 [^10]: The Manhaj-us-Sadiqin
-
 

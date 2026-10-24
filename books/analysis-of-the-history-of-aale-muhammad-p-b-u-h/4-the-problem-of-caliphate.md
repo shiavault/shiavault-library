@@ -644,4 +644,3 @@ book Sirrul Aalemain, he has contradicted himself drastically. I request
 the reader to read carefully the chapter titled "The Fifth Essay on
 Caliphate". And I feel indicating this much is sufficient.
 
-

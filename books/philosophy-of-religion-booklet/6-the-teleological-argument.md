@@ -225,4 +225,3 @@ the evidence, though, is to postulate one designer, and to leave it at
 that. Further details unnecessarily complicate the explanation of the
 order in the universe, and so are unwarranted.
 
-

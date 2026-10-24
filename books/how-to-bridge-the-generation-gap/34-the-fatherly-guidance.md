@@ -34,4 +34,3 @@ anything from an unexperienced young individual. But, I am hoping that
 with your guidance and advice you will help me find the right path and
 that I will be able to follow it steadfastly.
 
-

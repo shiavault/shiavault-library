@@ -9,11 +9,7 @@ such a time, one must cry out for help to the Imam.
 
 Allah has said in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
- وَ لِلٌّهِ الأَسْمَاءُ الْحُسْنـى فَادْعُوهُ بِهَا 
-  </p>
-</blockquote>
+>  وَ لِلٌّهِ الأَسْمَاءُ الْحُسْنـى فَادْعُوهُ بِهَا 
 
 ***“And to Allah belong the most beautiful names so call upon Him by
 them.”***[^1]
@@ -21,23 +17,15 @@ them.”***[^1]
 In relation to this verse, it has been narrated from Imam Ja’far b.
 Muhammad as-Sadiq  that:
 
-<blockquote dir="rtl">
-  <p>
-نَحنُ وَ اللٌّهِ الأَسْمَاءُ الْحُسْنـى
-  </p>
-</blockquote>
+> نَحنُ وَ اللٌّهِ الأَسْمَاءُ الْحُسْنـى
 
 “We (the Ahlul Bayt) are, by Allah, the most beautiful names (of
 Allah).”[^2]  
  In addition, Imam ‘Ali b. Musa al-Rida (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا نَزَلَتْ بِكُمْ شِدَّةٌ فَاسْتَعِينُوا بِنَا عَلـى اللٌّهِ عَزَّ
-وَجَلَّ وَ هُوَ قُوْلُهُ عَزَّ وَجَلَّ:  وَ لِلٌّهِ الأَسْمَاءُ
-الْحُــسْنىٌ فَادْعُوهُ بِهَا 
-  </p>
-</blockquote>
+> إِذَا نَزَلَتْ بِكُمْ شِدَّةٌ فَاسْتَعِينُوا بِنَا عَلـى اللٌّهِ عَزَّ
+> وَجَلَّ وَ هُوَ قُوْلُهُ عَزَّ وَجَلَّ:  وَ لِلٌّهِ الأَسْمَاءُ
+> الْحُــسْنىٌ فَادْعُوهُ بِهَا 
 
 “When difficulties come upon you, then seek assistance through us (the
 Ahlul Bayt) as intermediaries with Allah, the Noble and Grand, and this
@@ -54,5 +42,4 @@ will not be protected from disgrace and humiliation.
 (6), Verse 180
 
 [^3]: Biharul Anwar, vol. 94, pg. 5, sec. 28, no. 7
-
 

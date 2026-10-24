@@ -68,7 +68,6 @@ and no mistake may happen in this picking out.
 The Qur'anic word /siliyy/ means both 'to lighten a fire', and 'the
 thing which is burnt by means of fire'.
 
-
 **Commentary : Verse 71.72**
 
 71- وَإِن مّـِنكُمْ إِلاَّ وَارِدُهَا كَانَ عَلَى رَبّـِكَ حَتْماً
@@ -193,7 +192,6 @@ among the people of Hell, and assign no Fire upon us, but by Your
 beneficence and Your forgiveness count us among the people of
 Paradise!
 
-
 **Commentary : Verse 73.74**
 
 73- وَإِذَا تُتْلَى عَلَيْهِمْ ءَايَاتُنَا بَيّـِنَاتٍ قَالَ الَّذِينَ
@@ -262,5 +260,4 @@ hinder the wrath of Allah.
 
 4. Wealth and possibilities are often the factor of pride, negligence,
 inordinacy, and, finally, perdition.
-
 

@@ -278,7 +278,6 @@ Through this we will be able to appreciate the fact that all prophets
 were sent from the same source - Allah (S.W.T.) with the same message
 for all Mankind.
 
-
 **Lesson 5 : Prophets**
 
 Have you seen the beautiful flowers that flourish in gardens? Or the
@@ -466,5 +465,4 @@ etc.
 
 We now have a foundation on which to begin our study of the incentive
 of his migration to Medina and the philosophy behind this hijrat.
-
 

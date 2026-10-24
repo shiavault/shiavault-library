@@ -437,15 +437,11 @@ this *khums* which, according to 8:41 of the Holy Qur'an is not
 optional, as some ill-informed individuals claim, but compulsory. Here
 is this verse for you:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُواْ أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
-السَّبِيلِ إِن كُنتُمْ آمَنتُمْ بِاللَّهِ وَمَا أَنزَلْنَا عَلَى
-عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ وَاللَّهُ
-عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> وَاعْلَمُواْ أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
+> السَّبِيلِ إِن كُنتُمْ آمَنتُمْ بِاللَّهِ وَمَا أَنزَلْنَا عَلَى
+> عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ وَاللَّهُ
+> عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 ***And know that out of all the booty that you may acquire (in war), a
 fifth share is assigned to God! and to the Messenger, and to near
@@ -493,5 +489,4 @@ occasion
 
 **Kufr كفر:** apostasy, infidelity, disbelief, the deliberate
 covering/hiding of the truth
-
 

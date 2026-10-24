@@ -60,4 +60,3 @@ Thus Imam Ali (a) has emphasized the evil of alcohol.
 For the sake of our own physical, mental and spiritual welfare, we
 should always keep away from drinks.
 
-

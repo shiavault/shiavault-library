@@ -445,4 +445,3 @@ Thus there are only these two questions. Is it obligatory upon a woman
 to cover her face and hands and secondly, is it permissible or not for a
 man to look without lust or fear of deviation?
 
-

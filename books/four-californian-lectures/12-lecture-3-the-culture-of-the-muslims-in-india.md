@@ -13,4 +13,3 @@ about culture. Therefore, whatever I will say, will be based not on book
 knowledge, but on personal experience and observation.  
   
 
-

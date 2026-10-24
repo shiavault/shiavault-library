@@ -11,21 +11,13 @@ Fasting
 every [lunar] month raises the stations and magnifies the rewards.
 
 > 2ـ صِيامُ الأيامِ البيضِ مِنْ كُلِّ شَهْر تَرْفَعُ الدَّرَجاتِ
-<blockquote dir="rtl">
-  <p>
-وتُعَظِّمُ المَثُوباتِ.
-  </p>
-</blockquote>
+> وتُعَظِّمُ المَثُوباتِ.
 
 3. Fasting of the heart from thinking about sins is better than fasting
 of the stomach from food.
 
 > 3ـ صِيامُ القَلْبِ عَنِ الفِكْرِ فِي الآثامِ أفْضَلُ مِنْ صِيامِ
-<blockquote dir="rtl">
-  <p>
-البَطْنِ عَنْ الطَّعامِ.
-  </p>
-</blockquote>
+> البَطْنِ عَنْ الطَّعامِ.
 
 4. Fasting of the soul from the pleasures of this world is the most
 beneficial fasting.
@@ -37,31 +29,19 @@ by choice, out of fear of punishment and out of desire for reward and
 recompense.
 
 > 5ـ صَوْمُ الجَسَدِ الإمْساكُ عَنِ الأغْذِيَةِ بِإرادَة وَاخْتِيار
-<blockquote dir="rtl">
-  <p>
-خَوْفاً مِنَ العِقابِ وَرَغْبَةً فِي الثَّوابِ والأجْرِ.
-  </p>
-</blockquote>
+> خَوْفاً مِنَ العِقابِ وَرَغْبَةً فِي الثَّوابِ والأجْرِ.
 
 6. Fasting of the soul means restraining the five senses from all the
 sins and emptying the heart of all the motives of evil.
 
 > 6ـ صَوْمُ النَّفْسِ إمْساكُ الحَواسِّ الخَمْسِ عَنْ سائِرِ المَ آثِمِ،
-<blockquote dir="rtl">
-  <p>
-وخُلُوُّ القَلْبِ عَنْ جَميعِ أسْبابِ الشَّـرِّ.
-  </p>
-</blockquote>
+> وخُلُوُّ القَلْبِ عَنْ جَميعِ أسْبابِ الشَّـرِّ.
 
 7. Fasting of the heart is better than fasting of the tongue, and
 fasting of the tongue is better than fasting of the stomach.
 
 > 7ـ صَوْمُ القَلْبِ خَيْرٌ مِنْ صِيامِ اللِّسانِ، وصيامُ اللِّسانِ
-<blockquote dir="rtl">
-  <p>
-خَيْـرٌ مِنْ صِيامِ البَطْنِ.
-  </p>
-</blockquote>
+> خَيْـرٌ مِنْ صِيامِ البَطْنِ.
 
 8. And fasting [has been prescribed] as a test of the sincerity of the
 people.
@@ -72,5 +52,4 @@ people.
 thirst!
 
 > 9ـ كَمْ مِنْ صائِم لَيْسَ لَهُ مِنْ صِيامِهِ إلاّ الظِّماءُ.
-
 

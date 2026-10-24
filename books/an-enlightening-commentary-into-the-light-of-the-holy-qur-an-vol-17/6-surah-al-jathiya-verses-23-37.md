@@ -4,13 +4,9 @@ Surah al-Jathiya, Verses 23 - 37
 Surah al-Jathiya - Verse 23
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأضَلَّهُ اللَّهُ عَلَی
-عِلْمٍ وَخَتَمَ عَلَی سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَی بَصَرِهِ
-غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ أفَلا تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أفَرَأيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأضَلَّهُ اللَّهُ عَلَی
+> عِلْمٍ وَخَتَمَ عَلَی سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَی بَصَرِهِ
+> غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ أفَلا تَذَكَّرُونَ
 
 ***23. Have you seen him who takes his own vain desires as his god? And
 Allah knowing [him as such] left him astray and sealed his hearing and
@@ -34,13 +30,9 @@ reason that the Verse closes with the question;
 Surah al-Jathiya - Verse 24
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا مَا هِيَ إِلاّ حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا
-يُهْلِكُنَا إِلاّ الدَّهْرُ وَمَا لَهُمْ بِذَلِكَ مِنْ عِلْمٍ إِنْ
-هُمْ إِلاّ يَظُنُّونَ
-  </p>
-</blockquote>
+> وَقَالُوا مَا هِيَ إِلاّ حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا
+> يُهْلِكُنَا إِلاّ الدَّهْرُ وَمَا لَهُمْ بِذَلِكَ مِنْ عِلْمٍ إِنْ
+> هُمْ إِلاّ يَظُنُّونَ
 
 ***24. And they say: “There is nothing but our life of this world, we
 die and we live [viz. a group departs and another group enters] nothing
@@ -73,12 +65,8 @@ disbelievers mean the passage of time.
 Surah al-Jathiya - Verse 25
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَی عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ مَا كَانَ حُجَّتَهُمْ
-إِلاّ أنْ قَالُوا ائْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَی عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ مَا كَانَ حُجَّتَهُمْ
+> إِلاّ أنْ قَالُوا ائْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ
 
 ***25. And when Our Clear Verses [concerning Resurrection] are recited
 to them, their argument is no other than that they say: “Bring back our
@@ -100,13 +88,9 @@ your words, we would accept them to be true.
 Surah al-Jathiya - Verse 26
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَی
-يَوْمِ الْقِيَامَةِ لا رَيْبَ فِيهِ وَلَكِنَّ أكْثَرَ النَّاسِ لا
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَی
+> يَوْمِ الْقِيَامَةِ لا رَيْبَ فِيهِ وَلَكِنَّ أكْثَرَ النَّاسِ لا
+> يَعْلَمُونَ
 
 ***26. Say: ‘Allah gives you life, then causes you to die, then He will
 assemble you on the Day of Resurrection about which there is no
@@ -155,12 +139,8 @@ back to life.
 Surah al-Jathiya - Verse 27
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأرْضِ وَيَوْمَ تَقُومُ السَّاعَةُ
-يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ
-  </p>
-</blockquote>
+> وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأرْضِ وَيَوْمَ تَقُومُ السَّاعَةُ
+> يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ
 
 ***27. And to Allah belongs the kingdom of the heaven and the earth. And
 on the Day that Resurrection will be established – on that Day those
@@ -194,12 +174,8 @@ in store for him save rue and regret for having lost his capital.
 Surah al-Jathiya - Verse 28
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَی كُلَّ اُمَّةٍ جَاثِيَةً كُلُّ اُمَّةٍ تُدْعَی إِلَی كِتَابِهَا
-الْيَوْمَ تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَتَرَی كُلَّ اُمَّةٍ جَاثِيَةً كُلُّ اُمَّةٍ تُدْعَی إِلَی كِتَابِهَا
+> الْيَوْمَ تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ
 
 ***28. And you will see [on the Day of Resurrection] each nation humbled
 to their knees; each nation shall be called to its Record [of deeds].
@@ -254,12 +230,8 @@ the sinners fearful of that which is [recorded] in it”***[^5]***.***
 Surah al-Jathiya - Verse 29
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ إِنَّا كُنَّا
-نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> هَذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ إِنَّا كُنَّا
+> نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ
 
 ***29. This is Our Book that speaks about you with truth. Indeed, We
 were recording what you used to do.***
@@ -310,12 +282,8 @@ group record all the deeds.”*
 Surah al-Jathiya - Verse 30
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ
-رَبُّهُمْ فِي رَحْمَتِهِ ذَلِكَ هُوَ الْفَوْزُ الْمُبِينُ
-  </p>
-</blockquote>
+> فَأمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ
+> رَبُّهُمْ فِي رَحْمَتِهِ ذَلِكَ هُوَ الْفَوْزُ الْمُبِينُ
 
 ***30. Then as for those who believed [in God] and did righteous good
 deeds, their lord shall admit them to His Mercy. That shall be the
@@ -355,12 +323,8 @@ purpose of the existence of the world.
 Surah al-Jathiya - Verse 31
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا الَّذِينَ كَفَرُوا أفَلَمْ تَكُنْ آيَاتِي تُتْلَی عَلَيْكُمْ
-فَاسْتَكْبَرْتُمْ وَكُنْتُمْ قَوْماً مُجْرِمِينَ
-  </p>
-</blockquote>
+> وَأمَّا الَّذِينَ كَفَرُوا أفَلَمْ تَكُنْ آيَاتِي تُتْلَی عَلَيْكُمْ
+> فَاسْتَكْبَرْتُمْ وَكُنْتُمْ قَوْماً مُجْرِمِينَ
 
 ***31. But as for those who disbelieved [it shall be said to them: Were
 not our Verses recited to you? But you were arrogant and you were a
@@ -383,27 +347,15 @@ they disbelieved in such Hour.
 Surah al-Jathiya - Verses 32-34
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لا رَيْبَ فِيهَا
-قُلْتُمْ مَا نَدْرِي مَا السَّاعَةُ إِنْ نَظُنُّ إِلاّ ظَنَّاً وَمَا
-نَحْنُ بِمُسْتَيْقِنِينَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لا رَيْبَ فِيهَا
+> قُلْتُمْ مَا نَدْرِي مَا السَّاعَةُ إِنْ نَظُنُّ إِلاّ ظَنَّاً وَمَا
+> نَحْنُ بِمُسْتَيْقِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
-يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
+> يَسْتَهْزِئُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلَ الْيَوْمَ نَنْسَاكُمْ كَمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَذَا
-وَمَأوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِينَ
-  </p>
-</blockquote>
+> وَقِيلَ الْيَوْمَ نَنْسَاكُمْ كَمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَذَا
+> وَمَأوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِينَ
 
 ***32. And when it was said: “Indeed, Allah’s Promise is the truth and
 there is no doubt about the coming of the Hour,” you said: “We know not
@@ -447,13 +399,9 @@ shall be no savior to save you from such torment.
 Surah al-Jathiya - Verse 35
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكُمْ بِأنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُواً وَغَرَّتْكُمُ
-الْحَيَاةُ الدُّنْيَا فَالْيَوْمَ لا يُخْرَجُونَ مِنْهَا وَلا هُمْ
-يُسْتَعْتَبُونَ
-  </p>
-</blockquote>
+> ذَلِكُمْ بِأنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُواً وَغَرَّتْكُمُ
+> الْحَيَاةُ الدُّنْيَا فَالْيَوْمَ لا يُخْرَجُونَ مِنْهَا وَلا هُمْ
+> يُسْتَعْتَبُونَ
 
 ***35. This is because you derided the Divine Verses and the life of the
 world deceived you. So this Day they shall not be taken out from there
@@ -475,19 +423,11 @@ today is the Day of Recompense.
 Surah al-Jathiya - Verses 36-37
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأرْضِ رَبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأرْضِ رَبِّ
+> الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأرْضِ وَهُوَ الْعَزِيزُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأرْضِ وَهُوَ الْعَزِيزُ
+> الْحَكِيمُ
 
 ***36. All the praises and thanks be to Allah, the Lord of the heavens
 and the Lord of the earth, and the Lord of all that exists.***  
@@ -533,5 +473,4 @@ be cast into the abyss of the Hell.
 [^5]: 18:49
 
 [^6]: vol. 9, p. 260
-
 

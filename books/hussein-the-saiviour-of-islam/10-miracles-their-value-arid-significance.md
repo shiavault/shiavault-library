@@ -376,4 +376,3 @@ none to match Ali in this regard besides the Holy Prophet. There are
 innumerable sayings of the Hoy Prophet about Ali's unique position as
 the 'Imam' immediately succeeding him.
 
-

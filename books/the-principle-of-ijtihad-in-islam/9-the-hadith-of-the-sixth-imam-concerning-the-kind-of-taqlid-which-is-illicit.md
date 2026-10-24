@@ -68,4 +68,3 @@ the shari\`a. Licit taqlid means having one's eyes open and being
 observant and alert; otherwise it is accepting responsibility for, and
 being an accomplice to, an illicit act.
 
-

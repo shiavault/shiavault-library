@@ -706,11 +706,7 @@ shelter in that very thicket, pretended ignorance and said: 'I am not
 aware of any such place.' At that very moment, a cow from the meadow
 cried out in eloquent Arabic:
 
-<blockquote dir="rtl">
-  <p>
-(كَذَبَ والله، وها نحن أولاء)
-  </p>
-</blockquote>
+> (كَذَبَ والله، وها نحن أولاء)
 
 «I swear by Allah that this man has spoken falsehood. We are over here.»
 
@@ -1423,11 +1419,7 @@ disengagement of his heart. It was for this reason that whenever
 excessive absorption (in God) enveloped him he would touch Ayesh's thigh
 with his blessed hand and would say:
 
-<blockquote dir="rtl">
-  <p>
-كلميني ياحميراء، أشغليني يا حميراء
-  </p>
-</blockquote>
+> كلميني ياحميراء، أشغليني يا حميراء
 
 ('O Ayesha, converse with me and make me busy with this world). It was
 for this reason that some of Hazrat's wives who had entered into wedlock
@@ -1492,12 +1484,8 @@ over the waves)
 
 (iii) I heard the wizard in the air (angels) reciting this du'a:
 
-<blockquote dir="rtl">
-  <p>
-(اللهم أنت أرحم الراحمين، لا إله غيرك، والبديء البديع ليس قبلك شيء و
-الدائم غير الغافل و الحي الذي لا يموت و خالق مايرى و ما لا يرى...)
-  </p>
-</blockquote>
+> (اللهم أنت أرحم الراحمين، لا إله غيرك، والبديء البديع ليس قبلك شيء و
+> الدائم غير الغافل و الحي الذي لا يموت و خالق مايرى و ما لا يرى...)
 
 Ibn-Athir (born in 630 A.H.) has narrated this part of his «Tarikh» from
 the «Tarikh» of Tabari (born in 310 A.H.) and Tabari in turn has
@@ -1796,21 +1784,13 @@ very easy manner.
 
 Now we shall explain a few examples of the verses on Tawhid:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلَـهَ إِلاَّ هُوَ
-  </p>
-</blockquote>
+> لاَ إِلَـهَ إِلاَّ هُوَ
 
 ***There is no deity but Him… (Holy Quran, 2: 255)***
 
-<blockquote dir="rtl">
-  <p>
-مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذاً
-لَّذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَى بَعْضٍ
-سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
-  </p>
-</blockquote>
+> مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذاً
+> لَّذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَى بَعْضٍ
+> سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
 
 ***Allah has not taken any son, nor has there ever been with Him any
 deity. [If there had been], then each deity would have taken what it
@@ -1818,25 +1798,17 @@ created, and some of them would have sought to overcome others. Exalted
 is Allah above what they describe [concerning Him]. (Holy Quran,
 23:91)***
 
-<blockquote dir="rtl">
-  <p>
-(لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا فَسُبْحَانَ
-اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ)
-  </p>
-</blockquote>
+> (لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا فَسُبْحَانَ
+> اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ)
 
 ***Had there been within the heavens and earth gods besides Allah, they
 both would have been ruined. So exalted is Allah, Lord of the Throne,
 above what they describe. (Holy Quran, 21:22)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّهِ أَرُونِي مَاذَا
-خَلَقُوا مِنَ الْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ
-اِئْتُونِي بِكِتَابٍ مِّن قَبْلِ هَذَا أَوْ أَثَارَةٍ مِّنْ عِلْمٍ إِن
-كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّهِ أَرُونِي مَاذَا
+> خَلَقُوا مِنَ الْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ
+> اِئْتُونِي بِكِتَابٍ مِّن قَبْلِ هَذَا أَوْ أَثَارَةٍ مِّنْ عِلْمٍ إِن
+> كُنتُمْ صَادِقِينَ
 
 ***Say, [O Muhammad], "Have you considered that which you invoke besides
 Allah? Show me what they have created of the earth; or did they have
@@ -1844,43 +1816,27 @@ partnership in [creation of] the heavens?*** ***Bring me a scripture
 [revealed] before this or a [remaining] trace of knowledge, if you
 should be truthful." (Holy Quran, 46: 4)***
 
-<blockquote dir="rtl">
-  <p>
-أَمْ جَعَلُواْ لِلّهِ شُرَكَاء خَلَقُواْ كَخَلْقِهِ فَتَشَابَهَ
-الْخَلْقُ عَلَيْهِمْ قُلِ اللّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ
-الْوَاحِدُ الْقَهَّارُ
-  </p>
-</blockquote>
+> أَمْ جَعَلُواْ لِلّهِ شُرَكَاء خَلَقُواْ كَخَلْقِهِ فَتَشَابَهَ
+> الْخَلْقُ عَلَيْهِمْ قُلِ اللّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ
+> الْوَاحِدُ الْقَهَّارُ
 
 ***Or have they attributed to Allah partners who created like His
 creation so that the creation [of each] seemed similar to them?" Say,
 "Allah is the Creator of all things, and He is the One, the Prevailing."
 (Holy Quran, 13:16)***
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذُوا مِن دُونِهِ آلِهَةً لَّا يَخْلُقُونَ شَيْئاً وَهُمْ
-يُخْلَقُونَ
-  </p>
-</blockquote>
+> وَاتَّخَذُوا مِن دُونِهِ آلِهَةً لَّا يَخْلُقُونَ شَيْئاً وَهُمْ
+> يُخْلَقُونَ
 
 ***But they have taken besides Him gods which create nothing, while they
 are created,… (Holy Quran, 25:3)***
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
 
 ***[All] praise is [due] to Allah, Lord of the worlds. (Holy Quran,
 1:2)***
 
-<blockquote dir="rtl">
-  <p>
-رَبُّنَا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ
-  </p>
-</blockquote>
+> رَبُّنَا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ
 
 *** "Our Lord is the Lord of the heavens and the earth. (Holy Quran,
 18:14)***
@@ -1890,42 +1846,26 @@ in Divinity of Lordship from these and hundreds of other verses.
 
 Verses on Ma'ad (resurrection) like:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ
-  </p>
-</blockquote>
+> وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ
 
 ***And indeed, all of them will yet be brought present before Us. (Holy
 Quran, 36:32)***
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ لَنَا مَثَلاً وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِي الْعِظَامَ
-وَهِيَ رَمِيمٌ. قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
-وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> وَضَرَبَ لَنَا مَثَلاً وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِي الْعِظَامَ
+> وَهِيَ رَمِيمٌ. قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
+> وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
 ***So let not their speech grieve you. Indeed, We know what they conceal
 and what they declare. (Holy Quran, 36:76)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ السَّاعَةَ ءاَتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَى كُلُّ نَفْسٍ
-بِمَا تَسْعَى
-  </p>
-</blockquote>
+> إِنَّ السَّاعَةَ ءاَتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَى كُلُّ نَفْسٍ
+> بِمَا تَسْعَى
 
 ***Indeed, the Hour is coming - I almost conceal it - so that every soul
 may be recompensed according to that for which it strives. (Holy Quran,
 20:15)***
 
-<blockquote dir="rtl">
-  <p>
-وَلِتُجْزَى كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَلِتُجْزَى كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
 ***so that every soul may be recompensed for what it has earned, and
 they will not be wronged. (Holy Quran, 45:22)***
@@ -1935,62 +1875,38 @@ reckoning and reward the matter becomes definite, clear and obvious.
 
 About the Prophets, the verses say:
 
-<blockquote dir="rtl">
-  <p>
-فَبَعَثَ اللّهُ النَّبِيِّينَ مُبَشِّرِينَ وَمُنذِرِينَ
-  </p>
-</blockquote>
+> فَبَعَثَ اللّهُ النَّبِيِّينَ مُبَشِّرِينَ وَمُنذِرِينَ
 
 ***then Allah sent the prophets as bringers of good tidings and
 warners … (Holy Quran, 2:213)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلاَّ لِيُطَاعَ بِإِذْنِ اللّهِ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلاَّ لِيُطَاعَ بِإِذْنِ اللّهِ
 
 ***And We did not send any messenger except to be obeyed by permission
 of Allah… (Holy Quran, 4:64)***
 
 About the last of the Prophets, the following verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً لِّلنَّاسِ بَشِيراً وَنَذِيراً
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً لِّلنَّاسِ بَشِيراً وَنَذِيراً
 
 ***And We have not sent you except comprehensively to mankind as a
 bringer of good tidings and a warner…*** ***(Holy Quran, 34:28)***
 
 About obedience to him, verses says:
 
-<blockquote dir="rtl">
-  <p>
-مَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
-  </p>
-</blockquote>
+> مَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
 
 ***And whatever the Messenger has given you - take; and what he has
 forbidden you - refrain from. (Holy Quran, 59:7)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
-  </p>
-</blockquote>
+> وَمَا يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
 
 ***Nor does he speak from [his own] inclination. It is not but a
 revelation revealed. (Holy Quran, 53:4)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْراً أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
-وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالاً مُّبِيناً
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْراً أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
+> وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالاً مُّبِيناً
 
 ***It is not for a believing man or a believing woman, when Allah and
 His Messenger have decided a matter, that they should [thereafter] have
@@ -2013,20 +1929,12 @@ like:
 The verses which have issued commands with the word of (أمر) and its
 derivatives:
 
-<blockquote dir="rtl">
-  <p>
-أَمَرَ رَبِّي بِالْقِسْطِ
-  </p>
-</blockquote>
+> أَمَرَ رَبِّي بِالْقِسْطِ
 
 ***My Lord has ordered justice… (Holy Quran, 7:29)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاء ذِي
-الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَالْبَغْيِ..
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاء ذِي
+> الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاء وَالْمُنكَرِ وَالْبَغْيِ..
 
 ***Indeed, Allah orders justice and good conduct and giving to relatives
 and forbids immorality and bad conduct and oppression. (Holy Quran,
@@ -2034,79 +1942,51 @@ and forbids immorality and bad conduct and oppression. (Holy Quran,
 
 On with the use of the word and its derivatives like:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الْقِصَاصُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ كُتِبَ عَلَيْكُمُ الْقِصَاصُ
 
 ***O you who have believed, prescribed for you is legal retribution for
 those murdered… (Holy Quran, 2:178)***
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْل
-  </p>
-</blockquote>
+> وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْل
 
 ***.. And let a scribe write [it] between you in justice... (Holy Quran,
 (2:282)***
 
 And many verses which give commands in the form of the verb like:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِيمُواْ الصَّلاَةَ وَآتُواْ الزَّكَاةَ وَارْكَعُواْ مَعَ
-الرَّاكِعِينَ
-  </p>
-</blockquote>
+> وَأَقِيمُواْ الصَّلاَةَ وَآتُواْ الزَّكَاةَ وَارْكَعُواْ مَعَ
+> الرَّاكِعِينَ
 
 ***And establish prayer and give zakah and bow with those who bow [in
 worship and obedience]. (Holy Quran, 2:43)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَوْفُواْ بِالْعُقُودِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَوْفُواْ بِالْعُقُودِ
 
 ***O you who have believed, fulfill [all] contracts… (Holy Quran,
 5:1)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُواْ الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ
-  </p>
-</blockquote>
+> وَأَوْفُواْ الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ
 
 *** And give full measure and weight in justice… (Holy Quran, 6:152)***
 
 And those verses which by making use of such words as (حَرَّمَ) and
 (نّهَى) and their derivatives have forbidden certain acts like:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
-بَطَنَ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
+> بَطَنَ
 
 ***Say, "My Lord has only forbidden immoralities - what is apparent of
 them and what is concealed… (Holy Quran, 7:33)***
 
-<blockquote dir="rtl">
-  <p>
-حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ
-وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ
-وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُم مِّنَ
-الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي
-حُجُورِكُم مِّن نِّسَائِكُمُ اللَّاتِي دَخَلْتُم بِهِنَّ فَإِن لَّمْ
-تَكُونُوا دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ
-أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَن تَجْمَعُوا بَيْنَ
-الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ  إِنَّ اللَّـهَ كَانَ غَفُورًا
-رَّحِيمًا
-  </p>
-</blockquote>
+> حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ
+> وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ
+> وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُم مِّنَ
+> الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي
+> حُجُورِكُم مِّن نِّسَائِكُمُ اللَّاتِي دَخَلْتُم بِهِنَّ فَإِن لَّمْ
+> تَكُونُوا دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ
+> أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَن تَجْمَعُوا بَيْنَ
+> الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ  إِنَّ اللَّـهَ كَانَ غَفُورًا
+> رَّحِيمًا
 
 ***Prohibited to you [for marriage] are your mothers, your daughters,
 your sisters, your father's sisters, your mother's sisters, your
@@ -2119,11 +1999,7 @@ your [own] loins, and that you take [in marriage] two sisters
 simultaneously,*** ***except for what has already occurred. Indeed,
 Allah is ever Forgiving and Merciful. (Holy Qura, 4:23)***
 
-<blockquote dir="rtl">
-  <p>
-مَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
-  </p>
-</blockquote>
+> مَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
 
 ***And whatever the Messenger has given you - take; and what he has
 forbidden you - refrain from. (Holy Quran, 59:7)***
@@ -2131,12 +2007,8 @@ forbidden you - refrain from. (Holy Quran, 59:7)***
 On occasions, certain verses have issued forbidden commands by using the
 word (لا) like:
 
-<blockquote dir="rtl">
-  <p>
-(لَا يَغْتَب بَّعْضُكُم بَعْضاً)، (لاَ تُسْرِفُواْ)، (َا يَزْنِينَ)،
-(لاَ تَأْكُلُواْ الرِّبَا)
-  </p>
-</blockquote>
+> (لَا يَغْتَب بَّعْضُكُم بَعْضاً)، (لاَ تُسْرِفُواْ)، (َا يَزْنِينَ)،
+> (لاَ تَأْكُلُواْ الرِّبَا)
 
 These and numerous other verses are amongst the decisive verses on the
 commandments and all the other Islamic gnosis.
@@ -2150,12 +2022,8 @@ The manner and condition of these and numerous other Islamic decrees and
 etiquettes whose general commandments appear in the holy Quran have not
 been mentioned. In this connection, God Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ
 
 ***«And We have revealed unto thee the Reminder that you may make clear
 to men what has been revealed to them.» (Holy Quran, 16:44)***
@@ -2179,12 +2047,8 @@ Quran and Sunnah.
 
 Otherwise, the following divine saying will apply to him:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ
-مِنْهُ ابْتِغَاء الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ
-  </p>
-</blockquote>
+> أَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ
+> مِنْهُ ابْتِغَاء الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ
 
 ***As for those in whose hearts is deviation [from truth], they will
 follow that of it which is unspecific, seeking discord and seeking an
@@ -2350,11 +2214,7 @@ this brief introduction, he gave a special detailed account and said:
 Ali has had an opinion. But my opinion about this verse is that God has
 informed us about the world of pre-existence (atom). The verse:
 
-<blockquote dir="rtl">
-  <p>
-فَالْحَامِلَاتِ وِقْراً
-  </p>
-</blockquote>
+> فَالْحَامِلَاتِ وِقْراً
 
 too expresses the carrying of the load of electricity.»
 
@@ -2477,13 +2337,9 @@ Besides, we realize from the definitive verses of the Quran that it
 calls them, especially the Christians to an imprecation for the purpose
 of achieving victory and says:-
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا
-وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل
-لَّعْنَةَ اللّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَقُلْ تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا
+> وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل
+> لَّعْنَةَ اللّهِ عَلَى الْكَاذِبِينَ
 
 ***.. then say, "Come, let us call our sons and your sons, our women and
 your women, ourselves and yourselves, then supplicate earnestly
@@ -2493,12 +2349,8 @@ your women, ourselves and yourselves, then supplicate earnestly
 And the same Christians have been interdicted and the cause of their
 infidelity has been described as such:
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ كَفَرَ الَّذِينَ قَآلُواْ إِنَّ اللّهَ هُوَ الْمَسِيحُ ابْنُ
-مَرْيَمَ
-  </p>
-</blockquote>
+> لَّقَدْ كَفَرَ الَّذِينَ قَآلُواْ إِنَّ اللّهَ هُوَ الْمَسِيحُ ابْنُ
+> مَرْيَمَ
 
 ***They have certainly disbelieved who say that Allah is Christ, the son
 of Mary. (Holy Quran, 5:17)***  
@@ -2508,15 +2360,11 @@ amongst all of them until today.
 
 In another verse, He says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتْ النَّصَارَى الْمَسِيحُ ابْنُ اللّهِ ذَلِكَ قَوْلُهُم
-بِأَفْوَاهِهِمْ يُضَاهِؤُونَ قَوْلَ الَّذِينَ كَفَرُواْ مِن قَبْلُ
-قَاتَلَهُمُ اللّهُ أَنَّى يُؤْفَكُونَ. اتَّخَذُواْ أَحْبَارَهُمْ
-وَرُهْبَانَهُمْ أَرْبَاباً مِّن دُونِ اللّهِ وَالْمَسِيحَ ابْنَ
-مَرْيَمَ
-  </p>
-</blockquote>
+> وَقَالَتْ النَّصَارَى الْمَسِيحُ ابْنُ اللّهِ ذَلِكَ قَوْلُهُم
+> بِأَفْوَاهِهِمْ يُضَاهِؤُونَ قَوْلَ الَّذِينَ كَفَرُواْ مِن قَبْلُ
+> قَاتَلَهُمُ اللّهُ أَنَّى يُؤْفَكُونَ. اتَّخَذُواْ أَحْبَارَهُمْ
+> وَرُهْبَانَهُمْ أَرْبَاباً مِّن دُونِ اللّهِ وَالْمَسِيحَ ابْنَ
+> مَرْيَمَ
 
 ***The Jews say, "Ezra is the son of Allah "; and the Christians say,
 "The Messiah is the son of Allah." That is their statement from their
@@ -2527,26 +2375,18 @@ son of Mary. (Holy Quran, 9:30-31)***
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ كَفَرَ الَّذِينَ قَالُواْ إِنَّ اللّهَ ثَالِثُ ثَلاَثَةٍ وَمَا
-مِنْ إِلَـهٍ إِلاَّ إِلَـهٌ وَاحِدٌ
-  </p>
-</blockquote>
+> لَّقَدْ كَفَرَ الَّذِينَ قَالُواْ إِنَّ اللّهَ ثَالِثُ ثَلاَثَةٍ وَمَا
+> مِنْ إِلَـهٍ إِلاَّ إِلَـهٌ وَاحِدٌ
 
 ***They have certainly disbelieved who say, "Allah is the third of
 three." And there is no god except one God. (Holy Quran, 5:73)***
 
 In yet another verse, He says:-
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ أُوتُواْ الْكِتَابَ آمِنُواْ بِمَا نَزَّلْنَا
-مُصَدِّقاً لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهاً
-فَنَرُدَّهَا عَلَى أَدْبَارِهَا أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّا
-أَصْحَابَ السَّبْتِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ أُوتُواْ الْكِتَابَ آمِنُواْ بِمَا نَزَّلْنَا
+> مُصَدِّقاً لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهاً
+> فَنَرُدَّهَا عَلَى أَدْبَارِهَا أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّا
+> أَصْحَابَ السَّبْتِ
 
 ***«O you who have been given the Book! believe that which We have
 revealed, verifying what you have, before We alter faces then turn them
@@ -2556,23 +2396,19 @@ Sabbath». (Holy Quran, 4:47)***
 Here, the following verses of Sura Nisa elucidate the matter to a much
 greater degree:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّـهِ وَرُسُلِهِ وَيُرِيدُونَ أَن
-يُفَرِّقُوا بَيْنَ اللَّـهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا ﴿١٥٠﴾أُولَـٰئِكَ هُمُ الْكَافِرُونَ حَقًّا  وَأَعْتَدْنَا
-لِلْكَافِرِينَ عَذَابًا مُّهِينًا  وَالَّذِينَ آمَنُوا بِاللَّـهِ
-وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ أَحَدٍ مِّنْهُمْ أُولَـٰئِكَ
-سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ  وَكَانَ اللَّـهُ غَفُورًا
-رَّحِيمًا  يَسْأَلُكَ أَهْلُ الْكِتَابِ أَن تُنَزِّلَ عَلَيْهِمْ
-كِتَابًا مِّنَ السَّمَاءِ  فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِن
-ذَٰلِكَ فَقَالُوا أَرِنَا اللَّـهَ جَهْرَةً فَأَخَذَتْهُمُ
-الصَّاعِقَةُ بِظُلْمِهِمْ  ثُمَّ اتَّخَذُوا الْعِجْلَ مِن بَعْدِ مَا
-جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚوَآتَيْنَا مُوسَىٰ
-سُلْطَانًا مُّبِينًا  
-  </p>
-</blockquote>
+>  إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّـهِ وَرُسُلِهِ وَيُرِيدُونَ أَن
+> يُفَرِّقُوا بَيْنَ اللَّـهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا ﴿١٥٠﴾أُولَـٰئِكَ هُمُ الْكَافِرُونَ حَقًّا  وَأَعْتَدْنَا
+> لِلْكَافِرِينَ عَذَابًا مُّهِينًا  وَالَّذِينَ آمَنُوا بِاللَّـهِ
+> وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ أَحَدٍ مِّنْهُمْ أُولَـٰئِكَ
+> سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ  وَكَانَ اللَّـهُ غَفُورًا
+> رَّحِيمًا  يَسْأَلُكَ أَهْلُ الْكِتَابِ أَن تُنَزِّلَ عَلَيْهِمْ
+> كِتَابًا مِّنَ السَّمَاءِ  فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِن
+> ذَٰلِكَ فَقَالُوا أَرِنَا اللَّـهَ جَهْرَةً فَأَخَذَتْهُمُ
+> الصَّاعِقَةُ بِظُلْمِهِمْ  ثُمَّ اتَّخَذُوا الْعِجْلَ مِن بَعْدِ مَا
+> جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚوَآتَيْنَا مُوسَىٰ
+> سُلْطَانًا مُّبِينًا
 
 ***God says: «Surely those who disbelieve in Allah and His apostles and
 (those who) desire to make a distinction between Allah and His apostles
@@ -2583,60 +2419,40 @@ chastisement. And those who believe in Allah and His apostles and do not
 make a distinction between any of them - Allah will grant them their
 rewards; and Allah is Forgiving, Merciful.» (Holy Quran, 4:150-153)***
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُكَ أَهْلُ الْكِتَابِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِّنَ
-السَّمَاءِ  فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوا
-أَرِنَا اللَّـهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ
-بِظُلْمِهِمْ  ثُمَّ اتَّخَذُوا الْعِجْلَ مِن بَعْدِ مَا جَاءَتْهُمُ
-الْبَيِّنَاتُ فَعَفَوْنَا عَن ذَٰلِكَ وَآتَيْنَا مُوسَىٰ سُلْطَانًا
-مُّبِينًا 
-  </p>
-</blockquote>
+> يَسْأَلُكَ أَهْلُ الْكِتَابِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِّنَ
+> السَّمَاءِ  فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوا
+> أَرِنَا اللَّـهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ
+> بِظُلْمِهِمْ  ثُمَّ اتَّخَذُوا الْعِجْلَ مِن بَعْدِ مَا جَاءَتْهُمُ
+> الْبَيِّنَاتُ فَعَفَوْنَا عَن ذَٰلِكَ وَآتَيْنَا مُوسَىٰ سُلْطَانًا
+> مُّبِينًا
 
 ***«The followers of the Book ask you to bring down to them a book from
 heaven.... (Holy Quran, 4:154)***
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا نَقْضِهِم مِّيثَاقَهُمْ وَكُفْرِهِم بِآيَاتِ اللَّـهِ
-وَقَتْلِهِمُ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا
-غُلْفٌ  بَلْ طَبَعَ اللَّـهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ
-إِلَّا قَلِيلًا 
-  </p>
-</blockquote>
+> فَبِمَا نَقْضِهِم مِّيثَاقَهُمْ وَكُفْرِهِم بِآيَاتِ اللَّـهِ
+> وَقَتْلِهِمُ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا
+> غُلْفٌ  بَلْ طَبَعَ اللَّـهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ
+> إِلَّا قَلِيلًا
 
 ***Therefore, for their breaking their covenant and their disbelief in
 the communications of Allah....» (Holy Quran, 4:155)***
 
-<blockquote dir="rtl">
-  <p>
-وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَانًا عَظِيمًا
-  </p>
-</blockquote>
+> وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَانًا عَظِيمًا
 
 ***«And for their unbelief and for their having uttered against Mary a
 grievous calumny.» (Holy Quran, 4:156)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ
-اللَّـهِ...
-  </p>
-</blockquote>
+> وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ
+> اللَّـهِ...
 
 ***And their saying: «Surely we have killed the Messiah, Isa son of
 Marium, the apostle of Allah.» (Holy Quran, 4:157)***
 
-<blockquote dir="rtl">
-  <p>
-لَّـٰكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ
-يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن
-قَبْلِكَ وَالْمُقِيمِينَ الصَّلَاةَ  وَالْمُؤْتُونَ الزَّكَاةَ
-وَالْمُؤْمِنُونَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ أُولَـٰئِكَ
-سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا 
-  </p>
-</blockquote>
+> لَّـٰكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ
+> يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن
+> قَبْلِكَ وَالْمُقِيمِينَ الصَّلَاةَ  وَالْمُؤْتُونَ الزَّكَاةَ
+> وَالْمُؤْمِنُونَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ أُولَـٰئِكَ
+> سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
 ***«But the steadfast in knowledge amongst them and the believers
 believe in what has been revealed to you and what was revealed before
@@ -2644,89 +2460,54 @@ you, and those who keep up prayers and those who*** ***give the
 poor-rate and the believers in Allah and the last day, these are those
 whom We will give a mighty reward.» (Holy Quran, 4:162)***
 
-<blockquote dir="rtl">
-  <p>
- إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ
-وَالنَّبِيِّينَ مِن بَعْدِهِ…
-  </p>
-</blockquote>
+>  إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ
+> وَالنَّبِيِّينَ مِن بَعْدِهِ…
 
 ***«Surely We have revealed to you as We revealed to Nuh (Noah) and the
 prophets after him....» (Holy Quran, 4:163)***
 
-<blockquote dir="rtl">
-  <p>
-رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ...
-  </p>
-</blockquote>
+> رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ...
 
 ***«(We sent) apostles as the givers of good news and as warners.”»
 (Holy Quran, 4:165)***
 
-<blockquote dir="rtl">
-  <p>
-لَّـٰكِنِ اللَّـهُ يَشْهَدُ بِمَا أَنزَلَ إِلَيْكَ أَنزَلَهُ
-بِعِلْمِهِ وَالْمَلَائِكَةُ يَشْهَدُونَ وَكَفَىٰ بِاللَّـهِ شَهِيدًا 
-  </p>
-</blockquote>
+> لَّـٰكِنِ اللَّـهُ يَشْهَدُ بِمَا أَنزَلَ إِلَيْكَ أَنزَلَهُ
+> بِعِلْمِهِ وَالْمَلَائِكَةُ يَشْهَدُونَ وَكَفَىٰ بِاللَّـهِ شَهِيدًا
 
 ***«But Allah bears witness by what He has revealed to you that He has
 revealed it with His knowledge and the angels bear witness (also); and
 Allah is sufficient as a witness. »(Holy Quran, 4:166)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّـهِ قَدْ ضَلُّوا
-ضَلَالًا بَعِيدًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّـهِ قَدْ ضَلُّوا
+> ضَلَالًا بَعِيدًا
 
 ***«Surely (as for) those who disbelieve and hinder (men) from Allah's
 way, they indeed have strayed off into a remote error…»(Holy Quran,
 4:167)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّـهُ لِيَغْفِرَ
-لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا  إِلَّا طَرِيقَ جَهَنَّمَ
-خَالِدِينَ فِيهَا أَبَدًا  وَكَانَ ذَٰلِكَ عَلَى اللَّـهِ يَسِيرًا 
-  </p>
-</blockquote>
-
-<blockquote dir="rtl">
-  <p>
- 
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّـهُ لِيَغْفِرَ
+> لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا  إِلَّا طَرِيقَ جَهَنَّمَ
+> خَالِدِينَ فِيهَا أَبَدًا  وَكَانَ ذَٰلِكَ عَلَى اللَّـهِ يَسِيرًا
 
 ***'Surely (as for) those who disbelieve and act unjustly, Allah will
 not forgive them nor guide them to a path, Except the path of hell, to
 abide in it for ever, and this is easy to Allah.'(Holy Quran,
 4:168-169)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمُ الرَّسُولُ بِالْحَقِّ مِن
-رَّبِّكُمْ فَآمِنُوا خَيْرًا لَّكُمْ  وَإِن تَكْفُرُوا فَإِنَّ
-لِلَّـهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ  وَكَانَ اللَّـهُ عَلِيمًا
-حَكِيمًا ﴿١٧٠﴾
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمُ الرَّسُولُ بِالْحَقِّ مِن
+> رَّبِّكُمْ فَآمِنُوا خَيْرًا لَّكُمْ  وَإِن تَكْفُرُوا فَإِنَّ
+> لِلَّـهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ  وَكَانَ اللَّـهُ عَلِيمًا
+> حَكِيمًا ﴿١٧٠﴾
 
 ***'O people! surely the Apostle has come to you with the truth from
 your Lord, therefore believe, (it shall be) good for you; and if you
 disbelieve, then surely whatever is in the heavens and the earth is
 Allah's and Allah is knowing, Wise.' (Holy Quran, 4:170)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى
-اللَّـهِ إِلَّا الْحَقَّ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ
-رَسُولُ اللَّـهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ
-مِّنْهُ  فَآمِنُوا بِاللَّـهِ وَرُسُلِهِ  وَلَا تَقُولُوا ثَلَاثَةٌ...
- 
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى
+> اللَّـهِ إِلَّا الْحَقَّ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ
+> رَسُولُ اللَّـهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ
+> مِّنْهُ  فَآمِنُوا بِاللَّـهِ وَرُسُلِهِ  وَلَا تَقُولُوا ثَلَاثَةٌ...
 
 ***'O followers of the Book! do not exceed the limits in your religion,
 and do not speak (lies) against Allah, but (speak) the truth; the
@@ -2735,34 +2516,22 @@ word which He communicated to Marium and a spirit from Him; believe
 therefore in Allah and His apostles, and say not, three.', (Holy Quran,
 4:171)***
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ
-أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِ....
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ
+> أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِ....
 
 ***'Then as for those who believe and do good, He will pay them fully
 their rewards and give them more out of His grace.'(Holy Quran,
 4:173)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُم بُرْهَانٌ مِّن رَّبِّكُمْ
-وَأَنزَلْنَا إِلَيْكُمْ نُورًا مُّبِينًا 
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُم بُرْهَانٌ مِّن رَّبِّكُمْ
+> وَأَنزَلْنَا إِلَيْكُمْ نُورًا مُّبِينًا
 
 ***'O people! Surely there has come to you manifest proof from your Lord
 and We have sent to you clear light.'(Holy Quran, 4:174)***
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ آمَنُوا بِاللَّـهِ وَاعْتَصَمُوا بِهِ
-فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ
-صِرَاطًا مُّسْتَقِيمًا
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ آمَنُوا بِاللَّـهِ وَاعْتَصَمُوا بِهِ
+> فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ
+> صِرَاطًا مُّسْتَقِيمًا
 
 ***'Then as for those who believe in Allah and hold fast by Him, He will
 cause them to enter into His mercy and grace and guide them to Himself
@@ -2783,12 +2552,8 @@ be an infidel and certainly not considered a Muslim or believer. Thus,
 in the verse previous to the above verses (verse 123) which has come
 down in this very Sura (chapter).
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ مِنَ الصَّالِحَاتَ مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ
-مُؤْمِنٌ فَأُوْلَـئِكَ يَدْخُلُونَ الْجَنَّةَ ..
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ مِنَ الصَّالِحَاتَ مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ
+> مُؤْمِنٌ فَأُوْلَـئِكَ يَدْخُلُونَ الْجَنَّةَ ..
 
 ***And whoever does righteous deeds, whether male or female, while being
 a believer - those will enter Paradise. (Holy book, 4:124) ***
@@ -2804,20 +2569,16 @@ The afore-mentioned verses were all from Sura Nisa. Numerous other
 verses too have cursed the people of the Book for not believing in the
 last of the Prophets like:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَاءهُمْ كِتَابٌ مِّنْ عِندِ اللّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ
-وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُواْ
-فَلَمَّا جَاءهُم مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ اللَّه عَلَى
-الْكَافِرِينَ بِئْسَمَا اشْتَرَوْاْ بِهِ أَنفُسَهُمْ أَن يَكْفُرُواْ
-بِمَا أنَزَلَ اللّهُ بَغْياً أَن يُنَزِّلُ اللّهُ مِن فَضْلِهِ عَلَى
-مَن يَشَاءُ مِنْ عِبَادِهِ فَبَآؤُواْ بِغَضَبٍ عَلَى غَضَبٍ
-وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ وَإِذَا قِيلَ لَهُمْ آمِنُواْ بِمَا
-أَنزَلَ اللّهُ قَالُواْ نُؤْمِنُ بِمَا أُنزِلَ عَلَيْنَا وَيَكْفُرونَ
-بِمَا وَرَاءهُ وَهُوَ الْحَقُّ مُصَدِّقاً لِّمَا مَعَهُمْ قُلْ فَلِمَ
-تَقْتُلُونَ أَنبِيَاءَ اللّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَمَّا جَاءهُمْ كِتَابٌ مِّنْ عِندِ اللّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ
+> وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُواْ
+> فَلَمَّا جَاءهُم مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ اللَّه عَلَى
+> الْكَافِرِينَ بِئْسَمَا اشْتَرَوْاْ بِهِ أَنفُسَهُمْ أَن يَكْفُرُواْ
+> بِمَا أنَزَلَ اللّهُ بَغْياً أَن يُنَزِّلُ اللّهُ مِن فَضْلِهِ عَلَى
+> مَن يَشَاءُ مِنْ عِبَادِهِ فَبَآؤُواْ بِغَضَبٍ عَلَى غَضَبٍ
+> وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ وَإِذَا قِيلَ لَهُمْ آمِنُواْ بِمَا
+> أَنزَلَ اللّهُ قَالُواْ نُؤْمِنُ بِمَا أُنزِلَ عَلَيْنَا وَيَكْفُرونَ
+> بِمَا وَرَاءهُ وَهُوَ الْحَقُّ مُصَدِّقاً لِّمَا مَعَهُمْ قُلْ فَلِمَ
+> تَقْتُلُونَ أَنبِيَاءَ اللّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
 
 ***And when there came to them a Book from Allah confirming that which
 was with them - although before they used to pray for victory against
@@ -2834,17 +2595,13 @@ what came after it, while it is the truth confirming that which is with
 them.*** ***Say, "Then why did you kill the prophets of Allah before, if
 you are [indeed] believers?" (Holy Quran, 2:89-91)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
-وَالْهُدَى مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ
-أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ إِلاَّ
-الَّذِينَ تَابُواْ وَأَصْلَحُواْ وَبَيَّنُواْ فَأُوْلَـئِكَ أَتُوبُ
-عَلَيْهِمْ وَأَنَا التَّوَّابُ الرَّحِيمُ إِنَّ الَّذِينَ كَفَرُوا
-وَمَاتُوا وَهُمْ كُفَّارٌ أُولَئِكَ عَلَيْهِمْ لَعْنَةُ اللّهِ
-وَالْمَلآئِكَةِ وَالنَّاسِ أَجْمَعِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ
+> وَالْهُدَى مِن بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ
+> أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ إِلاَّ
+> الَّذِينَ تَابُواْ وَأَصْلَحُواْ وَبَيَّنُواْ فَأُوْلَـئِكَ أَتُوبُ
+> عَلَيْهِمْ وَأَنَا التَّوَّابُ الرَّحِيمُ إِنَّ الَّذِينَ كَفَرُوا
+> وَمَاتُوا وَهُمْ كُفَّارٌ أُولَئِكَ عَلَيْهِمْ لَعْنَةُ اللّهِ
+> وَالْمَلآئِكَةِ وَالنَّاسِ أَجْمَعِينَ
 
 ***Indeed, those who conceal what We sent down of clear proofs and
 guidance after We made it clear for the people in the Scripture - those
@@ -2855,16 +2612,12 @@ repentance, the Merciful. Indeed, those who disbelieve and die while
 they are disbelievers - upon them will be the curse of Allah and of the
 angels and the people, all together. (Holy Quran, 2:159-161)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللّهُ مِنَ الْكِتَابِ
-وَيَشْتَرُونَ بِهِ ثَمَناً قَلِيلاً أُولَـئِكَ مَا يَأْكُلُونَ فِي
-بُطُونِهِمْ إِلاَّ النَّارَ وَلاَ يُكَلِّمُهُمُ اللّهُ يَوْمَ
-الْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ أُولَـئِكَ
-الَّذِينَ اشْتَرَوُاْ الضَّلاَلَةَ بِالْهُدَى وَالْعَذَابَ
-بِالْمَغْفِرَةِ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللّهُ مِنَ الْكِتَابِ
+> وَيَشْتَرُونَ بِهِ ثَمَناً قَلِيلاً أُولَـئِكَ مَا يَأْكُلُونَ فِي
+> بُطُونِهِمْ إِلاَّ النَّارَ وَلاَ يُكَلِّمُهُمُ اللّهُ يَوْمَ
+> الْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ أُولَـئِكَ
+> الَّذِينَ اشْتَرَوُاْ الضَّلاَلَةَ بِالْهُدَى وَالْعَذَابَ
+> بِالْمَغْفِرَةِ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ
 
 ***Indeed, they who conceal what Allah has sent down of the Book and
 exchange it for a small price- those consume not into their bellies
@@ -2881,13 +2634,9 @@ Prophets (whether belonging to the people of the Book or other than
 them) as an infidel and not as a believer, we can understand the meaning
 of the verse which the exegetist had rationalized from Sura Ma'eda:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُواْ وَالَّذِينَ هَادُواْ وَالصَّابِؤُونَ
-وَالنَّصَارَى مَنْ آمَنَ بِاللّهِ وَالْيَوْمِ الآخِرِ وعَمِلَ صَالِحاً
-فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُواْ وَالَّذِينَ هَادُواْ وَالصَّابِؤُونَ
+> وَالنَّصَارَى مَنْ آمَنَ بِاللّهِ وَالْيَوْمِ الآخِرِ وعَمِلَ صَالِحاً
+> فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
 
 ***Indeed, those who have believed [in Prophet Muhammad] and those
 [before Him] who were Jews or Sabeans or Christians - those [among them]
@@ -2897,14 +2646,10 @@ will there be concerning them, nor will they grieve. (Holy Quran,
 
 The same contents can be seen in another verse from Sura Baqarah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُواْ وَالَّذِينَ هَادُواْ وَالنَّصَارَى
-وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَعَمِلَ
-صَالِحاً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ
-وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُواْ وَالَّذِينَ هَادُواْ وَالنَّصَارَى
+> وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَعَمِلَ
+> صَالِحاً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ
+> وَلاَ هُمْ يَحْزَنُونَ
 
 ***Indeed, those who believed and those who were Jews or Christians or
 Sabeans [before Prophet Muhammad]- those [among them] who believed in
@@ -2914,11 +2659,7 @@ they grieve. (Holy Quran, 2:62)***
 
 See how Allah mentions in the two verses:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُواْ... مَنْ آمَنَ بِاللَّهِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُواْ... مَنْ آمَنَ بِاللَّهِ
 
 What is meant by these two divine sayings:-
 
@@ -2977,22 +2718,14 @@ would have referred to one knowledgeable person from the theological
 center who would have taught him (in this regard) explicit verses of the
 Quran like:
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبِّ زِدْنِي عِلْماً
-  </p>
-</blockquote>
+> وَقُل رَّبِّ زِدْنِي عِلْماً
 
 ***.. and say, "My Lord, increase me in knowledge."*** ***(Holy Quran,
 20:114)***
 
 or the traditions of the Holy Prophet like:
 
-<blockquote dir="rtl">
-  <p>
-إطلب العلم من المهد الى اللحد
-  </p>
-</blockquote>
+> إطلب العلم من المهد الى اللحد
 
 Although he was educated in Paris nevertheless, he should have referred
 (in this regard) to someone educated from the theological center.
@@ -3003,11 +2736,7 @@ else the interpretation of the Quran from the masters of exegesis of
 Quran in theological centers so that he would have realized the meaning
 of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ اللّهَ الَّذِي تَسَاءلُونَ بِهِ وَالأَرْحَامَ
-  </p>
-</blockquote>
+> وَاتَّقُواْ اللّهَ الَّذِي تَسَاءلُونَ بِهِ وَالأَرْحَامَ
 
 ***And fear Allah, through whom you ask one another, and the wombs .
 (Holy Quran, 4:1***)
@@ -3103,12 +2832,8 @@ which are amply narrated in this regard.
 
 (a)
 
-<blockquote dir="rtl">
-  <p>
-قال الرسول- صلى الله عليه وآله: إذا ظهرت البدع في امتي فعلى العالم أن
-يظهر علمه و إلا فعليه لعنة الله و الملائكة و الناس أجمعين
-  </p>
-</blockquote>
+> قال الرسول- صلى الله عليه وآله: إذا ظهرت البدع في امتي فعلى العالم أن
+> يظهر علمه و إلا فعليه لعنة الله و الملائكة و الناس أجمعين
 
 «When innovations shall appear in my nation, it is obligatory upon the
 learned to manifest their knowledge (to make known the heresies). If he
@@ -3117,15 +2842,11 @@ him.
 
 (b)
 
-<blockquote dir="rtl">
-  <p>
-قال الرسول- صلى الله عليه وآله: إذا رأيتم أهل الريب و البدع من بعدي
-فأظهروا البراءة منهم و أكثروا من سبّهم و القول فيهم و الوقيعة و
-باهتوهم كي لا يطمعوا في الفساد في الاسلام و يحذَرْهم الناس و لا
-يتعلمون من بدعهم. يكتب الله لكم بذلك الحسنات و يرفع لكم به الدرجات في
-الاخرة.
-  </p>
-</blockquote>
+> قال الرسول- صلى الله عليه وآله: إذا رأيتم أهل الريب و البدع من بعدي
+> فأظهروا البراءة منهم و أكثروا من سبّهم و القول فيهم و الوقيعة و
+> باهتوهم كي لا يطمعوا في الفساد في الاسلام و يحذَرْهم الناس و لا
+> يتعلمون من بدعهم. يكتب الله لكم بذلك الحسنات و يرفع لكم به الدرجات في
+> الاخرة.
 
 «Whenever you see skeptics and heretics in religion then denounce them,
 curse them, much speak against them and attack them unaware so that they
@@ -3165,21 +2886,13 @@ assassins.
 For those who protest, I present these two reasons for the time being
 and say:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللّهِ
-  </p>
-</blockquote>
+> إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللّهِ
 
 ### Another Painful Aspect
 
 As evidenced by this saying:
 
-<blockquote dir="rtl">
-  <p>
-قصم ظهري إثنان: عالم متهتك و جاهل متنسك
-  </p>
-</blockquote>
+> قصم ظهري إثنان: عالم متهتك و جاهل متنسك
 
 Our present-day society is afflicted with yet another pain such that
 these disorders cause some people to take detrimental steps imagining
@@ -3191,11 +2904,7 @@ of transmission of traditions - get printed and distributed with intense
 avarice. This takes place even though Allama Majlisi has said about this
 book as such:
 
-<blockquote dir="rtl">
-  <p>
-لا اعتماد على ما تفرد به لإشتماله على ما يوهم الخلط والخبط
-  </p>
-</blockquote>
+> لا اعتماد على ما تفرد به لإشتماله على ما يوهم الخلط والخبط
 
 «The traditions which have come down in this book alone cannot be
 trusted as this book comprises such matters which are against reason and
@@ -3203,11 +2912,7 @@ erroneous.» [^49]
 
 Shaikh Hurr Amali too has said:
 
-<blockquote dir="rtl">
-  <p>
-إن فيه إفراط ربما نسب الى الغلو
-  </p>
-</blockquote>
+> إن فيه إفراط ربما نسب الى الغلو
 
 «This book has exceeded the bounds and is filled with exaggeration.»
 [^50]
@@ -3295,12 +3000,8 @@ laws of their Prophet. However, as far as this nation is concerned, God
 has not made clear the details of the commandments in His Book (Quran)
 and has said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ
 
 Thus, the explanation and details of the Islamic commandments and their
 beliefs was the responsibility of the Prophet and he has explained them
@@ -3309,11 +3010,7 @@ in his «seerah» (way of life) and hadith (his conduct and speech).
 With this philosophy, God has protected the Quran from distortion and
 concealment and He says in the Quran as such:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 In this connection, the oppressors of this nation have esoterically
 interpreted as per their own desire, those parts of the Quranic texts
@@ -3328,12 +3025,8 @@ this way, God has placed the divine laws of the last of the Prophets
 within the reach of man forever and it was for this very reason that the
 Prophet (S) said:-
 
-<blockquote dir="rtl">
-  <p>
-إنّي تارك فيكم الثقلين كتاب الله وأهل بيتي, ما إن تمسكتم بهما لم تضلوا
-بعدي, وقد أنبأني اللطيف الخبير أنهما لن يفترقان حتّى يردا عليَّ الحوض
-  </p>
-</blockquote>
+> إنّي تارك فيكم الثقلين كتاب الله وأهل بيتي, ما إن تمسكتم بهما لم تضلوا
+> بعدي, وقد أنبأني اللطيف الخبير أنهما لن يفترقان حتّى يردا عليَّ الحوض
 
 Whatever has occured for the past nations in connection with the
 distortion and concealment of the «Shariat» (divine canons) has occured
@@ -3501,22 +3194,14 @@ verse to be revealed to him which would cause them to come on the path
 of guidance and hence become intimate with him. While sura «Najm» was
 revealed to him and he was reciting it, he came to the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى. وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى
-  </p>
-</blockquote>
+> أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى. وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى
 
 ***So have you considered al-Lat and al-'Uzza?*** ***And Manat, the
 third - the other one?*** ***(Holy Quran, 53: 19-20)***
 
 Satan inspired him with these two sentences:
 
-<blockquote dir="rtl">
-  <p>
-تلك الغرانيق العلى، وان شفاعتهن لترتجى
-  </p>
-</blockquote>
+> تلك الغرانيق العلى، وان شفاعتهن لترتجى
 
 and the Prophet while reciting the verses of the afore-said Sura also
 recited these two sentences.
@@ -3528,12 +3213,8 @@ polytheists had become Muslims. Some of them turned back to Mecca.
 Gibra'eel descended upon the Prophet and informed him of the event. The
 Holy Prophet became sad. God consoled him with the noble verse of:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
-تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا
+> تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ
 
 ***And We did not send before you any messenger or prophet except that
 when he spoke [or recited], Satan threw into it [some misunderstanding].
@@ -3591,14 +3272,10 @@ revealed to him.
 (b) I advised the Prophet as such: Order your wives to wear the veil.
 Later the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
-أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
-رَّحِيماً
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
+> أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
+> رَّحِيماً
 
 ***O Prophet, tell your wives and your daughters and the women of the
 believers to bring down over themselves [part] of their outer garments.
@@ -3613,11 +3290,7 @@ revealed.
 
 (d) I told the Prophet's wives:
 
-<blockquote dir="rtl">
-  <p>
-عسى ربه إن طلقكن أن يبدله أزواجا خيرا منكن
-  </p>
-</blockquote>
+> عسى ربه إن طلقكن أن يبدله أزواجا خيرا منكن
 
 and the verse:
 
@@ -3644,8 +3317,6 @@ which they narrate from Omar as such:
 **
 
 وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ
-
-  
 
 [^55]
 
@@ -3709,8 +3380,6 @@ behaviour. In this connction, Hazrat Abu Abdullah Hussein (a.s.) says:-
 **
 
 مِثلي لا يبايع مثله
-
-  
 
 [^57]
 
@@ -3889,21 +3558,13 @@ Bani-Hashim to the ground.[^58]
 revealed, the Holy Prophet invited the Bani-Hashim to his house and
 presented Islam to them. Thereafter he said:
 
-<blockquote dir="rtl">
-  <p>
-أيكم يؤازرني على هذا الامر فيكون أخي و وزيري و خليفتي
-  </p>
-</blockquote>
+> أيكم يؤازرني على هذا الامر فيكون أخي و وزيري و خليفتي
 
 All displayed disinterest in bringing faith and supporting the Holy
 Prophet and it was only Ali (a.s.) who expressed his acceptance. The
 Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-هذا أخي و وزيري...
-  </p>
-</blockquote>
+> هذا أخي و وزيري...
 
 In violation of this reality, they have narrated f rom Ayesha as saying:
 When this verse was revealed, the Holy Prophet gathered Bani-Abdul
@@ -3925,37 +3586,21 @@ mentioned true tradition.
 
 (b) In a famous tradition, the Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-أنا مدينة العلم و علي بابها
-  </p>
-</blockquote>
+> أنا مدينة العلم و علي بابها
 
 The contradiction to the above tradition is what they have narrated from
 the Holy Prophet as:-
 
-<blockquote dir="rtl">
-  <p>
-أنا مدينة العلم و أبو بكر اساسها وعمر حيطانها و عثمان سقفها وعلي بابها
-  </p>
-</blockquote>
+> أنا مدينة العلم و أبو بكر اساسها وعمر حيطانها و عثمان سقفها وعلي بابها
 
 (c) The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-الحسن و الحسين سيدا شباب أهل الجنة
-  </p>
-</blockquote>
+> الحسن و الحسين سيدا شباب أهل الجنة
 
 The contradiction to this is what they have narrated from the Holy
 Prophet as:-
 
-<blockquote dir="rtl">
-  <p>
-أبو بكر و عمر سيدا كهول أهل الجنة
-  </p>
-</blockquote>
+> أبو بكر و عمر سيدا كهول أهل الجنة
 
 #### Traditions About Ayesha's Virtues
 
@@ -3992,20 +3637,12 @@ perform ablution for prayers. This was while the Holy Prophet's head
 rested on Ayesha's knees for sleep. When he awoke, God revealed to him
 the verse of «tayammum» (dry ablution). The Muslims said:
 
-<blockquote dir="rtl">
-  <p>
-ماهي أول بركتكم يا آل أبي بكر
-  </p>
-</blockquote>
+> ماهي أول بركتكم يا آل أبي بكر
 
 «O the family of Abu Bakr, this blessing from your side is not the first
 blessing. Abu Bakr replied:
 
-<blockquote dir="rtl">
-  <p>
-ما كنت أعرف كم أنت مباركة يا بتية
-  </p>
-</blockquote>
+> ما كنت أعرف كم أنت مباركة يا بتية
 
 'O my daughter, I was not aware that you are so bountiful.'
 
@@ -4078,11 +3715,7 @@ On the other hand, this Hashimi man's name (i.e. the Holy Prophet) is
 loudly pronounced five times a day and remembered in a dignified manner
 in the entire Islamic world:
 
-<blockquote dir="rtl">
-  <p>
-أشهد أن محمداً رسول الله
-  </p>
-</blockquote>
+> أشهد أن محمداً رسول الله
 
 “What do you think is the person for this name to have remained alive 'O
 the wretched one? Nay, I swear by God that I shall not rest unless I
@@ -4140,12 +3773,8 @@ To what extent such a letter can help Muawiya and Yazid who said:
 And the same in the case of the hypocrites where the holy Quran has
 informed about them and says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ أَهْلِ الْمَدِينَةِ مَرَدُواْ عَلَى النِّفَاقِ لاَ تَعْلَمُهُمْ
-نَحْنُ نَعْلَمُهُمْ
-  </p>
-</blockquote>
+> وَمِنْ أَهْلِ الْمَدِينَةِ مَرَدُواْ عَلَى النِّفَاقِ لاَ تَعْلَمُهُمْ
+> نَحْنُ نَعْلَمُهُمْ
 
 ***And among those around you of the bedouins are hypocrites, and [also]
 from the people of Madinah. They have become accustomed to hypocrisy.
@@ -4556,5 +4185,4 @@ Balagha - first edition (1/463)
 [^65]: (فأي عمل يبقى مع هذا؟ لا أُم لك! لا والله إلّا دغنا دفنا) It has
 come dawn in the traditions that Muawiya uttered this sentence: (وإن أبي
 كبشة ليصاح به يومياً خمس مرات، لا والله إلّا دفناً دفناً)
-
 

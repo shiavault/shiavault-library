@@ -208,7 +208,7 @@ He says as follows:
 
 *“Imam of guidance! How long will you be away from the sighta*
 
-To whom do we complain about your return, O our father ?”<sup>[1]</sup>
+To whom do we complain about your return, O our father ?”[1]
 
 15. Abul Ma’ali
 ---------------
@@ -218,7 +218,7 @@ Abul Ma’ali Sadruddin has said as follows:
 *“He will be established on the earth by the command of Allah and
 reappear on the earth*
 
-In spite of the mischiefs of the evil people.” <sup>[2]</sup>
+In spite of the mischiefs of the evil people.” [2]
 
 ------------------------------------------------------------------------
 
@@ -241,7 +241,7 @@ the title of Waseelatul Fauz wal Amaan fi Madhe Sahibuz Zaman:
 *“Lightning flashed from Najd and refreshed the memory.*
 
 The covenant became clear as an ember for strangers at Zeeqaar.”
-<sup>[1]</sup>
+[1]
 
 17. Sayyid Haider Hilli
 -----------------------
@@ -271,10 +271,10 @@ fire (embers).”
 Sayyid Ali Khan Huwaizawi has said the following with regard to His
 Eminence, Imam Mahdi (a.s):
 
-*“Or a Qaim who is the Mahdi, the Jabbar<sup>[1]</sup> of the Sky*
+*“Or a Qaim who is the Mahdi, the Jabbar[1] of the Sky*
 
 The one who is the guided one and the guide of all the creatures of the
-world from the darkness of the night of ignorance.”<sup>[2]</sup>
+world from the darkness of the night of ignorance.”[2]
 
 19. Khalie-e
 ------------
@@ -312,7 +312,7 @@ Like goats of slaughter flee from slaughter.
 
 ------------------------------------------------------------------------
 
-[1] Powerful, strong etc. <sup>[2]</sup> Minanur Rahman, 2/230
+[1] Powerful, strong etc. [2] Minanur Rahman, 2/230
 
 22. Sayyid Abbas
 ----------------

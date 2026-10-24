@@ -231,4 +231,3 @@ pub. House., Najaf 1393 Hijrah.
 
 ([^6]) Al Mutazilah. Zudhi Jar Allah p: 100 – 102.
 
-

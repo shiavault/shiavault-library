@@ -9,11 +9,7 @@ While in *ruku‘* and *sujud*, the person praying glorifies God.
 All-supreme,”*[^1] was revealed, the Prophet (S) thus said: “Apply this
 command to your *ruku‘* and say:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ رَبِّيَ ٱلْعَظيمِ وَ بِحَمدهِ
-  </p>
-</blockquote>
+> سُبْحانَ رَبِّيَ ٱلْعَظيمِ وَ بِحَمدهِ
 
 *Subhana rabbiya’l-‘azim wa bihamdih.*  
  “Glory be to my Lord, the Great, and praise belongs to Him.”
@@ -22,11 +18,7 @@ And when the verse, “*You are laboring toward your Lord, the Most
 Exalted,*”[^2] was revealed, he (S) said: “Apply this command to your
 *sujud* and say:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ رَبِّيَ ٱلاَعْلىٰ وَ بِحَمدهِ
-  </p>
-</blockquote>
+> سُبْحانَ رَبِّيَ ٱلاَعْلىٰ وَ بِحَمدهِ
 
 *Subhana rabbiya’l-a‘la* *wa bihamdih.*  
  “Glory be to my Lord, the Exalted, and praise belongs to Him.”[^3]
@@ -48,12 +40,8 @@ Prophethood {*nubuwwah*} and Imamate {*imamah*} mean treating God as
 immune from the lack of the purpose, the program and the means
 delivering the people from the sea of desire and inclination:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِذْ قَالُوا مَا أَنزَلَ
-اللَّهُ عَلى بَشرٍ مِّن شيْ‏ءٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِذْ قَالُوا مَا أَنزَلَ
+> اللَّهُ عَلى بَشرٍ مِّن شيْ‏ءٍ ﴾
 
 ***“They did not regard Allah with the regard due to Him when they said,
 ‘Allah has not sent down anything to any human’.”***[^6]
@@ -103,12 +91,8 @@ command for *tasbih* is meant for all times and conditions so that man
 should always remember God and regard Him as free from any form of
 defect and shortcoming:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ
-غُرُوبِهَا وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ
+> غُرُوبِهَا وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ ﴾
 
 ***“And celebrate the praise of your Lord before the rising of the sun
 and before the sunset, and glorify Him in watches of the night and at
@@ -132,12 +116,8 @@ exalted above what they say!”***[^15]
 Only the sincere servants of God, through divine guidance and succor,
 can describe God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ ٭إِلا عِبَادَ اللَّهِ
-الْمُخْلَصِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ ٭إِلا عِبَادَ اللَّهِ
+> الْمُخْلَصِينَ ﴾
 
 ***“Clear is Allah of whatever they allege {about Him},—{all} except
 Allah’s exclusive servants.”***[^16]
@@ -221,11 +201,7 @@ between them—glorifies God.[^23] The animals such as the birds,
 inanimate objects such as the mountains,[^24] thunder and storm[^25] do
 so and that too is out of consciousness and instinct!
 
-<blockquote dir="rtl">
-  <p>
-﴿ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ﴾
 
 ***“Each knows his prayer and glorification.”***[^26]
 
@@ -240,53 +216,21 @@ with him.”[^28]
 In the traditions, we are admonished not to strike a blow on the face of
 four-footed animals for they are glorifying God.[^29]
 
-<blockquote dir="rtl">
-  <p>
-گر تو را از غيب چشمى باز شد
-  </p>
-</blockquote>
+> گر تو را از غيب چشمى باز شد
 
-<blockquote dir="rtl">
-  <p>
-با تو ذرّات جهان همراز شد
-  </p>
-</blockquote>
+> با تو ذرّات جهان همراز شد
 
-<blockquote dir="rtl">
-  <p>
-نطق آب و نطق خاك و نطق گل
-  </p>
-</blockquote>
+> نطق آب و نطق خاك و نطق گل
 
-<blockquote dir="rtl">
-  <p>
-هست محسوس حواس اهل دل
-  </p>
-</blockquote>
+> هست محسوس حواس اهل دل
 
-<blockquote dir="rtl">
-  <p>
-جمله ذرّات عالم در نهان
-  </p>
-</blockquote>
+> جمله ذرّات عالم در نهان
 
-<blockquote dir="rtl">
-  <p>
-با تو مى گويند روزان و شبان
-  </p>
-</blockquote>
+> با تو مى گويند روزان و شبان
 
-<blockquote dir="rtl">
-  <p>
-ما سميعيم و بصيريم و هوشيم
-  </p>
-</blockquote>
+> ما سميعيم و بصيريم و هوشيم
 
-<blockquote dir="rtl">
-  <p>
-با شما نامحرمان ما خاموشيم
-  </p>
-</blockquote>
+> با شما نامحرمان ما خاموشيم
 
 *If you could see the unseen, to you would be revealed the secret behind
 every particle of the world.*  
@@ -322,12 +266,8 @@ meaning, we have no right to resort to allegorical interpretation.
 How could we resort to allegorical interpretation when the Qur’an itself
 says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِن مِّن شىْ‏ءٍ إِلا يُسبِّحُ بحَمْدِهِ وَ لَكِن لا تَفْقَهُونَ
-تَسبِيحَهُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِن مِّن شىْ‏ءٍ إِلا يُسبِّحُ بحَمْدِهِ وَ لَكِن لا تَفْقَهُونَ
+> تَسبِيحَهُمْ ﴾
 
 ***“There is not a thing but celebrates His praise, but you do not
 understand their glorification”*****?**[^32]
@@ -456,5 +396,4 @@ is in Surah al-Anbiya’ 21:109.
 [^36]: Surah an-Naml 27:22-27.
 
 [^37]: Surah an-Naml 27:18.
-
 

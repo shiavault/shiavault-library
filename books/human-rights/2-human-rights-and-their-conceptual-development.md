@@ -435,4 +435,3 @@ motives.
 [^15]: Risalatal Huquq by Imam Ali ibn Hussain(a.s) which covers all the
 mutual rights
 
-

@@ -4,12 +4,8 @@ Section 4: References to the Other Prominent Apostles of Allah
 Surah Maryam – Verse 51
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ مُوسَي إِنَّهُ كَانَ مُخْلَصاً وَكَانَ
-رَسُولاً نَّبِيّاً
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ مُوسَي إِنَّهُ كَانَ مُخْلَصاً وَكَانَ
+> رَسُولاً نَّبِيّاً
 
 ***51. “And mention Moses in the Book; for verily he was one purified,
 and he was an apostle, a prophet.”***
@@ -65,17 +61,9 @@ while a Messenger, besides hearing the sound of the angel, sees him.[^4]
 Surah Maryam – Verses 52 - 53
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَيْنَاهُ مِن جَانِبِ الطُّورِ الاَيْمَنِ وَقَرَّبْنَاهُ نَجِيّاً
-  </p>
-</blockquote>
+> وَنَادَيْنَاهُ مِن جَانِبِ الطُّورِ الاَيْمَنِ وَقَرَّبْنَاهُ نَجِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ مِن رَّحْمَتِنَآ أَخَاهُ هَارُونَ نَبِيّاً
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ مِن رَّحْمَتِنَآ أَخَاهُ هَارُونَ نَبِيّاً
 
 ***52. “And We called him from the right side of (the Mount) Sinai and
 made him draw nigh (unto Us) for a converse in secret.”***  
@@ -199,19 +187,11 @@ Kulayni.[^11]
 Surah Maryam – Verses 54 - 55
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ إِسْماعِيلَ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ
-وَكَانَ رَسُولاً نَّبِيّاً
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ إِسْماعِيلَ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ
+> وَكَانَ رَسُولاً نَّبِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلاَةِ وَالزَّكَاةِ وَكَانَ عِندَ
-رَبّـِهِ مَرْضِيّاً
-  </p>
-</blockquote>
+> وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلاَةِ وَالزَّكَاةِ وَكَانَ عِندَ
+> رَبّـِهِ مَرْضِيّاً
 
 ***54. “And mention’Isma‘il in the Book, verily he was (ever) true to
 (his) promise, and he was an apostle, a prophet.”***  
@@ -276,17 +256,9 @@ They will say:
 Surah Maryam – Verses 56 - 57
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ إِنَّهُ كَانَ صِدّ‌ِيقاً نَّبِيّاً
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ إِنَّهُ كَانَ صِدّ‌ِيقاً نَّبِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعْنَاهُ مَكَاناً عَلِيّاً
-  </p>
-</blockquote>
+> وَرَفَعْنَاهُ مَكَاناً عَلِيّاً
 
 ***56. “And mention Idris in the Book; verily he was a truthful one, a
 prophet.”***  
@@ -350,15 +322,11 @@ Ibn-i-Majeh; Abi-Dawood; Altiyalisi; and the book: Al-Mahdi
 Surah Maryam – Verse 58
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِنَ النَّبِيّـِينَ
-مِن ذُرّ‌ِيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن
-ذُرّ‌ِيَّةِ إِبْرَاهِيمَ وإِِسْرَآئِيلَ وَمِمَّنْ هَدَيْنَا
-وَاجْتَبَيْنَا إِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُ الرَّحْمَنِ خَرُّوا
-سُجَّداً وَبُكِيّاً
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِنَ النَّبِيّـِينَ
+> مِن ذُرّ‌ِيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن
+> ذُرّ‌ِيَّةِ إِبْرَاهِيمَ وإِِسْرَآئِيلَ وَمِمَّنْ هَدَيْنَا
+> وَاجْتَبَيْنَا إِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُ الرَّحْمَنِ خَرُّوا
+> سُجَّداً وَبُكِيّاً
 
 ***58. “Those were some of the prophets on whom Allah showed favour of
 the seed of Adam, and of those We carried (in the Ark) with Noah, and of
@@ -427,19 +395,11 @@ with all pollutions they have, refrain from weeping.
 Surah Maryam – Verses 59 - 60
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلاَةَ وَاتَّبَعُوا
-الشَّهَوَاتِ فَسَوْفَ يَلْقَوْنَ غَيّاً
-  </p>
-</blockquote>
+> فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلاَةَ وَاتَّبَعُوا
+> الشَّهَوَاتِ فَسَوْفَ يَلْقَوْنَ غَيّاً
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَن تَابَ وءَامَنَ وَعَمِلَ صَالِحاً فَاُوْلَئِكَ يَدْخُلُونَ
-الْجَنَّةَ وَلاَ يُظْلَمُونَ شَيْئاً
-  </p>
-</blockquote>
+> إِلاَّ مَن تَابَ وءَامَنَ وَعَمِلَ صَالِحاً فَاُوْلَئِكَ يَدْخُلُونَ
+> الْجَنَّةَ وَلاَ يُظْلَمُونَ شَيْئاً
 
 ***59. “Then there succeeded them a later generation who ruined prayers
 and followed lusts. Soon, then, they shall meet perdition.”***  
@@ -609,25 +569,13 @@ any way.”***
 Surah Maryam – Verses 61 - 63
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمنُ عِبَادَهُ بِالْغَيْبِ
-إِنَّهُ كَانَ وَعْدُهُ مَأْتِيّاً
-  </p>
-</blockquote>
+> جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمنُ عِبَادَهُ بِالْغَيْبِ
+> إِنَّهُ كَانَ وَعْدُهُ مَأْتِيّاً
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يَسْمَعُونَ فِيهَا لَغْواً إِلاَّ سَلاَماً وَلَهُمْ رِزْقُهُمْ
-فِيهَا بُكْرَةً وَعَشِيّاً
-  </p>
-</blockquote>
+> لاَّ يَسْمَعُونَ فِيهَا لَغْواً إِلاَّ سَلاَماً وَلَهُمْ رِزْقُهُمْ
+> فِيهَا بُكْرَةً وَعَشِيّاً
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيّاً
-  </p>
-</blockquote>
+> تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيّاً
 
 ***61. “Gardens of Eternity that the Beneficent (Allah) has promised to
 His servants in the Unseen; verily His promise shall come to pass.”***  
@@ -751,12 +699,8 @@ nothing but ‘piety’.
 Surah Maryam – Verse 64
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نَتَنَزَّلُ إِلاَّ بِاَمْرِ رَبّـِكَ لَهُ مَا بَيْنَ أَيْدِينَا
-وَمَا خَلْفَنَا وَمَا بَيْنَ ذَلِكَ وَمَا كَانَ رَبُّكَ نَسِيّاً
-  </p>
-</blockquote>
+> وَمَا نَتَنَزَّلُ إِلاَّ بِاَمْرِ رَبّـِكَ لَهُ مَا بَيْنَ أَيْدِينَا
+> وَمَا خَلْفَنَا وَمَا بَيْنَ ذَلِكَ وَمَا كَانَ رَبُّكَ نَسِيّاً
 
 ***64. “And we (angels) do not descend but by the command of your Lord;
 to Him belongs whatever is before us and whatever is behind us and
@@ -807,12 +751,8 @@ The verse says:
 Surah Maryam – Verse 65
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ
-وَاصْطَبِرْ لِعِبَادَتِهِ هَلْ تَعْلَمُ لَهُ سَمِيّاً
-  </p>
-</blockquote>
+> رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ
+> وَاصْطَبِرْ لِعِبَادَتِهِ هَلْ تَعْلَمُ لَهُ سَمِيّاً
 
 ***65. “The Lord of the heavens and the earth and whatever is between
 them; so worship Him (alone), and be steadfast in His worship! Do you
@@ -913,5 +853,4 @@ being.
 [^32]: The Commentary of Qurtabi, vol. 6, p.4168, and Majma‘-ul-Bayan
 
 [^33]: Tauhid, by Sadugh, p. 263
-
 

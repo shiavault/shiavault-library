@@ -146,4 +146,3 @@ reciting *tasbih*, May Allah (the All-Powerful) gives us the strength to
 remember Him properly by obeying His merciful commands and
 recommendations.
 
-

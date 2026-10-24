@@ -237,4 +237,3 @@ following verse by Al-Hajjaj ibn Yusuf al-Tamimi:
  All praise to Allah, and His blessings upon our master Muhammad, the
 Prophet, and his pure progeny.
 
-

@@ -108,4 +108,3 @@ However, if something takes place for which a sajdatus sahv is necessary
 after daily prayers, it is not necessary that he should perform two
 sajdatus sahv after the Eid prayers.
 
-

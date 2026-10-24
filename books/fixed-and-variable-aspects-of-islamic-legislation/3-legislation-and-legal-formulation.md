@@ -171,7 +171,6 @@ competent jurisdiction, explain prosecution proced-ures, how to deliver
 judgement, how to appeal against it and the execution of the judgement
 and how it is done."
 
-
 **Division of Individual Law:**
 
 From among the main divisions of individual law we will mention the
@@ -286,7 +285,6 @@ community. It is also derived from the fact that the supreme authority,
 to which the citizens have invested with legitimacy, sanctions those
 legal constituents and makes them legally binding.
 
-
 **The Fixed and the Variable**
 
 The rules of Islamic legislation at our disposal, as a result of the
@@ -361,5 +359,4 @@ are fixed and do not accept any substitute. As for the section on social
 organization, it can be seen that it consists of two parts; one fixed
 and unchangeable while the other is variable. We shall take up each part
 and discuss it later.
-
 

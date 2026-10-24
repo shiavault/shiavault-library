@@ -155,4 +155,3 @@ introduction of the fighters during battles.
 equality of the sexes.
 42. Quoted from Abbas Mahmoud al-Aqqad’s haqaaiq ul-Islam.
 
-

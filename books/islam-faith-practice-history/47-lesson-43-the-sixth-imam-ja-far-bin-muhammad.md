@@ -220,4 +220,3 @@ Question 3: [10 points]
 
 [^1]: Nu‘mān was the first name of Imam Abu Hanifa.
 
-

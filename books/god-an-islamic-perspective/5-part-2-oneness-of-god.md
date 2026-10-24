@@ -381,4 +381,3 @@ The Holy Prophet asked them what was the reason of their belief. They
 said that 'Uzayr re-wrote Torah for the children of Israel when it was
 lost to them and it shows that he was son of God.
 
-

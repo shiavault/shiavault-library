@@ -63,11 +63,9 @@ different manner. In such a case we would not know what our fate would
 be, and whether the riot and disobedience of the people would end in our
 favour, or in our loss.
 
-
 I think if our rule remains established and you are treated as the
 caliph's cousin, it would he better than our losing the government, in
 which case you would be regarded as an ordinary woman."(198)
-
 
 **Crafty Arabs in the snare of Mu'awiyah**
 
@@ -561,5 +559,4 @@ He spent the first part of his twenty years of caliphate in the firm
 establishment of his rule, and the last part of it in making it
 hereditary for his sons. You will read more about this subject in the
 forthcoming chapters.
-
 

@@ -40,11 +40,7 @@ order His Prophet to take revenge from the infidels and unjust people,
 whereas, they began hostilities. Rather He sent the Holy Prophet (S) as
 a mercy for the worlds and addressing him, said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا 
-  </p>
-</blockquote>
+> فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
 
 ***So grant the unbelievers a respite: let them alone for a while.
 (Qur’an, Surah Tariq 86:17)***
@@ -58,12 +54,8 @@ not that his seeing him will be mercy and glad tiding for him. Rather,
 for most of the people, it would be revenge and punishment as Allah, the
 Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ
-الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ
+> الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
 
 ***And most certainly We will make them taste of the nearer chastisement
 before the greater chastisement [Qiyamat].*** ***(Qur’an, Surah Sajdah
@@ -103,33 +95,21 @@ him in sleep and wakefulness as proved from the following:
 First Aspect: That which proves that it is recommended to supplicate for
 every legal thing, like:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ
 
 ***And your Lord says: Call upon Me, I will answer you. (Qur’an, Surah
 Momin 40:60)***
 
 Also the saying of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
- وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ
-  </p>
-</blockquote>
+>  وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ
 
 ***And ask Allah of His grace. (Qur’an, Surah Nisa 4:32)***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ
 
 ***And when My servants ask you concerning Me, then surely I am very
 near; I answer the prayer of the suppliant when he calls on Me. (Qur’an,
@@ -140,12 +120,8 @@ There are Mutawatir traditional reports on this matter; for example:
 1. It is narrated from Imam Ja’far Sadiq (as) that he said: Dua is a
 worship act[^4] regarding which Allah, the Mighty and Sublime said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ
-جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ
+> جَهَنَّمَ دَاخِرِينَ
 
 ***Surely those who are too proud for My service shall soon enter hell
 abased. (Qur’an, Surah Momin 40:60)***
@@ -589,5 +565,4 @@ for this as He is the One Who gives Taufeeq.
 [^27]: Biharul Anwar, Vol. 52, Pg. 1
 
 [^28]: Kashful Muhajja, Pg. 154
-
 

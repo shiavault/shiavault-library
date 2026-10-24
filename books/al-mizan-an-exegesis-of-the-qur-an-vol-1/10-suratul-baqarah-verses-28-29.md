@@ -1,20 +1,12 @@
 Suratul Baqarah: Verses 28-29
 =============================
 
-<blockquote dir="rtl">
-  <p>
-(٢٨) كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ
-ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> (٢٨) كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ
+> ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-(٢٩) هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الأَرْضِ جَمِيعًا ثُمَّ
-اسْتَوَى إِلَى السَّمَاء فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ وَهُوَ
-بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> (٢٩) هُوَ الَّذِي خَلَقَ لَكُم مَّا فِي الأَرْضِ جَمِيعًا ثُمَّ
+> اسْتَوَى إِلَى السَّمَاء فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ وَهُوَ
+> بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***How do you deny Allah and you were dead and He gave you life? Again
 He will cause you to die and again bring you to life; then you shall be
@@ -225,5 +217,4 @@ guidance and misguidance, happiness and unhappiness.
 
 ***He made them complete seven heavens:*** We shall write about the
 heavens in Chapter 32 *(as-Sajdah),* God willing.
-
 

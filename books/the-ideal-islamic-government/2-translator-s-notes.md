@@ -306,4 +306,3 @@ vol. 2, p. 194; al-Isti'ab, vol. 3, p. 1366; Ibn Abi'l-Hadid, vol. 6,
 pp. 74-77; Ibn Kathir, vol. 7, pp. 313-314; Abu 'I-Fida', vol. I, p.
 179).
 
-

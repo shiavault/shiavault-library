@@ -91,4 +91,3 @@ Tandid al-uqud al-­saniyyah
 
 [^7]: Nuzhat al-khawatir, iv, 285.
 
-

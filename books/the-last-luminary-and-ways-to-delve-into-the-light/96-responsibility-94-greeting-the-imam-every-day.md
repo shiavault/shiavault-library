@@ -17,11 +17,7 @@ of prayers and supplication. These prayers include Ziyarat Aale
 Yasin[^1] which can be read at any time one wishes to greet Imam al-’Asr
 (ajtf), and it starts with[^2]:
 
-<blockquote dir="rtl">
-  <p>
-سَلاَمٌ عَلٰى آلِ يٰسۤ، أَلسَّلاَمُ عَلَيْكَ يا دَاعِيَ اللهِ...
-  </p>
-</blockquote>
+> سَلاَمٌ عَلٰى آلِ يٰسۤ، أَلسَّلاَمُ عَلَيْكَ يا دَاعِيَ اللهِ...
 
 “Peace be upon the family of Yasin. Peace be upon you O’ caller to
 Allah...”
@@ -40,5 +36,4 @@ of this book (tr.).
 
 [^3]: Biharul Anwar, vol. 102, pg. 215, no. 1; Jamal al-Usbu’, pg. 37;
 Mafatih al-Jinan - just before Du’a al-Sabah and after Du’a Kumayl.
-
 

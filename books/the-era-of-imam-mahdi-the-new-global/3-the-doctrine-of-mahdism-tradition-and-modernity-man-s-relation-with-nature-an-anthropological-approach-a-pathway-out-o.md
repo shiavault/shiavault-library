@@ -261,4 +261,3 @@ emerging from religious tenets, through which Man comes nearer to God
 and to that infinite, spherical and perfect universe which He created,
 and of which Man feels himself to be intrinsic and harmonious part.
 
-

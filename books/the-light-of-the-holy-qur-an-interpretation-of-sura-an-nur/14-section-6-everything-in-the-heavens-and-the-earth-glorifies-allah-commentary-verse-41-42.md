@@ -51,7 +51,6 @@ mentioned, and this holy verse refers to His justice court in the next
 world, Allah's ownership of the heavens and the earth and His right to
 judge.
 
-
 **Notes:**
 
 First: The meaning of the Qur'anic sentence /'alam tara/ means as it is
@@ -127,7 +126,6 @@ His magnificent court and yield to the rules of creation. On the other
 hand they declare Allah's attributes of perfection with their whole
 entity and negate any shortcoming about Him. Thus, their four worships
 are completed by: praising, glorification, prayer, and prostration.
-
 
 **Commentary : Verse 43**
 
@@ -271,5 +269,4 @@ there are really mountains of ice in the heaven. This is the miracle of
 the holy Qur'an that, 14 centuries before, it said: "... And He sends
 down from the heaven from the (clouds like) mountains wherein is
 hail..."
-
 

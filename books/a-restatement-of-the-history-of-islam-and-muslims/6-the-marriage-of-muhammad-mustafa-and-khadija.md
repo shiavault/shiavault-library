@@ -72,4 +72,3 @@ and the future “Lady of Heaven.” The father and mother lavished their
 love on her, and she brought hope and happiness and the mercy and
 blessings of God with her into their home.
 
-

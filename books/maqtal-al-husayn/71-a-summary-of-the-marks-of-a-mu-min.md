@@ -258,4 +258,3 @@ Who will drink of it, and who will not a drop draw.[^2]
 [^2]: This poem was composed by the ‘Allama shaikh ‘Abd al-Mahdi Matar
 al-Najafi.
 
-

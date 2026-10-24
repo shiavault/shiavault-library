@@ -1499,4 +1499,3 @@ reminded of the Resurrection day:
 
 ***Master of the Day of Judgment.*** (Surah Fateha, 1:4)
 
-

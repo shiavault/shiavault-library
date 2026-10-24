@@ -83,4 +83,3 @@ find it? Do the Marxists not say that thought does not have any
 fundamental reality for man? If thought has no fundamental reality,
 clearly it cannot control human behaviour.
 
-

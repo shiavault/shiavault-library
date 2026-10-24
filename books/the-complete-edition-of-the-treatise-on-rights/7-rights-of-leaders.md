@@ -182,7 +182,5 @@ there is no power but in God.
 
  
 
-  
   
-
 

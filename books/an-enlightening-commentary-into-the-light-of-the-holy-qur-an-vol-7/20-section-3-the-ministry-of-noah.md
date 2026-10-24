@@ -4,19 +4,11 @@ Section 3: The Ministry of Noah
 Surah Hud – Verses 25 - 26
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا نُوحاً إِلىَ قَوْمِهِ إِنّي لَكُمْ نَذِيرٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا نُوحاً إِلىَ قَوْمِهِ إِنّي لَكُمْ نَذِيرٌ
+> مُبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-أَلاَّ تَعْبُدُوا إِلاَّ اللَّهَ إِنّي أَخَافُ عَلَيْكُمْ عَذَابَ
-يَوْمٍ أَلِيمٍ
-  </p>
-</blockquote>
+> أَلاَّ تَعْبُدُوا إِلاَّ اللَّهَ إِنّي أَخَافُ عَلَيْكُمْ عَذَابَ
+> يَوْمٍ أَلِيمٍ
 
 ***25. “And verily, We sent Noah to his people, (saying:) ‘I am a plain
 warner for you’.”***  
@@ -53,14 +45,10 @@ of a painful day.”***
 Surah Hud – Verse 27
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ الْمَلأُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا نَرَاكَ إِلاَّ
-بَشَراً مِثْلَنَا وَمَا نَرَاكَ اتَّبَعَكَ إِلاَّ الَّذِينَ هُمْ
-أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَي لَكُمْ عَلَيْنَا مِن فَضْلٍ
-بَلْ نَظُنُّكُمْ كَاذِبِينَ
-  </p>
-</blockquote>
+> فَقَالَ الْمَلأُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا نَرَاكَ إِلاَّ
+> بَشَراً مِثْلَنَا وَمَا نَرَاكَ اتَّبَعَكَ إِلاَّ الَّذِينَ هُمْ
+> أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَي لَكُمْ عَلَيْنَا مِن فَضْلٍ
+> بَلْ نَظُنُّكُمْ كَاذِبِينَ
 
 ***27. “Then the chiefs of those who disbelieved among his people said:
 ‘We do not see (in) you but a man like ourselves, nor do we see that any
@@ -106,13 +94,9 @@ they claim is based on conjecture, speculation and on hallucinations.
 Surah Hud – Verse 28
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنْتُ عَلَي بَيّنَةٍ مِن رَبّي
-وءَاتَانِي رَحْمَةً مِنْ عِندِهِ فَعُمّيَتْ عَلَيْكُمْ
-أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَارِهُونَ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنْتُ عَلَي بَيّنَةٍ مِن رَبّي
+> وءَاتَانِي رَحْمَةً مِنْ عِندِهِ فَعُمّيَتْ عَلَيْكُمْ
+> أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَارِهُونَ
 
 ***28. “He said: “O my People! Bethink you, if I be upon a clear proof
 from my Lord, and He has grant me mercy from His Presence, but has been
@@ -155,13 +139,9 @@ averse to it?”***
 Surah Hud – Verse 29
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ لآ أَسْأَلُكُم عَلَيْهِ مَالاً إِنْ أَجْرِيَ إِلاَّ عَلَي
-اللَّهِ وَمَا أَنَاْ بِطَارِدِ الَّذِينَ ءَامَنُوا إِنَّهُم مُلاَقُوا
-رَبّهِمْ وَلَكِنّي أَرَاكُمْ قَوْماً تَجْهَلُونَ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ لآ أَسْأَلُكُم عَلَيْهِ مَالاً إِنْ أَجْرِيَ إِلاَّ عَلَي
+> اللَّهِ وَمَا أَنَاْ بِطَارِدِ الَّذِينَ ءَامَنُوا إِنَّهُم مُلاَقُوا
+> رَبّهِمْ وَلَكِنّي أَرَاكُمْ قَوْماً تَجْهَلُونَ
 
 ***29. “And O’ my People! I ask you no wealth for it. My reward is only
 upon Allah, and I will not drive away those who believe, (for) verily
@@ -189,12 +169,8 @@ shall meet their Lord, but I see you are an ignorant people.”***
 Surah Hud – Verse 30
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ مَن يَنصُرُنِي مِنَ اللَّهِ إِن طَرَدتُّهُمْ أَفَلاَ
-تَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ مَن يَنصُرُنِي مِنَ اللَّهِ إِن طَرَدتُّهُمْ أَفَلاَ
+> تَذَكَّرُونَ
 
 ***30. “And O my people! Who will help me against Allah if I drove them
 away? Will you not then reflect?”***
@@ -223,14 +199,10 @@ The verse says:
 Surah Hud – Verse 31
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلآ أَقُولُ لَكُمْ عِندِي خَزَآئِنُ اللَّهِ وَلآ أَعْلَمُ الْغَيْبَ
-وَلآ أَقُولُ إِنّي مَلَكٌ وَلآ أَقُولُ لِلَّذِينَ تَزْدَرِي
-أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ اللَّهُ خَيْراً اللَّهُ أَعْلَمُ بِمَا
-فِي أَنفُسِهِمْ إِنّي إِذاً لَمِنَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَلآ أَقُولُ لَكُمْ عِندِي خَزَآئِنُ اللَّهِ وَلآ أَعْلَمُ الْغَيْبَ
+> وَلآ أَقُولُ إِنّي مَلَكٌ وَلآ أَقُولُ لِلَّذِينَ تَزْدَرِي
+> أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ اللَّهُ خَيْراً اللَّهُ أَعْلَمُ بِمَا
+> فِي أَنفُسِهِمْ إِنّي إِذاً لَمِنَ الظَّالِمِينَ
 
 ***31. “And I do not say to you (that) Allah’s treasures are with me;
 nor do I know the Unseen, nor do I claim to be an angel; nor do I say,
@@ -342,12 +314,8 @@ I should be of the unjust.”***
 Surah Hud – Verse 32
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَانُوحُ قَدْ جَادَلْتَنَا فَاَكْثَرْتَ جِدَالَنَا فَأْتِنَا
-بِمَا تِعِدُنَآ إِن كُنْتَ مِنَ الصَّادِقِينَ
-  </p>
-</blockquote>
+> قَالُوا يَانُوحُ قَدْ جَادَلْتَنَا فَاَكْثَرْتَ جِدَالَنَا فَأْتِنَا
+> بِمَا تِعِدُنَآ إِن كُنْتَ مِنَ الصَّادِقِينَ
 
 ***32. “They said: ‘O’ Noah! You have disputed with us and multiplied
 disputation with us. Bring us then what you have promised us (of divine
@@ -380,12 +348,8 @@ declaration that they wanted him to send down their destruction.
 Surah Hud – Verse 33
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّمَا يَأْتِيكُم بِهِ اللَّهُ إِن شَآءَ وَمَآ أَنتُم
-بِمُعْجِزِينَ
-  </p>
-</blockquote>
+> قَالَ إِنَّمَا يَأْتِيكُم بِهِ اللَّهُ إِن شَآءَ وَمَآ أَنتُم
+> بِمُعْجِزِينَ
 
 ***33. “He said: ‘Verily Allah will bring it to you, if He wills, and
 you will not be able to frustrate (it).’”***
@@ -407,12 +371,8 @@ will not be able to frustrate (it).’”***
 Surah Hud – Verse 34
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَنفَعُكُمْ نُصْحِي إِنْ أَرَدْتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ
-اللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَلاَ يَنفَعُكُمْ نُصْحِي إِنْ أَرَدْتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ
+> اللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ
 
 ***34. “And my advice will not profit you, should I intend to give you
 advice, if Allah wills to lead you astray. He is your Lord and unto Him
@@ -447,12 +407,8 @@ and without prior premise Allah goes on leading one astray.
 Surah Hud – Verse 35
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ
-إِجْرَامِي وَأَنَاْ بَرِيءٌ مِمَّا تُجْرِمُونَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ
+> إِجْرَامِي وَأَنَاْ بَرِيءٌ مِمَّا تُجْرِمُونَ
 
 ***35. “Or they say: ‘He has forged it.’ Say: ‘If I have forged it, upon
 me is my sin, and I am quit of the sins you commit’.”***
@@ -520,5 +476,4 @@ the Imams.
 [^11]: Surah An-Nahl, No. 16, verse 125
 
 [^12]: Surah Ghafir, No. 40, verse 5
-
 

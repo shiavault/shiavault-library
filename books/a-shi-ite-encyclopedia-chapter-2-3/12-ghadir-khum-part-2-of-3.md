@@ -520,7 +520,5 @@ would leave room, theoretically, for Ali to make other possible turns,
 by virtue of Ali being the moving object. This would sound weaker, and
 would imply the nature of a non-infallible person.
 
-
 End of part 2 of 3
-
 

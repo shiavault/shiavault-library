@@ -177,4 +177,3 @@ did not really possess any of the seven virtues the mother of believers
 attributes to her; so, what is the wisdom of her using her as the only
 exception?
 
-

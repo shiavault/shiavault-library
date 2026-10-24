@@ -347,4 +347,3 @@ al-Talibiyyin, pp. 377-378
 
 [^9]: Maqatil al-Talibiyyin, pp. 378-380
 
-

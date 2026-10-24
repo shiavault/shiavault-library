@@ -41,4 +41,3 @@ pray for our salvation.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Bihar-ul-Anwar, vol. 102, p. 144.
 
-

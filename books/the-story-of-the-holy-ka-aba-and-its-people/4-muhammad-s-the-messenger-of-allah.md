@@ -815,4 +815,3 @@ company of a worshipper for seventy years."*
 Deen”. The Prophet replied, Belief in One God and service of the
 people.”*
 
-

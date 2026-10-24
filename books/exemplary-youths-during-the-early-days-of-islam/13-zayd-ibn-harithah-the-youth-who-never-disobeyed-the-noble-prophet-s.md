@@ -36,4 +36,3 @@ Zarkulī, Al-A‘lām, vol. 3, p. 57; Ibn Hishām, Al-Sīrah al-Nabawiyyah,
 vol. 1, p. 247; Nahāyat al-Arb, vol. 16, p. 164; ‘Uyūn al-Athar, vol. 1,
 p. 94; Tārīkh al-Islām, vol. 1, p. 138.
 
-

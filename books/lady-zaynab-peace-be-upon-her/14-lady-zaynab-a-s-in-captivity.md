@@ -59,7 +59,6 @@ captivity of his harem and children.
 Lady Zaynab (a.s.) asked everybody to keep silent, and then she, calm,
 composed, and courageous, said:
 
-<p dir="rtl">
 اَلْحَمْدُ لِلَّهِ وَ الصَّلَاةُ عَلٰى أَبِيْ مُحَمَّدٍ وَ آلِهِ
 الطَّيِّبِيْنَ الْأَخْيَارِأَمَّا بَعْدُ يَا أَهْلَ الْكُوفَةِ يَا
 أَهْلَ الْخَتْلِ وَ الْغَدْرِ أَ تَبْكُوْنَ فَلَا رَقَأَتِ الدَّمْعَةُ
@@ -70,7 +69,6 @@ composed, and courageous, said:
 عَلٰى دِمْنَةٍ أَوْ كَقِصَّةٍ عَلٰى مَلْحُوْدَةٍ أَلَا سَاءَ مَا
 قَدَّمَتْ لَكُمْ أَنْفُسُكُمْ أَنْ سَخِطَ اللَّهُ عَلَيْكُمْ وَ فِي
 الْعَذَابِ أَنْتُمْ خَالِدُوْنَ.
-</p>
 
 *All praise is due to Allah. Blessings be upon my father Muhammad
 (s.a.w.a.) and upon his good and righteous progeny (a.s.). Well now, O
@@ -86,7 +84,6 @@ piece of cloth on a grave? Truly bad is that which your souls have
 committed. You have reaped the Wrath of Allah (s.w.t.), remaining in the
 chastisement for eternity.*
 
-<p dir="rtl">
 أَ تَبْكُوْنَ وَ تَنْتَحِبُوْنَ إِيْ وَ اللَّهِ فَابْكُوْا كَثِيْراً وَ
 اضْحَكُوْا قَلِيْلًا فَلَقَدْ ذَهَبْتُمْ بِعَارِهَا وَ شَنَآنِهَا (وَ
 شَنَارِهَا) وَ لَنْ تَرْحَضُوْهَا بِغَسْلٍ بَعْدَهَا أَبَداً وَ أَنَّى
@@ -96,7 +93,6 @@ chastisement for eternity.*
 بُعْداً لَكُمْ وَ سُحْقاً فَلَقَدْ خَابَ السَّعْيُ وَ تَبَّتِ الْأَيْدِي
 وَ خَسِرَتِ الصَّفْقَةُ وَ بُؤْتُمْ بِغَضَبٍ مِنَ اللَّهِ وَ ضُرِبَتْ
 عَلَيْكُمُ الذِّلَّةُ وَ الْمَسْكَنَةُ
-</p>
 
 *Do you really cry and sob? By Allah (s.w.t.), you should then cry a
 great deal and laugh very little, for you have earned nothing but shame
@@ -111,7 +107,6 @@ the deal is lost and you earned nothing but wrath from Allah (s.w.t.)
 and His Messenger(s.a.w.a.). You are doomed with servitude and
 humiliation.*
 
-<p dir="rtl">
 وَيْلَكُمْ يَا أَهْلَ الْكُوفَةِ اَ تَدْرُوْنَ أَيَّ كَبِدٍ لِرَسُولِ
 اللَّهِ فَرَيْتُمْ وَ أَيَّ كَرِيمَةٍ لَهٗ أَبْرَزْتُمْ وَ أَيَّ دَمٍ
 لَهٗ سَفَكْتُمْ وَ أَيَّ حُرْمَةٍ لَهُ انْتَهَكْتُمْ لَقَدْ جِئْتُمْ
@@ -122,7 +117,6 @@ humiliation.*
 الْآخِرَةِ أَخْزٰى وَ أَنْتُمْ لَا تُنْصَرُونَ. فَلَا يَسْتَخِفَّنَّكُمُ
 الْمَهْلُ فَإِنَّهٗ لَا يَحْفِزُهُ الْبِدَارُ وَ لَا يَخَافُ فَوْتُ
 الثَّأْرِ وَ إِنَّ رَبَّكُمْ لَبِالْمِرْصَادِ.
-</p>
 
 *Woe unto you, O people of Kufa! Do you know whose heart you have
 burned, what a feat you have labored, what blood you have shed, and what
@@ -216,11 +210,9 @@ belied your revolution.”
 Patterning her courageous fathers and brothers, Lady Zaynab (a.s.)
 replied him:
 
-<p dir="rtl">
 اَلْحَمْدُ لِلَّهِ الَّذِي أَكْرَمَنَا بِنَبِيِّه، وَ طَهَّرَنَا مِنَ
 الرِّجْسِ تَطْهِيرًا. إِنَّمَا يَفْتَضِحُ الْفَاسِقُ وَ يُكَذِّبُ
 الْفَاجِرُ، وَ هُوَ غَيْرُنَا، وَ هُوَ غَيْرُنَا يَا بْنَ مَرْجَانَةَ...
-</p>
 
 *“Thanks Allah (s.w.t.) Who honored us with His Prophet and purified us
 from uncleanness thoroughly. It is only the lewd whom is unmasked, and
@@ -235,12 +227,10 @@ Allah (s.w.t.) has done to your brother?”
 Bravely and steadfastly, Lady Zaynab (a.s.) answered with words of
 triumph:
 
-<p dir="rtl">
 مَا رَأَيْتُ إِلَّا جَمِيْلًا- هٰؤُلَاءِ قَوْمٌ كَتَبَ اللَّهُ
 عَلَيْهِمُ الْقَتْلَ فَبَرَزُوْا إِلٰى مَضَاجِعِهِمْ- وَ سَيَجْمَعُ
 اللَّهُ بَيْنَكَ وَ بَيْنَهُمْ فَتُحَاجَّ وَ تُخَاصَمُ- فَانْظُرْ لِمَنِ
 الْفَلَجُ يَوْمَئِذٍ. ثَكَلَتْكَ أُمُّكَ يَا ابْنَ مَرْجَانَةَ.
-</p>
 
 *“It was nothing but good. Those were peoples whom Allah (s.w.t.) knew
 they would be killed. They therefore came to the places where they would
@@ -261,10 +251,8 @@ and the disobedient rebels of your family members.”
 These words filled Lady Zaynab(a.s.)’sheart with sorrow and grief as she
 recollected the images of her protectors. Hence, she said to him:
 
-<p dir="rtl">
 لَعَمْرِيْ لَقَدْ قَتَلْتَ كَهْلِيْ وَ قَطَعْتَ فَرْعِيْ وَ اجْتَثَثْتَ
 أَصْلِيْ فَإِنْ كَانَ هٰذَا شِفَاؤُكَ فَقَدِ اشْتَفَيْتَ‏
-</p>
 
 *“I swear by my life, you have killed my protector, pulled up my
 branches, and uprooted my roots. So, if this heals your heart, then you
@@ -507,12 +495,10 @@ Allah (s.w.t.) did this to him.”
 The Imam’s (a.s.) answer to this false claim was a statement from the
 Holy Qur’anthe words of Almighty Allah:
 
-<p dir="rtl">
 مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنْفُسِكُمْ إِلَّا
 فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا ۚ إِنَّ ذٰلِكَ عَلَى اللَّهِ
 يَسِيرٌ﴿٢٢﴾لِكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا
 بِمَا آتَاكُمْ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-</p>
 
 ***“No evil befalls on the earth nor in your own souls, but it is in a
 book before We bring it into existence; surely, that is easy to Allah
@@ -523,10 +509,8 @@ arrogant boaster.”[^276]***
 This answer enraged Yazid who tried to find a suitable reply and, hence,
 he recited another Quranic Verse:
 
-<p dir="rtl">
 وَمَا أَصَابَكُمْ مِنْ مُصِيْبَةٍ فَبِمَا كَسَبَتْ أَيْدِيْكُمْ
 وَيَعْفُو عَنْ كَثِيْرٍ
-</p>
 
 ***“And whatever affliction befalls you, it is on account of what your
 hands have wrought, and (yet) He pardons most (of your faults).”***
@@ -569,7 +553,6 @@ Ahmed’s[^281] children for what he did to us!*
 Reacting to these verses, Lady Zaynab (a.s.) up rose against the tyrant
 and said:
 
-<p dir="rtl">
 اَلْحَمْدُ لِلَّهِ رَبِّ الْعالَمِيْنَ وَ صَلَّى اللَّهُ عَلٰى
 رَسُوْلِهمُحَمَّدٍ وَ آلِه اَجْمَعِيْنَ صَدَقَ اللَّهُ سُبْحَانَهٗ
 كَذٰلِكَ يَقُولُ ثُمَّ كانَ عاقِبَةَ الَّذِينَ أَساؤُا السُّوْاٰى‏ أَنْ
@@ -581,7 +564,6 @@ and said:
 عَطْفِكَجَذْلَانَ مَسْرُوْرًا حِيْنَ رَأَيْتَ الدُّنْيَا لَكَ
 مُسْتَوْسِقَةً وَ الْأُمُوْرَ مُتَّسِقَةً وَ حِيْنَ صَفَاَ لَكَ
 مُلْكُنَا وَ سُلْطَانُنَا
-</p>
 
 *All praise is due to Allah, Lord of the Worlds. Allah’s Blessingsbe
 upon His Messenger Muhammad and his entire progeny. True are the words
@@ -596,7 +578,6 @@ arrogant, elated, when you see the world submissive to you and things
 are done as you want them, and when our authority and power became all
 yours?*
 
-<p dir="rtl">
 فَمَهْلًا مَهْلًا أَ نَسِيْتَ قَوْلَ اللَّهِ تَعَالٰي وَ لا يَحْسَبَنَّ
 الَّذِينَ كَفَرُوْا أَنَّما نُمْلِيْ لَهُمْ خَيْرٌ لِأَنْفُسِهِمْ
 إِنَّما نُمْلِيْ لَهُمْ لِيَزْدَادُوْا إِثْماً وَ لَهُمْ عَذَابٌ
@@ -608,7 +589,6 @@ yours?*
 وُجُوهَهُنَّ الْقَرِيْبُ وَ الْبَعِيْدُ وَ الدَّنِيُّ وَ الشَّرِيفُ
 لَيْسَ مَعَهُنَّ مِنْ رِجَالِهِنَّ وَلِيٌّ وَ لَا مِنْ حُمَاتِهِنَّ
 حَمِيٌّ
-</p>
 
 *But wait! Have you forgotten that Allah (s.w.t.) has said,**“Do not
 regard those who disbelieved that we grant them good for themselves? We
@@ -623,13 +603,11 @@ man your forts, with their faces exposed to the looks of everyone, near
 or distant, lowly or honorable, having none of their men with them nor
 any of their protectors?*
 
-<p dir="rtl">
 وَ كَيْفَ يُرْتَجٰى مُرَاقَبَةُ مَنْ لَفَظَ فُوْهُ أَكْبَادَ
 الْاَزْكِيَاءِ وَ نَبَتَ لَحْمُهٗ م ِنْ دِمَاءِ الشُّهْدَاءِ وَ كَيْفَ
 لَا يَسْتَبْطِئُ فِي بُغْضِنَا أَهْلَ الْبَيْتِ مَنْ نَظَرَ إِلَيْنَا
 بِالشَّنَفِ وَ الشَنَآنِ وَ الاِحْنِوَ الْاَضْغَانِ ثُمَّ تَقُوْلُ
 غَيْرَ مُتَاَثَّمٍ وَ لَا مُسْتَعْظِمٍ
-</p>
 
 <table>
 <colgroup>
@@ -644,7 +622,6 @@ any of their protectors?*
 </tbody>
 </table>
 
-<p dir="rtl">
 مُنْتَحِياً عَلٰى ثَنَايَا أَبِيْ عَبْدِ اللَّهِ سَيِّدِ شَبَابِ أَهْلِ
 الْجَنَّةِ تَنْكُتُهَا بِمِخْصَرَتِكَ وَ كَيْفَ لَا تَقُوْلُ ذٰلِكَ وَ
 قَدْ نَكَأْتَ الْقَرْحَةَ وَ اسْتَأْصَلْتَ الشَّافَةَ بِإِرَاقَتِكَ
@@ -653,7 +630,6 @@ any of their protectors?*
 زَعَمْتَ أَنَّكَ تُنَادِيهِمْ فَلَتَرِدَنَّ وَشِيكاً مَوْرِدَهُمْ وَ
 لَتَوَدَّنَّ أَنَّكَ شُلِلْتَ وَ بُكِمْتَ وَ لَمْ يَكُنْ قُلْتَ مَا
 قُلْتَ وَ فَعَلْتَ مَا فَعَلْتَ.
-</p>
 
 *But what can be expected from one descended from those whose mouths
 chewed the livers of the purified ones[^284] and whose flesh grows out
@@ -676,7 +652,6 @@ cite your mentors as if you speak to them. Soon shall you be lodged with
 them, and soon shall you wish you were paralyzed and muted and never
 said what you said nor did what you did.*
 
-<p dir="rtl">
 اَللّٰهُمَّ خُذْ لَنَا بِحَقِّنَا وَ انْتَقِمْ مِمَّنْ ظَلَمَنَا وَ
 أحْلُلْ غَضَبَكَ بِمَنْ سَفَكَ دِمَاءَنَا وَ قَتَلَ حُمَاتَنَا فَوَ
 اللَّهِ مَا فَرَيْتَ إِلَّا جِلْدَكَ وَ لَا جَزَزْتَ إِلَّا لَحْمَكَ وَ
@@ -689,7 +664,6 @@ said what you said nor did what you did.*
 خَصِيْماً وَ بِجَبْرَئِيْلَ ظَهِيْراً وَ سَيَعْلَمُ مَنْ سَوَّلَ لَكَ وَ
 مَكَّنَكَ مِنْ رِقَابِ الْمُسْلِمِيْنَ بِئْسَ لِلظَّالِمِيْنَ بَدَلًا وَ
 أَيُّكُمْ شَرٌّ مَكَاناً وَ أَضْعَفُ جُنْداً
-</p>
 
 *O Allah! take what belongs to us out of his hands, seek revenge against
 ail those who oppressed us, and let Your wrath descend upon whoever shed
@@ -710,7 +684,6 @@ playing havoc with the lives of the Muslims will know for certain how
 evil the end of the oppressors is and which of you shall have the worst
 place and will be the least protected?*
 
-<p dir="rtl">
 وَ لَئِنْ جَرَتْ عَلَيَّ الدَّوَاهِيْ مُخَاطَبَتَكَ إِنِّي
 لَأَسْتَصْغِرُ قَدْرَكَ وَ أَسْتَعْظِمُ تَقْرِيْعَكَ وَ أَسْتَكْبِرُ
 تَوْبِيْخَكَ لٰكِنَّ الْعُيُوْنُ عَبْرَى وَ الصُّدُوْرُ حَرّٰى أَلَا
@@ -722,7 +695,6 @@ place and will be the least protected?*
 لَتَجِدُنَا وَشِيْكاً مُغْرَماً حِيْنَ لَا تَجِدُ إِلَّا مَا قَدَّمْتَ
 وَ مَا رَبُّكَ بِظَلَّامٍ لِلْعَبِيْدِ فَإِلَى اللَّهِ الْمُشْتَكٰى وَ
 عَلَيْهِ الْمُعَوَّلُ.
-</p>
 
 *Although calamities have forced me to speak to you, I see you trivial
 in my eyes and find your verbal attacks great and I regard your rebuke
@@ -737,7 +709,6 @@ that will be when you find nothing but what your hands had
 committed,**“And your Lord never treats His servants unjustly.”** [^286]
 To Allah (s.w.t.) is my complaint, and upon Him do I rely.*
 
-<p dir="rtl">
 فَكِدْ كَيْدَكَ وَ اسْعَ سَعْيَكَ وَ نَاصِبْ جُهْدَكَ فَوَ اللَّهِ لَا
 تَمْحُوَنَّ ذِكْرَنَا وَ لَا تُمِيْتُ وَحْيَنَا وَ لَا تُدْرِكُ
 أَمَدَنَا وَ لَا تَرْحَضُ عَنْكَ عَارَهَا وَ هَلْ رَأْيُكَ إِلَّا فَنَدٌ
@@ -748,7 +719,6 @@ To Allah (s.w.t.) is my complaint, and upon Him do I rely.*
 يُكْمِلَ لَهُمُ الثَّوَابَ وَ يُوْجِبَ لَهُمُ الْمَزِيْدَ وَ يُحْسِنَ
 عَلَيْنَا الْخِلَافَةَ إِنَّهٗ رَحِيْمٌ وَدُوْدٌ وَ حَسْبُنَا اللَّهُ وَ
 نِعْمَ الْوَكِيْلُ.
-</p>
 
 *So scheme whatever you wish to scheme, and carry out your plots, and
 intensify your efforts, for, by Allah (s.w.t.), you shall never be able
@@ -1035,5 +1005,4 @@ martyred people and working to continue the endless message of Imam
 al-Husain (a.s.). She used to weep whenever her eyes fell on her nephew,
 Imam Zayn al-Aabideen (a.s.), until she because as same as dead
 body.[^298]
-
 

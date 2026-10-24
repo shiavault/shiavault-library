@@ -3,12 +3,8 @@
 
 In verse 27 of Suratul Hadid, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ رَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلاَّ
-ابْـتِغَآءَ رِضْوَانِ اللٌّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَـتِهَا
-  </p>
-</blockquote>
+> وَ رَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلاَّ
+> ابْـتِغَآءَ رِضْوَانِ اللٌّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَـتِهَا
 
 ***“And (as for) monkery, they innovated it– We did not prescribe it to
 them– only to seek Allah's pleasure, but they did not observe it with
@@ -31,11 +27,7 @@ had not been made compulsory in Christianity; however, the followers of
 And it is for this reason that Islam has vehemently denounced it and the
 well-known tradition, which states:
 
-<blockquote dir="rtl">
-  <p>
-لاَ رَهْبَانِيَّةَ فِي الإِسْلاَمِ.
-  </p>
-</blockquote>
+> لاَ رَهْبَانِيَّةَ فِي الإِسْلاَمِ.
 
 “There is no (room for) monasticism in Islam”, is witnessed in numerous
 Islamic sources.[^1]
@@ -78,13 +70,9 @@ Maz'un died which so aggrieved him that he declared his house to be a
 mosque and (abandoning all other work) engaged himself in worship. When
 the Noble Prophet (S) came to know of this, he summoned him and said:
 
-<blockquote dir="rtl">
-  <p>
-يَا عُثْمَانَ بْنَ مَظْعُونٍ إِنَّ اللٌّهَ لَمْ يَكْتُبْ عَلَيْنَا
-الرَّهْـبَانِيَّةَ إِنَّمَا رَهْـبَانِيَّةُ أُمَّتِي الْجِهَادُ فِي
-سَبِيلِ اللٌّهِ.
-  </p>
-</blockquote>
+> يَا عُثْمَانَ بْنَ مَظْعُونٍ إِنَّ اللٌّهَ لَمْ يَكْتُبْ عَلَيْنَا
+> الرَّهْـبَانِيَّةَ إِنَّمَا رَهْـبَانِيَّةُ أُمَّتِي الْجِهَادُ فِي
+> سَبِيلِ اللٌّهِ.
 
 “O' 'Uthman! Surely, Allah, the Blessed and the Exalted has not ordained
 monasticism for us; monasticism of my ummah is only jihad in the way of
@@ -148,12 +136,8 @@ ummah?”
  Ibne Mas'ud said: “Allah (s.w.t.) and His Messenger know better.”  
  He (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْهِجْرَةُ وَ الْجِهاَدُ وَ الصَّلاةُ وَ الصَّومُ وَ الحَجُّ وَ
-الْعُمرَةُ.
-  </p>
-</blockquote>
+> أَلْهِجْرَةُ وَ الْجِهاَدُ وَ الصَّلاةُ وَ الصَّومُ وَ الحَجُّ وَ
+> الْعُمرَةُ.
 
 “Emigration, Jihad, Salat, fasting, Hajj and 'Umrah.”[^5]
 
@@ -229,13 +213,9 @@ from our commentarial discussion.
 We conclude this discussion by presenting a tradition from Imam 'Ali
 (a.s.), who, while interpreting the verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ نُنَبِّئُكُمْ بِالأََخْسَرِينَ أَعْمالاً الَّذِينَ ضَلَّ
-سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَ هُمْ يَحْسَبُونَ أَنَّهُمْ
-يُحْسِنُونَ صُنْعاً
-  </p>
-</blockquote>
+> قُلْ هَلْ نُنَبِّئُكُمْ بِالأََخْسَرِينَ أَعْمالاً الَّذِينَ ضَلَّ
+> سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَ هُمْ يَحْسَبُونَ أَنَّهُمْ
+> يُحْسِنُونَ صُنْعاً
 
 ***“Say: Shall We inform you of the greatest losers in (their) deeds?
 (These are) they whose labour is lost in this world's life and they
@@ -243,11 +223,7 @@ think that they are well versed in skill of the work of hands.”***[^8]
 
 said:
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الرُّهْبَانَ الَّذِينَ حَبِسُوا أََنْفُسَهُم فِي السَّوَارِي.
-  </p>
-</blockquote>
+> هُمُ الرُّهْبَانَ الَّذِينَ حَبِسُوا أََنْفُسَهُم فِي السَّوَارِي.
 
 “One of the manifest examples of this are the monks, who had imprisoned
 themselves in the mountains and wilderness, and were under the
@@ -276,5 +252,4 @@ al-Manthur, (vol. 6, pg. 177)
 [^9]: Kanzul 'Ummal, vol. 2, no. 4496
 
 [^10]: Tafsir-e-Namuna, vol. 23, pg. 384
-
 

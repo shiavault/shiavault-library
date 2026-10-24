@@ -207,7 +207,6 @@ and recited:
 [^1] Kifayat al-Talib, p. 268, and other than it.
 [^2] ‘Uyun al-Akhbar.
 
-
 Should I oil my head or should my beauties be good while your cheek is
 covered with dust and you are plundered? Should I drink the water of the
 rain clouds with other than its water while the bowels have included a
@@ -481,5 +480,4 @@ from the charities bequeathed by his late father Hajj Muhammad Jawad
 ‘Ajeena, for he has believed that serving the Imams of the Ahlul Bayt
 (a.s) is the best of deeds that bring him nearer to Allah. May Allah
 achieve his hopes and guide him to all noble efforts!
-
 

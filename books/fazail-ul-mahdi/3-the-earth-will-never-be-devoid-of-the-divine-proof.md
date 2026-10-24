@@ -37,4 +37,3 @@ Imam Ridha’ (as) said,
 
 [^5]: Kamaaluddin Vol. II Pg.229.
 
-

@@ -741,4 +741,3 @@ shall be appointed by the Leader. (3) The rule for the Council shall be
 formulated and approved by the Council members subject to the
 confirmation by the Leader.”
 
-

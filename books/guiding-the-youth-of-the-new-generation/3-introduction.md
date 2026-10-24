@@ -1,14 +1,10 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-) أُدْعُ إِلـى سَبِـيلِ رَبِّكَ بِالْحِكْمَةِ وَ الْمَوْعِظَةِ
- الْحَسَنَةِ وَجَـادِلْهُم بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ
-أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَـبِيلِهِ وَ هُوَ أَعْلَمُ بِالْمهْتَدِينَ
-(
-  </p>
-</blockquote>
+> ) أُدْعُ إِلـى سَبِـيلِ رَبِّكَ بِالْحِكْمَةِ وَ الْمَوْعِظَةِ
+>  الْحَسَنَةِ وَجَـادِلْهُم بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ
+> أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَـبِيلِهِ وَ هُوَ أَعْلَمُ بِالْمهْتَدِينَ
+> (
 
 *“Invite others to the path of your Lord through wisdom and good
 exhortation and argue with them in the best possible manner.  Without
@@ -25,11 +21,7 @@ al-Islam, responsibilities are shared amongst the people.*  By this we
 mean that people are the guardians and are responsible for one another
 and we all share in this responsibility towards each other:
 
-<blockquote dir="rtl">
-  <p>
-کُـلُّکُمْ رٌاعٍ وَ کُـلُّکُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ
-  </p>
-</blockquote>
+> کُـلُّکُمْ رٌاعٍ وَ کُـلُّکُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ
 
 *“Each one of you is a shepherd and each one of you is responsible for
 his flock.”*[^2]*7*
@@ -69,5 +61,4 @@ should take form and what prescription must be given to the society.
 [^1]: Suratul Nahl (16), Verse 125
 
 [^2]: Jami\` al-Saghir, Page  95
-
 

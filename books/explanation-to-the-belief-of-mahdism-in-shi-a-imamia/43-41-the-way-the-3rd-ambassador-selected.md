@@ -16,4 +16,3 @@ Imam’s choice and in contact with him. Had it been otherwise, such men
 of repute such as Abu Suhail Nou Bakhti, Ibn Mateel, Hasan Bin Jana
 Nasibi would have disputed and never obeyed the ambassador.
 
-

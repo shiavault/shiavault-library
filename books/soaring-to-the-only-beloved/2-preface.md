@@ -5,12 +5,8 @@ Preface
 
 The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحاً
-فَمُلَاقِيهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحاً
+> فَمُلَاقِيهِ
 
 ***O Human being,***
 
@@ -60,12 +56,8 @@ can leave the cage of material attachment and fly to the realm of the
 Beloved. But he needs to know the way and style to soar to the abode of
 peace to which the Beloved himself invites him:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَدْعُو إِلَى دَارِ السَّلَامِ وَيَهْدِي مَنْ يَشَاءُ إِلَى
-صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَاللَّهُ يَدْعُو إِلَى دَارِ السَّلَامِ وَيَهْدِي مَنْ يَشَاءُ إِلَى
+> صِرَاطٍ مُسْتَقِيمٍ
 
 ***And Allah continually Invites***
 
@@ -139,5 +131,4 @@ Mathnawi by H'aj Mulla Hadi Sabzawari- the great Shi'ite
 mystic-philosopher, vol. 1, p.17
 
 [^3]: Holy Qur'an, 10:25
-
 

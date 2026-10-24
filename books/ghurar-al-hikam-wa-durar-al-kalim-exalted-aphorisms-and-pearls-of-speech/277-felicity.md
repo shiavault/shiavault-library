@@ -34,21 +34,13 @@ his Hereafter.
 in religious and worldly affairs.
 
 > 7ـ كَفى بِالمَرْءِ سَعادَةً أنْ يُوثَقَ بِهِ في أُمُورِ الدّينِ
-<blockquote dir="rtl">
-  <p>
-والدُّنيا.
-  </p>
-</blockquote>
+> والدُّنيا.
 
 8. It is enough of a felicity for a person to turn away from that which
 perishes and become occupied with that which is everlasting.
 
 > 8ـ كَفى بِالمَرْءِ سَعادَةً أنْ يَعْزِفَ عَمّا يَفْنى، ويَتَوَلَّهَ
-<blockquote dir="rtl">
-  <p>
-بِما يَبْقى.
-  </p>
-</blockquote>
+> بِما يَبْقى.
 
 9. You will never know the sweetness of felicity until you taste the
 bitterness of misfortune.
@@ -79,32 +71,20 @@ Allah, the Glorified, and a person does not become wretched except by
 disobeying Allah.
 
 > 14ـ لا يَسْعَدُ امْرُءٌ إلاّ بِطاعَةِ اللّهِ سُبْحانَهُ، ولايَشْقَى
-<blockquote dir="rtl">
-  <p>
-امْرُءٌ إلاّ بِمَعْصِيَةِ اللّهِ.
-  </p>
-</blockquote>
+> امْرُءٌ إلاّ بِمَعْصِيَةِ اللّهِ.
 
 15. No one attains felicity except by upholding the bounds of Allah and
 no one becomes wretched except by disregarding them.
 
 > 15ـ لا يَسْعَدُ أحَدٌ إلاّ بِإقامَةِ حُدُودِ اللّهِ ولايَشْقى أحَدٌ
-<blockquote dir="rtl">
-  <p>
-إلاّ بِإضاعَتِها.
-  </p>
-</blockquote>
+> إلاّ بِإضاعَتِها.
 
 16. It is from the felicity of a person that his good turns are done to
 one who thanks him and his benevolence is shown to one who is not
 ungrateful to him.
 
 > 16ـ مِنْ سَعَادَةِ المَرْءِ أنْ تَكُونَ صَنايِعُهُ عِنْدَ مَنْ
-<blockquote dir="rtl">
-  <p>
-يَشْكُرُهُ ومَعْرُوفُهُ عِنْدَ مَنْ لا يَكْفُرُهُ.
-  </p>
-</blockquote>
+> يَشْكُرُهُ ومَعْرُوفُهُ عِنْدَ مَنْ لا يَكْفُرُهُ.
 
 17. He who makes his brothers miserable does not gain felicity.
 
@@ -117,20 +97,11 @@ ungrateful to him.
 19. How far is repose in ease and inactivity from acquiring felicity!
 
 > 19ـ هَيْهاتَ مِنْ نَيْلِ السَّعادَةِ اَلسُّكُونُ إلَى الهُوَيْنا
-<blockquote dir="rtl">
-  <p>
-والبِطالَةِ.
-  </p>
-</blockquote>
+> والبِطالَةِ.
 
 20. When the presentation [of deeds] in front of Allah, the Glorified,
 takes place, felicity is differentiated from wretchedness.
 
 > 20ـ عِنْدَ العَرْضِ عَلَى اللّهِ سُبْحانَهُ تَتَحَقَّقُ السَّعادَةُ
-<blockquote dir="rtl">
-  <p>
-مِنَ الشَّقاءِ.
-  </p>
-</blockquote>
-
+> مِنَ الشَّقاءِ.
 

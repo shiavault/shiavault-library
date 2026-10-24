@@ -66,4 +66,3 @@ shoulders for eight months.”
 [^1]: Tareed and Shareed are titles of our Master, His Eminence Hujjat
 (a.s.).
 
-

@@ -60,4 +60,3 @@ S. S. A. Rizvi
  Gopalpur (India)  
  28 November, 1987.
 
-

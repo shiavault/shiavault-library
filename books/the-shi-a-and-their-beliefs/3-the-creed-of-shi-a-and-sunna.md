@@ -144,4 +144,3 @@ and his pure household put forward. The other Islamic sects are
 practical forms of Islam as put forward by these particular sects’
 leaders.
 
-

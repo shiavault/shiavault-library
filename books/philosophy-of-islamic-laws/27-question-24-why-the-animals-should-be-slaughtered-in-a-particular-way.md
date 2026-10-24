@@ -37,4 +37,3 @@ This is the summary of the three purposes with regard to animal
 slaughter prescribed by Islam and that those purposes can be achieved by
 implementing these rules.
 
-

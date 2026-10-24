@@ -400,9 +400,7 @@ When discussing beauty, there are three points we should keep in mind:
 more thought, useful experiences and purity in receiving intelligible
 beauties and ideals, for:
 
-<p dir="rtl">
 گر بود اندﻳﺸﻪات گل، گلشنــی ور بود خاری، تو هيمــه گلخنـی
-</p>
 
 *(If your thoughts are as pure as flowers, you yourself are also as fine
 as a garden; if they are thorns, however, you are nothing but thorns,
@@ -415,9 +413,7 @@ internal garden of flowers; it does not mean that the flowers we see in
 the world are made by man's inside, for the human soul can mix with
 beauties.
 
-<p dir="rtl">
 عقـل گردي، عقل را دانـی کمـال عشق گردی، عشق را يابی جمــال
-</p>
 
 *(If you are to understand reason and wisdom, you must devote your whole
 existence to reason and wisdom; it's like love, where you can't find the
@@ -545,17 +541,11 @@ for when the beauty is two-dimensional, like man, who may be externally
 beautiful but internally filthy.' In Persian literature, this is
 described as 'a snake with beautiful lines and spots.'
 
-<p dir="rtl">
 گفـت ليلـی را خليفه کــآن تويـی کز تو مجنون شد پريشـان و غوی
-</p>
 
-<p dir="rtl">
 از دگــر خوبان تو افــزون نيستـی گفت خامش چون تو مجنون نيستی
-</p>
 
-<p dir="rtl">
 ديدة مجنـون اگر بــودی تــو را هر دو عالـم بیخطر بـــودی تو را
-</p>
 
 *(Are you Leili, whom Majnoun is so crazy about?” the caliph asked
 Leili, Majnoun's beloved. “Are you the one who has him wandering in the
@@ -574,5 +564,4 @@ and dimensions of perfection and greatness a beautiful phenomenon has,
 and the more familiar its viewers are with those aspects, the greater
 the intuitive feeling of beauty will be. Such intuitive visions of
 beauty are something not many people can have.
-
 

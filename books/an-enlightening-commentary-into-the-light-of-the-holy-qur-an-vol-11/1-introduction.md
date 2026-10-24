@@ -1,11 +1,7 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -584,5 +580,4 @@ Wa Salam.
 [^20]: 65:2-3
 
 [^21]: 2:257
-
 

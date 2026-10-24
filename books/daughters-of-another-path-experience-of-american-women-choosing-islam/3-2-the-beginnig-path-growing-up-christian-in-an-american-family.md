@@ -357,4 +357,3 @@ Allah." The following stories help us gain a sense of the variety of
 ways they learned about Islam and the conversion experiences that
 brought these women to the point of declaration.
 
-

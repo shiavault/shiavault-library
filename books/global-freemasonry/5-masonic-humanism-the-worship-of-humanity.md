@@ -58,7 +58,6 @@ longings that youth are not aware of.49 How do the Masons serve this
 false religion they believe in? To see this, we must look a little more
 closely at the messages that they disseminate to society.
 
-
 **HUMANIST MORAL THEORY**
 
 Today, Masons in many countries are engaged in an effort to introduce
@@ -409,5 +408,4 @@ modern materialist thinking. A hidden reason for this interesting fact
 is that, there is a modern organization that has adopted these Ancient
 Egyptian beliefs, and aims to establish them throughout the world. This
 organization is Masonry…
-
 

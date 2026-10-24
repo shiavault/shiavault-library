@@ -52,4 +52,3 @@ Allah].
 
 [^1]: Or: One who humiliates his neighbours is not honoured.
 
-

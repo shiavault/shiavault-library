@@ -3,11 +3,7 @@ Lesson One Hundred Forty Six: Signs Of A Believer
 
 Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-اِذا سَرَّتْكَ حَسَنَتُكَ وَ سائَتْكَ سَيِّئَتُكَ فَاَنْتَ مُؤْمِنٌ
-  </p>
-</blockquote>
+> اِذا سَرَّتْكَ حَسَنَتُكَ وَ سائَتْكَ سَيِّئَتُكَ فَاَنْتَ مُؤْمِنٌ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ of self-sacrifice, righteousness, forgiveness and justice. They are the
 unbelievers.
 
 [^1]: Nahjul Fasahah, page 41
-
 

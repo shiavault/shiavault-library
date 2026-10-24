@@ -17,7 +17,6 @@ Yours in Islam,
 Publication Secretary,
 P.O, Bdx No.11365-1545, Tehran, Iran.
 
-
 **NOTE**
 
 This booklet is the translation of one of the publications in Persian
@@ -27,5 +26,4 @@ the most active and energetic Islamic Centre in Iran.
 A Group of Muslim Brothers
 1st Jamadil-Awwal 1394
 25th May 1974
-
 

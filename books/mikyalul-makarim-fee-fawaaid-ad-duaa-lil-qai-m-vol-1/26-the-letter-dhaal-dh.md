@@ -36,12 +36,8 @@ of them are humiliated and disgraced during the rule of other.”[^2]
 In *Biharul Anwar* it is narrated from His Eminence, Abu Ja’far Baqir
 (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ
-الَّذِي كَانُوا يُوعَدُونَ
-  </p>
-</blockquote>
+> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ
+> الَّذِي كَانُوا يُوعَدُونَ
 
 ***“Their eyes cast down; disgrace shall overtake them; that is the day
 which they were threatened with.” (Qur’an, Surah Maarij 70:44)***
@@ -51,12 +47,8 @@ which they were threatened with.” (Qur’an, Surah Maarij 70:44)***
 In *Tafseer* of Ali Ibne Ibrahim Qummi it is reported from His Eminence,
 Abi Abdullah Sadiq (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا
-وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا
+> وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ
 
 ***“And whoever turns away from My reminder, his shall be a straitened
 life.” (Qur’an, Surah Taha 20:124)***
@@ -77,5 +69,4 @@ they will eat waste matter.”[^4]
 [^3]: Biharul Anwar; Vol. 51, Baab Ayaat al-Maula
 
 [^4]: Tafsaeer al-Qummi, Pg. 424
-
 

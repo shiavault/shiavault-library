@@ -971,4 +971,3 @@ think you are a devil." He then took hold of his beard and said: "What
 can I do, when Allah considered him fit for this position and did not
 consider me fit in spite of my grey hair?" (Imam as Sadiq p. 150)
 
-

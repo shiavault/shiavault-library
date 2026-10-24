@@ -280,4 +280,3 @@ Moslem.
 4. The Muhammadan rosary consists of ninety-nine beads, each
 representing a name of God.
 
-

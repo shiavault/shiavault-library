@@ -233,4 +233,3 @@ wajib kifa'i an obligatory duty of all Muslims but it suffices when
 performed by someone wilayah Islamic jurisprudential guardianship wudu'
 statutory ablution according to the Islamic Shari'ah zuhr noon
 
-

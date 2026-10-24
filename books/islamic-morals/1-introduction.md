@@ -83,7 +83,6 @@ So, from this aspect, we must know that the importance of morality is
 so great that the perfection of human destiny lies in the gracefulness
 of his morals.
 
-
 Gulam Reza Sultani
 
 1st Edition
@@ -129,5 +128,4 @@ aim of creation.
 I hope that this book having 32 lessons of ethics shall prove effective
 for cleansing and purifying and will help us and the readers in our
 journey toward the Lord and human perfection.
-
 

@@ -3,14 +3,10 @@
 
 ( Verse 14 )
 
-<blockquote dir="rtl">
-  <p>
-قٌالَتِ الأَعْرٌابُ آمَنٌّا قُلْ لَّمْ تُؤْمِنُوا وَلٌكِنْ قُولُوا
-أَسْلَمْنٌا وَلَمٌّا يَدْخُلِ الإِيـمٌانُ فِي قُلُوبِكُمْ وَإِنْ
-تُطِيعُوا اللٌّهَ وَرَسُولَهُ لاٌ يَلِتْكُم مِّنْ أَعْمٌالِكُمْ
-شَيْئاً إِنَّ اللٌّهَ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> قٌالَتِ الأَعْرٌابُ آمَنٌّا قُلْ لَّمْ تُؤْمِنُوا وَلٌكِنْ قُولُوا
+> أَسْلَمْنٌا وَلَمٌّا يَدْخُلِ الإِيـمٌانُ فِي قُلُوبِكُمْ وَإِنْ
+> تُطِيعُوا اللٌّهَ وَرَسُولَهُ لاٌ يَلِتْكُم مِّنْ أَعْمٌالِكُمْ
+> شَيْئاً إِنَّ اللٌّهَ غَفُورٌ رَّحِيمٌ
 
 **“*****The Desert \`Arabs (come to you O’ Muhammad) and say ‘We have
 true belief!’ Say to them*** *(O’ Muhammad, blessings of Allah be upon
@@ -54,77 +50,49 @@ Creator, in most cases, the word Islam was used as an opposite to Shirk
 and a Muslim was used as an opposite to a Mushrik. Pay attention to the
 following verses of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلاٌ
-تَكُونَنَّ مِنَ الْمُشْرِكِيـنَ
-  </p>
-</blockquote>
+> قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلاٌ
+> تَكُونَنَّ مِنَ الْمُشْرِكِيـنَ
 
 ***“Say (O’ Muhammad): "Certainly I have been commanded to be the first
 of those who submit (to Allah (in Islam)) and unquestionably not to be
 of those who join (gods) with Allah.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-فَإِلٌهُكُمْ إِلَهٌ وٌاحِدٌ فَلَهُ أَسْلِمُوا وَبَشِّرِ
-الْمُخْبِـتِينَ
-  </p>
-</blockquote>
+> فَإِلٌهُكُمْ إِلَهٌ وٌاحِدٌ فَلَهُ أَسْلِمُوا وَبَشِّرِ
+> الْمُخْبِـتِينَ
 
 ***“So then your god is One God: submit then your will (entire presence)
 to Him (in Islam): and give the good news (O’ Muhammad) to those who
 humble themselves.”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-مٌا كٌانَ إِبْرٌاهِيمُ يَهُودِيًّا وَلاٌ نَصْرٌانِيًّا وَلٌكِنْ كٌانَ
-حَنِيفًا مُّسْلِمًا وَمٌا كٌانَ مِنَ الْمُشْرِكِيـنَ
-  </p>
-</blockquote>
+> مٌا كٌانَ إِبْرٌاهِيمُ يَهُودِيًّا وَلاٌ نَصْرٌانِيًّا وَلٌكِنْ كٌانَ
+> حَنِيفًا مُّسْلِمًا وَمٌا كٌانَ مِنَ الْمُشْرِكِيـنَ
 
 ***“(Prophet) Ibrahim*** ***was not a Jew, nor was he a Christian; but
 he was true in faith (Hanif) and he bowed his will (entire presence) to
 Allah (in Islam), and he was not of those who joined gods (with
 Allah).”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-نَعْبُدُ إِلٌـهَكَ وَإِلٌـهَ آبٌائِكَ إِبْرٌاهِيمَ وَإِسْمٌاعِيلَ
-وَإِسْحَقَ إِلٌـهاً وٌاحِداً وَنَحْنُ لَهُ مُسْلِمُونَ
-  </p>
-</blockquote>
+> نَعْبُدُ إِلٌـهَكَ وَإِلٌـهَ آبٌائِكَ إِبْرٌاهِيمَ وَإِسْمٌاعِيلَ
+> وَإِسْحَقَ إِلٌـهاً وٌاحِداً وَنَحْنُ لَهُ مُسْلِمُونَ
 
 ***“We shall worship your God and the God of your fathers, of Ibrahim***
 ***and Isma\`il*** ***and Ishaq*** ***- the one (True) God (Allah) and
 to Him do we all submit (in Islam).”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمٌا يُوحَى إِلَيَّ أَنَّمٌا إِلٌهُكُمْ إِلَهٌ وٌاحِدٌ فَهَلْ
-أَنتُم مُّسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّمٌا يُوحَى إِلَيَّ أَنَّمٌا إِلٌهُكُمْ إِلَهٌ وٌاحِدٌ فَهَلْ
+> أَنتُم مُّسْلِمُونَ
 
 ***“Say (O’ Muhammad): ‘That which has been revealed to me (from Allah)
 is that your God is the One God (Allah): will you then be of those who
 submit to him as Muslims (in Islam)?”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-لاٌ شَرِيكَ لَهُ وَ بِذٌالِكَ أُمِرْتُ وَ أَنٌا أَوَّلُ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> لاٌ شَرِيكَ لَهُ وَ بِذٌالِكَ أُمِرْتُ وَ أَنٌا أَوَّلُ الْمُسْلِمِينَ
 
 ***“He has no partners and to this I have been commanded and I am***
 ***the first*** ***of those who submit (one of the Muslims).”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-لاٌ إِلٌـهَ إِلاٌّ الَّذِي آمَنَتْ بِهِ بَنُو إِسْرٌائِيلَ وَأَنٌا
-مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> لاٌ إِلٌـهَ إِلاٌّ الَّذِي آمَنَتْ بِهِ بَنُو إِسْرٌائِيلَ وَأَنٌا
+> مِنَ الْمُسْلِمِينَ
 
 ***“There is no god except Him Whom the Children of Isra’il believe in
 and I am one of those who submit (to Allah in Islam).”***[^8]
@@ -141,20 +109,12 @@ this fact that from the very first day that mankind was created, there
 has never been more than one true religion and that is al-Islam, just as
 it is mentioned in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللٌّهِ الإِسْلاٌمُ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللٌّهِ الإِسْلاٌمُ
 
 ***“Unquestionably the only Din (complete code and way of life)
 acceptable to Allah is al-Islam.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَبْتَغِ غَيْرَ الإِسْلاٌمِ دِيناً فَلَنْ يُقْبَلَ مِنْهُ
-  </p>
-</blockquote>
+> وَ مَنْ يَبْتَغِ غَيْرَ الإِسْلاٌمِ دِيناً فَلَنْ يُقْبَلَ مِنْهُ
 
 ***“And whoever chooses other than al-Islam as his Din - then it will
 never be accepted from him.”***[^10]
@@ -165,13 +125,9 @@ towards al-Islam. In addition, the reality of Islam is that the
 followers do not turn to polytheism and the worship of idols, as it has
 been mentioned in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-...أَلاٌّ نَعْبُدَ إِلاٌّ اللٌّهَ وَلاٌ نُشْرِكَ بِهِ شَيْئًا وَلاٌ
-يَتَّخِذَ بَعْضُنٌا بَعْضاً أَرْبٌاباً مِّنْ دُونِ اللٌّهِ فَإِنْ
-تَوَلَّوا فَقُولُوا اشْهَدُوا بِأَنٌّا مُسْلِمُونَ
-  </p>
-</blockquote>
+> ...أَلاٌّ نَعْبُدَ إِلاٌّ اللٌّهَ وَلاٌ نُشْرِكَ بِهِ شَيْئًا وَلاٌ
+> يَتَّخِذَ بَعْضُنٌا بَعْضاً أَرْبٌاباً مِّنْ دُونِ اللٌّهِ فَإِنْ
+> تَوَلَّوا فَقُولُوا اشْهَدُوا بِأَنٌّا مُسْلِمُونَ
 
 ***  
 ***
@@ -210,12 +166,8 @@ follow, we see that even after building the Ka\`bah, Prophet Ibrahim
 al-Khalil al-Rahman (peace be upon him) prayed to Allah (Glorified and
 Exalted is He) to make him and his children Muslims, when he said:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنٌا وَاجْعَلْنٌا مُسْلِمَينِ لَكَ وَ مِنْ ذُرِّيَّـتِـنٌا أُمَّةً
-مُسْلِمَةً لَكَ
-  </p>
-</blockquote>
+> رَبَّنٌا وَاجْعَلْنٌا مُسْلِمَينِ لَكَ وَ مِنْ ذُرِّيَّـتِـنٌا أُمَّةً
+> مُسْلِمَةً لَكَ
 
 ***“O’ our Lord! Make us from those who submit to You (as Muslims) and
 also (make) our children to be from the nation of submitters (Muslims)
@@ -225,11 +177,7 @@ The Qur’an also holds firm to the belief that Prophet Ibrahim (peace be
 upon him) had named those people who worshipped Allah (Glorified and
 Exalted is He) from a previous time as being Muslims:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ سَمٌّاكُمُ الْمُسْلِمَينِ مِنْ قَبْلُ
-  </p>
-</blockquote>
+> هُوَ سَمٌّاكُمُ الْمُسْلِمَينِ مِنْ قَبْلُ
 
 ***“It is he (Ibrahim) who called you Muslims from before.”***[^13]
 
@@ -265,12 +213,8 @@ through his own disregard and denial (of the Truth), a disbeliever
 covers up the true visage of the Truth and in this relation, the Qur’an
 states:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَتَبَدَّلِ الْكُفْرَ بِالإِيـمٌانِ فَقَدْ ضَلَّ سَوٌاءَ
-السَّبِيـلِ
-  </p>
-</blockquote>
+> وَ مَنْ يَتَبَدَّلِ الْكُفْرَ بِالإِيـمٌانِ فَقَدْ ضَلَّ سَوٌاءَ
+> السَّبِيـلِ
 
 ***  
 ***
@@ -279,46 +223,27 @@ states:
 definitely strayed from the correct way.”
 
 [^14]
-<blockquote dir="rtl">
-  <p>
-هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلإِيْمٌانِ
-  </p>
-</blockquote>
+
+> هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلإِيْمٌانِ
 
 ***“On that day, they were nearer to disbelief (Kufr)than they were to
 true faith (Iman).”***[^15]
 
-<blockquote dir="rtl">
-  <p>
-إِنِ اسْتَحَبُّوا الْكُفْرَ عَلى الإِيْمٌانِ
-  </p>
-</blockquote>
+> إِنِ اسْتَحَبُّوا الْكُفْرَ عَلى الإِيْمٌانِ
 
 ***“If they love disbelief (Kufr) over true faith (Iman).”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-يُؤْمِنُونُ بِاللٌّهِ وَ الْيَوْمِ الآخِرِ
-  </p>
-</blockquote>
+> يُؤْمِنُونُ بِاللٌّهِ وَ الْيَوْمِ الآخِرِ
 
 ***“They have true faith (Iman) in Allah and the Last Day.”***[^17]
 
-<blockquote dir="rtl">
-  <p>
-أَلَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَ يُقِيمُونَ الصَّلاٌةَ
-  </p>
-</blockquote>
+> أَلَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَ يُقِيمُونَ الصَّلاٌةَ
 
 ***“Those people who have true faith (Iman) in the unseen and uphold the
 Salat.”***[^18]
 
-<blockquote dir="rtl">
-  <p>
-وَكَذٌالِكَ أَنْزَلْـنٌا إِلَـيْكَ الْكِتٌابَ فَـالَّذِينَ
-آتَيْـنٌاهُمُ الْكِتٌابَ يُؤْمِنُونَ بِهِ
-  </p>
-</blockquote>
+> وَكَذٌالِكَ أَنْزَلْـنٌا إِلَـيْكَ الْكِتٌابَ فَـالَّذِينَ
+> آتَيْـنٌاهُمُ الْكِتٌابَ يُؤْمِنُونَ بِهِ
 
 ***“And thus (it is) We that have sent down the Book (al-Qur’an) to you
 (O’ Muhammad). So, the people who have been given the book have true
@@ -377,12 +302,8 @@ on.
 In the Qur’an, there are some verses which speak about verbal faith such
 as:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ يَحْزُنْكَ الَّذِينَ يُسٌارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ
-قٌالُوا آمَنٌّا بِأَفْوٌاهِهِمْ وَ لَمْ يُؤْمِنْ قُلُوبُهُمْ
-  </p>
-</blockquote>
+> لاٌ يَحْزُنْكَ الَّذِينَ يُسٌارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ
+> قٌالُوا آمَنٌّا بِأَفْوٌاهِهِمْ وَ لَمْ يُؤْمِنْ قُلُوبُهُمْ
 
 ***  
 ***
@@ -458,11 +379,7 @@ Muhammad ibn Muslim has narrated from either Imam Muhammad ibn \`Ali
 al-Baqir or Imam Ja\`far ibn Muhammad as-Sadiq (peace be upon them both)
 that it was said:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِيـمٌانُ إِقْرٌارٌ وَ عَمَلٌ وَ الإِسْلاٌمُ إِقْرٌارٌ بِلاٌعَمَلٍ
-  </p>
-</blockquote>
+> أَلإِيـمٌانُ إِقْرٌارٌ وَ عَمَلٌ وَ الإِسْلاٌمُ إِقْرٌارٌ بِلاٌعَمَلٍ
 
 *“Iman is the confession (by the tongue) and acting (according to one’s
 responsibility) and Islam is confession (by the tongue) without
@@ -471,11 +388,7 @@ acting.”*[^21]
 In a letter which Imam \`Ali ibn Musa al-Ridha (peace be upon him) wrote
 to Ma’mun, he summarized Islam by stating the following:
 
-<blockquote dir="rtl">
-  <p>
-وَأَصْحٌابُ الْحُدُودِ مُسْلِمُونَ لاٌ مُؤْمِنُونَ وَ لاٌ كٌافِرُونَ
-  </p>
-</blockquote>
+> وَأَصْحٌابُ الْحُدُودِ مُسْلِمُونَ لاٌ مُؤْمِنُونَ وَ لاٌ كٌافِرُونَ
 
 *“The people upon whom the punishment of Allah must be meted out are the
 Muslims, not those who have true faith (Mu’minun), nor the disbelievers
@@ -497,12 +410,8 @@ Building up on this interpretation, there is a well-known hadith which
 has been narrated in the books of the Ahl al-Sunnah and the Shi\`a that
 states:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ يَسْرِقُ السٌّارِقُ حِيْنَ يَسْرِقُ وَ هُوَ مُؤْمِنُ وَ لاٌ
-يَزْنـى الزٌّانِي حِيْنَ يَزْنـى وَ هُوَ مُؤْمِنُ.
-  </p>
-</blockquote>
+> لاٌ يَسْرِقُ السٌّارِقُ حِيْنَ يَسْرِقُ وَ هُوَ مُؤْمِنُ وَ لاٌ
+> يَزْنـى الزٌّانِي حِيْنَ يَزْنـى وَ هُوَ مُؤْمِنُ.
 
 *“At the time that a thief is stealing and (at the time that) an
 adulterer is committing adultery, he is not a Believer.”*[^23]
@@ -520,12 +429,8 @@ the Prophetic Mission of the Prophet of Islam (blessings of Allah be
 upon him and his progeny) and fulfilling one’s religious obligations,
 Imam Ja\`far ibn Muhammad as-Sadiq (peace be upon him) went on to say:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِيـمٌانُ مَعْرِفَةُ هٌذٌا الأَمْرِ مَعَ هٌذٌا فَإِنْ أَقَرَّ بِهٌا
-وَ لَمْ يَعْرِفْ هٌـذٌا الأَمْرِ كٌانَ مُسْلِماً وَ كٌانَ ضٌالاً
-  </p>
-</blockquote>
+> أَلإِيـمٌانُ مَعْرِفَةُ هٌذٌا الأَمْرِ مَعَ هٌذٌا فَإِنْ أَقَرَّ بِهٌا
+> وَ لَمْ يَعْرِفْ هٌـذٌا الأَمْرِ كٌانَ مُسْلِماً وَ كٌانَ ضٌالاً
 
 *“Iman (means) to recognize and believe in this issue (Wilayah of us,
 the Ahlul Bait) and if one testifies to this but does not recognize this
@@ -574,12 +479,8 @@ to him (his body parts), there will also be submission. There are some
 verses of the Qur’an which show that both of these words are equal in
 meaning:
 
-<blockquote dir="rtl">
-  <p>
-فَأَخْرَجْنٌا مَنْ كٌانَ فِيهٌا مِنَ الْمُؤْمِنِينَ فَمٌا وَجَدْنٌا
-فِيهٌا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> فَأَخْرَجْنٌا مَنْ كٌانَ فِيهٌا مِنَ الْمُؤْمِنِينَ فَمٌا وَجَدْنٌا
+> فِيهٌا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ
 
 ***“Then We brought forth such as were therein of the believers. But We
 did not find therein save a (single) house of those who submitted (the
@@ -624,12 +525,8 @@ their hearts and their submission was accepted and the laws of Islam
 were applicable to them. Imam Ja\`far ibn Muhammad as-Sadiq (peace be
 upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِسْلاٌمُ يُحْقَنُ بِهِ الدَّمُ وَ تُؤَدَّى بِهِ الأَمٌانَةُ وَ
-يُسْتَحَلُّ بِهِ الْفَرْجُ وَ الثَّوٌابُ عَلى الإِيـمٌانِ.
-  </p>
-</blockquote>
+> أَلإِسْلاٌمُ يُحْقَنُ بِهِ الدَّمُ وَ تُؤَدَّى بِهِ الأَمٌانَةُ وَ
+> يُسْتَحَلُّ بِهِ الْفَرْجُ وَ الثَّوٌابُ عَلى الإِيـمٌانِ.
 
 *“One who accepts Islam, his blood will be sanctified (he cannot be
 killed); anytime he gives you a trust, it must be returned; and (sexual)
@@ -639,13 +536,9 @@ relations are made permissible (after marriage), however the reward
 In another tradition, Amir al-Mu’minin \`Ali ibn Abi Talib (peace be
 upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-أُمِرْتُ أَنْ أُقٌاتِلَ النٌّاسَ حَتَّـى يَقُولُوا لاٌ إِلٌهَ إِلاٌّ
-اللٌّهَ فَإِذٌا قٌالُوهٌا فَقَدْ حَرُمَ عَلَيَّ دِمٌاؤُهُمْ وَ
-أَمْوٌالُهُمْ
-  </p>
-</blockquote>
+> أُمِرْتُ أَنْ أُقٌاتِلَ النٌّاسَ حَتَّـى يَقُولُوا لاٌ إِلٌهَ إِلاٌّ
+> اللٌّهَ فَإِذٌا قٌالُوهٌا فَقَدْ حَرُمَ عَلَيَّ دِمٌاؤُهُمْ وَ
+> أَمْوٌالُهُمْ
 
 *“I have been commanded to fight the people until they testify that
 there is no creature or entity worthy of worship except for Allah, and
@@ -712,5 +605,4 @@ them…”
 [^28]: Al-Mahasin, Page 285.
 
 [^29]: Bihar al-Anwar, Volume 68, Page 262.
-
 

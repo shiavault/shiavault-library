@@ -5,11 +5,7 @@ In some traditions, it has come that human beings would assemble in
 Qiyamat in various forms. Mu’adh bin Jabal asked the Messenger of Allah
 (S) about the interpretation of the verse of Quran that reads:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُنفَخُ فِى الصُّورِ فَتَأْتُونَ أَفْوَاجاً
-  </p>
-</blockquote>
+> يَوْمَ يُنفَخُ فِى الصُّورِ فَتَأْتُونَ أَفْوَاجاً
 
 ***The day on which the trumpet shall be blown so you shall come forth
 in hosts. (78:18)***
@@ -111,5 +107,4 @@ satans, depending on the evil quality affecting him.[^4]
 [^3]: Wasailush Shia, Vol. 17, Pg. 383.
 
 [^4]: Maad az Deedgah Imam Khomeini, Pg. 354.
-
 

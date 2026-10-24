@@ -108,4 +108,3 @@ sixty poor or two months successive fast. For a detailed discussion, see
 Ibnu '1-‘Arabi, Ahkamu 'l-Qur’an, vol.4, p.1734; al-Qasimi, Mahasinu
 't-ta’wi1, vol.16, p.5706.
 
-

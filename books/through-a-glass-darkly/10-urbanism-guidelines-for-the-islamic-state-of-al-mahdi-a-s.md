@@ -99,4 +99,3 @@ Sibel Yardimci, Interlocking Flows: Globalization, Urbanism, and
 Culture in Contemporary Istanbul, Paper presented in the Critical
 Management Conference, Manchester, 2001
 
-

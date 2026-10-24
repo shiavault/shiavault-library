@@ -21,4 +21,3 @@ after death, FC, p.9.
 
 [^2]: These awsiya' are the 12 Imams of the Ithna \`Ashariya.
 
-

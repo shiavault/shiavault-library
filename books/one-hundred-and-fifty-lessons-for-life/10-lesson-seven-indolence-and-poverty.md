@@ -3,12 +3,8 @@ Lesson Seven: Indolence and Poverty
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إنَّ الأشْياءَ لَمّا ازْدَوَجَتْ إزْدَوَجَ الْكَسَلُ و الْعَجْزُ
-فَنَتَجا بَيْنَهُمَا الْفَقْرَ"
-  </p>
-</blockquote>
+> "إنَّ الأشْياءَ لَمّا ازْدَوَجَتْ إزْدَوَجَ الْكَسَلُ و الْعَجْزُ
+> فَنَتَجا بَيْنَهُمَا الْفَقْرَ"
 
 Translation
 -----------
@@ -30,5 +26,4 @@ and spiritual poverty. The striving believers on the other hand shall be
 self-sufficient and contented in all respects.
 
 [^1]: Bihar al-Anwar, volume 78, page 59 and Tuhaful Uqul, p. 158
-
 

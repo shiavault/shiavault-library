@@ -60,7 +60,6 @@ Companions of the Garden; they will abide therein forever. "
 
 (2) Majma' ul- Bayan
 
-
 **Commentary : Verse 27**
 
 (27) وَ الَّذينَ كَسَبُوا السَّيِّئاتِ جَزاءُ سَيِّئَةٍ بِمِثْلِها وَ
@@ -111,7 +110,6 @@ within its flames. The verse concludes saying:
 
 "... They are Companions of the Fire: they will abide therein forever!
 "
-
 
 **Commentary : Verse 28**
 
@@ -164,7 +162,6 @@ passions. The verse says:
 "... and their associates shall say: 'It was not us(indeed)that you
 used to worship! ' "
 
-
 **Commentary : Verse 29**
 
 (29) فَكَفى‏ بِاللَّهِ شَهيداً بَيْنَنا وَ بَيْنَكُمْ إِنْ كُنَّا عَنْ
@@ -191,7 +188,6 @@ Incidentally, there are numerous allusions made to the hatred and
 disavowal of those objects worshipped from the polytheists and their
 deeds in the Qur'an, i. e., Sura Al- Furqan, No. 25, verse 17, and Sura
 Al- Qas as, No. 28, verse 63.
-
 
 **Commentary : Verse 30**
 
@@ -226,5 +222,4 @@ vanish(away)from them. "
 
 All existence has its origin in Him, and the final destination will be
 towards Him, too.
-
 

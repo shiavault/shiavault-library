@@ -462,4 +462,3 @@ but their recitation will not go beyond their larynx. They will go out
 of the religion of Islam just as an arrow flings away from the bow".
 (Seerah-i Ibn Hisham, vol. II, page 496.)
 
-

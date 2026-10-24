@@ -13,18 +13,12 @@ His hand. Creatures possess neither breath nor sight except by His power
 and will: they are incapable of bringing forth the least thing in His
 kingdom, unless it is by His permission and will. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ يَخْلُقُ مَا يَشَاء وَيَخْتَارُ مَا كَانَ لَهُمُ الْخِيَرَةُ
-سُبْحَانَ اللَّهِ وَتَعَالَى عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَرَبُّكَ يَخْلُقُ مَا يَشَاء وَيَخْتَارُ مَا كَانَ لَهُمُ الْخِيَرَةُ
+> سُبْحَانَ اللَّهِ وَتَعَالَى عَمَّا يُشْرِكُونَ
 
 ***Your Lord creates and chooses whom he pleases; to choose is not
 theirs. Glory be to Allah, and exalted be He above what they associate
 [with Him].*** (28:68)
-
 
 Therefore be a slave to Allah, remembering Him by speech and
 proclamations, and join the truthfulness of your tongue to the purity of
@@ -44,5 +38,4 @@ him to ask for forgiveness for you, and to intercede for you when you
 perform what is obligatory in the command and prohibition, and in the
 sunnah and courtesies (adab) demonstrated to man through the Holy
 Prophet. You should know the majesty of his rank with Allah.
-
 

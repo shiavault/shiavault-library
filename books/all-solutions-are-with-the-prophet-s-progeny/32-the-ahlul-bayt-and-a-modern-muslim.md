@@ -72,4 +72,3 @@ from the remembrance of Allah.
 
 [^1]: An exemplar in faith and piety.
 
-

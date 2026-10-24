@@ -101,4 +101,3 @@ is no other* *ilah* *(beloved).*
 *Hasnain Walji*  
 *Plano Texas, March 2009*
 
-

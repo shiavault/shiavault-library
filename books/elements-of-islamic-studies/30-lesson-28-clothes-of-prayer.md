@@ -109,4 +109,3 @@ pray wearing that same clothes. After finishing the prayer it is better
 to close the room, take out that najis clothes and repeat the prayer
 without the clothes.
 
-

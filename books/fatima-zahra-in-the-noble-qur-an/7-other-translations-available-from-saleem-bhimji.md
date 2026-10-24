@@ -120,4 +120,3 @@ Most of the above books and hundreds of articles can be read for free at
 [www.al-mubin.org](http://www.al-mubin.org) or
 [www.al-islam.org](http://www.al-islam.org)
 
-

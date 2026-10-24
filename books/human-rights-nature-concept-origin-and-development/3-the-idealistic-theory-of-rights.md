@@ -8,4 +8,3 @@ personality as a supreme and absolute right. According to this theory
 all other rights have been denied from right of personality and are
 conditioned by it[^12] .
 
-

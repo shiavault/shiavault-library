@@ -13,4 +13,3 @@ Even if one is sceptical of its achievements as a science, there is no
 doubt again that as a cultural phenomenon it has considerable momentum
 and influence.
 
-

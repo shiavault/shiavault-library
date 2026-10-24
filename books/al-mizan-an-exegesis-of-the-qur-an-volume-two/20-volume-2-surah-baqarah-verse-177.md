@@ -267,4 +267,3 @@ freedom on payment of stipulated amount. Such a slave was called
 al-mukatib. (
 tr,)
 
-

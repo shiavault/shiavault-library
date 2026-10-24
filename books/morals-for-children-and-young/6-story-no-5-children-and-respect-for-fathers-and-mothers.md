@@ -18,4 +18,3 @@ God himself, so we should respect them very much. Yes, respect of father
 and mother has been mentioned with the respect of God himself, so we
 should respect them very much.
 
-

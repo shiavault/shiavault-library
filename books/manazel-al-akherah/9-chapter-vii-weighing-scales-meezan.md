@@ -110,11 +110,9 @@ In the same book it is written that a narrator asked Imam (A.S.) as to
 how should we recite salawat on Mohammad (S.A.W.S.) and His progeny Imam
 (A.S.) erplied,:
 
-<p dir="rtl">
 صَلاةُ اللهِ وَصَلاةُ مَلائِكَتهِ وَأنْبيائِهِ وَرُسُلهِ وَجمَيعِ
 خَلْقِهِ على مُحَمّدٍ وَآلِ مُحَمَّدٍ وَالسَّلامُ عَلَيهِ وَعَلَيهِمْ
 وَرَحْمَةُ اللهِ وَبَركاتُه
-</p>
 
 ُ. The narrator continues, that I then asked Imam (A.S.) as to what was
 the reward for this Salawat? Imam (A.S.) replied, “A person reciting
@@ -151,19 +149,15 @@ all His servants, and accepts his deeds and prayers of that day. It is
 also related that the reward will be equal to the sight in the eyes of
 all man:
 
-<p dir="rtl">
 اَلّلهُمَّ صَلِّ عَلى مُحَمَّدٍ وَآلِ مُحَمَّدٍ الأوصِياءِ المَرضِيينَ
 بِأفْضَلِ صَلواتِكَ وَبارِكْ عَليَهِمْ بِأفْضَلِ بَرَكاتِكَ وَالسَّلامُ
 عَلَيهِ وَعَلَيهِمْ وَرَحْمَةُ اللهِ وَبَركاتُه
-</p>
 
 It is related that whoever recites the following salawat after morning
 aprayers, will not die untill he sees his Imame zamana (S.A.W.S.).
 
-<p dir="rtl">
 الّلهُمَّ صَلِّ عَلى مُحَمَّدٍ وَعَلى آلِ مُحَمَّدٍ وَعَجِّلْ
 فَرَجَهُم
-</p>
 
 **Narration’s of Good character (Husne Khalq):**
 

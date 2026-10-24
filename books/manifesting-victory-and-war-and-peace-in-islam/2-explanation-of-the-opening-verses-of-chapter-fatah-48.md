@@ -17,4 +17,3 @@ solving. A similar word of it is miftah which is used for “keys”.
 Another one is Muftooh, which refers to a conquered area. It means that
 it is open and not banned for any movement.
 
-

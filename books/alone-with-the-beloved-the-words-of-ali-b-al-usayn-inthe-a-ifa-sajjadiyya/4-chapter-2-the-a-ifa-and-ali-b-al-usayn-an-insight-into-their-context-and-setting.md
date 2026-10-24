@@ -244,4 +244,3 @@ next chapter we will closer examine his personal biography, the person,
 and the mindset, providing us with a window to the author and through
 him to the text.
 
-

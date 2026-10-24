@@ -605,4 +605,3 @@ fact that the idea of one God existing in three persons is outside the
 Biblical tradition. The Bible presents God as one, a fact acknowledged
 by both Judaism and Islam.
 
-

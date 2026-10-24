@@ -80,4 +80,3 @@ meaning in different forms.
 ar-Razi, at-Tafsiru 'l-kabir, under verse 9, surah al-Kahf ("Or dost
 thou think. . .").
 
-

@@ -454,4 +454,3 @@ to fascinate people. Prolific art and using culture in the service of
 one's desires and lusts is a factor that can destroy original human
 cultures.
 
-

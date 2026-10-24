@@ -3,12 +3,8 @@ The Disciplines of Islam
 
 ( Verse 1 )
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ
-وَرَسُولِهِ وَاتَّقُوا اللٌّهَ إِنَّ اللٌّهَ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ
+> وَرَسُولِهِ وَاتَّقُوا اللٌّهَ إِنَّ اللٌّهَ سَمِيعٌ عَلِيمٌ
 
 ***O’ you who have true faith! Do not give preference (to your own words
 and deeds) above those of Allah and His Messenger (the Prophet Muhammad,
@@ -81,11 +77,7 @@ Allah (Glorified and Exalted is He) has explained the necessity of
 maintaining such a discipline in this introductory verse where He has
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
-  </p>
-</blockquote>
+> ...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
 
 ***“…do not give preference (to your own words and deeds) above those of
 Allah and His Messenger (the Prophet Muhammad, blessings of Allah be
@@ -96,12 +88,8 @@ Exalted is He) stresses on the infallibility of the Prophet (blessings
 of Allah be upon him and his progeny) and his inability to fall into
 error or make a mistake where He says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللٌّهِ لَوْ يُطِيعُكُمْ فِي
-كَثِـيـرٍ مِّنَ الأَمْرِ لَعَنِتُّمْ
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللٌّهِ لَوْ يُطِيعُكُمْ فِي
+> كَثِـيـرٍ مِّنَ الأَمْرِ لَعَنِتُّمْ
 
 ***“Know that the Messenger of Allah (Muhammad, blessings of Allah be
 upon him and his progeny) is amongst you. Had he yielded to you on many
@@ -122,11 +110,7 @@ Therefore, if we sincerely wish to be a society of believers and true
 Muslims, then we must take the following verse as an example as to how
 to pattern our lives:
 
-<blockquote dir="rtl">
-  <p>
-...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
-  </p>
-</blockquote>
+> ...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
 
 ***…do not give preference (to your own words and deeds) above those of
 Allah and His Messenger (the Prophet Muhammad, blessings of Allah be
@@ -147,11 +131,7 @@ of the Heavenly rulings - the rulings of Allah (Glorified and Exalted is
 He) and His Prophet (blessings of Allah be upon him and his progeny) -
 and unknowingly, they did not act upon the verse that states:
 
-<blockquote dir="rtl">
-  <p>
-...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
-  </p>
-</blockquote>
+> ...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
 
 ***“…do not give preference (to your own words and deeds) above those of
 Allah and His Messenger (the Prophet Muhammad, blessings of Allah be
@@ -238,13 +218,9 @@ in lack of faith in the reality of the Prophetic mission and the
 illuminating teachings of Islam, the Qur’an brings forth various verses,
 of which we relate one here from Surah al-Ahzab:
 
-<blockquote dir="rtl">
-  <p>
-وَمٌا كٌانَ لِمُؤْمِنٍ وَلاٌ مُؤْمِنَةٍ إِذٌا قَضَى اللٌّهُ
-وَرَسُولُهُ أَمْراً أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
-وَمَنْ يَعْصِ اللٌّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلاٌلاً مُّبِيناً
-  </p>
-</blockquote>
+> وَمٌا كٌانَ لِمُؤْمِنٍ وَلاٌ مُؤْمِنَةٍ إِذٌا قَضَى اللٌّهُ
+> وَرَسُولُهُ أَمْراً أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
+> وَمَنْ يَعْصِ اللٌّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلاٌلاً مُّبِيناً
 
 ***“And it is not permitted for the believing men nor for the believing
 women that when Allah and His Messenger (Muhammad, blessings of Allah be
@@ -273,11 +249,7 @@ The true meaning of Islam is the (complete) state of submission to Allah
 (peace be upon him) has defined the reality of Islam by summarizing it
 in one sentence where he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِسْلاٌمُ هُوَ التَّسْلِيمُ
-  </p>
-</blockquote>
+> أَلإِسْلاٌمُ هُوَ التَّسْلِيمُ
 
 *“Al-Islam is (simply) complete submission (to the laws and commandments
 of Allah)”*[^3]
@@ -379,11 +351,7 @@ Allah (Glorified and Exalted is He) stem from one source and that is
 that we do not have the correct understanding of the disciplines of
 Islam and this sentence of the Surah is the true expression of this:
 
-<blockquote dir="rtl">
-  <p>
-...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
-  </p>
-</blockquote>
+> ...لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَرَسُولِهِ
 
 **“*****…do not give preference (to your own words and deeds) above
 those of Allah and His Messenger*** *(the Prophet Muhammad, blessings of
@@ -427,12 +395,8 @@ you will always follow this same belief (of disobeying the Prophet).”
 The Prophet (blessings of Allah be upon him and his progeny) was very
 upset at the doubts and hesitations of the people and said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُنْتُ إِسْتَقْبَلْتُ مِنْ أَمْرِي مٌا اسْتَدْبَرْتُ لَفَعَلْتُ
-كَمٌا أَمَرْتُكُمْ
-  </p>
-</blockquote>
+> لَوْ كُنْتُ إِسْتَقْبَلْتُ مِنْ أَمْرِي مٌا اسْتَدْبَرْتُ لَفَعَلْتُ
+> كَمٌا أَمَرْتُكُمْ
 
 *“If I had given this issue previous thought then just like you, instead
 of bringing the animal to sacrifice with me, I would have left it at
@@ -441,11 +405,7 @@ Allah (without the animal). However what can I do now that I have
 brought this animal to sacrifice, I must act in accordance to the
 commandment of Allah which states:*
 
-<blockquote dir="rtl">
-  <p>
-حَتَّـٌی يَبْلُغَ الْهَدْيُ مَحِلَّهُ
-  </p>
-</blockquote>
+> حَتَّـٌی يَبْلُغَ الْهَدْيُ مَحِلَّهُ
 
 ***(You must remain in the state of Ihram) until you reach to the place
 where you must offer the sacrifice (that you have brought with you).***
@@ -491,14 +451,10 @@ other sort of (material or spiritual) benefit for himself that he saw in
 his friendship. In reality, this is explained very well in this verse of
 the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللٌّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُواْ بَيْنَ اللٌّهِ وَرُسُلِهِ وَيقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُواْ بَيْنَ ذٌلِكَ
-سَبِيلاً أُولٌئِكَ هُمُ الْكٌافِرُونَ حَقًّا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللٌّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُواْ بَيْنَ اللٌّهِ وَرُسُلِهِ وَيقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُواْ بَيْنَ ذٌلِكَ
+> سَبِيلاً أُولٌئِكَ هُمُ الْكٌافِرُونَ حَقًّا
 
 ***“Those people who disbelieve in Allah and His Messengers and who
 intend to create differences between Allah and His Messengers (by
@@ -514,12 +470,8 @@ within them. When Allah (Glorified and Exalted is He) commanded Shaitan
 to prostrate to Adam (peace be upon him) which he rejected to do, he
 replied to Allah (Glorified and Exalted is He):
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ أَعْفَيْـتَنِي مِنْ سَجْدَةِ آدَمَ لَأَعْـبُدْكَ عِبٌادَةً لاٌ
-يَعْبُدُهٌا أَحَدٌ مِنْ قَبْلِي
-  </p>
-</blockquote>
+> لَئِنْ أَعْفَيْـتَنِي مِنْ سَجْدَةِ آدَمَ لَأَعْـبُدْكَ عِبٌادَةً لاٌ
+> يَعْبُدُهٌا أَحَدٌ مِنْ قَبْلِي
 
 *“If you excuse me from prostrating to Adam then surely I will worship
 You such* *)a worship(* *that no one before has ever worshipped You.”*
@@ -548,12 +500,8 @@ Prophet of Islam (blessings of Allah be upon him and his progeny) is
 equivalent to denying Allah (Glorified and Exalted is He), as has been
 mentioned in the following verse of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُمْ لاٌ يُكَذِّبُونَكَ وَلٌكِنَّ الظٌّالِمِينَ بِآيٌاتِ
-اللٌّهِ يَجْحَدُونَ
-  </p>
-</blockquote>
+> فَإِنَّهُمْ لاٌ يُكَذِّبُونَكَ وَلٌكِنَّ الظٌّالِمِينَ بِآيٌاتِ
+> اللٌّهِ يَجْحَدُونَ
 
 ***“So then surely they do not deny you*** *(O’ Muhammad, blessings of
 Allah be upon him and his progeny),* ***however*** ***the oppressors
@@ -603,5 +551,4 @@ Maktab-e-Islami, number 1, Year 9.
 [^10]: Surah al-Nisa (4), Verse 150 & 151.
 
 [^11]: Surah al-An\`am (6), Verse 33.
-
 

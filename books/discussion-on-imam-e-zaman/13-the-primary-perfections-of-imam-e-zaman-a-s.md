@@ -28,9 +28,7 @@ If Allah snatches this most vital trait from man (of freedom and
 intention), then the very concept of humanity will be rendered null and
 void. In this regard, Allah the Almighty expresses,
 
-<p dir="rtl">
 .« و لو شاء. ربك لآمن من في الارضِ كلّهم جميعا »
-</p>
 
 “And had Your Lord willed, all that is in the heavens and the earth
 would have believed.52”
@@ -124,10 +122,8 @@ he (s.a.w.a.) has communicated all the laws to Ali Ibn Abi Talib (a.s.)
 and hence, the day he (s.a.w.a.) introduced Ali (a.s.) to the world, it
 was announced,
 
-<p dir="rtl">
 .« اليوم أكملت. لكُم دينكُم و اتمت. عليكم نِعمتي و رضيت. لكم الاِسلام
 ديناً »
-</p>
 
 “This day I (Allah) have perfected for you your religion, completed My
 bounties on you and have become satisfied with Islam as a religion for
@@ -273,11 +269,9 @@ permitted, Ameerul Momineen (a.s.) would have completed the level of
 conveyance and introduced the implementation of these laws and sciences.
 Unfortunately, that was not the case. Ameerul Momineen (a.s.) laments,
 
-<p dir="rtl">
 أما و اللّه لوثُنِي لي الوِساده. لحكمت. بين اهل التواره بتوراتهم, و بين
 اهل الاِنجيل بانجيلهم و بين » .« اهل الزّبور بزّبورهم و بين اهل الفرقان
 بفرقانهم
-</p>
 
 “But by Allah! Had they (opponents) allowed, I would have judged
 between the people of Torah (Old Testament) with their Torah, between
@@ -307,13 +301,11 @@ Moses (a.s.), the brightness of Jesus (a.s.) and the patience of Job
 the contents of different invocations and supplications that goes as
 follows:
 
-<p dir="rtl">
 اللّه.م صلِّ و سلم و زد و بارك علي صاحب الد.عوه النُّبويه و الص.وله
 الحيدريه و العصمه الفاطميه و » ثر الباقريه و الآثار الجعفريه و العلوم .
 الحلم الحسنيه و الشجاعه الحسينيه و العباده السجاديه و الم .« الكاظميه و
 الحجج الرضويه و الجود التقئيه و النقاوه النقويه و الهيبه العسكريه و
 الغيبه الإلهيه
-</p>
 
 That is, all those characteristics and traits that the infallible and
 pure Imams (a.s.) possessed are available in the holy persona of
@@ -531,12 +523,10 @@ offered to him by the previous divine proofs, jurists, believers and
 followers. Thus, when a person recites salawaat and sends salutations in
 the following ziyaarat every morning after the obligatory prayers,
 
-<p dir="rtl">
 اللّهم ب.لِّغ مولاي صاحب. الزَّمان صلوات اللّه عليه عن جميع المؤمنين و
 المؤمنات في مشارقِ » الارض و مغاربها و برها و بحرها و سهلها و جبلها,
 حيهِم و ميتهم و عن والدي و ولدي و عني من .« الص.لوات و التَّحيات زِنه
 عرش اللّه
-</p>
 
 its reward goes to the account of Imam-e-Zaman (a.s.) as well57.
 
@@ -581,5 +571,4 @@ we have some other discussions that shall be set fortht in their
 appropriate places. 57 Mafaateeh al-Jenaan by Shaikh Abbas Qummi, in the
 chapter of Ziyaaraat of Hazrat Baqiyatullah (a.t.f.s.) after
 Dua-e-Nudbah.
-
 

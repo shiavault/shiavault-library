@@ -39,11 +39,7 @@ regarding reappearance and he said:
 
 “Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-فَانتَظِرُواْ إِنِّي مَعَكُم مِّنَ الْمُنتَظِرِينَ
-  </p>
-</blockquote>
+> فَانتَظِرُواْ إِنِّي مَعَكُم مِّنَ الْمُنتَظِرِينَ
 
 ***Wait then, I too with you will be of those who wait***[^1]***.***
 
@@ -55,19 +51,11 @@ from Ahmad bin Muhammad bin Abi Nasr that he said: Ar-Reza (a.s.) said:
 “How good is patience and awaiting for the reappearance? Have you not
 heard Allah, the Mighty and Sublime say?
 
-<blockquote dir="rtl">
-  <p>
-وَارْتَقِبُواْ إِنِّي مَعَكُمْ رَقِيبٌ
-  </p>
-</blockquote>
+> وَارْتَقِبُواْ إِنِّي مَعَكُمْ رَقِيبٌ
 
 ***And watch, surely I too am watching with you***[^2]***.***
 
-<blockquote dir="rtl">
-  <p>
-فَانتَظِرُواْ إِنِّي مَعَكُم مِّنَ الْمُنتَظِرِينَ
-  </p>
-</blockquote>
+> فَانتَظِرُواْ إِنِّي مَعَكُم مِّنَ الْمُنتَظِرِينَ
 
 ***Wait then, I too with you will be of those who wait***[^3]***.***
 
@@ -203,5 +191,4 @@ soothed my eyes more than this talk.’”
 [^2]: Surah Hud 11:93
 
 [^3]: Surah Araaf 7:71
-
 

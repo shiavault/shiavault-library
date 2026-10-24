@@ -163,7 +163,6 @@ the do not display arrogance."
 
 Holy Qur'an (16:48-49)
 
-
 **3-SERVITUDE IS TO ALLAH**
 
 Surrender to Allah the Exalted is also observed in the individual's
@@ -266,7 +265,6 @@ clear line in life.
 different kinds of polytheism.
 
 3- Being sincere to Allah in intention and action.
-
 
 **The Role of Servitude in Man's Life**
 
@@ -393,5 +391,4 @@ follow the way of servitude to the Almighty Himself; surely He is the
 Guardian and the Helper.
 
 Praise be to Allah, the lord of the words.
-
 

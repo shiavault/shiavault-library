@@ -15,11 +15,7 @@ Thinking And The Thinker
 reflecting before speaking.
 
 > 3ـ أصْلُ السَّلامَةِ مِنَ الزَّلَلِ، اَلفِكْرُ قَبْلَ الفِعْلِ،
-<blockquote dir="rtl">
-  <p>
-والرَّوِيَّةُ قَبْلَ الكَلامِ.
-  </p>
-</blockquote>
+> والرَّوِيَّةُ قَبْلَ الكَلامِ.
 
 4. Verily the one who observes with his heart and acts with foresight
 begins his action by first looking at [the consequence of] his action,
@@ -28,12 +24,8 @@ ahead with it and if it is against him then he holds back from [doing]
 it.
 
 > 4ـ إنَّ النّاظِرَ بِالقَلْبِ، اَلعامِلَ بِالبَصَرِ، يَكُونُ مُبْتَدَأُ
-<blockquote dir="rtl">
-  <p>
-عَمَلِهِ أنْ يَنْظُرَ عَمَلَهُ، عَلَيْهِ، أمْ لَهُ، فَإنْ كانَ لَهُ،
-مَضى فيهِ وإنْ كانَ عَلَيْهِ، وَقَفَ عَنْهُ.
-  </p>
-</blockquote>
+> عَمَلِهِ أنْ يَنْظُرَ عَمَلَهُ، عَلَيْهِ، أمْ لَهُ، فَإنْ كانَ لَهُ،
+> مَضى فيهِ وإنْ كانَ عَلَيْهِ، وَقَفَ عَنْهُ.
 
 5. Thinking guides, truth saves.
 
@@ -97,11 +89,7 @@ destruction.
 your outcomes will be good in all matters.
 
 > 19ـ إذا قَدَّمْتَ الفِكْرَ في جَميعِ أفْعالِكَ حَسُنَتْ عَواقِبُكَ في
-<blockquote dir="rtl">
-  <p>
-كُلِّ أمْر.
-  </p>
-</blockquote>
+> كُلِّ أمْر.
 
 20. By thinking, deliberation is improved.
 
@@ -133,11 +121,7 @@ noblest discernment.
 before you rush forward.
 
 > 26ـ تَفَكَّرْ قَبْلَ أنْ تَعْزِمَ، وشاوِرْ قَبْلَ أنْ تُقْدِمع،
-<blockquote dir="rtl">
-  <p>
-وتَدَبَّرْ قَبْلَ أنْ تَهْجُمَ.
-  </p>
-</blockquote>
+> وتَدَبَّرْ قَبْلَ أنْ تَهْجُمَ.
 
 27. Your thinking leads to your gaining insight, and acquiring lessons
 [from the past].
@@ -152,22 +136,14 @@ before you rush forward.
 the vicissitudes of time.
 
 > 29ـ دَوامُ الفِكْرِ وَالحَذَرِ يُؤْمِنُ الزَّلَلَ ويُنْجي مِنَ
-<blockquote dir="rtl">
-  <p>
-الغِيَرِ.
-  </p>
-</blockquote>
+> الغِيَرِ.
 
 30. May Allah have mercy on the person who reflects and then takes
 lesson, and who takes lesson and hence perceives [the reality of
 things].
 
 > 30ـ رَحِمَ اللّهُ امْرَءاً تَفَكَّرَ فَاعْتَـبَـرَ، واعْتَبـَرَ
-<blockquote dir="rtl">
-  <p>
-فَأبْصَرَ.
-  </p>
-</blockquote>
+> فَأبْصَرَ.
 
 31. The cornerstone of insight is contemplation.
 
@@ -191,11 +167,7 @@ hasty.
 prevents the corruption of matters.
 
 > 35ـ طُولُ الفِكْرِ يُحْمِدُ العَواقِبَ،وَ يَسْتَدْرِكُ فَسادَ
-<blockquote dir="rtl">
-  <p>
-الأُمُورِ.
-  </p>
-</blockquote>
+> الأُمُورِ.
 
 36. Lengthy contemplation improves the outcomes of planning.
 
@@ -210,11 +182,7 @@ advisor.
 rectifier of deeds.
 
 > 38ـ عَلَيْكَ بِالفِكْرِ فَإنَّهُ رُشْدٌ مِنَ الضَّلالِ ومُصْلِحُ
-<blockquote dir="rtl">
-  <p>
-الأعْمالِ.
-  </p>
-</blockquote>
+> الأعْمالِ.
 
 39. The thought of an intelligent person is guidance.
 
@@ -232,11 +200,7 @@ rectifier of deeds.
 improve your Hereafter.
 
 > 42ـ فِكْرُكَ يَهْديكَ إلَى الرَّشادِ، ويَحْدُوكَ عَلى إصْلاحِ
-<blockquote dir="rtl">
-  <p>
-المَعادِ.
-  </p>
-</blockquote>
+> المَعادِ.
 
 43. A man’s thinking is a mirror that shows him his good actions from
 his bad ones.
@@ -261,20 +225,12 @@ acquire provisions for the Hereafter, [for by this] you will attain
 felicity.
 
 > 47ـ فَتَفَكَّرُوا أيُّهَا النّاسُ وتَبَصَّرُوا، واعْتَبِرُوا
-<blockquote dir="rtl">
-  <p>
-واتَّعِظُوا، وتَزَوَّدُوا لِلآخِرَةِ تَسْعَدُوا.
-  </p>
-</blockquote>
+> واتَّعِظُوا، وتَزَوَّدُوا لِلآخِرَةِ تَسْعَدُوا.
 
 48. Measure and then cut, think and then speak, verify and then act.
 
 > 48ـ قَدِّرْ ثُمَّ اقْطَعْ، وَفَكِّرْ ثُمَّ انْطِقْ، وتَبَيَّنْ ثُمَّ
-<blockquote dir="rtl">
-  <p>
-اعْمَلْ.
-  </p>
-</blockquote>
+> اعْمَلْ.
 
 49. How can the thought of one who is always sated be pure?
 
@@ -381,11 +337,7 @@ unpleasant calamities.
 of the sincere ones.
 
 > 73ـ اَلتَّفَكُّرُ في مَلَكُوتِ السَّماواتِ وَالأرْضِ عِبادَةُ
-<blockquote dir="rtl">
-  <p>
-المُخْلَصينَ.
-  </p>
-</blockquote>
+> المُخْلَصينَ.
 
 74. Thinking about a matter before undertaking it saves one from error.
 
@@ -395,11 +347,7 @@ of the sincere ones.
 the fruit of precaution.
 
 > 75ـ اَلفِكْرُ يُوجِبُ الاِعْتِبارَ، ويُؤْمِنُ العِثارَ، ويُثْمِرُ
-<blockquote dir="rtl">
-  <p>
-الاِسْتِظْهارَ.
-  </p>
-</blockquote>
+> الاِسْتِظْهارَ.
 
 76. Reflect and you will awaken [and become alert].
 
@@ -408,5 +356,4 @@ the fruit of precaution.
 77. Contemplation guides [one] to the right path.
 
 > 77ـ اَلفِكْرُ يَهْدي إلَى الرُّشْدِ.
-
 

@@ -12,4 +12,3 @@ whenever there is difference of opinion among you.” (4:59)***
 To turn to God is in reality to consult the Book of God; and to turn to
 the prophet is t follow his universally accepted traditions.
 
-

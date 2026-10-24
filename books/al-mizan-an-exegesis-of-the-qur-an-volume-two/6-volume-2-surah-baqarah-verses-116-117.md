@@ -108,4 +108,3 @@ earth, or like this earthly water.
 We shall explain it further under the verse: and His throne was on the
 water (12:7).
 
-

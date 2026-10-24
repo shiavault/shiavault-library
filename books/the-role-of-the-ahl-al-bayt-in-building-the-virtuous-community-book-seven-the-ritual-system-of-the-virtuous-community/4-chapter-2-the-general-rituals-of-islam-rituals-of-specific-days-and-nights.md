@@ -102,42 +102,26 @@ are made clear. In addition, many traditions report the merit,
 distinction, significance, and outcome of this night. Here are some
 examples in which the Holy Imams (‘a) are reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-فَالْمَلاَئِكَةُ فِيهَا لَمْ تَزَلْ تَخْفِقُ بِأَجْنِحَتِهَا
-بِالسَّلاَمِ وَالرَّحْمَةِ مِنْ لَدُنْ صَلاَةِ الْمَغْرِبِ إِلَى
-طُلُوعِ الْفَجْرِ.
-  </p>
-</blockquote>
+> فَالْمَلاَئِكَةُ فِيهَا لَمْ تَزَلْ تَخْفِقُ بِأَجْنِحَتِهَا
+> بِالسَّلاَمِ وَالرَّحْمَةِ مِنْ لَدُنْ صَلاَةِ الْمَغْرِبِ إِلَى
+> طُلُوعِ الْفَجْرِ.
 
 *On the Night of Qadr, the angels keep on flapping their wings with
 peace and mercy from the time of the sunset prayer (maghrib) up to the
 break of dawn.*
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَحِلُّ لِكَوْكَبٍ أَنْ يُرْجَمَ بِهِ فِيهَا حَتَّى يُصْبِحَ.
-  </p>
-</blockquote>
+> وَلاَ يَحِلُّ لِكَوْكَبٍ أَنْ يُرْجَمَ بِهِ فِيهَا حَتَّى يُصْبِحَ.
 
 *On the Night of Qadr, no flaming asteroid is thrown until morning.*
 
-<blockquote dir="rtl">
-  <p>
-وَالْعِبَادَةُ وَالْعَمَلُ الصَّالِحُ فِيهَا خَيْرٌ مِنْ عِبَادَةِ
-أَلْفِ شَهْرٍ.
-  </p>
-</blockquote>
+> وَالْعِبَادَةُ وَالْعَمَلُ الصَّالِحُ فِيهَا خَيْرٌ مِنْ عِبَادَةِ
+> أَلْفِ شَهْرٍ.
 
 *On the Night of Qadr, worship and righteous acts are more valuable than
 the devotional acts of one thousand months.*
 
-<blockquote dir="rtl">
-  <p>
-الْعَمَلُ فِيهَا يُعَادِلُ التَّهَيُّؤَ لِلْجِهَادِ فِي سَبِيلِ اللهِ
-أَلْفَ شَهْرٍ.
-  </p>
-</blockquote>
+> الْعَمَلُ فِيهَا يُعَادِلُ التَّهَيُّؤَ لِلْجِهَادِ فِي سَبِيلِ اللهِ
+> أَلْفَ شَهْرٍ.
 
 *Devotional acts on the Night of Qadr are equal (in reward) to preparing
 oneself to struggle for the sake of Allah for one thousand months.*[^2]
@@ -162,11 +146,7 @@ responded to ‘Amr ibn ‘Abd-Wudd’s mocking remarks against Islam and
 bravely fought and killed him in the Battle of al-Khandaq (the ditch),
 is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ضَرْبَةُ عَلِيٍّ يَوْمَ الْخَنْدَقِ تَعْدِلُ عِبَادَةَ الثَّقَلَيْنِ.
-  </p>
-</blockquote>
+> ضَرْبَةُ عَلِيٍّ يَوْمَ الْخَنْدَقِ تَعْدِلُ عِبَادَةَ الثَّقَلَيْنِ.
 
 *The stroke of ‘Ali on that day of the Battle of al-Khandaq is equal to
 the total worship of both groups of creatures (men and jinn).*
@@ -210,19 +190,11 @@ In this respect, one of the Infallibles (‘a), when asked which night was
 the Night of Power (the twenty-first or the twenty-third of Ramadhan),
 he did not identify it but said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَيْسَرَ لَيْلَتَيْنِ فِي مَا تَطْلُبُ!
-  </p>
-</blockquote>
+> مَا أَيْسَرَ لَيْلَتَيْنِ فِي مَا تَطْلُبُ!
 
 *So easy it is to act on two nights in order to win one’s desire.*
 
-<blockquote dir="rtl">
-  <p>
-مَا عَلَيْكَ أَنْ تَفْعَلَ خَيْراً فِي لَيْلَتَيْنِ؟
-  </p>
-</blockquote>
+> مَا عَلَيْكَ أَنْ تَفْعَلَ خَيْراً فِي لَيْلَتَيْنِ؟
 
 *What will harm you if you act righteously on two nights?*
 
@@ -277,12 +249,8 @@ Specific supplications have been mentioned for these nights. In this
 respect, Shaykh al-Kaf’ami reports Imam Zayn al-’Abidin (‘a) prayed
 using the supplication that begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّي اَمْسَيْتُ لَكَ عَبْداً دَاخِراً لاَ اَمْلِكُ
-لِنَفْسِي نَفْعاً وَلا ضَرّاً…
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّي اَمْسَيْتُ لَكَ عَبْداً دَاخِراً لاَ اَمْلِكُ
+> لِنَفْسِي نَفْعاً وَلا ضَرّاً…
 
 O Allah: surely, I am on this evening Your passive slave; I have no
 control over harm or benefit to myself…
@@ -315,20 +283,12 @@ begins with this statement:
 
 O Allah: at the time of making decisions that are inevitable…
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ اِجْعَلْ فِيمَا تَقْضِي وَتُقَدِّرُ مِنَ الاَمْرِ
-الْمَحْتُومِ…
-  </p>
-</blockquote>
+> اللَّهُمَّ اِجْعَلْ فِيمَا تَقْضِي وَتُقَدِّرُ مِنَ الاَمْرِ
+> الْمَحْتُومِ…
 
 The second begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-يَا ذَا الَّذِي كَانَ قَبْلَ كُلِّ شَيْءٍ…
-  </p>
-</blockquote>
+> يَا ذَا الَّذِي كَانَ قَبْلَ كُلِّ شَيْءٍ…
 
 O He Who has always been there before all things…
 
@@ -356,14 +316,10 @@ al-Husayn (‘a) on this night.
 The following supplication to hasten the relief of Imam al-Mahdi (‘a) is
 highly recommended:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ ابْنِ الْحَسَنِ صَلَوَاتُكَ
-عَلَيْهِ وَعَلَى آبَائِهِ فِي هَذِهِ السَّاعَةِ وَفِي كُلِّ سَاعَةٍ
-وَلِيّاً وَحَافِظاً وَقَائِداً وَنَاصِراً وَدَلِيلاً وَعَيْناً حَتَّى
-تُسْكِنَهُ اَرْضَكَ طَوْعاً وَتُمَتِّعَهُ فِيهَا طَوِيلاً
-  </p>
-</blockquote>
+> اَللَّهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ ابْنِ الْحَسَنِ صَلَوَاتُكَ
+> عَلَيْهِ وَعَلَى آبَائِهِ فِي هَذِهِ السَّاعَةِ وَفِي كُلِّ سَاعَةٍ
+> وَلِيّاً وَحَافِظاً وَقَائِداً وَنَاصِراً وَدَلِيلاً وَعَيْناً حَتَّى
+> تُسْكِنَهُ اَرْضَكَ طَوْعاً وَتُمَتِّعَهُ فِيهَا طَوِيلاً
 
 O Allah, (say) “be” for Your representative, al-Hujjah (the Proof), the
 son of Hasan—Your blessings be on him and on his forefathers—now and for
@@ -432,21 +388,17 @@ In this connection, let us cite three validly reported traditions:
 1. Imam al-Ridha (‘a) is reported to have quoted the Holy Prophet (S) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ يَوْمَ الْجُمُعَةِ سَيِّدُ الأَيَّامِ؛ يُضَاعِفُ اللهُ عَزَّ
-وَجَلَّ فِيهِ الْحَسَنَاتِ وَيَمْحُو فِيهِ السَّيِّئَاتِ وَيَرْفَعُ
-فِيهِ الدَّرَجَاتِ وَيَسْتِجِيبُ فِيهِ الدَّعَوَاتِ وَيَكْشِفُ فِيهِ
-الْكُرُبَاتِ وَيَقْضِي فِيهِ الْحَوَائِجَ الْعِظَامَ. وَهُوَ يَوْمُ
-الْمَزِيدِ؛ للهِ فِيهِ عُتَقَاءُ وَطُلَقَاءُ مِنَ النَّارِ. مَا دَعَا
-فِيهِ أَحَدٌ مِنَ النَّاسِ وَعَرَفَ حَقَّهُ وَحُرْمَتَهُ إِلاَّ كَانَ
-حَقّاً عَلَى اللهِ عَزَّ وَجَلَّ أَنْ يَجْعَلَهُ مِنْ عُتَقَاءِهِ
-وَطُلَقَاءِهِ مِنَ النَّارِ. فَإِنْ مَاتَ فِي يَوْمِهِ أَوْ لَيْلَتِهِ
-مَاتَ شَهِيداً وَبُعِثَ آمِناً، وَمَا إسْتَخَفَّ أَحَدٌ بِحُرْمَتِهِ
-وَضَيَّعَ حَقَّهُ إِلاَّ كَانَ حَقّاً عَلَى اللهِ عَزَّ وَجَلَّ أَنْ
-يُصْلِيَهُ نَارَ جَهَنَّمَ إِلاَّ أَنْ يَتُوبَ.
-  </p>
-</blockquote>
+> إِنَّ يَوْمَ الْجُمُعَةِ سَيِّدُ الأَيَّامِ؛ يُضَاعِفُ اللهُ عَزَّ
+> وَجَلَّ فِيهِ الْحَسَنَاتِ وَيَمْحُو فِيهِ السَّيِّئَاتِ وَيَرْفَعُ
+> فِيهِ الدَّرَجَاتِ وَيَسْتِجِيبُ فِيهِ الدَّعَوَاتِ وَيَكْشِفُ فِيهِ
+> الْكُرُبَاتِ وَيَقْضِي فِيهِ الْحَوَائِجَ الْعِظَامَ. وَهُوَ يَوْمُ
+> الْمَزِيدِ؛ للهِ فِيهِ عُتَقَاءُ وَطُلَقَاءُ مِنَ النَّارِ. مَا دَعَا
+> فِيهِ أَحَدٌ مِنَ النَّاسِ وَعَرَفَ حَقَّهُ وَحُرْمَتَهُ إِلاَّ كَانَ
+> حَقّاً عَلَى اللهِ عَزَّ وَجَلَّ أَنْ يَجْعَلَهُ مِنْ عُتَقَاءِهِ
+> وَطُلَقَاءِهِ مِنَ النَّارِ. فَإِنْ مَاتَ فِي يَوْمِهِ أَوْ لَيْلَتِهِ
+> مَاتَ شَهِيداً وَبُعِثَ آمِناً، وَمَا إسْتَخَفَّ أَحَدٌ بِحُرْمَتِهِ
+> وَضَيَّعَ حَقَّهُ إِلاَّ كَانَ حَقّاً عَلَى اللهِ عَزَّ وَجَلَّ أَنْ
+> يُصْلِيَهُ نَارَ جَهَنَّمَ إِلاَّ أَنْ يَتُوبَ.
 
 *Verily, Friday is the master of days. On Fridays, Almighty Allah
 doubles the rewards (for good deeds), erases punishments (for
@@ -464,26 +416,18 @@ Hellfire unless he or she repents thereafter.*[^7]
 
 2. Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا طَلَعَتِ الشَّمْسُ بِيَوْمٍ أَفْضَلَ مِنْ يَوْمِ الْجُمُعَةِ.
-وَإِنَّ كَلاَمَ الطَّيْرِ إِذَا لَقِيَ بَعْضُهَا بَعْضاً: سَلاَمٌ
-سَلاَمٌ، يَوْمٌ صَالِحٌ.
-  </p>
-</blockquote>
+> مَا طَلَعَتِ الشَّمْسُ بِيَوْمٍ أَفْضَلَ مِنْ يَوْمِ الْجُمُعَةِ.
+> وَإِنَّ كَلاَمَ الطَّيْرِ إِذَا لَقِيَ بَعْضُهَا بَعْضاً: سَلاَمٌ
+> سَلاَمٌ، يَوْمٌ صَالِحٌ.
 
 *Sunlight never fell on a day better than Friday. When birds meet each
 other on this day, they greet each other, saying: Peace! Good day!*[^8]
 
 3. Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَافَقَ مِنْكُمْ يَوْمَ الْجُمُعَةِ فَلاَ يَشْتَغِلَنَّ بِشَيْءٍ
-غَيْرِ الْعِبَادَةِ، فَإِنَّ فِيهِ يُغْفَرُ لِلْعِبَادِ وَتُنَزَّلُ
-عَلَيْهِمُ الرَّحْمَةُ.
-  </p>
-</blockquote>
+> مَنْ وَافَقَ مِنْكُمْ يَوْمَ الْجُمُعَةِ فَلاَ يَشْتَغِلَنَّ بِشَيْءٍ
+> غَيْرِ الْعِبَادَةِ، فَإِنَّ فِيهِ يُغْفَرُ لِلْعِبَادِ وَتُنَزَّلُ
+> عَلَيْهِمُ الرَّحْمَةُ.
 
 *On Fridays, do not engage yourselves with anything other than acts of
 worship, for the servants’ shortcomings are forgiven and Divine mercy
@@ -520,21 +464,13 @@ Kumayl*, Imam Zayn al-’Abidin’s Supplication on Friday, *Du’a'
 al-Simat*, and many others, such as the two supplications beginning with
 the following two statements respectively:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ مَنْ تَهَيّأَ فِي هَذَا الْيَوْمِ اَوْ تَعَبَّأَ اَوْ
-اَعَدَّ وَاسْتَعَدَّ…
-  </p>
-</blockquote>
+> اللَّهُمَّ مَنْ تَهَيّأَ فِي هَذَا الْيَوْمِ اَوْ تَعَبَّأَ اَوْ
+> اَعَدَّ وَاسْتَعَدَّ…
 
 O Allah, if one, on this day, prepares oneself or takes pains or gets
 ready …
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ يَا شَاهِدَ كُلِّ نَجْوَى وَمَوْضِعَ كُلِّ شَكْوَى…
-  </p>
-</blockquote>
+> اللَّهُمَّ يَا شَاهِدَ كُلِّ نَجْوَى وَمَوْضِعَ كُلِّ شَكْوَى…
 
 O Allah, Witness of all the secrets of the hearts, Hearer of all
 complaints…
@@ -572,12 +508,8 @@ of this act
 
 • Read the supplication that begins with the following statement:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْفَضْلِ عَلَى الْبَريِّةِ يَا بَاسِطَ الْيَدَيْنِ
-بِالْعَطِيَّةِ
-  </p>
-</blockquote>
+> يَا دَائِمَ الْفَضْلِ عَلَى الْبَريِّةِ يَا بَاسِطَ الْيَدَيْنِ
+> بِالْعَطِيَّةِ
 
 O He Who is continuous in His Favor upon creatures! O He Who
 openhandedly bestows gifts!....
@@ -606,12 +538,8 @@ worship
 
 • Read the supplication that begins:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْفَضْلِ عَلَى الْبَريِّةِ يَا بَاسِطَ الْيَدَيْنِ
-بِالْعَطِيَّةِ
-  </p>
-</blockquote>
+> يَا دَائِمَ الْفَضْلِ عَلَى الْبَريِّةِ يَا بَاسِطَ الْيَدَيْنِ
+> بِالْعَطِيَّةِ
 
 O He Who is continuous in His Favor upon creatures! O He Who
 openhandedly bestows gifts!....
@@ -629,12 +557,8 @@ supplicating include:
 
 • Read the supplication that begins:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْفَضْلِ عَلَى الْبَريِّةِ يَا بَاسِطَ الْيَدَيْنِ
-بِالْعَطِيَّةِ
-  </p>
-</blockquote>
+> يَا دَائِمَ الْفَضْلِ عَلَى الْبَريِّةِ يَا بَاسِطَ الْيَدَيْنِ
+> بِالْعَطِيَّةِ
 
 O He Who is continuous in His Favor upon creatures! O He Who
 openhandedly bestows gifts!....
@@ -659,12 +583,8 @@ on this blessed night are:
 
 • Bathe. Some scholars report the Holy Prophet (S) to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ إغْتَسَلَ فِي أَوَّلِ رَجَبٍ وَوَسَطِهِ وَآخِرِهِ خَرَجَ مِنْ
-ذُنُوبِهِ كَيَوْمِ وَلَدَتْهُ أُمُّهُ.
-  </p>
-</blockquote>
+> مَنِ إغْتَسَلَ فِي أَوَّلِ رَجَبٍ وَوَسَطِهِ وَآخِرِهِ خَرَجَ مِنْ
+> ذُنُوبِهِ كَيَوْمِ وَلَدَتْهُ أُمُّهُ.
 
 *If one bathes himself on the first, middle, and last of Rajab, he will
 be released from all of his sins and return pure of sins just as on the
@@ -683,18 +603,14 @@ blessed night. For example, Imam al-Sadiq (‘a) has reported that when
 Imam al-Baqir (‘a) was asked about the merits of the eve of mid-Sha’ban,
 he said:
 
-<blockquote dir="rtl">
-  <p>
-هِيَ أَفْضَلُ اللَّيَالِي بَعْدَ لَيْلَةِ الْقَدْرِ، فِيهَا يَمْنَحُ
-اللهُ الْعِبَادَ فَضْلَهُ وَيَغْفِرُ لَهُمْ بِمَنِّهِ، فَاجْتَهِدُوا
-فِي الْقُرْبَةِ إِلَى اللهِ تَعَالَى فِيهَا; فَإِنَّهَا لَيْلَةٌ آلَى
-اللهُ عَزَّ وَجَلَّ عَلَى نَفْسِهِ أَلاَّ يَرُدَّ سَائِلاً فِيهَا مَا
-لَمْ يَسْأَلِ اللهَ الْمَعْصِيَةَ. وَإِنَّهَا اللَّيْلَةُ الَّتِي
-جَعَلَهَا اللهُ لَنَا أَهْلَ الْبَيْتِ بِإِزَاءِ مَا جَعَلَ لَيْلَةَ
-الْقَدْرِ لِنَبِيِّنَا عَلَيْهِ السَّلاَمُ، فَاجْتَهِدُوا فِي دُعَاءَ
-اللهِ تَعَالَى وَالثَّنَاءِ عَلَيْهِ.
-  </p>
-</blockquote>
+> هِيَ أَفْضَلُ اللَّيَالِي بَعْدَ لَيْلَةِ الْقَدْرِ، فِيهَا يَمْنَحُ
+> اللهُ الْعِبَادَ فَضْلَهُ وَيَغْفِرُ لَهُمْ بِمَنِّهِ، فَاجْتَهِدُوا
+> فِي الْقُرْبَةِ إِلَى اللهِ تَعَالَى فِيهَا; فَإِنَّهَا لَيْلَةٌ آلَى
+> اللهُ عَزَّ وَجَلَّ عَلَى نَفْسِهِ أَلاَّ يَرُدَّ سَائِلاً فِيهَا مَا
+> لَمْ يَسْأَلِ اللهَ الْمَعْصِيَةَ. وَإِنَّهَا اللَّيْلَةُ الَّتِي
+> جَعَلَهَا اللهُ لَنَا أَهْلَ الْبَيْتِ بِإِزَاءِ مَا جَعَلَ لَيْلَةَ
+> الْقَدْرِ لِنَبِيِّنَا عَلَيْهِ السَّلاَمُ، فَاجْتَهِدُوا فِي دُعَاءَ
+> اللهِ تَعَالَى وَالثَّنَاءِ عَلَيْهِ.
 
 *It is the most favorable night after the Night of Qadr. On this night,
 Almighty Allah bestows His favors upon His servants and grants them His
@@ -710,13 +626,9 @@ According to another validly reported tradition, Zurarah asked Imam
 al-Baqir (‘a) to say something about the eve of mid-Sha’ban. The Imam
 (‘a) thus said:
 
-<blockquote dir="rtl">
-  <p>
-يَغْفِرُ اللهُ عَزَّ وَجَلَّ فِيهَا مِنْ خَلْقِهِ لأَكْثَرَ مِنْ
-عَدَدِ شَعْرِ مُغْرَى كَلْبٍ، وَيُنْزِلُ اللهُ عَزَّ وَجَلَّ فِيهَا
-مَلاَئِكَةً إِلَى السَّمَاءِ الدُّنْيَا وَإِلَى الأَرْضِ بِمَكَّةَ.
-  </p>
-</blockquote>
+> يَغْفِرُ اللهُ عَزَّ وَجَلَّ فِيهَا مِنْ خَلْقِهِ لأَكْثَرَ مِنْ
+> عَدَدِ شَعْرِ مُغْرَى كَلْبٍ، وَيُنْزِلُ اللهُ عَزَّ وَجَلَّ فِيهَا
+> مَلاَئِكَةً إِلَى السَّمَاءِ الدُّنْيَا وَإِلَى الأَرْضِ بِمَكَّةَ.
 
 *On this night, Almighty Allah forgives as many of His creatures as the
 hairs on the horses of the Kalb Tribe. He also orders angels to descend
@@ -837,12 +749,8 @@ will protect you from the people. (5:67)***
 Having received this divine command, the Holy Prophet (S) climbed a
 pulpit made of the saddles of camels and stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ. اللَّهُمَّ وَالِ مَنْ
-وَالاَهُ وَعَادِ مَنْ عَادَاهُ.
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ. اللَّهُمَّ وَالِ مَنْ
+> وَالاَهُ وَعَادِ مَنْ عَادَاهُ.
 
 *Behold! ‘Ali is now the master of everyone who has regarded me as his
 master. O Allah, (please do) support whoever supports ‘Ali and be the
@@ -874,13 +782,9 @@ other feast days besides ‘Id al-Fitr, ‘Id al-Adhha, and Fridays.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-نَعَمْ، أَعْظَمُهَا حُرْمَةً. الْيَوْمُ الَّذِي نَصَّبَ فِيهِ رَسُولُ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَمِيرَ الْمُؤْمِنِينَ عَلَيْهِ
-السَّلاَمُ وَقَالَ: مَنْ كُنْتُ مَوْلاَهُ فَعَلِيٌّ مَوْلاَهُ...
-  </p>
-</blockquote>
+> نَعَمْ، أَعْظَمُهَا حُرْمَةً. الْيَوْمُ الَّذِي نَصَّبَ فِيهِ رَسُولُ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَمِيرَ الْمُؤْمِنِينَ عَلَيْهِ
+> السَّلاَمُ وَقَالَ: مَنْ كُنْتُ مَوْلاَهُ فَعَلِيٌّ مَوْلاَهُ...
 
 *Yes, they have. There is still the holiest feast day, which falls on
 the day when the Messenger of Allah (S) appointed the Commander of the
@@ -893,15 +797,11 @@ day?”
 
 He (‘a) instructed:
 
-<blockquote dir="rtl">
-  <p>
-تَذْكُرُونَ اللهَ عَزَّ ذِكْرُهُ فِيهِ بِالصِّيَامِ وَالْعِبَادَةِ
-وَالذِّكْرِ لِمُحَمَّدٍ وَآلِ مُحَمَّدٍ; فَإِنَّ رَسُولَ اللهِ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ أَوْصَى أَمِيرَ الْمُؤْمِنِينَ أَنْ يَتَّخِذَ
-ذَلِكَ الْيَوْمَ عِيداً، وَكَذَلِكَ الأَنْبِيَاءُ كَافَّةً، لِذَا
-يُوصُونَ أَوْصِيَاءَهُمْ بِذَلِكَ فَيَتَّخِذُونَهُ عِيداً.
-  </p>
-</blockquote>
+> تَذْكُرُونَ اللهَ عَزَّ ذِكْرُهُ فِيهِ بِالصِّيَامِ وَالْعِبَادَةِ
+> وَالذِّكْرِ لِمُحَمَّدٍ وَآلِ مُحَمَّدٍ; فَإِنَّ رَسُولَ اللهِ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ أَوْصَى أَمِيرَ الْمُؤْمِنِينَ أَنْ يَتَّخِذَ
+> ذَلِكَ الْيَوْمَ عِيداً، وَكَذَلِكَ الأَنْبِيَاءُ كَافَّةً، لِذَا
+> يُوصُونَ أَوْصِيَاءَهُمْ بِذَلِكَ فَيَتَّخِذُونَهُ عِيداً.
 
 *On this day, mention Allah and Glorify His remembrance by fasting,
 doing devotional acts, and mentioning the Holy Prophet and his Household
@@ -912,12 +812,8 @@ Dhu’l-Hijjah as a feast day.*[^18]
 
 Another tradition reads:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الأَنْبِيَاءَ كَانَتْ تَأْمُرُ الأَوْصِيَاءَ الْيَوْمَ الَّذِي
-كَانَ يُقَامُ فِيهِ الْوَصِيُّ أَنْ يُتَّخَذَ عِيداً.
-  </p>
-</blockquote>
+> فَإِنَّ الأَنْبِيَاءَ كَانَتْ تَأْمُرُ الأَوْصِيَاءَ الْيَوْمَ الَّذِي
+> كَانَ يُقَامُ فِيهِ الْوَصِيُّ أَنْ يُتَّخَذَ عِيداً.
 
 *The prophets used to order the days on which they nominated successors
 to be taken as feast days.*[^19]
@@ -978,14 +874,10 @@ Allah[^21]
 The 25th of Dhu’l-Qa’dah is celebrated as the Day of Spreading the Earth
 because Imam al-Ridha (‘a) is validly reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الأَرْضَ دُحِيَتْ وَانْبَسَطَتْ مِنْ تَحْتِ الْكَعْبَةِ
-الْمُشَرَّفَةِ فِي هَذَا الْيَوْمِ، وَفِي لَيْلَتِهِ وُلِدَ
-إِبْرَاهِيمَ عَلَيْهِ السَّلاَمُ وَوُلِدَ فِيهَا عِيسَى بْنُ مَرْيَمَ
-عَلَيْهِ السَّلاَمُ.
-  </p>
-</blockquote>
+> إِنَّ الأَرْضَ دُحِيَتْ وَانْبَسَطَتْ مِنْ تَحْتِ الْكَعْبَةِ
+> الْمُشَرَّفَةِ فِي هَذَا الْيَوْمِ، وَفِي لَيْلَتِهِ وُلِدَ
+> إِبْرَاهِيمَ عَلَيْهِ السَّلاَمُ وَوُلِدَ فِيهَا عِيسَى بْنُ مَرْيَمَ
+> عَلَيْهِ السَّلاَمُ.
 
 *On the twenty-fifth of Dhu’l-Qa’dah, Prophet Abraham, peace be upon
 him, was born, and Prophet Jesus son of Mary (peace be upon them both)
@@ -1069,18 +961,14 @@ acts of condolence previously referred to.
 • Refrain from striving for any worldly benefit. In this respect, Imam
 al-Ridha (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَرَكَ السَّعْيَ فِي حَوَائِجِهِ يَوْمَ عَاشُورَاءَ قَضَى اللهُ
-لَهُ حَوَائِجَ الدُّنْيَا وَالآخِرَةِ، وَمَنْ كَانَ يَوْمُ عَاشُورَاءَ
-يَوْمَ مُصِيبَتِهِ وَحُزْنِهِ وَبُكَائِهِ جَعَلَ اللهُ يَوْمَ
-الْقِيَامَةِ يَوْمَ فَرَحِهِ وَسُرُورِهِ وَقَرَّتْ بِنَا فِي
-الْجَنَّةِ عَيْنُهُ، وَمَنْ سَمَّى يَوْمَ عَاشُورَاءَ يَوْمَ بَرَكَةٍ
-وَادَّخَرَ لِمَنْزِلِهِ فِيهِ شَيْئاً لَمْ يُبَارَكْ لَهُ فِي مَا
-إدَّخَرَ وَحُشِرَ يَوْمَ الْقِيَامَةِ مَعَ يَزِيدَ وَعُبَيْدِ اللهِ
-بْنِ زِيَادٍ وَعُمَرَ بْنِ سَعْدٍ لَعَنَهُمُ اللهُ.
-  </p>
-</blockquote>
+> مَنْ تَرَكَ السَّعْيَ فِي حَوَائِجِهِ يَوْمَ عَاشُورَاءَ قَضَى اللهُ
+> لَهُ حَوَائِجَ الدُّنْيَا وَالآخِرَةِ، وَمَنْ كَانَ يَوْمُ عَاشُورَاءَ
+> يَوْمَ مُصِيبَتِهِ وَحُزْنِهِ وَبُكَائِهِ جَعَلَ اللهُ يَوْمَ
+> الْقِيَامَةِ يَوْمَ فَرَحِهِ وَسُرُورِهِ وَقَرَّتْ بِنَا فِي
+> الْجَنَّةِ عَيْنُهُ، وَمَنْ سَمَّى يَوْمَ عَاشُورَاءَ يَوْمَ بَرَكَةٍ
+> وَادَّخَرَ لِمَنْزِلِهِ فِيهِ شَيْئاً لَمْ يُبَارَكْ لَهُ فِي مَا
+> إدَّخَرَ وَحُشِرَ يَوْمَ الْقِيَامَةِ مَعَ يَزِيدَ وَعُبَيْدِ اللهِ
+> بْنِ زِيَادٍ وَعُمَرَ بْنِ سَعْدٍ لَعَنَهُمُ اللهُ.
 
 *If one refrains from striving for any worldly benefit on the tenth of
 Muharram, Almighty Allah will grant him all his needs for this world and
@@ -1156,11 +1044,7 @@ on the day of ‘Ashura'.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-صَوْمٌ مَتْرُوكٌ بِنُزُولِ شَهْرِ رَمَضَانَ، وَالْمَتْرُوكُ بِدْعَةٌ.
-  </p>
-</blockquote>
+> صَوْمٌ مَتْرُوكٌ بِنُزُولِ شَهْرِ رَمَضَانَ، وَالْمَتْرُوكُ بِدْعَةٌ.
 
 *Fasting on this day has been repealed by the divine command of fasting
 in the month of Ramadhan. To perform an abrogated matter is considered
@@ -1171,13 +1055,9 @@ the same answer given to him by Imam al-Baqir (‘a).
 
 The Imam (‘a) then added:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا إِنَّهُ صَوْمُ يَوْمٍ مَا نَزَلَ بِهِ كِتَابٌ وَلاَ جَرَتْ بِهِ
-سُنَّةٌ إِلاَّ سُنَّةَ آلِ زِيَادٍ بِمَقْتَلِ الْحُسَيْنِ بْنِ عَلِيٍّ
-عَلَيْهِ السَّلاَمُ.
-  </p>
-</blockquote>
+> أَمَا إِنَّهُ صَوْمُ يَوْمٍ مَا نَزَلَ بِهِ كِتَابٌ وَلاَ جَرَتْ بِهِ
+> سُنَّةٌ إِلاَّ سُنَّةَ آلِ زِيَادٍ بِمَقْتَلِ الْحُسَيْنِ بْنِ عَلِيٍّ
+> عَلَيْهِ السَّلاَمُ.
 
 *Verily, to take this day (of ‘Ashura') as a day of fasting is neither
 determined by any Divine Book nor accepted as a norm, except as invented
@@ -1187,12 +1067,8 @@ peace be upon him.*[^27]
 According to another well-reported (*hasan*) tradition, Imam al-Sadiq
 (‘a) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَامَهُ كَانَ حَظُّهُ مِنْ صِيَامِ ذَلِكَ الْيَوْمِ حَظَّ ابْنِ
-مَرْجَانَةَ وَآلِ زِيَادٍ.
-  </p>
-</blockquote>
+> مَنْ صَامَهُ كَانَ حَظُّهُ مِنْ صِيَامِ ذَلِكَ الْيَوْمِ حَظَّ ابْنِ
+> مَرْجَانَةَ وَآلِ زِيَادٍ.
 
 If one fasts on the day of ‘Ashura', he will be rewarded nothing but the
 recompense of the son of Marjanah (i.e. ‘Ubaydullah) and the family of
@@ -1202,12 +1078,8 @@ The reporter asked, “What was their recompense on that day?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-النَّارُ! أَعَاذَنَا اللهُ مِنَ النَّارِ وَمِنْ عَمَلٍ يُقَرِّبُ إِلَى
-النَّارِ.
-  </p>
-</blockquote>
+> النَّارُ! أَعَاذَنَا اللهُ مِنَ النَّارِ وَمِنْ عَمَلٍ يُقَرِّبُ إِلَى
+> النَّارِ.
 
 *Fire! May Allah save us from the Fire and from any act that advances
 one towards it.*[^28]
@@ -1218,17 +1090,13 @@ the people regarded the Day of ‘Ashura' as a day of celebration.
 
 The Imam (‘a) wept and then said:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا قُتِلَ الْحُسَيْنُ عَلَيْهِ السَّلاَمُ تَقَرَّبَ النَّاسُ
-بِالشَّامِ إِلَى يَزِيدَ فَوَضَعُوا لَهُ الأَخْبَارَ وَأَخَذُوا
-الْجَوَائِزَ مِنَ الأَمْوَالِ، فَكَانَ مِمَّا وَضَعُوا لَهُ أَمْرُ
-هَذَا الْيَوْمِ وَأَنَّهُ يَوْمُ بَرَكَةٍ لِيَعْدِلَ النَّاسُ فِيهِ
-مِنَ الْجَزَعِ وَالْبُكَاءِ وَالْمُصِيبَةِ وَالْحُزْنِ إِلَى الْفَرَحِ
-وَالسُّرُورِ وَالتَّبَرُّكِ وَالإسْتِعْدَادِ فِيهِ. حَكَمَ اللهُ
-بَيْنَنَا وَبَيْنَهُمْ.
-  </p>
-</blockquote>
+> لَمَّا قُتِلَ الْحُسَيْنُ عَلَيْهِ السَّلاَمُ تَقَرَّبَ النَّاسُ
+> بِالشَّامِ إِلَى يَزِيدَ فَوَضَعُوا لَهُ الأَخْبَارَ وَأَخَذُوا
+> الْجَوَائِزَ مِنَ الأَمْوَالِ، فَكَانَ مِمَّا وَضَعُوا لَهُ أَمْرُ
+> هَذَا الْيَوْمِ وَأَنَّهُ يَوْمُ بَرَكَةٍ لِيَعْدِلَ النَّاسُ فِيهِ
+> مِنَ الْجَزَعِ وَالْبُكَاءِ وَالْمُصِيبَةِ وَالْحُزْنِ إِلَى الْفَرَحِ
+> وَالسُّرُورِ وَالتَّبَرُّكِ وَالإسْتِعْدَادِ فِيهِ. حَكَمَ اللهُ
+> بَيْنَنَا وَبَيْنَهُمْ.
 
 *When Husayn, peace be upon him, was slain, the people of Sham tried to
 win the favor of and pay court to Yazid. They fabricated narrations to
@@ -1263,13 +1131,9 @@ Prophet (S) put on a garment, covered Imam ‘Ali, Lady Fatimah al-Zahra',
 Imam Hasan, and Imam al-Husayn—peace be upon them—with it, and
 supplicated Almighty Allah, saying:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنَّهُ كَانَ لِكُلِّ نَبِيٍّ مِنَ الأَنْبِيَاءِ أَهْلُ
-بَيْتٍ هُمْ أَخَصُّ الْخَلْقِ إِلَيْهِ. اللَّهُمَّ وَهَؤُلاَءِ أَهْلُ
-بَيْتِي؛ فَأَذْهِبْ عَنْهُمُ الرِّجْسَ وَطَهِّرْهُمْ تَطْهِيراً.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنَّهُ كَانَ لِكُلِّ نَبِيٍّ مِنَ الأَنْبِيَاءِ أَهْلُ
+> بَيْتٍ هُمْ أَخَصُّ الْخَلْقِ إِلَيْهِ. اللَّهُمَّ وَهَؤُلاَءِ أَهْلُ
+> بَيْتِي؛ فَأَذْهِبْ عَنْهُمُ الرِّجْسَ وَطَهِّرْهُمْ تَطْهِيراً.
 
 *O Allah, verily, each Prophet had family members who were the nearest
 to him. O Allah, these are my Household, so (please) remove
@@ -1404,12 +1268,8 @@ and nights have been the outcome of their expansive knowledge of the
 Islamic law or their genuine and veritable view of Islamic law on the
 strength of Imam ‘Ali’s saying:
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَنِي رَسُولُ اللهِ أَلْفَ بَابٍ مِنَ الْعِلْمِ، يَنْفَتِحُ لِي
-مِنْ كُلِّ بَابٍ أَلْفُ بَابٍ.
-  </p>
-</blockquote>
+> عَلَّمَنِي رَسُولُ اللهِ أَلْفَ بَابٍ مِنَ الْعِلْمِ، يَنْفَتِحُ لِي
+> مِنْ كُلِّ بَابٍ أَلْفُ بَابٍ.
 
 *The Messenger of Allah (S) taught me a thousand doors of knowledge each
 door of which opens before me another thousand doors.*
@@ -1507,5 +1367,4 @@ party would be cursed by Almighty Allah. This incident has been
 documented by the Holy Qur'an.
 
 [^31]: - Shaykh ‘Abbas al-Qummi, Mafatih al-Jinan, pp. 282.
-
 

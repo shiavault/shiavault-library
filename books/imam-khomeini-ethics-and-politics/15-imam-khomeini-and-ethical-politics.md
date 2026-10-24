@@ -185,29 +185,13 @@ From this tale Mawlānā concludes that in the lifespan of every man,
 there exists a seemingly dead dragon. If a bit of the heat of power and
 wealth reaches it, it will corrupt man:     
 
-<blockquote dir="rtl">
-  <p>
-ﻧﻔﺴﺖﺍﮋﺪﺭﻫﺎﺴﺖ، ﺍو ﮐﯽ ﻣﺭﺪﻩﺍﺴﺖ؟     ﺍﺰ ﻏﻢﺒﯽﺁﻠﺗﯽﺍﻔﺴﺮﺪﻩ ﺍﺴﺖ
-  </p>
-</blockquote>
+> ﻧﻔﺴﺖﺍﮋﺪﺭﻫﺎﺴﺖ، ﺍو ﮐﯽ ﻣﺭﺪﻩﺍﺴﺖ؟     ﺍﺰ ﻏﻢﺒﯽﺁﻠﺗﯽﺍﻔﺴﺮﺪﻩ ﺍﺴﺖ
 
-<blockquote dir="rtl">
-  <p>
-ﮔﺮﺒﻴﺎﺒﺪ ﺁﻠﺖِ ﻓﺮﻋﻮﻥ، ﺍﻮ                    ﮐﻪ به ﺍﻤﺮ ﺍﻮﻫﻤﻰ ﺮﻓﺖ ﺁﺐﺠﻮ
-  </p>
-</blockquote>
+> ﮔﺮﺒﻴﺎﺒﺪ ﺁﻠﺖِ ﻓﺮﻋﻮﻥ، ﺍﻮ                    ﮐﻪ به ﺍﻤﺮ ﺍﻮﻫﻤﻰ ﺮﻓﺖ ﺁﺐﺠﻮ
 
-<blockquote dir="rtl">
-  <p>
-ﺁﻧﮕﻪ ﺍﻮﺒﻧﻴﺎﺪﻔﺮﻋﻮﻧﻰ ﻜﻧﺪ                  ﺮﺍﻩﺼﺪ ﻤﻮﺴﻰ ﻮ ﺼﺪﻫﺎﺮﻮﻦ ﺰﻧﺪ
-  </p>
-</blockquote>
+> ﺁﻧﮕﻪ ﺍﻮﺒﻧﻴﺎﺪﻔﺮﻋﻮﻧﻰ ﻜﻧﺪ                  ﺮﺍﻩﺼﺪ ﻤﻮﺴﻰ ﻮ ﺼﺪﻫﺎﺮﻮﻦ ﺰﻧﺪ
 
-<blockquote dir="rtl">
-  <p>
-ﻜﺮﻤﮏﺍﺴﺖ ﺁﻦﺍﮋﺪﻫﺎ ﺍﺰﺪﺴﺖ ﻓﻘﺮ        ﭙﺷﻪﺍﻯ، ﮔﺮﺪﺪ ﺰ ﺠﺎﻩ ﻮﻣﺎﻞْ ﺼﻘﺮ
-  </p>
-</blockquote>
+> ﻜﺮﻤﮏﺍﺴﺖ ﺁﻦﺍﮋﺪﻫﺎ ﺍﺰﺪﺴﺖ ﻓﻘﺮ        ﭙﺷﻪﺍﻯ، ﮔﺮﺪﺪ ﺰ ﺠﺎﻩ ﻮﻣﺎﻞْ ﺼﻘﺮ
 
 *The dragon is thy sensual soul: How is it dead?*
 
@@ -306,5 +290,4 @@ embellished; by means of relentless trimming of the extra branches of
 power, its possible centralization and absolutism can be parried.  
       
   
-
 

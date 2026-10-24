@@ -81,4 +81,3 @@ the establishment of the universal Islamic government to encompass all
 the Muslim countries. These and other ideas are discussed in detail in
 his works of more than 1,100 titles.
 
-

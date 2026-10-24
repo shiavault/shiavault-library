@@ -4,29 +4,17 @@ Sermon 201: O people! Do not be desolate at the small number….
 *One should not be afraid of the scarcity of those who tread on the
 right path (a counsel to tread the clear path of guidance)*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-يعظ بسلوك الطريق الواضح
-  </p>
-</blockquote>
+> يعظ بسلوك الطريق الواضح
 
 O people! Do not be desolate at the small number of those who follow the
 right path, because people throng only round the table (of this world)
 where the duration of satiety is short and its hunger is prolonged.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، لاَ تَسْتَوْحِشُوا فِي طَرِيقِ الْهُدَىُ لِقِلَّةِ
-أَهْلِهِ، فَإِنَّ النَّاسَ قَدِ اجْتَمَعُوا عَلَى مَائِدَة شِبَعُهَا
-قَصِيرٌ، وَجُوعُهَا طَوِيلٌ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، لاَ تَسْتَوْحِشُوا فِي طَرِيقِ الْهُدَىُ لِقِلَّةِ
+> أَهْلِهِ، فَإِنَّ النَّاسَ قَدِ اجْتَمَعُوا عَلَى مَائِدَة شِبَعُهَا
+> قَصِيرٌ، وَجُوعُهَا طَوِيلٌ.
 
 O people, certainly, what gathers people together (in categories) is
 (their) agreement (to good or bad) and (their) disagreement, for only
@@ -42,17 +30,13 @@ plough pierces unploughed weak land. O people, he who treads the clear
 path (of guidance) reaches the spring of water, and whoever abandons it
 strays into waterless desert.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إِنَّمَا يَجْمَعُ النَّاسَ الرِّضِى وَالسُّخْطُ،
-وَإِنَّمَا عَقَرَ نَاقَةَ ثَمُودَ رَجُلٌ وَاحِدٌ فَعَمَّهُمُ اللهُ
-تَعَالَى بالْعَذَابِ لَمَّا عَمُّوهُ بالرِّضَى، فَقَالَ سُبْحَانَهُ:
-(فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ)، فَمَا كَانَ إِلاَّ أَنْ
-خَارَتْ أَرْضُهُمْ بِالْخَسْفَةِ خُوَارَالسِّكَّةِ الْـمُحْمَاةِ فِي
-الاْرْضِ الْخَوَّارَةِ. أَيُّهَا النَّاسُ، مَنْ سَلَكَ الطّرِيقَ
-الْوَاضِحَ وَرَدَ الْمَاءَ، وَمَنْ خَالَفَ وَقَعَ فِي التِيهِ!
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إِنَّمَا يَجْمَعُ النَّاسَ الرِّضِى وَالسُّخْطُ،
+> وَإِنَّمَا عَقَرَ نَاقَةَ ثَمُودَ رَجُلٌ وَاحِدٌ فَعَمَّهُمُ اللهُ
+> تَعَالَى بالْعَذَابِ لَمَّا عَمُّوهُ بالرِّضَى، فَقَالَ سُبْحَانَهُ:
+> (فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ)، فَمَا كَانَ إِلاَّ أَنْ
+> خَارَتْ أَرْضُهُمْ بِالْخَسْفَةِ خُوَارَالسِّكَّةِ الْـمُحْمَاةِ فِي
+> الاْرْضِ الْخَوَّارَةِ. أَيُّهَا النَّاسُ، مَنْ سَلَكَ الطّرِيقَ
+> الْوَاضِحَ وَرَدَ الْمَاءَ، وَمَنْ خَالَفَ وَقَعَ فِي التِيهِ!
 
 Alternative Sources for Sermon 201
 ----------------------------------
@@ -110,5 +94,4 @@ companions, then he pursued (her) and hamstrung (her). How (great) was
 My chastisement and My warning? Verily sent We upon them a single
 (violent) blast, and they were (all) like the dry stubble used by a
 fencer in a fence. (Qur'an, 54:23-31).
-
 

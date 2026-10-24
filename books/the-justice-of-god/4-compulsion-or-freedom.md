@@ -545,4 +545,3 @@ l-Anwar, vol. 5, p. 4, 27.
 
 [^10]: as‑Saduq, Risalatu'l‑I'tiqadat, chp. 3, p. 57
 
-

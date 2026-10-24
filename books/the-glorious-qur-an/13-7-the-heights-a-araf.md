@@ -25,4 +25,3 @@ Israel. The last section (XXIV, long with VII), offers the vast picture
 of man's creation along with the resultant process of animal and human
 reproduction.
 
-

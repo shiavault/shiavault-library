@@ -22,4 +22,3 @@ and during strength for the period of its weakness.
 
 (Sermon 185)
 
-

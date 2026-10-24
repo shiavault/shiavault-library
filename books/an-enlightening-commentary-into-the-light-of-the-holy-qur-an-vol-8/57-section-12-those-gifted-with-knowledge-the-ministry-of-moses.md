@@ -4,20 +4,12 @@ Section 12: Those Gifted with Knowledge – The Ministry of Moses
 Surah Isra’ – Verses 101 - 102
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا مُوسَي تِسْعَ ءَايَاتٍ بَيّـِنَاتِ فَسْأَلْ بَنِي
-إِسْرآئِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُ فِرْعَوْنُ إِنّـِي لاَظُنُّكَ
-يَا مُوسَي مَسْحُوراً
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا مُوسَي تِسْعَ ءَايَاتٍ بَيّـِنَاتِ فَسْأَلْ بَنِي
+> إِسْرآئِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُ فِرْعَوْنُ إِنّـِي لاَظُنُّكَ
+> يَا مُوسَي مَسْحُوراً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هؤُلآءِ إِلاَّ رَبُّ السَّمَاوَاتِ
-وَالاَرْضِ بَصَآئِرَ وإِنّـِي لاَظنُّكَ يَا فِرْعَوْنُ مَثْبُوراً
-  </p>
-</blockquote>
+> قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هؤُلآءِ إِلاَّ رَبُّ السَّمَاوَاتِ
+> وَالاَرْضِ بَصَآئِرَ وإِنّـِي لاَظنُّكَ يَا فِرْعَوْنُ مَثْبُوراً
 
 ***101. “And indeed We give Moses nine clear signs, so ask the Children
 of Israel when he came to them, and, Pharaoh said to him: ‘O’ Mūsa!
@@ -180,19 +172,11 @@ of Moses (as) and Pharaoh.
 Surah Isra’ – Verses 103 - 104
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَرَادَ أَن يَسْتَفِزَّهُم مِنَ الاَرْضِ فَاَغْرَقْناهُ وَمَن مَعَهُ
-جَمِيعاً
-  </p>
-</blockquote>
+> فَاَرَادَ أَن يَسْتَفِزَّهُم مِنَ الاَرْضِ فَاَغْرَقْناهُ وَمَن مَعَهُ
+> جَمِيعاً
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْنَا مِن بَعْدِهِ لِبَنِي إِسْرآئِيلَ اسْكُنُوا الاَرْضَ فإِذَا
-جَآءَ وَعْدُ الاَخِرَةِ جِئْنَا بِكُمْ لَفِيفاً
-  </p>
-</blockquote>
+> وَقُلْنَا مِن بَعْدِهِ لِبَنِي إِسْرآئِيلَ اسْكُنُوا الاَرْضَ فإِذَا
+> جَآءَ وَعْدُ الاَخِرَةِ جِئْنَا بِكُمْ لَفِيفاً
 
 ***103. “So he (Pharaoh) decided to scare them from that land; but We
 drowned him and those with him, all together.”***
@@ -266,12 +250,8 @@ voiced another possibility.
 Surah Isra’ – Verse 105
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَبِالْحَقّ‌ِ أَنزَلْنَاهُ وَبالْحَقّ‌ِ نَزَلَ وَمَآ أَرْسَلْنَاكَ
-إِلاَّ مُبَشّـِراً وَنَذِيراً
-  </p>
-</blockquote>
+> وَبِالْحَقّ‌ِ أَنزَلْنَاهُ وَبالْحَقّ‌ِ نَزَلَ وَمَآ أَرْسَلْنَاكَ
+> إِلاَّ مُبَشّـِراً وَنَذِيراً
 
 ***105. “And, with the truth have We sent it (the Qur’an) down and with
 the truth it has come down; and We have not sent you except as a Bearer
@@ -329,12 +309,8 @@ Qur’an.
 Surah Isra’ – Verse 106
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُرْءَاناً فَرَقْنَاهُ لِتَقْرَأَهُ عَلَي النَّاسِ عَلَي مُكْثٍ
-وَنَزَّلْنَاهُ تَنْزِيلاً
-  </p>
-</blockquote>
+> وَقُرْءَاناً فَرَقْنَاهُ لِتَقْرَأَهُ عَلَي النَّاسِ عَلَي مُكْثٍ
+> وَنَزَّلْنَاهُ تَنْزِيلاً
 
 ***106. “And (it is) Qur’an which We have divided (in sections) so that
 you may read it to the people at a slow pace and We have sent it down
@@ -378,26 +354,14 @@ impossibility.
 Surah Isra’ – Verses 107 - 109
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ ءَامِنُوا بِهِ أَوْ لاَ تُؤْمِنُوا إِنَّ الَّذِينَ اُوتُوا
-الْعِلْمَ مِن قَبْلِهِ إِذَا يُتْلَي عَلَيْهِمْ يَخِرُّونَ
-لِلاَذْقَانِ سُجَّداً
-  </p>
-</blockquote>
+> قُلْ ءَامِنُوا بِهِ أَوْ لاَ تُؤْمِنُوا إِنَّ الَّذِينَ اُوتُوا
+> الْعِلْمَ مِن قَبْلِهِ إِذَا يُتْلَي عَلَيْهِمْ يَخِرُّونَ
+> لِلاَذْقَانِ سُجَّداً
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ سُبْحَانَ رَبّـِنَآ إِن كَانَ وَعْدُ رَبّـِنَا
-لَمَفْعُولاً
-  </p>
-</blockquote>
+> وَيَقُولُونَ سُبْحَانَ رَبّـِنَآ إِن كَانَ وَعْدُ رَبّـِنَا
+> لَمَفْعُولاً
 
-<blockquote dir="rtl">
-  <p>
-وَيَخِرُّونَ لِلاَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعاً
-  </p>
-</blockquote>
+> وَيَخِرُّونَ لِلاَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعاً
 
 ***107. “Say: ‘Believe in it or believe not, (it makes no difference to
 Allah), verily, those who were given knowledge before it, when it is
@@ -501,13 +465,9 @@ borrows its weight in higher echelons from faith. ‘Remember’
 Surah Isra’ – Verse 110
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَانَ أَيّاً مَا تَدْعُواْ
-فَلَهُ الاَسْمآءُ الْحُسْنَي وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ
-تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبيلاً
-  </p>
-</blockquote>
+> قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَانَ أَيّاً مَا تَدْعُواْ
+> فَلَهُ الاَسْمآءُ الْحُسْنَي وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ
+> تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبيلاً
 
 ***110. “Say: ‘Call upon Allah, or call upon the Beneficent; whichever
 you call upon; then the best names belong to Him; and do not utter your
@@ -575,13 +535,9 @@ prayers acceptable in all cases.
 Surah Isra’ – Verse 111
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَداً وَلَمْ يَكُن
-لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَهُ وَلِيٌّ مّـِنَ الذُّلّ‌ِ
-وَكَبّـِرْهُ تَكْبِيرَاً
-  </p>
-</blockquote>
+> وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَداً وَلَمْ يَكُن
+> لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَهُ وَلِيٌّ مّـِنَ الذُّلّ‌ِ
+> وَكَبّـِرْهُ تَكْبِيرَاً
 
 ***111. “And say: ‘(All) Praise is Allah’s, Who has not taken unto Him a
 son; nor has He got any partner in the Sovereignty; and there is not for
@@ -735,5 +691,4 @@ bestow on us from Your mercy, for You are, indeed, the Ever-Bestower.***
 [^19]: Tafsir Borhan
 
 [^20]: ‘Al-i-‘Imran, verse 8
-
 

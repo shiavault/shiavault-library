@@ -228,4 +228,3 @@ Pretension has other sources the mention of which is lengthy, and one
 who is loved by Allāh may feel alert about them, for if Allāh loves a
 servant of His, He enables him to see his own faults.
 
-

@@ -4,12 +4,8 @@ Surah al-Dukhan, Chapter 44, Verses 37- 59
 Surah al-Dukhan - Verse 37
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَالَّذِينَ مِنْ قَبْلِهِمْ
-أَهْلَكْنَاهُمْ إِنَّهُمْ كَانُوا مُجْرِمِينَ
-  </p>
-</blockquote>
+> أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَالَّذِينَ مِنْ قَبْلِهِمْ
+> أَهْلَكْنَاهُمْ إِنَّهُمْ كَانُوا مُجْرِمِينَ
 
 ***37. Are they better [in terms of opportunities] or the people of
 Tubba’ and those before them? We destroyed them because they were indeed
@@ -73,18 +69,10 @@ his Prophetic Call.’”*[^2]
 Surah al-Dukhan - Verses 38 - 39
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا لاعِبِينَ
-  </p>
-</blockquote>
+> وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا لاعِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَكِنَّ أَكْثَرَهُمْ لا
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَكِنَّ أَكْثَرَهُمْ لا
+> يَعْلَمُونَ
 
 ***38. And We created not the heavens and the earth, and all that is
 between them, for merely play.***  
@@ -120,23 +108,11 @@ in vain.
 Surah al-Dukhan - Verses 40 - 42
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لا يُغْنِي مَوْلىً عَنْ مَوْلىً شَيْئاً وَلا هُمْ يُنْصَرُونَ
-  </p>
-</blockquote>
+> يَوْمَ لا يُغْنِي مَوْلىً عَنْ مَوْلىً شَيْئاً وَلا هُمْ يُنْصَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ رَحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> إِلَّا مَنْ رَحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***40. Indeed the Day Distinction [between truth and falsehood] is the
 time appointed for all of them –***  
@@ -185,29 +161,13 @@ believers’ hope and fear should be like the two pans of the balance.
 Surah al-Dukhan - Verses 43 - 46
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَجَرَتَ الزَّقُّومِ
-  </p>
-</blockquote>
+> إِنَّ شَجَرَتَ الزَّقُّومِ
 
-<blockquote dir="rtl">
-  <p>
-طَعَامُ الْأَثِيمِ
-  </p>
-</blockquote>
+> طَعَامُ الْأَثِيمِ
 
-<blockquote dir="rtl">
-  <p>
-كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ
-  </p>
-</blockquote>
+> كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ
 
-<blockquote dir="rtl">
-  <p>
-كَغَلْيِ الْحَمِيمِ
-  </p>
-</blockquote>
+> كَغَلْيِ الْحَمِيمِ
 
 ***43. Verily, the tree of Zaqqum***  
 ***44. Will be the food of the sinners.***  
@@ -252,29 +212,13 @@ i.e., the angels who thrust the damned into Hell (zabaniya) wrathfully.
 Surah al-Dukhan - Verses 47 - 50
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-خُذُوهُ فَاعْتِلُوهُ إِلَی سَوَاءِ الْجَحِيمِ
-  </p>
-</blockquote>
+> خُذُوهُ فَاعْتِلُوهُ إِلَی سَوَاءِ الْجَحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ
-  </p>
-</blockquote>
+> ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ
 
-<blockquote dir="rtl">
-  <p>
-ذُقْ إِنَّكَ أَنْتَ الْعَزِيزُ الْكَرِيمُ
-  </p>
-</blockquote>
+> ذُقْ إِنَّكَ أَنْتَ الْعَزِيزُ الْكَرِيمُ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا مَا كُنْتُمْ بِهِ تَمْتَرُونَ
-  </p>
-</blockquote>
+> إِنَّ هَذَا مَا كُنْتُمْ بِهِ تَمْتَرُونَ
 
 ***47. [It will be said] “Seize him and drag him into the midst of
 blazing Fire,***  
@@ -315,23 +259,11 @@ but you held them in doubt and slandered them.
 Surah al-Dukhan - Verses 51 - 53
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> فِي جَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ
-  </p>
-</blockquote>
+> يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ
 
 ***51. Verily, the pious will be in place of security.***  
 ***52. Among gardens and springs.***  
@@ -408,11 +340,7 @@ meeting each other.
 Surah al-Dukhan - Verse 54
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ
-  </p>
-</blockquote>
+> كَذَلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ
 
 ***54. Such [We recompense them]. And We will marry them to fair females
 with wide, lovely eyes.***
@@ -426,11 +354,7 @@ Paradise.
 Surah al-Dukhan - Verse 55
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ
-  </p>
-</blockquote>
+> يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ
 
 ***55. They will call therein for every kind of fruit [that they wish]
 in peace and security.***
@@ -462,18 +386,10 @@ incurring and pain, hardship, or displeasure
 Surah al-Dukhan - Verses 56 - 57
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَی
-وَوَقَاهُمْ عَذَابَ الْجَحِيمِ
-  </p>
-</blockquote>
+> لا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَی
+> وَوَقَاهُمْ عَذَابَ الْجَحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-فَضْلاً مِنْ رَبِّكَ ذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> فَضْلاً مِنْ رَبِّكَ ذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
 
 ***56. They will never taste death therein except the first death [of
 this world] and He will save them from the torment of the blazing
@@ -535,17 +451,9 @@ Imams (as).
 Surah al-Dukhan - Verses 58 - 59
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَارْتَقِبْ إِنَّهُمْ مُرْتَقِبُونَ
-  </p>
-</blockquote>
+> فَارْتَقِبْ إِنَّهُمْ مُرْتَقِبُونَ
 
 ***58. Certainly, We have made this [Qur’an] facile in your tongue so
 that they may remember.***  
@@ -584,5 +492,4 @@ where as they await your defeat and death.
 [^5]: 44:51
 
 [^6]: 54:55
-
 

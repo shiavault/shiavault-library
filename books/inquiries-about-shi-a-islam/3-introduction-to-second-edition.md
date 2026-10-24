@@ -23,4 +23,3 @@ October 17, 2005
  Ramadan 13, 1426  
  Orange County, California
 
-

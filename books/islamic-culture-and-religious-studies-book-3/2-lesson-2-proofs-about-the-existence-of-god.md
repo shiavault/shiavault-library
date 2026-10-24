@@ -117,7 +117,6 @@ awareness, a sort of alarm bell in our minds that will encourage us to
 think of the results of our present actions and help us to stay on the
 Right Path.
 
-
 **Lesson 3: Qiyamah (A Day Of Judgement and Accountability)**
 
 Let us reflect on the verses of Sura Naba (The Great Event) from the
@@ -307,5 +306,4 @@ Why is this day known as Yawmul Hisaab?
 name with your reasons.
 Give the meaning of the What are the actions that can be taken in
 preparation for the hereafter? Mention and explain
-
 

@@ -177,4 +177,3 @@ are the 13th, 14th and 15th days of the Islamic calendar month, adding,
 one's life, honor, or possession. It is a last resort when one feels
 seriously threatened and without, by doing so, harming anyone else.
 
-

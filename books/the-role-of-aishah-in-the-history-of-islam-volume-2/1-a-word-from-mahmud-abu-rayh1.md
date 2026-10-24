@@ -213,7 +213,6 @@ But our expectation from Mr. 'Askari is to persevere in this course
 with courage and steadfastness. I beg God Almighty to aid him in the
 attainment' of his goal and success in this course.
 
-
 Mahmud Abu Rayh
 Cairo, 23 February 1962
 
@@ -291,11 +290,9 @@ Such repetitions, without being a defect, may also be an advantage in
 giving a greater reliability and clarifying the subject in a better
 way.
 
-
 Muhammad Sadiq Najmi
 Hashim Hirisi
 Qom, 1383 of the Hijrah
-
 
 **The author's introduction**
 
@@ -352,9 +349,7 @@ corners of history and reveal the truth and introduce 'A'ishah's true
 character, and thereby discover the extent of the validity and
 reliability of her traditions.
 
-
 Sayyid Murtada 'Askari
 Naba Cultural Organization
 NabaCultural .Org
-
 

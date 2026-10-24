@@ -107,4 +107,3 @@ spirituality of a nation is directly related to its morality and
 culture, and the roots for the formation of culture and morality can be
 found in the family.
 
-

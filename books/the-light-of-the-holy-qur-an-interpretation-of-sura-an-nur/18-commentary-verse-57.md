@@ -32,7 +32,6 @@ him (the pursuer) unable, this word /mu'jiz/ is sometimes used in the
 same meaning. The above verse refers to this very meaning and it implies
 that no one can go out of Allah's territory.
 
-
 **Section 8 : Respect for Domestic and Personal Privacy Commentary :
 Verse 58**
 
@@ -165,7 +164,6 @@ enter your private room at times when you are at your ease and alone
 with your wife. Yes, all these commands are for preventing immodesty and
 immature puberty and saving face and decency.
 
-
 **Commentary: Verse 59**
 
 59. وإِذَا بَلَغَ الاَطْفَالُ مِنكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا
@@ -295,7 +293,5 @@ It is interesting that there is a tradition from the Prophet (p.b.u.h.)
 who said: "Be careful that you do not have sexual intercourse while a
 child is looking at you from cradle."[^1]
 
-
 [^1] Bihar-ul-'Anwar, Vol. 103, p. 295
-
 

@@ -187,4 +187,3 @@ bin Anas died in 179 A.H., Abu Abdillah Muhammad bin Idris Shafi'i
 Muttalibi died in 204 A.H. and Abu Abdillah Ahmad bin Hanbal Zahli
 Sheybani, died in 241 A.H.
 
-

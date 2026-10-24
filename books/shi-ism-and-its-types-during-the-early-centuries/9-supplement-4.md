@@ -146,4 +146,3 @@ In response to him someone from the opposite camp called out:
 
 I am on the creed of Uthman. [^121]
 
-

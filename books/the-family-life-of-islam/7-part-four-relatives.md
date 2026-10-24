@@ -341,7 +341,6 @@ And now a hadith of the Holy Prophet on this very subject: "The best
 way of silat ar-rahim is not to give any trouble to the relative." For
 those who understand human nature, this hadith is a mine of wisdom.
 
-
 **SUMMARY**
 
 We may summarize this part in the following sentences:-
@@ -373,7 +372,6 @@ The Holy Prophet said: "I was sent to complete (fulfil) the noble
 ethics." He fulfilled his task; his holy hands completed the boundaries
 of Islamic ethics. It is one more proof that he was the Last Prophet and
 his religion is the Last Religion.
-
 
 **Part Five : Rights Of Neighbours**
 
@@ -419,5 +417,4 @@ others; and, at the same time, try to desist him from improper habits,
 if there is any chance that he will listen to you. Never leave him alone
 at any calamity. Forgive him, if he has done any wrong. In short, live
 with him a noble life, based on the highest Islamic ethical code.
-
 

@@ -64,4 +64,3 @@ looted under the guise of terrorism, weapons of mass destruction and
 undemocratic rule, whereas the real reasons are found in enriching their
 own coffers and those of their allies.
 
-

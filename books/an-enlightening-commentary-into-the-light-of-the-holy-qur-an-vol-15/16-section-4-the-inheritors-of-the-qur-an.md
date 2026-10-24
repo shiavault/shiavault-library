@@ -4,13 +4,9 @@ Section 4: The Inheritors of the Qur’an
 Surah Al-Fatir – Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَآءِ مَآءً فَأَخْرَجْنَا
-بِهِ ثَمَرَاتٍ مُخْتَلِفاً أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ
-وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَآءِ مَآءً فَأَخْرَجْنَا
+> بِهِ ثَمَرَاتٍ مُخْتَلِفاً أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ
+> وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ
 
 ***27. “Have you not seen that Allah sends down water from the sky, then
 We bring forth with it fruits of various colours, and in the mountains
@@ -94,13 +90,9 @@ time decorate themselves in another clothing.
 Surah Al-Fatir – Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ وَالدَّوَآبّ‌ِ وَالأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ
-كَذَلِكَ إِنَّمَا يَخْشَي اللَّهَ مِنْ عِبَادِهِ الْعُلَمَآءُ إِنَّ
-اللَّهَ عَزِيزٌ غَفُورٌ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ وَالدَّوَآبّ‌ِ وَالأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ
+> كَذَلِكَ إِنَّمَا يَخْشَي اللَّهَ مِنْ عِبَادِهِ الْعُلَمَآءُ إِنَّ
+> اللَّهَ عَزِيزٌ غَفُورٌ
 
 ***28. “And of the people and beasts and cattle are of various colours
 likewise; verily only those of His servants fear Allah who have
@@ -207,20 +199,12 @@ qualified with these two characters.
 Surah Al-Fatir – Verses 29-30
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلاَةَ
-وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلاَنِيَةً يَرْجُونَ
-تِجَارَةً لَن تَبُورَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلاَةَ
+> وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلاَنِيَةً يَرْجُونَ
+> تِجَارَةً لَن تَبُورَ
 
-<blockquote dir="rtl">
-  <p>
-لِيُوَفّـِيَهُمْ اُجُورَهُمْ وَيَزِيدَهُم مِن فَضْلِهِ إِنَّهُ غَفُورٌ
-شَكُورٌ
-  </p>
-</blockquote>
+> لِيُوَفّـِيَهُمْ اُجُورَهُمْ وَيَزِيدَهُم مِن فَضْلِهِ إِنَّهُ غَفُورٌ
+> شَكُورٌ
 
 ***29. “Verily, those who recite the Book of Allah and establish prayer
 and spend (in charity) out of what We have provided them, secretly and
@@ -373,13 +357,9 @@ Paradise. Therefore, do not sell your selves except for it.”*[^4]
 Surah Al-Fatir - Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي أَوْحَيْنَآ إِلَيْكَ مِنَ الْكِتَابِ هُوَ الْحَقُّ
-مُصَدّ‌ِقاً لّـِمَا بَيْنَ يَدَيْهِ اِنَّ اللَّهَ بِعِبَادِهِ
-لَخَبِيرٌ بَصِيرٌ
-  </p>
-</blockquote>
+> وَالَّذِي أَوْحَيْنَآ إِلَيْكَ مِنَ الْكِتَابِ هُوَ الْحَقُّ
+> مُصَدّ‌ِقاً لّـِمَا بَيْنَ يَدَيْهِ اِنَّ اللَّهَ بِعِبَادِهِ
+> لَخَبِيرٌ بَصِيرٌ
 
 ***31. “And that which We have revealed to you of the Book, it is the
 truth verifying that which is before it, verily Allah, about His
@@ -448,14 +428,10 @@ states.
 Surah Al-Fatir - Verse 32
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
-فَمِنْهُمْ ظَالِمٌ لّـِنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ
-سَابِقٌ بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ذَلِكَ هُوَ الْفَضْلُ
-الْكَبِيرُ
-  </p>
-</blockquote>
+> ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
+> فَمِنْهُمْ ظَالِمٌ لّـِنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ
+> سَابِقٌ بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ذَلِكَ هُوَ الْفَضْلُ
+> الْكَبِيرُ
 
 ***32. “Then We gave the Book (Qur’an) as inheritance unto those whom We
 elected of Our servants. But of them are some who wrong themselves, and
@@ -594,12 +570,8 @@ Yes, the bearer of that heritage can be only such persons.
 Surah Al-Fatir - Verse 33
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن
-ذَهَبٍ وَلُؤْلُؤاً وَلِبَاسُهُمْ فِيهَا حَرِيرٌ
-  </p>
-</blockquote>
+> جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن
+> ذَهَبٍ وَلُؤْلُؤاً وَلِبَاسُهُمْ فِيهَا حَرِيرٌ
 
 ***33. “Gardens of Eden! They shall enter; therein they shall be adorned
 with bracelets of gold and pearls; and their raiment there shall be of
@@ -660,12 +632,8 @@ slight ability of these very words to explain those bounties.
 Surah Al-Fatir - Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ إِنَّ
-رَبَّنَا لَغَفُورٌ شَكُورٌ
-  </p>
-</blockquote>
+> وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ إِنَّ
+> رَبَّنَا لَغَفُورٌ شَكُورٌ
 
 ***34. “And they say: ‘Praise belongs to Allah, Who has removed from us
 (all) sorrow; verily our Lord is Forgiving, Thankful.”***
@@ -717,12 +685,8 @@ a great deal of rewards for our small and scanty deeds.
 Surah Al-Fatir - Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَحَلَّنَا دَارَ الْمُقَامَةِ مِن فَضْلِهِ لاَ يَمَسُّنَا
-فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
-  </p>
-</blockquote>
+> الَّذِي أَحَلَّنَا دَارَ الْمُقَامَةِ مِن فَضْلِهِ لاَ يَمَسُّنَا
+> فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
 
 ***35. “He Who, of His grace, has made us to dwell in a house for ever,
 toil shall not touch us therein, nor shall fatigue therein afflict
@@ -766,13 +730,9 @@ nor any means of spiritual pain.
 Surah Al-Fatir - Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لاَ يُقْضَي عَلَيْهِمْ
-فَيَمُوتُوا وَلاَ يُخَفَّفُ عَنْهُم مِنْ عَذَابِهَا كَذَلِكَ نَجْزِي
-كُلَّ كَفُورٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لاَ يُقْضَي عَلَيْهِمْ
+> فَيَمُوتُوا وَلاَ يُخَفَّفُ عَنْهُم مِنْ عَذَابِهَا كَذَلِكَ نَجْزِي
+> كُلَّ كَفُورٍ
 
 ***36. “And those who disbelieve, for them shall be the Fire of Hell, it
 shall not be decreed that they should die, nor shall the chastisement of
@@ -849,14 +809,10 @@ doors of deliverance to them, too.
 Surah Al-Fatir - Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَالِحاً
-غَيْرَ الَّذِي كُنَّا نَعْمَلُ أَوَلَمْ نُعَمّـِرْكُم مّا يَتَذَكَّرُ
-فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ النَّذِيرُ فَذُوقُوا فَمَا
-لِلظَّالِمِينَ مِن نَصِيرٍ
-  </p>
-</blockquote>
+> وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَالِحاً
+> غَيْرَ الَّذِي كُنَّا نَعْمَلُ أَوَلَمْ نُعَمّـِرْكُم مّا يَتَذَكَّرُ
+> فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ النَّذِيرُ فَذُوقُوا فَمَا
+> لِلظَّالِمِينَ مِن نَصِيرٍ
 
 ***37. “And they shall cry aloud therein (for help, saying:) ‘O’ our
 Lord! Take us out (so that) we will do good deeds other than what we
@@ -993,5 +949,4 @@ of Surah Al-Baqarah, No. 2, verse 41
 [^12]: Majma‘-ul-Bayan, following the verse
 
 [^13]: The commentary by Tabarsi, following the verse.
-
 

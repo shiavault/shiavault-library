@@ -45,4 +45,3 @@ nomad?
 
 4. What does Imam Ali quote from the Holy Prophet?
 
-

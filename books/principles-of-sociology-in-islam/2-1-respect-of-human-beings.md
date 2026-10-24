@@ -6,12 +6,8 @@ human beings which is an integral part of Islamic jurisprudence, and the
 great leaders of Islam have paid due attention to this. The Holy Prophet
 emphasized human respect as a part of his mission.
 
-<blockquote dir="rtl">
-  <p>
-كان يُكرم من يدخل عليه حتى ربما بسك ثوبه ويُؤثر الداخل بالوسادة التي
-تحته.
-  </p>
-</blockquote>
+> كان يُكرم من يدخل عليه حتى ربما بسك ثوبه ويُؤثر الداخل بالوسادة التي
+> تحته.
 
 He (the Holy Prophet- S) used to respect everyone who entered, so much
 so that many a times he put his robe under him for sitting and gave his
@@ -58,11 +54,7 @@ The respect, which the Holy Prophet (S) showed for others attracted and
 absorbed people in him. Humanity was benefited by the Prophet (S).
 Indeed the Holy Prophet (S) clearly said:
 
-<blockquote dir="rtl">
-  <p>
-بُعثت لإتَمِم مكارم الأخلاق
-  </p>
-</blockquote>
+> بُعثت لإتَمِم مكارم الأخلاق
 
 I have been sent to perfect the noble character.
 
@@ -92,33 +84,21 @@ Respect of others occupies such a significant place in principles of
 social life that Allah emphasized it to the Prophet of Islam in the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ
-  </p>
-</blockquote>
+> وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ
 
 ***And say to my servants that they should only say those things that
 are best . . .(17: 53)***
 
 The fifth Imam, Muhammad al-Baqir (a.s.) said;
 
-<blockquote dir="rtl">
-  <p>
-عظِموا أصحابكم ووقِروهم ولا يتَهجم بعضكم على بعضٍ.
-  </p>
-</blockquote>
+> عظِموا أصحابكم ووقِروهم ولا يتَهجم بعضكم على بعضٍ.
 
 Respect and pay regards to your friends and never confront each other
 disrespectfully.[^5]
 
 The Holy Prophet of Islam (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُحقِرون أحدا من المُسلمين فإن صغيرهم عند الله كبيرٌ.
-  </p>
-</blockquote>
+> لا تُحقِرون أحدا من المُسلمين فإن صغيرهم عند الله كبيرٌ.
 
 Do not look down upon anyone of the Muslims because even a humble Muslim
 is great before Allah. (ibid. Indifference towards friends is against
@@ -127,12 +107,8 @@ creating heartache.
 
 Imam \`Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لا تٌضيعن حق أخيك إتكالاً على ما بينك وبينه فإنه ليس لك بإخٍ من ضيعت
-حقه.
-  </p>
-</blockquote>
+> لا تٌضيعن حق أخيك إتكالاً على ما بينك وبينه فإنه ليس لك بإخٍ من ضيعت
+> حقه.
 
 “Do not neglect the right of your brother, trusting the relation between
 you and him (i.e., thinking that the relationship between you and him is
@@ -213,5 +189,4 @@ and some of them are mentioned below.
 time. (ed.)
 
 [^8]: Biharu '1-Anwar, vol. 74.
-
 

@@ -24,11 +24,7 @@ The difference between battle and *Jihad* is that *Jihad* is against
 disbelievers, however ‘battle’ is general for those who recite the
 testimony of Islam just as the verse with regard to fighting:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ
-  </p>
-</blockquote>
+> إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ
 
 ***“The punishment of those who wage war against Allah…” (Qur’an, Surah
 Maidah 5:33)***
@@ -171,11 +167,7 @@ Almighty wills.
 Shaykh Sadooq has mentioned in *Kamaluddin* under the explanation of the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمُوا أَنَّ اللَّهَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا
-  </p>
-</blockquote>
+> اعْلَمُوا أَنَّ اللَّهَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا
 
 ***“Know that Allah gives life to the earth after its death…” (Qur’an,
 Surah Hadid 57:17)***
@@ -248,12 +240,8 @@ that by disobeying Allah you cause pain to him and display enmity
 towards him. And thus you may be of those about whom the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي
-الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُهِينًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي
+> الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُهِينًا
 
 ***“Surely (as for) those who speak evil things of Allah and His
 Apostle, Allah has cursed them in this world and the hereafter, and He
@@ -413,5 +401,4 @@ of infidelity and polytheism.
 [^19]: Biharul Anwar; Vol. 52, Pg. 338
 
 [^20]: Biharul Anwar; Vol. 52, Pg. 338
-
 

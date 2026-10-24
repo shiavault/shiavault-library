@@ -104,13 +104,9 @@ at the crossroads to Egypt and Iraq.
 Almighty Allah revealed the following verse on the Prophet at this
 place:
 
-<blockquote dir="rtl">
-  <p>
-«يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
-وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّهُ يَعْصِمُكَ
-مِنَ النَّاسِ إِنَّ اللَّهَ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ.»
-  </p>
-</blockquote>
+> «يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
+> وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّهُ يَعْصِمُكَ
+> مِنَ النَّاسِ إِنَّ اللَّهَ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ.»
 
 ***O Apostle! Deliver what has been revealed to you from your Lord; and
 if you do it not, then you have not delivered His message, and Allah
@@ -126,12 +122,8 @@ believers. ‘Ali is the master of those for whom I am the master.”[^1]
 Immediately after this, Almighty Allah announced the completion of
 religion in the verse:
 
-<blockquote dir="rtl">
-  <p>
-«الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً.»
-  </p>
-</blockquote>
+> «الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً.»
 
 ***This day have I perfected for you your religion and completed My
 favor on you and chosen for you Islam as a religion. (5:3)***
@@ -360,11 +352,7 @@ calling them rubbish?
 
 Put the words of Umar aside and refer to this verse of holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-«وَمَا يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى.»
-  </p>
-</blockquote>
+> «وَمَا يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى.»
 
 ***Nor does he speak out of desire. It is naught but revelation that is
 revealed. (53:3-4)***
@@ -961,5 +949,4 @@ Pg. 284
 [^19]: Ibn Abil Hadid, Sharh Nahjul Balagha, Vol. 3, Pg. 17
 
 [^20]: Tabaqaat Ibn Saad, Vol. 4, Pg. 3-4
-
 

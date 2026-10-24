@@ -291,4 +291,3 @@ sense be in the least objectionable. At the same time it has at last to
 be judged that not doing so will be in- gratitude and disloyalty to God
 and the godly ones or not.
 
-

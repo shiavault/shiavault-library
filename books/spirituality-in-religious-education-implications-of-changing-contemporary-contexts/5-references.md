@@ -52,4 +52,3 @@ Wilson, T.D. (2002).*Strangers to ourselves:* *Discovering the adaptive
 unconscious* . Cambridge, Massachusetts: The Belknap Press of Harvard
 University Press.
 
-

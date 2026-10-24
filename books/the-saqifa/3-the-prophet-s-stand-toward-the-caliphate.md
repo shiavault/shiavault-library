@@ -41,7 +41,6 @@ Anyway, his conversations and his conduct establish clearly his
 knowledge of the difference that his nation will fall in. Hence, the
 caliphate or the IMAMAT was his first concern.
 
-
 **2- Did the Prophet contrive a solution to the difference?**
 
 So, the Prophet was cognizant that the time will turn a page upon his
@@ -337,5 +336,4 @@ trifle and titanic, but did not ask this thing; why...?
 
 The sane is this; he was asked, and he answered! The history quailed
 and neglected but got immured in the annals of the history of Shia.
-
 

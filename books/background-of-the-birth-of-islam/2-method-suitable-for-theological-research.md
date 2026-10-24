@@ -431,4 +431,3 @@ With this brief introduction, we can proceed to the main topic of
 discussion which is recognizing Islam and Muslims of the world under the
 title of "Islam and world Muslims".
 
-

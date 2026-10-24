@@ -4,31 +4,15 @@ Section 1: Every Soul Shall Be Tried
 Surah Al-‘Ankabut - Verses 1-3
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الم
-  </p>
-</blockquote>
+> الم
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا ءَامَنَّا وَهُمْ لاَ
-يُفْتَنُونَ
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا ءَامَنَّا وَهُمْ لاَ
+> يُفْتَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ فَلَيَعْلَمَنَّ اللَّهُ
-الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ فَلَيَعْلَمَنَّ اللَّهُ
+> الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -238,19 +222,11 @@ criterion of Islamic Justice.
 Surah Al-‘Ankabut - Verses 4-5
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيّـِئَاتِ أَن يَسْبِقُونَا
-سَآءَ مَا يَحْكُمُونَ
-  </p>
-</blockquote>
+> أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيّـِئَاتِ أَن يَسْبِقُونَا
+> سَآءَ مَا يَحْكُمُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يَرْجُواْ لِقَآءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لأَتٍ
-وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> مَن كَانَ يَرْجُواْ لِقَآءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لأَتٍ
+> وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 ***4. “Or do those who practise evil imagine that they will outstrip Us?
 Evil is it that they judge!”***  
@@ -323,12 +299,8 @@ truth’.”***[^4]
 Surah Al-‘Ankabut - Verse 6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ إِنَّ اللَّهَ لَغَنِيٌّ
-عَنِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَن جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ إِنَّ اللَّهَ لَغَنِيٌّ
+> عَنِ الْعَالَمِينَ
 
 ***6. “And whoever strives hard, he strives only for his own self,
 verily Allah is self sufficient, above (need of) the Worlds”.***
@@ -373,13 +345,9 @@ thank Allah for this great bounty.
 Surah Al-‘Ankabut - Verse 7
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفّـِرَنَّ
-عَنْهُمْ سَيّـِئَاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ الَّذِي كَانُوا
-يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفّـِرَنَّ
+> عَنْهُمْ سَيّـِئَاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ الَّذِي كَانُوا
+> يَعْمَلُونَ
 
 ***7. “And those*** ***who*** ***believe, and do righteous deeds, We
 shall certainly acquit them of their evil deeds, and shall recompense
@@ -428,13 +396,9 @@ increase for them out of His grace…”***
 Surah Al-‘Ankabut - Verse 8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الإِنسَانَ بِوَالِدَيْهِ حُسْناً وَإِن جَاهَدَاكَ
-لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطِعْهُمَآ إِلَيَّ
-مَرْجِعُكُمْ فَاُنَبّـِئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الإِنسَانَ بِوَالِدَيْهِ حُسْناً وَإِن جَاهَدَاكَ
+> لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطِعْهُمَآ إِلَيَّ
+> مَرْجِعُكُمْ فَاُنَبّـِئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
 ***8. “And We have enjoined on man goodness unto his parents; and if
 they strive with you that you should associate (others) with Me, of
@@ -650,12 +614,8 @@ Friday Allah forgives him and writes him among the righteous.”*[^16]
 Surah Al-‘Ankabut - Verse 9
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي
-الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي
+> الصَّالِحِينَ
 
 ***9. “And those who believe, and do righteous deeds, certainly We shall
 admit them among the righteous.”***
@@ -693,14 +653,10 @@ Day Allah will admit them among the righteous.
 Surah Al-‘Ankabut - Verse 10
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَقُولُ ءَامَنَّا بِاللَّهِ فَإِذَآ اُوذِيَ فِي
-اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِن جَآءَ
-نَصْرٌ مّـِن رَّبّـِكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ أَوَلَيْسَ
-اللَّهُ بِاَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَقُولُ ءَامَنَّا بِاللَّهِ فَإِذَآ اُوذِيَ فِي
+> اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِن جَآءَ
+> نَصْرٌ مّـِن رَّبّـِكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ أَوَلَيْسَ
+> اللَّهُ بِاَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ
 
 ***10. “And among the people there are those who say: ‘We believe in
 Allah,’ and when they are hurt in Allah’s cause, they think the
@@ -778,12 +734,8 @@ their intentions.
 Surah Al-‘Ankabut - Verse 11
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ ءَامَنُوا وَلَيَعْلَمَنَّ
-الْمُنَافِقِينَ
-  </p>
-</blockquote>
+> وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ ءَامَنُوا وَلَيَعْلَمَنَّ
+> الْمُنَافِقِينَ
 
 ***11. “And certainly Allah knows those who believe, and certainly He
 knows the hypocrites.”***
@@ -812,13 +764,9 @@ persons of weak belief who change their faith by a little pressure.
 Surah Al-‘Ankabut - Verse 12
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ ءَامَنُوا اتَّبِعُوا سَبِيلَنَا
-وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُم بِحَامِلِينَ مِنْ خَطَايَاهُم مِن
-شَيْءٍ إِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ ءَامَنُوا اتَّبِعُوا سَبِيلَنَا
+> وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُم بِحَامِلِينَ مِنْ خَطَايَاهُم مِن
+> شَيْءٍ إِنَّهُمْ لَكَاذِبُونَ
 
 ***12. “And those who disbelieve say unto those who believe: ‘Follow our
 path and we will certainly bear (the burden of) your sins.’ And they
@@ -861,12 +809,8 @@ they are liars.”***
 Surah Al-‘Ankabut - Verse 13
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالاً مَعَ أَثْقَالِهِمْ
-وَلَيُسْأَلُنَّ يَوْمَ الْقِيَامَةِ عَمَّا كَانُوا يَفْتَرُونَ
-  </p>
-</blockquote>
+> وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالاً مَعَ أَثْقَالِهِمْ
+> وَلَيُسْأَلُنَّ يَوْمَ الْقِيَامَةِ عَمَّا كَانُوا يَفْتَرُونَ
 
 ***13. “And certainly they shall carry their own burdens, and (other)
 burdens with their own burdens, and certainly they shall be questioned
@@ -1070,5 +1014,4 @@ P. 148
 [^17]: Nahj-ul-Balaqahm, saying No. 217
 
 [^18]: The commentary by Fakhr-i-Razi, Vol. 25, P. 40
-
 

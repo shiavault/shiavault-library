@@ -233,4 +233,3 @@ order to pass them successfully and prove that Islamic activity can not
 hinder study or prevent reading. In fact, it can widen the scope of the
 brain and deepen thinking.
 
-

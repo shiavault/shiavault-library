@@ -281,4 +281,3 @@ wives.[^11]
 [^11]: The events during the Imamate of Imam al-Ridha (a.s.) are adopted
 from Muhaddith al-Qummi’s Tatimmat al-Muntaha.
 
-

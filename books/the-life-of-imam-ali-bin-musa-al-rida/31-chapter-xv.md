@@ -1,10 +1,6 @@
 Chapter Xv
 ==========
 
-  
-
-  
-
 IMAM AL-RIDĀ AND REGENCY
 ========================
 
@@ -34,10 +30,6 @@ Arabs and Islam.
 
 The Abbāsids were the opponents of the Alawides, but why did al-Mamūn
 create such a sudden change (in his policy) and turn  
-
-  
-
-  
 
 away from the plan and method of his fathers? Why did he appoint Imām
 al-Ridā, peace be on him, as a successor after him? Similarly, why did
@@ -79,12 +71,6 @@ connection, the poet says:
 
 Would that the tyranny of the Marwānis returned to us,
 
-  
-
-  
-
-  
-
 and would that the just of the Abbāsids was in the fire.
 
 Another poet says:
@@ -125,10 +111,6 @@ allegiance (to the Imām) is that he was able to know the Shiite elements
 and to recognize their identities. It is worth mentioning that the
 places of the Shiites were very secret, that the Shiites worked in
 secret and in hiding-places. However,  after this  
-
-  
-
-  
 
 pledge of allegiance (to the Imām), their affair appeared, and the
 authorities were able to discover them.
@@ -173,19 +155,12 @@ Peace, mercy and blessings of Allah be upon you, O
 
 rightly guided one. Verily I praise on your behalf Allah,
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1551) Al-Sayyid Ja'far Murtadā has objectively and inclusively
 mentioned the objectives which motivated al-Ma'mūn to appoint Imām
 al-Ridā as successor after him. He has mentioned eleven objectives in
 his book Hayāt al-Imām  al-Ridā (the Life of Imām al-Ridā).  
-  
-
-  
-
-  
 
 other than Whom there is no god, and ask Him to bless
 
@@ -250,17 +225,10 @@ Peace, Allahs mercy and blessings be upon you.[[1]](#_ftn1552)
 This letter, sent by the highest ranking official in the Abbāsid
 government, contains the following:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1552)Hayāt  al-Imām  al-Ridā, pp. 442-443, quoted from the book
 al-Taddwin by 'Abd al-Kareem al-Rāfi'i al-Shāfi'i.  
-  
-
-  
-
-  
 
 1. Giving noble nicknames and exalted qualities to the Imām, peace be on
 him, as follows: (the one who) kept the religion of Allah, and (the one
@@ -304,11 +272,6 @@ Al-Mamūn ordered the head of the delegation to bring the
 ------------------------------------------------------------------------
 
 [[1]](#_F1553) A'yān al-Shi'a 4/Q2/121.  
-  
-
-  
-
-  
 
 Imām, peace be on him, through the road leading to Basrah, al-Ahwāz, and
 Fars, and not to bring him through the road leading to Kūfa and
@@ -348,11 +311,6 @@ said: Leave me, for I am going to leave
 
 [[1]](#_F1554) 'Uyūn Akhbār al-Ridā, vol. 2, p. 149.  
  [[2]](#_F1555)A'yān al-Shi'a. Bihār al-Anwār.  
-  
-
-  
-
-  
 
 neighboring my grandfather, may Allah bless him and his family, so I
 will die strange and buried beside Hārūn (al-Rashid).
@@ -394,11 +352,6 @@ the Sacred House, he greeted it,
  [[2]](#_F1557)A'yān al-Shi'a 4/Q2/123. Kashf al-Ghumma, vol. 3, p.
 95.  
  [[3]](#_F1558) Al-Durr al-Nazim.  
-  
-
-  
-
-  
 
 circumambulated it, performed prayers in the Standing-place of Ibrāhim,
 ran, and circumambulated it along with his son al-Jawād. When al-Jawād
@@ -425,12 +378,6 @@ receive him cordially, to get the blessing of kissing his hands, to ask
 him to stop at them, and to serve him. They asked him about the precepts
 of their religion, and he, peace be on him, answered them about that.
 
-  
-
-  
-
-  
-
 ### In Nisābūr
 
 The caravan of the Imām covered the desert, was earnest in waking, and
@@ -453,8 +400,6 @@ recovered through the bless of the great Imām. A person cut some of its
 branches, and he became blind. Ibn Hamdān cut down that tree, and he
 became blind.[[2]](#_ftn1560)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1559) Regarding Nisābūr, Yāqūt al-Hamawi (in his bookd Mu'jam
@@ -474,11 +419,6 @@ man's sacredness respected.
 Abū 'Ali al-Husayn b. 'Ali b. Zayd b. Dāwud b. Yazid al- Nisābūri,
 al-Sā'igh.  
  [[2]](#_F1560) 'Uyūn Akhbār al-Ridā, vol. 2, p. 133.  
-  
-
-  
-
-  
 
 There was a public bath-house in Nisābūr. The Imām entered it, washed
 himself, and performed a prayer on its top, so the inhabitants of
@@ -518,11 +458,6 @@ When the Imām passed, he called out to the people of Nisābūr,
 [[1]](#_F1561) Ibid., p. 135.  
  [[2]](#_F1562) Ibn al-Jawzi, al-Muntazam, vol. 10, p. 67 (photographed
 and available in al-Sayyid al-Hakim Library).  
-  
-
-  
-
-  
 
 saying: But according to its conditions, and I am among its
 conditions.[[1]](#_ftn1563)
@@ -565,11 +500,6 @@ traditions.
  [[2]](#_F1564) Akhbār al-Diwal, p. 115.  
  [[3]](#_F1565) Al-Sawā'iq al-Muhriqa.  
  [[4]](#_F1566) Akhbār al-Diwal, p. 115.  
-  
-
-  
-
-  
 
 make my Shiites and those who love me visit me. If any of them visits me
 and greets me, Allah will forgive him (his sins) and have mercy on him
@@ -609,11 +539,6 @@ makes little of me! O Allah, I have sought refuge in You!
 ------------------------------------------------------------------------
 
 [[1]](#_F1567) 'Uyūn Akhbār al-Ridā, vol. 2, p. 136-137.  
-  
-
-  
-
-  
 
 O Allah, I have sought refuge in You! O Allah, I have sought refuge in
 You![[1]](#_ftn1568)
@@ -657,11 +582,6 @@ If this caliphate belongs to you, then it is not
 ------------------------------------------------------------------------
 
 [[1]](#_F1568) Ibid., vol. 2, p. 138.  
-  
-
-  
-
-  
 
 permissible for you to take off the garment in which Allah has clothed
 you and to give it to other than you. If the caliphate does not belong
@@ -706,11 +626,6 @@ caliphate to the most meritorious *(afdal)*
 [[1569]](#_F1569) Dhu al-Riyāsatayn means the man with two offices. This
 nickname was given to al-Fadl b. Sahl, who was in charge of the military
 and civil administration.  
-  
-
-  
-
-  
 
 of the family of Abū Tālib. I do not know anyone more meritorious than
 this man on the face of the earth.[[1]](#_ftn1570)
@@ -754,11 +669,6 @@ al-Mamūn insisted on pledging
  [[2]](#_F1571) Al-Ādāb al-Sultāniya, p. 219.  
  [[3]](#_F1572) Al-Ma'mūn has declared than in the document of regency
 which we will mention.  
-  
-
-  
-
-  
 
 allegiance to the Imām during that time.[[1]](#_ftn1573) This
 demonstrates that he was a liar regarding this matter.
@@ -803,11 +713,6 @@ Allah, you should accept regency or I will force you
 
 [[1]](#_F1573) Farajj al-Mahmūm, p. 142. Tārikh al-Hukamā', pp.
 222-223.  
-  
-
-  
-
-  
 
 to (accept) it! You should do that; otherwise, I will strike off your
 head![[1]](#_ftn1574)
@@ -857,11 +762,6 @@ The regency between the Imām, peace be on him, and al-
  [[2]](#_F1575) 'Uyūn Akhbār al-Ridā, vol. 1, p. 19.  
  [[3]](#_F1576) Yanābi' al-Mawadda, p. 284.  
  [[4]](#_F1577) 'Uyūn Akhbār al-Ridā, vol. 2, p. 140.  
-  
-
-  
-
-  
 
 official document signed by the Imām and al-Mamūn, witnessed by
 high-ranking statesmen, and transmitted by a group of historical
@@ -902,11 +802,6 @@ So he (the Prophet) delivered on behalf of Allah His message
 
 [[1]](#_F1578) Mir'āt al-Zamān, vol. 5, p. 148 (photographed).  
  [[2]](#_F1579) Kashf al-Ghumma.  
-  
-
-  
-
-  
 
 and summoned (men) to His path through what He had ordered him of
 wisdom, good exhortation, reasoning in the best way, then through jihad
@@ -946,12 +841,6 @@ Lord, We shall ask them all about what they were doing*. And (for) we
 have heard that Umar b. al-Khattāb said: If a goat got lost on the bank
 of the Euphrates, I would fear that Allah would ask me about it.
 
-  
-
-  
-
-  
-
 By Allah, surely the one who will be asked about his own soul and
 informed of his work regarding what is between him and Allah will be
 brought before a great affair and tremendous danger; therefore, just
@@ -990,10 +879,6 @@ what He has burdened with it. So he has tired his body, kept his eye
 awake, elaborated his thinking on that through which the religion is 
 glorified, the polytheists are suppressed, the community is  
 
-  
-
-  
-
 set right, justice is spread, the Book and the Sunna are established;
 and he has deprived himself of ease, gentleness, and happy life. He is
 aware of that about which Allah will ask him; he likes to meet Allah
@@ -1029,10 +914,6 @@ salvation on the day when men will stand for the Lord of the worlds.
 The Commander of the faithful had summoned his sons, the members of his
 house, his personal entourage *(khāssa)*, his commanders, and his
 servants, and they with pleasure have pledged  
-
-  
-
-  
 
 allegiance (to al-Ridā). They are aware of that the Commander of the
 faithful has preferred the obedience to Allah to his own desire
@@ -1075,11 +956,6 @@ His decision; nor is there any repeller of His decree, who
 ------------------------------------------------------------------------
 
 [[1]](#_F1580) Subh al-A'shā, vol. 9, pp. 362-366.  
-  
-
-  
-
-  
 
 knows the stealthy looks and that which the breasts conceal, and His
 blessings be upon His Prophet, the last of the prophets, and his family,
@@ -1119,10 +995,6 @@ best and power to choose the most qualified persons, and through that I
 have placed against my own soul a certain promise about which Allah will
 ask me, for He, the Great and  
 
-  
-
-  
-
 Almighty, says: *And fulfill the promise; surely (every) promise shall
 be questioned about*.
 
@@ -1157,8 +1029,6 @@ and to invalidate the vague errors which have hindered the viewpoints of
 the ignorant: *On no account will Allah leave the believers in the
 condition which you are in*.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1581) (The document called) *al-jāmi'a* is a scroll seventy
@@ -1168,11 +1038,6 @@ own hand writing.
  [[2]](#_F1582) *Al-jafr* or the white case is a vessel in which are the
 Torah of Mūsā, the Gospels of 'Īsā, the Psalms of Dāwud and the other
 Books of Allah.  
-  
-
-  
-
-  
 
 Al-Fadl b. Sahl wrote (this document) in the appointed date.
 
@@ -1216,11 +1081,6 @@ preferring obedience to Allah to all things, ruling over men with
 ------------------------------------------------------------------------
 
 [[1]](#_F1583) Subh al-A'shā, vol. 9, pp. 392-393.  
-  
-
-  
-
-  
 
 fairness and justice, and other important responsibilities which the
 document has inclusively shown.
@@ -1267,10 +1127,6 @@ Imām, Imām al-Ridā, peace be on him, referred to his grandfather, Imām
 Ali, the Commander of the faithful, the gate of the city of the
 knowledge of the Prophet, may Allah bless him and his  
 
-  
-
-  
-
 family, and the pioneer of his wisdom, whom the people removed from his
 office which the Prophet, may Allah bless him and his family, entrusted
 to him on the Day of Ghadir Khum, and accordingly the community suffered
@@ -1308,10 +1164,6 @@ the caliphate; nor would the community lead a life of ease and comfort
 during his rule, for he had read *al-jāmia* and *al-jafr,* which were
 among the deposits of the Prophethood, in which was the knowledge of
 what was and what would be until the Day of  
-
-  
-
-  
 
 Resurrection, which showed that he would not undertake the caliphate,
 and that al-Mamūn would  deceive him through regency.
@@ -1354,11 +1206,6 @@ peace be on him, it was unique, with which the Umayyad and
  [[2]](#_F1585) Sir al-Silsila al-'Alawiya, p. 38. Mir'āt al-Zamān, vol.
 6, p. 40. Al-Qudā'i.  
  [[3]](#_F1586) Bihār al-Anwār.  
-  
-
-  
-
-  
 
 the Abbāsid kings were not familiar, for he, peace be on him, moved his
 hand and hit his own face with the back of it and their faces with the
@@ -1400,11 +1247,6 @@ al-Mamūn rose, ascended the pulpit, and addressed the
 
 [[1]](#_F1587) Maqātil al-Tālibiyyin.  
  [[2]](#_F1588)Al-Fusūl al-Muhimma, p. 238.  
-  
-
-  
-
-  
 
 people, saying: O people, you have come to know about the pledge of
 allegiance to Ali b. Mūsā b. Jafar b. Mohammed b. Ali b. al-Husayn b.
@@ -1440,18 +1282,11 @@ There is no escape for the people from having a sun and
 
 a moon, so you are a sun, and this is that moon.[[3]](#_ftn1591)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1589) 'Uyūn Akhbār al-Ridā, vol. 2, p. 147.  
  [[2]](#_F1590) Ibid.  
  [[3]](#_F1591) Tadhkirat al-Khawās, p. 364.  
-  
-
-  
-
-  
 
 ### Persons abstain from pledging Allegiance to the Imām
 
@@ -1495,11 +1330,6 @@ al-Bayt)*, peace be on them. It was he whom Hārūn al-Rashid had
 ------------------------------------------------------------------------
 
 [[1]](#_F1592) 'Uyūn Akhbār al-Ridā.  
-  
-
-  
-
-  
 
 sent to Medina (Yathrib) in order to loot and confiscate the garments
 and jewels of the granddaughters of Allahs Messenger, may Allah bless
@@ -1539,16 +1369,9 @@ Imām al-Ridā, peace be on him, as a successor. They are as follows:
 
 1. Giving salaries to the soldiers for one full year.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1593) Ibid., vol. 2, p. 161-162.  
-  
-
-  
-
-  
 
 2. Abandoning the black uniform of the Abbāsids[[1]](#_ftn1594), and
 dressing in green. I (i.e. the author) think that the inhabitants of the
@@ -1593,11 +1416,6 @@ Gabriel, "O Mohammed, your children will face destruction from the
 children of your uncle al-'Abbāss." This has been mentioned in Wasā'il
 al-Shi'a, vol. 3, p. 279.  
  [[2]](#_F1595) Qur'ān, 18, 31.  
-  
-
-  
-
-  
 
 the face is: There is no god but Allah, the One without an associate
 with Him. in the year 203.
@@ -1634,16 +1452,9 @@ of the dirhams which were struck in the year 704 A. H., the same as the
 currency of the Imām, and it has been written in them what had been
 written in the original currency.[[1]](#_ftn1596)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1596) Al-Imām 'Ali al-Ridā Wali 'Ahd al-Ma'mūn, pp. 62-65.  
-  
-
-  
-
-  
 
 ### The Imām marries al-Mamūns Daughter
 
@@ -1684,11 +1495,6 @@ valuable hope for which the Muslim community waited,
 married Umm al-Fadl, al-Ma'mūn's daughter." This is incorrect; the
 correct is that the Imām married Umm Habib.  
  [[2]](#_F1598) Al-'Aqqd al-Farid, vol. 5, p. 226.  
-  
-
-  
-
-  
 
 for it impatiently waited for the return of the rule to the Imām, that
 he might establish pure justice among it, spread security and welfare
@@ -1728,11 +1534,6 @@ Meccans to pledge allegiance to the Imām, peace be on
 ------------------------------------------------------------------------
 
 [[1]](#_F1599) Al-Wilāt wa Kittāb al-Qudāt, p. 168.  
-  
-
-  
-
-  
 
 him, and to dress in green. So they responded to him with happiness and
 thankfulness, invoking (Allah) for al-Mamūn for accomplishing their wish
@@ -1772,11 +1573,6 @@ black; their motto was: O Mansūr there is no obedience to
 
 [[1]](#_F1600) Al-Ya'qūbi, Tārikh, vol. 3, p. 277.  
  [[2]](#_F1601) Al-Tabari, Tārikh.  
-  
-
-  
-
-  
 
 al-Mamūn. The Kūfans cowered and were unable to war against them, so
 they sent a delegation to the commander-in-chief of the army of Ibrāhim
@@ -1820,11 +1616,6 @@ council, saying: But good heavens! What had I to
 
 [[1]](#_F1602) Ibid.  
  [[2]](#_F1603) Wasā'il al-Shi'a, vol. 12, p. 148.  
-  
-
-  
-
-  
 
 do with this consultation? Where was any doubt about me with regard to
 the first of them that I was now considered akin to these ones? Imām
@@ -1870,11 +1661,6 @@ Chief of Egypt), he said to him: *Place me
 ------------------------------------------------------------------------
 
 [[1]](#_F1604) Ibid., p. 146.  
-  
-
-  
-
-  
 
 (in authority) over the treasures of the land, surely I am a good
 keeper, knowing well. Similarly, necessity pushed me to accept that
@@ -1912,17 +1698,10 @@ heir apparent. That is because he had to chose between killing and
 accepting regency, so he accepted  regency in order to save his own soul
 from the destruction which would cause no advantage to Islam.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1605) Ibid., p. 147.  
  [[2]](#_F1606) Ibid., pp. 149-150.  
-  
-
-  
-
-  
 
 ### The Indignant with al-Mamūn
 
@@ -1961,19 +1740,12 @@ blind and foolish hurried to him.
 
 If Ibrāhim (Ibn Shakkla) undertakes it (the caliphate),
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1607) Shakkla was the mother of Ibrāhim and was a black
 female-slave. As for Ibrāhim, he was so strong with a great body that he
 was called al-Tinnin (the dragon), Wafayāt al-A'yān, vol. 1, p. 20.  
  [[2]](#_F1608) Al-Ya'qūbi, Tārikh.  
-  
-
-  
-
-  
 
 then, after him, Makhāriq and Zalzal will be appropriate
 
@@ -2024,17 +1796,10 @@ and do not be displeased.
 
 He will sing you a song the
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1609) Al-Wilāt wa Kittāb al-Qudāt, p. 168.  
  [[2]](#_F1610) Wafayāt al-A'yān, vol. 1, p. 21.  
-  
-
-  
-
-  
 
 beardless and the bearded enjoy.
 
@@ -2087,11 +1852,6 @@ the
  [[2]](#_F1612) It was in reply to their letters which they had sent to
 al-Ma'mūn and asked him to answer it, so he has answered them through
 this letter which has abstracted them from every noble quality.  
-  
-
-  
-
-  
 
 hearts? By Him who is closer to the jugular vein than al-Mamūn, were it
 not for that someone said, al-Mamūn has left answer due to feebleness, I
@@ -2132,10 +1892,6 @@ an eye; nor did he worship an idol; nor did he swallow down usury; nor
 was he similar to those ignorant in their ignorance. As for the uncles
 of Allahs  
 
-  
-
-  
-
 Messenger, they were either a mean Muslim or a stubborn unbeliever
 except Hamza, for he did not refrain from Islam; nor did Islam refrain
 from him until he passed away while he was fully aware of his Lord.
@@ -2173,10 +1929,6 @@ and drove away from him the scheming of the enemies. When this great
 figure died, the Prophet, may Allah bless him and his family, lost the
 one who protected and defended him; in the mean time, Quraysh hurried to
 kill him, so he immigrated to  
-
-  
-
-  
 
 Medina (Yathrib), took it as a quarter for his summons and a capital for
 his government, for therein he found the choice who were ready to
@@ -2218,11 +1970,6 @@ the son of Abū Tālib (and similar to him) in his support
 ------------------------------------------------------------------------
 
 [[1]](#_F1613) Qur'ān, 76, 8.  
-  
-
-  
-
-  
 
 and jihād, and he was the soul of Allahs Apostle, may Allah bless him
 and his family, on the Day of al-Mubāhala (the contest of prayer).
@@ -2261,16 +2008,9 @@ Islam; therefore, he was the most violent of all the people in pressure
 against the polytheists and the unbelievers. So how great his advantages
 for Islam are!
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1614) Ibid., 9, 19.  
-  
-
-  
-
-  
 
 Among his excellences is that he was the most learned and knowledgeable
 of the people in the precepts of the religion and the law of the master
@@ -2311,12 +2051,6 @@ and his family, married him to the mistress of the women of the Muslims
 and part of him, Fātima al-Zahrā, peace be on her, for there was no man
 equal to her except Ali.
 
-  
-
-  
-
-  
-
 Yet another example of his great traits is that he was the soul of the
 Prophet, may Allah bless him and his family, as it is indicated by the
 Verse of al-Mubāhala, for he, the peace of Allah be upon him, through
@@ -2352,17 +2086,10 @@ eliminate them. In this connection al-Mansūr al-Dawāniqi said to Imām
 al-Sādiq, peace be on him: I will kill you and your family to the extent
 that I will leave none of you.[[2]](#_ftn1616)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1615) Ibid., 99, 7-8.  
  [[2]](#_F1616) Al-Manāqib, vol. 3, p. 357. Al-Bihār, vol. 47, p. 178.  
-  
-
-  
-
-  
 
 And al-Mansūr said: I have killed more than one thousand (persons) from
 among the progeny of Fātima, and I have left their master and protector,
@@ -2411,11 +2138,6 @@ created by the Abbāsids, for it was they who made al-
 [[1]](#_F1617) Al-Adab fi Zil al-Tashayya', p. 68.  
  [[2]](#_F1618) Al-Maqqrizi, al-Nizā' wa al-Takhāsum, p. 51.  
  [[3]](#_F1619) Qur'ān, 22, 60.  
-  
-
-  
-
-  
 
 Amin love deposing al-Mamūn and subduing him. In other words the events
 happened not as a result of al-Amins view and planning. This is another
@@ -2462,10 +2184,6 @@ censurer regarding Allah.
 
 It is these qualities which urged al-Mamūn to designate the  
 
-  
-
-  
-
 Imām as his heir apparent. Now, let us listen to another part of this
 letter:
 
@@ -2502,10 +2220,6 @@ soul from it, he would have with me nothing except what a man from Akk
 and Himyar had; therefore, do not mention this statement frequently, for
 my tongue is still restrained from affairs and stories which I hate (to
 mention), and for your souls  
-
-  
-
-  
 
 will be broken when they are revealed. It is worth mentioning that Allah
 will someday reach His order and manifest His decree.
@@ -2547,10 +2261,6 @@ caliphate and because I chose him; I did that because I wanted to spare
 your blood and to defend you through continuing love between us and
 them; I have followed this way in order to honor the  
 
-  
-
-  
-
 family of Abū Tālib and to aid them with a little of *al-fayyā* (war
 booty gained without fighting).
 
@@ -2590,10 +2300,6 @@ into practice, while in His Holy Book, Allah has given an account of the
 people of (the Prophet) Sālih that there *was among them nine persons
 whom made mischief in the land*; yet you have followed them  
 
-  
-
-  
-
 inwardly and outwardly as a sign of making little of the hereafter and
 little certitude in the reckoning; therefore, which of you has an
 opinion which may be followed or useful reflection? So may your faces be
@@ -2631,18 +2337,11 @@ Surely the religion is not taken (from anyone) except from the prophets;
 therefore, understand (what I say to you), and I do not see that you
 understand (it).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1620) *Al-Sirāt* is a path or a road or a kind of bridge which
 only the righteous can cross on the road to Paradise.  
  [[2]](#_F1621) Qur'ān, 43, 22.  
-  
-
-  
-
-  
 
 Through this statement, al-Mamūn has disproved the viewpoints of his own
 family, who claimed that he had discredited the viewpoints of his
@@ -2681,11 +2380,6 @@ good deeds) except out of fear. How do you
 ------------------------------------------------------------------------
 
 [[1]](#_F1622) Ibid., 33, 23.  
-  
-
-  
-
-  
 
 disdain (offenses) while you spend the night mounted, enter upon morning
 admiring your own sins as if you had earned a praiseworthy deed, your
@@ -2709,5 +2403,4 @@ an endless level of meanness.
 [[1]](#_F1623) Al-Bihār (modern edition), vol. 49, pp. 208-214. Hayāt
 al-Imām al-Ridā, pp. 453-460, I (the author) have quoted the letter from
 it.  
-  
 

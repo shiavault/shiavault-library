@@ -111,4 +111,3 @@ Plano, Texas
 Muharram 1st 1426 A.H.
 February 10th 2005 C.E.
 
-

@@ -4,42 +4,18 @@ Section 1:The Defeat of the Romans Prophesied
 Surah Ar-Room – Verses 1-5
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الم
-  </p>
-</blockquote>
+> الم
 
-<blockquote dir="rtl">
-  <p>
-غُلِبَتِ الرُّومُ
-  </p>
-</blockquote>
+> غُلِبَتِ الرُّومُ
 
-<blockquote dir="rtl">
-  <p>
-فِي أَدْنَي الاَرْضِ وَهُم مّـِن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ
-  </p>
-</blockquote>
+> فِي أَدْنَي الاَرْضِ وَهُم مّـِن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-فِي بِضْعِ سِنِينَ لِلَّهِ الأَمْرُ مِن قَبْلُ وَمِنْ بَعْدُ
-وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> فِي بِضْعِ سِنِينَ لِلَّهِ الأَمْرُ مِن قَبْلُ وَمِنْ بَعْدُ
+> وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-بِنَصْرِ اللَّهِ يَنصُرُ مَن يَشَآءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> بِنَصْرِ اللَّهِ يَنصُرُ مَن يَشَآءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -258,12 +234,8 @@ conquests of the Muslims.
 Surah Ar-Room – Verse 6
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعْدَ اللَّهِ لاَ يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ
-النَّاسِ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَعْدَ اللَّهِ لاَ يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ
+> النَّاسِ لاَ يَعْلَمُونَ
 
 ***6. “(This victory is ) Allah’s promise! Allah does not fail His
 promise, but most people do not know.”***
@@ -293,12 +265,8 @@ but most people do not know.”***
 Surah Ar-Room – Verse 7
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ ظَاهِراً مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الأَخِرَةِ
-هُمْ غَافِلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ ظَاهِراً مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الأَخِرَةِ
+> هُمْ غَافِلُونَ
 
 ***7. “They know (only) the appearance of the life of this world and
 they are heedless of the Hereafter.”***
@@ -402,13 +370,9 @@ have a sort of religious thought.
 Surah Ar-Room – Verse 8
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَتَفَكَّرُوا فِي أَنفُسِهِم مَا خَلَقَ اللَّهُ السَّمَاوَاتِ
-وَالأَرْضَ وَمَا بَيْنَهُمَآ إِلاَّ بِالْحَقّ‌ِ وَأَجَلٍ مُّسَمًّي
-وَإِنَّ كَثِيراً مِنَ النَّاسِ بِلِقَآءِي رَبّـِهِمْ لَكَافِرُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَتَفَكَّرُوا فِي أَنفُسِهِم مَا خَلَقَ اللَّهُ السَّمَاوَاتِ
+> وَالأَرْضَ وَمَا بَيْنَهُمَآ إِلاَّ بِالْحَقّ‌ِ وَأَجَلٍ مُّسَمًّي
+> وَإِنَّ كَثِيراً مِنَ النَّاسِ بِلِقَآءِي رَبّـِهِمْ لَكَافِرُونَ
 
 ***8. “Have they not pondered upon themselves? Allah did not create the
 heavens and the earth and what is between them but with truth and (for)
@@ -490,15 +454,11 @@ man will know Allah with His greatness.
 Surah Ar-Room – Verse 9
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَسِيرُوا فِي الأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الَّذِينَ مِن قَبْلِهِمْ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا
-الأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ
-رُسُلُهُم بِالْبَيّـِنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن
-كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَسِيرُوا فِي الأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الَّذِينَ مِن قَبْلِهِمْ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا
+> الأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ
+> رُسُلُهُم بِالْبَيّـِنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن
+> كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
 
 ***9. “Have they not travelled in the earth and seen how was the end of
 these before them? They were stronger than them in strength, and they
@@ -581,12 +541,8 @@ never deal with them unjustly.
 Surah Ar-Room – Verse 10
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَآءُوا السُّوأَي أَن كَذَّبُوا
-بِاَيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَآءُوا السُّوأَي أَن كَذَّبُوا
+> بِاَيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ
 
 ***10. “Then evil was the end of those that did evil, for they belied
 the signs of Allah, and at them they used to mock.”***
@@ -663,5 +619,4 @@ is for the sake that the land is ploughed by it.
 
 [^10]: For more explanation, you can refer to Bihar-ul-’Anwar, Vol. 45,
 P. 157
-
 

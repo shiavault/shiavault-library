@@ -1,8 +1,6 @@
 Chapter 12: Between the Doctrine and Supreme Authority
 ======================================================
 
-  
-
 The best way to understand the subject in this chapter is to mention
 some clear explanations about the two meanings of the succession to
 authority. That is because the Muslims have differed over it. Moreover,
@@ -29,8 +27,6 @@ A group of the Muslims agreed on appointing one of them to assume this
 deputyship on behalf of the Prophet, may Allah bless him and his family.
 They affirmed him even if he intended to usurp the succession to
 authority illegally. Thus they affirmed the Caliphate of  
-
-  
 
 Mu'awiya, "who sometimes took the succession to authority by using the
 sword and sometimes by using the trick and policy." [[1]](#r1) These are
@@ -74,8 +70,6 @@ al-Mu'tazila al-Siyasiya, p. 15. Al-Alwah (Magazine), no. 11, first
 year. Most Mu'tazilites agreed with the Shi'a and said: "No Imamate but
 through the text and nomination.
 
-  
-
 the first or the Sunni theory, is general supreme authority. It is
 restricted by a special constitution, and it is, in fact, like modern
 governments. It does not differ from them but in the constitution or as
@@ -114,8 +108,6 @@ take care of the essence, and they should discard nonessential things.
 They should take care of the true religion and should discard purposes.
 The Muslim should cling to the true Islam to please Allah. In the
 meantime, tribalism, feelings, and effects should not deceive him.
-
-  
 
 The matter of the religion, that is the relation between the servant and
 his Lord and is the start on which his final result in the hereafter is
@@ -160,8 +152,6 @@ plagiarize the ideas of the people had published this solution without
 ascribing it to its owner. The man was among our listeners, on more than
 one occasion, when we presented this idea as an example in this book.
 
-  
-
 elected. Meanwhile he was the successor to authority through the textual
 nomination, for the word 'Imam' indicates that.
 
@@ -202,8 +192,6 @@ that what the Apostle of Allah, may Allah bless him and his family,
 denoted in his authentic or successive holy tradition when he said: "I
 am going to leave behind me among you two things which, if you cleave to
 them, you will never go astray that is the Book of Allah  
-
-  
 
 and my offspring from my family (Ahl al-Bayt). They will never scatter
 (from you) until they lead you to me at the (sacred) waters (of
@@ -252,8 +240,6 @@ Imam Ahmad b. Hanbal has narrated it in 'al-Musnad, pp. 17 and 26. Also
 this tradition has been reported by Ibn Abi Shayba, Abu Ya'la, b. Sa'd
 in 'al-Kanz', vol. 1, p. 47, and the like.
 
-  
-
 Concerning this tradition, we want to say: In this tradition, why was
 al-Hasan not described as the Lord of the youth of the world? Was he not
 the Lord of the youth in this world, in merits, and noble deeds?
@@ -298,8 +284,6 @@ Al-Hasan is the Lord of the youth of Heaven, and that is enough.
 
 In other words, the supremacy of al-Hasan and of al-Husayn will  
 
-  
-
 prevail a world better than this world, and people better than these
 people. That is because the youth of the world refused to give them
 their right, mutinied against them, and denied their supremacy.
@@ -340,8 +324,6 @@ nothing but the declaration concerning the two lords, namely al-Hasan
 and al-Husayn. Then if you consider carefully the deep structure of the
 tradition, you will understand that the Prophet  
 
-  
-
 hinted to the behavior of these two Imams. Namely, the deep structure of
 the tradition indicates that one of them will rise and the other will
 sit. Besides it indicates that one of them or they both will rise one
@@ -381,8 +363,6 @@ the unlimited spiritual authority.
 Neither failure nor death was able, even for a day, to end those high
 spiritual qualities. Hence history has admired them. Besides the
 hearts  
-
-  
 
 of the Muslims have clung to them. The aggressors and the ungrateful
 deniers did not prevent those qualities from blossoming. Up till now,
@@ -426,8 +406,6 @@ impossible. I am the son of the bravest of all
 
 [[1]](#n5) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, p. 151.
 [[2]](#n6) Ibid.
-
-  
 
 Arabs. I am the son of Fatima, the mistress of the women of the world. I
 have not done that, woe unto you, out of cowardice or weakness. However,
@@ -473,8 +451,6 @@ they were the strength that moved al-Hasan to act
 [[1]](#n7) Al-Bayhaqi, al-Mahasin wa al-Masawi', vol. 1, p. 60-5.
 [[2]](#n8) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 113.
 
-  
-
 to please his Lord. So he was in no need of acting to obtain the life in
 the world. Besides the life in this world was not like these signs, nor
 were they like it. Such was the true Imamate. It was the shadow of
@@ -517,8 +493,6 @@ keep quiet seeking reward for it (from Allah) and keeping aloof from its
 attractions and allurements for which you aspire." (Imam 'Ali, Nahj
 al-Balagha, p. 102.)
 
-  
-
 Concerning the second point, we say: Indeed, al-Hasan b. 'Ali (peace be
 on them) took upon himself that he would use his talents, his life, his
 history, his political entity, his patience, and his strength to serve
@@ -557,8 +531,6 @@ Besides 'Amr b. al-'As, al-Mughira b. Shu'ba, Ziyad b. Abih, and their
 followers would have sought protection with al-Hasan in Kufa. There
 would have been no difference between them and Hujr b. 'Adi, Qays b.
 Sa'd, and 'Adi b. Hatam. So they (the former group)  
-
-  
 
 sought protection with Mu'awiya there. They hated al-Hasan because he
 was indifferent to the world. They hated his noble traits when they
@@ -600,8 +572,6 @@ Yes, al-Hasan would have been braver than Mu'awiya if he had wanted the
 life in this world.
 
 However, Imam al-Hasan b. 'Ali, peace be on them, was a human  
-
-  
 
 being other than Mu'awiya.
 
@@ -646,8 +616,6 @@ weakness cowardice, and defects. He was the mirror that reflected the
 Prophet's renunciation from worldly pleasures, his noble traits, for he
 was "the most similar of all people to the Prophet  
 
-  
-
 in form, ethics, policy, and management."
 
 So where are the weak points which the quick critics have mentioned
@@ -687,8 +655,6 @@ greatest reformer in the field of reform, and the most tentative and
 successful leader in the field of perfection.
 
 Besides he became the Imam of all the world, though he had no throne.
-
-  
 
 Is Islam not this angelic spirit which the material world does not
 overcome, and which vain desires and false imaginations do not

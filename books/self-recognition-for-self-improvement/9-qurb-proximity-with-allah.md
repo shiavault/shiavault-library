@@ -7,28 +7,16 @@ bridging the gap of time and place, because Almighty Allah is the
 creator of time and place and encompasses all times and places and has
 no relationship in time and place with any being:
 
-<blockquote dir="rtl">
-  <p>
-“…هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ”
-  </p>
-</blockquote>
+> “…هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ”
 
 ***"He is the first and the last and the Ascendant (over all) and the
 knower of hidden things... (57:3)."***
 
-<blockquote dir="rtl">
-  <p>
-“…وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ…”
-  </p>
-</blockquote>
+> “…وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ…”
 
 ***"... And He is with you wherever You are... (57:4)."***
 
-<blockquote dir="rtl">
-  <p>
-“…فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ…”
-  </p>
-</blockquote>
+> “…فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ…”
 
 ***"... Therefore, wherever you turn, there is Allah's face...
 (2:115)."***
@@ -36,11 +24,7 @@ knower of hidden things... (57:3)."***
 In addition, the spontaneous bridging of time and place is not deemed a
 perfection. So what is actually meant by this proximity?
 
-<blockquote dir="rtl">
-  <p>
-“أَلَا إِنَّهُ بِكُلِّ شَيْءٍ مُحِيطٌ…”
-  </p>
-</blockquote>
+> “أَلَا إِنَّهُ بِكُلِّ شَيْءٍ مُحِيطٌ…”
 
 ***"... Now surely He encompasses all things (41:54)."***
 
@@ -49,19 +33,11 @@ Allah's power and linked to His will-power. Rather, the existence of
 everything hinges on connection with and dependence on Him. As a result,
 He is closer (than aught) to everything:
 
-<blockquote dir="rtl">
-  <p>
-“وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ…”
-  </p>
-</blockquote>
+> “وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ…”
 
 ***"... And We are nearer to him than his life vein (50:16)."***
 
-<blockquote dir="rtl">
-  <p>
-“فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ”
-  </p>
-</blockquote>
+> “فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ”
 
 ***"And We are nearer to it than you, but you do not see (56:85)."***
 
@@ -79,11 +55,7 @@ usage too, a person who is loved by an eminent person is called
 "*muqarrab*". The Holy Qur'an also uses the term *muqarribun* to refer
 to the forerunners of the path of man's development:
 
-<blockquote dir="rtl">
-  <p>
-“فِي جَنَّاتِ النَّعِيمِ .أُولَٰئِكَ الْمُقَرَّبُونَ”
-  </p>
-</blockquote>
+> “فِي جَنَّاتِ النَّعِيمِ .أُولَٰئِكَ الْمُقَرَّبُونَ”
 
 ***"And the foremost are the foremost, these are the ones who are drawn
 nigh (to Allah) (56:10-11).***
@@ -103,11 +75,7 @@ guardians who proceeded with development from the very first moment of
 their lives and who reached great perfection in a very small span of
 time) as Isa ibn Maryam (AS) said (the following) in the cradle:
 
-<blockquote dir="rtl">
-  <p>
-“إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا…”
-  </p>
-</blockquote>
+> “إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا…”
 
 ***"... Surely I am a servant of Allah; He has given me the Book and
 made me a prophet (19:30)."***
@@ -160,20 +128,12 @@ All beings in the world of existence are the creatures of Almighty Allah
 and are dependent on Him in existence and existential states and have no
 independence whatever:
 
-<blockquote dir="rtl">
-  <p>
-“…ذَٰلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ”
-  </p>
-</blockquote>
+> “…ذَٰلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ”
 
 ***"That is Allah, your Lord, the Creator of everything... (40:62)."***
 
-<blockquote dir="rtl">
-  <p>
-“أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ
-الْحَمِيدُ…”
-  </p>
-</blockquote>
+> “أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ
+> الْحَمِيدُ…”
 
 ***"... You are they one who stand in need of Allah, and Allah is He who
 is the Self-sufficient the Praised One (35:15)."***
@@ -181,29 +141,17 @@ is the Self-sufficient the Praised One (35:15)."***
 And the reality of their existence is dependence on and attachment to
 Him, as well as absolute captivity and servitude.
 
-<blockquote dir="rtl">
-  <p>
-“…كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ…”
-  </p>
-</blockquote>
+> “…كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ…”
 
 ***"... Every thing is perishable but He... (28:88)."***
 
-<blockquote dir="rtl">
-  <p>
-“…وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ…”
-  </p>
-</blockquote>
+> “…وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ…”
 
 ***"And the faces shall be humbled before the Living, the
 Self-subsistent God... (20:111)."***
 
-<blockquote dir="rtl">
-  <p>
-“إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي
-الرَّحْمَٰنِ عَبْدًا”
-  </p>
-</blockquote>
+> “إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي
+> الرَّحْمَٰنِ عَبْدًا”
 
 ***"There is no one in the heavens and the earth but will come to the
 Beneficent God as a servant (19:93)."***
@@ -211,31 +159,19 @@ Beneficent God as a servant (19:93)."***
 And the acts that they perform are the signs of dependence, servitude
 and needfulness. Thus ontologically, each person serves Allah:
 
-<blockquote dir="rtl">
-  <p>
-“…وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ…”
-  </p>
-</blockquote>
+> “…وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ…”
 
 ***"... while to Him submits whoever is in the heavens and the
 Earth..(3:83)."***
 
-<blockquote dir="rtl">
-  <p>
-“…وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِنْ
-دَابَّةٍ”
-  </p>
-</blockquote>
+> “…وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِنْ
+> دَابَّةٍ”
 
 ***"And whatever creature that is in the heavens and that is in the
 earth makes obeisance to Allah (only)... (16:49)."***
 
-<blockquote dir="rtl">
-  <p>
-“… وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
-تَفْقَهُونَ تَسْبِيحَهُمْ…”
-  </p>
-</blockquote>
+> “… وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
+> تَفْقَهُونَ تَسْبِيحَهُمْ…”
 
 ***"... And there is not a single thing but glorifies Him with His
 praise, but you do not understand their glorification... (17:44)."***
@@ -284,11 +220,7 @@ inherent poverty and needfulness. Then he will return to their true
 Owner the servants of Allah whom he unjustly attributed to himself and
 to others. And he will return the garb of divine power:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّهُ كَانَ ظَلُومًا جَهُولًا…”
-  </p>
-</blockquote>
+> “إِنَّهُ كَانَ ظَلُومًا جَهُولًا…”
 
 ***"... Surely he is unjust, ignorant (33:72)."***
 
@@ -298,11 +230,7 @@ servant or in seeing one's inherent and complete needfulness. To reach
 it, one must worship Allah and strive to please Him. That is to say, he
 should prefer the will of Allah to that of himself:
 
-<blockquote dir="rtl">
-  <p>
-“إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ”
-  </p>
-</blockquote>
+> “إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ”
 
 ***"Except the seeking of the pleasure of his Lord, the Most High
 (92:20)."***
@@ -312,20 +240,12 @@ the correct way of reaching proximity with Allah is worshipping Him,
 declaring imagined independence null and void, and confessing one's
 complete and all-embracing need of Allah:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ”
-  </p>
-</blockquote>
+> “وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ”
 
 ***"And I have not created the jinn and the men except that they should
 worship Me (51:56)."***
 
-<blockquote dir="rtl">
-  <p>
-“وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ”
-  </p>
-</blockquote>
+> “وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ”
 
 ***"And that you should worship Me; this is the right way (36:61)."***
 
@@ -335,5 +255,4 @@ Allah and towards true development. Nothing other than worshipping Allah
 could be regarded as leading towards true perfection.
 
 [^1]: Biharul–Anwar, Vol 3, 15
-
 

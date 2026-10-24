@@ -4,37 +4,17 @@ Section 1: The Qur’an, The Apostle and the Manifest Guide
 Surah Ya-Sin - Verses 1-4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-يس
-  </p>
-</blockquote>
+> يس
 
-<blockquote dir="rtl">
-  <p>
-وَالْقُرْءَانِ الْحَكِيمِ
-  </p>
-</blockquote>
+> وَالْقُرْءَانِ الْحَكِيمِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَمِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> إِنَّكَ لَمِنَ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-عَلي صِرَاطٍ مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> عَلي صِرَاطٍ مُّسْتَقِيمٍ
 
 ***1. “Ya Sin (Y.S)”***  
 ***2. “By the Qur’an, full of Wisdom,”***  
@@ -113,17 +93,9 @@ It says:
 Surah Ya-Sin - Verses 5-6
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلَ الْعَزِيْزِ الرَّحِيمِ
-  </p>
-</blockquote>
+> تَنزِيلَ الْعَزِيْزِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-لِتُنذِرَ قَوْماً مَّآ اُنذِرَ ءَابآؤُهُمْ فَهُمْ غَافِلُونَ
-  </p>
-</blockquote>
+> لِتُنذِرَ قَوْماً مَّآ اُنذِرَ ءَابآؤُهُمْ فَهُمْ غَافِلُونَ
 
 ***5. “A revelation of the Mighty, the Merciful.”***  
 ***6. “That you may warn a people whose fathers were not warned, hence
@@ -208,18 +180,10 @@ Book of sanctification of the heart and soul, too.
 Surah Ya-Sin - Verses 7-8
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ حَقَّ الْقَوْلُ عَلَي أَكْثَرِهِمْ فَهُمْ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> لَقَدْ حَقَّ الْقَوْلُ عَلَي أَكْثَرِهِمْ فَهُمْ لاَ يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلاَلاً فَهِيَ اِلَي الأَذْقَانِ
-فَهُم مُّقْمَحُونَ
-  </p>
-</blockquote>
+> اِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلاَلاً فَهِيَ اِلَي الأَذْقَانِ
+> فَهُم مُّقْمَحُونَ
 
 ***7. “The word (of punishment) has been realized against most of them,
 yet they do not believe.”***  
@@ -344,19 +308,11 @@ it is the majority of the chiefs of polytheists, pagans, and hypocrites.
 Surah Ya-Sin - Verses 9-10
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدّاً وَمِنْ خَلْفِهِمْ سَدّاً
-فَأَغْشَيْنَاهُمْ فَهُمْ لاَ يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدّاً وَمِنْ خَلْفِهِمْ سَدّاً
+> فَأَغْشَيْنَاهُمْ فَهُمْ لاَ يُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَسَوآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لاَ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَسَوآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لاَ
+> يُؤْمِنُونَ
 
 ***9. “And We have put a barrier in front of them and a barrier behind
 them, and (further), We have covered them up, so they do not see.”***  
@@ -416,12 +372,8 @@ condition.
 Surah Ya-Sin - Verses 11
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا تُنذِرُ مَنِ اتَّبَعَ الذّ‌ِكْرَ وَخَشِيَ الرَّحْمَنَ
-بِالْغَيْبِ فَبَشّـِرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ
-  </p>
-</blockquote>
+> إِنَّمَا تُنذِرُ مَنِ اتَّبَعَ الذّ‌ِكْرَ وَخَشِيَ الرَّحْمَنَ
+> بِالْغَيْبِ فَبَشّـِرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ
 
 ***11. “You can only warn him who follows the reminder (Qur’an) and
 fears the Beneficent (Allah) in secret; so give him the good tidings of
@@ -478,12 +430,8 @@ those of the Divine leaders.
 Surah Ya-Sin - Verse 12
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نُحْيِ الْمَوْتَي وَنَكْتُبُ مَا قَدَّمُوا
-وَءَاثَارَهُمْ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نُحْيِ الْمَوْتَي وَنَكْتُبُ مَا قَدَّمُوا
+> وَءَاثَارَهُمْ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ
 
 ***12. “Verily We shall give life to the dead, and We write down that
 which they send before and (even) their footprints, and We have numbered
@@ -591,5 +539,4 @@ manifest the right from wrong. I have learnt this (knowledge) from the
 Messenger of Allah (S).”
 
 [^8]: Surah Hud, No. 11, verse 17
-
 

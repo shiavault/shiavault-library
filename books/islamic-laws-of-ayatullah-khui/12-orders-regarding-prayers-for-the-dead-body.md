@@ -192,4 +192,3 @@ should not join with others.
 **619.** It is abominable to perform prayers for dead bodies in masjids,
 except in Masjidul Haram.
 
-

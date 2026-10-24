@@ -78,7 +78,6 @@ God, these books will be a means through which people in the
 twenty-first century will attain the peace, justice, and happiness
 promised in the Qur'an.
 
-
 **Introduction**
 
 We are living in an era in which the world is desperately in need of
@@ -129,5 +128,4 @@ fight for the same cause, and seek permanent solutions to common
 problems. This alliance will be one of the main contributing factors to
 tranquility at a time when Prophet Jesus' (peace be upon him) second
 coming is expected.
-
 

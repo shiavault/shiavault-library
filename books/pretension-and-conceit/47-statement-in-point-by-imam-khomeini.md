@@ -136,4 +136,3 @@ the harms of conceit, the greatest mentor of manners and spirituality,
 imām Khomeini, may his blessings last forever, has made a statement, and
 here is a translation of its text:
 
-

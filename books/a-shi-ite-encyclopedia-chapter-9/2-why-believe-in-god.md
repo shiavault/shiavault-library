@@ -172,4 +172,3 @@ in the six authentic Sunni collections which support this assignment.
 
 Wassalam.
 
-

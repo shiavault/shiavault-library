@@ -502,15 +502,11 @@ whatever is in your mouth, throw it out.* 38 Then he said:
 *"Are you trying to separate us from the purified Leader by honey mixed
 with saffron?"* 39
 
-<p dir="rtl">
 أ بِالشهْدِ الْمُزَعْفَرِ يَا ابْنَ هِنْد \* نَبِيعُ إِلَيْكَ إِسْلَما
 وَدِينا
-</p>
 
-<p dir="rtl">
 فَلَ وَ اللهِ لَيْسَ يَكُونُ هَذَا \* وَ مَوْلَانَا أَمِيرُ
 الْمُؤْمِنِينَا
-</p>
 
 *With your honey mixed with saffron, O son of Hind Do you think we will
 sell our Islam and religion to you Refuge of Allah (God Forbid), how can
@@ -613,9 +609,7 @@ price by an ounce, or even less than that, is from the knowledge that
 has been referred to in various supplications and we seek refuge in
 Allah (swt) from its harm, such as:
 
-<p dir="rtl">
 اللهُم إِنِّي أَعُوذ بِكَ مِنْ عِلْم لَا ينَفَع
-</p>
 
 *"O Allah! I seek refuge in you, from knowledge that has no benefit."*
 43
@@ -705,9 +699,7 @@ Abdillah (as). However the issue is that they themselves do not act upon
 it, and thus they will regret it for an eternity, just as Allah (swt)
 has said in the Qur'ān:
 
-<p dir="rtl">
 أَتَأْمُرُونَ الناسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ
-</p>
 
 ***Do you enjoin right conduct on the people, and forget to practise it
 yourselves?*** 45
@@ -759,9 +751,7 @@ themselves are killing and destroying themselves.
 In many other narrations the interpretation of the following verse has
 been recorded:
 
-<p dir="rtl">
 فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ
-</p>
 
 ***So they shall be thrown down into it, they and the erring ones.*** 52
 
@@ -776,9 +766,7 @@ contrary to it themselves."
 
 With regards to the interpretation of the verse:
 
-<p dir="rtl">
 أَنْ تَقُولَ نَفْس يَا حَسْرَتَا عَلَى مَا فَرطْتُ فِي جَنْبِ الله
-</p>
 
 ***Lest a soul should say: O woe to me! For what I fell short of my duty
 to Allah.*** 53
@@ -986,10 +974,8 @@ conceptualization of the great hardships that befell upon His (swt)
 beloved (as), the heart catches fire and causes tears to flow. The
 Prophet (pbuh) has said:
 
-<p dir="rtl">
 إِن لِقَتْلِ الْحُسَيْنِ حَرَارَة فِي قُلُوبِ الْمُؤْمِنِينَ لَا
 تَبْرُدُ أَبَدا
-</p>
 
 *"Surely there exists in the hearts of the believers, with respect to
 the martyrdom of Ḥusayn, a heat that never subsides."* 58
@@ -1334,10 +1320,8 @@ and the landing site of Revelations is left like a barren desert
 
 Ibrahim bin al-'Abbas recited a poem, whose beginning is like this:
 
-<p dir="rtl">
 أَزَالَتْ عَزَاء الْقَلْبِ بَعْدَالت جَلدِ \* مَصَارِع أَوْلَادِ
 النبِيِّ مُحَمد
-</p>
 
 *After enduring calamities, they will remove the weariness of the
 hearts:*

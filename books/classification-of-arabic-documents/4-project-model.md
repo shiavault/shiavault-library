@@ -45,28 +45,22 @@ be more frequent, for each category we expect to find a set of frequent
 words, as well, we expect to find a set of common words for both
 categories as shown infigure 3.
 
-<p dir="rtl">
 جغرافي    الأنظمة  دولي      القومي   المنطقة    الحرية     السياسية
-</p>
 
 Geographic      Systems           International    National
 Area    Liberty            Politic
 
 (a)
 
-<p dir="rtl">
 حرق      سلاح    ميليشيات           مواجهات            انفجار
 قتل        عنف
-</p>
 
 Burn    Weapon           Militias            Clashes
 Explosion        Kill      Violence
 
 (b)
 
-<p dir="rtl">
 مسؤول              الشعوب حكومة   شارك     قرار       القوى
-</p>
 
 Responsible     Peoples            Government    Share
 Decision          Forces

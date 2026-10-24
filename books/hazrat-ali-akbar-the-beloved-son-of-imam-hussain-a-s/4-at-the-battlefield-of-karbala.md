@@ -138,4 +138,3 @@ were rising above the din of battle-cries and beating of enemy drums. It
 was appearing as if a dead body of an only son, dead in the prime of
 youth, was being taken out of a house for the last rites.
 
-

@@ -11,7 +11,6 @@ life.
 
 Some researchers have mentioned various differences, among them are:
 
-
 - Youth always moves toward new things, whereas elders oppose new
 things holding the older ones dear. - Youth have the revolutionary
 spirit full of courage and force, whereas the elders have the spirit of
@@ -331,5 +330,4 @@ attended; he teaches us hope to be perfect and reach where he didn't
 reach."
 
 Praise be to Allah, the Lord of the Worlds.
-
 

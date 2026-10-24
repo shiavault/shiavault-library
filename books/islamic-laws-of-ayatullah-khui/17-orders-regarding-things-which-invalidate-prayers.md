@@ -1154,4 +1154,3 @@ time of prayers has passed, it is not unlikely that the qaza prayers
 need not be offered except when this act is due to the person not
 knowing the orders on the subject.
 
-

@@ -120,4 +120,3 @@ Orange County, California
 
 [^6]: Noble Qur’an, 3:8
 
-

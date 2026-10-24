@@ -81,4 +81,3 @@ Yahdhuruh ul-Faqih.)
 [^5]: Quoted from Mir’aat ul-Uqoul; 2 (The Explanation of al- Majlisi’s
 al-Kafi) as quoted from al-Kafi; page 303.
 
-

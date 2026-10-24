@@ -200,7 +200,6 @@ and indulged in the pleasures and the delights of life in which they
 believe. Meanwhile, the greater majority of people were left suffering
 this unjust servitude imposed by false human defication.
 
-
 **Why Servitude To Allah**
 
 One question revolves in the mind of everyone contemplating the
@@ -467,5 +466,4 @@ servitude, from which he may infer that: Since it is Allah Who is the
 Creator, the Owner, the Omnipotent, the Dominant, the Lord, the
 Beneficent, the Benevolent, the Patron, then, we must worship Him alone,
 and be sincere in our servitude to Him only.
-
 

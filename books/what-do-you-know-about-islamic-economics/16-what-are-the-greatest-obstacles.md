@@ -53,4 +53,3 @@ and Sunnah where it can be derived, we want to provide the proof for its
 existence from the nature of the Islamic Shari’a [legislative system]
 and our prior comprehension thereof.
 
-

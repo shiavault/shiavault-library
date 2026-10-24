@@ -22,4 +22,3 @@ called?
  A sentence comprised of a inchoative and a predicate is called a
 nominative sentence.
 
-

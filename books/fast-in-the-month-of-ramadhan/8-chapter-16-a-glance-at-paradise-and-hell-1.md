@@ -420,4 +420,3 @@ status will be, and the less his degree of bliss. The circle has always
 symbolised eternity. The Garden may very likely be circular, and surely
 Allah knows best.
 
-

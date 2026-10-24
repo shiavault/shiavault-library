@@ -576,4 +576,3 @@ otherwise it is compulsory for God to burn her in hell and she is also
 prohibited to talk more than five sentences to those other than her
 husband or mahrams (mother, father, brother and sister).
 
-

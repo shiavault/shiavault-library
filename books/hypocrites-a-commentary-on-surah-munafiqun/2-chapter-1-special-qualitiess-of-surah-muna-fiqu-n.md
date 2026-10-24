@@ -43,4 +43,3 @@ The author is hopeful, with the greace of Allah, that as long as a
 studious atmosphere is available in places such as Qom, a small part of
 this duty will be achieved.
 
-

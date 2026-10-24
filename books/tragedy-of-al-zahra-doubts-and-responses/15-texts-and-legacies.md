@@ -1154,4 +1154,3 @@ Kanz al-\`Ummal.
 302-03. Sulaym ibn Qays, Vol. 2, pp. 674-75. Al-\`Awalim, Vol. 11, p.
 413.
 
-

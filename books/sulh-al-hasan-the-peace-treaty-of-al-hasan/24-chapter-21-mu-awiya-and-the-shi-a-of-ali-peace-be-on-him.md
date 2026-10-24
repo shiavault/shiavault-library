@@ -1,8 +1,6 @@
 Chapter 21: Mu'awiya and the Shi'a of 'ali, Peace Be On Him
 ===========================================================
 
-  
-
 Mu'awiya designed an Umayyad policy. The Umayyad rules after him
 followed that policy. They (i.e., the Umayyads) wanted to make
 themselves lords. They wanted to show the people that they had all
@@ -31,8 +29,6 @@ those who were loyal to Islam started.
 In his book (Ta'rikh, vol. 7, p. 104), al-Tabari has mentioned the
 following brief tradition on the authority of Zayd b. Anas concerning
 the general condition when the Shi'ite groups lived during  
-
-  
 
 Mu'awiya's lifetime. A Shi'ite addressed the Shi'ites: "You were killed.
 Your hands and your legs were cut off. Your eyes were knocked out. You
@@ -71,8 +67,6 @@ the authority to his son, and this is his son.' 'Indeed a polytheist
 killed 'Umar,' said Mu'awiya. 'Who killed 'Uthman?' asked b. 'Abbas.
 'The Muslims killed him', replied  
 
-  
-
 Mu'awiya. 'Then that refutes your proof. If the Muslims killed and
 abandoned him, then they killed him justly,' answered b. 'Abbas..
 Mu'awiya said: 'Surely we have written to the distant regions to prevent
@@ -108,8 +102,6 @@ and made them homeless. Mu'awiya wrote to his judges and his governors
 in the cities to prevent them from accepting the witness of those Shi'a
 who narrated his ('Ali's) outstanding merits and spread his laudable
 deeds. He (i.e., Mu'awiya) wrote to his governors: Look for the Shi'a  
-
-  
 
 of 'Uthman, who narrate his qualities and talk about his laudable deeds,
 so honor them. Write to me the full name of the person who narrates
@@ -148,8 +140,6 @@ people). Also the religious persons who thought that falsehood was
 illegal learned (their traditions). They accepted the traditions and
 thought that they were true. If they had known that the traditions were
 false, they would have not narrated them, nor would  
-
-  
 
 have they adopted them. When al-Hasan b. 'Ali, peace be on him, died,
 the discord and the tribulation became greater and more intense."
@@ -193,8 +183,6 @@ After that, Sulaym b. Qays added: "One year before the death of
 Mu'awiya, al-Husayn b. 'Ali, 'Abd Allah b. 'Abbas, and 'Abd Allah b.
 Ja'far performed the hajj. Then al-Husayn gathered the banu (sons)  
 
-  
-
 of Hashim, their men folk, their womenfolk, and their supporters.
 Besides he gathered the Ansar whom he, peace be on him and his family,
 knew. Then he summoned messengers (and said to them): 'Gather to me the
@@ -233,8 +221,6 @@ After his Peace Treaty with al-Hasan, Mu'awiya adopted a spiteful
 attitude towards the leaders of the Shi'a. Through that attitude he
 showed neither mercy, nor conscience, nor covenant. He hurt the  
 
-  
-
 leaders of the Shi'a, banished them, tortured them, and killed them.
 That is because he was afraid of their effective propagation. Now, we do
 not intend to count what Mu'awiya had done towards the Shi'ite leader,
@@ -271,8 +257,6 @@ religious persons who regarded lying and false accusations as illegal.
 So they accepted them and narrated them. They thought that they (i.e.,
 the reports and the traditions) were true. If they had known that they
 were untrue, they would have not narrated them,  
-
-  
 
 nor would they have adopted them." [[1]](#r1)
 
@@ -315,8 +299,6 @@ When they (i.e., the historians) write about the matter of al-Hasan,
 six hundred and twenty fabricators from those whom the people have
 regarded as narrators of traditions and history.
 
-  
-
 they know his position in history, and they know that they write about
 one of the two unique persons (i.e., al-Hasan and al-Husayn) in all the
 world.
@@ -344,8 +326,6 @@ of this list, we will study the answer of Mu'awiya to the fifth
 stipulation from the Stipulations of the Peace Treaty. Then we will
 study gradually the clauses of this stipulation in the chapters that
 follow.
-
-  
 
 ### A. Patient Martyrs
 
@@ -393,8 +373,6 @@ who was the mother of Muhammad b. al-Ash'ath. Imam al-Hasan married
 al-Ash'ath's daughter whom Mu'awiya provoked to give al-Hasan poison to
 drink.
 
-  
-
 was less than their old ones." In his book 'Asad al-Ghaba fi Tamyiz
 al-Sahaba', Ibn al-Athir has mentioned him with words similar to these
 ones. In his book 'al-Mustadrak', al-Hakim has described him as: "the
@@ -439,8 +417,6 @@ said the guard.' He (i.e., Ibn al-Athir) said: 'Hujr prayed to Allah
 needed from (the rain).' His companions said to him: 'Ask Allah to save
 us.' So he said: 'O Allah, save us.'"
 
-  
-
 The Cause of his Killing
 ------------------------
 
@@ -482,8 +458,6 @@ When al-Mu'ghira b. Shu'ba died in the year 50 or 51 A.H., b.
 
 [[1]](#n6) Al-Tabari, Ta'rikh, vol. 6, p. 108.
 
-  
-
 Sumayya (i.e., Ziyad b. Abih) became the governor of Kufa. So the latter
 wanted to serve his claimed Umayyad lineage through killing Hujr b. 'Adi
 to relieve the Umayyads of the greatest of all troublemakers against
@@ -521,8 +495,6 @@ Isma'il and Ishaq (the two sons of Talha b. 'Abd Allah), Khalid b.
 Qays, and the like of these persons who divorced manhood three times.
 They were seventy men. In his book 'Ta'rikh, vol.6,pp.150-I',  
  al-Tabari counted them one by one. He distinguished  
-
-  
 
 Abu Burda b. Abu Musa al-Ash'ari from them, for the latter was the
 weakest of them with him (i.e., al-Tabari) or he was the strongest of
@@ -562,8 +534,6 @@ the history of Arabs and Islam.
 
 If Hujr had wanted to resist with the weapon, he would have been able to
 ignite the fire of the revolution that would be strong enough to  
-
-  
 
 shake the position of Mu'awiya in Kufa. Mu'awiya understood that when he
 said after the killing of Hujr: "If Hujr had remained alive, he would
@@ -605,8 +575,6 @@ In this manner Ziyad was unable to bear Hujr and his companions.
 [[1]](#n7) In his book 'Ta'rikh, vol. 6, p. 132', al-Tabari said: "From
 that day he took a compartment."
 
-  
-
 So he gathered the notables of Kufa and said to them: "O people of Kufa,
 don't be sad! Your bodies are with me, and your desires are with Hujr.
 You are with me while your brothers, your children, and your tribes are
@@ -647,8 +615,6 @@ I listen and obey."
 
 The policemen went about to arrest the prominent figures who supported
 Hujr. They arrest nine Kufans and four non- Kufans,  
-
-  
 
 according to the narration of al-Mas'udi.
 
@@ -694,8 +660,6 @@ He is walking to Mu'awiya b. Harb.
 
 (Mu'awiya will) kill him as the Emir has claimed.
 
-  
-
 (He will) hang him on the gate of Damascus.
 
 So the eagles will eat from his charms.
@@ -740,8 +704,6 @@ sword is easier for us than what you summon us to. Then meeting Allah,
 His Apostle, and his (i.e., the Prophet's) trustee of authority (wasi)
 is more lovable for us than entering the fire."
 
-  
-
 The graves were dug. Hujr and his companions began performing prayers
 throughout the night. When the morning came, they (i.e., the police men)
 brought them to kill them, so Hujr said to them: "Let me perform the
@@ -784,8 +746,6 @@ according to Mu'awiya's orders. It was Hujr who conquered it (i.e., Marj
 the meaning of Hujr's words:"..., and the first Muslim man at whom its
 dogs will bark. He meant the day when he conquered it.
 
-  
-
 Allah). Mu'awiya mentioned these words of Hujr. So when he was about to
 die, he said: "Hujr, my day will be long because of you."
 
@@ -824,8 +784,6 @@ carried that out." Then He (i.e., 'Abd al-Rahman)
 [[1]](#n9) Al-Tabari, Ta'rikh, vol. 6, p. 156. [[2]](#n10) Ibn al-Athir,
 al-Kamil fi al-Ta'rikh, vol. 3, p. 193. [[3]](#n11) Al-Tabari, Ta'rikh,
 vol. 6, p. 153. [[4]](#n12) Ibid.
-
-  
 
 said: "By Allah, the Arabs will never regard you as the one who has
 clemency and an opinion. You killed the people whom the prisoners from
@@ -866,8 +824,6 @@ revolted (against Mu'awiya) when he killed Hujr, no one of them would
 [[1]](#n13) He meant the banu (sons) of Hashim. [[2]](#n14) Ibn Abu
 al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 18. [[3]](#n15) Al-Tabari,
 Ta'rikh, vol. 6, p. 157.
-
-  
 
 accepted that, so they became low.' After this speech, he (i.e., al
 Rabi') remained one Friday. Then he went out on Friday and said: "O
@@ -910,8 +866,6 @@ al-Rafii'a. Al-Shaykh al-Tusi, al-Amali. [[2]](#n17) Al-Majlisi, Bihar
 al-Anwar, vol. 10, p. 149. [[3]](#n18) Ibn al-Nadim, al-Fihrast, p. 136.
 [[4]](#n19) Al-Najashi, Fihrast al-Rijal, p. 306.
 
-  
-
 next where Hujr and his companions were killed, people will be killed so
 that Allah and the people of the sky will be angry for them.'"
 
@@ -952,8 +906,6 @@ Mu'awiya replied: "We have killed them, shrouded them, prayed over them,
 and buried them." Al-Husayn, peace be on him, smiled, and then he said:"
 Mu'awiya, the people will bring suit against you  
  (before Allah). If we killed your followers, we would not  
-
-  
 
 shroud them, nor would we pray over them, nor would we bury them.
 [[1]](#r20)
@@ -999,8 +951,6 @@ after the death of al-Hasan. A similar tradition has been narrated by
 Ibn al-Athir on the authority of al Hasan al-Basri who said: "By the
 Lord of the Kaaba, they have instituted a proof against them."
 
-  
-
 Allah, even, if you cut me to pieces with razors and knifes, I will not
 say except what you have heard from me," answered Sayfi.
 
@@ -1038,8 +988,6 @@ Marj of) 'Adhra': "O Allah, make me among those whom You honor through
 their (i.e., the Umayyads') disgrace, and You are pleased with me. I
 subjected myself to killing many times, but Allah refused (that) except
 what He willed."
-
-  
 
 In his book (Ta'rikh al-Kufa, p. 274), Habbata al-'Arani has mentioned
 'Abd al-Rahman as follows: "Abd al-Rahman b. Hassan al-'Anzi was among
@@ -1079,8 +1027,6 @@ in his book 'Hayat al-Hayawan, p. 62. In the book, he has narrated the
 speech which Mu'awiya made concerning the backgrounds of 'Umar's
 resignation, which makes one feel that 'Umar was a follower of Ahl
 al-Bayt, peace be on them.
-
-  
 
 D. Qubaysa bin Rabi 'a al-'Abasi
 --------------------------------
@@ -1122,8 +1068,6 @@ He is Living, and never dies. I hope that He will
 
 [[1]](#n23) Ahmad Shahab al-Din al-'Asqalani, al-Isaba fi Tamyiz
 al-Sahaba, vol. 4, p. 294.
-
-  
 
 not leave you. Rather I hope that He will protect me for you." Then
 Qubaysa went away.
@@ -1168,8 +1112,6 @@ concerning Hujr and his companions: Al-Dinawari, Ibn al-Athir,
 al-Tabari, b. Abu al Hadid, al-Isti'ab, al-Nasa'ih al-Kafiya, and
 Ta'rikh Baghdad.
 
-  
-
 enjoy his youth. So eighty years passed and no one saw a white hair
 among his hair, in addition to this, there was handsomeness on his face,
 that increased his splendor.
@@ -1212,8 +1154,6 @@ and then he said: "It is said that it was Yazid b. Ruwaym who slandered
 'Amr b. al Hamq, and said: 'He (i.e., 'Amru) has provoked the two cities
 (i.e., Basrah and Kufa'
 
-  
-
 that. So he went to them with the horses. As for 'Amru, he reached
 Mousil while he was ill. As for Rifa'a b. Shaddad, who was a strong
 young man, he jumped on his quick horse and said to 'Amru: 'I will fight
@@ -1250,8 +1190,6 @@ covenants of Allah and His pledges. If you had given them to a bird, it
 would have come down from the top of the mountain for you. Then you
 killed him showing impudence towards your Lord and disdaining His
 covenant through that."
-
-  
 
 I (i.e., the author) say: Through this covenant, al-Husayn refers to the
 clauses of the fifth item in the Peace Treaty.
@@ -1295,8 +1233,6 @@ Shi'ites whom Mu'awiya killed. Among these reasons is
 
 [[1]](#n27) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 101.
 
-  
-
 that he was the farthest of them from the life of this world and the
 nearest of them to the life of asceticism.
 
@@ -1336,8 +1272,6 @@ he was killed. It was she who
 
 [[1]](#n28) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 102. [[2]](#n29) He
 was attributed to Hajr (i.e., Bahrain).
-
-  
 
 gathered his limbs (i.e., his hands and his legs) which b. Sumayya
 (i.e., Ziyad) cut off.
@@ -1379,8 +1313,6 @@ concealment, and make the heart an abode for trust." [[1]](#r30)
 
 [[1]](#n30) 'Abbas al-Qummi, Safiinat al-Bihar, vol. 1, p. 522.
 
-  
-
 5. Juwayriya bin Mashar al-'Abdi
 --------------------------------
 
@@ -1419,8 +1351,6 @@ but he refused to meet him. Ziyad reviewed the people so that he passed
 by Awfa and said: "who is this?" It was said to him: "Awfa b. Hisn."
 Thus Ziyad said: "His two legs have brought you a traitorous (deed)."
 Then he said to Awfa: "What do you think of  
-
-  
 
 'Uthman?" "The Apostle of Allah, may Allah bless him and his family,
 married his (i.e., 'Uthman's) two daughters," replied Awfa. Then Ziyad
@@ -1462,8 +1392,6 @@ burden shall bear the burden of another."
 
 [[1]](#n31) Ibn al-Athir, al-Kamil fi al-Ta'rikh, vol. 3, p. 183.
 Al-Tabari, Ta'rikh, pp. 130- 32.
-
-  
 
 Ziyad adhered to his immoderation. Thus the people around him suffered
 from the strongest ordeals in the world: some of them were driven to
@@ -1507,8 +1435,6 @@ Ziyad. He had been given security over his blood and his property. Ziyad
 ordered him to be shackled. Then the men began to lift him to the
 highest point and let him fall over the ground many times."
 
-  
-
 Mu'awiya knew thoroughly the internal affairs of Basrah and Kufa. Thus
 he attacked the chiefs of the people, the swordsmen, the notable
 orators, and the Shi'ite talented poets. He irritated them, imprisoned
@@ -1549,8 +1475,6 @@ Iraq, for he always plays the hypocrite. They (i.e., the Iraqis) are the
 people of hypocrisy and discord, and the party of Iblis when he becomes
 excited. His (i.e., 'Abd Allah's) desire moves him, his  
 
-  
-
 opinion makes him tyrant, and his retinues make him strong. So an evil
 deed is for an evil deed.
 
@@ -1588,8 +1512,6 @@ people who do not know you, and with the soldiers who do not bargain
 with you. If you wanted to speak to other than the Syrians, your reason
 would be confused, your tongue would be stammering, and your two thighs
 would shake like the young camel whose load has burdened it."
-
-  
 
 Thus Mu'awiya said: "Stop quarreling!" Then he ordered 'Abd Allah to be
 released. 'Amr went on blaming Mu'awiya for releasing 'Abd Allah,
@@ -1633,8 +1555,6 @@ Kasra b. Hurmoz,' he said. 'Kasra b. Hurmoz?' I asked. 'Yes,' he said,
  man will worry who will accept his alms.' 'Adi said: 'Thus  
  I have seen two (things): the howdah (al-Za'ina), and  
 
-  
-
 I was among the first horsemen who attacked the treasures of Kasra. I
 swear by Allah, the third (thing) will come." [[1]](#r33) Also he (i.e.,
 'Adi) said: 'A group of my people and I came to 'Umar. He allotted
@@ -1673,8 +1593,6 @@ al-Sahaba, vol. 4, p. 228- 29. [[2]](#n34) Ibid. [[3]](#n35) Ibid.
 [[4]](#n36) He was the fifth grandfather of 'Adi. Thus 'Adi, the
 Companion (of the Prophet) was b. Hatam b. 'Abd Allah b. Sa'd b.
 al-Hashraj b. 'Umru' al Qays b. 'Adi.
-
-  
 
 family? Wasn't he your commander at the Battle of al-Nukhayla, the
 Battle of al-Qadisiya, the Battle of al-Mada'in, the Battle of Jalawla',
@@ -1717,8 +1635,6 @@ talent)
 [[1]](#n37) Al-Tabari, Ta'rikh, vol. 6, p. 5. [[2]](#n38) Ibn al-Athir,
 al-Kamil fi al-Ta'rikh, vol. 3, p. 189.
 
-  
-
 great figures from his opponents. He (i.e., Mu'awiya) asked 'Adi:" 'Adi,
 where are the Tarafat (i.e., 'Adi's sons: Tarif, Tarif, and Tarafa)?"
 "They were killed before 'Ali b. Abu Talib at the Battle of Siffin,"
@@ -1758,8 +1674,6 @@ approached us to him when we came to him.
 ------------------------------------------------------------------------
 
 [[1]](#n39) Al-Mas'udi, Hamish b. al-Athir, vol. 6, p. 65.
-
-  
 
 Though he brought us nearer to him, and though he was near to us, we did
 not speak to him because of his prestige, nor did we look at him because
@@ -1802,8 +1716,6 @@ Allah) died with him, too.
 [[2]](#n41) Husayn al-Buraqi, Ta'rikh al-Kufa, p. 388. Ahmad Shahab
 al-Din al'Asqalani, al-Isaba fi Tamyiz al-Sahaba, vol. 4, p. 119.
 
-  
-
 3. Sa'sa'a bin Sawhan
 ---------------------
 
@@ -1845,8 +1757,6 @@ might.
 al-Sahaba, vol. 3, p. 23. [[2]](#n43) Al-Mas'udi, Hamish b. al-Athir,
 vol. 6, p. 117.
 
-  
-
 Iraqis with sharp tongues that do not fear the blame of a blamer
 concerning Allah; otherwise we will be patient till Allah judges and
 shows us His ease.' 'By Allah, your tongue will not be released,' said
@@ -1885,8 +1795,6 @@ Sa'sa'a was a prominent figure from the companions of the Commander of
 the faithful. The Commander of the faithful described him as a miserly
 orator. Then al-Jahiz described him as the most eloquent of all the
 people. When Mu'awiya entered Kufa after the  
-
-  
 
 Peace Treaty, he said to Sa'sa'a: "Indeed, by Allah, I had hated to give
 you security." Thus Sa'sa'a said:" By Allah, I hate to call you with
@@ -1927,8 +1835,6 @@ be careful of them."
 
 [[1]](#n44) 'Abbas al-Qummi, Safiinat al-Bihar, vol. 2, 31. [[2]](#n45)
 his love for Abu Turab (i.e., 'Ali, peace be on him).
-
-  
 
 Sayyid 'Abd al-Qays wrote at length about Sa'sa'a b. Sawhan to the
 extent that his details are not appropriate for our brief intention. In
@@ -1971,8 +1877,6 @@ homeland.
 [[1]](#n46) They were the two mountains of Tay: they were called Aja and
 Sahna. There was one day between them and Fadak, five nights between
 them and Khaybar, and three stages between them and Medina.
-
-  
 
 'Abd Allah remained there for a long time so that he wrote to 'Adi to
 urge him to fulfill his promise. He was a poet with an ability to

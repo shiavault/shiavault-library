@@ -30,4 +30,3 @@ her fast interferes with the fulfillment of any of his rights. The
 Hanafis observe: A woman's fasting without the permission of her husband
 is makruh, not haram.
 
-

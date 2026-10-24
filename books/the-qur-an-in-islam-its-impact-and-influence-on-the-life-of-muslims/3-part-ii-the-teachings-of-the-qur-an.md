@@ -38,7 +38,6 @@ of leading members of other religions, including the idol-worshippers of
 Mecca, Jews, Christians and by people from diverse communities, such as
 Salman of Persia, Suhayb from the Roman people, and Bilal of Ethiopia.
 
-
 **The Perfection of the Qur'an**
 
 The Qur'an shows man the way to a realization of his goal on earth; it
@@ -92,7 +91,6 @@ to consult them if he requires additional knowledge of the subject; to
 pursue the matter here, (namely, the position of the Qur'an in the lives
 of Muslims and the manner in which it demonstrates this), would be
 outside the scope of this book.
-
 
 **The Qur'an as a Self-Contained Proof**
 
@@ -162,5 +160,4 @@ Prophet has appointed the Imams of his own family as his successors.
 This is not to deny that others also, by correctly applying the
 learnings of sincere teachers, may understand the meaning of the
 Qur'an.
-
 

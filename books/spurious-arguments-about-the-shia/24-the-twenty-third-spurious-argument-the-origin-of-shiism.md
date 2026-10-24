@@ -147,4 +147,3 @@ be mixed with Qur’anic verses!
 
 Finally, we do not have save Allah to judge.
 
-

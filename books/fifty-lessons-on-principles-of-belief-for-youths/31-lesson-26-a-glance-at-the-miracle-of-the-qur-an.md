@@ -131,4 +131,3 @@ Islam as a ‘bewitcher’?
  4. What is the difference between eloquence and bewitching?  
  5. What age did the mu’alaqat sab’ refer to and what does it mean?
 
-

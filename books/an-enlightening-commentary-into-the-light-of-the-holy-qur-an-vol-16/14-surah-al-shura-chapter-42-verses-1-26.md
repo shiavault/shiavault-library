@@ -10,11 +10,7 @@ Surah al-Shura, Chapter 42, Verses 1-26
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -48,32 +44,16 @@ Divine Mercy and for whom they ask forgiveness.*[^1]
 Surah al-Shura - Verses 1 - 3
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-عسق
-  </p>
-</blockquote>
+> عسق
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَی الَّذِينَ مِنْ قَبْلِكَ اللَّهُ
-الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَی الَّذِينَ مِنْ قَبْلِكَ اللَّهُ
+> الْعَزِيزُ الْحَكِيمُ
 
 ***1. HM.***  
 ***2. ‘A-S-Q.***  
@@ -169,12 +149,8 @@ of the heavens and the earth, Who presides over the world of existence.
 Surah al-Shura - Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَلِيُّ
-الْعَظِيمُ
-  </p>
-</blockquote>
+> لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَلِيُّ
+> الْعَظِيمُ
 
 ***4. To Him belongs all that is in the heavens and all that is in the
 earth, and He is the Most High, the Most Great.***
@@ -194,13 +170,9 @@ them all. He is Superior to all existent beings.
 Surah al-Shura - Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ وَالْمَلائِكَةُ
-يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَنْ فِي الْأَرْضِ
-أَلا إِنَّ اللَّهَ هُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ وَالْمَلائِكَةُ
+> يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَنْ فِي الْأَرْضِ
+> أَلا إِنَّ اللَّهَ هُوَ الْغَفُورُ الرَّحِيمُ
 
 ***5. Nearly the heavens [through the Greatness of Revelation] might be
 rent asunder from above them and the angels glorify the praises of their
@@ -245,12 +217,8 @@ Forgiving is solely for believers.
 Surah al-Shura - Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ اللَّهُ حَفِيظٌ
-عَلَيْهِمْ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ اللَّهُ حَفِيظٌ
+> عَلَيْهِمْ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
 
 ***6. And as for those who take as guardians others besides Him, Allah
 is Protector over them and you [O Muhammad] are not a guardian over them
@@ -274,13 +242,9 @@ abyss of error.
 Surah al-Shura - Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ أَوْحَيْنَا إِلَيْكَ قُرْآناً عَرَبِيّاً لِتُنْذِرَ أُمَّ
-الْقُرَی وَمَنْ حَوْلَهَا وَتُنْذِرَ يَوْمَ الْجَمْعِ لا رَيْبَ فِيهِ
-فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ
-  </p>
-</blockquote>
+> وَكَذَلِكَ أَوْحَيْنَا إِلَيْكَ قُرْآناً عَرَبِيّاً لِتُنْذِرَ أُمَّ
+> الْقُرَی وَمَنْ حَوْلَهَا وَتُنْذِرَ يَوْمَ الْجَمْعِ لا رَيْبَ فِيهِ
+> فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ
 
 ***7. And thus We have revealed unto you [O Muhammad], a Qur’an in
 Arabic that you may warn the Mother of the Town [Mecca] and all around
@@ -333,20 +297,12 @@ vicious deeds committed in this world.
 Surah al-Shura - Verses 8 - 9
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً وَلَكِنْ يُدْخِلُ
-مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمُونَ مَا لَهُمْ مِنْ وَلِيٍّ
-وَلا نَصِيرٍ
-  </p>
-</blockquote>
+> وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً وَلَكِنْ يُدْخِلُ
+> مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمُونَ مَا لَهُمْ مِنْ وَلِيٍّ
+> وَلا نَصِيرٍ
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ فَاللَّهُ هُوَ الْوَلِيُّ
-وَهُوَ يُحْيِي الْمَوْتَی وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ فَاللَّهُ هُوَ الْوَلِيُّ
+> وَهُوَ يُحْيِي الْمَوْتَی وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 ***8. And if Allah had willed, He could have made them one nation, but
 [He provides them with free choice and] admits whom He wills to His
@@ -400,12 +356,8 @@ dead and bestow a new life to them.
 Surah al-Shura - Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا اخْتَلَفْتُمْ فِيهِ مِنْ شَيْءٍ فَحُكْمُهُ إِلَی اللَّهِ
-ذَلِكُمُ اللَّهُ رَبِّي عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
-  </p>
-</blockquote>
+> وَمَا اخْتَلَفْتُمْ فِيهِ مِنْ شَيْءٍ فَحُكْمُهُ إِلَی اللَّهِ
+> ذَلِكُمُ اللَّهُ رَبِّي عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
 ***10. And in whatsoever you differ, the decision thereof is with Allah.
 Such is Allah, my Lord in Whom I put my trust and to Him I turn in
@@ -449,13 +401,9 @@ It is incumbent upon believers to refer to the Noble Prophet of Islam
 Surah al-Shura - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ
-أَزْوَاجاً وَمِنَ الْأَنْعَامِ أَزْوَاجاً يَذْرَأُكُمْ فِيهِ لَيْسَ
-كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ
+> أَزْوَاجاً وَمِنَ الْأَنْعَامِ أَزْوَاجاً يَذْرَأُكُمْ فِيهِ لَيْسَ
+> كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ
 
 ***11. The Creator of the heavens and the earth. He has made for you
 spouses from yourselves, and for the cattle [also] mates. By this means
@@ -494,12 +442,8 @@ praise His Glory.
 Surah al-Shura - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ يَبْسُطُ الرِّزْقَ لِمَنْ
-يَشَاءُ وَيَقْدِرُ إِنَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ يَبْسُطُ الرِّزْقَ لِمَنْ
+> يَشَاءُ وَيَقْدِرُ إِنَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***12. To Him belongs the keys of the heavens and the earth. He enlarges
 provision for whom He wills, and straitens [it for whom He wills].
@@ -563,15 +507,11 @@ material world.
 Surah al-Shura - Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّی بِهِ نُوحاً وَالَّذِي
-أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَی
-وَعِيسَی أَنْ أَقِيمُوا الدِّينَ وَلا تَتَفَرَّقُوا فِيهِ كَبُرَ عَلَی
-الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ اللَّهُ يَجْتَبِي إِلَيْهِ
-مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ
-  </p>
-</blockquote>
+> شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّی بِهِ نُوحاً وَالَّذِي
+> أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَی
+> وَعِيسَی أَنْ أَقِيمُوا الدِّينَ وَلا تَتَفَرَّقُوا فِيهِ كَبُرَ عَلَی
+> الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ اللَّهُ يَجْتَبِي إِلَيْهِ
+> مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ
 
 ***13. He has ordained [from amongst religious laws] for you the same
 religion which He ordained for Noah and that which We have revealed to
@@ -630,14 +570,10 @@ the Straight Path.
 Surah al-Shura - Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَفَرَّقُوا إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْياً
-بَيْنَهُمْ وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ إِلَى أَجَلٍ
-مُسَمّیً لَقُضِيَ بَيْنَهُمْ وَإِنَّ الَّذِينَ أُورِثُوا الْكِتَابَ
-مِنْ بَعْدِهِمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ
-  </p>
-</blockquote>
+> وَمَا تَفَرَّقُوا إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْياً
+> بَيْنَهُمْ وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ إِلَى أَجَلٍ
+> مُسَمّیً لَقُضِيَ بَيْنَهُمْ وَإِنَّ الَّذِينَ أُورِثُوا الْكِتَابَ
+> مِنْ بَعْدِهِمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ
 
 ***14. And they divided not [to turn away from the Prophets] till after
 knowledge [as to their true Calling] had come unto them, through the
@@ -688,15 +624,11 @@ their hearts.
 Surah al-Shura - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلِذَلِكَ فَادْعُ وَاسْتَقِمْ كَمَا أُمِرْتَ وَلا تَتَّبِعْ
-أَهْوَاءَهُمْ وَقُلْ آمَنْتُ بِمَا أَنْزَلَ اللَّهُ مِنْ كِتَابٍ
-وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ اللَّهُ رَبُّنَا وَرَبُّكُمْ لَنَا
-أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ لا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ
-اللَّهُ يَجْمَعُ بَيْنَنَا وَإِلَيْهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> فَلِذَلِكَ فَادْعُ وَاسْتَقِمْ كَمَا أُمِرْتَ وَلا تَتَّبِعْ
+> أَهْوَاءَهُمْ وَقُلْ آمَنْتُ بِمَا أَنْزَلَ اللَّهُ مِنْ كِتَابٍ
+> وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ اللَّهُ رَبُّنَا وَرَبُّكُمْ لَنَا
+> أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ لا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ
+> اللَّهُ يَجْمَعُ بَيْنَنَا وَإِلَيْهِ الْمَصِيرُ
 
 ***15. So unto this then invite [the people of the Book, O Muhammad!
 Since they are obdurate and stand in enmity against you] and stand firm
@@ -760,13 +692,9 @@ judge between us and to Him shall return all things.”*
 Surah al-Shura - Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُحَاجُّونَ فِي اللَّهِ مِنْ بَعْدِ مَا اسْتُجِيبَ لَهُ
-حُجَّتُهُمْ دَاحِضَةٌ عِنْدَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ
-عَذَابٌ شَدِيدٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُحَاجُّونَ فِي اللَّهِ مِنْ بَعْدِ مَا اسْتُجِيبَ لَهُ
+> حُجَّتُهُمْ دَاحِضَةٌ عِنْدَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ
+> عَذَابٌ شَدِيدٌ
 
 ***16. And those who dispute concerning Allah, after they have accepted
 His Call, of no use is their dispute before their Lord and on them is
@@ -814,12 +742,8 @@ Wrath and excruciating torments.
 Surah al-Shura - Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ وَمَا
-يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ وَمَا
+> يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ
 
 ***17. It is Allah Who has sent down the Book in truth and the Balance.
 And what can make you know that perhaps the Hour is close at hand?***
@@ -865,13 +789,9 @@ at hand.
 Surah al-Shura - Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَعْجِلُ بِهَا الَّذِينَ لا يُؤْمِنُونَ بِهَا وَالَّذِينَ آمَنُوا
-مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ أَلا إِنَّ
-الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلالٍ بَعِيدٍ
-  </p>
-</blockquote>
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لا يُؤْمِنُونَ بِهَا وَالَّذِينَ آمَنُوا
+> مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ أَلا إِنَّ
+> الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلالٍ بَعِيدٍ
 
 ***18. Those who believe not therein seek to hasten it, while those who
 believe are fearful of it, and know that it is the very truth. Verily,
@@ -908,12 +828,8 @@ Path and shall sink into the abyss of humility.
 Surah al-Shura - Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ
-الْعَزِيزُ
-  </p>
-</blockquote>
+> اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ
+> الْعَزِيزُ
 
 ***19. Allah is very Gracious and Kind to His servants. He gives
 provisions to whom He wills. And He is the All-Strong, the
@@ -941,13 +857,9 @@ the Dominant, and the Victorious.
 Surah al-Shura - Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ وَمَنْ
-كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي
-الْآخِرَةِ مِنْ نَصِيبٍ
-  </p>
-</blockquote>
+> مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ وَمَنْ
+> كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي
+> الْآخِرَةِ مِنْ نَصِيبٍ
 
 ***20. Whosoever desires the reward of the Hereafter, We give him
 increase in his reward, and whosoever desires the reward of this world,
@@ -990,13 +902,9 @@ Almighty in the Hereafter.
 Surah al-Shura - Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ
-بِهِ اللَّهُ وَلَوْلا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ
-الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ
+> بِهِ اللَّهُ وَلَوْلا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ
+> الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 ***21. Or have they partners with Allah [false deities] who have
 instituted for them a religion which Allah has not ordained? And had it
@@ -1041,14 +949,10 @@ entail painful torments.
 Surah al-Shura - Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَرَی الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ
-وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي رَوْضَاتِ الْجَنَّاتِ
-لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ذَلِكَ هُوَ الْفَضْلُ
-الْكَبِيرُ
-  </p>
-</blockquote>
+> تَرَی الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ
+> وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي رَوْضَاتِ الْجَنَّاتِ
+> لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ذَلِكَ هُوَ الْفَضْلُ
+> الْكَبِيرُ
 
 ***22. You will see [on the Day of Resurrection] the wrong doers fearful
 of that which they have earned and it [chastisement] will surely befall
@@ -1090,14 +994,10 @@ on the Day of Resurrection.
 Surah al-Shura - Verse 23
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا
-وَعَمِلُوا الصَّالِحَاتِ قُلْ لا أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلَّا
-الْمَوَدَّةَ فِي الْقُرْبَی وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ
-فِيهَا حُسْناً إِنَّ اللَّهَ غَفُورٌ شَكُورٌ
-  </p>
-</blockquote>
+> ذَلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ قُلْ لا أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِلَّا
+> الْمَوَدَّةَ فِي الْقُرْبَی وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ
+> فِيهَا حُسْناً إِنَّ اللَّهَ غَفُورٌ شَكُورٌ
 
 ***23. That is [the great Bounty] whereof Allah gives glad tidings to
 His servants who believe and do righteous good deeds. Say [O Muhammad!
@@ -1614,13 +1514,9 @@ Noble Prophet’s (S) family and his descendents.
 Surah al-Shura - Verse 24
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَی عَلَی اللَّهِ كَذِباً فَإِنْ يَشَأِ اللَّهُ
-يَخْتِمْ عَلَی قَلْبِكَ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ
-بِكَلِمَاتِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَی عَلَی اللَّهِ كَذِباً فَإِنْ يَشَأِ اللَّهُ
+> يَخْتِمْ عَلَی قَلْبِكَ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ
+> بِكَلِمَاتِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
 
 ***24. Or say they: “He has invented a lie against Allah?” If Allah
 willed, He could have sealed up your heart. And Allah wipes out
@@ -1709,12 +1605,8 @@ thought over the hearts and souls of mankind.
 Surah al-Shura - Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يَقْبَلُ التَّوبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ
-السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يَقْبَلُ التَّوبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ
+> السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
 
 ***25. And He it is the One Who accepts repentance from His servants,
 and forgives sins, and He knows what you do.***
@@ -1757,12 +1649,8 @@ Almighty will forgive their sin.
 Surah al-Shura - Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ
-مِنْ فَضْلِهِ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
-  </p>
-</blockquote>
+> وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ
+> مِنْ فَضْلِهِ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
 
 ***26. And He answers [the invocations of] those who believe and do
 righteous good deeds, and gives them increase of His Bounty. And as for
@@ -1865,5 +1753,4 @@ blessed Verse in question, apud al-Muraja’at, no. 19.
 [^26]: Tafsir Nur al-Thiqalayn, under the blessed Verse in question.
 
 [^27]: Majma’ al-Bayan; Nur al-Thiqalayn.
-
 

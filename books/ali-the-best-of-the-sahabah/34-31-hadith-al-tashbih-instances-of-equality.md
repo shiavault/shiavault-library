@@ -18,22 +18,14 @@ Meanwhile, it would not be inappropriate to cite a few examples of
 equality between the Messenger of Allah and Imam ‘Ali. ‘Allamah
 al-Albani (d. 1420 H), for instance, records that the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-من أحب عليا فقد أحبني ومن أبغض عليا فقد أبغضني
-  </p>
-</blockquote>
+> من أحب عليا فقد أحبني ومن أبغض عليا فقد أبغضني
 
 Whosoever loves ‘Ali has loved me, and whosoever hates ‘Ali has hated
 me.[^1]
 
 The ‘Allamah says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^2]
 
@@ -43,13 +35,9 @@ al-Muminin, are the same. Love or hatred of either of them attracts the
 Interestingly, Imam ‘Ali was not the only one with this status. Imam Abu
 Ya’la (d. 307 H) further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو هشام الرفاعي حدثنا ابن فضيل حدثنا سالم بن أبي حفصة عن أبي
-حازم عن أبي هريرة قال : قال رسول الله ـ صلى الله عليه و سلم :من أحب
-الحسن والحسين فقد أحبني ومن أبغضهما فقد أبغضني
-  </p>
-</blockquote>
+> حدثنا أبو هشام الرفاعي حدثنا ابن فضيل حدثنا سالم بن أبي حفصة عن أبي
+> حازم عن أبي هريرة قال : قال رسول الله ـ صلى الله عليه و سلم :من أحب
+> الحسن والحسين فقد أحبني ومن أبغضهما فقد أبغضني
 
 Abu Hisham al-Rufa’i – Ibn Fudhayl – Salim b. Abi Hafsah – Abu Hazim –
 Abu Hurayrah:
@@ -60,24 +48,16 @@ me.”[^3]
 
 Shaykh Dr. Asad says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن
-  </p>
-</blockquote>
+> إسناده حسن
 
 Its chain is *hasan*.[^4]
 
 Imam Ibn Majah (d. 273 H) has also recorded the *hadith* through a
 different *ṭariq* (route):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن محمد حدثنا وكيع عن سفيان عن داود بن أبي عوف أبي الجحاف
-وكان مرضيا عن أبي حازم عن أبي هريرة قال قال رسول الله صلى الله عليه
-وسلم من أحب الحسن والحسين فقد أحبني ومن أبغضهما فقد أبغضني
-  </p>
-</blockquote>
+> حدثنا علي بن محمد حدثنا وكيع عن سفيان عن داود بن أبي عوف أبي الجحاف
+> وكان مرضيا عن أبي حازم عن أبي هريرة قال قال رسول الله صلى الله عليه
+> وسلم من أحب الحسن والحسين فقد أحبني ومن أبغضهما فقد أبغضني
 
 ‘Ali b. Muhammad – Waki’ – Sufyan – Dawud b. Abi ‘Awf Abi al-Jihaf – Abu
 Hazim – Abu Hurayrah:
@@ -88,21 +68,13 @@ me.”[^5]
 
 ‘Abd al-Baqi states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح، رجاله ثقات.
-  </p>
-</blockquote>
+> إسناده صحيح، رجاله ثقات.
 
 Its chain is *sahih*. Its narrators are trustworthy.[^6]
 
 ‘Allamah al-Albani also comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^7]
 
@@ -117,12 +89,8 @@ them. Their love is one indivisible entity, and so is their hatred.
 The significance of the above reports is better reflected in this
 *hadith*, copied by ‘Allamah al-Albani:
 
-<blockquote dir="rtl">
-  <p>
-من أحب عليا فقد أحبني ومن أحبني فقد أحب الله عز وجل ومن أبغض عليا فقد
-أبغضني ومن أبغضني فقد أبغض الله عز وجل.
-  </p>
-</blockquote>
+> من أحب عليا فقد أحبني ومن أحبني فقد أحب الله عز وجل ومن أبغض عليا فقد
+> أبغضني ومن أبغضني فقد أبغض الله عز وجل.
 
 Whosoever loves ‘Ali has loved me. And whosoever loves me has loved
 Allah the Almighty. Moreover, whosoever hates ‘Ali has hated me**. And
@@ -155,14 +123,10 @@ Our focus at this point, of course, is only Amir al-Muminin.
 Another area of equality between the Prophet of Allah and Imam ‘Ali is
 indicated in this *hadith* documented by Imam Ahmad (d. 241 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبى ثنا يحيى بن أبى بكير قال ثنا إسرائيل عن أبى
-إسحاق عن أبي عبد الله الجدلي قال دخلت على أم سلمة فقالت لي أيسب رسول
-الله صلى الله عليه و سلم فيكم قلت معاذ الله أو سبحان الله أو كلمة
-نحوها قالت سمعت رسول الله صلى الله عليه و سلم يقول من سب عليا فقد سبني
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبى ثنا يحيى بن أبى بكير قال ثنا إسرائيل عن أبى
+> إسحاق عن أبي عبد الله الجدلي قال دخلت على أم سلمة فقالت لي أيسب رسول
+> الله صلى الله عليه و سلم فيكم قلت معاذ الله أو سبحان الله أو كلمة
+> نحوها قالت سمعت رسول الله صلى الله عليه و سلم يقول من سب عليا فقد سبني
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya b. Abi
 Bukayr – Israil – Abu Ishaq – Abu ‘Abd Allah al-Jadali:
@@ -175,21 +139,13 @@ me**.’”[^10]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^11]
 
 Imam al-Haythami (d. 807 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-رواه أحمد ورجاله رجال الصحيح غير أبي عبد الله الجدلي وهو ثقة
-  </p>
-</blockquote>
+> رواه أحمد ورجاله رجال الصحيح غير أبي عبد الله الجدلي وهو ثقة
 
 Ahmad recorded it, and its narrators are narrators of the *Sahih*, apart
 from Abu ‘Abd Allah al-Jadali and he was trustworthy.[^12]
@@ -197,21 +153,13 @@ from Abu ‘Abd Allah al-Jadali and he was trustworthy.[^12]
 Imam al-Hakim (d. 403 H) too has this verdict upon the exact same
 *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^13]
 
 And Imam al-Dhahabi (d. 748 H) agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^14]
 
@@ -221,51 +169,31 @@ guilty of hating Allah. Looking further, there is yet another point of
 equality between the Nabi and the Amir. ‘Allamah al-Albani documents
 this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-من آذى عليا فقد آذاني
-  </p>
-</blockquote>
+> من آذى عليا فقد آذاني
 
 Whosoever hurts ‘Ali has hurt me.[^15]
 
 The ‘Allamah states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^16]
 
 Imam al-Hakim also comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^17]
 
 Imam al-Dhahabi affirms the verdict:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^18]
 
 Imam al-Haythami also declares about this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-رواه أحمد ... ورجال أحمد ثقات
-  </p>
-</blockquote>
+> رواه أحمد ... ورجال أحمد ثقات
 
 Ahmad recorded ... and the narrators of Ahmad are trustworthy.[^19]
 
@@ -273,11 +201,7 @@ In Islam, to hurt someone means to do anything that causes physical or
 emotional discomfort to them. For example, notice what Allah has said
 here:
 
-<blockquote dir="rtl">
-  <p>
-واللذان يأتيانها منكم فآذوهما
-  </p>
-</blockquote>
+> واللذان يأتيانها منكم فآذوهما
 
 And the two persons among you who commit it (i.e. fornication), hurt
 them both.[^20]
@@ -285,12 +209,8 @@ them both.[^20]
 This is clearly about physical hurt. Let us compare that with this noble
 verse:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا لا تكونوا كالذين آذوا موسى فبرأه الله مما قالوا
-وكان عند الله وجيها
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا لا تكونوا كالذين آذوا موسى فبرأه الله مما قالوا
+> وكان عند الله وجيها
 
 O you who believe! Do not be like those who hurt Musa, but Allah cleared
 him of that which they said, and he was honourable before Allah.[^21]
@@ -300,16 +220,12 @@ statements apparently hurt the feelings and image of this noble prophet.
 Therefore, to Allah, they had thereby hurt him. Another example is given
 in this *hadith* documented by Imam al-Hakim:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني محمد بن أحمد بن تميم القنطري ثنا أبو قلابة الرقاشي ثنا أبو عاصم
-عن عبد الله بن المؤمل حدثني أبو بكر بن عبيد الله بن أبي ملكية عن أبيه
-قال جاء رجل من أهل الشام فسب عليا عند ابن عباس فحصبه ابن عباس فقال :
-يا عدو الله آذيت رسول الله صلى الله عليه وسلم إن الذين يؤذون الله
-ورسوله لعنهم الله في الدنيا والآخرة وأعد لهم عذايا مهينا لو كان رسول
-الله صلى الله عليه وسلم حيا لآذيته
-  </p>
-</blockquote>
+> أخبرني محمد بن أحمد بن تميم القنطري ثنا أبو قلابة الرقاشي ثنا أبو عاصم
+> عن عبد الله بن المؤمل حدثني أبو بكر بن عبيد الله بن أبي ملكية عن أبيه
+> قال جاء رجل من أهل الشام فسب عليا عند ابن عباس فحصبه ابن عباس فقال :
+> يا عدو الله آذيت رسول الله صلى الله عليه وسلم إن الذين يؤذون الله
+> ورسوله لعنهم الله في الدنيا والآخرة وأعد لهم عذايا مهينا لو كان رسول
+> الله صلى الله عليه وسلم حيا لآذيته
 
 Muhammad b. Ahmad b. Tamim al-Qanṭari – Abu Qilabah al-Raqashi – Abu
 ‘Asim – ‘Abd Allah b. al-Mu-mal – Abu Bakr b. ‘Ubayd Allah b. Abi
@@ -325,21 +241,13 @@ hurt him.”[^22]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^23]
 
 Imam al-Dhahabi also states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^24]
 
@@ -372,12 +280,8 @@ is committed.
 Ibn ‘Abbas, *radhiyallahu ‘anhu*, quoted this verse as applying to all
 cases where ‘Ali has been hurt:
 
-<blockquote dir="rtl">
-  <p>
-إن الذين يؤذون الله ورسوله لعنهم الله في الدنيا والآخرة وأعد لهم عذابا
-مهينا
-  </p>
-</blockquote>
+> إن الذين يؤذون الله ورسوله لعنهم الله في الدنيا والآخرة وأعد لهم عذابا
+> مهينا
 
 Verily, those who hurt Allah and His Messenger, Allah has cursed them in
 this world, and in the Hereafter, and has prepared for them a
@@ -393,12 +297,8 @@ in the case of the Amir.
 By contrast, if any believer - other than ‘Ali - had been hurt, the
 applicable laws are different! Our Creator states:
 
-<blockquote dir="rtl">
-  <p>
-والذين يؤذون المؤمنين والمؤمنات بغير ما اكتسبوا فقد احتملوا بهتانا
-وإثما مبينا
-  </p>
-</blockquote>
+> والذين يؤذون المؤمنين والمؤمنات بغير ما اكتسبوا فقد احتملوا بهتانا
+> وإثما مبينا
 
 And those who hurt the believing men and women undeservedly bear on
 themselves the crime of slander and plain sin.[^26]
@@ -497,5 +397,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 3, p.
 [^25]: Qur’an 33:57
 
 [^26]: Qur’an 33:58
-
 

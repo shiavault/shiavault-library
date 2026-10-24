@@ -8,4 +8,3 @@ Ja’far as-Sadiq, on whom be peace.[^1]
 [^1]: These are canons of hadith criticism and hardly to be expected in
 a creed.
 
-

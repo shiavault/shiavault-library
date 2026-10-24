@@ -268,4 +268,3 @@ revealed about the Negus and his companions: {And if they hear what was
 sent down to the Messenger you will see their eyes flooding with
 tears}14
 
-

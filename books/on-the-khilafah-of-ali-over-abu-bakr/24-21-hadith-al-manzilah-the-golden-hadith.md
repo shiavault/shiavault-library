@@ -3,18 +3,10 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-قال الرافضي الثالث قوله أنت مني بمنزلة هارون من موسى إلا انه لا نبي
-بعدي....
-  </p>
-</blockquote>
+> قال الرافضي الثالث قوله أنت مني بمنزلة هارون من موسى إلا انه لا نبي
+> بعدي....
 
-<blockquote dir="rtl">
-  <p>
-والجواب أن هذا الحديث ثبت في الصحيحين بلا ريب وغيرهما
-  </p>
-</blockquote>
+> والجواب أن هذا الحديث ثبت في الصحيحين بلا ريب وغيرهما
 
 The Rafidhi said: The third (point) is his statement (to ‘Ali), “**You
 are to me of the status of Harun to Musa**, except that there is no
@@ -28,15 +20,11 @@ submits to the truth about the authenticity of a pro-‘Ali *hadith*! As
 he has conceded, the *hadith* is certainly *sahih*. Imam Muslim (d. 261
 H) too recorded it in his *Sahih* in confirmation of this:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى بن يحيى التميمي وأبو جعفر محمد بن الصباح وعبيدالله
-القواريري وسريج بن يونس كلهم عن يوسف بن الماجشون (واللفظ لابن الصباح)
-حدثنا يوسف أبو سلمة الماجشون حدثنا محمد بن المنكدر عن سعيد بن المسيب
-عن عامر بن سعد ابن أبي وقاص عن أبيه قال قال رسول الله صلى الله عليه و
-سلم لعلي أنت مني بمنزلة هارون من موسى إلا أنه لا نبي بعدي
-  </p>
-</blockquote>
+> حدثنا يحيى بن يحيى التميمي وأبو جعفر محمد بن الصباح وعبيدالله
+> القواريري وسريج بن يونس كلهم عن يوسف بن الماجشون (واللفظ لابن الصباح)
+> حدثنا يوسف أبو سلمة الماجشون حدثنا محمد بن المنكدر عن سعيد بن المسيب
+> عن عامر بن سعد ابن أبي وقاص عن أبيه قال قال رسول الله صلى الله عليه و
+> سلم لعلي أنت مني بمنزلة هارون من موسى إلا أنه لا نبي بعدي
 
 Yahya b. Yahya al-Tamimi, Abu Ja’far Muhammad b. al-Sabah, ‘Ubayd Allah
 al-Qawariri and Surayj b. Yunus – Yunus b. al-Majishun – Yusuf Abu
@@ -49,14 +37,10 @@ after me.”[^2]
 
 Imam Ahmad (d. 241 H) as well documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبى ثنا يحيى بن سعيد عن موسى الجهني قال دخلت على
-فاطمة بنت على فقال لها رفيقي أبو سهل كم لك قالت ستة وثمانون سنة قال ما
-سمعت من أبيك شيئا قالت حدثتني أسماء بنت عميس ان رسول الله صلى الله
-عليه و سلم قال لعلي أنت مني بمنزلة هارون من موسى الا أنه ليس بعدي نبي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبى ثنا يحيى بن سعيد عن موسى الجهني قال دخلت على
+> فاطمة بنت على فقال لها رفيقي أبو سهل كم لك قالت ستة وثمانون سنة قال ما
+> سمعت من أبيك شيئا قالت حدثتني أسماء بنت عميس ان رسول الله صلى الله
+> عليه و سلم قال لعلي أنت مني بمنزلة هارون من موسى الا أنه ليس بعدي نبي
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya b. Sa’id –
 Musa al-Juhani – Fatimah bint ‘Ali – Asma bint ‘Umays:
@@ -67,11 +51,7 @@ after me.”[^3]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^4]
 
@@ -79,13 +59,9 @@ We need not extend our research on the authenticity of the *hadith*,
 since there is no denial of it. So, we will simply cap the above with
 these words of Imam al-Kattani (d. 1345 H) about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-وقد تتبع ابن عساكر طرقه في جزء فبلغ عدد الصحابة فيه نيفا عشرين وفي شرح
-الرسالة للشيخ جسوس رحمه الله ما نصه وحديث أنت مني بمنزلة هارون من موسى
-متواتر جاء عن نيف وعشرين صحابيا
-  </p>
-</blockquote>
+> وقد تتبع ابن عساكر طرقه في جزء فبلغ عدد الصحابة فيه نيفا عشرين وفي شرح
+> الرسالة للشيخ جسوس رحمه الله ما نصه وحديث أنت مني بمنزلة هارون من موسى
+> متواتر جاء عن نيف وعشرين صحابيا
 
 Ibn Asakir investigated its chains in a volume, and the number of the
 Sahabah who narrated it (in his research) reached more than twenty. In
@@ -100,29 +76,21 @@ the *status* of Prophet Harun, *‘alaihi al-salam*, to Prophet Musa,
 *‘alaihi al-salam*? Of course, he does! However, he has limited the
 circumstance and the scope to just a one-off event:
 
-<blockquote dir="rtl">
-  <p>
-كان النبي صلى الله عليه و سلم قال له ذلك في غزوة تبوك وكان صلى الله
-عليه و سلم كلما سافر في غزوة أو عمرة أو حج يستخلف على المدينة بعض
-الصحابة....
-  </p>
-</blockquote>
+> كان النبي صلى الله عليه و سلم قال له ذلك في غزوة تبوك وكان صلى الله
+> عليه و سلم كلما سافر في غزوة أو عمرة أو حج يستخلف على المدينة بعض
+> الصحابة....
 
-<blockquote dir="rtl">
-  <p>
-وبالجملة فمن المعلوم انه كان لا يخرج من المدينة حتى يستخلف وقد ذكر
-المسلمون من كان يستخلفه فقد سافر من المدينة في عمرتين عمرة الحديبية
-وعمرة القضاء وفي حجة الوداع وفي مغازيه اكثر من عشرين غزاة وفيها كلها
-استخلف وكان يكون بالمدينة رجال كثيرون يستخلف عليهم من يستخلفه فلما كان
-في غزوة تبوك لم يأذن لاحد في التخلف عنها وهي آخر مغازيه صلى الله عليه
-و سلم ولم يجتمع معه أحد كما اجتمع معه فيها فلم يتخلف عنه إلا النساء و
-الصبيان أو من هو معذور لعجزه عن الخروج أو من هو منافق و تخلف الثلاثة
-الذين تيب عليهم و لم يكن في المدينة رجال من المؤمنين يستخلف عليهم كما
-كان يستخلف عليهم في كل مرة بل كان هذا الاستخلاف اضعف من الاستخلافات
-المعتادة منه لأنه لم يبق في المدينة رجال من المؤمنين أقوياء يستخلف
-عليهم أحدا كما كان يبقى في جميع مغازيه
-  </p>
-</blockquote>
+> وبالجملة فمن المعلوم انه كان لا يخرج من المدينة حتى يستخلف وقد ذكر
+> المسلمون من كان يستخلفه فقد سافر من المدينة في عمرتين عمرة الحديبية
+> وعمرة القضاء وفي حجة الوداع وفي مغازيه اكثر من عشرين غزاة وفيها كلها
+> استخلف وكان يكون بالمدينة رجال كثيرون يستخلف عليهم من يستخلفه فلما كان
+> في غزوة تبوك لم يأذن لاحد في التخلف عنها وهي آخر مغازيه صلى الله عليه
+> و سلم ولم يجتمع معه أحد كما اجتمع معه فيها فلم يتخلف عنه إلا النساء و
+> الصبيان أو من هو معذور لعجزه عن الخروج أو من هو منافق و تخلف الثلاثة
+> الذين تيب عليهم و لم يكن في المدينة رجال من المؤمنين يستخلف عليهم كما
+> كان يستخلف عليهم في كل مرة بل كان هذا الاستخلاف اضعف من الاستخلافات
+> المعتادة منه لأنه لم يبق في المدينة رجال من المؤمنين أقوياء يستخلف
+> عليهم أحدا كما كان يبقى في جميع مغازيه
 
 **The Prophet, peace be upon him, said it (i.e. the** ***hadith*****) to
 him (i.e. ‘Ali) during the Battle of Tabuk**. Meanwhile, whenever he
@@ -167,25 +135,17 @@ never extended beyond the Battle of Tabuk. Moreover, it was limited
 It is very apparent that our Shaykh considers *Hadith al-Manzilah* to be
 specifically linked with the words of Musa in this verse:
 
-<blockquote dir="rtl">
-  <p>
-وقال موسى لأخيه هارون اخلفني في قومي
-  </p>
-</blockquote>
+> وقال موسى لأخيه هارون اخلفني في قومي
 
 Musa said to his brother, Harun: “**Be my** ***khalifah*** **over my
 people**.”[^7]
 
 Explaining the connection, Shaykh Ibn Taymiyyah says:
 
-<blockquote dir="rtl">
-  <p>
-و قيل أن بعض المنافقين طعن فيه و قال أنما خلفه لانه يبغضه فبين له
-النبي صلى الله عليه و سلم اني إنما استخلفتك لأمانتك عندي و أن
-الاستخلاف ليس بنقص و لا غض فإن موسى استخلف هارون على قومه فكيف يكون
-نقصا و موسى ليفعله بهارون فطيب بذلك قلب علي
-  </p>
-</blockquote>
+> و قيل أن بعض المنافقين طعن فيه و قال أنما خلفه لانه يبغضه فبين له
+> النبي صلى الله عليه و سلم اني إنما استخلفتك لأمانتك عندي و أن
+> الاستخلاف ليس بنقص و لا غض فإن موسى استخلف هارون على قومه فكيف يكون
+> نقصا و موسى ليفعله بهارون فطيب بذلك قلب علي
 
 It is said that some hypocrites condemned him (i.e. ‘Ali), and said that
 he (the Prophet) only made him (i.e. ‘Ali) a *khalifah* because he (the
@@ -220,14 +180,10 @@ In fact, the Prophet further specifically explained the *khilafah*
 component of the Harun-‘Ali comparison in a way that knocks out Shaykh
 Ibn Taymiyyah! Ibn Abi ‘Asim (d. 287 H) records:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
-أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
-وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
-في كل مؤمن من بعدي.
-  </p>
-</blockquote>
+> ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
+> أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
+> وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
+> في كل مؤمن من بعدي.
 
 Muhammad b. al-Muthanna – Yahya b. Hammad – Abu ‘Awanah – Yahya b.
 Sulaym **Abu Balj** – ‘Amr b. Maymun – **Ibn ‘Abbas**: The Messenger of
@@ -237,21 +193,13 @@ are my** ***khalifah*** **over EVERY BELIEVER after me**.”[^9]
 
 Dr. Al-Jawabirah says:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن.
-  </p>
-</blockquote>
+> اسناده حسن.
 
 Its chain is *hasan*.[^10]
 
 ‘Allamah al-Albani agrees:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن.
-  </p>
-</blockquote>
+> إسناده حسن.
 
 Its chain is *hasan*.[^11]
 
@@ -275,20 +223,12 @@ between Harun and ‘Ali to mere *khilafah*, to begin with! ‘Allamah
 al-Albani, for instance, states:
 
 > أخرجه أحمد فى " المسند " (1/170) : حدثنا أبو سعيد مولى بنى هاشم حدثنا
-<blockquote dir="rtl">
-  <p>
-سليمان بن بلال حدثنا الجعيد بن عبد الرحمن عن عائشة بنت سعد عن أبيها: "
-أن عليا رضى الله عنه خرج مع النبى صلى الله عليه وسلم حتى جاء ثنية
-الوداع , وعلى رضى الله عنه يبكى , يقول: تخلفنى مع الخوالف؟ فقال: أما
-ترضى أن تكون منى بمنزلة هارون من موسى إلا النبوة؟ ".
-  </p>
-</blockquote>
+> سليمان بن بلال حدثنا الجعيد بن عبد الرحمن عن عائشة بنت سعد عن أبيها: "
+> أن عليا رضى الله عنه خرج مع النبى صلى الله عليه وسلم حتى جاء ثنية
+> الوداع , وعلى رضى الله عنه يبكى , يقول: تخلفنى مع الخوالف؟ فقال: أما
+> ترضى أن تكون منى بمنزلة هارون من موسى إلا النبوة؟ ".
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح على شرط البخارى
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح على شرط البخارى
 
 Ahmad recorded it in *al-Musnad* (1/170): Abu Sa’id, freed slave of Banu
 Hashim – Sulayman b. Bilal – al-Ja’id b. ‘Abd al-Rahman – ‘Aishah bint
@@ -305,11 +245,7 @@ I say: This chain is *sahih* upon the standard of al-Bukhari.[^12]
 
 Shaykh al-Arnaut agrees with him about the same *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط البخاري
-  </p>
-</blockquote>
+> إسناده صحيح على شرط البخاري
 
 Its chain is *sahih* upon the standard of al-Bukhari.[^13]
 
@@ -331,14 +267,10 @@ children were all in Madinah, while only men were in the army at
 Thaniyyah al-Wada’. In the light of this, let us examine this *hadith*
 documented by Imam Ahmad:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الله بن نمير قال ثنا موسى الجهني قال
-حدثتني فاطمة بنت علي قالت حدثتني أسماء بنت عميس قالت سمعت رسول الله
-صلى الله عليه و سلم يقول يا علي أنت مني بمنزلة هارون من موسى الا انه
-ليس بعدي نبي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الله بن نمير قال ثنا موسى الجهني قال
+> حدثتني فاطمة بنت علي قالت حدثتني أسماء بنت عميس قالت سمعت رسول الله
+> صلى الله عليه و سلم يقول يا علي أنت مني بمنزلة هارون من موسى الا انه
+> ليس بعدي نبي
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd Allah b.
 Numayr – Musa al-Juhani – Fatimah bint ‘Ali – Asma bint ‘Umays:
@@ -349,11 +281,7 @@ prophet after me.”[^14]
 
 Al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^15]
 
@@ -366,18 +294,14 @@ him with Ibn ‘Abbas’ claim, *radhiyallahu ‘anhu*, that the “merit” in
 the *hadith* belonged *exclusively* to ‘Ali! Imam al-Hakim (d. 403 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
-عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
-أبو بلج ثنا عمرو بن ميمون ....قال ابن عباس :.... وقعوا في رجل له بضع
-عشرة فضائل ليست لأحد غيره.... وخرج رسول الله صلى الله عليه وسلم في
-غزوة تبوك وخرج بالناس معه قال فقال له علي : أخرج معك قال : فقال النبي
-صلى الله عليه وسلم لا فبكى علي فقال له : أما ترضى أن تكون مني بمنزلة
-هارون من موسى إلا أنه ليس بعدي نبي إنه لا ينبغي أن أذهب إلا وأنت
-خليفتي
-  </p>
-</blockquote>
+> أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
+> عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
+> أبو بلج ثنا عمرو بن ميمون ....قال ابن عباس :.... وقعوا في رجل له بضع
+> عشرة فضائل ليست لأحد غيره.... وخرج رسول الله صلى الله عليه وسلم في
+> غزوة تبوك وخرج بالناس معه قال فقال له علي : أخرج معك قال : فقال النبي
+> صلى الله عليه وسلم لا فبكى علي فقال له : أما ترضى أن تكون مني بمنزلة
+> هارون من موسى إلا أنه ليس بعدي نبي إنه لا ينبغي أن أذهب إلا وأنت
+> خليفتي
 
 Abu Bakr Ahmad b. Ja’far b. Hamadan al-Qati’i – ‘Abd Allah b. Ahmad b.
 Hanbal – my father (Ahmad b. Hanbal) – Yahya b. Hammad – Abu ‘Awanah –
@@ -394,21 +318,13 @@ Verily, it is not right that I depart except with you as my
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^17]
 
 Al-Dhahabi (d. 748 H) backs him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^18]
 
@@ -475,5 +391,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 3, p.
 [^17]: Ibid
 
 [^18]: Ibid
-
 

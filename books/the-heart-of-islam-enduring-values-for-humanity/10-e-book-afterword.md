@@ -408,7 +408,7 @@ Urdu and Turkish, the term tamaddun or madaniyyat usually used for
 civilization are also related to the word madam, which likewise means
 town or city.
 
-2 Coomaraswamy, op. cit, p.[^2]:
+2 Coomaraswamy, op. cit, p.2.
 
 3 Ibid., p. [^2]:
 

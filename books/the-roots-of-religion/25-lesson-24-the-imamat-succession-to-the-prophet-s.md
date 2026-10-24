@@ -362,4 +362,3 @@ Ghayat al-Maryam p. 212.
 
 [^8]: Usul Kafi, vol. I, p. 171-173.
 
-

@@ -15,4 +15,3 @@ chicks. Don’t you know that you should not pester any animal?”
  Little Taqi, with watering eyes, said “Father, do not sell them, we
 will not pester them anymore”.
 
-

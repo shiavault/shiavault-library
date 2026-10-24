@@ -217,4 +217,3 @@ not be done to them. 17:71)
 [^8]: Quoted from Bihar ul-Anwar; Kitab ul-Ashara, page 184 (as quoted
 from al-Kafi).
 
-

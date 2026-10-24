@@ -178,7 +178,6 @@ see him in person. It will not lawful for you to pronounce his name." I
 then asked, "How then will we speak of him?" He said, "Say, 'The Divine
 Authority from the family of Muhammad (s.a)."
 
-
 Chapter 76 : Tacit and Explicit Testimony as proof of the owner of the
 House's (a.s.) Divine Authority over the people abu Muhammad al-Hassan
 (a.s.) H 860, Ch. 76, h 1
@@ -263,5 +262,4 @@ greenish black hair between his neck and belly. The Imam (a.s.) said,
 "This is you master (Leader with Divine Authority). Then he ordered her
 to take him and she obeyed. Ever since I did not see him until abu
 Muhammad (a.s.) left this world."
-
 

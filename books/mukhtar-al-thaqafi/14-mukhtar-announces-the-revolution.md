@@ -20,4 +20,3 @@ Thursday night, Rabi al-Awwal 14th, 66 A.H.
 The spies were reporting about Mukhtar's movements. Meanwhile, the
 police were roaming through the streets of Kufa.
 
-

@@ -248,4 +248,3 @@ who has the power to create (*Kawn al-wājib ḥayth yakhluq idhā shā’* ),
 but not one who has performed the act of creation, in that case, they
 will be reduced to attributes of essence.
 
-

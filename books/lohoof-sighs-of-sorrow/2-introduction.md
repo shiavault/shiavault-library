@@ -193,4 +193,3 @@ the words with an appropriate spirit, given the title Al- Malhoof ala
 Qatlat Tafoof to it, and have arranged it in three parts; we seek help
 from the Merciful Lord.
 
-

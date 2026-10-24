@@ -70,12 +70,8 @@ no doubt that this matter could not become lasting except by faith. Thus
 if faith is proved in this aspect, brotherhood would also be proved with
 regard to the Holy Prophet (S). Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
-ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
+> ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ
 
 ***“The apostle believes in what has been revealed to him from his Lord,
 and (so do) the believers; they all believe in Allah and His angels and
@@ -105,12 +101,8 @@ From the above discussion, it becomes clear that the proofs on which
 Sunnis rely to prove their superiority are weak as it is mentioned in
 the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا
-تَحْزَنْ إِنَّ اللَّهَ مَعَنَا
-  </p>
-</blockquote>
+> ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا
+> تَحْزَنْ إِنَّ اللَّهَ مَعَنَا
 
 ***“He being the second of the two, when they were both in the cave,
 when he said to his companion: Grieve not, surely Allah is with us.”
@@ -197,17 +189,9 @@ of the Holy Prophet (S) is superior to the cave and we see that
 believers, hypocrites and disbelievers often came together there. It is
 this the Almighty Allah has mentioned in the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ .
-  </p>
-</blockquote>
+> فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ .
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ.
-  </p>
-</blockquote>
+> عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ.
 
 ***“But what is the matter with those who disbelieve that they hasten on
 around you, On the right hand and on the left, in sundry parties?”
@@ -222,12 +206,8 @@ addition to the Holy Prophet (S)” is weaker than the first two claims
 because the title of companion is applicable to the believer as well as
 a disbeliever and the evidence of this is the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ
-مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا
-  </p>
-</blockquote>
+> قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ
+> مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا
 
 ***“His companion said to him while disputing with him: Do you
 disbelieve in Him Who created you from dust, then from a small seed,
@@ -237,11 +217,7 @@ Also the word of companion is applicable to man as well as an animal –
 the evidence of this is the saying of the Arabs – as the Holy Qur’an is
 revealed in that language and the Almighty Allah has said that:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ
 
 ***“And We did not send any apostle but with the language of his
 people.” (Qur’an, Surah Ibrahim 14:4)***
@@ -283,11 +259,7 @@ The Holy Prophet (S) informed that the Almighty Allah was with him and
 he has used the plural form of ‘I’ (that is ‘we’) as is found in many
 verses of the Holy Qur’an. For example the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ***“Surely We have revealed the Reminder and We will most surely be its
 guardian.” (Qur’an, Surah Hijr 15:9)***
@@ -316,12 +288,8 @@ tranquility on the Holy Prophet (S) at two other instances when
 believers were also present with His Eminence. He included them also and
 said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
-وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ
-  </p>
-</blockquote>
+> فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
+> وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ
 
 ***“But Allah sent down His tranquility on His Apostle and on the
 believers, and made them keep the word of guarding (against evil).”
@@ -329,12 +297,8 @@ believers, and made them keep the word of guarding (against evil).”
 
 At another occasion He says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى
-الْمُؤْمِنِينَ وَأَنْزَلَ جُنُودًا لَمْ تَرَوْهَا
-  </p>
-</blockquote>
+> ثُمَّ أَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى
+> الْمُؤْمِنِينَ وَأَنْزَلَ جُنُودًا لَمْ تَرَوْهَا
 
 ***“Then Allah sent down His tranquility upon His Apostle and upon the
 believers, and sent down hosts which you did not see.” (Qur’an, Surah
@@ -398,5 +362,4 @@ wonderful secrets.
 [^3]: Biharul Anwar; Vol. 52, Pg. 129-130
 
 [^4]: Al-Ihtijaaj; Vol. 2, Pg. 326-328
-
 

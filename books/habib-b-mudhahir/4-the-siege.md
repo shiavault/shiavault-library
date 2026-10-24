@@ -44,4 +44,3 @@ Qurra said:
 *I'll tell Umar about Imam Husayn's answer. Then I'll consider your
 request.*
 
-

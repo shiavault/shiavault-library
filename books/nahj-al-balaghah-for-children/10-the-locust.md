@@ -25,4 +25,3 @@ to grip with.
 
 (Sermon 185)
 
-

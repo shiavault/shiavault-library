@@ -111,7 +111,6 @@ incarnated God; Noor-e- Jihan publications; p. 20-24.
 could not fill the vessel that was Christ. All these are mere
 superstitions that have come to afflict the Christian writers.
 
-
 **Chapter 5: Islamic Teachings Concerning God and Jesus Christ**
 
 "Say: He, Allah, is the single one. Allah is He whom all depends. He
@@ -300,7 +299,6 @@ by the law of Torah!"
 This young man had many other things to say which cannot be described
 in detail within the limited space of this chapter.
 
-
 **Chapter 6: The History of the New Testament**
 
 Christian scholars believe that Jesus Christ has not left behind any
@@ -463,5 +461,4 @@ In short, it must be said that the New Testament that has been
 constantly at the mercy of events and mysterious manipulations is in no
 way reliable and trustworthy and could not be considered the work of the
 Disciples of Jesus.
-
 

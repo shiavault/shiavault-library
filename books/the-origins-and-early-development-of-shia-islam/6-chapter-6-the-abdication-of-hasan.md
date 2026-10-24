@@ -1808,4 +1808,3 @@ fi'l-Ta'rikh, (Beirut, 1965)111, pp. 508-11
 [^104]: See references quoted above in notes 103 and 104 and also
 Tabari, II, pp. 175 f.
 
-

@@ -80,7 +80,7 @@ Prophet, we abstained from citing for sake of brevity.
 In order to instill this tenet and belief in the minds of Muslims, they
 (narrators) cited a hadith ascribed to the Prophet that he said:
 "Whoever denies al-Mahdi has denied God, and whoever denies al-Dajjal
-has denied God (turned an infidel)." <span id="_anchor_448"></span>448
+has denied God (turned an infidel)." 448
 
 ### Age of the World
 
@@ -89,7 +89,7 @@ the age of the world being seven thousand years. He indicated that the
 life of this Ummah will exceed one thousand years, but the excess never
 amounting to five hundred years. For proving this, he deduced reports
 stated by al-Suyuti in his treatise which he named: "al-Kashf’an
-mujawazat hadhihi al-ummah al-alf." <span id="_anchor_449"></span>449
+mujawazat hadhihi al-ummah al-alf." 449
  (Exposing of this Ummah exceeding thousand years). Al-Alusi said: If
 al-Mahdi does not appear at the end of the current century whatever he
 foretold of will be destroyed. And as is not hidden for you, everything
@@ -103,7 +103,7 @@ foretold
 of and confused in.
 
 In his Maqaddimah, Ibn Khaldun said: They said: the rise of al-Dajjal
-will be in the year 743 H. <span id="_anchor_450"></span>450  Discussion
+will be in the year 743 H. 450  Discussion
 of this subject may be prolonged with no avail. Besides, I abandoned to
 cite any reports about the seditions that occurred, and provisions of
 the hour (of appearance), and descension of Jesus, that were filling the
@@ -126,7 +126,7 @@ people think in his regard, and unveiling the truth about this matter."
 After refuting the traditions on provisions and ensigns of the last
 Hour, like the seditions, al-Dajjal, al-Jassasah and reappearance of
 al-Mahdi, and other marks, al-Allamah al-Sayyid Rashid Rida reached the
-following valuable conclusions. <span id="_anchor_451"></span>451
+following valuable conclusions. 451
 
 1- That the Prophet was not aware of the Unseen: "Say: neither I own for
 my self any benefit nor harm except, what willeth God; and had I known
@@ -146,8 +146,7 @@ chain going back to the Prophet. Thus every narrator was reporting
 whatever he could comprehend (of the hadith), and an error might occur
 in his comprehension, since these affairs being conducted by Unseen
 hand. Also, some of the narrators may have interpreted whatever they
-apprehended with words added and included from their own. <span
-id="_anchor_452"></span>452
+apprehended with words added and included from their own. 452
 
 And if the Prophet was not informed by Allah the Exalted of these unseen
 affairs in detail, exerting his opinion in some of them, adopting the
@@ -180,12 +179,11 @@ reached them through the expressions: "I heard' and \`he related to me'
 or 'he informed' me, and ones like:" It is reported that the Prophet
 said,' or \`the Messenger of Allah said', as used to be the practice of
 the latter muhaddithun when fabricating the hadith. It is proved for all
-that the Sahabah used to report from one another, <span
-id="_anchor_453"></span>453  and from the Tabi'un, and even from Ka'b
+that the Sahabah used to report from one another, 453  and from the Tabi'un, and even from Ka'b
 al-Ahbar and his likes.
 
 Ahl al-Sunnah, in principle, were viewing all the Sahabah to be
-equitable and reliable <span id="_anchor_454"></span>454  as a whole, so
+equitable and reliable 454  as a whole, so
 ignoring the name of any narrator would never disturb the veracity of
 the sanad! which was the basis among the majority with some exceptions,
 as there were hypocrites during the Prophet's lifetime. Allah, the
@@ -204,11 +202,10 @@ Our Apostle Muhammad!) and thou wouldst certainly have known them by
 their features; and (now) certainly thou (can) recognize them by the
 tone of (their) speech,... "(47:30). But the misfortune afflicting the
 Ummah results in fact from riwayah from Ka'b al-Ahbar and those who used
-to report from him like Abu Hurayrah and Ibn abbas, <span
-id="_anchor_455"></span>455  from whom most of the circulated
+to report from him like Abu Hurayrah and Ibn abbas, 455  from whom most of the circulated
 interpretation was taken, beside his disciples among whom fraudulents
 were found, such as Qatadah and other great exegetes, and Ibn Jarih.
-<span id="_anchor_456"></span>456
+456
 
 So every hadith characterized with ambiguous text, or confused chain of
 narrators, or being contradictory to Allah's methods (sunan) in
@@ -267,17 +264,16 @@ good chance to say
 their word, and the philosophers pridely keeping their heads up! and men
 of knowledge were tested so as to believe in the invention of the
 Qur'an! with the conditions and circumstances being subject to so many
-changes. <span id="_anchor_457"></span>457  This matter continued to be
+changes. 457  This matter continued to be
 deficient till the present time, with the circulation of the Prophet's
-words: "Then falsity will prevail so manifestly and explicitly, <span
-id="_anchor_458"></span>458  till including all the sayings and acts and
+words: "Then falsity will prevail so manifestly and explicitly, 458  till including all the sayings and acts and
 tenets, and Allah is the only One from Whom help is sought!
 
 This hadith required that the Companions being superior to the Tabi'un
 and the latters in turn being better than the followers of Tabi'un. Ibn
 Abd al-Barr argued with the hadith : "The parable of my Ummah is like
 that of rain, the good of which is not known to lie in its beginning or
-end. <span id="_anchor_459"></span>459  It is a good (hasan) hadith,
+end. 459  It is a good (hasan) hadith,
 with several chains, that may amount to degree of veracity.
 
 Ibn Abi Shaybah reported from Abd al-Rahman ibn Jabr, that the Messenger

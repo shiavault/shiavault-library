@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
-وَتَفَاخُرٌ بَيْنَكُمْ
-  </p>
-</blockquote>
+> اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ
+> وَتَفَاخُرٌ بَيْنَكُمْ
 
 ***“Know that this world's life is only sport and play and gaiety and
 boasting among yourself”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-لمثقال ذرة من صاحب تقوى و يقين اءفضل من مل ء الاءرض من المغترين
-  </p>
-</blockquote>
+> لمثقال ذرة من صاحب تقوى و يقين اءفضل من مل ء الاءرض من المغترين
 
 ***“An atom’s weight of good deed by a person, possessing piety and firm
 faith is better than*** ***good deeds that are so numerous so as to fill
@@ -101,24 +93,12 @@ arrogance and conceit.
 God revealed the following verses to the Holy Prophet (peace be upon him
 and his holy progeny):
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا
-وَوَلَدًا
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا
+> وَوَلَدًا
 
-<blockquote dir="rtl">
-  <p>
-أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا
-  </p>
-</blockquote>
+> أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا
-  </p>
-</blockquote>
+> كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا
 
 ***“Have you, then, seen him who disbelieves in Our communications and
 says: I shall certainly be given wealth and children? Has he gained
@@ -205,14 +185,10 @@ him.*
 
 Due to this pride and haughtiness, God revealed the following verse[^9]:
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
-عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
-بَصَرِهِ غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ ۚ أَفَلَا
-تَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
+> عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ
+> بَصَرِهِ غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ ۚ أَفَلَا
+> تَذَكَّرُونَ
 
 ***“Have you then considered him who takes his low desire for his god,
 and Allah has made him err having knowledge and has set a seal upon his
@@ -242,5 +218,4 @@ vol. 6, pg. 204.
 
 [^10]: Daastaan-ha Wa Pand-ha, vol 5, pg. 85, Tafseer Iraqi, vol. 25,
 pg. 27.
-
 

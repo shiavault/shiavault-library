@@ -16,4 +16,3 @@ from one of the corners of the house while the apostles were watching.
 When the Jews came looking for Jesus, God made the volunteer look like
 him, the Jews took him, and crucified him.
 
-

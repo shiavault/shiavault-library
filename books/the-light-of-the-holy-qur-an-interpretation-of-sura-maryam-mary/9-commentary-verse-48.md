@@ -49,7 +49,6 @@ repudiation from infidels, since repudiation is before mastership. At
 first, we must separate from infidelity, false deity, and corruption,
 then we may join the truth.
 
-
 **Commentary : Verse 49**
 
 49- فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ
@@ -144,7 +143,6 @@ friend. The Qur'an says: "And Allah took Abraham as a Friend."(4)
 3- Sura As-Saffat, No. 37, verse 109
 4- Sura An-Nisa', No. 4, verse 125
 
-
 **Commentary : Verse 50**
 
 50- وَوَهَبْنَا لَهُمْ مِن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ
@@ -197,5 +195,4 @@ inspire uprightness in him."(2)
 1- Usul-i-Kaffi, acoording to the record of Nur-uth-Thaqalayn, the
 commentary, vol. 3, p.339.
 2 Qurar-ul-Hikam, vol. 3, p. 161
-
 

@@ -1,27 +1,15 @@
 Lecture 4: Divine Wisdom is Found From One’s Head To Toe
 ========================================================
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
 
 ***Now let man but think from what he is created!***
 
-<blockquote dir="rtl">
-  <p>
-خُلِقَ مِن مَّاء دَافِقٍ
-  </p>
-</blockquote>
+> خُلِقَ مِن مَّاء دَافِقٍ
 
 ***He is created from a drop emitted-***
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
-  </p>
-</blockquote>
+> يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
 
 Proceeding from between the backbone and the ribs [^1]
 
@@ -124,5 +112,4 @@ he helps everyone reach the goal which is being in the presence of Allah
 [^1]: 86:5-7.
 
 [^2]: Refer to 2:285.
-
 

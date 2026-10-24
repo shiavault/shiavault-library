@@ -26,15 +26,9 @@ want the inward being to be. If someone's heart is attached to something
 other than Allah in prayer, he is near to that thing, and far from the
 reality of what Allah desires in His prayer. For He has said,
 
-
-<blockquote dir="rtl">
-  <p>
-مَّا جَعَلَ اللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِي جَوْفِهِ
-  </p>
-</blockquote>
+> مَّا جَعَلَ اللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِي جَوْفِهِ
 
 ***Allah has not made for any man two hearts in his breast.*** (33:4)
-
 
 In the words of the Messenger of Allah: “Almighty Allah said, ‘When I
 look on the heart of a bondsman, I know if he has sincere love and
@@ -42,6 +36,4 @@ obedience for My sake and seeks My pleasure in it. Then I take charge of
 him and draw near to him. Whoever is occupied with other than Me in his
 prayer is one of those who mocks himself, and his name is recorded in
 the register of the losers.’”
-
-
 

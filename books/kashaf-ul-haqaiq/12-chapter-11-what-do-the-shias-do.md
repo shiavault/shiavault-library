@@ -194,14 +194,10 @@ astray. He neither comes in front of you, nor does he say anything to
 you nor does he throw you in the quicksand of sins. He only whispers
 into your heart.
 
-<p dir="rtl">
 قُلْ أَعُوذُ بِرَبِّ النَّاسِ مَلِكِ النَّاسِ إِلَهِ النَّاسِ  مِن شَرِّ
 الْوَسْوَاسِ الْخَنَّاسِ
-</p>
 
-<p dir="rtl">
 الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ مِنَ الْجِنَّةِ وَ النَّاسِ
-</p>
 
 [Shakir 114:1-6] Say: I seek refuge in the Lord of men, The King of men,
 The god of men, From the evil of the whisperings of the slinking
@@ -226,9 +222,7 @@ guide us whilst remaining unseen? Now if someone were to say that He
 (s.w.t.) guides us through His (s.w.t.) representatives, then I refer
 you to these Verses:
 
-<p dir="rtl">
 وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
-</p>
 
 [Shakir 91:7-8] And the soul and Him Who made it perfect, Then He
 inspired it to understand what is right and wrong for it;
@@ -240,9 +234,7 @@ also inspire people. And if you say the the Holy Imam (a.s.) is just
 sitting free in the period of occultation and is not providing guidance
 then why are you supplication at least ten times:
 
-<p dir="rtl">
 اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
-</p>
 
 [Shakir 1:6] Keep us on the right path.
 
@@ -265,30 +257,24 @@ thing to do.
 Everyone knows that there is not a single verse in favour of the
 majority.
 
-<p dir="rtl">
 كَيْفَ وَإِن يَظْهَرُوا عَلَيْكُمْ لاَ يَرْقُبُواْ فِيكُمْ إِلاًّ وَلاَ
 ذِمَّةً يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ
 وَأَكْثَرُهُمْ فَاسِقُونَ
-</p>
 
 [Shakir 9:8] How (can it be)! while if they prevail against you, they
 would not pay regard in your case to ties of relationship, nor those of
 covenant; they please you with their mouths while their hearts do not
 consent; and most of them are transgressors
 
-<p dir="rtl">
 أَلا إِنَّ لِلّهِ مَا فِي السَّمَاوَاتِ وَالأَرْضِ أَلاَ إِنَّ وَعْدَ
 اللّهِ حَقٌّ وَلَـكِنَّ أَكْثَرَهُمْ لاَ يَعْلَمُونَ
-</p>
 
 [Shakir 10:55] Now surely Allah's is what is in the heavens and the
 earth; now surely Allah's promise is true, but most of them do not know.
 
-<p dir="rtl">
 وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَاء مَاء فَأَحْيَا بِهِ
 الْأَرْضَ مِن بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ
 لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ
-</p>
 
 [Shakir 29:63] And if you ask them who is it that sends down water from
 the clouds, then gives life to the earth with it after its death, they
@@ -297,11 +283,9 @@ them do not understand.
 
 As for the minority, Allah (s.w.t.) has said:
 
-<p dir="rtl">
 يَعْمَلُونَ لَهُ مَا يَشَاء مِن مَّحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ
 كَالْجَوَابِ وَقُدُورٍ رَّاسِيَاتٍ اعْمَلُوا آلَ دَاوُودَ شُكْرًا
 وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ
-</p>
 
 [Shakir 34:13] They made for him what he pleased of fortresses and
 images, and bowls (large) as watering-troughs and cooking-pots that will
@@ -437,10 +421,8 @@ If we do not know the solution to a problem, then who do we ask from?
 The straightforward answer to this is that you should ask from those
 whom Allah (s.w.t.) has Commanded you to ask.
 
-<p dir="rtl">
 وَمَا أَرْسَلْنَا قَبْلَكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
 فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 21:7] And We did not send before you any but men to whom We sent
 revelation, so ask the followers of the reminder if you do not know.
@@ -807,5 +789,4 @@ means that the Holy Quran, or Hadeeth or the strongest arguments have no
 value. The only proof acceptable is whatever the priests say because
 they have spent their entire lives studying it. It is obvious that no
 one will accept this frivolous argument.
-
 

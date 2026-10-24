@@ -61,4 +61,3 @@ It is essential to make a survey of the main sources of this study so
 that the viewpoint of each of them can be understood and the information
 they contain evaluated accordingly.
 
-

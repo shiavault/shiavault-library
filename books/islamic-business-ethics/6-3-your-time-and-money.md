@@ -192,4 +192,3 @@ less than a dollar a day.
 
 [^7]: Ibid. vol. 5. p. 84.
 
-

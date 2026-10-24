@@ -29,4 +29,3 @@ finally put a stop to controversies and disputes in this regard.
 
 And Allah is Felicitous and He is the Helper.
 
-

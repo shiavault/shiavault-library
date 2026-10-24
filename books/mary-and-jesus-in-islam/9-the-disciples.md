@@ -113,4 +113,3 @@ Book of John?” My bet is that if you ask a priest or even the most
 learned Christian cleric, he will never give you a straight answer to
 any of these legitimate questions.
 
-

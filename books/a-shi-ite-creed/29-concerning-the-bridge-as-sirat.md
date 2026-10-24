@@ -33,4 +33,3 @@ and at numerous other places. For a full discussion, MB, S.V. حج
 
 [^3]: MC, 168 mentions this note of credit.
 
-

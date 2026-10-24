@@ -98,4 +98,3 @@ cause. He was also fond of breeding animals, especially monkeys.
 In abstract, Yazid represented all vices and offenses and had nothing to
 do with Islam or leadership of the Islamic Ummah.
 
-

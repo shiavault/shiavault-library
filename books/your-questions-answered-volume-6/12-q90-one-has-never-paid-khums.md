@@ -275,4 +275,3 @@ be taken to mean, "it is undesirable for the believers." In that case
 the verse will have a general and unabrogated meaning and will be
 applicable even now.
 
-

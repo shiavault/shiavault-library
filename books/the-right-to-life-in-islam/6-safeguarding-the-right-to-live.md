@@ -48,4 +48,3 @@ life) or to damage his body or spirit.
 
 [^3]: Quran, 5:31, 32.
 
-

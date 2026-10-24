@@ -907,4 +907,3 @@ appear and lead the uprising and thus bestow the reformed society as a
 mediator gift to Muhammad and the family of Muhammad, grant this award
 to them as a grand fortune.
 
-

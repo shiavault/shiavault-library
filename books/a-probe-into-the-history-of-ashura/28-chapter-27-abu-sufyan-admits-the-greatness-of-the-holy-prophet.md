@@ -146,4 +146,3 @@ This was an example of how an enemy becomes helpless and humble before a
 sublime personality and cannot muster up his courage to tamper with the
 realities.
 
-

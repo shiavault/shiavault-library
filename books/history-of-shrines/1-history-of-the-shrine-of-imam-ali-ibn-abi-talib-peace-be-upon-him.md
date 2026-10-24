@@ -107,4 +107,3 @@ settle down in its vicinity.”[^4]
 [^4]: . The Shrine of Ali at Najaf from “The Shi'ite Religion” by Dwight
 M. Donaldson.
 
-

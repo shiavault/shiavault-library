@@ -767,4 +767,3 @@ on the other.
 Thus, believing in intercession not only does not contradict at-Tawhid,
 but is, actually, a part of it.
 
-

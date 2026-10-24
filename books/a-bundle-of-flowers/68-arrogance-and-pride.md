@@ -30,4 +30,3 @@ heart will not be allowed to enter Heaven."
 
 Al-Kafi, vol. 2, p. 310
 
-

@@ -17,4 +17,3 @@ High to do that which may be best for the creature.” [^1]
 
 [^1]: Creed of an-Nasafi.
 
-

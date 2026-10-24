@@ -258,4 +258,3 @@ balance, that you may not be inordinate in respect of the
 measure***(55:7-8)*** . In this manner, the harmony between genesis and
 legislation also becomes clear.
 
-

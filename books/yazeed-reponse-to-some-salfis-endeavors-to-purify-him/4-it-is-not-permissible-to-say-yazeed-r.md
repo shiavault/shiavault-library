@@ -571,4 +571,3 @@ are ridiculous coined traditions deeming it lawful to pray salat behind
 a fasiq Imam, but we want proof with regards to the Imam (khalifa) of
 Muslims not the Imam of a salafi / Deobandi mosque
 
-

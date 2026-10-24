@@ -80,4 +80,3 @@ the Holy Prophet (S).[^12]
 
 [^12]: Kashf al-Ghummah 1:494
 
-

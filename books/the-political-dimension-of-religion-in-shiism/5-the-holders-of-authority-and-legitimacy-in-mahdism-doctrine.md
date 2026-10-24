@@ -29,7 +29,6 @@ future-oriented history. Shia Doctrine because of Mahdism founds itself
 in a perpetual state of progressiveness, giving it a built-in mechanism
 of self-improvement.
 
-
 **A Divine Chain of Leadership**
 
 Since the beginning of creation, man becomes a ruler (Khalifa) of God
@@ -73,5 +72,4 @@ history and to see its present as a stage in its development.
 Nevertheless, let us have a historical perspective on this divine chain
 linking humanity to the Divine, to be able to understand the Shia and
 Mahdism Doctrine as well as the Iranian Islamism.
-
 

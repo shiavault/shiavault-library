@@ -78,4 +78,3 @@ Leave your surroundings and go to the pure land. There you may face
 Almighty Allah under the inspiring sky of Mashar. The estrangement which
 you have experienced will be overcome. At last, you will find yourself!
 
-

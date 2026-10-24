@@ -29,11 +29,7 @@ Second to the Holy Quran, is a thorough knowledge of the Islamic
 traditions whose validity is so obvious to all Muslims. And many verses
 of the Holy Quran emphasize their acceptance by Muslims:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ما آتاكُمُ الرَّسُولُ فَخُذُوهُ وَ ما نَهاكُمْ عَنْهُ فَانْتَهُوا ﴾
-  </p>
-</blockquote>
+> ﴿ ما آتاكُمُ الرَّسُولُ فَخُذُوهُ وَ ما نَهاكُمْ عَنْهُ فَانْتَهُوا ﴾
 
 ***“And whatever the Apostle gives you accept it and from whatever
 forbids you, keep away”.***[^1]***.***
@@ -52,11 +48,7 @@ Most of them, however are not narrations, but some statements. For
 instance, among those 142 narrations by Abu Bakr is the following
 sentence:
 
-<blockquote dir="rtl">
-  <p>
-“إن رسول الله اهدی جَمَلاً لابي جهل”
-  </p>
-</blockquote>
+> “إن رسول الله اهدی جَمَلاً لابي جهل”
 
 “The Prophet gave Abu Jahl a camel as a gift”.
 
@@ -68,11 +60,7 @@ For instance, note the following two narrations:
 1 .“When the living men weep over a dead person, hot water would pour
 over the dead one”
 
-<blockquote dir="rtl">
-  <p>
-“إنَّ الميت ينضح عليه الحميم ببكاءِ الحي”
-  </p>
-</blockquote>
+> “إنَّ الميت ينضح عليه الحميم ببكاءِ الحي”
 
 the content of this narration is wrong for several reasons:
 
@@ -89,11 +77,7 @@ on his beard[^6].
 
 Secondly, the holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لا تَزِرُ وازِرَةٌ وِزْرَ أُخْرى ﴾
-  </p>
-</blockquote>
+> ﴿ لا تَزِرُ وازِرَةٌ وِزْرَ أُخْرى ﴾
 
 ***“No bearer of burden shall bear the burden of another”***[^7]***;***
 then how could the Prophet according to Abu Bakr, have said that through
@@ -101,11 +85,7 @@ a person's weeping over a dead body, the latter would be hurt?
 
 2. “The heat of hell for my Ummah is like the heat of the bath-room”.
 
-<blockquote dir="rtl">
-  <p>
-إنّما حرّ جهنم علی أُمّتي مثل الحمّام
-  </p>
-</blockquote>
+> إنّما حرّ جهنم علی أُمّتي مثل الحمّام
 
 This statement not only may embolden the sinners, it is against the
 Quranic texts that deal with this issue.
@@ -120,12 +100,8 @@ satisfy his Ummah's needs.
 
 In one of his speeches, the caliph betrays himself by saying:
 
-<blockquote dir="rtl">
-  <p>
-“ إنى وليّت ولست بخيّركم وإن رأيتموني على الحق فأعينونى وإن رأيتموني
-على الباطل فسددوني”
-  </p>
-</blockquote>
+> “ إنى وليّت ولست بخيّركم وإن رأيتموني على الحق فأعينونى وإن رأيتموني
+> على الباطل فسددوني”
 
 “You have bestowed upon me the rein of your own affairs while I am not
 considered the best among you. If you realized that I am right, then
@@ -225,11 +201,7 @@ the marriage-portion.
 When he descended from the pulpit, a woman critically asked him: why did
 you disagree with an increase in marriage-portion; does God not say
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ آتَيْتُمْ إِحْداهُنَّ قِنْطاراً ﴾
-  </p>
-</blockquote>
+> ﴿ وَ آتَيْتُمْ إِحْداهُنَّ قِنْطاراً ﴾
 
 ***“[And if you wish to have one wife in place of another] and you have
 given one of them a*** ***heap of gold, then take not from it
@@ -282,11 +254,7 @@ ignorance:
 One of the clear commands of Islam is that an infidel's blood is not
 equal to a Muslim's blood. In this regard, the Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-“لا يُقتلُ مسلمٌ بكافرٍ”
-  </p>
-</blockquote>
+> “لا يُقتلُ مسلمٌ بكافرٍ”
 
 “A Muslim is not to be killed just because he has killed an infidel;
 rather, the killer should pay blood-money”.
@@ -339,5 +307,4 @@ documents).
 [^18]: . Al-Athwaa, p. 204.
 
 [^19]: . Sunan Baîhaqî, vol. 8, p. 33.
-
 

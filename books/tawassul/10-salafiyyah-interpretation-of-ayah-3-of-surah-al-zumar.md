@@ -35,4 +35,3 @@ polytheism. Similarly, the polytheists have been reproached in the Holy
 Qur'an not because of seeking intercession (*shafa'at* ) but because of
 worshipping other than God.[^30]
 
-

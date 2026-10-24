@@ -95,7 +95,6 @@ Allah and the knowledge of the Messenger of Allah is with them. Whatever
 knowledge would come from them is true and correct and whatever comes
 from other sources are not genuine."
 
-
 **Chapter 102 : The Hadith (statements) of Ahl al-Bayt (members of the
 family of Prophet Muhammad) is Difficult and becomes Difficult H , Ch.
 102, h 1**
@@ -223,5 +222,4 @@ pains for their suffering. If You would allow it to cause pains to us
 because of their sufferings no one would worship You on earth. May Allah
 send blessing up on Muhammad and his Ahl al-Bayt and may (Your) peace
 and more peace be with them."
-
 

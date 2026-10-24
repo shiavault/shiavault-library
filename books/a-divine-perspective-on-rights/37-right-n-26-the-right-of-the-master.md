@@ -1,27 +1,19 @@
 Right n. 26: The Right of the Master
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق المنعم على مولاه
-  </p>
-</blockquote>
+> حق المنعم على مولاه
 
-<blockquote dir="rtl">
-  <p>
-وَأَمّا حَقُّ الْمُنْعِمِ عَلَيْكَ بالْولاءِ فَأَنْ تَعْلَمَ أَنّهُ
-أَنفَقَ فِيكَ مَالَهُ، وَأَخرَجَكَ مِن ذُلِّ الرِّقِ وَوَحْشَتِهِ إلَى
-عِزِّ الحُرِّيةِ وأُنسِها، وَأَطْلَقَكَ مِنْ أَسْرِ الْمِلْكَةِ،
-وَفَكَّ عَنْكَ حلَقَ الْعُبُودِيَّةِ، وَأَوْجَدَكَ رَائِحَة الْعِزِّ،
-وَأَخرَجَكَ مِنْ سِجْنِ القَهْرِ، وَدَفَعَ عَنْكَ الْعُسْرَ، وبَسَطَ
-لَكَ لِسَانَ الإنْصَافِ، وَأَبَاحَكَ الدُنْيَا كُلَّهَا فَمَلَّكَكَ
-نفْسَكَ، وَحَلَّ أَسْرَكَ، وَفَرَّغَكَ لِعِبَادَةِ رَبكَ، وَاحْتَمَلَ
-بذَلِكَ التَّقْصِيرَ فِي مَالِهِ، فَتَعْلَمَ أَنّهُ أَوْلَى الخَلْقِ
-بكَ بَعْدَ أُولي رَحِمِكَ فِي حَيَاتِكَ وَمَوْتِكَ، وَأَحَقَّ الخَلْقِ
-بنَصْرِكَ وَمَعُونَتِكَ وَمُكَانفَتِكَ فِي ذَات اللَّهِ، فَلا تُؤثِرْ
-عَلَيْهِ نفْسَكَ مَا احْتَاجَ إلَيْكَ.
-  </p>
-</blockquote>
+> وَأَمّا حَقُّ الْمُنْعِمِ عَلَيْكَ بالْولاءِ فَأَنْ تَعْلَمَ أَنّهُ
+> أَنفَقَ فِيكَ مَالَهُ، وَأَخرَجَكَ مِن ذُلِّ الرِّقِ وَوَحْشَتِهِ إلَى
+> عِزِّ الحُرِّيةِ وأُنسِها، وَأَطْلَقَكَ مِنْ أَسْرِ الْمِلْكَةِ،
+> وَفَكَّ عَنْكَ حلَقَ الْعُبُودِيَّةِ، وَأَوْجَدَكَ رَائِحَة الْعِزِّ،
+> وَأَخرَجَكَ مِنْ سِجْنِ القَهْرِ، وَدَفَعَ عَنْكَ الْعُسْرَ، وبَسَطَ
+> لَكَ لِسَانَ الإنْصَافِ، وَأَبَاحَكَ الدُنْيَا كُلَّهَا فَمَلَّكَكَ
+> نفْسَكَ، وَحَلَّ أَسْرَكَ، وَفَرَّغَكَ لِعِبَادَةِ رَبكَ، وَاحْتَمَلَ
+> بذَلِكَ التَّقْصِيرَ فِي مَالِهِ، فَتَعْلَمَ أَنّهُ أَوْلَى الخَلْقِ
+> بكَ بَعْدَ أُولي رَحِمِكَ فِي حَيَاتِكَ وَمَوْتِكَ، وَأَحَقَّ الخَلْقِ
+> بنَصْرِكَ وَمَعُونَتِكَ وَمُكَانفَتِكَ فِي ذَات اللَّهِ، فَلا تُؤثِرْ
+> عَلَيْهِ نفْسَكَ مَا احْتَاجَ إلَيْكَ.
 
 **Then the right of your master who has favored you**[^1] **is that you
 should know that he has spent his property for you and has brought you
@@ -82,11 +74,7 @@ that once a slave is freed, he has attained freedom of the mind. Islam
 has granted its followers freedom of the mind, and has left their way to
 study and research open. Imam Ali said the following in this regard:
 
-<blockquote dir="rtl">
-  <p>
-مَن اسْتَقْبَلَ وُجوهَ الآرَاءِ عَرَفَ مَواقِعَ الخَطأِ.
-  </p>
-</blockquote>
+> مَن اسْتَقْبَلَ وُجوهَ الآرَاءِ عَرَفَ مَواقِعَ الخَطأِ.
 
 *“Whoever looks at various aspects of thoughts can recognize positions
 of faults.”*[^2]
@@ -97,12 +85,8 @@ intellect, knowledge and thinking. One hour of thinking is considered
 better than seventy years of worshipping. In many verses, the Qur’an
 advises man to think and understand. Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ أُوْلَئِكَ
-الَّذِينَ هَدَاهُمُ اللَّهُ وَأُوْلَئِكَ هُمْ أُوْلُوا الْأَلْبَابِ
-  </p>
-</blockquote>
+> الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ أُوْلَئِكَ
+> الَّذِينَ هَدَاهُمُ اللَّهُ وَأُوْلَئِكَ هُمْ أُوْلُوا الْأَلْبَابِ
 
 ***“Those who listen to the Word, and follow the best (meaning) in it:
 those are the ones whom God has guided, and those are the ones endued
@@ -110,11 +94,7 @@ with understanding.” [The Holy Qur’an, al-Zumar 39:18]***
 
 In another verse of the Holy Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ يَسْتَوِي الأَعْمَى وَالْبَصِيرُ أَفَلاَ تَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> قُلْ هَلْ يَسْتَوِي الأَعْمَى وَالْبَصِيرُ أَفَلاَ تَتَفَكَّرُونَ
 
 ***“…can the blind be held equal to the seeing?" Will ye then consider
 not?” [The Holy Qur’an, al-An’am 6:50]***
@@ -129,23 +109,15 @@ rely on the same influential factors that were instrumental in its
 initial formation. We cannot use force to change a person’s ideology.
 The Holy Qur’an says the following in this regard:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
-  </p>
-</blockquote>
+> لاَ إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
 
 ***“Let there be no compulsion in religion: Truth stands out clear from
 Error.”[The Holy Qur’an, al-Baqarah 2:256]***
 
 In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاء رَبُّكَ لآمَنَ مَن فِي الأَرْضِ كُلُّهُمْ جَمِيعًا
-أَفَأَنتَ تُكْرِهُ النَّاسَ حَتَّى يَكُونُواْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَوْ شَاء رَبُّكَ لآمَنَ مَن فِي الأَرْضِ كُلُّهُمْ جَمِيعًا
+> أَفَأَنتَ تُكْرِهُ النَّاسَ حَتَّى يَكُونُواْ مُؤْمِنِينَ
 
 ***“If it had been thy Lord's will, they would all have believed, - all
 who are on earth! Wilt thou then compel mankind, against their will, to
@@ -153,12 +125,8 @@ believe!” [The Holy Qur’an, Yunus 10:99]***
 
 In another verse it says:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ الْحَقُّ مِن رَّبِّكُمْ فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء
-فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا
-  </p>
-</blockquote>
+> وَقُلِ الْحَقُّ مِن رَّبِّكُمْ فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء
+> فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا
 
 ***“Say, "The truth is from your Lord": Let him who will believe, and
 let him who will, reject (it): for the wrongdoers We have prepared a
@@ -166,11 +134,7 @@ Fire..!” [The Holy Qur’an, al-Kahf 18:29]***
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
-  </p>
-</blockquote>
+> فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
 
 ***“Therefore do thou give admonition, for thou art one to admonish.
 Thou art not one to manage (men's) affairs.” [The Holy Qur’an,
@@ -178,12 +142,8 @@ al-Ghashiyah 88:21-22]***
 
 Moreover, in another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءكُم بَصَآئِرُ مِن رَّبِّكُمْ فَمَنْ أَبْصَرَ فَلِنَفْسِهِ
-وَمَنْ عَمِيَ فَعَلَيْهَا وَمَا أَنَاْ عَلَيْكُم بِحَفِيظٍ
-  </p>
-</blockquote>
+> قَدْ جَاءكُم بَصَآئِرُ مِن رَّبِّكُمْ فَمَنْ أَبْصَرَ فَلِنَفْسِهِ
+> وَمَنْ عَمِيَ فَعَلَيْهَا وَمَا أَنَاْ عَلَيْكُم بِحَفِيظٍ
 
 ***"Now have come to you, from your Lord, proofs (to open your eyes): if
 any will see, it will be for (the good of) his own soul; if any will be
@@ -209,12 +169,8 @@ fosters encouragement and helps our lives develop. Islam honors private
 ownership and legally supports it. Consider the following verse in this
 respect:
 
-<blockquote dir="rtl">
-  <p>
-لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُواْ وَلِلنِّسَاء نَصِيبٌ مِّمَّا
-اكْتَسَبْنَ
-  </p>
-</blockquote>
+> لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُواْ وَلِلنِّسَاء نَصِيبٌ مِّمَّا
+> اكْتَسَبْنَ
 
 ***“…To men is allotted what they earn, and to women what they
 earn…”[The Holy Qur’an, al- Nisaa 4:32]***
@@ -222,13 +178,9 @@ earn…”[The Holy Qur’an, al- Nisaa 4:32]***
 Once you legitimately earn something, then it belongs to you. Consider
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ أَمْوَالَكُمْ
-بَيْنَكُمْ بِالْبَاطِلِ إِلاَّ أَن تَكُونَ تِجَارَةً عَن تَرَاضٍ
-مِّنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَأْكُلُواْ أَمْوَالَكُمْ
+> بَيْنَكُمْ بِالْبَاطِلِ إِلاَّ أَن تَكُونَ تِجَارَةً عَن تَرَاضٍ
+> مِّنكُمْ
 
 ***“O ye who believe! Eat not up your property among yourselves in
 vanities: But let there be amongst you traffic and trade by mutual
@@ -238,11 +190,7 @@ Therefore, what one earns through legitimate means belongs to him.
 Should he be killed while trying to protect his property, he is
 considered a martyr:
 
-<blockquote dir="rtl">
-  <p>
-مَن قُتِلَ دُونَ مالِهِ فَهُو شَهيدٌ.
-  </p>
-</blockquote>
+> مَن قُتِلَ دُونَ مالِهِ فَهُو شَهيدٌ.
 
 *“Whoever gets killed for guarding his wealth is a martyr.”*[^3]
 
@@ -258,20 +206,12 @@ seriously fights such deeds. It places certain forms of Islamic tax and
 declares certain rights on what one earns legitimately. Consider the
 following verse regarding those who do not abide by these regulations:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي
-سَبِيلِ اللّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي
+> سَبِيلِ اللّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا
-جِبَاهُهُمْ وَجُنوبُهُمْ وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ
-لأَنفُسِكُمْ فَذُوقُواْ مَا كُنتُمْ تَكْنِزُونَ
-  </p>
-</blockquote>
+> يَوْمَ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا
+> جِبَاهُهُمْ وَجُنوبُهُمْ وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ
+> لأَنفُسِكُمْ فَذُوقُواْ مَا كُنتُمْ تَكْنِزُونَ
 
 ***“And there are those who bury gold and silver and spend it not in the
 way of God: announce unto them a most grievous penalty-On the Day when
@@ -292,5 +232,4 @@ freeing him.
 
 [^3]: Islam wa Huquq al-Bashar, p.316; quoted from Al-Adalat
 al-Ijtima’iyat, p.103.
-
 

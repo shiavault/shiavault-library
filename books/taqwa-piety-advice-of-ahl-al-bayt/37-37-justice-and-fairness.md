@@ -209,4 +209,3 @@ afflicting every country.
 
 [^13]: Montaha al-Aamaal, vol. 1, p. 166.
 
-

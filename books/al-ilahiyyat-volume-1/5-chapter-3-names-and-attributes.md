@@ -841,4 +841,3 @@ refer to Mafahim al-Quran, Vol. 3, pp. 244-59.
 
 [^14]: Matha Khasara al-Aalam ماذا خسر العالم, p. 97.
 
-

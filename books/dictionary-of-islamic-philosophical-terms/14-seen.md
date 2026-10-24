@@ -95,4 +95,3 @@ Sophistici Elenchi, Aristotle’s sixth book on logic, also entitled as
 al-Maghalit or al-Hikmat al-Muwwahmah (q.v.) in Arabic; it deals with
 the fallacies of logical reasoning, intentional or otherwise.
 
-

@@ -270,4 +270,3 @@ as-Sajjadiyyah to read and ponder over. What does Imam say which makes
 his duas very effective? What do you understand about the relationship
 Imam has with Allah.?
 
-

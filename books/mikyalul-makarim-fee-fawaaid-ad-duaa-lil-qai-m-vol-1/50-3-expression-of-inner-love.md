@@ -48,13 +48,9 @@ said:
 I say: Yes, the people who pay attention are like this only. The
 Almighty Allah says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ
-وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُونَ
-اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
-  </p>
-</blockquote>
+> إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ
+> وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُونَ
+> اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
 
 ***“Most surely in the creation of the heavens and the earth and the
 alternation of the night and the day there are signs for men who
@@ -86,23 +82,15 @@ have some sense and except for foolish people, none could deny it.
 The proof of the beauty of the expression of love by the tongue, rather
 that it is a pillar of thankfulness, is mentioned in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
-  </p>
-</blockquote>
+> إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
 
 ***“…not he who is compelled while his heart is at rest on account of
 faith…” (Qur’an, Surah Nahl 16:106)***
 
 and it is also said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا
-أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ
-  </p>
-</blockquote>
+> قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا
+> أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ
 
 ***“The dwellers of the desert say: We believe. Say: You do not believe
 but say, We submit; and faith has not yet entered into your hearts.”
@@ -173,5 +161,4 @@ sufficient for its excellence.
 [^2]: Kafi; Vol. 2, Pg. 644
 
 [^3]: Kafi; Vol. 2, Pg. 644. It is part of verse (Surah Baqarah 2:260)
-
 

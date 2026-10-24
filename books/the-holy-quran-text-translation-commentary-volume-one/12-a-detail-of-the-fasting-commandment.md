@@ -61,7 +61,6 @@ THIS IS A SIN)
 
 VERSE NO. 188**
 
-
 This verse implies a general, and very important Islamic principle
 which may govern all the economical affairs, and covers most of the
 other religious jurisprudence problems. It says: \`\`Do not eat out your
@@ -133,7 +132,6 @@ when they are out of position.'' MEAR?J-AL-SAADAT, PAGE 165 BY: MOLLA
 AHMAD NAR?GHI
 
 **(TRANSLATOR'S NOTE)**
-
 
 يَسْـَلُونَكَ عَنِ الأَهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ والْحَجِ
 وَلَيْسَ الْبِرُّ بِأَن تَأْتُواْ الْبُيُوتَ مِن ظُهُورِهَا وَلَكِنَّ
@@ -556,5 +554,4 @@ Allah is stern in punishment.''
 HAJJ, is one of the most important services and worships. Ordainded by
 Islam. It has countless blessings and shakes the back of the enemies! In
 every year HAJJ, infuses new blood in the veins of Muslims.
-
 

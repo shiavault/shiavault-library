@@ -1,37 +1,21 @@
 Section 1
 =========
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
 Surah Al-Kahf – Verses 1 - 3
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَي عَبْدِهِ الْكِتَابَ وَلَمْ
-يَجْعَل لَّهُ عِوَجَا
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَي عَبْدِهِ الْكِتَابَ وَلَمْ
+> يَجْعَل لَّهُ عِوَجَا
 
-<blockquote dir="rtl">
-  <p>
-قَيّـِماً لّـِيُنذِرَ بَأْساً شَدِيداً مِن لَّدُنْهُ وَيُبَشّـِرَ
-الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ
-أَجْراً حَسَناً
-  </p>
-</blockquote>
+> قَيّـِماً لّـِيُنذِرَ بَأْساً شَدِيداً مِن لَّدُنْهُ وَيُبَشّـِرَ
+> الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ
+> أَجْراً حَسَناً
 
-<blockquote dir="rtl">
-  <p>
-مَاكِثِينَ فِيهِ أَبَداً
-  </p>
-</blockquote>
+> مَاكِثِينَ فِيهِ أَبَداً
 
 ***1. “(All) praise is (only) Allah’s, Who sent down upon His servant
 the Book (the Qur’an) and did not make in it any crookedness.”***
@@ -162,18 +146,10 @@ has raised to invite, (qayyiman).
 Surah Al-Kahf – Verses 4 - 5
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيُنْذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَداً
-  </p>
-</blockquote>
+> وَيُنْذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَداً
 
-<blockquote dir="rtl">
-  <p>
-مَا لَهُم بِهِ مِنْ عِلْمٍ وَلاَ لاِبَآئِهِمْ كَبُرَتْ كَلِمَةً
-تَخْرُجُ مِنْ أَفْوَاهِهِمْ إِن يَقُولُونَ إِلاَّ كَذِباً
-  </p>
-</blockquote>
+> مَا لَهُم بِهِ مِنْ عِلْمٍ وَلاَ لاِبَآئِهِمْ كَبُرَتْ كَلِمَةً
+> تَخْرُجُ مِنْ أَفْوَاهِهِمْ إِن يَقُولُونَ إِلاَّ كَذِباً
 
 ***4. “And to warn those who say: ‘Allah has taken (to Himself) a
 son’.”***  
@@ -227,12 +203,8 @@ Yes, it is such that:
 Surah Al-Kahf – Verse 6
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَي ءَاثَارِهِم إِن لَّمْ يُؤْمِنُوا
-بِهذَا الْحَدِيثِ أَسَفاً
-  </p>
-</blockquote>
+> فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَي ءَاثَارِهِم إِن لَّمْ يُؤْمِنُوا
+> بِهذَا الْحَدِيثِ أَسَفاً
 
 ***6. “Then maybe you will fret yourself to death with grief, following
 after them, if they do not believe in this Message (the Qur’an).”***
@@ -262,18 +234,10 @@ be grievous, because the world is the place of trial for them.
 Surah Al-Kahf – Verses 7 - 8
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا جَعَلْنَا مَا عَلَي الاَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ
-أَيُّهُمْ أَحْسَنُ عَمَلاً
-  </p>
-</blockquote>
+> إِنَّا جَعَلْنَا مَا عَلَي الاَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ
+> أَيُّهُمْ أَحْسَنُ عَمَلاً
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيداً جُرُزاً
-  </p>
-</blockquote>
+> وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيداً جُرُزاً
 
 ***7. “Verily We have appointed whatever is on the earth as an ornament
 for it, so that We may try them: which of them is best in conduct.”***  
@@ -339,19 +303,11 @@ ground.”***
 Surah Al-Kahf – Verses 9 - 10
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ
-ءَايَاتِنَا عَجَباً
-  </p>
-</blockquote>
+> أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ
+> ءَايَاتِنَا عَجَباً
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَوَي الْفِتْيَةُ إِلَي الْكَهْفِ فَقَالُوا رَبَّنَآ ءَاتِنَا مِن
-لَّدُنكَ رَحْمَةً وَهَيّـِءْ لَنَا مِنْ أَمْرِنَا رَشَداً
-  </p>
-</blockquote>
+> إِذْ أَوَي الْفِتْيَةُ إِلَي الْكَهْفِ فَقَالُوا رَبَّنَآ ءَاتِنَا مِن
+> لَّدُنكَ رَحْمَةً وَهَيّـِءْ لَنَا مِنْ أَمْرِنَا رَشَداً
 
 ***9. “Or do you think that the people of the Cave and of the
 inscription were of Our wonderful signs?”***  
@@ -467,5 +423,4 @@ In this Surah, the term has been applied in three occurrences.
 [^3]: Al-Kafi, vol.8, p.398, and Nur-uth-Thaqalayn
 
 [^4]: Majma‘-ul-Bayan, the Commentary
-
 

@@ -163,4 +163,3 @@ and how did he finally deliver the message?
 5. Provide some traditions that prove the Imāmah of the Prophet’s
 Household.
 
-

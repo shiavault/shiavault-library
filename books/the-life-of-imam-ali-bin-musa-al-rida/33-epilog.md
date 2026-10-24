@@ -1,10 +1,6 @@
 Epilog
 ======
 
-  
-
-  
-
 Shortly after Imām al-Ridā, peace be on him, assumed the position of
 heir apparent, al-Ma’mūn vigorously turned away from him, hid evil and
 treachery against him, sought evil deeds against him, schemed against
@@ -34,10 +30,6 @@ al-Ma’mūn and the rest of the ‘Abbāsid kings were
  distinguished by qualities contrary to those of the Imām. For no  
  laudable deed or an excellence has been ascribed to them throughout  
  their assuming the caliphate. In other words they followed their  
-
-  
-
-  
 
 desires and pleasures and spent millions of the money of the Muslims on
 their red nights. Abū Firās al-Hamadāni, an inspired poet, may Allah
@@ -85,10 +77,6 @@ The Imām gives Sincere Advice to al-Ma’mūn
 
 The Imām, peace be on him, gave sincere advice to al-Ma’mūn.  
 
-  
-
-  
-
 The advice was void of all political hardships. He advised him to exempt
 him from regency and to exempt al-Fadl from the ministry, and through
 that he would save himself from the scheme and oppression of the
@@ -133,11 +121,6 @@ matter and that none might come to know of it. The
 ------------------------------------------------------------------------
 
 [[1]](#_F1711)Ibid., p. 145.  
-  
-
-  
-
-  
 
 Imām was fully aware of this trickery, so he refused to respond to
 al-Ma’mūn. Al-Ma’mūn sent another letter and the Imām wrote him: “I will
@@ -179,11 +162,6 @@ uncle. The police captured them and brought them
 ------------------------------------------------------------------------
 
 [[1]](#_F1712)Ibid., 164.  
-  
-
-  
-
-  
 
 before al-Ma’mūn, and they (the murderers) said to him: “You had ordered
 us to kill him.” So he said to them: “I will kill you because of your
@@ -228,11 +206,6 @@ al-Ansāb, p. 28.
  [[2]](#_F1714)Ibn Khaldūn, Tārikh, vol. 3, p. 250.  
  [[3]](#_F1715)Ibn Khullakān, Wafayāt al-A'yān. Al-Dhahabi, Tārikh
 al-Islām, vol. 8, p. 35.  
-  
-
-  
-
-  
 
 al-Ma’mūn gave him poison to drink. And it is not as it has been
 mentioned, for al-Ma’mūn showed sadness for him, to the extent that none
@@ -277,11 +250,6 @@ Allah responded to the supplication of His great friend. He
 67.  
  [[2]](#_F1717)Al-Bihār.  
  [[3]](#_F1718)We have mentioned their names in the previous chapters.  
-  
-
-  
-
-  
 
 moved him from the world, which was surrounded by adversities and
 sufferings, to the Abode of the Truth. Now, we will show how he died.
@@ -320,10 +288,6 @@ wash Abū al-Hasan ‘Ali b. Mūsā (al-Ridā) while his son Mohammed is in
 Medina, in the country of al-Hijāz, and we are at Tūs?
 
 “If he says that, say to him: ‘We say: Surely none must wash the  
-
-  
-
-  
 
 Imām except an Imām like him. If an aggressor transgresses and washes
 the Imām, the Imāmate of the Imām will not be invalid because of the
@@ -366,11 +330,6 @@ Al-Ma’mūn asked the Imām to have some grapes , and he
 
 [[1]](#_F1719)'Uyūn Akhbār al-Ridā, vol. 2, p. 247. Nūr al-Absār, p.
 145.  
-  
-
-  
-
-  
 
 refrained from having them, so al-Ma’mūn shouted at him: “Perhaps, you
 are accusing as of something.”
@@ -416,11 +375,6 @@ was ordained would certainly have gone forth to the
 [[1]](#_F1720)'Uyūn Akhbār al-Ridā, vol. 2, p. 243.  
  [[2]](#_F1721)'Uyūn al-Tawārikh, vol. 3, p. 227.  
  [[3]](#_F1722)'Uyūn Akhbār al-Ridā, vol. 2, p. 241.  
-  
-
-  
-
-  
 
 places where they would be slain.[[1]](#_ftn1723) *And the command of
 Allah is a decree that is made absolute*.[[2]](#_ftn1724)
@@ -458,19 +412,12 @@ in order to rid himself of the accusation of assassinating him, but,
 shortly after that, the people came to know of his pretense and became
 fully aware of that it was he who assassinated him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1723)Qur'ān, 3, 153.  
  [[2]](#_F1724)Ibid., 33, 38.  
  [[3]](#_F1725)'Uyūn Akhbār al-Ridā, vol. 2, p. 241.  
  [[4]](#_F1726)Ibid.  
-  
-
-  
-
-  
 
 ### Concealing the Death of the Imām
 
@@ -512,11 +459,6 @@ about the reason for burying the Imām beside the grave of his
 
 [[1]](#_F1727)Maqātil al-Tālibyyin, p. 567. Al-Mufid, al-Irshād, p.
 316.  
-  
-
-  
-
-  
 
 father, and they answered him: “Because Allah will forgive Hārūn on
 account of his neighboring Imām al-Ridā, peace be on him.” However, the
@@ -563,10 +505,6 @@ he had committed with regard to the Imām, saying:
 “Woe upon al-Ma’mūn from Allah! Woe upon him from Allah’s Apostle, may
 Allah bless him and his family! Woe upon him from  
 
-  
-
-  
-
 ‘Ali b. Abū Tālib! Woe upon al-Ma’mūn from Fātima al-Zahrā’! Woe upon
 al-Ma’mūn from al-Hasan and al-Husayn! Woe upon al-Ma’mūn from ‘Ali b.
 al-Husayn! Woe upon al-Ma’mūn from Mohammed b. ‘Ali! Woe upon al-Ma’mūn
@@ -603,8 +541,6 @@ of their statements regarding it:
 
 6. 55 years.[[7]](#_ftn1734)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1728)Akhbār al-Ridā, vol. 2, p. 249.  
@@ -616,11 +552,6 @@ of their statements regarding it:
  [[6]](#_F1733)Ibid.  
  [[7]](#_F1734)Usūl al-Kāfi, vol. 1, p. 486. Kifāyat al-Tālib, p. 458.
 Nūr al-Absār, p.144. Bahr al-Ansāb, p. 28.  
-  
-
-  
-
-  
 
 7. 57 years and 49 days or 79 days.[[1]](#_ftn1735)
 
@@ -662,17 +593,10 @@ what a man is he whom (the world) has abducted!
 If death appeared when it circulated through (his body), it would face
 before it the faces of bold men.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1735)A'yān al-Shi'a, 4/Q 2/78.  
  [[2]](#_F1736)Ibid.  
-  
-
-  
-
-  
 
 May Tūs be miserable! For his houses were not among that through which
 the days terrify him with misery.
@@ -723,11 +647,6 @@ Allah has made you dwell in an everlasting abode; in an abode
 [[1]](#_F1737)By the mouths of the sheets (of paper) the poet means
 those letter written regarding the death of Imām al-Ridā, peace be on
 him, and sent to all regions; he has likened them to men.  
-  
-
-  
-
-  
 
 with which Allah’s Messenger is familiar.[[1]](#_ftn1738)
 
@@ -775,11 +694,6 @@ Their Rashid (wise) is errant, and his two sons after him (are
 
 [[1]](#_F1738)Maqātil al-Tālibiyyin, pp. 568-570.  
  [[2]](#_F1739)Ibid., 568.  
-  
-
-  
-
-  
 
 errant too); misfortunes belong to this; apart from that is
 dissoluteness.
@@ -826,17 +740,10 @@ clear.[[2]](#_ftn1741)
 Another example of what he has composed concerning lamenting for the
 Imām is these poetry lines:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1740)Maqātil al-Tālibiyyin.  
  [[2]](#_F1741)Di'bil, Divan, p. 99.  
-  
-
-  
-
-  
 
 O regret which frequents and tear which does not come to an end,
 
@@ -879,17 +786,10 @@ O calamity who has come from the east! You have not left nor retained
 
 The death of ‘Ali b. Mūsā al-Ridā is of Allah’s wrath upon the creation.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1742)Ibid., p. 101.  
  [[2]](#_F1743)Ibid., p. 108.  
-  
-
-  
-
-  
 
 Islam has wept over a gap which cannot be closed easily.
 
@@ -942,11 +842,6 @@ A person, whose demise is difficult for Islam, is immersed in
 ------------------------------------------------------------------------
 
 [[1]](#_F1744)Ibid., pp. 108-109.  
-  
-
-  
-
-  
 
 and plunged into the mercy of Allah.
 
@@ -996,12 +891,6 @@ and the area outside sanctuary *(al-hill).*
 The running *(al-sa‘i)* to it has been made obligatory just as  the
 (Sacred) House, which has, apart from it, the right of magnification.
 
-  
-
-  
-
-  
-
 If one visits it recognizing its right, then it is forbidden for the
 Hellfire to touch his body, his rank, without doubt, is praiseworthy
 tomorrow, he will have a place in the Gardens of Everlastingness, and he
@@ -1048,12 +937,6 @@ successor through whom maladies are cured.
 
 Surely the Imāms are equal in excellence and knowledge when old-aged and
 young.
-
-  
-
-  
-
-  
 
 You are the means and mediation to Allah; you have taught guidance (to
 men), so you are the Emblems of it.
@@ -1104,17 +987,10 @@ No, rather they show you that they are greater in regret for you when
 you are honored and the cursed one is subjected to severe, doubled
 torment throughout hours, days, and years.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1745)In the tradition: "Surely, this pulpit of mine is on one
 of the gardens."  
-  
-
-  
-
-  
 
 I wish I knew: Will your Qā’m be a sufficient sword for fighting
 tomorrow?  
@@ -1158,16 +1034,9 @@ With this poem we will end our talk about what the poets have composed
 concerning lamenting for the Imām. Generally speaking, the poems display
 the heavy loss which befell the Muslims when they lost their great Imām.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1746)'Uyūn Akhbār al-Ridā, vol. 2, pp. 252-254.  
-  
-
-  
-
-  
 
 The Excellence of the Visitation to the Imām’s Holy Shrine
 ----------------------------------------------------------
@@ -1212,11 +1081,6 @@ martyrs al-Husayn b. ‘Ali on the authority of the master of
 
 [[1]](#_F1747)Tahdhib al-Tahdhib, vol. 7, p. 388.  
  [[2]](#_F1748)Al-Durr al-Nazim, p. 214.  
-  
-
-  
-
-  
 
 the testamentary trustees, the Commander of the faithful ‘Ali b. Abū
 Tālib, peace be on him, who said: Allah’s Messenger, may Allah bless him
@@ -1261,11 +1125,6 @@ regarding
  [[3]](#_F1751) Ibid., p. 261.  
  [[4]](#_F1752) Ibid., 60.  
  [[5]](#_F1753) In a narration is al-Masqar b. Khalaf.  
-  
-
-  
-
-  
 
 place is one of the places of the Garden. If a believer visits it, Allah
 will release him from the Fire and make him stay in the Abode of
@@ -1303,29 +1162,23 @@ and good manners; therefore, this book contains a simple, brief research
 (on the Imām). We ask Allah to accept it; surely He, the Exalted, is the
 One Who grants success.  
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1754) 'Uyūn Akhbār  al-Ridā, vol. 2 , p. 262.  
  [[2]](#_F1755) A'yān al-Shi'a 4/Q 2/214.  
-  
 
 بسم الله الرحمن الرحيم
 
 زيارة الإمام علي بن موسى الرضا (ع)
 
-  
-
-<span lang="AR-SA"> أَشْهَدُ أَنْ لا إِلهَ إِلّا ﭐللهُ وَحْدَهُ لا
+ أَشْهَدُ أَنْ لا إِلهَ إِلّا ﭐللهُ وَحْدَهُ لا
 شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ وَأَنَّهُ
 سَيِّدُ ﭐلأَوَّلِينَ وَﭐلآخِرِينَ وَأَنَّهُ سَيِّدُ ﭐلأَنْبِيٰاءِ
-وَﭐلمُرْسَلِينَ.</span>
+وَﭐلمُرْسَلِينَ.
 
 اَللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ
 وَنَبِيِّكَ وَسَيِّدِ خَلْقِكَ أَجْمَعِينَ صَلاةً لا يَقْوىٰ عَلىٰ
 إِحْصۤائِها غَيْرُكَ.  
-  
 
 اَللّهُمَّ وَصَلِّ عَلىٰ أَمِيرِ ﭐلمُؤْمِنِينَ عَلِيِّ بنِ أَبِي طَالِبٍ
 عَبْدِكَ وَأَخِي رَسُولِكَ ﭐلَّذِي ﭐنْتَجَبْتَهُ بِعِلْمِكَ وَجَعَلْتَهُ
@@ -1395,14 +1248,12 @@ the issues which cropped up among the people.
 اَللّهُمَّ صَلِّ عَلىٰ عَلِيِّ بْنِ مُوسىٰ ﭐلرِّضا ﭐلْمُرْتَضىٰ عَبْدِكَ
 وَوَلِيِّ دينِكَ ﭐلْقۤائِمِ بِعَدْلِك وَﭐلدّٰاعِي اِلىٰ دِينِكَ وَدِينِ
 آبۤائِهِ ﭐلصّٰادِقِينَ صَلاةً لا يَقْوىٰ عَلىٰ إِحْصۤائِهٰا غَيْرُكَ.  
-  
 
 اَللّهُمَّ صَلِّ عَلىٰ مُحَمَّدِ بْنِ عَلِيٍّ عَبْدِكَ وَوَلِيِّكَ
 ﭐلْقۤائِمِ بِأَمْرِكَ وَﭐلدّٰاعِي اِلىٰ سَبِيلِكَ.  
 
 اَللّهُمَّ صَلِّ عَلىٰ عَلِيِّ بْنِ مُحَمَّدٍ عَبْدِكَ وَوَلِيِّ
 دِينِكَ.  
-  
 
 اَللّهُمَّ صَلِّ عَلىٰ ﭐلْحَسَنِ بْنِ عَلِيٍّ ﭐلْعٰامِلِ بِأَمْرِكَ
 ﭐلْقۤائِمِ في خَلْقِكَ وَحُجَّتِكَ ﭐلْمُؤَدِّي عَنْ نَبِيِّكَ
@@ -1446,7 +1297,6 @@ representative among the
 
 خَلْقِكَ صَلاةً تۤامَّةَ نٰامِيَةً بٰاقِيَةً تُعَجِّلُ بِهٰا فَرَجَهُ
 وَتَنْصُرُهُ بِهٰا وَتَجْعَلُنٰا مَعَهُ في ﭐلدُّنْيٰا وَﭐلآخِرَةِ.  
-  
 
 اَللّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ بِحُبِّهِمْ وَأُوٰالي وَلِيُّهُمْ
 وَأُعٰادِي عَدُوَّهُمْ، فَارْزُقْنِي بِهِمْ خَيْرَ ﭐلدُّنْيٰا
@@ -1492,7 +1342,7 @@ of Allah! Peace be on you, O the inheritor of Ismaeel, the sacrifice
 offered to Allah! Peace be on you, O the inheritor of Moosa, who spoke
 to Allah! Peace be on you, O the inheritor of Easaa, who received mercy,
 joy, and ease from Allah!  
-  
+
 Peace be on you, O the inheritor Mohammad, the Messenger of Allah! Peace
 be on you, O the inheritor of Ameer ul Moomineen, the representative of
 Allah, the executor of the will of the Messenger of the Lord of the
@@ -1511,13 +1361,11 @@ bin Jaa'far!
 وَنَهَيْتَ عَنِ ﭐلْمُنْكَرِ وَعَبَدْتَ ﭐللهَ مُخْلِصاً حَتّىٰ أَتٰاكَ
 ﭐلْيَقِينُ، اَلسَّلامُ عَلَيْكَ يٰا أَبا ﭐلَحَسَنِ وَرَحْمَةُ ۤللهِ
 وَبَرَكٰاتُهُ.  
-  
 
 اَللّهُمَّ إِلَيْكَ صَمَدْتُ مِنْ أَرْضِي وَقَطَعْتُ ﭐلَبِلادَ رَجۤاءَ
 رَحْمَتِكَ فَلا تُخَيِّبْنِي وَلا تَرُدَّني بِغَيْرِ قَضۤاءِ حٰاجَتِي
 وَﭐرْحَمْ تَقَلُّبِي عَلىٰ قَبْرِ ﭐبْنِ أَخِي رَسُولِكَ صَلَوٰاتُكَ
 عَلَيْهِ وَآلِهِ.  
-  
 
 بِأَبي أَنْتَ وَأُمِّي يٰا مَوْلايَ، أَتَيْتُكَ زۤائِراً وٰافِداً
 عۤائِذاً مِمّٰا جَنَيْتُ عَلىٰ نَفْسِي وَﭐحْتَطَبْتُ عَلىٰ ظَهْرِي
@@ -1528,15 +1376,12 @@ bin Jaa'far!
 اَللّهُمَّ إِنِّي أَتَقَرَّبُ بِحُبِّهِمْ بِوِلايَتِهِمْ، أَتَوَلّىٰ
 آخِرَهُمْ بِمٰا تَوَلَّيْتُ بِهِ أَوَّلَهُمْ، وَأَبْرَأُ مِنْ كَلِّ
 وَلِيجَةٍ دُونَهُم.ْ  
-  
-  
 
 اَللّهُمَّ ﭐلْعَنِ ﭐلَّذِينَ بَدَّلُوا نِعْمَتَكَ وَﭐتَّهَمُوا نَبِيَّكّ
 وَجَحَدُوا بِآيٰاتِكَ وَسَخِرُوا بِإِمٰامِك وَحَمَلُوا ﭐلنّٰاسَ عَلىٰ
 أَكْتٰافِ آلِ مُحَمَّدٍ. اَللّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ
 بِاللَّعْنَةِ عَلَيْهِمْ وَﭐلْبَرۤائَةِ مِنْهُمْ في ﭐلدُّنْيٰا
 وَﭐلآخِرَةِ، يٰا رَحْمٰنُ.  
-  
 
 صَلّىٰ ﭐللهُ عَلَيْكَ يٰا أَبا ﭐلْحَسَنِ، صَلّىٰ ﭐللهُ عَلىٰ رُوحِكَ
 وَبَدَنِكَ، صَبَرْتَ وَأَنْتَ ﭐلصّٰادِقُ ﭐلْمُصَدِّقُ، قَتَلَ ﭐللهُ مَنْ

@@ -3,13 +3,9 @@ Lesson One Hundred Three: Believers And Hypocrites
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إذا رَأَيْتُمُ الْمُؤْمِنَ صَمُوتاً فَادْنُوْا مِنْهُ فَإنَّهُ يُلْقِى
-الحِكْمَةَ وَ الْمُؤْمِنُ قَلِيلُ الْكَلامِ كَثِيرُ الْعَمَلِ وَ
-الْمُنافِقُ كَثِيرُ الْكَلامِ قَلِيلُ الْعَمَلِ
-  </p>
-</blockquote>
+> إذا رَأَيْتُمُ الْمُؤْمِنَ صَمُوتاً فَادْنُوْا مِنْهُ فَإنَّهُ يُلْقِى
+> الحِكْمَةَ وَ الْمُؤْمِنُ قَلِيلُ الْكَلامِ كَثِيرُ الْعَمَلِ وَ
+> الْمُنافِقُ كَثِيرُ الْكَلامِ قَلِيلُ الْعَمَلِ
 
 Translation
 -----------
@@ -33,5 +29,4 @@ attribute of all talk and no action as the sign of the hypocrites.
 
 [^1]: Tuhaful Uqul, page 296. Irshad AlQulub, vol 1, page 104. Sharh
 Nahjul Balaghah, vol 7, page 93.
-
 

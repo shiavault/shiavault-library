@@ -3,11 +3,7 @@ Lesson Seventy Six: Shi’as And Divine Bounties
 
 Imam Al-Baqir (a.s.) said to one of his companions
 
-<blockquote dir="rtl">
-  <p>
-أَبْلِغْ شِيعَتَنا أَنَّهُ لا يُنالُ ما عِنْدَ اللّه إلاّ بِعَمَل.
-  </p>
-</blockquote>
+> أَبْلِغْ شِيعَتَنا أَنَّهُ لا يُنالُ ما عِنْدَ اللّه إلاّ بِعَمَل.
 
 Translation
 -----------
@@ -30,5 +26,4 @@ their day to day life in order to be a true Shia and win divine
 blessings.
 
 [^1]: Usool al-Kafi, , volume 2, page 300. AlAmali, page 370.
-
 

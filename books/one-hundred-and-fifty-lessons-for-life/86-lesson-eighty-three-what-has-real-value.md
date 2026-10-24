@@ -3,12 +3,8 @@ Lesson Eighty Three: What Has Real Value
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللّهَ لا يَنْظُرُ إلَى صُوَرِكُمْ وَ لا إلى أَمْوالِكُمْ وَ
-إنَّما يَنْظُر إلى قُلُوبِكُمْ وَ أَعْمالِكُم
-  </p>
-</blockquote>
+> إنَّ اللّهَ لا يَنْظُرُ إلَى صُوَرِكُمْ وَ لا إلى أَمْوالِكُمْ وَ
+> إنَّما يَنْظُر إلى قُلُوبِكُمْ وَ أَعْمالِكُم
 
 Translation
 -----------
@@ -31,5 +27,4 @@ actions are the ones who will be victorious in the divine court.
 page 264. Aalamu AlDeen, page 201. AlAmali, page 535. Jami' Al-Akhbar,
 page 100. Sharh Nahjul Balaghah, vol 2, page 181. Makarim AlAkhlaq, page
 469.
-
 

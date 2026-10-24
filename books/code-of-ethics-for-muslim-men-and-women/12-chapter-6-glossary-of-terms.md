@@ -88,7 +88,6 @@ Wedding Ceremony: A program or gathering that takes place after the
 recitation of the wedding contract (in some cases, the wedding ceremony
 may be at the same time as the nikah ceremony).
 
-
 **Chapter 7 : Sources Used for the Compilation of this Book**
 
 Late Ayatullah al-‘Udhma al-hajj ash-Shaykh ‘Ali al-Araki
@@ -154,5 +153,4 @@ Ayatullah al-‘Udhma al-hajj ash-Shaykh Mirza Jawad al-Tabrizi
 
 In addtion, approximately 250 questions whose answers were taken
 directly from the office of the various Maraja’ Taqlid in Qum, Iran.
-
 

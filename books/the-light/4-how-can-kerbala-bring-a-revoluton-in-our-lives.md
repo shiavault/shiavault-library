@@ -97,4 +97,3 @@ revolution in our lives as the holy Quran says in Suratul Asr, "Surely
 man is in a loss except for those who believe and do good and enjoin
 each other truth and enjoin each other in patience."
 
-

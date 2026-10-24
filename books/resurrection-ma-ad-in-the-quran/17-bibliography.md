@@ -29,4 +29,3 @@ Suyuti, Jalaluddin, Ad-Durre Manthur, Darul Fikr, Beirut 1993 A.D.
 Ibne Sina, Husain bin Abdullah, Al-Isharaat wa Tanbihaat, Matba
 Haidariya, Tehran, 1378 A.H
 
-

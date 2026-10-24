@@ -34,4 +34,3 @@ al-A‘yān, vol. 6, p. 276.
 thousand dhirā‘ (cubit = ~ 50 cm) and according to traditionists as four
 thousand dhirā‘ which is equal to 2 km.
 
-

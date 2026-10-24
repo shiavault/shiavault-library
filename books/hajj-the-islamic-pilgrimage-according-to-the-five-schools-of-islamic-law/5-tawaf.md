@@ -441,4 +441,3 @@ Hanbali, not to the Maliki, schools.
 [^8]: This is in agreement with the fatawa of al‑Sayyid al‑Hakim and
 al‑Sayyid al‑Khu'i.
 
-

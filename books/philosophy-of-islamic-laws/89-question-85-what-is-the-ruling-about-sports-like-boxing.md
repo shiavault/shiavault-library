@@ -23,4 +23,3 @@ many lives have been lost. On the basis there is no harm if one
 participates or works for the games which are beneficial to the people
 and society in general. Other than this all games are illegal.
 
-

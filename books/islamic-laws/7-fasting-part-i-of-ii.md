@@ -653,4 +653,3 @@ he is compelled to commit an act by his own hands which invalidates a
 fast, his fast will be void. The same will apply, as an obligatory
 precaution, if something is forcibly put down his throat.
 
-

@@ -60,4 +60,3 @@ In the same way, if man were not tested and tried in life, piety and
 virtue would have no value, and there would be no reason to refine one's
 soul and nothing from which to restrain one's desires.
 
-

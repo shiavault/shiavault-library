@@ -230,4 +230,3 @@ for Maryam as well as for Fa§imah.
 
 [^5]: More incidents of Maryam will be discussed in the chapter of ‘Isa.
 
-

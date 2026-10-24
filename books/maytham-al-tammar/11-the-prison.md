@@ -32,4 +32,3 @@ Then Maytham said to Abdullah bin al-Harith:
 
 *You'll rule Basrah.*
 
-

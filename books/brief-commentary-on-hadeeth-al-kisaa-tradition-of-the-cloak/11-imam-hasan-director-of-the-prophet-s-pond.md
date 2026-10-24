@@ -1,14 +1,10 @@
 Imam Hasan – Director of the Prophet’s Pond
 ===========================================
 
-<blockquote dir="rtl">
-  <p>
-فَأَقبَلَ الحَسَنُ نَحوَ الكِساء وَ قالَ : أَلسَّلامُ عَلَيكَ يا
-جَدَّاهُ يا رَسُولَ اللهِ أَتَأذَنُ لي أَن أَدخُلَ مَعَكَ تَحتَ
-الكِساءِ ؟ فَقالَ : وَ عَلَيكَ السَّلامُ يا وَلَدِي وَ يا صاحِبَ
-حَوضِي قَد أَذِنتُ لَكَ ، فَدَخَلَ مَعَهُ تَحتَ الكِساءِ .
-  </p>
-</blockquote>
+> فَأَقبَلَ الحَسَنُ نَحوَ الكِساء وَ قالَ : أَلسَّلامُ عَلَيكَ يا
+> جَدَّاهُ يا رَسُولَ اللهِ أَتَأذَنُ لي أَن أَدخُلَ مَعَكَ تَحتَ
+> الكِساءِ ؟ فَقالَ : وَ عَلَيكَ السَّلامُ يا وَلَدِي وَ يا صاحِبَ
+> حَوضِي قَد أَذِنتُ لَكَ ، فَدَخَلَ مَعَهُ تَحتَ الكِساءِ .
 
 **Al-Hasan moved towards the cloak and said, "Peace be upon you, O
 grandfather, Allah’s Messenger. Will you allow me to be with you under
@@ -128,11 +124,7 @@ permissions which the Prophet (SA) gives for the entrance under the
 cloak. It must be noted that the permission of the Prophet (SA) is not
 from his own will or preference as the Qur’an emphasizes:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنْطِقُ عَنِ الْهَوَىٰ. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى.
-  </p>
-</blockquote>
+> وَمَا يَنْطِقُ عَنِ الْهَوَىٰ. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى.
 
 ***“Nor does he speak out of desire. It is naught but revelation that is
 revealed.” (53:3-4)***
@@ -157,5 +149,4 @@ Hasan (AS) to enter the cloak, it is equivalent to divine permission
 from above the heavens. This significance of this divine permission to
 enter the *Kisaa* will be realized as we continue to analyze the
 *Tradition of the Cloak*.
-
 

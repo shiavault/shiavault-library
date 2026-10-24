@@ -115,18 +115,14 @@ book of Allah and the Sunnah of His prophet, recipient of divine
 
 supreme covenant.’”
 
-<p dir="rtl">
 وَلَوْ شَاء رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلاَ يَزَالُونَ
 مُخْتَلِفِينَ
-</p>
 
 [Shakir 11:118] And if your Lord had pleased He would certainly have
 made people a single nation, and they shall continue to differ.
 
-<p dir="rtl">
 إِلاَّ مَن رَّحِمَ رَبُّكَ وَلِذَلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ
 رَبِّكَ لأَمْلأنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ
-</p>
 
 [Shakir 11:119] Except those on whom your Lord has mercy; and for this
 did He create them; and the word of your Lord is fulfilled: Certainly I
@@ -339,11 +335,9 @@ As you have seen from above, according to these people the one and only
 criteria for Hadeeth is to do with their narrators and NOT with its
 content.
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءكُمْ فَاسِقٌ بِنَبَأٍ
 فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى مَا
 فَعَلْتُمْ نَادِمِينَ
-</p>
 
 [Shakir 49:6] O you who believe! if an evil-doer comes to you with a
 report, look carefully into it, lest you harm a people in ignorance,
@@ -587,10 +581,8 @@ and the Holy Infallibles (a.s.) have to say about this. Over here I will
 only refer to one Divine Verse and two Hadeeth, and I will leave the
 rest for the discussion on Qiyas (analogy).
 
-<p dir="rtl">
 وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلاَّ ظَنًّا إَنَّ الظَّنَّ لاَ يُغْنِي
 مِنَ الْحَقِّ شَيْئًا إِنَّ اللّهَ عَلَيمٌ بِمَا يَفْعَلُونَ
-</p>
 
 [Shakir 10:36] And most of them do not follow (anything) but conjecture;
 surely conjecture will not avail aught against the truth; surely Allah
@@ -641,12 +633,10 @@ noise being made about this method in the world of Ijtihad. Basically,
 as far as the Jurist is concerned it means the statement that the he
 give based on his own thinking.
 
-<p dir="rtl">
 وَإِذَا جَاءهُمْ أَمْرٌ مِّنَ الأَمْنِ أَوِ الْخَوْفِ أَذَاعُواْ بِهِ
 وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الأَمْرِ مِنْهُمْ
 لَعَلِمَهُ الَّذِينَ يَسْتَنبِطُونَهُ مِنْهُمْ وَلَوْلاَ فَضْلُ اللّهِ
 عَلَيْكُمْ وَرَحْمَتُهُ لاَتَّبَعْتُمُ الشَّيْطَانَ إِلاَّ قَلِيلاً
-</p>
 
 [Shakir 4:83] And when there comes to them news of security or fear they
 spread it abroad; and if they had referred it to the Messenger and to
@@ -847,5 +837,4 @@ And if the asking of questions and the provision of answers becomes a
 custom, then their whole Marjaiaat will be in danger. That is why they
 have made it obligatory to accept their verdicts without question and
 closed the doors of asking for proofs.
-
 

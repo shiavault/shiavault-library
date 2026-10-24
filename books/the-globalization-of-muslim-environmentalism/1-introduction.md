@@ -18,4 +18,3 @@ everything in Creation, resources are seen foremost as belonging not to
 humans but to Allah, for whom humans are to hold nature in trust
 (*amāna* ).
 
-

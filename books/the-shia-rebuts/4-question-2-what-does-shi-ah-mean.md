@@ -4,11 +4,7 @@ Question 2 : What does “Shi‘ah” mean?
 **Reply:** In Arabic “Shi‘ah” literally means “follower”. The Glorious
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وإنَّ من شيعته لإبراهيم.
-  </p>
-</blockquote>
+> وإنَّ من شيعته لإبراهيم.
 
 ***“Indeed Abraham was among his followers {Shi‘ah}.”***[^1]
 
@@ -36,11 +32,7 @@ Of course, this appellation has been given by the Holy Prophet (S)
 himself during his lifetime to the followers of the Commander of the
 Faithful (*‘a*). While pointing to ‘Ali ibn Abi Talib (*‘a*), he said:
 
-<blockquote dir="rtl">
-  <p>
-"والذي نفسي بيده إن هذا وشيعته لهم الفائزون يوم القيامة."
-  </p>
-</blockquote>
+> "والذي نفسي بيده إن هذا وشيعته لهم الفائزون يوم القيامة."
 
 “By Him in Whose hand my life is, verily this man (‘Ali) and his Shi‘ah
 shall be the triumphant on the Day of Resurrection.”[^6]
@@ -95,5 +87,4 @@ faith and do righteous deeds—it is they who are the best of creatures.”
 and the guardian {wali}, see Murtada Mutahhari, Wilayah: The Station of
 the Master, trans. Yahya Cooper (Tehran: World Organization for Islamic
 Services, 1982). {Trans.}
-
 

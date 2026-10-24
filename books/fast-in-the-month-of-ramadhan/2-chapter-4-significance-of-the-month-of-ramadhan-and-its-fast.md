@@ -341,4 +341,3 @@ from receiving Allah’s mercy. And whoever hears my name and fails to
 send blessings unto me will (likewise) be distanced from Allah’s
 mercy."
 
-

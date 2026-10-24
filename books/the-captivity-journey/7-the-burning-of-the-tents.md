@@ -23,4 +23,3 @@ distressed I am for you Aba Abdullah! Today, My Grandfather, Allah’s
 Prophet (P), died". O Muhammad’s companions, here are the Pedigrees of
 Al-Mustafa treated like captives!!"
 
-

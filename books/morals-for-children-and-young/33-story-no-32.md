@@ -19,4 +19,3 @@ does not allow men to look down upon women and girls so that there may
 not be a fight or opposition.  
  There are many verses in Quran verifying this.
 
-

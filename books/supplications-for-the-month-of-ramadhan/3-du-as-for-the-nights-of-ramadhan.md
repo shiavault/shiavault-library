@@ -57,95 +57,35 @@ and make me enter Heaven,
 
 by Your mercy, O the most Merciful.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-يا عليّ يا عظيم يا غفور يا رحيم
-  </p>
-</blockquote>
+> يا عليّ يا عظيم يا غفور يا رحيم
 
-<blockquote dir="rtl">
-  <p>
-أنت الرب العظيم الذي ليس كمثله شيئ
-  </p>
-</blockquote>
+> أنت الرب العظيم الذي ليس كمثله شيئ
 
-<blockquote dir="rtl">
-  <p>
-وهو السميع البصير
-  </p>
-</blockquote>
+> وهو السميع البصير
 
-<blockquote dir="rtl">
-  <p>
-وهذا شهر عظمته وكرمته
-  </p>
-</blockquote>
+> وهذا شهر عظمته وكرمته
 
-<blockquote dir="rtl">
-  <p>
-وشرفته وفضلته على الشهور
-  </p>
-</blockquote>
+> وشرفته وفضلته على الشهور
 
-<blockquote dir="rtl">
-  <p>
-وهو شهر الذي فرضت صيامه عليّ
-  </p>
-</blockquote>
+> وهو شهر الذي فرضت صيامه عليّ
 
-<blockquote dir="rtl">
-  <p>
-وهو شهر رمضان الذي أنزلت فيه القرءان
-  </p>
-</blockquote>
+> وهو شهر رمضان الذي أنزلت فيه القرءان
 
-<blockquote dir="rtl">
-  <p>
-هُدى للناس وبيّنات مِن الهُدى والفُرقان
-  </p>
-</blockquote>
+> هُدى للناس وبيّنات مِن الهُدى والفُرقان
 
-<blockquote dir="rtl">
-  <p>
-وجعلت فيه ليلة القدر
-  </p>
-</blockquote>
+> وجعلت فيه ليلة القدر
 
-<blockquote dir="rtl">
-  <p>
-وجعلتها خيراُ من ألف شهر
-  </p>
-</blockquote>
+> وجعلتها خيراُ من ألف شهر
 
-<blockquote dir="rtl">
-  <p>
-فيا ذالمن ولا يُمَن عليك
-  </p>
-</blockquote>
+> فيا ذالمن ولا يُمَن عليك
 
-<blockquote dir="rtl">
-  <p>
-مُنَّ عليّ بفكاك رقتبي من النار
-  </p>
-</blockquote>
+> مُنَّ عليّ بفكاك رقتبي من النار
 
-<blockquote dir="rtl">
-  <p>
-فيمن تمُن عليه
-  </p>
-</blockquote>
+> فيمن تمُن عليه
 
-<blockquote dir="rtl">
-  <p>
-وأدخلني الجنة برحمتك يا ارحم الراحمين
-  </p>
-</blockquote>
+> وأدخلني الجنة برحمتك يا ارحم الراحمين
 
 Du'a no.2
 ---------
@@ -201,107 +141,39 @@ O Allah, relieve us of our debts, and help us against poverty,
 
 Surely You have power over all things.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد وال محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد وال محمد
 
-<blockquote dir="rtl">
-  <p>
-اللهم ادخل على اهل القُبور السرور
-  </p>
-</blockquote>
+> اللهم ادخل على اهل القُبور السرور
 
-<blockquote dir="rtl">
-  <p>
-اللهم اغن كُل فقير
-  </p>
-</blockquote>
+> اللهم اغن كُل فقير
 
-<blockquote dir="rtl">
-  <p>
-اللهم اشبع كُل جائع
-  </p>
-</blockquote>
+> اللهم اشبع كُل جائع
 
-<blockquote dir="rtl">
-  <p>
-اللهم اكس كُل عُريان
-  </p>
-</blockquote>
+> اللهم اكس كُل عُريان
 
-<blockquote dir="rtl">
-  <p>
-اللهم اقض دين كُل مدين
-  </p>
-</blockquote>
+> اللهم اقض دين كُل مدين
 
-<blockquote dir="rtl">
-  <p>
-اللهم فرج عن كل مكروب
-  </p>
-</blockquote>
+> اللهم فرج عن كل مكروب
 
-<blockquote dir="rtl">
-  <p>
-اللهم رُدّ كل غريب
-  </p>
-</blockquote>
+> اللهم رُدّ كل غريب
 
-<blockquote dir="rtl">
-  <p>
-اللهم فُك كُل اسير
-  </p>
-</blockquote>
+> اللهم فُك كُل اسير
 
-<blockquote dir="rtl">
-  <p>
-اللهم اصلح كُل فاسد من امور المُسلمين
-  </p>
-</blockquote>
+> اللهم اصلح كُل فاسد من امور المُسلمين
 
-<blockquote dir="rtl">
-  <p>
-اللهم اشف كُل مريض
-  </p>
-</blockquote>
+> اللهم اشف كُل مريض
 
-<blockquote dir="rtl">
-  <p>
-اللهم سُد فقرنا بغناك
-  </p>
-</blockquote>
+> اللهم سُد فقرنا بغناك
 
-<blockquote dir="rtl">
-  <p>
-اللهم غيّر سؤء حالنا بحُسن حالك
-  </p>
-</blockquote>
+> اللهم غيّر سؤء حالنا بحُسن حالك
 
-<blockquote dir="rtl">
-  <p>
-اللهم اقضِ عنا الدين
-  </p>
-</blockquote>
+> اللهم اقضِ عنا الدين
 
-<blockquote dir="rtl">
-  <p>
-واغننا من الفقر
-  </p>
-</blockquote>
+> واغننا من الفقر
 
-<blockquote dir="rtl">
-  <p>
-إنك على كل شيئ قدير
-  </p>
-</blockquote>
+> إنك على كل شيئ قدير
 
 Du'a no. 3
 ----------
@@ -330,59 +202,23 @@ for surely, none can forgive them except You
 
 O Beneficent, O All­-Knowing.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد وأل محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد وأل محمد
 
-<blockquote dir="rtl">
-  <p>
-اللهم رب شهر رمضان الذي انزلت فيه القُران
-  </p>
-</blockquote>
+> اللهم رب شهر رمضان الذي انزلت فيه القُران
 
-<blockquote dir="rtl">
-  <p>
-وافترضت على عبادك فيه الصيام
-  </p>
-</blockquote>
+> وافترضت على عبادك فيه الصيام
 
-<blockquote dir="rtl">
-  <p>
-صلي على محمد وال محمد
-  </p>
-</blockquote>
+> صلي على محمد وال محمد
 
-<blockquote dir="rtl">
-  <p>
-وارزقني حج بيتك الحرام
-  </p>
-</blockquote>
+> وارزقني حج بيتك الحرام
 
-<blockquote dir="rtl">
-  <p>
-في عامي هذا وفي كُل عام
-  </p>
-</blockquote>
+> في عامي هذا وفي كُل عام
 
-<blockquote dir="rtl">
-  <p>
-واغفر لي تلك الذنوب العظام
-  </p>
-</blockquote>
+> واغفر لي تلك الذنوب العظام
 
-<blockquote dir="rtl">
-  <p>
-فإنه لا يغفرها غيرك يا رحمن يا علام
-  </p>
-</blockquote>
+> فإنه لا يغفرها غيرك يا رحمن يا علام
 
 An Introduction to Dua al-Iftitah
 ---------------------------------
@@ -535,101 +371,37 @@ who has no friend to protect Him from humiliation
 
 so magnify Him with a great Magnificnace
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد وأل محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد وأل محمد
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني افتتح الثناء بحمدك
-  </p>
-</blockquote>
+> اللهم إني افتتح الثناء بحمدك
 
-<blockquote dir="rtl">
-  <p>
-وأنت مُسدد للصواب بمنك
-  </p>
-</blockquote>
+> وأنت مُسدد للصواب بمنك
 
-<blockquote dir="rtl">
-  <p>
-وأيقنت أنك أنت ارحم الراحمين في موضع العفو والرحمة
-  </p>
-</blockquote>
+> وأيقنت أنك أنت ارحم الراحمين في موضع العفو والرحمة
 
-<blockquote dir="rtl">
-  <p>
-واشد المُعاقبين في موضع النكال والنقمة
-  </p>
-</blockquote>
+> واشد المُعاقبين في موضع النكال والنقمة
 
-<blockquote dir="rtl">
-  <p>
-واعظم المُتجبرين في موضع الكبرياء والعظمة
-  </p>
-</blockquote>
+> واعظم المُتجبرين في موضع الكبرياء والعظمة
 
-<blockquote dir="rtl">
-  <p>
-اللهم اذنت لي في دُعائك ومسئلتك
-  </p>
-</blockquote>
+> اللهم اذنت لي في دُعائك ومسئلتك
 
-<blockquote dir="rtl">
-  <p>
-فاسمع يا سميع مدحتي واجب يا رحيم دعوتي
-  </p>
-</blockquote>
+> فاسمع يا سميع مدحتي واجب يا رحيم دعوتي
 
-<blockquote dir="rtl">
-  <p>
-واقل يا غفور عثرتي
-  </p>
-</blockquote>
+> واقل يا غفور عثرتي
 
-<blockquote dir="rtl">
-  <p>
-فكم يا الهي من كُربة قد فرجتها وهمُوم قد كشفتها
-  </p>
-</blockquote>
+> فكم يا الهي من كُربة قد فرجتها وهمُوم قد كشفتها
 
-<blockquote dir="rtl">
-  <p>
-وعثرة قد اقلتها ورحمة قد نشرتها
-  </p>
-</blockquote>
+> وعثرة قد اقلتها ورحمة قد نشرتها
 
-<blockquote dir="rtl">
-  <p>
-وحلقة بلاء قد فككتها
-  </p>
-</blockquote>
+> وحلقة بلاء قد فككتها
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي لم يتخذ صاحبة ولا ولداً
-  </p>
-</blockquote>
+> الحمد لله الذي لم يتخذ صاحبة ولا ولداً
 
-<blockquote dir="rtl">
-  <p>
-ولم يكن له شريك في الملك
-  </p>
-</blockquote>
+> ولم يكن له شريك في الملك
 
-<blockquote dir="rtl">
-  <p>
-ولم يكن له وليّ من الذل وكبره تكبيراً
-  </p>
-</blockquote>
+> ولم يكن له وليّ من الذل وكبره تكبيراً
 
 All Praise is for Allah for all His praiseworthy acts
 
@@ -667,101 +439,37 @@ though it is a lot for me
 
 while it is easy and simple for You.
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله بجميع محامده كُلها
-  </p>
-</blockquote>
+> الحمد لله بجميع محامده كُلها
 
-<blockquote dir="rtl">
-  <p>
-على جميع نعمه كله
-  </p>
-</blockquote>
+> على جميع نعمه كله
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله لا مُضاد في مُلكه
-  </p>
-</blockquote>
+> الحمد لله لا مُضاد في مُلكه
 
-<blockquote dir="rtl">
-  <p>
-ولا منازع له في أمره
-  </p>
-</blockquote>
+> ولا منازع له في أمره
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي لا شريك له في خلقه
-  </p>
-</blockquote>
+> الحمد لله الذي لا شريك له في خلقه
 
-<blockquote dir="rtl">
-  <p>
-ولا شبيه له في عظمته
-  </p>
-</blockquote>
+> ولا شبيه له في عظمته
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الفاشي في الخلق امرُهُ
-  </p>
-</blockquote>
+> الحمد لله الفاشي في الخلق امرُهُ
 
-<blockquote dir="rtl">
-  <p>
-وحمده الظاهر بالكرم مجدُه
-  </p>
-</blockquote>
+> وحمده الظاهر بالكرم مجدُه
 
-<blockquote dir="rtl">
-  <p>
-الباسط بالجُود يده
-  </p>
-</blockquote>
+> الباسط بالجُود يده
 
-<blockquote dir="rtl">
-  <p>
-الذي لا تنقُص خزائنه
-  </p>
-</blockquote>
+> الذي لا تنقُص خزائنه
 
-<blockquote dir="rtl">
-  <p>
-ولا تزيده كثرة العطاء إلا جُوداً وكرما
-  </p>
-</blockquote>
+> ولا تزيده كثرة العطاء إلا جُوداً وكرما
 
-<blockquote dir="rtl">
-  <p>
-إنه هو العزيز الوهاب
-  </p>
-</blockquote>
+> إنه هو العزيز الوهاب
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسئلك قليلا من كثير
-  </p>
-</blockquote>
+> اللهم إني أسئلك قليلا من كثير
 
-<blockquote dir="rtl">
-  <p>
-مع حاجة بي إليه عظيمة
-  </p>
-</blockquote>
+> مع حاجة بي إليه عظيمة
 
-<blockquote dir="rtl">
-  <p>
-وغناك عنه قديم
-  </p>
-</blockquote>
+> وغناك عنه قديم
 
-<blockquote dir="rtl">
-  <p>
-وهو عندي كثير وهو عليك سهل يسير
-  </p>
-</blockquote>
+> وهو عندي كثير وهو عليك سهل يسير
 
 O Allah, indeed Your forgiveness of my sins
 
@@ -823,119 +531,43 @@ so please (continue to) have mercy on your ignorant slave
 
 and be kind to him through the excellence of Your Grace
 
-<blockquote dir="rtl">
-  <p>
-اللهم إن عفوك عن ذنبي وتجاوزك عن خطيئتي
-  </p>
-</blockquote>
+> اللهم إن عفوك عن ذنبي وتجاوزك عن خطيئتي
 
-<blockquote dir="rtl">
-  <p>
-وصفحك عن ظُلمي وسترك على قبيح عملي
-  </p>
-</blockquote>
+> وصفحك عن ظُلمي وسترك على قبيح عملي
 
-<blockquote dir="rtl">
-  <p>
-وحلمك عن كثير جرمي
-  </p>
-</blockquote>
+> وحلمك عن كثير جرمي
 
-<blockquote dir="rtl">
-  <p>
-عند ما كان من خطاي وعمدي
-  </p>
-</blockquote>
+> عند ما كان من خطاي وعمدي
 
-<blockquote dir="rtl">
-  <p>
-اطمعني في ان اسئلك ما لا استوجبه منك
-  </p>
-</blockquote>
+> اطمعني في ان اسئلك ما لا استوجبه منك
 
-<blockquote dir="rtl">
-  <p>
-الذي رزقتني من رحمتك
-  </p>
-</blockquote>
+> الذي رزقتني من رحمتك
 
-<blockquote dir="rtl">
-  <p>
-واريتني من قدرتك وعرفتني من اجابتك
-  </p>
-</blockquote>
+> واريتني من قدرتك وعرفتني من اجابتك
 
-<blockquote dir="rtl">
-  <p>
-فصرت ادعوك امنا واسئلك مُستانسا
-  </p>
-</blockquote>
+> فصرت ادعوك امنا واسئلك مُستانسا
 
-<blockquote dir="rtl">
-  <p>
-لا خائفا ولا وجلا
-  </p>
-</blockquote>
+> لا خائفا ولا وجلا
 
-<blockquote dir="rtl">
-  <p>
-مُدلا عليك فيما قصدت فيه اليك
-  </p>
-</blockquote>
+> مُدلا عليك فيما قصدت فيه اليك
 
-<blockquote dir="rtl">
-  <p>
-فإن ابطأ عني عتبت بجهلي عليك ولعل الذي
-  </p>
-</blockquote>
+> فإن ابطأ عني عتبت بجهلي عليك ولعل الذي
 
-<blockquote dir="rtl">
-  <p>
-ابطأ عني هو خير لي لعلمك بعاقبة الأمور
-  </p>
-</blockquote>
+> ابطأ عني هو خير لي لعلمك بعاقبة الأمور
 
-<blockquote dir="rtl">
-  <p>
-فلم ار مولىً كريما اصبر على عبد لئيم منك عليّ
-  </p>
-</blockquote>
+> فلم ار مولىً كريما اصبر على عبد لئيم منك عليّ
 
-<blockquote dir="rtl">
-  <p>
-يا ربي إنك تدعوني فأولي عنك
-  </p>
-</blockquote>
+> يا ربي إنك تدعوني فأولي عنك
 
-<blockquote dir="rtl">
-  <p>
-وتتحبب إليّ واتبغض إليك
-  </p>
-</blockquote>
+> وتتحبب إليّ واتبغض إليك
 
-<blockquote dir="rtl">
-  <p>
-وتتودد إليّ فلا اقبل منك كأن لي التطوُّل عليك
-  </p>
-</blockquote>
+> وتتودد إليّ فلا اقبل منك كأن لي التطوُّل عليك
 
-<blockquote dir="rtl">
-  <p>
-فلم يمنعك ذالك من الرحمة لي والإحسان إليّ
-  </p>
-</blockquote>
+> فلم يمنعك ذالك من الرحمة لي والإحسان إليّ
 
-<blockquote dir="rtl">
-  <p>
-والتفضل عليّ بجودك وكرمك
-  </p>
-</blockquote>
+> والتفضل عليّ بجودك وكرمك
 
-<blockquote dir="rtl">
-  <p>
-فارحم عبدك الجاهل وجُد عليه بفضل احسانك
-  </p>
-</blockquote>
+> فارحم عبدك الجاهل وجُد عليه بفضل احسانك
 
 Surely You are the Bountiful, the Generous.
 
@@ -999,107 +631,39 @@ the great humble themselves before His tremendousness,
 
 He accomplishes what He wishes through His power
 
-<blockquote dir="rtl">
-  <p>
-إنك جواد كريم
-  </p>
-</blockquote>
+> إنك جواد كريم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله مالك المُلك مُجري الفلك
-  </p>
-</blockquote>
+> الحمد لله مالك المُلك مُجري الفلك
 
-<blockquote dir="rtl">
-  <p>
-مُسخر الرياح فالق الأصباح
-  </p>
-</blockquote>
+> مُسخر الرياح فالق الأصباح
 
-<blockquote dir="rtl">
-  <p>
-ديّان الدين رب العالمين
-  </p>
-</blockquote>
+> ديّان الدين رب العالمين
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله على حلمه بعد علمه
-  </p>
-</blockquote>
+> الحمد لله على حلمه بعد علمه
 
-<blockquote dir="rtl">
-  <p>
-والحمد لله على عفوه بعد قدرته
-  </p>
-</blockquote>
+> والحمد لله على عفوه بعد قدرته
 
-<blockquote dir="rtl">
-  <p>
-والحمد لله على طول اناته في غضبه
-  </p>
-</blockquote>
+> والحمد لله على طول اناته في غضبه
 
-<blockquote dir="rtl">
-  <p>
-وهو قادر على ما يُريد
-  </p>
-</blockquote>
+> وهو قادر على ما يُريد
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله خالق الخلق
-  </p>
-</blockquote>
+> الحمد لله خالق الخلق
 
-<blockquote dir="rtl">
-  <p>
-باسط الرزق فالق الإصباح
-  </p>
-</blockquote>
+> باسط الرزق فالق الإصباح
 
-<blockquote dir="rtl">
-  <p>
-ذي الجلال والإكرام والفضل والإنعام
-  </p>
-</blockquote>
+> ذي الجلال والإكرام والفضل والإنعام
 
-<blockquote dir="rtl">
-  <p>
-الذي بعد فلا يُرى وقرب فشهد النجوى
-  </p>
-</blockquote>
+> الذي بعد فلا يُرى وقرب فشهد النجوى
 
-<blockquote dir="rtl">
-  <p>
-تبارك وتعالى
-  </p>
-</blockquote>
+> تبارك وتعالى
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي ليس له مُناز يُعادله
-  </p>
-</blockquote>
+> الحمد لله الذي ليس له مُناز يُعادله
 
-<blockquote dir="rtl">
-  <p>
-ولا شبيه يُشاكله ولا ظهير يُعاضده
-  </p>
-</blockquote>
+> ولا شبيه يُشاكله ولا ظهير يُعاضده
 
-<blockquote dir="rtl">
-  <p>
-قهر بعزته الأعزاء وتواضع لعظمته العُظماء
-  </p>
-</blockquote>
+> قهر بعزته الأعزاء وتواضع لعظمته العُظماء
 
-<blockquote dir="rtl">
-  <p>
-فبلغ بقدرته ما يشاء
-  </p>
-</blockquote>
+> فبلغ بقدرته ما يشاء
 
 All Praise is for Allah
 
@@ -1159,101 +723,37 @@ grants the requests of the beseechers
 
 and is the confidence of the believers.
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي يُجيبني حين اناديه
-  </p>
-</blockquote>
+> الحمد لله الذي يُجيبني حين اناديه
 
-<blockquote dir="rtl">
-  <p>
-ويستر عليّ كل عورة وأنا اعصيه
-  </p>
-</blockquote>
+> ويستر عليّ كل عورة وأنا اعصيه
 
-<blockquote dir="rtl">
-  <p>
-ويُعظم النعمة عليّ فلا اجازيه
-  </p>
-</blockquote>
+> ويُعظم النعمة عليّ فلا اجازيه
 
-<blockquote dir="rtl">
-  <p>
-فكم من موهبة هنيئة قد اعطاني
-  </p>
-</blockquote>
+> فكم من موهبة هنيئة قد اعطاني
 
-<blockquote dir="rtl">
-  <p>
-وعظيمة مخوفة قد كفاني وبهجة مونقة قد اراني
-  </p>
-</blockquote>
+> وعظيمة مخوفة قد كفاني وبهجة مونقة قد اراني
 
-<blockquote dir="rtl">
-  <p>
-فاثني عليه حامداً واذكُره مُسبحا
-  </p>
-</blockquote>
+> فاثني عليه حامداً واذكُره مُسبحا
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي لا يُهتك حجابه ولا يُغلق بابه
-  </p>
-</blockquote>
+> الحمد لله الذي لا يُهتك حجابه ولا يُغلق بابه
 
-<blockquote dir="rtl">
-  <p>
-ولا يُرد سائله ولا يُخيّب امله
-  </p>
-</blockquote>
+> ولا يُرد سائله ولا يُخيّب امله
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي يُؤمن الخائفين
-  </p>
-</blockquote>
+> الحمد لله الذي يُؤمن الخائفين
 
-<blockquote dir="rtl">
-  <p>
-ويُنجي الصالحين ويرفع المُستضعفين
-  </p>
-</blockquote>
+> ويُنجي الصالحين ويرفع المُستضعفين
 
-<blockquote dir="rtl">
-  <p>
-ويضع المُستكبرين ويُهلك ملوكا
-  </p>
-</blockquote>
+> ويضع المُستكبرين ويُهلك ملوكا
 
-<blockquote dir="rtl">
-  <p>
-ويستخلف أخرين
-  </p>
-</blockquote>
+> ويستخلف أخرين
 
-<blockquote dir="rtl">
-  <p>
-والحمد لله قاصم الجبارين
-  </p>
-</blockquote>
+> والحمد لله قاصم الجبارين
 
-<blockquote dir="rtl">
-  <p>
-مبير الظالمين مُدرك الهاربين
-  </p>
-</blockquote>
+> مبير الظالمين مُدرك الهاربين
 
-<blockquote dir="rtl">
-  <p>
-نكال الظالمين صريخ المستصرخين
-  </p>
-</blockquote>
+> نكال الظالمين صريخ المستصرخين
 
-<blockquote dir="rtl">
-  <p>
-موضع حاجات الطالبين معتمد المؤمنين
-  </p>
-</blockquote>
+> موضع حاجات الطالبين معتمد المؤمنين
 
 All praise is for Allah
 
@@ -1311,113 +811,41 @@ Your chosen ones
 
 and the honorable ones from Your creation.
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي من خشيته ترعد السماء وسُكانها
-  </p>
-</blockquote>
+> الحمد لله الذي من خشيته ترعد السماء وسُكانها
 
-<blockquote dir="rtl">
-  <p>
-وترجف الأرض وعُمارها
-  </p>
-</blockquote>
+> وترجف الأرض وعُمارها
 
-<blockquote dir="rtl">
-  <p>
-وتموج البحار ومن يسبح في غمراتها
-  </p>
-</blockquote>
+> وتموج البحار ومن يسبح في غمراتها
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي هدانا لهذا
-  </p>
-</blockquote>
+> الحمد لله الذي هدانا لهذا
 
-<blockquote dir="rtl">
-  <p>
-وما كُنا لنهتدي لو لا أن هدانا الله
-  </p>
-</blockquote>
+> وما كُنا لنهتدي لو لا أن هدانا الله
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي يخلق ولم يُخلق
-  </p>
-</blockquote>
+> الحمد لله الذي يخلق ولم يُخلق
 
-<blockquote dir="rtl">
-  <p>
-ويرزُق ولا يُرزق ويُطعِم ولا يُطعم
-  </p>
-</blockquote>
+> ويرزُق ولا يُرزق ويُطعِم ولا يُطعم
 
-<blockquote dir="rtl">
-  <p>
-ويُميت الأحياء ويُحيي الموتى
-  </p>
-</blockquote>
+> ويُميت الأحياء ويُحيي الموتى
 
-<blockquote dir="rtl">
-  <p>
-وهو حيّ لا يمُوت بيده الخير
-  </p>
-</blockquote>
+> وهو حيّ لا يمُوت بيده الخير
 
-<blockquote dir="rtl">
-  <p>
-وهو على كل شيئ قدير
-  </p>
-</blockquote>
+> وهو على كل شيئ قدير
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد عبدك ورسولك
-  </p>
-</blockquote>
+> اللهم صلي على محمد عبدك ورسولك
 
-<blockquote dir="rtl">
-  <p>
-وأمينك وصفيّك وحبيبك
-  </p>
-</blockquote>
+> وأمينك وصفيّك وحبيبك
 
-<blockquote dir="rtl">
-  <p>
-وخيرتك من خلقك وحافظ سرك ومبلغ رسالتك
-  </p>
-</blockquote>
+> وخيرتك من خلقك وحافظ سرك ومبلغ رسالتك
 
-<blockquote dir="rtl">
-  <p>
-افضل واحسن واجمل واكمل وازكى
-  </p>
-</blockquote>
+> افضل واحسن واجمل واكمل وازكى
 
-<blockquote dir="rtl">
-  <p>
-وانمى واطيب واطهر واسنى
-  </p>
-</blockquote>
+> وانمى واطيب واطهر واسنى
 
-<blockquote dir="rtl">
-  <p>
-واكثر ما صليت وباركت وترحمت
-  </p>
-</blockquote>
+> واكثر ما صليت وباركت وترحمت
 
-<blockquote dir="rtl">
-  <p>
-وتحننت وسلمت على احد من عبادك وانبيائك
-  </p>
-</blockquote>
+> وتحننت وسلمت على احد من عبادك وانبيائك
 
-<blockquote dir="rtl">
-  <p>
-ورسلك وصفوتك واهل الكرامة عليك من خلقك
-  </p>
-</blockquote>
+> ورسلك وصفوتك واهل الكرامة عليك من خلقك
 
 O Allah, and send Your blessings on ‘Ali
 
@@ -1475,119 +903,43 @@ Your trustees on Your land
 
 (bless them with) numerous and continous blessings
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على عليّ أمير المؤمنين
-  </p>
-</blockquote>
+> اللهم صلي على عليّ أمير المؤمنين
 
-<blockquote dir="rtl">
-  <p>
-ووصيّ رسول رب العالمين
-  </p>
-</blockquote>
+> ووصيّ رسول رب العالمين
 
-<blockquote dir="rtl">
-  <p>
-عبدك ووليّك واخلي رسولك وحُجتك على خلقك
-  </p>
-</blockquote>
+> عبدك ووليّك واخلي رسولك وحُجتك على خلقك
 
-<blockquote dir="rtl">
-  <p>
-وايتك الكبرى والنبأ العظيم
-  </p>
-</blockquote>
+> وايتك الكبرى والنبأ العظيم
 
-<blockquote dir="rtl">
-  <p>
-وصلي على الصديقة الطاهرة
-  </p>
-</blockquote>
+> وصلي على الصديقة الطاهرة
 
-<blockquote dir="rtl">
-  <p>
-فاطمة الزهراء سيدة نساء العالمين
-  </p>
-</blockquote>
+> فاطمة الزهراء سيدة نساء العالمين
 
-<blockquote dir="rtl">
-  <p>
-وصلي على سبطى الرحمة واماماي الهُدى
-  </p>
-</blockquote>
+> وصلي على سبطى الرحمة واماماي الهُدى
 
-<blockquote dir="rtl">
-  <p>
-الحسن والحُسين سيدي شباب اهل الجنة
-  </p>
-</blockquote>
+> الحسن والحُسين سيدي شباب اهل الجنة
 
-<blockquote dir="rtl">
-  <p>
-وصلي على أئمة المسلمين ، عليّ بن الحسين
-  </p>
-</blockquote>
+> وصلي على أئمة المسلمين ، عليّ بن الحسين
 
-<blockquote dir="rtl">
-  <p>
-ومحمد بن عليّ
-  </p>
-</blockquote>
+> ومحمد بن عليّ
 
-<blockquote dir="rtl">
-  <p>
-وجعفر بن محمد
-  </p>
-</blockquote>
+> وجعفر بن محمد
 
-<blockquote dir="rtl">
-  <p>
-وموسى بن جعفر
-  </p>
-</blockquote>
+> وموسى بن جعفر
 
-<blockquote dir="rtl">
-  <p>
-وعليّ بن موسى
-  </p>
-</blockquote>
+> وعليّ بن موسى
 
-<blockquote dir="rtl">
-  <p>
-ومحمد بن عليّ
-  </p>
-</blockquote>
+> ومحمد بن عليّ
 
-<blockquote dir="rtl">
-  <p>
-وعليّ بن محمد
-  </p>
-</blockquote>
+> وعليّ بن محمد
 
-<blockquote dir="rtl">
-  <p>
-والحسن بن عليّ
-  </p>
-</blockquote>
+> والحسن بن عليّ
 
-<blockquote dir="rtl">
-  <p>
-والخلف الهادي المهدي
-  </p>
-</blockquote>
+> والخلف الهادي المهدي
 
-<blockquote dir="rtl">
-  <p>
-حُجتك على عبادك وأمنائك في بلادك
-  </p>
-</blockquote>
+> حُجتك على عبادك وأمنائك في بلادك
 
-<blockquote dir="rtl">
-  <p>
-صلوة كثيرة دائمة
-  </p>
-</blockquote>
+> صلوة كثيرة دائمة
 
 O Allah and send blessings on the guardian of Your orders
 
@@ -1651,107 +1003,39 @@ give us through it
 
 honor of the world and the Hereafter.
 
-<blockquote dir="rtl">
-  <p>
-اللهم وصلي على وليّ امرك القائم المؤمل
-  </p>
-</blockquote>
+> اللهم وصلي على وليّ امرك القائم المؤمل
 
-<blockquote dir="rtl">
-  <p>
-والعدل المنتظر وحُفه بملائكتك المقربين
-  </p>
-</blockquote>
+> والعدل المنتظر وحُفه بملائكتك المقربين
 
-<blockquote dir="rtl">
-  <p>
-وأيده بروح القدس يا رب العالمين
-  </p>
-</blockquote>
+> وأيده بروح القدس يا رب العالمين
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعله الداعي إلى كتابك والقائم بدينك
-  </p>
-</blockquote>
+> اللهم اجعله الداعي إلى كتابك والقائم بدينك
 
-<blockquote dir="rtl">
-  <p>
-استخلفه في الأرض كما استخلفت الذين من قبله
-  </p>
-</blockquote>
+> استخلفه في الأرض كما استخلفت الذين من قبله
 
-<blockquote dir="rtl">
-  <p>
-مكِن له دينه الذي ارتضيته
-  </p>
-</blockquote>
+> مكِن له دينه الذي ارتضيته
 
-<blockquote dir="rtl">
-  <p>
-ابدله من بعد خوفه امناً يعبدك لا يُشرك بك شيئاً
-  </p>
-</blockquote>
+> ابدله من بعد خوفه امناً يعبدك لا يُشرك بك شيئاً
 
-<blockquote dir="rtl">
-  <p>
-اللهم اعزه واعزز به وانصره وانتصر به
-  </p>
-</blockquote>
+> اللهم اعزه واعزز به وانصره وانتصر به
 
-<blockquote dir="rtl">
-  <p>
-وانصره نصراً وافتح له فتحاً يسيراً
-  </p>
-</blockquote>
+> وانصره نصراً وافتح له فتحاً يسيراً
 
-<blockquote dir="rtl">
-  <p>
-واجعل له من لدنك سلطاناً نصيراً
-  </p>
-</blockquote>
+> واجعل له من لدنك سلطاناً نصيراً
 
-<blockquote dir="rtl">
-  <p>
-اللهم اظهر به دينك وسُنة نبيّك
-  </p>
-</blockquote>
+> اللهم اظهر به دينك وسُنة نبيّك
 
-<blockquote dir="rtl">
-  <p>
-حتى لا يستخفى بشي من الحق مخافة احد من الخلق
-  </p>
-</blockquote>
+> حتى لا يستخفى بشي من الحق مخافة احد من الخلق
 
-<blockquote dir="rtl">
-  <p>
-اللهم إنا نرغب إليك في دولة كريمة
-  </p>
-</blockquote>
+> اللهم إنا نرغب إليك في دولة كريمة
 
-<blockquote dir="rtl">
-  <p>
-تُعز بها الإسلام واهله وتُذل بها النفاق واهله
-  </p>
-</blockquote>
+> تُعز بها الإسلام واهله وتُذل بها النفاق واهله
 
-<blockquote dir="rtl">
-  <p>
-وتجعلنا فيها من الدعاة إلى طاعتك
-  </p>
-</blockquote>
+> وتجعلنا فيها من الدعاة إلى طاعتك
 
-<blockquote dir="rtl">
-  <p>
-والقادة إلى سبيلك
-  </p>
-</blockquote>
+> والقادة إلى سبيلك
 
-<blockquote dir="rtl">
-  <p>
-وترزقنا بها كرامة الدنيا والأخرة
-  </p>
-</blockquote>
+> وترزقنا بها كرامة الدنيا والأخرة
 
 O Allah, what You have made known to us of the truth
 
@@ -1821,113 +1105,41 @@ and our enemy
 
 O God of truth, Ameen.
 
-<blockquote dir="rtl">
-  <p>
-اللهم ما عرفتنا من الحق فحملناه
-  </p>
-</blockquote>
+> اللهم ما عرفتنا من الحق فحملناه
 
-<blockquote dir="rtl">
-  <p>
-وما قصرنا عنه فبلغناه
-  </p>
-</blockquote>
+> وما قصرنا عنه فبلغناه
 
-<blockquote dir="rtl">
-  <p>
-اللهم اللمم به شعثنا واشعب به صدعنا
-  </p>
-</blockquote>
+> اللهم اللمم به شعثنا واشعب به صدعنا
 
-<blockquote dir="rtl">
-  <p>
-وارتُق به فتقنا وكثر به قلتنا
-  </p>
-</blockquote>
+> وارتُق به فتقنا وكثر به قلتنا
 
-<blockquote dir="rtl">
-  <p>
-واعزز به ذلتنا واغن به عائلنا
-  </p>
-</blockquote>
+> واعزز به ذلتنا واغن به عائلنا
 
-<blockquote dir="rtl">
-  <p>
-واقض به عن مغرمنا واجبر به فقرنا
-  </p>
-</blockquote>
+> واقض به عن مغرمنا واجبر به فقرنا
 
-<blockquote dir="rtl">
-  <p>
-وسُد به خلتنا ويسّر به عُسرنا
-  </p>
-</blockquote>
+> وسُد به خلتنا ويسّر به عُسرنا
 
-<blockquote dir="rtl">
-  <p>
-وبيض به وجوهنا وفُك به اسرنا
-  </p>
-</blockquote>
+> وبيض به وجوهنا وفُك به اسرنا
 
-<blockquote dir="rtl">
-  <p>
-وانجح به طلبتنا وانجز به مواعيدنا
-  </p>
-</blockquote>
+> وانجح به طلبتنا وانجز به مواعيدنا
 
-<blockquote dir="rtl">
-  <p>
-واستجب به دعوتنا واعطنا به سؤلنا
-  </p>
-</blockquote>
+> واستجب به دعوتنا واعطنا به سؤلنا
 
-<blockquote dir="rtl">
-  <p>
-وبلغنا به من الدنيا والأخرة امالنا
-  </p>
-</blockquote>
+> وبلغنا به من الدنيا والأخرة امالنا
 
-<blockquote dir="rtl">
-  <p>
-واعطنا به فوق رغبتنا
-  </p>
-</blockquote>
+> واعطنا به فوق رغبتنا
 
-<blockquote dir="rtl">
-  <p>
-يا خير المسؤولين واوسع المُعطين
-  </p>
-</blockquote>
+> يا خير المسؤولين واوسع المُعطين
 
-<blockquote dir="rtl">
-  <p>
-اشف به صُدورنا واذهب به غيظ قلوبنا
-  </p>
-</blockquote>
+> اشف به صُدورنا واذهب به غيظ قلوبنا
 
-<blockquote dir="rtl">
-  <p>
-واهدنا به لِما اختلف فيه من الحق
-  </p>
-</blockquote>
+> واهدنا به لِما اختلف فيه من الحق
 
-<blockquote dir="rtl">
-  <p>
-بإذنك إنك تهدي من تشاء إلى صراط مستقيم
-  </p>
-</blockquote>
+> بإذنك إنك تهدي من تشاء إلى صراط مستقيم
 
-<blockquote dir="rtl">
-  <p>
-وانصرنا به على عدوك وعدونا
-  </p>
-</blockquote>
+> وانصرنا به على عدوك وعدونا
 
-<blockquote dir="rtl">
-  <p>
-إله الحق أمين
-  </p>
-</blockquote>
+> إله الحق أمين
 
 O Allah, we complain to You
 
@@ -1963,59 +1175,23 @@ and a well­being from You which clothes us
 
 by Your mercy O most merciful.
 
-<blockquote dir="rtl">
-  <p>
-اللهم إنا نشكوا إليك فقد نبيّنا صلواتك عليه وأله
-  </p>
-</blockquote>
+> اللهم إنا نشكوا إليك فقد نبيّنا صلواتك عليه وأله
 
-<blockquote dir="rtl">
-  <p>
-وغيبة وليّنا وكثرة عدوّنا
-  </p>
-</blockquote>
+> وغيبة وليّنا وكثرة عدوّنا
 
-<blockquote dir="rtl">
-  <p>
-وقلة عددنا وشدة الفِتن بنا
-  </p>
-</blockquote>
+> وقلة عددنا وشدة الفِتن بنا
 
-<blockquote dir="rtl">
-  <p>
-وتظاهر الزمان علينا
-  </p>
-</blockquote>
+> وتظاهر الزمان علينا
 
-<blockquote dir="rtl">
-  <p>
-فصل على محمد وأله
-  </p>
-</blockquote>
+> فصل على محمد وأله
 
-<blockquote dir="rtl">
-  <p>
-واعنا على ذلك بفتح منك تُعجله
-  </p>
-</blockquote>
+> واعنا على ذلك بفتح منك تُعجله
 
-<blockquote dir="rtl">
-  <p>
-وبضُر تكشفه ونصر تُعزه وسُلطان حق تُظهره
-  </p>
-</blockquote>
+> وبضُر تكشفه ونصر تُعزه وسُلطان حق تُظهره
 
-<blockquote dir="rtl">
-  <p>
-ورحمة منك تُجللناها وعافية منك تُلبسناها
-  </p>
-</blockquote>
+> ورحمة منك تُجللناها وعافية منك تُلبسناها
 
-<blockquote dir="rtl">
-  <p>
-برحمتك يا ارحم الراحمين
-  </p>
-</blockquote>
+> برحمتك يا ارحم الراحمين
 
 Du'a no. 5
 ----------
@@ -2084,101 +1260,37 @@ do not confine us to Hell,
 
 try us not with Your punishment and disgrace,
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد وأل محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد وأل محمد
 
-<blockquote dir="rtl">
-  <p>
-اللهم برحمتك في الصالحين فادخلنا
-  </p>
-</blockquote>
+> اللهم برحمتك في الصالحين فادخلنا
 
-<blockquote dir="rtl">
-  <p>
-وفي علييّن فارفعنا
-  </p>
-</blockquote>
+> وفي علييّن فارفعنا
 
-<blockquote dir="rtl">
-  <p>
-وبكأس من معين من عين سلسبيل فاسقنا
-  </p>
-</blockquote>
+> وبكأس من معين من عين سلسبيل فاسقنا
 
-<blockquote dir="rtl">
-  <p>
-ومن الحور العين برحمتك فزوجنا
-  </p>
-</blockquote>
+> ومن الحور العين برحمتك فزوجنا
 
-<blockquote dir="rtl">
-  <p>
-ومن الولدان المُخلدين كأنهم لؤلؤ مكنون فاخدمنا
-  </p>
-</blockquote>
+> ومن الولدان المُخلدين كأنهم لؤلؤ مكنون فاخدمنا
 
-<blockquote dir="rtl">
-  <p>
-ومن ثمار الجنة ولُحوم الطير فاطعمنا
-  </p>
-</blockquote>
+> ومن ثمار الجنة ولُحوم الطير فاطعمنا
 
-<blockquote dir="rtl">
-  <p>
-ومن ثياب السُندس والحرير والإستبرق فالبسنا
-  </p>
-</blockquote>
+> ومن ثياب السُندس والحرير والإستبرق فالبسنا
 
-<blockquote dir="rtl">
-  <p>
-وليلة القدر وحج بيتك الحرام
-  </p>
-</blockquote>
+> وليلة القدر وحج بيتك الحرام
 
-<blockquote dir="rtl">
-  <p>
-وقتلاً في سبيلك فوفق لنا
-  </p>
-</blockquote>
+> وقتلاً في سبيلك فوفق لنا
 
-<blockquote dir="rtl">
-  <p>
-وصالح الدعاء والمسئلة فاستجب لنا
-  </p>
-</blockquote>
+> وصالح الدعاء والمسئلة فاستجب لنا
 
-<blockquote dir="rtl">
-  <p>
-وإذا جمعت الأولين والأخرين يوم القيامة فارحمنا
-  </p>
-</blockquote>
+> وإذا جمعت الأولين والأخرين يوم القيامة فارحمنا
 
-<blockquote dir="rtl">
-  <p>
-وبرائة من النار فاكتب لنا
-  </p>
-</blockquote>
+> وبرائة من النار فاكتب لنا
 
-<blockquote dir="rtl">
-  <p>
-وفي جهنم فلا تغُلنا
-  </p>
-</blockquote>
+> وفي جهنم فلا تغُلنا
 
-<blockquote dir="rtl">
-  <p>
-وفي عذابك وهوانك فلا تبتلنا
-  </p>
-</blockquote>
+> وفي عذابك وهوانك فلا تبتلنا
 
 feed us not from the bitter tree,
 
@@ -2198,41 +1310,17 @@ for the sake of there being no god but You,
 
 save us.
 
-<blockquote dir="rtl">
-  <p>
-ومن الزقوم والضريع فلا تُطعمنا
-  </p>
-</blockquote>
+> ومن الزقوم والضريع فلا تُطعمنا
 
-<blockquote dir="rtl">
-  <p>
-ومع الشياطين فلا تجعلنا
-  </p>
-</blockquote>
+> ومع الشياطين فلا تجعلنا
 
-<blockquote dir="rtl">
-  <p>
-وفي النار على وجوهنا فلا تكببنا
-  </p>
-</blockquote>
+> وفي النار على وجوهنا فلا تكببنا
 
-<blockquote dir="rtl">
-  <p>
-ومن ثياب النار وسرابيل القطران فلا تلبسنا
-  </p>
-</blockquote>
+> ومن ثياب النار وسرابيل القطران فلا تلبسنا
 
-<blockquote dir="rtl">
-  <p>
-ومن كل سوء يا لا إله إلا أنت
-  </p>
-</blockquote>
+> ومن كل سوء يا لا إله إلا أنت
 
-<blockquote dir="rtl">
-  <p>
-بحق لا إله إلا أنت فنجّنا
-  </p>
-</blockquote>
+> بحق لا إله إلا أنت فنجّنا
 
 Du'a no. 6
 ----------
@@ -2277,83 +1365,31 @@ You support Your religion,
 
 not substituting any in my place.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد وأل محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد وأل محمد
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني اسئلك أن تجعل فيما تقضي وتُقدر
-  </p>
-</blockquote>
+> اللهم إني اسئلك أن تجعل فيما تقضي وتُقدر
 
-<blockquote dir="rtl">
-  <p>
-من الأمر المحتوم في الأمر الحكيم
-  </p>
-</blockquote>
+> من الأمر المحتوم في الأمر الحكيم
 
-<blockquote dir="rtl">
-  <p>
-من القضاء الذي لا يُرد ولا يُبدل
-  </p>
-</blockquote>
+> من القضاء الذي لا يُرد ولا يُبدل
 
-<blockquote dir="rtl">
-  <p>
-أن تكتبني من حُجاج بيتك الحرام
-  </p>
-</blockquote>
+> أن تكتبني من حُجاج بيتك الحرام
 
-<blockquote dir="rtl">
-  <p>
-المبرور حجُهم المشكور سعيهم
-  </p>
-</blockquote>
+> المبرور حجُهم المشكور سعيهم
 
-<blockquote dir="rtl">
-  <p>
-المغفور ذنوبهم المُكفر عن سيئاتهم
-  </p>
-</blockquote>
+> المغفور ذنوبهم المُكفر عن سيئاتهم
 
-<blockquote dir="rtl">
-  <p>
-وأن تجعل فيما تقضي وتقدر
-  </p>
-</blockquote>
+> وأن تجعل فيما تقضي وتقدر
 
-<blockquote dir="rtl">
-  <p>
-أن تطيل عمري في خير وعافية
-  </p>
-</blockquote>
+> أن تطيل عمري في خير وعافية
 
-<blockquote dir="rtl">
-  <p>
-وتوسع في رزقي
-  </p>
-</blockquote>
+> وتوسع في رزقي
 
-<blockquote dir="rtl">
-  <p>
-وتجعلني ممن تنتنصر به لدينك
-  </p>
-</blockquote>
+> وتجعلني ممن تنتنصر به لدينك
 
-<blockquote dir="rtl">
-  <p>
-ولا تستبدل بي غيري
-  </p>
-</blockquote>
+> ولا تستبدل بي غيري
 
 Du'a no. 7
 ----------
@@ -2370,34 +1406,13 @@ while I still have a duty I have not carried out,
 
 or a sin that You may punish me for.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-أعوذ بجلال وجهك الكريم
-  </p>
-</blockquote>
+> أعوذ بجلال وجهك الكريم
 
-<blockquote dir="rtl">
-  <p>
-أن ينقضي عني شهر رمضان
-  </p>
-</blockquote>
+> أن ينقضي عني شهر رمضان
 
-<blockquote dir="rtl">
-  <p>
-أو يطلع الفجر من ليلتي هذه
-  </p>
-</blockquote>
+> أو يطلع الفجر من ليلتي هذه
 
-<blockquote dir="rtl">
-  <p>
-ولك قبلي تبعة أو ذنب تُعذبني عليه
-  </p>
-</blockquote>
-
+> ولك قبلي تبعة أو ذنب تُعذبني عليه
 

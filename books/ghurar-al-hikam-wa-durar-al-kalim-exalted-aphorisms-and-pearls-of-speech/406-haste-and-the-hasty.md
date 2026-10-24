@@ -69,11 +69,7 @@ correct.
 love of the one who is fed up lasts.
 
 > 16ـ قَلَّما تَنْجَحُ حيلَةُ العَجُولِ، أوْ تَدُومُ مَوَدَّةُ
-<blockquote dir="rtl">
-  <p>
-المَلُولِ.
-  </p>
-</blockquote>
+> المَلُولِ.
 
 17. Few are the ones who make haste and are not ruined by it.
 
@@ -128,24 +124,15 @@ is the hasty, rash person who is not subdued by his intellect until
 after his affair is lost.
 
 > 29ـ أشَدُّ النّاسِ نَدامَةً، وأكْثَرُهُمْ مَلامَةً، العَجِلُ النَّزِقُ
-<blockquote dir="rtl">
-  <p>
-الَّذي لايُدْرِكُهُ عَقْلُهُ، إلاّ بَعْدَ فَوْتِ أمْرِهِ.
-  </p>
-</blockquote>
+> الَّذي لايُدْرِكُهُ عَقْلُهُ، إلاّ بَعْدَ فَوْتِ أمْرِهِ.
 
 30. Leave haste aside, for indeed the one who is hasty in matters
 neither attains what he seeks nor is his affair praised.
 
 > 30ـ ذَرِ العَجَلَ، فَإنَّ العَجِلَ فِي الأُمُورِ لايُدْرِكُ مَطْلَبَهُ
-<blockquote dir="rtl">
-  <p>
-وَلايُحْمَدُ أمْرُهُ.
-  </p>
-</blockquote>
+> وَلايُحْمَدُ أمْرُهُ.
 
 31. The hasty one errs or is close to [erring].
 
 > 31ـ أخْطَأَ مُسْتَعْجِلٌ أوْ كادَ.
-
 

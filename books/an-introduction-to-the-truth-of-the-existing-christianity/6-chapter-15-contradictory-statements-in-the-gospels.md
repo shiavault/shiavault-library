@@ -175,7 +175,6 @@ this valid reason, we affirm that the Christians' existing Bible is
 (edited) interpolated without any shadow of doubt. It is a fake and far
 from proving a heavenly book.
 
-
 **Chapter 16: What is The Religion of the Sword?**
 
 **The calumny**
@@ -286,5 +285,4 @@ freethinking people embrace it with great enthusiasm?
 Those who say: "Islam has advanced by the sword" have no intention
 except malice and vindictiveness and historical facts and current events
 disprove such a wicked assertion.
-
 

@@ -273,4 +273,3 @@ Give others a chance to give you their own advice and views.
 
 Praise be to Allah, the Lord of the worlds.
 
-

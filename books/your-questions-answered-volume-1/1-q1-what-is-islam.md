@@ -149,4 +149,3 @@ evolution means that there is no creator and that the things came into
 being just by progress of matter, then it is naked "Kufr" (atheism) and
 our faith cannot tolerate it even for an instant.
 
-

@@ -296,7 +296,7 @@ behind them. So they were men of justice and moral.
 ------------------------------------------------------------------------
 
 **[1]** Allamah Sharafuddin: *Ajooba Masail-e-Jarullah* (Matbatul Irfan
-– Saida – 1953 A.D., 1373 A.H. 2<sup>nd</sup> Edition), Pg. 84  
+– Saida – 1953 A.D., 1373 A.H. 2nd Edition), Pg. 84  
  **[2]** Ibid. Pg. 86
 
 Jarallah represents dissimulation as an act of show and a trick. So

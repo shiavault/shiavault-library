@@ -337,4 +337,3 @@ their surrounding ideas, is likely to show an array of detail of
 convincing proportions, especially considering that the word Hamda is
 used as a proper name with eschatological connotations.
 
-

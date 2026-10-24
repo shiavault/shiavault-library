@@ -391,4 +391,3 @@ pronoun translated as 'these' literally means, 'those'.) This word, in
 this context, points to their distance from the courtyard of proximity
 and honor. al-I’tad (to prepare; to promise).
 
-

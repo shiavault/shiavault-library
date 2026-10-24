@@ -40,4 +40,3 @@ When we go further, we come across those subjects which are not agreed
 amongst the Muslims, and there the differences between the different
 sects of Islam begin.
 
-

@@ -9,4 +9,3 @@ corresponds with the sixteenth century decline of the subject in early
 modern Europe. It is tempting to make this assumption but it needs to be
 examined and relevant texts must be edited and studied.
 
-

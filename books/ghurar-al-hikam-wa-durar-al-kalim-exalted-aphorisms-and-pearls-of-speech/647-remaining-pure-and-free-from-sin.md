@@ -27,4 +27,3 @@ Remaining Pure And Free From Sin
 
 > 6ـ كُنْ مُتَنَزِّهاً تَكُنْ تَقِيّاً.
 
-

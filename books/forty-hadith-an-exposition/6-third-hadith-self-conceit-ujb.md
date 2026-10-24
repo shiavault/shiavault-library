@@ -1,18 +1,14 @@
 Third Hadith: Self-Conceit (‘Ujb)
 =================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيِّ بْنِ
-إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَسْبَاطٍ، عَنْ أَحْمَدَ
-بْنِ عُمَرَ الحَلاّلِ، عَنْ عَلِيِّ بْنِ سُوَيْدٍ، عَنْ أَبِي الحَسَنِ
-عَلَيْهِ السَّلامُ قَالَ: سَأَلْتُهُ عَنِ العُجْبِ الَّذِي يُفْسِدُ
-العَمَلَ، فَقَالَ: العُجْبُ دَرَجَاتٌ؛ مِنْهَا أَنْ يُزَيَّنَ
-لِلعَبْدِ سُوءُ عَمَلِهِ فَيَرَاهُ حَسَناً فَيُعْجِبُهُ وَيَحْسَبُ
-أَنَّهُ يُحْسِنُ صُنْعاً. وَمِنْهَا أَنْ يُؤْمِنَ العَبْدُ بِرَبِّهِ
-فَيَمُنُّ عَلَى اللهِ عَز َّوَجَلَّ وَاللهُ عَلَيْهِ فِيهِ المَنُّ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيِّ بْنِ
+> إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَسْبَاطٍ، عَنْ أَحْمَدَ
+> بْنِ عُمَرَ الحَلاّلِ، عَنْ عَلِيِّ بْنِ سُوَيْدٍ، عَنْ أَبِي الحَسَنِ
+> عَلَيْهِ السَّلامُ قَالَ: سَأَلْتُهُ عَنِ العُجْبِ الَّذِي يُفْسِدُ
+> العَمَلَ، فَقَالَ: العُجْبُ دَرَجَاتٌ؛ مِنْهَا أَنْ يُزَيَّنَ
+> لِلعَبْدِ سُوءُ عَمَلِهِ فَيَرَاهُ حَسَناً فَيُعْجِبُهُ وَيَحْسَبُ
+> أَنَّهُ يُحْسِنُ صُنْعاً. وَمِنْهَا أَنْ يُؤْمِنَ العَبْدُ بِرَبِّهِ
+> فَيَمُنُّ عَلَى اللهِ عَز َّوَجَلَّ وَاللهُ عَلَيْهِ فِيهِ المَنُّ.
 
 Muhammad ibn Ya’qub (al-Kulayni) from ‘Ali ibn Ibrahim, from his father,
 from ‘Ali ibn Asbat, from Ahmad ibn ‘Umar al-Hallal, from ‘Ali ibn
@@ -226,11 +222,7 @@ pointed out in the *hadith*, at one stage bad deeds appear to be good to
 the evil person and he perceives them as virtues. This is all allusion
 to the verse of the Quran, which says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا.﴾
-  </p>
-</blockquote>
+> ﴿أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا.﴾
 
 ***And what of him, the evil of whose deeds has been decked out fair to
 him, so that he thinks then good?...*** (***35:8***)
@@ -238,15 +230,11 @@ him, so that he thinks then good?...*** (***35:8***)
 The words (وَيَحْسَبُ أَنَّهُ يُحْسِنُ صُنْعاً) (‘and he considers that
 he is doing something good’) refer to the following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا. الَّذِينَ ضَلَّ
-سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ
-يُحْسِنُونَ صُنْعًا. أُولَئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ
-وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ
-الْقِيَامَةِ وَزْنًا.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا. الَّذِينَ ضَلَّ
+> سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ
+> يُحْسِنُونَ صُنْعًا. أُولَئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ
+> وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ
+> الْقِيَامَةِ وَزْنًا.﴾
 
 ***Say: Shall We inform you who will be the greatest losers in their
 works? Those whose striving goes astray in the life of the world, while
@@ -322,13 +310,9 @@ ultimately lead him to deliverance. Perhaps God Almighty has afflicted
 him with this sin, so as to protect him from *‘ujb*, which is worse than
 sin. It is said in a *hadith* of *al-Kafi:*
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إِنَّ اللهَ عَلِمَ
-أَنَّ الذَّنْبَ خَيْرٌ لِلْمُؤْمِنِ مِنَ العُجْبِ، وَلَوْلا ذَلِكَ
-لَمَا ابْتُلِيَ مُؤْمِنٌ بِذَنْبٍ أَبَداً.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: إِنَّ اللهَ عَلِمَ
+> أَنَّ الذَّنْبَ خَيْرٌ لِلْمُؤْمِنِ مِنَ العُجْبِ، وَلَوْلا ذَلِكَ
+> لَمَا ابْتُلِيَ مُؤْمِنٌ بِذَنْبٍ أَبَداً.
 
 Imam Ja’far al-Sadiq (A) said: Verily God Almighty knows that sin is
 better for a mu’min (a true believer) than ‘ujb. If it was not thus, He
@@ -369,11 +353,7 @@ reckoned *‘ujb* as one of the greatest of spiritual dangers. In
 *al-’Amali* of Al-Shaykh al-Saduq, Imam ‘Ali (A) has been reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ دَخَلَهُ العُجْبُ هَلَكَ.
-  </p>
-</blockquote>
+> مَنْ دَخَلَهُ العُجْبُ هَلَكَ.
 
 The one into whose heart ‘ujb permeates is destined to be destroyed.
 
@@ -382,11 +362,7 @@ evil experiences a dreadful loneliness, which is incomparable and
 unimaginable; in an advice given by the Prophet (S) before his death to
 Imam ‘Ali (A). he says:
 
-<blockquote dir="rtl">
-  <p>
-وَلا وَحْدَةَ أَوْحَشُ مِنَ العُجْبِ.
-  </p>
-</blockquote>
+> وَلا وَحْدَةَ أَوْحَشُ مِنَ العُجْبِ.
 
 No loneliness can be compared in dreadfulness to the one, which is the
 result of ‘ujb.
@@ -506,11 +482,7 @@ justice to the demands of the worship and the service of Lord. While the
 most perfect of all creatures and the man nearest to God (i.e. the
 Prophet [S]) utters:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَرِفْنَاكَ حَقَّ مَعْرِفَتِكَ وَلا عَبَدْنَاكَ حَقَّ عِبَادَتِكَ.
-  </p>
-</blockquote>
+> مَا عَرِفْنَاكَ حَقَّ مَعْرِفَتِكَ وَلا عَبَدْنَاكَ حَقَّ عِبَادَتِكَ.
 
 We did not know You as You deserve to be known. We did not worship You
 as You deserve to be worshipped.
@@ -560,12 +532,8 @@ attributes to the creatures. Make it known to us that none of the
 praiseworthy attributes belongs to any created being . Reveal to us the
 truth of:
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
-سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
-  </p>
-</blockquote>
+> ﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
+> سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
 
 ***Whatever of good befalleth thee*** (***O man***)***, it is from
 Allah, and whatever or ill befalleth thee it is from thyself.*** (***4:
@@ -578,11 +546,7 @@ hypocrisy. We are conceited and egoistic. Purge away the evil of self-
 love and the love of mundane thins from our hearts and convert us into
 Your lovers and worshippers:
 
-<blockquote dir="rtl">
-  <p>
-﴿إنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.﴾
-  </p>
-</blockquote>
+> ﴿إنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.﴾
 
 *Verily, Thou art able to do all things.*
 
@@ -725,18 +689,14 @@ al-Kulayni, in his book *al-Kafi,* on the authority of Imam al Sadiq
 (A); here I am copying a part of it verbatim in order to draw upon its
 blessing (*barakah*)*:*
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ: قَالَ اللهُ عَزَّ وَجَلَّ لِدَاوُدَ
-عَلَيْهِ السَّلامُ: يَا دَاوُدُ بَشِّرِ المُذْنِبِينَ وَأَنْذِرِ
-الصِّدِّيقِينَ. قَالَ: كَيْفَ أُبَشِّرُ المُذْنِبِينَ وَأُنْذِرُ
-الصِّدِّيقِينَ؟ قَالَ: يَا دَاوُدُ بَشِّرِ المُذْنِبِينَ بِأَنِّي
-أَقْبَلُ التَّوْبَةَ وَأَعْفُو عَنِ الذَّنْبِ، وَأَنْذِرِ
-الصِّدِّيقِينَ أَنْ لا يُعْجَبُوا بِأَعْمَالِهِمِ، فَإنَّهُ لَيْسَ
-عَبْدٌ يَتَعَجَّبُ بِالحَسَنَاتِ إلا هَلَكَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ: قَالَ اللهُ عَزَّ وَجَلَّ لِدَاوُدَ
+> عَلَيْهِ السَّلامُ: يَا دَاوُدُ بَشِّرِ المُذْنِبِينَ وَأَنْذِرِ
+> الصِّدِّيقِينَ. قَالَ: كَيْفَ أُبَشِّرُ المُذْنِبِينَ وَأُنْذِرُ
+> الصِّدِّيقِينَ؟ قَالَ: يَا دَاوُدُ بَشِّرِ المُذْنِبِينَ بِأَنِّي
+> أَقْبَلُ التَّوْبَةَ وَأَعْفُو عَنِ الذَّنْبِ، وَأَنْذِرِ
+> الصِّدِّيقِينَ أَنْ لا يُعْجَبُوا بِأَعْمَالِهِمِ، فَإنَّهُ لَيْسَ
+> عَبْدٌ يَتَعَجَّبُ بِالحَسَنَاتِ إلا هَلَكَ.
 
 Imam Ja’far al Sadiq (A) reports from the Prophet (S) that he said: God
 Almighty-said to David (A), “O David give good news unto the sinners and
@@ -760,13 +720,9 @@ Almighty for uttering those solemn lies, and for falsely assigning those
 virtues to ourselves. Does it not call for repentance when you make this
 declaration in front of God. While standing for prayer:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا
-وَمَا أَنَا مِنْ الْمُشْرِكِينَ. إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَاي
-وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا
+> وَمَا أَنَا مِنْ الْمُشْرِكِينَ. إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَاي
+> وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
 
 ***I have turned my face, in sincerity and submission, towards Him who
 created the heavens and earth, and I am not of the mushrikun***
@@ -779,11 +735,7 @@ Are you really a *‘Muslim’* and free from the dirt of *shirk?* Is your
 prayer and worship, your living and dying really for God? Shouldn’t we
 feel some shame while uttering; this sentence in our prayer:
 
-<blockquote dir="rtl">
-  <p>
-﴿الحَمْدُ للهِ رَبِّ العَالَمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿الحَمْدُ للهِ رَبِّ العَالَمِينَ.﴾
 
 *All praise be to Allah, the Lord of the Worlds.*
 
@@ -796,11 +748,7 @@ and lordship of the other-than-God?
 Is there any inkling of shame and repentance in your heart, while you
 utter:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.﴾
-  </p>
-</blockquote>
+> ﴿إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ.﴾
 
 *Thee alone we worship; Thee alone we ask for help?*
 
@@ -810,12 +758,8 @@ your deeds, do you consider God alone? When you go to perform Hajj of
 the *Bayt Allah* (the Holy Ka’bah) is God the only goal and end? And is
 the Master of the House your only pursuit, as the poet says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا حُبُّ الدِّيَارِ شَغَفْنَ قَلْبِي وَلَكِنْ حُبُّ مَنْ سَكَنَ
-الدِّيَارا
-  </p>
-</blockquote>
+> وَمَا حُبُّ الدِّيَارِ شَغَفْنَ قَلْبِي وَلَكِنْ حُبُّ مَنْ سَكَنَ
+> الدِّيَارا
 
 *It is not the dwelling that attracts my heart,  
  But he who dwells in it draws my heart.*
@@ -901,5 +845,4 @@ allahu anhu(m)” is used throughout the book to denote “May God have
 mercy upon him/them.”
 
 [^3]: Al-Kafi, vol. II, p. 313.
-
 

@@ -64,4 +64,3 @@ go against the law and trespass on the rights of others. And men will
 never consider polygamy as forced control over women. Rather they will
 have to follow all the Islamic laws and rules.
 
-

@@ -137,4 +137,3 @@ Supplication of the Gnostics.”
 
 [^5]: Sūrah at-Tawbah 9:111.
 
-

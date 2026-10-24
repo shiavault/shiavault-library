@@ -137,4 +137,3 @@ proven by the Sunnis to be from numerous chain of transmitters:
 verdict that it is Mutawatir;
 7. Abul Abbas Ibn \`Uqdah has narrated it through 150 chains.
 
-

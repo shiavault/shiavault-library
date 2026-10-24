@@ -14,13 +14,9 @@ one second. However, he equally prophesied that the Ummah would betray
 ‘Ali (and, by extension, all the other khalifahs) once he was gone!
 Al-Hafiz Ibn Hajar al-‘Asqalani (d. 852 H) copies:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا الفضل هو أبو نعيم ، ثنا فطر بن خليفة ، أخبرني حبيب بن أبي ثابت،
-قال: سمعت ثعلبة بن يزيد، قال :سمعت عليا رضي الله عنه، يقول : والله إنه
-لعهد النبي الأمي صلى الله عليه وسلم: سيغدرونك من بعدي
-  </p>
-</blockquote>
+> حدثنا الفضل هو أبو نعيم ، ثنا فطر بن خليفة ، أخبرني حبيب بن أبي ثابت،
+> قال: سمعت ثعلبة بن يزيد، قال :سمعت عليا رضي الله عنه، يقول : والله إنه
+> لعهد النبي الأمي صلى الله عليه وسلم: سيغدرونك من بعدي
 
 Al-Fadhl, Abu Na’im – Fitr b. Khalifah – Habib b. Abi Thabit – Tha’labah
 b. Yazid:
@@ -31,12 +27,8 @@ betray you after me.”[^1]
 
 The Salafi annotator, ‘Abd Allah al-Shahri, comments:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف بهذا الإسناد لحال فطر بن خليفة، و ثعلبة بن يزيد فإنهما صدوقان
-متشيعان، و هذا الحديث يُؤيد بدعتهما فهو ضعيف
-  </p>
-</blockquote>
+> ضعيف بهذا الإسناد لحال فطر بن خليفة، و ثعلبة بن يزيد فإنهما صدوقان
+> متشيعان، و هذا الحديث يُؤيد بدعتهما فهو ضعيف
 
 It is dha’if with this chain, due to the status of Fitr b. Khalifah and
 Tha’labah b. Yazid, for both of them were very truthful and Shi’is and
@@ -58,12 +50,8 @@ reliable without question.
 
 Al-Hafiz states about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-الفضل بن دكين الكوفي واسم دكين عمرو بن حماد بن زهير التيمي مولاهم
-الأحول أبو نعيم الملائي بضم الميم مشهور بكنيته ثقة ثبت
-  </p>
-</blockquote>
+> الفضل بن دكين الكوفي واسم دكين عمرو بن حماد بن زهير التيمي مولاهم
+> الأحول أبو نعيم الملائي بضم الميم مشهور بكنيته ثقة ثبت
 
 Al-Fadhl b. Dukayn al-Kufi - and the name of Dukayn was ‘Amr b. Hammad
 b. Zuhayr - al-Tamimi, their freed slave, al-Ahwal, Abu Na’im al-Mulai,
@@ -71,24 +59,16 @@ well-known with his kunya: Thiqah (trustworthy), accurate.[^3]
 
 Concerning the second narrator, he further declares:
 
-<blockquote dir="rtl">
-  <p>
-فطر بن خليفة المخزومي مولاهم أبو بكر الحناط بالمهملة . والنون صدوق رمي
-بالتشيع
-  </p>
-</blockquote>
+> فطر بن خليفة المخزومي مولاهم أبو بكر الحناط بالمهملة . والنون صدوق رمي
+> بالتشيع
 
 Fitr b. Khalifah al-Makhzumi, their freed slave, Abu Bakr al-Hanat:
 Saduq (very truthful), accused of Shi’ism.[^4]
 
 What of the third narrator? Al-Hafiz says:
 
-<blockquote dir="rtl">
-  <p>
-حبيب بن أبي ثابت قيس ويقال هند بن دينار الأسدي مولاهم أبو يحيى الكوفي
-ثقة فقيه جليل وكان كثير الإرسال والتدليس
-  </p>
-</blockquote>
+> حبيب بن أبي ثابت قيس ويقال هند بن دينار الأسدي مولاهم أبو يحيى الكوفي
+> ثقة فقيه جليل وكان كثير الإرسال والتدليس
 
 Habib b. Abi Thabit Qays – and it is said Hind – b. Dinar al-Asadi,
 their freed slave, al-Kufi: Thiqah (trustworthy), a meritorious jurist.
@@ -99,11 +79,7 @@ tadlis are inapplicable and inconsequential here.
 
 Finally, this is what al-Hafiz states about the last narrator:
 
-<blockquote dir="rtl">
-  <p>
-ثعلبة بن يزيد الحماني بكسر المهملة وتشديد الميم كوفي صدوق شيعي
-  </p>
-</blockquote>
+> ثعلبة بن يزيد الحماني بكسر المهملة وتشديد الميم كوفي صدوق شيعي
 
 Tha’labah b. Yazid al-Himmani, a Kufan: Saduq (very truthful), a
 Shi’i.[^6]
@@ -115,14 +91,10 @@ As for al-Shahri’s rejection of the hadith on account of the Shi’ism of
 two of its narrators, we will let another Salafi hadith scientist,
 al-Mua’lami (d. 1386 H) reply him:
 
-<blockquote dir="rtl">
-  <p>
-وقد وثق أئمة الحديث جماعة من المبتدعة واحتجوا بأحاديثهم وأخرجوها في
-الصحاح، ومن تتبع رواياتهم وجد فيها كثيراً مما يوافق ظاهرة بدعهم، وأهل
-العلم يتأولون تلك الأحاديث غير طاعنين فيها ببدعة راويها ولا في راويها
-بروايته لها
-  </p>
-</blockquote>
+> وقد وثق أئمة الحديث جماعة من المبتدعة واحتجوا بأحاديثهم وأخرجوها في
+> الصحاح، ومن تتبع رواياتهم وجد فيها كثيراً مما يوافق ظاهرة بدعهم، وأهل
+> العلم يتأولون تلك الأحاديث غير طاعنين فيها ببدعة راويها ولا في راويها
+> بروايته لها
 
 The Imams in the hadith sciences have declared as trustworthy a lot of
 the heretics, and have taken their (i.e. the heretics’) ahadith as
@@ -135,19 +107,11 @@ do they attack the narrators for narrating them.[^7]
 
 ‘Allamah al-Albani (d. 1420 H) too seconds him:
 
-<blockquote dir="rtl">
-  <p>
-فإن قال قائل: راوي هذا الشاهد شيعي، وكذلك في سند المشهود له شيعي آخر،
-وهو جعفر بن سليمان، أفلا يعتبر ذلك طعنا في الحديث وعلة فيه؟ !
-  </p>
-</blockquote>
+> فإن قال قائل: راوي هذا الشاهد شيعي، وكذلك في سند المشهود له شيعي آخر،
+> وهو جعفر بن سليمان، أفلا يعتبر ذلك طعنا في الحديث وعلة فيه؟ !
 
-<blockquote dir="rtl">
-  <p>
-فأقول: كلا لأن العبرة في رواية الحديث إنما هو الصدق والحفظ، وأما
-المذهب فهو بينه وبين ربه، فهو حسيبه
-  </p>
-</blockquote>
+> فأقول: كلا لأن العبرة في رواية الحديث إنما هو الصدق والحفظ، وأما
+> المذهب فهو بينه وبين ربه، فهو حسيبه
 
 If someone says: “The narrator of this corroborative hadith (i.e. that
 of Ajlah) was a Shi’i, and also in the chain of the main hadith, there
@@ -162,13 +126,9 @@ for him.[^8]
 A third Salafi hadith scientist, al-Turayfi, also traces the practice to
 the Sunni Imams:
 
-<blockquote dir="rtl">
-  <p>
-والأصل في رواية المبتدع إذا كان ضابطاً ثقة القبول، سواء روى فيما يوافق
-بدعته أم لا، ما لم يكن قد كفر ببدعته، فحينئذ يرد لكفره، وعلى هذا
-الأئمة الحفاظ، فهم يخرجون للمبتدع إذا كان ثقة ثبتاً، ويصححون خبره
-  </p>
-</blockquote>
+> والأصل في رواية المبتدع إذا كان ضابطاً ثقة القبول، سواء روى فيما يوافق
+> بدعته أم لا، ما لم يكن قد كفر ببدعته، فحينئذ يرد لكفره، وعلى هذا
+> الأئمة الحفاظ، فهم يخرجون للمبتدع إذا كان ثقة ثبتاً، ويصححون خبره
 
 The default position concerning the report of a heretic, if he was
 accurate and trustworthy, is to accept it, regardless of whether he
@@ -184,13 +144,9 @@ is both unprofessional and crude.
 
 Meanwhile, al-Hafiz copies a second, different chain for the hadith:
 
-<blockquote dir="rtl">
-  <p>
-وقال الحارث: ثنا عبد الرحمن بن زياد مولى بني هاشم، ثنا هشيم، عن
-إسماعيل بن سالم، عن أبي إدريس الأودي، عن علي، قال: قال رسول الله صلى
-الله عليه وسلم :إن هذه الأمة ستغدر بك من بعدي
-  </p>
-</blockquote>
+> وقال الحارث: ثنا عبد الرحمن بن زياد مولى بني هاشم، ثنا هشيم، عن
+> إسماعيل بن سالم، عن أبي إدريس الأودي، عن علي، قال: قال رسول الله صلى
+> الله عليه وسلم :إن هذه الأمة ستغدر بك من بعدي
 
 Al-Harith – ‘Abd al-Rahman b. Ziyad, freed slave of Banu Hashim –
 Hushaym – Isma’il b. Salim – Abu Idris al-Awdi – ‘Ali:
@@ -200,11 +156,7 @@ will soon betray you after me.”[^10]
 
 Al-Shahri again comments:
 
-<blockquote dir="rtl">
-  <p>
-ضعيف بهذا الإسناد لأن أبا إدريس الأودي مجهول الحال
-  </p>
-</blockquote>
+> ضعيف بهذا الإسناد لأن أبا إدريس الأودي مجهول الحال
 
 It is dha’if with this chain because Abu Idris al-Awdi is majhul
 al-hal.[^11]
@@ -215,22 +167,14 @@ Idris. But then, is Abu Idris really majhul al-hal? ‘Ali Shiri, in his
 tahqiq of Tarikh Madinah Dimashq - while commenting under the above
 riwayah – identifies who Abu Idris was for us:
 
-<blockquote dir="rtl">
-  <p>
-وهو أبو إدريس يزيد بن عبد الرحمن الأودي
-  </p>
-</blockquote>
+> وهو أبو إدريس يزيد بن عبد الرحمن الأودي
 
 He was Abu Idris Yazid b. ‘Abd al-Rahman al-Awdi.[^12]
 
 Who then was he? Al-Hafiz has the answer:
 
-<blockquote dir="rtl">
-  <p>
-يزيد بن عبد الرحمن بن الأسود الأودي بواو ساكنة بعدها مهملة، أبو داود
-مقبول
-  </p>
-</blockquote>
+> يزيد بن عبد الرحمن بن الأسود الأودي بواو ساكنة بعدها مهملة، أبو داود
+> مقبول
 
 Yazid b. ‘Abd al-Rahman b. al-Aswad al-Awdi, Abu Dawud: Maqbul (accepted
 when seconded).[^13]
@@ -244,13 +188,9 @@ second sanad of the hadith is also sahih or hasan.
 Imam al-Hakim (d. 403 H) has included the report of al-Awdi in his
 Mustadrak too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو حفص عمر بن أحمد الجمحي بمكة ثنا علي بن عبد العزيز ثنا عمرو
-بن عون ثنا هشيم عن إسماعيل بن سالم عن أبي إدريس الأودي عن علي رضي الله
-عنه قال إن مما عهد إلي النبي صلى الله عليه وسلم أن الأمة ستغدر بي بعده
-  </p>
-</blockquote>
+> حدثنا أبو حفص عمر بن أحمد الجمحي بمكة ثنا علي بن عبد العزيز ثنا عمرو
+> بن عون ثنا هشيم عن إسماعيل بن سالم عن أبي إدريس الأودي عن علي رضي الله
+> عنه قال إن مما عهد إلي النبي صلى الله عليه وسلم أن الأمة ستغدر بي بعده
 
 Abu Hafs ‘Umar b. Ahmad al-Jamhi – ‘Ali b. ‘Abd al-‘Aziz – ‘Amr b. ‘Awn
 – Hushaym – Isma’il b. Salim – Abu Idris al-Awdi – ‘Ali, may Allah be
@@ -261,33 +201,21 @@ the Ummah would soon betray me after him.”[^14]
 
 Then, he declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This hadith has a sahih chain.[^15]
 
 And Imam al-Dhahabi (d. 748 H) concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^16]
 
 Al-Hakim has documented a further shahid:
 
-<blockquote dir="rtl">
-  <p>
-عن حيان الأسدي سمعت عليا يقول قال لي رسول الله صلى الله عليه وسلم إن
-الأمة ستغدر بك بعدي وأنت تعيش على ملتي وتقتل على سنتي من أحبك أحبني
-ومن أبغضك أبغضني وإن هذه ستخضب من هذا يعني لحيته من رأسه
-  </p>
-</blockquote>
+> عن حيان الأسدي سمعت عليا يقول قال لي رسول الله صلى الله عليه وسلم إن
+> الأمة ستغدر بك بعدي وأنت تعيش على ملتي وتقتل على سنتي من أحبك أحبني
+> ومن أبغضك أبغضني وإن هذه ستخضب من هذا يعني لحيته من رأسه
 
 Narrated Hayyan al-Asadi:
 
@@ -300,33 +228,21 @@ from his head.[^17]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^18]
 
 Al-Dhahabi has the same verdict too:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 Sahih[^19]
 
 Al-Hafiz Ibn Hajar al-‘Asqalani has provided details of the sanad of
 this riwayah in his Itihaf:
 
-<blockquote dir="rtl">
-  <p>
-ثنا أبو علي الحافظ ، ثنا الهيثم بن خلف، ثنا محمد بن عمر بن هياج، ثنا
-يحيى بن عبد الرحمن، ثنا يونس بن أبي يعفور، عن أبيه، عنه ، به.
-  </p>
-</blockquote>
+> ثنا أبو علي الحافظ ، ثنا الهيثم بن خلف، ثنا محمد بن عمر بن هياج، ثنا
+> يحيى بن عبد الرحمن، ثنا يونس بن أبي يعفور، عن أبيه، عنه ، به.
 
 Abu ‘Ali al-Hafiz – al-Haytham b. Khalaf – Muhammad b. ‘Umar b. Hayyaj –
 Yahya b. ‘Abd al-Rahman – Yunus b. Abi Yafur – his father – from him
@@ -339,12 +255,8 @@ three asanid leaves absolutely no doubt about the authenticity of the
 report. Even al-Shahri, despite his extreme bias, is unable to escape
 the fact in his final conclusion about the hadith:
 
-<blockquote dir="rtl">
-  <p>
-و مع أن الحديث ضعيف بالنظر إلي كل طريق علي حدة لكن بالنظر إلي الطريقين
-معا فالحديث حسن لغيره
-  </p>
-</blockquote>
+> و مع أن الحديث ضعيف بالنظر إلي كل طريق علي حدة لكن بالنظر إلي الطريقين
+> معا فالحديث حسن لغيره
 
 That the hadith is dha’if by looking at each chain individually;
 however, by looking at the two chains together (i.e. those of Tha’labah
@@ -365,14 +277,10 @@ his place. Interestingly, Imam ‘Ali identified both Abu Bakr and ‘Umar
 as two among the traitors mentioned in the hadith of the Prophet of
 Allah. Imam Muslim (d. 261 H) quotes ‘Umar saying to him and ‘Abbas:
 
-<blockquote dir="rtl">
-  <p>
-فلما توفي رسول الله صلى الله عليه و سلم قال أبو بكر أنا ولي رسول الله
-صلى الله عليه و سلم .... فرأيتماه كاذبا آثما غادرا خائنا والله يعلم
-إنه لصادق بار راشد تابع للحق ثم توفي أبو بكر وأنا ولي رسول الله صلى
-الله عليه و سلم وولي أبا بكر فرأيتماني كاذبا آثما غادرا خائنا
-  </p>
-</blockquote>
+> فلما توفي رسول الله صلى الله عليه و سلم قال أبو بكر أنا ولي رسول الله
+> صلى الله عليه و سلم .... فرأيتماه كاذبا آثما غادرا خائنا والله يعلم
+> إنه لصادق بار راشد تابع للحق ثم توفي أبو بكر وأنا ولي رسول الله صلى
+> الله عليه و سلم وولي أبا بكر فرأيتماني كاذبا آثما غادرا خائنا
 
 When the Messenger of Allah, peace be upon him, died, Abu Bakr said: “I
 am the wali of the Messenger of Allah, peace be upon him.”.... So both
@@ -463,5 +371,4 @@ Zawaid al-Masanid al-Thamaniyyah (Riyadh: Dar al-‘Asimah; 1st edition,
 [^22]: Abu al-Husayn Muslim b. al-Hajjaj al-Qushayri al-Naysaburi, Sahih
 Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 ‘Abd al-Baqi], vol. 3, p. 1376, \#1757
-
 

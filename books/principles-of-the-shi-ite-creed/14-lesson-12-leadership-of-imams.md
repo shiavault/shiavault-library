@@ -133,4 +133,3 @@ without a guide and leader and instructor and desert people?”
 
 [^1]: ‘Usul al-Kafi, vol. 1, p. 170.
 
-

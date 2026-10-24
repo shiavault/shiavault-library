@@ -320,4 +320,3 @@ to judge, but it does determine the limits of moral possibility in part.
 The task of the moralist and the task of the philosopher are not
 identical; but they are not entirely distinct either.
 
-

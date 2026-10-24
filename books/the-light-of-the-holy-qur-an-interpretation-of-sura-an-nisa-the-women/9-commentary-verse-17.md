@@ -38,7 +38,6 @@ mentioning the conditions of repentance, the verse concludes as such:"
 "... So, these are they toward whom Allah returns (mercifully) and
 Allah is All-Knowing, All-Wise."
 
-
 **Commentary : Verse 18**
 
 (18) وَلَيْسَتِ التَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ حَتَّى
@@ -70,7 +69,6 @@ time of death they were not faithful, their former repentance is futile,
 too. At the end of the verse, it says about both groups:
 
 "... Those are they for whom We have prepared a painful torment."
-
 
 **Commentary : Verse 19**
 
@@ -130,5 +128,4 @@ you have given them, ..."
 
 "... and if you hate them, it may be that you dislike a thing while
 Allah has placed abundant good in it."
-
 

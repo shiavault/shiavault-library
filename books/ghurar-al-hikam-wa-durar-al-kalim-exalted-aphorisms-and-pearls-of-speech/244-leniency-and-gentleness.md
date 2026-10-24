@@ -107,11 +107,7 @@ enemies.
 quality of the people of understanding.
 
 > 25ـ عَلَيكَ بِالرِّفْقِ فَإنَّهُ مِفْتاحُ الصَّوابِ وسَجِيَّةُ اُولِى
-<blockquote dir="rtl">
-  <p>
-الألبابِ.
-  </p>
-</blockquote>
+> الألبابِ.
 
 26. Adopt gentleness, for whoever is gentle in his actions, his matters
 will be [successfully] completed.
@@ -186,5 +182,4 @@ objectives from them.
 > 42ـ لاسَجِيَّةَ أشْرَفُ مِنَ الرِّفْقِ.
 
 [^1]: Meaning that it never separates from a believer.
-
 

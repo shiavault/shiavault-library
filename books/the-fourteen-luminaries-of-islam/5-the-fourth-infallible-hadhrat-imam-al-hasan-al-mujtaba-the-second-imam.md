@@ -461,4 +461,3 @@ sins. (*Tuhaf al-‘Uqul*)
 
 [^7]: Sulh-i Imam Husayn, p. 39.
 
-

@@ -23,4 +23,3 @@ Kharijis is even today, following the decree of Imam Ghazzali, busy in
 stopping the remembrance of Husayn (a.s) and mourning of Husayn (a.s) so
 that they may keep the defects of their elders concealed.
 
-

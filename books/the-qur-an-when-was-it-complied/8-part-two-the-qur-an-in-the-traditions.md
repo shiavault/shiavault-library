@@ -530,4 +530,3 @@ time rather than another but as the argument and proof for all humanity.
 Falsehood does not approach it from before it or behind it, a revelation
 from The All Wise, The All Praised.' 94
 
-

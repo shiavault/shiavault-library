@@ -48,4 +48,3 @@ take revenge from my enemies.”[^4]
 
 [^4]: Kamaluddin, Vol. 2, Pg. 440
 
-

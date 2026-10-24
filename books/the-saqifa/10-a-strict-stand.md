@@ -217,12 +217,9 @@ Islamic society that had come into being. His co-operation only at
 needed situations was so prolific that on several occasions Omar had
 declared: "If there was not Ali, Omar had died."
 
-
 The End
 
-
 **Major Resourses and References**
-
 
 1- SAHEEH AL-BUKHARI Egypt. Prtd. 1320 Hijra
 2- SAHEEH MUSLIM Egypt. Prtd. 1390 Hijra (In the page 52 we have
@@ -267,5 +264,4 @@ explanation)
 33- MOJAM AL-BOLDAN
 34- The Tongue of Arabs
 35- The Life of Mohammed by Dr. Mohammed Hussain Haikal
-
 

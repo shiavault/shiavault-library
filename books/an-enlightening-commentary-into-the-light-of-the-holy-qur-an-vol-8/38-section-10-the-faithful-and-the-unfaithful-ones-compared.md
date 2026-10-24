@@ -4,13 +4,9 @@ Section 10: The Faithful and the Unfaithful Ones Compared
 Surah An-Nahl – Verse 71
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَي بَعْضٍ فِي الرّ‌ِزْقِ فَمَا
-الَّذِينَ فُضّـِلُوا بِرَادّ‌ِي رِزْقِهِمْ عَلَي مَا مَلَكَتْ
-أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَي بَعْضٍ فِي الرّ‌ِزْقِ فَمَا
+> الَّذِينَ فُضّـِلُوا بِرَادّ‌ِي رِزْقِهِمْ عَلَي مَا مَلَكَتْ
+> أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ
 
 ***71. “And Allah has made some of you excel others in the (means of)
 sustenance. So those who have been made to excel do not give their
@@ -79,14 +75,10 @@ potentialities.
 Surah An-Nahl – Verse 72
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ جَعَلَ لَكُم مّـِنْ أَنفُسِكُمْ أَزْوَاجاً وَجَعَلَ لَكُم
-مّـِنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مّـِنَ
-الطَّيّـِبَاتِ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللَّهِ هُمْ
-يَكْفُرُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ جَعَلَ لَكُم مّـِنْ أَنفُسِكُمْ أَزْوَاجاً وَجَعَلَ لَكُم
+> مّـِنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مّـِنَ
+> الطَّيّـِبَاتِ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللَّهِ هُمْ
+> يَكْفُرُونَ
 
 ***72. “And Allah has designated wives for you from among your own
 selves and has designated children and grandchildren for you from your
@@ -176,12 +168,8 @@ the Qur’an, and Islam which the unbelievers used to reject.
 Surah An-Nahl – Verse 73
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لاَ يَمْلِكُ لَهُمْ رِزْقاً مِنَ
-السَّمَاوَاتِ وَالاَرْضِ شَيْئاً وَلاَ يَسْتَطِيعُونَ
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لاَ يَمْلِكُ لَهُمْ رِزْقاً مِنَ
+> السَّمَاوَاتِ وَالاَرْضِ شَيْئاً وَلاَ يَسْتَطِيعُونَ
 
 ***73. “And they worship other than Allah that has no power to provide
 them, of sustenance, anything from the heavens and the earth and can do
@@ -216,12 +204,8 @@ the sky nor are they able to grow plants on the earth.
 Surah An-Nahl – Verse 74
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَضْرِبُوا لِلَّهِ الاَمْثَالَ إِنَّ اللَّهَ يَعْلَمُ وَأَنتُمْ
-لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَلاَ تَضْرِبُوا لِلَّهِ الاَمْثَالَ إِنَّ اللَّهَ يَعْلَمُ وَأَنتُمْ
+> لاَ تَعْلَمُونَ
 
 ***74. “Therefore do not coin any similitudes for Allah. Verily, Allah
 knows and you do not know.”***
@@ -318,14 +302,10 @@ secrets of the attributes of Allah.
 Surah An-Nahl – Verse 75
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ضَرَبَ اللَّهُ مَثَلاً عَبْداً مَّمْلُوكاً لاَ يَقْدِرُ عَلَي شَيْءٍ
-وَمَن رَّزَقْنَاهُ مِنَّا رِزْقاً حَسَناً فَهُوَ يُنفِقُ مِنْهُ سِرّاً
-وَجَهْراً هَلْ يَسْتَوُونَ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> ضَرَبَ اللَّهُ مَثَلاً عَبْداً مَّمْلُوكاً لاَ يَقْدِرُ عَلَي شَيْءٍ
+> وَمَن رَّزَقْنَاهُ مِنَّا رِزْقاً حَسَناً فَهُوَ يُنفِقُ مِنْهُ سِرّاً
+> وَجَهْراً هَلْ يَسْتَوُونَ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لاَ
+> يَعْلَمُونَ
 
 ***75. “Allah sets forth a parable of a bonded slave, having no power
 over anything, and one whom We have provided with good means of
@@ -385,14 +365,10 @@ know.”***
 Surah An-Nahl – Verse 76
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ اللَّهُ مَثَلاً رَجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لاَ يَقْدِرُ
-عَلَي شَيْءٍ وَهُوَ كَلٌّ عَلَي مَوْلاَهُ أَيْنَمَا يُوَجّـِهْهُ لاَ
-يَأْتِ بِخَيرٍ هَلْ يَسْتَوِي هُوَ وَمَن يَأْمُرُ بِالْعَدْلِ وَهُوَ
-عَلَي صِرَاطٍ مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَضَرَبَ اللَّهُ مَثَلاً رَجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لاَ يَقْدِرُ
+> عَلَي شَيْءٍ وَهُوَ كَلٌّ عَلَي مَوْلاَهُ أَيْنَمَا يُوَجّـِهْهُ لاَ
+> يَأْتِ بِخَيرٍ هَلْ يَسْتَوِي هُوَ وَمَن يَأْمُرُ بِالْعَدْلِ وَهُوَ
+> عَلَي صِرَاطٍ مُّسْتَقِيمٍ
 
 ***76. “And Allah sets forth a parable of two men, one of whom is dumb
 having authority over nothing, and he is a burden upon his master,
@@ -444,5 +420,4 @@ resorts to preaching justice, is a believer who are not equal.
 [^1]: Surah Tauhid, No. 112, verse 4
 
 [^2]: Surah Shura, No. 42, verse 11
-
 

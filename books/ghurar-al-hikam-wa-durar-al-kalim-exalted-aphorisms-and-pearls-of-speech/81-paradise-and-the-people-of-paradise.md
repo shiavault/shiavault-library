@@ -12,11 +12,7 @@ of residence.
 Paradise and any place whose fleer is in slumber like hellfire.
 
 > 2ـ ألا وإنّي لَمْ أرَ كَالجَنَّةِ نامَ طالِبُها، ولا كالنَّارِ نامَ
-<blockquote dir="rtl">
-  <p>
-هارِبُها.
-  </p>
-</blockquote>
+> هارِبُها.
 
 3. Verily the people of Paradise constitute all the believers who are
 easygoing and gentle.
@@ -28,11 +24,7 @@ his servants who posses sincere intentions and righteous hearts, enter
 Paradise.
 
 > 4ـ إنَّ اللّهَ تعالى يُدْخِلُ بِحُسْنِ النِّيَّةِ وصالِحِ السَّريرَةِ
-<blockquote dir="rtl">
-  <p>
-مَنْ يَشاءُ مِنْ عِبادِهِ الجَنَّةَ.
-  </p>
-</blockquote>
+> مَنْ يَشاءُ مِنْ عِبادِهِ الجَنَّةَ.
 
 5. Paradise is the abode of peace.
 
@@ -42,11 +34,7 @@ Paradise.
 the span of which covers the heavens and the earth.
 
 > 6ـ إنْ كُنْتُمْ راغِبينَ لامُحالَةَ، فَارْغَبُوا في جَنَّة عَرْضُهاَ
-<blockquote dir="rtl">
-  <p>
-السَّمواتِ والأرضِ.
-  </p>
-</blockquote>
+> السَّمواتِ والأرضِ.
 
 7. Paradise is the reward of the obedient.
 
@@ -81,22 +69,14 @@ misdeeds and stop [committing them]; and deter yourself from sins and
 desist [from them].
 
 > 14ـ إنَّكَ لَنْ تَلِجَ الجَنَّةَ حتّى تَزْدَجِرَ عَنْ غَيِّكَ،
-<blockquote dir="rtl">
-  <p>
-وتَنْتَهِيَ، وتَرْتَدِعَ عَنْ مَعاصيكَ، وتَرعَوِيَ.
-  </p>
-</blockquote>
+> وتَنْتَهِيَ، وتَرْتَدِعَ عَنْ مَعاصيكَ، وتَرعَوِيَ.
 
 15. If you believe in Allah and abstain from what He has forbidden, He
 will put you in the Abode of Peace, and if you please Him, He will cover
 you with [divine] favour.
 
 > 15ـ إذا آمَنْتَ بِاللّهِ واتَّقَيْتَ مَحارِمَهُ أحَلَّكَ دارَ الأمانِ،
-<blockquote dir="rtl">
-  <p>
-وإذا أرْضَيْتَهُ تَغَمَّدَكَ بِالرِّضوانِ.
-  </p>
-</blockquote>
+> وإذا أرْضَيْتَهُ تَغَمَّدَكَ بِالرِّضوانِ.
 
 16. The price of Paradise is good deeds.
 
@@ -137,11 +117,7 @@ enter Paradise.
 is good and intention sincere.
 
 > 24ـ لايَفُوزُ بِالجَنَّةِ إلاّ مَنْ حَسُنَتْ سَريرَتُهُ وخَلُصَتْ
-<blockquote dir="rtl">
-  <p>
-نِيَّتُهُ.
-  </p>
-</blockquote>
+> نِيَّتُهُ.
 
 25. Every bliss other than Paradise is derisory.
 
@@ -173,11 +149,7 @@ works hard for it.
 can attain what is with Him except by His pleasure.
 
 > 31ـ هَيْهاتَ لايُخْدَعُ اللّهُ عَنْ جَنَّتِهِ، وَلا يُنالُ ما عِنْدَهُ
-<blockquote dir="rtl">
-  <p>
-إلاّ بِمَرضاتِهِ.
-  </p>
-</blockquote>
+> إلاّ بِمَرضاتِهِ.
 
 32. The delegation that enters Paradise is constantly showered with
 blessings.
@@ -187,5 +159,4 @@ blessings.
 33. Those who enter Paradise are in perpetual bliss.
 
 > 33ـ وارِدُ الجَنَّةِ مُخَلَّدُ النَّعْماءِ.
-
 

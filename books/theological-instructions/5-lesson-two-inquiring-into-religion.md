@@ -169,4 +169,3 @@ proofs for its existence?
 4. Can researching into religious issues be abandoned with the excuse of
 there being no hope of reaching certainty? Why?
 
-

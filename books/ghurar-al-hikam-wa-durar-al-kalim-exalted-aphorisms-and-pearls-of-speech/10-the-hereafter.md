@@ -21,21 +21,13 @@ the chastisement of hellfire.
 whereas good deeds are the tillage of the Hereafter.
 
 > 4ـ اَلمالُ وَالْبَنُونَ زينَةُ الحَيوةِ الدُّنيا، والعَمَلُ الصَّالِحُ
-<blockquote dir="rtl">
-  <p>
-حَرْثُ الآخِرَةِ.
-  </p>
-</blockquote>
+> حَرْثُ الآخِرَةِ.
 
 5. The conditions in this world are based on convention whereas the
 conditions in the Hereafter are based on merit.
 
 > 5ـ أحْوالُ الدُّنيا تَتْبَعُ الإتِّفاقَ وأحْوالُ الآخرةِ تَتْبَعُ
-<blockquote dir="rtl">
-  <p>
-الاِسْتِحْقاقَ.
-  </p>
-</blockquote>
+> الاِسْتِحْقاقَ.
 
 6. Surely in front of you is a difficult place of ascension in which one
 whose weight is lighter is in a better position than the one whose
@@ -44,12 +36,8 @@ one who moves swiftly. Verily its landing will lead you to either
 Paradise or hell.
 
 > 6ـ إنّ أمامَكَ عَقَبَةً كَؤُوداً، اَلمُخِفُّ فيها أحْسَنُ حالاً مِنَ
-<blockquote dir="rtl">
-  <p>
-المُثْقِلِ، والمُبْطِئُ عَلَيها أقْبَحُ أمْراً مِنَ المُسـْرِعِ، إنّ
-مَهْبِطَها بِكَ لامُحالَةَ على جَنَّة أوْ نار.
-  </p>
-</blockquote>
+> المُثْقِلِ، والمُبْطِئُ عَلَيها أقْبَحُ أمْراً مِنَ المُسـْرِعِ، إنّ
+> مَهْبِطَها بِكَ لامُحالَةَ على جَنَّة أوْ نار.
 
 7. Verily the final destination is *al-Qiyāmah* and this is enough of an
 admonition for the one who reasons, and [enough of] a warning for the
@@ -59,35 +47,23 @@ ears, and the turning of the ribs, and the narrowness of the grave, and
 the intensity of sadness and heavy-heartedness.
 
 > 7ـ إنَّ الغايَةَ القيامَةُ، وكَفى بِذلِكَ واعِظاً لِـمَنْ عَقَلَ،
-<blockquote dir="rtl">
-  <p>
-ومُعْتَبَراً لِمَنْ جَهِلَ، وبَعدَ ذلك ما تَعْلَمُونَ مِنْ هَوْلِ
-الْمُطَّلَعِ، وَرَوْعاتِ الفَزَعِ، واسْتِكاكِ الأسماعِ، وَاخْتِلافِ
-الأضلاعِ، وضيقِ الأرماسِ، وَشِدَّةِ الأبلاسِ.
-  </p>
-</blockquote>
+> ومُعْتَبَراً لِمَنْ جَهِلَ، وبَعدَ ذلك ما تَعْلَمُونَ مِنْ هَوْلِ
+> الْمُطَّلَعِ، وَرَوْعاتِ الفَزَعِ، واسْتِكاكِ الأسماعِ، وَاخْتِلافِ
+> الأضلاعِ، وضيقِ الأرماسِ، وَشِدَّةِ الأبلاسِ.
 
 8. If you desire success and honor in the Hereafter, then take from the
 perishing [life of this world] for the everlasting [life of the
 Hereafter].
 
 > 8ـ إنْ رَغِبْتُم في الفَوزِ وكَرامَةِ الآخِرَةِ فَخُذُوا في الفَناءِ
-<blockquote dir="rtl">
-  <p>
-لِلْبَقاءِ.
-  </p>
-</blockquote>
+> لِلْبَقاءِ.
 
 9. Verily you are following the path of those who came before you, so
 put your efforts in [working for] your Hereafter and do not care for
 worldly gain.
 
 > 9ـ إنَّكَ في سَبيلِ مَنْ كانَ قَبْلَكَ، فَاجْعَلْ جِدَّكَ لآخرَتِكَ،
-<blockquote dir="rtl">
-  <p>
-ولا تَكْتَـرِثْ بِعَمَلِ الدُّنيا.
-  </p>
-</blockquote>
+> ولا تَكْتَـرِثْ بِعَمَلِ الدُّنيا.
 
 10. Verily you have been created for the Hereafter, so work for it!
 
@@ -111,11 +87,7 @@ world.
 acquire [the embellishments of] this world by abandoning the faith.
 
 > 14 ـ حَصِّلُوا الآخِرَةَ بِتَركِ الدُّنيا، ولاتُحَصِّلُوا بِتَركِ
-<blockquote dir="rtl">
-  <p>
-الدِّينِ الدُّنيا.
-  </p>
-</blockquote>
+> الدِّينِ الدُّنيا.
 
 15. The Hereafter is everlasting.
 
@@ -129,11 +101,7 @@ acquire [the embellishments of] this world by abandoning the faith.
 in this world [only] that which is predestined for him comes to him.
 
 > 17ـ طالِبُ الآخِرَةِ يُدْرِكُ مِنْها أمَلَهُ وَيَأتيهِ مِنَ الدُّنيا
-<blockquote dir="rtl">
-  <p>
-ما قُدِّرَ لَهُ.
-  </p>
-</blockquote>
+> ما قُدِّرَ لَهُ.
 
 18. You must strive and struggle for the betterment of the Hereafter.
 
@@ -143,11 +111,7 @@ in this world [only] that which is predestined for him comes to him.
 first genesis.
 
 > 19ـ عَجِبْتُ لِمَنْ أنْكَرَ النَشأةَ الاُخْرى وهُوَ يَرَى النَّشأَةَ
-<blockquote dir="rtl">
-  <p>
-الاُولى.
-  </p>
-</blockquote>
+> الاُولى.
 
 20. The goal of the Hereafter is everlasting [life].
 
@@ -162,11 +126,7 @@ children of this world, for surely every child will join his mother on
 the Day of Reckoning.
 
 > 22ـ كُونُوا مِنْ أبْناءِ الآخِرَةِ ولاتَكُونُوا مِنْ أبْناءِ الدُّنيا
-<blockquote dir="rtl">
-  <p>
-فإنَّ كُلَّ وَلَد سَيَلْحَقُ بِاُمِّهِ يَوْمَ القيمَةِ.
-  </p>
-</blockquote>
+> فإنَّ كُلَّ وَلَد سَيَلْحَقُ بِاُمِّهِ يَوْمَ القيمَةِ.
 
 23. One who works for the Hereafter will be triumphant.
 
@@ -209,11 +169,7 @@ them.
 price of one’s soul.
 
 > 32ـ لَيْسَ عَنِ الآخِرَةِ عِوَضٌ، وَلَيْسَتِ الدُّنْيا لِلنَّفْسِ
-<blockquote dir="rtl">
-  <p>
-بِثَمَن.
-  </p>
-</blockquote>
+> بِثَمَن.
 
 33. He who does not concern himself with improving his Hereafter is not
 a [true] believer.
@@ -258,11 +214,7 @@ his worldly life.
 aspired goals.
 
 > 41ـ مَنْ كانَتِالآخِرَةُ هِمَّتَهُ بَلَغَ مِنَ الخَيْرِ غايَةَ
-<blockquote dir="rtl">
-  <p>
-اُمْنيَّتـِهِ.
-  </p>
-</blockquote>
+> اُمْنيَّتـِهِ.
 
 42. One who does not work for the Hereafter will not attain what he
 hopes for.
@@ -275,12 +227,8 @@ and himself keeps away from it, and is careful in following the
 commandments of Allah, the Mighty and High.
 
 > 43ـ مَنْ كانَ فيهِ ثَلاثٌ سَلِمَتْ لَهُ الدُّنيا والآخِرَةُ: يَأمُرُ
-<blockquote dir="rtl">
-  <p>
-بِالمَعْرُوفِ وَيَأتَمِرُ بِهِ، وَيَنْهى عَنِ المُنْكَرِ ويَنْتَهي
-عَنْهُ، ويُحافِظُ على حُدُودِ اللّهِ جَلَّ وَعلا.
-  </p>
-</blockquote>
+> بِالمَعْرُوفِ وَيَأتَمِرُ بِهِ، وَيَنْهى عَنِ المُنْكَرِ ويَنْتَهي
+> عَنْهُ، ويُحافِظُ على حُدُودِ اللّهِ جَلَّ وَعلا.
 
 44. How great a loser is the one for whom there is no share in the
 Hereafter!
@@ -298,12 +246,8 @@ succeeds in attaining [the smallest portion
 of] the Hereafter by exerting his greatest effort.
 
 > 46ـ ما المَغْروُرُ الذَّي ظَفِرَ مِنَ الدُّنيا بأدنى
-<blockquote dir="rtl">
-  <p>
-سُهْمَتِِهِ(بِأعْلى هِمَّتِهِ) كالآخَرِ الَّذي ظَفِرَ مِنَ الآخِرَةِ
-بأعْلى هِمَّتِهِ(بأدنى سُهمَتِهِ).
-  </p>
-</blockquote>
+> سُهْمَتِِهِ(بِأعْلى هِمَّتِهِ) كالآخَرِ الَّذي ظَفِرَ مِنَ الآخِرَةِ
+> بأعْلى هِمَّتِهِ(بأدنى سُهمَتِهِ).
 
 47. He who works for his Eternal Abode obtains what he desires.
 
@@ -313,21 +257,13 @@ of] the Hereafter by exerting his greatest effort.
 everlasting for the evanescent.
 
 > 48ـ لاتبيعُوا الآخرَةَ بالدُّنيا، ولاتَسْتَبْدِلُوا الفَناءَ
-<blockquote dir="rtl">
-  <p>
-بِالبَقاءِ.
-  </p>
-</blockquote>
+> بِالبَقاءِ.
 
 49. Never let anything occupy you from working for the Hereafter for
 indeed the time is short.
 
 > 49ـ لايَشْغَلَنَّكَ عَنِ العَمَلِ لِلآخِرَةِ شُغلٌ فإنَّ المُدَّةَ
-<blockquote dir="rtl">
-  <p>
-قَصيرَةٌ.
-  </p>
-</blockquote>
+> قَصيرَةٌ.
 
 50. The Hereafter and this world do not come together.
 
@@ -341,52 +277,32 @@ indeed the time is short.
 abstaining from that which he desires in this world.
 
 > 52ـ لايُدْرِكُ أحَدٌ ما يُريدُ مِنَ الآخِرَةِ إلاّ بِتَرْكِ ما يَشتَهي
-<blockquote dir="rtl">
-  <p>
-مِنَ الدُّنيا.
-  </p>
-</blockquote>
+> مِنَ الدُّنيا.
 
 53. It behoves one who is certain about the everlastingness and
 permanence of the Hereafter to work for it.
 
 > 53ـ يَنبَغي لِمَنْ أيْقَنَ بِبَقاءِ الآخِرَةِ ودَوامِها أنْ يَعْمَلَ
-<blockquote dir="rtl">
-  <p>
-لَها.
-  </p>
-</blockquote>
+> لَها.
 
 54. People do not abstain from anything of their worldly life for the
 sake of improving their Hereafter but that Allah, the Glorified,
 recompenses them with what is better than it.
 
 > 54ـ لايَتْرُكُ النَّاسُ شَيْئاً مِنْ دُنياهُمْ لإصلاحِ آخِرَتِهِمْ
-<blockquote dir="rtl">
-  <p>
-إلاّ عَوَّضَهُمُ اللّهُ سُبْحانَهُ خَيْراً مِنْهُ.
-  </p>
-</blockquote>
+> إلاّ عَوَّضَهُمُ اللّهُ سُبْحانَهُ خَيْراً مِنْهُ.
 
 55. Aspire for what Allah has promised the God-wary, for surely the
 truest promises are His promises.
 
 > 55ـ إرْغَبُوا فيما وَعَدَاللّهُ المُتَّقينَ، فإنّ أصْدَقَ الوَعْدِ
-<blockquote dir="rtl">
-  <p>
-ميعادُهُ.
-  </p>
-</blockquote>
+> ميعادُهُ.
 
 56. Verily tomorrow is close to today. This day will pass with what is
 in it and tomorrow will come [soon] following it.
 
 > 56ـ إنَّ غَداً مِنَ اليَوْمِ قَريبٌ، يَذْهَبُ اليَومُ بِما فيهِ،
-<blockquote dir="rtl">
-  <p>
-ويَأتي الْغَدُ لاحِقاً بِهِ.
-  </p>
-</blockquote>
+> ويَأتي الْغَدُ لاحِقاً بِهِ.
 
 57. The [final] destination is in front of you and time is behind you,
 pushing you [forward].
@@ -398,11 +314,7 @@ destination, and you have a guide so move towards it with [the help of]
 your guide.
 
 > 58ـ إنّ لَكُمْ نِهايَةً فَانْتَهُوا إلى نِهايَتِكُمْ، وإنّ لَكُمْ
-<blockquote dir="rtl">
-  <p>
-عَلَماً فَانْتَهُوا بِعَلَمِكُمْ.
-  </p>
-</blockquote>
+> عَلَماً فَانْتَهُوا بِعَلَمِكُمْ.
 
 59. A man may be happy to gain what he was not meant to lose, and [he
 may be] saddened to lose what he was not meant to gain; so let your
@@ -411,13 +323,9 @@ your sadness be in that which you have lost from it; and let your
 concern be for that which comes after death.
 
 > 59ـ إنَّ المَرْءَ قَدْ يَسُرُّهُ دَرَكُ ما لَمْ يَكُنْ لِيَفُوتَهُ،
-<blockquote dir="rtl">
-  <p>
-ويَسُؤُءُهُ فَوْتُ ما لَمْ يَكُنْ لِيُدْرِكَهُ، فَلْيَكُنْ سُرُورُكَ
-بِما نِلتَ مِنْ آخِرَتِكَ، ولْيَكُنْ أسَفُكَ على ما فاتَكَ مِنْها،
-ولْيَكُنْ هَمُّكَ لِما بَعْدَ المَوْتِ.
-  </p>
-</blockquote>
+> ويَسُؤُءُهُ فَوْتُ ما لَمْ يَكُنْ لِيُدْرِكَهُ، فَلْيَكُنْ سُرُورُكَ
+> بِما نِلتَ مِنْ آخِرَتِكَ، ولْيَكُنْ أسَفُكَ على ما فاتَكَ مِنْها،
+> ولْيَكُنْ هَمُّكَ لِما بَعْدَ المَوْتِ.
 
 60. Let your concern be for your Hereafter and your sorrow be for your
 soul - for how many of the sorrowful have been led to everlasting bliss
@@ -425,33 +333,21 @@ by their sorrow, and how many of the distressed have attained their
 aspiration.
 
 > 60ـ إجْعَلْ هَمَّكَ لآخِرَتِكَ، وحُزْنَكَ على نَفْسِكَ، فَكَمْ مِنْ
-<blockquote dir="rtl">
-  <p>
-حَزين وََفَدَ بِهِ حُزْنُهُ على سرُورِ الأبَدِ، وَكَمْ مِنْ مَهْمُوم
-أدْرَكَ أمَلَهُ.
-  </p>
-</blockquote>
+> حَزين وََفَدَ بِهِ حُزْنُهُ على سرُورِ الأبَدِ، وَكَمْ مِنْ مَهْمُوم
+> أدْرَكَ أمَلَهُ.
 
 61. Prepare yourselves for the day when the eyes will be glazed, and the
 minds will lose their sanity because of its horror, and the perceptions
 will become dull.
 
 > 61ـ إسْتَعِدُّوا لِيَوم تَشْخَصُ فيهِ الأبْصارُ وتَتَدلَّهُ لِهَولِهِ
-<blockquote dir="rtl">
-  <p>
-العُقُولُ وتَتَبَلَّدُ البَصائِرُ.
-  </p>
-</blockquote>
+> العُقُولُ وتَتَبَلَّدُ البَصائِرُ.
 
 62. Beware of the day when the deeds are audited, when earthquakes
 increase and when young children turn old.
 
 > 62ـ إحْذَرُوا يَوْماً تُفْحَصُ فيهِ الأعْمالُ، وتَـكْثُرُ فيهِ
-<blockquote dir="rtl">
-  <p>
-الزِّلْزالُ، وتَشيبُ فيهِ الأطْفالُ.
-  </p>
-</blockquote>
+> الزِّلْزالُ، وتَشيبُ فيهِ الأطْفالُ.
 
 63. Be careful not to be swindled out of the Permanent Abode, the
 dwelling of the righteous and the virtuous elite, about whose qualities
@@ -459,12 +355,8 @@ the Qur’an has spoken and whose dwellers it has praised; while Allah,
 the Glorified, has guided you and invited you to it.
 
 > 63ـ إيَّاكَ أن تَخْدَعَ عَنْ دارِ القَرارِ، ومَحَلِّ الطَّيِّبينَ
-<blockquote dir="rtl">
-  <p>
-الأخْيارِ، والأولياءِ الأبْرارِ التَّي نَطَقَ القُرآنُ بِوَصْفِها،
-وأثنى على أهْلِها، وَدَلَّكَ اللّهُ سُبْحانَهُ عَليْها وَدَعاكَ إليها.
-  </p>
-</blockquote>
+> الأخْيارِ، والأولياءِ الأبْرارِ التَّي نَطَقَ القُرآنُ بِوَصْفِها،
+> وأثنى على أهْلِها، وَدَلَّكَ اللّهُ سُبْحانَهُ عَليْها وَدَعاكَ إليها.
 
 64. Is there nobody who has prepared the provisions for his Hereafter
 before the coming of [the hour of] his departure?
@@ -475,11 +367,7 @@ before the coming of [the hour of] his departure?
 that which will be lasting for you.
 
 > 65ـ اَلآخِرَةُ دارُ مُسْتَقَرِّكُمْ، فَجَهَزُوا إليها ما يَبْقى
-<blockquote dir="rtl">
-  <p>
-لَكُمْ.
-  </p>
-</blockquote>
+> لَكُمْ.
 
 66. Place your concern and effort for your Hereafter.
 
@@ -493,31 +381,19 @@ that which will be lasting for you.
 will be improved, and do not sell your Hereafter for your worldly life.
 
 > 68ـ إسْتَفْرِغْ جَهْدَكَ لِمَعادِكَ تُصْلِحْ مَثْـواكَ، ولاتَبِـعْ
-<blockquote dir="rtl">
-  <p>
-آخِرَتَكَ بِدُنياكَ.
-  </p>
-</blockquote>
+> آخِرَتَكَ بِدُنياكَ.
 
 69. Work hard in preparing the answers for the Day of Questioning and
 Reckoning.
 
 > 69ـ إجعَلْ جِدَّكَ لإعدادِ الجَـوابِ لِيَـومِ المَسْئَلَةِ
-<blockquote dir="rtl">
-  <p>
-(المُسـائَلَة) والحساب.
-  </p>
-</blockquote>
+> (المُسـائَلَة) والحساب.
 
 70. Those who have the greatest share of the Hereafter are those who
 have the smallest share of this world.
 
 > 70ـ أوْفَرُ النَّاسِ حَظّاً مِنَ الآخِرَةِ أقَلُّهُمْ حَظّاً مِنَ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
+> الدُّنيا.
 
 71. I enjoin you to be well prepared and increase your provisions for
 the day when you will meet with what you have sent forth and regret what
@@ -525,24 +401,16 @@ you have left behind, and will be rewarded for what you had forwarded
 [in advance].
 
 > 71ـ إنّي آمُرُكُمْ بِحُسْنِ الإسْتِعْدادِ والإكثارِ مِنَ الزَّادِ
-<blockquote dir="rtl">
-  <p>
-لِيَوْم تَقْدِمُونَ على ما تُقَدِّمُونَ، وتَنْدَمُونَ على ما
-تُخَلِّفُونَ، وتُجْزَوْنَ بِما كُنْتُمْ تُسَلِّفُونَ.
-  </p>
-</blockquote>
+> لِيَوْم تَقْدِمُونَ على ما تُقَدِّمُونَ، وتَنْدَمُونَ على ما
+> تُخَلِّفُونَ، وتُجْزَوْنَ بِما كُنْتُمْ تُسَلِّفُونَ.
 
 72. When you turn away from the transitory world and become occupied
 with the permanent abode, then your arrow has indeed hit its mark, the
 doors of prosperity are opened for you and you have attained success.
 
 > 72ـ إذا أعرَضْتَ عَنْ دارِ الفَناءِ، وتَوَلَّهْتَ بِدارِ البَقاءِ،
-<blockquote dir="rtl">
-  <p>
-فَقَدْ فازَ قِدْحُكَ، وَفُتِحَتْ لَكَ أبْوابُ النَّجاحِ، وظَفِرْتَ
-بِالفَلاحِ.
-  </p>
-</blockquote>
+> فَقَدْ فازَ قِدْحُكَ، وَفُتِحَتْ لَكَ أبْوابُ النَّجاحِ، وظَفِرْتَ
+> بِالفَلاحِ.
 
 73. The reward of the Hereafter makes one forget the hardships of this
 world.
@@ -554,32 +422,20 @@ world.
 not separate from you [of the Hereafter].
 
 > 74ـ خُذْ مِمَّا لايَبْقى لَكَ ولا تَبْقى لَهُ لِما لا تُفارِقُهُ
-<blockquote dir="rtl">
-  <p>
-ولايُفارِقُكَ.
-  </p>
-</blockquote>
+> ولايُفارِقُكَ.
 
 75. Partake in the best of actions and befriend the best of friends; for
 verily every person will get that which he has earned and will be with
 the one whom he loves in the Hereafter.
 
 > 75ـ خُذْ مِنْ صالِحِ العَمَلِ، وخالِلْ خَيْرَ خَليل، فإنَّ لِلْمَرءِ
-<blockquote dir="rtl">
-  <p>
-ما اكْتَسَبَ، وَهُوَ في الآخِرَةِ مَعَ مَنْ أحَبَّ.
-  </p>
-</blockquote>
+> ما اكْتَسَبَ، وَهُوَ في الآخِرَةِ مَعَ مَنْ أحَبَّ.
 
 76. The Everlasting Abode [of Paradise] is the home of the veracious and
 the dwelling of the virtuous and righteous.
 
 > 76ـ دارُ البَقاءِ مَحَلُّ الصِّدّيقينَ ومَوطِنُ الأبْرارِ
-<blockquote dir="rtl">
-  <p>
-والصَّالِحينَ.
-  </p>
-</blockquote>
+> والصَّالِحينَ.
 
 77. Remembrance of the Hereafter is a cure and a remedy.
 
@@ -590,11 +446,7 @@ the dwelling of the virtuous and righteous.
 perishing for the permanent.
 
 > 78ـ رَحِمَ اللّهُ امْرَءاً أخَذَ مِنْ حَيوة لِمَوْت، وَمِنْ فَناء
-<blockquote dir="rtl">
-  <p>
-لِبَقاء، ومِنْ ذاهِب لِدائِم.
-  </p>
-</blockquote>
+> لِبَقاء، ومِنْ ذاهِب لِدائِم.
 
 79. Seek the Hereafter and the world will come to you belittled.
 
@@ -605,11 +457,7 @@ so be satisfied with what you hear [of it] without seeing [it] and what
 you learn of [it] without witnessing [it].
 
 > 80ـ وكُلُّ شَيْء مِنَ الآخِرَةِ عِيانُهُ أعْظَمُ مِنْ سَماعِهِ،
-<blockquote dir="rtl">
-  <p>
-فَلْيَكْفِكُمْ مِنَ العَيانِ السَّماعُ ومِنَ الغَيْبِ الخَبَرُ.
-  </p>
-</blockquote>
+> فَلْيَكْفِكُمْ مِنَ العَيانِ السَّماعُ ومِنَ الغَيْبِ الخَبَرُ.
 
 81. How can one who is occupied with this world work for the Hereafter?
 
@@ -620,32 +468,20 @@ the Hereafter] than you are of building the temporary abode [of this
 world].
 
 > 82 ـ إنَّكُمْ إلى عِمارَةِ دارِ البَقاءِ أحْوَجُ مِنْكُمْ إلى عِمارَةِ
-<blockquote dir="rtl">
-  <p>
-دارِ الفَناءِ.
-  </p>
-</blockquote>
+> دارِ الفَناءِ.
 
 83. Verily you have been created for the Hereafter, not for this world,
 and for perpetuity, not for extinction.
 
 > 83ـ إنَّكُمْ إنَّما خُلِقْتُمْ لِلآخِرَةِ لا لِلدُّنيا، ولِلبَقاءِ لا
-<blockquote dir="rtl">
-  <p>
-لِلْفَناءِ.
-  </p>
-</blockquote>
+> لِلْفَناءِ.
 
 84. Verily you have been created for perpetuity, not for extinction; and
 you are most certainly in a temporary abode of subsistence and a place
 which is not suitable for settling.
 
 > 84 ـ إنَّما خُلِقْتُمْ لِلْبَقاءِ لا لِلفَناءِ، وإنّكُمْ في دارِ
-<blockquote dir="rtl">
-  <p>
-بُلْغَة ومَنْزِلِ قُلْعَة.
-  </p>
-</blockquote>
+> بُلْغَة ومَنْزِلِ قُلْعَة.
 
 85. The betterment of the Hereafter is in the rejection of this world.
 
@@ -679,13 +515,9 @@ accompany the people of truth and emulate their actions - you will
 become one of them.
 
 > 90ـ أيَسُرُّكَ أنْ تَلْقَى اللّهَغَداً في القِيامَةِ وهُوَ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-راض غَيرُ غَضْبانَ؟ كُنْ في الدُّنيا زاهِداً، وفي الآخرَةِ راغِباً،
-وعَلَيْكَ بِالتَّقوى والصِّدقِ، فَهُما جِماعُ الدِّينِ، والْزَمْ أهْلَ
-الحقِّ، واعْمَلْ عَمَلَهُمْ تَـكُنْ مِنْهُمْ.
-  </p>
-</blockquote>
+> راض غَيرُ غَضْبانَ؟ كُنْ في الدُّنيا زاهِداً، وفي الآخرَةِ راغِباً،
+> وعَلَيْكَ بِالتَّقوى والصِّدقِ، فَهُما جِماعُ الدِّينِ، والْزَمْ أهْلَ
+> الحقِّ، واعْمَلْ عَمَلَهُمْ تَـكُنْ مِنْهُمْ.
 
 91. He whose goal is [attaining] this world will not be successful in
 [attaining] the Hereafter.
@@ -697,11 +529,7 @@ attaining his desires is not like the deceived one who loses the
 bounties [of the Hereafter] because of his bad choices and wretchedness.
 
 > 92ـ مَا المَغْبُوطُ الَّذي فازَ مِنْ دارِ البَقاءِ بِبُغْيَتِهِ
-<blockquote dir="rtl">
-  <p>
-كالمَغبُونِ الَّذي فاتَهُ النَّعيمُ بِسُوءِ اخْتيارِهِ وشَقاوَتِهِ.
-  </p>
-</blockquote>
+> كالمَغبُونِ الَّذي فاتَهُ النَّعيمُ بِسُوءِ اخْتيارِهِ وشَقاوَتِهِ.
 
 93. Do not be one of those who hopes for the Hereafter without working
 [for it], and postpones repentance with long hopes; one who speaks in
@@ -709,22 +537,14 @@ this world with the words of those who are indifferent [to its
 pleasures] but acts in it with the actions of the desirous.
 
 > 93ـ لا تَـكُنْ مِمَّن يَرْجوُا الآخِرَةَ بِغَيْرِ عَمَل، ويُسَوِّفُ
-<blockquote dir="rtl">
-  <p>
-التَّوبَةَ بِطُولِ الأمَلِ، يَقُولُ في الدُّنيا بِقَوْلِ الزَّاهِدينَ،
-ويَعمَلُ فيها بِعَمَلِ الرَّاغِبينَ.
-  </p>
-</blockquote>
+> التَّوبَةَ بِطُولِ الأمَلِ، يَقُولُ في الدُّنيا بِقَوْلِ الزَّاهِدينَ،
+> ويَعمَلُ فيها بِعَمَلِ الرَّاغِبينَ.
 
 94. None will be rewarded with the bounties of the Hereafter except
 those who are patient in the face of the tribulations of this world.
 
 > 94ـ لايُنْعَمُ بِنَعيمِ الآخِرَةِ إلاّ مَنْ صَبَـرَ عَلى بلاءِ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
+> الدُّنيا.
 
 95. There is no benefit in working for the Hereafter while having desire
 for this world.
@@ -735,21 +555,12 @@ for this world.
 sincerity in action, reducing hopes and espousing God-wariness.
 
 > 96ـ لايُدْرِكُ أحَدٌ رِفْعَةَ الآخِرَةِ إلاّ بِإخلاصِ العَمَلِ،
-<blockquote dir="rtl">
-  <p>
-وتَقْصيرِ الأمَلِ، وَلُزُومِ التَّقوى.
-  </p>
-</blockquote>
+> وتَقْصيرِ الأمَلِ، وَلُزُومِ التَّقوى.
 
 97. Become deserving of what Allah has prepared for you [in the
 Hereafter] by seeking the fulfillment of His true promise and being wary
 of the horror of His reckoning.
 
 > 97ـ إسْتَحِقُّوا مِنَ اللّهِ ما أعَدَّ لَكُمْ بِالتَّنَجُّزِ لِصِدقِ
-<blockquote dir="rtl">
-  <p>
-ميعادِهِ والحَذَرِ مِنْ هَوْلِ مَعادِهِ.
-  </p>
-</blockquote>
-
+> ميعادِهِ والحَذَرِ مِنْ هَوْلِ مَعادِهِ.
 

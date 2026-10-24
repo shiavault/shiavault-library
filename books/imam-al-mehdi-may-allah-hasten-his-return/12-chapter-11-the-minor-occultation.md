@@ -186,4 +186,3 @@ Imam; and Muslims keep patient in this period of test, till by the order
 of Almighty Allah, the Awaited Imam will appear and the Divine Aim will
 reach its fulfilment.
 
-

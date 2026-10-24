@@ -97,4 +97,3 @@ to emulate.
 
 [^5]: Ibn Taimia, Al-Ziara, vol. 7, pp. 101-106.
 
-

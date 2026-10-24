@@ -27,52 +27,36 @@ of clay and the cooling of the inferno for Prophet Ibrahim (a.s.).
 
 For example, pay attention to the following verses:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِن كُنتَ جِئْتَ بَِايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ
-الصَّدِقِينَ / فَأَلْقَى‏ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ‏ /
-وَ نَزَعَ يَدَهُ فَإِذَا هِىَ بَيْضَآءٌ لِّلنّظِرينَ‏
-  </p>
-</blockquote>
+> قَالَ إِن كُنتَ جِئْتَ بَِايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ
+> الصَّدِقِينَ / فَأَلْقَى‏ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ‏ /
+> وَ نَزَعَ يَدَهُ فَإِذَا هِىَ بَيْضَآءٌ لِّلنّظِرينَ‏
 
 ***“He said: If you have come with a sign, then bring it, if you are of
 the truthful ones. So he threw his rod, then lo! it was a clear serpent.
 And he drew forth his hand, and lo! it was white to the beholders.”
 (7:106-108)***
 
-<blockquote dir="rtl">
-  <p>
-وَ أَوْحَيْنَآ إِلَى‏ مُوسَى‏ أَنْ أَلْقِ عَصَاكَ فَإِذَا هِىَ
-تَلْقَفُ مَا يَأْفِكُونَ‏
-  </p>
-</blockquote>
+> وَ أَوْحَيْنَآ إِلَى‏ مُوسَى‏ أَنْ أَلْقِ عَصَاكَ فَإِذَا هِىَ
+> تَلْقَفُ مَا يَأْفِكُونَ‏
 
 ***“And We revealed to Musa, saying: Cast your rod; then lo! it devoured
 the lies they told.” (7:117)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ اسْتَسْقَى‏ مُوسَى‏ لِقَوْمِهِ فَقُلْنَا اضْرِب بِّعَصَاكَ
-الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً قَدْ عَلِمَ
-كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُواْ وَ اشْرَبُواْ مِن رِّزْقِ اللَّهِ
-وَلاَ تَعْثَواْ فِى الْأَرْضِ مُفْسِدِينَ‏
-  </p>
-</blockquote>
+> وَإِذْ اسْتَسْقَى‏ مُوسَى‏ لِقَوْمِهِ فَقُلْنَا اضْرِب بِّعَصَاكَ
+> الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً قَدْ عَلِمَ
+> كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُواْ وَ اشْرَبُواْ مِن رِّزْقِ اللَّهِ
+> وَلاَ تَعْثَواْ فِى الْأَرْضِ مُفْسِدِينَ‏
 
 ***“And when Musa prayed for drink for his people, We said: Strike the
 rock with your staff. So there gushed from it twelve springs; each tribe
 knew its drinking place: Eat and drink of the provisions of Allah and do
 not act corruptly in the land, making mischief.” (2:60)***
 
-<blockquote dir="rtl">
-  <p>
-فَأَوْحَيْنَآ إِلَى‏ مُوسَى‏ أَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ
-فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ / وَأَزْلَفْنَا
-ثَمَّ الْآخَرِينَ‏ / وَأَنجَيْنَا مُوسَى‏ وَمَن مَّعَهُ أَجْمَعِينَ /
-ثُمَّ أَغْرَقْنَا الْآخَرِينَ / إِنَّ فِى ذَلِكَ لَآيَةً وَمَا كَانَ
-أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> فَأَوْحَيْنَآ إِلَى‏ مُوسَى‏ أَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ
+> فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ / وَأَزْلَفْنَا
+> ثَمَّ الْآخَرِينَ‏ / وَأَنجَيْنَا مُوسَى‏ وَمَن مَّعَهُ أَجْمَعِينَ /
+> ثُمَّ أَغْرَقْنَا الْآخَرِينَ / إِنَّ فِى ذَلِكَ لَآيَةً وَمَا كَانَ
+> أَكْثَرُهُم مُّؤْمِنِينَ
 
 ***“Then We revealed to Musa: Strike the sea with your staff. So it had
 cloven asunder, and each part was like a huge mound. And We brought
@@ -80,12 +64,8 @@ near, there, the others. And We saved Musa and those with him, all of
 them. Then We drowned the others. Most surely there is a sign in this,
 but most of them do not believe.” (26:63-67)***
 
-<blockquote dir="rtl">
-  <p>
-قَالُواْ حَرِّقُوهُ وَانصُرُواْ آلِهَتَكُمْ إِن كُنتُمْ فَاعِلِينَ‏ /
-قُلْنَا يَا نَارُ كُونِى بَرْداً وَسَلَاماً عَلَى‏ إِبْرَاهِيمَ‏
-  </p>
-</blockquote>
+> قَالُواْ حَرِّقُوهُ وَانصُرُواْ آلِهَتَكُمْ إِن كُنتُمْ فَاعِلِينَ‏ /
+> قُلْنَا يَا نَارُ كُونِى بَرْداً وَسَلَاماً عَلَى‏ إِبْرَاهِيمَ‏
 
 ***“They said: Burn him and help your gods, if you are going to do
 (anything). We said: O fire! be a comfort and peace to Ibrahim…”
@@ -96,13 +76,9 @@ existence of miracles of prophets in the view of Quran is a fact and
 whoever considers Quran as a heavenly book, cannot deny the origin of
 miracles. Basically, Quran introduces itself as a miracle and says:
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ عَلَى‏ أَن يَأْتُواْ
-بِمِثْلِ هَذَا الْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
-بَعْضُهُمْ لِبَعْضٍ ظَهِيراً
-  </p>
-</blockquote>
+> قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ عَلَى‏ أَن يَأْتُواْ
+> بِمِثْلِ هَذَا الْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
+> بَعْضُهُمْ لِبَعْضٍ ظَهِيراً
 
 ***“Say: If men and jinn should combine together to bring the like of
 this Quran, they could not bring the like of it, though some of them
@@ -150,15 +126,11 @@ with his own will?
 In some verses, the Holy Quran has related miracle to the prophets; for
 example: He says in the words of Prophet Isa (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-أَنِّى قَدْ جِئْتُكُمْ بَِايَةٍ مِّنْ رَّبِّكُمْ أَنِّى أَخْلُقُ
-لَكُمْ مِّنَ الْطِّينِ كَهَيْئَةِ الْطَّيْرِ فَأَنْفُخُ فِيهِ
-فَيَكُونُ طَيْراً بِإِذْنِ اللَّهِ وَأُبْرِئُ الْأَكْمَهَ
-وَالْأَبْرَصَ وَأُحْىِ الْمَوْتَى‏ بِإِذْنِ اللَّهِ وَ أُنَبِّئُكُمْ
-بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ
-  </p>
-</blockquote>
+> أَنِّى قَدْ جِئْتُكُمْ بَِايَةٍ مِّنْ رَّبِّكُمْ أَنِّى أَخْلُقُ
+> لَكُمْ مِّنَ الْطِّينِ كَهَيْئَةِ الْطَّيْرِ فَأَنْفُخُ فِيهِ
+> فَيَكُونُ طَيْراً بِإِذْنِ اللَّهِ وَأُبْرِئُ الْأَكْمَهَ
+> وَالْأَبْرَصَ وَأُحْىِ الْمَوْتَى‏ بِإِذْنِ اللَّهِ وَ أُنَبِّئُكُمْ
+> بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ
 
 ***“That I have come to you with a sign from your Lord, that I determine
 for you out of dust like the form of a bird, then I breathe into it and
@@ -169,13 +141,9 @@ you of what you should eat and what you should store in your houses.”
 
 In Surah Maidah, He says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيَْةِ الطَّيْرِ بِإِذْنِى فَتَنفُخُ
-فِيهَا فَتَكُونُ طَيْراً بِإِذْنِى وَتُبْرِئُ الْأَكْمَهَ
-وَالْأَبْرَصَ بِإِذْنِى وَإِذْ تُخْرِجُ الْمَوْتَى‏ بِإِذْنِى
-  </p>
-</blockquote>
+> وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيَْةِ الطَّيْرِ بِإِذْنِى فَتَنفُخُ
+> فِيهَا فَتَكُونُ طَيْراً بِإِذْنِى وَتُبْرِئُ الْأَكْمَهَ
+> وَالْأَبْرَصَ بِإِذْنِى وَإِذْ تُخْرِجُ الْمَوْتَى‏ بِإِذْنِى
 
 ***“…and when you determined out of clay a thing like the form of a bird
 by My permission, then you breathed into it and it became a bird by My
@@ -184,12 +152,8 @@ and when you brought forth the dead by My permission.” (5:110)***
 
 With regard to Prophet Musa (a.s.), He says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِن كُنتَ جِئْتَ بَِايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ
-الصَّدِقِينَ / فَأَلْقَى‏ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ‏ /
-  </p>
-</blockquote>
+> قَالَ إِن كُنتَ جِئْتَ بَِايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ
+> الصَّدِقِينَ / فَأَلْقَى‏ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ‏ /
 
 ***“He said: If you have come with a sign, then bring it, if you are of
 the truthful ones. So he threw his rod, then lo! it was a clear serpent.
@@ -199,12 +163,8 @@ And he drew forth his hand, and lo! it was white to the beholders.”
 In some verses, the miracle has also been related to Almighty Allah; for
 example:
 
-<blockquote dir="rtl">
-  <p>
-وَظَلَّلْنَا عَلَيْكُمْ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ
-وَالسَّلْوَى
-  </p>
-</blockquote>
+> وَظَلَّلْنَا عَلَيْكُمْ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ
+> وَالسَّلْوَى
 
 ***“And We made the clouds to give shade over you and We sent to you
 manna and quails.” (2:57)***
@@ -219,13 +179,9 @@ in most verses, the performance of miracle is related to the prophet,
 but it is made conditional to His leave. In one verse, this point is
 mentioned with more clarity:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بَآيَةٍ إِلَّا بِإِذْنِ اللَّهِ
-فَإِذَا جَآءَ أَمْرُ اللَّهِ قُضِىَ بِالْحَقِ‏ّ وَخَسِرَ هُنَالِكَ
-الْمُبْطِلُونَ‏
-  </p>
-</blockquote>
+> وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بَآيَةٍ إِلَّا بِإِذْنِ اللَّهِ
+> فَإِذَا جَآءَ أَمْرُ اللَّهِ قُضِىَ بِالْحَقِ‏ّ وَخَسِرَ هُنَالِكَ
+> الْمُبْطِلُونَ‏
 
 ***“…and it was not meant for an apostle that he should bring a sign
 except with Allah’s permission, but when the command of Allah came,
@@ -250,12 +206,8 @@ that in the view of people they appeared as pythons and snakes, who came
 into being and moved about here and there horrifying the audience, while
 in fact there were no pythons and snakes there. Therefore Quran says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَلْقُواْ فَلَمَّآ أَلْقَوْاْ سَحَرُواْ أَعْيُنَ النَّاسِ
-وَاسْتَرْهَبُوهُمْ وَ جَآءُو بِسِحْرٍ عَظِيمٍ‏
-  </p>
-</blockquote>
+> قَالَ أَلْقُواْ فَلَمَّآ أَلْقَوْاْ سَحَرُواْ أَعْيُنَ النَّاسِ
+> وَاسْتَرْهَبُوهُمْ وَ جَآءُو بِسِحْرٍ عَظِيمٍ‏
 
 ***“He said: Cast. So when they cast, they deceived the people’s eyes
 and frightened them, and they produced a mighty enchantment.” (7:116)***
@@ -265,14 +217,10 @@ existence. In the story of Prophet Musa (a.s.), his staff really changed
 into a python and it really swallowed up the magic of the magicians.
 Almighty Allah told Prophet Musa (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ الْأَعْلَى‏ / وَأَلْقِ مَا فِى
-يَمِينِكَ تَلْقَفْ مَا صَنَعُواْ إِنَّمَا صَنَعُواْ كَيْدُ سَاحِرٍ وَ
-لَايُفْلِحُ السَّاحِرُ حَيْثُ أَتَى‏ / فَأُلْقِىَ السَّحَرَةُ سُجَّداً
-قَالُواْ آمَنَّا بِرَبِ‏ّ هَارُونَ وَمُوسَى
-  </p>
-</blockquote>
+> قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ الْأَعْلَى‏ / وَأَلْقِ مَا فِى
+> يَمِينِكَ تَلْقَفْ مَا صَنَعُواْ إِنَّمَا صَنَعُواْ كَيْدُ سَاحِرٍ وَ
+> لَايُفْلِحُ السَّاحِرُ حَيْثُ أَتَى‏ / فَأُلْقِىَ السَّحَرَةُ سُجَّداً
+> قَالُواْ آمَنَّا بِرَبِ‏ّ هَارُونَ وَمُوسَى
 
 ***“We said: Fear not, surely you shall be the uppermost, and cast down
 what is in your right hand; it shall devour what they have wrought; they
@@ -308,5 +256,4 @@ faith in Almighty Allah or develop connection with Him; but the power of
 miracle is a divine bestowal and is not obtained through learning and
 practice and the performer of miracle is in possession of extensively
 lofty faith and has a deep connection with Almighty Allah.
-
 

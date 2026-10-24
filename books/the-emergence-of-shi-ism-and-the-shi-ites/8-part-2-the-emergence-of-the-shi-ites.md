@@ -20,4 +20,3 @@ Muslims; while the other was shunned from rule, destined to become a
 minority opposition within the general fold of Islam. Shi'ism was this
 minority. Herein lie three areas of discussion.
 
-

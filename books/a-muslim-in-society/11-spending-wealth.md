@@ -44,4 +44,3 @@ irrigation systems, roads, etc., and forbid them from amassing wealth
 and depriving the poor of a reasonable standard of living by refusing to
 spend their wealth in charitable and beneficial ways.
 
-

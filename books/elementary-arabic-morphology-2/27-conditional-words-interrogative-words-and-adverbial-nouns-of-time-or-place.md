@@ -61,4 +61,3 @@ their vowel signs:
 
 • Adverbial nouns of both time and place: **أنَّیَ**
 
-

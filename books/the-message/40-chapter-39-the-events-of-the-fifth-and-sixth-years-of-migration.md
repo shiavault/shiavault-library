@@ -196,4 +196,3 @@ Hence, it is not necessary for you to act upon your vow".[^5]
 [^5]: Seerah-i Ibn Hisham, vol. II, page 280; Tabaqat-i Kubra, vol. III,
 p. 133.
 
-

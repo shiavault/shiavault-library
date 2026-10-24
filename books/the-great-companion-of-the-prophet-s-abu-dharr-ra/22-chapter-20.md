@@ -449,8 +449,6 @@ Scholars and historians are unanimous that he died on 8th Zilhajjah, 32
 A.H. at Rabzah. His age at the time of his death was eighty five
 years.
 
-
-
 [^1]: Abu Dharr al-Ghifari, p.165, printed Najaf, 1364 A.H
 
 [^2]: Sharh Ibn Abil Hadid, vol. 1, p. 241, Murujuz Zahab Mus'udi, vol.
@@ -540,5 +538,4 @@ one of his legs. (Tarikh A'tham Kufi)
 [^17]: Tarikh Tabari vol. 4 p. 527
 
 [^18]: Hayat ul-Qulub, vol. 2
-
 

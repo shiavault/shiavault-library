@@ -38,9 +38,7 @@ Ramadan.
 3. The schools concur that the new moon is confirmed if sighted, as
 observed in this tradition of the Prophet (s):
 
-<p dir="rtl">
 صوموا لرؤيته وأفطروا لرؤيته
-</p>
 
 ***(\`Fast on seeing the new moon and stop fasting on seeing it').***
 
@@ -106,5 +104,4 @@ wajib to fast on the thirty-first day as well.
 after the completion of thirty days regardless of the sky's being cloudy
 or clear, provided their beginning was confirmed in a manner approved by
 the Shari\`ah.
-
 

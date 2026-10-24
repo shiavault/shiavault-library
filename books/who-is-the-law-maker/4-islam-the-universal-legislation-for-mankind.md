@@ -21,12 +21,8 @@ harmony with the Divine Religion which forms the Order and the Goal in
 the shape of laws which take into consideration all his existence and
 diverse activities:
 
-<blockquote dir="rtl">
-  <p>
-“ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا
-تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ “
-  </p>
-</blockquote>
+> “ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا
+> تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ “
 
 ***[45:18] Then We have made you follow a course in the affair,
 therefore follow it, and do not follow the low desires of those who do
@@ -58,28 +54,20 @@ and happiness.
 The Islamic canon is thus a legislative molding of the laws of life and
 human nature. It consequently becomes:
 
-<blockquote dir="rtl">
-  <p>
-“فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي
-فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ
-الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ “
-  </p>
-</blockquote>
+> “فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي
+> فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ
+> الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ “
 
 ***[30:30] Then set your face upright for religion in the right state--
 the nature made by Allah in which He has made men; there is no altering
 of Allah's creation; that is the right religion, but most people do not
 know—***
 
-<blockquote dir="rtl">
-  <p>
-“شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
-أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
-وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ
-عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي
-إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ“
-  </p>
-</blockquote>
+> “شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
+> أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
+> وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ
+> عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي
+> إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ“
 
 ***[42:13] He has made plain to you of the religion what He enjoined
 upon Nuh and that which We have revealed to you and that which We
@@ -88,17 +76,12 @@ divided therein; hard to the unbelievers is that which you call them to;
 Allah chooses for Himself whom He pleases, and guides to Himself him who
 turns (to Him), frequently.***
 
-<blockquote dir="rtl">
-  <p>
-“وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا
-تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ
-وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ“
-  </p>
-</blockquote>
+> “وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا
+> تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ
+> وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ“
 
 ***[6:153] And (know) that this is My path, the right one therefore
 follow it, and follow not (other) ways, for they will lead you away from
 His way; this He has enjoined you with that you may guard (against
 evil).***
-
 

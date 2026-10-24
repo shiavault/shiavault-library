@@ -147,4 +147,3 @@ Muhammad Tahir-ul-Qadri, our great ‘Quaid’.
 
 ABDUL AZIZ
 
-

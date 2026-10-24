@@ -6,12 +6,8 @@ Treachery
 1. Treachery by everyone is evil, but by those who have power and
 authority it is worse.
 
-<blockquote dir="rtl">
-  <p>
-ـ الغَدْرُ بِكُلِّ أحَد قَبيحٌ، وهُوَ بِذَوِى القُدْرَةِ والسُّلْطانِ
-أقْبَحْ.
-  </p>
-</blockquote>
+> ـ الغَدْرُ بِكُلِّ أحَد قَبيحٌ، وهُوَ بِذَوِى القُدْرَةِ والسُّلْطانِ
+> أقْبَحْ.
 
 2. Treachery increases the burden [of sin] and degrades one’s status.
 
@@ -21,11 +17,7 @@ authority it is worse.
 verily the treacherous one is humiliated in the sight of Allah.
 
 > 3ـ إيّاكَ والغَدْرَ، فَإنَّهُ أقْبَحُ الخِيانَةِ، وإنَّ الغَدُورَ
-<blockquote dir="rtl">
-  <p>
-لَمُهانٌ عِنْدَاللّهِ.
-  </p>
-</blockquote>
+> لَمُهانٌ عِنْدَاللّهِ.
 
 4. The worst treachery is divulging the secret [that has been entrusted
 to you].
@@ -52,11 +44,7 @@ to you].
 treachery.
 
 > 9ـ كُنْ عامِلاً بِالخَيْرِ، ناهِياً عَنِ الشَّرِّ، مُنْكِراً شيمَةَ
-<blockquote dir="rtl">
-  <p>
-الغَدْرِ.
-  </p>
-</blockquote>
+> الغَدْرِ.
 
 10. One who acts treacherously is sullied by his treachery.
 
@@ -94,10 +82,5 @@ whom you make a contract while having the intention of being loyal to
 it, whereas his intention is to betray you.
 
 > 17ـ أسْرَعُ الأشْياءِ عُقُوبَةً رَجُلٌ عاهَدْتَهُ عَلى أمْر وَكانَ
-<blockquote dir="rtl">
-  <p>
-مِنْ نِيَّتِكَ الوَفاءُ لَهُ، وَمِنْ نِيَّتِهِ الغَدْرُ بِكَ.
-  </p>
-</blockquote>
-
+> مِنْ نِيَّتِكَ الوَفاءُ لَهُ، وَمِنْ نِيَّتِهِ الغَدْرُ بِكَ.
 

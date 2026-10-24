@@ -251,4 +251,3 @@ Imam Sadiq (a.s.) regarding the visitation (Ziarat) of Imam Hussain
 his heart love for Imam Hussain (a.s.), and an inclination for his
 visitation.'
 
-

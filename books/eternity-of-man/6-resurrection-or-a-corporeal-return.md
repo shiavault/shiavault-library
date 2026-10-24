@@ -46,13 +46,9 @@ here is that one of the deniers had pulled up a semi-decayed bone and
 while showing it to the Holy Prophet (S) proceeded to ask such a
 question. The Holy Qur’an in answer says:
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِ الْعِظَامَ
-وَهِيَ رَمِيمٌ . قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
-وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِ الْعِظَامَ
+> وَهِيَ رَمِيمٌ . قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
+> وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
 ***“And he strikes out a likeness for Us and forgets his own
 creation.*** ***Says he: Who will give life to the bones when they are
@@ -73,12 +69,8 @@ the day of resurrection, people shall rise from their graves and come
 out from beneath the earth. Here we shall refer to only two verses from
 among them.
 
-<blockquote dir="rtl">
-  <p>
-)وَأَنَّ السَّاعَةَ آتِيَةٌ لاَ رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ
-مَنْ فِي الْقُبُورِ
-  </p>
-</blockquote>
+> )وَأَنَّ السَّاعَةَ آتِيَةٌ لاَ رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ
+> مَنْ فِي الْقُبُورِ
 
 ***“And that the Hour (of Resurrection) is coming there is no doubt
 therein and that Allah will raise up those in the graves.”***[^4]
@@ -88,12 +80,8 @@ because that which rests within the graves are bodies of men. Thus on
 the day of resurrection, this very material and elemental body shall be
 given life and continue to lead it.
 
-<blockquote dir="rtl">
-  <p>
-مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ
-تَارَةً أُخْرَى
-  </p>
-</blockquote>
+> مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ
+> تَارَةً أُخْرَى
 
 ***“From it We created you and into it We shall send you back and from
 it will We raise you a second time.”***[^5]
@@ -107,12 +95,8 @@ emphasizes on the corporeal resurrection.
 man after death to the coming to life of the earth after its death, like
 this verse:
 
-<blockquote dir="rtl">
-  <p>
-رِزْقًا لِلْعِبَادِ وَأَحْيَيْنَا بِهِ بَلْدَةً مَيْتًا كَذَلِكَ
-الْخُرُوجُ
-  </p>
-</blockquote>
+> رِزْقًا لِلْعِبَادِ وَأَحْيَيْنَا بِهِ بَلْدَةً مَيْتًا كَذَلِكَ
+> الْخُرُوجُ
 
 ***“And We give life thereby to a dead land; thus will be
 Resurrection.”***[^6]
@@ -140,12 +124,8 @@ of the ' book of deeds' of people in the right or the left hand, because
 if the corporeal resurrection does not occur, how can the hands, legs,
 eyes, ears... bear witness against man on the day of Judgment:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
-وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
+> وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ
 
 “On that day We will set a seal upon their mouths, and their hands shall
 speak to Us, and their feet shall bear witness of what they earned.”[^7]
@@ -153,12 +133,8 @@ speak to Us, and their feet shall bear witness of what they earned.”[^7]
 Or how could some of the faces exhibit cheer and radiance whereas faces
 of others exhibit misery and darkness:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُمْ
-بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُمْ
+> بِمَا كَانُوا يَعْمَلُونَ
 
 ***“On the day when their tongues and their hands and their feet shall
 bear witness against them as to what they did.”***[^8]
@@ -178,15 +154,11 @@ This group of the verses have appeared in numerous chapters of the Holy
 Qur’an, in a detailed manner and we mention only one example from
 amongst them:
 
-<blockquote dir="rtl">
-  <p>
-عَلَى سُرُرٍ مَوْضُونَةٍ. مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ.
-يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ. بِأَكْوَابٍ وَأَبَارِيقَ
-وَكَأْسٍ مِنْ مَعِينٍ. لاَ يُصَدَّعُونَ عَنْهَا وَلاَ يُنزِفُونَ.
-وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ. وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ
-. وَحُورٌ عِينٌ
-  </p>
-</blockquote>
+> عَلَى سُرُرٍ مَوْضُونَةٍ. مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ.
+> يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ. بِأَكْوَابٍ وَأَبَارِيقَ
+> وَكَأْسٍ مِنْ مَعِينٍ. لاَ يُصَدَّعُونَ عَنْهَا وَلاَ يُنزِفُونَ.
+> وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ. وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ
+> . وَحُورٌ عِينٌ
 
 ***“On thrones decorated, Reclining on them face to face.*** ***Around
 shall go about them youths never altering in age. With goblets and ewers
@@ -211,18 +183,14 @@ the Cave. In addition to these, the incidents of Prophet Uzair (Ezra)
 without being mentioned by name, and who, after their death, are once
 again brought back to life:
 
-<blockquote dir="rtl">
-  <p>
-أَوْ كَالَّذِي مَرَّ عَلَى قَرْيَةٍ وَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا
-قَالَ أَنَّى يُحْيِي هَذِهِ اللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ
-اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ قَالَ كَمْ لَبِثْتَ قَالَ
-لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَلْ لَبِثْتَ مِائَةَ عَامٍ
-فَانظُرْ إِلَى طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَانظُرْ إِلَى
-حِمَارِكَ وَلِنَجْعَلَكَ آيَةً لِلنَّاسِ وَانظُرْ إِلَى الْعِظَامِ
-كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُ
-قَالَ أَعْلَمُ أَنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أَوْ كَالَّذِي مَرَّ عَلَى قَرْيَةٍ وَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا
+> قَالَ أَنَّى يُحْيِي هَذِهِ اللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ
+> اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ قَالَ كَمْ لَبِثْتَ قَالَ
+> لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَلْ لَبِثْتَ مِائَةَ عَامٍ
+> فَانظُرْ إِلَى طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَانظُرْ إِلَى
+> حِمَارِكَ وَلِنَجْعَلَكَ آيَةً لِلنَّاسِ وَانظُرْ إِلَى الْعِظَامِ
+> كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُ
+> قَالَ أَعْلَمُ أَنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“Or the like of him (Uzair) who passed by a town and it had fallen
 down upon its roofs; he said: When will Allah give it life after its
@@ -277,5 +245,4 @@ which is well known by the technical expression (آكل و مأكول) These
 doubts and those similar to these along with their numerous answers have
 been presented in their appropriate topics and there lies no need to
 present it in this short treatise.
-
 

@@ -14,4 +14,3 @@ is an Imam, son of an Imam, brother of an Imam and father of nine Imams.
 The ninth of them is their Qa'im who will fill the earth with justice
 and fair-play as it be filled with tyranny and oppression.”
 
-

@@ -159,4 +159,3 @@ common language for insanity, mania and melancholia.
 [^2]: Ishtihar of Mirza Qadiani, 7/8/1887, recorded in
 Tabligh-e-Risalat, Vol. 1, p. 121
 
-

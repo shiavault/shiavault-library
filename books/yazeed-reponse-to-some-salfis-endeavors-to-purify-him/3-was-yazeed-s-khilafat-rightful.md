@@ -454,4 +454,3 @@ Haqq Dehlavis comments on impure Yazeed the drunkard In*Takmeel al Iman
 page 97* Shah Abdul Haqq Dehlavi gives Yazeed a number of titles such as
 impure, fasiq and drunkard.
 
-

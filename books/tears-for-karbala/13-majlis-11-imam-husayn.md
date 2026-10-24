@@ -325,4 +325,3 @@ Bibi Zainab saw her brother's head on a lance, She cried out:
 
 **Ya Husayn! Ya Husayn! Ya Husayn!**
 
-

@@ -22,4 +22,3 @@ new moon but I did not see it). Therefore, the verse cannot imply that
 they will see God. According to our interpretation, it means that they
 will be looking forward for the blessings of Allah.
 
-

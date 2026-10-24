@@ -79,4 +79,3 @@ Think and Answer
 even its method of sleeping differs from other animals and that it is
 most exceptional?
 
-

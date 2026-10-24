@@ -1,13 +1,9 @@
 Chapter 2:  Quraysh Group
 =========================
 
-<blockquote dir="rtl">
-  <p>
-مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللهِ وَمَا أَصَابَكَ مِن
-سَيِّئَةٍ فَمِنْ نَّفْسِكَ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولاً وَكَفَى
-بِاللهِ شَهِيدًا 
-  </p>
-</blockquote>
+> مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللهِ وَمَا أَصَابَكَ مِن
+> سَيِّئَةٍ فَمِنْ نَّفْسِكَ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولاً وَكَفَى
+> بِاللهِ شَهِيدًا 
 
 ***Whatever good happens to you is from Allah. But whatever evil
 (calamities) happens to you is from your (own) soul. And We have sent
@@ -106,13 +102,9 @@ was intercepted with a revelation that forced him to stop the pilgrims
 in their track to hear a new revelation from Allah. The revelation was
 as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَّبِّكَ
-وَإِنْ لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللهُ يَعْصِمُكَ
-مِنَ النَّاسِ إِنَّ اللهَ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَّبِّكَ
+> وَإِنْ لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللهُ يَعْصِمُكَ
+> مِنَ النَّاسِ إِنَّ اللهَ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ
 
 ***O Messenger! Convey what had been revealed to you from your Lord; if
 you do not do so, then [it would be as if] you have not conveyed His
@@ -278,5 +270,4 @@ al-Muslim; Ithbat al-Wasyah; Musnad Ahmad, 3:346
 author.
 
 [^15]: Ibn Abil Hadid, Sharh Nahjul-Balaghah, 3:114
-
 

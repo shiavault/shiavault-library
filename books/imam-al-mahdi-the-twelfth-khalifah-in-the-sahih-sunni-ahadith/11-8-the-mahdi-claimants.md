@@ -142,16 +142,12 @@ although there is not sufficient evidence that he believed in the
 latter’s *mahdawiyyah*. Imam al-Bukhari (d. 256 H) ends this chapter
 with the report:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسماعيل بن عبد الله حدثنا سليمان بن بلال عن هشام ابن عروة عن
-عروة بن الزبير عن عائشة رضي الله عنها زوج النبي صلى الله عليه و سلم
-:أن رسول الله صلى الله عليه و سلم مات وأبو بكر بالسنح - قال إسماعيل
-يعني بالعالية - فقام عمر يقول والله ما مات رسول الله صلى الله عليه و
-سلم قالت وقال عمر والله ما كان يقع في نفسي إلا ذاك وليبعثنه الله
-فليقطعن أيدي رجال وأرجلهم .
-  </p>
-</blockquote>
+> حدثنا إسماعيل بن عبد الله حدثنا سليمان بن بلال عن هشام ابن عروة عن
+> عروة بن الزبير عن عائشة رضي الله عنها زوج النبي صلى الله عليه و سلم
+> :أن رسول الله صلى الله عليه و سلم مات وأبو بكر بالسنح - قال إسماعيل
+> يعني بالعالية - فقام عمر يقول والله ما مات رسول الله صلى الله عليه و
+> سلم قالت وقال عمر والله ما كان يقع في نفسي إلا ذاك وليبعثنه الله
+> فليقطعن أيدي رجال وأرجلهم .
 
 Isma’il b. ‘Abd Allah – Sulayman b. Bilal – Hisham b. ‘Urwah – ‘Urwah b.
 al-Zubayr – ‘Aishah, may Allah be pleased with her, the wife of the
@@ -206,5 +202,4 @@ ahadith establishes that ‘Umar was later convinced of the Messenger’s
 death by Abu Bakr. However, this author was unable to locate any proof –
 Sunni or otherwise - that ‘Umar ever abandoned his belief that Allah
 would resurrect Muhammad from death before the end of time.
-
 

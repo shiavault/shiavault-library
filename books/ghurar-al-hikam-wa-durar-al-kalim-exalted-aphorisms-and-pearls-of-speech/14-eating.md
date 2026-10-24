@@ -24,11 +24,7 @@ other foods.
 impairment.
 
 > 5ـ كَثرَةُ الأكلِ والنَّوْمِ تُفْسِدانِ النَّفْسَ وتَجْلُبانِ
-<blockquote dir="rtl">
-  <p>
-المَضَرَّةَ.
-  </p>
-</blockquote>
+> المَضَرَّةَ.
 
 6. Overeating causes bad [body] odour.
 
@@ -39,11 +35,7 @@ secretes it secretes what is good, and when it sits on a twig it does
 not break it.
 
 > 7ـ كُنْ كالنَّحْلَةِ إذا أكَلَتْ أكَلَتْ طَيِّباً، وإذا وَضَعَتْ
-<blockquote dir="rtl">
-  <p>
-وَضَعتْ طَيِّباً، وإذا وَقَعَتْ على عُود لَمْ تُكَسِّرْهُ.
-  </p>
-</blockquote>
+> وَضَعتْ طَيِّباً، وإذا وَقَعَتْ على عُود لَمْ تُكَسِّرْهُ.
 
 8. Whoever eats less, his thoughts become pure.
 
@@ -58,20 +50,11 @@ become righteous.
 stomach, his value is [equal to] that which comes out from it.
 
 > 10ـ مَنْ كانَتْ هِمَّتُهُ ما يَدْخُلُ بَطْنَهُ كانَتْ قيمَتُهُ ما
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِنْهُ.
-  </p>
-</blockquote>
+> يَخْرُجُ مِنْهُ.
 
 11. One who eats excessively, his health deteriorates and his expenses
 become heavy for him to bear.
 
 > 11ـ مَن كَثُرَ أكْلُهُ قَلَّتْ صِحَّتُهُ، وثَقُلَتْ على نَفْسهِ
-<blockquote dir="rtl">
-  <p>
-مَؤُنتُهُ.
-  </p>
-</blockquote>
-
+> مَؤُنتُهُ.
 

@@ -23,4 +23,3 @@ given a *kasrah*. For example: **صِیمَ.**
 If the verb is a hollow verb in the aorist tense, the letter before the
 last is changed into an *alif*. For example: **یُعادُ.**
 
-

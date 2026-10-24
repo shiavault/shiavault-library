@@ -672,4 +672,3 @@ the Christian Scriptures, never even met Jesus in person. On the other
 hand, as we have shown, Paul can be understood consistently to favor
 purity as well.
 
-

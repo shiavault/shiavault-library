@@ -8,21 +8,13 @@ the jealousy of the neighbours, the flattery of the brothers and the
 domination of the ruler.
 
 > 1ـ اَلفَقْرُ صَلاحُ المُؤمِنِ، ومُريحُهُ مِنْ حَسَدِ الجيرانِ،
-<blockquote dir="rtl">
-  <p>
-وتَمَلُّقِ الإخْوانِ،وَ تَسَلُّطِ السُّلْطانِ.
-  </p>
-</blockquote>
+> وتَمَلُّقِ الإخْوانِ،وَ تَسَلُّطِ السُّلْطانِ.
 
 2. Verily poverty is disgracer for the soul, a confounder of the
 intellect, and a bringer of sorrows.
 
 > 2ـ إنَّ الفَقْرَ مِذَلَّةٌ لِلنَّفْسِ، مِدْهَشَةٌ لِلْعَقْلِ، جالِبٌ
-<blockquote dir="rtl">
-  <p>
-لِلْهُمُومِ.
-  </p>
-</blockquote>
+> لِلْهُمُومِ.
 
 3. Poverty causes forgetfulness.
 
@@ -105,11 +97,7 @@ is needless of.
 shame is being indigent in one’s one hometown.
 
 > 21ـ لَيْسَ فِي الغُرْبَةِ عارٌ، إنَّما العارُ فِي الوَطَنِ
-<blockquote dir="rtl">
-  <p>
-اَلاِفْتِقارُ.
-  </p>
-</blockquote>
+> اَلاِفْتِقارُ.
 
 22. One who pretends to be poor, becomes poor.
 
@@ -128,5 +116,4 @@ wretchedness in this world and the next.
 
 [^2]: ‘Red death’ is a figure of speech that means a violent or bloody
 death.
-
 

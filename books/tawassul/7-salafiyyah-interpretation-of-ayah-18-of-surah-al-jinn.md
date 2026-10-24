@@ -40,4 +40,3 @@ Thus, the narration*al-du'a' huwa al-'ibadah* (supplication is among the
 acts of worship), does not necessarily mean that every supplication is a
 form of worship.[^25]
 
-

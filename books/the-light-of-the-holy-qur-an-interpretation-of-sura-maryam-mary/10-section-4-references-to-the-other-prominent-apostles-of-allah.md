@@ -50,7 +50,6 @@ him.(4)
 3- Sura Taha, No.20, verse 41
 4- Tafsir-i-Al-Mizan, and Nur-uth -Thaqalayn
 
-
 **Commentary : Verse 52.53**
 
 52- وَنَادَيْنَاهُ مِن جَانِبِ الطُّورِ الاَيْمَنِ وَقَرَّبْنَاهُ
@@ -162,5 +161,4 @@ Kulayni, (section: the difference between the prophets and
 Messengers).
 
 1- Nahjul-Balaqah, sermon 108
-
 

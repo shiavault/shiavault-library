@@ -20,11 +20,7 @@ for selected friends such as Hothaifah about these conspiracies.
 A group of hypocrites were awaiting the Prophet's death. Exposing them,
 the Holy Quran says,
 
-<blockquote dir="rtl">
-  <p>
-﴿.نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ ﴾
-  </p>
-</blockquote>
+> ﴿.نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ ﴾
 
 ‘therefore continue to remind … you are not a soothsayer, or a mad-man’
 or do they say: A poet, we anticipate for him the evil accidents of
@@ -56,11 +52,7 @@ hypocrites had planned to carry out. Therefore, he appointed Ali (as) as
 his substitute in Medina and he delivered his historic statement
 regarding Ali (as):
 
-<blockquote dir="rtl">
-  <p>
-“أنت منّي بمنزلة هارون من موسى”
-  </p>
-</blockquote>
+> “أنت منّي بمنزلة هارون من موسى”
 
 “You are to me what Harun was to Musa”[^3].
 
@@ -143,5 +135,4 @@ concerning Abu Sufyan with the following statement. ما زلت عدوّ الإ�
 "Al-Esty’ab" vol. 2 / p. 690.
 
 [^3]: . This narration has been repeated frequently.
-
 

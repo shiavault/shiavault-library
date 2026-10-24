@@ -111,4 +111,3 @@ He then said: Do not be annoyed by this, for Fatima was a \`Siddiqah'
 and no one save a \`Siddiq' can give her ablution. Don't you know that
 no one gave ablution to Mariam save Isa (as)."
 
-

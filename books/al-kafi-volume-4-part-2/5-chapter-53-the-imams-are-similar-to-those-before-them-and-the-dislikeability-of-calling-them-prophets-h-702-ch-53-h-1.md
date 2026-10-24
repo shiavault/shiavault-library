@@ -189,4 +189,3 @@ companion of Moses or like Dhul Qarnayn. Have not heard that he has
 said, "Among there one like him." (A hadith of the Holy Prophet (s.a.)
 says that Ali (a.s.) is the Dhul Qarnay of this Umma).
 
-

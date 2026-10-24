@@ -131,12 +131,8 @@ this way when (all of a sudden you will receive the help of Allah and
 victory). And that is the interpretation of the saying of the Almighty
 in His book:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
-جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
+> جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ
 
 ***“Until when the apostles despaired and the people became sure that
 they were indeed told a lie, Our help came to them.” (Qur’an, Surah
@@ -275,5 +271,4 @@ the Almighty Allah wills.
 [^13]: Biharul Anwar; Vol. 52, Pg. 365
 
 [^14]: Kafi, Vol. 1, Pg. 240
-
 

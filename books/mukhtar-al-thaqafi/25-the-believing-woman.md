@@ -27,4 +27,3 @@ a martyr for Imam Husayn's aims.
 Mukhtar and his wife passed away. They wrote a bright page in the
 history of Jihad. The page has illuminated the way for generations.
 
-

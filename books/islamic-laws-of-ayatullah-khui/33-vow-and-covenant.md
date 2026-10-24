@@ -271,4 +271,3 @@ has seen him and he has seen him five minutes earlier, he should say
 that he has not seen him and should make an intention to the effect that
 he has not seen him for the last five minutes.
 
-

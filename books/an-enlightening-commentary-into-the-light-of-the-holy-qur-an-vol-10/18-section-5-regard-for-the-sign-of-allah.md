@@ -4,13 +4,9 @@ Section 5: Regard for the Sign of Allah
 Surah Al-Hajj – Verse 34
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلّ‌ِ اُمَّةٍ جَعَلْنا مَنسَكاً لِيَذْكُرُوا اسْمَ اللَّهِ عَلَي
-مَا رَزَقَهُمْ مِن بَهِيمَةِ الاَنْعَامِ فَإِلَهُكُمْ إِلَهٌ وَاحِدٌ
-فَلَهُ أَسْلِمُوا وَبَشّـِرِ الْمُـخْبِتِينَ
-  </p>
-</blockquote>
+> وَلِكُلّ‌ِ اُمَّةٍ جَعَلْنا مَنسَكاً لِيَذْكُرُوا اسْمَ اللَّهِ عَلَي
+> مَا رَزَقَهُمْ مِن بَهِيمَةِ الاَنْعَامِ فَإِلَهُكُمْ إِلَهٌ وَاحِدٌ
+> فَلَهُ أَسْلِمُوا وَبَشّـِرِ الْمُـخْبِتِينَ
 
 ***34. “And for every people We appointed a ritual that they may mention
 the name of Allah on what He has provided them of the cattle quadrupeds
@@ -92,13 +88,9 @@ it means special to sacrifice.
 Surah Al-Hajj – Verse 35
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ
-عَلَي مَآ أَصَابَهُمْ وَالْمُقِيمِي الصَّلاَةِ وَمِمَّا رَزَقْنَاهُمْ
-يُنفِقُونَ
-  </p>
-</blockquote>
+> الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ
+> عَلَي مَآ أَصَابَهُمْ وَالْمُقِيمِي الصَّلاَةِ وَمِمَّا رَزَقْنَاهُمْ
+> يُنفِقُونَ
 
 ***35. “(To) those whose hearts tremble when Allah is mentioned, and
 those who are patient under that which afflicts them, and the
@@ -226,14 +218,10 @@ make him happy on the Day of Hereafter.”*[^12]
 Surah Al-Hajj – Verse 36
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالْبُدْنَ جَعَلْنَاهَا لَكُم مِن شَعَآئِرِ اللَّهِ لَكُمْ فِيهَا
-خَيْرٌ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ
-جُنُوبُهَا فَكُلُوامِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ
-كَذَلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَالْبُدْنَ جَعَلْنَاهَا لَكُم مِن شَعَآئِرِ اللَّهِ لَكُمْ فِيهَا
+> خَيْرٌ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ
+> جُنُوبُهَا فَكُلُوامِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ
+> كَذَلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 
 ***36. “And (as for) the fat camels, We have made them for you of the
 symbols of Allah, therein is good for you. So mention Allah’s Name on
@@ -365,13 +353,9 @@ it.
 Surah Al-Hajj – Verse 37
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَن يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَآؤُهَا وَلَكِن يَنَالُهُ
-التَّقْوَي مِنكُمْ كَذَلِكَ سَخَّرَهَا لَكُمْ لِتُكَبّـِرُوا اللَّهَ
-عَلَي مَا هَدَاكُمْ وَبَشّـِرِ الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> لَن يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَآؤُهَا وَلَكِن يَنَالُهُ
+> التَّقْوَي مِنكُمْ كَذَلِكَ سَخَّرَهَا لَكُمْ لِتُكَبّـِرُوا اللَّهَ
+> عَلَي مَا هَدَاكُمْ وَبَشّـِرِ الْمُـحْسِنِينَ
 
 ***37. “There never reaches Allah their flesh nor their blood, but it is
 your piety (that) reaches Him. Thus has He made them subservient to you,
@@ -437,12 +421,8 @@ Allah.
 Surah Al-Hajj – Verse 38
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ ءَامَنُوا إِنَّ اللَّهَ لاَ
-يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ
-  </p>
-</blockquote>
+> إنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ ءَامَنُوا إِنَّ اللَّهَ لاَ
+> يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ
 
 ***38. “Verily Allah will defend those who believe; verily Allah does
 not love any treacherous ingrate.”***
@@ -538,5 +518,4 @@ way of life is blasphemy and treachery.
 [^15]: Surah Ar-Rum, No. 30, verse 47
 
 [^16]: Surah Al-’A‘raf, No. 7, verse 128
-
 

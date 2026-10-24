@@ -280,4 +280,3 @@ When Mohammed Mustafa (may God bless him and his Ahlul Bait) died in
 century, and the wife who outlived all other wives of the Prophet, was
 Maymuna. She, incidentally, was the last woman he had married.
 
-

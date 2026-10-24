@@ -15,4 +15,3 @@ belongs with interfaith initiatives and other recognitions of the
 democratic and pluralistic world of today, and hence form an important
 part of the postsecular context which derives from the presecular.
 
-

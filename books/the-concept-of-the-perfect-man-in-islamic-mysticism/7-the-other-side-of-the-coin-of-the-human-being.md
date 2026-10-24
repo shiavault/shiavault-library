@@ -35,4 +35,3 @@ if his selfish desires overcome his reason, he will be imprisoned in
 darkness and misfortune. The Qur’ān says: “By Time! Indeed man is at a
 loss, except those who have faith and do righteous deeds” (Ch. 103).
 
-

@@ -47,4 +47,3 @@ May Allah hasten the reappearance of the last of them, Hazrat Mahdi (aj)
 
 **Ali Akber Talafi**
 
-

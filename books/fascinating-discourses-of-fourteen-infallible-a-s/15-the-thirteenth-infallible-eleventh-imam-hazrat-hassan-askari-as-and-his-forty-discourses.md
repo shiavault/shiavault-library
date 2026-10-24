@@ -27,10 +27,8 @@ Before Imamate 22 years (from 232 to 245 Hijrah. After Imamate 6 years
 He was constantly & permenently under observation in the prison of the
 satans of his age & was finally brutally martyred by poison.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام الحسن العسکری عليه السلام
 -------------------------------------------------
-</p>
 
 1- اَللهُ هُوَ الَّذي يَتَألَّهُ إِلَيهِ عِندَ الحَوائِج وَالشَّدائِدِ
 کُلُّ مَخلُوقِ، عِند انقِطاعِ الرَّجاءِ مِن کُلِّ مَن دُونَهُ
@@ -327,5 +325,4 @@ Every body reaps, what he sows. (TUHfUL AQOOL. P 489)
 will not be afraid of Allah.
 
 (BIHAR UL ANWAR VOL 78. P 377)
-
 

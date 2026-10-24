@@ -11,4 +11,3 @@ Ehkaam e Banovan (Compiled by Mohammed Vahidi).
 
 Tehreer ul-Vaseelah (Imam Khomeini).
 
-

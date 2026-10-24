@@ -42,4 +42,3 @@ Questions
 
 3. What kind of dress did the Holy Prophet wear?
 
-

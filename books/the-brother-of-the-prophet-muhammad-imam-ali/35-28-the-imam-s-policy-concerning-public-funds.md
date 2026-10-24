@@ -370,4 +370,3 @@ Imam.
 
 [^8]: Taha Russein Al-Fitna tul-Kubra part 2 p. 53.
 
-

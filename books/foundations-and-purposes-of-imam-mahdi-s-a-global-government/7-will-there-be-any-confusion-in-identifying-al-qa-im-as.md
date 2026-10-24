@@ -239,4 +239,3 @@ and His Hujja (AS) so that Allah may decide to waive the remaining time
 of occultation. There are many traditions that support each item below,
 but here I only quote a few:
 
-

@@ -93,7 +93,6 @@ What an irony when it is often the daughters who prove more dependable
 to the aged parents in terms of affection and loyalty. which also are
 unfortunately taken for granted in the society.
 
-
 **24- Groom the Child in the Art of Conversation**
 
 A : "Why didn't you turn up"?
@@ -196,5 +195,4 @@ introduction. One does not win in capitulation.
 The parents who set themselves to minding the habits of the children in
 their conduct of conversation can groom the children in the art. The
 parents will have minded their own habits also in the process.
-
 

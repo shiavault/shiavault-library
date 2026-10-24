@@ -26,4 +26,3 @@ Najd*, Khairi Hamad in *The Pillars of Colonialism*, Hamaion Himáyati
 *in Al-Wahhabi Criticism and Analysis*, and finally, Haiem Wiseman, the
 first prime minister of the Jewish entity in Palestine in his memoirs.
 
-

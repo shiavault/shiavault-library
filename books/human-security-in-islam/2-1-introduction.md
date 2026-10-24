@@ -34,4 +34,3 @@ concepts and the newer concept of human security; 2) to analyze how
 treating Islam as an ideational factor in security issues may help to
 form an updated alternative IR theory.
 
-

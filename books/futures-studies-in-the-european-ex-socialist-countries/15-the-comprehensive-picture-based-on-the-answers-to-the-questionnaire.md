@@ -881,4 +881,3 @@ Even if nowadays one can see in the considered countries, as well as
 world-wide some gap, some*delay* in futures studies approaches on the
 new challenges of the globalization process.
 
-

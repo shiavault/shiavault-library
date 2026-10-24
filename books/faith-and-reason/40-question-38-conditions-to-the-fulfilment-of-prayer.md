@@ -310,4 +310,3 @@ supplicant rub his hands on his face.
 
 [^8]: Bihar al-Anwar, vol. 72, pg. 107
 
-

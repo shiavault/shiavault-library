@@ -465,4 +465,3 @@ He gave her evasive replies, to allay her fears
 
 The prisoners are not the Prophet's near and dear.
 
-

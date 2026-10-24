@@ -8,4 +8,3 @@ also.
  Jawad replied “ Of course I do, because the Holy Prophet (saw) has said
 “Paradise lies under the feet of the mother”.
 
-

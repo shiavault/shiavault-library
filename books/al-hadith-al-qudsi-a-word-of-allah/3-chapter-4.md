@@ -30,29 +30,21 @@ are not ashamed of Me? You forget Me, but I remember you. You are afraid
 of people, and you are careless of Me. You fear enmity of people, but
 you do not fear My wrath?
 
-
-<p dir="rtl">
 الحديث الخامس‏
-</p>
 
-<p dir="rtl">
 يَابْنَ آدَمَ!! لَا تَكُنْ مِمَّنْ يَطْلُبُ التَّوْبَةَ بِطُولِ الأمَلِ
 وَيَرْجُو الآخِرَةَ بِغَيْرِ عَمَلٍ، يَقُولُ قَوْلَ الزّاهِدِينَ وَ
 يَعْمَلُ عَمَلَ الْمُنَافِقِينَ، إنْ أُعْطِىَ لَا يَقْنَعُ وَ إِنْ
 مُنِعَ لَا يَصْبِرُ، يَأمُرُ بِالْخَيْرِ وَ لَا يَفْعَلُهُ، وَ يَنْهَى
 عَنِ الشَّرِّ وَ لاَ يُنْهَى عَنْهُ، وَ يُحِبُّ الصَّالِحِينَ وَ لَيْسَ
 مِنْهُمْ، وَ يُبْغِضُ الْمُنَافِقِينَ وَ هُوَ مِنْهُمْ .
-</p>
 
-<p dir="rtl">
 يَابْنَ آدَمَ!! مَا مِنْ يَوْمٍ جَدِيدٍ إِلَّا وَ الأَرْضُ تُخَاطِبُكَ
 وَ تَقُولُ: يَابْنَ آدَمَ، تَمْشِي عَلى ظَهْرِي وَ مَصِيرُكَ في بَطْني
 وَتُذْنِب عَلَى ظَهْرِي وَ تُعَذَّبُ في بَطْنِي؛ يَابْنَ آدَمَ، أَنا
 بَيْتُ الوَحْدَةِ وَ أنَا بَيْتُ الْوَحْشَةِ وَ أَنَا بَيْتُ الظُلْمَةِ
 وَ أَنَا بَيْتُ العَقَارِبِ وَ الْحَيَّاتِ وَ أَنَا بَيْتُ الهَوانِ،
 فَاعْمُرِني وَ لَا تَخْرَبْنِي.
-</p>
-
 
 **Chapter 5**
 
@@ -73,11 +65,8 @@ all alone. I am a dwelling which is full of ferocious things, such as
 serpents and scorpions. So, O, Son of Adam, do good deeds and thereafter
 enter me; only then would you be happy and without hardships."
 
-<p dir="rtl">
 الحديث السادس‏
-</p>
 
-<p dir="rtl">
 يَابْنَ آدَمَ!! مَا خَلَقْتُكُمْ لِأَسْتَكْثِرَ بِكُمْ مِن قِلَّةٍ، وَ
 لَا لِأَسْتَأنِسَ بِكُمْ مِنْ وَحْشَةٍ، وَ لَا لِأَسْتعِينَ بِكُمْ عَلَى
 أَمْرٍ عَجَزْتُ عَنْهُ، وَ لَا لِاَجْلِ مَنْفَعَةٍ وَ لَا لِدَفْعِ
@@ -91,8 +80,6 @@ enter me; only then would you be happy and without hardships."
 اجْتَمَعتُمْ عَلَى مَعْصِيَتي مَا نَقَصَ ذلِكَ مِنْ مُلْكِي مِثْقَالَ
 ذَرَّةٍ، وَ مَنْ جَاهَدَ فَإنَّمَا يُجَاهِدُ لِنَفْسِهِ، إِنَّ اللَّهَ
 غَنِىُّ عَنِ العَالَمِينَ.
-</p>
-
 
 **Chapter 6**
 
@@ -123,5 +110,4 @@ make your heart dead out of love for this world. Indeed, this world is
 going to bring an end to you very soon. The one who struggles (in the
 path of Allah (Jihad) is struggling for his own soul. Indeed, Allah is
 self sufficient above any need of the worlds (3:97).
-
 

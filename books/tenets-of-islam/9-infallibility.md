@@ -13,4 +13,3 @@ The Prophets (peace be on them) must be the best and the most learned
 men of their time, for it is absurd to give preference to the inferior
 people.
 
-

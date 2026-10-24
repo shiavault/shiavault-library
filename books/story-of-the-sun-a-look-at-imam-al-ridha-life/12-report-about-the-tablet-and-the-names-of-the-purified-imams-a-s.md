@@ -61,4 +61,3 @@ the Byzantine Emperor Maurice.
 
 [^2]: Bihar al-Anwar, nol. 36, p. 193.
 
-

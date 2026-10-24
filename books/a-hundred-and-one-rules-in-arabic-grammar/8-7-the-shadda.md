@@ -6,4 +6,3 @@ providing that the first has a**Sukuun** (zero vowel).
 
 **دَرْرَسَ**          is written as** ** **دَرَّسَ**
 
-

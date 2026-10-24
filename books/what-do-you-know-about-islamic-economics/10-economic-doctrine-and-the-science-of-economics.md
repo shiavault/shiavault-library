@@ -304,4 +304,3 @@ the same. Doubling the amount spent is not sufficient [by itself] to
 double the production as long as the principal factor determining
 production, that is, the land, remains to be the same.
 
-

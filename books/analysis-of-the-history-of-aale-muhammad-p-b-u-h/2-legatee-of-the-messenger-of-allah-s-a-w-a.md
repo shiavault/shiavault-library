@@ -438,4 +438,3 @@ equal in relation to Moosa (a.s.), similarly, no one was equal to Ali
 concerned. Therefore it is not surprising that the Prophet (s.a.) had so
 much regard and attachment for Ali (a.s.).
 
-

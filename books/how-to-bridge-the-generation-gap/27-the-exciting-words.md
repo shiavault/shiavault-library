@@ -13,20 +13,12 @@ obligations to his father and mother. The honourable Imam with much fear
 in his heart, sits in prayer in front of glory and majesty of Almighty
 Allah and in a humbling voice says:
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد عبدك و رسولك واهل بيته الطاهرين و اخصصهم بافضل
-صلواتك ورحمتك و بركاتك وسلامك واحصصهم اللهم والدى بالكرامة لديك
-والصلوة منك ياارحم
-  </p>
-</blockquote>
+> اللهم صل على محمد عبدك و رسولك واهل بيته الطاهرين و اخصصهم بافضل
+> صلواتك ورحمتك و بركاتك وسلامك واحصصهم اللهم والدى بالكرامة لديك
+> والصلوة منك ياارحم
 
-<blockquote dir="rtl">
-  <p>
-الراحمين اللهم صل على محمد و اله والهمني علم ما يجب لهما على الهاما
-واجمع لى علم ذلك كله تمام ...
-  </p>
-</blockquote>
+> الراحمين اللهم صل على محمد و اله والهمني علم ما يجب لهما على الهاما
+> واجمع لى علم ذلك كله تمام ...
 
 *“O Lord, bless Muhammad, Thy servant and Thy Apostle and the holy
 people of his house.*
@@ -171,5 +163,4 @@ glory of this holy man and his words, to grant me that ability to put
 these words practice.
 
 [^1]: Al-Sahifa Al-Sajjadiyyah, Prayer number 24 (For parents)
-
 

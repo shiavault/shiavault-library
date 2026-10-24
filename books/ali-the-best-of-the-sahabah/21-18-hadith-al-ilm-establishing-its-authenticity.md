@@ -3,20 +3,12 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) claims:
 
-<blockquote dir="rtl">
-  <p>
-قال الرافضي الثالث انه كان اعلم الناس بعد رسول الله صلى الله عليه و
-سلم
-  </p>
-</blockquote>
+> قال الرافضي الثالث انه كان اعلم الناس بعد رسول الله صلى الله عليه و
+> سلم
 
-<blockquote dir="rtl">
-  <p>
-و الجواب أن اهل السنة يمنعون ذلك و يقولون ما اتفق عليه علماؤهم أن اعلم
-الناس بعد رسول الله صلى الله عليه و سلم أبو بكر ثم عمر و قد ذكر غير
-واحد الإجماع على أن أبا بكر اعلم الصحابة كلهم
-  </p>
-</blockquote>
+> و الجواب أن اهل السنة يمنعون ذلك و يقولون ما اتفق عليه علماؤهم أن اعلم
+> الناس بعد رسول الله صلى الله عليه و سلم أبو بكر ثم عمر و قد ذكر غير
+> واحد الإجماع على أن أبا بكر اعلم الصحابة كلهم
 
 The Rafidhi said: “The third (point) is that he (‘Ali) is the most
 knowledgeable of mankind after the Messenger of Allah, peace be upon
@@ -53,18 +45,14 @@ is whether the Messenger of Allah was part of this consensus. If he was
 not, then such an agreement lacks *any* merit. Imam Ahmad (d. 241 H)
 records the Prophet’s opinion on the matter:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا أبو أحمد ثنا خالد يعني بن طهمان عن نافع
-بن أبي نافع عن معقل بن يسار قال: وضأت النبي صلى الله عليه و سلم ذات
-يوم فقال هل لك في فاطمة رضي الله عنها تعودها فقلت نعم فقام متوكئا علي
-فقال أما انه سيحمل ثقلها غيرك ويكون أجرها لك قال فكأنه لم يكن على شيء
-حتى دخلنا على فاطمة عليها السلام فقال لها كيف تجدينك قالت والله لقد
-اشتد حزني واشتدت فاقتي وطال سقمي قال أبو عبد الرحمن وجدت في كتاب أبي
-بخط يده في هذا الحديث قال أو ما ترضين أني زوجتك أقدم أمتي سلما وأكثرهم
-علما وأعظمهم حلما
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا أبو أحمد ثنا خالد يعني بن طهمان عن نافع
+> بن أبي نافع عن معقل بن يسار قال: وضأت النبي صلى الله عليه و سلم ذات
+> يوم فقال هل لك في فاطمة رضي الله عنها تعودها فقلت نعم فقام متوكئا علي
+> فقال أما انه سيحمل ثقلها غيرك ويكون أجرها لك قال فكأنه لم يكن على شيء
+> حتى دخلنا على فاطمة عليها السلام فقال لها كيف تجدينك قالت والله لقد
+> اشتد حزني واشتدت فاقتي وطال سقمي قال أبو عبد الرحمن وجدت في كتاب أبي
+> بخط يده في هذا الحديث قال أو ما ترضين أني زوجتك أقدم أمتي سلما وأكثرهم
+> علما وأعظمهم حلما
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) - Abu Ahmad – Khalid
 b. Tahman – Nafi’ b. Abi Nafi’ – Ma’qil b. Yasar:
@@ -83,11 +71,7 @@ most clement of them?”[^2]
 
 Imam al-Haythami (d. 807 H) states about this report:
 
-<blockquote dir="rtl">
-  <p>
-رواه أحمد والطبراني برجال وثقوا
-  </p>
-</blockquote>
+> رواه أحمد والطبراني برجال وثقوا
 
 Ahmad and al-Tabarani recorded it **with narrators who have (all) been
 graded** ***thiqah*** **(trustworthy)**.[^3]
@@ -95,12 +79,8 @@ graded** ***thiqah*** **(trustworthy)**.[^3]
 At another place, al-Haythami again comments on the same *hadith* with
 the same chain:
 
-<blockquote dir="rtl">
-  <p>
-رواه أحمد والطبراني وفيه خالد بن طهمان وثقه أبو حاتم وغيره وبقية رجاله
-ثقات
-  </p>
-</blockquote>
+> رواه أحمد والطبراني وفيه خالد بن طهمان وثقه أبو حاتم وغيره وبقية رجاله
+> ثقات
 
 Ahmad and al-Tabarani narrated it. **In the chain is Khalid b. Tahman.
 Abu Hatim and others declared him** ***thiqah*** **(trustworthy)**. The
@@ -108,11 +88,7 @@ remaining narrators are (all) *thiqah* (trustworthy).[^4]
 
 But Shaykh al-Arnauṭ disagrees:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف
-  </p>
-</blockquote>
+> إسناده ضعيف
 
 Its chain is *dha’if*.[^5]
 
@@ -123,12 +99,8 @@ quoting the exact report above, the ‘Allamah states:
 
 > أخرجه أحمد (5/ 26) ، ومن طريقه ابن عساكر (12/ 89/ 1) .
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد ضعيف؛ رجاله ثقات؛ غير خالد بن طهمان؛ فضعفه الأكثرون.
-وقال ابن معين: "ضعيف خلط قبل موته بعشر سنين، وكان قبل ذلك ثقة".
-  </p>
-</blockquote>
+> قلت: وهذا إسناد ضعيف؛ رجاله ثقات؛ غير خالد بن طهمان؛ فضعفه الأكثرون.
+> وقال ابن معين: "ضعيف خلط قبل موته بعشر سنين، وكان قبل ذلك ثقة".
 
 Ahmad (5/26) recorded it, and from his route Ibn Asakir (12/89/1).
 
@@ -148,23 +120,15 @@ these“majority”. The best that he has offered is only one name: Yahya b.
 Ma’in! Interestingly, the same ‘Allamah even goes ahead to refute
 himself elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-وأما أبو العلاء الخفاف واسمه خالد بن طهمان فهو صدوق، لكنه كان اختلط.
-  </p>
-</blockquote>
+> وأما أبو العلاء الخفاف واسمه خالد بن طهمان فهو صدوق، لكنه كان اختلط.
 
 As for Abu al-‘Ala al-Khafaf, his name is Khalid b. Tahman, **and he
 is** ***saduq*** **(very truthful), although he became confused**.[^7]
 
 This is the correct view, according to al-Hafiz (d. 852 H) as well:
 
-<blockquote dir="rtl">
-  <p>
-خالد بن طهمان الكوفي وهو خالد بن أبي خالد وهو أبو العلاء الخفاف مشهور
-بكنيته صدوق رمي بالتشيع ثم اختلط
-  </p>
-</blockquote>
+> خالد بن طهمان الكوفي وهو خالد بن أبي خالد وهو أبو العلاء الخفاف مشهور
+> بكنيته صدوق رمي بالتشيع ثم اختلط
 
 Khalid b. Tahman al-Kufi, and he is Khalid b. Abi Khalid, and he is Abu
 al-‘Ala al-Khafaf, well-known with his *kunya* (nickname): ***Saduq***
@@ -173,12 +137,8 @@ confused**.[^8]
 
 Imam al-Dhahabi (d. 748 H) has the same opinion:
 
-<blockquote dir="rtl">
-  <p>
-خالد بن طهمان أبو العلاء الكوفي، الخفاف عن أنس، وعدة، وعنه
-الفريابي،وأحمد بن يونس، صدوق شيعي، ضعفه ابن معين.
-  </p>
-</blockquote>
+> خالد بن طهمان أبو العلاء الكوفي، الخفاف عن أنس، وعدة، وعنه
+> الفريابي،وأحمد بن يونس، صدوق شيعي، ضعفه ابن معين.
 
 Khalid b. Tahman Abu al-‘Ala al-Kufi, al-Khafaf, he narrated from Anas
 and a number (of others) while al-Faryabi and Ahmad b. Yunus (also)
@@ -197,11 +157,7 @@ a serious one or not? The answer to that, as we will prove shortly,
 determines the final step. Meanwhile, ‘Allamah al-Albani here gives
 explanations on the case of a narrator with a *serious* memory failure:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهو ثقة لولا اختلاطه، ومثله من المختلطين له ثلاث حالات:
-  </p>
-</blockquote>
+> قلت: وهو ثقة لولا اختلاطه، ومثله من المختلطين له ثلاث حالات:
 
 > 1 - أن يعرف أنه حدث بالحديث قبل الاختلاط.
 
@@ -209,11 +165,7 @@ explanations on the case of a narrator with a *serious* memory failure:
 
 > 3 - أن لا يعرف عنه لا هذا ولا هذا.
 
-<blockquote dir="rtl">
-  <p>
-ففي الحالة الأولى فقط يحتج به؛ دون الحالتين الأخريين.
-  </p>
-</blockquote>
+> ففي الحالة الأولى فقط يحتج به؛ دون الحالتين الأخريين.
 
 I say: He is *thiqah* (trustworthy) despite his confusion. A confused
 narrator like him has three statuses:
@@ -234,13 +186,9 @@ Ahmad before his confusion or otherwise?
 There is a difference of opinion on this. For instance, Imam al-Ghazali
 (d. 505 H) states:
 
-<blockquote dir="rtl">
-  <p>
-ولأحمد والطبراني من حديث معقل بن يسار وضأت النبي صلى الله عليه وسلم
-ذات يوم فقال هل لك في فاطمة تعودها الحديث وفيه أما ترضين أن زوجتك أقدم
-أمتي سلما وأكثرهم علما وأعظمهم حلما وإسناده صحيح
-  </p>
-</blockquote>
+> ولأحمد والطبراني من حديث معقل بن يسار وضأت النبي صلى الله عليه وسلم
+> ذات يوم فقال هل لك في فاطمة تعودها الحديث وفيه أما ترضين أن زوجتك أقدم
+> أمتي سلما وأكثرهم علما وأعظمهم حلما وإسناده صحيح
 
 Ahmad and al-Tabarani narrated from the *hadith* of Ma’qil b. Yasar: “I
 helped the Prophet, peace be upon him, to perform ablution one day. Then
@@ -261,11 +209,7 @@ failed memory.
 The next question then is: did Khalid have a serious memory problem?
 Imam Ibn Hibban says “no”:
 
-<blockquote dir="rtl">
-  <p>
-خالد بن طهمان .... يخطئ ويهم
-  </p>
-</blockquote>
+> خالد بن طهمان .... يخطئ ويهم
 
 Khalid b. Tahman.... **He made mistakes and hallucinated**.[^12]
 
@@ -279,15 +223,11 @@ occasional. Therefore, he still transmitted completely authentic
 *ahadith* during those last ten years of his lifetime. So, ‘Allamah
 al-Albani tells us about another narrator who was exactly like Khalid:
 
-<blockquote dir="rtl">
-  <p>
-والجريري- واسمه سعيد بن إياس- محتج به في "الصحيحين "؛ وإن كان اختلط
-قبل موته بثلاث سنين، ولكن لم يفحش اختلاطه، وكأنه لهذا احتج به ابن حبان
-في "صحيحه " تبعاً لـ "الصحيحين "، وأكثر هو عنه، فمثله ينبغي أن يحتج به
-ما لم يظهر خطؤه، فإذا توبع أو كان له شواهد- كما هو الشأن في حديثه
-هذا-؛ فلا يضر غرابته فيه إن شاء الله تعالى.
-  </p>
-</blockquote>
+> والجريري- واسمه سعيد بن إياس- محتج به في "الصحيحين "؛ وإن كان اختلط
+> قبل موته بثلاث سنين، ولكن لم يفحش اختلاطه، وكأنه لهذا احتج به ابن حبان
+> في "صحيحه " تبعاً لـ "الصحيحين "، وأكثر هو عنه، فمثله ينبغي أن يحتج به
+> ما لم يظهر خطؤه، فإذا توبع أو كان له شواهد- كما هو الشأن في حديثه
+> هذا-؛ فلا يضر غرابته فيه إن شاء الله تعالى.
 
 **Al-Jurayri – and his name is Sa’id b. Iyas – IS RELIED UPON AS A**
 ***HUJJAH*** **IN THE TWO** ***SAHIHS*****, despite he became confused
@@ -314,18 +254,14 @@ testifying for the *hadith*!
 ‘Allamah al-Hindi (d. 975 H) records one of such corroborating
 *ahadith*:
 
-<blockquote dir="rtl">
-  <p>
-عن علي قال : خطب أبو بكر وعمر فاطمة إلى رسول الله صلى الله عليه و سلم
-فأبى رسول الله صلى الله عليه و سلم عليهما فقال عمر : أنت لها يا علي
-قال : مالي من شيء إلا درعي وجملي وسيفي فتعرض علي ذات يوم لرسول الله
-صلى الله عليه و سلم فقال : يا علي هل لك من شيء ؟ قال : جملي ودرعي
-أرهنهما فزوجني رسول الله صلى الله عليه و سلم فاطمة فلما بلغ فاطمة ذلك
-بكت فدخل عليها رسول الله صلى الله عليه و سلم فقال : ما لك تبكين يا
-فاطمة والله أنكحتك أكثرهم علما وأفضلهم حلما وأقدمهم سلما وفي لفظ :
-أولهم سلما
-  </p>
-</blockquote>
+> عن علي قال : خطب أبو بكر وعمر فاطمة إلى رسول الله صلى الله عليه و سلم
+> فأبى رسول الله صلى الله عليه و سلم عليهما فقال عمر : أنت لها يا علي
+> قال : مالي من شيء إلا درعي وجملي وسيفي فتعرض علي ذات يوم لرسول الله
+> صلى الله عليه و سلم فقال : يا علي هل لك من شيء ؟ قال : جملي ودرعي
+> أرهنهما فزوجني رسول الله صلى الله عليه و سلم فاطمة فلما بلغ فاطمة ذلك
+> بكت فدخل عليها رسول الله صلى الله عليه و سلم فقال : ما لك تبكين يا
+> فاطمة والله أنكحتك أكثرهم علما وأفضلهم حلما وأقدمهم سلما وفي لفظ :
+> أولهم سلما
 
 Narrated ‘Ali:
 
@@ -345,26 +281,18 @@ them to accept Islam.”[^19]
 
 Al-Hindi comments:
 
-<blockquote dir="rtl">
-  <p>
-ابن جرير وصححه والدولابي في الذرية الطاهرة
-  </p>
-</blockquote>
+> ابن جرير وصححه والدولابي في الذرية الطاهرة
 
 Ibn Jarir (al-Tabari) recorded it **AND DECLARED IT** ***SAHIH***.
 Al-Dawlabi also recorded it in *al-Dhurriyah al-Tahirah*.[^20]
 
 Imam al-Tabarani (d. 360 H) records another:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق بن إبراهيم الدبري عن عبد الرزاق عن وكيع بن الجراح قال
-أخبرني شريك عن أبي إسحاق: أن عليا رضي الله عنه لما تزوج فاطمة رضي الله
-عنها قالت للنبي صلى الله عليه و سلم : زوجتنيه أعيمش عظيم البطن فقال
-النبي صلى الله عليه و سلم : لقد زوجتكه وإنه لأول وإنه لأول أصحابي سلما
-وأكثرهم علما وأعظمهم حلما
-  </p>
-</blockquote>
+> حدثنا إسحاق بن إبراهيم الدبري عن عبد الرزاق عن وكيع بن الجراح قال
+> أخبرني شريك عن أبي إسحاق: أن عليا رضي الله عنه لما تزوج فاطمة رضي الله
+> عنها قالت للنبي صلى الله عليه و سلم : زوجتنيه أعيمش عظيم البطن فقال
+> النبي صلى الله عليه و سلم : لقد زوجتكه وإنه لأول وإنه لأول أصحابي سلما
+> وأكثرهم علما وأعظمهم حلما
 
 Ishaq b. Ibrahim al-Dabri – ‘Abd al-Razzaq – Waki’ b. Al-Jarrah – Sharik
 – Abu Ishaq:
@@ -378,11 +306,7 @@ knowledgeable of them**, and the most clement of them.”[^21]
 
 Commenting on this report, Imam al-Haythami states:
 
-<blockquote dir="rtl">
-  <p>
-رواه الطبراني وهو مرسل صحيح الإسناد
-  </p>
-</blockquote>
+> رواه الطبراني وهو مرسل صحيح الإسناد
 
 Al-Tabarani records it, and it is *mursal* **WITH A** ***SAHIH***
 **CHAIN**.[^22]
@@ -475,5 +399,4 @@ al-Kabir (Mosul: Maktabah al-‘Ulum wa al-Hukm; 2nd edition, 1404 H)
 
 [^22]: Nur al-Din ‘Ali b. Abi Bakr al-Haythami, Majma’ al-Zawaid
 (Beirut: Dar al-Fikr; 1412 H), vol. 9, p. 124, \# 14596
-
 

@@ -181,4 +181,3 @@ rites of worship to God.
 
 [^11]: Quoted from al-Wafi; part 3 page 168 (as quoted from al- Kafi).
 
-

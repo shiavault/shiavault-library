@@ -771,4 +771,3 @@ even if you hide your daughter in the back room of your house, national
 and international television will follow her, find her and show her the
 attractions and shows of the outside world.
 
-

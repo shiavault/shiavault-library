@@ -557,4 +557,3 @@ were thrown into a prison, where the Imam spent the first year of his
 Imamate, cut off from the followers of his father and unable to look
 after their affairs.”92
 
-

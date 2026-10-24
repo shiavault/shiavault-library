@@ -337,4 +337,3 @@ and for them. (6:151)
 And when the female infant buried alive is asked for what sin she was
 killed. (81:8-9)
 
-

@@ -225,4 +225,3 @@ be in place if the verb had been in passive voice, that is, utu (they
 were given; they were brought). But it is in active voice, that is, ataw
 (they brought; they gave). (tr.)
 
-

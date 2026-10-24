@@ -112,4 +112,3 @@ the nobles or scholars opposed him he too would have been killed as
 well, as happened in the case of Husam al-Din who had warned Hulagu of
 dire consequences if the caliph's blood were shed.
 
-

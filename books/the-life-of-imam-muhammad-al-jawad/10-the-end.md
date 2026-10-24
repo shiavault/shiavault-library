@@ -389,4 +389,3 @@ the twelfth.
 
 [^28]: Al-Fusul al-Muhimmah by Ibn as-Sabbagh, p.262.
 
-

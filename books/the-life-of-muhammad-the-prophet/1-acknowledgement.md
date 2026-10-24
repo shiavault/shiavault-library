@@ -9,4 +9,3 @@ This publication is made possible through the generous
  Readers are requested to recite Sura e Fatiha for all the  
  Marhumin of the family.
 
-

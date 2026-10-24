@@ -20,4 +20,3 @@ Wilayat of one whose obedience is made incumbent on me.
 
 [^1]: Muhajj ad-Dawaat, Pg. 332
 
-

@@ -211,4 +211,3 @@ al-Sayyid Murtada al-’Askari
 be a city at the time of ‘Omar while Obollah an older city was an army
 headquarter by order of Kasra, from Mo‘jamul Boldan
 
-

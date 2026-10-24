@@ -122,4 +122,3 @@ is All-Hearing and All-Seeing” (Ch 42: Vr 11).
 Nothing at all is like God, not Moses, not Jesus, not Muhammad, and
 certainly nothing of His creation.
 
-

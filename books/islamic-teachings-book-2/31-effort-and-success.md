@@ -22,4 +22,3 @@ the advantages of hard work. He has said:
 
 “Allah does not love those who sleep too much, and do not work”.
 
-

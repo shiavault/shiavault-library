@@ -52,4 +52,3 @@ life of his holiness require several hours of discussion.
 
 [^2]: Tuhaf ul-Uqul, P. 169
 
-

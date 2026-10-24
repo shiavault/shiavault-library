@@ -225,4 +225,3 @@ commentary and very valuable materials for the study of Shi'ism.
 [^13]: W. Ivanow has made some pertinent observations on the question of
 orthodoxy and heterodoxy in JBBRAS for 1940, 52.
 
-

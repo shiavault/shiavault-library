@@ -62,4 +62,3 @@ Taken from the speech of Haj Agha Hashimi Najhad, as quoted in
 **“Karamat wa Hikayate Ashiqane Khuda” - “Miracles and Anecdotes of the
 Close Servants of Allah”.** Translated AJ/091105.
 
-

@@ -32,17 +32,9 @@ His active Imamate Started at the age of seven & he was martyred at 25.
 Forty Discourses from Imam Muhammad Taqi (as)
 ---------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن الامام محمد التقی عليه السلام
-  </p>
-</blockquote>
+> عن الامام محمد التقی عليه السلام
 
 1- The one who trusts upon Allah, He shows him pleasure & felicity
 (makes him happy). And the one who depends upon Allah, He suffices the
@@ -334,11 +326,7 @@ recognition & information so he has presented himself to annihilation, &
 a troublesome & awful end. [^34]
 
 > 35-مَنِ انقادَ إِلَی الطُّمَأنينَةِ قَبلَ الخِبرَةِ فَقَد عَرَّض
-<blockquote dir="rtl">
-  <p>
-نَفسَهُ لِلهَلَکَةِ وَلِلعاقِبَةِ وَالمُتعِبَةِ.
-  </p>
-</blockquote>
+> نَفسَهُ لِلهَلَکَةِ وَلِلعاقِبَةِ وَالمُتعِبَةِ.
 
 > (بحار ج78 ص364)
 
@@ -454,5 +442,4 @@ not accept his guidance goes astray. [^39]
 [^38]: Ehqaq ul-Haqq Vol. 12, P 4.31
 
 [^39]: Bihar ul-Anwar Vol. 78, P .359)
-
 

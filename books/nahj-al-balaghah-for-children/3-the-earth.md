@@ -14,4 +14,3 @@ and raised it without pillars.
 
 (Sermon 185)
 
-

@@ -100,4 +100,3 @@ chance. He had done studied and worked on that subject earlier.
 Otherwise washer men see such bubbles every day but derive nothing from
 them and never discover any law.
 
-

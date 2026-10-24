@@ -238,4 +238,3 @@ them by their parents and grandparents long into adulthood. Parents
 should never underestimate the effect of their words and deeds on the
 hearts of their children.
 
-

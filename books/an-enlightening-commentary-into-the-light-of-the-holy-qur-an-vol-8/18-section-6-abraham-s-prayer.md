@@ -4,12 +4,8 @@ Section 6: Abraham’s Prayer
 Surah ‘Ibrahim – Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ قَالَ إِبْرَاهِيمُ رَبّ‌ِ اجْعَلْ هَذَا الْبَلَدَ ءَامِناً
-وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الاَصْنَامَ
-  </p>
-</blockquote>
+> وإِذْ قَالَ إِبْرَاهِيمُ رَبّ‌ِ اجْعَلْ هَذَا الْبَلَدَ ءَامِناً
+> وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الاَصْنَامَ
 
 ***35. “And (remember) when Abraham said: ‘My Lord, make this city
 secure and distance me and my children from worshipping the idols’.”***
@@ -79,12 +75,8 @@ safe and secure region.
 Surah ‘Ibrahim – Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبّ‌ِ إِنَّهُنَّ أَضْلَلْنَ كَثيراً مِنَ النَّاسِ فَمَن تَبِعَنِي
-فَإِنَّهُ مِنّـِي وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> رَبّ‌ِ إِنَّهُنَّ أَضْلَلْنَ كَثيراً مِنَ النَّاسِ فَمَن تَبِعَنِي
+> فَإِنَّهُ مِنّـِي وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ رَّحِيمٌ
 
 ***36. “My Lord, verily, they (idols) have misled many of the people.
 Then, whoever follows me, he is definitely of me, and whoever disobeys
@@ -141,14 +133,10 @@ opponents and they never disappointed them.
 Surah ‘Ibrahim – Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَآ إِنّـِي أَسْكَنتُ مِن ذُرّ‌ِيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-عِندَ بَيْتِكَ الْمُـحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلاَةَ فَاجْعَلْ
-أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُم مِنَ
-الَّثمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ
-  </p>
-</blockquote>
+> رَبَّنَآ إِنّـِي أَسْكَنتُ مِن ذُرّ‌ِيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
+> عِندَ بَيْتِكَ الْمُـحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلاَةَ فَاجْعَلْ
+> أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُم مِنَ
+> الَّثمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ
 
 ***37. “Our Lord! Verily I have settled (a part) of my offspring in a
 valley without cultivation near Your Sacred House, in order, Our Lord!
@@ -227,12 +215,8 @@ provide them with fruits so that they may be grateful.”***
 Surah ‘Ibrahim – Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِي وَمَا نُعْلِنُ وَمَا يَخْفَي
-عَلَي اللَّهِ مِن شَيْءٍ فِي الأَرْضِ وَلاَ فِي السَّمَآءِ
-  </p>
-</blockquote>
+> رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِي وَمَا نُعْلِنُ وَمَا يَخْفَي
+> عَلَي اللَّهِ مِن شَيْءٍ فِي الأَرْضِ وَلاَ فِي السَّمَآءِ
 
 ***38. “Our Lord! Verily, You know whatever we hide and whatever we
 manifest, and nothing in the earth nor anything in the heaven is hidden
@@ -263,12 +247,8 @@ Your knowledge.
 Surah ‘Ibrahim – Verse 39
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للَّهِ الَّذِي وَهَبَ لِي عَلَي الْكِبَرِ إِسْمَاعِيلَ
-وإِسْحَاقَ إِنَّ رَبّـِي لَسَمِيعُ الدُّعَآءِ
-  </p>
-</blockquote>
+> الْحَمْدُ للَّهِ الَّذِي وَهَبَ لِي عَلَي الْكِبَرِ إِسْمَاعِيلَ
+> وإِسْحَاقَ إِنَّ رَبّـِي لَسَمِيعُ الدُّعَآءِ
 
 ***39. “Praise be to Allah, Who has granted me in old age Ishmael and
 Isaac. Verily my Lord is the Hearer of the petition;”***
@@ -300,19 +280,11 @@ Verily my Lord is the Hearer of the petition;”***
 Surah ‘Ibrahim – Verses 40 - 41
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبّ‌ِ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرّ‌ِيَّتِي رَبَّنَا
-وَتَقَبَّلْ دُعَآءِ
-  </p>
-</blockquote>
+> رَبّ‌ِ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرّ‌ِيَّتِي رَبَّنَا
+> وَتَقَبَّلْ دُعَآءِ
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
-الْحِسَابُ
-  </p>
-</blockquote>
+> رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
+> الْحِسَابُ
 
 ***40. “My Lord! Make me a performer of the prayer, and of my offspring
 (too): Our Lord! and accept my petition”***
@@ -378,5 +350,4 @@ when the reckoning shall come to pass.”***
 [^6]: Bih ar, vol. 67, P. 25
 
 [^7]: Surah Al-Qasas, No. 28, verse 57
-
 

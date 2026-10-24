@@ -185,4 +185,3 @@ proceed through these barriers, is defined as patience.
 Qur'an for understanding the principles and branches of Islam, and
 depend upon traditions, however weak, as the only source of religion
 
-

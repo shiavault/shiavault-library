@@ -1117,4 +1117,3 @@ sanctity and did not see the evil of what you did?”
 
 [^52]: al-Tabari, Tarikh, Vol. 6, p. 188.
 
-

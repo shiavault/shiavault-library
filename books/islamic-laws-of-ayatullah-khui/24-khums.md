@@ -652,4 +652,3 @@ then to bestow it upon him as a present.
 
 [^1]: The descendant of the Holy Imams.
 
-

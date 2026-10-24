@@ -100,4 +100,3 @@ otherwise, I took steps to make you polite."[^5]
 
 [^5]: Wasail al-shia, p. 197
 
-

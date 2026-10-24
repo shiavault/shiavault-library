@@ -16,11 +16,7 @@ light by ignorance.
 with reason, judiciousness, God-wariness and intellect.
 
 > 3ـ اِحْفَظْ رَأسَكَ مِنْ عَثْرَةِ لِسانِكَ، وازْمُمْهُ بِالنُّهى
-<blockquote dir="rtl">
-  <p>
-والحَزْمِ، والتُّقى، وَالعَقْلِ.
-  </p>
-</blockquote>
+> والحَزْمِ، والتُّقى، وَالعَقْلِ.
 
 4. Restrain your tongue before it prolongs your incarceration and
 destroys your soul, for there is nothing more worthy of long
@@ -28,12 +24,8 @@ imprisonment than a tongue that has strayed from the right and is hasty
 in responding.
 
 > 4ـ اِحْبِسْ لِسانَكَ قَبْلَ أنْ يُطيلَ حَبْسَكَ، ويُرْديَ نَفْسَكَ،
-<blockquote dir="rtl">
-  <p>
-فَلا شَيْءَ أوْلى بِطُولِ سِجْن مِنْ لِسان يَعْدِلُ عَنِ الصَّوابِ،
-ويَتَسَرَّعُ إلَى الجَوابِ.
-  </p>
-</blockquote>
+> فَلا شَيْءَ أوْلى بِطُولِ سِجْن مِنْ لِسان يَعْدِلُ عَنِ الصَّوابِ،
+> ويَتَسَرَّعُ إلَى الجَوابِ.
 
 5. Be cautious of the tongue for indeed it is an arrow that can miss its
 mark.
@@ -45,33 +37,21 @@ or of saying that which will become proof against you and a reason for
 harming you.
 
 > 6ـ إيّاكَ أنْ تَجْعَلَ مَرْكَبَكَ لِسانَكَ في غَيْبَةِ إخْوانِكَ، أوْ
-<blockquote dir="rtl">
-  <p>
-تَقُولَ ما يَصيرُ عَلَيْكَ حُجَّةً، وفِي الإسائَةِ إلَيْك َ عِلَّةً.
-  </p>
-</blockquote>
+> تَقُولَ ما يَصيرُ عَلَيْكَ حُجَّةً، وفِي الإسائَةِ إلَيْك َ عِلَّةً.
 
 7. Know that the tongue is a part of a person’s body, so when he
 desists, speech will not assist him and when he opens up [and is ready
 to speak], speech will not give him time to pause.
 
 > 7ـ ألا وإنَّ اللِّسانَ بَضْعَةٌ مِنَ الإنْسانِ، فَلا يُسْعِدُهُ
-<blockquote dir="rtl">
-  <p>
-القَوْلُ إذَا امْتَنَعَ، وَلايُمْهِلُهُ النُّطْقُ إذَا اتَّسَعَ.
-  </p>
-</blockquote>
+> القَوْلُ إذَا امْتَنَعَ، وَلايُمْهِلُهُ النُّطْقُ إذَا اتَّسَعَ.
 
 8. Now surely the good repute of a man that is preserved for him by
 Allah among the people is better than the wealth that is inherited by
 those who do not praise him.
 
 > 8ـ ألا وَإنَّ اللِّسانَ الصّادِقَ يَجْعَلُهُ اللّهُ لِلْمَرْءِ فِي
-<blockquote dir="rtl">
-  <p>
-النّاسِ خَيْرٌ مِنَ المالِ يُورِثُهُ مَنْ لايَحْمَدُهُ.
-  </p>
-</blockquote>
+> النّاسِ خَيْرٌ مِنَ المالِ يُورِثُهُ مَنْ لايَحْمَدُهُ.
 
 9. Verily your tongue demands from you that which you have made it
 accustomed to.
@@ -115,11 +95,7 @@ accustomed to.
 the edge of the tongue cuts short lifetimes.
 
 > 18ـ حَدُّ السِّنانِ يَقْطَعُ الأوْصالَ، وحَدُّ اللِّسانِ يَقْطَعُ
-<blockquote dir="rtl">
-  <p>
-الآجالَ.
-  </p>
-</blockquote>
+> الآجالَ.
 
 19. The edge of the tongue is sharper than the edge of a spearhead.
 
@@ -197,11 +173,7 @@ to.
 honey but his heart is a prison for rancour.
 
 > 35ـ وقالَ ـ عَلَيْهِ السّلامُ ـ في حَقِّ مَنْ ذَمَّهُ: لِسانُهُ
-<blockquote dir="rtl">
-  <p>
-كَالشَّهْدِ ولكِنْ قَلْبُهُ سِجْنٌ لِلْحِقْدِ.
-  </p>
-</blockquote>
+> كَالشَّهْدِ ولكِنْ قَلْبُهُ سِجْنٌ لِلْحِقْدِ.
 
 36. The tongue of a virtuous person is enthralled by the continued
 remembrance of Allah.
@@ -218,11 +190,7 @@ and your soul requires from you that which you have familiarized it
 with.
 
 > 38ـ لِسانُكَ يَسْتَدْعيكَ ما عَوَّدْتَهُ، ونَفْسُكَ تَقْتَضيكَ ما
-<blockquote dir="rtl">
-  <p>
-ألِفْتَهُ.
-  </p>
-</blockquote>
+> ألِفْتَهُ.
 
 39. One whose tongue is sweet [and polite], his friends increase.
 
@@ -268,42 +236,26 @@ with.
 lifeless statue or a wild beast.
 
 > 49ـ مَا الإنْسانُ لَوْلاَ اللِّسانُ إلاّ صُورَةٌ مُمَثَّلَةٌ أوْ
-<blockquote dir="rtl">
-  <p>
-بَهيمَةٌ مُهْمَلَةٌ.
-  </p>
-</blockquote>
+> بَهيمَةٌ مُهْمَلَةٌ.
 
 50. Nothing attracts the heart of a human being more than a [sweet and
 eloquent] tongue, and none beguiles the soul more than Satan.
 
 > 50ـ ما مِنْ شَيْء أجْلَبَ لِقَلْبِ الإنْسانِ مِنْ لِسان، ولاأخْدَعَ
-<blockquote dir="rtl">
-  <p>
-لِلنَّفْسِ مِنْ شَيْطان.
-  </p>
-</blockquote>
+> لِلنَّفْسِ مِنْ شَيْطان.
 
 51. Do not move your tongue except to say that which will earn you
 reward and that which behoves you to speak [of] openly.
 
 > 51ـ لاتُجْرِ لِسانَكَ إلاّ بِما يُكْتَبُ لَكَ أجْرُهُ، ويَجْمُلُ
-<blockquote dir="rtl">
-  <p>
-عَنْكَ نَشْرُهُ.
-  </p>
-</blockquote>
+> عَنْكَ نَشْرُهُ.
 
 52. Never use the sharpness of your tongue against the one who has made
 you speak or the eloquence of your speech against the one who guides you
 [to the right path].
 
 > 52ـ لاتَجْعَلْ (لاتَجْعَلَنَّ) ذَرَبَ لِسانِكَ عَلى مَنْ أنْطَقَكَ،
-<blockquote dir="rtl">
-  <p>
-ولابَلاغَةَ قَوْلِكَ عَلى مَنْ سَدَّدَكَ.
-  </p>
-</blockquote>
+> ولابَلاغَةَ قَوْلِكَ عَلى مَنْ سَدَّدَكَ.
 
 53. The slips of the tongue cannot be controlled.
 
@@ -313,11 +265,7 @@ you speak or the eloquence of your speech against the one who guides you
 tongue and doing good to others.
 
 > 54ـ لاشَيْءَ أعْوَدُ عَلَى الإنْسانِ مِنْ حِفْظِ اللِّسانِ، وَبَذْلِ
-<blockquote dir="rtl">
-  <p>
-الإحْسانِ.
-  </p>
-</blockquote>
+> الإحْسانِ.
 
 55. This tongue is recalcitrant to its owner.
 
@@ -329,5 +277,4 @@ remain hidden from others.
 [^2]: i.e. because of what one speaks.
 
 [^3]: i.e. the intelligent person ponders before speaking.
-
 

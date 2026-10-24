@@ -8,11 +8,7 @@ nisa an obligatory act of Pilgrimage.
 Allah (swt) has made the husband promise to treat his wife well in
 Chapter 'Woman' of Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ
-  </p>
-</blockquote>
+> وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ
 
 **[Shakir 4:19]** “***Treat them (wives) kindly”.***
 
@@ -119,5 +115,4 @@ It must be done in person; hiring an agent is not permitted, except for
 a good reason. It is obligatory to start rami of the First Jamrah, then
 the Middle and finally the Last. All conditions are same as has already
 been mentioned in the stoning of Jamrah al-Aqabah.
-
 

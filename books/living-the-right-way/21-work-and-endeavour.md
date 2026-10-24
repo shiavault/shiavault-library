@@ -136,4 +136,3 @@ successors and of the righteous.”*
 
 [^1]: The Qur’an 65:2-3.
 
-

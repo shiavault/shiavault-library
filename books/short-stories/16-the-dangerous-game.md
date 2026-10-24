@@ -389,4 +389,3 @@ built on firm foundations. Don't despair,
 ***“...surely none despair of Allah's mercy except the unbelieving
 people.” (Yousef, 12: 87)***
 
-

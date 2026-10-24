@@ -63,6 +63,3 @@ name of Allah
 The above-mentioned sins are a major portion of greater sins though
 according to the view of many scholars they are not limited to these.
 
-
-
-

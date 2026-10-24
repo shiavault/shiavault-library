@@ -542,4 +542,3 @@ in The Arab Heritage, ed. N.A. Faris, Princeton,. 1944.
 [^2]: Wellhausen, Reste Arabischen Heidentums, 2nd ed., Berlin, 1897, p.
 83.
 
-

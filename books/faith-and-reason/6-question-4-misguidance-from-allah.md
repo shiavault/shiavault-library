@@ -78,4 +78,3 @@ Surat al-Ma’idah (5), Verse 51
 الْقَوْمَ الظَّالِمِينَ  See also: Surat al-Ma’idah (5), Verse 108;
 Surat al-Tawbah (9), Verse 80
 
-

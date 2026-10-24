@@ -459,4 +459,3 @@ have seen the UFO's objects and disappearance of several airplanes and
 ships. There can be no other possible explanation of the unidentified
 objects which is a proven reality.
 
-

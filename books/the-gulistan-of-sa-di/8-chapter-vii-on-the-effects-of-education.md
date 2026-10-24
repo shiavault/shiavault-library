@@ -939,4 +939,3 @@ O wealthy man, since thy heart and hand are successful
 
 Eat and be liberal for thou hast conquered this world and the next.
 
-

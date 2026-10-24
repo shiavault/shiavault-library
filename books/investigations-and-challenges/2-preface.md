@@ -132,4 +132,3 @@ people. [Trans.]
 formation of the Supreme Council of the Cultural Revolution to replace
 the Cultural Revolution Headquarters. [Trans.]
 
-

@@ -348,4 +348,3 @@ MUHARRAM, 95 A.H. (October 20, 713 A.D.). Imam MUHAMMAD AL-BAQIR (AS)
 arranged the burial and laid him to rest in the graveyard of JANNAT
 AL-BAQI' beside IMAM HASAN (AS)
 
-

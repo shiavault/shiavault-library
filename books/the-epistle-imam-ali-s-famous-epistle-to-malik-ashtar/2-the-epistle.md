@@ -129,8 +129,6 @@ with it. To the best of your ability cover the weaknesses of the public,
 and God will cover the weaknesses in you, which you are anxious to keep
 away from their eyes.
 
-  
-
 **( 11 )**
 
 Unloose the tangle of mutual hatred between the public and the

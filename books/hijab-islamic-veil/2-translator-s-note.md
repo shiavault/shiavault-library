@@ -24,4 +24,3 @@ December 23 (Dey 2), and January 6 (Dey 16).
 2. Footnotes are elaborations from the book " Issues on the Hijab" by
 Shaheed Ayatullah Murtaza Mutahhari.
 
-

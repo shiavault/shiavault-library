@@ -4,17 +4,9 @@ Sermon 152: Praise be to Allah who is….
 *About the greatness and the attributes of Allah* [^1] *and the
 qualities of the Imams*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في صفات الله جل جلاله، وصفات أئمة الدين
-  </p>
-</blockquote>
+> في صفات الله جل جلاله، وصفات أئمة الدين
 
 Praise be to Allah who is proof of His existence through His creation,
 of His being eternal through the newness of His creation, and through
@@ -23,15 +15,11 @@ Senses cannot touch Him and curtains cannot veil Him, because of the
 difference between the Maker and the made, the Limiter and the limited
 and the Sustainer and the sustained.
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للهِ الدَّالِّ عَلَى وُجُودِهِ بِخَلْقِهِ، وَبِمُحْدَثِ
-خَلْقِهِ عَلَى أَزَلِيَّته، وَبِاشْتِبَاهِهِمْ عَلَى أَنْ لاَ شَبَهَ
-لَهُ. لاَ تَسْتَلِمُهُ الْمَشَاعِرُ، وَلاَ تَحْجُبُهُ السَّوَاتِرُ،
-لاِفْتِرَاِق الصَّانِعِ وَالْمَصْنُوعِ، وَالْحَادِّ وَالْـمَحْدُودِ،
-وَالرَّبِّ وَالْمَرْبُوبِ.
-  </p>
-</blockquote>
+> الْحَمْدُ للهِ الدَّالِّ عَلَى وُجُودِهِ بِخَلْقِهِ، وَبِمُحْدَثِ
+> خَلْقِهِ عَلَى أَزَلِيَّته، وَبِاشْتِبَاهِهِمْ عَلَى أَنْ لاَ شَبَهَ
+> لَهُ. لاَ تَسْتَلِمُهُ الْمَشَاعِرُ، وَلاَ تَحْجُبُهُ السَّوَاتِرُ،
+> لاِفْتِرَاِق الصَّانِعِ وَالْمَصْنُوعِ، وَالْحَادِّ وَالْـمَحْدُودِ،
+> وَالرَّبِّ وَالْمَرْبُوبِ.
 
 He is One but not by the first in counting, is Creator but not through
 activity or labour, is Hearer but not by means of any physical organ, is
@@ -42,16 +30,12 @@ Distinct from things because He overpowers them and exercises might over
 them, while things are distinct from Him because of their subjugation to
 Him and their turning towards Him.
 
-<blockquote dir="rtl">
-  <p>
-الاْحَدُ لاَ بِتَأْوِيلِ عَدَد، وَالْخَالِقُ لاَ بِمَعْنَى حَرَكَة
-وَنَصَب، وَالسَّمِيعُ لاَ بِأَدَاة، وَالْبَصِيرُ لاَ بِتَفْرِيقِ آلَة،
-وَالشَّاهِدُ لاَبِمُمَاسَّه، وَالْبَائِنُ لاَبِتَرَاخِي مَسَافَة،
-وَالظّاهِرُ لاَبِرُؤيَة، وَالْبَاطِنُ لاَ بِلَطَافَة. بَانَ مِنَ
-الاْشْيَاءِ بَالْقَهْرِ لَهَا، وَالْقُدْرَةِ عَلَيْهَا، وَبَانَتِ
-الاْشْيَاءُ مِنْهُ بَالْخُضُوعِ لَهُ، وَالرُّجُوعِ إِلَيْهِ.
-  </p>
-</blockquote>
+> الاْحَدُ لاَ بِتَأْوِيلِ عَدَد، وَالْخَالِقُ لاَ بِمَعْنَى حَرَكَة
+> وَنَصَب، وَالسَّمِيعُ لاَ بِأَدَاة، وَالْبَصِيرُ لاَ بِتَفْرِيقِ آلَة،
+> وَالشَّاهِدُ لاَبِمُمَاسَّه، وَالْبَائِنُ لاَبِتَرَاخِي مَسَافَة،
+> وَالظّاهِرُ لاَبِرُؤيَة، وَالْبَاطِنُ لاَ بِلَطَافَة. بَانَ مِنَ
+> الاْشْيَاءِ بَالْقَهْرِ لَهَا، وَالْقُدْرَةِ عَلَيْهَا، وَبَانَتِ
+> الاْشْيَاءُ مِنْهُ بَالْخُضُوعِ لَهُ، وَالرُّجُوعِ إِلَيْهِ.
 
 He who describes Him limits Him. He who limits Him numbers Him. He who
 numbers Him rejects His eternity. He who said "how" sought a description
@@ -60,24 +44,16 @@ there be nothing to be known. He is the Sustainer even though there be
 nothing to be sustained. He is the Powerful even though there be nothing
 to be overpowered.
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَصَفَهُ فَقَدْ حَدَّهُ، وَمَنْ حَدَّهُ فَقَدْ عَدَّهُ، وَمَنْ
-عَدَّهُ فَقَدْ أَبْطَلَ أَزَلَهُ، وَمَنْ قَالَ: كَيْفَ، فَقَدِ
-اسْتَوْصَفَهُ، وَمَنْ قَالَ: أَيْنَ، فَقَدْ حَيَّزَهُ. عَالِمٌ إِذْ
-لاَ مَعْلُومٌ، وَرَبٌّ إِذْ لاَ مَرْبُوبٌ، وَقَادِرٌ إِذْ لاَ
-مَقْدُورٌ.
-  </p>
-</blockquote>
+> مَنْ وَصَفَهُ فَقَدْ حَدَّهُ، وَمَنْ حَدَّهُ فَقَدْ عَدَّهُ، وَمَنْ
+> عَدَّهُ فَقَدْ أَبْطَلَ أَزَلَهُ، وَمَنْ قَالَ: كَيْفَ، فَقَدِ
+> اسْتَوْصَفَهُ، وَمَنْ قَالَ: أَيْنَ، فَقَدْ حَيَّزَهُ. عَالِمٌ إِذْ
+> لاَ مَعْلُومٌ، وَرَبٌّ إِذْ لاَ مَرْبُوبٌ، وَقَادِرٌ إِذْ لاَ
+> مَقْدُورٌ.
 
 A part of the same sermon about the Divine leaders (Imams)
 ----------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-منها: في أئمّة الدين
-  </p>
-</blockquote>
+> منها: في أئمّة الدين
 
 The riser has risen, the sparkler has sparkled, the appearer has
 appeared and the curved has been straightened. Allah has replaced one
@@ -88,16 +64,12 @@ Allah. No one will enter Paradise except he who knows them and knows
 Him, and no one will enter Hell except he who denies them and denies
 Him.
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ طَلَعَ طَالِعٌ، وَلَمَعَ لاَ مِعٌ، وَلاَحَ لاَئِحٌ، وَاعْتَدَلَ
-مَائِلٌ، وَاسْتَبْدَلَ اللهُ بِقَوْم قَوْماً، وَبِيَوم يَوْماً،
-وَانْتَظَرْنَا الْغِيَرَ انْتِظَارَ الْـمُجْدِبِ الْمَطَرَ. وَإِنَّمَا
-الاَئِمَّةُ قُوَّامُ اللهِ عَلَى خَلْقِهِ، وَعُرَفَاؤُهُ عَلَى
-عِبَادِهِ، لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ مَنْ عَرَفَهُمْ وَعَرَفُوهُ،
-وَلاَ يَدْخُلُ النَّارَ إِلاَّ منْ أَنْكَرَهُمْ وَأَنْكَرُوهُ.
-  </p>
-</blockquote>
+> فَقَدْ طَلَعَ طَالِعٌ، وَلَمَعَ لاَ مِعٌ، وَلاَحَ لاَئِحٌ، وَاعْتَدَلَ
+> مَائِلٌ، وَاسْتَبْدَلَ اللهُ بِقَوْم قَوْماً، وَبِيَوم يَوْماً،
+> وَانْتَظَرْنَا الْغِيَرَ انْتِظَارَ الْـمُجْدِبِ الْمَطَرَ. وَإِنَّمَا
+> الاَئِمَّةُ قُوَّامُ اللهِ عَلَى خَلْقِهِ، وَعُرَفَاؤُهُ عَلَى
+> عِبَادِهِ، لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ مَنْ عَرَفَهُمْ وَعَرَفُوهُ،
+> وَلاَ يَدْخُلُ النَّارَ إِلاَّ منْ أَنْكَرَهُمْ وَأَنْكَرُوهُ.
 
 Allah the Glorified, has distinguished you with Islam and has chosen you
 for it. This is because it is the name of safety and the collection of
@@ -111,18 +83,14 @@ its followers) in its pastures. It contains cover (from the ailment of
 misguidance) for the seeker of cure and full support for the seeker of
 support.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ خَصَّكُمْ بَالاْسْلاَمِ، وَاسْتَخْلَصَكُمْ لَهُ، وَذلِكَ
-لاِنَّهُ اسْمُ سَلاَمَة، وَجِمَاعُ كَرَامَة، اصْطَفَى اللهُ تَعَالَى
-مَنْهَجَهُ، وَبَيَّنَ حُجَجَهُ، مِنْ ظَاهِرِ عِلْم، وَبَاطِنِ حِكَم،
-لاَ تَفْنَى غَرَائِبُهُ، وَلاَ تَنْقَضِي عَجَائِبُهُ، فِيهِ مَرَابِيعُ
-النِّعَمِ، وَمَصَابِيحُ الظُّلَمِ، لاَ تُفْتَحُ الْخَيْرَاتُ إِلاَّ
-بِمَفَاتِحِهِ، وَلاَ تُكْشَفُ الظُّلُمَاتُ إِلاَّ بِمَصَابِحِهِ، قَدْ
-أَحْمَى حِمَاهُ، وَأَرْعَى مَرْعَاهُ، فِيهِ شِفَاءُ الْمُسْتَشْفِي،
-وَكِفَايَةُ الْمُكْتَفِي.
-  </p>
-</blockquote>
+> إِنَّ اللهَ خَصَّكُمْ بَالاْسْلاَمِ، وَاسْتَخْلَصَكُمْ لَهُ، وَذلِكَ
+> لاِنَّهُ اسْمُ سَلاَمَة، وَجِمَاعُ كَرَامَة، اصْطَفَى اللهُ تَعَالَى
+> مَنْهَجَهُ، وَبَيَّنَ حُجَجَهُ، مِنْ ظَاهِرِ عِلْم، وَبَاطِنِ حِكَم،
+> لاَ تَفْنَى غَرَائِبُهُ، وَلاَ تَنْقَضِي عَجَائِبُهُ، فِيهِ مَرَابِيعُ
+> النِّعَمِ، وَمَصَابِيحُ الظُّلَمِ، لاَ تُفْتَحُ الْخَيْرَاتُ إِلاَّ
+> بِمَفَاتِحِهِ، وَلاَ تُكْشَفُ الظُّلُمَاتُ إِلاَّ بِمَصَابِحِهِ، قَدْ
+> أَحْمَى حِمَاهُ، وَأَرْعَى مَرْعَاهُ، فِيهِ شِفَاءُ الْمُسْتَشْفِي،
+> وَكِفَايَةُ الْمُكْتَفِي.
 
 Alternative Sources for Sermon 152
 ----------------------------------
@@ -203,5 +171,4 @@ over-powered is not necessary. Similarly Sustainer means master. Just as
 He is the Master of the non-existent after its coming into existence, in
 the same way He has power to bring it into existence from non-existence,
 namely if He so wills He may bestow existence upon it.
-
 

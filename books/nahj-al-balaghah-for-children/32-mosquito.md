@@ -41,4 +41,3 @@ how it has been created.
 
 (Sermon 185)
 
-

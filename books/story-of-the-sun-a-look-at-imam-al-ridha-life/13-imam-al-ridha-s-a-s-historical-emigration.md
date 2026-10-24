@@ -441,4 +441,3 @@ Hijrat-i Imam Ridha (a.s.), p. 151.
 
 [^27]: Al-Irshad, vol. 2, p. 250.
 
-

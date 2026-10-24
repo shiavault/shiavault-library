@@ -31,4 +31,3 @@ When a man repents sincerely Allah makes him as clean as he was on the
 day he was born. The Holy Prophet (S.A.) has said: “One who repents from
 sin is like the one who never committed any sin”.
 
-

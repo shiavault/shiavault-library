@@ -19,7 +19,6 @@ toward philosophy especially metaphysics and especially to religiously
 oriented philosophies of Pythagoreans, of Parmenides and of
 Heraclitus.
 
-
 **2.2 GREEK PHILOSOPHY: ORIGINS**
 
 2.2.1 Early Greek philosophy
@@ -55,7 +54,6 @@ Origin, in astronomy, of the dual: systematic, fixed stellar system and
 chaotic, dynamic terrestrial world. Ethics, too, rooted in
 number-mysticism
 
-
 **2.2.1.2 Problem of change**
 
 arises from the intuition that something from nothing is impossible
@@ -77,7 +75,6 @@ Democritus: same concept in atomic form. Metaphysics, ontology: space:
 nonbeing exists; motion in space: atomic. Psychology, theory of
 knowledge: information from object to sentient: propagation of actions
 through toms in air, soul atoms: the finest in-between body atoms
-
 
 **2.2.2 Age of sophists**
 
@@ -101,7 +98,6 @@ common elements; laid too much stress on the illusoriness of the senses
 Nevertheless, their criticisms of knowledge made necessary a profounder
 study of the nature of knowledge."
 
-
 **2.2.3 Socrates and the Socratic schools**
 
 Socrates [469-399 BCE], Xenophon: "The Socratic problem was to meet the
@@ -114,7 +110,6 @@ point has been more detailed since [^1] I am relatively ignorant of it,
 and [^2] a detailed study of Socrates, Plato and Aristotle a natural
 study of the tree supreme Greek philosophers is left for later Ethics:
 knowledge is the highest good. Knowledge is virtue
-
 
 **2.3 GREEK PHILOSOPHY: THE AGE OF GREAT SYSTEMS**
 
@@ -221,13 +216,11 @@ the corresponding form; a particular may participate simultaneously in a
 plurality of forms or successively [in change] in a succession of
 forms.
 
-
 **2.3.1.3 Philosophy of nature**
 
 Matter [the second principle, diametrically opposed to the idea] is the
 raw material upon which the idea is impressed. Dualism. Matter is
 perishable, imperfect, unreal, nonbeing.
-
 
 **2.3.1.4 Cosmology**
 
@@ -251,5 +244,4 @@ design]
 "Faculty" psychology: [^1] rational faculty [mind], [^2] spirited faculty
 [emotionsit is doubtful that Plato considered will and free choice], [^3]
 appetitive faculty: desire, motivation.
-
 

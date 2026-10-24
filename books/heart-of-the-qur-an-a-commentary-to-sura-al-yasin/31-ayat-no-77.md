@@ -137,4 +137,3 @@ God, that is, the eternal self-existence of God. He believes in
 self-reliance and independence for himself, which in itself is
 blasphemy, and finally he does not submit to Truth.
 
-

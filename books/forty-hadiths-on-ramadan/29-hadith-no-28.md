@@ -25,4 +25,3 @@ grants him seven excellences:
 
 *Mustadrak al-Wasaail al-Shia'h, vol. 7, pg. 395*
 
-

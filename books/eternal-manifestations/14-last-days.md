@@ -94,4 +94,3 @@ for have come*”, and stared at the corner dazzled and astonished.
     
 *Ayatullah Ibrāhīm Amīnī*
 
-

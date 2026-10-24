@@ -385,4 +385,3 @@ possible only if we reach a stage of intellectual and historical
 maturity to gain the capability to discern and choose, and accept the
 responsibilities.
 
-

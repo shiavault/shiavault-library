@@ -44,4 +44,3 @@ Thus it is only Islam which gives first importance to rationally
 demonstrable beliefs and positive individual and social injunctions, as,
 it is hoped, the present paper will make clear.
 
-

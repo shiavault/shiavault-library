@@ -278,4 +278,3 @@ plants. (Mulla Sadra, 1981, p. 92 and 99) Sadra continues to disclose
 Divine ends for the natural process of some animals' being eaten by
 others.
 
-

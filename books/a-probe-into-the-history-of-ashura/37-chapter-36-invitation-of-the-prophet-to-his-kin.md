@@ -103,4 +103,3 @@ companions of the Imam. The companions of the Imam had, however, reached
 such a stage of purity and faith that the light of conviction was
 reflected even in what they said to console the Imam.
 
-

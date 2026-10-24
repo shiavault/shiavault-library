@@ -4,21 +4,13 @@ The Third Stage of the Hajj
 **Third Stage:** The third stage is going from Makkah and Madinah back
 to one's hometown
 
-<blockquote dir="rtl">
-  <p>
-سير من الحق إلى الخلق
-  </p>
-</blockquote>
+> سير من الحق إلى الخلق
 
 The responsibilities at this stage are much more difficult than they
 were at the first and second level, since it is at this level that one's
 responsibilities become just like those of the Prophet of Allah:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ
-  </p>
-</blockquote>
+> الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ
 
 ***“Those who convey the messages of Allah.”*** [^1]
 
@@ -27,12 +19,8 @@ this stage, one must work on building others. Although the act of
 enlightening others is dependent upon self‑building, however, this task
 is so difficult that the Noble Prophet Muhammad (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-شيبتني سورة هود لمكان قوله: فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَن تَابَ
-مَعَكَ
-  </p>
-</blockquote>
+> شيبتني سورة هود لمكان قوله: فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَن تَابَ
+> مَعَكَ
 
 “Surah Hud made my beard white from the point where it was revealed,
 ***\`Continue then in the right way as you are commanded, as also he who
@@ -40,22 +28,14 @@ has turned (to Allah) with you (O' Muhammad)'.”*** [^2]
 
 Self‑building has also been mentioned in Sarah al‑Shuara where it says:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَقِمْ كَمَا أُمِرْتَ
-  </p>
-</blockquote>
+> فَاسْتَقِمْ كَمَا أُمِرْتَ
 
 ***“Continue then in the right way as you are commanded.”*** [^3]
 
 However, that which caused the beard of the Prophet to turn white was
 the command to build others:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن تَابَ مَعَكَ
-  </p>
-</blockquote>
+> وَمَن تَابَ مَعَكَ
 
 ***“...as also he who has turned towards Allah with you (O'
 Muhammad).”***
@@ -76,11 +56,7 @@ has truly not experienced the Hajj. The Qur'an speaks to people like
 this and curses them by saying: \`Curse be on you ‑ you are not a Hajji
 ‑rather, you are not even a Muslim!'
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
 
 ***“So then woe to those who pray ‑ those of them who are heedless of
 the Salat.”*** [^4]
@@ -99,12 +75,8 @@ That Hajji who after returning from Hajj stops paying Khums is not only
 not regarded as a Hajji, but from the point of the Qur'an, is a
 polytheist *(Mushrik)* and a disbeliever *(Kafir):*
 
-<blockquote dir="rtl">
-  <p>
-وَوَيْلٌ لِلْمُشْرِكِينَ الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ
-بِالْآخِرَةِ هُمْ كَافِرُونَ
-  </p>
-</blockquote>
+> وَوَيْلٌ لِلْمُشْرِكِينَ الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ
+> بِالْآخِرَةِ هُمْ كَافِرُونَ
 
 ***“And woe to the polytheists: those who do not give poor‑rate and do
 not believe in the hereafter.”*** [^5]
@@ -128,12 +100,8 @@ Forgiveness and absolution, dedication and sacrifice should be their
 mottoes and others must be able to benefit from these maxims, just as
 the Qur'an has repeatedly mentioned:
 
-<blockquote dir="rtl">
-  <p>
-لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ
-فَلْيُنْفِقْ مِمَّا ءَاتَاهُ اللَّه
-  </p>
-</blockquote>
+> لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ
+> فَلْيُنْفِقْ مِمَّا ءَاتَاهُ اللَّه
 
 ***“Let him who has abundance, spend out of his abundance and whoever
 has his means of subsistence straitened to him, let him spend out of
@@ -142,11 +110,7 @@ that which Allah has given him**.”* [^6]
 The Hajji must be an example for others. How difficult this third level
 truly is, however the rewards are just as great!
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا
-  </p>
-</blockquote>
+> مَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا
 
 ***“And whoever keeps (one person) alive, it is as though he kept alive
 all of mankind.”*** [^7]
@@ -166,11 +130,7 @@ place),* but since he was one of the \`chosen' people and this
 *tark-e-­Awla* was not appropriate for one with such a holy spirit, thus
 he was addressed as such:
 
-<blockquote dir="rtl">
-  <p>
-اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ
-  </p>
-</blockquote>
+> اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ
 
 ***“Get down from here (you two), one of you being an enemy to the
 other.”*** [^8]
@@ -183,11 +143,7 @@ held, and with all the high marks that he scored in his tests, still he
 spent close to ten extra years in prison just for seeking help from
 other than Allah (swt).
 
-<blockquote dir="rtl">
-  <p>
-فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ
-  </p>
-</blockquote>
+> فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ
 
 ***“So then he spent some more years in the prison.”***[^9]
 
@@ -228,12 +184,8 @@ meaning of the verse just as Imam Ja'far as‑Sadiq (as), has taught it.
 Make yourself a living example of this noble verse of the Qur'an (the
 verse quoted above), continuously repeat it, and say to yourself
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ
-فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا
-  </p>
-</blockquote>
+> مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ
+> فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا
 
 *I am that person which, from the view point of the Qur'an and the
 explanation of Imam Jafar as‑Sadiq (as) that if I give life to one
@@ -273,5 +225,4 @@ Husain Mazaheri
 [^9]: Surah Yusuf (12), Verse 42
 
 [^10]: Surah al Maidah (5), Verse 32
-
 

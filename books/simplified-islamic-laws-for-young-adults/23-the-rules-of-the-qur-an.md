@@ -54,4 +54,3 @@ Haram.
 Issue 474: It is not permitted for a Junub to recite one of the 4 Ayats
 that contain a Wajib Sajdah (as was explained in Rule 120).
 
-

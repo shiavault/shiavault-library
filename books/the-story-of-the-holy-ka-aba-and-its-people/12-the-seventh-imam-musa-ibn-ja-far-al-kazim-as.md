@@ -222,4 +222,3 @@ town of the Imam Kazim (as) A reputed school of theology was founded in
 this town which is still a source of learning for many students from all
 over the world.
 
-

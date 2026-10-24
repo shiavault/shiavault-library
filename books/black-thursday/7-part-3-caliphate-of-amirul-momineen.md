@@ -118,4 +118,3 @@ wrongfully.”[^6]
 
 [^6]: Ibn Abil Hadid, Sharh Nahjul Balagha, Vol. 1, Pg. 67
 
-

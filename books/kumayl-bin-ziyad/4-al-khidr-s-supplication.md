@@ -47,4 +47,3 @@ Thursday night, when you are free, then read Kumayl's supplication.
 Faith will shine in your heart. It will illuminate the way of your life
 as it had illuminated the way of Kumayl's life.
 
-

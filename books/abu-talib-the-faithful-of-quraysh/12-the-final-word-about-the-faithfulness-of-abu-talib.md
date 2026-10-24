@@ -363,4 +363,3 @@ house, in which he is brought up, and that he/she is ready to imitate
 the one, who brings him/her up, and definitely that one will be
 considered as his/her example.
 
-

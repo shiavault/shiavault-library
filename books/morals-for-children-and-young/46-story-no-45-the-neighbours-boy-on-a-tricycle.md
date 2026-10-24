@@ -12,4 +12,3 @@ me”.
  His mother said “I will not do such a thing. His salary is too less to
 afford it”. “We must be content with whatever he buys us”.
 
-

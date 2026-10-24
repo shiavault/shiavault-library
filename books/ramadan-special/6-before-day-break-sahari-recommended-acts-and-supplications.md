@@ -34,7 +34,6 @@ fast would be sufficient.
 And know also that Namaz Tahajjud (night prayer) is highly
 recommended.
 
-
 **Iftar (Breaking of Fast) Prayers and Supplications**
 
 Iftar (breaking of fast) can be done preferably with water, milk or
@@ -84,7 +83,6 @@ It is reported from authentic Sources that Imam-e-Asr (A.S.) wrote to
 his Shias to recite this Du? in this month, as angels listen to this Doa
 recited in this month and seek forgiveness for the reciter. This
 Excellent Du''''a is as under:
-
 
 **Translation of the above Dua**
 
@@ -322,5 +320,4 @@ Say ten times:
 
 In every optional prayer prayed in the night always recite Surah
 Al-Fatihah.
-
 

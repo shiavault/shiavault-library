@@ -441,4 +441,3 @@ his religion is the Last Religion.
 
 [^1]: The Holy Prophet, his daughter Fatimah and the twelve Holy Imams.
 
-

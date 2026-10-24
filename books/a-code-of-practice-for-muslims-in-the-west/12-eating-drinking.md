@@ -520,4 +520,3 @@ the best.
 
 [^3]: See Furû'u 'l-Kafi, vol. 6, p. 396.
 
-

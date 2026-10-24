@@ -3,11 +3,7 @@
 
 In verse 26 of Suratul Ra'd, we read:
 
-<blockquote dir="rtl">
-  <p>
-أاََللٌّهُ يَـبْسُطُ الرِّزْقَ لِمَنْ يَشَآءُ وَ يَقْدِرُ
-  </p>
-</blockquote>
+> أاََللٌّهُ يَـبْسُطُ الرِّزْقَ لِمَنْ يَشَآءُ وَ يَقْدِرُ
 
 ***“Allah (s.w.t.) amplifies and straitens the means of subsistence for
 whom He pleases.”***
@@ -80,5 +76,4 @@ It has also been reported that Imam Musa ibne Ja'far (a.s.) said: “Allah
 [^4]: Wasa’il ash-Shi'a, vol. 12, pg. 37
 
 [^5]: Tafsir-e-Namuna, vol. 10, pg. 204
-
 

@@ -15,15 +15,10 @@ One of the best supplications which can be read for his protection is
 the following short Du’a (which we will mention in detail in the next
 responsibility):
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰـهُمَّ كُنْ لِوَلِيِّكَ الْـحُجَّةِ بْنِ الْحَسَنِ...
-  </p>
-</blockquote>
+> أَللّٰـهُمَّ كُنْ لِوَلِيِّكَ الْـحُجَّةِ بْنِ الْحَسَنِ...
 
 “O’ Allah, be for your deputy (Wali), al-Hujjat b. al-Hasan...”[^1]
 
 [^1]: The entire text of this supplication will be mentioned in the next
 responsibility.
-
 

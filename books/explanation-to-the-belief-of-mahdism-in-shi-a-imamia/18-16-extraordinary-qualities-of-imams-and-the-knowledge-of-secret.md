@@ -34,4 +34,3 @@ believes that the knowledge of the unseen was with Imam Sadiq. In Nahjul
 Balagha too we see evidences that knowledge of the invisible world was
 with the Imams.
 
-

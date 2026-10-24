@@ -78,4 +78,3 @@ Allah’s Messenger would always eat like a servant, sit on the earth
 like a servant and act upon the fact that he was a servant of
 Allah.[^9]
 
-

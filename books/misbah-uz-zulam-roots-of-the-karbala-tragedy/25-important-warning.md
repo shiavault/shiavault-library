@@ -48,4 +48,3 @@ book, they denote their divinely bestowed knowledge and the
 jurisprudence of religious problems mean the explanation of rules of
 religion.
 
-

@@ -186,4 +186,3 @@ studies like the Greeks. The Muslims were the pioneers of the
 experimental method, not the Europeans, as is commonly thought, who
 followed on the tracks first laid by the Muslims.
 
-

@@ -10,11 +10,7 @@ Surah Al-Fatir, Chapter 35
 The Feature of Surah Al-Fatir
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -40,5 +36,4 @@ will protect him in His support, and whoever recites them during the
 day, there will come to him no affliction (on that day)…”*[^1]
 
 [^1]: The of Nur-uth-Thaqalayn, Vol. 4, P. 345
-
 

@@ -8,12 +8,8 @@ Judgment Day. It was mentioned earlier that praying for our master, the
 Master of the Time (aj) is cause of stability of faith and its
 perfection, and that which proves it is the verse of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
-انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ
-  </p>
-</blockquote>
+> يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
+> انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ
 
 ***“On the day when the hypocritical men and the hypocritical women will
 say to those who believe: Wait for us, that we may have light from your
@@ -126,5 +122,4 @@ the *Arsh*…”
 
 [^4]: He is Late Allamah Majlisi who has mentioned this matter in Miraat
 al-Uqool (Author).
-
 

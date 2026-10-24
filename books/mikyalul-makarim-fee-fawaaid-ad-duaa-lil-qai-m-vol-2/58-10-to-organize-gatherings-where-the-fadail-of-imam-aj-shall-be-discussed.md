@@ -36,11 +36,7 @@ Zakat funds in this matter is generally considered preferable; because
 it is one of the ‘ways of Allah’ which the Almighty Allah has mentioned
 in the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الصَّدَقَاتُ
-  </p>
-</blockquote>
+> إِنَّمَا الصَّدَقَاتُ
 
 ***“Alms are only for the poor and the needy..” (Qur’an, Surah
 at-Tawbah, 9: 60)***
@@ -58,5 +54,4 @@ the protector of those who are on the right path.
 [^1]: Wasailush Shia, Vol. 11, Pg. 567, Chapter 23, Tr. No. 3
 
 [^2]: Khisaal, Vol. 2, Pg. 635
-
 

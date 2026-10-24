@@ -97,12 +97,8 @@ only.
 One of the expressions common in the Qur’an and repeated many times is
 *faith in Allah and the Last Day*:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ
-وَمَا هُمْ بِمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ
+> وَمَا هُمْ بِمُؤْمِنِينَ
 
 ***And among the people are those who say, ‘We have faith in Allah and
 the Last Day,’ but they have no faith. (2:8)***
@@ -127,13 +123,9 @@ correlative is *faith in Allah and the Day of Resurrection*.”
 Other verses, such as the following one, have mentioned in more detail
 the jurisdiction of faith:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ
-وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ
-الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ
-  </p>
-</blockquote>
+> لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ
+> وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ
+> الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ
 
 ***Piety is not to turn your faces to the east or the west; rather,
 piety is [personified by] those who have faith in Allah and the Last
@@ -144,14 +136,10 @@ prophets of God are added.
 
 In other verses, faith in the angels is particularly emphasized:
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
-ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
-نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
-وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
+> ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
+> نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
+> وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
 
 ***The Apostle has faith in what has been sent down to him from his
 Lord, and all the faithful. Each [of them] has faith in Allah, His
@@ -163,23 +151,15 @@ faith in the angels and *what has been sent down*.
 
 Another verse states:
 
-<blockquote dir="rtl">
-  <p>
-قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ
-إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ
-وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَا أُوتِيَ
-النَّبِيُّونَ مِنْ رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ
-وَنَحْنُ لَهُ مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ
+> إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ
+> وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَا أُوتِيَ
+> النَّبِيُّونَ مِنْ رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ
+> وَنَحْنُ لَهُ مُسْلِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا ۖ وَإِنْ
-تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ اللَّهُ ۚ
-وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا ۖ وَإِنْ
+> تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ اللَّهُ ۚ
+> وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 ***Say, ‘We have faith in Allah, and that which has been sent down to
 us, and that which was sent down to Abraham, Ishmael, Isaac, Jacob and
@@ -196,14 +176,10 @@ believe in the like of what you believe in, then they are certainly
 guided.”* But if you want to believe in some and deny others, this faith
 is unacceptable to God:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنْزَلَ اللَّهُ قَالُوا نُؤْمِنُ
-بِمَا أُنْزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ
-مُصَدِّقًا لِمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ
-اللَّهِ مِنْ قَبْلُ إِنْ كُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنْزَلَ اللَّهُ قَالُوا نُؤْمِنُ
+> بِمَا أُنْزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ
+> مُصَدِّقًا لِمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ
+> اللَّهِ مِنْ قَبْلُ إِنْ كُنْتُمْ مُؤْمِنِينَ
 
 ***And when they are told, ‘Believe in what was sent down,’ they say,
 ‘We believe in what was sent down to us,’ and they disbelieve what is
@@ -214,15 +190,11 @@ Another verse states that those who want to make a distinction among the
 apostles of God by believing in some and rejecting others are the true
 unbelievers:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا
-لِلْكَافِرِينَ عَذَابًا مُهِينًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا
+> لِلْكَافِرِينَ عَذَابًا مُهِينًا
 
 ***Those who disbelieve in Allah and His apostles and seek to separate
 Allah from His apostles, and say, ‘We believe in some and disbelieve in
@@ -298,34 +270,22 @@ During the time of the Prophet (S), they used to raise the same
 skepticism, and it is narrated in the Qur’an from the words of the
 unbelievers and polytheists, saying:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَرٌ ۗ
-لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَٰذَا لِسَانٌ
-عَرَبِيٌّ مُبِينٌ
-  </p>
-</blockquote>
+> وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَرٌ ۗ
+> لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَٰذَا لِسَانٌ
+> عَرَبِيٌّ مُبِينٌ
 
 ***We certainly know that they say, ‘It is only a human that instructs
 him’. (16:103)***
 
 The Qur’an strongly rejects these attributions, saying:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ
-  </p>
-</blockquote>
+> وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ
 
 ***It has not been brought down by the devils. (26:210)***
 
 It also says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
-  </p>
-</blockquote>
+> وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
 
 ***And it is not the speech of an outcast Satan. (81:25)***
 
@@ -338,11 +298,7 @@ in the angels.* God stresses that His angels reveal these subjects to
 the Prophet (S), and are not insinuations of the devils and their own
 opinions:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنْطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
-  </p>
-</blockquote>
+> وَمَا يَنْطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
 
 ***He does not speak out of [his own] desire: it is just a revelation
 that is revealed [to him]. (53:3-4)***
@@ -355,14 +311,10 @@ the angels. The distinctive characteristic of the angels in opposition
 to the jinn and any other force such as human imaginations is that they
 do not err or commit mistakes:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
-وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ
-شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا
-يُؤْمَرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
+> وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ
+> شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا
+> يُؤْمَرُونَ
 
 ***…who do not disobey whatever Allah has commanded them, and carry out
 what they are commanded. (66:6)***
@@ -371,12 +323,8 @@ So, you should have faith in the angels; that is, you should have faith
 in the creature which brings down the divine revelation and in whose
 action there is no error or mistake:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ
-مَكِينٍ مُطَاعٍ ثَمَّ أَمِينٍ
-  </p>
-</blockquote>
+> إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ
+> مَكِينٍ مُطَاعٍ ثَمَّ أَمِينٍ
 
 ***It is indeed the speech of a noble apostle, powerful and eminent with
 the Lord of the Throne, one who is heard and trustworthy as well.
@@ -405,12 +353,8 @@ along with other angels, and here it says that he is a commander whose
 command is obeyed. In addition to his being heard, he is trustworthy. It
 thus says elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ
-الْمُنْذِرِينَ
-  </p>
-</blockquote>
+> نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ
+> الْمُنْذِرِينَ
 
 ***[It (Qur’an) was] brought down by the Trustworthy Spirit, upon your
 heart, so that you may be one of the warners. (26:193-194)***
@@ -419,14 +363,10 @@ It is again an emphasis that “The revelation is brought down to you
 without any error, mistake, addition, or lacking. Perhaps the most
 explicit of verses in this context are the last verses of *Surah Jinn*:
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا إِلَّا مَنِ
-ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ
-خَلْفِهِ رَصَدًا لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ
-وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا إِلَّا مَنِ
+> ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ
+> خَلْفِهِ رَصَدًا لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ
+> وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
 
 >
 
@@ -440,19 +380,11 @@ Firstly, it says that God, the Knower of the Unseen, does not inform
 anyone of His Unseen. It is not because He is stingy but because not
 everybody is inherently worthy and deserving to receive revelation:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
-  </p>
-</blockquote>
+> اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
 
 ***Allah knows best where to place His Apostleship! (6:124)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَٰكِنَّ اللَّهَ يَجْتَبِي مِنْ رُسُلِهِ مَنْ يَشَاءُ
-  </p>
-</blockquote>
+> وَلَٰكِنَّ اللَّهَ يَجْتَبِي مِنْ رُسُلِهِ مَنْ يَشَاءُ
 
 ***But Allah chooses from His apostles whomever He wishes. (3:179)***
 
@@ -580,11 +512,7 @@ name is Ahmad shall come.”
 
 >
 
-<blockquote dir="rtl">
-  <p>
-وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ
-  </p>
-</blockquote>
+> وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ
 
 ***“To give the good news of an apostle who will come after me, whose
 name is Ahmad.*** **(61:6)*****”***
@@ -643,14 +571,10 @@ if you accept all the prophets and have faith in all of them and deny
 only one of them, you have taken a step along the path of falsehood and
 the way of unbelief:
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
-ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
-نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
-وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
+> ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
+> نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
+> وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
 
 ***…and all the faithful, each [of them] has faith in Allah, His angels,
 His scriptures and His apostles. [They declare,] ‘We make no distinction
@@ -690,12 +614,8 @@ not faith. We pointed out that Pharaoh knew that Musa was a prophet of
 God and his miracles were divine signs which manifested through him. The
 people of Pharaoh also knew these facts:
 
-<blockquote dir="rtl">
-  <p>
-وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ
-فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ
+> فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
 
 ***They impugned them though they were convinced in their hearts.
 (27:14)***
@@ -718,14 +638,10 @@ desire and Satan is another story.) If a person only accepts the history
 of the Prophet and is not supposed to act upon the Prophet’s decrees and
 ordinances, this verse must be recited to him:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا
-أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ ۖ وَإِنْ
-تُطِيعُوا اللَّهَ وَرَسُولَهُ لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ
-شَيْئًا ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا
+> أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ ۖ وَإِنْ
+> تُطِيعُوا اللَّهَ وَرَسُولَهُ لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ
+> شَيْئًا ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
 
 ***The Bedouins say, ‘We have faith.’ Say, ‘You do not have faith yet;
 rather say, “We have embraced Islam,” for faith has not yet entered into
@@ -771,25 +687,17 @@ Muslim woman as wife, his daughter be married, inherit, and be buried in
 the cemetery of Muslims, etc. The hypocrites during the time of the
 Prophet were of the same type of Muslims, about whom the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
- وَلَا يَأْتُونَ الصَّلَاةَ إِلَّا وَهُمْ كُسَالَىٰ
-  </p>
-</blockquote>
+>  وَلَا يَأْتُونَ الصَّلَاةَ إِلَّا وَهُمْ كُسَالَىٰ
 
 ***And do not perform the prayer but lazily. (9:54)***
 
 Even if they pray, it is out of compulsion and social considerations:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا
-قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ وَلَا
-يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا مُذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَا
-إِلَىٰ هَٰؤُلَاءِ وَلَا إِلَىٰ هَٰؤُلَاءِ ۚ وَمَنْ يُضْلِلِ اللَّهُ
-فَلَنْ تَجِدَ لَهُ سَبِيلًا
-  </p>
-</blockquote>
+> إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا
+> قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ وَلَا
+> يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا مُذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَا
+> إِلَىٰ هَٰؤُلَاءِ وَلَا إِلَىٰ هَٰؤُلَاءِ ۚ وَمَنْ يُضْلِلِ اللَّهُ
+> فَلَنْ تَجِدَ لَهُ سَبِيلًا
 
 ***The hypocrites indeed seek to deceive Allah, but it is He who outwits
 them. When they stand up for prayer, they stand up lazily, showing off
@@ -803,12 +711,8 @@ marry a Muslim woman and whose daughter can be asked for marriage and on
 whom the other laws are applicable. Yet, from the perspective of the
 real decree, he may be worse than any unbeliever:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ
-تَجِدَ لَهُمْ نَصِيرًا
-  </p>
-</blockquote>
+> إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ
+> تَجِدَ لَهُمْ نَصِيرًا
 
 ***Indeed the hypocrites will be in the lowest reach of the Fire.
 (4:145)***
@@ -826,5 +730,4 @@ the combatants of Islam, yet they are in the lowest ebb of the Fire.
 the angels:  بَلْ عِبَادٌ مُكْرَمُونَ  لَا يَسْبِقُونَهُ بِالْقَوْلِ
 وَهُمْ بِأَمْرِهِ يَعْمَلُونَ  They are [His] honored servants. They do
 not venture to speak ahead of Him, and they act by His command.
-
 

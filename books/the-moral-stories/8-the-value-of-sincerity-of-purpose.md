@@ -91,7 +91,6 @@ Allah without any thought for reward.
 Today the musk producing creatures are the progeny of that very first
 flock of gazelles.
 
-
 LOVE FOR ALLAH AND FOR HIS SAKE ONLY.
 
 Muslims should begin giving Islamic education to their children from
@@ -246,5 +245,4 @@ which its means of subsistence come in abundance from every quarter; but
 it became ungrateful to Allah's favors, therefore Allah made it to taste
 the utmost degree of hunger and fear because of what they wrought."
 (16:112)
-
 

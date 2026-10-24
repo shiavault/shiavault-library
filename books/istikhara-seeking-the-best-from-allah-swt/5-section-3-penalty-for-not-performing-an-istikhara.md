@@ -4,18 +4,10 @@ Section 3: Penalty for Not Performing an Istikhara
 8) Failure in One's Actions
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ اللهُ عَزَّ وَ جَلَّ ((مِنْ شِقَاءِ عَبْدِي أنْ يَعْمَلَ
-الأَعْمَالَ وَ لاَ يَسْتَخِيرُ بِي.))
-  </p>
-</blockquote>
+> يَقُولُ اللهُ عَزَّ وَ جَلَّ ((مِنْ شِقَاءِ عَبْدِي أنْ يَعْمَلَ
+> الأَعْمَالَ وَ لاَ يَسْتَخِيرُ بِي.))
 
 *al‑Imam al‑Sadiq (‘as)* *said that Allah, the Glorious and High has
 said: "Of the reasons for the misfortune of My servant is that he
@@ -33,18 +25,10 @@ this mental state. This can grant us prosperity in our works.
 9) Ruin and Destruction
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإمَامُ عَلِيُّ عَليهِ السلامْ:
-  </p>
-</blockquote>
+> قَالَ الإمَامُ عَلِيُّ عَليهِ السلامْ:
 
-<blockquote dir="rtl">
-  <p>
-إِسْتَخِرْ وَ لاَ تَتَخَيَّرْ فَكَمْ مَنْ تَخَيَّرَ أمْراً كَانَ
-هَلاَكُهُ فِيهِ.
-  </p>
-</blockquote>
+> إِسْتَخِرْ وَ لاَ تَتَخَيَّرْ فَكَمْ مَنْ تَخَيَّرَ أمْراً كَانَ
+> هَلاَكُهُ فِيهِ.
 
 *al‑Imam 'Ali (‘as)*, *said: "Seek the best from Allah and do not decide
 on your own (when you intend to do anything). How many people have
@@ -65,18 +49,10 @@ our Creator.
 10) Deprivation of Blessings from Allah
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ عَليهِ السلامْ:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ عَليهِ السلامْ:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ دَخَلَ فِي أَمْرٍ بِغَيْرِ اسْتِخَارَةٍ ثُمَّ ابْتَلىَ لَم
-يُؤْجَرْ
-  </p>
-</blockquote>
+> مَنْ دَخَلَ فِي أَمْرٍ بِغَيْرِ اسْتِخَارَةٍ ثُمَّ ابْتَلىَ لَم
+> يُؤْجَرْ
 
 *al‑Imam al‑Sadiq 'said: "Whosoever enters into an action without asking
 Allah for what is the best and then falls into a difficulty will not
@@ -108,5 +84,4 @@ be bound to blunder.
 
 [^3]: al‑Mahasin, Volume 2, Page 432, Hadith 2498  / Bihar al‑Anwar
 Volume 91, Page 223, Hadith 2
-
 

@@ -175,4 +175,3 @@ brightly because of Istighfar.
     • How seeking forgiveness constantly helps us stay away from sins
 and be closer to the Almighty.
 
-

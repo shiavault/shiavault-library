@@ -8,9 +8,7 @@ assimilation that applies itself if the first radical is a dental stop
 or fricative. The result is that the inserted /** ـتـَ** / is
 assimilated. Involved here are the following consonants:
 
-<p dir="rtl">
 **ت ث د ذ ز ص ض ط ظ**
-</p>
 
 Compare the following examples:
 
@@ -35,8 +33,5 @@ in ** وَصَلَ** , the**(** **و** **)** will be completely assimilated by
 the inserted  /** ـتـَ** /, and thus the use of the Shadda would be
 required. Consider the following example:
 
-<p dir="rtl">
 ** وَصَلَ – إتـَّصَلَ**
-</p>
-
 

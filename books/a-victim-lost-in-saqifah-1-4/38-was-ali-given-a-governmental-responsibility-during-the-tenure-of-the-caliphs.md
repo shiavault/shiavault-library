@@ -42,7 +42,7 @@ congruous with Shia beliefs. As the very Caliphate of Umar from the  
 ------------------------------------------------------------------------
 
 **[1]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg.
+Ali from the Sunni point of view), [1st Edition 1380], Pg.
 110  
  **[2]** Asghar Qaidan: *Tahleeli Bar Mawaze Siyasi Ali Ibne Abi Talib
 (a.s.)* [Research on political stands of Ali Ibne Abi Talib (a.s.)],

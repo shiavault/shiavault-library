@@ -33,12 +33,8 @@ like dead people in shroud, detached from the world and entering the
 realm of submission. A pilgrim takes off the robe of disobedience and
 puts on the garment of piety, prepared for saying:
 
-<blockquote dir="rtl">
-  <p>
-لَبَّيْكَ اللّهُمَّ لَبّيكَ، لَبّيكَ لا شريكَ لكَ لبّيكَ، إنّ الحَمدَ
-والنّعمَةَ لكَ والمُلكَ، لا شَريكَ لكَ لَبّيكَ
-  </p>
-</blockquote>
+> لَبَّيْكَ اللّهُمَّ لَبّيكَ، لَبّيكَ لا شريكَ لكَ لبّيكَ، إنّ الحَمدَ
+> والنّعمَةَ لكَ والمُلكَ، لا شَريكَ لكَ لَبّيكَ
 
 **“Yes, here I am, O Lord, here I am. Here I am, there is no partner for
 You, here I am. Surely, praise, grace, and kingship are Yours. There is
@@ -56,13 +52,9 @@ Paradise in response to a heavenly and invisible call. Repetition of
 Talbiyah is a praiseworthy act of Ihram and a motto for Muhrim (one in
 state of Ihram).
 
-<blockquote dir="rtl">
-  <p>
-إنّ رسولَ اللهِ صَلّى اللهُ عليهِ وآلِهِ لمّا أَحرَمَ أتاهُ جِبرئِيلُ
-عليهِ السلامُ فقالَ لهُ: مُرْ أصحَابَكَ بالعَجِّ والثَّجِّ – والعجُّ
-رفعُ الصّوتِ بالتّلبِيةِ، والثجُّ نحرُ البُدنِ.
-  </p>
-</blockquote>
+> إنّ رسولَ اللهِ صَلّى اللهُ عليهِ وآلِهِ لمّا أَحرَمَ أتاهُ جِبرئِيلُ
+> عليهِ السلامُ فقالَ لهُ: مُرْ أصحَابَكَ بالعَجِّ والثَّجِّ – والعجُّ
+> رفعُ الصّوتِ بالتّلبِيةِ، والثجُّ نحرُ البُدنِ.
 
 “When the Messenger of Allah became Muhrim, Archangel Gabriel came to
 him saying: Tell your companions to say ‘Labbayk’ and sacrifice a
@@ -70,12 +62,8 @@ camel.”[^1]87
 
 The Holy Prophet (saw) is quoted by Imam Baqir (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَن لَبَّى في إِحرامِهِ سَبعِينَ مَرَّةً إِيماناً واحْتِساباً أَشْهَدَ
-اللهُ ألْفَ ألفِ مَلَكٍ بِبرائَةٍ مَن النّارِ وبَرائَةٍ مِن النّفاقِ
-  </p>
-</blockquote>
+> مَن لَبَّى في إِحرامِهِ سَبعِينَ مَرَّةً إِيماناً واحْتِساباً أَشْهَدَ
+> اللهُ ألْفَ ألفِ مَلَكٍ بِبرائَةٍ مَن النّارِ وبَرائَةٍ مِن النّفاقِ
 
 “Whoever says Labbayk for seventy times out of faith and devotion, Allah
 will assign thousands of angels to witness him immunity from the Fire
@@ -83,18 +71,14 @@ will assign thousands of angels to witness him immunity from the Fire
 
 The Talbiyah of Imam Sadiq (as) was as follows:
 
-<blockquote dir="rtl">
-  <p>
-لَبَّيْكَ اللّهُمَّ لَبّيكَ، لَبّيكَ لا شريكَ لكَ لبّيكَ، إنّ الحَمدَ
-والنّعمَةَ لكَ والمُلكَ، لا شَريكَ لكَ لَبّيكَ، ذا المَعارِجِ
-لَبَّيْكَ لَبَّيْكَ، داعِياً إلى دارِ السّلامِ لَبَّيْكَ لَبَّيْكَ،
-غَفَّارَ الذّنوبِ لَبَّيْكَ لَبَّيْكَ، أهلَ التّلبِيةِ لَبَّيْكَ
-لَبَّيْكَ، ذا الجَلالِ والإكْرامِ لَبَّيْكَ لَبَّيْكَ، مرهوباً
-ومرغوباً إليك لَبَّيْكَ لَبَّيْكَ، تُبدئُ والمَعادُ إليكَ لَبَّيْكَ
-لَبَّيْكَ، كَشّافَ الكُرَبِ العِظامِ لَبَّيْكَ لَبَّيْكَ، عبدُكَ وابن
-عَبدَيكَ لَبَّيْكَ لَبَّيْكَ
-  </p>
-</blockquote>
+> لَبَّيْكَ اللّهُمَّ لَبّيكَ، لَبّيكَ لا شريكَ لكَ لبّيكَ، إنّ الحَمدَ
+> والنّعمَةَ لكَ والمُلكَ، لا شَريكَ لكَ لَبّيكَ، ذا المَعارِجِ
+> لَبَّيْكَ لَبَّيْكَ، داعِياً إلى دارِ السّلامِ لَبَّيْكَ لَبَّيْكَ،
+> غَفَّارَ الذّنوبِ لَبَّيْكَ لَبَّيْكَ، أهلَ التّلبِيةِ لَبَّيْكَ
+> لَبَّيْكَ، ذا الجَلالِ والإكْرامِ لَبَّيْكَ لَبَّيْكَ، مرهوباً
+> ومرغوباً إليك لَبَّيْكَ لَبَّيْكَ، تُبدئُ والمَعادُ إليكَ لَبَّيْكَ
+> لَبَّيْكَ، كَشّافَ الكُرَبِ العِظامِ لَبَّيْكَ لَبَّيْكَ، عبدُكَ وابن
+> عَبدَيكَ لَبَّيْكَ لَبَّيْكَ
 
 “Yes, here I am, O Lord, here I am. Here I am, there is no partner for
 You, here I am. Surely, praise and blessings belong to You and the
@@ -115,15 +99,11 @@ A pilgrim has to hold his tongue, for a great number of man’s sins
 results from his tongue. A man’s deeds can be ruined as a result of a
 slip of tongue. The Holy Prophet (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-وهَل يَكُبُّ الناسَ عَلى مَناخِرِهِم في النّارِ إلاّ حصائِدُ
-ألسِنَتِهِم؟ لا يَستَقيمُ اِيمانُ عَبدٍ حتّى يَستَقيمَ قَلبُهُ، ولا
-يَستَقيمُ قَلبُهُ حتّى يَستَقيمَ لِسانُهُ. رَحِمَ اللهُ عَبداً تَكَلّم
-خَيراً فَغَنِمَ أو سَكتَ عن سوءٍ فَسَلِم.مَن كانَ يؤمِنُ باللهِ
-واليَومِ الآخَرِ فليقُلْ خَيراً أو لِيسكُتْ.
-  </p>
-</blockquote>
+> وهَل يَكُبُّ الناسَ عَلى مَناخِرِهِم في النّارِ إلاّ حصائِدُ
+> ألسِنَتِهِم؟ لا يَستَقيمُ اِيمانُ عَبدٍ حتّى يَستَقيمَ قَلبُهُ، ولا
+> يَستَقيمُ قَلبُهُ حتّى يَستَقيمَ لِسانُهُ. رَحِمَ اللهُ عَبداً تَكَلّم
+> خَيراً فَغَنِمَ أو سَكتَ عن سوءٍ فَسَلِم.مَن كانَ يؤمِنُ باللهِ
+> واليَومِ الآخَرِ فليقُلْ خَيراً أو لِيسكُتْ.
 
 “Has the people’s being thrown into the Fire (of hell) on their faces
 been for any reason other than their tongues? The faith of a servant of
@@ -139,12 +119,8 @@ say and not to invalidate their great acts. They must refrain from
 telling lies, backbiting, swearing, taking oaths, self-praising, finding
 faults with others, mocking, joking, and vexing others.
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ فَمَنْ فَرَضَ فِيهِنَّ الحَجَّ فَلا
-رَفَثَ وَلا فُسُوقَ وَلا جِدَالَ فِي الْحَجِّ.
-  </p>
-</blockquote>
+> اَلْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ فَمَنْ فَرَضَ فِيهِنَّ الحَجَّ فَلا
+> رَفَثَ وَلا فُسُوقَ وَلا جِدَالَ فِي الْحَجِّ.
 
 ***“The pilgrimage is (performed in) the well‑known months; so whoever
 determines the performance of the pilgrimage therein, there shall be no
@@ -153,33 +129,21 @@ Holy Qur’an; 2:197)”***
 
 The Holy Prophet (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الرّجُلَ لَيَتكلّمُ بكَلِمةٍ فَيُضحِكُ بها جُلُسائَهُ يَهوِي بِها
-أَبعَدَ مِن الثُّـرَيّا.
-  </p>
-</blockquote>
+> إنَّ الرّجُلَ لَيَتكلّمُ بكَلِمةٍ فَيُضحِكُ بها جُلُسائَهُ يَهوِي بِها
+> أَبعَدَ مِن الثُّـرَيّا.
 
 “On many occasions, a man may say something to make his companions laugh
 but as a result of the same words he will go far from Allah’s mercy as
 much as the distance between the earth and the heavens.”[^5]91
 
-<blockquote dir="rtl">
-  <p>
-مَن صَمَتَ نَجا
-  </p>
-</blockquote>
+> مَن صَمَتَ نَجا
 
 “Whoever keeps silent will be delivered.”[^6]92
 
 Jesus Christ (as) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-لا تُكثِروا الكَلامَ في غَيرِ ذِكْرِ اللهِ فإنّ الذِينَ يُكثِرونَ
-الكَلامَ في غَيرِ ذِكرِ اللهِ قاسِيةٌ قُلوبُهُم ولكِن لا يَعلَمونَ.
-  </p>
-</blockquote>
+> لا تُكثِروا الكَلامَ في غَيرِ ذِكْرِ اللهِ فإنّ الذِينَ يُكثِرونَ
+> الكَلامَ في غَيرِ ذِكرِ اللهِ قاسِيةٌ قُلوبُهُم ولكِن لا يَعلَمونَ.
 
 “Do not speak too much save in remembering Allah, for those who speak
 too much but do not remember Allah are hardhearted but they do not
@@ -198,11 +162,7 @@ Here I am, there is no partner for You, here I am.
 Halting Place 2: Mataaf
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ
-  </p>
-</blockquote>
+> وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ
 
 ***“… And let them go round the Ancient House. (The Holy Qur’an;
 22:29)”***
@@ -245,12 +205,8 @@ Kaaba, go round and embrace it as the dearest one, expressing their need
 to the One Who is free from want. They are deeply impressed by the
 scene. They start weeping and praising the House of God:
 
-<blockquote dir="rtl">
-  <p>
-الحَمدُ للهِ الّذي عَظَّمكَ وشَرَّفَكَ وكَرَّمَكَ وجَعلكَ مَثابَةً
-للنّاسِ وأَمْناً، مُبارَكاً وهُدىً للعالمينَ.
-  </p>
-</blockquote>
+> الحَمدُ للهِ الّذي عَظَّمكَ وشَرَّفَكَ وكَرَّمَكَ وجَعلكَ مَثابَةً
+> للنّاسِ وأَمْناً، مُبارَكاً وهُدىً للعالمينَ.
 
 “Praise is due to Allah Who gave you dignity and honor making you
 pilgrimage for men and place of security, blessed and guidance for the
@@ -260,20 +216,12 @@ Yes, this is the House of the Lord of the heavens and the earth. It is a
 house whose magnificence makes the kings’ hearts sink and whose majesty
 and awe made the prophets prostrate themselves before it saying:
 
-<blockquote dir="rtl">
-  <p>
-سائِلُكُ فَقيرُكَ مِسكينُكَ بِبابِكَ فَتَصَدّقْ عليهِ بالجَنّةِ
-  </p>
-</blockquote>
+> سائِلُكُ فَقيرُكَ مِسكينُكَ بِبابِكَ فَتَصَدّقْ عليهِ بالجَنّةِ
 
 “O Lord, Your humble, poor, and needy servant has come to Your House. Do
 him favor by giving a portion of Paradise to him.”[^9]95
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمّ البيتُ بيتُكُ والحَرَمُ حَرَمُكَ والعَبدُ عَبدُكَ
-  </p>
-</blockquote>
+> اللّهُمّ البيتُ بيتُكُ والحَرَمُ حَرَمُكَ والعَبدُ عَبدُكَ
 
 “O Lord, the House is Yours, the Sanctuary is Yours, the servant too is
 Yours.”[^10]96
@@ -305,20 +253,12 @@ the heavens. Since then, the site of the Kaaba became a place for
 circumambulation for the prophets (as) until the time of Prophet Ibrahim
 (as) who was missioned by God to build the Kaaba.
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ بَوّأْنا لإِبراهِيمَ مَكانَ البَيتِ
-  </p>
-</blockquote>
+> وإِذْ بَوّأْنا لإِبراهِيمَ مَكانَ البَيتِ
 
 ***“And when we assigned to Ibrahim the place of the House. (The Holy
 Qur’an; 22:26).***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَرْفَعُ إِبَرَاهِيمُ القَواعِدَ مِنَ البَيْتِ وَإِسْمَاعِيلُ
-  </p>
-</blockquote>
+> وَإِذْ يَرْفَعُ إِبَرَاهِيمُ القَواعِدَ مِنَ البَيْتِ وَإِسْمَاعِيلُ
 
 ***“And when Ibrahim and Ismail raised the foundations of the House.
 (The Holy Qur’an; 2:127)”***
@@ -342,12 +282,8 @@ entertainment or being satisfying people’s pleasure. The reason however
 is natural. It is God Himself Who has created this attraction in
 people’s hearts through Prophet Ibrahim’s supplication:
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِّنْ في النَّاسِ بالحَجِّ يأْتُوكَ رِجَالاً وَعَلى كُلِّ ضَامِرٍ
-يأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ.
-  </p>
-</blockquote>
+> وَأَذِّنْ في النَّاسِ بالحَجِّ يأْتُوكَ رِجَالاً وَعَلى كُلِّ ضَامِرٍ
+> يأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ.
 
 ***“And proclaim among men the pilgrimage: they will come to you on foot
 and on every lean camel, coming from every remote path. (The Holy
@@ -355,17 +291,13 @@ Qur’an; 22:27)”***
 
 A quotation from Imam Sadiq (as) refers to the same secret:
 
-<blockquote dir="rtl">
-  <p>
-لمّا أُمِرَ إبرَاهِيمُ وإسْماعِيلُ عَليهِما السّلامُ ببناءِ البَيتِ
-وتَمَّ بِناؤهُ قَعَدَ إِبراهيمُ عَلى رُكْنٍ ثُمّ نادَى: هَلُمّ
-الحَجَّ، هَلُمّ الحَجَّ... فَلَبّى النّاسُ في أصْلابِ الرّجالِ
-لَبَّيكَ دَاعِيَ اللهِ لَبّيكَ داعِيَ اللهِ عزّ وجَلّ. فَمَن لبّى
-عَشْراً يحِجَّ عَشراً ومَن لَبّى خمْساً يحِجَّ خمْساً ومَن لَبّى
-أكثَرَ مِن ذلكَ فَبِعَدَدِ ذلكَ ومَن لَبّى واحِداً حَجَّ واحِداً ومَن
-لم يُلَبِّ لم يحِجَّ.
-  </p>
-</blockquote>
+> لمّا أُمِرَ إبرَاهِيمُ وإسْماعِيلُ عَليهِما السّلامُ ببناءِ البَيتِ
+> وتَمَّ بِناؤهُ قَعَدَ إِبراهيمُ عَلى رُكْنٍ ثُمّ نادَى: هَلُمّ
+> الحَجَّ، هَلُمّ الحَجَّ... فَلَبّى النّاسُ في أصْلابِ الرّجالِ
+> لَبَّيكَ دَاعِيَ اللهِ لَبّيكَ داعِيَ اللهِ عزّ وجَلّ. فَمَن لبّى
+> عَشْراً يحِجَّ عَشراً ومَن لَبّى خمْساً يحِجَّ خمْساً ومَن لَبّى
+> أكثَرَ مِن ذلكَ فَبِعَدَدِ ذلكَ ومَن لَبّى واحِداً حَجَّ واحِداً ومَن
+> لم يُلَبِّ لم يحِجَّ.
 
 “When Prophets Ibrahim and Ismail (as) were assigned to build the House
 and they completed it, Prophet Ibrahim (as) sat on a pillar calling
@@ -398,12 +330,8 @@ prayers, to sit, to stand, to recite the Holy Qur’an, to sleep, to lie
 down at the moment of death, to be put in grave, and finally to be in
 that direction during their lifetimes and death.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ صَلاتِي وَنُسُكِي وَمَحْيايَ وَمَماتِي للهِ رَبِّ
-العَالَمِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ صَلاتِي وَنُسُكِي وَمَحْيايَ وَمَماتِي للهِ رَبِّ
+> العَالَمِينَ
 
 ***“Say: Surely my prayer and my sacrifice and my life and my death are
 all for Allah, the Lord of the worlds. (The Holy Qur’an; 6:162)”***
@@ -414,11 +342,7 @@ As for one who has given a positive response to God’s call and has
 managed to attend His House, he is honorable guest received by the
 Honorable Host Who gives abundantly and freely:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ يُعْطِي الكَثيرَ بِالقَليلِ
-  </p>
-</blockquote>
+> يَا مَنْ يُعْطِي الكَثيرَ بِالقَليلِ
 
 “O’ He Who gives much in return of very little deeds.”[^13]99
 
@@ -426,12 +350,8 @@ Imam ‘Ali (as) was asked: What is the meaning of a pilgrim’s act when he
 restores to the Kaaba and catches hold of its curtains? He (as)
 answered:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُهُ مَثَلُ رَجلٍ لهُ عِندَ آخَرَ جِنايَةٌ وذَنبٌ فَهو مُتَعَلِّقٌ
-بِثوبِهِ ويَتَضرَّعُ اِلَيهِ ويخْضَعُ لهُ أنْ يتَجافى عَن ذَنبِهِ
-  </p>
-</blockquote>
+> مَثَلُهُ مَثَلُ رَجلٍ لهُ عِندَ آخَرَ جِنايَةٌ وذَنبٌ فَهو مُتَعَلِّقٌ
+> بِثوبِهِ ويَتَضرَّعُ اِلَيهِ ويخْضَعُ لهُ أنْ يتَجافى عَن ذَنبِهِ
 
 “His act is like one who has committed an offence against another person
 and now while regretting, he appeals to him, takes hold of his garment,
@@ -443,19 +363,15 @@ generous and forgiving towards His servant.
 
 The following glad tidings reached us from the Holy Prophet (saw):
 
-<blockquote dir="rtl">
-  <p>
-ما مِن طائِفٍ يَطوفُ بِهذا البَيْتِ حِينَ تَزولُ الشَّمسُ حاسِراً عَن
-رَأسِهِ حافِياً يُقارِبُ بَينَ خُطاهُ ويَغُضُّ بَصَرَهُ ويَستَلِمُ
-الحَجَرَ  في كُلِّ طَوافٍ مِن غَيرِ أنْ يُؤذِيَ أَحَداً ولا يَقطَعُ
-ذِكْرَ اللهِ عزّ وجلّ عَن لِسانِهِ إلاّ كَتَبَ اللهُ عزّ وجلّ لَهُ
-بِكُلِّ خُطوَةٍ سَبعينَ ألفَ حَسَنَةٍ ومحَى عنهُ سَبعينَ ألفَ
-سَيِّئَةٍ ورَفَعَ لهُ سَبعينَ ألفَ دَرَجَةٍ وأَعتَقَ عنهُ سبعِينَ ألفَ
-رَقَبَةٍ ثمَنُ كَلِّ رَقَبَةٍ عَشَرَةُ آلافِ دِرهَمٍ وشُفِّعَ في
-سَبعِينَ مِن أهلِ بَيتِهِ وقُضِيَتْ لهُ سَبعونَ ألفَ حاجَةٍ إنْ شاءَ
-فَعاجَلَهُ وإنْ شاءَ فَآجَلَهُ.
-  </p>
-</blockquote>
+> ما مِن طائِفٍ يَطوفُ بِهذا البَيْتِ حِينَ تَزولُ الشَّمسُ حاسِراً عَن
+> رَأسِهِ حافِياً يُقارِبُ بَينَ خُطاهُ ويَغُضُّ بَصَرَهُ ويَستَلِمُ
+> الحَجَرَ  في كُلِّ طَوافٍ مِن غَيرِ أنْ يُؤذِيَ أَحَداً ولا يَقطَعُ
+> ذِكْرَ اللهِ عزّ وجلّ عَن لِسانِهِ إلاّ كَتَبَ اللهُ عزّ وجلّ لَهُ
+> بِكُلِّ خُطوَةٍ سَبعينَ ألفَ حَسَنَةٍ ومحَى عنهُ سَبعينَ ألفَ
+> سَيِّئَةٍ ورَفَعَ لهُ سَبعينَ ألفَ دَرَجَةٍ وأَعتَقَ عنهُ سبعِينَ ألفَ
+> رَقَبَةٍ ثمَنُ كَلِّ رَقَبَةٍ عَشَرَةُ آلافِ دِرهَمٍ وشُفِّعَ في
+> سَبعِينَ مِن أهلِ بَيتِهِ وقُضِيَتْ لهُ سَبعونَ ألفَ حاجَةٍ إنْ شاءَ
+> فَعاجَلَهُ وإنْ شاءَ فَآجَلَهُ.
 
 “For every pilgrim who circumambulates the Kaaba at noon bareheaded and
 bare-footed, takes short paces, lowers his eyes out of modesty, touches
@@ -469,23 +385,15 @@ demands either immediately or later on.”[^15]101
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَن نظَرَ الى الكَعبَةِ لم يَزَلْ تُكتَبُ لهُ حَسَنَةٌ وتُمحَى عنهُ
-سَيِّئَةٌ حَتّى يَنصَرفَ بَبَصَرِهِ عنهَا.
-  </p>
-</blockquote>
+> مَن نظَرَ الى الكَعبَةِ لم يَزَلْ تُكتَبُ لهُ حَسَنَةٌ وتُمحَى عنهُ
+> سَيِّئَةٌ حَتّى يَنصَرفَ بَبَصَرِهِ عنهَا.
 
 “Whoever looks at the Kaaba, as long as his eyes are on it, rewards are
 written for him and his wrongdoings are written off until he turns his
 look from it.”[^16]102
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ للهِ تعَالى حَولَ الكَعبَةِ عِشرينَ ومِائَةَ رَحمَةً؛ منها
-سِتُّونَ للطّائِفِينَ وأَربَعونَ لِلمُصَلّينَ وعِشرونَ للنّاظِرينَ.
-  </p>
-</blockquote>
+> إِنَّ للهِ تعَالى حَولَ الكَعبَةِ عِشرينَ ومِائَةَ رَحمَةً؛ منها
+> سِتُّونَ للطّائِفِينَ وأَربَعونَ لِلمُصَلّينَ وعِشرونَ للنّاظِرينَ.
 
 “There are a hundred and twenty kinds of Allah’s mercy in the precinct
 of the Kaaba; sixty of them are for those who circumambulate, forty for
@@ -495,12 +403,8 @@ it.”[^17]103
 Therefore, one must take care to obtain the highest degrees of divine
 profit with the easiest acts.
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ فَضْلُ اللهِ يُؤْتِيهِ مَنْ يَشَاءُ واللهُ ذُو الفَضْلِ
-العَظِيمِ.
-  </p>
-</blockquote>
+> ذَلِكَ فَضْلُ اللهِ يُؤْتِيهِ مَنْ يَشَاءُ واللهُ ذُو الفَضْلِ
+> العَظِيمِ.
 
 ***“That is Allah’s grace; He grants it to whom He pleases, and Allah is
 the Lord of mighty grace. (The Holy Qur’an; 62:4)”***
@@ -510,11 +414,7 @@ Halting Place 3: Mas’aa
 
 **Mas’aa**[^18]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّفَا وَالمَرْوَةَ مِنْ شَعَائِرِ اللهِ.
-  </p>
-</blockquote>
+> إِنَّ الصَّفَا وَالمَرْوَةَ مِنْ شَعَائِرِ اللهِ.
 
 ***“Surely, the Safa and the Marwa are among the signs appointed by
 Allah. (The Holy Qur’an; 2:158)”***
@@ -532,12 +432,8 @@ supplication fills the Mas'a. He traverses this distance with Harwala
 (fast pace), which is praiseworthy act. Every time he goes forward and
 returns, he becomes more purified. Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَا للهِ عزّ وجلّ مَنْسَكٌ أَحَبُ إلى اللهِ تبارَكَ وتَعالى مِن
-مَوضِعِ السَّعْيِ وذلكَ أَنَّه يَذِلُّ فيهِ كُلُّ جَبّارٍ عَنيدٍ.
-  </p>
-</blockquote>
+> مَا للهِ عزّ وجلّ مَنْسَكٌ أَحَبُ إلى اللهِ تبارَكَ وتَعالى مِن
+> مَوضِعِ السَّعْيِ وذلكَ أَنَّه يَذِلُّ فيهِ كُلُّ جَبّارٍ عَنيدٍ.
 
 “There is no position more honorable to Allah than the Mas’a, for every
 arrogant and disobedient become humble there.”[^19]105
@@ -548,11 +444,7 @@ and Mount Marwa in search of water for her thirsty infant, supplicating
 to God until her prayer was answered, according to the Holy Qur’anic
 Verse:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ يُجِيبُ المُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-  </p>
-</blockquote>
+> أَمَّنْ يُجِيبُ المُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
 
 ***“… or who answers the distressed one when he calls upon Him and
 removes the evil? (27:62)”***
@@ -563,12 +455,8 @@ water is gushing out to this date from the well known as Zamzam, giving
 a spiritual life to the pilgrims. To drink from it and pour upon one’s
 head are praiseworthy acts.
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ اجْعَلْهُ عِلماً نافِعاً وَرِزْقاً واسِعاً مِن كُلِّ داءٍ
-وسُقْمٍ.
-  </p>
-</blockquote>
+> اَللّهُمّ اجْعَلْهُ عِلماً نافِعاً وَرِزْقاً واسِعاً مِن كُلِّ داءٍ
+> وسُقْمٍ.
 
 “O Lord, make it useful knowledge, abundant subsistence, and healing for
 every disease.”[^20]106
@@ -581,12 +469,8 @@ Supplication by a broken-hearted mother can cleave unshakable mountains
 causing gushing of water from dead land and opening the gates of favor
 and mercy from an invisible world.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللهُ لا إِلَهَ إِلاّ هُوَ عَلَيْهِ
-تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ.
-  </p>
-</blockquote>
+> فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللهُ لا إِلَهَ إِلاّ هُوَ عَلَيْهِ
+> تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ.
 
 ***“But if they turn back, say: Allah is sufficient for me, there is no
 Allah but He; on Him do I rely and He is the Lord of mighty power. (The
@@ -597,12 +481,8 @@ of the heart. A spiritual change makes dried trees green and fruitful,
 and causes water to gush out of a hot desert. Virgin Mary (as) who had
 the pangs of childbirth and was moaning to God saying:
 
-<blockquote dir="rtl">
-  <p>
-فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا
-لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنْتُ نَسْيًا مَنْسِيًّا
-  </p>
-</blockquote>
+> فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا
+> لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنْتُ نَسْيًا مَنْسِيًّا
 
 ***“Oh, would that I had died before this and had been a thing quite
 forgotten. (The Holy Qur’an; 19:23),”***
@@ -627,11 +507,7 @@ dates. So, eat and drink and refresh the eye. (The Holy Qur’an;
 
 To defend his mother’s innocence, the infant Jesus (as) spoke,
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا
-  </p>
-</blockquote>
+> قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا
 
 ***“Surely, I am a servant of Allah; He has given me the Book and made
 me a prophet. (The Holy Qur’an; 19:30)”***
@@ -644,12 +520,8 @@ abandoned in a burning desert according to God’s order, relies on God
 alone and has set her hope in Him. What else can she do save
 supplicating to Him:
 
-<blockquote dir="rtl">
-  <p>
-إِلهِي ورَبِّي مَن لي غَيرُكَ أسْألُهُ كَشْفَ ضُرّي والنَّظَرَ في
-أمْرِي.
-  </p>
-</blockquote>
+> إِلهِي ورَبِّي مَن لي غَيرُكَ أسْألُهُ كَشْفَ ضُرّي والنَّظَرَ في
+> أمْرِي.
 
 “My Lord and Nourisher, have I anyone except You from Whom I can seek
 the dislodging of my evils and understanding of my problems?”[^21]107
@@ -657,12 +529,8 @@ the dislodging of my evils and understanding of my problems?”[^21]107
 The result of Hagar’s supplication was that limpid water gushed out from
 under her infant’s feet:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً وَيَرْزُقْهُ مِنْ حَيْثُ
-لا يَحْتَسِبُ وَمَنْ يَتَوَكَّلْ عَلَى اللهِ فَهُوَ حَسْبُهُ.
-  </p>
-</blockquote>
+> وَمَنْ يَتَّقِ اللهَ يَجْعَلْ لَهُ مَخْرَجاً وَيَرْزُقْهُ مِنْ حَيْثُ
+> لا يَحْتَسِبُ وَمَنْ يَتَوَكَّلْ عَلَى اللهِ فَهُوَ حَسْبُهُ.
 
 ***“… And whoever is careful of his duty to Allah, He will make for him
 an outlet and give him sustenance from whence he thinks not; and whoever
@@ -716,13 +584,9 @@ If man is left to himself, like children who have no power of
 distinction, he is attracted towards colorful toys. During Prophet
 Muhammad’s Midnight Ascension, God said to him:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَحمَدُ، إحْذَر أنْ تَكونَ مِثلَ هذا الصَّبِيِّ إذا نَظَر إلى
-الأخضَرِ والأصفَرِ وإِذا أُعطِيَ شَيئاً مِن الحُلوِ والحامِضِ اِغتَرَّ
-بهِ.
-  </p>
-</blockquote>
+> يَا أَحمَدُ، إحْذَر أنْ تَكونَ مِثلَ هذا الصَّبِيِّ إذا نَظَر إلى
+> الأخضَرِ والأصفَرِ وإِذا أُعطِيَ شَيئاً مِن الحُلوِ والحامِضِ اِغتَرَّ
+> بهِ.
 
 “O Ahmed, beware of being like a child who is deceived when looking at
 something green and yellow or tasting something sour and sweet.”[^22]108
@@ -733,12 +597,8 @@ everything and wearing a shroud and waiting for God’s mercy. It is in
 this state that man can have communion with God and say from the bottom
 of his heart:
 
-<blockquote dir="rtl">
-  <p>
-عَمِيَتْ عَينٌ لا تَراكَ علَيها رَقِيباً وخَسِرَت صَفْقَةُ عَبدٍ لم
-تجعَلْ لهُ مِن حُبِّكَ نصِيباً
-  </p>
-</blockquote>
+> عَمِيَتْ عَينٌ لا تَراكَ علَيها رَقِيباً وخَسِرَت صَفْقَةُ عَبدٍ لم
+> تجعَلْ لهُ مِن حُبِّكَ نصِيباً
 
 “Let those eyes which do not see You as Watching be blind and let the
 asset (life) of a servant who has no share of Your love lead to
@@ -749,12 +609,8 @@ Dhu’l-Hijja and ends at the sunset of the same day. The time of this
 religious act is short but its divine blessings are great. Hearing a
 beggar asking people for something, Imam Sajjad (as) said:
 
-<blockquote dir="rtl">
-  <p>
-وَيحَكَ، أغَيرَ اللهِ تسأَلُ في هَذا المقامِ؟ إنّه ليُرجَى لمِا في
-بُطونِ الجِبالِ في هذا اليَومِ أن يَكونَ سَعِيداً
-  </p>
-</blockquote>
+> وَيحَكَ، أغَيرَ اللهِ تسأَلُ في هَذا المقامِ؟ إنّه ليُرجَى لمِا في
+> بُطونِ الجِبالِ في هذا اليَومِ أن يَكونَ سَعِيداً
 
 “Woe to you! Are you asking people for help in this place while Allah’s
 mercy today is so comprehensive that what is in mountains is hoped to
@@ -765,14 +621,10 @@ the mountains as a result of whose transformation a prosperous man would
 be born. A man in the Sacred Mosque asked Imam Sadiq (as): *“Whose sin
 is greater than others?”* The Imam (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَن يقِفْ بهَذَينِ المَوقِفَينِ؛ عَرَفَةَ والمُزدَلِفَةِ، وسَعى بَينَ
-هذَينِ الجَبَلَينِ ثمّ طَافَ بهذا البَيتِ وصَلّى خَلفَ مَقامِ
-إبْراهِيمَ ثُمّ قالَ في نَفْسِهِ أو ظَنَّ أنَّ الله لم يَغفِرْ لهُ
-فَهوَ مِن أعظَمِ الناسِ وِزراً
-  </p>
-</blockquote>
+> مَن يقِفْ بهَذَينِ المَوقِفَينِ؛ عَرَفَةَ والمُزدَلِفَةِ، وسَعى بَينَ
+> هذَينِ الجَبَلَينِ ثمّ طَافَ بهذا البَيتِ وصَلّى خَلفَ مَقامِ
+> إبْراهِيمَ ثُمّ قالَ في نَفْسِهِ أو ظَنَّ أنَّ الله لم يَغفِرْ لهُ
+> فَهوَ مِن أعظَمِ الناسِ وِزراً
 
 “He who stays in Arafat and al-Muzdelifa, performs the Sa’y between
 Mount Safa and Mount Marwa, circumambulates the Kaaba, performs prayer
@@ -853,11 +705,7 @@ Those who perform their religious duties and reach the highest degree of
 eternal prosperity enter Paradise through the gate of Deed according to
 the Qur’anic Verse:
 
-<blockquote dir="rtl">
-  <p>
-جَزَاءً ِبمَا كَانُوا يَعْمَلُونَ.
-  </p>
-</blockquote>
+> جَزَاءً ِبمَا كَانُوا يَعْمَلُونَ.
 
 ***“(This is) a reward for what they used to do. (56:24)”***
 
@@ -866,24 +714,16 @@ people can enter through this gate. In the same way that practicing good
 deed is not easy, requesting from God is not easy either, for it
 requires a living heart, weeping eyes, and a spiritual state. God says:
 
-<blockquote dir="rtl">
-  <p>
-اُدْعُونِي اَسْتَجِبْ لَكُمْ
-  </p>
-</blockquote>
+> اُدْعُونِي اَسْتَجِبْ لَكُمْ
 
 ***“Call upon Me, I will answer you.(The Holy Qur’an; 40:60)”***
 
 Let us now become unison with Imam Sajjad (as) and say:
 
-<blockquote dir="rtl">
-  <p>
-وَأنَا، يا إِلهِي، عَبدُكُ الذِي أَمَرتَهُ بِالدّعاءِ فَقالَ لَبّيكَ
-وسَعْدَيكَ، ها أنَا ذا يا رَبِّ مَطْروحٌ بَينَ يَديْكَ، أنا الّذِي
-أَوقَرَتِ الخَطايا ظَهرَهُ وأنا الّذي أفْنَتِ الذُّنوبُ عُمُرَهُ وأنا
-الّذي بجَهْلِهِ عَصاكَ ولم تَكُنْ أهْلاً مِنهُ لِذاكَ
-  </p>
-</blockquote>
+> وَأنَا، يا إِلهِي، عَبدُكُ الذِي أَمَرتَهُ بِالدّعاءِ فَقالَ لَبّيكَ
+> وسَعْدَيكَ، ها أنَا ذا يا رَبِّ مَطْروحٌ بَينَ يَديْكَ، أنا الّذِي
+> أَوقَرَتِ الخَطايا ظَهرَهُ وأنا الّذي أفْنَتِ الذُّنوبُ عُمُرَهُ وأنا
+> الّذي بجَهْلِهِ عَصاكَ ولم تَكُنْ أهْلاً مِنهُ لِذاكَ
 
 “And I, my Allah, am Thy servant whom Thou commanded to supplicate and
 who said: I am at Thy service and disposal. Here I am, my Lord, thrown
@@ -894,15 +734,11 @@ ignorance, while Thou didst not deserve that from him!”[^29]115
 Muhammad ibn Hasan Saffar, in his book of supplication, quotes the Holy
 Prophet (saw) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يَدخُلُ الجَنَّةَ رَجُلانِ كَانا يَعمَلانِ عَمَلاً واحِداً، فَيَرى
-أَحَدُهُما صاحِبَهُ فَوقَهُ فَيقولُ: يا رَبِّ بمِا أَعطَيتَهُ وكَانَ
-عَمَلُنا واحِداً؟ فيقولُ اللهُ تَباركَ وتَعالى: سَأَلني ولم تَسألْنِي.
-(ثمّ قالَ رسولُ اللهِ صَلى اللهُ عليهِ وآلِهِ) إِسأَلوا اللهَ
-وأَجزِلوا فَإنّهُ لا يَتعاظَمُهُ شَيءٌ.
-  </p>
-</blockquote>
+> يَدخُلُ الجَنَّةَ رَجُلانِ كَانا يَعمَلانِ عَمَلاً واحِداً، فَيَرى
+> أَحَدُهُما صاحِبَهُ فَوقَهُ فَيقولُ: يا رَبِّ بمِا أَعطَيتَهُ وكَانَ
+> عَمَلُنا واحِداً؟ فيقولُ اللهُ تَباركَ وتَعالى: سَأَلني ولم تَسألْنِي.
+> (ثمّ قالَ رسولُ اللهِ صَلى اللهُ عليهِ وآلِهِ) إِسأَلوا اللهَ
+> وأَجزِلوا فَإنّهُ لا يَتعاظَمُهُ شَيءٌ.
 
 Two persons whose deeds were the same will enter Paradise. But one of
 the two will see the other superior. Hence, he will say: ‘My Lord, we
@@ -913,15 +749,11 @@ not great for Allah.”
 
 Moyasser, a narrator, quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يا مُيسّر، أُدْعُ ولا تَقُلْ إِنَّ الأمْرَ قَد فُرِغَ مِنهُ. إنَّ
-عِندَ اللهِ عَزّ وجَلّ مَنزِلَةٌ لا تُنالُ إِلا بمَسأَلَةٍ، ولَو أنَّ
-عَبداً سَدَّ فاهُ ولم يَسأَلْ لم يُعطَ شَيئاً، فَسَلْ تُعْطَ. يا
-مُيَسّر، إنّهُ لَيس مِن بابٍ يُقرَعُ إلا يوشَكُ أنْ يَنفَتِحَ
-لِصاحِبِه.
-  </p>
-</blockquote>
+> يا مُيسّر، أُدْعُ ولا تَقُلْ إِنَّ الأمْرَ قَد فُرِغَ مِنهُ. إنَّ
+> عِندَ اللهِ عَزّ وجَلّ مَنزِلَةٌ لا تُنالُ إِلا بمَسأَلَةٍ، ولَو أنَّ
+> عَبداً سَدَّ فاهُ ولم يَسأَلْ لم يُعطَ شَيئاً، فَسَلْ تُعْطَ. يا
+> مُيَسّر، إنّهُ لَيس مِن بابٍ يُقرَعُ إلا يوشَكُ أنْ يَنفَتِحَ
+> لِصاحِبِه.
 
 “O Moyasser, call upon Allah and do not say what is destined will
 happen. There is with Allah a position you will not attain save through
@@ -957,48 +789,32 @@ is disappointed with God’s mercy.
 
 Addressing Jesus (as), God says:
 
-<blockquote dir="rtl">
-  <p>
-يا عِيسى، كَم أُطِيلُ النَّظَرَ وأُحسِنُ الطَّلَب َوالقومُ  لا
-يَرجِعونَ!
-  </p>
-</blockquote>
+> يا عِيسى، كَم أُطِيلُ النَّظَرَ وأُحسِنُ الطَّلَب َوالقومُ  لا
+> يَرجِعونَ!
 
 “O Jesus, how long should I wait and show well wish for the people to
 turn to Me?”[^31]117
 
 A Hadith Qudsi says:
 
-<blockquote dir="rtl">
-  <p>
-لو عَلِمَ المُدْبِرونَ عَنِّي كيفَ انتِظارِي بِهِم وشَوقِي إلى
-تَوبَتِهِم لمَاتوا شَوقاً إِليّ ولَتَفَرَّقَت أوصالُهُم
-  </p>
-</blockquote>
+> لو عَلِمَ المُدْبِرونَ عَنِّي كيفَ انتِظارِي بِهِم وشَوقِي إلى
+> تَوبَتِهِم لمَاتوا شَوقاً إِليّ ولَتَفَرَّقَت أوصالُهُم
 
 “If they who turn their backs to Me know how eager I am for their
 turning to Me, they will certainly die out of eagerness to Me and their
 body joints will fall apart.”[^32]118
 
-<blockquote dir="rtl">
-  <p>
-فَيا مَنْ هوَ عَلى المُقبِلينَ عليهَ مُقبِلٌ وبالعَطفِ عليهِم عائِدٌ
-مُفْضِلٌ وبالغافِلينَ عَن ذِكْرِهِ رَحيمٌ رَؤوفٌ  ويجذِبُهُم إلى بابهِ
-وَدودٌ عَطوفٌ
-  </p>
-</blockquote>
+> فَيا مَنْ هوَ عَلى المُقبِلينَ عليهَ مُقبِلٌ وبالعَطفِ عليهِم عائِدٌ
+> مُفْضِلٌ وبالغافِلينَ عَن ذِكْرِهِ رَحيمٌ رَؤوفٌ  ويجذِبُهُم إلى بابهِ
+> وَدودٌ عَطوفٌ
 
 “O, He who comes toward those who come towards Him and grants gifts and
 bestows bounty upon them through tenderness! He is Compassionate and
 Clement toward those heedless of His remembrance and loving and tender
 in drawing them to His door!”[^33]119
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبادِهِ وَيَعْفُو عَنِ
-السَّيِّئاتِ
-  </p>
-</blockquote>
+> وَهُوَ الّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبادِهِ وَيَعْفُو عَنِ
+> السَّيِّئاتِ
 
 ***“And He it is Who accepts repentance from His servants and pardons
 the evil deeds. (The Holy Qur’an; 42:25)”***
@@ -1006,45 +822,29 @@ the evil deeds. (The Holy Qur’an; 42:25)”***
 Calling upon God and saying, ‘O Lord’ from the bottom of heart is
 sufficient to be answered.
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّ الرَّاحِلَ إلَيكَ قَريبُ المَسافَةِ
-  </p>
-</blockquote>
+> وإِنَّ الرَّاحِلَ إلَيكَ قَريبُ المَسافَةِ
 
 “I know well that for the travelers who set out onto Thee, the
 destination is very near.”[^34]120
 
 Not only is God Forgiving but also,
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا
-رَحِيمًا
-  </p>
-</blockquote>
+> إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا
+> رَحِيمًا
 
 ***“Allah changes the evil deeds to good ones. (The Holy Qur’an;
 25:70)”***
 
 Imam Sajjad (as) words:
 
-<blockquote dir="rtl">
-  <p>
-يا مُبدِّلَ السَّيِّئاتِ بأضْعافِها مِن الحَسَناتِ
-  </p>
-</blockquote>
+> يا مُبدِّلَ السَّيِّئاتِ بأضْعافِها مِن الحَسَناتِ
 
 “O’ He Who changes the evil deeds into manifold good deeds.”[^35]121
 
 Since repentance is good deed, it has a tenfold reward:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَاءَ بِالحَسَنَةِ فَلَهُ عَشْرُ أَمْثالِها
-  </p>
-</blockquote>
+> مَنْ جَاءَ بِالحَسَنَةِ فَلَهُ عَشْرُ أَمْثالِها
 
 ***“Whoever brings a good deed, he shall have ten like it. (The Holy
 Qur’an; 6:160)”***
@@ -1077,21 +877,13 @@ for those staying there.
 
 Ubaid ibn Zurara quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يَفقِدُ الناسُ إمامَهُم فَيَشهَدُ المَوسِمَ فَيَراهُم ولا يَرَونَهُ
-  </p>
-</blockquote>
+> يَفقِدُ الناسُ إمامَهُم فَيَشهَدُ المَوسِمَ فَيَراهُم ولا يَرَونَهُ
 
 “People will miss their Imam, but he will witness every season of Hajj.
 Yet, he can see them but they cannot.”[^37]123
 
-<blockquote dir="rtl">
-  <p>
-واللهِ إنَّ صاحِبَ هذا الأمرِ يحضُرُ المَوسِمَ كُلَّ سَنةٍ فَيَرى
-الناسَ وَيعرِفُهُم ويَرَونَهُ ولا يَعرِفونهُ.
-  </p>
-</blockquote>
+> واللهِ إنَّ صاحِبَ هذا الأمرِ يحضُرُ المَوسِمَ كُلَّ سَنةٍ فَيَرى
+> الناسَ وَيعرِفُهُم ويَرَونَهُ ولا يَعرِفونهُ.
 
 “By Allah I swear, Imam Mahdi witnesses the season of Hajj every year.
 He can see and know people and they can see him but cannot know
@@ -1106,19 +898,15 @@ deprived of God’s mercy.
 
 The Holy Prophet (saw) is quoted by Salman the Persian as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنّ اللهَ عزّ وجَلّ يقولُ: يا عِبادِي، أَوَلَيسَ مَن لهُ إلَيكُمْ
-حَوَائِجُ كِبارٌ ولا تجُودُونَ بِها إِلاّ أنْ يَحْتَمِلَ عَليكُم
-بِأحَبِّ الخَلقِ إليكُم تَقضُونَها كَرامَةً لِشَفيعِهِم؟ أَلا
-فَاعلَموا أنَّ اَكرَمَ الخَلقِ عَلَيَّ وأفْضَلَهُم لَدَيَّ محَمّدٌ
-وأَخوهُ عَلِيٌّ ومِن بَعدِهِمُ الأئِمَّةُ عَليهِم السلامُ الذِينَ همُ
-الوسائِلُ إِلَيَّ. ألا فَلْيَدْعُني مَن أَهَمَّتْهُ حاجَةٌ يُريدُ
-نَفعَها أوْ دَهَتْهُ داهِيَةٌ يُريدُ كَفَّ ضَرَرِها بمُحَمَّدٍ وآلِهِ
-الطّيّبينَ الطّاهِرينَ أَقْضِيها لهُ أَحسَنَ ما يَقضيها مَن
-تَستَشفِعونَ إليهِ بِأعَزِّ الخَلقِ عَليهِ.
-  </p>
-</blockquote>
+> إنّ اللهَ عزّ وجَلّ يقولُ: يا عِبادِي، أَوَلَيسَ مَن لهُ إلَيكُمْ
+> حَوَائِجُ كِبارٌ ولا تجُودُونَ بِها إِلاّ أنْ يَحْتَمِلَ عَليكُم
+> بِأحَبِّ الخَلقِ إليكُم تَقضُونَها كَرامَةً لِشَفيعِهِم؟ أَلا
+> فَاعلَموا أنَّ اَكرَمَ الخَلقِ عَلَيَّ وأفْضَلَهُم لَدَيَّ محَمّدٌ
+> وأَخوهُ عَلِيٌّ ومِن بَعدِهِمُ الأئِمَّةُ عَليهِم السلامُ الذِينَ همُ
+> الوسائِلُ إِلَيَّ. ألا فَلْيَدْعُني مَن أَهَمَّتْهُ حاجَةٌ يُريدُ
+> نَفعَها أوْ دَهَتْهُ داهِيَةٌ يُريدُ كَفَّ ضَرَرِها بمُحَمَّدٍ وآلِهِ
+> الطّيّبينَ الطّاهِرينَ أَقْضِيها لهُ أَحسَنَ ما يَقضيها مَن
+> تَستَشفِعونَ إليهِ بِأعَزِّ الخَلقِ عَليهِ.
 
 “Allah says: O My servant, has it not happened that someone requests
 something great from you but you will not fulfill his desire unless he
@@ -1141,13 +929,9 @@ know Arabic can simply talk to God in their own languages and confide
 their grievances with their Most Kind Creator and know that there is no
 better confidant for them than God Who has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ، فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
-لَعَلَّهُمْ يَرْشُدُونَ.
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ، فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
+> لَعَلَّهُمْ يَرْشُدُونَ.
 
 ***“And when My servants ask you concerning Me, then surely I am very
 near; I answer the prayer of the suppliant when he calls on Me, so they
@@ -1158,11 +942,7 @@ Considering the above-mentioned Qur’anic Verse, is there any fear or
 concern left in man’s heart? The answer is a definite ‘No,’ for God
 Himself says:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يُؤْمِنُ بِرَبِّهِ فَلا يَخَافُ بَخْساً وَلا رَهَقاً
-  </p>
-</blockquote>
+> فَمَنْ يُؤْمِنُ بِرَبِّهِ فَلا يَخَافُ بَخْساً وَلا رَهَقاً
 
 ***“So whoever believes in his Lord, he should neither fear loss nor
 being overtaken by disgrace. (The Holy Qur’an; 27:13)”***
@@ -1170,12 +950,8 @@ being overtaken by disgrace. (The Holy Qur’an; 27:13)”***
 When there are no ears to listen to our grievances, it is God Who is to
 listen to our requests.
 
-<blockquote dir="rtl">
-  <p>
-يا جَارِيَ اللّصِيقُ، يا رُكْنِيَ الوَثيقُ، يا صاحِبَ كلِّ غَريبٍ، يا
-مُؤْنِسَ كُلِّ وحيدٍ، يا مَلجَأَ كلِّ طَريدٍ، يا مأْوى كُلِّ شَريدٍ
-  </p>
-</blockquote>
+> يا جَارِيَ اللّصِيقُ، يا رُكْنِيَ الوَثيقُ، يا صاحِبَ كلِّ غَريبٍ، يا
+> مُؤْنِسَ كُلِّ وحيدٍ، يا مَلجَأَ كلِّ طَريدٍ، يا مأْوى كُلِّ شَريدٍ
 
 “O my adjacent Neighbor, O my sturdy pillar, O companion of every
 stranger, o intimate of everyone alone, o refuge of every outcast, o
@@ -1192,23 +968,19 @@ of Imam Mahdi (as) and security and justice will prevail in the world in
 the light of his divine guidance. So, let us supplicate to God in unison
 and say:
 
-<blockquote dir="rtl">
-  <p>
-أينَ المُعَدُّ لِقَطعِ دابِرِ الظَّلَمَةِ؟ أينَ المُنْتَظَرُ لإِقامَةِ
-الأَمْتِ والعِوَجِ؟ أينَ المُرْتَجى لإِزالَةِ الجَوْرِ والعُدْوانِ؟
-أينَ المُدَّخَرُ لِتجديدِ الفَرائِضِ والسُّنَنِ؟ أينَ المُتَخَيَّرُ
-لإِعادَةِ المِلَّةِ والشَّريعَةِ؟ أينَ المُؤَمَّلُ لإِحْياءِ الكِتابِ
-وحُدودِهِ؟ أينَ محُيِي مَعالِمِ الدِّينِ وأَهلِهِ؟ أينَ قاصِمُ شَوكَةِ
-المُعتَدينَ؟ أينَ هادِمُ أبنِيَةِ الشِّرْكِ والنِّفاقِ؟ أينَ مُبيدُ
-أهلِ الفُسوقِ والعِصْيانِ والطُّغْيانِ؟ أينَ حاصِدُ فُروعِ الغَيِّ
-والشَّقاقِ؟ أينَ طامِسُ آثارِ الزَّيغِ والأهْواءِ؟ أينَ مُعِزُّ
-الأولِياءِ ومُذِلُّ الأَعْداءِ؟ أينَ الطّالِبُ بِذُحُولِ الأنبِياءِ
-وأبناءِ الأنبِياءِ؟ أينَ المُطالِبُ بِدَمِ المَذبوحِ بكَربَلاءَ؟ أينَ
-المَنصورُ عَلى مَنِ اعْتدَى وافْتَرى؟ هَل إلَيكَ يا بْنَ أحمَدَ سَبيلٌ
-فَتُلقى؟ هَل يَتَّصِلُ يومُنا مِنك بِغدِهِ فَنَحظى؟ مَتى نَرِدُ
-مَناهِلَكَ الرَّوِيَّةَ فَنُروى؟
-  </p>
-</blockquote>
+> أينَ المُعَدُّ لِقَطعِ دابِرِ الظَّلَمَةِ؟ أينَ المُنْتَظَرُ لإِقامَةِ
+> الأَمْتِ والعِوَجِ؟ أينَ المُرْتَجى لإِزالَةِ الجَوْرِ والعُدْوانِ؟
+> أينَ المُدَّخَرُ لِتجديدِ الفَرائِضِ والسُّنَنِ؟ أينَ المُتَخَيَّرُ
+> لإِعادَةِ المِلَّةِ والشَّريعَةِ؟ أينَ المُؤَمَّلُ لإِحْياءِ الكِتابِ
+> وحُدودِهِ؟ أينَ محُيِي مَعالِمِ الدِّينِ وأَهلِهِ؟ أينَ قاصِمُ شَوكَةِ
+> المُعتَدينَ؟ أينَ هادِمُ أبنِيَةِ الشِّرْكِ والنِّفاقِ؟ أينَ مُبيدُ
+> أهلِ الفُسوقِ والعِصْيانِ والطُّغْيانِ؟ أينَ حاصِدُ فُروعِ الغَيِّ
+> والشَّقاقِ؟ أينَ طامِسُ آثارِ الزَّيغِ والأهْواءِ؟ أينَ مُعِزُّ
+> الأولِياءِ ومُذِلُّ الأَعْداءِ؟ أينَ الطّالِبُ بِذُحُولِ الأنبِياءِ
+> وأبناءِ الأنبِياءِ؟ أينَ المُطالِبُ بِدَمِ المَذبوحِ بكَربَلاءَ؟ أينَ
+> المَنصورُ عَلى مَنِ اعْتدَى وافْتَرى؟ هَل إلَيكَ يا بْنَ أحمَدَ سَبيلٌ
+> فَتُلقى؟ هَل يَتَّصِلُ يومُنا مِنك بِغدِهِ فَنَحظى؟ مَتى نَرِدُ
+> مَناهِلَكَ الرَّوِيَّةَ فَنُروى؟
 
 “Where is the one prepared to annihilate the oppressors? Where is the
 one awaited for straightening the crookedness and dishonesty? Where is
@@ -1248,13 +1020,9 @@ for the reappearance of Imam Mahdi (as), despair gives its place to hope
 in our hearts making waiting for you something pleasant. So, we tolerate
 all hardship in the hope of your reappearance and keep on supplicating.
 
-<blockquote dir="rtl">
-  <p>
-فَأَغِثْ يا غِياثَ المُستَغيثِينَ عُبَيدَكَ المُبْتَلى وأَرِهِ
-سَيِّدَهُ يا شَديدَ القِوى وأَزِلْ عنهُ بهِ الأَسى والجَوى وبَرِّدْ
-غَليلَهُ يا مَن عَلى العَرشِ استَوى ومَن إلَيهِ الرُّجْعى
-  </p>
-</blockquote>
+> فَأَغِثْ يا غِياثَ المُستَغيثِينَ عُبَيدَكَ المُبْتَلى وأَرِهِ
+> سَيِّدَهُ يا شَديدَ القِوى وأَزِلْ عنهُ بهِ الأَسى والجَوى وبَرِّدْ
+> غَليلَهُ يا مَن عَلى العَرشِ استَوى ومَن إلَيهِ الرُّجْعى
 
 “So, help, O’ helper of those who seek help, your poor afflicted
 servant. And show him his Master: O severer of strength and through him
@@ -1269,25 +1037,17 @@ desires are fulfilled, we should seek forgiveness for our parents,
 relatives, neighbors, all believers, and the deceased ones. Imam Sadiq
 (as) says:
 
-<blockquote dir="rtl">
-  <p>
-دُعاءُ المَرءِ لأخِيهِ بِظَهْرِ الغَيبِ يَدُرُّ الرِّزقَ ويدفَعُ
-المَكروهَ
-  </p>
-</blockquote>
+> دُعاءُ المَرءِ لأخِيهِ بِظَهْرِ الغَيبِ يَدُرُّ الرِّزقَ ويدفَعُ
+> المَكروهَ
 
 “A man’s supplication for his absent brother increases the sustenance
 and saves from evils.”[^43]
 
 Imam Kazim (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَن دَعا لأخِيهِ بِظهرِ الغَيبِ نودِيَ مِن العَرشِ: ولَكَ مِائَةُ ألفِ
-ضَعفٍ. فَكَرِهتُ أنْ أَدَعَ مِائَةَ ألفِ ضَعفٍ مَضْمونَةً لِواحِدةٍ لا
-أدِري تُستَجابُ أمْ لا.
-  </p>
-</blockquote>
+> مَن دَعا لأخِيهِ بِظهرِ الغَيبِ نودِيَ مِن العَرشِ: ولَكَ مِائَةُ ألفِ
+> ضَعفٍ. فَكَرِهتُ أنْ أَدَعَ مِائَةَ ألفِ ضَعفٍ مَضْمونَةً لِواحِدةٍ لا
+> أدِري تُستَجابُ أمْ لا.
 
 “Whoever supplicates for his absent brother in faith, a call from the
 Divine Throne will say: let one hundred thousand times more be for you.
@@ -1355,14 +1115,10 @@ beloved, I know this much that this humble person was Your guest and
 You, the Lord of the heavens and the earth were my Generous Host. Then,
 I have the right to say:
 
-<blockquote dir="rtl">
-  <p>
-إِلهَِي، مَن الّذي نَزَلَ بكَ مُلتَمِساً قِراكَ فَما قَرَيتَهُ؟ ومَن
-الّذي أناخَ بِبابِكَ مُرتجِياً نِداكَ فَما أولَيتَهُ؟ أيَحْسَنُ أنْ
-أرجِعَ عَن بابِكَ بالخَيبَةِ مَصروفاً ولَستُ أعْرِفُ سِواكَ مَولىً
-بالإحْسانِ مَوصوفاً؟
-  </p>
-</blockquote>
+> إِلهَِي، مَن الّذي نَزَلَ بكَ مُلتَمِساً قِراكَ فَما قَرَيتَهُ؟ ومَن
+> الّذي أناخَ بِبابِكَ مُرتجِياً نِداكَ فَما أولَيتَهُ؟ أيَحْسَنُ أنْ
+> أرجِعَ عَن بابِكَ بالخَيبَةِ مَصروفاً ولَستُ أعْرِفُ سِواكَ مَولىً
+> بالإحْسانِ مَوصوفاً؟
 
 “My Allah, who is the one who has come before Thee seeking
 hospitability? Who is the one who has dismounted at Thy door hoping for
@@ -1374,26 +1130,22 @@ How proper it is to conclude the last moment of staying in Arafat with
 the prayer of Imam Husayn (as) on such a day. Here is a summarized
 translation of the prayer:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ إنّا نَتَوجَّهُ إلَيكَ في هَذهِ العَشِيَّةِ الّتي شَرَّفتَها
-وعَظَّمتَها بِمُحّمَدٍ نَبِيِّكَ ورَسولِكَ وخِيَرَتِكَ مِن خَلقِكَ
-وأمينِكَ عَلى وَحيِكَ البَشيرِ النّذيرِ السّراجِ المُنيرِ الّذي
-أَنعَمتَ بهِ عَلى المُسلِمينَ وجَعَلتَهُ رَحمَةً لِلعالمَينَ.
-اَللّهُمّ فَصَلِّ عَلى محَمَّدٍ وآلِ محَمّدٍ كَما محَمَّدٌ أهْلٌ
-لِذلِكَ مِنكَ يا عَظيمُ، فَصَلِّ عَليهِ وعَلى آلِهِ المُنْتَجَبِينَ
-الطَّيَِبِينَ الطّاهِرينَ أجمَعينَ وتَغَمّدْنا بعَفوِكَ عَنّا.
-فَإلَيكَ عَجَّتِ الأصْواتُ بِصُنوفِ اللّغاتِ، فَاجْعَلْ لَنا اللّهُمّ
-في هَذِهِ العَشِيَّةِ نَصيباً مِن كُلِّ خَيرٍ تَقسِمُهُ بَينَ عِبادِكَ
-ونورٍ تَهدي بهِ ورَحْمَةٍ تَنشُرُها وبَرَكَةٍ نُتزِلُها وعافِيَةٍ
-تُجَلِّلُها ورِزقٍ تبَسُطُه يا أرْحَمَ الرّاحِمينَ. اللّهمّ اقْلِبنا
-في هَذا الوَقتِ مُنجِحينَ مُفلِحينَ مَبرورِينَ غانِمينَ ولا تجْعَلنا
-مِن القانِطينَ ولا تجْعَلنا مِن رَحمَتِكَ محْرومينَ ولا لِفَضْلِ ما
-نُؤَمِّلُهُ مِن عَطائِكَ قانِطينَ ولا تَرُدَّنا خائِبينَ ولا مِن
-بابِكَ مطْرودينَ يا أجْوَدَ الأجوَدينَ وأكْرَمَ الأكْرَمينَ إلَيكَ
-أقْبَلنا موقِنينَ ولِبَيتِكَ الحَرامِ آمِّينَ قاصِدينَ
-  </p>
-</blockquote>
+> اَللّهُمّ إنّا نَتَوجَّهُ إلَيكَ في هَذهِ العَشِيَّةِ الّتي شَرَّفتَها
+> وعَظَّمتَها بِمُحّمَدٍ نَبِيِّكَ ورَسولِكَ وخِيَرَتِكَ مِن خَلقِكَ
+> وأمينِكَ عَلى وَحيِكَ البَشيرِ النّذيرِ السّراجِ المُنيرِ الّذي
+> أَنعَمتَ بهِ عَلى المُسلِمينَ وجَعَلتَهُ رَحمَةً لِلعالمَينَ.
+> اَللّهُمّ فَصَلِّ عَلى محَمَّدٍ وآلِ محَمّدٍ كَما محَمَّدٌ أهْلٌ
+> لِذلِكَ مِنكَ يا عَظيمُ، فَصَلِّ عَليهِ وعَلى آلِهِ المُنْتَجَبِينَ
+> الطَّيَِبِينَ الطّاهِرينَ أجمَعينَ وتَغَمّدْنا بعَفوِكَ عَنّا.
+> فَإلَيكَ عَجَّتِ الأصْواتُ بِصُنوفِ اللّغاتِ، فَاجْعَلْ لَنا اللّهُمّ
+> في هَذِهِ العَشِيَّةِ نَصيباً مِن كُلِّ خَيرٍ تَقسِمُهُ بَينَ عِبادِكَ
+> ونورٍ تَهدي بهِ ورَحْمَةٍ تَنشُرُها وبَرَكَةٍ نُتزِلُها وعافِيَةٍ
+> تُجَلِّلُها ورِزقٍ تبَسُطُه يا أرْحَمَ الرّاحِمينَ. اللّهمّ اقْلِبنا
+> في هَذا الوَقتِ مُنجِحينَ مُفلِحينَ مَبرورِينَ غانِمينَ ولا تجْعَلنا
+> مِن القانِطينَ ولا تجْعَلنا مِن رَحمَتِكَ محْرومينَ ولا لِفَضْلِ ما
+> نُؤَمِّلُهُ مِن عَطائِكَ قانِطينَ ولا تَرُدَّنا خائِبينَ ولا مِن
+> بابِكَ مطْرودينَ يا أجْوَدَ الأجوَدينَ وأكْرَمَ الأكْرَمينَ إلَيكَ
+> أقْبَلنا موقِنينَ ولِبَيتِكَ الحَرامِ آمِّينَ قاصِدينَ
 
 “O Allah, we are turning our faces to You in this evening that You
 glorified and honored by Muhammad— Your Prophet, Messenger, Chosen one
@@ -1423,15 +1175,11 @@ Husayn (as) and his companions who then set out for al-Mash’ar al-Haram.
 
 Imam Sajjad (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إنّهُ لمّا وَقَفَ بِعَرَفَةَ وهَمَّتِ الشّمْسُ أنْ تَغيبَ، قالَ رسولُ
-اللهِ صلّى اللهُ عليهِ وآلِهِ: يا بلالُ، قُل لِلناّسِ فَليُنصِتوا.
-فَلمّا نَصَتوا قَالَ رسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ: إنَّ رَبّكُم
-تَطَوَّلَ عَليكُم في هذا اليَومِ فَغَفَرَ لِمُحسِنِكُم وَشَفَّعَ
-مُحسِنَكُم في مُسيئِكُم، فَاَفيضوا مَغْفوراً لَكُم.
-  </p>
-</blockquote>
+> إنّهُ لمّا وَقَفَ بِعَرَفَةَ وهَمَّتِ الشّمْسُ أنْ تَغيبَ، قالَ رسولُ
+> اللهِ صلّى اللهُ عليهِ وآلِهِ: يا بلالُ، قُل لِلناّسِ فَليُنصِتوا.
+> فَلمّا نَصَتوا قَالَ رسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ: إنَّ رَبّكُم
+> تَطَوَّلَ عَليكُم في هذا اليَومِ فَغَفَرَ لِمُحسِنِكُم وَشَفَّعَ
+> مُحسِنَكُم في مُسيئِكُم، فَاَفيضوا مَغْفوراً لَكُم.
 
 “During the Farewell Hajj, the pilgrims’ stay in Arafat was completed,
 the Holy Prophet (saw) said: “O Bilal, tell people to keep silent.” When
@@ -1450,12 +1198,8 @@ oppressed from the oppressors.”*[^49]
 Halting Place 5: Al-Mash’ar Al-Haram
 ------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللهَ عِنْدَ المَشْعَرِ
-الحَرامِ
-  </p>
-</blockquote>
+> فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللهَ عِنْدَ المَشْعَرِ
+> الحَرامِ
 
 ***“So, when you hasten on from Arafat, then remember Allah near the
 Holy Monument— Al-Mash’ar al-Haram. (The Holy Qur’an; 2:198)”***
@@ -1481,12 +1225,8 @@ or back of the bus, the quantity of food, or carriage of the effects.
 Hence, they should be as tolerant, soft, and good-tempered as possible,
 for God says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللهُ، وَتَزَوَّدُوا فَإِنَّ
-خَيْرَ الزَّادِ التَّقْوَى
-  </p>
-</blockquote>
+> وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللهُ، وَتَزَوَّدُوا فَإِنَّ
+> خَيْرَ الزَّادِ التَّقْوَى
 
 ***“Whatever good you do, Allah knows it; and make provision, for surely
 the provision is the guardian of oneself, and be careful of your duty to
@@ -1496,13 +1236,9 @@ Me, O men of understanding. (The Holy Qur’an; 2:197)”***
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِن عَبدٍ كَظَمَ غَيظاً إلا زادَهُ اللهُ عَزّ وجلّ عِزاً في
-الدّنيا والآخِرَةِ. وقَد قالَ اللهُ عزّ وجَلّ: وَالْكَاظِمِينَ
-الغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللهُ يُحِبُّ الْمُحْسِنِينَ.
-  </p>
-</blockquote>
+> مَا مِن عَبدٍ كَظَمَ غَيظاً إلا زادَهُ اللهُ عَزّ وجلّ عِزاً في
+> الدّنيا والآخِرَةِ. وقَد قالَ اللهُ عزّ وجَلّ: وَالْكَاظِمِينَ
+> الغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللهُ يُحِبُّ الْمُحْسِنِينَ.
 
 “Whoever restrains his anger Allah will increase his honor in this world
 and the Hereafter. Allah says: ***Those who restrain their anger and
@@ -1534,16 +1270,12 @@ of sacrifice and the time of the King’s public audience.
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-وإنِ استَطَعتَ أنْ تحيِيَ تلكَ الليلةِ فافْعلْ، فَإنّه بَلَغَنا أنَّ
-أبوابَ السّماءِ لا تُغلقُ تلكَ الليلةَ لأَصواتِ المؤمِنينَ لهُم
-دَوِيٌّ كَدَويِّ النّحلِ. يقولُ اللهُ جلّ ثناؤهُ: أَنا رَبُّكُم
-وأَنتُم عِبادِي أدَّيتُم حَقِّي وحقٌّ عَلَيَّ أن اَستَجيبَ لكُم.
-فَيَحُطُّ اللهُ تلكَ الليلةَ عّمَّن أرادَ أنْ يحُطَّ ذُنوبَهُ ويغْفِرُ
-لمَن أرادَ أن يغفرَ لهُ
-  </p>
-</blockquote>
+> وإنِ استَطَعتَ أنْ تحيِيَ تلكَ الليلةِ فافْعلْ، فَإنّه بَلَغَنا أنَّ
+> أبوابَ السّماءِ لا تُغلقُ تلكَ الليلةَ لأَصواتِ المؤمِنينَ لهُم
+> دَوِيٌّ كَدَويِّ النّحلِ. يقولُ اللهُ جلّ ثناؤهُ: أَنا رَبُّكُم
+> وأَنتُم عِبادِي أدَّيتُم حَقِّي وحقٌّ عَلَيَّ أن اَستَجيبَ لكُم.
+> فَيَحُطُّ اللهُ تلكَ الليلةَ عّمَّن أرادَ أنْ يحُطَّ ذُنوبَهُ ويغْفِرُ
+> لمَن أرادَ أن يغفرَ لهُ
 
 “If you can keep vigil tonight, do it, for it has been reported to us
 that the gates of heaven are not closed to the believers tonight. Allah
@@ -1557,19 +1289,11 @@ Men of heart and insight know that night is opportune time for communion
 with God. Among blessings God has bestowed upon man is the blessing of
 night:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا اللّيْلَ لِباساً
-  </p>
-</blockquote>
+> وَجَعَلْنَا اللّيْلَ لِباساً
 
 ***“And We made the night to be a covering. (The Holy Qur’an; 78:10)”***
 
-<blockquote dir="rtl">
-  <p>
-وَاللّيْلِ إِذَا يَغْشَى
-  </p>
-</blockquote>
+> وَاللّيْلِ إِذَا يَغْشَى
 
 ***“I swear by the night when it draws a veil. (The Holy Qur’an;
 92:1)”***
@@ -1589,31 +1313,23 @@ of them do not understand,”*[^53] there are men of heart who are source
 of human dignity and living evidence of man’s superiority over animals,
 people who work during the day and keep vigil at night.
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا النَّهارُ فَحُلَماءُ عُلَماءُ، بَرَرَةٌ أتْقِياءُ، قَدْ
-بَراهُمُ الخَوْفُ فَهُمْ أمْثالُ القِداحِ يَنظُرُ إلَيهِمُ النّاظِرُ
-فَيَحْسَبُهُم مَرْضى وَما بِالقَوْمِ مِن مَرَضٍ ، أو يَقولُ : قَدْ
-خولِطُوا، فَقَدْ خالَطَ القَومَ أمْرٌ عَظيمٌ.
-  </p>
-</blockquote>
+> وَأمّا النَّهارُ فَحُلَماءُ عُلَماءُ، بَرَرَةٌ أتْقِياءُ، قَدْ
+> بَراهُمُ الخَوْفُ فَهُمْ أمْثالُ القِداحِ يَنظُرُ إلَيهِمُ النّاظِرُ
+> فَيَحْسَبُهُم مَرْضى وَما بِالقَوْمِ مِن مَرَضٍ ، أو يَقولُ : قَدْ
+> خولِطُوا، فَقَدْ خالَطَ القَومَ أمْرٌ عَظيمٌ.
 
-<blockquote dir="rtl">
-  <p>
-أمّا اللَّيلُ فَصافُّونَ أَقْدامَهُم تالِينَ لأَجْزاءِ القُرْآنِ
-يُرَتِّلونَهُ تَرْتيلاً، يُحْزِنونَ بهِ أنفُسَهُم، وَيَسْتَبشِرونَ
-بهِ، وتَهيجُ أحْزانُهُم بُكاءً عَلى ذُنوبِهِم وَوَجَعِ كُلومِ
-جَوانحِهِم ، فَإذا مَرُّوا بآيَةٍ فيها تَخويفٌ أصْغَوا إلَيها
-بمَسامِعِ قُلوبِهِم وَأبْصارِهِم، فَاقْشَعَرَّتْ مِنها جُلودُهُم،
-وَوَجِلَت مِنها قُلوبُهُم، وَظَنّوا أنَّ صَهيلَ جَهَنَّمَ وَزَفيرَها
-وشَهِيقَها في اُصُولِ آذانِهِم، وَإِذا مَرُّوا بِآيَةٍ فِيها تَشْويقٌ
-رَكَنوا إلَيها طَمَعاً ، وَتَطَلّعَتْ أنفُسُهُم إلَيها شَوقاً،
-فَظَنُّوا أنَّها نُصْبَ أعْيُنِهِم، جاثِينَ عَلى أوساطِهِم يمَجِّدونَ
-جَبّاراً عَظيماً، مُفتَرِشينَ جِباهَهُم وَأَكُفَّهُم وأطْرافَ
-أقْدامِهِم وَرُكَبِهِم، تجَرِي دُمُوعُهُم عَلى خُدودِهِم، يَجْأَرونَ
-إلى اللهِ في فِكاكِ رِقابِهِم.
-  </p>
-</blockquote>
+> أمّا اللَّيلُ فَصافُّونَ أَقْدامَهُم تالِينَ لأَجْزاءِ القُرْآنِ
+> يُرَتِّلونَهُ تَرْتيلاً، يُحْزِنونَ بهِ أنفُسَهُم، وَيَسْتَبشِرونَ
+> بهِ، وتَهيجُ أحْزانُهُم بُكاءً عَلى ذُنوبِهِم وَوَجَعِ كُلومِ
+> جَوانحِهِم ، فَإذا مَرُّوا بآيَةٍ فيها تَخويفٌ أصْغَوا إلَيها
+> بمَسامِعِ قُلوبِهِم وَأبْصارِهِم، فَاقْشَعَرَّتْ مِنها جُلودُهُم،
+> وَوَجِلَت مِنها قُلوبُهُم، وَظَنّوا أنَّ صَهيلَ جَهَنَّمَ وَزَفيرَها
+> وشَهِيقَها في اُصُولِ آذانِهِم، وَإِذا مَرُّوا بِآيَةٍ فِيها تَشْويقٌ
+> رَكَنوا إلَيها طَمَعاً ، وَتَطَلّعَتْ أنفُسُهُم إلَيها شَوقاً،
+> فَظَنُّوا أنَّها نُصْبَ أعْيُنِهِم، جاثِينَ عَلى أوساطِهِم يمَجِّدونَ
+> جَبّاراً عَظيماً، مُفتَرِشينَ جِباهَهُم وَأَكُفَّهُم وأطْرافَ
+> أقْدامِهِم وَرُكَبِهِم، تجَرِي دُمُوعُهُم عَلى خُدودِهِم، يَجْأَرونَ
+> إلى اللهِ في فِكاكِ رِقابِهِم.
 
 “During the day they are enduring, learned, virtuous, and God-fearing.
 Fear of Allah has made them thin like arrows, if anyone looks at them he
@@ -1635,11 +1351,7 @@ Allah, the Sublime for their deliverance.”[^54]
 Imam ‘Ali (as) longed for the nights to come so that he could have
 communion with God. During his supplication, he would always say:
 
-<blockquote dir="rtl">
-  <p>
-آهٍ آهٍ مِن قِلَّةِ الزّاد وطُولِ الطّريقِ وبُعدِ السّفَر
-  </p>
-</blockquote>
+> آهٍ آهٍ مِن قِلَّةِ الزّاد وطُولِ الطّريقِ وبُعدِ السّفَر
 
 “Alas! The provision is little, the way is long, the journey is far and
 the goal is hard to reach.”[^55]
@@ -1658,20 +1370,12 @@ The pilgrims should reduce their sleep and food and instead engage in
 prayer, for the hours and days spent in the Hajj rites are very
 important. God introduces them as numbered and stated days:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا اللهَ في أَيَّامٍ مَعْدُودَاتٍ
-  </p>
-</blockquote>
+> وَاذْكُرُوا اللهَ في أَيَّامٍ مَعْدُودَاتٍ
 
 ***“And laud Allah during the numbered days. (The Holy Qur’an;
 2:203)”***
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا اسْمَ اللهَ في أَيَّامٍ مَعْدُودَاتٍ
-  </p>
-</blockquote>
+> وَاذْكُرُوا اسْمَ اللهَ في أَيَّامٍ مَعْدُودَاتٍ
 
 ***“And mention the name of Allah in stated days. (The Holy Qur’an;
 22:28)”***
@@ -1680,11 +1384,7 @@ To sum it up, the pilgrims must take advantage of these transient
 heavenly hours during which they are God’s guests and He has declared
 His readiness to fulfill the requests of His guests:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ اُدْعُونِي اَسْتَجِبْ لَكُمْ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ اُدْعُونِي اَسْتَجِبْ لَكُمْ
 
 ***“And your Lord says: Call upon Me, I will answer you. (The Holy
 Qur’an; 40:60)”***
@@ -1692,13 +1392,9 @@ Qur’an; 40:60)”***
 If a beggar asks for something, it is not strange, but when a generous
 one is looking for a beggar, it is something unusual. A hadith says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ إِذا كَانَ آخِرُ اللَّيْلِ يَقولُ اللهُ تباركَ وتَعالى هَل مِن
-داعٍ أُجيبُهُ؟ هَل مِن سائِلٍ فَأُعْطيهِ سُؤالَهُ؟ هَل مِن مُستَغفِرٍ
-فَأغفِرُ لهُ؟ هَل مِن تائبٍ فَأتوبُ عليهِ؟
-  </p>
-</blockquote>
+> إِنَّهُ إِذا كَانَ آخِرُ اللَّيْلِ يَقولُ اللهُ تباركَ وتَعالى هَل مِن
+> داعٍ أُجيبُهُ؟ هَل مِن سائِلٍ فَأُعْطيهِ سُؤالَهُ؟ هَل مِن مُستَغفِرٍ
+> فَأغفِرُ لهُ؟ هَل مِن تائبٍ فَأتوبُ عليهِ؟
 
 “When night comes to an end, Allah will say: Is there anyone calling
 upon Me so that I will answer him? Is there anyone asking Me so that I
@@ -1709,11 +1405,7 @@ repentance?”[^57]
 How can God possibly reject His servants’ calls and begging when He
 Himself says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا السَّائِلَ فَلا تَنْهَرْ
-  </p>
-</blockquote>
+> وَأَمَّا السَّائِلَ فَلا تَنْهَرْ
 
 ***“And as for him who asks, do not chide (him). (The Holy Qur’an;
 93:10)”***
@@ -1722,17 +1414,13 @@ As everything is prepared for our duaas to be answered, we first pray
 for the reappearance of Imam Mahdi (as), confess our wrongdoings, and
 supplicate in this way:
 
-<blockquote dir="rtl">
-  <p>
-فَما كُلُّ ما نَطَقتُ بهِ عَن جَهلٍ مِنّي بِسوءِ أَثَري ولا نِسيانٍ
-لمِا سَبَقَ مِن ذَميمِ فِعلي لكِنْ لِتسمَعَ سماؤكَ ومَن فيها وأرضُكَ
-ومَن عَليها ما أظْهَرتُ لكَ مِن النّدمِ ولجأتُ إليكَ فيهِ من التّوبةِ،
-فَلَعلَّ بعضَهُم بِرحمتِكَ يَرحمُني لِسوءِ موقِفي أو تُدرِكُهُ
-الرِّقّةُ عليَّ لِسوءِ حالي فيَنالُني منهُ بِدعوَةٍ هيَ أسمَعُ لدَيكَ
-مِن دُعائي أو شَفاعَةٍ أَوْكَدَ عِندكَ مِن شَفاعَتي تكونُ بِها نجَاتي
-مِن غَضَبِك وفَوزَتي بِرضاكَ.
-  </p>
-</blockquote>
+> فَما كُلُّ ما نَطَقتُ بهِ عَن جَهلٍ مِنّي بِسوءِ أَثَري ولا نِسيانٍ
+> لمِا سَبَقَ مِن ذَميمِ فِعلي لكِنْ لِتسمَعَ سماؤكَ ومَن فيها وأرضُكَ
+> ومَن عَليها ما أظْهَرتُ لكَ مِن النّدمِ ولجأتُ إليكَ فيهِ من التّوبةِ،
+> فَلَعلَّ بعضَهُم بِرحمتِكَ يَرحمُني لِسوءِ موقِفي أو تُدرِكُهُ
+> الرِّقّةُ عليَّ لِسوءِ حالي فيَنالُني منهُ بِدعوَةٍ هيَ أسمَعُ لدَيكَ
+> مِن دُعائي أو شَفاعَةٍ أَوْكَدَ عِندكَ مِن شَفاعَتي تكونُ بِها نجَاتي
+> مِن غَضَبِك وفَوزَتي بِرضاكَ.
 
 “Now all that I have said rise up from my ignorance of my evil footsteps
 or forgetfulness of my blameworthy acts in the past, but in order that
@@ -1753,22 +1441,14 @@ gathering pebbles and the mysterious acts in Mina as well as reflecting
 on all these acts is a superior act of worship. The Holy Prophet (saw)
 says:
 
-<blockquote dir="rtl">
-  <p>
-فِكْرَةُ ساعَةٍ خَيرٌ مِن عِبادَةِ سَنَةٍ.
-  </p>
-</blockquote>
+> فِكْرَةُ ساعَةٍ خَيرٌ مِن عِبادَةِ سَنَةٍ.
 
 “An hour of reflection is better than a year of worship.”[^59]
 
 Imam Ridha’ (as) says:
 
-<blockquote dir="rtl">
-  <p>
-ليسَ العِبادَةُ كَثْرَةٌ الصّيامِ والصّلاةِ وإنمّا العِبادةُ كَثْرَةُ
-التَّفَكُّرِ في أمْرِ اللهِ
-  </p>
-</blockquote>
+> ليسَ العِبادَةُ كَثْرَةٌ الصّيامِ والصّلاةِ وإنمّا العِبادةُ كَثْرَةُ
+> التَّفَكُّرِ في أمْرِ اللهِ
 
 > “Worship is not an excess of praying and fasting, rather it is
 > reflection on Allah’s creation.”146
@@ -1786,15 +1466,11 @@ perhaps a door of God’s mystery will be opened to us. We have come to
 al-Mash’ar to have full cognition of God and to renew our covenant with
 Him. Let us follow the duaa of Imam Husayn made on the day of Arafat:
 
-<blockquote dir="rtl">
-  <p>
-أَيَكُونُ لِغَيرِكَ مِن الظُّهورِ ما لَيسَ لكَ حَتّى يكونَ هو
-المَظهَرَ لك؟ مَتى غِبتَ حتى تحَتاجَ إلى دَليلٍ يَدُلُّ عليكَ؟ ومتى
-بَعُدتَ حتى تَكونَ الآثارُ هِي الّتي تُوصِلُ إليكَ؟ عَمِيَتْ عَينٌ لا
-تَراكَ علَيها رَقِيباً وخَسِرَت صَفْقَةُ عَبدٍ لم تجعَلْ لهُ مِن
-حُبِّكَ نصِيباً
-  </p>
-</blockquote>
+> أَيَكُونُ لِغَيرِكَ مِن الظُّهورِ ما لَيسَ لكَ حَتّى يكونَ هو
+> المَظهَرَ لك؟ مَتى غِبتَ حتى تحَتاجَ إلى دَليلٍ يَدُلُّ عليكَ؟ ومتى
+> بَعُدتَ حتى تَكونَ الآثارُ هِي الّتي تُوصِلُ إليكَ؟ عَمِيَتْ عَينٌ لا
+> تَراكَ علَيها رَقِيباً وخَسِرَت صَفْقَةُ عَبدٍ لم تجعَلْ لهُ مِن
+> حُبِّكَ نصِيباً
 
 “Is there any being more bright than You in whose light to find You?
 When have You been hidden to seek You under guidance? When have You been
@@ -1804,12 +1480,8 @@ losses and gain nothing.”[^60]
 
 Al-Mash’ar al-Haram is the manifestation of God-seeking motto.
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَفَضْتُمْ مِنُ عَرَفَاتٍ فَاذْكُرُوا اللهَ عِنْدَ المَشْعَرِ
-الحَرَامِ
-  </p>
-</blockquote>
+> فَإِذَا أَفَضْتُمْ مِنُ عَرَفَاتٍ فَاذْكُرُوا اللهَ عِنْدَ المَشْعَرِ
+> الحَرَامِ
 
 ***“So, when you hasten on from Arafat, then remember Allah near the
 Holy Monument— Al-Mash’ar al-Haram. (The Holy Qur’an; 2:198)”***
@@ -1818,20 +1490,12 @@ Al-Mash’ar al-Haram is dark and nothing but God prevails it. The light
 of God’s cognition has filled a pilgrim’s heart so much so that
 everything is effected in its light:
 
-<blockquote dir="rtl">
-  <p>
-عَظُمَ الخالِقُ في أنفُسِهِم فَصَغُر ما دونَهُ في أعيُنِهِم
-  </p>
-</blockquote>
+> عَظُمَ الخالِقُ في أنفُسِهِم فَصَغُر ما دونَهُ في أعيُنِهِم
 
 “The greatness of the Creator is seated in their hearts, and so,
 everything else appears small in their eyes.”[^61]
 
-<blockquote dir="rtl">
-  <p>
-وَكانَت دُنياهُم أقَلَّ عِندَهم ممّا يَطَؤونَهُ بِأرجُلِهِم
-  </p>
-</blockquote>
+> وَكانَت دُنياهُم أقَلَّ عِندَهم ممّا يَطَؤونَهُ بِأرجُلِهِم
 
 “The world of the mammonists is worthless than what trodden on.”[^62]
 
@@ -1849,11 +1513,7 @@ the eyes of a Muslim as worthless as pebbles, for all crimes and
 corruptions in the world are the result of love of the world in a way
 the Holy Prophet (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ الدّنيا رَأْسُ كلِّ خَطيئَةٍ
-  </p>
-</blockquote>
+> حُبُّ الدّنيا رَأْسُ كلِّ خَطيئَةٍ
 
 “Love for this world is the source of all wrongdoings.”[^63]
 
@@ -1863,12 +1523,8 @@ him rebel and disobedient especially if he lives in an environment with
 injustice and class differences. Imam ‘Ali (as) says to his son Muhammad
 ibn al-Hanafiyyah:
 
-<blockquote dir="rtl">
-  <p>
-يا بُنيّ، إنّي أَخافُ عَليكَ الفَقْرَ فَاستَعِذْ باللهِ منهُ. فَإن
-الفَقْرَ مَنقَصَةٌ لِلدّينِ، مَدهَشَةٌ لِلعَقلِ، داعِيَةٌ للمَقْتِ.
-  </p>
-</blockquote>
+> يا بُنيّ، إنّي أَخافُ عَليكَ الفَقْرَ فَاستَعِذْ باللهِ منهُ. فَإن
+> الفَقْرَ مَنقَصَةٌ لِلدّينِ، مَدهَشَةٌ لِلعَقلِ، داعِيَةٌ للمَقْتِ.
 
 “O my son, I fear lest destitution overtakes you. So, you should seek
 Allah’s protection from it, because destitution is deficiency of
@@ -1877,11 +1533,7 @@ hatred of obstinate people.”[^64]
 
 The Holy Prophet (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-كادَ الفَقْرُ أنْ يَكونَ كُفْراً
-  </p>
-</blockquote>
+> كادَ الفَقْرُ أنْ يَكونَ كُفْراً
 
 “Destitution is very close to the boundary of disbelief.”[^65]
 
@@ -1897,12 +1549,8 @@ they should not only promote their moral and spiritual virtues, but they
 should have enough wealth to preserve their supremacy in the world and
 honor and prosperity in the Hereafter. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِباطِ
-الخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللهِ وَعَدُوَّكُمْ
-  </p>
-</blockquote>
+> وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِباطِ
+> الخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللهِ وَعَدُوَّكُمْ
 
 ***“And prepare against them what force you can and horses tied at the
 frontier, to frighten thereby the enemy of Allah and your enemy.
@@ -1910,12 +1558,8 @@ frontier, to frighten thereby the enemy of Allah and your enemy.
 
 Imam Kazim (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إنّكُم قَومٌ أعداؤكُم كَثيرةٌ، يا مَعاشِرَ الشّيعَةِ، إنّكُم قَد
-عاداكُمُ الخَلقُ فَتَزيَّنوا لهُم بما قَدِرتُم عليهِ
-  </p>
-</blockquote>
+> إنّكُم قَومٌ أعداؤكُم كَثيرةٌ، يا مَعاشِرَ الشّيعَةِ، إنّكُم قَد
+> عاداكُمُ الخَلقُ فَتَزيَّنوا لهُم بما قَدِرتُم عليهِ
 
 “O Shiites, you have lots of enemies looking for a pretext to attack and
 humiliate you. So, be prepared against them as much as you can.”[^66]
@@ -1933,11 +1577,7 @@ children have to be sacrificed for God. Mina displays the world people
 spiritual assets of perfect men who represent prophets. It is the
 manifestation of God’s special favor to men of heart:
 
-<blockquote dir="rtl">
-  <p>
-فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالوَادِ المُقَدَّسِ طُوى
-  </p>
-</blockquote>
+> فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالوَادِ المُقَدَّسِ طُوى
 
 ***“Therefore, put off your shoes; surely you are in the sacred valley,
 Tuwa. (The Holy Qur’an; 20:12)”***
@@ -1945,13 +1585,9 @@ Tuwa. (The Holy Qur’an; 20:12)”***
 You have been so honored that you are qualified to stand before God!
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إذا أَخَذَ الناسُ مَنازِلهُم بمِنَى نادَى مُنادٍ: يا مِنَى قدْ جاءَ
-أهْلُكِ فَاتَّسِعي في فِجاجِكِ واتْرَعي في مَثابِكِ، ومنادٍ يُنادي: لو
-تَدرون بمَن حَلَلتُم لأيقَنتُم بِالخَلفِ بَعدَ المَغفِرَة.
-  </p>
-</blockquote>
+> إذا أَخَذَ الناسُ مَنازِلهُم بمِنَى نادَى مُنادٍ: يا مِنَى قدْ جاءَ
+> أهْلُكِ فَاتَّسِعي في فِجاجِكِ واتْرَعي في مَثابِكِ، ومنادٍ يُنادي: لو
+> تَدرون بمَن حَلَلتُم لأيقَنتُم بِالخَلفِ بَعدَ المَغفِرَة.
 
 “When people arrive in Mina, a herald will call out: ‘O Mina, your
 dwellers have come! Open your arms and fill your pools with water!’
@@ -1961,11 +1597,7 @@ have spent.”[^67]
 
 This is certainly a reference to the Qur’anic Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَنْفَقْتُمْ مِنْ شَيءٍ فَهُوَ ُيخْلِفُهُ
-  </p>
-</blockquote>
+> وَمَا أَنْفَقْتُمْ مِنْ شَيءٍ فَهُوَ ُيخْلِفُهُ
 
 ***“Whatever thing you spend, He exceeds it in reward. (34:39)”***
 
@@ -1974,11 +1606,7 @@ accommodates a crowd several times its capacity and the abundance of
 food, welfare, and comfort in this place comes from invisible source. In
 this relation, Ibn Abbas says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِنى يَتَّسِعُ لأَهلِهِ كَما يتَّسِعُ الرَّحِمُ لِلوَلَدِ
-  </p>
-</blockquote>
+> إنَّ مِنى يَتَّسِعُ لأَهلِهِ كَما يتَّسِعُ الرَّحِمُ لِلوَلَدِ
 
 Mina is extended for its dwellers in the same way that a mother’s womb
 is extended for the fetus.[^68]
@@ -2003,12 +1631,8 @@ to Prophet Ibrahim (as).
 ‘Ali ibn Jaafar asked his elder brother, Imam Kazim (as) about the
 philosophy of the Ramy al-Jamarat. The Imam answered:
 
-<blockquote dir="rtl">
-  <p>
-لأنَّ إبْليسَ اللّعِينَ كانَ يَتَراءَى لإِبْراهِيمَ عليهِ السلامُ في
-مَوضِعِ الجَمارِ فَرَجَمَهُ إِبراهِيمُ، فَجَرَتِ السُّنَّةُ بِذلكَ.
-  </p>
-</blockquote>
+> لأنَّ إبْليسَ اللّعِينَ كانَ يَتَراءَى لإِبْراهِيمَ عليهِ السلامُ في
+> مَوضِعِ الجَمارِ فَرَجَمَهُ إِبراهِيمُ، فَجَرَتِ السُّنَّةُ بِذلكَ.
 
 “Since the cursed Satan appeared to Prophet Ibrahim (as) in the site of
 al-Jamarat and Ibrahim (as) threw stone at him, this act became
@@ -2033,12 +1657,8 @@ worldly riches thrown away for the sake of God. Pilgrims practice these
 symbolic and spiritual acts to ensure their victory, for God’s promise
 is truthful:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللهَ يَنْصُرْكُمْ
-وَيُثَبِّتْ أَقْدَامَكُمْ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللهَ يَنْصُرْكُمْ
+> وَيُثَبِّتْ أَقْدَامَكُمْ.
 
 ***“O you who believe, if you help the cause of Allah, He will help you
 and make firm your feet. (The Holy Qur’an; 47:7)”***
@@ -2049,23 +1669,15 @@ Muslims have power of faith, unity, patience, and firmness for God’s
 sake, the enemies will become so weak and humiliated that they will be
 defeated with a hint.
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ قَاتَلَكُمُ الّذِينَ كَفَرُوا لَوَلَّوُا الأَدْبَارَ ثُمَّ لا
-يَجِدُونَ وَلِيّاً وَلا نَصِيراً
-  </p>
-</blockquote>
+> وَلَوْ قَاتَلَكُمُ الّذِينَ كَفَرُوا لَوَلَّوُا الأَدْبَارَ ثُمَّ لا
+> يَجِدُونَ وَلِيّاً وَلا نَصِيراً
 
 ***“And if those who disbelieve fight with you, they would certainly
 turn (their) backs, and then they would not find any protector or a
 helper. (The Holy Qur’an; 48:22)”***
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَهِنُوا وَلا تَحْزَنُوا وَأَنْتُمُ الأعْلَوْنَ إِنْ كُنْتُمْ
-مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلا تَهِنُوا وَلا تَحْزَنُوا وَأَنْتُمُ الأعْلَوْنَ إِنْ كُنْتُمْ
+> مُؤْمِنِينَ
 
 ***“And be not infirm, and be not grieving, and you shall have the upper
 hand if you are believers. (The Holy Qur’an; 3:139)”***
@@ -2084,13 +1696,9 @@ Sacrifice is a symbol of devotion and offering one’s life in the way of
 the Beloved and the maximum degree of submission to God. Imam ‘Ali read
 the following duaa upon offering the sacrifice:
 
-<blockquote dir="rtl">
-  <p>
-بِسمِ اللهِ، وَجَّهتُ وَجهِيَ لِلذِي فَطَرَ السّماواتِ والأرْضَ
-حَنيفاً مُسلِماً وما أَنا مِن المُشرِكِين. إنَّ صَلاتي ونُسُكِي
-ومَحْيايَ وَممَاتي للهِ رَبِّ العالَمِينَ. اللّهُمّ مِنكَ ولَكَ.
-  </p>
-</blockquote>
+> بِسمِ اللهِ، وَجَّهتُ وَجهِيَ لِلذِي فَطَرَ السّماواتِ والأرْضَ
+> حَنيفاً مُسلِماً وما أَنا مِن المُشرِكِين. إنَّ صَلاتي ونُسُكِي
+> ومَحْيايَ وَممَاتي للهِ رَبِّ العالَمِينَ. اللّهُمّ مِنكَ ولَكَ.
 
 “In the Name of Allah. I have turned myself, being upright, wholly to
 Him Who originated the heavens and the earth, and I am not of the
@@ -2100,14 +1708,10 @@ from and is for You.”[^70]
  The offering of animal sacrifice on Eid ul-Adha enlivens the memory of
 Prophet Ibrahim and his son Ismaeel (as). The father says,
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي
-الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا
-أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ
-الصَّابِرِينَ
-  </p>
-</blockquote>
+> فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي
+> الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا
+> أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ
+> الصَّابِرِينَ
 
 ***“O my son, surely I have seen in a dream that I should sacrifice you.
 (The Holy Qur’an; 37:102)”***
@@ -2119,11 +1723,7 @@ find me one of the patient ones. (The Holy Qur’an; 37:102)”***
 
 This is the utmost degree of devotion, which is worthy of God’s saying,
 
-<blockquote dir="rtl">
-  <p>
-وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
 
 ***“And We ransomed him with a great sacrifice. (The Holy Qur’an;
 37:107)”***
@@ -2133,12 +1733,8 @@ Hajj rites and to be repeated every year in the Hajj seasons. Prophet
 Ibrahim’s act of devotion became source of pride for human beings before
 the angels who had said to God:
 
-<blockquote dir="rtl">
-  <p>
-أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ
-وَنُقَدِّسُ لَكَ
-  </p>
-</blockquote>
+> أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ
+> وَنُقَدِّسُ لَكَ
 
 ***“Wilt Thou place in it such as shall make mischief in it and shed
 blood, and we celebrate Thy praise and extol Thy holiness? (The Holy
@@ -2147,12 +1743,8 @@ Qur’an; 2:30)”***
 The angels should know that among the same human beings there are those
 whose devotion is to the extent that God praises:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ. وَنَادَيْنَاهُ أَنْ يَا
-إِبْرَاهِيمُ. قَدْ صَدَّقْتَ الرُّؤْيَا
-  </p>
-</blockquote>
+> فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ. وَنَادَيْنَاهُ أَنْ يَا
+> إِبْرَاهِيمُ. قَدْ صَدَّقْتَ الرُّؤْيَا
 
 ***“So when they both submitted and he threw him down upon his forehead.
 And We called out to him saying: O Ibrahim! You have indeed shown the
@@ -2176,24 +1768,16 @@ dismembered. Holding his blood-soaked swaddled infant on his arms and
 sprinkling towards the sky, the blood gushing from the throat of his
 nursing infant, the Imam said:
 
-<blockquote dir="rtl">
-  <p>
-هَوَّنَ عَلَيَّ مَا نَزَلَ بِي أَنَّهُ بِعَينِ اللهِ
-  </p>
-</blockquote>
+> هَوَّنَ عَلَيَّ مَا نَزَلَ بِي أَنَّهُ بِعَينِ اللهِ
 
 “What alleviates all that which I am suffering is their being under
 Allah’s sight.”
 
 Then we should salute Imam Husayn (as) by saying:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَليكَ يا أبا عبدِاللهِ وعَلى الأرْواحِ التي حَلَّتْ
-بِفِنائِكَ، عَليك مِني سَلامُ اللهِ أبَداً ما بَقِيتُ وبَقِيَ الليلُ
-والنّهارُ.
-  </p>
-</blockquote>
+> السَّلامُ عَليكَ يا أبا عبدِاللهِ وعَلى الأرْواحِ التي حَلَّتْ
+> بِفِنائِكَ، عَليك مِني سَلامُ اللهِ أبَداً ما بَقِيتُ وبَقِيَ الليلُ
+> والنّهارُ.
 
 “Peace be on you, O Abu-Abdullah, and on those souls who came to your
 camp to put themselves at your disposal. So fat I am alive and the days
@@ -2208,12 +1792,8 @@ Ramadan, a month during which Muslims practice self-restraint and
 abstention from wrongdoing. They engage in spiritual state and nightly
 supplications.
 
-<blockquote dir="rtl">
-  <p>
-يا أيّها الّذينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيامُ كَما كُتِبَ عَلى
-الّذينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقونَ.
-  </p>
-</blockquote>
+> يا أيّها الّذينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيامُ كَما كُتِبَ عَلى
+> الّذينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقونَ.
 
 ***“O you who believe! Fasting is prescribed for you, as it was
 prescribed for those before you, so that you may guard (against evil).
@@ -2249,18 +1829,14 @@ Drawing the attentions of Muslims to the vital role of the Hajj rites in
 restoring the entity of the ummah, their dignity and independence, the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا
-الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ
-الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا ۚ
-وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ
-أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا ۘ
-وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى
-الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ
-الْعِقَابِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا
+> الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ
+> الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا ۚ
+> وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ
+> أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا ۘ
+> وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى
+> الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ
+> الْعِقَابِ
 
 ***“O you who believe! Do not violate the signs appointed by Allah nor
 the sacred month, nor interfere with the offerings, nor the sacrificial
@@ -2275,12 +1851,8 @@ to Allah; surely Allah is severe in requiting evil. (5:2)”***
 According to the Holy Qur’an, offering sacrifice is as important as the
 Kaaba:
 
-<blockquote dir="rtl">
-  <p>
-جَعَلَ اللهُ الكَعْبَةَ البيْتَ الحَرامَ قِياماً لِلنَّاسِ وَالشَّهْرَ
-الحَرامَ والهَدْيَ والقَلائِدَ
-  </p>
-</blockquote>
+> جَعَلَ اللهُ الكَعْبَةَ البيْتَ الحَرامَ قِياماً لِلنَّاسِ وَالشَّهْرَ
+> الحَرامَ والهَدْيَ والقَلائِدَ
 
 ***“Allah has made the Kaaba, the sacred house, maintenance for the
 people, and the sacred month and the offerings and the sacrificial
@@ -2294,12 +1866,8 @@ of Muslim nations against the enemies of Islam. The Kaaba represents
 love and compassion and sacrifice depicts wrath as stipulated by the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدٌ رَسُولُ اللهِ، وَالَّذِينَ مَعَهُ أَشَدَّاءُ عَلَى
-الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ
-  </p>
-</blockquote>
+> مُحَمَّدٌ رَسُولُ اللهِ، وَالَّذِينَ مَعَهُ أَشَدَّاءُ عَلَى
+> الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ
 
 ***“Muhammad is the Apostle of Allah, and those with him are firm of
 heart against the unbelievers, compassionate among themselves.
@@ -2313,29 +1881,21 @@ survival. A true Muslim, while being man of prayer, is man of fighting
 against the enemies of God. In the same way that God has made the Kaaba
 a place of security***,***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا
-مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ
-وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ
-وَالرُّكَّعِ السُّجُودِ
-  </p>
-</blockquote>
+> وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا
+> مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ
+> وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ
+> وَالرُّكَّعِ السُّجُودِ
 
 ***“(And when) We made the House a pilgrimage for men and a (place of)
 security. (The Holy Qur’an; 2:125),”***
 
 He had made sacrifice a source of blessing for human beings,
 
-<blockquote dir="rtl">
-  <p>
-وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ لَكُمْ فِيهَا
-خَيْرٌ ۖ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ ۖ فَإِذَا
-وَجَبَتْ جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ
-وَالْمُعْتَرَّ ۚ كَذَٰلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ
-تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ لَكُمْ فِيهَا
+> خَيْرٌ ۖ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ ۖ فَإِذَا
+> وَجَبَتْ جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ
+> وَالْمُعْتَرَّ ۚ كَذَٰلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ
+> تَشْكُرُونَ
 
 ***“And (as for) the camels, We have made them of the signs of the
 religion of Allah for you; for you therein is much good. (The Holy
@@ -2350,12 +1910,8 @@ dearest thing for the sake of God.
 The Holy Qur’an shows that the Kaaba was the first place of worship in
 the world before the advent of Islam:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي ببَكَّةَ مُبارَكاً
-وهدىً للعالمين.
-  </p>
-</blockquote>
+> إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي ببَكَّةَ مُبارَكاً
+> وهدىً للعالمين.
 
 ***“Most surely the first house appointed for men is the one at Bekka,
 blessed and guidance for the nations. (The Holy Qur’an; 3:96)”***
@@ -2364,12 +1920,8 @@ Nevertheless, the question of sacrifice does not solely belong to Islam;
 rather former nations too were duty-bound to discharge this divine
 order:
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكاً لِيَذْكُرُوا اسْمَ اللهِ عَلَى
-مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الأَنْعَامِ
-  </p>
-</blockquote>
+> وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكاً لِيَذْكُرُوا اسْمَ اللهِ عَلَى
+> مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الأَنْعَامِ
 
 ***“And to every nation We appointed acts of devotion that they may
 mention the name of Allah on what He has given them of the cattle
@@ -2378,13 +1930,9 @@ quadrupeds. (The Holy Qur’an; 22:34)”***
 The offering of sacrifice by sons of Adam, the first kind of itself is
 mentioned in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانَاً فَتُقُبِّلَ مِنْ أَحَدِهَمَا وَلَمْ يُتَقَبَّلْ مِنَ
-الآخَرِ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانَاً فَتُقُبِّلَ مِنْ أَحَدِهَمَا وَلَمْ يُتَقَبَّلْ مِنَ
+> الآخَرِ
 
 ***“And relate to them the story of the two sons of Adam with truth when
 they both offered an offering, but it was accepted from one of them and
@@ -2394,12 +1942,8 @@ To sum it up, in the same way that Islam emphasizes the value of the
 congregation in Mecca and the tight ranks of Muslim worshippers in
 prayer,
 
-<blockquote dir="rtl">
-  <p>
-تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ
-وَرِضْوَانًا
-  </p>
-</blockquote>
+> تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ
+> وَرِضْوَانًا
 
 > “you will see them bowing down, prostrating themselves, seeking grace
 > from Allah and pleasure, (The Holy Qur’an; 48:29),”
@@ -2416,26 +1960,18 @@ advisability must be taken into consideration. For instance, the Holy
 Qur’an expressly makes ensuring the social life conditional upon
 execution of murderers and the carrying out of law of retribution,
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
-تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
+> تَتَّقُونَ
 
 ***“And there is life for you in (the law of) retaliation, O men of
 understanding. (2:179),”***
 
 or the Qur’anic ruling on an adulterer,
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
-جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
-كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
+> جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
+> كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
 
 ***“(As for) the fornicatress and the fornicator, flog each of them,
 (giving) a hundred stripes, and let not pity for them detain you in the
@@ -2451,12 +1987,8 @@ soundness of the society above those of individuals.
 
 Challenging the Qur’anic Verse,
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا
-كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا
+> كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ
 
 ***“And (as for) the man who steals and the woman who steals, cut off
 their hands, (5:38)”***
@@ -2487,23 +2019,15 @@ servant, by sacrificing this animal, sacrifices his bestial inclinations
 such as greed, jealousy, love of position and fame, mischief, pessimism,
 and other vices, saying with firmness:
 
-<blockquote dir="rtl">
-  <p>
-وَجَّهتُ وَجهِيَ لِلذِي فَطَرَ السّماواتِ والأرْضَ.
-  </p>
-</blockquote>
+> وَجَّهتُ وَجهِيَ لِلذِي فَطَرَ السّماواتِ والأرْضَ.
 
 ***“Surely I have turned myself, being upright, wholly to Him Who
 originated the heavens and the earth. (The Holy Qur’an; 6:79)”***
 
 While doing this, he should remember the Qur’anic Verse:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ يَنَالَ اللهَ لُحُومُهَا وَلا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ
-التَّقْوَى مِنْكُمْ
-  </p>
-</blockquote>
+> لَنْ يَنَالَ اللهَ لُحُومُهَا وَلا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ
+> التَّقْوَى مِنْكُمْ
 
 ***“There does not reach Allah their flesh nor their blood, but to Him
 is acceptable the guarding (against evil) on your part. (22:37)”***
@@ -2511,22 +2035,14 @@ is acceptable the guarding (against evil) on your part. (22:37)”***
 God truly seeks His servant’s piety and this virtue cannot be obtained
 save by killing carnal desires and Satanic temptations.
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الهَوَى
-فَإِنَّ الجَنَّةَ هِيَ المَأْوَى
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الهَوَى
+> فَإِنَّ الجَنَّةَ هِيَ المَأْوَى
 
 ***“And as for him who fears to stand in the presence of his Lord and
 forbids the soul from low desires, 41. Then surely the garden‑‑ that is
 the abode. (The Holy Qur’an; 79:40-1)”***
 
-<blockquote dir="rtl">
-  <p>
-وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ
 
 ***“And the garden shall be brought near for those who guard against
 evil. (The Holy Qur’an; 26:90)”***
@@ -2534,13 +2050,9 @@ evil. (The Holy Qur’an; 26:90)”***
 Imam Sajjad (as) posed the following questions to a man who had just
 returned from Mecca on the philosophy of Hajj:
 
-<blockquote dir="rtl">
-  <p>
-فعِندَما ذَبحتَ هَدْيَكَ نَوَيتَ أنكَ ذبحتَ حَنجَرَة َالطَّمعِ بما
-تمسّكْتَ بهِ مِن حقيقةِ الوَرَعِ وأنكَ اتّبعتَ سُنَّةَ إبراهيمَ عليهِ
-السّلامُ بِذَبْحِ وَلَدِهِ وثمرَةِ فُؤادِهِ وريحانِ قلبِهِ.
-  </p>
-</blockquote>
+> فعِندَما ذَبحتَ هَدْيَكَ نَوَيتَ أنكَ ذبحتَ حَنجَرَة َالطَّمعِ بما
+> تمسّكْتَ بهِ مِن حقيقةِ الوَرَعِ وأنكَ اتّبعتَ سُنَّةَ إبراهيمَ عليهِ
+> السّلامُ بِذَبْحِ وَلَدِهِ وثمرَةِ فُؤادِهِ وريحانِ قلبِهِ.
 
 “When offering sacrifice, did you intend to sacrifice greed by restoring
 to piety? Did you pay attention to the fact that you were following
@@ -2549,12 +2061,8 @@ for Allah’s satisfaction?”[^72]
 
 Describing the pious, Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-ميِّتةً شَهوتُهُ مَكظوماً غَيظُهُ، الخَيرُ منهُ مأمولٌ والشرُّ مِنه
-مأمونٌ.
-  </p>
-</blockquote>
+> ميِّتةً شَهوتُهُ مَكظوماً غَيظُهُ، الخَيرُ منهُ مأمولٌ والشرُّ مِنه
+> مأمونٌ.
 
 “… His desires deed and his anger suppressed. Good alone is expected
 from him. Evil from him in not to be feared.”[^73]
@@ -2562,12 +2070,8 @@ from him. Evil from him in not to be feared.”[^73]
 The same people, on the Day of Judgment when only the pure heart counts,
 will be honored by God.
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لاَ يَنْفَعُ مَالٌ وَلاَ بَنُونَ, ِإلاّ مَنْ أَتَى اللهَ
-بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> يَوْمَ لاَ يَنْفَعُ مَالٌ وَلاَ بَنُونَ, ِإلاّ مَنْ أَتَى اللهَ
+> بِقَلْبٍ سَلِيمٍ
 
 ***“The day on which property will not avail, nor sons except him who
 comes to Allah with a heart free from evil. (The Holy Qur’an;
@@ -2576,12 +2080,8 @@ comes to Allah with a heart free from evil. (The Holy Qur’an;
 Actually, Prophet Ibrahim (as) was not asked to sacrifice his son, but
 to have a pure heart:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِنْ شِيعَتِهِ لإِبْرَاهِيمَ. إِذْ جَاءَ رَبَّهُ بِقَلْبٍ
-سَلِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّ مِنْ شِيعَتِهِ لإِبْرَاهِيمَ. إِذْ جَاءَ رَبَّهُ بِقَلْبٍ
+> سَلِيمٍ
 
 ***“And most surely Ibrahim followed his way when he came to his Lord
 with a free heart. (The Holy Qur’an; 37:83-4)”***
@@ -2589,12 +2089,8 @@ with a free heart. (The Holy Qur’an; 37:83-4)”***
 Since sacrificing an animal indicates spiritual state and free heart, it
 has become an act of worship among the Hajj rites:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ
-  </p>
-</blockquote>
+> ذَلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ
 
 ***“That (shall be so); and whoever respects the signs of Allah, this
 surely is (the outcome) of the piety of hearts.(The Holy Qur’an;
@@ -2622,11 +2118,7 @@ too, it is obligatory on those in Mina and recommended for those in
 other countries to sacrifice an animal and give its meat to the poor.
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَنْ تَزَكَّى. وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَنْ تَزَكَّى. وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى
 
 ***“He indeed shall be successful who purifies himself, and magnifies
 the name of his Lord and prays. (The Holy Qur’an; 87:14-5)”***
@@ -2643,14 +2135,10 @@ hearts of the needy and be worthy of their duaa.
 
 ### How to use the meat of a sacrificed animal according to the Holy Qur’an and traditions
 
-<blockquote dir="rtl">
-  <p>
-وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللهِ، لَكُمْ فِيهَا
-خَيْرٌ، فَاذْكُرُوا اسْمَ اللهِ عَلَيْهَا صَوَافَّ، فَإِذَا وَجَبَتْ
-جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ،
-كَذَلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونِ.
-  </p>
-</blockquote>
+> وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللهِ، لَكُمْ فِيهَا
+> خَيْرٌ، فَاذْكُرُوا اسْمَ اللهِ عَلَيْهَا صَوَافَّ، فَإِذَا وَجَبَتْ
+> جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ،
+> كَذَلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونِ.
 
 “And (as for) the camels, We have made them of the signs of the religion
 of Allah for you; for you therein is much good; therefore mention the
@@ -2659,11 +2147,7 @@ eat of them and feed the poor man who is contented and the beggar; thus
 have We made them subservient to you, that you may be grateful. (The
 Holy Qur’an; 22:36)”
 
-<blockquote dir="rtl">
-  <p>
-فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ الْفَقِيرَ
-  </p>
-</blockquote>
+> فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ الْفَقِيرَ
 
 ***“Then eat of them and feed the distressed one, the needy.(The Holy
 Qur’an; 22:28)”***
@@ -2671,13 +2155,9 @@ Qur’an; 22:28)”***
 Abu-Sabbah Kanani says: I asked the opinion of Imam Sadiq (as) about the
 meat of sacrifice animal, he (as) said:
 
-<blockquote dir="rtl">
-  <p>
-كانَ عَلِيُّ بنَ الحُسينِ وأبو جَعفَرٍ عليهِما السلامُ يَتَصَدَّقانِ
-بِثُلُثٍ عَلى جيرانِهِم وثُلُثٍ على السُّؤّالِ وثُلُثٍ يُمسِكونَهُ
-لأهلِ البيتِ.
-  </p>
-</blockquote>
+> كانَ عَلِيُّ بنَ الحُسينِ وأبو جَعفَرٍ عليهِما السلامُ يَتَصَدَّقانِ
+> بِثُلُثٍ عَلى جيرانِهِم وثُلُثٍ على السُّؤّالِ وثُلُثٍ يُمسِكونَهُ
+> لأهلِ البيتِ.
 
 “Imam Sajjad and Imam Baqir (as) used to give a third of it to
 neighbors, another third to beggars, and the remaining third was for the
@@ -2694,12 +2174,8 @@ Muhammad ibn Muslim says: I asked Imam Sadiq (as) whether it is
 permissible to take the meat of the sacrificed animals out of Mina. He
 (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-كُنّا نقولُ لا يخرُجُ مِنها شيءٌ لِحاجَةِ الناسِ إليهِ، فأمّا اليومَ
-فَقَد كَثُرَ الناسُ فَلا بأسَ بِإخراجِهِ
-  </p>
-</blockquote>
+> كُنّا نقولُ لا يخرُجُ مِنها شيءٌ لِحاجَةِ الناسِ إليهِ، فأمّا اليومَ
+> فَقَد كَثُرَ الناسُ فَلا بأسَ بِإخراجِهِ
 
 “Formerly, people of Mecca were in need for them, but today because of
 too many pilgrims and sacrifices, their being taken out of Mina is no
@@ -2721,23 +2197,15 @@ hair while men have the choice to shave their heads or shorten.
 According to certain religious decrees, Halq is obligatory for men. The
 Qur’anic Verse on this religious duty is,
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا
-بِالْبَيْتِ الْعَتِيقِ
-  </p>
-</blockquote>
+> ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا
+> بِالْبَيْتِ الْعَتِيقِ
 
 ***“Then let them accomplish their needful acts of shaving and
 cleansing. (22:29)”***
 
 Imam Ridha’ (as) says:
 
-<blockquote dir="rtl">
-  <p>
-التَّفَثُ تَقليمُ الأظافِرِ وطَرحُ الوسَخِ وطَرحُ الإحرامِ عنه
-  </p>
-</blockquote>
+> التَّفَثُ تَقليمُ الأظافِرِ وطَرحُ الوسَخِ وطَرحُ الإحرامِ عنه
 
 “The Arabic word ‘tafath –mentioned in the Holy Qur’an-’ means to clip
 the nails, to remove dirt, and to come out of the state of Ihram.”[^75]
@@ -2747,23 +2215,15 @@ purification of soul from filth of vices.
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-واحلِقِ العُيوبَ الظّاهِرةَ والباطِنةَ بحَلقِ شَعرِكَ
-  </p>
-</blockquote>
+> واحلِقِ العُيوبَ الظّاهِرةَ والباطِنةَ بحَلقِ شَعرِكَ
 
 “By shaving your head, remove all inward and outward flaws.”[^76]
 
 Imam Sajjad (as) posed the following questions to a man who had returned
 from Mecca:
 
-<blockquote dir="rtl">
-  <p>
-فَعِندَما حَلقْتَ رَأسَكَ، نَوَيتَ أنكَ تَطَهّرتَ مِن الأدناسِ ومِن
-تَبِعَةِ بني آدمَ وخَرَجتَ مِن الذّنوبِ كما وَلدتكَ أُمُّكَ
-  </p>
-</blockquote>
+> فَعِندَما حَلقْتَ رَأسَكَ، نَوَيتَ أنكَ تَطَهّرتَ مِن الأدناسِ ومِن
+> تَبِعَةِ بني آدمَ وخَرَجتَ مِن الذّنوبِ كما وَلدتكَ أُمُّكَ
 
 “Did you have the intention to cleanse yourself from all pollutions and
 violations of rights of people and do without wrongdoings as if you were
@@ -2774,11 +2234,7 @@ According to other hadiths, the word ‘tafath’ means to meet the Imam.
 Thareeh asked Imam Sadiq (as) about the meaning of the above-mentioned
 Qur’anic Verse to which the Imam said:
 
-<blockquote dir="rtl">
-  <p>
-التّفَثُ لِقاءُ الإمامِ
-  </p>
-</blockquote>
+> التّفَثُ لِقاءُ الإمامِ
 
 “’tafath’ means to meet the Imam.”[^78]
 
@@ -2786,22 +2242,14 @@ By meeting Imam Mahdi (as), darkness of ignorance turns into light of
 knowledge, virtues replace vices, and an inner purification comes about.
 About such people the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-اَلَّذِينَ آمَنُوا وَعَمِلُوا الْصَّاِلحَاتِ طُوبَى لَهُمْ وَحُسْنُ
-مَآبٍ
-  </p>
-</blockquote>
+> اَلَّذِينَ آمَنُوا وَعَمِلُوا الْصَّاِلحَاتِ طُوبَى لَهُمْ وَحُسْنُ
+> مَآبٍ
 
 ***“(As for) those who believe and do good, a good final state shall be
 theirs and a goodly return. (The Holy Qur’an; 13:29)”***
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَو أُنْثَى وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طّيَِبَةً
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحاً مِنْ ذَكَرٍ أَو أُنْثَى وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طّيَِبَةً
 
 ***“Whoever does good whether male or female and he is a believer, We
 will most certainly make him live a happy life. (The Holy Qur’an;
@@ -2809,11 +2257,7 @@ will most certainly make him live a happy life. (The Holy Qur’an;
 
 Hence, the Imam (as) drew people’s attention to their duties by saying:
 
-<blockquote dir="rtl">
-  <p>
-اِبدَؤوا بمَكَّةَ واخْتِموا بِنا
-  </p>
-</blockquote>
+> اِبدَؤوا بمَكَّةَ واخْتِموا بِنا
 
 “Begin your Hajj from Mecca and complete it with our visitation.”[^79]
 
@@ -2825,13 +2269,9 @@ purification and nothing more. Even their Eid will lost its true meaning
 and the sorrows of men of understanding will increase. In this relation,
 Abdullah ibn Dinar quotes Imam Baqir (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-ما مِنْ عيدٍ للمُسلمِينَ أضحى ولا فِطْرٍ إلاّ وهُو يَتَجدّدُ فيهِ لآلِ
-محَمَّدٍ صلّى الله عليهِ وآلهِ حُزنٌ... لأِنّهم يَرَونَ حَقَّهم في يدِ
-غيرِهِم.
-  </p>
-</blockquote>
+> ما مِنْ عيدٍ للمُسلمِينَ أضحى ولا فِطْرٍ إلاّ وهُو يَتَجدّدُ فيهِ لآلِ
+> محَمَّدٍ صلّى الله عليهِ وآلهِ حُزنٌ... لأِنّهم يَرَونَ حَقَّهم في يدِ
+> غيرِهِم.
 
 “There is no single Eid ul-Fitr or Eid ul-Adha in which Muslims do not
 renew their sorrows for the household of the Holy Prophet —the Ahl
@@ -2860,18 +2300,14 @@ Hence, as long as the Shiites are separate from their Imam, they keep on
 lamenting especially on the said occasions when their sorrows are
 renewed. A part of Duaa un-Nudba says:
 
-<blockquote dir="rtl">
-  <p>
-فَعَلى الأطائِبِ مِن أهلِ بيتِ محمَّدٍوعَلِيٍّ (صَلى اللهُ عَليهِما
-وآلهِما) فَليَبْكِ الباكونَ، وإيّاهُم فَلينْدِبِ النّادِبونَ،
-ولِمِثلِهِم فَلتُذرَفِ الدّموعُ ولْيصْرَخِ الصّارِخونَ ويضِجَّ
-الضّاجُّونَ ويعِجَّ العاجّونَ. أينَ الحسنُ أينَ الحُسينِ، أين أبناءُ
-الحُسينِ صالحٌ بعدَ صالحٍ وصادِقٌ بعدَ صادِقٍ. أينَ السبيلُ بعدَ
-السبيل،ِ أين الخِيَرَةُ بعدَ الخِيَرَةِ، أين الشّموسُ الطّالِعَةُ، أين
-الأقمارُ المُنيرةُ، أين الأنجُمُ الزّاهِرةُ، أين أعلامُ الدّينِ
-وقَواعِدُ العلمِ، أين بقِيّة ُاللهِ التي لا تخَلو مِن العترة الهادية.
-  </p>
-</blockquote>
+> فَعَلى الأطائِبِ مِن أهلِ بيتِ محمَّدٍوعَلِيٍّ (صَلى اللهُ عَليهِما
+> وآلهِما) فَليَبْكِ الباكونَ، وإيّاهُم فَلينْدِبِ النّادِبونَ،
+> ولِمِثلِهِم فَلتُذرَفِ الدّموعُ ولْيصْرَخِ الصّارِخونَ ويضِجَّ
+> الضّاجُّونَ ويعِجَّ العاجّونَ. أينَ الحسنُ أينَ الحُسينِ، أين أبناءُ
+> الحُسينِ صالحٌ بعدَ صالحٍ وصادِقٌ بعدَ صادِقٍ. أينَ السبيلُ بعدَ
+> السبيل،ِ أين الخِيَرَةُ بعدَ الخِيَرَةِ، أين الشّموسُ الطّالِعَةُ، أين
+> الأقمارُ المُنيرةُ، أين الأنجُمُ الزّاهِرةُ، أين أعلامُ الدّينِ
+> وقَواعِدُ العلمِ، أين بقِيّة ُاللهِ التي لا تخَلو مِن العترة الهادية.
 
 **For the purified ones of the progeny of Muhammad and ‘Ali (may peace
 be upon both of them and their progeny); the bewailers should cry and
@@ -2891,14 +2327,10 @@ the shade of the Imam (as) who will hoist the banner of monotheism, will
 put the world on the path of God under the light of his guidance, and
 will fill the world with security.
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَ أرِني الطّلعَةَ الرّشيدَةَ والغِرَّةَ الحَميدَةَ وأَكْحِل
-ناظِري بِنظرَةٍ مِني إلَيهِ وعَجِّلْ فَرَجَهُ وَسَهِّلْ مَخْرَجَهُ
-وَأَوْسِعْ مَنْهَجَهُ وَاسْلُكْ بي مَحَجَّتَهُ وأَنفِذْ أَمْرَهُ
-وَاشْدُدْ أَزْرَهُ
-  </p>
-</blockquote>
+> اَللّهُمَ أرِني الطّلعَةَ الرّشيدَةَ والغِرَّةَ الحَميدَةَ وأَكْحِل
+> ناظِري بِنظرَةٍ مِني إلَيهِ وعَجِّلْ فَرَجَهُ وَسَهِّلْ مَخْرَجَهُ
+> وَأَوْسِعْ مَنْهَجَهُ وَاسْلُكْ بي مَحَجَّتَهُ وأَنفِذْ أَمْرَهُ
+> وَاشْدُدْ أَزْرَهُ
 
 “O Allah, show me that illustrious countenance, and that illuminated
 forehead, enlighten my eyes with his visit, hasten his reappearance,
@@ -2925,13 +2357,9 @@ night. During Tashriq period—the three days following Eid ul-Adha, Ramy
 ul-Jamarat is obligatory. This topic has been mentioned in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا اسْمَ اللهَ في أَيَّامٍ مَعْدُودَاتٍ فَمَنْ تَعَجَّلَ فِي
-يَوْمَيْنِ فَلا إِثْمَ عَلَيْهِ وَمَنْ َتأَخَّرَ فَلا إِثْمَ عَلَيْهِ
-لِمَنِ اتَّقَى
-  </p>
-</blockquote>
+> وَاذْكُرُوا اسْمَ اللهَ في أَيَّامٍ مَعْدُودَاتٍ فَمَنْ تَعَجَّلَ فِي
+> يَوْمَيْنِ فَلا إِثْمَ عَلَيْهِ وَمَنْ َتأَخَّرَ فَلا إِثْمَ عَلَيْهِ
+> لِمَنِ اتَّقَى
 
 ***“And laud Allah during the numbered days; then whoever hastens off in
 two days, there is no blame on him and whoever remains behind, there is
@@ -2949,12 +2377,8 @@ understanding with brethren in faith from other Islamic sects and to
 remove any misunderstanding, which has been created among Muslims as a
 result of negative propaganda by the aliens.
 
-<blockquote dir="rtl">
-  <p>
-يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ فَاعْتَبِرُوا يَا أُولِي
-الأَبْصَارِ
-  </p>
-</blockquote>
+> يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ فَاعْتَبِرُوا يَا أُولِي
+> الأَبْصَارِ
 
 ***“They demolished their houses with their own hands. (The Holy Qur’an;
 58:2)”***
@@ -2972,13 +2396,9 @@ one Book, and Kiblah and standing side by side in congregational prayer
 and Hajj ranks are poled apart. This is the same danger the Holy Prophet
 (saw) expressed in his Farewell Hajj:
 
-<blockquote dir="rtl">
-  <p>
-فلا تَرجِعُنَّ بعدي كُفّاراً يضرِبُ بَعضُكُم رِقابَ بعضٍ، فإنّي قد
-تَركتُ فيكُم ما إنْ أخَذتم بهِ لن تَضِلوا: كتابَ اللهِ وعِترتي أهلَ
-بَيتي. ألا هَل بلّغتُ؟ اللّهُمَّ فَاشْهَدْ.
-  </p>
-</blockquote>
+> فلا تَرجِعُنَّ بعدي كُفّاراً يضرِبُ بَعضُكُم رِقابَ بعضٍ، فإنّي قد
+> تَركتُ فيكُم ما إنْ أخَذتم بهِ لن تَضِلوا: كتابَ اللهِ وعِترتي أهلَ
+> بَيتي. ألا هَل بلّغتُ؟ اللّهُمَّ فَاشْهَدْ.
 
 “O Muslims, do not convert to atheism after me by killing each other,
 for I have left with you two things—if you resort to them you will never
@@ -2990,15 +2410,11 @@ various situations so as to bring their hearts together in a bid to foil
 the aliens’ conspiracies. Staying in Mina makes Muslims from all over
 the world get to know one another, to feel that they are brethren:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُوا بِحَبْلِ اللهِ جَمِيعاً وَلا تَفَرَّقُوا، وَاذْكُرُوا
-نِعْمَةَ اللهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ
-قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَاناً وَكُنْتُمْ عَلَى
-شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا، كَذَلِكَ
-يُبَيِّنُ اللهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ.
-  </p>
-</blockquote>
+> وَاعْتَصِمُوا بِحَبْلِ اللهِ جَمِيعاً وَلا تَفَرَّقُوا، وَاذْكُرُوا
+> نِعْمَةَ اللهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ
+> قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَاناً وَكُنْتُمْ عَلَى
+> شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا، كَذَلِكَ
+> يُبَيِّنُ اللهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ.
 
 ***“And hold fast by the covenant of Allah all together and be not
 disunited, and remember the favor of Allah on you when you were enemies,
@@ -3007,13 +2423,9 @@ were on the brink of a pit of fire, then He saved you from it, thus does
 Allah make clear to you His communications that you may follow the right
 way. (The Holy Qur’an; 3:103)”***
 
-<blockquote dir="rtl">
-  <p>
-وَأَلَّفَ بَيْنَ قُلُوبِهِمْ، لَو أَنْفَقْتَ مَا فِي الأَرْضِ جَمِيعاً
-مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَكِنَّ اللهَ أَلَّفَ بَيْنَهُمْ
-إِنَّهُ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَأَلَّفَ بَيْنَ قُلُوبِهِمْ، لَو أَنْفَقْتَ مَا فِي الأَرْضِ جَمِيعاً
+> مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَكِنَّ اللهَ أَلَّفَ بَيْنَهُمْ
+> إِنَّهُ عَزِيزٌ حَكِيمٌ
 
 ***“…And united their hearts; had you spent all that is in the earth,
 you could not have united their hearts, but Allah united them; surely He
@@ -3030,14 +2442,10 @@ Another recommended act in Mina is communion with God in the heart of
 nights and under the sky of Mina, a chance that might rarely occur in
 one’s lifetime. Here is the warning of Imam ‘Ali (as):
 
-<blockquote dir="rtl">
-  <p>
-عِبادِ اللهِ، الآنِ فاعْمَلوا والألْسُنُ مُطلَقَةٌ والأبدانُ صَحيحَةٌ
-والأَعضاءُ لَدِنةٌ والمُنقَلَبُ فَسيحٌ والمجَالُ عَريضٌ قَبلَ إرْهاقِ
-الفَوتِ وحُلولِ المَوتِ فَحَقِّقوا عَليكُم نُزولَهُ ولا تَنتَظِروا
-قُدومَهُ.
-  </p>
-</blockquote>
+> عِبادِ اللهِ، الآنِ فاعْمَلوا والألْسُنُ مُطلَقَةٌ والأبدانُ صَحيحَةٌ
+> والأَعضاءُ لَدِنةٌ والمُنقَلَبُ فَسيحٌ والمجَالُ عَريضٌ قَبلَ إرْهاقِ
+> الفَوتِ وحُلولِ المَوتِ فَحَقِّقوا عَليكُم نُزولَهُ ولا تَنتَظِروا
+> قُدومَهُ.
 
 “O creatures of Allah, you should know now that you have to perform
 (good) acts, because (at present) your tongues are free, your bodies are
@@ -3048,22 +2456,14 @@ hereafter.”[^84]
 
 Imam Sadiq (as) used to go to the cemetery at night saying:
 
-<blockquote dir="rtl">
-  <p>
-يا أَهْلَ القُبُورِ، ما لي إذا دَعَوتُكُم لا تُجِيبونَ؟
-  </p>
-</blockquote>
+> يا أَهْلَ القُبُورِ، ما لي إذا دَعَوتُكُم لا تُجِيبونَ؟
 
 “O you who are in graves, how is it that I call you but you do not
 answer?”
 
 Then the Imam (as) would say:
 
-<blockquote dir="rtl">
-  <p>
-حِيلَ واللهِ بينَهُم وبَينَ الجَوابِ، وكَأَنّي أكُونُ مِثلَهُم
-  </p>
-</blockquote>
+> حِيلَ واللهِ بينَهُم وبَينَ الجَوابِ، وكَأَنّي أكُونُ مِثلَهُم
 
 “By Allah, there is a wall between them and answer making then unable to
 answer, I will be like them, too.”
@@ -3073,17 +2473,13 @@ until dawn.[^85]
 
 Here is another sermon of Imam ‘Ali (as):
 
-<blockquote dir="rtl">
-  <p>
-تَجَهَّزوا رَحِمَكُمُ اللهُ، فَقدْ نُودِيَ فيكُم بالرَّحيلِ. وأَقِلّوا
-العُرجَةَ عَلى الدّنيا وانْقَلِبوا بِصالِحِ ما بِحَضْرَتِكُم مِن
-الزّادِ، فإنَّ أمامَكُم عَقَبَةً كَؤوداً ومَنَازِلَ مَخوفَةً مَهولَةً
-لا بُدَّ مِن الورودِ عَليها والوُقوفِ عِندَها. واعلَموا أنَّ مَلاحِظَ
-المَنِيَّةِ نحوَكُم دائِبَةٌ وكَأَنَّكُم بمَخالِبِها وقَدْ نَشَبَتْ
-فيكم وقَدْ دَهَمَتْكُم فيها مُقَطِّعاتُ الأُمورِ ومُعضِلاتُ المحَذور
-فَقَطِّعوا عَلائِقَ الدّنيا واستَظْهِروا بِزادِ التَّقوى.
-  </p>
-</blockquote>
+> تَجَهَّزوا رَحِمَكُمُ اللهُ، فَقدْ نُودِيَ فيكُم بالرَّحيلِ. وأَقِلّوا
+> العُرجَةَ عَلى الدّنيا وانْقَلِبوا بِصالِحِ ما بِحَضْرَتِكُم مِن
+> الزّادِ، فإنَّ أمامَكُم عَقَبَةً كَؤوداً ومَنَازِلَ مَخوفَةً مَهولَةً
+> لا بُدَّ مِن الورودِ عَليها والوُقوفِ عِندَها. واعلَموا أنَّ مَلاحِظَ
+> المَنِيَّةِ نحوَكُم دائِبَةٌ وكَأَنَّكُم بمَخالِبِها وقَدْ نَشَبَتْ
+> فيكم وقَدْ دَهَمَتْكُم فيها مُقَطِّعاتُ الأُمورِ ومُعضِلاتُ المحَذور
+> فَقَطِّعوا عَلائِقَ الدّنيا واستَظْهِروا بِزادِ التَّقوى.
 
 “May Allah have mercy on you, provide yourselves for the journey because
 the call for departure has been announced. Regard your stay in the world
@@ -3099,12 +2495,8 @@ Allah’s fear.”[^86]
 
 The Holy Qur’an, too, recommends night communion with God:
 
-<blockquote dir="rtl">
-  <p>
-كَانُوا قَلِيلاً مِنَ اللَّيْلِ مَا يَهْجَعُونَ. وَبِالأَسْحَارِ هُمْ
-يَسْتَغْفِرُونَ.
-  </p>
-</blockquote>
+> كَانُوا قَلِيلاً مِنَ اللَّيْلِ مَا يَهْجَعُونَ. وَبِالأَسْحَارِ هُمْ
+> يَسْتَغْفِرُونَ.
 
 ***“They used to sleep but little in the night and in the morning they
 asked forgiveness. (51:17-8)”***
@@ -3113,13 +2505,9 @@ Therefore, pilgrims should rise up and have communion with God during
 these nights, which are replete with God’s mercy. Muhammad ibn Sinan
 quotes Imam Ridha’ (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-... العِلَّةُ التي مِن أجْلِها سُمِّيَتْ مِنَى مِنَىً أنَّ جِبرائِيلَ
-عَليهِ السلامُ قالَ هَناكَ: يا إِبراهِيمُ، تَمَنَّ عَلى رَبِّكَ ما
-شِئْتَ.
-  </p>
-</blockquote>
+> ... العِلَّةُ التي مِن أجْلِها سُمِّيَتْ مِنَى مِنَىً أنَّ جِبرائِيلَ
+> عَليهِ السلامُ قالَ هَناكَ: يا إِبراهِيمُ، تَمَنَّ عَلى رَبِّكَ ما
+> شِئْتَ.
 
 “The reason Mina[^87] is called so is that in this place Angel Gabriel
 told Prophet Ibrahim: Desire what you wish from your Lord.”[^88]
@@ -3131,17 +2519,13 @@ It is narrated that Imam Sadiq (as), when was asked about the philosophy
 of the pilgrims’ staying in al-Mash’ar and Mina before visiting God’s
 house, said:
 
-<blockquote dir="rtl">
-  <p>
-لأنَّ الكَعبةَ بَيتُ اللهِ والحَرَمَ حِجابُهُ والمَشعَرَ بابُهُ،
-فَلمّا أنْ قَصَدَهُ الزّائِرونَ وَقَفَهُم بِالبابِ حتّى أَذِنَ لهُم
-بالدُّخولِ. ثمَّ وَقَفَهُم بِالحِجابِ الثّاني وَهوَ مُزْدَلِفَةُ،
-فَلمَّا نَظَرَ إلى طُولِ تَضَرُّعِهِم أَمَرَهُمْ بِتقْريبِ قُربانِهِم.
-فَلمَّا قَرَّبوا قُربانَهم وقَضَوا تَفَثَهُم وتَطَهَّروا مِن الذّنوبِ
-الّتي كَانتْ لهُم حِجاباً دونَهُ أَمَرَهُم بِالزِّيارَةِ عَلى
-طَهارَةٍ.
-  </p>
-</blockquote>
+> لأنَّ الكَعبةَ بَيتُ اللهِ والحَرَمَ حِجابُهُ والمَشعَرَ بابُهُ،
+> فَلمّا أنْ قَصَدَهُ الزّائِرونَ وَقَفَهُم بِالبابِ حتّى أَذِنَ لهُم
+> بالدُّخولِ. ثمَّ وَقَفَهُم بِالحِجابِ الثّاني وَهوَ مُزْدَلِفَةُ،
+> فَلمَّا نَظَرَ إلى طُولِ تَضَرُّعِهِم أَمَرَهُمْ بِتقْريبِ قُربانِهِم.
+> فَلمَّا قَرَّبوا قُربانَهم وقَضَوا تَفَثَهُم وتَطَهَّروا مِن الذّنوبِ
+> الّتي كَانتْ لهُم حِجاباً دونَهُ أَمَرَهُم بِالزِّيارَةِ عَلى
+> طَهارَةٍ.
 
 “This is because the Kaaba is Allah’s House, the Sacred Mosque His veil,
 and al-Mash’ar His gate. When pilgrims intend to visit Allah’s House,
@@ -3155,12 +2539,8 @@ they are ordered to visit His sacred House.”
 The Imam (as) also answered the one who asked why it is blameworthy to
 fast on days of Tashriq:
 
-<blockquote dir="rtl">
-  <p>
-لأَنَّ القَومَ زُوّارُ اللهِ وهُم أضْيافُهُ وفي ضِيافَتِهِ، ولا
-يَنبَغي لِلضَّيفِ أنْ يَصومَ عِندَ مَن زارَهُ وأَضافَهُ.
-  </p>
-</blockquote>
+> لأَنَّ القَومَ زُوّارُ اللهِ وهُم أضْيافُهُ وفي ضِيافَتِهِ، ولا
+> يَنبَغي لِلضَّيفِ أنْ يَصومَ عِندَ مَن زارَهُ وأَضافَهُ.
 
 “Since all pilgrims are Allah’s guests and attend His feast, the guest
 should not fast in the House of the Host Who has invited him to His
@@ -3199,13 +2579,9 @@ God’s Hand and shrine for all prophets and Imams throughout history.
 
 Imam Sadiq (as) quotes the Holy Prophet (saw) as saying:
 
-<blockquote dir="rtl">
-  <p>
-طُوفوا بالبَيتِ واسْتَلِموا الرُّكْنَ فَإنَّهُ يَمينُ اللهِ في أَرضِهِ
-(يَصافِحُ بها خَلْقَهُ مُصافَحَةَ العَبدِ أو الدَّخيلِ ويَشهَدُ لمَن
-استَلَمَهُ بالمُوافاةِ.
-  </p>
-</blockquote>
+> طُوفوا بالبَيتِ واسْتَلِموا الرُّكْنَ فَإنَّهُ يَمينُ اللهِ في أَرضِهِ
+> (يَصافِحُ بها خَلْقَهُ مُصافَحَةَ العَبدِ أو الدَّخيلِ ويَشهَدُ لمَن
+> استَلَمَهُ بالمُوافاةِ.
 
 “Circumambulate the House and caress the Corner, for it is Allah’s right
 hand on the earth by which He shakes hand with His servants in the same
@@ -3285,39 +2661,27 @@ denied nor can any individual believing in the Holy Qur’an have the
 least doubt about them. The Holy Qur’an, this heavenly living evidence
 testifies that the rod of Moses turned into a serpent,
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ
-  </p>
-</blockquote>
+> فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ
 
 ***“So he threw his rod, then lo! It was a clear serpent. (The Holy
 Qur’an; 7:107),”***
 
 and the fire became cool for Ibrahim (as):
 
-<blockquote dir="rtl">
-  <p>
-, قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> , قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ
 
 ***“We said: O fire, be a comfort peace to Ibrahim. (The Holy Qur’an;
 21:69),”***
 
 or Jesus’ ability to bring the dead to life,
 
-<blockquote dir="rtl">
-  <p>
-وَرَسُولًا إِلَىٰ بَنِي إِسْرَائِيلَ أَنِّي قَدْ جِئْتُكُمْ بِآيَةٍ
-مِنْ رَبِّكُمْ ۖ أَنِّي أَخْلُقُ لَكُمْ مِنَ الطِّينِ كَهَيْئَةِ
-الطَّيْرِ فَأَنْفُخُ فِيهِ فَيَكُونُ طَيْرًا بِإِذْنِ اللَّهِ ۖ
-وَأُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ
-اللَّهِ ۖ وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي
-بُيُوتِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ
-مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَرَسُولًا إِلَىٰ بَنِي إِسْرَائِيلَ أَنِّي قَدْ جِئْتُكُمْ بِآيَةٍ
+> مِنْ رَبِّكُمْ ۖ أَنِّي أَخْلُقُ لَكُمْ مِنَ الطِّينِ كَهَيْئَةِ
+> الطَّيْرِ فَأَنْفُخُ فِيهِ فَيَكُونُ طَيْرًا بِإِذْنِ اللَّهِ ۖ
+> وَأُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ
+> اللَّهِ ۖ وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي
+> بُيُوتِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ
+> مُؤْمِنِينَ
 
 ***“That I have come to you with a sign from your Lord… and bring the
 dead to life. (The Holy Qur’an; 3:49)”***
@@ -3339,12 +2703,8 @@ relation between body and soul. All phenomena of this world are
 defective examples of the original truths and realities of that world.
 In this relation, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْ شَيْءٍ إلاّ عِنْدَنَا خَزَائِنُهُ وَمَا ننَزِّلُهُ إلاّ
-بِقَدَرٍ مَعْلُومٍ.
-  </p>
-</blockquote>
+> وَإِنْ مِنْ شَيْءٍ إلاّ عِنْدَنَا خَزَائِنُهُ وَمَا ننَزِّلُهُ إلاّ
+> بِقَدَرٍ مَعْلُومٍ.
 
 ***“There is not a thing but with us are the treasures of it; and We do
 not send it down but in a known measure. (15:21)”***
@@ -3353,12 +2713,8 @@ This Qur’anic verse indicates that all things have, beyond this world,
 infinite existence but when coming to this world, they are limited to
 certain measure. About the Holy Qur’an itself, God says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقُرْآنٌ كَرِيمٌ. فِي كِتَابٍ مَكْنُونٍ. لا يَمَسُّهُ إِلاّ
-الْمُطّهَّرُونَ. تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> إِنَّهُ لَقُرْآنٌ كَرِيمٌ. فِي كِتَابٍ مَكْنُونٍ. لا يَمَسُّهُ إِلاّ
+> الْمُطّهَّرُونَ. تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ.
 
 ***“Most surely, it is an honored Qur’an, in a book that is protected
 –hidden- none shall touch it save the purified ones. (The Holy Qur’an;
@@ -3368,24 +2724,16 @@ This Qur’anic Verse considers a world beyond this one and a form beyond
 the tangible form, for the truth of the Holy Qur’an. Elsewhere, the Holy
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ كَذَّبُوا بِمَا لَمْ يُحِيطُوا بِعِلْمِهِ وَلَمَّا يَأْتِهِمْ
-تَأْوِيلُهُ
-  </p>
-</blockquote>
+> بَلْ كَذَّبُوا بِمَا لَمْ يُحِيطُوا بِعِلْمِهِ وَلَمَّا يَأْتِهِمْ
+> تَأْوِيلُهُ
 
 ***“Nay, they reject that of which they have no comprehensive knowledge
 and the final sequel of it has not yet come to them. (10:39)”***
 
 The day of sequel is on the Day of Judgment:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنْكَ غِطَاؤُكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ.
-  </p>
-</blockquote>
+> لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنْكَ غِطَاؤُكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ.
 
 ***“Certainly, you were heedless of it, but now We have removed from you
 your veil, so your sight today is sharp. (50:22)”***
@@ -3395,20 +2743,16 @@ sequel, and face to which all beings return. One of these hadiths is
 related to the Holy Qur’an itself. Jaber quotes Imam Baqir (as) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-يجِيءُ القُرآنُ يومَ القِيامةِ في أحسَنِ مَنظورٍ إليهِ صورَةً
-فَيَمُرُّ بالمُسلمِينَ فيقولونَ: هذا الرّجُلُ منّا، فيُجاوِزُهُم إلى
-النّبيِّينَ فَيقولونَ: هو مِنّا، فيُجاوِزُهُم إلى المَلائِكَةِ
-المُقرَبِينَ فَيقولونَ: هُوَ منّا، حتّى ينتهِيَ إلى رَبِّ العِزة ِعزّ
-وجلّ فيقولُ: يا رَبُّ، فُلانُ بنُ فلانٍ أظمأتُ هواجِرَه وأسْهَرتُ
-ليلَهُ في دارِ الدّنيا، وفلانُ بنُ فلانٍ لم أظمأْ هَواجِرَهُ ولم
-أسْهَر ليلَه. فيقولُ تباركَ وتَعالى: أَدخِلهُم الجَنَّةَ على
-مَنازِلهِم، فَيَقومُ فَيتّبِعونَهُ فَيقولُ للمُؤمِنِ: إقْرأْ وارْقَ.
-(قال) فِيقرَأُ ويَرقى حتّى يبلُغَ كُلُّ رجُلٍ مِنهُم مَنزِلَتَهُ التي
-هِيَ له فَيَنْزِلهُا.
-  </p>
-</blockquote>
+> يجِيءُ القُرآنُ يومَ القِيامةِ في أحسَنِ مَنظورٍ إليهِ صورَةً
+> فَيَمُرُّ بالمُسلمِينَ فيقولونَ: هذا الرّجُلُ منّا، فيُجاوِزُهُم إلى
+> النّبيِّينَ فَيقولونَ: هو مِنّا، فيُجاوِزُهُم إلى المَلائِكَةِ
+> المُقرَبِينَ فَيقولونَ: هُوَ منّا، حتّى ينتهِيَ إلى رَبِّ العِزة ِعزّ
+> وجلّ فيقولُ: يا رَبُّ، فُلانُ بنُ فلانٍ أظمأتُ هواجِرَه وأسْهَرتُ
+> ليلَهُ في دارِ الدّنيا، وفلانُ بنُ فلانٍ لم أظمأْ هَواجِرَهُ ولم
+> أسْهَر ليلَه. فيقولُ تباركَ وتَعالى: أَدخِلهُم الجَنَّةَ على
+> مَنازِلهِم، فَيَقومُ فَيتّبِعونَهُ فَيقولُ للمُؤمِنِ: إقْرأْ وارْقَ.
+> (قال) فِيقرَأُ ويَرقى حتّى يبلُغَ كُلُّ رجُلٍ مِنهُم مَنزِلَتَهُ التي
+> هِيَ له فَيَنْزِلهُا.
 
 “On the Day of Judgment, the Holy Qur’an turning into the most handsome
 man will pass by Muslims. They will say: This man is ours. He then will
@@ -3450,23 +2794,15 @@ know that the same dead land and dry wood behind their dead features
 have living features, which they will show when ordered by God the Ever
 living the Self-Subsistence:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْ شَيْءٍ إِلاّ يُسَبِّحُ بِحَمْدِهِ وِلَكِنْ لاَ تَفْقَهُونَ
-تَسْبِيحَهُمْ.
-  </p>
-</blockquote>
+> وَإِنْ مِنْ شَيْءٍ إِلاّ يُسَبِّحُ بِحَمْدِهِ وِلَكِنْ لاَ تَفْقَهُونَ
+> تَسْبِيحَهُمْ.
 
 ***“And there is not a single thing but glorifies Him with His praise,
 but you do not understand their glorification. (The Holy Qur’an;
 17:44)”***
 
-<blockquote dir="rtl">
-  <p>
-فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ
-تُرْجَعُونَ
-  </p>
-</blockquote>
+> فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ
+> تُرْجَعُونَ
 
 ***“Therefore glory be to Him in Whose hand is the kingdom of all
 things, and to Him you shall be brought back. (The Holy Qur’an;
@@ -3498,11 +2834,7 @@ Black Stone and found a huge crowd. I came across a Shiite Muslim and
 asked him about my duty. He said, ‘You have no option but to caress the
 Black Stone.’”* The Imam (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إنْ وَجدتَهُ خالِياً وإلا فَسَلِّم مِن بَعيدٍ
-  </p>
-</blockquote>
+> إنْ وَجدتَهُ خالِياً وإلا فَسَلِّم مِن بَعيدٍ
 
 “Caress the Black Stone if there is empty space otherwise greet it from
 afar.”[^92]
@@ -3511,11 +2843,7 @@ Imam Ridha’ (as) was asked: Do pilgrims have to fight with one another
 over caressing the Black Stone when there is huge crowds?” The Imam (as)
 answered:
 
-<blockquote dir="rtl">
-  <p>
-إنْ كانَ كذلكَ فَأَومِ إليهِ إيمَاءً بِيدِكَ
-  </p>
-</blockquote>
+> إنْ كانَ كذلكَ فَأَومِ إليهِ إيمَاءً بِيدِكَ
 
 “When it is such, wave hand to it.”[^93]
 
@@ -3543,12 +2871,8 @@ Ishaq ibn Ammar narrated that Imam Sadiq (as) asked him, ‘O Ishaq, do
 you pray with the Sunni Muslims in mosques?’ ‘Yes, I do,’ answered I.
 The Imam (as) then said:
 
-<blockquote dir="rtl">
-  <p>
-صَلِّ مَعَهُم، فَإنَّ المُصَلّي مَعَهم في الصَّفِّ الأوَّلِ
-كالشَّاهِرِ سَيفَهُ في سبيلِ الله.
-  </p>
-</blockquote>
+> صَلِّ مَعَهُم، فَإنَّ المُصَلّي مَعَهم في الصَّفِّ الأوَّلِ
+> كالشَّاهِرِ سَيفَهُ في سبيلِ الله.
 
 ‘Pray with them, for whoever prays with them in the first rank (of the
 congregational prayer) is like a soldier who fights in the way of
@@ -3556,12 +2880,8 @@ Allah.’[^94]
 
 Hammad ibn Uthman quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلّى مَعَهُم في الصَّفِّ الأَوَّلِ كانَ كَمَنْ صَلّى خَلفَ
-رَسولِ اللهِ صَلّى اللهُ عليهِ وآلهِ في الصَّفِّ الأوَّلِ
-  </p>
-</blockquote>
+> مَنْ صَلّى مَعَهُم في الصَّفِّ الأَوَّلِ كانَ كَمَنْ صَلّى خَلفَ
+> رَسولِ اللهِ صَلّى اللهُ عليهِ وآلهِ في الصَّفِّ الأوَّلِ
 
 “He who performs prayer with them (the other Muslim sects) in the first
 rank –of the Congregational Prayer- is as if he participates in a
@@ -3570,16 +2890,12 @@ rank.”[^95]
 
 Shahham quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يا زَيدُ، خالِقوا النّاسَ بأخْلاقِهِم؛ صَلُّوا في مَساجِدِهِم وعُودُوا
-مَرْضَاهُم وَاشْهَدوا جَنائِزَهُم، وإِنِ اسْتَطَعْتُم أنْ تَكونوا
-الأئِمَّةَ والمُؤَذِّنينَ فَافعَلوا، فَإنَّكُم إذا فَعَلتُم ذلكَ قالوا
-هَؤلاءِ الجَعْفَرِيَّةُ رَحِمَ اللهُ جَعفَراً، ما كانَ أحْسَنَ ما
-يُؤَدِّبُ أصحابَهُ. وإذا تَرَكْتُم ذلكَ قالوا هَؤلاءِ الجَعْفَرِيَّةُ،
-فَعَلَ اللهُ بجَعْفَرٍ ما كانَ أسْوَأَ ما يُؤَدِّبُ أصحابَهُ.
-  </p>
-</blockquote>
+> يا زَيدُ، خالِقوا النّاسَ بأخْلاقِهِم؛ صَلُّوا في مَساجِدِهِم وعُودُوا
+> مَرْضَاهُم وَاشْهَدوا جَنائِزَهُم، وإِنِ اسْتَطَعْتُم أنْ تَكونوا
+> الأئِمَّةَ والمُؤَذِّنينَ فَافعَلوا، فَإنَّكُم إذا فَعَلتُم ذلكَ قالوا
+> هَؤلاءِ الجَعْفَرِيَّةُ رَحِمَ اللهُ جَعفَراً، ما كانَ أحْسَنَ ما
+> يُؤَدِّبُ أصحابَهُ. وإذا تَرَكْتُم ذلكَ قالوا هَؤلاءِ الجَعْفَرِيَّةُ،
+> فَعَلَ اللهُ بجَعْفَرٍ ما كانَ أسْوَأَ ما يُؤَدِّبُ أصحابَهُ.
 
 O Zeid, show good behavior towards them. Perform prayer in their
 mosques, visit their patients, take part in their funerals, and assume
@@ -3597,14 +2913,10 @@ the vicinity of God’s House. It is excellent opportunity to acquire
 happiness of the Hereafter during this period. Therefore, we should take
 a provision for the Day of Judgment.
 
-<blockquote dir="rtl">
-  <p>
-كَلاّ إِذَا دُكَّتِ الأَرْضُ دَكّاً دَكّاً. وَجَاءَ رَبُّكَ
-وَالْمَلَكُ صَفّاً صَفّاً. وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ
-يَتَذَكَّرُ الإِنْسَانُ وَأَنَّى لَهُ الذِّكْرَى. يَقُولُ يَا
-لَيْتَنِي قَدَّمْتُ لِحَيَاتِي.
-  </p>
-</blockquote>
+> كَلاّ إِذَا دُكَّتِ الأَرْضُ دَكّاً دَكّاً. وَجَاءَ رَبُّكَ
+> وَالْمَلَكُ صَفّاً صَفّاً. وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ
+> يَتَذَكَّرُ الإِنْسَانُ وَأَنَّى لَهُ الذِّكْرَى. يَقُولُ يَا
+> لَيْتَنِي قَدَّمْتُ لِحَيَاتِي.
 
 ***“Nay! When the earth is made to crumble to pieces and your Lord comes
 and also the angels in ranks and hell are made to appear on that day. On
@@ -3612,12 +2924,8 @@ that day shall man be mindful, and what shall being mindful then avail
 him? He shall say: O! Would that I had sent before for this my life!
 (The Holy Qur’an; 89:21-4)”***
 
-<blockquote dir="rtl">
-  <p>
-أَفَحَسِبْتُمْ أَنمَّا خَلَقْنَاكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا لا
-تُرْجَعُونَ.
-  </p>
-</blockquote>
+> أَفَحَسِبْتُمْ أَنمَّا خَلَقْنَاكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا لا
+> تُرْجَعُونَ.
 
 ***“What! Did you then think that We had created you in vain and that
 you shall not be returned to Us?(The Holy Qur’an; 23:115)”***
@@ -3629,34 +2937,22 @@ standing-place of Ibrahim and the Hijr Ismaeel.
 
 The Holy Prophet of Islam (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-اِستَكثِروا مِن الطّوافِ، فإنّهُ أقَلُّ شَيءٍ يوجَدُ في صَحائِفِكم
-يومَ القِيامَةِ.
-  </p>
-</blockquote>
+> اِستَكثِروا مِن الطّوافِ، فإنّهُ أقَلُّ شَيءٍ يوجَدُ في صَحائِفِكم
+> يومَ القِيامَةِ.
 
 “Circumambulate the Kaaba too much, for it is the least in the book of
 your deeds on the Day of Judgment.”[^97]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ لَيُباهي بالطّائِفين.
-  </p>
-</blockquote>
+> إنَّ اللهَ لَيُباهي بالطّائِفين.
 
 “Allah is proud of those who circumambulate the Kaaba.”[^98]
 
 Imam Ridha’ (as) says:
 
-<blockquote dir="rtl">
-  <p>
-يُستَحَبُّ أنْ يَطوفَ الرَّجُلُ مُقامَهُ بمَكَّةَ بِعَدِدِ أيّامِ
-السَّنَةِ ثَلاَثمِائَةٍ وَسِتِّينَ عَدَدَ أيّامِ السَّنَةِ، فَإنْ لم
-تَسْتَطِعْ فَثَلاَثمِائَةِ شَوطاً فَإنْ لم تَستَطِع فَأَكثِر مِن
-الطّوافِ ما أَقَمتَ بمَكَّةَ.
-  </p>
-</blockquote>
+> يُستَحَبُّ أنْ يَطوفَ الرَّجُلُ مُقامَهُ بمَكَّةَ بِعَدِدِ أيّامِ
+> السَّنَةِ ثَلاَثمِائَةٍ وَسِتِّينَ عَدَدَ أيّامِ السَّنَةِ، فَإنْ لم
+> تَسْتَطِعْ فَثَلاَثمِائَةِ شَوطاً فَإنْ لم تَستَطِع فَأَكثِر مِن
+> الطّوافِ ما أَقَمتَ بمَكَّةَ.
 
 “As long as one stays in Mecca, it is recommended to circumambulate as
 many as days of a year. If this is impossible, make it three hundred
@@ -3667,12 +2963,8 @@ times, and if this is also impossible, make it as many as possible.”
 Imam Ridha’ (as) quotes his honorable ancestors and Imam Baqir as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-صَلاةٌ في المَسجِدِ الحَرامِ أفضَلُ مِن مِائَةِ ألفِ صَلاةٍ في غَيرِهِ
-مِن المَساجِدِ.
-  </p>
-</blockquote>
+> صَلاةٌ في المَسجِدِ الحَرامِ أفضَلُ مِن مِائَةِ ألفِ صَلاةٍ في غَيرِهِ
+> مِن المَساجِدِ.
 
 “One Rakat of prayer in the Sacred Mosque is better than a hundred
 thousand Rakat of prayer in other mosques.”[^99]
@@ -3681,14 +2973,10 @@ thousand Rakat of prayer in other mosques.”[^99]
 
 Imam Baqir (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَن خَتَمَ القُرآنَ بمَكّةَ مِن جُمُعَةٍ إلى جُمُعَةٍ وأقَلَّ مِن ذلكَ
-وأكثَرَ وخَتَمَهُ في يَومِ الجُمعَةِ كَتَبَ اللهُ لهُ مِن الأجْرِ
-والحَسناتِ مِن أوّلِ جمُعَةٍ كانتْ في الدُّنيا إلى آخِرِ جمُعَةٍ تكونُ
-فِيها، وإنْ خَتَمهُ في سائِرِ الأيّامِ فكَذلكَ.
-  </p>
-</blockquote>
+> مَن خَتَمَ القُرآنَ بمَكّةَ مِن جُمُعَةٍ إلى جُمُعَةٍ وأقَلَّ مِن ذلكَ
+> وأكثَرَ وخَتَمَهُ في يَومِ الجُمعَةِ كَتَبَ اللهُ لهُ مِن الأجْرِ
+> والحَسناتِ مِن أوّلِ جمُعَةٍ كانتْ في الدُّنيا إلى آخِرِ جمُعَةٍ تكونُ
+> فِيها، وإنْ خَتَمهُ في سائِرِ الأيّامِ فكَذلكَ.
 
 “Whoever reads the whole Qur’an in Mecca within a week, less or more,
 and finishes it on Friday, Allah will write for him as many rewards as
@@ -3704,18 +2992,14 @@ in Mecca.
 Ibn-Uzaina reports that he asked Imam Sadiq (as) some questions and the
 Imam himself wrote down the answers:
 
-<blockquote dir="rtl">
-  <p>
-سَألْتُهُ عَن قَولِ الله عزّ وجلّ: وَللهِ عَلى النّاسِ حِجُّ البَيْتِ
-مَنِ اسْتَطاعَ إِليهِ سَبيلاً، (قال الإمامُ) يَعني بِهِ الحَجَّ
-والعُمرَةَ جَميعاً لأنَّهُما مَفروضانِ. وَسَألتُهُ عَن قولِ اللهِ عزّ
-وجَلّ: وَأَتِمُّوا الحَجَّ والعُمْرَةَ للهِ، قالَ (الإمامُ) يَعني
-بِتَمامِهِما أَدائَهُما وَاتِّقاءَ ما يَتَّقِي المُحْرِمُ فيهِما.
-وسَأَلتُهُ عَن قَولِ اللهِ عزّ وجَلّ: اَلْحَجُّ الأَكْبَرُ، فَقالَ:
-الحَجُّ الأكْبَرُ الوقُوفُ بِعَرَفَةَ ورَمْيُ الجِمارِ، والحَجُّ
-الأصْغَرُ العُمْرَةُ.
-  </p>
-</blockquote>
+> سَألْتُهُ عَن قَولِ الله عزّ وجلّ: وَللهِ عَلى النّاسِ حِجُّ البَيْتِ
+> مَنِ اسْتَطاعَ إِليهِ سَبيلاً، (قال الإمامُ) يَعني بِهِ الحَجَّ
+> والعُمرَةَ جَميعاً لأنَّهُما مَفروضانِ. وَسَألتُهُ عَن قولِ اللهِ عزّ
+> وجَلّ: وَأَتِمُّوا الحَجَّ والعُمْرَةَ للهِ، قالَ (الإمامُ) يَعني
+> بِتَمامِهِما أَدائَهُما وَاتِّقاءَ ما يَتَّقِي المُحْرِمُ فيهِما.
+> وسَأَلتُهُ عَن قَولِ اللهِ عزّ وجَلّ: اَلْحَجُّ الأَكْبَرُ، فَقالَ:
+> الحَجُّ الأكْبَرُ الوقُوفُ بِعَرَفَةَ ورَمْيُ الجِمارِ، والحَجُّ
+> الأصْغَرُ العُمْرَةُ.
 
 “I asked him about God’s saying,
 
@@ -3746,13 +3030,9 @@ Ibn-Ammar narrates that he asked Imam Sadiq (as) whether it is
 acceptable to include his parents and brothers with his performance of
 Hajj though they all performed Hajj. The Imam (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِجْعِلهُم مَعَكَ، فَإنَّ اللهَ تَعالى جَاعِلٌ لهُم حَجّاً وَلكَ
-حَجّاً ولَكَ أَجْراً بِصِلَتِكَ إياهُم. يَدخُلُ عَلى المَيِّتِ في
-قَبرِهِ الصّلاةُ والصَّومُ والحَجُّ والصّدَقَةُ والعِتْقُ.
-  </p>
-</blockquote>
+> إِجْعِلهُم مَعَكَ، فَإنَّ اللهَ تَعالى جَاعِلٌ لهُم حَجّاً وَلكَ
+> حَجّاً ولَكَ أَجْراً بِصِلَتِكَ إياهُم. يَدخُلُ عَلى المَيِّتِ في
+> قَبرِهِ الصّلاةُ والصَّومُ والحَجُّ والصّدَقَةُ والعِتْقُ.
 
 “Include them with your Hajj, for Allah the Exalted will write to them
 and you the rewards of performance of Hajj and, additionally, you will
@@ -3969,5 +3249,4 @@ culmination of the annual pilgrimage (Hajj) to Mecca.
 [^101]: See al-Wafi; vol. 2 section: Hajj p. 47
 
 [^102]: See al-Wafi; vol. 2 section: Hajj p. 57
-
 

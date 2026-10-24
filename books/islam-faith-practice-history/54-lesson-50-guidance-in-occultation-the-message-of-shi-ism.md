@@ -174,4 +174,3 @@ of Occultation?
 Question 3: [20 points]  
  Briefly describe in one paragraph the spiritual message of Shi‘ism.
 
-

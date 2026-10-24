@@ -11,4 +11,3 @@ Yes, one of the etiquettes and morals of Islam is that when ever we meet
 each other one should first greet with salaam and the other should reply
 to it.
 
-

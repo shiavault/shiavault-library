@@ -45,4 +45,3 @@ devoid of benefits for His creation also, they will become aimless,
 which is rationally not commendable. The Sunnis deny this, because of
 their stand about rational merit or demerit.
 
-

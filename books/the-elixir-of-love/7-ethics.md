@@ -174,4 +174,3 @@ three, part 3, "The Pitfall of Love toward God."
 
 [^4]: Meaning, "goodbye".
 
-

@@ -79,4 +79,3 @@ At present we only want to point out that the sequence of causes and
 effects in the world is not confined to material and perceptible
 phenomena.
 
-

@@ -84,4 +84,3 @@ actuate my body with Qur’an, enlighten my sight with Qur’an, liberate my
 tongue by Qur’an, and help me to mould my life according to Qur’an, so
 long as You make me live”.**
 
-

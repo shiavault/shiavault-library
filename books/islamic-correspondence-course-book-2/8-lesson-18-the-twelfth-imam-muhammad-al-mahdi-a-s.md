@@ -196,4 +196,3 @@ Someone who believes in the power of God and in the miracles of the
 prophets cannot have the slightest objection to the length of Imam
 Mahdi's life.
 
-

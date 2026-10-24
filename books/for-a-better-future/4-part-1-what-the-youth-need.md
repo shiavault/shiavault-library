@@ -4475,4 +4475,3 @@ that give the words spoken by the Prophet (s). The words of Allah in the
 Qudsi traditions are different from the Holy Qur’an that was revealed
 through Gabriel.
 
-

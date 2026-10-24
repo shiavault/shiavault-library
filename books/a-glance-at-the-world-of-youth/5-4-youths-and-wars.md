@@ -437,4 +437,3 @@ capability which the Holy Qur'an calls for. Therefore, it is necessary
 for the generation of youths to exercise and enjoy power free from
 liquidity and idleness.
 
-

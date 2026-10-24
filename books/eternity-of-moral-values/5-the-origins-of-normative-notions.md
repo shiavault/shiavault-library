@@ -151,4 +151,3 @@ that \`good' arises from it. "It is good to do so" signifies a kind of
 inclination towards something and it is as if one were attributing
 objective and concrete qualities to human actions.
 
-

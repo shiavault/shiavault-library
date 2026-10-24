@@ -543,4 +543,3 @@ Majah, Book on the Introduction, 112 and 118; Musnad Ahmad ibn Hanbal
 
 [^15]: Kanz al-Ummal \#14950.
 
-

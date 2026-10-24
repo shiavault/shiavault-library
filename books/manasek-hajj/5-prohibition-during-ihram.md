@@ -885,4 +885,3 @@ sufficient even though one should do so as a matter of caution and in
 both situations, it is obligatory on him to repeat the Hajj in the
 following year.
 
-

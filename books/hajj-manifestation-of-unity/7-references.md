@@ -40,4 +40,3 @@ Conference of IslamicUnity, July, 1995
 
 [^15]: Sahifeh e Imam, vol. 6, p. 133
 
-

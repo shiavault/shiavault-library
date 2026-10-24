@@ -25,4 +25,3 @@ become a Muslim and given this house to my wife.”[^1]
 
 [^1]: Biharul Anwar; Vol. 44, Pg. 194; Manaqib, Vol. 3, Pg. 229
 
-

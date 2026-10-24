@@ -81,4 +81,3 @@ martyrdom in 148 hijra.
 
 [^2]: Ibid, p. 136, Tradition 186
 
-

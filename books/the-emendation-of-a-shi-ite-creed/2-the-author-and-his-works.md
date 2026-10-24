@@ -590,4 +590,3 @@ an-Najaf al- Ashraf, (Iraq), Maktabat Muhsin al-Hakim, fol. 14.
 
 [^73]: Goldziher, I., op. cit., p.222.
 
-

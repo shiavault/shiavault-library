@@ -193,4 +193,3 @@ any different from the day when you do not fast."
 
 [^2]: Acronyms for Alahis-Salam, peace be upon him.
 
-

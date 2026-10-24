@@ -1016,4 +1016,3 @@ kind. In fact it is an obligatory act and its omission is Harām.
 
 [^35]: Mustadrak ul-Wasa’il
 
-

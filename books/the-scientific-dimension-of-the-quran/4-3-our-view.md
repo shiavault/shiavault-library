@@ -61,4 +61,3 @@ that message rather than contenting themselves with the miraculous
 aspects of the Qur’an in the scientific domain or its consistency with
 contemporary science.
 
-

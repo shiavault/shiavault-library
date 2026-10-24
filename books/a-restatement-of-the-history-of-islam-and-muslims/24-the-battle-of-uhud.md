@@ -664,4 +664,3 @@ Islam. Though victorious in the battle, the Quraysh were unable to
 follow up and to exploit their victory, and their gains were soon
 dissipated.
 
-

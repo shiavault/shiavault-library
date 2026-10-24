@@ -30,4 +30,3 @@ is probably a complement to this tradition. It is also probable that
 they are ibn al-Khashshāb’s words which he has derived from hadith
 books; Yanābī\`’ al-mawadda, chap. 94, p. 491.
 
-

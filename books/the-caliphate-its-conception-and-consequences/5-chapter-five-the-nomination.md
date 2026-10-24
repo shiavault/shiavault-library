@@ -71,7 +71,6 @@ despair and disappointment stared Muhammad in the face, proves
 conclusively the sincerity of his heart and the truth of his mission. We
 proceed to describe this very important event.
 
-
 **THE ANNOUNCEMENT AT THE FEAST:**
 
 Ali's Caliphate was announced at the same meeting and at the same time,
@@ -202,7 +201,6 @@ had been established.
 the NUBUWWA of Muhammad, as no one except a prophet could have known at
 that time this boy of fourteen would prove himself worthy of this great
 task being entrusted to him at such a tender age.
-
 
 **The Condition For The Making Of an Ideal Caliph**
 
@@ -480,7 +478,6 @@ and a staunch faith in his infallibility as a messenger of God. It can
 therefore be rightly said that the love of hatred of Ali, more than
 anything else, has correctly exposed the innermost recesses of the
 Muslims' hearts, both then and for all time to come.
-
 
 **MUHAMMAD'S TREATMENT OF ALI AS HIS HEIR AND SUCCESSOR:**
 
@@ -1189,7 +1186,6 @@ Prophet (P) loved Imam Ali the most.
 The Prophet (P) described himself and Imam Ali as "Two fathers of the
 UMMA" in the following saying:
 
-
 "Ali has the same rights on you as I have. God has enjoined upon you to
 obey me, and has warned you against setting my authority at naught.
 Similarly, he has enjoined upon you to obey Ali, and has warned you
@@ -1197,5 +1193,4 @@ against setting his authority at naught. Ali is my WASI and heir. He is
 the master and ruler of all the Muslim men and women, as I am. Love of
 him is the faith; enmity of him is KUFR. He and I are the two fathers of
 the UMMA".
-
 

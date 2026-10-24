@@ -30,10 +30,8 @@ parts
 The tyrant rulers of his age: Nine persons from Yazeed up to Hasham bin
 Abdul Malik the Tenth caliph of Bani Ommaides.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام زين العابدين عليه السلام
 ------------------------------------------------
-</p>
 
 1 سُبحانَ مَن جَعَلَ الإعتِرافَ بِالنِّعمَةِ لَهُ حَمداً، سُبحانَ مَن
 جَعَلَ الإعتِرافَ بِالعَجزِ عَنِ الشُّکرِ شُکراً. (بحارالانوار ج78 ص142)
@@ -571,5 +569,4 @@ will become forfeited &. false &. you will get unable &. incapable to
 reply &. will get the news of fire &. the angels of chastisement &.
 torment will recieve you with the boiling hot water &. the fuming &.
 flaming hell. (TUHfUL AQOOL P 249-250)
-
 

@@ -157,4 +157,3 @@ In the years to come, the creative synergy of Muhammad and Ali – the
 master and the disciple – was going to place the “Kingdom of Heaven” on
 the map of the world.
 
-

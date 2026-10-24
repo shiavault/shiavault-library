@@ -517,7 +517,5 @@ al-Isbahani (d. 430), in "Ma Nazala min al-Quran fi Ali"
 Here is the Arabic text of the above highlighted piece from the poem of
 Hassan Ibn Thabit:
 
-
 End of part 3 of 3
-
 

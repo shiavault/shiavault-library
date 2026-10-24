@@ -248,4 +248,3 @@ the sound.
 These narrations can be read in Sunan Ibn Majah 1:11 H. 25, Musnad Ahmad
 ibn Hanbal 4:370 H. 19323, 19324...
 
-

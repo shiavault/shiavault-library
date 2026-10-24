@@ -4,13 +4,9 @@ Section 9: Guidance from the Bounties of Allah for Man
 Surah An-Nahl – Verse 66
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّ لَكُمْ فِي الاَنْعَامِ لَعِبْرَةً نُسْقِيكُم مِمَّا فِي
-بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَناً خَالِصاً سَآئِغاً
-لِلشَّارِبِينَ
-  </p>
-</blockquote>
+> وإِنَّ لَكُمْ فِي الاَنْعَامِ لَعِبْرَةً نُسْقِيكُم مِمَّا فِي
+> بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَناً خَالِصاً سَآئِغاً
+> لِلشَّارِبِينَ
 
 ***66. “And verily there is a lesson laid out for you in the cattle; We
 give you to drink of what is in their bellies from between the digested
@@ -116,12 +112,8 @@ It says:
 Surah An-Nahl – Verse 67
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِن ثَمَرَاتِ النَّخِيلِ وَالاَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَراً
-وَرِزْقاً حَسَناً إِنَّ فِي ذَلِكَ لاَيَةً لِقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمِن ثَمَرَاتِ النَّخِيلِ وَالاَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَراً
+> وَرِزْقاً حَسَناً إِنَّ فِي ذَلِكَ لاَيَةً لِقَوْمٍ يَعْقِلُونَ
 
 ***67. “And of the fruits of the palm and the vines, you get out
 therefrom (drinks of) intoxication and (also) goodly sustenance. Verily
@@ -157,12 +149,8 @@ sign in that for a people who understand.”***
 Surah An-Nahl – Verse 68
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْحَي رَبُّكَ إِلَي النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
-بُيُوتاً وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ
-  </p>
-</blockquote>
+> وَأَوْحَي رَبُّكَ إِلَي النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ
+> بُيُوتاً وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ
 
 ***68. “And your Lord revealed to the Bee (an instinctive revelation) to
 build cells in the mountains and in the trees and in what they (men)
@@ -240,13 +228,9 @@ fed by artificial sugary substances.
 Surah An-Nahl – Verse 69
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ
-يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ
-لِّلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ
+> يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ
+> لِّلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ
 
 ***69. “Then eat out of all the fruits, and pave the ways of your Lord
 sincerely. There comes forth out of their bellies a drink of varying
@@ -341,13 +325,9 @@ several minutes to thinking about it.
 Surah An-Nahl – Verse 70
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ وَمِنكُم مَن يُرَدُّ إِلَي
-أَرْذَلِ الْعُمُرِ لِكَي لاَ يَعْلَمَ بَعْدَ عِلْمٍ شَيْئاً إِنَّ
-اللَّهَ عَلِيمٌ قَدِيرٌ
-  </p>
-</blockquote>
+> وَاللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ وَمِنكُم مَن يُرَدُّ إِلَي
+> أَرْذَلِ الْعُمُرِ لِكَي لاَ يَعْلَمَ بَعْدَ عِلْمٍ شَيْئاً إِنَّ
+> اللَّهَ عَلِيمٌ قَدِيرٌ
 
 ***70. “And Allah has created you, then He will cause you to die, and
 some of you will be kept back unto lowest state of the age, so that
@@ -413,5 +393,4 @@ appropriate and He will take back whenever He feels fit.
 [^7]: Surah Al-Baqarah, No. 2, verse 172
 
 [^8]: Surah Al-’An‘am, No. 6, verse 141
-
 

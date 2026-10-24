@@ -39,4 +39,3 @@ more would be his endeavours in praying for Imam (a.t.f.s.).”*[^3]
 
 [^3]: Kanz-ul-Ghanaem/52 & 53
 
-

@@ -5,68 +5,44 @@ Hell is a place in another world where the sinners would be punished
 with various kinds of chastisements. The Holy Quran has mentioned is as
 ‘jahannam’ and ‘jaheem’. Please pay attention to the following verses:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِّلَّذِينَ كَفَرُواْ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَى‏
-جَهَنَّمَ وَبِئْسَ الْمِهَادُ
-  </p>
-</blockquote>
+> قُلْ لِّلَّذِينَ كَفَرُواْ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَى‏
+> جَهَنَّمَ وَبِئْسَ الْمِهَادُ
 
 ***Say to those who disbelieve: You shall be vanquished, and driven
 together to hell; and evil is the resting-place. (3:12)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ جَامِعُ الْمُنَفِقِينَ وَالْكَفِرينَ فِى جَهَنَّمَ
-جَمِيعاً
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ جَامِعُ الْمُنَفِقِينَ وَالْكَفِرينَ فِى جَهَنَّمَ
+> جَمِيعاً
 
 ***…surely Allah will gather together the hypocrites and the unbelievers
 all in hell. (4:140)***
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الْمُنَفِقِينَ وَالْمُنَفِقَتِ وَالْكُفَّارَ نَارَ
-جَهَنَّمَ خَلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ اللَّهُ
-وَلَهُمْ عَذَابٌ مُّقِيمٌ‏
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الْمُنَفِقِينَ وَالْمُنَفِقَتِ وَالْكُفَّارَ نَارَ
+> جَهَنَّمَ خَلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ اللَّهُ
+> وَلَهُمْ عَذَابٌ مُّقِيمٌ‏
 
 ***Allah has promised the hypocritical men and the hypocritical women
 and the unbelievers the fire of hell to abide therein; it is enough for
 them; and Allah has cursed them and they shall have lasting punishment.
 (9:68)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ مَن يَأْتِ رَبَّهُ مُجْرِماً فَإِنَّ لَهُ جَهَنَّمُ لَا
-يَمُوتُ فِيهَا وَلَا يَحْيَى‏
-  </p>
-</blockquote>
+> إِنَّهُ مَن يَأْتِ رَبَّهُ مُجْرِماً فَإِنَّ لَهُ جَهَنَّمُ لَا
+> يَمُوتُ فِيهَا وَلَا يَحْيَى‏
 
 ***Whoever comes to his Lord (being) guilty, for him is surely hell; he
 shall not die therein, nor shall he live. (20:74)***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُواْ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَى‏ عَلَيْهِمْ
-فَيَمُوتُواْ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَ لِكَ
-نَجْزِى كُلَّ كَفُورٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُواْ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَى‏ عَلَيْهِمْ
+> فَيَمُوتُواْ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَ لِكَ
+> نَجْزِى كُلَّ كَفُورٍ
 
 ***And (as for) those who disbelieve, for them is the fire of hell; it
 shall not be finished with them entirely so that they should die, nor
 shall the chastisement thereof be lightened to them: even thus do We
 retribute every ungrateful one. (35:36)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِى أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ‏
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِى أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ‏
 
 ***And your Lord says: Call upon Me, I will answer you; surely those who
 are too proud for My service shall soon enter hell abased. (40:60)***
@@ -84,22 +60,14 @@ The most important chastisement of Hell is the chastisement of fire;
 that is why Hell is also mentioned in numerous verses of Quran as Fire;
 for example:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بَِايَتِنَآ أُولَئِكَ أَصْحَبُ
-النَّارِ هُمْ فِيهَا خَلِدوُنَ‏
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بَِايَتِنَآ أُولَئِكَ أَصْحَبُ
+> النَّارِ هُمْ فِيهَا خَلِدوُنَ‏
 
 ***And (as to) those who disbelieve in and reject My communications,
 they are the inmates of the fire, in it they shall abide. (2:39)***
 
-<blockquote dir="rtl">
-  <p>
-بَلَى‏ مَن كَسَبَ سَيِّئَةً وَأَحَطَتْ بِهِ خَطِيئَتُهُ فأُوْلَئِكَ
-أَصْحَبُ النَّارِ هُمْ فِيهَا خَلِدُونَ‏
-  </p>
-</blockquote>
+> بَلَى‏ مَن كَسَبَ سَيِّئَةً وَأَحَطَتْ بِهِ خَطِيئَتُهُ فأُوْلَئِكَ
+> أَصْحَبُ النَّارِ هُمْ فِيهَا خَلِدُونَ‏
 
 ***Yea! whoever earns evil and his sins beset him on every side, these
 are the inmates of the fire; in it they shall abide. (2:81)***
@@ -112,26 +80,18 @@ Food of the Folks of Hell
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّآ أَعْتَدْنَا لِلظَّلِمِينَ نَاراً أَحَاطَ بِهِمْ سُرَادِقُهَا
-وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَالْمُهْلِ يَشْوِى الْوُجُوهَ
-بِئْسَ الشَّرَابُ وَ سَآءَتْ مُرْتَفَقاً
-  </p>
-</blockquote>
+> إِنَّآ أَعْتَدْنَا لِلظَّلِمِينَ نَاراً أَحَاطَ بِهِمْ سُرَادِقُهَا
+> وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَالْمُهْلِ يَشْوِى الْوُجُوهَ
+> بِئْسَ الشَّرَابُ وَ سَآءَتْ مُرْتَفَقاً
 
 ***Surely We have prepared for the iniquitous a fire, the curtains of
 which shall encompass them about; and if they cry for water, they shall
 be given water like molten brass which will scald their faces; evil the
 drink… (18:29)***
 
-<blockquote dir="rtl">
-  <p>
-مِّن وَرَآئِهِ جَهَنَّمُ وَيُسْقَى‏ مِن مَّآءٍ صَدِيدٍ \*
-يَتَجَرَّعُهُ وَلَا يَكَادُ يُسِيغُهُ وَيَأْتِيهِ الْمَوْتُ مِن كُلِّ
-مَكَانٍ وَ مَا هُوَ بِمَيِّتٍ وَمِن وَرَآئِهِ عَذَابٌ غَلِيظٌ
-  </p>
-</blockquote>
+> مِّن وَرَآئِهِ جَهَنَّمُ وَيُسْقَى‏ مِن مَّآءٍ صَدِيدٍ \*
+> يَتَجَرَّعُهُ وَلَا يَكَادُ يُسِيغُهُ وَيَأْتِيهِ الْمَوْتُ مِن كُلِّ
+> مَكَانٍ وَ مَا هُوَ بِمَيِّتٍ وَمِن وَرَآئِهِ عَذَابٌ غَلِيظٌ
 
 ***Hell is before him and he shall be given to drink of festering water:
 He will drink it little by little and will not be able to swallow it
@@ -139,12 +99,8 @@ agreeably, and death will come to him from every quarter, but he shall
 not die; and there shall be vehement chastisement before him.
 (14:16-17)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَجَرَتَ الزَّقُّومِ \* طَعَامُ الْأَثِيمِ \* كَالْمُهْلِ
-يَغْلِى فِى الْبُطُونِ \* كَغَلْىِ الْحَمِيمِ‏
-  </p>
-</blockquote>
+> إِنَّ شَجَرَتَ الزَّقُّومِ \* طَعَامُ الْأَثِيمِ \* كَالْمُهْلِ
+> يَغْلِى فِى الْبُطُونِ \* كَغَلْىِ الْحَمِيمِ‏
 
 ***Surely the tree of the Zaqqum is the food of the sinful, like dregs
 of oil; it shall boil in (their) bellies, like the boiling of hot water.
@@ -155,14 +111,10 @@ Dress of the Folks of Hell
 
 The Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-هَذَانِ خَصْمَانِ اخْتَصَمُواْ فِى رَبِّهِمْ فَالَّذِينَ كَفَرُواْ
-قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ
-الْحَميِمُ‏ \* يُصْهَرُ بِهِ مَا فِى بُطُونِهِمْ وَالْجُلُودُ \*
-وَلَهُم مَّقَمِعُ مِنْ حَدِيدٍ
-  </p>
-</blockquote>
+> هَذَانِ خَصْمَانِ اخْتَصَمُواْ فِى رَبِّهِمْ فَالَّذِينَ كَفَرُواْ
+> قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ
+> الْحَميِمُ‏ \* يُصْهَرُ بِهِ مَا فِى بُطُونِهِمْ وَالْجُلُودُ \*
+> وَلَهُم مَّقَمِعُ مِنْ حَدِيدٍ
 
 ***As to those who disbelieve, for them are cut out garments of fire,
 boiling water shall be poured over their heads with it shall be melted
@@ -179,36 +131,24 @@ not present in the world.
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُواْ النَّارَ الَّتِى وَقُودُهَا النَّاسُ وَ الْحِجَارَةُ
-أُعِدَّتْ لِلْكَفِرينَ‏
-  </p>
-</blockquote>
+> فَاتَّقُواْ النَّارَ الَّتِى وَقُودُهَا النَّاسُ وَ الْحِجَارَةُ
+> أُعِدَّتْ لِلْكَفِرينَ‏
 
 ***…then be on your guard against the fire of which men and stones are
 the fuel; it is prepared for the unbelievers. (Surah Baqarah 2:24)***
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ آمَنُواْ قُواْ أَنفُسَكُمْ وَأَهْلِيكُمْ نَاراً
-وَقُودُهَا النَّاسُ وَ الْحِجَارَةُ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ آمَنُواْ قُواْ أَنفُسَكُمْ وَأَهْلِيكُمْ نَاراً
+> وَقُودُهَا النَّاسُ وَ الْحِجَارَةُ
 
 ***O you who believe! save yourselves and your families from a fire
 whose fuel is men and stones… (66:6)***
 
 And He further says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ
-لَهَا وَ رِدُونَ‏
-  </p>
-</blockquote>
+> إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ
+> لَهَا وَ رِدُونَ‏
 
 ***Surely you and what you worship besides Allah are the firewood of
 hell; to it you shall come. (21:98)***
@@ -219,12 +159,8 @@ Hell and such a thing is not present in the fire of the world.
 
 In the Holy Quran, the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَ لَ الْيَتَمَى ظُلْماً إِنَّمَا
-يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَ لَ الْيَتَمَى ظُلْماً إِنَّمَا
+> يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
 
 ***(As for) those who swallow the property of the orphans unjustly,
 surely they only swallow fire into their bellies and they shall enter
@@ -232,15 +168,11 @@ burning fire. (4:10)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَ الْفِضَّةَ وَلَا يُنفِقُونَهَا
-فِى سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذابٍ أَلِيمٍ‏ \* يَوْمَ يُحْمَى‏
-عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَى‏ بِهَا جِبَاهُهُمْ وَ
-جُنُوبُهُمْ وَ ظُهُورُهُمْ هَذاَ مَا كَنَزْتُمْ لِأَنْفُسِكُمْ
-فَذُوقُواْ مَا كُنْتُمْ تَكْنِزُونَ‏
-  </p>
-</blockquote>
+> وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَ الْفِضَّةَ وَلَا يُنفِقُونَهَا
+> فِى سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذابٍ أَلِيمٍ‏ \* يَوْمَ يُحْمَى‏
+> عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَى‏ بِهَا جِبَاهُهُمْ وَ
+> جُنُوبُهُمْ وَ ظُهُورُهُمْ هَذاَ مَا كَنَزْتُمْ لِأَنْفُسِكُمْ
+> فَذُوقُواْ مَا كُنْتُمْ تَكْنِزُونَ‏
 
 ***…and (as for) those who hoard up gold and silver and do not spend it
 in Allah’s way, announce to them a painful chastisement. On the day when
@@ -255,13 +187,9 @@ silver is mentioned as means of punishment. The hoarder would exclaim:
 
 The Holy Quran says with regard to punishment of the folks of Hell:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُواْ بَِايَتِنَا سَوْفَ نُصْلِيهِمْ نَاراً
-كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَهُمْ جُلُوداً غَيْرَهَا
-لِيَذُوقُواْ الْعَذَابَ إِنَّ اللَّهَ كَانَ عَزِيزاً حَكِيماً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُواْ بَِايَتِنَا سَوْفَ نُصْلِيهِمْ نَاراً
+> كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَهُمْ جُلُوداً غَيْرَهَا
+> لِيَذُوقُواْ الْعَذَابَ إِنَّ اللَّهَ كَانَ عَزِيزاً حَكِيماً
 
 ***(As for) those who disbelieve in Our communications, We shall make
 them enter fire; so oft as their skins are thoroughly burned, We will
@@ -274,12 +202,8 @@ like the body in the world. Fires of the world scorch the body of man
 and not his soul and mind; but Holy Quran says: Fire of Hell would reach
 up to the soul of man and scorch his conscience. Quran says:
 
-<blockquote dir="rtl">
-  <p>
-نَارُ اللَّهِ الْمُوقَدَةُ \* الَّتِى تَطَّلِعُ عَلَى الْأَفْئِدَةِ \*
-إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ \* فِى عَمَدٍ مُّمَدَّدَةٍ
-  </p>
-</blockquote>
+> نَارُ اللَّهِ الْمُوقَدَةُ \* الَّتِى تَطَّلِعُ عَلَى الْأَفْئِدَةِ \*
+> إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ \* فِى عَمَدٍ مُّمَدَّدَةٍ
 
 ***It is the fire kindled by Allah, which rises above the hearts. Surely
 it shall be closed over upon them in extended columns. (104:6-9)***
@@ -303,12 +227,8 @@ nothing but the essence of your evil deeds; darkness and loneliness of
 the grave and purgatory is not but the shadow of oppressive invalid
 morals of man:
 
-<blockquote dir="rtl">
-  <p>
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُ \* وَمَن يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرّاً يَرَهُ‏
-  </p>
-</blockquote>
+> فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُ \* وَمَن يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرّاً يَرَهُ‏
 
 ***So he who has done an atom’s weight of good shall see it. And he who
 has done an atom’s weight of evil shall see it. (99:7-8)***[^1]
@@ -330,12 +250,8 @@ And he also says:
 The Almighty Allah informs in the Book revealed by Him in the holy
 verse:
 
-<blockquote dir="rtl">
-  <p>
-نَارُ اللَّهِ الْمُوقَدَةُ \* الَّتِى تَطَّلِعُ عَلَى الْأَفْئِدَةِ \*
-إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ \* فِى عَمَدٍ مُّمَدَّدَةٍ
-  </p>
-</blockquote>
+> نَارُ اللَّهِ الْمُوقَدَةُ \* الَّتِى تَطَّلِعُ عَلَى الْأَفْئِدَةِ \*
+> إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ \* فِى عَمَدٍ مُّمَدَّدَةٍ
 
 ***It is the fire kindled by Allah, which rises above the hearts.
 (104:6-9)***
@@ -361,12 +277,8 @@ In Quran some people are threatened with chastisement of Hell:
 Those who did not have faith in Allah, resurrection and prophethood.
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بَِايَتِنَآ أُولَئِكَ أَصْحَبُ
-النَّارِ هُمْ فِيهَا خَلِدوُنَ‏
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بَِايَتِنَآ أُولَئِكَ أَصْحَبُ
+> النَّارِ هُمْ فِيهَا خَلِدوُنَ‏
 
 ***And (as to) those who disbelieve in and reject My communications,
 they are the inmates of the fire, in it they shall abide. (2:39)***
@@ -376,12 +288,8 @@ they are the inmates of the fire, in it they shall abide. (2:39)***
 Those who associated someone or something in the worship of Almighty
 Allah. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُواْ مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِى
-نَارِ جَهَنَّمَ خَالِدِينَ فِيهَآ أُوْلَئِكَ هُمْ شَرُّ الْبَرِيَّةِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُواْ مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِى
+> نَارِ جَهَنَّمَ خَالِدِينَ فِيهَآ أُوْلَئِكَ هُمْ شَرُّ الْبَرِيَّةِ
 
 ***Surely those who disbelieve from among the followers of the Book and
 the polytheists shall be in the fire of hell, abiding therein; they are
@@ -392,13 +300,9 @@ the worst of men. (98:6)***
 Those who had no sincerity in faith; they only made a verbal claim and
 lived among believers. With regard to them the Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الْمُنَفِقِينَ وَالْمُنَفِقَتِ وَالْكُفَّارَ نَارَ
-جَهَنَّمَ خَلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ اللَّهُ
-وَلَهُمْ عَذَابٌ مُّقِيمٌ‏
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الْمُنَفِقِينَ وَالْمُنَفِقَتِ وَالْكُفَّارَ نَارَ
+> جَهَنَّمَ خَلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ اللَّهُ
+> وَلَهُمْ عَذَابٌ مُّقِيمٌ‏
 
 ***Allah has promised the hypocritical men and the hypocritical women
 and the unbelievers the fire of hell to abide therein; it is enough for
@@ -442,12 +346,8 @@ mindedness do not have the right to adjudicate this important matter.
 
 The Quran says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ الْخُلْدِ هَلْ
-تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ‏
-  </p>
-</blockquote>
+> ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ الْخُلْدِ هَلْ
+> تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ‏
 
 ***Then it shall be said to those who were unjust: Taste abiding
 chastisement; you are not requited except for what you earned.
@@ -457,13 +357,9 @@ chastisement; you are not requited except for what you earned.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَآؤُهُ جَهَنَّمُ خَلِداً
-فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَاباً
-عَظِيماً
-  </p>
-</blockquote>
+> وَمَنْ يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَآؤُهُ جَهَنَّمُ خَلِداً
+> فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَاباً
+> عَظِيماً
 
 ***And whoever kills a believer intentionally, his punishment is hell;
 he shall abide in it, and Allah will send His wrath on him and curse him
@@ -479,23 +375,15 @@ especially keeping in mind the two points mentioned before.
 
 In the Holy Quran, the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-بَلَى‏ مَن كَسَبَ سَيِّئَةً وَأَحَطَتْ بِهِ خَطِيئَتُهُ فأُوْلَئِكَ
-أَصْحَبُ النَّارِ هُمْ فِيهَا خَلِدُونَ‏
-  </p>
-</blockquote>
+> بَلَى‏ مَن كَسَبَ سَيِّئَةً وَأَحَطَتْ بِهِ خَطِيئَتُهُ فأُوْلَئِكَ
+> أَصْحَبُ النَّارِ هُمْ فِيهَا خَلِدُونَ‏
 
 ***Yea! whoever earns evil and his sins beset him on every side, these
 are the inmates of the fire; in it they shall abide. (2:81)***
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُجْرِمِينَ فِى عَذَابِ جَهَنَّمَ خَالِدُونَ
-  </p>
-</blockquote>
+> إِنَّ الْمُجْرِمِينَ فِى عَذَابِ جَهَنَّمَ خَالِدُونَ
 
 ***Surely the guilty shall abide in the chastisement of hell. (43:74)***
 
@@ -529,11 +417,7 @@ be punished in Hell, since the punishment of such unaware persons is not
 compatible with justice of Allah. The Almighty Allah says in the Holy
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنَّا مُعَذِّبِينَ حَتَّى‏ نَبْعَثَ رَسُولاً
-  </p>
-</blockquote>
+> وَمَا كُنَّا مُعَذِّبِينَ حَتَّى‏ نَبْعَثَ رَسُولاً
 
 ***Nor do We chastise until We raise an apostle. (17:15)***
 
@@ -546,5 +430,4 @@ Quran:
 [^4]: Al-Mufradat, Pg. 154, under the word of ‘KH-L-D’.
 
 [^5]: Al-Nihaya, Vol. 2, Pg. 61, under the word of ‘KH-L-D’.
-
 

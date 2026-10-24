@@ -656,4 +656,3 @@ Surely we have to return to Him. Peace be on the Messenger of Allah –
 may Allah shower His blessings and plentiful salutation on him and his
 pure and chaste descendants; and that is an end to the matter.
 
-

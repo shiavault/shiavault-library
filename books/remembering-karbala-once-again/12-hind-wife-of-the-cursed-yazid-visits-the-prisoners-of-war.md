@@ -197,4 +197,3 @@ Horrified, in distress, Hind fell on Zainab's feet
 
 When I ask your names, you bow your heads in shame."
 
-

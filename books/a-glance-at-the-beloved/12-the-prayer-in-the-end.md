@@ -31,4 +31,3 @@ him) and turn away (from him) and deny (him).'[^1]
 
 [^1]: Jamalul Usboo', Part 47, Pg. 316, Kamaluddin, Chap. 45, Pg. 43
 
-

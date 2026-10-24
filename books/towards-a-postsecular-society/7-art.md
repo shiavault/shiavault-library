@@ -13,4 +13,3 @@ in the 1950s, and before WW1 many abstract painters were drawn to new
 spiritual movements such as Theosophy, Anthroposophy and the teachings
 of Gurdjieff and Ouspensky.
 
-

@@ -6,23 +6,15 @@ Hajj
 Verses of Holy Quran
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
-سَبِيلًاوَمَن كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِين َ
-  </p>
-</blockquote>
+> وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
+> سَبِيلًاوَمَن كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِين َ
 
 ***And Pilgrimage to the House is incumbent upon men for the sake of
 Allah, (upon) every one who is able to undertake the journey to it; and
 whoever disbelieves, then surely Allah is Self-sufficient, above any
 need of the worlds.*** ***(Aal-e-Imran, Chapter \#3, Verse \# 97)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ
-  </p>
-</blockquote>
+> وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ
 
 ***And complete the Hajj or Umrah in the service of Allah***
 ***(Al-Baqara, Chapter \#2, Verse \# 196)***
@@ -40,5 +32,4 @@ the Hajj properly, his/her sins are forgiven such as if he/she is a
 **newly born child**.
 Hadith \# 04: When a person completes a Hajj properly, his/her every
 prayer is accepted **for four months**.
-
 

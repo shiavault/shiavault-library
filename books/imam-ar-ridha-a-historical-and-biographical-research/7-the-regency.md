@@ -1625,4 +1625,3 @@ to be more likely, and God knows best.
 
 [^36]: Uyoon Akhbar ar-Ridha’, Vol. 2, p. 44
 
-

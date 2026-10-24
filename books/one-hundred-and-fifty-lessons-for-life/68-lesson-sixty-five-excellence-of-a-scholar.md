@@ -3,11 +3,7 @@ Lesson Sixty Five: Excellence of a Scholar
 
 Imam Musa ibn Ja’far (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-فَضْلُ الْفَقِيهِ عَلَى الْعابِدِ كَفَضْلِ الشَّمسِ عَلَى الْكَواكِبِ
-  </p>
-</blockquote>
+> فَضْلُ الْفَقِيهِ عَلَى الْعابِدِ كَفَضْلِ الشَّمسِ عَلَى الْكَواكِبِ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ others from drowning.
 Just as planets need sunlight, votaries need a scholar.
 
 [^1]: Tuhaful Uqul, page 307.
-
 

@@ -353,4 +353,3 @@ hand. It clearly shows how frightened he was.”
 [^3]: These treacherous people were executed in accordance with the
 arbitration of Sa’ad bin Mu’az and the commands of the Torah.
 
-

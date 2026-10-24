@@ -8,11 +8,7 @@ After the reappearance, the world will be a new and amazing place.
 
 • Ameerul Momineen Ali Ilb Abi Taalib (a.s) displayed eagerness to him.
 
-<blockquote dir="rtl">
-  <p>
-شوقاً الى رؤيته
-  </p>
-</blockquote>
+> شوقاً الى رؤيته
 
 “How I desire to see him[^2].”  
  • The beloved daughter of the Messenger of Allah (s.a.w.a), Hazrat
@@ -90,5 +86,4 @@ Prophet Muhammad ( s.a.w.a) by his vision.” – Dua-e-Ahad.
 No. 1299)
 
 [^12]: (Sahifa-e-Mahdiyyah compiled by Sayyed Murtuzaa Mujtahidi.)
-
 

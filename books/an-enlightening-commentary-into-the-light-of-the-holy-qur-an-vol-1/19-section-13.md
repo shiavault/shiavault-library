@@ -4,14 +4,10 @@ Section 13
 Surah Al-Baqarah, Verse 114
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَاجِدَ اللّهِ أَن يُذْكَرَ فِيهَا
-اسْمُهُ وَسَعَى فِي خَرَابِهَا أُوْلَـئِكَ مَا كَانَ لَهُمْ أَن
-يَدْخُلُوهَا إِلاَّ خَآئِفِينَ لهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ
-فِي الآخِرَةِ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَاجِدَ اللّهِ أَن يُذْكَرَ فِيهَا
+> اسْمُهُ وَسَعَى فِي خَرَابِهَا أُوْلَـئِكَ مَا كَانَ لَهُمْ أَن
+> يَدْخُلُوهَا إِلاَّ خَآئِفِينَ لهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ
+> فِي الآخِرَةِ عَذَابٌ عَظِيمٌ
 
 **114.** ***"And who if more unjust than he who prevents the mosques of
 Allah of His Name being remembered therein and strives for their ruin?
@@ -146,12 +142,8 @@ mosques, is a very grand injustice.
 Surah Al-Baqarah, Verse 115
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّواْ فَثَمَّ
-وَجْهُ اللّهِ إِنَّ اللّهَ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَلِلّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّواْ فَثَمَّ
+> وَجْهُ اللّهِ إِنَّ اللّهَ وَاسِعٌ عَلِيمٌ
 
 **115.** ***"And to Allah belong the East and the West, wherever you
 turn, there is the Presence of Allah. Surely Allah is All-Embracing,
@@ -336,5 +328,4 @@ Biharul-Anwar, vol. 93, p. 228, which can be referred to, too.
 [^11]: Bihar-ul-Anwar, vol. 23, p. 102, Tradition 1
 
 [^12]: Bihar-ul-Anwar vol. 25, p. 168
-
 

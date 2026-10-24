@@ -1175,4 +1175,3 @@ is stated that this letter had been written to Malik al-Ashtar after the
 murder of Muhammad b. Abi Bakr; but apparently it is not true, since
 Muhammad b. Abi Bakr was martyred after Malik al-Ashtar.
 
-

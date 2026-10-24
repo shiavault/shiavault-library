@@ -239,7 +239,6 @@ Allah's succour and the conquest, And thou saw the peoples entering into
 the religion of Allah in troops - So glorify the praise of thy Lord and
 seek His forgiveness, indeed He is relenting.@ 15
 
-
 **The Two Momentous Things**
 
 In the holy city of Medina, Messenger of Allah ensured that he
@@ -427,5 +426,4 @@ anymore, for they did not adhere to "the two momentous things" that the
 Prophet Muhammad left behind for them. The Muslim nation may still be a
 candidate to lead mankind to bliss and prosperity if they ensure to
 adhere to the teachings of the Prophet Muhammad and his successors.
-
 

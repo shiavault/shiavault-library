@@ -65,4 +65,3 @@ area.)
 • Quantity words such as **کل** or **بعض: مَشَیتُ کل النَّهار** (I
 walked the whole day.)
 
-

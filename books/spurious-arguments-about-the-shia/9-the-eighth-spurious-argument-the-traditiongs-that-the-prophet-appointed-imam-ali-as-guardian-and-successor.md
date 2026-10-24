@@ -1276,4 +1276,3 @@ nomination. The Prophet Muhammad (s) had nominated Imam Ali as guardian.
 It is clear that such a nomination was not just to show love for some
 physical object.
 
-

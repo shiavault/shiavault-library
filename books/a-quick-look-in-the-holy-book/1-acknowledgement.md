@@ -8,4 +8,3 @@ for his Arabic book (*Natherat fil-Enjeele Wat-Tawrat*) may Allah bless
 his soul.  Finally may the dear Allah reward all those who helped in one
 way or another in making this book come to existence.
 
-

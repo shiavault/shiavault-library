@@ -3,11 +3,7 @@ Lesson Eighty Five: A Good Deed Is Never Small
 
 Imam As-Sajjad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَقِلُّ عَمَلٌ مَعَ تَقَوى وَ كَيْفَ يَقِلَّ ما يُتَقَبَّلُ
-  </p>
-</blockquote>
+> لاَ يَقِلُّ عَمَلٌ مَعَ تَقَوى وَ كَيْفَ يَقِلَّ ما يُتَقَبَّلُ
 
 Translation
 -----------
@@ -29,5 +25,4 @@ how numerous and large they are, whereas even something light and little
 performed with pure and sincere intention is worthy and weighty.
 
 [^1]: Tuhaful Uqul, page 201
-
 

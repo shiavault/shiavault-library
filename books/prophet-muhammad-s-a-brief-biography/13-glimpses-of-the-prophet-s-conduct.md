@@ -278,4 +278,3 @@ Fadha'il as-Sahaba. Sunan Abu Daud: Kitab-an-Nikah.
 
 [^3]: Refer to Mustadrak as-Sahihayn, Dhakha'ir al-Uqba etc.
 
-

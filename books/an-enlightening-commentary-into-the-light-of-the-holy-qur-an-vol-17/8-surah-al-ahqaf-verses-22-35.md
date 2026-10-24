@@ -4,19 +4,11 @@ Surah al-Ahqaf, Verses 22 - 35
 Surah al-Ahqaf - Verses 22-23
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أجِئْتَنَا لِتَأفِكَنَا عَنْ آلِهَتِنَا فَأتِنَا بِمَا
-تَعِدُنَا إِنْ كُنْتَ مِنَ الصَّادِقِينَ
-  </p>
-</blockquote>
+> قَالُوا أجِئْتَنَا لِتَأفِكَنَا عَنْ آلِهَتِنَا فَأتِنَا بِمَا
+> تَعِدُنَا إِنْ كُنْتَ مِنَ الصَّادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ وَاُبَلِّغُكُمْ مَا اُرْسِلْتُ
-بِهِ وَلَكِنِّي أرَاكُمْ قَوْماً تَجْهَلُونَ
-  </p>
-</blockquote>
+> قَالَ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ وَاُبَلِّغُكُمْ مَا اُرْسِلْتُ
+> بِهِ وَلَكِنِّي أرَاكُمْ قَوْماً تَجْهَلُونَ
 
 ***22. They [the people of ‘Ad to Prophet Hud] said: “Have you come to
 turn us away from our gods? Then bring us that with which you threaten
@@ -76,20 +68,12 @@ from the disaster, but they ignored him and put him in prison.
 Surah al-Ahqaf - Verses 24-25
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَأوْهُ عَارِضاً مُسْتَقْبِلَ أوْدِيَتِهِمْ قَالُوا هَذَا
-عَارِضٌ مُمْطِرُنَا بَلْ هُوَ مَا اسْتَعْجَلْتُمْ بِهِ رِيحٌ فِيهَا
-عَذَابٌ ألِيمٌ
-  </p>
-</blockquote>
+> فَلَمَّا رَأوْهُ عَارِضاً مُسْتَقْبِلَ أوْدِيَتِهِمْ قَالُوا هَذَا
+> عَارِضٌ مُمْطِرُنَا بَلْ هُوَ مَا اسْتَعْجَلْتُمْ بِهِ رِيحٌ فِيهَا
+> عَذَابٌ ألِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-تُدَمِّرُ كُلَّ شَيْءٍ بِأمْرِ رَبِّهَا فَأصْبَحُوا لا يُرَی إِلاّ
-مَسَاكِنُهُمْ كَذَلِكَ نَجْزِي الْقَوْمَ الْمُجْرِمِينَ
-  </p>
-</blockquote>
+> تُدَمِّرُ كُلَّ شَيْءٍ بِأمْرِ رَبِّهَا فَأصْبَحُوا لا يُرَی إِلاّ
+> مَسَاكِنُهُمْ كَذَلِكَ نَجْزِي الْقَوْمَ الْمُجْرِمِينَ
 
 ***24. When they saw it as a dense cloud coming toward their valleys,
 they said: “This is a cloud bringing us rain!” Nay, but he [Hud] said
@@ -161,15 +145,11 @@ lesson.
 Surah al-Ahqaf - Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ مَكَّنَّاهُمْ فِيمَا إِنْ مَكَّنَّاكُمْ فِيهِ وَجَعَلْنَا
-لَهُمْ سَمْعاً وَأبْصَاراً وَأفْئِدَةً فَمَا أغْنَی عَنْهُمْ
-سَمْعُهُمْ وَلا أبْصَارُهُمْ وَلا أفْئِدَتُهُمْ مِنْ شَيْءٍ إِذْ
-كَانُوا يَجْحَدُونَ بِآياتِ اللَّهِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
-يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ مَكَّنَّاهُمْ فِيمَا إِنْ مَكَّنَّاكُمْ فِيهِ وَجَعَلْنَا
+> لَهُمْ سَمْعاً وَأبْصَاراً وَأفْئِدَةً فَمَا أغْنَی عَنْهُمْ
+> سَمْعُهُمْ وَلا أبْصَارُهُمْ وَلا أفْئِدَتُهُمْ مِنْ شَيْءٍ إِذْ
+> كَانُوا يَجْحَدُونَ بِآياتِ اللَّهِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
+> يَسْتَهْزِئُونَ
 
 ***26. And verily We had firmly established them with that wherewith We
 have not established you! And We had assigned them hearing, seeing, and
@@ -209,12 +189,8 @@ the torment and paid for their mockery.
 Surah al-Ahqaf - Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أهْلَكْنَا مَا حَوْلَكُمْ مِنَ الْقُرَی وَصَرَّفْنَا الْآياتِ
-لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أهْلَكْنَا مَا حَوْلَكُمْ مِنَ الْقُرَی وَصَرَّفْنَا الْآياتِ
+> لَعَلَّهُمْ يَرْجِعُونَ
 
 ***27. And verily We have destroyed towns round about you and We have
 shown [them] the Signs in various ways that they might return [from
@@ -246,13 +222,9 @@ man will be afflicted with torment so that others may take a lesson.
 Surah al-Ahqaf - Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلا نَصَرَهُمُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ قُرْبَاناً
-آلِهَةً بَلْ ضَلُّوا عَنْهُمْ وَذَلِكَ إِفْكُهُمْ وَمَا كَانُوا
-يَفْتَرُونَ
-  </p>
-</blockquote>
+> فَلَوْلا نَصَرَهُمُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ قُرْبَاناً
+> آلِهَةً بَلْ ضَلُّوا عَنْهُمْ وَذَلِكَ إِفْكُهُمْ وَمَا كَانُوا
+> يَفْتَرُونَ
 
 ***28. Then why did those whom they had taken for gods besides Allah, as
 a way of approach [to Allah] not help them? Nay, but they vanished
@@ -291,13 +263,9 @@ annihilated in it.
 Surah al-Ahqaf - Verse 29
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ صَرَفْنَا إِلَيْكَ نَفَراً مِنَ الْجِنِّ يَسْتَمِعُونَ
-الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أنْصِتُوا فَلَمَّا قُضِيَ
-وَلَّوْا إِلَی قَوْمِهِمْ مُنْذِرِينَ
-  </p>
-</blockquote>
+> وَإِذْ صَرَفْنَا إِلَيْكَ نَفَراً مِنَ الْجِنِّ يَسْتَمِعُونَ
+> الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أنْصِتُوا فَلَمَّا قُضِيَ
+> وَلَّوْا إِلَی قَوْمِهِمْ مُنْذِرِينَ
 
 ***29. And when We sent toward you a group of the jinn, listening to the
 Qur’an. When they stood in the presence thereof, they said: “Listen in
@@ -343,13 +311,9 @@ teachings among their folk.
 Surah al-Ahqaf - Verse 30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَاباً اُنْزِلَ مِنْ بَعْدِ
-مُوسَی مُصَدِّقاً لِمَا بَيْنَ يَدَيْهِ يَهْدِي إِلَی الْحَقِّ وَإِلَی
-طَرِيقٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَاباً اُنْزِلَ مِنْ بَعْدِ
+> مُوسَی مُصَدِّقاً لِمَا بَيْنَ يَدَيْهِ يَهْدِي إِلَی الْحَقِّ وَإِلَی
+> طَرِيقٍ مُسْتَقِيمٍ
 
 ***30. They said: “O our people! Verily, we have heard [the Verses of] a
 Book sent down after Musa, confirming what preceded it: it guides to the
@@ -384,12 +348,8 @@ path.”
 Surah al-Ahqaf - Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا قَوْمَنَا أجِيبُوا دَاعِيَ اللَّهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُمْ
-مِنْ ذُنُوبِكُمْ وَيُجِرْكُمْ مِنْ عَذَابٍ ألِيمٍ
-  </p>
-</blockquote>
+> يَا قَوْمَنَا أجِيبُوا دَاعِيَ اللَّهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُمْ
+> مِنْ ذُنُوبِكُمْ وَيُجِرْكُمْ مِنْ عَذَابٍ ألِيمٍ
 
 ***31. O our people! Respond to Allah’s Caller [namely the Messenger of
 God, Muhammad (S)] and believe in him. He [Allah] will forgive you of
@@ -429,12 +389,8 @@ your sins, and will save you from a painful torment.”***
 Surah al-Ahqaf - Verse 32
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ لا يُجِبْ دَاعِيَ اللَّهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأرْضِ
-وَلَيْسَ لَهُ مِنْ دُونِهِ أوْلِيَاءُ اُولَئِكَ فِي ضَلالٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَمَنْ لا يُجِبْ دَاعِيَ اللَّهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأرْضِ
+> وَلَيْسَ لَهُ مِنْ دُونِهِ أوْلِيَاءُ اُولَئِكَ فِي ضَلالٍ مُبِينٍ
 
 ***32. And whosoever does not respond to Allah’s Caller, he cannot
 escape on earth, and there will be no supporter for him besides Allah
@@ -545,13 +501,9 @@ jinn and mankind alike.
 Surah al-Ahqaf - Verse 33
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أوَلَمْ يَرَوْا أنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأرْضَ
-وَلَمْ يَعْيَ بِخَلْقِهِنَّ بِقَادِرٍ عَلَی أنْ يُحْيِيَ الْمَوْتَی
-بَلَی إِنَّهُ عَلَی كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أوَلَمْ يَرَوْا أنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأرْضَ
+> وَلَمْ يَعْيَ بِخَلْقِهِنَّ بِقَادِرٍ عَلَی أنْ يُحْيِيَ الْمَوْتَی
+> بَلَی إِنَّهُ عَلَی كُلِّ شَيْءٍ قَدِيرٌ
 
 ***33. Do they not see that Allah Who created the heavens and the earth
 and was not wearied by their creation is Able to give life to the dead?
@@ -599,13 +551,9 @@ their comprehension and taste.
 Surah al-Ahqaf - Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُوا عَلَی النَّارِ ألَيْسَ هَذَا
-بِالْحَقِّ قَالُوا بَلَی وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا
-كُنْتُمْ تَكْفُرُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُوا عَلَی النَّارِ ألَيْسَ هَذَا
+> بِالْحَقِّ قَالُوا بَلَی وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا
+> كُنْتُمْ تَكْفُرُونَ
 
 ***34. And on the Day when those who disbelieve will be exposed to the
 Fire [God will say to them]: “Is this [Hell] not the truth?” They will
@@ -646,14 +594,10 @@ disbelief.
 Surah al-Ahqaf - Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ كَمَا صَبَرَ اُولُوا الْعَزْمِ مِنَ الرُّسُلِ وَلا
-تَسْتَعْجِلْ لَهُمْ كَأنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ
-يَلْبَثُوا إِلاّ سَاعَةً مِنْ نَهَارٍ بَلاغٌ فَهَلْ يُهْلَكُ إِلاّ
-الْقَوْمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> فَاصْبِرْ كَمَا صَبَرَ اُولُوا الْعَزْمِ مِنَ الرُّسُلِ وَلا
+> تَسْتَعْجِلْ لَهُمْ كَأنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ
+> يَلْبَثُوا إِلاّ سَاعَةً مِنْ نَهَارٍ بَلاغٌ فَهَلْ يُهْلَكُ إِلاّ
+> الْقَوْمُ الْفَاسِقُونَ
 
 ***35. Therefore be patient [O Prophet!] as did the arch-prophets [lit.
 possessor of constancy, determination, and strong will, applied to Noah,
@@ -715,5 +659,4 @@ patient with disbelievers and their vicious deeds.
 [^1]: 2:117
 
 [^2]: 29:64
-
 

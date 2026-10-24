@@ -108,15 +108,11 @@ his clothes (when they got torn) and mend his shoes.[^21]
 17. Also: From Anas ibn Malik who said: When the Holy Prophet (S)
 intended to travel, he would say when departing:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بِكَ إِنْتَشَرْتُ وَ إِلَيْكَ تَوَجَّهْتُ وَ بِكَ
-إِعْـتَصَمْتُ أَنْتَ ثِقَـتِي وَرَجَائِي. أَللٌّهُمَّ اكْفِنِي مَا
-أَهَمَّنِي وَ مَا لاَ أَهْـتَمَّ لَهُ وَ مَا أَنْتَ أَعْلَمُ بِهِ
-مِنِّي. أَللٌّهُمَّ زَوِّدْنِي التَّقْوى وَ اغْفِرْ لِي وَ وَجِّهْنِي
-إِلـى الْخَيْرِ حَيْثُمَا تَوَجَّهْتُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بِكَ إِنْتَشَرْتُ وَ إِلَيْكَ تَوَجَّهْتُ وَ بِكَ
+> إِعْـتَصَمْتُ أَنْتَ ثِقَـتِي وَرَجَائِي. أَللٌّهُمَّ اكْفِنِي مَا
+> أَهَمَّنِي وَ مَا لاَ أَهْـتَمَّ لَهُ وَ مَا أَنْتَ أَعْلَمُ بِهِ
+> مِنِّي. أَللٌّهُمَّ زَوِّدْنِي التَّقْوى وَ اغْفِرْ لِي وَ وَجِّهْنِي
+> إِلـى الْخَيْرِ حَيْثُمَا تَوَجَّهْتُ.
 
 *“O Allah! by Your Will (and Mercy) have I embarked on this journey, and
 to You have I turned, and with You do I seek refuge. You are my
@@ -175,14 +171,10 @@ return home from a battle or from the Hajj, (on his way) he would recite
 the takbir *(Allahu Akbar)* thrice on every elevation on the land and
 then say:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٌهَ إِلاَّ اللٌّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ. لَهُ الْمُلْكُ وَ
-لَهُ الْحَمْدُ وَ هُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ. آئِبُونَ عَابِدُونَ
-سَاجِدُونَ رَبَّنَا حَامِدُونَ صَدَقَ اللٌّهُ وَعْدَهُ وَ نَصَرَ
-عَبْدَهُ وَ هَزَمَ الأَحْزَابَ وَحْدَهُ.
-  </p>
-</blockquote>
+> لاَ إِلٌهَ إِلاَّ اللٌّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ. لَهُ الْمُلْكُ وَ
+> لَهُ الْحَمْدُ وَ هُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ. آئِبُونَ عَابِدُونَ
+> سَاجِدُونَ رَبَّنَا حَامِدُونَ صَدَقَ اللٌّهُ وَعْدَهُ وَ نَصَرَ
+> عَبْدَهُ وَ هَزَمَ الأَحْزَابَ وَحْدَهُ.
 
 *  
  “There is no god but Allah. He is one - without any partner. His is the
@@ -307,5 +299,4 @@ al-Mahasin: 354
 [^42]: Iqbal al-A\`mal: 281
 
 [^43]: Al-Durr al-Manthur 3:189 – Surah al-Anfal (7)
-
 

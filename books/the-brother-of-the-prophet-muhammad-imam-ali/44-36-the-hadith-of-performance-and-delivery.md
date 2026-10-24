@@ -300,4 +300,3 @@ Al-Ghadir part 1 p. 40.)
 
 [^12]: Al-Hakim Al-Mustadrak part 3 p. 121.
 
-

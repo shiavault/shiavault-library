@@ -72,7 +72,6 @@ spontaneous happiness in what we have achieved.
 
 5. It makes us control time and not be controlled by time, itself.
 
-
 **A Work Schedule
 **
 Each of us is able to prepare a sheet of paper for himself and in which
@@ -117,7 +116,6 @@ rather, it is a typical Islamic day which needs determination, practice,
 and prosperity and guidance from Allah, the Exalted and the Almighty.
 
 This schedule can be divided into its positive and negative subjects:
-
 
 **First: Positive Subjects**
 
@@ -164,7 +162,6 @@ acts of kindness!" Holy Qur'an (107: 4-7)
 sees nothing but that of meeting his own needs, and his regret will come
 by the fulfillment of those needs.
 
-
 **Secondly: Negative Subjects:**
 
 1. (Rejecting Evil): To give up evil means opening the way for goodness
@@ -189,5 +186,4 @@ true believer, says:
 
 "Goodness is expected from him (a believer) and he is safe from
 evil."
-
 

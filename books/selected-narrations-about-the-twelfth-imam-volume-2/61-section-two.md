@@ -895,4 +895,3 @@ miracles of the Master of the time, peace be on him.”
 
 [^30]: Meaning what is related to the Mahdī, peace be on him—Ed.
 
-

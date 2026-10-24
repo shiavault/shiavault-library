@@ -138,7 +138,6 @@ Qarnan 's position before receiving the report of his suicide from the
 people. That is the Messenger of Allah (S) knows the unseen by the will
 of Allah.
 
-
 **The parent may not kill his child even if illegitimate**
 
 Related from Ibrahim ibn Abi al-Balad, from Imam Saadiq (A) who said:
@@ -197,7 +196,6 @@ deliberate killer about whom Allah says:
 such that he strikes him with his sword and kills him?' He (A) said:
 'This is not the deliberate killer referred to by Allah Exalted and
 Majestic is He.'
-
 
 **The expiation for the killing of the believer**
 
@@ -498,5 +496,4 @@ to carry His
 
 message.54 He returned to his house and became a follower of Imam 'Ali
 ibn al-Hussein (A) and was known as one of his companions.
-
 

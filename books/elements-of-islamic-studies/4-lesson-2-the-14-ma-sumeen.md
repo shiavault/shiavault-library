@@ -10,4 +10,3 @@ Names of Ahl al-Kisa’
  (4) Imam Hasan (A.S.);  
  (5) Imam Husain (A.S.)
 
-

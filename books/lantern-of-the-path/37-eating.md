@@ -27,5 +27,3 @@ stomach and the genitals.'
 hardness, and no soul has been more weakened than by lack of hunger.
 They are two halters of banishment and disappointment.'
 
-
-

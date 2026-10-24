@@ -646,4 +646,3 @@ al-Husayn, p. 189, Nafasul Mahmoom, p 278-289.
 
 [^32]: Nafasul Mahmoom, p. 291.
 
-

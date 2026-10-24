@@ -33,4 +33,3 @@ With my Progeny and supporters, do you not have,
 
 An old pledge, do you not fulfill your oaths
 
-

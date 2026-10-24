@@ -51,4 +51,3 @@ Lucknow, 1.
 [^3]: Qur’an, 57:22, Bihar, vol. 2 p. 34- 35, Nawasikhut Tawarikh, vol.
 6, p.470-471.
 
-

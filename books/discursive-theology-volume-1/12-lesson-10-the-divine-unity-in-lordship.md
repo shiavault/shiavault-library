@@ -66,11 +66,7 @@ also acknowledged indirect lordships emanating from God and and affirmed
 the causes and intermediaries in the management of the universe. It has
 even sworn by the managers of the affairs of the universe:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَالْمُدَبِّرٰتِ أَمْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَالْمُدَبِّرٰتِ أَمْرًا ﴾
 
 *“By those who direct the affairs [of creatures]!”*[^3]
 
@@ -95,31 +91,19 @@ manifestations of the Divine creation which is reflected in the law of
 nature. As such, the Holy Qur’an has mentioned creation and management
 together. We shall mention here some examples of such verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَلا لَهُ الْخَلْقُ وَالأمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
-﴾
-  </p>
-</blockquote>
+> ﴿ أَلا لَهُ الْخَلْقُ وَالأمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
+> ﴾
 
 ***“Look! All creation and command belong to Him. Blessed is Allah, the
 Lord of all the worlds.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“Our Lord is He who gave everything its creation and then guided
 it.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-﴿ سَبِّحِ اسْمَ رَبِّكَ الأعْلَى ٭ الَّذِي خَلَقَ فَسَوَّى ٭ وَالَّذِي
-قَدَّرَ فَهَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ سَبِّحِ اسْمَ رَبِّكَ الأعْلَى ٭ الَّذِي خَلَقَ فَسَوَّى ٭ وَالَّذِي
+> قَدَّرَ فَهَدَى ﴾
 
 ***“Celebrate the Name of your Lord, the Most Exalted, who created and
 proportioned, who determined and guided.”***[^6]
@@ -134,11 +118,7 @@ disorder in the order of nature. In view of these two premises, it can
 be proved that the manager and controller of the universe is One. The
 following holy verse supports this argument:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلا اللَّهُ لَفَسَدَتَا ﴾
-  </p>
-</blockquote>
+> ﴿ لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلا اللَّهُ لَفَسَدَتَا ﴾
 
 ***“Had there been gods in them other than Allah, they would surely have
 fallen apart.”***[^7]
@@ -146,11 +126,7 @@ fallen apart.”***[^7]
 Hishām ibn al-Ḥakam asked Imām al-Ṣādiq (*‘a*) about the proof of the
 Oneness of God. The Imām (*‘a*) replied, thus:
 
-<blockquote dir="rtl">
-  <p>
-إتِّصالُ التَّدْبيرِ وَتَمامُ الصُّنْعِ.
-  </p>
-</blockquote>
+> إتِّصالُ التَّدْبيرِ وَتَمامُ الصُّنْعِ.
 
 “The cohesion of the management and the harmony of creation [is the
 proof of the Oneness of God].”[^8]
@@ -171,34 +147,22 @@ they believed in the lordship of the sun and the moon.[^9]
 Prophet Yūsuf (Joseph) (*‘a*) is also quoted in the Qur’an, addressing
 his two companions in prison, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ
-اللَّهُ الْوَاحِدُ الْقَهَّارُ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ
+> اللَّهُ الْوَاحِدُ الْقَهَّارُ ﴾
 
 ***“O my prison mates! Are different masters better, or Allah, the One,
 the All-paramount?”***[^10]
 
 And Pharaoh is also quoted to have said, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَنَا رَبُّكُمُ الأعْلَى ﴾
-  </p>
-</blockquote>
+> ﴿ أَنَا رَبُّكُمُ الأعْلَى ﴾
 
 ***“I am your exalted lord!”***[^11]
 
 It also says about the polytheists during the time of the Holy Prophet
 (*ṣ*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا ﴾
-  </p>
-</blockquote>
+> ﴿ وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا ﴾
 
 ***“They have taken gods besides Allah that they may be a [source of]
 might to them.”***[^12]
@@ -236,11 +200,7 @@ lordship of gods and goddesses, and thus, they were polytheists.[^17]
 One of the manifestations and expressions of the Divine Unity in
 Lordship is Oneness in legislation and law-making. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنِ الْحُكْمُ إِلا لِلَّهِ أَمَرَ أَلّا تَعْبُدُوا إِلا إِيَّاهُ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنِ الْحُكْمُ إِلا لِلَّهِ أَمَرَ أَلّا تَعْبُدُوا إِلا إِيَّاهُ ﴾
 
 ***“Sovereignty belongs only to Allah. He has commanded you to worship
 none except Him.”***[^18]
@@ -301,23 +261,15 @@ God *per se* is not obligatory on anyone, but obedience to those who are
 granted guardianship by God on the human beings is obligatory on others
 by the decree and commandment of God, as it is thus said:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ ﴾
 
 ***“O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you.”***[^20]
 
 And it is also stated, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا لِيُطَاعَ بِإِذْنِ اللَّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا لِيُطَاعَ بِإِذْنِ اللَّهِ ﴾
 
 ***“We did not send any apostle but to be obeyed by Allah’s
 leave.”***[^21]
@@ -393,5 +345,4 @@ Government) by the author.
 [^20]: Sūrat al-Nisā’ 4:59.
 
 [^21]: Sūrat al-Nisā’ 4:64.
-
 

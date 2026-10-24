@@ -11,4 +11,3 @@ word in the Bible was instructed to be written or written by Jesus
 himself during his time on earth. The Bible was written after Jesus was
 risen.
 
-

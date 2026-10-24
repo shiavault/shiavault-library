@@ -121,4 +121,3 @@ vol. 13, p. 225; Qāmūs al-Rijāl, vol. 6, p. 136; Hayāt al-Sahābah, vol.
 3, p. 136; Ibn Hishām, Al-Sīrah al-Nabawiyyah, vol. 2, p. vol. 1, p.
 337; Ibn Athīr, Al-Kāmil, vol. 2, p. 319.
 
-

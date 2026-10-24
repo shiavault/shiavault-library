@@ -206,7 +206,6 @@ prophets of God and my Masjid is the last Masjid (referring the holy
 Masjid of the Prophet)." (see footnote 3) (Muslim, Kitab-ul-Hajj;
 Bab:Fadl-us-Salat bi Masjidi Mecca wal Medina)
 
-
 A large number of such traditions of the Holy Prophet (peace and
 blessings of Allah be upon him) have been reported by the companions and
 a great many compilers have recorded them from authoritative sources. A
@@ -216,5 +215,4 @@ clear that he was the last Prophet of God; That no prophet would follow
 him and that the line of prophets had ended in him. Furthermore, those
 would claim to be Prophets and Messengers of God after his time would be
 imposters and liars. (see footnote 4).
-
 

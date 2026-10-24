@@ -31,4 +31,3 @@ back.” But everyone refused to go. They said they would stand by him to
 the last, and they did. They were not cowards; they were soldiers born
 and bred; and they fought as heroes, with devotion and with chivalry.
 
-

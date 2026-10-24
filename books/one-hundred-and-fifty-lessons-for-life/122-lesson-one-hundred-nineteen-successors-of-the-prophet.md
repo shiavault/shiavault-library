@@ -3,12 +3,8 @@ Lesson One Hundred Nineteen: Successors Of The Prophet
 
 The Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَزَالُ هذَا الدِّينُ عَزِيزاً مَنِيعاً إِلَى إثْنى عَشَرَ
-كُلُّهُمْ مِنْ قُرَيْش
-  </p>
-</blockquote>
+> لا يَزَالُ هذَا الدِّينُ عَزِيزاً مَنِيعاً إِلَى إثْنى عَشَرَ
+> كُلُّهُمْ مِنْ قُرَيْش
 
 Translation
 -----------
@@ -33,5 +29,4 @@ caliphs nor the Umayyid or Abbasid caliphs meet the specifications of
 this tradition.
 
 [^1]: Tisiral Vosoul, written by Zobeidi Shafei
-
 

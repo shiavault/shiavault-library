@@ -138,4 +138,3 @@ other than this famous Harthama b. Aʿyan. (trans.)
 
 [^5]: ‘Uyun Akhbar al-Ridha (a.s.), vol. 2, p. 244-245. (in brief)
 
-

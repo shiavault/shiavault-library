@@ -134,15 +134,11 @@ gallows; (2) he will be put to the sword or executed by a firing squad;
 (3) His right hand and left foot, or left hand and right foot shall be
 amputated; or (4) he shall be banished from the Islamic land:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا جَزَاء الَّذِينَ يُحَارِبُونَ اللّهَ وَرَسُولَهُ
-وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا أَن يُقَتَّلُوا أَوْ يُصَلَّبُوا
-أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْا
-مِنَ الأَرْضِ ذَلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا وَلَهُمْ فِي
-الآخِرَةِ عَذَابٌ عَظِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا جَزَاء الَّذِينَ يُحَارِبُونَ اللّهَ وَرَسُولَهُ
+> وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا أَن يُقَتَّلُوا أَوْ يُصَلَّبُوا
+> أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْا
+> مِنَ الأَرْضِ ذَلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا وَلَهُمْ فِي
+> الآخِرَةِ عَذَابٌ عَظِيمٌ﴾
 
 “Indeed the requital of those who wage war against Allah and His
 Apostle, and to try to cause corruption on the earth, is that they shall
@@ -193,13 +189,9 @@ fact, the issue of frightening the enemy and criminal contains great
 wisdom as mentioned in the Qur’an, which the Muslims must pay attention
 to:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَأَعِدُّواْ لَهُم مَا اسْتَطَعْتُم مِن قُوَّةٍ وَمِنْ رِبَاطِ
-الْخَيْلِ تُرْهِبُونَ بِهِ عَدْوَّ اللّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِن
-دُونِهِمْ لاَ تَعْلَمُونَهُمُ اللّهُ يَعْلَمُهُمْ...﴾
-  </p>
-</blockquote>
+> ﴿وَأَعِدُّواْ لَهُم مَا اسْتَطَعْتُم مِن قُوَّةٍ وَمِنْ رِبَاطِ
+> الْخَيْلِ تُرْهِبُونَ بِهِ عَدْوَّ اللّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِن
+> دُونِهِمْ لاَ تَعْلَمُونَهُمُ اللّهُ يَعْلَمُهُمْ...﴾
 
 “Prepare against them whatever you can of [military] power and
 war-horses, create awe thereby in the enemy of Allah, and your enemy,
@@ -308,12 +300,8 @@ used interchangeably. In the Qur’an, the word *ghalzah* [severity] is
 used as the opposite of *layn* [softness]. For instance, addressing the
 Holy Apostle (*s*), God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَبِمَا رَحْمَةٍ مِنَ اللّهِ لِنْتَ لَهُمْ وَلَوْ كُنتَ فَظًّا
-غَلِيظَ الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ...﴾
-  </p>
-</blockquote>
+> ﴿فَبِمَا رَحْمَةٍ مِنَ اللّهِ لِنْتَ لَهُمْ وَلَوْ كُنتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ...﴾
 
 “It is by Allah’s mercy that you are gentle to them; and had you been
 harsh and hardhearted, surely they would have scattered from around
@@ -449,5 +437,4 @@ further corruption.
 [^2]: Surah al-Anfal 8:60.
 
 [^3]: Surah Al ‘Imran 3:159.
-
 

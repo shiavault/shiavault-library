@@ -183,4 +183,3 @@ Muslims. The future of Islam was dependent upon their outcomes.
 [^1]: Ibn Sa’d in his Al-Tabaqat Part 3 p. 25. Al-Hakim also reported
 that in his Al-Mustadrak Part 3 p.111.
 
-

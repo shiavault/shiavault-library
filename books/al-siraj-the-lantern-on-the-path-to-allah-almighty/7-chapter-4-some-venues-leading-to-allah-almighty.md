@@ -386,4 +386,3 @@ nothing has received more attention than the wilaya (Al-Kafi, Vol. 2, p.
 18), comprehend the particularities of treading the path leading to the
 Lord of lords?!
 
-

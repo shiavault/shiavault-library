@@ -144,4 +144,3 @@ Allah is the Guide to the truth and to the right path and to Him is our
 return. Allah is Sufficient for us! Most Excellent is He, in Whom we
 trust. Most excellent is the Patron and most excellent is the Helper.
 
-

@@ -229,4 +229,3 @@ are to be hopeful.
 al-Wasā'il, “Book of as-Salat,” sec. on “The Acts of the Salat,” ch. 2,
 hadīth 9.
 
-

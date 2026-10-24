@@ -3,13 +3,9 @@ Islam and Racial Superiority
 
 ( Verse 13 )
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا النٌّاسُ إِنٌّا خَلَقْنٌاكُم مِّنْ ذَكَرٍ وَأُنـثَى
-وَجَعَلْنٌاكُمْ شُعُوباً وَقَبٌائِلَ لِتَعٌارَفُوا إِنَّ أَكْرَمَكُمْ
-عِنْدَ اللٌّهِ أَتْقٌـكُمْ إِنَّ اللٌّهَ عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا النٌّاسُ إِنٌّا خَلَقْنٌاكُم مِّنْ ذَكَرٍ وَأُنـثَى
+> وَجَعَلْنٌاكُمْ شُعُوباً وَقَبٌائِلَ لِتَعٌارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِنْدَ اللٌّهِ أَتْقٌـكُمْ إِنَّ اللٌّهَ عَلِيمٌ خَبِيرٌ
 
 **“*****O’ Humanity! Without doubt We have created you from a male and a
 female and have made you into various nations and tribes, so that you
@@ -40,11 +36,7 @@ We see that from the beginning of this Surah to the present verse under
 discussion, Allah (Glorified and Exalted is He) has addressed the people
 five times with the phrase:
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا...
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا...
 
 ***“O’ you who have true faith…”***
 
@@ -74,11 +66,7 @@ to quiet any slogans of the ignorant people, the concept that all of us
 have been brought forth from one source has been mentioned in various
 chapters of the Qur’an as those mentioned below[^1]:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وٌاحِدَةٍ...
-  </p>
-</blockquote>
+> إِتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وٌاحِدَةٍ...
 
 ***“Have taqwa (Allah-Consciousness) of your Lord (O’ People) who
 created all of you from a single soul…”***[^2]
@@ -96,13 +84,9 @@ of natural and inherent characteristics that there is a difference in
 the colour of the skin of various people and that they speak various
 languages, just as has been said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ آيٌاتِهِ خَلْقُ السَّمٌوٌاتِ وَ الأَرْضِ وَاخْتِلاٌفُ
-أَلْسِنَتِكُمْ وَ أَلْوٌانِكُمْ إِنَّ فِي ذٌلِكَ لَآيٌاتٍ
-لِلْعٌالَمِـينَ
-  </p>
-</blockquote>
+> وَ مِنْ آيٌاتِهِ خَلْقُ السَّمٌوٌاتِ وَ الأَرْضِ وَاخْتِلاٌفُ
+> أَلْسِنَتِكُمْ وَ أَلْوٌانِكُمْ إِنَّ فِي ذٌلِكَ لَآيٌاتٍ
+> لِلْعٌالَمِـينَ
 
 ***“And of His signs is the creation of the Heavens and the Earth and
 the difference in your languages and your skin colours. Certainly there
@@ -180,14 +164,10 @@ order to remove this fictitious element of greatness, the Prophet of
 Islam (blessings of Allah be upon him and his progeny) stated the
 following:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهٌا النٌّاسُ! إِنَّ اللٌّهَ قَدْ أَذْهَبَ عَنْكُمْ نَخْوَةَ
-الْجٌاهِلِيَّةَ وَ تَفٌاخُرَهٌا بِآبٌائِهٌا أَلاَ إِنَّكُمْ مِنْ آدَمَ
-و آدَمُ مِنْ طِيْنٍ. أَلاٌ إِنَّ خَيْرَ عِبٌادِ اللٌّهِ عَبْدٌ
-اتِّقٌاهُ
-  </p>
-</blockquote>
+> أَيُّهٌا النٌّاسُ! إِنَّ اللٌّهَ قَدْ أَذْهَبَ عَنْكُمْ نَخْوَةَ
+> الْجٌاهِلِيَّةَ وَ تَفٌاخُرَهٌا بِآبٌائِهٌا أَلاَ إِنَّكُمْ مِنْ آدَمَ
+> و آدَمُ مِنْ طِيْنٍ. أَلاٌ إِنَّ خَيْرَ عِبٌادِ اللٌّهِ عَبْدٌ
+> اتِّقٌاهُ
 
 *“O’ Mankind! Surely Allah has removed the pride and conceit that
 existed within you during the days of Ignorance in relation to your
@@ -204,12 +184,8 @@ consciousness of Allah (Glorified and Exalted is He) that people have.
 By dividing them in this method and grouping them in this way, he
 removed all of the imaginary criteria that existed when he stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا النٌّاسُ رَجُلاٌنِ: مُؤْمِنٌ تَقِيٌّ كَرِيـمٌّ عَلى اللٌّهِ
-وَ فٌاجِرٌ شَقِيٌّ هَيِّنٌ عَلى اللٌّهِ
-  </p>
-</blockquote>
+> إِنَّمٌا النٌّاسُ رَجُلاٌنِ: مُؤْمِنٌ تَقِيٌّ كَرِيـمٌّ عَلى اللٌّهِ
+> وَ فٌاجِرٌ شَقِيٌّ هَيِّنٌ عَلى اللٌّهِ
 
 *“Certainly mankind is of two types: the true believer who has piety and
 nobility to Allah; and the sinner, who is lost and despicable in the
@@ -226,12 +202,8 @@ sickness and to remove this imaginary greatness that they claimed to
 possess, the Prophet (blessings of Allah be upon him and his progeny)
 once again turned towards the people and said to them:
 
-<blockquote dir="rtl">
-  <p>
-أَلاٌ إِنَّ الْعَرَبِيَّةَ لَيْسَتْ بٌابٌ وٌالِدٌ وَ لٌكِنَّهٌا
-لِسٌانٌ نٌاطِقٌ فَمَنْ قَصُرَ عَمَلُهُ لَمْ يَـبْلُغْهُ حَسَبُهُ
-  </p>
-</blockquote>
+> أَلاٌ إِنَّ الْعَرَبِيَّةَ لَيْسَتْ بٌابٌ وٌالِدٌ وَ لٌكِنَّهٌا
+> لِسٌانٌ نٌاطِقٌ فَمَنْ قَصُرَ عَمَلُهُ لَمْ يَـبْلُغْهُ حَسَبُهُ
 
 *“Now then, surely your being \`Arab is not the basis for your
 personality nor a part of your essence, rather, it is the language which
@@ -246,13 +218,9 @@ his progeny) was the genuine caller to freedom. However he did not stop
 at this. Rather, in order to strengthen the equality of humanity and the
 society he said:
 
-<blockquote dir="rtl">
-  <p>
-إِنٌّ النٌّاسَ مِنْ عَهْدِ آدَمَ إِلـى يَوْمِنٌا هٌذَا مَثَلُ
-أَسْنٌانِ الْمُشْطِ لاٌ فَضْلَ لِلْعَرَبِيِّ عَلى الْعَجَمِيِّ وَ لاٌ
-الأَحْمَرَ عَلى الأَسْوَدِ إِلاٌّ بِالتَّقْوى.
-  </p>
-</blockquote>
+> إِنٌّ النٌّاسَ مِنْ عَهْدِ آدَمَ إِلـى يَوْمِنٌا هٌذَا مَثَلُ
+> أَسْنٌانِ الْمُشْطِ لاٌ فَضْلَ لِلْعَرَبِيِّ عَلى الْعَجَمِيِّ وَ لاٌ
+> الأَحْمَرَ عَلى الأَسْوَدِ إِلاٌّ بِالتَّقْوى.
 
 *“Surely all of mankind – from the time of Adam until our time – are
 like the teeth of a comb (all equal to one another) and there is no
@@ -719,5 +687,4 @@ al-Zumar (39), Verse 6.
 discussion on Marriage (Nikah).
 
 [^8]: A weight of measurement equivalent to approximately 3 kilograms.
-
 

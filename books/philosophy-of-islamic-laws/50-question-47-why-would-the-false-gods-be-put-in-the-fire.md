@@ -33,6 +33,3 @@ misfortune and wretchedness. And they get to know that these false gods
 whom the foolish man considered to be powerful do not even have a little
 power to defend themselves.
 
-
-
-

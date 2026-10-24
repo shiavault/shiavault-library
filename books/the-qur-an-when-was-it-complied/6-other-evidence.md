@@ -212,4 +212,3 @@ esteemed scholars.
 guiding light, so whatever is in concord with the book of Allah then go
 by it and whatever contradicts the book of Allah then leave it.' 39
 
-

@@ -169,11 +169,7 @@ who only derives gratification in life and/or not encounter any pain and
 sorrow. In reality, beside every pain there is pleasure and beside every
 pleasure there is pain, and both of them are means of trial for man:
 
-<blockquote dir="rtl">
-  <p>
-... وَنَبْلُوَکُمْ بِالْشَرِّ وَالْخَيْرِ فِتْنَةً...
-  </p>
-</blockquote>
+> ... وَنَبْلُوَکُمْ بِالْشَرِّ وَالْخَيْرِ فِتْنَةً...
 
 ***“…We have made you entangled in good and bad so that we may try
 you…”***[^5]
@@ -248,12 +244,8 @@ loves things which are pleasing to Allah, and make friends with the
 friends of Allah and takes strides in the way of Allah, the special
 existential will of Allah is responsible for making him successful:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَرَادَ الآخِرَةَ وَسَعَی لَهَا سَعْيَهَا وَهُوَ مؤْمِنٌ
-فَأُولَئِکَ کَانَ سَعْيُهُمْ مَشْکُورًا
-  </p>
-</blockquote>
+> وَمَنْ أَرَادَ الآخِرَةَ وَسَعَی لَهَا سَعْيَهَا وَهُوَ مؤْمِنٌ
+> فَأُولَئِکَ کَانَ سَعْيُهُمْ مَشْکُورًا
 
 ***“And whoever desires the hereafter and strives for it as he ought to
 strive and he is a believer, (as for) these, their striving shall surely
@@ -265,13 +257,9 @@ as a result of his own bad choice, selects a path of infidelity and sin;
 the existential will of Allah makes him low and deprives him of the
 opportunity to perform good works.
 
-<blockquote dir="rtl">
-  <p>
-مَنْ کَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ
-لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْليها مَذْمُومًا
-مَدْحُورًا
-  </p>
-</blockquote>
+> مَنْ کَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ
+> لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْليها مَذْمُومًا
+> مَدْحُورًا
 
 ***“Whoever desires this present life, We hasten to make him therein
 what We please for whomever We desire, the We assign to him the hell, he
@@ -307,12 +295,8 @@ cars, a better house, or better clothes, he is attached to the world and
 is deprived of attaining the blessings of the eternal Garden of bliss;
 as the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-تِلْکَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
-عُلُوًّا فِي الأَرْضِ وَلاَ فَسَادًا...
-  </p>
-</blockquote>
+> تِلْکَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
+> عُلُوًّا فِي الأَرْضِ وَلاَ فَسَادًا...
 
 ***“As for that future abode, We assign it to those who have no desire
 to exalt themselves in the earth nor to make mischief and the good end
@@ -467,5 +451,4 @@ al-Islam.
 [^12]: Bihar al-Anwar, vol. 58, p. 39.
 
 [^13]: Nahj al-Balaghah, p. 508, sermon [khutbah] 159.
-
 

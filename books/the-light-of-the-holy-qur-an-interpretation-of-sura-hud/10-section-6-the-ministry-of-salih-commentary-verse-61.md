@@ -67,7 +67,6 @@ requests. The verse concludes:
 "... so ask forgiveness of Him, and turn unto Him in repentance: surely
 my Lord is Nigh, Responsive'. "
 
-
 **Commentary : Verse 62**
 
 (62) قالُوا يا صالِحُ قَدْ كُنْتَ فينا مَرْجُوًّا قَبْلَ هذا أَ
@@ -115,7 +114,6 @@ are also pessimistic about it. They said:
 "... Truly we are in disquieting doubt as to that unto which you invite
 us'. "
 
-
 **Commentary : Verse 63**
 
 (63) قالَ يا قَوْمِ أَ رَأَيْتُمْ إِنْ كُنْتُ عَلى‏ بَيِّنَةٍ مِنْ
@@ -145,7 +143,6 @@ truth itself is something very detrimental for man. The verse says:
 from my Lord and He hath sent Mercy unto me from Himself, who will then
 help me against Allah if I(were to)disobey Him So you do not add to me
 other than loss. "
-
 
 **Commentary : Verse 64**
 
@@ -189,7 +186,6 @@ understandable for the people.
 (1) Sura Ash- Shu'ara No. 26, verses 155 158, and Sura Al- Qamar No.
 54, verses 27 31.
 
-
 **Commentary: Verse 65**
 
 (65) فَعَقَرُوها فَقالَ تَمَتَّعُوا في‏ دارِكُمْ ثَلاثَةَ أَيَّامٍ
@@ -224,7 +220,6 @@ news from the invisible world.
 However, one should never take Divine warnings as jokes or lies as
 scorning them will cause the infliction of Divine penalties.
 
-
 **Commentary : Verse 66**
 
 (66) فَلَمَّا جاءَ أَمْرُنا نَجَّيْنا صالِحاً وَ الَّذينَ آمَنُوا
@@ -255,7 +250,6 @@ forbidden. The verse says:
 believed with him by a Mercy from Us, and(delivered them)from the
 ignominy of that day. Verily, your Lord is the All- strong, the All-
 mighty. "
-
 
 **Commentary : Verse 67.68**
 
@@ -317,5 +311,4 @@ verse says:
 
 "... As if they had never dwelt there. Behold! Verily Thamoud rejected
 their Lord. Behold! away with Thamoud! "
-
 

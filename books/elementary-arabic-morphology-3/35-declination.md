@@ -77,4 +77,3 @@ dual *alif*, the plural *wāw*, or the second person *yā'*, for example:
 remains in the nominative state and is erased in the subjunctive and
 jussive states, for example: **لم یَذهَبا و لن** **تَذهَبي.**
 
-

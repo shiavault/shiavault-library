@@ -89,9 +89,7 @@ affected with mental disorders, and other unaccounted examples witnessed
 by us, are causing great damage and discomfort to human existence on
 this planet.
 
-
 Al-Balagh Foundation
-
 
 **Definition Of Environmen
 **
@@ -126,7 +124,6 @@ which man lives and obtains the components of his life, like food,
 shelter and medicine and conducts his relations with his fellow human
 beings in it."1 So, this is the definition of environment considering
 man a pivot point in it.
-
 
 **Man and The Natural Environment**
 
@@ -234,7 +231,6 @@ nature, the Holy Qur'an discusses the activities, responsibilities and
 social systems which protect the well being of the environment, as well
 as, protecting the divine will of the world of existence under the power
 of Shari\`a.
-
 
 **ORGANIZATION AND NATURAL EQUILIBRIUM IN THE ENVIRONMENT**
 
@@ -424,5 +420,4 @@ insect, which cannot live without this cactus, reproduces rapidly,
 unhindered in the whole of Australia. In no time, this insect invaded
 and destroyed the cactus. Therefore, this is how this criterion and
 balance was changed."7
-
 

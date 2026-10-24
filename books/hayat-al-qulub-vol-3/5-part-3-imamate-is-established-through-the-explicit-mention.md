@@ -39,11 +39,7 @@ murder etc. which will cause all sorts of corruption and chaos for the
 entire society and deprivation of peace and tranquillity. It is certain
 that Allah Almighty does not like such a situation as He says:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ لَا يُحِبُّ الْفَسَادَ.
-  </p>
-</blockquote>
+> وَاللَّهُ لَا يُحِبُّ الْفَسَادَ.
 
 ***And Allah does not like mischief…*** **(Sura Baqarah 2:204)**
 
@@ -68,11 +64,7 @@ guidance towards the right path of welfare of His servants, in the
 matter of their lives in both the worlds (on earth and in the
 Hereafter). It is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ رَءُوفٌ بِالْعِبَادِ.
-  </p>
-</blockquote>
+> وَاللَّهُ رَءُوفٌ بِالْعِبَادِ.
 
 ***Verily the merciful Allah is very kind to the servants*****. (Sura
 Baqarah 2:207)**
@@ -198,22 +190,14 @@ leave so much hard work to others and to appoint a group of weak persons
 for such a big job. It is totally impossible on the part of the
 Omnipotent and Omniscient. He Himself asserts:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُ اللَّهُ بِكُمْ الْيُسْرَ وَلَا يُرِيدُ بِكُمْ الْعُسْرَ.
-  </p>
-</blockquote>
+> يُرِيدُ اللَّهُ بِكُمْ الْيُسْرَ وَلَا يُرِيدُ بِكُمْ الْعُسْرَ.
 
 ***Allah likes ease for you and does not want hardship*****. (Sura
 Baqarah 2:185)**
 
 Again He says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ.
-  </p>
-</blockquote>
+> وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ.
 
 ***He has not laid upon you a hardship in religion*****. (Sura Hajj
 22:78)**
@@ -228,12 +212,8 @@ The First Verse:
 
 The Lord of the universe asserts:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي.
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي.
 
 ***Today I have perfected for you your religion and have concluded My
 bounties on you*****. (Sura Maida 5:3)**
@@ -313,14 +293,10 @@ matter of Imamate and Khilafat of Ali (a.s.) nor in the matter of its
 being snatched by others. Whatever choice (authority) is, it is with Me,
 and it is I Who has revealed this verse to you:
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
-يُفْتَنُونَ. وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
-فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
-الْكَاذِبِينَ.
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا
+> يُفْتَنُونَ. وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ
+> فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
+> الْكَاذِبِينَ.
 
 ***Do men think that they will be left alone on saying, We believe, and
 not be tried? And certainly We tried those before them, so Allah will
@@ -329,12 +305,8 @@ liars.*** **(Sura Ankabut 29:2-3)**
 
 Another Verse is:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنْ
-الْقَرْيَتَيْنِ عَظِيمٍ.
-  </p>
-</blockquote>
+> وَقَالُوا لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنْ
+> الْقَرْيَتَيْنِ عَظِيمٍ.
 
 ***And they (the unbelievers of Quraysh) say: Why was not this Quran
 revealed to a man of importance in the two towns (Mecca and Taif)?***
@@ -347,14 +319,10 @@ office or rank is spiritual and that it demands greatness of soul and
 pious gracefulness not of gathering the trifling material things of this
 passing worldly life. Therefore Allah Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-أَهُمْ يَقْسِمُونَ رَحْمَةَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُمْ
-مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ
-بَعْضٍ دَرَجَاتٍ لِيَتَّخِذَ بَعْضُهُمْ بَعْضًا سُخْرِيًّا وَرَحْمَةُ
-رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ.
-  </p>
-</blockquote>
+> أَهُمْ يَقْسِمُونَ رَحْمَةَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُمْ
+> مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ
+> بَعْضٍ دَرَجَاتٍ لِيَتَّخِذَ بَعْضُهُمْ بَعْضًا سُخْرِيًّا وَرَحْمَةُ
+> رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ.
 
 ***Will they distribute the mercy of your Lord? We distribute among them
 their livelihood in the life of this world, and We have exalted some of
@@ -387,11 +355,7 @@ which, in fact, is similar to Prophethood, to the choice of the Ummat.
 
 The Second Verse
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ.
-  </p>
-</blockquote>
+> وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ.
 
 ***Your Lord creates whatever He likes and He Himself selects whomsoever
 He wishes for every job*****. (Sura Al-Qasas 28:68)**
@@ -404,12 +368,8 @@ partners in choice and think that they are in authority.
 The commentators (Mufassirin) agree that this verse was revealed when
 the people of Quraysh said:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنْ
-الْقَرْيَتَيْنِ عَظِيمٍ.
-  </p>
-</blockquote>
+> وَقَالُوا لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنْ
+> الْقَرْيَتَيْنِ عَظِيمٍ.
 
 ***And they say: Why was not this Quran revealed to a man of importance
 in the two towns?*** **(Sura Zukhruf 43:31)**
@@ -453,12 +413,8 @@ It is incumbent for the Imam, to declare clearly, before his passing
 away, about the Imam who is to follow him making his arguments complete.
 The Lord of the worlds mentions in His Holy Book:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللَّهُ لِيُضِلَّ قَوْمًا بَعْدَ إِذْ هَدَاهُمْ حَتَّى
-يُبَيِّنَ لَهُمْ مَا يَتَّقُونَ.
-  </p>
-</blockquote>
+> وَمَا كَانَ اللَّهُ لِيُضِلَّ قَوْمًا بَعْدَ إِذْ هَدَاهُمْ حَتَّى
+> يُبَيِّنَ لَهُمْ مَا يَتَّقُونَ.
 
 ***Allah does not mislead any community after showing them the right
 path until He declared all those things from which they should
@@ -503,12 +459,8 @@ for a term fixed by Allah imaging them as doubtlessly faithful and
 honest. Yet he knew afterwards that all of them were hypocrites as Allah
 Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-وَاخْتَارَ مُوسَى قَوْمَهُ سَبْعِينَ رَجُلًا لِمِيقَاتِنَا فَلَمَّا
-أَخَذَتْهُمْ الرَّجْفَةُ...
-  </p>
-</blockquote>
+> وَاخْتَارَ مُوسَى قَوْمَهُ سَبْعِينَ رَجُلًا لِمِيقَاتِنَا فَلَمَّا
+> أَخَذَتْهُمْ الرَّجْفَةُ...
 
 ***And Musa chose out of his people seventy men for Our appointment; so
 when the earthquake overtook them…*** **(Sura Araf 7:155)**
@@ -610,5 +562,4 @@ gathered.
 
 [^2]: And We have revealed the Book to you explaining clearly
 everything, and a guidance and mercy and good news for those who submit.
-
 

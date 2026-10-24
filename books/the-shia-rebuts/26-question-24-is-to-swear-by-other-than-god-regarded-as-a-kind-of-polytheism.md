@@ -23,24 +23,16 @@ sea”. We shall cite some of these verses:
 
 **a.**
 
-<blockquote dir="rtl">
-  <p>
-"لعمرك إنهم لفي شكرتهم يعمهون."
-  </p>
-</blockquote>
+> "لعمرك إنهم لفي شكرتهم يعمهون."
 
 ***“By your life, they were bewildered in their drunkenness.”***[^1]
 
 **b.**
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالشَّمْسِ وَضُحَاهَا ٭ وَالْقَمَرِ إِذَا تَلَاهَا ٭ وَالنَّهَارِ
-إِذَا جَلَّاهَا ٭ وَاللَّيْلِ إِذَا يَغْشَاهَا ٭ وَالسَّمَاء وَمَا
-بَنَاهَا ٭ وَالْأَرْضِ وَمَا طَحَاهَا ٭ وَنَفْسٍ وَمَا سَوَّاهَا ٭
-فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَالشَّمْسِ وَضُحَاهَا ٭ وَالْقَمَرِ إِذَا تَلَاهَا ٭ وَالنَّهَارِ
+> إِذَا جَلَّاهَا ٭ وَاللَّيْلِ إِذَا يَغْشَاهَا ٭ وَالسَّمَاء وَمَا
+> بَنَاهَا ٭ وَالْأَرْضِ وَمَا طَحَاهَا ٭ وَنَفْسٍ وَمَا سَوَّاهَا ٭
+> فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا ﴾
 
 ***“By the sun and her forenoon splendor, by the moon when he follows
 her, by the day when it reveals her, by the night when it covers her, by
@@ -50,21 +42,13 @@ between} its virtues and vices.”***[^2]
 
 **c.**
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَىٰ
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَىٰ
 
 ***“By the star when it sets.”***[^3]
 
 **d.**
 
-<blockquote dir="rtl">
-  <p>
-ن وَالْقَلَمِ وَمَا يَسْطُرُونَ
-  </p>
-</blockquote>
+> ن وَالْقَلَمِ وَمَا يَسْطُرُونَ
 
 ***“Nun. By the Pen and what they write.”***[^4]
 
@@ -86,13 +70,9 @@ between} its virtues and vices.”***[^2]
 
 **g.**
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالطُّورِ ٭ وَكِتَابٍ مَّسْطُورٍ ٭ فِي رَقٍّ مَّنشُورٍ ٭
-وَالْبَيْتِ الْمَعْمُورِ ٭ وَالسَّقْفِ الْمَرْفُوعِ ٭ وَالْبَحْرِ
-الْمَسْجُورِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالطُّورِ ٭ وَكِتَابٍ مَّسْطُورٍ ٭ فِي رَقٍّ مَّنشُورٍ ٭
+> وَالْبَيْتِ الْمَعْمُورِ ٭ وَالسَّقْفِ الْمَرْفُوعِ ٭ وَالْبَحْرِ
+> الْمَسْجُورِ ﴾
 
 ***“By the Mount {Sinai}, by the Book inscribed on an unrolled
 parchment; by the House greatly frequented; by the vault raised high, by
@@ -120,24 +100,16 @@ so many instances of the Holy Prophet’s (S) swearing by other than God.
 In his *Musnad*, Ahmad ibn Hanbal, the chief of the Hanbalis, thus
 narrates from the Messenger of Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-"فلعمري لأن تتكلم بمعروف تنهى عن منكر خير من أن تسكت."
-  </p>
-</blockquote>
+> "فلعمري لأن تتكلم بمعروف تنهى عن منكر خير من أن تسكت."
 
 “By my life! If you would enjoin good and forbid evil, it will be better
 than keeping silent.”[^8]  
  In his *Sahih*, which the Ahl as-Sunnah consider one of the six
 authentic compilations of *hadith*, Muslim ibn al-Hajjaj states:
 
-<blockquote dir="rtl">
-  <p>
-"جاء رجل إلى النبيّ صلى الله عليه وأله وسلم فقال: يا رسول الله أيّ
-الصدقة أعظم أجراً؟ فقال: أما وأبيك لتنبانه أن تصدق وأنت صحيح شحيح تخشى
-الفقر وتأمل البقاء."
-  </p>
-</blockquote>
+> "جاء رجل إلى النبيّ صلى الله عليه وأله وسلم فقال: يا رسول الله أيّ
+> الصدقة أعظم أجراً؟ فقال: أما وأبيك لتنبانه أن تصدق وأنت صحيح شحيح تخشى
+> الفقر وتأمل البقاء."
 
 There came a person to the Prophet (S) and asked the Messenger of Allah:
 “Which charity is the most rewarding?” He said: “By your father, it is
@@ -157,20 +129,12 @@ proves the permissibility of swearing by other than God.
 In many parts of his sublime speeches, ‘Ali ibn Abi Talib (*‘a*) swear
 by his life when he says:
 
-<blockquote dir="rtl">
-  <p>
-"ولعمري ليضعفن لكم التّيه من بعدي أضعافأً."
-  </p>
-</blockquote>
+> "ولعمري ليضعفن لكم التّيه من بعدي أضعافأً."
 
 “By my life! After me your wandering about shall be multiplied.”[^10]  
  In another place, he (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-"ولعمري لإن لم تنزع غيّك وشقاقك لتعرفنّهم عن قليل يطلبونك."
-  </p>
-</blockquote>
+> "ولعمري لإن لم تنزع غيّك وشقاقك لتعرفنّهم عن قليل يطلبونك."
 
 “By my life, if you do not refrain from hypocrisy, avarice and your
 rebellious activities, they will soon be known to you.”[^11]
@@ -198,12 +162,8 @@ from the Qur’an and traditions.
 
 Some people cite an ambiguous tradition which is as follows:
 
-<blockquote dir="rtl">
-  <p>
-إن رسول الله سمع عمر وهو يقول: وأبي فقال إن الله ينهاكم أن تحلفنا
-بأبائكم ومن كان حالفاً فليحلف بالله أو يسكت.
-  </p>
-</blockquote>
+> إن رسول الله سمع عمر وهو يقول: وأبي فقال إن الله ينهاكم أن تحلفنا
+> بأبائكم ومن كان حالفاً فليحلف بالله أو يسكت.
 
 Verily, the Messenger of Allah (S) heard ‘Umar swearing by his father.
 Upon hearing this he said: “Verily, God has prohibited you from swearing
@@ -248,5 +208,4 @@ information about other cases, see Sermons 168, 182 and 187, and Letters
 6 and 54.
 
 [^12]: Sunan al-Kubra, vol. 10, p. 29; Sunan an-Nisa’i, vol. 7, pp. 4-5.
-
 

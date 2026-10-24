@@ -51,7 +51,6 @@ And so what is the best - two or three?
 Why are they forcing us to fix it at two? Who are they to fix it when
 the Holy Infallibles (a.s.) have clearly left it unfixed?
 
-
 CONCLUSION
 
 Let us now look at these three Hadeeth once again for the conclusion.
@@ -76,5 +75,4 @@ Wilayah (Mastership) is a precondition to the acceptability of the two
 testimonies and it is in the nature of the people - The Oneness of Allah
 (s.w.t.), the Prophethood of Muhammad (s.a.w.) and Ali the Commander of
 the Faithful (a.s.).
-
 

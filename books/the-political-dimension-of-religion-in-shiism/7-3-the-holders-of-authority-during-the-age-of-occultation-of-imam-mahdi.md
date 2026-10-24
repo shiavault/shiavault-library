@@ -121,7 +121,6 @@ around in also accepted, since in the Iranian constitution the leader is
 not obligatory a marja, and can be a simple mujtahid having leadership
 and managerial abilities.
 
-
 Wilayat is a part of marjayat in the culture of the Shia.
 
 The great marjas not only guided people with respect to the divine Law,
@@ -203,7 +202,6 @@ mentioned above. It could be or it could be not. It depends on the
 person who assumes that position. When it is one and the same, he should
 be considered a marja when issuing a fatwa and a wali when issuing
 orders in political as social matters.
-
 
 **Conclusions**
 
@@ -311,5 +309,4 @@ Islamica "Imam Mahdi(aj)"
 
 o \*\*\* A Brief History of the Fourteen Infallibles, Ansariyan
 Publications, Qom, 2007
-
 

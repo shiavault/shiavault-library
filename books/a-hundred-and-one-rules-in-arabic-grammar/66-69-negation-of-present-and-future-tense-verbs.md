@@ -10,4 +10,3 @@ to the Subjunctive Mood.
 
 **b. We will not watch/see this movie.**لـن نـُشاهِدَ هذا الفلم.****
 
-

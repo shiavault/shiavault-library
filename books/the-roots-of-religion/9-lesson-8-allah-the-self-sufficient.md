@@ -155,4 +155,3 @@ called?
 
 12. In what way the Islamic guidance leads to the real creator?
 
-

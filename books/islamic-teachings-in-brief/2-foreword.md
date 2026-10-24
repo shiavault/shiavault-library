@@ -142,4 +142,3 @@ A.H.
 
 [^2]: "Al-Haya'", 3rd edition, vol. 1, p 146.
 
-

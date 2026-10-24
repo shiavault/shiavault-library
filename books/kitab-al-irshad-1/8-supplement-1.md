@@ -28,7 +28,6 @@ forgiven."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 Some of his words, peace be on him, spoken on his walking around the
 corpses (after the Battle of the Camel):
 
@@ -127,7 +126,6 @@ on the day of the Battle of Badr."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 (This is some of) his speech at Basra after the defeat of the enemy.
 After praising and glorifying God, he said:
 
@@ -154,7 +152,6 @@ Then he sat down before the people and they pledged allegiance to
 him.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 He, peace be on him, wrote about the victory to the Kufans:
 
@@ -200,9 +197,7 @@ can ask him and he will tell you about us and them. Truth has brought
 them back to us and God has been restored to them while they were
 reluctant. Greetings and the mercy and blessings of God.
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Among the words he, peace be upon him, spoke when he came to Kufa from
 Basra (are the following):
@@ -222,10 +217,8 @@ hear (words) which they will dislike until they admit their bad
 behaviour towards us. Then we will see in such men things which we will
 like."
 
-
 His Words about the Campaign against Mu'awiya and the Battle of
 Siffin
-
 
 Among the speeches which he, peace be on him, made when he undertook to
 set out for Syria to fight Mu'awiya b. Abi Sufyan (is the following):
@@ -344,7 +337,6 @@ is a required battle."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 Among his speeches, peace be on him, (which he delivered) when he heard
 about Mu'awiya and the Syrians and the harmful words they were saying,
 (is the following):
@@ -363,7 +355,6 @@ not be humiliated and may him whom I fight against not be made
 strong."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 From his words, peace be on him, urging battle at Siffin, (are those
 when he said) after praising and glorifying God:
@@ -411,9 +402,7 @@ will not be safe from the sword of the next world. Therefore seek help
 in steadfastness, prayers, truthfulness of intention. For God, the
 Exalted, will grant victory after steadfastness (is shown)."
 
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Among his words, peace be on him, (are those) when he passed the
 standard of the Syrians and the followers of it did not withdraw from
@@ -431,7 +420,6 @@ who seek reward?"
 Immediately a group of Muslims rose against them and defeated them.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Among his words, peace be on him, in the same sense (are the
 following):
@@ -462,7 +450,6 @@ just given, neither would religion be sustained nor Islam strengthened.
 I swear by God, that you will lose fresh blood (as a result of your
 inactivity). So remember what I say."
 
-
 His Words about the Truce and the Revolt
 
 of the Kharijites
@@ -487,7 +474,6 @@ to obey) my views nor any resolution (after failing to follow) my
 purpose."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 Among his words, peace be on him, (spoken) after the writing of the
 document for a truce and arbitration and the dispute about it among the
@@ -516,7 +502,6 @@ right."
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 (The following is) among his speeches to the Kharijites when he
 returned to Kufa. He was on the outskirts (of Kufa) before entering it.
 After praising and glorifying God and calling for blessings on Muhammad,
@@ -540,7 +525,6 @@ they should allow to revive whatever the Qur'an revives and make
 obsolete whatever the Qur'an makes obsolete. None of us can oppose the
 judgement of
 
-
 anyone who judges according to what is in the Book. However if (the two
 arbitrators) rejected that, then we would be exempt from their
 judgement."
@@ -560,7 +544,6 @@ confirmed (in his knowledge). Perhaps God will set right the community
 during this armistice. Go into your city, may God have mercy on you."
 
 They departed to the last man.
-
 
 His Words concerning the Syrian Raids after the Truce
 
@@ -737,7 +720,6 @@ Then he raised his hand to heaven and said: "O God, I loathe life amid
 these people, I am weary of hope. Let my companion (i.e. the angel of
 death) come home so that I may rest from them and they may rest from me.
 They will never be successful after me."
-
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
@@ -933,7 +915,6 @@ down.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 ['Abd Allah b. Bukayr al-Ghamawi reported on the authority of Hakim b.
 Jubayr, who said: One who was present when 'Ali-spoke at al-Rahaba told
 us:]
@@ -950,7 +931,6 @@ said:]
 I (i.e. Abu Idris) heard 'Ali, peace be on him, say: "Among the things
 which the unlettered Prophet, may God bless him and his family, promised
 me was: 'The community will betray you after me' "
-
 
 His Words about the Succession and Men's Desertion of him
 

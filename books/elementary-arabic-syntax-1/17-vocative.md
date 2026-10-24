@@ -15,4 +15,3 @@ noun that is not specified: for example **یا** **غافلاً** **تَنَبّ
 case and is either a proper noun or a common noun that is specified. For
 example: **یا** **خالدُ** (Ay, Khalid) or **یا** **رجُلُ** (Ay, man).
 
-

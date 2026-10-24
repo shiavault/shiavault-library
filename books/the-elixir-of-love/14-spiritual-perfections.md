@@ -7,14 +7,10 @@ nawafil"* (the *hadith* of proximity in supererogation).
 Both Shi'a and Sunni scholars of *hadith* quoted, with a slight
 difference, the Holy Prophet (s) as saying:[^1]
 
-<blockquote dir="rtl">
-  <p>
-"قال الله عز وجل: ... ما تقرب إلي عبد بشيء أحب الي مما افترضت عليه،
-وانه ليتقرب الي بالنافلة حتى أحبه، فاذا أحببته كنت سمعه الذي يسمع به،
-وبصره الذي يبصر به، ولسانه الذي ينطق به، ويده التي يبطش بها، ان دعاني
-أجبته، وإن سألني أعطيته"
-  </p>
-</blockquote>
+> "قال الله عز وجل: ... ما تقرب إلي عبد بشيء أحب الي مما افترضت عليه،
+> وانه ليتقرب الي بالنافلة حتى أحبه، فاذا أحببته كنت سمعه الذي يسمع به،
+> وبصره الذي يبصر به، ولسانه الذي ينطق به، ويده التي يبطش بها، ان دعاني
+> أجبته، وإن سألني أعطيته"
 
 "The Almighty Allah said: No servant is drawn nigh to Me except by means
 of what is more favorable to Me than what I have made obligatory to
@@ -48,21 +44,13 @@ for God it becomes **Ear of Allah**, if the hand works for God, it
 becomes **Hand of Allah**, and so forth to the heart of man, which is
 God's place; as narrated:
 
-<blockquote dir="rtl">
-  <p>
-"قلب المؤمن من عرش الرحمن"
-  </p>
-</blockquote>
+> "قلب المؤمن من عرش الرحمن"
 
 "The heart of a believer is the Throne of Allah, the compassionate.[^3]"
 
 And as Imam Husayn (a) says:
 
-<blockquote dir="rtl">
-  <p>
-"جعلتَ قلوبَ أوليائكَ مسكناً لمشيتك"
-  </p>
-</blockquote>
+> "جعلتَ قلوبَ أوليائكَ مسكناً لمشيتك"
 
 "O Lord! You made Your lover's hearts the station of Your Will and
 Providence.[^4]"
@@ -124,12 +112,8 @@ except in God. Once in a very hot summer day, the Shaykh blew (some air
 onto his face with) a manual straw fan to cool off a little. As soon as
 he felt cool, he said at once:
 
-<blockquote dir="rtl">
-  <p>
-"وأستغفرك من كل لذة بغيرك ذِكرك ومن كل راحة بغير أنسك ومن كل سرور بغير
-قربك ومن كل شغل بغير طاعتك."
-  </p>
-</blockquote>
+> "وأستغفرك من كل لذة بغيرك ذِكرك ومن كل راحة بغير أنسك ومن كل سرور بغير
+> قربك ومن كل شغل بغير طاعتك."
 
 "O God! I pray forgiveness from Thee for every pleasure but remembering
 Thee, every ease but proximity with Thee, every happiness but nearness
@@ -157,16 +141,12 @@ as asserted by the Ahl al-Bayt (a), he achieved the virtues and stations
 of people of cognition (those endowed with Divine Knowledge) through a
 way other than the common ways. Imam al-Sadiq (a) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-"ان أولي الألباب الذين عملوا بالفكرة حتى ورثوا منه حب الله – الى ان
-قال – فاذا بلغ هذه المنزلة جعل شهوته ومحبته في خالقه، فاذا فعل ذلك نزل
-المنزلة الكبرى فعاين ربه في قلبه، وورث الحكمة بغير ما ورثه الحكماء،
-وورث العلم بغير ما ورثه العلماء، وورث الصدق بغير ما ورثه الصديقون. ان
-الحكماء ورثوا الحكمة بالصمت، وان العلماء ورثوا العلم بالطلب، وان
-الصديقين ورثوا الصدق بالخشوع وطول العبادة"
-  </p>
-</blockquote>
+> "ان أولي الألباب الذين عملوا بالفكرة حتى ورثوا منه حب الله – الى ان
+> قال – فاذا بلغ هذه المنزلة جعل شهوته ومحبته في خالقه، فاذا فعل ذلك نزل
+> المنزلة الكبرى فعاين ربه في قلبه، وورث الحكمة بغير ما ورثه الحكماء،
+> وورث العلم بغير ما ورثه العلماء، وورث الصدق بغير ما ورثه الصديقون. ان
+> الحكماء ورثوا الحكمة بالصمت، وان العلماء ورثوا العلم بالطلب، وان
+> الصديقين ورثوا الصدق بالخشوع وطول العبادة"
 
 "The wise people are those who put their thought in work by means of
 which to acquire Love of God. When they reach this status--the holy Imam
@@ -197,11 +177,7 @@ Visiting the *Malakut* of the heavens and the earth with the eye of the
 heart is a prologue to attaining the high status of intuition of
 certitude.
 
-<blockquote dir="rtl">
-  <p>
-وكذلك نري ابراهيم ملكوت السموت والأرض وليكون من الموقنين))
-  </p>
-</blockquote>
+> وكذلك نري ابراهيم ملكوت السموت والأرض وليكون من الموقنين))
 
 (So also We show Abraham the power and the laws of the heavens and the
 earth, that he might (with understanding) have certitude.) (Al An'am:
@@ -209,11 +185,7 @@ earth, that he might (with understanding) have certitude.) (Al An'am:
 
 The Holy Prophet (s) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-"لولا ان الشياطين يحومون على قلوب بني آدم لنظروا الى الملكوت"
-  </p>
-</blockquote>
+> "لولا ان الشياطين يحومون على قلوب بني آدم لنظروا الى الملكوت"
 
 "If it were not that devils are dominant over the hearts of human
 beings, they would be witnessing the *Malakut.*[^9]"
@@ -223,11 +195,7 @@ by tearing apart the heart's veils, are able to observe the *Malakut* of
 the heavens and the earth, and to bear witness to the Oneness of the
 Sacred Essence of God.
 
-<blockquote dir="rtl">
-  <p>
-(شهد الله أنه لآ اله الا هو والملئكة وأولوا العلم)
-  </p>
-</blockquote>
+> (شهد الله أنه لآ اله الا هو والملئكة وأولوا العلم)
 
 (There is no God but He: That is the witness of Allah, His angels, and
 those endowed with knowledge...) (Ale Imran: 18)
@@ -236,11 +204,7 @@ One of the Shaykh's disciples related: 'I asked the late Haj
 Muqaddas[^10] whether the following *hadith* attributed to the Holy
 Prophet (s) is correct:
 
-<blockquote dir="rtl">
-  <p>
-"لولا ان الشياطين يحومون على قلوب بني آدم لنظروا الى الملكوت"
-  </p>
-</blockquote>
+> "لولا ان الشياطين يحومون على قلوب بني آدم لنظروا الى الملكوت"
 
 "If it were not that devils are dominant over the hearts of human
 beings, they would be witnessing the Malakut."
@@ -550,14 +514,10 @@ This intuition is confined by the *hadith* that suggests that although
 the unbelievers do not go to paradise, but if they had done good things
 they would be rewarded. In a *hadith* by the Holy Prophet (s) we read:
 
-<blockquote dir="rtl">
-  <p>
-"ما أحسن محسن من مسلم ولا كافر الا أثابه الله. قيل: ما إثابة الكافر؟
-قال: ان كان قد وصل رحماً، او تصدق بصدقة، او عمل حسنة، أثابه الله تعالى
-المال والولد والصحة وأشباه ذلك. قيل: وما إثابته في الآخرة؟ قال: عذاب
-دون العذاب، وقرأ: (أدخلوا ءال فرعون أشد العذاب)"
-  </p>
-</blockquote>
+> "ما أحسن محسن من مسلم ولا كافر الا أثابه الله. قيل: ما إثابة الكافر؟
+> قال: ان كان قد وصل رحماً، او تصدق بصدقة، او عمل حسنة، أثابه الله تعالى
+> المال والولد والصحة وأشباه ذلك. قيل: وما إثابته في الآخرة؟ قال: عذاب
+> دون العذاب، وقرأ: (أدخلوا ءال فرعون أشد العذاب)"
 
 "Whoever does good, whether a Muslim or an unbeliever, God will reward
 him." His Holiness (s) was asked: 'What is rewarding an unbeliever
@@ -913,5 +873,4 @@ raise his head and give the right answer to his questions.
 leader of Zanjan.
 
 [^15]: Mizan al-Hikmah, II, 662: 2213.
-
 

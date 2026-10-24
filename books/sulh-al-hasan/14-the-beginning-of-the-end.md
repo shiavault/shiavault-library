@@ -824,4 +824,3 @@ Apostle of Allah, may Allah bless him and his family, said."
 that attitude. In his heart there was no narrowness, nor reprimand, nor
 regret. Rather he was happy and satisfied with that."
 
-

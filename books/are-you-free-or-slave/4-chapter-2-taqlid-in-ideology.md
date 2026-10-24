@@ -872,4 +872,3 @@ the Messiah. Mary’s Son, as Gods besides Allah" (9.31).
 
 [^29]: Mizan. Hadith No. 16784.
 
-

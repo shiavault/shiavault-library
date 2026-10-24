@@ -49,4 +49,3 @@ Imam Ridha’ (‘a) said: "Be truthful and avoid telling lies."
 
 Bihar-ul-Anwar, vol. 78, p. 347
 
-

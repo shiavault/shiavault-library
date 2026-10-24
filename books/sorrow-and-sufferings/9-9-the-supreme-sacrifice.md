@@ -1265,4 +1265,3 @@ In the dusty panorama, they soon saw a spear
 
 Husayn's head was on it, without malice, without fear!
 
-

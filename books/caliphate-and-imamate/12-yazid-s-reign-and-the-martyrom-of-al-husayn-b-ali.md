@@ -524,4 +524,3 @@ Suyuti, al-Durr al-Manthur, 4: 191.
 
 [^29]: See above 95.
 
-

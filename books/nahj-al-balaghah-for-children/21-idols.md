@@ -19,4 +19,3 @@ towards obeying Him.
 
 (Sermon 145)
 
-

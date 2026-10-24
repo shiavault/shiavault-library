@@ -15,13 +15,9 @@ also been encouraged to re-marry and to "complete" their faith.
 From the ocean of traditions and verses of the Quran on this topic, we
 quote the following:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ
-وَإِمَائِكُمْ ۚ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ
-فَضْلِهِ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ
+> وَإِمَائِكُمْ ۚ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ
+> فَضْلِهِ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ
 
 ***"Marry the single people from among you and the righteous slaves and
 slave-girls. If you are poor, Allah (SwT) will make you rich through His
@@ -34,12 +30,8 @@ the proper funds, still we should not delay the marriage as Allah will
 take care of the couple and grant them bounties from His Grace and
 Mercy.
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ
-اللَّهُ مِنْ فَضْلِهِ ۗ
-  </p>
-</blockquote>
+> وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ
+> اللَّهُ مِنْ فَضْلِهِ ۗ
 
 ***"And let those who cannot find someone to marry maintain chastity
 until Allah (SwT) makes them rich through His favours ..."(Surah 24,
@@ -58,15 +50,11 @@ have done is to perform the Muta and marry a man or woman in "temporary
 marriage" so as to be able to fulfill our natural desires in a legal and
 permitted means:
 
-<blockquote dir="rtl">
-  <p>
-وَأُحِلَّ لَكُمْ مَا وَرَاءَ ذَٰلِكُمْ أَنْ تَبْتَغُوا بِأَمْوَالِكُمْ
-مُحْصِنِينَ غَيْرَ مُسَافِحِينَ ۚ فَمَا اسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ
-فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا
-تَرَاضَيْتُمْ بِهِ مِنْ بَعْدِ الْفَرِيضَةِ ۚ إِنَّ اللَّهَ كَانَ
-عَلِيمًا حَكِيمًا
-  </p>
-</blockquote>
+> وَأُحِلَّ لَكُمْ مَا وَرَاءَ ذَٰلِكُمْ أَنْ تَبْتَغُوا بِأَمْوَالِكُمْ
+> مُحْصِنِينَ غَيْرَ مُسَافِحِينَ ۚ فَمَا اسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ
+> فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا
+> تَرَاضَيْتُمْ بِهِ مِنْ بَعْدِ الْفَرِيضَةِ ۚ إِنَّ اللَّهَ كَانَ
+> عَلِيمًا حَكِيمًا
 
 ***"... and besides these, it is lawful for you to marry other women if
 you pay them their dowry, maintain chastity and do not commit indecency.
@@ -85,11 +73,7 @@ Judgement.
 In another verse of the Quran, Allah (SwT) compares the husband and wife
 to garments for one another:
 
-<blockquote dir="rtl">
-  <p>
-هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ ۗ
-  </p>
-</blockquote>
+> هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ ۗ
 
 ***"They (your wives) are a clothing (covering) for you and you too are
 a clothing (covering) for them." (Surah 2, Verse187)***
@@ -112,13 +96,9 @@ the honour and integrity of one another.
 
 In the 30th Surah of the Quran, ar-Rum, Allah (SwT) tells us that:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
-إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
+> إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***"And one of His signs is that He has created for you, spouses from
 amongst yourselves so that you might take comfort in them and He has
@@ -134,14 +114,10 @@ mercy between them so that they can live a life of tranquility.
 In Surah al-Nisa, verse 1, Allah (SwT) addresses all of mankind -
 Muslim, Christian, Jew, Non-Believer - by stating:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
-نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
-كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ
-وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
+> نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
+> كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ
+> وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 ***"O' mankind! Have consciousness of your Lord who has created you from
 a single soul. From it He created your spouse and through them He
@@ -162,12 +138,8 @@ The noble ahadith are also replete with traditions narrated from the
 Prophet (S) and his immediate successors, some of which we present
 below.
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): مِنْ
-سُنَّتِي أَلتَّزْوِيجُ فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي.
-  </p>
-</blockquote>
+> قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): مِنْ
+> سُنَّتِي أَلتَّزْوِيجُ فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي.
 
 *The Messenger of Allah (S) has said, "Of my tradition is to marry. So
 then whoever turns away from my tradition (Sunnah) is not from me (my
@@ -180,13 +152,9 @@ not only the youth who are getting married for the first time - but also
 older people who may have divorced or lost a spouse must also marry in
 order to remain on the Sunnah of the Prophet (S).
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): ما بُنِيَ
-بِناءَ فِي الإِسْلامِ أَحَبُّ إِلى اللهِ عَزَّ وَجَلّ مِنَ
-التَّزْوِيجِ.
-  </p>
-</blockquote>
+> قالَ رَسُولُ اللهِ (صَلَّى اللهُ عَلَيهِ وَآلِهِ وَسَلّمَ): ما بُنِيَ
+> بِناءَ فِي الإِسْلامِ أَحَبُّ إِلى اللهِ عَزَّ وَجَلّ مِنَ
+> التَّزْوِيجِ.
 
 *The Messenger of Allah (S) has said, "There is no foundation that has
 been built in Islam more loved by Allah, (The Greatest and Noblest) than
@@ -199,14 +167,10 @@ build their life upon. If such a foundation is built with love, honesty,
 sincerity and true faith in Allah (SwT) and all that He has commanded,
 then there is nothing that could destroy such a firm building.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللهِ (عَلَيْهِ السَّلامُ): جاءَ رَجُلٌ إِلى أَبِي
-فَقالَ لَهُ: هَلَ لَكَ زَوْجَةٌ؟ قالَ لا. قالَ (عَلَيهِ السَّلامُ): لا
-أُحِبُّ أَنّ لِيَ الدُّنْيا وَما فِيها وَإِنِّي أُبِيتُ لَيْلَةً
-لَيْسَ لِي زَوْجَةٌ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللهِ (عَلَيْهِ السَّلامُ): جاءَ رَجُلٌ إِلى أَبِي
+> فَقالَ لَهُ: هَلَ لَكَ زَوْجَةٌ؟ قالَ لا. قالَ (عَلَيهِ السَّلامُ): لا
+> أُحِبُّ أَنّ لِيَ الدُّنْيا وَما فِيها وَإِنِّي أُبِيتُ لَيْلَةً
+> لَيْسَ لِي زَوْجَةٌ.
 
 *It has been narrated from Abi Abdillah that, "A man once came to my
 father. My father asked him, "Are you married?" The man replied, 'No.'
@@ -225,17 +189,12 @@ belief.
 
 \*\*\*\*\*
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
-إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
+> إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***"And of His signs is that He has created spouses for yourselves from
 your own selves so you might take comfort in them and He has created
 love and mercy among both of you. In this there is evidence (of the
 truth) for the people who (carefully) think." (Surah 30, Verse 21).***
-
 

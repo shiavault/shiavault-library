@@ -35,7 +35,6 @@ wrong. They will surge like waves and would be utterly misled.” You
 should not be like goaded animals for Marwan drives you wherever he
 likes, after your seniority of age and expiration of life.
 
-
 **He Appropriated (Wealth) and did it excessively**
 
 **About the assassination of Uthman**
@@ -164,7 +163,6 @@ my view than the one who has deviated, and then I will increase the
 punishment for him, and he will not find any excuse to avoid this
 punishment.
 
-
 **Behave Justly with people
 To his collectors of land tax**
 
@@ -187,5 +185,4 @@ long as one star leads another in the sky. If it has been my property, I
 would have distributed it equally among them, then how it would be when
 the property is that of Allah. Beware; certainly giving wealth in other
 than its right is a wastefulness and lavishness.
-
 

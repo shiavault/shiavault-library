@@ -34,11 +34,7 @@ more befitting.
 them, and do not oppress them or be [like] a sword over them.
 
 > 7ـ أَشْعِرْ قَلْبَكَ الرَّحْمَةَ لَجَميعِ النّاسِ والإحْسانِ
-<blockquote dir="rtl">
-  <p>
-إلَيْهِمْ، وَلاتُنِلْهُمْ حَيْفاً، وَلاتَـكُنْ عَلَيْهِمْ سَيْفاً.
-  </p>
-</blockquote>
+> إلَيْهِمْ، وَلاتُنِلْهُمْ حَيْفاً، وَلاتَـكُنْ عَلَيْهِمْ سَيْفاً.
 
 8. Remember you brother who is absent in the same way that which you
 would like him to remember you [in your absence] and keep away from what
@@ -46,52 +42,32 @@ he dislikes; and disregard from him that which you would like him to
 disregard from you.
 
 > 8 ـ أُذْكُرْ أخاكَ إذا غابَ بِالَّذي تُحِبُّ أنْ يَذْكُرَكَ بِهِ
-<blockquote dir="rtl">
-  <p>
-وإيّاكَ وَما يَكْرَهُ، وَدَعْهُ مِمّا تُحِبُّ أنْ يَدَعَكَ مِنْهُ.
-  </p>
-</blockquote>
+> وإيّاكَ وَما يَكْرَهُ، وَدَعْهُ مِمّا تُحِبُّ أنْ يَدَعَكَ مِنْهُ.
 
 9. Loathe from yourself what you loathe from others and like for people
 what you like for yourself.
 
 > 9ـ إسْتَقْبِـحْ مِنْ نَفْسِكَ ما تَسْتَقْبِحُهُ مِنْ غَيْرِكَ، وارْضَ
-<blockquote dir="rtl">
-  <p>
-لِلنّاسِ بِما تَرْضاهُ لِنَفْسِكَ.
-  </p>
-</blockquote>
+> لِلنّاسِ بِما تَرْضاهُ لِنَفْسِكَ.
 
 10. Reduced mingling preserves religion and relieves one from having to
 associate with wicked people.
 
 > 10ـ قِلَّةُ الخُلْطَةِ تَصُونُ الدّينَ، وتُريحُ مِنْ مُقارَنَةِ
-<blockquote dir="rtl">
-  <p>
-الأشْرارِ.
-  </p>
-</blockquote>
+> الأشْرارِ.
 
 11. Be equitable to people over yourself, your family, your near ones
 and those from whom you desire something, and be just with both enemy
 and friend.
 
 > 11ـ أنْصِفِ النّاسَ مِنْ نَفْسِكَ، وأهْلِكَ، وَخاصَّتِكَ، ومَنْ لَكَ
-<blockquote dir="rtl">
-  <p>
-فيهِ هَوًى، وأعْدِلْ فِي العَدُوِّ والصَّدِيقِ.
-  </p>
-</blockquote>
+> فيهِ هَوًى، وأعْدِلْ فِي العَدُوِّ والصَّدِيقِ.
 
 12. Be friendly with the one who is friendly with you, accept the excuse
 of the one who seeks your pardon and do good to the one who wrongs you.
 
 > 12ـ أجْمِلْ إدْلالَ مَنْ أدَلَّ عَلَيْكَ، واقْبَلْ عُذْرَ مَنِ
-<blockquote dir="rtl">
-  <p>
-اعْتَذَرَ إلَيْكَ، وأحْسِنْ إلى مَنْ أساءَ إلَيْكَ.
-  </p>
-</blockquote>
+> اعْتَذَرَ إلَيْكَ، وأحْسِنْ إلى مَنْ أساءَ إلَيْكَ.
 
 13. Guard well the sanctities [of such things that are sacrosanct] and
 draw near to the people of magnanimity, for indeed guarding the
@@ -99,12 +75,8 @@ sanctities [and boundaries] demonstrates an honourable character and
 drawing near to the magnanimous indicates nobility of purpose.
 
 > 13ـ أحْسِن رِعايَةَ الحُرُماتِ، وأقْبِلْ عَلى أهْلِ المُرُوءاتِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّ رِعايَةَ الحُرُماتِ تَدُلُّ عَلى كَرَمِ الشِّيمَةِ، والإقبالَ
-عَلى ذَوِى المُرُوءاتِ يُعْرِبُ عَنْ شَرَفِ الهِمَّةِ.
-  </p>
-</blockquote>
+> فَإنَّ رِعايَةَ الحُرُماتِ تَدُلُّ عَلى كَرَمِ الشِّيمَةِ، والإقبالَ
+> عَلى ذَوِى المُرُوءاتِ يُعْرِبُ عَنْ شَرَفِ الهِمَّةِ.
 
 14. Be merciful to the one who is under you and the one who is above you
 will be merciful to you; compare his forgetfulness with your
@@ -112,12 +84,8 @@ forgetfulness and his disobedience with your disobedience to you Lord,
 and his need of your mercy to your need of the mercy of your Lord.
 
 > 14ـ اِرْحَمْ مَنْ دُونَكَ يَرْحَمْكَ مَنْ فَوْقَكَ وَقِسْ سَهْوَهُ
-<blockquote dir="rtl">
-  <p>
-بِسَهْوِكَ ومَعْصِيَتَهُ لَكَ بِمَعْصِيَتِكَ لِرَبِّكَ وفَقْرَهُ إلى
-رَحْمَتِكَ بِفَقْرِكَ إلى رَحْمَةِ رَبِّكَ.
-  </p>
-</blockquote>
+> بِسَهْوِكَ ومَعْصِيَتَهُ لَكَ بِمَعْصِيَتِكَ لِرَبِّكَ وفَقْرَهُ إلى
+> رَحْمَتِكَ بِفَقْرِكَ إلى رَحْمَةِ رَبِّكَ.
 
 15. Cling to the people of virtue and piety, and request them not
 compliment you, for indeed excessive praise brings one close to being
@@ -125,12 +93,8 @@ deceived [about his true status] and being pleased with it causes the
 displeasure of Allah.
 
 > 15ـ اِلْصَقْ بِأهْلِ الخَيْرِ والوَرَعِ، وَرَضِّهِمْ عَلى أنْ
-<blockquote dir="rtl">
-  <p>
-لايُطْرُوكَ، فَإنَّ كَثْرَةَ الإطْراءِ تُدْني مِنَ الغِرَّةِ، والرِّضا
-بِذلِكَ يُوجِبُ مِنَ اللّهِ المَقْتَ.
-  </p>
-</blockquote>
+> لايُطْرُوكَ، فَإنَّ كَثْرَةَ الإطْراءِ تُدْني مِنَ الغِرَّةِ، والرِّضا
+> بِذلِكَ يُوجِبُ مِنَ اللّهِ المَقْتَ.
 
 16. Make your self a gauge between you and the other; love for him what
 you love for your self, and hate for him what you hate for it, and do
@@ -138,66 +102,42 @@ good as you would like good to be done to you, and do not oppress just
 as you would like not to be oppressed.
 
 > 16ـ اِجْعَلْ نَفْسَكَ ميزاناً بَيْنَكَ وبَيْنَ غَيْرِكَ، وأحِبَّ لَهُ
-<blockquote dir="rtl">
-  <p>
-ما تُحِبُّ لِنَفْسِكَ، واكْرَهْ لَهُ ما تَـكْرَهُ لَها، وأحْسِنْ كَما
-تُحِبُّ أنْ يُحْسَنَ إلَيْكَ، ولاتَظْلِمْ كَما تُحِبُّ أنْ لاتُظْلَمَ.
-  </p>
-</blockquote>
+> ما تُحِبُّ لِنَفْسِكَ، واكْرَهْ لَهُ ما تَـكْرَهُ لَها، وأحْسِنْ كَما
+> تُحِبُّ أنْ يُحْسَنَ إلَيْكَ، ولاتَظْلِمْ كَما تُحِبُّ أنْ لاتُظْلَمَ.
 
 17. Associate with people in the way that you would like them to
 associate with you, [by doing this] you will be safe from them and they
 will be safe from you.
 
 > 17ـ إصْحَبِ النّاسَ بِما تُحِبُّ أنْ يَصْحَبُوكَ تَأمَنْهُمْ
-<blockquote dir="rtl">
-  <p>
-ويَأمَنُوكَ.
-  </p>
-</blockquote>
+> ويَأمَنُوكَ.
 
 18. Keep away from socializing with evil people for they are like fire -
 the one who comes in contact with it gets burnt.
 
 > 18ـ إيّاكَ ومُعاشَرَةَ الأشْرارِ، فَإنَّهُمْ كَالنّارِ مُباشَرَتُها
-<blockquote dir="rtl">
-  <p>
-تُحْرِقُ.
-  </p>
-</blockquote>
+> تُحْرِقُ.
 
 19. Keep away from socializing with those who look for the faults (or
 sins) of people, for indeed even their companion is not safe from them.
 
 > 19ـ إيّاكَ وَمُعاشَرَةَ مُتَتَبِّعي عُيُوبِ (الذُّنُوبِ)
-<blockquote dir="rtl">
-  <p>
-النّاسِ،فَإنَّهُ لَمْ يَسْلَمْ مُصاحِبُهُمْ مِنْهُمْ.
-  </p>
-</blockquote>
+> النّاسِ،فَإنَّهُ لَمْ يَسْلَمْ مُصاحِبُهُمْ مِنْهُمْ.
 
 20. Be sure to keep away from that which angers your Lord and alienates
 people from you, for the one who angers his Lord is faced with
 annihilation and one who alienates people renounces freedom.
 
 > 20ـ إيّاكَ وما يُسْخِطُ رَبَّكَ، ويُوحِشُ النّاسَ مِنْكَ، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-أسْخَطَ رَبَّهُ تَعَرَّضَ لِلْمَنِيَّةِ، ومَنْ أوْحَشَ النّاسَ
-تَـبَرَّأ مِنَ الحُرِّيَّةِ.
-  </p>
-</blockquote>
+> أسْخَطَ رَبَّهُ تَعَرَّضَ لِلْمَنِيَّةِ، ومَنْ أوْحَشَ النّاسَ
+> تَـبَرَّأ مِنَ الحُرِّيَّةِ.
 
 21. Be careful to keep away from turning your backs on each other,
 cutting off ties with each other, and abandoning the enjoining of good
 and prohibiting of evil [with respect to one another].
 
 > 21ـ إيّاكُمْ والتَّدابُـرَ، والتَّقاطُعَ، وتَرْكَ الأمْرِ
-<blockquote dir="rtl">
-  <p>
-بِالمَعْرُوفِ، والنَّهيِ عَنِ المُنْكَرِ.
-  </p>
-</blockquote>
+> بِالمَعْرُوفِ، والنَّهيِ عَنِ المُنْكَرِ.
 
 22. The most deserving of those whom you love is the one who does not
 forsake you.
@@ -208,21 +148,13 @@ forsake you.
 you would like them to deal with you.
 
 > 23ـ أعْدَلُ السيرَةِ أنْ تُعامِلَ النّاسَ بِما تُحِبُّ أنْ يُعامِلُوكَ
-<blockquote dir="rtl">
-  <p>
-بِهِ.
-  </p>
-</blockquote>
+> بِهِ.
 
 24. The most unjust conduct is for you to seek equity from people while
 not dealing with them in the same way.
 
 > 24ـ أجْوَرُ السِّيرَةِ أنْ تَنْتَصِفَ مِنَ النّاسِ ولاتُعامِلَهُمْ
-<blockquote dir="rtl">
-  <p>
-بِهِ.
-  </p>
-</blockquote>
+> بِهِ.
 
 25. The most worthy of those whom you love is he whose benefit is for
 you and whose harm is for other than you.
@@ -234,11 +166,7 @@ makes you mingle with people and beautifies you among them and restrains
 their tongues from [speaking ill of] you.
 
 > 26ـ إنَّ أحْسَنَ الزِّىِّ ما خَلَطَكَ بِالنَّاسِ، وَجَمَّلَكَ
-<blockquote dir="rtl">
-  <p>
-بَيْنَهُمْ، وكَفَّ ألْسِنَـتَهُمْ عَنْكَ.
-  </p>
-</blockquote>
+> بَيْنَهُمْ، وكَفَّ ألْسِنَـتَهُمْ عَنْكَ.
 
 27. Make others incline towards you instead of distancing themselves
 from you.
@@ -278,21 +206,13 @@ yourself from them in [your] actions.
 you and when you are absent, they yearn for your company.
 
 > 35ـ خالِطُوا النّاسَ مُخالَطَةً، إنْ مِتُّمْ بَكَوْا عَلَيْكُمْ وإنْ
-<blockquote dir="rtl">
-  <p>
-غِبْتُمْ حَنُّوا إلَيْكُمْ.
-  </p>
-</blockquote>
+> غِبْتُمْ حَنُّوا إلَيْكُمْ.
 
 36. Interact with people through your tongues and your bodies, but part
 from them with your hearts and your actions.
 
 > 36ـ خالِطُوا النّاسَ بِألْسِنَتِكُمْ وأجْسادِكُمْ، وزايِلُوهُمْ
-<blockquote dir="rtl">
-  <p>
-بِقُلُوبِكُمْ وَأعْمالِكُمْ.
-  </p>
-</blockquote>
+> بِقُلُوبِكُمْ وَأعْمالِكُمْ.
 
 37. Many an associate is not a close friend.
 
@@ -364,11 +284,7 @@ the dead.
 equitable when you have power.
 
 > 51ـ أحْسِنِ العِشْرَةَ، واصْبِرْ عَلَى العُسْرَةِ، وأنْصِفْ مَعَ
-<blockquote dir="rtl">
-  <p>
-القُدْرَةِ.
-  </p>
-</blockquote>
+> القُدْرَةِ.
 
 52. Be pleased for [other] people with that which pleases you, then you
 will be a [true] Muslim.
@@ -378,5 +294,4 @@ will be a [true] Muslim.
 [^1]: Meaning that he is bound to follow the ways of the people of his
 time (and this is acceptable as long as it is not against the
 commandments of Allah).
-
 

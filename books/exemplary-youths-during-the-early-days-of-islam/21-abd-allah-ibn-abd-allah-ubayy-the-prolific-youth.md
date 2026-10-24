@@ -61,4 +61,3 @@ Islām, p. 437; Al-Tanbīh wa al-Ashrāf, p. 215; Ibn Sa‘d, Tabaqāt, vol.
 140; Amtā‘ al-Asmā‘, vol. 1, p. 99; Al-Muhabbar, p. 233; Jamharah
 al-Ansāb al-‘Arab, p. 235.
 
-

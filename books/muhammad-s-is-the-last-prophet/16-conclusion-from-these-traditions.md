@@ -292,4 +292,3 @@ missionary of Qadians thinks that Karbala is “ a place in Damascus”. I
 think this revelation is beyond any comment, If Karbala’ is in Damascus,
 then Tokyo is in London, and Dar-es-Salaam is in Cairo!
 
-

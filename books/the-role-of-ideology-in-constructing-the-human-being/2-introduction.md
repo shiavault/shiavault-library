@@ -121,4 +121,3 @@ We must mention that we have followed the “traditional procedure” and
 have depended-basically- on traditional sources. From Allah we ask
 support and success.
 
-

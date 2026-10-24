@@ -35,4 +35,3 @@ neither society nor the government would accept this meaning.
 Such advertisements and statements grossly mislead the nation. It is
 high time that people were protected from such misleading advertisement.
 
-

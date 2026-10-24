@@ -112,4 +112,3 @@ Questions to ask yourself
 1. What particular qualities do sensual realities contain?
 2. What conclusion do you reach from studying these particularities?
 
-

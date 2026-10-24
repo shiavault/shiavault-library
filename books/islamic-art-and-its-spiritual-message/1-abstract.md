@@ -19,4 +19,3 @@ subcontinent, Mughals rulers contributed much to the various Islamic
 art-forms such as architecture (both sacred and public), miniature art,
 decorative arts and landscape paintings.*
 
-

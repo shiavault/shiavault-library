@@ -54,4 +54,3 @@ on the subject of the “Doctrines of Fiqh”.
 written by Ibn Nadeem (died 380 AH). See page 224 and 276; printed in
 Tehran.
 
-

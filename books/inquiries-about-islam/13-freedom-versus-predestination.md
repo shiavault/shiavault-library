@@ -228,4 +228,3 @@ Divine justice. Since we are not willing to give up the Doctrine of the
 Justice of God, nor are we willing to believe in contradiction, we have
 to deny, categorically, the Doctrine of Predestination.
 
-

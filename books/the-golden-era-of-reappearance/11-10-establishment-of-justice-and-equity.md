@@ -76,4 +76,3 @@ al-ayaasshi, vol. 1, p. 64.)
 [^12]: (Behaar al- anwaar, vol. 52, p. 374, narrating from al-Kaafi;
 Mikyaal al-Makaarim, vol. 1, pg. 284.)
 
-

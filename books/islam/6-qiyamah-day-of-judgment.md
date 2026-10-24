@@ -17,4 +17,3 @@ It is impossible to deal with this topic here in detail, but it will be
 sufficient to say that all this depends upon so many things and all
 those things depend upon the Mercy and Justice of Allah.
 
-

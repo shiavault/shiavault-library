@@ -79,4 +79,3 @@ ad-Durru 'l-Manthur, vol. 2. p. 13.
 
 [^4]: al Bayan, p. 224.
 
-

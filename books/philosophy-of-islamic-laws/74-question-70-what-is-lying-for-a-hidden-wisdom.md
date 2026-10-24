@@ -64,4 +64,3 @@ explanation or interpretation of the ayats of Holy Qur’an. That is as a
 rule there is no such need as for as ayats and Islamic laws are
 concerned.
 
-

@@ -142,4 +142,3 @@ for strengthening the spirit of brotherhood and love among all Muslims.
 
 **Mohamad Jawad Chirri**
 
-

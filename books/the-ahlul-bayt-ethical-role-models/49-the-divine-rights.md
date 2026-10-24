@@ -143,4 +143,3 @@ abandons you, who would help you? The true believers trust in Allah.
 
 [^2]: Quoted from al-Wafi; part 3 page 67 (as quoted from al- Kafi).
 
-

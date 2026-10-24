@@ -45,4 +45,3 @@ Turba: literally: soil; in this text, it refers to a piece of soil
 taken out of the area where Imam Husain (as) is buried And surely Allah
 knows best...
 
-

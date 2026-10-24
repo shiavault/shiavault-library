@@ -19,4 +19,3 @@ thankful to Him.*
 
 [^1]: Surah al-Ahzab, 33:33
 
-

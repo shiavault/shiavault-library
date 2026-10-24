@@ -281,4 +281,3 @@ On the other hand, if this book remains silent on any such subject, no
 objection can be raised against it. I hope this explanation will
 enlighten you on the role of Islam and Qur'an in our life.
 
-

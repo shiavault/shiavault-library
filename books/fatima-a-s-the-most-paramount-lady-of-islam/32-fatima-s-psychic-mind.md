@@ -105,4 +105,3 @@ and accelerates the development of learning. She comprehends the phrases
 by a word, and books by a sentence, and that is the teacher’s honor,
 i.e. the Prophet (peace be upon him and his descendants).
 
-

@@ -90,4 +90,3 @@ atonement is one sheep, although it is performed because of necessity.
 25- There is no atonement for cutting the plants of Haram, except
 Istighfar.
 
-

@@ -214,4 +214,3 @@ Hence the parents should school themselves and their children in noble
 morals and praiseworthy virtues and non-violence in marital matters so
 that they may find happiness in this world and the next.
 
-

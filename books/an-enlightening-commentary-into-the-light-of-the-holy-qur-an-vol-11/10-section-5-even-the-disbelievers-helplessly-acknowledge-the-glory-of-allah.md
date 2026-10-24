@@ -4,18 +4,10 @@ Section 5: Even the Disbelievers Helplessly Acknowledge the Glory of Allah
 Surah al-Mu’minun - Verses 78-79
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي أَنشَأَ لَكُمُ السَّمْعَ وَالاَبْصَارَ وَالاَفْئِدَةَ
-قَلِيلاً مَّا تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي أَنشَأَ لَكُمُ السَّمْعَ وَالاَبْصَارَ وَالاَفْئِدَةَ
+> قَلِيلاً مَّا تَشْكُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي ذَرَأَكُمْ فِي الأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي ذَرَأَكُمْ فِي الأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
 ***78. “He it is Who produced for you hearing, and eyes, and hearts
 (minds); (very) little it is what you give thanks.”***  
@@ -91,12 +83,8 @@ possibility of the Resurrection.
 Surah al-Mu’minun - Verse 80
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلاَفُ الَّيْلِ
-وَالنَّهَارِ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلاَفُ الَّيْلِ
+> وَالنَّهَارِ أَفَلاَ تَعْقِلُونَ
 
 ***80. “And He it is Who gives life and death, and to Him belongs the
 alternation of the night and the day. Have you then no sense?”***
@@ -198,25 +186,13 @@ he takes refuge and the tent of the Muslim is the intellect.”*[^9]
 Surah al-Mu’minun - Verses 81-83
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ قَالُوا مِثْلَ مَا قَالَ الاَوَّلُونَ
-  </p>
-</blockquote>
+> بَلْ قَالُوا مِثْلَ مَا قَالَ الاَوَّلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أءِذَا مِتْنَا وَكُنَّا تُرَاباً وَعِظَاماً ءَإِنَّا
-لَمَبْعُوثُونَ
-  </p>
-</blockquote>
+> قَالُوا أءِذَا مِتْنَا وَكُنَّا تُرَاباً وَعِظَاماً ءَإِنَّا
+> لَمَبْعُوثُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَذَا مِن قَبْلُ إنْ هَذَآ
-إِلآَّ أَسَاطِيرُ الاَوَّلِينَ
-  </p>
-</blockquote>
+> لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَذَا مِن قَبْلُ إنْ هَذَآ
+> إِلآَّ أَسَاطِيرُ الاَوَّلِينَ
 
 ***81. “Nay, but they say the like of what the ancients said.”***  
 ***82. “They say: ‘What! When we die and become dust and bones, shall we
@@ -275,29 +251,13 @@ Hell are nothing but mere fancy.
 Surah al-Mu’minun - Verses 84-87
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لِمَنِ الاَرْضُ وَمن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> قُل لِمَنِ الاَرْضُ وَمن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-سَيَقُولُونَ لِلَّهِ قُلْ أَفَلاَ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> سَيَقُولُونَ لِلَّهِ قُلْ أَفَلاَ تَذَكَّرُونَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ
-  </p>
-</blockquote>
+> قُلْ مَن رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-سَيَقُولُونَ لِلَّهِ قُلْ أَفَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> سَيَقُولُونَ لِلَّهِ قُلْ أَفَلاَ تَتَّقُونَ
 
 ***84. “Say: ‘Whose is the earth and whosoever is in it, if you have
 knowledge?’”***  
@@ -383,24 +343,12 @@ are asked in response:
 Surah al-Mu’minun - Verse 88-90
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن بِيَدِهِ مَلَكُوتُ كُلّ‌ِ شَيْءٍ وَهُوَ يُجِيرُ وَلاَ يُجَارُ
-عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلْ مَن بِيَدِهِ مَلَكُوتُ كُلّ‌ِ شَيْءٍ وَهُوَ يُجِيرُ وَلاَ يُجَارُ
+> عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-سَيَقُولُونَ لِلَّهِ قُلْ فَاَنَّي تُسْحَرُونَ
-  </p>
-</blockquote>
+> سَيَقُولُونَ لِلَّهِ قُلْ فَاَنَّي تُسْحَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ أَتَيْنَاهُم بِالْحَقّ‌ِ وَإِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> بَلْ أَتَيْنَاهُم بِالْحَقّ‌ِ وَإِنَّهُمْ لَكَاذِبُونَ
 
 ***88. “Say: ‘In Whose hand is the dominion of all things, and Who
 protects (all), but is never protected, if you have knowledge?’”***  
@@ -513,19 +461,11 @@ firm reprimand, and finally a severe scolding.
 Surah al-Mu’minun - Verses 91-92
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذاً
-لَّذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَلَعَلاَ بَعْضُهُمْ عَلَي بَعْضٍ
-سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
-  </p>
-</blockquote>
+> مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذاً
+> لَّذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَلَعَلاَ بَعْضُهُمْ عَلَي بَعْضٍ
+> سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
 
-<blockquote dir="rtl">
-  <p>
-عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَي عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَي عَمَّا يُشْرِكُونَ
 
 ***91. “No son has Allah begot, nor is there any god along with Him,
 else each god would have certainly taken off that which he had created,
@@ -723,5 +663,4 @@ Imam Sadiq (as) said:
 
 [^16]: Nur-uth-Thaqalyn, the Commentary, Vol. 3, p. 417 & 418 and Tawhid
 Sauq
-
 

@@ -889,4 +889,3 @@ Beirut, n.d., 17; Ibn Sa'd, 2:
 [^29]: See Nahj al-balagha, ed. al-Shaykh Muhammd 'Abduh, Egypt, n.d.,
 1: 432; Ibn Sa'd, 2: 202
 
-

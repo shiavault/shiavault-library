@@ -192,4 +192,3 @@ mentioned is not a justified reason [for lying].
 
 [^1]: Dalilu 'l-Muslim fi Biladi 'l-Ghurba, p. 89-90.
 
-

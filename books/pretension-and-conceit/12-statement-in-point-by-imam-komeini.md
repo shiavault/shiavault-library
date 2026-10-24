@@ -208,4 +208,3 @@ us loving Alin, worshipping I surely YOU can do anything at all."
 This is the conclusion of the wise admonishment of imam Khomeini, may
 his blessings last.
 
-

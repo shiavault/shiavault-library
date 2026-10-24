@@ -126,4 +126,3 @@ verse refers to?
 are morally corrupt and none of the four effects mentioned above can be
 found in them?
 
-

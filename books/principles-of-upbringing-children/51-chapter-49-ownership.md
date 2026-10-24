@@ -69,4 +69,3 @@ of ownership in the child and see that it does not exceed certain
 limits. They must ensure that the child does not become a blind lover of
 wealth in his future life.
 
-

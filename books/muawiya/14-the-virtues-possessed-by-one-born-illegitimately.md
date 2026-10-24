@@ -77,7 +77,6 @@ descendants. His brother, maternal grandfather and uncle were killed at
 the hands of Maula 'Ali (as) at Badr. Mu'awiya was hence motivated by
 hatred and dedicated his life to fighting Imam 'Ali (as).
 
-
 **Mu'awiya's Conquests**
 
 Some advocates of Mu'awiya commonly highlight the fact that the Muslim
@@ -177,7 +176,6 @@ Qur'an Volume 5 page 87, makes these relevant comments:
 risk of running in to danger (from such individuals) if narrators,
 witnesses and writers display such faults then such weaknesses should
 not be hidden, rather they should be conveyed"
-
 
 **Praising a fasiq leads to incurring the wrath of Allah (swt)**
 
@@ -303,7 +301,6 @@ that:
 b. al-Aas and Muawiya indulging themselves by singing. He (s) the
 supplicated that they be thrown in to the Fire"
 
-
 **Mu'awiya shall die a kaafir**
 
 We read in Waq'at Sifeen page 217 and Tareekh Tabari Volume 8 page 186
@@ -363,5 +360,4 @@ said:
 "Hatred of 'Ali is such a thing that no good deeds will benefit, whilst
 love of 'Ali is such a thing that no bad deeds will harm you". (taken
 from Ahlul Sunnah book, al-Nasa'ih al-Kaafiyah page 67).
-
 

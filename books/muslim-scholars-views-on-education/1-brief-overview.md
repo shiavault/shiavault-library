@@ -15,4 +15,3 @@ child should be educated and what the curriculum content should be. The
 final section is about the educational axiology which talks about the
 relationship between religion and intellectual education.
 
-

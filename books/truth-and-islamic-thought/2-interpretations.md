@@ -499,4 +499,3 @@ out to be a transcendence of dichotomic divisions - a transcendence
 which, however, presupposes that each of them is fixed - but only as a
 step in an unceasing movement, equal to any other of its infinite steps.
 
-

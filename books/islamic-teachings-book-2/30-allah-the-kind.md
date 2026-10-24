@@ -20,4 +20,3 @@ repent sincerely for their sins and begin doing good deeds.
 Allah wants goodness and happiness for everyone and is very kind to
 everybody.
 
-

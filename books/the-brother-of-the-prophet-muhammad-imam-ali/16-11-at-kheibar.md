@@ -425,4 +425,3 @@ brotherhood to ‘Ali at the beginning of the Hijrah.
 
 [^7]: Al-Hakim Al-Mustadrak Part 3 pp.130-131.
 
-

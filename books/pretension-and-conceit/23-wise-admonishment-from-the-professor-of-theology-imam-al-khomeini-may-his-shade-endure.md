@@ -180,4 +180,3 @@ burns the apparent and the hidden deeds, rendering him among the fellows
 of hell even through good deeds. Thus ends the wise admonishment of Imām
 al-Khomeini.
 
-

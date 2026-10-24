@@ -260,4 +260,3 @@ Z
 to be given to the religious authorities or to the poor according to
 certain conditions.
 
-

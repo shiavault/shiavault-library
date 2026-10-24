@@ -315,4 +315,3 @@ This is a forthright text signifying that whatever sins and wrongdoings
 man may commit, they only may be committed by Allah’s fate, destiny and
 knowledge, never by Allah’s command.
 
-

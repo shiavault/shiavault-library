@@ -391,4 +391,3 @@ exhortation will not have any effect on him.
 
 [^2]: Imam dar ‘Ayniyat-i Jami‘a, from page 53 on (with slight changes).
 
-

@@ -68,4 +68,3 @@ The last letter of an aorist tense verb is indeclinable in some cases.
 
 [^1]: Refer to question number 237
 
-

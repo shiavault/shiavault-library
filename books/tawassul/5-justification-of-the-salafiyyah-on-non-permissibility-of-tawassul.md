@@ -40,4 +40,3 @@ Messenger of Mercy, I turn my face to You. O Muhammad (S.A.W.A.)!
 through your*wasilah* I am facing Your Lord and I request you to grant
 me my wish. The person attained his goal.[^21]
 
-

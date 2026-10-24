@@ -172,4 +172,3 @@ the All-knowing, the Pardoner, the Forgiving, the Clement, the Merciful!
 And give to us in this world good, and in the hereafter good, and
 protect us from the chastisement of the Fire.
 
-

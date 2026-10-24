@@ -19,42 +19,31 @@ and many other things like that.
 
 Allah has described the hypocrites in more than one place. He said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ
-خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى
-وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ
-الْمُبِينُ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ
+> خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى
+> وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ
+> الْمُبِينُ
 
 ***And among men is he who serves Allah [standing] on the verge. So that
 if good befalls him he is satisfied therewith, but if a trial afflicts
 him he turns back headlong; he loses this world as well*** ***as the
 next; that is a manifest loss.*** (22:11)
 
-
 In describing them, Allah said,
 
 >
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللّهِ وَبِالْيَوْمِ الآخِرِ
-وَمَا هُم بِمُؤْمِنِينَ. يُخَادِعُونَ اللّهَ وَالَّذِينَ آمَنُوا وَمَا
-يَخْدَعُونَ إِلاَّ أَنفُسَهُم وَمَا يَشْعُرُونَ. فِي قُلُوبِهِم
-مَّرَضٌ فَزَادَهُمُ اللّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا
-كَانُوا يَكْذِبُونَ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللّهِ وَبِالْيَوْمِ الآخِرِ
+> وَمَا هُم بِمُؤْمِنِينَ. يُخَادِعُونَ اللّهَ وَالَّذِينَ آمَنُوا وَمَا
+> يَخْدَعُونَ إِلاَّ أَنفُسَهُم وَمَا يَشْعُرُونَ. فِي قُلُوبِهِم
+> مَّرَضٌ فَزَادَهُمُ اللّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا
+> كَانُوا يَكْذِبُونَ
 
 ***There are some people who say, "We believe in Allah and the Last
 Day", but they are not at all believers. They desire to deceive Allah
 and those who believe, but they deceive only themselves while they do
 not perceive. There is a disease in their hearts, so Allah added to
 their disease.*** (2:8-10)
-
 
 The Holy Prophet said, 'The hypocrite is he who, having made a promise,
 breaks it; when he acts, he does evil; when he speaks, he lies; when he
@@ -64,5 +53,4 @@ it is withheld, he makes much of his life.'
 He also said, 'A person whose innermost being contradicts his public
 face is a hypocrite whoever he is, wherever he is, in whatever time he
 lives, and whatever rank he has.'
-
 

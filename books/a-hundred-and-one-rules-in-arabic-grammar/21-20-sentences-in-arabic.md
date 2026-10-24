@@ -11,7 +11,6 @@ Western analysis of Arabic sentence structure , there are two
 types of sentence: nominal and verbal. The Arab Grammarians differ and
 suggest three types.
 
-
 (a)  الجملة الفعلية The verbal sentence is the basic sentence. Its order
 is**(object)\<--- subject \<--- verb.** In this type of sentence, a verb
 is marked by the gender of its subject.
@@ -25,5 +24,4 @@ is marked by the number and gender of its subject.
 subject and a predicate without any expressed verb. The verb "to be" is
 understood,** predicate\<--- subject** . Both the subject and the
 predicate have to be in the nominative case.
-
 

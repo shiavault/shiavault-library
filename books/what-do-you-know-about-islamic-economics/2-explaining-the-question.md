@@ -9,4 +9,3 @@ life as capitalism, for example, has brought forth the principle of
 “economic freedom,” using it as its own general outline in regulating
 the economic life.
 
-

@@ -8,4 +8,3 @@ Jesus the Son of God?” This time I would like to expand on Jesus’ life
 with his mother (peace be upon them both) till the day he was taken up
 to God.
 
-

@@ -6,4 +6,3 @@ joined Imam Husayn and was killed in the first hamlah before the noon of
 Ashura’. He was one of the companions of the Prophet (pbuh&hf) and
 fought with Imam Ali in all three of his battles.
 
-

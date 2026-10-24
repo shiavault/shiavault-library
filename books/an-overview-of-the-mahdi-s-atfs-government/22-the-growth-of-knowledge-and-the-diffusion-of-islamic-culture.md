@@ -397,7 +397,6 @@ In this
 
 hadith
 
-  
 the phrase
 
 “
@@ -414,7 +413,6 @@ the phrase
 **
 يملأ
 
-  
 ”
 
 has been used, which implies that their hearts are full of the sense of
@@ -432,7 +430,6 @@ Imam al-Baqir (
 
 ‘a
 
-  
 ) said: “When our Qa’im rises up, he will put his hand on the heads of
 the servants of God and their intellects will be gathered (i.e., he will
 give them concentration and intellectual growth by the will of God) and
@@ -453,7 +450,6 @@ h
 *
 ar al-Anwar
 
-  
 mentions the phrase,
 
 “
@@ -463,7 +459,6 @@ mentions the phrase,
 
 أحلامهم
 
-  
 ”
 
 which means, “their wishes”.
@@ -611,5 +606,4 @@ vol. 34, p. 493; Abu Ya‘la, Musnad, vol. 11, p. 32; Jami‘ al-Usul, vol.
 11, p. 38.
 
 [^34]: Al-Usul as-Sittah ‘Ashar, p. 6; Bihar al-Anwar, vol. 67, p. 350.
-
 

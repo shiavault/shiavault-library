@@ -34,7 +34,6 @@ is taken from one of the words at the beginning of the Sura; however, in
 the traditions we will discuss, here, about the virtue of the Sura, only
 Hal-ata is mentioned.
 
-
 **Was the Sura revealed In Medina?**
 
 The consensus of scholars and commentators is that all or at least part
@@ -106,7 +105,6 @@ Shafi'i's 'Kifayat-at-Ta1ib' and so on. This verification is so
 reputable and well known that Mohammad Ibn-Idris Shafi'i has referred to
 it in his poem:
 
-
 "How longs, how longs. Up until when.
 
 Will you reproach me my love For this Sentle man?
@@ -140,5 +138,4 @@ Judgment." (2)
 
 (1) Majma'-al-Bayan, vol. 10, p. 402.
 (2) Ibid
-
 

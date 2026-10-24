@@ -4,12 +4,8 @@ Section 12: Apostle Muhammad a Witness Over All Witnesses
 Surah An-Nahl – Verse 84
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نَبْعَثُ مِن كُلّ‌ِ اُمَّةٍ شَهِيداً ثُمَّ لاَ يُؤْذَنُ
-لِلَّذِينَ كَفَرُوا وَلاَ هُمْ يُسْتَعْتَبُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ نَبْعَثُ مِن كُلّ‌ِ اُمَّةٍ شَهِيداً ثُمَّ لاَ يُؤْذَنُ
+> لِلَّذِينَ كَفَرُوا وَلاَ هُمْ يُسْتَعْتَبُونَ
 
 ***84. “And (remember) the Day We will raise up a witness from every
 nation. Then, shall no permission be given to those who disbelieved, nor
@@ -102,12 +98,8 @@ they be allowed to make amends.”***
 Surah An-Nahl – Verse 85
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ
-وَلَا هُمْ يُنظَرُونَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ
+> وَلَا هُمْ يُنظَرُونَ
 
 ***85. “And when those who were unjust behold the chastisement, it shall
 not be lightened for them nor will they be respited.”***
@@ -131,13 +123,9 @@ be lightened for them nor will they be respited.”***
 Surah An-Nahl – Verse 86
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَي الَّذِينَ أَشْرَكُوا شُرَكَآءَهُمْ قَالُوا رَبَّنَا
-هَؤُلآءِ شُرَكَآؤُنَا الَّذِينَ كُنَّا نَدْعُواْ مِن دُونِكَ
-فَاَلْقَوْا إِلَيْهِمُ الْقَوْلَ إِنَّكُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَي الَّذِينَ أَشْرَكُوا شُرَكَآءَهُمْ قَالُوا رَبَّنَا
+> هَؤُلآءِ شُرَكَآؤُنَا الَّذِينَ كُنَّا نَدْعُواْ مِن دُونِكَ
+> فَاَلْقَوْا إِلَيْهِمُ الْقَوْلَ إِنَّكُمْ لَكَاذِبُونَ
 
 ***86. “And when those who associated (others with Allah) behold their
 associates, they shall say: ‘Our Lord! these are our associates whom we
@@ -182,12 +170,8 @@ other’s shoulders for delivering himself, but to no good effects.
 Surah An-Nahl – Verse 87
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَلْقَوْا إِلَي اللَّهِ يَوْمَئِذٍ السَّلَمَ وَضَلَّ عَنْهُم مَّا
-كَانُوا يَفْتَرُونَ
-  </p>
-</blockquote>
+> وَأَلْقَوْا إِلَي اللَّهِ يَوْمَئِذٍ السَّلَمَ وَضَلَّ عَنْهُم مَّا
+> كَانُوا يَفْتَرُونَ
 
 ***87. “And they will tender submission to Allah on that day, and what
 they used to forge shall depart from them.”***
@@ -218,12 +202,8 @@ used to forge shall depart from them.”***
 Surah An-Nahl – Verse 88
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَاباً
-فَوْقَ الْعَذَابِ بِمَا كَانُوا يُفْسِدُونَ
-  </p>
-</blockquote>
+> الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَاباً
+> فَوْقَ الْعَذَابِ بِمَا كَانُوا يُفْسِدُونَ
 
 ***88. “Those who disbelieved and hindered (people) from the path of
 Allah, We added punishment to punishment for that they used to spread
@@ -257,14 +237,10 @@ decreasing anything from their sin.”*
 Surah An-Nahl – Verse 89
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نَبْعَثُ فِي كُلّ‌ِ اُمَّةٍ شَهِيداً عَلَيْهِم مِنْ
-أَنفُسِهِمْ وَجِئْنَا بِكَ شَهِيداً عَلَي هَؤُلآءِ وَنَزَّلْنَا
-عَلَيْكَ الْكِتَابَ تِبْيَاناً لِكُلّ‌ِ شَيْءٍ وَهُدًي وَرَحْمَةً
-وَبُشْرَي لِلْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ نَبْعَثُ فِي كُلّ‌ِ اُمَّةٍ شَهِيداً عَلَيْهِم مِنْ
+> أَنفُسِهِمْ وَجِئْنَا بِكَ شَهِيداً عَلَي هَؤُلآءِ وَنَزَّلْنَا
+> عَلَيْكَ الْكِتَابَ تِبْيَاناً لِكُلّ‌ِ شَيْءٍ وَهُدًي وَرَحْمَةً
+> وَبُشْرَي لِلْمُسْلِمِينَ
 
 ***89. “And (remember) the day when We raise up a witness from every
 people against them from among themselves, and We shall bring you as a
@@ -387,5 +363,4 @@ them…”***[^15]
 [^14]: Surah Al-Hashr, No. 59, verse 7
 
 [^15]: Surah An-Nahl, No. 16, verse 44
-
 

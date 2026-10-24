@@ -116,4 +116,3 @@ according to its design?
 10. Why are individuals forced to divide their labour amongst
 themselves?
 
-

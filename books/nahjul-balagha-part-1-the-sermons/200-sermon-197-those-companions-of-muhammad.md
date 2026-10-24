@@ -4,17 +4,9 @@ Sermon 197: Those companions of Muhammad….
 *Amir al-mu'minin's attachment to the Holy Prophet. The performance of
 his funeral rites.*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-ينبّه فيها على فضيلته لقبول قوله وأمره ونهيه
-  </p>
-</blockquote>
+> ينبّه فيها على فضيلته لقبول قوله وأمره ونهيه
 
 Those companions of Muhammad - the peace and blessing of Allah be upon
 him and his descendants - who were the custodians (of divine messages)
@@ -24,15 +16,11 @@ virtue of the courage [^2] with which Allah honoured me I supported him
 with my life on occasions when even the brave turned away and feet
 remained behind (instead of proceeding forward).
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَلِمَ الْمُسْتَحْفَظُونَ مِنْ أَصْحَابِ مُحَمَّد(صلى الله
-عليه وآله) أَنِّي لَمْ أَرُدَّ عَلَى الله وَلاَ عَلَى رَسُولِهِ
-سَاعَةً قَطُّ، وَلَقَدْ وَاسَيْتُهُ بِنَفْسِي فِي الْمَوَاطِنِ الَّتي
-تَنْكُصُ فِيهَا الاْبْطَالُ وَتَتَأَخَّرُ الاْقْدَامُ، نَجْدَةً
-أَكْرَمَنِي اللهُ بِهَا.
-  </p>
-</blockquote>
+> وَلَقَدْ عَلِمَ الْمُسْتَحْفَظُونَ مِنْ أَصْحَابِ مُحَمَّد(صلى الله
+> عليه وآله) أَنِّي لَمْ أَرُدَّ عَلَى الله وَلاَ عَلَى رَسُولِهِ
+> سَاعَةً قَطُّ، وَلَقَدْ وَاسَيْتُهُ بِنَفْسِي فِي الْمَوَاطِنِ الَّتي
+> تَنْكُصُ فِيهَا الاْبْطَالُ وَتَتَأَخَّرُ الاْقْدَامُ، نَجْدَةً
+> أَكْرَمَنِي اللهُ بِهَا.
 
 When the Prophet - the peace and blessing of Allah be upon him and his
 descendants - died his head was on my chest, and his (last) breath blew
@@ -50,21 +38,17 @@ god but He, that I am on the path of truth and that they (the enemy) are
 on the misleading path of wrong. You hear what I say; and I seek Allah's
 forgiveness for myself and for you.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ قُبِضَ رَسُولُ اللهِ (صلى الله عليه وآله) وَإِنَّ رَأْسَهُ
-لَعَلَى صَدْرِي. وَلَقَدْ سَالَتْ نَفْسُهُ فِي كَفِّي، فَأَمْرَرْتُهَا
-عَلَىُ وَجْهِي. وَلَقَدْ وُلِّيتُ غُسْلَهُ (صلى الله عليه وآله)
-وَالْمَلاَئِكُةُ أَعْوَانِي، فَضَجَّتِ الدَّارُ والاْفْنِيَةُ، مَلاَ
-يُهْبِطُ، وَمَلاَ يَعْرُجُ، وَمَا فَارَقَتْ سَمْعِي هَيْنَمَةٌ
-مِنْهُمْ، يُصَلُّونَ عَلَيْهِ حَتَّى وَارَيْنَاهُ فِي ضَرِيحِهِ.
-فَمَنْ ذَا أَحَقُّ بِهِ مِنِّي حَيّاً وَمَيِّتاً؟ فَانْفُذُوا عَلَى
-بَصَائِرِكُمْ، وَلْتَصْدُقْ نِيَّاتُكُمْ فِي جِهَادِ عَدُوِّكُمْ،
-فَوَالَّذِي لاَ إِلهَ إِلاَّ هُوَ إِنِّي لَعَلَى جَادَّةِ الْحَقِّ،
-وَإِنَّهُمْ لَعَلَى مَزَلَّةِ الْبَاطِلِ. أَقُولُ مَا تَسْمَعُونَ،
-وَأَسْتَغْفِرُ اللهَ لِي وَلَكُمْ!
-  </p>
-</blockquote>
+> وَلَقَدْ قُبِضَ رَسُولُ اللهِ (صلى الله عليه وآله) وَإِنَّ رَأْسَهُ
+> لَعَلَى صَدْرِي. وَلَقَدْ سَالَتْ نَفْسُهُ فِي كَفِّي، فَأَمْرَرْتُهَا
+> عَلَىُ وَجْهِي. وَلَقَدْ وُلِّيتُ غُسْلَهُ (صلى الله عليه وآله)
+> وَالْمَلاَئِكُةُ أَعْوَانِي، فَضَجَّتِ الدَّارُ والاْفْنِيَةُ، مَلاَ
+> يُهْبِطُ، وَمَلاَ يَعْرُجُ، وَمَا فَارَقَتْ سَمْعِي هَيْنَمَةٌ
+> مِنْهُمْ، يُصَلُّونَ عَلَيْهِ حَتَّى وَارَيْنَاهُ فِي ضَرِيحِهِ.
+> فَمَنْ ذَا أَحَقُّ بِهِ مِنِّي حَيّاً وَمَيِّتاً؟ فَانْفُذُوا عَلَى
+> بَصَائِرِكُمْ، وَلْتَصْدُقْ نِيَّاتُكُمْ فِي جِهَادِ عَدُوِّكُمْ،
+> فَوَالَّذِي لاَ إِلهَ إِلاَّ هُوَ إِنِّي لَعَلَى جَادَّةِ الْحَقِّ،
+> وَإِنَّهُمْ لَعَلَى مَزَلَّةِ الْبَاطِلِ. أَقُولُ مَا تَسْمَعُونَ،
+> وَأَسْتَغْفِرُ اللهَ لِي وَلَكُمْ!
 
 Alternative Sources for Sermon 197
 ----------------------------------
@@ -146,5 +130,4 @@ you nothing, and was straitened the earth against you with all its
 extensiveness, then ye turned back in retreat. (9:25) On this occasion
 also, Amir al-mu'minin was steady like a rock, and eventually, with
 Allah's support, victory was achieved.
-
 

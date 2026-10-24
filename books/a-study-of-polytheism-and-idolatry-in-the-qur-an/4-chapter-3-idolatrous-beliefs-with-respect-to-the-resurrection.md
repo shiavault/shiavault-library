@@ -389,4 +389,3 @@ mentioned in 56: 10)
 
 [^31]: Sūrat Saba’ 34:7.
 
-

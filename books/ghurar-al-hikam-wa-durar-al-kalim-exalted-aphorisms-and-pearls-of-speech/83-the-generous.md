@@ -8,11 +8,7 @@ generosity reaches his praiser, and the stingy person is the opposite of
 this.
 
 > 1ـ اَلجَوادُ مَحْبُوبٌ، مَحْمُودٌ، وإنْ لَمْ يَصِلْ مِنْ جُودِهِ إلى
-<blockquote dir="rtl">
-  <p>
-مادِحِهِ شَيْءٌ، والبَخِيْلُ ضِدُّ ذلِكَ.
-  </p>
-</blockquote>
+> مادِحِهِ شَيْءٌ، والبَخِيْلُ ضِدُّ ذلِكَ.
 
 2. The one who is generous is praised in this world and felicitous in
 the Hereafter.
@@ -32,10 +28,5 @@ are the generous.
 from the third kind (i.e. the misers).
 
 > 5ـ كُنْ جَواداً مُؤْثِراً، أوْ مُقْتَصِداً مُقَدِرّاً، وإيّاكَ أنْ
-<blockquote dir="rtl">
-  <p>
-تَكُونَ الثّالِثَ.
-  </p>
-</blockquote>
-
+> تَكُونَ الثّالِثَ.
 

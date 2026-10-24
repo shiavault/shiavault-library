@@ -56,13 +56,9 @@ of someone is because of the sexual urge.
 
 The Holy Verse reads:
 
-<blockquote dir="rtl">
-  <p>
-لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ وَ مَن قُدِرَ عَلَيْهِ رِزْقُهُ
-فَلْيُنفِقْ مِمَّا ءَاتَئهُ اللَّهُ لَا يُكلَِّفُ اللَّهُ نَفْسًا
-إِلَّا مَا ءَاتَئهَا
-  </p>
-</blockquote>
+> لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ وَ مَن قُدِرَ عَلَيْهِ رِزْقُهُ
+> فَلْيُنفِقْ مِمَّا ءَاتَئهُ اللَّهُ لَا يُكلَِّفُ اللَّهُ نَفْسًا
+> إِلَّا مَا ءَاتَئهَا
 
 ***Let him who has abundance, spend of his abundance, and he whose
 provision is measured, let him spend of that which Allah hath given him.
@@ -76,13 +72,9 @@ cannot acquire these essentials on his own, others must assist him.
 Since the sexual instinct is different from other human instincts, the
 Holy Quran has a specific and distinct commandment about it:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنكِحُواْ الْأَيَمَى‏ مِنكمُ‏ْ وَ الصَّلِحِينَ مِنْ عِبَادِكمُ‏ْ
-وَ إِمَائكُمْ إِن يَكُونُواْ فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِن فَضْلِهِ
-وَ اللَّهُ وَسِعٌ عَلِيم
-  </p>
-</blockquote>
+> وَ أَنكِحُواْ الْأَيَمَى‏ مِنكمُ‏ْ وَ الصَّلِحِينَ مِنْ عِبَادِكمُ‏ْ
+> وَ إِمَائكُمْ إِن يَكُونُواْ فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِن فَضْلِهِ
+> وَ اللَّهُ وَسِعٌ عَلِيم
 
 ***And marry such of you as are solitary and the pious of your slaves
 and maidservants. If they be poor, Allah will enrich them of His bounty.
@@ -197,13 +189,9 @@ apples. All those beautiful women became attracted to and desired Yusuf
 unscathed. Here I would like to quote a verse from the Holy Quran that I
 request the young ones and their parents to bear in mind:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‏ِ السِّجْنُ أَحَبُّ إِلىَ‏َّ مِمَّا يَدْعُونَنىِ إِلَيْهِ
-وَ إِلَّا تَصْرِفْ عَنىّ‏ِ كَيْدَهُنَّ أَصْبُ إِلَيهِْنَّ وَ أَكُن
-مِّنَ الجَْهِلِين
-  </p>
-</blockquote>
+> قَالَ رَبّ‏ِ السِّجْنُ أَحَبُّ إِلىَ‏َّ مِمَّا يَدْعُونَنىِ إِلَيْهِ
+> وَ إِلَّا تَصْرِفْ عَنىّ‏ِ كَيْدَهُنَّ أَصْبُ إِلَيهِْنَّ وَ أَكُن
+> مِّنَ الجَْهِلِين
 
 ***He said my Lord I prefer the prison to them, and if Thou will not
 fend off their wiles from me I shall incline unto them and become of the
@@ -306,5 +294,4 @@ celebrating the wedding of sixteen sisters.
 
 Today’s discussion is incomplete. Inshallah, I shall continue this
 discussion in my subsequent talks.
-
 

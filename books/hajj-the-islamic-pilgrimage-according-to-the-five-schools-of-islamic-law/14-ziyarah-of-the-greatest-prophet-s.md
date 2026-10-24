@@ -31,4 +31,3 @@ believed. We think this is highly probable, because it agrees closely
 with the tradition that her grave is in a garden between the grave (of
 the Prophet) and the *minbar.* Allah alone has knowledge of everything.
 
-

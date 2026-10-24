@@ -15,4 +15,3 @@ The Victor And The Vanquished
 
 > 3ـ كُلُّ غالِب غَيْرُ اللّهِ مَغْلُوبٌ.
 
-

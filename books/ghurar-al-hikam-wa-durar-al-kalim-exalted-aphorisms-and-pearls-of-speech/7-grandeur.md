@@ -8,4 +8,3 @@ actually the lowliest of the low.
 
 > 1ـ رُبَّ ذي اُبَّهـَة أحْقَرُ مِنْ كُلِّ حَقير.
 
-

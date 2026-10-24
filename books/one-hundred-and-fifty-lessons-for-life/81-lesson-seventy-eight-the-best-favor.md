@@ -3,12 +3,8 @@ Lesson Seventy Eight: The Best Favor
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-أَجَلُّ النِّعَمِ اَلْعافِيَةُ وَ خَيْرُ مادَامَ فِى الْقَلْبِ
-الْيَقيِنُ
-  </p>
-</blockquote>
+> أَجَلُّ النِّعَمِ اَلْعافِيَةُ وَ خَيْرُ مادَامَ فِى الْقَلْبِ
+> الْيَقيِنُ
 
 Translation
 -----------
@@ -29,5 +25,4 @@ humiliation, inferiority and taint . It bestows tranquility to the heart
 and the soul!
 
 [^1]: Tuhaful Uqul, page 206. Al-Tamhees, page 61.
-
 

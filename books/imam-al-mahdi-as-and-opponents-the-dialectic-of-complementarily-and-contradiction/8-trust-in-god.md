@@ -31,7 +31,6 @@ sustains and comforts whoever accepts Him in his life with His infinite
 Love. "Whoever relieves in his Lord need fear no loss nor injustice."
 (24)
 
-
 **Strength in the face of suffering**
 
 Suffering is a feeling of deprivation, and, as such, may become a
@@ -264,5 +263,4 @@ efforts on poverty eradication and fighting hunger, are tangible issues,
 which profoundly affect human life and need more "Surely Allah will
 raise for this community at the beginning of every century one who shall
 revive for it its faith." (34)
-
 

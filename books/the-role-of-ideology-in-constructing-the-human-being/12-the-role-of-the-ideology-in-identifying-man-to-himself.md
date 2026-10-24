@@ -178,7 +178,6 @@ a sinful person to despair, so many a sin committer had a good end and
 so many people were practicing a good deed at the end of their age,
 would go to Hell may Allah save us from it”.[^79]
 
-
 [^1] Alseerah Alnabaweiah, Abbilfeda’a: 2:420 Dar alreaed Alarabi
 edition: 3.
 
@@ -230,7 +229,6 @@ A.H.
 [^24] Aljuma’aa 62: 6-7.
 
 [^25] Nehjilbalagha, Subhi Alsaalih 81/ sermon 38.
-
 
 [^26] Tenbeehil Khawaatir, Ameer Warraam 1-2/ 268/ baab Zekrelmawt.
 
@@ -344,5 +342,4 @@ foundation edit: 2.
 [^78] Rawzatel Waaeizeen: 285, merits of Abbizar.
 
 [^79] Tuhafil Aukoul: 66, Ala’alami foundation edit: 5.
-
 

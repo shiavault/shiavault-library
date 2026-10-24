@@ -51,4 +51,3 @@ One thing is sure.
 affliction, and makes you inheritors of the earth. Another God besides
 Allah? How little you reflect."*
 
-

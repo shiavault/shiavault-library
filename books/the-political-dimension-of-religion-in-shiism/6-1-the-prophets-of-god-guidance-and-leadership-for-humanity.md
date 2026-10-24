@@ -65,7 +65,6 @@ God- The seal of Prophets. Once he died, Prophethood ended but not the
 divine guidance and leadership of humanity that continued in the mind of
 the Shia.
 
-
 **2. Imamate**
 
 The Shia believes that humanity is in need of sustained spiritual
@@ -174,5 +173,4 @@ by God's appointment. Following this interpretation, the followers of
 the imams provide a large number of traditions and historical evidence
 that confirm the delegation of the imams, by God, through the Prophet,
 as "guardians of the believers" (wali).
-
 

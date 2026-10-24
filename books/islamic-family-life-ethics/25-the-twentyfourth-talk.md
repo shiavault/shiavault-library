@@ -93,20 +93,12 @@ There are several verses in the Holy Quran that talk about Satan
 resolving to tempt and misguide men. He said to Allah that he would make
 men misguided and helpless.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِمَا أَغْوَيْتَنىِ لَأَقْعُدَنَّ لهَُمْ صرَِطَكَ
-الْمُسْتَقِيمَ‏
-  </p>
-</blockquote>
+> قَالَ فَبِمَا أَغْوَيْتَنىِ لَأَقْعُدَنَّ لهَُمْ صرَِطَكَ
+> الْمُسْتَقِيمَ‏
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لاََتِيَنَّهُم مِّن بَينْ‏ِ أَيْدِيهِمْ وَ مِنْ خَلْفِهِمْ وَ
-عَنْ أَيْمَنهِِمْ وَ عَن شَمَائلِهِمْ وَ لَا تجَِدُ أَكْثَرَهُمْ
-شَكِرِين
-  </p>
-</blockquote>
+> ثُمَّ لاََتِيَنَّهُم مِّن بَينْ‏ِ أَيْدِيهِمْ وَ مِنْ خَلْفِهِمْ وَ
+> عَنْ أَيْمَنهِِمْ وَ عَن شَمَائلِهِمْ وَ لَا تجَِدُ أَكْثَرَهُمْ
+> شَكِرِين
 
 ***He said: Now, because Thou hast sent me astray, verily I shall lurk
 in ambush for them on the*** ***Right Path. Then I shall come upon them
@@ -143,19 +135,11 @@ lead the pious into Hell through the path of *taharat* (purity),
 Another verse of the Quran also means nearly the same thing, in which
 Satan has vowed that:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ لَأَتخَِّذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا
-  </p>
-</blockquote>
+> وَ قَالَ لَأَتخَِّذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا
 
-<blockquote dir="rtl">
-  <p>
-وَ لَأُضِلَّنَّهُمْ وَ لَأُمَنِّيَنَّهُمْ وَ لاََمُرَنَّهُمْ
-فَلَيُبَتِّكُنَّ ءَاذَانَ الْأَنْعَمِ وَ لاََمُرَنهَُّمْ
-فَلَيُغَيرُِّنَّ خَلْقَ اللَّهِ
-  </p>
-</blockquote>
+> وَ لَأُضِلَّنَّهُمْ وَ لَأُمَنِّيَنَّهُمْ وَ لاََمُرَنَّهُمْ
+> فَلَيُبَتِّكُنَّ ءَاذَانَ الْأَنْعَمِ وَ لاََمُرَنهَُّمْ
+> فَلَيُغَيرُِّنَّ خَلْقَ اللَّهِ
 
 ***…..Surely I will take of Thy bondmen an appointed portion.***  
 ***And surely I will lead them astray, and surely I will arouse desires
@@ -181,13 +165,9 @@ was thrown out, he said that he would misguide everybody. Allah said:
 
 :
 
-<blockquote dir="rtl">
-  <p>
-وَ اسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنهُْم بِصَوْتِكَ وَ أَجْلِبْ
-عَلَيهِْم بخَِيْلِكَ وَ رَجِلِكَ وَ شَارِكْهُمْ فىِ الْأَمْوَلِ وَ
-الْأَوْلَدِ وَ عِدْهُمْ وَ مَا يَعِدُهُمُ الشَّيْطَنُ إِلَّا غُرُورًا
-  </p>
-</blockquote>
+> وَ اسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنهُْم بِصَوْتِكَ وَ أَجْلِبْ
+> عَلَيهِْم بخَِيْلِكَ وَ رَجِلِكَ وَ شَارِكْهُمْ فىِ الْأَمْوَلِ وَ
+> الْأَوْلَدِ وَ عِدْهُمْ وَ مَا يَعِدُهُمُ الشَّيْطَنُ إِلَّا غُرُورًا
 
 ***And excite any of them whom thou canst with thy voice, and rally
 against them your cavalry and*** ***infantry, and be a partner in their
@@ -215,11 +195,7 @@ erudite person used to say that: every person has a satan with him, but
 my satan is one who guides the other satans. He proved his point from
 the Holy Quran that says:
 
-<blockquote dir="rtl">
-  <p>
-َ وَ أَجْلِبْ عَلَيهِْم بخَِيْلِكَ وَ رَجِلِك
-  </p>
-</blockquote>
+> َ وَ أَجْلِبْ عَلَيهِْم بخَِيْلِكَ وَ رَجِلِك
 
 ***…And rally against them your cavalry and infantry….*** ***(Sura
 al-’Isra’, 17: 64)***
@@ -232,17 +208,9 @@ and Naas, a point deserves our special attention and it especially
 deserves the attention of those who doubt. In Sura al Falaq, Allah’s
 protection is sought from four things:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ‏
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ‏
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبّ‏ِ الْفَلَق
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبّ‏ِ الْفَلَق
 
 ***O Allah! I seek your protection from the wickedness***  
 ***Of people (Sura Al-Falaq, 113:1)***
@@ -250,11 +218,7 @@ protection is sought from four things:
 Definitely one has to seek protection from the wickedness of the strong
 enemies.
 
-<blockquote dir="rtl">
-  <p>
-وَ مِن شَرِّ غَاسِقٍ إِذَا وَقَب
-  </p>
-</blockquote>
+> وَ مِن شَرِّ غَاسِقٍ إِذَا وَقَب
 
 ***From the evil of the darkness when it is intense.*** ***(Sura
 Al-Falaq, 113:2)***
@@ -262,11 +226,7 @@ Al-Falaq, 113:2)***
 The times when the evil practices of sexual promiscuity prevail, may
 Allah keep us protected!
 
-<blockquote dir="rtl">
-  <p>
-وَ مِن شَرِّ النَّفَّثَتِ فىِ الْعُقَد
-  </p>
-</blockquote>
+> وَ مِن شَرِّ النَّفَّثَتِ فىِ الْعُقَد
 
 ***And from the evil of malignant witch-craft, (Sura Al-Falaq, 113:4)***
 
@@ -277,11 +237,7 @@ comes and starts displaying her feminine charms to him. This verse says
 that the person should seek Allah’s protection from the evil of such
 episodes and in such situations.
 
-<blockquote dir="rtl">
-  <p>
-وَ مِن شَرِّ حَاسِدٍ إِذَا حَسَد
-  </p>
-</blockquote>
+> وَ مِن شَرِّ حَاسِدٍ إِذَا حَسَد
 
 ***And from the evil of the envier when he envieth (Sura Al-Falaq,
 113:5)***
@@ -292,27 +248,15 @@ adversaries.
 These are four very important things for which protection is sought in
 this Sura. But in Sura al Naas protection is sought thrice.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبّ‏ِ النَّاسِ
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبّ‏ِ النَّاسِ
 
 ***Say: I seek refuge in the Lord of mankind.***
 
-<blockquote dir="rtl">
-  <p>
-مَلِكِ النَّاسِ
-  </p>
-</blockquote>
+> مَلِكِ النَّاسِ
 
 ***The King of mankind***
 
-<blockquote dir="rtl">
-  <p>
-إِلَهِ النَّاسِ
-  </p>
-</blockquote>
+> إِلَهِ النَّاسِ
 
 ***The God of mankind*** **(*****Sura Al-Naas, 114:1-3)***
 
@@ -320,11 +264,7 @@ Here *King of mankind* and *God of mankind* have a qualitative aspect,
 but actually the supplicant is seeking the refuge in his Lord. From what
 is he seeking refuge?
 
-<blockquote dir="rtl">
-  <p>
-مِن شَرِّ الْوَسْوَاسِ الخَْنَّاس
-  </p>
-</blockquote>
+> مِن شَرِّ الْوَسْوَاسِ الخَْنَّاس
 
 ***From the evil of the sneaking whisperer,( Sura Al-Naas, 114:4)***
 
@@ -420,5 +360,4 @@ persons, and specially those who suffer from *waswasa* of thoughts and
 
 ***Al hamdu lillahi Rabil aalameen was salatu was salam ala Mohammad wa
 Alihit tahereen!***
-
 

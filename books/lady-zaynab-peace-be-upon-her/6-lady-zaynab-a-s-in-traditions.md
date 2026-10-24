@@ -118,4 +118,3 @@ of the Holy Prophet (a.s.) about what they would face after him.[^87] In
 the same manner, she narrated her father’s confirmation of Umme Ayman’s
 narration in the same respect.
 
-

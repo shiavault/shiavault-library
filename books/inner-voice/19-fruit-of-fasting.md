@@ -47,4 +47,3 @@ spend our time in remembering God, praying for His love, repenting for
 our sins, we can be sure that God will bless us with His love and His
 mercy.
 
-

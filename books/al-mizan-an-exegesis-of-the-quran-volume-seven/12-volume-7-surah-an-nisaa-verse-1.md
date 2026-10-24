@@ -332,4 +332,3 @@ chastisement for the offenders) have very strong connection with the
 divine purpose, i.e., protecting the humanity's unity from disorder,
 decline and fall.
 
-

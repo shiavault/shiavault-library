@@ -18,4 +18,3 @@ mushaf; all that we wish to point out is that her mushaf was not a
 mus­haf of the Qur'an and therefore what some persons have imagined is
 out of question.
 
-

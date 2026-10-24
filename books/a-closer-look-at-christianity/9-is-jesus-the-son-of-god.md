@@ -15,4 +15,3 @@ the only begotten son of God, or that there were more than one. Also let
 us investigate whether Jesus was the only one born of God. Finally, let
 us investigate whether the word begotten is to be taken literally.
 
-

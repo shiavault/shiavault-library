@@ -44,17 +44,13 @@ have been taken from the Qur’ān.
 
 In Sūratul Nisā, verses 97- 99, we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَوَفٌّاهُمُ الْمَلآئِكَةُ ظٌالِمِي أَنْفُسِهِمْ
-قٌالُوا فِيمَ كُنتُمْ قٌالُوا كُنٌّا مُسْتَضْعَفِينَ فِي الأَرْضِ
-قٌالُوا أَلَمْ تَكُنْ أَرْضُ اللٌّهِ وٌاسِعَةً فَتُهٌاجِرُوا فِيهٌا
-فَأُوْلٌـئِكَ مَأْوٌاهُمْ جَهَنَّمُ وَسٌاءَتْ مَصِيرًا إِلاَّ
-الْمُسْتَضْعَفِينَ مِنَ الرِّجٌالِ وَالنِّسٌاءِ وَالْوِلْدٌانِ لاٌ
-يَسْتَطِيعُونَ حِيلَةً وَلاٌ يَهْتَدُونَ سَبِيلاً فَأُوْلٌـئِكَ عَسَى
-اللٌّهُ أَنْ يَعْفُوَ عَنْهُمْ وَكٌانَ اللٌّهُ عَفُوًّا غَفُورًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَوَفٌّاهُمُ الْمَلآئِكَةُ ظٌالِمِي أَنْفُسِهِمْ
+> قٌالُوا فِيمَ كُنتُمْ قٌالُوا كُنٌّا مُسْتَضْعَفِينَ فِي الأَرْضِ
+> قٌالُوا أَلَمْ تَكُنْ أَرْضُ اللٌّهِ وٌاسِعَةً فَتُهٌاجِرُوا فِيهٌا
+> فَأُوْلٌـئِكَ مَأْوٌاهُمْ جَهَنَّمُ وَسٌاءَتْ مَصِيرًا إِلاَّ
+> الْمُسْتَضْعَفِينَ مِنَ الرِّجٌالِ وَالنِّسٌاءِ وَالْوِلْدٌانِ لاٌ
+> يَسْتَطِيعُونَ حِيلَةً وَلاٌ يَهْتَدُونَ سَبِيلاً فَأُوْلٌـئِكَ عَسَى
+> اللٌّهُ أَنْ يَعْفُوَ عَنْهُمْ وَكٌانَ اللٌّهُ عَفُوًّا غَفُورًا
 
 ***“And those whose souls the Angels take while they are oppressive to
 themselves; they say, ‘What state were you in?’ They say, ‘We were weak
@@ -102,12 +98,8 @@ various reasons have remained incapable, have been counted among the
 
 In verse 106 of Sūratul Tawbah (9), God says:
 
-<blockquote dir="rtl">
-  <p>
-وَ ءٌاخِرُونَ مُرْجُونَ لِأَمْرِ اللٌّهِ إِمٌّا يُعَذِّبُهُمْ وَ
-إِمٌَا يَتُوبُ عَلَيْهِمْ وَ اللٌّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَ ءٌاخِرُونَ مُرْجُونَ لِأَمْرِ اللٌّهِ إِمٌّا يُعَذِّبُهُمْ وَ
+> إِمٌَا يَتُوبُ عَلَيْهِمْ وَ اللٌّهُ عَلِيمٌ حَكِيمٌ
 
 ***“And others who are awaiting the command of God, He will either
 punish them or He will forgive them; and God is Knowing, Wise.”***
@@ -192,12 +184,8 @@ people of denial and annihilation.[^7]
 Also in al-Kāfī, it is narrated from Imām Ja\`far Ibn Muhammad as-Ŝādiq
 (as):
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَنَّ الْعِبٌادَ إِذٌا جَهَلُوا وَقَفُوا وَلو لَمَْ يَجْحَدُوا،
-لَمْ يَكْفُرُوا
-  </p>
-</blockquote>
+> لَوْ أَنَّ الْعِبٌادَ إِذٌا جَهَلُوا وَقَفُوا وَلو لَمَْ يَجْحَدُوا،
+> لَمْ يَكْفُرُوا
 
 *“If only people, when they are ignorant, pause and don’t reject, they
 will not be unbelievers.*”[^8]
@@ -222,12 +210,8 @@ category.
 In al-Kāfī, in the section “Kitāb al-Ĥujjah,” Shaykh Kulaynī narrates
 several traditions to the effect that:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَنْ دٌانَ اللٌّهَ عَزَّ وَّجَلَّ بِعِبٌادَةِ يَجْهَدْ فِيهٌا
-نَفْسَهُ وَلاٌ إِمٌامَ لَهُ مِنَ اللٌّهِ فَسَعْيِهِ غَيْرَ مَقْبُولٍ
-  </p>
-</blockquote>
+> كُلُّ مَنْ دٌانَ اللٌّهَ عَزَّ وَّجَلَّ بِعِبٌادَةِ يَجْهَدْ فِيهٌا
+> نَفْسَهُ وَلاٌ إِمٌامَ لَهُ مِنَ اللٌّهِ فَسَعْيِهِ غَيْرَ مَقْبُولٍ
 
 *“Whoever obeys God with an act of worship in which he exhausts himself,
 but doesn’t have an Imām appointed by God, his effort is not
@@ -235,11 +219,7 @@ accepted.*”[^9]
 
 Or that:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ يَقْبَلَ اللٌّهُ أَعْمٌالَ الْعِبٌادَ إِلاَّ بِمَعْرِفَتِهِ
-  </p>
-</blockquote>
+> لاٌ يَقْبَلَ اللٌّهُ أَعْمٌالَ الْعِبٌادَ إِلاَّ بِمَعْرِفَتِهِ
 
 *“God does not accept the actions of His servants without recognition of
 him (the Imām).*”[^10]
@@ -247,14 +227,10 @@ him (the Imām).*”[^10]
 At the same time, in that same “Kitāb al-Ĥujjah” of al-Kāfī it is
 narrated from Imām Ja\`far Ibn Muhammad as-Ŝādiq (as):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَرَفَنٌا كٌانَ مُؤْمِناً، وَمَنْ أَنْكَرَنٌا كٌانَ كٌافِراً،
-وَمَنْ لَمْ يَعْرِفْنٌا وَلَمْ يَنْكِرْنٌا كٌانَ ضٌالاً حَتَّى رجع
-إِلـى الْهُدى الَّذِي افْتَرَضَ اللٌّهُ عَلَيْهِ مِنْ طٌاعَتِنٌا،
-فَإِنْ يَمُتْ عَلى ضَلاٌلَتِهِ يَفْعَلُ اللٌّهُ مٌا يَشٌاءُ
-  </p>
-</blockquote>
+> مَنْ عَرَفَنٌا كٌانَ مُؤْمِناً، وَمَنْ أَنْكَرَنٌا كٌانَ كٌافِراً،
+> وَمَنْ لَمْ يَعْرِفْنٌا وَلَمْ يَنْكِرْنٌا كٌانَ ضٌالاً حَتَّى رجع
+> إِلـى الْهُدى الَّذِي افْتَرَضَ اللٌّهُ عَلَيْهِ مِنْ طٌاعَتِنٌا،
+> فَإِنْ يَمُتْ عَلى ضَلاٌلَتِهِ يَفْعَلُ اللٌّهُ مٌا يَشٌاءُ
 
 *“Whoever recognizes us is a believer, and whoever denies us is an
 unbeliever, and whoever neither recognizes nor denies us is misguided
@@ -376,12 +352,8 @@ heading. The following tradition is among them:
 Ya\`qūb Ibn Shu\`ayb said, I asked Imām Ja\`far Ibn Muhammad as-Ŝādiq
 (as):
 
-<blockquote dir="rtl">
-  <p>
-هَلْ لِأَحَدٍ عَلى مَا عَمِلَ ثَوٌابٌ عَلى اللٌّهِ مُوْجِبٌ إِلاَّ
-الْمُؤْمِنِينَ؟ قَالَ: لاَ
-  </p>
-</blockquote>
+> هَلْ لِأَحَدٍ عَلى مَا عَمِلَ ثَوٌابٌ عَلى اللٌّهِ مُوْجِبٌ إِلاَّ
+> الْمُؤْمِنِينَ؟ قَالَ: لاَ
 
 *“Does anyone aside from the believers have a definite reward from
 God?”* He replied, *“No.*”[^15]
@@ -439,11 +411,7 @@ it.
 
 Avicenna says, after this division:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَوْسَعَ رَحْمَةُ اللٌّهِ
-  </p>
-</blockquote>
+> وَاسْتَوْسَعَ رَحْمَةُ اللٌّهِ
 
 *“Believe God’s mercy to be encompassing.*”[^16]
 
@@ -474,11 +442,7 @@ al-Yamīn, or “the people of the right.”
 
 After this, Mullāh Ŝadrāā says:
 
-<blockquote dir="rtl">
-  <p>
-فلأهل الرحمة والسلامة غلبة في النشأتين
-  </p>
-</blockquote>
+> فلأهل الرحمة والسلامة غلبة في النشأتين
 
 *“Thus, the people of mercy and soundness are predominant in both
 worlds.”*
@@ -488,42 +452,18 @@ has some unique verses of poetry about the vastness of the Lord’s mercy.
 In these verses, he reflects the belief of the sages, and rather the
 broadness of the \`Ārifs’ (mystics’) stand. He says:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ رَحْمَة بَدَا وَ إِلَــى رَحْمَةٍ يَؤُلُ,, آن خدای دان همه مقبول
-و نامقبول
-  </p>
-</blockquote>
+> مِنْ رَحْمَة بَدَا وَ إِلَــى رَحْمَةٍ يَؤُلُ,, آن خدای دان همه مقبول
+> و نامقبول
 
-<blockquote dir="rtl">
-  <p>
-این است سرعشق که حیران کند عقول, از رحمت آمدند و به رحمت روند خلق
-  </p>
-</blockquote>
+> این است سرعشق که حیران کند عقول, از رحمت آمدند و به رحمت روند خلق
 
-<blockquote dir="rtl">
-  <p>
-این شرک عارضی بوچ و عارضی یزول , خلقان همه به فطرت توحید زاده ند
-  </p>
-</blockquote>
+> این شرک عارضی بوچ و عارضی یزول , خلقان همه به فطرت توحید زاده ند
 
-<blockquote dir="rtl">
-  <p>
-با عشق پرده در، چه کند عقل بوالفضول , گوید خرد که سر حقیقت نهفته دار
-  </p>
-</blockquote>
+> با عشق پرده در، چه کند عقل بوالفضول , گوید خرد که سر حقیقت نهفته دار
 
-<blockquote dir="rtl">
-  <p>
-این نقطه گه صعود نماید گهی نزول ,یک نقطه دان حکایت ما کان و ما یکون
-  </p>
-</blockquote>
+> این نقطه گه صعود نماید گهی نزول ,یک نقطه دان حکایت ما کان و ما یکون
 
-<blockquote dir="rtl">
-  <p>
-گر خوانیم ظلوم و گر خوانیم جهول , جز من کمر به عهد امانت نبست کس
-  </p>
-</blockquote>
+> گر خوانیم ظلوم و گر خوانیم جهول , جز من کمر به عهد امانت نبست کس
 
 *Consider all to be Gods’, accepted and non-accepted,*
 
@@ -608,5 +548,4 @@ be punished, but they will also not go to Heaven.
 [^15]: Ibid., Volume 2, Page 464
 
 [^16]: al-Ishārāt, towards the end of the seventh section (nama)
-
 

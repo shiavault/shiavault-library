@@ -200,4 +200,3 @@ ashrāt-us-sā‘ah (turmoils and conditions of the Last Hour) 4:2234
 (14:263 \# 38659); and Ibn Kathīr in al-Bidāyah wan-nihāyah (4:599;
 10:44).
 
-

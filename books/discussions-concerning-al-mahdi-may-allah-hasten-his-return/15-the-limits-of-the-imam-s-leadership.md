@@ -61,22 +61,14 @@ Verses of the Qur’an and many traditions, such as the *mutawatir*
 tradition of Ghadir also support this understanding. The following two
 verses are an example:
 
-<blockquote dir="rtl">
-  <p>
-إِنمَّاَ وَلِيُّكُمُ اللهُ وَرَسُولُهُ وُالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَوةَ وَيُؤْتُونَ الزَّكَوةَ وَهُمْ رَاكِعُونَ.
-  </p>
-</blockquote>
+> إِنمَّاَ وَلِيُّكُمُ اللهُ وَرَسُولُهُ وُالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَوةَ وَيُؤْتُونَ الزَّكَوةَ وَهُمْ رَاكِعُونَ.
 
  ***“Your wali is none but Allah and His messenger and the believers,
 those who establish the prayers and pay the poor-rate while they kneel
 (in their prayers).”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَأُوليِ الأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَأُوليِ الأَمْرِ مِنْكُمْ
 
  ***“Obey Allah and obey the Messenger and those in authority among you
 (the Prophet’s legatees).”***[^2]
@@ -85,12 +77,8 @@ The word *Imamah* also indicates the aspect of spiritual *Imamah* and
 intellectual and religious leadership to the same degree, as the
 following verse expresses:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
-إِلَيْهِمْ فِعْلَ الخَيرَاتِ.
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
+> إِلَيْهِمْ فِعْلَ الخَيرَاتِ.
 
 ***“And we made them leaders who guide at our command, and we revealed
 to them the performance of virtuous deeds.”***[^3]
@@ -153,5 +141,4 @@ achieved.
 [^2]: Surah an-Nisa’ (4), Verse 59
 
 [^3]: Surah al-Anbiya’ (21), Verse 73
-
 

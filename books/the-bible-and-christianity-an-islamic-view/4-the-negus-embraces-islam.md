@@ -105,4 +105,3 @@ be influenced, if not determined, by what will happen in the Muslim
 world and to Islam itself. Could Islam, as a consequence, turn out to be
 the very therapy that could save the West from itself?
 
-

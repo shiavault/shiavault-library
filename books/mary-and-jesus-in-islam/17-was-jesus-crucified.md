@@ -121,4 +121,3 @@ refuge with Allah). Some Christian “churches” in the United States and
 other Western countries have been solemnizing “marriages” wherein men
 marry men or women marry women... What will they do next?!
 
-

@@ -147,4 +147,3 @@ I must leave now."
  Fitnah hurried out and drew a deep breath, as if she had escaped from a
 prison. Her house was like a hateful cage of trouble and pain.
 
-

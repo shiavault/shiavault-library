@@ -26,11 +26,7 @@ today.
 We observe a group of people who prove the fallibility of the prophets
 by the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ عَصَــــى آدَمُ رَبَّـهُ فَغَوَى
-  </p>
-</blockquote>
+> وَ عَصَــــى آدَمُ رَبَّـهُ فَغَوَى
 
 ***“Thus did Adam distance himself from his Lord, and perform an action
 which had no benefit to it.”***[^1]
@@ -82,5 +78,4 @@ In addition, the work *Majma’ al-Bahrain*, written by Turayhi al-Najafi
 words (contained in the Qur\`an).
 
 [^1]: Surat Taha (20), Verse 121
-
 

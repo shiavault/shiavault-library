@@ -6,11 +6,7 @@ specially associated with Imam (as) or where people discuss matters
 connected to Imam (aj). In addition of being a necessary sign of love it
 is also the implication of Allah’s words:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَبِقُوا الْخَيْرَاتِ
-  </p>
-</blockquote>
+> فَاسْتَبِقُوا الْخَيْرَاتِ
 
 ***Therefore hasten to (do) good works.(Qur’an, Surah Baqarah 2:148)***
 
@@ -102,5 +98,4 @@ eyes. When I woke up, I had become blind.[^7]
 [^6]: Wasailush Shia, Vol. 11, Pg. 566, Chapter 23, Tr. No. 2
 
 [^7]: Biharul Anwar, Vol. 45, Pg. 303
-
 

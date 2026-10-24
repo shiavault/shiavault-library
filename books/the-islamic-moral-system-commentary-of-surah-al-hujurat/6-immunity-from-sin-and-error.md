@@ -3,16 +3,12 @@ Immunity from Sin and Error
 
 ( Verses 7 – 8 )
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللٌّهِ لَوْ يُطِيعُكُمْ فِي
-كَثِـيرٍ مِّنَ الأَمْرِ لَعَنِتُّمْ وَلٌكِنَّ اللٌّهَ حَبَّبَ
-إِلَيْكُمُ الإِيـمٌانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ وَكَرَّهَ
-إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيٌانَ أُوْلٌئِكَ هُمُ
-الرٌّاشِدُونَ. فَضْلاً مِّنَ اللٌّهِ وَنِعْمَةً وَاللٌّهُ عَلِيمٌ
-حَكِيمٌ
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللٌّهِ لَوْ يُطِيعُكُمْ فِي
+> كَثِـيرٍ مِّنَ الأَمْرِ لَعَنِتُّمْ وَلٌكِنَّ اللٌّهَ حَبَّبَ
+> إِلَيْكُمُ الإِيـمٌانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ وَكَرَّهَ
+> إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيٌانَ أُوْلٌئِكَ هُمُ
+> الرٌّاشِدُونَ. فَضْلاً مِّنَ اللٌّهِ وَنِعْمَةً وَاللٌّهُ عَلِيمٌ
+> حَكِيمٌ
 
 “ ***(O’ Believers!) Know that surely the Messenger of Allah***
 *(Muhammad, blessings of Allah be upon him and his progeny**) is among
@@ -106,12 +102,8 @@ in mind the infallibility of these personalities.
 In the verse of the Qur’an under discussion, Allah (Glorified and
 Exalted is He) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللٌّهِ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ
-مِّنَ الأَمْرِ لَعَنِتُّمْ
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللٌّهِ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ
+> مِّنَ الأَمْرِ لَعَنِتُّمْ
 
 ***“(O’ Believers!) You should know that surely the Messenger of
 Allah*** *(Muhammad, blessings of Allah be upon him and his progeny)*
@@ -130,11 +122,7 @@ ideas ahead of the revelation of Allah (Glorified and Exalted is He).
 In summary (you will recall that), in the beginning of this Surah, Allah
 (Glorified and Exalted is He) addressed the believers by saying:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَ رَسُولِهِ
-  </p>
-</blockquote>
+> لاٌ تُقَدِّمُوا بَيْنَ يَدَيِ اللٌّهِ وَ رَسُولِهِ
 
 ***“…do not give preference (to your own words and deeds) above those of
 Allah and His Messenger*** *(the Prophet Muhammad, blessings of Allah be
@@ -166,12 +154,8 @@ advice from the common people, problems and difficulties can be solved.
 
 It has been mentioned in the Qur’an that:
 
-<blockquote dir="rtl">
-  <p>
-فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَ شٌاوِرْهُمْ فِي الأَمْرِ
-فَإِذٌا عَزَمْتَ فَتَوَكَّلْ عَلى اللٌّهِ
-  </p>
-</blockquote>
+> فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَ شٌاوِرْهُمْ فِي الأَمْرِ
+> فَإِذٌا عَزَمْتَ فَتَوَكَّلْ عَلى اللٌّهِ
 
 > “So then (Muhammad, blessings of Allah be upon him and his progeny)
 > forgive the people their slips and errors and seek forgiveness from
@@ -184,12 +168,8 @@ In addition, Allah (Glorified and Exalted is He) testifies that one of
 the signs of a person with true faith is that he asks for advice from
 others in relation to performing a certain task:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اسْتَجٌابُوا لِرَبِّهِمْ وَ أَقٌامُوا الصَّلاٌةَ وَ
-أَمْرُهُمْ شُورى بَيْنَهُمْ وَ مِـمٌّا رَزَقْنٌاهُمْ يُنْـفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اسْتَجٌابُوا لِرَبِّهِمْ وَ أَقٌامُوا الصَّلاٌةَ وَ
+> أَمْرُهُمْ شُورى بَيْنَهُمْ وَ مِـمٌّا رَزَقْنٌاهُمْ يُنْـفِقُونَ
 
 ***“And as for those people (who are believers) and who answer the call
 of their Lord (Allah) and uphold the Salat and conduct their affairs
@@ -204,11 +184,7 @@ must give respect to the opinions of other people and ask for help and
 assistance through soliciting their opinions. Yes, the part of the verse
 that says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذٌا عَزَمْتَ فَتَوَكَّلْ عَلى اللٌّهِ
-  </p>
-</blockquote>
+> فَإِذٌا عَزَمْتَ فَتَوَكَّلْ عَلى اللٌّهِ
 
 ***“So then when you are ready to make a decision (based on the advice
 of the others), then have trust in Allah (put a collective decision into
@@ -246,11 +222,7 @@ Due to this fact, after Allah (Glorified and Exalted is He) commands the
 Prophet (blessings of Allah be upon him and his progeny) to seek council
 from other people, He (Glorified and Exalted is He) then states:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذٌا عَزَمْتَ فَتَوَكَّلْ عَلى اللٌّهِ
-  </p>
-</blockquote>
+> فَإِذٌا عَزَمْتَ فَتَوَكَّلْ عَلى اللٌّهِ
 
 ***“So then when you are ready to make a decision (based on the advice
 of the others), then have trust in Allah (put a collective decision into
@@ -321,11 +293,7 @@ that would block their view.”
 
 The Qur’anic principle that states:
 
-<blockquote dir="rtl">
-  <p>
-وَ شٌاوِرْهُمْ فِي الأَمْرِ...
-  </p>
-</blockquote>
+> وَ شٌاوِرْهُمْ فِي الأَمْرِ...
 
 ***“So then consult with them (O’ Prophet) in your affairs.”***
 
@@ -352,5 +320,4 @@ more information.
 [^5]: Sirah al-Halabi, Volume 2, Page 331.
 
 [^6]: Ibid., Volume 3, Page 39.
-
 

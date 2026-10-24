@@ -197,4 +197,3 @@ the Best Helper and on Him do we depend.
 
 [^4]: Usul al-Kafi. p. 452
 
-

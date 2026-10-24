@@ -90,7 +90,6 @@ this is a task which science can not perform without religion.
 
 [^3] Al-Khisal by Al-Sadook, p. 417, chapter of number nine.
 
-
 [^4] Kanzel Ummal by Al-Muttaki Al-Hindi, vol. 4, p. 233.
 
 [^5] Manlaa Yahzurul Fakeeh 4: 31 the chapter of punishments Daar Saaub
@@ -119,7 +118,6 @@ Maktabba alasreiah publications, pub. 1399 h.
 [^15] nehjilbalagha! Subhi alsaalih 558/ hikam 469.
 
 [^16] Anfaal 8: 53.
-
 
 [^17] Nehjilbalagha: Subhi Alssaalih 427.
 
@@ -261,5 +259,4 @@ Ershaad Islami ministry.
 69-Darelta’aruf pub.2.
 
 [^83] Menhaj Al-Tarbiyah Al-Islamiyah, by Mohammad Qutb, p. 115.
-
 

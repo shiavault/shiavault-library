@@ -97,4 +97,3 @@ creation of new forms. Such abundant generosity and creativity define
 the essence of the Lord Whose signs are manifest and evident in every
 phenomenon.
 
-

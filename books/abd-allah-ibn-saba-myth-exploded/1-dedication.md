@@ -1,35 +1,15 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-محمد نبينا
-  </p>
-</blockquote>
+> محمد نبينا
 
-<blockquote dir="rtl">
-  <p>
-بنوره هادينا
-  </p>
-</blockquote>
+> بنوره هادينا
 
-<blockquote dir="rtl">
-  <p>
-من مكة حبيبى نوره
-  </p>
-</blockquote>
+> من مكة حبيبى نوره
 
-<blockquote dir="rtl">
-  <p>
-سطع في المدينة
-  </p>
-</blockquote>
+> سطع في المدينة
 
 This research is dedicated to my beloved master, ‘Ammar b. Yasir, the
 noble companion of the Messenger of Allah and Amir al-Muminin,
@@ -39,7 +19,5 @@ noble companion of the Messenger of Allah and Amir al-Muminin,
 
 ‘alaihima al-salam
 
-  
 , may Allah be pleased with him and his blessed parents.
-
 

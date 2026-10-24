@@ -184,7 +184,7 @@ life of Rightly Guided Caliphs in a Glance), Pg. 37
 Magazine, Issue No. 4, Summer 79, Pg. 62  
 **[4]** Ibid. Interview in Jam-e-Jam Daily, Issue No. 12, Bahman 1379  
 **[5]** Ameenullah Kareemi: *Ahle Bayt Az Deedgaah-e-Ahle Sunnat*
-(1<sup>st</sup> Edition 1380), Pg. 89
+(1st Edition 1380), Pg. 89
 
 ### D) Baraat, a principle of Shia belief now is put under question
 
@@ -229,13 +229,13 @@ marriage to Umar?”!**[6]**
 **[1]** Jalal Jalalizadeh: Article in Nida-e-Islam Magazine, Issue No.
 7, Autumn 80, Pg. 63  
 **[2]** Muhammad Barfi: *Collected Papers of International Conference on
-Imam Ali* 1<sup>st</sup> Edition 1381, Vol. 2, Pg. 57  
+Imam Ali* 1st Edition 1381, Vol. 2, Pg. 57  
 **[3]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 15, Autumn 81, Pg. 8  
 **[4]** Ibid. Article quoted in Nida-e-Islam Magazine, Issue No. 11,
 Autumn 81, Pg. 12  
 **[5]** Jamaal Baadroza: *Khilafat O Imamat Az Deedgaah-e-Ahle Sunnat*
-(1<sup>st</sup> Edition 1381), Pg. 27  
+(1st Edition 1381), Pg. 27  
 **[6]** Ibid. *Khilafat O Imamat Az Deedgaah-e-Ahle Sunnat,* Pg. 80
 
 Therefore this matter is of much importance to be checked for

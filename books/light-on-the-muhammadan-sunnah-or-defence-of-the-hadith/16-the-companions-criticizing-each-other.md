@@ -1,9 +1,6 @@
 The Companions Criticizing Each Other:
 ======================================
 
-  
-  
-
 It was not satisfactory for the Companions to be stringent in accepting
 the reports from their brethren, as previously mentioned, but they
 exceeded the limits to the extent of criticizing and reviling each
@@ -23,7 +20,7 @@ Messenger uttered this while being in the house of Utban who related it
 to some people among whom being Abu Ayyub – the Companion of the
 Messenger of Allah – but he (Abu Ayyub) denied my utterance, saying: By
 God I never think the Messenger of Allah to have said what you uttered!
-The Murji’ah <span id="_anchor_111"></span>111  (Postponers) have used
+The Murji’ah 111  (Postponers) have used
 this hadith and its alike as an evidence for their madhhab (school of
 thought). Further A’ishah refuted the hadith reported by Umar and his
 son that (the Prophet said): “The dead person is afflicted with torment
@@ -56,7 +53,7 @@ Prophet saw his Lord on the Ascension Night, that was reported by the
 two shaykhs (al-Bukhari and Muslim) from ‘Amir ibn Masruq who said to
 A’ishah: O mother, has Muhammad actually seen his Lord? She said: I am
 shocked at these words! Haven’t you heard these three traditions saying
-that whoever related to you has lied. <span id="_anchor_112"></span>112
+that whoever related to you has lied. 112
  Whoever relating to you that Muhammad has seen his Lord has verily
 lied, reciting then: “…and knoweth not any soul what it shall earn
 tomorrow.” Then she resumed: And whoever relating to you that he (the
@@ -71,14 +68,13 @@ the Messenger of Allah about that saying: O Messenger of Allah, have you
 actually seen your Lord? He said: Never, but I saw Gabriel descending.
 In another narration, Abu Dharr inquired the Prophet about that (seeing
 his Lord), when he (S) said: I saw a light (nur)…I believe I saw a
-light. <span id="_anchor_113"></span>113
+light. 113
 
 She has also disapproved the report of Ibn Umar and Abu Hurayrah that
 (the Prophet said): Ominousness verily lies in three things, and she
 said
 
-for elucidating this: The Messenger of Allah was in fact <span
-id="_anchor_114"></span>114 telling about the conditions of the
+for elucidating this: The Messenger of Allah was in fact 114 telling about the conditions of the
 pre-Islamic (Jahiliyyah) era, due to its (hadith’s) contradiction to the
 predetermined principle that: “Verily the authority resteth wholly with
 God.” (3:154).
@@ -94,15 +90,13 @@ Sa’id al-Khudri she said: Anas and Abu Sa’id were not aware of (or able
 to comprehend) the hadith of the Messenger of Allah since they were two
 young lads (boys)! She used to reject and refute any hadith incongruous
 with the Qur’an, with conceiving the narration of any truthful Companion
-to be mistakenly heard or based on misconception. <span
-id="_anchor_115"></span>115  Also she denied the hadith reported by
+to be mistakenly heard or based on misconception. 115  Also she denied the hadith reported by
 Umran ibn Husayn ibn Samurah, that two pauses (saktah) were there for
 the Prophet in his recital (of two surahs) during the (daily) prayers.
-<span id="_anchor_116"></span>116  There are numerous examples in this
+116  There are numerous examples in this
 respect, and in the book Ta’rikh Abi Hurayrah, I have cited a number of
 the traditions in which he was criticized, and which were rejected and
-refuted, to which the dear reader is kindly requested to refer. <span
-id="_anchor_117"></span>117
+refuted, to which the dear reader is kindly requested to refer. 117
 
 ### Narration of Hadith after its Writing was Forbidden by Prophet:
 
@@ -147,8 +141,7 @@ of the hadith his mind could keep according to the meaning, after his
 memory failing to recollect its original words. This was due to the fact
 that they (companions), have not cared, in the outset, for writing down
 the hadith, letting it be narrated through denotation, the state
-attaining agreement of all gnostics and scholars. <span
-id="_anchor_118"></span>118  Thereafter disagreement appeared among the
+attaining agreement of all gnostics and scholars. 118  Thereafter disagreement appeared among the
 ulama regarding this matter, with some
 
 forbidding it and some others permitting. The significance of
@@ -156,12 +149,7 @@ demonstrating this subject prompts us to refer here to some of the
 evidences of these and those (people), finding no one making a
 comprehensive investigation on this issue except al-Allamah al-Shaykh
 Tahir al-Jaza’iri, in his valuable book Tawjih al-nazar. Following are
-excerptions of his statements. <span id="_anchor_119"></span>119
-
-  
-  
-  
-  
+excerptions of his statements. 119
 
 111. The Murji'ah was one of great Islamic parties, which held that:
 Guilt can never do harm beside faith, nor obedience can be of benefit

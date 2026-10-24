@@ -119,4 +119,3 @@ vol. 1, p. 274)
 
 [^5]: Hayat ul-Qulub, vol. 2, p. 104
 
-

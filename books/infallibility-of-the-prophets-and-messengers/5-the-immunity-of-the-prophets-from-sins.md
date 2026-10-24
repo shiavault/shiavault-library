@@ -36,4 +36,3 @@ interpretation, sometimes they have erred in tafsir by following the
 concocted traditions or reports. Since we do not wish to prolong the
 discussion we shall present only two such examples.
 
-

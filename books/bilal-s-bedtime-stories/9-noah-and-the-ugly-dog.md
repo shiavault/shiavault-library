@@ -26,4 +26,3 @@ Moral:
 
 1. Never hate any creature however bad looking it may be.
 
-

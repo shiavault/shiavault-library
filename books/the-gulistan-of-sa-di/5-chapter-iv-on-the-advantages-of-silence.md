@@ -287,4 +287,3 @@ If thou readest the Quran thus
 
 Thou wilt deprive the religion of splendour.
 
-

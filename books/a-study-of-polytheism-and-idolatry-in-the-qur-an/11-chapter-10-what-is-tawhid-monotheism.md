@@ -212,4 +212,3 @@ of an Islamic government.
 
 [^13]: Tafsīr Al-Mīzān, vol. 2, p. 62, 72.
 
-

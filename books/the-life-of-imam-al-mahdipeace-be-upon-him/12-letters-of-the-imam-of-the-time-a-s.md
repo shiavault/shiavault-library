@@ -110,7 +110,7 @@ in greater error than he who calls besides Allah upon those that will
 not answer him till the day of resurrection and they are heedless of
 their calla And when men are gathered together they shall be their
 enemies, and shall be deniers of their worshipping
-(them).”<sup>[1]</sup>**
+(them).”[1]**
 
 O Ahmad! May Allah give you divine opportunity to test and ask this
 transgressor about those matters I have explained to you. And ask him
@@ -133,7 +133,7 @@ that he has introduced Ja’far to be absolutely ignorant and foolish. Not
 only was he incapable to interpret the law of Shariah and other
 religious matters, he could not even discriminate between his right and
 left hand. Therefore, how could he claim the lofty status of Wilayata
-<sup>[2]</sup>
+[2]
 
 ------------------------------------------------------------------------
 
@@ -159,7 +159,7 @@ light and vision, and from deviation after guidance and from evil deeds
 and dangerous mischiefs, while the Almighty Allah says:
 
 **“Do men think that they will be left alone on saying: We believe, and
-not be trieda”<sup>[1]</sup>**
+not be trieda”[1]**
 
 And it is indeed surprising! How people fall into mischief and step into
 bewilderment and lean towards left and right and separate from their
@@ -201,7 +201,7 @@ fabricator. None except us can claim thus, except that he or she be
 deviated. Therefore, what we have stated here should suffice for them,
 rather than seeking further clarifications. Rather than desiring more
 explanation and details, they should rest content with this much, if
-Allah wills.”<sup>[1]</sup>
+Allah wills.”[1]
 
 Ja’far had spread deviation and misguidance among the Shias and had
 become a denier of His Eminence, the Awaited Imam. In this letter, His
@@ -242,7 +242,7 @@ not heard the statement of Almighty Allah that He said:
 **“O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you; then if you quarrel about anything, refer it
 to Allah and the Apostle, if you believe in Allah and the last day; this
-is better and very good in the end.”<sup>[1]</sup>**
+is better and very good in the end.”[1]**
 
 Don’t you know that it has come in traditional reports that unforeseen
 events had befallen the past and would befall the remaining Imamsa Have
@@ -292,7 +292,7 @@ having authority and power on them and blessings and mercy of Allah be
 upon all the
 
 successors, saints and believers. And may Allah bless Muhammad, the
-Prophet, and his progeny and peace be upon them.<sup>[1]</sup>
+Prophet, and his progeny and peace be upon them.[1]
 
 ### 4. Letter of the Imam of the time to Muhammad Asadi
 
@@ -328,7 +328,7 @@ Allah is upon him. The Almighty Allah says:
 [1] Bihar 13/247
 
 **“Know that! The curse of Allah is upon the
-oppressors.”<sup>[1]</sup>**
+oppressors.”[1]**
 
 His Eminence, the Awaited Imam has replied to some queries regarding the
 Islamic practical law:
@@ -421,7 +421,7 @@ those who harbor doubt with regard to Allah.
 As for the cause of occultation, the Almighty Allah has said:
 
 **“O you who believe! Do not put questions about things which if
-declared to you may trouble you…”<sup>[1]</sup>**
+declared to you may trouble you…”[1]**
 
 Each of my forefathers in his time was compelled by the oath of
 allegiance to the tyrant ruler and when I reappear I would not be having
@@ -432,7 +432,7 @@ on the face of the earth just as stars are security for the inhabitants
 of the heavens. Therefore do not ask what you are not in need of and do
 not put yourself into undue trouble. And pray more for an early
 reappearance as in it lies your success. Peace be on you O Ishaq Ibne
-Yaqub and peace be on all those who follow the guidance…<sup>[2]</sup>
+Yaqub and peace be on all those who follow the guidance…[2]
 
 This letter, in addition to legal problems also contains various other
 matters:
@@ -605,7 +605,7 @@ This is my letter to you; O friend the truth is inspired upon you. Keep
 it secret from everyone and only convey the points mentioned in it to
 those of our friends whom you trust. If Allah wills, the blessings of
 Allah would be in their share. Praise be to Allah and blessings be upon
-our chief Muhammad the Prophet and his purified Progeny.<sup>[1]</sup>
+our chief Muhammad the Prophet and his purified Progeny.[1]
 
 This letter contains some remarkable points:
 

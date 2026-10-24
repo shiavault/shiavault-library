@@ -88,4 +88,3 @@ believe that she wanted me to kill her with him! Leave him".
 
 Afterwards, Bin Ziad asked that they reside next to the Great Mosque.
 
-

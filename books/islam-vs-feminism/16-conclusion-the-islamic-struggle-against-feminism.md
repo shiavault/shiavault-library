@@ -20,4 +20,3 @@ is hijab (the canons of modesty in Islamic dress). While feminists have
 taken the scarf to be a symbol of their subjugation to men in Muslim
 societies, the faithful take it to be a symbol of respect and modesty.
 
-

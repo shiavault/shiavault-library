@@ -47,4 +47,3 @@ intoxicated state, irrespective of its being self-induced or otherwise;
 it is not wajib upon an unconscious person even if his loss of
 consciousness is brief.
 
-

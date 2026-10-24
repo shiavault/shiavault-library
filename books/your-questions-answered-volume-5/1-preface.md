@@ -17,10 +17,8 @@ confidence shown in me. May Allah bless them all. Amen. I pray to Allah
 to reward this humble effort with His acceptance, and to make this book
 useful for the seekers of guidance and truth.
 
-
 Dar es Salaam
 11th October, 1990
 S.SAEED AKHTAR RIZVI
 Chief Missionary
-
 

@@ -12,11 +12,7 @@ is lost, its value is known.
 beautiful) blessing and a bountiful gift.
 
 > 2ـ إنَّ العافِيَةَ فِي الدّينِ والدُّنيا، لَنِعْمَةٌ
-<blockquote dir="rtl">
-  <p>
-جَليلَةٌ(جَميلَةٌ)، ومَوْهِبَةٌ جَزيلَةٌ.
-  </p>
-</blockquote>
+> جَليلَةٌ(جَميلَةٌ)، ومَوْهِبَةٌ جَزيلَةٌ.
 
 3. Well-being is the most pleasant of blessings.
 
@@ -54,10 +50,5 @@ beautiful) blessing and a bountiful gift.
 the trials of this world.
 
 > 11ـ سَلُوا اللّهَ سُبْحانَهُ العافِيَةَ مِنْ تَسْويلِ الهَوى وفِتَنِ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
-
+> الدُّنيا.
 

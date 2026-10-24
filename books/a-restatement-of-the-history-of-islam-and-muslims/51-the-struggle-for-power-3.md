@@ -427,4 +427,3 @@ sources:
 
 **4.** *Seeret-ul-Halabiyya* – Halaby
 
-

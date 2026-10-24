@@ -319,7 +319,6 @@ its money, its loader, its bearer, and its consumer." (1)
 --------------------------------------------------------------------------------
 (1) Al-Kafi, vol. 6, p. 398
 
-
 **Verse 220**
 
 191
@@ -537,7 +536,6 @@ microcosm which lead the servants towards the path of felicity and
 salvation so that they are rescued from the calamities of this world and
 those of the next world." "... and He makes clear His signs to people,
 so that they may take heed."
-
 
 198
 

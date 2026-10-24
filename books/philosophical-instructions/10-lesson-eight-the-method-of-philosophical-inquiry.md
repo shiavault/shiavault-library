@@ -292,4 +292,3 @@ methods. Basically, in that period, there was no distinction between
 science and philosophy, and all of the empirical sciences were also
 considered to be parts of philosophy.
 
-

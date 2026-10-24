@@ -122,7 +122,5 @@ Also, it is important to remember that all of these marriages, except
 that with \`Aishah, were contracted with women who were widowed not only
 once, but often twice or thrice.
 
-
 THE END
-
 

@@ -296,4 +296,3 @@ at-Tabari, Tafsir, vol. 13, p. 556; al-Amwal, p. 137.
 3, p. 442; For more references on this issue, see al-\`Amili, As-Sah¡h
 fi Sirah, vol. 3, pp. 318-321.
 
-

@@ -66,4 +66,3 @@ was deeply impressed by the bravery and frankness, especially of a child
 who had suffered so many hardships. He embraced him and said words which
 mean: "The cub of a lion is also a lion".
 
-

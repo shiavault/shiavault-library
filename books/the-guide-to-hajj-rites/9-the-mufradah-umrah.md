@@ -54,7 +54,6 @@ great. If [one was performing] the two Umrah’s for two different
 persons, then the issue of time gap [between the two Umrah’s] would not
 be applicable.
 
-
 **The Rites of the Mufradah Umrah**
 
 529. The rites of the Mufradah Umrah are eight:
@@ -222,7 +221,6 @@ The Holy City of Qum
 Sadiq al-Shirazi
 38 See case \# 425.
 39 i.e. four rak‘ah instead if two, where applicable.
-
 
 **PART 3 – Glossary**
 
@@ -648,5 +646,4 @@ views that have remained relatively unknown amongst Muslim activists and
 reformists. It covers such aspects on politics as freedom of expression,
 party-political pluralism and organisation, social justice, peace and
 non-violence, human rights, consultation system of government, etc.
-
 

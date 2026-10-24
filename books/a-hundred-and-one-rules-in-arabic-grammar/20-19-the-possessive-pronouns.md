@@ -20,4 +20,3 @@ plural 6-10), and their corresponding possessive ones:
 
 **5. هي   ـها         10. هنَّ   ـهنَّ**
 
-

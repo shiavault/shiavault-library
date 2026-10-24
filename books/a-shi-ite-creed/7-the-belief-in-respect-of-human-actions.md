@@ -31,4 +31,3 @@ any means created by Allah (افعال العباد غير مخلوقة لله) 
 and akhlaq are two different things in Arabic. Some further explanation
 will also be found later at Mur. ii. 140.
 
-

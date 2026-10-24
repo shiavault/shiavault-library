@@ -30,4 +30,3 @@ minds of men deprived of the advantages of life. And the basic reason
 for all such opinions on the part of orientalists is the explicitness
 and the shocking nature of the bold formulations of these texts.
 
-

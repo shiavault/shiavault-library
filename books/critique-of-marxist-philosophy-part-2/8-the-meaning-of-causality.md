@@ -57,4 +57,3 @@ considered superstructural. This means that the relation between the
 superstructure and the means of production is a cause-effect relation.
 Here, there is no contradiction but causality.
 
-

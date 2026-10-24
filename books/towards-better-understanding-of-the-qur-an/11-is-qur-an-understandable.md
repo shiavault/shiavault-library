@@ -119,4 +119,3 @@ less earned, like children, collect pebbles and shells from its shores.
 The Scholars and thinkers, like pearl divers, bring out from it the
 highest philosophy, wisdom and rules of perfect way of living.
 
-

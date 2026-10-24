@@ -27,19 +27,13 @@ path. When a sincere bondsman strives not to speak out of place, how can
 he avoid hearing that which would prevent him from not speaking unless
 there is a safeguard? Sleep is one such safeguard. As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولـئِكَ كَانَ عَنْهُ
-مَسْؤُولاً
-  </p>
-</blockquote>
+> إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولـئِكَ كَانَ عَنْهُ
+> مَسْؤُولاً
 
 *** ***
 
 ***Surely, the hearing and the sight and the heart, all of these shall
 be questioned about that.*** (17:36)
-
 
 In excess sleep there are many evils, even if it is done in the way we
 have mentioned. Too much sleep is brought about by excess drink, and
@@ -56,6 +50,4 @@ miss the time of intimate contemplation and exposure of your state
 before your Lord. Do not be distracted in seeking forgiveness at dawn,
 for at that time there is much yearning for those in devoted
 supplication.
-
-
 

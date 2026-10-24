@@ -1,13 +1,9 @@
 Lesson Six: Causes for Destruction of a Society
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-"أَرْبَعٌ لا يَدْخُلُ بَيْتاً وَاحِدَةٌ مِنْها إلاّ خَرِبَ وَ لَمْ
-يَعْمُرْ بِالْبَرَكَةِ: الخِيانَةُ و السَّرِقَهُ وَ شُرْبُ الخَمْرِ و
-الزّنا"
-  </p>
-</blockquote>
+> "أَرْبَعٌ لا يَدْخُلُ بَيْتاً وَاحِدَةٌ مِنْها إلاّ خَرِبَ وَ لَمْ
+> يَعْمُرْ بِالْبَرَكَةِ: الخِيانَةُ و السَّرِقَهُ وَ شُرْبُ الخَمْرِ و
+> الزّنا"
 
 Translation
 -----------
@@ -33,5 +29,4 @@ thoughts, disabled children and useless youth.
 will be weakened and their next generation will be mischievous.
 
 [^1]: from Nahjul Fasahah,
-
 

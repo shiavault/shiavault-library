@@ -153,7 +153,6 @@ Muhammad al-Hasan Aal-Kashif al-Ghita’
 Theological Center in Holy Najaf
 On the 20th of Ramadan, 1373 A. H.
 
-
 Introduction
 
 In the name of Allah, the Most Gracious, the Most Merciful
@@ -400,9 +399,7 @@ Ajina for his denoting money to reprint the book. I ask Allah to grant
 him success in achieving his efforts and to reward him for that. Surely
 He undertakes success!
 
-
 Baqir Shaerif al-Qurashi
 Holy Najaf
 Dhul Qi’dah 28th, 1384
-
 

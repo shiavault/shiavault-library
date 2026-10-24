@@ -271,4 +271,3 @@ Saiawush, for his murderers yet cumber the ground."
 
 Wherefore Rustem departed yet again from out the courts of the Shah.
 
-

@@ -59,7 +59,6 @@ between His power and His knowledge. We rather say that our Lord is
 All-mighty, All-knowing, and there is no limit in the prefix, \`\`ALL''
 in God's Attributes.
 
-
 [ 607 ]
 
 وَلَقَدْ آتَيْنَا مُوسَى تِسْعَ آيَات بَيِّنَات فَسْئَلْ بَنِي
@@ -95,7 +94,6 @@ ALL TOGETHER.'' (FOR THE FINAL JUDGEMENT)
 
 THE COMMENTARY
 
-
 INSPITE OF ALL CLEAR SIGNS THEY BELIEVED NOT! (VERSE NO. 101 - 104)
 
 Here the reference goes back to the past nations who did the same that
@@ -116,12 +114,10 @@ divine miracles!?
 He therefore warned Pharaoh not to resist faith in God, or he would be
 doomed to perdition.
 
-
 WHAT WERE THE 9 MIRACLES OF MOSES?
 
 The said nine miracles that Moses showed to Pharaoh and his people were
 as follows, according to QURA"N and the BIBLE:ِ
-
 
 1ِ THE SNAKE
 
@@ -149,7 +145,6 @@ it turned into a snake, and Moses ran away from it! Then the Lord said:ِ
 \`\`Don't be afraid. Bend down and pick it up from the tail.'' So did
 Moses; and the snake became a stick again!
 
-
 2ِ THE WHITE SHINING HAND
 
 The second of the greater miracles shown to Moses was the WHITE SHINING
@@ -163,7 +158,6 @@ So do we read in the BIBLEِEXODUS 3ِ4
 \`\`Once again YAHOVAH spoke to Moses and said; put your hand inside
 your robe. Moses did so, and when he took his hand out, it was covered
 with white spots like snow!
-
 
 3ِ7
 
@@ -195,7 +189,6 @@ turned into gnats, which covered the people and their animals. There
 were gnats everywhere and the magicians told the king that God has done
 this. But the king was stubborn, and again did not listen to Moses!
 
-
 EXODUS ِ 8 : 6= THE FROG
 
 God ordered Moses and he held his stick over the river, and FROGS came
@@ -206,7 +199,6 @@ away these frogs, and I will let your people go with you.'' Then Moses
 prayed to the Lord to take away the frog, and the frogs died away! But
 again the king became stubborn and did not listen to Moses.
 
-
 EXODUS ِ 7: 20= THE BLOOD
 
 ....In the presence of the king Moses raised his stick and struck the
@@ -214,7 +206,6 @@ surface of the river, and all the water in it was turned into BLOOD, and
 the fish in the river died. And the water smelt so bad that Egyptian
 could not drink; but still the king refused to listen to Moses and
 Aaron!
-
 
 8ِ THE PASSِOVER
 
@@ -258,7 +249,6 @@ out your hand over the sea. Moses did so and the water returned to its
 normal levels. All the Egyptions in pursuit were drowned, not one of
 them left alive!
 
-
 9ِ MANNA & QUAIL
 
 The nineth miracle of Moses might have been the Manna and Quails, that
@@ -280,7 +270,6 @@ As to the Quail it is said to have been a small kind of BIRD like
 pigeon that were found in abundance in that desert. What the BIBLE says
 about Manna and Quail is as follows:ِ
 
-
 EXODUSِ16:1ِ20 MANNA AND QUAIL
 
 The Lord then said to Moses: I have heard the complaint of the
@@ -295,7 +284,6 @@ delicate as frost. They did not know what it was. Moses said:ِ \`\`This
 is the food that Lord has given you to eat.'' The people of Israelites
 called the food Manna. It was like small white seed, and tasted like
 biscuits made with honey.
-
 
 وَبِالْحَقِّ أَنزَلْنَاهُ وَبِالْحَقِّ نَزَلَ وَمَا أَرْسَلْنَاكَ
 إِلاَّ مُبَشِّراً وَنَذِيراً(( 105 ))
@@ -332,9 +320,7 @@ LORD HAS ALWAYS BEEN FULFILLED.''
 109- AND THEY FALL DOWN ON THEIR FACES WEEPING; AND IT INCREASES THEM
 HUMILITY.
 
-
 THE COMMENTARY
-
 
 THE LOVERS OF TRUTH (VERSE NO. 105 - 109)
 
@@ -366,7 +352,6 @@ fulfilled. The verse also implies that there is a strong relation
 between faith and knowledge, and these two factors of salvation are not
 separable from each other.
 
-
 قُلْ ادْعُوا اللهَ أَوْ ادْعُوا الرَّحْمَنَِ أَيّاً مَّا تَدْعُوا
 فَلَهُ الاَْسْمَاءُ الْحُسْنَى وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ
 تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا(( 110 ))
@@ -389,7 +374,6 @@ DUE TO WANT (OF POWER), AND PROCLAIM GREATLY HIS GREATNESS.
 [ 615 ]
 
 THE COMMENTARY
-
 
 THE LAST EXCUSE (VERSE NO. 110 - 111)
 
@@ -468,26 +452,17 @@ The Muslim asked:ِ \`\`What should I say then?'' Hazrat Imam told him:ِ
 \`\`Say:ِ Allah is Greater to be qualified (i.e Allah is
 INDESCRIBABLE).
 
-
 THE END OF SUREH ASRA" (17)
-
 
 (THE NIGHT JOURNEY)
 
 [ 617 ]
 
-
-<p dir="rtl">
 سوره الكهف
-</p>
-
 
 THE CAVE
 
-
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
 
@@ -522,9 +497,7 @@ THAT THEIRS SHALL BE A NICE REWARD.
 GREAT IS THE WORD (OF BLASPHEMY) THAT COMES OUT OF THEIR MOUTHS. THEY
 SAY ONLY A LIE.
 
-
 THE COMMENTARY
-
 
 BEGINNING WITH ALLAH AND QURA"N (VERSE NO. 1 - 5)
 
@@ -572,7 +545,6 @@ mountains to fall down; that, they should invoke a son for the Merciful.
 All those who live in the heavens and in the earth come to the Merciful
 as a servant.''
 
-
 فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَى آثَارِهِمْ إِنْ لَّمْ يُؤْمِنُوا
 بِهَذَا الْحَدِيثِ أَسَفاً(( 6 ))
 
@@ -594,9 +566,7 @@ TEST THEM, WHICH ONE IS BETTER IN CONDUCT.
 
 THE COMMENTARY
 
-
 DON'T WORRY! THE WORLD IS A TESTING FIELD. (VERSE NO. 6 - 8)
-
 
 \`\`You may want to destroy yourself with sorrowing over them, that,
 they believe not in this Divine Narration.''(QURA"N)
@@ -651,7 +621,6 @@ progress, and not as our goal and object of life. Consider our present
 machinery that man has invented for his own welfare, and serve him; but
 Man himself has turned to be the slave of his machine!
 
-
 أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ
 آيَاتِنَا عَجَباً(( 9 ))
 
@@ -677,7 +646,5 @@ NUMBER OF YEARS.
 12- WE THEN RAISED THEM UP TO MAKE KNOWN WHICH ONE OF THE TWO PARTIES
 WOULD BETTER CALCULATE THE PERIOD OF THEIR STAY.
 
-
 THE COMMENTARY
-
 

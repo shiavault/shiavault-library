@@ -65,4 +65,3 @@ can perform rami on his behalf.
 it was deliberate. However, it is obligatory to perform it qadha in
 person or by an agent in the following year, as a matter of precaution.
 
-

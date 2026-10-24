@@ -1,13 +1,9 @@
 Chapter 4: Imamate As Envisaged in the Verse of Wilayah
 =======================================================
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّما وَلِيُّكُمُ اللَّهُ وَ رَسُولُهُ وَ الَّذِينَ آمَنُوا
-الَّذِينَ يُقِيمُونَ الصَّلاةَ وَ يُؤْتُونَ الزَّكاةَ وَ هُمْ
-راكِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّما وَلِيُّكُمُ اللَّهُ وَ رَسُولُهُ وَ الَّذِينَ آمَنُوا
+> الَّذِينَ يُقِيمُونَ الصَّلاةَ وَ يُؤْتُونَ الزَّكاةَ وَ هُمْ
+> راكِعُونَ ﴾
 
 **“*****Only Allah is your wali and His Apostle and those who believe,
 those who keep up prayers and pay the poor rate while they
@@ -42,11 +38,7 @@ Arabic lexicographers say that, the word انما indicates restriction:
 a) Ibn Manzur says, “A combination of ان, and ما that, indicates
 specification. An instance for this the Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا الصَّدَقاتُ لِلْفُقَراءِ وَ الْمَساكِينِ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا الصَّدَقاتُ لِلْفُقَراءِ وَ الْمَساكِينِ﴾
 
 ***Alms are only*** ***for the poor and the needy*****”** **(9:160)**
 
@@ -58,12 +50,8 @@ b) Jawhari, another lexicographer, says something similar to that.[^2]
 c) Firoozabadi says, “Like أنما, the word إنما indicates restriction and
 both are found in the Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ إِنَّما يُوحى إِلَيَّ أَنَّما إِلهُكُمْ إِلهٌ واحِدٌ فَهَلْ
-أَنْتُمْ مُسْلِمُونَ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ إِنَّما يُوحى إِلَيَّ أَنَّما إِلهُكُمْ إِلهٌ واحِدٌ فَهَلْ
+> أَنْتُمْ مُسْلِمُونَ﴾
 
 ***Say:***  
  ***It is only revealed to me that your God is one will you then
@@ -130,11 +118,7 @@ For example: Jamal al–Deen ibn Hisham al–Misri, a leading Sunni scholar
 of (Arabic), grammar and literature, and author of *Mugni al–Labib*,
 comments on the way some grammar scholars interpret the Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ... ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ... ﴾
 
 ***Surely Allah and His angels bless the Prophet*****”**, **(33:56)**
 
@@ -205,11 +189,7 @@ other.
 
 **E)** On the basis of many Qur’anic verses such as
 
-<blockquote dir="rtl">
-  <p>
-﴿ما لَكُمْ مِنْ وَلايَتِهِمْ مِنْ شَيْ‏ءٍ﴾
-  </p>
-</blockquote>
+> ﴿ما لَكُمْ مِنْ وَلايَتِهِمْ مِنْ شَيْ‏ءٍ﴾
 
 ***“Not yours is their guardianship”***, (**8:72)**
 
@@ -946,5 +926,4 @@ al-Razi Publications.
 lil–Tibah wa al-Nashr.
 
 [^31]: – Kamal al-Deen, vol. 1, p. 274.
-
 

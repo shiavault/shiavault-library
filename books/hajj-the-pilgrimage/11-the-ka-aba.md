@@ -161,4 +161,3 @@ for those who think they live in freedom and defend humanism, the
 significance of these incidents transgresses the scope of their
 understanding!
 
-

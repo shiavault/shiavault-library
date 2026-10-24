@@ -436,4 +436,3 @@ al-Mas'udi
 
 [^14]: Al-Imama wa al-Siyasa
 
-

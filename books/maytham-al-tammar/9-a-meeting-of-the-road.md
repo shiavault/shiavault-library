@@ -42,4 +42,3 @@ Days passed. In Muharram, 61 A.H., Bani Asad saw Habeeb's head. It was
 tied to a long spear. They saw Ibn Ziyad's policemen carrying the head
 and walking through the streets of Kufa.
 
-

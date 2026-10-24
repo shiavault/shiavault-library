@@ -19,4 +19,3 @@ It is the duty of every Muslim to respect others. If he observes any
 defect in the body, dress or house of another, he should not laugh at
 him or ridicule him.
 
-

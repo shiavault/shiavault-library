@@ -148,4 +148,3 @@ Messenger of Allah (s).
 
 [^4]: Sūrah ash-Shūrā 42:23.
 
-

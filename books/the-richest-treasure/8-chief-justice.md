@@ -20,4 +20,3 @@ enough to keep him above temptations. Give him a position in your court
 so high none can even dream of coveting it and so high that neither
 back-biting nor intrigue can touch him.
 
-

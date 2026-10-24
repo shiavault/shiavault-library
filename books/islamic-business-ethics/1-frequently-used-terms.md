@@ -40,4 +40,3 @@ terminology, it means the laws of Islam.
 performed. A person will be rewarded for performing it and punished for
 neglecting it. For example: the daily prayers.
 
-

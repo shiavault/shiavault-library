@@ -11,11 +11,7 @@ Debt
 dishonest.
 
 > 2ـ كَثْرَةُ الدَّينِ تُصَيِّرُ الصّادِقَ كاذِباً، والمُنْجِزَ
-<blockquote dir="rtl">
-  <p>
-مُخْلِفاً.
-  </p>
-</blockquote>
+> مُخْلِفاً.
 
 3. Debt is one of the two bondages.
 
@@ -24,5 +20,4 @@ dishonest.
 4. Debt is bondage, repayment is freedom.
 
 > 4ـ الدَّينُ رِقٌّ، اَلقَضاءُ عِتْقٌ.
-
 

@@ -105,4 +105,3 @@ Twelve successors were named, by Divine Grace
 
 To guide, for all times, the human race.
 
-

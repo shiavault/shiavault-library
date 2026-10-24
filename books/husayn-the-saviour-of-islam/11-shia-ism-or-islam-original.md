@@ -442,4 +442,3 @@ Mimbers, Imambadas and the other things dedicated to the sacred memory
 of the Holy Ones of the Ahlul Bayt, held with feelings of sanctity by
 the Shias (the devotees of the Holy Ahlul Bayt).*
 
-

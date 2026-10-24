@@ -9,4 +9,3 @@ human existence, whether as regards this world or the next; and in its
 upward flight and its depth it aims at a goal beyond that of other
 creeds. 
 
-

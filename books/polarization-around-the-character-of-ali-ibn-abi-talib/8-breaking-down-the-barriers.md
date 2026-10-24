@@ -53,4 +53,3 @@ focal point of his being. For the same reason, love is a great
 
 [^1]: . Rumi, Mathnavi, bk. l
 
-

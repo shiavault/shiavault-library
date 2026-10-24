@@ -232,4 +232,3 @@ tomb of religious personalities
 Zimmi: A non-muslim who lives under the protection of an Islamic
 government
 
-

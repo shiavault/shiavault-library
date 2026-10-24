@@ -694,4 +694,3 @@ Bukhari and Seerah-i Ibn Hisham on which this discussion is based.
 
 [^11]: Majma'ul Bayan, vol. I, page 384.
 
-

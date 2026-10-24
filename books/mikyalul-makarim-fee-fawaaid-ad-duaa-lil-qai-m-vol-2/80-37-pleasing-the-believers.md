@@ -38,4 +38,3 @@ those with insight.
 
 [^3]: Usool Kafi, Vol. 2, Pg. 189
 
-

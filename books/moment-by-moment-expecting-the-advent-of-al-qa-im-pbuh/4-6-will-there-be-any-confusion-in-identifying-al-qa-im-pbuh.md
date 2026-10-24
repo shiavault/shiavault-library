@@ -84,7 +84,7 @@ mentioned as a sign after which having faith will not be helpful for the
 disbelievers.[^3] [^1]al-Amali, al-Tusi, p. 412, Hadith 926; Bihar
 al-Anwar, vol. 52, p. 189, Hadith 17.
 
-[^2] Kamal al-Din, p. 336, Hadith 8; Bihar al-Anwar, vol. 51, p. 51,
+[^2]: Kamal al-Din, p. 336, Hadith 8; Bihar al-Anwar, vol. 51, p. 51,
 Hadith 25; vol. 52, p. 149, Hadith 76 (a similar narration from Abu
 Basir).
 
@@ -213,8 +213,6 @@ al-Nu'mani, p. 296, Hadith 1.
 [^2]al-Irshad, vol. 2, p. 383; Bihar al-Anwar, vol. 51, p. 30, Hadith
 7.
 
-
 the religion, their overlooking of the transmitted traditions, and
 their following man-made ideas and opinions in the domain of religion.
-
 

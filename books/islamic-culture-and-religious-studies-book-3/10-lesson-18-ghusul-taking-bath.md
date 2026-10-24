@@ -64,7 +64,6 @@ entire body is wet at one go, it is accepted and valid.
 2. Explain mas\`ala concerning the Ghusl that have been mentioned in
 the lesson.
 
-
 **Lesson 19 : Tayyamum**
 
 We have discussed basic rules regarding Tayyamum in Book Two. Let us
@@ -150,5 +149,4 @@ taken by force.
 tayammum infront of your teacher so he or she can ensure that you know
 how to do it correctly. When can a person perform tayamum instead of
 Wudhoo or Ghusl? Mention few masails concerning tayammum.
-
 

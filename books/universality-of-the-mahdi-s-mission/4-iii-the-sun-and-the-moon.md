@@ -91,7 +91,6 @@ have not occurred.
 The author of es\\'aaf-ul-raghaben\\' too has narrated the same
 tradition.
 
-
 **IV. Light and Darkness**
 
 The Quran declares that we categorically have two worlds: the Seen;
@@ -253,5 +252,4 @@ leads to the other. Without being an infallible, already-guided, the
 Mahdi can not provide any guidance to others. His occultation is just
 part of the Unseen world. His presence in the hearts of the pious looks
 like the shinning Sun which is being obscured by little clouds.
-
 

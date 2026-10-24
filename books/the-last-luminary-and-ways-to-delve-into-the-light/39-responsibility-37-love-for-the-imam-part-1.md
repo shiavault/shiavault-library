@@ -29,12 +29,8 @@ us blessings and bounties and has done good to us.
 In addition, there are numerous traditions that speak directly about the
 need to have love for our living Imam.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اللٌّهُ تَعَالـى: يَا مُحَمَّدُ أَحِبَّهُ فَإِنِّي أُحِبُّهُ وَ
-أُحِبُّ مَنْ يُحِبُّهُ
-  </p>
-</blockquote>
+> قَالَ اللٌّهُ تَعَالـى: يَا مُحَمَّدُ أَحِبَّهُ فَإِنِّي أُحِبُّهُ وَ
+> أُحِبُّ مَنْ يُحِبُّهُ
 
 Allah has said in a Sacred Tradition (Hadith al-Qudsi): “O’ Muhammad!
 Have love for him (al-Mahdi) since surely I love him and I love anyone
@@ -42,13 +38,9 @@ who loves him.”[^1]
 
 The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ أَحَبَّ أَنْ يَلْقَـى اللٌّهَ وَ قَدْ كَمُلَ إِيْمَانُهُ وَ
-حَسُنَ إِسْلاَمُهُ فَلْيَتَوَلَّ الْحُجَّةَ صَاحِبَ الزَّمَانِ
-الْمُنْتَظَرَ
-  </p>
-</blockquote>
+> وَ مَنْ أَحَبَّ أَنْ يَلْقَـى اللٌّهَ وَ قَدْ كَمُلَ إِيْمَانُهُ وَ
+> حَسُنَ إِسْلاَمُهُ فَلْيَتَوَلَّ الْحُجَّةَ صَاحِبَ الزَّمَانِ
+> الْمُنْتَظَرَ
 
 “A person who would like to meet Allah in a state of perfect faith and
 in the best form of submission should love al-Hujjah Sahib al-Zaman
@@ -57,5 +49,4 @@ al-Muntadhar (ajtf).”[^2]
 [^1]: Biharul Anwar, vol. 36, pg. 223, sec. 40, no. 21
 
 [^2]: Biharul Anwar, vol. 36, pg. 296, sec. 41, no. 125
-
 

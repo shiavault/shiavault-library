@@ -6,19 +6,11 @@ Kharijites someone said, “If you set out at this moment then according
 to astrology I fear you will not be successful in your aim,” whereupon
 Amir al-mu’minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لبعض أصحابه لمّا عزم على المسير إِلى الخوارج، فقال له: يا أميرالمؤمنين
-إن سرت في هذا الوقت، خشيتُ ألاَّ تظفر بمرادك، من طريق علم النجوم، فقال
-(عليه السلام):
-  </p>
-</blockquote>
+> لبعض أصحابه لمّا عزم على المسير إِلى الخوارج، فقال له: يا أميرالمؤمنين
+> إن سرت في هذا الوقت، خشيتُ ألاَّ تظفر بمرادك، من طريق علم النجوم، فقال
+> (عليه السلام):
 
 Do you think you can tell the time when a man goes out and no evil
 befall him or can warn of the time at which if one goes out harm will
@@ -29,18 +21,14 @@ say should praise you rather than Allah because according to your
 misconception you have guided him about the hour in which he would
 secure benefit and avoid harm.
 
-<blockquote dir="rtl">
-  <p>
-أَتَزْعَمُ أَنَّكَ تَهْدِي إِلَى السَّاعَةِ الَّتِي مَنْ سَارَ فِيهَا
-صُرِفَ عَنْهُ السُّوءُ؟ وَتُخَوِّفُ مِنَ السَّاعَةِ الَّتي مَنْ سَارَ
-فِيهَا حَاقَ بِهِ الضُّرُّ؟ فَمَنْ صَدَّقَكَ بِهذَا فَقَدْ كَذَّبَ
-الْقُرْآنَ، وَاسْتَغْنَى عَنِ الاِسْتِعَانَةِ بِاللهِ عزّوجلّ فِي
-نَيْلِ الْمحْبُوبِ وَدَفْعِ الْمَكْرُوهِ، وَتَبْتَغِي في قوْلِكَ
-لِلْعَامِلِ بِأَمْرِكَ أَنْ يُولِيَكَ الْحَمْدَ دُونَ رَبِّهِ،
-لاَِنَّكَ ـ بِزَعْمِكَ ـ أَنْتَ هَدَيْتَهُ إِلَى السَّاعَةِ الَّتِي
-نَالَ فِيهَا النَّفْعَ، وَأَمِنَ الضُّرَّ!!
-  </p>
-</blockquote>
+> أَتَزْعَمُ أَنَّكَ تَهْدِي إِلَى السَّاعَةِ الَّتِي مَنْ سَارَ فِيهَا
+> صُرِفَ عَنْهُ السُّوءُ؟ وَتُخَوِّفُ مِنَ السَّاعَةِ الَّتي مَنْ سَارَ
+> فِيهَا حَاقَ بِهِ الضُّرُّ؟ فَمَنْ صَدَّقَكَ بِهذَا فَقَدْ كَذَّبَ
+> الْقُرْآنَ، وَاسْتَغْنَى عَنِ الاِسْتِعَانَةِ بِاللهِ عزّوجلّ فِي
+> نَيْلِ الْمحْبُوبِ وَدَفْعِ الْمَكْرُوهِ، وَتَبْتَغِي في قوْلِكَ
+> لِلْعَامِلِ بِأَمْرِكَ أَنْ يُولِيَكَ الْحَمْدَ دُونَ رَبِّهِ،
+> لاَِنَّكَ ـ بِزَعْمِكَ ـ أَنْتَ هَدَيْتَهُ إِلَى السَّاعَةِ الَّتِي
+> نَالَ فِيهَا النَّفْعَ، وَأَمِنَ الضُّرَّ!!
 
 Then Amir al-mu’minin advanced towards the people and said:
 
@@ -50,15 +38,11 @@ astrologer is a diviner, while the diviner is like the sorcerer, the
 sorcerer is like the unbeliever and the unbeliever would be in Hell. Get
 forward in the name of Allah.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إِيَّاكُمْ وَتَعَلُّمَ النُّجُومِ، إِلاَّ مَا
-يُهْتَدَى بِهِ في بَرٍّ أَوْ بَحْر، فَإِنَّهَا تَدْعُو إِلَى
-الْكَهَانَةِ، والمُنَجَّمُ كَالْكَاهِنِ، وَالْكَاهِنُ كَالسَّاحِرِ،
-وَالسَّاحِرُ كَالْكَافِرِ! وَالْكَافِرُ في النَّارِ! سِيرُوا عَلَى
-اسْمِ اللهِ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إِيَّاكُمْ وَتَعَلُّمَ النُّجُومِ، إِلاَّ مَا
+> يُهْتَدَى بِهِ في بَرٍّ أَوْ بَحْر، فَإِنَّهَا تَدْعُو إِلَى
+> الْكَهَانَةِ، والمُنَجَّمُ كَالْكَاهِنِ، وَالْكَاهِنُ كَالسَّاحِرِ،
+> وَالسَّاحِرُ كَالْكَافِرِ! وَالْكَافِرُ في النَّارِ! سِيرُوا عَلَى
+> اسْمِ اللهِ.
 
 Alternative Sources for Sermon 79
 ---------------------------------
@@ -103,5 +87,4 @@ nature of effect of medicines which are subject to alteration at the
 will of Allah. The competence achieved by most of our religious scholars
 in astrology is correct in this very ground that they did not regard its
 findings as final.
-
 

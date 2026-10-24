@@ -1381,4 +1381,3 @@ estate; al-Saduq, al­muqnia (Tehran, 1377), 171; Kama’l, 47, 58.
 
 [^115]: Muhammad al-Sadr, op. cit., I, 314.
 
-

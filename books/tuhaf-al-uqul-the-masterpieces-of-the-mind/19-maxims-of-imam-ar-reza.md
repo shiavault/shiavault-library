@@ -1194,4 +1194,3 @@ mouth, the daughter on the cheek, and the Imam between the eyes.
 comfort, the envious cannot enjoy pleasure, the enslaved cannot be
 loyal, and the liars do not have personality.
 
-

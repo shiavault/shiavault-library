@@ -1,11 +1,7 @@
 Translators Note
 ================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 **In The Name of Allah, The Most Compassionate, The Most Merciful**
 
@@ -36,5 +32,4 @@ Safar ‘Ali Aghili and Roghayyeh Aghili as well as my sister, Ghamar
 Aghili, may their souls rest in peace forever.
 
 Aghili Ashtiani
-
 

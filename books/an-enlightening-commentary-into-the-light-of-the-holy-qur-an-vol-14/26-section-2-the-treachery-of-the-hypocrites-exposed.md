@@ -4,13 +4,9 @@ Section 2: The Treachery of the Hypocrites Exposed
 Surah Al-’Ahzab – Verse 9
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ ءَامَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ
-اِذْ جَآءَتْكُمْ جُنُودٌ فَاَرْسَلْنَا عَلَيْهِمْ رِيحاً وَجُنُوداً
-لَّمْ تَرَوْهَا وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ ءَامَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ
+> اِذْ جَآءَتْكُمْ جُنُودٌ فَاَرْسَلْنَا عَلَيْهِمْ رِيحاً وَجُنُوداً
+> لَّمْ تَرَوْهَا وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
 
 ***9. “O you who believe! Remember Allah’s blessing upon you when hosts
 came against you, so We sent upon them a strong wind and hosts, that you
@@ -132,19 +128,11 @@ believers and to encourage them.
 Surah Al-’Ahzab – Verses 10-11
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اِذْ جَآءُوكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَاِذْ زَاغَتِ
-الأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ
-الظُّنُونَاْ
-  </p>
-</blockquote>
+> اِذْ جَآءُوكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَاِذْ زَاغَتِ
+> الأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ
+> الظُّنُونَاْ
 
-<blockquote dir="rtl">
-  <p>
-هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالاً شَدِيداً
-  </p>
-</blockquote>
+> هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالاً شَدِيداً
 
 ***10. “When they came against you from above you and from below you,
 and when the eyes swerved and the hearts reached to the throats, and you
@@ -335,12 +323,8 @@ us.”*[^7]
 Surah Al-’Ahzab – Verse 12
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ مَّا
-وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلاَّ غُرُوراً
-  </p>
-</blockquote>
+> وَإذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ مَّا
+> وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلاَّ غُرُوراً
 
 ***12. “And when the hypocrites, and those in whose heart was a disease,
 were saying: ‘Allah and His Messenger promised us naught but a
@@ -438,14 +422,10 @@ curtains from over those secrets.
 Surah Al-’Ahzab – Verse 13
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَت طَّآئِفَةٌ مّـِنْهُمْ يَآ أَهْلَ يَثْرِبَ لاَ مُقَامَ
-لَكُمْ فَارْجِعُوا وَيَسْتَأْذِنُ فَرِيقٌ مّـِنْهُمُ النَّبِيَّ
-يَقُولُونَ اِنَّ بُيُوتَنَا عَوْرَةٌ وَمَاهِيَ بِعَوْرَةٍ إِن
-يُرِيدُونَ إِلاَّ فِرَاراً
-  </p>
-</blockquote>
+> وَإِذْ قَالَت طَّآئِفَةٌ مّـِنْهُمْ يَآ أَهْلَ يَثْرِبَ لاَ مُقَامَ
+> لَكُمْ فَارْجِعُوا وَيَسْتَأْذِنُ فَرِيقٌ مّـِنْهُمُ النَّبِيَّ
+> يَقُولُونَ اِنَّ بُيُوتَنَا عَوْرَةٌ وَمَاهِيَ بِعَوْرَةٍ إِن
+> يُرِيدُونَ إِلاَّ فِرَاراً
 
 ***13. “And when a party of them said: ‘O’ you the people of Yathrib!
 There is no place for you to stand (here) so go back,’ and a group of
@@ -542,12 +522,8 @@ Ignorance.
 Surah Al-’Ahzab – Verse 14
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ دُخِلَتْ عَلَيْهِم مِنْ أَقْطَارِهَا ثُمَّ سُئِلُوا الْفِتْنَةَ
-لأَتَوْهَا وَمَا تَلَبَّثُوا بِهَآ اِلاَّ يَسِيراً
-  </p>
-</blockquote>
+> وَلَوْ دُخِلَتْ عَلَيْهِم مِنْ أَقْطَارِهَا ثُمَّ سُئِلُوا الْفِتْنَةَ
+> لأَتَوْهَا وَمَا تَلَبَّثُوا بِهَآ اِلاَّ يَسِيراً
 
 ***14. “And if an entry had been made upon them from all sides of the
 city. Then they had been asked to apostatise, they would certainly have
@@ -597,12 +573,8 @@ have chosen the first meaning.
 Surah Al-’Ahzab – Verse 15
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِن قَبْلُ لاَ يُوَلُّونَ
-الأَدْبَارَ وَكَانَ عَهْدُ اللَّهِ مَسْؤُولاً
-  </p>
-</blockquote>
+> وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِن قَبْلُ لاَ يُوَلُّونَ
+> الأَدْبَارَ وَكَانَ عَهْدُ اللَّهِ مَسْؤُولاً
 
 ***15. “And indeed they had made a covenant with Allah before that, that
 they would not turn their backs (to the enemy) and covenants with Allah
@@ -655,12 +627,8 @@ his covenant?
 Surah Al-’Ahzab – Verse 16
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّن يَنفَعَكُمُ الْفِرَارُ اِن فَرَرْتُم مِنَ الْمَوْتِ أَوِ
-الْقَتْلِ وَإِذاً لاَ تُمَتَّعُونَ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> قُل لَّن يَنفَعَكُمُ الْفِرَارُ اِن فَرَرْتُم مِنَ الْمَوْتِ أَوِ
+> الْقَتْلِ وَإِذاً لاَ تُمَتَّعُونَ إِلاَّ قَلِيلاً
 
 ***16. “Say: ‘Flight will never avail you if you flee from death or
 slaying, and in that case you will not be allowed to enjoy yourselves
@@ -699,13 +667,9 @@ and they would be killed.
 Surah Al-’Ahzab – Verse 17
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِنَ اللَّهِ إِنْ أَرَادَ بِكُمْ
-سُوءاً أَوْ أَرَادَ بِكُمْ رَحْمَةً وَلاَ يَجِدُونَ لَهُم مِن دُونِ
-اللَّهِ وَلِيّاً وَلاَ نَصِيراً
-  </p>
-</blockquote>
+> قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِنَ اللَّهِ إِنْ أَرَادَ بِكُمْ
+> سُوءاً أَوْ أَرَادَ بِكُمْ رَحْمَةً وَلاَ يَجِدُونَ لَهُم مِن دُونِ
+> اللَّهِ وَلِيّاً وَلاَ نَصِيراً
 
 ***17. “Say: ‘Who is he that shall defend you from Allah, if He desires
 punishment for you, or desires mercy for you?’ And they shall find for
@@ -736,13 +700,9 @@ martyrdom meets you, embrace it happily.
 Surah Al-’Ahzab – Verse 18
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ يَعْلَمُ اللَّهُ الْمُعَوِّقِينَ مِنكُمْ وَالْقَآئِلِينَ
-لاِخْوَانِهِمْ هَلُمَّ اِلَيْنَا وَلاَ يَأْتُونَ الْبَأْسَ إِلاَّ
-قَلِيلاً
-  </p>
-</blockquote>
+> قَدْ يَعْلَمُ اللَّهُ الْمُعَوِّقِينَ مِنكُمْ وَالْقَآئِلِينَ
+> لاِخْوَانِهِمْ هَلُمَّ اِلَيْنَا وَلاَ يَأْتُونَ الْبَأْسَ إِلاَّ
+> قَلِيلاً
 
 ***18. “Indeed Allah knows those who hinder others among you and those
 who say unto their brethren: ‘Come to Us’ and they come not to the fight
@@ -829,15 +789,11 @@ following someone; as the Qur’an introduces ***/mubaŏŏirin/
 Surah Al-’Ahzab – Verse 19
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَشِحَّةً عَلَيْكُمْ فَإِذَا جَآءَ الْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ
-اِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَي عَلَيْهِ مِنَ
-الْمَوْتِ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ
-أَشِحَّةً عَلَي الْخَيْرِ اُوْلَئِكَ لَمْ يُؤْمِنُوا فَاَحْبَطَ
-اللَّهُ أَعْمَالَهُمْ وَكَانَ ذَلِكَ عَلَي اللَّهِ يَسِيرًا
-  </p>
-</blockquote>
+> أَشِحَّةً عَلَيْكُمْ فَإِذَا جَآءَ الْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ
+> اِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَي عَلَيْهِ مِنَ
+> الْمَوْتِ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ
+> أَشِحَّةً عَلَي الْخَيْرِ اُوْلَئِكَ لَمْ يُؤْمِنُوا فَاَحْبَطَ
+> اللَّهُ أَعْمَالَهُمْ وَكَانَ ذَلِكَ عَلَي اللَّهِ يَسِيرًا
 
 ***19. “Being niggardly with respect to you; but when fear comes you
 will see them looking to you, their eyes rolling like one who swoons of
@@ -931,13 +887,9 @@ examples of them we can see by our eyes in our own age!
 Surah Al-’Ahzab – Verse 20
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَحْسَبُونَ الأَحْزَابَ لَمْ يَذْهَبُوا وَاِن يَأْتِ الأَحْزَابُ
-يَوَدُّوا لَوْ أَنَّهُمْ بَادُونَ فِي الاَعْرَابِ يَسْأَلُونَ عَنْ
-أَنبَآئِكُمْ وَلَوْكَانُوا فِيكُم مَا قَاتَلُوا اِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> يَحْسَبُونَ الأَحْزَابَ لَمْ يَذْهَبُوا وَاِن يَأْتِ الأَحْزَابُ
+> يَوَدُّوا لَوْ أَنَّهُمْ بَادُونَ فِي الاَعْرَابِ يَسْأَلُونَ عَنْ
+> أَنبَآئِكُمْ وَلَوْكَانُوا فِيكُم مَا قَاتَلُوا اِلاَّ قَلِيلاً
 
 ***20. “They think that the clans have not withdrawn, and if the clans
 should come (again) they would wish they were in the deserts (wandering)
@@ -1020,5 +972,4 @@ Bani Ashja‘, and Bani Marrah
 [^12]: Surah Al-’Isra’, No. 17, verse 27
 
 [^13]: Surah Al-’Isra’, No. 17, verse 27
-
 

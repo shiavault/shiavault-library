@@ -10,34 +10,20 @@ the open.
 The greatest corruption is born of prolonged expectation, greed, and
 pride, as Allah told us in the story of Qarun when He said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ إِنَّ اللَّهَ لَا يُحِبُّ
-الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ إِنَّ اللَّهَ لَا يُحِبُّ
+> الْمُفْسِدِينَ
 
 ***Do not seek to make mischief in the land; surely Allah does not love
 the corruptors***. (28:77)
 
-
 Elsewhere He said,
 
-
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
-عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
-
-
+> تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ
+> عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***[As for] that Future Abode, We assign it to those who have no desire
 to exalt themselves in the earth nor to make mischief; and the good end
 is for those who have precaution.*** (28:83)
-
 
 These defects come from what Qarun did and believed. The root of
 corruption lies in loving this world, amassing its wealth, following the
@@ -57,5 +43,4 @@ captivity of Satan. You will come to the door of Allah in the company of
 those who come to Him, and you will travel a path on which you may hope
 to be permitted to come to the Noble, the Magnanimous, the Generous, the
 Merciful.
-
 

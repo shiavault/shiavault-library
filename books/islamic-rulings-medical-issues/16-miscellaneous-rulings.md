@@ -16,4 +16,3 @@ Answer: It must be buried, but it is permissible if there is a
 necessity, for example the medical needs of the country are dependant on
 it.
 
-

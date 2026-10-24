@@ -98,4 +98,3 @@ you seriously thought about Him?
 3. Have you ever felt a deep sense of spiritual love for God when you
 have whispered your prayers to Him?
 
-

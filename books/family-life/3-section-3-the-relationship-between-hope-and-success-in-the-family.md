@@ -179,4 +179,3 @@ oppressed and accompany them …..”*
     
  3. Treat your heart by reciting the Holy Qur’an and supplications.
 
-

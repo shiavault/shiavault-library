@@ -53,4 +53,3 @@ their families remain in need.
 
 [^1]: Al-Bihbodi, al-Kafi p.170, First Edition.
 
-

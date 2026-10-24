@@ -7,12 +7,8 @@ Allah afflicts any one
 Surah Al-‘An’am, Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ سِيرُواْ فِي الأَرْضِ ثُمَّ انظُرُواْ كَيْفَ كَانَ عَاقِبَةُ
-الْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> قُلْ سِيرُواْ فِي الأَرْضِ ثُمَّ انظُرُواْ كَيْفَ كَانَ عَاقِبَةُ
+> الْمُكَذِّبِينَ
 
 **11.** ***"Say: 'Travel in the earth, then see what has been the end of
 the rejecters '."***
@@ -61,13 +57,9 @@ Again, Imam Ali (as) said:
 Surah Al-‘An’am, Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّمَن مَّا فِي السَّمَاوَاتِ وَالأَرْضِ قُل لِلّهِ كَتَبَ عَلَى
-نَفْسِهِ الرَّحْمَةَ لَيَجْمَعَنَّكُمْ إِلَى يَوْمِ الْقِيَامَةِ لاَ
-رَيْبَ فِيهِ الَّذِينَ خَسِرُواْ أَنفُسَهُمْ فَهُمْ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُل لِّمَن مَّا فِي السَّمَاوَاتِ وَالأَرْضِ قُل لِلّهِ كَتَبَ عَلَى
+> نَفْسِهِ الرَّحْمَةَ لَيَجْمَعَنَّكُمْ إِلَى يَوْمِ الْقِيَامَةِ لاَ
+> رَيْبَ فِيهِ الَّذِينَ خَسِرُواْ أَنفُسَهُمْ فَهُمْ لاَ يُؤْمِنُونَ
 
 **12.** ***"Say: 'To whom belongs what is in the heavens and the earth?"
 Say: 'To*** ***Allah, He has prescribed mercy on Himself: He will surely
@@ -185,12 +177,8 @@ Acceptance of Repentance:
 Surah Al-‘An’am, Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ
-الْعَلِيمُ
-  </p>
-</blockquote>
+> وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ
+> الْعَلِيمُ
 
 **13.** ***"And to Him belongs whatever dwells in the night and the day;
 and He is All-hearing, All-Knowing'."***
@@ -212,13 +200,9 @@ is All-hearing, All-Knowing'."***
 Surah Al-‘An’am, Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَغَيْرَ اللّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ
-وَالأَرْضِ وَهُوَ يُطْعِمُ وَلاَ يُطْعَمُ قُلْ إِنِّيَ أُمِرْتُ أَنْ
-أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلاَ تَكُونَنَّ مِنَ الْمُشْرِكَينَ
-  </p>
-</blockquote>
+> قُلْ أَغَيْرَ اللّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ
+> وَالأَرْضِ وَهُوَ يُطْعِمُ وَلاَ يُطْعَمُ قُلْ إِنِّيَ أُمِرْتُ أَنْ
+> أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلاَ تَكُونَنَّ مِنَ الْمُشْرِكَينَ
 
 **14.** ***"Say: ' Shall I take a guardian besides*** ***Allah, the
 Originator of the heavens and the earth, and He feeds (others) and is
@@ -265,11 +249,7 @@ The verse says:
 Surah Al-‘An’am, Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّيَ أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> قُلْ إِنِّيَ أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ
 
 ***15. "Say: 'Verily I fear, if I disobey my Lord, the retribution of a
 grievous Day '."***
@@ -299,12 +279,8 @@ grievous Day '."***
 Surah Al-‘An’am, Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ وَذَلِكَ الْفَوْزُ
-الْمُبِينُ
-  </p>
-</blockquote>
+> مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ وَذَلِكَ الْفَوْزُ
+> الْمُبِينُ
 
 **16.** ***"Whoever is spared of it (the Divine retribution) on that
 Day, He has certainly been merciful to him, and that is the manifest
@@ -338,12 +314,8 @@ Wrath.
 Surah Al-‘An’am, Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يَمْسَسْكَ اللّهُ بِضُرٍّ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِن
-يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَى كُلِّ شَيْءٍ قَدُيرٌ
-  </p>
-</blockquote>
+> وَإِن يَمْسَسْكَ اللّهُ بِضُرٍّ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِن
+> يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَى كُلِّ شَيْءٍ قَدُيرٌ
 
 **17.** ***"And if*** ***Allah*** ***touches you with affliction, none
 can remove it but He; and if He touches you with good, then He is
@@ -365,11 +337,7 @@ All-Powerful over all things."***
 Surah Al-‘An’am, Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ وَهُوَ الْحَكِيمُ الْخَبِيرُ
-  </p>
-</blockquote>
+> وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ وَهُوَ الْحَكِيمُ الْخَبِيرُ
 
 **18.** ***"And He is the Omnipotent over His servants, and He is the
 All-Wise, the All -Aware."***
@@ -394,15 +362,11 @@ the All-Aware."***
 Surah Al-‘An’am, Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَيُّ شَيْءٍ أَكْبَرُ شَهَادةً قُلِ اللّهِ شَهِيدٌ بِيْنِي
-وَبَيْنَكُمْ وَأُوحِيَ إِلَيَّ هَذَا الْقُرْآنُ لأُنذِرَكُم بِهِ وَمَن
-بَلَغَ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللّهِ آلِهَةً أُخْرَى قُل
-لاَّ أَشْهَدُ قُلْ إِنَّمَا هُوَ إِلَـهٌ وَاحِدٌ وَإِنَّنِي بَرِيءٌ
-مِّمَّا تُشْرِكُونَ
-  </p>
-</blockquote>
+> قُلْ أَيُّ شَيْءٍ أَكْبَرُ شَهَادةً قُلِ اللّهِ شَهِيدٌ بِيْنِي
+> وَبَيْنَكُمْ وَأُوحِيَ إِلَيَّ هَذَا الْقُرْآنُ لأُنذِرَكُم بِهِ وَمَن
+> بَلَغَ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللّهِ آلِهَةً أُخْرَى قُل
+> لاَّ أَشْهَدُ قُلْ إِنَّمَا هُوَ إِلَـهٌ وَاحِدٌ وَإِنَّنِي بَرِيءٌ
+> مِّمَّا تُشْرِكُونَ
 
 **19.** ***"Say: 'What thing is the greatest in testimony?' Say: 'Allah!
 He is witness between me and you, and this Qur'an has been revealed to
@@ -448,12 +412,8 @@ Iman Sadiq (as)
 Surah Al-‘An’am, Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ
-أَبْنَاءهُمُ الَّذِينَ خَسِرُواْ أَنفُسَهُمْ فَهُمْ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ
+> أَبْنَاءهُمُ الَّذِينَ خَسِرُواْ أَنفُسَهُمْ فَهُمْ لاَ يُؤْمِنُونَ
 
 **20.** ***"Those whom We have given The Book (the Jews and Christians)
 recognize him (Muhammad) as they recognize their sons. Yet those who
@@ -498,5 +458,4 @@ believe."***
 [^5]: Tafsir Nur-uth-Thaqalayn, vol. 1, P. 706; and Majma'-ul-Bayan
 
 [^6]: Surah-Al-Fath, No. 48, verse 29
-
 

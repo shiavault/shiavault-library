@@ -179,4 +179,3 @@ we will focus on modes of borrowing by which Jewish jurists favored
 Islamic jurisprudential concepts above traditional categories of Jewish
 law.
 
-

@@ -13,12 +13,8 @@ refer to your Mar’ja Taqlid or the relevant books on the topic).
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَشَدَّ مَا فِيهِ النَّاسُ يَوْمَ الْقِيَامَةِ أَنْ تَقُومَ
-صَاحِبُ الْخُمْسِ فَيَقُولُ: يَا رَبِّ خُـمْسِي!
-  </p>
-</blockquote>
+> إِنَّ أَشَدَّ مَا فِيهِ النَّاسُ يَوْمَ الْقِيَامَةِ أَنْ تَقُومَ
+> صَاحِبُ الْخُمْسِ فَيَقُولُ: يَا رَبِّ خُـمْسِي!
 
 “Surely the hardest of thing for a person to bear on the Day of
 Resurrection is when the person whom the Khums belonged to stands up to
@@ -27,13 +23,9 @@ protest and says: “O’ Lord! (What about) My Khums!’”[^1]
 There is a letter which is from one of the specific representatives of
 Imam al-Hujjah (ajtf) written to Abul Hasan Asadi which states:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ، لَعْنَةُ اللٌّهِ وَ
-الْمَلاَئِكَةِ وَ النَّاسِ أَجْمَعِينَ عَلـى مَنِ اسْتَحَلَّ مِنْ
-أَمْوَالِنَا (مَالِنَا).
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ، لَعْنَةُ اللٌّهِ وَ
+> الْمَلاَئِكَةِ وَ النَّاسِ أَجْمَعِينَ عَلـى مَنِ اسْتَحَلَّ مِنْ
+> أَمْوَالِنَا (مَالِنَا).
 
 “In the name of Allah, the Most Gracious, the Most Merciful. May the
 curse of Allah and the Angels and all of mankind be upon that person who
@@ -51,13 +43,9 @@ completely changed (my outlook on the Khums).”
 
 The 12th Imam (ajtf) has stated:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ، لَعْنَةُ اللٌّهِ وَ
-الْمَلاَئِكَةِ وَ النَّاسِ أَجْمَعِينَ عَلـى مَنْ أَكَلَ مِنْ مَالِنَا
-دِرْهَماً حَرَاماً.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ، لَعْنَةُ اللٌّهِ وَ
+> الْمَلاَئِكَةِ وَ النَّاسِ أَجْمَعِينَ عَلـى مَنْ أَكَلَ مِنْ مَالِنَا
+> دِرْهَماً حَرَاماً.
 
 “In the name of Allah, the Most Gracious, the Most Merciful. May the
 curse of Allah and the Angels and all of mankind be upon that person who
@@ -65,12 +53,8 @@ uses even one dirham of our wealth without permission.”[^2]
 
 Imam al-Mahdi (ajtf) also told us:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ أَكَلَ مِنْ أَمْوَالِنَا شَيْئاً فَإِنَّمَا يَأْكُلُ فِي
-بَطْنِهِ نَاراً وَ سَيَصْلـى سَعِيراً
-  </p>
-</blockquote>
+> وَ مَنْ أَكَلَ مِنْ أَمْوَالِنَا شَيْئاً فَإِنَّمَا يَأْكُلُ فِي
+> بَطْنِهِ نَاراً وَ سَيَصْلـى سَعِيراً
 
 “A person who consumes anything from our wealth has surely put fire in
 his stomach and soon he shall enter the flaming fire.”
@@ -79,14 +63,10 @@ Imam al-Mahdi (ajtf) has said the following in relation to that person
 who considers the using of the wealth of the Imam (Khums) as being
 permissible:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ فَعَلَ ذٌلِكَ فَهُوَ مَلْعُونٌ وَ نَحْنُ خُصَمَاؤُهُ يَوْمَ
-الْقِيَامَةِ وَقَدْ قَالَ النَّبِيُّ الْمُسْتَحِلُّ مِنْ عِتْرَتِـي
-مَا حَرَّمَ اللٌّهُ مَلْعُونٌ عَلـى لِسَانِي وَ لِسَانِ كُلِّ نَبِيٍّ
-مُجَابٍ
-  </p>
-</blockquote>
+> فَمَنْ فَعَلَ ذٌلِكَ فَهُوَ مَلْعُونٌ وَ نَحْنُ خُصَمَاؤُهُ يَوْمَ
+> الْقِيَامَةِ وَقَدْ قَالَ النَّبِيُّ الْمُسْتَحِلُّ مِنْ عِتْرَتِـي
+> مَا حَرَّمَ اللٌّهُ مَلْعُونٌ عَلـى لِسَانِي وَ لِسَانِ كُلِّ نَبِيٍّ
+> مُجَابٍ
 
 “A person who does so (inappropriate our wealth which we are entitled
 to) is cursed and we will be his enemies on the Day of Resurrection and
@@ -103,5 +83,4 @@ pg. 522
 
 [^3]: Biharul Anwar, vol. 53, pg. 182, sec. 31, no. 11; al-Ihtijaj, pg.
 479
-
 

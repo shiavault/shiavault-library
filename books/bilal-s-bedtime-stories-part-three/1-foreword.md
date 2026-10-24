@@ -18,9 +18,7 @@ Knowledge, the Scholar, and the Awaited (all from Dar es Salaam) and
 Al-Qa'im (from Nairobi). We hope that from among them some talented
 writers will come up to sincerely serve the cause of religion.
 
-
 Sayid Saeed Akhtar Rizvi
 Dar es Salaam
 5th July, 1990
-
 

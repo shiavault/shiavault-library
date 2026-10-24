@@ -44,13 +44,9 @@ is empty handed.
 Socialism denies any natural difference among people and forces its
 "concept of equality" on the society.
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ وَرَفَعَ بَعْضَكُمْ
-فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۗ إِنَّ
-رَبَّكَ سَرِيعُ الْعِقَابِ وَإِنَّهُ لَغَفُورٌ رَحِيمٌ 
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ وَرَفَعَ بَعْضَكُمْ
+> فَوْقَ بَعْضٍ دَرَجَاتٍ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۗ إِنَّ
+> رَبَّكَ سَرِيعُ الْعِقَابِ وَإِنَّهُ لَغَفُورٌ رَحِيمٌ
 
 ***"And it is He who made you (His) vicegerent in the earth and raised
 some of you above others in grades, that He may try you in what He gave
@@ -69,5 +65,4 @@ between the poor and rich people, which prevent any class-consciousness.
 There are many examples by which the Islamic State secures social
 balance in the society. It has been already mentioned that a large sum
 of the national economy is taken under collective and State ownership.
-
 

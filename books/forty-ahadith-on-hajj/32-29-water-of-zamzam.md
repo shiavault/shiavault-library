@@ -3,11 +3,7 @@
 
  
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): مَاءُ زَمْزَمَ شِفَاءٌ لِمَا شُرِبَ لَهُ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): مَاءُ زَمْزَمَ شِفَاءٌ لِمَا شُرِبَ لَهُ.
 
 ** **  
  The Messenger of Allah (blessings of Allah be upon him and his family)
@@ -16,5 +12,4 @@ taken for.”
     
  Biharul Anwar, Volume 96, Page 245  
   
-
 

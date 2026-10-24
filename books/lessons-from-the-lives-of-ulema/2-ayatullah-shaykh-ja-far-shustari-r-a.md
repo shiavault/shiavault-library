@@ -57,4 +57,3 @@ Taken from: **“Khasais al-Husainiyyah”** p. 8, as quoted in **“Karamat
 wa Hikayate Ashiqane Khuda” - “Miracles and Anecdotes of the Close
 Servants of Allah”.** Translated AJ/141105.
 
-

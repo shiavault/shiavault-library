@@ -119,11 +119,7 @@ them are the praying of His Eminence in our favor, the repulsion of the
 evil of the enemies and removal of hardships…etc. The Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ
-  </p>
-</blockquote>
+> هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ
 
 ***“Is the reward of goodness aught but goodness?” (Qur’an, Surah Rahman
 55:60)***
@@ -281,11 +277,7 @@ will not face any problem.”
 
 And in another report regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-سِيرُوا فِيهَا لَيَالِيَ وَأَيَّامًا آمِنِينَ
-  </p>
-</blockquote>
+> سِيرُوا فِيهَا لَيَالِيَ وَأَيَّامًا آمِنِينَ
 
 ***“Travel through them nights and days, secure.” (Qur’an, Surah Saba
 34:18)***
@@ -307,11 +299,7 @@ programs successful.”
 
 Also in the Tafseer of the Ayat:
 
-<blockquote dir="rtl">
-  <p>
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ
-  </p>
-</blockquote>
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ
 
 ***“…that He may make it prevail over all the religions…” (Qur’an, Surah
 Fath 48:28)***
@@ -442,11 +430,7 @@ of Almighty Allah and all the rights that are for us.”[^11]
 
 In *Tafseer Qummi* regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
-  </p>
-</blockquote>
+> فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
 
 ***“So grant the unbelievers a respite: let them alone for a while.”
 (Qur’an, Surah Tariq 86:17)***
@@ -505,12 +489,8 @@ supplication is answered?”
 
 In *Tafseer* of Ali bin Ibrahim Qummi regarding the holy verse:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ
-  </p>
-</blockquote>
+> أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
+> وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ
 
 ***“Or, Who answers the distressed one when he calls upon Him and
 removes the evil, and He will make you successors in the earth.”
@@ -555,5 +535,4 @@ Sharai; Shaykh Sadooq; Vol. 2/267
 [^14]: Biharul Anwar; Allamah Muhammad Taqi Majlisi; Vol. 52/325
 
 [^15]: Tafseer al-Qummi, Pg. 497
-
 

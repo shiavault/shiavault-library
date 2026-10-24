@@ -182,4 +182,3 @@ upon him/her or them)
 [^8]: Salla 'llahu ‘alayi wa alih (i.e., May the blessing of Allah be
 upon him and his progeny).
 
-

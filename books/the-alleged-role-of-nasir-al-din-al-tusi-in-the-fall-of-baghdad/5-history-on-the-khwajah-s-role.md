@@ -161,4 +161,3 @@ of Ibn Taymiyyah. [^54] Ibn Kathir was definitely aware of Ibn
 Taymiyyah's allegations from at least three of the latter's writing.
 Yet, he did not accept Ibn Taymiyyah's statements.
 
-

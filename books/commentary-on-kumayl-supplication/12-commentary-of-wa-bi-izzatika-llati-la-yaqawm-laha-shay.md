@@ -1,11 +1,7 @@
 Commentary of:  “Wa bi ‘izzatika’llati la yaqawm laha shay”
 ===========================================================
 
-<blockquote dir="rtl">
-  <p>
-وَبِعِزَّتِكَ الَّتِى لا يَقُومُ لَهَا شَيْءٌ
-  </p>
-</blockquote>
+> وَبِعِزَّتِكَ الَّتِى لا يَقُومُ لَهَا شَيْءٌ
 
 *(I ask You) by Your Might, which nothing can resist.*
 
@@ -24,11 +20,7 @@ creatures, as part of Allah’s holy Strength. The glimmer of a small
 light is far inferior from the rays of an infinite and eternal source of
 an Illuminating Light!
 
-<blockquote dir="rtl">
-  <p>
-فَلِلَّهِ الْعِزَّةُ جَمِيعًا.
-  </p>
-</blockquote>
+> فَلِلَّهِ الْعِزَّةُ جَمِيعًا.
 
 ***To Allah belong all glory and power. (35:10)***
 
@@ -40,11 +32,7 @@ one can resist His Power. He is the Undefeated Might.
 
 Commentary of: “Wa bi ‘azhamatika’llati mala’t kulla shay”
 
-<blockquote dir="rtl">
-  <p>
-وَبِعَظَمَتِكَ الَّتِى مَلَأَتْ كُلَّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِعَظَمَتِكَ الَّتِى مَلَأَتْ كُلَّ شَيٍْء
 
 *(I ask You) by Your Greatness, which has filled all things.*
 
@@ -81,13 +69,9 @@ of *Saduq,* “*Bihar al-Anwar*” of *Allamiyi Majlisi*, “Anwar
 Nu’maniyya”, “Sharh Sahifa”, and “Tafsiri Nur Al-Thaqalayn” a tradition
 by Imam Sadiq (as), with a strong citation:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ للهِ عَزَّ وَجَلَّ اثْنَي عَشَرَ ألفِ عالَمٍ؛ كُلُّ عالَمٍ
-مِنْهُمْ أكْبَرُ مِنْ سَبْعِ سَمَاواتٍ وَسَبْعِ أرَضينَ، ما يُرَى
-عالَمٌ مِنْهُم أنَّ للهِ عَزَّ وَجَلَّ عالَماً غَيْرَهُمْ.
-  </p>
-</blockquote>
+> إنَّ للهِ عَزَّ وَجَلَّ اثْنَي عَشَرَ ألفِ عالَمٍ؛ كُلُّ عالَمٍ
+> مِنْهُمْ أكْبَرُ مِنْ سَبْعِ سَمَاواتٍ وَسَبْعِ أرَضينَ، ما يُرَى
+> عالَمٌ مِنْهُم أنَّ للهِ عَزَّ وَجَلَّ عالَماً غَيْرَهُمْ.
 
 *The Almighty has created twelve thousand worlds, each of which is
 larger than all the heavens and the earth, and none of them is cognizant
@@ -186,11 +170,7 @@ contained in everything.
 This huge world is Allah’s artwork; His factory and His book. By viewing
 Allah’s work, His Greatness is observable which makes us call out:
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ اَكْبَرُ مِنْ اَنْ يُوصَفَ.
-  </p>
-</blockquote>
+> اَللهُ اَكْبَرُ مِنْ اَنْ يُوصَفَ.
 
 *Allah is Exalted above what he is described.*[^5]
 
@@ -201,11 +181,7 @@ thoughts cannot realize even a part of His Greatness!
 In accord with our own understanding, we can only say the same thing our
 Prophet has taught us:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَرَفْنَاكَ حَقَّ مَعْرِفَتِكَ
-  </p>
-</blockquote>
+> مَا عَرَفْنَاكَ حَقَّ مَعْرِفَتِكَ
 
 *We cannot appreciate Your due Greatness.*[^6]
 
@@ -222,5 +198,4 @@ Bihar al-Anwar: 54/320, bab 2, tradition 2.
 
 [^6]: ‘Awali Al-La’i: 4/ 132, tradition 227; Bihar al-Anwar: 68/ 23, Bab
 61, tradition 1.
-
 

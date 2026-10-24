@@ -33,4 +33,3 @@ Untouchables. Upward mobility is very rare in the caste system. Most
 people remain in one caste their entire life and marry within their
 caste.
 
-

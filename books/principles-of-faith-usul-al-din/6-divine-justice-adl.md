@@ -116,4 +116,3 @@ Exalted, for is from Him.*[^9]
 
 [^9]: Al-Tara’if: 329.
 
-

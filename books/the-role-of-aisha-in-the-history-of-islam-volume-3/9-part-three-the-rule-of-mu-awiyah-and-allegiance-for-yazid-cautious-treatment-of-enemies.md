@@ -456,4 +456,3 @@ This evil order of Mu'awiyah produced many blood-spilling events in the
 history of Islam, the examples of which you will read in the coming
 chapters.
 
-

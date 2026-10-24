@@ -269,4 +269,3 @@ reason; and an everlasting might and a pure heart; and a very much work
 not make them stand against me; by Your mercy, for You are the most
 Merciful of all those who show mercy.
 
-

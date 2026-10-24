@@ -367,13 +367,9 @@ dower [*mahriyyah*],[^4] the person, whom one is allowed or not allowed
 to marry,[^5] conjugal life,[^6] settling family disputes, and others.
 For example, it states about settling family disputes:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُواْ حَكَمًا مِّنْ
-أَهْلِهِ وَحَكَمًا مِّنْ أَهْلِهَا إِن يُرِيدَا إِصْلاَحًا يُوَفِّقِ
-اللّهُ بَيْنَهُمَا إِنَّ اللّهَ كَانَ عَلِيمًا خَبِيرًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُواْ حَكَمًا مِّنْ
+> أَهْلِهِ وَحَكَمًا مِّنْ أَهْلِهَا إِن يُرِيدَا إِصْلاَحًا يُوَفِّقِ
+> اللّهُ بَيْنَهُمَا إِنَّ اللّهَ كَانَ عَلِيمًا خَبِيرًا ﴾
 
 ***“And if you fear a split between the two of them, then appoint an
 arbiter from his relatives and an arbiter from her relatives. If they
@@ -383,13 +379,9 @@ all-knowing, all-aware.”***[^7]
 The question of inheritance is another example of social issues with
 which the Holy Qur’an has dealt, devoting to it many verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُوصِيكُمُ اللّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
-الأُنثَيَيْنِ فَإِن كُنَّ نِسَاء فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا
-مَا تَرَكَ وَإِن كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ﴾
-  </p>
-</blockquote>
+> ﴿ يُوصِيكُمُ اللّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
+> الأُنثَيَيْنِ فَإِن كُنَّ نِسَاء فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا
+> مَا تَرَكَ وَإِن كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ﴾
 
 ***“Allah enjoins you concerning your children: for the male shall be
 the like of the share of two females, and if there be [two or] more than
@@ -399,15 +391,11 @@ two females, then for them shall be two-thirds of what he***[^8]
 Another social issue is civil war which may take place at any time. In
 this regard, the Noble Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
-بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَى فَقَاتِلُوا
-الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللَّهِ فَإِن فَاءتْ
-فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ
-يُحِبُّ الْمُقْسِطِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
+> بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَى فَقَاتِلُوا
+> الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللَّهِ فَإِن فَاءتْ
+> فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ
+> يُحِبُّ الْمُقْسِطِينَ ﴾
 
 ***“If two groups of the faithful fight one another, make peace between
 them. But if one party of them aggresses against the other, fight the
@@ -420,30 +408,18 @@ relations. Islam and the Qur’an have not disregarded them or delegated
 them to reason, knowledge and common view. In fact, the Glorious Qur’an
 has made known the rules and regulations of trading:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَحَلَّ اللّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَحَلَّ اللّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ﴾
 
 ***“Allah has allowed trade and forbidden usury.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ إِذَا نُودِيَ لِلصَّلوٰةِ مِنْ يَومِ
-ٱلْجُمْعَةِ فَاسْعَواْ إِلىٰ ذِكْرِ اللهِ وَ ذَرُواْ ٱلْبَيعَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ إِذَا نُودِيَ لِلصَّلوٰةِ مِنْ يَومِ
+> ٱلْجُمْعَةِ فَاسْعَواْ إِلىٰ ذِكْرِ اللهِ وَ ذَرُواْ ٱلْبَيعَ ﴾
 
 ***“O you who have faith! When the call is made for prayer on Friday,
 hurry up toward the remembrance of Allah, and leave all
 business.”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ أَوْفُواْ بِالْعُقُودِ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ أَوْفُواْ بِالْعُقُودِ ﴾
 
 ***“O you who have faith! Keep your agreements.”***[^13]
 
@@ -451,12 +427,8 @@ Concerning social crimes, there are numerous laws in the Holy Qur’an.
 For instance, regarding theft, which is one of the grave and manifold
 crimes of society, it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا جَزَاء بِمَا
-كَسَبَا نَكَالاً مِّنَ اللّهِ وَاللّهُ عَزِيزٌ حَكِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا جَزَاء بِمَا
+> كَسَبَا نَكَالاً مِّنَ اللّهِ وَاللّهُ عَزِيزٌ حَكِيمٌ ﴾
 
 ***“As for the thief, man and woman, cut off their hands*** ***as a
 requital for what they have earned. [That is]*** ***an exemplary
@@ -469,14 +441,10 @@ if there is no complainant. The aim is to ensure social immunity from it
 and foster security against violations. The Holy Qur’an says with utmost
 clarity and explicitness:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِئَةَ
-جَلْدَةٍ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
-كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِئَةَ
+> جَلْدَةٍ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
+> كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ ﴾
 
 ***“As for the fornicatress and the fornicator, strike each of them a
 hundred lashes, and let not pity for them overcome you in Allah’s law,
@@ -550,12 +518,8 @@ compatible with the changes in the conditions of the time and space, and
 made it incumbent on the people to comply with them. In this regard, the
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ﴾
 
 ***“A faithful man or woman may not, when Allah and His Apostle have
 decided on a matter, have any option in their matter.”***[^17]
@@ -591,13 +555,9 @@ conflicts, which constitute another dimension of governance and
 politics, they have been given attention by the Holy Qur’an, which
 states, hence:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِّمَّا
-قَضَيْتَ وَيُسَلِّمُواْ تَسْلِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِّمَّا
+> قَضَيْتَ وَيُسَلِّمُواْ تَسْلِيمًا ﴾
 
 ***“But no, by your Lord! They will not believe until they make you a
 judge in their disputes, then do not find within their hearts any
@@ -626,11 +586,7 @@ it. Although the right belongs to a certain person, on account of lack
 of solid evidence, the ruling might not be in his favor. The Holy
 Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَقْضِي بَيْنَكُمْ بِالْبَيِّنَاتِ وَٱلإِْيْمَانِ.
-  </p>
-</blockquote>
+> إِنَّمَا أَقْضِي بَيْنَكُمْ بِالْبَيِّنَاتِ وَٱلإِْيْمَانِ.
 
 **“Verily, I judge between you on the basis of proofs and
 testimonies.”**[^20]
@@ -686,11 +642,7 @@ this world while the other is related to the hereafter. In essence,
 one’s deeds and one’s behavior that can ensure his good life in the
 hereafter are but part of the worldly affairs:
 
-<blockquote dir="rtl">
-  <p>
-أَلْيَوْمَ عَمَلٌ وَ لاَ حِسَابَ وَ غَدًا حِسَابٌ وَ لاَ عَمَلَ.
-  </p>
-</blockquote>
+> أَلْيَوْمَ عَمَلٌ وَ لاَ حِسَابَ وَ غَدًا حِسَابٌ وَ لاَ عَمَلَ.
 
 ***“Today is a time for work and not for reckoning, and tomorrow is a
 time for reckoning and not for work.”***[^22]
@@ -714,11 +666,7 @@ effect on our life in the hereafter?
 According to the Islamic viewpoint, our otherworldly life is determined
 by our deeds and conduct in this world:
 
-<blockquote dir="rtl">
-  <p>
-أَلدُّنْيَا مَزْرَعَةُ ٱلأَْخِرَةِ.
-  </p>
-</blockquote>
+> أَلدُّنْيَا مَزْرَعَةُ ٱلأَْخِرَةِ.
 
 ***“This world is the sowing ground for the hereafter.”***[^23]
 
@@ -739,12 +687,8 @@ For example, it is true that eating food is something related to this
 world but it can be the cause of one’s chastisement in the fire of hell
 or otherwise:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا ﴾
 
 ***“Indeed those who consume the property of orphans wrongfully, only
 ingest fire into their bellies, and soon they will enter the
@@ -889,13 +833,9 @@ anyone say that a year has 19 months or a month has 19 days (with the
 total also of 361 days)? Or, have the Qur’an and Islam said something in
 this regard? The reply is this:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللّهِ اثْنَا عَشَرَ شَهْرًا فِي
-كِتَابِ اللّهِ يَوْمَ خَلَقَ السَّمَاوَات وَالأَرْضَ مِنْهَا
-أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللّهِ اثْنَا عَشَرَ شَهْرًا فِي
+> كِتَابِ اللّهِ يَوْمَ خَلَقَ السَّمَاوَات وَالأَرْضَ مِنْهَا
+> أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ ﴾
 
 ***“Indeed the number of the months with Allah is twelve months in
 Allah’s Book, the day when He created the heavens and the earth. Of
@@ -904,12 +844,8 @@ these, four are sacred. That is the upright religion.”***[^27]
 The Qur’an and Islam have also said something about the crescent
 [*hilal*] and its advantages to the Muslims:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَسْأَلُونَكَ عَنِ الأَهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ
-وَالْحَجِّ ﴾
-  </p>
-</blockquote>
+> ﴿ يَسْأَلُونَكَ عَنِ الأَهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ
+> وَالْحَجِّ ﴾
 
 ***“They question you concerning the new moons. Say, ‘They are
 timekeeping signs for the people and [for the sake of] hajj’.”***[^28]
@@ -959,12 +895,8 @@ these two types of government have no effect on the people’s admission
 to paradise or hell?! The reply to these questions is not difficult; a
 little consideration will do:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ شَرَّ الدَّوَابَّ عِندَ اللّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لاَ يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ شَرَّ الدَّوَابَّ عِندَ اللّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لاَ يَعْقِلُونَ ﴾
 
 ***“Indeed the worst of beasts in Allah’s sight are the deaf and the
 dumb who do not apply reason.”***[^30]
@@ -1050,5 +982,4 @@ surviving kith and kin captives. In the second year, he ransacked Medina
 year he invaded Mecca. [Trans.]
 
 [^30]: Sūrah al-Anfāl 8:22.
-
 

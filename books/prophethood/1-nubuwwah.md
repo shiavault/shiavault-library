@@ -634,4 +634,3 @@ followed, in due course, the Holy Prophet of Islam. He, also, was a
 
 [^2]: Mentioned in Sura 85 of the Qur'an
 
-

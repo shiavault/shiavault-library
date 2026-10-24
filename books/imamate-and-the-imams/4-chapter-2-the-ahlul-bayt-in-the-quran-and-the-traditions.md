@@ -7,12 +7,8 @@ The Infallibility of Ahlul Bayt in the Holy Quran
 For proving the infallibility of the Imams (a.s.), the famous *Tat’hir*
 verse from the Holy Quran is mentioned here:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ البَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيراً
-  </p>
-</blockquote>
+> إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ البَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيراً
 
 ***And God only wishes to remove all abomination from you, ye members of
 the Family, and to make you pure and spotless.***[^1]
@@ -135,13 +131,9 @@ Two points need mentioning for clarification of the verse:
 in Holy Quran. The first meaning is apparent religious impurity. The
 Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لا أَجِدُ فِيما أُوحِىَ إِلَىَّ مُحَرَّماً عَلى‏‌ طاعِمٍ
-يَطْعَمُهُ إِلّا أَنْ يَكُونَ مَيْتَةً أَوْ دَماً مَسْفُوحاً أَوْ
-لَحْمَ خِنْزِيرٍ فَإِنَّهُ رِجْسٌ
-  </p>
-</blockquote>
+> قُلْ لا أَجِدُ فِيما أُوحِىَ إِلَىَّ مُحَرَّماً عَلى‏‌ طاعِمٍ
+> يَطْعَمُهُ إِلّا أَنْ يَكُونَ مَيْتَةً أَوْ دَماً مَسْفُوحاً أَوْ
+> لَحْمَ خِنْزِيرٍ فَإِنَّهُ رِجْسٌ
 
 ***“Say: "I find not in the Message received by me by inspiration any
 (meat) forbidden to be eaten by one who wishes to eat it, unless it be
@@ -151,12 +143,8 @@ abomination "”***[^10]
 The second meaning is internal carnal impurity that is disbelief,
 transgression, and sin. The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-وَأَمّا الَّذِينَ فِى‏‌ قُلُوبِهِمْ مَرَضٌ فَزادَتْهُمْ رِجْساً إِلى‏‌
-رِجْسِهِمْ وَماتُوا وَهُمْ كافِرُونَ
-  </p>
-</blockquote>
+> وَأَمّا الَّذِينَ فِى‏‌ قُلُوبِهِمْ مَرَضٌ فَزادَتْهُمْ رِجْساً إِلى‏‌
+> رِجْسِهِمْ وَماتُوا وَهُمْ كافِرُونَ
 
 ***“But those in whose hearts is a disease,- it will add doubt to their
 doubt, and they will die in a state of Unbelief.”***[^11]
@@ -188,11 +176,7 @@ by knowledge and option with no exception.
 
 The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّما أَمْرُهُ إِذا أَرادَ شَيْئاً أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّما أَمْرُهُ إِذا أَرادَ شَيْئاً أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ
 
 ***“Verily, when He intends a thing, His Command is, "be", and it
 is!”***[^12]
@@ -203,13 +187,9 @@ them, so that His command will be externally realized.
 
 The Holy Quran states about Ramadan fasting,
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ وَمَنْ كانَ مَرِيضاً
-أَوْ عَلى‏‌ سَفَرٍ فَعِدَّةٌ مِنْ أَيّامٍ أُخَرَ يُرِيدُ اللَّهُ
-بِكُمُ اليُسْرَ وَلا يُرِيدُ بِكُمُ العُسْرَ
-  </p>
-</blockquote>
+> فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ وَمَنْ كانَ مَرِيضاً
+> أَوْ عَلى‏‌ سَفَرٍ فَعِدَّةٌ مِنْ أَيّامٍ أُخَرَ يُرِيدُ اللَّهُ
+> بِكُمُ اليُسْرَ وَلا يُرِيدُ بِكُمُ العُسْرَ
 
 ***“So every one of you who is present (at his home) during that month
 should spend it in fasting, but if anyone is ill, or on a journey, the
@@ -271,13 +251,9 @@ last Hajj pilgrimage (*Hajjatul wida’*) at Ghadir Khum (Ghadir pool).
 When he reached Ghadir on his way back to Medina, Gabriel descended with
 this verse,
 
-<blockquote dir="rtl">
-  <p>
-يا أَيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ وَ
-إِنْ لَمْ تَفْعَلْ فَما بَلَّغْتَ رِسالَتَهُ وَاللَّهُ يَعْصِمُكَ مِنَ
-النّاسِ إِنَّ اللَّهَ لا يَهْدِى‏‌ القَوْمَ الكافِرِينَ
-  </p>
-</blockquote>
+> يا أَيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ وَ
+> إِنْ لَمْ تَفْعَلْ فَما بَلَّغْتَ رِسالَتَهُ وَاللَّهُ يَعْصِمُكَ مِنَ
+> النّاسِ إِنَّ اللَّهَ لا يَهْدِى‏‌ القَوْمَ الكافِرِينَ
 
 ***“O Apostle! proclaim the (message) which hath been sent to thee from
 thy Lord. If thou didst not, thou wouldst not have fulfilled and
@@ -597,15 +573,11 @@ granting Mercy to the servants for reaching perfection.
 The Holy Quran also mentions the servants’ affection for the Almighty
 Allah.
 
-<blockquote dir="rtl">
-  <p>
-يا أَيُّها الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ
-فَسَوْفَ يَأْتِى‌ اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ
-أَذِلَّةٍ عَلَى‌ المُؤْمِنِينَ أَعِزَّةٍ عَلَى‌ الكافِرِينَ
-يُجاهِدُونَ فِى‌ سَبِيلِ اللَّهِ وَلا يَخافُونَ لَوْمَةَ لائِمٍ ذ لِكَ
-فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشاءُ وَاللَّهُ واسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> يا أَيُّها الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ
+> فَسَوْفَ يَأْتِى‌ اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ
+> أَذِلَّةٍ عَلَى‌ المُؤْمِنِينَ أَعِزَّةٍ عَلَى‌ الكافِرِينَ
+> يُجاهِدُونَ فِى‌ سَبِيلِ اللَّهِ وَلا يَخافُونَ لَوْمَةَ لائِمٍ ذ لِكَ
+> فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشاءُ وَاللَّهُ واسِعٌ عَلِيمٌ
 
 ***“O ye who believe! If any from among you turn back from his Faith,
 soon will God produce a people whom He will love as they will love Him,-
@@ -621,12 +593,8 @@ real affection for Allah.
 In another verse, obeying the Prophet (S)’s orders is considered a sign
 of true fondness. The Holy Quran states,
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِى‌ يُحْبِبْكُمُ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِى‌ يُحْبِبْكُمُ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ
 
 ***Say: "If ye do love God, Follow me: God will love you and forgive you
 your sins: For God is Oft-Forgiving, Most Merciful."***[^45]
@@ -781,14 +749,10 @@ and surrenders to the death when its appointed time comes.
 
 As Allah states in the Holy Quran,
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لا أَمْلِك لِنَفْسِى‌ نَفْعاً وَلا ضَرّاً إِلّا ما شاءَ اللَّهُ
-وَلَوْ كُنْتُ أَعْلَمُ الغَيْبَ لَاسْتَكْثَرْتُ مِنَ الخَيْرِ وَما
-مَسَّنِىَ‏السُّوءُ إِنْ أَنَا إِلّا نَذِيرٌ وَبَشِيرٌ لِقَوْمٍ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُلْ لا أَمْلِك لِنَفْسِى‌ نَفْعاً وَلا ضَرّاً إِلّا ما شاءَ اللَّهُ
+> وَلَوْ كُنْتُ أَعْلَمُ الغَيْبَ لَاسْتَكْثَرْتُ مِنَ الخَيْرِ وَما
+> مَسَّنِىَ‏السُّوءُ إِنْ أَنَا إِلّا نَذِيرٌ وَبَشِيرٌ لِقَوْمٍ
+> يُؤْمِنُونَ
 
 ***Say: "I have no power over any good or harm to myself except as God
 willeth. If I had knowledge of the unseen, I should have multiplied all
@@ -948,13 +912,9 @@ they create, give sustenance, and give death and life.’ Imam Sadiq
 (a.s.) stated, ‘He is Allah’s enemy and lies. If you saw him, recite
 this verse:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ جَعَلُوا لِلَّهِ شُرَکاءَ خَلَقُوا کَخَلْقِهِ فَتَشابَهَ
-الْخَلْقُ عَلَيْهِمْ قُلِ اللَّهُ خالِقُ کُلِّ شَيْ‏ءٍ وَ هُوَ
-الْواحِدُ الْقَهَّارُ
-  </p>
-</blockquote>
+> أَمْ جَعَلُوا لِلَّهِ شُرَکاءَ خَلَقُوا کَخَلْقِهِ فَتَشابَهَ
+> الْخَلْقُ عَلَيْهِمْ قُلِ اللَّهُ خالِقُ کُلِّ شَيْ‏ءٍ وَ هُوَ
+> الْواحِدُ الْقَهَّارُ
 
 ***‘Or do they assign to Allah partners who have created (anything) as
 He has created, so that the creation seemed to them similar? Say: "Allah
@@ -1297,5 +1257,4 @@ Bahjatul Maqal by Mulla Ali Alyari, and other rijal sources.
 [^69]: Biharul Anwar, Vol 25, p. 319.
 
 [^70]: Biharul Anwar, Vol 25, p. 288.
-
 

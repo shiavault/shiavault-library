@@ -23,7 +23,6 @@ simultaneously with Khadijah if he ever suffered from lust and fondness
 of young women, particularly when the country's customs wholly approved
 unlimited mar- riages.
 
-
 **Critics Dumbfounded**
 
 Let us look at the life history of the Prophet of Islam. During the
@@ -59,5 +58,4 @@ John Devenport says, "and it may then be asked, is it likely that a
 very sensual man, of a country where polygamy was a common practice,
 should be contented for five-and-twenty years with one wife, she being
 fifteen years older than himself".
-
 

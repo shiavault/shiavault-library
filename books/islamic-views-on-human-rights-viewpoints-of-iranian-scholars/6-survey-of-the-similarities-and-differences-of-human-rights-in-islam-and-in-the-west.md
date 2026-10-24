@@ -452,4 +452,3 @@ belongs to the soul and the soul is abstract.
 
 [^4]: Ayatullah Javadi Amuli’s words have been used.
 
-

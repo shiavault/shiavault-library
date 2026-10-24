@@ -317,7 +317,7 @@ This tradition also supports what we have stated above.**[3]**
 Departure before Hajj
 ---------------------
 
-The question arises why Imam (‘a) left Mecca on 8<sup>th</sup> Zilhajj
+The question arises why Imam (‘a) left Mecca on 8th Zilhajj
 while it is the day when pilgrims prepare to leave for Arafat and why he
 did not complete his Hajj? According to our view there were some factors
 due to which His Eminence hastily left Mecca and they are as follows:
@@ -398,7 +398,7 @@ government of Quran and heavenly justice on the Islamic lands and that
 he may remove the deceitful and oppressive people from there.
 
 The Imam’s departure – according to historians – was on the
-8<sup>th</sup> of Zilhajj 60 A.H.,**[5]** while all the people of Mecca
+8th of Zilhajj 60 A.H.,**[5]** while all the people of Mecca
 were filled with sorrow and none was free from it…**[6]**
 
 ------------------------------------------------------------------------
@@ -729,7 +729,7 @@ your favorable attitude and the readiness of the majority of you to help
 me and to restore our rights. Thus I beseech the Almighty to give me
 success in righteousness and that He makes you eligible for the greatest
 reward for this. I have set out from Mecca towards you on Tuesday,
-8<sup>th</sup> Zilhajj the day of Tarwiyah. So when my messenger reaches
+8th Zilhajj the day of Tarwiyah. So when my messenger reaches
 you, you must conceal your affair and continue your efforts as I would,
 if Allah wills, reach you in a few days. And peace be upon you and the
 mercy of Allah and His bounties.”**[1]**

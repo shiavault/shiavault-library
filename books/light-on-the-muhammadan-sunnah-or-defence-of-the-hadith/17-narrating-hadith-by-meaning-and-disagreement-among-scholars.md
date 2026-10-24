@@ -1,20 +1,14 @@
 Narrating Hadith By Meaning and Disagreement Among Scholars:
 ============================================================
 
-  
-  
-  
-
 The ulama’ disagreed regarding narration of hadith by meaning, with some
 holding it to be absolutely impermissible, among whom being Ibn Sirin,
-Tha’lab and Abu Bakr al-Razi, beside Ibn Umar <span
-id="_anchor_120"></span>120  according to some narrations. But the
+Tha’lab and Abu Bakr al-Razi, beside Ibn Umar 120  according to some narrations. But the
 majority of ulama’ permit it, on condition that the narrator being aware
 of the minutest words, able to discern the amount of difference between
 them, experienced in their denotations. That is when exchanging any word
 of the hadith reported to him with another one identical to it in
-meaning, this would be permissible for him. <span
-id="_anchor_121"></span>121
+meaning, this would be permissible for him. 121
 
 This issue was tackled by usul scholars, and due to its extreme
 importance I would like to cite here excerpts of their statements for
@@ -24,8 +18,7 @@ In al-Luma’, Abu Ishaq al-Shirazi is reported to have said: Ikhtiyar in
 narration is to narrate the report by its original wording, in
 accordance with the Prophet’s hadith: “May Allah bless whoever hears my
 utterance and comprehends it, delivering it as he heard it. Holder of
-fiqh may convey it to that who being more knowledgeable than him. <span
-id="_anchor_122"></span>122  When he citing any riwayah, it should be
+fiqh may convey it to that who being more knowledgeable than him. 122  When he citing any riwayah, it should be
 deliberated! If he being of those unaware of the meaning of the hadith,
 his narration is impermissible, since he is not immune against changing
 it. And if he be among those recognizing the meaning of the hadith, it
@@ -49,14 +42,13 @@ Sulayman ibn Akimah al-Laythi as saying: I said: O Messenger of Allah, I
 hear hadith from you but be unable to convey it as I hear it as one
 letter may be added or one omitted from it (what to do!) He (S) said:
 “There is no harm in it if you do not legalize any unlawful act or
-prohibit that which is lawful, and when you hit the mark.” <span
-id="_anchor_123"></span>123
+prohibit that which is lawful, and when you hit the mark.” 123
 
 Those forbidding riwayah by meaning argued by emphasizing on the text
 and rational aspect. In respect of the text, it can be referred to his
 (S) hadith: “May God bless whoever hears my utterance and comprehends
 it, delivering it as he heard it. The propagator might be more conscious
-than the hearer. <span id="_anchor_124"></span>124  In exposing it they
+than the hearer. 124  In exposing it they
 said: Delivering it as he heard it is to deliver the same words heard.
 And the faqih’s conveying the fiqh to that who is more knowledgeable
 than him, means – God is aware – that the more sagacious one may
@@ -115,7 +107,7 @@ impermissible. This being the basis of these provisions, that when they
 be fulfilled the controversy would be on permissibility, otherwise it is
 unanimously impermissible. One of the pleas introduced by those
 forbidding narration by meaning, being the hadith reported by al-Bara’
-ibn \`Azib. <span id="_anchor_125"></span>125
+ibn \`Azib. 125
 
 The proof (hujjah) given by those permitting this practice, being that
 the Companions used to give ears to the traditions without committing
@@ -126,11 +118,10 @@ but only the meaning, since many traditions were reported with
 miscellaneous expressions with oneness of denotation and episode. This
 being the evidence given for permitting the reporting by meaning, and as
 the term “Sunnh” cannot be taken as subject of worship like the term
-Qur’an, so when the meaning attains exactitude, <span
-id="_anchor_126"></span>126  no harm shall be there from missing that
+Qur’an, so when the meaning attains exactitude, 126  no harm shall be there from missing that
 which be not intended.
 
-In his book Qawa’id al-tahdith, <span id="_anchor_127"></span>127
+In his book Qawa’id al-tahdith, 127
  al-Qasimi says:
 
 To convey and relate hadith by meaning not by the very words (original
@@ -166,8 +157,7 @@ inquiring Yahya ibn Sa’id al-Qattan about the way of pronouncing a
 letter in the hadith, when Yahya said to him: Nothing is there in the
 world more dignified than the Book of Allah, the Exalted, the reciting
 of which was permitted to be on seven readings (ahruf), so never
-intensify.” <span id="_anchor_128 
- onmouseover="></span>128
+intensify.” 128
 
 Al-Bayhaqi reported on the authority of Makhul as saying: I and Abu
 al-Azhar entered upon Wathilah ibn al-Asqa’ and said to him: Relate to
@@ -193,21 +183,21 @@ hadith by meaning, with expressing it through words of his own, that
 would fall short of giving the full meaning. Most often the least change
 (in the words) may alter the whole meaning and cause ambiguity in the
 hadith, and it is known that al-Jumhur (Sunnites) have permitted
-narration by meaning. <span id="_anchor_129"></span>129
+narration by meaning. 129
 
 In Sunan al-Tirmidhi, Makhul reported from Wathilah ibn al-Asqa’ as
 saying: When we relate any hadith to you by meaning, it should be
 sufficient for you. Al-Dhahabi, in Siyar A’lam al-nubala’, is reported
 to have said: When I relate to you any hadith according to its meaning,
-it is sufficient for you. <span id="_anchor_130"></span>130  Wukay’
-<span id="_anchor_131"></span>131  reports also on the authority of
+it is sufficient for you. 130  Wukay’
+131  reports also on the authority of
 al-Rabi’ ibn Sabih, from al-Hasan, that he said: When you hit the mark
 and reached the meaning, you must be satisfied with that. And he said:
 Had the meaning not been so broad, people would have perished, and the
 learned men used to compete each other by extent of memorization,
 exactitude and verification during hearing (the hadith), though even
 eminent leaders of schools could never be immune against error and
-mistake. Sufyan al-Thawri <span id="_anchor_132"></span>132  is reported
+mistake. Sufyan al-Thawri 132  is reported
 to have said: Even when I myself tell you that I am narrating to you the
 very ahadith as I heard (from the Prophet), never believe me, as it be
 no more than the meaning. When it was said to him: O Abu Abd Allah,
@@ -232,10 +222,6 @@ of worship performed by pronouncing certain words, like takbirat
 al-ihram (saying Allah is the Greater in the outset of prayers), and
 tashahhudat (witnesses). But there being various words cited for
 tashahhudat, the most widely-known of which are the following.
-
-  
-  
-  
 
 120. Among the Sahabah there were some permitting narration of hadith on
 basis of meaning, like: Ibn Abbas and Anas. While among the Tabi'un

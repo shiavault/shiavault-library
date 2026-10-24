@@ -435,4 +435,3 @@ surely the morning recitation is witnessed).
 
 [^30]: Mustahab: A voluntary and meritorious act of worship.
 
-

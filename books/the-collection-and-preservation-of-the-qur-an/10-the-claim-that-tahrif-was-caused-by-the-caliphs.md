@@ -167,4 +167,3 @@ the Qur’an has been tampered with has no substance whatsoever.
 
 [^3]: Manahilul Irfan p257
 
-

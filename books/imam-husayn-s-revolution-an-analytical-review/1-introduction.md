@@ -29,4 +29,3 @@ popular and trustworthy authorities on the subject.
 To understand Imam Husayn's personality and the collective culture of
 the society, a summary of Islam's view of life is necessary.
 
-

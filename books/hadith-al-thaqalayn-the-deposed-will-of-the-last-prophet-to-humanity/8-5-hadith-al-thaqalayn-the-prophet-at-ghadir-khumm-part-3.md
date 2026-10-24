@@ -5,12 +5,8 @@ The Prophet, sallallahu ‘alaihi wa alihi, conveyed Hadith al-Thaqalayn
 in different words to absolutely ensure that the message was not lost on
 his audiences. At ‘Arafat, he declared:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
-وعترتي أهل بيتي
-  </p>
-</blockquote>
+> يا أيها الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله
+> وعترتي أهل بيتي
 
 O mankind! I have left behind over you that which if you hold fast to it
 you will never go astray: the Book of Allah and my offspring, my Ahl
@@ -18,13 +14,9 @@ al-Bayt.
 
 Later, at Ghadir Khumm, he again statements:
 
-<blockquote dir="rtl">
-  <p>
-أنا تارك فيكم ثقلين أولهما كتاب الله فيه الهدى والنور من استمسك به
-وأخذ به كان على الهدى ومن أخطأه ضل فخذوا بكتاب الله تعالى واستمسكوا به
-وأهل بيتي
-  </p>
-</blockquote>
+> أنا تارك فيكم ثقلين أولهما كتاب الله فيه الهدى والنور من استمسك به
+> وأخذ به كان على الهدى ومن أخطأه ضل فخذوا بكتاب الله تعالى واستمسكوا به
+> وأهل بيتي
 
 I am leaving behind over you Two Weighty Things (thaqalayn). The first
 of them is the Book of Allah. In it there is guidance and light. Whoever
@@ -36,13 +28,9 @@ Then, at that same Ghadir Khumm, he made some other pronouncements,
 which were clearly intended to drive home the point more forcefully.
 Al-Hafiz Ibn Kathir (d. 774 H) affirms this in his Tafsir:
 
-<blockquote dir="rtl">
-  <p>
-و في الصحيح: أن رسول الله صلى الله عليه وسلم قال في خطبته بغَدِير
-خُمّ: "إني تارك فيكم الثقلين: كتاب الله وعترتي، وإنهما لم يفترقا حتى
-يردا علي الحوض"
-  </p>
-</blockquote>
+> و في الصحيح: أن رسول الله صلى الله عليه وسلم قال في خطبته بغَدِير
+> خُمّ: "إني تارك فيكم الثقلين: كتاب الله وعترتي، وإنهما لم يفترقا حتى
+> يردا علي الحوض"
 
 In the sahih report, it is recorded that the Messenger of Allah, peace
 be upon him, said in his sermon at Ghadir Khumm: “I am leaving behind
@@ -53,15 +41,11 @@ meet me at the Lake-Fount.”[^1]
 Meanwhile, Imam al-Hakim (d. 403 H) has equally recorded this riwayah
 which identifies the main narrator of the hadith:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر محمد بن الحسين بن مصلح الفقيه بالري ثنا محمد بن أيوب ثنا
-يحيى بن المغيرة السعدي ثنا جرير بن عبد الحميد عن الحسن بن عبد الله
-النخعي عن مسلم بن صبيح عن زيد بن أرقم رضي الله عنه قال قال رسول الله
-صلى الله عليه وسلم إني تارك فيكم الثقلين كتاب الله وأهل بيتي وإنهما لن
-يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> حدثنا أبو بكر محمد بن الحسين بن مصلح الفقيه بالري ثنا محمد بن أيوب ثنا
+> يحيى بن المغيرة السعدي ثنا جرير بن عبد الحميد عن الحسن بن عبد الله
+> النخعي عن مسلم بن صبيح عن زيد بن أرقم رضي الله عنه قال قال رسول الله
+> صلى الله عليه وسلم إني تارك فيكم الثقلين كتاب الله وأهل بيتي وإنهما لن
+> يتفرقا حتى يردا علي الحوض
 
 Abu Bakr Muhammad b. al-Husayn b. Musalih al-Faqih – Muhammad b. Ayub –
 Yahya b. al-Mughirah al-Sa’di – Jarir b. ‘Abd al-Hamid – al-Hasan b.
@@ -75,34 +59,22 @@ they meet me at the Lake-Fount.”[^2]
 
 Al-Hakim states:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد على شرط الشيخين
 
 This hadith has a sahih chain upon the standard of the two Shaykhs.[^3]
 
 Imam al-Dhahabi (d. 748 H) concurs:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 Upon the standard of al-Bukhari and Muslim[^4]
 
 Imam al-Tabarani (d. 360 H) too has an additional sanad for the hadith:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن عبد العزيز ثنا عمرو بن عون الواسطي ثنا خالد بن عبد الله
-عن الحسن بن عبيد الله عن أبي الضحى عن زيد بن أرقم قال قال رسول الله
-صلى الله عليه و سلم : إني تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي
-وإنهما لن يتفرقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> حدثنا علي بن عبد العزيز ثنا عمرو بن عون الواسطي ثنا خالد بن عبد الله
+> عن الحسن بن عبيد الله عن أبي الضحى عن زيد بن أرقم قال قال رسول الله
+> صلى الله عليه و سلم : إني تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي
+> وإنهما لن يتفرقا حتى يردا علي الحوض
 
 ‘Ali b. ‘Abd al-‘Aziz – ‘Amr b. ‘Awn al-Wasiti – Khalid b. ‘Abd Allah –
 al-Hasan b. ‘Ubayd Allah – Abu al-Dhuha – Zayd b. Arqam:
@@ -114,11 +86,7 @@ other until they meet me at the Lake-Fount.”[^5]
 
 Shaykh al-Arnaut says about this hadith:
 
-<blockquote dir="rtl">
-  <p>
-وهو صحيح
-  </p>
-</blockquote>
+> وهو صحيح
 
 It is sahih[^6]
 
@@ -128,12 +96,8 @@ typically reluctant Shaykh. This, of course, means a lot.
 Meanwhile, there is no sin in independently verifying the authenticity
 of the hadith. As such, al-Dhahabi says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-علي بن عبد العزيز ابن المرزبان ابن سابور: الامام، الحافظ، الصدوق، أبو
-الحسن البغوي
-  </p>
-</blockquote>
+> علي بن عبد العزيز ابن المرزبان ابن سابور: الامام، الحافظ، الصدوق، أبو
+> الحسن البغوي
 
 ‘Ali b. ‘Abd al-‘Aziz b. al-Marzaban b. Sabur: the Imam, the hafiz
 (hadith scientist), the saduq (very truthful) narrator, Abu al-Hasan
@@ -141,12 +105,8 @@ al-Baghwi.[^7]
 
 Elsewhere, he adds:
 
-<blockquote dir="rtl">
-  <p>
-علي بن عبد العزيز البغوي الحافظ المجاور بمكة. ثقة، لكنه يطلب على
-التحديث، ويعتذر بأنه محتاج. قال الدارقطني: ثقة مأمون.
-  </p>
-</blockquote>
+> علي بن عبد العزيز البغوي الحافظ المجاور بمكة. ثقة، لكنه يطلب على
+> التحديث، ويعتذر بأنه محتاج. قال الدارقطني: ثقة مأمون.
 
 ‘Ali b. ‘Abd al-‘Aziz al-Baghwi: the hafiz (hadith scientist), adjacent
 to Makkah: Thiqah (trustworthy). However, he used to request (payments)
@@ -156,23 +116,15 @@ reliable.”[^8]
 
 Al-Hafiz (d. 852 H) states about the second narrator:
 
-<blockquote dir="rtl">
-  <p>
-عمرو بن عون بن أوس الواسطي أبو عثمان البزاز البصري ثقة ثبت
-  </p>
-</blockquote>
+> عمرو بن عون بن أوس الواسطي أبو عثمان البزاز البصري ثقة ثبت
 
 ‘Amr b. ‘Awn b. Aws al-Wasiti, Abu ‘Uthman al-Bazzaz al-Basri: Thiqah
 (trustworthy), thabt (accurate).[^9]
 
 Concerning the third narrator, al-Hafiz also says:
 
-<blockquote dir="rtl">
-  <p>
-خالد بن عبد الله بن عبد الرحمن بن يزيد الطحان الواسطي المزني مولاهم
-ثقة ثبت
-  </p>
-</blockquote>
+> خالد بن عبد الله بن عبد الرحمن بن يزيد الطحان الواسطي المزني مولاهم
+> ثقة ثبت
 
 Khalid b. ‘Abd Allah b. ‘Abd al-Rahman b. Yazid al-Tahan al-Wasiti
 al-Muzni, their freed slave: Thiqah (trustworthy), thabt
@@ -181,35 +133,23 @@ al-Muzni, their freed slave: Thiqah (trustworthy), thabt
 The fourth narrator is thiqah (trustworthy) too, as affirmed by
 al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-الحسن بن عبيد الله بن عروة النخعي أبو عروة الكوفي ثقة فاضل
-  </p>
-</blockquote>
+> الحسن بن عبيد الله بن عروة النخعي أبو عروة الكوفي ثقة فاضل
 
 Al-Hasan b. ‘Ubayd Allah b. ‘Urwah al-Nakha’i, Abu ‘Urwah al-Kufi:
 Thiqah (trustworthy), fadhil (virtuous).[^11]
 
 Finally, al-Hafiz proclaims about the last narrator:
 
-<blockquote dir="rtl">
-  <p>
-مسلم بن صبيح بالتصغير الهمداني أبو الضحى الكوفي العطار مشهور بكنيته
-ثقة فاضل
-  </p>
-</blockquote>
+> مسلم بن صبيح بالتصغير الهمداني أبو الضحى الكوفي العطار مشهور بكنيته
+> ثقة فاضل
 
 Muslim b. Subayh al-Hamdani, Abu al-Dhuha al-Kufi al-‘Attar, well-known
 with his kunya: Thiqah (trustworthy), fadhil (virtuous).[^12]
 
 Imam Muslim (d. 261 H) also states concerning him:
 
-<blockquote dir="rtl">
-  <p>
-أبو الضحى مسلم بن صبيح سمع ابن عباس والنعمان بن بشير وزيد بن أرقم روى
-عنه الأعمش وحبيب بن أبي ثابت
-  </p>
-</blockquote>
+> أبو الضحى مسلم بن صبيح سمع ابن عباس والنعمان بن بشير وزيد بن أرقم روى
+> عنه الأعمش وحبيب بن أبي ثابت
 
 Abu al-Dhuha, Muslim b. Subayh: He heard (ahadith from) Ibn ‘Abbas,
 al-Nu’man b. Bashir and Zayd b. Arqam. Al-A’mash and Habib b. Abi Thabit
@@ -220,14 +160,10 @@ course, is fully connected. As such, it is a perfectly sahih chain.
 
 But, there is more! Imam al-Tabarani again documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا معاذ بن المثنى ثنا علي بن المديني ثنا جرير بن عبد الحميد عن
-الحسن بن عبيد الله عن أبي الضحى عن زيد بن أرقم قال قال رسول الله : إني
-تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا
-علي الحوض
-  </p>
-</blockquote>
+> حدثنا معاذ بن المثنى ثنا علي بن المديني ثنا جرير بن عبد الحميد عن
+> الحسن بن عبيد الله عن أبي الضحى عن زيد بن أرقم قال قال رسول الله : إني
+> تارك فيكم الثقلين كتاب الله وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا
+> علي الحوض
 
 Mu’adh b. al-Muthanna – ‘Ali b. al-Madini – Jarir b. ‘Abd al-Hamid –
 al-Hasan b. ‘Ubayd Allah – Abu al-Dhuha – Zayd b. Arqam:
@@ -241,23 +177,15 @@ There are only three new names in this chain.
 
 Al-Dhahabi says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-معاذ بن المثنى أبو المثنى: ثقة، متقن.
-  </p>
-</blockquote>
+> معاذ بن المثنى أبو المثنى: ثقة، متقن.
 
 Mu’adh b. al-Muthanna, Abu al-Muthanna: Thiqah (trustworthy), extremely
 precise.[^15]
 
 About the second narrator, al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-علي بن عبد الله بن جعفر بن نجيح السعدي مولاهم أبو الحسن بن المديني
-بصري ثقة ثبت إمام أعلم أهل عصره بالحديث وعلله
-  </p>
-</blockquote>
+> علي بن عبد الله بن جعفر بن نجيح السعدي مولاهم أبو الحسن بن المديني
+> بصري ثقة ثبت إمام أعلم أهل عصره بالحديث وعلله
 
 ‘Ali b. ‘Abd Allah b. Ja’far b. Najih al-Sa’di, their freed slave, Abu
 al-Hasan b. al-Madini Basri: Thiqah (trustworthy), thabt (accurate), an
@@ -265,13 +193,9 @@ Imam, the most knowledgeable of his time in hadith and its ‘ilal.[^16]
 
 The third narrator is like that too, as al-Hafiz submits:
 
-<blockquote dir="rtl">
-  <p>
-جرير بن عبد الحميد بن قرط بضم القاف وسكون الراء بعدها طاء مهملة الضبي
-الكوفي نزيل الري وقاضيها ثقة صحيح الكتاب قيل كان في آخر عمره يهم من
-حفظه
-  </p>
-</blockquote>
+> جرير بن عبد الحميد بن قرط بضم القاف وسكون الراء بعدها طاء مهملة الضبي
+> الكوفي نزيل الري وقاضيها ثقة صحيح الكتاب قيل كان في آخر عمره يهم من
+> حفظه
 
 Jarir b. ‘Abd al-Hamid b. Qurt al-Dhabi al-Kufi, a resident of al-Rayy
 and its judge: Thiqah (trustworthy), sahih al-kitab (i.e. whatever he
@@ -347,5 +271,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 ‘Abd al-Qadir ‘Ata], vol. 1, p. 697, \# 4776
 
 [^17]: Ibid, vol. 1, p. 158, \# 918
-
 

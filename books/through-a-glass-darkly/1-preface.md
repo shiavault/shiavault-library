@@ -34,4 +34,3 @@ schools of Islamic law and the intepretation of the Qur'an and Hadith;
 relations with other Muslim polities (as well as, if data exists,
 non-Muslim ones).
 
-

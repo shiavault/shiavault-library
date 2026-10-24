@@ -37,4 +37,3 @@ particularly Islamic societies.
 
 International Relation Department, Islamic Propagation Organization
 
-

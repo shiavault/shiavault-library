@@ -35,12 +35,8 @@ sermon. This is where he recommended his community to hold fast to the
 Book and Tradition and ordered them to follow these two precious things
 and stop opposing them.
 
-<blockquote dir="rtl">
-  <p>
-.... و قد ترکت فیکم ما ان اخذتم بهما لن تضلوا بعدی: کتاب هللا و اهل
-بیتی
-  </p>
-</blockquote>
+> .... و قد ترکت فیکم ما ان اخذتم بهما لن تضلوا بعدی: کتاب هللا و اهل
+> بیتی
 
 **“… I left something among you. As long as you hold fast to them, you
 will never go astray after me: Allah’s Book and my progeny”.** [^1]
@@ -102,5 +98,4 @@ Peace and blessing of Allah be upon Muhammad and his pure progeny.
 All praise belongs to Allah.
 
 [^1]: Kanz al-Ummal, vol. 13, p. 140, Tradition no. 36441.
-
 

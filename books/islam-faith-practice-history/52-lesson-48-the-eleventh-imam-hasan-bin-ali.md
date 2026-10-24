@@ -296,4 +296,3 @@ to prevent Ishāq al-Kindi from writing the response to the Qur’ān.
 Question 3: [15 points]  
  Describe the Imam’s miracle of rain in your own words.
 
-

@@ -75,33 +75,21 @@ knowledge of his nephew's prophethood right from his infancy, proves
 that he believed in the Noble Prophet (S). Later, Abu Talib recited the
 following verses in connection with this incident:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَبْيَضُ يُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ ثِمَالُ الْيَتَامَى
-عِصْمَةٌ لِلألْأَرَامِلِ‏.
-  </p>
-</blockquote>
+> وَ أَبْيَضُ يُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ ثِمَالُ الْيَتَامَى
+> عِصْمَةٌ لِلألْأَرَامِلِ‏.
 
 “He is a luminous-faced one and it is for him that the clouds pour down
 rain he is the shelter of the orphans and the protector of the widows.”
 
-<blockquote dir="rtl">
-  <p>
-يَلُوْذُ بِهِ الْهُلاَّكُ مِنْ آلِ هَاشِمٍ. فَهُمْ عِنْدَهُ فِي
-نِعْمَةٍ وَ فَوَاضِلَلٍ.
-  </p>
-</blockquote>
+> يَلُوْذُ بِهِ الْهُلاَّكُ مِنْ آلِ هَاشِمٍ. فَهُمْ عِنْدَهُ فِي
+> نِعْمَةٍ وَ فَوَاضِلَلٍ.
 
 “Those from the Bani Hashim who face destruction seek refuge in him and
 it is by means of him that they find themselves receiving bounties and
 favours.”
 
-<blockquote dir="rtl">
-  <p>
-وَ مِيْزَانُ صِدْقٍ لاَ يَخِيْسُ شَعِيْرَةً وَ وَزَّانٌ صِدْقٌ
-وَزْنُهُ غَيْرُ هَائِلٍل.
-  </p>
-</blockquote>
+> وَ مِيْزَانُ صِدْقٍ لاَ يَخِيْسُ شَعِيْرَةً وَ وَزَّانٌ صِدْقٌ
+> وَزْنُهُ غَيْرُ هَائِلٍل.
 
 “He is that balance of justice that never violates (even) one grain of
 barley and he is a correct measurer whose weight and measurement are not
@@ -119,63 +107,39 @@ In addition, certain well-known Islamic books contain some poems from
 Abu Talib, all of which have been gathered and this collection referred
 to as *Diwan Abi Talib*. Some of these poems are presented below:
 
-<blockquote dir="rtl">
-  <p>
-وَ اللهِ لَنْ يَصِلُوْا إِلَيْكَ بِجَمْعِهِمْ حَتَّى أُوَسَّدَ فِي
-التُّرَابِ دَفِيْنًا.
-  </p>
-</blockquote>
+> وَ اللهِ لَنْ يَصِلُوْا إِلَيْكَ بِجَمْعِهِمْ حَتَّى أُوَسَّدَ فِي
+> التُّرَابِ دَفِيْنًا.
 
 “O' Nephew! The enemies shall never reach you until such time that Abu
 Talib has rested in the earth and taken the grave as his bed,”
 
-<blockquote dir="rtl">
-  <p>
-فَاصْدَعْ بِأَامْرِكَ مَا عَلَيْكَ غَضَاضَةً وَ ابْشِرْ وَ قِرَّ
-بِذَاكَ مِنْهُ عُيُوْنًا.
-  </p>
-</blockquote>
+> فَاصْدَعْ بِأَامْرِكَ مَا عَلَيْكَ غَضَاضَةً وَ ابْشِرْ وَ قِرَّ
+> بِذَاكَ مِنْهُ عُيُوْنًا.
 
 “So accomplish your assignment and fear none give glad tidings and make
 the eyes joyous and cheerful.”
 
-<blockquote dir="rtl">
-  <p>
-وَ دَعَوْتَنِيْ وَ زَعَمْتُ أَنَّكَ نَاصِحِيْ وَ لَقَدْ صَدَقْتَ وَ
-كُنْتَ قَبْلَ أَمِيْنًا.
-  </p>
-</blockquote>
+> وَ دَعَوْتَنِيْ وَ زَعَمْتُ أَنَّكَ نَاصِحِيْ وَ لَقَدْ صَدَقْتَ وَ
+> كُنْتَ قَبْلَ أَمِيْنًا.
 
 “You invited me towards your faith and I know fully well that you are a
 sincere adviser to me and surely you invited and are trustworthy in your
 invitation.”
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ عَلِمْتُ أَانَّ دِيْنَ مُحَمَّدٍ مِنْ خَيْرِ أَدْيَانِ
-الْبَرِيَّةِ دِيْنًا.
-  </p>
-</blockquote>
+> وَ لَقَدْ عَلِمْتُ أَانَّ دِيْنَ مُحَمَّدٍ مِنْ خَيْرِ أَدْيَانِ
+> الْبَرِيَّةِ دِيْنًا.
 
 “Indeed I have perceived that the religion of Muhammad is the most
 excellent of all religions.”[^3]
 
-<blockquote dir="rtl">
-  <p>
-أَ لَمْ تَعْلَمُوا أَنَّا وَجَدْنَا مُحَمَّداً نَبِيّاً كَمُوسَى خُطَّ
-فِي أَوَّلِ الْكُتُبِ.
-  </p>
-</blockquote>
+> أَ لَمْ تَعْلَمُوا أَنَّا وَجَدْنَا مُحَمَّداً نَبِيّاً كَمُوسَى خُطَّ
+> فِي أَوَّلِ الْكُتُبِ.
 
 “O' Quraish, do you not know that we have found Muhammad to be a prophet
 just as Musa was and his mention has been recorded in the Divine books?”
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنَّ عَلَيْهِ فِي الْعِبَادِ مَحَبَّةً وَ لاَ سِنَّ فِيْمَنْ
-خَصَّهُ اللهُ فِي الْحُبِّ.
-  </p>
-</blockquote>
+> وَ أَنَّ عَلَيْهِ فِي الْعِبَادِ مَحَبَّةً وَ لاَ سِنَّ فِيْمَنْ
+> خَصَّهُ اللهُ فِي الْحُبِّ.
 
 “The servants of Allah (s.w.t.) possess a special fondness with respect
 to him and this is not out of place for one whom Allah (s.w.t.) has
@@ -201,11 +165,7 @@ is to its socket, and as a soul is to the body.[^5]
 
 Also, he (S) used to repeatedly confess:
 
-<blockquote dir="rtl">
-  <p>
-مَا نَالَتْ مِنِّيْ قُرَيْشُ شَيْئًا حَتَّى مَاتَ أَبُو طَالِبٍ‏.
-  </p>
-</blockquote>
+> مَا نَالَتْ مِنِّيْ قُرَيْشُ شَيْئًا حَتَّى مَاتَ أَبُو طَالِبٍ‏.
 
 “The Quraish were unable to inconvenience me in any way until after the
 death of Abu Talib.”[^6]
@@ -272,13 +232,9 @@ We are of the opinion that every person, who casts aside his prejudice
 and studies the gold lines of history about Abu Talib impartially would
 concur with Ibne Abil Hadid and say:[^9]
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ لاَ اأَبُو طَالِبٍ وَ ابْنُهُ لَمَا مَثَلَ الدِّيْنُ شَخِخْصاً
-فَقَامَا فَذَاكَ بِمَكَّةَ آوِى وَ حَامَىِي وَ هَذَا بِيَثْرِبَ جَسَّ
-الْحَمَاماً.
-  </p>
-</blockquote>
+> وَ لَوْ لاَ اأَبُو طَالِبٍ وَ ابْنُهُ لَمَا مَثَلَ الدِّيْنُ شَخِخْصاً
+> فَقَامَا فَذَاكَ بِمَكَّةَ آوِى وَ حَامَىِي وَ هَذَا بِيَثْرِبَ جَسَّ
+> الْحَمَاماً.
 
 “If it was not for the presence of Abu Talib and his son, the religion
 (of Islam) would never have stayed in place and stood up aloft. Abu
@@ -311,5 +267,4 @@ vol. 8.
 [^9]: al-Ghadir, vol. 8
 
 [^10]: Tafsir-e-Namuna, vol. 5, pg. 192
-
 

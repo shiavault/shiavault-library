@@ -114,7 +114,6 @@ seemingly acceptable for Arabs and Muslims to be painted with a
 stereotypical broad brush. One may refer to Shaheen\\'s book for
 hundreds of examples.
 
-
 **Toleration of Stereotyping Breeds Discrimination**
 
 The consequences of stereotyping minorities are manifold. In the case
@@ -182,5 +181,4 @@ minds of a public that is often times skeptical if politicians care for
 its best interests. The American coverage of the Israeli-Hizbullah
 Conflict of 2006 was one of the best examples of how this stereotyping
 contributed to a filtering of information available to the public.
-
 

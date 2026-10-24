@@ -246,4 +246,3 @@ deposited His knowledge with you, but you have wasted them both. We
 thank God Who has saved us from that with which He has inflicted you.
 Salaam.[^20]
 
-

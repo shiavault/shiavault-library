@@ -153,4 +153,3 @@ see with what condition I am faced and what a large army has gathered to
 kill me". Zaynab also uttered some touching words and became
 unconscious.
 
-

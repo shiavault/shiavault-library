@@ -27,4 +27,3 @@ works], (Baghdad, Iraq: University of Baghdad Press, 1988), pp.
 298–[^302]: While Dr. Yāsin Khalīl used this model to clarify the Arabic
 sciences; the model being used here represents Islamic civilization.
 
-

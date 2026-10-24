@@ -8,24 +8,12 @@ Abu Ja\`far al-Iskafi has mentioned this in his "Kitab al-maqamat" on
 the excellent qualities (manaqib) of Amir al-mu'minin (peace be upon
 him).
 
-<blockquote dir="rtl">
-  <p>
-ومن كتاب كتبه (عليه السلام)
-  </p>
-</blockquote>
+> ومن كتاب كتبه (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-إلى طلحة والزبير، مع عمران بن الحصين الخزاعي
-  </p>
-</blockquote>
+> إلى طلحة والزبير، مع عمران بن الحصين الخزاعي
 
-<blockquote dir="rtl">
-  <p>
-وقد ذكره أبو جعفر الاسكافي في كتاب المقامات في مناقب أمير المؤمنين
-عليه السلام
-  </p>
-</blockquote>
+> وقد ذكره أبو جعفر الاسكافي في كتاب المقامات في مناقب أمير المؤمنين
+> عليه السلام
 
 Now, both of you know, although you conceal it, that I did not approach
 the people till they approached me, and I did not ask them to swear
@@ -42,21 +30,17 @@ entitled than other Muhajirun to conceal and hide the matter. Your
 refusing allegiance before entering into it would have been easier than
 getting out of it after having accepted it.
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا بَعْدُ، فَقَدْ عَلِمْتُما، وَإِنْ كَتَمْتُما، أَنِّي لَمْ
-أُرِدِ النَّاسَ حَتَّى أَرَادُونِي، وَلَمْ أُبَايِعْهُمْ حَتَّى
-بَايَعُونِي، وَإِنَّكُمَا مِمَّنْ أَرَادَنِي وَبَايَعَنِي، وَإِنَّ
-العَامَّةَ لَمْ تُبَايِعْنِي لِسُلْطَان غَاصِب، وَلاَ لِعَرَض حَاضِر،
-فَإِنْ كُنْتُما بَايَعْتُمانِي طَائِعَيْنِ، فارْجِعَا وَتُوبَا إِلَى
-اللهِ مِنْ قَرِيب، وَإِنْ كُنْتُما بَايَعْتُمانِي كَارِهَيْنِ، فَقَدْ
-جَعَلْتُما لِي عَلَيْكُمَا السَّبِيلَ بِإِظْهَارِكُمَا الطَّاعَةَ،
-وَإِسْرَارِكُمَا الْمَعْصِيَةَ، وَلَعَمْرِي مَا كُنْتُما بِأَحَقِّ
-الْمُهَاجِرِينَ بِالتَّقِيَّةِ وَالْكِتْمانِ، وَإِنَّ دَفْعَكُمَا هذَا
-الاَْمْرَ مِنْ قَبْلِ أَنْ تَدْخُلاَ فِيهِ، كَانَ أَوْسَعَ عَلَيْكُمَا
-مِنْ خُرُوجِكُمَا مِنْهُ، بَعْدَ إِقْرَارِكُمَا بِهِ.
-  </p>
-</blockquote>
+> أَمَّا بَعْدُ، فَقَدْ عَلِمْتُما، وَإِنْ كَتَمْتُما، أَنِّي لَمْ
+> أُرِدِ النَّاسَ حَتَّى أَرَادُونِي، وَلَمْ أُبَايِعْهُمْ حَتَّى
+> بَايَعُونِي، وَإِنَّكُمَا مِمَّنْ أَرَادَنِي وَبَايَعَنِي، وَإِنَّ
+> العَامَّةَ لَمْ تُبَايِعْنِي لِسُلْطَان غَاصِب، وَلاَ لِعَرَض حَاضِر،
+> فَإِنْ كُنْتُما بَايَعْتُمانِي طَائِعَيْنِ، فارْجِعَا وَتُوبَا إِلَى
+> اللهِ مِنْ قَرِيب، وَإِنْ كُنْتُما بَايَعْتُمانِي كَارِهَيْنِ، فَقَدْ
+> جَعَلْتُما لِي عَلَيْكُمَا السَّبِيلَ بِإِظْهَارِكُمَا الطَّاعَةَ،
+> وَإِسْرَارِكُمَا الْمَعْصِيَةَ، وَلَعَمْرِي مَا كُنْتُما بِأَحَقِّ
+> الْمُهَاجِرِينَ بِالتَّقِيَّةِ وَالْكِتْمانِ، وَإِنَّ دَفْعَكُمَا هذَا
+> الاَْمْرَ مِنْ قَبْلِ أَنْ تَدْخُلاَ فِيهِ، كَانَ أَوْسَعَ عَلَيْكُمَا
+> مِنْ خُرُوجِكُمَا مِنْهُ، بَعْدَ إِقْرَارِكُمَا بِهِ.
 
 You have indicated that I killed \`Uthman; then let someone from among
 the people of Medina who supported neither me nor you decide the matter
@@ -66,15 +50,11 @@ two elderly men, when the great question before you is only one of
 shame, before you face the question of shame coupled with the Hell-fire;
 and that is an end to the matter.
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ زَعَمْتُما أَنِّي قَتَلْتُ عُثْمانَ، فَبَيْنِي وَبَيْنَكُمَا
-مَنْ تَخَلَّفَ عَنِّي وَعَنْكُمَا مِنْ أَهْلِ الْمَدِينَةِ، ثُمَّ
-يُلْزَمُ كُلُّ امْرِىء بَقَدْرِ مَا احْتَمَلَ. فَارْجِعَا أَيُّهَا
-الشَّيْخَانِ عَنْ رَأْيِكُمَا، فَإِنَّ الاْنَ أَعْظَمَ أَمْرِكُمَا
-الْعَارُ، مِنْ قَبْلِ أَنْ يَجْتَمِعَ الْعَارُ وَالنَّارُ،السَّلاَمُ.
-  </p>
-</blockquote>
+> وَقَدْ زَعَمْتُما أَنِّي قَتَلْتُ عُثْمانَ، فَبَيْنِي وَبَيْنَكُمَا
+> مَنْ تَخَلَّفَ عَنِّي وَعَنْكُمَا مِنْ أَهْلِ الْمَدِينَةِ، ثُمَّ
+> يُلْزَمُ كُلُّ امْرِىء بَقَدْرِ مَا احْتَمَلَ. فَارْجِعَا أَيُّهَا
+> الشَّيْخَانِ عَنْ رَأْيِكُمَا، فَإِنَّ الاْنَ أَعْظَمَ أَمْرِكُمَا
+> الْعَارُ، مِنْ قَبْلِ أَنْ يَجْتَمِعَ الْعَارُ وَالنَّارُ،السَّلاَمُ.
 
 [^1]: \`Imran ibn al-Husayn al-Khuza\`i was a high ranking companion
 distinguished in learning and achievements and very cautious in relating
@@ -111,5 +91,4 @@ allegiance, his point could be accepted to some extent. But when no one
 else has expressed his helplessness in the matter, why did this
 helplessness befall you so that you now regard your swearing of
 allegiance to be the result of your helplessness.
-
 

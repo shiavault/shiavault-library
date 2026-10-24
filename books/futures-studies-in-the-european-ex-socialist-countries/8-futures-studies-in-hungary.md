@@ -1091,4 +1091,3 @@ Intézet Jövőkutatási Kutatóközpont, Budapest, 2001(in Hungarian)
 Közgazdaságtudományi és Államigazgatási Egyetem Környezettudományi
 Intézet Jövőkutatási Kutatóközpont, Budapest, 2001(in Hungarian)
 
-

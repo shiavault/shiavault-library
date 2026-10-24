@@ -142,7 +142,6 @@ At first AL-SAFFAH claimed to be a supporter of AHLUL BAYT'S rights and
 pretended to seek revenge for the martyrs of the battle of KERBALA,
 hence he treated AL-SADIQ (AS) gently just for a short while.
 
-
 **THE RIGHT TO ONE FIFTH (KHUMS): A MAJOR CONTRIBUTOR TO
 INDEPENDENCE**
 
@@ -349,5 +348,4 @@ differentiate between what is good and what is bad. IMAM AL-SADIQ (AS)
 was the best to sort out the odds and separate the truth from falsehood.
 Up to our time, his teachings are still the bright torch leading to the
 right path.
-
 

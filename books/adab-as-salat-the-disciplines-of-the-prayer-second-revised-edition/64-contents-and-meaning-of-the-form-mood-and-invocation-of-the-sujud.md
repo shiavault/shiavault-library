@@ -86,4 +86,3 @@ not needed and it is to be completely effaced.” In the book's latest MS
 (manuscript) this part is omitted. But it appears in the former editions
 of this book. In this edition that passage is not printed.
 
-

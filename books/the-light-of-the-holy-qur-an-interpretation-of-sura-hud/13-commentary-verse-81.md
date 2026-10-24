@@ -57,7 +57,6 @@ they can, because the morning time was near. The verse says:
 "... Verily their appointed time is the morning: Is not the morning
 nigh '"?
 
-
 **Commentary : Verse 82.83**
 
 (82) فَلَمَّا جاءَ أَمْرُنا جَعَلْنا عالِيَها سافِلَها وَ أَمْطَرْنا
@@ -101,7 +100,6 @@ turned the region upside down, stones were thrown out from within the
 earth and fell upon their heads similar to volcanic eruptions and the
 subsequent explosions which occur.(2)
 
-
 **Explanations:**
 
 1. The punishment of those who go against human nature is the
@@ -126,5 +124,4 @@ says:
 (1) Sura Ash- Shu'ara, No. 26, verse 167
 
 (2) Al- Mizan, the Commentary
-
 

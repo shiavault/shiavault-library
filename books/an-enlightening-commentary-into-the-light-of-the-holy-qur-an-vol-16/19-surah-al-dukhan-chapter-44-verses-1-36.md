@@ -10,11 +10,7 @@ Surah al-Dukhan, Chapter 44, Verses 1 - 36
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -51,32 +47,16 @@ seventy thousand angels ask for his forgiveness.”*[^3]
 Surah al-Dukhan - Verses 1 – 3
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-وَالْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> وَالْكِتَابِ الْمُبِينِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ إِنَّا كُنَّا
-مُنْذِرِينَ
-  </p>
-</blockquote>
+> إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ إِنَّا كُنَّا
+> مُنْذِرِينَ
 
 ***1. HM***  
 ***2. By the manifest Book that makes things clear.***  
@@ -162,23 +142,11 @@ doers and sinners.
 Surah al-Dukhan - Verses 4 - 6
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ
-  </p>
-</blockquote>
+> فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-أَمْراً مِنْ عِنْدِنَا إِنَّا كُنَّا مُرْسِلِينَ
-  </p>
-</blockquote>
+> أَمْراً مِنْ عِنْدِنَا إِنَّا كُنَّا مُرْسِلِينَ
 
-<blockquote dir="rtl">
-  <p>
-رَحْمَةً مِنْ رَبِّكَ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> رَحْمَةً مِنْ رَبِّكَ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 ***4. Therein [the blessed night] is decreed [and explicated] every
 [momentous] matter of Ordainments [as per Divine Wisdom].***  
@@ -247,19 +215,11 @@ secrets of His servants’ hearts).”***
 Surah al-Dukhan - Verses 7 - 8
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِنْ كُنْتُمْ
-مُوقِنِينَ
-  </p>
-</blockquote>
+> رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِنْ كُنْتُمْ
+> مُوقِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-لا إِلَهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ رَبُّكُمْ وَرَبُّ آبَائِكُمُ
-الْأَوَّلِينَ
-  </p>
-</blockquote>
+> لا إِلَهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ رَبُّكُمْ وَرَبُّ آبَائِكُمُ
+> الْأَوَّلِينَ
 
 ***7. The Lord of the heavens and the earth and all that is between
 them, if you have a faith with certainty.***  
@@ -310,23 +270,11 @@ forefathers.”***
 Surah al-Dukhan - Verses 9 - 11
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ
-  </p>
-</blockquote>
+> بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ
-  </p>
-</blockquote>
+> فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-يَغْشَی النَّاسَ هَذَا عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> يَغْشَی النَّاسَ هَذَا عَذَابٌ أَلِيمٌ
 
 ***9. [Disbelievers do not believe in it.] Nay! They play about [with
 truths] in [unfathomable] doubt.***  
@@ -425,17 +373,9 @@ signs appearing before the Resurrection Day.
 Surah al-Dukhan - Verses 12 - 13
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ
-  </p>
-</blockquote>
+> رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَنَّی لَهُمُ الذِّكْرَی وَقَدْ جَاءَهُمْ رَسُولٌ مُبِينٌ
-  </p>
-</blockquote>
+> أَنَّی لَهُمُ الذِّكْرَی وَقَدْ جَاءَهُمْ رَسُولٌ مُبِينٌ
 
 ***12. [People will say]: “Our Lord! Remove the torment from us, really
 we shall believe!”***  
@@ -459,23 +399,11 @@ from him and lost the opportunity to act and save themselves.
 Surah al-Dukhan - Verses 14 - 16
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَجْنُونٌ
-  </p>
-</blockquote>
+> ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَجْنُونٌ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَاشِفُو الْعَذَابِ قَلِيلاً إِنَّكُمْ عَائِدُونَ
-  </p>
-</blockquote>
+> إِنَّا كَاشِفُو الْعَذَابِ قَلِيلاً إِنَّكُمْ عَائِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَى إِنَّا مُنْتَقِمُونَ
-  </p>
-</blockquote>
+> يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَى إِنَّا مُنْتَقِمُونَ
 
 ***14. Then they had turned away from him and said: “[He is] one taught
 [by someone], a man possessed!”***  
@@ -540,24 +468,12 @@ revenge which is accompanied by anger and hatred.
 Surah al-Dukhan - Verses 17 - 19
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاءَهُمْ رَسُولٌ
-كَرِيمٌ
-  </p>
-</blockquote>
+> وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاءَهُمْ رَسُولٌ
+> كَرِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-أَنْ أَدُّوا إِلَيَّ عِبَادَ اللَّهِ إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
-  </p>
-</blockquote>
+> أَنْ أَدُّوا إِلَيَّ عِبَادَ اللَّهِ إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ لا تَعْلُوا عَلَى اللَّهِ إِنِّي آتِيكُمْ بِسُلْطَانٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَأَنْ لا تَعْلُوا عَلَى اللَّهِ إِنِّي آتِيكُمْ بِسُلْطَانٍ مُبِينٍ
 
 ***17. And verily We tried before them Pharaoh’s people when there came
 to them a noble Messenger.***  
@@ -661,23 +577,11 @@ God’s Messengers to claims to divinity, divine sovereignty and the like.
 Surah al-Dukhan - Verses 20 - 22
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ
-  </p>
-</blockquote>
+> وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ
-  </p>
-</blockquote>
+> وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ
 
-<blockquote dir="rtl">
-  <p>
-فَدَعَا رَبَّهُ أَنَّ هَؤُلاءِ قَوْمٌ مُجْرِمُونَ
-  </p>
-</blockquote>
+> فَدَعَا رَبَّهُ أَنَّ هَؤُلاءِ قَوْمٌ مُجْرِمُونَ
 
 ***20. “And truly I seek refuge with my Lord and your Lord lest you
 should accuse [or stone] me.***  
@@ -734,17 +638,9 @@ such that even his primordial nature (fitra) may not save him.
 Surah al-Dukhan - Verses 23 - 24
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَسْرِ بِعِبَادِي لَيْلاً إِنَّكُمْ مُتَّبَعُونَ
-  </p>
-</blockquote>
+> فَأَسْرِ بِعِبَادِي لَيْلاً إِنَّكُمْ مُتَّبَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَاتْرُكِ الْبَحْرَ رَهْواً إِنَّهُمْ جُنْدٌ مُغْرَقُونَ
-  </p>
-</blockquote>
+> وَاتْرُكِ الْبَحْرَ رَهْواً إِنَّهُمْ جُنْدٌ مُغْرَقُونَ
 
 ***23. [We said unto him:] “Depart you with My servants by
 night***[^12]***. Surely you will be pursued [the people of
@@ -783,29 +679,13 @@ the Call to take vengeance upon His enemies and cause their destruction.
 Surah al-Dukhan - Verses 25 - 28
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
-  </p>
-</blockquote>
+> وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
-  </p>
-</blockquote>
+> وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ وَأَوْرَثْنَاهَا قَوْماً آخَرِينَ
-  </p>
-</blockquote>
+> كَذَلِكَ وَأَوْرَثْنَاهَا قَوْماً آخَرِينَ
 
 ***25. How many of gardens and springs that they left behind.***  
 ***26. And green crops and excellent places.***  
@@ -847,12 +727,8 @@ Bounties in the Hereafter will be infinite.
 Surah al-Dukhan - Verse 29
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا
-مُنْظَرِينَ
-  </p>
-</blockquote>
+> فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا
+> مُنْظَرِينَ
 
 ***29. And the heavens and the earth wept not for them, nor were they
 given a respite.***
@@ -909,17 +785,9 @@ He replied:
 Surah al-Dukhan - Verses 30 - 31
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَجَّيْنَا بَنِي إِسْرائيلَ مِنَ الْعَذَابِ الْمُهِينِ
-  </p>
-</blockquote>
+> وَلَقَدْ نَجَّيْنَا بَنِي إِسْرائيلَ مِنَ الْعَذَابِ الْمُهِينِ
 
-<blockquote dir="rtl">
-  <p>
-مِنْ فِرْعَوْنَ إِنَّهُ كَانَ عَالِياً مِنَ الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> مِنْ فِرْعَوْنَ إِنَّهُ كَانَ عَالِياً مِنَ الْمُسْرِفِينَ
 
 ***30. And verily We saved the Children of Israel from the humiliating
 torment:***  
@@ -956,17 +824,9 @@ limits, does not obey God, and does wrong to his inferiors.
 Surah al-Dukhan - Verses 32 - 33
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدِ اخْتَرْنَاهُمْ عَلَی عِلْمٍ عَلَی الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَلَقَدِ اخْتَرْنَاهُمْ عَلَی عِلْمٍ عَلَی الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَآتَيْنَاهُمْ مِنَ الْآياتِ مَا فِيهِ بَلاءٌ مُبِينٌ
-  </p>
-</blockquote>
+> وَآتَيْنَاهُمْ مِنَ الْآياتِ مَا فِيهِ بَلاءٌ مُبِينٌ
 
 ***32. And We chose them [the Children of Israel] above mankind and jinn
 [during the time of Moses (as)] because of knowledge.***  
@@ -1000,23 +860,11 @@ indeed My chastisement is severe”***[^16]***.***
 Surah al-Dukhan - Verses 34 - 36
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَؤُلاءِ لَيَقُولُونَ
-  </p>
-</blockquote>
+> إِنَّ هَؤُلاءِ لَيَقُولُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هِيَ إِلَّا مَوْتَتُنَا الْأُولَی وَمَا نَحْنُ بِمُنْشَرِينَ
-  </p>
-</blockquote>
+> إِنْ هِيَ إِلَّا مَوْتَتُنَا الْأُولَی وَمَا نَحْنُ بِمُنْشَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَأْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> فَأْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ
 
 ***34. Indeed these [polytheists] are [always] saying:***  
 ***35. “There is nothing but our first death and we will not be
@@ -1100,5 +948,4 @@ night.
 [^15]: Ibid.
 
 [^16]: 14:7
-
 

@@ -3,12 +3,8 @@ Lesson One Hundred Twenty Six: Non Conformity Of Belief With Action
 
 Imam ‘Ali Ibn Husayn (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلا وَ إِنَّ أَبْغَضُ النّاسِ اِلَى اللّهِ مَنْ يَقْتَدىِ بِسُنَّةِ
-اِمام وَ لايَقْتَدىِ بِاَعْمالِهِ
-  </p>
-</blockquote>
+> اَلا وَ إِنَّ أَبْغَضُ النّاسِ اِلَى اللّهِ مَنْ يَقْتَدىِ بِسُنَّةِ
+> اِمام وَ لايَقْتَدىِ بِاَعْمالِهِ
 
 Translation
 -----------
@@ -34,5 +30,4 @@ does not demonstrate any similarity with them by his actions. In short,
 his belief points in one direction, and his action in another.
 
 [^1]: Tuhaful Uqul, page 202
-
 

@@ -206,4 +206,3 @@ Johns Hopkins University Press, 1989) p. 56.
 [^9]: Khalil Gibran, Thoughts and Meditations (New York: Bantam Books,
 1960) p. 28.
 
-

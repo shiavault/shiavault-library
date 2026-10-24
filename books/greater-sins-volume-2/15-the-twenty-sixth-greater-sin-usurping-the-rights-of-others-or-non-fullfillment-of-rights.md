@@ -764,4 +764,3 @@ maximum amount paid as charity after the permission of the Qazi.
 
 [^25]: Mustadrak
 
-

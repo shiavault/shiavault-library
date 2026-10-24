@@ -869,4 +869,3 @@ messenger of Allah)
 [^27]: Al-Muhammara is the Arabic name of Khorramshahr; the famous city
 and port on the Shatt al-Arab southern Iran
 
-

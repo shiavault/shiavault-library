@@ -131,4 +131,3 @@ that the people endowed with conviction are aware of them.
 Anyway, this hadith can be explained, though it requires a lengthy
 explanation.
 
-

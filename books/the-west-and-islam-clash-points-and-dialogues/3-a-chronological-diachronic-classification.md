@@ -253,4 +253,3 @@ critique of modernity, which is nihilistic and pessimistic, the Islamic
 critique is optimistic by virtue of the fact that it proposes a project
 for reform.
 
-

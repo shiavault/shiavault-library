@@ -6,4 +6,3 @@ along with Saeed Ibn Abdullah Alhanafi. When Ibn Ziyad learned why Hani
 was in Kufa, he ordered his people to cut off his head and drag his body
 throughout the streets of Kufa.
 
-

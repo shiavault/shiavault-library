@@ -454,4 +454,3 @@ being in His kingdom which He does not will." (This is an allusion to
 the two schools of predestination and free will.) (Bihar al-anwar, vol.
 III, pp. 5, 6, 15)
 
-

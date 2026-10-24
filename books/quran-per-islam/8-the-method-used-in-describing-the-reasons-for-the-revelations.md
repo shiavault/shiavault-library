@@ -194,4 +194,3 @@ content of chapters "Man," "The Coursers," and the "Defrauders" testify
 to their being Medinan, although some of these traditions only establish
 them as Meccan.
 
-

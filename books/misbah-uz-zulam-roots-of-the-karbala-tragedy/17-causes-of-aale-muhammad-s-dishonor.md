@@ -242,4 +242,3 @@ Progeny.
 
 [^2]: Ref. Tarikh Khamis
 
-

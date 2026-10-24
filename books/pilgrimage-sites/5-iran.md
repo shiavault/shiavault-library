@@ -133,4 +133,3 @@ Tomb of Abu Loolu
 **Related Article on the Web:**  
  History of the Mausoleum in Mashad
 
-

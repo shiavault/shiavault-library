@@ -178,4 +178,3 @@ and their interdependence on one another.
 [^1]: Jurdāq, G., al-Imām ‘Ali: sawtu 'l-\`adālati 'l-insāniyyah, vol. 5
 (Beirut) p. 14.
 
-

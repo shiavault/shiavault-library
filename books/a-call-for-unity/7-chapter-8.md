@@ -245,7 +245,6 @@ different religions by our united efforts and actions. Let us tell
 people about the love of God in order to spread love, acceptance, and
 compassion.
 
-
 **Conclusion**
 
 The true friend, helper, guardian, and protector of believers is God.
@@ -321,5 +320,4 @@ believers will receive an eternal reward: By the Late Afternoon, truly
 man is in loss - except for those who believe and do right actions and
 urge each other to the truth and urge each other to steadfastness.
 (Qur'an, 103:1-3)
-
 

@@ -44,12 +44,8 @@ the Exalted, and/or a deed which is done for people has been presented
 as a work done for Allah. For example, giving a loan to the needy has
 been likened to giving a loan to Allah:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-وَلَهُ أَجْرٌ كَرِيمٌ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> وَلَهُ أَجْرٌ كَرِيمٌ
 
 ***“Who is it that will lend Allah a good loan, that He may multiply it
 for him and [that] there may be a noble reward for him?”***[^1]
@@ -96,12 +92,8 @@ every person to the extent of their intellect and understanding. In
 order for the community to become aware of the truth, he used to provide
 logical proof and reason:
 
-<blockquote dir="rtl">
-  <p>
-... لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَى مَنْ حَيَّ عَنْ
-بَيِّنَةٍ...
-  </p>
-</blockquote>
+> ... لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَى مَنْ حَيَّ عَنْ
+> بَيِّنَةٍ...
 
 ***“So that he who perishes might perish by a manifest proof, and he who
 lives may live on by a manifest proof…”***[^2]
@@ -161,11 +153,7 @@ The Relationship between Obedience to Allah and Obedience to the Prophet (S) and
 One of the verses which introduces the high station of the Noble Prophet
 (S) is:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِع الرَّسُولَ فَقَدْ أَطَاعَ اللّهَ...
-  </p>
-</blockquote>
+> مَنْ يُطِع الرَّسُولَ فَقَدْ أَطَاعَ اللّهَ...
 
 ***“Whoever obeys the Apostle certainly has obeyed Allah…”***[^6]
 
@@ -187,12 +175,8 @@ and it is because of their station and status that Allah, the Exalted,
 has allotted them the title ‘*those vested with authority*’
 [*uli’l-amr*]:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا الرَّسُولَ
-وَأُوْلِي الأَمْرِ مِنْكُمْ...
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا الرَّسُولَ
+> وَأُوْلِي الأَمْرِ مِنْكُمْ...
 
 ***“O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you…”***[^7]
@@ -285,11 +269,7 @@ the Pure and Infallible *Ahl al-Bayt* (*‘a*) has been introduced as
 remembering and invoking Allah. Allah, the Exalted, states in the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْكُرُونِي أَذْكُرْكُمْ ...
-  </p>
-</blockquote>
+> فَاذْكُرُونِي أَذْكُرْكُمْ ...
 
 ***“Remember Me, and I will remember you.”***[^10]
 
@@ -412,11 +392,7 @@ face and white beard, especially when the effects of prostration are
 also apparent on his forehead, are all indicative of a lifetime of
 devotion and servitude to Allah:
 
-<blockquote dir="rtl">
-  <p>
-... سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ...
-  </p>
-</blockquote>
+> ... سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ...
 
 ***“…Their marks are [visible] on their faces because of the effect of
 prostration…”***[^15]
@@ -798,14 +774,10 @@ With regard to what has previously been mentioned, when we read the
 Qur’an we notice that it rejects invalid guardianship, that is to say
 authority which has not been approved by Allah:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَتَّخِذُوا الْيَهُودَ
-وَالنَّصَارَى أَوْلِيَاءَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ وَمَنْ
-يَتَوَلَّهُمْ مِنكُمْ فَإِنَّهُ مِنْهُمْ إِنَّ اللّهَ لاَ يَهْدِي
-الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَتَّخِذُوا الْيَهُودَ
+> وَالنَّصَارَى أَوْلِيَاءَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ وَمَنْ
+> يَتَوَلَّهُمْ مِنكُمْ فَإِنَّهُ مِنْهُمْ إِنَّ اللّهَ لاَ يَهْدِي
+> الْقَوْمَ الظَّالِمِينَ
 
 ***“O you who have faith! Do not take the Jews and Christians for
 allies: they are allies for each other. Any of you who allies with them
@@ -821,12 +793,8 @@ and goals.)
 
 In another verse, the just ruler is thus introduced:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***“Your Guardian is only Allah, His Apostle and the faithful who
 maintain the prayer and give zakat***[^25] ***while bowing
@@ -1078,5 +1046,4 @@ on the purposes specified in Surat al-Tawbah (or, Bara’ah) 9:60. [ed.]
 al-Islam.
 
 [^31]: Nahj al-Balaghah, p. 173, sermon [khutbah] 183, trans. Shahidi.
-
 

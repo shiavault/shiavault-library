@@ -8,11 +8,7 @@ Surah Mursalat, Chapter 77
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -86,103 +82,39 @@ Obviously, reading without thinking and acting cannot be very fruitful.
 Surah Mursalat, Verses 1-15
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُرْسَلَاتِ عُرْفًا
-  </p>
-</blockquote>
+> وَالْمُرْسَلَاتِ عُرْفًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْعَاصِفَاتِ عَصْفًا
-  </p>
-</blockquote>
+> فَالْعَاصِفَاتِ عَصْفًا
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّاشِرَاتِ نَشْرًا
-  </p>
-</blockquote>
+> وَالنَّاشِرَاتِ نَشْرًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْفَارِقَاتِ فَرْقًا
-  </p>
-</blockquote>
+> فَالْفَارِقَاتِ فَرْقًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُلْقِيَاتِ ذِكْرًا
-  </p>
-</blockquote>
+> فَالْمُلْقِيَاتِ ذِكْرًا
 
-<blockquote dir="rtl">
-  <p>
-عُذْرًا أَوْ نُذْرًا
-  </p>
-</blockquote>
+> عُذْرًا أَوْ نُذْرًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا تُوعَدُونَ لَوَاقِعٌ
-  </p>
-</blockquote>
+> إِنَّمَا تُوعَدُونَ لَوَاقِعٌ
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا النُّجُومُ طُمِسَتْ
-  </p>
-</blockquote>
+> فَإِذَا النُّجُومُ طُمِسَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا السَّمَاءُ فُرِجَتْ
-  </p>
-</blockquote>
+> وَإِذَا السَّمَاءُ فُرِجَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْجِبَالُ نُسِفَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْجِبَالُ نُسِفَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الرُّسُلُ أُقِّتَتْ
-  </p>
-</blockquote>
+> وَإِذَا الرُّسُلُ أُقِّتَتْ
 
-<blockquote dir="rtl">
-  <p>
-لِأَيِّ يَوْمٍ أُجِّلَتْ
-  </p>
-</blockquote>
+> لِأَيِّ يَوْمٍ أُجِّلَتْ
 
-<blockquote dir="rtl">
-  <p>
-لِيَوْمِ الْفَصْلِ
-  </p>
-</blockquote>
+> لِيَوْمِ الْفَصْلِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
 ***1. “By those (Angels)(winds) sent forth one after another,”***  
 ***2. “And those who move as a hurricane;”***  
@@ -474,84 +406,32 @@ is indeed true.
 Surah Mursalat, Verses 16-28
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نُهْلِكِ الْأَوَّلِينَ
-  </p>
-</blockquote>
+> أَلَمْ نُهْلِكِ الْأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
-  </p>
-</blockquote>
+> ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
-  </p>
-</blockquote>
+> كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ
-  </p>
-</blockquote>
+> أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ
-  </p>
-</blockquote>
+> فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلَىٰ قَدَرٍ مَعْلُومٍ
-  </p>
-</blockquote>
+> إِلَىٰ قَدَرٍ مَعْلُومٍ
 
-<blockquote dir="rtl">
-  <p>
-فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ
-  </p>
-</blockquote>
+> فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا
-  </p>
-</blockquote>
+> أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا
 
-<blockquote dir="rtl">
-  <p>
-أَحْيَاءً وَأَمْوَاتًا
-  </p>
-</blockquote>
+> أَحْيَاءً وَأَمْوَاتًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً
-فُرَاتًا
-  </p>
-</blockquote>
+> وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً
+> فُرَاتًا
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
 ***16. “Did We not destroy the men of old?”***  
 ***17. “Then shall We make following (generations) follow them.”***  
@@ -803,77 +683,29 @@ Resurrection, His Justice and His Wisdom.
 Surah Mursalat, Verses 29-40
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ
-  </p>
-</blockquote>
+> انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ
 
-<blockquote dir="rtl">
-  <p>
-انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ
-  </p>
-</blockquote>
+> انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ
 
-<blockquote dir="rtl">
-  <p>
-لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ
-  </p>
-</blockquote>
+> لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ
-  </p>
-</blockquote>
+> إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّهُ جِمَالَتٌ صُفْرٌ
-  </p>
-</blockquote>
+> كَأَنَّهُ جِمَالَتٌ صُفْرٌ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا يَوْمُ لَا يَنْطِقُونَ
-  </p>
-</blockquote>
+> هَٰذَا يَوْمُ لَا يَنْطِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
-  </p>
-</blockquote>
+> وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ
-  </p>
-</blockquote>
+> هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
-  </p>
-</blockquote>
+> فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
 ***29. “(On that Day it will be said unto them:) Depart you to that
 which you used to deny.”***  
@@ -1127,65 +959,25 @@ Again, the warning and enlightening verse is repeated:
 Surah Mursalat, Verses 41-50
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-وَفَوَاكِهَ مِمَّا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَفَوَاكِهَ مِمَّا يَشْتَهُونَ
 
-<blockquote dir="rtl">
-  <p>
-كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ
-  </p>
-</blockquote>
+> كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
 
 ***41. “The righteous are amidst shades and fountains (of Heaven),”***  
 ***42. “And fruits such as they desire”.***  
@@ -1420,5 +1212,4 @@ used as a subjective noun.
 [^6]: Tafsir‑i‑Borhan, vol. 4, p. 417.
 
 [^7]: Nur uth‑Thaqalayn, vol. 5, p. 49.
-
 

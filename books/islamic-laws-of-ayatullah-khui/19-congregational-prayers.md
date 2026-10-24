@@ -564,4 +564,3 @@ and night prayers in shortened form (two units), to follow in the
 prayers a person, who is not a traveller. And it is abominable for a
 person who is not a traveller to follow a traveller in these prayers.
 
-

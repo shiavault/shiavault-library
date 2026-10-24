@@ -40,4 +40,3 @@ people.
 The people believed Ubaidullah bin Ziyad's rumour. They left al-Husayn's
 envoy alone. Muslim bin Aqeel was forced to disappear again.
 
-

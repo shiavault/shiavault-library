@@ -32,4 +32,3 @@ when it is in front of the eyes. When the luminous object is in front of
 the eye and there is no barrier between them, the soul will embrace it
 and see it by illumination (2/99, 34 and 1/486).
 
-

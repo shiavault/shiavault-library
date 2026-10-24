@@ -99,4 +99,3 @@ Husain gathered Qasim's body, the limbs crushed, torn
 
 Marked with hooves the body of the thirteen year old
 
-

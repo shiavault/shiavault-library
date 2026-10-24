@@ -70,4 +70,3 @@ descriptions, it is said that after this destruction the ground appeared
 as if a flat sheet made up of the thousands of men of the enemy army and
 their elephants had been laid down on it.
 
-

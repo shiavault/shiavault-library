@@ -20,10 +20,8 @@ Therefore, if the method of research and thinking is not an Islamic one
 or does not, at least, go along with its tendency, the effects will be
 too wrong to unite with the Islamic spirit.
 
-
 The research methods of science and knowledge are in two parts due to
 their nature:
-
 
 1. All General Methods (logical ones):
 
@@ -282,7 +280,6 @@ generalization and analogy. In this way, we can form the skeletal
 structure and rules of the theory of Islamic sociology on the basis of
 Islamic views and concepts.
 
-
 **The Employment of Inductive Methods in Islamic Jurisprudence:**
 
 Scientific induction and analogy methods have a great deal of active
@@ -306,5 +303,4 @@ and law to pursue many states and particular facts, then, he will shift
 to the analogy stage soon after he has realized the general rule.
 Therefore, analogy means \`the applying of the general rule to all its
 evidence'.
-
 

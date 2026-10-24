@@ -8,13 +8,9 @@ do not let the reproach of any reproacher have any influence on you in
 the path of God. Plunge into hardships for the sake of truth, wherever
 it may be.**
 
-<blockquote dir="rtl">
-  <p>
-"و أمر بالمعروف تكن من اهله وانكر المنكر بيدك ولسانك وباين من فعله
-بجهدك وجاهد في الله حق جهاده ولا تأخذك في الله لومة لائم وخض الغمرات
-بالحق حيث كان"
-  </p>
-</blockquote>
+> "و أمر بالمعروف تكن من اهله وانكر المنكر بيدك ولسانك وباين من فعله
+> بجهدك وجاهد في الله حق جهاده ولا تأخذك في الله لومة لائم وخض الغمرات
+> بالحق حيث كان"
 
 In this paragraph, Imam ‘Ali (as) emphasizes several issues:
 
@@ -31,15 +27,11 @@ but it suffices when performed by some of them. This principle makes the
 foundation of all Divine commandments strong. Imam Baqir (as) says in
 this connection:
 
-<blockquote dir="rtl">
-  <p>
-"اِِنَّ الاَمرَ بِالمَعرُوفِ وَالنَهيَ عَنِ المُنكَرِ سَبِيلُ
-الأنبِياءِ وَمِنهَاجُ العُلمَاءِ فَرِيضَةٌ عَظِيمَةٌ بِها تُقَامُ
-الفَرائِضُ وَتَأمَنُ المَذَاهِبُ وَتَحِلُّ المَكاسِبُ وَتُرَدُ
-المَظَالِمُ وَتُعمَرُ الاَرْضُ ويُنتَصَفُ مِنَ الاَعْدَاءِ
-وَيَستَقِيمُ الأَمْرُ"
-  </p>
-</blockquote>
+> "اِِنَّ الاَمرَ بِالمَعرُوفِ وَالنَهيَ عَنِ المُنكَرِ سَبِيلُ
+> الأنبِياءِ وَمِنهَاجُ العُلمَاءِ فَرِيضَةٌ عَظِيمَةٌ بِها تُقَامُ
+> الفَرائِضُ وَتَأمَنُ المَذَاهِبُ وَتَحِلُّ المَكاسِبُ وَتُرَدُ
+> المَظَالِمُ وَتُعمَرُ الاَرْضُ ويُنتَصَفُ مِنَ الاَعْدَاءِ
+> وَيَستَقِيمُ الأَمْرُ"
 
 *"The principle of enjoining the good and forbidding the evil is the way
 of the Prophets and path of the scholars. It is a tremendous obligation
@@ -55,14 +47,10 @@ also their destruction and their annihilation are due to the fact that
 this principle is not carried out properly in those nations.[^2] Imam
 ‘Ali (as), regarding this, in a sermon emphasizes that:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّمَا هَلَكَ مَن كَانَ قَبلَكُم حَيثُ مَا عَمِلُوا مِنَ المَعاصِي
-وَلَم يَنهَهُم الرَبَّانِيُونَ وَالاحبَارُ عَن ذَلِكَ وَاِنَّهُم
-لَمَّا تَمَادَوا في المَعاصِي وَلَم يَنهَهُم الرَبَّانِيُونَ
-وَالاَحبَارُ عَن ذَلِكَ نَزَلَت بِهِم العُقُوبَات"
-  </p>
-</blockquote>
+> "اِنَّمَا هَلَكَ مَن كَانَ قَبلَكُم حَيثُ مَا عَمِلُوا مِنَ المَعاصِي
+> وَلَم يَنهَهُم الرَبَّانِيُونَ وَالاحبَارُ عَن ذَلِكَ وَاِنَّهُم
+> لَمَّا تَمَادَوا في المَعاصِي وَلَم يَنهَهُم الرَبَّانِيُونَ
+> وَالاَحبَارُ عَن ذَلِكَ نَزَلَت بِهِم العُقُوبَات"
 
 *"The nations before you were only destroyed because of the sins they
 committed, and the priests and rabbis did not stop them from that. When
@@ -74,12 +62,8 @@ Divine commandments and erases the vestiges of wrong belief, injustice
 and corruption, Islam considers the abandonment of this principle as war
 against God.[^4] Imam ‘Ali (as), in his last will, considers this issue:
 
-<blockquote dir="rtl">
-  <p>
-"لا تَتْرُكُوا الأَمرَ بِالمَعرُوفِ وَالنَهيَ عَنِ المُنكَرِ فَيُولّى
-عَلَيكُم اَشْرارُكُم ثُمَّ تَدعُونَ فَلا يُستَجَابُ لَكُم"
-  </p>
-</blockquote>
+> "لا تَتْرُكُوا الأَمرَ بِالمَعرُوفِ وَالنَهيَ عَنِ المُنكَرِ فَيُولّى
+> عَلَيكُم اَشْرارُكُم ثُمَّ تَدعُونَ فَلا يُستَجَابُ لَكُم"
 
 *"Do not abandon the principle of enjoining the good and forbidding the
 evil, or else the the evil among you will have authority over you. Then
@@ -102,12 +86,8 @@ and forbidding the evil; these may use punishments if felt necessary.
 Regarding these, let us observe the following traditions:
 Imam ‘Ali (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّمَا يَجمَعُ النّاسُ الرِّضا وَالسَخَطَ، فَمَن رَضِيَ اَمراً
-فَقَد دَخَلَ فِيهِ وَمَن سَخِطَهُ فَقَد خَرَجَ مِنهُ"
-  </p>
-</blockquote>
+> "اِنَّمَا يَجمَعُ النّاسُ الرِّضا وَالسَخَطَ، فَمَن رَضِيَ اَمراً
+> فَقَد دَخَلَ فِيهِ وَمَن سَخِطَهُ فَقَد خَرَجَ مِنهُ"
 
 *"Only two things gather people together: pleasure and anger. Therefore,
 one who is pleased with a matter has entered into it; and one who is
@@ -115,12 +95,8 @@ displeased with it has left it."*[^6]
 
 Imam ‘Ali (as) has also stated:
 
-<blockquote dir="rtl">
-  <p>
-"الرَّاضِي بِفِعلِ قَومٍ كَالدّاخِلِ مَعَهُم فِيهِ وَعلى كُلِّ دَاخِلٍ
-في بَاطِلٍ إِثمَانِ: إِثمُ العَمَلِ بِهِ وَاِثْمُ الرِّضَا بِهِ"
-  </p>
-</blockquote>
+> "الرَّاضِي بِفِعلِ قَومٍ كَالدّاخِلِ مَعَهُم فِيهِ وَعلى كُلِّ دَاخِلٍ
+> في بَاطِلٍ إِثمَانِ: إِثمُ العَمَلِ بِهِ وَاِثْمُ الرِّضَا بِهِ"
 
 *"One who is satisfied with the actions of a people is like one who has
 participated with them in it. Every one who participates in wrong-doing
@@ -129,12 +105,8 @@ it."*[^7]
 
 Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-"العَامِلُ بِالظُّلمِ وَالرَّاضِي بِهِ وَالمُعِينُ عَلَيهِ شُرَكَاءُ
-ثَلاثَةٌ"
-  </p>
-</blockquote>
+> "العَامِلُ بِالظُّلمِ وَالرَّاضِي بِهِ وَالمُعِينُ عَلَيهِ شُرَكَاءُ
+> ثَلاثَةٌ"
 
 *"The one who does injustice, the one who is content with the injustice,
 and the one who helps carry out the injustice are three partners in the
@@ -143,12 +115,8 @@ act."*[^8]
 Imam Baqir (as), concerning the principle of enjoining the good and
 forbidding the evil, in a tradition, has said,
 
-<blockquote dir="rtl">
-  <p>
-"فَانْكِِرُوا بِقُلُوبِكُم وَالفَظُوا بِالسِنَتِكُم وَصُكُّوا بِهَا
-جِبَاهَهُم وَلا تَخَافُوا في الله لَومَةَ لائِمٍ"
-  </p>
-</blockquote>
+> "فَانْكِِرُوا بِقُلُوبِكُم وَالفَظُوا بِالسِنَتِكُم وَصُكُّوا بِهَا
+> جِبَاهَهُم وَلا تَخَافُوا في الله لَومَةَ لائِمٍ"
 
 *"Then deny it with your hearts, and reject it with your tongues and
 slap it on their foreheads and do not fear, in the way of God, the
@@ -157,16 +125,12 @@ reproach of any reproacher."*[^9]
 Ibn Jarir narrates in his history book from Abd al-Rahman b. Abi Layla,
 that when Imam ‘Ali (as) was facing Mu'awiya's army he said:
 
-<blockquote dir="rtl">
-  <p>
-"ايُّها المُؤمِنُونَ اِنَّه مَن رَأى عُدوَاناً يُعمَلُ بِهِ وَمُنكَراً
-يُدعَى اِلَيهِ فَانْكَرهُ بِقَلبِهِ فَقَد سَلِِمَ وَبَرِئ وَمَن
-اَنْكَرَهُ بِلِسَانِهِ فَقَد اُجِِرَ وَهُو اَفضَلُ مِن صَاحِبِه، وَمَن
-اَنْكَرَهُ بِالسَّيفِ لِتَكُونَ كَلِمَةُ الله العُليا وَكَلِمَةُ
-الظَّالِمِينَ السُّفلَى فَذَلِكَ الَّذِي اَصَابَ سَبِيلَ الهُدَى
-وَقَامَ على الطَّرِيقِ وَنوَّرَ في قَلبَهُ اليَقِينُ"
-  </p>
-</blockquote>
+> "ايُّها المُؤمِنُونَ اِنَّه مَن رَأى عُدوَاناً يُعمَلُ بِهِ وَمُنكَراً
+> يُدعَى اِلَيهِ فَانْكَرهُ بِقَلبِهِ فَقَد سَلِِمَ وَبَرِئ وَمَن
+> اَنْكَرَهُ بِلِسَانِهِ فَقَد اُجِِرَ وَهُو اَفضَلُ مِن صَاحِبِه، وَمَن
+> اَنْكَرَهُ بِالسَّيفِ لِتَكُونَ كَلِمَةُ الله العُليا وَكَلِمَةُ
+> الظَّالِمِينَ السُّفلَى فَذَلِكَ الَّذِي اَصَابَ سَبِيلَ الهُدَى
+> وَقَامَ على الطَّرِيقِ وَنوَّرَ في قَلبَهُ اليَقِينُ"
 
 *"O believers! Whoever sees an act of aggression taking place or an evil
 act being called to, and rejects it with his heart, he is secure and
@@ -184,18 +148,14 @@ the principle. If he is not capable, he may use his tongue and heart. In
 the third case, a person should announce his lack of consent through his
 heart, at least. Imam ‘Ali (as), regarding this, has said:
 
-<blockquote dir="rtl">
-  <p>
-"فَمِهُم المُنْكِر بِقَلبِهِ وَلِسَانِهِ وَيَدِهِ فَذلِكَ
-المُستَكْمِلُ لِخِصَالِ الخَيرِ وَمِنهُمُ المُنْكِرُ بِلِسَانِهِ
-وَقَلبِهِ التَارِكُ بِيَدِهِ فَذَلِكَ مُستَمسِكٌ بِخِصلَتَينِ مِن
-خِصَالِ الخَيرِ وَمُضَيِّعٌ خِصْلَةً وَمِنهُم المُنْكِرُ بِقَلبِهِ
-وَالتَارِكُ بِيَدِهِ وَلِسَانِهِ فَذَلِكَ الَّذي ضَيَّعَ أشْرِفَ
-الخِصْلَتَينِ مِنَ الثَلاثِ وَتَمَسَّكَ بِوَاحِدَةٍ وَمِنهُم تَارِكٌ
-لاِنْكارِ المُنْكَرِ بِلِسَانِهِ وَقَلبِهِ وَيَدِهِ فَذلِكَ مَيِّتُ
-الاَحيَاءِ"
-  </p>
-</blockquote>
+> "فَمِهُم المُنْكِر بِقَلبِهِ وَلِسَانِهِ وَيَدِهِ فَذلِكَ
+> المُستَكْمِلُ لِخِصَالِ الخَيرِ وَمِنهُمُ المُنْكِرُ بِلِسَانِهِ
+> وَقَلبِهِ التَارِكُ بِيَدِهِ فَذَلِكَ مُستَمسِكٌ بِخِصلَتَينِ مِن
+> خِصَالِ الخَيرِ وَمُضَيِّعٌ خِصْلَةً وَمِنهُم المُنْكِرُ بِقَلبِهِ
+> وَالتَارِكُ بِيَدِهِ وَلِسَانِهِ فَذَلِكَ الَّذي ضَيَّعَ أشْرِفَ
+> الخِصْلَتَينِ مِنَ الثَلاثِ وَتَمَسَّكَ بِوَاحِدَةٍ وَمِنهُم تَارِكٌ
+> لاِنْكارِ المُنْكَرِ بِلِسَانِهِ وَقَلبِهِ وَيَدِهِ فَذلِكَ مَيِّتُ
+> الاَحيَاءِ"
 
 *“Among them is one who rejects the evil action with his tongue, his
 hand and his heart. Such a person has perfected (the attainment of) good
@@ -209,12 +169,8 @@ with his hand. Such a person is a dead person among the living”.*[^11]
 
 Regarding this issue, the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن رَأى مِنْكُم مُنكَراً فَليُغيِّرهُ بِيَدِهِ فَاِنْ لَم يَستَطِع
-فَبِلِسَانِهِ فَاِنْ لَم يَستَطِع فَبِقَلبِهِ"
-  </p>
-</blockquote>
+> "مَن رَأى مِنْكُم مُنكَراً فَليُغيِّرهُ بِيَدِهِ فَاِنْ لَم يَستَطِع
+> فَبِلِسَانِهِ فَاِنْ لَم يَستَطِع فَبِقَلبِهِ"
 
 *"Whosoever of you sees an evil act being committed, let him alter it
 (rectify) it with his hand, and if he is unable (to do so), then with
@@ -222,12 +178,8 @@ his tongue; and if he is unable (to do that) then with his heart”.*[^12]
 
 Imam ‘Ali (as) has said, regarding this:
 
-<blockquote dir="rtl">
-  <p>
-"اَمَرَنا رَسُولُ الله صَلَّى الله عَلَيهِ وَآلِهِ اَن نَلقَى اَهلَ
-المَعاصِي بِوجُوهٍ مُكفَهِّرَة"
-  </p>
-</blockquote>
+> "اَمَرَنا رَسُولُ الله صَلَّى الله عَلَيهِ وَآلِهِ اَن نَلقَى اَهلَ
+> المَعاصِي بِوجُوهٍ مُكفَهِّرَة"
 
 *“The Prophet (S) commanded us to confront sinners with stern
 faces”.*[^13]
@@ -242,11 +194,7 @@ principle wholeheartedly in such a way that they, like Abu Dharr, may
 fall prey to others' anger, or like Husayn (as) and his followers get
 martyred. Regarding this, Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"وَافْضَلُ مِن ذلِكَ كَلِمَةُ عَدْلٍ عِندَ اِمَامٍ جَائِرٍ"
-  </p>
-</blockquote>
+> "وَافْضَلُ مِن ذلِكَ كَلِمَةُ عَدْلٍ عِندَ اِمَامٍ جَائِرٍ"
 
 *"The highest degree of the principle of enjoining the good and
 forbidding the evil is speaking a just word before an unjust
@@ -256,12 +204,8 @@ When Uthman feared Abu Dharr’s disclosure of the former's wrong-doings,
 he told him: It is none of your business to interefere with political
 affairs. Abu Dharr answered:
 
-<blockquote dir="rtl">
-  <p>
-"والله مَا وَجَدْتُ لي عُذْراً اِلا الأمرَ بِالمَعرُوفِ وَالنَهيَ عَن
-المُنكَرِ"
-  </p>
-</blockquote>
+> "والله مَا وَجَدْتُ لي عُذْراً اِلا الأمرَ بِالمَعرُوفِ وَالنَهيَ عَن
+> المُنكَرِ"
 
 "I swear by God I do not have any excuse not to implement the principle
 of enjoining the good and forbidding the evil. I have to do it"[^15]
@@ -286,13 +230,9 @@ corruption."[^16]
 When he was leaving Medina, Husayn (as) in a will described the
 philosophy behind his uprising in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-"اِنّي لَم اَخرُج اَشِراً ولا بَطِراً وَلا ظَالمِاً وَلا مُفسِداً
-اِنّما خَرَجتُ لِلاِصلاحِ في اُمَّةِ جَدِّي محمد (ص) واَن آمُرَ
-بِالمَعرُوفِ وَانهى عَن المُنكَرِ"
-  </p>
-</blockquote>
+> "اِنّي لَم اَخرُج اَشِراً ولا بَطِراً وَلا ظَالمِاً وَلا مُفسِداً
+> اِنّما خَرَجتُ لِلاِصلاحِ في اُمَّةِ جَدِّي محمد (ص) واَن آمُرَ
+> بِالمَعرُوفِ وَانهى عَن المُنكَرِ"
 
 *“I have not come forth in insolence or self-conceit or wrongfully or to
 create mischief. Rather I have only come forth for the reformation of
@@ -312,12 +252,8 @@ To struggle in the way of Allah means carrying out anything that is
 wanted by God. To fulfill such an aim, we should try our best, either
 financially or verbally. Imam ‘Ali (as) in his will has emphasized:
 
-<blockquote dir="rtl">
-  <p>
-"والله الله في الجِهادِ بِأموالِكُم وَاَنفُسِكُم وَاَلسِنَتِكُم في
-سَبِيلِ الله"
-  </p>
-</blockquote>
+> "والله الله في الجِهادِ بِأموالِكُم وَاَنفُسِكُم وَاَلسِنَتِكُم في
+> سَبِيلِ الله"
 
 *"Fear Allah, and remember Him in striving with your wealth, your selves
 and your tongues in the way of Allah."*[^19]
@@ -326,12 +262,8 @@ Therefore, struggle against our very selves is also among struggles in
 the way of Allah. Upon the return of soldiers from the holy wars, the
 Prophet (S) told them:
 
-<blockquote dir="rtl">
-  <p>
-"مَرحَباً بِقَومٍ قَضَوا الجِهَادَ الاَصغَر وَبَقِيَ الجِهادُ الاكبَر،
-قِيلَ يَا رَسُولَ الله وَما الجِهادُ الاكبَرُ؟ قال: جِهَادُ النَّفسِ"
-  </p>
-</blockquote>
+> "مَرحَباً بِقَومٍ قَضَوا الجِهَادَ الاَصغَر وَبَقِيَ الجِهادُ الاكبَر،
+> قِيلَ يَا رَسُولَ الله وَما الجِهادُ الاكبَرُ؟ قال: جِهَادُ النَّفسِ"
 
 *"Welcome to a people who have performed the lesser jihad in the way of
 Allah, but their greater jihad is still ahead”. It was said: “Messenger
@@ -340,11 +272,7 @@ struggle against your self."*[^20]
 
 > Imam ‘Ali (as) has said in his will:
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَاخُذكَ في الله لَومَةُ لائمٍ ...
-  </p>
-</blockquote>
+> وَلا تَاخُذكَ في الله لَومَةُ لائمٍ ...
 
 In all types of struggle for God, we should strive for God only and we
 should not pay attention to the reproach of those who blame us. We
@@ -414,5 +342,4 @@ to Al-Qawa'id al-faqih, Makarem, vol. 3.
 [^20]: . Bihar, vol.19, p.182.
 
 [^21]: . Ghurar al-Hikam.
-
 

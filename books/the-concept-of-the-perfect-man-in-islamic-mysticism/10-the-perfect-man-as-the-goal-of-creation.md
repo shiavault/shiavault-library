@@ -23,4 +23,3 @@ grace to the world, the guardian of the world and its final cause and
 the world is created for him, it follows that the world cannot exist
 without the presence of a perfect man.
 
-

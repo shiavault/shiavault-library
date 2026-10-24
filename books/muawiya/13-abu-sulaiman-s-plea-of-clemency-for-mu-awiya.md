@@ -59,7 +59,6 @@ fisq; perhaps Abu Sulaiman should think about the momin that he was
 cursing. Now let us see the verdict on one who hates and curses Ali (as)
 and decide on where the truth lies.
 
-
 **Was Mu'awiya a Momin or Munafiq?**
 
 We have already presented to our objective readers the wonderful deeds
@@ -148,7 +147,6 @@ munafiq as ya sayyidina you incur the wrath of your Creator" One hopes
 that our readers are able to appreciate the consequences of using this
 title when describing Mu'awiya. We would urge our Sunni brethren to
 refrain from such actions.
-
 
 **Hadhrath 'Ali (as)'s testimony - Mu'awiya is my enemy**
 
@@ -311,7 +309,6 @@ called me by the name of my mother Sumayya, so as to mock me, well if I
 am the son of Sumayya then you are 'Ibne Jamaat' as you was a product of
 Nikah ijtimah".
 
-
 **More on Mu'awiya's 'noble' birth**
 
 We read in Muasalib ibne Sa'man munkool uz thun'zeey al Nasab page 97
@@ -340,5 +337,4 @@ bin Abu Bakr's murder, she sent Ayesha a cooked goat suggesting that the
 reason for his killing was his murder of Uthman. When this happened
 Ayesha said "May Allah (swt) kill this daughter of fornicating woman. By
 Allah! I shall never eat this meat again".
-
 

@@ -115,7 +115,6 @@ absolute majority of the Shi'a scholars [^52] there is no book of Hadith
 that all its Ahadith are authentic. Thus, every Hadith in every book is
 subject to scholarly investigation.
 
-
 **Chapter 7 : Meeting 6 The Science Of Knowing The Refferences (E'LM
 MA'REFATUL-MASADER(**
 
@@ -357,12 +356,10 @@ denounced such Israelite fabrications. Zorarah asked Imam Sadiq (a.s):
 Some of our people claim that the Almighty Allah created Eve from the
 lower left rib of Adam! The Imam (a.s) replied:
 
-<p dir="rtl">
 سبحان الله و تعالي عن ذلک علوا كبيرا! يقول من يقول هذا: ان الله تبارک و
 تعالي لم يکن له من القدرة ان يخلق لآدم زوجته من غير ضلعه! و جعل لمتکلم
 من اهل التشنيع سبيلا الي الکلام، يقول: انّ آدم کان ينکح بعضه بعضا اذا
 کانت من ضلعه، ما لهؤلاء، حکم الله بيننا وبينهم.
-</p>
 
 "Glory be to Allah and He is Exalted greatly from that! He who claims
 that(in fact) says: Allah; the Almighty was unable to create a mate for
@@ -371,5 +368,4 @@ those who wish to vilify (Islam) to say: "Adam married part of himself
 if she was from his rib." What is wrong with those people (fabricators)!
 May Allah judge between us and them."[^67] All praise belong to Allah for
 the blessing of Welayah
-
 

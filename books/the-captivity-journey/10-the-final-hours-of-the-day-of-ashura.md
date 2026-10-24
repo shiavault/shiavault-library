@@ -13,4 +13,3 @@ of Allah (P) to become orphans. Also, they wanted to become closer to
 the libertine, Obayd Allah Bin Ziad, who was appointed by the infidel,
 Yazeed Bin Muawiya, the head of obstinacy and disbelieving.
 
-

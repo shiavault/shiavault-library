@@ -216,4 +216,3 @@ Question 3: [20 points]
  In the light of Imam al-Kādhim’s life, explain under what conditions
 one is allowed to work with unjust governments/rulers.
 
-

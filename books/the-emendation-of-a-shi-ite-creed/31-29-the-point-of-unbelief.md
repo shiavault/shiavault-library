@@ -38,4 +38,3 @@ them to unbelief and error.
 it means the restrictive ordinances of the religious law of Islam. See
 al-Jurjani, at-Ta‘rifat, p.57; Ibn Manzur, op. cit., vol.3, p.142.
 
-

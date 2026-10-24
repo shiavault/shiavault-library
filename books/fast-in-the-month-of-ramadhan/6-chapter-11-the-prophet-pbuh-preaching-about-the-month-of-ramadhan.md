@@ -129,7 +129,6 @@ author, namely Shaikh al-Qummi al-Saduq, quotes one tradition indicating
 that the Messenger of Allah (pbuh) has said, "The sleep of someone
 fasting is like adoration, and his breath praises the Almighty."
 
-
 **Chapter 12 :Norms of Conduct related to the Fast**
 
 Having come to know the sanctity of this glorious month, the month of
@@ -215,7 +214,6 @@ half the daytime sleeping. The Prophet (pbuh) is quoted saying that the
 sleep of a fasting person is an act of adoration and his breath praises
 the Almighty.
 
-
 **Chapter : 13 Breaking the Fast (Iftar)**
 
 The Glorified and Praised One has said: "... And eat and drink until
@@ -239,5 +237,4 @@ which take us from the physical state, through our fast, to a spiritual
 height; 2) sharing our food with the poor and the indigent, and Muslims
 breaking their fast with one another; and 3) foods recommended for
 breaking the fast.
-
 

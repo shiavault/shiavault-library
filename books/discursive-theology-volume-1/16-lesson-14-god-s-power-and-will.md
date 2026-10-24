@@ -86,13 +86,9 @@ the heavens and the earth the Holy Qur’an calls to mind that their
 creation guides the human being to the power and knowledge of the
 Creator, as it has been stated, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الأرْضِ مِثْلَهُنَّ
-يَتَنَزَّلُ الأمْرُ بَيْنَهُنَّ لِتَعْلَمُوا أَنَّ اللَّهَ عَلَى كُلِّ
-شَيْءٍ قَدِيرٌ وَأَنَّ اللَّهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الأرْضِ مِثْلَهُنَّ
+> يَتَنَزَّلُ الأمْرُ بَيْنَهُنَّ لِتَعْلَمُوا أَنَّ اللَّهَ عَلَى كُلِّ
+> شَيْءٍ قَدِيرٌ وَأَنَّ اللَّهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا ﴾
 
 *“It is Allah who has created seven heavens, and of the earth [a number]
 similar to them. The command gradually descends through them, that you
@@ -102,22 +98,14 @@ comprehends all things in knowledge.”*[^4]
 This argument has also been pointed out in the sayings of Imām ‘Alī
 (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-وَأَرَانَا مِنْ مَلَكُوتِ قُدْرَتِهِ، وَعَجَائِبِ مَا نَطَقَتْ بِهِ
-آثَارُ حِكْمَتِهِ.
-  </p>
-</blockquote>
+> وَأَرَانَا مِنْ مَلَكُوتِ قُدْرَتِهِ، وَعَجَائِبِ مَا نَطَقَتْ بِهِ
+> آثَارُ حِكْمَتِهِ.
 
 “He showed us the realm of His Might, and such wonders which speak of
 His Wisdom.”[^5]
 
-<blockquote dir="rtl">
-  <p>
-وَأَقَامَ مِنْ شَوَاهِدِ ٱلْبَيِّنَاتِ عَلىٰ لَطِيفِ صَنْعَتِهِ،
-وَعَظِيمِ قُدْرَتِهِ.
-  </p>
-</blockquote>
+> وَأَقَامَ مِنْ شَوَاهِدِ ٱلْبَيِّنَاتِ عَلىٰ لَطِيفِ صَنْعَتِهِ،
+> وَعَظِيمِ قُدْرَتِهِ.
 
 “And He has established such clear proofs for His delicate creative
 power and great might.”[^6]
@@ -152,11 +140,7 @@ creatures also exists in the human actions, and that is their being
 possible beings (*mumkin al-wujūd*). No possible being could exist
 without the power of God. As Muḥaqqiq al-Ṭūsī has said,
 
-<blockquote dir="rtl">
-  <p>
-وَعُمومِيَّةُ الْعِلَّةِ تَسْتَلْزِمُ عُمومِيَّةَ الصِّفَةِ.
-  </p>
-</blockquote>
+> وَعُمومِيَّةُ الْعِلَّةِ تَسْتَلْزِمُ عُمومِيَّةَ الصِّفَةِ.
 
 “And the universality of the Cause necessitates the universality of the
 Attribute [of Power].”[^8]
@@ -245,12 +229,8 @@ time not proportional to its container, and thus, not bound by power.
 
 In reply to this question, Imām ‘Alī (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ تَبارَكَ وَتَعالىٰ لايُنْسَبُ إلَى الْعَجْزِ، وَالَّذي
-سَأَلْتَني لايَكونُ.
-  </p>
-</blockquote>
+> إنَّ اللهَ تَبارَكَ وَتَعالىٰ لايُنْسَبُ إلَى الْعَجْزِ، وَالَّذي
+> سَأَلْتَني لايَكونُ.
 
 That is to say that impotence or inability has no place in God, the
 Blessed and Exalted, and that which is raised in the question is
@@ -302,5 +282,4 @@ thought.
 [^8]: Kashf al-Murād, station (maqṣad) 3, chap. 2, issue 2.
 
 [^9]: Shaykh al-Ṣadūq, Al-Tawḥīd, section (bāb) 9, ḥadīth 9.
-
 

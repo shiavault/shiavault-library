@@ -136,4 +136,3 @@ Africa, Iran, and Iraq. The upraising of the Safavis was an event caused
 by Shiasm. All these dominions were under Shia rule. There were the
 events that the Shia faith caused; and not the other way around.
 
-

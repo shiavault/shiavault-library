@@ -5,23 +5,11 @@ Letter 44: To Ziyad ibn Abih
 Mn\`awiyah had written to Ziyad to deceive him and to attach him to
 himself in kinship.*
 
-<blockquote dir="rtl">
-  <p>
-ومن كتاب له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كتاب له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-إلى زياد بن أبيه
-  </p>
-</blockquote>
+> إلى زياد بن أبيه
 
-<blockquote dir="rtl">
-  <p>
-وقد بلغه أن معاوية كتب إليه يريد خديعته باستلحاقه
-  </p>
-</blockquote>
+> وقد بلغه أن معاوية كتب إليه يريد خديعته باستلحاقه
 
 I have learnt that Mu\`awiyah has written to you to deceive your wit and
 blunt your sharpness. You should be on guard against him because he is
@@ -29,15 +17,11 @@ the Satan who approaches a believer from the front and from the back,
 from the right and from the left, to catch him suddenly in the hour of
 his carelessness and overcome his intelligence.
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ عَرَفْتُ أَنَّ مُعَاويَةَ كَتَبَ إِلَيْكَ يَسْتَزِلُّ لُبَّكَ،
-وَيَسْتَفِلُّ غَرْبَكَ، فاحْذَرْهُ، فَإِنَّمَا هُوَ الشَّيْطَانُ
-يَأْتِي الْمَرْءَ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ، وَعَنْ
-يَمينِهِ وَعَنْ شِمَالِهِ، لِيَقْتَحِمَ غَفْلَتَهُ، وَيَسْتَلِبَ
-غِرَّتَهُ.
-  </p>
-</blockquote>
+> وَقَدْ عَرَفْتُ أَنَّ مُعَاويَةَ كَتَبَ إِلَيْكَ يَسْتَزِلُّ لُبَّكَ،
+> وَيَسْتَفِلُّ غَرْبَكَ، فاحْذَرْهُ، فَإِنَّمَا هُوَ الشَّيْطَانُ
+> يَأْتِي الْمَرْءَ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ، وَعَنْ
+> يَمينِهِ وَعَنْ شِمَالِهِ، لِيَقْتَحِمَ غَفْلَتَهُ، وَيَسْتَلِبَ
+> غِرَّتَهُ.
 
 In the days of \`Umar ibn al-Khattab, Abu Sufyan [^1] happened to utter
 a thoughtless point which was an evil suggestion of Satan, from which
@@ -45,15 +29,11 @@ neither kinship is established nor entitlement to succession occurs. He
 who relies on it is like the uninvited guest to a drink-party or like
 the dangling cup (tied to a saddle).
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ كَانَ مِنْ أَبِي سُفْيَانَ فِي زَمَنِ عُمَرَ بْنِ الْخَطَّابِ
-فَلْتَهٌ مِنْ حَدِيثِ النَّفْسِ، وَنَزْغَةٌ مِنْ نَزَغَاتِ
-الشَّيْطَانِ، لاَ يَثْبُتُ بِهَا نَسَبٌ، وَلاَ يُسْتَحَقُّ بِهَا
-إِرْثٌ، وَالْمُتَعَلِّقُ بِهَا كَالْوَاغِلِ الْمُدَفَّعِ، وَالنَّوْطِ
-الْمُذَبْذَبِ.
-  </p>
-</blockquote>
+> وَقَدْ كَانَ مِنْ أَبِي سُفْيَانَ فِي زَمَنِ عُمَرَ بْنِ الْخَطَّابِ
+> فَلْتَهٌ مِنْ حَدِيثِ النَّفْسِ، وَنَزْغَةٌ مِنْ نَزَغَاتِ
+> الشَّيْطَانِ، لاَ يَثْبُتُ بِهَا نَسَبٌ، وَلاَ يُسْتَحَقُّ بِهَا
+> إِرْثٌ، وَالْمُتَعَلِّقُ بِهَا كَالْوَاغِلِ الْمُدَفَّعِ، وَالنَّوْطِ
+> الْمُذَبْذَبِ.
 
 [When Ziyad read this letter he said, "By Allah he has testified to it."
 This point remained in his mind till Mu\`awiyah claimed him (as his
@@ -66,21 +46,13 @@ for the words "an-nawtu'l-mudhabdhab", it is a wooden cup or a bowl or
 the like attached to the saddle of the rider so that it dangles when the
 rider drives the beast or quickens its pace.
 
-<blockquote dir="rtl">
-  <p>
-فلمّا قرأ زياد الكتاب قال: شهد بها وربّ الكعبة، ولم يزل في نفسه حتى
-ادّعاه معاويةُ.
-  </p>
-</blockquote>
+> فلمّا قرأ زياد الكتاب قال: شهد بها وربّ الكعبة، ولم يزل في نفسه حتى
+> ادّعاه معاويةُ.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: قوله (عليه السلام): "كَالْوَاغِلِ الْمُدَفّعِ" الواغلُ:
-هوالذي يهجم على الشّرْب ليشرب معهم وَليس منهم، فلا يزال مُدفّعاً
-محاجزاً. و"النّوْط المُذَبْذَب": هو ما يناط برحل الراكب من قعب أو قدح
-أو ما أشبه ذلك، فهو أبداً يتقلقل إذا حث ظهره واستعجل سيره.
-  </p>
-</blockquote>
+> قال الرضي: قوله (عليه السلام): "كَالْوَاغِلِ الْمُدَفّعِ" الواغلُ:
+> هوالذي يهجم على الشّرْب ليشرب معهم وَليس منهم، فلا يزال مُدفّعاً
+> محاجزاً. و"النّوْط المُذَبْذَب": هو ما يناط برحل الراكب من قعب أو قدح
+> أو ما أشبه ذلك، فهو أبداً يتقلقل إذا حث ظهره واستعجل سيره.
 
 [^1]: Caliph \`Umar sent Ziyad to Yemen for some encounter. When he
 returned after finishing the job he addressed a gathering which included
@@ -107,5 +79,4 @@ the trap. But he did fall in his trap and joined Mu\`awiyah and the
 latter declared him his brother by attaching him in his kin, although
 the Prophet had declared. The child goes to the (lawful) husband while
 the adulterer gets stones.
-
 

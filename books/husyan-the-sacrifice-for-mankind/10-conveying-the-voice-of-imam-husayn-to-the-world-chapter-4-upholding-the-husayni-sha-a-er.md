@@ -221,4 +221,3 @@ our dealings with everyone else ranging from friends and brothers, to
 family members and everyone else; the first and foremost being in our
 relation with Allah Almighty and the Ahl-ul-Bayt alayhum-as-salam.
 
-

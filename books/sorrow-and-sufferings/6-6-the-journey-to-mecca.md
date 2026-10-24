@@ -129,4 +129,3 @@ He received a hearty welcome he wrote to Husayn
 
 Little did he realize their vile, treacherous game.
 
-

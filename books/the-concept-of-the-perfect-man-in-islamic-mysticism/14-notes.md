@@ -47,4 +47,3 @@ Book, line [^521]:
 
 [^20]. Qaysari,*Sharh Fusus al-Hikam* , ch. 12, p. [^45]:
 
-

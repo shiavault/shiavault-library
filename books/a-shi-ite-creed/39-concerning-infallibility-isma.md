@@ -47,4 +47,3 @@ Miller's note to no. 164 at p.97).
 account of \`isma, the nine proofs whereof will be found on p.321; BHA,
 nos.179-185; FC, nos.37, 41, 56; KP, xliii (Imam), xIv.94 (hujja).
 
-

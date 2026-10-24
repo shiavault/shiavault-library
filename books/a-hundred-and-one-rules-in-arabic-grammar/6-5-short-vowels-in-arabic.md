@@ -24,4 +24,3 @@ Neither did he talk about the diphthongs which are created every time
 you have a short vowel proceeding the long vowels ** و** and **ي** as
 in**يَوم ** ** ** **،** ** بَيت**
 
-

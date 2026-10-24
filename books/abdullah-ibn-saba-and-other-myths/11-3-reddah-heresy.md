@@ -226,4 +226,3 @@ To show in what manner Saif has written his stories, we shall reproduce
 some of them from his book al-Fotouh Wal- Reddah recorded in Tabari’s
 book.
 
-

@@ -216,11 +216,11 @@ shake the complete life of every living person.
 Year of Imam Husain’s (‘a) birth
 --------------------------------
 
-The grandson of the Prophet (s) was born in the 4<sup>th</sup> year of
+The grandson of the Prophet (s) was born in the 4th year of
 the Hijri calendar**[2]** and elsewhere the year is also mentioned to be
-the 3<sup>rd</sup> year of the Hijri calendar.**[3]** Narrators also
+the 3rd year of the Hijri calendar.**[3]** Narrators also
 differ as to the month of his birth and most of them consider it to be
-the month of Shaban and on the 5<sup>th</sup> day of the
+the month of Shaban and on the 5th day of the
 month.****[4]**** Some of them have not specified the day of his birth
 and said he was born after a few nights of Shaban had  
 
@@ -493,7 +493,7 @@ which  
 
 **[1]** Jawahirul Ahkam, 31/260 It is mentioned therein that the
 Messenger of Allah (s.a.w.s.) said: Circumcise your male children on the
-7<sup>th</sup> day as it is the purest and cleanest and best for the
+7th day as it is the purest and cleanest and best for the
 growth of flesh it is most appropriate and that the earth remains impure
 by the urine of one who has not been circumcised.  
  **[2]** *Al-Manaqib* 4/50  

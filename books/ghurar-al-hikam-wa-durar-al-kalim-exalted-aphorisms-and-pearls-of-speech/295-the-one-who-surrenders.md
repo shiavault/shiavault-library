@@ -23,4 +23,3 @@ The One Who Surrenders
 
 > 5ـ اَلمُسْتَسْلِمُ مُوَقًّي.
 
-

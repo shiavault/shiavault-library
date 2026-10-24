@@ -91,4 +91,3 @@ some narrations, Imam Ja’far as-Sadiq (a.s.) “An acronym for Alaihis
 Salaam - meaning, may peace be with him”, described it as a form of
 adultery.
 
-

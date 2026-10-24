@@ -90,4 +90,3 @@ Aristotle or Avicenna, and where the post-Platonic philosophical
 tradition has remained alive. Ayatollah Khomeini was known at Qom up
 till the beginning of the 1950s for his philosophy course.8
 
-

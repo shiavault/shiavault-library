@@ -50,4 +50,3 @@ comparison to them.
 same by examples from the lives of great men.  
  Ja’far Subhani
 
-

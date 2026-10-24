@@ -4,29 +4,13 @@ Surah al-Waqi‘a, Verses 41 - 96
 Surah al-Waqi‘a - Verses 41-44
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأصْحَابُ الشِّمَالِ مَا أصْحَابُ الشِّمَالِ
-  </p>
-</blockquote>
+> وَأصْحَابُ الشِّمَالِ مَا أصْحَابُ الشِّمَالِ
 
-<blockquote dir="rtl">
-  <p>
-فِي سَمُومٍ وَحَمِيمٍ
-  </p>
-</blockquote>
+> فِي سَمُومٍ وَحَمِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَظِلٍّ مِّن يَحْمُومٍ
-  </p>
-</blockquote>
+> وَظِلٍّ مِّن يَحْمُومٍ
 
-<blockquote dir="rtl">
-  <p>
-لَآ بَارِدٍ وَلَآ كَرِيمٍ
-  </p>
-</blockquote>
+> لَآ بَارِدٍ وَلَآ كَرِيمٍ
 
 ***41. And those on the Left Hand, how [unfortunate] shall be those on
 the Left Hand!***  
@@ -60,24 +44,12 @@ which may solely harm.
 Surah al-Waqi‘a - Verses 45-47
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ مُتْرَفِينَ
-  </p>
-</blockquote>
+> إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ مُتْرَفِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَكَانُوا يُصِرُّونَ عَلَی الْحِنثِ الْعَظِيمِ
-  </p>
-</blockquote>
+> وَكَانُوا يُصِرُّونَ عَلَی الْحِنثِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَكَانُوا يَقُولُونَ أئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا
-أئِنَّا لَمَبْعُوثُونَ
-  </p>
-</blockquote>
+> وَكَانُوا يَقُولُونَ أئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا
+> أئِنَّا لَمَبْعُوثُونَ
 
 ***45. Indeed, before that they indulged in luxury,***  
 ***46. And were persisting in committing grave sins.***  
@@ -153,23 +125,11 @@ they persisted in the denial of Resurrection.
 Surah al-Waqi‘a - Verses 48-50
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أوَ آبَاؤُنَا الْأوَّلُونَ
-  </p>
-</blockquote>
+> أوَ آبَاؤُنَا الْأوَّلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ الْأوَّلِينَ وَالْآخِرِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ الْأوَّلِينَ وَالْآخِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-لَمَجْمُوعُونَ إِلَی مِيقَاتِ يَوْمٍ مَّعْلُومٍ
-  </p>
-</blockquote>
+> لَمَجْمُوعُونَ إِلَی مِيقَاتِ يَوْمٍ مَّعْلُومٍ
 
 ***48. "And also our forefathers?"***  
 ***49. Say: "Indeed, those of old, and those of later times,***  
@@ -200,23 +160,11 @@ archangels nearest unto Him, are unaware of it.
 Surah al-Waqi‘a - Verse 51-53
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّكُمْ أيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّكُمْ أيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَآكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ
-  </p>
-</blockquote>
+> لَآكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ
 
-<blockquote dir="rtl">
-  <p>
-فَمَالِؤُونَ مِنْهَا الْبُطُونَ
-  </p>
-</blockquote>
+> فَمَالِؤُونَ مِنْهَا الْبُطُونَ
 
 ***51. "Then moreover, indeed you the erring deniers!***  
 ***52. "You indeed shall eat of the tree of Zaqqum.***  
@@ -253,23 +201,11 @@ food and fill up their bellies with it.
 Surah al-Waqi‘a - Verses 54-56
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ
-  </p>
-</blockquote>
+> فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ
 
-<blockquote dir="rtl">
-  <p>
-فَشَارِبُونَ شُرْبَ الْهِيمِ
-  </p>
-</blockquote>
+> فَشَارِبُونَ شُرْبَ الْهِيمِ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا نُزُلُهُمْ يَوْمَ الدِّينِ
-  </p>
-</blockquote>
+> هَذَا نُزُلُهُمْ يَوْمَ الدِّينِ
 
 ***54. "And drink boiling water on top of it.***  
 ***55. "And you shall drink it like thirsty camels!"***  
@@ -310,35 +246,15 @@ Recompense and Reward.
 Surah al-Waqi‘a - Verses 57-61
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ خَلَقْنَاكُمْ فَلَوْلَآ تُصَدِّقُونَ
-  </p>
-</blockquote>
+> نَحْنُ خَلَقْنَاكُمْ فَلَوْلَآ تُصَدِّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتُم مَّا تُمْنُونَ
-  </p>
-</blockquote>
+> أفَرَأيْتُم مَّا تُمْنُونَ
 
-<blockquote dir="rtl">
-  <p>
-أأنتُمْ تَخْلُقُونَهُ أمْ نَحْنُ الْخَالِقُونَ
-  </p>
-</blockquote>
+> أأنتُمْ تَخْلُقُونَهُ أمْ نَحْنُ الْخَالِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ
-  </p>
-</blockquote>
+> نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ
 
-<blockquote dir="rtl">
-  <p>
-عَلَی أن نُّبَدِّلَ أمْثَالَكُمْ وَنُنشِئَكُمْ فِي مَا لَآ تَعْلَمُونَ
-  </p>
-</blockquote>
+> عَلَی أن نُّبَدِّلَ أمْثَالَكُمْ وَنُنشِئَكُمْ فِي مَا لَآ تَعْلَمُونَ
 
 ***57. We created you then why do you believe not?***  
 ***58. Have you seen what is emitted into wombs?***  
@@ -432,11 +348,7 @@ of Resurrection in the forms of their deeds.
 Surah al-Waqi‘a - Verse 62
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَلِمْتُمُ النَّشْأةَ الْاُولَی فَلَوْلَآ تَذكَّرُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ عَلِمْتُمُ النَّشْأةَ الْاُولَی فَلَوْلَآ تَذكَّرُونَ
 
 ***62. And indeed, you have already known the first form of creation:
 why then do you not believe in recreation?***
@@ -467,35 +379,15 @@ Recompense of his deeds and shall find everlasting life.
 Surah al-Waqi‘a - Verses 63-67
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتُم مَّا تَحْرُثُونَ
-  </p>
-</blockquote>
+> أفَرَأيْتُم مَّا تَحْرُثُونَ
 
-<blockquote dir="rtl">
-  <p>
-أأنتُمْ تَزْرَعُونَهُ أمْ نَحْنُ الزَّارِعُونَ
-  </p>
-</blockquote>
+> أأنتُمْ تَزْرَعُونَهُ أمْ نَحْنُ الزَّارِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَوْ نَشَاء لَجَعَلْنَاهُ حُطَامًا فَظَلَلْتُمْ تَفَكَّهُونَ
-  </p>
-</blockquote>
+> لَوْ نَشَاء لَجَعَلْنَاهُ حُطَامًا فَظَلَلْتُمْ تَفَكَّهُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لَمُغْرَمُونَ
-  </p>
-</blockquote>
+> إِنَّا لَمُغْرَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ نَحْنُ مَحْرُومُونَ
-  </p>
-</blockquote>
+> بَلْ نَحْنُ مَحْرُومُونَ
 
 ***63. Have you ever thought about what you have sown in the
 ground?***  
@@ -592,23 +484,11 @@ used as herbs in curing different ailments.
 Surah al-Waqi‘a - Verses 68-70
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتُمُ الْمَاء الَّذِي تَشْرَبُونَ
-  </p>
-</blockquote>
+> أفَرَأيْتُمُ الْمَاء الَّذِي تَشْرَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-أأنتُمْ أنزَلْتُمُوهُ مِنَ الْمُزْنِ أمْ نَحْنُ الْمُنزِلُونَ
-  </p>
-</blockquote>
+> أأنتُمْ أنزَلْتُمُوهُ مِنَ الْمُزْنِ أمْ نَحْنُ الْمُنزِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَوْ نَشَاء جَعَلْنَاهُ اُجَاجًا فَلَوْلَآ تَشْكُرُونَ
-  </p>
-</blockquote>
+> لَوْ نَشَاء جَعَلْنَاهُ اُجَاجًا فَلَوْلَآ تَشْكُرُونَ
 
 ***68. Have you thought about the water that you drink.***  
 ***69. Is it you who cause it from the rain clouds to come down, or are
@@ -671,29 +551,13 @@ water unto us."*[^7]
 Surah al-Waqi‘a - Verses 71-74
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأيْتُمُ النَّارَ الَّتِي تُورُونَ
-  </p>
-</blockquote>
+> أفَرَأيْتُمُ النَّارَ الَّتِي تُورُونَ
 
-<blockquote dir="rtl">
-  <p>
-أأنتُمْ أنشَأتُمْ شَجَرَتَهَا أمْ نَحْنُ الْمُنشِؤُونَ
-  </p>
-</blockquote>
+> أأنتُمْ أنشَأتُمْ شَجَرَتَهَا أمْ نَحْنُ الْمُنشِؤُونَ
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِّلْمُقْوِينَ
-  </p>
-</blockquote>
+> نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِّلْمُقْوِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
-  </p>
-</blockquote>
+> فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
 
 ***71. Have you seen the fire which you kindle?***  
 ***72. Is it you who made the tree thereof to grow, or are We the
@@ -836,29 +700,13 @@ bi-hamdih).*
 Surah al-Waqi‘a - Verses 75-78
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَآ اُقْسِمُ بِمَوَاقِعِ النُّجُومِ
-  </p>
-</blockquote>
+> فَلَآ اُقْسِمُ بِمَوَاقِعِ النُّجُومِ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقُرْآنٌ كَرِيمٌ
-  </p>
-</blockquote>
+> إِنَّهُ لَقُرْآنٌ كَرِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فِي كِتَابٍ مَّكْنُونٍ
-  </p>
-</blockquote>
+> فِي كِتَابٍ مَّكْنُونٍ
 
 ***75. Therefore, I swear by the place of the stars and their places of
 rising and setting.***  
@@ -966,29 +814,13 @@ far from any error and alteration.
 Surah al-Waqi‘a - Verses 79-82
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَآ يَمَسُّهُ إِلاّ الْمُطَهَّرُونَ
-  </p>
-</blockquote>
+> لَآ يَمَسُّهُ إِلاّ الْمُطَهَّرُونَ
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-أفَبِهَذَا الْحَدِيثِ أنتُم مُّدْهِنُونَ
-  </p>
-</blockquote>
+> أفَبِهَذَا الْحَدِيثِ أنتُم مُّدْهِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَجْعَلُونَ رِزْقَكُمْ أنَّكُمْ تُكَذِّبُونَ
-  </p>
-</blockquote>
+> وَتَجْعَلُونَ رِزْقَكُمْ أنَّكُمْ تُكَذِّبُونَ
 
 ***79. Which none can touch but the purified.***  
 ***80. A Revelation from the Lord of the worlds.***  
@@ -1117,35 +949,15 @@ owing to their denial and enmity, they deprive themselves of it.[^16]
 Surah al-Waqi‘a - Verses 83-87
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَآ إِذَا بَلَغَتِ الْحُلْقُومَ
-  </p>
-</blockquote>
+> فَلَوْلَآ إِذَا بَلَغَتِ الْحُلْقُومَ
 
-<blockquote dir="rtl">
-  <p>
-وَأنتُمْ حِينَئِذٍ تَنظُرُونَ
-  </p>
-</blockquote>
+> وَأنتُمْ حِينَئِذٍ تَنظُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أقْرَبُ إِلَيْهِ مِنكُمْ وَلَكِن لَآ تُبْصِرُونَ
-  </p>
-</blockquote>
+> وَنَحْنُ أقْرَبُ إِلَيْهِ مِنكُمْ وَلَكِن لَآ تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ
-  </p>
-</blockquote>
+> فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ
 
-<blockquote dir="rtl">
-  <p>
-تَرْجِعُونَهَا إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> تَرْجِعُونَهَا إِن كُنتُمْ صَادِقِينَ
 
 ***83. Then why do you not intervene when the soul of a dying person
 reaches the throat?***  
@@ -1231,17 +1043,9 @@ off death and keeping your beloved alive.
 Surah al-Waqi‘a - Verses 88-89
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ
-  </p>
-</blockquote>
+> فَأمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَرَوْحٌ وَرَيْحَانٌ وَجَنَّةُ نَعِيمٍ
-  </p>
-</blockquote>
+> فَرَوْحٌ وَرَيْحَانٌ وَجَنَّةُ نَعِيمٍ
 
 ***88. Then, if he [the dying person] be of those brought near unto
 Allah,***  
@@ -1292,17 +1096,9 @@ namely in the Hereafter.[^18]
 Surah al-Waqi‘a - Verses 90-91
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا إِن كَانَ مِنَ أصْحَابِ الْيَمِينِ
-  </p>
-</blockquote>
+> وَأمَّا إِن كَانَ مِنَ أصْحَابِ الْيَمِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَسَلَآمٌ لَّكَ مِنْ أصْحَابِ الْيَمِينِ
-  </p>
-</blockquote>
+> فَسَلَآمٌ لَّكَ مِنْ أصْحَابِ الْيَمِينِ
 
 ***90. And if he [the dying person] be of those on the Right Hand,***  
 ***91. Then, it shall said unto him: "Peace be unto you from your
@@ -1347,35 +1143,15 @@ are saved from Divine torment."***[^19]
 Surah al-Waqi‘a - Verses 92-96
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ
-  </p>
-</blockquote>
+> وَأمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ
 
-<blockquote dir="rtl">
-  <p>
-فَنُزُلٌ مِّنْ حَمِيمٍ
-  </p>
-</blockquote>
+> فَنُزُلٌ مِّنْ حَمِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَتَصْلِيَةُ جَحِيمٍ
-  </p>
-</blockquote>
+> وَتَصْلِيَةُ جَحِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
-  </p>
-</blockquote>
+> فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
 
 ***92. But if he be of the erring deniers,***  
 ***93. Then for him is an entertainment with boiling water in Hell.***  
@@ -1537,5 +1313,4 @@ Nimuna, under the blessed Verse in question.
 [^22]: Abu al-Futuh Razi's Tafsir; Ruh al-Ma‘ani, Qurtubi's Ruh
 al-Bayan; Durr al-Manthur; Maraghi's Tafsir; Tafsir Majma‘ al-Bayan;
 Tafsir Minhaj al-Sadiqin; under the blessed Verse in question.
-
 

@@ -1,10 +1,6 @@
 Detriment of Tales and Talebearer:
 ==================================
 
-  
-  
-  
-
 Al-Salafi reports on the authority of al-Fadl ibn Ziyad that he said: I
 heard Ahmad ibn Hanbal saying: The biggest liars among people being the
 questioner and story-teller.
@@ -30,8 +26,7 @@ known that Umar (ibn al-Khattab) forbade from story-telling.
 Tenth: Severity of intimidation and excess in temptation for the sake of
 guiding people. This kind of falsified traditions was even accelerated
 for their fabricators by the scholars’ stating that the weak traditions
-could be applied and followed regarding the virtuous deeds, <span
-id="_anchor_203"></span>203 and what is related to them in meaning which
+could be applied and followed regarding the virtuous deeds, 203 and what is related to them in meaning which
 be unrelevant to rules and rights, as if considering Din incomplete
 needing something to complete and perfect it. This while Allah the
 Glorified and Most High says: “This day have I perfected for you, your
@@ -50,7 +45,7 @@ whatever they will”! Beside other similar claims. When it is said to
 them that Allah has never permitted such a law, they cite examples and
 similitudes from which Allah is quite free and far above, like
 anthropomorphizing Him to the kings and emirs through whom favoritism is
-sought near those they were loving, <span id="_anchor_204"></span>204 so
+sought near those they were loving, 204 so
 as to do the acts that they would have never done had those ones been
 not present. They were unaware that the Will of Allah the Exalted never
 changes for the sake of anyone whomsoever, since specifying and
@@ -58,7 +53,7 @@ preponderating it should be in accordance with the eternal knowledge
 that is never liable to change or alteration.
 
 Eleventh: Permission to fabricating chains of transmission (asanid) for
-the euphonious speech, <span id="_anchor_205"></span>205 so as to make a
+the euphonious speech, 205 so as to make a
 hadith out of it. This reason was mentioned independently, while it is
 to be included within the previous one.
 
@@ -88,21 +83,21 @@ strange to his hadith. Some used to fabricate hadith for seeking content
 and temptation. Some others would compose chains of transmission through
 flowery language, with some doing so for gaining pleasure of the ruler,
 and the story-tellers who used to relate feeble unauthentic traditions.
-<span id="_anchor_206"></span>206 In order not to expatiate on this
+206 In order not to expatiate on this
 topic, I suffice with the examples already cited.
 
 Concerning the hadith fabricators, they were innumerable, the most
 
 outstanding of whom being the following four: Ibn Abi Yahya in
 al-Madinah, al-Waqidi in Baghdad, Muqatil ibn Sulayman in Khurasan and
-Muhammad ibn Sa’id in the Sham. <span id="_anchor_207"></span>207
+Muhammad ibn Sa’id in the Sham. 207
 
 Hereunder one example on fabrication of hadith for seeking favoritism
 near the kings and emirs:
 
 Al-Rashid was so fond of pigeons and amusing himself with them. One day
 he received doves as a present at the presence of Abu al-Bukhtari
-al-Qadi <span id="_anchor_208"></span>208 when he said: Abu Hurayrah
+al-Qadi 208 when he said: Abu Hurayrah
 reported from the Prophet (S) that he said: “No race is there but in the
 pad or hoof or wing”. The word ‘wing’ was added from his own for
 pleasing al-Rashid, for which he was gifted a valuable reward. When he
@@ -205,7 +200,7 @@ said: None of the traditions about merits of Mu’awiyah could be
 confirmed or approved.
 
 Under the chapter “Merits of the Prophet’s Companions”, “bab dhikr
-Mu’awiyah”, <span id="_anchor_209"></span>209 al-Bukhari, without citing
+Mu’awiyah”, 209 al-Bukhari, without citing
 traditions with chain of transmission going back to the Prophet, quoted
 two statements ascribed to Ibn Abbas giving an account of Mu’awiyah. In
 the first one he said, that he kept
@@ -244,7 +239,7 @@ Umayyads. It is verily the stronghold of the Muslims during fierce
 battles and invasions, and its marquee is situated in a land called
 al-Ghawtah.
 
-They (narrators) made of Damascus <span id="_anchor_210"></span>210 the
+They (narrators) made of Damascus 210 the
 rabwah (height) to which the holy Qur’an referred in the verse: “...and
 We gave them a refuge on a height, a place of flocks and watersprings”.
 In a transmitted hadith. Abu Hurayrah made of it one of the cities of
@@ -265,8 +260,7 @@ the Constantinople Battle.
 
 I am not intending to follow up whatever is cited on the merit of the
 Sham, as it needs a number of separate compilations to cover, as said by
-Ibn Taymiyyah in his book Iqtida’ al-Sirat al-mustaqim. <span
-id="_anchor_211"></span>211
+Ibn Taymiyyah in his book Iqtida’ al-Sirat al-mustaqim. 211
 
 A group of people composed several works on the advantages of Quds (Bayt
 al-Maqdis) and other localities in the Sham, citing in them some of the
@@ -285,7 +279,7 @@ to destruction and subversion of Islam, as the Sufis adopted it as a
 principle and source for their tariqah (creed; system of belief), on
 which they based and constructed their fancies and superstitions.
 
-Al-Waqidi <span id="_anchor_212"></span>212 reported that when Mu’awiyah
+Al-Waqidi 212 reported that when Mu’awiyah
 returned from Iraq to the Sham, after swearing allegiance to (al-Imam)
 al-Hasan (in 41 H), he
 
@@ -301,13 +295,12 @@ He chose for him from among his family, a trustworthy vizier as a
 scribe. When the revelation was sent down to Muhammad, I was writing it
 down, without his being aware of what I was writing. No one was there as
 an intermediary between me and Allah from among His creatures.” The
-attendants there said: You said the truth!! <span
-id="_anchor_213"></span>213
+attendants there said: You said the truth!! 213
 
 As soon as the Sham was described as the land of substitutes by
 Mu’awiyah, a number of traditions about these abdal, ascribed to the
 Prophet emerged on the scene, among which we can refer to the following:
-<span id="_anchor_214"></span>214
+214
 
 1. “The abdal (substitutes) in this Ummah are thirty men, whose hearts
 are sympathetic with that of Ibrahim the Friend of Allah. Whenever one
@@ -347,7 +340,7 @@ triumph, and delivered from torment seclusively and alone from among
 inhabitants of the earth?!
 
 Al-Sayyid gave him a scholastic, attentive and accurate reply, the
-abstract of which I present hereunder: <span id="_anchor_215"></span>215
+abstract of which I present hereunder: 215
 
 He initiated his speech by saying: “These traditions are altogether
 false and invalid in respect of narration and dirayah
@@ -356,15 +349,14 @@ made them so commonly circulated among the Ummah was the much care and
 concern exerted toward it by the Sufis. To all of them a reference was
 made by the traditionist Ibn al-Jawzi in his book al-Mawdu’at, who
 proved their invalidity one by one. The substitutes traditions were
-commonly fabricated by the Sufis, Shi’ah, <span
-id="_anchor_216"></span>216 Batinites, and narrators of the foisted
+commonly fabricated by the Sufis, Shi’ah, 216 Batinites, and narrators of the foisted
 traditions (Israeliyyat) like Ka’b al-Ahbar and others among circulators
 of superstitious traditions, other than owners of the correct
-traditions. <span id="_anchor_217"></span>217 Our sage the researcher
+traditions. 217 Our sage the researcher
 Ibn Khaldun through his discussion of the science of Sufism in the
 introduction to his Ta’rikh, after stating origin of Sufism and
 condition of Sufis in respect of knowledge and conduct, said the
-following in the very words: <span id="_anchor_218"></span>218
+following in the very words: 218
 
 “Then the latters among Sufis and Mutakallimun on revelation (kashf) and
 supersensible matters, have penetrated deeply into this subject, in a
@@ -399,8 +391,7 @@ these articles and their likes, including in their disapproval campaign
 whatever they faced within the system of belief”.
 
 The scholars of hadith have expressed their views regarding the asanid
-(chains of transmission) of these traditions. <span
-id="_anchor_219"></span>219 Al-Hafiz Ibn al-Jawzi judged that they were
+(chains of transmission) of these traditions. 219 Al-Hafiz Ibn al-Jawzi judged that they were
 all fabricated. Followed him in this regard Shaykh al-Islam Ibn
 Taymiyyah, al-Sakhawi and al-Suyuti who was one of the disciples of Ibn
 Hajar. But the first of them was the most accurate and nearest to
@@ -416,7 +407,7 @@ Mulla Ali al-Qari reported from Ibn al-Salah about the fabricated
 traditions, that he said: The strongest hadith we narrated about the
 substitutes being Ali’s utterance: The substitutes will be verily in the
 Sham. This saying agrees with what Ibn Taymiyyah said in his treatise
-<span id="_anchor_220"></span>220 about Ahl al-Siffah and the Sufis with
+220 about Ahl al-Siffah and the Sufis with
 respect to the narrator. While the investigation held by Shaykh al-Islam
 on this issue with regard to cognizance is truly the end of extremities.
 Following are some excerptions of his statements in this regard:
@@ -463,7 +454,7 @@ Sufis, came and added abundantly to, making of it a chain authentic
 hadith, composing other traditions on flattery and censure to be
 circulated throughout the famous metropolises.
 
-Ibn Asakir reported that Ka’b al-Ahbar <span id="_anchor_221"></span>221
+Ibn Asakir reported that Ka’b al-Ahbar 221
 said: The substitutes are thirty men. He also said: The substitutes are
 in the Sham, and the Nujaba’ are in the Kufah. Then he stated a good
 number of such sayings reported from that time people about the
@@ -501,8 +492,7 @@ contingent of the infidels) then be firm, and remember God much, (that
 ye be successful).”
 
 After throwing light upon the wretchedness and straitened conditions
-experienced by people of the Sham in 1927, <span
-id="_anchor_222"></span>222 with the French troops devastating their
+experienced by people of the Sham in 1927, 222 with the French troops devastating their
 homeland, and many of them starving to death, he (al-Sayyid Rashid)
 said: So where are those substitutes and where are their secrets?!
 
@@ -529,12 +519,7 @@ prevailed among common people that sustenance and world felicity can be
 acquired from those buried under earth. Because of such superstition our
 Ummah became downtrodden under the feet of all nations, with its common
 people keeping on to believe that the dead and invisible men are the
-source of its sustenance and keeping it safe against misfortune.” <span
-id="_anchor_223"></span>223
-
-  
-  
-  
+source of its sustenance and keeping it safe against misfortune.” 223
 
 203. This saying and its holders have brought so much detriment to
 people, in respect of their religion and life.

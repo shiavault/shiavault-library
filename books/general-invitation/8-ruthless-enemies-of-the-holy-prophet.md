@@ -42,4 +42,3 @@ Sufyan and others. The historians have recorded the particulars in
 detail and for the sake of brevity we refrain from reproducing them
 here.
 
-

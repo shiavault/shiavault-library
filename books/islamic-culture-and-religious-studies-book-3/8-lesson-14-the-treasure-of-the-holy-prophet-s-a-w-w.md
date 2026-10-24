@@ -181,7 +181,6 @@ were to come after Imam Ali (a.s.)?
 6. The knowledge of Fiqh in the Shia Ja'fari Faith is based on four
 main sources. What are those sources?
 
-
 **"Lesson 15 : The Aimmah (A.S.) Vs. The Opperessor**
 
 During his lifetime and prophethood, the Holy Prophet (s.a.w.w.) had
@@ -448,5 +447,4 @@ dealing with the ninth, tenth and eleventh Imam's (a.s.).
 10. During this time of ghaybah of the twelfth Imam (a.s.), how do the
 religious scholars take the responsibility in combating and resisting
 Kufr and injustice? When and how do you think this fight will end?
-
 

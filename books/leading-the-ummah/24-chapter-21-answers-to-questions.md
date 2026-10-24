@@ -106,12 +106,8 @@ critical level that the Holy Quran, using a severe language, warned them
 against such cases of disobediences. In this regard, the Holy Quran
 says,
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلْيَحْذَرِ الَّذِينَ يُخالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ
-فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذابٌ أَلِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿فَلْيَحْذَرِ الَّذِينَ يُخالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ
+> فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذابٌ أَلِيمٌ﴾
 
 ***“Therefore let those beware who go against his orders lest a trial
 afflict them or there befall them a painful chastisement”***[^3]***.***
@@ -119,12 +115,8 @@ afflict them or there befall them a painful chastisement”***[^3]***.***
 Elsewhere the Holy Quran warns those who insist that the Prophet should
 follow their advice:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
-وَ رَسُولِهِ وَ اتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿ يا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
+> وَ رَسُولِهِ وَ اتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ﴾
 
 ***“O you who believe! Be not forward in the presence of Allah and His
 Apostle, and be careful of your duty to Allah; surely Allah is Hearing,
@@ -173,12 +165,8 @@ nobody can deny. He then asked the audience:
 Do you swear to God that the following sentence could have meant anybody
 else than me?
 
-<blockquote dir="rtl">
-  <p>
-“مَنْ كُنْتُ مَولاهُ فَهذا عليٌّ مَولاهُ، اللّهمّ وال من والاهُ
-وانْصُرْ مَنْ نَصَرَهُ ليبلغ الشاهد الغائب”.
-  </p>
-</blockquote>
+> “مَنْ كُنْتُ مَولاهُ فَهذا عليٌّ مَولاهُ، اللّهمّ وال من والاهُ
+> وانْصُرْ مَنْ نَصَرَهُ ليبلغ الشاهد الغائب”.
 
 “Whoever I am the superior to, Ali is superior to him. O God, love
 anybody who loves Ali and assist anybody who assists Ali and let those
@@ -233,11 +221,7 @@ superior to the believers?
 Every one answered: yes. Do you remember at that time the Prophet asked
 me to rise, I did, he then declared:
 
-<blockquote dir="rtl">
-  <p>
-“ولاء كولائي، من كنت أولی به من نفسه فعليُّ أولی به من نفسه”.
-  </p>
-</blockquote>
+> “ولاء كولائي، من كنت أولی به من نفسه فعليُّ أولی به من نفسه”.
 
 Do you remember, Ali asked the people once more. The minute when Salman
 asked the Prophet:
@@ -262,12 +246,8 @@ are to me is like what Harun was to Musa.
 Then Fatimah (s) continued: everybody saw and heard that the Prophet
 raise Ali's hand telling people[^8]
 
-<blockquote dir="rtl">
-  <p>
-“مَنْ كُنْتُ مَولاهُ فعليٌّ مولاه اللّهمّ وال من والاهُ و عاد من
-عاداه”.
-  </p>
-</blockquote>
+> “مَنْ كُنْتُ مَولاهُ فعليٌّ مولاه اللّهمّ وال من والاهُ و عاد من
+> عاداه”.
 
 6. In a huge meeting at Mecca, were some of the Prophet's closest
 followers, Husain Ibn Ali (as) said, “By God, do you know that at Ghadir
@@ -310,5 +290,4 @@ Hadythul Rakban and during the war of Siffin.
 [^9]: . For more information on these argumentations and their
 documents, refer to the worthy book of Al-Ghadir (vol 1/pp.146-a 195):
 in this book there are 22 such arguments based on documents.
-
 

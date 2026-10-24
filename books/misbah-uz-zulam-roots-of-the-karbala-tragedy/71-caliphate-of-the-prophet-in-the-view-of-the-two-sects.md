@@ -69,4 +69,3 @@ verse supports the Caliphate of the Rightful Caliphs. The readers are
 requested to study these verses and see if these verses in any way prove
 the Caliphate of the Caliphs?
 
-

@@ -1,27 +1,19 @@
 Right n. 15: The Right of the Possessor of Authority
 ====================================================
 
-<blockquote dir="rtl">
-  <p>
-حق سائسك بالسلطان
-  </p>
-</blockquote>
+> حق سائسك بالسلطان
 
-<blockquote dir="rtl">
-  <p>
-فأَمَّا حَقُّ سَائِسِكَ بالسُّلْطَانِ فَأَنْ تَعْلَمَ أنّكَ جُعِلْتَ
-لَهُ فِتنَة وأنَّهُ مُبْتَلىً فِيكَ بمَا جَعَلَهُ اللهُ لَهُ عَلَيكَ
-مِنَ السُّلْطَانِ وَأَنْ تُخلِصَ لَهُ فِي النَّصِيحَةِ وَأَنْ لا
-تُمَاحِكَهُ وَقَدْ بُسِطْتَ يَدُهُ عَلَيْكَ فَتَكُونَ سَبَبَ هَلاكِ
-نفْسِكَ وَهلاكِهِ. وتَذَلَّلْ وتَلَطَّفْ لإِعْطَائِهِ مِنَ الرِّضَا
-مَا يَكُفُّهُ عَنْكَ وَلا يَضُرُّ بدينِكَ وتَسْتَعِينُ عَلَيْهِ فِي
-ذلِكَ باللهِ. ولا تُعَازَّهُ ولا تُعَانِدَهُ فَإنَّكَ إنْ فَعَلْتَ
-ذلِكَ عَقَقْتَهُ وَعَقَقْتَ نَفْسَكَ فَعَرَضْتَهَا لِمَكرُوهِهِ
-وَعَرَضْتَهُ لِلْهَلَكَةِ فِيكَ وَكُنْتَ خَلِيقًا أَنْ تَكُونَ
-مُعِينًا لَهُ عَلَى نفْسِكَ وَشَرِيكًا لَهُ فِيمَا أَتى إلَيْكَ. وَلا
-قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> فأَمَّا حَقُّ سَائِسِكَ بالسُّلْطَانِ فَأَنْ تَعْلَمَ أنّكَ جُعِلْتَ
+> لَهُ فِتنَة وأنَّهُ مُبْتَلىً فِيكَ بمَا جَعَلَهُ اللهُ لَهُ عَلَيكَ
+> مِنَ السُّلْطَانِ وَأَنْ تُخلِصَ لَهُ فِي النَّصِيحَةِ وَأَنْ لا
+> تُمَاحِكَهُ وَقَدْ بُسِطْتَ يَدُهُ عَلَيْكَ فَتَكُونَ سَبَبَ هَلاكِ
+> نفْسِكَ وَهلاكِهِ. وتَذَلَّلْ وتَلَطَّفْ لإِعْطَائِهِ مِنَ الرِّضَا
+> مَا يَكُفُّهُ عَنْكَ وَلا يَضُرُّ بدينِكَ وتَسْتَعِينُ عَلَيْهِ فِي
+> ذلِكَ باللهِ. ولا تُعَازَّهُ ولا تُعَانِدَهُ فَإنَّكَ إنْ فَعَلْتَ
+> ذلِكَ عَقَقْتَهُ وَعَقَقْتَ نَفْسَكَ فَعَرَضْتَهَا لِمَكرُوهِهِ
+> وَعَرَضْتَهُ لِلْهَلَكَةِ فِيكَ وَكُنْتَ خَلِيقًا أَنْ تَكُونَ
+> مُعِينًا لَهُ عَلَى نفْسِكَ وَشَرِيكًا لَهُ فِيمَا أَتى إلَيْكَ. وَلا
+> قُوَّةَ إلا باللهِ.
 
 **Then the right of the possessor of authority is that you should know
 that God has established you as a trial for him. God is testing him
@@ -54,16 +46,12 @@ When the “Kharijites”[^1] objected to Imam Ali about the issue of
 “Hakamayn”[^2] and claimed that the verdict lies but with God, Imam Ali
 said:
 
-<blockquote dir="rtl">
-  <p>
-كَلِمَةُ حَقٍّ يُرادُ بهَا باطِلٌ! نَعَمْ إنَّه لا حُكْمَ إلاّ للهِ،
-ولَكِنَّ هؤلاءِ يَقولونَ: لا إمْرَةَ إلاّ للهِ. إنَّه لا بُدّ للنَّاسِ
-مِن أمِيرٍ بَرٍّ أو فاجِرٍ يَعمَلُ في إمْرَتِهِ المُؤمِنُ
-ويَسْتَمْتِعُ بها الكافِرُ ويُبَلِّغُ اللهُ فيها الأجَلَ ويُجمَعُ به
-الفيءُ ويُقاتَلُ بِه العَدُوُّ وتَأمَنُ بها السُّبُلُ ويُؤخَذُ بِه
-للضَّعيفِ مِن القَويِّ حَتىّ يَستريحَ بَرُّ ويُستَراحَ مِن فاجِرٍ.
-  </p>
-</blockquote>
+> كَلِمَةُ حَقٍّ يُرادُ بهَا باطِلٌ! نَعَمْ إنَّه لا حُكْمَ إلاّ للهِ،
+> ولَكِنَّ هؤلاءِ يَقولونَ: لا إمْرَةَ إلاّ للهِ. إنَّه لا بُدّ للنَّاسِ
+> مِن أمِيرٍ بَرٍّ أو فاجِرٍ يَعمَلُ في إمْرَتِهِ المُؤمِنُ
+> ويَسْتَمْتِعُ بها الكافِرُ ويُبَلِّغُ اللهُ فيها الأجَلَ ويُجمَعُ به
+> الفيءُ ويُقاتَلُ بِه العَدُوُّ وتَأمَنُ بها السُّبُلُ ويُؤخَذُ بِه
+> للضَّعيفِ مِن القَويِّ حَتىّ يَستريحَ بَرُّ ويُستَراحَ مِن فاجِرٍ.
 
 *“The statement is right but what (they think) it means is wrong. Yes,
 it is true that verdict lies but with God, but these people say that
@@ -89,17 +77,13 @@ Fazl ibn Shazan quoted Imam Ridha’s views on the necessity of the
 existence of a ruler in the society, and the reasons behind it. He then
 stated that the Imam said:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنها أنّا لا نَجِدُ فِرقَةً مِن الفِرقِ ولا مِلَّةً مِن المِلَلِ
-بَقُوا وَعاشُوا إلا بِقَيِّمٍ وَرَئيسٍ لمَا لا بُدّ لهَمُ مِنهُ في
-أمْرِ الدّينِ وَالدُّنيا، فَلم يَجُزْ في حِكْمَةِ الحَكيمِ أنْ
-يَتْرُكَ الخَلْقَ ممّا يُعلَمُ أنّهُ لا بُدّ لهُمْ مِنهُ ولا قِوامَ
-لهُم إلاّ به، فَيُقاتِلونَ بهِ عَدُوَّهُم وَيُقَسِّمونَ بهِ فَيئَهُم
-وَيُقِيمُ لهُم جَمْعِيَّتَهُم وَجَماعَتَهُم وَيمنَعُ ظالِمَهُم مِن
-مَظلومِهِم.
-  </p>
-</blockquote>
+> وَمِنها أنّا لا نَجِدُ فِرقَةً مِن الفِرقِ ولا مِلَّةً مِن المِلَلِ
+> بَقُوا وَعاشُوا إلا بِقَيِّمٍ وَرَئيسٍ لمَا لا بُدّ لهَمُ مِنهُ في
+> أمْرِ الدّينِ وَالدُّنيا، فَلم يَجُزْ في حِكْمَةِ الحَكيمِ أنْ
+> يَتْرُكَ الخَلْقَ ممّا يُعلَمُ أنّهُ لا بُدّ لهُمْ مِنهُ ولا قِوامَ
+> لهُم إلاّ به، فَيُقاتِلونَ بهِ عَدُوَّهُم وَيُقَسِّمونَ بهِ فَيئَهُم
+> وَيُقِيمُ لهُم جَمْعِيَّتَهُم وَجَماعَتَهُم وَيمنَعُ ظالِمَهُم مِن
+> مَظلومِهِم.
 
 *“One reason to support this view is that there have been no groups or
 nations who have been able to continue living without a leader or ruler,
@@ -121,13 +105,9 @@ leaders and oppressive rulers. Each one has certain characteristics that
 we will briefly outline here. Consider the following verse of the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
-إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاء
-الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
+> إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاء
+> الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
 
 ***“And We made them leaders, guiding (men) by Our Command, and We sent
 them inspiration to do good deeds, to establish regular prayers, and to
@@ -157,13 +137,9 @@ nerves. He was very wise and intelligent. Some say he was called Talut
 because he was very tall.[^5] Consider the following verse of the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الْمَلإِ مِن بَنِي إِسْرَائِيلَ مِن بَعْدِ مُوسَى
-إِذْ قَالُواْ لِنَبِيٍّ لَّهُمُ ابْعَثْ لَنَا مَلِكًا نُّقَاتِلْ فِي
-سَبِيلِ اللّهِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الْمَلإِ مِن بَنِي إِسْرَائِيلَ مِن بَعْدِ مُوسَى
+> إِذْ قَالُواْ لِنَبِيٍّ لَّهُمُ ابْعَثْ لَنَا مَلِكًا نُّقَاتِلْ فِي
+> سَبِيلِ اللّهِ
 
 ***“Hast thou not turned thy vision to the Chiefs of the Children of
 Israel after (the time of) Moses? They said to a Prophet (that was)
@@ -172,16 +148,12 @@ God…." [The Holy Qur’an, al-Baqarah 2:246]***
 
 Also, consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ
-مَلِكًا قَالُوَاْ أَنَّى يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ
-أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ الْمَالِ قَالَ
-إِنَّ اللّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ
-وَالْجِسْمِ وَاللّهُ يُؤْتِي مُلْكَهُ مَن يَشَاء وَاللّهُ وَاسِعٌ
-عَلِيمٌ
-  </p>
-</blockquote>
+> وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ
+> مَلِكًا قَالُوَاْ أَنَّى يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ
+> أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ الْمَالِ قَالَ
+> إِنَّ اللّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ
+> وَالْجِسْمِ وَاللّهُ يُؤْتِي مُلْكَهُ مَن يَشَاء وَاللّهُ وَاسِعٌ
+> عَلِيمٌ
 
 ***Their Prophet said to them: "God hath appointed Talut as king over
 you." They said: "How can he exercise authority over us when we are
@@ -215,18 +187,14 @@ point mentioned by Imam Sajjad is that God will test both the leader and
 his followers. We see an example of this test in the story of Talut as
 we read the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللّهَ مُبْتَلِيكُم
-بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَن لَّمْ يَطْعَمْهُ
-فَإِنَّهُ مِنِّي إِلاَّ مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ فَشَرِبُواْ
-مِنْهُ إِلاَّ قَلِيلاً مِّنْهُمْ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ
-آمَنُواْ مَعَهُ قَالُواْ لاَ طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ
-وَجُنودِهِ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلاَقُو اللّهِ كَم
-مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللّهِ
-وَاللّهُ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللّهَ مُبْتَلِيكُم
+> بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَن لَّمْ يَطْعَمْهُ
+> فَإِنَّهُ مِنِّي إِلاَّ مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ فَشَرِبُواْ
+> مِنْهُ إِلاَّ قَلِيلاً مِّنْهُمْ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ
+> آمَنُواْ مَعَهُ قَالُواْ لاَ طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ
+> وَجُنودِهِ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلاَقُو اللّهِ كَم
+> مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللّهِ
+> وَاللّهُ مَعَ الصَّابِرِينَ
 
 ***When Talut set forth with the armies, he said: “God will test you at
 the stream: if any drinks of its water, He goes not with my army: Only
@@ -246,12 +214,8 @@ Alexander or Zul-qarnain. In this story, Alexander runs into a people
 who hardly understand but are apparently rich and have an enemy.
 Consider the following verse in this regard:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا
-لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا
-  </p>
-</blockquote>
+> حَتَّى إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا
+> لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا
 
 ***“Until, when he reached (a tract) between two mountains, he found,
 beneath them, a people who scarcely understood a word.” [The Holy
@@ -266,17 +230,13 @@ Gog and Magog. They complained to Alexander about them, and offered to
 pay him tribute in order to build a barrier between them and the people
 of Gog and Magog. Consider the following verse in this respect:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ
-فِي الْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَى أَن تَجْعَلَ
-بَيْنَنَا وَبَيْنَهُمْ سَدًّا قال ما مَكَّنِي رَبِّي خَيْرٌ
-فَأعِيْنوني بِقُوَّةٍ أجْعَلْ بَينَكُم وَ بَينَهُمْ رَدْماً آتُونِي
-زُبَرَ الْحَدِيدِ حَتَّى إِذَا سَاوَى بَيْنَ الصَّدَفَيْنِ قَالَ
-انفُخُوا حَتَّى إِذَا جَعَلَهُ نَارًا قَالَ آتُونِي أُفْرِغْ عَلَيْهِ
-قِطْرًا
-  </p>
-</blockquote>
+> قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ
+> فِي الْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَى أَن تَجْعَلَ
+> بَيْنَنَا وَبَيْنَهُمْ سَدًّا قال ما مَكَّنِي رَبِّي خَيْرٌ
+> فَأعِيْنوني بِقُوَّةٍ أجْعَلْ بَينَكُم وَ بَينَهُمْ رَدْماً آتُونِي
+> زُبَرَ الْحَدِيدِ حَتَّى إِذَا سَاوَى بَيْنَ الصَّدَفَيْنِ قَالَ
+> انفُخُوا حَتَّى إِذَا جَعَلَهُ نَارًا قَالَ آتُونِي أُفْرِغْ عَلَيْهِ
+> قِطْرًا
 
 ***“They said: "O Zul-qarnain! The Gog and Magog (People) do great
 mischief on earth: shall we then render thee tribute in order that thou
@@ -297,12 +257,8 @@ instead of being haughty for what he had done, he politely stated that
 his power was that of his Lord’s Mercy on him. The people thanked him.
 This is one of the characteristics of a strong leader. Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-فإنَّ الرَّعِيَّةَ الصّالحَةَ تَنْجو بالإمَامِ العَادِلِ. ألا وإنَّ
-الرَّعِيَّةَ الفاجِرَةَ تُهلَكُ بالإمامِ الفاجِرِ.
-  </p>
-</blockquote>
+> فإنَّ الرَّعِيَّةَ الصّالحَةَ تَنْجو بالإمَامِ العَادِلِ. ألا وإنَّ
+> الرَّعِيَّةَ الفاجِرَةَ تُهلَكُ بالإمامِ الفاجِرِ.
 
 *“The saving of good people depends on their just leader. The
 destruction of bad people is due to their bad leader.”*[^7]
@@ -312,13 +268,9 @@ Recognize Good Leaders and Obey Them
 
 Imam Sadiq narrated that Imam Husayn told his companions:
 
-<blockquote dir="rtl">
-  <p>
-أيُّهَا النّاسُ! إنَّ الله جَلَّ ذِكْرُه ما خَلقَ العِبادَ إلاّ
-لِيَعْرِفُوهُ، فإذا عَرَفُوهُ عَبَدوهُ، فإذَا عَبَدُوهُ اسْتَغْنَوا
-عَن عِبادَةِ ما سِواهُ.
-  </p>
-</blockquote>
+> أيُّهَا النّاسُ! إنَّ الله جَلَّ ذِكْرُه ما خَلقَ العِبادَ إلاّ
+> لِيَعْرِفُوهُ، فإذا عَرَفُوهُ عَبَدوهُ، فإذَا عَبَدُوهُ اسْتَغْنَوا
+> عَن عِبادَةِ ما سِواهُ.
 
 *“O people! God created the people only in order that they get to
 recognize Him. When they recognize Him, they worship Him, and when they
@@ -327,12 +279,8 @@ worship Him they have no need of worshipping other than Him.”*
 A man said: “O’ May my parents be your ransom! How do we get to
 recognize God?” Imam Husayn said:
 
-<blockquote dir="rtl">
-  <p>
-مَعْرِفَةُ أهْلِ كُلِّ زَمانٍ إمامَهُم الّذِي يَجِبُ عَلَيهِمْ
-طاعَتُهُ.
-  </p>
-</blockquote>
+> مَعْرِفَةُ أهْلِ كُلِّ زَمانٍ إمامَهُم الّذِي يَجِبُ عَلَيهِمْ
+> طاعَتُهُ.
 
 *“For each era the people should recognize their own leader whose
 obedience is obligatory for them.”*  
@@ -349,11 +297,7 @@ economics well thought that he could save the people of Egypt. He asked
 to be appointed as the treasurer. Consider the following verse of the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اجْعَلْنِي عَلَى خَزَآئِنِ الأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ
-  </p>
-</blockquote>
+> قَالَ اجْعَلْنِي عَلَى خَزَآئِنِ الأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ
 
 ***“(Joseph) said: "Set me over the store-houses of the land: I will
 indeed guard them, as one that knows (their importance)."[The Holy
@@ -369,12 +313,8 @@ A Just Ruler Deserves to be Respected
 There are many traditions that stress the necessity of respecting a just
 ruler. We shall mention a few of them here. The Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-وَقِّروا السَّلاطِينَ وَبَجِّلوهُمْ فإنَّهُم عِزُّ اللهِ وَظِلُّهُ في
-الأرْضِ إذا كَانوا عُدُولاً.
-  </p>
-</blockquote>
+> وَقِّروا السَّلاطِينَ وَبَجِّلوهُمْ فإنَّهُم عِزُّ اللهِ وَظِلُّهُ في
+> الأرْضِ إذا كَانوا عُدُولاً.
 
 *“Respect and revere the rulers since they are the Glory of God and His
 shadow on earth if they are just.”*[^8]
@@ -382,12 +322,8 @@ shadow on earth if they are just.”*[^8]
 It has been narrated that Umar asked the Prophet of God : “Please inform
 me of a ruler to whom everyone bows in respect.” The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-)هو) ظِلُّ اللهِ في الأرْضِ فإذَا أحْسَنَ فَلَهُ الأجْرُ وَعَلَيكُمُ
-الشُّكْرُ، وإذا أسَاءَ فَعَلَيْهِ الإصْرُ وَعَلَيكُمُ الصَّبْرُ.
-  </p>
-</blockquote>
+> )هو) ظِلُّ اللهِ في الأرْضِ فإذَا أحْسَنَ فَلَهُ الأجْرُ وَعَلَيكُمُ
+> الشُّكْرُ، وإذا أسَاءَ فَعَلَيْهِ الإصْرُ وَعَلَيكُمُ الصَّبْرُ.
 
 *“He is God’s shadow on the earth. Whenever he does some good act, there
 will be a reward for him and you must be grateful to him. Whenever he
@@ -398,15 +334,11 @@ We see that in this tradition the Prophet of God has stressed that we
 should be grateful to just rulers. It has been narrated that Imam Kazim
 advised his followers as follows:
 
-<blockquote dir="rtl">
-  <p>
-لا تُذِلُّوا رِقابَكُم بِتَرْكِ طاعَةِ سُلطانِكُم فإنْ كانَ عادِلاً
-فاسْألوا اللهَ إبْقاءَهُ، وإنْ كانَ جائِراً فاسْألوا اللهَ إصْلاحَهُ،
-فإنَّ صَلاحَكُم في صَلاحِ سُلْطانِكُم، وإنَّ السُّلطانَ العادِلَ
-بِمَنْزِلَةِ الوالِدِ الرَّحيمِ فأحِبُّوا له ما تُحِبُّونَ لأنْفُسِكُم
-وأَكْرِهوا لهُ ما تَكرَهُونَ لأنْفُسِكُم.
-  </p>
-</blockquote>
+> لا تُذِلُّوا رِقابَكُم بِتَرْكِ طاعَةِ سُلطانِكُم فإنْ كانَ عادِلاً
+> فاسْألوا اللهَ إبْقاءَهُ، وإنْ كانَ جائِراً فاسْألوا اللهَ إصْلاحَهُ،
+> فإنَّ صَلاحَكُم في صَلاحِ سُلْطانِكُم، وإنَّ السُّلطانَ العادِلَ
+> بِمَنْزِلَةِ الوالِدِ الرَّحيمِ فأحِبُّوا له ما تُحِبُّونَ لأنْفُسِكُم
+> وأَكْرِهوا لهُ ما تَكرَهُونَ لأنْفُسِكُم.
 
 *“Do not debase yourselves through disobedience to your rulers. If they
 are just rulers, ask God for their prosperity and lasting rule. If they
@@ -419,13 +351,9 @@ We see that the Imam depicts a just ruler as a kind father. He can
 direct the society towards progress, development and perfection, just as
 a kind father raises a good child. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-زَيَّنَ اللهُ السَّماءَ بِثَلاثَةٍ: الشَّمْسِ وَالقَمَرِ وَالكَواكِبِ.
-وَزَيَّنَ الأرْضَ بِثَلاثَةٍ: العُلَماءِ وَالمَطَرِ وَالسُّلْطانِ
-العادِلِ.
-  </p>
-</blockquote>
+> زَيَّنَ اللهُ السَّماءَ بِثَلاثَةٍ: الشَّمْسِ وَالقَمَرِ وَالكَواكِبِ.
+> وَزَيَّنَ الأرْضَ بِثَلاثَةٍ: العُلَماءِ وَالمَطَرِ وَالسُّلْطانِ
+> العادِلِ.
 
 *“God has adorned the heavens with three things: the sun, the moon and
 the stars. He has also adorned the earth with three things: scholars,
@@ -444,12 +372,8 @@ question, he started to write the answer as follows: “A just pagan ruler
 is better than an oppressive Muslim ruler. This is supported by a
 tradition from the Prophet of God , which says:
 
-<blockquote dir="rtl">
-  <p>
-يَبْقى المُلكُ بِالعَدْلِ مَع الكُفْرِ، وَلا يَبْقى بِالجَورِ مَع
-الإيمَانِ.
-  </p>
-</blockquote>
+> يَبْقى المُلكُ بِالعَدْلِ مَع الكُفْرِ، وَلا يَبْقى بِالجَورِ مَع
+> الإيمَانِ.
 
 *Rule lasts if accompanied by justice, even if it is a pagan’s rule.
 However, it will not last by oppression even if it is a Muslim’s
@@ -490,48 +414,32 @@ Forgiving and Overlooking
 Other good characteristics of a ruler are forgiving and overlooking
 people’s minor faults as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ
-لَكُمْ
-  </p>
-</blockquote>
+> وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ
+> لَكُمْ
 
 ***“Let them forgive and overlook, do you not wish that God should
 forgive you?” [The Holy Qur’an, al-Nur 24:22]***
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَدَرتَ عَلى عَدُوِّكَ فاجْعَلِ العَفْوَ عَنْهُ شُكراً
-لِقُدرَتِكَ عَليهِ.
-  </p>
-</blockquote>
+> إذَا قَدَرتَ عَلى عَدُوِّكَ فاجْعَلِ العَفْوَ عَنْهُ شُكراً
+> لِقُدرَتِكَ عَليهِ.
 
 *“Forgive your enemy once you have overcome him, so as to be grateful
 about the blessing of the victory which you have been granted.”*[^13]
 
 In Imam Ali’s letter to Malik al-Ashtar, we read:
 
-<blockquote dir="rtl">
-  <p>
-لا تَنْدَمَنَّ عَلى عَفْوٍ وَلا تَبْجَحَنَّ بِعُقوبَةٍ.
-  </p>
-</blockquote>
+> لا تَنْدَمَنَّ عَلى عَفْوٍ وَلا تَبْجَحَنَّ بِعُقوبَةٍ.
 
 *“Never be sorry about forgiving, and never be pleased with
 punishing.”*[^14]
 
 In the same letter, Imam Ali wrote:
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْطِهِمْ مِنْ عَفْوِكَ وَصَفْحِكَ مِثْلَ الَّذِي تُحِبُّ وَتَرْضى
-أَنْ يُعْطِيَكَ اللهُ مِنْ عَفْوِهِ وَصَفْحِهِ، فَإنَّكَ فَوْقَهُمْ،
-وَوالِي الأَمْرِ عَلَيْكَ فَوْقَكَ، وَاللهُ فَوْقَ مَنْ وَلّاكَ
-  </p>
-</blockquote>
+> فَأَعْطِهِمْ مِنْ عَفْوِكَ وَصَفْحِكَ مِثْلَ الَّذِي تُحِبُّ وَتَرْضى
+> أَنْ يُعْطِيَكَ اللهُ مِنْ عَفْوِهِ وَصَفْحِهِ، فَإنَّكَ فَوْقَهُمْ،
+> وَوالِي الأَمْرِ عَلَيْكَ فَوْقَكَ، وَاللهُ فَوْقَ مَنْ وَلّاكَ
 
 *“Forgive the people as you wish God to grant you His forgiveness. Your
 rank is above them, and the rank of the possessor of the rule is above
@@ -544,11 +452,7 @@ Fulfilling His Engagements
 Another important characteristic of a ruler is that he should fulfill
 his engagements. In this regard, God says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُواْ بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً.
-  </p>
-</blockquote>
+> وَأَوْفُواْ بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً.
 
 ***“And fulfill (every) engagement, for (every) engagement will be
 enquired into (on the Day of Reckoning).” [The Holy Qur’an, Bani Isra’il
@@ -564,16 +468,12 @@ best to pave the way for the elimination of these difficulties and set
 his nation on the path to progress and development. Imam Ali wrote the
 following to Malik al-Ashtar in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمّا بَعْدَ هٰذا فَلا تُطَوِّلَنَّ ﭐحْتِجابَكَ عَنْ رَعِيَّتِكَ،
-فَإنَّ ﭐحْتِجابَ ﭐلْوُلاةِ عَنِ ﭐلرَّعِيَّةِ شُعْبَةٌ مِنَ ﭐلضِّيقِ،
-وَقِلَّةُ عِلْمٍ بِالأُمُورِ، وَﭐلاحْتِجابُ مِنْهُمْ يَقْطَعُ عَنْهُمْ
-عِلْمَ مَا ﭐحْتَجَبُوا دُونَهُ فَيَصْغُرُ عِندَهُمُ ﭐلْكَبِيرُ،
-وَيَعْظُمُ ﭐلصَّغِيرُ، وَيَقْبُحُ ﭐلْحَسَنُ، وَيَحْسُنُ ﭐلْقَبِيحُ وَ
-يُشابُ الحَقُّ بِالباطِلِ.
-  </p>
-</blockquote>
+> وَأَمّا بَعْدَ هٰذا فَلا تُطَوِّلَنَّ ﭐحْتِجابَكَ عَنْ رَعِيَّتِكَ،
+> فَإنَّ ﭐحْتِجابَ ﭐلْوُلاةِ عَنِ ﭐلرَّعِيَّةِ شُعْبَةٌ مِنَ ﭐلضِّيقِ،
+> وَقِلَّةُ عِلْمٍ بِالأُمُورِ، وَﭐلاحْتِجابُ مِنْهُمْ يَقْطَعُ عَنْهُمْ
+> عِلْمَ مَا ﭐحْتَجَبُوا دُونَهُ فَيَصْغُرُ عِندَهُمُ ﭐلْكَبِيرُ،
+> وَيَعْظُمُ ﭐلصَّغِيرُ، وَيَقْبُحُ ﭐلْحَسَنُ، وَيَحْسُنُ ﭐلْقَبِيحُ وَ
+> يُشابُ الحَقُّ بِالباطِلِ.
 
 *“Do not prolong your seclusion from your subjects, for the rulers’
 seclusion from their subjects is a kind of limitation and (results in) a
@@ -589,12 +489,8 @@ Oppressive Rulers
 As we said God has set two kinds of leaders: just ones and oppressive
 ones. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ
-الْقِيَامَةِ لَا يُنصَرُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ
+> الْقِيَامَةِ لَا يُنصَرُونَ
 
 ***“And we made them (but) leaders inviting to the Fire; and on the Day
 of Judgment no help shall they find.” [The Holy Qur’an, al-Qasas
@@ -611,12 +507,8 @@ they are the masters of the residents of Hell, as they were leaders of
 the corrupt people in this world. Thus they are cursed by God in this
 world, and in the next to come as God says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ
-هُم مِّنَ الْمَقْبُوحِينَ
-  </p>
-</blockquote>
+> وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ
+> هُم مِّنَ الْمَقْبُوحِينَ
 
 ***“In this world We made a curse to follow them and on the Day of
 Judgment they will be among the loathed (and despised).” [The Holy
@@ -636,24 +528,16 @@ this world, each leader in the Hereafter also has some followers. Bashar
 ibn Ghalib quoted on the authority of Imam Husayn when asked about the
 interpretation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
-  </p>
-</blockquote>
+> يوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
 
 ***“One day We shall call together all human beings with their
 (respective) Imams.” [The Holy Qur’an, Bani Israil 17:71]***
 
 Imam Husayn said:
 
-<blockquote dir="rtl">
-  <p>
-إمَامٌ دَعا إلى هُدىً فَأجابُوهُ إلَيهِ وَإمامٌ دَعا إلى ضَلالَةٍ
-فَأجَابُوهُ إلَيهِ: هؤلاءِ في الجَنَّةِ وَهؤلاءِ في النّارِ. وَهُو
-قَولُهُ عَزَّ وَجَلَّ: فَريقٌ في الجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ.
-  </p>
-</blockquote>
+> إمَامٌ دَعا إلى هُدىً فَأجابُوهُ إلَيهِ وَإمامٌ دَعا إلى ضَلالَةٍ
+> فَأجَابُوهُ إلَيهِ: هؤلاءِ في الجَنَّةِ وَهؤلاءِ في النّارِ. وَهُو
+> قَولُهُ عَزَّ وَجَلَّ: فَريقٌ في الجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ.
 
 *“A leader invites to guidance and some people follow him. Another
 leader invites to corruption and some people accept his invitation. The
@@ -663,12 +547,8 @@ in the Garden, and some in the Blazing Fire’*** *[Shura 42:7].”*[^17]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ في وِلايَةِ الوالِي الجَائِرِ دُرُوسَ الحَقِّ وَإحْيَاءَ
-البَاطِلِ كِلُّهِ وإظْهارَ الظُّلْمِ وَالجَوْرِ وَالفَسادِ.
-  </p>
-</blockquote>
+> إنَّ في وِلايَةِ الوالِي الجَائِرِ دُرُوسَ الحَقِّ وَإحْيَاءَ
+> البَاطِلِ كِلُّهِ وإظْهارَ الظُّلْمِ وَالجَوْرِ وَالفَسادِ.
 
 *“Truth is erased, falsehood is revived, and injustice, oppression and
 corruption become manifest during the rule of an oppressive ruler.”*
@@ -676,23 +556,15 @@ corruption become manifest during the rule of an oppressive ruler.”*
 
 The Noble Prophet of Islam said:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ شَيءٍ آفَةٌ يُفْسِدُهُ وآفَةُ هَذا الدِّينِ وُلاةُ السُّوءِ.
-  </p>
-</blockquote>
+> لِكُلِّ شَيءٍ آفَةٌ يُفْسِدُهُ وآفَةُ هَذا الدِّينِ وُلاةُ السُّوءِ.
 
 *“For everything there is a blight that corrupts it. The blight of this
 religion is evil rulers.”*[^19]
 
 Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثَةٌ لَيسَ لهُم حُرمَةٌ: صاحِبُ هَوىً مُبْتَدِعٌ وَالإمامُ
-الجائِرُ وَالفاسِقُ المُعْلِنُ فُسوقَهُ.
-  </p>
-</blockquote>
+> ثَلاثَةٌ لَيسَ لهُم حُرمَةٌ: صاحِبُ هَوىً مُبْتَدِعٌ وَالإمامُ
+> الجائِرُ وَالفاسِقُ المُعْلِنُ فُسوقَهُ.
 
 *“There are three groups of people who are not entitled to respect:
 those who have a lust for innovations (in religion), those who are
@@ -708,12 +580,8 @@ An Oppressive Rule: From Light into Darkness
 
 God says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُواْ أَوْلِيَآؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ
-النُّورِ إِلَى الظُّلُمَاتِ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُواْ أَوْلِيَآؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ
+> النُّورِ إِلَى الظُّلُمَاتِ
 
 ***“..Of those who reject faith the patrons are the evil ones: from
 light they will lead them forth into the depths of darkness...” [The
@@ -721,16 +589,12 @@ Holy Qur’an, al-Baqarah 2:257]***
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-لا دِينَ لِمَنْ دانَ بِوِلايَةِ إمامٍ جَائِرٍ ليس مِنَ اللهِ وَلا
-عَتَبَ عَلى مَن دَانَ بِوِلايَةِ إمامٍ عَدْلٍ مِن اللهِ. (قال ابن أبي
-يعفور) قلت: لا دِينَ لأولئِكَ وَلا عَتَبَ عَلى هؤلاءِ؟ فقال عليه
-السّلامُ: نَعَم! لا لا دِينَ لأولئِكَ وَلا عَتَبَ عَلى هؤلاءِ. أمَا
-تَسْمَعُ لِقَولِ اللهِ: اللهُ وَليُّ الَّذِينَ أمَنُوا يُخْرِجُهُم
-مِنَ الظُّلُماتِ الَى النُّورِ.
-  </p>
-</blockquote>
+> لا دِينَ لِمَنْ دانَ بِوِلايَةِ إمامٍ جَائِرٍ ليس مِنَ اللهِ وَلا
+> عَتَبَ عَلى مَن دَانَ بِوِلايَةِ إمامٍ عَدْلٍ مِن اللهِ. (قال ابن أبي
+> يعفور) قلت: لا دِينَ لأولئِكَ وَلا عَتَبَ عَلى هؤلاءِ؟ فقال عليه
+> السّلامُ: نَعَم! لا لا دِينَ لأولئِكَ وَلا عَتَبَ عَلى هؤلاءِ. أمَا
+> تَسْمَعُ لِقَولِ اللهِ: اللهُ وَليُّ الَّذِينَ أمَنُوا يُخْرِجُهُم
+> مِنَ الظُّلُماتِ الَى النُّورِ.
 
 *“Whoever accepts the leadership and rule of an oppressive ruler not
 appointed by God has no religion, and whoever accepts the leadership of
@@ -748,17 +612,13 @@ The following is a part of a letter that Imam Ali wrote to Masqalah b.
 Hubayrah al-Shaybani, who was his representative in a city in the
 province of Fars[^21] called Ardeshir Khorrah:
 
-<blockquote dir="rtl">
-  <p>
-بَلغَني عَنْكَ أمْرٌ انْ فَعَلْتَهُ فَقَدْ أسْخَطْتَ الاهَكَ و
-عَصَيْتَ امامَكَ: إنَّكَ تَقْسِم فَيءَ المُسْلِمينَ الّذي حازَتْهُ
-رِماحُهُم وَخُيولُهُم وَأُرِيقَتْ عَلَيه دِماؤهُمْ في مَن اعْتامَكَ
-مِن أعْرابِ قَومِكَ. فَوالَّذي فَلَقَ الحَبَّةَ وَبَرَءَ النَّسَمَةَ
-لَئِنْ كانَ ذلِكَ حَقّاً لَتَجِدَنَّ بكَ عَلَيَّ هَواناً وَلتَخِفَّنَّ
-عِندي مِيزاناً، فلا تَسْتَهِنْ بِحَقِّ رَبِّكَ ولا تُصْلِح دُنياكَ
-بِمَحْقِ دِينِكَ فَتَكونَ مِن الأخْسَرِينَ أعْمالاً.
-  </p>
-</blockquote>
+> بَلغَني عَنْكَ أمْرٌ انْ فَعَلْتَهُ فَقَدْ أسْخَطْتَ الاهَكَ و
+> عَصَيْتَ امامَكَ: إنَّكَ تَقْسِم فَيءَ المُسْلِمينَ الّذي حازَتْهُ
+> رِماحُهُم وَخُيولُهُم وَأُرِيقَتْ عَلَيه دِماؤهُمْ في مَن اعْتامَكَ
+> مِن أعْرابِ قَومِكَ. فَوالَّذي فَلَقَ الحَبَّةَ وَبَرَءَ النَّسَمَةَ
+> لَئِنْ كانَ ذلِكَ حَقّاً لَتَجِدَنَّ بكَ عَلَيَّ هَواناً وَلتَخِفَّنَّ
+> عِندي مِيزاناً، فلا تَسْتَهِنْ بِحَقِّ رَبِّكَ ولا تُصْلِح دُنياكَ
+> بِمَحْقِ دِينِكَ فَتَكونَ مِن الأخْسَرِينَ أعْمالاً.
 
 *“I have heard things about you that, if true, imply that you have
 raised your Lord’s wrath, and you have disobeyed your leader. I have
@@ -773,14 +633,10 @@ are* ***‘..the greatest losers in their works’” (18:103**).”*[^22]
 
 Then he continues:
 
-<blockquote dir="rtl">
-  <p>
-أمّا بَعدُ، فإنَّ مِن أعْظَمِ الخِيانَةِ خِيانَةَ الأُمَّةِ وَأعْظَمُ
-الغِشِّ عَلى أهْل المِصْرِ غِشُّ الإمَامِ، وَعِنْدَكَ مِن حَقِّ
-المُسلِمينَ خَمُسمِائَةِ ألْفِ دِرْهَمٍ فابْعَثْ بها إليَنا حِين
-يَأتِيكَ رَسُولي.
-  </p>
-</blockquote>
+> أمّا بَعدُ، فإنَّ مِن أعْظَمِ الخِيانَةِ خِيانَةَ الأُمَّةِ وَأعْظَمُ
+> الغِشِّ عَلى أهْل المِصْرِ غِشُّ الإمَامِ، وَعِنْدَكَ مِن حَقِّ
+> المُسلِمينَ خَمُسمِائَةِ ألْفِ دِرْهَمٍ فابْعَثْ بها إليَنا حِين
+> يَأتِيكَ رَسُولي.
 
 *“Moreover, indeed the greatest form of treachery is that done to a
 nation, and the greatest form of deceit against the people of the city
@@ -799,13 +655,9 @@ It has been quoted on the authority of Abu-Dharr: “I told the Prophet of
 God : Will you not appoint me to a government position?” The Prophet
 replied:
 
-<blockquote dir="rtl">
-  <p>
-يَا أبا ذَرٍّ! إنَّكَ ضَعيفٌ وَإنهَّا أمَانَةٌ، وإنهَّا يَومَ
-القِيامَةِ خِزْيٌ وَنَدامَةٌ إلاّ مَن أَخَذَ بحَقِّها وَأدّى الّذي
-عَلَيهِ فيها.
-  </p>
-</blockquote>
+> يَا أبا ذَرٍّ! إنَّكَ ضَعيفٌ وَإنهَّا أمَانَةٌ، وإنهَّا يَومَ
+> القِيامَةِ خِزْيٌ وَنَدامَةٌ إلاّ مَن أَخَذَ بحَقِّها وَأدّى الّذي
+> عَلَيهِ فيها.
 
 *“O Abu-Dharr! You are weak and the rule of a government is a trust. On
 the Day of Judgment it will be a (cause of) disgrace and remorse except
@@ -884,5 +736,4 @@ he had an impressive physique.
 [^23]: Bihar al-Anwar, v.33, p.416.
 
 [^24]: Sharh-i-Risalat al-Huquq, Ghopanchi, v.1, p.374.
-
 

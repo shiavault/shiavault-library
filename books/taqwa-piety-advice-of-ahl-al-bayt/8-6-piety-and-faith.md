@@ -29,4 +29,3 @@ certainty as the highest degree while piety is in between.
 
 [^1]: Al-Kafi, vol. 2, P. 52.
 
-

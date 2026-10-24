@@ -173,4 +173,3 @@ used to feel so much pity (and affection).[^7]
 
 [^7]: Bardashthayi az Seereye Imam Khomeini, Vol 2, Pg. 211
 
-

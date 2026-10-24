@@ -39,11 +39,7 @@ his attitude due to the latter's presence.
 Takbiratul Ihram
 ----------------
 
-<blockquote dir="rtl">
-  <p>
-الله أكبر
-  </p>
-</blockquote>
+> الله أكبر
 
 Allah is Greater
 ----------------
@@ -89,11 +85,7 @@ Following is a simple translation of Suratul *Fatiha:*
 
 ### Suratu' l Fatihah
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***Bismillahir Rahmanir Rahim***
 
@@ -101,11 +93,7 @@ Following is a simple translation of Suratul *Fatiha:*
 Grace and Mercy cover every created being, the Ever-Merciful
 *(al-Rahim),* whose specific Mercy is enjoyed by the believers.
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
 
 ***Alhamdu lillahi Rabbil alamin***
 
@@ -119,11 +107,7 @@ every element of our being; He provides us, out of His Mercy any
 perfection that He wants, and guides us at every step on our way to His
 nearness.)
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمـنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> الرَّحْمـنِ الرَّحِيمِ
 
 ***Al Rahmanir Rahim***
 
@@ -131,11 +115,7 @@ nearness.)
 created being, the Ever-Merciful *(al-Rahim),* whose specific Mercy is
 enjoyed by the believers.
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 ***Maliki yawmiddin***
 
@@ -147,32 +127,20 @@ and can lay any kind of effect on any one of them. Therefore, every sort
 of knowledge, wisdom, wealth, treasure is His, and totally under His
 control. )
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
-  </p>
-</blockquote>
+> إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
 
 ***Iyyaka na'budu wa iyyaka nasta'in***
 
 5. You alone we worship, and from You alone we seek help.
 
-<blockquote dir="rtl">
-  <p>
-اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
-  </p>
-</blockquote>
+> اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
 
 ***Ihdinas siratal mustaqim***
 
 6. (O Allah) Guide us on the straight path.
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
-الضَّالِّينَ
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
+> الضَّالِّينَ
 
 ***Siratal ladhina an'amta \`alayhim ghayril maghdubi \`alayhim walad
 dallin***
@@ -190,11 +158,7 @@ give a simple meaning of the same in the following pages.
 
 ### Surat at-Tawhid
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***Bismillahir Bahmanir Rahim***
 
@@ -202,32 +166,20 @@ give a simple meaning of the same in the following pages.
 Mercy covers every dependent being, the Ever-Merciful *(al-­Rahim),*
 whose specific Mercy is enjoyed by the believers.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَد
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَد
 
 ***Qul Huwallahu Ahad***
 
 2. Say (O Muhammad) He Allah is One (meaning Non-composite He cannot be
 divided like the divisible one. He possesses Infinite existence)
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الصَّمَدُ
-  </p>
-</blockquote>
+> اللَّهُ الصَّمَدُ
 
 ***Allahus Samad***
 
 3. Allah, the Everlasting Refuge [^1]
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَلِدْ وَلَمْ يُولَدْ
-  </p>
-</blockquote>
+> لَمْ يَلِدْ وَلَمْ يُولَدْ
 
 ***Lam yalid wa lam yulad***
 
@@ -235,11 +187,7 @@ divided like the divisible one. He possesses Infinite existence)
 Nature), nor is he begotten (i.e. he did not separate or come out from
 another being)
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ
 
 ***Wa lam yakun lahu kufuwan Ahad***
 
@@ -252,11 +200,7 @@ Ruku' (Bending In Utter Humility)
 Then the musalli bends in humbleness to his Lord, and expresses Allah's
 Immaculate Nature, as follows:
 
-<blockquote dir="rtl">
-  <p>
-سبحان ربي العظيم وبحمده
-  </p>
-</blockquote>
+> سبحان ربي العظيم وبحمده
 
 ***Subhana Rabbiyal \`aDhimi wa bihamdih***
 
@@ -274,11 +218,7 @@ part of our body (our face) on the most insignificant of things (earth).
 
 The *dhikr* of *sujud* is as follows:
 
-<blockquote dir="rtl">
-  <p>
-سبحان ربي الأعلى وبحمده
-  </p>
-</blockquote>
+> سبحان ربي الأعلى وبحمده
 
 ***Subhana Rabbiyal a\`alaa wa bihamdih***
 
@@ -299,5 +239,4 @@ another translation from \`Izzuddin al-Hayek which reads: 'Allah is the
 Eternally Besought of all.' vide p.954, An approximate Translation of
 the meanings of the Honorable Qur'an in the English Language, Dar
 al-Fikr, Lebanon.
-
 

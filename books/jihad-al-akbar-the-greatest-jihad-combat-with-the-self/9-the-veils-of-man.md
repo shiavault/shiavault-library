@@ -66,4 +66,3 @@ and intimate devotions.
 the dark world of nature, but here, by nature is not meant all things
 natural, as opposed to artificial, but unrefined and base. [Tr.]
 
-

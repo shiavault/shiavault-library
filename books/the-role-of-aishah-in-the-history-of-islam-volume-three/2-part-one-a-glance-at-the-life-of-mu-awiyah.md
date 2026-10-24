@@ -67,7 +67,6 @@ In that year which was named "Am al-Jama'ah" Mu'awiyah sat on the seat
 of caliph, and ruled some nineteen years. He died in Rajab of the year
 60 and was buried in Damascus.
 
-
 **Abu Sufyan and Hind**
 
 Controversy over the true identity of Mu'awiyah's father On his
@@ -195,7 +194,6 @@ you?" The Prophet answered: "On the ground of abstaining from adultery."
 Hind said: "Is it possible that a free woman would commit adultery and
 thus contaminate herself?" Though the Prophet was aware of her
 character, he said nothing and only smiled.(19)(20)
-
 
 **The Umayyads in pagan times**
 
@@ -477,5 +475,4 @@ return and destroy the half-vanquished Muslims. But when he heard that
 the Prophet had left the city with a number of Muslim warriors and was
 ready to fight, he and his supporters were overcome with fear, and were
 thus compelled to return to Mecca.
-
 

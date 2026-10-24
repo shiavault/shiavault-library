@@ -117,4 +117,3 @@ adopted without dissent by forty votes with eight states abstaining[^42]
 . The Declaration consisted of Thirty Articles besides a preamble, they
 are as follows.
 
-

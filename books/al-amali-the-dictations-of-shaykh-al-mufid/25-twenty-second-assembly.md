@@ -220,4 +220,3 @@ abundance upon my subsistence; and grant me to be ever thankful to You
 as long as You keep me."  
  And may Allah bless our master Muhammad and his progeny.
 
-

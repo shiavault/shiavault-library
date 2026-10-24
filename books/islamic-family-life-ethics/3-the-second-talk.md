@@ -13,14 +13,10 @@ The Quran says that just as a person should be concerned about his
 hereafter, he should also be concerned about his worldly life. He should
 also be concerned about his natural inclinations and emotions.
 
-<blockquote dir="rtl">
-  <p>
-وَ ابْتَغِ فِيمَا ءَاتَئكَ اللَّهُ الدَّارَ الاَْخِرَةَ وَ لَا تَنسَ
-نَصِيبَكَ مِنَ الدُّنْيَا وَ أَحْسِن كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ
-وَ لَا تَبْغِ الْفَسَادَ فىِ الْأَرْضِ إِنَّ اللَّهَ لَا يحُِبُّ
-الْمُفْسِدِين
-  </p>
-</blockquote>
+> وَ ابْتَغِ فِيمَا ءَاتَئكَ اللَّهُ الدَّارَ الاَْخِرَةَ وَ لَا تَنسَ
+> نَصِيبَكَ مِنَ الدُّنْيَا وَ أَحْسِن كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ
+> وَ لَا تَبْغِ الْفَسَادَ فىِ الْأَرْضِ إِنَّ اللَّهَ لَا يحُِبُّ
+> الْمُفْسِدِين
 
 ***And seek the abode of the hereafter in that which Allah hath given
 thee and neglect not thy portion of the world, and be thou kind even as
@@ -176,12 +172,8 @@ The people who are unable to shoulder the responsibilities of married
 life, those whose hearts have hardened because of committing sin after
 sin, fit the following description given by the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابّ‏ِ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لَا يَعْقِلُون
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابّ‏ِ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لَا يَعْقِلُون
 
 ***Lo! The worst of beasts in Allah’s sight are the deaf, the dumb, who
 have no sense.*** ***(Sura al-Anfal 8:22).***
@@ -195,14 +187,10 @@ cannot see, he has ears but he cannot hear, he owns a heart but is
 unable to understand. Such a person is like a wild animal or even worse
 than that. He paves the way to Hell for himself.
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ الجِْنّ‏ِ وَ الْانسِ
-لهَُمْ قُلُوبٌ لَّا يَفْقَهُونَ بهَِا وَ لهَُمْ أَعْينُ‏ٌ لَّا
-يُبْصِرُونَ بهَِا وَ لهَُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بهَِا أُوْلَئكَ
-كاَلْأَنْعَمِ بَلْ هُمْ أَضَلُّ أُوْلَئكَ هُمُ الْغَفِلُون
-  </p>
-</blockquote>
+> وَ لَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ الجِْنّ‏ِ وَ الْانسِ
+> لهَُمْ قُلُوبٌ لَّا يَفْقَهُونَ بهَِا وَ لهَُمْ أَعْينُ‏ٌ لَّا
+> يُبْصِرُونَ بهَِا وَ لهَُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بهَِا أُوْلَئكَ
+> كاَلْأَنْعَمِ بَلْ هُمْ أَضَلُّ أُوْلَئكَ هُمُ الْغَفِلُون
 
 ***Already have we urged unto Hell many of the jinn and humankind,
 having hearts wherewith they understand not, and having eyes wherewith
@@ -257,13 +245,9 @@ then all Muslims are obliged to help all those in need of help.
 There is a verse of the Holy Quran which, in the Holy month of Ramadan
 everyone, particularly the ladies, must bear in mind. The verse reads:
 
-<blockquote dir="rtl">
-  <p>
-لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ وَ مَن قُدِرَ عَلَيْهِ رِزْقُهُ
-فَلْيُنفِقْ مِمَّا ءَاتَئهُ اللَّهُ لَا يُكلَِّفُ اللَّهُ نَفْسًا
-إِلَّا مَا ءَاتَئهَا
-  </p>
-</blockquote>
+> لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ وَ مَن قُدِرَ عَلَيْهِ رِزْقُهُ
+> فَلْيُنفِقْ مِمَّا ءَاتَئهُ اللَّهُ لَا يُكلَِّفُ اللَّهُ نَفْسًا
+> إِلَّا مَا ءَاتَئهَا
 
 ***Let him who has abundance, spend of his abundance, and he whose
 provision is measured, let him spend of that which Allah hath given him.
@@ -309,12 +293,8 @@ the Prophet (s) some people started indulging in a wrong practice. They
 began to avoid the consumption of good food. It was then that the
 following verse of the Holy Quran was revealed:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتىِ أَخْرَجَ لِعِبَادِهِ وَ
-الطَّيِّبَتِ مِنَ الرِّزْق
-  </p>
-</blockquote>
+> قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتىِ أَخْرَجَ لِعِبَادِهِ وَ
+> الطَّيِّبَتِ مِنَ الرِّزْق
 
 ***Say: who hath forbidden the adornment of Allah which He hath brought
 forth for his bondsmen, and the good things of His providing?***
@@ -394,13 +374,9 @@ for more and more. When you have a wife, you should not desire another
 wife. Spend enough to live in comfort. Quran condemns the expensive way
 of life in strong terms:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا أَرَدْنَا أَن نهُّْلِكَ قَرْيَةً أَمَرْنَا مُترَْفِيهَا
-فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيهَْا الْقَوْلُ فَدَمَّرْنَهَا
-تَدْمِيرًا
-  </p>
-</blockquote>
+> وَ إِذَا أَرَدْنَا أَن نهُّْلِكَ قَرْيَةً أَمَرْنَا مُترَْفِيهَا
+> فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيهَْا الْقَوْلُ فَدَمَّرْنَهَا
+> تَدْمِيرًا
 
 ***And when We would want to destroy a township We sent commandments to
 its folk who live at ease, and afterwards they commit abomination
@@ -413,13 +389,9 @@ to indulge in forbidden acts. The above verse pertains to the way of
 life of communities. But we are now quoting verses from *Sura al Waqiah*
 that deal with the way of life of individuals:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَصحَْبُ الشِّمَالِ مَا أَصحَْبُ الشِّمَال‏ فىِ سمَُومٍ وَ حَمِيم‏
-وَ ظِلٍ‏ّ مِّن يحَْمُوم‏ لَّا بَارِدٍ وَ لَا كَرِيمٍ‏ إِنهَ‏ُمْ
-كاَنُواْ قَبْلَ ذَلِكَ مُترَْفِين
-  </p>
-</blockquote>
+> وَ أَصحَْبُ الشِّمَالِ مَا أَصحَْبُ الشِّمَال‏ فىِ سمَُومٍ وَ حَمِيم‏
+> وَ ظِلٍ‏ّ مِّن يحَْمُوم‏ لَّا بَارِدٍ وَ لَا كَرِيمٍ‏ إِنهَ‏ُمْ
+> كاَنُواْ قَبْلَ ذَلِكَ مُترَْفِين
 
 ***And those on the left hand: What of those on the left hand?In
 scorching wind and scalding water And shadow of black smoke, Neither
@@ -433,12 +405,7 @@ Why do people indulge in sin after sin? It is extravagance, and
 indulging in luxury that drag a person towards sin. This is the reason
 that the Holy Quran has ordained:
 
-<blockquote dir="rtl">
-  <p>
-َ كُلُواْ وَ اشرَْبُواْ وَ لَا تُسرِْفُواْ
-  </p>
-</blockquote>
+> َ كُلُواْ وَ اشرَْبُواْ وَ لَا تُسرِْفُواْ
 
 ***Eat and drink but don’t waste ((Sura al-’Araf*** ***7:31)***
-
 

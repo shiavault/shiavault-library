@@ -1079,4 +1079,3 @@ tabarsi, I\`lam al-Wara, pp. 98; Halabi, op cit, pp. 714.
 
 [^264] “Surely, we have given to you a clear victory. (48:1)
 
-

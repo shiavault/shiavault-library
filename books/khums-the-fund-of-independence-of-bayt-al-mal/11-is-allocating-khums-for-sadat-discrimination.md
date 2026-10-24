@@ -164,4 +164,3 @@ provided in this way.
 
 [^5]: Sahih of Muslim, vol. 2, page 752.
 
-

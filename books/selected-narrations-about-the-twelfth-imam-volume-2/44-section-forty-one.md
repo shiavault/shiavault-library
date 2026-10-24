@@ -51,4 +51,3 @@ will be called al-Ḥarth b. al-Ḥarrāth” and “or he said—to help him”
 Yanābī\` al-mawadda, chap. 72, p. 430; al-Tāj al-Jāmi\` lil-uṣūl, vol.
 5, p. 344, and many other references.
 
-

@@ -213,4 +213,3 @@ According to some narrations of the same tradition, they are to be the
 descendants of Hashim rather than Quraysh, but they are still
 descendants of Abraham as everyone knows.
 
-

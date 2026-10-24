@@ -19,4 +19,3 @@ But what will the intelligent learn from this?
 
 **Imam Al-Ridha’ (a.s.)**
 
-

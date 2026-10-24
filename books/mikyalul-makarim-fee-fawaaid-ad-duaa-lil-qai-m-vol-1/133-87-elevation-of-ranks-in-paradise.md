@@ -29,4 +29,3 @@ book.
 
 [^1]: Tafseer Imam Askari, Pg. 155
 
-

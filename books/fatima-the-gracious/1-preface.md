@@ -79,4 +79,3 @@ Abu - Muhammad Ordoni (Jordanian)
 
 Qum, Zulhijja 20, 1407 A.H. August 16, 1987
 
-

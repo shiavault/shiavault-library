@@ -114,4 +114,3 @@ Banī l-\`Abbās,” p. 166
 the difference that he said: “The velvet” instead of “the victorious”;
 al-\`Arf al-wardī (al-Ḥāwī lil-fatāwī), vol. 2, p. 150.
 
-

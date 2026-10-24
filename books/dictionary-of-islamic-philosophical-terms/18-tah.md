@@ -47,4 +47,3 @@ by an intelligence, is guided by reason and directed towards an ethical
 goal. (Online text and also in English translation (B. Jowett) of the
 text is available online)
 
-

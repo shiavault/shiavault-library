@@ -172,4 +172,3 @@ God, the Most exalted, has said: \`Learned discussion between My
 servants enlivens their hearts if it leads them towards My command.'
 [^29]
 
-

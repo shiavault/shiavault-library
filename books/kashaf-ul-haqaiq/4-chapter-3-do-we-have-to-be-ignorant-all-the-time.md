@@ -76,9 +76,7 @@ from the wrong source then our efforts would be in vain, time would be
 wasted and we would be sinners. Come, let us ask the Holy Quran as to
 whom we should seek knowledge from.
 
-<p dir="rtl">
 فَلْيَنظُرِ الْإِنسَانُ إِلَى طَعَامِهِ
-</p>
 
 [Shakir 80:24] Then let man look to his food,
 
@@ -140,5 +138,4 @@ the above knowledge and the third is that class of people who are
 uneducated. They follow every pretender and accept every slogan, they
 have neither acquired any knowledge nor have they secured any support of
 firm and rational convictions.” - Nahj Ul Balagah Saying No. 146
-
 

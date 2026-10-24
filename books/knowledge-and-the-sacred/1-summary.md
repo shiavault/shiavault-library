@@ -13,9 +13,7 @@ another throughout history.*
 **KEY WORDS: Islam, Iran, Sacred, Secular, Tradition, Knowledge,
 Science, History, Oriental, Philosophy**
 
-<p dir="rtl">
 • • • • •
-</p>
 
 In Knowledge and the Sacred Nasr explores the human quest for knowledge
 and proposes that throughout human history men and women have searched
@@ -135,5 +133,4 @@ spiritual freedom and liberation which alone is worthy of man if only he
 were to realize who he is.”
 
 **Heather McDivitt, University of Edinburgh**
-
 

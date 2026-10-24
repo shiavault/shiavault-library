@@ -189,4 +189,3 @@ prayer only for myself”*.
 *Ayatullah Jawādi Āmulī*  
   
 
-

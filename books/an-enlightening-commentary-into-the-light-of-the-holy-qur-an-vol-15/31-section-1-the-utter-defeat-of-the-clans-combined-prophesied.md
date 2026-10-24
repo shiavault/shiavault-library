@@ -4,32 +4,16 @@ Section 1: The Utter Defeat of the Clans Combined, Prophesied
 Surah Sad - Verses 1-3
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-ص وَالْقُرْءَانِ ذِي الذّ‌ِكْرِ
-  </p>
-</blockquote>
+> ص وَالْقُرْءَانِ ذِي الذّ‌ِكْرِ
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ
-  </p>
-</blockquote>
+> بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ
 
-<blockquote dir="rtl">
-  <p>
-كَمْ أَهْلَكْنَا مِن قَبْلِهِم مّـِن قَرْنٍ فَنَادَوْا وَّلاَتَ حِينَ
-مَنَاصٍ
-  </p>
-</blockquote>
+> كَمْ أَهْلَكْنَا مِن قَبْلِهِم مّـِن قَرْنٍ فَنَادَوْا وَّلاَتَ حِينَ
+> مَنَاصٍ
 
 ***1. “Sad (s). By the Qur’an, full of admonition,”***  
 ***2. “Nay, those who disbelieve are in false pride and
@@ -230,12 +214,8 @@ the second time.
 Surah Sad - Verse 4
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَجِبُوا أَن جَآءَهُم مُّنذِرٌ مّـِنْهُمْ وَقَالَ الْكَافِرُونَ
-هَذَا سَاحِرٌ كَذَّابٌ
-  </p>
-</blockquote>
+> وَعَجِبُوا أَن جَآءَهُم مُّنذِرٌ مّـِنْهُمْ وَقَالَ الْكَافِرُونَ
+> هَذَا سَاحِرٌ كَذَّابٌ
 
 ***4. “And they did wonder that a Warner from among themselves came to
 them, and the disbelievers said: ‘This is a lying sorcerer’.”***
@@ -340,25 +320,13 @@ spoke against them in his claim as a prophet from the side of Allah.
 Surah Sad - Verses 5-7
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَجَعَلَ الأَلِهَةَ إِلَهاَ وَاحِداً إِنَّ هَذَا لَشَيْءٌ عُجَابٌ
-  </p>
-</blockquote>
+> أَجَعَلَ الأَلِهَةَ إِلَهاَ وَاحِداً إِنَّ هَذَا لَشَيْءٌ عُجَابٌ
 
-<blockquote dir="rtl">
-  <p>
-وَانطَلَقَ الْمَلأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَي
-ءَالِهَتِكُمْ اِنَّ هَذَا لَشَيْءٌ يُرَادُ
-  </p>
-</blockquote>
+> وَانطَلَقَ الْمَلأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَي
+> ءَالِهَتِكُمْ اِنَّ هَذَا لَشَيْءٌ يُرَادُ
 
-<blockquote dir="rtl">
-  <p>
-مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الأَخِرَةِ إِنْ هَذَآ إِلاَّ
-اخْتِلاَقٌ
-  </p>
-</blockquote>
+> مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الأَخِرَةِ إِنْ هَذَآ إِلاَّ
+> اخْتِلاَقٌ
 
 ***5. “Has he made gods (all) into One God? This is indeed a strange
 thing!”***  
@@ -478,31 +446,15 @@ its falseness.
 Surah Sad - Verses 8-11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَءُنزِلَ عَلَيْهِ الذّ‌ِكْرُ مِن بَيْنِنَا بَلْ هُمْ فِي شَكٍّ مِن
-ذِكْرِي بَل لَّمَّا يَذُوقُوا عَذَابِ
-  </p>
-</blockquote>
+> أَءُنزِلَ عَلَيْهِ الذّ‌ِكْرُ مِن بَيْنِنَا بَلْ هُمْ فِي شَكٍّ مِن
+> ذِكْرِي بَل لَّمَّا يَذُوقُوا عَذَابِ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبّـِكَ الْعَزِيزِ الْوَهَّابِ
-  </p>
-</blockquote>
+> أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبّـِكَ الْعَزِيزِ الْوَهَّابِ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُم مُلْكُ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا
-فَلْيَرْتَقُوا فِي الأَسْبَابِ
-  </p>
-</blockquote>
+> أَمْ لَهُم مُلْكُ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا
+> فَلْيَرْتَقُوا فِي الأَسْبَابِ
 
-<blockquote dir="rtl">
-  <p>
-جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مّـِنَ الأَحْزَابِ
-  </p>
-</blockquote>
+> جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مّـِنَ الأَحْزَابِ
 
 ***8. “Has the Reminder been sent down (only) on him out of us all? Nay,
 they are in doubt about My Reminder, nay, they have not yet tasted My
@@ -707,5 +659,4 @@ Nur-uth-Thaqalayn, Vol. 4, P. 442
 [^7]: 1Sura Al-’Anfal, No. 8, verse 26
 
 [^8]: Surah ’Al-i-‘Imran, No. 3, verse 120
-
 

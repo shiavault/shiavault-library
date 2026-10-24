@@ -240,4 +240,3 @@ continues to be current. The enemies of Islām never sleep and nor do we.
  Northern State University  
  Aberdeen, South Dakota
 
-

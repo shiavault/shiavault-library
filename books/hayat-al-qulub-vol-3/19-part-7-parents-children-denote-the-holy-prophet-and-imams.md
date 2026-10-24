@@ -6,11 +6,7 @@ followers
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَوَالِدٍ وَمَا وَلَدَ.
-  </p>
-</blockquote>
+> وَوَالِدٍ وَمَا وَلَدَ.
 
 ***And the begetter and whom he begot. (Sura Balad 90:3)***
 
@@ -31,11 +27,7 @@ quoted with reliable chains of narrators that begetter is Hazrat Ali
 Likewise with reliable chains of narrators Imam Sadiq (a.s.) is quoted
 that he has, while explaining the Divine verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْتَ حِلٌّ بِهَذَا الْبَلَدِ. وَوَالِدٍ وَمَا وَلَدَ.
-  </p>
-</blockquote>
+> وَأَنْتَ حِلٌّ بِهَذَا الْبَلَدِ. وَوَالِدٍ وَمَا وَلَدَ.
 
 ***And you shall be made free from obligation in this city. And the
 begetter and whom he begot. (Sura Balad 90:2-3)***
@@ -48,11 +40,7 @@ In *Kafi*, according to reliable chains of narrators, Asbagh bin Nubatah
 is reported to have asked Amirul Momineen (a.s.) about the Tafsir of the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-أَنْ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ.
-  </p>
-</blockquote>
+> أَنْ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ.
 
 ***Be grateful to Me and to both your parents; to Me is the eventual
 coming.(Sura Luqman 31:14)***
@@ -65,11 +53,7 @@ towards Me’ and the basis of this explanation is the word parents. Then
 Ali (a.s.) turned the direction of the word towards the first and the
 second, and said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَاهَدَاكَ عَلى أَنْ تُشْرِكَ بِي…
-  </p>
-</blockquote>
+> وَإِنْ جَاهَدَاكَ عَلى أَنْ تُشْرِكَ بِي…
 
 ***And if they contend with you that you should associate with Me… (Sura
 Luqman:15)***
@@ -81,11 +65,7 @@ so and you should not hear them. Then the Hazrat turned the statement
 towards the parents and said: ‘Make people aware of his grace and order
 them to obey him.’ This is the meaning of Allah’s command:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ.
-  </p>
-</blockquote>
+> وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ.
 
 ***And follow the way of him who turns to Me. (Sura Luqman 31:15)***
 
@@ -96,12 +76,8 @@ their anger is the reason of Allah’s anger.[^1]
 In *Tafsir Furat*, Imam Ja’far (a.s.) is quoted in the explanation of
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ
-إِحْسَانًا وَبِذِي الْقُرْبَى.
-  </p>
-</blockquote>
+> وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ
+> إِحْسَانًا وَبِذِي الْقُرْبَى.
 
 ***And serve Allah and do not associate any thing with Him and be good
 to the parents and to the near of kin. (Sura Nisa 4:36)***
@@ -113,12 +89,8 @@ Imam Sadiq (a.s.) said that the Holy Prophet and Ali Ibne Abi Talib
 In the *Tafsir* of Imam Hasan Askari (a.s.), while explaining the divine
 words:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي
-الْقُرْبَى.
-  </p>
-</blockquote>
+> لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي
+> الْقُرْبَى.
 
 ***You shall not serve any but Allah and (you shall do) good to (your)
 parents, and to the near of kin. (Sura Baqara 2:83)***
@@ -496,11 +468,7 @@ and kindness regarding we Ahlul Bayt (a.s.).
 Ibne Shahr Aashob has explaining this verse, quoted Imam Muhammad Baqir
 (a.s.) that in the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا اللهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرْحَامَ.
-  </p>
-</blockquote>
+> وَاتَّقُوا اللهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرْحَامَ.
 
 **“And be careful of (your duty to) Allah, by Whom you demand one of
 another (your rights), and (to) the ties of relationship. (Sura Nisa
@@ -569,16 +537,12 @@ and honey thereby. Imam Husain (a.s.) has not suckled from any woman.
 His blood and flesh were made up (nourished) by the saliva of the Holy
 Prophet (S). A hint of this is found in the divine words:
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
-كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
-حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
-أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنْ الْمُسْلِمِينَ.
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
+> كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
+> حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
+> أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنْ الْمُسْلِمِينَ.
 
 ***And We have enjoined on man doing of good to his parents; with
 trouble did his mother bear him and with trouble did she bring him
@@ -614,11 +578,7 @@ progeny would have been Imams.
 
 And, in the explanation of the Holy Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ.
-  </p>
-</blockquote>
+> وَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ.
 
 ***And give to the near of kin his due and (to) the needy. (Sura Israa
 17:26)***
@@ -650,5 +610,4 @@ pronouncing it with Fath (Zabar) and Hamza, while one of the seven
 reciters, has pronounced it with Kasr (Zer) but the basis of both
 traditions is on the first recitation (pronunciation) meaning ‘refrain
 from cutting off Rahm.’
-
 

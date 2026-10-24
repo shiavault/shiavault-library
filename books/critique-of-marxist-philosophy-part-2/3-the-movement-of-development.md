@@ -132,4 +132,3 @@ theology rests, by holding that since truth moves and grows there can be
 no fixed and absolute truth. Second, by denying absolute falsity it
 seeks to make all truth relative.
 
-

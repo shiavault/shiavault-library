@@ -1,25 +1,17 @@
 Right n. 27: The Right of the Freed Slave
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-حق المولى الجارية عليه نعمتك
-  </p>
-</blockquote>
+> حق المولى الجارية عليه نعمتك
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ مَوْلاكَ الْجَارِيَةِ عَلَيْهِ نِعْمَتُكَ فَأَنْ
-تَعْلَمَ أَنَّ اللهَ جَعَلَكَ حَامِيَةً عَلَيْهِ، وَوَاقِيَةً وناصِرًا
-وَمَعْقِلاً، وَجَعَلَهُ لَكَ وَسِيلَةً وَسَبَباً بَيْنَكَ وَبَيْنَهُ
-فَبالْحَرِيِّ أَنْ يَحْجُبَكَ عَنِ النَّارِ فَيَكُونَ فِي ذَلِكَ
-ثَوَابٌ مِنْهُ فِي الآجِلِ، ويَحْكُمُ لَكَ بمِيرَاثِهِ فِي الْعَاجِلِ
-إذَا لم يَكُنْ لَهُ رَحِمٌ، مُكَافَأَةً لِمَا أَنفَقْتَهُ مِنْ مَالِكَ
-عَلَيْهِ وَقُمْتَ بهِ مِنْ حَقِّهِ بَعْدَ إنفَاقِ مَالِكَ، فَإنْ لَمْ
-تَقُمْ بحَقِّهِ خِيفَ عَلَيْكَ أَنْ لا يَطِيبَ لَكَ مِيرَاثُهُ. وَلا
-قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ مَوْلاكَ الْجَارِيَةِ عَلَيْهِ نِعْمَتُكَ فَأَنْ
+> تَعْلَمَ أَنَّ اللهَ جَعَلَكَ حَامِيَةً عَلَيْهِ، وَوَاقِيَةً وناصِرًا
+> وَمَعْقِلاً، وَجَعَلَهُ لَكَ وَسِيلَةً وَسَبَباً بَيْنَكَ وَبَيْنَهُ
+> فَبالْحَرِيِّ أَنْ يَحْجُبَكَ عَنِ النَّارِ فَيَكُونَ فِي ذَلِكَ
+> ثَوَابٌ مِنْهُ فِي الآجِلِ، ويَحْكُمُ لَكَ بمِيرَاثِهِ فِي الْعَاجِلِ
+> إذَا لم يَكُنْ لَهُ رَحِمٌ، مُكَافَأَةً لِمَا أَنفَقْتَهُ مِنْ مَالِكَ
+> عَلَيْهِ وَقُمْتَ بهِ مِنْ حَقِّهِ بَعْدَ إنفَاقِ مَالِكَ، فَإنْ لَمْ
+> تَقُمْ بحَقِّهِ خِيفَ عَلَيْكَ أَنْ لا يَطِيبَ لَكَ مِيرَاثُهُ. وَلا
+> قُوَّةَ إلا باللهِ.
 
 **And the right of the slave whom you have favored**[^1] **is that you
 should know that**[^2] **God has established you as his supporter, and
@@ -69,12 +61,8 @@ In the second tradition in section one of the Chapter Itaq in Wasa\`il
 al-Shī\`ah we read: “Zurarah quoted on the authority of Imam Baqir on
 the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أعْتَقَ مُسلِماً أعتَقَ اللهُ العَزيزُ الجَبّارُ بِكُلِّ عُضْوٍ
-مِنهُ عُضْواً مِن النّارِ.
-  </p>
-</blockquote>
+> مَنْ أعْتَقَ مُسلِماً أعتَقَ اللهُ العَزيزُ الجَبّارُ بِكُلِّ عُضْوٍ
+> مِنهُ عُضْواً مِن النّارِ.
 
 *“God the Honorable, the Almighty shall rescue from the Fire (of Hell)
 the body parts of whoever frees a Muslim slave - a part for a
@@ -84,12 +72,8 @@ Imam Sadiq narrated that once Fatima the daughter of Asad went to see
 the Prophet and said: “I have decided to free my slave maid.” The
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إنْ فَعَلتِ أعْتَقَ اللهُ بِكُلِّ عُضْوٍ مِنها عُضواً مِنكِ مِن
-النّارِ.
-  </p>
-</blockquote>
+> إنْ فَعَلتِ أعْتَقَ اللهُ بِكُلِّ عُضْوٍ مِنها عُضواً مِنكِ مِن
+> النّارِ.
 
 *“If you do that, then for every body-part of hers, God will free a
 corresponding part of your body from the Fire (of Hell).”*[^4]
@@ -99,12 +83,8 @@ Shiite Imams and Freeing Slaves
 
 In another tradition in the same chapter, we read that Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنّ أبا جَعْفَرٍ عَلَيهِ السّلامُ ماتَ وَتَركَ سِتّينَ مَملوكاً
-فَأعْتَقَ ثُلُثَهُم عِندَ مَوتِهِ.
-  </p>
-</blockquote>
+> إنّ أبا جَعْفَرٍ عَلَيهِ السّلامُ ماتَ وَتَركَ سِتّينَ مَملوكاً
+> فَأعْتَقَ ثُلُثَهُم عِندَ مَوتِهِ.
 
 *“Imam Baqir had sixty slaves. At the time of his death, he freed twenty
 of them.”*[^5]
@@ -126,5 +106,4 @@ reward is the Garden.”
 [^4]: Ibid.
 
 [^5]: Ibid.
-
 

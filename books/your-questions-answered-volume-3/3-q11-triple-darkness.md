@@ -180,4 +180,3 @@ seen that miracle and still refused to accept it, by pretending that it
 was a sorcery. Surely there had happened some thing which made the
 unbelievers use the word "sorcery".
 
-

@@ -599,4 +599,3 @@ Al-Fotouhat-Islamiah. Also refer to the book of 'Shaikh-ul-Abtah'
 written by our cousin Sayyid Muhammad Ali Sharafuddin Aamali which
 thought to be the best book in this regard.
 
-

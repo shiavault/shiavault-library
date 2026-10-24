@@ -52,7 +52,6 @@ pilgrimage because of the delay, the obligation to perform the
 pilgrimage does not become fixed on him, even though his delay was
 excusable.
 
-
 CONDITIONS WHICH MAKE HIJJATUL ISLAM OBLIGATORY
 
 **The First Condition: Puberty**
@@ -805,5 +804,4 @@ possible, even begging but not to the stage of hardship and anguish. If
 he dies, the pilgrimage has to be performed for him by way of qadha even
 if someone performs it gratuitously for him instead of requiring
 reward.
-
 

@@ -22,71 +22,27 @@ myself, by being after the worldly desires
 Now I am returning back to Allah from my sins of overdoing and ignorance
 and ask for his forgiveness.[^1]
 
-<blockquote dir="rtl">
-  <p>
-المنان
-  </p>
-</blockquote>
+> المنان
 
-<blockquote dir="rtl">
-  <p>
-إلهٌ لاً إلَهَ لَنَا سِوَاهُ
-  </p>
-</blockquote>
+> إلهٌ لاً إلَهَ لَنَا سِوَاهُ
 
-<blockquote dir="rtl">
-  <p>
-رَؤُوفٌ بِالبَرِيةِ ذو امتِنَانِ
-  </p>
-</blockquote>
+> رَؤُوفٌ بِالبَرِيةِ ذو امتِنَانِ
 
-<blockquote dir="rtl">
-  <p>
-أُوَحِّدُهُ بِاخلاَصٍ وَ حَمدٍ
-  </p>
-</blockquote>
+> أُوَحِّدُهُ بِاخلاَصٍ وَ حَمدٍ
 
-<blockquote dir="rtl">
-  <p>
-وَ شُکرٍ بالضَّمِيرِ وَ بِاللِّسَانِ
-  </p>
-</blockquote>
+> وَ شُکرٍ بالضَّمِيرِ وَ بِاللِّسَانِ
 
-<blockquote dir="rtl">
-  <p>
-وَ أَفنَيتُ الحَياةَ وَ لَم أَصُنهَا
-  </p>
-</blockquote>
+> وَ أَفنَيتُ الحَياةَ وَ لَم أَصُنهَا
 
-<blockquote dir="rtl">
-  <p>
-وَ زُغتُ إلي البَطَالَةِ وَ التَّوانِي
-  </p>
-</blockquote>
+> وَ زُغتُ إلي البَطَالَةِ وَ التَّوانِي
 
-<blockquote dir="rtl">
-  <p>
-وَ أَسأَلُهُ الرِّضَاعَنِّي فَإنِّي
-  </p>
-</blockquote>
+> وَ أَسأَلُهُ الرِّضَاعَنِّي فَإنِّي
 
-<blockquote dir="rtl">
-  <p>
-ظَلَمتُ النَّفسَ فِي طَلَبِ الأمَانِي
-  </p>
-</blockquote>
+> ظَلَمتُ النَّفسَ فِي طَلَبِ الأمَانِي
 
-<blockquote dir="rtl">
-  <p>
-إلَيهِ أتُوبُ مِن ذَنبِي وَ جَهلِي
-  </p>
-</blockquote>
+> إلَيهِ أتُوبُ مِن ذَنبِي وَ جَهلِي
 
-<blockquote dir="rtl">
-  <p>
-وَ إسرافي وَ خَلعِي لِلعَنَانِ
-  </p>
-</blockquote>
+> وَ إسرافي وَ خَلعِي لِلعَنَانِ
 
 Passing through Mortal World
 ----------------------------
@@ -104,71 +60,27 @@ up in doom
 And the ones living in it will have to migrate from here in haste, even
 if they wanted to stay here.[^2]
 
-<blockquote dir="rtl">
-  <p>
-مرور من عالم الفاني
-  </p>
-</blockquote>
+> مرور من عالم الفاني
 
-<blockquote dir="rtl">
-  <p>
-تَبارَک ذُو العُلَا وَ الکِبرياءِ
-  </p>
-</blockquote>
+> تَبارَک ذُو العُلَا وَ الکِبرياءِ
 
-<blockquote dir="rtl">
-  <p>
-تَفَرَّدَ بالجَلَالِ وَ بِالبَقَاءِ
-  </p>
-</blockquote>
+> تَفَرَّدَ بالجَلَالِ وَ بِالبَقَاءِ
 
-<blockquote dir="rtl">
-  <p>
-وَ سَوَّي المَوتُ بَينَ الخَلقِ طُرّاً
-  </p>
-</blockquote>
+> وَ سَوَّي المَوتُ بَينَ الخَلقِ طُرّاً
 
-<blockquote dir="rtl">
-  <p>
-وَ کُلُّهُم رَهَائِنُ لِلفَنَاءِ
-  </p>
-</blockquote>
+> وَ کُلُّهُم رَهَائِنُ لِلفَنَاءِ
 
-<blockquote dir="rtl">
-  <p>
-وَ دُنيانَا- وَإن مِلنَا إلَيهَا
-  </p>
-</blockquote>
+> وَ دُنيانَا- وَإن مِلنَا إلَيهَا
 
-<blockquote dir="rtl">
-  <p>
-وَ طَالَ بِهَا المَتَاع - إلي انقِضَاءِ
-  </p>
-</blockquote>
+> وَ طَالَ بِهَا المَتَاع - إلي انقِضَاءِ
 
-<blockquote dir="rtl">
-  <p>
-ألاَ إنَّ الرُّکُونَ عَلي غُرُورٍ
-  </p>
-</blockquote>
+> ألاَ إنَّ الرُّکُونَ عَلي غُرُورٍ
 
-<blockquote dir="rtl">
-  <p>
-إلي دَارَ الفَنَاءِ مِنَ الفَنَاءِ
-  </p>
-</blockquote>
+> إلي دَارَ الفَنَاءِ مِنَ الفَنَاءِ
 
-<blockquote dir="rtl">
-  <p>
-وَ قَاطِنُهَا سَريعُ الظَّعنِ عَنهَا
-  </p>
-</blockquote>
+> وَ قَاطِنُهَا سَريعُ الظَّعنِ عَنهَا
 
-<blockquote dir="rtl">
-  <p>
-وَ إن کَانَ الحَرِيصُ عَلَي الثَّوَاءِ
-  </p>
-</blockquote>
+> وَ إن کَانَ الحَرِيصُ عَلَي الثَّوَاءِ
 
 Sparse Butterflies
 ------------------
@@ -185,71 +97,27 @@ thought of income and wealth has corrupted and ruined your soul
 Behold! Why are you oblivious to yourself? And why are you in pursuit of
 desires and are in pursuit of your body’s welfare and comfort?[^3]
 
-<blockquote dir="rtl">
-  <p>
-فراشات متناثرة
-  </p>
-</blockquote>
+> فراشات متناثرة
 
-<blockquote dir="rtl">
-  <p>
-عَظيمُ هَولُهُ وَ النَّاسُ فِيهِ
-  </p>
-</blockquote>
+> عَظيمُ هَولُهُ وَ النَّاسُ فِيهِ
 
-<blockquote dir="rtl">
-  <p>
-حَيارَي مِثلَ مَبثُوثِ الفَرَاشِ
-  </p>
-</blockquote>
+> حَيارَي مِثلَ مَبثُوثِ الفَرَاشِ
 
-<blockquote dir="rtl">
-  <p>
-بِهِ تَتَغَيرُ الألوَانُ خَوفاً
-  </p>
-</blockquote>
+> بِهِ تَتَغَيرُ الألوَانُ خَوفاً
 
-<blockquote dir="rtl">
-  <p>
-وَ تَصطَکُّ الفَرائِصُ بِار تِعَاشِ
-  </p>
-</blockquote>
+> وَ تَصطَکُّ الفَرائِصُ بِار تِعَاشِ
 
-<blockquote dir="rtl">
-  <p>
-هُنَا لِکَ کُلُّ مَا قَدَّمتَ يبدُو
-  </p>
-</blockquote>
+> هُنَا لِکَ کُلُّ مَا قَدَّمتَ يبدُو
 
-<blockquote dir="rtl">
-  <p>
-فَعَيبُکَ ظَاهِرُ والسِّرُّ فَاشِ
-  </p>
-</blockquote>
+> فَعَيبُکَ ظَاهِرُ والسِّرُّ فَاشِ
 
-<blockquote dir="rtl">
-  <p>
-تَفَقَّد نَقصَ نَفسِکَ کَلَّ يوم
-  </p>
-</blockquote>
+> تَفَقَّد نَقصَ نَفسِکَ کَلَّ يوم
 
-<blockquote dir="rtl">
-  <p>
-فَقَد أَودي بِهَا طَلَبُ المَعَاشِ
-  </p>
-</blockquote>
+> فَقَد أَودي بِهَا طَلَبُ المَعَاشِ
 
-<blockquote dir="rtl">
-  <p>
-أَلا لِمَ تَبتَغِي الشَّهَوَاتِ طَوراً
-  </p>
-</blockquote>
+> أَلا لِمَ تَبتَغِي الشَّهَوَاتِ طَوراً
 
-<blockquote dir="rtl">
-  <p>
-وَ طَوراً تَکتَسي لِينَ الرِّياشِ؟
-  </p>
-</blockquote>
+> وَ طَوراً تَکتَسي لِينَ الرِّياشِ؟
 
 Frightful Day
 -------------
@@ -268,71 +136,27 @@ noble and honourable people
 But of course, Allah will be much more merciful than ever on that day;
 great is Allah who is the Creator of every human being.[^4]
 
-<blockquote dir="rtl">
-  <p>
-يوم المهيب
-  </p>
-</blockquote>
+> يوم المهيب
 
-<blockquote dir="rtl">
-  <p>
-وَ لَم يمرُر بِهِ يومٌ فَظِيعٌ
-  </p>
-</blockquote>
+> وَ لَم يمرُر بِهِ يومٌ فَظِيعٌ
 
-<blockquote dir="rtl">
-  <p>
-أَشَدُّ عَلَيهِ مَن يومِ الحِمَامِ
-  </p>
-</blockquote>
+> أَشَدُّ عَلَيهِ مَن يومِ الحِمَامِ
 
-<blockquote dir="rtl">
-  <p>
-وَ يومُ الحَشرِ أَفظَعُ مِنهُ هَولاً
-  </p>
-</blockquote>
+> وَ يومُ الحَشرِ أَفظَعُ مِنهُ هَولاً
 
-<blockquote dir="rtl">
-  <p>
-إِذَا وَقَفَ الخَلاَئِقُ بَالمَقَامِ
-  </p>
-</blockquote>
+> إِذَا وَقَفَ الخَلاَئِقُ بَالمَقَامِ
 
-<blockquote dir="rtl">
-  <p>
-فَکَم مِن ظَالِمٍ يبقَي ذَلِيلاً
-  </p>
-</blockquote>
+> فَکَم مِن ظَالِمٍ يبقَي ذَلِيلاً
 
-<blockquote dir="rtl">
-  <p>
-وَ مَظلُومٍ تَشَمَّرَ لِلخِصَامِ
-  </p>
-</blockquote>
+> وَ مَظلُومٍ تَشَمَّرَ لِلخِصَامِ
 
-<blockquote dir="rtl">
-  <p>
-وَ شَخصِ کَانَ فِي الدُّنيا فَقيراً
-  </p>
-</blockquote>
+> وَ شَخصِ کَانَ فِي الدُّنيا فَقيراً
 
-<blockquote dir="rtl">
-  <p>
-تَبَوَّأَ مَنزِلَ النُّجبِ الکِرامِ
-  </p>
-</blockquote>
+> تَبَوَّأَ مَنزِلَ النُّجبِ الکِرامِ
 
-<blockquote dir="rtl">
-  <p>
-وَ عَفوُ اللهِ أَوسَعُ کُلِّ شَيءٍ
-  </p>
-</blockquote>
+> وَ عَفوُ اللهِ أَوسَعُ کُلِّ شَيءٍ
 
-<blockquote dir="rtl">
-  <p>
-تَعَالَي اللهُ خَلاَّقُ الأنَامِ
-  </p>
-</blockquote>
+> تَعَالَي اللهُ خَلاَّقُ الأنَامِ
 
 Separation due to Death
 -----------------------
@@ -349,71 +173,27 @@ profit of this world is very less and such less profit is of no use
 Even such less profit is hard to get as if its hanging between the
 teeth’s of wild beasts.[^5]
 
-<blockquote dir="rtl">
-  <p>
-افتراق بالموت
-  </p>
-</blockquote>
+> افتراق بالموت
 
-<blockquote dir="rtl">
-  <p>
-لِکُلِّ تَفَرُّقِ الدِّنيا اجتِمَاعُ
-  </p>
-</blockquote>
+> لِکُلِّ تَفَرُّقِ الدِّنيا اجتِمَاعُ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا بَعدَ المَنُونِ مِنِ اجتِمَاعِ
-  </p>
-</blockquote>
+> فَمَا بَعدَ المَنُونِ مِنِ اجتِمَاعِ
 
-<blockquote dir="rtl">
-  <p>
-فِرَاقٌ فَاصِلٌ وَ نَوَي شَطُونٌ
-  </p>
-</blockquote>
+> فِرَاقٌ فَاصِلٌ وَ نَوَي شَطُونٌ
 
-<blockquote dir="rtl">
-  <p>
-وَ شُغلٌ لاَ يلَبّثُ لِلودَاعِ
-  </p>
-</blockquote>
+> وَ شُغلٌ لاَ يلَبّثُ لِلودَاعِ
 
-<blockquote dir="rtl">
-  <p>
-وکُلُّ أُخُوَّةٍ لاَ بُدَّ يوماً
-  </p>
-</blockquote>
+> وکُلُّ أُخُوَّةٍ لاَ بُدَّ يوماً
 
-<blockquote dir="rtl">
-  <p>
-وَ إن طَالَ الوِصَالُ إلَي انقِطَاعِ
-  </p>
-</blockquote>
+> وَ إن طَالَ الوِصَالُ إلَي انقِطَاعِ
 
-<blockquote dir="rtl">
-  <p>
-وَ إنَّ مَتَاعَ ذي الدُّنيا قَليلُ
-  </p>
-</blockquote>
+> وَ إنَّ مَتَاعَ ذي الدُّنيا قَليلُ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا يجدِي القَلِيلُ مِنَ المَتَاعِ
-  </p>
-</blockquote>
+> فَمَا يجدِي القَلِيلُ مِنَ المَتَاعِ
 
-<blockquote dir="rtl">
-  <p>
-وَ صَارَ قَلِيلُهَا حَرِجاً عَسِيراً
-  </p>
-</blockquote>
+> وَ صَارَ قَلِيلُهَا حَرِجاً عَسِيراً
 
-<blockquote dir="rtl">
-  <p>
-تَشَبَّثَ بينَ أنيابِ السِّبَاعِ
-  </p>
-</blockquote>
+> تَشَبَّثَ بينَ أنيابِ السِّبَاعِ
 
 Land and the Dead
 -----------------
@@ -438,71 +218,27 @@ separated from each other
 Hence, this is how I separated them from this world and left them crying
 in a ditch with their ancestors.[^6]
 
-<blockquote dir="rtl">
-  <p>
-الارض و الموتي
-  </p>
-</blockquote>
+> الارض و الموتي
 
-<blockquote dir="rtl">
-  <p>
-نَادَيتُ سُکَّانَ القُبُورِ فَأسکُتُوا
-  </p>
-</blockquote>
+> نَادَيتُ سُکَّانَ القُبُورِ فَأسکُتُوا
 
-<blockquote dir="rtl">
-  <p>
-وَأَجَابَنِي عَن صَمتِهِم تُربُ الحَصَي
-  </p>
-</blockquote>
+> وَأَجَابَنِي عَن صَمتِهِم تُربُ الحَصَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَت: أَتَدرِي مَا فَعَلتُ بِسَاکِني
-  </p>
-</blockquote>
+> قَالَت: أَتَدرِي مَا فَعَلتُ بِسَاکِني
 
-<blockquote dir="rtl">
-  <p>
-مَزَّقتُ لَحمَهُم وَ خَرَّ قتُ الکِسَا
-  </p>
-</blockquote>
+> مَزَّقتُ لَحمَهُم وَ خَرَّ قتُ الکِسَا
 
-<blockquote dir="rtl">
-  <p>
-وَ حَشَوتُ أَعينَهُم تُراباً بَعدَمَا
-  </p>
-</blockquote>
+> وَ حَشَوتُ أَعينَهُم تُراباً بَعدَمَا
 
-<blockquote dir="rtl">
-  <p>
-کَانَت تَأَذّي باليسِيرِ مِنَ القَذَا
-  </p>
-</blockquote>
+> کَانَت تَأَذّي باليسِيرِ مِنَ القَذَا
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا العِظَامُ فَإِنَّني مَزَّقتُهَا
-  </p>
-</blockquote>
+> أَمَّا العِظَامُ فَإِنَّني مَزَّقتُهَا
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي تَبَاينَتِ المَفَاصِلُ وَالشَّوَي
-  </p>
-</blockquote>
+> حَتَّي تَبَاينَتِ المَفَاصِلُ وَالشَّوَي
 
-<blockquote dir="rtl">
-  <p>
-قَطَعتُ ذا زادٍ مِن هَذا کَذَا
-  </p>
-</blockquote>
+> قَطَعتُ ذا زادٍ مِن هَذا کَذَا
 
-<blockquote dir="rtl">
-  <p>
-فَتَرَکتُهَا ممّاً يطُوفُ بِهَا البَلاَ
-  </p>
-</blockquote>
+> فَتَرَکتُهَا ممّاً يطُوفُ بِهَا البَلاَ
 
 Independent of Creatures
 ------------------------
@@ -523,59 +259,23 @@ wealth (and not with the help of Allah) is exactly like someone who
 thinks that it is his shoes that are preventing him from slipping and
 falling down from a mountain.[^7]
 
-<blockquote dir="rtl">
-  <p>
-غنيء عن الخلائق
-  </p>
-</blockquote>
+> غنيء عن الخلائق
 
-<blockquote dir="rtl">
-  <p>
-اَغنِ عَنِ المَخلُوقِ بِالخَالِقِ
-  </p>
-</blockquote>
+> اَغنِ عَنِ المَخلُوقِ بِالخَالِقِ
 
-<blockquote dir="rtl">
-  <p>
-تَسُدُّ عَلَي الکَاذِبِ و الصَّادّقِ
-  </p>
-</blockquote>
+> تَسُدُّ عَلَي الکَاذِبِ و الصَّادّقِ
 
-<blockquote dir="rtl">
-  <p>
-وَ استَرزِقِ الرَّحمَنَ مِن فَضلِهِ
-  </p>
-</blockquote>
+> وَ استَرزِقِ الرَّحمَنَ مِن فَضلِهِ
 
-<blockquote dir="rtl">
-  <p>
-فَلَيسَ غَيرَ الله مِن رَازِقِ
-  </p>
-</blockquote>
+> فَلَيسَ غَيرَ الله مِن رَازِقِ
 
-<blockquote dir="rtl">
-  <p>
-مَن ظَنَّ أَنَّ النَّاسَ يغنُونَهُ
-  </p>
-</blockquote>
+> مَن ظَنَّ أَنَّ النَّاسَ يغنُونَهُ
 
-<blockquote dir="rtl">
-  <p>
-فَلَيسَ بالرَّحمَنِ بِالواثِقِ
-  </p>
-</blockquote>
+> فَلَيسَ بالرَّحمَنِ بِالواثِقِ
 
-<blockquote dir="rtl">
-  <p>
-أَو ظَنَّ أَنَّ المَالَ مِن کَسبِهِ
-  </p>
-</blockquote>
+> أَو ظَنَّ أَنَّ المَالَ مِن کَسبِهِ
 
-<blockquote dir="rtl">
-  <p>
-زَلَّت بِهِ النَّعلاًنِ من حَالِقِ
-  </p>
-</blockquote>
+> زَلَّت بِهِ النَّعلاًنِ من حَالِقِ
 
 What God Wishes
 ---------------
@@ -617,251 +317,87 @@ eyes and heart
 
 God is believer’s heralder and whatever he orders will happen.[^8]
 
-<blockquote dir="rtl">
-  <p>
-ما اراد الله
-  </p>
-</blockquote>
+> ما اراد الله
 
-<blockquote dir="rtl">
-  <p>
-مَا يحفَظَا اللهُ يصَن
-  </p>
-</blockquote>
+> مَا يحفَظَا اللهُ يصَن
 
-<blockquote dir="rtl">
-  <p>
-مَا يضَعِ اللهُ يهَن
-  </p>
-</blockquote>
+> مَا يضَعِ اللهُ يهَن
 
-<blockquote dir="rtl">
-  <p>
-مَن يسعِدِ اللهُ يلَن
-  </p>
-</blockquote>
+> مَن يسعِدِ اللهُ يلَن
 
-<blockquote dir="rtl">
-  <p>
-لَهُ الزَّمانُ إن خَشن
-  </p>
-</blockquote>
+> لَهُ الزَّمانُ إن خَشن
 
-<blockquote dir="rtl">
-  <p>
-أخِي اعتَبِر لاَ تَغتَرِر
-  </p>
-</blockquote>
+> أخِي اعتَبِر لاَ تَغتَرِر
 
-<blockquote dir="rtl">
-  <p>
-کَيفَ تَري صَرفَ الزَّمَن
-  </p>
-</blockquote>
+> کَيفَ تَري صَرفَ الزَّمَن
 
-<blockquote dir="rtl">
-  <p>
-يجزَي بِمَا أوتِي مِن
-  </p>
-</blockquote>
+> يجزَي بِمَا أوتِي مِن
 
-<blockquote dir="rtl">
-  <p>
-فِعلٍ قبيحٍ أو حَسَن
-  </p>
-</blockquote>
+> فِعلٍ قبيحٍ أو حَسَن
 
-<blockquote dir="rtl">
-  <p>
-أَفلَحَ عَبدٌ کُشِفَ
-  </p>
-</blockquote>
+> أَفلَحَ عَبدٌ کُشِفَ
 
-<blockquote dir="rtl">
-  <p>
-الغِطاءُ عَنهُ فَفَطِن
-  </p>
-</blockquote>
+> الغِطاءُ عَنهُ فَفَطِن
 
-<blockquote dir="rtl">
-  <p>
-وَ قَرَّ عَيناَ مَن رأي
-  </p>
-</blockquote>
+> وَ قَرَّ عَيناَ مَن رأي
 
-<blockquote dir="rtl">
-  <p>
-أنَّ البَلاءَ فِي اللِسَن
-  </p>
-</blockquote>
+> أنَّ البَلاءَ فِي اللِسَن
 
-<blockquote dir="rtl">
-  <p>
-فَمَازَ مِن أَلفَاظِهِ
-  </p>
-</blockquote>
+> فَمَازَ مِن أَلفَاظِهِ
 
-<blockquote dir="rtl">
-  <p>
-فَي کُلِّ وَقتٍ وَ وَزَن
-  </p>
-</blockquote>
+> فَي کُلِّ وَقتٍ وَ وَزَن
 
-<blockquote dir="rtl">
-  <p>
-وَ خَافَ مِن لِسَانِهِ
-  </p>
-</blockquote>
+> وَ خَافَ مِن لِسَانِهِ
 
-<blockquote dir="rtl">
-  <p>
-عَزباً حَدِيداً فَخَزَن
-  </p>
-</blockquote>
+> عَزباً حَدِيداً فَخَزَن
 
-<blockquote dir="rtl">
-  <p>
-وَ مَن يکُ مُعتَصِماً
-  </p>
-</blockquote>
+> وَ مَن يکُ مُعتَصِماً
 
-<blockquote dir="rtl">
-  <p>
-بِاللهِ ذِي العَرشِ فَلَن
-  </p>
-</blockquote>
+> بِاللهِ ذِي العَرشِ فَلَن
 
-<blockquote dir="rtl">
-  <p>
-يضُرُّهُ شَيءٌ وَ مَن
-  </p>
-</blockquote>
+> يضُرُّهُ شَيءٌ وَ مَن
 
-<blockquote dir="rtl">
-  <p>
-يعدِي عَلَي اللهِ وَ مَن
-  </p>
-</blockquote>
+> يعدِي عَلَي اللهِ وَ مَن
 
-<blockquote dir="rtl">
-  <p>
-مَن يأمَنِ اللهُ يخَف
-  </p>
-</blockquote>
+> مَن يأمَنِ اللهُ يخَف
 
-<blockquote dir="rtl">
-  <p>
-وَ خَائِفُ اللهِ أَمَن
-  </p>
-</blockquote>
+> وَ خَائِفُ اللهِ أَمَن
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا لِما يثمِرُهُ الـ
-  </p>
-</blockquote>
+> وَ مَا لِما يثمِرُهُ الـ
 
-<blockquote dir="rtl">
-  <p>
-ـخَوفُ مَنَ الله ثَمَن
-  </p>
-</blockquote>
+> ـخَوفُ مَنَ الله ثَمَن
 
-<blockquote dir="rtl">
-  <p>
-يا عَالِمَ السِّرِّ کَمَا
-  </p>
-</blockquote>
+> يا عَالِمَ السِّرِّ کَمَا
 
-<blockquote dir="rtl">
-  <p>
-يعلَمُ حَقّاً مَا عَلَن
-  </p>
-</blockquote>
+> يعلَمُ حَقّاً مَا عَلَن
 
-<blockquote dir="rtl">
-  <p>
-صَلِّ علي جَدِّي أَبي
-  </p>
-</blockquote>
+> صَلِّ علي جَدِّي أَبي
 
-<blockquote dir="rtl">
-  <p>
-القَاسِمِ ذِي النُّورِ المُبَن
-  </p>
-</blockquote>
+> القَاسِمِ ذِي النُّورِ المُبَن
 
-<blockquote dir="rtl">
-  <p>
-أَکرَمُ مِن حَي وَ مَن
-  </p>
-</blockquote>
+> أَکرَمُ مِن حَي وَ مَن
 
-<blockquote dir="rtl">
-  <p>
-لُفِّفَ مَيتاً فَي الکَفَن
-  </p>
-</blockquote>
+> لُفِّفَ مَيتاً فَي الکَفَن
 
-<blockquote dir="rtl">
-  <p>
-وَ امنُن عَلَينَا بالرِّضي
-  </p>
-</blockquote>
+> وَ امنُن عَلَينَا بالرِّضي
 
-<blockquote dir="rtl">
-  <p>
-فَأَنتَ أَهلٌ لِلمِنَن
-  </p>
-</blockquote>
+> فَأَنتَ أَهلٌ لِلمِنَن
 
-<blockquote dir="rtl">
-  <p>
-وَ اعفِنَا فِي دِينِنَا
-  </p>
-</blockquote>
+> وَ اعفِنَا فِي دِينِنَا
 
-<blockquote dir="rtl">
-  <p>
-مَن کُلِّ خَسرٍ وَ غَبَن
-  </p>
-</blockquote>
+> مَن کُلِّ خَسرٍ وَ غَبَن
 
-<blockquote dir="rtl">
-  <p>
-مَا خَابَ مَن خَابَ کَمَن
-  </p>
-</blockquote>
+> مَا خَابَ مَن خَابَ کَمَن
 
-<blockquote dir="rtl">
-  <p>
-يوماً إلَي الدُّنيا رَکَن
-  </p>
-</blockquote>
+> يوماً إلَي الدُّنيا رَکَن
 
-<blockquote dir="rtl">
-  <p>
-طُوبَي لِعَبدٍ کُشِفَت
-  </p>
-</blockquote>
+> طُوبَي لِعَبدٍ کُشِفَت
 
-<blockquote dir="rtl">
-  <p>
-عَنهُ غِيابَاتُ الوَسَن
-  </p>
-</blockquote>
+> عَنهُ غِيابَاتُ الوَسَن
 
-<blockquote dir="rtl">
-  <p>
-وَالمَوعِدُ اللهِ وَ مَا
-  </p>
-</blockquote>
+> وَالمَوعِدُ اللهِ وَ مَا
 
-<blockquote dir="rtl">
-  <p>
-يقضي بِهِ اللهِ مَکَن
-  </p>
-</blockquote>
+> يقضي بِهِ اللهِ مَکَن
 
 Lucky is the one whose Lord is You
 ----------------------------------
@@ -902,71 +438,27 @@ surrounded Husayn (as)]*
 *O Husayn! Don’t be worried and make unlimited demands from me because I
 am Allah.*[^9]
 
-<blockquote dir="rtl">
-  <p>
-نعم الرب انت
-  </p>
-</blockquote>
+> نعم الرب انت
 
-<blockquote dir="rtl">
-  <p>
-يا رَبِّ يا رَبِّ أنتَ مَولاهُ
-  </p>
-</blockquote>
+> يا رَبِّ يا رَبِّ أنتَ مَولاهُ
 
-<blockquote dir="rtl">
-  <p>
-فَارحَم عُبَيداً إلَيکَ مَلجاهُ
-  </p>
-</blockquote>
+> فَارحَم عُبَيداً إلَيکَ مَلجاهُ
 
-<blockquote dir="rtl">
-  <p>
-يا ذَالمَعالي عَلَيکَ مُعتَمَدي
-  </p>
-</blockquote>
+> يا ذَالمَعالي عَلَيکَ مُعتَمَدي
 
-<blockquote dir="rtl">
-  <p>
-طُوبي لِمَن کُنتَ أنتَ مَولاهُ
-  </p>
-</blockquote>
+> طُوبي لِمَن کُنتَ أنتَ مَولاهُ
 
-<blockquote dir="rtl">
-  <p>
-طُوبي لِمَن کانَ خائِفاً أرَقاً
-  </p>
-</blockquote>
+> طُوبي لِمَن کانَ خائِفاً أرَقاً
 
-<blockquote dir="rtl">
-  <p>
-يشکُو إلي ذِي الجَلالِ بَلواهُ
-  </p>
-</blockquote>
+> يشکُو إلي ذِي الجَلالِ بَلواهُ
 
-<blockquote dir="rtl">
-  <p>
-وَما بِهِ عِلَّةٌ وَ لا سَقمٌ
-  </p>
-</blockquote>
+> وَما بِهِ عِلَّةٌ وَ لا سَقمٌ
 
-<blockquote dir="rtl">
-  <p>
-أکثَرُ مِن حُبِّهِ لِمَولاهُ
-  </p>
-</blockquote>
+> أکثَرُ مِن حُبِّهِ لِمَولاهُ
 
-<blockquote dir="rtl">
-  <p>
-إذاَ اشتَکي بَثَّهُ وَ غُصَّتَهُ
-  </p>
-</blockquote>
+> إذاَ اشتَکي بَثَّهُ وَ غُصَّتَهُ
 
-<blockquote dir="rtl">
-  <p>
-أَجابَهُ اللهُ ثُمَّ لَبّاهُ
-  </p>
-</blockquote>
+> أَجابَهُ اللهُ ثُمَّ لَبّاهُ
 
 [^1]: Mausu’ah Kalimat al-Imam al-Husayn (as), p. 925.
 
@@ -992,5 +484,4 @@ Maqtalahu (Translation), p. 231.
 
 [^9]: Bihar Al-Anwar, vol. 44, p. 193; Manaqib Aal Abi Talib, vol. 4, p.
 69; Ad-Dam’ah as-Sakibah, vol. 4, p. 63.
-
 

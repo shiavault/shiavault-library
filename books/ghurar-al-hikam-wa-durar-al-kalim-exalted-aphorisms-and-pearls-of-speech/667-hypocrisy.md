@@ -7,11 +7,7 @@ Hypocrisy
 in the sight of Allah.
 
 > 1ـ إيّاكَ والنِّفاقَ فَإنَّ ذَا الوَجْهَيْنِ لايَكُونُ وَجيهاً عِنْدَ
-<blockquote dir="rtl">
-  <p>
-اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ.
 
 2. Hypocrisy is the brother of polytheism.
 
@@ -41,5 +37,4 @@ in the sight of Allah.
 a beautiful exterior.
 
 > 8ـ ما أقْبَحَ بِالإنْسانِ باطِناً عَليلاً وظاهِراً جَميلاً.
-
 

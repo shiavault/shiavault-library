@@ -94,4 +94,3 @@ Thus the people gave the cook a small amount for the two meals that the
 businessman had eaten. In this way, the two made peace and hugged each
 other.
 
-

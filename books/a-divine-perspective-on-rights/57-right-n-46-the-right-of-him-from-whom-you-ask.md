@@ -1,21 +1,13 @@
 Right n. 46: The Right of Him from Whom You Ask
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-حق المسؤول
-  </p>
-</blockquote>
+> حق المسؤول
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ المَسئولِ فَحَقُّهُ إنْ أَعْطَى قُبلَ مِنْهُ مَا أَعْطَى
-بالشُّكْرِ لَهُ وَالمَعْرِفَةِ لِفَضْلِهِ وَطَلَبَ وَجْهِ الْعُذْرِ
-فِي مَنعِهِ، وَأَحْسَنَ بهِ الظَّنَّ. وَاعْلَمْ أنَّهُ إنْ مَنِعَ
-[فَ]مَالَهُ مَنَعَ وَأَنْ لَيْسَ التَّثرِيبُ فِي مَالِه، وَإنْ كَانَ
-ظَالِمًا فَإنَّ الإنسَانَ لَظلُومٌ كَفَّارٌ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ المَسئولِ فَحَقُّهُ إنْ أَعْطَى قُبلَ مِنْهُ مَا أَعْطَى
+> بالشُّكْرِ لَهُ وَالمَعْرِفَةِ لِفَضْلِهِ وَطَلَبَ وَجْهِ الْعُذْرِ
+> فِي مَنعِهِ، وَأَحْسَنَ بهِ الظَّنَّ. وَاعْلَمْ أنَّهُ إنْ مَنِعَ
+> [فَ]مَالَهُ مَنَعَ وَأَنْ لَيْسَ التَّثرِيبُ فِي مَالِه، وَإنْ كَانَ
+> ظَالِمًا فَإنَّ الإنسَانَ لَظلُومٌ كَفَّارٌ.
 
 **And the right of him from whom you ask**[^1] **is that you should
 accept from him whatever he grants you with gratitude and acknowledge
@@ -40,11 +32,7 @@ When to Ask
 Islam recommends us to ask in order to learn. We read in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
 
 ***“ … If ye realize this not, ask of those who possess the message.”
 [The Holy Qur’an, al-Naĥl 16:43]***
@@ -58,17 +46,9 @@ in order to save his life. In these conditions, the one being asked to
 help should assist the one who is asking for help. We read in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ
 
-<blockquote dir="rtl">
-  <p>
-لِّلسَّائِلِ وَالْمَحْرُومِ
-  </p>
-</blockquote>
+> لِّلسَّائِلِ وَالْمَحْرُومِ
 
 ***“And those in whose wealth is a recognized right for the (needy) who
 asks and him who is prevented (for some reason) from asking.” [The Holy
@@ -77,11 +57,7 @@ Qur’an, al-Ma’arij 70:24-25]***
 Those who ask should not be deprived from presenting their petition. The
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
-  </p>
-</blockquote>
+> وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
 
 ***“Nor repulse the petitioner (unheard).” [The Holy Qur’an, al-Dhuha
 93:10]***
@@ -108,15 +84,11 @@ beggar, and result in one’s humility. A believer has honor and should
 not do something that causes him to lose his honor. Imam Sadiq quoted on
 the authority of the Noble Prophet :
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ تَبارَكَ وَتَعالى أحَبَّ شَيئاً لنِفْسِهِ وَأبْغَضَهُ
-لخَلقِهِ؛ أبْغَضَ لخَلْقِهِ المَسأَلَةَ وَأحَبَّ لِنَفْسِهِ أنْ
-يُسألَ، وَلَيسَ شَيءٌ أحَبَّ إلى اللهِ عَزَّ وَجَلَّ مِن أنْ يُسألَ
-فَلا يَسْتَحْيِي أحَدُكُم أنْ يَسألَ اللهَ مِن فَضْلِه وَلو شِسْعَ
-نَعْلِهِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ تَبارَكَ وَتَعالى أحَبَّ شَيئاً لنِفْسِهِ وَأبْغَضَهُ
+> لخَلقِهِ؛ أبْغَضَ لخَلْقِهِ المَسأَلَةَ وَأحَبَّ لِنَفْسِهِ أنْ
+> يُسألَ، وَلَيسَ شَيءٌ أحَبَّ إلى اللهِ عَزَّ وَجَلَّ مِن أنْ يُسألَ
+> فَلا يَسْتَحْيِي أحَدُكُم أنْ يَسألَ اللهَ مِن فَضْلِه وَلو شِسْعَ
+> نَعْلِهِ.
 
 *“There is something that God the Exalted the High loves for Himself,
 but hates for others. He hates for people to ask from others, but He
@@ -128,12 +100,8 @@ your shoe-lace.”*[^3]
 It is obvious that one who begs from others has lost his trust in God.
 In another tradition he is quoted to have said:
 
-<blockquote dir="rtl">
-  <p>
-إيّاكَ وَسؤالَ النّاسِ فإنّهُ ذُلٌّ في الدّنيا وفَقْرٌ تُعَجّلونَهُ
-وحِسابٌ طَويلٌ يَومَ القِيامَةِ.
-  </p>
-</blockquote>
+> إيّاكَ وَسؤالَ النّاسِ فإنّهُ ذُلٌّ في الدّنيا وفَقْرٌ تُعَجّلونَهُ
+> وحِسابٌ طَويلٌ يَومَ القِيامَةِ.
 
 *“Beware of begging from people, for it is humiliation in this world,
 poverty that you hasten, and a prolonged Reckoning on the Resurrection
@@ -142,12 +110,8 @@ Day.”*[^4]
 In another tradition we read that Husayn ibn Abil’ala quoted on the
 authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ عَبداً عَفّ وَتَعَفَّفَ وَكَفَّ عَن المَسألَةِ فإنَّهُ
-يَتَعَجَّلُ الدَّنِيَّةَ في الدّنيا ولا يُغنِي النّاسُ عَنهُ شَيئاً.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ عَبداً عَفّ وَتَعَفَّفَ وَكَفَّ عَن المَسألَةِ فإنَّهُ
+> يَتَعَجَّلُ الدَّنِيَّةَ في الدّنيا ولا يُغنِي النّاسُ عَنهُ شَيئاً.
 
 *“May God have mercy upon the servant who is chaste, and abstains (from
 what is unlawful), and refrains from asking, for it hastens baseness in
@@ -160,13 +124,9 @@ In his will, the Commander of the Faithful gave the following advice to
 Imam Hasan regarding human nobility, and the loss of one’s honor and
 respect due to begging:
 
-<blockquote dir="rtl">
-  <p>
-وَأكْرِم نَفْسَكَ عَن كُلّ دَنِيَّةٍ وإنْ ساقَتْكَ إلى الرّغائِبِ
-فإنّكَ لنْ تَعتاضَ بمَا تَبذُلُ مِن نَفْسِكَ عِوَضاً ولا تَكُن عَبْدَ
-غَيرِكَ وَقَد جَعلَكَ اللهُ حُرّاً.
-  </p>
-</blockquote>
+> وَأكْرِم نَفْسَكَ عَن كُلّ دَنِيَّةٍ وإنْ ساقَتْكَ إلى الرّغائِبِ
+> فإنّكَ لنْ تَعتاضَ بمَا تَبذُلُ مِن نَفْسِكَ عِوَضاً ولا تَكُن عَبْدَ
+> غَيرِكَ وَقَد جَعلَكَ اللهُ حُرّاً.
 
 *“O my son! Honor yourself and do not debase yourself even if it will
 help you reach your goal. You can never get back the equivalent of your
@@ -175,14 +135,10 @@ created you to be free.”* [^6]
 
 In another part of the will we read:
 
-<blockquote dir="rtl">
-  <p>
-وَإنِ اسْتَطَعتَ أنْ لا يَكونَ بَينَكَ وَبَينَ اللهِ ذو نِعمَةٍ
-فافْعلْ، فإنَّكَ مُدرِكٌ قِسَمَكَ وَآخِذٌ سَهمَكَ وإنَّ اليَسيرَ مِن
-اللهِ سُبحانَهُ أعظَمُ وَأكْرَمُ مِن الكَثيرِ مِن خَلقِهِ وإنْ كانَ
-كُلٌّ مِنهُ.
-  </p>
-</blockquote>
+> وَإنِ اسْتَطَعتَ أنْ لا يَكونَ بَينَكَ وَبَينَ اللهِ ذو نِعمَةٍ
+> فافْعلْ، فإنَّكَ مُدرِكٌ قِسَمَكَ وَآخِذٌ سَهمَكَ وإنَّ اليَسيرَ مِن
+> اللهِ سُبحانَهُ أعظَمُ وَأكْرَمُ مِن الكَثيرِ مِن خَلقِهِ وإنْ كانَ
+> كُلٌّ مِنهُ.
 
 *“Try not to establish anyone between you and your God - who is the
 owner of the blessings. You will only get your share of the daily bread.
@@ -194,13 +150,9 @@ We can see that the Imam advises his son not to humiliate himself since
 God is the Nourisher of all. Therefore, we should not beg since this
 will result in the loss of our honor. He also said:
 
-<blockquote dir="rtl">
-  <p>
-السّؤالُ يُضعِفُ لِسانَ المُتَكَلِّمِ وَيُكَسِّرُ قَلبَ الشُّجاعِ
-البَطلِ ويُوقِفُ الحُرَّ العَزيزَ مَوقِفَ العَبْدِ الذّليلِ وَيُذهِبُ
-بهَاءَ الوجْهِ ويمْحَقُ الرّزقَ.
-  </p>
-</blockquote>
+> السّؤالُ يُضعِفُ لِسانَ المُتَكَلِّمِ وَيُكَسِّرُ قَلبَ الشُّجاعِ
+> البَطلِ ويُوقِفُ الحُرَّ العَزيزَ مَوقِفَ العَبْدِ الذّليلِ وَيُذهِبُ
+> بهَاءَ الوجْهِ ويمْحَقُ الرّزقَ.
 
 *“Begging will weaken the speaker’s tongue; it will break the heart of
 the brave, and place a free and powerful person in the position of a
@@ -212,12 +164,8 @@ Avoid the Humiliation of Begging
 
 Imam Sajjad said:
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الحَوائِجِ إلى النّاسِ مَذَلَّةٌ لِلحَياةِ وَمَذْهَبَةٌ
-لِلحَياءِ واسْتِخفافٌ بِالوَقارِ وَهُو الفَقْرُ الحاضِرُ.
-  </p>
-</blockquote>
+> طَلَبُ الحَوائِجِ إلى النّاسِ مَذَلَّةٌ لِلحَياةِ وَمَذْهَبَةٌ
+> لِلحَياءِ واسْتِخفافٌ بِالوَقارِ وَهُو الفَقْرُ الحاضِرُ.
 
 *“Seeking one’s needs from people is humiliation in this life a cause of
 becoming bereft of shame and taking one’s honor lightly, and it is
@@ -225,13 +173,9 @@ present poverty.”*[^9]
 
 The Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الحَوائِجِ إلى النّاسِ استِلابٌ لِلعِزّةِ وَمُذهِبَةٌ
-لِلحَياءِ، واليَأسُ ممّا في أيْدِي النّاسِ عِزٌّ لِلمُؤمِنِ في دِينهِ،
-والطَّمَعُ هو الفَقْرُ الحاضِرُ.
-  </p>
-</blockquote>
+> طَلَبُ الحَوائِجِ إلى النّاسِ استِلابٌ لِلعِزّةِ وَمُذهِبَةٌ
+> لِلحَياءِ، واليَأسُ ممّا في أيْدِي النّاسِ عِزٌّ لِلمُؤمِنِ في دِينهِ،
+> والطَّمَعُ هو الفَقْرُ الحاضِرُ.
 
 *“Seeking one’s needs from the people is a deprivation of honor and a
 cause of becoming bereft of shame. Cutting off hope in what the people
@@ -240,12 +184,8 @@ is present poverty.”*[^10]
 
 The Noble Prophet of Islam said:
 
-<blockquote dir="rtl">
-  <p>
-مَن فَتَحَ عَلى نَفسِهِ بابَ مَسألَةٍ فَتحَ اللهُ عَليهِ سَبعينَ باباً
-مِن الفَقْرِ لا يَسُدُّ أدناها شَيءٌ.
-  </p>
-</blockquote>
+> مَن فَتَحَ عَلى نَفسِهِ بابَ مَسألَةٍ فَتحَ اللهُ عَليهِ سَبعينَ باباً
+> مِن الفَقْرِ لا يَسُدُّ أدناها شَيءٌ.
 
 *“Whoever opens up to himself a path of begging from the people will
 cause God to open up seventy paths of descension of poverty upon him in
@@ -254,13 +194,9 @@ paths.”*[^11]
 
 The Prophet of God advised Abu-Dharr:
 
-<blockquote dir="rtl">
-  <p>
-يا أَبا ذَرّ! إيّاكَ وَالسُّؤالَ فإنّه ذُلٌّ حاضِرٌ وفَقْرٌ
-تَتَعَجَّلُهُ وَفيهِ حِسابٌ طَويلٌ يَومَ القِيامَةِ. يا أَبا ذَرّ! لا
-تَسْألْ بِكَفّكَ، وإنْ أتاكَ شَيءٌ فاقْبَلْهُ.
-  </p>
-</blockquote>
+> يا أَبا ذَرّ! إيّاكَ وَالسُّؤالَ فإنّه ذُلٌّ حاضِرٌ وفَقْرٌ
+> تَتَعَجَّلُهُ وَفيهِ حِسابٌ طَويلٌ يَومَ القِيامَةِ. يا أَبا ذَرّ! لا
+> تَسْألْ بِكَفّكَ، وإنْ أتاكَ شَيءٌ فاقْبَلْهُ.
 
 *“O Abu-Dharr! Beware of begging from the people since that is the
 present humiliation, and poverty that you hasten. There is also
@@ -272,11 +208,7 @@ Imam Ridha said: “A man went to see the Prophet and asked the Prophet to
 teach him something that will not hinder his going to Heaven. The
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَغْضَبْ وَلا تَسأَلِ النّاسَ وارْضَ لِلنّاسِ ما تَرضَى لِنَفسِكَ.
-  </p>
-</blockquote>
+> لا تَغْضَبْ وَلا تَسأَلِ النّاسَ وارْضَ لِلنّاسِ ما تَرضَى لِنَفسِكَ.
 
 *“Do not get angry and do not beg from people, and love for others what
 you love for yourself.”*[^13]
@@ -289,11 +221,7 @@ for what you need on such a day.” [^14]
 The Prophet said: “Do not beg from the people.” A poor man had come
 there to beg from the Prophet . The Prophet repeatedly said:
 
-<blockquote dir="rtl">
-  <p>
-مَن سَألَنا أعْطَيناهُ وَمَن اسْتَغْنى أغْناهُ اللهُ.
-  </p>
-</blockquote>
+> مَن سَألَنا أعْطَيناهُ وَمَن اسْتَغْنى أغْناهُ اللهُ.
 
 *“Whoever asks us, we will grant him, but whoever is content, God will
 make free of need.”* [^15]
@@ -316,55 +244,35 @@ Whom to Ask for Help
 
 The Commander of the Faithful said:
 
-<blockquote dir="rtl">
-  <p>
-فَوتُ الحاجَةِ أهْونُ مِن طَلَبِها إلى غَيرِ أهْلِها.
-  </p>
-</blockquote>
+> فَوتُ الحاجَةِ أهْونُ مِن طَلَبِها إلى غَيرِ أهْلِها.
 
 *“Giving up one’s need is easier than to ask for it from the wrong
 person.”* [^16]
 
 In another statement he said:
 
-<blockquote dir="rtl">
-  <p>
-مَاءُ وَجهِكَ جامِدٌ يَقْطُرُهُ السّؤالُ، فانْظُر عِندَ مَن تَقْطُرهُ.
-  </p>
-</blockquote>
+> مَاءُ وَجهِكَ جامِدٌ يَقْطُرُهُ السّؤالُ، فانْظُر عِندَ مَن تَقْطُرهُ.
 
 *“Your honor is in a state of solidity. Begging will make it fall in
 drops. Thus be careful before whom you let it fall.”* [^17]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَسأَلُ مَن تَخافُ مَنْعَهُ.
-  </p>
-</blockquote>
+> لا تَسأَلُ مَن تَخافُ مَنْعَهُ.
 
 *“Do not ask from one whose refusal you fear.”*[^18]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-فَوتُ الحَاجَةِ خَيرٌ مِن طَلَبِها مِن غَيرِ أهْلِها.
-  </p>
-</blockquote>
+> فَوتُ الحَاجَةِ خَيرٌ مِن طَلَبِها مِن غَيرِ أهْلِها.
 
 *“It is better to give up one’s need than to ask for it from the wrong
 person.”*[^19]
 
 Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-إنمَّا مَثَلُ الحاجَةِ إلى مَن أصَابَ مَالَهُ حَديثاً كَمَثَلِ
-الدّرهَمِ في فَمِ الأفْعى؛ أنتَ إليهِ محُوِجٌ وأنْتَ مِنها عَلى خَطَر.
-  </p>
-</blockquote>
+> إنمَّا مَثَلُ الحاجَةِ إلى مَن أصَابَ مَالَهُ حَديثاً كَمَثَلِ
+> الدّرهَمِ في فَمِ الأفْعى؛ أنتَ إليهِ محُوِجٌ وأنْتَ مِنها عَلى خَطَر.
 
 *“Seeking a need from one who has recently acquired wealth is like a
 dirham in the mouth of a viper – you are in need of it, but you are in
@@ -493,5 +401,4 @@ is easier than to beg from an inappropriate person.”
 [^23]: Sharh-i-Risalat al-Huquq, Ghopanchi, v.2, p.506.
 
 [^24]: Sharh-i-Risalat al-Huquq, Ghopanchi, v.2, p.506.
-
 

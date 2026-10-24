@@ -73,13 +73,9 @@ beatitude.
 
 In the Honorable Qur’an, God, the Almighty, declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
 
 ***“So set thy face toward the pure religion; it is in accordance with
 the nature [fitrah] of God upon which He has formed the nature of
@@ -127,23 +123,15 @@ lead us towards our true benefit.
 Regarding this general guidance that is in effect in all phenomena in
 existence, God, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“Moses replied, ‘Our Lord is He who gave each thing its special
 creation and then guided it towards its benefit’.”***[^2]
 
 Also, regarding specific guidance in effect for humans, He declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَنَفْسٍ وَمَا سَوَّاهَا \* فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا \*
-قَدْ أَفْلَحَ مَنْ زَكَّاهَا \* وَقَدْ خَابَ مَنْ دَسَّاهَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَنَفْسٍ وَمَا سَوَّاهَا \* فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا \*
+> قَدْ أَفْلَحَ مَنْ زَكَّاهَا \* وَقَدْ خَابَ مَنْ دَسَّاهَا ﴾
 
 ***“By the soul and That which shaped it, then inspired it with
 understanding of its wickedness and virtue. Surely, those who virtuously
@@ -173,19 +161,11 @@ disposition [fitrah]—which reveals the will of the Almighty God. On this
 base, the Holy Qur’an affirms that lawmaking [tashrī‘] and rule [hukm]
 belong uniquely to the Almighty God. Thus, it declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... إِن الْحُكْمُ إِلاَّ لِلّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... إِن الْحُكْمُ إِلاَّ لِلّهِ... ﴾
 
 ***“Rule belongs specifically to Allah…”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... ومَنْ أَحْسَنُ مِنَ اللّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... ومَنْ أَحْسَنُ مِنَ اللّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ ﴾
 
 ***“Who is better than Allah in terms of rule for the people of sure
 faith?”***[^5]
@@ -265,5 +245,4 @@ society.[^6]
 [^5]: Sūrat al-Mā’idah 5:50.
 
 [^6]: From the annual journal, “Ma‘ārif-e Ja‘farī”.
-
 

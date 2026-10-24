@@ -3,13 +3,9 @@ Lesson Sixteen: Mastership and Captivity
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"تَفَضَّلْ عَلَى مَنْ شِئْتَ تَكُنْ أَمِيرَهُ، وَاسْتَغْنِ عَمِّنْ
-شِئْتَ تَكُنْ نَظِيْرَهُ، وَافْتَقِرٌ إلى مَنْ شِئْتَ تَكُنْ
-أَسِيْرَهُ"
-  </p>
-</blockquote>
+> "تَفَضَّلْ عَلَى مَنْ شِئْتَ تَكُنْ أَمِيرَهُ، وَاسْتَغْنِ عَمِّنْ
+> شِئْتَ تَكُنْ نَظِيْرَهُ، وَافْتَقِرٌ إلى مَنْ شِئْتَ تَكُنْ
+> أَسِيْرَهُ"
 
 Translation
 -----------
@@ -30,5 +26,4 @@ into slaves through looking to others to provide for their needs. A true
 Muslim is one who attempts to base his relations with others on mutual,
 not one-sided, assistance. Receiving gratuitous support should be
 limited to weak and feeble persons.
-
 

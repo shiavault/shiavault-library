@@ -669,4 +669,3 @@ Abdul Qadir Badran, 'Tahzib Tarikhe Damishq', vol 4, p.225; Ibn. Athir -
 'Al Kamil fi al Tarikh', vol. 2, p.447; Baqar Qarshi - 'Hayat al Imam al
 Hasan bin ‘Ali', vol 2, p.109.
 
-

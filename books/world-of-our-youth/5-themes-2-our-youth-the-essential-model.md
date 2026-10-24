@@ -1652,4 +1652,3 @@ container that is worse than his stomach."
 • Part of al-Khidr's counsel to Musa was "Train yourself to patience and
 you will free yourself from sin."
 
-

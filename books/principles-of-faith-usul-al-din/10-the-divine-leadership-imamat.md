@@ -2526,4 +2526,3 @@ Kashf al-Yaqin: pp 351; Ma’ani al-Akhbar: pp 303; Al-I’tiqadat: pp 105;
 Al-Amali by Al-Mufid: pp 95; A’lam al-Wara: vol. 1, pp 294; and other
 Shi’ah sources.
 
-

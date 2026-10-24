@@ -1372,4 +1372,3 @@ three.
 
 [^20]: Ref. Tarikh Abul Fida
 
-

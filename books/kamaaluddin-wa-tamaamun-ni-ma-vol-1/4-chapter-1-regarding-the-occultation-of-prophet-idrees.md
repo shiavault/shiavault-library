@@ -224,4 +224,3 @@ the sky, there was thunder and lightning and it started raining so
 heavily that the people thought they would drown. Finally they all
 returned to their homes fearing they shall be drowned in the floods.”
 
-

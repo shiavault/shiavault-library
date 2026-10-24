@@ -44,4 +44,3 @@ than twenty millions of people are infected with this disease and 16,000
 have publicly announced their illness, from which 5% have died due to
 the severity.
 
-

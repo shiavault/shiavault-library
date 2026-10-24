@@ -463,4 +463,3 @@ this army.
 
 [^12]: Ibn Kathir, Ta'rikh, vol. 8, p. 14.
 
-

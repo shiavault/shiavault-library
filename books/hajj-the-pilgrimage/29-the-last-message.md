@@ -761,4 +761,3 @@ Mina after the "Id of Sacrifice" and shoot the three idols seven times
 every day! Every day is like the day of immolation, every month is like
 Zul-Hijjah and every land is like Mina and ... life is like Hajj!
 
-

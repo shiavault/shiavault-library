@@ -47,4 +47,3 @@ traditions of the twelve Imams, and among his titles, his being promised
 by the prophets and his personal excellencies and genealogy are referred
 to.
 
-

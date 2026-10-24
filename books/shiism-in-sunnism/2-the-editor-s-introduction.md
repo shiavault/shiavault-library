@@ -28,11 +28,7 @@ cheerfulness for me. I got to understand better the meaning of
 traditions praising knowledge, studying and teaching,[^2] and this
 honorable verse seemed so new to me as though it had just been revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا.
-  </p>
-</blockquote>
+> وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا.
 
 ***And whoever keeps it alive, it is as though he kept alive all men.
 (Holy Qur’an 6:32).***
@@ -145,5 +141,4 @@ their original form due to technical points of jurisprudence and
 tradition sciences.
 
 [^4]: Bihar Al-Anwar, Vol. 8, p. 54.
-
 

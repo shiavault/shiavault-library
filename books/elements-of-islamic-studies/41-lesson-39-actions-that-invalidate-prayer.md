@@ -29,4 +29,3 @@ realizes during prayer that his clothes are *ghasbi*.
 a 2 *rak’at* or 3 *rak’at* prayer.  
  12. Adding or leaving out any *rukn* of prayer.
 
-

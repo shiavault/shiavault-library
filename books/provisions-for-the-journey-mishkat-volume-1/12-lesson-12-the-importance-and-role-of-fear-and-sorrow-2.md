@@ -157,12 +157,8 @@ about committing sin. It is natural that feeling safe in the world—which
 causes being polluted by deviations and sin—goes with insecurity and
 punishment; in this regard Allah states:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ طَغَی \* واثَرَ الْحَيَوةَ الدُّنْيا \* فَاِنَّ
-الْجَحِيمَ هِيَ الْمَأوَی
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ طَغَی \* واثَرَ الْحَيَوةَ الدُّنْيا \* فَاِنَّ
+> الْجَحِيمَ هِيَ الْمَأوَی
 
 ***“Then as for him who is inordinate, and prefers the life of this
 world, then surely the hell, that is the abode.”***[^3]
@@ -256,12 +252,8 @@ recites two adjuncts for fear and dread:
 
 In *Surat* *Ibrahim*, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-لَنُسْکِنَنَّکُم الأَرْضَ مِنْ بَعْدِهِمْ ذَلِکَ لِمَنْ خَافَ مَقَامِي
-وَخَافَ وَعِيدِ
-  </p>
-</blockquote>
+> لَنُسْکِنَنَّکُم الأَرْضَ مِنْ بَعْدِهِمْ ذَلِکَ لِمَنْ خَافَ مَقَامِي
+> وَخَافَ وَعِيدِ
 
 ***“And most surely, We will settle you in the land after them; this is
 for him who fears standing in My presence and who fears My
@@ -494,12 +486,8 @@ about being the object of indifference and disregard by Allah. The
 Qur’an mentions Allah’s disregard to the disbelievers as one of the
 greatest divine retributions:
 
-<blockquote dir="rtl">
-  <p>
-... وَلاَ يُکَلِّمُهُم اللهُ وَلاَ يَنْظُرُ إِلَيْهِمْ يَوْمَ
-الْقِيَامَةِ...
-  </p>
-</blockquote>
+> ... وَلاَ يُکَلِّمُهُم اللهُ وَلاَ يَنْظُرُ إِلَيْهِمْ يَوْمَ
+> الْقِيَامَةِ...
 
 ***“… and Allah will not speak to them, nor will He look upon them on
 the Day of Resurrection…”***[^8]
@@ -610,11 +598,7 @@ partaking of their food. But still is the gratification which the *Ahl
 al-Bayt* (*‘a*) derive the same as that which we derive [from it]? It
 has been recorded in a verse in the Qur’an that:
 
-<blockquote dir="rtl">
-  <p>
-وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ
 
 ***“And the flesh of fowl such as they desire.”***[^9]
 
@@ -653,5 +637,4 @@ Publications.
 [^8]: Surat Al ‘Imran 3:77.
 
 [^9]: Surat al-Waqi‘ah 56:21.
-
 

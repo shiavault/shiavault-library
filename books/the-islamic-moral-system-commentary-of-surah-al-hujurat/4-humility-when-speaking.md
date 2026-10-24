@@ -3,19 +3,15 @@ Humility When Speaking
 
 ( Verses 2 – 5 )
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ تَرْفَعُوا أَصْوٌاتَكُمْ فَوْقَ
-صَوْتِ النَّبِيِّ وَلاٌ تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ
-بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمٌالُكُمْ وَأَنتُمْ لاٌ
-تَشْعُرُونَ. إِنَّ الَّذِينَ يَغُضُّونَ أَصْوٌاتَهُمْ عِنْدَ رَسُولِ
-اللٌّهِ أُوْلٌئِكَ الَّذِينَ امْتَحَنَ اللٌّهُ قُلُوبَهُمْ لِلتَّقْوَى
-لَهُمْ مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ. إِنَّ الَّذِينَ يُنٌادُونَكَ مِنْ
-وَرٌاءِ الْحُجُرٌاتِ أَكْثَرُهُمْ لاٌ يَعْقِلُونَ. وَلَوْ أَنَّهُمْ
-صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكٌانَ خَيْراً لَّهُمْ وَاللٌّهُ
-غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ تَرْفَعُوا أَصْوٌاتَكُمْ فَوْقَ
+> صَوْتِ النَّبِيِّ وَلاٌ تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ
+> بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمٌالُكُمْ وَأَنتُمْ لاٌ
+> تَشْعُرُونَ. إِنَّ الَّذِينَ يَغُضُّونَ أَصْوٌاتَهُمْ عِنْدَ رَسُولِ
+> اللٌّهِ أُوْلٌئِكَ الَّذِينَ امْتَحَنَ اللٌّهُ قُلُوبَهُمْ لِلتَّقْوَى
+> لَهُمْ مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ. إِنَّ الَّذِينَ يُنٌادُونَكَ مِنْ
+> وَرٌاءِ الْحُجُرٌاتِ أَكْثَرُهُمْ لاٌ يَعْقِلُونَ. وَلَوْ أَنَّهُمْ
+> صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكٌانَ خَيْراً لَّهُمْ وَاللٌّهُ
+> غَفُورٌ رَّحِيمٌ
 
 “ ***O’ you who have true faith! Do not raise your voices above the
 voice of the Prophet*** *(Muhammad, blessings of Allah be upon him and
@@ -146,11 +142,7 @@ accept the teachings of Islam. They would stand at the door of the
 Prophet’s house which was not too far away from the Masjid (an-Nabi) and
 at various times of the day would yell out:
 
-<blockquote dir="rtl">
-  <p>
-يٌا مُحَمَّدَ أُخْرُجْ!
-  </p>
-</blockquote>
+> يٌا مُحَمَّدَ أُخْرُجْ!
 
 *“O’ Muhammad!* *Come out (of your house)!”*[^3]
 
@@ -217,12 +209,8 @@ grandfather and thus was successful in her mission. In order to quiet
 \`Ayesha down, Imam Husain ibn \`Ali (peace be upon him) recited this
 verse of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ تَرْفَعُوا أَصْوٌاتَكُمْ فَوْقَ
-صَوْتِ النَّبِيِّ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا لاٌ تَرْفَعُوا أَصْوٌاتَكُمْ فَوْقَ
+> صَوْتِ النَّبِيِّ
 
 ***“O’ You who have true faith! Do not raise your voices above the voice
 of the Prophet (Muhammad, blessings of Allah be upon him and his
@@ -230,12 +218,8 @@ progeny).”***
 
 The Imam (peace be upon him) then continued by saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ حَرَّمَ مِنَ الْمُؤْمِنِينَ أَمْوٌاتاً مٌا حَرَّمَ
-مِنْهُمْ أَحْيٌاءً
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ حَرَّمَ مِنَ الْمُؤْمِنِينَ أَمْوٌاتاً مٌا حَرَّمَ
+> مِنْهُمْ أَحْيٌاءً
 
 *“Certainly Allah has forbidden the believer to act in relation to the
 deceased in any way which was prohibited to act during his
@@ -263,5 +247,4 @@ al-\`Ashrahtu Fis Safar wa al-Hadhr.”
 [^4]: Al-Taj, Volume 4, Page 213 & 214.
 
 [^5]: Nur al-Thaqalain, Volume 5, Page 80 & 81.
-
 

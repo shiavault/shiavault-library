@@ -48,4 +48,3 @@ impiety; such a person will be far from God’s grace.
 
 [^1]: Manaqib by Ibn Shahr Ashub, vol. 3, Najaf, p. 415.
 
-

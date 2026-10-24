@@ -111,4 +111,3 @@ Delhi ed.; 1307 A.H.; Pg. l72
 
 [^4]: Deuteronomy 16:1
 
-

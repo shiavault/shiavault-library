@@ -93,7 +93,6 @@ suddenly make Badaa and will fully accommodate the Imam's advent within
 one night. Although the rising of al-Mahdi (AS) is in Allah's will, the
 time of his rising has not yet been decreed.
 
-
 **Moment by moment expectation due to the unpredictability of the time
 of rising**
 
@@ -222,5 +221,4 @@ appointed time is fast approaching, and if he did not observe the signs
 he will still remain hopeful to receive the Imam (AS) because he
 believes that Allah is never restricted by His creation including His
 previous will and has power to do all things at any moment.
-
 

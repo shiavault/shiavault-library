@@ -100,24 +100,19 @@ the others are very much alike - regardless of their various
 differences - and that they, too, possess the ability to add something
 to the Mega Powers; knowledge and purification.
 
-<p dir="rtl">
 " ولولا دفع الله الناس بعضهم ببعض لهدمت صوامع وبيع وصلوات ومساجد يذكر
 فيها اسم الله كثيرا."
-</p>
 
 "If it were not because God repels some men by means of others,
 cloisters, churches, synagogues and mosques where God\\'s name is
 mentioned frequently would have been demolished." Qur\\'an 22:40
 
-<p dir="rtl">
 "قال الإمام علي (ع): الناس صنفان، أما أخ لك في الدين، وأما نظير لك في
 الخلق." الإمام علي (ع)، نهج البلاغة، الكلمات القصار
-</p>
 
 Imam Ali (as) said: "People are of two categories: either brethren in
 faith, or peer in creation." Nahj ul-Blaghah, short sayings of Imam Ali
 (as).
-
 
 **Introduction of the Dialogue of Civilizations
 **
@@ -152,17 +147,13 @@ the Greeks, Chinese, Persian and Muslims.
 The Qur'anic principle supports such a civilized approach, and we may
 quote the following Qur'aic verses:
 
-<p dir="rtl">
 "إذ قال لصاحبه وهو يحاوره، أكفرت .... الآية."
-</p>
 
 "His companion said to him while disputing with him: Do you disbelieve
 in Him who created you from dust, then from a small seed, then He made
 you a perfect man?" Qur\\'an 18:37
 
-<p dir="rtl">
 "أدع الى سبيل ربك بالحكمة والموعظة الحسنة وجادلهم بالتي هي أحسن."
-</p>
 
 "Invite to the Way of the Lord with wisdom and beautiful preaching."
 
@@ -170,9 +161,7 @@ Qur\\'an 16:125
 
 Also in a narration we read:
 
-<p dir="rtl">
 "إن الحكمة ضالة المؤمن، فحيث وجدها ألتقطها، فهو أحق بها."
-</p>
 
 "Wisdom is the ultimate goal of the believer, and wherever he finds it,
 it is his prerogative to acquire it, as he deserves it more than anybody
@@ -274,5 +263,4 @@ thinkers have, but rather encouraged to further study our theory as the
 workable alternative to the Marxist Material Contradiction, the New
 World Order and to both the Clash of Civilizations and the Dialogue of
 Civilizations.
-
 

@@ -889,4 +889,3 @@ fabrication of a later period by those schools of thought which do not
 consider Bismillah as a part of the Qur'an except for the Bismillah used
 in the middle of the Sura-e-Naml.
 
-

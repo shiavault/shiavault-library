@@ -26,12 +26,8 @@ physical, cultural, or economical – is a general obligation. In fact,
 according to the verse of the Qur’an preparation to defend and guard the
 physical and cultural borders is a Divine obligation.
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِدُّوا لهَُمِمَا اسْتَطَعْتُمْ مِنْ قُوَّةٍٍ وَمِنْ رِبَاطِ
-الخَيلِ تُرْهِبُونَ بِهِ عَدُوَّ اللهِ وَعَدُوَّكُمْ.
-  </p>
-</blockquote>
+> وَأَعِدُّوا لهَُمِمَا اسْتَطَعْتُمْ مِنْ قُوَّةٍٍ وَمِنْ رِبَاطِ
+> الخَيلِ تُرْهِبُونَ بِهِ عَدُوَّ اللهِ وَعَدُوَّكُمْ.
 
  ***“And prepare what strength you are able and trained horses with
 which you frighten the enemy of Allah and your enemy.”***[^1]
@@ -44,11 +40,7 @@ is no different from the time of his absence.
 Just as a Muslim’s house, dependents, property, and self must be safe
 from danger and attack by outsiders,
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
-  </p>
-</blockquote>
+> وَمَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
 
 *“One who is killed defending his possessions is a martyr”*[^2]
 
@@ -101,16 +93,12 @@ did not leave the people without an answer when they rushed to him from
 all directions to pledge allegiance with that commotion and longing. He
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا وَالَّذِي فَلَقَ الحَبَّةَ وَبَرَأَ النَّسَمَةَ لَوْلاَ حُضُورُ
-الحَاضِرِ وَقِيَامُ الحُجَّةِ بِوُجُودِ النَّاصِرِ وَمَا أَخَذَ اللهُ
-عَلَى الْعُلَمَاءِ أَلاَّ يُقَارُّوا عَلَى كِظَّةِ ظَالمٍ وَلاَ سَغَبِ
-مَظْلُومٍ لأَلْقَيْتُ حَبْلَهَا عَلَى غَارِبهَِا وَلَسَقَيْتُ آخِرَهَا
-بِكَأْسِ أَوَّلهَِا وَلأَلْفَيْتُمْ دُنْيَاكُمْ هذِهِ أَزْهَدَ عِنْدِي
-مِنْ عَطْفَةِ عَنْزٍ.
-  </p>
-</blockquote>
+> أَمَا وَالَّذِي فَلَقَ الحَبَّةَ وَبَرَأَ النَّسَمَةَ لَوْلاَ حُضُورُ
+> الحَاضِرِ وَقِيَامُ الحُجَّةِ بِوُجُودِ النَّاصِرِ وَمَا أَخَذَ اللهُ
+> عَلَى الْعُلَمَاءِ أَلاَّ يُقَارُّوا عَلَى كِظَّةِ ظَالمٍ وَلاَ سَغَبِ
+> مَظْلُومٍ لأَلْقَيْتُ حَبْلَهَا عَلَى غَارِبهَِا وَلَسَقَيْتُ آخِرَهَا
+> بِكَأْسِ أَوَّلهَِا وَلأَلْفَيْتُمْ دُنْيَاكُمْ هذِهِ أَزْهَدَ عِنْدِي
+> مِنْ عَطْفَةِ عَنْزٍ.
 
 *“Lo, I swear by the One who split the seed and created man, were it not
 for the crowd that had come to me and the establishment of the argument
@@ -172,5 +160,4 @@ system of government.
 [^2]: Bihar al-Anwar, vol. 1, p. 226
 
 [^3]: Nahj al-Balaghah, edited by Subhi al-Salih, sermon 3, section 1
-
 

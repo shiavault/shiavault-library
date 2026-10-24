@@ -120,4 +120,3 @@ Europe and whose books affected its thinking and practice for centuries
 the philosopher-physician of Islam, Ibn-Rushd (Averroes); a pioneer in
 physiology, Ibn-Al-Nafis; and a Jewish Arab, Ibn- Maimon (Maimonides).
 
-

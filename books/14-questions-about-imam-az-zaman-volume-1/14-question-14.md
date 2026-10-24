@@ -48,11 +48,7 @@ of his Imamate by the majority of believers.”[^6]
 
 While explaining the Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-…. وَمَنْ قُتِلَ مَظْلُومًا …
-  </p>
-</blockquote>
+> …. وَمَنْ قُتِلَ مَظْلُومًا …
 
 ***“…Whosoever is killed unjustly....” (Surah al-Isra’, 17:35)***
 
@@ -97,12 +93,8 @@ thirteen of his followers will gather around him from far away places.
 The first words with which he will address them will be this Qur’anic
 verse:
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ ۚ وَمَا
-أَنَا عَلَيْكُمْ بِحَفِيظٍ
-  </p>
-</blockquote>
+> بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ ۚ وَمَا
+> أَنَا عَلَيْكُمْ بِحَفِيظٍ
 
 ***“What remains with Allah is better for you if you are believers.”
 (Surah Hud, 11: 86)***
@@ -157,5 +149,4 @@ amongst his followers and helpers. Ameen.
 [^7]: Kamaaluddin, p. 378
 
 [^8]: Muntahal Aamaal, Shaikh Abbas Qummi, vol. 2, p. 286
-
 

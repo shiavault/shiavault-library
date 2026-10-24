@@ -17,4 +17,3 @@ The Prophet has more authority on the believers than what they have on
 themselves. Why? This is because God has this authority and has given it
 to the Holy Prophet.
 
-

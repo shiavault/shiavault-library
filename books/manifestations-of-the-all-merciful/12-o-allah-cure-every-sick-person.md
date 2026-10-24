@@ -1,11 +1,7 @@
 O Allāh, Cure Every Sick Person
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اشْفِ كُلَّ مَرِيْضٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اشْفِ كُلَّ مَرِيْضٍ
 
 Meaning
 -------
@@ -13,13 +9,9 @@ Meaning
 The Arabic word *marīd* literally means ‘one who is sick or disordered.’
 It originates from its infinitive ‘*marad*’ which means:
 
-<blockquote dir="rtl">
-  <p>
-الْخُرُوْجُ عَنِ الاِعْتِدَالِ الْخَاصِّ بِالإِنْسَانِ وَذٌلِكَ
-ضَرْبَان : الأَوَّلُ مَرَضٌ جِسْمِيٌّ...وَالثَّانِي عِبَارَهٌ عَنِ
-الرَّذَائِلِ...
-  </p>
-</blockquote>
+> الْخُرُوْجُ عَنِ الاِعْتِدَالِ الْخَاصِّ بِالإِنْسَانِ وَذٌلِكَ
+> ضَرْبَان : الأَوَّلُ مَرَضٌ جِسْمِيٌّ...وَالثَّانِي عِبَارَهٌ عَنِ
+> الرَّذَائِلِ...
 
 “…to exit from the state of the equilibrium particular to the human
 being[^1]; and this is of two kinds: (1) bodily sickness… (2)
@@ -39,11 +31,7 @@ disequilibria. Look at the following:
 1. The Holy Qur’ān [26:80] narrating the words of Prophet Ibrāhīm (as),
 says:
 
-<blockquote dir="rtl">
-  <p>
- وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ 
-  </p>
-</blockquote>
+>  وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ 
 
 ***“And when I turn ill, He (alone) cures me.”***
 
@@ -62,11 +50,7 @@ enables them to be propagators and Messengers of God.
 
 2. The Holy Qur’ān [2:8-10] describing the hypocrites says:
 
-<blockquote dir="rtl">
-  <p>
- فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللٌّهُ مَرَضاً 
-  </p>
-</blockquote>
+>  فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللٌّهُ مَرَضاً 
 
 ***“In their hearts is a sickness; and Allāh increased their
 sickness.”***
@@ -76,22 +60,14 @@ not the body. Therefore marad is not limited to physical ailments.
 
 3. Prophet ‘Īsā (as), is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-...مَا مَرِضَ قَلْبٌ بأَشَدَّ مِنَ الْقَسْوَةِ...
-  </p>
-</blockquote>
+> ...مَا مَرِضَ قَلْبٌ بأَشَدَّ مِنَ الْقَسْوَةِ...
 
 “…The heart did not fall sick with [a malady] more severe than the
 hardness of the heart…”[^3]
 
 4. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ مَرَضَ أَضْنـى مِنْ قِلَّةِ الْعَقْلِ.
-  </p>
-</blockquote>
+> لاَ مَرَضَ أَضْنـى مِنْ قِلَّةِ الْعَقْلِ.
 
 “There is no malady more debilitating that the paucity of
 intellect.”[^4]
@@ -102,11 +78,7 @@ the dull-wittedness of a person.
 
 5. And he (as) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحِقْدُ خُلْقٌ دَنِيٌّ وَمَرَضٌ مُرْدٍ.
-  </p>
-</blockquote>
+> أَلْحِقْدُ خُلْقٌ دَنِيٌّ وَمَرَضٌ مُرْدٍ.
 
 “Resentment (*al-hiqd*) is a degenerate characteristic and a destructive
 illness.”[^5]
@@ -129,15 +101,11 @@ for the purpose it was created.
 Imām al-Sajjād in his well-known prayer manual al-Sahīfat al-Sajjādiyyah
 prays:
 
-<blockquote dir="rtl">
-  <p>
-‏فَمَا أَدْرِي يَا إِلٌهِي أَيُّ الْحَالَيْنِ أَحَقُّ بِالشُّكْرِ
-لَكَ. وَأَيُّ الْوَقْتَيْنِ أَوْلَى بِالْحَمْدِ لَكَ. ‏أَوَقْتُ
-الصِّحَّةِ الَّتِي هَنَأْتَنِي فِيهَا طَيِّبَاتِ رِزْقِكَ
-وَنَشَّطْتَنِي بِـهَا لاِبْتِغَاءِ مَرْضَاتِكَ وَفَضْلِكَ
-وَقَوَّيْتَنِي مَعَهَا عَلَى مَا وَفَّقْتَنِي لَهُ مِنْ طَاعَتِكَ‏...
-  </p>
-</blockquote>
+> ‏فَمَا أَدْرِي يَا إِلٌهِي أَيُّ الْحَالَيْنِ أَحَقُّ بِالشُّكْرِ
+> لَكَ. وَأَيُّ الْوَقْتَيْنِ أَوْلَى بِالْحَمْدِ لَكَ. ‏أَوَقْتُ
+> الصِّحَّةِ الَّتِي هَنَأْتَنِي فِيهَا طَيِّبَاتِ رِزْقِكَ
+> وَنَشَّطْتَنِي بِـهَا لاِبْتِغَاءِ مَرْضَاتِكَ وَفَضْلِكَ
+> وَقَوَّيْتَنِي مَعَهَا عَلَى مَا وَفَّقْتَنِي لَهُ مِنْ طَاعَتِكَ‏...
 
 “For I know not, my God, which of the two states deserves more my
 thanking You, And which of the two times is more worthy for my praise of
@@ -159,16 +127,12 @@ The delight of our eyes, Sayyid Radī al-Dīn bin Tāwūs in section 7 of
 his *Falāh al-Sā’il*, where he enumerates the characteristics of a
 supplicant, says:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ صِفَاتِ الدَّاعِي: أَنْ يُرِيْدَ بِالدُّعاءِ مُرَادَ اللٌّهِ
-جَلَّ جَلاَلَهُ بِهِ، وَيُقَدِّمُ إِرَادَةَ اللٌّهِ عَلَى إِراَدَةِ
-نَفْسِهِ. وَمِثَالُهُ: إِذَا مَرِضَ لاَ يَكُوْنُ قَصْدُهُ مِنَ
-الدُّعَاءِ بِعَافِيَتِهِ مُجَرَّدَ بَقَاءِهِ لِشَهْوَتِهِ
-وَعَاجِلَتِهِ وَدُنْيَاهُ الشَّاغِلَة عنْ آخِرَتِهِ، بَلْ لِيَبْقَى
-عَلى مُرَادِ اللٌّهِ جَلَّ جَلاَلَهُ فِيْ طَاعَتِهِ.
-  </p>
-</blockquote>
+> مِنْ صِفَاتِ الدَّاعِي: أَنْ يُرِيْدَ بِالدُّعاءِ مُرَادَ اللٌّهِ
+> جَلَّ جَلاَلَهُ بِهِ، وَيُقَدِّمُ إِرَادَةَ اللٌّهِ عَلَى إِراَدَةِ
+> نَفْسِهِ. وَمِثَالُهُ: إِذَا مَرِضَ لاَ يَكُوْنُ قَصْدُهُ مِنَ
+> الدُّعَاءِ بِعَافِيَتِهِ مُجَرَّدَ بَقَاءِهِ لِشَهْوَتِهِ
+> وَعَاجِلَتِهِ وَدُنْيَاهُ الشَّاغِلَة عنْ آخِرَتِهِ، بَلْ لِيَبْقَى
+> عَلى مُرَادِ اللٌّهِ جَلَّ جَلاَلَهُ فِيْ طَاعَتِهِ.
 
 “And among the characteristics of a supplicant is that he should seek
 through his supplication what Allāh wants of Him and prefer Allāh’s
@@ -191,12 +155,8 @@ then to merely search for the immediate causes. Physicians categorize
 
 The Holy Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ اللٌّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا
-بِأَنفُسِهِمْ... 
-  </p>
-</blockquote>
+>  إِنَّ اللٌّهَ لاَ يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا
+> بِأَنفُسِهِمْ... 
 
 ***“Allāh does not change what is with a community save that they change
 what is in them.”***[^8]
@@ -231,11 +191,7 @@ for food left. Hearing this, the doctor said: ‘This is the cause of
 In other words, they obeyed the Holy Prophet (s) and applied his
 well-known saying:
 
-<blockquote dir="rtl">
-  <p>
-كُلْ وَاَنْتَ تَشْتَهِي وَاَمْسِكْ وَاَنْتَ تَشْتَهِي.
-  </p>
-</blockquote>
+> كُلْ وَاَنْتَ تَشْتَهِي وَاَمْسِكْ وَاَنْتَ تَشْتَهِي.
 
 “Eat while you have the appetite, and refrain from eating while you
 still have the appetite.”[^10]
@@ -259,11 +215,7 @@ kind of lifestyle it encourages.
 
 The Holy Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تُلْقُوا بِأَيْدِيكُمْ إِلـى التَّهْلُكَةِ
-  </p>
-</blockquote>
+> وَ لاَ تُلْقُوا بِأَيْدِيكُمْ إِلـى التَّهْلُكَةِ
 
 “Do not lay yourself into destruction.”[^11]
 
@@ -284,45 +236,29 @@ the important role of denial before sickness:
 
 i) Imām Amīru’l Mu’minīn (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْمَعِدَةُ بَيْتُ الأَدْوَاءِ، وَالْحِمْيَةُ رَأْسُ الدَّوَاءِ. لاَ
-صِحَّةَ مَعَ النَّهَمِ.
-  </p>
-</blockquote>
+> الْمَعِدَةُ بَيْتُ الأَدْوَاءِ، وَالْحِمْيَةُ رَأْسُ الدَّوَاءِ. لاَ
+> صِحَّةَ مَعَ النَّهَمِ.
 
 “The stomach is the house of maladies, and denial is the principal
 medicine, and there is no well-being in greed.”[^12]
 
 ii) And he (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-صَلاَحُ الْبَدَنِ الْحِمْيَةُ.
-  </p>
-</blockquote>
+> صَلاَحُ الْبَدَنِ الْحِمْيَةُ.
 
 “In denial is the equilibrium of the body.”[^13]
 
 iii) Imām Abū Ibrāhīm al-Kazim (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ الْحِمْيَةُ أَنْ تَدَعَ الشَّيْ‏ءَ أَصْلاً، وَلٌكِنَّ
-الْحِمْيَةَ أَنْ تَأْكُلَ مِنَ الشَّيْ‏ءِ وَتُخَفِّفَ.
-  </p>
-</blockquote>
+> لَيسَ الْحِمْيَةُ أَنْ تَدَعَ الشَّيْ‏ءَ أَصْلاً، وَلٌكِنَّ
+> الْحِمْيَةَ أَنْ تَأْكُلَ مِنَ الشَّيْ‏ءِ وَتُخَفِّفَ.
 
 “Denial does not mean that you avoid a thing totally, and do not eat it;
 rather, it means that you have a light consumption of something.”[^14]
 
 iv) And Imām Abu‘l Hasan al-Ridā (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-رَأْسُ الحِْمْيَةِ الرِّفْقُ بِالْبَدَنِ.
-  </p>
-</blockquote>
+> رَأْسُ الحِْمْيَةِ الرِّفْقُ بِالْبَدَنِ.
 
 “The peak of denial is to treat the body gently and with
 friendliness.”[^15]
@@ -401,14 +337,10 @@ Listen to all what I have to advise, and act accordingly
 
 Imām Abū ‘Abdillāh al-Sadiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ نَبيًّا مِنَ الأَنْبِيَاء مَرِضَ فَقَالَ: لاَ أَتَدَاوَى حَتىّ
-يَكُوْنُ الّذِيْ أمْرَضَنِي هُوَ الَّذِي يَشْفِيْنِي. فَأَوْحَى
-اللٌّهُ تَعَالـى إِلَيْهِ: لاَ أشْفِيْكَ حَتىّ تَتَدَاوَى، فَإِنَّ
-الشّفَاء مِنِّي.
-  </p>
-</blockquote>
+> إنَّ نَبيًّا مِنَ الأَنْبِيَاء مَرِضَ فَقَالَ: لاَ أَتَدَاوَى حَتىّ
+> يَكُوْنُ الّذِيْ أمْرَضَنِي هُوَ الَّذِي يَشْفِيْنِي. فَأَوْحَى
+> اللٌّهُ تَعَالـى إِلَيْهِ: لاَ أشْفِيْكَ حَتىّ تَتَدَاوَى، فَإِنَّ
+> الشّفَاء مِنِّي.
 
 “One of the Prophets [once] got ill, whereupon he said: I shall not cure
 myself until He Who made me sick treats me Himself. Thereupon Almighty
@@ -457,21 +389,17 @@ deserving for a small child to suffer from ailments and sicknesses while
 he is sinless and has committed no crime. The Imām (as) responded
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمَرَضَ عَلَى وُجُوهٍ شَتَّى: مَرَضُ بَلْوَى، وَمَرَضُ
-الْعُقُوبَةِ، وَمَرَضٌ جُعِلَ عَلَيْهِ الْفَنَاءُ، وَأَنْتَ تَزْعُمُ
-أَنَّ ذٌلِكَ مِنْ أَغْذِيَةٍ رَدِيئَةٍ وَأَشْرِبَةٍ وَبِيئَةٍ أَوْ
-مِنْ عِلَّةٍ كَانَتْ بِأُمِّهِ، وَتَزْعُمُ أَنَّ مَنْ أَحْسَنَ
-السِّيَاسَةَ لِبَدَنِهِ وَأَجْمَلَ النَّظَرَ فِي أَحْوَالِ نَفْسِهِ
-وَعَرَفَ الضَّارَّ مِمَّا يَأْكُلُ مِنَ النَّافِعِ لَمْ يَمْرَضْ،
-وَتَمِيلُ فِي قَوْلِكَ إِلـى مَنْ يَزْعُمُ أَنَّهُ لاَ يَكُونُ
-الْمَرَضُ وَالْمَوْتُ إِلاَّ مِنَ الْمَطْعَمِ وَالْمَشْرَبِ، قَدْ
-مَاتَ أَرَسْطَاطَالِيسُ مُعَلِّمُ الأَطِبَّاءِ، وَأَفْلاَطوُنُ رَئِيسُ
-الْحُكَمَاءِ، وَجَالِينُوسُ شَاخَ وَدَقَّ بَصَرُهُ وَمَا دَفَعَ
-الْمَوْتَ حِينَ نَزَلَ بِسَاحَتِهِ.
-  </p>
-</blockquote>
+> إِنَّ الْمَرَضَ عَلَى وُجُوهٍ شَتَّى: مَرَضُ بَلْوَى، وَمَرَضُ
+> الْعُقُوبَةِ، وَمَرَضٌ جُعِلَ عَلَيْهِ الْفَنَاءُ، وَأَنْتَ تَزْعُمُ
+> أَنَّ ذٌلِكَ مِنْ أَغْذِيَةٍ رَدِيئَةٍ وَأَشْرِبَةٍ وَبِيئَةٍ أَوْ
+> مِنْ عِلَّةٍ كَانَتْ بِأُمِّهِ، وَتَزْعُمُ أَنَّ مَنْ أَحْسَنَ
+> السِّيَاسَةَ لِبَدَنِهِ وَأَجْمَلَ النَّظَرَ فِي أَحْوَالِ نَفْسِهِ
+> وَعَرَفَ الضَّارَّ مِمَّا يَأْكُلُ مِنَ النَّافِعِ لَمْ يَمْرَضْ،
+> وَتَمِيلُ فِي قَوْلِكَ إِلـى مَنْ يَزْعُمُ أَنَّهُ لاَ يَكُونُ
+> الْمَرَضُ وَالْمَوْتُ إِلاَّ مِنَ الْمَطْعَمِ وَالْمَشْرَبِ، قَدْ
+> مَاتَ أَرَسْطَاطَالِيسُ مُعَلِّمُ الأَطِبَّاءِ، وَأَفْلاَطوُنُ رَئِيسُ
+> الْحُكَمَاءِ، وَجَالِينُوسُ شَاخَ وَدَقَّ بَصَرُهُ وَمَا دَفَعَ
+> الْمَوْتَ حِينَ نَزَلَ بِسَاحَتِهِ.
 
 “Indeed, illnesses are of various kinds: the illness of Divine
 tribulation, the illness of Divine punishment, and illness as a means
@@ -504,13 +432,9 @@ illnesses can be an advantage to the believing souls:
 
 1. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الرَّجُلَ لَيَكُوْنُ لَهُ الدَّرَجَة عِنْدَ اللٌّهِ لاَ
-يَبْلُغُهَا بعَمَلِهَِ يُبْتَلى ببَلاَءٍ فِي جِسْمِهِ فَيَبْلُغُهَا
-بذٌلِكَ.
-  </p>
-</blockquote>
+> إنَّ الرَّجُلَ لَيَكُوْنُ لَهُ الدَّرَجَة عِنْدَ اللٌّهِ لاَ
+> يَبْلُغُهَا بعَمَلِهَِ يُبْتَلى ببَلاَءٍ فِي جِسْمِهِ فَيَبْلُغُهَا
+> بذٌلِكَ.
 
 “Indeed a person may have a station near God which he could not attain
 only by his actions, (and thus) he would be afflicted by an ailment in
@@ -518,35 +442,23 @@ his body by which he would attain the station.”[^18]
 
 2. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا ابْتَلى اللٌّهُ عَبْدًا أَسْقَطَ عَنْهُ مِنَ الذُّنُوْبِ بِقَدْرِ
-عِلَّتِهِ.
-  </p>
-</blockquote>
+> إذَا ابْتَلى اللٌّهُ عَبْدًا أَسْقَطَ عَنْهُ مِنَ الذُّنُوْبِ بِقَدْرِ
+> عِلَّتِهِ.
 
 “When Allāh afflicts His servant with a calamity, He reduces his sins in
 accordance with his malady.”[^19]
 
 3. Imām al-Ridā (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْمَرَضُ لِلْمُؤْمِنِ تَطْهِيْرٌ وَرَحْمَةٌ، وَلِلْكَافِرِ تَعْذِيْبٌ
-وَلَعْنَةٌ...
-  </p>
-</blockquote>
+> الْمَرَضُ لِلْمُؤْمِنِ تَطْهِيْرٌ وَرَحْمَةٌ، وَلِلْكَافِرِ تَعْذِيْبٌ
+> وَلَعْنَةٌ...
 
 “Sickness is purification and mercy for the believer and a punishment
 and curse for the disbeliever…”[^20]
 
 4. Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-صُدَاعُ لَيْلَةٍ تَحُطُّ كُلَّ خَطِيْئَةٍ إِلاَّ الْكَبَائِر.
-  </p>
-</blockquote>
+> صُدَاعُ لَيْلَةٍ تَحُطُّ كُلَّ خَطِيْئَةٍ إِلاَّ الْكَبَائِر.
 
 “A night’s headache removes all of one’s sins, save the major
 ones.”[^21]
@@ -562,13 +474,9 @@ is that of Prophet ‘Īsā (as):
 
 Almighty Allāh says:
 
-<blockquote dir="rtl">
-  <p>
- وَإِذْ تَخْلُقُ مِنْ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي
-فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي وَتُبْرِئُ الأَكْمَهَ
-وَالأَبْرَصَ بِإِذْنِي وَإِذْ تُخْرِجُ الْمَوْتَى بِإِذْنِي... 
-  </p>
-</blockquote>
+>  وَإِذْ تَخْلُقُ مِنْ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي
+> فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي وَتُبْرِئُ الأَكْمَهَ
+> وَالأَبْرَصَ بِإِذْنِي وَإِذْ تُخْرِجُ الْمَوْتَى بِإِذْنِي... 
 
 “…and when you fashioned out of clay a thing like the form of a bird by
 My permission, then you breathed into it and it became a bird by My
@@ -593,14 +501,10 @@ scope of science to explain. No strong human being can do this with his
 bodily strength. While explaining to Sahl bin Hunayf how he managed to
 uproot the heavy door of Khaybar, Imām (as) said:
 
-<blockquote dir="rtl">
-  <p>
-وَاللٌّهِ مَا قَلَعْتُ بَابَ خَيْبَرٍ وَقَذَفْتُ بِهِ وَرَائِي
-اَرْبَعِيْنَ ذِرَاعًا لَمْ تَحُسّ أَعْضَائِي بِقُوّةٍ جَسَدِيّةٍ
-وَحَرَكَةٍ غَرِيْزِيَّةٍ بَشَرِيَّةٍ، وَلٌكِنّي اُيّدْتُ بِقُوَّةٍ
-مَلَكُوْتِيَّةٍ وَنَفْسٍ بِنُوْرِ رَبِّهَا مُضِيْئَةٌ.
-  </p>
-</blockquote>
+> وَاللٌّهِ مَا قَلَعْتُ بَابَ خَيْبَرٍ وَقَذَفْتُ بِهِ وَرَائِي
+> اَرْبَعِيْنَ ذِرَاعًا لَمْ تَحُسّ أَعْضَائِي بِقُوّةٍ جَسَدِيّةٍ
+> وَحَرَكَةٍ غَرِيْزِيَّةٍ بَشَرِيَّةٍ، وَلٌكِنّي اُيّدْتُ بِقُوَّةٍ
+> مَلَكُوْتِيَّةٍ وَنَفْسٍ بِنُوْرِ رَبِّهَا مُضِيْئَةٌ.
 
 “I swear by Allāh, I did not uproot the door of Khaybar and throw it 40
 forearms away while the members of my body did not feel anything, with
@@ -630,15 +534,11 @@ known methods?
 
 Let us look at the Holy Qur’ān and find the answer:
 
-<blockquote dir="rtl">
-  <p>
- قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ
-قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَآهُ مُسْتَقِرًّا
-عِنْدَهُ قَالَ هٌذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ
-أَكْفُرُ وَمَنْ شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَنْ كَفَرَ
-فَإِنَّ رَبِّــي غَنِيٌّ كَرِيـمٌ 
-  </p>
-</blockquote>
+>  قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ
+> قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَآهُ مُسْتَقِرًّا
+> عِنْدَهُ قَالَ هٌذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ
+> أَكْفُرُ وَمَنْ شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَنْ كَفَرَ
+> فَإِنَّ رَبِّــي غَنِيٌّ كَرِيـمٌ 
 
 “Said one who had knowledge of the Book: “I will bring it to you within
 the twinkling of any eye!” Then when (Solomon) saw it placed firmly
@@ -674,12 +574,8 @@ to the Ahlu’l Bayt (as), he was also known to be from among them. Once
 Salmān al-Fārsī’s name was mentioned near Imām Muhammad al-Bāqir (as),
 and he said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَقُولُوا سَلْمَانَ الْفَارِسِيَّ، وَلَكِنْ قُولُوا سَلْمَانَ
-الْمُحَمَّدِيَّ. ذَاكَ رَجُلٌ مِنَّا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> لا تَقُولُوا سَلْمَانَ الْفَارِسِيَّ، وَلَكِنْ قُولُوا سَلْمَانَ
+> الْمُحَمَّدِيَّ. ذَاكَ رَجُلٌ مِنَّا أَهْلَ الْبَيْتِ.
 
 “Do not say Salmān al-Farsī, but say Salmān al-Muhammadī, for he is a
 man from us, the Ahlu’l Bayt (as).”[^28]
@@ -692,38 +588,30 @@ ones have to say, they would have termed them as disbelievers and done
 things worse than that. Salmān al-Muhammadī enjoyed a very high rank,
 such that Imām Zayn al-’Ābidīn is reported to have said about him:
 
-<blockquote dir="rtl">
-  <p>
-وَاللٌّهِ لَوْ عَلِمَ أَبُو ذَرّ مَا فِي قَلْبِ سَلْمَان لَقَتَلَهُ.
-  </p>
-</blockquote>
+> وَاللٌّهِ لَوْ عَلِمَ أَبُو ذَرّ مَا فِي قَلْبِ سَلْمَان لَقَتَلَهُ.
 
 “I swear by Allāh, if Abū Dharr knew what was in the heart of Salmān, he
 would have killed him.”[^29]
 
 And Imām Muhammad al-Bāqir (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-دَخَلَ أَبُو ذَرٍّ عَلَى سَلْمَانَ وَهُوَ يَطْبَخُ قِدْراً لَهُ،
-فَبَيْنَا هُمَا يَتَحَادَثَانِ ‏إِذَا انْكَبَّتِ الْقِدْرُ عَلَى
-وَجْهِهَا عَلَى الأَرْضِ، فَلَمْ يَسْقُطْ مِنْ مَرَقِهَا وَلاَ مِنْ
-وَدَكِهَا شَيْ‏ءٌ، فَعَجِبَ مِنْ ذٌلِكَ أَبُو ذَرٍّ عَجَباً شَدِيداً،
-وَأَخَذَ سَلْمَانُ الْقِدْرَ فَوَضَعَهَا عَلَى حَالِهَا الأَوَّلِ
-عَلَى النَّارِ ثَانِيَةً، وَأَقْبَلاَ يَتَحَدَّثَانِ فَبَيْنَمَا هُمَا
-يَتَحَدَّثَانِ إِذَا انْكَبَّتِ الْقِدْرُ عَلَى وَجْهِهَا فَلَمْ
-يَسْقُطْ مِنْهَا شَيْ‏ءٌ مِنْ مَرَقِهَا وَلاَ مِنْ وَدَكِهَا، قَالَ
-فَخَرَجَ أَبُو ذَرٍّ وَهُوَ مَذْعُورٌ مِنْ عِنْدِ سَلْمَانَ،
-فَبَيْنَمَا هُوَ مُتَفَكِّرٌ إِذْ لَقِيَ أَمِيرَ الْمُؤْمِنِينَ (ع)
-عَلَى الْبَابِ، فَلَمَّا أَنْ بَصُرَ بهِ أَمِيرُ الْمُؤْمِنِينَ (ع)
-قَالَ لَهُ: يَا بَا ذَرٍّ! مَا الَّذِي أَخْرَجَكَ وَمَا الَّذِي
-ذَعَرَكَ؟ فَقَالَ لَهُ أَبُو ذَرٍّ: يَا أَمِيرَ الْمُؤْمِنِينَ!
-رَأَيْتُ سَلْمَانَ صَنَعَ كَذَا وَكَذَا، فَعَجِبْتُ مِنْ ذٌلِكَ.
-فَقَالَ أَمِيرُ الْمُؤْمِنِينَ(ع): يَا أبَا ذَرٍّ! إِنَّ سَلْمَانَ
-لَوْ حَدَّثَكَ بِمَا يَعْلَمُ لَقُلْتَ رَحِمَ اللَّهُ قَاتِلَ
-سَلْمَانَ!
-  </p>
-</blockquote>
+> دَخَلَ أَبُو ذَرٍّ عَلَى سَلْمَانَ وَهُوَ يَطْبَخُ قِدْراً لَهُ،
+> فَبَيْنَا هُمَا يَتَحَادَثَانِ ‏إِذَا انْكَبَّتِ الْقِدْرُ عَلَى
+> وَجْهِهَا عَلَى الأَرْضِ، فَلَمْ يَسْقُطْ مِنْ مَرَقِهَا وَلاَ مِنْ
+> وَدَكِهَا شَيْ‏ءٌ، فَعَجِبَ مِنْ ذٌلِكَ أَبُو ذَرٍّ عَجَباً شَدِيداً،
+> وَأَخَذَ سَلْمَانُ الْقِدْرَ فَوَضَعَهَا عَلَى حَالِهَا الأَوَّلِ
+> عَلَى النَّارِ ثَانِيَةً، وَأَقْبَلاَ يَتَحَدَّثَانِ فَبَيْنَمَا هُمَا
+> يَتَحَدَّثَانِ إِذَا انْكَبَّتِ الْقِدْرُ عَلَى وَجْهِهَا فَلَمْ
+> يَسْقُطْ مِنْهَا شَيْ‏ءٌ مِنْ مَرَقِهَا وَلاَ مِنْ وَدَكِهَا، قَالَ
+> فَخَرَجَ أَبُو ذَرٍّ وَهُوَ مَذْعُورٌ مِنْ عِنْدِ سَلْمَانَ،
+> فَبَيْنَمَا هُوَ مُتَفَكِّرٌ إِذْ لَقِيَ أَمِيرَ الْمُؤْمِنِينَ (ع)
+> عَلَى الْبَابِ، فَلَمَّا أَنْ بَصُرَ بهِ أَمِيرُ الْمُؤْمِنِينَ (ع)
+> قَالَ لَهُ: يَا بَا ذَرٍّ! مَا الَّذِي أَخْرَجَكَ وَمَا الَّذِي
+> ذَعَرَكَ؟ فَقَالَ لَهُ أَبُو ذَرٍّ: يَا أَمِيرَ الْمُؤْمِنِينَ!
+> رَأَيْتُ سَلْمَانَ صَنَعَ كَذَا وَكَذَا، فَعَجِبْتُ مِنْ ذٌلِكَ.
+> فَقَالَ أَمِيرُ الْمُؤْمِنِينَ(ع): يَا أبَا ذَرٍّ! إِنَّ سَلْمَانَ
+> لَوْ حَدَّثَكَ بِمَا يَعْلَمُ لَقُلْتَ رَحِمَ اللَّهُ قَاتِلَ
+> سَلْمَانَ!
 
 “Abū Dharr once came to Salmān while he was cooking in a cooking pot;
 while they were conversing with each other, the cooking pot overturned
@@ -749,11 +637,7 @@ levels. Those who enjoy the lower levels cannot bear the knowledge of
 the high ranking ones like Salmān al-Muhammadi. Imām Muhammad al-Bāqir
 (as) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-سَلْمَانُ بَحْرُ الْعِلْمِ لاَ يُقْدَرُ عَلَى نَزْحِه.
-  </p>
-</blockquote>
+> سَلْمَانُ بَحْرُ الْعِلْمِ لاَ يُقْدَرُ عَلَى نَزْحِه.
 
 “Salmān is an ocean of knowledge, which cannot be drained and
 exhausted.”[^31]
@@ -761,11 +645,7 @@ exhausted.”[^31]
 Abū Basīr is reported to have said that he heard Imām al-Sādiq (as)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ سَلْمَانَ عَلِمَ الإسْمَ الاَعْظَمَ.
-  </p>
-</blockquote>
+> إِنَّ سَلْمَانَ عَلِمَ الإسْمَ الاَعْظَمَ.
 
 “Surely Salmān knew the Greatest Name of God (*al-ism al-a‘zam*).”
 
@@ -789,22 +669,14 @@ you fill a bucket full of water in a small cup? Otherwise, Abū Dharr was
 one of the great companions of the Holy Prophet (s) about whom it is
 narrated from the Holy Prophet (s) that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَرَادَ أَنْ يَنْظُرَ إِلَى زُهْدِ عِيسَى ابْنِ مَرْيَمَ (ع)
-فَلْيَنْظُرْ إِلَى أَبِي ذَرٍّ.
-  </p>
-</blockquote>
+> مَنْ أَرَادَ أَنْ يَنْظُرَ إِلَى زُهْدِ عِيسَى ابْنِ مَرْيَمَ (ع)
+> فَلْيَنْظُرْ إِلَى أَبِي ذَرٍّ.
 
 “Whosoever would like to look at the *zuhd* (detachment of the world) of
 ‘Isā (as) bin Maryam, should look at Abū Dharr.”[^34]
 
-<blockquote dir="rtl">
-  <p>
-الْجَنَّةُ تَشْتَاقُ إِلَيْكَ يَا عَلِيُّ، وَإِلَى عَمَّارٍ
-وَسَلْمَانَ وَأَبِي ذَرٍّ وَالْمِقْدَادِ.
-  </p>
-</blockquote>
+> الْجَنَّةُ تَشْتَاقُ إِلَيْكَ يَا عَلِيُّ، وَإِلَى عَمَّارٍ
+> وَسَلْمَانَ وَأَبِي ذَرٍّ وَالْمِقْدَادِ.
 
 “O’ ‘Alī, verily Paradise yearns for you and for ‘Ammār, Salmān, Abū
 Dharr and Miqdād.”[^35]
@@ -844,11 +716,7 @@ all depend and subsist by the All-Powerful Being. This truth is
 understood by contemplating on the adjective “al-Qayyūm” in the
 well-known verse of the Throne (*Āyat al-Kursī*):
 
-<blockquote dir="rtl">
-  <p>
- أَللٌّهُ لاٌ إِلٌهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ 
-  </p>
-</blockquote>
+>  أَللٌّهُ لاٌ إِلٌهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ 
 
 ***“Allāh; Except Him there is no God; He Alone is All-living and
 All-Subsisting.”***[^37]
@@ -863,11 +731,7 @@ Him and belongs to Him is nothing but tawhīd.
 
 The Holy Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
- وَ اللٌّهُ خَلَقَكُمْ وَ مَا تَعْمَلُونَ 
-  </p>
-</blockquote>
+>  وَ اللٌّهُ خَلَقَكُمْ وَ مَا تَعْمَلُونَ 
 
 ***“But Allāh created you and what you do.”***[^39]
 
@@ -879,11 +743,7 @@ consider them to have independent power. We certainly know that every
 effect that they would lay would be entirely with Allāh’s leave. This
 reality is aptly stated in the verse of the Throne of the Holy Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
- مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ 
-  </p>
-</blockquote>
+>  مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ 
 
 ***“Who can mediate near Him save by His permission.”***[^40]
 
@@ -892,17 +752,13 @@ existential mediation.
 
 ‘Allāmah Tabātabā’ī in his *al-Mīzān* says:
 
-<blockquote dir="rtl">
-  <p>
-وقد فاتهم أولاً أن ثبوت التأثير سواء كان مادياً أو غير مادي في غيره
-تعالى ضروري لا سبيل إلى إنكاره، وقد أسند تعالى في كلامه التأثير بجميع
-أنواعه إلى غيره، ونفي التأثير عن غيره تعالى مطلقاً يستلزم إبطال قانون
-العلية والمعلولية العام الذي هو الركن في جميع أدلة التوحيد، وفيه هدم
-بنيان التوحيد. نعم، المنفي من التأثير عن غيره تعالى هو الاستقلال في
-التأثير ولا كلام لأحد فيه، وأما نفي مطلق التأثير ففيه إنكار بديهة
-العقل والخروج عن الفطرة الإنسانية.
-  </p>
-</blockquote>
+> وقد فاتهم أولاً أن ثبوت التأثير سواء كان مادياً أو غير مادي في غيره
+> تعالى ضروري لا سبيل إلى إنكاره، وقد أسند تعالى في كلامه التأثير بجميع
+> أنواعه إلى غيره، ونفي التأثير عن غيره تعالى مطلقاً يستلزم إبطال قانون
+> العلية والمعلولية العام الذي هو الركن في جميع أدلة التوحيد، وفيه هدم
+> بنيان التوحيد. نعم، المنفي من التأثير عن غيره تعالى هو الاستقلال في
+> التأثير ولا كلام لأحد فيه، وأما نفي مطلق التأثير ففيه إنكار بديهة
+> العقل والخروج عن الفطرة الإنسانية.
 
 “They however did not realize the following: establishing influence, be
 that material or immaterial with regard to other than Allāh is necessary
@@ -938,18 +794,14 @@ contemplation:
 
 i) The Messenger of Allāh is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِيِّ (ص) قَالَ: يُعَيِّرُ اللٌّهُ عَزَّ وَجَلَّ عَبْداً
-مِنْ عِبَادِهِ يَوْمَ الْقِيَامَةِ فَيَقُولُ: عَبْدِي مَا مَنَعَكَ
-إِذَا مَرِضْتُ أَنْ تَعُودَنِي؟ فَيَقُولُ: سُبْحَانَكَ سُبْحَانَكَ!
-أَنْتَ رَبُّ الْعِبَادِ، لاَ تَأْلَمُ وَلاَ تَمْرَضُ. فَيَقُولُ:
-مَرِضَ أَخُوكَ الْمُؤْمِنُ فَلَمْ تَعُدْهُ، وَعِزَّتِي وَجَلاَلِي لَوْ
-عُدْتَهُ لَوَجَدْتَنِي عِنْدَهُ ثُمَّ لَتَكَفَّلْتُ بِحَوَائِجِكَ
-فَقَضَيْتُهَا لَكَ، وَذٌلِكَ مِنْ كَرَامَةِ عَبْدِيَ الْمُؤْمِنِ،
-وَأَنَا الرَّحْمَنُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> عَنِ النَّبِيِّ (ص) قَالَ: يُعَيِّرُ اللٌّهُ عَزَّ وَجَلَّ عَبْداً
+> مِنْ عِبَادِهِ يَوْمَ الْقِيَامَةِ فَيَقُولُ: عَبْدِي مَا مَنَعَكَ
+> إِذَا مَرِضْتُ أَنْ تَعُودَنِي؟ فَيَقُولُ: سُبْحَانَكَ سُبْحَانَكَ!
+> أَنْتَ رَبُّ الْعِبَادِ، لاَ تَأْلَمُ وَلاَ تَمْرَضُ. فَيَقُولُ:
+> مَرِضَ أَخُوكَ الْمُؤْمِنُ فَلَمْ تَعُدْهُ، وَعِزَّتِي وَجَلاَلِي لَوْ
+> عُدْتَهُ لَوَجَدْتَنِي عِنْدَهُ ثُمَّ لَتَكَفَّلْتُ بِحَوَائِجِكَ
+> فَقَضَيْتُهَا لَكَ، وَذٌلِكَ مِنْ كَرَامَةِ عَبْدِيَ الْمُؤْمِنِ،
+> وَأَنَا الرَّحْمَنُ الرَّحِيمُ.
 
 On the Judgment Day Almighty Allāh would reproach a servant among his
 servants, and say: ‘O My servant, what hampered you from visiting Me
@@ -965,14 +817,10 @@ All-Beneficent, the All-Merciful.’”[^42]
 
 2. Imām Muhammad al-Bāqir (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ فِيمَا نَاجَى بِهِ مُوسَى (ع) رَبَّهُ أَنْ قَالَ: يَا رَبِّ مَا
-بَلَغَ مِنْ عِيَادَةِ الْمَرِيضِ مِنَ الأَجْرِ؟ فَقَالَ اللٌّهُ عَزَّ
-وَجَلَّ: أُوَكِّلُ بِهِ مَلَكاً يَعُودُهُ فِي قَبْرِهِ إِلَى
-مَحْشَرِهِ.
-  </p>
-</blockquote>
+> كَانَ فِيمَا نَاجَى بِهِ مُوسَى (ع) رَبَّهُ أَنْ قَالَ: يَا رَبِّ مَا
+> بَلَغَ مِنْ عِيَادَةِ الْمَرِيضِ مِنَ الأَجْرِ؟ فَقَالَ اللٌّهُ عَزَّ
+> وَجَلَّ: أُوَكِّلُ بِهِ مَلَكاً يَعُودُهُ فِي قَبْرِهِ إِلَى
+> مَحْشَرِهِ.
 
 “Among those things that Mūsā (as) whispered to his Lord was : ‘O Lord
 inform me the extent of reward that a person who visits the sick would
@@ -981,12 +829,8 @@ in his grave until his resurrection [on the Judgment Day].’”[^43]
 
 3. Imām Abū ‘Abdillāh al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَادَ مَرِيضاً شَيَّعَهُ سَبْعُونَ أَلْفَ مَلَكٍ يَسْتَغْفِرُونَ
-لَهُ حَتَّى يَرْجِعَ إِلَى مَنْزِلِهِ.
-  </p>
-</blockquote>
+> مَنْ عَادَ مَرِيضاً شَيَّعَهُ سَبْعُونَ أَلْفَ مَلَكٍ يَسْتَغْفِرُونَ
+> لَهُ حَتَّى يَرْجِعَ إِلَى مَنْزِلِهِ.
 
 “Whosoever visits a sick person, 70,000 angels escort him while they
 seek for forgiveness for him, until he returns back to his house.”[^44]
@@ -1012,12 +856,8 @@ reward. Look at the following traditions:
 
 1. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَرْبَعٌ مِنْ كُنُوزِ الْجَنَّةِ: كِتْمَانُ الْفَاقَةِ، وَكِتْمَانُ
-الصَّدَقَةِ، وَكِتْمَانُ الْمُصِيبَةِ، وَكِتْمَانُ الْوَجَعِ.
-  </p>
-</blockquote>
+> أَرْبَعٌ مِنْ كُنُوزِ الْجَنَّةِ: كِتْمَانُ الْفَاقَةِ، وَكِتْمَانُ
+> الصَّدَقَةِ، وَكِتْمَانُ الْمُصِيبَةِ، وَكِتْمَانُ الْوَجَعِ.
 
 “Four things are from among the treasures of Paradise: to hide one’s
 need; to give sadaqah secretly, to hide one’s calamity, and to hide
@@ -1025,15 +865,11 @@ one’s pain.”[^45]
 
 2. ‘Abdullāh bin Mas’ūd is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-بَيْنَا نَحْنُ عِنْدَ رَسُولِ اللٌّهِ (ص) إِذْ تَبَسَّمَ، فَقُلْتُ
-لَهُ: مَا لَكَ يَا رَسُولَ اللٌّهِ تَبَسَّمْتَ؟ فَقَالَ (ص): عَجِبْتُ
-لِلْمُؤْمِنِ وَجَزَعِهِ مِنَ السُّقْمِ، وَلَوْ يَعْلَمُ مَا لَهُ فِي
-السُّقْمِ مِنَ الثَّوَابِ لأَحُبَّ أَنْ لاَ يَزَالَ سَقِيماً حَتَّى
-يَلْقَى رَبَّهُ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> بَيْنَا نَحْنُ عِنْدَ رَسُولِ اللٌّهِ (ص) إِذْ تَبَسَّمَ، فَقُلْتُ
+> لَهُ: مَا لَكَ يَا رَسُولَ اللٌّهِ تَبَسَّمْتَ؟ فَقَالَ (ص): عَجِبْتُ
+> لِلْمُؤْمِنِ وَجَزَعِهِ مِنَ السُّقْمِ، وَلَوْ يَعْلَمُ مَا لَهُ فِي
+> السُّقْمِ مِنَ الثَّوَابِ لأَحُبَّ أَنْ لاَ يَزَالَ سَقِيماً حَتَّى
+> يَلْقَى رَبَّهُ عَزَّ وَجَلَّ.
 
 “While we were in the presence of the Holy Prophet (s), when he suddenly
 smiled. So I asked him: What happened; why did you smile O Messenger of
@@ -1044,13 +880,9 @@ Invincible and Majestic.”[^46]
 
 3. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَرِضَ يَوْماً وَلَيْلَةً فَلَمْ يَشْكُ إِلَى عُوَّادِهِ،
-بَعَثَهُ اللٌّهُ يَوْمَ الْقِيَامَةِ مَعَ إِبْرَاهِيمَ خَلِيلِ
-الرَّحْمٌنِ، حَتَّى يَجُوزَ الصِّرَاطَ كَالْبَرْقِ اللاَّمِعِ.
-  </p>
-</blockquote>
+> مَنْ مَرِضَ يَوْماً وَلَيْلَةً فَلَمْ يَشْكُ إِلَى عُوَّادِهِ،
+> بَعَثَهُ اللٌّهُ يَوْمَ الْقِيَامَةِ مَعَ إِبْرَاهِيمَ خَلِيلِ
+> الرَّحْمٌنِ، حَتَّى يَجُوزَ الصِّرَاطَ كَالْبَرْقِ اللاَّمِعِ.
 
 “Whosoever is ill for a day and night but does not complain about his
 situation to his visitors, Allāh would raise him on the Judgment Day
@@ -1067,15 +899,11 @@ Observe the following:
 Ja’far bin Yahyā al-Khuzā’ī is reported to have narrated from his father
 that he said:
 
-<blockquote dir="rtl">
-  <p>
-دَخَلْتُ مَعَ أَبِي عَبْدِ اللٌّهِ (ع) عَلَى بَعْضِ مَوَالِيهِ
-يَعُودُهُ، فَرَأَيْتُ الرَّجُلَ يُكْثِرُ مِنْ قَوْلِ آهِ. فَقُلْتُ
-لَهُ: يَا أَخِي، اذْكُرْ رَبَّكَ وَاسْتَغِثْ بِهِ. فَقَالَ أَبُو
-عَبْدِ اللٌّهِ (ع): "آهِ" اسْمٌ مِنْ أَسْمَاءِ اللٌّهِ تَعَالَى،
-فَمَنْ قَالَ آهِ، اسْتَغَاثَ بِاللٌّهِ عَزَّ وَ جَلَّ.
-  </p>
-</blockquote>
+> دَخَلْتُ مَعَ أَبِي عَبْدِ اللٌّهِ (ع) عَلَى بَعْضِ مَوَالِيهِ
+> يَعُودُهُ، فَرَأَيْتُ الرَّجُلَ يُكْثِرُ مِنْ قَوْلِ آهِ. فَقُلْتُ
+> لَهُ: يَا أَخِي، اذْكُرْ رَبَّكَ وَاسْتَغِثْ بِهِ. فَقَالَ أَبُو
+> عَبْدِ اللٌّهِ (ع): "آهِ" اسْمٌ مِنْ أَسْمَاءِ اللٌّهِ تَعَالَى،
+> فَمَنْ قَالَ آهِ، اسْتَغَاثَ بِاللٌّهِ عَزَّ وَ جَلَّ.
 
 “I accompanied Imām al-Sādiq (as) who came to visit one of his [ailing]
 slaves, and I saw the slave saying “*āh*” many times. So I said to him:
@@ -1092,11 +920,7 @@ ailing patient.
 
 Prophet Ibrāhīm (as) says:
 
-<blockquote dir="rtl">
-  <p>
- وَ إِذَا مَرِضْتُ فَهُوَ يَشْفِينِ 
-  </p>
-</blockquote>
+>  وَ إِذَا مَرِضْتُ فَهُوَ يَشْفِينِ 
 
 ***“And when I turn sick, then He Alone Cures Me.”***[^49]
 
@@ -1116,11 +940,7 @@ gifted them with the knowledge thereof in this world. One such
 personality is Imām ‘Alī (as) who expressed this reality in the
 following dictum:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُشِفَ الْغِطَاءُ مَا ازْدَدْتُ يَقِيناً.
-  </p>
-</blockquote>
+> لَوْ كُشِفَ الْغِطَاءُ مَا ازْدَدْتُ يَقِيناً.
 
 “If the curtains are unveiled no conviction would be added to what I
 have.”[^50]
@@ -1132,16 +952,12 @@ could not.
 There is an interesting narrative in which Imām ‘Alī (as) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-وُعِكَ أَبُو ذَرٍّ فَأَتَيْتُ رَسُولَ اللٌّهِ (ص) فَقُلْتُ: يَا
-رَسُولَ اللٌّهِ! إِنَّ أَبَا ذَرٍّ قَدْ وُعِكَ. فَقَالَ (ص): امْضِ
-بِنَا إِلَيْهِ نَعُودُهُ. فَمَضَيْنَا إِلَيْهِ جَمِيعاً، فَلَمَّا
-جَلَسْنَا قَالَ رَسُولُ اللٌّهِ (ص): كَيْفَ أَصْبَحْتَ يَا أَبَا
-ذَرٍّ. قَالَ: أَصْبَحْتُ وَعِكاً يَا رَسُولَ اللٌّهِ. فَقَالَ (ص):
-أَصْبَحْتَ فِي رَوْضَةٍ مِنْ رِيَاضِ الْجَنَّةِ...
-  </p>
-</blockquote>
+> وُعِكَ أَبُو ذَرٍّ فَأَتَيْتُ رَسُولَ اللٌّهِ (ص) فَقُلْتُ: يَا
+> رَسُولَ اللٌّهِ! إِنَّ أَبَا ذَرٍّ قَدْ وُعِكَ. فَقَالَ (ص): امْضِ
+> بِنَا إِلَيْهِ نَعُودُهُ. فَمَضَيْنَا إِلَيْهِ جَمِيعاً، فَلَمَّا
+> جَلَسْنَا قَالَ رَسُولُ اللٌّهِ (ص): كَيْفَ أَصْبَحْتَ يَا أَبَا
+> ذَرٍّ. قَالَ: أَصْبَحْتُ وَعِكاً يَا رَسُولَ اللٌّهِ. فَقَالَ (ص):
+> أَصْبَحْتَ فِي رَوْضَةٍ مِنْ رِيَاضِ الْجَنَّةِ...
 
 “Abū Dharr [once] fell sick; so I came to the Messenger of Allāh and
 said: O Messenger of Allāh, verily Abū Dharr has fallen sick. He said:
@@ -1170,22 +986,14 @@ worthy of contemplation. Observe the following:
 
 1. Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-دَاوُوا مَرْضَاكُمْ بِالصَّدَقَةِ.
-  </p>
-</blockquote>
+> دَاوُوا مَرْضَاكُمْ بِالصَّدَقَةِ.
 
 “Treat your sick by giving *sadaqah*.”[^52]
 
 2. He (as) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرُنَا أَهْلَ الْبَيْتِ شِفَاءٌ مِنَ الْوَعْكِ وَالاَسْقَامِ
-وَوَسْوَاسِ الرَّيْبِ.
-  </p>
-</blockquote>
+> ذِكْرُنَا أَهْلَ الْبَيْتِ شِفَاءٌ مِنَ الْوَعْكِ وَالاَسْقَامِ
+> وَوَسْوَاسِ الرَّيْبِ.
 
 “Remembering us the Ahlu’l Bayt (as) is a cure from illness and diseases
 as well as from the insinuation of doubt.”[^53]
@@ -1197,12 +1005,8 @@ tradition:
 
 Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يُسْتَحَبُّ لِلْمَرِيضِ أَنْ يُعْطِيَ السَّائِلَ بِيَدِهِ وَيَأْمُرَ
-السَّائِلَ أَنْ يَدْعُوَ لَهُ.
-  </p>
-</blockquote>
+> يُسْتَحَبُّ لِلْمَرِيضِ أَنْ يُعْطِيَ السَّائِلَ بِيَدِهِ وَيَأْمُرَ
+> السَّائِلَ أَنْ يَدْعُوَ لَهُ.
 
 “It is recommended for the sick person to give a beggar with his own
 hands and tell him to pray for him.”[^54]
@@ -1216,19 +1020,15 @@ dangerous to the human being than the physical illnesses. Mawlā Muhammad
 Narrāqī, the great ethician in his ethical corpus *Jāmi‘* *al-Sa‘ādāt*
 says in his introductory discussions on ethics:
 
-<blockquote dir="rtl">
-  <p>
-اعلم أن الإنسان منقسم إلى سر وعلن، وروح وبدن، ولكل منهما منافيات
-وملائمات، وآلام ولذات، ومهلكات ومنجبات. ومنافيات البدن وآلامه هي
-الأمراض الجسمانية. وملائماته هي الصحة واللذات الجسمانية. والمتكفل
-لبيان تفاصيل هذه الأمراض ومعالجاتها هو علم الطب. ومنافيات الروح وآلامه
-هي رذائل الأخلاق التي تهلكه وتشقيه. وصحته رجوعه إلى فضائلها التي تسعده
-وتنجيه، وتوصله إلى مجاورة أهل اللّه ومقربيه. والمتكفل لبيان هذه
-الرذائل ومعالجاتها هو (علم الأخلاق). ثم إن البدن مادي فانٍ، والروح
-مجردٌ باقٍ، فإن اتصف بشرائف الصفات كان في البهجة والسعادة أبداً، وإن
-اتصف برذائلها كان في العذاب والشقاوة مخلداً...
-  </p>
-</blockquote>
+> اعلم أن الإنسان منقسم إلى سر وعلن، وروح وبدن، ولكل منهما منافيات
+> وملائمات، وآلام ولذات، ومهلكات ومنجبات. ومنافيات البدن وآلامه هي
+> الأمراض الجسمانية. وملائماته هي الصحة واللذات الجسمانية. والمتكفل
+> لبيان تفاصيل هذه الأمراض ومعالجاتها هو علم الطب. ومنافيات الروح وآلامه
+> هي رذائل الأخلاق التي تهلكه وتشقيه. وصحته رجوعه إلى فضائلها التي تسعده
+> وتنجيه، وتوصله إلى مجاورة أهل اللّه ومقربيه. والمتكفل لبيان هذه
+> الرذائل ومعالجاتها هو (علم الأخلاق). ثم إن البدن مادي فانٍ، والروح
+> مجردٌ باقٍ، فإن اتصف بشرائف الصفات كان في البهجة والسعادة أبداً، وإن
+> اتصف برذائلها كان في العذاب والشقاوة مخلداً...
 
 “Know that the human being is divided into “the kernel” (*sirr*) and
 “the apparent” (*‘alan*) and [or in other words] “the spirit” and “the
@@ -1295,14 +1095,10 @@ Imām ‘Alī (as) is reported to have described the Prophet (s) in the
 following manner in one of his sermons compiled in the *Nahju’l
 Balāghah*:
 
-<blockquote dir="rtl">
-  <p>
-طَبِيبٌ دَوَّارٌ بِطِبِّهِ، قَدْ أَحْكَمَ مَرَاهِمَهُ، وَأَحْمَى
-مَوَاسِمَهُ، يَضَعُ ذٌلِكَ حَيْثُ الْحَاجَةُ إِلَيْهِ مِنْ قُلُوبٍ
-عُمْيٍ وَآذَانٍ صُمٍّ وَأَلْسِنَةٍ بُكْمٍ، مُتَتَبِّعٌ بِدَوَائِهِ
-مَوَاضِعَ الْغَفْلَةِ وَمَوَاطِنَ الْحَيْرَةِ.
-  </p>
-</blockquote>
+> طَبِيبٌ دَوَّارٌ بِطِبِّهِ، قَدْ أَحْكَمَ مَرَاهِمَهُ، وَأَحْمَى
+> مَوَاسِمَهُ، يَضَعُ ذٌلِكَ حَيْثُ الْحَاجَةُ إِلَيْهِ مِنْ قُلُوبٍ
+> عُمْيٍ وَآذَانٍ صُمٍّ وَأَلْسِنَةٍ بُكْمٍ، مُتَتَبِّعٌ بِدَوَائِهِ
+> مَوَاضِعَ الْغَفْلَةِ وَمَوَاطِنَ الْحَيْرَةِ.
 
 “The Prophet (s) was like a traveling physician who has set ready his
 ointments and heated his instruments. He uses them wherever the need
@@ -1335,14 +1131,10 @@ al-Nabawiyyah of Ibn Hishām, where the practical import of Imām ‘Alī’s
 (as) statement is brilliantly reflected. Ibn Hishām quotes Ibn Ishāq to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-فَكَانَ رَسُولُ اللٌّهِ (ص) يَعْرُضُ نَفْسَهُ فِي الْمَوَاسِمِ إذاَ
-كَانَتْ عَلى قَبَائِلِ العَرَبِ، يَدْعُوْهُمْ إِلـى اللٌّهِ،
-وَيُخْبِرُهُمْ أَنَّه نَبيٌّ مُرْسَلٌ، وَيَسْئَلُهُمْ أَنْ
-يُصَدِّقُوْهُ…
-  </p>
-</blockquote>
+> فَكَانَ رَسُولُ اللٌّهِ (ص) يَعْرُضُ نَفْسَهُ فِي الْمَوَاسِمِ إذاَ
+> كَانَتْ عَلى قَبَائِلِ العَرَبِ، يَدْعُوْهُمْ إِلـى اللٌّهِ،
+> وَيُخْبِرُهُمْ أَنَّه نَبيٌّ مُرْسَلٌ، وَيَسْئَلُهُمْ أَنْ
+> يُصَدِّقُوْهُ…
 
 “The Messenger of Allāh (s) would present himself to [to the people] in
 [different] occasions; and when he would confront the Arabs, he would
@@ -1351,19 +1143,15 @@ seek their verification….”[^57]
 
 And in the same book Ibn Ishāq is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَحَدَّثَنِيْ حُسين بن عَبْدِ اللٌّهِ بن عُبَيْدِ اللٌّهِ بن عَبَّاسِ،
-قاَلَ: سَمِعْتُ رَبِيْعَة بن عباد، يُحَدِّثُهُ أَبِي: قال إِنِّي
-لَغُلاَمٌ شَابٌّ مَعَ أَبِي بمنى، وَ رَسُولُ اللٌّهِ (ص) يَقِفُ عَلى
-مَنَازِلِ الْقَبَائِلِ مِنَ الْعَرَبِ، فَيَقُوْلُ: يَا بَنِي فُلان،
-إنِّي رَسُوْلُ اللٌّهِ إِلَيْكُمْ، يَأْمُرُكُمْ أَنْ تَعْبُدُو اللٌّهَ
-وَلاَ تُشْرِكُوا بِهِ شَيْئاً، وَ اَنْ تَخْلَعُوْا مَا تَعْبُدُونَ
-مِنْ دُوْنِهِ مِنْ هٌذِهِ الأَنْدَادِ، وَاَنْ تُأْمِنُوا بِي،
-وَتُصَدِّقُوْا بِيْ، وَتَمْنَعُوْنِي حَتّى أُبَيِّنُ عَنِ اللٌّهِ مَا
-بَعَثَنِيْ بِهِ.
-  </p>
-</blockquote>
+> وَحَدَّثَنِيْ حُسين بن عَبْدِ اللٌّهِ بن عُبَيْدِ اللٌّهِ بن عَبَّاسِ،
+> قاَلَ: سَمِعْتُ رَبِيْعَة بن عباد، يُحَدِّثُهُ أَبِي: قال إِنِّي
+> لَغُلاَمٌ شَابٌّ مَعَ أَبِي بمنى، وَ رَسُولُ اللٌّهِ (ص) يَقِفُ عَلى
+> مَنَازِلِ الْقَبَائِلِ مِنَ الْعَرَبِ، فَيَقُوْلُ: يَا بَنِي فُلان،
+> إنِّي رَسُوْلُ اللٌّهِ إِلَيْكُمْ، يَأْمُرُكُمْ أَنْ تَعْبُدُو اللٌّهَ
+> وَلاَ تُشْرِكُوا بِهِ شَيْئاً، وَ اَنْ تَخْلَعُوْا مَا تَعْبُدُونَ
+> مِنْ دُوْنِهِ مِنْ هٌذِهِ الأَنْدَادِ، وَاَنْ تُأْمِنُوا بِي،
+> وَتُصَدِّقُوْا بِيْ، وَتَمْنَعُوْنِي حَتّى أُبَيِّنُ عَنِ اللٌّهِ مَا
+> بَعَثَنِيْ بِهِ.
 
 “‘Ubaydullāh bin’Abbās narrates: I saw my father telling Rabī‘a bin
 ‘Ubbād: “During my youth I was once together with my father in Minā; I
@@ -1386,11 +1174,7 @@ support of his personal fame, he would have consented to this
 transaction. But it was not a matter of personal interests. The Holy
 Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلأَمْرُ إِلـى اللٌّهِ يَضَعُ حَيْثُ يَشَاء...
-  </p>
-</blockquote>
+> أَلأَمْرُ إِلـى اللٌّهِ يَضَعُ حَيْثُ يَشَاء...
 
 “The matter is with Allāh, He would place in whoever’s hand He
 wishes…”[^59]
@@ -1402,11 +1186,7 @@ Our *muballighūn* should emulate this highly important tradition of the
 Holy Prophet (s) within their own limitations. There is a law, we must
 understand, which prevails all the verses of this supplication:
 
-<blockquote dir="rtl">
-  <p>
- لاَ يُكَلِّفُ اللٌّهُ نَفْساً إِلاَّ وُسْعَهَا 
-  </p>
-</blockquote>
+>  لاَ يُكَلِّفُ اللٌّهُ نَفْساً إِلاَّ وُسْعَهَا 
 
 ***“Allāh does not burden a soul save what it can bear.”***[^60]
 
@@ -1424,11 +1204,7 @@ tools would struggle hard and increase his tools so that he can produce
 better wooden items and develop himself financially. The Holy Qur’ān
 says:
 
-<blockquote dir="rtl">
-  <p>
- وَ أَنْ لَيْسَ لِلإِنْسَانِ إِلاَّ مَا سَعــى 
-  </p>
-</blockquote>
+>  وَ أَنْ لَيْسَ لِلإِنْسَانِ إِلاَّ مَا سَعــى 
 
 ***“And there is nothing for man save that which he strives
 for.”***[^61]
@@ -1599,5 +1375,4 @@ Inati, pg. 104
 [^60]: Holy Qur’ān, 2:286
 
 [^61]: Holy Qur’ān, 53:39
-
 

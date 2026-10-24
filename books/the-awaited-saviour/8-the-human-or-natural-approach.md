@@ -295,4 +295,3 @@ we have referred before.
 
 [^1]: See: Sermon 154, Peak of Eloquence, Nahjul Balaghah, ISP 1979.
 
-

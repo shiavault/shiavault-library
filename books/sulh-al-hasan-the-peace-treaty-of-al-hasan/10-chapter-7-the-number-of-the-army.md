@@ -1,8 +1,6 @@
 Chapter 7: the Number of the Army
 =================================
 
-  
-
 The number of the army, that was in Kufa in the middle years of the
 first century, A.H. was forty thousand fighters. Every year ten thousand
 fighters of it made a campaign (against the enemies of Islam). (This is
@@ -36,8 +34,6 @@ Also there are other figures concerning the number of the army.
 ------------------------------------------------------------------------
 
 [[1]](#n1) Al-Rawandi, al-Kharaij wa al-Jaraih, p. 228.
-
-  
 
 The historians have mentioned them, and the important declarations have
 included them. However, their correctness is liable to test and
@@ -79,8 +75,6 @@ Anbar was ten leagues far from Baghdad. It was called so, for the stores
 days of the Persians. Abu al-'Abbas al-Saffih al-'Abbasi resided in it
 till he died. He rebuilt palaces and house in it, but they have become
 extinct.
-
-  
 
 desert.' When he (the man) headed for AnbaI, Mu'awiya sent him
 messengers. He wrote to him as he (Mu'awiya) wrote to his (the man's)
@@ -124,8 +118,6 @@ lived in al-Mada'in, then moved to Baghdad, and died there in the year
 may Allah have mercy on him, has about two hundred books on various
 matters.
 
-  
-
 when he blamed him for his Peace Treaty with Mu'awiya 'My astonishment
 at you does not end. You have made peace with Mu'awiya, (while) you have
 forty thousand (fighters). Or he (al Musayyab) said: 'You have pledged
@@ -166,8 +158,6 @@ already mentioned the reasons for the error in mentioning each of them.
 [[2]](#n5) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 7. Ibn
 Kathir, al Kamil fi al-Ta'rikh vol. 8, p. 42.
 
-  
-
 Dinawari has reported: "They mentioned that the people pledged
 allegiance to Mu'awiya. Then he (Mu'awiya) came back to Sham (Syria).
 Afterwards Sulayman b. Sirt al-Khaza'i, who was absent from Kufa and was
@@ -202,8 +192,6 @@ thousand (fighters) {according to a report seventy thousand (fighters)},
 who have put the hilts of their swords under their chins.  
  No one of them turns till he dies. Indeed, by Allah, if he (i.e.,
 Mu'awiya) came to me, he would find me stronger (than him) in  
-
-  
 
 hitting with the sword." [[1]](#r6)
 
@@ -248,8 +236,6 @@ Persia, to be a governor over it in the year 39 A.H. In the events of
 the year 39 A.H, al-Tabari mentioned that Ziyad was in Basrah before the
 year 39.
 
-  
-
 the figures they have mentioned are worthless.
 
 When Sulayman and Ziyad mentioned these figures of the fighters, they
@@ -289,8 +275,6 @@ So in the year 65 A.H., eighteen thousand people pledged allegiance to
 Sulayman and Ziyad to avenge the blood of al-Husayn, peace be on him.
 When the Battle of 'Ayn al-Warda took next, most people deserted them.
 Thus suffered from the desertion of the people.
-
-  
 
 Such kind of desertion reminded them of the attitude of the people
 towards the matters of the members of the House (Ahl al-Bayt), peace be
@@ -335,8 +319,6 @@ as: "Sluggishness in fighting." [[1]](#r8) Thus if al-
 
 [[1]](#n8) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 113.
 
-  
-
 Hasan had forty thousand fighters, the people would not have been
 sluggish in fighting alongside him. So the number is still liable to
 doubt.
@@ -376,8 +358,6 @@ with whom he met Qays. The concerned ones of them were those who
 received salaries. The concerned ones of the Syrians were the volunteers
 other than those who received salaries. In this way there will be
 coherence between this narration of his and  
-
-  
 
 the other narration that has added the soldiers of Mu'awiya to the
 vanguard of al-Hasan.
@@ -420,8 +400,6 @@ These are eight texts. Not one of them is able to resist the discussion,
 so we cannot use them as historical proofs.
 
 Then we have nothing except the number of the army of the  
-
-  
 
 vanguard, that was twelve thousand fighters, and the number of the
 volunteers in Kufa, that was four thousand fighters. Then we have to

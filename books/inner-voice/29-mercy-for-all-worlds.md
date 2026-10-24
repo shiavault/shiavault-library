@@ -36,4 +36,3 @@ Yemen, Bahrain, Oman and many other places, calling those people to
 his was the universal religion, unfettered with the shackles of tribe,
 religion, color or race.
 
-

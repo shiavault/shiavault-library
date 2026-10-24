@@ -6,21 +6,13 @@ Piety
 1. Piety reforms the faith, protects the soul and adorns magnanimity.
 
 > 1ـ اَلْوَرَعُ يُصْلِحُ الدّينَ، ويَصُونُ النَّفْسَ، ويَزينُ
-<blockquote dir="rtl">
-  <p>
-المُرُوءَةَ.
-  </p>
-</blockquote>
+> المُرُوءَةَ.
 
 2. Restraining oneself from the forbidden [actions] is from the traits
 of the intelligent and is the quality of the honourable.
 
 > 2ـ اَلاِنْقِباضُ عَنِ المَحارِمِ مِنْ شِيَمِ العُقَلاءِ، وَسَجِيَّةُ
-<blockquote dir="rtl">
-  <p>
-الأكارِمِ.
-  </p>
-</blockquote>
+> الأكارِمِ.
 
 3. Abandoning sins is better than seeking repentance [after sinning].
 
@@ -52,23 +44,15 @@ Himself and fear Him with a fear that would prevent you from [doing]
 that which causes His wrath.
 
 > 9ـ اِحْذَرُوا مِنَ اللّهِ كُنْهَ ما حَذَّرَكُمْ مِنْ نَفْسِهِ
-<blockquote dir="rtl">
-  <p>
-وَاخْشَوْهُمْ خَشْيَةً تَحْجُزُكُمْ عَمّا يُسْخِطُهُ.
-  </p>
-</blockquote>
+> وَاخْشَوْهُمْ خَشْيَةً تَحْجُزُكُمْ عَمّا يُسْخِطُهُ.
 
 10. Beware of falling into doubts and being inclined towards lustful
 desires, for indeed these two lead you towards falling into the
 forbidden and committing many sins.
 
 > 10ـ إيّاكَ والوُقُوعَ فِي الشُّبَهاتِ، والوُلُوعَ بِالشَّهَواتِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُما يَقْتادانِكَ إلَى الوُقُوعِ فِي الْحَرامِ ورُكُوبِ كَثير
-مِنَ الآثامِ.
-  </p>
-</blockquote>
+> فَإنَّهُما يَقْتادانِكَ إلَى الوُقُوعِ فِي الْحَرامِ ورُكُوبِ كَثير
+> مِنَ الآثامِ.
 
 11. The best [and most virtuous] thing is piety.
 
@@ -133,11 +117,7 @@ God-wariness.
 lawfulness] and abstaining from worldly pursuits.
 
 > 25ـ إنَّما الوَرَعُ اَلتَّحَرّي فِي المَكاسِبِ، والكَفُّ عَنِ
-<blockquote dir="rtl">
-  <p>
-المَطالِبِ.
-  </p>
-</blockquote>
+> المَطالِبِ.
 
 26. Lack of contentment is the bane of piety.
 
@@ -171,22 +151,14 @@ lawfulness] and abstaining from worldly pursuits.
 of avarice.
 
 > 33ـ دَلالَةُ حُسْنِ الوَرَعِ عُزُوفُ النَّفْسِ عَنْ مَذَلَّةِ
-<blockquote dir="rtl">
-  <p>
-الطَّمَعِ.
-  </p>
-</blockquote>
+> الطَّمَعِ.
 
 34. May Allah have mercy upon the person who refrains from the
 forbidden, bears the liabilities [of others] and vies in hastening
 towards the abundant prizes [of the Hereafter].
 
 > 34ـ رَحِمَ اللّهُ امْرَءاً تَوَرَّعَ عَنِ المَحارِمِ، وتَحَمَّلَ
-<blockquote dir="rtl">
-  <p>
-المَغارِمَ، وَنافَسَ في مُبادَرَةِ جَزيلِ المَغانِمِ.
-  </p>
-</blockquote>
+> المَغارِمَ، وَنافَسَ في مُبادَرَةِ جَزيلِ المَغانِمِ.
 
 35. The cornerstone of piety is lowering one’s gaze.
 
@@ -204,11 +176,7 @@ towards the abundant prizes [of the Hereafter].
 virtuous piety and kindness towards the believers.
 
 > 38ـ شَيْئانِ لايُوازِنُهُما عَمَلٌ: حُسْنُ الوَرَعِ، والإحْسانُ إلَى
-<blockquote dir="rtl">
-  <p>
-المُؤمِنينَ.
-  </p>
-</blockquote>
+> المُؤمِنينَ.
 
 39. Espouse piety, for it is indeed the best protection.
 
@@ -218,31 +186,19 @@ virtuous piety and kindness towards the believers.
 trait of the sincere ones.
 
 > 40ـ عَلَيْكَ بِالوَرَعِ فَإنَّهُ عَوْنُ الدِّينِ، وشيمَةُ
-<blockquote dir="rtl">
-  <p>
-المُخْلِصينَ.
-  </p>
-</blockquote>
+> المُخْلِصينَ.
 
 41. Espouse piety and beware of the deception of avarice, for indeed it
 is a pasture without herbage.
 
 > 41ـ عَلَيْكَ بِالوََرَعِ، وإيّاكَ وغُرُورَ الطَّمَعِ،فَإنَّهُ وَخيمُ
-<blockquote dir="rtl">
-  <p>
-المَرْتَعِ.
-  </p>
-</blockquote>
+> المَرْتَعِ.
 
 42. During the presence of lustful desires and pleasures, the piety of
 the God-wary becomes evident.
 
 > 42ـ عِنْدَ حُضُورِ الشَّهَواتِ واللَّذّاتِ يَتَـبَيَّنُ وَرَعُ
-<blockquote dir="rtl">
-  <p>
-الأتْقِياءِ.
-  </p>
-</blockquote>
+> الأتْقِياءِ.
 
 43. Piety has been paired with God-wariness.
 
@@ -257,11 +213,7 @@ your intention be sincere in the trust [you take] and the vow [you
 make].
 
 > 45ـ لِيَصْدُقْ وَرَعُكَ، ويَشْتَدَّ تَحَرّيكَ، وتَخْلُصْ نِيَّتُكَ فِي
-<blockquote dir="rtl">
-  <p>
-الأمانَةِ وَاليَمينِ.
-  </p>
-</blockquote>
+> الأمانَةِ وَاليَمينِ.
 
 46. One who is not reformed by piety is corrupted by avarice.
 
@@ -299,11 +251,7 @@ make].
 you would be embarrassed to do in public.
 
 > 54ـ مِنْ أفْضَلِ الوَرَعِ أنْ لاتُبْدِيَ في خَلْوَتِكَ ما تَسْتَحْيي
-<blockquote dir="rtl">
-  <p>
-مِنْ إظْهارِهِ في عَلانِيَتِكَ.
-  </p>
-</blockquote>
+> مِنْ إظْهارِهِ في عَلانِيَتِكَ.
 
 55. Eschewing forbidden actions is from the most excellent piety.
 
@@ -400,11 +348,7 @@ avarice, abundant in kindness and lacking in [making others feel a sense
 of] obligation.
 
 > 77ـ يُعْجِبُني أنْ يَكُونَ الرَّجُلُ حَسَنَ الوَرَعِ، مُتَنَزِّهاً
-<blockquote dir="rtl">
-  <p>
-عَنِ الطَّمَعِ، كَثيرَ الإحْسانِ، قَليلَ الاِمْتِنانِ.
-  </p>
-</blockquote>
+> عَنِ الطَّمَعِ، كَثيرَ الإحْسانِ، قَليلَ الاِمْتِنانِ.
 
 78. One of the prerequisites of piety is refraining from sins.
 
@@ -450,5 +394,4 @@ of] obligation.
 evil deeds.
 
 > 88ـ إنَّكَ إنْ تَوَرَّعْتَ تَنَزَّهْتَ عَنْ دَنَسِ السَّيّئاتِ.
-
 

@@ -20,44 +20,28 @@ righteousness.
 you] is having mercy in your heart for all the people.
 
 > 4ـ أبْلَغُ ما تُسْتَدَرُّ بِهِ الرَّحْمَةُ أنْ تُضْمَرَ لِجَميعِ
-<blockquote dir="rtl">
-  <p>
-النّاسِ الرَّحْمَةُ.
-  </p>
-</blockquote>
+> النّاسِ الرَّحْمَةُ.
 
 5. Verily Allah, the Glorified, knows the hidden intention of every
 concealer, the speech of every speaker and the action of every doer.
 
 > 5ـ إنَّ اللّهَ سُبْحانَهُ عِنْدَ إضْمارِ كُلِّ مُضْمِر، وقَوْلِ كُلِّ
-<blockquote dir="rtl">
-  <p>
-قائِل، وعَمَلِ كُلِّ عامِل.
-  </p>
-</blockquote>
+> قائِل، وعَمَلِ كُلِّ عامِل.
 
 6. Verily making intentions sincere and free from corruption is more
 difficult for the doers [of good deeds] than a prolonged, difficult
 struggle.
 
 > 6ـ إنَّ تَخْليصَ النِّيَّةِ مِنَ الفَسادِ أشَدُّ مِنَ العامِلينَ مِنْ
-<blockquote dir="rtl">
-  <p>
-طُولِ الاِجْتِهادِ.
-  </p>
-</blockquote>
+> طُولِ الاِجْتِهادِ.
 
 7. Verily Allah, the Glorified, likes a person’s intention towards the
 people to be good just as He likes his intention in His obedience to be
 strong, not shaky.
 
 > 7ـ إنَّ اللّهَ سُبْحانَهُ يُحِبُّ أنْ تَكُونَ نِيَّةُ الإنْسانِ
-<blockquote dir="rtl">
-  <p>
-لِلنّاسِ جَمِيلَةً، كَما يُحِبُّ أنْ تَكُونَ نِيَّتُهُ في طاعَتِهِ
-قَوِيَّةً غَيْرَ مَدْخُولَة.
-  </p>
-</blockquote>
+> لِلنّاسِ جَمِيلَةً، كَما يُحِبُّ أنْ تَكُونَ نِيَّتُهُ في طاعَتِهِ
+> قَوِيَّةً غَيْرَ مَدْخُولَة.
 
 8. Actions are the fruits of intentions.
 
@@ -88,11 +72,7 @@ intention.
 for the doers [of good deeds] than a long, hard struggle.
 
 > 14ـ تَخْلِيصُ النِّيـَّةِ مِنَ الفَسادِ أشَدُّ عَلَى العامِلينَ مِنْ
-<blockquote dir="rtl">
-  <p>
-طُولِ الجِهادِ.
-  </p>
-</blockquote>
+> طُولِ الجِهادِ.
 
 15. Having good aims [and intentions] is an indication of legitimate
 birth.
@@ -148,11 +128,7 @@ of [his] faith.
 becomes good and affection for him becomes inevitable.
 
 > 27ـ مَنْ حَسُنَتْ نِيَّتُهُ كَثُرَتْ مَثُوبَتُهُ وطابَتْ عيشَتُهُ
-<blockquote dir="rtl">
-  <p>
-ووَجَبَتْ مَوَدَّتُهُ.
-  </p>
-</blockquote>
+> ووَجَبَتْ مَوَدَّتُهُ.
 
 28. One whose intention is good is assisted with God-given success.
 
@@ -163,11 +139,7 @@ life, the security of his flock and an increase in wealth, is through
 the goodness of his intention and excellence of his character.
 
 > 29ـ وُصُولُ المَرْءِ إلى كُلِّ ما يَبْتَغيهِ مِنْ طيبِ عَيْشِهِ وأمْنِ
-<blockquote dir="rtl">
-  <p>
-سِرْبِهِ وسَعَةِ رِزْقِهِ بِحُسْنِ نِيَّتِهِ وسَعَةِ خُلْقِهِ.
-  </p>
-</blockquote>
+> سِرْبِهِ وسَعَةِ رِزْقِهِ بِحُسْنِ نِيَّتِهِ وسَعَةِ خُلْقِهِ.
 
 30. He who has no intention has no action.
 
@@ -184,5 +156,4 @@ happiness.
 
 [^1]: Meaning it is considered a good action in and of itself, aside
 from the actual good deed.
-
 

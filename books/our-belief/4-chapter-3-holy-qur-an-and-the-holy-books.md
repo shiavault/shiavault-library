@@ -344,4 +344,3 @@ can a true Muslim ignore such a firm and important narration? If the
 above tradition was considered precisely, our present difficulties in
 faith, comments, and the disputes in jurisprudence, would not exist.
 
-

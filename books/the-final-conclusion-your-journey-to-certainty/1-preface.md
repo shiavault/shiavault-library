@@ -73,4 +73,3 @@ reach our desired destination. So go ahead and flip the page and let us
 start in our first research topic of this book, Building Blocks of
 Faith.
 
-

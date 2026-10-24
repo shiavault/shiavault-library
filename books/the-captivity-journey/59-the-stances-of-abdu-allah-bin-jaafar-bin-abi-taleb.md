@@ -27,4 +27,3 @@ Then he turned to his guests and said: "Thank God the Al-Mighty Who had
 comforted me for not being with Hussain by having my two sons there for
 him instead".
 
-

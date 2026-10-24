@@ -13,11 +13,7 @@ indeed the one who works for other than Allah is left by Allah to the
 one whom he worked for.
 
 > 2ـ اِعْمَلُوا في غَيْرِ رِياء ولا سُمْعَة، فَإنَّهُ مَنْ يَعْمَلْ
-<blockquote dir="rtl">
-  <p>
-لِغَيرِ اللّهِ يَكِلْهُ اللّهُ سُبْحانَهُ إلى مَنْ عَمِلَ لَهُ.
-  </p>
-</blockquote>
+> لِغَيرِ اللّهِ يَكِلْهُ اللّهُ سُبْحانَهُ إلى مَنْ عَمِلَ لَهُ.
 
 3. Showing off is [a form of] ascribing partners [to Allah].
 
@@ -35,5 +31,4 @@ one whom he worked for.
 there is an internal disease.
 
 > 6ـ لِسانُ المُرائي جَميلٌ، وفي قَلْبِهِ الدَّاءُ الدَّخيلُ.
-
 

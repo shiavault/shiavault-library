@@ -92,4 +92,3 @@ the path is wrong the journey shall ever wander.
 
 [^1]: For the whole story, refer to Quran, 6:74- 83.
 
-

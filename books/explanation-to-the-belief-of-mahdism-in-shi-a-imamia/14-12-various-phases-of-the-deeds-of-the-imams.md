@@ -34,4 +34,3 @@ Shia. Imam Sadiq did nothing new except that he explained and taught the
 religious boundaries obligations, duties etc. which was, of course, for
 all but only Shia acted thereon and adhered thereto.
 
-

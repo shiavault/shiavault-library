@@ -64,4 +64,3 @@ it appears as a dialectical approach between these two groups. In this
 short article I would like to focus on the*Sufi* [^3] issue, which has
 become the major issue between these two groups.
 
-

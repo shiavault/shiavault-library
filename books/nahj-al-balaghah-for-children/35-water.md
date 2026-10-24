@@ -23,4 +23,3 @@ is vicious, and its fruit bitter.
 
 (Sermon 154)
 
-

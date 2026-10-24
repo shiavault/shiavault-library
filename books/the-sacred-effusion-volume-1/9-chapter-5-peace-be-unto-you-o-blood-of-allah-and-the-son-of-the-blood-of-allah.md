@@ -1,22 +1,14 @@
 Chapter 5: Peace be unto you, O blood of Allah and the son of the blood of Allah
 ================================================================================
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا ثَارَ اللَّهِ وَابْنَ ثَارِهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا ثَارَ اللَّهِ وَابْنَ ثَارِهِ
 
 Peace be unto You, O Blood of Allah and the son of the Blood of Allah
 
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ يَا ثَارَ اللَّهِ
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ يَا ثَارَ اللَّهِ
 
 Peace be unto You, O possessor of the blood venerated by Allah
 
@@ -54,11 +46,7 @@ construction. In short, when we say ‘*ya thar Allah*’ we mean ‘O one
 whose blood is the blood that Allah venerated and preferred over the
 blood of others.’[^2]
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا ثَارَ اللَّهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا ثَارَ اللَّهِ
 
 Peace be unto you, O the spilled blood, whose avenger is Allah
 
@@ -71,13 +59,9 @@ meaning can be understood in other salutational recitals as well. For
 example in one of the *ziyarat* of Imam al-Husayn (AS) we address him as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَاَنَّكَ ثَارُ اللهِ فِِي الاَرْضِ وَالدَّمُ الّذِيْ لاَ يُدْرِكُ
-ثَارَهُ اَحَدٌ مِنْ اَهْلِ الاَرْضِ وَلاَ يُدْرِكُهُ إلاَّ اللهُ
-وَحْدَهُ
-  </p>
-</blockquote>
+> ...وَاَنَّكَ ثَارُ اللهِ فِِي الاَرْضِ وَالدَّمُ الّذِيْ لاَ يُدْرِكُ
+> ثَارَهُ اَحَدٌ مِنْ اَهْلِ الاَرْضِ وَلاَ يُدْرِكُهُ إلاَّ اللهُ
+> وَحْدَهُ
 
 ...and that you are the blood of Allah (*thar Allah*) in the earth and
 **the blood** that none of the inhabitants of the earth can avenge, and
@@ -91,13 +75,9 @@ as Allah’s representative in avenging the blood of Imam al-Husayn (AS).
 
 The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَقْتُلُوا النَّفْسَ الَّتي‏ حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ
-وَمَنْ قُتِلَ مَظْلُوماً فَقَدْ جَعَلْنا لِوَلِيِّهِ سُلْطاناً فَلا
-يُسْرِفْ فِي الْقَتْلِ إِنَّهُ كانَ مَنْصُوراً
-  </p>
-</blockquote>
+> وَلا تَقْتُلُوا النَّفْسَ الَّتي‏ حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ
+> وَمَنْ قُتِلَ مَظْلُوماً فَقَدْ جَعَلْنا لِوَلِيِّهِ سُلْطاناً فَلا
+> يُسْرِفْ فِي الْقَتْلِ إِنَّهُ كانَ مَنْصُوراً
 
 ***Do not kill a soul [whose life] Allah has made inviolable, except
 with due cause, and whoever is killed wrongfully, We have certainly
@@ -107,15 +87,11 @@ killing, for he enjoys the support [of law.] (17:33)***
 Al-Bahrani in his *Tafsir al-Burhan*, while commenting on the above
 verse narrates the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمَّد بنِ سِنَان، عَنْ رَجُلٍ، قَالَ: سَأَلْتُ أَبَا عَبْدِ
-اللهِ عَنْ قَوْلِهِ تَعَالىَ: وَمَنْ قُتِلَ مَظْلُوماً فَقَدْ جَعَلْنا
-لِوَلِيِّهِ سُلْطاناً فَلا يُسْرِفْ فِي الْقَتْلِ إِنَّهُ كانَ
-مَنْصُوراً.قال: ذَلِكَ قَائِمُ آلِ مُحَمَّدٍ، يَخْرُجُ فَيَقْتُلُ
-بِدَمِ الْحُسَيْنِ...
-  </p>
-</blockquote>
+> عَنْ مُحَمَّد بنِ سِنَان، عَنْ رَجُلٍ، قَالَ: سَأَلْتُ أَبَا عَبْدِ
+> اللهِ عَنْ قَوْلِهِ تَعَالىَ: وَمَنْ قُتِلَ مَظْلُوماً فَقَدْ جَعَلْنا
+> لِوَلِيِّهِ سُلْطاناً فَلا يُسْرِفْ فِي الْقَتْلِ إِنَّهُ كانَ
+> مَنْصُوراً.قال: ذَلِكَ قَائِمُ آلِ مُحَمَّدٍ، يَخْرُجُ فَيَقْتُلُ
+> بِدَمِ الْحُسَيْنِ...
 
 Muhammad bin Sinan narrates from a person who said: I asked Aba
 ‘Abdillah [al-Sadiq (AS)] about the verse “and whoever is killed
@@ -125,11 +101,7 @@ and rise to avenge the blood of al-Husayn (AS)...**[^5]
 
 We also read in the supplication of *al-Nudba*:
 
-<blockquote dir="rtl">
-  <p>
-اَيْنَ الطالِبُ بِدَمِ الْمَقْتُوْلِ بِكَرْبَلاَءِ
-  </p>
-</blockquote>
+> اَيْنَ الطالِبُ بِدَمِ الْمَقْتُوْلِ بِكَرْبَلاَءِ
 
 Where is the one who would avenge the blood of the one who was killed in
 Karbala’...[^6]
@@ -139,11 +111,7 @@ Imam al-Husayn (AS) or the present Imam (AS) will do the same, there is
 no difference. This is because the Imam (AS) is an entirely submissive
 servant of Almighty Allah and whatever he does is whatever Allah wants.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا ثَارَ اللَّهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا ثَارَ اللَّهِ
 
 Peace be unto you, O one whose blood is the blood of Allah
 
@@ -162,16 +130,12 @@ Almighty Allah. In other words, Almighty Allah becomes their means of
 action. In a sacred tradition [*hadith al-qudsi*], Almighty Allah is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَتَقَرّبُ إِلَىّ عَبْدٌ مِنْ عِبَادِيْ بِشَيْ‏ءٍ اَحَبُّ إِلَىّ
-مِمّا افْتَرَضْتُ عَلَيْهِ. وَإِنّهُ لَيَتَقَرَّّبُ إِلَىّ
-بِالنّافِلَةِ حَتّي اُحِبّهُ، فَاِذَا اَحْبَبْتُهُ، كُنْتُ اِذاً
-سَمْعَهُ الّذِيْ يَسْمَعُ بِهِ وَبَصَرَهُ الَّتِيْ يَبْصُرُ بِهَا
-وَلِسَانَهُ الّذِيْ يَنْطقُ بِهِ وَيَدَهُ الّتِيْ يَبْطشُ بِهَا، إِنْ
-دَعَانِيْ اَجَبْتُهُ.
-  </p>
-</blockquote>
+> مَا يَتَقَرّبُ إِلَىّ عَبْدٌ مِنْ عِبَادِيْ بِشَيْ‏ءٍ اَحَبُّ إِلَىّ
+> مِمّا افْتَرَضْتُ عَلَيْهِ. وَإِنّهُ لَيَتَقَرَّّبُ إِلَىّ
+> بِالنّافِلَةِ حَتّي اُحِبّهُ، فَاِذَا اَحْبَبْتُهُ، كُنْتُ اِذاً
+> سَمْعَهُ الّذِيْ يَسْمَعُ بِهِ وَبَصَرَهُ الَّتِيْ يَبْصُرُ بِهَا
+> وَلِسَانَهُ الّذِيْ يَنْطقُ بِهِ وَيَدَهُ الّتِيْ يَبْطشُ بِهَا، إِنْ
+> دَعَانِيْ اَجَبْتُهُ.
 
 My servant does not draw near to me with anything more lovable to Me
 than what I have made obligatory on him. And surely he never ceases to
@@ -200,24 +164,16 @@ that He employs these intermediaries of the elevated human being to do
 what He decides. Hashim bin ‘Umara narrates: I heard Amir al-mu’minin
 ‘Ali (AS) say:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا عَيْنُ اللَّهِ وََأَنَا يَدُ اللَّهِ وَأَنَا جَنْبُ اللَّهِ
-وَأَنَا بَابُ اللَّهِ
-  </p>
-</blockquote>
+> أَنَا عَيْنُ اللَّهِ وََأَنَا يَدُ اللَّهِ وَأَنَا جَنْبُ اللَّهِ
+> وَأَنَا بَابُ اللَّهِ
 
 I am the eye of Allah, and I am the hand of Allah; and I am the side of
 Allah and I am the door of Allah.[^9]
 
 And Aswad bin Sa’id reports: I was with Abu Ja’far (AS), and he said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ حُجَّةُ اللَّهِ وَنَحْنُ بَابُ اللَّهِ وَنَحْنُ لِسَانُ اللَّهِ
-وَنَحْنُ وَجْهُ اللَّهِ وَنَحْنُ عَيْنُ اللَّهِ فِي خَلْقِهِ...
-  </p>
-</blockquote>
+> نَحْنُ حُجَّةُ اللَّهِ وَنَحْنُ بَابُ اللَّهِ وَنَحْنُ لِسَانُ اللَّهِ
+> وَنَحْنُ وَجْهُ اللَّهِ وَنَحْنُ عَيْنُ اللَّهِ فِي خَلْقِهِ...
 
 We (the Ahl al-Bayt) are the proof of Allah, we are the door of Allah,
 and we are the tongue of Allah, and we are the face of Allah, and we are
@@ -226,13 +182,9 @@ the eye of Allah in His creation...[^10]
 Scholars of insight when expounding this exalted state also refer to the
 following verse of the Holy Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمْ تَقْتُلُوهُمْ وَلكِنَّ اللَّهَ قَتَلَهُمْ وَما رَمَيْتَ إِذْ
-رَمَيْتَ وَلكِنَّ اللَّهَ رَمى‏ وَلِيُبْلِيَ الْمُؤْمِنينَ مِنْهُ
-بَلاءً حَسَناً إِنَّ اللَّهَ سَميعٌ عَليمٌ
-  </p>
-</blockquote>
+> فَلَمْ تَقْتُلُوهُمْ وَلكِنَّ اللَّهَ قَتَلَهُمْ وَما رَمَيْتَ إِذْ
+> رَمَيْتَ وَلكِنَّ اللَّهَ رَمى‏ وَلِيُبْلِيَ الْمُؤْمِنينَ مِنْهُ
+> بَلاءً حَسَناً إِنَّ اللَّهَ سَميعٌ عَليمٌ
 
 ***You did not kill them; rather it was Allah who killed them; and you
 did not throw when you threw, rather it was Allah who threw, that He
@@ -256,12 +208,8 @@ Scholars of insight, considering the reality that Imam al-Husayn (AS) is
 (AS) therefore is Allah Himself. The late scholar Ayatullah Muhammad
 Ridha Rabbani in his *Jalawat-e-Rabbani* says:
 
-<blockquote dir="rtl">
-  <p>
-آن حضرت مقام ثاراللهي را واجد است و بهمين جهت است كه خونبهاي او خود
-خداست
-  </p>
-</blockquote>
+> آن حضرت مقام ثاراللهي را واجد است و بهمين جهت است كه خونبهاي او خود
+> خداست
 
 That Hadhrat occupies the station of *thar Allah* and for this very
 reason his compensatory price is God Himself.[^12]
@@ -270,13 +218,9 @@ And in his comments over ‘Allama al-Tabataba\`i’s translation of *thar
 Allah* as ‘*blood of Allah*’ Shaykh Rukhshad, a former student of
 ‘Allama says:
 
-<blockquote dir="rtl">
-  <p>
-منظور اين است كه خداوند متعال خود خونبهاي امام حسين – عليه السلام – مي
-باشد؛ زيرا در برابر شهادت و فداكاري آن حضرت هيچ نعمتي از نعمتهاي آخرتي
-جز ديدار پروردگار قرار نمي گرفت.
-  </p>
-</blockquote>
+> منظور اين است كه خداوند متعال خود خونبهاي امام حسين – عليه السلام – مي
+> باشد؛ زيرا در برابر شهادت و فداكاري آن حضرت هيچ نعمتي از نعمتهاي آخرتي
+> جز ديدار پروردگار قرار نمي گرفت.
 
 This implies that Almighty God Himself is the compensatory price of the
 blood of Imam al-Husayn (AS). This is because in exchange for the Imam’s
@@ -301,29 +245,13 @@ etc.
 Mentioning the lofty station of Imam al-Husayn (AS) and his companions,
 al-Naraqi in his *Mathnawi-e-Taqdis* says:
 
-<blockquote dir="rtl">
-  <p>
-اين فناي بنده در مولا بُوَد
-  </p>
-</blockquote>
+> اين فناي بنده در مولا بُوَد
 
-<blockquote dir="rtl">
-  <p>
-اين فنا از صد بقا اولي بُوَد
-  </p>
-</blockquote>
+> اين فنا از صد بقا اولي بُوَد
 
-<blockquote dir="rtl">
-  <p>
-اين عدم باشد رهِ كويِ بقا
-  </p>
-</blockquote>
+> اين عدم باشد رهِ كويِ بقا
 
-<blockquote dir="rtl">
-  <p>
-فهم آن خواهي برو تا كربلا
-  </p>
-</blockquote>
+> فهم آن خواهي برو تا كربلا
 
 *This is the dissolution of the servant in his Master*  
 *This dissolution is better than a hundred lives*  
@@ -338,11 +266,7 @@ government being established, where the laws of Allah are executed and
 the religion is practised in the best possible manner, so that an
 environment for human perfection is facilitated for every human being.
 
-<blockquote dir="rtl">
-  <p>
-يَا ثَارَ اللهِ
-  </p>
-</blockquote>
+> يَا ثَارَ اللهِ
 
 O one who has been killed for the sake of Allah
 
@@ -353,12 +277,8 @@ when Allah is annexed to the word *thar*, it confers the meaning
 (AS). For example in a *Ziyarat* taught by Imam al-Sadiq (AS) we address
 the Imam (AS) saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا قَتِيلَ اللَّهِ وَابْنَ قَتِيلِهِ أَلسَّلاَمُ
-عَلَيْكَ يَا ثَارَ اللَّهِ وَابْنَ ثَارِهِ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا قَتِيلَ اللَّهِ وَابْنَ قَتِيلِهِ أَلسَّلاَمُ
+> عَلَيْكَ يَا ثَارَ اللَّهِ وَابْنَ ثَارِهِ
 
 Peace be unto you O martyr, the son of a martyr, peace be unto you, O
 blood of Allah, the son of the blood of Allah...[^16]
@@ -371,11 +291,7 @@ In our case, i.e. in Ziyarat ‘Ashura’, however, it is possible that this
 phrase would like to confer the meaning of both the phrases depicted in
 the above quotation. And Allah is All-Knowing.
 
-<blockquote dir="rtl">
-  <p>
-وَابْنَ ثَارِه
-  </p>
-</blockquote>
+> وَابْنَ ثَارِه
 
 And the offspring of the blood of Allah
 
@@ -424,5 +340,4 @@ action of Allah.
 [^15]: Mawla al-Naraqi, Mathnawi-e-Taqdis, p. 273
 
 [^16]: ‘Allama Majlisi, Bihar al-Anwar, v.98, p. 151
-
 

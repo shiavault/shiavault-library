@@ -23,7 +23,6 @@ The most lively thought is still inferior to the dullest sensation. We
 may observe a like distinction to run through all the other perceptions
 of the mind.
 
-
 A man in a fit of anger, is actuated in a very different manner from
 one who only thinks of that emotion.
 
@@ -194,7 +193,7 @@ suspicion. By bringing ideas into so clear a light we may reasonably
 hope to remove all dispute, which may arise, concerning their nature and
 reality.
 
-[^1] [^1] It is probable that no more was meant by these, who denied
+[^1]: [^1] It is probable that no more was meant by these, who denied
 innate ideas, than that all ideas were copies of our impressions; though
 it must be confessed, that the terms, which they employed, were not
 chosen with such caution, nor so exactly defined, as to prevent all
@@ -226,5 +225,4 @@ touch- ing the point in question.
 
 A like ambiguity and circumlocution seem to run through that
 philosopher's reasonings on this as well as most other subjects.
-
 

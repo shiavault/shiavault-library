@@ -161,4 +161,3 @@ side, or from the wife's side, or from both sides.
 
 Islam has laid down clear rules for each of these situations.
 
-

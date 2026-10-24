@@ -3,12 +3,8 @@ Lesson Fifty Eight: Justice Among Children
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إِعْدِلُوا بَيْنَ أَوْلادِكُمْ كَما تُحِبُّونَ أَنْ يَعْدِلُوا
-بَيْنَكُمْ
-  </p>
-</blockquote>
+> إِعْدِلُوا بَيْنَ أَوْلادِكُمْ كَما تُحِبُّونَ أَنْ يَعْدِلُوا
+> بَيْنَكُمْ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ vindictiveness towards their parents and they may even seek vengeance in
 the society.
 
 [^1]: Bihar al-Anwar, volume 23, Makarim AlAkhlaq, page 220
-
 

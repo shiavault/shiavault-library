@@ -77,4 +77,3 @@ spite of his retaliation for Hormozan's blood. Saif also says a man from
 the Tamim tribe killed Abu Lolo to prove honor for one of his unknown
 fellow tribesmen.
 
-

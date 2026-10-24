@@ -22,9 +22,7 @@ personality of Islam, the only divine representative on this earth. He
 is none other than Hazrat Hujjat Ibnil Hasan-Al-Askari, Mahdi,
 Aakhrezzaman.
 
-
 **The Meaning of The Title Imam-E-Zaman (A.S.)**
-
 
 A title reflects the personality of man. His characteristics and
 qualities are projected through it. Nowadays such instances are
@@ -174,5 +172,4 @@ to free ourselves form the hardship of this world and the world
 here-after.
 
 May Allah increase our marefat about Imam-e-Mahdi (A.S)
-
 

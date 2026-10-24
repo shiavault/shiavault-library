@@ -48,7 +48,6 @@ changed to intellectual concepts.
 
 ###
 
-
 Judgment
 
 Category

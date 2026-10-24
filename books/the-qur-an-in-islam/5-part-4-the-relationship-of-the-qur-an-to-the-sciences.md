@@ -193,4 +193,3 @@ revelation caused a change in the direction of history and generated a
 chain of important events resulting in the progress and development of
 the culture of man.
 
-

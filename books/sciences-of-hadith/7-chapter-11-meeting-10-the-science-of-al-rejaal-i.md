@@ -189,7 +189,6 @@ his Mercy upon them." Similar to other methods of authentications
 accepting or rejecting this principle would include or exclude hundreds
 of Ahadith.
 
-
 **Chapter 12: Meeting 11 : The Science Of AL-Rejjal II**
 
 Meeting 11: The Science of al-Rejaal II Abstract Shi'a Sects
@@ -306,18 +305,14 @@ good.
 1. Kolayni in an authentic Hadith from Ibn Abi Omair from Hisham Ibn
 Salem narrated from Imam Sadiq (a.s):
 
-<p dir="rtl">
 من سمع شيئا من الثواب علي شيء فصنعه کان له و ان لم يکن علي ما بلغه.
-</p>
 
 "Whoever hears a certain rewards for something, so he performs the
 action, he has the rewards of it even if it was not as he had heard it."
 [^128] 2. Kolayni in his Isnad from Muhammad Ibn Marwan narrated:
 
-<p dir="rtl">
 سمعت اباجعفر (ع) يقول: من بلغه ثواب من الله علي عمل فعمل ذلک العمل
 التماس ذلک الثواب اُوتيه و ان لم يکن الحديث کما بلغه.
-</p>
 
 "I heard Imam Baqir (a.s) saying: "Whoever comes to know about a reward
 from Allah for a action, and then he acted upon it seeking the promised
@@ -420,5 +415,4 @@ mentioned in Kamel al Ziarat, Ali ibn abi Hamzeh is justified to be
 reliable. As you can see, the issues in the science of Rejaal are not
 always straight forward and can carry the possibilities of different
 interpretations thus require deduction and Ijtihad.
-
 

@@ -115,4 +115,3 @@ said to have been buried
  3  
  Well of Prophet Hud [a] and a stone pot for wudu
 
-

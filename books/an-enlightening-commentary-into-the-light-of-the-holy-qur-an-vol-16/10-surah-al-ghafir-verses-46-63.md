@@ -4,12 +4,8 @@ Surah al-Ghafir, Verses 46 - 63
 Surah al-Ghafir - Verse 46
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوّاً وَعَشِيّاً وَيَوْمَ تَقُومُ
-السَّاعَةُ أَدْخِلُوا آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
-  </p>
-</blockquote>
+> النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوّاً وَعَشِيّاً وَيَوْمَ تَقُومُ
+> السَّاعَةُ أَدْخِلُوا آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
 
 ***46. The Fire, they are exposed to it, morning and evening. And on the
 Day when the Hour will be established [it will be said]***
@@ -67,13 +63,9 @@ of Paradise.
 Surah al-Ghafir - Verse 47
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَتَحَاجُّونَ فِي النَّارِ فَيَقُولُ الضُّعَفَاءُ لِلَّذِينَ
-اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعاً فَهَلْ أَنْتُمْ مُغْنُونَ
-عَنَّا نَصِيباً مِنَ النَّارِ
-  </p>
-</blockquote>
+> وَإِذْ يَتَحَاجُّونَ فِي النَّارِ فَيَقُولُ الضُّعَفَاءُ لِلَّذِينَ
+> اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعاً فَهَلْ أَنْتُمْ مُغْنُونَ
+> عَنَّا نَصِيباً مِنَ النَّارِ
 
 ***47. And when they will dispute [and producing arguments] in the Fire,
 the weak will say to those who were arrogant: “Indeed we followed you.
@@ -131,19 +123,11 @@ Ghadir and followed others.[^3]
 Surah al-Ghafir - Verses 48 - 49
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا كُلٌّ فِيهَا إِنَّ اللَّهَ قَدْ
-حَكَمَ بَيْنَ الْعِبَادِ
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا كُلٌّ فِيهَا إِنَّ اللَّهَ قَدْ
+> حَكَمَ بَيْنَ الْعِبَادِ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ
-يُخَفِّفْ عَنَّا يَوْماً مِنَ الْعَذَابِ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ
+> يُخَفِّفْ عَنَّا يَوْماً مِنَ الْعَذَابِ
 
 ***48. Those who were arrogant will say [in reply]: “We are all in this
 [Fire]! Indeed Allah has judged between [His] servants [justly]!”***  
@@ -186,12 +170,8 @@ so that they may be able to take a rest and are content with the same.
 Surah al-Ghafir - Verse 50
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُمْ بِالْبَيِّنَاتِ قَالُوا
-بَلَی قَالُوا فَادْعُوا وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلالٍ
-  </p>
-</blockquote>
+> قَالُوا أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُمْ بِالْبَيِّنَاتِ قَالُوا
+> بَلَی قَالُوا فَادْعُوا وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلالٍ
 
 ***50. They [keepers of Hell] will say: “Did there not come to you, your
 Messengers with miracles?” They will say: “Yes.” They will reply: “Then
@@ -228,19 +208,11 @@ not be answered.
 Surah al-Ghafir - Verses 51 - 52
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لَنَنْصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ
-الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ
-  </p>
-</blockquote>
+> إِنَّا لَنَنْصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ
+> الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ
-وَلَهُمْ سُوءُ الدَّارِ
-  </p>
-</blockquote>
+> يَوْمَ لا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ
+> وَلَهُمْ سُوءُ الدَّارِ
 
 ***51. Indeed We will truly make triumphant Our Messengers and those who
 believe in this mundane life and on the Day when the witnesses will
@@ -409,18 +381,10 @@ Therefore, man is in need of Divine deliverance at all times.
 Surah al-Ghafir - Verses 53 - 54
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا مُوسَی الْهُدَی وَأَوْرَثْنَا بَنِي إِسْرائيلَ
-الْكِتَابَ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا مُوسَی الْهُدَی وَأَوْرَثْنَا بَنِي إِسْرائيلَ
+> الْكِتَابَ
 
-<blockquote dir="rtl">
-  <p>
-هُدیً وَذِكْرَی لِأُولِي الْأَلْبَابِ
-  </p>
-</blockquote>
+> هُدیً وَذِكْرَی لِأُولِي الْأَلْبَابِ
 
 ***53. And verily We gave Moses (as) the Guidance and We made the
 Children of Israel to inherit the Scripture [the Torah],***  
@@ -459,12 +423,8 @@ and fear of God are the prerequisites of understanding Divine teachings.
 Surah al-Ghafir - Verse 55
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنْبِكَ
-وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْأِبْكَارِ
-  </p>
-</blockquote>
+> فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنْبِكَ
+> وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْأِبْكَارِ
 
 ***55. Therefore be patient. Indeed, the Promise of Allah is true, and
 ask forgiveness for your sin and glorify the praises of your Lord in the
@@ -569,13 +529,9 @@ absolves them of impurities, and adorns them with perfect attributes.
 Surah al-Ghafir - Verse 56
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ
-أَتَاهُمْ إِنْ فِي صُدُورِهِمْ إِلَّا كِبْرٌ مَا هُمْ بِبَالِغِيهِ
-فَاسْتَعِذْ بِاللَّهِ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ
+> أَتَاهُمْ إِنْ فِي صُدُورِهِمْ إِلَّا كِبْرٌ مَا هُمْ بِبَالِغِيهِ
+> فَاسْتَعِذْ بِاللَّهِ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
 ***56. Indeed those who dispute about the Ayat (Verses, Signs) of Allah
 without any authority having come to them, there is nothing else in
@@ -687,12 +643,8 @@ Reckoning!’”***[^38]***.***
 Surah al-Ghafir - Verse 57
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ
-وَلَكِنَّ أَكْثَرَ النَّاسِ لا يَعْلَمُونَ
-  </p>
-</blockquote>
+> لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ
+> وَلَكِنَّ أَكْثَرَ النَّاسِ لا يَعْلَمُونَ
 
 ***57. The creation of the heavens and the earth is indeed greater than
 the creation of mankind; yet, most of people know not.***
@@ -729,12 +681,8 @@ vanity springs from ignorance toward one’s limited extent of knowledge.
 Surah al-Ghafir - Verse 58
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَسْتَوِي الْأَعْمَی وَالْبَصِيرُ وَالَّذِينَ آمَنُوا وَعَمِلُوا
-الصَّالِحَاتِ وَلا الْمُسِيءُ قَلِيلاً مَا تَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَمَا يَسْتَوِي الْأَعْمَی وَالْبَصِيرُ وَالَّذِينَ آمَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ وَلا الْمُسِيءُ قَلِيلاً مَا تَتَذَكَّرُونَ
 
 ***58. And not equal are the blind and those who see; nor are [equal]
 those who believe and do righteous good deeds and those who do evil.
@@ -776,12 +724,8 @@ falsehood.
 Surah al-Ghafir - Verse 59
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ السَّاعَةَ لَآتِيَةٌ لا رَيْبَ فِيهَا وَلَكِنَّ أَكْثَرَ
-النَّاسِ لا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّ السَّاعَةَ لَآتِيَةٌ لا رَيْبَ فِيهَا وَلَكِنَّ أَكْثَرَ
+> النَّاسِ لا يُؤْمِنُونَ
 
 ***59. Indeed the Hour is surely coming, there is no doubt about it, yet
 most men believe not.***
@@ -841,12 +785,8 @@ the coming of Resurrection and expressing his belief in the same.
 Surah al-Ghafir - Verse 60
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***60. And your Lord said: “Invoke Me, I will respond to your
 [invocation]. Indeed those who scorn My worship, they will surely enter
@@ -1067,13 +1007,9 @@ benefits, He will not answer such prayers.*[^47]
 Surah al-Ghafir - Verse 61
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ
-وَالنَّهَارَ مُبْصِراً إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَی النَّاسِ
-وَلَكِنَّ أَكْثَرَ النَّاسِ لا يَشْكُرُونَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ
+> وَالنَّهَارَ مُبْصِراً إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَی النَّاسِ
+> وَلَكِنَّ أَكْثَرَ النَّاسِ لا يَشْكُرُونَ
 
 ***61. Allah, it is He Who has made the night for you that you may rest
 therein and the day for you to see. Truly, Allah is full of Bounty to
@@ -1145,18 +1081,10 @@ and will feel humble and inferior before Divine Mercy and Glory.
 Surah al-Ghafir - Verse 62 - 63
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لا إِلَهَ إِلَّا هُوَ
-فَأَنَّی تُؤْفَكُونَ
-  </p>
-</blockquote>
+> ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لا إِلَهَ إِلَّا هُوَ
+> فَأَنَّی تُؤْفَكُونَ
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ يُؤْفَكُ الَّذِينَ كَانُوا بِآياتِ اللَّهِ يَجْحَدُونَ
-  </p>
-</blockquote>
+> كَذَلِكَ يُؤْفَكُ الَّذِينَ كَانُوا بِآياتِ اللَّهِ يَجْحَدُونَ
 
 ***62. That is Allah, your Lord, the Creator of all things: there is no
 god but Allah. How then are you turning away [from the Path of
@@ -1345,5 +1273,4 @@ question.
 [^51]: Lisan al-’Arab, apud Jawhari.
 
 [^52]: 2:2
-
 

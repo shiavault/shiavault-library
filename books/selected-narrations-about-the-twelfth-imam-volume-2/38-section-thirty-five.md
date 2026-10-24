@@ -54,4 +54,3 @@ The following traditions also prove the above concept: 283, 423, 432,
 
 [^3]: Quran 48:25.
 
-

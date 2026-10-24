@@ -374,4 +374,3 @@ Rahman (3 April 2009). Maulana Dr Attaur Rahman, former Member of the
 National Assembly, Mohtamim,*Dar-ul uloom Tafheem’ ul Qur’an* دا را
 لعلوم تفهیم القر آن  \*, Mardan, N.W.F.P(=Khyber Pakhtunkhwa).
 
-

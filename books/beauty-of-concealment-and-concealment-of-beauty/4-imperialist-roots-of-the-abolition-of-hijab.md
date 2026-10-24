@@ -853,4 +853,3 @@ Hindi in pre-partition days. (Translator).
 as its manifestations by the ill-informed rogues in contrast with pure
 Islam.
 
-

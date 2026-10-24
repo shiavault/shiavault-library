@@ -116,4 +116,3 @@ companions of Imam-e-Zaman (a.t.f.s.)!
 95 These second ring soldiers will not be like the closest companions
 but will be quite similar to them.
 
-

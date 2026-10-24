@@ -23,12 +23,8 @@ the volition of Allāh (SwT).  The following verse of the Qur’ān alludes
 to this reality:  
   
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ أَنْـتُمُ الْفُقَرَاءُ إِلـى اللٌّهِ وَاللٌّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ أَنْـتُمُ الْفُقَرَاءُ إِلـى اللٌّهِ وَاللٌّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ
 
 ***“O mankind! You are the ones who stand in need of Allāh, and Allāh,
 He is the All-Sufficient, the All-Laudable***.”[^4]
@@ -40,18 +36,8 @@ independent entities.
  In his glosses over his philosophical poetry *al-Manzūmah*, Mullā Hādī
 Sabzawārī says:
 
-<blockquote dir="rtl">
-  <p>
- 
-  </p>
-</blockquote>
-
-<blockquote dir="rtl">
-  <p>
-...الا ترى أنّ كلّ وجود عين التعلق بالمبدء وليس إضافة مقولية، وللمبدء
-أضافة إشراقية على جميع ما سواه…
-  </p>
-</blockquote>
+> ...الا ترى أنّ كلّ وجود عين التعلق بالمبدء وليس إضافة مقولية، وللمبدء
+> أضافة إشراقية على جميع ما سواه…
 
 “…Don’t you see that every entity is ‘sheer linkage to the Origin’
 (*‘ayn al-ta’alluq bi al-Mabda’*) and not categorically linked, and
@@ -70,11 +56,7 @@ or she is provided with is nothing but Divine action.  The Holy Qur’ān
 says:  
   
 
-<blockquote dir="rtl">
-  <p>
-وَاللٌّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَاللٌّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
 
 “***And God has created you and whatever you do***.[^8]”
 
@@ -91,43 +73,27 @@ moment. 
 times:  
   
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْفَضْلِ عَلـى الْبَرِيَّةِ…
-  </p>
-</blockquote>
+> يَا دَائِمَ الْفَضْلِ عَلـى الْبَرِيَّةِ…
 
 “O One who continually confers abundance on the creation…[^10]”  
  2.  In the supplication of Jawshan al-Kabīr we address Almighty Allāh
 as:  
   
 
-<blockquote dir="rtl">
-  <p>
-...يَا دَائِمَ اللُّطْفِ...
-  </p>
-</blockquote>
+> ...يَا دَائِمَ اللُّطْفِ...
 
 “…O Ever Benevolent…[^11]”  
  3.  On Eid day, in one of the supplications we are taught to say:  
   
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْمَعْرُوفِ…
-  </p>
-</blockquote>
+> يَا دَائِمَ الْمَعْرُوفِ…
 
 “O One who always does good…[^12]”  
  4.  And in one of the recommended supplications on the 18th Day of
 every month we are taught to address Almighty Allāh as:  
   
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْجُوْدِ وَالْكَرَمِ…
-  </p>
-</blockquote>
+> يَا دَائِمَ الْجُوْدِ وَالْكَرَمِ…
 
 “O Ever Bountiful & Generous…[^13]”
 
@@ -196,5 +162,4 @@ always need a cause.  All the created beings are such.
 [^14]: This refers to verse 5:63 of the Holy Qur’ān.  Imām Khumaynī has
 a beautiful note on this issue in his commentary on tradition no. 31 [On
 the Indescribability of God] of his Forty Traditions.
-
 

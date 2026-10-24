@@ -775,4 +775,3 @@ In the original version of this book, I have mentioned a number of
 scholars of history, biographies, narrators and written works that this
 concise book cannot hold.
 
-

@@ -15,9 +15,7 @@ woman, too. She has her own jihad and can perform a role of the same
 level as men’s jihad. Without doubt, the ground for activating this role
 has roots inside the family. Imam Ali’s (P) states:
 
-<p dir="rtl">
 جهاد المراة حسن التبعل
-</p>
 
 “A woman’s jihad (as a wife) is having good behavior towards the
 husband1 ”.
@@ -39,9 +37,7 @@ remarks and testament on His Holiness Ali (P), the testament which is in
 fact an explanation of “good treatment”. Her Eminence Zahra (P) tells
 her husband:
 
-<p dir="rtl">
 «يابن عمّ ماعهدتني كاذبة ولا خائنة و لا خالفتك منذ عاشرتني»
-</p>
 
 “O cousin, have you observed any lie, treachery or opposition from my
 part, during our marital life? I mean, during our marital life, can you
@@ -64,14 +60,10 @@ discord of any kind.
 Remarkably, His Holiness Ali (P) following the enumeration of these
 three pivots, states:
 
-<p dir="rtl">
 معاذ الله!
-</p>
 
-<p dir="rtl">
 فقال (ع): معاذالله انت اعلم و ابرّ و اتقي و اكرم و اشد خوفاً من الله ان
 او بخك بمخالفتي.
-</p>
 
 "I seek refuge in Allah. O, my wife you are of a higher position to tell
 such words, you are more knowledgeable, more righteous, pious and
@@ -89,9 +81,7 @@ and behavioral control.
 His Holiness Ali (P) in reply to the question, “What is your experience
 during the 9 years of living with Her Eminence Zahra (P)?” states:
 
-<p dir="rtl">
 و الله لا اغضبتني اذلتني و لا عصت لي امراً
-</p>
 
 "She never makes me angry and never disobeys my command at all."
 
@@ -112,9 +102,7 @@ Eminence Fatimah (P). In some instances, the obligations assigned to
 them may be more burdensome than that assigned to other people. It was
 so for the Holy Prophet (P) when the verse was revealed:
 
-<p dir="rtl">
 «من الليل فتهجد نافلة لك»
-</p>
 
 "At night, wake up and pray during it as an extra bonus for yourself."
 
@@ -123,9 +111,7 @@ Commandment for he is considered an example and role model. In view of
 that, His Holiness Ali (P) describing infallibility as one of his own
 attributes states:
 
-<p dir="rtl">
 انكم لا تقدرون علي ذلك ولكن اعينوني بورع
-</p>
 
 “You can never be like me, however, assist me through piety”.
 
@@ -147,18 +133,14 @@ internal affairs of the family is another clear and distinct role of a
 Muslim woman. The Chief of the Faithful, Ali (P), quoting from the Holy
 Prophet (P) states: "One of the points of
 
-<p dir="rtl">
 كلكم راع و كلكم مسئول عن رعيته
-</p>
 
 “All of you should be a shepherd towards your flock.”
 
 Refers to the woman’s role and responsibility initiated inside the
 family. His Holiness states in this regard:
 
-<p dir="rtl">
 والمراة راعية علي بيت زوجها و هي مسئوله
-</p>
 
 “The woman is the supervisor and the one responsible inside the house,
 in the family and in relation with her husband.”
@@ -178,11 +160,9 @@ In His Holiness Ali’s (P) words, the best elements of a Muslim woman’s
 personality which are considered at the same time the worst for men, are
 as follows:
 
-<p dir="rtl">
 خيار خصال النساء شرار خصال الرجال، الزهو و الجبن و البخل، فاذا كانت
 المرأة مزهوةً لم تمكن من نفسها و اذا كانت بخيله حفظت مالها و مال بعلها و
 اذا كانت جبانة فرقت من كل شيئ يعرض لها.
-</p>
 
 (**زهو** ) (Zahv means inviolability that is a woman must be inviolable
 in her social activities and her sense of pride should be dominant over
@@ -219,9 +199,7 @@ woman must observe a boundary in her social responsibilities.
 Regarding the characteristic of niggardly, its general state is
 considered as well. When the Holy Qur’an states:
 
-<p dir="rtl">
 …وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-</p>
 
 ***"Those who are shielded from their own avarice will be prosperous."
 (59:9)***
@@ -238,9 +216,7 @@ In fact, Imam Ali (P) aims to state the attitudes, which are the
 outcomes of those characteristics but not the qualities of personality.
 For instance, when God states:
 
-<p dir="rtl">
 الله يستهزء بهم
-</p>
 
 "Allah will throw back their mockery on them."
 
@@ -255,35 +231,25 @@ Dominion and Sovereignty of God. His Holiness Ali (P) discarding such an
 incorrect concept through the analysis and interpretation of his words,
 states:
 
-<p dir="rtl">
 فاذا كانت المرأة مزهوة لم تمكن من نفسها
-</p>
 
 “If a woman continually observe a boundary and certain precautions in
 her own social relations, she will never be exploited and vulnerable.
 
-<p dir="rtl">
 لم تمكن نفساً ً
-</p>
 
 "She never allows herself to be misused.”
 
-<p dir="rtl">
 فاذا كانت بخيله
-</p>
 
 "If she has the characteristic of stinginess……"
 
-<p dir="rtl">
 حفظت مالها و مال بعلها
-</p>
 
 ".. she will safeguard her own property, that of her marital life and
 also that of her husband."
 
-<p dir="rtl">
 فاذا كانت جبانة فرقت شيئ يعرض لها
-</p>
 
 "If a woman be concerned, in social interactions she will have fright
 and together with precaution and apprehension driving away many
@@ -302,9 +268,7 @@ absolute state and include particular instances, is that regarding
 stinginess, if its general state is mentioned, it will be incompatible
 with the certainties of the Holy Qur’an. The verse:
 
-<p dir="rtl">
 …وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-</p>
 
 ***"Those who are shielded from their own avarice will be prosperous."
 (59:9)***
@@ -322,9 +286,7 @@ of prosperity. So, it is not the best characteristic for a woman not to
 spend out of her property. Her Eminence Zahra, (P) as an example did not
 have stinginess in its general state. Stinginess is for the purpose of:
 
-<p dir="rtl">
 المرأة راعية علي بيت اهلها
-</p>
 
 “The woman is the supervisor and the one responsible inside the house,
 in the family and in relation with her husband.”
@@ -337,9 +299,7 @@ encouragement of the characteristics of pride fear and stinginess is
 because of the vulnerability of woman. Stinginess and niggardliness is
 for the conjugal property according to Imam Ali (P) who states:
 
-اذا كانت بخيلة <p dir="rtl">
-حفظت مالها و مال بعلها
-</p>
+اذا كانت بخيلة حفظت مالها و مال بعلها
 
 “Of course, both woman and man are responsible to safeguard conjugal
 property.”
@@ -359,9 +319,7 @@ recommended to her.
 The Martyr Motahhari states: "A woman’s fear in the position of
 enjoining the good and forbidding the wrong is condemned. The verse:
 
-<p dir="rtl">
 المومنون و المومنات بعضهم اولياء‌ بعض يامرون بالمعرو ف و ينهون عن المنكر
-</p>
 
 "Some men believers and women believers are superior over the other
 believers they command decency and forbid dishonor."
@@ -372,26 +330,20 @@ offer one's wealth or life unless it may cost your chastity. So fear has
 meaning only in this point. Where it is stated "enjoin the good", it
 says:
 
-<p dir="rtl">
 المومنون و المومنات. .
-</p>
 
 “Men and women believers.”
 
 or says:
 
-<p dir="rtl">
 الرجال قوامون علي النساء بما فضل الله بعضهم علي بعض
-</p>
 
 “Men are the ones who should support women since God has given some
 persons advantages over others.”
 
 It does not say:
 
-<p dir="rtl">
 بما فضل الله الرجال علي النساء
-</p>
 
 “Since God has given men advantages over women.”
 
@@ -418,5 +370,4 @@ desirable in any
 
 conditions. It can only be practical for safeguarding and protecting the
 woman.
-
 

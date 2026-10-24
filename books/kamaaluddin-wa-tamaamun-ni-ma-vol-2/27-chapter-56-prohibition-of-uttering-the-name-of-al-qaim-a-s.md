@@ -40,4 +40,3 @@ Neither will you be able to see him nor uttering his name will be
 allowed for you. I asked: Then how do we mention him? He replied: The
 Proof from Aale Muhammad (S).”
 
-

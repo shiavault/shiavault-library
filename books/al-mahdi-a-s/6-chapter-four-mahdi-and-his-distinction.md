@@ -479,4 +479,3 @@ give allegiance to Mahdi and as said before. The author of
 "Esaaf-ur-Rhagebeen" mentions that as per of traditions they shall be
 among his helpers and companions.'
 
-

@@ -724,4 +724,3 @@ Sād 38:44)***
 
 [^11]: Nahjul Balagha Sermon 42
 
-

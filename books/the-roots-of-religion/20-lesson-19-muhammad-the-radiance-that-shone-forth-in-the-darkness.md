@@ -480,4 +480,3 @@ things?
 
 [^8]: Tarikh at-Tabari vol. 3, p. 171-1173.
 
-

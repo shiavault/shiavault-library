@@ -397,66 +397,66 @@ I have left among you the Two Weighty Things: the Book of Allah and my
 Progeny; so long as you (simultaneously) uphold both of them, you shall
 never stray after me.[^52]
 
-[^29] Read in this regard from page 200 and beyond in my book Ask Those
+[^29]: Read in this regard from page 200 and beyond in my book Ask Those
 Who Know.
 
-[^30] Muslim, Sahih, Vol. 8, p. 229, "Kitab al-Zuhd" (Book of
+[^30]: Muslim, Sahih, Vol. 8, p. 229, "Kitab al-Zuhd" (Book of
 Asceticism) in a chapter dealing with verification of hadith and the
 injunction regarding the recording of knowledge.
 
-[^31] This is so due to the fact that recording the Sunnah was postponed
+[^31]: This is so due to the fact that recording the Sunnah was postponed
 till the time of caliph Umar ibn Abd al-Aziz or even thereafter. As for
 the caliphs and rulers who preceded him, they burnt it and prohibited
 anyone from writing it down or quoting it.
 
-[^32] What is strange is that "Ahl al-Sunnah" often narrate one hadith
+[^32]: What is strange is that "Ahl al-Sunnah" often narrate one hadith
 and its antithesis in the same book. Yet even more strange is that they
 quite often follow false traditions and neglect authentic ones.
 
-[^33] Bukhari, Sahih, Vol. 1, p. 36, "Kitab al-\`Ilm" (Book of
+[^33]: Bukhari, Sahih, Vol. 1, p. 36, "Kitab al-\`Ilm" (Book of
 Knowledge).
 
-[^34] Usul al-Kafi, Vol. 1, p. 239, and also on p. 143 of Basair
+[^34]: Usul al-Kafi, Vol. 1, p. 239, and also on p. 143 of Basair
 al-Darajat.
 
-[^35] Al-Bukhari, Sahih, Vol. 1, p. 36, [original Arabic text].
+[^35]: Al-Bukhari, Sahih, Vol. 1, p. 36, [original Arabic text].
 
-[^36] Al-Bukhari, Sahih, Vol. 2, p. 221.
+[^36]: Al-Bukhari, Sahih, Vol. 2, p. 221.
 
-[^37] Al-Bukhari, Sahih, Vol. 4, p. 67, and Muslim, Sahih, Vol. 4, p.
+[^37]: Al-Bukhari, Sahih, Vol. 4, p. 67, and Muslim, Sahih, Vol. 4, p.
 115.
 
-[^38] Al-Bukhari, Sahih, Vol. 4, p. 69.
+[^38]: Al-Bukhari, Sahih, Vol. 4, p. 69.
 
-[^39] Al-Bukhari, Sahih, Vol. 8, p. 144.
+[^39]: Al-Bukhari, Sahih, Vol. 8, p. 144.
 
-[^40] Al-Hakim, Mustadrak, Vol. 1, p. 105. Also Abu Dawud, Sunan, Vol.
+[^40]: Al-Hakim, Mustadrak, Vol. 1, p. 105. Also Abu Dawud, Sunan, Vol.
 2, p. 126. Also al-Darimi, Sunan, Vol. 1, p. 125, and Imam Ahmad ibn
 Hanbal, Musnad, Vol. 2, p. 162.
 
-[^41] This statement was made by Umar ibn al-Khattab during the Treaty
+[^41]: This statement was made by Umar ibn al-Khattab during the Treaty
 of Hudaybiya, and it is recorded on p. 122, Vol. 2, of al-Bukhari's
 Sahih.
 
-[^42] This statement was made by \`Ayesha daughter of Abu Bakr; see p.
+[^42]: This statement was made by \`Ayesha daughter of Abu Bakr; see p.
 29, Vol. 2, of al-Ghazali's book Ihya al-\`Ulum.
 
-[^43] This was the statement made to the Prophet by an Ansar companion
+[^43]: This was the statement made to the Prophet by an Ansar companion
 as recorded on p. 47, Vol. 4, of al-Bukhari's Sahih.
 
-[^44] Al-Bukhari, Sahih, Vol. 6, p. 24, and also Vol. 6, p. 128, of the
+[^44]: Al-Bukhari, Sahih, Vol. 6, p. 24, and also Vol. 6, p. 128, of the
 same reference.
 
-[^45] See p. 237, Vol. 5, of Kanz al-\`Ummal. Refer also to Ibn Kathir's
+[^45]: See p. 237, Vol. 5, of Kanz al-\`Ummal. Refer also to Ibn Kathir's
 book Al-Bidaya wal-Nihaya as well as p. 5, Vol. 1, of al-Dhahabi's
 Tadhkirat al-Huffaz.
 
-[^46] Ibn Sa\`ad, Al-Tabaqat al-Kubra, Vol. 5, p. 188. It is also
+[^46]: Ibn Sa\`ad, Al-Tabaqat al-Kubra, Vol. 5, p. 188. It is also
 recorded in Taqyeed al-\`Ilm by al-Khateeb al-Baghdadi.
 
-[^47] Refer to Ibn Abd al-Birr's book Jamai\` Bayan al-\`Ilm.
+[^47]: Refer to Ibn Abd al-Birr's book Jamai\` Bayan al-\`Ilm.
 
-[^48] Look, may Allah protect you, at such a horrible act committed by
+[^48]: Look, may Allah protect you, at such a horrible act committed by
 the caliphs Abu Bakr and Umar towards the Prophetic Sunnah! Imagine the
 greatly immeasurable loss which they inflicted upon the Islamic Ummah
 which very badly needed such ahadith in order to understand the Holy
@@ -468,13 +468,12 @@ fabrications because dissension had already taken place, and Muslims
 killed one another, and they were manufactured according to the
 specifications provided by various oppressive rulers...
 
-[^49] Malik, Al-Muwatta', Vol. 1, p. 5.
+[^49]: Malik, Al-Muwatta', Vol. 1, p. 5.
 
-[^50] \`Allama al-\`Askari, Ma\`alim al-Madrasatayn, Vol. 2, p. 302.
+[^50]: \`Allama al-\`Askari, Ma\`alim al-Madrasatayn, Vol. 2, p. 302.
 
-[^51] Al-Kulayni, Al-Kafi, Vol. 1, p. 53.
+[^51]: Al-Kulayni, Al-Kafi, Vol. 1, p. 53.
 
-[^52] Muslim, Sahih, Vol. 5, p. 122, also al-Tirmidhi, Sahih, Vol. 5, p.
+[^52]: Muslim, Sahih, Vol. 5, p. 122, also al-Tirmidhi, Sahih, Vol. 5, p.
 637.
-
 

@@ -59,4 +59,3 @@ Ibn Ru'as Ibn Dalan Ibn Jabish Ibn Mashbih Ibn Wadi’ah. On p. 321 of Ibn
 Hazm's book Jamharat Ansab al-’Arab, the lineage of Wadi’ah is provided
 in detail.
 
-

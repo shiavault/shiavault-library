@@ -69,4 +69,3 @@ greatly for the moral education. Therefore, his writings are full of
 advice and sermons in a mild and moderate style.  
   
 
-

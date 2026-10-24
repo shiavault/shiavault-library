@@ -720,89 +720,89 @@ bright character.
 
 ###
 
-[^1] Al-Saffar, Basa’ir al-Darajat, p.[^108]:
+[^1]: Al-Saffar, Basa’ir al-Darajat, p.108.
 
-[^2] Sharh ‘Aqa’id al-Saduq, p.[^114]:
+[^2]: Sharh ‘Aqa’id al-Saduq, p.114.
 
-[^3] Tawfiq al-Tatbiq, p.[^16]:
+[^3]: Tawfiq al-Tatbiq, p.16.
 
-[^4] ‘Aqidat al-Shi‘a, p.[^317]:
+[^4]: ‘Aqidat al-Shi‘a, p.317.
 
-[^5] Al-‘Allama al-Hilli, al-Alfayn.
+[^5]: Al-‘Allama al-Hilli, al-Alfayn.
 
 Al-Shaykh al-Mufid, Awa’il al-Maqalat fi al-Madhahib al-Mukhtara.
 
 Al-‘Allama al-Hilli, Minhajj al-Karama.
 
-[^6] Nazariyat al-Imama lada al-Shi‘a al-Ithna ‘Ashariya, p.[^134]:
+[^6]: Nazariyat al-Imama lada al-Shi‘a al-Ithna ‘Ashariya, p.134.
 
-[^7] A‘yan al-Shi‘a, 4/Q1/[^504]:
+[^7]: A‘yan al-Shi‘a, 4/Q1/[^504]:
 
-[^8] Bihar al-Anwar, vol.11, p.[^66]:
+[^8]: Bihar al-Anwar, vol.11, p.66.
 
-[^9] ‘Uyyun al-Akhbar wa Funun al-Athar, p.[^218]:
+[^9]: ‘Uyyun al-Akhbar wa Funun al-Athar, p.218.
 
-[^10] Tarikh Dimashq, vol.51, p.[^52]: Ibn Qutayba, ‘Uyyun al-Akhbar,
+[^10]: Tarikh Dimashq, vol.51, p.52. Ibn Qutayba, ‘Uyyun al-Akhbar,
 vol.3, p.57.
 
-[^11] ‘Uyyun al-Akhbar, vol.3, p.[^208]:
+[^11]: ‘Uyyun al-Akhbar, vol.3, p.208.
 
-[^12] Al-Bayan wa al-Tabiyyin, p.[^158]:
+[^12]: Al-Bayan wa al-Tabiyyin, p.158.
 
 A‘yan al-Shi‘a, Q1/4/[^472]:
 
-[^13] Sharh Shafiyat Abi Firas, vol.2, p.[^176]:
+[^13]: Sharh Shafiyat Abi Firas, vol.2, p.176.
 
-[^14] Ibid.
+[^14]: Ibid.
 
-[^15] Ibid.
+[^15]: Ibid.
 
-[^16] Ibid.
+[^16]: Ibid.
 
-[^17] A‘yan al-Shi‘a, Q1/4/[^471]:
+[^17]: A‘yan al-Shi‘a, Q1/4/[^471]:
 
-[^18] Zahr al-Adab, vol.1, p.[^94]:
+[^18]: Zahr al-Adab, vol.1, p.94.
 
-[^19] Al-Fusu al-Muhimma, p.[^227]:
+[^19]: Al-Fusu al-Muhimma, p.227.
 
-[^20] A‘yan al-Shi‘a, Q1/4/[^171]:
+[^20]: A‘yan al-Shi‘a, Q1/4/[^171]:
 
-[^21] Al-Irshad, p.[^299]:
+[^21]: Al-Irshad, p.299.
 
-[^22] Ibid.
+[^22]: Ibid.
 
-[^23] Safwat al-Safwa, vol.2, p.[^63]:
+[^23]: Safwat al-Safwa, vol.2, p.63.
 
-[^24] ‘Uyyun al-Akhbar wa Funun al-Athar, p.[^217]:
+[^24]: ‘Uyyun al-Akhbar wa Funun al-Athar, p.217.
 
-[^25] A‘yan al-Shi‘a, Q1/4/[^506]: Safwat al-Safwa, vol.2, p.63.
+[^25]: A‘yan al-Shi‘a, Q1/4/[^506]: Safwat al-Safwa, vol.2, p.63.
 
-[^26] Ibid.
+[^26]: Ibid.
 
-[^27] Ibn ‘Asakir, Tarikh, vol.51, p.[^44]:
+[^27]: Ibn ‘Asakir, Tarikh, vol.51, p.44.
 
-[^28] Tadhkirat al-Huffaz, vol.[^125]:
+[^28]: Tadhkirat al-Huffaz, vol.125.
 
-Ibn ‘Asakir, Tarikh, vol.51, p.[^44]:
+Ibn ‘Asakir, Tarikh, vol.51, p.44.
 
-Hulyat al-Awliya’, vol.3, p.[^182]:
+Hulyat al-Awliya’, vol.3, p.182.
 
-[^29] Furu‘ al-Kafi, vol.3, p.[^323]:
+[^29]: Furu‘ al-Kafi, vol.3, p.323.
 
-[^30] Ibid.
+[^30]: Ibid.
 
-[^31] Muhajj al-Da‘awat, p.[^51]:
+[^31]: Muhajj al-Da‘awat, p.51.
 
-[^32] Ibid, p.[^52]:
+[^32]: Ibid, p.52.
 
-[^33] Safwat al-Safwa, vol.2, p.[^63]:
+[^33]: Safwat al-Safwa, vol.2, p.63.
 
-[^34] Ibn Shahr Ashub, al-Manaqib, vol.4, p.[^183]:
+[^34]: Ibn Shahr Ashub, al-Manaqib, vol.4, p.183.
 
-[^35] Nur al-Absar, p.[^130]:
+[^35]: Nur al-Absar, p.130.
 
-[^36] A‘yan al-Shi‘a, 4/Q1/[^471]:
+[^36]: A‘yan al-Shi‘a, 4/Q1/[^471]:
 
-[^37] Da‘a’im al-Islam, vol.2, p.[^158]:
+[^37]: Da‘a’im al-Islam, vol.2, p.158.
 
-[^38] Al-Bidaya wa al-Nihaya, vol.9, p.[^310]:
+[^38]: Al-Bidaya wa al-Nihaya, vol.9, p.310.

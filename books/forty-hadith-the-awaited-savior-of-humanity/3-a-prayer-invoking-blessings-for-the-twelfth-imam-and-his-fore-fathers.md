@@ -1,53 +1,21 @@
 A Prayer Invoking Blessings for the Twelfth Imam and His fore-fathers
 =====================================================================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ ابْنِ الْحَسَنِ
-  </p>
-</blockquote>
+> أَللَّهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ ابْنِ الْحَسَنِ
 
-<blockquote dir="rtl">
-  <p>
-صَلَوَاتُكَ عَلَيْهِ وَ عَلـى آبَائِهِ
-  </p>
-</blockquote>
+> صَلَوَاتُكَ عَلَيْهِ وَ عَلـى آبَائِهِ
 
-<blockquote dir="rtl">
-  <p>
-فِي هَذِهِ السَّاعَةِ وَفيِ كُلِّ سَاعَةٍ.
-  </p>
-</blockquote>
+> فِي هَذِهِ السَّاعَةِ وَفيِ كُلِّ سَاعَةٍ.
 
-<blockquote dir="rtl">
-  <p>
-وَلِيًّا وَّ حَافِظًا
-  </p>
-</blockquote>
+> وَلِيًّا وَّ حَافِظًا
 
-<blockquote dir="rtl">
-  <p>
-وَّ قَائِداً وَّ نَاصِراً
-  </p>
-</blockquote>
+> وَّ قَائِداً وَّ نَاصِراً
 
-<blockquote dir="rtl">
-  <p>
-وَّ دَلِيلاً وَّ عَيْناً
-  </p>
-</blockquote>
+> وَّ دَلِيلاً وَّ عَيْناً
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى تُسْكِنَهُ
-  </p>
-</blockquote>
+> حَتَّى تُسْكِنَهُ
 
-<blockquote dir="rtl">
-  <p>
-أَرْضَكَ طَوْعاً وَ تُمَتِّعَهُ فِيْهَا طَوِيلاً
-  </p>
-</blockquote>
+> أَرْضَكَ طَوْعاً وَ تُمَتِّعَهُ فِيْهَا طَوِيلاً
 
 O’ Allah, be for Your deputy, al-hujjat ibnil Hasan,
 
@@ -66,5 +34,4 @@ peacefully on Your Earth and let him
 enjoy (his rule on the Earth)
 
 for a long time.
-
 

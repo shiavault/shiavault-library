@@ -73,4 +73,3 @@ Office for performing their responsibility.
 him/them/her], which is used after the names of the prophets, angels,
 Imams from the Prophet’s progeny, and saints (‘a). [Trans.]
 
-

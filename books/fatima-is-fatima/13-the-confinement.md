@@ -185,4 +185,3 @@ years of loneliness, hunger and heavy spiritual asceticism have had no
 effect upon the body and spirit of the Prophet other than to increase
 his courage, will power and faith.
 
-

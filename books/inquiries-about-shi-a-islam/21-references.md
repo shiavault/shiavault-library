@@ -103,4 +103,3 @@ Usd al-Ghabah
 
 Yanabi’ al-Muwadda
 
-

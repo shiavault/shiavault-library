@@ -345,4 +345,3 @@ their freedoms, to follow the right path. In the same way and through
 wisdom and goodly exhortation, we can invite our Sunni brothers who wear
 gold, or who do not care for impurities to correct their behaviors.
 
-

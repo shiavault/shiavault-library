@@ -91,7 +91,7 @@ that in this age when Muslims are facing such terrible enemies, are such
 
 **[1]** Ibid. ‘Unity in *Nahjul Balagha’* quoted in *Kitab-e-Wahdat*,
 Pg. 144  
- **[2]** Muhammad Jawad Hujjati Kermani: Ittelaat Daily, 29<sup>th</sup>
+ **[2]** Muhammad Jawad Hujjati Kermani: Ittelaat Daily, 29th
 Khordad 1379  
  **[3]** Interview published in Nida-e-Islam Magazine, Issue 4, Winter
 79, Pg. 63-64  
@@ -678,7 +678,7 @@ truth.”**[3]**
 
 **[1]** Ustad Murtuza Mutahhari: *Imamat-o-Rahbari*, Pgs. 13-16  
  **[2]** Refer: Muhammad Jawad Hujjati Kermani: *Jam-e-Jam Daily*
-10<sup>th</sup> Bahman 1379  
+10th Bahman 1379  
  **[3]** Dr. Muhammad Asadi Garmarudi: *Haqeeqat-e-Sookhte* (The Burnt
 Fact), (Critical Essays on *Wahdat-e-Islami* by Muhammad Jawad Hujjati
 Kermani.) Pgs. 63-64

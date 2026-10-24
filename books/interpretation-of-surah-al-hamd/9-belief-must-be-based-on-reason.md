@@ -299,4 +299,3 @@ sting of attachment was removed. This topic has no concern with
 divinity. It did not occur to him who objected to this line, that it
 related to two men quarreling between themselves.
 
-

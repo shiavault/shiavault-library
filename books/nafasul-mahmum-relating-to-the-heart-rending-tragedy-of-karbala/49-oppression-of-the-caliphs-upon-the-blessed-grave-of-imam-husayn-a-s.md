@@ -274,4 +274,3 @@ means of affluence for the believers. And the followers of misguidance
 and infidelity will try to erase it, but its mark would not but increase
 evidently”.
 
-

@@ -186,4 +186,3 @@ about others, then you are tempted to gossip about them.
 So keep your mind clean and try to think good of your Muslim brethren.
 These are some ethical rights which Muslims have over each other.
 
-

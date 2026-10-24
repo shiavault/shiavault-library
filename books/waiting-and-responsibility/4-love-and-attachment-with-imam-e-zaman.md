@@ -249,7 +249,6 @@ who has done jehad alongside the Holy Prophet (s.a.w.a.) against the
 infidels. (Kamalucldin, vol. 1, chapter 30) The above tradition related
 by Imam Husain (a.s.) highlights a few very pertinent points.
 
-
 A) Allah's final proof will be the ninth son of Imam Husain (a.s.).
 B) He will rise one day after his occultation.
 C) His occultation will be prolonged.
@@ -262,5 +261,4 @@ calamities.
 H) The steadfast group shall enjoy the sameposition as that of the
 early Muslims who did jehad alongside the Holy Prophet (s.a.w.a.)
 against the apostates.
-
 

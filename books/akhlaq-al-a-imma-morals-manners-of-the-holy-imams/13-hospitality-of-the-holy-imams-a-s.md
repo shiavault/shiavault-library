@@ -245,4 +245,3 @@ The Imam said, “Why are you looking at me with pity? I would not have
 been as much happy by covering myself with the sheet, as I am in
 entertaining these guests.”
 
-

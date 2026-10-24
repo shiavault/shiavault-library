@@ -89,4 +89,3 @@ be opposed to Yazid and all tyrants like Yazid and also that we are
 aligned with and obey Imam al-Husayn (as) and those like al-Husayn in
 our own time, as well as their ideals and mottos.
 
-

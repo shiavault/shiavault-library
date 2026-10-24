@@ -36,11 +36,7 @@ careless and negligent towards them is tantamount to carelessness and
 negligence towards the sayings of the Messenger of Allah (s.a.w.a.), in
 whose reverence Allah, Blessed and High be He, declares:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
-  </p>
-</blockquote>
+> وَمَا يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
 
 ***Nor does he speak out of desire. It is naught but revelation that is
 revealed***. (Qur’an Surah Najm 53: 4-5.)
@@ -147,12 +143,8 @@ Messenger of Allah (s.a.w.a.) to his nation in the above traditions were
 manifested, as also the promise of Allah to His Prophet (s.a.w.a.) and
 to the Muslims through His sayings like,
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ لِيُطْفِؤُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ
-مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يُرِيدُونَ لِيُطْفِؤُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ
+> مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
 
 ***They desire to put out the light of Allah with their mouths but Allah
 will perfect His light, though the unbelievers may be averse. (***Qur’an
@@ -160,13 +152,9 @@ Surah Saff 61: 8.)
 
 And He says,
 
-<blockquote dir="rtl">
-  <p>
-مَثَلاً كَلِمَةً طَيِّبَةً كَشَجَرةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
-وَفَرْعُهَا فِي السَّمَاء. تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ
-رَبِّهَ
-  </p>
-</blockquote>
+> مَثَلاً كَلِمَةً طَيِّبَةً كَشَجَرةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
+> وَفَرْعُهَا فِي السَّمَاء. تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ
+> رَبِّهَ
 
 ***like a good tree, whose root is firm and whose branches are in
 heaven, Yielding its fruit in every season by the permission of its
@@ -242,22 +230,14 @@ to stake a claim to this status but with His permission.
 
 Allah has used the word ‘Caliph’ in the Holy Quran, thus:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلٌ فِي الأَرْضِ خَلِيفَةً
-  </p>
-</blockquote>
+> إِنِّي جَاعِلٌ فِي الأَرْضِ خَلِيفَةً
 
 ***I am going to place in the earth a khalif***.( Qur’an Surah Baqarah
 2: 30.)
 
 And He, Mighty and Glorified be He declared,
 
-<blockquote dir="rtl">
-  <p>
-يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ
-  </p>
-</blockquote>
+> يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ
 
 ***O Dawood! Surely We have made you a ruler in the land*** . (Qur’an
 Surah Suad 38: 26.)
@@ -295,21 +275,13 @@ Besides the rational argument that the appointment of Allah’s caliph in
 the earth necessitates that he should be appointed by Allah only, the
 verses of the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-إنّى جاعِلٌ
-  </p>
-</blockquote>
+> إنّى جاعِلٌ
 
 (Qur’an Surah Baqarah 2: 30.)
 
 And
 
-<blockquote dir="rtl">
-  <p>
-إنّا جَعَلناكَ
-  </p>
-</blockquote>
+> إنّا جَعَلناكَ
 
 (Qur’an Surah Suad 38: 26.)
 
@@ -357,17 +329,9 @@ deriving from the above traditions, has written poems titled ‘Waseelah
 al-Fauz wa al-Amaan fi madh Saaheb al-Asr wa al-Zamaan’. A couplet from
 it goes as follows:
 
-<blockquote dir="rtl">
-  <p>
-خليفة ربِّ العالمين و ظلّه
-  </p>
-</blockquote>
+> خليفة ربِّ العالمين و ظلّه
 
-<blockquote dir="rtl">
-  <p>
-على ساكني الغيراء من كلّ ديار
-  </p>
-</blockquote>
+> على ساكني الغيراء من كلّ ديار
 
 “The caliph of the Lord of the worlds and His shade
 
@@ -488,13 +452,9 @@ If someone refers to the Holy Quran and the traditions, he will find
 plenty of testimonies endorsing the above theory. For example, the Holy
 Quran says,
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِي قَالَ لاَ
-يَنَالُ عَهْدِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِي قَالَ لاَ
+> يَنَالُ عَهْدِي الظَّالِمِينَ
 
 ***And when his Lord tried Ibrahim with certain words, he fulfilled
 them. He said: Surely I will make you an Imam men. Ibrahim said: And of
@@ -510,31 +470,19 @@ Allah, the High.
 Some more verses of the Holy Quran that prove our point are cited
 hereunder.
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
-إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
+> إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ
 
 ***And We made them Imams who guided (people) by Our command, and We
 revealed to them the doing of good. (***Qur’an Surah Anbiya 21: 73.)
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً
-  </p>
-</blockquote>
+> وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً
 
 ***And We desired to bestow a favor upon those who were deemed weak in
 the land, and to make them the Imams (***Qur’an Surah Qasas 28: 5.)
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
 
 ***And We made of them Imams to guide by Our command when they were
 patient***.( Surah Qur’an Sajdah 32: 24.)
@@ -543,35 +491,23 @@ There are a plenty of traditions that also support this argument. While
 talking about his successors and the necessity of their recognition, the
 Messenger of Allah (s.a.w.a.) declared,
 
-<blockquote dir="rtl">
-  <p>
-من مات ولم يعرف إمام زمانه فليمت إن شاء يهوديًا و إن شاء نصرانياً
-  </p>
-</blockquote>
+> من مات ولم يعرف إمام زمانه فليمت إن شاء يهوديًا و إن شاء نصرانياً
 
 One who dies without recognizing the Imam of his time then he can die as
 he wishes, either as a Jew or a Christian.[^8]
 
 Ameerul Momineen (a.s.) says,
 
-<blockquote dir="rtl">
-  <p>
-بنا يستعطى الهدى و يستجلى العمى إنّ الأئمة من قريش غرسوا في هذا البطن
-من هاشم لا تصلح على سواهم و لا تصلح الولاة من غيرهم
-  </p>
-</blockquote>
+> بنا يستعطى الهدى و يستجلى العمى إنّ الأئمة من قريش غرسوا في هذا البطن
+> من هاشم لا تصلح على سواهم و لا تصلح الولاة من غيرهم
 
 ‘Through us, guidance is granted and darkness is dispelled. Surely the
 Imams from the Quraish are planted from the Hashemite wombs. None is
 worthy of it (Imamat) but them and none is eligible for being the
 masters except them.’[^9] In another place he (a.s.) says,
 
-<blockquote dir="rtl">
-  <p>
-و إنما الائمة قوام الله على خلقه و عرفاؤه على عباده و لا يدخل الجنّة
-إلاّ من عرفهم و عرفوه و لا يدخل النار إلاّ من أنكرهم و أنكروه
-  </p>
-</blockquote>
+> و إنما الائمة قوام الله على خلقه و عرفاؤه على عباده و لا يدخل الجنّة
+> إلاّ من عرفهم و عرفوه و لا يدخل النار إلاّ من أنكرهم و أنكروه
 
 Certainly the Imáms are the vicegerents of Alláh over His creatures and
 they make the creatures know Alláh. No one will enter Paradise except he
@@ -602,11 +538,7 @@ master (wali) is used as a subject (فاعل).
 
 For instance, Allah, the High, says,
 
-<blockquote dir="rtl">
-  <p>
-إنّما وليكم الله و رسوله و الذين آمنوا
-  </p>
-</blockquote>
+> إنّما وليكم الله و رسوله و الذين آمنوا
 
 ***Only Allah is your Vali and His Apostle and those who believe***
 (Qur’an Surah Maaedah 5: 55.)
@@ -740,23 +672,15 @@ Apart from this, there are other equally known traditions like:
 
 (1)
 
-<blockquote dir="rtl">
-  <p>
-النجوم أمان لاهل السماء و أهل بيتي أمان لامّتي
-  </p>
-</blockquote>
+> النجوم أمان لاهل السماء و أهل بيتي أمان لامّتي
 
 ‘The stars are a cause of security for the inhabitants of the sky while
 my Ahle Bait (a.s.) are the reason for the safety of my nation.’ The
 author of Zakhaaer al-Uqbaa writes, ‘Abu Amr al-Ghaffaari narrates on
 the authority of the Messenger of Allah (s.a.w.a.),
 
-<blockquote dir="rtl">
-  <p>
-النجوم أمان لاهل السماء فإذا ذهبت النجوم ذهبت السماء, و أهل بيتي أمان
-لأهل الأرض فإذا ذهب أهل بيتي ذهب أهل الارض
-  </p>
-</blockquote>
+> النجوم أمان لاهل السماء فإذا ذهبت النجوم ذهبت السماء, و أهل بيتي أمان
+> لأهل الأرض فإذا ذهب أهل بيتي ذهب أهل الارض
 
 ‘The stars are a security for the inhabitants of the sky. So when the
 stars will be destroyed, the sky will follow suit. Similarly, my Ahle
@@ -767,11 +691,7 @@ tradition in his Manaaqeb as well.
 
 (2)
 
-<blockquote dir="rtl">
-  <p>
-النجوم أمان لأهل الارض من الغرق، و أهل بيتي أمان لامّتي من الاختلاف
-  </p>
-</blockquote>
+> النجوم أمان لأهل الارض من الغرق، و أهل بيتي أمان لامّتي من الاختلاف
 
 ‘The stars are the cause of security of the people of the earth from
 drowning, while my Ahle Bait (a.s.) are the reason for the safety of my
@@ -782,11 +702,7 @@ Muslim).
 
 (3)
 
-<blockquote dir="rtl">
-  <p>
-مثل أهل بيتي كسفينة نوح...
-  </p>
-</blockquote>
+> مثل أهل بيتي كسفينة نوح...
 
 ‘The likeness of my Ahle Bait (a.s.) is like that of the ark of Hazrat
 Nuh (a.s.) …’ which has been narrated through various chains of
@@ -794,11 +710,7 @@ narrators.
 
 (4) Bukhari reports that the Messenger of Allah (s.a.w.a.) said,
 
-<blockquote dir="rtl">
-  <p>
-لا يزال هذا الأمر في قريش ما بقي من الناس اثنان
-  </p>
-</blockquote>
+> لا يزال هذا الأمر في قريش ما بقي من الناس اثنان
 
 ‘This affair (Islam) will continue in the Quraish even if there remain
 two individuals amongst all the people.’[^12]
@@ -1574,5 +1486,4 @@ al-Khulafaa, pg. 209, printed at Egypt
 [^30]: Implying Abu Bakr, Umar, Usmaan and Ali (a.s.).
 
 [^31]: Surah Ahzaab (33): Verse 33.
-
 

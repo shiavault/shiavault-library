@@ -64,4 +64,3 @@ testament: the caliph himself, the governor of Medina, 'Abdallah Aftah,
 the Imam's older son, and Musa, his younger son. In this way the plot of
 Mansur failed.
 
-

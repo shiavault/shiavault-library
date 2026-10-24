@@ -114,4 +114,3 @@ supervision, or when the imams of mosques are appointed according to his
 desire and mood from among those who praise and glorify the regime and
 its policies?!!
 
-

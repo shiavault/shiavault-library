@@ -12,12 +12,8 @@ Lucknow, India, in honor of the martyr ‘Allāmah Qādī Nūr Allāh Tustarī
 God, the Almighty—glorious is He—addresses His Noble Prophet (S) in the
 Holy Qur’an thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلاَّ مَنْ شَاء أَن
-يَتَّخِذَ إِلَى رَبِّهِ سَبِيلاً ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلاَّ مَنْ شَاء أَن
+> يَتَّخِذَ إِلَى رَبِّهِ سَبِيلاً ﴾
 
 ***“(O Prophet!) Say (unto your nation), I do not ask of you a reward
 for this (invitation) but that some people find a way to their
@@ -28,12 +24,8 @@ Prophet’s (S) twenty-three years of invitation is the pure religion of
 Islam that has opened a place for itself in the human society and has
 become established. Elsewhere, in the Qur’an, He declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... قُلْ لاَّ أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلاَّ الْمَوَدَّةَ فِي
-الْقُرْبَى... ﴾
-  </p>
-</blockquote>
+> ﴿ ... قُلْ لاَّ أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلاَّ الْمَوَدَّةَ فِي
+> الْقُرْبَى... ﴾
 
 ***“(O Prophet!) Say (unto your nation), I do not ask of you a reward
 for this (invitation) save love for (my) Household (the Ahl
@@ -48,21 +40,13 @@ The Holy Prophet (S) has explained the meaning of this fusion of the Ahl
 al-Bayt’s affection in the two widely-transmitted hadīths of safīnah
 (ark) and thaqalayn (two precious things):
 
-<blockquote dir="rtl">
-  <p>
-«مثل أهل بيتي کمثل سفينة نوح من رکبها نجا ومن تخلف عنها غرق.»
-  </p>
-</blockquote>
+> «مثل أهل بيتي کمثل سفينة نوح من رکبها نجا ومن تخلف عنها غرق.»
 
 “The analogy of my Ahl al-Bayt is that of Noah’s ark. Whosoever embarks
 upon it is saved and whosoever turns away from it is drowned.”
 
-<blockquote dir="rtl">
-  <p>
-«إني تارك فيکم الثقلين، کتاب الله وعترتي أهل بيتي لن يفرقا حتی يردا
-عليَّ الحوض، ما ان تمسکتم بها لن تضلوا بعدي ابداً.»
-  </p>
-</blockquote>
+> «إني تارك فيکم الثقلين، کتاب الله وعترتي أهل بيتي لن يفرقا حتی يردا
+> عليَّ الحوض، ما ان تمسکتم بها لن تضلوا بعدي ابداً.»
 
 “After I leave, I will leave among you two precious things: the Book of
 Allah and my Household, the Ahl al-Bayt. They will never be separated
@@ -103,12 +87,8 @@ the blood of hundreds of thousands of martyrs who were our innocent
 fellow Muslims—we must withhold nothing of our lives and wealth to
 uphold this path.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تَهِنُوا وَلاَ تَحْزَنُوا وَأَنتُمْ الأَعْلَوْنَ إِنْ كُنْتُمْ
-مُؤْمِنِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تَهِنُوا وَلاَ تَحْزَنُوا وَأَنتُمْ الأَعْلَوْنَ إِنْ كُنْتُمْ
+> مُؤْمِنِينَ ﴾
 
 “Slack not, nor sorrow for you are superior if you are truly
 believers.”[^3]
@@ -124,5 +104,4 @@ Qum, Rajab 10, 1390 AH[^4]
 [^3]: Sūrat Āl ‘Imrān 3:139.
 
 [^4]: Extracted from the annual “Ma‘ārif-e Ja‘farī”.
-
 

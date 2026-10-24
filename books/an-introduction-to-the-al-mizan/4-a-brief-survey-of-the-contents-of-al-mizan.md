@@ -726,4 +726,3 @@ We hope that great efforts will be made to publish and distribute this
 encyclopedic exegesis, which is unparalleled in the history of the
 commentaries of the Qur'an.
 
-

@@ -148,4 +148,3 @@ stomach empty (i.e., fasting).
 Walk in His path; give away your possessions in His path; use your body
 to the benefit of your spirit, being sparing."
 
-

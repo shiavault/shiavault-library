@@ -57,4 +57,3 @@ would not obey the
 
 word of Allah.
 
-

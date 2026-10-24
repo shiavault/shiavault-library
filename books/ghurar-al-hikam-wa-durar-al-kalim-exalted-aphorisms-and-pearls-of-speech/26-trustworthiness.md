@@ -11,11 +11,7 @@ Trustworthiness
 fabrication are perfidious utterances.
 
 > 2ـ اَلأمانةُ والوَفاءُ صِدْقُ الأفعالِ، والكِذْبُ والإفتِراءُ خيانَةُ
-<blockquote dir="rtl">
-  <p>
-الأقوالِ.
-  </p>
-</blockquote>
+> الأقوالِ.
 
 3. Return the trust to the one who has entrusted it to you, and do not
 act treacherously with the one who betrayed your trust.
@@ -27,11 +23,7 @@ anyone when you entrust something to him, for surely one who is not
 trustworthy has no faith.
 
 > 4ـ أدِّ الأمانَةَ إذَا ائْتُمِنْتَ، ولا تَتَّهِمْ غَيرَكَ إذَا
-<blockquote dir="rtl">
-  <p>
-ائْتَمَنْتَهُ، فَإنَّهُ لا إيمانَ لِمَنْ لا أمانَةَ لَهُ.
-  </p>
-</blockquote>
+> ائْتَمَنْتَهُ، فَإنَّهُ لا إيمانَ لِمَنْ لا أمانَةَ لَهُ.
 
 5. The best [form of] trustworthiness is keeping one’s promise.
 
@@ -123,5 +115,4 @@ treachery.
 25. There is no trustworthiness in one who has no religion.
 
 > 25ـ لاأمانَةَ لِمَنْ لا دينَ لَهُ.
-
 

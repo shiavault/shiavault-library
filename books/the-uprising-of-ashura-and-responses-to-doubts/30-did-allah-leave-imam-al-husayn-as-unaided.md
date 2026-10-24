@@ -31,14 +31,10 @@ The Holy Qur’an mentions eradicating and uprooting the unjust, an action
 that is in reality a kind of help to the monotheists and believers.
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ رَبَّ انْصُرْنِي بِمَا کَذَّبُونِ \* قَالَ عَمَّا قَلِيلٍ
-لَيُصْبِحُنَّ نَادِمِينَ \* فَأَخَذَتْهُمُ الصَّيْحَةُ بِالحَقِّ
-فَجَعَلْنَاهُمْ غُثَاءاً فَبُعْداً لِلْقَوْمٍ الظَّالِمِينَ \* ثُمَّ
-أَنشَأنَا مِنْ بَعْدِهِمْ قَرُوناً آخِرِين ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ رَبَّ انْصُرْنِي بِمَا کَذَّبُونِ \* قَالَ عَمَّا قَلِيلٍ
+> لَيُصْبِحُنَّ نَادِمِينَ \* فَأَخَذَتْهُمُ الصَّيْحَةُ بِالحَقِّ
+> فَجَعَلْنَاهُمْ غُثَاءاً فَبُعْداً لِلْقَوْمٍ الظَّالِمِينَ \* ثُمَّ
+> أَنشَأنَا مِنْ بَعْدِهِمْ قَرُوناً آخِرِين ﴾
 
 ***“He said: O my Lord! Help me against their calling me a liar. He
 said: In a little while they will most certainly be repenting. So the
@@ -53,16 +49,12 @@ helps believers by means of the angels.
 
 Allah the Most High says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِلاّ تَنْصُرُوهُ فَقَدْ نَصَرَهُ اللهُ إِذ أَخْرَجَهُ الَّذِينَ
-کَفَرُوا ثَانِي اثْنَيْنِ إِذْهُمَا فِي الْغَارِ إِذْ يقُولُ
-لِصَاحِبِهِ لا تَحْزَنْ إِنَّ اللهَ مَعَنَا فَأَنْزَلَ اللهُ
-سَکينَتَهُ عَلَيْهِ وَأَيَّدَهُ بِجُنُودٍ لَمْ تَرَوْهَا وَجَعَلَ
-کَلِمَةَ الَّذِينَ کَفَرُوا السُّفْلي وَکَلِمَة اللهِ هِي الْعُلْيا
-وَاللهُ عَزِيزُ حِکِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ إِلاّ تَنْصُرُوهُ فَقَدْ نَصَرَهُ اللهُ إِذ أَخْرَجَهُ الَّذِينَ
+> کَفَرُوا ثَانِي اثْنَيْنِ إِذْهُمَا فِي الْغَارِ إِذْ يقُولُ
+> لِصَاحِبِهِ لا تَحْزَنْ إِنَّ اللهَ مَعَنَا فَأَنْزَلَ اللهُ
+> سَکينَتَهُ عَلَيْهِ وَأَيَّدَهُ بِجُنُودٍ لَمْ تَرَوْهَا وَجَعَلَ
+> کَلِمَةَ الَّذِينَ کَفَرُوا السُّفْلي وَکَلِمَة اللهِ هِي الْعُلْيا
+> وَاللهُ عَزِيزُ حِکِيمٌ ﴾
 
 ***“If you will not aid him, Allah certainly aided him when those who
 disbelieved expelled him, he being the second of the two, when they were
@@ -78,13 +70,9 @@ Sometimes, the fear that Allah puts in the hearts of the unbelievers is
 a kind of help to the believers. By this means, Allah intimidates the
 unbelievers. Allah says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ سَنُلْقِي فِي قُلُوبِ الَّذِينَ کَفَرُوا الرُّعْبَ بِمَا أَشْرَکُوا
-بِاللهِ مَا لَمْ ينَزِّلْ بِهِ سُلْطَاناً وَمَأْوَاهُمُ النَّارُ
-وَبِئْسَ مَثْوَي الظَّالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ سَنُلْقِي فِي قُلُوبِ الَّذِينَ کَفَرُوا الرُّعْبَ بِمَا أَشْرَکُوا
+> بِاللهِ مَا لَمْ ينَزِّلْ بِهِ سُلْطَاناً وَمَأْوَاهُمُ النَّارُ
+> وَبِئْسَ مَثْوَي الظَّالِمِينَ ﴾
 
 ***“We will cast terror into the hearts of those who disbelieve, because
 they set up for Allah that which He has sent down no authority, and
@@ -102,14 +90,10 @@ verses of the Holy Qur’an; among them:
 
 Allah says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَنْ تَرْضَي عَنْکَ الْيَهُودُ وَلاَ النَّصَارَي حَتَّی تَتَّبِعَ
-مِلَّتَهُمْ قُلْ إِنَّ هُدَی اللهِ هُوَ الهُدَی وَلَئِنِ اتَّبَعْتَ
-أَهْوَائَهُمْ بَعْدَ الَّذِي جَاءَکَ مِنَ الْعِلمِ مَا لَکَ مِنَ اللهِ
-مِنْ وَلِيٍ وَلا نَصِيرٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَنْ تَرْضَي عَنْکَ الْيَهُودُ وَلاَ النَّصَارَي حَتَّی تَتَّبِعَ
+> مِلَّتَهُمْ قُلْ إِنَّ هُدَی اللهِ هُوَ الهُدَی وَلَئِنِ اتَّبَعْتَ
+> أَهْوَائَهُمْ بَعْدَ الَّذِي جَاءَکَ مِنَ الْعِلمِ مَا لَکَ مِنَ اللهِ
+> مِنْ وَلِيٍ وَلا نَصِيرٍ ﴾
 
 ***“And the Jews will not be pleased with you, nor the Christians until
 you follow their religion. Say: Surely Allah’s guidance is the true
@@ -119,14 +103,10 @@ helper.”***[^4]
 
 He also says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الجَنَّةَ وَلَمِّا يَأْتِکُمْ مَثَلُ
-الَّذِينَ خَلَوْا مِنْ قَبْلِکُمْ مَسَّتْهُمُ الْبَأْسَاءُ
-وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ
-آمَنُوا مَعَهُ مَـتَى نَصْرُ اللهِ أَلاَ إِنَّ نَصْرَ اللهِ قَرِيبٌ ﴾
-  </p>
-</blockquote>
+> ﴿ أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الجَنَّةَ وَلَمِّا يَأْتِکُمْ مَثَلُ
+> الَّذِينَ خَلَوْا مِنْ قَبْلِکُمْ مَسَّتْهُمُ الْبَأْسَاءُ
+> وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ
+> آمَنُوا مَعَهُ مَـتَى نَصْرُ اللهِ أَلاَ إِنَّ نَصْرَ اللهِ قَرِيبٌ ﴾
 
 ***“Or do you think that you would enter the Garden while yet the state
 of those who have passed away before you has not come upon you, distress
@@ -143,19 +123,15 @@ social justice after the fulfilment of Allah’s help.
 
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ اُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللهَ
-عَلَي نَصْرِهِم لَقَدِيرٌ \* الَّذينَ اُخْرِجُوا مِنْ دِيارِهِمْ
-بِغَيْرِ حَقٍّ إِلاَّ أَنْ يقُولُوا رَبُّنَا اللهُ وَلَو لا دَفْعُ
-اللهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ
-وَصَلَوَاتٌ وَمَسَاجِدُ يُذْکَرُ فِيهَا اسْمُ اللهِ کَثيراً
-وَلَينْصُرَنَّ اللهُ مَنْ يَنْصُرُهُ إِنَّ اللهَ لَقَوِيٌ عَزِيزٌ \*
-أَلَّذِينَ إِنْ مَکَّنَّاهُمْ فِي الأَرْضِ أَقَامُوا الصَّلاَةَ
-وءاتَوُا الزَّکَاةَ وَأَمَرُوا بِالمَعْرُوفِ وَنَهَوْا عَنِ المُنْکَرِ
-وَللهِ عَاقِبَةُ الاُمُورِ ﴾
-  </p>
-</blockquote>
+> ﴿ اُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللهَ
+> عَلَي نَصْرِهِم لَقَدِيرٌ \* الَّذينَ اُخْرِجُوا مِنْ دِيارِهِمْ
+> بِغَيْرِ حَقٍّ إِلاَّ أَنْ يقُولُوا رَبُّنَا اللهُ وَلَو لا دَفْعُ
+> اللهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ
+> وَصَلَوَاتٌ وَمَسَاجِدُ يُذْکَرُ فِيهَا اسْمُ اللهِ کَثيراً
+> وَلَينْصُرَنَّ اللهُ مَنْ يَنْصُرُهُ إِنَّ اللهَ لَقَوِيٌ عَزِيزٌ \*
+> أَلَّذِينَ إِنْ مَکَّنَّاهُمْ فِي الأَرْضِ أَقَامُوا الصَّلاَةَ
+> وءاتَوُا الزَّکَاةَ وَأَمَرُوا بِالمَعْرُوفِ وَنَهَوْا عَنِ المُنْکَرِ
+> وَللهِ عَاقِبَةُ الاُمُورِ ﴾
 
 ***“Permission to fight is given to those upon whom war is made because
 they are oppressed, and most surely Allah is well able to assist them;
@@ -177,18 +153,14 @@ manifest whether they have perseverance and firmness of purpose or are
 weak and fainthearted. Will they run away from the battlefield or stand
 firmly defending the religion of Allah? Allah, the Exalted says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلا تَهِنُوا وَلا تَحْزَنُوا وَأَنتُمُ الأَعْلُونَ إِنْ کُنْتُمْ
-مُؤْمِنِينَ \* إِنْ يمْسَسْکُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ
-مِثْلُهُ وَتِلْکَ الأَيَّامُ نُداوِلُها بَيْنَ النَّاسِ وَلِيَعْلَمَ
-اللهُ الَّذِينَ آمَنُوا وَيتـَّخِذَ مِنْکُم شُهَدَاءَ وَاللهُ لا
-يُحِبُّ الظَّالِمِينَ \* وَلِيُمَحِّصَ اللهُ الَّذِينَ آمَنُوا
-وَيَمْحَقَ الْکَافِرِينَ \* أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الجَنَّةَ
-وَلَمَّا يَعْلَمِ اللهُ الَّذِينَ جَاهَدُوا مِنْکُمْ وَيَعْلَمَ
-الصَّابِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلا تَهِنُوا وَلا تَحْزَنُوا وَأَنتُمُ الأَعْلُونَ إِنْ کُنْتُمْ
+> مُؤْمِنِينَ \* إِنْ يمْسَسْکُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ
+> مِثْلُهُ وَتِلْکَ الأَيَّامُ نُداوِلُها بَيْنَ النَّاسِ وَلِيَعْلَمَ
+> اللهُ الَّذِينَ آمَنُوا وَيتـَّخِذَ مِنْکُم شُهَدَاءَ وَاللهُ لا
+> يُحِبُّ الظَّالِمِينَ \* وَلِيُمَحِّصَ اللهُ الَّذِينَ آمَنُوا
+> وَيَمْحَقَ الْکَافِرِينَ \* أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الجَنَّةَ
+> وَلَمَّا يَعْلَمِ اللهُ الَّذِينَ جَاهَدُوا مِنْکُمْ وَيَعْلَمَ
+> الصَّابِرِينَ ﴾
 
 ***“And be not infirm, and be not grieving, and you shall have the upper
 hand if you are believers. If a wound has afflicted you (at the Battle
@@ -231,11 +203,7 @@ uprisings sprang up against the rule of Bani Umayyah which finally led
 to the downfall of this cursed sultanate. It is for this reason that the
 Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«حسين منّي وأنا من حسين.»
-  </p>
-</blockquote>
+> «حسين منّي وأنا من حسين.»
 
 “Al-Husayn is from me, and I am from al-Husayn.”
 
@@ -262,12 +230,8 @@ from the battlefield, and other things like this are all kinds of trials
 for a believing person. Mention has been made in the Holy Qur’an about
 trials and temptations for believers, when it says,
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلَُوَنَّکُمْ حَتَّى نَعْلَمَ المُجَاهِدِينَ مِنْکُم
-وَالصَّابِرينَ ...
-  </p>
-</blockquote>
+> وَلَنَبْلَُوَنَّکُمْ حَتَّى نَعْلَمَ المُجَاهِدِينَ مِنْکُم
+> وَالصَّابِرينَ ...
 
 ***“And most certainly, We will try you until We have known those among
 you who exert themselves hard, and the patient, and made your case
@@ -302,5 +266,4 @@ way, everyone was made known by his own actions.
 [^7]: Surat Al ‘Imran 3:139-142.
 
 [^8]: Surat Muhammad 47:31.
-
 

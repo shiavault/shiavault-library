@@ -141,4 +141,3 @@ persons.
 In short, an Imam is the Holiest, most Pious of all - after the Holy
 Prophet Muhammad (S)
 
-

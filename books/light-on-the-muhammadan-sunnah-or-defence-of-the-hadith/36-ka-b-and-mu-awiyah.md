@@ -1,7 +1,7 @@
 Ka'b and Mu'awiyah:
 ===================
 
-I have stated before <span id="_anchor_332"></span>332  that Umar ibn
+I have stated before 332  that Umar ibn
 al-Khattab forbade Ka'b al-Ahbar from narrating hadith, threatening him
 with exile should he relate any of his Jewish traditions (Israeliyyat),
 or what he used to claim as being reported from the Prophet (S) after
@@ -34,8 +34,7 @@ Jewish stratagem as much as he could. Among the deceit he added to this
 sedition, was his claim that caliphate after Uthman would go to
 Mu\`awiyah!
 
-Wukay' reported from al-A‘mash, from Abu Salih, <span
-id="_anchor_333"></span>333  that a singer was chanting in regard of
+Wukay' reported from al-A‘mash, from Abu Salih, 333  that a singer was chanting in regard of
 Uthman saying:
 
 The emir after him shall be Ali,
@@ -57,9 +56,9 @@ brought him nearer, making him among his favourites, for narrating as
 many falsities and Jewish traditions as he could in support of him
 (Mu\`awiyah) and reinforcing pillars of his rule. In al-Isabah Ibn Hajar
 al-Asqallani reported that it was Mu'awiyah who ordered Ka'b to relate
-tales in the Sham. <span id="_anchor_334"></span>334  Sufficient be the
+tales in the Sham. 334  Sufficient be the
 aforementioned traditions, and the narrations he falsified in respect of
-preferring the Sham and its people. <span id="_anchor_335"></span>335
+preferring the Sham and its people. 335
 
 Our wonder is raised when knowing that these Israeliyyat are still
 nowadays believed and rather sanctified by some people. When
@@ -76,10 +75,10 @@ and amassed all their might and forces to combat and fight his Shari'ah.
 Had I intended to cover all the stratagem and evil intended by this
 priest against Islam and Muslims, this would have required me to
 dedicate a separate full book, as I did in regard of his most eminent
-disciple Abu Hurayrah. <span id="_anchor_336"></span>336
+disciple Abu Hurayrah. 336
 
 We should never forget that Ali used to say about Ka'b that he was
-verily a liar. <span id="_anchor_337"></span>337
+verily a liar. 337
 
 332. See section on this subject in this book.
 

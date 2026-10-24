@@ -129,11 +129,9 @@ written about this subject and then they are free to judge whether it is
 permissible or not.  
   
 
-  
  23. Changing the azan[1]
 -------------------------
 
-  
  We have researched on the traditions concerning the azan during the
 time of the Prophet (s) and we have not found this statement prayer is
 better than sleeping as a part of the azan. In fact this statement was
@@ -695,12 +693,9 @@ from his fathers that Imam Ali (s) had said: The messenger of Allah has
 been taught the azan in the night of his ascension to Heaven when prayer
 has been determined as an obligation.[2]
 
-  
-  
  24. Come to the best of deeds
 ------------------------------
 
-  
  This statement was a part of the azan and the iqama at the time of the
 Prophet (s) but the men of authority during the reign of the second
 caliph Umar tried to make people understand that the best of deeds was
@@ -748,7 +743,6 @@ opinions about the matter.
 ###   
  Note
 
-  
  The parts of the azan, according to the Shia, are eighteen; four times:
 Allah is great and twice for each of: I witness that there is no god but
 Allah, I witness that Muhammad is the messenger of Allah, come to
@@ -791,11 +785,9 @@ prohibited and it is a heresy? Why do they want to separate the Muslims
 especially in these days?  
   
 
-  
  25. Changing the rules of divorce
 ----------------------------------
 
-  
  The three-divorce, after which a divorced wife cannot return to her
 husband except after getting married to another one and then being
 divorced, is called the third divorce which is preceded by two returns
@@ -970,11 +962,9 @@ Allah?!
 base of the change of times.[1]  
   
 
-  
  26. The prayer of taraweeh[2]
 ------------------------------
 
-  
  This kind of prayers had not been legislated by the Prophet (s) nor had
 it been offered at the time of Abu Bakr and Allah had never legislated
 to offer Nafila[3] prayer congregationally except for the prayer of
@@ -1127,7 +1117,6 @@ Allah and His Messenger have decided a matter.** Qur'an, 33:36
 27. The prayer of funerals
 --------------------------
 
-  
  The Prophet (s) was used to say five Takbeers (Allahu akbar-Allah is
 great) in the prayer for the dead but the second caliph Umar admired to
 say only four Takbeers and he made people do that too. Many scholars
@@ -1163,12 +1152,9 @@ Prophet (s) have recited
 
 them.[1]
 
-  
-  
  28. Bequeathing between brothers and sisters
 ---------------------------------------------
 
-  
  Allah has said: **They ask you for a decision of the law. Say: Allah
 gives you a decision concerning the person who has neither parents nor
 offspring; if a man dies (and) he has no son and he has a sister, she
@@ -1222,11 +1208,9 @@ shall have half of what he leaves)** but you say: she shall have half of
 what he leaves even if he has a son (child).[1]  
   
 
-  
  29. Shortage of inheritance
 ----------------------------
 
-  
  The Muslims have disagreed about the permissibility of shortage of
 inheritance. Shortage of inheritance is that inheritance becomes less
 than the shares of the heirs. For example when the heirs are two sisters
@@ -1344,11 +1328,9 @@ not inherit the bequeather if his mother is alive and Allah, the
 Almighty, is more aware!  
   
 
-  
  30. Inheritance of grandfather when there are brothers
 -------------------------------------------------------
 
-  
  Al-Bayhaqi mentioned in his Sunan and in Shuabul Eeman[1] that Umar had
 asked the Prophet (s) about the inheritance of a grandfather when there
 were other brothers and the Prophet (s) had said to him: O Umar, why do
@@ -1390,12 +1372,9 @@ it reached Umar, he made a speech before the people and read for them
 what Zayd had written on the tablet and said: Zayd has given his opinion
 about the matter of grandfather and I have approved it.[1]
 
-  
-  
  31. Common inheritance
 -----------------------
 
-  
  The case was that a woman had died and left a husband, a mother, two
 brothers from her mother but not her father and two other brothers from
 her mother and father at the reign of the second caliph Umar. This case
@@ -1470,11 +1449,9 @@ all of them. This event has been mentioned in this way by Ahmad Ameen in
 his book Fajr al-Islam, p.285.  
  **[1]** For more details refer to Taj al-Arooss by al-Wasiti.
 
-  
  32. The share of the heirs
 ---------------------------
 
-  
  Allah has said: **Men shall have a portion of what the parents and the
 near relatives leave, and women shall have a portion of what the parents
 and the near relatives leave, whether there is little or much of it; a

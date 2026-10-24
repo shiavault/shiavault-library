@@ -25,4 +25,3 @@ forgiven."[^1]
 [^1]: Al-Saduq, in his Connotations of the News, quoting Hisham ibn
 Salim. Also in Basaair al Darajat by Sa\`d ibn Abdullah.
 
-

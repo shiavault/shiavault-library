@@ -84,4 +84,3 @@ continuously fixing it.
 Such a practical expression is none but worship. Therefore, worship is
 a fixed need.
 
-

@@ -356,4 +356,3 @@ agile ii his movements, had a very smiling face, very pleasing manners,
 a jovial temperament, very kind disposition and very courteous
 behaviour. He would never lose his temper."
 
-

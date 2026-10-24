@@ -89,4 +89,3 @@ Tomb of Lanika, wife of Prophet Ya'qub, peace be upon them.
 
 Tomb of Prophet Yusuf, son of Prophet Ya'qub, peace be upon them.
 
-

@@ -58,4 +58,3 @@ Anaam, p.377
 infidels wish to extinguish but Allah thwarts ( their attempts).”-
 Rabee’ al-Anaam, p.377, 378.)
 
-

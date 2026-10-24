@@ -41,7 +41,5 @@ with its many features and principles.
 We beseech Allah, the Most High, to aid and grant us success to
 accomplish this blessed duty. He is the best of helpers.
 
-
 Al-Balagh Foundation
-
 

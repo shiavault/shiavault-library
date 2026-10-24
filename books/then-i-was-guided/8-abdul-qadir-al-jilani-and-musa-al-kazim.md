@@ -234,4 +234,3 @@ He asked me several times to have my breakfast, but I refused until I
 had finished the book. I became attached to the book which put me in a
 state of skepticism which lasted until just before I left Iraq.
 
-

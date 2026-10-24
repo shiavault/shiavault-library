@@ -118,4 +118,3 @@ reflection - Are the leaders of guidance and the path bearers to
 paradise equal to the guides towards the hell fire and darkness? Never!
 Awaken and decide for yourselves.
 
-

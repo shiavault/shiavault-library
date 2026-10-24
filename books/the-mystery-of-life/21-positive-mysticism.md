@@ -125,9 +125,7 @@ perfection unless he recognizes the needs his fellow men have, and try
 to adjust their physical and spiritual life. As the Holy Prophet has
 said:
 
-<p dir="rtl">
 من امن بی من بات شبعانا و جاره المسلم جائع
-</p>
 
 *“He who sleeps on a full stomach when his Muslim neighbor is hungry has
 no faith in me.”*
@@ -166,9 +164,7 @@ for he is at all times obeying God's orders.
 10- The true mystic is always on his way; he never believes that he has
 arrived at his destination.
 
-<p dir="rtl">
 من غــلام آن که او در هر ربـــاط خويــش را واصل نداند بر سمــاط
-</p>
 
 *(I'm at the service of that who never thinks he has reached the peak. I
 am willing to serve and follow that person who never even thinks about
@@ -269,19 +265,13 @@ mystics of the universe without accepting the universe that has
 dispatched the mystic to this spiritual world. As the renowned Iranian
 scholar and poet, Sheikh Bahaee says,
 
-<p dir="rtl">
 ز حدوث پا کشيدم، به قـدم رهم ندادنــد ز وجود هم گذشتم، به عدم رهم
 ندادند
-</p>
 
-<p dir="rtl">
 به کنشت سجده بردم، به صنم رهم ندادند به طواف کعبه رفتم، به حرم رهم
 ندادند
-</p>
 
-<p dir="rtl">
 که تو در برون چه کردی که درون خانه آيی؟
-</p>
 
 *(I passed the mortal, and I was deprived of the immortal. I overlooked
 existence and the universe, and was rejected from entering
@@ -542,21 +532,13 @@ reveal facts and realities to him. Some have imagined that mystic facts
 either need no reasoning or cannot be reasoned at all. As Jalal-addin
 Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 پای استدلاليـــان چوبيـــن بود پای چوبين سخت بی تمکيــن بود
-</p>
 
-<p dir="rtl">
 عقل رنجـور آورد پيــش طبيــب ليک نبود در دوا حکمــش مصيــب
-</p>
 
-<p dir="rtl">
 آن نمیدانست عقل پـای سسـت که سبــو دائــم ز جو نايـد درست
-</p>
 
-<p dir="rtl">
 عقل، بند رهروان است ای پســر آن رها کــن ره عيان است ای پسر
-</p>
 
 *(Those who insist on reasoning and deduction stand on wooden legs,
 which are very weak. Wisdom takes the sick patient to the doctor,
@@ -644,9 +626,7 @@ mistakes God with himself, and incorrectly says these things.
 Jalal-addin Muhammad Molawi adds that despite all this, being present
 but rude is better than not being there at all.
 
-<p dir="rtl">
 بی ادب حاضر ز غايب خوشتر است حلقه گر چه کژ بـود، نی بر در اسـت
-</p>
 
 *(Being rude and present is better than being absent; the handle of a
 door may not be straight, but it’s still there on the door!)*
@@ -732,5 +712,4 @@ fulfilling one of man's needs is a truth to be taken seriously. In the
 initial steps of evolutional mystic change, the knowledge of the truth
 and its actions are considered as separate, but when man's character
 develops mystically, his knowledge and action will find supreme unity.
-
 

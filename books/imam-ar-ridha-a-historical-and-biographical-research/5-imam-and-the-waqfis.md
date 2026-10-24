@@ -386,4 +386,3 @@ al-Toosi's Al Ghayba, p. 47.
 
 [^16]: Al-Kashi's Rijal, p. 400.
 
-

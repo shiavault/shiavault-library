@@ -6,13 +6,9 @@ The Holy Qur’an, Revelation from Allah (swt) only
 
 **Surah Yunus, 10 :37-38**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ هَـذَا الْقُرْآنُ أَن يُفْتَرَى مِن دُونِ اللّهِ وَلَـكِن
-تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لاَ رَيْبَ
-فِيهِ مِن رَّبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ هَـذَا الْقُرْآنُ أَن يُفْتَرَى مِن دُونِ اللّهِ وَلَـكِن
+> تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لاَ رَيْبَ
+> فِيهِ مِن رَّبِّ الْعَالَمِينَ
 
 Wa maa kaana haazal-Qur-’aanu ’an yuf-taraa min-duunil-laahi wa
 laakin-tasdii-qal-lazii bayna ya-dayhi wa tafsii-lal-Kitaabi laa ray-ba
@@ -23,12 +19,8 @@ God: nay indeed, it confirms the truth of whatever remains (of earlier
 revelations) and clearly spells out the revelation (which comes) - let
 there be no doubt about it - from the Sustainer of all the worlds.*
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُواْ بِسُورَةٍ مِّثْلِهِ
-وَادْعُواْ مَنِ اسْتَطَعْتُم مِّن دُونِ اللّهِ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُواْ بِسُورَةٍ مِّثْلِهِ
+> وَادْعُواْ مَنِ اسْتَطَعْتُم مِّن دُونِ اللّهِ إِن كُنتُمْ صَادِقِينَ
 
 ’Am yaquuluu-naf-taraah? Qul fa’-tuu bi-suuratim-mithlihii wad-‘uu
 manistata‘-tum-min-duunil-laahi ’in-kuntum Saadi-qiin!
@@ -45,13 +37,9 @@ God’s Unique Way of Sending His Messages to Mankind
 
 **Surah Ash – Shura, 42:51**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِن
-وَرَاء حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاء
-إِنَّهُ عَلِيٌّ حَكِيمٌ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِن
+> وَرَاء حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاء
+> إِنَّهُ عَلِيٌّ حَكِيمٌ
 
 Wa maa kaana libasharin ’ay-yakal-limahul-laahu ‘il-laa Wahyan ’aw
 minw-waraaa-’i hijaabin ’aw yursila rasuulan fayuhiya bi-’iznihii maa
@@ -67,15 +55,11 @@ The Holy Qur’an, a Book Complete in Every Aspect and Sent as a Grace From Almi
 
 **Surah Az – Zumar, 39:23**
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُّتَشَابِهًا مَّثَانِيَ
-تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ
-تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَى ذِكْرِ اللَّهِ ذَلِكَ هُدَى
-اللَّهِ يَهْدِي بِهِ مَنْ يَشَاء وَمَن يُضْلِلْ اللَّهُ فَمَا لَهُ
-مِنْ هَادٍ
-  </p>
-</blockquote>
+> اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُّتَشَابِهًا مَّثَانِيَ
+> تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ
+> تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَى ذِكْرِ اللَّهِ ذَلِكَ هُدَى
+> اللَّهِ يَهْدِي بِهِ مَنْ يَشَاء وَمَن يُضْلِلْ اللَّهُ فَمَا لَهُ
+> مِنْ هَادٍ
 
 ’Al-laahu naz-zala ’ahsanal-Hadiithi Kitaabam-mutashaabi-ham-mathaaniya
 taq-sha-‘ir-ru minhu juluudul-laziina yakh-shawna Rab-bahum. Thum-ma
@@ -117,32 +101,20 @@ The Holy Qur’an, a Book of True Guidance but, only for the Believers
 
 **Surah Luqman, 31 :2-5**
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ
-  </p>
-</blockquote>
+> تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ
 
 Tilka ’Aayaatul-Kitaabil-Hakiim,
 
 *2. These are messages of the divine writ, full of wisdom,*
 
-<blockquote dir="rtl">
-  <p>
-هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ
-  </p>
-</blockquote>
+> هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ
 
 Hudanw-wa Rahmatal-lil-Muhsiniin,
 
 *3. providing guidance and grace unto the doers of good*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم
-بِالْآخِرَةِ هُمْ يُوقِنُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم
+> بِالْآخِرَةِ هُمْ يُوقِنُونَ
 
 ’Al-laziina yuqii-muunas-Salaata wa yu’tuunaz-Zakaata wa hum-bil
 ’Aakhiraati hum yuuqinuun.
@@ -150,12 +122,8 @@ Hudanw-wa Rahmatal-lil-Muhsiniin,
 *4. who are constant in prayer and dispense charity: for it is they,
 they who in their innermost are certain of the life to come!*
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُوْلَئِكَ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُوْلَئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 Ulaaa-’ika ‘alaa Hudam-mir-Rab-bihim wa ’ulaaa-’ika humul-Muflihuun.
 
@@ -183,11 +151,7 @@ The Holy Qur’an : Its Protection Against any Distortion is Promised by Allah (
 
 **Surah Al – Hijr, 15:9**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ’In-na Nahnu naz-zal-naz-Zikra wa ’in-naa lahuu la-Haafizuun.
 
@@ -214,13 +178,9 @@ Allah’s (swt) Challenge to Mankind to Produce a Like of The Qur'an
 
 **Surah Al – Isra’, 17:88**
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّئِنِ اجْتَمَعَتِ الإِنسُ وَالْجِنُّ عَلَى أَن يَأْتُواْ
-بِمِثْلِ هَـذَا الْقُرْآنِ لاَ يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
-بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا
-  </p>
-</blockquote>
+> قُل لَّئِنِ اجْتَمَعَتِ الإِنسُ وَالْجِنُّ عَلَى أَن يَأْتُواْ
+> بِمِثْلِ هَـذَا الْقُرْآنِ لاَ يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
+> بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا
 
 Qul-la’inij-tama-‘atil-’Insu wal-Jin-nu ‘alaaa ’ay-ya’-tuu bi-mithli
 haazal-Qur-’aani laa ya’-tuuna bi-mith-lihii wa lau kaana ba‘-zuhum
@@ -234,13 +194,9 @@ in aiding one another!”.*
 Surah Baqarah, 2:23
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَى عَبْدِنَا فَأْتُواْ
-بِسُورَةٍ مِّن مِّثْلِهِ وَادْعُواْ شُهَدَاءكُم مِّن دُونِ اللّهِ إِنْ
-كُنْتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَى عَبْدِنَا فَأْتُواْ
+> بِسُورَةٍ مِّن مِّثْلِهِ وَادْعُواْ شُهَدَاءكُم مِّن دُونِ اللّهِ إِنْ
+> كُنْتُمْ صَادِقِينَ
 
 Wa ’in - kuntum fii ray-bim-mimmaa nazzal-naa ‘alaa ‘Abdinaa fa ’-tuu
 bi-Suuratim-mim-mis-lih; wad- ‘uu shuha - daaa - ‘akum-min-duunillaahi
@@ -251,13 +207,9 @@ bi-Suuratim-mim-mis-lih; wad- ‘uu shuha - daaa - ‘akum-min-duunillaahi
 
 **Surah Hud, 11:13**
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُواْ بِعَشْرِ سُوَرٍ مِّثْلِهِ
-مُفْتَرَيَاتٍ وَادْعُواْ مَنِ اسْتَطَعْتُم مِّن دُونِ اللّهِ إِن
-كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُواْ بِعَشْرِ سُوَرٍ مِّثْلِهِ
+> مُفْتَرَيَاتٍ وَادْعُواْ مَنِ اسْتَطَعْتُم مِّن دُونِ اللّهِ إِن
+> كُنتُمْ صَادِقِينَ
 
 ’Am yaquu - luunaf - taraah, Qul fa’tuu bi-ashri Suwarim - mislihii
 muftara - yaatinw wad-’uu mamis - tata ‘-tum-min-duunil-laahi ’in -
@@ -272,51 +224,31 @@ The First Revelation of the Qur’an
 
 **Surah Al – ‘Alaq, 96:1-5**
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
-  </p>
-</blockquote>
+> اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
 
 ’Iqra’ bismi Rab-bikal-lazii khalaq,
 
 *1. Read in the name of thy Sustainer, who has created*
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ
-  </p>
-</blockquote>
+> خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ
 
 Khalaqal-’insaana min ‘alaq.
 
 *2. created man out of a germ-cell!*
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
-  </p>
-</blockquote>
+> اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
 
 ’Iqra’ wa Rab-bukal-’ Akram
 
 *3. Read - for thy Sustainer is the Most Bountiful One*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي عَلَّمَ بِالْقَلَمِ
-  </p>
-</blockquote>
+> الَّذِي عَلَّمَ بِالْقَلَمِ
 
 ’Al-lazii ‘al-lama bil Qalam,
 
 *4. who has taught (man) the use of the pen*
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
-  </p>
-</blockquote>
+> عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
 
 ‘Al-lamal-’insaana maa lam ya‘-lam.
 
@@ -368,44 +300,28 @@ Night of Qadr , The Night of Destiny , better than a 1000 Nights
 
 **Surah Al – Qadr, 97:1-5**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
 
 ’In-naaa ’anzal-naahu fii Laylatil-Qadr:
 
 *1. Behold, from on high have We bestowed this (divine writ) on the
 Night of Destiny.*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ
 
 Wa maaa ’ad-raaka maa Laylatul-Qadr?
 
 *2. And what could make thee conceive what it is, that Night of
 Destiny?*
 
-<blockquote dir="rtl">
-  <p>
-لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
-  </p>
-</blockquote>
+> لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
 
 Laylatul-Qadri khayrum-min ’alfi Shahr
 
 *3. The Night of destiny is better than a thousand months:*
 
-<blockquote dir="rtl">
-  <p>
-تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن
-كُلِّ أَمْرٍ
-  </p>
-</blockquote>
+> تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن
+> كُلِّ أَمْرٍ
 
 Tanaz-zalul - malaaa - ’ikatu war-Ruuhu fiihaa
 bi-’izni-Rab-bihim-min-kul-li’amr:
@@ -413,11 +329,7 @@ bi-’izni-Rab-bihim-min-kul-li’amr:
 *4. in hosts descends in it the angels, bearing divine inspiration by
 their Sustainer’s leave;*
 
-<blockquote dir="rtl">
-  <p>
-سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
-  </p>
-</blockquote>
+> سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
 
 Salaa-mun Hiya hat-taa mat-la-‘il-Fajr!
 
@@ -430,5 +342,4 @@ the Lord seeking His forgiveness for the sins and His grace and mercy.
 It is said that it is announced in the heavens, *“Who is there among the
 mankind to seek tonight the forgiveness and the grace of the Lord and
 have it”*
-
 

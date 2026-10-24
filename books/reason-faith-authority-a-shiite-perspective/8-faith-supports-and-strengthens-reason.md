@@ -29,4 +29,3 @@ reason without faith is crippled and barren. Faith opens for reason
 realms other than worldly life and reason makes grounds for true belief
 and faith.
 
-

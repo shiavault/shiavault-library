@@ -91,7 +91,6 @@ When the growing child is taught to address his dua (supplication) to
 Allah, the impact of his faith in the dua is tremendous only if he has
 also been made to gain the right Islamic concept of Him.
 
-
 **12- The Culture of Talking to Allah swt**
 
 If rooted deeply and practiced earnestly during one's lifetime. this
@@ -185,5 +184,4 @@ to Allah and the "score" will be real!
 (fuqaraa) they who stand in need of Allah..." (35: 15). "I answer the
 prayer of the supplicant when he calls on Me " (2:186). "Call upon Me
 and I will answer you..." (40:60).
-
 

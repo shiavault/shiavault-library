@@ -141,4 +141,3 @@ Lord of the World.
 
 [^3]: Bahth hawl al-walayah.
 
-

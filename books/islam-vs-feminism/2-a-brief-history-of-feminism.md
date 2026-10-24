@@ -46,4 +46,3 @@ The focus of attention in what follows will be on feminist philosophy
 the important feminist writings there are also works on psychoanalysis,
 jurisprudence and literary criticism.
 
-

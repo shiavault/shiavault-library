@@ -4,8 +4,6 @@ Part 3: Branches
 1) Minor Ritual Ablution (wudhu’)
 ---------------------------------
 
-
-
 ### i) According to the people 'of shari\`ah
 
 * *
@@ -40,9 +38,7 @@ with regard to the *wudhu’* of other groups, besides the Shi'ahs, but
 this is not the appropriate moment to enter upon a discussion of them;
 and Allah is more Knowing and more Wise.
 
-
 ### ii) According to the people of tariqah
-
 
 The purification of this group occurs after their performance of the
 above‑mentioned ablution; it is an expression for the purifi­cation of
@@ -96,7 +92,6 @@ word in this world's life and in the hereafter;' may Allah bestow on us
 the (station of) joining between them and our firm establishment in
 both; He it is whose help is sought and it is on Him that we place our
 trust.
-
 
 ### iii) According to the people of haqiqah
 
@@ -200,13 +195,8 @@ subject and secrets too numerous to mention, but this present
 investigation will be enough for the man of intellect and perception;
 and Allah says the truth and guides to the correct path.
 
-
-
-
 2) Major Ritual Purification (ghusl)
 ------------------------------------
-
-
 
 ### i) According to the people of shari\`ah
 
@@ -234,7 +224,6 @@ performed; the intention should remain in force throughout the *ghusl;*
 and the appropriate order of performance should be respected, that is,
 one must begin with the head and then with the right side of the body
 and then with the left.
-
 
 ### ii) According to the people of tariqah
 
@@ -363,9 +352,7 @@ with the most Powerful King.' May Allah grant us attainment of these
 stations for surely that is a grace from Allah, He gives it to whom He
 wishes and Allah is of mighty grace.
 
-
 ### iii) According to the people of haqiqah
-
 
 *Ghusl* for the people of this group represents their purification from
 the real ritual impurity, that is, the witnessing of other than­ Allah
@@ -454,11 +441,8 @@ There are numerous examples of this kind and the reader is advised to
 seek them in the appropriate places; and Allah is more Knowing and more
 Wise and He it is that says the truth and guides to the correct path.
 
-
 3) Purification with Earth (tayammum)
 -------------------------------------
-
-
 
 ### i) According to the people of shari\`ah
 
@@ -492,7 +476,6 @@ not); likewise all acts of worship permitted with *wudhu’* are also
 permitted by means of layammum, the two being exactly equal as to their
 validity ‑ and Allah is more Knowing and more Wise and He it is Who says
 the truth and guides to the correct path.
-
 
 ### ii) According to the people of tariqah
 
@@ -720,7 +703,6 @@ with the palm of the right ‑ such that the person does not oppose or
 contradict his outer with his inner and his inner with his outer. Thus
 purification of the one is achieved by means of the other.
 
-
 ### iii) According to the people of haqiqah
 
 * *
@@ -819,14 +801,12 @@ in a work of this kind (although we shall be obliged to discuss the
 matter in due course, as the reader shall see). We shall now begin a
 study of the nature of prayer.
 
-
 4) The Nature of Prayer
 -----------------------
 
 ** **
 
 ### In the light of the intellect, the Prophetic traditions and the unveilings of the heart
-
 
 The reader should realize that all divine laws 'at& based upon a
 consideration of time, place and the duty to the brotherhood of Muslims,
@@ -955,14 +935,10 @@ of inner reality. It should be noted that there are many differences of
 opinion among the scholars, the common people and the philosophers
 concerning the matter.
 
-
 5) The Ascent of the Prophet (mi\`raj)
 --------------------------------------
 
-
-
 ### i) In the realm of form
-
 
 The title of this section refers to the Prophet's will and intent to
 attain to this triad of gatherings in the realm of form ‑ just as he
@@ -1053,9 +1029,7 @@ and solar realms and over Gabriel (when he wished to begin the ascent).
 It is most impor­tant that one understands and believes in these matters
 for any attempt to explain them away is of no use.
 
-
 ### ii) In the realm of inner meaning
-
 
 Most people agree that the ascent of the Prophet in the realm of inner
 meaning refers to his arrival at the Real during the time of the night
@@ -1237,10 +1211,8 @@ abodes?' is not lost on those who understand this science. This
 concludes our study of the *mi\`raj* with respect to the self and the
 realm of inner meaning.
 
-
 6) Different Aspects of Prayer
 ------------------------------
-
 
 We shall now return to our study of the various aspects of prayer. We
 have already explained that the five roots (off‑ principles) and the
@@ -1560,7 +1532,6 @@ of worship, which are the branches of Islam, are five in number. This
 necessitates the establishment of another method of classifi­cation
 which contains and defines in a specific way all these points.
 
-
 7) A Method of Classification
 -----------------------------
 
@@ -1568,7 +1539,6 @@ which contains and defines in a specific way all these points.
 the reason for the priority given to prayer, how the person praying
 encompasses the totality of worship, the reason why one act of worship
 takes preference over another**
-
 
 It should be realized that there are differences of opinion with regard
 to the divisions of this subject. This is because some have added the
@@ -1806,11 +1776,8 @@ of the prayer with regard to the three groups, namely the people of the
 *shari\`ah, tariqah* and *haqiqah* and then go on to the rest of the
 branches in the same manner.
 
-
 8) Prayer
 ---------
-
-
 
 ### i) According to the people of shari\`ah
 
@@ -1875,9 +1842,7 @@ This is the nature of the prayer according to the people of the
 the exoteric. The inward dimension is connected to the people of
 *tariqah* and will now be considered.
 
-
 ### ii) According to the people of tariqah
-
 
 According to this group, the prayer is proximity or a drawing near to
 the Real. It has been reported that the Prophet has said, \`Prayer is
@@ -2154,9 +2119,7 @@ come to you the truth and an admonition and reminder to the believers;'
 and Allah is more Knowing and more Wise; He it is Who says the truth and
 guides to the straight path.
 
-
 ### iii) According to the people of haqiqah
-
 
 The prayer of the people of this group refers to the station of arrival
 and witnessing in the realm of truth. This station is higher than that
@@ -2615,14 +2578,12 @@ Thus we come to the end of our study of the prayer with respect to the
 three groups. We shall now begin on the subject of fasting with respect
 to these same groups; and by Allah is all security and success.
 
-
 9) Fasting
 ----------
 
 ** **
 
 ### i) According to the people of shari\`ah
-
 
 What is meant here is abstention from certain things for a specific
 period of time. Among the conditions of fasting is that of the validity
@@ -2680,7 +2641,6 @@ mouth in order to cool himself (although this does not apply to the
 rinsing of the mouth prior to the performing the prayer), and finally
 the injection of fluids into the body. The above is the fasting of the
 people of *shari\`ah* according to the way of the Shiahs.
-
 
 ### ii) According to the people of tariqah
 
@@ -3148,7 +3108,6 @@ sublimer, profounder, finer and nobler: \`And certainly We have set
 forth to men in this Qur'an similitudes of every sort that they may
 heed.'
 
-
 ### iii) According to the people of haqiqah
 
 * *
@@ -3281,15 +3240,12 @@ path. Having concluded this section on fasting in relation to the three
 different groups, we shall now begin in the same manner on the subject
 of *zakat.*
 
-
-
 10) Zakat
 ---------
 
 *** ***
 
 ### i) According to the people of shari\`ah
-
 
 According to the people of this group, *zakat* is obligatory on nine
 things: camels, cows, sheep and goats, gold, silver, wheat, barley,
@@ -3330,7 +3286,6 @@ it is that the full *nisab is* reached. There are numerous other studies
 of the laws governing each of these different divisions; we have no need
 for further explanation of this in a work of this nature; and Allah is
 more‑Knowing and more Wise.
-
 
 ### ii) According to the people of tariqah
 
@@ -3542,7 +3497,6 @@ unseen. In this way it merits a witnessing of its Lord and becomes
 tranquil and is able to return to its own world. How good is the *zakat*
 whose fruit is such a return; and Allah is more Knowing and more Wise.
 
-
 ### iii) According to the people of haqiqah
 
 * *
@@ -3595,11 +3549,8 @@ slaves. We ask Allah to give us success in arriving at this station of
 *zakat* and similar stations; He it is from Whom the slaves seek help
 and on Whom they rely.
 
-
 11 ) Hajj (pilgrimage)
 ----------------------
-
-
 
 ### i) According to the people of shari\`ah
 
@@ -3692,7 +3643,6 @@ renew the *talbiyah* while beginning each *tawaf.* The things which are
 books; and may peace be on those who follow the guidance. Herewith we
 conclude the section the *hajj* of the people of *shari\`ah* according
 to the manner of the Shiahs.
-
 
 ### ii) According to the people of tariqah
 
@@ -4325,8 +4275,6 @@ of the people of *haqiqah.* We shall now begin with subject of *jihad;*
 and praise belongs to Allah alone and it is from Him that all help is
 sought and in Whom the people trust.
 
-
-
 12) Jihad
 ---------
 
@@ -4369,7 +4317,6 @@ of the pillars. If they refuse to accept all or any of these things,
 then it is permitted to fight them. The person entrusted with inviting
 them to Islam should be the Imam or whoever is delegated by him; and
 Allah is more Knowing and more Wise.
-
 
 ### ii) According to the people of tariqah
 
@@ -4482,7 +4429,6 @@ perform it on one's behalf, and with them it is the first of
 obligations. This because it is impossible to set out on this path
 without it ‑ and thus we arrive at the desired conclusion of our
 argument.
-
 
 ### iii) According to the people of haqiqah
 
@@ -4656,7 +4602,6 @@ to Allah, as the Messenger has said, are \`as many as the souls of
 creation' and they multiply or diminish in relation to one's intimacy or
 distance from the Beloved.
 
-
 [^1]: It has also been said that this means that the life of all things
 is (by means of water); this however is not permissible with regard to
 the Arabic of the ayah for, if this were the case, then the word
@@ -4677,5 +4622,4 @@ of the sciences. It has been said that what is meant by the seven
 celestial spheres is other than we have maintained at the beginning;
 what we have said is nevertheless true and in accordance with the
 subject of our book.
-
 

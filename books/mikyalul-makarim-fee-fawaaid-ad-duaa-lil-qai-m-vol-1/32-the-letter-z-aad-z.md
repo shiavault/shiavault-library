@@ -12,11 +12,7 @@ without being accompanied by a guest. He used to walk one or two
 hospitability continues till the Day of Judgment and it is the same
 ‘blessed tree’ that the Almighty Allah has spoken about:
 
-<blockquote dir="rtl">
-  <p>
-يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ
-  </p>
-</blockquote>
+> يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ
 
 ***“…lit from a blessed olive-tree.” (Qur’an, Surah Noor 24:35)***
 
@@ -45,5 +41,4 @@ that Abu Dalf is having 4001 villages? He replied: One night a believer
 became his guest and he also presented to him a big tray full of dates
 numbering 4001. Thus the Almighty Allah rewarded him with a village for
 each date.
-
 

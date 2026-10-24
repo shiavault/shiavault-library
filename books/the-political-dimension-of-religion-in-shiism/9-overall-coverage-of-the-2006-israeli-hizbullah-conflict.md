@@ -332,4 +332,3 @@ called \\'Islamo-fascism\\'. \\'When our backs are against the wall, we
 are going to fight\\', declared Rabbi Martin Peled-Flax, an Israeli
 official, to loud cheers."
 
-

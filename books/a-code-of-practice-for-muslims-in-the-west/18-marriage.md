@@ -744,4 +744,3 @@ Edition, 1994) p. 121.
 [^12]: See as-Sistani, Minhaju 's-Saliheen, vol. 2, p. 136-137 as well
 as his al-Masa'ilu 'l-Muntakhaba, p. 385-419.
 
-

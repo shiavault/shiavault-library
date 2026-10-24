@@ -186,12 +186,8 @@ turns to Muzdalifah (where al‑Mash'ar al‑Haram is situated) after the
 halt in \`Arafat, he is acting in accordance with the following Divine
 verse of the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ
-الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كَمَا هَدَاكُمْ
-  </p>
-</blockquote>
+> فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ
+> الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كَمَا هَدَاكُمْ
 
 ***When you pour forth from 'Arafat, then remember Allah in al‑Mash'ar
 al‑Haram, remembering Him in the way you have been shown.*** **(2:198)**
@@ -329,5 +325,4 @@ textual proof (nass) to show that it is particular and not general. But
 there is no nass in favour of its being particular (takhsis). Therefore
 offering the two prayers together is permissible in general and at all
 times and in all places.
-
 

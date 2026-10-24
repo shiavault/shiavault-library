@@ -6,13 +6,9 @@ Forbidden to make or change Islamic Laws (Shariah)
 
 **Surah An – Nahl, 16:116-117**
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقُولُواْ لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
-وَهَـذَا حَرَامٌ لِّتَفْتَرُواْ عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
-يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ
-  </p>
-</blockquote>
+> وَلاَ تَقُولُواْ لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَـذَا حَلاَلٌ
+> وَهَـذَا حَرَامٌ لِّتَفْتَرُواْ عَلَى اللّهِ الْكَذِبَ إِنَّ الَّذِينَ
+> يَفْتَرُونَ عَلَى اللّهِ الْكَذِبَ لاَ يُفْلِحُونَ
 
 Wa laa taquuluu limaa tasifu ’al-siantu-kumul-kaziba haazaa halaalunw-wa
 haazaa haraamul-litaf-taruu ‘alal-laa-hil-kazib. ’In-nal-laziina
@@ -24,11 +20,7 @@ attributing your own lying inventions to God: for, behold, they who
 attribute their own lying inventions to God will never attain to a happy
 state!*
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 Mataa-‘un-qaliil; wa lahum ‘azaabun ’aliim;
 
@@ -40,16 +32,12 @@ Directives of Allah (swt)
 
 **Surah Al - An’am, 6:151-152**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ تَعَالَوْاْ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلاَّ
-تُشْرِكُواْ بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا وَلاَ
-تَقْتُلُواْ أَوْلاَدَكُم مِّنْ إمْلاَقٍ نَّحْنُ نَرْزُقُكُمْ
-وَإِيَّاهُمْ وَلاَ تَقْرَبُواْ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
-بَطَنَ وَلاَ تَقْتُلُواْ النَّفْسَ الَّتِي حَرَّمَ اللّهُ إِلاَّ
-بِالْحَقِّ ذَلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَعْقِلُونَ
-  </p>
-</blockquote>
+> قُلْ تَعَالَوْاْ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلاَّ
+> تُشْرِكُواْ بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا وَلاَ
+> تَقْتُلُواْ أَوْلاَدَكُم مِّنْ إمْلاَقٍ نَّحْنُ نَرْزُقُكُمْ
+> وَإِيَّاهُمْ وَلاَ تَقْرَبُواْ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
+> بَطَنَ وَلاَ تَقْتُلُواْ النَّفْسَ الَّتِي حَرَّمَ اللّهُ إِلاَّ
+> بِالْحَقِّ ذَلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَعْقِلُونَ
 
 Qul ta-‘aa-lau at-lu ma har-rama Ra-bu-kum alai-kum al-laa tush-ri-ku
 bihi shay-anw-wa bil wa-li-dayni ih-saa-naa; wa laa taq-tu-luu
@@ -66,15 +54,11 @@ of them which are apparent and those which are concealed, and do not
 kill the soul that Allah has forbidden except for the requirements of
 justice; this He has enjoined you with that you may understand.*
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْرَبُواْ مَالَ الْيَتِيمِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
-حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ الْكَيْلَ وَالْمِيزَانَ
-بِالْقِسْطِ لاَ نُكَلِّفُ نَفْسًا إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ
-فَاعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَى وَبِعَهْدِ اللّهِ أَوْفُواْ
-ذَلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَلاَ تَقْرَبُواْ مَالَ الْيَتِيمِ إِلاَّ بِالَّتِي هِيَ أَحْسَنُ
+> حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ الْكَيْلَ وَالْمِيزَانَ
+> بِالْقِسْطِ لاَ نُكَلِّفُ نَفْسًا إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ
+> فَاعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَى وَبِعَهْدِ اللّهِ أَوْفُواْ
+> ذَلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُونَ
 
 Wa laa taq-rabuu maa-lal yatiimi il-la bil-la-tii hiya ah-sa-no hat-ta
 yab-lu-gha ashud-da, wa au-ful kaila wal miizaana bil qist, laa
@@ -94,12 +78,8 @@ Avoid Major Sins and Minor Sins will be forgiven
 
 **Surah An- Nisa, 4:31**
 
-<blockquote dir="rtl">
-  <p>
-إِن تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ
-سَيِّئَاتِكُمْ وَنُدْخِلْكُم مُّدْخَلاً كَرِيمًا
-  </p>
-</blockquote>
+> إِن تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ
+> سَيِّئَاتِكُمْ وَنُدْخِلْكُم مُّدْخَلاً كَرِيمًا
 
 ’In-taj-tanibuu kabaaa-’ira maa tun-hawna ‘anhu nu-kaf-fir ‘ankum
 say-yi-’aatikum wa nud-khilkum-Mud-khalan kariimaa.
@@ -118,13 +98,9 @@ Do not envy others
 
 **Surah Ta –Ha, 20:131**
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا
-مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ
-رَبِّكَ خَيْرٌ وَأَبْقَى
-  </p>
-</blockquote>
+> وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا
+> مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ
+> رَبِّكَ خَيْرٌ وَأَبْقَى
 
 Wa laa tamud-dan-na ‘aynayka ‘ilaa maa mat-ta’-naa bihiii
 ’azawaa-jam-minhum zahra-tal-hayaatid-dunyaa, linaftina-hum fiih - wa
@@ -160,13 +136,9 @@ Forbidden to usurp the right and property of orphans
 
 **Surah An – Nisa, 4:2**
 
-<blockquote dir="rtl">
-  <p>
-وَآتُواْ الْيَتَامَى أَمْوَالَهُمْ وَلاَ تَتَبَدَّلُواْ الْخَبِيثَ
-بِالطَّيِّبِ وَلاَ تَأْكُلُواْ أَمْوَالَهُمْ إِلَى أَمْوَالِكُمْ
-إِنَّهُ كَانَ حُوبًا كَبِيرًا
-  </p>
-</blockquote>
+> وَآتُواْ الْيَتَامَى أَمْوَالَهُمْ وَلاَ تَتَبَدَّلُواْ الْخَبِيثَ
+> بِالطَّيِّبِ وَلاَ تَأْكُلُواْ أَمْوَالَهُمْ إِلَى أَمْوَالِكُمْ
+> إِنَّهُ كَانَ حُوبًا كَبِيرًا
 
 Wa ’aatul yataamaaa ’amwaalahum wa laa tatabad-dalul khabiisa
 bit-tayyib. Wa laa ta’-kuluuu ’amwaala-hum ’ilaaa ’amwaalikum. ’In-nahuu
@@ -179,16 +151,12 @@ own*[^1]*:this, verily, is a great crime.*
 
 **Surah An-Nisa, 4:6**
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَلُواْ الْيَتَامَى حَتَّىَ إِذَا بَلَغُواْ النِّكَاحَ فَإِنْ
-آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُواْ إِلَيْهِمْ أَمْوَالَهُمْ وَلاَ
-تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُواْ وَمَن كَانَ
-غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ
-بِالْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ
-فَأَشْهِدُواْ عَلَيْهِمْ وَكَفَى بِاللّهِ حَسِيبًا
-  </p>
-</blockquote>
+> وَابْتَلُواْ الْيَتَامَى حَتَّىَ إِذَا بَلَغُواْ النِّكَاحَ فَإِنْ
+> آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُواْ إِلَيْهِمْ أَمْوَالَهُمْ وَلاَ
+> تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُواْ وَمَن كَانَ
+> غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ
+> بِالْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ
+> فَأَشْهِدُواْ عَلَيْهِمْ وَكَفَى بِاللّهِ حَسِيبًا
 
 Wab-talul-yataamaa hat-taaa ’izaa balaghun-nikaah; fa-’in
 ’aanastum-minhum rushdan fadfa-‘uuu ’ilay-him ’amwaalahum; wa laa
@@ -208,12 +176,8 @@ does.*
 
 **Surah An-Nisa, 4:10**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
 
 ’In-nal-laziina ya’-ku-luuna ’amwaalal - yataamaa zulman ’in-namaa
 ya’-kuluuna fii butuunihim Naaraa: Wa sa-yas-lawna sa-‘iiraa.
@@ -227,13 +191,9 @@ Punishment for killing a Muslim deliberately
 
 **Surah An – Nisa, 4:93**
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُ جَهَنَّمُ خَالِدًا
-فِيهَا وَغَضِبَ اللّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا
-عَظِيمًا
-  </p>
-</blockquote>
+> وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُ جَهَنَّمُ خَالِدًا
+> فِيهَا وَغَضِبَ اللّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا
+> عَظِيمًا
 
 Wa may-yaqtul Mu’minam-muta-‘am-midan-fa-jazaaa-’uhuu Jahannamu
 khaalidan fiihaa wa ghazibal-laahu ‘alayhi wa la-‘anahuu wa ’a-‘ad-da
@@ -248,13 +208,9 @@ Islamic Akhlaq: Forbidden to enter others houses without permission
 
 **Surah An – Nur, 24:27**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ
-بُيُوتِكُمْ حَتَّى تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَى أَهْلِهَا
-ذَلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ
+> بُيُوتِكُمْ حَتَّى تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَى أَهْلِهَا
+> ذَلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
 Yaaa-’ay-yuhal-laziina ’aamanuu laa tad-khuluu buyuutan ghayra
 buyuutikum hat-taa tasta’-nisuu wa tusal-limuu ‘alaaa ’ahlihaa: zaalikum
@@ -270,14 +226,10 @@ Punishment for Adultery and Fornication
 
 **Surah An – Nur, 24:2**
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِئَةَ
-جَلْدَةٍ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
-كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِئَةَ
+> جَلْدَةٍ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
+> كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ
 
 ’Az-zaaniyatu waz-zaanii fajliduu kul-la waahidim-minhumaa mi-’ata
 jalda; wa laa ta’-khuzkum - bihimaa ra’-fa-tun fii Diinil-laahi
@@ -294,14 +246,10 @@ Intercourse forbidden during women’s menstrual period
 
 **Surah Baqarah, 2:222**
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُواْ
-النِّسَاء فِي الْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىَ يَطْهُرْنَ
-فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللّهُ إِنَّ
-اللّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
-  </p>
-</blockquote>
+> وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُواْ
+> النِّسَاء فِي الْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىَ يَطْهُرْنَ
+> فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللّهُ إِنَّ
+> اللّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
 
 Wa yas-’aluunaka ‘anilmahiiz. Qul huwa ’azan fa‘tazilun-nisaaa-’a
 fil-mahiizi wa laa taqrabuu-hun-na nat-taa yat-hurn. Fa-’izaa
@@ -319,16 +267,12 @@ Forbidden to marry Non-Believers
 
 **Surah Baqarah, 2:221**
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنكِحُواْ الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ وَلأَمَةٌ مُّؤْمِنَةٌ
-خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ تُنكِحُواْ
-الْمُشِرِكِينَ حَتَّى يُؤْمِنُواْ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن
-مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَـئِكَ يَدْعُونَ إِلَى النَّارِ
-وَاللّهُ يَدْعُوَ إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ
-وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَلاَ تَنكِحُواْ الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ وَلأَمَةٌ مُّؤْمِنَةٌ
+> خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ تُنكِحُواْ
+> الْمُشِرِكِينَ حَتَّى يُؤْمِنُواْ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن
+> مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَـئِكَ يَدْعُونَ إِلَى النَّارِ
+> وَاللّهُ يَدْعُوَ إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ
+> وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 Wa laa tankihul-mushrikaati hat-taa yu’ minn: wa la - ‘amatum -
 mu’-minatun khayrum-min - mushrikatinwwa lau ‘a ‘-jabat-kum. Wa laa
@@ -355,13 +299,9 @@ Punishment for those who wrongfully accuse women of adultery
 
 **Surah An – Nur, 24:4**
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ
-شُهَدَاء فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ
-شَهَادَةً أَبَدًا وَأُوْلَئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ
+> شُهَدَاء فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ
+> شَهَادَةً أَبَدًا وَأُوْلَئِكَ هُمُ الْفَاسِقُونَ
 
 Wal-laziina yarmuunal-muhsanaati thum-ma lam ya’-tuu bi-’arba-‘ati
 shuhadaaa-’a fajliduuhum thamaa-niina jaldatanw-wa laa taqbaluu lahum
@@ -384,13 +324,9 @@ Abolishment of the Age-Old practice of ‘Zihar’
 
 **Surah Al – Mujadalah, 58:1-4**
 
-<blockquote dir="rtl">
-  <p>
-قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا
-وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا إِنَّ
-اللَّهَ سَمِيعٌ بَصِيرٌ
-  </p>
-</blockquote>
+> قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا
+> وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا إِنَّ
+> اللَّهَ سَمِيعٌ بَصِيرٌ
 
 Qad sami-‘al-laahu qawlal-latii tujaa-diluka fii zawjihaa wa tash-takiii
 ’ilal-laah: wal-laahu yasma-‘u tahaa-wura-kumaa. ’In-nal-laaha
@@ -400,14 +336,10 @@ Samii‘um-Basiir.
 concerning her husband, and complains unto God. And God does hear what
 you both have to say: verily, God is all- hearing, all-seeing.*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُظَاهِرُونَ مِنكُم مِّن نِّسَائِهِم مَّا هُنَّ
-أُمَّهَاتِهِمْ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ
-وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا وَإِنَّ
-اللَّهَ لَعَفُوٌّ غَفُورٌ
-  </p>
-</blockquote>
+> الَّذِينَ يُظَاهِرُونَ مِنكُم مِّن نِّسَائِهِم مَّا هُنَّ
+> أُمَّهَاتِهِمْ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ
+> وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا وَإِنَّ
+> اللَّهَ لَعَفُوٌّ غَفُورٌ
 
 ’Al-laziina yuzaa-hiruuna minkum min nisaaa-’ihim maa hun-na
 ’um-mahaa-tihim: ’in ’um-mahaa-tuhum ’il-lal-laaa-’ii walad-nahum. Wa
@@ -422,13 +354,9 @@ saying that* *runs counter to reason, and is (therefore) false.*
 
 *But behold, God is indeed an absolver of sins, much-forgiving”*
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُظَاهِرُونَ مِن نِّسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا
-قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَاسَّا ذَلِكُمْ
-تُوعَظُونَ بِهِ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُظَاهِرُونَ مِن نِّسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا
+> قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَاسَّا ذَلِكُمْ
+> تُوعَظُونَ بِهِ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 Wal-laziina yuzaa-hiruuna min-nisaaa-’ihim thum-ma ya-‘uuduuna limaa
 qaaluu fa-tah-riiru raqabatim-min-qabli ’ay-yata-maaas-saa: zaalikum tuu
@@ -441,14 +369,10 @@ freeing of a human being from bondage before the couple may touch one
 another again: this you are (hereby) exhorted to do - for God is fully
 aware of all that you do.*
 
-<blockquote dir="rtl">
-  <p>
-فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن
-يَتَمَاسَّا فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا
-ذَلِكَ لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتِلْكَ حُدُودُ اللَّهِ
-وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن
+> يَتَمَاسَّا فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا
+> ذَلِكَ لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتِلْكَ حُدُودُ اللَّهِ
+> وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ
 
 Famal-lam yajid fa-siyaamu shah-rayni muta-taabi-‘ayni minqabli
 ’ay-yata-maaas-saa. Famal-lam - yastati’ fa-’it-‘aamu sit-tiina
@@ -468,12 +392,8 @@ Unlawful Food, its Consequences
 
 **Surah An - Ana’m, 6:118-121**
 
-<blockquote dir="rtl">
-  <p>
-فَكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ إِن كُنتُمْ بِآيَاتِهِ
-مُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ إِن كُنتُمْ بِآيَاتِهِ
+> مُؤْمِنِينَ
 
 Fa-ku-luu mim-ma zuki-rasmul Laahi ‘alayhi in kumtum bi-
 
@@ -482,14 +402,10 @@ aayaatihii muminiin.
 *118. Therefore eat of that on which Allah’s name has been mentioned if
 you are believers in His communications .*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَكُمْ أَلاَّ تَأْكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ
-وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلاَّ مَا اضْطُرِرْتُمْ
-إِلَيْهِ وَإِنَّ كَثِيراً لَّيُضِلُّونَ بِأَهْوَائِهِم بِغَيْرِ عِلْمٍ
-إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِالْمُعْتَدِينَ
-  </p>
-</blockquote>
+> وَمَا لَكُمْ أَلاَّ تَأْكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ
+> وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلاَّ مَا اضْطُرِرْتُمْ
+> إِلَيْهِ وَإِنَّ كَثِيراً لَّيُضِلُّونَ بِأَهْوَائِهِم بِغَيْرِ عِلْمٍ
+> إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِالْمُعْتَدِينَ
 
 Wa maa lakum al-laa ta’-kuluu mim-ma zukiras mul-Laahi ‘alayhi wa qad
 fas-sala lakum maa har-rama alaykum il-la mazturirtom ilaih. Wa in-na
@@ -504,12 +420,8 @@ others astray by their own errant views, without (having any real)
 knowledge. Surely your Lord - He best knows those who exceed the
 limits.*
 
-<blockquote dir="rtl">
-  <p>
-وَذَرُواْ ظَاهِرَ الإِثْمِ وَبَاطِنَهُ إِنَّ الَّذِينَ يَكْسِبُونَ
-الإِثْمَ سَيُجْزَوْنَ بِمَا كَانُواْ يَقْتَرِفُونَ
-  </p>
-</blockquote>
+> وَذَرُواْ ظَاهِرَ الإِثْمِ وَبَاطِنَهُ إِنَّ الَّذِينَ يَكْسِبُونَ
+> الإِثْمَ سَيُجْزَوْنَ بِمَا كَانُواْ يَقْتَرِفُونَ
 
 Wa zaruu zaahiral ith-mi wa baatina; In-nal-laziina yaksibuu-nal ithma
 sayujzau-na bimaa kaa-nuu yaq-ta-rifuun.
@@ -517,13 +429,9 @@ sayujzau-na bimaa kaa-nuu yaq-ta-rifuun.
 *120. And abandon open and secret sin; surely they who earn sin shall be
 recompensed with what they earned.*
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَأْكُلُواْ مِمَّا لَمْ يُذْكَرِ اسْمُ اللّهِ عَلَيْهِ وَإِنَّهُ
-لَفِسْقٌ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَى أَوْلِيَآئِهِمْ
-لِيُجَادِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ
-  </p>
-</blockquote>
+> وَلاَ تَأْكُلُواْ مِمَّا لَمْ يُذْكَرِ اسْمُ اللّهِ عَلَيْهِ وَإِنَّهُ
+> لَفِسْقٌ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَى أَوْلِيَآئِهِمْ
+> لِيُجَادِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ
 
 Wa la ta‘-kuluu mim-ma lamyuz karismul-Laahi ‘alai-hi wa in-na-hu
 la-fisq. wa in-nash shayaatiina layuhuuna ilaaa au-liyaaihim
@@ -537,15 +445,11 @@ shall most surely be Polytheists.*
 
 **Surah An - An’am, 6:145**
 
-<blockquote dir="rtl">
-  <p>
-قُل لاَّ أَجِدُ فِي مَا أُوْحِيَ إِلَيَّ مُحَرَّمًا عَلَى طَاعِمٍ
-يَطْعَمُهُ إِلاَّ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ
-لَحْمَ خِنزِيرٍ فَإِنَّهُ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ اللّهِ
-بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> قُل لاَّ أَجِدُ فِي مَا أُوْحِيَ إِلَيَّ مُحَرَّمًا عَلَى طَاعِمٍ
+> يَطْعَمُهُ إِلاَّ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ
+> لَحْمَ خِنزِيرٍ فَإِنَّهُ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ اللّهِ
+> بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ
+> رَّحِيمٌ
 
 Qul-laaa a-jidu fi maaa u-hiya ilay-ya mu-har-raman ‘ala
 taa-‘imiy-yat‘amu-huuu il-laaa ay-yakuuna maitatan au damam masfuuhan au
@@ -566,13 +470,9 @@ Forbidden to Consume
 
 **Surah Baqarah, 2:173**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ
-وَمَا أُهِلَّ بِهِ لِغَيْرِ اللّهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ
-عَادٍ فَلا إِثْمَ عَلَيْهِ إِنَّ اللّهَ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ
+> وَمَا أُهِلَّ بِهِ لِغَيْرِ اللّهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ
+> عَادٍ فَلا إِثْمَ عَلَيْهِ إِنَّ اللّهَ غَفُورٌ رَّحِيمٌ
 
 ‘In-namas har-rama ‘alaykumul-may-tata wad-dama wa lahmal-khin-ziiri wa
 maaa ‘u-hilla bihii li-ghayril-lash. Famaniz-turra ghayra baaghinw-wa
@@ -586,13 +486,9 @@ much-forgiving, a Dispenser of Grace.*
 
 **Surah An – Nahl, 16:115**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالْدَّمَ وَلَحْمَ
-الْخَنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ
-بَاغٍ وَلاَ عَادٍ فَإِنَّ اللّهَ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالْدَّمَ وَلَحْمَ
+> الْخَنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ
+> بَاغٍ وَلاَ عَادٍ فَإِنَّ اللّهَ غَفُورٌ رَّحِيمٌ
 
 ’In-namaa har-rama ‘alaykumul-may-tata wa-dama wa lahmal khinziiri wa
 maaa ’uhil-la li-ghayril-laahi bih. Fa-maniz tur-raa ghayra baa-ghinw-wa
@@ -609,14 +505,10 @@ Food made Unlawful to the Jews
 
 **Surah An - An’am, 6:146**
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الَّذِينَ هَادُواْ حَرَّمْنَا كُلَّ ذِي ظُفُرٍ وَمِنَ
-الْبَقَرِ وَالْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَا إِلاَّ مَا
-حَمَلَتْ ظُهُورُهُمَا أَوِ الْحَوَايَا أَوْ مَا اخْتَلَطَ بِعَظْمٍ
-ذَلِكَ جَزَيْنَاهُم بِبَغْيِهِمْ وِإِنَّا لَصَادِقُونَ
-  </p>
-</blockquote>
+> وَعَلَى الَّذِينَ هَادُواْ حَرَّمْنَا كُلَّ ذِي ظُفُرٍ وَمِنَ
+> الْبَقَرِ وَالْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَا إِلاَّ مَا
+> حَمَلَتْ ظُهُورُهُمَا أَوِ الْحَوَايَا أَوْ مَا اخْتَلَطَ بِعَظْمٍ
+> ذَلِكَ جَزَيْنَاهُم بِبَغْيِهِمْ وِإِنَّا لَصَادِقُونَ
 
 Wa alal-laziina haa-duu har-ramnaa kul-la zii zufur, wa minal baqari wal
 ghanami har-ramna ‘alai-him shuhumahumaaa il-laa maa hamalat
@@ -634,14 +526,10 @@ Intoxication and games of chance
 
 **Surah Baqarah, 2:129**
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
-كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا
-وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ الْعَفْوَ كَذَلِكَ يُبيِّنُ
-اللّهُ لَكُمُ الآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
+> كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا
+> وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ الْعَفْوَ كَذَلِكَ يُبيِّنُ
+> اللّهُ لَكُمُ الآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 
 Yas ‘aluunaka ‘anilkhamri wal-maysir. Qul fiihi-maaa
 ‘ismim-kabiirunw -wa mannfi-’u lin-naasi wa ‘ismuhumaaa ‘akbaru min-naf
@@ -697,13 +585,9 @@ Liquor is called *“Ummul Khabais”* i.e. the mother of all vices.
 
 **Surah Al - Ma’idah, 5:90-91**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
-وَالأَنصَابُ وَالأَزْلاَمُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ
-فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
+> وَالأَنصَابُ وَالأَزْلاَمُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ
+> فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
 
 Yaa ay-yuhal laziina aamanuuu in-namal khamruu walmaysiru wal-ansaabu
 wal-azlaamu rijsum-min ‘amalish-shaytaani fajtanibuuhu la ‘al-lakum
@@ -714,19 +598,11 @@ chance, and idolatrous practices, and the divining of the future are but
 a loathsome evil of Satan’s doing: shun it, then, so that you might
 attain to a happy state !*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
-وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
-اللّهِ وَعَنِ ال
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
+> اللّهِ وَعَنِ ال
 
-<blockquote dir="rtl">
-  <p>
-صَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ
-  </p>
-</blockquote>
+> صَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ
 
 In-namm yuriidush-shaytaanu ay-yuuqi-‘a baynakumul ‘adaawata
 walbaghdaaa-a fil-khamri wal maysiri wa yasud-dakum ‘an zikril-laahi wa
@@ -747,17 +623,13 @@ Forbidden to pray in the state of intoxication and impurity
 
 **Surah An – Nisa, 4:43**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ وَلاَ جُنُبًا إِلاَّ
-عَابِرِي سَبِيلٍ حَتَّىَ تَغْتَسِلُواْ وَإِن كُنتُم مَّرْضَى أَوْ
-عَلَى سَفَرٍ أَوْ جَاء أَحَدٌ مِّنكُم مِّن الْغَآئِطِ أَوْ لاَمَسْتُمُ
-النِّسَاء فَلَمْ تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيدًا طَيِّبًا
-فَامْسَحُواْ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ اللّهَ كَانَ عَفُوًّا
-غَفُورًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ وَلاَ جُنُبًا إِلاَّ
+> عَابِرِي سَبِيلٍ حَتَّىَ تَغْتَسِلُواْ وَإِن كُنتُم مَّرْضَى أَوْ
+> عَلَى سَفَرٍ أَوْ جَاء أَحَدٌ مِّنكُم مِّن الْغَآئِطِ أَوْ لاَمَسْتُمُ
+> النِّسَاء فَلَمْ تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيدًا طَيِّبًا
+> فَامْسَحُواْ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ اللّهَ كَانَ عَفُوًّا
+> غَفُورًا
 
 Yaaa-’ayyu-hallaziina ’aamanuu laa taqrabus-salaata wa ’antum sukaaraa
 hat-taa ta‘-lamuu maa taquuluuna wa laa junuban ’il-laa ‘aabirii
@@ -781,11 +653,7 @@ Evil of having a negative attitude upon the birth of a female
 
 **Surah An – Nahl, 16:57-59**
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْعَلُونَ لِلّهِ الْبَنَاتِ سُبْحَانَهُ وَلَهُم مَّا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَيَجْعَلُونَ لِلّهِ الْبَنَاتِ سُبْحَانَهُ وَلَهُم مَّا يَشْتَهُونَ
 
 Wa yaj-‘aluuna lil-laahil-banaati Sub-haanahu wa lahum-maa yashta-huun!
 
@@ -793,12 +661,8 @@ Wa yaj-‘aluuna lil-laahil-banaati Sub-haanahu wa lahum-maa yashta-huun!
 in His Glory - whereas for themselves ( they would choose, if they
 could, only) what they desire:*
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا بُشِّرَ أَحَدُهُمْ بِالأُنثَى ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ
-كَظِيمٌ
-  </p>
-</blockquote>
+> وَإِذَا بُشِّرَ أَحَدُهُمْ بِالأُنثَى ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ
+> كَظِيمٌ
 
 Wa ’izaa bush-shira ’ahadu hum-bil-’un-thaa zal-la wajhuhuu
 muswad-danw-wa huwa kaziim!
@@ -806,12 +670,8 @@ muswad-danw-wa huwa kaziim!
 *58. for, whenever any of them is given the glad tiding of ( the birth
 of) a girl, his face darkens, and he is filled with suppressed anger,*
 
-<blockquote dir="rtl">
-  <p>
-يَتَوَارَى مِنَ الْقَوْمِ مِن سُوءِ مَا بُشِّرَ بِهِ أَيُمْسِكُهُ
-عَلَى هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ أَلاَ سَاء مَا يَحْكُمُونَ
-  </p>
-</blockquote>
+> يَتَوَارَى مِنَ الْقَوْمِ مِن سُوءِ مَا بُشِّرَ بِهِ أَيُمْسِكُهُ
+> عَلَى هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ أَلاَ سَاء مَا يَحْكُمُونَ
 
 Yata-waaraa minal-qawmi min-suuu-’i maa bush-shira bih! ’A-yumsi-kuhuu
 ‘alaa huunin ’am yadus-suhuu fit-turaab? ’Alaa saaa-’a maa yah-kumuun?
@@ -823,5 +683,4 @@ shall he bury it in the dust ? Oh, evil indeed is whatever they decide!*
 
 [^1]: This refers to the legal guardians of orphans during the latter’s
 minority.
-
 

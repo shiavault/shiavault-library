@@ -232,7 +232,6 @@ pious persons, and whose flesh was nourished by the blood of martyrs?"
 display? And then, without realizing, - Rome 30:10
 - Quran - ?le Imrân (3:178)
 
-
 you utter such sinful words: (your elders) rise and dance and tell you:
 O Yazeed! May your hand not be paralyzed whereas you whip on the teeth
 of Abi Abdullâh (a.s.)!" "Why should you not say so. By shedding the
@@ -523,7 +522,6 @@ May Allâh have mercy on you, who are you?" "I am Bashir Ibn Mazlam. My
 master Ali bin Husain has sent me, and he is at such and such place with
 his family members." I said.
 
-
 People left me alone and rushed to the outskirts of Medina. I drove my
 horse after them to reach them. I saw that people had jammed the road
 and surrondings. So I dismounted and went on foot to reach the entrance
@@ -699,5 +697,4 @@ Praise be to Allâh, the Lord of the worlds, and peace and blessings be
 upon Muhammad and his purified Progeny. Praise to Allâh for this success
 that under the special attention of Hazrat Waliullâh al-Azam Maulana
 Sahibul Amr (may God accelerate His appearance).
-
 

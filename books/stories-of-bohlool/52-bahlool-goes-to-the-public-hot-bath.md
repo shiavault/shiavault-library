@@ -19,4 +19,3 @@ Bahlool replied, “I paid for today's bath last week when I came and
 gave; I am paying for that bath today so that you people will behave
 respectfully with your customers.”
 
-

@@ -22,4 +22,3 @@ discourse rather than to state anything definite about it; to be a
 thing - that is, fixed and established - means to enter the field of
 discussion.
 
-

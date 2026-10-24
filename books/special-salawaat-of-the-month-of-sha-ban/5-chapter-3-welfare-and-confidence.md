@@ -1,14 +1,10 @@
 Chapter 3: Welfare And Confidence
 =================================
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الْفُلْكِ
-الْجَارِيَةِ فِي اللُّجَجِ الْغَامِرَةِ يَأْمَنُ مَنْ رَكِبَهَا وَ
-يَغْرَقُ مَنْ تَرَكَهَا الْمُتَقَدِّمُ لَهُمْ مَارِقٌ وَ
-الْمُتَأَخِّرُ عَنْهُمْ زَاهِقٌ وَ اللازِمُ لَهُمْ لاحِقٌ
-  </p>
-</blockquote>
+> اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الْفُلْكِ
+> الْجَارِيَةِ فِي اللُّجَجِ الْغَامِرَةِ يَأْمَنُ مَنْ رَكِبَهَا وَ
+> يَغْرَقُ مَنْ تَرَكَهَا الْمُتَقَدِّمُ لَهُمْ مَارِقٌ وَ
+> الْمُتَأَخِّرُ عَنْهُمْ زَاهِقٌ وَ اللازِمُ لَهُمْ لاحِقٌ
 
 In this paragraph Imam Sajjad mentions another Excellency of the Ahlul
 Bayt. This important characteristic of the Ahlul Bayt is that welfare,
@@ -147,12 +143,8 @@ Allamah Hilli by narrating a Hadith from Hafiz Ibn Muhammad Ibn Musa
 Shirazi. This hadith comes in a book compiled by Hafiz Ibn Muhammad from
 the twelve Tafsir[^1].
 
-<blockquote dir="rtl">
-  <p>
-كَشْفُ الْحَقِّ لِلْعَلَّامَةِ الْحِلِيِّ رَحِمَهُ اللَّهُ رَوَى
-الْحَافِظُ مُحَمَّدُ بْنُ‏
-  </p>
-</blockquote>
+> كَشْفُ الْحَقِّ لِلْعَلَّامَةِ الْحِلِيِّ رَحِمَهُ اللَّهُ رَوَى
+> الْحَافِظُ مُحَمَّدُ بْنُ‏
 
 > مُوسَى الشِّيرَازِيُّ فِي كِتَابِهِ الَّذِي اسْتَخْرَجَهُ مِنَ
 > التَّفَاسِيرِ الِاثْنَيْ عَشَرَ تَفْسِيرِ أَبِي يُوسُفَ يَعْقُوبَ بْنِ
@@ -258,25 +250,13 @@ succeed. (Those are the ones who) no one can find fault in them.”
 In the Salawat, this phrase tells us the above facts in the form of
 metaphors:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
-  </p>
-</blockquote>
+> اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 
-<blockquote dir="rtl">
-  <p>
-الْفُلْكِ الْجَارِيَةِ فِي اللُّجَجِ الْغَامِرَةِ يَأْمَنُ مَنْ
-رَكِبَهَا وَ يَغْرَقُ مَنْ تَرَكَهَا
-  </p>
-</blockquote>
+> الْفُلْكِ الْجَارِيَةِ فِي اللُّجَجِ الْغَامِرَةِ يَأْمَنُ مَنْ
+> رَكِبَهَا وَ يَغْرَقُ مَنْ تَرَكَهَا
 
-<blockquote dir="rtl">
-  <p>
-الْمُتَقَدِّمُ لَهُمْ مَارِقٌ وَ الْمُتَأَخِّرُ عَنْهُمْ زَاهِقٌ وَ
-اللاَّزِمُ لَهُمْ لاَحِقٌ
-  </p>
-</blockquote>
+> الْمُتَقَدِّمُ لَهُمْ مَارِقٌ وَ الْمُتَأَخِّرُ عَنْهُمْ زَاهِقٌ وَ
+> اللاَّزِمُ لَهُمْ لاَحِقٌ
 
 O my Allah send blessings on Muhammad and on the descendants of
 Muhammad, an unsinkable sailing ship afloat over the fathomless deep
@@ -298,5 +278,4 @@ his neck in pride (far astray from the Path of Allah), and leading
 (others) too (far) astray from the Path of Allah. For him there is
 disgrace in this worldly life, and on the Day of Resurrection We shall
 make him taste the torment of burning (Fire).
-
 

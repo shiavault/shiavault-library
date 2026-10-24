@@ -445,4 +445,3 @@ those grumbling critics in denouncing crimes and in the desire to uproot
 motives behinds these crimes. I have explained these notions and
 undertaken a de­tailed scientific study thereof in my book Iqtisaduna.
 
-

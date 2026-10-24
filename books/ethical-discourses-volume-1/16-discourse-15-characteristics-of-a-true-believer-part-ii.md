@@ -8,12 +8,8 @@ and three characteristics and these characteristics are divided up into
 five categories. In our previous discussion, we explained what these
 five categories were. Now we will relate five more characteristics.
 
-<blockquote dir="rtl">
-  <p>
-…كَرِيـمٌ الْمُرَاجِعَةِ، أَوْسَعُ النَّاسِ صَدْراً، أَذَلَّهُمْ
-نَفْساً، ضَحِكَهُ تَبَسُّماً، وَ اجْتِمَاعَهُ تَعَلَّماً…
-  </p>
-</blockquote>
+> …كَرِيـمٌ الْمُرَاجِعَةِ، أَوْسَعُ النَّاسِ صَدْراً، أَذَلَّهُمْ
+> نَفْساً، ضَحِكَهُ تَبَسُّماً، وَ اجْتِمَاعَهُ تَعَلَّماً…
 
 ”(The true believer is one who possesses) noble interactions (with
 others); his (spiritual) bosom is the most expansive from all other
@@ -32,11 +28,7 @@ the future he will meet with them. If this are not possible then he
 excuses himself that he will not be able to meet with them. In this
 regards, the Qur\`an states:
 
-<blockquote dir="rtl">
-  <p>
-قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّنْ صَدَقَةٍ يَتْبَعُهَآ أَذًى
-  </p>
-</blockquote>
+> قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّنْ صَدَقَةٍ يَتْبَعُهَآ أَذًى
 
 “Speaking a good word (to others) and asking forgiveness (from them) is
 better than charity which is followed by aggravating (the other
@@ -54,12 +46,8 @@ The next characteristic of the true believer is that he is one whose
 (spiritually) open than all other people. In relation to the spiritual
 openness of the heart, the Qur\`an states the following:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يُّرِدِ اللٌّهُ أَنْ يَهْدِيَهُ يَشْرَحْ صَدْرَهُ للإِسْلاَمِ
-وَ مَنْ يُرِدِ أَنْ يُّضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقاً حَرَجاً
-  </p>
-</blockquote>
+> فَمَنْ يُّرِدِ اللٌّهُ أَنْ يَهْدِيَهُ يَشْرَحْ صَدْرَهُ للإِسْلاَمِ
+> وَ مَنْ يُرِدِ أَنْ يُّضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقاً حَرَجاً
 
 “So then that person whom Allah intends one who is deserving of
 guidance) to guide (to the Truth) - He opens his heart up (to receive)
@@ -109,5 +97,4 @@ pg. 310, tradition 45
 [^2]: Surat al-Baqarah (2), Verse 263
 
 [^3]: Surat al-An\`am (7), Verse 125
-
 

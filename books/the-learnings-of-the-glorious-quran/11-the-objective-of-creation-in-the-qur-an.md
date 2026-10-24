@@ -505,4 +505,3 @@ without there being any multiplicity. This was an analysis which must be
 considered so that one may not commit a mistake in respect to Allah's
 act and attributes of acts.
 
-

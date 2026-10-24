@@ -6,12 +6,8 @@ Holy Imams (a.s.)
 
 Allah says in the praise of angels:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ. وَإِنَّا لَنَحْنُ
-الصَّافُّونَ. وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ.
-  </p>
-</blockquote>
+> وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ. وَإِنَّا لَنَحْنُ
+> الصَّافُّونَ. وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ.
 
 ***And there is none of us but has an assigned place. And most surely we
 are they who draw themselves out in ranks(‘Saaffoon’). And we are most
@@ -102,44 +98,28 @@ ask Allah to send chastisement upon them as is the right.
 
 After that in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ.
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ.
 
 ***Those who bear the power (arsh)… (Surah Ghafir 40:7)***
 
 Imam said that he is the Holy Prophet (S) and after him his Vicegerent
 who are the bearers of knowledge of Allah and ‘Arsh’ means knowledge.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ حَوْلَهُ.
-  </p>
-</blockquote>
+> وَمَنْ حَوْلَهُ.
 
 ***…and those around Him… (Surah Ghafir 40:7)***
 
 The Imam said that it is the angels on all the four sides of ‘Arsh’.
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ
-لِلَّذِينَ آمَنُوا.
-  </p>
-</blockquote>
+> يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ
+> لِلَّذِينَ آمَنُوا.
 
 ***…celebrate the praise of their Lord and believe in Him and ask
 protection for those who believe… (Surah Ghafir:7)***
 
 The Imam said that they are the believers and Shias of Aale Muhammad.
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا.
-  </p>
-</blockquote>
+> رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا.
 
 ***Our Lord! Thou embracest all things in mercy and knowledge… (Surah
 Ghafir 40:7)***
@@ -147,11 +127,7 @@ Ghafir 40:7)***
 It means Your mercy reaches everyone and everything and Your knowledge
 surrounds everything.
 
-<blockquote dir="rtl">
-  <p>
-فَاغْفِرْ لِلَّذِينَ تَابُوا.
-  </p>
-</blockquote>
+> فَاغْفِرْ لِلَّذِينَ تَابُوا.
 
 ***…therefore grant protection to those who turn (to Thee) (Surah Ghafir
 40:7)***
@@ -159,24 +135,16 @@ surrounds everything.
 It means forgive the community which has turned its face from the
 Wilayat and Love of Bani Umayyah and the Unjust Caliphs.
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبَعُوا سَبِيلَكَ.
-  </p>
-</blockquote>
+> وَاتَّبَعُوا سَبِيلَكَ.
 
 ***…and follow Thy way…*** ***(Surah Ghafir 40:7)***
 
 The Imam said that the path of Allah means the Wilayat and Imamate of
 Ali Ibne Abi Talib (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ
-الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ
-وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ.
-  </p>
-</blockquote>
+> وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ
+> الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ
+> وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ.
 
 ***And save them from the punishment of the hell: Our Lord! and make
 them enter the gardens of perpetuity which Thou hast promised to them
@@ -187,12 +155,8 @@ offspring, surely Thou are the Mighty, the Wise. (Surah Ghafir
 The Imam said that good people means those who have the love of Ali Ibne
 Abi Talib (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-وَقِهِمْ السَّيِّئَاتِ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ
-رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.
-  </p>
-</blockquote>
+> وَقِهِمْ السَّيِّئَاتِ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ
+> رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.
 
 ***And keep them from evil deeds, and whom Thou keepest from evil deeds
 this day, indeed Thou hast mercy on him, and that is the mighty
@@ -201,13 +165,9 @@ achievement. (Surah Ghafir 40:9)***
 Imam says that success is for one who saves himself from the love of
 unjust caliphs. Then Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ اللَّهِ أَكْبَرُ مِنْ
-مَقْتِكُمْ أَنْفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى الْإِيمَانِ
-فَتَكْفُرُونَ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ اللَّهِ أَكْبَرُ مِنْ
+> مَقْتِكُمْ أَنْفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى الْإِيمَانِ
+> فَتَكْفُرُونَ.
 
 ***Surely those who disbelieve shall be cried out to: Certainly Allah’s
 hatred (of you) when you were called upon to the faith and you rejected…
@@ -262,17 +222,13 @@ angels continued to invoke blessings (Salawat) on me and the Prophet for
 seven years and some months and in our praise the following verses were
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
-رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
-رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ
-تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا
-وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ
-آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ
-الْحَكِيمُ.
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
+> رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
+> رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ
+> تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا
+> وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ
+> آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ
+> الْحَكِيمُ.
 
 ***Those who bear the power and those around Him celebrate the praise of
 their Lord and believe in Him and ask protection for those who believe:
@@ -293,13 +249,9 @@ Shias and not for all the creatures.
 
 The Almighty Allah says regarding the greatness of the Quran:
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّهَا تَذْكِرَةٌ. فَمَنْ شَاءَ ذَكَرَهُ. فِي صُحُفٍ
-مُكَرَّمَةٍ. مَرْفُوعَةٍ مُطَهَّرَةٍ. بِأَيْدِي سَفَرَةٍ. كِرَامٍ
-بَرَرَةٍ.
-  </p>
-</blockquote>
+> كَلَّا إِنَّهَا تَذْكِرَةٌ. فَمَنْ شَاءَ ذَكَرَهُ. فِي صُحُفٍ
+> مُكَرَّمَةٍ. مَرْفُوعَةٍ مُطَهَّرَةٍ. بِأَيْدِي سَفَرَةٍ. كِرَامٍ
+> بَرَرَةٍ.
 
 ***Nay! surely it is an admonishment. So let him who pleases mind it. In
 honored books, Exalted, purified, In the hands of scribes (Safarah)
@@ -308,12 +260,8 @@ Noble, virtuous. (Surah Abasa 80:11-16)***
 In the authentic traditions it is mentioned that ‘Sufra’ means the Holy
 Imams (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ عِنْدَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ
-وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ عِنْدَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ
+> وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ.
 
 ***Surely those who are with your Lord are not too proud to serve Him,
 and they declare His glory and throw themselves down in humility before
@@ -323,41 +271,25 @@ It is famous amongst the commentators that they are the angels. But it
 has come in traditions that it refers to the Prophet and Imams (a.s.).
 Also the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا سُبْحَانَهُ.
-  </p>
-</blockquote>
+> وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا سُبْحَانَهُ.
 
 ***And they say: Allah has taken to himself a son. Glory be to Him…
 (Surah Baqarah 2:116)***
 
 He doesn’t have any son. But some people are honoured near Allah.
 
-<blockquote dir="rtl">
-  <p>
-بَلْ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ كُلٌّ لَهُ قَانِتُونَ.
-  </p>
-</blockquote>
+> بَلْ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ كُلٌّ لَهُ قَانِتُونَ.
 
 ***…rather, whatever is in the heavens and the earth is His; all are
 obedient to Him. (Surah Baqarah 2:116)***
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ.
-  </p>
-</blockquote>
+> لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ.
 
 ***They do not precede Him in speech and (only) according to His
 commandment do they act. (Surah Anbiyah 21:27)***
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ
-إِلَّا لِمَنْ ارْتَضَى وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونَ.
-  </p>
-</blockquote>
+> يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ
+> إِلَّا لِمَنْ ارْتَضَى وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونَ.
 
 ***He knows what is before them and what is behind them, and they do not
 intercede except for him whom He approves and for fear of Him they
@@ -383,5 +315,4 @@ His selection does not mean that they are His children. On this basis it
 is possible that it denotes the Holy Imams or generally it may be all
 those who are near to Allah, like the angels, the Prophets and the
 vicegerents.
-
 

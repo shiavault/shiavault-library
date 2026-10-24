@@ -13,4 +13,3 @@ the Prophets, also foretelling Christ; the main events of the Gospel
 story, with some additions from Christian tradition; and the Day of
 Judgment.
 
-

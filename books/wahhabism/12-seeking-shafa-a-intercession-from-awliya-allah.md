@@ -64,25 +64,13 @@ ones of Allah have the right of doing *shafa'a* on the Day of Judgement
 but one should ask for *shafa'a* from the Master of *shafa'a* and the
 One who gives permission for that i.e. Allah and say:
 
-<blockquote dir="rtl">
-  <p>
-اللهم شفع نبينا محمد فينا يوم القيامة أو اللهم شفع فينا عبادك الصالحين
-أو ملائكتك أو نحو ذلك مما يُطلب من الله
-  </p>
-</blockquote>
+> اللهم شفع نبينا محمد فينا يوم القيامة أو اللهم شفع فينا عبادك الصالحين
+> أو ملائكتك أو نحو ذلك مما يُطلب من الله
 
-<blockquote dir="rtl">
-  <p>
-لا منهم فلا يٌقال يا رسول الله أو يا وليَّ الله أسألك الشفاعة أو غيرها
-مما لا يقدر عليه إلا الله فإذا طلبت ذلك في
-  </p>
-</blockquote>
+> لا منهم فلا يٌقال يا رسول الله أو يا وليَّ الله أسألك الشفاعة أو غيرها
+> مما لا يقدر عليه إلا الله فإذا طلبت ذلك في
 
-<blockquote dir="rtl">
-  <p>
-أيام البرزخ كان في اقسام الشرك.
-  </p>
-</blockquote>
+> أيام البرزخ كان في اقسام الشرك.
 
 *“O God, make the Holy Prophet (s) and your virtuous servants and the
 Angels as our intercessors on the Day of Judgement.” However we are not
@@ -127,33 +115,21 @@ Of course it cannot be said that the reality of *shafa'a* in all the
 stations of *mahshar* is this very *du'a* before Allah. But one can say
 that one of its clear meanings is *du'a* and the one who says:
 
-<blockquote dir="rtl">
-  <p>
-يا وجيهاً عند الله اشفع لنا عند الله
-  </p>
-</blockquote>
+> يا وجيهاً عند الله اشفع لنا عند الله
 
 ***“O the one who has a position before Allah intercede for us from
 Allah.”*** denotes the same meaning.
 
 Nizamuddin al-Naysaburi while interpreting the verse
 
-<blockquote dir="rtl">
-  <p>
-من يشفع شفاعة سيّئة يكن له كفل منها
-  </p>
-</blockquote>
+> من يشفع شفاعة سيّئة يكن له كفل منها
 
 ***“And whoever joins himself (to another) in an evil cause shall have
 the responsibility of it. (Nisa 4:85)”***
 
 It is narrated from Muqatil as such:
 
-<blockquote dir="rtl">
-  <p>
-الشفاعة إلى الله إنما هى الدعوة لمُسلم
-  </p>
-</blockquote>
+> الشفاعة إلى الله إنما هى الدعوة لمُسلم
 
 *“The reality of* *shafa'a* *is performing* *du'a* *for the Muslims*.*”*
 
@@ -169,11 +145,7 @@ any believer who possesses value and esteem before Allah.
 Al-Fakhruddin al-Razi is one of those who have interpreted *shafa'a* as
 *du'a* and eulogy before Allah. In interpreting the verse:
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً
-  </p>
-</blockquote>
+> لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً
 
 ***“And ask protection for those who believe: Our Lord! Thou embracest
 all things in mercy.*** ***(Ghafir 40:7)”***
@@ -185,11 +157,7 @@ Similarly, the *shafa'a* of the Holy Prophet (s) and other Prophets with
 regards to the same group (i.e. the sinners) is the same because Allah
 commands as such:
 
-<blockquote dir="rtl">
-  <p>
-واستغفر لذنبك وللمؤمنين والمؤمنات
-  </p>
-</blockquote>
+> واستغفر لذنبك وللمؤمنين والمؤمنات
 
 ***“And, ask protection for your fault and for the believing men and the
 believing women.*** ***(Muhammad 47:19)”*** [^3]
@@ -208,12 +176,8 @@ the *‘Dua’* of one Muslim for another Muslims is *‘Shafa'at’.*
 
 Ibn 'Abbas narrates from the Holy Prophet (s) as such:
 
-<blockquote dir="rtl">
-  <p>
-ما من رجل مسلم يموت فيقول على جنازته اربعون رجلاً لا يُشركون بالله
-شيئاً إلا شفعهم الله فيه
-  </p>
-</blockquote>
+> ما من رجل مسلم يموت فيقول على جنازته اربعون رجلاً لا يُشركون بالله
+> شيئاً إلا شفعهم الله فيه
 
 *“If one Muslim dies and forty men who are not polytheist, recite salat
 over his dead body, then Allah will accept their shafa'a which was done
@@ -227,11 +191,7 @@ and has prepared the premises of *shafa'a* of the servants of Allah.
 
 In *Sahih al-Bukhari* there is a chapter entitled as:
 
-<blockquote dir="rtl">
-  <p>
-إذا استشفعوا إلى الإمام ليستسقى لهم لم يرُدهم
-  </p>
-</blockquote>
+> إذا استشفعوا إلى الإمام ليستسقى لهم لم يرُدهم
 
 *“When the people would ask their Imam to intercede (do* *shafa'a) and
 plead before Allah to descend rain, he (i.e. the Imam) would not reject
@@ -239,11 +199,7 @@ their demands.”*
 
 Also, there is a chapter entitled as:
 
-<blockquote dir="rtl">
-  <p>
-إذا إستشفع المُشركون بالمسلمين عند القحط
-  </p>
-</blockquote>
+> إذا إستشفع المُشركون بالمسلمين عند القحط
 
 ***“**Occasions when the polytheists demanded* *shafa'a* *from Muslims*
 *at times of famine.”* [^6]
@@ -264,20 +220,12 @@ The verses of Qur’an bear witness that when the Prophet's seek
 forgiveness for the people it is very effective and beneficial such as
 the following verses:
 
-<blockquote dir="rtl">
-  <p>
-واستغفر لذنبك وللمؤمنين
-  </p>
-</blockquote>
+> واستغفر لذنبك وللمؤمنين
 
 ***“And ask protection for your fault and for the believers.***
 ***(Muhammad 47:19)”***
 
-<blockquote dir="rtl">
-  <p>
-وصلِ عليهم إن صلاتك سكن لهم
-  </p>
-</blockquote>
+> وصلِ عليهم إن صلاتك سكن لهم
 
 ***“And pray for them, surely your prayer is a relief to them.***
 ***(Tauba 9:103)”***
@@ -286,13 +234,9 @@ If the *du'a* of Prophet has such benefit for man then what is the harm
 if one requests him to pray as such for him? On the other hand, request
 for *du'a* is nothing but request for *shafa'a.*
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا
 
 ***“And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Apostle had (also) asked forgiveness
@@ -308,18 +252,10 @@ prayers. The Holy Qur’an narrates from the sons of Ya'qub ('a) that they
 requested their father to seek forgiveness for them and Ya'qub ('a) too
 accepted their request and acted upon his promise.
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
-خَاطِئِينَ
-  </p>
-</blockquote>
+> قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
+> خَاطِئِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي
-  </p>
-</blockquote>
+> قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي
 
 ***“They said: O our father! ask forgiveness of our faults for us,
 surely we were sinners. He said: I will ask for you forgiveness from my
@@ -337,12 +273,8 @@ Islamic Traditions (hadiths) and the Path of Companions
 The famous traditionist, al-Tirmidhi and the writer of one of the
 *Sihah* of the Ahl al-Sunnah narrates from Anas as such:
 
-<blockquote dir="rtl">
-  <p>
-سألت النبيّ أن يشفع لي يوم القيامة فقال أنا فاعل قلت فأين أطلبك فقال
-على الصراط
-  </p>
-</blockquote>
+> سألت النبيّ أن يشفع لي يوم القيامة فقال أنا فاعل قلت فأين أطلبك فقال
+> على الصراط
 
 *(Anas says): “I requested the Holy Prophet (s) to ask* *shafa'a* *for
 me on the day of Judgement and he accepted and said, “I shall request
@@ -355,11 +287,7 @@ Qarib was one of the Companions of the Holy Prophet (s). In the contents
 of one of his poems, he seeks intercession from the Prophet (s) and
 says:
 
-<blockquote dir="rtl">
-  <p>
-فكن لي شفيعاً يوم لا ذو شفاعة بمُغنٍ قتيلاً عن سواد بن قارب
-  </p>
-</blockquote>
+> فكن لي شفيعاً يوم لا ذو شفاعة بمُغنٍ قتيلاً عن سواد بن قارب
 
 *"O' the honourable Prophet! you be my intercessor on the Day of
 Judgment, the day when the* *shafa'a* *of no one will be useful and
@@ -372,22 +300,14 @@ letter and requested his near ones that if the day came when such a
 prophet was sent, then they should hand over his letter to him. In this
 letter, he had written as such:
 
-<blockquote dir="rtl">
-  <p>
-وإن لم أدركك فاشفع لي يوم القيامة ولا تُنسِني
-  </p>
-</blockquote>
+> وإن لم أدركك فاشفع لي يوم القيامة ولا تُنسِني
 
 *“Though my age was not loyal and I died before seeing you, ask my*
 *shafa'a* *on the Day of* *qiyama* *and do not forget me.”*
 
 When the letter was handed to the Holy Prophet (s) he said thrice:
 
-<blockquote dir="rtl">
-  <p>
-مرحباً بتبع الأخ الصالح
-  </p>
-</blockquote>
+> مرحباً بتبع الأخ الصالح
 
 *“Congratulations to Tubba', my pious brother.”* [^9]
 
@@ -409,11 +329,7 @@ demise.
 (ablution) and *kafan* (shroud) to the Holy Prophet (s), he uncovered
 the face (of the Prophet) and said:
 
-<blockquote dir="rtl">
-  <p>
-بأبي أنت وأمي طبت حياً وطبت ميتاً...واذكرنا عند ربك
-  </p>
-</blockquote>
+> بأبي أنت وأمي طبت حياً وطبت ميتاً...واذكرنا عند ربك
 
 *“May my mother and father be sacrificed; you are chaste and pure in
 life and in death. Remember us near your Lord."* [^10]
@@ -505,20 +421,12 @@ specific to God have also been attributed to other than Him. For
 example, giving death which is a specific action of God as mentioned in
 Sura al-Mu'minun verse 85.
 
-<blockquote dir="rtl">
-  <p>
-وهو الذي يُحيى ويُميت
-  </p>
-</blockquote>
+> وهو الذي يُحيى ويُميت
 
 ***"He is one who gives life and Death"*** is also attributed to
 (someone) other than Him as mentioned in another verse as such:
 
-<blockquote dir="rtl">
-  <p>
-حتى إذا جاء أحدكم الموت توَّفته رُسلنا
-  </p>
-</blockquote>
+> حتى إذا جاء أحدكم الموت توَّفته رُسلنا
 
 ***“Until when death comes to one of you, our messengers cause him to
 die.*** ***(An’am 6:61)”***
@@ -535,12 +443,8 @@ Thee do we seek help) but at the same time in another verse it commands
 us to seek help from (something) other than Him like *salat* and
 patience, As verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ
-إِلَّا عَلَى الْخَاشِعِينَ
-  </p>
-</blockquote>
+> وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ
+> إِلَّا عَلَى الْخَاشِعِينَ
 
 ***“And seek assistance through patience and prayer, and most surely it
 is a hard thing except for the humble ones.*** ***(Baqarah 2:45)”***
@@ -616,12 +520,8 @@ polytheists because of their seeking of *shafa’a* from the idols; their
 crying and wailing before them and their request (to them) to act as
 mediators, The following verse bears testimony to this:
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا
-يَنْفَعُهُمْ وَيَقُولُونَ هَٰؤُلَاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا
+> يَنْفَعُهُمْ وَيَقُولُونَ هَٰؤُلَاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ
 
 ***“And they serve beside Allah what can neither harm them nor profit
 them, and they say: These are our intercessors with Allah.*** ***(Yunus
@@ -641,11 +541,7 @@ If seeking *shafa’a* from the idols did really amount to their worship
 then, in addition to the sentence **ويعبدون** there was no reason to
 bring the sentence:
 
-<blockquote dir="rtl">
-  <p>
-ويقولون هؤلاء شفعاؤنا
-  </p>
-</blockquote>
+> ويقولون هؤلاء شفعاؤنا
 
 That these two sentences have come in a parataxis form in this verse
 shows that the matter of *'ibada* (worship) of the idols was different
@@ -684,11 +580,7 @@ God is one kind of asking (for fulfilment of needs).
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فلا تدعوا مع الله أحداً
-  </p>
-</blockquote>
+> فلا تدعوا مع الله أحداً
 
 ***“Then do not*** ***call anyone with Allah*** ***(Jinn 72:8)”***
 
@@ -701,12 +593,8 @@ themselves.
 The proof that such callings is *'ibada* and worship is the following
 verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ
-عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ
+> عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***“Call upon Me, I will answer you; surely those who are too proud for
 My service shall soon enter hell abased.*** ***(Ghafir 40:60)”***
@@ -715,11 +603,7 @@ Attention is required in the beginning of the verse; the word and in the
 end the word has come which shows that ‘calling’ and worship give one
 and the same meaning. In the books of tradition too, we find as such:
 
-<blockquote dir="rtl">
-  <p>
-الدعاء مُخ العبادة
-  </p>
-</blockquote>
+> الدعاء مُخ العبادة
 
 *“Du'a is the brain of* *'ibada* *(worship).”*
 
@@ -753,23 +637,15 @@ small gods, the authorities in all or some of the divine affairs and the
 ones who are powerful enough to fulfil their needs. Therefore the Qur’an
 criticizes such ideas and says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَا
-أَنْفُسَهُمْ يَنْصُرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَا
+> أَنْفُسَهُمْ يَنْصُرُونَ
 
 ***“And those whom you call upon besides Him are not able to help you,
 nor can they help themselves.*** ***(Araf 7:197)”***
 
 The Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ
 
 ***“Surely those whom you call on besides Allah are in a state of
 subjugation like yourselves.*** ***(Araf 7:194)”***
@@ -800,18 +676,10 @@ with *'ibada* and worship.
 The following verse shows that *shafa’a* is the right of Allah and as
 such, what meaning can we derive other than this?
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ ۚ قُلْ أَوَلَوْ كَانُوا
-لَا يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ ۚ قُلْ أَوَلَوْ كَانُوا
+> لَا يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعًا
-  </p>
-</blockquote>
+> قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعًا
 
 ***“Or have they taken intercessors besides Allah? Say: what! even
 though they did not ever have control over anything, nor do they
@@ -829,11 +697,7 @@ and ownership of all things becomes the owner of *shafa’a* and not the
 idols whom they worship which are devoid of both these qualifications.
 As Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-قُل أولوا كانوا لا يملكون شيئاً
-  </p>
-</blockquote>
+> قُل أولوا كانوا لا يملكون شيئاً
 
 Therefore, the pivot of discussion of this verse is that God is the
 Owner of *shafa’a* and not the idols and in whomsoever He sees worth and
@@ -854,12 +718,8 @@ Their last reasoning is that seeking *shafa’a* from the awliya Allah is
 hearing sense. The Holy Qur’an explains the dead to be unworthy. As it
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ
-إِذَا وَلَّوْا مُدْبِرِينَ
-  </p>
-</blockquote>
+> إِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ
+> إِذَا وَلَّوْا مُدْبِرِينَ
 
 ***“Surely you do not make the dead to hear, and you do not make the
 deaf to hear the call when they go back retreating.*** ***(Naml
@@ -872,12 +732,8 @@ understand. If the dead were capable of speaking and hearing, then it
 was not proper to compare the dead-hearted polytheists to the group of
 dead people.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُسْمِعُ مَنْ يَشَاءُ ۖ وَمَا أَنْتَ بِمُسْمِعٍ مَنْ فِي
-الْقُبُورِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُسْمِعُ مَنْ يَشَاءُ ۖ وَمَا أَنْتَ بِمُسْمِعٍ مَنْ فِي
+> الْقُبُورِ
 
 ***“Surely Allah makes whom He pleases hear, and you cannot make those
 hear who are in the graves.*** ***(Fatir 35:22)”***
@@ -974,5 +830,4 @@ ambiguity for any impartial person.
 al-Nisa: 41, Sura al-Ahzab: 45, Sura al-Mu'minun: 100 and Sura Ghafir:
 46 prove that life after death continues and we have discussed this
 matter in the past.
-
 

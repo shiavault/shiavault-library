@@ -1,11 +1,7 @@
 And Make us Needless
 ====================
 
-<blockquote dir="rtl">
-  <p>
-وَأَغْنِنَا مِنَ الْفَقْرِ
-  </p>
-</blockquote>
+> وَأَغْنِنَا مِنَ الْفَقْرِ
 
 In the verses “*Allāhumma aghnī kulla faq*īr”[^1] and “*Allāhumma sudda
 faqranā bighināk*” we spoke about poverty at length. The apparent import
@@ -67,12 +63,8 @@ Beloved, consider as an independent entity. Therefore the ‘creation’ or
 Āyatullāh Khumaynī in his Chehel Hadīth (40 Traditions), alluding to the
 reality that the dependent existents are sheer poverty, says:
 
-<blockquote dir="rtl">
-  <p>
-…و هيچ موجودى را از خود استقلالى نيست و صرف تعلق و ربط و عين فقر و
-تدلّى به ذات مقدس حقّ على الاطلاق است...
-  </p>
-</blockquote>
+> …و هيچ موجودى را از خود استقلالى نيست و صرف تعلق و ربط و عين فقر و
+> تدلّى به ذات مقدس حقّ على الاطلاق است...
 
 …No being has any independence of its own and everything is sheer
 dependence, relation, poverty, and attachment to the sacred being of the
@@ -83,12 +75,8 @@ Although such poverty always exists in every being, only one who
 self-purification, can be qualified to be known as poor in this sense.
 In his commentary on the *Du‘ā’ al-Sabāh*, Mullā Hādī Sabzawārī says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْفَقِيْرُ الْحَقيْقِي مَنْ لاَ يَمْلِكُ فِعْلاً وَلاَ صِفَةً وَلاَ
-وُجُوْداً وَيَشْهَدُ أَنَّ الْمُلْكَ لِلٌّهِ الْوَاحِدِ الْقَهّارِ…
-  </p>
-</blockquote>
+> وَالْفَقِيْرُ الْحَقيْقِي مَنْ لاَ يَمْلِكُ فِعْلاً وَلاَ صِفَةً وَلاَ
+> وُجُوْداً وَيَشْهَدُ أَنَّ الْمُلْكَ لِلٌّهِ الْوَاحِدِ الْقَهّارِ…
 
 “And the really poor one is he who does not own any action, attribute,
 or existence, and witnesses that the kingdom is solely Allāh’s, the
@@ -96,23 +84,15 @@ All-Paramount.”[^4]
 
 The Holy Prophet Muhammad (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الفَقْرُ فَخْرِيْ وَبهِ أَفْتَخِرُ.
-  </p>
-</blockquote>
+> الفَقْرُ فَخْرِيْ وَبهِ أَفْتَخِرُ.
 
 “The poverty is my pride and I am proud of it.”[^5]
 
 Imām al-Sajjād (as) in his supplication of seeking asylum with Allāh
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَا غَنِىَّ الأَغْنِياءِ: ها نَحْنُ عِبادُكَ بَيْنَ يَدَيْكَ، وَاِنّاَ
-افْقَرُ الْفُقَراء إِلَيْكَ.
-  </p>
-</blockquote>
+> يَا غَنِىَّ الأَغْنِياءِ: ها نَحْنُ عِبادُكَ بَيْنَ يَدَيْكَ، وَاِنّاَ
+> افْقَرُ الْفُقَراء إِلَيْكَ.
 
 “O the Affluent of the affluent ones, here we are, your slaves, before
 You… and we are the neediest of the needy toward You…”[^6]
@@ -127,22 +107,14 @@ All-Affluent, this state is absolute poverty, it is the state of being
 There is a beautiful allusion in the well-known *Du‘ā’ Jawshan al-Kabīr*
 about this. We pray:
 
-<blockquote dir="rtl">
-  <p>
-يَا غِناَئِي عِنْدَ افْتِقَارِي!
-  </p>
-</blockquote>
+> يَا غِناَئِي عِنْدَ افْتِقَارِي!
 
 “O my Affluence in my poverty…”[^7]
 
 The Holy Prophet (s) is also reported to have prayed:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَغْنِنِي بِالاِفْتِقَِارِ إِلَيْكَ، وَلاَ تُفْقَرْنِي
-بالاِسْتِغْنَاءِ عَنْكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَغْنِنِي بِالاِفْتِقَِارِ إِلَيْكَ، وَلاَ تُفْقَرْنِي
+> بالاِسْتِغْنَاءِ عَنْكَ.
 
 “O Allāh: Make me needless by becoming needy of You, and do not make me
 poor by being needless of You.”[^8]
@@ -161,22 +133,14 @@ Following are allusions to such kinds of poverty:
 
 1. The Holy Prophet (s) is reported to have said to Imām ‘Alī (as):
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ: لاَ فَقْرَ أَشَدُّ مِنَ الْجَهْلِ.
-  </p>
-</blockquote>
+> يَا عَلِيُّ: لاَ فَقْرَ أَشَدُّ مِنَ الْجَهْلِ.
 
 “…O ‘Alī, there is no poverty more severe than ignorance…”[^9]
 
 2. Safwān bin Mihrān al-Jammāl is reported to have narrated from Imām
 al-Sādiq (as) that he said:
 
-<blockquote dir="rtl">
-  <p>
-…لاَ فَقْرَ أَحَطُّ مِنَ الْحُمْقِ…
-  </p>
-</blockquote>
+> …لاَ فَقْرَ أَحَطُّ مِنَ الْحُمْقِ…
 
 “…There is no poverty more degenerate than silliness (*humq*)…”[^10]
 
@@ -185,11 +149,7 @@ material as well as spiritual progress.
 
 3. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَفْقَرُ النَّاسِ الطَّمَّاعُ.
-  </p>
-</blockquote>
+> أَفْقَرُ النَّاسِ الطَّمَّاعُ.
 
 “The poorest among the people is the greediest.”[^11]
 
@@ -198,22 +158,14 @@ employing the means of livelihood for the main aim behind his creation
 he engages in the world and forgets the Hereafter. It is from such an
 attitude that we always seek refuge after our zuhr prayers when we say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ نَفْسٍ لا تَشْبَعُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ نَفْسٍ لا تَشْبَعُ.
 
 “O Allāh, I seek refuge with You from the soul that does not get
 satisfied.”[^12]
 
 4. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-رُبَّ غَنِيٌّ أَفْقَرُ مِنْ فَقِيرٍ.
-  </p>
-</blockquote>
+> رُبَّ غَنِيٌّ أَفْقَرُ مِنْ فَقِيرٍ.
 
 “Many a time there is a rich person who is poorer than a poor
 person.”[^13]
@@ -221,23 +173,15 @@ person.”[^13]
 5. Emphasizing the poverty that is really abominable, The Holy Prophet
 (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَلفَقْرُ فَقْر الْقَلْبِ.
-  </p>
-</blockquote>
+> أَلفَقْرُ فَقْر الْقَلْبِ.
 
 “Poverty is the poverty of the heart.”
 
 The Holy Qur’ān also alludes to this fact when it describes the Judgment
 Day as:
 
-<blockquote dir="rtl">
-  <p>
- يَوْمَ لاَ يَنْفَعُ مَالٌ وَلاَ بَنُونَ. إِلاَّ مَنْ أَتَى اللٌّهَ
-بِقَلْبٍ سَلِيمٍ 
-  </p>
-</blockquote>
+>  يَوْمَ لاَ يَنْفَعُ مَالٌ وَلاَ بَنُونَ. إِلاَّ مَنْ أَتَى اللٌّهَ
+> بِقَلْبٍ سَلِيمٍ 
 
 ***“…the day when neither wealth nor children will avail, except him who
 comes to God with a sound heart.”***[^14]
@@ -261,14 +205,10 @@ shed light on this issue:
 
 1. Imām Abū al-Hasan al-Kāzim (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ عَزَّ وَجَلَّ يَقُولُ: إِنِّي لَمْ أُغْنِ الْغَنِيَّ
-لِكَرَامَةٍ بِهِ عَلَيَّ، وَلَمْ أُفْقِرِ الْفَقِيرَ لِهَوَانٍ بِهِ
-عَلَيَّ، وَهُوَ مِمَّا ابْتَلَيْتُ بِهِ الأَغْنِيَاءَ بِالْفُقَرَاءِ،
-وَلَوْلا الْفُقَرَاءُ لَمْ يَسْتَوْجِبِ الأَغْنِيَاءُ الْجَنَّةَ.
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ عَزَّ وَجَلَّ يَقُولُ: إِنِّي لَمْ أُغْنِ الْغَنِيَّ
+> لِكَرَامَةٍ بِهِ عَلَيَّ، وَلَمْ أُفْقِرِ الْفَقِيرَ لِهَوَانٍ بِهِ
+> عَلَيَّ، وَهُوَ مِمَّا ابْتَلَيْتُ بِهِ الأَغْنِيَاءَ بِالْفُقَرَاءِ،
+> وَلَوْلا الْفُقَرَاءُ لَمْ يَسْتَوْجِبِ الأَغْنِيَاءُ الْجَنَّةَ.
 
 “Indeed, Allāh (the invincible and exalted) says: Indeed I did not
 enrich the affluent one due to a nobility in him, nor did I make the
@@ -279,14 +219,10 @@ not deserve Paradise.”[^15]
 2. In his noble ascent to the heavens (*al-mi’rāj*), it is reported that
 Almighty Allāh addressing the Prophet (s) at one point said:
 
-<blockquote dir="rtl">
-  <p>
-...وَإِنَّ مِنْ عِبَادِيَ الْمُؤْمِنِينَ مَنْ لاَ يُصْلِحُهُ إِلاَّ
-الْغِنَى، وَلَوْ صَرَفْتُهُ إِلَى غَيْرِ ذٌلِكَ لَهَلَكَ، وَإِنَّ مِنْ
-عِبَادِيَ الْمُؤْمِنِينَ مَنْ لاَ يُصْلِحُهُ إِلاّ الْفَقْرُ، وَلَوْ
-صَرَفْتُهُ إِلَى غَيْرِ ذَلِكَ لَهَلَكَ...
-  </p>
-</blockquote>
+> ...وَإِنَّ مِنْ عِبَادِيَ الْمُؤْمِنِينَ مَنْ لاَ يُصْلِحُهُ إِلاَّ
+> الْغِنَى، وَلَوْ صَرَفْتُهُ إِلَى غَيْرِ ذٌلِكَ لَهَلَكَ، وَإِنَّ مِنْ
+> عِبَادِيَ الْمُؤْمِنِينَ مَنْ لاَ يُصْلِحُهُ إِلاّ الْفَقْرُ، وَلَوْ
+> صَرَفْتُهُ إِلَى غَيْرِ ذَلِكَ لَهَلَكَ...
 
 “Indeed among My believing servants there are believers whom nothing
 save affluence (*al-ghinā*) can reform, and were I to change their state
@@ -303,18 +239,14 @@ a yardstick for distinction. How can we determine whether we suffer from
 the abominable poverty or the recommended one? There is a tradition
 narrated from Imām ‘Alī (as) as follows:
 
-<blockquote dir="rtl">
-  <p>
-لِلٌّهِ تَعَالـى فِيْ خَلْقِهِ مَثُوْبَاتُ فَقْرٍ وَعُقُوْبَاتُ
-فَقْرٍ، فَمِنْ عَلاَمَةِ الْفَقْرِ إذاَ كَانَ مَثُوْبَةً أَنْ يَحْسُنَ
-عَلَيْهِ خُلُقُهُ، وَيُطِيْعَ رَبّهُ، وَلاَ يَشْكُو حَالَهُ،
-وَيَشْكُرَ اللٌّهَ تَعَالـى عَلى فَقْرِهِ. وَمِنْ عَلاَمَةِ الْفَقْرِ
-إذَا كَانَ عُقُوْبَةً أَنْ يَسُوْءَ عَلَيْهِ خُلْقُهُ، وَيَعْصِي فيْهِ
-رَبّهُ، وَيُكْثِرَ الشِّكَايَةَ، وَيتسْخّط القَضَاء، وَهَذَا النَّوْعُ
-مِنَ الْفَقْرِ هُوَ الَّذِيْ اسْتَعَاذَ مِنْهُ النَّبيّ صَلّى اللٌّهُ
-عَلَيْهِ وَآله.
-  </p>
-</blockquote>
+> لِلٌّهِ تَعَالـى فِيْ خَلْقِهِ مَثُوْبَاتُ فَقْرٍ وَعُقُوْبَاتُ
+> فَقْرٍ، فَمِنْ عَلاَمَةِ الْفَقْرِ إذاَ كَانَ مَثُوْبَةً أَنْ يَحْسُنَ
+> عَلَيْهِ خُلُقُهُ، وَيُطِيْعَ رَبّهُ، وَلاَ يَشْكُو حَالَهُ،
+> وَيَشْكُرَ اللٌّهَ تَعَالـى عَلى فَقْرِهِ. وَمِنْ عَلاَمَةِ الْفَقْرِ
+> إذَا كَانَ عُقُوْبَةً أَنْ يَسُوْءَ عَلَيْهِ خُلْقُهُ، وَيَعْصِي فيْهِ
+> رَبّهُ، وَيُكْثِرَ الشِّكَايَةَ، وَيتسْخّط القَضَاء، وَهَذَا النَّوْعُ
+> مِنَ الْفَقْرِ هُوَ الَّذِيْ اسْتَعَاذَ مِنْهُ النَّبيّ صَلّى اللٌّهُ
+> عَلَيْهِ وَآله.
 
 “Allāh, the Exalted, has rewards and punishments of poverty in his
 creation. Among the signs of poverty when it is a reward is when one has
@@ -336,22 +268,18 @@ Therefore, even if one was able to bear the difficulties of poverty, he
 should not consider it always recommended for him. Consider the
 following tradition:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ وَرَدَ: أَنَّ الإِمَامَ مُحَمَدَ بْنَ عَلِيٍّ أَلْبَاقِرَ (ع)
-قَالَ لِجَابِرِ بْنِ عَبْدِ اللٌّهِ الأَنْصَارِي - وَقَدْ
-إِكْتَنَفَتْهُ عِلَلٌ وَأَسْقَامٌ وَغَلَبَهُ ضَعْفُ الْهَرَمِ: كَيْفَ
-تَجِدُ حَالَكَ؟ قَالَ: أَنَا فِي حَالٍ أَلْفَقْرُ أَحَبُّ إِلَيَّ مِنَ
-الْغِنـى، وَالْمَرَضُ أَحَبُّ إِلَيَّ مِنَ الصِّحَّةِ، وَالْمَوْتُ
-أَحَبُّ إِلَيَّ مِنَ الْحَيَاةِ. فَقَالَ الإِمَامُ (ع) : أَمَّا نَحْنُ
-أَهْلُ الْـبَيْتِ، فَمَا يَرِدُ عَلَينَا مِنَ اللٌّهِ مِنَ الفَقْرِ
-وَالغِنَى وَالْمَرَضِ وَالصِّحَّةِ وَالْمَوْتِ وَالحَياةِ، فَهُوَ
-أحَبُّ إِلَيْنَا. فَقَامَ جَابِرٌ وَقَبَّلَ بَيْنَ عَيْنَيْهِ،
-وَقَالَ: صَدَقَ رَسُولُ اللٌّهِ (ص) حَيْثُ قَالَ لِي: يَا جَابِرُ:
-سَتُدْرِكُ وَاحداً مِنْ أَوْلاَدِي اسْمُهُ اسْمِي، يَبقُرُ العُلومَ
-بَقراً.
-  </p>
-</blockquote>
+> وَقَدْ وَرَدَ: أَنَّ الإِمَامَ مُحَمَدَ بْنَ عَلِيٍّ أَلْبَاقِرَ (ع)
+> قَالَ لِجَابِرِ بْنِ عَبْدِ اللٌّهِ الأَنْصَارِي - وَقَدْ
+> إِكْتَنَفَتْهُ عِلَلٌ وَأَسْقَامٌ وَغَلَبَهُ ضَعْفُ الْهَرَمِ: كَيْفَ
+> تَجِدُ حَالَكَ؟ قَالَ: أَنَا فِي حَالٍ أَلْفَقْرُ أَحَبُّ إِلَيَّ مِنَ
+> الْغِنـى، وَالْمَرَضُ أَحَبُّ إِلَيَّ مِنَ الصِّحَّةِ، وَالْمَوْتُ
+> أَحَبُّ إِلَيَّ مِنَ الْحَيَاةِ. فَقَالَ الإِمَامُ (ع) : أَمَّا نَحْنُ
+> أَهْلُ الْـبَيْتِ، فَمَا يَرِدُ عَلَينَا مِنَ اللٌّهِ مِنَ الفَقْرِ
+> وَالغِنَى وَالْمَرَضِ وَالصِّحَّةِ وَالْمَوْتِ وَالحَياةِ، فَهُوَ
+> أحَبُّ إِلَيْنَا. فَقَامَ جَابِرٌ وَقَبَّلَ بَيْنَ عَيْنَيْهِ،
+> وَقَالَ: صَدَقَ رَسُولُ اللٌّهِ (ص) حَيْثُ قَالَ لِي: يَا جَابِرُ:
+> سَتُدْرِكُ وَاحداً مِنْ أَوْلاَدِي اسْمُهُ اسْمِي، يَبقُرُ العُلومَ
+> بَقراً.
 
 “Once Imām al-Bāqir (as) is reported to have asked Jābir bin ‘Abdillāh
 al-Ansārī while the latter was not well and the weakness of old age had
@@ -377,15 +305,11 @@ such tradition that clearly reveals what kind of relation a true Shī‘ah
 has with regard to his believing brethren. *Al-Kāfī* narrates[^18] a
 tradition from Abū Ismā’īl who is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وعَنْ أَبِي إِسْمَاعِيلَ قَالَ: قُلْتُ لأَبِي جَعْفَرٍ (ع): جُعِلْتُ
-فِدَاكَ! إِنَّ الشِّيعَةَ عِنْدَنَا كَثِيرٌ. فَقَالَ: فَهَلْ يَعْطِفُ
-الْغَنِيُّ عَلَى الْفَقِيرِ؟ وَ هَلْ يَتَجَاوَزُ الْمُحْسِنُ عَنِ
-الْمُسِي‏ءِ وَيَتَوَاسَوْنَ؟ فَقُلْتُ: لاَ. فَقَالَ: لَيْسَ هَؤُلاءِ
-شِيعَةً. الشِّيعَةُ مَنْ يَفْعَلُ هَذَا.
-  </p>
-</blockquote>
+> وعَنْ أَبِي إِسْمَاعِيلَ قَالَ: قُلْتُ لأَبِي جَعْفَرٍ (ع): جُعِلْتُ
+> فِدَاكَ! إِنَّ الشِّيعَةَ عِنْدَنَا كَثِيرٌ. فَقَالَ: فَهَلْ يَعْطِفُ
+> الْغَنِيُّ عَلَى الْفَقِيرِ؟ وَ هَلْ يَتَجَاوَزُ الْمُحْسِنُ عَنِ
+> الْمُسِي‏ءِ وَيَتَوَاسَوْنَ؟ فَقُلْتُ: لاَ. فَقَالَ: لَيْسَ هَؤُلاءِ
+> شِيعَةً. الشِّيعَةُ مَنْ يَفْعَلُ هَذَا.
 
 “I said to Abū Ja’far (as): may I be made your ransom; surely there are
 many Shī‘ahs among us. He said: ‘And do the rich among them have a soft
@@ -431,5 +355,4 @@ Beautiful Names
 [^17]: Jāmi’ al-Sa’ādāt, v. 2, pg. 21
 
 [^18]: al-Kāfī, v. 2, pg. 173
-
 

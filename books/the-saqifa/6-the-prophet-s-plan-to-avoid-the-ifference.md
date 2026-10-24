@@ -490,4 +490,3 @@ to remain quiet in a pit's darkness; Ii found the patience more prudent
 than the two…" His stand with the caliphate shall in the fourth
 chapter.
 
-

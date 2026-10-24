@@ -420,10 +420,6 @@ AH.[^1] All praise belongs to Allah, the Possessor of Praise and we ask
 for blessings on Muhammad, the crown of splendour and glory, and on his
 family.[^2]
 
-
-
-
-
 [^1]: Another source relates that a copy written in the author's own
 hand was completed and corrected in the above‑mentioned year.
 
@@ -432,5 +428,4 @@ month of Rajah 1400 AH by 'Abd al‑Nasir Muhammad al‑Khajavi, may Allah
 elevate his station throughout the days and the nights. All praise
 belongs to Allah, from the beginning to the end and may the blessings of
 Allah be upon our Master Muhammad and his purified family
-
 

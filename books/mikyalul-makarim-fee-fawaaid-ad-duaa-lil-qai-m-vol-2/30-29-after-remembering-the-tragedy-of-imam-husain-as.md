@@ -8,4 +8,3 @@ I will pray for the believer who remembers the difficulties of my
 ancestor, Imam Husain (as), and follows it with supplicating for my
 reappearance and assisting me (in my task).’
 
-

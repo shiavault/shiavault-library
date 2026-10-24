@@ -152,4 +152,3 @@ like before you prefer his satisfaction to yours and prefer his desires
 to yours in any matter. Finally, God may choose for you the good.” ( 20
 )
 
-

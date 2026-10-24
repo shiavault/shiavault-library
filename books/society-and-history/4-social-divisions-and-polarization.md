@@ -223,4 +223,3 @@ fully in a later chapter dealing with history under the title “Is
 History Materialistic in Nature?” I shall abstain from further
 elaboration at this point.
 
-

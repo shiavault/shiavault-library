@@ -333,4 +333,3 @@ to call the attention of Muslims, well-documented books in refutation to
 his heretical writings and proclaimed Wahhabite tenets to be heretical
 and harmful.
 
-

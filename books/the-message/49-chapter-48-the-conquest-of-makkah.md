@@ -1456,4 +1456,3 @@ persons who took the oath.
 
 [^27]: Amali Suduq, page l05.
 
-

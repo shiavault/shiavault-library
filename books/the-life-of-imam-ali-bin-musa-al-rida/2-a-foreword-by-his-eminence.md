@@ -1,8 +1,6 @@
 a Foreword By His Eminence,
 ===========================
 
-  
-
 Imām al-Sayyid Abd al-Alā al-Sabzwāri, may his blessings last
 =============================================================
 
@@ -34,6 +32,4 @@ All-hearing, and answers to prayers!
  Jamādi al Thāniya 26th, 1412 A. H.
 
 Abd al-Alā al-Sabzwāri
-
-  
 

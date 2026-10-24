@@ -554,4 +554,3 @@ must not follow anyone in this respect without proof and conviction”
 [^15]: Editor's Note: The author is alluding to the following verse “to
 Allāh belongs all power” (2:165), among others.
 
-

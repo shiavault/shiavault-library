@@ -49,4 +49,3 @@ amazing feats (Mazharul Ajaaib); you saved this worthless slave from
 destruction and showed him the right path so that Satan may not make him
 fall.
 
-

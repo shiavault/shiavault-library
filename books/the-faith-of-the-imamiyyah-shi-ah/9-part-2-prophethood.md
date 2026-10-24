@@ -47,11 +47,7 @@ We also believe that Almighty Allah has not authorized people to
 appoint, elect, or choose the Prophets. “They have no choice in the
 matter.” In fact, the whole matter is Almighty Allah’s, because:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
-  </p>
-</blockquote>
+> اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
 
 ***Allah knows best with whom to place His message.*** **(6/124)**
 
@@ -78,28 +74,16 @@ world.
 
 Describing man, Almighty Allah has said in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ
-  </p>
-</blockquote>
+> إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ
 
 ***Lo! Man is surely the loser. (103/2)***
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ أَنْ رَآهُ اسْتَغْنَىٰ
-  </p>
-</blockquote>
+> كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ أَنْ رَآهُ اسْتَغْنَىٰ
 
 ***Nay! Man is most surely inordinate, because he sees himself free from
 want. (96/6-7)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ
-  </p>
-</blockquote>
+> إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ
 
 ***Surely, the soul of man incites to evil. (12/53)***
 
@@ -124,11 +108,7 @@ themselves from true guidance by acceding to their desires and
 responding to the calls of their passions. Referring to this fact, the
 Holy Qur'an reads:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
 
 ***And though you try much, most men will not believe.*** **(12/103)**
 
@@ -175,13 +155,9 @@ to them.
 
 Clarifying this fact, Almighty Allah says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
-وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ
-  </p>
-</blockquote>
+> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
+> وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ
 
 ***He it is who sent among the unlettered ones a messenger of their own,
 to recite unto them His signs, and to purify them and to teach them the
@@ -424,13 +400,9 @@ Muslims, enfeebled their powers, destroyed their spirituality and caused
 them affliction and distress. As a result, Almighty Allah has destroyed
 them on account of their faults:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا
-عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۙ وَأَنَّ اللَّهَ
-سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا
+> عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۙ وَأَنَّ اللَّهَ
+> سَمِيعٌ عَلِيمٌ
 
 ***That is because Allah never changes the Grace He has bestowed on any
 people until they*** ***first change what is in themselves.***
@@ -438,30 +410,18 @@ people until they*** ***first change what is in themselves.***
 
 Thus does Allah treat His creatures:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَا يُفْلِحُ الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَا يُفْلِحُ الْمُجْرِمُونَ
 
 ***Lo! The guilty are never successful.*** **(10/17)**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا
-مُصْلِحُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا
+> مُصْلِحُونَ
 
 ***In truth, their Lord would never destroy their cities unjustly till
 their folk were doing right. (11/117)***
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ ۚ
-إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ
-  </p>
-</blockquote>
+> وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ ۚ
+> إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ
 
 ***Even thus is the grasp of the Lord when He grasps the cities while
 they are doing evil. Lo! His grasp is painful, terrible. (11/102)***
@@ -513,12 +473,8 @@ carelessness, the West, the vigilant yet bitter enemy of Islam,
 colonized their territories and threw them into an unending abyss whose
 extent and bottom no one knows except Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا
-مُصْلِحُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا
+> مُصْلِحُونَ
 
 ***In truth, the Lord would never destroy their cities unjustly while
 their folk were still doing right.*** **(11/117)**
@@ -571,12 +527,8 @@ opposite to this belief is definitely fabricating, erroneous, or
 dubious. All these categories are devoid of true guidance, since the
 Holy Qur'an is verily the word of Almighty Allah Who describes it as:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ
-تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ
+> تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
 
 ***Falsehood cannot come at it from before it or from behind. It is sent
 down by One Full of Wisdom, Worthy of all Praise.*** **(41/42)**
@@ -600,11 +552,7 @@ We also believe that it is obligatory to respect and esteem the Holy
 Qur'an in words and deeds; it is therefore impermissible to defile even
 a single word of it intentionally, as the Holy Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
-  </p>
-</blockquote>
+> لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
 
 ***None shall touch it save the purified ones.*** **(56/79)**
 
@@ -705,11 +653,7 @@ As regarding future religions,([^19]) a Muslim is also exempted from
 investigating and evaluating them, because the Holy Prophet, Muhammad
 (s), has confirmed:
 
-<blockquote dir="rtl">
-  <p>
-لاَ نَبِيَّ بَعْدِي.
-  </p>
-</blockquote>
+> لاَ نَبِيَّ بَعْدِي.
 
 No prophet will come after me.([^20])
 
@@ -717,11 +661,7 @@ In the view of Muslims, the Holy Prophet, Muhammad (s), is
 unquestionably the most honest and most truthful of all. He is as
 exactly as described by Almighty Allah in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنْطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
-  </p>
-</blockquote>
+> وَمَا يَنْطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
 
 ***Nor does he (the Holy Prophet) speak from his own desire. This is
 naught but a revelation from Us.*** **(53/3-4)**
@@ -763,28 +703,16 @@ one must never be influenced by any factor as long as one has followed
 the right path that achieves the pleasure of the Lord. The Holy Qur'an
 reads:
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى
-  </p>
-</blockquote>
+> أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى
 
 ***Does man think that he is to be left aimless?*** **(75/36)**
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
-  </p>
-</blockquote>
+> بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
 
 ***Nay! Man shall be proof against himself.*** **(75/14)**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ
-سَبِيلًا
-  </p>
-</blockquote>
+> إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ
+> سَبِيلًا
 
 ***Lo! This is a rejoinder, that whosoever will, may choose a way unto
 his Lord.*** **(76/29)**
@@ -1017,5 +945,4 @@ Majah (AH 273), 1:45, H. 121; Sunan al-Tirmidhi (AH 279), 5:304, H.
 has been mentioned by al-Bukhari and Muslim in their books of al-Sahih
 on the authority of Shu\`bah. Thus did tens of other reference books of
 hadith.
-
 

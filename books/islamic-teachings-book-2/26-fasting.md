@@ -48,4 +48,3 @@ Questions
 
 3. What is the philosophy lying behind fasting?
 
-

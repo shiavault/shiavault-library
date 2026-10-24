@@ -26,7 +26,6 @@ In the former sentence, the bodily punishment of the Lord was referred
 to, while in this concluding sentence, which speaks about abasing
 torment, the spiritual aspect of that punishment is pointed out.
 
-
 **Section 3 : Dealing with women Commentary : Verse 15**
 
 Punishment to immoral women and men - Tolerance for repentance -
@@ -66,7 +65,6 @@ had been a temporary ordinance, because later the holy Prophet
 which is found in Islamic literature and the books of jurisprudence
 where you may refer to it.
 
-
 **Commentary : Verse 16**
 
 (16) وَاللَّذَانَ يَأْتِيَانِهَا مِنكُمْ فَآذُوهُمَا فَإِن تَابَا
@@ -99,5 +97,4 @@ Allah is Oft-returning (to mercy) , the Merciful."
 In the meantime, it is understood from this ordinance that the persons
 who have repented of their faults should never be blamed for their
 former sins.
-
 

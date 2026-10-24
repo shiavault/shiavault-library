@@ -29,4 +29,3 @@ are not judged by the personalities. Discern the truth first and then
 know its followers. Recognize the untruth and then identify its
 adherents.
 
-

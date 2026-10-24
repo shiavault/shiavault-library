@@ -49,11 +49,7 @@ The Holy Qur’an considers Resurrection to be the terminus of the motion
 of objects and believes that reaching Allah is their ultimate aim and
 states:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ إِلَى رَبِّكَ الْمُنْتَهَى
-  </p>
-</blockquote>
+> وَأَنَّ إِلَى رَبِّكَ الْمُنْتَهَى
 
 ***“And that to your Lord is the goal.”***[^2]
 
@@ -64,12 +60,8 @@ tranquility'.
 
 The Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-يَاقَوْمِ إِنَّمَا هَذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ
-الْآخِرَةَ هِيَ دَارُ الْقَرَارِ
-  </p>
-</blockquote>
+> يَاقَوْمِ إِنَّمَا هَذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ
+> الْآخِرَةَ هِيَ دَارُ الْقَرَارِ
 
 ***“ And verily, the hereafter is the abode to settle.”*** [^3]
 
@@ -109,11 +101,7 @@ themselves reach perfection, is the aim and purpose which Allah has
 ascertained for them. And because of this, the Holy Qur’an regarding the
 'Aim of the Act' of Allah in creating His creations states:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاَّ لِيَعْبُدُونِي
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاَّ لِيَعْبُدُونِي
 
 ***“And I have not created the jinn and men, but that they worship
 me.***”[^5]
@@ -127,11 +115,7 @@ it, because this meaning is incompatible with the Inherent Needlessness
 of Allah. In addition to this, the Holy Qur’an itself pronounces Allah
 as not being in need of worship and says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنْ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنْ الْعَالَمِينَ
 
 ***“And whoever disbelieves, then Surely Allah is Self-Sufficiently
 independent of the worlds.”*** [^6]
@@ -195,12 +179,8 @@ The Holy Qur’an, in mentioning this proof, quotes the words of wise and
 intelligent people (after reflection upon the creation of the heavens
 and the earth) and states:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ
-النَّارِ
-  </p>
-</blockquote>
+> رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ
+> النَّارِ
 
 ***“O' our Lord!*** ***Thou hast not created (all) this in vain! Glory
 be to Thee!*** ***Save us then from the torments of the (Hell)
@@ -303,22 +283,14 @@ to be necessary for the purpose of total manifestation of Truth and
 states one of the names of the Day of Judgement as 'The Day of Truth’
 and states:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ الْيَوْمُ الْحَقُّ
-  </p>
-</blockquote>
+> ذَلِكَ الْيَوْمُ الْحَقُّ
 
 ***“That is the True day.”*** [^12]
 
 The Day of Judgment has been presented as a day in which the hidden
 things and the secrets shall become manifest and evident and states:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُبْلَى السَّرَائِرُ
-  </p>
-</blockquote>
+> يَوْمَ تُبْلَى السَّرَائِرُ
 
 ***“On the day when hidden things shall be made manifest.”***[^13]
 
@@ -330,11 +302,7 @@ of the servants or other such things, shall be by the Truth and Justice.
 Even the Weighing of Actions is the Truth and Justice and this is the
 reason the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ
-  </p>
-</blockquote>
+> وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ
 
 ***“And the measuring (of the deeds) that day shall be just (I.e. the
 Weighing on that day is the Truth)”***[^14]
@@ -346,11 +314,7 @@ the weighing of such deeds, basically no scales exist, because such
 deeds are in reality, a non-entity and no scales exist for weighing of
 non-entities. For this purpose, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا
-  </p>
-</blockquote>
+> فَلاَ نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا
 
 ***“And so We will not set up a balance for them on the day of
 Resurrection.”*** [^15]
@@ -374,12 +338,8 @@ their totality.
 The Holy Qur’an while considering Resurrection to be a necessity for the
 purpose of rewarding the Righteous and punishing the Evil doers says:
 
-<blockquote dir="rtl">
-  <p>
-أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ مَا لَكُمْ كَيْفَ
-تَحْكُمُونَ
-  </p>
-</blockquote>
+> أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ مَا لَكُمْ كَيْفَ
+> تَحْكُمُونَ
 
 ***“What! Shall we then treat those who submit as We treat the
 guilty.*** ***What has happened to you?*** ***How do you judge?”***
@@ -419,12 +379,8 @@ He descends His mercy on it.
 
 Regarding this, Allah himself says:
 
-<blockquote dir="rtl">
-  <p>
-كَتَبَ عَلَى نَفْسِهِ الرَّحْمَةَ لَيَجْمَعَنَّكُمْ إِلَى يَوْمِ
-الْقِيَامَةِ لاَ رَيْبَ فِيهِ
-  </p>
-</blockquote>
+> كَتَبَ عَلَى نَفْسِهِ الرَّحْمَةَ لَيَجْمَعَنَّكُمْ إِلَى يَوْمِ
+> الْقِيَامَةِ لاَ رَيْبَ فِيهِ
 
 ***“He has ordained mercy on Himself; most certainly He will gather you
 on the Resurrection day - there is no doubt about it.”***[^17]
@@ -958,12 +914,8 @@ independent of matter and body. In this context, we shall briefly refer
 to certain verses of the Holy Qur’an, from which the above mentioned
 fact can be deduced.
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا
-بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا
+> بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
 
 ***“Reckon not those who are slain in the way of Allah to be dead; Nay!
 Alive they are with their Lord being sustained.”*** [^31]
@@ -999,13 +951,9 @@ was not immaterial, it would not be able to attain a presence in front
 of the Lord, Who possesses Total and Perfect Immateriality in all
 respects and aspects.
 
-<blockquote dir="rtl">
-  <p>
-…وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ. النَّارُ يُعْرَضُونَ
-عَلَيْهَا غُدُوًّا وَعَشِيًّا وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا
-آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
-  </p>
-</blockquote>
+> …وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ. النَّارُ يُعْرَضُونَ
+> عَلَيْهَا غُدُوًّا وَعَشِيًّا وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا
+> آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
 
 ***“A dreadful doom encompassed Pharaoh’s people.*** ***The fire, they
 are exposed to it (every) morning and evening; and on the day when the
@@ -1031,12 +979,8 @@ in relation to the martyrs, in the Purgatory and these verses are
 mentioning the Divine chastisement with respect to the people of Firoun
 and the tyrants in the Purgatory.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
-إِلَى رَبِّكُمْ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
+> إِلَى رَبِّكُمْ تُرْجَعُونَ
 
 ***“Say: The angel of death who is given charge of you shall cause you
 to die, then to your Lord you shall be brought back.”***[^33]
@@ -1172,5 +1116,4 @@ and its explanation requires deeper reflection.
 [^33]: Sajdah (32):11
 
 [^34]: Mufradat Alfa¨ Qur’an, Raghib Isfahani, word (وَفى)
-
 

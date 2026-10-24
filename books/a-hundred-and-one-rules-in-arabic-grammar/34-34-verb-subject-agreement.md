@@ -6,7 +6,6 @@ its subject it should be marked by both number and gender.
 
 The students (f) went to the dorm.** ** **ذهبتِ الطالباتُ الی السکن ِ.**
 
-
 The students (f) went to the dorm.**  ** **الطالباتُ ذهبنَ الی السکن
 ِ.**
 
@@ -19,5 +18,4 @@ a. I ate an apple.                               �
 ً.**
 
 b. I went to the university.        **ذهبتُ إلی الجامعةِ.**
-
 

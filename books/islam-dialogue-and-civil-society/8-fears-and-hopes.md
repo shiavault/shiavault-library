@@ -689,4 +689,3 @@ and political leader in the Islamic Republic of who has served in a
 number of senior posts culminating to his tenure as President of the
 Islamic Republic of Iran from 1989 to 1997.
 
-

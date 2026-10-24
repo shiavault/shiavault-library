@@ -38,16 +38,12 @@ most clear proofs and words which we have in our possession to better
 understand this point. In this example of ours, we shall refer to and
 quote only two verses along with their translation:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الأَوَّلُ وَالآخِـرُ وَالظَّاهِرُ وَالْبَاطِـنُ وَهُـوَ بِكُلِّ
-شَــيْءٍ عَلِيمٌ ٭ هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْـتَوَى عَلى الْعَرْشِ يَعْلَمُ مَا يَلِجُ
-فِي الأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَآءِ
-وَمَا يَعْرُجُ فِـيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْـتُمْ وَاللٌّهُ
-بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> هُوَ الأَوَّلُ وَالآخِـرُ وَالظَّاهِرُ وَالْبَاطِـنُ وَهُـوَ بِكُلِّ
+> شَــيْءٍ عَلِيمٌ ٭ هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْـتَوَى عَلى الْعَرْشِ يَعْلَمُ مَا يَلِجُ
+> فِي الأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَآءِ
+> وَمَا يَعْرُجُ فِـيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْـتُمْ وَاللٌّهُ
+> بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***“He is the First and the Last and the Apparent and the Hidden and He
 has knowledge of all things. He it is Who created the Heavens and the
@@ -61,11 +57,7 @@ of the Qur\`an (and indeed in the other four verses which follow) are so
 great that Imam ’Ali b. Husayn as-Sajjad (‘a) has stated the following
 in regards to these verses:
 
-<blockquote dir="rtl">
-  <p>
-نُزِلَتْ لِلْمُتَعَمِّقِينَ فِي آخِرِ الزَّمَانِ.
-  </p>
-</blockquote>
+> نُزِلَتْ لِلْمُتَعَمِّقِينَ فِي آخِرِ الزَّمَانِ.
 
 *“(These verses and indeed this chapter of the Qur\`an) were revealed
 for those people who would come at the end of time who would go forth in
@@ -86,11 +78,7 @@ better understanding of the substance of these verses of the Qur\`an.
 Is it possible for a person who has never studied anything and never
 seen a teacher to reach to the depths of the sentence which reads:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ مَعَكُمْ أَيْـنَمَا كُنْـتُمْ
-  </p>
-</blockquote>
+> وَهُوَ مَعَكُمْ أَيْـنَمَا كُنْـتُمْ
 
 ***“And He is with you wherever you may be.”***
 
@@ -98,11 +86,7 @@ Can anyone who does not possess deeply grounded knowledge in the
 teachings of the Divine understand the reality of the part of the verse
 that reads:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الأَوَّلُ وَالآخِرُ وَالظَّاهِرُ وَالبَّاطِـنُ
-  </p>
-</blockquote>
+> هُوَ الأَوَّلُ وَالآخِرُ وَالظَّاهِرُ وَالبَّاطِـنُ
 
 ***“He (Allah) is the First and the Last, the Apparent and the
 Hidden…”***
@@ -132,25 +116,17 @@ At this point, the greatness contained in the words of the eighth Imam,
 ’Ali b. Musa al-Rida (‘a) are made manifest. Once, a person asked the
 Imam (‘a) the following question:
 
-<blockquote dir="rtl">
-  <p>
-مَا بَالُ الْقُرَآنِ لاَ يَزْدَادُ عِنْدَ النَّشْرِ وَالدَّرْسِ إِلاَّ
-غَضَاضَةً؟
-  </p>
-</blockquote>
+> مَا بَالُ الْقُرَآنِ لاَ يَزْدَادُ عِنْدَ النَّشْرِ وَالدَّرْسِ إِلاَّ
+> غَضَاضَةً؟
 
 “Why does the publication and study of the Qur’an, increase its
 freshness and newness?”
 
 The Imam (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-لأَنَّ اللٌّهَ تَبَارَكَ وَ تَعَالَـى لَمْ يَجْعَلْهُ لِزَمَانٍ دُوْنَ
-زَمَانٍ، وَ لاَ لِنَاسٍ دُوْنَ نَاسٍ، فَهُوَ فِي كُلِّ زَمَانٍ
-جَدِيدٌ، وَ عِنْدَ كُلِّ قَوْمٍ غَضٌّ إِلـى يَوْمِ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> لأَنَّ اللٌّهَ تَبَارَكَ وَ تَعَالَـى لَمْ يَجْعَلْهُ لِزَمَانٍ دُوْنَ
+> زَمَانٍ، وَ لاَ لِنَاسٍ دُوْنَ نَاسٍ، فَهُوَ فِي كُلِّ زَمَانٍ
+> جَدِيدٌ، وَ عِنْدَ كُلِّ قَوْمٍ غَضٌّ إِلـى يَوْمِ الْقِيَامَةِ.
 
 *“This is because Allah, the Blessed and the High, did not make it (the
 Qur\`an) for a particular time period nor for a specific group of
@@ -159,11 +135,7 @@ until the Day of Resurrection.”*[^2]
 
 Perhaps it is due to this very reason that Ibne Abbas has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلقُرْآنُ يُفَسِّرُهُ الزَّمَانَ.
-  </p>
-</blockquote>
+> أَلقُرْآنُ يُفَسِّرُهُ الزَّمَانَ.
 
 “Time interprets the Qur’an.”
 
@@ -175,5 +147,4 @@ that the minds of his predecessors never contained.
 [^1]: Suratul Hadid (57), Verses 3 & 4
 
 [^2]: Tafsirul Burhan, vol. 1, pg. 28
-
 

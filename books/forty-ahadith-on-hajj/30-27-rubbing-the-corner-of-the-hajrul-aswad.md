@@ -4,13 +4,9 @@
    
   
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): طُوفُوا بِالْبَيْتِ وَ اسْتَلْمُوا
-الرُّكْنَ فَإِنَّهُ يَمِينُ اللٌّهِ عَلـى أَرْضِهِ يُصَافِحُ بِهَا
-خَلْقَهُ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): طُوفُوا بِالْبَيْتِ وَ اسْتَلْمُوا
+> الرُّكْنَ فَإِنَّهُ يَمِينُ اللٌّهِ عَلـى أَرْضِهِ يُصَافِحُ بِهَا
+> خَلْقَهُ.
 
    
  The Messenger of Allah (blessings of Allah be upon him and his family)
@@ -21,5 +17,4 @@ Allah on His Earth which He shakes with His creations.”
  Biharul Anwar, Volume 96, Page 202  
     
   
-
 

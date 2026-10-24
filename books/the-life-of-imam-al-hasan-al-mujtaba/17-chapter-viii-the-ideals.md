@@ -756,4 +756,3 @@ Asceticism of al-Hasan). The biographers have unanimously agreed on that
 Imam al-Hasan was the most ascetic and best of all the people with the
 exception of his grandfather and his father.
 
-

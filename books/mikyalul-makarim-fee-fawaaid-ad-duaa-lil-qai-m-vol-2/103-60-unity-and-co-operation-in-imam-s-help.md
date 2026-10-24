@@ -4,11 +4,7 @@
 There is great strength in unity even though each one of us is
 personally obliged to help Imam (aj). The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا
-  </p>
-</blockquote>
+> وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا
 
 ***And hold fast by the covenant of Allah all together and be not
 disunited. (Qur’an, Surah Aale Imran 3:103)***
@@ -30,5 +26,4 @@ have delayed, and they would have soon met us with true and perfect
 Marefat.”[^1]
 
 [^1]: Biharul Anwar, Vol. 53, Pg. 177
-
 

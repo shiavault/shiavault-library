@@ -86,4 +86,3 @@ more. Satan caused a corner of his garment to stick outside and told The
 Israelites that Shaiya is hiding in the tree. The people sawed the tree
 in half with Shaiya in it.
 
-

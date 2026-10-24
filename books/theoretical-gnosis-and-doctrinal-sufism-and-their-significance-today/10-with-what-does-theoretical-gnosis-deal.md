@@ -154,4 +154,3 @@ assertion. Many of the works of the later Islamic philosophers are at
 the borderline between hikmat and ‘irfān although the two disciplines
 remain quite distinct from one another.
 
-

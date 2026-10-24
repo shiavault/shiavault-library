@@ -178,7 +178,7 @@ temporal interests. It is quite natural, then, that they have always
 needed all of that in the absence of such texts; they resort to all such
 means only due to their dire need.
 
-[^120] Al-Bukhari, Sahih, Vol. 8, p. 127. Muslim, Sahih, Vol. 6, p. 3.
+[^120]: Al-Bukhari, Sahih, Vol. 8, p. 127. Muslim, Sahih, Vol. 6, p. 3.
 According to some narrations of the same tradition, they are to be the
 descendants of Hashim rather than Quraysh, but they are still
 descendants of Abraham as everyone knows.

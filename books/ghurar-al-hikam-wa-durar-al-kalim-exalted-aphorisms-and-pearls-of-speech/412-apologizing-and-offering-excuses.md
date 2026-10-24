@@ -20,11 +20,7 @@ truthfulness [in your excuse].[^1]
 his soul.
 
 > 4ـ مَنِ اعْتَذَرَ مِنْ غَيْرِ ذَنْب فَقَدْ أوْجَبَ عَلى نَفْسهِ
-<blockquote dir="rtl">
-  <p>
-الذَّنْبَ.
-  </p>
-</blockquote>
+> الذَّنْبَ.
 
 5. One who admits his wrongdoing deserves forgiveness.
 
@@ -81,11 +77,7 @@ excuses from you are many, for it is not such that everyone who speaks
 ill [of you] can be excused by you.
 
 > 17ـ إيّاكَ وما قَلَّ إنْكارُهُ، وإنْ كَثُرَ مِنْكَ اِعْتِذارُهُ،
-<blockquote dir="rtl">
-  <p>
-فَماكُلُّ قائِل نُكْراً يُمْكِنُكَ أنْ تُوسِعَهُ عُذْراً.
-  </p>
-</blockquote>
+> فَماكُلُّ قائِل نُكْراً يُمْكِنُكَ أنْ تُوسِعَهُ عُذْراً.
 
 [^1]: Or: Not doing anything that would require apology is rarer than
 truthfulness.
@@ -93,5 +85,4 @@ truthfulness.
 [^2]: It is a warner in the sense that the shame it causes acts as a
 warning for one not to do anything that would force him to seek pardon
 again.
-
 

@@ -29,12 +29,8 @@ or who does not recognize the twelfth Imam (may our souls be his ransom)
 as the Imam has died the death of ignorance according to the judgment of
 the prophetic tradition:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَلَمْ يَعْرِفْ إِمَامِ زَمَانِهِ مَاتَ مِيْتَةً
-جَاهِلِيَّةٍ.
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَلَمْ يَعْرِفْ إِمَامِ زَمَانِهِ مَاتَ مِيْتَةً
+> جَاهِلِيَّةٍ.
 
 *“Whoever dies without recognizing the Imam of his time dies the death
 of the Age of Ignorance.”*[^1]
@@ -58,13 +54,9 @@ When the return of the deceased has occurred in past ummah
 (communities), according to well-known tradition famous among the Ahl
 al-Sunnat, they must consider it possible in this ummah as well:
 
-<blockquote dir="rtl">
-  <p>
-لِتَسْلُكْنَ سُبُلَ مَنْ كَانَ قَبْلِكُمْ حَذُوا النَعْلَ بِالنَعْلَ
-وَالقَذْةَ بِالْقَذْةِ حَتَّى لَوْ أَنْ أَحَدُهُمْ دَخَلَ حَجْرَ ضَبَّ
-لَدَخَلْتُمُوهُ.
-  </p>
-</blockquote>
+> لِتَسْلُكْنَ سُبُلَ مَنْ كَانَ قَبْلِكُمْ حَذُوا النَعْلَ بِالنَعْلَ
+> وَالقَذْةَ بِالْقَذْةِ حَتَّى لَوْ أَنْ أَحَدُهُمْ دَخَلَ حَجْرَ ضَبَّ
+> لَدَخَلْتُمُوهُ.
 
 “Verily you will follow the path of those before you…”[^2]
 
@@ -75,12 +67,8 @@ In the end, while overlooking the verses that mention the occurrence of
 raj’ah in previous ummahs, for the sake of blessings and grace we
 mention one verse that bears witness to its occurrence in this Nation:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجاً مِمَّنْ يُكَذِّبُ
-بِآيَاتِنَا فَهُمْ يُوْزَعُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجاً مِمَّنْ يُكَذِّبُ
+> بِآيَاتِنَا فَهُمْ يُوْزَعُونَ
 
 **“And (remember) the day when We shall gather from every community a
 group of those who gave the lie to Our signs, so they will meet one
@@ -90,17 +78,9 @@ This verse indicates a day when from every ummat a group of people will
 be gathered who gave the lie to the Divine signs, which naturally is a
 day other than the Day of Judgment.
 
-<blockquote dir="rtl">
-  <p>
-ولا حول ولا قوة إلا بالله العلي العظــــيم
-  </p>
-</blockquote>
+> ولا حول ولا قوة إلا بالله العلي العظــــيم
 
-<blockquote dir="rtl">
-  <p>
-وآخر دعوانا أن الحمد لله رب العالمين
-  </p>
-</blockquote>
+> وآخر دعوانا أن الحمد لله رب العالمين
 
 And there is no might nor power save with Allah
 
@@ -112,5 +92,4 @@ the Worlds**.
 [^2]: Bihar al-Anwar, Volume 21, Page 257
 
 [^3]: Surah Naml (27), Verse 83
-
 

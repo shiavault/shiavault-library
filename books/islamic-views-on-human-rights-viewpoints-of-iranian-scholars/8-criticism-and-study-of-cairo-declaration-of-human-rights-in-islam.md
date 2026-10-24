@@ -880,4 +880,3 @@ Ayatullah Muntazari and Ayatullah Makarim Shirazi.
 
 [^17]: Ibid, p.70
 
-

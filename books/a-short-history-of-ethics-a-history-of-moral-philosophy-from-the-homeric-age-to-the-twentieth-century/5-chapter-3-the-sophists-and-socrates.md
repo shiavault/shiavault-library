@@ -413,4 +413,3 @@ unwelcome to authority, even if the lack of prestige of philosophers
 usually makes it a waste of time to inflict the death penalty. It is a
 mark of Socrates’ greatness that he was not surprised at his own fate.
 
-

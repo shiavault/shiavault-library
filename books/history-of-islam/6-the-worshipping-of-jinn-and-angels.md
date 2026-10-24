@@ -343,4 +343,3 @@ of Mecca, in the south of Hijaz, was the most important in the region;
 it had attracted a lot of settlers some decades prior to the advent of
 Islam. There were two reasons for the development of Mecca:
 
-

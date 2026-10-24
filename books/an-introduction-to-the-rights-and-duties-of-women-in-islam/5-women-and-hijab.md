@@ -13,24 +13,20 @@ First Verse
 
 Allah, Most High, has stated in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَ يَحْفَظُوا
-فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-يَصْنَعُونَ\* وَ قُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ
-وَ يَحْفَظْنَ فُرُوجَهُنَّ وَ لَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا
-ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ وَ لَا
-يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ
-آبَاء بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاء بُعُولَتِهِنَّ
-أَوْ إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي
-أَخَوَاتِهِنَّ أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ
-التَّابِعِينَ غَيْرِ أُوْلِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ
-الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَى عَوْرَاتِ النِّسَاء وَ لَا
-يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ
-وَ تُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ
-تُفْلِحُونَ ‍‍
-  </p>
-</blockquote>
+> قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَ يَحْفَظُوا
+> فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> يَصْنَعُونَ\* وَ قُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ
+> وَ يَحْفَظْنَ فُرُوجَهُنَّ وَ لَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا
+> ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَى جُيُوبِهِنَّ وَ لَا
+> يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ
+> آبَاء بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاء بُعُولَتِهِنَّ
+> أَوْ إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي
+> أَخَوَاتِهِنَّ أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ
+> التَّابِعِينَ غَيْرِ أُوْلِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ
+> الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَى عَوْرَاتِ النِّسَاء وَ لَا
+> يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ
+> وَ تُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ
+> تُفْلِحُونَ ‍‍
 
 ***“Tell the believing men to cast down their eyes (from indecent looks)
 and guard their modesty. This is purer for them. Surely Allah is aware
@@ -66,11 +62,7 @@ and modesty by *ghudha basar*—meaning not staring—and observing *Hijab*.
 
 Then, they address women and declare:
 
-<blockquote dir="rtl">
-  <p>
-… لا یُبدِینَ زِینَتَهُنَّ إِلّا ما ظَهَرَ مِنها ...
-  </p>
-</blockquote>
+> … لا یُبدِینَ زِینَتَهُنَّ إِلّا ما ظَهَرَ مِنها ...
 
 ***“Do not reveal your adornments save those that are manifest.”***
 
@@ -97,24 +89,16 @@ this verse in this manner. Zurarah cited from Imam Sadiq (‘a) that he
 interpreted the words of God, إلّا ما ظَهَرَ مِنها, in the following
 manner:
 
-<blockquote dir="rtl">
-  <p>
-زرارة، عن أبی عبدالله (ع) فی قول الله عزّوجلّ: {إِلّا ما ظَهَرَ مِنها}
-قال: «الزینة الظاهرة الکحل و الخاتم.»
-  </p>
-</blockquote>
+> زرارة، عن أبی عبدالله (ع) فی قول الله عزّوجلّ: {إِلّا ما ظَهَرَ مِنها}
+> قال: «الزینة الظاهرة الکحل و الخاتم.»
 
 “Manifest adornments consist of *Surmah* and rings.”[^3]
 
 Abubasir states:
 
-<blockquote dir="rtl">
-  <p>
-أبوبصیر، عن أبی عبدالله (ع) قال: سألته عن قول الله عزّوجلّ {لا
-یُبدِینَ زِینَتَهُنَّ إِلَّا ما ظَهَرَ مِنها} قال: «الخاتم و المسکة و
-هی القلب.»
-  </p>
-</blockquote>
+> أبوبصیر، عن أبی عبدالله (ع) قال: سألته عن قول الله عزّوجلّ {لا
+> یُبدِینَ زِینَتَهُنَّ إِلَّا ما ظَهَرَ مِنها} قال: «الخاتم و المسکة و
+> هی القلب.»
 
 “I asked Imam Sadiq (‘a) for the interpretation of God’s words, لا
 یُبدِینَ زِینَتَهُنَّ إِلَّا ما ظَهَرَ مِنها, he stated: Manifest
@@ -122,11 +106,7 @@ adornments consist of rings and bracelets.”[^4]
 
 After speaking of *Hijab* the Quran states:
 
-<blockquote dir="rtl">
-  <p>
-...وَلْیَضْرِبْنَ بِخُمُرِهِنَّ عَلیٰ جُیُوبِهِنَّ...
-  </p>
-</blockquote>
+> ...وَلْیَضْرِبْنَ بِخُمُرِهِنَّ عَلیٰ جُیُوبِهِنَّ...
 
 *Khumur* (خُمُر) is the plural form of *khimar* (خِمار) which is a kind
 of large veil or headscarf. Also, *juyub* is the plural form of *jayb*
@@ -150,12 +130,8 @@ behind their heads, which caused their breasts to be revealed.”[^5]
 
 Following this statement, the Quran states:
 
-<blockquote dir="rtl">
-  <p>
-...وَ لا یَضْرِبْنَ بِأَرْجُلِهِنَّ لِیُعْلَمَ ما یُخْفِینَ مِن
-زِینَتِهِنَّ...
-  </p>
-</blockquote>
+> ...وَ لا یَضْرِبْنَ بِأَرْجُلِهِنَّ لِیُعْلَمَ ما یُخْفِینَ مِن
+> زِینَتِهِنَّ...
 
 In order to completely observe modesty and prevent social corruption,
 women are advised to refrain from walking heavily to keep non*-mahram*
@@ -187,14 +163,10 @@ Second Verse
 
 Allah, the Exalted, has stated is the holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَ بَنَاتِكَ وَ نِسَاء
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
-أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَ كَانَ اللَّهُ غَفُورًا
-رَّحِيمًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَ بَنَاتِكَ وَ نِسَاء
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
+> أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَ كَانَ اللَّهُ غَفُورًا
+> رَّحِيمًا
 
 ***“O Prophet! Tell your wives and daughters and believing women to draw
 their veils (cloaks) close unto themselves. This is better so that they
@@ -223,14 +195,10 @@ Third Verse
 
 The Quran states:
 
-<blockquote dir="rtl">
-  <p>
-يَا نِسَاء النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاء إِنِ
-اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي
-قَلْبِهِ مَرَضٌ وَ قُلْنَ قَوْلًا مَّعْرُوفًا \* وَ قَرْنَ فِي
-بُيُوتِكُنَّ وَ لَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ…
-  </p>
-</blockquote>
+> يَا نِسَاء النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاء إِنِ
+> اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي
+> قَلْبِهِ مَرَضٌ وَ قُلْنَ قَوْلًا مَّعْرُوفًا \* وَ قَرْنَ فِي
+> بُيُوتِكُنَّ وَ لَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ…
 
 ***“O women of the prophet! You are not as other women, if you are
 pious. So speak not tenderly to make those who have sickness in their
@@ -342,46 +310,30 @@ its superfluity:
 Hadith that directly and explicitly refute the necessity of covering the
 face and hands:
 
-<blockquote dir="rtl">
-  <p>
-مسعدة بن زیاد قال سمعت جعفراً علیه السلام و سئل عمّا تظهر المرأة من
-زینتها قال: «الوجه و الکفین».
-  </p>
-</blockquote>
+> مسعدة بن زیاد قال سمعت جعفراً علیه السلام و سئل عمّا تظهر المرأة من
+> زینتها قال: «الوجه و الکفین».
 
 Mas‘adah ibn Ziyad said: “I heard from (Imam) Ja‘far (‘a) that in answer
 to a question about the apparent adornments of women he replied: ‘The
 face and two hands.’”[^12]
 
-<blockquote dir="rtl">
-  <p>
-مروک بن عبید، عن بعض أصحابنا، عن أبی عبدالله (ع) قال: ما یحلّ للرجل أن
-یری من المرأة إذا لم یکن محرماً؟ قال: «الوجه و الکفّان و القدمان.»
-  </p>
-</blockquote>
+> مروک بن عبید، عن بعض أصحابنا، عن أبی عبدالله (ع) قال: ما یحلّ للرجل أن
+> یری من المرأة إذا لم یکن محرماً؟ قال: «الوجه و الکفّان و القدمان.»
 
 In answer to a person who asked, “Which parts of a woman can a man who
 is not *mahram* look at?” the noble Imam Sadiq (‘a) answered, “The face,
 two hands, and two feet.”[^13]
 
-<blockquote dir="rtl">
-  <p>
-علیّ بن جعفر، عن أخیه موسی (ع)، قال: «سألته عن الرجل ما یصلح أن ینظر
-إلیه من المرأة إذا لم یکن محرماً؟» قال: «الوجه و الکفّ و موضع السوار.»
-  </p>
-</blockquote>
+> علیّ بن جعفر، عن أخیه موسی (ع)، قال: «سألته عن الرجل ما یصلح أن ینظر
+> إلیه من المرأة إذا لم یکن محرماً؟» قال: «الوجه و الکفّ و موضع السوار.»
 
 Ali ibn Ja‘far said, “I asked my brother, Musa ibn Ja‘far (‘a), ‘Which
 parts of a non-*mahram* woman can a man look at?’ he replied, ‘The face,
 hands, and the area of a bracelet.’”[^14]
 
-<blockquote dir="rtl">
-  <p>
-علیّ بن سوید، قال: قلتُ لأبی الحسن (ع): إنّی مبتلی بالنظر إلی المرأة
-الجمیلة یعجبنی النظر إلیها. فقال لی: «یا علیّ! لا بأس إذا عرف من نیّتک
-الصدق: و إیّاک و الزنا: فإنّه یمحق البرکة و يهلک الدین.»
-  </p>
-</blockquote>
+> علیّ بن سوید، قال: قلتُ لأبی الحسن (ع): إنّی مبتلی بالنظر إلی المرأة
+> الجمیلة یعجبنی النظر إلیها. فقال لی: «یا علیّ! لا بأس إذا عرف من نیّتک
+> الصدق: و إیّاک و الزنا: فإنّه یمحق البرکة و يهلک الدین.»
 
 Ali ibn Sawid said, ‘I said to Musa ibn Ja‘far (‘a), ‘I have been
 afflicted with looking at a beautiful woman and I like to look at her at
@@ -389,16 +341,12 @@ all times, what should I do?’ He answered, ‘O ‘Ali! It has no problem if
 you have good intentions, but I warn you of fornication because it
 repels blessings and destroys one’s religion.’”[^15]
 
-<blockquote dir="rtl">
-  <p>
-مفضّل بن عمر، قال: قلتُ لأبی عبدالله (ع): جعلتُ فداک، ما تقول فی
-المرأة تکون فی السفر مع الرجال لیس فیهم لها ذو محرم، و لا معهم امرأة،
-فتموت المرأة، ما یصنع بها؟ قال: «یُغسَل منها ما أوجب الله علیه التیمم،
-و لا تمسّ، و لا یُکشف لها شیء من محاسنها التی أمر الله بسترها.» قلت:
-فکیف یصنع بها؟ قال: «یغسل بطن کفّیها، ثمّ یغسل وجهها، ثمّ یغسل ظهر
-کفّیها.»
-  </p>
-</blockquote>
+> مفضّل بن عمر، قال: قلتُ لأبی عبدالله (ع): جعلتُ فداک، ما تقول فی
+> المرأة تکون فی السفر مع الرجال لیس فیهم لها ذو محرم، و لا معهم امرأة،
+> فتموت المرأة، ما یصنع بها؟ قال: «یُغسَل منها ما أوجب الله علیه التیمم،
+> و لا تمسّ، و لا یُکشف لها شیء من محاسنها التی أمر الله بسترها.» قلت:
+> فکیف یصنع بها؟ قال: «یغسل بطن کفّیها، ثمّ یغسل وجهها، ثمّ یغسل ظهر
+> کفّیها.»
 
 Mufadhdhal stated, “I said to Imam Sadiq (‘a), ‘May I be sacrificed for
 you! What must be done regarding a woman who traveled with non-*mahram*
@@ -415,14 +363,10 @@ Some Hadith do not plainly mention the face and hands although they
 indirectly denote the fact that covering the face and hands is not
 obligatory.
 
-<blockquote dir="rtl">
-  <p>
-احمد بن محمد بن أبی نصر، عن الرضا (ع)، قال: سألته عن الرجل یحلّ له أن
-ینظر إلی شعر أخت امرأته؟ فقال: «لا، إلّا أن تکون من القواعد.» قلت: أخت
-امرأته و الغریبة سواء؟ قال: «نعم». قلت: فما لی من النظر إلیه منها؟
-فقال: «شعرها و ذراعها.»
-  </p>
-</blockquote>
+> احمد بن محمد بن أبی نصر، عن الرضا (ع)، قال: سألته عن الرجل یحلّ له أن
+> ینظر إلی شعر أخت امرأته؟ فقال: «لا، إلّا أن تکون من القواعد.» قلت: أخت
+> امرأته و الغریبة سواء؟ قال: «نعم». قلت: فما لی من النظر إلیه منها؟
+> فقال: «شعرها و ذراعها.»
 
 Ahmad ibn Muhammad ibn Abinasr said, “I asked Imam Ridha (‘a) if a man
 can look at the hair of his wife’s sister. He answered, ‘No, unless his
@@ -441,26 +385,18 @@ add her face, shows that he too regarded the permissibility of looking
 at a woman’s face an obvious fact that did not need explaining,
 otherwise, he should have mentioned it.
 
-<blockquote dir="rtl">
-  <p>
-احمد بن محمد بن أبی نصر، عن الرضا (ع)، قال: «یؤخذ الغلام بالصلاة و هو
-ابن سبع سنین، و لا تغطّی المرأة شعرها منه حتی یحتلم.»
-  </p>
-</blockquote>
+> احمد بن محمد بن أبی نصر، عن الرضا (ع)، قال: «یؤخذ الغلام بالصلاة و هو
+> ابن سبع سنین، و لا تغطّی المرأة شعرها منه حتی یحتلم.»
 
 Ahmad ibn Muhammad ibn Abinasr cited from Imam Ridha, “A boy is made to
 pray at seven years of age but women cover their hair from him when he
 starts having involuntary ejaculations of semen during sleep
 [*ihtilam*].”[^18]
 
-<blockquote dir="rtl">
-  <p>
-عبدالرحمن بن الحجّاج، قال: سألت أبا إبراهیم (ع) عن الجاریة التی لم
-تدرک متی ینبغی ألا تغطّی رأسها ممّن لیس بینها و بینه محرم؟ و متی یجب
-علیها أن تقنّع رأسها للصلاة؟ قال: «لا تغطّی رأسها حتی تحرم علیها
-الصلاة.»
-  </p>
-</blockquote>
+> عبدالرحمن بن الحجّاج، قال: سألت أبا إبراهیم (ع) عن الجاریة التی لم
+> تدرک متی ینبغی ألا تغطّی رأسها ممّن لیس بینها و بینه محرم؟ و متی یجب
+> علیها أن تقنّع رأسها للصلاة؟ قال: «لا تغطّی رأسها حتی تحرم علیها
+> الصلاة.»
 
 Abd ur-Rahman ibn al-Hajjaj said, “Regarding a girl who is not yet
 mature, I asked Imam Musa ibn Ja‘far (‘a), ‘When must she cover her head
@@ -723,12 +659,8 @@ and cover their adornments and beauties from non-*mahram* men.[^22]
 The Prophet (S) has forbidden women to beautify themselves for males
 other than their husbands and has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن النّبي (ع) فی حدیث المناهي، قال: «و نهی أن تتزیّن لغیر زوجها، فإن
-فعلت کان حقّاً علی الله أن یحرقها بالنار.»
-  </p>
-</blockquote>
+> عن النّبي (ع) فی حدیث المناهي، قال: «و نهی أن تتزیّن لغیر زوجها، فإن
+> فعلت کان حقّاً علی الله أن یحرقها بالنار.»
 
 A woman must not adorn herself for any save her spouse, and if she were
 to do so, it would be a just reward for Allah to burn her in the Fires
@@ -736,23 +668,15 @@ to do so, it would be a just reward for Allah to burn her in the Fires
 
 Imam Muhammad Baqir (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-جابر بن یزید، قال: سمعت أبا جعفر محمّد بن علیّ الباقر (ع) یقول: «و لا
-یجوز لها أن تتطیّب إذا خرجت من بیتها.»
-  </p>
-</blockquote>
+> جابر بن یزید، قال: سمعت أبا جعفر محمّد بن علیّ الباقر (ع) یقول: «و لا
+> یجوز لها أن تتطیّب إذا خرجت من بیتها.»
 
 A woman must not perfume herself when she wants to exit her house.[^24]
 
 He has also stated:
 
-<blockquote dir="rtl">
-  <p>
-جابر بن یزید الجعفی، قال: سمعت أبا جعفر محمّد بن علیّ الباقر (ع) یقول:
-«و لا یجوز للمرأة أن تصافح غیر ذی محرم إلّا من وراء ثوبها.»
-  </p>
-</blockquote>
+> جابر بن یزید الجعفی، قال: سمعت أبا جعفر محمّد بن علیّ الباقر (ع) یقول:
+> «و لا یجوز للمرأة أن تصافح غیر ذی محرم إلّا من وراء ثوبها.»
 
 It is not permissible for a woman to shake hands with a non-*mahram*
 save over her clothing.[^25]
@@ -763,13 +687,9 @@ and to cast their eyes away from watching non-*mahram* women.
 
 The Quran states:
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-يَصْنَعُونَ
-  </p>
-</blockquote>
+> قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> يَصْنَعُونَ
 
 ***“Tell the faithful men to shorten their glances and guard their
 private parts; this is purer for them (it helps keep their purity).
@@ -777,24 +697,16 @@ Surely, Allah knows all they do.”***[^26]
 
 Imam Sadiq (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-علیّ بن عقبة، عن أبیه، عن أبی عبدالله (ع) قال: سمعته یقول: «النظرة سهم
-من سهام إبلیس مسمومّ، و کم من نظرة أورثت حسرة طویلة.»
-  </p>
-</blockquote>
+> علیّ بن عقبة، عن أبیه، عن أبی عبدالله (ع) قال: سمعته یقول: «النظرة سهم
+> من سهام إبلیس مسمومّ، و کم من نظرة أورثت حسرة طویلة.»
 
 Looking at non-*mahram* persons is a poisonous arrow of the arrows of
 Satan and many (such) gazes entail lingering regret.[^27]
 
 He has also stated:
 
-<blockquote dir="rtl">
-  <p>
-عقبة، عن أبی عبدالله (ع)، قال: «النظرة سهم من سهام إبلیس مسمومّ، من
-ترکها لله عزوجل لا لغیره أعقبه الله أمناً و ایماناً یجد طعمه.»
-  </p>
-</blockquote>
+> عقبة، عن أبی عبدالله (ع)، قال: «النظرة سهم من سهام إبلیس مسمومّ، من
+> ترکها لله عزوجل لا لغیره أعقبه الله أمناً و ایماناً یجد طعمه.»
 
 Looking at non-*mahram* persons is a poisonous arrow of the arrows of
 Satan and to whoever abandons it for Allah and none save Him, God shall
@@ -802,24 +714,16 @@ bestow the pleasure of security and faith.[^28]
 
 Again he has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن الکاهلي، قال: قال أبوعبدالله (ع): «النظرة بعد النظرة تزرع فی القلب
-الشهوة، و کفی بها لصاحبها فتنة.»
-  </p>
-</blockquote>
+> عن الکاهلي، قال: قال أبوعبدالله (ع): «النظرة بعد النظرة تزرع فی القلب
+> الشهوة، و کفی بها لصاحبها فتنة.»
 
 A look after a look nourishes lust in one’s heart and is enough to cause
 strife (or temptation) for its owner.[^29]
 
 Noble Sadiq (‘a) has also stated:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (ع): «من نظر إلی امرأة فرفع بصره إلی السماء، أو غضّ بصره لم
-یرتدّ إلیه بصره حتّی یزوّجه الله من الحور العین.»
-  </p>
-</blockquote>
+> قال الصادق (ع): «من نظر إلی امرأة فرفع بصره إلی السماء، أو غضّ بصره لم
+> یرتدّ إلیه بصره حتّی یزوّجه الله من الحور العین.»
 
 He who looks at a woman and immediately looks up to the sky or casts
 down his eyes, Allah will wed him to a houri (in paradise) before his
@@ -827,24 +731,16 @@ gaze levels again.[^30]
 
 The Prophet of Allah (S) has declared:
 
-<blockquote dir="rtl">
-  <p>
-عن رسول الله (ص) قال: «من صافح امرأة حراماً جاء یوم القیامة مغلولاً،
-ثمّ یؤمر به إلی النّار.»
-  </p>
-</blockquote>
+> عن رسول الله (ص) قال: «من صافح امرأة حراماً جاء یوم القیامة مغلولاً،
+> ثمّ یؤمر به إلی النّار.»
 
 He who shakes hands with a non-*mahram* woman shall come chained on the
 Last Day and will then be cast into the Fire.[^31]
 
 He stated elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): «من فاکه امرأة لا یملکها، حبسه الله بکلّ کلمة
-کلّمها فی الدنیا ألف عام.»
-  </p>
-</blockquote>
+> قال رسول الله (ص): «من فاکه امرأة لا یملکها، حبسه الله بکلّ کلمة
+> کلّمها فی الدنیا ألف عام.»
 
 He who jests with a woman who is not his, for every word he has spoken
 to her in the world, Allah shall imprison him for one thousand
@@ -852,12 +748,8 @@ years.[^32]
 
 Amir al-Mu’minin, ‘Ali ibn Abu Talib (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن علیّ (ع) قال: «لا یخلو بامرأة رجلٌ، فما من رجلٍ خلا بامرأة إلّا کان
-الشیطان ثالثهما.»
-  </p>
-</blockquote>
+> عن علیّ (ع) قال: «لا یخلو بامرأة رجلٌ، فما من رجلٍ خلا بامرأة إلّا کان
+> الشیطان ثالثهما.»
 
 A man must not go into a secluded place with a woman, because no man
 goes into a private place with a woman save that the third of them is
@@ -866,12 +758,8 @@ Satan.[^33]
 Musa ibn Ja‘far has cited from his forefathers from the Prophet of Allah
 (S) who stated:
 
-<blockquote dir="rtl">
-  <p>
-موسی بن جعفر، عن آبائه (ع)، عن رسول الله (ص) قال: «من کان یؤمن بالله و
-الیوم الآخر، فلا یبیت فی موضع یسمع نفس امرأة لیست له بمحرم.»
-  </p>
-</blockquote>
+> موسی بن جعفر، عن آبائه (ع)، عن رسول الله (ص) قال: «من کان یؤمن بالله و
+> الیوم الآخر، فلا یبیت فی موضع یسمع نفس امرأة لیست له بمحرم.»
 
 He who has faith in Allah and the Last Day shall not sleep in a place
 where he hears a woman breathing who is not *mahram* to him.[^34]
@@ -957,5 +845,4 @@ the idolaters of Mecca. [trans.]
 [^33]: - Mustadrak al-Wasa’il, vol. 14, p. 265.
 
 [^34]: - Wasa’il ush-Shi‘ah, vol. 20, p. 185.
-
 

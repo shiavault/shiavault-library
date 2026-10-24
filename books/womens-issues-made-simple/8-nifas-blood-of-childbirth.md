@@ -176,4 +176,3 @@ month.
 woman who is in Haidh** **(menstruating) are Haraam for a woman in
 Nifas.**
 
-

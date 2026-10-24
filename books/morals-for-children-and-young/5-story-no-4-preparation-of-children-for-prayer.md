@@ -15,4 +15,3 @@ Yes, one of the laws of Islam is that children should be made aware of
 the reading of namaz and Quran from the age of seven so that they are
 prepared for it.
 
-

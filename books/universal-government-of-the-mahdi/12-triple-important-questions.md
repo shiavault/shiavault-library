@@ -115,12 +115,8 @@ on human lifetime then a person lives more than seventy thousand years!
 Albeit, most of us neither wish for such tiresome age nor accept it even
 for free, until the poet says:
 
-<blockquote dir="rtl">
-  <p>
-من از دو روزه عمر آمدم بجان، ای خضر - چه می کنی تو که یک عمرجاودان
-داری
-  </p>
-</blockquote>
+> من از دو روزه عمر آمدم بجان، ای خضر - چه می کنی تو که یک عمرجاودان
+> داری
 
 I am tried of these two days of life, O Khizr - What do you do who live
 forever
@@ -340,11 +336,7 @@ than one thousand years!
 mentioned explicitly in Qur’an that only the time of his calling to
 monotheism was nine hundred and fifty years
 
-<blockquote dir="rtl">
-  <p>
-فلبث فیهم الف سنة الّا خمسین عاماً.
-  </p>
-</blockquote>
+> فلبث فیهم الف سنة الّا خمسین عاماً.
 
 Surah Ankabut 29: 14
 
@@ -380,11 +372,7 @@ news then we will accept it.
 
 But why we are amazed when we read in hadith:
 
-<blockquote dir="rtl">
-  <p>
-القائم هوالّذی اذا خرج کان فی سنّ الشیوخ و منظر الشّبان؛ قویّ فی بدنه
-  </p>
-</blockquote>
+> القائم هوالّذی اذا خرج کان فی سنّ الشیوخ و منظر الشّبان؛ قویّ فی بدنه
 
 When al-Qa’im rises, he has the age of the old but the face of the young
 and he is also physically powerful.
@@ -680,12 +668,8 @@ can be a key for discovering this great secret and that is the answer of
 Prophet (S) for the question about the benefit of existence of Mahdi
 (as) during his occultation; he said:
 
-<blockquote dir="rtl">
-  <p>
-ای والّذی بعثنی بالنّبوّة انّهم ینتفعون به، و یستضیئون بنور ولایته فی
-غیبه کانتفاع النّاس بالشّمس و ان جلّلها السّحاب
-  </p>
-</blockquote>
+> ای والّذی بعثنی بالنّبوّة انّهم ینتفعون به، و یستضیئون بنور ولایته فی
+> غیبه کانتفاع النّاس بالشّمس و ان جلّلها السّحاب
 
 (Yes, I swear to the one who chosen me, people take benefit from the
 light of his leadership during his occultation like they take from the
@@ -846,12 +830,8 @@ Guarding the Religion of God
 expressions in which he points to the necessity of existence of divine
 leaders in any time and age:
 
-<blockquote dir="rtl">
-  <p>
-اللّهمّ بلی لا تخلو الارض من قائم لله بحجّة امّا ظاهراً مشهوراً و امّا
-خائفاً مغموراً لئلاً تبطل حجج الله و بیّناته
-  </p>
-</blockquote>
+> اللّهمّ بلی لا تخلو الارض من قائم لله بحجّة امّا ظاهراً مشهوراً و امّا
+> خائفاً مغموراً لئلاً تبطل حجج الله و بیّناته
 
 “Yes, the surface of the earth will never be without the al-Qa’im who
 has proof; whether apparent and famous or hidden and unknown, in order
@@ -878,17 +858,9 @@ the way that sometimes, it is hard to recognize the main issues!
 And as the poet says - albeit in the exaggerated way of the poets -
 talking to prophet:
 
-<blockquote dir="rtl">
-  <p>
-شرع تو را در پی آرایشند دین تو را از پی پیرایشند
-  </p>
-</blockquote>
+> شرع تو را در پی آرایشند دین تو را از پی پیرایشند
 
-<blockquote dir="rtl">
-  <p>
-بس که فزودند بر آن برگ و بر گر تو ببینی نشناسی دگر
-  </p>
-</blockquote>
+> بس که فزودند بر آن برگ و بر گر تو ببینی نشناسی دگر
 
 They are making up your canon law
 
@@ -911,11 +883,7 @@ remain safe foe the next generations. Is there any method other than
 continuing this way by an infallible leader, whether to be apparent and
 famous or hidden and unknown?
 
-<blockquote dir="rtl">
-  <p>
-لئلّا تبطل حجج الله و بیّناته
-  </p>
-</blockquote>
+> لئلّا تبطل حجج الله و بیّناته
 
 We know that there is an “indestructible chest” in every institution,
 which holds important documents of that institute in order to remain
@@ -1164,11 +1132,7 @@ the share of others are secured.
 And it is cleared here that what is mentioned in some of narratives
 that:
 
-<blockquote dir="rtl">
-  <p>
-“بیمنه رزق الوری و بوجوده تثبت الارض و السّماء”
-  </p>
-</blockquote>
+> “بیمنه رزق الوری و بوجوده تثبت الارض و السّماء”
 
 People have their aliments because of his (who is the proof and
 representative of God) blessings and the earth and the sky are stable
@@ -1176,11 +1140,7 @@ because of his existence!” is not an “exaggerated”, “illogical” or
 “polytheistic” matter; also, the expression which has been quoted in
 famous books as a divine hadith to holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-“لولاک لما خلقت الافلاک”
-  </p>
-</blockquote>
+> “لولاک لما خلقت الافلاک”
 
 If it wasn’t for you I didn’t create heavens!
 
@@ -1211,5 +1171,4 @@ beneath the verse “” Surah Tawbah 9: 105); and we have an interesting
 discussion about that in vol. 8 of Tafsir -e- Nemoune.
 
 [^5]: Nahj al-Balagha, aphorisms, number 147.
-
 

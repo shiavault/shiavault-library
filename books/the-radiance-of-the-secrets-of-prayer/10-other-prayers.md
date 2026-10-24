@@ -23,12 +23,8 @@ considered a “religio-political prayer”.
 
 Regarding Friday congregational prayer, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ إِذَا نُودِيَ لِلصَّلوٰةِ مِنْ يَومِ
-ٱلْجُمْعَةِ فَاسْعَواْ إِلىٰ ذِكْرِ اللهِ وَ ذَرُواْ ٱلْبَيعَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ إِذَا نُودِيَ لِلصَّلوٰةِ مِنْ يَومِ
+> ٱلْجُمْعَةِ فَاسْعَواْ إِلىٰ ذِكْرِ اللهِ وَ ذَرُواْ ٱلْبَيعَ ﴾
 
 ***“O ye who believe! When the call is made for prayer on Friday, hurry
 up toward the remembrance of Allah, and leave all business.”***[^1]
@@ -538,12 +534,8 @@ power and mercy, because at the time of draught, famine and water
 scarcity, nobody can be of help. It is only God who can shower His mercy
 on the people by sending the dark clouds. God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مائكُمْ غَوْرًا فَمَنْ يَأْتيكُمْ
-بِماءٍ مَعينٍ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مائكُمْ غَوْرًا فَمَنْ يَأْتيكُمْ
+> بِماءٍ مَعينٍ ﴾
 
 ***“Say, ‘Tell me, should your water sink down {into the ground}, who
 will bring you running water?’”***[^25]
@@ -599,17 +591,9 @@ to the middle of the Nile and raised his hands toward the sky and said:
 water. So, give water to us.” The following morning, the Nile River was
 overflowing with water.[^30]
 
-<blockquote dir="rtl">
-  <p>
-ايمنى ديدند و نا ايمن شدند دوستى كردم، مرا دشمن شدند
-  </p>
-</blockquote>
+> ايمنى ديدند و نا ايمن شدند دوستى كردم، مرا دشمن شدند
 
-<blockquote dir="rtl">
-  <p>
-ما كه دشمن را چنين مى پروريم دوستان را از نظر چون مى بريم؟
-  </p>
-</blockquote>
+> ما كه دشمن را چنين مى پروريم دوستان را از نظر چون مى بريم؟
 
 *They saw security and got insecure.*
 
@@ -829,5 +813,4 @@ for rain.
 [^36]: Athar al-Hujjah va Ganjineh-ye Daneshmandan, vol. 1, p. 324. The
 grave of the late Khwansari is located in the shrine of Hadhrat Fatimah
 al-Ma‘sumah (may Allah be pleased with her) in Qum.
-
 

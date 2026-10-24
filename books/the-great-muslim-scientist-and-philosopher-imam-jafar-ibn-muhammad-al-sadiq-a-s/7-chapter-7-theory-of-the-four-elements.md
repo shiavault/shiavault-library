@@ -48,4 +48,3 @@ Time did not allow him to make known to the world further such
 revelations, but he was indeed proved the pioneer and leader in the
 scientific study of oxygen.
 
-

@@ -110,4 +110,3 @@ compiler of the best Arabic-Arabic dictionary; namely Kitab ul-Ayn.
 
 [^9]: Quoted from al-Bahaai; al-Kashkul.
 
-

@@ -125,7 +125,6 @@ other living things also. One of the most amazing phenomena in the world
 is the pairing and fertilizations of plants, which is all explained in
 natural science books.
 
-
 **The Qur'an Makes a Challenge**
 
 Not only from the point of view of eloquence, but also, as we have
@@ -181,5 +180,4 @@ sights of our hearts and our wisdom, and make it an example for life, as
 the Prophet said: "When calamities encompass you like the darkness of
 the night, reach for the Qur'an." (Usul al-Kafi, vol. 2, p. 599) (The
 Roots of Religion, p. 136-146).
-
 

@@ -130,4 +130,3 @@ it is the boundary - the boundary at which I confront transcendence
 whenever I am my true self.’[^44] Jaspers has the view that my sense of
 being-in-myself is shattered by the experience of transcendence.
 
-

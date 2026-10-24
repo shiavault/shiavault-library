@@ -149,4 +149,3 @@ This lesson is entirely based on ‘Allamah Sayyid Saeed Akhtar Rizvi’s
 The Family Life of ham (Revised Edition, 1980) with slight modification
 for this course.
 
-

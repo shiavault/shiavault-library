@@ -4,21 +4,13 @@
 An-Naza\` al-Akheer: Drawing the Last Breath
 --------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-النزع الأخير
-  </p>
-</blockquote>
+> النزع الأخير
 
 Another name for it is سكرات الموت, Death Stupors. Reference to these
 stupors exists in this Qur’an‎ic verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنتَ مِنْهُ
-تَحِيدُ
-  </p>
-</blockquote>
+> وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنتَ مِنْهُ
+> تَحِيدُ
 
 ***"And the stupor of death will bring truth (before his eyes): “This
 was the thing which you were trying to escape!” (Qur’an‎, 50:19).***
@@ -31,16 +23,12 @@ very creation: to worship the Almighty his Lord and the Lord of all
 creation. How will one naturally die? The answer is in verses 88-96 of
 Surat al-Waqi\`a (Chapter 56):
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ، فَرَوْحٌ وَرَيْحَانٌ
-وَجَنَّةُ نَعِيمٍ: وَأَمَّا إِن كَانَ مِنَ أَصْحَابِ الْيَمِينِ
-فَسَلامٌ لَّكَ مِنْ أَصْحَابِ الْيَمِينِ، وَأَمَّا إِن كَانَ مِنَ
-الْمُكَذِّبِينَ الضَّالِّينَ فَنُزُلٌ مِّنْ حَمِيمٍ وَتَصْلِيَةُ
-جَحِيمٍ: إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ، فَسَبِّحْ بِاسْمِ
-رَبِّكَ الْعَظِيمِ:
-  </p>
-</blockquote>
+> فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ، فَرَوْحٌ وَرَيْحَانٌ
+> وَجَنَّةُ نَعِيمٍ: وَأَمَّا إِن كَانَ مِنَ أَصْحَابِ الْيَمِينِ
+> فَسَلامٌ لَّكَ مِنْ أَصْحَابِ الْيَمِينِ، وَأَمَّا إِن كَانَ مِنَ
+> الْمُكَذِّبِينَ الضَّالِّينَ فَنُزُلٌ مِّنْ حَمِيمٍ وَتَصْلِيَةُ
+> جَحِيمٍ: إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ، فَسَبِّحْ بِاسْمِ
+> رَبِّكَ الْعَظِيمِ:
 
 ***“Thus, then, if he is of those nearest to Allah‎, (there is) rest and
 satisfaction (for him) and a Garden of delights. And if he is of the
@@ -67,13 +55,9 @@ much he fell short of carrying out with regard to his duties to others
 and to his Maker. In Nahjul-Balagha, the Commander of the Faithful Imam‎
 Ali (ﻉ) has summarized it thus:
 
-<blockquote dir="rtl">
-  <p>
-«يتذكر أموالاً جمعها أغمض في مطالبها وأخذها من مُصرَّحاتها ،
-ومشتبهاتها قد لزمته تبعات جمعها وأشرف على فراقها، تبقى لمن وراءه
-ينعمون بها فيكون المهنأ لغيره والعبءُ على ظهره».
-  </p>
-</blockquote>
+> «يتذكر أموالاً جمعها أغمض في مطالبها وأخذها من مُصرَّحاتها ،
+> ومشتبهاتها قد لزمته تبعات جمعها وأشرف على فراقها، تبقى لمن وراءه
+> ينعمون بها فيكون المهنأ لغيره والعبءُ على ظهره».
 
 "He shall remember wealth which he had overlooked where it had come
 from, accepting its sources as they were claimed to be, or as they were
@@ -82,12 +66,8 @@ neck, haunting him, as he is about to leave it behind him for those who
 will now enjoy it, thus the pleasure will be for others while he bears
 the burden." Verse 22 of Surat Qaf states the following:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
-  </p>
-</blockquote>
+> لَقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
 
 ***"You were heedless of this, so We have removed your veil, and your
 sight is sharp (on) this Day!” (Qur'an, 50:22).***
@@ -104,17 +84,13 @@ will be a tremendous transformation in the process of changing from one
 form into quite another which now enables him to see what he could never
 see before: According to p. 170, Vol. 6 of Bihar al-Anwar,
 
-<blockquote dir="rtl">
-  <p>
-فيرى رسول الله وأهل بيته الأطهار صلوات الله عليهم وملائكة الرحمة
-وملائكة العذاب حاضرين عنده ليحكموا فيه وانّه يترقب ايّ حكم يحكمون به،
-وأي شيء سوف يوصون به ؟ ومن جهة اُخرى قد اجتمع ابليس واعوانه ليوقعوه في
-الشك ، وهم يحاولون جاهدين أن يسلبوا إيمانه ليخرج من الدنيا بلا إيمان.
-ومن جهة اُخرى يعاني من هول حضور ملك الموت ، وبأي صورة وهيئة سوف يجيئه
-به ، وبأي نحو سوف يقبض روحه . الى غير ذلك.. قال أمير المؤمنين عليه
-السلام: "فاجتمعت عليه سكرات الموت، فغير موصوف ما نزل به".
-  </p>
-</blockquote>
+> فيرى رسول الله وأهل بيته الأطهار صلوات الله عليهم وملائكة الرحمة
+> وملائكة العذاب حاضرين عنده ليحكموا فيه وانّه يترقب ايّ حكم يحكمون به،
+> وأي شيء سوف يوصون به ؟ ومن جهة اُخرى قد اجتمع ابليس واعوانه ليوقعوه في
+> الشك ، وهم يحاولون جاهدين أن يسلبوا إيمانه ليخرج من الدنيا بلا إيمان.
+> ومن جهة اُخرى يعاني من هول حضور ملك الموت ، وبأي صورة وهيئة سوف يجيئه
+> به ، وبأي نحو سوف يقبض روحه . الى غير ذلك.. قال أمير المؤمنين عليه
+> السلام: "فاجتمعت عليه سكرات الموت، فغير موصوف ما نزل به".
 
 "He will see the Messenger of Allah‎ and his Pure Family, peace and
 blessings of Allah‎ be with them all, the angels of mercy and those of
@@ -158,12 +134,8 @@ very filthy outfits, emitting a stench, coming in my direction, pressing
 on my mouth and respiratory passages." The Prophet (ﺹ) ordered him to
 say:
 
-<blockquote dir="rtl">
-  <p>
-يا من يقبل اليسير ويعفو عن الكثير، إقبل مِنّي اليسير وآعف عنِّي
-الكثير، إنَّك أنت الغفور الرحيم.
-  </p>
-</blockquote>
+> يا من يقبل اليسير ويعفو عن الكثير، إقبل مِنّي اليسير وآعف عنِّي
+> الكثير، إنَّك أنت الغفور الرحيم.
 
 "O One Who accepts little (of good deeds) while forgiving a lot (of
 sinning), do accept what is little [of the good deeds which I have done]
@@ -188,11 +160,7 @@ upon the Almighty to outfit the first with one of the outfits of
 Paradise, ease the stupors of death for him and expand his resting
 place." The greatest Prophet (ﺹ) has said:
 
-<blockquote dir="rtl">
-  <p>
-من أطعم أخاه حلاوه، أزال الله عنه مرارة الموت
-  </p>
-</blockquote>
+> من أطعم أخاه حلاوه، أزال الله عنه مرارة الموت
 
 "One who feeds his Muslim brother something sweet, Allah‎ will remove
 from him the bitterness of death." What also helps the dying person and
@@ -200,13 +168,9 @@ eases his pain is hearing the recitation of Surat Ya-Sin (Chapter 36 of
 the Holy Qur'an) and Surat as-Saffat (Chapter 37) as well as "du'a
 al-faraj" which is:
 
-<blockquote dir="rtl">
-  <p>
-لا إله إلا الله الحليم الكريم، لا إله إلا الله العليم العظيم، سبحان
-الله رب السماوات السبع و رب الأرضين السبع و ما فيهن و ما بينهن و رب
-العرش العظيم و سلام على المرسلين، و الحمد لله رب العالمين:
-  </p>
-</blockquote>
+> لا إله إلا الله الحليم الكريم، لا إله إلا الله العليم العظيم، سبحان
+> الله رب السماوات السبع و رب الأرضين السبع و ما فيهن و ما بينهن و رب
+> العرش العظيم و سلام على المرسلين، و الحمد لله رب العالمين:
 
 "There is no god save Allah‎, the Clement, the Great; there is no god
 save Allah‎, the all-Knowing, the Great; praise to Allah‎, Lord of the
@@ -231,17 +195,13 @@ hosts, will pay his debts on his behalf and remove his worries and
 concerns; this very precious supplication, which you should share with
 all the ones you love, is as follows:
 
-<blockquote dir="rtl">
-  <p>
-«أعدَدتُ لِكُلّ هولٍ لا إله إلاّ الله ، وَلِكُلّ هَمٍّ وَغَمٍّ ما شاء
-اللهُ ، وَلِكُلّ نِعمَةٍ الحَمدُ للهِ ، وَلِكُلّ رَخاءٍ الشُّكرُ للهِ
-، وَلِكُلِّ اُعجُوبَةٍ سُبحان اللهِ ، وَلِكُلّ ذَنبٍ أستَغفِرُ الله ،
-وَلِكلّ مُصيبَةٍ إنا لله وإنا اليه راجعون ، وَلِكُلّ ضيقٍ حَسبيَ اللهُ
-و نعم الوكيل ، وَلِكلّ قَضاءٍ وَقَدَرٍ تَوَكَّلتُ على اللهِ وَلِكُلّ
-عَدُوٍّ اعتَصَمتُ باللهِ ، وَلِكُلّ طاعةٍ وَمَعصِيَةٍ لا حَولَ ولا
-قوهَ إلاّ بالله العَليِّ العظيم.
-  </p>
-</blockquote>
+> «أعدَدتُ لِكُلّ هولٍ لا إله إلاّ الله ، وَلِكُلّ هَمٍّ وَغَمٍّ ما شاء
+> اللهُ ، وَلِكُلّ نِعمَةٍ الحَمدُ للهِ ، وَلِكُلّ رَخاءٍ الشُّكرُ للهِ
+> ، وَلِكُلِّ اُعجُوبَةٍ سُبحان اللهِ ، وَلِكُلّ ذَنبٍ أستَغفِرُ الله ،
+> وَلِكلّ مُصيبَةٍ إنا لله وإنا اليه راجعون ، وَلِكُلّ ضيقٍ حَسبيَ اللهُ
+> و نعم الوكيل ، وَلِكلّ قَضاءٍ وَقَدَرٍ تَوَكَّلتُ على اللهِ وَلِكُلّ
+> عَدُوٍّ اعتَصَمتُ باللهِ ، وَلِكُلّ طاعةٍ وَمَعصِيَةٍ لا حَولَ ولا
+> قوهَ إلاّ بالله العَليِّ العظيم.
 
 "I have prepared for every horrific thing "There is no god save Allah‎",
 for every worry and distress "The will of Allah‎ be done", for every
@@ -256,12 +216,8 @@ in Allah‎, the most Sublime, the most Great". Another supplication has
 as many as seventy merits one of which is that one who recites it will
 be given glad tidings at the time of his/her death; it is this:
 
-<blockquote dir="rtl">
-  <p>
-«يا أسمع السامعين ويا أبصر الناظرين ويا أسرع الحاسبين ويا أحكم
-الحاكمين»
-  </p>
-</blockquote>
+> «يا أسمع السامعين ويا أبصر الناظرين ويا أسرع الحاسبين ويا أحكم
+> الحاكمين»
 
 "O You, the most Hearing of those who hear, the most Seeing of those who
 see, the most Wise of those who decree!" Al-Kulayni has quoted Imam‎
@@ -294,5 +250,4 @@ to worry about, that nothing but many good things await them after they
 die. Muslims, however, think that all followers of religions, or those
 who do not follow any religion at all, are entitled to their own wishful
 thinking.
-
 

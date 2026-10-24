@@ -28,4 +28,3 @@ hell.
 
 As it is said: “Surely Allah gives life to the dead.”
 
-

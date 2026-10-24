@@ -31,4 +31,3 @@ murdered as well as his children. They did not know what the actual
 situation was then in Kufa. But they were determined not to desert their
 friends.
 
-

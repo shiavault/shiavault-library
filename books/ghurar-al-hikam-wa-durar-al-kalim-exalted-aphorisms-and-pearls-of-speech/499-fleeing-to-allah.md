@@ -7,10 +7,5 @@ Fleeing To Allah
 indeed He will find you and you will not escape Him.
 
 > 1ـ فِرُّوا إلَى اللّهِ سُبْحانَهُ ولاتَفِرُّوا مِنْهُ فَإنَّهُ
-<blockquote dir="rtl">
-  <p>
-مُدْرِكُكُمْ ولَنْ تُعْجِزُوهُ.
-  </p>
-</blockquote>
-
+> مُدْرِكُكُمْ ولَنْ تُعْجِزُوهُ.
 

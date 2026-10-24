@@ -257,4 +257,3 @@ Vol. 4, Pg. 233.
 [^6]: Ref: Tafseer Nishapuri Vol. II, Pg. 207; Tafseer Maalimut Tanzeel,
 Pg. 715; Tafseer Baidhawi, Vol. II, Pg. 79.
 
-

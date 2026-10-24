@@ -203,8 +203,6 @@ place for himself in the Hell or prepare for himself a place in Fire.
 (And those who have construed some other meaning of the hadith it shows
 their ignorance of Arabic literature).
 
-
-
 [^1]: These traditions are quoted from the Prophet (s.a.) in many
 scholarly books.
 
@@ -232,5 +230,4 @@ Tafseer, it was a student of his who had written it.
 [^11]: Surah Aale Imran 3:121
 
 [^12]: Tafseer Majmaul Bayan Vol 5, p 495
-
 

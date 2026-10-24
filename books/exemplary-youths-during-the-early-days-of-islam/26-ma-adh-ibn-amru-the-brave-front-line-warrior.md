@@ -26,4 +26,3 @@ died in 25 AH.[^1]
 Payāmbar-e Islām, p. p. 268; Zarkulī, Al-A‘lām, vol. 7, p. 258;
 Al-Isābah, vol. 3, p. 429.
 
-

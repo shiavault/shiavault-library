@@ -13,4 +13,3 @@ end of his life and died in Al Ta'ef in 68 A.H. at the age of 70.
 Muhammad Ibn Al-Hanafiyyah, Imam Husayn's brother from his father's
 side, prayed on his body.
 
-

@@ -8,11 +8,7 @@ Surah Tin, Chapter 95
 Contents of Surah Tin
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -46,62 +42,26 @@ which refers to something near.
 Surah Tin, Verses 1-8
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالتِّينِ وَالزَّيْتُونِ
-  </p>
-</blockquote>
+> وَالتِّينِ وَالزَّيْتُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَطُورِ سِينِينَ
-  </p>
-</blockquote>
+> وَطُورِ سِينِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَهَذَا الْبَلَدِ الْأَمِينِ
-  </p>
-</blockquote>
+> وَهَذَا الْبَلَدِ الْأَمِينِ
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
-  </p>
-</blockquote>
+> ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ
-غَيْرُ مَمْنُونٍ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ
+> غَيْرُ مَمْنُونٍ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ
-  </p>
-</blockquote>
+> فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ
-  </p>
-</blockquote>
+> أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ
 
 ***1. “By the Fig and the Olive,”***  
 ***2. “And (Mount) Tur of Sinin,"***  
@@ -451,5 +411,4 @@ possible save with Your Grace; please bestow Your Grace on us.*
 [^6]: Surah Mo’minun, No. 23 verse 14
 
 [^7]: Surah Waqi’ah, No. 56, verse 62
-
 

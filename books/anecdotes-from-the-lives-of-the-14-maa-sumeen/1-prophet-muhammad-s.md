@@ -131,4 +131,3 @@ Prophet (S) and then he let the man go.
 
 When the man heard this he became a Muslim.
 
-

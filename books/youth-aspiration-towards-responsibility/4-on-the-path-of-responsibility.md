@@ -43,7 +43,6 @@ future outcomes? Thus, it is necessary for young Muslims boys and girls
 to depend on these two sources in order to know their
 responsibilities.
 
-
 **Outcomes of being Adhered to Responsibility**
 
 Discharging any responsibility in the best way may result in one or
@@ -99,7 +98,6 @@ justifies the degree of reward or punishment in the hereafter. It is
 similar to the annual hardworking of a student in school, a chance that
 will give an increment in reward for anyone who wants increment.
 
-
 **Conclusion**
 
 When the Holy Prophet (s.a.w.) said: "All of you are shepherds and all
@@ -126,5 +124,4 @@ of any opinion and view by tabling it for discussion, even though it is
 not just a matter of disorder rather it needs planning (I only desire
 (you) betterment to the best of my ability) (Holy Qur'an: 11: 88). All
 Praise be to Allah, the Lord of the Worlds.
-
 

@@ -21,4 +21,3 @@ from syntax. One will learn when a verb is put into the nominative,
 subjective or jussive cases and when a noun is put into the nominative,
 accusative, or genitive cases.
 
-

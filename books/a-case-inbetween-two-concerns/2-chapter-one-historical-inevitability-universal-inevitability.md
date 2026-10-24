@@ -54,7 +54,6 @@ The Marxists as a sect from the materialists believe that this
 inevitability governs man’s history, (calling it – by their terminology
 – the universal necessity. Translator)
 
-
 **The Negative Results of These Two Inevitabilities**
 
 These two inevitabilities lead to negative results in man’s history of
@@ -130,5 +129,4 @@ The Sublime – mouthpiecing them – says:
 [And these pagans have said: if it had not been the will of ArRahman we
 would not worship these idols they say these out of ignorance; they say
 nothing but lies.] Az Zukhruf v. 20.
-
 

@@ -338,4 +338,3 @@ become inspired with remembrance of You*
 *May the blessings of Allah be with Muhammad, His Apostle, and his
 immaculate progeny, abundant salutations prayed for their peace!*
 
-

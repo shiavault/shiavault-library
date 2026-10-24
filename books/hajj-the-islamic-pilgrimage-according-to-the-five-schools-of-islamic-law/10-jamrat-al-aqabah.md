@@ -90,18 +90,10 @@ to perform it with the right hand, to recite the prayers prescribed by
 tradition and other prayers. Following is one of the prayers prescribed
 by tradition:
 
-<blockquote dir="rtl">
-  <p>
-اللهم اجعله حجاً مبروراً، وذنباً مغفوراً. اللهم إن هذه حصيائي، فأحصهن
-لي،
-  </p>
-</blockquote>
+> اللهم اجعله حجاً مبروراً، وذنباً مغفوراً. اللهم إن هذه حصيائي، فأحصهن
+> لي،
 
-<blockquote dir="rtl">
-  <p>
-وارفعهن في عملي ... الله أكبر. اللهم أدحر الشيطان عني.
-  </p>
-</blockquote>
+> وارفعهن في عملي ... الله أكبر. اللهم أدحر الشيطان عني.
 
 O God, make my Hajj a blessing, a forgiving of my sins .... O God, these
 pebbles of mine, reckon them and place them high in my actions .... God
@@ -135,11 +127,7 @@ one. The details are as follow:
 The *hady* is of two kinds; *wajib* and *mustahabb.* The *mustahabb*
 sacrifice is the one mentioned in the following verse of the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-فَصَلِّ لِرَبِّكَ وَانْحَرْ.
-  </p>
-</blockquote>
+> فَصَلِّ لِرَبِّكَ وَانْحَرْ.
 
 \`So pray unto the Lord and sacrifice' (108:2), which is interpreted as
 a commandment to the Prophet (s) to sacrifice after the \`Id day prayer.
@@ -166,12 +154,8 @@ four:
 (1) The sacrifice related to *Hajj al‑tamattu\`* in accordance with the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَمِنْتُمْ فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا
-اسْتَيْسَرَ مِنَ الْهَدْيِ
-  </p>
-</blockquote>
+> فَإِذَا أَمِنْتُمْ فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا
+> اسْتَيْسَرَ مِنَ الْهَدْيِ
 
 *...If in peacetime anyone* of *you combines the \`Umrah with the Hajj,
 he must offer such sacrifice as he can...* (2:196)
@@ -179,12 +163,8 @@ he must offer such sacrifice as he can...* (2:196)
 (2) The sacrifice related to *halq,* which is a *wajib* open to choice,
 in accordance with the verse:
 
-<blockquote dir="rtl">
-  <p>
- فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ
-فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ
-  </p>
-</blockquote>
+>  فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ
+> فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ
 
 *But if any* of *you* is *ill* or *suffers from an ailment* of *the
 head, he must offer a fidyah either by fasting* or *by alms‑giving* or
@@ -193,13 +173,9 @@ head, he must offer a fidyah either by fasting* or *by alms‑giving* or
 (3) The sacrifice related to the penalty *(jaza')* for hunting, in
 accordance with the verse:
 
-<blockquote dir="rtl">
-  <p>
- وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ
-مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ
-الْكَعْبَةِ
-  </p>
-</blockquote>
+>  وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ
+> مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ
+> الْكَعْبَةِ
 
 *He that kills game by design, shall present, as an offering near the
 Ka\`bah, a domestic beast equivalent to that which he has killed, to be
@@ -209,11 +185,7 @@ determined by two honest men among you;* .... (5:95)
 from completing the rites of Hajj, such as illness or interruption due
 to an enemy], in accordance with the following verse *(al‑Tadhkirah):*
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ
-  </p>
-</blockquote>
+> إِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ
 
 *If you cannot; offer such sacrifice as you can afford...* (2:196)
 
@@ -359,12 +331,8 @@ fasts for ten days, three of which for successive days, are to be kept
 during the Hajj days and the remaining seven on returning home. This is
 in accordance with the Divine verse: [^3]
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ
-وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ
-  </p>
-</blockquote>
+> فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ
+> وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ
 
 *...But if he lacks the means let him fast three days during the
 pilgrimage* and *seven when he has returned; that* is *ten days in all.*
@@ -400,11 +368,7 @@ doesn't matter."
 
 In regard to the verse 36 of the *Surat al‑Hajj:*
 
-<blockquote dir="rtl">
-  <p>
-ا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ
-  </p>
-</blockquote>
+> ا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ
 
 *...*and *eat* of *their flesh* and *feed with it the qani '*and *the
 mu\`tarr...* (22:36)
@@ -491,12 +455,8 @@ position, and which the author had placed in the Book of *udhiyyah*
 (sacrifice) in a section entitled *"Bdb ta'akkud istihbab
 al‑'udhiyyah".* The tradition reads:
 
-<blockquote dir="rtl">
-  <p>
- عن الصادق عن أبائه عن رسول الله (ص) أنه قال: "إنما جُعل هذا الأضحى
-لتشبع مساكينكم من اللحم فأطعموهم."
-  </p>
-</blockquote>
+>  عن الصادق عن أبائه عن رسول الله (ص) أنه قال: "إنما جُعل هذا الأضحى
+> لتشبع مساكينكم من اللحم فأطعموهم."
 
 From al‑Sadiq (\`a), from his ancestors, from the Prophet (s), that he
 said: "This sacrifice has been instituted to feed the poor among you
@@ -522,5 +482,4 @@ derived from a single source.
 [^4]: Al‑Sayyid al‑Hakim says, "The duty to offer the hady in sadaqah
 does not remain if one cannot do it... and when the poor man would not
 accept it without money, it is not obligatory."
-
 

@@ -22,11 +22,7 @@ Mecca, and Prophet (S) overcame those obstinate and stubborn enemies who
 caused all those calamities and problems, he pardoned all and extended
 Islamic mercy and absolution to all addressing them:
 
-<blockquote dir="rtl">
-  <p>
-اذهبوا انتم الطلقاء
-  </p>
-</blockquote>
+> اذهبوا انتم الطلقاء
 
 “You are free to go wherever you will!”
 
@@ -35,11 +31,7 @@ Islam in his hand is chanting for revenge, he was provoked, and took the
 flag from the soldier, and chanted for peace and amity instead of
 revenge:
 
-<blockquote dir="rtl">
-  <p>
-الیوم یوم الرحمه
-  </p>
-</blockquote>
+> الیوم یوم الرحمه
 
 “Today is the day of clemency and benevolence!”
 
@@ -85,5 +77,4 @@ during history to express such recommendations in favour of his slayer?
 
 Is Islam whose Prophet’s successor is so kind and merciful, the religion
 of violence?
-
 

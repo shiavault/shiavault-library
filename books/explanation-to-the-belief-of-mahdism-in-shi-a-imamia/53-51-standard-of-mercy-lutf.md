@@ -77,4 +77,3 @@ Mercy that we have an Imam. His Ghaybat (absence) does not reject the
 reality whatever hails from God - is Lutf; the 12th Imam is Lutf and his
 Ghaybat is Lutf because it is God’s order.
 
-

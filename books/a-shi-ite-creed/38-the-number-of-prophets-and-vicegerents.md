@@ -322,4 +322,3 @@ Imam are legion; the following are a few general references, Browne, iv.
 declared as the greatest (afdal) of all the Imams, an-Nafi' yawmi
 'l-Hashr, Bombay ed. 587 , Najaf ed. 788.
 
-

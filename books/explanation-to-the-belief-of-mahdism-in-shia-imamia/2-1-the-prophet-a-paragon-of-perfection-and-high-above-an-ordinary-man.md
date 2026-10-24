@@ -182,7 +182,6 @@ public more staunch in their belief in Mahdi and his Imamate and more
 enthusiastic in anticipation of a redeemer because of the need for
 relief that was the deservation of their hour.
 
-
 The grounds, historical and social, have always aided in advancing the
 call of the prophets, as was the case with our Prophet. This conclusion
 is in agreement with the divine universal view. To link the prophet
@@ -195,7 +194,6 @@ refute it. It is feeble, flaccid, and fake.
 We will present explanations of some magnitude in order to obviate
 mistakes since there are several. The taking shape and the Foundation of
 Shiasm in the epoch of prophet hood:
-
 
 A. Historical events and constant traditions indicate that during the
 prophet hood itself, the Shia faith started taking shape and gaining
@@ -299,5 +297,4 @@ other ones. In another tradition the Prophet says:
 "In every generation to come out of my nation, there are just people
 alongside the members of my House, who cleanse the religion from
 deviation of the arrogant and wrong of the wrong doers."
-
 

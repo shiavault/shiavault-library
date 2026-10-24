@@ -602,4 +602,3 @@ his connection with and interest in Umm al-Mu'minin 'A'ishah in this
 particular field. This is a subject, which will be dealt with in the
 forthcoming pages.
 
-

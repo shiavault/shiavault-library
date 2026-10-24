@@ -91,7 +91,6 @@ the Kabbalah. When we consider these two topics carefully, we will see
 that, at their source, is found Ancient Egyptian paganism and the
 materialist philosophy.
 
-
 **From Ansient Egypt to the Kabbalah**
 
 While Moses was still alive, the Israelites began to create likenesses
@@ -381,5 +380,4 @@ over the last two centuries.
 It is tempting to ask if there are forces who have carried the
 doctrines of Ancient Egypt and the Kabbalah from the midst of ancient
 history to the present day.
-
 

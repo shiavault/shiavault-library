@@ -875,4 +875,3 @@ Sadra:*Tajrid maqalat Aristu* ,*Risalah fi rumuz al-qur’an* , which is
 most probably the same as*Ma’ani al-alfaz al-mufradah min al-qur’an*
 under a different title, and*Risalah fi’l-kufr wa’l-iman* .[^88]
 
-

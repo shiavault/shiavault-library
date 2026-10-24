@@ -74,4 +74,3 @@ nation of Caliphs.
 
 [^1]: A Prophet who brings a new Shariat.
 
-

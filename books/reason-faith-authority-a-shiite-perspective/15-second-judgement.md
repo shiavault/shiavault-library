@@ -19,4 +19,3 @@ authority to force people to abide by his judgement. It is a principle
 of Shi'i fiqh (jurisprudence) that the judge must be appointed by a just
 ruler who in turn gets his authority from God.
 
-

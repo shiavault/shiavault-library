@@ -21,23 +21,15 @@ equals, unveiling an enemy and showing hostility towards one who is able
 to do harm.
 
 > 4ـ مِنْ سُوءِ الاخْتيارِ مُغالَبَةُ الأكْفاءِ، ومُكاشَفَةُ الأعْداءِ
-<blockquote dir="rtl">
-  <p>
-ومُناواةُ مَنْ يَقْدِرُ عَلَى الضَّـرّاءِ.
-  </p>
-</blockquote>
+> ومُناواةُ مَنْ يَقْدِرُ عَلَى الضَّـرّاءِ.
 
 5. One of the most excellent choices and best precautions [and supports]
 is for you to be just in your ruling (or judgment) and to carry it out
 among the special and the ordinary [people] equally.
 
 > 5ـ مِنْ أفْضَلِِ الاختيارِ وأحسَنِ الاستظْهارِ أنْ تَعْدِلَ فِي
-<blockquote dir="rtl">
-  <p>
-الحُكْمِ (القَضاءِ)، وتُجرِيَهُ فِي الخاصَّةِ والعامَّةِ عَلَى
-السَّواءِ.
-  </p>
-</blockquote>
+> الحُكْمِ (القَضاءِ)، وتُجرِيَهُ فِي الخاصَّةِ والعامَّةِ عَلَى
+> السَّواءِ.
 
 6. From the best of choices is adorning oneself with selflessness.
 
@@ -51,5 +43,4 @@ virtuous and keeping a distance from the wicked.
 8. The worst choice is being satisfied with deficiency.
 
 > 8ـ بِئْسَ الاخْتيارُ الرِّضا بِالنَّقْصِ.
-
 

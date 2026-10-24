@@ -168,7 +168,6 @@ Qur'an), it could be understood that the invitation of the relatives
 could have happened prior to the public invitation to the new
 faith.[^55]
 
-
 **Chapter Two : The Public Propagation and the Start of Oppositions**
 
 **The Start of the Public Invitation**
@@ -419,5 +418,4 @@ for his denial was the following:
 the status of prophethood? I have always told them that I would be the
 promised prophet. Now how could I endure this shame on my side to follow
 the young man of \`Abd-Manaf?”[^73]
-
 

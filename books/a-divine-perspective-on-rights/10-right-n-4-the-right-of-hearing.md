@@ -1,21 +1,13 @@
 Right n. 4: The Right of Hearing
 ================================
 
-<blockquote dir="rtl">
-  <p>
-حق السمع
-  </p>
-</blockquote>
+> حق السمع
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ السَّمْعِ فَتَنْزِيهُهُ عَنْ أَنْ تَجْعَلَهُ طَرِيقًا
-إلَى قَلْبكَ إلا لِفُوهَةٍ كَرِيمَةٍ تُحْدِثُ فِي قَلبكَ خَيْرًا أَو
-تَكْسِبُ خُلُقًا كَرِيمًا فَإنَّهُ بَابُ الْكَلامِ إلَى الْقَلْب
-يُؤَدِّي إلَيْهِ ضُرُوبُ الْمَعَانِي عَلَى مَا فِيهَا مِن خَيْرٍ أَو
-شَرِّ. وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ السَّمْعِ فَتَنْزِيهُهُ عَنْ أَنْ تَجْعَلَهُ طَرِيقًا
+> إلَى قَلْبكَ إلا لِفُوهَةٍ كَرِيمَةٍ تُحْدِثُ فِي قَلبكَ خَيْرًا أَو
+> تَكْسِبُ خُلُقًا كَرِيمًا فَإنَّهُ بَابُ الْكَلامِ إلَى الْقَلْب
+> يُؤَدِّي إلَيْهِ ضُرُوبُ الْمَعَانِي عَلَى مَا فِيهَا مِن خَيْرٍ أَو
+> شَرِّ. وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of hearing is to keep it pure by not making it the
 direct pathway to your heart, except for noble words that establish some
@@ -25,12 +17,8 @@ evil. And there is no power but in God*****.***[^1]
 
 The Almighty God said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ
-وَالْأَفْئِدَةَ قَلِيلاً مَّا تَشْكُرُونَ
-  </p>
-</blockquote>
+> قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ
+> وَالْأَفْئِدَةَ قَلِيلاً مَّا تَشْكُرُونَ
 
 ***“Say: It is He who has created you (and made you grow), and made for
 you the faculties of hearing, seeing, feeding and understanding. Little
@@ -44,12 +32,8 @@ but he slowly gets acquainted with them. One of the means of acquiring
 such recognition is the faculty of hearing. We hear things and they are
 recorded in our minds. Imam Ali said to someone seeking advice:
 
-<blockquote dir="rtl">
-  <p>
-أيها السائل! إِسْتَمِعْ ثُمّ اسْتَفْهِم ثُمَّ اسْتَيْقِنْ ثُمَّ
-اسْتَعْمِلْ.
-  </p>
-</blockquote>
+> أيها السائل! إِسْتَمِعْ ثُمّ اسْتَفْهِم ثُمَّ اسْتَيْقِنْ ثُمَّ
+> اسْتَعْمِلْ.
 
 *“O questioner! Listen first, and then understand. Then believe and put
 what you have learned into practice.”*[^2]
@@ -144,23 +128,15 @@ Now let us address the question of why the ear is usually mentioned
 before the eyes and the heart in the Holy Qur’an. Let us look at a few
 verses in this regard:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاء وَالأَرْضِ أَمَّن يَمْلِكُ
-السَّمْعَ والأَبْصَارَ
-  </p>
-</blockquote>
+> قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاء وَالأَرْضِ أَمَّن يَمْلِكُ
+> السَّمْعَ والأَبْصَارَ
 
 ***“Say: Who is that sustains you (in life) from the sky and from the
 earth? Or who is it that has power over hearing and sight?” [The Holy
 Qur’an, Yunus 10:31]***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولـئِكَ كَانَ عَنْهُ
-مَسْؤُولاً
-  </p>
-</blockquote>
+> إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولـئِكَ كَانَ عَنْهُ
+> مَسْؤُولاً
 
 ***“Surely the hearing and the sight and the heart, all of these, shall
 be questioned about that.” [The Holy Qur’an, al-Israa 17:36]***
@@ -221,5 +197,4 @@ mammal.
 p.282.
 
 [^9]: The Treatise of al-Khu’i, p.503.
-
 

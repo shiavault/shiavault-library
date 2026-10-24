@@ -253,4 +253,3 @@ other and whatever truth and fact become clear for them, they would
 accept readily. Every day, they would take a fresh step in the path of
 bliss and prosperity.
 
-

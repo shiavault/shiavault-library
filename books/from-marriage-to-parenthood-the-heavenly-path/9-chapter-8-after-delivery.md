@@ -66,11 +66,7 @@ of the birth of his child, he didn’t ask whether it was a boy or a girl,
 but rather first asked, is his creation ok? Then, if told that the child
 was healthy and there was no defect in the creation, he recited:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي لَمْ يَخْلُقْ مِنِّي شَيْئاً مُشَوَّهاً.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي لَمْ يَخْلُقْ مِنِّي شَيْئاً مُشَوَّهاً.
 
 “Praise Be to Allāh (SwT) who did not create from me something
 disfigured.”[^11]
@@ -183,19 +179,15 @@ circumcision).”
  It is recommended to recite the following Du°ā at the time of
 circumcision[^25]:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ هٌذِهِ سُنَّتُكَ وَ سُنَّةُ نَبِيِّكَ (صَلَوَاتُكَ
-عَلَيْهِ وَ آلِهِ) وَ اتِّـبَاعٌ مِنَّا لَكَ وَ لِدِيـنِكَ
-بِمَشِيَّـتِكَ وَ بِإِرَادَتِكَ لِأَمْرٍ أَرَدْتَهُ وَ قَضَآءٍ
-حَـتَمْتَهُ وَ أَمْرٍ أَنْفَذْتَهُ فَأَذَقْتَهُ حَرَّ الْحَدِيدِ فِي
-خِتَانِهِ وَ حِجَامَتِهِ لِأَمْرٍ أَنْتَ أَعْرَفُ بِهِ مِنِّي.
-أَللٌّهُمَّ فَطَهِّرْهُ مِنَ الذُّنُوبِ وَ زِدْ فِي عُمْرِهِ وَ
-ادْفَعِ الآفَاتِ عَنْ بَدَنِهِ وَ الأَوْجَاعِ عَنْ جِسْمِهِ وَ زِدْهُ
-مِنَ الْغِنىً وَ ادْفَعْ عَنْهُ الْفَقْرَ فَإِنَّكَ تَعْلَمُ وَ إِنَّا
-لاَ نَعْلَمُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ هٌذِهِ سُنَّتُكَ وَ سُنَّةُ نَبِيِّكَ (صَلَوَاتُكَ
+> عَلَيْهِ وَ آلِهِ) وَ اتِّـبَاعٌ مِنَّا لَكَ وَ لِدِيـنِكَ
+> بِمَشِيَّـتِكَ وَ بِإِرَادَتِكَ لِأَمْرٍ أَرَدْتَهُ وَ قَضَآءٍ
+> حَـتَمْتَهُ وَ أَمْرٍ أَنْفَذْتَهُ فَأَذَقْتَهُ حَرَّ الْحَدِيدِ فِي
+> خِتَانِهِ وَ حِجَامَتِهِ لِأَمْرٍ أَنْتَ أَعْرَفُ بِهِ مِنِّي.
+> أَللٌّهُمَّ فَطَهِّرْهُ مِنَ الذُّنُوبِ وَ زِدْ فِي عُمْرِهِ وَ
+> ادْفَعِ الآفَاتِ عَنْ بَدَنِهِ وَ الأَوْجَاعِ عَنْ جِسْمِهِ وَ زِدْهُ
+> مِنَ الْغِنىً وَ ادْفَعْ عَنْهُ الْفَقْرَ فَإِنَّكَ تَعْلَمُ وَ إِنَّا
+> لاَ نَعْلَمُ.
 
 “O Allāh (SwT)! Surely (what we are performing) is in line with Your
 tradition and the tradition (Sunnah) of Your Prophet (S) (may Your
@@ -333,14 +325,10 @@ from [your name and your father’s name.]”
 2. The following supplication should also be read while the animal is
 being slaughtered (whether the child is a boy or girl):
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ وَ بِاللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَ اللٌّهُ أَكْبَرُ
-إِيْمَاناً بِاللٌّهِ وَ ثَنَاءً عَلـى رَسُولِ اللٌّهِ (صَلَّى اللٌّهُ
-عَلَيْهِ وَ آلِهِ وَسَلَّمَ) وَ شُكْراً لِرِزْقِ اللٌّهِ وَ عِصْمَةً
-بِأَمْرِ اللٌّهِ وَ مَعْرِفَةً بِفَضْلِهِ عَلَيْنَا أَهْلَ الْبَيْتِ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ وَ بِاللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَ اللٌّهُ أَكْبَرُ
+> إِيْمَاناً بِاللٌّهِ وَ ثَنَاءً عَلـى رَسُولِ اللٌّهِ (صَلَّى اللٌّهُ
+> عَلَيْهِ وَ آلِهِ وَسَلَّمَ) وَ شُكْراً لِرِزْقِ اللٌّهِ وَ عِصْمَةً
+> بِأَمْرِ اللٌّهِ وَ مَعْرِفَةً بِفَضْلِهِ عَلَيْنَا أَهْلَ الْبَيْتِ.
 
 “In the Name of Allāh (SwT) and in Allāh (SwT) and All Praise belongs
 solely to Allāh (SwT) and Allāh (SwT) is Greater than any description
@@ -354,16 +342,12 @@ Bayt.”
 If the child is a boy, then the following supplication should also be
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَنْتَ وَهَبْتَ لَنَا ذَكَراً وَ أَنْتَ أَعْلَمُ بِمَا
-وَهَبْتَ، وَ مِنْكَ مَا أَعْطَيْتَ وَ لَكَ مَا صَنَعْنَا فَتَقَبَّلْهُ
-مِنَّا عَلـى سُنَّتِكَ وَ سُنَّةِ رَسُولِكَ (صَلَّى اللٌّهُ عَلَيْهِ
-وَ آلِهِ وَسَلَّمَ) وَ أَخْسِءْ عَنَّا الشَّيْطَانِ الرَّجِيمِ، لَكَ
-سَفَكْتُ الدِّمَاءَ لاَ شَرِيكَ لَكَ وَ الْحَمْدُ لِلٌّهِ رَبِّ
-الْعَالَمِـينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَنْتَ وَهَبْتَ لَنَا ذَكَراً وَ أَنْتَ أَعْلَمُ بِمَا
+> وَهَبْتَ، وَ مِنْكَ مَا أَعْطَيْتَ وَ لَكَ مَا صَنَعْنَا فَتَقَبَّلْهُ
+> مِنَّا عَلـى سُنَّتِكَ وَ سُنَّةِ رَسُولِكَ (صَلَّى اللٌّهُ عَلَيْهِ
+> وَ آلِهِ وَسَلَّمَ) وَ أَخْسِءْ عَنَّا الشَّيْطَانِ الرَّجِيمِ، لَكَ
+> سَفَكْتُ الدِّمَاءَ لاَ شَرِيكَ لَكَ وَ الْحَمْدُ لِلٌّهِ رَبِّ
+> الْعَالَمِـينَ.
 
 “O Allāh (SwT)! You have gifted us with a son and You know better what
 You have gifted us, and back to You is that which You have granted to us
@@ -385,12 +369,8 @@ boy, the second supplication is if the child is a girl.
 
 > بِسْمِ اللٌّهِ وَ بِاللٌّهِ أَللٌّهُمَّ هٌذِهِ عَقِيقَةٌ عَنْ [Name of
 > child and his father] لَحْمِهَا بِلَحْمِهِ وَ دَمِهَا بِدَمِهِ وَ
-<blockquote dir="rtl">
-  <p>
-عَظْمِهَا بِعَظْمِهِ. أَللٌّهُمَّ اجْعَلْهَا وِقَاءً لَهُ بِآلِ
-مُحَمَّدٍ صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ.
-  </p>
-</blockquote>
+> عَظْمِهَا بِعَظْمِهِ. أَللٌّهُمَّ اجْعَلْهَا وِقَاءً لَهُ بِآلِ
+> مُحَمَّدٍ صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ.
 
 “In the Name of Allāh (SwT) and by Allāh (SwT), this aqīqah
 (slaughtering of an animal) is for [name of the child and his father’s
@@ -402,12 +382,8 @@ preserved, in the name of the progeny of Muĥammad, blessings of Allāh
 
 > بِسْمِ اللٌّهِ وَ بِاللٌّهِ أَللٌّهُمَّ هٌذِهِ عَقِيقَةٌ عَنْ [Name of
 > child and her father] لَحْمِهَا بِلَحْمِهَا وَ دَمِهَا بِدَمِهَا وَ
-<blockquote dir="rtl">
-  <p>
-عَظْمِهَا بِعَظْمِهَا. أَللٌّهُمَّ اجْعَلْهَا وِقَاءً لَهَا بِآلِ
-مُحَمَّدٍ صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ
-  </p>
-</blockquote>
+> عَظْمِهَا بِعَظْمِهَا. أَللٌّهُمَّ اجْعَلْهَا وِقَاءً لَهَا بِآلِ
+> مُحَمَّدٍ صَلَّى اللٌّهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ
 
 “In the Name of Allāh (SwT) and by Allāh (SwT), this aqīqah
 (slaughtering of an animal) is for [name of the child and her father’s
@@ -450,12 +426,8 @@ It is narrated from Imām as-Ŝādiq (as) that he congratulated someone for
 the child that God had blessed him with in the following manner (there
 have been many similar narrations from Imām Hasan (as) also)[^33]:
 
-<blockquote dir="rtl">
-  <p>
-رَزَقَكَ اللٌّهُ شُكْرَ الْوَاهِبِ وَ بَارَكَ لَكَ فِي الْمَوْهُوبِ وَ
-بَلَغَ أَشُدَّهُ وَ رَزَقَكَ اللٌّهُ بِرَّهُ.
-  </p>
-</blockquote>
+> رَزَقَكَ اللٌّهُ شُكْرَ الْوَاهِبِ وَ بَارَكَ لَكَ فِي الْمَوْهُوبِ وَ
+> بَلَغَ أَشُدَّهُ وَ رَزَقَكَ اللٌّهُ بِرَّهُ.
 
 “May Allāh (SwT) bless you, and bless that which He has granted you, and
 make him reach physical maturity, and (May) Allāh (SwT) bless you with
@@ -500,12 +472,8 @@ love and friendship towards them, and religion is nothing but love and
 friendship of the Ahlul Bayt (as), as Allāh (SwT) states in the Noble
 Qur\`an, in Surat Āli-’ Imrān, Verse 31:
 
-<blockquote dir="rtl">
-  <p>
- إِنْ كُنْـتُمْ تُحِبُّونَ اللٌّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللٌّهُ... 
-  </p>
-</blockquote>
+>  إِنْ كُنْـتُمْ تُحِبُّونَ اللٌّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللٌّهُ... 
 
 “If you love Allāh (SwT), then follow me (the Prophet (S)); Allāh (SwT)
 will love you…”
@@ -672,5 +640,4 @@ Look in this chapter.
 [^42]: al-Kāfī, vol. 6, pg. 19, no. 7
 
 [^43]: al-Kāfī, vol. 6
-
 

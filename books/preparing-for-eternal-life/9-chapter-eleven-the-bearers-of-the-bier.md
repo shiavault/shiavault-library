@@ -107,7 +107,6 @@ Therefore, I am, surrounded by these traits, demanded"
 
 [Imami, Ayatullah Sayyid Kamal Faghih (1998), pg. 53]
 
-
 **Chapter Twelve : Namaz-I-Janaza (Namaz-I-Maiyat) The Funeral Prayer
 for a Male**
 
@@ -140,7 +139,6 @@ Five Takbeers (saying "Allaho Akbar" with hands raised up to the ears
 is Wajib for all people present. You are not allowed to stay silent.
 They must repeat what the prayer leader says.
 
-
 **Text for Recitation of Namaz-I-Janaza Namaz-I-Janaza (Short Form)
 Niyyat**
 
@@ -160,7 +158,6 @@ His Prophet.
 
 Allah is Great. O Allah! Send blessings on Muhammad and the Progeny of
 Muhammad.
-
 
 O Allah! Forgive the true believer, male and female.
 
@@ -237,5 +234,4 @@ bad and grant him pardon.
 O Allah! Put him in the highest station in Your proximity and appoint
 his successor from among those relations who survive him and be merciful
 to him O the Most Merciful.)
-
 

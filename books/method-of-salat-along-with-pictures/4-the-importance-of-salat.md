@@ -13,4 +13,3 @@ worship will not be accepted either."
 "One who does not pay importance to the Salat and considers it as
 something insignificant, is worthy of punishment in the next world."
 
-

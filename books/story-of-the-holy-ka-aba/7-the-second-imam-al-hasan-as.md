@@ -280,4 +280,3 @@ this world or the Hereafter. This further confirms the saying of the
 Holy Prophet who said, “The Momin is a person who attends the affairs of
 this world as well as of the Hereafter in the most perfect way,”
 
-

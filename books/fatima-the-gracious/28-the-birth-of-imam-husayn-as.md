@@ -64,4 +64,3 @@ exactly as those of the Prophet (S)*.*
 Seven days after the birth the, Messenger of Allah (S) shaved Husayn's
 (as) head and gave the weight of his hair as charity for him.
 
-

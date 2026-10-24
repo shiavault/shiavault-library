@@ -338,4 +338,3 @@ al-Mansur al-Abbasi became jealous of him and killed him.
 
 [^9]: Refer to ayah 22:40
 
-

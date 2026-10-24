@@ -367,4 +367,3 @@ in this regard. For more information, see Ahmad Husayn Ya‘qub: The
 Conception of the Sahabah’s Ultimate Decency; translated by Badr Shahin,
 Ansariyan Publications - Qum, 1999.
 
-

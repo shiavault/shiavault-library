@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّما تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيامَةِ
-  </p>
-</blockquote>
+> إِنَّما تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيامَةِ
 
 ***“And you shall only be paid fully your reward on the resurrection
 day”***[^1]
 
 Imam Ali (peace be upon him) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْخَلْقَ لَا مَقْصَرَ لَهُمْ عَنِ الْقِيَامَةِ
-  </p>
-</blockquote>
+> إِنَّ الْخَلْقَ لَا مَقْصَرَ لَهُمْ عَنِ الْقِيَامَةِ
 
 ***“For the people, there is no escape from Qiyaamah”***[^2]
 
@@ -220,5 +212,4 @@ al-Wasaail, vol. 2, pg. 92.
 [^10]: Pand-e-Taareekh, vol. 4, pg. 208.
 
 [^11]: Sarmaayeh-e-Sa’adat, pg. 39.
-
 

@@ -27,12 +27,8 @@ Infallible Imams (a.s.) which emphasize the importance of this matter.
 e.g.: the following has been narrated from Imam al-Sadiq (a.s.) that
 God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: قال الله عزوجل: الخلق عيالى فاحبهم الى
-الطفهم بهم واسعاهم فى حوائجهم.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: قال الله عزوجل: الخلق عيالى فاحبهم الى
+> الطفهم بهم واسعاهم فى حوائجهم.
 
 *“My servants are my children, therefore, the most beloved persons
 before me are those who are kindest towards them and do their best in
@@ -40,12 +36,8 @@ taking care of their needs.”*[^1]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: الخلق عيال الله فاحب الخلق الى الله
-من نفع عيال الله وادخل على أهل بيت سرورا.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: الخلق عيال الله فاحب الخلق الى الله
+> من نفع عيال الله وادخل على أهل بيت سرورا.
 
 *“The people are God's children, therefore, the most beloved persons
 before God-Almighty are those whose benevolence reach to God's children,
@@ -53,12 +45,8 @@ thus, making their families happier full of joy.”*[^2]
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى جعفر عليه السلام قال: تبسم الرجل فى وجه اخيه حسنة وصرف القذى
-عنه حسنة وماعبد الله بشيء احب إلى الله من ادخال السرور على المؤمن.
-  </p>
-</blockquote>
+> عن ابى جعفر عليه السلام قال: تبسم الرجل فى وجه اخيه حسنة وصرف القذى
+> عنه حسنة وماعبد الله بشيء احب إلى الله من ادخال السرور على المؤمن.
 
 *“Smiling of a believer while encountering a fellow brother believer as
 well as solving his problems are accounted as righteous deeds. There is
@@ -67,12 +55,8 @@ joyful.”*[^3]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: من سر مؤمنا فقد سرنى ومن سرنى فقد سر رسول الله
-ومن سر رسول الله فقد سر الله ومن سر الله ادخله جنته.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: من سر مؤمنا فقد سرنى ومن سرنى فقد سر رسول الله
+> ومن سر رسول الله فقد سر الله ومن سر الله ادخله جنته.
 
 *“Whoever makes a believer happy has made me happy; whoever makes me
 happy has made the Holy Prophet (S) happy,. whoever has made the Holy
@@ -81,12 +65,8 @@ God-Almighty happy will enter into Paradise.”*[^4]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابوعبدالله عليه السلام: لقضا حاجة امرى مؤمن احب الى الله من عشرين
-حجة كل حجة ينفق فيها صاحبها ماة الف.
-  </p>
-</blockquote>
+> قال ابوعبدالله عليه السلام: لقضا حاجة امرى مؤمن احب الى الله من عشرين
+> حجة كل حجة ينفق فيها صاحبها ماة الف.
 
 *“Fulfillment of a believer's need before God-Almighty is more beloved
 than performance of Hajj pilgrimage for ten times each time spending ten
@@ -94,24 +74,16 @@ thousands.”*[^5]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: مشى المسلم فى حاجة المسلم خير من سبعين توافا
-بالبيت الحرام.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: مشى المسلم فى حاجة المسلم خير من سبعين توافا
+> بالبيت الحرام.
 
 *“To strive for fulfillment of Muslim's need is better than
 circumambulating around the Holy Kaba seventy times.”*[^6]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: ان لله عبادا من خلقه يفزع العباد عليهم فى
-حوائجهم اولئك هم الامنون.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: ان لله عبادا من خلقه يفزع العباد عليهم فى
+> حوائجهم اولئك هم الامنون.
 
 *“God-Almighty has created some of His special servants, that at the
 time of their needs, people take shelter in them. These are the ones who
@@ -144,5 +116,4 @@ invocation, and incantations.
 [^6]: Bihar al-Anwar vol. 74, p-311.
 
 [^7]: Bihar al-Anwar, vol. 74, p-318.
-
 

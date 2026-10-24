@@ -22,4 +22,3 @@ world, the friend of God, the mirror through which one can see God, the
 master, guide and perfect example in the journey toward God, the
 prophet, the Imam.
 
-

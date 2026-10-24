@@ -1,11 +1,7 @@
 Publishers' Note
 ================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 The Commander of the Faithful, Imam Ali, peace be on him, is the most
 distinguished personality of Islam after Prophet Muhammad, peace and
@@ -30,5 +26,4 @@ and popularity of the Arabic version of this book, the Islamic Seminary
 is presenting the English version for the English knowing readers. It is
 hoped that this book will enlighten the mind of our conscientious young
 generation and will inspire it to form an Islamic social order.
-
 

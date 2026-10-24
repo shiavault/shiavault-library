@@ -126,4 +126,3 @@ Alaikom, O friends of Allah..., etc.'”
 [^3]: These verses are from a poem by al-Ka’bi, may Allah have mercy on
 his soul.
 
-

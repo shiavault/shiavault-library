@@ -64,4 +64,3 @@ That is the reason that the Holy Prophet (S) has said: “The strongest
 support of faith is to love for Allah and to express hatred for the sake
 of Allah.”
 
-

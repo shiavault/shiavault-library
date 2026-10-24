@@ -208,4 +208,3 @@ they are both signs of Allah (s.w.t.), and He (s.w.t.) is only One? If
 one Ayatullah opposes another Ayatullah, will they both end up in Hell
 as per the Divine Verses?
 
-

@@ -20,10 +20,8 @@ supplicated the Imam (a.s.) with teary eyes.[^231]
 
 He then turned towards his companions and said:
 
-<p dir="rtl">
 اَرْضُ كَرْبٍ وَ بَلَاءٍ. هَا هُنَا مُنَاخُ رِكَابِنَا وَ مَحَطُّ
 رِحَالِنَا وَ سَفْكُ دِمَائِنَا.
-</p>
 
 *This is the place of agony and ordeal. This is the place where we, as
 well as our riding animals, will reside and our blood will be shed.*
@@ -36,12 +34,10 @@ coming events on this land.
 The Imam (a.s.) then raised his hands upward for supplicating to Allah
 (s.w.t.) and said:
 
-<p dir="rtl">
 اَللّٰهُمَّ إِنَّا عِتْرَةُ نَبِيِّكَ مُحَمَّدٍ(صلی الله علیه و آله و
 سلم) وَ قَدْ أُخْرِجْنَا وَ طُرِدْنَا وَ أُزْعِجْنَا عَنْ حَرَمِ
 جَدِّنَا وَ تَعَدَّتْ بَنُو أُمَيَّةَ عَلَيْنَا اَللّٰهُمَّ فَخُذْ لَنَا
 بِحَقِّنَا وَ انْصُرْنَا عَلَى الْقَوْمِ الظَّالِمِيْنَ‏.
-</p>
 
 *O Allah! We, the Household of Your Prophet Muhammad, have been banished
 away from the sanctum of our grandfather and have been oppressed by the
@@ -50,7 +46,6 @@ support us against the wrongdoers.[^232]*
 
 He then turned his face towards his Household and companions and said:
 
-<p dir="rtl">
 اِنَّ هٰذِهِ الدُّنْيَا قَدْ تَغَيَّرَتْ وَ تَنَكَّرَتْ وَ أَدْبَرَ
 مَعْرُوْفُهَا فَلَمْ يَبْقَ مِنْهَا إِلَّا صَبَابَةٌ كَصَبَابَةِ
 الْإِنَاءِ وَ خَسِيْسُ عَيْشٍ كَالْمَرْعَى الْوَبِيْلِ أَ لَا تَرَوْنَ
@@ -60,7 +55,6 @@ He then turned his face towards his Household and companions and said:
 إِلَّا بَرَمًا إِنَّ النَّاسَ عَبِيْدُ الدُّنْيَا وَ الدِّيْنُ لَعِقٌ
 عَلٰى أَلْسِنَتِهِمْ يَحُوْطُوْنَهٗ مَا دَرَّتْ مَعَايِشُهُمْ فَإِذَا
 مُحِّصُوا بِالْبَلَاءِ قَلَّ الدَّيَّانُوْنَ.
-</p>
 
 *This world has changed, snubbed, and its good has turned tail. Nothing
 has remained from it except a thing that is as scanty as the leftover of
@@ -231,15 +225,12 @@ waited whether the Imam (a.s.) would respond to them or fight.
 
 The Imam gathered all of his followers and gave a sermon:
 
-<p dir="rtl">
 أُثْنِي عَلَى اللَّهِ أَحْسَنَ الثَّنَاءِ وَ أَحْمَدُهٗ عَلَى
 السَّرَّاءِ وَ الضَّرَّاءِ اَللّٰهُمَّ إِنِّي أَحْمَدُكَ عَلٰى أَنْ
 أَكْرَمْتَنَا بِالنُّبُوَّةِ وَ عَلَّمْتَنَا الْقُرْآنَ وَ فَهَّمْتَنَا
 فِي الدِّينِ وَ جَعَلْتَ لَنَا أَسْمَاعًا وَ أَفْئِدَةً وَ لَمْ
 تَجْعَلْنَا مِنَ المُشْرِكِيْنَ.
-</p>
 
-<p dir="rtl">
 أَمَّا بَعْدُ فَإِنِّي لَا أَعْلَمُ أَصْحَابًا أَوْفٰى وَ لَا خَيْرًا
 مِنْ أَصْحَابِي وَ لَا أَهْلَ بَيْتٍ أَبَرَّ وَ لَا أَوْصَلَ مِنْ أَهْلِ
 بَيْتِي فَجَزَاكُمُ اللَّهُ عَنِّي خَيْرًا أَلَا وَ إِنِّي لَأَظُنُّ
@@ -249,7 +240,6 @@ The Imam gathered all of his followers and gave a sermon:
 جَمَلًا. وَ لْيَاخُذْ كُلُّ رَجُلٍ مِنْكُمْ بِيَدِ رَجُلٍ مِنْ اَهْلِ
 بَيْتِيْ وَ تَفَرَّقُوْا فِيْ سَوَادِ هٰذَا اللَّيْلِ وَ ذَرُوْنِيْ وَ
 هٰؤُلَاءِ الْقَوْمَ فَاِنَّهُمْ لَا يُرِيْدُوْنَ غَيْرِيْ.
-</p>
 
 *I praise Allah (s.w.t.) with the best words of praise and thank Him for
 good times and bad times. O Allah! I do praise You for You have honored
@@ -309,14 +299,12 @@ ordeals after him. My aunt Zaynab (a.s.), like other women who are
 prevailed by tenderheartedness, could not control herself. She ran
 towards him with uncovered head and shouted before him:
 
-<p dir="rtl">
 وَاثُكْلَاهُ! وَا حُزْنَاهُ! لَيْتَ الْمَوْتَ اَعْدَمَنِيَ الْحَيَاةَ!
 يَا حُسَيْنَاهُ! يَا سَيِّدَاهُ! يَا بَقِيَّةَ اَهْلِ بَيْتَاهُ!
 اَسْتَسْلَمْتَ لِلْمَوْتِ وَ يَئِسْتَ مِنَ الْحَيَاةِ؟ الْيَوْمَ مَاتَ
 جَدِّيْ رَسُوْلَ اللهِ ، الْيَوْمَ مَاتَتْ اُمِّيْ فَاطِمَةُ
 الزَّهْرَاءُ وَ اَبِيْ عَلِيٌّ الْمُرْتَضٰي وَ اَخِيْ الْحَسَنُ
 الزَّكِيُّ. يَا خَلِيْفَةَ الْمَاضِيْنَ وَ ثِمَالَ الْبَاقَيْنَ.
-</p>
 
 *O, for my losing you! O, for my grief for you! May demise deprive me of
 life! Oh, for al-Husain (a.s.) ! Oh, for my master! Oh, for the only
@@ -330,9 +318,7 @@ ones and the lasting of the survivors.”*
 Hearing these words from his beloved sister, Imam al-Husain (a.s.)
 looked at her and said:
 
-<p dir="rtl">
 يَا اُخْتَاهُ، لَا يَذْهَبَنَّ بِحِلْمِكَ الشَّيْطَانُ.
-</p>
 
 *O dear sister!Do not let Shaitan seize your toleration.*
 
@@ -341,10 +327,8 @@ revolt, they wronged me.”*
 
 She then shouted:
 
-<p dir="rtl">
 يَا وَيْلَتَاهُ! اَتَغْتَصِبُ نَفْسَكَ اغْتِصَابًا؟ فَذَاكَ اَقْرَحُ
 لِقَلْبِيْ وَ اَشَدُّ عَلٰي نَفْسِيْ.
-</p>
 
 *Oh, woe! Do you take your soul by force? This is indeed more painful
 and more difficult for me to tolerate.*
@@ -353,20 +337,16 @@ She then slapped her face, tore her cloth,and fell to the ground losing
 consciousness. The Imam (a.s.) hurried to pour water on her face. When
 she regained consciousness, he consoled her with the following words:
 
-<p dir="rtl">
 يَا أُخْتَاهُ! اِتَّقِيْ اللَّهَ وَ تَعَزّٰيْ بِعَزَاءِ اللَّهِ وَ
 اعْلَمِيْ أَنَّ أَهْلَ الْأَرْضِ يَمُوْتُوْنَ وَ أَهْلَ السَّمَاءِ لَا
 يَبْقَوْنَ وَ أَنَّ كُلَّ شَيْ‏ءٍ هَالِكٌ إِلَّا وَجْهَ اللَّهِ الَّذِي
 خَلَقَ الْخَلْقَ بِقُدْرَتِه وَ اِلَيْهِ يَعُوْدُوْنَ وَ هُوَ فَرْدٌ
 وَاحِدٌ. وَ اِنْ  أَبِي خَيْرٌ مِنِّي وَ أَخِي خَيْرٌ مِنِّي وَ لِكُلِّ
 مُسْلِمٍ بِرَسُولِ اللَّهِ أُسْوَةٌ
-</p>
 
-<p dir="rtl">
 يَا أُخْتَاهُ إِنِّي أَقْسَمْتُ عَلَيْكِ فَأَبِرِّي قَسَمِيْ: لَا
 تَشُقِّي عَلَيَّ جَيْبًا وَ لَا تَخْمِشِي عَلَيَّ وَجْهًا وَ لَا
 تَدْعٰيْ عَلَيَّ بِالْوَيْلِ وَ الثُّبُورِ إِذَا أَنَا هَلَكْتُ.
-</p>
 
 *O dear sister: Fear Allah (s.w.t.), consoles yourself with the
 consolation of Allah (s.w.t.), and knows that inhabitants of this earth
@@ -459,5 +439,4 @@ their lives. She therefore directed towards the tent of the leader, Imam
 al-Husain (a.s.), to report these news to him. The Imam (a.s.) thanked
 for them these situations and told his sister that those individuals
 were the choice of the Almighty Allah.[^245]
-
 

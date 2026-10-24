@@ -133,11 +133,7 @@ is that they have got respite and their punishment has been postponed:
 as mentioned in the *Tafseer* of Ali bin Ibrahim al-Qummi (r.a.) in the
 interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
-  </p>
-</blockquote>
+> فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
 
 ***“So (O Muhammad) grant the unbelievers a respite.”*** (Qur’an, Surah
 Tariq 86:17)
@@ -183,11 +179,7 @@ the reappearance of His Eminence would enter their graves as mentioned
 in *al-Muhajjja* from Imam Sadiq (as) under the explanation of the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ
 
 ***“And on that day the believers shall rejoice with the help of Allah.”
 (Qur’an, Surah Rum 30:4-5)***
@@ -268,11 +260,7 @@ is making apparent is all essence and form; by this explanation the
 implication of *Noor* is on Allah, the Mighty and the High as mentioned
 in the verse:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
-  </p>
-</blockquote>
+> اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
 
 ***“Allah is the light of the heavens and the earth.” (Qur’an, Surah
 Noor 24:35)***
@@ -316,28 +304,16 @@ Himself with this quality, such that there is no further need of proofs.
 Verses revealed about thankfulness expected from the people due to His
 creation of the Sun and the Moon, Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
-  </p>
-</blockquote>
+> وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
 
 ***“And made the moon therein a light, and made the sun a lamp?”
 (Qur’an, Surah Nuh 71:16)***
 
 Verses in which Allah has sworn by the Sun and the Moon, for example:
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّمْسِ وَضُحَاهَا
-  </p>
-</blockquote>
+> وَالشَّمْسِ وَضُحَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالْقَمَرِ إِذَا تَلَاهَا
-  </p>
-</blockquote>
+> وَالْقَمَرِ إِذَا تَلَاهَا
 
 ***“I swear by the sun and its brilliance, and the moon when it follows
 the sun.” (Qur’an, Surah Shams 91:1-2)***
@@ -485,11 +461,7 @@ Kabuli that he said:
 “I asked Abu Ja’far (as) concerning the words of Allah, to Whom belong
 Might and Majesty:
 
-<blockquote dir="rtl">
-  <p>
-فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا
-  </p>
-</blockquote>
+> فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا
 
 ***“Therefore believe in Allah and His Messenger and in the Light which
 we have sent down…” (Qur’an, Surah Taghabun 64:8)***
@@ -505,12 +477,8 @@ book has written that:
 His Eminence, Abi Abdillah (as) said, concerning the words of Allah, the
 Sublime:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبَعُوا النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> وَاتَّبَعُوا النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 ***“…and follow the Light that has been sent down with him, - they are
 the prosperous…” (Qur’an, Surah Araaf 7:157)***
@@ -521,11 +489,7 @@ The Light in this matter is Ali, Amir al-Momineen and the Imams
 3. And also His Eminence, Abu Ja’far Baqir (as) has said regarding the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْعَلْ لَكُمْ نُورًا تَمْشُونَ بِهِ
-  </p>
-</blockquote>
+> وَيَجْعَلْ لَكُمْ نُورًا تَمْشُونَ بِهِ
 
 ***“He will appoint for you a light whereby you shall walk.” (Qur’an,
 Surah Hadid 57:28)***
@@ -535,11 +499,7 @@ It means an Imam who is to be followed.”[^16]
 4. Also His Eminence, Imam Ja’far Sadiq (as) has remarked with reference
 to the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا
-  </p>
-</blockquote>
+> لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا
 
 ***“…And to whomsoever Allah assigns no light…” (Qur’an, Surah Noor
 24:40)***
@@ -783,11 +743,7 @@ the people to guard and be regular in the *‘Wusta’* (middle) prayer,
 from the view that first He has exhorted them to be constant in all the
 Prayers. Also in the Holy Qur’an it says:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
-  </p>
-</blockquote>
+> وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا
 
 ***“And thus We have made you a medium (just) nation…” (Qur’an, Surah
 Baqarah 2:143)***
@@ -1236,11 +1192,7 @@ tradition that the honorable Shaykh, Ali bin Ibrahim Qummi (q.s.) has
 narrated from Mufaddal bin Umar that His Eminence, Abu Abdillah Sadiq
 (as) said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا
-  </p>
-</blockquote>
+> وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا
 
 ***“And the earth shall beam with the light of its Lord.” (Qur’an, Surah
 Zumar 39:69)***
@@ -1296,11 +1248,7 @@ abodes of the people of Paradise.”[^42]
 Sayyid Bahrani has also mentioned in his *Tafseer Burhan* from Imam
 Ja’far Sadiq (as) that he said:
 
-<blockquote dir="rtl">
-  <p>
-يَسْعَىٰ نُورُهُمْ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ
-  </p>
-</blockquote>
+> يَسْعَىٰ نُورُهُمْ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ
 
 ***“Their light running before them, and on their right hands… (Qur’an,
 Surah Hadid 57:12)***
@@ -1402,22 +1350,14 @@ Qummi* that he said:
 Imams would recognize their friends and their enemies by their faces and
 this is mentioned in the words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى الْأَعْرَافِ رِجَالٌ
-  </p>
-</blockquote>
+> وَعَلَى الْأَعْرَافِ رِجَالٌ
 
 ***“And on the most elevated places there shall be men.” (Qur’an, Surah
 Araaf 7:46)***
 
 They are the Imams.
 
-<blockquote dir="rtl">
-  <p>
-يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
-  </p>
-</blockquote>
+> يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ
 
 ***“Who know all by their marks.”*** (Qur’an, Surah Araaf 7:46)
 
@@ -1429,11 +1369,7 @@ towards Hell without any accounting.”[^48]
 In the same book it is narrated from His Eminence, Abu Ja’far Baqir (as)
 that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ
-  </p>
-</blockquote>
+> لِلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ
 
 ***“For those who do good is good (reward) and more (than this).”
 (Qur’an, Surah Yunus 10:26)***
@@ -1489,13 +1425,9 @@ you!”[^50]
 And in that same book it is quoted from *Amali* of Shaykh Tusi from His
 Eminence, Abu Ja’far Baqir (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا
-رَحِيمًا
-  </p>
-</blockquote>
+> إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا
+> رَحِيمًا
 
 ***“Except him who repents and believes and does a good deed; so these
 are they of whom Allah changes the evil deeds to good ones; and Allah is
@@ -1578,14 +1510,10 @@ tradition:
 thanked the Almighty for the great bounty, that is the *Wilayat* of the
 Imam and his being is. The Almighty Allah says in Surah Raad:
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِينَ اسْتَجَابُوا لِرَبِّهِمُ الْحُسْنَىٰ ۚ وَالَّذِينَ لَمْ
-يَسْتَجِيبُوا لَهُ لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا
-وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهِ ۚ أُولَٰئِكَ لَهُمْ سُوءُ
-الْحِسَابِ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمِهَادُ
-  </p>
-</blockquote>
+> لِلَّذِينَ اسْتَجَابُوا لِرَبِّهِمُ الْحُسْنَىٰ ۚ وَالَّذِينَ لَمْ
+> يَسْتَجِيبُوا لَهُ لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا
+> وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهِ ۚ أُولَٰئِكَ لَهُمْ سُوءُ
+> الْحِسَابِ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمِهَادُ
 
 ***“For those who respond to their Lord is good; and (as for) those who
 do not respond to Him, had they all that is in the earth and the like
@@ -1596,11 +1524,7 @@ evil is the resting-place.” (Qur’an, Surah Raad 13:18)***
 In *Biharul Anwar* it is narrated from Ayyashi through his own chain of
 narrators that Imam Sadiq (as) said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَأْوَاهُمْ جَهَنَّم
-  </p>
-</blockquote>
+> وَمَأْوَاهُمْ جَهَنَّم
 
 ***“An evil reckoning shall be theirs.”***
 
@@ -1690,13 +1614,9 @@ his own evil deeds.
 
 In the book of *al-Muhajja* under the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
-وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
-  </p>
-</blockquote>
+> الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
+> وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
 
 ***“Those who, should We establish them in the land, will keep up prayer
 and pay the poor-rate and enjoin good and forbid evil; and Allah’s is
@@ -1882,12 +1802,8 @@ By Allah three hundred and odd persons, among whom would be fifty women,
 would come and gather at Mecca without fail, like autumnal clouds and
 this is what the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ
-عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ
+> عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“Wherever you are, Allah will bring you all together; surely Allah
 has power over all things.” (Qur’an, Surah Baqarah 2:148)***
@@ -1940,12 +1856,8 @@ from my father and you are not to be blamed for that. I have heard my
 father saying: By Allah, it has been mentioned in the Qur’an. Allah has
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ
-أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
-  </p>
-</blockquote>
+> إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ
+> أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
 
 ***“If We please, We should send down upon them a sign from the heaven
 so that their necks should stoop to it.” (Qur’an, Surah Shuara 26:4)***
@@ -2468,5 +2380,4 @@ the end of this section. (The Author)
 [^92]: Biharul Anwar; Vol. 51, Pg. 92
 
 [^93]: Ihtijaaj; Vol. 2, Pg. 279
-
 

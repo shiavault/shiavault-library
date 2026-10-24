@@ -64,7 +64,7 @@ The Messenger of Allah (s.a.w.s.) stroked the chest of Mu’az and said,
 When the Holy Prophet (s.a.w.s.) passed away from this world, Mu’az ibn
 Jabal was in Yemen . Abu Bakr approved the governorship and juristic
 post of Mu’az in Yemen , but during the caliphate of Umar he was ordered
-to go to Sham where he expired in the 18<sup>th</sup> year of Hijrah.
+to go to Sham where he expired in the 18th year of Hijrah.
 
 A noteworthy point in the life history of Mu’az is that when this young
 man who was appointed by the Holy Prophet (s.a.w.s.) on an important

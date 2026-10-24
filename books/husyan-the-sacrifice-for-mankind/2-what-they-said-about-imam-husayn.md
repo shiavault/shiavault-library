@@ -41,4 +41,3 @@ As I write it all comes back; the wailing chant, the sobbing multitudes,
 the white raiment red with blood from self-inflicted wounds, the
 intoxication of grief and sympathy.”
 
-

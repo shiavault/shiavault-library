@@ -53,14 +53,10 @@ are two things:
 
 The Holy Qur’an, very clearly states:
 
-<blockquote dir="rtl">
-  <p>
-بَلَى مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُوْلَئِكَ
-أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ وَالَّذِينَ آمَنُوا
-وَعَمِلُوا الصَّالِحَاتِ أُوْلَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا
-خَالِدُونَ
-  </p>
-</blockquote>
+> بَلَى مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُوْلَئِكَ
+> أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ وَالَّذِينَ آمَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ أُوْلَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا
+> خَالِدُونَ
 
 ***“Yea! Whoever earns evil and his sins beset him on every side, these
 are the inmates of the fire; in it they shall abide.*** ***And (as for)
@@ -123,15 +119,11 @@ the connection between the rewards and punishments with the deeds of man
 is purely imagined and hypostatized. For example, consider the verse
 mentioned below:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ بِأَمَانِيِّكُمْ وَلاَ أَمَانِيِّ أَهْلِ الْكِتَابِ مَنْ
-يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلاَ يَجِدْ لَهُ مِنْ دُونِ اللَّهِ
-وَلِيًّا وَلاَ نَصِيرًا وَمَنْ يَعْمَلْ مِنْ الصَّالِحَاتِ مِنْ ذَكَرٍ
-أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُوْلَئِكَ يَدْخُلُونَ الْجَنَّةَ وَلاَ
-يُظْلَمُونَ نَقِيرًا
-  </p>
-</blockquote>
+> لَيْسَ بِأَمَانِيِّكُمْ وَلاَ أَمَانِيِّ أَهْلِ الْكِتَابِ مَنْ
+> يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلاَ يَجِدْ لَهُ مِنْ دُونِ اللَّهِ
+> وَلِيًّا وَلاَ نَصِيرًا وَمَنْ يَعْمَلْ مِنْ الصَّالِحَاتِ مِنْ ذَكَرٍ
+> أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُوْلَئِكَ يَدْخُلُونَ الْجَنَّةَ وَلاَ
+> يُظْلَمُونَ نَقِيرًا
 
 ***“Whoever does evil shall be recompensed for it, nor will he find for
 himself, besides Allah, any guardian or a helper.*** ***And whoever does
@@ -197,12 +189,8 @@ shall witness the real outcome of his deeds, which shall be the fire.
 Two verses from those under consideration, for the purpose of more
 elucidation of this aspect is being mentioned.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
 
 ***“Verily, those who eat away the properties of the orphans unjustly,
 they swallow (only) fire into their bellies; and they shall enter into
@@ -213,12 +201,8 @@ just a hypostatized punishment for eating the property of an orphan, but
 the very property itself is a meanness, which shall manifest itself in
 this form.
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَنْ نَفْسِهَا وَتُوَفَّى كُلُّ
-نَفْسٍ مَا عَمِلَتْ وَهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَنْ نَفْسِهَا وَتُوَفَّى كُلُّ
+> نَفْسٍ مَا عَمِلَتْ وَهُمْ لاَ يُظْلَمُونَ
 
 ***“(Remember) the day when every soul shall come, pleading for itself,
 and every soul shall be recompensed fully for what it has done and they
@@ -244,11 +228,7 @@ only imaginary and hypostatized.
 Anyway, it appears that, the best expression which could describe the
 type of this connection, is the famous sentence which says:
 
-<blockquote dir="rtl">
-  <p>
-الدنيا مزرعة الأخرة
-  </p>
-</blockquote>
+> الدنيا مزرعة الأخرة
 
 “***The world is a farm for the hereafter.”*** [^5]
 
@@ -274,5 +254,4 @@ that could not be possibly imagined. (**ألّلهمّ ارزقنا**)
 
 [^5]: Bihar-ul-Anwar, Vol. 7, Pg., 353, Vol. 73, Pg. 148 (as quoted by
 some of the researchers).
-
 

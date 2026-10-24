@@ -84,4 +84,3 @@ of books of Sunni traditions. It is clear that in this book, the writer
 has not depended on books of Imamiyah religion. Whatever is mentioned in
 this book is through Sunni efforts.
 
-

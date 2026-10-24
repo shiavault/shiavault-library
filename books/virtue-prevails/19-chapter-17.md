@@ -23,4 +23,3 @@ for a moment and felt that he was being honest.
 
 She said, "I do forgive you. Actually, I feel sorry for men like you."
 
-

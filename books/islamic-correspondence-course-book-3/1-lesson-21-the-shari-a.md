@@ -169,4 +169,3 @@ principles.
 This lesson is based on An Introduction to the Shari’a by Sayyid M.
 Rizvi
 
-

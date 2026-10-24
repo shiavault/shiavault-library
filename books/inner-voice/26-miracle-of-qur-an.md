@@ -51,4 +51,3 @@ himself known as ‘Amon’, to arrange it?
 These scientific miracles of today are sufficient to make a man believe
 that this book is a book of God, containing the eternal truth.
 
-

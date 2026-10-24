@@ -664,4 +664,3 @@ Ahlul Bayt (s). Refer to our book al-Fusool al-Muhimma for there is what
 delights the hearts of the umma especially in the first seven
 chapters.
 
-

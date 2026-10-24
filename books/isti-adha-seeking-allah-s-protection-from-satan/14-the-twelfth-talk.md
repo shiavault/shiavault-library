@@ -1,20 +1,12 @@
 The Twelfth Talk
 ================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts*** ***them, they become mindful (of God and get
@@ -36,7 +28,6 @@ whenever he hovers around their heart for a chance to enslave them, they
 busy themselves in the Remembrance of Allah (S.w.T.). Thus their hearts
 are illumined, they become aware of Satan’s trickery and with the power
 of *Isti’adha* chase him away.
-
 
 The Supplication of Imam Sajjad (a.s.)
 --------------------------------------
@@ -75,7 +66,6 @@ The foolish house owner couldn’t realize there was someone there who was
 playing a trick on him. Hence, he gave up his efforts and retired to
 sleep again. The thief then did his work and departed.
 
-
 A Thief in the Heart
 --------------------
 
@@ -90,7 +80,6 @@ clutches of Satan. In such a situation, however much one sermonizes
 about Allah (S.w.T.), the Prophet and the Imams (a.s.) he will not see
 any reason. Satan will not allow the litigant to mend his attitude more
 because he is not a man of piety.
-
 
 Refrain from Fights Even if you Are Right
 -----------------------------------------
@@ -110,7 +99,6 @@ the mosque in obedience to Allah (S.w.T.)? If they have come with Allah
 (S.w.T.)’s call, then why are they so self-conscious? If they refrain
 from fights and adopt piety, then only they will have vision and get
 deliverance.
-
 
 The Patience Of Hadrat Dhul Kifl (a.s.)
 ---------------------------------------
@@ -139,7 +127,6 @@ resolve. Hadrat Dhul Kifl (a.s.) was resolved to prevent the thought of
 anger ever crossing his mind. He stood like a mountain against all the
 efforts of Satan to provoke anger in him.
 
-
 Satan Seeks Help
 ----------------
 
@@ -153,7 +140,6 @@ whole night. During the day he kept himself busy attending to the tasks
 of people till *Dhuhr* prayer. He used to sleep at this time and awake
 at the time of *Asr.* Thereafter he used to busy himself in the service
 of people.
-
 
 Satan Knocks At The Door
 ------------------------
@@ -178,7 +164,6 @@ him and gave a letter in the name of the respondent.
 
 Abyad went away and Hadrat Dhul Kifl (a.s.) was unable to sleep even on
 that day.
-
 
 Satan Gets Frustrated
 ---------------------
@@ -222,7 +207,4 @@ It is not only Ibn Ziyad who perpetrated such foul behavior. Anyone
 whose heart is blind and deaf will have such tendencies. Any talk of
 remembrance of Allah (S.w.T.) will fall on the flat ears of such
 persons.
-
-
-
 

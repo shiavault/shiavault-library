@@ -155,4 +155,3 @@ purpose and the inner feeling of responsible behaviour, ability to go
 beyond the self to be in harmony with man within this inclusive cosmic
 frame, with eternity, immortality that both encompass him.
 
-

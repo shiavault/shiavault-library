@@ -23,12 +23,8 @@ his blessed name.
 
 The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلَّـى عَلَيَّ فِي كِتَابٍ لَمْ تَزَلِ الْمَلاَئِكَةُ
-تَسْتَغْفِرُ لَهُ مَا دَامَ إِسْمِـي فِي ذٌلِكَ الْكِتَابِ
-  </p>
-</blockquote>
+> مَنْ صَلَّـى عَلَيَّ فِي كِتَابٍ لَمْ تَزَلِ الْمَلاَئِكَةُ
+> تَسْتَغْفِرُ لَهُ مَا دَامَ إِسْمِـي فِي ذٌلِكَ الْكِتَابِ
 
 “Whoever sends blessings on me in writing, the Angels will continue to
 ask forgiveness for him for as long as my name is in that book (or
@@ -79,5 +75,4 @@ pg. 347 (The section of Writing and Keeping Books)
 
 [^2]: In most English publications, this is written as (S), (s), (SAW),
 (saws), (pbuh&hf) and other such ways. (Tr.)
-
 

@@ -193,4 +193,3 @@ http://www.sims.berkeley.edu/~hal/Papers/how.pdf.)
 Weeramantry, C. G. (1988), Islamic Jurisprudence: An International
 Perspective, St. Martin's Press, New York.
 
-

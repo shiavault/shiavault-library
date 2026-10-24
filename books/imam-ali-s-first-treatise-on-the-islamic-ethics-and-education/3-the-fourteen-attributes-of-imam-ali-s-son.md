@@ -7,11 +7,7 @@ following fourteen attributes for his son's self-improvement:
 To a son who hopes for what is unattainable
 -------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-“الى المَولُود المؤمِّل ما لا يُدْرَك”
-  </p>
-</blockquote>
+> “الى المَولُود المؤمِّل ما لا يُدْرَك”
 
 God has equipped man with instincts and desires to be able to sustain
 life. If these instincts and desires are employed in the right
@@ -20,12 +16,8 @@ Our wishes, too, are among these means:
 If man lacked these wishes, life would be impossible.
 Regarding this, the Great Prophet (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"الأمَلُ رَحمَةٌ لأمَّتي وَلَولا الأمَلِ مَا رَضَّعَت وَالِدَةٌ
-وَلَدَها وَلا غَرَسَ غَارِسٌ شَجَراً"
-  </p>
-</blockquote>
+> "الأمَلُ رَحمَةٌ لأمَّتي وَلَولا الأمَلِ مَا رَضَّعَت وَالِدَةٌ
+> وَلَدَها وَلا غَرَسَ غَارِسٌ شَجَراً"
 
 *"Hope is a mercy for my people. If hope did not exist no mother would
 ever breastfeed her child and no gardener would ever plant a tree."*[^1]
@@ -48,17 +40,13 @@ on extremes.
 
 Imam ‘Ali (as) in the sermon 42 of Nahj al-Balaghah states:
 
-<blockquote dir="rtl">
-  <p>
-"اَيُّها النّاسُ اِنَّ اَخوَفَ مَا اَخافُ عَلَيكُم اِثنَانِ: اتِّبَاعُ
-الهَوَى وَطُولُ الأمَلِ فامَّا اتِّبَاعُ الهَوَى فَيَصُدُّ عَنِ
-الحَقِّ وَامَّا طُولُ الأمَلِ فَيُنسِي الآخِرَةَ. اَلا واِنَّ
-الدُّنيَا قَد وَلَّت حذّاءُ فلم يبق منها الا صبابة كصبابة الاناء
-اصطبَّها صابّها الا وان الآخرة قد اقبلت ولكل منهما بنون فكونوا من
-ابناء الآخرة ولا تكونوا من ابناء الدنيا فان كل ولد سيلحق بأمه يوم
-القيامة وان اليوم عمل ولا حساب وغدا حساب ولا عمل"
-  </p>
-</blockquote>
+> "اَيُّها النّاسُ اِنَّ اَخوَفَ مَا اَخافُ عَلَيكُم اِثنَانِ: اتِّبَاعُ
+> الهَوَى وَطُولُ الأمَلِ فامَّا اتِّبَاعُ الهَوَى فَيَصُدُّ عَنِ
+> الحَقِّ وَامَّا طُولُ الأمَلِ فَيُنسِي الآخِرَةَ. اَلا واِنَّ
+> الدُّنيَا قَد وَلَّت حذّاءُ فلم يبق منها الا صبابة كصبابة الاناء
+> اصطبَّها صابّها الا وان الآخرة قد اقبلت ولكل منهما بنون فكونوا من
+> ابناء الآخرة ولا تكونوا من ابناء الدنيا فان كل ولد سيلحق بأمه يوم
+> القيامة وان اليوم عمل ولا حساب وغدا حساب ولا عمل"
 
 *“O people! The greatest things that I fear for you are two: following
 (your) desires and farfetched hopes.*
@@ -90,13 +78,9 @@ not to follow all of our desires; he says this is impossible.[^5]
 Thus, it is better for us to limit our hopes and only make use of them
 rationally, Imam ‘Ali (as) has said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اَيقَنَ انَّهُ يُفارِقُ الأحبَابَ وَيَسكُنُ التُرابَ وَيواجِهُ
-الحِسَابَ وَيَستَغنِي عَمَّا خَلَّفَ وَيَفتَقِرُ اِلى مَا قَدَّمَ
-كَانَ حَريّاً بِقُصرِ الأمَلِ وَطُولِ العَمَلِ"
-  </p>
-</blockquote>
+> "مَن اَيقَنَ انَّهُ يُفارِقُ الأحبَابَ وَيَسكُنُ التُرابَ وَيواجِهُ
+> الحِسَابَ وَيَستَغنِي عَمَّا خَلَّفَ وَيَفتَقِرُ اِلى مَا قَدَّمَ
+> كَانَ حَريّاً بِقُصرِ الأمَلِ وَطُولِ العَمَلِ"
 
 *"It is appropriate for a person who is certain that he will part from
 loved ones, dwell within the earth, confront the reckoning, and have no
@@ -108,11 +92,7 @@ think about God’s consent.
 2. The Follower of the path of those who have perished
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-"السالك سبيل من قد هلك"
-  </p>
-</blockquote>
+> "السالك سبيل من قد هلك"
 
 What is meant by this expression is that the child from the day it is
 born is on the scale of growth and it develops: It finishes infancy and
@@ -134,11 +114,7 @@ for future walkers!!
 3. Prey to Illnesses
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-“ غرض الاسقام”
-  </p>
-</blockquote>
+> “ غرض الاسقام”
 
 Material life entails complexities and clashes. If one is weaker, these
 clashes take on a strong side.
@@ -150,15 +126,11 @@ the like.
 Imam ‘Ali (as), in the sermon 217 of Nahj al-Balaghah, concerning this,
 states:
 
-<blockquote dir="rtl">
-  <p>
-"دَارٌ بِالبَلاء مَحفُوفَةٌ وَبِالغَدْرِ مَعْرُوفَةٌ لا تَدُومُ
-اَحوَالهُا وَلا تَسْلَمُ نُزّالُها، اَحوَالٌ مُختَلِفَةٌ وَتَارَاتٌ
-مُتَصَرِّفَةٌ، العَيشُ فِيهَا مَذمُومٌ وَالأمَانُ مِِنهَا مَعدُومٌ
-وَاِنَّما اَهلُهَا فِِيهَا اَغرَاضٌ مُستَهدَفَةٌ تَرمِيهِم
-بِسِهَامِهَا وَتَفنِيهِم بِحِِمَامِها"
-  </p>
-</blockquote>
+> "دَارٌ بِالبَلاء مَحفُوفَةٌ وَبِالغَدْرِ مَعْرُوفَةٌ لا تَدُومُ
+> اَحوَالهُا وَلا تَسْلَمُ نُزّالُها، اَحوَالٌ مُختَلِفَةٌ وَتَارَاتٌ
+> مُتَصَرِّفَةٌ، العَيشُ فِيهَا مَذمُومٌ وَالأمَانُ مِِنهَا مَعدُومٌ
+> وَاِنَّما اَهلُهَا فِِيهَا اَغرَاضٌ مُستَهدَفَةٌ تَرمِيهِم
+> بِسِهَامِهَا وَتَفنِيهِم بِحِِمَامِها"
 
 *"(The world is) a house surrounded by affliction, known for its
 treachery. Its states do not last and its inhabitants do not remain
@@ -168,11 +140,7 @@ them with its arrows and destroys them with death”.*
 Thus, man is subject to both diseases and disasters and misfortunes.
 Man struggles with these till he passes away and gets to safety.
 
-<blockquote dir="rtl">
-  <p>
-"لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ"
-  </p>
-</blockquote>
+> "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ"
 
 ***“Certainly we have created man to be in distress”.***[^7]
 
@@ -183,11 +151,7 @@ Once again there will be a day as sweet as sugar.
 4. A pawn in the hands of time
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ورهينة الايام”
-  </p>
-</blockquote>
+> “ورهينة الايام”
 
 As the property is mortgaged to the mortgagee during the mortgage time
 and when the time comes, it goes back to its genuine owner, man is also
@@ -203,12 +167,8 @@ Thus, man is extremely miserable and vulnerable. With this amount of
 misery and vulnerability, he should not be left ignorant and proud. The
 Imam (as) guides us in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-"مَا لأبْنِ آدَمَ وَالفَخْرِ: اَوَّلُه نُطْفَةٌ، وَآخِرُهُ جِيفَةٌ، لا
-يَرْزُقُ نَفَسَه وَلا يَدْفَعُ حَتفَهُ"
-  </p>
-</blockquote>
+> "مَا لأبْنِ آدَمَ وَالفَخْرِ: اَوَّلُه نُطْفَةٌ، وَآخِرُهُ جِيفَةٌ، لا
+> يَرْزُقُ نَفَسَه وَلا يَدْفَعُ حَتفَهُ"
 
 *“What does the son of Adam have to do with pride? His beginning was a
 drop and his end is a corpse. He can neither provide sustenance for
@@ -217,11 +177,7 @@ himself nor can he drive away his death”.*[^8]
 5. The target of misfortunes
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ورمية المصائب”
-  </p>
-</blockquote>
+> “ورمية المصائب”
 
 This phrase, like the third phrase (prey to illnesses) shows that man is
 always subject to all sorts of diseases and hardships. The difference
@@ -231,11 +187,7 @@ whereas No 3 refers to bodily afflictions.
 6. A Slave of the world
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-“عبدَ الدنيا”
-  </p>
-</blockquote>
+> “عبدَ الدنيا”
 
 A person, who can not resist the world's transitory materialistic
 manifestations and easily yields to them, is a slave to the world, to
@@ -244,13 +196,9 @@ Many people, when confronted with material things and justice, prefer
 the worldly affairs and yield to its luxuries. Imam Husayn (as),
 describing such people, states:
 
-<blockquote dir="rtl">
-  <p>
-"النّاسُ عَبِيدُ الدُّنيا وَالدِّينُ لَعِقٌ عَلى اَلسِنَتِهِم
-يَحُوطُونَهُ حَيثُ مَا دَرَّت مَعَايشُهُم فَاِذَا مُحِّصُوا لِلبَلاءِ
-قَلَّ الديّانُونَ"
-  </p>
-</blockquote>
+> "النّاسُ عَبِيدُ الدُّنيا وَالدِّينُ لَعِقٌ عَلى اَلسِنَتِهِم
+> يَحُوطُونَهُ حَيثُ مَا دَرَّت مَعَايشُهُم فَاِذَا مُحِّصُوا لِلبَلاءِ
+> قَلَّ الديّانُونَ"
 
 *"People are slaves to the world and religion is a substance on their
 tongues that they sample. They take care of it as long as their
@@ -264,22 +212,14 @@ infallible.
 7. A Trader in vanities
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-“وتاجر الغرور”
-  </p>
-</blockquote>
+> “وتاجر الغرور”
 
 As we have previously mentioned, the world is a house of trade. Most
 people sell their precious lives for a provision of vanity. They would
 sell their Hereafter for this world:
 
-<blockquote dir="rtl">
-  <p>
-"أُوْلَئِكَ الَّذِينَ اشْتَرَوْا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
-فَلَا يُخَفَّفُ عَنْهُمْ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ "
-  </p>
-</blockquote>
+> "أُوْلَئِكَ الَّذِينَ اشْتَرَوْا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
+> فَلَا يُخَفَّفُ عَنْهُمْ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ "
 
 ***“These are they who buy the life of this world for the Hereafter, so
 their chastisement shall not be lightened nor shall they be
@@ -288,20 +228,12 @@ helped”.***[^10]
 Although these people realize that the world is nothing more than "a
 provision of vanity"
 
-<blockquote dir="rtl">
-  <p>
-"وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ"
-  </p>
-</blockquote>
+> "وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ"
 
 ***“And the life of this world is nothing but a provision of
 vanities”.***[^11]
 
-<blockquote dir="rtl">
-  <p>
-"كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً"
-  </p>
-</blockquote>
+> "كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً"
 
 ***“Their deeds are like the mirage in a desert, which the thirsty man
 deems to be water”.***[^12]
@@ -310,19 +242,11 @@ They prefer this world to the Hereafter. They give precedence to
 possessions, positions, children and desires before God's pleasure and
 the Hereafter. They buy things on the face of them whereas
 
-<blockquote dir="rtl">
-  <p>
-"وَلا تِجَارَةٍ كَالعَمَلِ الصَّالِحِ"
-  </p>
-</blockquote>
+> "وَلا تِجَارَةٍ كَالعَمَلِ الصَّالِحِ"
 
 *“There is no trade like good deeds”.*[^13]
 
-<blockquote dir="rtl">
-  <p>
-"مَن تَاجَرَ اللهَ رَبِحَ"
-  </p>
-</blockquote>
+> "مَن تَاجَرَ اللهَ رَبِحَ"
 
 *“Whoever trades with God, profits.”*[^14]
 
@@ -330,16 +254,12 @@ On the other hand, there are those who offer to God what they have,
 including their lives, possessions, and children. What they are looking
 for in this transaction is God's pleasure:
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ اللَّهَ اشْتَرَى مِنْ الْمُؤْمِنِينَ أَنفُسَهُمْ
-وَأَمْوَالَهُمْ بِأَنَّ لَهُمْ الْجَنَّةَ يُقَاتِلُونَ فِي سَبِيلِ
-اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِي
-التَّوْرَاةِ وَالْإِنجِيلِ وَالْقُرْآنِ وَمَنْ أَوْفَى بِعَهْدِهِ مِنْ
-اللَّهِ فَاسْتَبْشِرُوا بِبَيْعِكُمْ الَّذِي بَايَعْتُمْ بِهِ وَذَلِكَ
-هُوَ الْفَوْزُ الْعَظِيمُ"
-  </p>
-</blockquote>
+> "إِنَّ اللَّهَ اشْتَرَى مِنْ الْمُؤْمِنِينَ أَنفُسَهُمْ
+> وَأَمْوَالَهُمْ بِأَنَّ لَهُمْ الْجَنَّةَ يُقَاتِلُونَ فِي سَبِيلِ
+> اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِي
+> التَّوْرَاةِ وَالْإِنجِيلِ وَالْقُرْآنِ وَمَنْ أَوْفَى بِعَهْدِهِ مِنْ
+> اللَّهِ فَاسْتَبْشِرُوا بِبَيْعِكُمْ الَّذِي بَايَعْتُمْ بِهِ وَذَلِكَ
+> هُوَ الْفَوْزُ الْعَظِيمُ"
 
 ***“Surely Allah has bought of the believers their persons and their
 property for this, that they shall have the garden; they fight in
@@ -350,11 +270,7 @@ which you have made; and that is the mighty achievement”.***[^15]
 
 Thus, the most important trade is getting Allah's pleasure,
 
-<blockquote dir="rtl">
-  <p>
-"وَمِنْ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاةِ اللَّهِ"
-  </p>
-</blockquote>
+> "وَمِنْ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاةِ اللَّهِ"
 
 ***“And among men is he who sells himself to seek the pleasure of
 Allah”.***[^16]
@@ -362,11 +278,7 @@ Allah”.***[^16]
 And the worst trade is selling oneself to the world and what it
 contains. Regarding this, Imam (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَبِئسَ المَتْجَر أن تَرى الدُّنيَا لِنَفسِكَ ثَمَناً"
-  </p>
-</blockquote>
+> "وَلَبِئسَ المَتْجَر أن تَرى الدُّنيَا لِنَفسِكَ ثَمَناً"
 
 *“The most wretched transaction is that you consider the world to be a
 price for your self!”*[^17]
@@ -374,11 +286,7 @@ price for your self!”*[^17]
 8. A Debtor of Divine Decrees
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-“وغريم المنايا”
-  </p>
-</blockquote>
+> “وغريم المنايا”
 
 "*Manaya*" is the plural for "*maniya*", meaning death or decree.
 The reason the plural word "manaya" is used is that there are different
@@ -391,21 +299,13 @@ Divine decrees, too, are creditors who are after their credits, which
 is man's departure towards the Hereafter.
 Elsewhere, the Imam (as) refers to this fact in the following words:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ هَذا الموتَ لَطالِبٌ حَثِيثٌ لا يَفُوتُه المُقيمُ وَلا يُعجِزهُ
-مَنْ هَرَبَ"
-  </p>
-</blockquote>
+> "اِنَّ هَذا الموتَ لَطالِبٌ حَثِيثٌ لا يَفُوتُه المُقيمُ وَلا يُعجِزهُ
+> مَنْ هَرَبَ"
 
 *"Indeed, this death is an eager seeker; neither does one who remains
 escape it, nor does one who flees frustrate it”.*[^18]
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ وراءَكَ طالِباً حثيثاً مِنَ الموتِ فلا تغفل"
-  </p>
-</blockquote>
+> "اِنَّ وراءَكَ طالِباً حثيثاً مِنَ الموتِ فلا تغفل"
 
 *"Surely, behind you is an eager seeker from death; therefore, do not be
 heedless".*[^19]
@@ -413,11 +313,7 @@ heedless".*[^19]
 9. A Captive of Death
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-“واسير الموت”
-  </p>
-</blockquote>
+> “واسير الموت”
 
 Because man can not escape death[^20] wherever he stays, no matter what
 age he is or what position he possesses, he will taste the bitterness of
@@ -428,29 +324,17 @@ other human being, a captive in the hands of death.
 10. An Ally of anxieties
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-” وحليف الهموم “
-  </p>
-</blockquote>
+> ” وحليف الهموم “
 
 11. A Companion of sorrows
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ وقرين الاحزان”
-  </p>
-</blockquote>
+> “ وقرين الاحزان”
 
 12. The Aim of calamities
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-“ونصب الآفات”
-  </p>
-</blockquote>
+> “ونصب الآفات”
 
 A person is an ally of anxieties, a companion of sorrows and the aim of
 calamities, if he can not fulfill his objectives, if he observes all
@@ -465,11 +349,7 @@ If man feels prosperous one minute, then he has to taste a cup filled
 with the hemlock of disasters and calamities. Neishapuri has observed
 that
 
-<blockquote dir="rtl">
-  <p>
-"الّلذّةُ في الدُّنيا كَالقَطْرَةِ مِنَ البَحْرِ"
-  </p>
-</blockquote>
+> "الّلذّةُ في الدُّنيا كَالقَطْرَةِ مِنَ البَحْرِ"
 
 "If you compare the world's pleasures with the world's calamities, you
 will find the ratio is one drop of water to the sea at large."[^22]
@@ -479,11 +359,7 @@ and the target of calamities. He warns us that this world, with all
 these hardships, cannot be the final objective for man. We should make a
 provision for the other world:
 
-<blockquote dir="rtl">
-  <p>
-"وَالْعَاقِبَةُ لِلْمُتَّقِينَ"
-  </p>
-</blockquote>
+> "وَالْعَاقِبَةُ لِلْمُتَّقِينَ"
 
 ***"And the end is for those who guard against evil".***[^23]
 
@@ -499,11 +375,7 @@ A wise and true believer, from the viewpoint of the principle of
 patience, has to make himself content and patient. He has to cope with
 these sufferings or else, as the Imam (as) has stated,
 
-<blockquote dir="rtl">
-  <p>
-"الهَمُّ يُذِيبُ الجَسَدَ"
-  </p>
-</blockquote>
+> "الهَمُّ يُذِيبُ الجَسَدَ"
 
 *“Grief emaciates the body”.*[^24]
 
@@ -512,12 +384,8 @@ martyrdom and captivity, which are given to us by Allah, as a
 blessing."[^25]
 And the Great Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اِذَا كَثُرَت ذُنُوبُ المُؤمِنِ وَلَم يَكُن لَهُ مِنَ العَمَلِ مَا
-يُكَفِّرُها اِبتَلَاهُ اللهُ بِالحُزنِ لِيكَفِّرَهَا بِهِ عَنهُ"
-  </p>
-</blockquote>
+> "اِذَا كَثُرَت ذُنُوبُ المُؤمِنِ وَلَم يَكُن لَهُ مِنَ العَمَلِ مَا
+> يُكَفِّرُها اِبتَلَاهُ اللهُ بِالحُزنِ لِيكَفِّرَهَا بِهِ عَنهُ"
 
 *"When the believer's sins increase and there is nothing from his deeds
 that can expiate it, then Allah afflicts him with sorrow in order to
@@ -527,11 +395,7 @@ As the above two statements show, sufferings will make a man improve in
 life.
 Imam as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"ان الهمَّ ليَذهبُ بذنُوبِ المُسلِم"
-  </p>
-</blockquote>
+> "ان الهمَّ ليَذهبُ بذنُوبِ المُسلِم"
 
 *"Grief removes the sins of the Muslim"*[^27]
 
@@ -541,17 +405,13 @@ drinking his mother's milk.[^29] In the case of spiritual sufferings, a
 wrong doer is in fact depressed. Regarding this, Imam as-Sadiq (as) has
 stated:
 
-<blockquote dir="rtl">
-  <p>
-"الحُزنُ شِعَارُ العَارِفِينَ لِكَثرَةِ وَارِدَاتِ الغَيبِ عَلى
-سَرائِرِهِم وَطُولِ مُبَاهَاتِهِم تَحتَ ستر الكِبرِياء وَالْمَحْزونُ
-ظَاهِرُه قَبضٌ وَبَاطِنُهُ بَسطٌ، يَعِيشُ مَعَ الخَلقِ عَيشَ المَرضَى
-وَمَعَ الله عَيشَ القُرَبَاءِ، الى اَن قالَ: وَيَمِينُ الحُزْنِ
-الابتِلاءُ وِشِمَالُهُ الصَّمْتُ وَالحُزنُ يَختَصُّ بِهِ العَارِفُونَ
-لله تَعالى وَالتَفَكُّر مُشتَرَكُ الخَاصِّ وَالعَامِّ وَلَو حُجِبَ
-الحُزنُ عَن عُيونٍ العَارٍفٍينَ سَاعَةً اِستَغاثُوا"
-  </p>
-</blockquote>
+> "الحُزنُ شِعَارُ العَارِفِينَ لِكَثرَةِ وَارِدَاتِ الغَيبِ عَلى
+> سَرائِرِهِم وَطُولِ مُبَاهَاتِهِم تَحتَ ستر الكِبرِياء وَالْمَحْزونُ
+> ظَاهِرُه قَبضٌ وَبَاطِنُهُ بَسطٌ، يَعِيشُ مَعَ الخَلقِ عَيشَ المَرضَى
+> وَمَعَ الله عَيشَ القُرَبَاءِ، الى اَن قالَ: وَيَمِينُ الحُزْنِ
+> الابتِلاءُ وِشِمَالُهُ الصَّمْتُ وَالحُزنُ يَختَصُّ بِهِ العَارِفُونَ
+> لله تَعالى وَالتَفَكُّر مُشتَرَكُ الخَاصِّ وَالعَامِّ وَلَو حُجِبَ
+> الحُزنُ عَن عُيونٍ العَارٍفٍينَ سَاعَةً اِستَغاثُوا"
 
 *"Sorrow is the mark of the gnostics, because of the frequency of the
 arrivals of the unseen into their hearts and their prolonged
@@ -565,15 +425,11 @@ they will call out for help..."*[^30]
 
 He also has said:
 
-<blockquote dir="rtl">
-  <p>
-"عَنِ الصَادِقِ عليه السلام قال: اَوحَى الله اِلى عِيسَى بنِ مَريَمَ
-هَب لِي مِن عَينَيكَ الدُّمُوع وَمِن قَلبِكَ الخُشُوعَ وَاكْحِل
-عَينَيكَ بِمَيلِ الحُزْنِ اِذَا ضَحِكَ البَاطِلُونَ وَقُم عَلى قُبُورِ
-الامْواتِ فَنَادِهِم بِالصَّوتِ الرَّفِيعِ لَعَلَّكَ تَأخُذُ
-مَوعِظَتَكَ مِنهُم وَقُل اِنِّي لاحِقٌ بِهِم في اللاحِقِينَ"
-  </p>
-</blockquote>
+> "عَنِ الصَادِقِ عليه السلام قال: اَوحَى الله اِلى عِيسَى بنِ مَريَمَ
+> هَب لِي مِن عَينَيكَ الدُّمُوع وَمِن قَلبِكَ الخُشُوعَ وَاكْحِل
+> عَينَيكَ بِمَيلِ الحُزْنِ اِذَا ضَحِكَ البَاطِلُونَ وَقُم عَلى قُبُورِ
+> الامْواتِ فَنَادِهِم بِالصَّوتِ الرَّفِيعِ لَعَلَّكَ تَأخُذُ
+> مَوعِظَتَكَ مِنهُم وَقُل اِنِّي لاحِقٌ بِهِم في اللاحِقِينَ"
 
 *"God revealed to Jesus Christ, son of Mary (as): ‘Give me tears from
 your eyes and humility from your heart, and paint your eyes with the
@@ -586,12 +442,8 @@ A person, whose sorrows are for people going astray and distancing
 themselves from God, is among elite of believers. His sorrows, in fact,
 make him come nearer to God. Imam ‘Ali (as) has stated
 
-<blockquote dir="rtl">
-  <p>
-"مَن طَالَ حُزنُهُ على نَفسِهِ في الدُّنيَا اَقَرَّ الله عَينَيهِ
-يَومَ القِيَامَةِ"
-  </p>
-</blockquote>
+> "مَن طَالَ حُزنُهُ على نَفسِهِ في الدُّنيَا اَقَرَّ الله عَينَيهِ
+> يَومَ القِيَامَةِ"
 
 *"He who prolongs his sorrow for himself in this world, Allah will make
 him happy on the Day of Judgment."*[^32]
@@ -618,11 +470,7 @@ and protected against desires.[^38]
 14. A Successor of the dead
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-” وخليفة الاموات “
-  </p>
-</blockquote>
+> ” وخليفة الاموات “
 
 As it was said in the phrase No 5 of the Imam's letter; if a man paid
 attention to the fact that other people used to live on the land that we
@@ -631,28 +479,20 @@ about gathering provisions for the Hereafter. By notifying his great
 son, the Imam (as) in fact gives us all a lesson to avoid indulging in
 pride. He says, on the basis of the saying:
 
-<blockquote dir="rtl">
-  <p>
-"حُكمُ الاَمثَالِ فِيمَا يَجُوزُ وَفِيمَا لا يَجُوزُ سَواءٌ"
-  </p>
-</blockquote>
+> "حُكمُ الاَمثَالِ فِيمَا يَجُوزُ وَفِيمَا لا يَجُوزُ سَواءٌ"
 
 “This will happen to you all as well”.
 
-<blockquote dir="rtl">
-  <p>
-"اَمَّا بَعدُ فَاِنَّ فِيمَا تَبَيَّنتُ مِن اِدبَارِ الدُّنيَا عَنِّي،
-وَجُمُوحِ الدَّهرِ عَليَّ وَاِقبَالِ الآخِرَةِ اِليَّ مَا يَزَعُنِي
-عَن ذِكرِ مَن سِوايَ والاِهتِمَامِ بِما وَرَائِي، غَيرَ اَنِّي حَيثُ
-تَفَرَّدَ بِي دُونَ هُمُومِ النّاسِ هَمُّ نَفسِي فَصَدَّقَنِي رَأيي
-وَصَرَفَنِي عَن هَوائِي وَصَرَّحَ لِي مَحضُ اَمرِي فَافضَى بِي اِلى
-جَدٍّ لا يَكُونُ فِيهِ لَعِبٌ وَصِدقٍ لا يَشُوبُهُ كَذِبٌ وَوَجَدتُكَ
-بَعضِي بَل وَجَدتُكَ كُلِّي حَتّى كَأنَّ شَيئاً لَو اَصابَكَ اَصابَنِي
-وَكَأنَّ المَوتَ لَو اَتاكَ اَتانِي فَعنَانِي مِن اَمرِكَ مَا
-يُغنِينِي مِن اَمرِ نَفسِي فَكَتَبتُ اِلَيكَ كِتَابِي مُستَظْهِراً
-بِهِ اِن اَنا بَقِيتُ لَكَ اَوفَنِيتُ"
-  </p>
-</blockquote>
+> "اَمَّا بَعدُ فَاِنَّ فِيمَا تَبَيَّنتُ مِن اِدبَارِ الدُّنيَا عَنِّي،
+> وَجُمُوحِ الدَّهرِ عَليَّ وَاِقبَالِ الآخِرَةِ اِليَّ مَا يَزَعُنِي
+> عَن ذِكرِ مَن سِوايَ والاِهتِمَامِ بِما وَرَائِي، غَيرَ اَنِّي حَيثُ
+> تَفَرَّدَ بِي دُونَ هُمُومِ النّاسِ هَمُّ نَفسِي فَصَدَّقَنِي رَأيي
+> وَصَرَفَنِي عَن هَوائِي وَصَرَّحَ لِي مَحضُ اَمرِي فَافضَى بِي اِلى
+> جَدٍّ لا يَكُونُ فِيهِ لَعِبٌ وَصِدقٍ لا يَشُوبُهُ كَذِبٌ وَوَجَدتُكَ
+> بَعضِي بَل وَجَدتُكَ كُلِّي حَتّى كَأنَّ شَيئاً لَو اَصابَكَ اَصابَنِي
+> وَكَأنَّ المَوتَ لَو اَتاكَ اَتانِي فَعنَانِي مِن اَمرِكَ مَا
+> يُغنِينِي مِن اَمرِ نَفسِي فَكَتَبتُ اِلَيكَ كِتَابِي مُستَظْهِراً
+> بِهِ اِن اَنا بَقِيتُ لَكَ اَوفَنِيتُ"
 
 *“What has become evident to me from the world’s turning away from me,
 the wilfulness of time against me and the Hereafter advancing towards
@@ -755,35 +595,31 @@ There is only a little left, but we are still haughty.
 Diligently listen to Sa'di's advice,
 The way is like this, be a man, be prepared.
 
-<blockquote dir="rtl">
-  <p>
-"فَاِنّي اوصِيكَ بِتَقوى الله ـ اَي بُنَيَّ ـ وَلُزُومِ اَمرِهِ،
-وَعِمَارَةِ قَلبِكَ بِذكرِهِ، وَالاِعتِصَامَ بِحَبلِهِ، وَاَيُّ سَبَبٍ
-اَوثُقُ مِن سَبَبٍ بَينَكَ وَبَينَ الله اِن اَنتَ اَخذتَ بِهِ؟! اَحِيي
-قَلبَكَ بِالمَوعِظَةِ، وَامِتهُ بِالزُهَادَةِ، وَقوِّهِ بِاليَقِينِ،
-وَنوِّره بِالحِكمِةِ، وَذَلّـله بِذِكرِ المَوتِ، وَقرِّرهُ
-بِالفَنَاءِ، وَبَصِّرهُ فَجَائِعَ الدُّنيَا، وَحَذِّرهُ صَولَةَ
-الدَّهرِ، وَفُحشَ تَقَلُّبِ الّليالِي وَالايَّامِ، وَاعرُض عَلَيهِ
-اَخبَارَ المَاضِينَ، وَذَكِّرهُ بِمَا اَصابَ مَن كَانَ قَبلَكَ مِنَ
-الاوَّلِينَ، وَسِرْ فِي دِيارِهِم وَآثارِهِم، فانْظُر فِيمَا فَعَلُوا
-وَعَمَّا انتَقَلُوا، وَاَينَ حَلّوا وَنَزَلُوا، فَاِنَّكَ تَجِدهُم قَد
-اِنتَقَلُوا عَن الأحِبَّةِ، وَحَلّوا دَارَ الغُربَةِ، وَكَانَّكَ عَن
-قَلِيلٍ قَد صِرتَ كَاحَدِهِم فَاصلِح مَثوَاكَ وَلا تَبِع آخِرتَكَ
-بِدُنياكَ وَدَعِ القَولَ فِيمَا لا تَعرِف، وَالخِطَابَ فِيمَا لَم
-تُكَلَّف، وَامسِك عَن طَرِيقٍ اِذا خِفتَ ضَلالَتَه، فَاِنَّ الكَفَّ
-عِندَ حَيرَةِ الضَلالَةِ خَيرٌ مِن رُكُوبٍ الاهوَالِ وَأمُر
-بِالمَعرُوفِ تَكُن مِن أَهلِهِ وَانكِر المُنكَرَ بِيَدِكَ وَلِسَانِكَ
-وَبَاين مَن فَعَلَهُ بَجُهدِكَ وَجَاهِد في الله حَقَّ جِهَادِهِ وَلا
-تَأخُذكَ في الله لَومَةُ لائِمٍ وَخُضِ الغَمَراتِ لِلحَقِّ حَيثُ كَانَ
-وَتَفَقَّه في الدِّينِ وَعوِّد نَفسَكَ التَصَبُّر على المَكرُوهِ
-وَنِعمَ الخُلُقُ التَصَبُّر في الحَقِّ وَأَلجِيء نَفسَكَ في الأمُورِ
-كُلِّها اِلى اِلهكَ فَاِنَّكَ تُلجِئهَا الى كَهفٍ حَرِيزٍ وَمَانِعٍ
-عَزِيزٍ وَاخلِص في المُسألَةِ لِرَبِّكَ فَاِنَّ بِيَدِهِ العَطَاء
-وَالحِرمَان وَاكثِر الاستِخَارَةِ وَتَفَهّم وَصِيَتِي وَلا تُذهِبَنَّ
-عَنكَ صَفحاً فَاِنَّ خَيرَ القَولِ مَا نَفَعَ وَاعلَم اَنَّهُ لا خَيرَ
-في عِلمٍ لا يُنفَعُ وَلا يُنتَفَعُ بِعلمٍ لا يَحقُّ تَعلّمُهُ"
-  </p>
-</blockquote>
+> "فَاِنّي اوصِيكَ بِتَقوى الله ـ اَي بُنَيَّ ـ وَلُزُومِ اَمرِهِ،
+> وَعِمَارَةِ قَلبِكَ بِذكرِهِ، وَالاِعتِصَامَ بِحَبلِهِ، وَاَيُّ سَبَبٍ
+> اَوثُقُ مِن سَبَبٍ بَينَكَ وَبَينَ الله اِن اَنتَ اَخذتَ بِهِ؟! اَحِيي
+> قَلبَكَ بِالمَوعِظَةِ، وَامِتهُ بِالزُهَادَةِ، وَقوِّهِ بِاليَقِينِ،
+> وَنوِّره بِالحِكمِةِ، وَذَلّـله بِذِكرِ المَوتِ، وَقرِّرهُ
+> بِالفَنَاءِ، وَبَصِّرهُ فَجَائِعَ الدُّنيَا، وَحَذِّرهُ صَولَةَ
+> الدَّهرِ، وَفُحشَ تَقَلُّبِ الّليالِي وَالايَّامِ، وَاعرُض عَلَيهِ
+> اَخبَارَ المَاضِينَ، وَذَكِّرهُ بِمَا اَصابَ مَن كَانَ قَبلَكَ مِنَ
+> الاوَّلِينَ، وَسِرْ فِي دِيارِهِم وَآثارِهِم، فانْظُر فِيمَا فَعَلُوا
+> وَعَمَّا انتَقَلُوا، وَاَينَ حَلّوا وَنَزَلُوا، فَاِنَّكَ تَجِدهُم قَد
+> اِنتَقَلُوا عَن الأحِبَّةِ، وَحَلّوا دَارَ الغُربَةِ، وَكَانَّكَ عَن
+> قَلِيلٍ قَد صِرتَ كَاحَدِهِم فَاصلِح مَثوَاكَ وَلا تَبِع آخِرتَكَ
+> بِدُنياكَ وَدَعِ القَولَ فِيمَا لا تَعرِف، وَالخِطَابَ فِيمَا لَم
+> تُكَلَّف، وَامسِك عَن طَرِيقٍ اِذا خِفتَ ضَلالَتَه، فَاِنَّ الكَفَّ
+> عِندَ حَيرَةِ الضَلالَةِ خَيرٌ مِن رُكُوبٍ الاهوَالِ وَأمُر
+> بِالمَعرُوفِ تَكُن مِن أَهلِهِ وَانكِر المُنكَرَ بِيَدِكَ وَلِسَانِكَ
+> وَبَاين مَن فَعَلَهُ بَجُهدِكَ وَجَاهِد في الله حَقَّ جِهَادِهِ وَلا
+> تَأخُذكَ في الله لَومَةُ لائِمٍ وَخُضِ الغَمَراتِ لِلحَقِّ حَيثُ كَانَ
+> وَتَفَقَّه في الدِّينِ وَعوِّد نَفسَكَ التَصَبُّر على المَكرُوهِ
+> وَنِعمَ الخُلُقُ التَصَبُّر في الحَقِّ وَأَلجِيء نَفسَكَ في الأمُورِ
+> كُلِّها اِلى اِلهكَ فَاِنَّكَ تُلجِئهَا الى كَهفٍ حَرِيزٍ وَمَانِعٍ
+> عَزِيزٍ وَاخلِص في المُسألَةِ لِرَبِّكَ فَاِنَّ بِيَدِهِ العَطَاء
+> وَالحِرمَان وَاكثِر الاستِخَارَةِ وَتَفَهّم وَصِيَتِي وَلا تُذهِبَنَّ
+> عَنكَ صَفحاً فَاِنَّ خَيرَ القَولِ مَا نَفَعَ وَاعلَم اَنَّهُ لا خَيرَ
+> في عِلمٍ لا يُنفَعُ وَلا يُنتَفَعُ بِعلمٍ لا يَحقُّ تَعلّمُهُ"
 
 *“I recommend to you* *God-wariness, my son, and the fulfillment of
 God's commands, inhabiting your heart with His remembrance and adherence
@@ -919,5 +755,4 @@ lofty towers. [Qur’an 4: 78].
 
 [^39]: . In writing these notes, I have used Ibn Abi al-Hadid’s Sharh
 Nahj al-Balaghah, vol. 4. p.29, and Ibn Maytham, vol 5. pp5-7.
-
 

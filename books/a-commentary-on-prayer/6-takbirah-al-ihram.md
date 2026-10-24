@@ -116,29 +116,13 @@ intangible, temporal and celestial beings.
 *Allahu akbar* means that God is greater than that which one could
 describe.
 
-<blockquote dir="rtl">
-  <p>
-اى برتر از خيال و قياس و گمان و وهم
-  </p>
-</blockquote>
+> اى برتر از خيال و قياس و گمان و وهم
 
-<blockquote dir="rtl">
-  <p>
-وز هرچه گفتﻩايم و شنيديم و خواندﻩايم
-  </p>
-</blockquote>
+> وز هرچه گفتﻩايم و شنيديم و خواندﻩايم
 
-<blockquote dir="rtl">
-  <p>
-مجلس تمام گشت و به پايان رسيد عمر
-  </p>
-</blockquote>
+> مجلس تمام گشت و به پايان رسيد عمر
 
-<blockquote dir="rtl">
-  <p>
-ما همچنان در اوّل وصف تو ماندﻩايم
-  </p>
-</blockquote>
+> ما همچنان در اوّل وصف تو ماندﻩايم
 
 *O He who is beyond imagination, analogy, illusion, and fancy! The
 gathering was finished and our lifespan came to an end. Yet, we are
@@ -230,13 +214,9 @@ prostration, and all the people recited *takbir*.[^23]
 {*wasi*}?” At this juncture, the following Verse of Guardianship {*ayah
 al-wilayah*} was revealed:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ ﴾
 
 ***“Your guardian is only Allah, His Apostle, and the faithful who
 maintain the prayer and give the zakat while bowing down.”***[^24]
@@ -347,5 +327,4 @@ lightning, etc. {Trans.}
 [^30]: Bihar al-Anwar, vol. 39, p. 98.
 
 [^31]: Payambari va Hukumat {Prophethood and Governance}, p. 136.
-
 

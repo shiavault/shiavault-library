@@ -24,9 +24,7 @@ will create mischief in it?” and then they saw the first and second
 World Wars and said, « !؟ ويسفك الدماء »“and shed blood?” But Allah the
 Almighty saw Ali Ibn Abi Talib (a.s.) and said,
 
-<p dir="rtl">
 « إني أعلم ما لا تعلمون »
-</p>
 
 “Surely I know what you do not know.” According to the Holy Quran, the
 aim of creation of mankind on the earth is based on the very appointment
@@ -50,9 +48,7 @@ Some of the traditions that explain the virtues of the Holy Prophet
 (s.a.) and his pure progeny (a.s.) carry a similar meaning. For
 instance, Allah the Almighty says to the Holy Prophet (s.a.) :
 
-<p dir="rtl">
 .« لَولاك ما خَلقت. الأفلاك »
-</p>
 
 “If you were not there, I would not have created the universe.”8 Allah
 the Almighty created Hazrat Adam (a.s.), the father of humanity, as a
@@ -70,19 +66,15 @@ Some are of the opinion that such verses are only for the gradual
 finalization of Allah’s Promise. Hence, in the Holy Quran, first He
 says,
 
-<p dir="rtl">
 .« إني جاعل في الأرض خليفه »
-</p>
 
 “Surely I am going to appoint a Caliph in the earth” and thereafter the
 Prophets (peace be on them) reminded the people. And when the series of
 Prophethood reached to Hazrat Dawood (a.s.) and Hazrat Sulayman (a.s.),
 Allah says,
 
-<p dir="rtl">
 .« و. لَقد كَتبنا في الزّبورِ من بعدِ الذّكر أنُّ الأرض ي.رِثُها
 عِبادي. الص.الحونُ »
-</p>
 
 “Surely I have written in the Psalms after the Old Testament that
 surely the earth, My righteous servants shall inherit it.”9
@@ -97,7 +89,6 @@ never manage to sort out its nuts and bolts with the additional screws
 or assemble it. But if it is given to somebody who is an expert in this
 field, immediately, he will get on with the task of separating its nuts
 and 8 Behaarul Anwaar, vol. 15, p. 28
-
 
 bolts with the additional screws and within no time, he will assemble
 it and hand it over back to you.
@@ -166,34 +157,26 @@ indeed wrong and evil.
 
 Now, when this is clear, Allah the Almighty, promises,
 
-<p dir="rtl">
 .« وعد الله الذين آمنوا منكم و عملوا الص.الحات »
-</p>
 
 “Allah has promised those of you who believe and perform good deeds.”11
 In the beginning, He said,
 
-<p dir="rtl">
 .« إني جاعل في الأرض خليفه »
-</p>
 
 ‘Surely I am going to appoint a Caliph in the earth’
 
 But now He says,
 
-<p dir="rtl">
 وعد الله الّذين آمنوا منكم و عملوا الص.الحات ليستخلفنهم في الأرض كما
 استخلف الّذين من » .« قبلهم
-</p>
 
 “Allah has promised those of you who believe and perform good deeds
 that He will certainly appoint them as heirs in the earth as He has
 appointed as heirs those before them (one type of such caliphs were
 Prophets Dawood and Sulayman (a.s.))
 
-<p dir="rtl">
 .« و لي.مكنن لهم دينهم الّذي ارتضي لهم »
-</p>
 
 And certainly He will establish for them their religion which He has
 chosen for them.”
@@ -229,11 +212,9 @@ these statements are definite promises of Allah, tantamount to His
 Intention, or they are just general statements made by Him. In this
 regard, there is another verse that pledges,
 
-<p dir="rtl">
 و. نُريد أَن نَم.نُّ علي الّذين استُضعِفوا في الأرضِ و نَجع.لَه.م أئم.ه
 و نجعلهم الوارثين . و نُمكّنُ لهم » .« في الأرض و نُري فِرعون و هامانُ و
 ج.نود. ه.ما مِنه.م ما كانوا ي.حذرون
-</p>
 
 “And We intend to oblige those who have been rendered weak in the earth
 and that We make them the Imams and We make them the heirs. And We will
@@ -248,5 +229,4 @@ voluntarily or have been rendered weak. For, it is possible that those
 who have preferred to remain weak willingly could be strong and
 powerful. (They have preferred being the oppressed one rather than the
 oppressor.)
-
 

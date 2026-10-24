@@ -75,4 +75,3 @@ The same applies to all innovations made for any good purpose. This is
 reflected in the historical contributions of Muslim scientists to the
 realm of science, as well as in the innovative works of Muslims today.
 
-

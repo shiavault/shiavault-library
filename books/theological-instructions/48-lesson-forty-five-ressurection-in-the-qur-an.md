@@ -184,4 +184,3 @@ back to life by the Prophet Abraham (a) have with Resurrection?
 
 5. Who was brought back to life in the narrations of the Holy Qur’an?
 
-

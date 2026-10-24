@@ -504,4 +504,3 @@ Nuh, and among his progeny, Dawood (David), Sulaiman (Solomon), Ayoub
 reward those who do good. And Zakariya and Yayha (John), and Isa
 (Jesus), and Elias: all in the ranks of the righteous." (6:84)
 
-

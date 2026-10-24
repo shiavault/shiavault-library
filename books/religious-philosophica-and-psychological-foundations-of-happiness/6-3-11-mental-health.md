@@ -431,4 +431,3 @@ publishing.
 Yaspers, K. (1996). Spinoza - philosophy of divinity and politics.
 Khorramshahr: Tarh- e - nou.
 
-

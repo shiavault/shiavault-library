@@ -10,11 +10,7 @@ Surah ‘Ibrahim, Chapter 14
 The Content of Surah ‘Ibrahim
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -33,5 +29,4 @@ This Surah, owing to its discussion about Hadrat-i-’Ibrahim (as), has
 been named as ‘Surah ‘Ibrahim’, and like its preceding Suras, such as:
 Yūnus, Hūd, and Yūsuf, it begins with Alif. Lam. Ra. The first verses of
 these holy Suras deal with the characteristics of the Qur’an .
-
 

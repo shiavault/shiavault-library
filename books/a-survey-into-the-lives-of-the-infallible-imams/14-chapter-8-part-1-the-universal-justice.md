@@ -612,4 +612,3 @@ Irshad.
 
 [^10]: Surat Al ‘Imran 3:103.
 
-

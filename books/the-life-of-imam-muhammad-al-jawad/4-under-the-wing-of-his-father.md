@@ -1118,4 +1118,3 @@ especially in this case where the servant was an adult
 
 [^63]: Ad-Durr an-Nadheem, p.219.
 
-

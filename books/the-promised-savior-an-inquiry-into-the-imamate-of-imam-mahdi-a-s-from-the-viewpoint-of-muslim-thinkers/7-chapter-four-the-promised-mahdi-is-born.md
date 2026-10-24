@@ -83,4 +83,3 @@ Shah Waliullah Dehlawi, (d. 1176 AH).
 
 Sheikh Qunduzi Hanafi, (d. 1294 AH).
 
-

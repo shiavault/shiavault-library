@@ -135,4 +135,3 @@ praying, is the center of existence, faith, love and life. It is the
 direction in which the beds of patients in agony are placed. It is also
 the direction in which the dead are buried.
 
-

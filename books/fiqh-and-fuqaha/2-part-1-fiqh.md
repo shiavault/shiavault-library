@@ -172,4 +172,3 @@ getting a passport, buying the tickets, and other necessary preparations
 will be termed Muqaddami. In the case of the daily prayers, for example,
 Wudhu and Ghusl at the time of the prayers would be called Muqaddami.
 
-

@@ -167,7 +167,6 @@ Imam al-Sadiq (PBUH) said, "Allah was not worshipped to the extent that
 He was worshipped due to al-Badaa. Allah was not glorified as much as He
 was glorified due to al-Badaa."[^1]
 
-
 **3 The sudden nature of the advent of al-Qa'im (PBUH)**
 
 The Shia and the Sunni traditionists have narrated many traditions,
@@ -244,7 +243,7 @@ Imam al-Sadiq (PBUH) said, "Certainly, of us will be an Imam who will be
 victorious and will be hidden. Once Allah, the Glorious, wills [^1]Bihar
 al-Anwar, vol. 17, p. 351, Hadith 1.
 
-[^2] Bihar al-Anwar, vol. 51, p. 63, Hadith 64.
+[^2]: Bihar al-Anwar, vol. 51, p. 63, Hadith 64.
 
 [^3]Bihar al-Anwar, v 51, p. 50, Hadith 23.
 
@@ -301,5 +300,4 @@ yet been decreed.
 al-Kafi, vol. 1, p. 343, Hadith 30; al-Ghaiba, al-Tusi, p. 164; Bihar
 al-Anwar, vol. 51, Hadith 49. Bihar al-Anwar, vol. 52, p. 389, Hadith
 209.
-
 

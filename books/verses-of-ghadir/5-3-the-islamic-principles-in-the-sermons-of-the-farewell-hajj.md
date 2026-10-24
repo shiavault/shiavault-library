@@ -3103,4 +3103,3 @@ yet neither he nor has al-Bukhari recorded it.
 [^29]: Al-Muttaqi al-Hindi: Kanz al-\`Ummal 13/75 and Ibn Shabbah:
 Tarikh al-Madinah 2/779 and 2/401.
 
-

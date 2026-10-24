@@ -7,11 +7,7 @@ Surah Hud, Chapter 11
 
 **123 verses in 10 sections**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 **In The Name of Allah, The Beneficent, The Merciful**
 
@@ -62,5 +58,4 @@ Obviously, a mere cursory reading of the Surah would have not such a
 result; rather reading, meditating upon it and later combining it with
 practice, would place man along with the former believers and distance
 him from the rejecters of the prophets.
-
 

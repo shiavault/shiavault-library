@@ -46,13 +46,9 @@ think about themselves. The station of submission which has been
 mentioned in the verses of the Qur’an denotes this station. Allah, the
 Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***“But no, by Lord! They will not believe until they make you a judge
 in their disputes, then do not find within their hearts any dissent to
@@ -87,12 +83,8 @@ affairs related to his self and surrenders everything to Allah.[^3]
 Inviting the believers to the station of submission, Allah, the Exalted,
 sates:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَآفَّةً وَلاَ
-تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَآفَّةً وَلاَ
+> تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
 
 ***“O you who have faith! Enter into submission, all together, and do
 not follow in Satan’s steps; he is indeed your manifest enemy.”***[^4]
@@ -241,13 +233,9 @@ decree and predetermination and when those causes and effects come on
 the scene, they eclipse material causes and factors, hence making them
 ineffective:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يُرِيكُمُوهُمْ إِذْ الْتَقَيْتُمْ فِي أَعْيُنِكُمْ قَلِيلاً
-وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ لِيَقْضِيَ اللّهُ أَمْرًا كَانَ
-مَفْعُولاً وَإِلَى اللّهِ تُرْجَعُ الأمُورُ
-  </p>
-</blockquote>
+> وَإِذْ يُرِيكُمُوهُمْ إِذْ الْتَقَيْتُمْ فِي أَعْيُنِكُمْ قَلِيلاً
+> وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ لِيَقْضِيَ اللّهُ أَمْرًا كَانَ
+> مَفْعُولاً وَإِلَى اللّهِ تُرْجَعُ الأمُورُ
 
 ***“And when he showed them to you—when you met them [on the
 battlefield]—as few in your eyes, and He made you appear few in their
@@ -339,22 +327,14 @@ certain vision/eye of certitude [*‘ayn al-yaqin*], 3) certain truth
 [*haqq al-yaqin*]. All the three levels have been hinted at in the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ \* لَتَرَوُنَّ الْجَحِيمَ \*
-ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
-  </p>
-</blockquote>
+> كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ \* لَتَرَوُنَّ الْجَحِيمَ \*
+> ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
 
 ***“No indeed! Were you to know with certain knowledge, you would surely
 see hell. Again,*** ***you will surely see it with the eye of
 certitude.”***[^13]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ
 
 ***“Indeed this is certain truth.”***[^14]
 
@@ -365,13 +345,9 @@ which is attained by inferring something from its effect, like certitude
 about the existence of fire after seeing smoke.[^15] In the Qur’an,
 Allah states:
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوْ لَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
-عَلَى كُلِّ شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آيَاتِنَا فِي الآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوْ لَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
+> عَلَى كُلِّ شَيْءٍ شَهِيدٌ
 
 ***“Soon we shall show them Our signs in the horizons and in their own
 souls until it becomes clear to them that He is the Real. Is it not
@@ -565,13 +541,9 @@ were contented with what Allah allotted to us’.[^26]”[^27]
 In regard to a person who has attained the position of contentment
 [*maqam-i rida’*], Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ \* إِرْجِعِي إِلَى رَبِّكِ
-رَاضِيَةً مَرْضِيَّةً \* فَادْخُلِي فِي عِبَادِي \* وَادْخُلِي
-جَنَّتِي
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ \* إِرْجِعِي إِلَى رَبِّكِ
+> رَاضِيَةً مَرْضِيَّةً \* فَادْخُلِي فِي عِبَادِي \* وَادْخُلِي
+> جَنَّتِي
 
 ***“O soul at peace! Return to your Lord, pleased, pleasing! Then enter
 among my servants! And enter my paradise!”***[^28]
@@ -581,11 +553,7 @@ certainty cause anxiety, worry and distress to depart. One of the
 qualities of this station is that man is both pleased with and pleasing
 to Allah:
 
-<blockquote dir="rtl">
-  <p>
-رَضِيَ اللّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> رَضِيَ اللّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ الْفَوْزُ الْعَظِيمُ
 
 **“Allah is pleased with them, and they are pleased with Him. This is
 the mighty achievement.”**[^29]
@@ -823,13 +791,9 @@ stronger, the person makes errors in the war between these two
 attractions and goes in a direction that leads to his fall—and this is
 the reality of being tested.
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ \* الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ
-أَيُّكُمْ أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ \* الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ
+> أَيُّكُمْ أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***“Blessed is He in whose hands is all sovereignty, and He has power
 over all things. He, who created death and life that He may test you [to
@@ -869,11 +833,7 @@ he becomes proud and delighted and thanks Allah for what has happened,
 but there are many people who have not attained this position, as Allah,
 the Exalted, says:
 
-<blockquote dir="rtl">
-  <p>
-... وَقَلِيلٌ مِنْ عِبَادِيَ الشَّكُورُ
-  </p>
-</blockquote>
+> ... وَقَلِيلٌ مِنْ عِبَادِيَ الشَّكُورُ
 
 ***“…And few of my servants are grateful.”***[^32]
 
@@ -1139,5 +1099,4 @@ Almighty. [ed.]
 [^32]: Surat Saba’ 34:13.
 
 [^33]: Bihar al-Anwar, vol. 12, p. 35.
-
 

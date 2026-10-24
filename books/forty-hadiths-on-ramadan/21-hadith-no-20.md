@@ -10,4 +10,3 @@ by means of it the calamities are warded off from you, and as for the
 seeking of forgiveness, it erases away your sins.*Al-Kafi, vol. 4, pg.
 88*
 
-

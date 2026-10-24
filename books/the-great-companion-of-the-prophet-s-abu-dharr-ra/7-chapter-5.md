@@ -461,4 +461,3 @@ myself fasting.[^7]
 
 [^7]: Sunan Bayhaqi.
 
-

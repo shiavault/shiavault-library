@@ -39,4 +39,3 @@ the eggs broken!
 Can that speed and timing of the pigeons and spider be explained by
 ‘natural causes’?
 
-

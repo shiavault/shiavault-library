@@ -10,7 +10,7 @@ His description and details have come in the narrations as follows:
 said, “Indeed, the Almighty Allah will raise from my progeny and Ahle
 Bayt a man, who would have appropriate gap between his front teeth and
 have a bright forehead so that he may fill the earth with justice,
-welfare and economic equality.”<sup>[1]</sup>
+welfare and economic equality.”[1]
 
 Numerous traditions of the same type have been recorded by the scholars
 and narrators of Ahle Sunnat from the Holy Prophet (a.s) describing the
@@ -35,7 +35,7 @@ Imam Mahdi (a.s) in the following words:
 
 “He shall have a wide forehead and big eyes and a clear and wide belly,
 broad thighs, his front teeth would be sparkling and there is a mole on
-his right thigh.”<sup>[1]</sup>
+his right thigh.”[1]
 
 A fact derived from traditions and reports of the Holy Prophet (a.s) is
 that in his facial appearance he is most handsome and elegant. All
@@ -47,7 +47,7 @@ mentioned about His Eminence:
 
 *“The elegance came up (arose) through his clear face*
 
-The morning breeze spread from his calming countenance.”<sup>[2]</sup>
+The morning breeze spread from his calming countenance.”[2]
 
 ### Resemblance of Imam of the time with the Prophet
 
@@ -83,7 +83,7 @@ earth abound with justice and equity.”
 “Even if there remains one day in the life of the earth, God will bring
 forth a man whose name and character will be like mine, and whose
 patronymic will be Abu Abdillah. People would pay allegiance to him
-between the Rukn and Maqam<sup>[1]</sup> of Ka’ba. Through him God will
+between the Rukn and Maqam[1] of Ka’ba. Through him God will
 revive His religion and bring it back to its early glory. God will also
 endow him with many victories and there will remain on earth none other
 than the ones who will declare: There is no god, except Allah.”
@@ -92,12 +92,12 @@ Sulaiman got up from his place and asked as to which of his children’s
 descendent he would be.
 
 The Prophet struck his hand on Husain (a.s) and said, “From his
-<sup>[descendants]</sup>.”
+[descendants].”
 
 3. Ayesha has narrated from the Messenger of Allah (a.s) that he said:
 
 “Mahdi is a person from my progeny. He will fight for my Sunnah like I
-have fought for revelation.”<sup>[2]</sup>
+have fought for revelation.”[2]
 
 4. Jabir Ibne Abdullah Ansari has quoted the Messenger of Allah (a.s)
 that he said:
@@ -123,7 +123,7 @@ would have an occultation which would cast people into confusion, till
 they deviate from their religion. At the time he reappears he shall be
 like a brilliant star. Then he would spread justice and equity on the
 earth just as it would have been absolutely fraught with injustice and
-inequity.”<sup>[1]</sup>
+inequity.”[1]
 
 6. Imam Ja’far as-Sadiq (a.s) has narrated through his blessed ancestors
 from the Holy Prophet (a.s) that he said:
@@ -138,7 +138,7 @@ who falsifies him has falsified me. And one who testifies for him has
 testified for me. I would complain to Allah about those who falsify me
 in my affair and those who mislead the people. And the oppressors would
 soon realize where they would be returned when they are sent back (to
-Hell).”<sup>[2]</sup>
+Hell).”[2]
 
 The above tradition is the most comprehensive one that shows that Imam
 Mahdi (a.s) would be like his great grandfather, the Messenger of Allah
@@ -147,7 +147,7 @@ Mahdi (a.s) would be like his great grandfather, the Messenger of Allah
 7. Abu Salih Saibi in Al-Fitan has narrated from His Eminence, Amirul
 Momineen (a.s) that he said: “His Eminence, Mahdi (a.s), in appearance,
 character, habits and good virtues, would most resemble the Messenger of
-Allah (a.s).”<sup>[3]</sup>
+Allah (a.s).”[3]
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ earth abound with justice just as it would be
 
 filled with oppression. All the folks of the heaven and the earth and
 also the birds would be happy during his kingdom and caliphate. He would
-reign for twenty years.”<sup>[1]</sup>
+reign for twenty years.”[1]
 
 The reason that this tradition is fabricated is that the body of the
 Holy Imam (a.s) is a part of the body of the Prophet and Amirul Momineen

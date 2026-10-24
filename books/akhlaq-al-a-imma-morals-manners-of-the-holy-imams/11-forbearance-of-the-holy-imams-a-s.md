@@ -428,4 +428,3 @@ man returned home happily and saw that the child showed signs of
 recovery. Now he became the sincere devotee and an ardent supporter of
 the Imam and all the time remained in the service of the Imam.
 
-

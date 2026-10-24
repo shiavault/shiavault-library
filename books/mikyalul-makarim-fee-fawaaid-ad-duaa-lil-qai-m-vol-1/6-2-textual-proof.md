@@ -9,11 +9,7 @@ Islam Muhammad Kulaini:
 In an authentic report from Muawiyah Ibne Ammar it is related that: When
 His Eminence, Imam Ja’far Sadiq (as) was asked regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ الأَسْمَاء الْحُسْنَى فَادْعُوهُ بِهَا
-  </p>
-</blockquote>
+> وَلِلّهِ الأَسْمَاء الْحُسْنَى فَادْعُوهُ بِهَا
 
 ***“And Allah’s are the beautiful names, therefore call on Him
 thereby.”(Surah Araaf 7:180)***
@@ -260,12 +256,8 @@ everything and the good pleasure of ar-Rahman, the Blessed, the Sublime,
 is obedience to the Imam after knowing him.” Then he said: “Allah, the
 Blessed, the Sublime, says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ وَمَنْ تَوَلَّىٰ فَمَا
-أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا
-  </p>
-</blockquote>
+> مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ وَمَنْ تَوَلَّىٰ فَمَا
+> أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا
 
 ***Whosoever obeys the Messenger, thereby obeys Allah; and whosoever
 turns his back – We have not sent thee to be a watcher over them.”(
@@ -297,12 +289,8 @@ its minimum should be understood? He replied: “Yes,
 
 Allah, the Mighty and the High says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***“O you who believe! obey Allah and obey the Apostle and those in
 authority from among you…”(Surah Nisa 4:59)***
@@ -475,5 +463,4 @@ than the Sun. (Writer)
 [^14]: Kamaluddin; Shaykh Saduq; Vol. 2/412
 
 [^15]: Al-Ghaibah; Ibne Abi Zainab Nomani; Pg. 62
-
 

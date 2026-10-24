@@ -39,41 +39,17 @@ his desire above his reason is inferior to the four-footed ones.[95]
 a great gnostic and expounder of the subtleties of human existence,
 recites thus:
 
-<blockquote dir="rtl">
-  <p>
-ﺩﺮﺤﺩﻳﺚ ﺁﻤﺩ ﻜﻪﻳﺯﺩﺍﻦ ﻤﺠﻳﺩ                 ﺧﻟﻕﻋﺎﻟﻡ ﺮﺍ ﺴﻪﮔﻮﻧﻪ ﺁﻓﺮﻳﺪ
-  </p>
-</blockquote>
+> ﺩﺮﺤﺩﻳﺚ ﺁﻤﺩ ﻜﻪﻳﺯﺩﺍﻦ ﻤﺠﻳﺩ                 ﺧﻟﻕﻋﺎﻟﻡ ﺮﺍ ﺴﻪﮔﻮﻧﻪ ﺁﻓﺮﻳﺪ
 
-<blockquote dir="rtl">
-  <p>
-ﻳﮏ ﮔُﺮُﻩﺮﺍ ﺟﻤﻠﻪ ﻋﻗﻞﻮ ﻋﻠﻡ ﻮﺧﻮﺩ         ﺁﻦﻓﺮﺷﻪ ﺍﺴﺖ، ﺍﻮ ﻧﺩﺍﻧﺩ ﺟﺰﺴﺟﻮﺩ
-  </p>
-</blockquote>
+> ﻳﮏ ﮔُﺮُﻩﺮﺍ ﺟﻤﻠﻪ ﻋﻗﻞﻮ ﻋﻠﻡ ﻮﺧﻮﺩ         ﺁﻦﻓﺮﺷﻪ ﺍﺴﺖ، ﺍﻮ ﻧﺩﺍﻧﺩ ﺟﺰﺴﺟﻮﺩ
 
-<blockquote dir="rtl">
-  <p>
-ﻧﻴﺴﺖ ﺍﻧﺩﺮﻋﻧﺼﺮﺵ ﺣﺮﺹ ﻮﻫﻮﺍ          ﻧﻮﺮ ﻣﻃﻠﻕ، ﺰﻧﺩﻩ ﺍﺰ ﻋﺷﻕﺨﺩﺍ
-  </p>
-</blockquote>
+> ﻧﻴﺴﺖ ﺍﻧﺩﺮﻋﻧﺼﺮﺵ ﺣﺮﺹ ﻮﻫﻮﺍ          ﻧﻮﺮ ﻣﻃﻠﻕ، ﺰﻧﺩﻩ ﺍﺰ ﻋﺷﻕﺨﺩﺍ
 
-<blockquote dir="rtl">
-  <p>
-ﻴﮏ ﮔﺮﻮﻩﺩﻳﮕﺮ ﺍﺰﺩﺍﻧﺵ ﺗﻬﻰ                ﻫﻣﭼﻮ ﺤﻴﻮﺍﻥﺍﺰ ﻋﻠﻒ ﺩﺮﻓﺮﺒﻬﻰ
-  </p>
-</blockquote>
+> ﻴﮏ ﮔﺮﻮﻩﺩﻳﮕﺮ ﺍﺰﺩﺍﻧﺵ ﺗﻬﻰ                ﻫﻣﭼﻮ ﺤﻴﻮﺍﻥﺍﺰ ﻋﻠﻒ ﺩﺮﻓﺮﺒﻬﻰ
 
-<blockquote dir="rtl">
-  <p>
-ﺍﻮ ﻧﺒﻴﻧﺩﺟﺰ ﻜﻪ ﺍﺻﻃﺒﻝﻮ ﻋﻠﻒ              ﺍﺰ ﺸﻗﺎﻮﺖﻏﺎﻓﻞﺍﺴﺖﻮﺍﺯﺸﺮﻒ
-  </p>
-</blockquote>
+> ﺍﻮ ﻧﺒﻴﻧﺩﺟﺰ ﻜﻪ ﺍﺻﻃﺒﻝﻮ ﻋﻠﻒ              ﺍﺰ ﺸﻗﺎﻮﺖﻏﺎﻓﻞﺍﺴﺖﻮﺍﺯﺸﺮﻒ
 
-<blockquote dir="rtl">
-  <p>
-ﺍﻴﻥﺴﻮﻢ ﻫﺴﺖﺁﺪﻤﻴﺯﺍﺪ ﻮﺒﺸﺮ               ﻧﻴﻢ ﺍﻮﺯﺍﻓﺮﺸﺘﻪ ﻮﻧﻴﻤﺶ ﺧﺮ
-  </p>
-</blockquote>
+> ﺍﻴﻥﺴﻮﻢ ﻫﺴﺖﺁﺪﻤﻴﺯﺍﺪ ﻮﺒﺸﺮ               ﻧﻴﻢ ﺍﻮﺯﺍﻓﺮﺸﺘﻪ ﻮﻧﻴﻤﺶ ﺧﺮ
 
 *It is related in the hadīth that the Majestic God*
 
@@ -102,11 +78,7 @@ recites thus:
 This is the state of human existence. His worldly aspect directs him to
 the world while his celestial side spurs him to quest and growth.
 
-<blockquote dir="rtl">
-  <p>
-ﺠﺎﻦﮔﺷﺎﻴﺪ ﺴﻮﻯﺒﺎﻻ، ﺒﺎﻟﻬﺎ                  ﺪﺮﺯﺪﻩ ﺘﻦ ﺪﺮﺯﻤﻴﻦﭽﻧﮕﺎﻟﻬﺎ
-  </p>
-</blockquote>
+> ﺠﺎﻦﮔﺷﺎﻴﺪ ﺴﻮﻯﺒﺎﻻ، ﺒﺎﻟﻬﺎ                  ﺪﺮﺯﺪﻩ ﺘﻦ ﺪﺮﺯﻤﻴﻦﭽﻧﮕﺎﻟﻬﺎ
 
 *The spirit unfolds its wings (to) fly) upwards;*
 
@@ -115,11 +87,7 @@ the world while his celestial side spurs him to quest and growth.
 Of course, it is stated in the Prophetic narrations that God created man
 out of His own mold.
 
-<blockquote dir="rtl">
-  <p>
-ﺧﻠﻕ ﻤﺎﺒﺮ ﺻﻮﺮﺖ ﺧﻮﺪﻜﺮﺪ ﺣﻕ            ﻮﺻﻒ ﻤﺎ ﺍﺯﻮﺻﻒ ﺍﻮ ﮔﻴﺮﺪﺴﺒﻕ
-  </p>
-</blockquote>
+> ﺧﻠﻕ ﻤﺎﺒﺮ ﺻﻮﺮﺖ ﺧﻮﺪﻜﺮﺪ ﺣﻕ            ﻮﺻﻒ ﻤﺎ ﺍﺯﻮﺻﻒ ﺍﻮ ﮔﻴﺮﺪﺴﺒﻕ
 
 *God created us in His image:*
 
@@ -156,53 +124,21 @@ be able to reach Laylā so long as this situation was such and the two
 conflicting aims persisted. Mawlānā relates the story in the following
 words:
 
-<blockquote dir="rtl">
-  <p>
-ﻤﻴﻞﻣﺠﻧﻮﻦ ﭘﻴﺶﺁﻦ ﻠﻴﻠﻰﺮﻮﺍﻦ                 ﻤﻴﻞ ﻧﺎﻗﻪﭘﺲ، ﭘﻰ ﻛﺮّﻩﺩﻮﺍﻦ
-  </p>
-</blockquote>
+> ﻤﻴﻞﻣﺠﻧﻮﻦ ﭘﻴﺶﺁﻦ ﻠﻴﻠﻰﺮﻮﺍﻦ                 ﻤﻴﻞ ﻧﺎﻗﻪﭘﺲ، ﭘﻰ ﻛﺮّﻩﺩﻮﺍﻦ
 
-<blockquote dir="rtl">
-  <p>
-ﻴﮓﺩﻢ ﺍﺮ ﻣﺠﻧﻮﻦﺰ ﺨﻮﺩ ﻏﺎﻔﻞﺒُﺩى           ﻧﺎﻗﻪﮔﺮﺩﻴﺩى ﻮﻮﺍﭙﺲ ﺁﻤﺩى
-  </p>
-</blockquote>
+> ﻴﮓﺩﻢ ﺍﺮ ﻣﺠﻧﻮﻦﺰ ﺨﻮﺩ ﻏﺎﻔﻞﺒُﺩى           ﻧﺎﻗﻪﮔﺮﺩﻴﺩى ﻮﻮﺍﭙﺲ ﺁﻤﺩى
 
-<blockquote dir="rtl">
-  <p>
-ﻋﺸﻖﻮ ﺳﻮﺪﺍ، ﭽﻮﻦﻜﻪ ﭙﺮ ﺒﻮﺪﺶﺒﺪﻦ        ﻤﻰ ﻧﺒﻮﺪﺶ  ﭽﺎﺮﻩﺍﺯ ﺒﻴﺧﻮﺪﺷﺪﻦ
-  </p>
-</blockquote>
+> ﻋﺸﻖﻮ ﺳﻮﺪﺍ، ﭽﻮﻦﻜﻪ ﭙﺮ ﺒﻮﺪﺶﺒﺪﻦ        ﻤﻰ ﻧﺒﻮﺪﺶ  ﭽﺎﺮﻩﺍﺯ ﺒﻴﺧﻮﺪﺷﺪﻦ
 
-<blockquote dir="rtl">
-  <p>
-ﺁﻧﻜﻪﺒﺎﺷﺪ ﺍﻮﻤﺮﺍﻗﺐ، ﻋﻗﻞﺒﻮﺪ                  ﻋﻗﻞ ﺮﺍﺴﻮﺪﻯ ﻠﻴﻠﻰﺪﺮ ﺮﺒﻮﺪ
-  </p>
-</blockquote>
+> ﺁﻧﻜﻪﺒﺎﺷﺪ ﺍﻮﻤﺮﺍﻗﺐ، ﻋﻗﻞﺒﻮﺪ                  ﻋﻗﻞ ﺮﺍﺴﻮﺪﻯ ﻠﻴﻠﻰﺪﺮ ﺮﺒﻮﺪ
 
-<blockquote dir="rtl">
-  <p>
-ﻠﻴﮓﻧﺎﻗﻪ،  ﺒس  ﻤﺮﺍﻗﺐ  ﺒﻮﺪ  ﻮ  ﭽُﺴﺖ      ﭽﻮﻦ ﺒﺪﻴﺪﻯ ﺍﻮﻤﻬﺎﺮ ﺧﻮﻴﺶﺴﺴﺖ
-  </p>
-</blockquote>
+> ﻠﻴﮓﻧﺎﻗﻪ،  ﺒس  ﻤﺮﺍﻗﺐ  ﺒﻮﺪ  ﻮ  ﭽُﺴﺖ      ﭽﻮﻦ ﺒﺪﻴﺪﻯ ﺍﻮﻤﻬﺎﺮ ﺧﻮﻴﺶﺴﺴﺖ
 
-<blockquote dir="rtl">
-  <p>
-ﻓﻬﻡﻜﺮﺪﻯ ﺯﻮ، ﻜﻪﻏﺎﻔﻞ ﮔﺷﺖ ﻮﺪﻧﮓ       ﺮﻮ ﺳﭘﺲﻜﺮﺪﻯ ﺒﻪﻜﺮّﻩ ﺒﻰﺪﺮﻧﮓ
-  </p>
-</blockquote>
+> ﻓﻬﻡﻜﺮﺪﻯ ﺯﻮ، ﻜﻪﻏﺎﻔﻞ ﮔﺷﺖ ﻮﺪﻧﮓ       ﺮﻮ ﺳﭘﺲﻜﺮﺪﻯ ﺒﻪﻜﺮّﻩ ﺒﻰﺪﺮﻧﮓ
 
-<blockquote dir="rtl">
-  <p>
-ﭽﻮﻦﺒﻪ ﺨﻮﺪﺒﺎﺯﺁﻣﺪﻯ، ﺪﻳﺪﻯ ﺯ ﺟﺎ            ﻜﻮﺴﭘﺲﺮﻓﺗﻪﺴﺖﺒﺲﻓﺮﺴﻧﮕﻬﺎ
-  </p>
-</blockquote>
+> ﭽﻮﻦﺒﻪ ﺨﻮﺪﺒﺎﺯﺁﻣﺪﻯ، ﺪﻳﺪﻯ ﺯ ﺟﺎ            ﻜﻮﺴﭘﺲﺮﻓﺗﻪﺴﺖﺒﺲﻓﺮﺴﻧﮕﻬﺎ
 
-<blockquote dir="rtl">
-  <p>
-ﺪﺮ ﺴﻪﺮﻮﺯﻩ ﺮَﻩ، ﺒﺪﻳﻦﺍﺤﻮﺍﻟﻬﺎ                 ﻤﻧﺪﻤﺟﻧﻮﻦ ﺪﺮﺗﺮﺪﺪ ﺴﺎﻟﻬﺎ
-  </p>
-</blockquote>
+> ﺪﺮ ﺴﻪﺮﻮﺯﻩ ﺮَﻩ، ﺒﺪﻳﻦﺍﺤﻮﺍﻟﻬﺎ                 ﻤﻧﺪﻤﺟﻧﻮﻦ ﺪﺮﺗﺮﺪﺪ ﺴﺎﻟﻬﺎ
 
 *Majnūn’s desire is speeding to the presence of that (beloved) Laylā;*
 
@@ -298,44 +234,20 @@ human existence serves as the battleground of these two bands.[103]
     
  The late Farīdūn Mashīrī [104] relates this status of man, thus:
 
-<blockquote dir="rtl">
-  <p>
-گفت دانايى كه: گرگى خيره سر                   هست پنهان در نهادِ هر
-بشر
-  </p>
-</blockquote>
+> گفت دانايى كه: گرگى خيره سر                   هست پنهان در نهادِ هر
+> بشر
 
-<blockquote dir="rtl">
-  <p>
-لا جرم جارى است پيكارى سترگ                روز و شب، مابين اين انسان و
-گرگ
-  </p>
-</blockquote>
+> لا جرم جارى است پيكارى سترگ                روز و شب، مابين اين انسان و
+> گرگ
 
-<blockquote dir="rtl">
-  <p>
-مردمان گر يكديگر را مىدرند                     گرگهاشان رهنما و رهبرند
-  </p>
-</blockquote>
+> مردمان گر يكديگر را مىدرند                     گرگهاشان رهنما و رهبرند
 
-<blockquote dir="rtl">
-  <p>
-اينكه انسان هست اين سان دردمند               گرگها فرمانروايى مىكنند
-  </p>
-</blockquote>
+> اينكه انسان هست اين سان دردمند               گرگها فرمانروايى مىكنند
 
-<blockquote dir="rtl">
-  <p>
-و آن ستمكاران كه با هم محرمند                  گرگهاشان آشنايان همند
-  </p>
-</blockquote>
+> و آن ستمكاران كه با هم محرمند                  گرگهاشان آشنايان همند
 
-<blockquote dir="rtl">
-  <p>
-گرگها همراه و انسانها غريب                      با گه بايد گفت اين
-حالِ عجيب؟
-  </p>
-</blockquote>
+> گرگها همراه و انسانها غريب                      با گه بايد گفت اين
+> حالِ عجيب؟
 
 *A wise man said: ‘A stubborn wolf*
 
@@ -410,47 +322,23 @@ for its own existence.”[106] So long as man is alive this choice exists.
 So long as man is in the terrestrial plane of existence, this successive
 self-building and self-demolition is inevitable:
 
-<blockquote dir="rtl">
-  <p>
-صورتگر نقاشم، هر لحظه بتى سازم                و آنگه همه بتها را در
-پيش تو بگدازم
-  </p>
-</blockquote>
+> صورتگر نقاشم، هر لحظه بتى سازم                و آنگه همه بتها را در
+> پيش تو بگدازم
 
-<blockquote dir="rtl">
-  <p>
-صد نقش بانگيزم، با روح درآميزم                  چون نقش تو را بينم، در
-آتشش اندازم
-  </p>
-</blockquote>
+> صد نقش بانگيزم، با روح درآميزم                  چون نقش تو را بينم، در
+> آتشش اندازم
 
-<blockquote dir="rtl">
-  <p>
-تو ساقىِ خمارى، يا دشمن هشيارى                 يا آنكه كنى ويران هر
-خانه كه مى سازم
-  </p>
-</blockquote>
+> تو ساقىِ خمارى، يا دشمن هشيارى                 يا آنكه كنى ويران هر
+> خانه كه مى سازم
 
-<blockquote dir="rtl">
-  <p>
-جان ريخته شد بر تو، آميخته شد با تو             چون بوى تو دارد جان،
-جان را، هله بنوازم
-  </p>
-</blockquote>
+> جان ريخته شد بر تو، آميخته شد با تو             چون بوى تو دارد جان،
+> جان را، هله بنوازم
 
-<blockquote dir="rtl">
-  <p>
-هر خون كه ز من رويد، با خاک تو مىگويد:      با مهر تو همرنگم، با عشق
-تو هنبازم
-  </p>
-</blockquote>
+> هر خون كه ز من رويد، با خاک تو مىگويد:      با مهر تو همرنگم، با عشق
+> تو هنبازم
 
-<blockquote dir="rtl">
-  <p>
-در خانه آب و گل بى توست خراب اين دل          يا خانه درآ، جانا، يا
-خانه بپردازم
-  </p>
-</blockquote>
+> در خانه آب و گل بى توست خراب اين دل          يا خانه درآ، جانا، يا
+> خانه بپردازم
 
 *As a portraitist every moment I make a beautiful idol*
 
@@ -573,12 +461,8 @@ ventures and activities feels himself free and believes in the right to
 choose, while he or she who is only confined within the four corners of
 the house experiences a sense of determinism and believes that:
 
-<blockquote dir="rtl">
-  <p>
-ما آبروى فقر و قناعت نمى بريم                  با پادشه بگو که روزى
-مقدر است
-  </p>
-</blockquote>
+> ما آبروى فقر و قناعت نمى بريم                  با پادشه بگو که روزى
+> مقدر است
 
 *We talk not of poverty and contentment;*
 
@@ -589,17 +473,9 @@ the house experiences a sense of determinism and believes that:
 abandoning economic activities. Mawlānā describes this propensity and
 morale as follows:
 
-<blockquote dir="rtl">
-  <p>
-ﺩﺭﻫﺭ ﺁﻥ ﻛﺎﻯ ﻛﻪﻣﻴﻞ ﺍﺳﺘﺖﺑﺪﺍﻥ                 ﻗﺪﺭﺕﺧﻮﺩ ﺭﺍ ﻫﻣﻰﺑﻴﻨﻰ ﻋﻴﺎﻥ
-  </p>
-</blockquote>
+> ﺩﺭﻫﺭ ﺁﻥ ﻛﺎﻯ ﻛﻪﻣﻴﻞ ﺍﺳﺘﺖﺑﺪﺍﻥ                 ﻗﺪﺭﺕﺧﻮﺩ ﺭﺍ ﻫﻣﻰﺑﻴﻨﻰ ﻋﻴﺎﻥ
 
-<blockquote dir="rtl">
-  <p>
-ﻭ ﻧﺩﺭ ﺁﻥﻛﺎﺭﻯ ﻛﻪﻣﻴﻠﺖ ﻧﻴﺴﺖ ﻭﺧﻮﺍﺴﺖ       ﺧﻮﻴﺶ ﺭﺍﺟﺒﺮﻯ ﻛﻨﻰ، ﻛﻴﻦ ﺍﺯﺧﺪﺍﺳﺖ
-  </p>
-</blockquote>
+> ﻭ ﻧﺩﺭ ﺁﻥﻛﺎﺭﻯ ﻛﻪﻣﻴﻠﺖ ﻧﻴﺴﺖ ﻭﺧﻮﺍﺴﺖ       ﺧﻮﻴﺶ ﺭﺍﺟﺒﺮﻯ ﻛﻨﻰ، ﻛﻴﻦ ﺍﺯﺧﺪﺍﺳﺖ
 
 *In every act for which you have inclination,*
 
@@ -621,23 +497,11 @@ of a tree belonging to God. The owner of the garden tied him with a rope
 and beat him on his back and sides with a piece of wood, and when the
 man objected to him for doing so, he answered:
 
-<blockquote dir="rtl">
-  <p>
-ﮔﻔﺖ: ״ﺍﺯ ﭼﻮﺏ ﺧﺪﺍﺍﻳﻦ ﺑﻨﺪﻩﺍﺵ           ﻣﻰﺯﻨﺪ ﺑﺮ ﭘﺸﺖﺩﻳﮕﺮ ﺑﻨﺪﻩﺧﻮﺵ
-  </p>
-</blockquote>
+> ﮔﻔﺖ: ״ﺍﺯ ﭼﻮﺏ ﺧﺪﺍﺍﻳﻦ ﺑﻨﺪﻩﺍﺵ           ﻣﻰﺯﻨﺪ ﺑﺮ ﭘﺸﺖﺩﻳﮕﺮ ﺑﻨﺪﻩﺧﻮﺵ
 
-<blockquote dir="rtl">
-  <p>
-ﭼﻮﺏ ﺣﻖ، ﻭ ﭘﺸﺖ ﻭ ﭘﻬﻠﻭﺁﻥِ ﺍﻭ           ﻣﻦ ﻏﻼﻡ ﻭﺁﻟﺖِ ﻓﺮﻣﺎﻥِ ﺍﻭ"
-  </p>
-</blockquote>
+> ﭼﻮﺏ ﺣﻖ، ﻭ ﭘﺸﺖ ﻭ ﭘﻬﻠﻭﺁﻥِ ﺍﻭ           ﻣﻦ ﻏﻼﻡ ﻭﺁﻟﺖِ ﻓﺮﻣﺎﻥِ ﺍﻭ"
 
-<blockquote dir="rtl">
-  <p>
-ﮔﻔﺖ: "ﺗﻭﺑﻪﻛﺮﺩﻡ ﺍﺯ ﺟﺒﺮﺍﻯ ﻋﻴﺎﺭ        ﺍﺧﺘﻴﺎﺭﺍﺳﺖ، ﺍﺧﺘﻴﺎﺭﺍﺳﺖ، ﺍﺧﺘﻴﺎﺭ"
-  </p>
-</blockquote>
+> ﮔﻔﺖ: "ﺗﻭﺑﻪﻛﺮﺩﻡ ﺍﺯ ﺟﺒﺮﺍﻯ ﻋﻴﺎﺭ        ﺍﺧﺘﻴﺎﺭﺍﺳﺖ، ﺍﺧﺘﻴﺎﺭﺍﺳﺖ، ﺍﺧﺘﻴﺎﺭ"
 
 *He answered, ‘With God’s cudgel this servant of His*
 
@@ -704,53 +568,21 @@ understanding of nature loses the essence of his life’s period, and
 falling to the level of creatures subjugated by their instincts. This
 kind of person, according to Mawlānā, is:
 
-<blockquote dir="rtl">
-  <p>
-ﺻﺩﻫﺰﺍﺭﺍﻥ ﻓﺼﻞﺩﺍﻨﺪ ﺍﺯﻋﻠﻮﻡ             ﺟﺎﻥ ﺧﻮﺩ ﺭﺍﻣﻰﻧﺪﺍﻧﺩ ﺁﻥﻇﻠﻮﻡ
-  </p>
-</blockquote>
+> ﺻﺩﻫﺰﺍﺭﺍﻥ ﻓﺼﻞﺩﺍﻨﺪ ﺍﺯﻋﻠﻮﻡ             ﺟﺎﻥ ﺧﻮﺩ ﺭﺍﻣﻰﻧﺪﺍﻧﺩ ﺁﻥﻇﻠﻮﻡ
 
-<blockquote dir="rtl">
-  <p>
-ﺩﺍﻨﺩﺍﻮ ﺧﺎﺼﻴﺖ ﻫﺭﺟﻮﻫﺭﻯ                 ﺪﺭ ﺑﻴﺎﻥ ﺟﻮﻫﺭﺧﻮﺪ ﭽﻮﻥ ﺧﺭﻯ
-  </p>
-</blockquote>
+> ﺩﺍﻨﺩﺍﻮ ﺧﺎﺼﻴﺖ ﻫﺭﺟﻮﻫﺭﻯ                 ﺪﺭ ﺑﻴﺎﻥ ﺟﻮﻫﺭﺧﻮﺪ ﭽﻮﻥ ﺧﺭﻯ
 
-<blockquote dir="rtl">
-  <p>
-ﮐﻪ: "ﻫﻤﻰ ﺩﺍﻨﻡﻳﺟﻮﺯ ﻮﻻﻴﺟﻮﺯ"          ﺧﻮﺪ ﻨﺩﺍﻨﻰﺗﻮ ﻴﺟﻮﺯﻯ ﻴﺎﻋﺟﻮﺯ!
-  </p>
-</blockquote>
+> ﮐﻪ: "ﻫﻤﻰ ﺩﺍﻨﻡﻳﺟﻮﺯ ﻮﻻﻴﺟﻮﺯ"          ﺧﻮﺪ ﻨﺩﺍﻨﻰﺗﻮ ﻴﺟﻮﺯﻯ ﻴﺎﻋﺟﻮﺯ!
 
-<blockquote dir="rtl">
-  <p>
-ﺍﻴﻥﺭﻮﺍ ﻮ ﺁﻥﻨﺎﺭﻮﺍ، ﺩﺍﻨﻰ ﻮ ﻟﻴﮏ           ﺗﻮﺭﻮﺍ ﻴﺎﻨﺎﺭﻮﺍﻴﻰ؟ ﺑﻴﻥ ﺗﻮ ﻨﻴﮏ
-  </p>
-</blockquote>
+> ﺍﻴﻥﺭﻮﺍ ﻮ ﺁﻥﻨﺎﺭﻮﺍ، ﺩﺍﻨﻰ ﻮ ﻟﻴﮏ           ﺗﻮﺭﻮﺍ ﻴﺎﻨﺎﺭﻮﺍﻴﻰ؟ ﺑﻴﻥ ﺗﻮ ﻨﻴﮏ
 
-<blockquote dir="rtl">
-  <p>
-ﻗﻴﻣﺖﻫﺭ ﻛﺎﻟﻪﻣﻰﺩﺍﻨﻛﻪﭼﻴﺳﺖ              ﻗﻴﻣﺖ ﺨﻮﺩﺭﺍ ﻨﺎﺩﺍﻨﻰﺍﺤﻣﻘﻰ ﺍﺳﺖ
-  </p>
-</blockquote>
+> ﻗﻴﻣﺖﻫﺭ ﻛﺎﻟﻪﻣﻰﺩﺍﻨﻛﻪﭼﻴﺳﺖ              ﻗﻴﻣﺖ ﺨﻮﺩﺭﺍ ﻨﺎﺩﺍﻨﻰﺍﺤﻣﻘﻰ ﺍﺳﺖ
 
-<blockquote dir="rtl">
-  <p>
-ﺳﻌﺩﻫﺎﻮ ﻨﺤﺳﻬﺎﺩﺍﻨﺳﻪﺍﻯ                    ﻨﻨﮕﺭﻯ ﺳﻌﺩﻯﺘﻮ ﻴﺎﻨﺎﺸُﺳﺘﻪﺍﻯ
-  </p>
-</blockquote>
+> ﺳﻌﺩﻫﺎﻮ ﻨﺤﺳﻬﺎﺩﺍﻨﺳﻪﺍﻯ                    ﻨﻨﮕﺭﻯ ﺳﻌﺩﻯﺘﻮ ﻴﺎﻨﺎﺸُﺳﺘﻪﺍﻯ
 
-<blockquote dir="rtl">
-  <p>
-ﺠﺎﻦﺠﻤﻠﻪ ﻋﻠﻤﻬﺎﺍﻴﻦ ﺍﺳﺖ ﺍﻴﻦ              ﻜﻪ ﺑﺩﺍﻨﻰﻤﻦ ﻜﻰﺍﻢ  ﺩﺮ ﻴﻮﻢ ﺩﻴ
-  </p>
-</blockquote>
+> ﺠﺎﻦﺠﻤﻠﻪ ﻋﻠﻤﻬﺎﺍﻴﻦ ﺍﺳﺖ ﺍﻴﻦ              ﻜﻪ ﺑﺩﺍﻨﻰﻤﻦ ﻜﻰﺍﻢ  ﺩﺮ ﻴﻮﻢ ﺩﻴ
 
-<blockquote dir="rtl">
-  <p>
-آن اصول دين بدانستى تو، ليک            بنگر اندر اصلخود، گر هست نيک
-  </p>
-</blockquote>
+> آن اصول دين بدانستى تو، ليک            بنگر اندر اصلخود، گر هست نيک
 
 *He knows a hundred thousand superfluous matters*[118] *connected with*
 
@@ -829,11 +661,7 @@ of your ideal condition, set out on a perpetual journey and move toward
 your ideal station.[124] In the language of Mawlānā,  
   
 
-<blockquote dir="rtl">
-  <p>
-همچو مستسقى كز آبش سير نيست          بر هر آنچه يافتى باﷲ ميست
-  </p>
-</blockquote>
+> همچو مستسقى كز آبش سير نيست          بر هر آنچه يافتى باﷲ ميست
 
 *By God, do not tarry in anything (any spiritual position) that thou
 hast gained,*
@@ -908,11 +736,7 @@ conditions. If man be free from all external entanglements but has a
 feeling of inner bondage, he is then not truly free. If man possesses
 the whole world but internally feels indigence, he is still destitute. 
 
-<blockquote dir="rtl">
-  <p>
-ﮔﻔﺖﭽﺷﻢ ﺗﻧﮓﺪﻧﻴﺎ ﺪﻮﺴﺖﺮﺍ           ﻴﺎ ﻗﻧﺎﻋﺖﭘﺮ ﮐﻧﺪ ﻴﺎﺧﺎﮎ ﮔﻮﺮ
-  </p>
-</blockquote>
+> ﮔﻔﺖﭽﺷﻢ ﺗﻧﮓﺪﻧﻴﺎ ﺪﻮﺴﺖﺮﺍ           ﻴﺎ ﻗﻧﺎﻋﺖﭘﺮ ﮐﻧﺪ ﻴﺎﺧﺎﮎ ﮔﻮﺮ
 
 *He said that the covetous eye of the worldly man is either satisfied*
 
@@ -1029,35 +853,15 @@ the self over combat against an adversary—(as combat with the self
 involves fighting with) an adversary whose killing is not easily
 possible and who is more powerful than any outer enemy:
 
-<blockquote dir="rtl">
-  <p>
-ﺍﯼﺸﻬﺎﻦ! ﮐﺸﺘﻴﻢﻤﺎ ﺧﺻﻢ ﺒﺮﻮﻦ                   ﻤﺎﻨﺪﺧﺻﻤﻰ ﺯﻮ ﺒﺘﺮﺪﺮ ﺍﻨﺪﺮﻮﻦ
-  </p>
-</blockquote>
+> ﺍﯼﺸﻬﺎﻦ! ﮐﺸﺘﻴﻢﻤﺎ ﺧﺻﻢ ﺒﺮﻮﻦ                   ﻤﺎﻨﺪﺧﺻﻤﻰ ﺯﻮ ﺒﺘﺮﺪﺮ ﺍﻨﺪﺮﻮﻦ
 
-<blockquote dir="rtl">
-  <p>
-ﮐﺸﺘﻦﺍﻴﻦ، ﮐﺎﺮﻋﻘﻞ ﻮ ﻫﻮﺶﻨﻴﺴﺖ               ﺸﻴﺮ ﺒﺎﻄﻦ ، ﺴُﺧﺮﻩﺧﺮﮔﻮﺶ ﻨﻴﺴﺖ
-  </p>
-</blockquote>
+> ﮐﺸﺘﻦﺍﻴﻦ، ﮐﺎﺮﻋﻘﻞ ﻮ ﻫﻮﺶﻨﻴﺴﺖ               ﺸﻴﺮ ﺒﺎﻄﻦ ، ﺴُﺧﺮﻩﺧﺮﮔﻮﺶ ﻨﻴﺴﺖ
 
-<blockquote dir="rtl">
-  <p>
-ﺪﻮﺰﺥﺍﺴﺖ ﺍﻴﻦ ﻨﻔﺲﻭ ﺪﻮﺰﺥﺍﮊﺪﻫﺎﺴﺖ         ﻜﻮ ﺒﻪﺪﺮﻴﺎﻫﺎﻨﮔﺮﺪﺪ ﻜﻢ ﻮﻜﺎﺴﺖ
-  </p>
-</blockquote>
+> ﺪﻮﺰﺥﺍﺴﺖ ﺍﻴﻦ ﻨﻔﺲﻭ ﺪﻮﺰﺥﺍﮊﺪﻫﺎﺴﺖ         ﻜﻮ ﺒﻪﺪﺮﻴﺎﻫﺎﻨﮔﺮﺪﺪ ﻜﻢ ﻮﻜﺎﺴﺖ
 
-<blockquote dir="rtl">
-  <p>
-ﻫﻔﺖﺪﺮﻴﺎ ﺮﺍﺪﺮﺁﺷﺎﻤﺪ، ﻫﻨﻭﺰ                      ﻜﻢﻨﮔﺮﺪﺪ ﺴﻭﺰﺶﺁﻥ ﺨَﻠﻕ ﺴﻭﺰ
-  </p>
-</blockquote>
+> ﻫﻔﺖﺪﺮﻴﺎ ﺮﺍﺪﺮﺁﺷﺎﻤﺪ، ﻫﻨﻭﺰ                      ﻜﻢﻨﮔﺮﺪﺪ ﺴﻭﺰﺶﺁﻥ ﺨَﻠﻕ ﺴﻭﺰ
 
-<blockquote dir="rtl">
-  <p>
-ﺴﻨﮔﻬﺎﻮ ﻜﺎﻓﺮﺍﻥﺴﻨﮓ ﺪﻞ                          ﺍﻨﺪﺮﺁﻳﻨﺪ ﺍﻨﺪﺮﺍﻭ ﺰﺍﺮ ﻮ ﺨﺠﻞ
-  </p>
-</blockquote>
+> ﺴﻨﮔﻬﺎﻮ ﻜﺎﻓﺮﺍﻥﺴﻨﮓ ﺪﻞ                          ﺍﻨﺪﺮﺁﻳﻨﺪ ﺍﻨﺪﺮﺍﻭ ﺰﺍﺮ ﻮ ﺨﺠﻞ
 
 *O kings, we have slain the outward enemy,*
 
@@ -1132,12 +936,8 @@ held within the cage of body and shackled to the physical dimension. For
 instance, in an ode [*ghazal*] they claimed to be that of Mawlānā,[146]
 it appears thus:
 
-<blockquote dir="rtl">
-  <p>
-مرﻍ باﻍ ملکوتم نيم از عالم خاک          چند روزى قفسى ساخته اند از
-بدنم
-  </p>
-</blockquote>
+> مرﻍ باﻍ ملکوتم نيم از عالم خاک          چند روزى قفسى ساخته اند از
+> بدنم
 
 *I’m a bird of the heavenly garden and not of this material world.*
 
@@ -1151,19 +951,11 @@ physical world as the greatest veil in reaching God. Many a time Hāfiz
 Shīrāzī[148] expresses chagrin and remorse for this earthliness of man
 and reminds [man] that this [world] is not his [final] abode:
 
-<blockquote dir="rtl">
-  <p>
-كه اى بلند نظر، شاهباز سدره نشين             نشين تو نه اين كُنج محنت
-آبادست
-  </p>
-</blockquote>
+> كه اى بلند نظر، شاهباز سدره نشين             نشين تو نه اين كُنج محنت
+> آبادست
 
-<blockquote dir="rtl">
-  <p>
-ترا ز كنگره عرش مىزنند صفير                 ندانمت كه در اين دامگه چه
-افتادست
-  </p>
-</blockquote>
+> ترا ز كنگره عرش مىزنند صفير                 ندانمت كه در اين دامگه چه
+> افتادست
 
 *O ambitious and great who is in a sublime station!*
 
@@ -1204,17 +996,9 @@ anything. The following couplets that are attributed to Bābā Tāhir[153]
 point to this view:  
   
 
-<blockquote dir="rtl">
-  <p>
-ز دست ديده و دل هر دو فرياد              كه هرچه ديده بيند، دل كند ياد
-  </p>
-</blockquote>
+> ز دست ديده و دل هر دو فرياد              كه هرچه ديده بيند، دل كند ياد
 
-<blockquote dir="rtl">
-  <p>
-ببسازم خنجرى نيشش ز فولاد              زنم بر ديده تا دل گردد آزاد
-  </p>
-</blockquote>
+> ببسازم خنجرى نيشش ز فولاد              زنم بر ديده تا دل گردد آزاد
 
 *I complain of both my eyes and heart*
 
@@ -1230,23 +1014,11 @@ others, close his eyes from viewing the beauties of nature, and deprive
 himself of all the natural endowments. Sa‘dī[154] thus narrates his
 dialogue with one of these kind of people as follows:
 
-<blockquote dir="rtl">
-  <p>
-ﺒﺰﺮﮔﯽﺪﻴﺪﻢ ﺍﻧﺪﺮﮐﻮﻫﺳﺎﺮﯼ                  ﻗﻧﺎﻋﺖﮐﺮﺪﻩ ﺍﺰﺪﻧﻳﺎ ﺒﻪﻏﺎﺮﯼ
-  </p>
-</blockquote>
+> ﺒﺰﺮﮔﯽﺪﻴﺪﻢ ﺍﻧﺪﺮﮐﻮﻫﺳﺎﺮﯼ                  ﻗﻧﺎﻋﺖﮐﺮﺪﻩ ﺍﺰﺪﻧﻳﺎ ﺒﻪﻏﺎﺮﯼ
 
-<blockquote dir="rtl">
-  <p>
-ﭽﺮﺍ، ﮔﻔﺗﻢ ﺒﻪ ﺷﻬﺮﺍﻧﺪﺮﻧﻴﺎﻴﯽ؟              ﮐﻪ ﺒﺎﺮﯼﺒﻧﺪﻯ ﺍﺯ ﺪﻞﺒﺮﮔﺷﺎﻴﯽ
-  </p>
-</blockquote>
+> ﭽﺮﺍ، ﮔﻔﺗﻢ ﺒﻪ ﺷﻬﺮﺍﻧﺪﺮﻧﻴﺎﻴﯽ؟              ﮐﻪ ﺒﺎﺮﯼﺒﻧﺪﻯ ﺍﺯ ﺪﻞﺒﺮﮔﺷﺎﻴﯽ
 
-<blockquote dir="rtl">
-  <p>
-ﺒﮕﻔﺖﺁﻧﺠﺎﭙﺮﻴﺮﻮﻴﺎﻦﻧﻐﺰﻧﺪ                   ﭼﻮ ﮔﻞﺒﺴﻴﺎﺮ ﺷﺪ، ﭙﻴﻼﻦﺒﻠﻐﺰﻧﺪ
-  </p>
-</blockquote>
+> ﺒﮕﻔﺖﺁﻧﺠﺎﭙﺮﻴﺮﻮﻴﺎﻦﻧﻐﺰﻧﺪ                   ﭼﻮ ﮔﻞﺒﺴﻴﺎﺮ ﺷﺪ، ﭙﻴﻼﻦﺒﻠﻐﺰﻧﺪ
 
 *A great man I saw in highlands*
 
@@ -1269,24 +1041,12 @@ between the worshipper and ascetic on the one hand, and the scholar on
 the other hand, is that the former is only after his salvation while the
 latter is concerned with the salvation of others as well:
 
-<blockquote dir="rtl">
-  <p>
-ﺻﺎﺤﺒﺪﻠﻰﺒﻪ ﻤﺪﺮﺴﻪﺁﻤﺪ ﺯﺨﺎﻧﻘﺎﻩ                 ﺒﺸﮑﺴﺖﻋﻬﺪِ ﺻﺤﺒﺖ اﻫﻞ ﻄﺮﻴﻖ ﺮا
-  </p>
-</blockquote>
+> ﺻﺎﺤﺒﺪﻠﻰﺒﻪ ﻤﺪﺮﺴﻪﺁﻤﺪ ﺯﺨﺎﻧﻘﺎﻩ                 ﺒﺸﮑﺴﺖﻋﻬﺪِ ﺻﺤﺒﺖ اﻫﻞ ﻄﺮﻴﻖ ﺮا
 
-<blockquote dir="rtl">
-  <p>
-ﮔﻔﺘﻡ: ﻤﻴﺎﻦ ﻋﺎﻠِﻡﻮ ﻋﺎﺒﺪ ﭽﻪﻓﺮﻕ ﺑﻮﺪ             ﺗﺎ اﺧﺘﻴﺎﺮﮐﺮﺪﻯ اﺰ ﺁﻦ اﻴﻦ
-ﻓﺮﻴﻖ ﺮا؟
-  </p>
-</blockquote>
+> ﮔﻔﺘﻡ: ﻤﻴﺎﻦ ﻋﺎﻠِﻡﻮ ﻋﺎﺒﺪ ﭽﻪﻓﺮﻕ ﺑﻮﺪ             ﺗﺎ اﺧﺘﻴﺎﺮﮐﺮﺪﻯ اﺰ ﺁﻦ اﻴﻦ
+> ﻓﺮﻴﻖ ﺮا؟
 
-<blockquote dir="rtl">
-  <p>
-ﮔﻔﺖ: ﺁﻦ ﮔﻠﻴﻢﺧﻮﻴﺶ ﺑﺪﺮﻤﻰﺑﺮﺪ ﺰ ﻤﻮﺝ         ﻮﻴﻥﺠﻬﺪ ﻤﻰﻛﻨﺪﮔﻪ ﺮﻫﺎﻨﺪﻏﺮﻴﻖ ﺮﺍ
-  </p>
-</blockquote>
+> ﮔﻔﺖ: ﺁﻦ ﮔﻠﻴﻢﺧﻮﻴﺶ ﺑﺪﺮﻤﻰﺑﺮﺪ ﺰ ﻤﻮﺝ         ﻮﻴﻥﺠﻬﺪ ﻤﻰﻛﻨﺪﮔﻪ ﺮﻫﺎﻨﺪﻏﺮﻴﻖ ﺮﺍ
 
 *A certain holy man having quitted the monastery,*
 
@@ -1499,11 +1259,7 @@ submitting to insults and disgraces to which an individual or his family
 may be subjected; dastardliness; spiritlessness, etc. Describing the
 qualities of the believers God Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ.﴾
-  </p>
-</blockquote>
+> ﴿أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ.﴾
 
 ***(*****The believers*****)*** **are hard against the unbelievers and
 merciful among themselves**.*[167]*
@@ -1564,29 +1320,13 @@ meekness and forbearance? The understanding of Mawlānā on the Prophet’s
 noble *hadīth*, “*Lā rahbāniyyah fī’l-Islām*” [There is no monasticism
 in Islam][169] succinctly illustrates the essence of this viewpoint:  
 
-<blockquote dir="rtl">
-  <p>
-چون عدو نبْوَد، جهاد آمد محال             شهوتت نبود، نباشد امتثال
-  </p>
-</blockquote>
+> چون عدو نبْوَد، جهاد آمد محال             شهوتت نبود، نباشد امتثال
 
-<blockquote dir="rtl">
-  <p>
-صبر نبود چون نباشد ميل تو                خصم چون نبود، چه حاجت خيل تو؟
-  </p>
-</blockquote>
+> صبر نبود چون نباشد ميل تو                خصم چون نبود، چه حاجت خيل تو؟
 
-<blockquote dir="rtl">
-  <p>
-هين! مكن خود را خصى، رُهبان مشو     زانكه عفّت، هست شهوت را گرو
-  </p>
-</blockquote>
+> هين! مكن خود را خصى، رُهبان مشو     زانكه عفّت، هست شهوت را گرو
 
-<blockquote dir="rtl">
-  <p>
-بىهوا، نهى از هوا ممكن نبود              غازىاى بر مُردگان نتوان نمود
-  </p>
-</blockquote>
+> بىهوا، نهى از هوا ممكن نبود              غازىاى بر مُردگان نتوان نمود
 
 *When there is no enemy, armed struggle is inconceivable;*
 
@@ -1615,11 +1355,7 @@ appearance of positive and valuable attributes of man. It is in times of
 adversity and hardship that man’s power of patience and constancy is put
 under test and man is able to recognize his essence well:
 
-<blockquote dir="rtl">
-  <p>
-عِرْقِ مردى آن گهى پيدا شود               كه مسافر همرهِ اعدا شود
-  </p>
-</blockquote>
+> عِرْقِ مردى آن گهى پيدا شود               كه مسافر همرهِ اعدا شود
 
 *The root (innate quality) of manhood (only) becomes apparent at the
 time*
@@ -1685,11 +1421,7 @@ unsatisfied.[176]               
 satisfaction for what has been given, contentment and self-respect:  
   
 
-<blockquote dir="rtl">
-  <p>
-كوزه چشم حريصان پر نشد           تا صدف قانع نشد، پر دُر نشد
-  </p>
-</blockquote>
+> كوزه چشم حريصان پر نشد           تا صدف قانع نشد، پر دُر نشد
 
 *The pitcher, the eye of the covetous, never becomes full:*
 
@@ -2296,23 +2028,11 @@ objectionable when it makes man forgetful of God and his destination,
 and not when it would be his companion and aid in this journey and for
 reaching the destination:
 
-<blockquote dir="rtl">
-  <p>
-چيست دنيا؟ از خدا غافل بُدن                نه قماش و نقده و ميزان و زن
-  </p>
-</blockquote>
+> چيست دنيا؟ از خدا غافل بُدن                نه قماش و نقده و ميزان و زن
 
-<blockquote dir="rtl">
-  <p>
-مال را كز بهر دين باشى حمول             نعم مالٌ صالحٌ خواندش رسول
-  </p>
-</blockquote>
+> مال را كز بهر دين باشى حمول             نعم مالٌ صالحٌ خواندش رسول
 
-<blockquote dir="rtl">
-  <p>
-آب در كشتى، هلاک كشتى است            آب اندر زير كشتى پشتى است
-  </p>
-</blockquote>
+> آب در كشتى، هلاک كشتى است            آب اندر زير كشتى پشتى است
 
 *What is this world? To be forgetful of God;*
 
@@ -2330,5 +2050,4 @@ Prophet recited,*
    
     
   
-
 

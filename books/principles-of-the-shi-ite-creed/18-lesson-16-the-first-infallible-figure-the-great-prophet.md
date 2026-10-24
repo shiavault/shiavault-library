@@ -113,4 +113,3 @@ in chronicles and surah Elephant of the Qur’an alludes to this story.
 
 [^2]: Abu’l-Futuh exegesis, vol. 4, Islamiyah, p. 138.
 
-

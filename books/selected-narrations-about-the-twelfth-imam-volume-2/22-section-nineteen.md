@@ -39,4 +39,3 @@ pp. 280–281, no. 1; I\`lām al-warā, sect. 2, chap. 2; Ithbāt al-hudāt,
 vol. 3, chap. 27, sect. 2, p. 386, no. 19; Biḥār al-anwār, vol. 51,
 chap. 9, p. 156, no. 1.
 
-

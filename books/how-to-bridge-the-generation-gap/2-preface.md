@@ -209,11 +209,7 @@ words, it does not necessarily mean that we always approve of all his
 words or deeds. We sometimes even quote our enemies. For instance, they
 say that Muawiyyah had said the following about Imam ‘Ali (a.s):
 
-<blockquote dir="rtl">
-  <p>
-لوملك بيتا من تبروبيتا من تبن لا نفد تبره قبل تبنه
-  </p>
-</blockquote>
+> لوملك بيتا من تبروبيتا من تبن لا نفد تبره قبل تبنه
 
 *“If ‘Ali had two houses, one filled with gold and the other with straw,
 he would donate in the way of Allah, the former the later.”* [^4]
@@ -221,11 +217,7 @@ he would donate in the way of Allah, the former the later.”* [^4]
 Also, they say that Marwan has said the following about Imam Hassan
 (a.s):
 
-<blockquote dir="rtl">
-  <p>
-يوازن حلمه الجبال
-  </p>
-</blockquote>
+> يوازن حلمه الجبال
 
 “Imam Hassan's clemency equates mountains.” [^5]
 
@@ -329,5 +321,4 @@ for people and by its fascination to keep them in bondage.
 [^4]: Nahjul Balagah ibn Abi Al-Hadith Vol. 1.p.22
 
 [^5]: Maqatul-Altalibeen p.49.
-
 

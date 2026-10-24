@@ -183,4 +183,3 @@ Think and Answer
  4. What qualities should the best lawgiver have?  
  5. Why should the prophets be of the human species?
 
-

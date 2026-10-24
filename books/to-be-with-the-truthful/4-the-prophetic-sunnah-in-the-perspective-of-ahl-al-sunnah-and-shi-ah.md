@@ -391,4 +391,3 @@ Thereat the Messenger of Allah said to him: “Allah created Adam with the
 same shape of him.” That is, with your slandering whoever resembling
 him, you have in fact defamed Adam as he is the one who is like him.
 
-

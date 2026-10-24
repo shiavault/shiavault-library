@@ -37,11 +37,7 @@ controls the unruly instincts, it makes man's heart pure and luminous.
 In short, fasts heave man out of the world of animals and elevate him
 into the realm of angels, and the expression**:**
 
-<blockquote dir="rtl">
-  <p>
-لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> لَعَلَّكُمْ تَتَّقُونَ
 
 ***“…so that you may guard (against evil).”***
 
@@ -50,11 +46,7 @@ behind the fasts, also bears an allusion to all of the above realities.
 
 The well-known tradition:
 
-<blockquote dir="rtl">
-  <p>
-الصَّوْمُ جُنَّةٌ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> الصَّوْمُ جُنَّةٌ مِنَ النَّارِ.
 
 “The fast is a shield against the fire (of Hell)”[^2] is also a
 reference to this issue.
@@ -69,23 +61,15 @@ roots and seeking forgiveness severs the vein of his heart.”
 In Nahjul Balagha, while explaining the philosophy of the various acts
 of worship, the Commander of the Faithful (a.s), says regarding fasting:
 
-<blockquote dir="rtl">
-  <p>
-وَ الصِّيَامَ ابْتِلاَءً لِإِخْلاَصِ الْخَلْقِ.
-  </p>
-</blockquote>
+> وَ الصِّيَامَ ابْتِلاَءً لِإِخْلاَصِ الْخَلْقِ.
 
 “Allah ordered the observance of fasts for fostering (the attribute of)
 sincerity within the people).”[^3]
 
 In another tradition of the Noble Prophet (s.a.w), we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْجَنَّةِ بَاباً يُدْعَى الرَّيَّانَ لاَ يَدْخُلُ مِنْهُ
-إِلاَّ الصَّائِمُونَ.
-  </p>
-</blockquote>
+> إِنَّ لِلْجَنَّةِ بَاباً يُدْعَى الرَّيَّانَ لاَ يَدْخُلُ مِنْهُ
+> إِلاَّ الصَّائِمُونَ.
 
 “Paradise has a door by the name of 'Rayyan' (the sated one) and none
 shall enter Paradise through it except those who fast.”
@@ -172,21 +156,13 @@ such as cancer, syphilis, tuberculosis and plague can also be treated by
 this means.[^8]  
  In a well-known tradition, the Noble Prophet (s.a.w) says:
 
-<blockquote dir="rtl">
-  <p>
-تَصُومُوا تَصِحُّوا.
-  </p>
-</blockquote>
+> تَصُومُوا تَصِحُّوا.
 
 “Fast, in order that you become healthy.”[^9]
 
 In another well-known tradition, he (s.a.w) says:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمِعْدَةُ بَيْتُ كَلِّ داَءٍ وَ الْحَمِيَّةُ رَأْسُ كُلِّ دَواَءٍ.
-  </p>
-</blockquote>
+> أَلْمِعْدَةُ بَيْتُ كَلِّ داَءٍ وَ الْحَمِيَّةُ رَأْسُ كُلِّ دَواَءٍ.
 
 “The stomach is the house of all maladies and abstinence (from food) is
 the best of all cures.”[^10][^11]
@@ -215,5 +191,4 @@ edition)
 [^10]: Ibid., vol. 14
 
 [^11]: Tafsir-e-Namunah, vol. 1, pg. 628
-
 

@@ -20,4 +20,3 @@ foetus, it can adversely affect the growth of the child.[^1]
 
 [^1]: Rowan shinashi kudak, p. 222
 
-

@@ -10,12 +10,8 @@ creation, to note with care the signs of His making, and to meditate on
 His wisdom and His excellently perfect planning in His signs in the
 horizons and in ourselves. He has thus said (in the Holy Qur'an):
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
 
 ***We shall show them Our signs on the horizons and in themselves, until
 it is clear to them that it is the Truth. (41/53)***
@@ -24,12 +20,8 @@ Almighty Allah has likewise shown His disapproval of those who blindly
 follow the ways of those who were before them. Hence, He says in the
 Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا ۗ أَوَلَوْ
-كَانَ آبَاؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ
-  </p>
-</blockquote>
+> قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا ۗ أَوَلَوْ
+> كَانَ آبَاؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ
 
 ***..They say: ‘No, but we will do what we found our fathers doing.’
 And, what if their fathers had no understanding of anything! (2/170)***
@@ -39,11 +31,7 @@ and conjectures.
 
 He, the Exalted, thus says:
 
-<blockquote dir="rtl">
-  <p>
- إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ
-  </p>
-</blockquote>
+>  إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ
 
 ***…They follow naught but an opinion… (6/116)***
 
@@ -122,12 +110,8 @@ to do so, or
 decency and rationality in addition to other qualifications. Such a
 *mujtahid* according to religious traditions:
 
-<blockquote dir="rtl">
-  <p>
-صَائِناً لِنَفْسِهِ، حَافِظاً لِدِينِهِ، مُخَالِفاً لِهَوَاهُ،
-مُطِيعاً لأمْرِ مَوْلاَهُ.
-  </p>
-</blockquote>
+> صَائِناً لِنَفْسِهِ، حَافِظاً لِدِينِهِ، مُخَالِفاً لِهَوَاهُ،
+> مُطِيعاً لأمْرِ مَوْلاَهُ.
 
 …preserves himself against wrongdoing and worldly pleasures, cares for
 his religion, opposes the dictates of his desires, and obeys the
@@ -180,12 +164,8 @@ of the secondary laws which the Holy Prophet (s) has conveyed to his
 nation. Of course, these laws are unalterable and cannot be changed when
 times or conditions change. It has thus been declared:
 
-<blockquote dir="rtl">
-  <p>
-حَلاَلُ مُحَمَّدٍ حَلاَلٌ إلَى يَوْمِ القِيَامَةِ، وَحَرَامُهُ حَرَامٌ
-إلَى يَوْمِ القِيَامَةِ.
-  </p>
-</blockquote>
+> حَلاَلُ مُحَمَّدٍ حَلاَلٌ إلَى يَوْمِ القِيَامَةِ، وَحَرَامُهُ حَرَامٌ
+> إلَى يَوْمِ القِيَامَةِ.
 
 What Muhammad (\`a) has made halal (legal) will be halal until the Day
 of Judgment, and what he has made haram (forbidden) will be haram until
@@ -418,5 +398,4 @@ Reports of Trustworthy Narrators); 27:137, H. 33416, H. 1, Section: bab
 wujub al-ruju\` fi al-qadha' wal-fatwa ila ruwat al-hadith min
 al-shi\`ah (The Obligation of Reference to Shi\`ite Narrators of Hadith
 in Issues of Judicature and Verdicts).
-
 

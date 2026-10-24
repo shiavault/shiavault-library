@@ -50,4 +50,3 @@ gift bestowed on him by God in His generosity."*[^1]
 
 [^1]: al-Kulayni, al-Kafi, Vol. I, p.200.
 
-

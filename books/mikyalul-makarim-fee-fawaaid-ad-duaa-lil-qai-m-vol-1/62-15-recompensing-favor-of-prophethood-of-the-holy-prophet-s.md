@@ -4,12 +4,8 @@
 That which proves this matter is the statement of the Almighty Allah in
 Surah H’aa Meem A’in Seen Qaaf:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives.” (Qur’an, Surah Shura 42:23)***
@@ -148,12 +144,8 @@ sermon:
 “We are a family whose love the Almighty Allah has made compulsory on
 every Muslim when He said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives.” (Qur’an, Surah Shura 42:23)***[^1]
@@ -222,11 +214,7 @@ relatives.”
 Thus, curse of Allah be on one who does injustice on me. And the
 Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***“The Prophet has a greater claim on the faithful than they have on
 themselves.” (Qur’an, Surah Ahzab 33:6)***
@@ -339,22 +327,14 @@ love Allah has made incumbent and has promised reward for it. Indeed
 none fulfills this duty but that he shall be compulsorily admitted to
 Paradise according to the saying of Allah:
 
-<blockquote dir="rtl">
-  <p>
-تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ
-ۗ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي رَوْضَاتِ
-الْجَنَّاتِ ۖ لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ
-الْفَضْلُ الْكَبِيرُ .
-  </p>
-</blockquote>
+> تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ
+> ۗ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي رَوْضَاتِ
+> الْجَنَّاتِ ۖ لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ
+> الْفَضْلُ الْكَبِيرُ .
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا
-وَعَمِلُوا الصَّالِحَاتِ ۗ قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
-إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ
-  </p>
-</blockquote>
+> ذَٰلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ ۗ قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+> إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ
 
 ***“And those who believe and do good shall be in the meadows of the
 gardens; they shall have what they please with their Lord: that is the
@@ -483,5 +463,4 @@ they must have regard for everything related to him.
 [^6]: Ghayat al-Maraam Pg. 307, Chapter 5, Tr. 10
 
 [^7]: Tafseer al-Qummi, Pg. 602
-
 

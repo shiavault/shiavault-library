@@ -5,11 +5,7 @@ Subjunctive Cases of a Verb
  A verb is put into the subjunctive case if it follows one of the four
 following prepositions:
 
-<blockquote dir="rtl">
-  <p>
-ﺃن لن ﺇذن کی
-  </p>
-</blockquote>
+> ﺃن لن ﺇذن کی
 
 For example:  
  1) **ﺃریدُ** **ﺃن** **ﺃتعلّمَ** **النَحو** (I want to learn syntax.)
@@ -20,5 +16,4 @@ For example:
 you stay in our house.)
 
 4) **ﺃدرُس** **کَی** **تَحفَظَ** (Study so that you preserve.)
-
 

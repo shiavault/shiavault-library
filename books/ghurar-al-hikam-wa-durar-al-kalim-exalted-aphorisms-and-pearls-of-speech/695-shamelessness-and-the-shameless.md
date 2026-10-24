@@ -15,4 +15,3 @@ Shamelessness And The Shameless
 
 > 3ـ وَقاحَةُ الرَّجُلِ تَشينُهُ.
 
-

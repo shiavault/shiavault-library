@@ -83,4 +83,3 @@ the tradition)”; Biḥār al-anwār, vol. 37, chap. 54, p. 294, no. 8
 
 [^3]: Ghaybat al-Nu\`mānī , chap. 10, pp. 140–141, no. 1.
 
-

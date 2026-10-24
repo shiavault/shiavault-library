@@ -98,7 +98,6 @@ which is at the service of his nature-and so it must be-will be brought
 into the service of the species without any concern for the individual's
 interests.
 
-
 **Q: On the basis of what you have said, service to the species is also
 part of man's nature?**
 
@@ -180,5 +179,4 @@ stems from the collective self is a moral act and that which stems from
 the individual self is not moral in nature. Of course, the instances of
 this principle may vary, but in any case this can be a universal and
 permanent principle.
-
 

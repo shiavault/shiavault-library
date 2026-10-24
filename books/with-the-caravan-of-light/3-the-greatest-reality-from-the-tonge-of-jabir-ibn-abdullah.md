@@ -286,7 +286,6 @@ Rasa, the poet, has said in a verse:
 The fragrance of his dust animates me and I long to embrace his
 grave.
 
-
 The Qur'an says:
 
 \*He will forgive you your sins and bring you into Gardens underneath
@@ -294,5 +293,4 @@ which rivers flow, and pleasant dwellings in Gardens of Eden. That is
 the supreme triumph. And (He will give you) another blessing which you
 love: help from Allah and present victory. Give good tidings (O
 Muhammad) to believers \* (61/12-13)
-
 

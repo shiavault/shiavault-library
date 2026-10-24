@@ -147,4 +147,3 @@ the path of Almighty.
 
 [^2]: Al-Kafi, Vol. 2, Pg. 164.
 
-

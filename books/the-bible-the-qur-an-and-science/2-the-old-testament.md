@@ -105,7 +105,6 @@ version, and translation to translation, with all the corrections
 inevitably resulting, it was possible for the original text to have been
 transformed during the course of more than two thousand years.
 
-
 **ORIGINS OF THE BIBLE**
 
 Before it became a collection of books, it was a folk tradition that
@@ -205,7 +204,6 @@ what has been conveyed to us is the gist of these facts, and that the
 detail in the description should be subjected to rigorous criticism, the
 reason for this being that the element of human participation in the
 transcription of originally oral traditions is so great.
-
 
 **The Books of the Old Testament**
 
@@ -499,7 +497,6 @@ changes seventeen times. It is from this that the improbabilities and
 contradictions arise when we read the present-day text. (see Table on
 page 15 for schematic distribution of sources)
 
-
 **THE HISTORICAL BOOKS**
 
 In these books we enter into the history of the Jewish people, from the
@@ -521,7 +518,6 @@ Book was adapted several times, as Father A. Lefèvre notes with great
 objectivity in his Preamble to the Crampon Bible. the various prefaces
 in the text and the appendices bear witness to this. The story of Ruth
 is attached to the narrations contained in Judges.
-
 
 **TABLE OF THE DISTRIBUTION OF THE YAHVIST AND SACERDOTAL TEXTS IN
 CHAPTERS 1 TO 11 in GENESIS)**
@@ -709,5 +705,4 @@ not committed themselves to be a frank and thorough comparison with
 scientific ideas. They realize that this would lead people to contest
 notions about the truth of Judeo-Christian Scriptures, which have so far
 remained undisputed.
-
 

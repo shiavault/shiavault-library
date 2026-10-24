@@ -307,4 +307,3 @@ A. Bayyeneh is a clear and manifest proof, which merely convinces a
 person, but hujjat is a proof or reasoning by which a person disputes
 with his enemies.
 
-

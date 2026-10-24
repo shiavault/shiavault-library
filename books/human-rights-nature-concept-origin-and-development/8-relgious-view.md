@@ -36,4 +36,3 @@ of the society. Therefore the basic source of human rights in all times
 and in all ages is the region itself and reaffirmed its faith in
 different civilization from time immoral.
 
-

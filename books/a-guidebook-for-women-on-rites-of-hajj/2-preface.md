@@ -89,11 +89,7 @@ They try to touch and kiss it because it is a stone sent down from the
 heavens. This is one of the grand symbols of Almighty Allah (swt) on the
 earth as our Prophet (saws) has said:
 
-<blockquote dir="rtl">
-  <p>
-الحجر الأسود يمين الله في أرضه.
-  </p>
-</blockquote>
+> الحجر الأسود يمين الله في أرضه.
 
 *"Hajar al-aswad represents the hand of Allah (swt)* *on the* *earth."*
 [^1]
@@ -109,11 +105,7 @@ cleanse ourselves of all past sins."**
 This is why it is recommended to recite the following prayer when
 touching the stone:
 
-<blockquote dir="rtl">
-  <p>
-امانتي اديتها و ميثاقي تعاهدته لتشهد لي بالوافاة
-  </p>
-</blockquote>
+> امانتي اديتها و ميثاقي تعاهدته لتشهد لي بالوافاة
 
 **“O! Hajr al-aswad I have given you my trust and fulfilled my promise,
 now you be the witness of my faithfulness.”**
@@ -128,5 +120,4 @@ lives and staying on the Right Path are even more difficult and indeed
 represent the greatest struggle (*Jihad*).
 
 [^1]: راغب أصفهاني مفردات القرءان 856
-
 

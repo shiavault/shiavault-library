@@ -274,4 +274,3 @@ that it had a single substantial motion, then there would be no room for
 generation or corruption. However, this assumption is not correct, as
 will be explained in the appropriate place.
 
-

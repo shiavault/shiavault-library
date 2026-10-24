@@ -35,15 +35,8 @@ of fear is glorification of Allah, adherence to obeying His commands
 with sincerity, fear and caution, and holding back from the forbidden;
 and the guide to this is knowledge. Almighty Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء
-  </p>
-</blockquote>
+> إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء
 
 ***Those of His servants who are possessed of knowledge fear
 Allah.***(35:28)
-
-
 

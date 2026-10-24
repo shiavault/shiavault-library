@@ -355,4 +355,3 @@ to the sick son of Imam Hussein (a.s.), Imam Zain Al-Abideen (a.s.), as
 prisoners from Kufa to Syria. At the front of the sad procession were
 the heads of Imam Hussein (a.s.) and his followers.
 
-

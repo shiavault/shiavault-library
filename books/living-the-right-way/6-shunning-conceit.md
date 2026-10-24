@@ -61,4 +61,3 @@ think he is doing good. Another variety of it comes to a believer when
 he tries to remind Allah of his belief; while Allah has the right of
 reminding him of His favours to him.”*
 
-

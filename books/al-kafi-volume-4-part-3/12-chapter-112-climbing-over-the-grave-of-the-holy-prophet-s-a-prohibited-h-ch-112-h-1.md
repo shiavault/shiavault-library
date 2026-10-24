@@ -20,7 +20,6 @@ anyone whose eye sight may go away because of catching sight of
 something that cause him such loss or see him standing in prayer or see
 him with anyone of his wives."
 
-
 **Chapter 113 : The birth of Amir al-Mu'minin Ali (a.s.)**
 
 Amir al-Mu'minin Ali (a.s.) was born thirty years after the year of
@@ -343,5 +342,4 @@ Hassan and al-Husayn and two other man carried his body out until they
 went out of Kufa. They continued with Kufa on their right and then they
 moved forwards on the path of Jabana until they passed al-Ghari. They
 then buried him and leveelled his grave and then return (home)."
-
 

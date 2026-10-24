@@ -540,4 +540,3 @@ which I have recently come across, so that the difference between the
 rigid Akhbari way of thinking and the ijtihadi way of thinking can be
 seen.
 
-

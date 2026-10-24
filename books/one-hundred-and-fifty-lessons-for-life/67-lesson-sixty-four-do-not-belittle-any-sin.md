@@ -3,11 +3,7 @@ Lesson Sixty Four: Do Not Belittle Any Sin!
 
 Imam Hasan Al-’Askari (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الذُّنُوبِ الَّتِى لا يُغْفَرُ: ليتنى لا اُؤاخَذُ إلاّ بِهَذا!
-  </p>
-</blockquote>
+> مِنَ الذُّنُوبِ الَّتِى لا يُغْفَرُ: ليتنى لا اُؤاخَذُ إلاّ بِهَذا!
 
 Translation
 -----------
@@ -34,5 +30,4 @@ Allah, the Almighty.
 Mustadrak Alwasail, vol 11, page 351. Al-Khisal, vol1, page 24. Ghaibat
 Al-Tusi, page 207. Kashf Al-Gumma, vol 2, page 420. Al-Manaqib, vol4,
 page 429.
-
 

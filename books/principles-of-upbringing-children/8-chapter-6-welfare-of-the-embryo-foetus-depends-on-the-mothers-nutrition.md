@@ -55,4 +55,3 @@ drinks, the foetus draws its sustenance from that."[^3]
 
 [^3]: Bihar al-anwar, v 6, p. 342
 
-

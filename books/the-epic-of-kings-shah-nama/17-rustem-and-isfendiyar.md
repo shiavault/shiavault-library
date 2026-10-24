@@ -591,4 +591,3 @@ hands of her Shah that it hath been done."
 But Bahman grew up in the courts of Rustem, and the Pehliva guarded him
 like to a son.
 
-

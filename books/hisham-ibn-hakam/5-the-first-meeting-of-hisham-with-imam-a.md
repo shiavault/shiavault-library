@@ -102,4 +102,3 @@ problems of the speculative theologians of Ash'ari to Jahmiyah.
 [^4]: Tanghih al-Maghal by Mamghani; "Usul Kafi" vol.2. Pg. 13: all 500
 problems and questions belonged to theological complications.
 
-

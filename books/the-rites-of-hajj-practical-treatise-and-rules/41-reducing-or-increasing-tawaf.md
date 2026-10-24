@@ -55,4 +55,3 @@ Article 203
 Whenever a pilgrim reduces an amount from Tawaf involuntarily then
 he/she should act as in article 197.
 
-

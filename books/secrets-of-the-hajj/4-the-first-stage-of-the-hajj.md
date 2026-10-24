@@ -34,11 +34,7 @@ of those who commit sins. The acceptance of all actions is connected to
 one's piety *(taqwa).* Thus, Allah does not accept the Hajj from those
 people who commit sins:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ
 
 *“**Verily Allah only accepts from those who guard (against evil).”***
 [^1]
@@ -53,12 +49,8 @@ wherever he may be and in whatever state he is, he is constantly in the
 presence of Allah , the Noble Prophet (s) and the Pure A'immah (as)
 (such as we are told in the Qur'an):
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
-وَالْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ
+> وَالْمُؤْمِنُونَ
 
 ***“Say‑ Work! Allah will see your work and (so will) His Messenger and
 the believers...”*** [^2]
@@ -100,11 +92,7 @@ is one of the best forms of *Tawassul* to the 12th Imam, one will reach
 to the level of glory and praise ‑ meaning that our soul will become
 illuminated by the light *(Nur)* of Allah .
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ
-  </p>
-</blockquote>
+> وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ
 
 ***“And we placed for him, a light (Nur) by which he walks amongst the
 people..”*** [^3]
@@ -114,11 +102,7 @@ be able to reach to a level of true servitude, where one can distinguish
 between good and bad, friend and enemy, and what Allah (swt) wants, from
 what one's own evil soul wants...
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا
-  </p>
-</blockquote>
+> إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا
 
 ***“If you are careful of (your duty to) Allah, then He will grant you a
 distinction.”*** [^4]
@@ -129,12 +113,8 @@ thoughts during this journey, nothing should remain except Allah and the
 performance of the Hajj exactly as the way Prophet Ibrahim (as)
 performed it.
 
-<blockquote dir="rtl">
-  <p>
-وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالْأَرْضَ حَنِيفًا
-وَمَا أَنَا مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالْأَرْضَ حَنِيفًا
+> وَمَا أَنَا مِنَ الْمُشْرِكِينَ
 
 ***“Surely I have turned myself, being upright, wholly to Him Who
 originated the heavens and the earth, and I am not of the
@@ -149,12 +129,8 @@ attention and focus on this journey must be for Allah , the goal of
 reaching to Him and to the true worship, such that no one else or
 anything will be in his sight except the pleasure of Allah .
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَ إِلَّا ابْتِغَاءَ وَجْهِ
-رَبِّهِ الْأَعْلَى
-  </p>
-</blockquote>
+> وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَ إِلَّا ابْتِغَاءَ وَجْهِ
+> رَبِّهِ الْأَعْلَى
 
 ***\`And no one has with him any blessing for which he should be
 rewarded, except the seeking of the pleasure of his Lord, the Most
@@ -165,11 +141,7 @@ must not be anything of the worldly pleasure, in fact not even the
 pleasures of the next life should be in his sight. Just as the Qur'an
 mentions, the best *colour* is the *colour* of Allah
 
-<blockquote dir="rtl">
-  <p>
-صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً
-  </p>
-</blockquote>
+> صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً
 
 ***“(Receive) the colour of Allah, and who is better than Allah in
 colouring?”*** [^7]
@@ -179,12 +151,8 @@ Allah forbid, through one's actions, speech, or if in one's heart or
 soul this trait is already there, then he has reached to the stage of
 disbelief *(kufr):*
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
-الَّذِينَ هُمْ يُرَاءُونَ وَيَمْنَعُونَ الْمَاعُونَ
-  </p>
-</blockquote>
+> فَوَيْلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
+> الَّذِينَ هُمْ يُرَاءُونَ وَيَمْنَعُونَ الْمَاعُونَ
 
 ***“So woe to the praying ones, those who are unmindful of their
 prayers, Who do (good) to be seen, And withhold the necessities of
@@ -205,5 +173,4 @@ life.”***[^8]
 [^7]: Surah al‑Baqarah (2), Verses 138
 
 [^8]: Surah al‑Ma'un (107), Verses 4‑7
-
 

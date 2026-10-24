@@ -29,18 +29,10 @@ Also send Your blessings to all the
 
 Prophets and Imams.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله رب العالمين والصلاة والسلام على أشرف المرسلين وخاتم النبيين
-أحمد المجتبى أبي القاسم محمد المصطفى وآله الطيبين الطاهرين
-  </p>
-</blockquote>
+> الحمد لله رب العالمين والصلاة والسلام على أشرف المرسلين وخاتم النبيين
+> أحمد المجتبى أبي القاسم محمد المصطفى وآله الطيبين الطاهرين
 
 This is a lecture on Nahjul Balaghah, which also clarifies some
 misunderstandings which some people had shown about this august book.
@@ -49,16 +41,11 @@ In the end I have given two miraculous sermons of Imam Ali (ع) which the
 Imam (ع) had delivered on two different occasions: the First, without
 dot and the Second without the letter Alif.
 
-<blockquote dir="rtl">
-  <p>
-وأخر دعوانا أن الحمد لله ربّ العالمين
-  </p>
-</blockquote>
+> وأخر دعوانا أن الحمد لله ربّ العالمين
 
 15/5/1422
 4/8/2001
 
 **Sayyid Saeed Akhtar Rizvi**
 **Dar-es-Salaam**
-
 

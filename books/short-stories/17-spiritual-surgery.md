@@ -58,4 +58,3 @@ Ikhlaas said, "So I see, but still one should not forget the other
 surgeon's knife." Wafa nodded saying, "That's a fact. Physical treatment
 is as important as spiritual."
 
-

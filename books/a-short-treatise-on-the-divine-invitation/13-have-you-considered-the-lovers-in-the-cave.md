@@ -12,17 +12,13 @@ transcripts of his lessons, while describing a group of the *muqarrabūn*
 
  
 
-<blockquote dir="rtl">
-  <p>
-يک دسته از سلسله بشر که مقربين اند لباس بقاء در دار فناء پوشيده، برای
-تکميل مردم زندگی می کنند لکن دسته ديگر از همين سلسله در رياضات و
-مجاهده حالشان حال جذبه می شود ومثل اصحاب کهف، گمان کنند که مردگانند،
-نه، بلکه از شدت عشق مجذوب حق شده و از خود خبری ندارند از شدت عشق مدت
-سيصد و نه سال به آن حال باقيمانده اند و پروردگار بدن آنها را حفظ
-مينمود تا اينکه مشيت حق تعلق گرفت که از آن حالشان برگردند اين مقام
-ولايت و قرب تام است...
-  </p>
-</blockquote>
+> يک دسته از سلسله بشر که مقربين اند لباس بقاء در دار فناء پوشيده، برای
+> تکميل مردم زندگی می کنند لکن دسته ديگر از همين سلسله در رياضات و
+> مجاهده حالشان حال جذبه می شود ومثل اصحاب کهف، گمان کنند که مردگانند،
+> نه، بلکه از شدت عشق مجذوب حق شده و از خود خبری ندارند از شدت عشق مدت
+> سيصد و نه سال به آن حال باقيمانده اند و پروردگار بدن آنها را حفظ
+> مينمود تا اينکه مشيت حق تعلق گرفت که از آن حالشان برگردند اين مقام
+> ولايت و قرب تام است...
 
 “A group among the human beings who are the near ones of God, clad in
 the attire of subsistence through God (*baqā’ bi Allāh*) in the world of
@@ -57,13 +53,9 @@ supplication until morning:
 
  
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ ارْزُقْنِي التَّجَافِيَ عَنْ دَارِ الْغُرُورِ،
-وَالإِنَابَةَ إِلــى دَارِ الْخُلُودِ، وَالإِسْتِعْدَادَ لِلْمَوْتِ
-قَبْلَ حُلُولِ الْفَوْتِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ ارْزُقْنِي التَّجَافِيَ عَنْ دَارِ الْغُرُورِ،
+> وَالإِنَابَةَ إِلــى دَارِ الْخُلُودِ، وَالإِسْتِعْدَادَ لِلْمَوْتِ
+> قَبْلَ حُلُولِ الْفَوْتِ.
 
 “O Allāh I implore Thee to save me from the house of deception and help
 me return to the abode of joy and provide me with readiness for death
@@ -78,12 +70,8 @@ This is the reason why the following saying is attributed to the Holy
 Prophet (s):  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيُغَانُ عَلى قَلْبِي، وَإِنِّي لأَسْتَغْفِرُ اللٌّهَ فِيْ
-كُلِّ يَوْمٍ سَبْعِِيْنَ مَرّةٍ.
-  </p>
-</blockquote>
+> إِنَّهُ لَيُغَانُ عَلى قَلْبِي، وَإِنِّي لأَسْتَغْفِرُ اللٌّهَ فِيْ
+> كُلِّ يَوْمٍ سَبْعِِيْنَ مَرّةٍ.
 
 “In order that my heart should not gather rust, I seek the forgiveness
 of God seventy times a day.”[^4]
@@ -135,5 +123,4 @@ Intishārāt-e-Payāme Azād, first print.
 [^5]: Sahīfeye Imām, vol. 20, pp. 267-269.
 
 [^6]: Sahīfeye Imām, vol. 20, pg.269.
-
 

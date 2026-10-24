@@ -41,4 +41,3 @@ execution and seeks help from God. Indeed, it is obligatory on him to
 impose this duty on himself and to bear with patience the inconveniences
 and difficulties incidental to his task.
 
-

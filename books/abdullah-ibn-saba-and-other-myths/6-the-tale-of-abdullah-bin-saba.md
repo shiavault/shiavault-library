@@ -157,4 +157,3 @@ regrettable that some historians allege that they followed an unknown
 Jew. Having known this, we should now try to analyze the motives for
 ‘Abdullah Bin Saba΄s stories.
 
-

@@ -280,4 +280,3 @@ and the gates of Paradise will be closed before them whHe those of the
 fires will he opened." Thus the imam, may his shade endure, ends his
 statement.
 
-

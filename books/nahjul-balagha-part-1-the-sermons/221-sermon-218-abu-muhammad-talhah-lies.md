@@ -5,17 +5,9 @@ When Amir al-mu’minin passed by the corpses of Talhah ibn \`Ubaydullah
 and \`Abd ar-Rahman ibn \`Attab ibn Asid who were both killed in the
 battle of Jamal, he said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا مر بطلحة وعبدالرحمن بن عتاب بن أسيد وهما قتيلان يوم الجمل
-  </p>
-</blockquote>
+> لمّا مر بطلحة وعبدالرحمن بن عتاب بن أسيد وهما قتيلان يوم الجمل
 
 Abu Muhammad (Talhah) lies here away from his own place. By Allah, I did
 not like that the Quraysh should lie killed under the stars. I have
@@ -24,15 +16,11 @@ persons of Banu Jumah[^1] have escaped me. They had stretched their
 necks towards a matter for which they were not suited, and therefore
 their necks were broken before they reached the goal.
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَصْبَحَ أَبُو مُحَمَّد بِهذَا الْمَكَانِ غَرِيباً! أَمَا
-وَاللهِ لَقَدْ كَنْتُ أَكْرَهُ أَنْ تَكُونَ قُرَيْشٌ قَتْلَى تَحْتَ
-بُطُونِ الْكَوَاكِبِ! أَدْرَكْتُ وَتْرِي مِنْ بَنِي عَبْدِ مَنَاف،
-وَأَفْلَتَتْنِي أَعْيَانُ بَنِي جُمَحَ، لَقَدْ أَتْلَعُوا
-أَعْنَاقَهُمْ إِلَى أَمْر لَمْ يَكُونُوا أَهْلَهُ فَوُقِصُوا دوُنَهُ.
-  </p>
-</blockquote>
+> لَقَدْ أَصْبَحَ أَبُو مُحَمَّد بِهذَا الْمَكَانِ غَرِيباً! أَمَا
+> وَاللهِ لَقَدْ كَنْتُ أَكْرَهُ أَنْ تَكُونَ قُرَيْشٌ قَتْلَى تَحْتَ
+> بُطُونِ الْكَوَاكِبِ! أَدْرَكْتُ وَتْرِي مِنْ بَنِي عَبْدِ مَنَاف،
+> وَأَفْلَتَتْنِي أَعْيَانُ بَنِي جُمَحَ، لَقَدْ أَتْلَعُوا
+> أَعْنَاقَهُمْ إِلَى أَمْر لَمْ يَكُونُوا أَهْلَهُ فَوُقِصُوا دوُنَهُ.
 
 Alternative Sources for Sermon 219
 ----------------------------------
@@ -56,5 +44,4 @@ but the chief men of this group fled away from the battle-field. Some of
 them were: \`Abdulláh al-Tawíl ibn Safwán, Yayá ibn Hakím, \`Ámir ibn
 Mas\`úd and Ayyúb ibn Habíb. From this group (Banú Jumah) only two
 persons were killed.
-
 

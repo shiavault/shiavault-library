@@ -22,7 +22,6 @@ ruler ship of the other rulers is but unfounded!"
 Of the sum of the mentioned narrations, the visages of both the
 realities become crystal clear:
 
-
 **ANSWER:**
 
 According to the view of the Shias, AbuTalib, the Son of Abdul Muttalib
@@ -230,5 +229,4 @@ all his hardships and difficulties. He said this and then passed away.
 
 God's messenger in many occasions glorified his uncle-Abu-Talib- showed
 his love to him, that we shall point two instances:
-
 

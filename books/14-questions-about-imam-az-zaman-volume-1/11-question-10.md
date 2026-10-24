@@ -88,4 +88,3 @@ accordingly. Imam Askari (a.s.) performed ablutions and said to his son:
 
 [^7]: Ilzaamun Naasib, vol. 1, p. 351
 
-

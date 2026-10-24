@@ -81,12 +81,8 @@ was the Last Prophet, and no prophet is to come after him:
 a prophet died another prophet succeeded him. But after me there will be
 no prophet; there will be Khalifas."
 
-<blockquote dir="rtl">
-  <p>
-كانت بنو اسرائيل تسوسهم انبياء كلما هلك نبي خلفه نبي وانه لا نبي بعدي
-وسيكون خلفاء
-  </p>
-</blockquote>
+> كانت بنو اسرائيل تسوسهم انبياء كلما هلك نبي خلفه نبي وانه لا نبي بعدي
+> وسيكون خلفاء
 
 It clearly shows that there is no room for any new prophet to come after
 the Holy Prophet of Islam.
@@ -99,14 +95,10 @@ all the same they were saying why no brick was put in that place. Thus,
 I am that brick which was missing and I have been put in that place and
 I am 'Khatamun-Nabiyyin.’
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: مثلي ومثل الانبياء كمثل قصر أحسن
-بنيانه ترك منه موضع لبنة فطاف به النظار يتعجبون من حسن بنيانه الا موضع
-تلك اللبنة فكنت انا سددت موضع اللبنة ختم بي البنيان وختم بي الرسل فانا
-اللبنة وانا خاتم النبيين
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: مثلي ومثل الانبياء كمثل قصر أحسن
+> بنيانه ترك منه موضع لبنة فطاف به النظار يتعجبون من حسن بنيانه الا موضع
+> تلك اللبنة فكنت انا سددت موضع اللبنة ختم بي البنيان وختم بي الرسل فانا
+> اللبنة وانا خاتم النبيين
 
 It means that after the advent of the Holy Prophet of Islam, the
 building of Prophethood was complete; there was no vacant place left, so
@@ -119,13 +111,9 @@ in my Ummat 30 imposters, everyone of them will suppose himself to be a
 prophet; while I am 'Khatamun-Nabiyyin' (last prophet) there is no
 prophet after me."
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه واله: لاتقوم الساعة حتى تلحق قبائل من امتي
-بالمشركين وحتى يعبدوا الوثن وانه سيكون في امتي ثلاثون كذابون كلهم يزعم
-انه نبي وانا خاتم النبيين لانبي بعدي
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه واله: لاتقوم الساعة حتى تلحق قبائل من امتي
+> بالمشركين وحتى يعبدوا الوثن وانه سيكون في امتي ثلاثون كذابون كلهم يزعم
+> انه نبي وانا خاتم النبيين لانبي بعدي
 
 3. Imam Ali (a.s.) said when he was washing the body of the Holy Prophet
 (s.a.w.): "My father and mother be your ransom, such a thing has been
@@ -133,13 +121,9 @@ discontinued with your death which was never discontinued with the death
 of any other person. (And that thing is) Prophethood, announcement of
 Ghaib and the news of heaven."
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له عليه السلام قاله وهو يلي غسل رسول الله صلى الله عليه واله
-وتجهيزه: بأبي انت وامي لقد انقطع بموتك ما لم ينقطع بموت غيرك من النبوة
-والأنباء واخبار السماء
-  </p>
-</blockquote>
+> ومن كلام له عليه السلام قاله وهو يلي غسل رسول الله صلى الله عليه واله
+> وتجهيزه: بأبي انت وامي لقد انقطع بموتك ما لم ينقطع بموت غيرك من النبوة
+> والأنباء واخبار السماء
 
 Names and Titles of The Holy Prophet
 ------------------------------------
@@ -214,5 +198,4 @@ Islam?
  (b) From your point of view, what is the best proof of the truth of the
 Holy Prophet of Islam?  
  (c) Prove that Hadhrat Muhammad Mustafa (s.a.w.) is the Last Prophet
-
 

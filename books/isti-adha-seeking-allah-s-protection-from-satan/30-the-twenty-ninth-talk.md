@@ -1,20 +1,12 @@
 The Twenty Ninth Talk
 =====================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***
 ***
@@ -111,11 +103,7 @@ the task. Is the dead person not the same body that moved as he wished?
 Your wish to act and do certain things too has been endowed by Allah
 (S.w.T.). You cannot do anything against the Wish of Allah (S.w.T.):
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَشَاؤُونَ إِلَّا أَن يَشَاء اللَّهُ
-  </p>
-</blockquote>
+> وَمَا تَشَاؤُونَ إِلَّا أَن يَشَاء اللَّهُ
 
 ***And you do not will anything except that Allah wills (Sura al-Insaan,
 76:30)***
@@ -146,12 +134,8 @@ into it and gave it the faculty of speaking, hearing and seeing. Made it
 active and strong. And ultimately returned it back to its original state
 of dust.
 
-<blockquote dir="rtl">
-  <p>
-مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ
-تَارَةً أُخْرَى
-  </p>
-</blockquote>
+> مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ
+> تَارَةً أُخْرَى
 
 ***From it (the earth) We created you and into it We shall send you back
 and from it will We raise you a second time. (Sura Ta Ha, 20:55)***
@@ -263,5 +247,4 @@ submits to Allah (S.w.T.) in *Du’a Hamza ath-Thumali* in this manner:
 
 *O Allah!* *Give us knowledge and understanding of the facts before it
 becomes too late for getting this comprehension!*
-
 

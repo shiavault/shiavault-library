@@ -1731,4 +1731,3 @@ Ma‘alim al-Khilafah fi’l-Fikr as-Siyasi al-Islami (Worlds of Caliphate
 in the Islamic Political Thought), pp. 131-8; and Al-Fikr as-Siyasi
 ash-Shi‘i (Shi‘ite Political Thought), pp. 116-80.
 
-

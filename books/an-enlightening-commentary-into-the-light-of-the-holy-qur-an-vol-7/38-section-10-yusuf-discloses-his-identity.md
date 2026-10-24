@@ -4,15 +4,11 @@ Section 10: Yusuf Discloses His Identity
 Surah Yusuf – Verse 80
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيّاً قَالَ كَبِيرُهُم
-أَلَمْ تَعْلَمُوا اَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَوْثِقاً مِنَ
-اللَّهِ وَمِن قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ فَلَنْ أَبْرَحَ
-الأَرْضَ حَتَّي يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي وَهُوَ
-خَيْرُ الْحَاكِمِينَ
-  </p>
-</blockquote>
+> فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيّاً قَالَ كَبِيرُهُم
+> أَلَمْ تَعْلَمُوا اَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَوْثِقاً مِنَ
+> اللَّهِ وَمِن قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ فَلَنْ أَبْرَحَ
+> الأَرْضَ حَتَّي يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي وَهُوَ
+> خَيْرُ الْحَاكِمِينَ
 
 ***80. “So when they despaired of (moving) him, they conferred in
 private. The eldest of them said: ‘Don’t you know that your father has
@@ -81,13 +77,9 @@ their lives.
 Surah Yusuf – Verse 81
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ارْجِعُوا إِلَي أَبِيكُمْ فَقُولُوا يَآ أَبَانَا إِنَّ ابْنَكَ سَرَقَ
-وَمَا شَهِدْنَآ إِلاَّ بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ
-حَافِظِينَ
-  </p>
-</blockquote>
+> ارْجِعُوا إِلَي أَبِيكُمْ فَقُولُوا يَآ أَبَانَا إِنَّ ابْنَكَ سَرَقَ
+> وَمَا شَهِدْنَآ إِلاَّ بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ
+> حَافِظِينَ
 
 ***81. “Go back to your father and say: ‘O’ father! Verily your son has
 committed theft, and we did not bear witness except to what we knew, and
@@ -112,12 +104,8 @@ we were not guardians of the Unseen’.”***
 Surah Yusuf – Verse 82
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا وَالْعِيرَ الَّتِي
-أَقْبَلْنَا فِيهَا وإِنَّا لَصَادِقُونَ
-  </p>
-</blockquote>
+> وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا وَالْعِيرَ الَّتِي
+> أَقْبَلْنَا فِيهَا وإِنَّا لَصَادِقُونَ
 
 ***82. “And ask at the town in which we were and the caravan with which
 we travelled hither, and verily we are indeed truthful.”***
@@ -164,13 +152,9 @@ stolen the king’s cup spread around the town and among the caravan.
 Surah Yusuf – Verse 83
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْراً فَصَبْرٌ جَميلٌ عَسَي
-اللَّهُ أَن يَأْتِيَنِي بِهِم جَميعاً إِنَّهُ هُوَ الْعَلِيمُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْراً فَصَبْرٌ جَميلٌ عَسَي
+> اللَّهُ أَن يَأْتِيَنِي بِهِم جَميعاً إِنَّهُ هُوَ الْعَلِيمُ
+> الْحَكِيمُ
 
 ***83. “He (Ya‘qub) said: ‘No, but your (guilty) selves have made a
 matter fair for you, so patience is good. Maybe Allah will bring them to
@@ -260,12 +244,8 @@ Allah’s Providence as well.
 Surah Yusuf – Verse 84
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَوَلَّي عَنْهُمْ وَقَالَ يَآ أَسَفَي عَلَي يُوسُفَ وَابْيَضَّتْ
-عَينَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيم
-  </p>
-</blockquote>
+> وَتَوَلَّي عَنْهُمْ وَقَالَ يَآ أَسَفَي عَلَي يُوسُفَ وَابْيَضَّتْ
+> عَينَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيم
 
 ***84. “And he turned away from them and said: ‘Alas for Yusuf!’ And his
 eyes became white with the grief of that he repressed.”***
@@ -313,12 +293,8 @@ so that he would say nothing contrast to the Will of Allah.
 Surah Yusuf – Verse 85
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا تَاللَّهِ تَفْتَؤَأُ تَذْكُرُ يُوسُفَ حَتَّي تَكُونَ حَرَضاً
-أَوْ تَكُونَ مِنَ الْهَالِكِينَ
-  </p>
-</blockquote>
+> قَالُوا تَاللَّهِ تَفْتَؤَأُ تَذْكُرُ يُوسُفَ حَتَّي تَكُونَ حَرَضاً
+> أَوْ تَكُونَ مِنَ الْهَالِكِينَ
 
 ***85. “They said: ‘By Allah! You will never cease to remember Yusuf
 until you are ill or (until) you are of the perished ones’.”***
@@ -352,12 +328,8 @@ nervous break-down or even death.
 Surah Yusuf – Verse 86
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّمَآ أَشْكُوا بَثّي وَحُزْنِي إِلَي اللَّهِ وَأَعْلَمُ مِنَ
-اللَّهِ مَا لا تَعْلَمُونَ
-  </p>
-</blockquote>
+> قَالَ إِنَّمَآ أَشْكُوا بَثّي وَحُزْنِي إِلَي اللَّهِ وَأَعْلَمُ مِنَ
+> اللَّهِ مَا لا تَعْلَمُونَ
 
 ***86. “He said: ‘I only complain of my anguish and my grief to Allah,
 and I know from Allah that which you do not know’.”***
@@ -427,13 +399,9 @@ people follow events until their outcome in the Hereafter.
 Surah Yusuf – Verse 87
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ وَلا
-تَيْأَسُوا مِن رَّوْحِ اللَّهِ إِنَّهُ لا يَيْأَسُ مِن رَوْحِ اللَّهِ
-إِلاَّ الْقَوْمُ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ وَلا
+> تَيْأَسُوا مِن رَّوْحِ اللَّهِ إِنَّهُ لا يَيْأَسُ مِن رَوْحِ اللَّهِ
+> إِلاَّ الْقَوْمُ الْكَافِرُونَ
 
 ***87. “O’ my sons! Go and enquire about Yusuf and his brother, and
 never despair of Allah’s Mercy. Verily none despairs of Allah’s Mercy
@@ -475,13 +443,9 @@ Mercy except the unbelieving people.”***
 Surah Yusuf – Verse 88
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يآ أَيُّهَا الْعَزِيزُ مَسَّنَا
-وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ فَاَوْفِ لَنَا
-الْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ إِنَّ اللَّهَ يَجْزِي الْمُتَصَدّقِينَ
-  </p>
-</blockquote>
+> فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يآ أَيُّهَا الْعَزِيزُ مَسَّنَا
+> وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ فَاَوْفِ لَنَا
+> الْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ إِنَّ اللَّهَ يَجْزِي الْمُتَصَدّقِينَ
 
 ***88. “Then, when they entered unto him (Yusuf), they said: ‘O’ ‘Aziz!
 Affliction has visited us and our family, and we have brought scanty
@@ -521,12 +485,8 @@ other commentators believe that it is a request for wheat itself.
 Surah Yusuf – Verse 89
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ
-جَاهِلُونَ
-  </p>
-</blockquote>
+> قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ
+> جَاهِلُونَ
 
 ***89. “He (Yusuf) said: ‘did you know what you did with Yusuf and his
 brother when you were ignorant?””***
@@ -552,13 +512,9 @@ their brother Yusuf.
 Surah Yusuf – Verse 90
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَءِنَّكَ لأَنتَ يُوسُفُ قَالَ أَنَاْ يُوسُفُ وَهَذآ أَخِي
-قَدْ مَنَّ اللَّهُ عَلَيْنَآ إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ
-اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> قَالُوا أَءِنَّكَ لأَنتَ يُوسُفُ قَالَ أَنَاْ يُوسُفُ وَهَذآ أَخِي
+> قَدْ مَنَّ اللَّهُ عَلَيْنَآ إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ
+> اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُـحْسِنِينَ
 
 ***90. “They said: ‘Are you indeed Yusuf?’ He said: ‘(Yes), I am Yusuf
 and this is my brother. Allah has been indeed gracious to us. Verily
@@ -628,12 +584,8 @@ government upon the righteous people.
 Surah Yusuf – Verse 91
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا تَاللَّهِ لَقَدْ ءَاثَرَكَ اللَّهُ عَلَيْنَا وَإِن كُنَّا
-لَخَاطِئِينَ
-  </p>
-</blockquote>
+> قَالُوا تَاللَّهِ لَقَدْ ءَاثَرَكَ اللَّهُ عَلَيْنَا وَإِن كُنَّا
+> لَخَاطِئِينَ
 
 ***91. “They said: ‘By Allah! Allah has indeed preferred you above us,
 and we certainly have been guilty’.”***
@@ -670,12 +622,8 @@ be forgiven.
 Surah Yusuf – Verse 92
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لاَ تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ
-وَهُوَ أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> قَالَ لاَ تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ
+> وَهُوَ أَرْحَمُ الرَّاحِمِينَ
 
 ***92. “He said: ‘There is no reproach against you this day. Allah may
 forgive you; and He is the most Merciful of the merciful (ones)’.”***
@@ -757,12 +705,8 @@ repentance.
 Surah Yusuf – Verse 93
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبُوا بِقَمِيصِي هَذَا فَاَلْقُوهُ عَلَي وَجْهِ أَبِي يَأْتِ
-بَصِيراً وَأْتُونِي بِاَهْلِكُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> اذْهَبُوا بِقَمِيصِي هَذَا فَاَلْقُوهُ عَلَي وَجْهِ أَبِي يَأْتِ
+> بَصِيراً وَأْتُونِي بِاَهْلِكُمْ أَجْمَعِينَ
 
 ***93. “Go with this shirt of mine and lay it on my father’s face, he
 will (again) be able to see; and bring me your family all together.”***
@@ -861,5 +805,4 @@ which is that it removes sad and bitter memories.
 [^10]: The current Surah; verse 18
 
 [^11]: Ibid, verse 27
-
 

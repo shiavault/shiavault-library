@@ -607,4 +607,3 @@ Anlyislari*, Istanbul, 1948; Kamiran Birand, *Dilthey ve Rickert’te
 Manevi Ilimlerin Temellendi-rilmesi*, Ankara, 1954; Nermi Uygur, *Edmund
 Husserl’de Baskasinin Ben’i Problemi*, Istanbul, 1958.
 
-

@@ -233,4 +233,3 @@ the Rightful Imam are well aware of the criteria for his belief.
 every passing moment illuminate our hearts with his love and grant us
 more opportunities for his service.
 
-

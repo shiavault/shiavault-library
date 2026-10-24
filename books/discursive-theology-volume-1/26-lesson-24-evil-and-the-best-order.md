@@ -147,14 +147,10 @@ In Imām ‘Alī’s (*‘a*) sermon on the Divine Unity (*khutbat al-tawḥīd*
 he has also mentioned the principle of contradiction governing the realm
 of nature:
 
-<blockquote dir="rtl">
-  <p>
-ضَادَّ النُّورَ بِالظُّلْمَةِ، وَالْوُضُوحَ بِالْبُهْمَةِ،
-وَالْجُمُودَ بِالْبَلَلِ، وَالْحَرُورَ بِالصَّرَدِ. مُؤَلِّفٌ بَيْنَ
-مُتَعَادِيَاتِهَا، مُقَارِنٌ بَيْنَ مُتَبَايِنَاتِهَا، مُقَرِّبٌ
-بَيْنَ مُتَبَاعِداتِهَا، مُفَرِّقٌ بَيْنَ مُتَدَانِيَاتِهَا.
-  </p>
-</blockquote>
+> ضَادَّ النُّورَ بِالظُّلْمَةِ، وَالْوُضُوحَ بِالْبُهْمَةِ،
+> وَالْجُمُودَ بِالْبَلَلِ، وَالْحَرُورَ بِالصَّرَدِ. مُؤَلِّفٌ بَيْنَ
+> مُتَعَادِيَاتِهَا، مُقَارِنٌ بَيْنَ مُتَبَايِنَاتِهَا، مُقَرِّبٌ
+> بَيْنَ مُتَبَاعِداتِهَا، مُفَرِّقٌ بَيْنَ مُتَدَانِيَاتِهَا.
 
 “He has made light the contrary of darkness, brightness that of gloom,
 dryness that of moisture and heat that of cold. He produces affection
@@ -164,29 +160,13 @@ remote things and separates things which are joined together.”[^5]
 In his *Mathnawī-ye Ma‘nawī*, Mawlānā Rūmī has mentioned the issue of
 subsistence of natural life on the basis of contradiction, saying:
 
-<blockquote dir="rtl">
-  <p>
-اين جهان جنگ است چون كل بنگري ذره ذره همچو دين با کافری
-  </p>
-</blockquote>
+> اين جهان جنگ است چون كل بنگري ذره ذره همچو دين با کافری
 
-<blockquote dir="rtl">
-  <p>
-آن يکی ذره همی پرد به چپ و آن دگر سوی يمين اندر طلب
-  </p>
-</blockquote>
+> آن يکی ذره همی پرد به چپ و آن دگر سوی يمين اندر طلب
 
-<blockquote dir="rtl">
-  <p>
-اين جهان زين جنگ قائم می بود در عناصر در نگر تا حل شود
-  </p>
-</blockquote>
+> اين جهان زين جنگ قائم می بود در عناصر در نگر تا حل شود
 
-<blockquote dir="rtl">
-  <p>
-بس بنای خلق بر اضداد بود لاجرم جنگی شد اندر ضر و سود
-  </p>
-</blockquote>
+> بس بنای خلق بر اضداد بود لاجرم جنگی شد اندر ضر و سود
 
 *When you consider, this world is all at strife,*
 
@@ -206,17 +186,9 @@ subsistence of natural life on the basis of contradiction, saying:
 
 And Rūmī has also said:
 
-<blockquote dir="rtl">
-  <p>
-زندگانی آشتی ضدهاست‌ مرگ آن کاندر ميانشان جنگ خاست
-  </p>
-</blockquote>
+> زندگانی آشتی ضدهاست‌ مرگ آن کاندر ميانشان جنگ خاست
 
-<blockquote dir="rtl">
-  <p>
-صلح اضداد است عمر اين جهان جنگ اضداد است عمر جاودان
-  </p>
-</blockquote>
+> صلح اضداد است عمر اين جهان جنگ اضداد است عمر جاودان
 
 *Life is the peace of contraries;*
 
@@ -249,35 +221,19 @@ and overall equilibrium, the existence of inferior and superior, ups and
 downs, darkness and light, suffering and pleasure is essential, and it
 must be said that
 
-<blockquote dir="rtl">
-  <p>
-خهان چون خط و خال و چشم و ابروست كه هر چيزي بجاي خويش نيكوست
-  </p>
-</blockquote>
+> خهان چون خط و خال و چشم و ابروست كه هر چيزي بجاي خويش نيكوست
 
-<blockquote dir="rtl">
-  <p>
-اگر نيك و بدي بيني مزن دم كه هم ابليس ﻣﻲبايد هم آدم
-  </p>
-</blockquote>
+> اگر نيك و بدي بيني مزن دم كه هم ابليس ﻣﻲبايد هم آدم
 
 And it is also right to say that
 
-<blockquote dir="rtl">
-  <p>
-ابروي كج ار راست بدي كج بودي
-  </p>
-</blockquote>
+> ابروي كج ار راست بدي كج بودي
 
 *If your eyebrows were straight, you were defective.*
 
 And
 
-<blockquote dir="rtl">
-  <p>
-از شير حمله خوش بود و از غزال رم
-  </p>
-</blockquote>
+> از شير حمله خوش بود و از غزال رم
 
 *What was pleasant in the lion was its attack and in the gazelle its
 being scared*.[^11]
@@ -492,5 +448,4 @@ and Absolute Power” in Kalām-e Falsafī, pp. 145-170.
 [^15]: Uṣūl-e Falsafeh wa Rawish-e Realism, vol. 5, p. 173.
 
 [^16]: Shaykh al-Ṣadūq, Al-Tawḥīd, section (bāb) 9, ḥadīth 9, p. 130.
-
 

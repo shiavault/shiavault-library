@@ -19,32 +19,20 @@ acceptance for publication.
 
 \*\*\*\*\*
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْكَافِرِينَ
-أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ أَتُرِيدُونَ أَنْ تَجْعَلُوا
-لِلَّهِ عَلَيْكُمْ سُلْطَانًا مُبِينًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْكَافِرِينَ
+> أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ أَتُرِيدُونَ أَنْ تَجْعَلُوا
+> لِلَّهِ عَلَيْكُمْ سُلْطَانًا مُبِينًا
 
 ***“ O you who believe! do not take the unbelievers for friends rather
 than the believers; do you desire that you should give to Allah a
 manifest proof against yourselves? (4:144)”***
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُقِيمُونَ
-الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ ۚ
-أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ ۗ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُقِيمُونَ
+> الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ ۚ
+> أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ ۗ
 
-<blockquote dir="rtl">
-  <p>
-و أُوْلئِكَ هُمُ المُفْلِحُونَ
-  </p>
-</blockquote>
+> و أُوْلئِكَ هُمُ المُفْلِحُونَ
 
 *** “And (as for) the believing men and the believing women, they are
 guardians of each other; they enjoin good and forbid evil and keep up
@@ -53,23 +41,14 @@ these, Allah will show mercy to them; surely Allah is Mighty, Wise
 (9:71)”***  
 ***"And these it is who shall be successful" (9:88)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ 
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ
 
 ***And these it is who shall be successful 9, 88).***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ 
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***“Only Allah is your wali, and His Messenger and those who believe,
 who keep up prayer and pay zakat while they bow down in prayer
 (5:55).”***
-
 

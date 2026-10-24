@@ -1534,4 +1534,3 @@ are groundless.
 
 [^48]: Istifta’at, I, p. 279.
 
-

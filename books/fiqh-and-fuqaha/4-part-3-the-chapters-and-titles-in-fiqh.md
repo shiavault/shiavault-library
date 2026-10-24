@@ -60,4 +60,3 @@ Thus, we come across 'kitbun nikah', 'kitabu ttaharah' and so on.
 
 Let us now examine how Muhaqqiq Hilli divided Ibadaat in ten chapters.
 
-

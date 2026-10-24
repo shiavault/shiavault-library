@@ -2366,4 +2366,3 @@ Muhammad ibn Jarir al-Tabari: 117.
 
 [^28]: Shaykh al-Saduq: al-Khisal 1/173.
 
-

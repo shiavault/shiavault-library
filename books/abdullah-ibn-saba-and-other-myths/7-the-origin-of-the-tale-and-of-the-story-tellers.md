@@ -519,4 +519,3 @@ Mo'awiah and his dynasty, who had captured peoples' wealth by force and
 ‘Abdullah Bin Saba΄ tried to cover up the matter by making up these
 tales.
 
-

@@ -129,4 +129,3 @@ uncle and the Caliph of the time.
 
 "From Allah do we come and to him shall we return."
 
-

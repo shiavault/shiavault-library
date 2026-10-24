@@ -11,7 +11,6 @@ Even three centuries later, Locke's patient, insightful, and honest
 reflections on these issues continue to merit the careful study that
 this guide is intended to encourage.
 
-
 **Aims and Methods**
 
 Locke prefaced his masterwork with a rhetorically understated "Epistle
@@ -80,7 +79,6 @@ secure Possession of Truths, that most concern'd us." [Essay I i 7] In
 ordinary life, we know what we need to know, and expecting more than
 that would only lead us to despair.
 
-
 **The Great Concernments**
 
 After all, Locke argued, we do have what we need most. The practical
@@ -140,7 +138,6 @@ Locke supposed, the human capacity for knowledge is sufficient for our
 happiness here and hereafter, and since that is that is our primary
 concern, it would be pointless to demand that our faculties reach any
 further. [King, pp. 86-92]
-
 
 **A Simple Preview**
 
@@ -247,5 +244,4 @@ letters to friends like Molyneux, le Clerc, Tyrrell, and Burnett.
 
 ©1999-2002 Garth Kemerling.Last modified 27 October 2001.Questions,
 comments, and suggestions may be sent to: the Contact Page.
-
 

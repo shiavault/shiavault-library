@@ -227,4 +227,3 @@ money because my freedom is in giving this money to you.” Abu Dharr,
 without hesitation, said, “Yes. But my enslavement is in taking this
 money from you!”
 
-

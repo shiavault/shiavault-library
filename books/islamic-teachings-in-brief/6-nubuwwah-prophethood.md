@@ -180,4 +180,3 @@ monotheism and the true religion. As Allah states:
 ***"And We did not send before you any messenger but We revealed to him
 that there is no god but Me, therefore worship Me (21:25)."***
 
-

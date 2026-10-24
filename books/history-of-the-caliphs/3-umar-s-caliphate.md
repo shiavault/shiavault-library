@@ -1554,7 +1554,6 @@ satisfied with his worldly life. He repeatedly said,
 يا ليتني لم أك شيئاً، ليت لم تلدني أمي، ليتني كنت نسياً، يا ليتني كنت
 حائكاً اعيش من عمل يد
 
-  
 ي
 
 “I wish I were nothing. I wish my mother had not given birth to me. I
@@ -1945,8 +1944,6 @@ In an address to the people of Basra, 'Utba said in 17 A.H that,
 إنه لم تكن النبوة إلا تناسخها مُلك، فأعوذ بالله أن يُدركنا ذلك الزمان
 الذي يكون فيه السلطان مُلكاً “
 
-  
-
 There is no prophethood not to have been rejected by a king. I seek
 refuge in that the Allah from the day Sultan becomes the king.”[^267]
 
@@ -2061,8 +2058,6 @@ of Kufa, to the center of Islam.” He also said of Kufa that it was,
 **
 
 إلى أهل الكوفة، إلى رأس الإسلام “
-
-  
 
 To Kufiyans, to center of Islam.” And saying about that,
 
@@ -2303,17 +2298,13 @@ expected booties, too, after victory. They headed for battlefronts after
 hearing Prophet Muhammad's words who had promised them, the treasures of
 Caesar and Chosroe. When 'Umar wanted to provoke them, he said,
 
-<blockquote dir="rtl">
-  <p>
-أيها الناس! إن الله عز وجل وعد نبيه محمداً صلي الله عليه واله وسلم، أن
-يفتح عليه فارس والروم، والله لا يخلف وعده ولا يخذل جنده، فسارعوا رحمكم
-الله إلي جهاد أعدائكم من الفرس، فإنكم بالحجاز في غير دار مقام وقد
-وعدكم الله عز وجل كنوز كسرى وقيصر، والمواعيد من الله عز وجل مضمونة
-وأمر الله تعالي مفعول، والقول من رسول الله صلي الله عليه مقبول، وما لم
-يورثكموه الله عز وجل اليوم، يورثكموه غداً وانكم لن تغنموا حتي تغيروا
-ولن تسشهدوا حتي تقاتلوا
-  </p>
-</blockquote>
+> أيها الناس! إن الله عز وجل وعد نبيه محمداً صلي الله عليه واله وسلم، أن
+> يفتح عليه فارس والروم، والله لا يخلف وعده ولا يخذل جنده، فسارعوا رحمكم
+> الله إلي جهاد أعدائكم من الفرس، فإنكم بالحجاز في غير دار مقام وقد
+> وعدكم الله عز وجل كنوز كسرى وقيصر، والمواعيد من الله عز وجل مضمونة
+> وأمر الله تعالي مفعول، والقول من رسول الله صلي الله عليه مقبول، وما لم
+> يورثكموه الله عز وجل اليوم، يورثكموه غداً وانكم لن تغنموا حتي تغيروا
+> ولن تسشهدوا حتي تقاتلوا
 
 “O people! The Almighty God certainly promised His Messenger, brought
 Iran and Rome under his conquest. He keeps His promise and never
@@ -3291,5 +3282,4 @@ Islam, p. 79
 
 [^315]: Tarikh Iran, Cambridge (Persian translation), vol. III, part I,
 p. 271
-
 

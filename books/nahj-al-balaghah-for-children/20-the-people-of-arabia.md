@@ -35,4 +35,3 @@ And sins held you in their bondage.
 
 (Sermon 26)
 
-

@@ -221,4 +221,3 @@ God being associated with the world of humans, He intervenes directly in
 events. In other words, the Bible shows God’s involvement in the world
 to be dynamic (Dewar, 2002).
 
-

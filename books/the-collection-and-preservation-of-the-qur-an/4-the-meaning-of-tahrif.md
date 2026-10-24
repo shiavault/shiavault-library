@@ -10,11 +10,7 @@ disputed. The details are as below.
 First, the meaning is to transfer an object from its place to another.
 Allah says:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِم عَنْ مَوَاضِعه
-  </p>
-</blockquote>
+> مِنْ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِم عَنْ مَوَاضِعه
 
 Muslims are agreed upon the fact that such an interference has occurred
 in the Qur’an, because whenever someone interprets the Qur’an without
@@ -119,5 +115,4 @@ It is over this implication that the dispute arose, with certain people
 rejecting it altogether, and certain group conceding it.
 
 [^1]: al-Wafi, p.274
-
 

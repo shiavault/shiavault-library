@@ -431,4 +431,3 @@ wipe more area of the head as he liked.
 [^35]: In the Arabic text of the verse there is a preposition before the
 phrase (your heads). It has a sense of partialness.
 
-

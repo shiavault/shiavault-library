@@ -3,11 +3,7 @@ Lesson Forty Five: World Is Not The Final Purpose, Rather It Is A Means
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلدُّنْيا خُلِقَتْ لِغَيْرِها وَ لَمْ تُخْلَقْ لِنَفْسِها
-  </p>
-</blockquote>
+> اَلدُّنْيا خُلِقَتْ لِغَيْرِها وَ لَمْ تُخْلَقْ لِنَفْسِها
 
 Translation
 -----------
@@ -33,5 +29,4 @@ dangerous.
 
 [^1]: Safinat’ul-Bihar, Bihar Al-Anwar vol70, page 133, Sharh Nahj
 Albalagha, vol 20, page 181, Nahj Albalagha page 557
-
 

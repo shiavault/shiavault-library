@@ -114,4 +114,3 @@ Hence, when we feel that we are the ones who do them a favor, such
 feeling turns our deeds upside down, hurling them into Sijjeen,
 rendering them to an utter loss.
 
-

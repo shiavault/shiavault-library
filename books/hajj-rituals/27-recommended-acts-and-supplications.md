@@ -920,4 +920,3 @@ boundaries of Makka and it is also prohibited to hunt between the
 mountains. However, it is apparent that both are permitted and the
 opinion of prohibition is out of excess of precaution.
 
-

@@ -16,4 +16,3 @@ Islam.
  Hameeda thanked her mother for the guidance and lent the pages and pen
 to Hameed.
 
-

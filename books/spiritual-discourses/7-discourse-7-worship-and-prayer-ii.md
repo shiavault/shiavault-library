@@ -325,4 +325,3 @@ worship and devotion to Him, make us true performers of ritual prayer,
 make our intentions pure, protect us against jinn and human beings, and
 grant salvation to our deceased ones.
 
-

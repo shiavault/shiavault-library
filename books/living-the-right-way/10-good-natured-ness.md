@@ -43,4 +43,3 @@ trouble.”*
 Mentioning the standards of good nature, he (a.s.) said: *“You must be
 humble, speak honourably and meet your brother cheerfully.”*
 
-

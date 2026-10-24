@@ -177,23 +177,15 @@ Islamic state a non-Muslim woman has been oppressed. Such an attitude
 toward followers of other religions is among the merits and sources of
 pride of Islam and according to an explicit text of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلَمَةٍ سَوَاءٍ
-بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّه َ...﴾
-  </p>
-</blockquote>
+> ﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلَمَةٍ سَوَاءٍ
+> بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّه َ...﴾
 
 ***“Say, ‘O People of the Book! Come to a word common between us and
 you: that we will worship no one but Allah...**”*[^2]
 
 Also, another verse invites us to the best manner of disputation:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ...﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ...﴾
 
 ***“Do not dispute with the People of the Book except in a manner which
 is best**.”*[^3]
@@ -211,11 +203,7 @@ that belief in *tawhid* is identical with the belief in Trinity? In
 other words, is there no difference between the belief in the Oneness of
 God and the belief in Trinity and many gods? The religion of Islam says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَقُولُواْ ثَلاَثَةٌ انتَهُواْ خَيْرًا لَكُمْ﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَقُولُواْ ثَلاَثَةٌ انتَهُواْ خَيْرًا لَكُمْ﴾
 
 ***“And do not say, ‘[God is] a trinity.’ Relinquish [such a creed]!
 That is better for you.”***[^4]
@@ -223,12 +211,8 @@ That is better for you.”***[^4]
 In dealing with the untoward attributes given to God such as His having
 a child, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الْأَرْضُ
-وَتَخِرُّ الْجِبَالُ هَدًّا﴾
-  </p>
-</blockquote>
+> ﴿تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الْأَرْضُ
+> وَتَخِرُّ الْجِبَالُ هَدًّا﴾
 
 ***“The heavens are about to be rent apart at it, the earth to split
 open, and the mountains to collapse into bits!”***[^5]
@@ -255,12 +239,8 @@ more Western than the Westerners. Undoubtedly, this is a kind of
 eclecticism. If we were to logically discuss with this group, we would
 say that the foundation of Islam is the worship of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُوا اللّهَ
-وَاجْتَنِبُوا الطَّاغُوتَ...﴾
-  </p>
-</blockquote>
+> ﴿وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُوا اللّهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ...﴾
 
 ***“Certainly We raised an apostle in every nation [to preach:] ‘Worship
 Allah, and keep away from the Rebel’...**”*[^6]
@@ -276,29 +256,17 @@ origin. The loftiest value of Islam is that man should be a sincere
 servant of God. It is a truth which has been expressed by God in many
 verses of the Qur’an such as the following:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَما اُمِرُوا إِلاّ لِيَعْبُدُوا اللهَ مُخْلِصِينَ لَهُ الدِّين...﴾
-  </p>
-</blockquote>
+> ﴿وَما اُمِرُوا إِلاّ لِيَعْبُدُوا اللهَ مُخْلِصِينَ لَهُ الدِّين...﴾
 
 ***“Yet they were not commanded except to worship Allah, dedicating
 their faith to Him...”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلّاَ لِلَّهِ الدِّينُ الْخَالِصُ...﴾
-  </p>
-</blockquote>
+> ﴿أَلّاَ لِلَّهِ الدِّينُ الْخَالِصُ...﴾
 
 ***“[Only] exclusive faith is worthy of Allah...”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَن يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى...﴾
-  </p>
-</blockquote>
+> ﴿وَمَن يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى...﴾
 
 ***“Whoever surrenders his heart to Allah and is virtuous has certainly
 held fast to the firmest handle…**”*[^9]
@@ -404,11 +372,7 @@ station of man. Contrary to this idea, we Muslims believe that religion
 has jurisdiction over all aspects and dimensions of life and has
 promulgated relevant laws. Regarding the thief, for example, it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا...﴾
-  </p>
-</blockquote>
+> ﴿وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا...﴾
 
 ***“As for the thief, man and woman, cut off their hands...”***[^10]
 
@@ -584,11 +548,7 @@ have to desist from doubt, bewilderment and uncertainty. We should
 consciously and certainly make the correct selection just as the Qur’an
 emphasizes certainty [*yaqin*] in the beginning and says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَبِالآخِرَةِ هُمْ يُوقِنُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَبِالآخِرَةِ هُمْ يُوقِنُونَ﴾
 
 ***“And are certain of the Hereafter.”***[^11]
 
@@ -597,11 +557,7 @@ hereafter and it does not say, “They doubt it”. So, anyone who wants to
 benefit from the Qur’an should be certain of the hereafter. It says in
 another place:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَفِي الأَرْضِ آيَاتٌ لِلْمُوقِنِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَفِي الأَرْضِ آيَاتٌ لِلْمُوقِنِينَ﴾
 
 ***“In the earth are signs for those who have conviction.”***[^12]
 
@@ -611,22 +567,14 @@ especially whatever is beyond matter. The Qur’an describes the state of
 doubt and uncertainty as the worst state of downfall and disgrace for
 them:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَهُمْ فِي رَيْبِهِمْ يَتَرَدَّدُونَ﴾
-  </p>
-</blockquote>
+> ﴿فَهُمْ فِي رَيْبِهِمْ يَتَرَدَّدُونَ﴾
 
 ***“So they waver in their doubt.”***[^13]
 
 The Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَؤُنْزِلَ عَلَيْهِ الذِّكْرُ مِنْ بَيْنِنَا بَلْ هُمْ فِي شَكٍّ مِنْ
-ذِكْرِي...﴾
-  </p>
-</blockquote>
+> ﴿أَؤُنْزِلَ عَلَيْهِ الذِّكْرُ مِنْ بَيْنِنَا بَلْ هُمْ فِي شَكٍّ مِنْ
+> ذِكْرِي...﴾
 
 ***“Has the reminder been sent down to him out of [all of] us? Rather
 they are in doubt concerning My reminder.**”*[^14]
@@ -671,19 +619,11 @@ freedom, should we only mean freedom in carnal desires? Or, is humanity
 essentially metaphysical and the spirit of God, while the body only an
 instrument for the soul’s perfection, and our real life the eternal one?
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِنَّ الدَّارَ الآخِرَةَ لَهِيَ الْحَيَوَانُ﴾
-  </p>
-</blockquote>
+> ﴿وَإِنَّ الدَّارَ الآخِرَةَ لَهِيَ الْحَيَوَانُ﴾
 
 ***“But the abode of the Hereafter is indeed Life!**”*[^15]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَما الْحَيَاةُ الدُّنْيَا إِلاَّ مَتَاعُ الْغُرُورِ...﴾
-  </p>
-</blockquote>
+> ﴿وَما الْحَيَاةُ الدُّنْيَا إِلاَّ مَتَاعُ الْغُرُورِ...﴾
 
 ***“The life of this world is nothing but the wares of
 delusion...”***[^16]
@@ -732,5 +672,4 @@ anklets, bracelets and earrings. [Trans.]
 [^15]: Surah al-‘Ankabut 29:65.
 
 [^16]: Surah Al ‘Imran 3:185.
-
 

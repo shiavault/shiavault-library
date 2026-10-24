@@ -75,4 +75,3 @@ him, what produces the most pleasure is knowledge of the world, of man
 himself and of the divine. Therefore, he who seeks happiness is he who
 seeks knowledge, truth, the philosopher in the original sense.
 
-

@@ -1384,4 +1384,3 @@ al-Kutub al-‘Arabi, Cairo, 1954, Vol. 1, p.63.
 
 [^65]: Al-Qushairi, op.cit., p.37.
 
-

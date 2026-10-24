@@ -10,11 +10,7 @@ Surah al-Tur, Chapter 52, Verses 1 - 28
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -50,61 +46,25 @@ upon them.
 Surah al-Tur - Verses 1-8
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالطُّورِ
-  </p>
-</blockquote>
+> وَالطُّورِ
 
-<blockquote dir="rtl">
-  <p>
-وَكِتَابٍ مَّسْطُورٍ
-  </p>
-</blockquote>
+> وَكِتَابٍ مَّسْطُورٍ
 
-<blockquote dir="rtl">
-  <p>
-فِي رَقٍّ مَّنشُورٍ
-  </p>
-</blockquote>
+> فِي رَقٍّ مَّنشُورٍ
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَيْتِ الْمَعْمُورِ
-  </p>
-</blockquote>
+> وَالْبَيْتِ الْمَعْمُورِ
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّقْفِ الْمَرْفُوعِ
-  </p>
-</blockquote>
+> وَالسَّقْفِ الْمَرْفُوعِ
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَحْرِ الْمَسْجُورِ
-  </p>
-</blockquote>
+> وَالْبَحْرِ الْمَسْجُورِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ
-  </p>
-</blockquote>
+> إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ
 
-<blockquote dir="rtl">
-  <p>
-مَا لَهُ مِن دَافِعٍ
-  </p>
-</blockquote>
+> مَا لَهُ مِن دَافِعٍ
 
 ***1. By the Tur [Mount].***  
 ***2. And by an Inscribed Book.***  
@@ -172,41 +132,17 @@ impediment may arise.
 Surah al-Tur - Verses 9-14
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَمُورُ السَّمَاء مَوْرًا
-  </p>
-</blockquote>
+> يَوْمَ تَمُورُ السَّمَاء مَوْرًا
 
-<blockquote dir="rtl">
-  <p>
-وَتَسِيرُ الْجِبَالُ سَيْرًا
-  </p>
-</blockquote>
+> وَتَسِيرُ الْجِبَالُ سَيْرًا
 
-<blockquote dir="rtl">
-  <p>
-فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُدَعُّونَ إِلَی نَارِ جَهَنَّمَ دَعًّا
-  </p>
-</blockquote>
+> يَوْمَ يُدَعُّونَ إِلَی نَارِ جَهَنَّمَ دَعًّا
 
-<blockquote dir="rtl">
-  <p>
-هَذِهِ النَّارُ الَّتِي كُنتُم بِهَا تُكَذِّبُونَ
-  </p>
-</blockquote>
+> هَذِهِ النَّارُ الَّتِي كُنتُم بِهَا تُكَذِّبُونَ
 
 ***9. The Day when the heaven shall shake with a dreadful shaking.***  
 ***10. And the mountains shall move away with haste.***  
@@ -284,18 +220,10 @@ against Messengers of Truth and inflict harms upon them.
 Surah al-Tur - Verses 15-16
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَسِحْرٌ هَذَا أمْ أنتُمْ لَآ تُبْصِرُونَ
-  </p>
-</blockquote>
+> أفَسِحْرٌ هَذَا أمْ أنتُمْ لَآ تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-اصْلَوْهَا فَاصْبِرُوا أوْ لَآ تَصْبِرُوا سَوَاء عَلَيْكُمْ إِنَّمَا
-تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> اصْلَوْهَا فَاصْبِرُوا أوْ لَآ تَصْبِرُوا سَوَاء عَلَيْكُمْ إِنَّمَا
+> تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
 ***15. Is this [torment] magic or do you not see?***  
 ***16. Taste you therein its heat and whether you are patient of it or
@@ -325,18 +253,10 @@ impede it. Such torment is the recompense of their evil deeds.
 Surah al-Tur - Verses 17-18
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ
-الْجَحِيمِ
-  </p>
-</blockquote>
+> فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ
+> الْجَحِيمِ
 
 ***17. Indeed, the God fearing shall be in Gardens [of Paradise] and
 Abundant Bounties.***  
@@ -387,17 +307,9 @@ Hellfire").***
 Surah al-Tur - Verses 19-20
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنتُمْ تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-مُتَّكِئِينَ عَلَی سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ
-  </p>
-</blockquote>
+> مُتَّكِئِينَ عَلَی سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ
 
 ***19. [It shall be said unto them:] “Eat and drink with happiness
 because of what you used to do.”***  
@@ -416,13 +328,9 @@ kinship shall have beautiful spouses in the Hereafter.
 Surah al-Tur - Verse 21
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ
-ألْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا ألَتْنَاهُم مِّنْ عَمَلِهِم
-مِّن شَيْءٍ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ
+> ألْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا ألَتْنَاهُم مِّنْ عَمَلِهِم
+> مِّن شَيْءٍ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ
 
 ***21. And those who believe and whose offspring follow them in faith,
 to them shall We join their offspring, and We shall not decrease the
@@ -462,17 +370,9 @@ committed by others.
 Surah al-Tur - Verses 22-23
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأمْدَدْنَاهُم بِفَاكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَأمْدَدْنَاهُم بِفَاكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَتَنَازَعُونَ فِيهَا كَأسًا لَآ لَغْوٌ فِيهَا وَلَآ تَأثِيمٌ
-  </p>
-</blockquote>
+> يَتَنَازَعُونَ فِيهَا كَأسًا لَآ لَغْوٌ فِيهَا وَلَآ تَأثِيمٌ
 
 ***22. And We shall provide them with fruit and meat such as they
 desire.***  
@@ -501,11 +401,7 @@ mundane ones which entail pains and afflictions.
 Surah al-Tur - Verse 24
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
-  </p>
-</blockquote>
+> وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
 
 ***24. And there will go round pages of theirs to serve them as if they
 were pearls in shells.***
@@ -544,23 +440,11 @@ utmost delight since there shall be no sorrow in Paradise.
 Surah al-Tur - Verses 25-27
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأقْبَلَ بَعْضُهُمْ عَلَی بَعْضٍ يَتَسَاءلُونَ
-  </p>
-</blockquote>
+> وَأقْبَلَ بَعْضُهُمْ عَلَی بَعْضٍ يَتَسَاءلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّا كُنَّا قَبْلُ فِي أهْلِنَا مُشْفِقِينَ
-  </p>
-</blockquote>
+> قَالُوا إِنَّا كُنَّا قَبْلُ فِي أهْلِنَا مُشْفِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ
-  </p>
-</blockquote>
+> فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ
 
 ***25. And some of them [people of Paradise] draw near to others,
 questioning [the secret of being provided with so many Bounties in
@@ -582,11 +466,7 @@ them from excruciating and horrible torment.
 Surah al-Tur - Verse 28
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ
-  </p>
-</blockquote>
+> إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ
 
 ***28. Indeed, We used to invoke Him before. Indeed, He is the Most
 Benevolent, the most Gracious.***
@@ -616,5 +496,4 @@ Attributes like Divine Justice, Wisdom, and Omnipotence.
 
 [^5]: Tafsir Majma‘ al-Bayan; Kashshaf; Qurtubi; Ruh al-Bayan; Abu
 al-Futuh Razi's Tafsir.
-
 

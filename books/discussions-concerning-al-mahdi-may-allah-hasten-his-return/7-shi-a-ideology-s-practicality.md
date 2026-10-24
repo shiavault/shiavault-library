@@ -33,12 +33,8 @@ so forth became the reason that Allah chose them alone from among the
 people to succeed the Prophet (peace be upon him and his family), just
 as the Qur’an says about the successors of the prophets as well:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ اصْطَفَى آدَمَ وَنُوْحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالميِنَ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ اصْطَفَى آدَمَ وَنُوْحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالميِنَ.
 
 ***“Verily Allah chose Adam, Nuh, the family of Ibrahim, and the family
 of \`Imran over all the people of the world.***”[^1]
@@ -67,11 +63,7 @@ explain the realities and the path of salvation and the way that leads
 to ultimate success, which must be announced to the people even in case
 of certainty that it will not be accepted:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورَا.
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورَا.
 
  ***“Surely We have guided him to the Path, whether he be grateful or
 ungrateful.”***[^2]
@@ -153,5 +145,4 @@ through him.
 [^1]: Surah Ali-Imran (3), Verse 33
 
 [^2]: Surah Insan (76), Verse 3
-
 

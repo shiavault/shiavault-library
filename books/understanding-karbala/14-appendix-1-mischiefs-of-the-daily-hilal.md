@@ -339,4 +339,3 @@ And peace be upon those who follow the guidance.
 
 [^10]: Shoara 26:227
 
-

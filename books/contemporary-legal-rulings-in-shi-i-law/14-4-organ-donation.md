@@ -366,4 +366,3 @@ quitting. As for the one who would suffer harm by quitting, he/she
 should consider which one is less harmful: to continue smoking or to
 quit, and act accordingly. (FM, pp. 416-17)
 
-

@@ -220,4 +220,3 @@ running.
 
 [^4]: Seerah-i Ibn Hisham, vol. ll, page 372.
 
-

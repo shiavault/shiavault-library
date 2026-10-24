@@ -14,15 +14,10 @@ delay in his advent.
 There is a section in Du’a al-Nudbah which explains the sorrow one feels
 at being separated from his Imam:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ مِنْ مُعِينٍ فَأُطِيلَ مَعَهُ العَوِيلَ وَ الْبُكَاءَ؟
-  </p>
-</blockquote>
+> هَلْ مِنْ مُعِينٍ فَأُطِيلَ مَعَهُ العَوِيلَ وَ الْبُكَاءَ؟
 
 “Is there any assistant that will be alongside me in prolonging my grief
 and tears (at being separated from you, O’ Imam?)”[^1]
 
 [^1]: Biharul Anwar, vol. 102, pg. 90
-
 

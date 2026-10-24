@@ -6,9 +6,7 @@ intransitive verbs which take prepositions. An exception to this is the
 object pronoun for the first person,   **أنا** , which becomes**(**
 **ي** **)** for some prepositions.
 
-<p dir="rtl">
 **ذهَبَتْ معي إلی السوق ِ.**
-</p>
 
 She went with me to the market.
 
@@ -39,5 +37,4 @@ Object     Subject    Independent
 9. هُم           ـوا           ـهُم
 
 10. هُنَّ        ـنَ            ـهُنَّ
-
 

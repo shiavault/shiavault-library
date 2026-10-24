@@ -17,4 +17,3 @@ Disbelief
 
 [^1]: Or: Disbelief is abandonment [by Allah].
 
-

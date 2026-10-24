@@ -673,4 +673,3 @@ happened so he wrote to Khalid: “You are deposed. Withdraw from the
 emirate!” After that Umar had not entrusted Khalid with any position
 until he died.
 
-

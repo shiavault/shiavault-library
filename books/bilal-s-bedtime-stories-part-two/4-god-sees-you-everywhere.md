@@ -77,7 +77,6 @@ how one reaps what he sows. "Do as you would be done by" are words of
 wisdom from the learned and wise men of the past. They teach us to do
 good to others in the same way as we like others to do good to us.
 
-
 **Co-operation - The Key To Success**
 
 Co-operation is to work together for a common good. It is to undertake
@@ -179,5 +178,4 @@ of that meat."
 Thus Hazrat Ali (A.S.) has emphasized the evil of Alcohol. For the sake
 of our own physical, mental and spiritual welfare, we should always keep
 away from drinks.
-
 

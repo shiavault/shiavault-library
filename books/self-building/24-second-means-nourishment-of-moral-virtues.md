@@ -23,12 +23,8 @@ loyalty, reliance (upon God), hospitability, pardon and forgiveness,
 politeness, and social service etc. -are in agreement. God-Almighty in
 Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
-أَفْلَحَ مَن زَكَّاهَا وَقَدْ خَابَ مَن دَسَّاهَا
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
+> أَفْلَحَ مَن زَكَّاهَا وَقَدْ خَابَ مَن دَسَّاهَا
 
 ***“And a soul and Him who perfected it, and inspired it (with
 conscience of) what is wrong for it and (what is) right for it. He is
@@ -52,22 +48,14 @@ self-purification and nourishment of. moral excellence. The Prophet of
 Islam too had clearly announced the objective behind his prophetic
 mission as perfection and nourishment of moral ethics and said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: انما بعثت لاتمم مكارم الاخلاق.
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: انما بعثت لاتمم مكارم الاخلاق.
 
 *“I have been appointed as prophet of God for the completion and
 perfection of moral ethics.”*[^1]
 
 Also, said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): عليكم بمكارم الاخلاق فان الله بعثى بها.
-  </p>
-</blockquote>
+> قال رسول الله (ص): عليكم بمكارم الاخلاق فان الله بعثى بها.
 
 *“I recommend to you the importance of good moral conduct because, I
 have been appointed by God-Almighty to accomplish this very aim.”*[^2]
@@ -75,5 +63,4 @@ have been appointed by God-Almighty to accomplish this very aim.”*[^2]
 [^1]: al-Mustadrak, vol. 2 p-282.
 
 [^2]: Bihar al-Anwar, vol. 69, p-375.
-
 

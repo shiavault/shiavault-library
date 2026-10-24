@@ -17,4 +17,3 @@ combined with some particles. The particle category includes the
 remaining words, and their function is to assist other words in their
 semantic function in the sentence.
 
-

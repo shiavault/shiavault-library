@@ -25,7 +25,6 @@ is pushed to its goal by a mysterious force existing within it. It is
 this force that is called Divine guidance. The Holy Qur'an reports that
 Prophet Musa said to the Fir'awn of his time:
 
-
 "Our Lord is He who gave everything its distinctive nature and then
 guided it." (Surah Ta Ha, 20:50)
 
@@ -66,7 +65,6 @@ other words, it stimulates his talents and faculties and brings about a
 deep and big revolution in his person for the good of humanity. It
 endows him with an absolute conviction. History has not witnessed such a
 conviction as that of the Prophets and the persons produced by them.
-
 
 **Characteristics of Prophets**
 
@@ -170,5 +168,4 @@ Though the action has been repeated 100 times, the actual number of the
 beads can neither be less nor more than what it is. The men who are in
 the midst of reality and close to the root of existence are immune from
 making any kind of mistake. They are infallible.
-
 

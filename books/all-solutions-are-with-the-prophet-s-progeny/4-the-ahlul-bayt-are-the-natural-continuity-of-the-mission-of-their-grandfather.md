@@ -356,4 +356,3 @@ Maghazi (battles), the Battle of Tabuk.
 
 [^19]: Nahjul Balaghah, sermon 1.
 
-

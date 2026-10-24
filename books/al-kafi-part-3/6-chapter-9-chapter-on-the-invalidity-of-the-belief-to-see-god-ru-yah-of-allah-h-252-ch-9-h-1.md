@@ -290,4 +290,3 @@ Glorious, otherwise, it will form his Wahm of what is there in the air
 as mentioned about the eye-witnessing. Allah, the Most High is far and
 above similarities with the creatures."
 
-

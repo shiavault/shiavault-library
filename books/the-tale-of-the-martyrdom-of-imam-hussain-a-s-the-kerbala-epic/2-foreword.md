@@ -160,4 +160,3 @@ the only Bestower of success.
 (1) The Tale was published by "Dar al-Zahra for printing, publishing,
 and distribution, 1985,
 
-

@@ -68,4 +68,3 @@ a human being facing him. It is *makruh* to pray in a bath-house
 (*hammam*), or on roads, or facing an open door, or in a salty place, or
 in a room wherein someone is *junub*.
 
-

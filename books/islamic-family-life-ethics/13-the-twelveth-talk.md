@@ -26,12 +26,8 @@ instinct of love to its members.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنْ ءَايَتِهِ أَنْ خَلَقَ لَكمُ مِّنْ أَنفُسِكُمْ أَزْوَجًا
-لِّتَسْكُنُواْ إِلَيْهَا وَ جَعَلَ بَيْنَكُم مَّوَدَّةً وَ رَحْمَة
-  </p>
-</blockquote>
+> وَ مِنْ ءَايَتِهِ أَنْ خَلَقَ لَكمُ مِّنْ أَنفُسِكُمْ أَزْوَجًا
+> لِّتَسْكُنُواْ إِلَيْهَا وَ جَعَلَ بَيْنَكُم مَّوَدَّةً وَ رَحْمَة
 
 ***And of His signs is this: He created for you helpmates from
 yourselves that ye might find rest in them, and He ordained between you
@@ -119,13 +115,9 @@ an abuse, if it takes on a form, it will be a very ferocious thing and
 will chase the person in the grave, in Barzakh and on the Day of
 Reckoning.”
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيرٍْ محُّْضَرًا وَ مَا
-عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَ بَيْنَهُ أَمَدَا
-بَعِيدًا
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيرٍْ محُّْضَرًا وَ مَا
+> عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَ بَيْنَهُ أَمَدَا
+> بَعِيدًا
 
 ***On the day when every soul will find itself confronted with all that
 it hath done of good and all that it hath done of evil (every soul) will
@@ -295,5 +287,4 @@ nerves. You should desire for her what you desire for yourself, and you
 should not desire for her what you do not desire for yourself.
 Inshallah, Allah’s blessings will be upon you in this world and in the
 Hereafter.
-
 

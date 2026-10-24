@@ -145,4 +145,3 @@ above statement.
 those who were killed in the uprising of Medina, or may point to the
 fact that they were one generation after prophet’s companions.
 
-

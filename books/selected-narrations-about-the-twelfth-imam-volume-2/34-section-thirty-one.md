@@ -245,4 +245,3 @@ narrated it from Imam al-Riḍā, peace be on him, in vol. 13, chap. 10, p.
 299, no. 17; Muntakhab al-anwār al-muḍī’a, p. 40, from Imam al-Ḥasan
 al-\`Askarī, peace be on him.
 
-

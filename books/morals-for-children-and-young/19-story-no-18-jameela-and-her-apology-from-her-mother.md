@@ -11,4 +11,3 @@ to say ‘Uf’ to parents”.
  Jameela understood her mistake and apologized.  
  She said “Sorry mother, I acted in an ill-mannered way”.
 
-

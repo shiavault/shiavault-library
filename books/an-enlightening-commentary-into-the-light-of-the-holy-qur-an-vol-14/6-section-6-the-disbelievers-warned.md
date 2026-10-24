@@ -4,13 +4,9 @@ Section 6: The Disbelievers Warned
 Surah Al-‘Ankabut - Verse 52
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كَفَي بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيداً يَعْلَمُ مَا فِي
-السَّمَاوَاتِ وَالاَرْضِ وَالَّذِينَ ءَامَنُوا بِالْبَاطِلِ وَكَفَرُوا
-بِاللَّهِ اُوْلَئِكَ هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> قُلْ كَفَي بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيداً يَعْلَمُ مَا فِي
+> السَّمَاوَاتِ وَالاَرْضِ وَالَّذِينَ ءَامَنُوا بِالْبَاطِلِ وَكَفَرُوا
+> بِاللَّهِ اُوْلَئِكَ هُمُ الْخَاسِرُونَ
 
 ***52. “Say: ‘Allah is sufficient as a witness between me and you’. He
 knows what is in the heavens and the earth; and those who believe in the
@@ -100,19 +96,11 @@ failure.
 Surah Al-‘Ankabut – Verses 53-54
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَوْلآ أَجَلٌ مُسَمًّي لَجَآءَهُمُ
-الْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَوْلآ أَجَلٌ مُسَمًّي لَجَآءَهُمُ
+> الْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُـحِيطَةٌ
-بِالْكَافِرِينَ
-  </p>
-</blockquote>
+> يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُـحِيطَةٌ
+> بِالْكَافِرِينَ
 
 ***53. “And they demand of you to hasten the chastisement! And had not a
 term been appointed, the chastisement would certainly have come to them;
@@ -219,12 +207,8 @@ ungovernable desires.
 Surah Al-‘Ankabut - Verse 55
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ
-وَيَقُولُ ذُوقُوا مَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ
+> وَيَقُولُ ذُوقُوا مَا كُنتُمْ تَعْمَلُونَ
 
 ***55. “On the Day when the chastisement shall cover them from above
 them, and from beneath their feet, and He shall say: ‘Taste now what you
@@ -276,12 +260,8 @@ reflection of the man’s own deeds in the growth of Hereafter.
 Surah Al-‘Ankabut - Verse 56
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا عِبَادِيَ الَّذِينَ ءَامَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فإِِيَّايَ
-فَاعْبُدُونِ
-  </p>
-</blockquote>
+> يَا عِبَادِيَ الَّذِينَ ءَامَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فإِِيَّايَ
+> فَاعْبُدُونِ
 
 ***56. “O’ My servants who believe! Verily My earth is vast, therefore,
 Me alone should you worship!”***
@@ -360,11 +340,7 @@ believers when He in this verse says:
 Surah Al-‘Ankabut - Verse 57
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ ثُمَّ إِلَيْنَا تُرْجَعُونَ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ ثُمَّ إِلَيْنَا تُرْجَعُونَ
 
 ***57. “Every soul tastes death, then unto Us you shall be returned.”***
 
@@ -390,13 +366,9 @@ indicates a long length of time.
 Surah Al-‘Ankabut - Verse 58
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُم مِنَ
-الْجَنَّةِ غُرَفاً تَجْرِي مِن تَحْتِهَا الاَنْهَارُ خَالِدِينَ فِيهَا
-نِعْمَ أَجْرُ الْعَامِلِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُم مِنَ
+> الْجَنَّةِ غُرَفاً تَجْرِي مِن تَحْتِهَا الاَنْهَارُ خَالِدِينَ فِيهَا
+> نِعْمَ أَجْرُ الْعَامِلِينَ
 
 ***58. “And those who believe and do righteous deeds, We will certainly
 lodge them in lofty chambers of Paradise beneath which rivers flow,
@@ -469,11 +441,7 @@ hungry (ones), observe the fact frequently, and keep prayer at night
 Surah Al-‘Ankabut - Verse 59
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ صَبَرُوا وَعَلَي رَبّـِهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> الَّذِينَ صَبَرُوا وَعَلَي رَبّـِهِمْ يَتَوَكَّلُونَ
 
 ***59. “Those who are (patiently) steadfast and on their Lord do they
 rely.”***
@@ -546,12 +514,8 @@ others and surrenders to Him.”*[^8]
 Surah Al-‘Ankabut - Verse 60
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَأَيّـِن مِن دَآبَةٍ لاَّ تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا
-وَإِيَّاكُمْ وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَكَأَيّـِن مِن دَآبَةٍ لاَّ تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا
+> وَإِيَّاكُمْ وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 ***60. “And how many a moving creature that does not carry its own
 provision, (but) Allah sustains it and you! And He is he Hearing, the
@@ -615,12 +579,8 @@ is hidden from the realm of His infinite knowledge.
 Surah Al-‘Ankabut - Verse 61
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَاَلْتَهُم مَنْ خَلَقَ السَّمَاوَاتِ وَالاَرْضَ وَسَخَّرَ
-الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ فَاَنَّي يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَلَئِن سَاَلْتَهُم مَنْ خَلَقَ السَّمَاوَاتِ وَالاَرْضَ وَسَخَّرَ
+> الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ فَاَنَّي يُؤْفَكُونَ
 
 ***61. “And if you ask them: ‘Who created the heavens and the earth and
 made the sun and the moon subservient?’ They will certainly say:
@@ -696,12 +656,8 @@ in the way of man’s benefits.
 Surah Al-‘Ankabut - Verse 62
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يُبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِ وَيَقْدِرُ
-لَهُ إِنَّ اللَّهَ بِكُلّ‌ِ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> اللَّهُ يُبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِ وَيَقْدِرُ
+> لَهُ إِنَّ اللَّهَ بِكُلّ‌ِ شَيْءٍ عَلِيمٌ
 
 ***62. “Allah enlarges the sustenance for whichever of His servants He
 pleases, and He grants him by (strict) measure, (as He pleases); verily
@@ -743,13 +699,9 @@ He is not aware of their circumstance? This is not imaginable.
 Surah Al-‘Ankabut - Verse 63
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَن نَزَّلَ مِنَ السَّمَآءِ مَآءً فَاَحْيَا بِهِ
-الاَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ
-لِلَّهِ بَلْ أَكْثَرُهُمْ لاَيَعْقِلُونَ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَن نَزَّلَ مِنَ السَّمَآءِ مَآءً فَاَحْيَا بِهِ
+> الاَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ
+> لِلَّهِ بَلْ أَكْثَرُهُمْ لاَيَعْقِلُونَ
 
 ***63. “And if you ask them: ‘Who sends down water from the heaven and
 gives life with it unto the earth after its death?’ They will certainly
@@ -834,5 +786,4 @@ Al-Kahf, No. 18, verse 103
 [^10]: Surah Az-Zumar, No. 39, verse 3
 
 [^11]: Surah Qaf, No. 50, verse 16
-
 

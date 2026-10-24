@@ -25,12 +25,8 @@ This means that his heart becomes a slave to his desires, rendering him
 a *fasiq* and *fajir*. According to the Quran, this person becomes a
 Satan worshipper, not a servant of Allah. We read in the Sura Yasin:
 
-<blockquote dir="rtl">
-  <p>
-أَ لَمْ أَعْهَدْ إِلَيْكُمْ يَبَنىِ ءَادَمَ أَن لَّا تَعْبُدُواْ
-الشَّيْطَنَ إِنَّهُ لَكمُ‏ْ عَدُوٌّ مُّبِين
-  </p>
-</blockquote>
+> أَ لَمْ أَعْهَدْ إِلَيْكُمْ يَبَنىِ ءَادَمَ أَن لَّا تَعْبُدُواْ
+> الشَّيْطَنَ إِنَّهُ لَكمُ‏ْ عَدُوٌّ مُّبِين
 
 ***Did I not charge you, O ye sons of Adam, that ye worship not the
 devil - Lo! He is your open foe!*** ***(Sura Yasin, 36: 60)***
@@ -96,11 +92,7 @@ Similarly, if a good wife misbehaves one day, her husband forgets all
 her past kindness. This shows that humans are not faithful. Even the
 Quran complains about this aspect of human nature:
 
-<blockquote dir="rtl">
-  <p>
-قُتِلَ الْإِنْسانُ ما أَكْفَرَه
-  </p>
-</blockquote>
+> قُتِلَ الْإِنْسانُ ما أَكْفَرَه
 
 ***Perish man! How ungrateful is he?!*** ***(Sura 'Abasa, 80: 17)***
 
@@ -210,12 +202,8 @@ suspect her husband of these things, if she becomes entangled in
 *waswasa* of thought. This is a major sin about which the Holy Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَ الْبَصَرَ
-وَ الْفُؤَادَ كلُ‏ُّ أُوْلَئكَ كاَنَ عَنْهُ مَسُْولا
-  </p>
-</blockquote>
+> وَ لَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَ الْبَصَرَ
+> وَ الْفُؤَادَ كلُ‏ُّ أُوْلَئكَ كاَنَ عَنْهُ مَسُْولا
 
 ***(O man), follow not that whereof thou hast no knowledge. Lo! The
 hearing and the sight and the heart--- of each of these it will be
@@ -232,11 +220,7 @@ used to suspect his wife in the world. Islam has strictly forbidden
 doubting others. A good Muslim should act on his conviction and not on
 doubts. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-ْ وَ ظَنَنتُمْ ظَنَّ السَّوْءِ وَ كُنتُمْ قَوْمَا بُورًا
-  </p>
-</blockquote>
+> ْ وَ ظَنَنتُمْ ظَنَّ السَّوْءِ وَ كُنتُمْ قَوْمَا بُورًا
 
 ***… And ye did think an evil thought, and ye were worthless folk.(***
 ***Sura al Fath, 48: 12)***
@@ -248,17 +232,9 @@ silkworm, weaves a cocoon of suspicion and conjecture so that he can
 hide within it. I appeal to my audience to remember and recite this
 verse whenever any doubts crosses their minds:
 
-<blockquote dir="rtl">
-  <p>
-قُتِلَ الخَْرَّصُونَ‏
-  </p>
-</blockquote>
+> قُتِلَ الخَْرَّصُونَ‏
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ هُمْ فىِ غَمْرَةٍ سَاهُون
-  </p>
-</blockquote>
+> الَّذِينَ هُمْ فىِ غَمْرَةٍ سَاهُون
 
 ***Accursed be the conjecturers***  
 ***Who are careless in an abyss! (Sura Zaariyaat, 51: 10 – 11)***
@@ -299,12 +275,8 @@ wife and children. Even after all this if the wives suspect their
 husbands, it goes to show that the suspicion is not a product of their
 intelligence, rather it is the work of someone else.
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ الشَّيَطِينَ لَيُوحُونَ إِلىَ أَوْلِيَائهِمْ لِيُجَدِلُوكُمْ
-وَ إِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لمَُشرِْكُون
-  </p>
-</blockquote>
+> وَ إِنَّ الشَّيَطِينَ لَيُوحُونَ إِلىَ أَوْلِيَائهِمْ لِيُجَدِلُوكُمْ
+> وَ إِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لمَُشرِْكُون
 
 ***Lo! The devils do inspire their minions to dispute with you. But if
 ye obey them, ye will be in truth as idolaters.*** ***(Sura al An'am, 6:
@@ -372,16 +344,11 @@ ailment will destroy your world and your Hereafter, but each one of us
 can easily cure himself. The cure lies in giving no importance to
 suspicion and gossip.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الظَّنَّ لا يُغْني‏ مِنَ الْحَقِّ شَيْئا
-  </p>
-</blockquote>
+> إِنَّ الظَّنَّ لا يُغْني‏ مِنَ الْحَقِّ شَيْئا
 
 ***Indeed conjecture is no substitute for the truth (Sura Yunus, 10:
 36)***
 
 The Quran says that suspicion is of no use. Those who are suspicious
 aren’t following the Quran.
-
 

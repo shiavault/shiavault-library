@@ -24,4 +24,3 @@ aorist letter with a *mīm* which has a *dummah*, for example:
 infinitive and takes a letter away from the verb either literally or
 implicitly, for example**:اعطاء** the noun of**الإعطاء** .
 
-

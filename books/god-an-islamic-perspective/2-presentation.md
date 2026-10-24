@@ -42,4 +42,3 @@ Quran text of Gods virtuous names and superior attributes, with the
 translation and transliteration in presented to the entombed reader at
 the end of the book.
 
-

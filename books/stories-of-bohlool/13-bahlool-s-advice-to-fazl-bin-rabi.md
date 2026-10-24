@@ -75,4 +75,3 @@ thought that your demise may be like Jafar's.”
 Fazl became very frightened at Bahlool's words. He said, “Pray for my
 safety.”
 
-

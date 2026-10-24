@@ -131,7 +131,6 @@ that gives unquestionable evidence to the truthfulness of Muhammad's
 advocate the same goals and aims that had been advocated by the
 preceding prophets.
 
-
 **Where do the Messages Differ**
 
 In the previous chapters, we explained the basic concepts common in all
@@ -341,7 +340,6 @@ Muhammad (s.a.w.); the message which brought religion-Islam-to its
 highest degree of perfection and in complete uniformity with human
 progress and scientific development.
 
-
 **Amendments in Divine Messages**
 
 "Say (O Muslims): We believe in Allah and (in) that which has been
@@ -446,5 +444,4 @@ Sura Aal Imran (3:85)
 \_\_\_\_\_\_\_\_\_\_\_\_
 1. Al-Harrani Abu Muhammad Al-Hassan ibn 'Ali, "Tuhaful Uqool Un Aalir
 Rasool" P.285.
-
 

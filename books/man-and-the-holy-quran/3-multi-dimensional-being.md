@@ -128,7 +128,6 @@ For an animal the question of beauty does not arise. What is important
 to it is its food and not the beauty of that. It is not interested in a
 beautiful saddle, beautiful scenery, a beautiful abode etc.
 
-
 **(iv) Adoration and Worship:**
 
 The sense of adoration and worship is one of the oldest and the most
@@ -222,5 +221,4 @@ another mental and spiritual dimension of man.
 The variation from individual to individual in being affected by
 various urges and impulses and the choice he may exercise between them,
 are the questions which we propose to discuss next.
-
 

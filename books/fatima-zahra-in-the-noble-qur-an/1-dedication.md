@@ -15,4 +15,3 @@ project, and may He make this book the means through which Fatima Zahra,
 peace be upon her, finds us worthy of her intercession on the Day of
 Judgment.
 
-

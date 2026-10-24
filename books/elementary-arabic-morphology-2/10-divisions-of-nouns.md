@@ -95,4 +95,3 @@ describes its condition.
 objective compliment, the exaggerated form, the adjective form,
 comparative/superlative form.
 
-

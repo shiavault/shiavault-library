@@ -27,4 +27,3 @@ says, have that inscribed.”
 This time Bahlool said, “Have a verse from the Sacred Qur'an inscribed
 on the door of the mosque.”
 
-

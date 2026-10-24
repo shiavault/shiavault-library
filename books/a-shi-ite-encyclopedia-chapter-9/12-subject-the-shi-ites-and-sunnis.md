@@ -25,7 +25,6 @@ other sources are not as reliable as this chain. The point is to know
 that it is not too late to listen, think, and obey these true sources of
 knowledge, Ali-Ibn-Abitalib and his sons.
 
-
 **Subject: Health rules in Hadith books?**
 
 I am getting closer to realize what Islam says about health of human. I
@@ -65,7 +64,6 @@ The traditions are taken from Sahih Bukhari:
 Arabic-English
 Dr. Mohammad Muhsin Khan
 Islamic University, Medina al-Munawwara**
-
 
 **The Ahl al-Sunnah View of Ibn Taymiya and his Works**
 
@@ -160,7 +158,6 @@ Taken From:
 
 English/Arabic Traditional Sunni Manual of Shari\`ah
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 | Reliance of the Traveller (\`Umdat al-Salik): | | A Classic Manual of
 Islamic Sacred Law (Fiqh) | | By Ahmad ibn al-Naqib al-Misri
@@ -204,5 +201,4 @@ Muslim world's most prestigious institution of higher Islamic learning,
 Cairo.
 
 The following article is written by a Sunni brother
-
 

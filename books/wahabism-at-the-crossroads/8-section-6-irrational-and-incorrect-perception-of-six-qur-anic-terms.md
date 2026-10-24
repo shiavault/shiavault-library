@@ -11,26 +11,18 @@ presents his case in this regard, the summary of which is as follows:
 because the polytheistic Arabs believed in the *Oneness of a Creator*
 and declared that the whole universe was the creation of God:
 
-<blockquote dir="rtl">
-  <p>
-{وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ}
-  </p>
-</blockquote>
+> {وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ}
 
 ***"If you ask them, 'Who created the heavens and the earth?' they will
 surely say, 'The All-mighty, the All-knowing created them'."*** [^2]
 
 And elsewhere He says:
 
-<blockquote dir="rtl">
-  <p>
-{قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاءِ وَالأَرْضِ أَمَّن يَمْلِكُ
-السَّمْعَ والأَبْصَارَ وَمَن يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ
-وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَمَن يُدَبِّرُ الأَمْرَ
-فَسَيَقُولُونَ اللّهُ فَقُلْ أَفَلاَ تَتَّقُونَ}
-  </p>
-</blockquote>
+> {قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاءِ وَالأَرْضِ أَمَّن يَمْلِكُ
+> السَّمْعَ والأَبْصَارَ وَمَن يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ
+> وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَمَن يُدَبِّرُ الأَمْرَ
+> فَسَيَقُولُونَ اللّهُ فَقُلْ أَفَلاَ تَتَّقُونَ}
 
 ***"Say, 'Who provides for you out of the sky and the earth? Who
 controls [your] hearing and sight, and who brings forth the living from
@@ -53,11 +45,7 @@ the One God and taking refuge in that entity for resolving difficulties
 (for instance when he calls upon *the Messenger of God or Imam Ali*), as
 the holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-{...فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا}
-  </p>
-</blockquote>
+> {...فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا}
 
 ***"So do not invoke any one along with God"*** [^4]
 
@@ -67,12 +55,8 @@ of his is polytheism! His life and wealth is admissible to the
 monotheists! Because he is a polytheist and it is admissible to arrogate
 the life, wealth and woman of every polytheist. The Holy Quran suggests:
 
-<blockquote dir="rtl">
-  <p>
-{قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا لَّهُ مُلْكُ السَّمَاوَاتِ
-وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ}
-  </p>
-</blockquote>
+> {قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا لَّهُ مُلْكُ السَّمَاوَاتِ
+> وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ}
 
 ***"Say 'All intercession rests with Allah. To Him belongs the kingdom
 of the heavens and the earth; then you will be brought back to Him"***
@@ -81,11 +65,7 @@ of the heavens and the earth; then you will be brought back to Him"***
 4. Moreover, when the Arab polytheists were denounced for idol-worship,
 they said:
 
-<blockquote dir="rtl">
-  <p>
-{...مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى...}
-  </p>
-</blockquote>
+> {...مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى...}
 
 ***"We only worship them so that they may bring us near to Allah"***
 [^6]
@@ -121,12 +101,8 @@ Qom and Najaf for logical discussions to elucidate the truth? Why are
 they not ready to initiate a friendly debate in accordance with the
 commands of the holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-{...فَبَشِّرْ عِبَادِ\* الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ
-فَيَتَّبِعُونَ أَحْسَنَهُ...}
-  </p>
-</blockquote>
+> {...فَبَشِّرْ عِبَادِ\* الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ
+> فَيَتَّبِعُونَ أَحْسَنَهُ...}
 
 ***"So give good news to my servants - who listen to the word [of Allah]
 and follow the best [sense] of it."*** [^8]
@@ -161,19 +137,11 @@ The first vital term is *'Shirk'* and *'Mushrik'*.
 
 Lisān al-Arab, for the meaning of the word "Ishtirāk"[^14] states:
 
-<blockquote dir="rtl">
-  <p>
-أشرَﻙَ بالله: جَعَلَ لَهُ شَرِيکاً في مُلکِهِ
-  </p>
-</blockquote>
+> أشرَﻙَ بالله: جَعَلَ لَهُ شَرِيکاً في مُلکِهِ
 
 and for the meaning of the word "Shirk" states:
 
-<blockquote dir="rtl">
-  <p>
-والشِّرﻙُ أن يَجعَلَ للهِ شريکاً في رُبوبيّتِهِ
-  </p>
-</blockquote>
+> والشِّرﻙُ أن يَجعَلَ للهِ شريکاً في رُبوبيّتِهِ
 
 and explains Shirk as ascribing a partner to God in His Sovereignty and
 Lordship.
@@ -184,11 +152,7 @@ a fellow to God which will deprive him of Heaven[^17]. The *'Minor
 Shirk'* is when man is concerned about other-than-God in some affairs,
 which is the same as ostentation or hypocrisy. The Holy Quran suggests:
 
-<blockquote dir="rtl">
-  <p>
-{وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللّهِ إِلاَّ وَهُم مُّشْرِكُونَ}
-  </p>
-</blockquote>
+> {وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللّهِ إِلاَّ وَهُم مُّشْرِكُونَ}
 
 ***"And most of them do not believe in Allah without ascribing partners
 to Him."*** [^18]
@@ -204,13 +168,9 @@ falsely.
 
 Doesn’t the Quran tell in the name of Jesus (‘as):
 
-<blockquote dir="rtl">
-  <p>
-{... وَأُبْرِىءُ الأَكْمَهَ وَالأَبْرَصَ وَأُحْيِي الْمَوْتَى بِإِذْنِ
-اللّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي
-بُيُوتِكُمْ إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ}
-  </p>
-</blockquote>
+> {... وَأُبْرِىءُ الأَكْمَهَ وَالأَبْرَصَ وَأُحْيِي الْمَوْتَى بِإِذْنِ
+> اللّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي
+> بُيُوتِكُمْ إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ}
 
 ***"And [he will be] an apostle to the children of Israel, [and he will
 declare] 'I have certainly brought you a sign from your Lord: I will
@@ -259,13 +219,9 @@ to this, the Arab idolators (polytheists) were not merely afflicted by
 idolatry in worship and *"Ilah"* does not always infer *the worshipped
 diety*, but at times it implies the *"Creator"*. The holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-{أَمِ اتَّخَذُوا آلِهَةً مِّنَ الْأَرْضِ هُمْ يُنشِرُونَ \* لَوْ كَانَ
-فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا فَسُبْحَانَ اللَّهِ رَبِّ
-الْعَرْشِ عَمَّا يَصِفُونَ}
-  </p>
-</blockquote>
+> {أَمِ اتَّخَذُوا آلِهَةً مِّنَ الْأَرْضِ هُمْ يُنشِرُونَ \* لَوْ كَانَ
+> فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا فَسُبْحَانَ اللَّهِ رَبِّ
+> الْعَرْشِ عَمَّا يَصِفُونَ}
 
 ***"Have they taken gods from the earth who raise [the dead]?*** ***Had
 there been gods in them***[^21] ***other than Allah, they would surely
@@ -277,14 +233,10 @@ to infer the meaning of *"Creator"*.
 
 In another Verse this same meaning is apparent in a more lucid manner:
 
-<blockquote dir="rtl">
-  <p>
-{مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذًا
-لَّذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَى بَعْضٍ
-سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ \* عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
-فَتَعَالَى عَمَّا يُشْرِكُونَ}
-  </p>
-</blockquote>
+> {مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذًا
+> لَّذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَى بَعْضٍ
+> سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ \* عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
+> فَتَعَالَى عَمَّا يُشْرِكُونَ}
 
 ***"Allah has not taken any offspring, neither is there any God besides
 Him, for then each god would take away what he created, and some of them
@@ -317,12 +269,8 @@ idols’ wrath fell upon those who were against them, and they brought
 good fortune to those who believed in them. For instance, the idolators
 at the time of Hud sated:
 
-<blockquote dir="rtl">
-  <p>
-{إِن نَّقُولُ إِلاَّ اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ قَالَ إِنِّي
-أُشْهِدُ اللّهَ وَاشْهَدُواْ أَنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ}
-  </p>
-</blockquote>
+> {إِن نَّقُولُ إِلاَّ اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ قَالَ إِنِّي
+> أُشْهِدُ اللّهَ وَاشْهَدُواْ أَنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ}
 
 ***"All we say is that some of our gods have visited you with evil.' He
 said, ' I call Allah to witness – and you too be [my] witnesses – that I
@@ -352,12 +300,8 @@ idols.
 Thus when Joseph (Yusuf ‘as) wanted to invite the polytheistic prisoners
 towards Tawheed (monotheism), he said:
 
-<blockquote dir="rtl">
-  <p>
-{يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ
-اللّهُ الْوَاحِدُ الْقَهَّارُ}
-  </p>
-</blockquote>
+> {يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ
+> اللّهُ الْوَاحِدُ الْقَهَّارُ}
 
 ***"O my prison mates! Are different masters better, or Allah, the One,
 the All-paramount?"*** [^29]
@@ -368,14 +312,10 @@ Observe the word *lords* (أربابّ) in this verse, the plural of *Lord*
 The Messenger of Allah (S) according to explicit Verses of the Holy
 Quran addressed the polytheistic people of the Book:
 
-<blockquote dir="rtl">
-  <p>
-{قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلِمَةٍ سَوَاءٍ
-بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
-بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً {أَرْبَابًا مِّن دُونِ
-اللّهِ فَإِن تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ}
-  </p>
-</blockquote>
+> {قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلِمَةٍ سَوَاءٍ
+> بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
+> بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً {أَرْبَابًا مِّن دُونِ
+> اللّهِ فَإِن تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ}
 
 ***"Say, 'O people of the Book! Come to a word common between us and
 you: that we will worship no one but Allah, that we will not ascribe any
@@ -387,12 +327,8 @@ The use of the term *lords*[^32] clearly demonstrates that they were
 also ensnared by polytheism on the issue of Allah's lordship. In another
 Verse from this Surah we read:
 
-<blockquote dir="rtl">
-  <p>
-{وَلاَ يَأْمُرَكُمْ أَن تَتَّخِذُواْ الْمَلاَئِكَةَ وَالنَّبِيِّينَ
-أَرْبَابًا أَيَأْمُرُكُم بِالْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ}
-  </p>
-</blockquote>
+> {وَلاَ يَأْمُرَكُمْ أَن تَتَّخِذُواْ الْمَلاَئِكَةَ وَالنَّبِيِّينَ
+> أَرْبَابًا أَيَأْمُرُكُم بِالْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ}
 
 ***"And He would not command you to take the angels and prophets for
 lords. Would He call you to unfaith after you have become Muslims?"***
@@ -400,11 +336,7 @@ lords. Would He call you to unfaith after you have become Muslims?"***
 
 Regarding the idolators of the pagan era the Holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-{وَاتَّخَذُوا مِن دُونِ اللَّهِ آلِهَةً لَعَلَّهُمْ يُنصَرُونَ}
-  </p>
-</blockquote>
+> {وَاتَّخَذُوا مِن دُونِ اللَّهِ آلِهَةً لَعَلَّهُمْ يُنصَرُونَ}
 
 ***"They have taken gods besides Allah [hoping] that they might be
 helped."*** [^34]
@@ -437,14 +369,10 @@ perceived. They state explicitly: if somebody entreats the righteous to
 become their intercessor beside Allah, they are the referrents of this
 Holy Verse:
 
-<blockquote dir="rtl">
-  <p>
-{أَلَا لِلَّهِ الدِّينُ الْخَالِصُ وَالَّذِينَ اتَّخَذُوا مِن دُونِهِ
-أَوْلِيَاءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ
-زُلْفَى إِنَّ اللَّهَ يَحْكُمُ بَيْنَهُمْ فِي مَا هُمْ فِيهِ
-يَخْتَلِفُونَ إِنَّ اللَّهَ لَا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ}
-  </p>
-</blockquote>
+> {أَلَا لِلَّهِ الدِّينُ الْخَالِصُ وَالَّذِينَ اتَّخَذُوا مِن دُونِهِ
+> أَوْلِيَاءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ
+> زُلْفَى إِنَّ اللَّهَ يَحْكُمُ بَيْنَهُمْ فِي مَا هُمْ فِيهِ
+> يَخْتَلِفُونَ إِنَّ اللَّهَ لَا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ}
 
 ***"Look! [Only] exclusive faith is worthy of Allah, and those who take
 guardians besides Him [claiming] 'We only worship them so that they may
@@ -542,11 +470,7 @@ without Allah's consent is also an accepted premise because it has been
 explicitly mentioned in more than five Quranic Verses; amongst which is
 *Ayat al-kursi* which reads thus:
 
-<blockquote dir="rtl">
-  <p>
-{...مَن ذا الَّذي يَشفَعُ عِندَهُ إلّا بِإذنِهِ...}
-  </p>
-</blockquote>
+> {...مَن ذا الَّذي يَشفَعُ عِندَهُ إلّا بِإذنِهِ...}
 
 ***"Who is it that may intercede with Him except with His
 permission?"*** [^46]
@@ -587,13 +511,9 @@ We state: The Quran itself instructs the sinful to go to the Prophet (S)
 and plead with him to ask for forgiveness of Allah so that Allah
 forgives them:
 
-<blockquote dir="rtl">
-  <p>
-{وَلَوْ أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَاؤُوكَ فَاسْتَغْفَرُواْ
-اللّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ اللّهَ تَوَّابًا
-رَّحِيمًا}
-  </p>
-</blockquote>
+> {وَلَوْ أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَاؤُوكَ فَاسْتَغْفَرُواْ
+> اللّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ اللّهَ تَوَّابًا
+> رَّحِيمًا}
 
 ***"If they had only, when they were unjust to themselves, come unto
 thee and asked Allah's forgiveness, and the Messenger had asked
@@ -605,13 +525,9 @@ And more indicating than that is once we read the story of Jacob
 and offence towards Joseph (Yusuf ‘as), pleaded with their father (for
 intercession) to ask Allah for their forgiveness, they said:
 
-<blockquote dir="rtl">
-  <p>
-{قَالُواْ يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
-خَاطِئِينَ\* قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ
-الْغَفُورُ الرَّحِيمُ}
-  </p>
-</blockquote>
+> {قَالُواْ يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
+> خَاطِئِينَ\* قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ
+> الْغَفُورُ الرَّحِيمُ}
 
 ***"Father! Plead [with Allah] for forgiveness of our sins! We have
 indeed been erring.'***
@@ -645,11 +561,7 @@ nor is it worthless, as no Muslim allows himself to declare that the
 status of the Holy Prophet of Islam (S) was less than an ordinary martyr
 on the battlefields of Badr and Uhud, for, they are:
 
-<blockquote dir="rtl">
-  <p>
-{...أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ}
-  </p>
-</blockquote>
+> {...أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ}
 
 ***"Living and provided for, near their Lord"***[^50]
 
@@ -657,12 +569,8 @@ But the Prophet (S) becomes *dust?*[^51] Which cruel person can say such
 a thing?! It appears that their mistake emerges from where the Quran
 tells the Prophet(S):
 
-<blockquote dir="rtl">
-  <p>
-{إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ
-إِذَا وَلَّوْا مُدْبِرِينَ}
-  </p>
-</blockquote>
+> {إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ
+> إِذَا وَلَّوْا مُدْبِرِينَ}
 
 ***"Indeed you cannot make the dead hear, nor can you make the deaf hear
 the call when they turn their backs [upon you]."***[^52]
@@ -677,12 +585,8 @@ mercy"***[^53]***.*** Do you send blessings and greetings to someone who
 
 Do you have faith in the Verse:
 
-<blockquote dir="rtl">
-  <p>
-{إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا
-أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا}
-  </p>
-</blockquote>
+> {إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا
+> أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا}
 
 ***"Indeed Allah and His angels bless the Prophet; O you who have faith!
 Invoke blessings on him and invoke Peace upon him in a worthy
@@ -693,13 +597,9 @@ mercies to? To someone who (God forbid) does not perceive anything?! Why
 have you signposted this Verse above the Sacred Sepulcher of His
 holiness (S)?
 
-<blockquote dir="rtl">
-  <p>
-{...لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا
-تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ
-أَعْمَالُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ}
-  </p>
-</blockquote>
+> {...لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا
+> تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ
+> أَعْمَالُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ}
 
 ***"O, you who have faith! Do not raise your voices above the voice of
 the Prophet and do not speak aloud to him as you shout to one another,
@@ -745,34 +645,22 @@ following:
 
 *1.*
 
-<blockquote dir="rtl">
-  <p>
-{وَأَنَّ الْمَسَاجِدَ لِله فَلَا تَدْعُوا مَعَ الله أَحَدًا}
-  </p>
-</blockquote>
+> {وَأَنَّ الْمَسَاجِدَ لِله فَلَا تَدْعُوا مَعَ الله أَحَدًا}
 
 ***"The places of worship belong to Allah, so do not invoke anyone along
 with Allah."***[^61]
 
 *2.*
 
-<blockquote dir="rtl">
-  <p>
-{لَهُ دَعْوَةُ الْحَقِّ وَالَّذِينَ يَدْعُونَ مِن دُونِهِ لاَ
-يَسْتَجِيبُونَ لَهُم بِشَيْءٍ...}
-  </p>
-</blockquote>
+> {لَهُ دَعْوَةُ الْحَقِّ وَالَّذِينَ يَدْعُونَ مِن دُونِهِ لاَ
+> يَسْتَجِيبُونَ لَهُم بِشَيْءٍ...}
 
 ***"[Only] to Him belongs the true invocation; and those whom they
 invoke besides Him do not answer them in any way."***[^62]
 
 *3.*
 
-<blockquote dir="rtl">
-  <p>
-{إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ الله عِبَادٌ أَمْثَالُكُمْ...}
-  </p>
-</blockquote>
+> {إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ الله عِبَادٌ أَمْثَالُكُمْ...}
 
 ***"Indeed those whom you invoke besides Allah are creaturs like
 you."***[^63]
@@ -795,11 +683,7 @@ in the holy Quran:
 
 1. *Supplication* inferring worship in verse 18 of surah[^64] *Al-Jinn:*
 
-<blockquote dir="rtl">
-  <p>
-{... فَلَا تَدْعُوا مَعَ الله أَحَدًا}
-  </p>
-</blockquote>
+> {... فَلَا تَدْعُوا مَعَ الله أَحَدًا}
 
 ***"So do not invoke anyone along with Allah."***[^65]
 
@@ -810,11 +694,7 @@ Him.
 The witness to this claim is Verse 20 of the same Surah (with one verse
 gap), which states:
 
-<blockquote dir="rtl">
-  <p>
-{قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا}
-  </p>
-</blockquote>
+> {قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا}
 
 ***"Say, 'I pray only to my Lord, and I do not ascribe any partner to
 Him.'"***[^67]
@@ -827,12 +707,8 @@ suspicion.
 of the same kind to what is reported about Prophet Noah (‘as), where the
 Holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-{قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا\* فَلَمْ
-يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا}
-  </p>
-</blockquote>
+> {قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا\* فَلَمْ
+> يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا}
 
 ***"He said 'My Lord! Indeed I have summoned my people night and day \*
 But my summons only increase their evasion."*** [^68]
@@ -843,23 +719,15 @@ faithfulness and its execution was incumbent upon the Prophets of God.
 
 And similarly, God states to the Prophet of Islam (S):
 
-<blockquote dir="rtl">
-  <p>
-{ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
-الْحَسَنَةِ...}
-  </p>
-</blockquote>
+> {ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
+> الْحَسَنَةِ...}
 
 ***"Invite to the way of your Lord with wisdom and good advice."***[^69]
 
 3. *Supplication*[^70] in the sense of entreating for a need, for
 instance:
 
-<blockquote dir="rtl">
-  <p>
-{وَلاَ يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُواْ}
-  </p>
-</blockquote>
+> {وَلاَ يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُواْ}
 
 ***"The witnesses must not refuse when they are called."*** [^71]
 
@@ -880,12 +748,8 @@ effects get all they have from God and perform only by his consent.
 
 Upon this ground, the Holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-{ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
-الْحَسَنَةِ...}
-  </p>
-</blockquote>
+> {ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
+> الْحَسَنَةِ...}
 
 ***"Say, 'Invoke those whom you claim [to be gods] besides Him. They
 have no power to remove your distress nor to bring about any change [in
@@ -905,13 +769,9 @@ The Holy Quran states: The Children of Israel came to Moses and asked
 him to request God for miscellaneous foods (other than manna and
 quails):
 
-<blockquote dir="rtl">
-  <p>
-{وَإِذْ قُلْتُمْ يَا مُوسَى لَن نَّصْبِرَ عَلَى طَعَامٍ وَاحِدٍ
-فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنبِتُ الأَرْضُ مِن
-بَقْلِهَا...}
-  </p>
-</blockquote>
+> {وَإِذْ قُلْتُمْ يَا مُوسَى لَن نَّصْبِرَ عَلَى طَعَامٍ وَاحِدٍ
+> فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنبِتُ الأَرْضُ مِن
+> بَقْلِهَا...}
 
 ***"And when you said, O Moses, 'We will not put up with one kind of
 food. So invoke your Lord for us, that He may bring forth for us of that
@@ -945,12 +805,8 @@ The sixth Quranic term, misinterpreted by this group of Wahhabis, is
 The Holy Quran, while denouncing and reprehending the issue of
 monasticism, states:
 
-<blockquote dir="rtl">
-  <p>
-{...وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا
-ابْتِغَاءَ رِضْوَانِ اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا...}
-  </p>
-</blockquote>
+> {...وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا
+> ابْتِغَاءَ رِضْوَانِ اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا...}
 
 ***"But as for monasticism, they innovated it – We had not prescribed it
 for them – only seeking Allah's pleasure. Yet they did not observe it
@@ -1343,5 +1199,4 @@ obligations).
 
 [^93]: –مفاهيم يجب أن تصحّح" ": Concepts that Need to be Rectified page
 102 and onwords.
-
 

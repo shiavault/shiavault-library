@@ -352,11 +352,7 @@ the vastness of space thereof.”*** [^11]
 Prominent Scientists Find the Fingerprints of God
 -------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-شهد الله انه لا اله الا هو و الملائكه و اولوالعلم قائما بالقسط
-  </p>
-</blockquote>
+> شهد الله انه لا اله الا هو و الملائكه و اولوالعلم قائما بالقسط
 
 1) Dr. Ross sees the imprint of the Creator's hand in the Universe:
 
@@ -494,5 +490,4 @@ by Dr. John F. Ashton. First published in Australia in 2001
 [^15]: Nature, vol. 386, 1997, pp. 435-36
 
 [^16]: Nature, vol. 394, 1998, p.313
-
 

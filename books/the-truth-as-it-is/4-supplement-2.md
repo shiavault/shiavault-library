@@ -167,4 +167,3 @@ and Anas ibn Malik, when these traditions are not inconsistent with the
 Holy Qur'an, the authentically proven practices of the Holy Prophet (S),
 judicious reason, or scholarly consensus.
 
-

@@ -376,4 +376,3 @@ There are many other virtues that scholars of ethics have mentioned in
 more detail in their books and which contain a greater number of verses
 from the Qur’an and hadith of the Holy Prophet and the pure Imams.
 
-

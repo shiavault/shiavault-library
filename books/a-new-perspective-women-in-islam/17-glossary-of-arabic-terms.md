@@ -85,4 +85,3 @@ Wajib- Mandatory.
 
 Wathrebuhun- Described by the Prophet as a light tap.
 
-

@@ -1,17 +1,9 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-و صلَّى الله عليك يا ولي العصر أدرِكنا
-  </p>
-</blockquote>
+> و صلَّى الله عليك يا ولي العصر أدرِكنا
 
 The booklet in your hands is based on discussions concerning the ‘Golden
 Era of Reappearance’ that took place at an exhibition held on the
@@ -92,10 +84,5 @@ the honorable presence of Imam Mahdi (a.t.f.s.).
 O Allah! Hasten the reappearance of our beloved master (a.t.f.s.) and
 enumerate us among his companions and helpers! Aameen!
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا سبيل الله الذي من سلك غيره هلك
-  </p>
-</blockquote>
-
+> السلام عليك يا سبيل الله الذي من سلك غيره هلك
 

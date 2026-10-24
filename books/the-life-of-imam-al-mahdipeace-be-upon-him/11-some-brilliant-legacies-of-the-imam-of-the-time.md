@@ -421,7 +421,7 @@ believers as follows:
 [1] Misbah, Kafami, Pg. 281
 
 By Your grace and mercy; O the most merciful of all those who show
-mercy.<sup>[1]</sup>
+mercy.[1]
 
 bifadlika wa rahmatika ya arhama arrahimin(a)
 
@@ -526,7 +526,7 @@ salimina ghanimina
 وَعَلَى غُرَبَاءِ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِالرّدّ إِلَى
 أَوْطَانِهِمْ سَالِمِينَ غَانِمِينَ
 
-by the right of Muhammad and his entire Household.<sup>[1]</sup>
+by the right of Muhammad and his entire Household.[1]
 
 bimuhammadin wa alihi ajma\`ina
 
@@ -881,7 +881,7 @@ ya muqalliba alqulubi wal-absari
 
 يَا مُقَلّبَ الْقُلُوبِ وَالأبْصَارِ،
 
-O the Hearer of prayers.<sup>[1]</sup>
+O the Hearer of prayers.[1]
 
 ya sami\`a alddu\`a‘i
 
@@ -949,7 +949,7 @@ la yughadiruhu saqamun
 
 لاَ يُغَادِرُهُ سَقَمٌ
 
-and may Allah bless Muhammad and his Household, the Elite.<sup>[1]</sup>
+and may Allah bless Muhammad and his Household, the Elite.[1]
 
 wa salla allahu \`ala muhammadin wa alihi alnnujaba’i
 
@@ -2651,7 +2651,7 @@ ya dhal-jalali wal-ikrami
 
 يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ
 
-You are the most merciful of those who show mercy.<sup>[1]</sup>
+You are the most merciful of those who show mercy.[1]
 
 ya arhamar-rahimina
 
@@ -3400,7 +3400,7 @@ birahmatika ya arhamar-rahimin(a)
 بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
 
 (We pray for Your) earlier advent, earlier advent; O the Patron of the
-Age.<sup>[1]</sup>
+Age.[1]
 
 al-\`ajala al-\`ajala ya mawlaya ya sahibaz-zaman
 
@@ -3591,7 +3591,7 @@ following supplication for the Holy Prophet and Imams of guidance:
 [1] Al Imam Al-Mahdi, Pg. 244
 
 O All-generous; O the most Merciful of all those who show
-mercy.<sup>[1]</sup>
+mercy.[1]
 
 ya karimu ya arhama alrrahimina
 
@@ -5496,7 +5496,7 @@ dinan wa dunya wa akhiratan
 
 ديناً وَدُنْيا وَآخِرَةً
 
-Verily, You have power over all things.<sup>[1]</sup>
+Verily, You have power over all things.[1]
 
 innaka \`ala kulli shay'in qadirun
 
@@ -5818,7 +5818,7 @@ ya arhama alrrahimina
 
 يا اَرْحَمَ الرّاحِمينَ
 
-For the sake of Muhammad and his pure progeny.<sup>[1]</sup>
+For the sake of Muhammad and his pure progeny.[1]
 
 bihaqqi muhammadin wa alihi alttahirina
 

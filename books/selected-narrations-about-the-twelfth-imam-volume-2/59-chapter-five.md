@@ -7,4 +7,3 @@ privilege of seeing him during the minor occultation
 
 Comprised of Three Sections
 
-

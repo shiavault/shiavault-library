@@ -15,11 +15,7 @@ Stinginess And Avarice
 Glorified, has made obligatory, is the worst type of stinginess.
 
 > 3ـ البُخْلُ بِإخْراجِ مَاافتَرَضَهُ اللّهُ سُبْحانَهُ مِنَ الأمْوالِ
-<blockquote dir="rtl">
-  <p>
-أقْبَحُ البُخلِ.
-  </p>
-</blockquote>
+> أقْبَحُ البُخلِ.
 
 4. Protect yourselves from vehement miserliness, malice, anger and
 jealousy and prepare for each of these things a contrivance which you
@@ -28,13 +24,9 @@ can fight it with, like thinking about the consequence, refraining
 forbearance.
 
 > 4ـ اِحْتَِرسُوا مِنْ سَوْرَةِ الجِمْدِ(الحَمد)، والحِقْدِ، والغَضَبِ،
-<blockquote dir="rtl">
-  <p>
-والحَسَدِ، وَأعِدُّوا لِكُلِّ شَيْء مِنْ ذلِكَ عُدَّةً تُجاهِدونَهُ
-بِها مِنَ الفِكْرِ فيِ العاقِبَةِ، ومَنْعِ الرَّذيلَةِ، وطَلَبِ
-الفَضيلَةِ، وصَلاحِ الآخِرَةِ، ولُزومِ الحِلْمِ.
-  </p>
-</blockquote>
+> والحَسَدِ، وَأعِدُّوا لِكُلِّ شَيْء مِنْ ذلِكَ عُدَّةً تُجاهِدونَهُ
+> بِها مِنَ الفِكْرِ فيِ العاقِبَةِ، ومَنْعِ الرَّذيلَةِ، وطَلَبِ
+> الفَضيلَةِ، وصَلاحِ الآخِرَةِ، ولُزومِ الحِلْمِ.
 
 5. Be wary of stinginess, for it is ignobility and [leads to]
 vilification.
@@ -45,43 +37,27 @@ vilification.
 qualities and exposes [one’s] faults.
 
 > 6ـ اِحْذَرُوا الشُّحَّ، فَإنَّهُ يُكْسِبُ المَقْتَ، ويَشِينُ
-<blockquote dir="rtl">
-  <p>
-المَحاسِنَ، ويُشيعُ العُيوبَ.
-  </p>
-</blockquote>
+> المَحاسِنَ، ويُشيعُ العُيوبَ.
 
 7. I bid you not to adorn yourself with stinginess, for it will
 disparage you near those who are close to you and will make your hated
 by your relatives.
 
 > 7ـ إيّاكَ والتَّحَلِّيَ بِالبُخْلِ، فَإنَّهُ يُزري بِكَ عِندَ القَريبِ
-<blockquote dir="rtl">
-  <p>
-(الغَريبِ)، وَيُمَقِّتُكَ إلَى النَّسيبِ.
-  </p>
-</blockquote>
+> (الغَريبِ)، وَيُمَقِّتُكَ إلَى النَّسيبِ.
 
 8. I bid you to refrain from avarice, for it is the garment of indigence
 and the bridle that is used to drive one towards every [type of]
 vileness.
 
 > 8ـ إيّاك والشُّحَّ فَإنَّهُ جِلبابُ المَسْكَنَةِ، وزِمامٌ يُقادُ بِهِ
-<blockquote dir="rtl">
-  <p>
-إلى كُلِّ دِناءَة.
-  </p>
-</blockquote>
+> إلى كُلِّ دِناءَة.
 
 9. I bid you to refrain from stinginess, for the miser is hated by
 strangers and shunned by those who are close to him.
 
 > 9ـ إيّاكُمْ والبُخلَ، فَإنَّ البَخيلَ يَمْقَتُهُ الغَريبُ، ويَنْفُرُ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ القَريبُ.
-  </p>
-</blockquote>
+> مِنْهُ القَريبُ.
 
 10. The worst stinginess is withholding money from those who deserve it.
 
@@ -155,11 +131,7 @@ surely seen a disfigured person, from whom every eye would look away and
 every heart would turn away.
 
 > 26ـ لَوْ رَأيْتُمُ البُخْلَ رَجُلاً لَرَأيْتُمُوهُ مُشَوَّهاً يُغَضُّ
-<blockquote dir="rtl">
-  <p>
-عَنْهُ كُلُّ بَصَر، ويَنْصَرِفُ عَنْهُ كُلُّ قَلْب.
-  </p>
-</blockquote>
+> عَنْهُ كُلُّ بَصَر، ويَنْصَرِفُ عَنْهُ كُلُّ قَلْب.
 
 27. One who persists in avarice is deprived of [sincere] advisers.
 
@@ -185,11 +157,7 @@ every heart would turn away.
 stinginess and the company of the wicked.
 
 > 32ـ ما فِرارُ الكِرامِ مِنَ الحِمامِ كَفِرارِهِمْ مِنَ البُخلِ
-<blockquote dir="rtl">
-  <p>
-ومُقارَنَةِ اللِّئامِ.
-  </p>
-</blockquote>
+> ومُقارَنَةِ اللِّئامِ.
 
 33. There is no vilification like avarice.
 
@@ -210,5 +178,4 @@ stinginess and the company of the wicked.
 37. There is no evil trait worse than stinginess
 
 > 37ـ لا سَوْأةَ أسْوَءُ مِنَ البُخْلِ.
-
 

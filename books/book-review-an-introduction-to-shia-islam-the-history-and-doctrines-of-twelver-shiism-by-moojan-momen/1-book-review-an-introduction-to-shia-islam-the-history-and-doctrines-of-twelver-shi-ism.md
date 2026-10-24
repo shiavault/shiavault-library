@@ -141,11 +141,9 @@ knowledge and upholding justice”**(** **أُولُو الْعِلْمِ قَا
 بِالْقِسْطِ** **)** whom it regards, together with the angels, as
 witnesses to His Unity:
 
-<p dir="rtl">
 شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ
 وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ لَا إِلَـٰهَ إِلَّا هُوَ
 الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾
-</p>
 
 ***God bears witness-and the angels and men possessed of knowledge and
 upholding justice-that there is no god but He, the All-mighty, the
@@ -502,12 +500,10 @@ necessary due to the political circumstances of the Muslim world. Let us
 take note of the following ahadith from*al-Kafi* - of al-Kulayni
 and*al-Mahasin* of al­-Barqi:
 
-<p dir="rtl">
 ابْنُ أَبي عُمَيْر، عَنْ هِشامِ بْنِ سالِم، عَنْ أبي عُمَرَ ألأعْجَمِيّ
 قالَ: قالَ لي أبُو عَبْدِ اللهِ (ع): يا أبا عُمَرَ إنَّ تِسْعَةَ أعْشارِ
 الدّينِ في التَّقِيَّةِ وَ لا دينَ لِمَنْ لا تَقِيةَ لَهُ و التَّقِيةُ
 في كُلِ شَيءٍ إلّا فِي النَّبِيذِ وَ اَلْمَسْحِ عَلَى الْخُفَّيْنِ.
-</p>
 
 Al Imam Al-Sadiq (as) said: “O Abu Umar, nine-tenths of*Din* lie
 in*taqiyyah,* and one who does not practise*taqiyyah* has no*din.
@@ -515,7 +511,6 @@ Taqiyyah* should be practised in all matters, except for drinking
 of*nabidh* and performing*mash* (ritual wiping of the feet) with the
 shoes on.10
 
-<p dir="rtl">
 مُحَمَدْ بْنُ يَحْيى: عَنْ أَحْمَدَ بْنِ مُحَّمَدِ بْنِ عيسى، عَنِ
 الْحَسَنِ بْنِ مَحْبُوب، عَنْ هِشامِ بْنِ سالِم عَنْ أَبي عَمْرو
 الْكِنانِيّ قالَ: قالَ أبُو عَبْدِ اللهِ (ع): يا أبا عَمْرٍ أَرأَيْتُكَ
@@ -524,7 +519,6 @@ shoes on.10
 أَخْبَرْتُكَ، أَوْ أَفتَيْتُكَ بِخِلافِ ذلِكَ بِإِيِهِما كُنْتَ تَأخُذْ؟
 قُلْتُ: بِأحْدَثِهِما وَ أَدَعُ الآخَرَ، فَقال: قَدْ أَصَبْتَ يا أَبا
 عَمْرو
-</p>
 
 Al-Imam Al-Sadiq (as) said: “O Abu Amr, tell me, if you hear me narrate
 a hadith or give a fatwa (publicly), and then you come to me after that
@@ -533,14 +527,12 @@ contrary to what I had said earlier, which one of my statements will you
 adopt?” Abu Amr said, “I will take the later one and drop the former.”
 Al-Imam al-Sadiq (as) replied: “You are right.” 11
 
-<p dir="rtl">
 عَنْ حَمَادِ بْنِ واقِدٍ اللَّحام قالَ: اسْتَقْبَلْتُ أبا عَبْدِ اللهِ
 (ع) في طَرِيقٍ فَأعرَضْتُ عَنْهُ بِوَجْهي وَ مَضَيْتُ، فَدَخَلْتُ
 عَلَيْهِ بَعْدَ ذلِكَ، فَقُلْتُ: جُعِلْتُ فِدَاكَ إِنّي لَألْقَاكَ
 فأَصْرِفُ وَجْهي كَراهَةَ أَنْ أَشُقَّ عَلَيْكَ، فَقَالَ لي: رَحِمَكَ
 اللهُ وَ لَكِنْ رَجُلاً لَقِيَّني أمْسِ في مَوْضِعِ كَذا و كَذا فَقال:
 عَلَيْكَ السَّلامُ يا أَبا عَبْدِ اللهِ، ما أَحْسَنَ وَ لا أَجْمَلَ.
-</p>
 
 Hammad ibn Waqid al-Lahham says, “I met Abu Abd Allah (Al-Imam
 Al-Sadiq(as)) on the road but I turned my face the other way and passed
@@ -551,43 +543,35 @@ The other day I met someone in such and such a place and he saluted me
 saying “Peace be upon you, O Abu Abd Allah!” He did not do a good
 thing.”'11
 
-<p dir="rtl">
 عَنْ أَبي حَمْزَةَ عَنْ عَلِيِ بْنِ الْحُسَيْنِ (ع) قالَ: وَدِدْتُ
 وَاللهِ أَنِّي افْتَدَيْتُ خَصْلَتَيْنِ في الشّيِعةِ لَنا بِبَعْضِ
 لَحْمِ سَاعِدِي: النَّزَقْ وَ قِلَّةَ الْكِتْمَانِ.
-</p>
 
 ‘Ali ibn Al-Husayn (as) said, “By God, I would give away a portion of
 the flesh of my arm to do away with two qualities in our Shi'ah:
 recklessness and absence of secrecy.”12
 
-<p dir="rtl">
 عَنْ عَبْدِ اللهِ بْنِ سُلَيْمان، عَنْ أبُي عَبْدِ اللهِ (ع) قالَ: قالَ
 لي: مَا زَالَ سِرُنَّا مَكْتُوماً حَتّى صَارَ في يَدَيْ وُلْدِ كَيْسانَ
 فَتَحَدَّثُّوا بِهِ فيِ الطَّريقِ وَ قُرى السَّوادِ
-</p>
 
 Al-Imam Al-Sadiq (as) said: “Our secret [i.e. the Imamate] was concealed
 until it fell into the hands of the sons of Kaysan [perhaps Al-Mukhtar
 is meant here] who proclaimed it in the streets and over the countryside
 of the*Sawad”.* 13
 
-<p dir="rtl">
 عَنء مُعَلَّى بْنِ خُنَيْس قالَ: قالَ أبُو عَبْدِ اللهِ (ع): يَا
 مُعَلَّى اَكْتُمْ أّمْرَنا وَ لا تُذِعْهُ، فإنَّهُ مَنْ كَتَمَ أَمْرَنْا
 ولَـمْ يُذِعْهُ أَعَزَّهُ اللهُ بِهِ في الُّدنْيا وَ جَعَلَهُ نُوراً
 بَيْنَ عَيْنَيْهِ في الآخِرَةِ، يَقُودُهُ إلَى ألجَنَّةِ، يَا مُعَلَّى
 مَنْ أَذاعَ أمْرَنَا وَ لَـمْ يَكْتُمْهُ أَذَلَهُ اللهُ بِهِ في
 الُّدنْيا وَ نَزَعَ النُّورَ مِنْ
-</p>
 
-<p dir="rtl">
 بَيْنِ عَيْنَيْهِ فِي الآخِرَةِ وَ جَعَلَهُ ظُلْمَةً تَقُوُدُهُ إلى
 النَّارِ، يَا مُعَلَّى إنَّ التَّقِيَّةَ مِنْ دِيني وَ دينِ آبائِي وَ لا
 دِينَ لِمَنْ لاَ تَقِيَّةَ لَهُ، يَا مُعَلَّى إنَّ اللهَ يُحِبُّ أنْ
 يُعْبَدَ فِي السِّرِ كَمَا يُحِبُّ أَنْ يُعْبَدَ في العَلانِيّةِ، يَا
 مُعَلَّى إنَّ الْمُذِيعَ لِأمْرِنا كاَلْجَاحِدِ لَهُ.
-</p>
 
 Al-Imam Al-Sadiq (as) said to Walla ibn Khunays, O Walla , keep our
 affair secret, and do not divulge it publicly, for whoever keeps it
@@ -629,28 +613,22 @@ of the 3rd/10th century that the Imams (as) equated the lack of
 restraint or recklessness on behalf of their followers to an attempt of
 voluntary murder of their leader:
 
-<p dir="rtl">
 عَنْ مُحَمَدْ بْنِ سِنَان، عَنْ يُونُسَ بْنِ يَعْقُوبَ عَنْ عَبْدِ اللهِ
 (ع) قالَ: مَنْ أذّاعَ عَلَيْنا شَيْئاً مِنْ أمْرِنا فَهُوَ كَمَنْ
 قَتَلَنا عَمْداً، وَ لَمْ يَقْتُلْنَا خَطَأً
-</p>
 
 Al-Imam Al-Sadiq (as) said: “One who divulges anything of our
 matter*(amrina')* is like the one who kills us intentionally not
 unintentionally.”16
 
-<p dir="rtl">
 عَنْ ابْنِ سِنانٍ عَنْ إسْحاقَ بْنِ عَمَّار قالَ: تَلاَ أبو عَبْدِ اللهِ
 (ع) هذِهِ الآيةَ ((ذلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ
 اللَّـهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ذَٰلِكَ بِمَا
 عَصَوا وَّكَانُوا يَعْتَدُونَ((
-</p>
 
-<p dir="rtl">
 قالَ واللهِ ما ضَرَبُوهُمْ بأَيْـديهِمْ وَ لا قَتَلُوهُمْ بِأسْيافِهِمْ
 وَ لكِنْ سَمِعُوا أَحَادِيثَهُمْ فَأَذاعُوها فَأُخِذُوا عَلَيْها
 فَقُتِلُوا فَصَارَ ذَلِكَ قَتْلاً وَاَعْتِداءً وَ مَعْصِيَةً.
-</p>
 
 Ishaq ibn Ammar says “Abu Abd Allah recited this verse
 
@@ -668,10 +646,8 @@ The following tradition, placed by al-Kulayni in the section of*“Kitab
 al­-hujjah”* on the Twelfth Imam, perhaps applied to every Imam during
 his lifetime:
 
-<p dir="rtl">
 عَنِ ابْنِ رِئابٍ، عَنْ أَبي عَبْدِ اللهِ (ع) قالَ: صَاحِبُ هَذَا
 الأَمْرِ لا يُسَمِّيهِ بِاسْمِهِ إلّا كافِرٌ.
-</p>
 
 Abd Allah ibn Ri'ab reports Al-Imam Al-Sadiq (as) to have said: “No one
 but an apostate would mention the name of the master of this affair
@@ -739,7 +715,6 @@ Sulayman, Abd Allah, Musa (the real successor of Ja'far al­-Sadiq(as)),
 and Humaydah (Abd Allah was the elder brother of Imam Musa
 al-­Kazim(as), and Humaydah was Musa's mother).21
 
-<p dir="rtl">
 ... عَنْ أّبي أَيُّوبَ النَّحْوِيَ قال: بَعَثَ إلَيَّ أبُو جَعْفَر
 المَنْصُورُ في جَوْفِ اللَّيل فَأَتَيْتُهُ فَدَخَلْتُ عَلَيْهِ وَ هُوَ
 جالِسٌ عَلى كُرْسِيٍّ وَ بَيْنَ يَدَيْهِ شَمْعِةٌ وَ فِي يَدِهِ كِتْابٌ،
@@ -752,7 +727,6 @@ al-­Kazim(as), and Humaydah was Musa's mother).21
 فَرَجَعَ إلَيْهِ اَلْجَوابُ أنَّهُ قَدْ أَوْصى إلى خَمْسَةٍ واحِدُهُمْ
 اَبُوْ جَعْفَرٍ اَلْمَنْصُورُ، وَ مُحَّمَدُ بْنُ سُلَيْمَانَ وَ عَبْدُ
 اللهِ وَ مُوسى وَ حُمَيْدَةُ.
-</p>
 
 In another tradition, instead of Muhammad ibn Sulayman and Humaydah two
 other names are mentioned, but it adds that on receiving his governors

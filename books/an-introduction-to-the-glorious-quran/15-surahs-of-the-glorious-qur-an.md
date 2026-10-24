@@ -130,4 +130,3 @@ transliteration characters:
 | Al-Falaq        | The dawn                         | 113        |
 | An-Nas          | The people                       | 114        |
 
-

@@ -1,11 +1,7 @@
 Commentary of: “Wa bi Sultanika’alladhi ‘ala kulla shay”
 ========================================================
 
-<blockquote dir="rtl">
-  <p>
-وَبِسُلْطَانِكَ الَّذِى عَلاَ كُلَّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِسُلْطَانِكَ الَّذِى عَلاَ كُلَّ شَيٍْء
 
 *(I ask You) by Your Power, which towers over all things.*
 
@@ -32,5 +28,4 @@ eradicate the powerful ‘Ad tribe, just as dry grass is removed from the
 earth, and brought their life to an end in just a moment. It was His
 Rule that ordered the River Nile to send a wave and obliterate the
 oppressive Pharaoh and his people.
-
 

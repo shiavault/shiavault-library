@@ -19,4 +19,3 @@ morals, and he sought their advice publicly and privately.
 
 [^2]: al-Tabari, Tarikh, Vol. 6, p. 199.
 
-

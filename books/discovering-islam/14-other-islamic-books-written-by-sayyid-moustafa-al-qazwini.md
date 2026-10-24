@@ -14,4 +14,3 @@ unwraps some of the distorted images and misconceptions that surround
 Muslim women. Co-authored and discussed with a Muslim woman—Fatma
 Saleh*.*
 
-

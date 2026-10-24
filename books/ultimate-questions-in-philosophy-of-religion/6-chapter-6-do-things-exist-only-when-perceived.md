@@ -43,4 +43,3 @@ by the ancient sophists, particularly Protagoras, who began his work
 ‘Truth' with the famous statement: “Man is a measure of all things – of
 things that are, that they are, of things that they are not.”
 
-

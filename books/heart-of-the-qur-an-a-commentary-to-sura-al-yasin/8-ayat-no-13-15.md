@@ -217,4 +217,3 @@ back.
 ***But how will it be when the angels cause them to die smiting their
 backs. (47:27)***
 
-

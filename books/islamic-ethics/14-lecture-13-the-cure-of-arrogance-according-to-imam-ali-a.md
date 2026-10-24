@@ -192,4 +192,3 @@ fighting against his *nafs* if he wants to be a man.
 
 [^3]: Shaykh ‛Alī Namāzī, Mustadrak Safīnat al-Bihār, volume 2, page 219
 
-

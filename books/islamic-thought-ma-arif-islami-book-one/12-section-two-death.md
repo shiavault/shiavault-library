@@ -137,12 +137,8 @@ analogy:
 Death as stated by the Qur’an and Hadith
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-﴿الله يتوفى الانفس حين موتها و التي لم تمت في منامها فيمسك التي قضى
-عليها الموت و يرسل الاخرى الى اجل مسمى﴾
-  </p>
-</blockquote>
+> ﴿الله يتوفى الانفس حين موتها و التي لم تمت في منامها فيمسك التي قضى
+> عليها الموت و يرسل الاخرى الى اجل مسمى﴾
 
 ***“Allah completely retracts souls at the time of their deaths and also
 retracts those that have not died, while they sleep. So, He holds souls
@@ -166,11 +162,7 @@ launch of a new state of human existence, different from life in this
 world. Consequently, the soul discards its corporeal body, which belongs
 to the natural world.
 
-<blockquote dir="rtl">
-  <p>
-﴿الى ربّك يومئذ المساق﴾
-  </p>
-</blockquote>
+> ﴿الى ربّك يومئذ المساق﴾
 
 ***“That is the day of propelling towards your Lord.”***[^5]
 
@@ -193,11 +185,7 @@ permanent stay; rather, it has been created for you as a passageway so
 that you send forth your actions as provisions for the abode of
 permanence.”[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿ما كان لنفس ان تموت الا باذن الله كتابا مؤجلا...﴾
-  </p>
-</blockquote>
+> ﴿ما كان لنفس ان تموت الا باذن الله كتابا مؤجلا...﴾
 
 ***“No soul dies save by the leave of Allah, at an appointed
 time.”***[^7]
@@ -210,11 +198,7 @@ volitional phenomena.
 The soul cannot pass into the next world until an appointed time, just
 as it could not enter this world at will.
 
-<blockquote dir="rtl">
-  <p>
-﴿كل نفس ذائقة الموت﴾
-  </p>
-</blockquote>
+> ﴿كل نفس ذائقة الموت﴾
 
 ***“All souls shall taste death.”***[^8]
 
@@ -231,11 +215,7 @@ fortress against death in which to hide. Death is a reality that
 emanates from our beings; thus, escape from death can only result in a
 checkmate.
 
-<blockquote dir="rtl">
-  <p>
-﴿اينما تكونوا يدرككم الموت و لو كنتم في بروج مشيّدة﴾
-  </p>
-</blockquote>
+> ﴿اينما تكونوا يدرككم الموت و لو كنتم في بروج مشيّدة﴾
 
 ***“Wherever you may be, death will find you; though you be in secure
 towers.”***[^9]
@@ -368,23 +348,15 @@ negligibility of this life compared with otherworldly life. These
 teachings consider it unbefitting for humans to lower themselves by
 sufficing themselves with this world.
 
-<blockquote dir="rtl">
-  <p>
-﴿قُل مَتاعُ الدُّنيا قَليلٌ و الأَخِرَةُ خَيرٌ لِّمَنِ اتَّقىٰ و لا
-تُظلَمونَ فَتيلاً﴾
-  </p>
-</blockquote>
+> ﴿قُل مَتاعُ الدُّنيا قَليلٌ و الأَخِرَةُ خَيرٌ لِّمَنِ اتَّقىٰ و لا
+> تُظلَمونَ فَتيلاً﴾
 
 ***“Say, ‘The goods and chattels of this world is little and the
 Hereafter is better for those who fear Allah and you shall not be
 wronged [even as much as] a single date-fiber.’”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ ما هٰذِهِ الحَياةَ الدُّنيآ إِلّا لَهوٌ و لَعِبٌ و إِنَّ الدّارَ
-الأَخِرَةَ لَهىَ الحَيَوانُ﴾
-  </p>
-</blockquote>
+> ﴿وَ ما هٰذِهِ الحَياةَ الدُّنيآ إِلّا لَهوٌ و لَعِبٌ و إِنَّ الدّارَ
+> الأَخِرَةَ لَهىَ الحَيَوانُ﴾
 
 ***“And this worldly life is naught but diversion and sport but surely
 the abode of the Hereafter is true life.”***[^15]
@@ -406,17 +378,9 @@ self-neglect. Noble ‘Alī (‘a) advised his followers thus:
 ordered insistently to march and regard your stay in this world as
 brief.”[^16]
 
-<blockquote dir="rtl">
-  <p>
-مرا در منزل جانان چه امن عیش چون هر دم
-  </p>
-</blockquote>
+> مرا در منزل جانان چه امن عیش چون هر دم
 
-<blockquote dir="rtl">
-  <p>
-جرس فرياد مى دارد كه بربنديد محمل‌ها
-  </p>
-</blockquote>
+> جرس فرياد مى دارد كه بربنديد محمل‌ها
 
 How can I live securely in the abode of the living while every moment;
 
@@ -497,5 +461,4 @@ Qur’an. [trans.]
 ul-Islam.
 
 [^17]: - Sadūq, Ma‘ānī ul-Akhbār (Meanings of Narrations), p. 290.
-
 

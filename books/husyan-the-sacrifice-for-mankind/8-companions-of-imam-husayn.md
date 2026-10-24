@@ -198,4 +198,3 @@ the people realised that the truth is with Imam Husayn alayhis-salam
 when they saw the miracle of his sacred head speaking or reciting the
 holy Qur’an.
 
-

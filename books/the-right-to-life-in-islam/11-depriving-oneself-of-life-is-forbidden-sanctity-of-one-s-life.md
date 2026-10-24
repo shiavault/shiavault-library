@@ -5,13 +5,9 @@ A remarkable point in the subject of "right to life" is Islamic law is
 banning suicide. The Holy Quran explicitly prohibits individuals from
 depriving themselves of life.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ
-بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ
-وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ
+> بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ
+> وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا
 
 ***…. and do not kill yourselves [or one another]. Indeed, Allah is to
 you ever Merciful.*** ***(Quran, 4:29)***
@@ -35,12 +31,8 @@ and unlawful. Depriving yourself of life is one of the major sins. The
 Holy Quran has promised severe punishment for the individual who
 terminates his own life:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا
-ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا
-  </p>
-</blockquote>
+> وَمَنْ يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا
+> ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا
 
 ***And whoever does that in aggression and injustice - then we will
 drive him into a Fire. And that, for Allah, is [always] easy.***
@@ -60,12 +52,8 @@ tolerate them, and should choose reform and gratitude. The Holy Quran
 invites the believers to tolerate with assiduity, patience and
 endurance.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ
-إِنَّ اللَّهَ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ
+> إِنَّ اللَّهَ مَعَ الصَّابِرِينَ
 
 ***O you, who have believed, seek help through patience and prayer.
 Indeed, Allah is with the patient.*** ***(Quran, 2:153)***
@@ -96,5 +84,4 @@ deprived of heaven."
 [^1]: Sonane Darmi, Vol.2, P.192.
 
 [^2]: Kanz al- Ummal, Vol. 5, P. 35.
-
 

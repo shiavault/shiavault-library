@@ -284,4 +284,3 @@ protection of the Islamic government.
 [^2]: The Egyptians about whom the Commander of the Faithful gave these
 instruction to Malik Ashtar were Christians.
 
-

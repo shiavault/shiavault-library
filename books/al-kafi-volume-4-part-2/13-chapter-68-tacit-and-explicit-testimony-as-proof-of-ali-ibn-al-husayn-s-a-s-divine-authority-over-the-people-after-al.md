@@ -72,7 +72,6 @@ among the members of your family. Do not tell it to your brothers lest
 they may plan against you a plot as his brothers plotted against
 Joseph."
 
-
 **Chapter 69 : Tacit and Explicit Testimony as proof of abu Ja'far's
 (a.s.) Divine Authority over the people after Ali ibn al-Husayn (a.s.) H
 787, Ch. 69, h 1**
@@ -148,5 +147,4 @@ to Zayd ibn al-Hassan who was older than my father."
 
 A number of our people has narrated from Ahmad ibn Muhammad from
 al-Washsha' a similar hadith.
-
 

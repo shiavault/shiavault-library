@@ -39,4 +39,3 @@ Then he said to his son Ali:
 
 *Ali, support your cousin. He does nothing but good.*
 
-

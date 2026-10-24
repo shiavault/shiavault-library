@@ -618,7 +618,6 @@ his mission."
 Never let those sinuous hands and cawing voices prevent you from the
 rightful task you carry out.
 
-
 My hand is yours whenever you face your opponent, and my soul is
 sacrificed for yours in the disasters. (1)
 
@@ -686,5 +685,4 @@ from us then why do you protect our man from us?"
 1 Sharh Nahjol Balagha, vol.3 p.313, Al-Hujja p.50, al-Ghadeer, vol.7
 p.335, Hashem and Umayya p.164, Sheikhul Abtah p.30, Divan Abu Talib
 p.9-10, A'yan ash-Shia, vol.9 p.42.
-
 

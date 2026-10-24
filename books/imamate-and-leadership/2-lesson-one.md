@@ -31,7 +31,6 @@ Such leadership exercised in its true and proper form is
  with exclusively social or political leadership. However the  
  spiritual dimension of man is connected intimately with the  
  mission of religion and the true and veritable Imam is that  
-  
 
 **( 12 )**
 
@@ -253,7 +252,6 @@ In addition the need of a society moving forward toward
  and innate need and in just the same way that Islam has made  
  provision for the individual and collective needs of man  
  material and moral by codifying and ordering a coherent  
-  
 
 **( 17 )**
 

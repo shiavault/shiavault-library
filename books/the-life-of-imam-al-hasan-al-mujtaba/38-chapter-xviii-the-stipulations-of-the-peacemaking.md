@@ -530,4 +530,3 @@ the deprivation on some day nor the failure in some field through its
 reasons standing on the nature of time is a proof of weakness or a way
 to a criticism.
 
-

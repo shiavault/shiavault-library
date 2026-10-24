@@ -83,4 +83,3 @@ Wahab*.
 
 29. Muhammad Jawad Mugania, *Hathi Hia al-Wahhabia*.
 
-

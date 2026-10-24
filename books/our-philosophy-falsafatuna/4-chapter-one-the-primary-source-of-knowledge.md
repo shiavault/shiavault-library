@@ -2155,4 +2155,3 @@ causes do not ascend infinitely. When philosophy admits this law, it
 does not find itself in need of any scientific experience. Rather, it
 draws it from primary rational principles, even if indirectly.
 
-

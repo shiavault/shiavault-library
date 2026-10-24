@@ -24,11 +24,7 @@ loose, and [who] disobeys the command of his [carnal] soul and thus is
 not destroyed by it.
 
 > 5ـ طُوْبى لِمَنْ كَظَمَ غَيْظَهُ ولَمْ يُطْلِقْهُ، وعَصى أمْرَ
-<blockquote dir="rtl">
-  <p>
-نَفْسِهِ فَلَمْ يُهْلِكْهُ.
-  </p>
-</blockquote>
+> نَفْسِهِ فَلَمْ يُهْلِكْهُ.
 
 6. How many a time is anger suppressed out of the fear of that which is
 more severe than it.
@@ -44,10 +40,5 @@ others] despite having authority, [in this way] the outcome will be in
 your favour.
 
 > 8ـ اِكْظَمِ الغَيْظَ عِنْدَ الغَضَبِ وتَجاوَزْ مَعَ الدَّوْلَةِ تَكُنْ
-<blockquote dir="rtl">
-  <p>
-لَكَ العاقِبَةُ.
-  </p>
-</blockquote>
-
+> لَكَ العاقِبَةُ.
 

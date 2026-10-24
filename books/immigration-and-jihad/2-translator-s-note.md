@@ -34,4 +34,3 @@ Islamic Information, PO Box 1313/14155, Tehran, Iran.
  BA, MIL.  
  London, UK, July, 2002
 
-

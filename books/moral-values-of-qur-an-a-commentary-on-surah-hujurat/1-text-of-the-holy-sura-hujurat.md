@@ -1,11 +1,7 @@
 Text of the Holy Sura Hujurat
 =============================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 > ِ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
 > وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ {1}
@@ -160,5 +156,4 @@ truthful.***
 
 ***[49:18] Surely Allah knows the unseen things of the heavens and the
 earth; and Allah sees what you do.***
-
 

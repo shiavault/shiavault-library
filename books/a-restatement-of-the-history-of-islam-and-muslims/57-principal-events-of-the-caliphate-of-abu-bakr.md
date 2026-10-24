@@ -949,4 +949,3 @@ Bakr.
 Abu Bakr died in August 634, and was buried by the side of the Prophet
 of Islam in his tomb.
 
-

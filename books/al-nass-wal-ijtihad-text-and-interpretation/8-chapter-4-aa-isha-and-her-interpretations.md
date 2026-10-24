@@ -1365,4 +1365,3 @@ people to say ‘the day of the gray mule’?” One of the poets has said:
 will ride on an elephant. You have a ninth out of the eighth (of the
 Prophet’s inheritance) but you have seized it all.”
 
-

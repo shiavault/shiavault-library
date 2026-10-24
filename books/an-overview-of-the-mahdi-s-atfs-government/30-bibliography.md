@@ -663,4 +663,3 @@ AH). Mu’assasah al-Balagh, 1406 AH.
 *Yawm al*-*Khalas* *fi* *Zill al-Qa’im al-Mahdi (‘a)*. Kamil Sulayman.
 Beirut: Dar al-Kitab al-Lubnani, 1402 AH.
 
-

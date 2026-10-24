@@ -138,4 +138,3 @@ correct information about the Ahlul Bayt of the Prophet in the language
 that today’s youth understands. I pray that the Imam Sahib’uz-Zaman (aj)
 will accept this small offering from one of his humble servants.
 
-

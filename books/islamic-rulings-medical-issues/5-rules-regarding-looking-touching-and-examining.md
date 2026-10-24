@@ -133,4 +133,3 @@ praying with this part have?
 Answer: If the ‘urf consider it part of his body then it has the same
 ruling as the other parts of his body.
 
-

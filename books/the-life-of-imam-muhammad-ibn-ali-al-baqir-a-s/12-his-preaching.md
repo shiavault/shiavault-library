@@ -943,27 +943,27 @@ outstanding grandfathers, who illumined the cultural life for people.
 
 ###
 
-[^1] Al-Tabari, Tarikh, vol.3, p.[^73]:
+[^1] Al-Tabari, Tarikh, vol.3, p.73.
 
 [^2] Ibn Hisham, al-Sira al-Nabawiya, vol.2, pp.429-[^430]:
 
 [^3] Sharh Nahjj al-Balagha, vol.4, pp.109-[^110]:
 
-[^4] Ibid, vol.2, p.[^386]:
+[^4] Ibid, vol.2, p.386.
 
-[^5] Al-Tabari, Tarikh, vol.5, p.[^153]:
+[^5] Al-Tabari, Tarikh, vol.5, p.153.
 
-[^6] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.3, p.[^324]:
+[^6] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.3, p.324.
 
-[^7] Waqq‘at Siffin, p.[^267]:
+[^7] Waqq‘at Siffin, p.267.
 
 [^8] Ibid, pp.354-[^356]:
 
 [^9] Sharh Nahjj al-Balagha, vol.2, pp.212-[^213]:
 
-[^10] Al-‘Aqida wa al-Shari‘a fi al-Islam, p.[^190]:
+[^10] Al-‘Aqida wa al-Shari‘a fi al-Islam, p.190.
 
-[^11] Sharh Nahjj al-Balagha, vol.2, p.[^212]:
+[^11] Sharh Nahjj al-Balagha, vol.2, p.212.
 
 [^12] Ibid, pp.233-[^234]:
 
@@ -976,188 +976,188 @@ al-Mukhtar’s house.
 
 [^16] Ibid, pp.389-[^390]:
 
-[^17] Hayat al-Imam al-Husayn, vol.3, p.[^129]:
+[^17] Hayat al-Imam al-Husayn, vol.3, p.129.
 
-[^18] Al-Fusul al-Muhimma, p.[^29]:
+[^18]: Al-Fusul al-Muhimma, p.29.
 
-[^19] Al-Khisal, p.[^157]:
+[^19] Al-Khisal, p.157.
 
-[^20] Al-Bayan wa al-Tabiyyin, vol.3, p.[^280]:
+[^20] Al-Bayan wa al-Tabiyyin, vol.3, p.280.
 
-[^21] Abi ‘Ali al-Qali, al-Amali, vol.2, p.[^308]:
+[^21] Abi ‘Ali al-Qali, al-Amali, vol.2, p.308.
 
-[^22] Tarikh Dimashq, vol.51, p.[^38]:
+[^22] Tarikh Dimashq, vol.51, p.38.
 
 [^23] Koran, al-A‘raf, [^200]:
 
 [^24] Tuhaf al-‘Uqul, pp.284-[^286]:
 
-[^25] Tarikh Dimashq, vol.51, p.[^38]:
+[^25] Tarikh Dimashq, vol.51, p.38.
 
-[^26] Ibn Hamdun, Tadhkirat, p.[^27]:
+[^26] Ibn Hamdun, Tadhkirat, p.27.
 
-[^27] Tuhaf al-‘Uqul, p.[^299]:
+[^27]: Tuhaf al-‘Uqul, p.299.
 
-[^28] Koran, al-Zumar, [^18]:
+[^28]: Koran, al-Zumar, [^18]:
 
-[^29] Koran, al-An‘am, [^27]:
+[^29]: Koran, al-An‘am, [^27]:
 
-[^30] Ibid,[^28]:
+[^30]: Ibid,[^28]:
 
-[^31] Tuhaf al-‘Uqul, pp.291-[^292]:
+[^31]: Tuhaf al-‘Uqul, pp.291-[^292]:
 
-[^32] Mirr’at al-Jinan, vol.1, p.[^149]:
+[^32]: Mirr’at al-Jinan, vol.1, p.149.
 
-[^33] Akhbar al-Duwal, p.[^11]:
+[^33]: Akhbar al-Duwal, p.11.
 
-[^34] Jami‘ al-Sa‘adat, vol.2, p.[^61]:
+[^34]: Jami‘ al-Sa‘adat, vol.2, p.61.
 
-[^35] Al-Bayan wa al-Tabiyyin, vol.3, p.[^161]:
+[^35]: Al-Bayan wa al-Tabiyyin, vol.3, p.161.
 
-[^36] Al-Khisal, p.[^131]:
+[^36]: Al-Khisal, p.131.
 
-[^37] Usul al-Kafi, vol.1, p.[^10]:
+[^37]: Usul al-Kafi, vol.1, p.10.
 
-[^38] Al-Mubarrad, al-Kamil, vol.1, p.[^76]:
+[^38]: Al-Mubarrad, al-Kamil, vol.1, p.76.
 
-[^39] Jami‘ al-Sa‘adat, vol.1, p.[^165]:
+[^39]: Jami‘ al-Sa‘adat, vol.1, p.165.
 
-[^40] Tuhaf al-‘Uqul, pp.[^296]:
+[^40]: Tuhaf al-‘Uqul, pp.296.
 
-[^41] Ibid, p.[^295]:
+[^41]: Ibid, p.295.
 
-[^42] Al-Saduq, al-Amali, p.[^225]:
+[^42]: Al-Saduq, al-Amali, p.225.
 
-[^43] Tuhaf al-‘Uqul, p.[^300]:
+[^43]: Tuhaf al-‘Uqul, p.300.
 
-[^44] Ibid, p.[^296]:
+[^44]: Ibid, p.296.
 
-[^45] Ibid, p.[^300]:
+[^45]: Ibid, p.300.
 
-[^46] Al-Saduq, al-Amali, p.[^288]:
+[^46]: Al-Saduq, al-Amali, p.288.
 
-[^47] Tuhaf al-‘Uqul, p.[^292]:
+[^47]: Tuhaf al-‘Uqul, p.292.
 
-[^48] Ibid, p.[^298]:
+[^48]: Ibid, p.298.
 
-[^49] Ibid.
+[^49]: Ibid.
 
-[^50] Al-Khisal, p.[^204]:
+[^50]: Al-Khisal, p.204.
 
-[^51] Al-Durr al-Nazim, p.[^191]:
+[^51]: Al-Durr al-Nazim, p.191.
 
-[^52] Tuhaf al-‘Uqul, p.[^298]:
+[^52]: Tuhaf al-‘Uqul, p.298.
 
-[^53] Safwat al-Safwa, vol.2, p.[^61]:
+[^53]: Safwat al-Safwa, vol.2, p.61.
 
-[^54] Tuhaf al-‘Uqul.
+[^54]: Tuhaf al-‘Uqul.
 
-[^55] Al-Saquq, al-Amali, p.[^30]:
+[^55]: Al-Saquq, al-Amali, p.30.
 
-[^56] Ibn Hamdun, Tadhkirat, p.[^60]:
+[^56]: Ibn Hamdun, Tadhkirat, p.60.
 
-[^57] Tuhaf al-‘Uqul, p.[^294]:
+[^57]: Tuhaf al-‘Uqul, p.294.
 
-[^58] Al-Khisal, p.[^210]:
+[^58]: Al-Khisal, p.210.
 
-[^59] Al-Bihar, vol.[^16]: p.771.
+[^59]: Al-Bihar, vol.16. p.771.
 
-[^60] Tuhaf al-‘Uqul, p.[^296]:
+[^60]: Tuhaf al-‘Uqul, p.296.
 
-[^61] Ibid, p.[^298]:
+[^61]: Ibid, p.298.
 
-[^62] Jami‘ al-Sa‘adat, vol.1, p.[^289]:
+[^62]: Jami‘ al-Sa‘adat, vol.1, p.289.
 
-[^63] Ibid.
+[^63]: Ibid.
 
-[^64] Ibid.
+[^64]: Ibid.
 
-[^65] Muhajj al-Da‘awat, pp.213-[^215]:
+[^65]: Muhajj al-Da‘awat, pp.213-[^215]:
 
-[^66] Ibid, p.[^215]:
+[^66]: Ibid, p.215.
 
-[^67] Tuhaf al-‘Uqul.
+[^67]: Tuhaf al-‘Uqul.
 
-[^68] Tuhaf al-‘Uqul, pp.292-[^300]:
+[^68]: Tuhaf al-‘Uqul, pp.292-[^300]:
 
-[^69] Al-Bidaya wa al-Nihaya, vol.9, p.[^310]:
+[^69]: Al-Bidaya wa al-Nihaya, vol.9, p.310.
 
-[^70] Al-Bayan wa al-Tabiyyin, vol.3, p[^222]:
+[^70]: Al-Bayan wa al-Tabiyyin, vol.3, p[^222]:
 
-[^71] Ibn Qutayba, ‘Yyun al-Akhbar, vol.1, p.[^300]:
+[^71]: Ibn Qutayba, ‘Yyun al-Akhbar, vol.1, p.300.
 
-[^72] Hulyat al-Auliya’, vol.3, p.[^300]:
+[^72]: Hulyat al-Auliya’, vol.3, p.300.
 
-[^73] Al-Ithaf bi Hub al-Ashraf, p.[^53]:
+[^73]: Al-Ithaf bi Hub al-Ashraf, p.53.
 
-[^74] Hulyat al-Auliya’, vol.3, p.[^181]:
+[^74]: Hulyat al-Auliya’, vol.3, p.181.
 
-[^75] Ibid, p.[^183]:
+[^75]: Ibid, p.183.
 
-[^76] Al-Akhbar al-Muwaffaqiyat, p.[^400]:
+[^76]: Al-Akhbar al-Muwaffaqiyat, p.400.
 
-[^77] Al-Marzbani, al-Mardda, 2/B.
+[^77]: Al-Marzbani, al-Mardda, 2/B.
 
-[^78] Al-Saduq, al-Amali, p.[^224]:
+[^78]: Al-Saduq, al-Amali, p.224.
 
-[^79] Ibid, p.[^296]:
+[^79]: Ibid, p.296.
 
-[^80] Ibid.
+[^80]: Ibid.
 
-[^81] Ibid.
+[^81]: Ibid.
 
-[^82] Usul al-Kafi, vol.2, p.[^339]:
+[^82]: Usul al-Kafi, vol.2, p.339.
 
-[^83] Mirr’at al-Jinan, vol.1, p.[^248]:
+[^83]: Mirr’at al-Jinan, vol.1, p.248.
 
-[^84] Safwat al-Safwa, vol.2, p.[^63]:
+[^84]: Safwat al-Safwa, vol.2, p.63.
 
-[^85] Al-Ya‘qubi, Tarikh, vol.2, p.[^53]:
+[^85]: Al-Ya‘qubi, Tarikh, vol.2, p.53.
 
-[^86] Usul al-Kafi, vol.2, p.[^173]:
+[^86]: Usul al-Kafi, vol.2, p.173.
 
-[^87] Ibid, p.[^269]:
+[^87]: Ibid, p.269.
 
-[^88] Ibid, p.[^273]:
+[^88]: Ibid, p.273.
 
-[^89] Al-Ya‘qubi, Tarikh, vol.3, p.[^61]:
+[^89]: Al-Ya‘qubi, Tarikh, vol.3, p.61.
 
-[^90] Al-Bihar, vol.12, p.[^87]:
+[^90]: Al-Bihar, vol.12, p.87.
 
-[^91] Al-Ya‘qubi, Tarikh, vol.3, p.[^61]:
+[^91]: Al-Ya‘qubi, Tarikh, vol.3, p.61.
 
-[^92] A‘lam al-Wara, p.[^27]:
+[^92]: A‘lam al-Wara, p.27.
 
-[^93] Jami‘ al-Sa‘adat, vol.2, p.[^16]:
+[^93]: Jami‘ al-Sa‘adat, vol.2, p.16.
 
-[^94] Al-Ya‘qubi, Tarikh, vol.3, p.[^61]:
+[^94]: Al-Ya‘qubi, Tarikh, vol.3, p.61.
 
-[^95] Al-Shiblanji, Nur al-Absar, p.[^131]:
+[^95]: Al-Shiblanji, Nur al-Absar, p.131.
 
-[^96] Ibid.
+[^96]: Ibid.
 
-[^97] Is‘af al-Raghibin, p.[^316]:
+[^97]: Is‘af al-Raghibin, p.316.
 
-[^98] Al-Bidaya wa al-Nihaya, vol.9, p.[^311]:
+[^98]: Al-Bidaya wa al-Nihaya, vol.9, p.311.
 
-[^99] Ahmed bin Fahd al-Hilli, al-Tahsin, p.[^225]:
+[^99]: Ahmed bin Fahd al-Hilli, al-Tahsin, p.225.
 
-[^100] Al-Durr al-Nazim, p.[^191]:
+[^100]: Al-Durr al-Nazim, p.191.
 
-[^101] ‘Ilal al-Sharai‘, p.[^51]:
+[^101]: ‘Ilal al-Sharai‘, p.51.
 
-[^102] Ibid, p.[^117]:
+[^102]: Ibid, p.117.
 
-[^103] Majjma‘ al-Bayan, vol.1, p.[^252]:
+[^103]: Majjma‘ al-Bayan, vol.1, p.252.
 
-[^104] Jami‘ al-Sa‘adat, vol.2, p.[^5]:
+[^104]: Jami‘ al-Sa‘adat, vol.2, p.5.
 
-[^105] Ibid.
+[^105]: Ibid.
 
-[^106] Ibid, p.[^21]:
+[^106]: Ibid, p.21.
 
-[^107] A‘lam al-Wara.
+[^107]: A‘lam al-Wara.
 
-[^108] Sharh Nahjj al-Balagha, vol.7, p.[^92]:
+[^108]: Sharh Nahjj al-Balagha, vol.7, p.92.
 
-[^109] Anwar al-Rabi‘, vol.6, p.[^300]:
+[^109]: Anwar al-Rabi‘, vol.6, p.300.

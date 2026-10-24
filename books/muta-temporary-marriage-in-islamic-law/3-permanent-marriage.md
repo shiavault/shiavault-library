@@ -956,4 +956,3 @@ no fault in them to return to each other.'
 
 [^81]: Sharh al-lum'a, VIII, 172; Riyad, II, 367, 369.
 
-

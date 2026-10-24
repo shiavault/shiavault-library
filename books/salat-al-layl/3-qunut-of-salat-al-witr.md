@@ -26,11 +26,7 @@ The following verse of the Qur\`an has been constantly mentioned in the
 ahadith in reference to asking forgiveness during the Salat and
 especially during the Salat al-Witr:
 
-<blockquote dir="rtl">
-  <p>
-بِالأسْحاَرِ هُمْ يَسْتَغْفِرُونَ
-  </p>
-</blockquote>
+> بِالأسْحاَرِ هُمْ يَسْتَغْفِرُونَ
 
 ***“…and in the morning time, they used to ask for forgiveness”*** [^4]
 
@@ -54,11 +50,7 @@ continues to do so for one entire year will be counted by Allah as a
 *Mustaghfirin bil ashar* or one who used to ask forgiveness during the
 night time and will make *Jannah* Wajib upon that person.”[^7]
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ وَ أَتُوبُ إِلَيْهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ وَ أَتُوبُ إِلَيْهِ
 
 *“I seek repentance from Allah, my Lord and to Him I turn back.”*
 
@@ -67,11 +59,7 @@ following 100 times at the end of his Qunut and continues to do so for
 fourty nights will be counted as a *Mustaghfirin bil ashar* or one who
 used to ask forgiveness during the night time. [^8]
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ وَ أَتُوبُ إِلَيْهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ وَ أَتُوبُ إِلَيْهِ
 
 *“I seek repentance from Allah, my Lord and to Him I turn back.”*
 
@@ -79,11 +67,7 @@ The Prophet of Islam Muhammad ibn \`Abdullah (blessings of Allah be upon
 him and his family) used to ask for forgiveness 70 times in the Qunut of
 Salat al-Witr followed by reciting the below line seven times:
 
-<blockquote dir="rtl">
-  <p>
-هٌذَا مَقٌامُ الْعٌائِذِ بِكَ مِنَ النٌّارِ
-  </p>
-</blockquote>
+> هٌذَا مَقٌامُ الْعٌائِذِ بِكَ مِنَ النٌّارِ
 
 *“This is the station of the person who seeks refuge with You from the
 Hell Fire.”*[^9]
@@ -93,22 +77,14 @@ The method of asking forgiveness as taught to us by Amir al-Mo’minin
 
 1. Recite the following 70 times:
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ رَبِّي وَأَتُوبُ إِلَيْهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ رَبِّي وَأَتُوبُ إِلَيْهِ
 
 *“I seek repentance from Allah, my Lord and to Him I turn back.”*
 
 2. Followed by reciting the following seven times:
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللٌّهَ الَّذِي لاٌ إِلٌهَ إِلاٌّ هُوَ الْحَيُّ
-الْقَيُّومُ وَأَتُوبُ إِلَيهِ
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللٌّهَ الَّذِي لاٌ إِلٌهَ إِلاٌّ هُوَ الْحَيُّ
+> الْقَيُّومُ وَأَتُوبُ إِلَيهِ
 
 *“I seek repentance from Allah the One whom there is no god except Him,
 the Living and Self-Subsisting and to Him I turn back.”*[^10]
@@ -122,22 +98,14 @@ answered.[^11]
 
 One should then say the following three hundred times:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعَفْوُ
-  </p>
-</blockquote>
+> اَلْعَفْوُ
 
 *“I ask for forgiveness.”*
 
 Following this, the following should be said once:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّ اغْفِرْلِي وَارْحَمْنِي وَتُبْ عَلَيِّ إِنَّكَ أَنْتَ التَّوٌابُ
-الرَّحِيمِ
-  </p>
-</blockquote>
+> رَبَّ اغْفِرْلِي وَارْحَمْنِي وَتُبْ عَلَيِّ إِنَّكَ أَنْتَ التَّوٌابُ
+> الرَّحِيمِ
 
 *“Lord, please forgive me and have mercy upon me and turn back towards
 me. Verily You are the Oft-Turning back, Most Merciful”* [^12]
@@ -146,11 +114,7 @@ It has been mentioned that Imam \`Ali ibn al-Husain as-Sajjad (peace be
 upon him) used to recite the following line three hundred times in his
 Qunut during the Salat al-Witr:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعَفْوُ
-  </p>
-</blockquote>
+> اَلْعَفْوُ
 
 *“I ask for forgiveness.”* [^13]
 
@@ -190,5 +154,4 @@ of the Salat Al-Layl.
 
 [^13]: Bihar Al-Anwar, Vol., 87, Pg., 275; Misbah Al-Muttahajjid, Pg.
 101
-
 

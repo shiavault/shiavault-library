@@ -199,4 +199,3 @@ writer and poet. Dr. Akhtar is a professor of philosophy at Muslim
 University Aligarh, India- He is presently on the editorial board of
 al-Tawhid (English).
 
-

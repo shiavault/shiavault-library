@@ -270,4 +270,3 @@ Istanbul,1305 AH.
 **AZ-ZAMAKHSARI**, Mahmud ibn 'Umar al-Hanafi (467/1075—538/1144):
 *at-Tafsir al-Kashshaf*), Beirut, (n.d.)
 
-

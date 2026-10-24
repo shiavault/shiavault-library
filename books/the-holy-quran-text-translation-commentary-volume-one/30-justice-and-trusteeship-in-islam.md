@@ -640,4 +640,3 @@ will hinder instead of help. We should therefore put our trust in Allah,
 and have our confidence in Him who is All-good, All- knowledge and knows
 the inner working of events more than all.
 
-

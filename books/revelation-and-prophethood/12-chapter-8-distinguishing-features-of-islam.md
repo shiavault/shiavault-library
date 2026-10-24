@@ -161,4 +161,3 @@ A list of the main features of the views of Islam under their
 appropriate headings, viz. The -Methods of Knowing, Conception of the
 World and the Ideological Features of Islam is as under.
 
-

@@ -4,36 +4,16 @@ Section 1: Qur’an, a Guidance and Mercy for the Righteous
 Surah Luqman – Verses 1-4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الم
-  </p>
-</blockquote>
+> الم
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ ءَايَاتُ الْكِتَابِ الْحَكِيمِ
-  </p>
-</blockquote>
+> تِلْكَ ءَايَاتُ الْكِتَابِ الْحَكِيمِ
 
-<blockquote dir="rtl">
-  <p>
-هُدًي وَرَحْمَةً لّـِلْمُحْسِنِينَ
-  </p>
-</blockquote>
+> هُدًي وَرَحْمَةً لّـِلْمُحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم
-بِالأَخِرَةِ هُمْ يُوقِنُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم
+> بِالأَخِرَةِ هُمْ يُوقِنُونَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -141,11 +121,7 @@ fulfilling the duties.
 Surah Luqman – Verse 5
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ عَلَي هُدي مِن رَبّـِهِمْ وَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ عَلَي هُدي مِن رَبّـِهِمْ وَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
 
 ***5. “These are on (true) guidance from their Lord, and they are the
 ones who are successful.”***
@@ -191,13 +167,9 @@ Our way, and verily Allah is with the good doers.”***
 Surah Luqman – Verse 6
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ
-اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُواً أُوْلَئِكَ لَهُمْ
-عَذَابٌ مُهِينٌ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ
+> اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُواً أُوْلَئِكَ لَهُمْ
+> عَذَابٌ مُهِينٌ
 
 ***6. “And there are, among men, those who purchase idle talk to lead
 (others) astray from the way of Allah without knowledge, and to take it
@@ -362,13 +334,9 @@ punishment has been promised in the Qur’an.
 Surah Luqman – Verse 7
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَي عَلَيْهِ ءَايَاتُنَا وَلَّي مُسْتَكْبِراً كَاَن لَّمْ
-يَسْمَعْهَا كَأَنَّ فِي اُذُنَيْهِ وَقْراً فَبَشّـِرْهُ بِعَذَابٍ
-أَلِيمٍ
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَي عَلَيْهِ ءَايَاتُنَا وَلَّي مُسْتَكْبِراً كَاَن لَّمْ
+> يَسْمَعْهَا كَأَنَّ فِي اُذُنَيْهِ وَقْراً فَبَشّـِرْهُ بِعَذَابٍ
+> أَلِيمٍ
 
 ***7. “And when Our signs are recited to him, he turns back proudly as
 if he had not heard them, as though in his ears were a heaviness,
@@ -414,18 +382,10 @@ and date.
 Surah Luqman – Verses 8-9
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ
-النَّعِيمِ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ
+> النَّعِيمِ
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فَيهَا وَعْدَ اللَّهِ حَقّاً وَهُوَ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> خَالِدِينَ فَيهَا وَعْدَ اللَّهِ حَقّاً وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
 ***8. “Verily those who believe and do righteous deeds, for them are the
 gardens of Bliss,”***  
@@ -494,14 +454,10 @@ Raqib in Mufradat says:
 Surah Luqman – Verse 10
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَي فِي
-الأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلّ‌ِ
-دَآبَّةٍ وَأَنزَلْنَا مِنَ السَّمَآءِ مَآءً فَأَنْبَتْنَا فِيهَا مِن
-كُلّ‌ِ زَوْجٍ كَرِيمٍ
-  </p>
-</blockquote>
+> خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَي فِي
+> الأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلّ‌ِ
+> دَآبَّةٍ وَأَنزَلْنَا مِنَ السَّمَآءِ مَآءً فَأَنْبَتْنَا فِيهَا مِن
+> كُلّ‌ِ زَوْجٍ كَرِيمٍ
 
 ***10. “He created the heavens without any pillars as you see them; and
 He cast mountains on the earth lest it shakes with you, and He spread in
@@ -638,12 +594,8 @@ them.
 Surah Luqman – Verse 11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا خَلْقُ اللَّهِ فَاَرُونِي مَاذَا خَلَقَ الَّذِينَ مِن دُونِهِ
-بَلِ الظَّالِمُونَ فِي ضَلاَلٍ مُّبِينٍ
-  </p>
-</blockquote>
+> هَذَا خَلْقُ اللَّهِ فَاَرُونِي مَاذَا خَلَقَ الَّذِينَ مِن دُونِهِ
+> بَلِ الظَّالِمُونَ فِي ضَلاَلٍ مُّبِينٍ
 
 ***11. “This is Allah’s creation, but show me\* what those besides Him
 have created. Nay! The unjust are in a manifest straying.”***
@@ -685,5 +637,4 @@ injustice certainly will cause his error and aberration.
 
 [^1]: Some more explanation about this subject can be studied in the
 commentary of Surah Ash-Shu‘ara’, No. 26, verse 7
-
 

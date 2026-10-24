@@ -6,4 +6,3 @@ committed by destroying some of the houses that belonged to the family
 of Abu Abdu Allah Al-Hussain (Q), and this is another proof of what we
 have mentioned earlier.
 
-

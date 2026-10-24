@@ -16,11 +16,7 @@ endowed with gifts for indeed there is no enjoyment in lightening for
 the one who is plunged into darkness.
 
 > 3ـ لاتَأمَنَنَّ مَلُولاً وإنْ تَحَلّى بِالصِّلَةِ، فَإنَّهُ لَيْسَ فيِ
-<blockquote dir="rtl">
-  <p>
-البَرْقِ الخاطِفِ مُسْتَمْتَعٌ لِمَنْ يَخُوضُ الظُّلْمَةَ.
-  </p>
-</blockquote>
+> البَرْقِ الخاطِفِ مُسْتَمْتَعٌ لِمَنْ يَخُوضُ الظُّلْمَةَ.
 
 4. There is no brotherhood for the one who is fed-up.
 
@@ -29,5 +25,4 @@ the one who is plunged into darkness.
 5. There is no friendship for the one who is fed-up.
 
 > 5ـ لاخُلَّةَ لِمَلُول.
-
 

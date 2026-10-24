@@ -9,7 +9,6 @@ Sura Nabaa (the Great News) No. 78 (verses 17-20)
 
 (20) وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
 
-
 17. "Verity the Day of Sorting out is (a day) appointed,
 
 18. "The Day when the Trumpet shall be blown and you shall come forth
@@ -19,7 +18,6 @@ in groups".
 
 20."And the mountains shall be set in motion as if they were a
 mirage".
-
 
 **Commentary:**
 
@@ -197,5 +195,4 @@ that on the Day when the order of the destruction of this world will be
 issued, that cradle will be disturbed and those great pegs will be
 leveled and, hence, their tangible matter will become decomposed and
 shattered.
-
 

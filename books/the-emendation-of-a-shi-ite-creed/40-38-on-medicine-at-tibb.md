@@ -32,4 +32,3 @@ which Abu Ja‘far has not mentioned, though it is relevant to this
 chapter. As for the interpretations put forward by him, they are quite
 sound; the traditions may bear the meaning which he mentioned.
 
-

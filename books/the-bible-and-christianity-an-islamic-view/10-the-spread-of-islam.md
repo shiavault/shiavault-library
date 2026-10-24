@@ -366,4 +366,3 @@ a servant to lead him to a bathroom (as some of the Islamic
 jurisprudents – Faqih – deem it necessary) to perform the ceremonial
 Ghusl bath before entering the shrine of Imam Husayn.
 
-

@@ -32,17 +32,9 @@ Sufyan was not in Medina. When he arrived in Medina, I saw that the
 people had pledged allegiance to Abu Bakr. As such, he stood at the
 middle of the mosque and recited this poem:
 
-<blockquote dir="rtl">
-  <p>
-ما كنت احسب أن الأمر منصرف عن هاشم ثم منها عن أبي حسن!
-  </p>
-</blockquote>
+> ما كنت احسب أن الأمر منصرف عن هاشم ثم منها عن أبي حسن!
 
-<blockquote dir="rtl">
-  <p>
-أليس اولى من صلى لقبلتكم و أعلم الناس بالقرآن و السنن؟
-  </p>
-</blockquote>
+> أليس اولى من صلى لقبلتكم و أعلم الناس بالقرآن و السنن؟
 
 *I did not imagine that they would take away the matter of caliphate
 from the Banu* *Hashim and among whom from Abu’l-Hasan (‘Ali)!*
@@ -55,17 +47,9 @@ and *tabi‘un* had also recited poetry in defence of the right of ‘Ali
 (*‘a*). For instance, while reciting poetry Fadhl ibn al-‘Abbas has thus
 said:
 
-<blockquote dir="rtl">
-  <p>
-الا ان خير الناس بعد محمد وصي النبي المصطفى عند ذي الذكر
-  </p>
-</blockquote>
+> الا ان خير الناس بعد محمد وصي النبي المصطفى عند ذي الذكر
 
-<blockquote dir="rtl">
-  <p>
-و اول من صلّی و صنونبيه و اول من اردى الغواة لدى بدر
-  </p>
-</blockquote>
+> و اول من صلّی و صنونبيه و اول من اردى الغواة لدى بدر
 
 *Be aware that the best of people after Muhammad in the sight of God is
 the successor of Prophet al-Mustafa* *(S).*
@@ -77,11 +61,7 @@ Mughayrah ibn Nawfal ibn Harith ibn ‘Abd al-Muttalib addressed the
 supporters of the Commander of the Faithful (*‘a*) during the Battle of
 Siffin and poetically said:
 
-<blockquote dir="rtl">
-  <p>
-فيكم وصي رسول الله قائدكم و صهره و كتاب الله قد نشرا
-  </p>
-</blockquote>
+> فيكم وصي رسول الله قائدكم و صهره و كتاب الله قد نشرا
 
 *Among you is the successor of the Messenger of Allah (S)—your
 commander—and his son-in-law, and the Book of Allah is scattered.*[^4]
@@ -92,17 +72,9 @@ poets at the end of the first century AH. Ibn ‘Abd Rabbih has narrated:
 *Ka‘bah*, Fadhl ibn al-‘Abbas was reciting this poem while getting water
 from the well of Zamzam:
 
-<blockquote dir="rtl">
-  <p>
-يأيها السائل عن عليّ تسأل عن بدرٍ لنا بدريٍّ
-  </p>
-</blockquote>
+> يأيها السائل عن عليّ تسأل عن بدرٍ لنا بدريٍّ
 
-<blockquote dir="rtl">
-  <p>
-مُرَدَّدٍ في المجد ابطحي سائلةٍ غرّه مضيٍّ
-  </p>
-</blockquote>
+> مُرَدَّدٍ في المجد ابطحي سائلةٍ غرّه مضيٍّ
 
 *O he who is asking from ‘Ali! You are asking from the moon of Banu*
 *Hashim and the one present at the Battle of Badr.*
@@ -117,17 +89,9 @@ ibn Athathah. Historians have narrated, thus:
 by force, Umm Mastah came to the mosque, stood in front of the grave of
 the Prophet and recited this poem:
 
-<blockquote dir="rtl">
-  <p>
-قد كان بعدك انباء هنبثةً لو كنت شاهدها لم تكثر الخطب
-  </p>
-</blockquote>
+> قد كان بعدك انباء هنبثةً لو كنت شاهدها لم تكثر الخطب
 
-<blockquote dir="rtl">
-  <p>
-انا فقدناك فقد الأرض و ابلها فاختل قومك فاشهدهم و لا تغب
-  </p>
-</blockquote>
+> انا فقدناك فقد الأرض و ابلها فاختل قومك فاشهدهم و لا تغب
 
 *After you, an event and differences have occurred that would never
 happen if you were present.*
@@ -142,53 +106,21 @@ that were sympathetic to ‘Uthman ibn ‘Affan. None of them could surpass
 Abu’l-Aswad in speech. So, they instead persecuted and harassed him,
 throwing stones at his house every night. He gave this reply to them:
 
-<blockquote dir="rtl">
-  <p>
-يقول الأرذلون بنوقشير طوال الدهر لا تنسى عليّاً!
-  </p>
-</blockquote>
+> يقول الأرذلون بنوقشير طوال الدهر لا تنسى عليّاً!
 
-<blockquote dir="rtl">
-  <p>
-فقلت لهم و كيف يكون تركي من الأعمال مفروضاً عليّاً؟
-  </p>
-</blockquote>
+> فقلت لهم و كيف يكون تركي من الأعمال مفروضاً عليّاً؟
 
-<blockquote dir="rtl">
-  <p>
-أحب محمداً حبّاً شديداً و عباساً و حمزة و الوصيّاً
-  </p>
-</blockquote>
+> أحب محمداً حبّاً شديداً و عباساً و حمزة و الوصيّاً
 
-<blockquote dir="rtl">
-  <p>
-بني عم النبي و اقربيه أحب الناس كُلهم إلينا
-  </p>
-</blockquote>
+> بني عم النبي و اقربيه أحب الناس كُلهم إلينا
 
-<blockquote dir="rtl">
-  <p>
-فان يك حُبُّهم رشداً اصبه و لست بمخطىء ان كان غياً
-  </p>
-</blockquote>
+> فان يك حُبُّهم رشداً اصبه و لست بمخطىء ان كان غياً
 
-<blockquote dir="rtl">
-  <p>
-هم اهل النصيحة غير شك و اهل مودتي ما دمت حيّاً
-  </p>
-</blockquote>
+> هم اهل النصيحة غير شك و اهل مودتي ما دمت حيّاً
 
-<blockquote dir="rtl">
-  <p>
-رايت الله خالق كل شى هداهم واجتبی منهم نبيّاً
-  </p>
-</blockquote>
+> رايت الله خالق كل شى هداهم واجتبی منهم نبيّاً
 
-<blockquote dir="rtl">
-  <p>
-و لم يخصص بها احداً سواهم هنيئاً ما اصطفاه لهم مريّاً
-  </p>
-</blockquote>
+> و لم يخصص بها احداً سواهم هنيئاً ما اصطفاه لهم مريّاً
 
 *The vile people such as Banu* *Qashir say, “With the passage of time,
 why have you not forgotten ‘Ali?”*
@@ -233,23 +165,11 @@ Among those who had recited poetry against the Imam was Walid ibn
 Qur’an as *fasiq* {transgressor}.[^8] He had accused Banu Hashim, the
 head of which was ‘Ali (*‘a*), of killing ‘Uthman, saying:
 
-<blockquote dir="rtl">
-  <p>
-بنى هاشم ردوا سلاح ابن اختکم و لا تنهبوه لا تحل نهائبه
-  </p>
-</blockquote>
+> بنى هاشم ردوا سلاح ابن اختکم و لا تنهبوه لا تحل نهائبه
 
-<blockquote dir="rtl">
-  <p>
-بنى هاشم كيف الهوادة بيننا و عند على درعه و نجائبه
-  </p>
-</blockquote>
+> بنى هاشم كيف الهوادة بيننا و عند على درعه و نجائبه
 
-<blockquote dir="rtl">
-  <p>
-بنى هاشم كيف التودد منكم ودم ابن اروى فيكم و حرائبه
-  </p>
-</blockquote>
+> بنى هاشم كيف التودد منكم ودم ابن اروى فيكم و حرائبه
 
 *O Banu* *Hashim! Return the weapon of your maternal cousin and do not
 usurp his property as his property is not lawful for you.*
@@ -263,35 +183,15 @@ Ibn Arwa* *(‘Uthman) are with you?*[^9]
 Then, ‘Abd Allah ibn Abi Sufyan ibn Harith ibn ‘Abd al-Muttalib answered
 him, saying thus poetically:
 
-<blockquote dir="rtl">
-  <p>
-فلاتسألونا سيفكم ان سيفكم اضيع و القاه لدى الروع صاحبه
-  </p>
-</blockquote>
+> فلاتسألونا سيفكم ان سيفكم اضيع و القاه لدى الروع صاحبه
 
-<blockquote dir="rtl">
-  <p>
-و شبهته كسرى و قد كان مثله شبيهاً بكسرى هديه و ضرائبه
-  </p>
-</blockquote>
+> و شبهته كسرى و قد كان مثله شبيهاً بكسرى هديه و ضرائبه
 
-<blockquote dir="rtl">
-  <p>
-منا عليٌّ الخير صاحب خيبر و صاحب بدر يوم سالت كتائبه
-  </p>
-</blockquote>
+> منا عليٌّ الخير صاحب خيبر و صاحب بدر يوم سالت كتائبه
 
-<blockquote dir="rtl">
-  <p>
-و كان ولى الأمر بعد محمد عليّ و في كل المواطن صاحبه
-  </p>
-</blockquote>
+> و كان ولى الأمر بعد محمد عليّ و في كل المواطن صاحبه
 
-<blockquote dir="rtl">
-  <p>
-وصي النبي المصطفى و ابن عمه وأول من صلى و من لان جانبه
-  </p>
-</blockquote>
+> وصي النبي المصطفى و ابن عمه وأول من صلى و من لان جانبه
 
 *You may not get your sword from us because when its owner was
 frightened, he threw it and it was lost.*
@@ -314,29 +214,13 @@ Faithful (*‘a*) when he wrote a letter to his brother, ‘Umarah ibn
 ‘Uqbah who was then living in Kufah, inciting him to be inimical to the
 Imam, saying thus:
 
-<blockquote dir="rtl">
-  <p>
-ان يك ظنّي في عمارة صادقاً ينم و لا يطلب بذحل و لا وتر
-  </p>
-</blockquote>
+> ان يك ظنّي في عمارة صادقاً ينم و لا يطلب بذحل و لا وتر
 
-<blockquote dir="rtl">
-  <p>
-يبيت و اوتار ابن عفان عنده مُخيمةً بين الخورنق و القصر
-  </p>
-</blockquote>
+> يبيت و اوتار ابن عفان عنده مُخيمةً بين الخورنق و القصر
 
-<blockquote dir="rtl">
-  <p>
-تمشى رخىّ البال متشزر القوى كانك لم تسمع بقتل ابى عمر
-  </p>
-</blockquote>
+> تمشى رخىّ البال متشزر القوى كانك لم تسمع بقتل ابى عمر
 
-<blockquote dir="rtl">
-  <p>
-الا إِنَّ خير الناس بعد ثلاثة قتبل النجيبى الذي جاء من مصر
-  </p>
-</blockquote>
+> الا إِنَّ خير الناس بعد ثلاثة قتبل النجيبى الذي جاء من مصر
 
 *If my guess is ever correct about ‘Umarah, he is sleeping and does not
 take revenge!*
@@ -353,29 +237,13 @@ one who has been killed by the ‘tajibi’* *who came from Egypt.*[^12]
 Then, Fadhl ibn al-‘Abbas ibn ‘Abd al-Muttalib replied to him reciting
 thus:
 
-<blockquote dir="rtl">
-  <p>
-أتطلب ثاراً لست منه و لاله و مالابن ذكران الصفورى و الوتر
-  </p>
-</blockquote>
+> أتطلب ثاراً لست منه و لاله و مالابن ذكران الصفورى و الوتر
 
-<blockquote dir="rtl">
-  <p>
-كما افتخرت بنت الحمار بامّها و تنسى اباها إذا تسامى او لوالفخر
-  </p>
-</blockquote>
+> كما افتخرت بنت الحمار بامّها و تنسى اباها إذا تسامى او لوالفخر
 
-<blockquote dir="rtl">
-  <p>
-الا ان خير الناس بعد نبيهم وصي النبي المصطفى عند ذي الذكر
-  </p>
-</blockquote>
+> الا ان خير الناس بعد نبيهم وصي النبي المصطفى عند ذي الذكر
 
-<blockquote dir="rtl">
-  <p>
-و اول من صلى و صفونبيّه و اول من اردى الغواة لدى بدر
-  </p>
-</blockquote>
+> و اول من صلى و صفونبيّه و اول من اردى الغواة لدى بدر
 
 *Are you taking revenge for a person who has no relationship with you?
 Ibn Dhakran* *Safuri* *is one thing while taking revenge for ‘Uthman is
@@ -400,17 +268,9 @@ For example, some members of the tribe of Banu Ḍabbah who had surrounded
 the camel of ‘A’ishah would take the reins of camel and would be killed.
 The last person to have taken the bridle of camel said, thus:
 
-<blockquote dir="rtl">
-  <p>
-نحن بنو ضبّة أصحاب الجمل ننعى ابن عفّان باطراف الاسل
-  </p>
-</blockquote>
+> نحن بنو ضبّة أصحاب الجمل ننعى ابن عفّان باطراف الاسل
 
-<blockquote dir="rtl">
-  <p>
-رُدّوا علينا شيخنا ثم بجل
-  </p>
-</blockquote>
+> رُدّوا علينا شيخنا ثم بجل
 
 *We are the Banu* *Ḍabbah, supporters of (the Army of) Jamal, and are
 taking ‘Uthman’s revenge with our spears.*
@@ -419,11 +279,7 @@ taking ‘Uthman’s revenge with our spears.*
 
 Malik al-Ashtar rushed to confront him and said, thus:
 
-<blockquote dir="rtl">
-  <p>
-كيف نَرُدُّ نعثلاً و قد قخل سارت به أُمُّ المنايا و رَحَل
-  </p>
-</blockquote>
+> كيف نَرُدُّ نعثلاً و قد قخل سارت به أُمُّ المنايا و رَحَل
 
 *How could we return Na‘thal (‘Uthman) while he is enshrouded, swords
 having penetrated his body, and is dead?!*
@@ -538,5 +394,4 @@ important. {Trans.}
 [^16]: Ibid.
 
 [^17]: Sharh Nahj al-Balaghah, vol. 4, p. 87.
-
 

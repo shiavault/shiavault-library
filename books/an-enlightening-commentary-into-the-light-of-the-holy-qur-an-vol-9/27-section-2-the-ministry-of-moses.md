@@ -4,35 +4,15 @@ Section 2: The Ministry of Moses
 Surah Ta Ha – Verses 24 - 28
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبْ إِلَي فِرْعَوْنَ إِنَّهُ طَغَي
-  </p>
-</blockquote>
+> اذْهَبْ إِلَي فِرْعَوْنَ إِنَّهُ طَغَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ اشْرَحْ لِي صَدْرِي
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ اشْرَحْ لِي صَدْرِي
 
-<blockquote dir="rtl">
-  <p>
-وَيَسّـِرْ لِي أَمْرِي
-  </p>
-</blockquote>
+> وَيَسّـِرْ لِي أَمْرِي
 
-<blockquote dir="rtl">
-  <p>
-وَاحْلُلْ عُقْدَةً مِن لِسَانِي
-  </p>
-</blockquote>
+> وَاحْلُلْ عُقْدَةً مِن لِسَانِي
 
-<blockquote dir="rtl">
-  <p>
-يَفْقَهُوا قَوْلِي
-  </p>
-</blockquote>
+> يَفْقَهُوا قَوْلِي
 
 ***24. “Go to Pharaoh! Verily he has transgressed (the bounds).”***  
 ***25. “(Moses) said: ‘My Lord! Expand me my breast!”***  
@@ -120,29 +100,13 @@ fulfilling the responsibility, and Moses asked them all from Allah.
 Surah Ta Ha – Verses 29 - 32
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَل لِي وَزِيراً مِنْ أَهْلِي
-  </p>
-</blockquote>
+> وَاجْعَل لِي وَزِيراً مِنْ أَهْلِي
 
-<blockquote dir="rtl">
-  <p>
-هَارُونَ أَخِي
-  </p>
-</blockquote>
+> هَارُونَ أَخِي
 
-<blockquote dir="rtl">
-  <p>
-اشْدُدْ بِهِ أَزْرِي
-  </p>
-</blockquote>
+> اشْدُدْ بِهِ أَزْرِي
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرِكْهُ فِي أَمْرِي
-  </p>
-</blockquote>
+> وَأَشْرِكْهُ فِي أَمْرِي
 
 ***29. “And appoint for me an assistant from my family,”***  
 ***30. “Aaron, my brother;”***  
@@ -276,23 +240,11 @@ vol. 38, p. 296
 Surah Ta Ha – Verses 33 - 35
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَيْ نُسَبّـِحَكَ كَثِيراً
-  </p>
-</blockquote>
+> كَيْ نُسَبّـِحَكَ كَثِيراً
 
-<blockquote dir="rtl">
-  <p>
-وَنَذْكُرَكَ كَثِيراً
-  </p>
-</blockquote>
+> وَنَذْكُرَكَ كَثِيراً
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ كُنتَ بِنَا بَصِيراً
-  </p>
-</blockquote>
+> إِنَّكَ كُنتَ بِنَا بَصِيراً
 
 ***33. “So that we glorify You much,”***  
 ***34. “And remember You abundantly”***  
@@ -326,17 +278,9 @@ content with His Will and His Expediency.
 Surah Ta Ha – Verses 36 - 37
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ قَدْ اُوتيِتَ سُؤْلَكَ يَامُوسَي
-  </p>
-</blockquote>
+> قَالَ قَدْ اُوتيِتَ سُؤْلَكَ يَامُوسَي
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً اُخْرَي
-  </p>
-</blockquote>
+> وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً اُخْرَي
 
 ***36. “Said He: ‘You are granted your request, O Moses.”***  
 ***37. “And indeed We have conferred a favour on you another time.”***
@@ -361,20 +305,12 @@ The verse says:
 Surah Ta Ha – Verses 38 - 39
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَوْحَيْنَآ إِلَي اُمّـِكَ مَا يُوحَي
-  </p>
-</blockquote>
+> إِذْ أَوْحَيْنَآ إِلَي اُمّـِكَ مَا يُوحَي
 
-<blockquote dir="rtl">
-  <p>
-أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمّ‌ِ
-فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لّـِي وَعَدُوٌّ
-لَهُ وَاَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنّـِي وَلِتُصْنَعَ عَلَي
-عَيْنِي
-  </p>
-</blockquote>
+> أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمّ‌ِ
+> فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لّـِي وَعَدُوٌّ
+> لَهُ وَاَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنّـِي وَلِتُصْنَعَ عَلَي
+> عَيْنِي
 
 ***38. “When We inspired in your mother what must be inspired.”***  
 ***39. “(Saying) that: ‘Cast him into a chest, then cast it into the
@@ -478,15 +414,11 @@ him (as) was interested in him.”*[^2]
 Surah Ta Ha – Verses 40
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تَمْشِي اُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَي مَن يَكْفُلُهُ
-فَرَجَعْناكَ إِلَي اُمّـِكَ كَيْ تَقَرَّ عَيْنُهَا وَلا تَحْزَنَ
-وَقَتَلْتَ نَفْساً فَنَجَّيْنَاكَ مِنَ الْغَمّ‌ِ وَفَتَنَّاكَ فُتُوناً
-فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَي قَدَرٍ يَا
-مُوسَي
-  </p>
-</blockquote>
+> إِذْ تَمْشِي اُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَي مَن يَكْفُلُهُ
+> فَرَجَعْناكَ إِلَي اُمّـِكَ كَيْ تَقَرَّ عَيْنُهَا وَلا تَحْزَنَ
+> وَقَتَلْتَ نَفْساً فَنَجَّيْنَاكَ مِنَ الْغَمّ‌ِ وَفَتَنَّاكَ فُتُوناً
+> فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَي قَدَرٍ يَا
+> مُوسَي
 
 ***40. “When your sister goes forth to say: ‘Shall I direct you to one
 who will nurse him?’ So We returned you to your mother that her eye be
@@ -604,29 +536,13 @@ spiritual state.
 Surah Ta Ha – Verses 41 - 44
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاصْطَنَعْتُكَ لِنَفْسِي
-  </p>
-</blockquote>
+> وَاصْطَنَعْتُكَ لِنَفْسِي
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبْ أَنتَ وَأَخُوكَ بِايَاتِي وَلاَ تَنِيَا فِي ذِكْرِي
-  </p>
-</blockquote>
+> اذْهَبْ أَنتَ وَأَخُوكَ بِايَاتِي وَلاَ تَنِيَا فِي ذِكْرِي
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبَآ إِلَي فِرْعَوْنَ إِنَّهُ طَغَي
-  </p>
-</blockquote>
+> اذْهَبَآ إِلَي فِرْعَوْنَ إِنَّهُ طَغَي
 
-<blockquote dir="rtl">
-  <p>
-فَقُولاَ لَهُ قَوْلاً لَّيّـِناً لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَي
-  </p>
-</blockquote>
+> فَقُولاَ لَهُ قَوْلاً لَّيّـِناً لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَي
 
 ***41. “And I have (prepared and) chosen you for Myself.”***  
 ***42. “Go you and your brother, with My signs (miracles), and be not
@@ -723,18 +639,10 @@ his spirit be filled with love and feeling of pride and encouragement.
 Surah Ta Ha – Verses 45 - 46
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالاَ رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن
-يَطْغَي
-  </p>
-</blockquote>
+> قَالاَ رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن
+> يَطْغَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لاَ تَخَافَا إِنَّنِي مَعَكُمَآ أَسْمَعُ وَأَرَي
-  </p>
-</blockquote>
+> قَالَ لاَ تَخَافَا إِنَّنِي مَعَكُمَآ أَسْمَعُ وَأَرَي
 
 ***45. “They (Moses and Aaron) said: ‘Our Lord! Verily we fear that he
 may exceed against us, or that he may wax insolent.”***  
@@ -788,20 +696,12 @@ bravery and spirits, as the current verse says:
 Surah Ta Ha – Verses 47 - 48
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأْتِيَاهُ فَقُولآ إِنَّا رَسُولاَ رَبّـِكَ فَاَرْسِل مَعَنَا بَنِي
-إِسْرآئِيلَ وَلاَ تُعَذّ‌ِبْهُمْ قَدْ جِئْناكَ بِاَيَةٍ مّـِن
-رَّبّـِكَ وَالسَّلاَمُ عَلَي مَنِ اتَّبَعَ الْهُدَي
-  </p>
-</blockquote>
+> فَأْتِيَاهُ فَقُولآ إِنَّا رَسُولاَ رَبّـِكَ فَاَرْسِل مَعَنَا بَنِي
+> إِسْرآئِيلَ وَلاَ تُعَذّ‌ِبْهُمْ قَدْ جِئْناكَ بِاَيَةٍ مّـِن
+> رَّبّـِكَ وَالسَّلاَمُ عَلَي مَنِ اتَّبَعَ الْهُدَي
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا قَدْ اُوحِيَ إِلَيْنَآ أَنَّ الْعَذَابَ عَلَي مَن كَذَّبَ
-وَتَوَلَّي
-  </p>
-</blockquote>
+> إِنَّا قَدْ اُوحِيَ إِلَيْنَآ أَنَّ الْعَذَابَ عَلَي مَن كَذَّبَ
+> وَتَوَلَّي
 
 ***47. “So go you both unto him and say: ‘(O Pharaoh!) Verily we are
 Messengers from your Lord. Send forth, therefore, the Children of Israel
@@ -861,30 +761,14 @@ This is a fact that ought to be said to Pharaoh manifestly.
 Surah Ta Ha – Verses 49 - 52
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَن رَبُّكُمَا يَا مُوسَي
-  </p>
-</blockquote>
+> قَالَ فَمَن رَبُّكُمَا يَا مُوسَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّنَا الَّذِي أَعْطَي كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَي
-  </p>
-</blockquote>
+> قَالَ رَبُّنَا الَّذِي أَعْطَي كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَمَا بَالُ الْقُرُونِ الأُولَي
-  </p>
-</blockquote>
+> قَالَ فَمَا بَالُ الْقُرُونِ الأُولَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عِلْمُهَا عِندَ رَبّـِي فِي كِتَابٍ لاَّ يَضِلُّ رَبّـِي وَلاَ
-يَنسَي
-  </p>
-</blockquote>
+> قَالَ عِلْمُهَا عِندَ رَبّـِي فِي كِتَابٍ لاَّ يَضِلُّ رَبّـِي وَلاَ
+> يَنسَي
 
 ***49. “He (Pharaoh) said: ‘Who then is the Lord of you two, O
 Moses?’”***  
@@ -953,13 +837,9 @@ retributions.
 Surah Ta Ha – Verses 53
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَعَلَ لَكُمُ الاَرْضَ مَهْداً وَسَلَكَ لَكُمْ فِيهَا سُبُلاً
-وَأَنزَلَ مِنَ السَّمَآءِ مَآءً فَاَخْرَجْنَا بِهِ أَزْوَاجاً مِن
-نَبَاتٍ شَتَّي
-  </p>
-</blockquote>
+> الَّذِي جَعَلَ لَكُمُ الاَرْضَ مَهْداً وَسَلَكَ لَكُمْ فِيهَا سُبُلاً
+> وَأَنزَلَ مِنَ السَّمَآءِ مَآءً فَاَخْرَجْنَا بِهِ أَزْوَاجاً مِن
+> نَبَاتٍ شَتَّي
 
 ***53. “‘He Who made the earth for you a cradle, and made for you
 therein paths, and sent down water from the sky’. Then, thereby, We
@@ -998,5 +878,4 @@ verse.
 [^1]: The Commentary books of Durr-ul-Manthur and Nur-uth-Thaqalayn.
 
 [^2]: Nur-uth-Thaqalayn, vol. 3, p. 77
-
 

@@ -731,4 +731,3 @@ and Islam, which means submission to Allah's will. (Ed.)
 
 [^12]: al-Kafi vol. 2 p. 89
 
-

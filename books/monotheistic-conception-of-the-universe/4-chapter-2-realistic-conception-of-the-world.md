@@ -168,4 +168,3 @@ to the movement of clouds, to biology and zoology. It regards the
 pondering on the philosophy of these sciences as something leading to
 the recognition of Allah.
 
-

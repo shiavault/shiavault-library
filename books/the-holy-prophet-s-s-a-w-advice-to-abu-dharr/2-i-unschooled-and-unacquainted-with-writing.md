@@ -16,7 +16,6 @@ either a derivation of "umm" or "ummah" - or whatever meaning of "ummah"
 is preferred - the meaning of the term ummi is the same, ie,
 "untaught".
 
-
 **(ii) An inhabitant of Umm al-Qura**
 
 Those who favour this view associate the word with "Umm al-Qura", ie,
@@ -68,5 +67,4 @@ particularly when the modifier is "ab=father", "umm=mother", "ibn=son'",
 or "bint=daughter", it modifies the modified and not the modifier, just
 as when modifying "Abu Talib", "Abu Hanifah", "Banu Tamim", they are
 referred to as "Talibi", "Hanafi" and "Tamimi".
-
 

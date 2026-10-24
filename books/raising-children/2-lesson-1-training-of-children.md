@@ -250,4 +250,3 @@ The right of a child over his parent is that he should give him a good
 name, make his manners good, and teach him the Qur’an.  
  Holy Prophet (S)
 
-

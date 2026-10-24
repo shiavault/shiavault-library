@@ -4,12 +4,8 @@ Section 6: Steadfastness and Unity Enjoined
 Surah Al-Anfal – Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا
-وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا
+> وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ
 
 **45*****. “O you who have Faith! when you encounter a host (in battle),
 then stand firm, and remember Allah much, that you may be
@@ -39,12 +35,8 @@ order that your steadfastness might he increased.
 Surah Al-Anfal – Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا
-وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا
+> وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ
 
 **46*****. “And obey Allah and His Messenger, and do not dispute, for
 you will become dishearted and your power will depart; and be patient,
@@ -77,13 +69,9 @@ is with the patient ones. The verse says:
 Surah Al-Anfal – Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ بَطَرًا
-وَرِئَاءَ النَّاسِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ ۚ وَاللَّهُ بِمَا
-يَعْمَلُونَ مُحِيطٌ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ بَطَرًا
+> وَرِئَاءَ النَّاسِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ ۚ وَاللَّهُ بِمَا
+> يَعْمَلُونَ مُحِيطٌ
 
 **47*****. “And do not be like those who got out from their homes
 boastfully and to show off to men and barring from Allah's way, and
@@ -110,15 +98,11 @@ encompasses what they do.”***
 Surah Al-Anfal – Verse 48
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ
-لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَكُمْ ۖ فَلَمَّا
-تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّي بَرِيءٌ
-مِنْكُمْ إِنِّي أَرَىٰ مَا لَا تَرَوْنَ إِنِّي أَخَافُ اللَّهَ ۚ
-وَاللَّهُ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ
+> لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَكُمْ ۖ فَلَمَّا
+> تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّي بَرِيءٌ
+> مِنْكُمْ إِنِّي أَرَىٰ مَا لَا تَرَوْنَ إِنِّي أَخَافُ اللَّهَ ۚ
+> وَاللَّهُ شَدِيدُ الْعِقَابِ
 
 **48*****. “And (remember) when Satan made their deeds fair seeming to
 them and said: ‘Today none of people shall overcome you, and I will be a
@@ -180,5 +164,4 @@ before it, but it is certain that His retribution is sharp and severe.
 The verse says:
 
 ***“...and Allah is severe in retribution '.”***
-
 

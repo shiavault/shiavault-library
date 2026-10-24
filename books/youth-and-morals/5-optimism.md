@@ -327,4 +327,3 @@ during hardships: this trains his souls and deeply affects his morals.
 
 [^9]: Usul al-Kafi V 1. p. 394.
 
-

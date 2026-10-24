@@ -955,4 +955,3 @@ about this, he took the flag away from Sa’d and raised the chant of
 
 [^102]: Sirāj al-Deen, Sayyidinā Muhammad Rasulullah (S): 84
 
-

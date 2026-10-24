@@ -1069,4 +1069,3 @@ al-Tarikh: 2/334.
 
 [^78]: Al-Kamil fi al-Tarikh: 2/424, Ansab al-Ashraf: 3/248.
 
-

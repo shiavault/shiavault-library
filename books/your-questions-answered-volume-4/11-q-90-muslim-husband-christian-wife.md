@@ -224,4 +224,3 @@ himself liable to it and is giving it with his own free will; and in the
 case of Harbi,because his property is not under the protection of
 Islam.
 
-

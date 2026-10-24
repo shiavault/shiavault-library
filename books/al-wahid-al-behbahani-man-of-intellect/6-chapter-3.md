@@ -495,4 +495,3 @@ only thing I hope is you pray to Allah for me.”
 [^5]: The Iranians give the tille “Mirza” to whoever is born of a mother
 belonging to Banu Hashim, not the father.
 
-

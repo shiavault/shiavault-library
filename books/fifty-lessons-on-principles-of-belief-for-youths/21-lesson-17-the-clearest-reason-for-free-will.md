@@ -129,4 +129,3 @@ why?
  5. Why is free will the basis for accepting any kind duty or
 responsibility?
 
-

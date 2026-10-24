@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-أُدْعُونِــي أَسْتَجِبْ لَكُمْ
-  </p>
-</blockquote>
+> أُدْعُونِــي أَسْتَجِبْ لَكُمْ
 
 *“**Call upon Me, I will answer you**.”*[^1]
 
 Imam ‘Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-إِِدْفَعُوا أََمْوَاجَ الْبَلاَءِ عَنْکُمْ بِالدُّعاَءِ قَبْلَ وُرُودِ
-الْبَلاَءِ.
-  </p>
-</blockquote>
+> إِِدْفَعُوا أََمْوَاجَ الْبَلاَءِ عَنْکُمْ بِالدُّعاَءِ قَبْلَ وُرُودِ
+> الْبَلاَءِ.
 
 *“Ward away, by means of supplication, the waves of misfortunes before
 the arrival of misfortunes (themselves).”*[^2]*7*
@@ -112,12 +104,8 @@ The supplication which Imam ‘Ali (a.s) had taught the youth was the
 supplication of Mashlul, the initial sentences of which are as
 follows:[^4]
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّــي أَسْئَلُكَ بِاسْمِكَ بِسْمِ اللٌّهِ الرَّحْمٌنِ
-الرَّحِيمِ. يَا ذَا الْجَلاَلِ وَ الإِكْرَامِ…
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّــي أَسْئَلُكَ بِاسْمِكَ بِسْمِ اللٌّهِ الرَّحْمٌنِ
+> الرَّحِيمِ. يَا ذَا الْجَلاَلِ وَ الإِكْرَامِ…
 
 “O' Allah, surely I ask you with Your name, In the Name of Allah, the
 Most Gracious, 'O' The Lord of Majesty and Bounty”.
@@ -251,5 +239,4 @@ you not to abandon this practice of yours.”[^8]
 [^7]: Shanidaniha-e-Tarikh, pg. 22; Mahajjatul Baidha, vol. 2, pg. 299
 
 [^8]: Muntakhab al-Tawarikh, pg. 849; Raudhatul Riyahin
-
 

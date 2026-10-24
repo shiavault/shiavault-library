@@ -38,11 +38,7 @@ the doors of ransom are shut.
 speak about him that which they do not know.
 
 > 8ـ مَنْ أسْرَعَ إلَى النّاسِ بِما يَكْرَهُونَ قالُوا فيهِ ما
-<blockquote dir="rtl">
-  <p>
-لايَعْلَمُونَ.
-  </p>
-</blockquote>
+> لايَعْلَمُونَ.
 
 9. Many a person strives in that which is harmful for him.
 
@@ -55,5 +51,4 @@ speak about him that which they do not know.
 11. Many a person strives for one who is seated [doing nothing].
 
 > 11ـ رُبَّ ساع لِقاعِد.
-
 

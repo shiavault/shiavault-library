@@ -50,4 +50,3 @@ come down to the foot. You may begin from the foot and go above up to
 the shoulder.  
  13. There is no *masah* (wiping) in *ghusl*.
 
-

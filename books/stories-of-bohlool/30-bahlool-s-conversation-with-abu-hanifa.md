@@ -44,4 +44,3 @@ Khalifa, complain about me, and demand punishment for me!”
 Abu Hanifa listened to Bahlool's intelligent answers and shamefully left
 Haroun's court.
 
-

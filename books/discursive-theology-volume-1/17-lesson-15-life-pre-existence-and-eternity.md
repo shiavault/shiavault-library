@@ -10,22 +10,14 @@ of God. The name *Al-ḥayy* has been applied to God in verses of the Holy
 Qur’an, and in most cases, it is accompanied by the name or attribute
 *Al-qayyūm* (the Self-existing). For example, it is thus said:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ ﴾
-  </p>
-</blockquote>
+> ﴿ اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ ﴾
 
 ***“Allah—there is no god except Him—is the Living One, the
 All-sustainer.”***[^1]
 
 In one verse, God has been described as the Living One who does not die:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ ﴾
 
 ***“Put your trust in the Living One who does not die.”***[^2]
 
@@ -34,12 +26,8 @@ al-tahlīl*) – *Lā ilāha illallāh* (There is no god but Allah) – comes
 before the Name *Al-ḥayy*, but in other verses, the said Divine Name
 comes before the expression of praise:
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الْحَيُّ لا إِلَهَ إِلا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ
-الدِّينَ ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الْحَيُّ لا إِلَهَ إِلا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ
+> الدِّينَ ﴾
 
 ***“He is the Living One, there is no god except Him. So supplicate Him,
 putting exclusive*** ***faith in Him.”***[^3]
@@ -67,12 +55,8 @@ that the absolute existence is called ‘ever-flowing life’ (*ḥayāt
 al-sāriyah*).[^4] In the Holy Qur’an, *aḥyā’* (to give life) is applied
 to creation and origination. For instance, it is thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ إِنَّ
-الإنْسَانَ لَكَفُورٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ إِنَّ
+> الإنْسَانَ لَكَفُورٌ ﴾
 
 ***“It is He who gave life then He makes you die, then He brings you to
 life. Indeed man is very ungrateful.”***[^5]
@@ -81,12 +65,8 @@ The phrase *aḥyākum* (He gave you life) is synonymous with the phrase
 *khalqakum* (He created you) in this verse in which the opposite of
 *ḥayāh* (life) is non-existence:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
-يُحييکُم ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
+> يُحييکُم ﴾
 
 ***“It is Allah who created you and then provided for you, then He makes
 you die.”***[^6]
@@ -113,12 +93,8 @@ potentiality. The last two features (awareness and potentiality) are the
 most important and they manifest more in the human being. For this
 reason, philosophers have defined life with these two salient features:
 
-<blockquote dir="rtl">
-  <p>
-ألْحَياةُ هِيَ كَوْنُ الشَّيْءِ بِحَيْثُ يَصْدُرُ عَنْهُ الأفْعالُ
-الصّادِرَةُ عَنِ الإَحْياءِ مِنْ آثارِ الْعِلْمِ وَالقُدْرَةِ.
-  </p>
-</blockquote>
+> ألْحَياةُ هِيَ كَوْنُ الشَّيْءِ بِحَيْثُ يَصْدُرُ عَنْهُ الأفْعالُ
+> الصّادِرَةُ عَنِ الإَحْياءِ مِنْ آثارِ الْعِلْمِ وَالقُدْرَةِ.
 
 That is to say that life means the existence of a thing in the form of
 actions that emanate from living creatures – conscious actions on the
@@ -142,11 +118,7 @@ perceptions and actions anchored in knowledge and free-will. That
 feature is called ‘life’. Therefore, life means a kind of existence from
 which knowledge and power emanate: [^9]
 
-<blockquote dir="rtl">
-  <p>
-فَالْحَياةُ نَحْو وُجودٍ يَتَرَشَّحُ عَنْهُ العِلْمُ وَالْقُدْرَةُ.
-  </p>
-</blockquote>
+> فَالْحَياةُ نَحْو وُجودٍ يَتَرَشَّحُ عَنْهُ العِلْمُ وَالْقُدْرَةُ.
 
 The Essence of Life with Respect to God
 ---------------------------------------
@@ -182,11 +154,7 @@ impossible), definitely exists in Him.[^10]
 In his *Tajrīd al-I‘tiqād*, after proving [the existence of] power and
 knowledge in God, Muḥaqqiq al-Ṭūsī has said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ قادِرٍ عالِمٌ حَيٌّ بِالضَّرورِةِ.
-  </p>
-</blockquote>
+> كُلُّ قادِرٍ عالِمٌ حَيٌّ بِالضَّرورِةِ.
 
 “Every powerful [and] knowledgeable [being] is necessarily living.”[^11]
 
@@ -240,11 +208,7 @@ immortality (*sarmadiyyah*). Sometimes *sarmadiyyah* is used as synonym
 of *abadiyyah* and *baqā*, as in the following expression of Muḥaqqiq
 al-Ṭūsī:
 
-<blockquote dir="rtl">
-  <p>
-وَوُجُوبُ الْوُجودِ يَدُلُّ عَلىٰ سَرْمَدِيَّتِهِ وَنَفْيِ الزّائِدِ.
-  </p>
-</blockquote>
+> وَوُجُوبُ الْوُجودِ يَدُلُّ عَلىٰ سَرْمَدِيَّتِهِ وَنَفْيِ الزّائِدِ.
 
 “And being the Necessary Being implies immortality and the negation of
 added qualities.”[^12]
@@ -304,5 +268,4 @@ of the theosophers.
 [^11]: Kashf al-Murād, station (maqṣad) 3, chap. 2, issue 3.
 
 [^12]: Kashf al-Murād, station (maqṣad) 3, chap. 2, issue 7.
-
 

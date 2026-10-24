@@ -45,4 +45,3 @@ They also took much interest in the moral and spiritual aspects
 regarding earning profits and avoidance of dependence on others through
 working and doing business.**
 
-

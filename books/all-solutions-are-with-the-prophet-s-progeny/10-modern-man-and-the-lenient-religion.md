@@ -743,4 +743,3 @@ al-Hashimi, p. 156.
 
 [^7]: Nahjul Balaghah, sermon 5.
 
-

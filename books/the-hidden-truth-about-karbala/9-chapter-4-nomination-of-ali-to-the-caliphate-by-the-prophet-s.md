@@ -788,4 +788,3 @@ consultative council.
 [^49]: Madarijun Nubuwwa, Ch.12, p.201, Tafsir al-Kabir, vol. 4 p. 488,
 Tarikh Rawdhathul Ahbab, Al-Karrar, p.121, Hayatul Qulub, vol.2 p.823.
 
-

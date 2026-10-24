@@ -5,11 +5,7 @@ In religious texts, it is asserted that God has created the realm of
 nature for the benefits of humanity, as God says in the Holy Qur’an,
 thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الأرْضِ جَمِيعًا ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الأرْضِ جَمِيعًا ﴾
 
 ***“It is He who created for you all that is in the earth.”***[^1]
 
@@ -78,11 +74,7 @@ is demanded by this type of existential designation and realization and
 nothing else; all these differences are based upon the principle of
 cosmic justice of God – “giving every right to its owner”: [^4]
 
-<blockquote dir="rtl">
-  <p>
-أَعْطىٰ كُلَّ ذي حَقٍّ حَقَّهُ.
-  </p>
-</blockquote>
+> أَعْطىٰ كُلَّ ذي حَقٍّ حَقَّهُ.
 
 Undesirables and the Blossoming of Talents
 ------------------------------------------
@@ -101,21 +93,13 @@ manliness to appear.[^5] One must endure all difficulties and
 afflictions in order to discover what is due to him. The Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ خَلَقْنَا الإنْسَانَ فِي كَبَدٍ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ خَلَقْنَا الإنْسَانَ فِي كَبَدٍ ﴾
 
 ***“Certainly We created man in travail.”***[^6]
 
 It also says, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ٭ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ٭ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾
 
 ***“Indeed ease accompanies hardship. Indeed ease accompanies
 hardship.”***[^7]
@@ -124,13 +108,9 @@ What is interesting is that these two verses come after certain verses
 which God has revealed as a consolation for the Holy Prophet (*ṣ*) in
 facing undesirable events. It thus states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ٭ وَوَضَعْنَا عَنْكَ وِزْرَكَ ٭
-الَّذِي أَنْقَضَ ظَهْرَكَ ٭ وَرَفَعْنَا لَكَ ذِكْرَكَ ٭ فَإِنَّ مَعَ
-الْعُسْرِ يُسْرًا ٭ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ٭ وَوَضَعْنَا عَنْكَ وِزْرَكَ ٭
+> الَّذِي أَنْقَضَ ظَهْرَكَ ٭ وَرَفَعْنَا لَكَ ذِكْرَكَ ٭ فَإِنَّ مَعَ
+> الْعُسْرِ يُسْرًا ٭ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴾
 
 ***“Did We not open your breast for you and relieve you of your burden
 which [almost] broke your back? Did We not exalt your name? Indeed ease
@@ -146,46 +126,22 @@ getting relief from every endeavour or pursuit, one must embark on
 another struggle and turn his attention to his Lord by constantly
 striving hard. As it is thus stated,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذَا فَرَغْتَ فَانْصَبْ ٭ وَإِلَى رَبِّكَ فَارْغَبْ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذَا فَرَغْتَ فَانْصَبْ ٭ وَإِلَى رَبِّكَ فَارْغَبْ ﴾
 
 ***“So when you are done, appoint, and turn eagerly to your
 Lord.”***[^9]
 
 In this regard, Mawlawī [Rūmī] has thus said:
 
-<blockquote dir="rtl">
-  <p>
-رنج گنج آمد كه رحمتها در اوست مغز تازه شد چو بخراشيد پوست
-  </p>
-</blockquote>
+> رنج گنج آمد كه رحمتها در اوست مغز تازه شد چو بخراشيد پوست
 
-<blockquote dir="rtl">
-  <p>
-اي برادر موضع تاريك و سرد‬ صبر كردن بر غم و سستي و درد‬
-  </p>
-</blockquote>
+> اي برادر موضع تاريك و سرد‬ صبر كردن بر غم و سستي و درد‬
 
-<blockquote dir="rtl">
-  <p>
-چشمة حيوان و جام مستي است‬ كان بلنديها همه در پستي است‬
-  </p>
-</blockquote>
+> چشمة حيوان و جام مستي است‬ كان بلنديها همه در پستي است‬
 
-<blockquote dir="rtl">
-  <p>
-آن بهاران مضمر است اندر خزان‬ در بهار است آن خزان مگريز از آن
-  </p>
-</blockquote>
+> آن بهاران مضمر است اندر خزان‬ در بهار است آن خزان مگريز از آن
 
-<blockquote dir="rtl">
-  <p>
-همره غم باش و با وحشت بساز‬ ﻣﻲطلب در مرگ خود عمر دراز‬
-  </p>
-</blockquote>
+> همره غم باش و با وحشت بساز‬ ﻣﻲطلب در مرگ خود عمر دراز‬
 
 *Pain is a treasure, for there are mercies in it:*
 
@@ -212,15 +168,11 @@ while undertaking the humane-sacred mission is impossible. The Holy
 Qur’an has emphatically and categorically mentioned this subject in this
 manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ
-مَثَلُ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ مَسَّتْهُمُ الْبَأْسَاءُ
-وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ
-آمَنُوا مَعَهُ مَتَى نَصْرُ اللَّهِ أَلا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ
-﴾
-  </p>
-</blockquote>
+> ﴿ أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ
+> مَثَلُ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ مَسَّتْهُمُ الْبَأْسَاءُ
+> وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ
+> آمَنُوا مَعَهُ مَتَى نَصْرُ اللَّهِ أَلا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ
+> ﴾
 
 ***“Do you suppose that you shall enter paradise though there has not
 yet come to you the like of [what befell]] those who went before you?
@@ -242,23 +194,15 @@ All-merciful, has used many ways, among the most important of which are
 painful and undesirable happenings. In this regard, the Holy Qur’an has
 thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّبِيٍّ إِلاَّ أَخَذْنَا
-أَهْلَهَا بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّبِيٍّ إِلاَّ أَخَذْنَا
+> أَهْلَهَا بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ ﴾
 
 ***“We did not send a prophet to any town without visiting its people
 with stress and distress so that they might entreat [for Allah’s
 forgiveness].”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنينَ وَنَقْصٍ مِنَ
-الثَّمَرَاتِ لَعَلَّهُمْ يَذَّكَّرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنينَ وَنَقْصٍ مِنَ
+> الثَّمَرَاتِ لَعَلَّهُمْ يَذَّكَّرُونَ ﴾
 
 ***“Certainly We afflicted Pharaoh’s clan with droughts and loss of
 produce, so that they may take admonition.”***[^13]
@@ -287,25 +231,17 @@ His servant who commits a sin [as he himself chooses], He would give a
 bounty to him so he will forget to seek forgiveness and will be amused
 by the said bounty. This is what God refers to when He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لا
-يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لا
+> يَعْلَمُونَ ﴾
 
 ***“As for those who deny Our signs, We will draw them imperceptibly
 [into ruin], whence they do not know.”***[^14]**,** [^15]
 
 It is thus stated in the pithy aphorisms of Imām ‘Alī (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-كَمْ مِنْ مُسْتَدْرَج ٍبِالإِحْسَانِ إلَيْهِ، وَمَغْرورٍ بِالسَّتْرِ
-عَلَيْهِ، وَمَفْتُونٍ بِحُسْنِ الْقَوْلِ فِيهِ! وَمَا ابْتَلَى اللهُ
-أَحَداً بِمِثْلِ الإِمْلاَءِ لَهُ.
-  </p>
-</blockquote>
+> كَمْ مِنْ مُسْتَدْرَج ٍبِالإِحْسَانِ إلَيْهِ، وَمَغْرورٍ بِالسَّتْرِ
+> عَلَيْهِ، وَمَفْتُونٍ بِحُسْنِ الْقَوْلِ فِيهِ! وَمَا ابْتَلَى اللهُ
+> أَحَداً بِمِثْلِ الإِمْلاَءِ لَهُ.
 
 “There are many persons for whom constant grants of His Bounties turn
 them wicked and stand fit for His punishment and there are many more who
@@ -335,34 +271,22 @@ human beings have an influence on some of the natural pleasant and
 painful happenings. In connection with the role of good deeds in the
 multiplication of bounties, the Qur’an thus says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُواْ وَاتَّقَواْ لَفَتَحْنَا
-عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالأَرْضِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُواْ وَاتَّقَواْ لَفَتَحْنَا
+> عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالأَرْضِ ﴾
 
 ***“If the people of the towns had been faithful and God-wary, We would
 have opened to them blessings from the heaven and the earth.”***[^17]
 
 And it also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَئِنْ شَكَرْتُمْ لأَزِيدَنَّكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ لَئِنْ شَكَرْتُمْ لأَزِيدَنَّكُمْ ﴾
 
 ***“If you are grateful, I will surely enhance you [in
 blessing].”***[^18]
 
-<blockquote dir="rtl">
-  <p>
-﴿ اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا ٭ يُرْسِلِ
-السَّمَاءَ عَلَيْكُم مِّدْرَارًا ٭ وَيُمْدِدْكُمْ بِأَمْوَالٍ
-وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا ﴾
-  </p>
-</blockquote>
+> ﴿ اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا ٭ يُرْسِلِ
+> السَّمَاءَ عَلَيْكُم مِّدْرَارًا ٭ وَيُمْدِدْكُمْ بِأَمْوَالٍ
+> وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا ﴾
 
 ***“Plead to your Lord for forgiveness. Indeed He is all-forgiver. He
 will send for you abundant rains from the sky, and aid you with wealth
@@ -372,45 +296,29 @@ and sons, and provide you with gardens and provide you with streams.
 Regarding the evil deeds’ contribution to undesirable events, it thus
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
-النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
-﴾
-  </p>
-</blockquote>
+> ﴿ ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي
+> النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
+> ﴾
 
 ***“Corruption has appeared in land and sea because of the doings of the
 people’s hands, that He may make them taste something of what they have
 done, so that they may come back.”***[^20]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ
-وَيَعْفُوا عَنْ كَثِيرٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ
+> وَيَعْفُوا عَنْ كَثِيرٍ ﴾
 
 ***“Whatever affliction that may visit you is because of what your hands
 have earned, and He excuses many [an offense].”***[^21]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِمْ مَا تَرَكَ عَلَيْهَا
-مِنْ دَابَّةٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِمْ مَا تَرَكَ عَلَيْهَا
+> مِنْ دَابَّةٍ ﴾
 
 ***“Were Allah to take mankind to task for their wrongdoing, He would
 not leave any living being upon it.”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ذَلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا
-عَلَى قَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِمْ وَأَنَّ اللَّهَ
-سَمِيعٌ عَلِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ ذَلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا
+> عَلَى قَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِمْ وَأَنَّ اللَّهَ
+> سَمِيعٌ عَلِيمٌ ﴾
 
 ***“That is because Allah never changes a blessing that He has bestowed
 on a people unless they change what is in their own souls, and Allah is
@@ -443,14 +351,10 @@ station.”[^24]
 
 The Imām (*‘a*) also said to Isḥāq ibn ‘Ammār:
 
-<blockquote dir="rtl">
-  <p>
-يا إسْحاقُ لا تُعَدَّنَ مُصيبَةً أُعْطِيَتْ عَلَيْها الصَّبْرَ و
-أسْتَوْجَبْتَ عَلَيْها مِنَ اللهِ ثَوابًا بِمُصيبَةٍ، إنَّ المصيبَةَ
-الَّتي يُحْرَمُ صاحِبُها أجْرَها وَثَوابَها إذا لَمْ يَصْبِرْ عِنْدَ
-نُزولِها.
-  </p>
-</blockquote>
+> يا إسْحاقُ لا تُعَدَّنَ مُصيبَةً أُعْطِيَتْ عَلَيْها الصَّبْرَ و
+> أسْتَوْجَبْتَ عَلَيْها مِنَ اللهِ ثَوابًا بِمُصيبَةٍ، إنَّ المصيبَةَ
+> الَّتي يُحْرَمُ صاحِبُها أجْرَها وَثَوابَها إذا لَمْ يَصْبِرْ عِنْدَ
+> نُزولِها.
 
 *“O Isḥāq! Do not regard as misfortune the undesirable happening which
 you endure and for which you earn [spiritual] reward from Allah.
@@ -461,12 +365,8 @@ From here, one can realize the incorrectness of the notion of those who
 think that the undesirable events in the lives of the saints of God are
 covered by this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ
-وَيَعْفُوا عَنْ كَثِيرٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ
+> وَيَعْفُوا عَنْ كَثِيرٍ ﴾
 
 ***“Whatever affliction that may visit you is because of what your hands
 have earned, and He excuses many [an offense].”***[^25]
@@ -480,14 +380,10 @@ and gave his decisive reply:
 “This verse of the Qur’an does not apply to us; what apply to us are
 these verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأرْضِ وَلا فِي أَنْفُسِكُمْ إِلا
-فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللَّهِ
-يَسِيرٌ ٭ لِكَيْلا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلا تَفْرَحُوا بِمَا
-آتَاكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأرْضِ وَلا فِي أَنْفُسِكُمْ إِلا
+> فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللَّهِ
+> يَسِيرٌ ٭ لِكَيْلا تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلا تَفْرَحُوا بِمَا
+> آتَاكُمْ ﴾
 
 ***“No affliction visits the earth or yourselves but it is in a Book
 before We bring it about – that is indeed easy for Allah -*** ***so that
@@ -522,23 +418,11 @@ should wholeheartedly endure material afflictions, and in principle,
 with this outlook, painful happenings turn sweet and desirable, and in
 the words of Mawlawī [Rūmī],
 
-<blockquote dir="rtl">
-  <p>
-هر بلا كز دوست آيد رحمت است آن بلا را بر دلم صد منت است
-  </p>
-</blockquote>
+> هر بلا كز دوست آيد رحمت است آن بلا را بر دلم صد منت است
 
-<blockquote dir="rtl">
-  <p>
-ای بلاهای تو آرام دلم حاصل از درد تو شد کام دلم
-  </p>
-</blockquote>
+> ای بلاهای تو آرام دلم حاصل از درد تو شد کام دلم
 
-<blockquote dir="rtl">
-  <p>
-نالم و ترسم که او باور کند وز ترحم جور را کمتر کند
-  </p>
-</blockquote>
+> نالم و ترسم که او باور کند وز ترحم جور را کمتر کند
 
 ‘Abd Allāh ibn Mas‘ūd is reported to have said: “One day we were in the
 company of the Prophet (*ṣ*) who was then smiling and we asked him the
@@ -723,5 +607,4 @@ al-Istidrāj,” ḥadīth 1.
 [^27]: Shaykh al-Ṣadūq, Al-Tawḥīd, section (bāb) 62, ḥadīth 3.
 
 [^28]: Qawwām al-Marām, p. 119.
-
 

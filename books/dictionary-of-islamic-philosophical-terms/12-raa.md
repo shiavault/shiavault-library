@@ -137,4 +137,3 @@ Rhetorica or the Rhetoric: Aristotle’s seventh book on logic, also
 entitled as al-Khatabah (q.v.) in Arabic; it deals with the art of
 persuading through oratorical devices.
 
-

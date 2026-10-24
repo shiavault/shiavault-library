@@ -27,4 +27,3 @@ harms another being. The consequences of his ill acts would be his
 destroying the bases of his inherent God-given purity. He initiates
 hindrances on the way to his perfection.
 
-

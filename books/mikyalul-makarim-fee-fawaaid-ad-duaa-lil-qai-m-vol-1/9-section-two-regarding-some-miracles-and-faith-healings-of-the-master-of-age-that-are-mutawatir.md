@@ -8,12 +8,8 @@ al-Amari in which he said:
 After that he placed his forehead on the ground and began to praise the
 Almighty in prostration. Then he raised his head saying:
 
-<blockquote dir="rtl">
-  <p>
-شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ
-وَأُولُو الْعِلْمِ...
-  </p>
-</blockquote>
+> شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ
+> وَأُولُو الْعِلْمِ...
 
 ***“Allah bears witness that there is no god but He, and (so do) the
 angels and those possessed of knowledge…”(Surah Aale Imran 3:18)***[^1]
@@ -96,5 +92,4 @@ Yaqoob Kulaini; Vol. 1/523
 [^4]: Kamaluddin; Shaykh Saduq; Vol. 2/492
 
 [^5]: Kamaluddin; Shaykh Saduq; Vol. 2/501
-
 

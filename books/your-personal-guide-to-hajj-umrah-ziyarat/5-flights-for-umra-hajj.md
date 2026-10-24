@@ -96,4 +96,3 @@ American Hujjaj with green card should make sure to carry their green
 cards in their wallet and a copy of this card should be kept separately
 in a safe place.
 
-

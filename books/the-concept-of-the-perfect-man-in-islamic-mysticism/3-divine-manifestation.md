@@ -29,4 +29,3 @@ its totality is the exhibition in which God’s perfection is explicitly
 manifested. Each being reflects God’s perfection according to its
 capacity.[^2]
 
-

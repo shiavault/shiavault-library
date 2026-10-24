@@ -45,4 +45,3 @@ brothers in religion, love of your fellow human beings – these are some
 aspects of love which are stressed by Islam, to make a man free from
 envy and spite. Let the ‘love’ conquer ‘envy’, and be a real Muslim.
 
-

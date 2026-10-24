@@ -14,4 +14,3 @@ Holy Prophet and the Imams on behalf of those who loved them out of the
 perpetrators of grave and deadly sins. The infallible Imams and the Holy
 Prophet have told us about all these things.
 
-

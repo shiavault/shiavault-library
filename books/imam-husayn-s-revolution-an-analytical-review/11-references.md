@@ -25,4 +25,3 @@ used extensively for the booklet.
 
 10. Social Justice in Islam - Sayyid Qutb.
 
-

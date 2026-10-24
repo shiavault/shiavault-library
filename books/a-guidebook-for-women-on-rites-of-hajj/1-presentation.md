@@ -39,4 +39,3 @@ Wassalam O'Alaikum Wa rahmatullahi wa barakaatuh
 World Ahlebait Women's Organization
 Qum al-Muqaddas
 
-

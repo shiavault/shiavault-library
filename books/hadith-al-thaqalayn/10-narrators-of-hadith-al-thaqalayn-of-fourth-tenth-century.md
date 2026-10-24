@@ -301,4 +301,3 @@ al-Qannawji, al-­Taj al-mukallal, 82.
 
 [^22]: Al-Ansab, under 'al-­Makhallas'.
 
-

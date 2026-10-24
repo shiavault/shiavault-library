@@ -264,7 +264,6 @@ door of Heaven is that much of the toil of a fasting person is because
 of his thirst. So when the fasting ones enter this door, they will be so
 saturated that they will never become thirsty thereafter.
 
-
 **The Social Effect of Fasting**
 
 Every intelligent person realizes that fasting works as a lesson of
@@ -601,7 +600,6 @@ nearer to him than his life-vein ", (Sura Qaf, No. 50, verse 16) .
 Then, it adds:
 
 "...I answer the prayer of every supplicant when he calls on Me;..."
-
 
 "...so (they should) hearken unto My call, ..." "...and believe in
 Me,..."
@@ -1162,5 +1160,4 @@ because it can bear the meanings of them all totally.
 --------------------------------------------------------------------------------
 
 (1) Majma'-ul-Bayan, vol. 2, p. 282
-
 

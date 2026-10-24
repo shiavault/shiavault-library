@@ -27,4 +27,3 @@ Bahlool replied, “According to my just decision, the person that sells
 smells and steam should, in exchange, get the noise and tinkling of
 coins.”
 
-

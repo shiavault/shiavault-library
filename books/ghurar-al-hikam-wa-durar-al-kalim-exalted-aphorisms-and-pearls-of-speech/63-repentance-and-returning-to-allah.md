@@ -8,21 +8,13 @@ abandoning [the sin] with the limbs and a determination never to repeat
 it again.
 
 > 1ـ اَلتَّوبَةُ نَدَمٌ بِالقَلبِ، واسْتِغْفارٌ بِاللِّسانِ، وَتَرْكٌ
-<blockquote dir="rtl">
-  <p>
-بِالجَوارِحِ، وإضمارُ أن لايَعُودَ.
-  </p>
-</blockquote>
+> بِالجَوارِحِ، وإضمارُ أن لايَعُودَ.
 
 2. Be careful not to make haste in sinning and to delay repentance,
 thereby making your punishment greater.
 
 > 2ـ إيَّاكَ أنْ تُسْلِفَ المَعْصيَةَ، وتُسَوِّفَ بالتَّوبَةِ،
-<blockquote dir="rtl">
-  <p>
-فَتَعْظُمَ لَكَ العُقُوبَةُ.
-  </p>
-</blockquote>
+> فَتَعْظُمَ لَكَ العُقُوبَةُ.
 
 3. Is there no one who is repentant for his sins before his death comes?
 
@@ -83,12 +75,8 @@ repentance, and the person who struggles against his lower-self in
 obedience to Allah, the Glorified.
 
 > 16ـ لاخَيرَ في الدُّنيا إلاّ لأحَدِ رَجُلَينِ: رَجُلٌ أذْنَبَ ذُنُوباً
-<blockquote dir="rtl">
-  <p>
-فَهُوَ يَتَدارَكُها بِالتَّوْبَةِ، ورَجُلٌ يُجاهِدُ نَفْسَهُ على طاعةِ
-اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> فَهُوَ يَتَدارَكُها بِالتَّوْبَةِ، ورَجُلٌ يُجاهِدُ نَفْسَهُ على طاعةِ
+> اللّهِ سُبْحانَهُ.
 
 17. The smallest [amount of] repentance and seeking forgiveness purges
 sins and repeated misdeeds.
@@ -98,5 +86,4 @@ sins and repeated misdeeds.
 18. It is by returning [to Allah] that forgiveness is gained.
 
 > 18ـ مَعَ الإنابَةِ تـَكُونُ المَغْفِرَةُ.
-
 

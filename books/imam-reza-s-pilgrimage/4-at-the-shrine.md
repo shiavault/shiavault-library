@@ -117,7 +117,6 @@ religion of his
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 who pleased Thee most.
 
-
 truthful forefathers - blessings that no one but Thee can measure.
 Allaahumma S'alli 'Alaa Muh'ammadib-Ni 'Abdika wa-Waliyyika al-Qaa'imi
 Bi-Amrika wad-Daa'ee Ilaa Sabeelik. O God! (Please) send blessings upon
@@ -450,5 +449,4 @@ of blessings upon Muhammad and his Household and upon the divine leaders
 naming them one by one. Express your disdain of their enemies. Also ask
 whatever you want for yourself and other believing men and women in your
 prayers.
-
 

@@ -764,4 +764,3 @@ contemporary Islamic world and continues to exercise great influence
 upon many aspects of current Islamic thought, especially the
 philosophical, theological and theosophical.
 
-

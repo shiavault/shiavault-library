@@ -354,4 +354,3 @@ science.
 [^1]: New Researches into the Composition & Exegesis of the Qur'ān
 [London, 1902] p. 9
 
-

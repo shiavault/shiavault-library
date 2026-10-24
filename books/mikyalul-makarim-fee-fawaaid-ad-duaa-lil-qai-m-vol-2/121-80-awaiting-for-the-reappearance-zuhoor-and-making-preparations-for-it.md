@@ -54,12 +54,8 @@ weight of that horse.
 Issue no. 2: The second point indicating the virtue of military
 preparation can be illustrated from the following verse of Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
-وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُو
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
+> وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُو
 
 ***O you who believe! Be patient and excel in patience and remain
 steadfast, and be careful of (your duty to) Allah, that you may be
@@ -227,5 +223,4 @@ within a month of it.
 [^10]: Tafseer Al-Burhan, Vol. 1, Pg. 335, Tr. no. 10
 
 [^11]: Tafseer Al-Burhan, Vol. 1, Pg. 335, Tr. no. 13
-
 

@@ -51,4 +51,3 @@ Questions
 
 3. What was Imam Ali (a) doing when he was attacked?
 
-

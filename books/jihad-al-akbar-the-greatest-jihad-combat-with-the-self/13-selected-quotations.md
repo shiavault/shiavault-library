@@ -178,4 +178,3 @@ able to combat the enemies of Islam.
 Take a step for the sake of God. Dispel the love of the world from your
 heart. Then you will be able to engage in combat.
 
-

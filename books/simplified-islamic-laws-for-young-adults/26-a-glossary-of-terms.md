@@ -271,4 +271,3 @@ animals, agriculture, gold and silver.
 102. Zakatul-Fitrah: An obligatory charity given to the poor after the
 month of fasting (Ramadhan).
 
-

@@ -203,7 +203,6 @@ people of Hijaz would not pledge allegiance to him as long as al Husayn,
 peace be upon him, was in the land. He was more capable of commanding
 the people's obedience than him, and was more respected.
 
-
 **Muslim b. Aqil is sent to Kufa**
 
 In response to the messages that Imam Hussain received from the people
@@ -256,5 +255,4 @@ professes the religion of truth, and one who dedicates himself to the
 essence of God.
 
 Greetings.
-
 

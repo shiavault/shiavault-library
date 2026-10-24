@@ -39,4 +39,3 @@ In fact, there is no alternative but to reject all these reports,
 because they prove the authenticity of the Qur'an on things other than
 *tawattur*. And the consensus of the Muslims lends no support either.
 
-

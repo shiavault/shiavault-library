@@ -31,7 +31,6 @@ memory. "37 Considering \`Ali's closeness to the Proph­et (S) and his
 constantly keeping his company, it was natural that his compilation
 should have been done in the best manner. 'Ali (A) himself says:
 
-<p dir="rtl">
 ولقد كنت اتَّبِعه اتِّباع الفصيل اثر أُمهِ، يرفع لي في كل يوم من
 اخلاقه علماً، و يأمرني بالاقتداء به. و لقد كان يجاور في كل سنة بحراء
 فأراه، ولا يراه غيري. ولم يجمع بيت واحد يومئذ في الاسلام غير رسول الله-
@@ -40,7 +39,6 @@ should have been done in the best manner. 'Ali (A) himself says:
 و آله- فقلت: يا رسول الله ما هذه الرنَّة؟ فقال: هذا الشيطان قد أيس من
 عبادته. إنك تسمع ما أسمع، وترى ما أرى، إلا إنك لست بنبي، و لكنك لوزير و
 إنك لعلى خير.
-</p>
 
 .. I used to follow him like a young camel following in the footprints
 of its mother. Every day he would raise for me the banner of his
@@ -64,10 +62,8 @@ virtue."38
 
 It has also been narrated from Sulayman al-'A\`mash that 'Ali (A) said:
 
-<p dir="rtl">
 ما نزلت آية إلا عَلِمتُ فيما أُنزلت و أين نزلت وعلى من نزلت، إن ربي
 وهب لي قلباً عقولاً و لساناً طلقاً
-</p>
 
 No verse has been revealed without my knowing about its subject, place
 of revelation, and against whom it has been revealed. Certainly, God has
@@ -75,10 +71,8 @@ granted me a perceptive heart and a fluent tongue.39
 
 He has been reported to have said:
 
-<p dir="rtl">
 سلوني عن كتاب الله فإنه ليس من آية إلا و قد عرفت بليل نزلت أم بنهار،
 في سهل أم في جبل
-</p>
 
 Question me regarding the Book of God, for surely there is no verse
 except that I know whether it was revealed at night or during daytime,
@@ -86,12 +80,10 @@ in a plain or on hilly ground.40
 
 Sulayman ibn Qays reports 'Ali (A) to have said:
 
-<p dir="rtl">
 ما نزلت على رسول الله صلى الله عليه و آله آية من القرآن إلا أقرأنيها
 "ع" و أملاها علي، فكتبتها بخطي، و علمني تأويلها و تفسيرها، و ناسخها و
 منسوخها، و محكمها و متشابهما، و خاصها و عامها، و دعا الله أن يعطيني
 فهمها و حفظها، فما نسيت آية من كتاب الله، و لا علما أملاه علي و كتبته
-</p>
 
 Not a verse of the Qur'an was revealed to the Messenger of God (S)
 without his reciting and dictating it to me, and without my writing it
@@ -152,9 +144,7 @@ additional material consisted of interpretations and facts revealed to
 the Prophet (S) concerning the verses. This is exactly what the Imam (A)
 has himself expressly affirmed:
 
-<p dir="rtl">
 ولقد جئتهم بالكتاب مشتملاً على التنزيل و التأويل
-</p>
 
 I surely brought them the Book comprising the revelation and the
 inter­pretation.49
@@ -167,10 +157,8 @@ of the verses.
 As this kind of compilation of the Qur'an was not done by anyone except
 'Ali (A), al-Imam Jafar al-Sadiq (A) remarked:
 
-<p dir="rtl">
 ما ادَّعى احد من الناس أنه جمع القرآن كُله كما أُنزل إلا كذّاب، وما
 جمعه و حفظه كما أُنزل إلا علي بن أبي طالب و الائمة بعده
-</p>
 
 No one among the people, except a liar, can claim having compiled the
 whole Qur'an as it was revealed and no one except 'Ali (A) and the Imams
@@ -184,5 +172,4 @@ that hints at the
 
 presence in it of some verses not present in other masahif; rather it
 only contained the interpretations and sha'n al-nuzil of some verses.
-
 

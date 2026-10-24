@@ -72,4 +72,3 @@ eminence's true feelings, thoughts and beliefs about our Lady Fatimah's
 exalted character, and also of his efforts to introduce her to the
 people in the most effective way.
 
-

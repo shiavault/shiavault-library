@@ -4,11 +4,7 @@
 Imam Ibn al-‘Athir (d. 606 H), an ace Sunni lexicographer, opens this
 chapter:
 
-<blockquote dir="rtl">
-  <p>
-الخليفة من يقوم مقام الذاهب ويسد مسده
-  </p>
-</blockquote>
+> الخليفة من يقوم مقام الذاهب ويسد مسده
 
 The *khalifah* is whoever stands in the position of the one who is
 physically absent and substitutes for him.[^1]
@@ -18,43 +14,27 @@ seclusion, death and others. As such, when Prophet Musa, *‘alaihi
 al-salam*, was leaving his *Ummah* temporarily for some days, he
 appointed a *khalifah*:
 
-<blockquote dir="rtl">
-  <p>
-وقال موسى لأخيه هارون اخلفني في قومي
-  </p>
-</blockquote>
+> وقال موسى لأخيه هارون اخلفني في قومي
 
 Musa said to his brother, Harun: “Be my *khalifah* over my people.”[^2]
 
 Shaykh Ibn Taymiyyah (d. 728 H) also informs us:
 
-<blockquote dir="rtl">
-  <p>
-فمن المعلوم انه كان لا يخرج من المدينة حتى يستخلف
-  </p>
-</blockquote>
+> فمن المعلوم انه كان لا يخرج من المدينة حتى يستخلف
 
 It is well-known that he (the Prophet) never left Madinah without
 appointing a *khalifah* over it.[^3]
 
 Meanwhile, Allah is our King:
 
-<blockquote dir="rtl">
-  <p>
-قل أعوذ برب الناس ملك الناس إله الناس
-  </p>
-</blockquote>
+> قل أعوذ برب الناس ملك الناس إله الناس
 
 Say: I seek refuge with the Lord of mankind, **the King of mankind**,
 the God of mankind.[^4]
 
 No doubt, His is the kingdom of all the heavens and the earth:
 
-<blockquote dir="rtl">
-  <p>
-ولله ملك السماوات والأرض والله على كل شيء قدير
-  </p>
-</blockquote>
+> ولله ملك السماوات والأرض والله على كل شيء قدير
 
 And to Allah belongs **the kingdom** of the heavens and the earth, and
 Allah has power over all things.[^5]
@@ -62,11 +42,7 @@ Allah has power over all things.[^5]
 However, He does not physically rule the kingdom on the earth. He
 instead appoints certain people to act for Him:
 
-<blockquote dir="rtl">
-  <p>
-والله يؤتي ملكه من يشاء
-  </p>
-</blockquote>
+> والله يؤتي ملكه من يشاء
 
 And Allah gives His kingdom to whoever He wishes.[^6]
 
@@ -74,23 +50,15 @@ Whoever He appoints to run His kingdom on His earth is called His
 *khalifah*. Prophet Adam, *‘alaihi al-salam*, was the first of such
 people:
 
-<blockquote dir="rtl">
-  <p>
-وإذ قال ربك للملائكة إني جاعل في الأرض خليفة
-  </p>
-</blockquote>
+> وإذ قال ربك للملائكة إني جاعل في الأرض خليفة
 
 And when your Lord said to the angels, “I will appoint in the earth
 **a** ***khalifah***.”[^7]
 
 Imam al-Mawardi (d. 450 H) states under this verse:
 
-<blockquote dir="rtl">
-  <p>
-والثالث : أنه أراد : جاعل في الأرض خليفةً يخلفني في الحكم بين خلقي ،
-وهو آدم ، ومن قام مقامه من ولده ، وهذا قول ابن مسعود.
-  </p>
-</blockquote>
+> والثالث : أنه أراد : جاعل في الأرض خليفةً يخلفني في الحكم بين خلقي ،
+> وهو آدم ، ومن قام مقامه من ولده ، وهذا قول ابن مسعود.
 
 The third opinion: is that He intended “**I will appoint in the earth
 a** ***khalifah*** **WHO WILL SUBSTITUTE FOR ME in giving judgments
@@ -99,15 +67,11 @@ among his offspring**”. This was the opinion of Ibn Mas’ud.[^8]
 
 Imam al-Baydhawi (d. 685 H)also submits:
 
-<blockquote dir="rtl">
-  <p>
-والخليفة من يخلف غيره وينوب منابه والهاء فيه للمبالغة والمراد به آدم
-عليه الصلاة والسلام لأنه كان خليفة الله في أرضه وكذلك كل نبي استخلفهم
-الله في عمارة الأرض وسياسة الناس وتكميل نفوسهم وتنفيذ أمره فيهم لا
-لحاجة به تعالى إلى من ينوبه بل لقصور المستخلف عليه عن قبول فيضه وتلقي
-أمره بغير وسط
-  </p>
-</blockquote>
+> والخليفة من يخلف غيره وينوب منابه والهاء فيه للمبالغة والمراد به آدم
+> عليه الصلاة والسلام لأنه كان خليفة الله في أرضه وكذلك كل نبي استخلفهم
+> الله في عمارة الأرض وسياسة الناس وتكميل نفوسهم وتنفيذ أمره فيهم لا
+> لحاجة به تعالى إلى من ينوبه بل لقصور المستخلف عليه عن قبول فيضه وتلقي
+> أمره بغير وسط
 
 **The** ***khalifah*** **is he who substitutes for another and deputizes
 for him**. The *ha* in it (i.e. the word *khalifah*) is only for
@@ -134,13 +98,9 @@ a** ***khalifah*** **in the earth**} [38:26][^11]
 
 Imam al-Baghwi (d. 516 H) affirms this too:
 
-<blockquote dir="rtl">
-  <p>
-والمراد بالخليفة هاهنا آدم سماه خليفة لأنه خلف الجن أي جاء بعدهم وقيل
-لأنه يخلفه غيره والصحيح أنه خليفة الله في أرضه لإقامة أحكامه وتنفيذ
-وصاياه
-  </p>
-</blockquote>
+> والمراد بالخليفة هاهنا آدم سماه خليفة لأنه خلف الجن أي جاء بعدهم وقيل
+> لأنه يخلفه غيره والصحيح أنه خليفة الله في أرضه لإقامة أحكامه وتنفيذ
+> وصاياه
 
 The one intended with the word “khalifah” here (in the verse) is Adam.
 He was named a *khalifah* because (according to one opinion) he
@@ -152,12 +112,8 @@ His Decrees**.[^12]
 
 Imam Ibn al-Jawzi (d. 597 H) says also:
 
-<blockquote dir="rtl">
-  <p>
-أحدهما انه خليفة عن الله تعالى في إقامة شرعه ودلائل توحيده والحكم في
-خلقه وهذا قول ابن مسعود و مجاهد
-  </p>
-</blockquote>
+> أحدهما انه خليفة عن الله تعالى في إقامة شرعه ودلائل توحيده والحكم في
+> خلقه وهذا قول ابن مسعود و مجاهد
 
 One of both (opinions) is that **he was a** ***khalifah*** **of Allah
 the Most High in the establishment of His Laws and the proofs of His
@@ -166,13 +122,9 @@ Ibn Mas’ud and Mujahid.[^13]
 
 Imam al-Zuhayli has this exegesis of the verse, as well:
 
-<blockquote dir="rtl">
-  <p>
-اذكر أيها النّبي لقومك قصة خلق أبيهم آدم، حين قال اللّه للملائكة: إني
-متخذ في الأرض خليفة، يقوم بعمارتها وسكناها، وينفذ أحكامي فيها بين
-الناس
-  </p>
-</blockquote>
+> اذكر أيها النّبي لقومك قصة خلق أبيهم آدم، حين قال اللّه للملائكة: إني
+> متخذ في الأرض خليفة، يقوم بعمارتها وسكناها، وينفذ أحكامي فيها بين
+> الناس
 
 Mention, O Prophet, to your people the story of the creation of their
 father Adam, when Allah said to the angels, “I will appoint in the earth
@@ -182,12 +134,8 @@ implement my Laws in it among the people.”[^14]
 And, al-Mahalli (d. 864 H) and al-Suyuṭi (d. 911 H) in their *Tafsir
 al-Jalalayn*, cap everything:
 
-<blockquote dir="rtl">
-  <p>
-{و} اذكر يا محمد {إذ قال ربك للملائكة إني جاعل في الأرض خليفة} يخلفني
-في تنفيذ أحكامي فيها وهو آدم
-  </p>
-</blockquote>
+> {و} اذكر يا محمد {إذ قال ربك للملائكة إني جاعل في الأرض خليفة} يخلفني
+> في تنفيذ أحكامي فيها وهو آدم
 
 {And} remember, O Muhammad {when your Lord said to the angels: I will
 appoint in the earth a *khalifah*} **who will substitute for Me in the
@@ -201,16 +149,12 @@ non-prophets like us, who are his successors in the *khilafah*. He has
 specifically named Imam al-Mahdi as one of these *khulafa* of our Lord
 in our blessed *Ummah*. Imam al-Bazzar (d. 292 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن منصور، قال: حدثنا عبد الرزاق، قال أخبرنا الثوري، عن خالد
-الحذاء، عن أبي قلابة عن أبي أسماء عن ثوبان، رضي الله عنه، قال قال رسول
-الله صلى الله عليه وسلم: يقتتل عند كنزكم هذا ثلاثة كلهم ابن خليفة، ثم
-لا يصل إلى واحد منهم، ثم تقبل الرايات السود من قبل المشرق فيقتلونكم
-قتلاً لم يقتله قوم، ثم ذكر شيئا فإذا رأيتموه فبايعوه، ولو حبوا على
-الثلج فإنه خليفة الله المهدي.
-  </p>
-</blockquote>
+> حدثنا أحمد بن منصور، قال: حدثنا عبد الرزاق، قال أخبرنا الثوري، عن خالد
+> الحذاء، عن أبي قلابة عن أبي أسماء عن ثوبان، رضي الله عنه، قال قال رسول
+> الله صلى الله عليه وسلم: يقتتل عند كنزكم هذا ثلاثة كلهم ابن خليفة، ثم
+> لا يصل إلى واحد منهم، ثم تقبل الرايات السود من قبل المشرق فيقتلونكم
+> قتلاً لم يقتله قوم، ثم ذكر شيئا فإذا رأيتموه فبايعوه، ولو حبوا على
+> الثلج فإنه خليفة الله المهدي.
 
 Ahmad b. Mansur – ‘Abd al-Razzaq – al-Thawri – Khalid al-Hadha – Abu
 Qilabah – Abu Asma – Thawban, *radhiyallahu ‘anhu*:
@@ -226,11 +170,7 @@ Mahdi**.”[^16]
 
 Al-Bazzar himself comments:
 
-<blockquote dir="rtl">
-  <p>
-فإنا اخترنا هذا الحديث لصحته وجلالة ثوبان وإسناده إسناد صحيح.
-  </p>
-</blockquote>
+> فإنا اخترنا هذا الحديث لصحته وجلالة ثوبان وإسناده إسناد صحيح.
 
 We have selected this *hadith* (for our book) due to its authenticity
 and the greatness of Thawban, **and its chain is a** ***sahih***
@@ -238,16 +178,12 @@ and the greatness of Thawban, **and its chain is a** ***sahih***
 
 Imam al-Hakim (d. 403 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو عبد الله الصفار ثنا محمد بن إبراهيم بن أرومة ثنا الحسين بن
-حفص ثنا سفيان عن خالد الحذاء عن أبي قلابة عن أبي أسماء عن ثوبان رضي
-الله عنه قال قال رسول الله صلى الله عليه وسلم : يقتتل عند كنزكم ثلاثة
-كلهم ابن خليفة ثم لا يصير إلى واحد منهم ثم تطلع الرايات السود قبل
-المشرق فيقاتلونكم قتالا لم يقاتله قوم ثم ذكر شيئا فقال : إذا رأيتموه
-فبايعوه ولو حبوا على الثلج فإنه خليفة الله المهدي
-  </p>
-</blockquote>
+> أخبرنا أبو عبد الله الصفار ثنا محمد بن إبراهيم بن أرومة ثنا الحسين بن
+> حفص ثنا سفيان عن خالد الحذاء عن أبي قلابة عن أبي أسماء عن ثوبان رضي
+> الله عنه قال قال رسول الله صلى الله عليه وسلم : يقتتل عند كنزكم ثلاثة
+> كلهم ابن خليفة ثم لا يصير إلى واحد منهم ثم تطلع الرايات السود قبل
+> المشرق فيقاتلونكم قتالا لم يقاتله قوم ثم ذكر شيئا فقال : إذا رأيتموه
+> فبايعوه ولو حبوا على الثلج فإنه خليفة الله المهدي
 
 Abu ‘Abd Allah al-Saffar – Muhammad b. Ibrahim b. Urumah – al-Husayn b.
 Hafs - Sufyan – Khalid al-Hadha – Abu Qilabah – Abu Asma – Thawban,
@@ -264,36 +200,24 @@ the Mahdi**.”[^18]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^19]
 
 And Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 Upon the standard of al-Bukhari and Muslim.[^20]
 
 Al-Hafiz Ibn Kathir (d. 774 H) further documents:
 
-<blockquote dir="rtl">
-  <p>
-وقال ابن ماجه: حدثنا محمد بن يحيى وأحمد بن يوسف قالا، حدثنا عبد الرزاق
-عن سفيان الثوري عن خالد الحذاء عن أبي قلابة عن أبي أسماء الرحبي عن
-ثوبان قال: قال رسول الله صلى الله عليه وسلم: يقتتل عند كنزكم ثلاثة
-كلهم ابن خليفة لا يصير إلى واحد منهم ثم تطلع الرايات السود من قبل
-المشرق فيقتلونكم قتلاً لم يقتله قوم، ثم ذكر شيئا لا أحفظه قال فإذا
-رأيتموه فبايعوه ولو حبوا على الثلج فإنه خليفة الله المهدي.
-  </p>
-</blockquote>
+> وقال ابن ماجه: حدثنا محمد بن يحيى وأحمد بن يوسف قالا، حدثنا عبد الرزاق
+> عن سفيان الثوري عن خالد الحذاء عن أبي قلابة عن أبي أسماء الرحبي عن
+> ثوبان قال: قال رسول الله صلى الله عليه وسلم: يقتتل عند كنزكم ثلاثة
+> كلهم ابن خليفة لا يصير إلى واحد منهم ثم تطلع الرايات السود من قبل
+> المشرق فيقتلونكم قتلاً لم يقتله قوم، ثم ذكر شيئا لا أحفظه قال فإذا
+> رأيتموه فبايعوه ولو حبوا على الثلج فإنه خليفة الله المهدي.
 
 **Ibn Majah** – Muhammad b. Yahya (al-Dhahli) and Ahmad b. Yusuf – ‘Abd
 al-Razzaq – Sufyan al-Thawri – Khalid al-Hadha – Abu Qilabah – Abu Asma
@@ -310,13 +234,9 @@ even if you have to crawl on snow, **for verily he is the**
 
 Ibn Kathir says:
 
-<blockquote dir="rtl">
-  <p>
-وهذا إسناد قوي صحيح، والظاهر أن المراد بالكنز المذكور في هذا السياق
-كنز الكعبة يقتتل عنده ليأخذه ثلاثة من أولاد الخلفاء حتى يكون آخر
-الزمان فيخرج المهدي ويكون ظهوره من بلاد المشرق
-  </p>
-</blockquote>
+> وهذا إسناد قوي صحيح، والظاهر أن المراد بالكنز المذكور في هذا السياق
+> كنز الكعبة يقتتل عنده ليأخذه ثلاثة من أولاد الخلفاء حتى يكون آخر
+> الزمان فيخرج المهدي ويكون ظهوره من بلاد المشرق
 
 **This chain is strong and** ***sahih***. The apparent is that what is
 intended with the mentioned treasure in this context is the treasure of
@@ -327,22 +247,14 @@ and his appearance will be from the Eastern towns.[^22]
 Dr. al-Bastawi also comments about this *riwayah* of Ibn Majah, copied
 above by Ibn Kathir:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^23]
 
 Strangely, however, al-Albani (d. 1420 H) attacks the *sanad* of the
 *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-وقد ذهل من صححه عن علته، وهي عنعنة أبي قلابة، فإنه من المدلسين
-  </p>
-</blockquote>
+> وقد ذهل من صححه عن علته، وهي عنعنة أبي قلابة، فإنه من المدلسين
 
 Those who declared it *sahih* have overlooked its defect, and that is
 the *‘an-‘an* report of Abu Qilabah, for verily he was from the
@@ -351,27 +263,19 @@ the *‘an-‘an* report of Abu Qilabah, for verily he was from the
 Meanwhile, Dr. al-Bastawi has provided a devastating rebuttal to
 al-Albani and the other deniers:
 
-<blockquote dir="rtl">
-  <p>
-فأما اختلاط عبد الرزاق فلا يضر في صحة هذا الإسناد. فقد كان اختلاطه بعد
-سنة مائتين والظاهر أن سماع الذهلي وأحمد بن يوسف السلمي كان قبل
-الاختلاط، فقد قال ابن حجر" : احتج به) عبد الرزاق (الشيخان في جملة من
-حديث من سمع منه قبل الاختلاط. "ولذلك أخرج البخاري لمحمد بن يحيى الذهلي
-عن عبد الرزاق وأخرج مسلم لأحمد بن يوسف السلمي عن عبد الرزاق…
-  </p>
-</blockquote>
+> فأما اختلاط عبد الرزاق فلا يضر في صحة هذا الإسناد. فقد كان اختلاطه بعد
+> سنة مائتين والظاهر أن سماع الذهلي وأحمد بن يوسف السلمي كان قبل
+> الاختلاط، فقد قال ابن حجر" : احتج به) عبد الرزاق (الشيخان في جملة من
+> حديث من سمع منه قبل الاختلاط. "ولذلك أخرج البخاري لمحمد بن يحيى الذهلي
+> عن عبد الرزاق وأخرج مسلم لأحمد بن يوسف السلمي عن عبد الرزاق…
 
-<blockquote dir="rtl">
-  <p>
-وأما عنعنة أبي قلابة وسفيان الثوري وهما من المدلسين، فلا تضر في صحة
-الإسناد أيضا لأن المدلسين ليس كلهم على حد سواء عند المحققين. وقد رتبهم
-الحافظ ابن حجر في كتابه طبقات المدلسين على خمس مراتب. الأولى: من لم
-يوصف بذلك إلا نادرا. والثانية: من احتمل الأئمة تدليسه وأخرجوا له في
-الصحيح لإمامته وقلة تدليسه في جنب ما روى كالثوري أو كان لا يدلس إلا عن
-ثقة كابن عيينة وذكر أبا قلابة في المرتبة الأولى وسفيان الثوري في
-المرتبة
-  </p>
-</blockquote>
+> وأما عنعنة أبي قلابة وسفيان الثوري وهما من المدلسين، فلا تضر في صحة
+> الإسناد أيضا لأن المدلسين ليس كلهم على حد سواء عند المحققين. وقد رتبهم
+> الحافظ ابن حجر في كتابه طبقات المدلسين على خمس مراتب. الأولى: من لم
+> يوصف بذلك إلا نادرا. والثانية: من احتمل الأئمة تدليسه وأخرجوا له في
+> الصحيح لإمامته وقلة تدليسه في جنب ما روى كالثوري أو كان لا يدلس إلا عن
+> ثقة كابن عيينة وذكر أبا قلابة في المرتبة الأولى وسفيان الثوري في
+> المرتبة
 
 As for the confusion of ‘Abd al-Razzaq, this does not hurt the
 authenticity of this chain. He became confused after 200 H, and it is
@@ -442,12 +346,8 @@ command them and their armies. This is obvious anyway, since the
 *bay’ah* in Islam is given to none but Allah Alone - being a direct,
 personal covenant with Him - and NOT even to His Messenger:
 
-<blockquote dir="rtl">
-  <p>
-إن الذين يبايعونك إنما يبايعون الله يد الله فوق أيديهم فمن نكث فإنما
-ينكث على نفسه ومن أوفى بما عاهد عليه الله فسيؤتيه أجرا عظيما
-  </p>
-</blockquote>
+> إن الذين يبايعونك إنما يبايعون الله يد الله فوق أيديهم فمن نكث فإنما
+> ينكث على نفسه ومن أوفى بما عاهد عليه الله فسيؤتيه أجرا عظيما
 
 **Verily, those who give their** ***ba’yah*** **to you, they are only
 giving their** ***ba’yah*** **TO ALLAH**. The Hand of Allah os over
@@ -569,5 +469,4 @@ al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), pp.
 191-192
 
 [^26]: Qur’an 48:10
-
 

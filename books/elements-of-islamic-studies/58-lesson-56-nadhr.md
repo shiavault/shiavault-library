@@ -74,4 +74,3 @@ and 11), it is better to do *niyyah* that one is using it on behalf of
 the Imam or martyr concerned and that its reward is for that Imam or
 martyr.
 
-

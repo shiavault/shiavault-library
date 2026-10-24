@@ -306,4 +306,3 @@ in the view of Ali (as)?
 
 [^9]: An appellation of Ali bin Abi Talib (a.s.)
 
-

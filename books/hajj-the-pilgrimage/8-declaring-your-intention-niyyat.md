@@ -20,4 +20,3 @@ slave, working either as a habit or by force! Now, shed this pattern of
 life! Become genuinely "conscious" of Almighty Allah, the people and
 yourself! Choose a new job, a new direction and a new "self"!
 
-

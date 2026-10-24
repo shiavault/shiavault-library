@@ -152,7 +152,6 @@ Whose name will be my name and his father's name will be my father's
 name. He will fill the world with justice and equity as it would be
 filled with injustice and oppression."
 
-
 The contents of this tradition are continuous and reliable according to
 Shia and Sunni scholars. It has been narrated in various ways. The thing
 which has made this narration of Tirmizi skeptical are those words which
@@ -176,5 +175,4 @@ Ahmed bin Hanbal is accorded precedence over Ibn Majah. Ahmed ibn Hanbal
 in his 'Musnad' has recorded the same tradition at four places but even
 for once he has not mentioned this addition'. (Vol. 1, Pg. 377, 430,
 448)
-
 

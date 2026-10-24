@@ -54,4 +54,3 @@ cannot attain our affection but through piety and good deeds.”[^3]
 
 [^3]: ‘Usul al-Kafi, vol.2, p. 74.
 
-

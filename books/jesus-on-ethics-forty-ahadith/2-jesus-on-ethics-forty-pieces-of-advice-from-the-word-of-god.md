@@ -423,4 +423,3 @@ are those who are close to God.”
 [^1]: The 6th Divinely appointed successor to the Prophet Muhammad
 (blessings of Allah be upon him and his family) – Ja’far ibne Muhammad.
 
-

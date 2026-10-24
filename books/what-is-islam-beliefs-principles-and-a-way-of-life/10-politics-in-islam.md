@@ -263,7 +263,6 @@ advancement. We have thus summed up what we mean by politics seen from
 an Islamic perspective. A detailed survey is not possible here but we
 have allocated a special work to this topic.
 
-
 **Society in Islam**
 
 **12-SOCIETY IN ISLAM**
@@ -422,7 +421,6 @@ which Islam has drawn up in detail for human society and which has to be
 put into practice if what is desired is a life of well-being and
 happiness.
 
-
 **Islamic rulings**
 
 **13-ISLAMIC RULINGS**
@@ -527,7 +525,6 @@ against them what force you can [muster]”[8: 60].
 
 Numerous other examples can be given where Islamic jurisprudence can be
 applied to modern developments and phenomena.
-
 
 **A life of happiness**
 
@@ -774,5 +771,4 @@ activists and reformists. It covers such aspects on politics as freedom
 of expression, party-political pluralism and organisation, social
 justice, peace and non-violence, human rights, consultation system of
 government, etc.
-
 

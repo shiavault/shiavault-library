@@ -117,4 +117,3 @@ distinguishing perceptions?
 5. Do you accept the fact that these three kinds of comprehension are
 shared between human beings and animals? Why?
 
-

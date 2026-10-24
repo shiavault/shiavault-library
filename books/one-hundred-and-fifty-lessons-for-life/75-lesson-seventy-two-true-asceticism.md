@@ -3,12 +3,8 @@ Lesson Seventy Two: True Asceticism
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلزُّهدُ فى الدُّنْيا قَصْرُ الأَمَلِ وَ شُكْرُ كُلُّ نِعْمَة وَ
-الوَرَعُ عَنْ كُلِّ مآ حَرَّمَ اللّهُ
-  </p>
-</blockquote>
+> اَلزُّهدُ فى الدُّنْيا قَصْرُ الأَمَلِ وَ شُكْرُ كُلُّ نِعْمَة وَ
+> الوَرَعُ عَنْ كُلِّ مآ حَرَّمَ اللّهُ
 
 Translation
 -----------
@@ -37,5 +33,4 @@ pursuit of money, position and lust.
 
 [^1]: Tuhaful Uqul, page 58. Al-Kafi, vol 5, page 71. Wasa'il Al-Shia,
 vol 17, page 15. AlKhisal, vol 1, page 14.
-
 

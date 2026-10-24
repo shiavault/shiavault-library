@@ -160,12 +160,8 @@ leadership. It is enough to cite one example of an early leadership of
 *Ahlul Bayt* (peace be upon them) in the case of Yahya (peace be upon
 him) when Allah said:
 
-<blockquote dir="rtl">
-  <p>
-يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ
-صَبِيًّا
-  </p>
-</blockquote>
+> يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ
+> صَبِيًّا
 
 ***"O Yahya take the Book with strength, and We have given him wisdom
 when he was young. (Qur'an, 19:12)***
@@ -174,5 +170,4 @@ Now that the early leadership has been proved as an existing and real
 phenomenon in *Ahlul Bayt's* life there is no more objection to the
 leadership of al- Imam al-Mahdi (peace be upon him) nor to his
 succession to his father while very young.
-
 

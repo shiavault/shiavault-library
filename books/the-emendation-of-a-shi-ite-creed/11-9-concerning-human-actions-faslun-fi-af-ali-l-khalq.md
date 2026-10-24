@@ -30,4 +30,3 @@ Allah Himself denounced and rejected such attributions, and affirmed
 that: Thou seest not in the creation of the All-merciful any
 imperfection.
 
-

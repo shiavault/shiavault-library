@@ -292,4 +292,3 @@ Ali Reza and William Chittick.]
 
 [^11]: Ibid.
 
-

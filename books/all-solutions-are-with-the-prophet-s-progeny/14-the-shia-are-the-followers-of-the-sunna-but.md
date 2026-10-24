@@ -84,4 +84,3 @@ prayer, neglecting the Friday Prayer, and some other things that we
 shall mention later on which prevent many people from getting to the
 truth.
 
-

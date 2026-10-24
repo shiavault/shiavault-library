@@ -42,15 +42,11 @@ and love they have for God or the other believers,
 ***But those that believe love Allah more ardently. (al Baqarah, 2 :165
 )***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْإِيمَانَ مِنْ قَبْلِهِمْ
-يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِي صُدُورِهِمْ
-حَاجَةً مِمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنْفُسِهِمْ وَلَوْ كَانَ
-بِهِمْ خَصَاصَةٌ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْإِيمَانَ مِنْ قَبْلِهِمْ
+> يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِي صُدُورِهِمْ
+> حَاجَةً مِمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنْفُسِهِمْ وَلَوْ كَانَ
+> بِهِمْ خَصَاصَةٌ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 ***And those who made their dwelling in the abode, and in belief, before
 them, love whosoever has emigrated to them not finding in their breasts
@@ -59,46 +55,26 @@ themselves, even though poverty be their portion. (Al-Hashr, 59:9)***
 
 2. Verses which speak of the love of God for believers:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
 
 ***Truly Allah loves those who repent, and He loves those who cleanse
 themselves. (Al-Baqarah, 2:222)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
 
 ***And Allah loves the good doers. (Al \`Imran, 3 :148 and al-Ma'idah, 5
 :13 )***
 
-<blockquote dir="rtl">
-  <p>
-نَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> نَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ
 
 ***Surely Allah loves those who guard themselves. (At-Tawbah, 9 : 4 and
 7 )***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ
-  </p>
-</blockquote>
+> وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ
 
 ***And Allah loves those who cleanse themselves. (At-Tawbah, 9 :108 )***
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+>  إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
 
 ***Surely Allah loves the just. (Al-Hujurat, 49:9 and al-Mumtahinah,
 60:8 )***
@@ -107,40 +83,24 @@ themselves. (Al-Baqarah, 2:222)***
 of God for the believers, the love of the believers for God; and the
 love of the believers for each other:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
 
 ***Say "if you love Allah, follow me, and-Allah will love you, and
 forgive you your sins." (Al \`Imran, 3 : 31)***
 
-<blockquote dir="rtl">
-  <p>
-فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ
-  </p>
-</blockquote>
+> فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ
 
 ***Allah will assuredly bring a people He loves, and who love Him.
 (al-Ma' idah, 5: 54)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
-الرَّحْمَٰنُ وُدًّا 
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
+> الرَّحْمَٰنُ وُدًّا
 
 ***Surely those who believe and do deeds of righteousness - unto them
 the All-merciful shall assign love. (Maryam,19:96)***
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً
-  </p>
-</blockquote>
+> وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً
 
 ***And He has sent between you love and compassion. (Ar-Rum, 30: 21)***
 
@@ -184,5 +144,4 @@ whom he loves."
 [^4]: Safinatu 'l-bihar, vol.l, p.102 (under Hubb).
 
 [^5]: . ibid, p.662 (under Sama)
-
 

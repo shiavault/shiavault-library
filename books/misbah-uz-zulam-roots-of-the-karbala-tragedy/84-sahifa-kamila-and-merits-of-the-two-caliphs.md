@@ -20,4 +20,3 @@ writer would like to state that if Imam Zainul Aabideen (a.s.) had
 really meant the two Caliphs, there was nothing preventing him to
 mention them by name.
 
-

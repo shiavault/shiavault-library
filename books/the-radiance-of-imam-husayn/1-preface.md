@@ -139,4 +139,3 @@ the Fourteen infallible.
 events at Karbala are traditionally written on black banners hung in
 mourning ceremonies and halls in meetings commemorating these events.
 
-

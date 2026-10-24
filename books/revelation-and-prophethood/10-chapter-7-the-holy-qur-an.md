@@ -54,7 +54,6 @@ The devotion of Muslims to the Holy Qur'an was the source of the origin
 of a number of sciences and literary arts which would not have come into
 being if it did not exist.
 
-
 **Inimitability of the Holy Qur'an**
 
 The Holy Qur'an is an everlasting miracle of the last Prophet. From the
@@ -220,5 +219,4 @@ take part in the competition suggested by the Holy Qur'an. They say that
 if the like of the Holy Qur'an was produced, they would give up their
 faith. They are sure that such a thing cannot happen and would never
 happen.
-
 

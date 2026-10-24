@@ -1,12 +1,8 @@
 A Look at the meaning of “Daraba” in the Quran
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-وَاللاَّتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي
-الْمَضَاجِعِ وَاضْرِبُوهُنَّ
-  </p>
-</blockquote>
+> وَاللاَّتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي
+> الْمَضَاجِعِ وَاضْرِبُوهُنَّ
 
 ***And (as to) those [women] on whose part you fear desertion, admonish
 them, and [if that does not make any difference, then] leave them alone
@@ -266,5 +262,4 @@ which Imam al-Rida (A) in the course of explaining the verses, states,
 “It is a friendly (playful) strike…”. All this shows that that the term
 “fadribuhunna” in the verse has not been used in the commonly held
 meaning of hitting or striking.
-
 

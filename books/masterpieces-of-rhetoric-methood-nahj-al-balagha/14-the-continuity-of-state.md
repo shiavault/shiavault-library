@@ -70,7 +70,6 @@ find guidance through me and see my light with their weak eyes. This is
 dearer to me than killing them in the state of their misguidance
 although they draw on themselves the burden of their sins.
 
-
 **The Honourable Instruction**
 
 **Given to the army before the encoun-ter with the enemy at Siffin**
@@ -116,7 +115,6 @@ creeps and crawls in their laps so He sees through their eyes, and
 speaks with their tongues. In this way he has led them to slippery paths
 and adorned for them stupidity like the action of one whom Satan has
 made partner in his domain and speaks untruth through his tongue.
-
 
 **They Made Them Officers Over The Heads**
 
@@ -240,7 +238,6 @@ and would have irriga-ted its last with the cup of which I had irrigated
 its first and you would have seen that in my view this world of yours is
 cheaper than a sneezing of a goat.
 
-
 **People of Tirck**
 
 Surely, fulfillment of peldge is the twin of truth. I do not know a
@@ -254,5 +251,4 @@ seeing it with eyes and after being able to act upon while that who has
 no religion seizes its apportunity.
 
 You and your brother, the Human being
-
 

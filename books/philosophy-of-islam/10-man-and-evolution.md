@@ -504,4 +504,3 @@ views of the contemporary schools, we may know the approach of Islam in
 this respect.  
   
 
-

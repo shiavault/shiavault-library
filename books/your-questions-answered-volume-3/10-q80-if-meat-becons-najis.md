@@ -186,4 +186,3 @@ purchase it for Haram purpose. You may tell the barman frankly that you
 are not allowed by your religion to sell anything for the purpose of
 liquor.
 
-

@@ -118,4 +118,3 @@ never spoke up and said, "This is not new. We know where Mohammed got
 this information. We learned this at school." They could never challenge
 its authenticity because it really was new!
 
-

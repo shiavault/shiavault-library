@@ -413,4 +413,3 @@ sons.
 sons, Fatima for "women," and himself and ‘Ali (as) for "ourselves."
 (Translator's note)
 
-

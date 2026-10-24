@@ -258,4 +258,3 @@ the Messenger of Allah" they start telling us that the Shias believe
 that Ali (a.s.) was a prophet, especially when the verse begins with the
 word "O Prophet"!
 
-

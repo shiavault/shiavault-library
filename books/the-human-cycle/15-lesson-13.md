@@ -120,4 +120,3 @@ for the other person* (meaning, if someone asks you for help, help them
 in such a way in which you do not place difficulty on them)*, and* 3)
 *do it right away*. (Jalali, page 445).
 
-

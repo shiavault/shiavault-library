@@ -270,4 +270,3 @@ prejudice to judge the matter.
 
 [^11]: al-Bayhaqi, al-Sunan (al-Kubra), Vol. VIII, p. 33.
 
-

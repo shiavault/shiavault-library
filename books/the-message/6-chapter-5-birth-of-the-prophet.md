@@ -271,4 +271,3 @@ month and year of the birth of the Prophet in al-Amta' (page 3).
 
 [^7]: Seerah-i Halabi, vol. I, page 106.
 
-

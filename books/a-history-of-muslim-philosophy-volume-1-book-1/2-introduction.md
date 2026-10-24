@@ -797,4 +797,3 @@ concluding re­marks.
 659/1261 and 670/1272, we have included him among writers of the
 centuries following the sack of Baghdad.
 
-

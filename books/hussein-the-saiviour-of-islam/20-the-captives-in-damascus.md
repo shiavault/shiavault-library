@@ -298,4 +298,3 @@ grief for them, with tears irresistibly rushing into the eyes of men,
 women and even children in sympathy for the great sufferers in the way
 of the Lord.
 
-

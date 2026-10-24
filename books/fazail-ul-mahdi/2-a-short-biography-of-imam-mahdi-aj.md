@@ -256,4 +256,3 @@ he may fill the earth with justice and equity.
 
 [^27]: Tafsir Al Imam Pg. 300.
 
-

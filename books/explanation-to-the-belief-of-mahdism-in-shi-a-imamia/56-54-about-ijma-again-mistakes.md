@@ -67,4 +67,3 @@ preceded it. The Imam is immune from sin and the Shia depends on the
 Imam and act by his guidance. The oldest Sunni sources have confirmed
 the truth of Shi’ism.
 
-

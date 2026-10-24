@@ -1,11 +1,7 @@
 7)  Strengthen Your Heart With Certainty
 ========================================
 
-<blockquote dir="rtl">
-  <p>
-“ وَقوِّهِ بِاليَقِينِ “
-  </p>
-</blockquote>
+> “ وَقوِّهِ بِاليَقِينِ “
 
 Certainty or conviction is a decisive, stable, mental state in
 accordance with reality and unperishable which gives peace and quiet to
@@ -26,13 +22,9 @@ people. Anybody possessing this, enjoys great prosperity.
 
 Imam Reza (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"الاِيمانُ فَوقَ الاِسلامِ بِدَرَجَةٍ وَالتَقوَى فَوقَ الاِيمَانِ
-بِدَرَجَةٍ وَاليَقِينُ فَوقَ التَقوَى بِدَرَجَةٍ وَلَم يُقَسَّم بَينَ
-العِبَادِ شَيئٌ اَقَلُّ مِنَ اليَقِينُ"
-  </p>
-</blockquote>
+> "الاِيمانُ فَوقَ الاِسلامِ بِدَرَجَةٍ وَالتَقوَى فَوقَ الاِيمَانِ
+> بِدَرَجَةٍ وَاليَقِينُ فَوقَ التَقوَى بِدَرَجَةٍ وَلَم يُقَسَّم بَينَ
+> العِبَادِ شَيئٌ اَقَلُّ مِنَ اليَقِينُ"
 
 *"Faith is one degree above Islam; God-wariness is one degree above
 faith. Certainty is one degree above God-wariness. Nothing less than
@@ -40,24 +32,16 @@ certainty is divided among God's believers"*[^2]
 
 The narrator says: I heard Imam as-Sadiq (as) saying:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ العَمَلَ الدَائِمَ القَلِيلَ عَلى اليَقِين اَفضَلُ عِندَ الله
-مِنَ العَمَلِ الكَثِيرِ عَلى غَيرِ يَقِينٍ"
-  </p>
-</blockquote>
+> "اِنَّ العَمَلَ الدَائِمَ القَلِيلَ عَلى اليَقِين اَفضَلُ عِندَ الله
+> مِنَ العَمَلِ الكَثِيرِ عَلى غَيرِ يَقِينٍ"
 
 *"Indeed, a small act based on certainty that is performed continually,
 is better before God than abundant actions not based on certainty"*[^3]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ اللهَ بِعَدلِهِ وقِسْطِهِ جَعَلَ الرُّوحَ وَالرَّاحَة في
-اليَقِينَ وَالرِّضَا وَجَعَلَ الهَمَّ وَالحُزنَ في الشَّكِ وَالسَخَطِ"
-  </p>
-</blockquote>
+> "اِنَّ اللهَ بِعَدلِهِ وقِسْطِهِ جَعَلَ الرُّوحَ وَالرَّاحَة في
+> اليَقِينَ وَالرِّضَا وَجَعَلَ الهَمَّ وَالحُزنَ في الشَّكِ وَالسَخَطِ"
 
 *"With his justice and fairness, God has put tranquility and ease in
 certainty and satisfaction, and has put sorrow and grief in doubt and
@@ -74,21 +58,13 @@ The verses 5 and 7 of Surah al-Takathur: ***“Nay! If you had known with
 certain knowledge, you should most certainly have seen Hell; then you
 shall most certainly see it with the eye of certainty”***
 
-<blockquote dir="rtl">
-  <p>
-"كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ ... ثُمَّ لَتَرَوْنَهَا
-عَيْنَ الْيَقِينِ"
-  </p>
-</blockquote>
+> "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ ... ثُمَّ لَتَرَوْنَهَا
+> عَيْنَ الْيَقِينِ"
 
 refer to the first and second degrees respectively and verse 95 of Surah
 al-Waqi’ah:
 
-<blockquote dir="rtl">
-  <p>
-" إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ "
-  </p>
-</blockquote>
+> " إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ "
 
 ***“..Most surely this is a certain truth,"*** refers to the third
 degree of conviction.
@@ -101,12 +77,8 @@ majors and minors. For instance, we are convinced that fire exists when
 we observe the smoke, or the reasoning which takes place to prove God’s
 existence
 
-<blockquote dir="rtl">
-  <p>
-"سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّى
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ"
-  </p>
-</blockquote>
+> "سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّى
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ"
 
 ***"We will soon show them Our signs in the universe and in their own
 souls, until it will become quite clear to them that it is the
@@ -128,16 +100,12 @@ dissipation in His love.
 
 In the sanctified tradition we read:
 
-<blockquote dir="rtl">
-  <p>
-"مَا تَقَرَّبَ اِلَيَّ عَبدِي بِشَيئٍ اَحَبَّ اِلي مِمَّا افتَرَضتَه
-عَلَيه وَلا يَزَالُ العَبْدُ يَتَقَرَّبُ اِليَّ بِالنَوافِلِ حَتّى
-اُحبَه فِاِذَا اَحبَبتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ
-وَبَصَرَه الَّذِي يُبصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنطِقُ بِهِ
-وَيَدَهُ الَّتِي يَبطِشُ بِهَا، اِن دَعَانِي اَجَبتُه وَاِن سَأَلَنِي
-اَعطَيتُهُ"
-  </p>
-</blockquote>
+> "مَا تَقَرَّبَ اِلَيَّ عَبدِي بِشَيئٍ اَحَبَّ اِلي مِمَّا افتَرَضتَه
+> عَلَيه وَلا يَزَالُ العَبْدُ يَتَقَرَّبُ اِليَّ بِالنَوافِلِ حَتّى
+> اُحبَه فِاِذَا اَحبَبتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ
+> وَبَصَرَه الَّذِي يُبصِرُ بِهِ وَلِسَانَهُ الَّذِي يَنطِقُ بِهِ
+> وَيَدَهُ الَّتِي يَبطِشُ بِهَا، اِن دَعَانِي اَجَبتُه وَاِن سَأَلَنِي
+> اَعطَيتُهُ"
 
 *“My servant does not approach Me with anything dearer to Me than what I
 have made incumbent on him. He continues to approach Me through
@@ -286,21 +254,13 @@ desires and add to his good deeds"[^11]
 
 Imam ‘Ali (as) has said,
 
-<blockquote dir="rtl">
-  <p>
-الصَبرُ ثَمَرَةُ اليَقِيَن"
-  </p>
-</blockquote>
+> الصَبرُ ثَمَرَةُ اليَقِيَن"
 
 "*Patience is the fruit of certainty"*[^12]
 
 Imam ‘Ali (as) has also stated:
 
-<blockquote dir="rtl">
-  <p>
-"سِلاحُ المُؤمِنِ، الصَبْرُ عَلى البَلاءِ وَالشُكْرُ في الرَّخَاءِ"
-  </p>
-</blockquote>
+> "سِلاحُ المُؤمِنِ، الصَبْرُ عَلى البَلاءِ وَالشُكْرُ في الرَّخَاءِ"
 
 *"The weapon of a believer is patience during trials and being thankful
 at the time of ease."*[^13]
@@ -315,12 +275,8 @@ seem easy."[^14]
 
 The word "treasure" in the holy verse
 
-<blockquote dir="rtl">
-  <p>
-"وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي
-الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌ لَهُمَا"
-  </p>
-</blockquote>
+> "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي
+> الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌ لَهُمَا"
 
 ***"And as for the wall, it belonged to two orphan boys in the city, and
 there was beneath it a treasure belonging to them [Qur’an 18:82]"***
@@ -437,5 +393,4 @@ him to be silent [Mathnawi, p.92.]
 [^24]: . Ghurar al-Hikam.
 
 [^25]: . Op.cit.
-
 

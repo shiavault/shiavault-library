@@ -238,4 +238,3 @@ unlettered Messenger.
 6. How does the lack of contradiction in the Qur’an reinforce it being a
 miracle?
 
-

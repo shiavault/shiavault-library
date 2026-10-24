@@ -353,4 +353,3 @@ that person meets harm, it a necessary for the other party to meet his
 obligations in accordance with the agreement and there is no harm in
 receiving money by him on this account.
 
-

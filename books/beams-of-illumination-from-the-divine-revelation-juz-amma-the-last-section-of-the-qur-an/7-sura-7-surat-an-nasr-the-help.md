@@ -55,4 +55,3 @@ openings. May Allah give us nothing but opening upon opening, so that we
 see that in reality there are no doors and no gates barring our way to
 the Face of Allah!
 
-

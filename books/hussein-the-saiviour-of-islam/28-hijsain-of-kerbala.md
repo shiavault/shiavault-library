@@ -12,7 +12,5 @@ Time has failed to quell. In every heart this day new pain appears And
 of your sufferings men each other tell. They see a vision through
 slow-falling tears Of that lone battle where athirst you fell.
 
-
 Ameen Khorasanee
-
 

@@ -125,7 +125,6 @@ actions, together with their circumstances and goals, and the moral
 rules by reference to which we evaluate them. [Essay II xxviii 1-4]
 We'll look at these much more closely later on.
 
-
 **Substances**
 
 According to Locke, the complex idea of a substance is a collection of
@@ -186,5 +185,4 @@ in us or other things. [Essay II xxiii 7-10] To express one of Locke's
 favorite examples in our own idiom, we were able to identify genuine
 pieces of gold for centuries before we had any clue to its atomic
 structure.
-
 

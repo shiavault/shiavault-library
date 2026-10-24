@@ -1,20 +1,12 @@
 Suratul Baqarah: Verses 106 ― 107
 =================================
 
-<blockquote dir="rtl">
-  <p>
-(١٠٦) مَا نَنسَخۡ مِنۡ ءَايَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَيرٍ۬ مِّنهَآ
-أَوۡ مِثلِهَآ‌ۗ أَلَمۡ تَعلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىۡءٍ۬
-قَدِيرٌ
-  </p>
-</blockquote>
+> (١٠٦) مَا نَنسَخۡ مِنۡ ءَايَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَيرٍ۬ مِّنهَآ
+> أَوۡ مِثلِهَآ‌ۗ أَلَمۡ تَعلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىۡءٍ۬
+> قَدِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-(١٠٧) أَلَمۡ تَعلَمۡ أَنَّ ٱللَّهَ لَهُ ۥمُلكُ ٱلسَّمَـٰوَٲتِ
-وَٱلأَرۡضِ‌ۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ۬ وَلَا نَصِيرٍ
-  </p>
-</blockquote>
+> (١٠٧) أَلَمۡ تَعلَمۡ أَنَّ ٱللَّهَ لَهُ ۥمُلكُ ٱلسَّمَـٰوَٲتِ
+> وَٱلأَرۡضِ‌ۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ۬ وَلَا نَصِيرٍ
 
 ***Whatever signs We abrogate or cause to be forgotten, We bring one
 better than it or like it. Do you not know that Allah has power over all
@@ -460,5 +452,4 @@ Imam concerned thinks that the plan of work is coming to its end, a new
 development extends the plan or brings it to an unexpected end. The
 saving of the People of Yunus and the intended sacrifice of Isma'il are
 among its examples. (tr.)
-
 

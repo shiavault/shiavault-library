@@ -7,11 +7,7 @@ occurred in the Qur’an. Here we give proofs from the Qur’an itself:
 
 First, Allah says in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ***"Surely, We have sent down the reminder, and We will most surely be
 its guardian". (Qur’an, 15:9)***
@@ -23,11 +19,7 @@ Some have tried to interpret this ayah differently, stating that
 (reminder) represents the Prophet (‘s) as mentioned in the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ إِلَيْكُمْ ذِكْرًا رَّسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ
-  </p>
-</blockquote>
+> اللَّهُ إِلَيْكُمْ ذِكْرًا رَّسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ
 
 ***"Allah has indeed revealed to you a reminder: An Apostle who recites
 to you the clear communications.” (Qur’an, 65:10-11)***
@@ -41,12 +33,8 @@ the Prophet (‘s) in the second ayah, it certainly does not in the first
 ayah wherein Allah guarantees the protec­tion, because it preceded by
 the following ayah:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُواْ يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ
-لَمَجْنُونٌ
-  </p>
-</blockquote>
+> وَقَالُواْ يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ
+> لَمَجْنُونٌ
 
 ***"And they say: O you to whom the reminder has been sent down! You are
 most surely insane". (Qur’an, 15:6)***
@@ -116,12 +104,8 @@ attestation.
 
 The second proof from the Qur’an is:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ
-يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَكِتَابٌ عَزِيزٌ لَا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ
+> يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
 
 ***" .... and most surely, it is a mighty book. Falsehood shall not come
 to it from before it nor from behind it; a revelation from the Wise, the
@@ -160,5 +144,4 @@ describes the Qur’an as a Mighty Book. The \`might' is contained in its
 ability to fortify itself against all loss or changes. To restrict the
 meaning of falsehood to contradictions or false­hood within the book
 would not fully justify the use of the word **al-‘izza**.
-
 

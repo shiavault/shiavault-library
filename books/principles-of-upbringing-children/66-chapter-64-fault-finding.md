@@ -65,4 +65,3 @@ children derisively.
 
 [^4]: Jam’i al sa’da, v 2, p. 305
 
-

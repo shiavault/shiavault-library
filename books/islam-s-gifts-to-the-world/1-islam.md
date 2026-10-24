@@ -106,7 +106,6 @@ powers are put at full stretch. Every possibility within him is
 expressed to the full. And each is, at doomsday, judged; then the fire
 itself shall prove each man's work of what sort it is.
 
-
 **Islam and Political Theory**
 
 Modern political theory exalts "the general will" Democratic government
@@ -206,7 +205,6 @@ the guise of the public will, Parliamentary rule, representation of the
 masses: while capitalism and communism alike frame inequitable laws
 because they neglect the heavenly decrees which establish fast what is
 best for man.
-
 
 **Islam and Legislation**
 
@@ -352,7 +350,6 @@ raised a barbarous bloodthirsty people out of their diabolical customs
 to untold advances. His Canon Law with its intelligence and wisdom will
 come to be the world's authority."
 
-
 **Islam and Ideologies**
 
 Our world is split into two blocs. They hold contradictory ideologies,
@@ -458,5 +455,4 @@ civilisations. But the decline of one civilisation can awaken men to the
 divine plan and inspire them to follow it; and so, by means of this
 sublime truth, to found an entirely new social life on sound
 foundations.
-
 

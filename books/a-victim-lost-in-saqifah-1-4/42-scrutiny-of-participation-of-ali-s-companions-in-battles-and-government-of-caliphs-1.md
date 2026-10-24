@@ -380,7 +380,7 @@ invitation of his associates:
 ------------------------------------------------------------------------
 
 **[1]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni viewpoint), [1<sup>st</sup> Edition 1380], Pg. 130  
+Ali from the Sunni viewpoint), [1st Edition 1380], Pg. 130  
 **[2]** Rasool Ja’faryan: *Tarikh wa Seerah Siyasi Amir-e-Mominaan Ali
 Ibne Abi Talib (a.s.)* [History and political biography of Ali (a.s.)],
 Pg. 20  

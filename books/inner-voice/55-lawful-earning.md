@@ -37,4 +37,3 @@ have been perfectly lawful for him; but his impatience turned him into a
 thief, and he got nothing except the same dirham. His dishonesty did not
 increase his wealth at all, and made him a – criminal into the bargain.
 
-

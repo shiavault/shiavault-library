@@ -38,44 +38,28 @@ destruction. It is often a few great people who build history.
 prosperity and life with the oppressors is nothing but shame and
 distress.”[^1]
 
-<blockquote dir="rtl">
-  <p>
-«اِنِّي لا أری الموتَ إلاّ سعادة، وَالحياةَ معَ الظالمينِ إلاّ برماً.»
-  </p>
-</blockquote>
+> «اِنِّي لا أری الموتَ إلاّ سعادة، وَالحياةَ معَ الظالمينِ إلاّ برماً.»
 
 2. “Death with honor is nothing but eternal life while life with
 abjectness is nothing but death.”
 
-<blockquote dir="rtl">
-  <p>
-«ليسَ الموتُ في سبيلِ العزِّ إلاّ حياة خالدة، وليست الحياةُ معَ الذلِّ
-إلاّ الموت الذي لاحياة معه. »
-  </p>
-</blockquote>
+> «ليسَ الموتُ في سبيلِ العزِّ إلاّ حياة خالدة، وليست الحياةُ معَ الذلِّ
+> إلاّ الموت الذي لاحياة معه. »
 
 3. “Beware that the illegitimate son of an illegitimately born man (Ibn
 Ziyad) has given me two options: either to draw my sword and fight, or
 to wear the dress of abjectness by swearing allegiance to Yazid.
 However, acceptance of abjectness is very far from us.”
 
-<blockquote dir="rtl">
-  <p>
-«ألا وإنَّ الدعي ابن الدعي قدْ رکز بينَ اثنتين، بينَ السلّةِ والذلّةِ
-وهيهات منّا الذلّة... »
-  </p>
-</blockquote>
+> «ألا وإنَّ الدعي ابن الدعي قدْ رکز بينَ اثنتين، بينَ السلّةِ والذلّةِ
+> وهيهات منّا الذلّة... »
 
 4. “We are from Allah and to whom is our return. When the Islamic
 community is afflicted by the governance of the like of Yazid, we have
 to bid farewell to Islam.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-«إِنّا للهِ وَإِنّا إِلَيهِ راجِعُونَ وعلی الاسلامِ السلام إذ قد بليت
-الأمة براع مثل يزيد. »
-  </p>
-</blockquote>
+> «إِنّا للهِ وَإِنّا إِلَيهِ راجِعُونَ وعلی الاسلامِ السلام إذ قد بليت
+> الأمة براع مثل يزيد. »
 
 5. “I have risen not to create disunion and inequity nor oppression and
 corruption among the Muslims, but to rectify and reform the *ummah* of
@@ -83,14 +67,10 @@ my ancestor the Holy Prophet (S). I want to enjoin what is good and
 forbid what is evil. I desire to revive the way of my grandfather, the
 Holy Prophet (S), and my father ‘Ali ibn Abi Talib.”[^3]
 
-<blockquote dir="rtl">
-  <p>
-«... إنّي لم أخرج أشراً ولا بطراً ولا مفسداً ولا ظالماً، وإنّما خرجت
-لطلب الاصلاحِ في أمةِ جدّي صَلَّی اللهُ عَلَيهِ وآله، أريد أنْ آمر
-بالمعروفِ وأنهی عن المنکرِ وأسير بسيرةِ جدّي وابي علي بن ابي طالب
-عليهِ السّلام. »
-  </p>
-</blockquote>
+> «... إنّي لم أخرج أشراً ولا بطراً ولا مفسداً ولا ظالماً، وإنّما خرجت
+> لطلب الاصلاحِ في أمةِ جدّي صَلَّی اللهُ عَلَيهِ وآله، أريد أنْ آمر
+> بالمعروفِ وأنهی عن المنکرِ وأسير بسيرةِ جدّي وابي علي بن ابي طالب
+> عليهِ السّلام. »
 
 2. The affectionate relationship between the Islamic community and Allah’s awliya’ (as)
 ---------------------------------------------------------------------------------------
@@ -124,22 +104,14 @@ bear in mind the tribute paid by the Holy Prophet (S) to Imam al-Husayn
 
 The Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«حسين منّي وأنا من حسين، أحبّ الله من أحبّ حسيناً. »
-  </p>
-</blockquote>
+> «حسين منّي وأنا من حسين، أحبّ الله من أحبّ حسيناً. »
 
 “Al-Husayn is from me and I am from al-Husayn, Allah loves the one who
 loves al-Husayn.”[^4]
 
 Similarly, the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«الحسنُ والحسينُ سيِّدا شبابِ أهلِ الجنَّةِ. »
-  </p>
-</blockquote>
+> «الحسنُ والحسينُ سيِّدا شبابِ أهلِ الجنَّةِ. »
 
 “Al-Hasan and al-Husayn are the two masters of the youths of
 Paradise.”[^5]
@@ -214,5 +186,4 @@ Al-Musnad, vol. 3, p. 369.
 
 [^6]: Places of assembly specially built for mourning Imam al-Husayn.
 [trans.]
-
 

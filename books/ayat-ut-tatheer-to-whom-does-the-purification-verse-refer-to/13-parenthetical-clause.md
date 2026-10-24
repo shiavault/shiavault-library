@@ -52,4 +52,3 @@ Prophet (SA). Rather, it addresses other individuals and completely
 eliminates the possibility that the wives are the ones referred to by
 this great, critical, and crucial verse to Islam and the Muslims.
 
-

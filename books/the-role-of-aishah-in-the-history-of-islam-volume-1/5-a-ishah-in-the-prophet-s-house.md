@@ -555,4 +555,3 @@ concludes his remark by saying: 'Nevertheless, the respect due to her is
 intact, and God will be the judge to her deeds. He can forgive or punish
 anyone He pleases.' "
 
-

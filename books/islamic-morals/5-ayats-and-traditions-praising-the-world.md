@@ -112,7 +112,6 @@ of the world applies when what is mentioned above applies to it.
 Otherwise, as the first subject topic this world is both Grace and Mercy
 of God for the pious and the Faithful.
 
-
 **Lesson: 12 : Jealousy and its harmfulness**
 
 One of the undesirable evil attributes is jealousy that can be
@@ -317,7 +316,6 @@ measure with him of everything.
 And in respect of the other says: For every term there is an
 appointment.
 
-
 **Lesson: 13 : Greed and its harms**
 
 One of the vices which degrade man and make him world-worshipper is
@@ -399,7 +397,6 @@ must not show his needs to anyone except only one God until he becomes
 needless except that of Almighty Allah and frees himself from the
 slavery of any human being and reaches perfection of spirit.
 
-
 **Lesson: 14 : Covetousness and its harms**
 
 One of the branches of materialism is covetousness. It sometimes shows
@@ -471,7 +468,6 @@ Fourthly, The more a man becomes covetous the more he deprives him-self
 of peace of mind and falls in more grief and anger and burns in the
 internal fire. raging in his own heart.
 
-
 **Lesson: 15 : One of the branches of worldly love is a lengthy
 ambition**
 
@@ -511,7 +507,6 @@ entertained and took all of them only to graves. Thirdly, he should plan
 for its remedy and should see towards the events of the family members
 of the Holy Prophet (s.a.w.s.) so that he may clean himself in the light
 of their guidance.
-
 
 **Lesson: 16 : One of the branches of worldly love is stinginess**
 
@@ -622,5 +617,4 @@ Hell. However, religious losses of niggardliness are obvious as it
 prevents man from fulfilling his religious and desirable duties and as a
 result he becomes the subject of the verses and narrations condemning
 misery.
-
 

@@ -56,7 +56,6 @@ of four seasons, play an important role in the growth of plants, the
 life of all living creatures, the descending of rain, and storing water
 in the ground.
 
-
 **Commentary : Verse 45**
 
 45. وَاللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مَن مَآءٍ فَمِنْهُم مَن يَمْشِي
@@ -179,7 +178,6 @@ their conditions. And it is strange that all of them at first were
 created from water, and some little of the simple materials of the
 earth.
 
-
 **Commentary : Verse 46.47**
 
 46. لَقَدْ أَنزَلْنَآ ءَايَاتٍ مُبَيّـِنَاتٍ وَاللَّهُ يَهْدِي مَن
@@ -260,5 +258,4 @@ It is understood from this verse that if a person's faith remains only
 at the level of tongue and he does not really believe in Allah, he is
 not a believer, for if he were a believer his faith would not be
 rejected in this verse.
-
 

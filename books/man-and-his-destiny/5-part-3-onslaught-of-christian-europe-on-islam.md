@@ -134,4 +134,3 @@ would have been settled. In fact the belief in fate, destiny and
 monotheism does not necessarily mean predestinarianism, nor does the
 doctrine of free will imply the negation of fate.
 
-

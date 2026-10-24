@@ -74,4 +74,3 @@ Ahmad Shahristani, d. 548.
 
 *Sharh Nahjul Balagha:* Shaykh Muhammad Abduh Misri, d. 1323.
 
-

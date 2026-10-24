@@ -38,4 +38,3 @@ but made a mother's right prior to a father's.[^3]
 
 [^3]: Al-Kafi, Vol.2,P. 162.
 
-

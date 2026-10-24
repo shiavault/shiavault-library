@@ -1,18 +1,14 @@
 Chapter 3 : Detrimental Effects of Hypocrisy
 ============================================
 
-<p dir="rtl">
 اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ
 إِنَّهُمْ سَاء مَا كَانُوا يَعْمَلُونَ
-</p>
 
 “They have made their oaths a screen (for their misdeeds): thus they
 obstruct (men) from the path of Allah. Truly evil are their deeds.”[^8]
 
-<p dir="rtl">
 ذَلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَى قُلُوبِهِمْ
 فَهُمْ لَا يَفْقَهُونَ
-</p>
 
 “That is because they believed, then they rejected faith; so a seal was
 set on their hearts; therefore they understand not.”[^9]
@@ -47,7 +43,6 @@ exposed they would swear that they were innocent and thus their evil
 actions would be covered up. The hypocrites would use their oaths to
 hide their disbelief and would therefore protect themselves from
 punishment.
-
 
 **Islam’s Most Dangerous Enemy**
 
@@ -148,12 +143,11 @@ for free-will.
 
 **Notes:**
 
-[^8] 62:2
+[^8]: 62:2
 
-[^9] 62:3
+[^9]: 62:3
 
-[^10] Ima-m ?Ali- (a), Nahj al-Bala-ghah, volume 3, page 29 (?Abduh
+[^10]: Ima-m ?Ali- (a), Nahj al-Bala-ghah, volume 3, page 29 (?Abduh
 
-[^11] Ima-m ?Ali- (a), Nahj al-Bala-ghah, speech 192
-
+[^11]: Ima-m ?Ali- (a), Nahj al-Bala-ghah, speech 192
 

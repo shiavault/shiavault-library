@@ -1,20 +1,12 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 Let us imagine that an authentic *hadith* of the Prophet, *sallallahu
 ‘alaihi wa alihi*, reads:
 
-<blockquote dir="rtl">
-  <p>
-أبو بكر خليفتي في كل مؤمن من بعدي
-  </p>
-</blockquote>
+> أبو بكر خليفتي في كل مؤمن من بعدي
 
 Abu Bakr is my *khalifah* over every believer after me.
 
@@ -22,21 +14,13 @@ How would the Ahl al-Sunnah have interpreted it?
 
 What about this one:
 
-<blockquote dir="rtl">
-  <p>
-أبو بكر ولي كل مؤمن بعدي
-  </p>
-</blockquote>
+> أبو بكر ولي كل مؤمن بعدي
 
 Abu Bakr is the *wali* of every believer after me.
 
 Or this:
 
-<blockquote dir="rtl">
-  <p>
-أبو بكر أخي وصاحبي ووارثي ووزيري
-  </p>
-</blockquote>
+> أبو بكر أخي وصاحبي ووارثي ووزيري
 
 Abu Bakr is my brother, and my companion, and my inheritor and my
 *wazir*.
@@ -77,5 +61,4 @@ We seek Allah’s Help in this effort, and we implore Him to forgive us
 all our mistakes in it, and to accept it as a worthy act of *‘ibadah*.
 And may Allah send His *salawat* and *barakat* upon our master, Muhammad
 b. ‘Abd Allah, and upon his purified offspring.
-
 

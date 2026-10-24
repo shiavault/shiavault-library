@@ -9,4 +9,3 @@ it with stones from a far distance.
 away from the sick animal, and facing them, said “Have you not heard
 that you should not pester animals because they too have a life”.
 
-

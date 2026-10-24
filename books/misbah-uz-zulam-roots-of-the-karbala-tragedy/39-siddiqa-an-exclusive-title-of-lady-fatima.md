@@ -71,4 +71,3 @@ of the decrease in the respect of Amirul Mo-mineen is mentioned below.
 
 [^3]: Pg. 192
 
-

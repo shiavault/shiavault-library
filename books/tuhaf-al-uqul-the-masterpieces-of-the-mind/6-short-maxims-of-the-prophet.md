@@ -241,7 +241,6 @@ certain." I call to Him who relieves your injury if you supplicate to
 Him, supports when any anguished one seeks His help, and richens when
 any poor implores to Him.
 
-
 The man then asked for instructions, the Prophet (peace be upon him and
 his family) said: Never be angry. The man asked for more, and the
 Prophet (peace be upon him and his family) said: Please people in the
@@ -1058,5 +1057,4 @@ God does not accept to make the earnings of their faithful servants
 come from the sources that they expect. 192. A servant of God will not
 attain the position of God-fearing before he leaves the licit if
 suspected so as not to commit an illicit matter.
-
 

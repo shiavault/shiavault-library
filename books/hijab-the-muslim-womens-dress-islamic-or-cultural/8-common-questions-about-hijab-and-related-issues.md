@@ -116,4 +116,3 @@ his sister-in-law or a female cousin.
 
 ![](/sites/default/files/mahram.jpg)
 
-

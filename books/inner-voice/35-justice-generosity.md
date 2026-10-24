@@ -45,4 +45,3 @@ offers no solution to the sufferings of our times. The only refuge is in
 the precincts of Islam which accepts the authority of God in every
 Sphere of our life, be it material of spiritual.
 
-

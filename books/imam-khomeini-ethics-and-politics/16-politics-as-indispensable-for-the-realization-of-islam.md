@@ -246,4 +246,3 @@ rather, a function of the form of rule and government, its goals and
 officials.           
   
 
-

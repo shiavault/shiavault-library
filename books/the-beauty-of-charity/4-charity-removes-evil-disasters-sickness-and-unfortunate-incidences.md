@@ -239,4 +239,3 @@ good act, she had been saved from death. [^11]
 
 [^11]: Liaalil Akhbaar Page 82
 
-

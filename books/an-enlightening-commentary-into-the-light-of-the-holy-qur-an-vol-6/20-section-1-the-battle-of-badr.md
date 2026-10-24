@@ -4,19 +4,11 @@ Section 1: The Battle of Badr
 Surah Al-Anfal – Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ
-ۖ فَاتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا
-اللَّهَ وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ
+> ۖ فَاتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا
+> اللَّهَ وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -147,19 +139,11 @@ spend out of my wealth and produce reconciliation between them.”*[^3]
 Surah Al-Anfal – Verses 2-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ
-قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا
-وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ
+> قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا
+> وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
 
 **2*****. “Verily believers are only those who, when Allah is mentioned,
 their hearts quake, and when His Signs are recited to them, it increases
@@ -220,12 +204,8 @@ have provided them.”***
 Surah Al-Anfal – Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَهُمْ دَرَجَاتٌ عِنْدَ
-رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
-  </p>
-</blockquote>
+> أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَهُمْ دَرَجَاتٌ عِنْدَ
+> رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
 
 **4*****. “These are the believers in truth; they have ranks with their
 Lord, and forgiveness, and a noble sustenance.”***
@@ -266,12 +246,8 @@ and trusting in Allah come forth.
 Surah Al-Anfal – Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا
-مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ
-  </p>
-</blockquote>
+> كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا
+> مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ
 
 **5*****. “Just as your Lord caused you to go forth from your house with
 the truth, through a party of the believers were certainly averse (to
@@ -293,12 +269,8 @@ it).”***
 Surah Al-Anfal – Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُجَادِلُونَكَ فِي الْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ
-إِلَى الْمَوْتِ وَهُمْ يَنْظُرُونَ
-  </p>
-</blockquote>
+> يُجَادِلُونَكَ فِي الْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ
+> إِلَى الْمَوْتِ وَهُمْ يَنْظُرُونَ
 
 **6.** ***“They dispute with you about the truth after it became clear,
 as if they see they are being driven unto death.*** **“**
@@ -336,14 +308,10 @@ verse says:
 Surah Al-Anfal – Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ أَنَّهَا لَكُمْ
-وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ
-اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ وَيَقْطَعَ دَابِرَ
-الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ أَنَّهَا لَكُمْ
+> وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ
+> اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ وَيَقْطَعَ دَابِرَ
+> الْكَافِرِينَ
 
 **7.** ***“And (remember) when Allah promised you one of the two parties
 should be yours, and you loved that the one unarmed should be yours; but
@@ -407,11 +375,7 @@ the roots of infidels.”***
 Surah Al-Anfal – Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ
 
 **8.** ***“That He might verify the truth and bring vanity to naught,
 though the guilty were averse (to it).”***
@@ -432,12 +396,8 @@ The verse says:
 Surah Al-Anfal – Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ
-بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ
-  </p>
-</blockquote>
+> إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ
+> بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ
 
 **9.** ***“(Remember) when you were calling upon your Lord for succor,
 and He answered you (saying): ‘I shall assist you with a thousand of the
@@ -490,13 +450,9 @@ following one another’.”***
 Surah Al-Anfal – Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ
-قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ ۚ إِنَّ
-اللَّهَ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ
+> قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ ۚ إِنَّ
+> اللَّهَ عَزِيزٌ حَكِيمٌ
 
 **10*****. “And Allah did not appoint it, save as good tidings and that
 your hearts thereby might be at rest; and no victory is there save from
@@ -545,5 +501,4 @@ there save from Allah, surely Allah is the Mighty the Wise.”***
 [^2]: Nahj-ul-Balaghah
 
 [^3]: Usul-I-Kafi, Chapter ‘Reconciliation’, tradition No.2
-
 

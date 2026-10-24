@@ -35,11 +35,7 @@ connection with the issue of qisas.
 A close study of the verses of qisas in the Qur’an would make manifest
 the answers to these objections.
 
-<blockquote dir="rtl">
-  <p>
-وَ لَکُم فِي الْقِصَاصِ حَياَةٌ يَا أُولِي الأََلْبَابِ
-  </p>
-</blockquote>
+> وَ لَکُم فِي الْقِصَاصِ حَياَةٌ يَا أُولِي الأََلْبَابِ
 
 ***“And there is life for you in (the law of) retaliation, O men of
 understanding, that you may guard yourselves.”***[^1]
@@ -127,5 +123,4 @@ thought.[^2]
 [^1]: Suratul Baqarah (2), Verse 179
 
 [^2]: Tafsir-e-Namuna, vol. 1, pg. 607
-
 

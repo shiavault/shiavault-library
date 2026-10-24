@@ -252,4 +252,3 @@ when he was giving finishing touches to his logistical plans, he was
 assassinated in the Great Mosque of Kufa at the dawn of Ramadan 19 of 40
 A.H. (January 27, 661).
 
-

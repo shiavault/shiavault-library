@@ -372,4 +372,3 @@ knowledge of Him and His Attributes, it is also wrong to wander in the
 fields of comparison, and seeing Him somehow like one of His creatures,
 as both these ways lead to extremes.
 
-

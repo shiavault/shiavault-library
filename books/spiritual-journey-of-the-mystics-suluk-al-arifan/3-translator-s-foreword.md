@@ -185,4 +185,3 @@ recitation is particularly recommended during Friday night (i.e., night
 after the end of Thursday). For the text see Sheikh Abbas Qummi's
 Mafatih al-Jinan pp. 83-90 [Tr.]
 
-

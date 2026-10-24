@@ -3,17 +3,9 @@ Sermon 140: Those who do not commit sins….
 
 *About backbiting and speaking ill of others* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في النهي عن عيب الناس
-  </p>
-</blockquote>
+> في النهي عن عيب الناس
 
 Those who do not commit sins and have been gifted with safety (from
 sins) should take pity on sinners and other disobedient people.
@@ -27,21 +19,17 @@ committed a similar sin he must have committed bigger ones. By Allah,
 even if he did not commit big sins but committed only small sins, his
 exposing the sins of people is itself a big sin.
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّمَا يَنْبَغِي لاَِهْلِ الْعِصْمَةِ وَالْمَصْنُوعِ إِلَيْهمْ فِي
-السَّلاَمَةِ أَنْ يَرْحَمُوا أَهْلَ الذُّنُوبِ وَالْمَعْصِيَةِ،
-وَيَكُوَنَ الشُّكْرُ هُوَ الْغَالِبَ عَلَيْهِمْ وَالْحَاجِزَ لَهُمْ
-عَنْهُمْ، فَكَيْفَ بِالْعَائِبِ الَّذِي عَابَ أَخَاهُ وَعَيَّرَهُ
-بِبَلْوَاهُ! أَمَا ذَكَرَ مَوْضِعَ سَتْرِ اللهِ عَلَيْهِ مَنْ
-ذُنُوبِهِ [مِـ ]مَّا هُوَ أَعْظَمُ مِنَ الذَّنْبِ الَّذِي عَابَهُ
-بِهِ! وَكَيْفَ يَذُمُّهُ بِذَنْب قَدْ رَكِبَ مِثْلَهُ؟! فَإِنْ لَمْ
-يَكُنْ رَكِبَ ذلِكَ الذَّنْبَ بَعَيْنِهِ فَقَدْ عَصَى اللهَ فِيَما
-سِوَاهُ، مِمَّا هُو أَعْظَمُ مِنْهُ، وَايْمُ اللهِ لَئِنْ لَمْ يَكُنْ
-عَصَاهُ فِي الْكَبِيرِ، وَعَصَاهُ فِي الصَّغِيرِ، لجُرْأتُهُ عَلَى
-عَيْبِ النَّاسِ أَكْبَرُ!
-  </p>
-</blockquote>
+> وَإِنَّمَا يَنْبَغِي لاَِهْلِ الْعِصْمَةِ وَالْمَصْنُوعِ إِلَيْهمْ فِي
+> السَّلاَمَةِ أَنْ يَرْحَمُوا أَهْلَ الذُّنُوبِ وَالْمَعْصِيَةِ،
+> وَيَكُوَنَ الشُّكْرُ هُوَ الْغَالِبَ عَلَيْهِمْ وَالْحَاجِزَ لَهُمْ
+> عَنْهُمْ، فَكَيْفَ بِالْعَائِبِ الَّذِي عَابَ أَخَاهُ وَعَيَّرَهُ
+> بِبَلْوَاهُ! أَمَا ذَكَرَ مَوْضِعَ سَتْرِ اللهِ عَلَيْهِ مَنْ
+> ذُنُوبِهِ [مِـ ]مَّا هُوَ أَعْظَمُ مِنَ الذَّنْبِ الَّذِي عَابَهُ
+> بِهِ! وَكَيْفَ يَذُمُّهُ بِذَنْب قَدْ رَكِبَ مِثْلَهُ؟! فَإِنْ لَمْ
+> يَكُنْ رَكِبَ ذلِكَ الذَّنْبَ بَعَيْنِهِ فَقَدْ عَصَى اللهَ فِيَما
+> سِوَاهُ، مِمَّا هُو أَعْظَمُ مِنْهُ، وَايْمُ اللهِ لَئِنْ لَمْ يَكُنْ
+> عَصَاهُ فِي الْكَبِيرِ، وَعَصَاهُ فِي الصَّغِيرِ، لجُرْأتُهُ عَلَى
+> عَيْبِ النَّاسِ أَكْبَرُ!
 
 O creature of Allah, do not be quick in exposition anyone's sin for he
 may be forgiven for it, and do not feel yourself safe even for a small
@@ -50,16 +38,12 @@ comes to know the faults of others should not expose them in view of
 what he knows about his own faults, and he should remain busy in thanks
 that he has been saved from what others have been indulging in.
 
-<blockquote dir="rtl">
-  <p>
-يَا عَبْدَ اللهِ، لاَ تَعْجَلْ فِي عَيْبِ أَحَد بِذَنْبِهِ،
-فَلَعَلَّهُ مَغْفُورٌ لَهُ، وَلاَ تَأْمَنْ عَلَى نَفْسِكَ صَغِيرَ
-مَعْصِيَة، فَلَعَلَّكَ مُعَذَّبٌ عَلَيْهِ; فَلْيَكْفُفْ مَنْ عَلِمَ
-مِنْكُمْ عَيْبَ غَيْرِهِ لِمَا يَعْلَمُ مِنْ عَيْبِ نَفْسِهِ،
-وَلْيَكُنِ الشُّكْرُ شَاغِلاً لَهُ عَلَى مُعَافَاتِهِ مِمَّا ابْتُلِيَ
-بِهِ غَيْرُهُ.
-  </p>
-</blockquote>
+> يَا عَبْدَ اللهِ، لاَ تَعْجَلْ فِي عَيْبِ أَحَد بِذَنْبِهِ،
+> فَلَعَلَّهُ مَغْفُورٌ لَهُ، وَلاَ تَأْمَنْ عَلَى نَفْسِكَ صَغِيرَ
+> مَعْصِيَة، فَلَعَلَّكَ مُعَذَّبٌ عَلَيْهِ; فَلْيَكْفُفْ مَنْ عَلِمَ
+> مِنْكُمْ عَيْبَ غَيْرِهِ لِمَا يَعْلَمُ مِنْ عَيْبِ نَفْسِهِ،
+> وَلْيَكُنِ الشُّكْرُ شَاغِلاً لَهُ عَلَى مُعَافَاتِهِ مِمَّا ابْتُلِيَ
+> بِهِ غَيْرُهُ.
 
 Alternative Sources for Sermon 140
 ----------------------------------
@@ -138,5 +122,4 @@ avoid discussing it is better, since it is possible one of the two might
 have forgotten it. 12) To expose the evils of one who openly commits
 evils is not back-biting as the tradition runs: "There is no backbiting
 in the case of he who has torn away the veil of shamefulness."
-
 

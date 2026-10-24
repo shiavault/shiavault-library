@@ -115,4 +115,3 @@ opening the doors and curtains for Imam (A).
 No-one can do anything to you when Allah is looking after you, as Allah
 is the most powerful and in control of everything.
 
-

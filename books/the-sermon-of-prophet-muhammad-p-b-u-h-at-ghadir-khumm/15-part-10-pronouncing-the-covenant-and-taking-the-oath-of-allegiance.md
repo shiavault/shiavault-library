@@ -186,4 +186,3 @@ vol. 37, pp. 118-222, Ahadith 7-90, from numerous authorities.
 § According to Iqbal al-A’mal, p. 454, narrated from Hudhaifa Ibn
 Yamaan. This part has also been narrated .
 
-

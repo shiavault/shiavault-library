@@ -26,10 +26,8 @@ Readers are requested to accord due respect to this booklet in view of
 the Holy quatations contained in therein. Also to help us in circulating
 it as as to spread the benefit as widely as possible.
 
-
 Ahmed H. Sheriff
 P.O.box 83856
 Mombasa
 Kenya
-
 

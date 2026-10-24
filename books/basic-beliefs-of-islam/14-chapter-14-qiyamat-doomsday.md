@@ -612,4 +612,3 @@ nor it will be destroyed by any accident. "We have not created the
 heavens and the earth, and all that lies between them but with a
 purpose, according to a pre-fixed measurement. [Quran - 46:3]
 
-

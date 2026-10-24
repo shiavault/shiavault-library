@@ -230,4 +230,3 @@ provide the fundamentally sound, inner understanding which can connect
 to the outer understanding. The knowledge of the One comes from within;
 it is the knowledge of the entire system.
 
-

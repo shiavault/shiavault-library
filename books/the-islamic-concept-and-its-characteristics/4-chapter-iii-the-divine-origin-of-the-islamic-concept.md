@@ -1058,15 +1058,14 @@ appreciate the great blessing and favor of Allah upon us in giving us
 this concept and keeping it secure from human interpolation and
 interference.
 
-[^1] For a detailed discussion, refer to the chapter entitled,
+[^1]: For a detailed discussion, refer to the chapter entitled,
 "Intellectual Training" in the book, The Islamic Educational Method, by
 Muhammad Qutb.
 
-[^2] Man the Unknown. Harper & Brothers. 1935. pp. 4-5.
+[^2]: Man the Unknown. Harper & Brothers. 1935. pp. 4-5.
 
-[^3] Ibid., pp. 5-6.
-[^4] Man the Unknown, Harper & Brothers, 1935, pp. 8-10.
+[^3]: Ibid., pp. 5-6.
+[^4]: Man the Unknown, Harper & Brothers, 1935, pp. 8-10.
 
-[^5] Nadwi, Islam and tbe World, pp. 62- 63
-
+[^5]: Nadwi, Islam and tbe World, pp. 62- 63
 

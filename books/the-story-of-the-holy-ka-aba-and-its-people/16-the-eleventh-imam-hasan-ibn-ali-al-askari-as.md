@@ -271,4 +271,3 @@ was transformed into a great mausoleum and pilgrims from all over the
 Islamic lands came to pay their homage to the two Imams of Ahlul Bayt
 who were buried there.
 
-

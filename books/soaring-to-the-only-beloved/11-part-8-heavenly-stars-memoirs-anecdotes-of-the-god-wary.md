@@ -21,23 +21,15 @@ I observed this from him as an established habit...
 
 Allah (swt) says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
 
 ***Surely Allah Loves those who turn unto Him constantly and Loves those
 who continually purify themselves.*** [^1]
 
 The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ان استطعت ان تكون ابدا علئ وضوء فافعل: فان ملك الموت اذا قبض روح العبد
-وهو علئ وضوء كتب له شهادة
-  </p>
-</blockquote>
+> ان استطعت ان تكون ابدا علئ وضوء فافعل: فان ملك الموت اذا قبض روح العبد
+> وهو علئ وضوء كتب له شهادة
 
 If you can always be in the state of *wudu'*, than do so; for verily if
 the Angel of death were to take the soul of a servant of God while the
@@ -45,11 +37,7 @@ latter is in the state of *wudu,* martyrdom is written for him.[^2]
 
 Imam Ja’far al-Sadiq (\`a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الوضوء علئ الوضوء نور علي نور
-  </p>
-</blockquote>
+> الوضوء علئ الوضوء نور علي نور
 
 *Wudu* upon *wudu* is light upon light. [^3]
 
@@ -129,12 +117,8 @@ Ms. Marziyeh Hadidechi
 
 Allah (SWT) says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاةِ الْوُسْطَى وَقُومُوا لِلَّهِ
-قَانِتِينَ
-  </p>
-</blockquote>
+> حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاةِ الْوُسْطَى وَقُومُوا لِلَّهِ
+> قَانِتِينَ
 
 ***Be you watchful over the prayers,***
 
@@ -144,11 +128,7 @@ Allah (SWT) says in the Holy Qur'an:
 
 The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-افضل الاعمال عند الله الصلاة في اول وقتها
-  </p>
-</blockquote>
+> افضل الاعمال عند الله الصلاة في اول وقتها
 
 “The best of deeds to Allah is prayer in the beginning of its time”
 
@@ -439,11 +419,7 @@ Shaykh Muhsin Gharawiyyan
 3) The Hereafter
 ----------------
 
-<blockquote dir="rtl">
-  <p>
-والله مااخاف عليكم الا البرزخ
-  </p>
-</blockquote>
+> والله مااخاف عليكم الا البرزخ
 
 I swear by Allah, I do not fear for you except in *barzakh*
 
@@ -505,11 +481,7 @@ the next world) is very difficult.[^15]' The doctors then came, and Imam
 
 Fatima Tabataba'I, *The daughter-in-law of Imam Khumayni*
 
-<blockquote dir="rtl">
-  <p>
-الصراط ادق من الشعرة واحد من السيف
-  </p>
-</blockquote>
+> الصراط ادق من الشعرة واحد من السيف
 
 'The path (*sirat*) is finer than the hair and sharper than the sword.'
 
@@ -532,13 +504,9 @@ Khumayni*
 
 Allah (swt) says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-يَصْنَعُونَ
-  </p>
-</blockquote>
+> قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ذَلِكَ أَزْكَى لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> يَصْنَعُونَ
 
 ***Say to the believers,***
 
@@ -623,5 +591,4 @@ the team of physicians and those affiliated to Imam Khumayni, pp. 83-84.
 
 [^20]: Sayyid \`Adil \`Alawi, Qabasat min Hayati Sayyidinal Ustadh, p.
 95
-
 

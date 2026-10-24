@@ -95,14 +95,12 @@ you have meanly lied.”* [^175]
 The Imam (a.s.) then turned to al-Walid to declare his determination to
 reject the matter completely:
 
-<p dir="rtl">
 أَيُّهَا الْأَمِيْرُ إِنَّا أَهْلُ بَيْتِ النُّبُوَّةِ وَ مَعْدِنُ
 الرِّسَالَةِ وَ مُخْتَلَفُ الْمَلَائِكَةِ وَ مَحِلُّ الرَّحْمَةِ. بِنَا
 فَتَحَ اللَّهُ وَ بِنَا خَتَمَ. وَ يَزِيدُ رَجُلٌ فَاسِقٌ شَارِبُ
 الْخَمْرِ قَاتِلُ النَّفْسِ الْمُحَرَّمَةِ مُعْلِنٌ بِالْفِسْقِ وَ
 مِثْلِي لَا يُبَايِعُ مِثْلَهٗ . وَ لٰكِنْ نُصْبِحُ وَ تُصْبِحُوْنَ وَ
 نَنْظُرُ وَ تَنْظُرُوْنَ أَيُّنَا أَحَقُّ بِا لْخِلَافَةِوَ الْبَيْعَةِ.
-</p>
 
 *“O Governor, we are the Household of prophesy, the core of the (divine)
 message, frequently visited by the Angels, and (we are) the center of
@@ -472,7 +470,6 @@ the desert.
 At any rate, before he left Mecca, Imam al-Husain (a.s.) called for a
 general meeting during which he delivered an address:
 
-<p dir="rtl">
 اَلْحَمْدُ لِلَّهِ وَ مَا شَاءَ اللَّهُ وَ لَا حَوْلَ وَ لَا قُوَّةَ
 إِلَّا بِاللَّهِ وَ صَلَّى اللَّهُ عَلٰى رَسُولِه وَ سَلَّمَ خُطَّ
 الْمَوْتُ عَلٰى وُلْدِ آدَمَ مَخَطَّ الْقِلَادَةِ عَلٰى جِيْدِ
@@ -481,9 +478,7 @@ general meeting during which he delivered an address:
 بِأَوْصَالِيْ تُقَطِّعُهَا عُسْلَانُ الْفَلَوَاتِ بَيْنَ النَّوَاوِيْسِ
 وَ كَرْبَلَاءَ فَيَمْلَأَنَّ مِنِّي أَكْرَاشًا جُوفًا وَ أَجْرِبَةُ
 سُغْبًا لَا مَحِيْصَ عَنْ يَوْمٍ خُطَّ بِالْقَلَمِ.
-</p>
 
-<p dir="rtl">
 رِضَا اللَّهِ رِضَانَا أَهْلَ الْبَيْتِ نَصْبِرُ عَلٰى بَلَائِه وَ
 يُوَفِّيْنَا أُجُوْرَ الصَّابِرِيْنَ لَنْ تَشُذَّ عَنْ رَسُولِ اللَّهِ
 ((صلی الله علیه و آله و سلم) ) لَحْمَتُهٗ وَ هِيَ مَجْمُوعَةٌ لَهٗ فِي
@@ -491,7 +486,6 @@ general meeting during which he delivered an address:
 وَعْدَِهٗ . مَنْ كَانَ بَاذِلًا مُهْجَتَهٗ مُوَطِّنًا عَلٰى لِقَاءِ
 اللَّهِ نَفْسَهٗ فَلْيَرْحَلْ مَعَنَا فَإِنِّي رَاحِلٌ مُصْبِحًا إِنْ
 شَاءَ اللَّهُ تَعَالٰي.
-</p>
 
 *All praise is due to Allah (s.w.t.), only that which Allah (s.w.t.)
 wants will come to pass, there is no strength save in Allah (s.w.t.),
@@ -602,7 +596,6 @@ horses were given water.
 After that, the Imam (a.s.) delivered an articulate sermon to the troops
 of that army:
 
-<p dir="rtl">
 أَيُّهَا النَّاسُ اِنَّهَا مَعْذِرَةٌ اِلَي اللهِ وَ اِلَيْكُمْ. إِنِّي
 لَمْ آتِكُمْ حَتّٰى أَتَتْنِيْ كُتُبُكُمْ وَ قَدِمَتْ عَلَيَّ رُسُلُكُمْ
 أَنْ اَقْدِمْ عَلَيْنَا فَاِنَّهٗ لَيْسَ لَنَا إِمَامٌ لَعَلَّ اللَّهَ
@@ -610,7 +603,6 @@ of that army:
 فَقَدْ جِئْتُكُمْ فَأَعْطُوْنِيْ مَا أَطْمَئِنُّ بِه مِنْ عُهُودِكُمْ وَ
 مَوَاثِيْقِكُمْ وَ إِنْ كُنْتُمْ لِمَقْدَمِي كَارِهِيْنَ انْصَرَفْتُ
 عَنْكُمْ إِلَى الْمَكَانِ الَّذِي جِئْتُ مِنْهُ إِلَيْكُمْ.
-</p>
 
 *People: This is only an argument intended to release me from the
 responsibility that lies on me with regard to Allah (s.w.t.) and you. I
@@ -633,14 +625,12 @@ asked whether he would lead the collective prayer for his companions.
 performed the Asr afternoon Prayer, the Imam (a.s.) delivered another
 sermon:
 
-<p dir="rtl">
 أَيُّهَا النَّاسُ إِنَّكُمْ إِنْ تَتَّقُوا اللَّهَ وَ تَعْرِفُوْا
 الْحَقَّ وَأَهْلَهٗ يَكُنْ أَرْضٰى لِلَّهِ. وَ نَحْنُ أَهْلَالْبَيْتِ
 أَوْلٰى بِهٰذَا الْأَمْرِ مِنْ هٰؤُلَاءِ الْمُدَّعِينَ مَا لَيْسَ لَهُمْ
 وَ السَّائِرِيْنَ فِيكُمْ بِالْجَوْرِ وَ الْعُدْوَانِ‏وَ إِنْ أَنْتُمْ
 إِلَّا كَرِهْتُمُوْنَا وَ جَهِلْتُمْ حَقَّنَا وَ كَانَ رَأْيُكُمُ الْآنَ
 عَلٰي غَيْرِ مَا أَتَتْنِي بِه كُتُبُكُمُ انْصَرَفْتُ عَنْكُمْ.
-</p>
 
 *People: if you fear Allah (s.w.t.) and recognize the people of the
 right, this will surely please Him more than anything else. We the Ahl
@@ -682,7 +672,6 @@ and al-Qadisiyyah,[^225] and al-Hurr’s army watched them.
 
 In a place called al-Bayda, the Imam (a.s.) delivered a sermon:
 
-<p dir="rtl">
 اَيُّهَا النَّاسُ اِنَّ رَسُولَ اللَّهِ(صلی الله علیه و آله و سلم)
 قَالَ:   مَنْ رَأَى سُلْطَانًا جَائِرًا مُسْتَحِلًّا لِحُرُمِ اللَّهِ-
 نَاكِثًا لِعَهْدِ اللَّهِ مُخَالِفًا لِسُنَّةِ رَسُولِ اللَّهِ(صلی الله
@@ -693,7 +682,6 @@ In a place called al-Bayda, the Imam (a.s.) delivered a sermon:
 الرَّحْمَنِ وَ أَظْهَرُوا الْفَسَادَوَ عَطَّلُوْا الْحُدُودَ وَ
 اسْتَأْثَرُوا بِالْفَيْ‏ءِ،وَ أَحَلُّوْا حَرَامَ اللَّهِ وَ حَرَّمُوْا
 حَلَالَهٗ وَ اَنَا أَحَقُّ مِمَّنْ غَيْرَ
-</p>
 
 *People: the Messenger of Allah (s.a.w.a.) said, “For anyone who knows
 an unjust ruler that is violating Allah’s sanctities, breaking the
@@ -709,7 +697,6 @@ dedicated the treasuries to themselves, deemed lawful things that Allah
 (s.w.t.) has decided lawful. I am worthier of holding this position than
 those who distorted (the principles of Islam).*
 
-<p dir="rtl">
 وَ قَدْ أَتَتْنِي كُتُبُكُمْ وَ قَدِمَتْ عَلَيَّ رُسُلُكُمْ
 بِبَيْعَتِكُمْأَنَّكُمْ لَا تُسَلِّمُونِي وَ لَا تَخْذُلُونِي فَإِنْ
 اَقَمْتُمْعَلٰي بَيْعَتِكُمْ تُصِيْبُوْا رُشْدَكُمْ. فَاَنَاالْحُسَيْنُ
@@ -722,7 +709,6 @@ those who distorted (the principles of Islam).*
 نَصِيبَكُمْ ضَيَّعْتُمْ. فَمَنْ نَكَثَ فَإِنَّما يَنْكُثُ عَلٰى‏ نَفْسِه
 وَ سَيُغْنِي اللَّهُ عَنْكُمْ وَ السَّلَامُ عَلَيْكُمْ وَ رَحْمَةُ
 اللهِ وَ بَرَكَاتُهٗ . ‏
-</p>
 
 *I have received your missives and your Messengers who reported to me
 that you paid homage to me and that you would neither let me down nor
@@ -777,5 +763,4 @@ message from Ubaydullah ibn Ziyad to al-Hurr: “As soon as you receive
 this message, lead al-Husain to a derelict place in the desert where
 there is no shelter or water. I have also ordered this Messenger to
 haunt you until you carry out this order.”[^229]
-
 

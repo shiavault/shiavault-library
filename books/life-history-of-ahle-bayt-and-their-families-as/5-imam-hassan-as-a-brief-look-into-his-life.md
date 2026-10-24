@@ -491,4 +491,3 @@ they buried him in (the cemetery of) al-Baqi' beside his grandmother,
 Fatima daughter of Asad b. Hashim b. 'Abd Manaf, may God be pleased with
 her.
 
-

@@ -70,4 +70,3 @@ Ahlul Bayt (AS). Praise be to Allah (SWT) who created the holy month of
 Sha’ban and specialized it with its unique honor that is associated with
 the manifestation of divine effulgence and heavenly guidance.
 
-

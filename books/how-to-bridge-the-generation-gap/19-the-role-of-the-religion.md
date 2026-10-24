@@ -12,11 +12,7 @@ mother, but rather, will make them hopeful of a happy future for you.
 That is because religion is the means of improving peoples conduct. The
 Prophet (S.) says:
 
-<blockquote dir="rtl">
-  <p>
-اني بعثت لا تمم مكارم الاخلاق
-  </p>
-</blockquote>
+> اني بعثت لا تمم مكارم الاخلاق
 
 “I was assigned (to Prohethood) so that human being may achieve
 perfection in good conduct.” [^1]  
@@ -27,11 +23,7 @@ the parents are dutiful to accept such a child with open arms and to
 offer him religious guidance following logic of the Holy Qur'an as it
 says:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-  </p>
-</blockquote>
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
 
 ***“Invite (all) to the Way of thy Lord with wisdom and beautiful
 preaching: and argue with them in ways that are best and most
@@ -48,5 +40,4 @@ I should thank you for that and I am hopeful that with your help and
 guidance, I will be able to acquire new knowledge about religion.
 
 [^1]: Mohjatul Baiza, vol. v.p. 89.
-
 

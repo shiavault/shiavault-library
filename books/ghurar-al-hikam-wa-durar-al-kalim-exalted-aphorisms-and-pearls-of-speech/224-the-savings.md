@@ -15,13 +15,8 @@ The Savings
 that is not followed by obligation
 
 > 3ـ أفْضَلُ الذَّخائِرِ عِلْمٌ يُعْمَلُ بِهِ، ومَعْرُوفٌ لايُمَنُّ
-<blockquote dir="rtl">
-  <p>
-بِهِ.
-  </p>
-</blockquote>
+> بِهِ.
 
 [^1]: The literal meaning of this word is: a thing that is stored or
 reposited for a time of need.
-
 

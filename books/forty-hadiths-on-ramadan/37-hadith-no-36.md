@@ -12,4 +12,3 @@ there one, who turns to me in repentance so that I turn to him (in
 Mercy)? Is there one, who seeks forgiveness from Me so that I forgive
 him?*Mustadrak al-Wasaail, vol. 7, pg. 429*
 
-

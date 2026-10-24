@@ -173,4 +173,3 @@ Marriage” Hadith 1888; Musnad Ahmad ibn Hanbal, Part 6, 166, 186, and
 “Book in the Virtues” Hadith 4374; al-Nisa΄i “Book on Funerals” Hadith
 2062; Musnad Ahmad ibn Hanbal, Vol. 2, 269, 315, 351, and 533
 
-

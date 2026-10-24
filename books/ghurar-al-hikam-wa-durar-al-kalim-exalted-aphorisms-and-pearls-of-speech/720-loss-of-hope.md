@@ -19,13 +19,9 @@ and verily loss of hope [in others] and contentment are a manifest
 affluence.
 
 > 3ـ إنَّ أكْرَمَ النّاسِ مَنِ اقْتَنَى الْيَأْسَ، ولَزِمَ القُنُوعَ
-<blockquote dir="rtl">
-  <p>
-والوَرَعَ، وبَرِيَ مِنَ الحِرْصِ والطَّمََعِ، فَإنَّ الطَّمَعَ
-والحِرْصَ اَلْفَقْرُ الحاضِرُ، وإنَّ الْيَأسَ والقَناعَةَ الغِنىَ
-الظّاهِرُ.
-  </p>
-</blockquote>
+> والوَرَعَ، وبَرِيَ مِنَ الحِرْصِ والطَّمََعِ، فَإنَّ الطَّمَعَ
+> والحِرْصَ اَلْفَقْرُ الحاضِرُ، وإنَّ الْيَأسَ والقَناعَةَ الغِنىَ
+> الظّاهِرُ.
 
 4. Loss of hope [in others] is freedom.
 
@@ -78,11 +74,7 @@ you will become safe from their malice and you will acquire their
 affection.
 
 > 15ـ تَحَلَّ بِالْيَأسِ مِمّا في أيْدِي النّاسِ، تَسْلَمْ مِنْ
-<blockquote dir="rtl">
-  <p>
-غَوائِلِهِمْ، وتُحْرِزِ المَوَدَّةَ مِنْهُمْ.
-  </p>
-</blockquote>
+> غَوائِلِهِمْ، وتُحْرِزِ المَوَدَّةَ مِنْهُمْ.
 
 16. Hastening the loss of hope [in others] is one of the two triumphs.
 
@@ -115,5 +107,4 @@ possess.
 [^1]: The concept of losing hope here is one where hope is not placed in
 the help (and possessions) of creastures, rather one places his hope
 only in Allah.
-
 

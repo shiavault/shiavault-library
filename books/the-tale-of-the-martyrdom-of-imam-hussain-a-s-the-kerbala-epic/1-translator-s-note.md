@@ -13,4 +13,3 @@ adorning the translation throughout.
 
 **Najim al-Khafaji, B.A.**
 
-

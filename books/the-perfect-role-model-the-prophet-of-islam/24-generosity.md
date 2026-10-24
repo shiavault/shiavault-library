@@ -111,4 +111,3 @@ child. The child gave it to his mother.[^5]
 
 [^5]: Sharaf an-Nabi, p. 78.
 
-

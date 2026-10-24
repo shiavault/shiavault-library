@@ -17,4 +17,3 @@ suffice and its qada' is wajib upon him.
 • Most Imamis state: Its qada' is not wajib upon him, except when he had
 fasted with the niyyah of Ramadan.
 
-

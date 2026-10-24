@@ -1,28 +1,24 @@
 25) God Wariness And Knowledge
 ==============================
 
-<blockquote dir="rtl">
-  <p>
-"وَاعلَم يَا بُنَيَّ اَنَّ اَحبَّ مَا انْتَ آخِذٌ بِهِ اِليَّ مِن
-وَصِيَّتِي تَقوَى الله وَالاِقتِصَار على مَا فَرَضَهُ الله عَلَيكَ،
-وَالاَخْذَ بِمَا مَضَى عَلَيهِ الاَوّلُونَ مِن آبَائِكَ وَالصَالِحُونَ
-مِن اَهلِ بَيتِكَ، فَاِنَّهُم لَم يَدَعُوا اَن نَظَروا لاَنفُسِهِم
-كَمَا اَنتَ نَاظِرٌ، وَفَكَّرُوا كَمَا اَنتَ مُفَكِّرٌ ثُمَّ رَدَّهُم
-آخِرُ ذلِكَ اِلى الاَخْذِ بِمَا عَرَفُوا، وَالاِمسَاكِ عَمَّالَم
-يُكَلَّفُوا، فَاِن أبَت نَفسُكَ اَن تَقبَلَ ذَلِكَ دُونَ اَن تَعلَمَ
-كَمَا عَلِمُوا، فَليَكُن طَلَبُكَ ذَلِكَ بِتَفَهُّمٍ وَتَعلُّمٍ لا
-بِتَورّط الشُّبُهاتِ وعُلَقِ (عُلُوِّ) الخُصُومَاتِ، وَابَدَأ قَبْلَ
-نَظَرِكَ فِي ذَلِكَ بِالاِسْتِعَانَةَ بِالَهِكَ، وَالرَّغْبَةَ اِلَيهِ
-فِي تَوفِيقِكَ وَتَرْكِ كُلِّ شَائِبَةٍ اَولَجَتْكَ فِي شُبْهَةٍ اَو
-اَسلَمَتكَ اِلى ضَلالَةٍ فَاِذَا اَيقَنْتَ اَن قَدْ صَفا قَلبُكَ
-فَخَشَعَ وَتَمَّ رَأيُكَ فَاجْتَمَعَ وَكَانَ هَمُّكَ فِي ذَلِكَ هَمّاً
-وَاحِداً، فَانْظُر فِيمَا فَسَّرتُ لَكَ، وَاِن اَنتَ لَم يَجْتَمِع
-لَكَ مَا تُحِبُّ مِن نَفْسِكَ وَفَراغِ نَظَرِكَ وَفِكْرِكَ فَاعْلَم
-اَنَّكَ اِنَّمَا تُخْبِطُ العَشْوَاءَ وَتَتَوَرَّطُ الظَّلمَاءَ
-وَلَيسَ طَالِبُ الدِّينِ مَنْ خَبَطَ اَوْ خَلَطَ وَالاِمْسَاكُ عَنْ
-ذَلِكَ اَمْثَلُ"
-  </p>
-</blockquote>
+> "وَاعلَم يَا بُنَيَّ اَنَّ اَحبَّ مَا انْتَ آخِذٌ بِهِ اِليَّ مِن
+> وَصِيَّتِي تَقوَى الله وَالاِقتِصَار على مَا فَرَضَهُ الله عَلَيكَ،
+> وَالاَخْذَ بِمَا مَضَى عَلَيهِ الاَوّلُونَ مِن آبَائِكَ وَالصَالِحُونَ
+> مِن اَهلِ بَيتِكَ، فَاِنَّهُم لَم يَدَعُوا اَن نَظَروا لاَنفُسِهِم
+> كَمَا اَنتَ نَاظِرٌ، وَفَكَّرُوا كَمَا اَنتَ مُفَكِّرٌ ثُمَّ رَدَّهُم
+> آخِرُ ذلِكَ اِلى الاَخْذِ بِمَا عَرَفُوا، وَالاِمسَاكِ عَمَّالَم
+> يُكَلَّفُوا، فَاِن أبَت نَفسُكَ اَن تَقبَلَ ذَلِكَ دُونَ اَن تَعلَمَ
+> كَمَا عَلِمُوا، فَليَكُن طَلَبُكَ ذَلِكَ بِتَفَهُّمٍ وَتَعلُّمٍ لا
+> بِتَورّط الشُّبُهاتِ وعُلَقِ (عُلُوِّ) الخُصُومَاتِ، وَابَدَأ قَبْلَ
+> نَظَرِكَ فِي ذَلِكَ بِالاِسْتِعَانَةَ بِالَهِكَ، وَالرَّغْبَةَ اِلَيهِ
+> فِي تَوفِيقِكَ وَتَرْكِ كُلِّ شَائِبَةٍ اَولَجَتْكَ فِي شُبْهَةٍ اَو
+> اَسلَمَتكَ اِلى ضَلالَةٍ فَاِذَا اَيقَنْتَ اَن قَدْ صَفا قَلبُكَ
+> فَخَشَعَ وَتَمَّ رَأيُكَ فَاجْتَمَعَ وَكَانَ هَمُّكَ فِي ذَلِكَ هَمّاً
+> وَاحِداً، فَانْظُر فِيمَا فَسَّرتُ لَكَ، وَاِن اَنتَ لَم يَجْتَمِع
+> لَكَ مَا تُحِبُّ مِن نَفْسِكَ وَفَراغِ نَظَرِكَ وَفِكْرِكَ فَاعْلَم
+> اَنَّكَ اِنَّمَا تُخْبِطُ العَشْوَاءَ وَتَتَوَرَّطُ الظَّلمَاءَ
+> وَلَيسَ طَالِبُ الدِّينِ مَنْ خَبَطَ اَوْ خَلَطَ وَالاِمْسَاكُ عَنْ
+> ذَلِكَ اَمْثَلُ"
 
 *“Know, my son, that what I would like the most for you to take from my
 will is God-wariness, restricting yourself to what God has imposed on
@@ -115,12 +111,8 @@ daily affairs and do not get into matters they know nothing about.
 The third way to get to truth and knowledge is through reasoning and
 logic. The Holy Qur’an says regarding this:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ
-وَالْفُؤَادَ كُلُّ أُوْلَئِكَ كَانَ عَنْهُ مَسْئُولًا "
-  </p>
-</blockquote>
+> "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ
+> وَالْفُؤَادَ كُلُّ أُوْلَئِكَ كَانَ عَنْهُ مَسْئُولًا "
 
 ***"And follow not that of which you have not the knowledge; surely the
 hearing and the sight and the heart, all of these, shall be questioned
@@ -130,13 +122,9 @@ Contrary to other religions which contend that in the matters of belief
 and practice, worship itself is enough, Islam is of the opinion that
 each idea or practice is acceptable only if it is based on logic.
 
-<blockquote dir="rtl">
-  <p>
-"وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ
-نَصَارَى تِلْكَ أَمَانِيُّهُمْ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنتُمْ
-صَادِقِينَ"
-  </p>
-</blockquote>
+> "وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ
+> نَصَارَى تِلْكَ أَمَانِيُّهُمْ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنتُمْ
+> صَادِقِينَ"
 
 ***"And they say: None shall enter the garden (of paradise) except he
 who is a Jew or a Christian. These are their vain desires. Say: Bring
@@ -146,12 +134,8 @@ On the basis of this, Imam ‘Ali (as) mentions: if you do not wish to use
 the first and second approach, and if you want to use the third way, you
 should use good understanding and reasoning, not baseless assumptions.
 
-<blockquote dir="rtl">
-  <p>
-"فاِن اَبَت نَفسُكَ اَن تَقبَلَ ذَلِكَ دُونَ اَن تَعلَمَ كَمَا
-عَلِمُوا فَليَكُن طَلبُكَ ذَلِكَ بِتَفَهُّمٍ وَتَعلُّم ..."
-  </p>
-</blockquote>
+> "فاِن اَبَت نَفسُكَ اَن تَقبَلَ ذَلِكَ دُونَ اَن تَعلَمَ كَمَا
+> عَلِمُوا فَليَكُن طَلبُكَ ذَلِكَ بِتَفَهُّمٍ وَتَعلُّم ..."
 
 *If your soul refuses to accept that without ascertaining it (for
 yourself) as they ascertained it, then let your search for that be with
@@ -186,13 +170,9 @@ rejected. Mawlawi, the Persian poet says: May two hundred curses be
 leveled at this kind of imitation. The Holy Qur’an, regarding this
 issue, says:
 
-<blockquote dir="rtl">
-  <p>
-"وَإِذَا قِيلَ لَهُمْ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ
-نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
-لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ"
-  </p>
-</blockquote>
+> "وَإِذَا قِيلَ لَهُمْ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ
+> نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
+> لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ"
 
 ***"And when it is said to them, follow what Allah has revealed, they
 say: Nay! We follow what we found our fathers upon. What! And though
@@ -203,23 +183,15 @@ The Prophet of Islam struggled against all unfavorable habits and
 unfounded imitations which had fastened man's feet and hands like
 chains. He tried to break these shackles, freeing man.
 
-<blockquote dir="rtl">
-  <p>
-"وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ
-عَلَيْهِمْ "
-  </p>
-</blockquote>
+> "وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ
+> عَلَيْهِمْ "
 
 ***"And removes from them their burden and the shackles which were upon
 them"***[^5]
 
 The Prophet (S), elsewhere, has also said:
 
-<blockquote dir="rtl">
-  <p>
-"كُلُّ مَأثِرَةٍ فِي الجَاهِلِيَةِ تَحتَ قَدَمِي"
-  </p>
-</blockquote>
+> "كُلُّ مَأثِرَةٍ فِي الجَاهِلِيَةِ تَحتَ قَدَمِي"
 
 "I will trample all the superstitious ideas and remnants of the
 pre-Islamic pagans."[^6]
@@ -241,5 +213,4 @@ which is revealed to you from your lord is truth” [Surah al-Ra’d v.1].
 
 [^6]: . Ibn Hisham's Sirah, vol.3, p.412. See Islam and Human Rights for
 the hazards of blind imitation and Islam's struggle against it.
-
 

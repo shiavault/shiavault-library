@@ -102,4 +102,3 @@ his faith in Allah is enhanced. As faith increases, one tries to refrain
 from sins and endeavours to do more virtuous deeds in order to please
 and be nearer to Allah.
 
-

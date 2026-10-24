@@ -62,7 +62,6 @@ noted, and makes their misuse and confusion even less excusable.
 ©1999-2002 Garth Kemerling.Last modified 27 October 2001.Questions,
 comments, and suggestions may be sent to: the Contact Page.
 
-
 **Human Knowledge**
 
 Having explained the origin of our ideas and the use of words to
@@ -143,7 +142,6 @@ knowledge in individual cases clearly shows it to involve the gradual
 acquisition of the requisite ideas, perception of whose agreement or
 disagreement constitutes knowing in each instance.
 
-
 **Achieving Certainty**
 
 Locke's definition of knowledge as perception of the agreement (or
@@ -191,5 +189,4 @@ Certainty about the truth of a verbal proposition requires that it
 accurately express the agreement of the ideas signified by its terms;
 certainty about the knowledge itself further requires that we actually
 perceive that agreement among ideas. [Essay IV vi 3]
-
 

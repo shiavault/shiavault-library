@@ -36,4 +36,3 @@ divine shariah, as is understood from prolific arguments, and explicit
 religious statements also give evidence to this. This discussion has
 been organized into five chapters and Allah Almighty is the Helper.
 
-

@@ -311,4 +311,3 @@ requires detailed discussion, but it is beyond the scope of this book.
 Anyhow, it may be said safely that constancy is one of the most
 miraculous aspects of the Holy Book.
 
-

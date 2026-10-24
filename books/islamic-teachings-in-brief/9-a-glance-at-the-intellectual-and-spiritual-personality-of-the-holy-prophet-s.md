@@ -328,4 +328,3 @@ things, one of which is the Holy Book (Qur'an) and the other my *Ahl
 al-Bayt*. These two will never be dissociated from each other and you
 will not be led astray as long as you will remain associated with them".
 
-

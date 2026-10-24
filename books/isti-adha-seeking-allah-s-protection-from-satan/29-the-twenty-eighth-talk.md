@@ -1,20 +1,12 @@
 The Twenty Eighth Talk
 ======================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***He said: ‘Then by Thy Might I will surely make them live an evil
 life, all, Except Thy servants from among them, the purified ones.’***
@@ -149,13 +141,9 @@ the pleasure of Allah (S.w.T.). This way not only the fulfilling of
 one's desires is assured but with Allah (S.w.T.)'s support results might
 be much more than expected. Allah (S.w.T.) says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ وَمَن
-كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤتِهِ مِنْهَا وَمَا لَهُ فِي
-الْآخِرَةِ مِن نَّصِيبٍ
-  </p>
-</blockquote>
+> مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ وَمَن
+> كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤتِهِ مِنْهَا وَمَا لَهُ فِي
+> الْآخِرَةِ مِن نَّصِيبٍ
 
 ***Whoever desires the gain of the hereafter, We will give him more of
 that gain; and whoever desires the gain of this world, We give him of
@@ -236,16 +224,11 @@ instinct of greed that will be shaky. The transaction with Allah
 (S.w.T.) is definite and firm. There is no fear of loss in this
 transaction. As Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاء
-لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلاهَا مَذْمُومًا
-مَّدْحُورًا
-  </p>
-</blockquote>
+> مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاء
+> لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلاهَا مَذْمُومًا
+> مَّدْحُورًا
 
 ***Whoever desires this present life, We hasten to him therein what We
 please for whomsoever We desire, then We assign to him the hell; he
 shall enter it despised, driven away.*** ***(Sura al-’Isra, 17:18)***
-
 

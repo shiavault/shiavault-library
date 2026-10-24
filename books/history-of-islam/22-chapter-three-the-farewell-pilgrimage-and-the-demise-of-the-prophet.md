@@ -673,4 +673,3 @@ remained a Divine and holy Book and a nation, God-loving and dynamic.
 There had been established a new civilization in the history of the
 world.
 
-

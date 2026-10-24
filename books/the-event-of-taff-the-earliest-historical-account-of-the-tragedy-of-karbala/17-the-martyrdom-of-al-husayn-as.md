@@ -284,4 +284,3 @@ curse him, used to become so dry in the summer that they were like
 sticks, and then soaking wet in the winter such that they sprinkled
 blood and pus, until Allah destroyed him.”
 
-

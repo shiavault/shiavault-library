@@ -679,4 +679,3 @@ generation in a good shape. The earth does not belong to us. It belongs
 to God: “The earth is the Lord’s and everything in it, the world, and
 all who live in it” (Psalm 24:1-2).
 
-

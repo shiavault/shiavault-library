@@ -32,4 +32,3 @@ III, art. 16).
 
 [^3]: Therefore the Qur'in is clearly created and not uncreated.
 
-

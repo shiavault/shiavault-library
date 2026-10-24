@@ -456,4 +456,3 @@ foundation. The Kabah is the center and direction of Muslim prayers.
 
 [^29]: Seerat Ibn Hisham v.2 p.605.
 
-

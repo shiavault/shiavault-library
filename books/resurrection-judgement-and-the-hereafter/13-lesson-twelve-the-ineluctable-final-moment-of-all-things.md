@@ -239,4 +239,3 @@ Lord answer the summons of your Creator. For on that day you shall have
 no shelter to protect you from your shameful punishment or to avert from
 you your well-deserved chastisement*****” (42:47)**.
 
-

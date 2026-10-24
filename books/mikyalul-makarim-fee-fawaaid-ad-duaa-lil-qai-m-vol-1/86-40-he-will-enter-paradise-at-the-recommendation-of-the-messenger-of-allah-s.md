@@ -22,4 +22,3 @@ dominate the world and the whole Muslim society will get deliverance.
 
 [^1]: Khisaal Sadooq, Vol. 1, Pg. 294
 
-

@@ -309,4 +309,3 @@ by the Prophet (SA).
 
 [^14]: Ibid.
 
-

@@ -6,4 +6,3 @@ blessings and favors are uncountable, Rather, it is like a raging sea in
 which it is impossible to dive, but we can just taste some of it as per
 the thirst and aim for proximity.
 
-

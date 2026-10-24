@@ -253,4 +253,3 @@ If you know the truth, speak it up and be done with it
 Speak out what you know as the truth for it is better that way
 Neither indulge in graft nor in blandishments.
 
-

@@ -228,4 +228,3 @@ from his perfections and spirituality.”
 the meaning of conduct and *ijtihad* on the path of Allah and the truth.
 More briefly, he is a statute of a lifetime of *jihad*.”
 
-

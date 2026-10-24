@@ -11,11 +11,7 @@ Backbiting
 people, and renders you rewards void.
 
 > 2ـ إيّاكَ والغيبَةَ، فَإنَّها تُمَقِّتُكَ إلَى اللّهِ والنّاسِ،
-<blockquote dir="rtl">
-  <p>
-وتُحْبِطُ أجْرَكَ.
-  </p>
-</blockquote>
+> وتُحْبِطُ أجْرَكَ.
 
 3. The wicked of [all] people is the backbiter.
 
@@ -79,11 +75,6 @@ servant, for he may have been forgiven for it, and do not count yourself
 safe from [your] small sins as you might be punished for them.
 
 > 17ـ يا عَبْدَاللّهِ لاتَعْجَلْ في عَيْبِ عَبْد بِذَنْبِهِ فَلَعَلَّهُ
-<blockquote dir="rtl">
-  <p>
-مَغْفُورٌ لَهُ، ولاتَأْمَنْ عَلى نَفْسِكَ صَغيرَ مَعْصية فَلَعَلَّكَ
-مُعَذَّبٌ عَلَيْها.
-  </p>
-</blockquote>
-
+> مَغْفُورٌ لَهُ، ولاتَأْمَنْ عَلى نَفْسِكَ صَغيرَ مَعْصية فَلَعَلَّكَ
+> مُعَذَّبٌ عَلَيْها.
 

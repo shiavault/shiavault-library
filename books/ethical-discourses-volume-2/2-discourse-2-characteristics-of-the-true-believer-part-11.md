@@ -4,14 +4,10 @@ Discourse 2: Characteristics Of The True Believer – Part 11
 In continuation of the tradition which noted the characteristics of the
 true believer, we examine six more qualities the believer must possess:
 
-<blockquote dir="rtl">
-  <p>
-…إِنْ سَلَكَ مَعَ أَهْلِ الدُّنْـيَا كَانَ أَكْيَسَهُمْ، وَ إِنْ
-سَلَكَ مَعَ أَهْلِ الآخِرَةِ كَانَ أَوْرَعَهُمْ لاَ يَرْضى فِي
-كَسْبِهِ بِشُبْهَةٍ وَلاَ يَعْمَلُ فِي دِيـنِهِ بِرُخْصَةٍ يَعْطِفُ
-عَلى أَخِيهِ بِزَلَّتِهِ وَ يَرعى مَا مَضى مَنْ قَدِيـمٌ صُحْـبَتِهِ…
-  </p>
-</blockquote>
+> …إِنْ سَلَكَ مَعَ أَهْلِ الدُّنْـيَا كَانَ أَكْيَسَهُمْ، وَ إِنْ
+> سَلَكَ مَعَ أَهْلِ الآخِرَةِ كَانَ أَوْرَعَهُمْ لاَ يَرْضى فِي
+> كَسْبِهِ بِشُبْهَةٍ وَلاَ يَعْمَلُ فِي دِيـنِهِ بِرُخْصَةٍ يَعْطِفُ
+> عَلى أَخِيهِ بِزَلَّتِهِ وَ يَرعى مَا مَضى مَنْ قَدِيـمٌ صُحْـبَتِهِ…
 
 “…if he (the true believer) is in the company of those (attached to the)
 material world, then he is the most alert and attentive (to the next
@@ -68,11 +64,7 @@ the energy to work have chosen a life of asceticism and abstinence from
 the material world.  
  Another group of people live by the tradition which states:
 
-<blockquote dir="rtl">
-  <p>
-أَلدُّنْـيَا مَزْرِعَةٌ الآخِرَةِ.
-  </p>
-</blockquote>
+> أَلدُّنْـيَا مَزْرِعَةٌ الآخِرَةِ.
 
 “The world is the planting ground for the next life.”
 
@@ -120,11 +112,7 @@ In the Du’a of Abu Hamza al-Thumali which is recited in the Month of
 Ramazhan and has been taught to us by Imam ‘Ali b. Husayn al-Sajjad
 (as), we read that:
 
-<blockquote dir="rtl">
-  <p>
-أَوْ رَأَيْـتَـنِــي فِي مَجَالِسِ الْبَطَّالِـينَ فَحَرَمْـتَـنِي.
-  </p>
-</blockquote>
+> أَوْ رَأَيْـتَـنِــي فِي مَجَالِسِ الْبَطَّالِـينَ فَحَرَمْـتَـنِي.
 
 “Or maybe You saw me in a gathering of those who were indulging in vain
 (acts) and thus, you rejected me.”
@@ -138,12 +126,8 @@ does not permit himself any sort of departure or separation from his
 faith.”  The meaning of separation of the faith is best summarized in
 the following saying:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَكْرُوهٍ جَايِزُ الْعَمَلِ وَ كُلُّ مَسْتَحَبٍّ جَايِزُ
-الْتَرْكِ.
-  </p>
-</blockquote>
+> كُلُّ مَكْرُوهٍ جَايِزُ الْعَمَلِ وَ كُلُّ مَسْتَحَبٍّ جَايِزُ
+> الْتَرْكِ.
 
 “All reprehensible acts are permissible to perform, and all recommended
 acts are permissible to neglect.”
@@ -167,5 +151,4 @@ We ask Allah (SwT) that He grant us the ability to enliven these
 characteristics within ourselves!
 
 [^1]: Bihar al-Anwar, vol. 64, pg. 311
-
 

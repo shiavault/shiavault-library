@@ -68,7 +68,6 @@ Tamimi who invented this character. Saif wrote that Ibn Saba came to
 Medina and became Muslim during the reign of Uthman, which is far after
 the death of Prophet (PBUH&HF).
 
-
 **The Doctrine of Ali's Executorship**
 
 Sayf further alleged that Ibn Saba is the one who propagated the idea
@@ -125,7 +124,6 @@ commanded you to listen to your son and to obey him.
 the
 second edition the last sentence of Prophet (PBUH) has been removed.)
 (12) Tahdhib al-Athar, v4, pp 62-63.
-
 
 The above tradition was also reported by important Sunni figures such
 as Muhammad Ibn Is'haq (who is the most celebrated Sunni historian), Ibn
@@ -285,5 +283,4 @@ Sunni reference: History of al-Tabari, English version, v9, pp 188-189
 Certainly that Jew did not have any role in the division of the
 companions into two factions right at the death of Prophet since he was
 non-existent at that time.
-
 

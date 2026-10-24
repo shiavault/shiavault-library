@@ -3,19 +3,11 @@ Lesson Fifteen: The Worst Profession
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-"شَرُّ الْمَكاسِبِ كَسْبُ الرِّبا"
-  </p>
-</blockquote>
+> "شَرُّ الْمَكاسِبِ كَسْبُ الرِّبا"
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إذا أَرادَ اللّهُ بِقَوم هَلاكاً ظَهَرَ فِيْهِمُ الرِّبا"
-  </p>
-</blockquote>
+> "إذا أَرادَ اللّهُ بِقَوم هَلاكاً ظَهَرَ فِيْهِمُ الرِّبا"
 
 Translation
 -----------
@@ -39,5 +31,4 @@ This unfair distribution of wealth is the source of many misfortunes and
 rampant moral corruption all over the world.
 
 [^1]: Wasa’il ‘ush-Shi’a, volume 12, pages 426 & 427
-
 

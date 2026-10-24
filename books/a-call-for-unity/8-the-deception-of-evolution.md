@@ -332,4 +332,3 @@ beings emerged fully developed and in a perfect state on the Earth. That
 means that "the origin of species," contrary to Darwin's supposition, is
 not evolution, but creation.
 
-

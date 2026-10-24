@@ -57,4 +57,3 @@ it contained and how it was broken.
 We pray that Allah is pleased with our efforts and that the true glory
 of this Imam shines forth for all to see.
 
-

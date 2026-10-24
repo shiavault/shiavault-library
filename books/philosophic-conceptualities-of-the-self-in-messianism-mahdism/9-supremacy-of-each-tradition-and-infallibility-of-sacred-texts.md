@@ -79,7 +79,6 @@ attempting to bring about war to hasten the Mahdi's appearance. Of
 course, such speculations are antithetical to the teachings of Mahdism
 which emphasize justice and equity for all of mankind.
 
-
 **Embracing a plurality of perspectives**
 
 Over the centuries, there have been few religious leaders who have
@@ -233,5 +232,4 @@ tradition will lead Christians and Muslims to understand that both
 traditions are authentic expressions of truth and are parallel paths to
 the same God. In a world where religion is increasingly used to justify
 violence, this is a much needed perspective.
-
 

@@ -410,4 +410,3 @@ some of them in the previous chapters such as: good attributes of human
 beings, the vices attributed to human beings and free-will. Here we just
 mention some other aspects of our present situation.
 
-

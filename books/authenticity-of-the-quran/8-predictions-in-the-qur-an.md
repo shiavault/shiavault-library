@@ -137,4 +137,3 @@ unless they be ascribed to the source of revelation, to the infinite
 knowledge of Allah (swt).  
 * *
 
-

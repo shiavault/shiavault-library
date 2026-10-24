@@ -4,12 +4,8 @@ Section 3: Abraham Preaches Unity of Allah
 Surah Maryam – Verse 41
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ إِنَّهُ كَانَ صِدّ‌ِيقاً
-نَّبِيّاً
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ إِنَّهُ كَانَ صِدّ‌ِيقاً
+> نَّبِيّاً
 
 ***41. “And mention Abraham in the Book; verily he was a truthful man, a
 prophet.”***
@@ -40,12 +36,8 @@ command of Allah to the servants of God completely.
 Surah Maryam – Verse 42
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لأَبِيهِ يَآ أَبَتِ لِمَ تَعْبُدُ مَا لاَ يَسْمَعُ وَلاَ
-يُبْصِرُ وَلاَ يُغْنِي عَنكَ شَيْئاً
-  </p>
-</blockquote>
+> إِذْ قَالَ لأَبِيهِ يَآ أَبَتِ لِمَ تَعْبُدُ مَا لاَ يَسْمَعُ وَلاَ
+> يُبْصِرُ وَلاَ يُغْنِي عَنكَ شَيْئاً
 
 ***42. “When he said to his father: ‘O my father! Why do you worship
 that which neither hears nor sees, nor does avail you in aught?”***
@@ -108,19 +100,11 @@ Relationship ought not to hinder the act of forbidding of wrong.
 Surah Maryam – Verses 43 - 44
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَبَتِ إِنّـِي قَدْ جَآءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ
-فَاتَّبِعْنِي أَهْدِكَ صِرَاطاً سَوِيّاً
-  </p>
-</blockquote>
+> يَآ أَبَتِ إِنّـِي قَدْ جَآءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ
+> فَاتَّبِعْنِي أَهْدِكَ صِرَاطاً سَوِيّاً
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَبَتِ لاَ تَعْبُدِ الشَّيْطَانَ إِنَّ الشَّيْطَانَ كَانَ
-لِلرَّحْمنِ عَصِيّاً
-  </p>
-</blockquote>
+> يَآ أَبَتِ لاَ تَعْبُدِ الشَّيْطَانَ إِنَّ الشَّيْطَانَ كَانَ
+> لِلرَّحْمنِ عَصِيّاً
 
 ***43. “O’ my father! There has come unto me of knowledge which has not
 come unto you, so follow me, I will guide you on a right path.”***  
@@ -178,12 +162,8 @@ good and benefit.
 Surah Maryam – Verse 45
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَبَتِ إِنّـِي أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِنَ الرَّحْمَنِ
-فَتَكُونَ لِلشَّيْطَانِ وَلِيّاً
-  </p>
-</blockquote>
+> يَآ أَبَتِ إِنّـِي أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِنَ الرَّحْمَنِ
+> فَتَكُونَ لِلشَّيْطَانِ وَلِيّاً
 
 ***45. “O my father! I fear lest a chastisement afflict you from the
 Beneficent (Allah) so that you become a friend to Satan.”***
@@ -232,12 +212,8 @@ Hereafter.”*[^5]
 Surah Maryam – Verse 46
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِي يَآ إِبْرَاهِيمُ لَئِن لَّمْ
-تَنتَهِ لاَرْجُمَنَّكَ وَاهْجُرْنِي مَلِيّاً
-  </p>
-</blockquote>
+> قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِي يَآ إِبْرَاهِيمُ لَئِن لَّمْ
+> تَنتَهِ لاَرْجُمَنَّكَ وَاهْجُرْنِي مَلِيّاً
 
 ***46. “He said: ‘Do you dislike my gods O’ Abraham? If you do not
 desist, I will certainly stone you. Be gone from me for a long
@@ -280,12 +256,8 @@ respite a long time’.
 Surah Maryam – Verse 47
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ سَلاَمٌ عَلَيْكَ سَاَسْتَغْفِرُ لَكَ رَبّـِي إِنَّهُ كَانَ بِي
-حَفِيّاً
-  </p>
-</blockquote>
+> قَالَ سَلاَمٌ عَلَيْكَ سَاَسْتَغْفِرُ لَكَ رَبّـِي إِنَّهُ كَانَ بِي
+> حَفِيّاً
 
 ***47. “He said: ‘Peace be upon you: I will ask my Lord to forgive you:
 for verily He is ever affectionate to me’.”***
@@ -341,12 +313,8 @@ disappointed from his uncle’s guidance, he repudiated him.
 Surah Maryam – Verse 48
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ اللَّهِ وَأَدْعُوا رَبّـِي
-عَسَي اَلآَّ أَكُونَ بِدُعَآءِ رَبّـِي شَقِيّاً
-  </p>
-</blockquote>
+> وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ اللَّهِ وَأَدْعُوا رَبّـِي
+> عَسَي اَلآَّ أَكُونَ بِدُعَآءِ رَبّـِي شَقِيّاً
 
 ***48. “And I will withdraw from you and what you call on besides Allah,
 and I will call upon my Lord: may be I shall not remain unblessed in
@@ -416,12 +384,8 @@ the truth.
 Surah Maryam – Verse 49
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ وَهَبْنَا
-لَهُ إِسْحَاقَ وَيَعْقُوبَ وَكُلاًّ جَعَلْنَا نَبِيّاً
-  </p>
-</blockquote>
+> فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ وَهَبْنَا
+> لَهُ إِسْحَاقَ وَيَعْقُوبَ وَكُلاًّ جَعَلْنَا نَبِيّاً
 
 ***49. “So when he withdrew from them and what they worshipped besides
 Allah, We bestowed on him Isaac and Jacob and each (of them) We made a
@@ -534,12 +498,8 @@ The Qur’an says:
 Surah Maryam – Verse 50
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُمْ مِن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ
-عَلِيّاً
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُمْ مِن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ
+> عَلِيّاً
 
 ***50. “And We bestowed of Our Mercy on them, and assigned unto them a
 high and true renown.”***
@@ -639,5 +599,4 @@ him.”***[^25]
 commentary, vol. 3, p.339.
 
 [^25]: Qurar-ul-Hikam, vol. 3, p. 161
-
 

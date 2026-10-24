@@ -54,7 +54,6 @@ p26
 (3) Tabarani, v3, pp 130-131
 (4) Tahdhib, v7, p404
 
-
 As for the Shi'ite references, there is a traditions from the Prophet
 (PBUH&HF) that: "When al-Khidr (AS) met Moses (AS), he explained and
 forecast the catastrophe of Karbala (the place where this tragedy took
@@ -68,7 +67,6 @@ Imam Ali pulled out a book that was written of the words of Prophet
 the slaughtering of his grandson al-Husain and how he will be killed and
 who kills him and who assist them and who will be martyred with him.
 Then Imam Ali (AS) screamed severely and caused Ibn Abbas (RA) to cry.
-
 
 **Umayad Sanctifying Ashura**
 
@@ -135,7 +133,6 @@ disprove your hypothesis as being Sahih books.
 
 Bismillah-hirehman-nirraheem
 
-
 Muhammad came in the kingdom of God,
 as a messenger of peace as the master of creed.
 He influenced the world with Ali's help,
@@ -165,7 +162,6 @@ an example for all the mankind was set.
 But the righteuos fought, and died on the faith,
 and the right won, against the evils wraith.
 
-
 **More Sayings from the Holy Prophet about Imam Husain:**
 
 1. Whosoever wishes to such a person who lives on earth but whose
@@ -193,5 +189,4 @@ father, would commemorate Husain's Martyrdom?" The Holy Prophet said,
 "The men and the women of a particular group of my followers, who will
 befriend my Ahlul Bayt, will mourn for Husain and commemorate his
 martyrdom each year in every century."
-
 

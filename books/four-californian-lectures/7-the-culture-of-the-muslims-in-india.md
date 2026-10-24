@@ -122,4 +122,3 @@ We also find many features and designs in Muslim buildings in India
 which show the influence of the ancient culture that was prevalent in
 India.
 
-

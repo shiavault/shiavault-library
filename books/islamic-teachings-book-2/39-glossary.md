@@ -113,4 +113,3 @@ GLOSSARY
 | **VITALITY**       | vigour, energy                                                                                       |
 | **WRATH**          | great danger                                                                                         |
 
-

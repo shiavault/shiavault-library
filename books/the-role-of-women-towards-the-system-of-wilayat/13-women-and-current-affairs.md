@@ -60,4 +60,3 @@ our lives, our humanity, our spirituality, our children and our
 generations? Though the intelligence and Shariah both prohibits from
 drinking dirty water, but there are people who are still drinking it.
 
-

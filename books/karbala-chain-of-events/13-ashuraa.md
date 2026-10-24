@@ -40,4 +40,3 @@ do the same and defect. So Umar Ibn Sa'ad threw an arrow in the air to
 indicate the start of the battle. This was the outset of a catastrophe
 and a tragic event that Mu'awiya had once conceived to happen.
 
-

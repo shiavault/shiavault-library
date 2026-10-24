@@ -309,4 +309,3 @@ who visit the holy shrines in Kadhmain.
 Peace be upon him on the day he was born, and on the day he died, and on
 the day he will be resurrected alive.
 
-

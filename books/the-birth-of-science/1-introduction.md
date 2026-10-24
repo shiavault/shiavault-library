@@ -10,4 +10,3 @@ was to impose order on the content of our senses; that is, there came a
 point in our evolutionary past when our minds began to demand that the
 universe make sense.
 
-

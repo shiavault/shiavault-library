@@ -11,11 +11,7 @@ considered, it is sufficient to say that it is the foundation of Islam.
 
 Imam Sadiq (a.s.) asserts,
 
-<blockquote dir="rtl">
-  <p>
- لكلِّ شيء أساس ، وأساس الاِسلام حبنا أهل البيت 
-  </p>
-</blockquote>
+>  لكلِّ شيء أساس ، وأساس الاِسلام حبنا أهل البيت
 
 'Everything has a foundation and the foundation of Islam is the love for
 us, the Ahlul Bayt (a.s.).'[^1]
@@ -24,23 +20,15 @@ Therefore, traditions have introduced love of the Ahlul Bayt (a.s.) as
 the highest and the most privileged form of worship. Imam Sadiq (a.s.)
 informs further,
 
-<blockquote dir="rtl">
-  <p>
-إنّ فوق كلّ عبادة عبادة وحبّنا أهل البيت أفضل عبادة
-  </p>
-</blockquote>
+> إنّ فوق كلّ عبادة عبادة وحبّنا أهل البيت أفضل عبادة
 
 'Love of us Ahlul Bayt (a.s.) is the highest form of worship.'[^2]
 
 The Holy Prophet (s.a.w.s.) introduced the names of all the Imams (a.s.)
 to the Muslims. When he introduced Imam Mahdi (a.t.f.s.) he declared,
 
-<blockquote dir="rtl">
-  <p>
-من احب ان يلقي الله وقد كمل ايمانه وحسن اسلامه فليوال الحجة صاحب
-الزمان المنتظر
-  </p>
-</blockquote>
+> من احب ان يلقي الله وقد كمل ايمانه وحسن اسلامه فليوال الحجة صاحب
+> الزمان المنتظر
 
 'One who wants to meet Allah in such a condition that his faith is
 perfect and his Islam is in good condition then he should accept
@@ -48,12 +36,8 @@ Mastership of Imam al-Zaman (a.t.f.s.) the awaited.'
 
 And at the end of the tradition he (s.a.w.s.) stated,
 
-<blockquote dir="rtl">
-  <p>
-فهولاء مصابيح الدجى وأئمة الهدى وأعلام التقى ومن أحبهم وتولاهم كنت
-ضامناُ له على الله الجنة.
-  </p>
-</blockquote>
+> فهولاء مصابيح الدجى وأئمة الهدى وأعلام التقى ومن أحبهم وتولاهم كنت
+> ضامناُ له على الله الجنة.
 
 They (Imams) are the lamps in darkness and the Imams of guidance and
 signs of piety. One who loves them and accepts their Mastership, then I
@@ -123,11 +107,7 @@ form of submission. So, one of the conditions to attain the position of
 the manner Salman al-Muhammadi (r.a.) did. Even earlier we have
 discussed Ameerul Mo'mineen's (a.s.) advice to Kumayl b. Ziyad (r.a.)
 
-<blockquote dir="rtl">
-  <p>
-لا تأخذ إلَّا عنَّا تَكُن منِّا.
-  </p>
-</blockquote>
+> لا تأخذ إلَّا عنَّا تَكُن منِّا.
 
 'Don't acquire (knowledge) but from us, you will be from us.'
 
@@ -156,12 +136,8 @@ sowed this attachment in our hearts, thereby purifying our polluted
 hearts and cleansing it of the filth of sins. As Imam Sadiq (a.s.)
 reveals to Fuzail b. Yasir:
 
-<blockquote dir="rtl">
-  <p>
- يا فضيل من ذكرنا أو ذُكرنا عنده فخرج من عينيه مثل جناح ذباب غفر الله
-ذنوبه ولو كانت أكثر من زبد البحر
-  </p>
-</blockquote>
+>  يا فضيل من ذكرنا أو ذُكرنا عنده فخرج من عينيه مثل جناح ذباب غفر الله
+> ذنوبه ولو كانت أكثر من زبد البحر
 
 'O Fuzail, one who remembers us or our mention is made in his presence
 and if tears flow from his eyes even to the extent of the wing of a fly,
@@ -178,12 +154,8 @@ loneliness, intensified further with his own sorrow are just some of the
 factors that make his Shias weep for him. As it was mentioned earlier,
 Imam Sadiq (a.s.) narrates,
 
-<blockquote dir="rtl">
-  <p>
-أما واللهِ لَيُغَيَّبَنَّ إمامُكُم سِنيناً من دَهرِكم.... وَ
-لَتَدْمُعَنَّ عليهِ عُيوُنَ المؤْمِنين.
-  </p>
-</blockquote>
+> أما واللهِ لَيُغَيَّبَنَّ إمامُكُم سِنيناً من دَهرِكم.... وَ
+> لَتَدْمُعَنَّ عليهِ عُيوُنَ المؤْمِنين.
 
 'Pay attention, by Allah! Certainly your Imam will be in occultation for
 some years in your time. ....the eyes of the believer will surely cry
@@ -214,19 +186,11 @@ by Allah. And now that the divinely selected Imam is absent, the Muslims
 must wail and complain by remembering him at all times and feel the
 pangs of separation.
 
-<blockquote dir="rtl">
-  <p>
-اَيْنَ الطّالِبُ (المُطالِبُ) بِدَمِ الْمَقْتُولِ بِكَرْبَلاءَ؟
-  </p>
-</blockquote>
+> اَيْنَ الطّالِبُ (المُطالِبُ) بِدَمِ الْمَقْتُولِ بِكَرْبَلاءَ؟
 
 'Where is the one who will avenge the blood of the martyrs of Karbala?'
 
-<blockquote dir="rtl">
-  <p>
-اَيْنَ الْمُضْطَرُّ الَّذي يُجابُ اِذا دَعا
-  </p>
-</blockquote>
+> اَيْنَ الْمُضْطَرُّ الَّذي يُجابُ اِذا دَعا
 
 'Where is the distressed one, who is answered when he calls?'
 
@@ -241,13 +205,9 @@ that all have deserted you while I still cry for you!'
 
 While seeking other friends and companions of Imam (a.t.f.s.) we wail,
 
-<blockquote dir="rtl">
-  <p>
-هَلْ مِنْ مُعينٍ فَاُطيلَ مَعَهُ الْعَويلَ وَالْبُكاءَ، هَلْ مِنْ
-جَزُوعٍ فَاُساعِدَ جَزَعَهُ اِذا خَلا، هَلْ قَذِيَتْ عَيْنٌ
-فَساعَدَتْها عَيْني عَلَى الْقَذى
-  </p>
-</blockquote>
+> هَلْ مِنْ مُعينٍ فَاُطيلَ مَعَهُ الْعَويلَ وَالْبُكاءَ، هَلْ مِنْ
+> جَزُوعٍ فَاُساعِدَ جَزَعَهُ اِذا خَلا، هَلْ قَذِيَتْ عَيْنٌ
+> فَساعَدَتْها عَيْني عَلَى الْقَذى
 
 'Is there any supporter along with whom I may prolong my wailing? Is
 there a restless friend with whom I may share his restlessness? Is there
@@ -289,12 +249,8 @@ will be with us on the Day of Judgment in our grade.'[^10]
 Explaining the meaning of the term طوبى, Abu Basir (r.a.) has narrated a
 tradition from Imam Sadiq (a.s.) thus:
 
-<blockquote dir="rtl">
-  <p>
-طُوبَى لِمَنْ تَمَسَّكَ بِأَمْرِنَا فِي غَيْبَةِ قَائِمِنَا فَلَمْ
-يَزِغْ قَلْبُهُ بَعْدَ الْهِدَايَةِ.
-  </p>
-</blockquote>
+> طُوبَى لِمَنْ تَمَسَّكَ بِأَمْرِنَا فِي غَيْبَةِ قَائِمِنَا فَلَمْ
+> يَزِغْ قَلْبُهُ بَعْدَ الْهِدَايَةِ.
 
 'Tooba is for the one who is attached to our Mastership at the time of
 our Qaim's occultation. Then his heart is never deviated after
@@ -341,11 +297,7 @@ Fulfilling the rights of those who have the love and Mastership of Ahlul
 Bayt (a.s.) and who are described in traditions as believers, has
 excessive importance. Imam Sadiq (a.s.) declares:
 
-<blockquote dir="rtl">
-  <p>
-ما عُبِدَ اللهُ بِشيءٍ أفضَلُ مِنْ أَداءِ حقِّ المؤْمِنْ.
-  </p>
-</blockquote>
+> ما عُبِدَ اللهُ بِشيءٍ أفضَلُ مِنْ أَداءِ حقِّ المؤْمِنْ.
 
 'Allah is not worshipped by anything better than fulfilling the right of
 a believer.'[^12]
@@ -353,11 +305,7 @@ a believer.'[^12]
 Once when Moalla b. Khunais asked Imam (a.s.) about the rights of a
 believer, Imam (a.s.) replied:
 
-<blockquote dir="rtl">
-  <p>
- سبعون حقا لا اخبرك إلا بسبعة ، فإني عليك مشفق أخشى ان لا تحتمل
-  </p>
-</blockquote>
+>  سبعون حقا لا اخبرك إلا بسبعة ، فإني عليك مشفق أخشى ان لا تحتمل
 
 'There are 70 rights, but I will inform you only about 7, because I am
 worried that you will not be able to bear it.'
@@ -547,5 +495,4 @@ needs of believers, Tradition 9
 
 [^16]: (Usul al-Kafi, Kitab ul Iman wal Kufr, Chap. of Fulfilling the
 needs of believers, Tradition 14)
-
 

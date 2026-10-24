@@ -181,4 +181,3 @@ al-Kafi).
 [^13]: Quoted from Safinat ul-Bihar; vol. 1 page 5166 (as quoted from
 al-Kafi).
 
-

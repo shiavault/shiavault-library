@@ -1221,4 +1221,3 @@ fissures. Through him, those conquering were [themselves] conquered,
 difficulties were subjugated and hardships alleviated until he wiped out
 misguidance all around him.”
 
-

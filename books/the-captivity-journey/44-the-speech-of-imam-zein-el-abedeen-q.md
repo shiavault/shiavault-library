@@ -131,4 +131,3 @@ kill his progeny?"
 Then the Muezzin finished the call for prayer and Yazeed got up and
 performed the noon prayer.
 
-

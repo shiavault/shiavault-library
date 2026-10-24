@@ -1239,4 +1239,3 @@ wel Iqtisadiyya) by Salih Ahmed, p.177.
 
 [^71]: Al-Awraq, p.61.
 
-

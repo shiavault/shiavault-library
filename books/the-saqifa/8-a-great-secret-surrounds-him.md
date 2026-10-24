@@ -106,7 +106,6 @@ now had vanished from him. He was man sanguine and sane went to Saqifa
 with Abubaker no sooner than he learned the secret meeting of Ansaar
 there. Another part he had to play there.
 
-
 **5) REACHES THE NEWS OF ANSAA'S MEETING**
 
 History is mute: does not say anything about Abubaker and Omar as to
@@ -269,7 +268,6 @@ the best."
 In fact, Omar was not a man to have not understood the situation. But
 it was all a made up thing. So, a dedition to Abubaker was accomplished.
 Ansaar agreed. Sa'ad failed.
-
 
 **7) INFLUENCE OF ABUBAKER'S SPEECH**
 
@@ -569,7 +567,6 @@ and the guidance towards his call. Then the behaviour of Hubab made the
 people distant from his group. This influence appeared in Basheer Bin
 Sa'ad. This represents the sense that governed his people that hour.
 
-
 **9) MUHAJAREEN GAIN THE POSITION**
 
 As the matter of fact the people were forced and grided for dedition to
@@ -772,11 +769,9 @@ Ali too should have been present there. His absence discloses the
 ulterior motives, which were to discard him. Ali was to the Prophet as
 Haroon was to Moses.
 
-
 Why not he was consulted? Why he was not even informed? Why all this
 secrecy and hurry? The gathering from the beginning to the end was
 trick. Ali and none of Bani Hashim knew what was in cooking there at
 SAQIFA; and yet, it was -- as they claim -- in the interests of Islam!
 Then, Ali was not a Muslim?
-
 

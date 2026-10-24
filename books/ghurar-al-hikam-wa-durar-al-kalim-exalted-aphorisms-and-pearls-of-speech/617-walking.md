@@ -10,4 +10,3 @@ as you can.
 
 [^1]: This is how it appears in Nahj al-Balāgha.
 
-

@@ -35,11 +35,7 @@ and could have elected their true leader with more deliberation?
 Abu Bakr's election for caliphate in such a hurry was so baseless and
 opposable that Omar was heard later to have said:
 
-<blockquote dir="rtl">
-  <p>
-“كانت بيعة أبي بكر فلتة ...”
-  </p>
-</blockquote>
+> “كانت بيعة أبي بكر فلتة ...”
 
 “Abu Bakr's election was nothing more than a coincidence; it was not
 done with deliberation.
@@ -80,12 +76,8 @@ to kill the Prophet. Ali slept in the same place where the Prophet laid
 so as to misguide the Prophet’s assassins. All interpreters admit the
 following verse was revealed unto the Prophet regarding this issue
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ مِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغاءَ مَرْضاتِ اللَّهِ وَ
-اللَّهُ رَؤُفٌ بِالْعِبادِ﴾
-  </p>
-</blockquote>
+> ﴿وَ مِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغاءَ مَرْضاتِ اللَّهِ وَ
+> اللَّهُ رَؤُفٌ بِالْعِبادِ﴾
 
 ***“And among men is he who sells himself to seek the pleasure of Allah;
 and Allah is Affectionate to the servants”.***[^2]
@@ -204,12 +196,8 @@ In yet another sermon, Imam Ali (as) considers a caliph to be the most
 capable individual in a country’s affairs, the one who is most
 knowledgeable in divine orders:
 
-<blockquote dir="rtl">
-  <p>
-“أَيُّها النّاس إنّ أحقّ الناس بهذا الأمر أقواهم عليه وأعلمهم بأَمر
-الله فيه فإن شغب شاغب استعتب فإن أبى قوتل”
-  </p>
-</blockquote>
+> “أَيُّها النّاس إنّ أحقّ الناس بهذا الأمر أقواهم عليه وأعلمهم بأَمر
+> الله فيه فإن شغب شاغب استعتب فإن أبى قوتل”
 
 “O people! The most appropriate ones to govern are the most aware in
 divine commands. If a person commits corrupt acts, he shall be punished;
@@ -254,5 +242,4 @@ Ihtiyây At-Tabrisî, vol.12, p.95.
 [^6]: . Nahj-ul- Balaghah, sermon no. 168.
 
 [^7]: . Al-Emamat va Al-Syasat, vol. 1, p.12.
-
 

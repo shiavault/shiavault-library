@@ -35,4 +35,3 @@ they have done?
 
 [^4]: Truthful lady
 
-

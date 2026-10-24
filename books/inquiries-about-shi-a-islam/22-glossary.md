@@ -238,4 +238,3 @@ Yaqeen: Certainty.
 
 Zakat: Alms-giving.
 
-

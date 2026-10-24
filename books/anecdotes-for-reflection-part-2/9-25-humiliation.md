@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهاَ الَّذِينَ آمَنُوا لاَ يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ
-  </p>
-</blockquote>
+> يَا أَيُّهاَ الَّذِينَ آمَنُوا لاَ يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ
 
 “O you who believe! let not (one) people laugh at (another)
 people.”[^1]  
  The Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَقَرَ مُؤْمِناً مِسْکِيناً أَوْ غَيْرَ مِسْکِينٍ لَمْ يَزَلِ
-اللٌّهُ عَزَّ وَ جَلَّ حَاقِراً لَهُ مَاقِتاً.
-  </p>
-</blockquote>
+> مَنْ حَقَرَ مُؤْمِناً مِسْکِيناً أَوْ غَيْرَ مِسْکِينٍ لَمْ يَزَلِ
+> اللٌّهُ عَزَّ وَ جَلَّ حَاقِراً لَهُ مَاقِتاً.
 
 “If a person humiliates a believer, indigent or otherwise, Allah shall
 always abhor and humiliate him.” [^2]
@@ -219,5 +211,4 @@ Volume 1, Page 357
 [^6]: Hikayat-ha-e-Gulistan, Page 43
 
 [^7]: Namunah-e-Ma’arif, Volume 2, Page 676; Layaliul Akhbar, Page 197
-
 

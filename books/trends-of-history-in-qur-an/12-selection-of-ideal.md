@@ -476,4 +476,3 @@ possibility, which now has become the movement of the down-trodden under
 the leadership of Imam Khumayni. Unfortunately the late Ayatullah Sadr
 was not in a position to say that in clear terms)
 
-

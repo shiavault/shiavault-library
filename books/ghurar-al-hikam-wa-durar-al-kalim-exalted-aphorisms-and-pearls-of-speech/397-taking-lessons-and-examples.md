@@ -15,21 +15,13 @@ Taking Lessons And Examples
 who are after you take lessons from you.
 
 > 3ـ اِتَّعِظُوا مِمَّنْ كانَ قَبْلَكُمْ قَبْلَ أنْ يَتَّعِظَ بِكُمْ
-<blockquote dir="rtl">
-  <p>
-مَنْ بََعْدَكُمْ.
-  </p>
-</blockquote>
+> مَنْ بََعْدَكُمْ.
 
 4. Take counsel from the examples [of others], learn lessons from the
 changing situations and take benefit from the Warners.
 
 > 4ـ اِتَّعِظُوا بِالعِبَرِ واعْتَبِروُا بِالغِيَرِ، وانْتَفِعُوا
-<blockquote dir="rtl">
-  <p>
-بِالنُّذُرِ.
-  </p>
-</blockquote>
+> بِالنُّذُرِ.
 
 5. Where are the ‘Amāliqa[^2] and the children of the ‘Amāliqa?
 
@@ -43,11 +35,7 @@ changing situations and take benefit from the Warners.
 and extinguished the light of the Messengers?
 
 > 7ـ أيْنَ أهْلُ مَدائِنِ الرَّسِّ، الَّذينَ قَتَلُوا النَّبِيِّينَ
-<blockquote dir="rtl">
-  <p>
-وأطْفَئُوا نُورَ المُرْسَلينَ؟!
-  </p>
-</blockquote>
+> وأطْفَئُوا نُورَ المُرْسَلينَ؟!
 
 8. Where are those who rallied the troops and inhabited the cities?
 
@@ -62,11 +50,7 @@ greater in assemblage?”
 actions and had the biggest kingdoms?
 
 > 10ـ أيْنَ الَّذينَ كانُوا أحْسَنَ آثاراً،وَ أعْدَلَ أفْعالاً، وأكْبَرَ
-<blockquote dir="rtl">
-  <p>
-مُلْكاً؟!
-  </p>
-</blockquote>
+> مُلْكاً؟!
 
 11. Where are those who vanquished the armies and travelled in the
 thousands?
@@ -77,11 +61,7 @@ thousands?
 aggrieved and hosted guests?
 
 > 12ـ أيْنَ الَّذينَ شَيَّدُوا المَمالِكَ، ومَهَّدُوا المَسالِكَ،
-<blockquote dir="rtl">
-  <p>
-وأغاثُوا المَهْلُوفَ، وَقَرَوُوا الضُّيُوفَ؟
-  </p>
-</blockquote>
+> وأغاثُوا المَهْلُوفَ، وَقَرَوُوا الضُّيُوفَ؟
 
 13. Where is the one who strived and struggled, and prepared and
 mobilized [all possible resources]?
@@ -101,11 +81,7 @@ accumulated and counted?
 wealth thereby multiplying it?
 
 > 16ـ أيْنَ مَنِ ادَّخَرَ واعْتَقَدَ، وجَمَعَ المالَ عَلَى المالِ
-<blockquote dir="rtl">
-  <p>
-فَأكْثَرَ؟!
-  </p>
-</blockquote>
+> فَأكْثَرَ؟!
 
 17. Where is the one who fortified and strengthened, and adorned and
 decorated?
@@ -116,11 +92,7 @@ decorated?
 amassed, and considered the future of his son?
 
 > 18ـ أيْنَ مَنْ جَمَعَ فَأكْثَرَ، واحْتَقَبَ واعْتَقَدَ، ونَظَرَ
-<blockquote dir="rtl">
-  <p>
-بِزَعْمِهِ لِلْوَلَدِ؟!
-  </p>
-</blockquote>
+> بِزَعْمِهِ لِلْوَلَدِ؟!
 
 19. Where are those who lived longer than you and left a greater
 heritage?
@@ -131,11 +103,7 @@ heritage?
 and had greater effect?
 
 > 20ـ أيْنَ مَنْ كانَ أعَدَّ عَديداً، وَأَكْنَفَ (إكْثَفَ)جُنُوداً،
-<blockquote dir="rtl">
-  <p>
-وأعْظَمَ آثاراً؟!
-  </p>
-</blockquote>
+> وأعْظَمَ آثاراً؟!
 
 21. Where are the kings and Khosraus?
 
@@ -196,21 +164,13 @@ community that remains behind.
 passed away before you, so take lesson from them.
 
 > 34ـ خُلِّفَ لَكُمْ عِبَرٌ مِنْ آثارِ الماضينَ قَبْلَكُمْ
-<blockquote dir="rtl">
-  <p>
-لِتَعْتَبِرُوا بِها.
-  </p>
-</blockquote>
+> لِتَعْتَبِرُوا بِها.
 
 35. Continually taking lessons leads to perspicacity and bears the fruit
 of restraint [from evil].
 
 > 35ـ دَوامُ الاِعْتِبارِ يُؤَدِّي إلَى الاِسْتِبْصارِ، ويُثْمِرُ
-<blockquote dir="rtl">
-  <p>
-الاِزْدِجارَ.
-  </p>
-</blockquote>
+> الاِزْدِجارَ.
 
 36. I am bound by responsibility for what I say and am answerable for
 it. Verily, one for whom examples [of the past] have clearly shown that
@@ -219,23 +179,15 @@ wrongdoers] is prevented by God-wariness from falling into dubious [and
 questionable] actions.
 
 > 36ـ ذِمَّتي بِما أقُولُ رَهينَةٌ، وأنَا بِهِ زَعيمٌ، إنَّ مَنْ
-<blockquote dir="rtl">
-  <p>
-صَـرَّحَتْ لَهُ العِبَرُ عمّا بَيْنَ يَدَيْهِ مِنَ المَثُلاتِ،
-حَجَزَهُ التَّقْوى عَنْ تَقَحُّمِ الشُّبَهاتِ.
-  </p>
-</blockquote>
+> صَـرَّحَتْ لَهُ العِبَرُ عمّا بَيْنَ يَدَيْهِ مِنَ المَثُلاتِ،
+> حَجَزَهُ التَّقْوى عَنْ تَقَحُّمِ الشُّبَهاتِ.
 
 37. Attest to the truth that has passed and take lesson from what has
 elapsed of this world, because indeed its one phase resembles the other
 and its end catches up to its beginning.
 
 > 37ـ صَدِّقْ بِما سَلَفَ مِنَ الحَقِّ، واعْتَبِرْ بِما مَضى مِنَ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا فَإنَّ بَعْضَها يُشْبِهُ بَعْضاً، وآخِرُها لاحِقٌ بِأوَّلِها.
-  </p>
-</blockquote>
+> الدُّنيا فَإنَّ بَعْضَها يُشْبِهُ بَعْضاً، وآخِرُها لاحِقٌ بِأوَّلِها.
 
 38. The prolonged drawing of lessons [from the past] impels one to be
 precautious.
@@ -258,11 +210,7 @@ precautious.
 past] and a tendency towards being precautious.
 
 > 42ـ فازَ مَنْ كانَتْ شيمَتُهُ الاِعْتِبارَ، وسَجِيَّتُهُ
-<blockquote dir="rtl">
-  <p>
-الاِسْتِظْهارَ.
-  </p>
-</blockquote>
+> الاِسْتِظْهارَ.
 
 43. He who has been deterred [from evil] has taken lesson [from the
 past].
@@ -290,22 +238,14 @@ Prophet of Allah, none have conveyed [the message] from Allah like the
 Warners.
 
 > 47ـ لَقَدْ جاهَرَتْكُمُ العِبَرُ، وزَجَرَكُمْ(وَ زُجِرْتُمْ بِما) ما
-<blockquote dir="rtl">
-  <p>
-فيهِ مُزْدَجَرٌ، وما بَلَّغَ (يُبَلِّغُ) عَنِ اللّهِ بَعْدَ رَسُولِ
-اللّهِ (رُسُلِ السَّماءِ إلاّ البَشَرُ) مِثْلُ النُّذُرِ.
-  </p>
-</blockquote>
+> فيهِ مُزْدَجَرٌ، وما بَلَّغَ (يُبَلِّغُ) عَنِ اللّهِ بَعْدَ رَسُولِ
+> اللّهِ (رُسُلِ السَّماءِ إلاّ البَشَرُ) مِثْلُ النُّذُرِ.
 
 48. If you took lessons from what has passed of your life, you would
 safeguard that which remains [of it].
 
 > 48ـ لَوِْ اعْتَبَرْتَ بِما أضَعْتَ مِنْ ماضي عُمْرِكَ لَحَفِظْتَ ما
-<blockquote dir="rtl">
-  <p>
-بَقِيَ.
-  </p>
-</blockquote>
+> بَقِيَ.
 
 49. One who takes lesson [from the past] is cautious.
 
@@ -335,11 +275,7 @@ deterred [from evil].
 deterred by reproach.
 
 > 54ـ مَنْ لَمْ يَعْتَبِرْ بِتَصارِيفِ الأيّامِ لَمْ يَنْزَجِرْ
-<blockquote dir="rtl">
-  <p>
-بِالمَلامِ.
-  </p>
-</blockquote>
+> بِالمَلامِ.
 
 55. One who takes a lesson from vicissitudes does not rely on the
 peacefulness of time.
@@ -355,11 +291,7 @@ living among the ancients.
 advice has no effect on him.
 
 > 57ـ مَنْ لَمْ يَعْتَبِرْ بِغِيَرِ الدُّنيا وصُرُوفِها لَمْ تَنْجَعْ
-<blockquote dir="rtl">
-  <p>
-فيهِ المَواعِظُ.
-  </p>
-</blockquote>
+> فيهِ المَواعِظُ.
 
 58. One who considers matters arrives at their [appropriate] criteria.
 
@@ -398,5 +330,4 @@ oneself or to others in the past.
 (according to some reports) when the Romans lost a war to the
 Abyssinians, their womenfolk were ravaged and the children produced were
 of a yellowish skin colour.
-
 

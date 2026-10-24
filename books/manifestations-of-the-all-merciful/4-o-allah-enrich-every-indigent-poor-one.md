@@ -1,11 +1,7 @@
 O Allāh, Enrich Every Indigent (Poor One)
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَغْنِ كُلَّ فَقِيْرٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَغْنِ كُلَّ فَقِيْرٍ
 
 O Allāh, Enrich Every Indigent (Poor One)
 
@@ -26,11 +22,7 @@ the Holy Qur’ān and traditions:
 
 1. Almighty Allāh says in the Qur’ān [Chapter al-A‘rāf- 7:156]:
 
-<blockquote dir="rtl">
-  <p>
- وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ 
-  </p>
-</blockquote>
+>  وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ 
 
 ***“And My Mercy encompasses all things [i.e. every dependent
 being].”***
@@ -38,22 +30,14 @@ being].”***
 2. And in [Chapter al-Anbiyā’- 21:107] addressing His Noble Messenger,
 He says:
 
-<blockquote dir="rtl">
-  <p>
- وَمَا أَرْسَلْنَاكَ إِلاَّ رَحْمَةً لِلْعَالَمِينَ 
-  </p>
-</blockquote>
+>  وَمَا أَرْسَلْنَاكَ إِلاَّ رَحْمَةً لِلْعَالَمِينَ 
 
  ***“And we have not sent you but as a mercy for the worlds.”***
 
 3. And in [Chapter al-Kahf - 18:6] addressing His Beloved, He says:
 
-<blockquote dir="rtl">
-  <p>
- فَلَــعَلَّكَ بَــاخِعٌ نَفْسَكَ عَلَى آثَارِهِمْ إِنْ لَمْ
-يُؤْمِنُوا بِهٌذَا الْحَدِيثِ أَسَفًا 
-  </p>
-</blockquote>
+>  فَلَــعَلَّكَ بَــاخِعٌ نَفْسَكَ عَلَى آثَارِهِمْ إِنْ لَمْ
+> يُؤْمِنُوا بِهٌذَا الْحَدِيثِ أَسَفًا 
 
 ***“Then it is near that you will kill yourself in grief, for their
 outcomes, if they do not believe in this announcement.”*** [MK. Trans.]
@@ -61,47 +45,31 @@ outcomes, if they do not believe in this announcement.”*** [MK. Trans.]
 4. The following is a radiant verse for the daily du‘ā’ of the holy
 month of Rajab:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ يُعْطِي مَنْ لَمْ يَسْأَلْهُ وَمَنْ لَمْ يَعْرِفْهُ
-تَحَنُّـناً مِنْهُ وَرَحْمَةً.
-  </p>
-</blockquote>
+> يَا مَنْ يُعْطِي مَنْ لَمْ يَسْأَلْهُ وَمَنْ لَمْ يَعْرِفْهُ
+> تَحَنُّـناً مِنْهُ وَرَحْمَةً.
 
 “O One Who always gives [even] to one who does not ask Him and who does
 not (even) know Him, out of His Kindness and Mercy.”
 
 5. Almighty Allāh says in [Chapter Tāhā- 20:2]:
 
-<blockquote dir="rtl">
-  <p>
- مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى 
-  </p>
-</blockquote>
+>  مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى 
 
 ***“We did not send the Qur’ān so that you distress yourself [in the
 path of propagation by struggling to force the people towards it].”***
 
 6. And in [Chapter al-Fātir- 35:8] He says:
 
-<blockquote dir="rtl">
-  <p>
- فَلاَ تَذْهَبْ نَـفْسُكَ عَلَيْهِمْ حَسَرَاتٍ 
-  </p>
-</blockquote>
+>  فَلاَ تَذْهَبْ نَـفْسُكَ عَلَيْهِمْ حَسَرَاتٍ 
 
  ***“…And therefore do not consume yourself, in grief for them [due to
 their unbelief]…”***
 
 7. And in [Chapter al-Mumtahana- 60:8] He says:
 
-<blockquote dir="rtl">
-  <p>
- لاَ يَنْهَاكُمُ اللٌّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
-الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
-وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللٌّهَ يُحِبُّ الْمُقْسِطِينَ 
-  </p>
-</blockquote>
+>  لاَ يَنْهَاكُمُ اللٌّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
+> الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
+> وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللٌّهَ يُحِبُّ الْمُقْسِطِينَ 
 
  ***“Allāh does not forbid you from doing good and acting fairly with
 those who have not made war against you on account of religion nor
@@ -115,11 +83,7 @@ sees the realities clearly and without any intervening *hijāb*
 (curtain). At the same time he is present in all the dimensions of
 humanity and stages of being, and being the highest manifestation of:
 
-<blockquote dir="rtl">
-  <p>
- هُوَ الأَوَّلُ وَالآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ 
-  </p>
-</blockquote>
+>  هُوَ الأَوَّلُ وَالآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ 
 
  ***“He is the First and the Last, the Manifest and the Hidden.”***
 [57:3]
@@ -128,11 +92,7 @@ wants all human beings to achieve such a perfection. It was painful for
 him to see that they failed to achieve such a station, and perhaps the
 verse:
 
-<blockquote dir="rtl">
-  <p>
- طه. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى 
-  </p>
-</blockquote>
+>  طه. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى 
 
 ***“Tā hā: We have not sent down the Qur’ān to you that you distress
 yourself.”*** [20:1-2]
@@ -140,24 +100,16 @@ yourself.”*** [20:1-2]
 makes an oblique reference to this fact, and perhaps this hadith from
 him also refers to it:
 
-<blockquote dir="rtl">
-  <p>
-مَا أُوذِيَ نَبِيٌّ مِثْلَ مَا أُوْذِيْتُ.
-  </p>
-</blockquote>
+> مَا أُوذِيَ نَبِيٌّ مِثْلَ مَا أُوْذِيْتُ.
 
 “No Prophet was made to suffer torment like me.”[^2]
 
 9. Marhūm Amīn al-Islam Tabrasī in his *Majma‘ al-Bayān* narrates the
 following:
 
-<blockquote dir="rtl">
-  <p>
-ولبث في قومه ألف سنة إلا خمسين عاماً… وكان يدعوهم ليلاً ونهاراً، فلا
-يزيدهم دعاؤه إلا فراراً، وكان يضربه قومه حتى يغشى عليه، فإذا أفاق قال:
-“اللهم اهدِ قومي فإنهم لا يعلمون.”
-  </p>
-</blockquote>
+> ولبث في قومه ألف سنة إلا خمسين عاماً… وكان يدعوهم ليلاً ونهاراً، فلا
+> يزيدهم دعاؤه إلا فراراً، وكان يضربه قومه حتى يغشى عليه، فإذا أفاق قال:
+> “اللهم اهدِ قومي فإنهم لا يعلمون.”
 
 “Prophet Nūh (as) lived among his people for 950 years…And he would
 invite them day and night, but it would add nothing in them save
@@ -170,21 +122,13 @@ guide my people for they do not know.”[^3]
 
 When he saw Ibn Muljim he recited the following near ‘Amr bin Ma’dikarb:
 
-<blockquote dir="rtl">
-  <p>
-أُرِيْدُ حَيَاتَهُ وَ يُرِيْدُ قَتْلِي.
-  </p>
-</blockquote>
+> أُرِيْدُ حَيَاتَهُ وَ يُرِيْدُ قَتْلِي.
 
 I seek his life and he wants me to be killed
 
 11. It is narrated that Prophet ‘Isā (as) once said[^5]:
 
-<blockquote dir="rtl">
-  <p>
-كُنْ كاَلشَّمْسِ تَطْلَع عَلى البِّرِّ وَالْفَاجِرِ.
-  </p>
-</blockquote>
+> كُنْ كاَلشَّمْسِ تَطْلَع عَلى البِّرِّ وَالْفَاجِرِ.
 
 “Be like the sun; it shines upon the virtuous and sinful.”
 
@@ -193,16 +137,12 @@ whose works enjoy a certain veneration in the scholarly circles. In his
 well-known prayer manual - *Iqbāl al-Ā‘māl*, which indeed is a
 masterpiece of devotional supplications, he narrates the following:
 
-<blockquote dir="rtl">
-  <p>
-كنت في ليلة جليلة من شهر رمضان، بعد تصنيف هذا الكتاب بزمان، وأنا أدعو
-في السحر لمن يجب أو يحسن تقديم الدعاء له ولي و... فورد على خاطري أن
-الجاحدين لله جل جلاله ولنعمه، والمستخفين بحرمته، والمبدلين لحكمه في
-عباده وخليقته، ينبغي أن يبدأ بالدعاء لهم بالهداية من ضلالتهم، فإن
-جنايتهم على الربوبية والحكمة الإلهية والجلالة النبوية أشد من جناية
-العارفين بالله وبالرسول (ص).
-  </p>
-</blockquote>
+> كنت في ليلة جليلة من شهر رمضان، بعد تصنيف هذا الكتاب بزمان، وأنا أدعو
+> في السحر لمن يجب أو يحسن تقديم الدعاء له ولي و... فورد على خاطري أن
+> الجاحدين لله جل جلاله ولنعمه، والمستخفين بحرمته، والمبدلين لحكمه في
+> عباده وخليقته، ينبغي أن يبدأ بالدعاء لهم بالهداية من ضلالتهم، فإن
+> جنايتهم على الربوبية والحكمة الإلهية والجلالة النبوية أشد من جناية
+> العارفين بالله وبالرسول (ص).
 
 “Some time after having written this book, during one of the great
 nights of the holy month of Ramadān, when I was praying at sahar time
@@ -216,13 +156,9 @@ the crime of those who know Allāh (swt) and His Messenger (s)…”
 
 Then, after a few lines he says[^6]:
 
-<blockquote dir="rtl">
-  <p>
-فدعوت لكل ضال عن الله بالهداية إليه، ولكل ضال عن الرسول بالرجوع إليه،
-ولكل ضال عن الحق بالاعتراف به والاعتماد عليه. ثم دعوت لأهل التوفيق
-والتحقيق بالثبوت على توفيقهم، والزيادة في تحقيقهم، ودعوت لنفسي ومن...
-  </p>
-</blockquote>
+> فدعوت لكل ضال عن الله بالهداية إليه، ولكل ضال عن الرسول بالرجوع إليه،
+> ولكل ضال عن الحق بالاعتراف به والاعتماد عليه. ثم دعوت لأهل التوفيق
+> والتحقيق بالثبوت على توفيقهم، والزيادة في تحقيقهم، ودعوت لنفسي ومن...
 
 “So I prayed for all those who have deviated from Allāh to be guided
 towards Him, and all those who have deviated from His Messenger to
@@ -272,12 +208,8 @@ is the ‘deficiency of the receptacle of Grace.’ Otherwise the Creator’s
 Grace is abundantly poured down to all. The Holy Qur’ān so beautifully
 expounds this truth in chapter ar-Ra’d (13), verse 17:
 
-<blockquote dir="rtl">
-  <p>
- أَنزَلَ مِنَ السَّمَاءِ مَــآءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا...
-
-  </p>
-</blockquote>
+>  أَنزَلَ مِنَ السَّمَاءِ مَــآءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا...
+> 
 
 ***“He sent down water from the sky, and the channels flowed, each
 according to its measure…”***
@@ -313,23 +245,15 @@ Following are examples worthy of consideration:
 
 1. The Holy Prophet (s) is reported to have said[^8]:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ شَيْءٌ أَسْرَعُ إِجَابَةً مِنْ دَعْوَةِ غَائبٍ لِغَائِبٍ.
-  </p>
-</blockquote>
+> لَيْسَ شَيْءٌ أَسْرَعُ إِجَابَةً مِنْ دَعْوَةِ غَائبٍ لِغَائِبٍ.
 
 “Nothing is accepted as quickly as one’s supplication for another in his
 absence.”
 
 2. It is reported from Imām al-Sādiq (as) that he said[^9]:
 
-<blockquote dir="rtl">
-  <p>
-دُعَاءُ الْمُؤْمِنِ لِلْمُؤْمِنِ يَدْفَعُ عَنْهُ الْبَلاءَ، وَ يَدِرُّ
-عَلَيْهِ الرِّزْقَ.
-  </p>
-</blockquote>
+> دُعَاءُ الْمُؤْمِنِ لِلْمُؤْمِنِ يَدْفَعُ عَنْهُ الْبَلاءَ، وَ يَدِرُّ
+> عَلَيْهِ الرِّزْقَ.
 
 “The du‘ā’ of a believer for another believer dispels calamities from
 him and showers him with abundant sustenance.”
@@ -340,12 +264,8 @@ Absolute Need of the Human Being
 In the culture of the Holy Qur’ān every human being, whatever status he
 may have in this world, is needy. The Holy Qur’ān [35:15] says:
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيُّهَا النَّاسُ أَنْتُمُ الْفُقَرَاءُ إِلـى اللٌّهِ وَاللٌّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ 
-  </p>
-</blockquote>
+>  يَا أَيُّهَا النَّاسُ أَنْتُمُ الْفُقَرَاءُ إِلـى اللٌّهِ وَاللٌّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ 
 
 ***“O human beings, you are needy to Allāh, and it is Allāh Who is
 Affluent, the Praised one.”***
@@ -357,11 +277,7 @@ all human beings together with their possessions as well as all the
 other dependent entities, entirely stand and subsist by the cause of
 Divine Grace. We read on Thursday nights[^10]:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَائِمَ الْفَضْلِ عَلـى الْبَرِيَّة.
-  </p>
-</blockquote>
+> يَا دَائِمَ الْفَضْلِ عَلـى الْبَرِيَّة.
 
 “O One Who continuously Bestows Grace on the creation.”
 
@@ -468,12 +384,8 @@ the act in itself is enjoyable for the person. Salāt, for example, to
 those who are not humble before God is burdensome and difficult. The
 Holy Qur’ān [2:45] says:
 
-<blockquote dir="rtl">
-  <p>
- وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلاَةِ وَإِنَّهَا لَكَبِيرَةٌ
-إِلاَّ عَلى الْخَاشِعِينَ 
-  </p>
-</blockquote>
+>  وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلاَةِ وَإِنَّهَا لَكَبِيرَةٌ
+> إِلاَّ عَلى الْخَاشِعِينَ 
 
 ***“And take recourse in patience and prayer, and that is indeed hard
 except for the humble.”***
@@ -481,21 +393,13 @@ except for the humble.”***
 But one who has cleaned his heart and loves to whisper to the Only
 Beloved says:
 
-<blockquote dir="rtl">
-  <p>
-قُمْ ياَ بِلاَلُ فَأَرِحْنَا باِلصَّلاَةِ.
-  </p>
-</blockquote>
+> قُمْ ياَ بِلاَلُ فَأَرِحْنَا باِلصَّلاَةِ.
 
 “Stand O Bilāl, and make us happy with prayer.”[^11]
 
 And says:
 
-<blockquote dir="rtl">
-  <p>
-قُرَّةُ عَيْنِي فِي الصَّلاَةِ.
-  </p>
-</blockquote>
+> قُرَّةُ عَيْنِي فِي الصَّلاَةِ.
 
 “The delight of my eye (*qurratu‘aynī*) is in prayer.”[^12]
 
@@ -540,5 +444,4 @@ claim to have ascended to the higher level, but between ‘contention’ and
 [^11]: Mīzān al-Hikma, new ed., v. 1, pg. 62
 
 [^12]: Bihār al-Anwār, v. 82, pg. 193
-
 

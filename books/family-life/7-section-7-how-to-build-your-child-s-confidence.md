@@ -206,4 +206,3 @@ disabled or as victims of neglect, cruelty and exploitation.
  Society has a heavy responsibility to combat violence against children
 and to allow them to grow as normal, healthy and happy children.
 
-

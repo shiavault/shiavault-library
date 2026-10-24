@@ -259,4 +259,3 @@ The doctor didn't reply but said; "I 'll see you everyday until you
 fully recover, which will be soon. God Willing, with Warqa's help." Dr.
 Miyad left and Warqa kept the book to read.
 
-

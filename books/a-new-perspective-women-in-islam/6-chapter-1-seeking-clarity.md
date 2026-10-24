@@ -620,4 +620,3 @@ author.
 
 [^25]: Wasail Al-Sh’iah, v. 15, p. 100.
 
-

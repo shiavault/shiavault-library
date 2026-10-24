@@ -60,4 +60,3 @@ and cried until he was killed.”
 
 (*Bihar*, 45, 144)
 
-

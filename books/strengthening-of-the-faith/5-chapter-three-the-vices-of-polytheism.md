@@ -407,4 +407,3 @@ in a similar manner as a criminal subject is a thousand times preferable
 to a toady mutineer, because the former is remorseful on his sin, and
 the latter proud and callous.
 
-

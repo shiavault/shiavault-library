@@ -46,4 +46,3 @@ Allah and my \`Itrat” is an authentic tradition consecutively
 transmitted and which all authors of Sahih books, be they Sunnis or
 Shi\`as, record.
 
-

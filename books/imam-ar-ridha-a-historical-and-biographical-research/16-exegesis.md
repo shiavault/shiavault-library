@@ -341,4 +341,3 @@ integrity of their narrators is not questioned.
 
 [^9]: Yousuf:87
 
-

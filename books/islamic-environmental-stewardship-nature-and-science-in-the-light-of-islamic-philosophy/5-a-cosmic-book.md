@@ -58,4 +58,3 @@ subservient*
 *between the heaven and the earth, there are signs for a people who
 understand.* 14
 
-

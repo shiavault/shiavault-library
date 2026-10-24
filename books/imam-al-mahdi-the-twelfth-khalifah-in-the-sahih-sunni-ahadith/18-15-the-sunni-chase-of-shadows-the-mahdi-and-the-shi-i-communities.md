@@ -16,15 +16,11 @@ religion of the eleven Imams of the Ahl al-Bayt, *‘alaihim al-salam*,
 before him. There is simply no doubt about that. Imam al-Tirmidhi (d.
 279 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا نصر بن عبد الرحمن الكوفي حدثنا زيد بن الحسن هو الأنماطي عن جعفر
-بن محمد عن أبيه عن جابر بن عبد الله قال رأيت رسول الله صلى الله عليه و
-سلم في حجته يوم عرفة وهو على ناقته القصواء يخطب فسمعته يقول يا أيها
-الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله وعترتي أهل
-بيتي
-  </p>
-</blockquote>
+> حدثنا نصر بن عبد الرحمن الكوفي حدثنا زيد بن الحسن هو الأنماطي عن جعفر
+> بن محمد عن أبيه عن جابر بن عبد الله قال رأيت رسول الله صلى الله عليه و
+> سلم في حجته يوم عرفة وهو على ناقته القصواء يخطب فسمعته يقول يا أيها
+> الناس إني قد تركت فيكم ما إن أخذتم به لن تضلوا كتاب الله وعترتي أهل
+> بيتي
 
 Nasr b. ‘Abd al-Rahman al-Kufi – Zayd b. al-Hasan al-Anmaṭi – Ja’far b.
 Muhammad – his father – Jabir b. ‘Abd Allah:
@@ -37,12 +33,8 @@ of Allah and MY OFFSPRING, my Ahl al-Bayt**.”[^1]
 
 Al-Tirmidhi comments:
 
-<blockquote dir="rtl">
-  <p>
-وهذا حديث حسن غريب من هذا الوجه و زيد بن الحسن قد روى عنه سعيد بن
-سليمان وغير واحد من أهل العلم
-  </p>
-</blockquote>
+> وهذا حديث حسن غريب من هذا الوجه و زيد بن الحسن قد روى عنه سعيد بن
+> سليمان وغير واحد من أهل العلم
 
 **And this** ***hadith*** **is** ***hasan gharib*** **(i.e. has a**
 ***hasan*** **chain) from this route**. As for Zayd b. al-Hasan, Sa’id
@@ -51,25 +43,17 @@ him.[^2]
 
 And ‘Allamah al-Albani (d. 1420 H) also says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^3]
 
 Meanwhile, Imam al-Mahdi himself is only from these same rightly guided
 offspring. Imam Abu Dawud (d. 275 H) has the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن إبراهيم ثنا عبد الله بن جعفر الرقي ثنا أبو المليح الحسن
-بن عمر عن زياد بن بيان عن علي بن نفيل عن سعيد بن المسيب عن أم سلمة
-قالت سمعت رسول الله صلى الله عليه و سلم يقول " المهدي من عترتي من ولد
-فاطمة "
-  </p>
-</blockquote>
+> حدثنا أحمد بن إبراهيم ثنا عبد الله بن جعفر الرقي ثنا أبو المليح الحسن
+> بن عمر عن زياد بن بيان عن علي بن نفيل عن سعيد بن المسيب عن أم سلمة
+> قالت سمعت رسول الله صلى الله عليه و سلم يقول " المهدي من عترتي من ولد
+> فاطمة "
 
 Ahmad b. Ibrahim – ‘Abd Allah b. Ja’far al-Raqqi – Abu al-Mulayh
 al-Hasan b. ‘Umar – Ziyad b. Bayan – ‘Ali b. Nufayl – Sa’id b.
@@ -80,11 +64,7 @@ is from MY OFFSPRING**, from the descendants of Faṭimah.”[^4]
 
 Al-Albani declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^5]
 
@@ -95,18 +75,10 @@ Interestingly, the Ahl al-Sunnah wa al-Jama’ah do not follow the
 offspring of the Prophet, *sallallahu ‘alaihi wa alihi*. Shaykh Ibn
 Taymiyyah (d. 728 H) confirms this with pride:
 
-<blockquote dir="rtl">
-  <p>
-قال الرافضي و في الفقه الفقهاء يرجعون إليه
-  </p>
-</blockquote>
+> قال الرافضي و في الفقه الفقهاء يرجعون إليه
 
-<blockquote dir="rtl">
-  <p>
-و الجواب أن هذا كذب بين فليس في الأئمة الأربعة و لا غيرهم من أئمة
-الفقهاء من يرجع إليه في فقهه
-  </p>
-</blockquote>
+> و الجواب أن هذا كذب بين فليس في الأئمة الأربعة و لا غيرهم من أئمة
+> الفقهاء من يرجع إليه في فقهه
 
 The Rafidhi said: “In *fiqh* (Islamic jurisprudence), the (Sunni)
 jurists used to reference him (i.e. ‘Ali).”
@@ -117,12 +89,8 @@ Imams and others from the Imams of the jurists who referenced him (i.e.
 
 He also adds:
 
-<blockquote dir="rtl">
-  <p>
-وهذه كتب الحديث والتفسير مملوءة بالآثار عن الصحابة والتابعين والذي
-فيها عن علي قليل جدا
-  </p>
-</blockquote>
+> وهذه كتب الحديث والتفسير مملوءة بالآثار عن الصحابة والتابعين والذي
+> فيها عن علي قليل جدا
 
 These are **books of** ***hadith*** **and** ***tafsir***, filled with
 reports from the Sahabah and Tabi’in. **What is recorded in them from
@@ -130,20 +98,12 @@ reports from the Sahabah and Tabi’in. **What is recorded in them from
 
 He equally proclaims:
 
-<blockquote dir="rtl">
-  <p>
-قال الرافضي أما المالكية فاخذوا علمهم عنه و عن أولاده
-  </p>
-</blockquote>
+> قال الرافضي أما المالكية فاخذوا علمهم عنه و عن أولاده
 
-<blockquote dir="rtl">
-  <p>
-و الجواب أن هنا كذب ظاهر فهذا موطأ مالك ليس فيه عنه و لا عن أحد أولاده
-إلا قليل جدا و جمهور ما فيه عن غيرهم فيه عن جعفر تسعة أحاديث و لم يرو
-مالك عن أحد من ذريته إلا عن جعفر و كذلك الأحاديث التي في الصحاح و
-السنن و المساند منها قليل عن ولده و جمهور ما فيها عن غيرهم
-  </p>
-</blockquote>
+> و الجواب أن هنا كذب ظاهر فهذا موطأ مالك ليس فيه عنه و لا عن أحد أولاده
+> إلا قليل جدا و جمهور ما فيه عن غيرهم فيه عن جعفر تسعة أحاديث و لم يرو
+> مالك عن أحد من ذريته إلا عن جعفر و كذلك الأحاديث التي في الصحاح و
+> السنن و المساند منها قليل عن ولده و جمهور ما فيها عن غيرهم
 
 The Rafidhi said: “As for the Malikis, they took their knowledge from
 him (i.e. ‘Ali) and from his (i.e. ‘Ali’s) offspring.”
@@ -183,15 +143,11 @@ The top linguists of the Ahl al-Sunnah have also admitted that the word
 his offspring from the Ahl al-Bayt. For instance, the chief Sunni
 lexicographer, Ibn Manzur (d. 711 H), declares:
 
-<blockquote dir="rtl">
-  <p>
-وقد غلب هذا الاسم على من يتوالى عليا وأهل بيته، رضوان الله عليهم
-أجمعين، حتى صار لهم اسما خاصا فإذا قيل: فلان من الشيعة عرف أنه منهم.
-وفي مذهب الشيعة كذا أي عندهم. وأصل ذلك من المشايعة، وهي المتابعة
-والمطاوعة، قال الأزهري: والشيعة قوم يهوون هوى عترة النبي، صلى الله
-عليه وسلم، ويوالونهم.
-  </p>
-</blockquote>
+> وقد غلب هذا الاسم على من يتوالى عليا وأهل بيته، رضوان الله عليهم
+> أجمعين، حتى صار لهم اسما خاصا فإذا قيل: فلان من الشيعة عرف أنه منهم.
+> وفي مذهب الشيعة كذا أي عندهم. وأصل ذلك من المشايعة، وهي المتابعة
+> والمطاوعة، قال الأزهري: والشيعة قوم يهوون هوى عترة النبي، صلى الله
+> عليه وسلم، ويوالونهم.
 
 **This name (i.e. “Shi’ah) has become synonymous with those who follow
 ‘Ali and his Ahl al-Bayt, pleasure of Allah be upon them all, such that
@@ -206,13 +162,9 @@ them**.”[^9]
 Imam Ibn al-‘Athir (d. 606 H) is slightly aggressive. Yet, he too is
 principally of the same opinion:
 
-<blockquote dir="rtl">
-  <p>
-وقد غلب هذ الاسم على كل من يزعم أنه يتولى عليا رضي اللهعنه وأهل بيته
-حتى صار لهم اسما خاصا فإاذ قيل فلان من الشيعة عرف أنه منهم وفي مذهب
-الشية كذا أي عندهم
-  </p>
-</blockquote>
+> وقد غلب هذ الاسم على كل من يزعم أنه يتولى عليا رضي اللهعنه وأهل بيته
+> حتى صار لهم اسما خاصا فإاذ قيل فلان من الشيعة عرف أنه منهم وفي مذهب
+> الشية كذا أي عندهم
 
 **This name (i.e. “Shi’ah) has become synonymous with those who claim
 that they follow ‘Ali and his Ahl al-Bayt, such that it has become their
@@ -222,15 +174,11 @@ Shi’ah”, it is known that he is from them; and “it is like that in the
 
 Imam al-Zubaydi (d. 1205 H) also shares the submission of Ibn Manzur:
 
-<blockquote dir="rtl">
-  <p>
-وقد غلب هذا الاسم على كل من يتولى عليا وأهل بيته، رضي الله عنهم
-أجمعين، حتى صار اسما لهم خاصا، فإذا قيل: فلان من الشيعة عرف أنه منهم،
-وفي مذهب الشيعة كذا، أي عندهم، أصل ذلك من المشايعة، وهي المطاوعة
-والمتابعة ... وقال الأزهري: الشيعة: قوم يهوون هوى عترة النبي صلى الله
-عليه وسلم، ويوالونهم.
-  </p>
-</blockquote>
+> وقد غلب هذا الاسم على كل من يتولى عليا وأهل بيته، رضي الله عنهم
+> أجمعين، حتى صار اسما لهم خاصا، فإذا قيل: فلان من الشيعة عرف أنه منهم،
+> وفي مذهب الشيعة كذا، أي عندهم، أصل ذلك من المشايعة، وهي المطاوعة
+> والمتابعة ... وقال الأزهري: الشيعة: قوم يهوون هوى عترة النبي صلى الله
+> عليه وسلم، ويوالونهم.
 
 **This name (i.e. “Shi’ah) has become synonymous with those who follow
 ‘Ali and his Ahl al-Bayt, may Allah be pleased with them all, such that
@@ -277,12 +225,8 @@ Obviously, they will earn Allah’s Pleasure more than any others, through
 their ummatched sacrifices and support for the Awaited Mahdi. Imam Ibn
 Abi Shaybah (d. 235 H) has the clear *athar*:
 
-<blockquote dir="rtl">
-  <p>
-يعلى بن عبيد عن الأجلح عن عمار الدهني عن سالم عن عبد الله بن عمرو قال:
-يا أهل الكوفة، أنتم أسعد الناس بالمهدي.
-  </p>
-</blockquote>
+> يعلى بن عبيد عن الأجلح عن عمار الدهني عن سالم عن عبد الله بن عمرو قال:
+> يا أهل الكوفة، أنتم أسعد الناس بالمهدي.
 
 Ya’la b. ‘Ubayd – al-Ajlah – ‘Ammar al-Dahni – Salim – ‘Abd Allah b.
 ‘Amr, he said:
@@ -292,16 +236,12 @@ Mahdi**.”[^12]
 
 Dr. al-Bastawi also submits:
 
-<blockquote dir="rtl">
-  <p>
-وأخرجه أيضا أبو عمرو الداني في سننه، قال: حدثنا عبد الرحمن بن عثمان،
-حدثنا قاسم، حدثنا أحمد بن زهير، حدثنا عبد الرحمن بن صالح، حدثنا عبد
-الله بن الأجلح، عن عمار الدهني، عن سالم بن أبي الجعد قال: خرجنا حجاجا،
-فجئت إلى عبد الله بن عمرو بن العاص، فقال: ممن أنت يا رجل؟ قال: قلت: من
-أهل العراق. قال: فكن إذا من أهل الكوفة. قال: فقلت: أنا منهم، قال:
-فإنهم أسعد الناس بالمهدي
-  </p>
-</blockquote>
+> وأخرجه أيضا أبو عمرو الداني في سننه، قال: حدثنا عبد الرحمن بن عثمان،
+> حدثنا قاسم، حدثنا أحمد بن زهير، حدثنا عبد الرحمن بن صالح، حدثنا عبد
+> الله بن الأجلح، عن عمار الدهني، عن سالم بن أبي الجعد قال: خرجنا حجاجا،
+> فجئت إلى عبد الله بن عمرو بن العاص، فقال: ممن أنت يا رجل؟ قال: قلت: من
+> أهل العراق. قال: فكن إذا من أهل الكوفة. قال: فقلت: أنا منهم، قال:
+> فإنهم أسعد الناس بالمهدي
 
 Abu ‘Amr al-Dani also recorded it in his *Sunan*, saying: ‘Abd al-Rahman
 b. ‘Uthman – Qasim – Ahmad b. Zuhayr – ‘Abd al-Rahman b. Salih – ‘Abd
@@ -315,14 +255,10 @@ mankind with the Mahdi**.”[^13]
 
 Then, he says after examining the narrators:
 
-<blockquote dir="rtl">
-  <p>
-وبعد دراسة تراجم رجال الإسناد تبين أن الإسناد الأول فيه الأجلح الكندي
-وأكثر الأئمة على تضعيفه. ولكن تابعه ولده في الإسناد الثاني وهو صدوق.
-وعمار الدهني روى عنه الأجلح وابنه عبد الله بن الأجلح كلاهما كما ذكر
-المزي في تهذيب الكمال في ترجمة عمار الدهني
-  </p>
-</blockquote>
+> وبعد دراسة تراجم رجال الإسناد تبين أن الإسناد الأول فيه الأجلح الكندي
+> وأكثر الأئمة على تضعيفه. ولكن تابعه ولده في الإسناد الثاني وهو صدوق.
+> وعمار الدهني روى عنه الأجلح وابنه عبد الله بن الأجلح كلاهما كما ذكر
+> المزي في تهذيب الكمال في ترجمة عمار الدهني
 
 After research into the biographical entries on the narrators of the
 chain, it is clear that in the first chain, there is al-Ajlah al-Kindi.
@@ -334,13 +270,9 @@ son, ‘Abd Allah b. al-Ajlah, narrated from him, as stated by al-Mizzi in
 
 And he gives the final verdict:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن إلى عبد الله بن عمرو رضي الله عنهما. ولكنه رضي الله عنه كان
-ينظر في كتب أهل الكتاب ويروي عنهم. فقد يكون الخبر من الإسرائيليات.
-والله أعلم.
-  </p>
-</blockquote>
+> إسناده حسن إلى عبد الله بن عمرو رضي الله عنهما. ولكنه رضي الله عنه كان
+> ينظر في كتب أهل الكتاب ويروي عنهم. فقد يكون الخبر من الإسرائيليات.
+> والله أعلم.
 
 **Its chain is** ***hasan*** up to ‘Abd Allah b. ‘Amr, may Allah be
 pleased with them both. However, he, may Allah be pleased with him, used
@@ -412,5 +344,4 @@ al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), pp.
 [^14]: Ibid, p. 218, \# 13
 
 [^15]: Ibid, pp. 218-219, \# 13
-
 

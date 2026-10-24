@@ -119,4 +119,3 @@ end)”***
 And he delivered a sermon similar to that which we have quoted earlier
 when Imam met Hurr.
 
-

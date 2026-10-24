@@ -21,9 +21,7 @@ order.
 2. Then, we recite the Takbiratul Ihram in the following way, by raising
 both the hands until they are parallel to our ears and then we say:
 
-<p dir="rtl">
 اَللهُ أكْبَرُ
-</p>
 
 ***Allahu Akbar***
 
@@ -31,13 +29,10 @@ both the hands until they are parallel to our ears and then we say:
 
 ***![](http://alhassanain.org/english/books/0668-method_of_salat/images/image011.jpg)***
 
-<p dir="rtl">
 اَللهُ أكْبَرُ
-</p>
 
 ***Allahu AkbarAllah is greater than anything else)***
 
 3. We then lower our hands and rest them on our thighs and start by
 reciting Surah al-Fatiha, followed by another Surah of the Holy Qur'an.
-
 

@@ -85,4 +85,3 @@ conditions for entering into agreements and contracts and similar other
 laws provide both rights and duties accruing from such agreements and
 contracts.
 
-

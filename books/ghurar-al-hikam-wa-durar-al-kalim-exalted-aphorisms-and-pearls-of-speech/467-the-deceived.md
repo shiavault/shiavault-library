@@ -6,12 +6,8 @@ The Deceived
 1. Deceived is the one who is occupied with the world and loses his
 share of the Hereafter.
 
-<blockquote dir="rtl">
-  <p>
-ـ اَلْمَغْبُونُ مَنْ شُغِلَ بِالدُّنْيا وَفاتَهُ حَظُّهُ مِنَ
-الاخِرَةِ.
-  </p>
-</blockquote>
+> ـ اَلْمَغْبُونُ مَنْ شُغِلَ بِالدُّنْيا وَفاتَهُ حَظُّهُ مِنَ
+> الاخِرَةِ.
 
 2. Deceived is the one whose faith is corrupt.
 
@@ -25,5 +21,4 @@ share of the Hereafter.
 other than Him?!
 
 > 4ـ مَنْ أغْبَنُ مِمَّنْ باعَ اللّهَ سُبْحانَهُ بِغَيْرِهِ.
-
 

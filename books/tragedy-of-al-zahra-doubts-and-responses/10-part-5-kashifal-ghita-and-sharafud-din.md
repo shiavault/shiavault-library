@@ -2882,4 +2882,3 @@ Prophet’s Lifetime,” in a section on the birth of the Prophet (S), pp.
 
 [^63]: \_\_, Al-Murshid, Nos. 3 & 4, pp. 198-199.
 
-

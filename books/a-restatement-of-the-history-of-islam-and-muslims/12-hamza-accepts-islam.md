@@ -69,4 +69,3 @@ the titles of the “Lion of God,” and the “Chief of the Martyrs.”
 
 Hamza accepted Islam in the fifth year of the Proclamation.
 
-

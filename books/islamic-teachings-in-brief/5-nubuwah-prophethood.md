@@ -173,7 +173,6 @@ monotheism and the true religion. As Allah states:
 "And We did not send before you any messenger but We revealed to him
 that there is no god but Me, therefore worship Me (21:25)."
 
-
 **ULUL'AZM ANBIYA' (ARCH-PROPHETS) AND ALL OTHER PROPHETS**
 
 There were five prophets who had divine books and independent
@@ -482,5 +481,4 @@ explicitly struggle against the superstitious beliefs of idolatry. The
 same applied to those belonging to other religions such as Jews and
 christians, who lived respectfully among the Arabs without being
 bothered by them.
-
 

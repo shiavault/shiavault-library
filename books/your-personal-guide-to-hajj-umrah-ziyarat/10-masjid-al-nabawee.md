@@ -65,4 +65,3 @@ Mehrab al-Nabawee
 Just before the mimber is the Mehrab al-Nabawee. It is from this Mehrab
 that the Prophet of Islam used to conduct Salaat al-Jamaat.
 
-

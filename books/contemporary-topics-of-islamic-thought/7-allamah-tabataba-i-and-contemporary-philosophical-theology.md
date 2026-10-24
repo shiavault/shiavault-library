@@ -561,4 +561,3 @@ Sayyid Saeed Akhtar Rizvi (Tehran: WOFIS, 1982), vol. 4, p. 133­-42.
 [^11]: R. C. Zaehner, Mysticism: Sacred and Profane (New York: Oxford
 University Press, 1961).
 
-

@@ -8,12 +8,8 @@ conviction – They shall desire to be returned to this life
 Surah Al-‘An’am, Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللّهِ كَذِبًا أَوْ كَذَّبَ
-بِآيَاتِهِ إِنَّهُ لاَ يُفْلِحُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللّهِ كَذِبًا أَوْ كَذَّبَ
+> بِآيَاتِهِ إِنَّهُ لاَ يُفْلِحُ الظَّالِمُونَ
 
 **21.** ***"And who is more unjust than him who forges a lie against***
 ***Allah*** ***or denies His Signs; Verily the unjust will not succeed.
@@ -63,12 +59,8 @@ Again, he *(as)* said:
 Surah Al-‘An’am, Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُواْ
-أَيْنَ شُرَكَآؤُكُمُ الَّذِينَ كُنتُمْ تَزْعُمُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُواْ
+> أَيْنَ شُرَكَآؤُكُمُ الَّذِينَ كُنتُمْ تَزْعُمُونَ
 
 **22.** ***"And on the Day We will muster them all together, then We
 will say to those who associated partners (to*** ***Allah): 'Where are
@@ -106,19 +98,11 @@ person who refuses us (our way) is similar to the person who refuses
 Surah Al-‘An’am, Verses 23 - 24
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللّهِ رَبِّنَا
-مَا كُنَّا مُشْرِكِينَ
-  </p>
-</blockquote>
+> ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللّهِ رَبِّنَا
+> مَا كُنَّا مُشْرِكِينَ
 
-<blockquote dir="rtl">
-  <p>
-انظُرْ كَيْفَ كَذَبُواْ عَلَى أَنفُسِهِمْ وَضَلَّ عَنْهُم مَّا
-كَانُواْ يَفْتَرُونَ
-  </p>
-</blockquote>
+> انظُرْ كَيْفَ كَذَبُواْ عَلَى أَنفُسِهِمْ وَضَلَّ عَنْهُم مَّا
+> كَانُواْ يَفْتَرُونَ
 
 **23.** ***"Then their excuse would be nothing but that they would say:
 'By*** ***Allah, our Lord! we were not polytheists'. "***
@@ -160,15 +144,11 @@ helpful.
 Surah Al-‘An’am, Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ وَجَعَلْنَا عَلَى قُلُوبِهِمْ
-أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن يَرَوْاْ
-كُلَّ آيَةٍ لاَّ يُؤْمِنُواْ بِهَا حَتَّى إِذَا جَآؤُوكَ
-يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُواْ إِنْ هَذَا إِلاَّ
-أَسَاطِيرُ الأَوَّلِينَ
-  </p>
-</blockquote>
+> وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ وَجَعَلْنَا عَلَى قُلُوبِهِمْ
+> أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن يَرَوْاْ
+> كُلَّ آيَةٍ لاَّ يُؤْمِنُواْ بِهَا حَتَّى إِذَا جَآؤُوكَ
+> يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُواْ إِنْ هَذَا إِلاَّ
+> أَسَاطِيرُ الأَوَّلِينَ
 
 **25.** ***"And of them there are some who hearken to you, and We have
 laid veils upon their hearts lest they understand it, and in their ears
@@ -227,12 +207,8 @@ ancients '."***
 Surah Al-‘An’am, Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ وَإِن يُهْلِكُونَ إِلاَّ
-أَنفُسَهُمْ وَمَا يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ وَإِن يُهْلِكُونَ إِلاَّ
+> أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
 **26.** ***"And they prohibit people from it, and themselves they keep
 afar from it, and they destroy none save themselves, while they are not
@@ -272,13 +248,9 @@ of truth and leader of truth, from whoever it maybe, is foolishness.
 Surah Al-‘An’am, Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَرَىَ إِذْ وُقِفُواْ عَلَى النَّارِ فَقَالُواْ يَا لَيْتَنَا
-نُرَدُّ وَلاَ نُكَذِّبَ بِآيَاتِ رَبِّنَا وَنَكُونَ مِنَ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَوْ تَرَىَ إِذْ وُقِفُواْ عَلَى النَّارِ فَقَالُواْ يَا لَيْتَنَا
+> نُرَدُّ وَلاَ نُكَذِّبَ بِآيَاتِ رَبِّنَا وَنَكُونَ مِنَ
+> الْمُؤْمِنِينَ
 
 **27.** ***"And if you could see when they are stationed before the
 (Hell) Fire, then they say: 'Would that we might be returned, and we
@@ -324,12 +296,8 @@ remorse in the Hereafter, and being entangled with the Hell-Fire.
 Surah Al-‘An’am, Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ بَدَا لَهُم مَّا كَانُواْ يُخْفُونَ مِن قَبْلُ وَلَوْ رُدُّواْ
-لَعَادُواْ لِمَا نُهُواْ عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> بَلْ بَدَا لَهُم مَّا كَانُواْ يُخْفُونَ مِن قَبْلُ وَلَوْ رُدُّواْ
+> لَعَادُواْ لِمَا نُهُواْ عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ
 
 **28.** ***"Rather, what they used to hide before has (now) appeared to
 them; and even if they were returned, they would revert to what they
@@ -374,20 +342,12 @@ in the Hereafter, too, and will bring some false claims there.
 Surah Al-‘An’am, Verse 29 - 30
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُواْ إِنْ هِيَ إِلاَّ حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ
-بِمَبْعُوثِينَ
-  </p>
-</blockquote>
+> وَقَالُواْ إِنْ هِيَ إِلاَّ حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ
+> بِمَبْعُوثِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَرَى إِذْ وُقِفُواْ عَلَى رَبِّهِمْ قَالَ أَلَيْسَ هَذَا
-بِالْحَقِّ قَالُواْ بَلَى وَرَبِّنَا قَالَ فَذُوقُواْ العَذَابَ بِمَا
-كُنتُمْ تَكْفُرُونَ
-  </p>
-</blockquote>
+> وَلَوْ تَرَى إِذْ وُقِفُواْ عَلَى رَبِّهِمْ قَالَ أَلَيْسَ هَذَا
+> بِالْحَقِّ قَالُواْ بَلَى وَرَبِّنَا قَالَ فَذُوقُواْ العَذَابَ بِمَا
+> كُنتُمْ تَكْفُرُونَ
 
 **29.** ***"And they say: ' There is nothing save our life of the world
 and we shall not be resurrected'."***  
@@ -434,5 +394,4 @@ canonical prayer for which a servant says he is standing before Allah*.*
 [^2]: Surah Al-Mujadilah, No 58, Verse 18
 
 [^3]: refer to al-Qadir, vols. 7 and 8
-
 

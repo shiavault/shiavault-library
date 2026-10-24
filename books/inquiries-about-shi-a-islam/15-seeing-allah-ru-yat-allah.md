@@ -137,4 +137,3 @@ Ahmad ibn Hanbal, Vol. 4. 360, 362, and 365
 
 [^13]: Noble Qur’an, 42:11
 
-

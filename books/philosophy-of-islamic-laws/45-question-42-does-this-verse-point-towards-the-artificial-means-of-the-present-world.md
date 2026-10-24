@@ -28,8 +28,5 @@ miraculous aspect because it informs about those existing things, which
 were hidden from the eyes of men of that period. With the progress of
 science they came to be known afterwards.
 
-
-
 [^1]: Surah Nahl 16:8
-
 

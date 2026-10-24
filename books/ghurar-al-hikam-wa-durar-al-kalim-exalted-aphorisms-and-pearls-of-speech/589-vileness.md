@@ -12,11 +12,7 @@ and commendation.
 all the vices, evils and lowly traits.
 
 > 2ـ اَللُّؤْمُ مُضادٌّ لِسائِرِ الفَضائِل، وجامِعٌ لِجَميعِ الرَّذائِلِ
-<blockquote dir="rtl">
-  <p>
-والسَّوْءاتِ وَالدَّنايا.
-  </p>
-</blockquote>
+> والسَّوْءاتِ وَالدَّنايا.
 
 3. The greatest vileness is praising the blameworthy.
 
@@ -67,14 +63,9 @@ sacrifice his dignity [instead].
 surrendering his wife.
 
 > 14ـ مِنْ أعْظَمِ اللُّؤْمِ إحْرازُ المَرْءِ نَفْسَهُ وإسْلامُهُ
-<blockquote dir="rtl">
-  <p>
-عِرسَهُ.
-  </p>
-</blockquote>
+> عِرسَهُ.
 
 15. Being ill-natured is from vileness.
 
 > 15ـ مِنَ اللُّؤْمِ سُوءُ الخُلْقِ.
-
 

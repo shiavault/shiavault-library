@@ -9,4 +9,3 @@ Resurrection, and there is no possibility of interpreting them in some
 other way. Therefore it is obligatory to have belief in physical
 Resurrection.
 
-

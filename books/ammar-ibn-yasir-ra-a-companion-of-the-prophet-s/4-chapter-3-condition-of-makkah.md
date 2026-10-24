@@ -433,4 +433,3 @@ family".
 
 [^1]: Fahr was the tenth ancestor of the Holy Prophet.
 
-

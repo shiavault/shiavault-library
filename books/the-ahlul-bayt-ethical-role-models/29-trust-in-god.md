@@ -180,4 +180,3 @@ in situations of joy and misery.
 [^4]: Quoted from Safinat ul-Bihar; 2/683 (as quoted from Bayan
 ut-Tanzil).
 
-

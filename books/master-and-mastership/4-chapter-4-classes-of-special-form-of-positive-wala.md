@@ -194,4 +194,3 @@ al-Shura.
 
 [^6]: Wasail al-Shi'ah, Vol. 1, p. 159, New Edition.
 
-

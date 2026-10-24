@@ -41,4 +41,3 @@ and howling, and the grief and mourning were renewed, along with whoever
 had heard  their crying from the people of Sham, as it was not seen on
 that day anyone, man or woman, but was crying.
 
-

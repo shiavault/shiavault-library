@@ -211,4 +211,3 @@ eyes do not see. Indeed, my existence is an amnesty for the people of
 the earth. Pray much to Allah to hasten the Relief, for therein also
 lies the release from your sufferings.
 
-

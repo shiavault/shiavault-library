@@ -62,4 +62,3 @@ that there is a wonderful balance between this system and the nafaqah
 [allowance] system and the duties of each of the man and the woman in
 the social life.
 
-

@@ -1,20 +1,12 @@
 The Thirteenth Talk
 ===================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them,*** ***they become mindful (of God and get
@@ -22,7 +14,6 @@ awakened) then lo! They see (aright). (Al-Aaraf 7:201)***
 
 Taqwa or Piety is Achieved With Practice
 ----------------------------------------
-
 
 When we admit a child for the first time in a school, on the first day
 he is neither able to read nor write. He gets motivated to do any
@@ -60,7 +51,6 @@ minor, worth reproaching to the maximum extent.
 The highest level of piety is cultivated after much practice and
 constant effort. There are a few stages and ranks of this piety.
 
-
 Shunning Doubtful Things
 ------------------------
 
@@ -75,7 +65,6 @@ He also abstains from uttering such words that Allah (S.w.T.) might
 dislike the use of. In stages he achieves total avoidance of the use of
 doubtful things in his day-to-day living.
 
-
 Shunning of The Unbecoming Or Makrūhāt
 --------------------------------------
 
@@ -85,7 +74,6 @@ The man now reaches a higher state of piety when he shuns the unbecoming
 not avoid the desirables although he knows that they are not mandatory
 and not binding on him. He also meticulously avoids doing or using
 unbecoming (*makrūh*) things that are, no doubt, not totally banned.
-
 
 Shunning The Permissible For Shunning The Prohibited
 ----------------------------------------------------
@@ -114,7 +102,6 @@ to meet his expenses when he closed his shop during the fasting month.
 Although spending this coin every day was permissible and well within
 his rights, the baker wanted to prepare himself properly for the fasting
 in Ramadhan that is mandatory!
-
 
 Travel Becomes the Reason for Avoiding the Mandatory Duties
 -----------------------------------------------------------
@@ -180,5 +167,4 @@ things.
 
 Thirdly: avoiding such permissible acts that might be the precursors of
 sins.
-
 

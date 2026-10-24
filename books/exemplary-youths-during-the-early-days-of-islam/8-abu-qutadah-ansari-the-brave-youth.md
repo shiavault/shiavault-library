@@ -97,4 +97,3 @@ al-Ghābah, vol. 5, p. 275; Qāmūs al-Rijāl, vol. 10, p. 165; Al-Darajāt
 al-Rafī‘ah, p. 351; Al-Fusūl al-Muhimmah, p. 146; Tārīkh-e Tabarī, vol.
 3, p. 243.
 
-

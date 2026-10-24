@@ -23,4 +23,3 @@ Wehr, Hans. *A Dictionary of Modern Written Arabic* (Arabic‑English)
 Edited by J. Milton Cowan, (Fourth Edition) Wiesbaden: Otto
 Harrassowitz, 1979.
 
-

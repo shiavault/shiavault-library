@@ -346,4 +346,3 @@ Tarjumeh wa Nashr), p. 323: In Al-Khwarazmi's Sharh F usus al-hikam, p.
 
 29. Bihar al-anwar, vol 3, p. 259
 
-

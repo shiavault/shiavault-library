@@ -769,4 +769,3 @@ and in "Asaba" (Vol.II, page 479) and "Tarikh e Bagdadi ' ( Vol. X, page
 page 29) and "Majmal al-Zawaid"(Vol.IX, pages 206and207)
 and"Zubair-Al-Uqba.
 
-

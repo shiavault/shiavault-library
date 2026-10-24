@@ -483,4 +483,3 @@ Thakha’ir al-Uqba, p.43.
 
 [^28]: Mustadrak as-Sahihayn, vol.3 p.156.
 
-

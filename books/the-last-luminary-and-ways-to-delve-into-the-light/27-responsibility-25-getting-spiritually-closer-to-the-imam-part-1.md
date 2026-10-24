@@ -16,25 +16,17 @@ A companion of the Imam once said: “I wrote to Abul Hasan that there is
 a person who would like to convey something directly to his Imam and to
 Allah, the Great.” The Imam replied:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كَانَتْ لَكَ حَاجَةٌ فَحَرِّكْ شَفَـتَيْكَ فَإِنَّ الْجَوَابَ
-يَأْتِيكَ
-  </p>
-</blockquote>
+> إِنْ كَانَتْ لَكَ حَاجَةٌ فَحَرِّكْ شَفَـتَيْكَ فَإِنَّ الْجَوَابَ
+> يَأْتِيكَ
 
 “If you have a need, then move your lips (and mention it) and the reply
 will surely come to you.”[^1]  
  It is mentioned in the traditions that Imam ‘Ali. Muhammad once said to
 a man:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أَرَدْتَ أَنْ تَسْأَلَ مَسْأَلَةً فَاكْـتُبْهَا وَ ضَعِ
-الْكِتَابَ تَحْتَ مُصَلاَّكَ وَ دَعْهُ سَاعَةً ثُمَّ أَخْرِجْهُ
-وَانْظُرْ فِيهِ
-  </p>
-</blockquote>
+> إِذَا أَرَدْتَ أَنْ تَسْأَلَ مَسْأَلَةً فَاكْـتُبْهَا وَ ضَعِ
+> الْكِتَابَ تَحْتَ مُصَلاَّكَ وَ دَعْهُ سَاعَةً ثُمَّ أَخْرِجْهُ
+> وَانْظُرْ فِيهِ
 
 “If you want to ask a question (to your Imam), then write it down and
 place the writing under your prayer mat and leave it there for an hour.
@@ -48,5 +40,4 @@ paper!”
 
 [^2]: al-Kharaij, pg. 419, Biharul Anwar, vol. 50, pg. 155, sec. 3, no.
 41
-
 

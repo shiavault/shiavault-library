@@ -195,4 +195,3 @@ time.
 
 [^4]: Gharar al hukm, p. 64
 
-

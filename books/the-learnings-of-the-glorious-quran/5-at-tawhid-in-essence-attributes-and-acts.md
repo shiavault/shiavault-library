@@ -422,4 +422,3 @@ matter of fact, some great personalities were actually misunderstood and
 badly accused of groundless accusations, whereas they were quite
 innocent.
 
-

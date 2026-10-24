@@ -32,4 +32,3 @@ Ali.
 Our Master Muhammad [s] wanted to relieve his uncle's worries. So, he
 went to his uncle's house to take Ali to his house.
 
-

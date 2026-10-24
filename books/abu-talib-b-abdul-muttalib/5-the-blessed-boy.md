@@ -27,4 +27,3 @@ His love for his nephew increased very much.
 The years passed. Muhammad became a young man. He was extremely polite.
 So, people called him the Truthful, the Trustworthy One.
 
-

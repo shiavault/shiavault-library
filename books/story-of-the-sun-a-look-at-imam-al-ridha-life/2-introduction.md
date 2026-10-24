@@ -37,4 +37,3 @@ they may go on pilgrimage with more knowledge and, thereby, receive more
 divine blessings and attention from the Eighth Holy Imam ‘Ali b. Musa
 al-Ridha upon whom be thousands of salutations and praises.
 
-

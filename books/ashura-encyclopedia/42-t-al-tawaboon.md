@@ -19,4 +19,3 @@ came back to Kufa at night. Amongst the martyrs in the battle in
 Al-Shaam were: Sulaimaan Ibn Sard, Abdullah Ibn Sa'ad Al Azdi, Abdullah
 Ibn Wa'el, and Rifa'ah Ibn Shadad.
 
-

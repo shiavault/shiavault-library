@@ -390,4 +390,3 @@ So, you may rest assured that our 12th Imam (A.S.) personally guides
 the Shias through those who have achieved spiritual perfection and whom
 he guides whenever It is necessary.
 
-

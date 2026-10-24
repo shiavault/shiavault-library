@@ -8,11 +8,7 @@ right guidance and the one who strives with seriousness [to find it]
 gets it.
 
 > 1ـ لَقَدْ أخْطَاءَ العاقِلُ اللاَّهي الرُّشْدَ، وأصابَهُ
-<blockquote dir="rtl">
-  <p>
-ذُوالاِجْتِهادِ والجِدِّ.
-  </p>
-</blockquote>
+> ذُوالاِجْتِهادِ والجِدِّ.
 
 2. You will never know rectitude until you know the one who has
 abandoned it.
@@ -52,5 +48,4 @@ aright.
 provisions for his Hereafter.
 
 > 10ـ مَنْ وُفِّقَ لِرَشادِهِ تَزَوَّدَ لِمَعادِهِ.
-
 

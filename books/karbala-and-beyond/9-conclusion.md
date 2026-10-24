@@ -315,4 +315,3 @@ part of Syria even today.
 
 [^2]: at-Tabari, Tarikh, Vol. 1, p. 88.
 
-

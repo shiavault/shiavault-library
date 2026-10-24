@@ -21,7 +21,6 @@ him in His support, and whoever recites them during the day, there will
 come to him no affliction (on that day) …” [^1] [^1] The Commentary of
 Nu-r-uth-Thaqalayn, Vol. 4, P. 345
 
-
 **Section 1 : Humanity exhorted to hold Commentary : Verse 1**
 
 **Satan as its enemy**
@@ -31,9 +30,7 @@ creation whosoever He pleases – None can ever go against the Will of
 Allah - The disbelievers warned against severe punishment and the
 believers given the glad tidings of the Great Reward awaiting them
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 In The Name of Allah, The Beneficent, The Merciful
 
@@ -72,7 +69,6 @@ beginning the totality of the world of existence had been a single mass
 which has gradually split and some parts have separated from it. The
 application of the word Fa-t?ir for the Pure Essence of Allah produces a
 new and clearer concept.
-
 
 Yes, we do praise Him for His creative Power, because whatever exists
 is from His side and none has anything from him except Allah.
@@ -115,7 +111,6 @@ proofs, and because of belief in Unseen, we must accept them.
 
 [^1] Sura Al-Baqarah, No. 2, verse 285
 
-
 On the whole, the Qur’a-n explains the specialties of the angels as
 follows:
 
@@ -150,7 +145,6 @@ day’.”[^8]
 [^1] Sura Al-'Anbiya-', No. 21, verse 26
 
 [^2] Sura Al-'Anbiya-', No. 21, verse 27
-
 
 [^3] Sura Al-Ha-qqah, No. 69, verse 17
 
@@ -248,7 +242,6 @@ Biha-r-ul-’Anwa-r, Abwa-b-ul-Mala-’ikah, Vol. 59, P. 144-326. also,
 Nahj-ul-Bala-qah, sermons number one and ninety one, Sermon ’Ishba-h?,
 sermons 109, and 171.
 
-
 Having these attributes mentioned for the angels in mind, are they
 abstract or material?
 
@@ -270,5 +263,4 @@ servitude and worship, and executing the commands of Allah; and, as we
 said before, it is understood from the different verses of the Qur’a-n
 that the rank of a complete man is higher than and superior to the
 angels.
-
 

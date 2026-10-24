@@ -6,11 +6,7 @@ Corroboratives and Substitutes
 take away any doubts about the emphasized word being used figuratively.
 The words used to emphasize are:
 
-<blockquote dir="rtl">
-  <p>
-نَفسٌ و عینٌ و کلٌّ و جمیعٌ
-  </p>
-</blockquote>
+> نَفسٌ و عینٌ و کلٌّ و جمیعٌ
 
 For example: **زَارَني** **الأمیر** **نَفسُهُ** (The commander visited
 me, himself.)  
@@ -27,5 +23,4 @@ of it, part of it or something that resembles it.
  For example: **أخوک** **إبراهیمُ** **صدیقُنا** (Your brother, Abraham,
 is our friend.)  
  Or: **قرأتُ** **الکتابَ** **نصفَهُ** (I read the book, half of it.)
-
 

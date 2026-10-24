@@ -103,4 +103,3 @@ intelligible of divine knowledge.[^33] Al-Ghazali believed that such an
 affirmation was foolish, for it would make God into the Creator who is
 not aware of his own creation.
 
-

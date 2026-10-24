@@ -3,11 +3,7 @@
 
 Verse 6 of Surat Hud says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا مِنْ دَابَّةٍ فِي الأَرضِ إِلاَّ وَ عَلـى اللٌّهِ رِزْقُـهَا
-  </p>
-</blockquote>
+> وَ مَا مِنْ دَابَّةٍ فِي الأَرضِ إِلاَّ وَ عَلـى اللٌّهِ رِزْقُـهَا
 
 ***“And there is no animal in the earth but on Allah (s.w.t.) s the
 sustenance of it.”***
@@ -28,11 +24,7 @@ effort is a condition for transforming them into actuality. Even Maryam
 Allah (s.w.t.) ordained her sustenance to become manifest in the form of
 dates upon the date-palm, was ordered to move and addressed as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَ هُزِّي إِلَيکِ بِجِذْعِ النَّخلَةِ…
-  </p>
-</blockquote>
+> وَ هُزِّي إِلَيکِ بِجِذْعِ النَّخلَةِ…
 
 ***“And shake towards you the trunk of the palm tree, it will drop on
 you fresh ripe dates.”***[^1]
@@ -63,5 +55,4 @@ brought them to this miserable state of theirs.[^2]
 [^1]: Surat Maryam (19), Verse 25
 
 [^2]: Tafsir Payam-e-Qur’an, vol. 2, pg. 357
-
 

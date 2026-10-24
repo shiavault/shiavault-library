@@ -926,4 +926,3 @@ op cit, 4:190; al-alusi, op cit, 1:244; sahih Muslim 18:162.
 
 [^231] Ibn Husham 4:190.
 
-

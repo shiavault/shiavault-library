@@ -16,20 +16,11 @@ perpetual sorrow.
 know what time will do to you.
 
 > 3ـ لاتَفْرَحَنَّ بِسَقْطَةِ غَيْرِكَ فَإنَّكَ لاتَدْري ما يُحْدِثُ
-<blockquote dir="rtl">
-  <p>
-بِكَ الزَّمانُ.
-  </p>
-</blockquote>
+> بِكَ الزَّمانُ.
 
 4. Do not be happy with the mistake of others, for indeed you will not
 always be correct.
 
 > 4ـ لاتَبْتَهِجَنَّ بِخَطاءِ غَيْرِكَ فَإنَّكَ لَنْ تَمْلِكَ الإصابَةَ
-<blockquote dir="rtl">
-  <p>
-أبَداً.
-  </p>
-</blockquote>
-
+> أبَداً.
 

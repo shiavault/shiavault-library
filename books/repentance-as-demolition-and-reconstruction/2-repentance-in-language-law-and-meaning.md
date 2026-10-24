@@ -243,4 +243,3 @@ Felicities), vol. 3, p- 60.
 man's actions is among the essential principles of Islamic Ideology;
 supported by the Holy Qur'an and Prophetic Tradition (Sunnah).
 
-

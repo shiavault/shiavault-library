@@ -88,4 +88,3 @@ sh/1984.
 Tabataba’i, Muhammad Husayn, *Shi‘a dar Islam*, Qum, Daftar-i
 Intisharat-i Islami, 1362 sh/1983.
 
-

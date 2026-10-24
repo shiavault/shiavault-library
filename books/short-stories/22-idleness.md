@@ -17,4 +17,3 @@ back. I should have made up for those days later. I know that one's days
 are counted. I wonder if I did my best. Only Allah the Almighty knows
 that.
 
-

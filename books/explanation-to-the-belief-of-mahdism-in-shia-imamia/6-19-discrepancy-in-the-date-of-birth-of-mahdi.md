@@ -139,7 +139,6 @@ timing. It is not a human programme. Hence, it is not for human to
 decide. When one can not decide he can deny. Here denial is not
 important, because to deny facts does not uproot them.
 
-
 **24. The House of Ali and Motawakkel**
 
 Alhamdolelah, the writer, sees and accepts the cruelty, and tyranny of
@@ -296,5 +295,4 @@ write this book. Another book "AL- FARAKH BAIN ALFIREQ" and another book
 there is no literacy, there is fancy; where there is no information,
 there is imagination; and the books are written. These books are deal,
 thus should they be left.
-
 

@@ -112,4 +112,3 @@ also Mafatih al-Jinan.
 [^2]: See "The Heart with which everything is Present", Chapter Three,
 Part 3.
 
-

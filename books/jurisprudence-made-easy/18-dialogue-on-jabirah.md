@@ -60,4 +60,3 @@ performing tayamum instead.
  \*   And if I have an open fracture, how should I go about ghusl?  
  -   You can do tayamum instead.
 
-

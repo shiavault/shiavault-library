@@ -181,6 +181,6 @@ See Avicenna, Al-Shifa,Al-llahiyyat (Theology) ,(Qom, the library of
 Ayatullah al- Maraashi al-Najafi, 1404 AH) pp. 10-[^12]:See also
 collected Works, Vol.5,p. 130 and also p.131
 
-See collected Works, vol.[^5]: 130 and 131.
+See collected Works, vol.5. 130 and 131.
 
 See also inid. Vol 6, pp. 59(No.2) - [^64]:

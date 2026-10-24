@@ -548,4 +548,3 @@ are the hearts by the narration of traditions.
 According to Imam Mohammed Baqir (a.s.), the reward of speaking about
 knowledge is equal to the reward of already heard (accepted) prayers.
 
-

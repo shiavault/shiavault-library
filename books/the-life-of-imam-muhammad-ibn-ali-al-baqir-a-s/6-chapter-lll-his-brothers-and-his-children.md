@@ -1058,204 +1058,204 @@ of the Imam, peace be on him.
 
 ###
 
-[^1] ‘Abd Allah was Imam al-Baqir’s full brother.
+[^1]: ‘Abd Allah was Imam al-Baqir’s full brother.
 
-[^2] Safinat al-Bihar, vol.2, p.[^273]:
+[^2]: Safinat al-Bihar, vol.2, p.273.
 
-[^3] Ibn ‘Asakir, al-Tahdhib, vol.6, p.[^18]:
+[^3]: Ibn ‘Asakir, al-Tahdhib, vol.6, p.18.
 
-[^4] Al-Hada’iq al-Wardiya, vol.1, p.[^143]:
+[^4]: Al-Hada’iq al-Wardiya, vol.1, p.143.
 
-[^5] Koran, 9, [^111]:
+[^5]: Koran, 9, [^111]:
 
-[^6] Koran, 3, [^169]:
+[^6]: Koran, 3, [^169]:
 
-[^7] Koran, 4, [^95]:
+[^7]: Koran, 4, [^95]:
 
-[^8] Al-Roud al-Nadir, vol.1, p.[^52]:
+[^8]: Al-Roud al-Nadir, vol.1, p.52.
 
-[^9] Maqatil al-Talibiyyin, p.[^128]:
+[^9]: Maqatil al-Talibiyyin, p.128.
 
-[^10] Ibid, p.[^130]:
+[^10]: Ibid, p.130.
 
-[^11] Ibid, p.[^128]:
+[^11]: Ibid, p.128.
 
-[^12] Al-Khara’ijj wa al-Jara’ih, p.[^328]:
+[^12]: Al-Khara’ijj wa al-Jara’ih, p.328.
 
-[^13] Imam Zayd, Muqaddamat al-Musnad, p.[^8]:
+[^13]: Imam Zayd, Muqaddamat al-Musnad, p.8.
 
-[^14] Ibid, p.[^7]:
+[^14]: Ibid, p.7.
 
-[^15] Al-Maqrizi, Al-Khutat wa al-Athar, vol.2, p.[^440]:
+[^15]: Al-Maqrizi, Al-Khutat wa al-Athar, vol.2, p.440.
 
-[^16] Al-Millal wa al-Nihal, vol.2, p.[^208]:
+[^16]: Al-Millal wa al-Nihal, vol.2, p.208.
 
-[^17] Wafayat al-A‘yan, vol.5, p.[^60]:
+[^17]: Wafayat al-A‘yan, vol.5, p.60.
 
-[^18] Mohammed Abu Zahra, Imam Zayd, p.[^225]:
+[^18]: Mohammed Abu Zahra, Imam Zayd, p.225.
 
-[^19] Al-Hada’iq al-Wardiya, vol.1, p.[^144]:
+[^19]: Al-Hada’iq al-Wardiya, vol.1, p.144.
 
-[^20] Zahr al-Adab, vol.1, p.[^87]:
+[^20]: Zahr al-Adab, vol.1, p.87.
 
-[^21] Al-Ya‘qubi, Tarikh, vol.2, p.[^390]:
+[^21]: Al-Ya‘qubi, Tarikh, vol.2, p.390.
 
-[^22] ‘Umdat al-Talib, vol.2, p.[^127]:
+[^22]: ‘Umdat al-Talib, vol.2, p.127.
 
-[^23] Ibid.
+[^23]: Ibid.
 
-[^24] Zahr al-Adab, vol.1, p.[^118]:
+[^24]: Zahr al-Adab, vol.1, p.118.
 
-[^25] Ibn ‘Asakir, al-Tahdhib, vol.6, p.[^22]:
+[^25]: Ibn ‘Asakir, al-Tahdhib, vol.6, p.22.
 
-[^26] Ibn al-Athir, al-Kamil, vol.5, p.[^84]:
+[^26]: Ibn al-Athir, al-Kamil, vol.5, p.84.
 
-[^27] Sharh al-Nahjj, vol.1, p.[^315]:
+[^27]: Sharh al-Nahjj, vol.1, p.315.
 
-[^28] Ibn al-Athir, al-Kamil, vol.5, p.[^84]:
+[^28]: Ibn al-Athir, al-Kamil, vol.5, p.84.
 
-[^29] ‘Umdat al-Talib.
+[^29]: ‘Umdat al-Talib.
 
-[^30] Maqatil al-Talibiyyin, p.[^129]:
+[^30]: Maqatil al-Talibiyyin, p.129.
 
-[^31] Taysir al-Matalib, pp.108-[^109]:
+[^31]: Taysir al-Matalib, pp.108-[^109]:
 
-[^32] Roudat al-Kafi.
+[^32]: Roudat al-Kafi.
 
-[^33] Al-Majjlisi, al-Amali, p.[^54]:
+[^33]: Al-Majjlisi, al-Amali, p.54.
 
-[^34] Mu‘jam Rijal al-Hadith, vol.7, pp.350-[^358]:
+[^34]: Mu‘jam Rijal al-Hadith, vol.7, pp.350-[^358]:
 
-[^35] Maqatil al-Talibiyyin, p.[^129]:
+[^35]: Maqatil al-Talibiyyin, p.129.
 
-[^36] Taysir al-Matalib, pp.108-[^109]:
+[^36]: Taysir al-Matalib, pp.108-[^109]:
 
-[^37] Al-Roud al-Nadir, vol.1, p.[^75]:
+[^37]: Al-Roud al-Nadir, vol.1, p.75.
 
-[^38] Maqatil al-Talibiyyin.
+[^38]: Maqatil al-Talibiyyin.
 
-[^39] Al-Kamil, vol.5, p.[^56]:
+[^39]: Al-Kamil, vol.5, p.56.
 
-[^40] Maqatil al-Talibiyyin.
+[^40]: Maqatil al-Talibiyyin.
 
-[^41] Ansab al-Ashraf, vol.3, p.[^203]:
+[^41]: Ansab al-Ashraf, vol.3, p.203.
 
-[^42] Al-Tabari, Tarikh, vol.8, p.[^273]:
+[^42]: Al-Tabari, Tarikh, vol.8, p.273.
 
-[^43] ‘Umdat al-Talib, vol.2, p.[^127]:
+[^43]: ‘Umdat al-Talib, vol.2, p.127.
 
-[^44] Al-Hada’iq al-Wardiya, vol.1, p.[^148]:
+[^44]: Al-Hada’iq al-Wardiya, vol.1, p.148.
 
-[^45] Ansab al-Ashraf, vol.3, p.[^202]:
+[^45]: Ansab al-Ashraf, vol.3, p.202.
 
-[^46] Ibid.
+[^46]: Ibid.
 
-[^47] Al-Muqrim, Zayd al-Shahid.
+[^47]: Al-Muqrim, Zayd al-Shahid.
 
-[^48] Ibn Abi al-Haddid, Sharh.
+[^48]: Ibn Abi al-Haddid, Sharh.
 
-[^49] Al-Niza‘ wa al-Takhasum, p.[^7]:
+[^49]: Al-Niza‘ wa al-Takhasum, p.7.
 
-[^50] Ansab al-Ashraf, vol.3, p.[^292]:
+[^50]: Ansab al-Ashraf, vol.3, p.292.
 
-[^51] Al-Tabari, Tarikh, vol.8, p.[^77]:
+[^51]: Al-Tabari, Tarikh, vol.8, p.77.
 
-[^52] ‘Umdat al-Talib, p.[^258]:
+[^52]: ‘Umdat al-Talib, p.258.
 
-[^53] Al-Sira al-Halabiya, vol.1, p.[^327]:
+[^53]: Al-Sira al-Halabiya, vol.1, p.327.
 
-[^54] Ansab al-Ashraf, vol.3, p.[^255]:
+[^54]: Ansab al-Ashraf, vol.3, p.255.
 
-[^55] Ibid.
+[^55]: Ibid.
 
-[^56] Maqatil al-Talibiyyin, pp. 148-[^149]:
+[^56]: Maqatil al-Talibiyyin, pp. 148-[^149]:
 
-[^57]Ibid, p.[^150]:
+[^57]Ibid, p.150.
 
-[^58] Ansab al-Ashraf, vol.3, p.[^256]:
+[^58]: Ansab al-Ashraf, vol.3, p.256.
 
-[^59] Maqatil al-Talibiyyin, pp. [^147]:
+[^59]: Maqatil al-Talibiyyin, pp. [^147]:
 
-[^60] Al-Ya‘qubi, Tarikh, vol.2, p.[^391]:
+[^60]: Al-Ya‘qubi, Tarikh, vol.2, p.391.
 
-[^61] Murujj al-Dhahab, vol.3, p.[^139]:
+[^61]: Murujj al-Dhahab, vol.3, p.139.
 
-[^62] Ibn al-Athir, Tarikh, vol.4, p.[^217]:
+[^62]: Ibn al-Athir, Tarikh, vol.4, p.217.
 
-[^63] ‘Umdat al-Talib, vol.2, p.[^29]:
+[^63]: ‘Umdat al-Talib, vol.2, p.29.
 
-[^64] Al-Mufïd, al-Irshad, p.[^302]:
+[^64]: Al-Mufïd, al-Irshad, p.302.
 
-[^65] Mu‘jam Rijal al-Hadith, vol.6, p.[^44]:
+[^65]: Mu‘jam Rijal al-Hadith, vol.6, p.44.
 
-[^66] Safinat al-Bihar, vol.2, p.[^273]:
+[^66]: Safinat al-Bihar, vol.2, p.273.
 
-[^67] Al-Mufïd, al-Irshad, p.[^302]:
+[^67]: Al-Mufïd, al-Irshad, p.302.
 
-[^68] ‘Umdat al-Talib, vol.2, p.[^29]:
+[^68]: ‘Umdat al-Talib, vol.2, p.29.
 
-[^69] Mu‘jam Rijal al-Hadith, vol.6, p.[^44]:
+[^69]: Mu‘jam Rijal al-Hadith, vol.6, p.44.
 
-[^70] ‘Umdat al-Talib, vol.2, p.[^29]:
+[^70]: ‘Umdat al-Talib, vol.2, p.29.
 
-[^71] Ibid, p.[^127]:
+[^71]: Ibid, p.127.
 
-[^72] Al-Mufïd, al-Irshad, p.[^300]:
+[^72]: Al-Mufïd, al-Irshad, p.300.
 
-[^73] Tahdhib al-Tahdhib, vol.5, p.[^324]:
+[^73]: Tahdhib al-Tahdhib, vol.5, p.324.
 
-[^74] Al-Mufïd, al-Irshad, p.[^300]:
+[^74]: Al-Mufïd, al-Irshad, p.300.
 
-[^75] ‘Umdat al-Talib, vol.2, p.[^127]:
+[^75]: ‘Umdat al-Talib, vol.2, p.127.
 
-[^76] Ibid.
+[^76]: Ibid.
 
-[^77] Mu‘jam Rijal al-Hadith, vol.13, p.[^54]:
+[^77]: Mu‘jam Rijal al-Hadith, vol.13, p.54.
 
-[^78] Ibid.
+[^78]: Ibid.
 
-[^79] Ibid.
+[^79]: Ibid.
 
-[^80] Safinat al-Bihar, vol.2, p.[^273]:
+[^80]: Safinat al-Bihar, vol.2, p.273.
 
-[^81] ‘Umdat al-Talib, vol.2, p.[^127]:
+[^81]: ‘Umdat al-Talib, vol.2, p.127.
 
-[^82] Mu‘jam al-Buldan, vol.5, p.[^450]: Yanbu‘ is to the right of Radwa
+[^82]: Mu‘jam al-Buldan, vol.5, p.450. Yanbu‘ is to the right of Radwa
 for those who leave from Medina to the sea. It belonged to the sons of
 al-Hasan. It has abandunt fresh springs, water and plants. Some of them
 said that it was a fort with date-palms. In it there were the religious
 endowments of Imam ‘Ali, the Commander of the Faithful, peace be on him.
 His sons inherited them.
 
-[^83] ‘Umdat al-Talib, vol.2, p.[^129]:
+[^83]: ‘Umdat al-Talib, vol.2, p.129.
 
-[^84] Mir'at al-Zaman fï Tawarikh al-A‘yan, vol.5, p.[^78]: Ibn Sa‘d,
+[^84]: Mir'at al-Zaman fï Tawarikh al-A‘yan, vol.5, p.78. Ibn Sa‘d,
 al-Tabaqat, vol.5, p.320.
 
-[^85] Dr. Mohammed Yahya al-Hashimi has mentioned that in his book Imam
+[^85]: Dr. Mohammed Yahya al-Hashimi has mentioned that in his book Imam
 al-Sadiq Mulhim al-Kïmya'.
 
-[^86] Al-Mufïd, al-Irshad, p.[^303]:
+[^86]: Al-Mufïd, al-Irshad, p.303.
 
-[^87] In his speech:" I will be a helper for you against Allah." He
+[^87]: In his speech:" I will be a helper for you against Allah." He
 meant that he would be an intercessor for him with Allah.
 
-[^88] Ghayat al-Ikhtisar, p.[^64]: Safïnat al-Bihar, vol.1, p.309.
+[^88]: Ghayat al-Ikhtisar, p.64. Safïnat al-Bihar, vol.1, p.309.
 
-[^89] Ghayat al-Ikhtisar, p.[^63]:
+[^89]: Ghayat al-Ikhtisar, p.63.
 
-[^90] Safïnat al-Bihar, vol.1, p.[^309]:
+[^90]: Safïnat al-Bihar, vol.1, p.309.
 
-[^91] Al-Mufïd, al-Irshad, p.[^303]: Sayyid Kazim Yamani, al-Nafha
+[^91]: Al-Mufïd, al-Irshad, p.303. Sayyid Kazim Yamani, al-Nafha
 al-‘Ambariya. It is among the manuscripts of Imam Kashif al-Ghita'
 Public Library. ‘Abd Allah has not been mentioned in Jamharat Ansab
 al-‘Arab nor has he been mentioned in ‘Umdat al-Talib nor has he been
 mentioned in Mir'at al-Zaman.
 
-[^92] Al-Sirat al-Sawi, p.[^194]:
+[^92]: Al-Sirat al-Sawi, p.194.
 
-[^93] Mir'at al-Zaman fï Tawarikh al-A‘yan, vol.5, p.[^78]: Ibn Sa‘d,
+[^93]: Mir'at al-Zaman fï Tawarikh al-A‘yan, vol.5, p.78. Ibn Sa‘d,
 al-Tabaqat, vol.5, p.230. In al-Nafha al-‘Ambariya, his daughters were
 Zaynab the elder, Zaynab the younger, and Umm Kulthum.
 
-[^94] Safïnat al-Bihar, vol.1, p.[^309]:
+[^94]: Safïnat al-Bihar, vol.1, p.309.

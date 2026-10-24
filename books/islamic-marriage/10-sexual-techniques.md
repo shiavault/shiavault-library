@@ -132,4 +132,3 @@ not be used by both of them.
 
 [^9]: Wasa’il ul-Shi’a, vol. 14, p. 101-102
 
-

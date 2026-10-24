@@ -175,4 +175,3 @@ relatives”, prove?
 20. What does the phrase, “each of us will be responsible for his own
 deeds”, prove?
 
-

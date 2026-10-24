@@ -245,4 +245,3 @@ Majlisi passed away on 27th of Ramadhan 1110 Hijri at the age of 73
 years. He was buried next to his respectable father in the Jame Masjid
 of Isfahan, which is since then a place of visitation for Shia people.
 
-

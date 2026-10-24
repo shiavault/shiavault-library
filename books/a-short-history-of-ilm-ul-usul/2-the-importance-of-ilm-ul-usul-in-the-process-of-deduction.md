@@ -563,4 +563,3 @@ We shall soon study these two points in the forth-coming discussions,
 which we have prepared for the higher stages of the study of this
 science.
 
-

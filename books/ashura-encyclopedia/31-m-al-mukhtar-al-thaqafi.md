@@ -12,4 +12,3 @@ prison Maytham Al-Tammar was in. He was killed in a fight with Abdullah
 Ibn Al Zubair's army in the famous uprising of the repenters. His body
 rests next to Muslim Ibn Aqeel.
 
-

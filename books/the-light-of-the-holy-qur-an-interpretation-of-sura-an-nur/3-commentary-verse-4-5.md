@@ -227,7 +227,6 @@ Yes, they must be flogged with 80 stripes as penalty for their evil and
 accusing swearing, so that they will never fiddle with people's
 reputation and honour.
 
-
 **Commentary : Verse 6.7.8.9.10**
 
 6. وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ
@@ -469,5 +468,4 @@ clean and pure) is heavier than skies."[^3]
 5. The Prophet (p.b.u.h.) said: "Whoever calumniates a Muslim in order
 to bother him, on the Day of Judgment Allah will keep him in the bile
 sludge of Hell-dwellers till He judges between people."[^5]
-
 

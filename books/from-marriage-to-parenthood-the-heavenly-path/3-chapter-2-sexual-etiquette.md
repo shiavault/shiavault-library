@@ -428,12 +428,8 @@ needless from the forbidden.”[^50]
 1. During menstruation (ĥaydh)[^51]:  
  Allāh (SwT) states in Surat Baqarah, Verse 222:
 
-<blockquote dir="rtl">
-  <p>
- وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذىً فَاعْتَزِلُوا
-النِّسَآءَ فِي الْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّى يَطْهُرْنَ 
-  </p>
-</blockquote>
+>  وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذىً فَاعْتَزِلُوا
+> النِّسَآءَ فِي الْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّى يَطْهُرْنَ 
 
 ***“They ask you concerning (intercourse during) menses. Say, “It is
 hurtful.” So keep away from wives during the menses, and do not approach
@@ -464,11 +460,7 @@ intercourse after the end of ĥaydh and before the Ghusl of ĥaydh.
 However, if it is necessary, a woman should wash herself first.[^55]
 Allāh (SwT) mentions this in the continuation of the above verse:
 
-<blockquote dir="rtl">
-  <p>
- فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللٌّهُ 
-  </p>
-</blockquote>
+>  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللٌّهُ 
 
 ***“And when they become clean, go into them as Allāh has commanded
 you.”***
@@ -857,5 +849,4 @@ constitution/internal heat.
 [^81]: Niyāzhā wa Rawābith Jinsī was Zanāshuī, pg. 28
 
 [^82]: Ibid., pg. 43
-
 

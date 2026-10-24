@@ -27,31 +27,19 @@ servants from having hope in the mercy of Allah and [at the same time]
 does not give them false security from the scheme of Allah.
 
 > 5ـ اَلعالِمُ كُلُّ العالِمِ مَنْ لَمْ يَمْنَعِ العِبادَ الرَّجاءَ
-<blockquote dir="rtl">
-  <p>
-لِرَحْمَةِ اللّهِ ولَمْ يُؤْمِنْهُمْ مَكْرَاللّهِ.
-  </p>
-</blockquote>
+> لِرَحْمَةِ اللّهِ ولَمْ يُؤْمِنْهُمْ مَكْرَاللّهِ.
 
 6. The scholar and the student are partners in reward; there no good in
 anything between this.[^1]
 
 > 6ـ اَلعالِمُ والمُتَعَلِّمُ شَريكانِ فِي الأجْرِ، وَلاخَيْـرَ فيما
-<blockquote dir="rtl">
-  <p>
-بَيْنَ ذلِكَ.
-  </p>
-</blockquote>
+> بَيْنَ ذلِكَ.
 
 7. Scholars are the purest of people in character and the least rooted
 in [vain] desires.
 
 > 7ـ اَلعُلَماءُ أطْهَرُ النّاسِ أخْلاقاً، وأقَلُّهُمْ فِي المَطامِعِ
-<blockquote dir="rtl">
-  <p>
-أعْراقاً.
-  </p>
-</blockquote>
+> أعْراقاً.
 
 8. The scholar is a living [person] among the dead.
 
@@ -61,11 +49,7 @@ in [vain] desires.
 you and make others think ill of you and expect evil from you.
 
 > 9ـ إيّاكَ أنْ تَسْتَخِفَّ بِالعُلَماءِ، فَإنَّ ذلِكَ يُزْري بِكَ،
-<blockquote dir="rtl">
-  <p>
-ويُسِـيءُ الظَّنَّ بِكَ، والمَخِيلَةَ فيكَ.
-  </p>
-</blockquote>
+> ويُسِـيءُ الظَّنَّ بِكَ، والمَخِيلَةَ فيكَ.
 
 10. The most learned among you are the most fearful of you.
 
@@ -115,11 +99,7 @@ exceed the limits.
 scholars who don’t act on their knowledge.
 
 > 19ـ أشَدُّ النّاسِ نَدَماً عِنْدَ المَوْتِ العُلَماءُ غَيْرُ
-<blockquote dir="rtl">
-  <p>
-العامِلِينَ.
-  </p>
-</blockquote>
+> العامِلِينَ.
 
 20. The most learned of people is one whose doubt does not dispel his
 certainty.
@@ -141,22 +121,14 @@ Prophets - peace be upon them - are those who have the most knowledge
 about (or act upon) their teachings.
 
 > 23ـ إنَّ أوْلَى النّاسِ بِالأنْبِياءِ ـ عَلَيْهِمُ السّلامُ ـ
-<blockquote dir="rtl">
-  <p>
-أعْلَمُهُمْ (اَعْمَلُهُم) بِما جاؤُاْ بِهِ.
-  </p>
-</blockquote>
+> أعْلَمُهُمْ (اَعْمَلُهُم) بِما جاؤُاْ بِهِ.
 
 24. The scholar is honoured because of his knowledge, the elderly
 because of his age, the doer of good because of his goodness and the
 king because of his kingship.
 
 > 24ـ يُكْرَمُ العالِمُ لِعِلْمِهِ، والكَبيرُ لِسِنِّهِ، وذُو
-<blockquote dir="rtl">
-  <p>
-المَعْرُوفِ لِمَعْرُوفِهِ، وَالسُّلْطانُ لِسُلْطانِهِ.
-  </p>
-</blockquote>
+> المَعْرُوفِ لِمَعْرُوفِهِ، وَالسُّلْطانُ لِسُلْطانِهِ.
 
 25. The scholars are judges over the people.
 
@@ -174,11 +146,7 @@ king because of his kingship.
 sees with his eyes and his eyesight.
 
 > 28ـ اَلعالِمُ يَنْظُرُ بِقَلْبِهِ وَخاطِرِهِ، اَلجاهِلُ يَنْظُرُ
-<blockquote dir="rtl">
-  <p>
-بِعَيْنِهِ وَناظِرهِ.
-  </p>
-</blockquote>
+> بِعَيْنِهِ وَناظِرهِ.
 
 29. The scholar is a person who does not get weary of gaining knowledge.
 
@@ -197,11 +165,7 @@ God-wariness, to abstinence from the pleasures of the transient world
 and to infatuation with the heavenly abode.
 
 > 32ـ إنَّمَـا العالِمُ مَنْ دَعاهُ عِلْمُهُ إلَى الوَرَعِ والتُّقى،
-<blockquote dir="rtl">
-  <p>
-والزُّهْدِ في عالَمِ الفَناءِ، والتَّوَلُّهِ بِجَنَّةِ المَأْوى.
-  </p>
-</blockquote>
+> والزُّهْدِ في عالَمِ الفَناءِ، والتَّوَلُّهِ بِجَنَّةِ المَأْوى.
 
 33. The bane of scholars is love for leadership [and authority].
 
@@ -218,12 +182,8 @@ left he remains silent; his speech is accurate and his silence is not
 because of his inability to give an answer.
 
 > 35ـ بَخّ بَخّ لِعالِم عَلِمَ فَكَفَّ، وخافَ البَياتَ فَأعَدَّ
-<blockquote dir="rtl">
-  <p>
-واسْتَعَدَّ، إنْ سُئِلَ أفْصَحَ، وإنْ تُرِكَ سَكَتَ (صَمَتَ)، كَلامُهُ
-صَوابٌ، وسُكُوتُهُ عَنْ غَيْـرِ عَيّ عَنِ الجَوابِ.
-  </p>
-</blockquote>
+> واسْتَعَدَّ، إنْ سُئِلَ أفْصَحَ، وإنْ تُرِكَ سَكَتَ (صَمَتَ)، كَلامُهُ
+> صَوابٌ، وسُكُوتُهُ عَنْ غَيْـرِ عَيّ عَنِ الجَوابِ.
 
 36. Sit in the company of scholars and you will be felicitous.
 
@@ -241,11 +201,7 @@ because of his inability to give an answer.
 etiquette will improve and your soul will become purified.
 
 > 39ـ جالِسِ العُلَماءَ، يَزْدَدْ عِلْمُكَ، ويَحْسُنْ أدَبُكَ، وتَزْكُ
-<blockquote dir="rtl">
-  <p>
-نَفْسُكَ.
-  </p>
-</blockquote>
+> نَفْسُكَ.
 
 40. Be close to the scholars and you will perceive.
 
@@ -275,11 +231,7 @@ etiquette will improve and your soul will become purified.
 and causes others to sink along with it.
 
 > 46ـ زَلَّةُ العالِمِ كَانْكِسارِ السَّفينَةِ، تَغْرَقُ، وتُغَرِّقُ
-<blockquote dir="rtl">
-  <p>
-مَعَها غَيْـرَها.
-  </p>
-</blockquote>
+> مَعَها غَيْـرَها.
 
 47. The lapse of a scholar is a serious offence.
 
@@ -289,21 +241,13 @@ and causes others to sink along with it.
 teach the people what he has learnt.
 
 > 48ـ عَلَى العالِمِ أنْ يَتَعَلَّمَ مالَمْ يَعْلَمْ، وَيُعَلِّمَ
-<blockquote dir="rtl">
-  <p>
-النّاسَ ما قَدْ عَلِمَ.
-  </p>
-</blockquote>
+> النّاسَ ما قَدْ عَلِمَ.
 
 49. It is the duty of the scholar to act upon what he knows and then
 seek to learn that which he does not know.
 
 > 49ـ عَلَى العالِمِ أنْ يَعْمَلَ بِما عَلِمَ، ثُمَ يَطْلُبُ تَعَلُّمَ
-<blockquote dir="rtl">
-  <p>
-ما لَمْ يَعْلَمْ.
-  </p>
-</blockquote>
+> ما لَمْ يَعْلَمْ.
 
 50. A scholar who opposes you is better than the ignorant person who
 assists you.
@@ -319,11 +263,7 @@ ignorant, so be wary of the corrupt among the scholars and the ignorant
 among the worshippers.
 
 > 52ـ كَمْ مِنْ عالِم فاجِر وعابِد جاهِل، فَاتَّقُوا الفاجِرَ مِنَ
-<blockquote dir="rtl">
-  <p>
-العُلَماءِ، وَالجاهِلَ مِنَ المُتَعَبِّدينَ.
-  </p>
-</blockquote>
+> العُلَماءِ، وَالجاهِلَ مِنَ المُتَعَبِّدينَ.
 
 53. It is enough of ignorance for a scholar that his actions contradict
 his knowledge.
@@ -334,11 +274,7 @@ his knowledge.
 being the third type.
 
 > 54ـ كُنْ عالِماً ناطِقاً، أوْ مُسْتَمِعاً واعِياً، وإيّاكَ أنْ
-<blockquote dir="rtl">
-  <p>
-تَـكُونَ الثّالِثَ.
-  </p>
-</blockquote>
+> تَـكُونَ الثّالِثَ.
 
 55. Be knowledgeable about the truth and act upon it, [and through this]
 Allah, the Glorified, will save you.
@@ -351,12 +287,8 @@ in order to seek worldly gain, so Allah, the Exalted, is displeased with
 them and they are thus abased by it.
 
 > 56ـ لَوْ أنَّ أهْلَ العِلْمِ حَمَلُوهُ بِحَقِّهِ لأحَبَّهُمُ اللّهُ
-<blockquote dir="rtl">
-  <p>
-ومَلائِكَتُهُ، ولكِنَّهُمْ حَمَلُوهُ لِطَلَبِ الدُّنيا، فَمَقَتَهُمُ
-اللّهُ تَعالى وهانُوا عَلَيْهِ.
-  </p>
-</blockquote>
+> ومَلائِكَتُهُ، ولكِنَّهُمْ حَمَلُوهُ لِطَلَبِ الدُّنيا، فَمَقَتَهُمُ
+> اللّهُ تَعالى وهانُوا عَلَيْهِ.
 
 57. One who has knowledge asks good [and pertinent] questions.
 
@@ -388,21 +320,13 @@ him among the people.
 the highest level of ignorance.
 
 > 63ـ مَنِ ادَّعى مِنَ العِلْمِ غايَتَهُ فَقَدْ أظْهَرَ مِنْ جَهْلِهِ
-<blockquote dir="rtl">
-  <p>
-نِهايَتَهُ.
-  </p>
-</blockquote>
+> نِهايَتَهُ.
 
 64. It is necessary for every scholar to secure his sides with piety and
 to extend his knowledge to the one who seeks it.
 
 > 64ـ مِنَ المَفْرُوضِ عَلى كُلِّ عالِم أنْ يَصُونَ بِالوَرَعِ جانِبَهُ،
-<blockquote dir="rtl">
-  <p>
-وأنْ يَبْذُلَ عِلْمَهُ لِطالِبِهِ.
-  </p>
-</blockquote>
+> وأنْ يَبْذُلَ عِلْمَهُ لِطالِبِهِ.
 
 65. Considering your knowledge (or action) as little is from the
 excellence of your knowledge.
@@ -422,11 +346,7 @@ knowledge.
 one to learn until He had made it incumbent upon the learned to teach.
 
 > 68ـ ما أخَذَ اللّهُ سُبْحانَهُ عَلَى الجاهِلِ أنْ يَتَعَلَّمَ حَتّى
-<blockquote dir="rtl">
-  <p>
-أخَذَ عَلَى العالِمِ أنْ يُعَلِّمَ.
-  </p>
-</blockquote>
+> أخَذَ عَلَى العالِمِ أنْ يُعَلِّمَ.
 
 69. Only two [types of] people have broken my back: the impudent scholar
 and the ignorant worshipper. One drives people away from the truth by
@@ -434,22 +354,14 @@ his immorality and the other invites people to falsehood with his
 devotion.
 
 > 69ـ ما قَصَمَ ظَهْري إلاّ رَجُلانِ: عالِمٌ مُتَهَتِّكٌ وجاهِلٌ
-<blockquote dir="rtl">
-  <p>
-مَتَنَسِّكٌ، هذا يُنَفِّرُ عَنْ حَقِّهِ بِهَتْكِهِ، وهذا يَدْعُو إلى
-باطِلِه بِنُسْكِهِ.
-  </p>
-</blockquote>
+> مَتَنَسِّكٌ، هذا يُنَفِّرُ عَنْ حَقِّهِ بِهَتْكِهِ، وهذا يَدْعُو إلى
+> باطِلِه بِنُسْكِهِ.
 
 70. The competition (or argumentation) of the scholars results in their
 gaining benefit and their earning merits.
 
 > 70ـ مُنافَسَةُ (مُناقَشَةُ) العُلَماءِ تُنْتِجُ فَوائِدَهُمْ،
-<blockquote dir="rtl">
-  <p>
-وتَكْسِبُ فَضائِلَهُمْ.
-  </p>
-</blockquote>
+> وتَكْسِبُ فَضائِلَهُمْ.
 
 71. The keepers of material treasures are annihilated while they are
 [still] alive while the scholars remain as long as the nights and days
@@ -457,12 +369,8 @@ remain. Their bodies are lost but their examples [and teachings continue
 to] remain in the hearts.
 
 > 71ـ هَلَكَ خُزّانُ الأمْوالِ وهُمْ أحْياءٌ، والعُلَماءُ باقُوْنَ ما
-<blockquote dir="rtl">
-  <p>
-بَقِيَ اللَّيْلُ وَالنَّهارُ، أعْيانُهُمْ مَفْقُودَةٌ وأمْثالُهُمْ فِي
-القُلُوبِ مَوْجُودَةٌ.
-  </p>
-</blockquote>
+> بَقِيَ اللَّيْلُ وَالنَّهارُ، أعْيانُهُمْ مَفْقُودَةٌ وأمْثالُهُمْ فِي
+> القُلُوبِ مَوْجُودَةٌ.
 
 72. Never disrespect a scholar, even if he is lowly.
 
@@ -477,22 +385,14 @@ who is above him, does not demean one who is below him and does not take
 in return for his knowledge anything of the vanities of this world.
 
 > 74ـ لايَكُونُ العالِمُ عالِماً حَتّى لايَحْسُدَ مَنْ فَوْقَهُ،
-<blockquote dir="rtl">
-  <p>
-ولايَحْتَقِرَ مَنْ دُونَهُ، وَلايَأْخُذُ عَلى عِلْمِهِ شَيْئاًمِنْ
-حُطامِ الدُّنيا.
-  </p>
-</blockquote>
+> ولايَحْتَقِرَ مَنْ دُونَهُ، وَلايَأْخُذُ عَلى عِلْمِهِ شَيْئاًمِنْ
+> حُطامِ الدُّنيا.
 
 75. The knowledge of a man should surpass his speech and his
 intelligence should prevail over his tongue.
 
 > 75ـ يَنْبَغي أنْ يَكُونَ عِلْمُ الرَّجُلِ زائِداً عَلى نُطْقِهِ،
-<blockquote dir="rtl">
-  <p>
-وعَقْلُهُ غالِباً عَلى لِسانِهِ.
-  </p>
-</blockquote>
+> وعَقْلُهُ غالِباً عَلى لِسانِهِ.
 
 76. The bane of the masses is a corrupt scholar.
 
@@ -500,5 +400,4 @@ intelligence should prevail over his tongue.
 
 [^1]: Meaning there is no good in anyone other than the scholar and the
 student.
-
 

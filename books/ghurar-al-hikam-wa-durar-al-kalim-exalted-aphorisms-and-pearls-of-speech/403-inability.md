@@ -7,11 +7,7 @@ Inability
 accompanied by embarking on evil.
 
 > 1ـ اَلْعَجْزُ مَعَ لُزُومِ الخَيْـرِ خَيْـرٌ مِنَ القُدْرَةِ مَعَ
-<blockquote dir="rtl">
-  <p>
-رُكُوبِ الشَّـرِّ.
-  </p>
-</blockquote>
+> رُكُوبِ الشَّـرِّ.
 
 2. Inability is waste.
 
@@ -47,10 +43,5 @@ obligatory upon you, and abandoning contentment with what you have been
 given.
 
 > 9ـ اَلعَجْزُ اِشْتِغالُكَ بِالمَضْمُونِ لَكَ عَنِ المَفْرُوضِ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-وتَرْكُ القَناعَةِ بِما أُوتيتَ.
-  </p>
-</blockquote>
-
+> وتَرْكُ القَناعَةِ بِما أُوتيتَ.
 

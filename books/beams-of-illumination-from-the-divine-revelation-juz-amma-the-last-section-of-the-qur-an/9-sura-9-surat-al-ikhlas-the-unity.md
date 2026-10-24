@@ -51,4 +51,3 @@ and Divine Names point.
 Nothing more can be said about this surah. We must read and re­read it,
 and the more we do this, the deeper will grow our understand­ing.
 
-

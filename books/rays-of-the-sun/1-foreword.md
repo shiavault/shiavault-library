@@ -30,4 +30,3 @@ Translated by Abbas & Shaheen Merali
  July 2005  
  Holy City of Qom
 
-

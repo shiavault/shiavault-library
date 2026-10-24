@@ -48,11 +48,7 @@ binds and the relieving of hardship and affliction from the one whose
 intention is sincere.
 
 > 10ـ عُرِفَ اللّهُ سُبْحانَهُ بِفَسْخِ العَزائِمِ، وحَلِّ العُقُودِ
-<blockquote dir="rtl">
-  <p>
-وكَشْفِ الضُّـرِّ، وَالبَلِيَّةِ عَمَّنْ أخْلَصَ لَهُ النِّيَّةَ.
-  </p>
-</blockquote>
+> وكَشْفِ الضُّـرِّ، وَالبَلِيَّةِ عَمَّنْ أخْلَصَ لَهُ النِّيَّةَ.
 
 11. The pinnacle of cognizance is fear [of Allah].
 
@@ -74,42 +70,26 @@ intention is sincere.
 from the evanescent world.
 
 > 15ـ مَنْ صَحَّتْ مَعْرِفَتُهُ اِنْصَرَفَتْ عَنِ العالَمِ الفاني
-<blockquote dir="rtl">
-  <p>
-نَفْسُهُ وَهِمَّتُهُ.
-  </p>
-</blockquote>
+> نَفْسُهُ وَهِمَّتُهُ.
 
 16. The cognizance of a scholar is the devoutness through which Allah is
 worshipped, through it the human being gains obedience in his lifetime
 and a beautiful remembrance after his death.
 
 > 16ـ مَعْرِفَةُ العالِمِ دينٌ يُدانُ، بِهِ يَكْسِبُ الإنْسانُ الطّاعَةَ
-<blockquote dir="rtl">
-  <p>
-في حَياتِهِ، وَجَميلَ الأُحْدُوثَةِ بَعْدَ وَفاتِهِ.
-  </p>
-</blockquote>
+> في حَياتِهِ، وَجَميلَ الأُحْدُوثَةِ بَعْدَ وَفاتِهِ.
 
 17. The smallest amount of cognizance leads to disinclination towards
 worldly pleasures (or corruption of one’s actions[^1]).
 
 > 17ـ يَسيرُ المَعْرِفَةِ يُوجِبُ الزُّهْدَ (فَسادَ العَمَلِ) في
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
+> الدُّنيا.
 
 18. Meeting the people of cognizance is a means of strengthening the
 hearts and benefitting of wisdom.
 
 > 18ـ لِقاءُ أهْلِ المَعْرِفَةِ عِمارَةُ القُلُوبِ ومُسْتَفادُ
-<blockquote dir="rtl">
-  <p>
-الحِكْمَةِ.
-  </p>
-</blockquote>
+> الحِكْمَةِ.
 
 19. One who is cognizant, refrains [from the forbidden].
 
@@ -119,11 +99,7 @@ hearts and benefitting of wisdom.
 which is with Him.
 
 > 20ـ يَنْبَغي لِمَنْ عَرَفَ اللّهَ سُبْحانَهُ أنْ يَرْغَبَ فيما
-<blockquote dir="rtl">
-  <p>
-لَدَيْهِ.
-  </p>
-</blockquote>
+> لَدَيْهِ.
 
 21. One who is cognizant of Allah, the Glorified, will never become
 wretched.
@@ -134,11 +110,7 @@ wretched.
 Allah goes astray and matters become confusing for him.
 
 > 22ـ مَنِ اعْتَمَدَ عَلَى الرَّأْيِ والقِياسِ في مَعْرِفَةِ اللّهِ
-<blockquote dir="rtl">
-  <p>
-ضَلَّ، وتَشَعَّبَتْ عَلَيْهِ الأُمُورُ.
-  </p>
-</blockquote>
+> ضَلَّ، وتَشَعَّبَتْ عَلَيْهِ الأُمُورُ.
 
 23. Cognizance of Allah, the Glorified, is the highest cognizance.
 
@@ -148,11 +120,7 @@ Allah goes astray and matters become confusing for him.
 make his heart devoid of hope in Him and fear of Him.
 
 > 24ـ يَنْبَغي لِمَنْ عَرَفَ اللّهَ سُبْحانَهُ أنْ لايَخْلُوَ قَلْبُهُ
-<blockquote dir="rtl">
-  <p>
-مِنْ رَجائِهِ وَخَوْفِهِ.
-  </p>
-</blockquote>
+> مِنْ رَجائِهِ وَخَوْفِهِ.
 
 25. One who knows Allah believes in his oneness.[^2]
 
@@ -166,5 +134,4 @@ make his heart devoid of hope in Him and fear of Him.
 cognizance is only little and thus incomplete.
 
 [^2]: Or: One who knows Allah opts to remain alone.
-
 

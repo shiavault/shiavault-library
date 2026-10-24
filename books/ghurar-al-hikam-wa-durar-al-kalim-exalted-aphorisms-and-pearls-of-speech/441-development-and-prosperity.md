@@ -7,4 +7,3 @@ Development And Prosperity
 
 > 1ـ آفَةُ العُمْرانِ جَوْرُ السُّلْطانِ.
 
-

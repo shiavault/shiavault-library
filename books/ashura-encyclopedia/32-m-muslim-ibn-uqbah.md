@@ -8,4 +8,3 @@ and killed thousands of the Prophet's (pbuh&hf) companions. He was later
 known in history as Musrif because his name was contradicted his
 actions.
 
-

@@ -208,4 +208,3 @@ referred to in the Qur'an as the 'Iram flood'.
 
 [^2]: Tamaddun-i Islam wa Arab, page 96
 
-

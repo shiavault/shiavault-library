@@ -22,4 +22,3 @@ and is not allowed to take money for the trouble that one had gone
 through (to repair it), and one does not have the right to change the
 thing back to how it was in the beginning.
 
-

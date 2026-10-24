@@ -29,4 +29,3 @@ feeding on a day of hunger, of an orphan near of kin, or to the indigent
 
 Al-Kafi, vol. 2, p. 201
 
-

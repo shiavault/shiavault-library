@@ -346,4 +346,3 @@ al-fiqh].
 
 [^28]: Unfinished text by the author.
 
-

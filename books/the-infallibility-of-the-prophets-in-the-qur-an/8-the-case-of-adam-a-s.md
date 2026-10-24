@@ -285,4 +285,3 @@ those who are nearest to God — ***hasanâtu 'l-abrâr*** ***sayyi'âtu
 meanings to ad-dulm: الجور، وضع الشيء في غير موضعه، كل ما أعجلته عن
 أوانه،
 
-

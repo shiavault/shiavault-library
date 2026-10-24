@@ -732,4 +732,3 @@ taught us that keeping on to our faith is a means of our salvation and
 we believe in it sincerely. Therefore, show us Your promise as daylight
 because You always fulfil Your promises.
 
-

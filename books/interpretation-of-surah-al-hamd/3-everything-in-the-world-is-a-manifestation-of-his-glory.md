@@ -218,4 +218,3 @@ getting out of the depths of selfishness and seeing the Divine light so
 that he may forget everything other than Allah. May Allah bestow this
 favour on us also!
 
-

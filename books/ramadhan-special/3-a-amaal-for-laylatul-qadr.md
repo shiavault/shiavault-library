@@ -24,11 +24,9 @@ elaihe" i.e., "I seek pardon from God and ask for penitence from Him".
 3. The Holy Qur'an should be opened and placed in front, then one
 should recite:
 
-<p dir="rtl">
 اللَّهُمَّ إِنِّى أَسْأَلُكَ بِكِتَابِكَ الْمُنْزَلِ وَ مَا فِيهِ وَ
 فِيهِ اسْمُكَ الْأَكْبَرُ وَ أَسْمَاؤُكَ الْحُسْنَى وَ مَا يُخَافُ وَ
 يُرْجَى أَنْ تَجْعَلَنِى مِنْ عُتَقَائِكَ مِنَ النَّارِ
-</p>
 
 Translation: O Allah treat me as one of those who are free from Hell,
 in the name of this Holy Book sent by Thee, whatever there be in the
@@ -40,11 +38,9 @@ Jannat. Do forgive through the grace of this book.
 
 He should place the Holy Qur'an on his head and say,
 
-<p dir="rtl">
 اللَّهُمَّ بِحَقِّ هَذَا الْقُرْآنِ وَ بِحَقِّ مَنْ أَرْسَلْتَهُ بِهِ
 وَ بِحَقِّ كُلِّ مُؤْمِنٍ مَدَحْتَهُ فِيهِ وَ بِحَقِّكَ عَلَيْهِمْ فَلا
 أَحَدَ أَعْرَفُ بِحَقِّكَ مِنْكَ
-</p>
 
 Translation: O Allah! I appeal to Thee in the name of this Qur'an and
 the Rooh that was sent along with it, and in the name of the Momin
@@ -112,25 +108,20 @@ state of Roku'or Sojud:
 
 8. Recite: "Astagferullaah Rabbi Wa atoobo elaihe" 100 times.
 
-<p dir="rtl">
 أَسْتَغْفِرُ اللَّهَ رَبِّى وَ أَتُوبُ إِلَيْهِ.
-</p>
 
 (i.e., "I seek pardon from God and ask for penitence from Him").
 
 9. Recite: "Allaahummal'an qatalatal Ameeril Momeneen" 100 times,
 (specially recommended for the 19th night of Ramadhan).
 
-<p dir="rtl">
 اللَّهُمَّ الْعَنْ قَتَلَةَ أَمِيرِ الْمُؤْمِنِينَ.
-</p>
 
 (i.e., "O Allah! Thy malison upon the assassin of Ameerul Moineneen Ali
 ibne Abi Talib").
 
 10. Then it is recommended to recite the following Dua,
 
-<p dir="rtl">
 يَا ذَا الَّذِى كَانَ قَبْلَ كُلِّ شَىْ‏ءٍ ثُمَّ خَلَقَ كُلَّ شَىْ‏ءٍ
 ثُمَّ يَبْقَى وَ يَفْنَى كُلُّ شَىْ‏ءٍ يَا ذَا الَّذِى لَيْسَ كَمِثْلِهِ
 شَىْ‏ءٌ وَ يَا ذَا الَّذِى لَيْسَ فِى السَّمَاوَاتِ الْعُلَى وَ لا فِى
@@ -138,7 +129,6 @@ ibne Abi Talib").
 بَيْنَهُنَّ إِلَهٌ يُعْبَدُ غَيْرُهُ لَكَ الْحَمْدُ حَمْدا لا يَقْوَى
 عَلَى إِحْصَائِهِ إِلا أَنْتَ فَصَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 صَلاةً لا يَقْوَى عَلَى إِحْصَائِهَا إِلا أَنْتَ.
-</p>
 
 Translation: O One Who was before everything and then brought
 everything into existence. He will remain while all else will be
@@ -154,7 +144,6 @@ The following Du'a has been narrated from Imam Ja'afar Sadiq (a.s.) and
 is recommended to be read on every night of the month of Ramadhan
 specially on the 19th:
 
-<p dir="rtl">
 اللَّهُمَّ إِنِّى أَسْأَلُكَ أَنْ تَجْعَلَ فِيمَا تَقْضِى وَ تُقَدِّرُ
 مِنَ الْأَمْرِ الْمَحْتُومِ فِى الْأَمْرِ الْحَكِيمِ مِنَ الْقَضَاءِ
 الَّذِى لا يُرَدُّ وَ لا يُبَدَّلُ أَنْ تَكْتُبَنِى مِنْ حُجَّاجِ
@@ -164,7 +153,6 @@ specially on the 19th:
 تُطِيلَ عُمُرِى فِى خَيْرٍ وَ عَافِيَةٍ وَ تُوَسِّعَ فِى رِزْقِى وَ
 تَجْعَلَنِى مِمَّنْ تَنْتَصِرُ بِهِ لِدِينِكَ وَ لا تَسْتَبْدِلْ بِى
 غَيْرِى.
-</p>
 
 Translation : O Allah, while taking decisions and rendering possible
 things and events decisively and determining a rational and sensible
@@ -176,10 +164,8 @@ and, while taking decisions and rendering possible things and events,
 make possible for me a long life and enough means of livelihood, and
 fulfill (mention your legitimate desires).
 
-
 **Dua'a for 21st Ramadhan (1)**
 
-<p dir="rtl">
 اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ اقْسِمْ لِى حِلْما
 يَسُدُّ عَنِّى بَابَ الْجَهْلِ وَ هُدًى تَمُنُّ بِهِ عَلَىَّ مِنْ كُلِّ
 ضَلالَةٍ وَ غِنًى تَسُدُّ بِهِ عَنِّى بَابَ كُلِّ فَقْرٍ وَ قُوَّةً
@@ -193,7 +179,6 @@ fulfill (mention your legitimate desires).
 رَحْمَةٍ وَ عِصْمَةً تَحُولُ بِهَا بَيْنِى وَ بَيْنَ الذُّنُوبِ حَتَّى
 أُفْلِحَ بِهَا عِنْدَ الْمَعْصُومِينَ عِنْدَكَ بِرَحْمَتِكَ يَا أَرْحَمَ
 الرَّاحِمِينَ.
-</p>
 
 Translation : O Allah send blessings on Muhammad and on the children of
 Muhammad, and inculcate maturity (of thought and action) in me so that
@@ -214,7 +199,6 @@ all-embracing mercy; preserve incorruptible integrity in me so that it
 puts a barrier between me and wrongdoing till I reach the sanctuary of
 all (14) Infallibles, to be presented before Thee for obtaining Thy
 mercy, O the Most Merciful.
-
 
 **Dua (2) for 21st Ramadhan**
 
@@ -287,10 +271,8 @@ of the burning fire.(HQ 2:201) (And I beseech You to) grant me in it
 that You have granted Muhammad and his family, peace be on him and on
 them.
 
-
 **Dua'a for 23rd Ramadhan (1)**
 
-<p dir="rtl">
 يَا رَبَّ لَيْلَةِ الْقَدْرِ وَ جَاعِلَهَا خَيْرا مِنْ أَلْفِ شَهْرٍ وَ
 رَبَّ اللَّيْلِ وَ النَّهَارِ وَ الْجِبَالِ وَ الْبِحَارِ وَ الظُّلَمِ
 وَ الْأَنْوَارِ وَ الْأَرْضِ وَ السَّمَاءِ يَا بَارِئُ يَا مُصَوِّرُ يَا
@@ -306,7 +288,6 @@ them.
 عَذَابَ النَّارِ الْحَرِيقِ وَ ارْزُقْنِى فِيهَا ذِكْرَكَ وَ شُكْرَكَ وَ
 الرَّغْبَةَ إِلَيْكَ وَ الْإِنَابَةَ وَ التَّوْبَةَ وَ التَّوْفِيقَ
 لِمَا وَفَّقْتَ لَهُ مُحَمَّدا وَ آلَ مُحَمَّدٍ عَلَيْهِمُ السَّلامُ.
-</p>
 
 Translation : O Lord of Laylatul Qadr (night of power), who has made it
 better than a thousand months. O Lord of the night and the day, of the
@@ -332,7 +313,6 @@ family, peace be on him and on them.
 The following Du'a ?s also recommended to be rec?ted on the 21st n?ght
 of the month of Ramadhan.
 
-<p dir="rtl">
 يَا بَاطِنا فِى ظُهُورِهِ وَ يَا ظَاهِرا فِى بُطُونِهِ وَ يَا بَاطِنا
 لَيْسَ يَخْفَى وَ يَا ظَاهِرا لَيْسَ يُرَى يَا مَوْصُوفا لا يَبْلُغُ
 بِكَيْنُونَتِهِ مَوْصُوفٌ وَ لا حَدٌّ مَحْدُودٌ وَ يَا غَائِبا
@@ -344,7 +324,6 @@ of the month of Ramadhan.
 بِجَمِيعِ الْأُمُورِ سُبْحَانَ مَنْ لَيْسَ كَمِثْلِهِ شَىْ‏ءٌ وَ هُوَ
 السَّمِيعُ الْبَصِيرُ سُبْحَانَ مَنْ هُوَ هَكَذَا وَ لا هَكَذَا
 غَيْرُهُ
-</p>
 
 Translation : O intrinsic Fundamental (Secret) evident in His exposed
 intelligible expression (manifest), and O Rational Exposition (Manifest)
@@ -361,7 +340,6 @@ Light of every light, and the Lord of the lords, Thou controls every
 aspect of all phenomena. Glory be to He like unto whom there is nothing.
 He is Hearing, Seeing. Glory be to He who is "just like that", and is
 not "just like that" anyone other than He.
-
 
 **Miscellaneous Recommend Du'as for the month of Ramadhan**
 
@@ -425,5 +403,4 @@ Al-Hasan, Your blessings be on him and his forefathers in this hour and
 in every hour, a guardian, a protector, a leader, a helper, a proof, and
 an eye until You make him live on the earth, in obedience (to You), and
 cause him to live in it for a long time.
-
 

@@ -691,4 +691,3 @@ of Abu 'Ali al-Jubba'i; Qadi 'Abd al-Jabbar (d. 415/1024); Abu al-Hasan
 al-Khayyat; al-Sahib ibn 'Abbad, al-Zamakhshari (d. 538/1144); and Abu
 Ja'far al-'Iskafi.
 
-

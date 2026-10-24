@@ -51,4 +51,3 @@ the advantage of abiding by the law, he becomes a good citizen.
 
 [^1]: Gharar al hukm, p. 26
 
-

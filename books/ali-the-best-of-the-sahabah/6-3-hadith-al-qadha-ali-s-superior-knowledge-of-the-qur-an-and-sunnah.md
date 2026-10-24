@@ -11,22 +11,14 @@ Abu Bakr, ‘Umar and ‘Uthman. So, what is the direct implication of this?
 In Islam, justice dispensation is based squarely upon the Qur’an and
 Sunnah:
 
-<blockquote dir="rtl">
-  <p>
-فاحكم بينهم بما أنزل الله
-  </p>
-</blockquote>
+> فاحكم بينهم بما أنزل الله
 
 So, judge between them **by what Allah has revealed**.[^1]
 
 The Qur’an itself, in its entirety, is described as “a judgment” by its
 Master:
 
-<blockquote dir="rtl">
-  <p>
-وكذلك أنزلناه حكما عربيا
-  </p>
-</blockquote>
+> وكذلك أنزلناه حكما عربيا
 
 And thus We have sent it down as **a judgment** in Arabic[^2]
 
@@ -36,11 +28,7 @@ effective justice dispensation.
 Moreover, the Sunnah is the divinely inspired explanations of this
 “judgment” called al-Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وأنزلنا إليك الذكر لتبين للناس ما نزل إليهم
-  </p>
-</blockquote>
+> وأنزلنا إليك الذكر لتبين للناس ما نزل إليهم
 
 And We have sent down unto you (Muhammad) *al-Dhikr* (i.e. the Qur’an)
 **that you may explain clearly** to mankind what is sent down to
@@ -50,11 +38,7 @@ Apparently, a person does not know the Book of Allah until he has known
 its explanations by the Messenger of Allah. These explanations,
 according to the same Book, only originated from the Lord as well:
 
-<blockquote dir="rtl">
-  <p>
-وما ينطق عن الهوى إن هو إلا وحي يوحى
-  </p>
-</blockquote>
+> وما ينطق عن الهوى إن هو إلا وحي يوحى
 
 He (Muhammad) never speaks of (his own) desire or caprice. **It is
 nothing but a** ***wahy*** **that is revealed (to him)**.[^4]
@@ -79,15 +63,11 @@ fields as ‘Ali.
 At this point, it is apposite to quote this groundbreaking *riwayah*
 referenced by al-Hafiz Ibn Kathir (d. 774 H):
 
-<blockquote dir="rtl">
-  <p>
-قال شعبة بن الحجاج ، عن سِمَاك ، عن خالد بن عَرْعَرَة أنه سمع عليا
-وشعبة أيضًا ، عن القاسم بن أبي بزَّة ، عن أبي الطُّفَيْل ، سمع عليًا.
-وثبت أيضًا من غير وجه ، عن أمير المؤمنين علي بن أبي طالب : أنه صعد
-منبر الكوفة فقال : لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول
-الله ، إلا أنبأتكم بذلك.
-  </p>
-</blockquote>
+> قال شعبة بن الحجاج ، عن سِمَاك ، عن خالد بن عَرْعَرَة أنه سمع عليا
+> وشعبة أيضًا ، عن القاسم بن أبي بزَّة ، عن أبي الطُّفَيْل ، سمع عليًا.
+> وثبت أيضًا من غير وجه ، عن أمير المؤمنين علي بن أبي طالب : أنه صعد
+> منبر الكوفة فقال : لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول
+> الله ، إلا أنبأتكم بذلك.
 
 Shu’bah b. al-Hajjaj, from Simak, from Khalid b. ‘Ar’arah that he heard
 ‘Ali; and Shu’bah again narrated from al-Qasim b. Abi Barrah from Abu
@@ -101,11 +81,7 @@ None of the Sahabah was *ever* able to make a similar claim!
 
 Secondly, justice must be administered with utmost fairness and equity:
 
-<blockquote dir="rtl">
-  <p>
-وإن حكمت فاحكم بينهم بالقسط
-  </p>
-</blockquote>
+> وإن حكمت فاحكم بينهم بالقسط
 
 If you judge, judge between them with fairness and equity.[^6]
 
@@ -139,11 +115,7 @@ administration of personal discretion.
 The most crucial part of this discourse, probably, is stated in this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
-  </p>
-</blockquote>
+> يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
 
 O Dawud! We have appointed you a *khalifah* over the earth. Therefore,
 judge between mankind with the truth.[^7]
@@ -190,5 +162,4 @@ edition, 1420 H) [annotator: Sami b. Muhammad Salamah], vol. 7, p. 413
 [^6]: Qur’an 5:42
 
 [^7]: Qur’an 38:26
-
 

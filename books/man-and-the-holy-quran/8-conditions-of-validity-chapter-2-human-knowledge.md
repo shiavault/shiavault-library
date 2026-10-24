@@ -95,7 +95,6 @@ kinds of self-consciousness. We skip over the figurative and unreal
 self-consciousness as that of identity card. We have several kinds of
 real self-consciousness:
 
-
 **I. Innate Self-Consciousness:**
 
 Man is self-conscious innately. It is in his nature to be
@@ -153,5 +152,4 @@ At this stage of self-consciousness the main question is: What is the
 nature and the class of ego? If a philosopher claims to be having
 self-consciousness, that means that he claims to know the nature, the
 class and the substance of ego.
-
 

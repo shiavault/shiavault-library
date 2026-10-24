@@ -18,4 +18,3 @@ sublimity and glory, which have not been granted to any other spirit or
 house save them, thus to draw the attention of creation by this means –
 to believe in and exalt them.
 
-

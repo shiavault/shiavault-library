@@ -14,4 +14,3 @@ inflictions and pains, which strong men can barely put up with.
 Perhaps I will be able to elaborate on the life of Lady Umm Kulthum (as)
 when I speak about Zainab (as) in new book, if Allah (SwT) wills.
 
-

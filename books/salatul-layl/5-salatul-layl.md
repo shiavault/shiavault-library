@@ -43,30 +43,14 @@ after Suratul Hamd during these raka’ats.
 
 ### Sura al-Kafirun (\#109)
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا الْكَافِرُونَ لاَ أَعْبُدُ مَا تَعْبُدُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا الْكَافِرُونَ لاَ أَعْبُدُ مَا تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ أَنتُمْ عَابِدُونَ مَا أَعْبُدُ وَلاَ أَنَا عَابِدٌ مَّا
-عَبَدتُّمْ
-  </p>
-</blockquote>
+> وَلاَ أَنتُمْ عَابِدُونَ مَا أَعْبُدُ وَلاَ أَنَا عَابِدٌ مَّا
+> عَبَدتُّمْ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ أَنتُمْ عَابِدُونَ مَا أَعْبُدُ لَكُمْ دِينُكُمْ وَلِيَ دِينِ
-  </p>
-</blockquote>
+> وَلاَ أَنتُمْ عَابِدُونَ مَا أَعْبُدُ لَكُمْ دِينُكُمْ وَلِيَ دِينِ
 
 In the name of Allah the Beneficent, the Merciful  
  Say: O unbelievers  
@@ -84,24 +68,12 @@ This is a two rak’aat prayer, and there is no qunoot in it.
 
 ### Sura al-Falaq (\#113)
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ، مِن شَرِّ مَا خَلَقَ ،
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ، مِن شَرِّ مَا خَلَقَ ،
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ، وَمِن شَرِّ النَّفَّاثَاتِ فِي
-الْعُقَدِ ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
-  </p>
-</blockquote>
+> وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ، وَمِن شَرِّ النَّفَّاثَاتِ فِي
+> الْعُقَدِ ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
 In the name of Allâh the Beneficent, the Merciful.  
  Say: I seek refuge with (Allâh) the Lord of the daybreak  
@@ -112,24 +84,12 @@ In the name of Allâh the Beneficent, the Merciful.
 
 ### Sura an-Nas (\#114)
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبِّ النَّاسِ ، مَلِكِ النَّاسِ ، إِلَهِ النَّاسِ ،
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبِّ النَّاسِ ، مَلِكِ النَّاسِ ، إِلَهِ النَّاسِ ،
 
-<blockquote dir="rtl">
-  <p>
-مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ، الَّذِي يُوَسْوِسُ فِي صُدُورِ
-النَّاسِ ، مِنَ الْجِنَّةِ وَ النَّاسِ
-  </p>
-</blockquote>
+> مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ، الَّذِي يُوَسْوِسُ فِي صُدُورِ
+> النَّاسِ ، مِنَ الْجِنَّةِ وَ النَّاسِ
 
 In the Name of Allâh, the Beneficent, the Merciful.  
  Say: I seek refuge with (Allâh) the Lord of mankind  
@@ -157,60 +117,24 @@ Some recommended duas are as follows.
 **a)** Recite the following du’a  
  (See also the longer version of this du’a: Du’a Qunut for Salatul Layl)
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-لآ اِلَهَ اِلاَّ اللّهُ الْحَلِيْمُ الْكَرِيْمُ
-  </p>
-</blockquote>
+> لآ اِلَهَ اِلاَّ اللّهُ الْحَلِيْمُ الْكَرِيْمُ
 
-<blockquote dir="rtl">
-  <p>
-لآ اِلَهَ اِلاَّ اللّهُ الْعَلِيُّ الْعَظِيْمُ
-  </p>
-</blockquote>
+> لآ اِلَهَ اِلاَّ اللّهُ الْعَلِيُّ الْعَظِيْمُ
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللّهِ رَبِّ السَّمَاوَاتِ السَّبْعِ
-  </p>
-</blockquote>
+> سُبْحَانَ اللّهِ رَبِّ السَّمَاوَاتِ السَّبْعِ
 
-<blockquote dir="rtl">
-  <p>
-وَ رَبِّ الاَرْضِيْنَ السَّبْعِ
-  </p>
-</blockquote>
+> وَ رَبِّ الاَرْضِيْنَ السَّبْعِ
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا فِيْهِنَّ وَ مَا بَيْنَهُنَّ وَ مَا فَوْقَهُنَّ وَ مَا
-تَحْتَهُنَّ
-  </p>
-</blockquote>
+> وَ مَا فِيْهِنَّ وَ مَا بَيْنَهُنَّ وَ مَا فَوْقَهُنَّ وَ مَا
+> تَحْتَهُنَّ
 
-<blockquote dir="rtl">
-  <p>
-رَبُّ الْعَرْشِ الْعَظِيْمِ وَ سَلاَمٌ عَلى الْمُرْسَلِيْنَ
-  </p>
-</blockquote>
+> رَبُّ الْعَرْشِ الْعَظِيْمِ وَ سَلاَمٌ عَلى الْمُرْسَلِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> وَ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ صَلَّى اللّهُ عَلى مُحَمَّدٍ وَ آلِهِ الطَّاهِرِيْنَ
-  </p>
-</blockquote>
+> وَ صَلَّى اللّهُ عَلى مُحَمَّدٍ وَ آلِهِ الطَّاهِرِيْنَ
 
 In the name of Allah, the Beneficent the merciful  
  There is no god except Allah  
@@ -231,22 +155,14 @@ and whatever is in them, and between them
 
 **b)** Recite 70 times this prayer for forgiveness
 
-<blockquote dir="rtl">
-  <p>
-اَسْتَغْفِرُ اللّهَ رَبِّي وَ اَتُوْبُ اِلَيْهِ
-  </p>
-</blockquote>
+> اَسْتَغْفِرُ اللّهَ رَبِّي وَ اَتُوْبُ اِلَيْهِ
 
 I seek forgiveness of Allah my Lord and I turn to Him
 
 **c)** Ask for the forgiveness of forty believers, men and women, who
 have died or are living, by repeating forty times:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اغْفِرْ لِ
-  </p>
-</blockquote>
+> اَللّهُمَّ اغْفِرْ لِ
 
 O’ Allah, forgive
 
@@ -255,23 +171,15 @@ recommended to remember the Ulama (Scholars) who have served and
 propagated Islam. If it is not possible to name forty believers, name as
 many as possible and then say:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اغْفِرْ لِلْمُؤْمِنِيْنَ وَ الْمُؤْمِنَاتِ
-  </p>
-</blockquote>
+> اَللّهُمَّ اغْفِرْ لِلْمُؤْمِنِيْنَ وَ الْمُؤْمِنَاتِ
 
 O Allah forgive all believers, male and female
 
 Then say:
 
-<blockquote dir="rtl">
-  <p>
-اَسْتَغْفِرُ اللّهَ الَّذِي لاَ اِلَهَ اِلاَّ هُوَ الْحَيُّ
-الْقَيُّومُ لِجَمِيْعِ ظُلْمِي وَ جُرْمِي وَ اِسْرَافِي عَلى نَفْسِي
-وَ اَتُوْبُ اِلَيْهِ
-  </p>
-</blockquote>
+> اَسْتَغْفِرُ اللّهَ الَّذِي لاَ اِلَهَ اِلاَّ هُوَ الْحَيُّ
+> الْقَيُّومُ لِجَمِيْعِ ظُلْمِي وَ جُرْمِي وَ اِسْرَافِي عَلى نَفْسِي
+> وَ اَتُوْبُ اِلَيْهِ
 
 I seek forgiveness of Allah, He who there is no god but He, the Ever
 living, the subsisting, from all my oppressions and my sins and my
@@ -279,11 +187,7 @@ excesses on my soul, and I turn (repentant) to Him
 
 **d)** Repeat seven times:
 
-<blockquote dir="rtl">
-  <p>
-هذَا مَقَامُ الْعَآئِذِ بِكَ مِنَ النَّارِ
-  </p>
-</blockquote>
+> هذَا مَقَامُ الْعَآئِذِ بِكَ مِنَ النَّارِ
 
 This is the position of one who seeks refuge in You from the fire
 
@@ -292,19 +196,10 @@ This is the position of one who seeks refuge in You from the fire
 
 Then say:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اغْفِرْ لِي وَ ارْحَمْنِي وَ تُبْ عَلَيَّ
-  </p>
-</blockquote>
+> رَبِّ اغْفِرْ لِي وَ ارْحَمْنِي وَ تُبْ عَلَيَّ
 
-<blockquote dir="rtl">
-  <p>
-اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ
-  </p>
-</blockquote>
+> اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ
 
 My Lord, forgive me and have mercy on me, and turn to me Surely You are
 the Oft-returning, the Merciful
-
 

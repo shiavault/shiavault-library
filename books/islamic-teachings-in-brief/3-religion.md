@@ -921,4 +921,3 @@ Therefore, the Holy Prophet (S) stated:
 
 [^1]: Sabians are those who converted from Magian to Jewish religion.
 
-

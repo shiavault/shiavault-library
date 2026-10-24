@@ -709,4 +709,3 @@ commit any sin or even any simple error.
 
 [^61]: Ibid., vol. 67, p. 282.
 
-

@@ -46,4 +46,3 @@ on the right path, so that they can continue their good deeds through
 which I may survive...Oh God, grant me mercy... surely Thou art the most
 liberal Giver…” (Ali-Imran, 3: 8)***
 
-

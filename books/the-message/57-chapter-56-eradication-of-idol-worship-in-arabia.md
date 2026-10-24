@@ -252,4 +252,3 @@ III, page 1077.
 
 [^6]: Ruhul Ma'ani, commentary of Surah al-Tawbah.
 
-

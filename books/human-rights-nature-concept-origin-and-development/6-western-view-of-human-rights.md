@@ -26,4 +26,3 @@ state. By incorporating them in the constitution the legislative powers
 of the state are limited, and the judiciary is entrusted with
 enforcement of the fundamental rights[^19] .
 
-

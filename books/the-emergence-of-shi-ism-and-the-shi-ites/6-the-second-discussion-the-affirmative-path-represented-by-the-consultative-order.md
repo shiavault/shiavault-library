@@ -1039,4 +1039,3 @@ outrages against loved ones!”
 power. Cf. al ­Suyuti, Tarikh al-khulafa; p. 209; al-Maqrizi, al-Naza\`
 wal-takhasum bayna Bani Hashim wa Bani Umayyah, ed. Dr. Mu'nis, p. 56.
 
-

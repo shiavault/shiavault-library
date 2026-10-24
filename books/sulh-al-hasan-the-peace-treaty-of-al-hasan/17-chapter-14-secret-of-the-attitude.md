@@ -1,8 +1,6 @@
 Chapter 14: Secret of the Attitude
 ==================================
 
-  
-
 Up till now, we have brought nothing to quench our thirst or to serve as
 a proof for understanding the reason why al-Hasan, peace be on him,
 turned away from martyrdom and accepted making peace practically. The
@@ -32,8 +30,6 @@ bloodshed through the (grand) son of the Apostle of Allah. For al-Hasan
 has calmed the discord  
  and accepted making peace (with Mu'awiya).' So they (the  
 
-  
-
 people) attacked al-Hasan, and plundered his great tent. So al-Hasan
 mounted his own horse and went to Mazlam Sabat. Al-Jarrah b. Sinan
 al-Asadi had ambushed him, stabbed him in the thigh, seized his beard
@@ -50,8 +46,6 @@ al-Mada'in. He sent Qays b. Sa'd to lead his vanguard (so and- so) that
 was composed of twelve thousand fighters. (In the meantime) Mu'awiya and
 the Syrians moved till they stopped at Maskan. While al-Hasan had been
 at al-Mada'in, a caller called in the army: 'Qays b. Sa'd has  
-
-  
 
 been killed, so desert (al-Hasan).' So they deserted him, and plundered
 his tent to the extent that they plundered even his prayer mat from
@@ -110,8 +104,6 @@ fight against the Syrians after
  the arbitration, but you refused that till he passed away.  
  Then you pledged allegiance to me to make peace with  
 
-  
-
 him who makes peace with me and to fight him who fights against me. I
 have heard that the people of honor went to Mu'awiya and pledged
 allegiance to him. It is enough for me when you do not desert me and my
@@ -151,8 +143,6 @@ accusing him of disbelief, and declaring that it was lawful to shed his
 blood and plunder his proper. There remained no one to protect him from
 his unfortunate predicament except the close associates from his  
 
-  
-
 father's Shi'a and his own Shi'a, and they were a group that could not
 resist the Syrian soldiers.
 
@@ -185,8 +175,6 @@ peace. Some historians think that al-Hasan asked Mu'awiya for making
 peace because of the discords that happened at both the camps, namely at
 Maskan and al-Mada'in. Then they differ over the kind of the discord.
 Some of them think that al-Hasan agreed on making peace with  
-
-  
 
 Mu'awiya because the people deserted him when he was stabbed and became
 ill. Some of them think that al-Hasan made peace with Mu'awiya because
@@ -233,8 +221,6 @@ immortal Imam.
 At this they will be able to know the reason why the Imam preferred
 making peace with Mu'awiya to martyrdom. In the  
 
-  
-
 meantime they will be in no need of any effort to count the disasters or
 to study the critical situations. However, these people insist that it
 was inappropriate for al-Hasan to make peace with Mu'awiya, for the
@@ -272,8 +258,6 @@ the Muslims that it was incumbent on them to fight against him.
 
 These are some of al-Hasan's words to Mu'awiya: "Leave aggression and
 prevent the blood of the Muslim from shedding. By  
-
-  
 
 Allah, you have shed a lot of their Blood. Fear Allah, for you will meet
 him. [[1]](#r1)
@@ -316,8 +300,6 @@ what was in the world for the world? Didn't he sell his
 [[1]](#n1) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 12.
 [[2]](#n2) Al-Tubrisi, al-Ihtijaj, p. 151.
 
-  
-
 life for Allah's reward? So why did he avoid facing the swords and the
 spears to be a martyr? Isn't this the Immortal martyr? Moreover, why was
 such a mujahid (holy fighter) prevented from martyrdom while he had a
@@ -353,8 +335,6 @@ The second fact is about al-Hasan's critical situation at al Mada' in.
 
 The third fact is about Mu'awiya's plan towards the aims of al Hasan,
 peace be on him.
-
-  
 
 ### 1. Martyrdom for Allah
 
@@ -398,8 +378,6 @@ respect al-Qaffal al-Shafi'i said: "Indeed the community that appoints
 For example, 'Uthman, who was the third Caliph and historical figure who
 shook the earth with his fearful authority, was killed by the  
 
-  
-
 armed revolutionaries from the owners of the right to authority. So
 neither history nor his friends in history are able to regard him as a
 martyr in the full sense of the word.
@@ -437,8 +415,6 @@ the army of Maskan, had been killed.
 C. The discord created by the Syrian delegation that came to show the
 Imam the letters of the traitorous Kufans, and then the delegation went
 out saying that al-Hasan had accepted making peace with  
-
-  
 
 Mu'awiya.
 
@@ -481,8 +457,6 @@ field, and they indicate that those who called the Imam from all
 have already mentioned the first part of this oration with in the
 declarations of the historians in this chapter.
 
-  
-
 directions to make peace with Mu'awiya were themselves who asked the
 Imam to wage war against him.
 
@@ -522,8 +496,6 @@ This is what history has kept for this group of the people. As for what
 historians have forgotten or tried to forget or they have been prevented
 from mentioning it, no one knows it but Allah, the Great and Almighty.
 
-  
-
 I (i.e., the author) wonder: If Mu'awiya with all his cleverness and
 generosity faced the situation and the army of al-Hasan, would he pass
 his critical situation in a manner better than that al-Hasan used to
@@ -562,8 +534,6 @@ when he took the reins of authority while his title was unknown, nor was
 worried when he was called al-baghi according to the Islamic Law. That
 is because he was insisting on taking the greatest  
  titles by force regardless of the Islamic Law. So after that,  
-
-  
 
 Sa'd b. Abu Waqqas called him king. Muslim b. 'Aqaba [[1]](#r4),
 al-Mughira b. Shu'ba [[2]](#r5), and 'Amr b. al 'As [[3]](#r6) called
@@ -608,10 +578,6 @@ be your partner in it.' 'Then you are my partner in it,' said Mu'awiya.
 Egypt and her districts, and wrote at the end of the letter: 'Amr should
 listen and obey.' 'And write that listening and obedience  
 
-  
-
-  
-
 ------------------------------------------------------------------------
 
 should change nothing of his condition,' said 'Amru. 'No, we will
@@ -654,8 +620,6 @@ Suddenly, it was Mu'awiya and Amru b. al-'As. They were singing. So I
 came back and told the Prophet, may Allah bless him and his family, who
 said: 'O Allah, sink them into the seduction thoroughly. O Allah, leave
 them in the fire for ever.'"
-
-  
 
 Commander of the faithful). He was the happiest one in this world, "who
 obtained all things which the people did not obtain in this world," as
@@ -703,8 +667,6 @@ him, for he will extinguish the light of Allah and help the enemies of
 Allah, the Great and Almighty." See: alTabari, Ibn Abu al-Hadid,
 al-Mas'adi, and the like.
 
-  
-
 We do not know exactly to what extent these titles cost Mu'awiya in his
 religion when he ascribed them to himself and to his son Yazid by force,
 and when he did not introduce his son to the Muslims.
@@ -745,8 +707,6 @@ fathers whose names have been mentioned there. In his book 'Nahj al
 Balagha', the lord of Arabs (i.e., Imam 'Ali) referred to that: "The
 original one is unlike the associate."
 
-  
-
 It was natural for the persons who were used to the tribal backgrounds
 before and after Islam, who accepted Islam unwillingly on the Day of the
 Conquest (of Mecca), and who did not understand Islam as it is, to keep
@@ -785,8 +745,6 @@ of his. They are as follows:
 
 1. To paralyze the Shi'ites, to destroy gradually all those who adopted
 Shiism, and to divide their unity.
-
-  
 
 2. To create discords in the areas that followed the members of the
 House (Ahl al-Bayt), peace be on them, so that he (Mu'awiya) would be
@@ -828,8 +786,6 @@ his sons who waged war against the Prophet, may Allah bless him and his
 family, when he summoned the people to believe in Islam, and that it was
 they who made unlawful what Allah had made lawful and made lawful what
 Allah had made unlawful, and that it was they  
-
-  
 
 who added the illegal child to the lineage, and that it was they who
 broke the covenants, violated the oath, killed great Muslim figures,
@@ -873,8 +829,6 @@ Allah against them." See al-Malahim wa al-Fitan, p. 143 (Najaf).
 [[3]](#n10) Hashim al-Daftardar, al-Islam bayna al-Sunna wa al-Shi'a, p.
 20.
 
-  
-
 Then the sunna of Mu'awiya became historical rule. It made the word
 sunna imply another idiomatic meaning which the generations handed down,
 and with which the early political meaning was forgotten.
@@ -916,8 +870,6 @@ they uprooted their existence from the people. Then they would be able,
 when the atmosphere was empty of the family of Muhammad (may Allah bless
 him and his family), to create another  
 
-  
-
 apostasy from Islam through their fabricated traditions so that they
 would destroy the true Islam and legislate another Islam that was
 appropriate for Mu'awiya's ambitions and far away from the inspiration
@@ -956,8 +908,6 @@ have not regarded him as a martyr in the full sense of the world.
 That is because the vanguards of al-Mada'in created a sorrowful
 situation through their foolish chaos. The traitorous Kufans  
  maintained an attitude when they deserted al-Hasan through their  
-
-  
 
 letters, which al-Hasan himself read, to Mu'awiya to kill the former or
 to hand him over. This forces us to think that a group of the great
@@ -998,8 +948,6 @@ intention? It is worth mentioning that al-Hasan went out of his tent on
 that day when he was stabbed to arrive at the tent of his governor over
 the camp of al-Mada'in. He went there to avoid the  
 
-  
-
 noise of the people and to be able to take measures to treat the
 situation when necessary.
 
@@ -1039,8 +987,6 @@ al-Medina).
 
 I (i.e., the author) wonder: Was it possible for the death during the
 last moments at the camp of al-Mada'in to make life or was it the  
-
-  
 
 death that would make death for ever? This is why the great selves do
 not die but to enliven a sunna (practice) or to save a community.
@@ -1085,8 +1031,6 @@ his simple Arab morale that had no relationship with the religion.
 
 So if al-Hasan was not the Imam of such persons, he was their  
 
-  
-
 benefactor. If he was not their benefactor, he was at least a generous
 wronged man.
 
@@ -1128,8 +1072,6 @@ The provoking roles which Mu'awiya played under the pretext of
 ------------------------------------------------------------------------
 
 [[1]](#n11) Ibn Qutayba al-Dinawari, al-Ma'arif, p. 303.
-
-  
 
 'Uthman's blood moved the Shi'a of 'Ali and of his sons, peace be on
 them, in the Syrian Camp. So it was necessary for them to join their
@@ -1174,8 +1116,6 @@ The desertion of 'Ubayd Allah b. 'Abbas and his associates to Mu'awiya
 was a necessary operation for purifying the army of  
  al-Hasan. That is because such an operation purified the Camp of  
 
-  
-
 Maskan, that fought against the enemy face to face, from the mixed
 groups that represented the corrupt organ in the army. Unfortunately,
 this operation of desertion was accompanied by similar desertions.
@@ -1218,8 +1158,6 @@ surrounded him at the Camp of al-Madain, to hasten to the
 
 [[1]](#n12) Ibn al-Athir, al-Kamil fi al-Ta'rikh, vol. 3, p. 162.
 
-  
-
 Camp of Maskan to win the final victory or to obtain glorious martyrdom
 in the full sense of the word in the way of Allah and history.
 
@@ -1260,8 +1198,6 @@ the steps that were nothing more than the military occupation
 accompanied by Mu'awiya's limitless destruction and wrath against the
 members of the House (Ahl al-Bayt), peace be on them,  
  and their followers (Shi'a). It was possible for such an  
-
-  
 
 occupation to endanger the hopes of the country, its excellent rites,
 and its doctrines which were built on the skulls of tens of thousands
@@ -1304,8 +1240,6 @@ Mu'awiya was similar to that between al-Hasan's grandfather, Allah's
 Apostle, may Allah bless him and his family, and Mu'awiya's father on
 the day when all belief advanced against all polytheism.
 
-  
-
 In all the world, there was no group like this group that gathered
 together under the leadership of al-Hasan. That is because this group
 was entrusted to preserve the laws of Islam and the ideal doctrines.
@@ -1347,8 +1281,6 @@ Thus he would be unable to hear the people mention the brother of Hashim
 (i.e., the Prophet, may Allah bless him and his family) five times a day
 as the Islamic Sunna (practice) decided at the  
 
-  
-
 adhan (call to prayer). So he said to al-Mughira b. Shu'ba: "May your
 mother lose you, every practice remains after this (adhan) will bury us
 thoroughly. [[1]](#r13)
@@ -1385,8 +1317,6 @@ has been mentioned. However, the brother of Hashim (i.e., the Prophet)
 is mentioned five times a day: I testify that Muhammad is the Apostle of
 Allah. May your mother lose you, every practice remains after this will
 bury us thoroughly.'"
-
-  
 
 and Medina (i.e., Muslim b. 'Aqaba), and the like of these persons who
 destroyed the spirits of Muslims.
@@ -1438,8 +1368,6 @@ the violence of the expected results.
 When al-Hasan was sure of these results, he used this way (i.e., the way
 of making peace with Mu'awiya). For he wanted to continue the lines of
 his communication with generations, rather the lines of his  
-
-  
 
 father and his grandfather, blessing and peace be on them, through
 preserving his Shi'a. Through this way he was able to save his doctrine

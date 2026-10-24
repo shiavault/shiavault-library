@@ -15,4 +15,3 @@ The Amir of Kufa laughed uncontrollably at Bahlool's speech, thanked
 Allah, ate his meal and drank water, and permitted people to come and
 congratulate him.
 
-

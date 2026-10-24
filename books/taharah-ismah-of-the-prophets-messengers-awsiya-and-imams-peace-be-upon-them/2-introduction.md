@@ -33,4 +33,3 @@ judgment should be made with an open and thoughtful mind, and Allah
 (SWT) is our Helper, God-willing! We seek and pray for His Guidance and
 Knowledge, for He is the Hearing and All-Knowing.
 
-

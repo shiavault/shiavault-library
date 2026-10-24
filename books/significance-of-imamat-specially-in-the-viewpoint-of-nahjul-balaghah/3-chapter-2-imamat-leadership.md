@@ -333,4 +333,3 @@ among the people, but no one will seek guidance from them, and they will
 be with the people, but not really with them." (Nahjul Balagha - Sermon
 147).
 
-

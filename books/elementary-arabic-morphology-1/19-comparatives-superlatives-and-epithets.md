@@ -19,4 +19,3 @@ more generous)
 fixed state. It has many forms, for example: **ﺃسوَد عَطشان ظَریف ضَخم
 بَطَل** (black, brave, big, elegant, thirsty)
 
-

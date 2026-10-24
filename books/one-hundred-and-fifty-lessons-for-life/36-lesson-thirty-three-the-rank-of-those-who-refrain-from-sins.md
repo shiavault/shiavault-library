@@ -3,12 +3,8 @@ Lesson Thirty Three: The rank of those who refrain from sins
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا الُْمجاهِدُ الشَّهِيْدُ فِى سَبِيْلِ اللّهِ بِأَعْظَمَ أَجْراً
-مِمَّنْ قَدَرَ فَعَفَّ
-  </p>
-</blockquote>
+> مَا الُْمجاهِدُ الشَّهِيْدُ فِى سَبِيْلِ اللّهِ بِأَعْظَمَ أَجْراً
+> مِمَّنْ قَدَرَ فَعَفَّ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ desires, resist sins and remain chaste in contaminated environments, are
 not in a lower rank than the martyrs in the way of god.
 
 [^1]: Nahjul Balaghah
-
 

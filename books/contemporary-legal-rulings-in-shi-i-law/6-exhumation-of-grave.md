@@ -19,4 +19,3 @@ great hardship?**
 A: In response to the question, it is not obligatory to execute the
 change. (MMS, p. 11, Q2)
 
-

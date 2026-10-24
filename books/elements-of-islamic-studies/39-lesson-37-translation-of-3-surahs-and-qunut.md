@@ -72,4 +72,3 @@ A short *Qunut* (with translation is given here :
 *Innaka ’ala kulli shay’in Qadeer* :  
  Verily Thou hast power upon everything.
 
-

@@ -76,7 +76,6 @@ taken part in discovering some of the verdicts, laws, concepts, and
 other theories in various aspects of Islamic thought, such as; economy,
 psychology, ethics, policy, sociology, commerce, etc.
 
-
 **How to Obtain Benefit from Analogy Evidence in the Field of
 Jurisprudence**
 
@@ -142,7 +141,6 @@ diligent task should naturally depend on that kind of analogy'.
 The logical analogy has been employed as a practical method in applying
 the jurisprudence principles, on the one hand, and as a deducing process
 of the Islamic thought and verdicts, on the other.
-
 
 **Some Prinicipal Supports in the Jursitic Deducing
 Method????????????**
@@ -300,5 +298,4 @@ and purity, besides, discovering the legal verdict and Islamic thought
 which should conform to correct, scientific methods. The fear is that
 intensive contemplation might become abnormal or deviated from scientism
 and legitimacy in the process of research and discovery.
-
 

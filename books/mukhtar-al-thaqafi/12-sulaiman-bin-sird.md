@@ -25,4 +25,3 @@ Sulaiman bin Sird passed away during the fights. Ryfaah bin Shaddad
 headed the army after Sulaiman bin Sird. Then he decided to withdraw the
 army to Kufa.
 
-

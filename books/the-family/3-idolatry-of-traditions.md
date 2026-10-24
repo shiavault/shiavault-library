@@ -72,7 +72,6 @@ their personal conditions". This was related by Sheikh Murtada in
 Al-Makasib. Further detailed study of the hadith and pronouncements of
 the jurists can be found in the book of Fiqh. 61
 
-
 **Section Three : Islam's Word on the New Born Child**
 
 **The Fruit of Marriage**
@@ -306,7 +305,6 @@ Hence the parents should school themselves and their children in noble
 morals and praiseworthy virtues and non-violence in marital matters so
 that they may find happiness in this world and the next.
 
-
 **Section Four : Problems and Safeguards towards Maintaining
 Harmony**
 
@@ -516,5 +514,4 @@ Encyclopaedia of Fiqh; Page 341.
 79 For example, the price of meat has risen to 48,000 times its
 original value, milk 75 times its value, and wheat 10,000 times its
 original value.
-
 

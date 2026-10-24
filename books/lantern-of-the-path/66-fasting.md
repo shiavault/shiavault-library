@@ -28,4 +28,3 @@ cannot be counted. It is enough that we mention some of them to the
 person who understands and is given success in making use of fasting, if
 Allah wills.
 
-

@@ -506,4 +506,3 @@ al-Shafi'iy: al-Musnad Chapter: Spoils of War.
 [^33]: Ibn al-Athir: al-Kamil fi’l-Tarikh 3:91; Tarikh al-Tabariy as
 well as many other reference books of Islamic history.
 
-

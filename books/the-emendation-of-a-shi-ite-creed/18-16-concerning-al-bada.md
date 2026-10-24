@@ -121,4 +121,3 @@ opinion concerning Isma‘il and his life history see our "Introduction"
 to the English translation of Kitab al-Irshad which will be published by
 the Will of Allah (ed.).]
 
-

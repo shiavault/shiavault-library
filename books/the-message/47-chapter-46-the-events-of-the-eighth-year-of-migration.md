@@ -490,4 +490,3 @@ vol. II, p. 79.
 [^16]: Bihar, vol. XXI, pp. 54 - 55 and Mughazi-i Waqidi, vol. II, page
 766.
 
-

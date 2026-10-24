@@ -792,4 +792,3 @@ frequency in general than in Western societies, we are justified in
 believing that Muslims make a true effort to maintain both the
 legislations of Islam and the ideal of monogamy without divorce.
 
-

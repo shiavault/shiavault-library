@@ -1,20 +1,12 @@
 Twenty First Talk
 =================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura an-Nahl, 16:99)***
@@ -241,11 +233,7 @@ Destined Towards Allah (S.w.T.)
 
 Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ اللّهَ الَّذِيَ إِلَيْهِ تُحْشَرُونَ
-  </p>
-</blockquote>
+> وَاتَّقُواْ اللّهَ الَّذِيَ إِلَيْهِ تُحْشَرُونَ
 
 ***And fear Allah, to Whom ye shall be gathered back. (Sura al-Maidah,
 5:96)***
@@ -284,5 +272,4 @@ do not get involved in absolute ignorance (*Jahl al-Murakkab*) that you
 are amongst the learned. This pride might destroy you.
 
 [^1]: From Usūl al-Kafi Haqiqat al-Imān wal Yaqeen
-
 

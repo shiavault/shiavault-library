@@ -138,4 +138,3 @@ al-durar, chap. 3, p. 41 (short version).
 [^9]: Is\`āf al-rāghibīn (published in the margin of the book Nūr
 al-abṣār by Shablanjī), chap. 2, p. 135.
 
-

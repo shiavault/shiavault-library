@@ -81,4 +81,3 @@ engrossed in the remembrance of Allah.
 10. If he manages only the wuquf at Arafat in the alternative period,
 his Hajj is invalid and he must change to Umrat-ul-Mufradah.
 
-

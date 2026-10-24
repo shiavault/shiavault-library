@@ -450,4 +450,3 @@ ALASDAIR MACINTYRE
 
 Duke University, 1997
 
-

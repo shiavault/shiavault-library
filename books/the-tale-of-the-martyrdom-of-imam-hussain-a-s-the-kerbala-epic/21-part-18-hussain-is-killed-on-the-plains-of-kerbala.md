@@ -141,4 +141,3 @@ administer the mercy shots to him". Shimr initiated the attack; he
 kicked him, sat on his chest, got hold of his blessed beard, dealt 12
 sword blows to his body, and finally beheaded him.
 
-

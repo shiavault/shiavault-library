@@ -25,4 +25,3 @@ In the conditions then prevailing it was only he, who could perform a
 memorable deed whose freshness cannot fade with the passage of time, and
 which cannot be effaced from the pages of the history of Islam.
 
-

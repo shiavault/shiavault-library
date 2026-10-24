@@ -184,4 +184,3 @@ relied upon to achieve all these objectives. So, a vigilant person must
 not overlook the objective and the reform it contains, and surely Allāh
 is the One Who grants success.
 
-

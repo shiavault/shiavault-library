@@ -252,13 +252,9 @@ he gave the hand of his second daughter also?” “Yes,” replied Imam
 (a.s.), “and the Almighty Allah has revealed the following verse in
 connection with his incident:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
-لِأَنْفُسِهِمْ ۚ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا ۚ
-وَلَهُمْ عَذَابٌ مُهِينٌ
-  </p>
-</blockquote>
+> وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
+> لِأَنْفُسِهِمْ ۚ إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا ۚ
+> وَلَهُمْ عَذَابٌ مُهِينٌ
 
 ***“And let not those who disbelieve think that Our granting them
 respite is better for their souls; We grant them respite only that they
@@ -422,13 +418,9 @@ companion.” The Holy Prophet (S) said: “I thank the God, Who keeps away
 all evils from us and Who exposes the lies of the liars.” At that
 juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
-فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ
-مَا فَعَلْتُمْ نَادِمِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
+> فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ
+> مَا فَعَلْتُمْ نَادِمِينَ
 
 ***“O you who believe! if an evil-doer comes to you with a report, look
 carefully into it, lest you harm a people in ignorance, then be sorry
@@ -522,5 +514,4 @@ been impossible.
 [^2]: Surah Aale Imran 3:178
 
 [^3]: Surah Hujurat 49:6
-
 

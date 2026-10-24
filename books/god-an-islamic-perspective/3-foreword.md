@@ -23,4 +23,3 @@ Dhi'l-hijjah, 1398,
 November, 1978.
 Tehran - IRAN.
 
-

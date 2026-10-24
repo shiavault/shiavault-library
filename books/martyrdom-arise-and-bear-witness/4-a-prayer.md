@@ -207,4 +207,3 @@ of each age, give the excitement of life as well as hope and love.
  Our faith, our nation, our history of tomorrow, the people of our age
 all need you and your blood.
 
-

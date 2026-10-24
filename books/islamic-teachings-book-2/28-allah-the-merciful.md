@@ -22,4 +22,3 @@ We Muslims believe that all human beings are Allah's servants and
 everything has been created by Him. We worship only that One and Unique
 Allah.
 
-

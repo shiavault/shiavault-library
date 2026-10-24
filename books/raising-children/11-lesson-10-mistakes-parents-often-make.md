@@ -214,4 +214,3 @@ relationships between parents and children. This in turn produces
 stronger families, a vital commodity in the struggle to create a
 progressive *Ummah*.
 
-

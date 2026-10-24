@@ -4,13 +4,9 @@ Social Effects of Hajj
 Hajj, The Assembly Of Dispersed Powers In Single Forum
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِّنْ في النَّاسِ بالحَجِّ يأْتُوكَ رِجَالاً وَعَلى كُلِّ ضَامِرٍ
-يأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ. لِيَشْهَدُوا مَنافِعَ لَهُمْ
-ويَذْكُرُوا اسْمَ اللهِ في أيـّامٍ مَعْلوماتٍ
-  </p>
-</blockquote>
+> وَأَذِّنْ في النَّاسِ بالحَجِّ يأْتُوكَ رِجَالاً وَعَلى كُلِّ ضَامِرٍ
+> يأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ. لِيَشْهَدُوا مَنافِعَ لَهُمْ
+> ويَذْكُرُوا اسْمَ اللهِ في أيـّامٍ مَعْلوماتٍ
 
 ***“And proclaim among men the pilgrimage; they will come to you on foot
 and on every lean camel, coming from every remote path, that they may
@@ -41,13 +37,9 @@ between east and west, and makes the black and white, Arabs and
 non-Arabs, Turks and Hindus, feel sympathy for one another. In the
 Farewell Hajj on Mount Arafat, the Holy Prophet of Islam (saw) said:
 
-<blockquote dir="rtl">
-  <p>
-أيُّها النّاسُ، إنَّ رَبَّكُم واحِدٌ وإنَّ أباكُم واحِدٌ، كُلُّكُم
-لآدَمَ وآدَمُ مِن تُرابٍ (إِنَّ أَكْرَمَكُمْ عِنْدَ اللهِ أَتْقاكُمْ)
-ولَيْسَ لِعَرَبيٍّ عَلى أَعْجَمِيٍّ فَضْلٌ إلا بالتّقوى
-  </p>
-</blockquote>
+> أيُّها النّاسُ، إنَّ رَبَّكُم واحِدٌ وإنَّ أباكُم واحِدٌ، كُلُّكُم
+> لآدَمَ وآدَمُ مِن تُرابٍ (إِنَّ أَكْرَمَكُمْ عِنْدَ اللهِ أَتْقاكُمْ)
+> ولَيْسَ لِعَرَبيٍّ عَلى أَعْجَمِيٍّ فَضْلٌ إلا بالتّقوى
 
 ***O people, surely your Lord is One, the father of all of you is one,
 you all come from Adam and Adam from the earth. (surely the most
@@ -56,12 +48,8 @@ duty) Arab has no advantage over non-Arab except for piety.”***[^2]
 
 Also in his Farewell Hajj in Mina, the Holy Prophet (saw) said:
 
-<blockquote dir="rtl">
-  <p>
-المؤمنونَ إخوةٌ تتكَافى دِماؤهُمْ وَهُم يَدٌ عَلى مَنْ سِواهُمْ،
-يَسْعى بِذِمّتهِم أدناهم
-  </p>
-</blockquote>
+> المؤمنونَ إخوةٌ تتكَافى دِماؤهُمْ وَهُم يَدٌ عَلى مَنْ سِواهُمْ،
+> يَسْعى بِذِمّتهِم أدناهم
 
 “Believers are brethren. Their blood has equal value. They are a single
 hand and power against others. The promise of each of them is like that
@@ -92,12 +80,8 @@ this Sacred House and how many misled men have become pious and heavenly
 thanks to the blessings of this holy place. The Holy Qur’an supports
 this claim by saying:
 
-<blockquote dir="rtl">
-  <p>
-(إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي ببَكَّةَ)مُبارَكاً
-وهدىً للعالمين.
-  </p>
-</blockquote>
+> (إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي ببَكَّةَ)مُبارَكاً
+> وهدىً للعالمين.
 
 ***“(The Holy House is) blessed and a guidance for the nations.
 (3:96)”***
@@ -128,11 +112,7 @@ How lovingly pilgrims circumambulate the Kaaba
 Speaking about Hajj in the last part of sermon I of Nahjul Balagha, Imam
 ‘Ali (as) describes people as such:
 
-<blockquote dir="rtl">
-  <p>
-يَرِدونهُ وُرودَ الأنعامِ ويألَهونَ إليهِ وُلوهَ الحَمامِ .
-  </p>
-</blockquote>
+> يَرِدونهُ وُرودَ الأنعامِ ويألَهونَ إليهِ وُلوهَ الحَمامِ .
 
 “... The people go to it as beasts or pigeons go towards spring water.”
 
@@ -151,11 +131,7 @@ divine attraction in it. There is the same attraction towards the
 household of the Holy Prophet (saw) being the result of Prophet
 Ibrahim’s supplication and God’s answering him:
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلْ أفْئِدَةً مِنَ النّاسِ تَهوي إلَيْهِم.
-  </p>
-</blockquote>
+> فَاجْعَلْ أفْئِدَةً مِنَ النّاسِ تَهوي إلَيْهِم.
 
 ***“.. Therefore, make the hearts of some people yearn towards them...
 (the Holy Qur’an; 14:37)”***
@@ -165,14 +141,10 @@ Hagar and the infant Ismaeel (Prophet Ishmael) to al-Hijaz desert and
 had to leave them alone there, raising his hands towards the sky,
 supplicated:
 
-<blockquote dir="rtl">
-  <p>
-رَبّنا إني أَسْكَنْتُ مِنْ ذُرّيّتِي بِوادٍ غَيْرِ ذي زَرْعٍ  عِنْدَ
-بَيْتِكَ المُحَرَّمِ رَبّنا لِيُقيموا الصّلاةَ فَاجْعَلْ أفْئِدَةً
-مِنَ النّاسِ تَهوي إلَيْهِمْ وَارْزُقْهُمْ مِنَ الثّمراتِ لَعَلَّهُمْ
-يَشْكُرونَ.
-  </p>
-</blockquote>
+> رَبّنا إني أَسْكَنْتُ مِنْ ذُرّيّتِي بِوادٍ غَيْرِ ذي زَرْعٍ  عِنْدَ
+> بَيْتِكَ المُحَرَّمِ رَبّنا لِيُقيموا الصّلاةَ فَاجْعَلْ أفْئِدَةً
+> مِنَ النّاسِ تَهوي إلَيْهِمْ وَارْزُقْهُمْ مِنَ الثّمراتِ لَعَلَّهُمْ
+> يَشْكُرونَ.
 
 ***“O our Lord! Surely, I have settled a part of my offspring in a
 valley unproductive of fruit near They Sacred House, our Lord! That they
@@ -191,12 +163,8 @@ world? Must their living environment be far from luxury, which makes man
 forget God, so as to be able to keep remembrance of God and the
 Hereafter alive in man’s heart? It is said:
 
-<blockquote dir="rtl">
-  <p>
-الدّنيا والآخِرَةُ  ضُرّتانِ؛ فَبِقَدَرِ ما تُرضِي إحْداهُما تُسخِط 
-الأُخرى
-  </p>
-</blockquote>
+> الدّنيا والآخِرَةُ  ضُرّتانِ؛ فَبِقَدَرِ ما تُرضِي إحْداهُما تُسخِط
+> الأُخرى
 
 “  
  The world and the Hereafter are like rival wives; when you please one,
@@ -204,14 +172,10 @@ you will hurt the other.”[^4]15
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-الدّنيا والآخِرَةُ عَدُوّانِ مُتَعادِيانِ وَسَبيلانِ مُختَلِفانِ، مَن
-أحَبَّ الدّنيا وَوالاهَا أبْغَضَ الآخِرَةَ وعاداهَا. مَثَلُهُما مَثَلُ
-المشْرِقِ والمغْرِبِ  والماشِي بَينهُما لا يزْدادُ مِن أحَدِهِما
-قُرباً إلا ازْدادَ مِن الآخَرِ بُعْداً.
-  </p>
-</blockquote>
+> الدّنيا والآخِرَةُ عَدُوّانِ مُتَعادِيانِ وَسَبيلانِ مُختَلِفانِ، مَن
+> أحَبَّ الدّنيا وَوالاهَا أبْغَضَ الآخِرَةَ وعاداهَا. مَثَلُهُما مَثَلُ
+> المشْرِقِ والمغْرِبِ  والماشِي بَينهُما لا يزْدادُ مِن أحَدِهِما
+> قُرباً إلا ازْدادَ مِن الآخَرِ بُعْداً.
 
 “The world and the Hereafter are two incompatible enemies and two roads
 in different directions. Whoever loves the world will naturally abandon
@@ -247,14 +211,10 @@ Hereafter, are some of the advantages of Hajj.
 The Kaaba, a security for the survival of human society
 -------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-جَعَلَ اللهُ الكَعْبَةَ البيْتَ الحَرامَ قِياماً لِلنَّاسِ وَالشَّهْرَ
-الحَرامَ والهَدْيَ والقَلائِدَ، ذلِكَ لِتَعْلَمُوا أَنَّ اللهَ
-يَعْلَمُ مَا في السَّمَاوَاتِ والأَرْضِ وَأَنَّ اللهَ بكُلِّ شَيْءٍ
-عَليمٌ
-  </p>
-</blockquote>
+> جَعَلَ اللهُ الكَعْبَةَ البيْتَ الحَرامَ قِياماً لِلنَّاسِ وَالشَّهْرَ
+> الحَرامَ والهَدْيَ والقَلائِدَ، ذلِكَ لِتَعْلَمُوا أَنَّ اللهَ
+> يَعْلَمُ مَا في السَّمَاوَاتِ والأَرْضِ وَأَنَّ اللهَ بكُلِّ شَيْءٍ
+> عَليمٌ
 
 ***“Allah has made the Kaaba, the Sacred House, a maintenance for the
 people, and the sacred month and the offsprings and the sacrificial
@@ -291,11 +251,7 @@ things.
 The Kaaba, a sanctuary and a place of security
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ جَعَلْنا البَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْناً
-  </p>
-</blockquote>
+> وَإِذْ جَعَلْنا البَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْناً
 
 ***“(And when) We made the House a pilgrimage for men and a (place of)
 security. (The Holy Qur’an; 2:125)”***
@@ -340,13 +296,9 @@ the abandonment of the Kaaba. Speaking of the events happening before
 the reappearance of Imam Mahdi (may Allah expedite his reappearance),
 Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-ورَأَيتَ بيتَ اللهِ قَد عُطِّلَ ويُؤمَرُ بتَرْكِهِ... فكُنْ على حَذَرٍ
-واطْلبْ إلى اللهِ النّجاةَ واعْلَم أنّ الناسَ في سَخَطِ اللهِ عزّ
-وجلّ...
-  </p>
-</blockquote>
+> ورَأَيتَ بيتَ اللهِ قَد عُطِّلَ ويُؤمَرُ بتَرْكِهِ... فكُنْ على حَذَرٍ
+> واطْلبْ إلى اللهِ النّجاةَ واعْلَم أنّ الناسَ في سَخَطِ اللهِ عزّ
+> وجلّ...
 
 “(When) you see that Allah’s House is closed down and the Hajj rites are
 abandoned, beware you; supplicate to Allah to be safe from His
@@ -355,12 +307,8 @@ punishment, for people are at this time subject to Allah’s wrath.”[^5]16
 Hajj, God’s Right To Man and Man’s Gratefulness To Him
 ------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَللهِ عَلى النّاسِ حِجُّ البَيْتِ مَنِ اسْتَطاعَ إِليهِ سَبيلاً؛
-وَمَنْ كَفَرَ فَإِنَّ اللهَ غَنيٌّ عَنِ العَالَمِينَ
-  </p>
-</blockquote>
+> وَللهِ عَلى النّاسِ حِجُّ البَيْتِ مَنِ اسْتَطاعَ إِليهِ سَبيلاً؛
+> وَمَنْ كَفَرَ فَإِنَّ اللهَ غَنيٌّ عَنِ العَالَمِينَ
 
 ***“… and pilgrimage to the House is incumbent upon men for the sake of
 Allah, (upon) every one who is able to undertake the journey to it; and
@@ -379,23 +327,15 @@ The true benefactor is God and offering thanks is obligatory
 God Who is the true Benefactor is the One Who has favored human being
 infinitely. In this relation, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ تَعُدُّوا نِعْمَةَ اللهِ لا تحُصُوهَا.
-  </p>
-</blockquote>
+> وَإِنْ تَعُدُّوا نِعْمَةَ اللهِ لا تحُصُوهَا.
 
 ***“… and if you count Allah’s favors, you will not be able to number
 them. (14:34)”***
 
 Showing God’s favor to man, the Holy Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-أَلم تَرَوا أَنَّ اللهَ سَخَّرَ لَكُمْ مَا في السَّماوَاتِ وَمَا في
-الأَرْضِ وَأَسْبَغَ عَلَيكُمْ نِعَمَهُ ظَاهِرَةً وبَاطِنَةً.
-  </p>
-</blockquote>
+> أَلم تَرَوا أَنَّ اللهَ سَخَّرَ لَكُمْ مَا في السَّماوَاتِ وَمَا في
+> الأَرْضِ وَأَسْبَغَ عَلَيكُمْ نِعَمَهُ ظَاهِرَةً وبَاطِنَةً.
 
 ***“Do you not see that Allah has made what is in the heavens and what
 is in the earth subservient to you, and made complete to you His favors
@@ -428,11 +368,7 @@ without it unless he has lost his human nature as a result of indulging
 in carnal desires and lusts and has become an animal. In this
 connection, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-اُولَئِكَ كَالأنعَامِ بَلْ هُمْ أَضَلُّ؛ اُولَئِكَ هُمُ الغَافِلُونَ
-  </p>
-</blockquote>
+> اُولَئِكَ كَالأنعَامِ بَلْ هُمْ أَضَلُّ؛ اُولَئِكَ هُمُ الغَافِلُونَ
 
 ***“They are as cattle, nay, they are in worse errors; these are the
 heedless ones. (7:179)”***
@@ -448,16 +384,12 @@ pilgrimage to Mecca, and to do other religious acts that are somehow
 expressions of thanks by which man’s dignity is safeguarded. In this
 relation, Imam Sajjad (as) says:
 
-<blockquote dir="rtl">
-  <p>
-والحمدُ للهِ الذي لَو حَبَسَ عن عَبادِهِ مَعرِفةَ حَمدِهِ على ما
-أبلاهُمْ مِن مِنَنِهِ المُتَتابِعَةِ وأسْبغَ عليهِم مِن نِعَمِهِ
-المُتَظاهِرَةِ لَتَصَرَّفوا في مِنَنِهِ فَلَم يحْمِدوهُ وتَوَسَّعوا في
-رِزْقِهِ فَلَم يَشْكُرُوهُ ولَوْ كَانُوا كَذَلِكَ لخَرَجُوا من حُدودِ
-الإنسَانِيّةِ الى حَدِّ البَهِيمِيَّةِ فَكانوا كَما وَصَفَ في محْكَمِ
-كِتابهِ: إِنْ هُمْ إِلا كَالأنعَامِ بَلْ هُمْ أَضَلُّ سَبيلاً.
-  </p>
-</blockquote>
+> والحمدُ للهِ الذي لَو حَبَسَ عن عَبادِهِ مَعرِفةَ حَمدِهِ على ما
+> أبلاهُمْ مِن مِنَنِهِ المُتَتابِعَةِ وأسْبغَ عليهِم مِن نِعَمِهِ
+> المُتَظاهِرَةِ لَتَصَرَّفوا في مِنَنِهِ فَلَم يحْمِدوهُ وتَوَسَّعوا في
+> رِزْقِهِ فَلَم يَشْكُرُوهُ ولَوْ كَانُوا كَذَلِكَ لخَرَجُوا من حُدودِ
+> الإنسَانِيّةِ الى حَدِّ البَهِيمِيَّةِ فَكانوا كَما وَصَفَ في محْكَمِ
+> كِتابهِ: إِنْ هُمْ إِلا كَالأنعَامِ بَلْ هُمْ أَضَلُّ سَبيلاً.
 
 *Praise belongs to Allah, for had He withheld His servants the knowledge
 to praise Him for the uninterrupted kindnesses with which He has tried
@@ -476,12 +408,8 @@ Lacking in intellect and being subject to its instincts, an animal does
 not ignore its natural forces nor does it deviate from its path, rather
 it acts as its Creator wills. In this relation, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ دَابَّةٍ إِلا هُوَ آخِذٌ بنَاصِيَتِها إِنَّ رَبِّي عَلى
-صِرَاطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> مَا مِنْ دَابَّةٍ إِلا هُوَ آخِذٌ بنَاصِيَتِها إِنَّ رَبِّي عَلى
+> صِرَاطٍ مُسْتَقِيمٍ.
 
 ***“… There is no living creature but He holds it by its forelock;
 surely, my Lord is on the right path. (11:56)”***
@@ -517,14 +445,10 @@ Some of the Wonderful Blessings of Hajj According To Traditions
 The intention of Hajj opens the gates of God’s mercy. Imam Baqir (as)
 was quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الحَاجَّ إذا أخَذَ في جِهازِهِ لم يَخطُ خُطْوَةً في شَيءٍ مِن
-جِهازِهِ إِلا كَتَبَ اللهُ عَزَّ وجَلَّ لهُ عَشْرَ حَسَناتٍ ومحَى
-عَنهُ عَشْرَ سَيّئاتٍ ورفعَ له عَشْرَ دَرَجَاتٍ حتّى يفْرُغَ مِن
-جِهازِهِ مَتى ما فَرَغ...
-  </p>
-</blockquote>
+> إنَّ الحَاجَّ إذا أخَذَ في جِهازِهِ لم يَخطُ خُطْوَةً في شَيءٍ مِن
+> جِهازِهِ إِلا كَتَبَ اللهُ عَزَّ وجَلَّ لهُ عَشْرَ حَسَناتٍ ومحَى
+> عَنهُ عَشْرَ سَيّئاتٍ ورفعَ له عَشْرَ دَرَجَاتٍ حتّى يفْرُغَ مِن
+> جِهازِهِ مَتى ما فَرَغ...
 
 “*When a man intends to go on Hajj, for every step he takes in preparing
 for his journey Allah will* *write ten good deeds for him and will write
@@ -536,13 +460,9 @@ Not All Hajj Pilgrims Are Equal in Terms of Reward
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-الحُجَّاجُ يَصدُرونَ على ثَلاثةِ أصنافٍ؛ صِنفٌ يُعْتَقُ مِن النّارِ
-وَصِنْفٌ يَخْرُجُ من ذُنوبهِ كَهَيئَةِ يومِ وَلدَتهُ أُمُّهُ وصِنْفٌ
-يُحْفَظُ في أَهلِهِ ومَالِهِ، فَذلِكَ أَدْنى مَا يَرجِعُ به الحَاجُّ.
-  </p>
-</blockquote>
+> الحُجَّاجُ يَصدُرونَ على ثَلاثةِ أصنافٍ؛ صِنفٌ يُعْتَقُ مِن النّارِ
+> وَصِنْفٌ يَخْرُجُ من ذُنوبهِ كَهَيئَةِ يومِ وَلدَتهُ أُمُّهُ وصِنْفٌ
+> يُحْفَظُ في أَهلِهِ ومَالِهِ، فَذلِكَ أَدْنى مَا يَرجِعُ به الحَاجُّ.
 
 “*The Hajj pilgrims who return home are three groups; one are rescued
 from the fire (of Hell), another are cleansed from their sins as if they
@@ -579,13 +499,9 @@ Hajj Is the Market of the Hereafter
 
 Imam Baqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-الحَجُّ والعُمرَةُ سوقَانِ من أسواقِ الآخِرَةِ؛ اللازِمُ لهُما مِن
-أضْيافِ اللهِ تعالى. إِنْ أبقَاهُ، أبقاهُ وَلا ذَنبَ لهُ، وإنْ
-أَماتَهُ، أَدخَلَهُ الجَنّةَ.
-  </p>
-</blockquote>
+> الحَجُّ والعُمرَةُ سوقَانِ من أسواقِ الآخِرَةِ؛ اللازِمُ لهُما مِن
+> أضْيافِ اللهِ تعالى. إِنْ أبقَاهُ، أبقاهُ وَلا ذَنبَ لهُ، وإنْ
+> أَماتَهُ، أَدخَلَهُ الجَنّةَ.
 
 “*Hajj and Umrah are two markets of the Hereafter. Those who enter into
 them are Allah’s guests. If Allah preserves his guest’s life, he will
@@ -597,13 +513,9 @@ Hajj Pilgrims Are God’s Guests
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-الحَاجُّ والمُعتمِرُ وِفدُ اللهِ؛ إِن سَأَلوهُ أَعطَاهُم وإِن دَعَوهُ
-أَجابَهُم وإِن شَفَعوا شَفَّعَهُم وإِن سَكَتوا ابتَدَأَهُم
-ويَعوَّضُونَ بالدِّرهَمِ الفَ الفِ دِرهَم.
-  </p>
-</blockquote>
+> الحَاجُّ والمُعتمِرُ وِفدُ اللهِ؛ إِن سَأَلوهُ أَعطَاهُم وإِن دَعَوهُ
+> أَجابَهُم وإِن شَفَعوا شَفَّعَهُم وإِن سَكَتوا ابتَدَأَهُم
+> ويَعوَّضُونَ بالدِّرهَمِ الفَ الفِ دِرهَم.
 
 “*The performers of Hajj and umrah are Allah’s guests. If they ask, they
 will be given, if they pray, they will be answered, if they intercede,
@@ -616,12 +528,8 @@ Looking at the Kaaba Is Blessing, Too!
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مَن نظَرَ الى الكَعبَةِ لم يَزَلْ تُكتَبُ لهُ حَسَنَةٌ وتُمحَى عنهُ
-سَيِّئَةٌ حَتّى يَنصَرفَ بَبَصَرِهِ عنهَا
-  </p>
-</blockquote>
+> مَن نظَرَ الى الكَعبَةِ لم يَزَلْ تُكتَبُ لهُ حَسَنَةٌ وتُمحَى عنهُ
+> سَيِّئَةٌ حَتّى يَنصَرفَ بَبَصَرِهِ عنهَا
 
 “*Whoever looks at the Kaaba, rewards are written for him and his
 wrongdoings are written off until he takes his look away from
@@ -629,12 +537,8 @@ it*.”[^11]22
 
 The Imam (as) also said:
 
-<blockquote dir="rtl">
-  <p>
-مَن نظَرَ الى الكَعبَةِ كُتِبَتْ لهُ حَسَنَةٌ ومحِيَت عنهُ عشرُ
-سيّئات.
-  </p>
-</blockquote>
+> مَن نظَرَ الى الكَعبَةِ كُتِبَتْ لهُ حَسَنَةٌ ومحِيَت عنهُ عشرُ
+> سيّئات.
 
 *“Whoever looks at the Kaaba, a reward is written for him and ten of his
 wrongdoings are written off.”*
@@ -643,12 +547,8 @@ The precinct of the Kaaba is showered with mercy and blessings.
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ للهِ تعَالى حَولَ الكَعبَةِ عِشرينَ ومِائَةَ رَحمَةً؛ منها
-سِتُّونَ للطّائِفِينَ وأَربَعونَ لِلمُصَلّينَ وعِشرونَ للنّاظِرينَ.
-  </p>
-</blockquote>
+> إِنَّ للهِ تعَالى حَولَ الكَعبَةِ عِشرينَ ومِائَةَ رَحمَةً؛ منها
+> سِتُّونَ للطّائِفِينَ وأَربَعونَ لِلمُصَلّينَ وعِشرونَ للنّاظِرينَ.
 
 “Allah sends down one hundred and twenty blessings in the precinct of
 the Kaaba; sixty for those who circumambulate, forty for those who
@@ -656,40 +556,20 @@ worship, and twenty for those who look at it.”[^12]23
 
 What blessed act the circumambulation of God’s house is!
 
-<blockquote dir="rtl">
-  <p>
-قَدِمَ رجُلٌ على أبي الحسَن (الإمام الكاظِم) عليه السلام فقال: قَدِمتَ
-حَاجاً؟
-  </p>
-</blockquote>
+> قَدِمَ رجُلٌ على أبي الحسَن (الإمام الكاظِم) عليه السلام فقال: قَدِمتَ
+> حَاجاً؟
 
-<blockquote dir="rtl">
-  <p>
- قال: نعم.
-  </p>
-</blockquote>
+>  قال: نعم.
 
-<blockquote dir="rtl">
-  <p>
- فقال: تدري ما للحَاجِّ؟
-  </p>
-</blockquote>
+>  فقال: تدري ما للحَاجِّ؟
 
-<blockquote dir="rtl">
-  <p>
- قال: لا.
-  </p>
-</blockquote>
+>  قال: لا.
 
-<blockquote dir="rtl">
-  <p>
- قال: مَن قدِمَ حَاجّاً وطافَ بالبَيتِ وصَلّى رَكْعتَينِ كَتَبَ اللهُ
-لهُ سَبعين ألفَ حسنةً ومحَا عنهُ سَبعين ألفَ سيّئةً ورفعَ لهُ سَبعينَ
-ألفَ دَرَجَةً وشَفَّعَهُ في سَبعينَ ألفَ أهل بيتٍ وقضَى لهُ سَبعين ألف
-حاجةً وكتب له عِتقَ سبعين ألفَ رقبةً قيمةُ كلِّ رقبةٍ عَشَرَةُ آلاف
-دِرهَم.
-  </p>
-</blockquote>
+>  قال: مَن قدِمَ حَاجّاً وطافَ بالبَيتِ وصَلّى رَكْعتَينِ كَتَبَ اللهُ
+> لهُ سَبعين ألفَ حسنةً ومحَا عنهُ سَبعين ألفَ سيّئةً ورفعَ لهُ سَبعينَ
+> ألفَ دَرَجَةً وشَفَّعَهُ في سَبعينَ ألفَ أهل بيتٍ وقضَى لهُ سَبعين ألف
+> حاجةً وكتب له عِتقَ سبعين ألفَ رقبةً قيمةُ كلِّ رقبةٍ عَشَرَةُ آلاف
+> دِرهَم.
 
 A man came to Imam Kazim (as):  
  ‘Are going on Hajj?’ the Imam asked.  
@@ -718,14 +598,10 @@ is more inhuman is that God invites man to His House but man ignores
 such an invitation! Such heedlessness arises from the inner unbelief of
 one who
 
-<blockquote dir="rtl">
-  <p>
-فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ
-آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
-إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ
+> آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ
+> إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ
+> الْعَالَمِينَ
 
 ***“disbelieves, then surely Allah is Self-Sufficient above any need of
 the worlds. (The Holy Qur’an; 3:97)”***
@@ -739,12 +615,8 @@ Hell forever.
  It is related that Imam Kazim (as), as was asked about the forsaker of
 Hajj, said:
 
-<blockquote dir="rtl">
-  <p>
-قَال: قُلتُ فَمَن لم يَحُجَّ منّا فقدْ كَفَرَ؟ قال: لا، ولَكِنْ مَن
-قَالَ ليسَ هَذا هَكَذا فَقدْ كَفَرَ.
-  </p>
-</blockquote>
+> قَال: قُلتُ فَمَن لم يَحُجَّ منّا فقدْ كَفَرَ؟ قال: لا، ولَكِنْ مَن
+> قَالَ ليسَ هَذا هَكَذا فَقدْ كَفَرَ.
 
 “The forsaker of Hajj is not unbeliever, but if a man denies that Hajj
 is obligatory, he is then unbeliever.”[^14]25
@@ -754,12 +626,8 @@ unbelief is related to ideology and not practice.”*
 
 He also says:
 
-<blockquote dir="rtl">
-  <p>
-وإنمَّا يمُوتُ يهودِياً أَو نصرَانِياً لأنَّهُ لوِ اعتَقَدَها لأتَى
-بِها  مَع عَدَمِ المانِعِ والاستِطاعَةِ وتَوَقُّعِ الفَوتِ بالمَوتِ.
-  </p>
-</blockquote>
+> وإنمَّا يمُوتُ يهودِياً أَو نصرَانِياً لأنَّهُ لوِ اعتَقَدَها لأتَى
+> بِها  مَع عَدَمِ المانِعِ والاستِطاعَةِ وتَوَقُّعِ الفَوتِ بالمَوتِ.
 
 “One who forsakes Hajj without having an excuse will die as a Jew or
 Christian because he would have performed Hajj had he believed in its
@@ -771,13 +639,9 @@ Forsakers of Hajj, on the day of judgment, are with Jews or Christians.
 
 Addressing Imam ‘Ali (as), the Holy Prophet (saw) says:
 
-<blockquote dir="rtl">
-  <p>
-يا عليّ ، تارك الحجّ وهو مستطيع كافر ، يقول الله تبارك وتعالى :
-(وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إلَيْهِ
-سَبِيلاً وَمَنْ كَفَرَ فَإِنَّ اللهَ غَنِيٌّ عَنِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> يا عليّ ، تارك الحجّ وهو مستطيع كافر ، يقول الله تبارك وتعالى :
+> (وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إلَيْهِ
+> سَبِيلاً وَمَنْ كَفَرَ فَإِنَّ اللهَ غَنِيٌّ عَنِ الْعَالَمِينَ
 
 “O ‘Ali, one who forsakes Hajj while having the means (to perform it) is
 unbeliever, for Allah Himself has said: ‘And pilgrimage to the House
@@ -785,25 +649,17 @@ unbeliever, for Allah Himself has said: ‘And pilgrimage to the House
 able to undertake the journey to it; and whoever disbelieves then surely
 Allah is Self-Sufficient above any need of the worlds.’
 
-<blockquote dir="rtl">
-  <p>
-يا عليّ ، مَن سوّف الحجّ حتّى يموت ، بعثه الله يوم القيامة يهوديّاً أو
-نصرانيّاً.
-  </p>
-</blockquote>
+> يا عليّ ، مَن سوّف الحجّ حتّى يموت ، بعثه الله يوم القيامة يهوديّاً أو
+> نصرانيّاً.
 
 O ‘Ali, anyone who delays Hajj until he dies, Allah will raise him as
 Jew or Christian on the Day of Judgment.”[^16]27
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَن مَاتَ وَلم يحِجَّ حِجَّةَ الإسلامِ؛ لم يمْنَعْهُ مِن ذَلِك حاجَةٌ
-تُجحِفُ بهِ أَو مَرضٌ لا يُطيقُ فيهِ الحَجَّ أَو سُلطانٌ يمنعُهُ
-فَلْيمُتْ يَهودِيّاً أو نَصرانِياً.
-  </p>
-</blockquote>
+> مَن مَاتَ وَلم يحِجَّ حِجَّةَ الإسلامِ؛ لم يمْنَعْهُ مِن ذَلِك حاجَةٌ
+> تُجحِفُ بهِ أَو مَرضٌ لا يُطيقُ فيهِ الحَجَّ أَو سُلطانٌ يمنعُهُ
+> فَلْيمُتْ يَهودِيّاً أو نَصرانِياً.
 
 “He who dies before he performs the obligatory Hajj while he was not too
 needy, too ill, or too persecuted to perform it will die as non-Muslim
@@ -811,13 +667,9 @@ needy, too ill, or too persecuted to perform it will die as non-Muslim
 
 Ghazali says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَعظِمْ بعِبادَةٍ يَعدِمُ الدينُ لِفَقدِها الكمالَ ويُساوي تاركُها
-اليهودَ والنّصارى في الضلالِ وذلِك هو الجهلُ المبينُ والخِزيُ
-الفَضيحُ.
-  </p>
-</blockquote>
+> فَأَعظِمْ بعِبادَةٍ يَعدِمُ الدينُ لِفَقدِها الكمالَ ويُساوي تاركُها
+> اليهودَ والنّصارى في الضلالِ وذلِك هو الجهلُ المبينُ والخِزيُ
+> الفَضيحُ.
 
 “How excellent is the worship (of Hajj) by the lack of which the
 religion lacks perfection and the neglector of which becomes as same as
@@ -826,15 +678,11 @@ ignorance and the scandalous infamy.”[^18]29
 
 Forsaker of Hajj will be blind on the day of judgment.
 
-<blockquote dir="rtl">
-  <p>
-.. قَال: سَألتُ أبا الحَسنِ ( الإِمامَ الرِّضا) عليه السلام عن قَولِ
-اللهِ تعَالى "وَمَنْ كَانَ في هَذِهِ أَعْمَى فَهُوَ في الآخِرَةِ
-أَعْمَى وَأَضَلُّ سَبِيلاً" فقَالَ: نزَلتْ فِيمَن سَوَّفَ الحَجَّ
-حِجَّةَ الإِسلامِ وعِندَهُ ما يحِجُّ بهِ فقَالَ اَلعَامَ أَحِجُّ،
-اَلعَامَ أَحِجُّ، حتَّى يمُوتَ قَبلَ أنْ يحِجَّ.
-  </p>
-</blockquote>
+> .. قَال: سَألتُ أبا الحَسنِ ( الإِمامَ الرِّضا) عليه السلام عن قَولِ
+> اللهِ تعَالى "وَمَنْ كَانَ في هَذِهِ أَعْمَى فَهُوَ في الآخِرَةِ
+> أَعْمَى وَأَضَلُّ سَبِيلاً" فقَالَ: نزَلتْ فِيمَن سَوَّفَ الحَجَّ
+> حِجَّةَ الإِسلامِ وعِندَهُ ما يحِجُّ بهِ فقَالَ اَلعَامَ أَحِجُّ،
+> اَلعَامَ أَحِجُّ، حتَّى يمُوتَ قَبلَ أنْ يحِجَّ.
 
 …I asked Imam Ridha’ (as) about the Qur’anic Verse,
 
@@ -851,11 +699,7 @@ Hajj consolidates faith.
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-فَرضَ اللهُ ... والحَجَّ تقوِيةً للدِّينِ.
-  </p>
-</blockquote>
+> فَرضَ اللهُ ... والحَجَّ تقوِيةً للدِّينِ.
 
 “Allah has made obligatory upon you… the pilgrimage (Hajj), for it
 consolidates faith.”[^20]31
@@ -883,24 +727,16 @@ spiritually. From this cause, it is admitted that the survival of the
 religion in the Ummah depends on the survival of the Kaaba and revival
 of the Hajj rites. In this relation, Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-لا يَزالُ الدِّينُ قائِماً ما قَامتِ الكَعبَةُ.
-  </p>
-</blockquote>
+> لا يَزالُ الدِّينُ قائِماً ما قَامتِ الكَعبَةُ.
 
 “As long as the Kaaba is upright, the religion will not perish.”[^21]32
 
 He (as) also says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ للهِ حُرُمَاتٍ ثلاثاً لَيسَ مِثْلَهُنَّ شَيٌء؛ كِتابُهُ—وهُو
-نُورُهُ وحِكْمَتُهُ، وبَيتُهُ الّذِي جُعِل للنّاسِ قِبلَةً لا يقبَلُ
-اللهُ مِن أَحَدٍ تَوَجُّهاً الى غَيرِهِ، وعِترَةُ نَبيِّكُم محَمَّدٍ
-صَلّى اللهُ عليهِ وآلهِ.
-  </p>
-</blockquote>
+> إِنَّ للهِ حُرُمَاتٍ ثلاثاً لَيسَ مِثْلَهُنَّ شَيٌء؛ كِتابُهُ—وهُو
+> نُورُهُ وحِكْمَتُهُ، وبَيتُهُ الّذِي جُعِل للنّاسِ قِبلَةً لا يقبَلُ
+> اللهُ مِن أَحَدٍ تَوَجُّهاً الى غَيرِهِ، وعِترَةُ نَبيِّكُم محَمَّدٍ
+> صَلّى اللهُ عليهِ وآلهِ.
 
 “Three things are sacred for Allah; His Book that is full of light and
 wisdom, His House that is the Kiblah towards which people offer their
@@ -913,11 +749,7 @@ The Kaaba, Emblem of Islam
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-جَعَلهُ (البيتَ الحرامَ) سُبحانهُ وتعَالى لِلإسْلامِ عَلَماً.
-  </p>
-</blockquote>
+> جَعَلهُ (البيتَ الحرامَ) سُبحانهُ وتعَالى لِلإسْلامِ عَلَماً.
 
 “Allah the Glorified has made it (the Sacred House) an emblem for
 Islam.”[^23]34
@@ -948,12 +780,8 @@ Hajj Removes Poverty and Social Disobedience
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-وحجُّ البيتِ واعتِمارُهُ فإِنّهُما يَنفَيانِ الفَقرَ ويَرخَصانِ
-الذّنبَ.
-  </p>
-</blockquote>
+> وحجُّ البيتِ واعتِمارُهُ فإِنّهُما يَنفَيانِ الفَقرَ ويَرخَصانِ
+> الذّنبَ.
 
 “Hajj and Umrah remove poverty and cleanse sins.”[^24]35
 
@@ -973,48 +801,32 @@ becomes devoid of its content, its spiritual power will diminish in the
 ummah in view of the propaganda spread by the enemies of Islam. Imam
 Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-لو عَطَّلَ النّاسُ الحَجَّ لَوَجَبَ على الإمَامِ أَنْ يُجبِرَهُم عَلى
-الحَجِّ، إِنْ شاءُوا وإِن أَبَوا، فَإنَّ هذا البَيتَ وُضِعَ لِلحَجِّ.
-  </p>
-</blockquote>
+> لو عَطَّلَ النّاسُ الحَجَّ لَوَجَبَ على الإمَامِ أَنْ يُجبِرَهُم عَلى
+> الحَجِّ، إِنْ شاءُوا وإِن أَبَوا، فَإنَّ هذا البَيتَ وُضِعَ لِلحَجِّ.
 
 “If people ignore Hajj, it is incumbent upon the statesmen to encourage
 people to go on it whether they are willing or unwilling, for the House
 has been made for pilgrimage.”[^25]36
 
-<blockquote dir="rtl">
-  <p>
-لَو أَنّ النّاسَ تَرَكُوا الحَجَّ لَكانَ علَى الوالِي أَنْ يجبِرَهُم
-على ذَلك… فَإِنْ لم يكُن لهم أموالٌ أَنفَقَ عليهِم من بيتِ مَالِ
-الُمسلِمينَ.
-  </p>
-</blockquote>
+> لَو أَنّ النّاسَ تَرَكُوا الحَجَّ لَكانَ علَى الوالِي أَنْ يجبِرَهُم
+> على ذَلك… فَإِنْ لم يكُن لهم أموالٌ أَنفَقَ عليهِم من بيتِ مَالِ
+> الُمسلِمينَ.
 
 “If people neglect Hajj, it becomes obligatory upon the leaders to force
 them to perform it… and if they need money to go on Hajj, the leaders
 will be required to supply them with such money from the public
 treasury.”[^26]37
 
-<blockquote dir="rtl">
-  <p>
-لو تَركَ النّاسُ الحَجَّ لَما نوظِروا العذابَ (أو قال: أُنزِلَ عليهِمُ
-العَذابُ
-  </p>
-</blockquote>
+> لو تَركَ النّاسُ الحَجَّ لَما نوظِروا العذابَ (أو قال: أُنزِلَ عليهِمُ
+> العَذابُ
 
 “If people quit Hajj, they will be given no respite from
 punishment.”[^27]38
 
 Addressing to Imam Hasan and Imam Husayn, Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-اللهَ اللهَ في بَيتِ ربِّكُم؛ لا تُخَلُّوهُ ما بَقِيتُم فَإِنهُ إِنْ
-تُرِكَ لم تُناظَروا.
-  </p>
-</blockquote>
+> اللهَ اللهَ في بَيتِ ربِّكُم؛ لا تُخَلُّوهُ ما بَقِيتُم فَإِنهُ إِنْ
+> تُرِكَ لم تُناظَروا.
 
 “(Fear) Allah (and) keep Allah in mind in the matter of your Lord’s
 House; the Kaaba. Do not forsake it so long as you live, because if it
@@ -1022,12 +834,8 @@ is abandoned, you will not be respited.”[^28]39
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ اللهَ لَيَدفَعُ بمَنْ يحِجُّ مِن شِيعَتِنا عَمَّن لا يحِجُّ
-منهُم، ولَو أَجمَعوا عَلى ترْكِ الحَجِّ لهلَكُوا.
-  </p>
-</blockquote>
+> وَإِنَّ اللهَ لَيَدفَعُ بمَنْ يحِجُّ مِن شِيعَتِنا عَمَّن لا يحِجُّ
+> منهُم، ولَو أَجمَعوا عَلى ترْكِ الحَجِّ لهلَكُوا.
 
 “Thanks to our Shiite pilgrims, Allah removes disaster from the Shiites
 who do not perform it, but if all agree to forsake Hajj, they will
@@ -1041,14 +849,10 @@ being a main pillar of Islam and a factor for reviving the ummah, it
 must not be abandoned or weakened under any conditions. According to
 traditions, no charity can replace it.
 
-<blockquote dir="rtl">
-  <p>
-... قال: قلتُ لأبي عبدِاللهِ عليه السلامُ أنَّ أُناساً مِن هَؤلاءِ
-القُصّاصِ يقُولونَ إِذا حَجَّ رَجُلٌ ثُم تصَدّقَ ووصَلَ كانَ خَيراً
-لهُ، فقَال: كَذِبوا، لو فَعَل هذا النّاسُ لَعُطِّلَ هذا البيتُ. إنّ
-اللهَ عزَّ وجَلَّ جعَلَ هذا البيتَ قِياماً للنّاسِ.
-  </p>
-</blockquote>
+> ... قال: قلتُ لأبي عبدِاللهِ عليه السلامُ أنَّ أُناساً مِن هَؤلاءِ
+> القُصّاصِ يقُولونَ إِذا حَجَّ رَجُلٌ ثُم تصَدّقَ ووصَلَ كانَ خَيراً
+> لهُ، فقَال: كَذِبوا، لو فَعَل هذا النّاسُ لَعُطِّلَ هذا البيتُ. إنّ
+> اللهَ عزَّ وجَلَّ جعَلَ هذا البيتَ قِياماً للنّاسِ.
 
 … I said to Imam Sadiq (as) that some jurisprudents remark that if a man
 performs the Hajj rites once, he would better give charity instead of
@@ -1060,16 +864,12 @@ Allah has made this House maintenance for people.”[^30]41
 Spending A Mountain of Red Gold in the Sake of God Does Not Equal Going On Hajj
 -------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لمّا أفاضَ رسُولُ اللهِ صلّى اللهُ عليهِ وآلِهِ تَلَقّاهُ أَعرابيٌّ
-بالأبطحِ فقال: يا رسولَ اللهِ، إنّي خَرجْتُ أُريدُ الحَجَّ فعَاقَني
-وأَنا رَجُلٌ مَيِّلٌ (يعني كَثيرَ المَالِ) فَمُرْني أَصنَعْ في مَالي
-ما أَبلُغُ بهِ ما يبلُغُ به الحَاجُّ. (قال) فَالتَفَتَ رسُولُ اللهِ
-الى أبي قُبَيسٍ فقال:لو أَنّ أبا قُبَيسٍ لكَ زِنَتُهُ ذَهَبَةٌ حَمراءُ
-أَنفَقتَهُ في سبيلِ اللهِ ما بَلَغتَ ما بَلَغَ الحَاجُّ.
-  </p>
-</blockquote>
+> لمّا أفاضَ رسُولُ اللهِ صلّى اللهُ عليهِ وآلِهِ تَلَقّاهُ أَعرابيٌّ
+> بالأبطحِ فقال: يا رسولَ اللهِ، إنّي خَرجْتُ أُريدُ الحَجَّ فعَاقَني
+> وأَنا رَجُلٌ مَيِّلٌ (يعني كَثيرَ المَالِ) فَمُرْني أَصنَعْ في مَالي
+> ما أَبلُغُ بهِ ما يبلُغُ به الحَاجُّ. (قال) فَالتَفَتَ رسُولُ اللهِ
+> الى أبي قُبَيسٍ فقال:لو أَنّ أبا قُبَيسٍ لكَ زِنَتُهُ ذَهَبَةٌ حَمراءُ
+> أَنفَقتَهُ في سبيلِ اللهِ ما بَلَغتَ ما بَلَغَ الحَاجُّ.
 
 The Holy Prophet has just completed the Hajj rites when a Bedouin came
 to him saying, ‘O Messenger of Allah, I left home for Hajj but because
@@ -1085,12 +885,8 @@ One Dirham Is Better Than Thousands
 
 Abu Bassir quoted Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-دِرهَمٌ في الحَجِّ أَفضَلُ مِن أَلفَيْ أَلفٍ في ما سِوى ذلِكَ من
-سَبيلِ اللهِ.
-  </p>
-</blockquote>
+> دِرهَمٌ في الحَجِّ أَفضَلُ مِن أَلفَيْ أَلفٍ في ما سِوى ذلِكَ من
+> سَبيلِ اللهِ.
 
 “One dirham spent on Hajj is better than two million dirhams to be given
 for Allah’s sake.”[^32]43
@@ -1100,13 +896,9 @@ Neither Forsake Hajj Nor Dissuade Others
 
 Imam Baqir (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِن عَبدٍ يُؤثِرُ عَلى الحَجِّ حاجَةً مِن حَوائِجِ الدّنيا إِلا
-نَظَرَ الى المحَلَّقِينَ قدِ انصَرَفوا قَبلَ أنْ تُقضَى له تِلكَ
-الحاجَةُ.
-  </p>
-</blockquote>
+> مَا مِن عَبدٍ يُؤثِرُ عَلى الحَجِّ حاجَةً مِن حَوائِجِ الدّنيا إِلا
+> نَظَرَ الى المحَلَّقِينَ قدِ انصَرَفوا قَبلَ أنْ تُقضَى له تِلكَ
+> الحاجَةُ.
 
 “One who prefers a worldly affair to going on Hajj will realize that all
 the Hajj pilgrims have returned home with their heads shaven but his
@@ -1114,12 +906,8 @@ needs have not been fulfilled yet.[^33]44
 
 *Imam Sadiq (as) says:*
 
-<blockquote dir="rtl">
-  <p>
-لِيَحذَرْ أَحَدُكُم أَنْ يُعَوِّقَ أَخاهُ عَن الحَجِّ فَتُصيبَهُ
-فِتنَةٌ في دُنياهُ مَعَ ما يُدَّخَرُ لهُ في الآخِرةِ.
-  </p>
-</blockquote>
+> لِيَحذَرْ أَحَدُكُم أَنْ يُعَوِّقَ أَخاهُ عَن الحَجِّ فَتُصيبَهُ
+> فِتنَةٌ في دُنياهُ مَعَ ما يُدَّخَرُ لهُ في الآخِرةِ.
 
 “Beware of delaying the Hajj of your brother, for not only will you be
 punished in the Hereafter but also you will be afflicted with
@@ -1127,24 +915,12 @@ tribulation in this world.”[^34]45
 
 Is’haq ibn Ammar reported:
 
-<blockquote dir="rtl">
-  <p>
-قُلتُ لأبي عَبدِاللهِ عليهِ السلامُ أنَّ رجُلاً استَشارَ في الحَجِّ
-وكَانَ ضَعيفَ الحالِ فَأَشَرتُ عَليهِ أَنْ لا يحِجَّ.
-  </p>
-</blockquote>
+> قُلتُ لأبي عَبدِاللهِ عليهِ السلامُ أنَّ رجُلاً استَشارَ في الحَجِّ
+> وكَانَ ضَعيفَ الحالِ فَأَشَرتُ عَليهِ أَنْ لا يحِجَّ.
 
-<blockquote dir="rtl">
-  <p>
-فقال (الإمام): ما أَخلَقَكَ أنْ تمْرِضَ سَنَةً.
-  </p>
-</blockquote>
+> فقال (الإمام): ما أَخلَقَكَ أنْ تمْرِضَ سَنَةً.
 
-<blockquote dir="rtl">
-  <p>
-قال (الراوي): فَمرِضتُ سَنَةً.
-  </p>
-</blockquote>
+> قال (الراوي): فَمرِضتُ سَنَةً.
 
 I said to Imam Sadiq (as) that a man consulted me on going on Hajj but
 since he was needy, I dissuaded him. The Imam (as) said:  
@@ -1157,14 +933,10 @@ The blessings of Hajj on all people of the world
 
 While elaborating on the philosophy of Hajj, Imam Ridha’ (as) said:
 
-<blockquote dir="rtl">
-  <p>
-ومَا في ذلِكَ لجَمِيعِ الخَلقِ مِن المَنافِعِ... ومَنفَعةِ مَن في
-المَشرِقِ والمَغرِبِ ومَن في البَرِّ والبَحرِ ممَّن يحِجُّ وممِّن لا
-يحِجُّ من تاجِرٍ وجالبٍ وبائعٍ ومُشتَرٍ وكاسِبٍ ومِسكينٍ وقَضاءِ
-حوائِجِ أهلِ الأطرافِ...
-  </p>
-</blockquote>
+> ومَا في ذلِكَ لجَمِيعِ الخَلقِ مِن المَنافِعِ... ومَنفَعةِ مَن في
+> المَشرِقِ والمَغرِبِ ومَن في البَرِّ والبَحرِ ممَّن يحِجُّ وممِّن لا
+> يحِجُّ من تاجِرٍ وجالبٍ وبائعٍ ومُشتَرٍ وكاسِبٍ ومِسكينٍ وقَضاءِ
+> حوائِجِ أهلِ الأطرافِ...
 
 “The benefits of Hajj cover both east and west; those who perform the
 Hajj rites and those who do not whether they are businessmen,
@@ -1211,14 +983,10 @@ I was with the Holy Prophet (saw) in the Farewell Hajj. He took the gate
 of the Kaaba with the hand and while addressing to people, he spoke of
 the future events. On Hajj, the Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-يحِجُّ أغنِياءُ أُمّتي لِلنَّزهَةِ ويحِجُّ أَوسَاطُها لِلتّجارَةِ
-ويحِجُّ فُقَراؤُهُم لِلرّياءِ والسُّمعَةِ، فعِندَها يكُونُ أَقوامٌ
-يَتَعلّمُونَ القُرآنَ لِغيرِ اللهِ ويَتّخِذُونهُ مَزامِيرَ، ويكونُ
-أَقوامٌ يَتفقَّهونَ لِغيرِ اللهِ.
-  </p>
-</blockquote>
+> يحِجُّ أغنِياءُ أُمّتي لِلنَّزهَةِ ويحِجُّ أَوسَاطُها لِلتّجارَةِ
+> ويحِجُّ فُقَراؤُهُم لِلرّياءِ والسُّمعَةِ، فعِندَها يكُونُ أَقوامٌ
+> يَتَعلّمُونَ القُرآنَ لِغيرِ اللهِ ويَتّخِذُونهُ مَزامِيرَ، ويكونُ
+> أَقوامٌ يَتفقَّهونَ لِغيرِ اللهِ.
 
 “The rich will go to Mecca for amusement, the middle-class for business,
 and the poor for showing off and fame. At that time, people will learn
@@ -1322,5 +1090,4 @@ for prayer— the Kaaba at Mecca.
 
 [^37]: See Tafsir al-Mizan; vol. 5 p.434 (as quoted from Tafsir
 al-Qummi)
-
 

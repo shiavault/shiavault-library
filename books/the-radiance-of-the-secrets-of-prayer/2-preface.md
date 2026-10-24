@@ -3,18 +3,10 @@ Preface
 
 In the Name of Allah, the All-beneficent, the All-merciful
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> أَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ
 
-<blockquote dir="rtl">
-  <p>
-وَ صَلَّى اللهُ عَلىٰ سَيِّدِنَا وَ نَبِيِّنَا مُحَمَّدٍ وَ آلِهِ
-الطَّاهِرِيْنَ وَ لَعْنَةُ اللهِ عَلىٰ أَعْدَائِهِمْ أَجْمَعِيْنَ
-  </p>
-</blockquote>
+> وَ صَلَّى اللهُ عَلىٰ سَيِّدِنَا وَ نَبِيِّنَا مُحَمَّدٍ وَ آلِهِ
+> الطَّاهِرِيْنَ وَ لَعْنَةُ اللهِ عَلىٰ أَعْدَائِهِمْ أَجْمَعِيْنَ
 
 **All praise is due to Allah, the Lord of the worlds, and may the
 blessings of Allah be** **upon our Master and Prophet, Muhammad, and his
@@ -119,5 +111,4 @@ http://www.al-islam.org/faq. {Trans.}
 ‘alayhi’s-salam, ‘alayhim’us-salam, or ‘alayha’s-salam {may peace be
 upon him/them/her}, which is used after the names of the prophets,
 angels, Imams from the Prophet’s progeny, and saints (‘a). {Trans.}
-
 

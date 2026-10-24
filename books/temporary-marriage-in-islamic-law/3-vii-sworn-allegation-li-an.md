@@ -168,4 +168,3 @@ no fault in them to return to each other.'
 [^80]. Sharh al-lum'a, VIII, 172 74; Riyad, II, 367.
 [^81]. Sharh al-lum'a, VIII, 172; Riyad, II, 367, 369.
 
-

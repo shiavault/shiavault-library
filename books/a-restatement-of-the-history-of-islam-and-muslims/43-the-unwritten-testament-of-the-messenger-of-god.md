@@ -263,4 +263,3 @@ amount of window-dressing by historians can finesse it away. The same
 scene was also the prelude to sustained confrontation between the
 companions and the members of his (the Prophet's) family.
 
-

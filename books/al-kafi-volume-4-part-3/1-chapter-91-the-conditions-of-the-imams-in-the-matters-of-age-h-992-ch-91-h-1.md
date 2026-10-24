@@ -151,7 +151,6 @@ God with proper understanding.. . ." (12:108) By Allah, only Ali (a.s.)
 followed him at that time and he was only nine years old. I also am nine
 years old.
 
-
 **Chapter 92 : Only an Imam has the Authority to Wash the Body of an
 Imam for Burial H 1000, Ch. 92, h 1**
 
@@ -185,5 +184,4 @@ The Imam (a.s.) said, "Do you know who comes to wash his body for
 burial? One who is better than the one who is absence from his presence
 comes to wash. Those who came to Joseph in the well to help when his
 parents and family were absent from him."
-
 

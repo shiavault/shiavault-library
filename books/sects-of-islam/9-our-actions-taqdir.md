@@ -58,4 +58,3 @@ righteousness, obedience and disobedience, polytheism and belief.” [^3]
 
 [^3]: Al-Ghazali: as quoted in Shia of India, pg. 43
 
-

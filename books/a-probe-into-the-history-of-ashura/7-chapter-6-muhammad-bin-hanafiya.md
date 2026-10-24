@@ -113,4 +113,3 @@ annoyed on Qays having taken off his underwear in such a formal meeting
 and rebuked him. He, however, composed some verses in which he
 apologized for his conduct.
 
-

@@ -64,12 +64,8 @@ knowing this fact why did he do such a thing? During the period of
 Caliphate, I was similar to a person having a thorn in his eyes or a
 bone stuck in his throat.
 
-<blockquote dir="rtl">
-  <p>
-و اللّه لقد تقمصها ابن أبي قحافة و انه ليعلم أن محلي منها محل القطب من
-الرحى
-  </p>
-</blockquote>
+> و اللّه لقد تقمصها ابن أبي قحافة و انه ليعلم أن محلي منها محل القطب من
+> الرحى
 
 *“By Allah, Ibn Abi Quhafah (Abu Bakr) dressed himself with it (the
 Caliphate) while he certainly knew that my position in relation to it
@@ -82,11 +78,7 @@ one is doubtful of his own ability in this affair and asks the people to
 accept his resignation, then on what basis does he appoint the next
 Caliph?
 
-<blockquote dir="rtl">
-  <p>
-»فواعجبا بيناهو يستقيلها في حياته اذعقدها لاخر بعد وفاته«
-  </p>
-</blockquote>
+> »فواعجبا بيناهو يستقيلها في حياته اذعقدها لاخر بعد وفاته«
 
 *“It is strange that during his lifetime he wished to be released from
 it (the Caliphate) but he confirmed it for the other for after his
@@ -103,22 +95,14 @@ two versions exist about the sentences once uttered by Abu Bakr on the
 pulpit during the period of his Caliphate. Some narrate that Abu Bakr
 said:
 
-<blockquote dir="rtl">
-  <p>
-وليتكم و لست بخيركم
-  </p>
-</blockquote>
+> وليتكم و لست بخيركم
 
 i.e. the responsibility of Caliphate has been put on me while I am not
 the best among you.
 
 However most narrate that he said:
 
-<blockquote dir="rtl">
-  <p>
-اقيلوني فلست بخيركم
-  </p>
-</blockquote>
+> اقيلوني فلست بخيركم
 
 “You excuse me for I am not the best among you.”
 
@@ -146,11 +130,7 @@ he replied: “Due to fear of ‘Umar.”
  The whip of ‘Umar **(درّة عمر)** had become a proverb for his harshness
 such that afterwards it was said:
 
-<blockquote dir="rtl">
-  <p>
-»درة عمر اهيب من سيف حجاج«
-  </p>
-</blockquote>
+> »درة عمر اهيب من سيف حجاج«
 
 The whip of Omar is more fearful than the sword of Hajjaj.
 
@@ -171,20 +151,12 @@ his mistakes, he would confess to them.
 Many instances have been narrated in this regard. For example ‘Umar has
 himself said:
 
-<blockquote dir="rtl">
-  <p>
-كلكم افقه من عمر حتي ربات الحجال
-  </p>
-</blockquote>
+> كلكم افقه من عمر حتي ربات الحجال
 
 “All of you, even women, are more learned than ‘Umar.”  
  Similarly the sentence:
 
-<blockquote dir="rtl">
-  <p>
-لو لا علي لهلك عمر
-  </p>
-</blockquote>
+> لو لا علي لهلك عمر
 
 “Were it not for ‘Ali, ‘Umar would have perished.” It is said that this
 sentence was heard from him over 70 times. It was in connection to these
@@ -197,12 +169,8 @@ and secondly his haste and repeated mistakes and consequently his
 apologies in wrong decision making.  
  About the first matter ‘Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-فصيرها في حوزة خشناء يغلظ كلمها و يخشن مسها.....فصاحبها كراكب الصعبة
-ان اسنق لها خرم و ان اسلس لها تقحم
-  </p>
-</blockquote>
+> فصيرها في حوزة خشناء يغلظ كلمها و يخشن مسها.....فصاحبها كراكب الصعبة
+> ان اسنق لها خرم و ان اسلس لها تقحم
 
 “*He (Abu Bakr) put the Caliphate in a rough enclosure where the
 utterance was crude and the touch was harsh.... The one in control of*
@@ -211,11 +179,7 @@ nostril would be slit but if he let it loose he would be thrown.”*
  About his haste, numerous mistakes and consequently his apologies, ‘Ali
 (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-»ويكثر العثار فيها و الاعتذار منها «
-  </p>
-</blockquote>
+> »ويكثر العثار فيها و الاعتذار منها «
 
 *“His mistakes were plenty and also the excuses there-from.”*
 
@@ -333,16 +297,12 @@ written in reply to the letter of Mu’awiya. In his letter, Mu’awiya
 accuses Imam (A.S.) of having participated in the assassination of
 ‘Uthman and Imam (A.S.) replies to him as such:
 
-<blockquote dir="rtl">
-  <p>
-ثم ذكرت مل كان من امري وامر عثمان فلك ان تجاب عن هذه لرحمك منه، فاينا
-كان اعدي له و » اهدي الي مقاتله امن بذل له نصرته فاستقعده و استكفه؟ ام
-من استنصره فتراخي عنه وبث المنون اليه حتي اتي قدره؟....و ما كنت لاعتذر
-من اني كنت انقم عليه احداثا فان كان الذنب اليه ارشادي و هدايتي له فرب
-ملوم لا ذنب له و قد يستفيد الظنة المتنصح و ما اردت "الا الاصلاح ما
-استطعت و ما توفيقي الا بالله عليه توكلت"
-  </p>
-</blockquote>
+> ثم ذكرت مل كان من امري وامر عثمان فلك ان تجاب عن هذه لرحمك منه، فاينا
+> كان اعدي له و » اهدي الي مقاتله امن بذل له نصرته فاستقعده و استكفه؟ ام
+> من استنصره فتراخي عنه وبث المنون اليه حتي اتي قدره؟....و ما كنت لاعتذر
+> من اني كنت انقم عليه احداثا فان كان الذنب اليه ارشادي و هدايتي له فرب
+> ملوم لا ذنب له و قد يستفيد الظنة المتنصح و ما اردت "الا الاصلاح ما
+> استطعت و ما توفيقي الا بالله عليه توكلت"
 
 *“Then you have recalled my position vis-a-vis ‘Uthman, and in this
 matter an answer is due to you because of your kinship with him. So (now
@@ -360,12 +320,8 @@ with Allah: in Him I have put my trust..”(**11:88).*[^1]
 
 In another letter addressed to Mu’awiya he writes:
 
-<blockquote dir="rtl">
-  <p>
-فاما اكثارك الحجاج في عثمان و قتلته فانك انما نصرت عثمان حيث كان النصر
-لك و خذلته حيث كان النصرله
-  </p>
-</blockquote>
+> فاما اكثارك الحجاج في عثمان و قتلته فانك انما نصرت عثمان حيث كان النصر
+> لك و خذلته حيث كان النصرله
 
 *“As regards your frequent arguments in the matter of ‘Uthman and his
 murder, you only helped ‘Uthman when it was really to your own benefit
@@ -405,11 +361,7 @@ of blood to be shed or that (at least) ‘Uthman himself repents from his
 past actions or willingly entrusts the affair to his citizens. ‘Ali
 (A.S.) judged the two sides as such:
 
-<blockquote dir="rtl">
-  <p>
-» استأثر فاساء الاثرة و جزعتم فاسَاتم الجزع«
-  </p>
-</blockquote>
+> » استأثر فاساء الاثرة و جزعتم فاسَاتم الجزع«
 
 *“‘Uthman appropriated everything for himself and did it in an evil
 manner. You (revolutionaries) were impatient and agitated against it and
@@ -421,14 +373,10 @@ possibility of ‘Uthman getting killed in the seat of Caliphate and the
 door of sedition thus being opened before the Muslims. He addressed
 ‘Uthman as such:
 
-<blockquote dir="rtl">
-  <p>
-و اني انشدك الله الا تكون امام هذه الامة المقتول، فانه كان يقال: يقتل
-في هذه الامة امام يفتح عليها القتل و القتال الي يوم القيامة، و يلبس
-امورها عليها،و يبث الفتن فيها، فلا يبصرون الحق من الباطل، يموجون فيها
-موجًا؛ و يمرجون فيها مرجًا
-  </p>
-</blockquote>
+> و اني انشدك الله الا تكون امام هذه الامة المقتول، فانه كان يقال: يقتل
+> في هذه الامة امام يفتح عليها القتل و القتال الي يوم القيامة، و يلبس
+> امورها عليها،و يبث الفتن فيها، فلا يبصرون الحق من الباطل، يموجون فيها
+> موجًا؛ و يمرجون فيها مرجًا
 
 *“I adjure you by Allah that you should not be that Imam of this Ummah
 who will be killed, because it has been said: An Imam of this Ummah will
@@ -444,11 +392,7 @@ either in his presence or in his absence. Similarly after his death too,
 Imam (A.S.) has perpetually reminded the people about his deviations. He
 did not follow the principle of:
 
-<blockquote dir="rtl">
-  <p>
-اذكروا موتاكم بالخير
-  </p>
-</blockquote>
+> اذكروا موتاكم بالخير
 
 “Remember your dead with goodness”. (It is said that this is the saying
 of Mu’awiya and was uttered for the benefit of corrupt governments and
@@ -464,11 +408,7 @@ government as a corrupt one.
 
 (2) In Sermon No.30 there is a sentence which was already narrated:
 
-<blockquote dir="rtl">
-  <p>
-اِسْتَأْثَرَ فَاَسَاءَ الاَْثَرَةَ
-  </p>
-</blockquote>
+> اِسْتَأْثَرَ فَاَسَاءَ الاَْثَرَةَ
 
 *“He appropriated everything for himself and did it in an evil manner.”*
 
@@ -484,7 +424,6 @@ openly criticized him in this regard and said:
 فَلاتَكُونَنَّ لِمَرْوانَ سَيِّقَةً يَسُوقُكَ حَيْثُ شاءَ، بَعْدَ جَلالِ
 السِّنِّ وَ تَقَضِّى الْعُمُرِ
 
-  
 .
 
 *“Do not be like the driven beast for Marwan so that he may drive you
@@ -517,13 +456,9 @@ Ibn Abbas had brought ‘Uthman’s message requesting ‘Ali (A.S.) to once
 again leave Medina and proceed towards his farm. ‘Ali (A.S.) was upset
 by this insulting behavior of ‘Uthman and said:
 
-<blockquote dir="rtl">
-  <p>
-يا ابن عباس مايريد عثمان الا ان يجعلني جملا ناضحا بالغرب اقبل و ادبر،
-بعث الي ان اخرج ثم بعث الي ان اقدم ثم هو الان يبعث الي ان اخرج، و الله
-لقد دفعت حتي خشيت ان اكون َاثما
-  </p>
-</blockquote>
+> يا ابن عباس مايريد عثمان الا ان يجعلني جملا ناضحا بالغرب اقبل و ادبر،
+> بعث الي ان اخرج ثم بعث الي ان اقدم ثم هو الان يبعث الي ان اخرج، و الله
+> لقد دفعت حتي خشيت ان اكون َاثما
 
 *“O Ibn Abbas, ‘Uthman only wants to treat me like the water-drawing
 camel so that I go forward and backward with the bucket. Once he sent me
@@ -534,14 +469,10 @@ him till I feared lest I become a sinner.”*[^6]
 (5) More severe than all these is what has been mentioned in the Sermon
 of Shiqshiqiya:
 
-<blockquote dir="rtl">
-  <p>
-اِلى اَنْ قامَ ثالِثُ الْقَوْمِ نافِجاً حِضْنَيْهِ بَيْنَ نَثيلِهِ وَ
-مُعْتَلَفِهِ، وَ قامَ مَعَهُ بَنُو اَبيهِ يَخْضِمُونَ مالَ اللّهِ
-خِضْمَ الاِْبِلِ نِبْتَةَ الرَّبيع  ِ، اِلى اَنِ انْتَكَثَ فَتْلُهُ،
-وَ اَجْهَزَ عَلَيْهِ عَمَلُهُ، وَ كَبَتْ بِهِ بِطْنَتُهُ.
-  </p>
-</blockquote>
+> اِلى اَنْ قامَ ثالِثُ الْقَوْمِ نافِجاً حِضْنَيْهِ بَيْنَ نَثيلِهِ وَ
+> مُعْتَلَفِهِ، وَ قامَ مَعَهُ بَنُو اَبيهِ يَخْضِمُونَ مالَ اللّهِ
+> خِضْمَ الاِْبِلِ نِبْتَةَ الرَّبيع  ِ، اِلى اَنِ انْتَكَثَ فَتْلُهُ،
+> وَ اَجْهَزَ عَلَيْهِ عَمَلُهُ، وَ كَبَتْ بِهِ بِطْنَتُهُ.
 
 *“...Till the third man of these people arose lifting his chest from out
 of his excrement and his trough. With him his cousins also rose up,
@@ -554,17 +485,9 @@ even more severe than the famous Hatee’ah poem which is said to be the
 most satirical poem of the Arabs.” The famous Hatee’ah poem is as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-دع المكارم لا ترحل لبغيتها
-  </p>
-</blockquote>
+> دع المكارم لا ترحل لبغيتها
 
-<blockquote dir="rtl">
-  <p>
-و اقعد فانك انت الطاعم الكاسي
-  </p>
-</blockquote>
+> و اقعد فانك انت الطاعم الكاسي
 
 [^1]: Nahj al-Balaghah, Letter no. 28.
 
@@ -577,5 +500,4 @@ follows:
 [^5]: Nahj al-Balaghah, Sermon 162.
 
 [^6]: Nahj al-Balaghah, Sermon 235.
-
 

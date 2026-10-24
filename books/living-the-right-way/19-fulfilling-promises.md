@@ -41,4 +41,3 @@ does he make to him a promise which he breaks.”*
 
 [^2]: The Qur’an 61:2-3.
 
-

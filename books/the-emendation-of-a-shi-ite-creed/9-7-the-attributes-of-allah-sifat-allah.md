@@ -44,4 +44,3 @@ of Essence and Action; and the distinction between them.
 
 [^2]: T, fathabatati 'l-‘ibrah: N, fathabatati 'l-ghayriyyah.
 
-

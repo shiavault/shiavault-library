@@ -238,4 +238,3 @@ Thus it is possible for man to live in the depth of the sea till the Day
 of Judgement. Why shouldn't it be so when Allah has Power over all
 things.
 
-

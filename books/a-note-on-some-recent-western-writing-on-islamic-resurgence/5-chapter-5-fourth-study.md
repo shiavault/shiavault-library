@@ -16,7 +16,6 @@ to both Arabism and Islam, his personal interest would be to show that
 the real problem is not between Christendom/Europe and Judaism, but
 between Islam and Judaism.
 
-
 Nettler does not draw any analytical distinction between Judaism,
 Zionism, and Israel. [^26] He considers Zionism to be the product of
 Judaism and Israel the culmination of both. Understood in this light, if
@@ -135,5 +134,4 @@ by State University of New York Press.
 [^35]. For an elaboration on this theme see John L. Esposito, The
 Islamic Threat: Myth or Reality? (Oxford: Oxford University Press,
 1992).
-
 

@@ -234,4 +234,3 @@ life and its ups and downs. There-fore, the couple should be ready and
 willing to face the implications of life wisely and sensibly,
 other-wise, they wouldn’t have a warm, tranquil and happy life.
 
-

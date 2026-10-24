@@ -40,7 +40,6 @@ and the army of Satan will all be thrown headlong into hell. (26:95)'
 They are the people who speak about justice a great deal but in their
 own practice they would disregard it altogether.'"
 
-
 **Chapter 16 : Chapter on Miscellaneous Issues H 124, Ch. 16, h 1**
 
 Ali ibn Ibrahim has narrated from his father from ibn abu 'Umayr from
@@ -186,7 +185,6 @@ mentioned from abu 'Abdallah (a. s.) who has said the following.
 Judgment Allah will raise him as a scholar and Faqih, one with proper
 understanding of religion."
 
-
 H 131, Ch. 16, h 8
 
 A number of our people has narrated from Ahmad ibn Muhammad ibn Khalid
@@ -277,5 +275,4 @@ to the people of hell." The Imam said, "The true believer of the people
 of Pharaoh is then destroyed. Knowledge from the time of Noah became
 veiled (s.a). Let Hassan go left and right. I swear by Allah he will not
 find knowledge in no other place but here with us."
-
 

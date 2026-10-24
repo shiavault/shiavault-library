@@ -285,4 +285,3 @@ cit., vo1.3, p.109, no.10624.
 
 [^11]: al-Kulayni, al-Kafi, "Babu 't-Taqlid", vol.l, p.53.
 
-

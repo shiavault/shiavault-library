@@ -218,4 +218,3 @@ Beloved’s Face.
 
 *Wa’Llahu a‘lam-And God knows best.*
 
-

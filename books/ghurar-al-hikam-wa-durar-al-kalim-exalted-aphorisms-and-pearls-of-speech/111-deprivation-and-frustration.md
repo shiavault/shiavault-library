@@ -11,11 +11,7 @@ Deprivation And Frustration
 him, how can he deprive the one who is below him [of his own favour]?
 
 > 2ـ عَجِبْتُ لِمَنْ يَرْجُو فَضْلَ مَنْ فَوْقَهُ، كَيْفَ يَحْرُمُ مَنْ
-<blockquote dir="rtl">
-  <p>
-دُونَهُ.
-  </p>
-</blockquote>
+> دُونَهُ.
 
 3. The anguish of deprivation will not be calmed until acquisition is
 realized.
@@ -29,5 +25,4 @@ realized.
 5. Do not frustrate the needy even if he insists [for more].
 
 > 5ـ لاتُخَيِّبِ المُحْتاجَ وَإنْ ألْحَفَ.
-
 

@@ -8,12 +8,8 @@ There are some verses on this topic:
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا
-تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا
+> تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ.
 
 ***O you who believe! Enter into submission one and all and do not
 follow the footsteps of Shaitan, surely he is your open enemy. (Surah
@@ -26,13 +22,9 @@ Shaitan’ refers to the Wilayat of the unjust Caliphs.[^1]
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-ضَرَبَ اللَّهُ مَثَلًا رَجُلًا فِيهِ شُرَكَاءُ مُتَشَاكِسُونَ
-وَرَجُلًا سَلَمًا لِرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا الْحَمْدُ
-لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ.
-  </p>
-</blockquote>
+> ضَرَبَ اللَّهُ مَثَلًا رَجُلًا فِيهِ شُرَكَاءُ مُتَشَاكِسُونَ
+> وَرَجُلًا سَلَمًا لِرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا الْحَمْدُ
+> لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ.
 
 ***Allah sets forth an example: There is a slave in whom are (several)
 partners differing with one another, and there is another slave wholly
@@ -72,12 +64,8 @@ says that, ‘Muslim’ is one of my names in the Quran.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ
-إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ.
-  </p>
-</blockquote>
+> وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ
+> إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ.
 
 ***And if they incline to peace, then incline to it and trust in Allah,
 surely He is the Hearing, the Knowing. (Surah Anfal 8:61)***
@@ -105,5 +93,4 @@ pronoun is pointing towards the hypocrites, it means that even if
 apparently they accept the Imamate of Ali Ibne Abi Talib (a.s.) you
 accept their apparent condition, although you know that they are
 hypocrites and they are pretending.
-
 

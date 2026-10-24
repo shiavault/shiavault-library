@@ -254,17 +254,17 @@ mentioned many traditions from the bitter enemy of Ahlul Bayt (s), the
 Kharijite Imran bin Hattan, who had praised Abdurrahman bin Muljim for
 killing Imam Ali (s) by saying:
 
-*<span style="font-size: 16pt">What a strike by a pious man it
-was!</span>*
+*What a strike by a pious man it
+was!*
 
-*<span style="font-size: 16pt">He just wanted to attain the contentment
-of the Lord of the Throne.</span>*
+*He just wanted to attain the contentment
+of the Lord of the Throne.*
 
-*<span style="font-size: 16pt">I often mention him and I think that he
-is</span>*
+*I often mention him and I think that he
+is*
 
-*<span style="font-size: 16pt">the best of people near Allah for his
-good deeds.</span>*
+*the best of people near Allah for his
+good deeds.*
 
 I swear by the Lord of the Kaaba and the Sender of the prophets that I
 have stopped here surprisedly and frightenedly for I have not thought

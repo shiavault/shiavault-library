@@ -1,13 +1,9 @@
 Exchange of Greetings
 =====================
 
-<blockquote dir="rtl">
-  <p>
-دَخَلَ عَلَيَّ أبي رَسُولُ اللهِ ( صلى الله عليه وآله ) فِي بَعضِ
-الأيَّامِ فَقَالَ : أَلسَّلامُ عَلَيكِ يا فاطِمَةُ ، فَقُلتُ : وَ
-عَلَيكَ السَّلامُ ،
-  </p>
-</blockquote>
+> دَخَلَ عَلَيَّ أبي رَسُولُ اللهِ ( صلى الله عليه وآله ) فِي بَعضِ
+> الأيَّامِ فَقَالَ : أَلسَّلامُ عَلَيكِ يا فاطِمَةُ ، فَقُلتُ : وَ
+> عَلَيكَ السَّلامُ ،
 
 **One day, my father the Messenger of Allah, peace be upon him and his
 Household, visited me, "Peace be upon you, O Fatimah!" he said. "Peace
@@ -63,12 +59,8 @@ Prophet (SA) to Fatima (AS) and vice versa is in fact an act of worship
 that is blessed by Allah (SWT) as He (SWT) instructed the believers in
 Surat Al Ahzaab, Verse 56:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
-الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تسليما.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تسليما.
 
 ***Surely*** ***Allah and His angels bless the Prophet; O you who
 believe! call for (Divine) blessings on him and salute him with a
@@ -101,5 +93,4 @@ mentioned in verse 33:56, they are *also* sending their blessings and
 salutations to his daughter Fatima! That is not surprising as the angels
 are known to accompany Lady Fatima in numerous occasions and descend
 upon her home regularly.
-
 

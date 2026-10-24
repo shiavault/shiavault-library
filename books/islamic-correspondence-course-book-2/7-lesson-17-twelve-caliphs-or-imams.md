@@ -130,4 +130,3 @@ Allah); al-Hujjah (the Proof of Allah over His creatures); Sahibu
 'z-Zamân (the Lord of Our Time), and Sahibu 'IAmr (the one vested with
 Divine authority).
 
-

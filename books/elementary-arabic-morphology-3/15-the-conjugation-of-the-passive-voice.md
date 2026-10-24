@@ -58,4 +58,3 @@ passive participle nouns, epithets, comparatives/superlatives, the
 exaggerated form, adverbial nouns of place, adverbial nouns of time, and
 instrumental nouns.
 
-

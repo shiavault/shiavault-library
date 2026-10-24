@@ -410,4 +410,3 @@ the ulema and jurisprudents of Islam, then, who are the rude nomads?!
 
 [^5]: A place where one of the rituals of the hajj is performed.
 
-

@@ -47,13 +47,9 @@ which is best"?
 The Holy Quran does not consider fanatics, who have no ears for other
 people's opinions, amongst the pious servants of God, as He says:
 
-<blockquote dir="rtl">
-  <p>
-{...فَبَشِّرْ عِبَادِ\* الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ
-فَيَتَّبِعُونَ أَحْسَنَهُ أُوْلَئِكَ الَّذِينَ هَدَاهُمُ اللَّهُ
-وَأُوْلَئِكَ هُمْ أُوْلُوا الْأَلْبَابِ}
-  </p>
-</blockquote>
+> {...فَبَشِّرْ عِبَادِ\* الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ
+> فَيَتَّبِعُونَ أَحْسَنَهُ أُوْلَئِكَ الَّذِينَ هَدَاهُمُ اللَّهُ
+> وَأُوْلَئِكَ هُمْ أُوْلُوا الْأَلْبَابِ}
 
 ***"So give good news to my servants - who listen to the word [of Allah]
 and follow the best [sense] of it. They are the ones whom Allah has
@@ -63,13 +59,9 @@ The Holy Quran severely condemns those who put their fingers in their
 ears during the summons of the previous prophets and reveals Noah's (as)
 complaint to the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-{وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا
-أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا
-وَاسْتَكْبَرُوا اسْتِكْبَارًا}
-  </p>
-</blockquote>
+> {وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا
+> أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا
+> وَاسْتَكْبَرُوا اسْتِكْبَارًا}
 
 ***"Indeed whenever I have summoned them, so that You might forgive
 them, they have put their fingers into their ears and drawn their cloaks
@@ -123,5 +115,4 @@ for the Islamic world.
 [^7]: – Surah Nooh 71:7.
 
 [^8]: – أهل السنة.
-
 

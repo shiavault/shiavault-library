@@ -54,4 +54,3 @@ The author says: The name of the Qaim is mentioned in this tradition but
 in the coming chapters we will mention traditions that prohibit
 pronouncing the name of the Qaim, Insha Allah.
 
-

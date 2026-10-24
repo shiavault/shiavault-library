@@ -119,4 +119,3 @@ the link between the concept and the “injustice” is the general mark of
 the doctrine which differentiates it from the scientific researches
 contained in the science of economics.
 
-

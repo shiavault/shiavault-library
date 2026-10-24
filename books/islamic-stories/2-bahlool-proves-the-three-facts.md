@@ -62,4 +62,3 @@ accordingly, then it is only fair and just that Allan should not
 manipulate or compel us to do things but leave us alone to act the way
 we see it fit, and be answerable for those actions ourselves.
 
-

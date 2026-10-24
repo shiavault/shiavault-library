@@ -14,4 +14,3 @@ and started eating the sweets and fruits.
 and went to eat the sweets and fruits? Didn’t you notice how the other
 children sat quietly with their mothers?
 
-

@@ -134,4 +134,3 @@ dangers to which he was exposed he called back his nephew and said to
 him: "By Allah! I will not give up my support to you and you may very
 well pursue your object to its end". [^4]
 
-

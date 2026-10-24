@@ -384,4 +384,3 @@ also proves it legally, he can take back from her the things which he
 supplied her during that period, and which she has not used, but he
 cannot demand from her the things which she has already expended.
 
-

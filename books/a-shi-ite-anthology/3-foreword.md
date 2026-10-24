@@ -52,4 +52,3 @@ It in one's beliefs and actions."
 
 Allamah Sayyid Muhammad Husayn Tabataba'i
 
-

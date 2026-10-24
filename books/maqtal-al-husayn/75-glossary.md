@@ -441,4 +441,3 @@ household at the end of the fast of the month of Ramadan).
 with that of his mother; i.e. saying that his wife’s back looks similar
 to his mother’s back (*zahr*)
 
-

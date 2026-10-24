@@ -20,4 +20,3 @@ essential-for a Muslim. These are:
  9. *Tawalla* (To love and follow 14 Ma’sumeen)  
  10. *Tabarra* (To remain aloof from the enemies of 14 Ma’sumeen).
 
-

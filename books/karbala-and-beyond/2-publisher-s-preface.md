@@ -171,4 +171,3 @@ will benefit from this book. May the Almighty assist all of us and keep
 our feet firm on His Right Path, *Assirat al-Mustaqeem*, *Allahomma
 Aameen*.
 
-

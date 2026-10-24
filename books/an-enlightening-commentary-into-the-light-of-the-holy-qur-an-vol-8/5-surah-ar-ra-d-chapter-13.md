@@ -1,11 +1,7 @@
 Surah Ar-Ra‘d, Chapter 13
 =========================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
@@ -54,5 +50,4 @@ disobedient nations in the past.
 Thus, Surah Ar-Ra‘d begins with some verses concerning Faith and
 convictions, and ends with introducing the deeds and activities which
 are helpful in the formation of human character.
-
 

@@ -125,4 +125,3 @@ Which of them is right?
 4. Can the worldly effects of good and evil deeds replace their reward
 and punishment in the Hereafter or not?
 
-

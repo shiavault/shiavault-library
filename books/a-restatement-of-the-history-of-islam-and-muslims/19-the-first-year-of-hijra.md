@@ -512,4 +512,3 @@ of God, and the friend and patron of the Ansar, died, they ceased to be
 masters in their own home. His death was the signal for the abrupt
 reversal in their fortunes.
 
-

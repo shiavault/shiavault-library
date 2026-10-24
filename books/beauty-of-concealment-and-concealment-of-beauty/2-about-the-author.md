@@ -96,4 +96,3 @@ Muslims, including Mr. Musavi himself, who is most willing to see all
 the ladies, including myself, undertaking various social activities in
 the society.
 
-

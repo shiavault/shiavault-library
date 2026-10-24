@@ -6,11 +6,7 @@ to know whether he is a believer or not
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ.
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ.
 
 ***Surely in this are signs for those who examine. (Surah Hijr 15:75)***
 
@@ -28,11 +24,7 @@ It is narrated from the Prophet that he said: There are some servants of
 Allah who know people through their knowledge and insight then the
 Hazrat recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهَا لَبِسَبِيلٍ مُقِيمٍ.
-  </p>
-</blockquote>
+> وَإِنَّهَا لَبِسَبِيلٍ مُقِيمٍ.
 
 ***And surely it is on a road that still abides. (Surah Hijr 15:76)***
 
@@ -57,11 +49,7 @@ of Allah. And the Almighty Allah has gathered all the sagacity in us
 that is distributed to all the believers in small measure and has said
 in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ.
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ.
 
 ***Surely in this are signs for those who examine. (Surah Hijr 15:75)***
 
@@ -120,13 +108,9 @@ colour and type, if he listens to his voice from behind the wall, then
 also he recognizes him and comes to know who and what it is. He knows
 his qualities because Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ
-أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ
-لِلْعَالِمِينَ.
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ
+> أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ
+> لِلْعَالِمِينَ.
 
 ***And one of His signs is the creation of the heavens and the earth and
 the diversity of your tongues and colors; most surely there are signs in
@@ -192,5 +176,4 @@ woman her all conditions were revealed to me.[^1]
 are all explained in Biharul Anwar. According to most explanations
 ‘this’ denotes Quran. Sabeel points towards the Imam and in some
 instance it is the way towards Paradise.
-
 

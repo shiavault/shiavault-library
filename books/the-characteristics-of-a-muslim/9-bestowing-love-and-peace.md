@@ -65,4 +65,3 @@ of happiness in the life of this world and in the Hereafter.
 [^1]: Tabrasi, Mishkat al-Anwar, p. 123, Sunan Abi Dawood, vol.4,
 narrated by Abu Huraira.
 
-

@@ -43,4 +43,3 @@ in the accusative form (because it is a specificative). For example:
 **سَوِدَ** becomes **أشَدُّ** **سَواداً** (blacker) or **عَوِرَ**
 becomes **أکثرُ** **عَوَراً** (more one-eyed).
 
-

@@ -892,4 +892,3 @@ First, for considering the generality of the issue and second for
 considering common principles that are available among all of them about
 the plan of that great peacemaker.
 
-

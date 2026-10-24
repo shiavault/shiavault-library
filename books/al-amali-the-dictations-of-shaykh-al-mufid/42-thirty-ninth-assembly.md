@@ -236,4 +236,3 @@ to do to you."
 May Allah bless you our master Muhammad, the Prophet, and his pure
 progeny.
 
-

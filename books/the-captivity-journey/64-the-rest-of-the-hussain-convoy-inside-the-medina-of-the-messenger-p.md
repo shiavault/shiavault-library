@@ -28,4 +28,3 @@ they were keen to mourn the Master of martyrs (Q). They had passionately
 grieved and longed for him, and they kept on doing that as a way to keep
 remembering Abu Abdu Allah (Q) and as continuation of his approach.
 
-

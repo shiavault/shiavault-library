@@ -707,4 +707,3 @@ the tablecloth. They saw a feast spread out before them, specially
 ordered by the Imam *(‘a)* for them. He then sat with them and ate the
 food from the same serving dishes on the tablecloth.
 
-

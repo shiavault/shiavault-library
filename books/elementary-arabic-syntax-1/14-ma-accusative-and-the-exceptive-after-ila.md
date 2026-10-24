@@ -24,4 +24,3 @@ comfort, except lazy people.) Here it is obligatory to put lazy people
 into the accusative case because the phrase before the *ila* is complete
 and positive.
 
-

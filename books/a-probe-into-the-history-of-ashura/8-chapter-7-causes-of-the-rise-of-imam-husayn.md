@@ -96,4 +96,3 @@ On the contrary I shall recover whatever has been given or taken
 unlawfully and shall deposit it in the Baytul Mal". On this very account
 Ali was eventually martyred.
 
-

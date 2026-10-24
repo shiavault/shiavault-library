@@ -9,4 +9,3 @@ fast*(muftirat)* as a token of respect. The Hanbalis and the Hanafis
 consider imsak as wajib, but Malikis consider it neither wajib nor
 mustahabb.
 
-

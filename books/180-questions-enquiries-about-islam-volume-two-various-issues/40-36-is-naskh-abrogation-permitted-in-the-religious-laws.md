@@ -68,4 +68,3 @@ rulings.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 1, pg. 390
 
-

@@ -1017,4 +1017,3 @@ done. What he or she has said, and what- which should have said- has
 said, and in general what and how have been his or her deeds and
 speeches so that it might become possible to correct them.
 
-

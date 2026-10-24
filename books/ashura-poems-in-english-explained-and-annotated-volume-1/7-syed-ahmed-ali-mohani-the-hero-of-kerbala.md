@@ -27,7 +27,6 @@ The world does still wonder at,
 Their unexampled fortitude.
 They fell around him one by one,
 
-
 Firm in their righteous ways,
 And for their loyalty have won,
 From friend and foe a world of praise.
@@ -59,13 +58,11 @@ Victory, though mean, they gained, but still,
 No bounds knew their ire.
 Orphans and widows they captives made,
 
-
 And set their tents on fire.
 The captives saw with choking grief,
 And eyes dimmed with tears,
 The tragic sight of Martyrs' heads,
 Uplifted on spears!\*
-
 
 60
 
@@ -83,9 +80,7 @@ as Shir-e Khoda.
 
 58
 
-
 **Anonymous : A Journey**
-
 
 It was peak of the mischief and virtues in chains;
 Just laws were sacked with rules insane;
@@ -104,7 +99,6 @@ they offered their lives as shield and cure;
 thus tyrants came forth from the curtain way old;
 then peace was bought and lives were sold.
 
-
 And daring in the manners were the two young brothers;
 
 in the boldness of their moves were the teachings of a mother
@@ -115,7 +109,6 @@ Shone Aun and Muhammad with the valor known as Haider (A.S.);
 
 Those children were slain not the feeling of the mother.20 With a
 message from his father was Qasim bin Hassan (A.S.);
-
 
 a radiant jewel of Islam was this glowing young son;
 but Qasim into pieces with a bride day old;
@@ -165,7 +158,6 @@ bruises on her face and her thirst so severe;
 She ran for her father who laid beheaded,
 and cried for the uncle for help she needed;
 Syeda Zainab (A.S.) looked for her in the sadness of that night;
-
 
 61
 
@@ -283,5 +275,4 @@ In Shiite culture, it implies the hardest and most unbearable phase of
 captivity for the survivors of the Karbala incident.
 
 65
-
 

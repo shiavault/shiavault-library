@@ -60,4 +60,3 @@ night of Al-Qadr*****”. [97:1]**
 
 To Find the Answer
 
-

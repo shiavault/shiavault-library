@@ -211,4 +211,3 @@ display the reality and the truth of existence to us, and that it is
 reason and thought alone which can acquaint us accurately with the
 precise truth of the make-up of the universe we live in
 
-

@@ -333,8 +333,6 @@ becoming even a priest, let alone Prophethood. You think that anyone who
 foretells an event, is a prophet. In Islam it is not so. Read carefully
 Unit 4 of ICC. With best wishes,
 
-
 Yours Lovingly,
 S. S. Akhtar Rizvi.
-
 

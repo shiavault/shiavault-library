@@ -829,5 +829,4 @@ a person who oppresses you, for he is only busy in harming himself and
 benefiting you. The reward of one who pleases you is not that you
 displease him.”
 
-
 **

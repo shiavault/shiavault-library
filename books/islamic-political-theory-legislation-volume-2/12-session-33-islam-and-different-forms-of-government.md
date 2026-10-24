@@ -327,12 +327,8 @@ tremble should he intend to disobey or violate them. Somewhere in the
 Qur’an, God commands the Prophet (*s*) to judge according to the divine
 decree:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
-النَّاسِ بِمَا أَرَاكَ اللّهُ...﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
+> النَّاسِ بِمَا أَرَاكَ اللّهُ...﴾
 
 “Indeed We have sent down to you the Book with the truth, so that you
 may judge between the people by what Allah has shown you...” [^4]
@@ -341,13 +337,9 @@ Elsewhere, He mentions the duty of Muslims vis-à-vis the decree and
 verdict of the Messenger of Allah (*s*) and the need to obey him,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا﴾
-  </p>
-</blockquote>
+> ﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا﴾
 
 “But no, by your Lord! They will not believe until they make you a judge
 in their disputes, then do not find within their hearts any dissent to
@@ -376,32 +368,20 @@ Elsewhere in the Qur’an, in consecutive verses God introduces a person
 who judges contrary to the divine decree as transgressor, unbeliever and
 wrongdoer:
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
-الْكافِرُونَ﴾
-  </p>
-</blockquote>
+> ﴿...وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
+> الْكافِرُونَ﴾
 
 “Those who do not judge by what Allah has sent down—it is they who are
 the faithless.”[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
-الظّالِمُونَ﴾
-  </p>
-</blockquote>
+> ﴿...وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
+> الظّالِمُونَ﴾
 
 “Those who do not judge by what Allah has sent down—it is they who are
 the wrongdoers.”[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
-الْفاسِقُونَ﴾
-  </p>
-</blockquote>
+> ﴿...وَ مَنْ لَمْ يَحْكُمْ بِما أَنْزَلَ اللّهُ فَأُولئِكَ هُمُ
+> الْفاسِقُونَ﴾
 
 “Those who do not judge by what Allah has sent down—it is they who are
 the transgressors.”[^8]
@@ -422,11 +402,7 @@ will definitely realize that it must be acted upon till the Day of
 Resurrection and that the laws of God must be the focus of attention and
 action and not be violated:
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَمَن يَتَعَدَّ حُدُودَ اللّهِ فَأُوْلَـئِكَ هُمُ الظَّالِمُونَ﴾
-  </p>
-</blockquote>
+> ﴿...وَمَن يَتَعَدَّ حُدُودَ اللّهِ فَأُوْلَـئِكَ هُمُ الظَّالِمُونَ﴾
 
 ***“…And whoever transgresses the bounds of Allah—it is they who are the
 wrongdoers**.”*[^9]
@@ -590,5 +566,4 @@ fact of its fabrication becoming known. [Trans.]
 [^8]: Surah al-Ma’idah 5:47.
 
 [^9]: Surah al-Baqarah 2:229.
-
 

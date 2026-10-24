@@ -354,4 +354,3 @@ quoted adding, "I do not fear lest Allah should record that I have
 committed a sin for having said s; surely these two Chapters enjoy a
 great status with Allah."
 
-

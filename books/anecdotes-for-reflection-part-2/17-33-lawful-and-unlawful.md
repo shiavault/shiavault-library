@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهاَ النَّاسُ کُلُوا مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
-  </p>
-</blockquote>
+> يَا أَيُّهاَ النَّاسُ کُلُوا مِمَّا فِي الأَرْضِ حَلاَلاً طَيِّباً
 
 “O mankind! eat the lawful and good things out of what is in the
 earth.”[^1]
 
 Imam Kadhim (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْحَراَمَ لاَ يُنْمِي وَ إِِنْ نُمِيَ لَمْ يُباَرَكْ فِيهِ.
-  </p>
-</blockquote>
+> إِنَّ الْحَراَمَ لاَ يُنْمِي وَ إِِنْ نُمِيَ لَمْ يُباَرَكْ فِيهِ.
 
 “Surely, the unlawful things do not grow (and multiply) and if they ever
 do, they are never blessed.”[^2]
@@ -193,5 +185,4 @@ Ansari, Page 88
 [^7]: Hikayat-ha-e-Shanidani, Volume 1, Page 120
 
 [^8]: Pand-e-Tarikh, Volume 1, Page 180; Al-Sawaiqul Muhriqah
-
 

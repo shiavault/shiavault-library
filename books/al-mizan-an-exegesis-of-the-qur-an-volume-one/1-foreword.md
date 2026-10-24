@@ -195,10 +195,8 @@ pleasure, to help us complete the work we have started, and to guide us
 aright in every step we put forward on this road. Surely, He is the best
 Guardian and the best Helper.
 
-
 WORLD ORGANIZATION FOR ISLAMIC SERVICES
 (Board of Writing, Translation and Publication)
 27/10/1402 17/8/1981
 Tehran - IRAN.
-
 

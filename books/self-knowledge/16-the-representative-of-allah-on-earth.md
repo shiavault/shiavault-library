@@ -130,4 +130,3 @@ guardianship was generative. But after deeper study it will be obvious
 that every representative of Allah was allowed to apply his guardianship
 in both aspects: generative and legislative, if necessary and possible.
 
-

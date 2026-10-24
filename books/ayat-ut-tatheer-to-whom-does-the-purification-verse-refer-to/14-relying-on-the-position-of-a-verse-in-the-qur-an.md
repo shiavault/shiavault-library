@@ -66,4 +66,3 @@ narrations from Rasulullah (SA) proved the exact opposite of what they
 argue. In that case, it is not their right to speculate, assume, or
 interpret after that.
 
-

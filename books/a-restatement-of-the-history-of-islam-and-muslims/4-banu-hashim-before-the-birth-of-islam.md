@@ -154,4 +154,3 @@ famous in history. They were:
 Abdullah and Abu Talib were the children of the same mother whereas the
 other eight sons of Abdul Muttalib were born of his other wives.
 
-

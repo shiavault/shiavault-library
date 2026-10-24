@@ -8,4 +8,3 @@ Allah] does not return to the truth.
 
 > 1ـ مَنْ تَعَمَّقَ لَمْ يَنْبُ إلَى الحَقِّ.
 
-

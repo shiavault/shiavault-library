@@ -57,7 +57,6 @@ and will be no more a Muslim but a Kafir?!?!
 
 I can not believe in such a thing unless I lose the grip of reason.
 
-
 **5- Difference in my nation is a mercy**
 
 In my preceding discussion the strokes of my pen might have created a
@@ -97,7 +96,6 @@ biting, carping, caviling, calumniating, winking and so forth. Such
 being the fact, how can a claim be laid that he invited the difference
 or endeavored towards it? This is a facinorous accusation. I seek
 forgiveness from God for writing it although for the sake of argument.
-
 
 **6- Consensus on the canon of choice**
 
@@ -140,7 +138,6 @@ penetrate into the word to probe onto the real dimension of the sense.
 Such is the richness of Arabic language that one words wombs quite a
 different meaning other than what at its surface could be understood.
 (TRANSLATOR)
-
 
 yet in an imbroglio state like an egg and to protect the unity among
 the Muslims. Since they did not yield; better to deny them their status
@@ -214,5 +211,4 @@ not known on that day to the Emigrants (MUHAJAREEN) or they did not want
 to know it. Therefore, they did not put it forward as a proof. The
 argument that Abu Baker put forward was the relation with the Prophet,
 which the Arabs did not know except this part of the Quraish."
-
 

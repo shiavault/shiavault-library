@@ -37,4 +37,3 @@ because it is a part which has no life in the life-time of the elephant
 are not *najis*; but prayer with such sweat on body or clothes is not
 allowed.
 
-

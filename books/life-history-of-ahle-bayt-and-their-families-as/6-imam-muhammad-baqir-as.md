@@ -360,7 +360,6 @@ In 619 AD, Bibi Khadija died. When she died nothing was left of her
 wealth. Abu Talib died in this year too. The Prophet called the year
 Aamul Huzn (the year of grief).
 
-
 Imam Hassan Askari - A Brief Look at his Life
 Name: Hassan.
 Title: Al-Askery.
@@ -501,5 +500,4 @@ prayers before the sun starts to decline.
 He recite Qunoot in Salaa.
 He dyes his hair and beard.
 He recites 5 takbirs in Salatul Mayyit.
-
 

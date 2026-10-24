@@ -17,38 +17,26 @@ such verses in their books. Among them Allama al-Majlisi (r.a.) deserves
 special mention for having brought numerous such verses in his book
 “Behar al-Anwar”, some of which are mentioned hereunder:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ
-الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ
+> الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 ***“And certainly We wrote in the Book after the reminder that (as for)
 the land, My righteous servants shall inherit it.”(Surah al-Anbiya’,
 21:105)***
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***“He it is Who sent His Apostle with guidance and the religion of
 truth that He might cause it to prevail over all religions, though the
 polytheists may be averse.” (Surah at-Tawbah, 9: 33)***
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
-وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي
-لَا يُشْرِكُونَ بِي شَيْئًا ۚ وَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ
-فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
+> وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي
+> لَا يُشْرِكُونَ بِي شَيْئًا ۚ وَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ
+> فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ
 
 ***“Allah has promised to those of you who believe and do good that He
 will most certainly make them rulers in the earth as He made rulers
@@ -61,12 +49,8 @@ Elucidating this verse in his book “al-Ghaibah”, Shaikh Tusi (r.a.)
 testifies to it being revealed about the occultation, reappearance and
 the supporters of Imam (a.t.f.s.).
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
 
 ***“And We desire to bestow a favour upon those who were deemed weak in
 the earth and to make them the Imams and to make them the heirs.” (Surah
@@ -79,12 +63,8 @@ from Ameerul Momineen ‘Ali (a.s.), expounding this verse as follows:
 Prophet’s (s.a.w.a.) progeny, then Allah will send Mahdi, to degrade the
 enemies and elevate the friends.”
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ
-شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ
+> شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ
 
 ***“Know that Allah gives life to the earth after its death; indeed, We
 have made the communications clear to you that you may understand.”
@@ -99,5 +79,4 @@ earth from all evil and enliven it through justice and equity.”
 Likewise Allama Majlisi (r.a.) brings 60 verses from the Holy Qur’an
 about the occultation and reappearance of Imam (a.s.). The discerning
 should therefore refer to this reliable book.
-
 

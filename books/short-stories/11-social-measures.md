@@ -120,4 +120,3 @@ They arrived at the house of the bride. The mother tapped her daughter
 on the shoulder and said, "May Allah bless you. I wish I could have your
 strong faith and self-confidence."
 
-

@@ -3,15 +3,11 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-وكذلك قوله وسد الأبواب كلها إلا باب علي فإن هذا مما وضعته الشيعة على
-طريق المقابلة فإن الذي في الصحيح عن أبي سعيد عن النبي صلى الله عليه و
-سلم أنه قال في مرضه الذي مات فيه إن أمن الناس علي في ماله وصحبته أبو
-بكر ولو كنت متخذا خليلا غير ربي لاتخذت أبا بكر خليلا ولكن أخوة الإسلام
-ومودته لا يبقين في المسجد خوخة إلا سدت إلا خوخة أبي بكر
-  </p>
-</blockquote>
+> وكذلك قوله وسد الأبواب كلها إلا باب علي فإن هذا مما وضعته الشيعة على
+> طريق المقابلة فإن الذي في الصحيح عن أبي سعيد عن النبي صلى الله عليه و
+> سلم أنه قال في مرضه الذي مات فيه إن أمن الناس علي في ماله وصحبته أبو
+> بكر ولو كنت متخذا خليلا غير ربي لاتخذت أبا بكر خليلا ولكن أخوة الإسلام
+> ومودته لا يبقين في المسجد خوخة إلا سدت إلا خوخة أبي بكر
 
 And likewise, **his statement “and close all doors except the door of
 ‘Ali”, verily, this is part of what was fabricated by the Shi’ah** in
@@ -38,11 +34,7 @@ The *hadith* in favour of Abu Bakr, which our dear Shaykh has quoted,
 however has some fatal problems. For instance, Imam Muslim (d. 261 H)
 records that the Prophet, *sallallahu ‘alaihi wa alihi*, had said:
 
-<blockquote dir="rtl">
-  <p>
-لا تبقين في المسجد خوخة إلا خوخة أبي بكر
-  </p>
-</blockquote>
+> لا تبقين في المسجد خوخة إلا خوخة أبي بكر
 
 No WICKET shall remain in the mosque except the WICKET of Abu Bakr.[^2]
 
@@ -50,24 +42,16 @@ This calls for the *destruction* or *removal* – and not closure - of all
 wickets in the mosque. Meanwhile, it directly contradicts another
 “sahih” version quoted by our Shaykh:
 
-<blockquote dir="rtl">
-  <p>
-لا يبقين في المسجد خوخة إلا سدت إلا خوخة أبي بكر
-  </p>
-</blockquote>
+> لا يبقين في المسجد خوخة إلا سدت إلا خوخة أبي بكر
 
 Close all the WICKETS in the mosque except the WICKET of Abu Bakr.
 
 Imam Ahmad (d. 241 H) also documents that the Messenger of Allah had
 said:
 
-<blockquote dir="rtl">
-  <p>
-ان أمن الناس على في صحبته وماله أبو بكر ولو كنت متخذا من الناس خليلا
-غير ربي لاتخذت أبا بكر ولكن إخوة الإسلام أو مودته لا يبقى باب في
-المسجد الا سد الا باب أبي بكر
-  </p>
-</blockquote>
+> ان أمن الناس على في صحبته وماله أبو بكر ولو كنت متخذا من الناس خليلا
+> غير ربي لاتخذت أبا بكر ولكن إخوة الإسلام أو مودته لا يبقى باب في
+> المسجد الا سد الا باب أبي بكر
 
 The one among mankind who has conferred upon me the most FAVOURS with
 his company and his money is Abu Bakr. If I were to choose from mankind
@@ -78,23 +62,15 @@ Bakr.[^3]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح وهذا إسناد حسن
-  </p>
-</blockquote>
+> صحيح وهذا إسناد حسن
 
 It is *sahih*, and this chain is *hasan*.[^4]
 
 Imam al-Tirmidhi (d. 279 H) seals it:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن حميد حدثنا إبراهيم بن المختار عن إسحق بن راشد عن الزهري
-عن عروة عن عائشة أن النبي صلى الله عليه و سلم أمر بسد الأبواب إلا باب
-أبي بكر
-  </p>
-</blockquote>
+> حدثنا محمد بن حميد حدثنا إبراهيم بن المختار عن إسحق بن راشد عن الزهري
+> عن عروة عن عائشة أن النبي صلى الله عليه و سلم أمر بسد الأبواب إلا باب
+> أبي بكر
 
 Muhammad b. Hamid – Ibrahim b. al-Mukhtar – Ishaq b. Rashid – al-Zuhri –
 ‘Urwah – ‘Aishah:
@@ -104,11 +80,7 @@ the DOOR of Abu Bakr.[^5]
 
 ‘Allamah al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^6]
 
@@ -131,12 +103,8 @@ him. As such, it was something he should be thanking them all for,
 especially Abu Bakr who supposedly did the most “favours” in this
 regard! The Qur’an, however, has directly refuted all that:
 
-<blockquote dir="rtl">
-  <p>
-يمنون عليك أن أسلموا قل لا تمنوا علي إسلامكم بل الله يمن عليكم أن
-هداكم للإيمان إن كنتم صادقين
-  </p>
-</blockquote>
+> يمنون عليك أن أسلموا قل لا تمنوا علي إسلامكم بل الله يمن عليكم أن
+> هداكم للإيمان إن كنتم صادقين
 
 They regard as a favour upon you (O Muhammad) that they have embraced
 Islam. Say: “**Count NOT your Islam as a favour upon me. Rather, Allah
@@ -150,12 +118,8 @@ contrast, it was the Prophet who had done favour to him by giving him
 guidance and his own blessed company. This is further indicated in this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-لقد من الله على المؤمنين إذ بعث فيهم رسولا من أنفسهم يتلو عليهم آياته
-ويزكيهم ويعلمهم الكتاب والحكمة وإن كانوا من قبل لفي ضلال مبين
-  </p>
-</blockquote>
+> لقد من الله على المؤمنين إذ بعث فيهم رسولا من أنفسهم يتلو عليهم آياته
+> ويزكيهم ويعلمهم الكتاب والحكمة وإن كانوا من قبل لفي ضلال مبين
 
 **Indeed, Allah has conferred a favour upon the believers when He sent
 among them a Messenger from among themselves**, reciting unto them His
@@ -189,24 +153,16 @@ The truth however is that all pious people are *akhilla* (plural of
 *khalil*) of one another. Each loves all the others, and is loved by
 them. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-الأخلاء يومئذ بعضهم لبعض عدو إلا المتقين
-  </p>
-</blockquote>
+> الأخلاء يومئذ بعضهم لبعض عدو إلا المتقين
 
 Friends (*akhilla*, plural of *khalil*) on that Day will be foes one to
 another, **except the pious**.[^9]
 
 Al-Hafiz Ibn Kathir (d. 774 H) comments:
 
-<blockquote dir="rtl">
-  <p>
-وقوله: {الأخلاء يومئذ بعضهم لبعض عدو إلا المتقين} أي: كل صداقة وصحابة
-لغير الله فإنها تنقلب يوم القيامة عداوة إلا ما كان لله، عز وجل، فإنه
-دائم بدوامه.
-  </p>
-</blockquote>
+> وقوله: {الأخلاء يومئذ بعضهم لبعض عدو إلا المتقين} أي: كل صداقة وصحابة
+> لغير الله فإنها تنقلب يوم القيامة عداوة إلا ما كان لله، عز وجل، فإنه
+> دائم بدوامه.
 
 His Statement {Friends on that Day will be foes one to another, except
 the pious}, means: ***every*** **friendship or companionship** that is
@@ -216,12 +172,8 @@ Glorious, which will survive forever.[^10]
 
 Imam al-Baghwi (d. 516 H) also submits:
 
-<blockquote dir="rtl">
-  <p>
-{الأخلاء} على المعصية في الدنيا، {يومئذ} يوم القيامة، {بعضهم لبعض عدو
-إلا المتقين} إلا المتحابين في الله عز وجل على طاعة الله عز وجل.
-  </p>
-</blockquote>
+> {الأخلاء} على المعصية في الدنيا، {يومئذ} يوم القيامة، {بعضهم لبعض عدو
+> إلا المتقين} إلا المتحابين في الله عز وجل على طاعة الله عز وجل.
 
 {Friends} upon sin in this world, {on that Day} the Day of Resurrection,
 {will be foes one to another, except the pious} except **those who love
@@ -230,11 +182,7 @@ obedience to Allah the Almighty, the Most Glorious.[^11]
 
 Imam Abu Sa’ud (d. 951 H) further states under the verse:
 
-<blockquote dir="rtl">
-  <p>
-}الأخلاء {المتحابون
-  </p>
-</blockquote>
+> }الأخلاء {المتحابون
 
 {Friends [*akhilla*]} [means] **people who love one another**.[^12]
 
@@ -244,22 +192,14 @@ his *khalil*! If there none, there could be only one possible
 explanation: none of the Sahabah was pious! ‘Allamah al-Albani has
 copied a *hadith* proving such a conclusion:
 
-<blockquote dir="rtl">
-  <p>
-إن أوثق عرى الإسلام: أن تحب في الله و تبغض في الله
-  </p>
-</blockquote>
+> إن أوثق عرى الإسلام: أن تحب في الله و تبغض في الله
 
 Verily, **the strongest handhold of Islam is that you love for the sake
 of Allah** and hate for the sake of Allah.[^13]
 
 The ‘Allamah states:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^14]
 
@@ -267,11 +207,7 @@ Since the Messenger loved and hated only for the sake of Allah, then he
 certainly loved all the pious ones among his Sahabah, at the least due
 to this verse:
 
-<blockquote dir="rtl">
-  <p>
-إن الله يحب المتقين
-  </p>
-</blockquote>
+> إن الله يحب المتقين
 
 Surely, Allah loves the pious.[^15]
 
@@ -283,17 +219,13 @@ were many of them! The most noticeable of them, of course, in the
 *ahadith* of the Messenger is none other than Amir al-Muminin. Imam
 Muslim records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة بن سعيد ومحمد بن عباد (وتقاربا في اللفظ) قالا حدثنا حاتم
-(وهو ابن إسماعيل) عن بكير بن مسمار عن عامر بن سعد بن أبي وقاص عن أبيه
-قال أمر معاوية بن أبي سفيان سعدا فقال ما منعك أن تسب أبا التراب؟ فقال
-أما ذكرت ثلاثا قالهن له رسول الله صلى الله عليه و سلم فلن أسبه
-...سمعته يقول يوم خيبر لأعطين الراية رجلا يحب الله ورسوله ويحبه الله
-ورسوله قال فتطاولنا لها فقال ادعوا لي عليا فأتى به أرمد فبصق في عينه
-ودفع الراية إليه ففتح الله عليه
-  </p>
-</blockquote>
+> حدثنا قتيبة بن سعيد ومحمد بن عباد (وتقاربا في اللفظ) قالا حدثنا حاتم
+> (وهو ابن إسماعيل) عن بكير بن مسمار عن عامر بن سعد بن أبي وقاص عن أبيه
+> قال أمر معاوية بن أبي سفيان سعدا فقال ما منعك أن تسب أبا التراب؟ فقال
+> أما ذكرت ثلاثا قالهن له رسول الله صلى الله عليه و سلم فلن أسبه
+> ...سمعته يقول يوم خيبر لأعطين الراية رجلا يحب الله ورسوله ويحبه الله
+> ورسوله قال فتطاولنا لها فقال ادعوا لي عليا فأتى به أرمد فبصق في عينه
+> ودفع الراية إليه ففتح الله عليه
 
 Qutaybah b. Sa’id and Muhammad b. ‘Abbad – Hatim b. Isma’il – Bukayr b.
 Musmar – ‘Amir b. Sa’id b. Abi Waqqas – his father (Sa’d b. Abi Waqqas):
@@ -322,69 +254,37 @@ Perhaps, the greatest threat *against* the *hadith* about Abu Bakr is
 the version about ‘Ali itself! Al-Hafiz (d. 852 H) writes about it at
 length:
 
-<blockquote dir="rtl">
-  <p>
-منها حديث سعد بن أبي وقاص قال أمرنا رسول الله صلى الله عليه وسلم بسد
-الأبواب الشارعة في المسجد وترك باب علي أخرجه أحمد والنسائي وإسناده قوي
-  </p>
-</blockquote>
+> منها حديث سعد بن أبي وقاص قال أمرنا رسول الله صلى الله عليه وسلم بسد
+> الأبواب الشارعة في المسجد وترك باب علي أخرجه أحمد والنسائي وإسناده قوي
 
-<blockquote dir="rtl">
-  <p>
-وفي رواية للطبراني في الأوسط رجالها ثقات من الزيادة فقالوا يا رسول
-الله سددت أبوابنا فقال ما انا سددتها ولكن الله سدها
-  </p>
-</blockquote>
+> وفي رواية للطبراني في الأوسط رجالها ثقات من الزيادة فقالوا يا رسول
+> الله سددت أبوابنا فقال ما انا سددتها ولكن الله سدها
 
-<blockquote dir="rtl">
-  <p>
-وعن زيد بن أرقم قال كان لنفر من الصحابة أبواب شارعة في المسجد فقال
-رسول الله صلى الله عليه وسلم سدوا هذه الأبواب الا باب علي فتكلم ناس في
-ذلك فقال رسول الله صلى الله عليه وسلم اني والله ما سددت شيئا ولا فتحته
-ولكن أمرت بشئ فاتبعته أخرجه أحمد والنسائي والحاكم ورجاله ثقات
-  </p>
-</blockquote>
+> وعن زيد بن أرقم قال كان لنفر من الصحابة أبواب شارعة في المسجد فقال
+> رسول الله صلى الله عليه وسلم سدوا هذه الأبواب الا باب علي فتكلم ناس في
+> ذلك فقال رسول الله صلى الله عليه وسلم اني والله ما سددت شيئا ولا فتحته
+> ولكن أمرت بشئ فاتبعته أخرجه أحمد والنسائي والحاكم ورجاله ثقات
 
-<blockquote dir="rtl">
-  <p>
-وعن ابن عباس قال أمر رسول الله صلى الله عليه وسلم بأبواب المسجد فسدت
-الا باب علي وفي رواية وأمر بسد الأبواب غير باب علي فكان يدخل المسجد
-وهو جنب ليس له طريق غيره أخرجهما أحمد والنسائي ورجالهما ثقات
-  </p>
-</blockquote>
+> وعن ابن عباس قال أمر رسول الله صلى الله عليه وسلم بأبواب المسجد فسدت
+> الا باب علي وفي رواية وأمر بسد الأبواب غير باب علي فكان يدخل المسجد
+> وهو جنب ليس له طريق غيره أخرجهما أحمد والنسائي ورجالهما ثقات
 
-<blockquote dir="rtl">
-  <p>
-وعن جابر بن سمرة قال أمرنا رسول الله صلى الله عليه وسلم بسد الأبواب
-كلها غير باب علي فربما مر فيه وهو جنب أخرجه الطبراني
-  </p>
-</blockquote>
+> وعن جابر بن سمرة قال أمرنا رسول الله صلى الله عليه وسلم بسد الأبواب
+> كلها غير باب علي فربما مر فيه وهو جنب أخرجه الطبراني
 
-<blockquote dir="rtl">
-  <p>
-وعن ابن عمر قال كنا نقول في زمن رسول الله صلى الله عليه وسلم رسول الله
-صلى الله عليه وسلم خير الناس ثم أبو بكر ثم عمر ولقد أعطى علي بن أبي
-طالب ثلاث خصال لان يكون لي واحدة منهن أحب إلي من حمر النعم زوجه رسول
-الله صلى الله عليه وسلم ابنته وولدت له وسد الأبواب الا بابه في المسجد
-وأعطاه الراية يوم خيبر أخرجه أحمد وإسناده حسن
-  </p>
-</blockquote>
+> وعن ابن عمر قال كنا نقول في زمن رسول الله صلى الله عليه وسلم رسول الله
+> صلى الله عليه وسلم خير الناس ثم أبو بكر ثم عمر ولقد أعطى علي بن أبي
+> طالب ثلاث خصال لان يكون لي واحدة منهن أحب إلي من حمر النعم زوجه رسول
+> الله صلى الله عليه وسلم ابنته وولدت له وسد الأبواب الا بابه في المسجد
+> وأعطاه الراية يوم خيبر أخرجه أحمد وإسناده حسن
 
-<blockquote dir="rtl">
-  <p>
-واخرج النسائي من طريق العلاء بن عرار بمهملات قال فقلت لابن عمر أخبرني
-عن علي وعثمان فذكر الحديث وفيه وأما علي فلا تسأل عنه أحدا وانظر إلى
-منزلته من رسول الله صلى الله عليه وسلم قد سد أبوابنا في المسجد وأقر
-بابه ورجاله رجال الصحيح الا العلاء وقد وثقه يحيى بن معين وغيره
-  </p>
-</blockquote>
+> واخرج النسائي من طريق العلاء بن عرار بمهملات قال فقلت لابن عمر أخبرني
+> عن علي وعثمان فذكر الحديث وفيه وأما علي فلا تسأل عنه أحدا وانظر إلى
+> منزلته من رسول الله صلى الله عليه وسلم قد سد أبوابنا في المسجد وأقر
+> بابه ورجاله رجال الصحيح الا العلاء وقد وثقه يحيى بن معين وغيره
 
-<blockquote dir="rtl">
-  <p>
-وهذه الأحاديث يقوي بعضها بعضا وكل طريق منها صالح للاحتجاج فضلا عن
-مجموعها
-  </p>
-</blockquote>
+> وهذه الأحاديث يقوي بعضها بعضا وكل طريق منها صالح للاحتجاج فضلا عن
+> مجموعها
 
 Among them is the *hadith* of **Sa’d b. Abi Waqqas**: “The Messenger of
 Allah, peace be upon him, ORDERED us to close all the doors opening into
@@ -444,13 +344,9 @@ combination.[^17]
 
 Imam al-Tirmidhi further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن حميد الرازي حدثنا إبراهيم بن المختار عن شعبة عن أبي بلج
-عن عمرو بن ميمون عن ابن عباس أن رسول الله صلى الله عليه و سلم أمر بسد
-الأبواب إلا باب علي
-  </p>
-</blockquote>
+> حدثنا محمد بن حميد الرازي حدثنا إبراهيم بن المختار عن شعبة عن أبي بلج
+> عن عمرو بن ميمون عن ابن عباس أن رسول الله صلى الله عليه و سلم أمر بسد
+> الأبواب إلا باب علي
 
 Muhammad b. Hamid al-Razi – Ibrahim b. al-Mukhtar – Shu’bah – Abu Balj –
 ‘Amr b. Maymun – **Ibn ‘Abbas**:
@@ -460,23 +356,15 @@ closed **except the door of ‘Ali**.[^18]
 
 And ‘Allamah al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^19]
 
 Imam al-Haythami (d. 807 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-وعن عبد الله بن الرقيم الكناني قال : خرجنا إلى المدينة زمن الجمل
-فلقينا سعد بن مالك بها فقال: أمر رسول الله صلى الله عليه و سلم بسد
-الأبواب الشارعة في المسجد وترك باب علي
-  </p>
-</blockquote>
+> وعن عبد الله بن الرقيم الكناني قال : خرجنا إلى المدينة زمن الجمل
+> فلقينا سعد بن مالك بها فقال: أمر رسول الله صلى الله عليه و سلم بسد
+> الأبواب الشارعة في المسجد وترك باب علي
 
 Narrated ‘Abd Allah b. al-Raqim al-Kanani:
 
@@ -488,44 +376,24 @@ all the doors opening into the mosque must be closed, **and he left
 
 Then, he says:
 
-<blockquote dir="rtl">
-  <p>
-رواه أحمد ... وإسناد أحمد حسن
-  </p>
-</blockquote>
+> رواه أحمد ... وإسناد أحمد حسن
 
 Ahmad narrated it ... **and the chain of Ahmad is** ***hasan***.[^21]
 
 Meanwhile, ‘Allamah al-Albani has some additional comments:
 
-<blockquote dir="rtl">
-  <p>
-قلت: ولعله يشير إلى حديث أبي بلج: حدثنا عمرو بن ميمون عن ابن عباس
-مرفوعا مختصرا بلفظ :" سدوا أبواب المسجد غير باب علي". قال: " فيدخل
-المسجد جنبا وهو طريقه، ليس له طريق غيره ".
-  </p>
-</blockquote>
+> قلت: ولعله يشير إلى حديث أبي بلج: حدثنا عمرو بن ميمون عن ابن عباس
+> مرفوعا مختصرا بلفظ :" سدوا أبواب المسجد غير باب علي". قال: " فيدخل
+> المسجد جنبا وهو طريقه، ليس له طريق غيره ".
 
 > أخرجه أحمد (1/330 - 331 و 331) عن أبي عوانة، والترمذي (2/301) ،
 > والنسائي في " الخصائص " (63/42) عن شعبة عنه نحوه؛ دون دخول المسجد
-<blockquote dir="rtl">
-  <p>
-وقال: "حديث غريب".
-  </p>
-</blockquote>
+> وقال: "حديث غريب".
 
-<blockquote dir="rtl">
-  <p>
-قلت: وإسناده جيد، رجاله ثقات رجال الشيخين؛ غير أبي بلج - وهو الفزاري
-الكوفي - وهو صدوق ربما أخطأ كما في "التقريب".
-  </p>
-</blockquote>
+> قلت: وإسناده جيد، رجاله ثقات رجال الشيخين؛ غير أبي بلج - وهو الفزاري
+> الكوفي - وهو صدوق ربما أخطأ كما في "التقريب".
 
-<blockquote dir="rtl">
-  <p>
-وهذا القدر من الحديث صحيح له شواهد كثيرة يقطع الواقف عليها بصحته
-  </p>
-</blockquote>
+> وهذا القدر من الحديث صحيح له شواهد كثيرة يقطع الواقف عليها بصحته
 
 I say: Perhaps he is referring to the *hadith* of Abu Balj – ‘Amr b.
 Maymun – Ibn ‘Abbas from the Prophet in a summarized manner with this
@@ -558,28 +426,20 @@ between the two *hadiths* – one in favour of Abu Bakr and the other in
 favour of ‘Ali – al-Hafiz makes a desperate attempt to find a middle
 ground:
 
-<blockquote dir="rtl">
-  <p>
-الجمع بينهما بما دل عليه حديث أبي سعيد الخدري يعني الذي أخرجه الترمذي
-ان النبي صلى الله عليه وسلم قال لا يحل لاحد ان يطرق هذا المسجد جنبا
-غيري وغيرك والمعنى ان باب علي كان إلى جهة المسجد ولم يكن لبيته باب
-غيره فلذلك لم يؤمر بسده ويؤيد ذلك ما أخرجه إسماعيل القاضي في احكام
-القران من طريق المطلب بن عبد الله بن حنطب ان النبي صلى الله عليه وسلم
-لم يأذن لاحد ان يمر في المسجد وهو جنب الا لعلي بن أبي طالب لان بيته
-كان في المسجد
-  </p>
-</blockquote>
+> الجمع بينهما بما دل عليه حديث أبي سعيد الخدري يعني الذي أخرجه الترمذي
+> ان النبي صلى الله عليه وسلم قال لا يحل لاحد ان يطرق هذا المسجد جنبا
+> غيري وغيرك والمعنى ان باب علي كان إلى جهة المسجد ولم يكن لبيته باب
+> غيره فلذلك لم يؤمر بسده ويؤيد ذلك ما أخرجه إسماعيل القاضي في احكام
+> القران من طريق المطلب بن عبد الله بن حنطب ان النبي صلى الله عليه وسلم
+> لم يأذن لاحد ان يمر في المسجد وهو جنب الا لعلي بن أبي طالب لان بيته
+> كان في المسجد
 
-<blockquote dir="rtl">
-  <p>
-ومحصل الجمع ان الامر بسد الأبواب وقع مرتين ففي الأولى استثنى علي لما
-ذكره وفي الأخرى استثنى أبو بكر ولكن لا يتم ذلك الا بان يحمل ما في قصة
-علي على الباب الحقيقي وما في قصة أبي بكر على الباب المجازي والمراد به
-الخوخة كما صرح به في بعض طرقه وكأنهم لما أمروا بسد الأبواب سدوها
-وأحدثوا خوخا يستقربون الدخول إلى المسجد منها فأمروا بعد ذلك بسدها فهذه
-طريقة لا بأس بها في الجمع بين الحديثين
-  </p>
-</blockquote>
+> ومحصل الجمع ان الامر بسد الأبواب وقع مرتين ففي الأولى استثنى علي لما
+> ذكره وفي الأخرى استثنى أبو بكر ولكن لا يتم ذلك الا بان يحمل ما في قصة
+> علي على الباب الحقيقي وما في قصة أبي بكر على الباب المجازي والمراد به
+> الخوخة كما صرح به في بعض طرقه وكأنهم لما أمروا بسد الأبواب سدوها
+> وأحدثوا خوخا يستقربون الدخول إلى المسجد منها فأمروا بعد ذلك بسدها فهذه
+> طريقة لا بأس بها في الجمع بين الحديثين
 
 Hamonization between the two (*hadiths*) is through what is proved by
 the *hadith* of Abu Sa’id al-Khudri, that is the one recorded by
@@ -636,13 +496,9 @@ in, or banish them from, their house, as al-Hafiz suggests?!
 Besides, the Sunni narrative of the two incidents do not place their
 Sahabah in a good light. Al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-والمراد به الخوخة كما صرح به في بعض طرقه وكأنهم لما أمروا بسد الأبواب
-سدوها وأحدثوا خوخا يستقربون الدخول إلى المسجد منها فأمروا بعد ذلك
-بسدها فهذه طريقة لا بأس بها في الجمع بين الحديثين
-  </p>
-</blockquote>
+> والمراد به الخوخة كما صرح به في بعض طرقه وكأنهم لما أمروا بسد الأبواب
+> سدوها وأحدثوا خوخا يستقربون الدخول إلى المسجد منها فأمروا بعد ذلك
+> بسدها فهذه طريقة لا بأس بها في الجمع بين الحديثين
 
 What is meant by it (i.e. the door in Abu Bakr’s story) is his wicket,
 as explicitly stated through some of its chains. It is as though he (the
@@ -756,5 +612,4 @@ al-Ummah (Riyadh: Dar al-Ma’arif; 1st edition, 1412 H), vol. 6, pp.
 [^23]: Shihab al-Din Ibn Hajar al-‘Asqalani, Fath al-Bari Sharh Sahih
 al-Bukhari (Beirut: Dar al-Ma’rifah li al-Taba’ah wa al-Nashr; 2nd
 edition), vol. 7, p. 13
-
 

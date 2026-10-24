@@ -1733,4 +1733,3 @@ their nearness in time, to the age of the Imam (P).
 
 [^5]: ‘Ilm’ul Usul is meant by the laws of the Mujtahids.
 
-

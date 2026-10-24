@@ -114,4 +114,3 @@ The lesson is that if someone doesn't know something, then he shouldn't
 be ashamed of learning it; like Shaykh Junayd learned the ways and
 manners of eating, talking, and sleeping.
 
-

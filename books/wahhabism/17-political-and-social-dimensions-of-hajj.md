@@ -93,48 +93,32 @@ The Holy Qur’an describes the Hajj of Ibrahim ('a) as follows:
 > وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ
 > ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ {27}
 
-<blockquote dir="rtl">
-  <p>
-لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ
-مَعْلُومَاتٍ عَلَىٰ مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۖ
-فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ
-  </p>
-</blockquote>
+> لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ
+> مَعْلُومَاتٍ عَلَىٰ مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۖ
+> فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ
 
 > الْفَقِيرَ {28}
 
 > ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا
 > بِالْبَيْتِ الْعَتِيقِ {29}
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ
-رَبِّهِ ۗ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ
-عَلَيْكُمْ ۖ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ
-  </p>
-</blockquote>
+> ذَٰلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ
+> رَبِّهِ ۗ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ
+> عَلَيْكُمْ ۖ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ
 
 > وَاجْتَنِبُوا قَوْلَ الزُّورِ {30}
 
-<blockquote dir="rtl">
-  <p>
-حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ
-فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي
-بِهِ الرِّيحُ فِي مَكَانٍ
-  </p>
-</blockquote>
+> حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ
+> فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي
+> بِهِ الرِّيحُ فِي مَكَانٍ
 
 > سَحِيقٍ {31}
 
 > ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
 > الْقُلُوبِ {32}
 
-<blockquote dir="rtl">
-  <p>
-لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى
-الْبَيْتِ الْعَتِيقِ
-  </p>
-</blockquote>
+> لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى
+> الْبَيْتِ الْعَتِيقِ
 
 ***“And proclaim among men the pilgrimage: they will come to you on foot
 and on every lean camel, coming from every remote path, that they may
@@ -225,25 +209,17 @@ and safeguarding of Islamic frontiers. As the Holy Qur’an says:
 > أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ
 > عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ {39}
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ إِلَّا أَنْ
-يَقُولُوا رَبُّنَا اللَّهُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ
-بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ
-  </p>
-</blockquote>
+> الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ إِلَّا أَنْ
+> يَقُولُوا رَبُّنَا اللَّهُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ
+> بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ
 
 > وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا ۗ
 > وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ
 > عَزِيزٌ {40}
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
-وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
-  </p>
-</blockquote>
+> الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
+> وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
 
 ***“Surely Allah will defend those who believe; surely Allah does not
 love anyone who is unfaithful, ungrateful. Permission (to fight) is
@@ -299,14 +275,10 @@ Ka’ba is the Existence of Life
 The Holy Qur’an describes Ka'ba and *Bayt al-haram* by the following
 sentence:
 
-<blockquote dir="rtl">
-  <p>
-جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ
-وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ۚ ذَٰلِكَ
-لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي
-الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ
+> وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ۚ ذَٰلِكَ
+> لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي
+> الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***“Allah has made the Ka’ba, the sacred house, maintenance for the
 people, and the sacred month and the offerings and the sacrificial
@@ -317,12 +289,8 @@ Allah is the Knower of all things.*** ***(Maida: 97)”***
 The word of **قيام** which has come down in this verse, can be seen in
 another verse too. As:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ
-لَكُمْ قِيَامًا
-  </p>
-</blockquote>
+> وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ
+> لَكُمْ قِيَامًا
 
 ***“And do not give away your property which Allah has made for you a
 (means of) support.*** ***(Nisa: 5)”***
@@ -350,11 +318,7 @@ in the battle against them. The Holy Qur’an does not allow the parents
 or guardians of the insane to give their wealth which is the source of
 their living and existence to them. It emphatically says:
 
-<blockquote dir="rtl">
-  <p>
-ولا تُؤتُوا السفهاء أموالكم التي جعل الله لكم قياماً
-  </p>
-</blockquote>
+> ولا تُؤتُوا السفهاء أموالكم التي جعل الله لكم قياماً
 
 ***“And do not give away your property which Allah has made for you a
 (means of) support. (Nisa: 5)”***
@@ -372,11 +336,7 @@ for the people!
 
 Moreover, he later says:
 
-<blockquote dir="rtl">
-  <p>
-وجعلها معالم لدينهم ومصالح أمورهم
-  </p>
-</blockquote>
+> وجعلها معالم لدينهم ومصالح أمورهم
 
 *“He has made Ka'ba the place of signs of people's beliefs and the base
 for their interests and* *affairs.”* [^5]
@@ -415,20 +375,12 @@ comprises of the following:
 > فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ
 > غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ {2}
 
-<blockquote dir="rtl">
-  <p>
-وَأَذَانٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
-الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ ۚ
-فَإِنْ تُبْتُمْ فَهُوَ خَيْرٌ لَكُمْ ۖ
-  </p>
-</blockquote>
+> وَأَذَانٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ
+> الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ ۚ
+> فَإِنْ تُبْتُمْ فَهُوَ خَيْرٌ لَكُمْ ۖ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۗ
-وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> وَإِنْ تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۗ
+> وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ
 
 ***"(This is a declaration of) immunity by Allah and His Apostle to
 wards those of the idolaters with whom you made an agreement. So go
@@ -487,29 +439,13 @@ freedom and liberty un-hesitantly recited some poems and in this way,
 introduced Imam al-Sajjad ('a) very nicely. Some of the verses of his
 poem are as follows:
 
-<blockquote dir="rtl">
-  <p>
-هذا الذي تعرف البطحاء وطأته والبيت يعرفه والحِل والحرم
-  </p>
-</blockquote>
+> هذا الذي تعرف البطحاء وطأته والبيت يعرفه والحِل والحرم
 
-<blockquote dir="rtl">
-  <p>
-هذا ابن خير عباد الله كلهم هذا التقي النقيّ الطاهر العلم
-  </p>
-</blockquote>
+> هذا ابن خير عباد الله كلهم هذا التقي النقيّ الطاهر العلم
 
-<blockquote dir="rtl">
-  <p>
-هذا ابن فاطمة إن كنت جاهله بجده انبياء الله قد خُتم
-  </p>
-</blockquote>
+> هذا ابن فاطمة إن كنت جاهله بجده انبياء الله قد خُتم
 
-<blockquote dir="rtl">
-  <p>
-تكاد يُمسكه عِرفان راحته رُكن الحطيمم إذا ما جاء يستلم
-  </p>
-</blockquote>
+> تكاد يُمسكه عِرفان راحته رُكن الحطيمم إذا ما جاء يستلم
 
 *“He is someone who, the soil of Batha' is aware of his footprints and*
 *Ka'ba, the House and its exterior are well-acquainted with him; He is
@@ -631,18 +567,10 @@ eyes of the polytheists were ordered, apart from performing their Hajj
 obligation, to call out and say the following *du'a* which is full of
 monotheism and epic.
 
-<blockquote dir="rtl">
-  <p>
-لا إله إلا الله وحده لا شريك له وله المُلك وله الحمد يُحيي ويُميت وهو
-على كل شئ قدير. لا إله إلا الله وحده أنجز
-  </p>
-</blockquote>
+> لا إله إلا الله وحده لا شريك له وله المُلك وله الحمد يُحيي ويُميت وهو
+> على كل شئ قدير. لا إله إلا الله وحده أنجز
 
-<blockquote dir="rtl">
-  <p>
-وعده ونصر عبده وهزم الأحزاب وحده.
-  </p>
-</blockquote>
+> وعده ونصر عبده وهزم الأحزاب وحده.
 
 *"There is no god except Allah; there is no partner for Him and the
 Kingdom belongs to Him. (All) Praise is for Him; He gives* *life and
@@ -675,12 +603,8 @@ any side from the camps of disbelief (*kufr*).
 It is seen in history that at the time of touching or kissing *al-hajar
 al-'aswad,* the Muslims used to recite the following:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله والله أكبر على ما هدانا لا إله إلا الله لا شريك له أمنت بالله
-وكفرت بالطاغوت
-  </p>
-</blockquote>
+> بسم الله والله أكبر على ما هدانا لا إله إلا الله لا شريك له أمنت بالله
+> وكفرت بالطاغوت
 
 *“In the name of God, and God is great for He guides us, there is no God
 save Allah, there is no partner to Him, I believe in God and I deny*
@@ -692,25 +616,13 @@ Political Dimensions of Hajj in the Words of Inerrant Leaders
 (a) Imam al-Sadiq (‘a): About the philosophy of Hajj and the secrets of
 its legislations Imam al-Sadiq (‘a) say as such:
 
-<blockquote dir="rtl">
-  <p>
-وجعل فيه الإجتماع من المشرق والمغرب والمغرب ليتعارفوا ولتُعرف اثار
-رسول الله وتُعرف اخباره ولا تُنسى ولو
-  </p>
-</blockquote>
+> وجعل فيه الإجتماع من المشرق والمغرب والمغرب ليتعارفوا ولتُعرف اثار
+> رسول الله وتُعرف اخباره ولا تُنسى ولو
 
-<blockquote dir="rtl">
-  <p>
-كان كُل قوم إنما يتكلون على بلادهم وما فيها هلكُوا وخربت البلاد وسقط
-الجَلب والأرباح وعميت الأخبار ولم
-  </p>
-</blockquote>
+> كان كُل قوم إنما يتكلون على بلادهم وما فيها هلكُوا وخربت البلاد وسقط
+> الجَلب والأرباح وعميت الأخبار ولم
 
-<blockquote dir="rtl">
-  <p>
-يقفوا على ذلك وذلك علة الحج.
-  </p>
-</blockquote>
+> يقفوا على ذلك وذلك علة الحج.
 
 *"In the land of Mecca, there manifested a gathering from East and West
 so that the people recognize each other and the effects of the Holy
@@ -732,11 +644,7 @@ recognized.
 
 (b) Again Imam al-Sadiq (‘a) says:
 
-<blockquote dir="rtl">
-  <p>
-ما مِن بُقعة أحب إلى الله مِن المسعى لأنه يُذل فيه كل جبار
-  </p>
-</blockquote>
+> ما مِن بُقعة أحب إلى الله مِن المسعى لأنه يُذل فيه كل جبار
 
 ***“**No spot of the world is more lovable to Allah than the place of
 endeavour between Safaa and Marwa because in this place all the stubborn
@@ -755,26 +663,14 @@ interest in him such that more than one thousand people attended his
 speech. At this moment, when the companions and their sons were
 listening to his speech, he began his speech as such
 
-<blockquote dir="rtl">
-  <p>
-أما بعد فإن هذا الطاغية قد صنع بنا ما قد علمتم ورأيتهم وشهدتم وبلغنكم
-وإني أريد أن أسئلكم عن أشياء فإن صد
-  </p>
-</blockquote>
+> أما بعد فإن هذا الطاغية قد صنع بنا ما قد علمتم ورأيتهم وشهدتم وبلغنكم
+> وإني أريد أن أسئلكم عن أشياء فإن صد
 
-<blockquote dir="rtl">
-  <p>
-فصدقوني وإن كذبت فكذبوني اسمعُوا مقالتي واكتُموا قولي ثم إرجعوا إلى
-امصاركم وقبائلكم من امَّنتُموه ووثقتم
-  </p>
-</blockquote>
+> فصدقوني وإن كذبت فكذبوني اسمعُوا مقالتي واكتُموا قولي ثم إرجعوا إلى
+> امصاركم وقبائلكم من امَّنتُموه ووثقتم
 
-<blockquote dir="rtl">
-  <p>
-به فادعُوهم إلى ما تعلمون فإني اخاف أن يندرس هذا الحق ويذهب والله
-مُتِم نُوره ولو كره الكافرون
-  </p>
-</blockquote>
+> به فادعُوهم إلى ما تعلمون فإني اخاف أن يندرس هذا الحق ويذهب والله
+> مُتِم نُوره ولو كره الكافرون
 
 *"After praising Allah and sending salutations upon the Holy Prophet
 (s), he said: O people, Know that what evils this tyrant (Mu'awiya) has
@@ -811,11 +707,7 @@ The coptic related the matter to the ruler of the time (‘Umar bin
 al-Khattab) during Hajj time and explained his innocence. ‘Umar called
 for the 'Amr bin al-'As and accounted a famous sentence in this regard:
 
-<blockquote dir="rtl">
-  <p>
-متى استعبدتم الناس وقد ولدنهم أمهاتهم أحرارً
-  </p>
-</blockquote>
+> متى استعبدتم الناس وقد ولدنهم أمهاتهم أحرارً
 
 *“Since when you have taken the people as your slaves whereas they have
 been born free from their mothers!?”* [^29]
@@ -889,12 +781,8 @@ their lives. Rather, it possesses a special relation with their lives."
 
 In this regard, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ
-مَعْلُومَاتٍ …
-  </p>
-</blockquote>
+> لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ
+> مَعْلُومَاتٍ …
 
 ***“That they may witness advantages for them and mention the name of
 Allah during stated days …..*** ***(Hajj, 22: 28)”***
@@ -1007,5 +895,4 @@ al-shara'i', by al-Saduq.
 [^28]: Kitab Sulaym b. Qays al-Kufi, page 18.
 
 [^29]: Farid Wajdi, book of Hajj vol.3 page 350 (Da'irat al-ma'arif).
-
 

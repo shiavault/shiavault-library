@@ -1774,4 +1774,3 @@ al-Qadar, 57.
 Ma‘ani Asma Allah al-Husna, ed. Bassam ‘Abd al-Wahab al-Jabi, Al-Jaffan
 wa al-Jabi, Cypress, 1407/1987, p. 85.
 
-

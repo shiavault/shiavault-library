@@ -15,14 +15,9 @@ Gauging People
 intellect.
 
 > 3ـ اَلطُمَأنِينَةُ إلى كُلِّ أحَد قَبْلَ الاِخْتِبارِ مِنْ قُصُورِ
-<blockquote dir="rtl">
-  <p>
-العَقْلِ.
-  </p>
-</blockquote>
+> العَقْلِ.
 
 4. One who feels at ease [with people] before gauging them, regrets.
 
 > 4ـ مَنِ اطْمَأنَّ قَبلَ الاِختِبارِ نَدِمَ.
-
 

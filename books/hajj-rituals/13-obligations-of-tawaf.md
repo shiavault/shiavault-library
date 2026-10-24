@@ -52,4 +52,3 @@ makrouh, particularly if one is unable to remain within the limits, or
 harm could befall him, if he did so. Nevertheless, where possible,
 observing ihtiyat is recommended.
 
-

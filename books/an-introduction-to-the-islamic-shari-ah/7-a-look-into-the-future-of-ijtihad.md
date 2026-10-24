@@ -48,4 +48,3 @@ future, *al-hamdulillah,* is bright.
 
 [^1]: Mutahhari, “Ijtihad dar Islam,” p. 61.
 
-

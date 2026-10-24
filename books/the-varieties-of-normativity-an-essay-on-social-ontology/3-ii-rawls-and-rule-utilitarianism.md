@@ -107,4 +107,3 @@ we play the game of chess rather than some other, slightly different
 game?” Let us turn now to Searle, and see how he seems to face a similar
 fate.
 
-

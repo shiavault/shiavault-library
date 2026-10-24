@@ -23,4 +23,3 @@ street, with figures from allegorical or traditional history who engaged
 in some pantomime or declamation, but with very little dramatic dialog,
 or none.
 
-

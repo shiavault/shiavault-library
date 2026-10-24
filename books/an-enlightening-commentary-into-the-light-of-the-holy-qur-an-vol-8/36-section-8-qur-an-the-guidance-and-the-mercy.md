@@ -4,13 +4,9 @@ Section 8: Qur’an, the Guidance and the Mercy
 Surah An-Nahl – Verse 61
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِم مَا تَرَكَ عَلَيْهَا مِن
-دَآبَّةٍ وَلَكِن يُؤَخّـِرُهُمْ إِلَي أَجَلٍ مُسَمّي فَإِذَا جَآءَ
-أَجَلُهُمْ لاَيَسْتَأْخِرُونَ سَاعَةً وَلاَ يَسْتَقْدِمُونَ
-  </p>
-</blockquote>
+> وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِم مَا تَرَكَ عَلَيْهَا مِن
+> دَآبَّةٍ وَلَكِن يُؤَخّـِرُهُمْ إِلَي أَجَلٍ مُسَمّي فَإِذَا جَآءَ
+> أَجَلُهُمْ لاَيَسْتَأْخِرُونَ سَاعَةً وَلاَ يَسْتَقْدِمُونَ
 
 ***61. “And if Allah were to take people to task for their inequity, He
 would not leave on it (the earth) a single moving being, but He respites
@@ -129,13 +125,9 @@ and just from that very moment their punishments and retributions start.
 Surah An-Nahl – Verse 62
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ
-الْكَذِبَ أَنَّ لَهُمُ الْحُسْنَي لاَ جَرَمَ أَنَّ لَهُمُ النَّارَ
-وَأَنَّهُم مُفْرَطُونَ
-  </p>
-</blockquote>
+> وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ
+> الْكَذِبَ أَنَّ لَهُمُ الْحُسْنَي لاَ جَرَمَ أَنَّ لَهُمُ النَّارَ
+> وَأَنَّهُم مُفْرَطُونَ
 
 ***62. “And they assign unto Allah what they (themselves) dislike and
 their tongues assert the falsehood that the better (portion) will be
@@ -172,13 +164,9 @@ foremost (to it).”***
 Surah An-Nahl – Verse 63
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَاللَّهِ لَقَدْ أَرْسَلْنَآ إِلَي اُمَمٍ مّـِن قَبْلِكَ فَزَيَّنَ
-لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَهُوَ وَلِيُّهُمُ الْيَوْمَ
-وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> تَاللَّهِ لَقَدْ أَرْسَلْنَآ إِلَي اُمَمٍ مّـِن قَبْلِكَ فَزَيَّنَ
+> لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَهُوَ وَلِيُّهُمُ الْيَوْمَ
+> وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***63. “By Allah, We verily sent (messengers) unto the nations before
 you, but the Satan made their (abominable) acts fair-seeming to them.
@@ -231,12 +219,8 @@ awaiting them.
 Surah An-Nahl – Verse 64
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَنزَلْنَا عَلَيْكَ الْكِتَابَ إِلاَّ لِتُبَيّـِنَ لَهُمُ
-الَّذِي اخْتَلَفُوا فِيهِ وَهُدًي وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَمَآ أَنزَلْنَا عَلَيْكَ الْكِتَابَ إِلاَّ لِتُبَيّـِنَ لَهُمُ
+> الَّذِي اخْتَلَفُوا فِيهِ وَهُدًي وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
 
 ***64. “And We have not sent down unto you the Book (the Qur’an), except
 that you may make clear to them that about which they differ; and (as) a
@@ -272,12 +256,8 @@ mercy all over.
 Surah An-Nahl – Verse 65
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ أَنْزَلَ مِنَ السَّمآءِ مَآءً فَاَحْيَا بِهِ الاَرْضَ بَعْدَ
-مَوْتِهَآ إِنَّ فِي ذَلِكَ لاَيَةً لِقَوْمٍ يَسْمَعُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ أَنْزَلَ مِنَ السَّمآءِ مَآءً فَاَحْيَا بِهِ الاَرْضَ بَعْدَ
+> مَوْتِهَآ إِنَّ فِي ذَلِكَ لاَيَةً لِقَوْمٍ يَسْمَعُونَ
 
 ***65. “And Allah has sent down water from the sky, and therewith given
 life to the earth after its death. Verily, in that is a sign for a
@@ -342,5 +322,4 @@ considerate with regard to this.
 [^1]: Surah Al-Baqarah, No. 2, verse 29
 
 [^2]: Surah Al-’A‘raf, No. 7, verse 179
-
 

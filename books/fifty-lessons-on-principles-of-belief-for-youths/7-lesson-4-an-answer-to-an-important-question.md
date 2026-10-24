@@ -109,4 +109,3 @@ are part of our God-given nature (fitrat).
  2 Why do ignorant people turn to idol worship?  
  3 Why do materialists refer to God as Nature?
 
-

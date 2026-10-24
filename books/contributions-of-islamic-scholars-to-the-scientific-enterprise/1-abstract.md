@@ -16,4 +16,3 @@ centuries.*
 **The Keyword: Muslim scholars, scientific thinking, Islamic view of
 nature, knowledge transfer, Western science**
 
-

@@ -335,4 +335,3 @@ covering her face causes her great difficulties, it has been allowed to
 be uncovered. The same is true of looking at the face of a non-mahram
 woman which, at the same time through permissible, not doing is better
 
-

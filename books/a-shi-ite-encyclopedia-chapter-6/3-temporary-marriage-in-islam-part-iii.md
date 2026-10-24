@@ -345,4 +345,3 @@ In the next part, Insha Allah, we will analyze the few Sunni reports
 which allege that the temporary marriage was forbidden by the Prophet
 (PBUH&HF).
 
-

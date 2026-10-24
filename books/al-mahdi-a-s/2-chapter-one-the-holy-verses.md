@@ -710,4 +710,3 @@ poems like the poems of Shaikh Ah mad Jaami, Shaikh Athar Naishabouri,
 Shaikh Jamaluddin Rumi and others. However what we have narrated is
 adequate.
 
-

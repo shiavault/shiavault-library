@@ -48,4 +48,3 @@ bi-fulan an tujiba da'wati wa taqdia hajati (O ALLAH (SWT)! I beseech
 you by means of so and so a person, accept my supplication and grant my
 request).[^13]
 
-

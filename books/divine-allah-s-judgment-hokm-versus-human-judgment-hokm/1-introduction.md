@@ -38,4 +38,3 @@ We hope to be able to deliver our thoughts to you in the best and
 easiest manner and to clarify to you the graveness and the importance of
 this topic. Allah (SWT) is our helper and guider.
 
-

@@ -1,10 +1,6 @@
 Sorcery Hadith Is of Ahad:
 ==========================
 
-  
-  
-  
-
 The hadith on sorcery - supposing it to be correct, is a singly narrated
 one (hadith ahad), and the ahad traditions are not approved in the bab
 of doctrines (aqa’id). And the Prophet’s infallibility against impact of
@@ -37,7 +33,7 @@ knowing of the language that much enough for a wiseman to speak, they
 would have neither prated all that nonsense, nor disgraced Islam with
 that blemish. But with that who got accustomed to believe in the
 impossible, it is not possible to debate with him whatsoever. We seek
-refuge by God against insanity. <span id="_anchor_717"></span>717
+refuge by God against insanity. 717
 
 Charging the Prophet with sorcery was negated and refuted by the earlier
 ulama’ among whom I can refer, beside al-Imam (Abduh), to al-Jassas in
@@ -90,7 +86,7 @@ veracity is not binding in reality. And among the important foundations
 agreed among ulama’ of usul being: Occurrence (unexpectedly) of
 probability in the marfu’ actual conditions and events, can cover them
 with garb of wholeness, as a result of which its inferring will be
-invalid. <span id="_anchor_718"></span>718
+invalid. 718
 
 717. The tafsir of part of 'amma, pp. 183-186. Some ulama' refuted and
 disapproved narration of hadith of sorcery, among whom being the faqih

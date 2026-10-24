@@ -1,10 +1,6 @@
 The Shiah and Writing of Hadith
 ===============================
 
-  
-  
-  
-
 After discussing writing of hadith by Ahl al-Sunnah, I found it better
 to complete our discussion about history of tadwin of hadith by the
 Shi’ah so as to make commentary about this subject full-fledged on all
@@ -12,19 +8,16 @@ respects, thus:
 
 The Shi'ah hold that: The first one who collected the traditions and
 arranged them into chapters was Abu Rafi', mawla of the Messenger of
-Allah, <span id="_anchor_498"></span>498  who compiled the book al-Sunan
+Allah, 498  who compiled the book al-Sunan
 wa al-ahkam wa al-qadaya. It is said that no one preceded him in
-arranging the hadith and compiling it into chapters. <span
-id="_anchor_499"></span>499
+arranging the hadith and compiling it into chapters. 499
 
 The eminent scholar Muhammad Husayn Al Kashif al-Ghita' al-Najafi, in
-his book al-Mutala’at wa al muraja’at wa al rudud, <span
-id="_anchor_500"></span>500 writes: The first one to write hadith was
+his book al-Mutala’at wa al muraja’at wa al rudud, 500 writes: The first one to write hadith was
 Ibn Abi Rafi', a scribe of Amir al-Mu'minin Ali ibn Abi Talib (peace be
 upon him), and his treasurer or rather in fact the first who wrote down
 the hadith was Amir al-Mu'minin himself, as indicated by the report
-(khabar ) of al-Sahifah in the two Sahihs. <span
-id="_anchor_501"></span>501
+(khabar ) of al-Sahifah in the two Sahihs. 501
 
 ### Origination of Science of Hadith
 
@@ -39,9 +32,9 @@ the sahih ones and the fabricated, beside other things in this regard.
 
 ### The First Who Compiled Ilm al-Hadith:
 
-Al-Hafiz Ibn Hajar <span id="_anchor_502"></span>502  is reported to
+Al-Hafiz Ibn Hajar 502  is reported to
 have said: The first one who compiled (a book) on idioms was al-Qadi Abu
-Muhammad al-Ramhurmuzi, <span id="_anchor_503"></span>503  who authored
+Muhammad al-Ramhurmuzi, 503  who authored
 the book al-Muhaddith al-fasil bayn al-rawi wa al-wa’i, but he could not
 take up (everything). Beside him, was al-Hakim Abu Abd Allah al-Nisaburi
 (d.405) but he neither rectified nor classified. He was followed by Abu
@@ -67,16 +60,15 @@ the narrators with reliability and exactitude... etc.
 
 In his exposition of Muslim's sermon, al-Nawawi says:
 
-The purpose of ‘ilm al-hadith <span id="_anchor_504"></span>504  is to
+The purpose of ‘ilm al-hadith 504  is to
 establish the meanings of the texts and science of isnad and
 accountability. Cause (‘illah) is a meaning in the hadith that is
 concealed and resulting in weakening the hadith though it on the surface
 is free from it. And ‘illah may be some time in the text, and another
 time in the isnad (ascription). The purpose of this science is neither
-merely hearing nor making to hear nor writing, <span
-id="_anchor_505"></span>505  but rather it is paying attention to it,
+merely hearing nor making to hear nor writing, 505  but rather it is paying attention to it,
 frequenting to men of knowledge and reading the books of investigators
-and researchers on it. <span id="_anchor_506"></span>506
+and researchers on it. 506
 
 ### Ascription and Text of Hadith:
 
@@ -106,16 +98,15 @@ But adalah alone is not enough, and regarding the description of which
 there was much disagreement till saying: "It is difficult to be
 acquainted with depicting of adalah not to say determining its limits."
 There was extensive debate regarding this matter, which is out of scope
-here. They defined the dabit (corrector) <span
-id="_anchor_507"></span>507  in riwayah as that who commits less
+here. They defined the dabit (corrector) 507  in riwayah as that who commits less
 mistakes in narration, and other than him as that who commits more
-mistakes <span id="_anchor_508"></span>508  and fancy, whether this
+mistakes 508  and fancy, whether this
 being due to weakness in his ability, or failure in his strival and
 diligence. For the corrector they gave numerous traits to which we
-cannot refer now, <span id="_anchor_509"></span>509  as adalah and
+cannot refer now, 509  as adalah and
 exactitude each having high, middle and low ranks, the combination of
 which constitutes degrees for hadith differing in respect of strength
-and weakness. <span id="_anchor_510"></span>510
+and weakness. 510
 
 Thiqah (trustworthy) is that who possesses both adalah and exactitude,
 and it is not necessarily that whatever reported by the precise

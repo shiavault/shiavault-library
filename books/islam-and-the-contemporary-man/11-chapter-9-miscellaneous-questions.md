@@ -309,11 +309,7 @@ does not mean that other parts of the world did not have prophets. In
 fact, verse 24 of *Surah Fatir* affirms that all nations have had their
 prophet:
 
-<blockquote dir="rtl">
-  <p>
-…مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
-  </p>
-</blockquote>
+> …مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
 
 ***“…and there is not a nation but a warner has passed in
 it*****.*****”***
@@ -353,20 +349,12 @@ imperfection? The answer in a word is: the cosmic purpose of the
 universe is that the most perfect creature, the human being, should come
 into existence.
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا
 
 ***“…It is He who created for you all that is in the earth…”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعًا
-مِنْهُ ۚ
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعًا
+> مِنْهُ ۚ
 
 ***“And He has disposed for you whatever is in the heavens and whatever
 is in the earth…”***[^5]
@@ -401,11 +389,7 @@ creation and the legislator and as such is not bound by what He
 legislates; what He does is certainly out of justice and for good.
 Khidr’s statement,
 
-<blockquote dir="rtl">
-  <p>
-وَمَا فَعَلْتُهُ عَنْ أَمْرِي…
-  </p>
-</blockquote>
+> وَمَا فَعَلْتُهُ عَنْ أَمْرِي…
 
 ***“…I did not do that out of my own accord…”***[^7]
 
@@ -444,21 +428,13 @@ The Meaning of Indhar (Warning) in Reference To Animals
 
 ### Question
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
-إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ
-  </p>
-</blockquote>
+> وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
+> إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ
 
 ***“…There is no animal on land, nor a bird that flies with its wings,
 but they are communities like yourselves…”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ ….
-  </p>
-</blockquote>
+> وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ ….
 
 ***“And there is not a community but a warner has passed in it…”***[^9]
 
@@ -481,22 +457,14 @@ Adam’s Deception by Satan
 The following two verses seem to contradict the account of Satan
 deceiving Adam:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ
-مِنَ الْغَاوِينَ
-  </p>
-</blockquote>
+> إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ
+> مِنَ الْغَاوِينَ
 
 ***“Indeed as for My servants you do not have any authority over
 them.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ
 
 ***“Indeed God chose Adam and Noah, and the progeny of Abraham and the
 progeny of Imran above all the nations.”***[^11]
@@ -508,13 +476,9 @@ deceived into eating from the fruit of the forbidden tree?
 
 According to verse 38 of *Surah al-Baqarah*
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي
-هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي
+> هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ
 
 **(*****“We said, ‘Get down from it, all together! Yet, should any
 guidance come to you from Me, those who follow My guidance shall have no
@@ -525,11 +489,7 @@ God’s special servants enjoy (in being immune from Satanic temptations)
 as described in verse 15:42 pertains to this world. Moreover, according
 to verse 122 of *Surah Ta Ha*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَىٰ
-  </p>
-</blockquote>
+> ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَىٰ
 
 **(*****“Then his Lord chose him, and turned to him clemently, and
 guided him.”*****),**
@@ -565,11 +525,7 @@ provided therein are dubious. What can be said with certainty is that
 the Prophet pointed to the moon, which caused it to split in half. This
 much of the story is verified by the Qur’an—
 
-<blockquote dir="rtl">
-  <p>
-اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ
-  </p>
-</blockquote>
+> اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ
 
 ***“The hour has drawn near and the moon is split.”***[^12]
 
@@ -592,11 +548,7 @@ the context. The next verse (*Surah al-Qamar* 54:2) clearly indicates
 that the splitting of the moon referred to in the first verse is a
 miracle that actually took place during the life of the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ
-  </p>
-</blockquote>
+> وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ
 
 ***“If they see a sign, they turn away and say, ‘An incessant
 magic!’”***
@@ -688,12 +640,8 @@ of that society just as leaving the lives of the constituent individuals
 of a society unprotected is tantamount to destroying the entire
 collective life of that society:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ
-فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا
-  </p>
-</blockquote>
+> أَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ
+> فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا
 
 ***“…whoever kills a soul, without its being guilty of manslaughter or
 corruption on the earth, is as though he had killed all
@@ -850,5 +798,4 @@ procure the necessities and comforts needed to lead a happy life.
 [trans.]
 
 [^15]: Surah al-Ma’idah 5:32.
-
 

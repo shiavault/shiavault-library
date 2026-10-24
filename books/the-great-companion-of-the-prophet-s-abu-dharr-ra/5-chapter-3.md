@@ -385,4 +385,3 @@ hands he exercised a little strictness in making them Muslims. When a
 group of the Quraysh came over there, he presented Islam to them, and
 consequently a large number of the Quraysh embraced Islam.
 
-

@@ -24,4 +24,3 @@ captives of the cursed family!"
 Consequently, the duration that the Hussain convoy stayed in Kufa was
 twelve days.10
 
-

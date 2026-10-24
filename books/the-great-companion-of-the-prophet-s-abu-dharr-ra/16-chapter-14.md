@@ -165,4 +165,3 @@ quoted from Tarikh Ya'qubi
 
 [^5]: Majalisul Mu'minin p. 119
 
-

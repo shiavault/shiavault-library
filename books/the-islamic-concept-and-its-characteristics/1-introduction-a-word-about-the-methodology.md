@@ -83,7 +83,6 @@ the character of the Messenger of Allah (peace be on him), she replied,
 aptly, summing up a deep truth, "His character was the Qur'an"
 (Al-Nasa'i).
 
-
 Later generations drifted away from the Qur'an, from its particular
 style, its guidance, and from the milieu of values and practice similar
 to those found in the milieu in which the Qur'an was revealed. Only
@@ -133,7 +132,6 @@ They consider it to be a favor on you (Muhammad) that they have
 accepted Islam. Say: Your acceptance of Islam is not a favor to me. Nay,
 rather Allah has conferred a favor on you by guiding you to faith, if
 you are (really) truthful (Al-­Hujurat 49:17).
-
 
 And again, the truth of His exhortation to them:
 
@@ -734,24 +732,23 @@ present the second part, "The Constituents of the Islamic Concept."
 
 And Allah is our Guide and Helper.
 
-[^1] The Arabic word din is often translated as "religion," but this is
+[^1]: The Arabic word din is often translated as "religion," but this is
 misleading because the term "religion" in the English language is
 usually restricted to personal worship, whereas din refers to every
 aspect of life. (Editor).
 
-[^2] Lit., "ignorance" As used in the Islamic sense ,jahiliyyah denotes
+[^2]: Lit., "ignorance" As used in the Islamic sense ,jahiliyyah denotes
 ignorance or lack of awareness of Allah's guidance for mankind, whether
 of the ancient or the contemporary variety (trans.).
 
-[^3] One of the battles of the Prophet's era (trans.).
+[^3]: One of the battles of the Prophet's era (trans.).
 
-[^4] T. W. Arnold, The Preaching of Is lam, p. 53.
+[^4]: T. W. Arnold, The Preaching of Is lam, p. 53.
 
-[^5] Muhammad Iqbal (1873-1938), poet and philosopher from the Punjab
+[^5]: Muhammad Iqbal (1873-1938), poet and philosopher from the Punjab
 (Pakistan). The reference here is to Iqbal's book. The Reconstruction of
 Religious Thought in Islam (Trans).
 
-[^6] For further clarification of this point, see the chapter entitled'
+[^6]: For further clarification of this point, see the chapter entitled'
 'The Divine Origin of the Islamic Concept" in the present volume.
-
 

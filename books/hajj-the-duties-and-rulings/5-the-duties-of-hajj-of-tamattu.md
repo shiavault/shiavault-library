@@ -25,9 +25,7 @@ Allah Almighty".
 The timing of the HAJJ of TAMATTU' is after completing the duties of
 UMRAH of TAMATTU' and before time of WUQUF in ARAFAAT.
 
-
 **2. Wuquf in Arafat**
-
 
 The second duty of the HAJJ is WUQUF in ARAFAAT, which is to remain in
 ARAFAAT on ARAFAH Day (the ninth day of Dhil-Hajjah) from Noon until
@@ -79,5 +77,4 @@ Almighty".
 
 On the occasion of the first HAJJ as a recommended precaution the male
 HAAJJ must shave his head.
-
 

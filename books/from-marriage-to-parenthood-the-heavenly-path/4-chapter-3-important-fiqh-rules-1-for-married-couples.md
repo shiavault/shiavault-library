@@ -470,4 +470,3 @@ will suffice.[^37]
 
 [^37]: Islamic Laws, Rule 172
 
-

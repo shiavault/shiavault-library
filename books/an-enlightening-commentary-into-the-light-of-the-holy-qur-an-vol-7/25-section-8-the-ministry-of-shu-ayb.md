@@ -4,14 +4,10 @@ Section 8: The Ministry of Shu‘ayb
 Surah Hud – Verse 84
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِلَي مَدْيَنَ أَخَاهُمْ شُعَيْباً قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ
-مَا لَكُم مِنْ إِلَهٍ غَيْرُهُ وَلا تَنْقُصُوا الْمِكْيَالَ
-وَالْمِيزَانَ إِنّي أَرَاكُم بِخَيْرٍ وإِنّي أَخَافُ عَلَيْكُمْ
-عَذَابَ يَوْمٍ مُحِيطٍ
-  </p>
-</blockquote>
+> وإِلَي مَدْيَنَ أَخَاهُمْ شُعَيْباً قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ
+> مَا لَكُم مِنْ إِلَهٍ غَيْرُهُ وَلا تَنْقُصُوا الْمِكْيَالَ
+> وَالْمِيزَانَ إِنّي أَرَاكُم بِخَيْرٍ وإِنّي أَخَافُ عَلَيْكُمْ
+> عَذَابَ يَوْمٍ مُحِيطٍ
 
 ***84. “And to (the people of) Madyan (We sent) their brother Shu‘ayb.
 He said: ‘O my people! Worship Allah! You have no other Allah than He.
@@ -77,13 +73,9 @@ an all-encompassing Day’.”***
 Surah Hud – Verse 85
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ أَوْفُوا الْمِكْيَالَ وَالْمِيزَانَ بِالْقِسْطِ وَلا
-تَبْخَسُوا النَّاسَ أَشْيَآءَهُمْ وَلا تَعْثَوْا فِي الأَرْضِ
-مُفْسِدِينَ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ أَوْفُوا الْمِكْيَالَ وَالْمِيزَانَ بِالْقِسْطِ وَلا
+> تَبْخَسُوا النَّاسَ أَشْيَآءَهُمْ وَلا تَعْثَوْا فِي الأَرْضِ
+> مُفْسِدِينَ
 
 ***85. “And O my people! Fill up the measure and the balance in justice,
 and do not diminish the people their things: and do not mischief in the
@@ -133,12 +125,8 @@ in any society.
 Surah Hud – Verse 86
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِن كُنتُم مُؤْمِنِينَ وَمَآ أَنَاْ
-عَلَيْكُمْ بِحَفِيظٍ
-  </p>
-</blockquote>
+> بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِن كُنتُم مُؤْمِنِينَ وَمَآ أَنَاْ
+> عَلَيْكُمْ بِحَفِيظٍ
 
 ***86. “(The lawful wealth) which is left by Allah is better for you, if
 you be believers. And I am not a guardian over you.”***
@@ -172,13 +160,9 @@ Certainly the other immaculate Imams (as) have been also entitled as:
 Surah Hud – Verse 87
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا شُعَيْبُ أَصَلاتُكَ تَأْمُرُكَ أَن نَتْرُكَ مَا يَعْبُدُ
-ابَآؤُنَآ أَوْ أَن نَفْعَلَ فِي أَمْوَالِنَا مَا نَشَآءُ إِنَّكَ
-لاَنتَ الْحَلِيمُ الرَّشِيدُ
-  </p>
-</blockquote>
+> قَالُوا يَا شُعَيْبُ أَصَلاتُكَ تَأْمُرُكَ أَن نَتْرُكَ مَا يَعْبُدُ
+> ابَآؤُنَآ أَوْ أَن نَفْعَلَ فِي أَمْوَالِنَا مَا نَشَآءُ إِنَّكَ
+> لاَنتَ الْحَلِيمُ الرَّشِيدُ
 
 ***87. “They said: ‘O Shu‘ayb! Does your prayer command you that we
 should leave off that our fathers worshipped, or we (should forsake to
@@ -228,15 +212,11 @@ of prayer.
 Surah Hud – Verse 88
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَي بَيّنَةٍ مِن رَبّي
-وَرَزَقَنِي مِنْهُ رِزْقاً حَسَناً وَمَآ اُرِيدُ أَنْ اُخَالِفَكُمْ
-إِلَي مَآ أَنْهَاكُمْ عَنْهُ إِنْ اُرِيدُ إِلاَّ الإِصْلاَحَ مَا
-اسْتَطَعْتُ وَمَا تَوْفِيقِي إِلاَّ بِاللَّهِ عَلَيْهِ تَوَكَّلْتُ
-وَإِلَيْهِ اُنِيبُ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَي بَيّنَةٍ مِن رَبّي
+> وَرَزَقَنِي مِنْهُ رِزْقاً حَسَناً وَمَآ اُرِيدُ أَنْ اُخَالِفَكُمْ
+> إِلَي مَآ أَنْهَاكُمْ عَنْهُ إِنْ اُرِيدُ إِلاَّ الإِصْلاَحَ مَا
+> اسْتَطَعْتُ وَمَا تَوْفِيقِي إِلاَّ بِاللَّهِ عَلَيْهِ تَوَكَّلْتُ
+> وَإِلَيْهِ اُنِيبُ
 
 ***88. “He said: ‘O My people! Bethink you’ If I be upon a clear proof
 from my Lord, and He has provided me with fair sustenance from Him? And
@@ -278,13 +258,9 @@ Shu‘ayb continues saying:
 Surah Hud – Verse 89
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ لاَ يَجْرِمَنَّكُمْ شِقَاقِي أَن يُصِيبَكُم مِثْلُ مَآ
-أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَالِحٍ وَمَا
-قَوْمُ لُوطٍ مِنكُم بِبَعِيدٍ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ لاَ يَجْرِمَنَّكُمْ شِقَاقِي أَن يُصِيبَكُم مِثْلُ مَآ
+> أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَالِحٍ وَمَا
+> قَوْمُ لُوطٍ مِنكُم بِبَعِيدٍ
 
 ***89. “And O My people! Let not (your) breach with me cause you to sin,
 lest befalls you the like of what befell the people of Noah, or the
@@ -319,12 +295,8 @@ off from you.”***
 Surah Hud – Verse 90
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ رَبّي رَحِيمٌ
-وَدُودٌ
-  </p>
-</blockquote>
+> وَاسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ رَبّي رَحِيمٌ
+> وَدُودٌ
 
 ***90. “(Then come) and ask forgiveness of your Lord, and turn unto Him
 (in repentance): Verily my Lord is Merciful, Loving.”***
@@ -355,13 +327,9 @@ It says:
 Surah Hud – Verse 91
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا شُعَيْبُ مَا نَفْقَهُ كَثِيراً مِمَّا تَقُولُ وَإِنَّا
-لَنَرَاكَ فِينَا ضَعِيفاً وَلَوْلاَ رَهْطُكَ لَرَجَمْنَاكَ وَمَآ أَنتَ
-عَلَيْنَا بِعَزِيزٍ
-  </p>
-</blockquote>
+> قَالُوا يَا شُعَيْبُ مَا نَفْقَهُ كَثِيراً مِمَّا تَقُولُ وَإِنَّا
+> لَنَرَاكَ فِينَا ضَعِيفاً وَلَوْلاَ رَهْطُكَ لَرَجَمْنَاكَ وَمَآ أَنتَ
+> عَلَيْنَا بِعَزِيزٍ
 
 ***91. “They said: ‘O Shu‘ayb! We do not understand much of what you
 say; and most surely we see you weak among us. Were it not for your
@@ -416,13 +384,9 @@ past generations.
 Surah Hud – Verse 92
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ أَرَهْطِي أَعَزُّ عَلَيْكُم مِنَ اللَّهِ
-وَاتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيّاً إِنَّ رَبّي بِمَا تَعْمَلُونَ
-مُحِيطٌ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ أَرَهْطِي أَعَزُّ عَلَيْكُم مِنَ اللَّهِ
+> وَاتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيّاً إِنَّ رَبّي بِمَا تَعْمَلُونَ
+> مُحِيطٌ
 
 ***92. “He said: ‘O my people! Is then my family more esteemed with you
 than Allah? And you cast Him behind your back, with neglect. Verily my
@@ -461,13 +425,9 @@ The verse concludes:
 Surah Hud – Verse 93
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ اعْمَلُوا عَلَي مَكَانَتِكُمْ إِنّي عَامِلٌ سَوْفَ
-تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَمَنْ هُوَ كَاذِبٌ
-وَارْتَقِبُوا إِنّي مَعَكُمْ رَقِيبٌ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ اعْمَلُوا عَلَي مَكَانَتِكُمْ إِنّي عَامِلٌ سَوْفَ
+> تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَمَنْ هُوَ كَاذِبٌ
+> وَارْتَقِبُوا إِنّي مَعَكُمْ رَقِيبٌ
 
 ***93. “And O my people! Act according to your ability. I will do (my
 part). Soon you will know on whom comes the Penalty disgracing him, and
@@ -507,20 +467,12 @@ The verse says:
 Surah Hud – Verses 94 - 95
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْباً وَالَّذِينَ ءَامَنُوا
-مَعَهُ بِرَحْمَةٍ مِنَّا وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ
-فَاَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ
-  </p>
-</blockquote>
+> وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْباً وَالَّذِينَ ءَامَنُوا
+> مَعَهُ بِرَحْمَةٍ مِنَّا وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ
+> فَاَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-كَاَن لَمْ يَغْنَوْا فِيهَآ أَلاَ بُعْداً لِمَدْيَنَ كَمَا بَعِدَتْ
-ثَمُودُ
-  </p>
-</blockquote>
+> كَاَن لَمْ يَغْنَوْا فِيهَآ أَلاَ بُعْداً لِمَدْيَنَ كَمَا بَعِدَتْ
+> ثَمُودُ
 
 ***94. “And when Our Command came, We saved Shu‘ayb and those who
 believed with him by a mercy from Us, and the (heavenly) Blast overtook
@@ -580,5 +532,4 @@ people of) Thamud.”***
 
 [^3]: The term /wadud/ refers to that kind of friendship which is
 everlasting.
-
 

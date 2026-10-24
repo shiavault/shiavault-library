@@ -29,7 +29,7 @@ hasan (fair).
 
 **Notes:**
 
-[^53] Al-Musnad, hadith no. 1376 and also hadith no. 1377 with a slight
+[^53]: Al-Musnad, hadith no. 1376 and also hadith no. 1377 with a slight
 variation in its text and a different chain of authority (Ahmad
 Sha-kir).
 

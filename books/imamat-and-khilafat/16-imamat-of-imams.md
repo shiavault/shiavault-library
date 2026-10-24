@@ -93,4 +93,3 @@ from the viewpoint of the principles of leadership.
 mentioned in the article on Islamic maturity in the Book, Divine Succur
 in Human Life.
 
-

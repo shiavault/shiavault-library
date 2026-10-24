@@ -8,11 +8,7 @@ Attaining Nearness To Allah
 asking [them for anything].
 
 > 1ـ التَّقَرُّبُ إلَى اللّهِ تَعالى بِمَسْئَلَتِهِ، وإلَى النّاسِ
-<blockquote dir="rtl">
-  <p>
-بِتَرْكِها.
-  </p>
-</blockquote>
+> بِتَرْكِها.
 
 2. Address your complaints to one who is capable of sufficing you.
 
@@ -22,31 +18,18 @@ asking [them for anything].
 those who seek nearness to Him.
 
 > 3ـ تَقَرَّبْ إلََى اللّهِ سُبْحانَهُ فَإنَّهُ يُزْلِفُ المُتَقَرِّبينَ
-<blockquote dir="rtl">
-  <p>
-إلَيْهِ.
-  </p>
-</blockquote>
+> إلَيْهِ.
 
 4. Seek nearness to Allah, the Glorified, through prostration (*sujūd*),
 bowing (*rukū’*), submission to His majesty and reverence (or
 subservience).
 
 > 4ـ تَقَرَّبْ إلَى اللّهِ سُبْحانَهُ بِالسُّجُودِ والرُّكُوعِ
-<blockquote dir="rtl">
-  <p>
-والخُضُوعِ لِعَظَمَتِهِ والخُشُوعِ(الخُنُوعِ).
-  </p>
-</blockquote>
+> والخُضُوعِ لِعَظَمَتِهِ والخُشُوعِ(الخُنُوعِ).
 
 5. Nothing brings one closer to Allah, the Glorified, except copious
 prostration (*sujūd*) and bowing (*rukū’*).
 
 > 5ـ لا يُقَرِّبُ مِنَ اللّهِ سُبْحانَهُ إلاّ كَثْرَةُ السُّجُودِ
-<blockquote dir="rtl">
-  <p>
-والرُّكُوعِ
-  </p>
-</blockquote>
-
+> والرُّكُوعِ
 

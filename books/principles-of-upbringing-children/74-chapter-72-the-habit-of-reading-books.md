@@ -246,4 +246,3 @@ of the great personages.
 
 [^15]: Mustadrak al-wasail, v 2, Page, 625
 
-

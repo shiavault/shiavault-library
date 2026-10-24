@@ -19,4 +19,3 @@ Musaffa made close observation on the process of research and the
 management of the conference, which were finalized by Dr. Salimi and Dr.
 Mushirzadih.
 
-

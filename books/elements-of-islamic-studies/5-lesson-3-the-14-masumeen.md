@@ -36,4 +36,3 @@ him) whenever we utter or hear names of Ma’sumeen. Similarly we should
 stand up, as a mark of reverence, whenever we utter or hear the name of
 the Imam of our time, (twelfth Imam).
 
-

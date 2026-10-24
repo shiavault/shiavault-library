@@ -43,4 +43,3 @@ value and the significance of the Qur'an as seen by the Ahlul-Bait
 but, also, encouraged the Muslims to follow its principles, memorize it,
 and build their lives on its foundations.
 
-

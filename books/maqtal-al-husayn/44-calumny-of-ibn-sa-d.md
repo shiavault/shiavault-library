@@ -55,4 +55,3 @@ al-Tahthib, Vol. 2, p. 253.
 
 [^2]: al-Tabari, Tarikh, Vol. 1, p. 235.
 
-

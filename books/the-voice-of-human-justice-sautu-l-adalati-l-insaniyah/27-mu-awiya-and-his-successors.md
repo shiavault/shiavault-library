@@ -671,4 +671,3 @@ Even if the supporters of the Umayyads reject all that has been said by
 the old and modern historians and orientalists about Umayyad mentality,
 can they reject what has been said by Walid son of Yazid?
 
-

@@ -392,4 +392,3 @@ desire to put out the light of Allah with their mouths and Allah will
 not consent save to perfect His light, though the unbelievers are
 averse}. [AL-TAWBA: 32].
 
-

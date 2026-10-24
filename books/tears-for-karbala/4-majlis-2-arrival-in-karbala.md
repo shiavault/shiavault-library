@@ -115,4 +115,3 @@ three days and nights. Many little children died from thirst and hunger.
 
 **Matam Al-Husayn!**
 
-

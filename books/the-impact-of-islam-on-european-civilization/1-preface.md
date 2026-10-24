@@ -12,4 +12,3 @@ studied Arabic, and translated Islamic sciences into Latin. Through
 trade and crusade wars too some aspects of Islamic culture were
 transmitted to the West.
 
-

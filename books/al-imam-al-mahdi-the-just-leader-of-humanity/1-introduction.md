@@ -57,4 +57,3 @@ sufficiently clear for me, and so far I have not been able to convince
 myself of its veracity, I would very much like to discuss the subject
 and benefit from your study and research on the topic.”
 
-

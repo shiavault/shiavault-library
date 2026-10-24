@@ -216,4 +216,3 @@ with the best of recompense.
 
 [^4]: Vol. 1, Pg. 366.
 
-

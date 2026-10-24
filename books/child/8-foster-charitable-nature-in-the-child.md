@@ -120,7 +120,6 @@ relation often pays off handsomely in one's lifetime in this world also.
 Allah swt makes the relatives the cause or agency for the grant of His
 grace.
 
-
 **Childhood Nickname can Stunt Personality**
 
 **A girl**
@@ -233,7 +232,6 @@ under a common surname. When a similarity of names exists in a local
 community, one child is then distinguished from the other by a
 nickname.
 
-
 **Disciplinarian Parents on the Wrong Footing**
 
 Arguments between father and son are not uncommon in a family. However,
@@ -325,5 +323,4 @@ disciplinarian parents are on the right footing with their disciplining
 to earn the child' respect and not hatred!
 
 To each of us, childhood isn't a matter of moments but memories. , '
-
 

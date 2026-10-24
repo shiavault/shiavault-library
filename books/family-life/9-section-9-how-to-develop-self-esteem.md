@@ -124,4 +124,3 @@ feel good about yourself.
 forgetting your own worries and helping someone else can give your
 self-esteem a big boost.
 
-

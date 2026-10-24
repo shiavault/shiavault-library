@@ -95,4 +95,3 @@ about him, thus confusing them. And if he wishes to fast for the sake of
 seeking nearness to Allāh, he should contend himself with Allāh's
 knowledge, associating none with Him.
 
-

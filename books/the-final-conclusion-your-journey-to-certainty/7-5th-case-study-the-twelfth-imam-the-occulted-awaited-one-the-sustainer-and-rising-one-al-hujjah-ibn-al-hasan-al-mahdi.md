@@ -1955,4 +1955,3 @@ among his supporters, believers, and soldiers. We will sacrifice
 ourselves for him with our bodies, blood, and money. May Allah (SWT)
 bear witness to our testimony!”
 
-

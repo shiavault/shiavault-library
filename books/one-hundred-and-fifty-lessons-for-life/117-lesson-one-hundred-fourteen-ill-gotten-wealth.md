@@ -3,11 +3,7 @@ Lesson One Hundred Fourteen: Ill-Gotten Wealth
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يَكْسِبُ مِنْ غَيْرِ حَقِّهِ يَصْرِفُهُ فِي غَيْرِ أَجْرِهِ
-  </p>
-</blockquote>
+> مَنْ يَكْسِبُ مِنْ غَيْرِ حَقِّهِ يَصْرِفُهُ فِي غَيْرِ أَجْرِهِ
 
 Translation
 -----------
@@ -29,5 +25,4 @@ virtuous individuals who have accomplished a lot of good work with their
 meager resources.
 
 [^1]: Tuhaful Uqul, page 63
-
 

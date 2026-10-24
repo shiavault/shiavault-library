@@ -343,4 +343,3 @@ clearly demonstrates that we should emphasise our spiritual needs more
 than our material needs. Evidently, we should focus more on the
 spiritual side of the self than on our corporeal body.
 
-

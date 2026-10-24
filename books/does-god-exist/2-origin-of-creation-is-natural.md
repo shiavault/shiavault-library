@@ -39,7 +39,6 @@ governed by immutable laws admitting no exceptions and guiding every
 thing toward its own unique destiny, governed by a boundless power and
 knowledge, or does it arise from chance?
 
-
 **What If You Find a Watch?**
 
 Suppose you find a watch in the middle of a desert. What would you
@@ -97,7 +96,6 @@ watch? A
 beautifully designed watch? Would they not conclude that there does
 exist a watchmaker? An intelligent watchmaker? One who appreciates
 beauty? Such is God who made us. Subhan Allah (Glory be to God)!
-
 
 **Proof That There Is a Maker**
 
@@ -202,5 +200,4 @@ He is Merciful but can not be attributed with weakness of heart.
 
 Faces feel low before His greatness and hearts tremble out of fear of
 Him.
-
 

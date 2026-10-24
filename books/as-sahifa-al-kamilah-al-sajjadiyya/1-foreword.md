@@ -194,4 +194,3 @@ Sayyid Husayn M. Ja’fari
 Karachi  
  17 January 1988
 
-

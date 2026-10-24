@@ -69,4 +69,3 @@ mission. May Almighty Allah accept our humble work.
 
 Al-Balagh Foundation
 
-

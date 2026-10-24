@@ -534,4 +534,3 @@ the Prophet had left the city with a number of Muslim warriors and was
 ready to fight, he and his supporters were overcome with fear, and were
 thus compelled to return to Mecca.
 
-

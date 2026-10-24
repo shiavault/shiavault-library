@@ -219,4 +219,3 @@ Detailed Answer
 
 [^9]: Sirr al-Salat, pg. 75 (Farsi Version)
 
-

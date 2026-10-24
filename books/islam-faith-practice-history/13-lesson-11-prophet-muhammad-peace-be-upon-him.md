@@ -252,4 +252,3 @@ Prophet Muhammad (a.s.) and his teachings.
 
 [^2]: At-Tabari, Ta'rīkh, vol. 3, p. 1171-1173.
 
-

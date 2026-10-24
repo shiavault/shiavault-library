@@ -4,13 +4,9 @@ Section 7: Enemy Weakened by Allah
 Surah Al-Anfal – Verse 49
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ
-هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ
-اللَّهَ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ
+> هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ
+> اللَّهَ عَزِيزٌ حَكِيمٌ
 
 **49*****. “(Remember) when the hypocrites said, and those in whose
 hearts were a disease: ‘Their religion has deluded them, But whoever
@@ -51,19 +47,11 @@ by His mightness and wisdom.
 Surah Al-Anfal – Verses 50-51
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَرَىٰ إِذْ يَتَوَفَّى الَّذِينَ كَفَرُوا ۙ الْمَلَائِكَةُ
-يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ وَذُوقُوا عَذَابَ الْحَرِيقِ
-  </p>
-</blockquote>
+> وَلَوْ تَرَىٰ إِذْ يَتَوَفَّى الَّذِينَ كَفَرُوا ۙ الْمَلَائِكَةُ
+> يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ وَذُوقُوا عَذَابَ الْحَرِيقِ
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ
-لِلْعَبِيدِ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ
+> لِلْعَبِيدِ
 
 **50*****. “And had you seen when the angles take away the souls of
 those who disbelieve, smiting their faces and their backs (and saying):
@@ -122,13 +110,9 @@ injustice from Himself, when He, says
 Surah Al-Anfal – Verse 52
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَفَرُوا
-بِآيَاتِ اللَّهِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ اللَّهَ
-قَوِيٌّ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَفَرُوا
+> بِآيَاتِ اللَّهِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ اللَّهَ
+> قَوِيٌّ شَدِيدُ الْعِقَابِ
 
 **52*****. “(O' Prophet! the manner of pagans of your time is also) like
 the manner of Pharaoh's clan and those before them, they disbelieved in
@@ -161,13 +145,9 @@ permanent Divine Law.
 Surah Al-Anfal – Verse 53
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا
-عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۙ وَأَنَّ اللَّهَ
-سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِعْمَةً أَنْعَمَهَا
+> عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۙ وَأَنَّ اللَّهَ
+> سَمِيعٌ عَلِيمٌ
 
 **53*****. “That is because Allah does not change a blessing He has
 bestowed on a people unless they change what is in their own selves, and
@@ -206,13 +186,9 @@ the oppressed.[^1]
 Surah Al-Anfal – Verse 54
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَذَّبُوا
-بِآيَاتِ رَبِّهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَغْرَقْنَا آلَ
-فِرْعَوْنَ ۚ وَكُلٌّ كَانُوا ظَالِمِينَ
-  </p>
-</blockquote>
+> كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَذَّبُوا
+> بِآيَاتِ رَبِّهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَغْرَقْنَا آلَ
+> فِرْعَوْنَ ۚ وَكُلٌّ كَانُوا ظَالِمِينَ
 
 **54*****. “Like the manner of Pharaoh's clan and those before them,
 they denied the Signs of their Lord, so We destroyed them for their
@@ -250,12 +226,8 @@ others. The verse concludes:
 Surah Al-Anfal – Verse 55
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا
+> يُؤْمِنُونَ
 
 **55*****. “Verily the worst of animals in Allah's sight are those who
 disbelieve, so they will not have faith.”***
@@ -287,12 +259,8 @@ show any positive reflection to it, are ***‘the worst of animals’.***
 Surah Al-Anfal – Verse 56
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ
-مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
-  </p>
-</blockquote>
+> الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ
+> مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
 
 **56*****. “Those with whom you made a covenant, then they break their
 covenant every time, and they are not pious.”***
@@ -316,12 +284,8 @@ hypocrite, although he establishes prayers and observes the fast.[^2]
 Surah Al-Anfal – Verse 57
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِمْ مَنْ
-خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِمْ مَنْ
+> خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ
 
 **57*****. “So, when you confront them in war, (by punishing them)
 scatter the ones behind them so that they might be admonished.”***
@@ -351,5 +315,4 @@ relinquish attacking you again.
 [^1]: At- Tafsir-ul-Furqan
 
 [^2]: At- Tafsir-ul-Burhan
-
 

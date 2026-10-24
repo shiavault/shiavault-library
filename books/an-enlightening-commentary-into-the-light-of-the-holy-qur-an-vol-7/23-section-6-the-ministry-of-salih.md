@@ -4,14 +4,10 @@ Section 6: The Ministry of Salih
 Surah Hud – Verse 61
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِلَي ثَمُودَ أَخَاهُمْ صَالِحاً قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ
-مَا لَكُم مِنْ إِلَهٍ غَيْرُهُ هُوَ أَنشَاَكُم مِنَ الاَرْضِ
-وَاسْتَعْمَرَكُمْ فِيهَا فَاسْتَغْفِرُوهُ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ
-رَبّي قَرِيبٌ مُجِيبٌ
-  </p>
-</blockquote>
+> وإِلَي ثَمُودَ أَخَاهُمْ صَالِحاً قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ
+> مَا لَكُم مِنْ إِلَهٍ غَيْرُهُ هُوَ أَنشَاَكُم مِنَ الاَرْضِ
+> وَاسْتَعْمَرَكُمْ فِيهَا فَاسْتَغْفِرُوهُ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ
+> رَبّي قَرِيبٌ مُجِيبٌ
 
 ***61. “And unto (the people of) Thamud (We sent) their brother Salih,
 He said: ‘O my people! Worship Allah! You have no god other than He. It
@@ -79,13 +75,9 @@ my Lord is Nigh, Responsive’.”***
 Surah Hud – Verse 62
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا صَالِحُ قَدْ كُنتَ فِينَا مَرْجُوّاً قَبْلَ هَذَآ
-أَتَنْهَانَآ أَن نَعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِي
-شَكّ‌ٍ مِمَّا تَدْعُونَآ إِلَيْه مُرِيبٍ
-  </p>
-</blockquote>
+> قَالُوا يَا صَالِحُ قَدْ كُنتَ فِينَا مَرْجُوّاً قَبْلَ هَذَآ
+> أَتَنْهَانَآ أَن نَعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِي
+> شَكّ‌ٍ مِمَّا تَدْعُونَآ إِلَيْه مُرِيبٍ
 
 ***62. “They said: ‘O Salih! You have hitherto been a source of hope
 among us. Do you (now) forbid us to worship what our fathers worshipped?
@@ -136,13 +128,9 @@ us’.”***
 Surah Hud – Verse 63
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَي بَيّنَةٍ مِن رَبّي
-وءَاتَانِي مِنْهُ رَحْمَةً فَمَن يَنْصُرُنِي مِنَ اللَّهِ إِنْ
-عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ تَخْسِيرٍ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَي بَيّنَةٍ مِن رَبّي
+> وءَاتَانِي مِنْهُ رَحْمَةً فَمَن يَنْصُرُنِي مِنَ اللَّهِ إِنْ
+> عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ تَخْسِيرٍ
 
 ***63. “He (Salih) said: ‘O’ my people! Bethink you if I be upon a clear
 proof from my Lord and He hath sent Mercy unto me from Himself, who will
@@ -171,13 +159,9 @@ to me other than loss.”***
 Surah Hud – Verse 64
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ هَذِهِ نَاقَةُ اللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ
-فِي أَرْضِ اللَّهِ وَلا تَمَسُّوهَا بِسُوءٍ فَيَاْخُذَكُمْ عَذَابٌ
-قَرِيبٌ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ هَذِهِ نَاقَةُ اللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ
+> فِي أَرْضِ اللَّهِ وَلا تَمَسُّوهَا بِسُوءٍ فَيَاْخُذَكُمْ عَذَابٌ
+> قَرِيبٌ
 
 ***64. “O my People! This she – camel of Allah is a Sign for you. So
 leave her alone to graze in Allah’s earth, and do not touch her with any
@@ -213,12 +197,8 @@ understandable for the people.
 Surah Hud – Verse 65
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلاَثَةَ أَيَّامٍ
-ذَلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ
-  </p>
-</blockquote>
+> فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلاَثَةَ أَيَّامٍ
+> ذَلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ
 
 ***65. “So they hamstrung her. Then he said: ‘Enjoy yourselves in your
 abode for three days, (then will be your ruin). That is a promise not to
@@ -253,13 +233,9 @@ scorning them will cause the infliction of Divine penalties.
 Surah Hud – Verse 66
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا صَالِحاً وَالَّذِينَ ءَامَنُوا
-مَعَهُ بِرَحْمَةٍ مِنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ إِنَّ رَبَّكَ هُوَ
-الْقَوِيُّ الْعَزِيرُ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا صَالِحاً وَالَّذِينَ ءَامَنُوا
+> مَعَهُ بِرَحْمَةٍ مِنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ إِنَّ رَبَّكَ هُوَ
+> الْقَوِيُّ الْعَزِيرُ
 
 ***66. “And when Our Decree came (to pass), We saved Salih and those who
 believed with him by a Mercy from Us, and (delivered them) from the
@@ -290,19 +266,11 @@ All-mighty.”***
 Surah Hud – Verse 67 - 68
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَخَذَ الَّذيِنَ ظَلَمُوا الصَّيْحَةُ فَاَصْبَحُوا فِي دِيَارِهِمْ
-جَاثِمِينَ
-  </p>
-</blockquote>
+> وَأَخَذَ الَّذيِنَ ظَلَمُوا الصَّيْحَةُ فَاَصْبَحُوا فِي دِيَارِهِمْ
+> جَاثِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-كَاَن لَمْ يَغْنَوْا فِيهَآ أَلآ إِنَّ ثَمُودَ كَفَرُوا رَبَّهُمْ
-أَلاَ بُعْداً لِثَـمُودَ
-  </p>
-</blockquote>
+> كَاَن لَمْ يَغْنَوْا فِيهَآ أَلآ إِنَّ ثَمُودَ كَفَرُوا رَبَّهُمْ
+> أَلاَ بُعْداً لِثَـمُودَ
 
 ***67. “And the (mighty) Blast overtook those who were unjust, so they
 became motionless corpses in their abodes.”***  
@@ -365,5 +333,4 @@ their Lord. Behold! away with Thamud!”***
 
 [^1]: Surah Ash-Shu‘ara No. 26, verses 155–158, and Surah Al-Qamar No.
 54, verses 27–31.
-
 

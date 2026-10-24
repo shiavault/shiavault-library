@@ -20,10 +20,8 @@ which are acceptable for all of them.
 A) It has been quoted in “Sunan of Beihaghi” from Abu Harira that
 Prophet (s.a.) said:
 
-<p dir="rtl">
 فى الرّكاز الخمس قيل و ما الرّكاز يا رسول اللّه؟ قال الذّهب و الفضّة
 الّذى خلقه اللّه فى الارض يوم خلقت.
-</p>
 
 There is Khums in Rekaz, a person who was there asked: What is Rekaz?
 Prophet (s.a.) answered: “Mines of gold and silver which Allah has been
@@ -86,11 +84,9 @@ you to send some people to my tribe in order to invite them to Islam,
 and please write a letter for them, may Allah guide them all. Prophet
 (s.a.) ordered to write this letter:
 
-<p dir="rtl">
 بسم الله الرّحمن الرّحيم من محمّد رسول الله الي الاقيال من حضرموت باقام
 الصّلوة و ايتاء الزٌكوة و الصّدقة علي التيعة و لصاحبها التيمة و في
 السّيوب الخمس و في البعل العشر.
-</p>
 
 In the name of Allah the Compassionate the Merciful
 
@@ -126,7 +122,6 @@ of all incomes and according to that Khums should be paid in all of
 them; and if we consider it as the exclusive meaning of mines and
 treasures, it also proves that Khums is obligatory in other than spoils
 of war and it is not exclusive to spoils of war.
-
 
 **Opinion of Commentators**
 
@@ -174,12 +169,10 @@ And in “Majma’ Al-Bayan” interpretation first advantage has been
 interpreted in the meaning of spoils of war, but during the explanation
 of the meaning of the verse it says:
 
-<p dir="rtl">
 قال اصحابنا انّ الخمس واجب فى كلّ فائدة تحصل للانسان من المكاسب و ارباح
 التّجارات، و فى الكنوز و المعادن و الغوص و غيرذلك ممّا هو مذكور فى
 الكتب، و يمكن ان يستدلّ على ذلك بهذه الاية فانّ فى عرف اللّغة يطلق على
 جميع ذلك اسم الغنم و الغنيمة
-</p>
 
 Shiite scholars believe that Khums is obligatory in any benefit that a
 person would gain, consisting of it is from business, or from treasure
@@ -234,9 +227,7 @@ the verse is one sample of that general and overall concept.
 
 For example, we read in verse 7 of Hashr Sura:
 
-<p dir="rtl">
 ما آتيكُمْ الرَّسُولُ فَخُذُوهُ وَ ما نَهيكُمْ عَنْهُ فَانْتَهُوا
-</p>
 
 Take anything which Prophet (s.a.) brings for you and abstain from
 anything which he prohibit.
@@ -259,5 +250,4 @@ says: Pay one fifth (Khums) of any income that you gain from any source
 (which one of them is spoils of war). Specially the relative word ”
 (any) and the word “شيء” (thing) which are two general and without any
 bond or condition words emphasize this matter.
-
 

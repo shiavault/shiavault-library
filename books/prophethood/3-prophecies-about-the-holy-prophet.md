@@ -344,11 +344,7 @@ Now coming to the wordings of Genesis: In this present form. This
 sentence mentions only 12 Imams- But in its original language it clearly
 gives the name of the Holy Prophet also. The Hebrew is:
 
-<blockquote dir="rtl">
-  <p>
-اتو دهربتي اتو بماد شينم اسار نسى ام
-  </p>
-</blockquote>
+> اتو دهربتي اتو بماد شينم اسار نسى ام
 
 which means "I will make him fruitful with **Madmad** and 12 princes
 shall he beget......" The translators either by habit, or to hide the
@@ -597,5 +593,4 @@ unto Him is my return.” (13:36)
 [^6]: Fatimah, the lady of Paradise, the Chief of all the women.
 
 [^7]: Imam Hasan (a.s.) and Imam Husain (a.s.).
-
 

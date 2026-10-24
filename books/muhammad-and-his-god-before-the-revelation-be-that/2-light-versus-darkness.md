@@ -372,4 +372,3 @@ clay into a purified and elevated life. He (SWT) wants man with his two
 parts, but *after* purifying his lower desires, and turning his evil
 into good.
 
-

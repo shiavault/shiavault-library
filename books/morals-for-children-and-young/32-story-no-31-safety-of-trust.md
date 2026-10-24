@@ -13,4 +13,3 @@ trust and you must keep it safely, and return it back to the owner.”
 Yes, keeping the trusted thing safe is one of the particularities of
 Islam to which the leaders of that religion have invited us.
 
-

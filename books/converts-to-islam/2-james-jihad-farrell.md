@@ -42,10 +42,10 @@ was no reason to live at all.
 Although my parents had sent us to weekly Catholic school and frequent
 the Church, my heart didnt feel alive. I would simply feel the need to
 go in order to get away from what went on at home. In school I wasnt the
-brightest child. As a 6<sup>th</sup> grader I had a reading level of a
-1<sup>st</sup> grader. Every year throughout elementary school I was
+brightest child. As a 6th grader I had a reading level of a
+1st grader. Every year throughout elementary school I was
 ordered to take summer school in order to pass to the next grade. I had
-failed the 2<sup>nd</sup> grade and hardly made through the remaining
+failed the 2nd grade and hardly made through the remaining
 next 6. It was in the elementary school when I learned how to steal. It
 would become a constant habit. Whenever I had the chance I would steal
 anything and everything I could get my hands on. Sooner than later my
@@ -209,7 +209,7 @@ nights I thought I was going to die due to the cold and hunger. I
 finally went back to the original Mosque I had dreamed about and slept
 there for one night; thats all they allowed. Soon after that a friend
 had made a deal with me. I would build a prayer area in the
-2<sup>nd</sup> level of his muffler shop and in return he would let me
+2nd level of his muffler shop and in return he would let me
 live there until I found a place of my own. As I built the prayer area I
 found a job and paid my way through college and eventually joined the
 Muslim Student Association (M.S.A.). By January 2000 a friend of mine
@@ -227,7 +227,7 @@ heart cried to go back.
 
 A few months after my return to the United States I was engaged for the
 second time. The engagement lasted about 5 months. At the ending of 2000
-I was engaged for the 3<sup>rd</sup> time. This time there was more
+I was engaged for the 3rd time. This time there was more
 chemistry between the two of us and our level of understanding life was
 mutual. We had scheduled our wedding to be in the spring of 2001. Early
 February my fianc had called me to inform me that she had cancer and was
@@ -246,7 +246,7 @@ husband had asked me if I wanted to get married and I told them, no. I
 said that I gave up on it. They told me to go home, take a shower and
 come back because they had some one for me to meet. Again, I left it all
 up to God. I went home prayed to God and did what they asked me to do.
-It was March 8<sup>th</sup> 2001 at 9 p.m. when I arrived at her house.
+It was March 8th 2001 at 9 p.m. when I arrived at her house.
 I was
 
 engaged 3 times before and on each engagement I was nervous, but not
@@ -258,7 +258,7 @@ chatted with this man for a few moments and out came his daughter. We
 spoke for a few hours and I found myself beginning to wonder how I got
 where I was. Not so much the place and time but about a year prior to
 this I was homeless, living in my car. Needless to say, this woman that
-I had just met had became my wife. We were married July 8<sup>th</sup>
+I had just met had became my wife. We were married July 8th
 2001.
 
 In the early weeks of November 2001 our lives had changed. Due to the
@@ -286,7 +286,7 @@ Allah was there to help.
 
 I worked two jobs, sometimes 3 to get back where we needed to be. At the
 same time I had reunited with my mother and sisters after a few years of
-silence. On November 6<sup>th</sup> 2002, the first day of Ramadan, my
+silence. On November 6th 2002, the first day of Ramadan, my
 son Amir James Farrell was born. My heart melted the first time I held
 him. I was there throughout the entire delivery and helped every step of
 the way. I cut the umbilical cord the first chance I got I kissed the
@@ -306,7 +306,6 @@ grateful for
 
 This brief story is a sample of just that.
 
-  
  **Holy Quran 6:88*  
  This is the guidance of Allah(swt), He guides thereby whom he pleases
 of His servants; and if they had set up others (with Him), certainly

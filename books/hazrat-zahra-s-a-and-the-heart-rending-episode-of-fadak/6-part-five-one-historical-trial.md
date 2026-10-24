@@ -196,4 +196,3 @@ gives all people the right to inherit from their parents, (which cannot
 be denied unless creditable reasons are found to its nullification), is
 counted as another proof.
 
-

@@ -111,4 +111,3 @@ battle. He was buried at the feet of King of Martyrs in Karbala.
 
 [^3]: Manaqib Ush Shafei, p 57
 
-

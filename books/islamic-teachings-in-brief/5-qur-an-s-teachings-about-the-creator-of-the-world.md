@@ -394,4 +394,3 @@ without asking them for help. Attributes of imperfection and causes for
 need and indigence, such as weakness, ignorance, death, difficulty, etc,
 will not find a way to His Holy Presence.
 
-

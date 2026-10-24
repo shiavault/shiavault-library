@@ -491,4 +491,3 @@ returned to his tribe, reporting this great calamity in one brief
 sentence: "I have brought you the news of death and massacre of our old
 and young men."175
 
-

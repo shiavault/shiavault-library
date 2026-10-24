@@ -480,4 +480,3 @@ and stubborn enemy of the caliph and caliphate. Now her opposition to
 others but for upholding her owns personality and position in an
 increasing manner.
 
-

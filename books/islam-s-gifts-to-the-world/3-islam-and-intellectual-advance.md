@@ -142,7 +142,6 @@ and relate the fundamental contributions made by Islam to all modern
 advances in science, mathematics, technology, philosophy, in many ways
 of which this brief chapter has only been able to touch the fringe.
 
-
 **Cultural Revolution**
 
 No better evidence of the passion of Islam for the spread of erudition,
@@ -490,5 +489,4 @@ we might cite-Borax, also an Arabic word booraq. Further, the arts of
 distilling, evaporation, sublimation, and the use of Sodium, Carbon,
 Potassium Carbonate, Chloride, and Ammonium were common under the
 Abbasid Caliphate.
-
 

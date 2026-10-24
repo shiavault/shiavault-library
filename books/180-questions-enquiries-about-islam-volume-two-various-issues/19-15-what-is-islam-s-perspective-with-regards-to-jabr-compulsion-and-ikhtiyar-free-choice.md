@@ -74,11 +74,7 @@ It is not just the general public, but even the learned class, the
 philosophers and the proponents of jabr too, in practice, accept
 ikhtiyar.
 
-<blockquote dir="rtl">
-  <p>
-اأَلْجَبَرِرِيُّونَ اإِخْتِيَارِِيُّيُونَ مِنْ حَيْثُ لاَ يَعْلَمُونَ!
-  </p>
-</blockquote>
+> اأَلْجَبَرِرِيُّونَ اإِخْتِيَارِِيُّيُونَ مِنْ حَيْثُ لاَ يَعْلَمُونَ!
 
 “Those, who profess the doctrine of 'jabr' are, (in practice) the
 proponents of the doctrine of 'ikhtiyar', but only they realize it not.”
@@ -86,11 +82,7 @@ proponents of the doctrine of 'ikhtiyar', but only they realize it not.”
 It is interesting to note that the Noble Qur’an has repeatedly
 emphasized this issue too. In verse 39 of Suratul Naba it says:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ شَآءَ اتَّخَذَ إِلـى‏ رَبِّهِ مَآباً
-  </p>
-</blockquote>
+> فَمَنْ شَآءَ اتَّخَذَ إِلـى‏ رَبِّهِ مَآباً
 
 ***“So whoever desires may take refuge with his Lord.”***
 
@@ -98,21 +90,13 @@ In other verses too great emphasis has been laid upon man's will, and
 since mentioning all of them would only serve to prolong the discussion,
 we shall content ourselves by presenting only two verses below:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِراً وَ إِمَّا كَفُوراً
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِراً وَ إِمَّا كَفُوراً
 
 ***“Surely We have shown him the way: he may be thankful or
 unthankful.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ شَاءَ فَلْيُؤْمِنْ وَ مَنْ شَآءَ فَلْيَكْفُرْ إِنَّا
-أَعْتَدْنَا لِلظَّالِمِينَ نَارًا
-  </p>
-</blockquote>
+> فَمَنْ شَاءَ فَلْيُؤْمِنْ وَ مَنْ شَآءَ فَلْيَكْفُرْ إِنَّا
+> أَعْتَدْنَا لِلظَّالِمِينَ نَارًا
 
 ***“So let him who please believe, and let him who please disbelieve;
 surely We have prepared for the iniquitous a fire.”***[^2]
@@ -150,11 +134,7 @@ of the sinners would become justified and there would be no difference
 between an offender and an obedient person.[^3]  
  The verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا رَبُّكَ بِظَلاَّمٍ لِلْعَبِيدِ
-  </p>
-</blockquote>
+> وَ مَا رَبُّكَ بِظَلاَّمٍ لِلْعَبِيدِ
 
 ***“And your Lord is not in the least unjust to the servants”***[^4]
 
@@ -176,40 +156,24 @@ person himself.
 And hence we read in a tradition that one of companions Imam 'Ali ibne
 Musa al-Ridha (a.s.) asked:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ يَجْبُرُ اللٌّهُ عِبَادَهُ عَلى الْـمَعَاصِي؟
-  </p>
-</blockquote>
+> هَلْ يَجْبُرُ اللٌّهُ عِبَادَهُ عَلى الْـمَعَاصِي؟
 
 “Does Allah (s.w.t.) compel His servants to commit sins?”
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ: بَلْ يُخَيِّرُهُمْ وَ يُـمَهِّلُهُمْ حَتَّـى يَتُوبُوا.
-  </p>
-</blockquote>
+> فَقَالَ: بَلْ يُخَيِّرُهُمْ وَ يُـمَهِّلُهُمْ حَتَّـى يَتُوبُوا.
 
 Whereupon he (a.s.) replied: “No. Rather, he gives them the choice and
 respites them until they repent.”  
  The companion persisted:
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ يُكَلِّفُ عِبَادَهُ مَا لاَ يَطِيقُونَ‏؟
-  </p>
-</blockquote>
+> فَهَلْ يُكَلِّفُ عِبَادَهُ مَا لاَ يَطِيقُونَ‏؟
 
 “Does He place upon them obligations that are beyond their ability to
 perform?”  
  The Imam (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ يَفْعَلُ ذٌلِكَ وَ هُوَ يَقُولُ: وَ مَا رَبُّكَ بِظَلاَّمٍ
-لِلْعَبِيدِ
-  </p>
-</blockquote>
+> كَيْفَ يَفْعَلُ ذٌلِكَ وَ هُوَ يَقُولُ: وَ مَا رَبُّكَ بِظَلاَّمٍ
+> لِلْعَبِيدِ
 
 “How can He do such a thing when He Himself has said (in the Qur’an)
 'And your Lord is not in the least unjust to the servants?'”
@@ -232,11 +196,7 @@ performed.[^6]
 
 In verse 29 of Suratul Insan, we recite:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هٌذِهِ تَذْكِرَةٌ فَمَنْ شَآءَ اتَّخَذَ إِلـى‏ رَبِّهِ سَبِيلاً
-  </p>
-</blockquote>
+> إِنَّ هٌذِهِ تَذْكِرَةٌ فَمَنْ شَآءَ اتَّخَذَ إِلـى‏ رَبِّهِ سَبِيلاً
 
 ***“Surely this is a reminder, so whoever pleases takes to his Lord a
 way.”***
@@ -245,31 +205,19 @@ And since it was possible that narrow-minded individuals might have
 interpreted the above expression to mean absolute and unqualified
 tafwidh (entrusting to Allah), the next verse goes on to say:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا تَشَآؤُوْنَ إِلاَّ أَنْ يَشَآءَ اللٌّهُ‏
-  </p>
-</blockquote>
+> وَ مَا تَشَآؤُوْنَ إِلاَّ أَنْ يَشَآءَ اللٌّهُ‏
 
 “And you do not please except that Allah please.”
 
 And finally says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ كَانَ عَلِيماً حَكِيماً
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ كَانَ عَلِيماً حَكِيماً
 
 “Surely Allah is Knowing, Wise.”
 
 And this, in reality, is establishing the well-known belief of:
 
-<blockquote dir="rtl">
-  <p>
-أَلأَمْرُ بَيْنَ الأَمْرَينِ.
-  </p>
-</blockquote>
+> أَلأَمْرُ بَيْنَ الأَمْرَينِ.
 
 “The (actual) issue is that which lies between the two (extreme) issues
 of total compulsion and total freedom.”
@@ -301,12 +249,8 @@ advocate the doctrine of jabr - like Fakhr Razi - have adhered to this
 verse is due to the preconceived views which they had harboured in
 connection with the issue. Fakhr Razi says:
 
-<blockquote dir="rtl">
-  <p>
-وَ اعْلَمْ إِنَّ هَذِهِ الْآيَةَ مِنْ جُمْلَةِ الآيَاتِ الَّتِيْ
-تَلاَطَمَتْ فِيْهَا أَمْوَاجُ الْجَبْرِ وَ الْقَدْرِ.
-  </p>
-</blockquote>
+> وَ اعْلَمْ إِنَّ هَذِهِ الْآيَةَ مِنْ جُمْلَةِ الآيَاتِ الَّتِيْ
+> تَلاَطَمَتْ فِيْهَا أَمْوَاجُ الْجَبْرِ وَ الْقَدْرِ.
 
 “Do know that this verse is one of the verses which indicate upon 'jabr'
 and predestination!”[^7]
@@ -316,11 +260,7 @@ there would be room for this delusion; however, in view of the fact that
 in one verse the effect of ikhtiyar has been mentioned while in the
 other verse the effect of Allah's Will, the issue of:
 
-<blockquote dir="rtl">
-  <p>
-أَلأَمْرُ بَيْنَ الأَمْرَينِ.
-  </p>
-</blockquote>
+> أَلأَمْرُ بَيْنَ الأَمْرَينِ.
 
 is quite plainly established.
 
@@ -335,11 +275,7 @@ judgment should take place.
 
 It is likely that the last part of the verse which states….
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ كَانَ عَلِيماً حَكِيماً
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ كَانَ عَلِيماً حَكِيماً
 
 “Surely Allah (s.w.t.) s Knowing, Wise.”
 
@@ -367,5 +303,4 @@ punish the second.[^8]
 [^7]: Commentary of Fakhr Razi, vol. 30, pg. 262
 
 [^8]: Tafsir-e-Namuna, vol. 25, pg. 385
-
 

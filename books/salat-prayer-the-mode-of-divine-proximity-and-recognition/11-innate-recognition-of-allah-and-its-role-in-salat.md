@@ -6,12 +6,8 @@ Ahlul Bayt (‘a), any person who steps into this world, bears the
 recognition of Allah. This introduction was in a world prior to this and
 was firmly ingrained in his heart. Imam As-Sadiq (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-ثَبَتَتِ الْمَعْرِفَةُ وَ نَسُوا الْوَقْتَ. وَسَيَذْكُرُونَهُ يَوْماً.
-وَ لَولا ذلِكَ لَمْ يَدْرِ أَحَدٌ مَنْ خَالِقُهُ وَ لا مَنْ رَازِقُهُ.
-  </p>
-</blockquote>
+> ثَبَتَتِ الْمَعْرِفَةُ وَ نَسُوا الْوَقْتَ. وَسَيَذْكُرُونَهُ يَوْماً.
+> وَ لَولا ذلِكَ لَمْ يَدْرِ أَحَدٌ مَنْ خَالِقُهُ وَ لا مَنْ رَازِقُهُ.
 
 “Recognition (of Allah) was established and they forgot the occasion.
 Soon, they will remember it on a day. If this (recognition) was not
@@ -20,13 +16,9 @@ sustainer.”[^1]
 
 Allah the Almighty orders,
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
 
 ***“Then turn your face towards the religion, being upright. The nature
 of Allah on which He has created man. There is no change in Allah’s
@@ -35,12 +27,8 @@ creation. This is the strong religion but most people know not.”
 
 Explaining the above verse, Imam As-Sadiq (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-فَطَرَ هُمْ عَلَى التَّوْحِيدِ عِنْدَ الْمِيثاقِ عَلى مَعْرِ فَتِهِ
-أَنَّهُ رَبُّهُمْ...
-  </p>
-</blockquote>
+> فَطَرَ هُمْ عَلَى التَّوْحِيدِ عِنْدَ الْمِيثاقِ عَلى مَعْرِ فَتِهِ
+> أَنَّهُ رَبُّهُمْ...
 
 “He created them on monotheism at the covenant (meethaaq) on His
 recognition that He is their Lord…”[^2]
@@ -48,32 +36,20 @@ recognition that He is their Lord…”[^2]
 Imam Muhammad Al-Baqir (‘a), elucidates the term uprightness
 *(hanifiyah)* in the verse,
 
-<blockquote dir="rtl">
-  <p>
-حُنَفَاءَ للهِ غَيْرَ مُشْرِكِيْنَ بِهِ.
-  </p>
-</blockquote>
+> حُنَفَاءَ للهِ غَيْرَ مُشْرِكِيْنَ بِهِ.
 
 ***“…being upright for Allah, and not among those who associate with
 Him.” (Qur’an, 22:31)***
 
-<blockquote dir="rtl">
-  <p>
-هِيَ الْفِطْرَةُ الَّتِي فَطَرَ اللهُ النّاسَ عَلَيْها. لا تَبْديلَ
-لِخَلْقِ اللهِ.
-  </p>
-</blockquote>
+> هِيَ الْفِطْرَةُ الَّتِي فَطَرَ اللهُ النّاسَ عَلَيْها. لا تَبْديلَ
+> لِخَلْقِ اللهِ.
 
 “It is the nature *(fitrat)* on which Allah has created mankind. There
 is no change in Allah’s creation.”
 
 Imam (‘a) reiterates,
 
-<blockquote dir="rtl">
-  <p>
-فَطَرَ هُمُ اللهُ عَلى الْمَعْرِفَهِ.
-  </p>
-</blockquote>
+> فَطَرَ هُمُ اللهُ عَلى الْمَعْرِفَهِ.
 
 “Allah has created them on recognition.”[^3]
 
@@ -84,16 +60,12 @@ taken from all His creatures before their arrival in this world and is
 attached with them in this world as well to complete His argument upon
 them. Allah the Almighty informs,
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
-وَأَشْهَدَهُمْ عَلَى أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُواْ بَلَى
-شَهِدْنَا أَن تَقُولُواْ يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَذَا
-غَافِلِينَ. أَوْ تَقُولُواْ إِنَّمَا أَشْرَكَ آبَاؤُنَا مِن قَبْلُ
-وَكُنَّا ذُرِّيَّةً مِّن بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ
-الْمُبْطِلُونَ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
+> وَأَشْهَدَهُمْ عَلَى أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُواْ بَلَى
+> شَهِدْنَا أَن تَقُولُواْ يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَذَا
+> غَافِلِينَ. أَوْ تَقُولُواْ إِنَّمَا أَشْرَكَ آبَاؤُنَا مِن قَبْلُ
+> وَكُنَّا ذُرِّيَّةً مِّن بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ
+> الْمُبْطِلُونَ
 
 ***“And (remember) when your Lord removed from the backs of the progeny
 of Adam (‘a), their off-springs and made them witness against
@@ -108,24 +80,16 @@ recognition *(ma’arifatullah)* and hence the question of doubt and
 ambiguity concerning the Almighty. Prophets of Allah (peace be upon
 them) who came to invite the people towards Him, used to say,
 
-<blockquote dir="rtl">
-  <p>
-أَفِيْ اللهِ شَكٌّ فَاطِرِ السَّمواتِ وَاْلأَرْضِ.
-  </p>
-</blockquote>
+> أَفِيْ اللهِ شَكٌّ فَاطِرِ السَّمواتِ وَاْلأَرْضِ.
 
 ***“Are you in doubt about Allah, the Creator of the heavens and the
 earth?” (Qur’an, 14:10)***
 
 Imam Al-Baqir (‘a) says that the Holy Prophet (‘s) said,
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَوْلُودٍ يُولَدُ عَلى الْفِطْرَةِ. يعني: عَلى الْمَعْرِفَةِ
-بِأَنَّ اللهَ عَزَّ وَ جَلَّ خَالِقُهُ. فَذلِكَ قَوْلُهُ: وَ لَئِنْ
-سَأَلْتَهُمْ مَنْ خَلَقَ السَّمواتِ وَ اْلأَرْضِ لَيَقُولُنَّ اللهُ.
-  </p>
-</blockquote>
+> كُلُّ مَوْلُودٍ يُولَدُ عَلى الْفِطْرَةِ. يعني: عَلى الْمَعْرِفَةِ
+> بِأَنَّ اللهَ عَزَّ وَ جَلَّ خَالِقُهُ. فَذلِكَ قَوْلُهُ: وَ لَئِنْ
+> سَأَلْتَهُمْ مَنْ خَلَقَ السَّمواتِ وَ اْلأَرْضِ لَيَقُولُنَّ اللهُ.
 
 “Every child is born on fitrat (God-knowing nature). That is, on the
 recognition that surely Allah (Mighty and Glorified be He) is his
@@ -141,27 +105,19 @@ not come any reminder in their entire lives, they would be neither
 believers nor unbelievers or polytheists. Someone asked Imam As-Sadiq
 (‘a) concerning the verse,
 
-<blockquote dir="rtl">
-  <p>
-كَانَ النّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللهُ النَّبِيّينَ
-مُبَشِّرِيْنَ وَ مَنْذِرِيْنَ
-  </p>
-</blockquote>
+> كَانَ النّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللهُ النَّبِيّينَ
+> مُبَشِّرِيْنَ وَ مَنْذِرِيْنَ
 
 ***“People were one nation. Then Allah raised the Prophets as givers of
 glad tidings and as warners.” (Qur’an, 2:213)***
 
 He (‘a) replied,
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَكُونُوا عَلى هُدًى. كَانُوا عَلى فِطْرَةِ اللهِ الَّتي
-فَطَرَهُمْ عَلَيْهَا. لا تَبْدِيلَ لِخَلْقِ اللهِ. وَ لَمْ يَكُونُوا
-لِيَهْتَدُوا حَتّى يَهْدِيَهُمُ اللهُ. أَمَا تَسْمَعُ يَقُولُ
-إِبْراهِيمُ: لَئِن لَّمْ يَهْدِنِي رَبِّي لأكُونَنَّ مِنَ الْقَوْمِ
-الضَّالِّينَ.’’ أَي: نَاسِيًا لِلْمِيثَاقِ.
-  </p>
-</blockquote>
+> لَمْ يَكُونُوا عَلى هُدًى. كَانُوا عَلى فِطْرَةِ اللهِ الَّتي
+> فَطَرَهُمْ عَلَيْهَا. لا تَبْدِيلَ لِخَلْقِ اللهِ. وَ لَمْ يَكُونُوا
+> لِيَهْتَدُوا حَتّى يَهْدِيَهُمُ اللهُ. أَمَا تَسْمَعُ يَقُولُ
+> إِبْراهِيمُ: لَئِن لَّمْ يَهْدِنِي رَبِّي لأكُونَنَّ مِنَ الْقَوْمِ
+> الضَّالِّينَ.’’ أَي: نَاسِيًا لِلْمِيثَاقِ.
 
 ***“They were not on guidance. They were on Allah’s nature on which He
 created them. There is no change in Allah’s creation. And they could not
@@ -178,29 +134,17 @@ intellects and remote from their understanding?
 
 Allah the Almighty says to the Holy Prophet (‘s),
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـكِنَّ اللهَ يَهْدِي مَن يَشَاء
-  </p>
-</blockquote>
+> لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـكِنَّ اللهَ يَهْدِي مَن يَشَاء
 
 ***“Their guidance is not on you but Allah guides whosoever He pleases.”
 (Qur’an, 2:272)***
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُكَلِّفُ اللهُ نَفْسًا إِلاَّ وُسْعَهَا
-  </p>
-</blockquote>
+> لاَ يُكَلِّفُ اللهُ نَفْسًا إِلاَّ وُسْعَهَا
 
 ***“Allah does not place responsibility on a soul but within its
 capacity.” (Qur’an, 2:286)***
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُكَلِّفُ اللهُ نَفْسًا إِلاَّ مَا آتَاهَا
-  </p>
-</blockquote>
+> لاَ يُكَلِّفُ اللهُ نَفْسًا إِلاَّ مَا آتَاهَا
 
 ***“Allah does not place responsibility on a soul but what has been
 given to it.” (Qur’an, 65:7)***
@@ -214,13 +158,9 @@ answered, ‘No. Explanation is only from Allah’s side.’ Thereafter, he
 
 Imam As-Sadiq (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ للهِ عَلى خَلْقِهِ أَنْ يَعْرِفُوا. وَلِلْخَلْقِ عَلَى اللهِ
-أَنْ يُعَرِّفَهُمْ. وَ للهِ عَلى الْخَلْقِ إِذَا عَرَّفَهُمْ أَنْ
-يَقْبَلُوا.
-  </p>
-</blockquote>
+> لَيْسَ للهِ عَلى خَلْقِهِ أَنْ يَعْرِفُوا. وَلِلْخَلْقِ عَلَى اللهِ
+> أَنْ يُعَرِّفَهُمْ. وَ للهِ عَلى الْخَلْقِ إِذَا عَرَّفَهُمْ أَنْ
+> يَقْبَلُوا.
 
 “Allah has not imposed any responsibility on His creatures that they
 recognise Him. It is upon Allah alone to introduce Himself to His
@@ -229,12 +169,8 @@ introduces Himself, they should accept His recognition.”[^6]
 
 In yet another tradition, he (‘a) said,
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يُكَلِّفِ اللهُ الْعِبَادَ الْمَعْرِفَةَ. وَلَمْ يَجْعَلْ لَهُمْ
-إِلَيْهَا سَبِيْلاً.
-  </p>
-</blockquote>
+> لَمْ يُكَلِّفِ اللهُ الْعِبَادَ الْمَعْرِفَةَ. وَلَمْ يَجْعَلْ لَهُمْ
+> إِلَيْهَا سَبِيْلاً.
 
 “Allah has not placed any responsibility on His creatures vis-à-vis
 recognition. Nor has he provided them any path for it.”[^7]
@@ -265,13 +201,9 @@ Amir al Mu’minin (‘a) considers guiding the people to the innate
 recognition and reminding them of their covenant to their Lord, as the
 important aims of sending the Prophets (peace on them):
 
-<blockquote dir="rtl">
-  <p>
-فَبَعَثَ فِيْهِمْ رُسَلَهُ، وَوَاتَرَ إِلَيْهِمْ أَنْبِيَاءَهُ
-لِيَسْتَأْدُوْهُمْ مِيْثَاقَ فِطْرَتِهِ وَ يُذَكِّرُوْهُمْ مَنْسِيّ
-نِعْمَتِهِ…
-  </p>
-</blockquote>
+> فَبَعَثَ فِيْهِمْ رُسَلَهُ، وَوَاتَرَ إِلَيْهِمْ أَنْبِيَاءَهُ
+> لِيَسْتَأْدُوْهُمْ مِيْثَاقَ فِطْرَتِهِ وَ يُذَكِّرُوْهُمْ مَنْسِيّ
+> نِعْمَتِهِ…
 
 “Then He raised among them His messengers, and sent successively to them
 His Prophets, to make them fulfill the covenant of their nature, and
@@ -279,11 +211,7 @@ remind them of His forgotten bounties…”[^8]
 
 And Allah the Almighty addresses His messenger (‘s) thus:
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ. لَسْتَ عَلَيْهِم بِمُصَيْطِرٍ.
-  </p>
-</blockquote>
+> فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ. لَسْتَ عَلَيْهِم بِمُصَيْطِرٍ.
 
 ***“Then remind; for you are only a reminder. You are not dominant over
 them.” (Qur’an, 88:21-22)***
@@ -327,15 +255,11 @@ This method which is called as that of difficulties and calamities
 *(basa wa zarra)* has been used extensively in Qur’an. Allah the
 Almighty reminds,
 
-<blockquote dir="rtl">
-  <p>
-رَبُّكُمُ الَّذِيْ يُزْجِيْ لَكُمُ الْفُلْكَ فِيْ الْبَحْرِ
-لِتَبْتَغُوا مِنْ فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيْمًا. وَإِذَا
-مَسَّكُمُ الْضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلاَّ إِيَّاهُ
-فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ وَكَانَ الإِنْسَانُ
-كَفُورًا.
-  </p>
-</blockquote>
+> رَبُّكُمُ الَّذِيْ يُزْجِيْ لَكُمُ الْفُلْكَ فِيْ الْبَحْرِ
+> لِتَبْتَغُوا مِنْ فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيْمًا. وَإِذَا
+> مَسَّكُمُ الْضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلاَّ إِيَّاهُ
+> فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ وَكَانَ الإِنْسَانُ
+> كَفُورًا.
 
 ***“Your Lord is He Who speeds the ships for you in the sea that you may
 seek of His grace; surely He is ever Merciful to you. And when distress
@@ -351,15 +275,11 @@ survival is bonded with Allah’s Power and Grace.
 
 Imam Muhammad Al-Baqir (‘a) reveals,
 
-<blockquote dir="rtl">
-  <p>
-أَوْحَى اللهُ تَعَالى مُوسى – عليه السّلام -: أَحْبِبْنِي
-وَحَبِّبْنِيْ إِلى خَلْقِي. قَالَ مُوسى: يَا رَبِّ إِنَّكَ لَتَعْلَمُ
-أَنَّهُ لَيْسَ أَحَدٌ أَحَبَّ إِلَيَّ مِنْكَ. فَكَيْفَ لِيْ بِقُلُوْبِ
-الْعِبَادِ؟ فَأَوْحى اللهُ إِلَيْهِ: فَذَكِّرْهُمْ نِعْمَتِيْ وَ
-آلائي. فَإِنَّهُمْ لاَ يَذْكُرُونَ مِنِّي إِلاَّ خَيْرًا.
-  </p>
-</blockquote>
+> أَوْحَى اللهُ تَعَالى مُوسى – عليه السّلام -: أَحْبِبْنِي
+> وَحَبِّبْنِيْ إِلى خَلْقِي. قَالَ مُوسى: يَا رَبِّ إِنَّكَ لَتَعْلَمُ
+> أَنَّهُ لَيْسَ أَحَدٌ أَحَبَّ إِلَيَّ مِنْكَ. فَكَيْفَ لِيْ بِقُلُوْبِ
+> الْعِبَادِ؟ فَأَوْحى اللهُ إِلَيْهِ: فَذَكِّرْهُمْ نِعْمَتِيْ وَ
+> آلائي. فَإِنَّهُمْ لاَ يَذْكُرُونَ مِنِّي إِلاَّ خَيْرًا.
 
 “Allah, the High, revealed to Musa (‘a), ‘Love Me and make My creatures
 love Me.’ Hazrat Musa (‘a) said, ‘O Lord! You know that nobody is dearer
@@ -408,14 +328,10 @@ oblivious of everything else around him.
 Previously, we have narrated the statement of Amir al Mu’minin (‘a) that
 he said,
 
-<blockquote dir="rtl">
-  <p>
-وَمَعْنى ‘‘قَدقَامَتِ الصَّلاَةُ’’ فِيء الإِقَامَةِ أَي: حاَنَ وَقْتُ
-الزِّيَارَةِ وَ الْمُنَاجَاةِ وَقَضاءِ الْحَوَائِجِ وَدَرْكِ الْمُنى
-وَالْوُصُولِ إِلى اللهِ عَزَّ وَجَلَّ وَإِلَى كَرَامَتِهِ وَعَفْوِهِ
-وَرِضْوَانِهِ وَغُفْرَانِهِ.
-  </p>
-</blockquote>
+> وَمَعْنى ‘‘قَدقَامَتِ الصَّلاَةُ’’ فِيء الإِقَامَةِ أَي: حاَنَ وَقْتُ
+> الزِّيَارَةِ وَ الْمُنَاجَاةِ وَقَضاءِ الْحَوَائِجِ وَدَرْكِ الْمُنى
+> وَالْوُصُولِ إِلى اللهِ عَزَّ وَجَلَّ وَإِلَى كَرَامَتِهِ وَعَفْوِهِ
+> وَرِضْوَانِهِ وَغُفْرَانِهِ.
 
 “And the meaning of ‘surely the prayers have been established’ in Iqamah
 is that: ‘The time of visitation, conversation, fulfillment of needs,
@@ -492,5 +408,4 @@ recognition, knowledge and vision.”[^13]
 [^12]: Usul al Kafi, vol. 2, p. 352
 
 [^13]: Abwab al huda, p. 125-127
-
 

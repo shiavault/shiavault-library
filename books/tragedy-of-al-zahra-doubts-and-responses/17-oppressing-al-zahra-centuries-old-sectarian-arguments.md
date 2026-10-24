@@ -601,11 +601,7 @@ Fatima (sa), where Ali (as) and al-Zubayr and others were. They knocked
 at the door, and ‘’Umar called on them, but they refused to go out. When
 Fatima (sa) heard their voices, she cried out as loudly as she could,
 
-<blockquote dir="rtl">
-  <p>
-وا أبتاه! وا رسول الله!
-  </p>
-</blockquote>
+> وا أبتاه! وا رسول الله!
 
 *Wa* *Abatah! Wa* *Rasool-Allah!*
 
@@ -1071,5 +1067,4 @@ A.D. by the International House for Printing, Publishing and
 Distributing).
 
 [^63]: Ibid., p. 91.
-
 

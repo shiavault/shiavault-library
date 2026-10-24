@@ -6,12 +6,8 @@ Life span of this world as compared to the span of the Hereafter
 
 **Surah Ar – Rum, 30:55**
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا
-غَيْرَ سَاعَةٍ كَذَلِكَ كَانُوا يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا
+> غَيْرَ سَاعَةٍ كَذَلِكَ كَانُوا يُؤْفَكُونَ
 
 Wa Yawma taquumus-Saa-‘atu yuqsimul-mujrimuuna maa labithuu ghayra
 saa-‘a: kazaalika kaanuu yu’-fakuun!
@@ -23,12 +19,8 @@ to delude themselves (all their lives)!*
 
 **Surah Al – ‘Ankabut, 29:64**
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ
-الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ
+> الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
 
 Wa maa haazihil-hayaatud-dunyaaa ‘il-laa lahwunw-wa la-‘ib? Wa
 ’in-nad-Daaral-’Aakhi-rata lahiyal - Hayawaan. Lau kaanuu ya‘-lamuun.
@@ -56,72 +48,44 @@ Man’s obsessment and attachment to this life
 
 **Surah At – Takathur, 102:1-8**
 
-<blockquote dir="rtl">
-  <p>
-أَلْهَاكُمُ التَّكَاثُرُ
-  </p>
-</blockquote>
+> أَلْهَاكُمُ التَّكَاثُرُ
 
 ’Al-haa-kumut- Takaathur
 
 *1. You are obsessed by greed for more and more*
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى زُرْتُمُ الْمَقَابِرَ
-  </p>
-</blockquote>
+> حَتَّى زُرْتُمُ الْمَقَابِرَ
 
 Hat-taa zurtumul-maqaabir.
 
 *2. until you go down to your graves.*
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا سَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> كَلَّا سَوْفَ تَعْلَمُونَ
 
 Kal-laa sawfa ta‘-lamuun.
 
 *3. Nay, in time you will come to understand!*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
 
 Thum-ma kal-laa sawfa ta‘la-muun
 
 *4. And once again: Nay, in time you will come to understand!*
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
-  </p>
-</blockquote>
+> كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
 
 Kal-laa lau ta‘-lamuuna ‘ilmal-yaqiin!
 
 *5. Nay, if you could but understand (it) with an understanding (born)
 of certainty,*
 
-<blockquote dir="rtl">
-  <p>
-لَتَرَوُنَّ الْجَحِيمَ
-  </p>
-</blockquote>
+> لَتَرَوُنَّ الْجَحِيمَ
 
 Latara-wun-nal-Jahiim!
 
 *6. you would indeed, most surely, behold the blazing fire (of hell)!*
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
-  </p>
-</blockquote>
+> ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
 
 Thum-ma latara-wun-nahaa ‘aynal-yaqiin!
 
@@ -130,11 +94,7 @@ Thum-ma latara-wun-nahaa ‘aynal-yaqiin!
 7. In the end you will indeed, most surely, behold it with the eye of
 certainty:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  </p>
-</blockquote>
+> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
 
 Thum-ma la-tus-’alun-na Yaw-ma-’izin ‘anin-na-‘iim.
 
@@ -182,93 +142,57 @@ Consequences of Man’s attachment to the materialistic world
 
 **Surah Al – Humazah, 104:1-9**
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
-  </p>
-</blockquote>
+> وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
 
 Waylul-likul-li humazatil-lumazah
 
 *1. Woe unto every slanderer, fault-finder!*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
-  </p>
-</blockquote>
+> الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
 
 ’Al-lazii jama-‘a maalahu wa ‘ad-dadah,
 
 *2. (Woe unto him) who amasses wealth and counts it a safeguard,*
 
-<blockquote dir="rtl">
-  <p>
-يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
-  </p>
-</blockquote>
+> يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
 
 Yahsabu ’an-na maalahuuu ’akhladah!
 
 *3. thinking that his wealth will make him live forever!*
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَيُنبَذَنَّ فِي الْحُطَمَةِ
-  </p>
-</blockquote>
+> كَلَّا لَيُنبَذَنَّ فِي الْحُطَمَةِ
 
 Kal-laa la -yumba-zan-na fil-Hutamah.
 
 *4. Nay, but (in the life to come such as) he shall indeed be abandoned
 to crushing torment!*
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
 
 Wa maaa ’adraaka mal-Hu-tamah?
 
 *5. And what could make thee conceive what that crushing torment will
 be?*
 
-<blockquote dir="rtl">
-  <p>
-نَارُ اللَّهِ الْمُوقَدَةُ
-  </p>
-</blockquote>
+> نَارُ اللَّهِ الْمُوقَدَةُ
 
 Naarul-laahil-muuqadah,
 
 *6. A fire kindled by God,*
 
-<blockquote dir="rtl">
-  <p>
-الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
-  </p>
-</blockquote>
+> الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
 
 ’Al-latii tat-tali-‘u ‘alal-’af’idah:
 
 *7. which will rise over the (guilty) hearts:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ
-  </p>
-</blockquote>
+> إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ
 
 ’In-nahaa ‘alayhim-mu’-sadah
 
 *8. verily, it will close in upon them*
 
-<blockquote dir="rtl">
-  <p>
-فِي عَمَدٍ مُّمَدَّدَةٍ
-  </p>
-</blockquote>
+> فِي عَمَدٍ مُّمَدَّدَةٍ
 
 Fii ‘amadim-mumad-dada.
 
@@ -287,32 +211,20 @@ Man will always be a loser due to his worldly attachments
 
 **Surah Al – ‘Asr, 103:1-3**
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَصْرِ
-  </p>
-</blockquote>
+> وَالْعَصْرِ
 
 Wal-‘Asri.
 
 *1. Consider the flight of time!*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
 
 ’In-nal ’Insaana lafii khus-r,
 
 *2. Verily, man is bound to lose himself,*
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
-بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
+> بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
 
 ’Il-lal-laziina aamanuu wa ‘amilus-saa-lihaati wa tawaasaw bil-Haq-qi wa
 tawaasaw bis-Sabr.
@@ -326,13 +238,9 @@ Worldly attachments should not deter Man from remembrance of Allah (swt) and in 
 
 **Surah Al – Munafiqun, 63 :9-11**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
-أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ وَمَن يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ
-هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
+> أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ وَمَن يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ
+> هُمُ الْخَاسِرُونَ
 
 Yaaa-’ay-yuhal-laziina ’aa-manuu laa tul-hikum ’amwaa-lukum wa laaa
 ’awlaa-dukum ‘an Zikril-laah. Wa may-yaf-‘al zaalika fa-’ulaaa-’ika
@@ -342,13 +250,9 @@ humul-khaasiruun.
 children make you oblivious of the remembrance of God: for if any behave
 thus - it is they, they who are the losers!*
 
-<blockquote dir="rtl">
-  <p>
-وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
-الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَى أَجَلٍ قَرِيبٍ
-فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
+> الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَى أَجَلٍ قَرِيبٍ
+> فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
 
 Wa’anfiquu mim-maa razaq-naakum-min-qabli ’ay-ya’-tiya ahada-kumul-Mawtu
 fa-yaquula Rab-bi lau laaa ’akh-khar-taniii ilaaa ‘ajalin-qariibin -
@@ -360,12 +264,8 @@ he then says, “O my Sustainer! If only Thou wouldst grant me a delay for
 a short while, so that I could give in charity and be among the
 righteous!”*
 
-<blockquote dir="rtl">
-  <p>
-وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاء أَجَلُهَا وَاللَّهُ خَبِيرٌ
-بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاء أَجَلُهَا وَاللَّهُ خَبِيرٌ
+> بِمَا تَعْمَلُونَ
 
 Wa lan-yu-’akh-khiral-laahu nafsan ’izaa jaaa-’a ’ajaluhaa: Wal-laahu
 khabiirum-bimaa ta‘-maluun.
@@ -375,19 +275,11 @@ come; and God is fully aware of all that you do.*
 
 **Surah At – Taghabun, 64: 15-18**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَاللَّهُ عِندَهُ
-أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَاللَّهُ عِندَهُ
+> أَجْرٌ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا
-وَأَنفِقُوا خَيْرًا لِّأَنفُسِكُمْ وَمَن يُوقَ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا
+> وَأَنفِقُوا خَيْرًا لِّأَنفُسِكُمْ وَمَن يُوقَ
 
 ’In-namaaa ’amwaa-lukum wa ’awlaa-dukum fitna: wal-laahu ‘indahuuu
 ’Ajrun ‘aziim.
@@ -395,11 +287,7 @@ come; and God is fully aware of all that you do.*
 *15. Your worldly goods and your children are but a trial and a
 temptation, whereas with God there is a tremendous reward.*
 
-<blockquote dir="rtl">
-  <p>
-شُحَّ نَفْسِهِ فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> شُحَّ نَفْسِهِ فَأُوْلَئِكَ هُمُ الْمُفْلِحُونَ
 
 Fat-taqul-laaha masta-ta’-tum wasma-‘uu wa ’atii-‘uu wa ’anfiquu
 khay-ral-li-’anfusi-kum. Wa may-yuuqa shuh-ha nafsihii fa’ulaaa-’ika
@@ -410,12 +298,8 @@ Him), and pay heed. And spend in charity for the good of your own
 selves: for, such as from their own covetousness are saved - it is they,
 they that shall attain to a happy state!*
 
-<blockquote dir="rtl">
-  <p>
-إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ
-لَكُمْ وَاللَّهُ شَكُورٌ حَلِيمٌ
-  </p>
-</blockquote>
+> إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ
+> لَكُمْ وَاللَّهُ شَكُورٌ حَلِيمٌ
 
 ’In-tuqrizul-laaha qarzan hasanay-yuzaa-‘ifuhu lakum wa yagfirlakum.
 Wallahu shukuurun haliim.
@@ -424,11 +308,7 @@ Wallahu shukuurun haliim.
 it, and will forgive you your sins: for God is ever responsive to
 gratitude, forbearing,*
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ
 
 ‘Aalimul-ghaybi wash-shahaa-datil-Aziizul-Hakiim.
 
@@ -441,12 +321,8 @@ Good deeds weigh heavier than worldly adornments (wealth & children)
 
 **Surah Al – Kahf, 18:46**
 
-<blockquote dir="rtl">
-  <p>
-الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا وَالْبَاقِيَاتُ
-الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
-  </p>
-</blockquote>
+> الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا وَالْبَاقِيَاتُ
+> الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
 
 ’Al-maalu wal-banuuna ziinatul-hayaatid-dunyaa:
 wal-baaqiyaa-tus-saali-haatu khay-run ‘inda Rab-bika thawaa-banw-wa
@@ -482,16 +358,12 @@ Allah (swt), His Apostle & Jihad are more important than all worldly relations, 
 
 **Surah At – Tawbah, 9:24**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَانُكُمْ
-وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
-وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
-إِلَيْكُم مِّنَ اللّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
-فَتَرَبَّصُواْ حَتَّى يَأْتِيَ اللّهُ بِأَمْرِهِ وَاللّهُ لاَ يَهْدِي
-الْقَوْمَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَانُكُمْ
+> وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
+> وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
+> إِلَيْكُم مِّنَ اللّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
+> فَتَرَبَّصُواْ حَتَّى يَأْتِيَ اللّهُ بِأَمْرِهِ وَاللّهُ لاَ يَهْدِي
+> الْقَوْمَ الْفَاسِقِينَ
 
 Qul ’in-kaana ’aabaaa-’u-kum wa abnaaa-’ukum wa ’ikh-waanukum wa
 ’azwaa-ju-kum wa ‘ashii-ratukum wa ’amwaalu-niq-taraf-tumuuhaa wa
@@ -512,15 +384,11 @@ Punishment for hoarding of wealth
 
 **Surah At – Tawbah, 9:34-35**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّ كَثِيراً مِّنَ الأَحْبَارِ
-وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ
-وَيَصُدُّونَ عَن سَبِيلِ اللّهِ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ
-وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي سَبِيلِ اللّهِ فَبَشِّرْهُم
-بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّ كَثِيراً مِّنَ الأَحْبَارِ
+> وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ
+> وَيَصُدُّونَ عَن سَبِيلِ اللّهِ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ
+> وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي سَبِيلِ اللّهِ فَبَشِّرْهُم
+> بِعَذَابٍ أَلِيمٍ
 
 Yaaa-’ay-yu-hal-laziina ’aa-manuuu ’in-na kathiiram-minal-’ahbaari
 war-ruh-baani li-ya’-kuluuna ’amwaa-lan-naasi bil-baatili wa yasud-duuna
@@ -533,13 +401,9 @@ God; and (as for) those who hoard up gold and silver and do not spend it
 in Allah’s way, announce to them a grievous chastisement (in the life to
 come).*
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا
-جِبَاهُهُمْ وَجُنوبُهُمْ وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ
-لأَنفُسِكُمْ فَذُوقُواْ مَا كُنتُمْ تَكْنِزُونَ
-  </p>
-</blockquote>
+> يَوْمَ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا
+> جِبَاهُهُمْ وَجُنوبُهُمْ وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ
+> لأَنفُسِكُمْ فَذُوقُواْ مَا كُنتُمْ تَكْنِزُونَ
 
 Yawma yuhmaa ‘alay-haa fii Naari Jahan-nama fatukwaa bihaa jibaahu-hum
 wa junuu-buhum wa zuhuu-ruhum. Haa-zaa maa kanaz-tum li-’anfusikum
@@ -564,5 +428,4 @@ the others, the share of mankind in general among them, the orphans, the
 needy and the wayfarers. This is a clear condemnation of those who do
 not regularly and faithfully disburse ‘Zakat’ and ‘Khums’ from their
 well-earned wealth.
-
 

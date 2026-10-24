@@ -395,4 +395,3 @@ offered by Abraham ? God alone knows the degree of the patience and the
 fortitude which He had endowed in the Holy Imam to bear the series of
 such unbearable calamities.
 
-

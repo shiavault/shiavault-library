@@ -128,7 +128,6 @@ eating, drinking and all other acts which break fasting.
 determined by the mere disappearance of the sun's orb, but the
 disappearance of the redness of the dusk in the east.
 
-
 **Actions Which Make The Fast Invalid**
 
 1. Eating or drinking anything in any quantity.
@@ -149,7 +148,6 @@ throat.
 \* The state resulting from sexual intercourse with or without
 ejaculation. or seminal discharge while awake or asleep. \* Bleeding
 that occurs after childbirth or abortion.
-
 
 **CLARIFICATIONS:**
 
@@ -622,5 +620,4 @@ the second Rakaat 4 times.
 Ghusul (bath) on Eid day is optional which should be taken und& a
 shelter and not under the open sky. Praise be to Allah, Lord of the
 worlds.
-
 

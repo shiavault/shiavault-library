@@ -15,13 +15,9 @@ of the Holy Prophet (S) from the books of Ahlul Sunnah.
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ فَتَعَجَّلَ كُلُّ نَبِيٍّ
-دَعْوَتَه وَ اِنِّي اِخْتِبَاتُ دَعْوَتِيْ شَفَاعَةٌ لِاُمَّتِيْ
-فَهِيَ نَائِلُهْ مَنْ مَاتَ مِنْهُمْ لَاْيُشْرِكُ بِاللهِ شِيْئًا.
-  </p>
-</blockquote>
+> لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ فَتَعَجَّلَ كُلُّ نَبِيٍّ
+> دَعْوَتَه وَ اِنِّي اِخْتِبَاتُ دَعْوَتِيْ شَفَاعَةٌ لِاُمَّتِيْ
+> فَهِيَ نَائِلُهْ مَنْ مَاتَ مِنْهُمْ لَاْيُشْرِكُ بِاللهِ شِيْئًا.
 
 *“Lord has made some prayers of Prophets which are answered. All have
 used them in this world but I have kept my prayer for the intercession
@@ -30,12 +26,8 @@ not associated anybody with Allah.”*[^1]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اَعْطَيْتُ خَمْسًا ...... وَ اَعْطَيْتُ الشَّفَاعَةَ فَاِذَ خَرَّتْهَا
-لِاُمَّتِيْ فَهِيَ لِمَنْ لاَّيُشْرِكُ بِاللهِ شَيْئًا.
-  </p>
-</blockquote>
+> اَعْطَيْتُ خَمْسًا ...... وَ اَعْطَيْتُ الشَّفَاعَةَ فَاِذَ خَرَّتْهَا
+> لِاُمَّتِيْ فَهِيَ لِمَنْ لاَّيُشْرِكُ بِاللهِ شَيْئًا.
 
 *“Allah has blessed me with five superiority one of which is my
 intercession which I have kept for the believers of my Ummat who have
@@ -43,47 +35,31 @@ not associated anybody with Allah.”*[^2]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قَوْلُه عَسيٰ اَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُوْدًا هُوَ
-الْمَقَامُ الَّذِيْ اِشْفَعْ لِاُمَّتِيْ فِيْهِ.
-  </p>
-</blockquote>
+> قَوْلُه عَسيٰ اَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُوْدًا هُوَ
+> الْمَقَامُ الَّذِيْ اِشْفَعْ لِاُمَّتِيْ فِيْهِ.
 
 *“This praiseworthy position which is in Surah Bani Israel : verse 79,
 is that status by which I will do intercession of my nation.”*[^3]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-’’اَنَا اَوَّلُ شَافِعٍ وَ اَوَّلُ مُشْفِعٍ‘‘
-  </p>
-</blockquote>
+> ’’اَنَا اَوَّلُ شَافِعٍ وَ اَوَّلُ مُشْفِعٍ‘‘
 
 *“The foremost of the intercessor will be myself and my intercession
 will be accept before everybody.”*[^4]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ شَفَاعَتِيْ يَوْمَ الْقِيَامَةِ لِاَهْلِ الْكَبَائِرِ مِنْ
-اُمَّتِيْ
-  </p>
-</blockquote>
+> اِنَّ شَفَاعَتِيْ يَوْمَ الْقِيَامَةِ لِاَهْلِ الْكَبَائِرِ مِنْ
+> اُمَّتِيْ
 
 *“On the day of judgement my intercession will be for those of my Ummat
 those who have done major sins.”*[^5]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-شَفَاعَتِيْ لِمَنْ شَهِدَ اَنْ لاَّ اِلٰهَ اِلاَّ اللهُ مُخْلِصًا
-يَصْدُقُ قَلْبُه لِسَانَه وَ لِسَانُه قَلْبَه.
-  </p>
-</blockquote>
+> شَفَاعَتِيْ لِمَنْ شَهِدَ اَنْ لاَّ اِلٰهَ اِلاَّ اللهُ مُخْلِصًا
+> يَصْدُقُ قَلْبُه لِسَانَه وَ لِسَانُه قَلْبَه.
 
 *“My intercession will be exclusively for those who bear witness of His
 oneness with a pure heart of whose tongue testify the heart and vise
@@ -91,78 +67,46 @@ versa.”*[^6]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ اللهَ يَخْرُجُ قَوْمًا مِنَ النَّارِ بِالشَّفَاعَةِ.
-  </p>
-</blockquote>
+> اِنَّ اللهَ يَخْرُجُ قَوْمًا مِنَ النَّارِ بِالشَّفَاعَةِ.
 
 *“Surely one group will be extracted from hell by intercession.”*[^7]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ يَوْمَ الْقِيَامَةِ اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُمَّ
-الشُّهَدَاءُ.
-  </p>
-</blockquote>
+> يَشْفَعُ يَوْمَ الْقِيَامَةِ اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُمَّ
+> الشُّهَدَاءُ.
 
 *“On the day of judgement first to do intercession will be the prophets,
 learned people and then martyrs.”*[^8]
 
 Holy Prophet (S) said to attendant:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِخَادِمِه مَا حَاجَتُكَ؟
-  </p>
-</blockquote>
+> قَالَ لِخَادِمِه مَا حَاجَتُكَ؟
 
 *“Do you have any need?”*
 
-<blockquote dir="rtl">
-  <p>
-حَاجَتِيْ اَنْ تَشْفَعَ لِيْ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> حَاجَتِيْ اَنْ تَشْفَعَ لِيْ يَوْمَ الْقِيَامَةِ.
 
 “He said my need is that you do intercession on the day of judgement.”
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ دَلَّكَ عَلٰي هٰذَا؟
-  </p>
-</blockquote>
+> وَ مَنْ دَلَّكَ عَلٰي هٰذَا؟
 
 *“Prophet asked from whom you have learnt to seek intercession from
 me?”*
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّي
-  </p>
-</blockquote>
+> قَالَ رَبِّي
 
 He replied: From my Lord.
 
-<blockquote dir="rtl">
-  <p>
-اَمَّا فَاَعِنِّيْ بِكَثْرَتِ السُّجُوْدِ.
-  </p>
-</blockquote>
+> اَمَّا فَاَعِنِّيْ بِكَثْرَتِ السُّجُوْدِ.
 
 *Holy Prophet (S) said: “Then you help me in my intercession by your
 prostration.”*[^9]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلّي عَلٰي مُحَمَّدٍ وَ قَالَ اَللّهُمَّ اَنَزَلَهُ الْمَقْعَدَ
-الْمُقَرَّبَ عِنْدَكَ يَوْمَ الْقِيَامَةِ وَ جَبَ لَه شَفَاعَتِيْ.
-  </p>
-</blockquote>
+> مَنْ صَلّي عَلٰي مُحَمَّدٍ وَ قَالَ اَللّهُمَّ اَنَزَلَهُ الْمَقْعَدَ
+> الْمُقَرَّبَ عِنْدَكَ يَوْمَ الْقِيَامَةِ وَ جَبَ لَه شَفَاعَتِيْ.
 
 *“One who sends blessing on Muhammad (S) and prays to Lord to appoint
 you (Holy Prophet (S)) on the position near to You and my intercession
@@ -177,12 +121,8 @@ on the subject of intercession.
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنِّي لَاَشْفَعُ يَوْمَ الْقِيَامَةِ فَاُشْفَعُ وَ يَشْفَعُ عَلِيٌّ
-فُيُشْفَعُ وَ يَشْفَعُ اَهْلُ بَيْتِيْ فَيُشْفَعُوْنَ.
-  </p>
-</blockquote>
+> اِنِّي لَاَشْفَعُ يَوْمَ الْقِيَامَةِ فَاُشْفَعُ وَ يَشْفَعُ عَلِيٌّ
+> فُيُشْفَعُ وَ يَشْفَعُ اَهْلُ بَيْتِيْ فَيُشْفَعُوْنَ.
 
 *“Undoubtedly I will intercede on the day of judgement and it will be
 accepted, Hazrat ‘Ali (a.s.) will also intercede and it will be also
@@ -191,12 +131,8 @@ accepted.”*[^11]
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ مِنْ اُمَّتِيْ مِنْ سَيَّدٍ اَحَلَّ اللهُ الْجَنَّةَ
-بِشَفَاعِتِه اَكْثَرُ مِنْ مُضِرٍّ.
-  </p>
-</blockquote>
+> اِنَّ مِنْ اُمَّتِيْ مِنْ سَيَّدٍ اَحَلَّ اللهُ الْجَنَّةَ
+> بِشَفَاعِتِه اَكْثَرُ مِنْ مُضِرٍّ.
 
 *“There are such people in my Ummat, by whose intercession persons more
 than the Tribe of Mazhar (the biggest tribe of Arabia) will enter
@@ -204,11 +140,7 @@ Heaven.”*[^12]
 
 Hazrat ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَنَا شَفَاعَةٌ وَ لِاَهْلِ مَوَدَّتِنَا شَفَاعَةٌ.
-  </p>
-</blockquote>
+> لَنَا شَفَاعَةٌ وَ لِاَهْلِ مَوَدَّتِنَا شَفَاعَةٌ.
 
 *“We will do intercession and also those who love us will
 intercede.”*[^13]
@@ -216,12 +148,8 @@ intercede.”*[^13]
 Ameerul Momeneen ‘Ali Ibn Abi Taalib (a.s.) narrates that the Holy
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثَةٌ يَشْفَعُوْنَ اِلٰي اللهِ عَزَّوَجَلَّ فَيُشْفَعُوْنَ
-اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُّم الشُّهَدَاءُ.
-  </p>
-</blockquote>
+> ثَلاَثَةٌ يَشْفَعُوْنَ اِلٰي اللهِ عَزَّوَجَلَّ فَيُشْفَعُوْنَ
+> اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُّم الشُّهَدَاءُ.
 
 *“There are three groups who will intercede and it will be accepted: (a)
 Prophets, (b) Learned man of religion and (c) Martyrs (who have laid
@@ -229,11 +157,7 @@ their lives on the path of Lord.”*[^14]
 
 Imam ‘Ali (a.s.) has advised his son Mohammad bin Hanafia thus:
 
-<blockquote dir="rtl">
-  <p>
-اِقْبَلْ مِنْ مُتَنَصِّلٍ عُذْرَه فَتَنَالُكَ الشَّفَاعَةُ.
-  </p>
-</blockquote>
+> اِقْبَلْ مِنْ مُتَنَصِّلٍ عُذْرَه فَتَنَالُكَ الشَّفَاعَةُ.
 
 *“Accept the excuse of those who plead so that, intercession for you
 will be accepted.”*[^15]
@@ -245,23 +169,15 @@ that if he does not forgive the fault of others how can he expect the
 Lord to forgive him on the day of judgement. Perhaps even Holy Prophet
 (S) must have mentioned thus:
 
-<blockquote dir="rtl">
-  <p>
-’’مَنْ لَاْيَرْحَمْ لَاْيُرْحَمْ‘‘
-  </p>
-</blockquote>
+> ’’مَنْ لَاْيَرْحَمْ لَاْيُرْحَمْ‘‘
 
 *“Those who withhold mercy, mercy will not be showered on them.”*
 
 Hazrat ‘Ali (a.s.) has narrated from Holy Prophet (S) thus:
 
-<blockquote dir="rtl">
-  <p>
-اِذَا قُمْتُ الْمَقَامَ الْمَحْمُوْدَ تَشَفَّعْتُ فِيْ اَصْحَابِ
-الْكَبَائِرِ مِنْ اُمَّتِيْ فَيَشْفَعْنِيْ اللهُ فِيْهِمْ وَ اللهُ لاَ
-تَشَفَّعْتُ فِيْمَنْ اَذَيٰ ذُرِّيَّتِيْ.
-  </p>
-</blockquote>
+> اِذَا قُمْتُ الْمَقَامَ الْمَحْمُوْدَ تَشَفَّعْتُ فِيْ اَصْحَابِ
+> الْكَبَائِرِ مِنْ اُمَّتِيْ فَيَشْفَعْنِيْ اللهُ فِيْهِمْ وَ اللهُ لاَ
+> تَشَفَّعْتُ فِيْمَنْ اَذَيٰ ذُرِّيَّتِيْ.
 
 *“When I will be placed on Maqamul Mahmud (مقامو المحمود) I will
 intercede that person of my nation who has committed greater sins.
@@ -271,14 +187,10 @@ harassed and inflict my progeny.”*[^16]
 Imam Husain (a.s.) narrates that when he left Madina for Karbala he saw
 the prophet in his dream who said:
 
-<blockquote dir="rtl">
-  <p>
-حَبِيْبِيْ يَا حُسَيْنُ كَاَنِّي اَرَاكَ عَنْ قَرِيْبٍ مُرَمِّلَاً
-بِدِمَائِكَ مَذْبُوْحًا بِاَرْضِ كَرْبَلَآءَ عَلٰي اَيْدِيْ عِصَابَةٌ
-مِنْ اُمَّتِي وَ اَنْتَ مَعَ ذٰلِكَ يَرْجُوْنَ شَفَاعَتِيْ لاَ
-يَنَالُهُمْ وَ اللهُ شَفَاعَتِيْ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> حَبِيْبِيْ يَا حُسَيْنُ كَاَنِّي اَرَاكَ عَنْ قَرِيْبٍ مُرَمِّلَاً
+> بِدِمَائِكَ مَذْبُوْحًا بِاَرْضِ كَرْبَلَآءَ عَلٰي اَيْدِيْ عِصَابَةٌ
+> مِنْ اُمَّتِي وَ اَنْتَ مَعَ ذٰلِكَ يَرْجُوْنَ شَفَاعَتِيْ لاَ
+> يَنَالُهُمْ وَ اللهُ شَفَاعَتِيْ يَوْمَ الْقِيَامَةِ.
 
 *“My dear Husain I see you bathed in your blood and a group of my Ummat
 has slaughtered you in a state of thirst, in spite of this they hope for
@@ -287,13 +199,9 @@ them on the day of judgement.”*[^17]
 
 Forth Imam Zainul Aabedin narrates in one of his dua,
 
-<blockquote dir="rtl">
-  <p>
-فَاِنِّيْ لَمْ آتِكَ ثَقَتْ مِنِّيْ بِعَمَلٍ صَالِحٍ قَدَّمْتُه وَلاَ
-شَفَاعَةِ مَخْلُوْقٍ رَجَوْتُه اِلاَّ شَفَاعَةَ مُحَمَّدٍ وَّ اَهْلِ
-بَيْتِه عَلَيْهِ وَ عَلَيْهِمْ سَلَاْمُكَ.
-  </p>
-</blockquote>
+> فَاِنِّيْ لَمْ آتِكَ ثَقَتْ مِنِّيْ بِعَمَلٍ صَالِحٍ قَدَّمْتُه وَلاَ
+> شَفَاعَةِ مَخْلُوْقٍ رَجَوْتُه اِلاَّ شَفَاعَةَ مُحَمَّدٍ وَّ اَهْلِ
+> بَيْتِه عَلَيْهِ وَ عَلَيْهِمْ سَلَاْمُكَ.
 
 *“I come not before Thee trusting in a righteous work I have sent ahead,
 nor in the intercession of any creature in whom I have hope, except the
@@ -302,12 +210,8 @@ them be Thy peace).”*
 
 And in another dua he says,
 
-<blockquote dir="rtl">
-  <p>
-صَلِّ عَلٰي مُحَمَّدٍ وَّ آلِه وَاجْعَل تَوَسُّلِيْ بِه شَافِعًا
-يَوْمَ الْقِيَامَةِ نَافِعًا اِنَّكَ اَنْتَ اَرْحَمُ الرَّاحِمِيْنَ.
-  </p>
-</blockquote>
+> صَلِّ عَلٰي مُحَمَّدٍ وَّ آلِه وَاجْعَل تَوَسُّلِيْ بِه شَافِعًا
+> يَوْمَ الْقِيَامَةِ نَافِعًا اِنَّكَ اَنْتَ اَرْحَمُ الرَّاحِمِيْنَ.
 
 *“O Lord sends blessing on Muhammad (S) and is progeny (a.s.), and on
 the day of judgement accept recommendation of intercession which will be
@@ -315,13 +219,9 @@ beneficial to me, surely You are most Merciful.”*
 
 Imam Mohammad Baqir (a.s.) narrates:
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ الرَّجُلُ فِيْ الْقَبِيْلَةِ وَ يَشْفَعُ الرَّجُلُ لِاَهْلِ
-الْبَيْتِ وَ يَشْفَعُ الرَّجُلُ لِلرَّجُلَيْنِ عَلٰي قَدْرِ عَمَلِه
-فَذٰلِكَ الْمَقَامُ الْمَحْمُوْدُ.
-  </p>
-</blockquote>
+> يَشْفَعُ الرَّجُلُ فِيْ الْقَبِيْلَةِ وَ يَشْفَعُ الرَّجُلُ لِاَهْلِ
+> الْبَيْتِ وَ يَشْفَعُ الرَّجُلُ لِلرَّجُلَيْنِ عَلٰي قَدْرِ عَمَلِه
+> فَذٰلِكَ الْمَقَامُ الْمَحْمُوْدُ.
 
 *“Every person (believer) will do intercession for others on the
 strength of his good action it is possible that he alone can intercede
@@ -336,14 +236,10 @@ be receive the intercession of Holy Prophet (S) on the day of judgement
 punishment or reward according to their actions. Imam became angry and
 the expression on his face changed and he said,
 
-<blockquote dir="rtl">
-  <p>
-وَيْحَكَ يَا اَبَا اَيْمَنْ اَغَرَّكَ اِنْ عَفَّ بَطْنَكَ وَ فَرْجَكَ
-اَمَاْ وَاللهِ لَوْ قَدْ رَاَيْتَ اِفْزَاعَ يَوْمَ الْقِيَامَةِ لَقَدِ
-احْتَجْتَ اِلٰي شَفَاعَةِ مُحَمَّدٍ وَيْلَكَ وَهَلْ يَشْفَعُ اِلاَّ
-لِمَنْ قَدْ وَجَبَتْ لَهُ النَّارُ؟
-  </p>
-</blockquote>
+> وَيْحَكَ يَا اَبَا اَيْمَنْ اَغَرَّكَ اِنْ عَفَّ بَطْنَكَ وَ فَرْجَكَ
+> اَمَاْ وَاللهِ لَوْ قَدْ رَاَيْتَ اِفْزَاعَ يَوْمَ الْقِيَامَةِ لَقَدِ
+> احْتَجْتَ اِلٰي شَفَاعَةِ مُحَمَّدٍ وَيْلَكَ وَهَلْ يَشْفَعُ اِلاَّ
+> لِمَنْ قَدْ وَجَبَتْ لَهُ النَّارُ؟
 
 *“Woe be unto you, O Abu Aiman! Do you think that by saving yourself
 from the sins of hunger and lust your become proud. By Allah when you
@@ -354,13 +250,9 @@ except to get intercession?”*
 
 Imam Jafar al-Sadiq (a.s.) narrates:
 
-<blockquote dir="rtl">
-  <p>
-وَ اللهُ لَنَشْفَعَنَّ لِشِيْعَتِنَا وَ اللهُ لَنَشْفَعَنَّ
-لِشِيْعَتِنَا حَتّي يَقُوْلَ النَّاسُ فَمَا لَنَا مِنْ شَافِعِيْنَ
-وَلَاْصَدِيْقٍ حَمِيْمٍ.
-  </p>
-</blockquote>
+> وَ اللهُ لَنَشْفَعَنَّ لِشِيْعَتِنَا وَ اللهُ لَنَشْفَعَنَّ
+> لِشِيْعَتِنَا حَتّي يَقُوْلَ النَّاسُ فَمَا لَنَا مِنْ شَافِعِيْنَ
+> وَلَاْصَدِيْقٍ حَمِيْمٍ.
 
 *“By Allah he will intercede for our Shias, by Allah we will surely
 intercede for our Shias, till that extent (our enemies) they will shout
@@ -368,23 +260,15 @@ that there is nobody to do our intercession or help us.”*[^19]
 
 Imam Jafar al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ مُؤْمِنٍ خَمْسُ سَاعَاتٍ يَوْمَ الْقِيَامَةِ يَشْفَعُ فِيْهَا.
-  </p>
-</blockquote>
+> لِكُلِّ مُؤْمِنٍ خَمْسُ سَاعَاتٍ يَوْمَ الْقِيَامَةِ يَشْفَعُ فِيْهَا.
 
 *“On the day of judgement five hours are fixed for a believer so that he
 can intercession for others.”*[^20]
 
 Imam Jafar al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ اَنْكَرَثَلاَ ثَةَ اَشْيَاءٍ فَلَيْسَ مِنْ شِيْعَتِنَا
-اَلْمِعْرَاجَ وَ الْمَسَائِلَةَ فِي الْقَبْرَ وَ الشَّفَاعَةَ.
-  </p>
-</blockquote>
+> مَنْ اَنْكَرَثَلاَ ثَةَ اَشْيَاءٍ فَلَيْسَ مِنْ شِيْعَتِنَا
+> اَلْمِعْرَاجَ وَ الْمَسَائِلَةَ فِي الْقَبْرَ وَ الشَّفَاعَةَ.
 
 *“One who refutes this three things he is not from our Shias: (1)
 Ascension (Meraj) of our Holy Prophet (S), (2) Questioning in the grave
@@ -393,12 +277,8 @@ and (3) Intercession.”*
 Imam ‘Ali al-Reza (a.s.) narrated from Ameerul Momineen ‘Ali (a.s.) that
 he said that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَذَبَ بِشَفَاعَةِ رَسُوْلِ اللهِ صَلّي اللهُ عَلَهْه وَ آلِهِ وَ
-سَلَّمُ لَمْ تَنِلْه.
-  </p>
-</blockquote>
+> مَنْ كَذَبَ بِشَفَاعَةِ رَسُوْلِ اللهِ صَلّي اللهُ عَلَهْه وَ آلِهِ وَ
+> سَلَّمُ لَمْ تَنِلْه.
 
 *“Person who negates the intercession of Holy Prophet (S) he will never
 be interceded.”*
@@ -462,5 +342,4 @@ vol. 1, p. 172; Sahih Bhukhari, vol. 1, p. 92 and p. 119.
 [^19]: Manaqib Ibn Shahar Aashub vol. 2, p. 14
 
 [^20]: Sifaat us-Shia by Shaikh Saduq, p. 181
-
 

@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إَنَّ الشَّيْطاَنَ لِلإِنْسَانِ عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> إَنَّ الشَّيْطاَنَ لِلإِنْسَانِ عَدُوٌّ مُّبِينٌ
 
 *“Surely the Shaitan is an open enemy to man.”*[^1]
 
 Imam Sadiq (a.s) had said:
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ لِإِبلِيسَ أََشَدُّ مِنَ النِّسَاءِ وَ الْغَضَبَ.
-  </p>
-</blockquote>
+> لَيسَ لِإِبلِيسَ أََشَدُّ مِنَ النِّسَاءِ وَ الْغَضَبَ.
 
 *“Iblis does not possess weapons more dangerous than woman and
 anger.”*[^2]
@@ -181,5 +173,4 @@ al-Hikayat, pg. 21
 [^6]: Dastanha-e-Mathnawai, vol. 2, pg. 15
 
 [^7]: Iblis Nameh, vol. 1, pg. 35; Mahasin Barqi, pg. 439
-
 

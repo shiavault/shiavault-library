@@ -251,4 +251,3 @@ present Gospels while these four persons were not Jesus(A.s)'s
 students... ." Some researcher's viewpoints regarding the Gospels were
 mentioned above but studying them needs much more time.
 
-

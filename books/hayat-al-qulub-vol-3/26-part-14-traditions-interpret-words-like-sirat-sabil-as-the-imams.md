@@ -23,11 +23,7 @@ and towards the way the follower of which is taken to Your love and Your
 religion and it restrains us from following our selfish desires or that
 we act according to our opinion and be destroyed.
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ.
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ.
 
 ***The path of those upon whom Thou hast bestowed favors. (Surah Fatiha
 1:6)***
@@ -37,13 +33,9 @@ have given the divine help (tawfeeq) for Your religion and obedience and
 thus favored them. It is that group in whose praise the Almighty Allah
 has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعْ اللَّهَ وَالرَّسُولَ فَأُوْلَئِكَ مَعَ الَّذِينَ
-أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنْ النَّبِيِّينَ وَالصِّدِّيقِينَ
-وَالشُّهَدَاءِ وَالصَّالِحِينَ وَحَسُنَ أُوْلَئِكَ رَفِيقًا.
-  </p>
-</blockquote>
+> وَمَنْ يُطِعْ اللَّهَ وَالرَّسُولَ فَأُوْلَئِكَ مَعَ الَّذِينَ
+> أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنْ النَّبِيِّينَ وَالصِّدِّيقِينَ
+> وَالشُّهَدَاءِ وَالصَّالِحِينَ وَحَسُنَ أُوْلَئِكَ رَفِيقًا.
 
 ***And whoever obeys Allah and the Apostle, these are with those upon
 whom Allah has bestowed favors from among the prophets and the truthful
@@ -104,22 +96,14 @@ into Hell fire.
 Also according to a good chain of narrators Imam Sadiq (a.s.) said in
 the explanation of this verse:
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ.
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ.
 
 ***Keep us on the right path. (Surah Fatiha 1:5)***
 
 That ‘the Right Path’ is Ali (a.s.) and the proof of his recognition is
 that the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ.
-  </p>
-</blockquote>
+> وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ.
 
 ***And surely it is in the original of the Book with Us, truly elevated,
 full of wisdom. (Surah Zukhruf 43:4)***
@@ -161,12 +145,8 @@ to follow by Allah are we; and by Allah we are the Straight Path.
 Also from the same Imam according to a reliable tradition, the last of
 the Surah was read like this:
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ. صِرَاطَ الَّذِينَ أَنْعَمْتَ
-عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ. صِرَاطَ الَّذِينَ أَنْعَمْتَ
+> عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
 
 ***Keep us on the right path. The path of those upon whom Thou hast
 bestowed favors. Not (the path) of those upon whom Thy wrath is brought
@@ -197,13 +177,9 @@ narrated in the same way from Buraida.
 
 Ali Ibne Ibrahim says in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ هَذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا
-السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ذَلِكُمْ وَصَّاكُمْ بِهِ
-لَعَلَّكُمْ تَتَّقُونَ.
-  </p>
-</blockquote>
+> وَأَنَّ هَذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا
+> السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ذَلِكُمْ وَصَّاكُمْ بِهِ
+> لَعَلَّكُمْ تَتَّقُونَ.
 
 ***And (know) that this is My path, the right one therefore follow it,
 and follow not (other) ways, for they will lead you away from His way;
@@ -225,11 +201,7 @@ other paths (Sobol), whom Allah has restrained to follow.
 
 Also in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَى صِرَاطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَى صِرَاطٍ مُسْتَقِيمٍ.
 
 ***…and most surely Allah is the Guide of those who believe into a right
 path. (Surah Haj 22:54)***
@@ -270,11 +242,7 @@ who guide towards Paradise, and we are the chains and ropes of Islam.
 
 Also, it is narrated from the same Imam regarding verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا.
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا.
 
 ***And (as for) those who strive hard for Us, We will most certainly
 guide them in Our ways… (Surah Ankabut 29:69)***
@@ -284,11 +252,7 @@ and their Shias.
 
 Also from the same Imam:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ.
-  </p>
-</blockquote>
+> وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ.
 
 ***…and follow the way of him who turns to Me…(Surah Luqman 31:15)***
 
@@ -296,11 +260,7 @@ It means: Follow the way (path) of Muhammad and Ali.
 
 Ali Ibne Ibrahim narrates in the explanation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَتَدْعُوهُمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> وَإِنَّكَ لَتَدْعُوهُمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ.
 
 ***And most surely you invite them to a right way. (Surah Mu’minun
 23:73)***
@@ -310,12 +270,8 @@ That the Imam said that it means to the Wilayat of Amirul Momineen
 
 Also regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنْ الصِّرَاطِ
-لَنَاكِبُونَ.
-  </p>
-</blockquote>
+> وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنْ الصِّرَاطِ
+> لَنَاكِبُونَ.
 
 ***And most surely those who do not believe in the hereafter are
 deviating from the way. (Surah Mu’minun 23:74)***
@@ -327,11 +283,7 @@ denotes the Wilayat of Ahle Bayt (a.s.).
 
 Also it is quoted in *Manaqib* from Ibne Abbas regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنْ اهْتَدَى.
-  </p>
-</blockquote>
+> فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنْ اهْتَدَى.
 
 ***So you will come to know who is the follower of the even path and who
 goes aright. (Surah Taha 20:135)***
@@ -359,11 +311,7 @@ opposed them, that is why this Chastisement, fire, open-mouthed snakes,
 scorpions ready to sting, fangs barred wild animals and all such types
 of punishments are for you and your return is to them. He would say:
 
-<blockquote dir="rtl">
-  <p>
-يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا.
-  </p>
-</blockquote>
+> يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا.
 
 ***O! Would that I had taken a way with the Apostle… (Surah Furqan
 25:27)***
@@ -374,13 +322,9 @@ whatever he had said and made incumbent upon me regarding the Wilayat
 
 Ibne Mahyar has narrated from Muhammad Baqir (a.s.) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي
-اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا. يَا وَيْلَتِي لَيْتَنِي لَمْ
-أَتَّخِذْ فُلَانًا خَلِيلًا.
-  </p>
-</blockquote>
+> وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي
+> اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا. يَا وَيْلَتِي لَيْتَنِي لَمْ
+> أَتَّخِذْ فُلَانًا خَلِيلًا.
 
 ***And the day when the unjust one shall bite his hands saying: O! Would
 that I had taken a way with the Apostle. O woe is me! Would that I had
@@ -404,25 +348,17 @@ will curse each other and will express disdain for each other. The
 second one will say to his companion and confidant, the first one, when
 they meet each other:
 
-<blockquote dir="rtl">
-  <p>
-يَا لَيْتَ بَيْنِي وَبَيْنَكَ بُعْدَ الْمَشْرِقَيْنِ فَبِئْسَ
-الْقَرِينُ.
-  </p>
-</blockquote>
+> يَا لَيْتَ بَيْنِي وَبَيْنَكَ بُعْدَ الْمَشْرِقَيْنِ فَبِئْسَ
+> الْقَرِينُ.
 
 ***O would that between me and you there were the distance of the East
 and the West; so evil is the associate! (Surah Zukhruf 43:38)***
 
 Hearing this that tyrant would reply in a terrible condition:
 
-<blockquote dir="rtl">
-  <p>
-يَا وَيْلَتِي لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا. لَقَدْ
-أَضَلَّنِي عَنْ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ
-لِلْإِنسَانِ خَذُولًا.
-  </p>
-</blockquote>
+> يَا وَيْلَتِي لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا. لَقَدْ
+> أَضَلَّنِي عَنْ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ
+> لِلْإِنسَانِ خَذُولًا.
 
 O woe is me! Would that I had not taken such a one for a friend!
 Certainly he led me astray from the reminder after it had come to me;
@@ -437,12 +373,8 @@ falsified and I am that right path from which they turned away.
 From *Manaqib* a tradition of Imam Sadiq (a.s.) says regarding this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي
-سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي
+> سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ.
 
 ***What! Is he who goes prone upon his face better guided or he who
 walks upright upon a straight path? (Surah Mulk 67:22)***
@@ -457,13 +389,9 @@ who walks on the right path at night, by Allah it is Ali Ibne Abi Talib
 
 Ali Ibne Ibrahim narrates from Imam Baqir (a.s.) regarding this verse:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَقُولُ الظَّالِمُونَ إِنْ تَتَّبِعُونَ إِلَّا رَجُلًا
-مَسْحُورًا. انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا
-يَسْتَطِيعُونَ سَبِيلًا.
-  </p>
-</blockquote>
+> إِذْ يَقُولُ الظَّالِمُونَ إِنْ تَتَّبِعُونَ إِلَّا رَجُلًا
+> مَسْحُورًا. انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا
+> يَسْتَطِيعُونَ سَبِيلًا.
 
 ***…when the unjust say: You follow only a man deprived of reason. See
 what they liken you to! So they have gone astray and cannot find the
@@ -482,13 +410,9 @@ the path towards Allah.[^1]
 Kulaini has narrated with authentic chains from Imam Baqir (a.s.)
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ عَلَى بَصِيرَةٍ أَنَا
-وَمَنْ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنْ
-الْمُشْرِكِينَ.
-  </p>
-</blockquote>
+> قُلْ هَذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ عَلَى بَصِيرَةٍ أَنَا
+> وَمَنْ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنْ
+> الْمُشْرِكِينَ.
 
 ***Say: This is my way: I call to Allah, I and those who follow me being
 certain, and glory be to Allah, and I am not one of the polytheists.
@@ -505,12 +429,8 @@ who are astrayed.
 
 According to another tradition regarding this verse:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ إِنَّكَ عَلَى صِرَاطٍ
-مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ إِنَّكَ عَلَى صِرَاطٍ
+> مُسْتَقِيمٍ.
 
 ***Therefore (O Apostle) hold fast to that which has been revealed to
 you; surely you are on the right path.(Surah Zukhruf 43:43)***
@@ -518,11 +438,7 @@ you; surely you are on the right path.(Surah Zukhruf 43:43)***
 The Imam said that it is the Wilayat of Ali Ibne Abi Talib, and Ali is
 ‘the right path’. And the Almighty Allah says in Surah Hijr:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ.
-  </p>
-</blockquote>
+> قَالَ هَذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ.
 
 ***He said: This is a right way with Me: (Surah Hijr 15:41)***
 
@@ -539,16 +455,12 @@ crookedness in it. So follow it and be attached to it.
 Kulaini has also chosen this recitation. And narrated from Imam Sadiq
 (a.s.) regarding this recitation:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
-تَتَنَزَّلُ عَلَيْهِمْ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا
-تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ.
-نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ
-وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا
-تَدَّعُونَ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+> تَتَنَزَّلُ عَلَيْهِمْ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا
+> تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ.
+> نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ
+> وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا
+> تَدَّعُونَ.
 
 ***(As for) those who say: Our Lord is Allah, then continue in the right
 way, the angels descend upon them, saying: Fear not, nor be grieved, and
@@ -618,12 +530,8 @@ companions.
 
 The Almighty Allah says in Surah Jinn:
 
-<blockquote dir="rtl">
-  <p>
-وَأَلَّوْ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً
-غَدَقًا. لِنَفْتِنَهُمْ فِيهِ.
-  </p>
-</blockquote>
+> وَأَلَّوْ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً
+> غَدَقًا. لِنَفْتِنَهُمْ فِيهِ.
 
 ***And that if they should keep to the (right) way, We would certainly
 give them to drink of abundant*** ***water. So that We might try them
@@ -680,5 +588,4 @@ out of the graves, the angels would welcome them and say: Do not be
 afraid and do not grieve. We are those who lived in the world with you
 and now we would never separate from you, till you enter Paradise. And
 the good news of Paradise is for you, which had been promised to you.
-
 

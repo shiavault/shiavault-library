@@ -333,4 +333,3 @@ and Surat al-Munafiqoon are discussed. Ibn Asakir, Tarikh, Vol. 4, p.
 [^8]: Al-Bukhari, Sahih, Vol. 7, p. 209, in a chapter dealing with the
 Pool [of al-Kawthar].
 
-

@@ -241,7 +241,6 @@ the One?" The Imam replied, "It means the unanimity of all tongues in
 speaking of Allah's Oneness. If you ask them as to who has created them,
 they all say it is Allah, Who has created them."
 
-
 **Chapter 17 : Chapter on Another Chapter (Related) to the Previous
 Chapter**
 
@@ -470,5 +469,4 @@ Thus, is the case for all the names although we have not mentioned all
 of them. For learning a lesson what we have mentioned for you is
 sufficient. May Allah be your and our helper in the matters of guidance
 and success."
-
 

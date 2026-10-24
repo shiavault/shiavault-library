@@ -79,7 +79,6 @@ heavens and His earth. For us the tree spoke and with our worship Allah,
 the Most Holy, the Most High, is worshipped. Had we not been in
 existence Allah would have been worshipped."
 
-
 **Chapter 12 : The Imams (a.s.) are the Deputies of Allah, the Most
 Holy, the Most High, on earth and the Gates through which people go
 nearer to Allah H 492, Ch. 12, h 1**
@@ -113,5 +112,4 @@ Quran.
 His deputies on earth, as He had appointed those who lived before. . .
 ." (24:55) The Imams (a.s.) said, "The people referred to in this verse
 are the Imams
-
 

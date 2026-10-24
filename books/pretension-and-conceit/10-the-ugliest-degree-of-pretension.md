@@ -51,4 +51,3 @@ hypocrisy!
 [^1]: We will explain, by the Will of Allah, how conviction is an act of
 the heart [of the innermost].
 
-

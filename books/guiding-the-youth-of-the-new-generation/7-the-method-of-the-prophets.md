@@ -7,12 +7,8 @@ friends who have the books of the Ahlus Sunnah at their disposal and
 have done research through these books, it is clear that this hadith
 also exists in their books.  The Noble Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنٌّـا مَعٌاشِرَ  الأَنْبِيٌاءِ أُمِرْنٌا أَنْ نُكَلِّمَ  النٌّاسَ
-عَلى قَدَرِ عُقُولِهِمْ
-  </p>
-</blockquote>
+> إِنٌّـا مَعٌاشِرَ  الأَنْبِيٌاءِ أُمِرْنٌا أَنْ نُكَلِّمَ  النٌّاسَ
+> عَلى قَدَرِ عُقُولِهِمْ
 
 *“We, the assembly of Prophets have been commanded to speak to the
 people according to their level of intelligence”*[^1]*.*
@@ -31,17 +27,9 @@ method which they would answer an old, inerudite person.
 Mawlawi alludes to the concept mentioned in the above hadith in his poem
 which states:
 
-<blockquote dir="rtl">
-  <p>
-پست می گويم به اندازه عقول
-  </p>
-</blockquote>
+> پست می گويم به اندازه عقول
 
-<blockquote dir="rtl">
-  <p>
-عيب نبودي اين، بود كار رسول
-  </p>
-</blockquote>
+> عيب نبودي اين، بود كار رسول
 
 *“They say it is bad to speak to the intelligence of the people. This is
 a not a shortcoming, rather, it is the job of the Messenger.”*
@@ -80,12 +68,8 @@ teachings of the Prophets.  If they were less mentally prepared, then
 they would only be able to make use of the teachings to their own
 capability, as it is stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنٌّـا مَعٌاشِرَ  الأَنْبِيٌاءِ أُمِرْنٌا أَنْ نُكَلِّمَ  النٌّاسَ
-عَلى قَدَرِ عُقُولِهِمْ
-  </p>
-</blockquote>
+> إِنٌّـا مَعٌاشِرَ  الأَنْبِيٌاءِ أُمِرْنٌا أَنْ نُكَلِّمَ  النٌّاسَ
+> عَلى قَدَرِ عُقُولِهِمْ
 
 *“We, the assembly of Prophets have been commanded to speak to the
 people according to their level of intelligence.”*[^2]  
@@ -94,5 +78,4 @@ people according to their level of intelligence.”*[^2]
 [^1]: al-Kafi, Volume 1, Page 23
 
 [^2]: Ibid.
-
 

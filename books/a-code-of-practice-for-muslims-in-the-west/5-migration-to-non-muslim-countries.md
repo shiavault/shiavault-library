@@ -314,4 +314,3 @@ attaining the age of maturity.
 [^10]: Translator's Note: Adhan means the call for prayer announced at
 prayer times from the mosques.
 
-

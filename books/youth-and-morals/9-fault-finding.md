@@ -295,4 +295,3 @@ previous one.”[^10]
 
 [^10]: Ravankavi
 
-

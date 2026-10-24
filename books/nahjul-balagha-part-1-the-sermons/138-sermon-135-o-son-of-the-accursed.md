@@ -6,18 +6,10 @@ al-mu'minin when al-Mughirah ibn al-Akhnas [^1] said to \`Uthman that he
 would deal with Amir al-mu'minin on his behalf whereupon Amir
 al-mu'minin said to al-Mughirah:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد وقعت مشاجرة بينه وبين عثمان، فقال المغيرة بن الاخنس لعثمان: أنا
-أكِفيكَه، فقال أميرالمؤمنين صلوات الله عليه للمغيرة:
-  </p>
-</blockquote>
+> وقد وقعت مشاجرة بينه وبين عثمان، فقال المغيرة بن الاخنس لعثمان: أنا
+> أكِفيكَه، فقال أميرالمؤمنين صلوات الله عليه للمغيرة:
 
 O son of the accursed and issueless, and of a tree which has neither
 root nor branch. Will you deal with me? By Allah, Allah will not grant
@@ -26,15 +18,11 @@ you raise. Get away from us. Allah may keep you away from your purpose.
 Then do whatever you like. Allah may not have mercy on you if you have
 pity on me.
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اللَّعِينِ الاْبْتَرِ، وَالشَّجَرَةِ الَّتي لاَ أَصْلَ لَهَا
-وَلاَ فَرْعَ، أَنْتَ تَكْفِينِي، فَوَاللهِ مَاأَعَزَّ اللهُ مَنْ
-أَنْتَ نَاصِرُهُ، وَلاَ قَامَ مَنْ أَنْتَ مُنْهِضُه، اخْرُجْ عَنَّا
-أَبْعَدَ اللهُ نَوَاكَ، ثُمَّ ابْلُغْ جَهْدَك، فَلاَ أَبْقَى اللهُ
-عَلَيْكَ إِنْ أَبْقَيْتَ!
-  </p>
-</blockquote>
+> يَابْنَ اللَّعِينِ الاْبْتَرِ، وَالشَّجَرَةِ الَّتي لاَ أَصْلَ لَهَا
+> وَلاَ فَرْعَ، أَنْتَ تَكْفِينِي، فَوَاللهِ مَاأَعَزَّ اللهُ مَنْ
+> أَنْتَ نَاصِرُهُ، وَلاَ قَامَ مَنْ أَنْتَ مُنْهِضُه، اخْرُجْ عَنَّا
+> أَبْعَدَ اللهُ نَوَاكَ، ثُمَّ ابْلُغْ جَهْدَك، فَلاَ أَبْقَى اللهُ
+> عَلَيْكَ إِنْ أَبْقَيْتَ!
 
 Alternative Sources for Sermon 135
 ----------------------------------
@@ -50,5 +38,4 @@ the time of the fall of Mecca but retained heresy and hypocrisy in
 heart. That is why Amir al-mu'minin called him accursed, and he called
 him issueless because he who has a son like al-Mughirah deserves to be
 called issueless.
-
 

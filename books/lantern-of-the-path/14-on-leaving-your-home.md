@@ -26,5 +26,3 @@ righteous cause, guide those who are lost and ignore the ignorant.
 When you return to your home, enter it as a corpse enters the grave,
 its only concern being to receive the mercy and forgiveness of Allah.
 
-
-

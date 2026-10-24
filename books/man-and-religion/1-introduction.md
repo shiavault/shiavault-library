@@ -58,7 +58,6 @@ sincerely worship Him alone. We implore Him with the prayer of Christ
 Your slaves; and if You forgive them (surely they are Your slaves) You
 are the Mighty, the Wise. Holy Our'an (5:118)
 
-
 Al-Balagh Foundation
 
 **MAN'S NEED FOR RELIGION**
@@ -140,7 +139,6 @@ evidence.
 
 Herein, we reiterate some of the numerous and most important realities
 that the mind has but to accept:
-
 
 **First: The Natural Proof**
 
@@ -229,7 +227,6 @@ their intellect . He further adds: "The best thing that the beseechers
 plead with Allah the Exalted as faith in Him and His Messenger and
 fighting (the Polytheists) for His sake, as this is the highest degree
 of Islam, and the word of unity which is in the innate nature.
-
 
 **Second: The Scientific Proof**
 
@@ -403,5 +400,4 @@ expression of man's ignorant inclination as erroneous and straying,
 since it is imaginary, and unreal, and a wandering expression that would
 not realize man's objective. Hence the saying of the Our'an: "...nay, we
 used not to call upon anything before... "
-
 

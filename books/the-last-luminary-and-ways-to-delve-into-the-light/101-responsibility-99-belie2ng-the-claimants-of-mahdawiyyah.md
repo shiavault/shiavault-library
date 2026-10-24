@@ -20,4 +20,3 @@ and spiritual darkness, and disbelief and hypocrisy, may take this
 the wrong path and thus, they will have strayed away from the path of
 Allah and the religion of His Messenger and his rightful Successors.
 
-

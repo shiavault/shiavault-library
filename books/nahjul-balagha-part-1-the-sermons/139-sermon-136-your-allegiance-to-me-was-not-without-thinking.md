@@ -4,17 +4,9 @@ Sermon 136: Your allegiance to me was not without thinking….
 *About the sincerity of his own intention and support of the oppressed
 (regarding the allegiance paid to him)*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في أمر البيعة
-  </p>
-</blockquote>
+> في أمر البيعة
 
 Your allegiance to me was not without thinking,[^1] nor is my and your
 position the same. I seek you for Allah's sake but you seek me for your
@@ -23,16 +15,12 @@ Allah, I will take revenge for the oppressed from the oppressor and will
 put a string in the nose of the oppressor and drag him to the spring of
 truthfulness even though he may grudge it.
 
-<blockquote dir="rtl">
-  <p>
-لَمْ تَكُنْ بَيْعَتُكُمْ إِيَّايَ فَلْتَةً، وَلَيْسَ أَمْرِي
-وَأَمْرُكُمْ وَاحِداً، إِنِّي أُرِيدُكُمْ للهِ وَأَنْتُمْ
-تُرِيدُونَنِي لاِنْفُسِكُمْ. أَيُّهَا النَّاسُ، أَعِينُوني عَلى
-أَنْفُسِكُمْ، وَايْمُ اللهِ لاَنْصِفَنَّ الْمَظْلُومَ، وَلاَقُودَنَّ
-الظَّالِمَ بِخِزَامَتِهَ حَتَّى أُورِدَهُ مَنْهَلَ الْحَقِّ وَإِنْ
-كَانَ كَارِهاً.
-  </p>
-</blockquote>
+> لَمْ تَكُنْ بَيْعَتُكُمْ إِيَّايَ فَلْتَةً، وَلَيْسَ أَمْرِي
+> وَأَمْرُكُمْ وَاحِداً، إِنِّي أُرِيدُكُمْ للهِ وَأَنْتُمْ
+> تُرِيدُونَنِي لاِنْفُسِكُمْ. أَيُّهَا النَّاسُ، أَعِينُوني عَلى
+> أَنْفُسِكُمْ، وَايْمُ اللهِ لاَنْصِفَنَّ الْمَظْلُومَ، وَلاَقُودَنَّ
+> الظَّالِمَ بِخِزَامَتِهَ حَتَّى أُورِدَهُ مَنْهَلَ الْحَقِّ وَإِنْ
+> كَانَ كَارِهاً.
 
 Alternative Sources for Sermon 136
 ----------------------------------
@@ -53,5 +41,4 @@ pp. 245246; al-Musnad, Ahmad ibn Hanbal, vol. l, p. 55; as-Sirah
 al-Halabiyyah, vol. 3, pp. 388, 392; al-Ansab, al-Baladhuri, vol. 5, p.
 l5; at-Tamhid, al-Baqilani, p. l96; ash-Sharh, Ibn Abi'l-Hadid, vol. 2,
 p. 23)
-
 

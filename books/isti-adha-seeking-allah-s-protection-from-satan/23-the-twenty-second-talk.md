@@ -1,20 +1,12 @@
 The Twenty Second Talk
 ======================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura an-Nahl, 16:99)***
@@ -27,11 +19,7 @@ and intuition (*Wajdaan*), *Tawakkul* is an important condition and
 concomitant of Faith. Therefore, it is very lucidly said in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
 
 ***…and on Allah should you rely if you are believers. (Sura al-Maidah,
 5:23)***
@@ -244,5 +232,4 @@ We sincerely pray to Allah (S.w.T.) that He preserves us against facing
 shame in this world and the Hereafter. We pray that Allah (S.w.T.)
 endows us with true *Tawakkul* that our total trust is focused on Him
 throughout our lives.
-
 

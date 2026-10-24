@@ -978,4 +978,3 @@ alternative views of human life. How, then, are we to under, stand this
 union in the Ethics of philosophical acumen and social obscurantism? To
 answer this we must look at his work in a wider perspective.
 
-

@@ -52,4 +52,3 @@ For those who do good is good (reward) and even more than that.
 
 [^1]: Tabrasi, Mashkat al-Anwar, p. 175, 2nd Edition.
 
-

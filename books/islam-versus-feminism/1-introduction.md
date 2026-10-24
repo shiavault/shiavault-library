@@ -65,4 +65,3 @@ Islamic women's movement.
 [^1]: W. v. Quine, Quiddities (Cambridge: Harvard University Press,
 1987), 207-208.
 
-

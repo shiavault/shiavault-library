@@ -419,4 +419,3 @@ nobility in the souls of men. A good Muslim must have some nobility and
 generosity which always reflect this aspect of the personality of the
 Prophet.
 
-

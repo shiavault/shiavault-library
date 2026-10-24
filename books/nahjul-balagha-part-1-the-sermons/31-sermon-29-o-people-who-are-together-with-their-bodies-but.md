@@ -3,23 +3,11 @@ Sermon 29: O people, who are together with their bodies, but ...
 
 *About those who found pretexts at the time of jihad*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-بعد غارة الضحاك بن قيس صاحب معاوية على الحاجّ بعد قصة الحكمين
-  </p>
-</blockquote>
+> بعد غارة الضحاك بن قيس صاحب معاوية على الحاجّ بعد قصة الحكمين
 
-<blockquote dir="rtl">
-  <p>
-[وفيها يستنهض أصحابه لما حدث في الاطراف]
-  </p>
-</blockquote>
+> [وفيها يستنهض أصحابه لما حدث في الاطراف]
 
 O people, your bodies are together but your desires are divergent. Your
 talk softens the hard stones and your action attracts your enemy towards
@@ -33,19 +21,15 @@ ignoble cannot ward off oppression. Right cannot be achieved without
 effort. Which is the house besides this one to protect? And with which
 leader (Imam) would you go for fighting after me?
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، الْمجْتَمِعَةُ أبْدَانُهُمْ، الُمخْتَلِفَةُ
-أهْوَاؤُهُمْ، كَلامُكُم يُوهِي الصُّمَّ الصِّلابَ، وَفِعْلُكُمْ
-يُطْمِعُ فِيكُمُ الاْعْدَاءَ! تَقُولُونَ فِي الَمجَالِسِ: كَيْتَ
-وَكَيْتَ، فَإذَا جَاءَ الْقِتَالُ قُلْتُمْ: حِيدِي حَيَادِ! مَا
-عَزَّتْ دَعْوَةُ مَنْ دَعَاكُمْ، وَلاَ اسْتَرَاحَ قَلْبُ مَنْ
-قَاسَاكُمْ، أَعَالِيلُ بِأَضَالِيلَ، دِفَاعَ ذِي الدَّيْنِ المَطُولِ،
-لاَ يَمنَعُ الضَّيْمَ الذَّلِيلُ! وَلاَ يُدْرَكُ الْحَقُّ إِلاَ
-بِالْجِدِّ! أَيَّ دَار بَعْدَ دَارِكُمْ تَمْنَعُونَ، وَمَعَ أَىِّ
-إِمَام بَعْدِي تُقَاتِلُونَ؟
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، الْمجْتَمِعَةُ أبْدَانُهُمْ، الُمخْتَلِفَةُ
+> أهْوَاؤُهُمْ، كَلامُكُم يُوهِي الصُّمَّ الصِّلابَ، وَفِعْلُكُمْ
+> يُطْمِعُ فِيكُمُ الاْعْدَاءَ! تَقُولُونَ فِي الَمجَالِسِ: كَيْتَ
+> وَكَيْتَ، فَإذَا جَاءَ الْقِتَالُ قُلْتُمْ: حِيدِي حَيَادِ! مَا
+> عَزَّتْ دَعْوَةُ مَنْ دَعَاكُمْ، وَلاَ اسْتَرَاحَ قَلْبُ مَنْ
+> قَاسَاكُمْ، أَعَالِيلُ بِأَضَالِيلَ، دِفَاعَ ذِي الدَّيْنِ المَطُولِ،
+> لاَ يَمنَعُ الضَّيْمَ الذَّلِيلُ! وَلاَ يُدْرَكُ الْحَقُّ إِلاَ
+> بِالْجِدِّ! أَيَّ دَار بَعْدَ دَارِكُمْ تَمْنَعُونَ، وَمَعَ أَىِّ
+> إِمَام بَعْدِي تُقَاتِلُونَ؟
 
 By Allah! Deceived is one whom you have deceived while, by Allah, he who
 is successful with you receives only useless arrows! You are like broken
@@ -56,17 +40,13 @@ What is your cure? The other party is also men of your shape (but they
 are so different in character). Will there be talk without action,
 carelessness without piety and greed in things not right? ![^1]
 
-<blockquote dir="rtl">
-  <p>
-المَغْرُورُ وَاللهِ مَنْ غَرَرْتُمُوهُ، وَمْنْ فَازَبِكُمْ فَازَ
-بَالسَّهْمِ الاْخْيَبِ، وَمَنْ رَمَى بِكُمْ فَقَدْ رَمَى بِأَفْوَقَ
-نَاصِل. أَصْبَحْتُ وَاللهِ لا أُصَدِّقُ قَوْلَكُمْ، وَلاَ أَطْمَعُ فِي
-نَصْرِكُمْ، وَلاَ أُوعِدُ العَدُوَّ بِكُم. مَا بَالُكُم؟ مَا
-دَوَاؤُكُمْ؟ مَا طِبُّكُمْ؟ القَوْمُ رِجَالٌ أَمْثَالُكُمْ، أَقَوْلاً
-بَغَيْرِ عِلْم! وَغَفْلَةً مِنْ غَيْرِ وَرَع! وَطَمَعاً في غَيْرِ
-حَقٍّ؟!
-  </p>
-</blockquote>
+> المَغْرُورُ وَاللهِ مَنْ غَرَرْتُمُوهُ، وَمْنْ فَازَبِكُمْ فَازَ
+> بَالسَّهْمِ الاْخْيَبِ، وَمَنْ رَمَى بِكُمْ فَقَدْ رَمَى بِأَفْوَقَ
+> نَاصِل. أَصْبَحْتُ وَاللهِ لا أُصَدِّقُ قَوْلَكُمْ، وَلاَ أَطْمَعُ فِي
+> نَصْرِكُمْ، وَلاَ أُوعِدُ العَدُوَّ بِكُم. مَا بَالُكُم؟ مَا
+> دَوَاؤُكُمْ؟ مَا طِبُّكُمْ؟ القَوْمُ رِجَالٌ أَمْثَالُكُمْ، أَقَوْلاً
+> بَغَيْرِ عِلْم! وَغَفْلَةً مِنْ غَيْرِ وَرَع! وَطَمَعاً في غَيْرِ
+> حَقٍّ؟!
 
 Alternative Sources for Sermon 29
 ---------------------------------
@@ -113,5 +93,4 @@ with a force of four thousand for crushing the enemy and overtook him at
 Tadmur. Only a small encounter had taken place between the parties when
 night came on and he fled away with only nineteen killed on his side. In
 Amir al-mu'minin's army also two persons fell as martyrs.
-
 

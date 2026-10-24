@@ -1,22 +1,14 @@
 O Allāh, Free Every Captive
 ===========================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ فُكَّ كُلَّ أَسِيْرٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ فُكَّ كُلَّ أَسِيْرٍ
 
 Meaning of Asīr
 ---------------
 
 The word *Asīr* originates from *al-asr*, which means:
 
-<blockquote dir="rtl">
-  <p>
-الشَّدُّ بِالْقَيْدِ...
-  </p>
-</blockquote>
+> الشَّدُّ بِالْقَيْدِ...
 
 “Fastening with a bond…”
 
@@ -27,11 +19,7 @@ One who was tied by fetters was known to be *asīr*; thereafter, the word
 was intended for every entity that is seized and bound, even if it was
 not fettered by anything… for example:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا أَسِيْرُ نِعْمَتِكَ.
-  </p>
-</blockquote>
+> أَنَا أَسِيْرُ نِعْمَتِكَ.
 
 “I am bound to your favor.”
 
@@ -43,22 +31,14 @@ some examples:
 a. Imām Abu’l Hasan al-Thālith[^2] (‘Alī al-Naqī (as)) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-وَالْجَاهِلُ أَسِيْرُ لِسَانِهِ.
-  </p>
-</blockquote>
+> وَالْجَاهِلُ أَسِيْرُ لِسَانِهِ.
 
 The ignorant one is a captive of his tongue.
 
 b. In a supplication[^3] from Yūsha’ bin Nūn (as) we find the following
 expression:
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهِي: أَنْتَ مَلِكَ الْعَطَايَا، وَأَنَا أَسِيْرُ الْخَطَايَا.
-  </p>
-</blockquote>
+> إِلٌهِي: أَنْتَ مَلِكَ الْعَطَايَا، وَأَنَا أَسِيْرُ الْخَطَايَا.
 
 “O God, You are the Sovereign of bestowals while I am a captive of my
 faults.”
@@ -67,23 +47,15 @@ c. In one *Ziyārah* of *Arba‘īn*[^4] (40th of Imām al-Husayn (as)) said
 to be taught by Imām al-Sādiq (as), we address Imām al-Husayn (as) as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلى أَسِيرِ الْكُرُبَاتِِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلى أَسِيرِ الْكُرُبَاتِِ.
 
 “Peace be upon the captive of deep sorrows.”
 
 d. In his well known epistle[^5] to Mālik al-Ashtar, Imām ‘Alī (as)
 says:
 
-<blockquote dir="rtl">
-  <p>
-...فَإِنَّ هٌذَا الدِّينَ قَدْ كَانَ أَسِيراً فِي أَيْدِي الأَشْرَار؛
-يُعْمَلُ فِيْهِ بِالْهَوَى، وَتُطْلَبُ بِهِ الدُّنْـيَا...
-  </p>
-</blockquote>
+> ...فَإِنَّ هٌذَا الدِّينَ قَدْ كَانَ أَسِيراً فِي أَيْدِي الأَشْرَار؛
+> يُعْمَلُ فِيْهِ بِالْهَوَى، وَتُطْلَبُ بِهِ الدُّنْـيَا...
 
 “…for surely this Religion was a captive in the hands of the evil folk,
 for under its pretext they would follow their base inclinations and seek
@@ -92,11 +64,7 @@ worldly gains…”
 e. In *Nahju’l Balāgha*[^6], while explaining the characteristics of the
 angels, Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-...فَهُمْ أُسَرَاءُ إِيْمَانٍ...
-  </p>
-</blockquote>
+> ...فَهُمْ أُسَرَاءُ إِيْمَانٍ...
 
 “…for they are captives of faith…”
 
@@ -198,11 +166,7 @@ rights. No one was allowed to maltreat them. Instead ways of letting
 them free were suggested to them. Accordingly many were set free with a
 ransom fee. History tells us that[^12]:
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ يُفَادِي بِهِمْ عَلَى قَدْرِ أَمْوَالِهِمْ.
-  </p>
-</blockquote>
+> وَكَانَ يُفَادِي بِهِمْ عَلَى قَدْرِ أَمْوَالِهِمْ.
 
 “And the Prophet (s) took a ransom fee from them according to their
 financial state.”
@@ -214,26 +178,18 @@ ransom.
 2. It is reported[^13] that after Ibn Muljim struck the fatal blow on
 Imām ‘Alī (as), the Imām addressing his two sons (as), said:
 
-<blockquote dir="rtl">
-  <p>
-إِحْبِسُوْا هٌذَا الأَسِيْرَ وَأَطْعِمُوْهُ وَاسْقُوْهُ وَأَحْسِنُوْا
-إِسَارَهُ.
-  </p>
-</blockquote>
+> إِحْبِسُوْا هٌذَا الأَسِيْرَ وَأَطْعِمُوْهُ وَاسْقُوْهُ وَأَحْسِنُوْا
+> إِسَارَهُ.
 
 “Imprison this captive, and give him food and drink, and deal with him
 in a good way in his captivity.”
 
 And in another tradition[^14] he says the following about Ibn Muljim:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ أَسِيْرٌ؛ فَأَحْسِنُوْا نُزْلَهُ، وَأَكْرِمُوْا مَثْوَاهُ.
-فَإِنْ بَقِيْتُ، قَتَلْتُ أَوْ عَفَوْتُ. وَإِنْ مِتُّ، فَاقْتُلُوْهُ
-قَتْلَتِي،  وَلاَ تَعْتَدُوْا إِنَّ اللٌّهَ لاَ يُحِبُّ
-الْمُعْتَدِيْنَ 
-  </p>
-</blockquote>
+> إِنَّهُ أَسِيْرٌ؛ فَأَحْسِنُوْا نُزْلَهُ، وَأَكْرِمُوْا مَثْوَاهُ.
+> فَإِنْ بَقِيْتُ، قَتَلْتُ أَوْ عَفَوْتُ. وَإِنْ مِتُّ، فَاقْتُلُوْهُ
+> قَتْلَتِي،  وَلاَ تَعْتَدُوْا إِنَّ اللٌّهَ لاَ يُحِبُّ
+> الْمُعْتَدِيْنَ 
 
 ***“Indeed he is a captive; therefore give him good food and a nice
 place; then if I were to remain alive I would either kill him or forgive
@@ -277,24 +233,16 @@ Look at the following traditions carefully:
 
 Imām Ja’far al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلِيّاً (ع) كَانَ يُطْعِمُ مَنْ خُلِّدَ فِي السِّجْنِِ مِنْ
-بَيتِ مَالِ الْمُسْلِمِيْنَ.
-  </p>
-</blockquote>
+> إِنَّ عَلِيّاً (ع) كَانَ يُطْعِمُ مَنْ خُلِّدَ فِي السِّجْنِِ مِنْ
+> بَيتِ مَالِ الْمُسْلِمِيْنَ.
 
 “Surely, ‘Alī (as) would feed the captive who served life imprisonment
 from the treasury of the Muslims.”
 
 Imām ‘Alī (as)[^16] is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِطْعَامُ الأَسِيْرِ وَالإِحْسَانُ إِلَيْهِ حَقٌّ وَاجِبٌ، وَإِنْ
-قَتَلْتَهُ مِنَ الْغَدِ.
-  </p>
-</blockquote>
+> إِطْعَامُ الأَسِيْرِ وَالإِحْسَانُ إِلَيْهِ حَقٌّ وَاجِبٌ، وَإِنْ
+> قَتَلْتَهُ مِنَ الْغَدِ.
 
 “Feeding the captive and doing good to him, is a compulsory right, even
 if you were to kill him [in accordance with the penal laws of Islam] the
@@ -305,35 +253,23 @@ Hawā al-Nafs: One of the Most Destructive Kinds of Captivity
 
 1. The Holy Qur’ān [Sūrat al-Qasas 28:50] says:
 
-<blockquote dir="rtl">
-  <p>
- وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللٌّهِ
-
-  </p>
-</blockquote>
+>  وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللٌّهِ
+> 
 
 ***“…and who is more stray than he who follows his low desires without
 any guidance from Allāh?”***
 
 2. Imām ‘Alī (as) is reported[^17] to have said:
 
-<blockquote dir="rtl">
-  <p>
-كَمْ مِنْ عَقْلٍ أَسِيرٍ عِنْدَ هَوَىً أَمِيرٍ.
-  </p>
-</blockquote>
+> كَمْ مِنْ عَقْلٍ أَسِيرٍ عِنْدَ هَوَىً أَمِيرٍ.
 
 “How great a number are there intellects under the captivity of dominant
 inclinations!”
 
 3. Imām ‘Alī (as) is reported[^18] to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمْ إِثْنَتَانِ: اتِّبَاعُ الْهَوَى
-وَطُوْلُ الأَمَلِ.
-  </p>
-</blockquote>
+> إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمْ إِثْنَتَانِ: اتِّبَاعُ الْهَوَى
+> وَطُوْلُ الأَمَلِ.
 
 “Surely there are two things that I fear most from you: following your
 vain inclinations and having forlorn hopes.”
@@ -366,15 +302,11 @@ Hawā al-Nafs Lowers One to the Example of a Dog!
 
 The Holy Qur’ān [chapter 7, verse no. 175-176] says:
 
-<blockquote dir="rtl">
-  <p>
- وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِي آتَيْنَاهُ آيَاتِنَا فَانْسَلَخَ
-مِنْهَا فَأَتْـبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ. وَلَوْ
-شِئْنَا لَرَفَعْنَاهُ بِهَا وَلٌكِنَّهُ أَخْلَدَ إِلـى الأَرْضِ
-وَاتَّبَعَ هَوَاهُ فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِنْ تَحْمِلْ
-عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ 
-  </p>
-</blockquote>
+>  وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِي آتَيْنَاهُ آيَاتِنَا فَانْسَلَخَ
+> مِنْهَا فَأَتْـبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ. وَلَوْ
+> شِئْنَا لَرَفَعْنَاهُ بِهَا وَلٌكِنَّهُ أَخْلَدَ إِلـى الأَرْضِ
+> وَاتَّبَعَ هَوَاهُ فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِنْ تَحْمِلْ
+> عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ 
 
 ***“Relate to them the story of the man to whom We sent Our Signs, but
 he passed them by: so Satan*** ***followed him up, and he went astray.
@@ -412,13 +344,9 @@ every kind of ignominy that separates us from His Neighborhood.
 
 Verse no. 176 considers the example of Bal‘am as the example of a dog:
 
-<blockquote dir="rtl">
-  <p>
- فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ
-تَتْرُكْهُ يَلْهَثْ ذٌلِكَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا
-بِآيَاتِنَا فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ 
-  </p>
-</blockquote>
+>  فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ
+> تَتْرُكْهُ يَلْهَثْ ذٌلِكَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا
+> بِآيَاتِنَا فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ 
 
 ***“So his parable is as the parable of a dog; if you attack him, he
 lolls out his tongue; and if you leave him alone he lolls out his
@@ -430,12 +358,8 @@ Preference of External Imprisonment Over Internal Imprisonment
 
 The Qur’ān [12:33] quotes Prophet Yūsuf’s (as) prayer:
 
-<blockquote dir="rtl">
-  <p>
- قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَـيَّ مِـمَّا يَدْعُونَـنِي
-إِلَيْهِ 
-  </p>
-</blockquote>
+>  قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَـيَّ مِـمَّا يَدْعُونَـنِي
+> إِلَيْهِ 
 
 ***“O My Lord, prison is dearer to me than that unto which they invite
 me…”***
@@ -456,13 +380,9 @@ The Holy Qur’ān says:
 
 1. The news spread and the women began talking:
 
-<blockquote dir="rtl">
-  <p>
- وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ
-فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي
-ضَلاَلٍ مُبِينٍ 
-  </p>
-</blockquote>
+>  وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ
+> فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي
+> ضَلاَلٍ مُبِينٍ 
 
 ***“Certain women that were in the city said, ‘The Governor’s wife seeks
 to seduce her slave from his (pure) self; surely he has affected her
@@ -475,15 +395,11 @@ later.
 
 2. Zulaykha invites the women:
 
-<blockquote dir="rtl">
-  <p>
- فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ
-لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا
-وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ
-وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلٌّهِ مَا هٌذَا بَشَرًا
-إِنْ هٌذَا إِلاَّ مَلَكٌ كَرِيـمٌ 
-  </p>
-</blockquote>
+>  فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ
+> لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا
+> وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ
+> وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلٌّهِ مَا هٌذَا بَشَرًا
+> إِنْ هٌذَا إِلاَّ مَلَكٌ كَرِيـمٌ 
 
 ***“When she heard of their scheming talk, she sent for them, and
 prepared for them a repast and gave each of them a knife and said [to
@@ -495,13 +411,9 @@ noble angel.’”*** [Sūrat Yūsuf - 12:31]
 3. Zulaykha admits that they were right, and threatens Yūsuf with
 Imprisonment:
 
-<blockquote dir="rtl">
-  <p>
- قَالَتْ فَذٌلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ وَلَقَدْ رَاوَدتُّهُ
-عَنْ نَفْسِهِ فَاسْتَعْصَمَ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ
-لَيُسْجَنَنَّ وَلَيَكُوناً مِنَ الصَّاغِرِينَ 
-  </p>
-</blockquote>
+>  قَالَتْ فَذٌلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ وَلَقَدْ رَاوَدتُّهُ
+> عَنْ نَفْسِهِ فَاسْتَعْصَمَ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ
+> لَيُسْجَنَنَّ وَلَيَكُوناً مِنَ الصَّاغِرِينَ 
 
 ***“She said: This is he about whom you blamed me; and indeed I sought
 to seduce him from his [pure] self, but he did firmly abstain himself
@@ -516,13 +428,9 @@ desire or fall in prison [and thus also be branded as the one in fault]
 
 4. The women would like to have relationship with Yūsuf (as)
 
-<blockquote dir="rtl">
-  <p>
- قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
-وَإِلاَّ تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنْ
-الْجَاهِلِينَ 
-  </p>
-</blockquote>
+>  قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
+> وَإِلاَّ تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنْ
+> الْجَاهِلِينَ 
 
 ***“He said, ‘O My Lord, prison is dearer to me than that unto which
 they invite me (yad‘ūnanī ilayhi); and if you do not avert from me their
@@ -536,12 +444,8 @@ message to Yusuf secretly [in the absence of Zulaykhā] and asked him
 that they would like to meet him. But Prophet Yūsuf (as) refused, and
 prayed to Allāh:
 
-<blockquote dir="rtl">
-  <p>
- وَإِلاَّ تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ
-مِنْ الْجَاهِلِينَ 
-  </p>
-</blockquote>
+>  وَإِلاَّ تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ
+> مِنْ الْجَاهِلِينَ 
 
 ***“If You do not ward off their scheme, I would be inclined to them and
 be of the ignorant ones.”***
@@ -551,13 +455,9 @@ According to the commentators of the Qur’ān, the word *yad‘ūnanī ilayhi*
 indicates that they were persistently inviting Yūsuf (as) towards
 themselves. However, Prophet Yūsuf (as) cried:
 
-<blockquote dir="rtl">
-  <p>
- قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
-وَإِلاَّ تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنْ
-الْجَاهِلِينَ 
-  </p>
-</blockquote>
+>  قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
+> وَإِلاَّ تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنْ
+> الْجَاهِلِينَ 
 
 ***“O My Lord, prison is dearer to me than that unto which they invite
 me; and if you do not avert from me their conspiracy I would be inclined
@@ -570,12 +470,8 @@ be imprisoned and accepted humiliation [of being attributed falsely to
 be at fault] but did not dare to disobey his Lord. And the All-merciful
 Lord responded:
 
-<blockquote dir="rtl">
-  <p>
- فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ
-السَّمِيعُ الْعَلِيمُ 
-  </p>
-</blockquote>
+>  فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ
+> السَّمِيعُ الْعَلِيمُ 
 
 ***“And his Lord accepted his prayer and warded off their conspiracy;
 surely he is the All-hearing, the All-knowing.”***
@@ -607,12 +503,8 @@ supplicant forgets all the apparent means of refuge, including himself].
 
 ‘Allāmah Tabātabā’ī[^21] says:
 
-<blockquote dir="rtl">
-  <p>
-...فَلَمْ يَقُلْ: إِنِّيْ أَعُوْذُ مِنْكَ بِاللٌّهِ أَوْ مَا يُؤَدِّيْ
-مَعْنَاهُ، وَإِنَّمَا قَالَ: مَعَاذَ اللٌّهِ...
-  </p>
-</blockquote>
+> ...فَلَمْ يَقُلْ: إِنِّيْ أَعُوْذُ مِنْكَ بِاللٌّهِ أَوْ مَا يُؤَدِّيْ
+> مَعْنَاهُ، وَإِنَّمَا قَالَ: مَعَاذَ اللٌّهِ...
 
 …he [prophet Yusuf (as)] did not say: ‘Indeed I seek refuge with Allāh
 from you…’ or a statement similar to that; rather he only said: ‘*ma
@@ -621,13 +513,9 @@ means)…
 
 Then ‘Allāmah continues saying:
 
-<blockquote dir="rtl">
-  <p>
-...وكَمْ مِنَ الْفَرْق بَيْنَ قَوْلِهِ هٌذَا وَبَيْنَ قَوْلِ مَرْيَمِ
-للرُّوحِ لَمَّا تَمَثَّلَ لَهَا بَشَراً سَوِيًّا: إِنِّي أَعُوْذُ
-بِالرَّحْمٌنِ مِنْكَ...
-  </p>
-</blockquote>
+> ...وكَمْ مِنَ الْفَرْق بَيْنَ قَوْلِهِ هٌذَا وَبَيْنَ قَوْلِ مَرْيَمِ
+> للرُّوحِ لَمَّا تَمَثَّلَ لَهَا بَشَراً سَوِيًّا: إِنِّي أَعُوْذُ
+> بِالرَّحْمٌنِ مِنْكَ...
 
 “…and what a great a difference between this statement of his and
 Maryam’s statement to the Holy Spirit when he appeared to her in the
@@ -642,12 +530,8 @@ narrates[^22] a tradition in which the Prophet (s) is asked to explain
 the status of Imām ‘Alī (as), whereupon the Prophet (s) speaks about his
 merits at great length. At one point he says:
 
-<blockquote dir="rtl">
-  <p>
-أَلا ومَنْ أَحَبَّ عَلِيّاً سُمِّيَ أَسِيْرُ اللٌّهِ فِي الأَرْضِ،
-وَبَاهَى اللٌّهُ بِهِ مَلائِكَتَهُ وَحَمَلَةَ عَرْشِهِ.
-  </p>
-</blockquote>
+> أَلا ومَنْ أَحَبَّ عَلِيّاً سُمِّيَ أَسِيْرُ اللٌّهِ فِي الأَرْضِ،
+> وَبَاهَى اللٌّهُ بِهِ مَلائِكَتَهُ وَحَمَلَةَ عَرْشِهِ.
 
 “Indeed whosoever loves ‘Alī is called the captive of Allāh on the earth
 and Allāh is proud of him near His angels and the Bearers of His
@@ -677,24 +561,16 @@ traditions carefully:
 
 The Holy Prophet (s) is reported[^23] to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّ عَلِيّاً فَقَدْ أَحَبَّنِيْ، وَمَنْ أَحَبَّنِيْ فَقَدْ
-أَحَبَّ اللٌّهَ.
-  </p>
-</blockquote>
+> مَنْ أَحَبَّ عَلِيّاً فَقَدْ أَحَبَّنِيْ، وَمَنْ أَحَبَّنِيْ فَقَدْ
+> أَحَبَّ اللٌّهَ.
 
 “Whosoever loves ‘Alī loves me; and whosoever loves me loves Allāh.”
 
 What use is that love which has no tangible effect? In a tradition, Imām
 Muhammad al-Bāqir (as) addressing Jābir Ju’fī, says[^24]:
 
-<blockquote dir="rtl">
-  <p>
-...يَا جَابِرُ: مَنْ أَطَاعَ اللٌّهَ وَأَحَبَّنَا فَهُوَ وَلِيُّنِا،
-وَمَنْ عَصَى اللٌّهَ لَمْ يَنْفَعْهُ حُبُّنَا.
-  </p>
-</blockquote>
+> ...يَا جَابِرُ: مَنْ أَطَاعَ اللٌّهَ وَأَحَبَّنَا فَهُوَ وَلِيُّنِا،
+> وَمَنْ عَصَى اللٌّهَ لَمْ يَنْفَعْهُ حُبُّنَا.
 
 “…O Jābir! He who obeys Allāh and loves us is our friend; and whosoever
 disobeys Him, our love would not benefit him.”
@@ -720,11 +596,7 @@ attachment’ be the same as ‘complete obedience to Allāh’? Certainly not.
 Therefore love in the tradition under discussion is of a greater degree.
 The Holy Qur’ān [2:165] alludes to this as follows:
 
-<blockquote dir="rtl">
-  <p>
- وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلٌّهِ... 
-  </p>
-</blockquote>
+>  وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلٌّهِ... 
 
 ***“And those who believe have more intense love for Allāh.”***
 
@@ -741,12 +613,8 @@ the ranks of the Imām (as) against the Kuffār, he attained the exalted
 station of martyrdom. In his last moments, as Imām al-Husayn (as) was
 wiping blood from his radiant face, he said:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ حُرٌّ كَمَا سّمَّتْكَ أُمُّكَ، وَأَنْتَ حُرٌّ فِي الدُّنْيَا
-وَالآخِرَةِ.
-  </p>
-</blockquote>
+> أَنْتَ حُرٌّ كَمَا سّمَّتْكَ أُمُّكَ، وَأَنْتَ حُرٌّ فِي الدُّنْيَا
+> وَالآخِرَةِ.
 
 “You are Hurr (a free man) as your mother named you; and you are free in
 this world as well as the Hereafter.”
@@ -754,11 +622,7 @@ this world as well as the Hereafter.”
 The well-known Shī‘a historian, Bāqir Sharīf al-Qarashī, in his *Hayāt
 al-Imām al-Husayn* *(as)* after quoting the above, remarks:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ الْحُرُّ حُرّاً حِيْنَمَا غَلَبَ عَقْلُهُ هَوَاهُ...
-  </p>
-</blockquote>
+> لَقَدْ كَانَ الْحُرُّ حُرّاً حِيْنَمَا غَلَبَ عَقْلُهُ هَوَاهُ...
 
 “Surely Hurr was ‘a free man’ when his intellect won over his vain
 inclination (*hawāhu*).”[^25]
@@ -851,5 +715,4 @@ www.stoptorture.org/report/index.htm
 [^24]: Mizān al-Hikma, v. 1, pg. 519, tr. 3211
 
 [^25]: Hayāt al-Imām al-Husayn , v. 3, pg. 222
-
 

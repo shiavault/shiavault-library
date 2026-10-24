@@ -10,11 +10,7 @@ Furthermore, the later should regard him as their father.
 
 Our Eighth Imam Ar-Ridha’ (as) had a saying in this regard:
 
-<blockquote dir="rtl">
-  <p>
-الاخ الاكبر بمنزلة الاب.
-  </p>
-</blockquote>
+> الاخ الاكبر بمنزلة الاب.
 
 *“Your eldest brother is like your father.”* [^1]
 
@@ -27,5 +23,4 @@ with brotherly love and compassion. Be nice rather than cruel to them at
 times. In short, be like a father to them.
 
 [^1]: Wafi, part 14, p. 79
-
 

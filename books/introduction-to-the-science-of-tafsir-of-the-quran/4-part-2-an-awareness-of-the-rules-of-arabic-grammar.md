@@ -31,4 +31,3 @@ Such a form of understanding (of the rules of Arabic grammar) can be
 attained by going through an entire course in the fields of the science
 of derivation (of the words) and the science of syntax of sentences.
 
-

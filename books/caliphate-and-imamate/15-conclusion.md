@@ -56,4 +56,3 @@ Christian kingdom of the Iberian Peninsula.
 Moriscos”, in Salma Khadra Jayyusi (ed.), The Legacy of Muslim Spain,
 Leiden, 1992, 221-222.
 
-

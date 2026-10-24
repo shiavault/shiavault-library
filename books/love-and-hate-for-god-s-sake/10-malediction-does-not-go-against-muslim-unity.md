@@ -239,4 +239,3 @@ al-durr, vol. 1, pg. 274; Tadhkirat al-khawwas, pg. 124
 
 [^10]: Al-Irshad, vol. 1, pg. 241
 
-

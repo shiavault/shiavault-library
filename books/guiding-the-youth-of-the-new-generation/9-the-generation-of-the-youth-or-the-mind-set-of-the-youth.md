@@ -44,4 +44,3 @@ only there to keep us in our sleep and prevent us from actually thinking
 about a way out and a better route to take.  In an instant, we will wake
 up and realize that it is now too late to go back.
 
-

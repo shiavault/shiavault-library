@@ -106,13 +106,9 @@ It may be said on the basis of the study of the Qur’anic verses that
 sociability is inherent in the very nature and creation of man. In the
 Surah al Hujurat the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا  إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّـهِ أَتْقَاكُمْ ..
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا  إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّـهِ أَتْقَاكُمْ ..
 
 ***“O mankind! We have created you male and female, and have made you
 nations and tribes, that you may know one another [not that on account
@@ -152,12 +148,8 @@ human nobility and an individual's piety.
 
 In verse 54 of Surah al‑Furqan, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا
-وَصِهْرًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا
+> وَصِهْرًا
 
 ***“And He it is who hath created man from water, and hath appointed for
 him kindred by blood [relationships by birth] and kindred by marriage
@@ -438,12 +430,8 @@ death is also a reality.
 
 In verse 34 of Surat al‑'A\`raf, the Qur’an asserts:
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلِّ أُمَّةٍ أَجَلٌ  فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ
-سَاعَةً  وَلَا يَسْتَقْدِمُونَ
-  </p>
-</blockquote>
+> وَلِكُلِّ أُمَّةٍ أَجَلٌ  فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ
+> سَاعَةً  وَلَا يَسْتَقْدِمُونَ
 
 ***“And every ummah (society) hath its term, and when its term cometh,
 they cannot put it off an hour nor yet advance*** ***(it)***.” (7:34)
@@ -457,17 +445,12 @@ separately and not collectively and simultaneously.
 
 In Surat al‑Jathiyah, the verse 28 states:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا .
-  </p>
-</blockquote>
+> كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا .
 
 ***  
 ***
 “Every ummah (society) shall be summoned to its record.
 
-  
 ” (45:28)
 
 Thereupon we come to know that not only individuals have a particular
@@ -478,11 +461,7 @@ freedom of will and act accordingly.
 
 In Surat al‑'An\`am, verse 108 states:
 
-<blockquote dir="rtl">
-  <p>
-زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ
-  </p>
-</blockquote>
+> زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ
 
 ***“Unto every nation have we made their deeds seem fair*****”** (6:108)
 
@@ -501,13 +480,9 @@ value‑system.
 
 In Surat al‑Mu'min, verse 5 says:
 
-<blockquote dir="rtl">
-  <p>
-وَ هَمَّتْ كُلُّ أُمَّةٍ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَادَلُوا
-بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ فَأَخَذْتُهُمْ فَكَيْفَ كَانَ
-عِقَابِ 
-  </p>
-</blockquote>
+> وَ هَمَّتْ كُلُّ أُمَّةٍ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَادَلُوا
+> بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ فَأَخَذْتُهُمْ فَكَيْفَ كَانَ
+> عِقَابِ
 
 ***“....And every nation purposed to seize their messenger and argued
 falsely, [thinking] thereby to refute the Truth. Then I seized, and how
@@ -536,11 +511,7 @@ doomed them for that sin).
 'Ali (as), in one of the sermons of the Nahj al‑balaghah, elucidates
 this subject in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-أَيُها النّاسُ إِنّما يَجْمَعُ النّاسَ الرِضا وَ السَخَطُ.
-  </p>
-</blockquote>
+> أَيُها النّاسُ إِنّما يَجْمَعُ النّاسَ الرِضا وَ السَخَطُ.
 
 O people, actually that which brings together a community [and imparts
 unity and a common fate to it], is the common feeling of approval and
@@ -550,12 +521,8 @@ Whenever any proper or improper action having collective appro­val has
 been performed, even though by a single individual, the whole society is
 held responsible for it.
 
-<blockquote dir="rtl">
-  <p>
-إنَّما عَقَرَ ناقَةَ ثَمُود رَجُلُ واحِدٌ فَعَمَّهُمْ اللهُ بالعَذابِ
-لما عَمّوهُ بِالرِضّا فَقالَ فَعَقَرُوها فَأصْبَحُوا نادِمين.
-  </p>
-</blockquote>
+> إنَّما عَقَرَ ناقَةَ ثَمُود رَجُلُ واحِدٌ فَعَمَّهُمْ اللهُ بالعَذابِ
+> لما عَمّوهُ بِالرِضّا فَقالَ فَعَقَرُوها فَأصْبَحُوا نادِمين.
 
 Indeed only one man had hamstrung the she‑camel of Thamud, but God
 included them all in His punishment, because they all condoned his act.
@@ -650,5 +617,4 @@ Sociologi­cal Thought, vol. I, p. 91.
 [^4]: Ibid.
 
 [^5]: Al‑Mizan, vol. IV, 112.
-
 

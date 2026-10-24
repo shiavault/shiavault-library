@@ -46,4 +46,3 @@ something from the experience of the learned and wise, and frequently
 consult them in state matters so that you might maintain the peace and
 goodwill which your predecessors had established in the land.
 
-

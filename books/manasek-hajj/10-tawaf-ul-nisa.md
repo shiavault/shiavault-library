@@ -419,12 +419,10 @@ day.
 (4) At the time of making ghusl, recite the following supplication as
 stated by Sadooq:
 
-<p dir="rtl">
 بسم الله وبالله اللهم اجعله لي نورا وطهورا وحرزا وامنا من كل خوف و شقاء
 من كل داء وسقم . اللهم طهرني وطهر قلبي واشرح لي صدري واجر على لساني
 محبتك ومدحتك والثناء عليك فانه لاقوة لي الا بك وقد علمت ان قوام ديني
 التسليم لك والاتباع لسنة نبيك صلواتك عليه واله,
-</p>
 
 Translation: I commence by the name of Allah and seek help from Him. O
 Allah render this ghusl an illumination for me and that it may purify
@@ -437,12 +435,10 @@ following the practices of Your prophet, may Your peace be on him.)
 (5) At the time of wearing the ihram, recite the following
 supplication:
 
-<p dir="rtl">
 الحمد لله الذي رزقني ما اواري به عورتي واؤدي فيه فرضي واعبد فيه ربي
 وانتهي فيه الى ما امرني الحمد لله الذي قصدته فبلغني واردته فاعانني
 وقبلني ولم يقطع بي ووجهه اردت فسلمني فهو حصني وكهفي وحرزي و ظهري وملاذي
 ورجائي زمنجاي وذخري وعدتي في شدتي ورخائي
-</p>
 
 (Translation: All praise to Allah who has granted me clothes to cover
 my body, perform my duties and worship my Sustainer and reach where He
@@ -463,22 +459,18 @@ second rakaat, after the Chapter on Al-Hamd, the Chapter on Kafiroon be
 recited. After the prayers, Allah be praised and salawaat be sent on the
 Holy Prophet and his progeny and then the following be recited:
 
-<p dir="rtl">
 اللهم اني أسالك ان تجعلني ممن استجاب لك وامن بوعدك واتبع امرك فاني عبدك
 وفي قبضتك لا اوقي الا ما وقيت ولا اخذ الا ما اعطيت وقدذكرت الحج فاساْ لك
 ان تعزم لي عليه على كتابك وسنة نبيك صلى الله عليه واله وتقويني على
 ماضعفت عنه وتسلم مني مناسكي في يسر منك وعافية واجعلني من وفدك الذي رضيت
 وارتضيت وسميت وكتبت. اللهم اني خرجت من شقة بعيدة وانفقت مالي ابتغاء
 مرضاتك
-</p>
 
-<p dir="rtl">
 اللهم فتمم لي حجتي وعمرتي . اللهم اني اريد التمتع بالعمرة الى الحج على
 كتابك وسنة نبيك صلى الله عليه واله فان عرض لي عارض يحبسني فخلني حيث
 حبستني لقدرك الذي قدرت علي . اللهم ان لم تكن حجة فعمرة . احرم لك شعري
 وبشري ولحمي ودمي وعظامي ومخي وعصبي من النساء والثياب والطيب ابتغي بذالك
 وجهك والدار الا خرة
-</p>
 
 (Translation: O Allah, include me among those who have responded to
 Your call, have faith in Your promise and follow Your command for I am
@@ -503,14 +495,12 @@ perfume so that I may attain Your pleasure and the Hereafter.)
 
 (10) Say during the talbiyyah:
 
-<p dir="rtl">
 لبيك اللهم لبيك لبيك لا شريك لك لبيك ان الحمد والنعمة لك والملك لاشريك
 لك لبيك .لبيك ذا المعارج لبيك لبيك داعيا الى دار السلام لبيك لبيك غفار
 الذنوب لبيك لبيك اهل التلبية لبيك لبيك ذاالجلال والاكرام لبيك لبيك تبدئ
 والمعاداليك لبيك لبيك تستغني ويفتقر اليك لبيك لبيك مرهوبا ومرغوبا اليك
 لبيك لبيك اله الحق لبيك لبيك ذا النعمان والفضل الحسن الجميل لبيك لبيك
 كشاف الكرب العظام لبيك لبيك عبدك وابن عبدك لبيك لبيك يا كريم لبيك
-</p>
 
 (Translation: I am present, O High, I am present. I am present, O one
 who calls towards Heaven. I am present, I am present O forgiver of sins.
@@ -525,11 +515,9 @@ major calamities. I am present, I am present Your servant and the son of
 Your servant. I am present, I am present O Generous, I am present.) Then
 say:
 
-<p dir="rtl">
 لبيك اتقرب اليك بمحمد وال محمد صلوات الله عليه وعليهم لبيك لبيك بحجة
 وعمرة معا لبيك لبيك هذه متعة عمرة الى الحج لبيك لبيك تمامها وبلا غها
 عليك لبيك
-</p>
 
 (Translation: I am present seeking nearness to you through Muhammad and
 his progeny. I am present, I am present for Hajj or Umrah, I am present,
@@ -563,5 +551,4 @@ the time of wearing ihram.
 one must not massage the body.
 
 (7) To reply to a caller by saying, "Labbaik", that is I am present.
-
 

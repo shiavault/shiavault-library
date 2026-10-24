@@ -48,7 +48,6 @@ hosting a guest is that a meal should be prepared for him at the
 earliest possible time, after his arrival, for he can be both tired and
 hungry, especially when he is a traveler.
 
-
 **Commentary : Verse 70**
 
 (70) فَلَمَّا رَأى‏ أَيْدِيَهُمْ لا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَ
@@ -75,7 +74,6 @@ sent against the people of Lot'. "
 
 At any rate, since Lot(a.s.) and his tribe was one of the groups under
 Abraham's command, he had to be briefed before their annihilation.
-
 
 **Commentary : Verse 71**
 
@@ -113,7 +111,6 @@ objectives. One of which was the extermination of the corrupt people of
 Lot, and the other was to give the good tidings of a child to be
 bestowed upon Abraham(a.s.) and Sarah.
 
-
 (72) قالَتْ يا وَيْلَتى‏ أَ أَلِدُ وَ أَنَا عَجُوزٌ وَ هذا بَعْلي‏
 شَيْخاً إِنَّ هذا لَشَيْ‏ءٌ عَجيبٌ
 
@@ -136,7 +133,6 @@ and this my husband is an old man Verily this is a wonderful thing! '"
 That same Allah Who had made the fire cold for Abraham(a.s.) and had
 made him win over the idol- worshippers, is definitely able to make an
 infertile old woman fertile and an old man sire a child.
-
 
 **Commentary : Verse 73**
 
@@ -193,5 +189,4 @@ superior to that bestowed upon the Prophet(p.b.u.h.) and the Immaculate
 Imams(a.s.) who have emerged from this household?
 
 (1) Sura Hud No. 11, verse 46
-
 

@@ -18,4 +18,3 @@ Finally he was caught in Persia and was told to cuss Imam Ali, but he
 refused to. Al-Hajjaj then ordered to whip him 400 times and beat his
 beard and head. He died in 111 AH in Al-Kufa.
 
-

@@ -20,4 +20,3 @@ resulting consonant cluster, as in**ذهَبي** . In the case of the
 negative imperative (b) you just put the negation particle**لا** in
 front of the verb.
 
-

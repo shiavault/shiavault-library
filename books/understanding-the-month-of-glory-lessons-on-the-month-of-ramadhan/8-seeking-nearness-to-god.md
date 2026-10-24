@@ -178,4 +178,3 @@ actions that occupy their days.
 Whispered Prayer of those who love Allah. Name ten qualities of those
 who love Allah, according to this prayer.
 
-

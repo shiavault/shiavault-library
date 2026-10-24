@@ -1114,4 +1114,3 @@ traditions.”[^29]
 
 [^29]: Wafi, al-Kāfi and Tahzīb
 
-

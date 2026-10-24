@@ -27,14 +27,10 @@ each point in time is the only one qualified for the *khilafah*. This is
 the Command of Allah and His Messenger, *sallallahu ‘alaihi wa alihi*.
 Shaykh Ibn Taymiyyah (d. 728 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-ففي هذا الخبر إخبار عمر بين المهاجرين والأنصار أن أبا بكر سيد المسلمين
-وخيرهم وأحبهم إلى رسول الله صلى الله عليه و سلم ذلك علة مبايعته فقال
-بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله عليه و
-سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
-  </p>
-</blockquote>
+> ففي هذا الخبر إخبار عمر بين المهاجرين والأنصار أن أبا بكر سيد المسلمين
+> وخيرهم وأحبهم إلى رسول الله صلى الله عليه و سلم ذلك علة مبايعته فقال
+> بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله عليه و
+> سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
 
 In this report is the declaration of ‘Umar among the Muhajirun and the
 Ansar that Abu Bakr was the *sayyid* of the Muslims and the best of
@@ -56,11 +52,7 @@ provision in the religion to supplant that of Allah. The grave danger of
 all this is captured perfectly in these words of the Messenger of Allah,
 documented by Imam al-Nasai (d. 303 H):
 
-<blockquote dir="rtl">
-  <p>
-شر الأمور محدثاتها وكل محدثة بدعة وكل بدعة ضلالة وكل ضلالة في النار
-  </p>
-</blockquote>
+> شر الأمور محدثاتها وكل محدثة بدعة وكل بدعة ضلالة وكل ضلالة في النار
 
 The worst of the (religious) affairs are their innovations, and every
 innovation is a *bid’ah*, **and every** ***bid’ah*** **is misguidance,
@@ -68,11 +60,7 @@ and every misguidance ends to the Fire**.[^2]
 
 ‘Allamah al-Albani (d. 1420 H) comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^3]
 
@@ -93,13 +81,9 @@ very wide re-definition was issued for Shi’ism. This, apparently, was to
 scare Sunnis away from researching into the issue. Al-Hafiz Ibn Hajar
 al-‘Asqalani (d. 852 H) takes the podium:
 
-<blockquote dir="rtl">
-  <p>
-والتشيع محبة على وتقديمه على الصحابة فمن قدمه على أبى بكر وعمر فهو غال
-في تشيعه ويطلق عليه رافضي وإلا فشيعي فإن انضاف إلى ذلك السب أو التصريح
-بالبغض فغال في الرفض وإن اعتقد الرجعة إلى الدنيا فأشد في الغلو
-  </p>
-</blockquote>
+> والتشيع محبة على وتقديمه على الصحابة فمن قدمه على أبى بكر وعمر فهو غال
+> في تشيعه ويطلق عليه رافضي وإلا فشيعي فإن انضاف إلى ذلك السب أو التصريح
+> بالبغض فغال في الرفض وإن اعتقد الرجعة إلى الدنيا فأشد في الغلو
 
 **Shi’ism is love of ‘Ali and the placing of him over the Sahabah
 (except Abu Bakr and ‘Umar only). Whoever places him above Abu Bakr and
@@ -117,14 +101,10 @@ and whosoever views him as superior to Abu Bakr or ‘Umar is a Rafidhi.
 In the Sunni creed, being a Shi’i is a *bid’ah*. Imam al-Dhahabi (d. 748
 H) says:
 
-<blockquote dir="rtl">
-  <p>
-أن البدعة على ضربين: فبدعة صغرى كغلو التشيع، أو كالتشيع بلا غلو ولا
-تحرف، فهذا كثير في التابعين وتابعيهم مع الدين والورع والصدق. فلو رد
-حديث هؤلاء لذهب جملة من الآثار النبوية، وهذه مفسدة بينة. ثم بدعة كبرى،
-كالرفض الكامل والغلو فيه
-  </p>
-</blockquote>
+> أن البدعة على ضربين: فبدعة صغرى كغلو التشيع، أو كالتشيع بلا غلو ولا
+> تحرف، فهذا كثير في التابعين وتابعيهم مع الدين والورع والصدق. فلو رد
+> حديث هؤلاء لذهب جملة من الآثار النبوية، وهذه مفسدة بينة. ثم بدعة كبرى،
+> كالرفض الكامل والغلو فيه
 
 *Bid’ah* has two types:
 
@@ -145,13 +125,9 @@ some horrible unintended consequences. Many of the Sahabah were
 forever in the Fire! Imam Ibn ‘Abd al-Barr (d. 463 H) identifies some of
 these Rafidhi Sahabah:
 
-<blockquote dir="rtl">
-  <p>
-وروى عن سلمان وأبي ذر والمقداد وخباب وجابر وأبى سعيد الخدري وزيد بن
-الأرقم أن علي بن أبي طالب رضي الله عنه أول من أسلم وفضله هؤلاء على
-غيره
-  </p>
-</blockquote>
+> وروى عن سلمان وأبي ذر والمقداد وخباب وجابر وأبى سعيد الخدري وزيد بن
+> الأرقم أن علي بن أبي طالب رضي الله عنه أول من أسلم وفضله هؤلاء على
+> غيره
 
 Salman, Abu Dharr, al-Miqdad, Khabab, Jabir, Abu Sa’id al-Khudri and
 Zayd b. Arqam narrated that ‘Ali b. Abi Talib, may Allah be pleased with
@@ -237,11 +213,7 @@ master.
 
 Secondly, al-Hafiz himself states in the Introduction to *al-Taqrib*:
 
-<blockquote dir="rtl">
-  <p>
-أنني أحكم على كل شخص منهم بحكم يشمل أصح ما قيل فيه، وأعدل ما وصف به
-  </p>
-</blockquote>
+> أنني أحكم على كل شخص منهم بحكم يشمل أصح ما قيل فيه، وأعدل ما وصف به
 
 I have graded every individual among them with a verdict that contains
 the most correct of what is said about him, and the most just of the
@@ -340,5 +312,4 @@ al-Islami; 1st edition, 1414 H), p. 525
 [^11]: Ahmad b. ‘Ali b. Hajar al-‘Asqalani, Taqrib al-Tahdhib (Beirut:
 Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 ‘Abd al-Qadir ‘Ata], vol. 1, p. 24
-
 

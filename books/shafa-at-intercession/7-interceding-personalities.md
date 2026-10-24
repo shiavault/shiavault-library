@@ -8,22 +8,14 @@ The status of our Prophet is such that the creation and existence of
 World and its end depends on him. Allah (s.w.t.) has addressed him in
 ***Surah Zoha : verse 5***
 
-<blockquote dir="rtl">
-  <p>
-وَ لَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰي.
-  </p>
-</blockquote>
+> وَ لَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰي.
 
 ***“And soon will your Lord give you so that you shall be well
 pleased.”***
 
 In ***Surah Bani Israel : verse 79,***
 
-<blockquote dir="rtl">
-  <p>
-عَسٰي اَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُوْدًا.
-  </p>
-</blockquote>
+> عَسٰي اَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُوْدًا.
 
 ***“Maybe your Lord will raise you to a position of great glory.”***
 
@@ -37,12 +29,8 @@ judgement.
 
 Holy Prophet (S) has said thus,
 
-<blockquote dir="rtl">
-  <p>
-اِنِّيْ لَاَشْفَعُ يَوْمَ الْقِيَامَةِ فَاُشْفَعُ وَ يَشْفَعُ عَلِيٌّ
-فَيُشْفَعُ.
-  </p>
-</blockquote>
+> اِنِّيْ لَاَشْفَعُ يَوْمَ الْقِيَامَةِ فَاُشْفَعُ وَ يَشْفَعُ عَلِيٌّ
+> فَيُشْفَعُ.
 
 *“Without doubt on the day of judgement I will intercede and it will be
 accepted, ‘Ali (a.s.) will do intercession and it will also be
@@ -50,11 +38,7 @@ accepted.”*
 
 Imam ‘Ali (a.s.) himself has said:
 
-<blockquote dir="rtl">
-  <p>
-لَنَا شَفَاْعَةٌ وَلِاَهْلِ مُوَدَّتِنَا شَفَاعَةٌ.
-  </p>
-</blockquote>
+> لَنَا شَفَاْعَةٌ وَلِاَهْلِ مُوَدَّتِنَا شَفَاعَةٌ.
 
 *“Surely we will intercede and also those who love us will intercede.”*
 
@@ -64,14 +48,10 @@ Imam ‘Ali (a.s.) himself has said:
 She will be the third personalities who will intercede as the Holy
 Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-اَيُّمَا اِمْرَاَةٌ صَلَّتْ فِيْ الْيَوْمِ وَ الْلَيْلِ خَمْسَ
-صَلَوَاتٍ وَ صَامَتْ شَهْرَ رَمَضَانَ وَ حَجَّتْ بَيْتَ اللهِ
-الْحَرَامِ وَ زَكَّتْ مَالَهَا وَ اَطَاعَتْ زَوْجَهَا وَ وَالَتْ
-عَلِيًّا بَعْدِيْ دَخَلَتِ الْجَنَّةَ بِشَفَاعَةِ ابْنَتِيْ فَاطِمَةُ.
-  </p>
-</blockquote>
+> اَيُّمَا اِمْرَاَةٌ صَلَّتْ فِيْ الْيَوْمِ وَ الْلَيْلِ خَمْسَ
+> صَلَوَاتٍ وَ صَامَتْ شَهْرَ رَمَضَانَ وَ حَجَّتْ بَيْتَ اللهِ
+> الْحَرَامِ وَ زَكَّتْ مَالَهَا وَ اَطَاعَتْ زَوْجَهَا وَ وَالَتْ
+> عَلِيًّا بَعْدِيْ دَخَلَتِ الْجَنَّةَ بِشَفَاعَةِ ابْنَتِيْ فَاطِمَةُ.
 
 *“Whichever lady prays five times a day, and fast for the Month of
 Ramazan, performs Hajj, pays Zakaat and obeys her husband and loves ‘Ali
@@ -83,22 +63,14 @@ after my death she will enter Heaven by my daughter Fatemah Zahra
 
 Holy Prophet (S) has said
 
-<blockquote dir="rtl">
-  <p>
-وَ يَشْفَعُ اَهْلُ بَيْتِي فَيَشْفَعُوْنَ.
-  </p>
-</blockquote>
+> وَ يَشْفَعُ اَهْلُ بَيْتِي فَيَشْفَعُوْنَ.
 
 *“My progeny will intercede and their intercession will be accepted.”*
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-اَلشُّفَعَاءُ خَمْسَةٌ ... وَ نَبِيُّكُمْ وَ اَهْلُ بَيْتِ
-نَبِيِّكُمْ.
-  </p>
-</blockquote>
+> اَلشُّفَعَاءُ خَمْسَةٌ ... وَ نَبِيُّكُمْ وَ اَهْلُ بَيْتِ
+> نَبِيِّكُمْ.
 
 *“Intercession is of five types …… Firstly your prophet and secondly
 progeny of your prophet will also intercede.”*
@@ -109,12 +81,8 @@ progeny of your prophet will also intercede.”*
 Following verses from Qur’an indicate their intercession ***Surah Ambiya
 : verses 26-28, Surah Zukhruf : verse 86,*** even Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ الْاَنْبِيَاءُ فِي كُلِّ مَنْ كَانَ يَشْهَدُ اَنْ لاَّ اِلٰهَ
-اِلاَّ اللهُ مُخْلِصًا.
-  </p>
-</blockquote>
+> يَشْفَعُ الْاَنْبِيَاءُ فِي كُلِّ مَنْ كَانَ يَشْهَدُ اَنْ لاَّ اِلٰهَ
+> اِلاَّ اللهُ مُخْلِصًا.
 
 *“All the prophets will intercede for those who have borne witness with
 sincerity there is no god but Allah.”*
@@ -125,11 +93,7 @@ sincerity there is no god but Allah.”*
 It is also proved from Holy Qur’an e.g. ***Surah Najm : verse 26,***
 traditions from Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ النَّبِيُّوْنَ وَ الْمَلاَئِكَةُ.
-  </p>
-</blockquote>
+> يَشْفَعُ النَّبِيُّوْنَ وَ الْمَلاَئِكَةُ.
 
 *“The prophets and angels will intercede.”*
 
@@ -142,23 +106,15 @@ Those people who have offered their lives on the path of Allah (s.w.t.)
 surely Lord will give them right to intercede. Holy Prophet (S) said
 thus:
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ يَوْمَ الْقِيَامَةِ اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُمَّ
-الشُّهَدَاءُ.
-  </p>
-</blockquote>
+> يَشْفَعُ يَوْمَ الْقِيَامَةِ اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُمَّ
+> الشُّهَدَاءُ.
 
 *“On the day of judgement first the prophets, then the learned man and
 then the martyrs will intercede.”*[^2]
 
 At some other place he (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ الْشَّهِيْدُ فِي سَبْعِيْنَ اِنْسَانًا مِنْ اَهْلِ بَيْتِه.
-  </p>
-</blockquote>
+> يَشْفَعُ الْشَّهِيْدُ فِي سَبْعِيْنَ اِنْسَانًا مِنْ اَهْلِ بَيْتِه.
 
 *“A martyr will intercede for seventy persons from among his
 relatives.”*[^3]
@@ -171,26 +127,18 @@ position, and scarified themselves to give light to the people, surely
 they have right to intercede. As Hazrat ‘Ali (a.s.) has narrated from
 Holy Prophet (S) that he said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاْثَةٌ يَشْفَعُوْنَ اِلٰي اللهِ عَزَّوَجَلَّ فَيُشْفَعُوْنَ
-اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُمَّ الشُّهَدَاءُ.
-  </p>
-</blockquote>
+> ثَلاْثَةٌ يَشْفَعُوْنَ اِلٰي اللهِ عَزَّوَجَلَّ فَيُشْفَعُوْنَ
+> اَلْاَنْبِيَاءُ ثُمَّ الْعُلَمَاءُ ثُمَّ الشُّهَدَاءُ.
 
 *“Three types of people who will intercede will be first Prophets,
 second learned people, third martyrs.”*[^4]
 
 There are many traditions but we quote here only one,
 
-<blockquote dir="rtl">
-  <p>
-اِذَا كَانَ يَوْمَ الْقِيَامَةِ بَعَثَ اللهُ الْعَالِمَ وَ الْعَابِدَ
-فَاِذَا وَ قَفَا بَيْنَ يَدَيِ اللهِ عَزَّوَجَلَّ قِيْلَ لِلْعَابِدِ
-اِنْطَلَقَ اِلٰي الْجَنَّةِ وَ قِيْلَ لِلْعَالِمِ قِفْ تَشْفَعْ
-لِلْنَّاسِ بَحُسْنِ تَاْدِيْبِكَ بِهِمْ.
-  </p>
-</blockquote>
+> اِذَا كَانَ يَوْمَ الْقِيَامَةِ بَعَثَ اللهُ الْعَالِمَ وَ الْعَابِدَ
+> فَاِذَا وَ قَفَا بَيْنَ يَدَيِ اللهِ عَزَّوَجَلَّ قِيْلَ لِلْعَابِدِ
+> اِنْطَلَقَ اِلٰي الْجَنَّةِ وَ قِيْلَ لِلْعَالِمِ قِفْ تَشْفَعْ
+> لِلْنَّاسِ بَحُسْنِ تَاْدِيْبِكَ بِهِمْ.
 
 *“On the day of judgement Lord will summon the learned and the pious He
 will order the pious to go and enter Heaven and than He will address
@@ -202,13 +150,9 @@ them up well in the world.”*[^5]
 
 Maula ‘Ali (a.s.) narrates with reference to Holy Prophet (S) that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَاءَ الْقُرْآنَ فَاسْتَظْهَرَه فَاَحَلَّ حَلاَلَه وَ حَرَّمَ
-حَرَاْمَه اَدْخَلَهُ اللهُ بِهِ الْجَنَّةَ وَ شَفَعَه فِيْ عَشْرَةِ
-مِنْ اَهْلِ بَيْتِه كُلُّهُمْ قَدْوَجَبَتْ لَهُ النَّارُ.
-  </p>
-</blockquote>
+> مَنْ قَرَاءَ الْقُرْآنَ فَاسْتَظْهَرَه فَاَحَلَّ حَلاَلَه وَ حَرَّمَ
+> حَرَاْمَه اَدْخَلَهُ اللهُ بِهِ الْجَنَّةَ وَ شَفَعَه فِيْ عَشْرَةِ
+> مِنْ اَهْلِ بَيْتِه كُلُّهُمْ قَدْوَجَبَتْ لَهُ النَّارُ.
 
 *“Person who learns Qur’an, memorize it and understands its lawful as
 lawful and unlawful as unlawful and also act on it, then God will make
@@ -221,12 +165,8 @@ relatives who deserved to receive His punishment.”*[^6]
 We read in tradition that Lord Himself will intercede and free them from
 fire of hell. Holy Prophet (S) narrates that
 
-<blockquote dir="rtl">
-  <p>
-يَشْفَعُ النَّبِيُّوْنَ وَ الْمَلاَئِكَةُ وَ الْمُؤْمِنُوْنَ
-فَيَقُوْلُ الْجَبَّارُ بَقِيَتْ شَفَاعَتِيْ.
-  </p>
-</blockquote>
+> يَشْفَعُ النَّبِيُّوْنَ وَ الْمَلاَئِكَةُ وَ الْمُؤْمِنُوْنَ
+> فَيَقُوْلُ الْجَبَّارُ بَقِيَتْ شَفَاعَتِيْ.
 
 *“Prophets, angels and the believers will do intercession Lord will say
 now My intercession is remaining for those who have yet not being
@@ -235,32 +175,20 @@ interceded.”*[^7]
 It is difficult to comprehend how Lord can do intercession, we can see
 from this line of supplication of Imam Sajjad (a.s.)
 
-<blockquote dir="rtl">
-  <p>
-حُبِّيْ لَكَ شَفِيْعِيْ اِلَيْكَ.
-  </p>
-</blockquote>
+> حُبِّيْ لَكَ شَفِيْعِيْ اِلَيْكَ.
 
 *“My love towards Thee, is my interceder.”*[^8]
 
 At another place, he (S) said,
 
-<blockquote dir="rtl">
-  <p>
-لاَ شَفِيْعَ لِيْ اِلَيْكَ فَلْيَشْفَعْ لِيْ فَضْلَكَ.
-  </p>
-</blockquote>
+> لاَ شَفِيْعَ لِيْ اِلَيْكَ فَلْيَشْفَعْ لِيْ فَضْلَكَ.
 
 *“In Thy presence there is no interceder of mine, therefore make Your
 grace and mercy my intercessor.”*[^9]
 
 In ***Surah Zumar: verse 44*** Allah (s.w.t.) said that,
 
-<blockquote dir="rtl">
-  <p>
-قُلْ للهِ الشَّفَاعَةُ جَمِيْعًا.
-  </p>
-</blockquote>
+> قُلْ للهِ الشَّفَاعَةُ جَمِيْعًا.
 
 ***“Say: (O messenger!) Allah’s is the intercession altogether.”***
 
@@ -281,5 +209,4 @@ In ***Surah Zumar: verse 44*** Allah (s.w.t.) said that,
 [^8]: Sahifah Sajjaadiyyah.
 
 [^9]: Ibid.
-
 

@@ -376,4 +376,3 @@ contingent on the existence of a living Imam.
 
 [^16]: Al-Kafi, vol. 1, no. 4
 
-

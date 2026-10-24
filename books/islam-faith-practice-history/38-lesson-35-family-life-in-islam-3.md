@@ -249,4 +249,3 @@ Question 3: [20 points]
  Explain the ways and methods by which you would do silatu 'r-rahm in
 today's modern and busy lifestyle of the West.
 
-

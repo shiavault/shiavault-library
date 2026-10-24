@@ -294,4 +294,3 @@ As a matter of fact, if the concept of reincarnation is a reality, the
 number of the population should not go above two persons, because at the
 beginning there were only the two human souls of Adam and Eve.
 
-

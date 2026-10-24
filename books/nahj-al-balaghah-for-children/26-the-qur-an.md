@@ -13,4 +13,3 @@ are profound.
 
 (Sermon 18)
 
-

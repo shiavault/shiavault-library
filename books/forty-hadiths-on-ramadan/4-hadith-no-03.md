@@ -13,4 +13,3 @@ in which Allah, the Exalted, had revealed the Holy Quran."
 
 *Bihar al-Anwar, vol. 18, pg. 190*
 
-

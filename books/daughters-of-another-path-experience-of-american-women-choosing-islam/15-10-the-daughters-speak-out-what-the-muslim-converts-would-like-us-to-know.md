@@ -330,4 +330,3 @@ the home, with the children, where the women rule. As soon as the Muslim
 women of the world realize this, the changes for the better will
 begin.
 
-

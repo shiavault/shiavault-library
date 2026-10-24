@@ -1,14 +1,10 @@
 Seventh Hadith: Anger (Ghadhab)
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
-بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عِيسَى، عَنْ يُونُسَ، عَنْ
-دَاوُدَ بْنِ فَرْقَدٍ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
-قَالَ: الغَضَبُ مِفْتُاحُ كُلِّ شَرٍّ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
+> بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عِيسَى، عَنْ يُونُسَ، عَنْ
+> دَاوُدَ بْنِ فَرْقَدٍ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> قَالَ: الغَضَبُ مِفْتُاحُ كُلِّ شَرٍّ.
 
 ...Muhammad ibn Ya’qub (al-Kulayni), from ‘Ali ibn Ibrahim, from
 Muhammad ibn ‘Isa, from Yunus, from Dawud ibn Farqad, who reports al
@@ -76,11 +72,7 @@ submitting to insults and disgraces to which an individual or his family
 may be subjected; dastardliness; spiritlessness, etc. Describing the
 qualities of the believers God Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ.﴾
-  </p>
-</blockquote>
+> ﴿أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ.﴾
 
 (***The believers***) ***are hard against the unbelievers and merciful
 among themselves.*** (***48:29***)
@@ -143,13 +135,9 @@ going beyond the upper limits of moderation is also regarded, morally,
 as a vice and source of countless deviations. The tradition quoted in
 *al-Kafi* is sufficient to indicate the dangers of such a state:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الغَضَبُ يُفْسِدُ الإيمَانَ كَمَا
-يُفْسِدُ الخَلُّ العَسَلَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الغَضَبُ يُفْسِدُ الإيمَانَ كَمَا
+> يُفْسِدُ الخَلُّ العَسَلَ.
 
 It is reported on the authority of Imam al-Sadiq (A) that the Apostle of
 God (S) said, “Anger spoils faith in the same way as vinegar destroys
@@ -163,12 +151,8 @@ eternal damnation. And when he becomes aware of it, his remorse is of no
 avail, as the fire of anger, which was lit by a spark thrown in by
 Satan, continues to roar in his heart, as Imam al-Baqir (A) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ هَذَا الغَضَبَ جَمْرَةٌ مِنَ الشَّيْطَانِ تُوقَدُ فِي قَلْبِ
-ابْنِ آدَمَ.
-  </p>
-</blockquote>
+> إنَّ هَذَا الغَضَبَ جَمْرَةٌ مِنَ الشَّيْطَانِ تُوقَدُ فِي قَلْبِ
+> ابْنِ آدَمَ.
 
 Indeed, this anger is the spark lit by Satan in the heart of the son of
 Adam.[^3]
@@ -176,13 +160,9 @@ Adam.[^3]
 In the next world, this fire will acquire the form of the fire of Divine
 Wrath, as reported from al-Baqir (A) in *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-مَكْتُوبٌ فِي التَّوْرَاةِ فِي مَا نَاجَى اللهُ عَزَّ وَجَلَّ بِهِ
-مُوسَى عَلَيْهِ السَّلامُ: يَا مُوسَى أَمْسِكْ غَضَبَكَ عَمَّنْ
-مَلَّكْتُكَ عَلَيْهِ أَكُفَّ عَنْكَ غَضَبِي.
-  </p>
-</blockquote>
+> مَكْتُوبٌ فِي التَّوْرَاةِ فِي مَا نَاجَى اللهُ عَزَّ وَجَلَّ بِهِ
+> مُوسَى عَلَيْهِ السَّلامُ: يَا مُوسَى أَمْسِكْ غَضَبَكَ عَمَّنْ
+> مَلَّكْتُكَ عَلَيْهِ أَكُفَّ عَنْكَ غَضَبِي.
 
 It is recorded in the Torah regarding that which God Almighty confided
 to Moses (A), saying: “O Moses, control your anger towards those over
@@ -234,22 +214,14 @@ also from the aspect of his capacity for degeneration and meanness and
 his leaning towards perverseness, man cannot be compared with any
 creature. It is about his perverseness that the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أُوْلَئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ.﴾
-  </p>
-</blockquote>
+> ﴿أُوْلَئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ.﴾
 
 ***These are as the cattle-nay, they are worse in misguidance.***
 (***7:179***)
 
 It is about the hardness of the human heart that it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً.﴾
-  </p>
-</blockquote>
+> ﴿فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً.﴾
 
 (***Then the hearts of the Jews***) ***became hardened like stones, or
 even yet harder.*** (***2:74***)
@@ -270,13 +242,9 @@ of God and saints, assassinate an innocent person, or desecrate
 something holy, thus bringing about his own destruction in the world as
 well as in the Hereafter, as is mentioned in a *hadith* of *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ: كَانَ أَبِي
-يَقُولُ: أَيُّ شَيْءٍ أَشَدُّ مِنَ الغَضَبِ؟ إنَّ الرَّجُلَ لَيَغْضَبُ
-فَيَقْتُلُ النَّفْسَ الَّتِي حَرَّمَ اللهُ وَيَقْذِفُ المُحْصَنَةَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي حَدِيثٍ: كَانَ أَبِي
+> يَقُولُ: أَيُّ شَيْءٍ أَشَدُّ مِنَ الغَضَبِ؟ إنَّ الرَّجُلَ لَيَغْضَبُ
+> فَيَقْتُلُ النَّفْسَ الَّتِي حَرَّمَ اللهُ وَيَقْذِفُ المُحْصَنَةَ.
 
 It is reported from Imam al-Sadiq (A) that he said that his father used
 to say: “Is there anything more violent than anger? Verily, a man gets
@@ -343,28 +311,20 @@ the fire of anger has been considered the essence of wisdom and the
 focus of all virtues and noble qualities, as stated in this tradition of
 *al-Kafi:*
 
-<blockquote dir="rtl">
-  <p>
-عِدَّةٌ مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ،
-عَنْ أَبِيهِ، عَنِ النَّضْرِ بْنِ سُوَيْدٍ، عَنِ القَاسِمِ بْنِ
-سُلَيْمَانَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: سَمِعْتُ
-أَبِي عَلَيْهِ السَّلامُ يَقُولُ: أَتَى رَسُولَ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِه رَجُلٌ بَدَوِيٌّ فَقَالَ: إنِّي أَسْكُنُ البَادِيَةَ،
-فَعَلِّمْنِي جَوامِعَ الكَلامِ. فَقَالَ: آمُرُكَ أَنْ لا تَغْضَبَ.
-فَأَعَادَ عَلَيْهِ الأعْرَابِيُّ المَسْأَلَةَ ثَلاثَ مَرَّاتٍ حَتّى
-رَجَعَ الرَّجُلُ إلَى نَفْسِهِ فَقَالَ: لا أَسْأَلُ عَنْ شَيْءٍ بَعْدَ
-هَذَا.مَا أَمَرَنِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ إلا
-بِالخَيْرِ.
-  </p>
-</blockquote>
+> عِدَّةٌ مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ،
+> عَنْ أَبِيهِ، عَنِ النَّضْرِ بْنِ سُوَيْدٍ، عَنِ القَاسِمِ بْنِ
+> سُلَيْمَانَ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: سَمِعْتُ
+> أَبِي عَلَيْهِ السَّلامُ يَقُولُ: أَتَى رَسُولَ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِه رَجُلٌ بَدَوِيٌّ فَقَالَ: إنِّي أَسْكُنُ البَادِيَةَ،
+> فَعَلِّمْنِي جَوامِعَ الكَلامِ. فَقَالَ: آمُرُكَ أَنْ لا تَغْضَبَ.
+> فَأَعَادَ عَلَيْهِ الأعْرَابِيُّ المَسْأَلَةَ ثَلاثَ مَرَّاتٍ حَتّى
+> رَجَعَ الرَّجُلُ إلَى نَفْسِهِ فَقَالَ: لا أَسْأَلُ عَنْ شَيْءٍ بَعْدَ
+> هَذَا.مَا أَمَرَنِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ إلا
+> بِالخَيْرِ.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: وَكَانَ أَبِي يَقُولُ: أَيُّ شَيْءٍ أَشَدُّ مِنَ الغَضَبِ؟ إنَّ
-الرَّجُلَ لَيَغْضَبُ فَيَقْتُلُ النَّفْسَ الَّتِي حَرَّمَ اللهُ
-وَيَقْذِفُ المُحْصَنَةَ.
-  </p>
-</blockquote>
+> قَالَ: وَكَانَ أَبِي يَقُولُ: أَيُّ شَيْءٍ أَشَدُّ مِنَ الغَضَبِ؟ إنَّ
+> الرَّجُلَ لَيَغْضَبُ فَيَقْتُلُ النَّفْسَ الَّتِي حَرَّمَ اللهُ
+> وَيَقْذِفُ المُحْصَنَةَ.
 
 (Al-Kulayni says) From a number of our (i.e. al-Kulayni’s) companions,
 from Ahmad ibn Muhammad ibn Khalid (al-Barqi), who narrates on the
@@ -422,16 +382,12 @@ this way, one will undergo a complete transformation as one’s inner
 state moves towards the point of moderation. An allusion to this matter
 is made in the following traditions from *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: إنَّ هَذَا الغَضَبَ
-جَمْرَةٌ مِنَ الشَّيْطَانِ تُوقَدُ فِي قَلْبِ ابْنِ آدَمَ. وَإنَّ
-أَحَدَكُمْ إذَا غَضِبَ احْمَرَّتْ عَيْنَاهُ وَانْتَفَخَتْ أَوْدَاجُهُ
-وَدَخَلَ الشَّيْطَانُ فِيهِ. فَإذَا خَافَ أَحَدُكُمْ ذَلِكَ مِنْ
-نَفْسِهِ فَلْيَلْزَمِ الأَرْضَ، فَإنَّ رِجْزَ الشَّيْطَانِ لَيَذْهَبُ
-عَنْهُ عِنْدَ ذَلِكَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: إنَّ هَذَا الغَضَبَ
+> جَمْرَةٌ مِنَ الشَّيْطَانِ تُوقَدُ فِي قَلْبِ ابْنِ آدَمَ. وَإنَّ
+> أَحَدَكُمْ إذَا غَضِبَ احْمَرَّتْ عَيْنَاهُ وَانْتَفَخَتْ أَوْدَاجُهُ
+> وَدَخَلَ الشَّيْطَانُ فِيهِ. فَإذَا خَافَ أَحَدُكُمْ ذَلِكَ مِنْ
+> نَفْسِهِ فَلْيَلْزَمِ الأَرْضَ، فَإنَّ رِجْزَ الشَّيْطَانِ لَيَذْهَبُ
+> عَنْهُ عِنْدَ ذَلِكَ.
 
 It is reported from al ‘Imam al-Baqir (A) that he said, “Verily, anger
 is a spark ignited by the Devil in the human heart. Indeed, when anyone
@@ -442,17 +398,13 @@ so that the filth of Satan may be removed from him at the time.”[^7]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مَيْسِرٍ قَالَ: ذُكِرَ الغَضَبُ عِنْدَ أَبِي جَعْفَرٍ عَلَيْهِ
-السَّلامُ فَقَالَ: إنَّ الرَّجُلَ لَيَغْضَبُ فَمَا يَرْضَى أَبَداً
-حَتَّى يَدْخُلَ النَّارَ. فَأَيُّمَا رَجُلٍ غَضِبَ عَلَى قَوْمٍ وَهُوَ
-قَائِمٌ فَلْيَجْلِسْ مِنْ فَوْرِهِ ذَلِكَ، فَإنَّهُ سَيَذْهَبُ عَنْهُ
-رِجْزُ الشَّيْطَانِ. وَأَيُّمَا رَجُلٍ غَضِبَ عَلَى ذِي رَحِمٍ
-فَلْيَدْنُ مِنْهُ فَلْيَمِسَّهُ. فَإنَّ الرَّحِمَ إذَا مُسَّتْ
-سَكَنَتْ.
-  </p>
-</blockquote>
+> عَنْ مَيْسِرٍ قَالَ: ذُكِرَ الغَضَبُ عِنْدَ أَبِي جَعْفَرٍ عَلَيْهِ
+> السَّلامُ فَقَالَ: إنَّ الرَّجُلَ لَيَغْضَبُ فَمَا يَرْضَى أَبَداً
+> حَتَّى يَدْخُلَ النَّارَ. فَأَيُّمَا رَجُلٍ غَضِبَ عَلَى قَوْمٍ وَهُوَ
+> قَائِمٌ فَلْيَجْلِسْ مِنْ فَوْرِهِ ذَلِكَ، فَإنَّهُ سَيَذْهَبُ عَنْهُ
+> رِجْزُ الشَّيْطَانِ. وَأَيُّمَا رَجُلٍ غَضِبَ عَلَى ذِي رَحِمٍ
+> فَلْيَدْنُ مِنْهُ فَلْيَمِسَّهُ. فَإنَّ الرَّحِمَ إذَا مُسَّتْ
+> سَكَنَتْ.
 
 Maysir reports that once anger was discussed in the presence of Imam al
 Baqir (A). He said, “Verily, it happens that an angry person would not
@@ -619,5 +571,4 @@ Persian translation by Sayyid Jawad Mustafawi, p. 415.
 
 [^8]: Al-Kulayni, Usul al-Kafi (Tehran), Vol. III (Arabic text with
 Persian translation by Sayyid Jawad Mustafawi, p. 415.
-
 

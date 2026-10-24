@@ -440,4 +440,3 @@ as he affected to show in his letter to Ali, he could have made it his
 capital. But he did not nor did any of his successors, nor did any of
 the caliphs of the Abbasi dynasty.
 
-

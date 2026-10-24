@@ -430,4 +430,3 @@ teachers and students of Islamic studies and the general reader.
 
 **April 25th, 2005 CE**
 
-

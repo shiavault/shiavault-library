@@ -155,11 +155,7 @@ and your origin to which you return, and your hand by which you attack
 [the enemy].
 
 > 32ـ أكْرِمْ عشيَرتََكَ فَإنَّهُمْ جَناحُكَ الَّذي بِهِ تَطيرُ،
-<blockquote dir="rtl">
-  <p>
-وأصْلُكَ الَّذي إلَيهِ تَصيرُ، ويَدُكَ الَّتي بِها تَصُولُ.
-  </p>
-</blockquote>
+> وأصْلُكَ الَّذي إلَيهِ تَصيرُ، ويَدُكَ الَّتي بِها تَصُولُ.
 
 33. Honour your near relatives, revere the forbearing from among them,
 be patient with the foolish among them and lighten the burden for the
@@ -167,12 +163,8 @@ poor among them, for verily they are the best means of support [and
 assistance] in times of difficulty and ease.
 
 > 33ـ أكْرِمْ ذَوي رَحِمِكَ، ووَقِّرْ حَليمَهُمْ، واحْلُمْ عَنْ
-<blockquote dir="rtl">
-  <p>
-سَفيِهِهِمْ وتَيَسَّرْ لِمُعسِرِهِمْ، فَإنَّهُمْ لَكَ نِعْمَ العُدَّةُ
-فِي الشِدَّةِ والرَّخاءِ.
-  </p>
-</blockquote>
+> سَفيِهِهِمْ وتَيَسَّرْ لِمُعسِرِهِمْ، فَإنَّهُمْ لَكَ نِعْمَ العُدَّةُ
+> فِي الشِدَّةِ والرَّخاءِ.
 
 34. The best practice is keeping ties with near relatives.
 
@@ -190,12 +182,8 @@ with them and cuts off ties with the one who cuts off ties with them and
 honours the one who honours them.
 
 > 36ـ إنَّ صِلَةَ الأرْحامِ لَمِنْ مُوجِباتِ الإسْلامِ، وإنَّ اللّهَ
-<blockquote dir="rtl">
-  <p>
-سُبحانَهُ أمَرَ بِإكْرامِها، وإنَّهُ تعالى يَصِلُ مَنْ وَصَلَها،
-ويَقْطَعُ مَنْ قَطَعَها، ويُكْرِمُ مَنْ أكرَمَها.
-  </p>
-</blockquote>
+> سُبحانَهُ أمَرَ بِإكْرامِها، وإنَّهُ تعالى يَصِلُ مَنْ وَصَلَها،
+> ويَقْطَعُ مَنْ قَطَعَها، ويُكْرِمُ مَنْ أكرَمَها.
 
 37. Making false accusations is the first step in cutting off ties.
 
@@ -207,12 +195,8 @@ helping them with that which will not increase if he withholds it nor
 will it decrease if he spends it.
 
 > 38ـ ألا لايَعدِلَنَّ أحَدُكُمْ عَنِ القَرابَةِ، يَرى بِهَا الخَصاصَةَ
-<blockquote dir="rtl">
-  <p>
-أنْ يَسُدَّها بِالَّذي لايَزيدُهُ إنّ أمْسَكَهُ ولايَنْقُصُهُ إنْ
-أنْفَقَهُ.
-  </p>
-</blockquote>
+> أنْ يَسُدَّها بِالَّذي لايَزيدُهُ إنّ أمْسَكَهُ ولايَنْقُصُهُ إنْ
+> أنْفَقَهُ.
 
 39. False accusation is the messenger of severance of ties.
 
@@ -228,11 +212,7 @@ after brotherhood, and enmity after goodwill, and the disappearance of
 affinity after it had been strengthened.
 
 > 41ـ ما أقْبَحَ القَطيعَةَ بَعْدَ الصِّلَةِ والجَفاءَ بَعْدَ الإخاءِ
-<blockquote dir="rtl">
-  <p>
-والعَداوَةَ بَعْدَ الصَّفاءِ، وزَوالَ الاُلْفَةِ بَعْدَ اسْتِحْكامِها.
-  </p>
-</blockquote>
+> والعَداوَةَ بَعْدَ الصَّفاءِ، وزَوالَ الاُلْفَةِ بَعْدَ اسْتِحْكامِها.
 
 42. Who will ever trust you when you are disloyal to your near
 relatives?
@@ -242,5 +222,4 @@ relatives?
 43. Many a distant one is closer than every near one.
 
 > 43ـ رُبَّ بَعيد أقْرَبُ مِنْ كُلِّ قريب.
-
 

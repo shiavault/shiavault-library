@@ -41,4 +41,3 @@ to act on whichever one likes.[^1]
 
 [^1]: Ref. Istibsar of Shaykh Abu Ja’far Tusi.
 
-

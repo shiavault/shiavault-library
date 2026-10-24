@@ -1,16 +1,12 @@
 Discourse 33: The Signs of a Muslim
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ يَقُولُ فِي خُطْبَتِهِ: أَيُّهَا النَّاسُ، إِنَّ
-الْعَبْدَ لاَ يُكْتَبُ مِنَ الْمُسْلِمِينَ حَتّى يَسْلَمَ النَّاسُ
-مِنْ يَدِه وَ لِسَانِهِ، وَ لاَ يَنَالُ دَرَجَةَ الْمُؤمِنِينَ حَتّى
-يَأْمَنَ أَخُوهُ بَوَائِقَهُ وَ جَارُهُ بَوَادِرَهُ، وَ لاَ يُعَدُّ
-مِنَ الْمُتَّقِينَ حَتّى يَدَعَ مَالاً بَأْسَ بِهِ حِذَاراً عَمَّا
-بِهِ الْبَأْسُ. إِنَّهُ مَنْ خَافَ الْبَيَاتُ اَدْلَجْ…
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ يَقُولُ فِي خُطْبَتِهِ: أَيُّهَا النَّاسُ، إِنَّ
+> الْعَبْدَ لاَ يُكْتَبُ مِنَ الْمُسْلِمِينَ حَتّى يَسْلَمَ النَّاسُ
+> مِنْ يَدِه وَ لِسَانِهِ، وَ لاَ يَنَالُ دَرَجَةَ الْمُؤمِنِينَ حَتّى
+> يَأْمَنَ أَخُوهُ بَوَائِقَهُ وَ جَارُهُ بَوَادِرَهُ، وَ لاَ يُعَدُّ
+> مِنَ الْمُتَّقِينَ حَتّى يَدَعَ مَالاً بَأْسَ بِهِ حِذَاراً عَمَّا
+> بِهِ الْبَأْسُ. إِنَّهُ مَنْ خَافَ الْبَيَاتُ اَدْلَجْ…
 
 The Messenger of Allah (S) said in one of his speeches: “O' People! 
 Surely a servant will not be counted as one of the Muslims until other
@@ -101,11 +97,7 @@ at any moment, a person could trip and fall into the forbidden deeds.
  In the commentary of Nahjul Balagha of Ibne Abil Hadid it is written
 that:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ وَ إِنَّ حِمَى اللٌّهِ مَحَارِمُهُ.
-  </p>
-</blockquote>
+> أَلاَ وَ إِنَّ حِمَى اللٌّهِ مَحَارِمُهُ.
 
 “Be advised that the protected limits of Allah (which we must not
 transgress) are those things which He has made impermissible.”[^4]
@@ -116,11 +108,7 @@ boundaries, one will become overcome by the evil whisperings such that
 he may proceed to move forward (towards the haram acts) due to the
 excuse that:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَشْكُوكِ جَايِزٌ كُلُّ مَظْنُونِ جَايِزٌ.
-  </p>
-</blockquote>
+> كُلُّ مَشْكُوكِ جَايِزٌ كُلُّ مَظْنُونِ جَايِزٌ.
 
 “All doubtful things are permissible, and all actions which one is
 uncertain about are (also) permissible.”
@@ -223,5 +211,4 @@ continuously, just as the Noble Qur’an has stated that: يَوْمَ يَنْ�
 الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ “On that day shall humanity see all that
 their hands had sent forth.”[117] Therefore, on that day, all of the
 actions of a person will be physically manifested in front of him.
-
 

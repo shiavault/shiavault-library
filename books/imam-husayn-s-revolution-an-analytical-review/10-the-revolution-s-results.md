@@ -76,4 +76,3 @@ support, and his call was ignored by the rest of the Muslim world.
 Hence, a revolution means a drastic change in one's life or the
 collective life when applied to a large scale.
 
-

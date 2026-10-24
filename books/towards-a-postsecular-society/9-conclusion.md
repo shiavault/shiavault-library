@@ -196,4 +196,3 @@ are very often great spiritual minds.
 It is with that last thought that I approach the Network regarding these
 ideas concerning a possible postsecular society.
 
-

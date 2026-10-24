@@ -819,4 +819,3 @@ their fealty to the KALIFATE and who had to be forced, coerced,
 threatened, encouraged and purchased to pay it, now were rushing to have
 the honor of kissing the holy hand of Ali.
 
-

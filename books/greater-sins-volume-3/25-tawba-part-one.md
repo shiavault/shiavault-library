@@ -649,12 +649,8 @@ prayer. In every rakat recite Surah Ikhlas thrice, and Muawwazatain
 Istighfar seventy times. Finally recite *Lā Hawla wa lā Quwwata illa
 billāhil a’liyyil A’zīm*. Then recite a brief Du’a, preferably this:
 
-<blockquote dir="rtl">
-  <p>
-ياعزيز ياغفار اغفرلي ذنوبي وذنوب جميع المؤمنين والمؤمنات فانه لا يغفر
-الذنوب الا انت
-  </p>
-</blockquote>
+> ياعزيز ياغفار اغفرلي ذنوبي وذنوب جميع المؤمنين والمؤمنات فانه لا يغفر
+> الذنوب الا انت
 
 *‘Yā A’zīzo, Yā Ghaffāro, Ighfirlī žunūbi Wa žunūbi Jamī’il Mo-minīna
 wal Mo-mināt.* *Innahu lā yaghfiruz žunūb illa ant.’*
@@ -791,5 +787,4 @@ early awakening.
 [^12]: Wasa’il ul-Shia
 
 [^13]: Mustadrak ul-Wasa’il
-
 

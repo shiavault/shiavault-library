@@ -46,4 +46,3 @@ to Sohravardi, these non-composed realities are known immediately by the
 senses, and composed objects are known by knowing their parts. Some
 realities are known only by intuition or illumination.
 
-

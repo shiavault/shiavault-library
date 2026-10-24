@@ -23,4 +23,3 @@ to the types of good turns to Imam (as).
 
 [^1]: Amali, Pg. 201
 
-

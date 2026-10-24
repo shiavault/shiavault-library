@@ -4,12 +4,8 @@ Section 3: Allah’s Bounties as Signs of Guidance to Mankind
 Surah Ya-Sin - Verse 33
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَايَةٌ لَّهُمُ الأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا
-مِنْهَا حَبّاً فَمِنْهُ يَأْكُلُونَ
-  </p>
-</blockquote>
+> وَءَايَةٌ لَّهُمُ الأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا
+> مِنْهَا حَبّاً فَمِنْهُ يَأْكُلُونَ
 
 ***33. “And a sign for them is the dead and; We give life to it and We
 bring forth from it grain so they eat of it.”***
@@ -73,19 +69,11 @@ so that as if they form all foods of man.
 Surah Ya-Sin - Verses 34-35
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا فِيهَا جَنَّاتٍ مِن نَّخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا
-فِيهَا مِنَ الْعُيُونِ
-  </p>
-</blockquote>
+> وَجَعَلْنَا فِيهَا جَنَّاتٍ مِن نَّخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا
+> فِيهَا مِنَ الْعُيُونِ
 
-<blockquote dir="rtl">
-  <p>
-لِيَأْكُلُوا مِن ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلاَ
-يَشْكُرُونَ
-  </p>
-</blockquote>
+> لِيَأْكُلُوا مِن ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلاَ
+> يَشْكُرُونَ
 
 ***34. “And We made therein gardens of date-palms and grape vines, and
 We caused springs to flow forth in it,”***  
@@ -178,12 +166,8 @@ step of knowing Allah (s.w.t.).
 Surah Ya-Sin - Verse 36
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي خَلَقَ الأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الأَرْضُ
-وَمِنْ أَنفُسِهِمْ وَمِمَّا لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي خَلَقَ الأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الأَرْضُ
+> وَمِنْ أَنفُسِهِمْ وَمِمَّا لاَ يَعْلَمُونَ
 
 ***36. “Glory be to Him Who created pairs (of) all things, of what the
 earth grows, and of their selves and of what they do not know.”***
@@ -273,19 +257,11 @@ world which are not known to our knowledge.[^1]
 Surah Ya-Sin - Verses 37-38
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَايَةٌ لَّهُمُ الَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُم
-مُّظْلِمُونَ
-  </p>
-</blockquote>
+> وَءَايَةٌ لَّهُمُ الَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُم
+> مُّظْلِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ
-الْعَلِيمِ
-  </p>
-</blockquote>
+> وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ
+> الْعَلِيمِ
 
 ***37. “And a sign for them is the night; We strip it of the day and
 behold they are plunged in darkness.”***  
@@ -395,19 +371,11 @@ and program to the living of man, and arranges its different aspects.
 Surah Ya-Sin - Verses 39-40
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّي عَادَ كَالْعُرْجُونِ
-الْقَدِيمِ
-  </p>
-</blockquote>
+> وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّي عَادَ كَالْعُرْجُونِ
+> الْقَدِيمِ
 
-<blockquote dir="rtl">
-  <p>
-لاَ الشَّمْسُ يَنْبَغِي لَهَآ أَن تُدْرِكَ الْقَمَرَ وَلاَ الَّيْلُ
-سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
-  </p>
-</blockquote>
+> لاَ الشَّمْسُ يَنْبَغِي لَهَآ أَن تُدْرِكَ الْقَمَرَ وَلاَ الَّيْلُ
+> سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
 
 ***39. “And (as for) the moon, We have fixed for it the stages till its
 returns to be bent like an old palm branch.”***  
@@ -564,18 +532,10 @@ extra ordinary speed.
 Surah Ya-Sin - Verses 41-42
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَايَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرّ‌ِيَّتَهُمْ فِي الْفُلْكِ
-الْمَشْحُونِ
-  </p>
-</blockquote>
+> وَءَايَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرّ‌ِيَّتَهُمْ فِي الْفُلْكِ
+> الْمَشْحُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَخَلَقْنَا لَهُم مِن مّـِثْلِهِ مَا يَرْكَبُونَ
-  </p>
-</blockquote>
+> وَخَلَقْنَا لَهُم مِن مّـِثْلِهِ مَا يَرْكَبُونَ
 
 ***41. “And a sign for them is that We bore their offspring in the
 loaded ship.”***  
@@ -664,17 +624,9 @@ verse.
 Surah Ya-Sin - Verses 43-44
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاِن نَّشَأْ نُغْرِقْهُمْ فَلاَ صَرِيخَ لَهُمْ وَلاَ هُمْ يُنقَذُونَ
-  </p>
-</blockquote>
+> وَاِن نَّشَأْ نُغْرِقْهُمْ فَلاَ صَرِيخَ لَهُمْ وَلاَ هُمْ يُنقَذُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ رَحْمَةً مِنَّا وَمَتَاعاً إِلَي حِينٍ
-  </p>
-</blockquote>
+> إِلاَّ رَحْمَةً مِنَّا وَمَتَاعاً إِلَي حِينٍ
 
 ***43. “And if We please, We drown them, then there shall be none to
 help them, nor shall they be rescued.”***  
@@ -731,19 +683,11 @@ path toward Him therefrom.
 Surah Ya-Sin - Verses 45-46
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ
-لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ
+> لَعَلَّكُمْ تُرْحَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَأْتِيهِم مِنْ ءَايَةٍ مِنْ ءَايَاتِ رَبّـِهِمْ إِلاَّ كَانُوا
-عَنْهَا مُعْرِضِينَ
-  </p>
-</blockquote>
+> وَمَا تَأْتِيهِم مِنْ ءَايَةٍ مِنْ ءَايَاتِ رَبّـِهِمْ إِلاَّ كَانُوا
+> عَنْهَا مُعْرِضِينَ
 
 ***45. “And when it is said to them: ‘Be in awe of that which is before
 you and that which is behind you; haply you will be treated with mercy,
@@ -814,13 +758,9 @@ darkness of the night.
 Surah Ya-Sin - Verse 47
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ أَنفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ
-الَّذِينَ كَفَرُوا لِلَّذِينَ ءَامَنُوا أَنُطْعِمُ مَن لَوْ يَشَآءُ
-اللَّهُ أَطْعَمَهُ إِنْ أَنتُمْ إِلاَّ فِي ضَلاَلٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ أَنفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ
+> الَّذِينَ كَفَرُوا لِلَّذِينَ ءَامَنُوا أَنُطْعِمُ مَن لَوْ يَشَآءُ
+> اللَّهُ أَطْعَمَهُ إِنْ أَنتُمْ إِلاَّ فِي ضَلاَلٍ مُبِينٍ
 
 ***47. “And when it is said to them: ‘Spend out of what Allah has
 provided you with the sustenance, those who disbelieve say to those who
@@ -909,24 +849,12 @@ the believers and to attribute them to ‘a manifest error’,
 Surah Ya-Sin - Verses 48-50
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا يَنظُرُونَ إِلاَّ صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ
-يَخِصّـِمُونَ
-  </p>
-</blockquote>
+> مَا يَنظُرُونَ إِلاَّ صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ
+> يَخِصّـِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ يَسْتَطِيعُونَ تَوْصِيَةً وَلآ إِلَي أَهْلِهِمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> فَلاَ يَسْتَطِيعُونَ تَوْصِيَةً وَلآ إِلَي أَهْلِهِمْ يَرْجِعُونَ
 
 ***48. “And they say: ‘When will this promise come to pass if you are
 truthful?’”***  
@@ -1056,5 +984,4 @@ verse 7
 [^3]: Majma‘-ul-Bayan, following the verse under discussion; and some
 other commentary books, such as: Tafsir-i-Qurtabi, Rauh-ul-Bayan and so
 on.
-
 

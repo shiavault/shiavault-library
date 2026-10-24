@@ -96,12 +96,8 @@ associated with the Muslims’, it is possible that doubt implies betrayal
 of trust as the same thing is mentioned in the following verse of
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ۚ وَمَنْ يَغْلُلْ يَأْتِ بِمَا
-غَلَّ يَوْمَ الْقِيَامَةِ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ۚ وَمَنْ يَغْلُلْ يَأْتِ بِمَا
+> غَلَّ يَوْمَ الْقِيَامَةِ
 
 ***And it is not attributable to a prophet that he should act
 unfaithfully; and he who acts unfaithfully shall bring that in respect
@@ -111,11 +107,7 @@ Surah Aale Imran 3:161)***
 And it is also possible that it may denote malice and enmity as
 mentioned in the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ
-  </p>
-</blockquote>
+> وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ
 
 ***And We will remove whatever of ill-feeling is in their breasts.
 (Qur’an, Surah Araaf 7:43)***
@@ -125,23 +117,15 @@ the sentence of the tradition is predicative or it can be initiative.
 Further it can be pronounced in a different way to imply that which is
 mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-غُلَّتْ أَيْدِيهِمْ 
-  </p>
-</blockquote>
+> غُلَّتْ أَيْدِيهِمْ
 
 ***Their hands shall be shackled. (Qur’an, Surah Maidah 5:64)***
 
 It is the opposite of widening of the breast and in consonance of the
 following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ بَلْ طَبَعَ اللَّهُ عَلَيْهَا
-بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلً
-  </p>
-</blockquote>
+> وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ بَلْ طَبَعَ اللَّهُ عَلَيْهَا
+> بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلً
 
 ***Their saying: Our hearts are covered; nay! Allah set a seal upon them
 owing to their unbelief. (Qur’an, Surah Nisa 4:155)***
@@ -150,11 +134,7 @@ On the basis of all possibilities: It is possible that the word ‘Alaa’
 in ‘Alaihinna’ is metaphorical. And perhaps it is in the meaning of ‘in’
 like in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا
-  </p>
-</blockquote>
+> وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا
 
 ***And he went into the city at a time of unvigilance on the part of its
 people. (Qur’an, Surah Qasas 28:15)***
@@ -162,22 +142,14 @@ people. (Qur’an, Surah Qasas 28:15)***
 And it is possible that it could be in the meaning of ‘with’ like in the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَآتَى الْمَالَ عَلَىٰ حُبِّهِ
-  </p>
-</blockquote>
+> وَآتَى الْمَالَ عَلَىٰ حُبِّهِ
 
 ***…and give away wealth out of love for Him. (Qur’an, Surah Baqarah
 2:177)***
 
 Or it can be for showing the cause like in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ 
-  </p>
-</blockquote>
+> وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ
 
 ***And that you should exalt the greatness of Allah for His having
 guided you. (Qur’an, Surah Baqarah 2:185)***
@@ -225,34 +197,22 @@ attention to the Almighty Allah and in being attached to the standards
 of religion and to degrade the infidels as he has deviated from the
 truth. The Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-نَسُوا اللَّهَ فَنَسِيَهُمْ
-  </p>
-</blockquote>
+> نَسُوا اللَّهَ فَنَسِيَهُمْ
 
 ***They have forsaken Allah, so He has forsaken them. (Qur’an, Surah
 Taubah 9:67)***
 
 And He said:
 
-<blockquote dir="rtl">
-  <p>
-وَيُضِلُّ اللَّهُ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَيُضِلُّ اللَّهُ الظَّالِمِينَ
 
 ***And Allah causes the unjust to go astray. (Qur’an, Surah Ibrahim
 14:27)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْرِضْ عَنْ مَنْ تَوَلَّىٰ عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا
-الْحَيَاةَ الدُّنْيَا 
-  </p>
-</blockquote>
+> فَأَعْرِضْ عَنْ مَنْ تَوَلَّىٰ عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا
+> الْحَيَاةَ الدُّنْيَا
 
 ***Therefore turn aside from him who turns his back upon Our reminder
 and does not desire anything but this world’s life. (Qur’an, Surah Najm
@@ -274,12 +234,8 @@ It is that the sentence is informative and the tradition is regarding
 the signs of believers. That is a Muslim is really as he should be
 according to the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ
-  </p>
-</blockquote>
+> وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ
 
 ***And whoever submits himself wholly to Allah and he is the doer of
 good (to others), he indeed has taken hold of the firmest thing upon
@@ -310,12 +266,8 @@ be from one whose heart the Almighty Allah has opened for faith. He will
 receive light from his Lord. And if all these matters don’t gather in
 his heart he would be like one mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ ۚ بَلْ طَبَعَ اللَّهُ عَلَيْهَا
-بِكُفْرِهِمْ 
-  </p>
-</blockquote>
+> وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ ۚ بَلْ طَبَعَ اللَّهُ عَلَيْهَا
+> بِكُفْرِهِمْ
 
 ***And their saying: Our hearts are covered; nay! Allah set a seal upon
 them owing to their unbelief. (Qur’an, Surah Nisa 4:155)***
@@ -350,5 +302,4 @@ present more points in this regard, Insha Allah.
 [^2]: Usool Kafi, Vol. 1, Pg. 403
 
 [^3]: Usool Kafi, Vol. 1, Pg. 403
-
 

@@ -16,11 +16,7 @@ intelligence and is mild-mannered.
 espouse diligence and effort.
 
 > 3ـ إنْ كُنْتُمْ لِلنَّجاةِ طالِبِينَ فَارْفَضُوا الْغَفْلَةَ
-<blockquote dir="rtl">
-  <p>
-واللَّهْوَ والْزَمُوا الاِجْتِهادَ والْجِدَّ.
-  </p>
-</blockquote>
+> واللَّهْوَ والْزَمُوا الاِجْتِهادَ والْجِدَّ.
 
 4. The bane of success is laziness.
 
@@ -57,24 +53,15 @@ requirements of faith.
 punishment of] Allah, the Glorified.
 
 > 11ـ لا يَنْجُو مِنَ اللّهِ سُبْحانَهُ مَنْ لا يَنْجُوالنّاسُ مِنْ
-<blockquote dir="rtl">
-  <p>
-شَـرِّهِ.
-  </p>
-</blockquote>
+> شَـرِّهِ.
 
 12. There is salvation in three things: espousing truth, shunning
 falsehood and working hard.
 
 > 12ـ ثَلاثٌ فِيهِنَّ النَّجاةُ: لُزُومُ الْحَقِّ، وتَجَنُّبُ الْباطِلِ
-<blockquote dir="rtl">
-  <p>
-ورُ كُوبُ الجِدِّ.
-  </p>
-</blockquote>
+> ورُ كُوبُ الجِدِّ.
 
 13. How can one who flees from Allah be saved?!
 
 > 13ـ كَيْفَ يَنْجُو مِنَ اللّهِ هارِبُهُ؟!
-
 

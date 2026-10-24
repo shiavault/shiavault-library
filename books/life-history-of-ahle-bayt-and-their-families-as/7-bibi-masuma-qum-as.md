@@ -74,7 +74,6 @@ father, Abu Jafar (Muhammad b. Ali), peace be on him, clearly gave him
 the trusteeship (of the Imamate) and gave him an explicit designation
 (nass jali) for the Imamate.
 
-
 Bibi Zainab (as), A Brief Look at her Life
 Name: Zainab
 Title: Siddiqa-e-Sughra
@@ -264,7 +263,6 @@ Humble and of high morals, her main concern was to strive to please
 Allah and in doing so she avoided anything which was the least bit
 doubtful.
 
-
 **Janabe Fatema Zahra (as)**
 
 This Great Lady was the only daughter of the Holy Prophet (saww) and
@@ -392,5 +390,4 @@ huddled around her, and the prison walls began to shake with the cry:
 and cried out:
 
 "Speak to me, Sakina! Only a word, my child! Speak to me!!"
-
 

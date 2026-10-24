@@ -31,4 +31,3 @@ City-World to the World-City),* 1994. He is particularly interested in
 the works of Farabi, Molla-Sadra, Sheykh Ansari, and Hafez. He is
 married and has three children.
 
-

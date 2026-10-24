@@ -111,4 +111,3 @@ problem one fully appreciates the advice of Majlisi (I'tiqadat,
 prohibits bad actions in terms of the doctrine of predestination, Tas.
 (Mur. iii.60-61).
 
-

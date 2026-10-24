@@ -13,12 +13,8 @@ is incinerating, its groans are terrifying, its abatement is remote, its
 fuel is igniting, [and] its horrors are terrifying.
 
 > 2ـ وَقالَ ـ عَليه السّلامُ ـ في وَصْفِ جَهَنَّمَ: نارٌ شديدٌ كَلْبُها،
-<blockquote dir="rtl">
-  <p>
-عال لَحَبُها، ساطِعٌ لَهَبُها، مُتَأَجِّجٌ سَعيرُها، مُتَغَيِّظٌ
-زَفيرُها، بَعيدٌ خُمُودُها، ذاك وقُودُها، مُتَخَوِّفٌ وَعيدُها.
-  </p>
-</blockquote>
+> عال لَحَبُها، ساطِعٌ لَهَبُها، مُتَأَجِّجٌ سَعيرُها، مُتَغَيِّظٌ
+> زَفيرُها، بَعيدٌ خُمُودُها، ذاك وقُودُها، مُتَخَوِّفٌ وَعيدُها.
 
 3. He (‘a) said while describing hell: Its inmate cannot leave, its
 prisoner cannot be released by ransom and its shackles cannot be broken.
@@ -26,12 +22,8 @@ This abode has no fixed age so that it may perish, nor is there a
 lifespan for its inmates that they may pass away.
 
 > 3ـ وقال ـ عليه السّلام ـ في وَصفِ جَهَنَّمِ: لايَظْعَنُ مُقيمُها، وَلا
-<blockquote dir="rtl">
-  <p>
-يُفادى أسيرُها، وَلا تُقْصَمُ كُبُولُها، لا مُدَّةَ لِلدّارِ فَتَفْنى،
-وَلا أجَلَ لِلْقَوْمِ فَيُقْضى.
-  </p>
-</blockquote>
+> يُفادى أسيرُها، وَلا تُقْصَمُ كُبُولُها، لا مُدَّةَ لِلدّارِ فَتَفْنى،
+> وَلا أجَلَ لِلْقَوْمِ فَيُقْضى.
 
 4. Verily all disbelieving schemers are inmates of the fire.
 
@@ -42,11 +34,7 @@ engulfed [with fire], its sides are pitch-dark, its vessels are
 scorching hot and everything about it is horrid.
 
 > 5ـ وقالَ ـ عَليه السّلام ـ في وَصْفِ النّارِ: غَمِرٌ قَرارُها،
-<blockquote dir="rtl">
-  <p>
-مُظْلِمَةٌ أقْطارُها، حامِيَةٌ قُدُورُها، فَظيعَةٌ أُمُورُها.
-  </p>
-</blockquote>
+> مُظْلِمَةٌ أقْطارُها، حامِيَةٌ قُدُورُها، فَظيعَةٌ أُمُورُها.
 
 6. None will be saved from the fire of hell except the one who
 abandons its actions (i.e. the actions that lead to it).
@@ -76,11 +64,7 @@ every rich person who was miserly towards the poor with his wealth and
 every learned scholar who sold his Hereafter for the world.
 
 > 11ـ وَقُودُ النّارِ يَوْمَ القِيمَةِ كُلُّ غَنِيّ بَخِلَ بِمالِهِ
-<blockquote dir="rtl">
-  <p>
-عَلَى الفُقَراءِ، وَكُلُّ عالِم باعَ الدّينَ بِالدُّنيا.
-  </p>
-</blockquote>
+> عَلَى الفُقَراءِ، وَكُلُّ عالِم باعَ الدّينَ بِالدُّنيا.
 
 12. Be wary of the fire whose heat is intense, whose pit is deep and
 whose ornaments are made of [molten] iron.
@@ -91,14 +75,9 @@ whose ornaments are made of [molten] iron.
 are intense and its torment is forever renewed.
 
 > 13ـ إحْذَرُوا ناراً لَحيبُها عَتيدٌ و لَهَبُها شَديدٌ وعَذابُها أبَداً
-<blockquote dir="rtl">
-  <p>
-جديدٌ.
-  </p>
-</blockquote>
+> جديدٌ.
 
 14. Hellfire is the final end of the extremists.
 
 > 14ـ النّار غايَةُ المُفْرِطينَ.
-
 

@@ -319,4 +319,3 @@ God willing.
 [^1]: Bas C. van Fraassen, The Scientific Image (Oxford: Clarendon
 Press, 1980).
 
-

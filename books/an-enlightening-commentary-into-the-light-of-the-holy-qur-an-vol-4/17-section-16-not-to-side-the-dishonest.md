@@ -8,12 +8,8 @@ Not to take up the cause of the dishonest -the Apostle may pray for his
 followers-Forgiveness of Allah always there is for those who seek it
 after evil with the necessary amendment.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
-النَّاسِ بِمَا أَرَاكَ اللّهُ وَلاَ تَكُن لِّلْخَآئِنِينَ خَصِيمًا
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
+> النَّاسِ بِمَا أَرَاكَ اللّهُ وَلاَ تَكُن لِّلْخَآئِنِينَ خَصِيمًا
 
 **105.** ***"Verily We have sent down the Book to you with that you may
 judge between people by what Allah has shown (taught) you. And be not an
@@ -55,11 +51,7 @@ of revelation of the verse).
 Surah An-Nisa', Verse 106
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَغْفِرِ اللّهَ إِنَّ اللّهَ كَانَ غَفُورًا رَّحِيمًا
-  </p>
-</blockquote>
+> وَاسْتَغْفِرِ اللّهَ إِنَّ اللّهَ كَانَ غَفُورًا رَّحِيمًا
 
 **106.** "***And seek forgiveness of Allah. Verily Allah*** *is*
 ***Forgiving, Merciful."***
@@ -79,12 +71,8 @@ Merciful."***
 Surah An-Nisa', Verse 107
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ اللّهَ
-لاَ يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا
-  </p>
-</blockquote>
+> وَلاَ تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ اللّهَ
+> لاَ يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا
 
 **107.** ***"And do not plead on behalf of those who deceive themselves.
 Verily Allah does not love any who is treacherous, sinful."***
@@ -113,13 +101,9 @@ verse, it says:
 Surah An-Nisa', Verse 108
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَخْفُونَ مِنَ النَّاسِ وَلاَ يَسْتَخْفُونَ مِنَ اللّهِ وَهُوَ
-مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لاَ يَرْضَى مِنَ الْقَوْلِ وَكَانَ
-اللّهُ بِمَا يَعْمَلُونَ مُحِيطًا
-  </p>
-</blockquote>
+> يَسْتَخْفُونَ مِنَ النَّاسِ وَلاَ يَسْتَخْفُونَ مِنَ اللّهِ وَهُوَ
+> مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لاَ يَرْضَى مِنَ الْقَوْلِ وَكَانَ
+> اللّهُ بِمَا يَعْمَلُونَ مُحِيطًا
 
 **108.** ***"They (the treacherous) hide from people but they hide not
 from Allah; while He is with them when they hold nightly discourses that
@@ -143,13 +127,9 @@ not please Him. And Allah encompasses what they do."***
 Surah An-Nisa', Verse 109
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَاأَنتُمْ هَـؤُلاء جَادَلْتُمْ عَنْهُمْ فِي الْحَيَاةِ الدُّنْيَا
-فَمَن يُجَادِلُ اللّهَ عَنْهُمْ يَوْمَ الْقِيَامَةِ أَم مَّن يَكُونُ
-عَلَيْهِمْ وَكِيلاً
-  </p>
-</blockquote>
+> هَاأَنتُمْ هَـؤُلاء جَادَلْتُمْ عَنْهُمْ فِي الْحَيَاةِ الدُّنْيَا
+> فَمَن يُجَادِلُ اللّهَ عَنْهُمْ يَوْمَ الْقِيَامَةِ أَم مَّن يَكُونُ
+> عَلَيْهِمْ وَكِيلاً
 
 **109.** ***"(Suppose that) you pleaded for them in this worldly life,
 but who will plead for them with Allah on the Day of Resurrection, or
@@ -176,12 +156,8 @@ will plead for them with Allah on the Day of Resurrection.....?"***
 Surah An-Nisa', Verse 110
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللّهَ
-يَجِدِ اللّهَ غَفُورًا رَّحِيمًا
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللّهَ
+> يَجِدِ اللّهَ غَفُورًا رَّحِيمًا
 
 **110.** ***"And whoever does evil or acts unjustly to his own self;
 then seeks forgiveness of Allah, shall find Allah Forgiving,
@@ -205,12 +181,8 @@ Merciful."***
 Surah An-Nisa', Verse 111
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَى نَفْسِهِ وَكَانَ
-اللّهُ عَلِيمًا حَكِيمًا
-  </p>
-</blockquote>
+> وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَى نَفْسِهِ وَكَانَ
+> اللّهُ عَلِيمًا حَكِيمًا
 
 **111.** ***"And whoever commits a sin, indeed he commits it only
 against his own self and Allah is All-Knowing, All-Wise."***
@@ -234,12 +206,8 @@ deserves. It says:
 Surah An-Nisa', Verse 112
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا
-فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُّبِينًا
-  </p>
-</blockquote>
+> وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا
+> فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُّبِينًا
 
 **112.** ***"And whoever commits a fault or a sin, then accuses of it an
 innocent, he indeed burdens (himself) with the calumny and a manifest
@@ -273,5 +241,4 @@ sinner be saved, and the common confidence be vanished.
 [^2]: Verse No. 108 of the current Surah.
 
 [^3]: Safinat-ul-Bihar, vol. 1, p. 111
-
 

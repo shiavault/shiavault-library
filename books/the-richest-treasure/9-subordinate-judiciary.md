@@ -30,4 +30,3 @@ is confirmed by the report of your secret service, then regard this as a
 sufficient to convict him. Let the punishment be corporal and let that
 be dealt in the public at an appointed place of degradation.
 
-

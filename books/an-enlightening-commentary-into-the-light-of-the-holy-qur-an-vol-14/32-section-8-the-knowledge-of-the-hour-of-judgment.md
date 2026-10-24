@@ -4,14 +4,10 @@ Section 8: The Knowledge of the Hour of Judgment
 Surah Al-’Ahzab – Verse 59
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الْنَّبِيُّ قُلْ لاَزْوَاجِكَ وَبَنَاتِكَ وَنِسَآءِ
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلاَبِيبِهِنَّ ذَلِكَ
-أَدْنَي أَن يُعْرَفْنَ فَلاَ يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
-رَّحِيماً
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الْنَّبِيُّ قُلْ لاَزْوَاجِكَ وَبَنَاتِكَ وَنِسَآءِ
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلاَبِيبِهِنَّ ذَلِكَ
+> أَدْنَي أَن يُعْرَفْنَ فَلاَ يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
+> رَّحِيماً
 
 ***59. “O’ Prophet! Say to your wives and your daughters and the women
 of the believers that they draw their veils close to them, that is most
@@ -129,13 +125,9 @@ Him and fulfil the duty of chastity and cover yourself well.
 Surah Al-’Ahzab – Verse 60
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَئِن لَمْ يَنتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
-وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لاَ
-يُجَاوِرُونَكَ فِيهَآ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> لَئِن لَمْ يَنتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
+> وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لاَ
+> يُجَاوِرُونَكَ فِيهَآ إِلاَّ قَلِيلاً
 
 ***60. “If the hypocrites and those in whose heart is a disease and the
 agitators in the city do not desist, We shall certainly rouse you up
@@ -204,18 +196,10 @@ in a manner that they can not live there any more.
 Surah Al-’Ahzab – Verses 61-62
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّلْعُونِينَ أَيْنَمَا ثُقِفُوا اُخِذُوا وَقُتّـِلُوا تَقْتِيلاً
-  </p>
-</blockquote>
+> مَّلْعُونِينَ أَيْنَمَا ثُقِفُوا اُخِذُوا وَقُتّـِلُوا تَقْتِيلاً
 
-<blockquote dir="rtl">
-  <p>
-سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ وَلَن تَجِدَ
-لِسُنَّةِ اللَّهِ تَبْدِيلاً
-  </p>
-</blockquote>
+> سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ وَلَن تَجِدَ
+> لِسُنَّةِ اللَّهِ تَبْدِيلاً
 
 ***61. “Accursed, wherever they are found they shall be seized and slain
 with a (fierce) slaughter.”***  
@@ -306,12 +290,8 @@ master of the affairs of Muslims and Islamic judges.
 Surah Al-’Ahzab – Verse 63
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ قُلْ اِنَّمَا عِلْمُهَا عِندَ
-اللَّهِ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيباً
-  </p>
-</blockquote>
+> يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ قُلْ اِنَّمَا عِلْمُهَا عِندَ
+> اللَّهِ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيباً
 
 ***63. “The people will ask you concerning the Hour (of Judgment). Say:
 ‘The knowledge of it is only with Allah; what shall make you know?
@@ -360,17 +340,9 @@ event and that he is far off from the Divine punishment.
 Surah Al-’Ahzab – Verses 64-65
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ اللَّهَ لَعَنَ الْكَافِرِينَ وَأَعَدَّ لَهُمْ سَعِيراً
-  </p>
-</blockquote>
+> اِنَّ اللَّهَ لَعَنَ الْكَافِرِينَ وَأَعَدَّ لَهُمْ سَعِيراً
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فِيهَآ أَبَداً لاَ يَجِدُونَ وَلِيّاً وَلاَ نَصِيرًا
-  </p>
-</blockquote>
+> خَالِدِينَ فِيهَآ أَبَداً لاَ يَجِدُونَ وَلِيّاً وَلاَ نَصِيرًا
 
 ***64. “Verily Allah has cursed the Unbelievers and has prepared for
 them a flaming fire,”***  
@@ -404,12 +376,8 @@ helper.
 Surah Al-’Ahzab – Verse 66
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يَقُولُونَ يَالَيْتَنَآ
-أَطَعْنَا اللَّهَ وَأَطَعْنَا الرَّسُولاَ
-  </p>
-</blockquote>
+> يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يَقُولُونَ يَالَيْتَنَآ
+> أَطَعْنَا اللَّهَ وَأَطَعْنَا الرَّسُولاَ
 
 ***66. “On the Day when their faces are turned over in the Fire, they
 say: ‘Oh! Would that we had obeyed Allah and had obeyed the
@@ -443,12 +411,8 @@ Messenger!’”***
 Surah Al-’Ahzab – Verse 67
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا
-فَاَضَلُّونَا السَّبيلاَ
-  </p>
-</blockquote>
+> وَقَالُوا رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا
+> فَاَضَلُّونَا السَّبيلاَ
 
 ***67. “And they shall say: ‘O our Lord! Verily we obeyed our chiefs and
 our elders, and they led us astray from the path’.”***
@@ -483,12 +447,8 @@ been under the effect of their apparent greatness.
 Surah Al-’Ahzab – Verse 68
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَآ ءَاتِهِمْ ضِعْفَيِنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً
-كَبِيراً
-  </p>
-</blockquote>
+> رَبَّنَآ ءَاتِهِمْ ضِعْفَيِنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً
+> كَبِيراً
 
 ***68. “O’ our Lord! Give them double chastisement and curse them with a
 great curse.”***
@@ -537,5 +497,4 @@ Qutr-ul-Muhit, Taj-ul-‘Arus
 [^3]: Surah Ash-Shura, No. 42, verses 17-18
 
 [^4]: Surah Al-’A‘raf, No. 7, verse 38
-
 

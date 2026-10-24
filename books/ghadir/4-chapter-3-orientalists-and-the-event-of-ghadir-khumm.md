@@ -557,4 +557,3 @@ pp 120-121
 [^21]: For full references, see Al-Amini, Al-Ghadir vol 1, Tehran:
 Mu'assatul Muwahhidi, 1976, pp 166-186.
 
-

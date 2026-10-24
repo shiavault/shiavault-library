@@ -14,4 +14,3 @@ house”.
 Bravo to the mother who pays attention to the indecency of her own child
 which are things that are against the morals of Islam.
 
-

@@ -107,4 +107,3 @@ person will be the manifestation of generosity, justice and peacefulness
 whether in the state of war or in the state of peace.  
   
 
-

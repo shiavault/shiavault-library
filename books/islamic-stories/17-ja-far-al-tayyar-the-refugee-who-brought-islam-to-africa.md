@@ -106,4 +106,3 @@ Thus Ja'far had done a great service to Islam. He preached the true
 message of Islam in Abyssinia and stayed there for fifteen years before
 returning to Madina.
 
-

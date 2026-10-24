@@ -563,4 +563,3 @@ study in detail may refer to the comprehensive books of jurisprudence.
 
 [^20]: al-Kāfi
 
-

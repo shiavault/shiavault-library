@@ -30,7 +30,6 @@ system of Legislation,along with submission to Him, and the belief of
 His Oneness (Tauhi'd), has given priority to the respect of parents and
 has guided us in the following way:-
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 7. Surah Ankabu't, Verse: 8.
 8. Surah Ahqa't. Verse: 15
@@ -136,7 +135,6 @@ one's self. Moreover the explanation and interpretation communicated to
 us by those personalities, who understood the Quranic view point and are
 a guide of humanity, widely opens our insight, and all the rights of the
 parents and our
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Mariu'm, Verse: 30-32
@@ -307,7 +305,6 @@ common experience that due to the social differential, economic tussle,
 sense of deprivation, lack-bf self confidence, unawareness from
 religion, and above all, the
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 31. Surah Ibrahim, Verse: 39
 32. Surah lbrahim, Verse: 37.
@@ -346,7 +343,6 @@ it! to slaughter them is a grievous crime!"34 Did you notice that the
 real motive behind this illegitimate murder, and loss of these petty
 innocent lives, was nothing but the fear of "adversities and loss"? If
 there would be children, from
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 33. Surah Ana'm, Verse: 152
@@ -388,7 +384,6 @@ Dr. Hussain Ha'j Hasan, Naqad Al-Hadi'th. In both of them they have at
 length commented upon the economic conditions of the Arabs of the
 Arabian Peninsula, regarding their culture and customs, and it
 complements our stand.
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 35. Al-Miz'an fi Tafseer Al-Quran, Vol: 13, Page 85, Beruit.
@@ -459,7 +454,6 @@ temperament of the dreadful desert inhibited Arabs, their miserable
 environment and conditions, at that time all was quiet different, which
 has no bearing with anything else. Well, this preposition is to some
 extent true, but however both in the old
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 38 Surah Naha,'l, verse:58-59
@@ -541,7 +535,6 @@ Even the pleasures of meeting or the rememberence of the beloved, is
 not being leftover.
 Such a fire overtook this house that, whatsoever was their, was burnt
 to ashes.
-
 
 Then is the determination of the aims and objectives of the
 "educaticin", necessarily followed by the steadfastness to achieve the
@@ -659,5 +652,4 @@ parents are due upon the children and their fulfillment is obligatory
 upon them, so are a number of rights of the children for which the
 "parents" are responsible, and their fulfillment is obligatory upon them
 too. Let us now probe into them, in more details.
-
 

@@ -1035,4 +1035,3 @@ extracts were written for brevity
 
 [^59]: Ibid, p. 222
 
-

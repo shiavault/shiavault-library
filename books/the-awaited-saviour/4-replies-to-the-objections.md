@@ -969,4 +969,3 @@ Haydar, (Darul Kitab al-Arabia Beirut).
 
 [^6]: Al-Fatawa al-Waziha 'by Ayatullah Muhammad Baqir al-Sadr.
 
-

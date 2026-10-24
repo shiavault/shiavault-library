@@ -4,19 +4,11 @@ Section 7: The Coming of the Day of Judgment
 Surah An-Naml - Verses 83-84
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ نَحْشُرُ مِن كُلّ‌ِ اُمَّةٍ فَوْجاً مّـِمَّن يُكَذّ‌ِبُ
-بِاَيَاتِنَا فَهُمْ يوزَعُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ نَحْشُرُ مِن كُلّ‌ِ اُمَّةٍ فَوْجاً مّـِمَّن يُكَذّ‌ِبُ
+> بِاَيَاتِنَا فَهُمْ يوزَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا جَآءُوا قَالَ أَكَذَّبْتُم بِاَيَاتِي وَلَمْ تُحِيطُوا
-بِهَا عِلْماً أَمَّاذَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> حَتَّي إِذَا جَآءُوا قَالَ أَكَذَّبْتُم بِاَيَاتِي وَلَمْ تُحِيطُوا
+> بِهَا عِلْماً أَمَّاذَا كُنتُمْ تَعْمَلُونَ
 
 ***83. “And on the Day when We shall muster out of every nation a party
 from those who belied Our revelations, and they shall be kept in
@@ -291,11 +283,7 @@ proper chastisement in Hereafter is reserved.
 Surah An-Naml - Verse 85
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَقَعَ الْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا فَهُمْ لاَ يَنطِقُونَ
-  </p>
-</blockquote>
+> وَوَقَعَ الْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا فَهُمْ لاَ يَنطِقُونَ
 
 ***85. “And the word will be fulfilled against them because they were
 unjust so they shall not speak.”***
@@ -321,12 +309,8 @@ sense of Hereafter.
 Surah An-Naml - Verse 86
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَرَوْا أَنَّا جَعَلْنَا اللَّيْلَ لِيَسْكُنُوا فِيهِ
-وَالنَّهَارَ مُبْصِراً إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَلَمْ يَرَوْا أَنَّا جَعَلْنَا اللَّيْلَ لِيَسْكُنُوا فِيهِ
+> وَالنَّهَارَ مُبْصِراً إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
 
 ***86. “Have they not seen how We have appointed the night that they may
 rest therein, and the day to give light? Verily, in this are signs for
@@ -451,12 +435,8 @@ investigations of crimes in the world.
 Surah An-Naml - Verse 87
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُنفَخُ فِي الصُّورِ فَفَزِعَ مَن فِي السَّمَاوَاتِ وَمَن فِي
-الاَرْضِ إِلاَّ مَن شآءَ اللَّهُ وَكُلٌّ أَتَوْهُ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُنفَخُ فِي الصُّورِ فَفَزِعَ مَن فِي السَّمَاوَاتِ وَمَن فِي
+> الاَرْضِ إِلاَّ مَن شآءَ اللَّهُ وَكُلٌّ أَتَوْهُ دَاخِرِينَ
 
 ***87. “And (remind them of) The Day when the Trumpet will be blown and
 those who are in the heavens and those who are in the earth shall be
@@ -542,13 +522,9 @@ refers to the attendance in the scene of reckoning the deeds.
 Surah An-Naml - Verse 88
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَي الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ
-السَّحَابِ صُنْعَ اللَّهِ الَّذِي اَتْقَنَ كُلَّ شَيْءٍ إِنَّهُ
-خَبِيرٌ بِمَا تَفْعَلُونَ
-  </p>
-</blockquote>
+> وَتَرَي الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ
+> السَّحَابِ صُنْعَ اللَّهِ الَّذِي اَتْقَنَ كُلَّ شَيْءٍ إِنَّهُ
+> خَبِيرٌ بِمَا تَفْعَلُونَ
 
 ***88. “And you see the mountains and think them firmly fixed but they
 shall pass away as the passing away of the cloud. It is the work of
@@ -640,19 +616,11 @@ Him:
 Surah An-Naml - Verses 89-90
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُم مِن فَزَعٍ
-يَوْمَئِذٍ ءَامِنُونَ
-  </p>
-</blockquote>
+> مَنْ جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُم مِن فَزَعٍ
+> يَوْمَئِذٍ ءَامِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ جَآءَ بِالسَّيّـِئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ هَلْ
-تُجْزَوْنَ إِلاَّ مَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَمَنْ جَآءَ بِالسَّيّـِئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ هَلْ
+> تُجْزَوْنَ إِلاَّ مَا كُنتُمْ تَعْمَلُونَ
 
 ***89. “Whoever brings good, for him shall be better than it, and they
 shall be secure from terror on that Day.”***  
@@ -784,13 +752,9 @@ except their own deeds.
 Surah An-Naml - Verse 91
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَآ اُمِرْتُ أَنْ اعْبُدَ رَبَّ هَذِهِ الْبَلْدَةِ الَّذِي
-حَرَّمَهَا وَلَهُ كُلُّ شَيْءٍ وَأُمِرْتُ أَنْ أَكُونَ مِنَ
-الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> إِنَّمَآ اُمِرْتُ أَنْ اعْبُدَ رَبَّ هَذِهِ الْبَلْدَةِ الَّذِي
+> حَرَّمَهَا وَلَهُ كُلُّ شَيْءٍ وَأُمِرْتُ أَنْ أَكُونَ مِنَ
+> الْمُسْلِمِينَ
 
 ***91. “(O’ Muhammad say:) ‘I am commanded only to serve the Lord of
 this city, Who has made it sacred, and His are all things; and I am
@@ -846,12 +810,8 @@ commandment’.
 Surah An-Naml - Verse 92
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ أَتْلُوَا الْقُرْءَانَ فَمَنِ اهْتَدَي فَإِنَّمَا يَهْتَدِي
-لِنَفْسِهِ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَاْ مِنَ الْمُنذِرِينَ
-  </p>
-</blockquote>
+> وَأَنْ أَتْلُوَا الْقُرْءَانَ فَمَنِ اهْتَدَي فَإِنَّمَا يَهْتَدِي
+> لِنَفْسِهِ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَاْ مِنَ الْمُنذِرِينَ
 
 ***92. “And that I should recite the Qur’an (to people), so whoever is
 guided aright, he is guided aright to his own gain, and whoever goes
@@ -918,12 +878,8 @@ Qur’an.
 Surah An-Naml - Verse 93
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ ءَايَاتِهِ فَتَعْرِفُونَهَا وَمَا
-رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ ءَايَاتِهِ فَتَعْرِفُونَهَا وَمَا
+> رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ
 
 ***93. “And say: ‘Praise be to Allah. Soon He will show you His signs
 that you shall recognize them, and your Lord is not heedless of what you
@@ -1014,5 +970,4 @@ Bihar, Vol. 53, P. 39
 Majma‘-ul-Bayan, Jawami‘-ul-Jami‘, following the verse.
 
 [^15]: The Commentary of Kanz-ud-Daqa’iq
-
 

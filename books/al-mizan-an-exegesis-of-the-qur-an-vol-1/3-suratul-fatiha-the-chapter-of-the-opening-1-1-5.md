@@ -1,35 +1,15 @@
 Suratul Fatiha, The Chapter Of The Opening 1:1-5
 ================================================
 
-<blockquote dir="rtl">
-  <p>
-(١) بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> (١) بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-(٢) الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> (٢) الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-(٣) الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> (٣) الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-(٤) مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> (٤) مَالِكِ يَوْمِ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-(٥) إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
-  </p>
-</blockquote>
+> (٥) إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
 
 ***In the name of Allah, the Beneficent, the Merciful (1).***
 
@@ -804,5 +784,4 @@ preposition, al-Mawla (المولى) and al-awla (الأولى) have the sam
 meaning - guardian, master, but the former is used without a preposition
 while the latter is followed by the preposition ”bi” ( بــِ = for, with,
 etc.)
-
 

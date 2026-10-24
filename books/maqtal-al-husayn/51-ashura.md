@@ -250,4 +250,3 @@ of the sixth century A.H. (the twelfth century A.D.).
 [^6]: According to p. 540, Vol. 5, of Shu’ara’ al-Hilla, this poem was
 composed by Shaikh Hadi al-Nahwi who died in 1225 A.H./1810 A.D.
 
-

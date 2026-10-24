@@ -284,4 +284,3 @@ person who does not sleep the whole night thinking about ways of earning
 then that earning is not permissible (haram) for him. Many scholars have
 considered it as repulsive and non-permissible.
 
-

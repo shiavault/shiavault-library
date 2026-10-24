@@ -32,4 +32,3 @@ fanatic level. He used this to his advantage in later years to form a
 network of informants (spies) against Ahlul Bayt (a.s.) and their
 devotees.
 
-

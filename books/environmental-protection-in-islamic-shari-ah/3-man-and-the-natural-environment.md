@@ -126,4 +126,3 @@ social systems, which protect the well being of the environment, as well
 as protecting the divine will of the world of existence under the power
 of Shari‘ah.
 
-

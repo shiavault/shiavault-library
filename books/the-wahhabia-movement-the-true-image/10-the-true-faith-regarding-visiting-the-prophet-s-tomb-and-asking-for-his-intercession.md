@@ -110,4 +110,3 @@ p. 199.
 
 [^15]: Ibn Taimia, Al-Tawasil wa la-Wasila, pp. 105-106.
 
-

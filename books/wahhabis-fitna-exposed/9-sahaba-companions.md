@@ -318,4 +318,3 @@ proof how honest and trustworthy the Wahhabis are. And the omission has
 left a sentence hanging in the air - its subject is omitted while the
 predicate is intact. Wahhabi scholarship indeed!!
 
-

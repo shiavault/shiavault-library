@@ -44,4 +44,3 @@ Alas, how many good actions are ruined by unworthy motives!
 Have faith, bestow charity; and bestow it ‘For Love of Allah’, That is
 the basic teaching of Islam.
 
-

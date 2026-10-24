@@ -11,13 +11,9 @@ to be an important matter and it is not in need of evidence.
 Finality is mentioned in the Holy Quran as well as books of traditions.
 It is mentioned in Quran that:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَكِن رَّسُولَ
-اللَّهِ وَخَاتَمَ النَّبِيِّينَ وَكَانَ اللَّهُ بِكُلِ‏ّ شَىْ‏ءٍ
-عَلِيماً
-  </p>
-</blockquote>
+> مَا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَكِن رَّسُولَ
+> اللَّهِ وَخَاتَمَ النَّبِيِّينَ وَكَانَ اللَّهُ بِكُلِ‏ّ شَىْ‏ءٍ
+> عَلِيماً
 
 ***“Muhammad is not the father of any of your men, but he is the Apostle
 of Allah and the Last of the prophets; and Allah is cognizant of all
@@ -303,12 +299,8 @@ with authority” (Ulil Amr).
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ أَطِيعُواْ اللَّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِى الْأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَأَيُّهَا الَّذِينَ ءَامَنُواْ أَطِيعُواْ اللَّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِى الْأَمْرِ مِنكُمْ
 
 ***“O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you…” (4:59)***
@@ -359,12 +351,8 @@ became needless of a missionary.
 
 Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِى وَ رَضِيتُ‏لَكُمُ الْإِسْلَمَ دِيناً
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِى وَ رَضِيتُ‏لَكُمُ الْإِسْلَمَ دِيناً
 
 ***“This day have those who disbelieve despaired of your religion, so
 fear them not, and fear Me. This day have I perfected for you your
@@ -513,5 +501,4 @@ prophethood has ended with him.
 [^10]: Biharul Anwar, Vol. 2, Pg. 16.
 
 [^11]: Biharul Anwar, Vol. 1, Pg. 184.
-
 

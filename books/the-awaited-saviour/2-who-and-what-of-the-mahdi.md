@@ -98,4 +98,3 @@ Yet this concept, being beyond the imagination and comprehension of a
 number of people, has led them to adopt a negative attitude towards the
 very idea of the Mahdi.
 
-

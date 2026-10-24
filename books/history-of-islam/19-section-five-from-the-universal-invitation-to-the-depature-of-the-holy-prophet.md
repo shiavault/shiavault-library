@@ -237,4 +237,3 @@ resistance and entered into a treaty with the Holy Prophet like the one
 with Khaybar. Since Fadak was captured with no fight, half of its
 revenue went to the Holy Prophet.[^22]
 
-

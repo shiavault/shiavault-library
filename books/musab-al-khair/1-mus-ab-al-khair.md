@@ -756,4 +756,3 @@ lines.
 The Muslims always remember this brave hero, who suffered persecution
 for Islam. Mus'ab al-Khair's name has been in the generations memory!
 
-

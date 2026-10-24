@@ -174,4 +174,3 @@ along with God due to lack of knowledge concerning Gods position, and
 thus satans had led them away from God - seeking course towards the
 negligence of God.
 
-

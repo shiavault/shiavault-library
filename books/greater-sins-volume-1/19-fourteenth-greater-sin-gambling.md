@@ -386,4 +386,3 @@ not refundable and only a few people win money without any effort, is
 
 [^8]: Makasib, quoted from al-Kāfi and Tehzīb
 
-

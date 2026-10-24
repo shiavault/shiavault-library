@@ -1,16 +1,12 @@
 Discourse 12: A Description of The Material World and a Comparison Between its Past and Future
 ==============================================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ فِي خُطْـبَتِهِ: لاَ تَكُونُوا مِمَّنْ
-خَدَعَتْهُ الْعَاجِلَةُ، وَ غَرَّتْهُ الأَُمْنِيَّةُ فَاسْتَهْوَتْهُ
-الْخُدْعَةُ فَرَكَنَ إِلـى دَارِ السُّوءِ سَرِيعَةِ الزَّوَالِ، وَ
-شَيْكَةِ الإِِنْـتِقَالِ. إِنَّهُ لَمْ يَـبْقَ مِنْ دُنْـيَاكُمْ هٌذِه
-فِي جَنْبِ مَا مَضى إِلاَّ كَانَاخَةِ رَاكِبٍ أَوْ صَرِّ حَالِبٍ،
-فَعَلى مَا تَعْرِجُونَ وَ مَاذَا تَنْـتَظِرُونَ؟
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ فِي خُطْـبَتِهِ: لاَ تَكُونُوا مِمَّنْ
+> خَدَعَتْهُ الْعَاجِلَةُ، وَ غَرَّتْهُ الأَُمْنِيَّةُ فَاسْتَهْوَتْهُ
+> الْخُدْعَةُ فَرَكَنَ إِلـى دَارِ السُّوءِ سَرِيعَةِ الزَّوَالِ، وَ
+> شَيْكَةِ الإِِنْـتِقَالِ. إِنَّهُ لَمْ يَـبْقَ مِنْ دُنْـيَاكُمْ هٌذِه
+> فِي جَنْبِ مَا مَضى إِلاَّ كَانَاخَةِ رَاكِبٍ أَوْ صَرِّ حَالِبٍ،
+> فَعَلى مَا تَعْرِجُونَ وَ مَاذَا تَنْـتَظِرُونَ؟
 
 The Messenger of Allah (S) said the following in his speech, “Do not be
 like the one who was fooled by the transient world and was deluded by
@@ -38,11 +34,7 @@ These things have been referred to in the tradition as being **“خدعة”**
 or an imposter and cheater and as “**غرور”** or delusion and trickery -
 just as it is stated:
 
-<blockquote dir="rtl">
-  <p>
-خَدَعَتْهُ الْعَاجِلَةُ وَ غَرَّتْهُ الأُمْنِيَّةُ…
-  </p>
-</blockquote>
+> خَدَعَتْهُ الْعَاجِلَةُ وَ غَرَّتْهُ الأُمْنِيَّةُ…
 
 “The fast ending material world has cheated the person, and the long
 desires which the material world contains have deluded him.”
@@ -130,12 +122,8 @@ that there is nothing of worth present!
 There is a very beautiful phrase given by the Commander of the Faithful,
 ‘Ali b. Abi Talib (as) where he says:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ مِنَ الدُّنْـيَا سَمَاعُهُ أَعْظَمُ مِنْ عِيَانِهِ، وَ
-كُلُّ شَيْءٍ مِنَ الآخِرَةِ عِيَانُهُ أَعْظَمُ مِنْ سَمَاعِهِ.
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ مِنَ الدُّنْـيَا سَمَاعُهُ أَعْظَمُ مِنْ عِيَانِهِ، وَ
+> كُلُّ شَيْءٍ مِنَ الآخِرَةِ عِيَانُهُ أَعْظَمُ مِنْ سَمَاعِهِ.
 
 “Everything that one hears about the transient world is greater (in the
 person's estimation) than what it actually is when he sees it; and
@@ -182,11 +170,7 @@ characteristic of the camel that has led some of the commentators of the
 Noble Qur\`an to state that this may be the reason why Allah (SwT)
 referred to the camel with the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلاَ يَـنْظُرُونَ إِلـى الإِبْلِ كَيْفَ خُلِقَتْ
-  </p>
-</blockquote>
+> أَفَلاَ يَـنْظُرُونَ إِلـى الإِبْلِ كَيْفَ خُلِقَتْ
 
 “What then, do they not look at the camel and how it has been
 created?”[^5]
@@ -315,5 +299,4 @@ of the material world! (Tafsir-e-Namuna, vol. 18, pg. 95)
 [^4]: Nahj al-Balagha, Lecture 114
 
 [^5]: Surat al-Ghashiyah (88), verse 18
-
 

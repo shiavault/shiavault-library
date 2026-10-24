@@ -105,9 +105,7 @@ saying: (O God) Befriend one who befriends \`Ali and bear enmity to one
 who bears enmity to \`Ali. Were you not the first man who swore
 allegiance with me and breached your allegiance? Allah says:
 
-<p dir="rtl">
 فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَى نَفْسِهِ
-</p>
 
 Whoever breaks his faith, he breaks it only to the injury of his own
 soul (48:10)”
@@ -131,5 +129,4 @@ Army of the Camel suffered a disgraceful defeat, this is \`Ali’s
 kindness towards the enemy and his mercy on people in the battlefield.
 Does history remember a ruler to have behaved like this towards the
 rebels?
-
 

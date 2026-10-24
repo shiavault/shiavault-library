@@ -211,4 +211,3 @@ codified in one volume for easy reference by the courts of law, it will
 be a highly commendable step for which the entire Muslim population of
 Tanzania will ever remain grateful to Your Excellency.
 
-

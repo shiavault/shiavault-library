@@ -34,7 +34,6 @@ Only after the circumambulation of the Ka'aba (The Tawaaf) of Hajj or
 Umrah is performed, is the body washed with camphor and Hunoot
 performed. [Sayyid, Hadi Husayn (1988).]
 
-
 **Chapter Seven : How to Administer Tayammum**
 
 Tayammum to a deceased person is performed in the case where no or
@@ -87,5 +86,4 @@ after bathing the deceased.
 
 If the administrator of the bath also has the duty of shrouding the
 deceased, they must wash both their feet up to their knees.
-
 

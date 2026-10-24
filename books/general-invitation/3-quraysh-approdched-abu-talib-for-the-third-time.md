@@ -70,4 +70,3 @@ worship of your gods. This man wants to dominate you. We have heard
 nothing like this in the latest religion. This is only his own false
 invention. (Surah Sa'd, 38:4-7)
 
-

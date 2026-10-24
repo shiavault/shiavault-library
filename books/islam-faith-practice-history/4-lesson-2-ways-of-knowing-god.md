@@ -229,4 +229,3 @@ hearing, smell, taste, and touch.
 Creator, namely (1) the inner way and (2) the outer way. Explain this
 idea using somewhat different terminology from that used in this lesson.
 
-

@@ -8,11 +8,7 @@ about something and understanding it; being clever.[^1]
 instead it is a deep knowledge about it. *Fiqh* has been used in the
 Qurān in this meaning:
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ قُلُوبٌ لاَّ يَفْقَهُونَ بِهَا
-  </p>
-</blockquote>
+> لَهُمْ قُلُوبٌ لاَّ يَفْقَهُونَ بِهَا
 
 ***They have hearts wherewith they understand not***.[^2]
 
@@ -92,5 +88,4 @@ prophet's (s) demise.[^8]9
 
 [^8]: Ayatollah Ja‛far Subhānī, Tārīkh al-Fiqh al-Islamī wa Adwārihi,
 page 6
-
 

@@ -21,10 +21,8 @@ scrutinizing this effort of mine.
 I hope this booklet will help the readers in understanding the
 philosophy of the rule of Islam which forbids music.
 
-
 A.H. Sherriff
 1/5/1983
-
 
 **1) What is Music?**
 
@@ -85,7 +83,6 @@ The answer is that music does have harmful effects on nervous system
 and is the cause of many ailments including ulcer, diabetes and madness.
 It creates imbalance in human faculties, retards spiritual development,
 and lowers the ethical values.
-
 
 For details, read the following chapters.
 
@@ -252,7 +249,6 @@ disabled babies are the effects of music.
 No wonder, Islam, being a religion from Allah, has warmed us against
 this disabling habit.
 
-
 **(5) From Philosophical Point of View**
 
 According to the philosophy of Islam, man has been endowed with two
@@ -316,7 +312,6 @@ cinemas or in one's own home.
 
 Incidentally, the same is the reason behind the law forbidding liquor
 and gambling.
-
 
 **(6) From Ethical Point of View**
 
@@ -481,5 +476,4 @@ Now that we have seen the relation between the dance and music on one
 hand and sexual promiscuity on the other, we can easily understand the
 following tradition of the Holy Prophet of Islam: Music is the magic of
 fornication.
-
 

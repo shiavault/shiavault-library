@@ -139,4 +139,3 @@ reached after fifty years. Over fifty articles were written by the
 Ikhwanul Safa. The articles dealt with such subjects as natural matters,
 divine matters, matters of logic and social matters.
 
-

@@ -391,4 +391,3 @@ messenger who forgets the verses (āyāt), and had not this blind man been
 there to remind him of them, they would have been buried in oblivion — I
 seek Allah’s forgiveness of this hallucination.
 
-

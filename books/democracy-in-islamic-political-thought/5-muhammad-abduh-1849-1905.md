@@ -18,4 +18,3 @@ European nations were not divided by it. 'The reason', he concludes, 'is
 that their objective is the same. What varies is the method they pursue
 toward accomplishing it'.[^16]
 
-

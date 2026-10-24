@@ -70,4 +70,3 @@ the Islamic laws concerning what is lawful and what is unlawful.
 [^2]: Hurr al-Amili, Wasa'il al-Shi'ah, vol.6, chapter on Jihad al-Nafs,
 no. 20440.
 
-

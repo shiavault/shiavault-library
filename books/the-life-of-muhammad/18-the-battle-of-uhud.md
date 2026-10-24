@@ -34,7 +34,7 @@ behind the men  
 ------------------------------------------------------------------------
 
 **[1]** Uhud is a famous mountain in Medina where this battle took place
-on Saturday, 11<sup>th</sup> of Shawwal in the third year of Hijra and
+on Saturday, 11th of Shawwal in the third year of Hijra and
 took the name of this mountain. Refer to as-Seera an-Nabawiyyah by Zayni
 Dahlan, printed in the margins of as-Seera al-Halabiyyah, vol. 2 p. 19.
 

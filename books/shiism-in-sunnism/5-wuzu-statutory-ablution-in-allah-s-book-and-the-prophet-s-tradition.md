@@ -47,12 +47,8 @@ proof of a tradition is lost due to the contradiction to other
 traditions and therefore there remains no proof for rejecting the face
 of Qur’an. The Holy Prophet (a.s) says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-إعْرِضوا حَديثِي على كِتابِ اللهِ فإنْ وافَقَهُ فهُوَ مِنيّ وأنا
-قُلْتُه.
-  </p>
-</blockquote>
+> إعْرِضوا حَديثِي على كِتابِ اللهِ فإنْ وافَقَهُ فهُوَ مِنيّ وأنا
+> قُلْتُه.
 
 “Compare my traditions with the Word of Allah. If it was in accord with
 Qur’an, (you will find out that) it is really my statement.”[^1]
@@ -127,12 +123,8 @@ and Khadijah (a.s).[^10] Ibn Majah in his *Sunan*, Hakim in *Mustadrak*
 and Tabari in his *Tarikh* quote Abbad Ibn Abdullah as saying that he
 heard Ali (a.s) saying:
 
-<blockquote dir="rtl">
-  <p>
-أنا عَبْدُ اللهِ وَأخُو رَسولِهِ وأنا الصّدّيقُ الأكْبَرُ لا يَقولُها
-بَعدي إلاّ كَذّابٌ. صَلَّيْتُ قَبْلَ النّاسِ بِسَبْعِ سِنينَ.
-  </p>
-</blockquote>
+> أنا عَبْدُ اللهِ وَأخُو رَسولِهِ وأنا الصّدّيقُ الأكْبَرُ لا يَقولُها
+> بَعدي إلاّ كَذّابٌ. صَلَّيْتُ قَبْلَ النّاسِ بِسَبْعِ سِنينَ.
 
 I am God’s servant and the brother of His Messenger, and I am the
 greatest truthful. No one would claim this after me except a liar. I
@@ -160,19 +152,15 @@ details.
 
 Almighty God says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ
-فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا
-بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ وَإِنْ كُنْتُمْ
-جُنُبًا فَاطَّهَّرُوا وَإِنْ كُنْتُمْ مَرْضَى أَوْ عَلَى سَفَرٍ أَوْ
-جَاءَ أَحَدٌ مِنْكُمْ مِنْ الْغَائِطِ أَوْ لَامَسْتُمْ النِّسَاءَ
-فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا
-بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِنْهُ مَا يُرِيدُ اللَّهُ لِيَجْعَلَ
-عَلَيْكُمْ مِنْ حَرَجٍ وَلَكِنْ يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ
-نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ
+> فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا
+> بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ وَإِنْ كُنْتُمْ
+> جُنُبًا فَاطَّهَّرُوا وَإِنْ كُنْتُمْ مَرْضَى أَوْ عَلَى سَفَرٍ أَوْ
+> جَاءَ أَحَدٌ مِنْكُمْ مِنْ الْغَائِطِ أَوْ لَامَسْتُمْ النِّسَاءَ
+> فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا
+> بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِنْهُ مَا يُرِيدُ اللَّهُ لِيَجْعَلَ
+> عَلَيْكُمْ مِنْ حَرَجٍ وَلَكِنْ يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ
+> نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ.
 
 ***O you who believe! when you rise up to prayer, wash your faces and
 your hands as far as the elbows, and rub your heads and your feet to the
@@ -221,12 +209,8 @@ fingertips compulsory. A point worthy of mentioning about washing the
 hands is that the elbow should certainly be washed, as stipulated in
 traditions narrated by both the Sunni and the Shi’a:
 
-<blockquote dir="rtl">
-  <p>
-عَن جابرٍ، كانَ النّبيُّ صلّى اللهُ عليهِ وسلَّم إذا تَوَضّأَ أَمَرَّ
-الماءَ عَلى مِرْفَقَيْهِ.
-  </p>
-</blockquote>
+> عَن جابرٍ، كانَ النّبيُّ صلّى اللهُ عليهِ وسلَّم إذا تَوَضّأَ أَمَرَّ
+> الماءَ عَلى مِرْفَقَيْهِ.
 
 Jabir said: The Holy Prophet (a.s) always washed the elbows in ablution.
 
@@ -325,19 +309,15 @@ traditions narrated by Imam Baqir (a.s):
 Zurarah asked the Imam (a.s), “How do we know that rubbing a part of the
 feet is enough?” Imam Baqir (a.s) replied:
 
-<blockquote dir="rtl">
-  <p>
-يا زُرارةُ! قالَهُ رَسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ وسلَّم
-وَنَزَلَ بِه الكِتابُ مِن اللهِ لأنَّ اللهَ عَزَّ وَجَلَّ يَقولُ
-”اغسِلوا وُجوهَكُم“ فَعَلِمْنا أنَّ الوَجْهَ كُلَّهُ يَنبَغي أنْ
-يُغْسَلَ ثمَّ قَالَ ”وأيدِيكم إلى المَرافِقِ“ ثُمَّ فَصَلَ بَينَ
-الكَلامينِ فقَالَ ”وَامْسَحوا بِرؤسِكُم“ فَعَرفْنا حِينَ قالَ
-”بِرُؤسِكُم“ أنَّ المَسْحَ بِبَعض الرأسِ لمَكانِ الباءِ ثُمَّ وَصَل
-الرّجْلَينِ بالرّأسِ كَما وَصَلَ اليَدَين بِالوَجْهِ فقالَ ”وأرجُلكُم
-إلى الكَعْبَين“ فَعَرفْنا حِينَ وَصَلها بِالرّأسِ أنَّ المَسْحَ عَلى
-بَعضِها.
-  </p>
-</blockquote>
+> يا زُرارةُ! قالَهُ رَسولُ اللهِ صلّى اللهُ عليهِ وآلِهِ وسلَّم
+> وَنَزَلَ بِه الكِتابُ مِن اللهِ لأنَّ اللهَ عَزَّ وَجَلَّ يَقولُ
+> ”اغسِلوا وُجوهَكُم“ فَعَلِمْنا أنَّ الوَجْهَ كُلَّهُ يَنبَغي أنْ
+> يُغْسَلَ ثمَّ قَالَ ”وأيدِيكم إلى المَرافِقِ“ ثُمَّ فَصَلَ بَينَ
+> الكَلامينِ فقَالَ ”وَامْسَحوا بِرؤسِكُم“ فَعَرفْنا حِينَ قالَ
+> ”بِرُؤسِكُم“ أنَّ المَسْحَ بِبَعض الرأسِ لمَكانِ الباءِ ثُمَّ وَصَل
+> الرّجْلَينِ بالرّأسِ كَما وَصَلَ اليَدَين بِالوَجْهِ فقالَ ”وأرجُلكُم
+> إلى الكَعْبَين“ فَعَرفْنا حِينَ وَصَلها بِالرّأسِ أنَّ المَسْحَ عَلى
+> بَعضِها.
 
 O Zurarah! This is the word of the Messenger of Allah (a.s) and the same
 is true in what has been revealed of Allah’s Book; since Allah states,
@@ -368,11 +348,7 @@ Some Sunni jurisprudents believe that both rubbing and washing are valid
 and still some others have issued verdicts to perform both of them. The
 honorable verse, about our duty toward the feet in ablution says:
 
-<blockquote dir="rtl">
-  <p>
-وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ.
-  </p>
-</blockquote>
+> وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ.
 
 And rub your heads and your feet to the ankles.
 
@@ -547,14 +523,10 @@ argument to this claim is that so many valid traditions stipulate to the
 obligation of rubbing, not washing the feet. The readers’ attention is
 hereinafter directed to some traditions narrated by the Sunnis:
 
-<blockquote dir="rtl">
-  <p>
-عَن رفاعة بن رافع أنّه كانَ جالِساً عِندَ النّبي صلّى اللهُ عليهِ
-وسلَّم فقالَ: إنَّها لا تَتُمُّ صَلاةٌ لأحَدٍ حَتىّ يَسْبَغ الوُضوءَ
-كَما أمَرَهُ اللهُ تعالى: يَغْسِلُ وَجْهَهُ ويَدَيْهِ إلى المِرفَقَينِ
-ويمْسَحُ بِرأسِهِ ورِجلَيْهِ إلى الكَعبَين.
-  </p>
-</blockquote>
+> عَن رفاعة بن رافع أنّه كانَ جالِساً عِندَ النّبي صلّى اللهُ عليهِ
+> وسلَّم فقالَ: إنَّها لا تَتُمُّ صَلاةٌ لأحَدٍ حَتىّ يَسْبَغ الوُضوءَ
+> كَما أمَرَهُ اللهُ تعالى: يَغْسِلُ وَجْهَهُ ويَدَيْهِ إلى المِرفَقَينِ
+> ويمْسَحُ بِرأسِهِ ورِجلَيْهِ إلى الكَعبَين.
 
 It is narrated from Rifa’ah Ibn Rafi’ that he was by the Prophet (a.s)
 when said: “In fact, no one’s prayer is acceptable until he/she
@@ -565,12 +537,8 @@ head and the feet to the ankles.[^30]
 As is evident, this tradition has clearly stated that the head and the
 feet should be rubbed.
 
-<blockquote dir="rtl">
-  <p>
-رَأيْتُ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم يَتَوَضّأُ وَيَمْسَحُ
-الماءَ عَلى رِجْلَيْهِ.
-  </p>
-</blockquote>
+> رَأيْتُ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم يَتَوَضّأُ وَيَمْسَحُ
+> الماءَ عَلى رِجْلَيْهِ.
 
 Al-Bukhari, Ahmad, Ibn Abi Shaybah, Ibn Abi Umar, Al-Baghawi,
 Al-Tabarani, Al-Bawirdi and others have narrated Abbad Ibn Tamim
@@ -582,21 +550,17 @@ Ibn Zayd Ansari, saying, “The narrators of the tradition are all
 trustworthy.” The stipulation of this tradition to the obligation of
 rubbing the feet is also clear.
 
-<blockquote dir="rtl">
-  <p>
-عَن أبي مطر قالَ: بَيْنَما نحنُ جُلوسٌ مع أميرِ المُؤمنينَ عَلِيٍّ في
-المَسجِدِ عَلى بابِ الرّحمَةِ جاء رجُلٌ فقالَ: أرِني وُضوءَ رَسولِ
-الله صلّى اللهُ عليهِ وسلَّم . وهُوَ عِندَ الزّوالِ، فَدعا قَنبَراً
-فقالَ: ائْتِني بكُوزٍ مِن ماءٍ. فَغَسَلَ كَفَّيْهِ وَوجْهَهُ ثلاثاً
-وَتَمَضْمضَ ثَلاثاً فَأدْخَلَ بَعضَ أصابِعِه في فِيهِ وَاسْتَنشَقَ
-ثلاثاً وَغَسلَ ذِراعَيْهِ ثلاثاً وَمَسحَ رأسَهُ واحِدَةً فقالَ:
-داخِلُهُما مِن الوَجْه وخارِجُهُما مِن الرّأسِ، وَرِجْلَيه إلى
-الكَعبَينِ ثلاثاً وَلِحْيَتُهُ تَهْتلُ عَلى صَدْرِه ثُمّ حَسا حَسوةً
-بَعْدَ الوُضوءِ ثُمّ قالَ: أيْنَ السّائِلُ عَن وُضوءِ رَسولِ اللهِ
-صلّى اللهُ عليهِ وسلَّم ؟ كَذا كانَ وُضوءُ نبيِّ اللهِ صلّى اللهُ
-عليهِ وسلَّم .
-  </p>
-</blockquote>
+> عَن أبي مطر قالَ: بَيْنَما نحنُ جُلوسٌ مع أميرِ المُؤمنينَ عَلِيٍّ في
+> المَسجِدِ عَلى بابِ الرّحمَةِ جاء رجُلٌ فقالَ: أرِني وُضوءَ رَسولِ
+> الله صلّى اللهُ عليهِ وسلَّم . وهُوَ عِندَ الزّوالِ، فَدعا قَنبَراً
+> فقالَ: ائْتِني بكُوزٍ مِن ماءٍ. فَغَسَلَ كَفَّيْهِ وَوجْهَهُ ثلاثاً
+> وَتَمَضْمضَ ثَلاثاً فَأدْخَلَ بَعضَ أصابِعِه في فِيهِ وَاسْتَنشَقَ
+> ثلاثاً وَغَسلَ ذِراعَيْهِ ثلاثاً وَمَسحَ رأسَهُ واحِدَةً فقالَ:
+> داخِلُهُما مِن الوَجْه وخارِجُهُما مِن الرّأسِ، وَرِجْلَيه إلى
+> الكَعبَينِ ثلاثاً وَلِحْيَتُهُ تَهْتلُ عَلى صَدْرِه ثُمّ حَسا حَسوةً
+> بَعْدَ الوُضوءِ ثُمّ قالَ: أيْنَ السّائِلُ عَن وُضوءِ رَسولِ اللهِ
+> صلّى اللهُ عليهِ وسلَّم ؟ كَذا كانَ وُضوءُ نبيِّ اللهِ صلّى اللهُ
+> عليهِ وسلَّم .
 
 It is narrated from Abu Matar that he said: One noon, as I was sitting
 in a mosque near Bab al-Rahmah (A door in Kufah Mosque) with Amir
@@ -617,14 +581,10 @@ ablution? His ablution was like this.”
 In *Tahdhib Al-Tahdhib*, Ibn Hajar has cited Ibn Habban and Abu Matar
 among the trustee.
 
-<blockquote dir="rtl">
-  <p>
-عَن حَمرانَ قالَ: دَعا عُثمانُ بِماءٍ فَتَوضّأَ ثمّ ضَحِكَ فقالَ: ألا
-تَسألوني مِمَّ أضْحَكُ؟ قالوا: يا أميرَ المُؤمِنين، ما أضْحَكَكَ؟
-قالَ: رأيْتُ رَسولَ اللهِ تَوضّأ كَما تَوَضّأتُ فَمَضْمَضَ واسْتَنشَقَ
-وغَسَل وَجْهَه ثلاثاً وَمَسحَ بِرأسِهِ وَظَهْرِ قَدَمَيهِ.
-  </p>
-</blockquote>
+> عَن حَمرانَ قالَ: دَعا عُثمانُ بِماءٍ فَتَوضّأَ ثمّ ضَحِكَ فقالَ: ألا
+> تَسألوني مِمَّ أضْحَكُ؟ قالوا: يا أميرَ المُؤمِنين، ما أضْحَكَكَ؟
+> قالَ: رأيْتُ رَسولَ اللهِ تَوضّأ كَما تَوَضّأتُ فَمَضْمَضَ واسْتَنشَقَ
+> وغَسَل وَجْهَه ثلاثاً وَمَسحَ بِرأسِهِ وَظَهْرِ قَدَمَيهِ.
 
 Hamran says: Uthman asked for water and performed ablution. Then he
 smiled and said, “Will you ask me why I smiled?” He was then asked,
@@ -636,13 +596,9 @@ top of his feet.”[^32]
 The same tradition is narrated in *Kanz Al-Ummal* and Abu Ya’li is
 quoted as saying that this tradition is true.[^33]
 
-<blockquote dir="rtl">
-  <p>
-…فَدَعا بِجَفْنَةٍ فِيها ماءٌ فَتَوضّأَ ومَضْمَضَ وَاسْتَنشقَ وغَسَلَ
-وَجْهَه ثلاثاً وَذِراعَيهِ ثلاثاً ثَلاثاً وَمَسحَ بِرأسِهِ وَظَهْرَ
-قَدَمَيهِ ثُمّ صَلّى…
-  </p>
-</blockquote>
+> …فَدَعا بِجَفْنَةٍ فِيها ماءٌ فَتَوضّأَ ومَضْمَضَ وَاسْتَنشقَ وغَسَلَ
+> وَجْهَه ثلاثاً وَذِراعَيهِ ثلاثاً ثَلاثاً وَمَسحَ بِرأسِهِ وَظَهْرَ
+> قَدَمَيهِ ثُمّ صَلّى…
 
 Abu Malik Ash’ari told his relatives, “Come to me to copy the prayer of
 the Prophet (a.s).” Then he asked for water to perform ablution. He
@@ -650,24 +606,16 @@ sniffed water and washed his face three times and washed his (hands
 from) the elbows three times, and rubbed his head and the top of his
 feet. Then they performed prayers.[^34]
 
-<blockquote dir="rtl">
-  <p>
-…إنّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم تَوَضّأَ وَمَسحَ عَلى
-نَعْلَيهِ وَقَدَمَيه.
-  </p>
-</blockquote>
+> …إنّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم تَوَضّأَ وَمَسحَ عَلى
+> نَعْلَيهِ وَقَدَمَيه.
 
 The Messenger of Allah (a.s) performed ablution and rubbed on his shoes
 and his feet.[^35]
 
-<blockquote dir="rtl">
-  <p>
-أتاني ابْنُ عَبّاسٍ فَسألَني عَن هذا الحَديثِ -تَعني حَديثَها الّذي
-ذَكَرَتْ أنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم تَوَضّأَ وَغَسَلَ
-رِجْلَيه- فَقال ابْنُ عَبّاسٍ: إنّ النّاسَ أبَوا إلاّ الغَسْلَ ولا
-أجِدُ في كِتابِ اللهِ إلاّ المَسْحَ.
-  </p>
-</blockquote>
+> أتاني ابْنُ عَبّاسٍ فَسألَني عَن هذا الحَديثِ -تَعني حَديثَها الّذي
+> ذَكَرَتْ أنَّ رَسولَ اللهِ صلّى اللهُ عليهِ وسلَّم تَوَضّأَ وَغَسَلَ
+> رِجْلَيه- فَقال ابْنُ عَبّاسٍ: إنّ النّاسَ أبَوا إلاّ الغَسْلَ ولا
+> أجِدُ في كِتابِ اللهِ إلاّ المَسْحَ.
 
 It is narrated from Rubayyi’ that she said, “Ibn Abbas came to me and
 asked about the tradition I have narrated—the one stating that the
@@ -680,11 +628,7 @@ According to *Al-Zawa’id*, “The document of this tradition is true.”
 Muhammad Ibn Jarir Tabari, in his *Tafsir* (exegesis of the Holy
 Qur\`an) quotes Ibn Abbas as saying:
 
-<blockquote dir="rtl">
-  <p>
-الوُضُوءُ غَسْلَتانِ وَمَسْحَتانِ.
-  </p>
-</blockquote>
+> الوُضُوءُ غَسْلَتانِ وَمَسْحَتانِ.
 
 Ablution contains two washings (the face and the hands) and two rubbings
 (head and the feet).”[^37]
@@ -705,11 +649,7 @@ Companion of the Prophet, denies a person who obliges washing the feet
 in the ritual ablution and believes that God has only stipulated
 rubbing.
 
-<blockquote dir="rtl">
-  <p>
-عَن أبي جَعفَرٍ قالَ: إمْسَحْ عَلى رأسِكَ.
-  </p>
-</blockquote>
+> عَن أبي جَعفَرٍ قالَ: إمْسَحْ عَلى رأسِكَ.
 
 Abi Ja’far said: “Rub your head.”[^41]
 
@@ -956,5 +896,4 @@ from alteration and mistake. An interrupted tradition is not so.
 
 [^46]: Ibn Rushd, Bidayah Al-Mujtahid, Published in Egypt, Vol. 1, Kitab
 Al-Taharah, Kitab Al-Wuzu’, section 2, Question 10,p. 14.
-
 

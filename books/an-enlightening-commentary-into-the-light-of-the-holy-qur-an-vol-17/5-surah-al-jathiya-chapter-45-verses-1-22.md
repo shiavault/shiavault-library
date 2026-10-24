@@ -10,11 +10,7 @@ Surah al-Jathiya, Chapter 45, Verses 1 - 22
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -40,31 +36,15 @@ al-Jathiya and will turn his fear into serenity*[^1]*.”*
 Surah al-Jathiya - Verses 1-3
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ
-  </p>
-</blockquote>
+> تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي السَّمَاوَاتِ وَالْأرْضِ لَآياتٍ لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي السَّمَاوَاتِ وَالْأرْضِ لَآياتٍ لِلْمُؤْمِنِينَ
 
 ***1. Ha Mim.***  
 ***2. The revelation of the Book is from Allah, the Omnipotent, the
@@ -180,12 +160,8 @@ of perceiving such light.
 Surah al-Jathiya - Verse 4
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِنْ دَابَّةٍ آيَاتٌ لِقَوْمٍ
-يُوقِنُونَ
-  </p>
-</blockquote>
+> وَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِنْ دَابَّةٍ آيَاتٌ لِقَوْمٍ
+> يُوقِنُونَ
 
 ***4. And in your creation, and what He scattered [in the world of
 existence] of moving [living] creatures are signs [of Divine
@@ -257,13 +233,9 @@ hearts with the wine of love for God.
 Surah al-Jathiya - Verse 5
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاخْتِلافِ اللَّيْلِ وَالنَّهَارِ وَمَا أنْزَلَ اللَّهُ مِنَ
-السَّمَاءِ مِنْ رِزْقٍ فَأحْيَا بِهِ الْأرْضَ بَعْدَ مَوْتِهَا
-وَتَصْرِيفِ الرِّيَاحِ آيَاتٌ لِقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَاخْتِلافِ اللَّيْلِ وَالنَّهَارِ وَمَا أنْزَلَ اللَّهُ مِنَ
+> السَّمَاءِ مِنْ رِزْقٍ فَأحْيَا بِهِ الْأرْضَ بَعْدَ مَوْتِهَا
+> وَتَصْرِيفِ الرِّيَاحِ آيَاتٌ لِقَوْمٍ يَعْقِلُونَ
 
 ***5. And in the alternation of night and day and the provision [viz.
 rain] that Allah sends down from the sky and revives therewith the earth
@@ -323,12 +295,8 @@ make ships sail in oceans.[^6]
 Surah al-Jathiya - Verse 6
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ فَبِأيِّ حَدِيثٍ
-بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ فَبِأيِّ حَدِيثٍ
+> بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ
 
 ***5. These are the Ayat (‘Verses; signs; proofs, evidence’) of Allah
 which We recite to you with truth. Then in which speech after Allah and
@@ -353,18 +321,10 @@ word; rather such an individual has lost his pure human nature.
 Surah al-Jathiya - Verses 7-8
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِكُلِّ أفَّاكٍ أثِيمٍ
-  </p>
-</blockquote>
+> وَيْلٌ لِكُلِّ أفَّاكٍ أثِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-يَسْمَعُ آيَاتِ اللَّهِ تُتْلَی عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِراً
-كَأنْ لَمْ يَسْمَعْهَا فَبَشِّرْهُ بِعَذَابٍ ألِيمٍ
-  </p>
-</blockquote>
+> يَسْمَعُ آيَاتِ اللَّهِ تُتْلَی عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِراً
+> كَأنْ لَمْ يَسْمَعْهَا فَبَشِّرْهُ بِعَذَابٍ ألِيمٍ
 
 ***7. Woe to every sinful liar.***  
 ***8. Who hears the Verses of Allah being recited to him, yet persists
@@ -418,12 +378,8 @@ warning of torment.
 Surah al-Jathiya - Verse 9
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئاً اتَّخَذَهَا هُزُواً اُولَئِكَ
-لَهُمْ عَذَابٌ مُهِينٌ
-  </p>
-</blockquote>
+> وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئاً اتَّخَذَهَا هُزُواً اُولَئِكَ
+> لَهُمْ عَذَابٌ مُهِينٌ
 
 ***9. And when he learns something of Our Verses, he makes them a jest.
 For such there will be a humiliating torment.***
@@ -444,13 +400,9 @@ hence the severe and humiliating torment in store for them.
 Surah al-Jathiya - Verse 10
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-مِنْ وَرَائِهِمْ جَهَنَّمُ وَلا يُغْنِي عَنْهُمْ مَا كَسَبُوا شَيْئاً
-وَلا مَا اتَّخَذُوا مِنْ دُونِ اللَّهِ أوْلِيَاءَ وَلَهُمْ عَذَابٌ
-عَظِيمٌ
-  </p>
-</blockquote>
+> مِنْ وَرَائِهِمْ جَهَنَّمُ وَلا يُغْنِي عَنْهُمْ مَا كَسَبُوا شَيْئاً
+> وَلا مَا اتَّخَذُوا مِنْ دُونِ اللَّهِ أوْلِيَاءَ وَلَهُمْ عَذَابٌ
+> عَظِيمٌ
 
 ***10. Before them there is Hell. And that which they have earned will
 be of no profit to them, nor [will be of any profit to them] those whom
@@ -499,12 +451,8 @@ God will lead to severe Divine Retribution.
 Surah al-Jathiya - Verse 11
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا هُدی وَالَّذِينَ كَفَرُوا بِآياتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِنْ
-رِجْزٍ ألِيمٌ
-  </p>
-</blockquote>
+> هَذَا هُدی وَالَّذِينَ كَفَرُوا بِآياتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِنْ
+> رِجْزٍ ألِيمٌ
 
 ***11. This [Qur’an] is guidance and those who disbelieve in the Ayat
 (signs, proofs, Verses) of their Lord, for them there is a painful and
@@ -527,12 +475,8 @@ chastisement.
 Surah al-Jathiya - Verse 12
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِيَ الْفُلْكُ فِيهِ
-بِأمْرِهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِيَ الْفُلْكُ فِيهِ
+> بِأمْرِهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
 
 ***12. It is Allah Who has subjected to you the sea, that ships may sail
 through it by His Command, and that you may seek of His Bounty, and that
@@ -560,12 +504,8 @@ Bounties.
 Surah al-Jathiya - Verse 13
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأرْضِ جَمِيعاً
-مِنْهُ إِنَّ فِي ذَلِكَ لَآياتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَسَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأرْضِ جَمِيعاً
+> مِنْهُ إِنَّ فِي ذَلِكَ لَآياتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***13. And He has subjected to you all that is in the heavens and all
 that is on the earth. It is all a favor and kindness from Him. Indeed
@@ -636,12 +576,8 @@ is interpreted by scholars as li-ya’rifun denoting “getting to know.”
 Surah al-Jathiya - Verse 14
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لا يَرْجُونَ أيَّامَ
-اللَّهِ لِيَجْزِيَ قَوْماً بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> قُلْ لِلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لا يَرْجُونَ أيَّامَ
+> اللَّهِ لِيَجْزِيَ قَوْماً بِمَا كَانُوا يَكْسِبُونَ
 
 ***14. [O Prophet] say to the believers to forgive those [i.e., leave
 them to God] who hope not for the Days of Allah [viz. the Last Day],
@@ -713,12 +649,8 @@ equally indicate good tidings for the latter and warning for the former.
 Surah al-Jathiya - Verse 15
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحاً فَلِنَفْسِهِ وَمَنْ أسَاءَ فَعَلَيْهَا ثُمَّ
-إِلَی رَبِّكُمْ تُرْجَعُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحاً فَلِنَفْسِهِ وَمَنْ أسَاءَ فَعَلَيْهَا ثُمَّ
+> إِلَی رَبِّكُمْ تُرْجَعُونَ
 
 ***15. Whosoever does a good deed, it is for himself, and whosoever does
 evil, it is against [himself]. Then you will be made to return to your
@@ -774,13 +706,9 @@ from sins.
 Surah al-Jathiya - Verse 16
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا بَنِي إِسْرائيلَ الْكِتَابَ وَالْحُكْمَ
-وَالنُّبُوَّةَ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ
-عَلَی الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا بَنِي إِسْرائيلَ الْكِتَابَ وَالْحُكْمَ
+> وَالنُّبُوَّةَ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ
+> عَلَی الْعَالَمِينَ
 
 ***16. And verily We gave the Children of Israel the Scripture, and the
 understanding of the scripture and its laws, and the Prophethood, and
@@ -810,14 +738,10 @@ best Bounties bestowed on them.
 Surah al-Jathiya - Verse 17
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَآتَيْنَاهُمْ بَيِّنَاتٍ مِنَ الْأمْرِ فَمَا اخْتَلَفُوا إِلاّ مِنْ
-بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْياً بَيْنَهُمْ إِنَّ رَبَّكَ
-يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ
-يَخْتَلِفُونَ
-  </p>
-</blockquote>
+> وَآتَيْنَاهُمْ بَيِّنَاتٍ مِنَ الْأمْرِ فَمَا اخْتَلَفُوا إِلاّ مِنْ
+> بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْياً بَيْنَهُمْ إِنَّ رَبَّكَ
+> يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ
+> يَخْتَلِفُونَ
 
 ***17. And We gave them clear proofs in matters [of religion]. And they
 differed not until after the knowledge came to them, [and the difference
@@ -845,12 +769,8 @@ you and them as well as the objections raised by them.
 Surah al-Jathiya - Verse 18
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلْنَاكَ عَلَی شَرِيعَةٍ مِنَ الْأمْرِ فَاتَّبِعْهَا وَلا
-تَتَّبِعْ أهْوَاءَ الَّذِينَ لا يَعْلَمُونَ
-  </p>
-</blockquote>
+> ثُمَّ جَعَلْنَاكَ عَلَی شَرِيعَةٍ مِنَ الْأمْرِ فَاتَّبِعْهَا وَلا
+> تَتَّبِعْ أهْوَاءَ الَّذِينَ لا يَعْلَمُونَ
 
 ***18. Then We have put you on a way of Commandment. So follow you that
 and follow not the desires of the ignorant.***
@@ -904,13 +824,9 @@ Law.
 Surah al-Jathiya - Verse 19
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ لَنْ يُغْنُوا عَنْكَ مِنَ اللَّهِ شَيْئاً وَإِنَّ
-الظَّالِمِينَ بَعْضُهُمْ أوْلِيَاءُ بَعْضٍ وَاللَّهُ وَلِيُّ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> إِنَّهُمْ لَنْ يُغْنُوا عَنْكَ مِنَ اللَّهِ شَيْئاً وَإِنَّ
+> الظَّالِمِينَ بَعْضُهُمْ أوْلِيَاءُ بَعْضٍ وَاللَّهُ وَلِيُّ
+> الْمُتَّقِينَ
 
 ***19. They shall never defend you against God and verily the wrong
 doers are helpers of one another but Allah is the protector of the
@@ -944,11 +860,7 @@ and He is Omnipotent, He protects and helps His friends at all times.
 Surah al-Jathiya - Verse 20
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذَا بَصَائِرُ لِلنَّاسِ وَهُدیً وَرَحْمَةٌ لِقَوْمٍ يُوقِنُونَ
-  </p>
-</blockquote>
+> هَذَا بَصَائِرُ لِلنَّاسِ وَهُدیً وَرَحْمَةٌ لِقَوْمٍ يُوقِنُونَ
 
 ***20. This [Qur’an] is a clear insight and evidence for mankind and
 guidance and mercy for people who have faith with certainty.***
@@ -984,13 +896,9 @@ Verses through certainty and meditation.
 Surah al-Jathiya - Verse 21
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أنْ نَجْعَلَهُمْ
-كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَحْيَاهُمْ
-وَمَمَاتُهُمْ سَاءَ مَا يَحْكُمُونَ
-  </p>
-</blockquote>
+> أمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أنْ نَجْعَلَهُمْ
+> كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَحْيَاهُمْ
+> وَمَمَاتُهُمْ سَاءَ مَا يَحْكُمُونَ
 
 ***21. Do those who commit evil deeds think that We shall hold them
 equal with those who believe and do righteous good deeds and their life
@@ -1056,12 +964,8 @@ is tarnished by the shadows of disbelief.
 Surah al-Jathiya - Verse 22
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأرْضَ بِالْحَقِّ وَلِتُجْزَی كُلُّ
-نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لا يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأرْضَ بِالْحَقِّ وَلِتُجْزَی كُلُّ
+> نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لا يُظْلَمُونَ
 
 ***22. And Allah has created the heavens and the earth with truth, in
 order that each person may be recompensed what he has earned and they
@@ -1146,5 +1050,4 @@ chastised for his evil ones.
 [^23]: 8:52
 
 [^24]: 78:26
-
 

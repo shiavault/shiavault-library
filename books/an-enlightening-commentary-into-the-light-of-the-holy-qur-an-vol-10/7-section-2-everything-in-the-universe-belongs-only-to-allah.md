@@ -4,25 +4,13 @@ Section 2: Everything in the universe belongs only to Allah
 Surah Al-’Anbiya’ – Verses 11 - 13
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ قَصَمْنَا مِن قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنشَأْنَا بَعْدَهَا
-قَوْماً ءَاخَرِينَ
-  </p>
-</blockquote>
+> وَكَمْ قَصَمْنَا مِن قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنشَأْنَا بَعْدَهَا
+> قَوْماً ءَاخَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَحَسُّوا بَأْسَنَآ إِذَا هُم مّـِنْهَا يَرْكُضُونَ
-  </p>
-</blockquote>
+> فَلَمَّآ أَحَسُّوا بَأْسَنَآ إِذَا هُم مّـِنْهَا يَرْكُضُونَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَرْكُضُوا وَارْجِعُوا إِلَي مَآ اُتْرِفْتُمْ فِيهِ
-وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ
-  </p>
-</blockquote>
+> لاَ تَرْكُضُوا وَارْجِعُوا إِلَي مَآ اُتْرِفْتُمْ فِيهِ
+> وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ
 
 ***11. “And how many a town We utterly destroyed (the people of) which
 were iniquitous, and We raised up after them another people.”***  
@@ -75,18 +63,10 @@ derision and blame upon them.
 Surah Al-’Anbiya’ – Verses 14 - 15
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا وَيْلَنَآ إِنَّا كُنَّا ظَالِمِينَ
-  </p>
-</blockquote>
+> قَالُوا يَا وَيْلَنَآ إِنَّا كُنَّا ظَالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّي جَعَلْنَاهُمْ حَصِيداً
-خَامِدِينَ
-  </p>
-</blockquote>
+> فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّي جَعَلْنَاهُمْ حَصِيداً
+> خَامِدِينَ
 
 ***14. “They said: ‘Oh woe to us! Verily we were unjust’.”***  
 ***15. “And this their crying ceased not till We made them as reaped
@@ -116,18 +96,10 @@ The Arabic word /xamid/ means ‘extinguished’.
 Surah Al-’Anbiya’ – Verses 16 - 17
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْنَا السَّمآءَ وَالاَرْضَ وَمَا بَيْنَهُمَا لاَعِبِينَ
-  </p>
-</blockquote>
+> وَمَا خَلَقْنَا السَّمآءَ وَالاَرْضَ وَمَا بَيْنَهُمَا لاَعِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَرَدْنَآ أَن نَتَّخِذَ لَهواً لاَتَّخَذْنَاهُ مِن لَدُنَّآ إِن
-كُنَّا فَاعِلِينَ
-  </p>
-</blockquote>
+> لَوْ أَرَدْنَآ أَن نَتَّخِذَ لَهواً لاَتَّخَذْنَاهُ مِن لَدُنَّآ إِن
+> كُنَّا فَاعِلِينَ
 
 ***16. “And We did not create the heaven and the earth and what is
 between them in play.”***  
@@ -207,12 +179,8 @@ and retribution for human beings.
 Surah Al-’Anbiya’ – Verse 18
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ نَقْذِفُ بِالْحَقّ‌ِ عَلَي الْبَاطِلِ فَيَدْمَغُهُ فإِذَا هُوَ
-زَاهِقٌ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ
-  </p>
-</blockquote>
+> بَلْ نَقْذِفُ بِالْحَقّ‌ِ عَلَي الْبَاطِلِ فَيَدْمَغُهُ فإِذَا هُوَ
+> زَاهِقٌ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ
 
 ***18. “Nay! But We hurl the truth against falsehood so that it breaks
 out its brain, and behold, falsehood vanishes away. And yours will be
@@ -248,24 +216,12 @@ wretched in the view of the wise men and possessors of intellect.
 Surah Al-’Anbiya’ – Verses 19 - 20
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ مَن فِي السَّمَاوَاتِ وَالاَرْضِ وَمَنْ عِندَهُ لاَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَلاَ يَسْتَحْسِرُونَ
-  </p>
-</blockquote>
+> وَلَهُ مَن فِي السَّمَاوَاتِ وَالاَرْضِ وَمَنْ عِندَهُ لاَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَلاَ يَسْتَحْسِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-يُسَبّـِحُونَ اللَّيْلَ وَالنَّهَارَ لاَ يَفْتُرُونَ
-  </p>
-</blockquote>
+> يُسَبّـِحُونَ اللَّيْلَ وَالنَّهَارَ لاَ يَفْتُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذُوا ءَالِهَةً مِنَ الاَرْضِ هُمْ يُنشِرُونَ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذُوا ءَالِهَةً مِنَ الاَرْضِ هُمْ يُنشِرُونَ
 
 ***19. “And to Him belongs whoever is in the heavens and the earth; and
 those who are with Him are not proud to worship Him, nor do they get
@@ -307,12 +263,8 @@ It says:
 Surah Al-’Anbiya’ – Verse 22
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلاَّ اللَّهُ لَفَسَدَتَا فَسُبْحَانَ
-اللَّهِ رَبّ‌ِ الْعَرْشِ عَمَّا يَصِفُونَ
-  </p>
-</blockquote>
+> لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلاَّ اللَّهُ لَفَسَدَتَا فَسُبْحَانَ
+> اللَّهِ رَبّ‌ِ الْعَرْشِ عَمَّا يَصِفُونَ
 
 ***22. “If there were, in the heavens and the earth, (other) gods
 besides Allah, they would both certainly go to ruin. So glorified is
@@ -366,11 +318,7 @@ which means Allah is the Lord of the whole world of existence.
 Surah Al-’Anbiya’ – Verse 23
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْئَلُونَ
-  </p>
-</blockquote>
+> لاَ يُسْئَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْئَلُونَ
 
 ***23. “He (Allah) will not be questioned as to what He does, but they
 will be questioned (for their deeds).”***
@@ -414,13 +362,9 @@ expenditures, choosing the leader, and obedience from dignitaries.
 Surah Al-’Anbiya’ – Verse 24
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذُوا مِن دُونِهِ ءَالِهَةً قُلْ هَاتُوا بُرْهَانَكُمْ هَذَا
-ذِكْرُ مَن مَعِيَ وَذِكْرُ مَن قَبْلِي بَلْ أَكْثَرُهُمْ لاَ
-يَعْلَمُونَ الْحَقَّ فَهُم مُعْرِضُونَ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذُوا مِن دُونِهِ ءَالِهَةً قُلْ هَاتُوا بُرْهَانَكُمْ هَذَا
+> ذِكْرُ مَن مَعِيَ وَذِكْرُ مَن قَبْلِي بَلْ أَكْثَرُهُمْ لاَ
+> يَعْلَمُونَ الْحَقَّ فَهُم مُعْرِضُونَ
 
 ***24. “Or have they taken other gods besides Him? Say: ‘Bring your
 proof! This (Qur’an) is the remembrance of those who are with me, and
@@ -485,12 +429,8 @@ before and whatever exists now and whatever will be in future.[^5]
 Surah Al-’Anbiya’ – Verse 25
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلاَّ نُوحِي إِلَيْهِ
-أنَّهُ لآ إِلَهَ إِلآَّ أَنَاْ فَاعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلاَّ نُوحِي إِلَيْهِ
+> أنَّهُ لآ إِلَهَ إِلآَّ أَنَاْ فَاعْبُدُونِ
 
 ***25. “And We sent no Messenger before you but We revealed unto him
 that ‘Verily there is no god but I; so worship Me (alone)’.”***
@@ -521,18 +461,10 @@ of attributions are some slanders.
 Surah Al-’Anbiya’ – Verses 26 - 27
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا اتَّخَذَ الرَّحْمنُ وَلَداً سُبْحَانَهُ بَلْ عِبَادٌ
-مُّكْرَمُونَ
-  </p>
-</blockquote>
+> وَقَالُوا اتَّخَذَ الرَّحْمنُ وَلَداً سُبْحَانَهُ بَلْ عِبَادٌ
+> مُّكْرَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِاَمْرِهِ يَعْمَلُونَ
-  </p>
-</blockquote>
+> لاَ يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِاَمْرِهِ يَعْمَلُونَ
 
 ***26. “And they say: ‘The Beneficent (Allah) has taken to Him a son.’
 Glory be to Him! Nay, but (angels) are (His) honoured servants.”***  
@@ -615,12 +547,8 @@ same way.
 Surah Al-’Anbiya’ – Verse 28
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يَشْفَعُونَ
-إِلاَّ لِمَنِ ارْتَضَي وَهُم مِنْ خَشْيَتِهِ مُشْفِقُونَ
-  </p>
-</blockquote>
+> يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يَشْفَعُونَ
+> إِلاَّ لِمَنِ ارْتَضَي وَهُم مِنْ خَشْيَتِهِ مُشْفِقُونَ
 
 ***28. “He knows what is before them and what is behind them, and they
 (angels) do not intercede except for him with whom He is well-pleased
@@ -679,12 +607,8 @@ shortcoming in worship before Him and of leaving the better.
 Surah Al-’Anbiya’ – Verse 29
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَقُلْ مِنْهُمْ إِنّـِي إِلَهٌ مِن دُونِهِ فَذَلِكَ نَجْزِيهِ
-جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَمَن يَقُلْ مِنْهُمْ إِنّـِي إِلَهٌ مِن دُونِهِ فَذَلِكَ نَجْزِيهِ
+> جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ
 
 ***29. “And whoever of them (the angels) says: ‘Verily I am a god
 besides Him, such a one We recompense with Hell, even so do We
@@ -722,5 +646,4 @@ to oneself and to the society and it is involved in the general law.
 [^6]: Surah Al-’Ahzab, No. 33, verse 40
 
 [^7]: The Commentary of Furqan
-
 

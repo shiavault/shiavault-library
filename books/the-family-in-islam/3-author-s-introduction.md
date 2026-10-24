@@ -72,9 +72,7 @@ is hoped that the greatness of Muslims will be returned to them along
 with their independence and autonomy. Allah alone grants success and is
 the sole refuge.
 
-
 The Holy City of Qum,
 Muhammad Shirazi
 8th Jamadi-II, 1415 Hijra.
-
 

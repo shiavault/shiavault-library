@@ -39,4 +39,3 @@ annihilation of the self with its desires in divinity. This divine
 encounter is approached through the attainment of virtue and the
 conquest of the illicit desires of the self.
 
-

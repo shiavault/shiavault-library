@@ -27,4 +27,3 @@ reality of the gifts which come from his opinion of his Lord has
 intensified the proof against himself, and is among those who are
 deceived by the shackles of his passion.
 
-

@@ -108,11 +108,7 @@ granted to me, plentiful and diverse.'
 Bounties and thanksgiving to Him, until I came across this statement in
 al-Sahifah al-Sajjadiyya:"
 
-<blockquote dir="rtl">
-  <p>
-شكري أياك من انعاماتك
-  </p>
-</blockquote>
+> شكري أياك من انعاماتك
 
 *"Shukri iyyaka min in 'amatika* (I am thankful to You for all Your
 Bounties)[^5]
@@ -169,5 +165,4 @@ p. 121, translated by William Chittick, Muhammadi Trust, London, 1988.
 
 [^9]: It can be even said that this true dream somehow implicitly
 confirms other issues quoted from the reverend Shaykh in this book.
-
 

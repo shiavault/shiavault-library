@@ -8,22 +8,14 @@ beings. Our objective should be to acquire those lessons of guidance
 through these stories. This objective can be justified with the fact
 that the Holy Quran itself says that it is a book of guidance:
 
-<blockquote dir="rtl">
-  <p>
-هُدًى لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> هُدًى لِلْمُتَّقِينَ
 
 ***"and*** ***it*** ***is a guide for those who guard against evil"
 (Surah al-Baqarah, 2:2)***
 
 And at other place it says,
 
-<blockquote dir="rtl">
-  <p>
-شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ
-  </p>
-</blockquote>
+> شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ
 
 ***"The month of Ramazan is that in which the Quran was revealed, a
 guidance to men and clear proofs of the guidance"(Surah al-Baqarah,
@@ -107,5 +99,4 @@ something from the Quran during his life, for sure he will not gain
 anything from this book after his death also. We have selected few
 chapters like Yaseen and Rahman which have more rewards; we read it
 regularly just to earn those rewards.
-
 

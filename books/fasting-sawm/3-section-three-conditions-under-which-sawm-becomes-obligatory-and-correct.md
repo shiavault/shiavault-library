@@ -114,4 +114,3 @@ regarding salat, sawm and other obligations and it is not permissible
 for him to listen to songs or trifling, enrapturing music which is
 suitable for the dissolute and corrupt gatherings.
 
-

@@ -389,4 +389,3 @@ messages he cannot read."[^6]
 [^6]: Dau Hazar Danishmand dar Justuju-yi Khuda-yi Buzurg, pp. 61 and
 99.
 
-

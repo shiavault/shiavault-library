@@ -297,4 +297,3 @@ questions arising there from and submit clarifications required.
 
 Dated, Mombasa, 22nd August, 1967
 
-

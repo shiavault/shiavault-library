@@ -22,4 +22,3 @@ Because she [Fatima az-Zahra (sa)] is satisfied with Allah's rewards,
 and grants to her, and is satisfied with Allah's will in this world, He
 has become well pleased with her.
 
-

@@ -138,4 +138,3 @@ society forever. This act should be performed based on natural laws.
 
 Albeit, we will talk about this issue, later.
 
-

@@ -117,7 +117,6 @@ emphasize this point, because the Tawrat contains many legal and
 judicial provisions and apparently the Injil confirms and certifies the
 religious laws of Tawrat.
 
-
 **CONCLUSION**
 
 From the aforementioned statement, it becomes evident that religion as
@@ -127,7 +126,6 @@ religion is descended by the Almighty Allah, whereas social laws spring
 from people's minds. In other words, religion unites man's social life
 with his worship and obedience of the Almighty Allah, while no attempt
 at such unity is made by social laws.
-
 
 **The Advantages Of Religion**
 
@@ -187,7 +185,6 @@ As a result, whoever believes in all the prophets and performs good
 deeds will avail of his faith.
 
 \* Sabians are those who converted from Magian to Jewish religion.
-
 
 **HUMAN CIVILIZATION**
 
@@ -293,7 +290,6 @@ sector to disrupt the working order of the society and to paralyse it.
 The best evidence for this subject is that every day we observe
 thousands of these types of oppositions and violations against laws in
 various human societies.
-
 
 **THE ORIGINAL SOURCE OF THE WEAKNESS OF LAWS**
 
@@ -425,5 +421,4 @@ Thus, from the aforementioned statements, it becomes evident that
 religion is the best and most exalted way that can organize human
 society and persuade people to observe social laws more than any other
 method.
-
 

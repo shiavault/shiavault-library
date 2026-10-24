@@ -66,4 +66,3 @@ the attires of merit and honour.
 
 > 15ـ لايَتَكَبَّرُ إلاّ وَضيعٌ خامِلٌ.
 
-

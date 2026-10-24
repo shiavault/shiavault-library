@@ -234,13 +234,9 @@ and you preferred my love and happiness. And my intercession will be
 there for you, Insha Allah.” At that juncture, the following verse was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ
-أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا خَالِصَةً لَكَ مِنْ دُونِ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ
+> أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا خَالِصَةً لَكَ مِنْ دُونِ
+> الْمُؤْمِنِينَ
 
 ***“And a believing woman if she gave herself to the Prophet, if the
 Prophet desired to marry her- specially for you, not for the (rest of)
@@ -357,15 +353,11 @@ they said, “These are not your words, the Holy Prophet (S) has taught
 you.” At that juncture, the following verses were revealed in their
 condemnation:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسٰى
-أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسٰى أَنْ
-يَكُنَّ خَيْرًا مِنْهُنَّ ۖ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا
-تَنَابَزُوا بِالْأَلْقَابِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ
-الْإِيمَانِ ۚ وَمَنْ لَمْ يَتُبْ فَأُولٰئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسٰى
+> أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسٰى أَنْ
+> يَكُنَّ خَيْرًا مِنْهُنَّ ۖ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا
+> تَنَابَزُوا بِالْأَلْقَابِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ
+> الْإِيمَانِ ۚ وَمَنْ لَمْ يَتُبْ فَأُولٰئِكَ هُمُ الظَّالِمُونَ
 
 ***“O you who believe! let not (one) people laugh at (another) people
 perchance they may be better than they, nor let women (laugh) at (other)
@@ -390,19 +382,15 @@ Kulaini has narrated through correct chains of narrators from Imam
 Ja’far Sadiq (a.s.) that people asked him about the exegesis of the
 following verses:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ أَزْوَاجَكَ اللَّاتِي
-آتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّا أَفَاءَ اللَّهُ
-عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّاتِكَ وَبَنَاتِ خَالِكَ
-وَبَنَاتِ خَالَاتِكَ اللَّاتِي هَاجَرْنَ مَعَكَ وَامْرَأَةً مُؤْمِنَةً
-إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ أَرَادَ النَّبِيُّ أَنْ
-يَسْتَنْكِحَهَا خَالِصَةً لَكَ مِنْ دُونِ الْمُؤْمِنِينَ ۗ قَدْ
-عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِي أَزْوَاجِهِمْ وَمَا مَلَكَتْ
-أَيْمَانُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ اللَّهُ
-غَفُورًا رَحِيمًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ أَزْوَاجَكَ اللَّاتِي
+> آتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّا أَفَاءَ اللَّهُ
+> عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّاتِكَ وَبَنَاتِ خَالِكَ
+> وَبَنَاتِ خَالَاتِكَ اللَّاتِي هَاجَرْنَ مَعَكَ وَامْرَأَةً مُؤْمِنَةً
+> إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ أَرَادَ النَّبِيُّ أَنْ
+> يَسْتَنْكِحَهَا خَالِصَةً لَكَ مِنْ دُونِ الْمُؤْمِنِينَ ۗ قَدْ
+> عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِي أَزْوَاجِهِمْ وَمَا مَلَكَتْ
+> أَيْمَانُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ اللَّهُ
+> غَفُورًا رَحِيمًا
 
 ***“O Prophet! surely We have made lawful to you your wives whom you
 have given their dowries, and those whom your right hand possesses out
@@ -421,13 +409,9 @@ for the Holy Prophet (S).” Imam Ja’far Sadiq (a.s.) replied: “As many as
 he liked.” The narrators asked him what is the meaning of the following
 statement of Allah:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَحِلُّ لَكَ النِّسَاءُ مِنْ بَعْدُ وَلَا أَنْ تَبَدَّلَ بِهِنَّ
-مِنْ أَزْوَاجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ
-يَمِينُكَ
-  </p>
-</blockquote>
+> لَا يَحِلُّ لَكَ النِّسَاءُ مِنْ بَعْدُ وَلَا أَنْ تَبَدَّلَ بِهِنَّ
+> مِنْ أَزْوَاجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ
+> يَمِينُكَ
 
 ***“It is not allowed to you to take women afterwards, nor that you
 should change them for other wives, though their beauty be pleasing to
@@ -444,11 +428,7 @@ Holy Prophet (S) and no one is allowed to do Nikah without paying the
 dower (*maher*) as the Almighty Allah has said in the Holy Qur’an.” The
 narrator then asked: “What is the meaning of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَتُؤْوِي إِلَيْكَ مَن تَشَاء
-  </p>
-</blockquote>
+> وَتُؤْوِي إِلَيْكَ مَن تَشَاء
 
 ***“…and you may take to you whom you please…”***[^7]
 
@@ -485,15 +465,11 @@ started to reside in the chamber of Ibrahim’s mother, which was near to
 the mosque. So much so that those women had their menses. The Almighty
 Allah revealed the following verse of choice at that juncture:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ إِنْ كُنْتُنَّ تُرِدْنَ
-الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ
-وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا. وَإِنْ كُنْتُنَّ تُرِدْنَ اللَّهَ
-وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ
-لِلْمُحْسِنَاتِ مِنْكُنَّ أَجْرًا عَظِيمًا.
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ إِنْ كُنْتُنَّ تُرِدْنَ
+> الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ
+> وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا. وَإِنْ كُنْتُنَّ تُرِدْنَ اللَّهَ
+> وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ
+> لِلْمُحْسِنَاتِ مِنْكُنَّ أَجْرًا عَظِيمًا.
 
 ***“O Prophet! say to your wives: If you desire this world’s life and
 its adornment, then come, I will give you a provision and allow you to
@@ -506,26 +482,18 @@ first of all and she said: “I chose the Prophet over the world.” After
 that all the women embraced the Prophet and repeated the same sentence.
 At that moment the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ 
-  </p>
-</blockquote>
+> تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ
 
 ***“You may put off whom you please of them, and you may take to you
 whom you please…”***[^10]
 
 Then the Almighty Allah addresses the wives of the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-يَا نِسَاءَ النَّبِيِّ مَنْ يَأْتِ مِنْكُنَّ بِفَاحِشَةٍ مُبَيِّنَةٍ
-يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ
-يَسِيرًا. وَمَنْ يَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ
-صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا
-كَرِيمًا.
-  </p>
-</blockquote>
+> يَا نِسَاءَ النَّبِيِّ مَنْ يَأْتِ مِنْكُنَّ بِفَاحِشَةٍ مُبَيِّنَةٍ
+> يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ
+> يَسِيرًا. وَمَنْ يَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ
+> صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا
+> كَرِيمًا.
 
 ***“O wives of the prophet! Whoever of you commits an open indecency
 (like going out to Basra*** ***to confront Ali), the punishment shall be
@@ -578,12 +546,8 @@ consider the Almighty Allah as pure and free from the saying of infidels
 who say that angels are the daughters of God, as the Almighty Allah has
 Himself said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَأَصْفَاكُمْ رَبُّكُمْ بِالْبَنِينَ وَاتَّخَذَ مِنَ الْمَلَائِكَةِ
-إِنَاثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا
-  </p>
-</blockquote>
+> أَفَأَصْفَاكُمْ رَبُّكُمْ بِالْبَنِينَ وَاتَّخَذَ مِنَ الْمَلَائِكَةِ
+> إِنَاثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا
 
 ***“What! has then your Lord preferred to give you sons, and (for
 Himself) taken daughters from among the angels? Most surely you utter a
@@ -616,13 +580,9 @@ Almighty Allah married her to the Prophet and revealed those verses,
 because He knew that the hypocrites will make allegations against the
 Messenger of Allah (S), so He revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ عَلَى النَّبِيِّ مِنْ حَرَجٍ فِيمَا فَرَضَ اللَّهُ لَهُ ۖ
-سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۚ وَكَانَ أَمْرُ
-اللَّهِ قَدَرًا مَقْدُورًا
-  </p>
-</blockquote>
+> مَا كَانَ عَلَى النَّبِيِّ مِنْ حَرَجٍ فِيمَا فَرَضَ اللَّهُ لَهُ ۖ
+> سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۚ وَكَانَ أَمْرُ
+> اللَّهِ قَدَرًا مَقْدُورًا
 
 ***“There is no harm in the Prophet doing that which Allah has ordained
 for him; such has been the course of Allah with respect to those who
@@ -634,11 +594,7 @@ guardian for the marriage of anyone of His creatures except for Hawwa
 and Adam and for Zainab and the Messenger of Allah (S) because He has
 said:
 
-<blockquote dir="rtl">
-  <p>
-زَوَّجْنَاكَهَا
-  </p>
-</blockquote>
+> زَوَّجْنَاكَهَا
 
 ***“We gave her to you as a wife…”***
 
@@ -649,11 +605,7 @@ her hand for Zaid, but she furiously declined to become Zaid’s wife. And
 Zainab’s brother, Abdullah bin Jahash also said the same thing, upon
 which the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ
 
 ***“And it behoves not a believing man and a believing woman…”***[^15]
 
@@ -669,20 +621,16 @@ wanted to remain with the Prophet and converse with him, whereas the
 Holy Prophet (S) wanted privacy with Zainab. At that moment the
 following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ
-إِلَّا أَنْ يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ
-وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا
-وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي
-النَّبِيَّ فَيَسْتَحْيِي مِنْكُمْ ۖ وَاللَّهُ لَا يَسْتَحْيِي مِنَ
-الْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِنْ
-وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ
-وَمَا كَانَ لَكُمْ أَنْ تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَنْ تَنْكِحُوا
-أَزْوَاجَهُ مِنْ بَعْدِهِ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِنْدَ
-اللَّهِ عَظِيمًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ
+> إِلَّا أَنْ يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ
+> وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا
+> وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي
+> النَّبِيَّ فَيَسْتَحْيِي مِنْكُمْ ۖ وَاللَّهُ لَا يَسْتَحْيِي مِنَ
+> الْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِنْ
+> وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ
+> وَمَا كَانَ لَكُمْ أَنْ تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَنْ تَنْكِحُوا
+> أَزْوَاجَهُ مِنْ بَعْدِهِ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِنْدَ
+> اللَّهِ عَظِيمًا
 
 ***“O you who believe! do not enter the houses of the Prophet unless
 permission is given to you for a meal, not waiting for its cooking being
@@ -916,14 +864,10 @@ Account of Ayesha and Hafasa
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ
-تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ. قَدْ
-فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ ۚ وَاللَّهُ
-مَوْلَاكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ
+> تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ. قَدْ
+> فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ ۚ وَاللَّهُ
+> مَوْلَاكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ.
 
 ***“O Prophet! Why do you forbid (yourself) that which Allah has made
 lawful for you; you seek to please your wives; and Allah is Forgiving,
@@ -1005,14 +949,10 @@ has made Mariya unlawful for himself. But she immediately informed
 Ayesha and told her not to mention it to anyone. At that juncture, the
 Almighty Allah revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا فَلَمَّا
-نَبَّأَتْ بِهِ وَأَظْهَرَهُ اللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُ
-وَأَعْرَضَ عَنْ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِ قَالَتْ مَنْ
-أَنْبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِيَ الْعَلِيمُ الْخَبِيرُ
-  </p>
-</blockquote>
+> وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا فَلَمَّا
+> نَبَّأَتْ بِهِ وَأَظْهَرَهُ اللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُ
+> وَأَعْرَضَ عَنْ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِ قَالَتْ مَنْ
+> أَنْبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِيَ الْعَلِيمُ الْخَبِيرُ
 
 ***“And when the prophet secretly communicated a piece of information to
 one of his wives- but when she informed (others) of it, and Allah made
@@ -1055,16 +995,12 @@ And those who had planned to eliminate the Prophet and the Almighty
 Allah had informed the Prophet about this plot of theirs; so the
 Almighty Allah in order to punish Ayesha and Hafasa said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِنْ
-تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ
-وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ.
-عَسٰى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا
-مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ
-سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا.
-  </p>
-</blockquote>
+> إِنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِنْ
+> تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ
+> وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ.
+> عَسٰى رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا
+> مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ
+> سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا.
 
 ***“If you both turn to Allah, then indeed your hearts are already
 inclined (to this); and if you back up each other against him, then
@@ -1080,14 +1016,10 @@ infidels and hypocrites? The Almighty Allah has mentioned an example for
 them in which their disbelief was revealed for every sane person. As
 mentioned after these verses that:
 
-<blockquote dir="rtl">
-  <p>
-ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ
-لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ
-فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا
-وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ
-  </p>
-</blockquote>
+> ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ
+> لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ
+> فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا
+> وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ
 
 ***“Allah sets forth an example to those who disbelieve the wife of Nuh
 and the wife of Lut: they were both under two of Our righteous servants,
@@ -1318,5 +1250,4 @@ knowledge of those things to the Imams.
 
 [^22]: The author says: Many examples of Ayesha’s cruelty and deviation
 will be mentioned in the account of the Battle of Jamal, if Allah wills.
-
 

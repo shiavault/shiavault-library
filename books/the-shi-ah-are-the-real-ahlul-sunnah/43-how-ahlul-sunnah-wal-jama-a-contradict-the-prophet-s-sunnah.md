@@ -791,4 +791,3 @@ follow him, they clearly are not worthy of him.
 [^8]: The author is from Tunisia where a good number of Jews have been
 living for centuries. \_\_ Tr.
 
-

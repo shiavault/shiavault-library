@@ -95,11 +95,7 @@ reached the extent that prayer in the Qur’an has been introduced as
 invocation of Allah, with regard to the fact that in Islam prayer has a
 high status and has been known as a pillar of religion:
 
-<blockquote dir="rtl">
-  <p>
-... وَأَقِم الصَّلوةَ لِذِکْرِي
-  </p>
-</blockquote>
+> ... وَأَقِم الصَّلوةَ لِذِکْرِي
 
 ***“…and keep up prayer for My remembrance.”***[^6]
 
@@ -130,11 +126,7 @@ One of the issues mentioned in the Qur’an and the *hadith*s is the
 quality and quantity of Allah. Some verses in the Qur’an lay emphasis on
 the quantity and abundance of invocation of Allah; like the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اذْکُرُوا اللهَ ذِکْرًا کَثِيرًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اذْکُرُوا اللهَ ذِکْرًا کَثِيرًا
 
 ***“O you who believe! Remember Allah, remembering frequently…”***[^7]
 
@@ -157,12 +149,8 @@ a section of the verses of the Qur’an and *hadith*s which lay stress on
 the quality of invocation of the divine name of Allah, amongst them the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَضَيْتُمْ مَنَاسِکَکُمْ فَأَذْکُرُوا اللهَ کَذِکْرِکُمْ
-آبَاءَکُمْ أَوْ أَشَدَّ ذِکْرًا...
-  </p>
-</blockquote>
+> فَإِذَا قَضَيْتُمْ مَنَاسِکَکُمْ فَأَذْکُرُوا اللهَ کَذِکْرِکُمْ
+> آبَاءَکُمْ أَوْ أَشَدَّ ذِکْرًا...
 
 ***“So when you have performed your devotions, then laud Allah as you
 lauded your fathers, rather a greater lauding…”***[^8]
@@ -364,12 +352,8 @@ with attention to the meaning and purport of the invocation and keeping
 in mind the divine presence of Allah. This is that same invocation in
 praise of which Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُکِرَ اللهُ وَجِلَتْ
-قُلُوبُهُمْ...
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُکِرَ اللهُ وَجِلَتْ
+> قُلُوبُهُمْ...
 
 ***“Those only are believers whose hearts become full of fear when Allah
 is mentioned…”***[^10]
@@ -411,5 +395,4 @@ tree trembles on a stormy day.”[^11]
 
 [^11]: Nahj al-Balaghah, p. 286, sermon [khutbah] 96, trans. Fayd
 al-Islam.
-
 

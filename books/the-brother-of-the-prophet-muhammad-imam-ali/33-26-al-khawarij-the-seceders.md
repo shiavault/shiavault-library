@@ -459,4 +459,3 @@ p. 88.
 
 [^19]: Muslim his Sahih Book of Al-Zakat.
 
-

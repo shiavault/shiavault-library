@@ -487,4 +487,3 @@ not have any natural (*qahri*) guardianship (*wila’*) over it.
 Qara’i, the Center for Translation of the Holy Qur’an, Qum, 2003 (= Q.),
 2: 233; 31:14; 46: 15; 65: 6.
 
-

@@ -79,4 +79,3 @@ Mishkāt-ul-masābīh, b. of adab (good manners) ch.16 (3:75-6\#5012).
 Mishkāt-ul-masābīh, b. of ādāb (good manners) ch.16 (3:77\#5024);
 ‘Alā’-ud-Dīn ‘Alī, Kanz-ul-‘ummāl (9:4\#24646).
 
-

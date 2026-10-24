@@ -194,4 +194,3 @@ have remained behind!’ [^19]
 
 [^19]: Safeenat al-Bihar, vol. 2, p. 50.
 
-

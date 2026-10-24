@@ -628,4 +628,3 @@ al-Uqba, p. 94, ar-Riyadh an-Nadhira, vol. 2 p. 219.
 
 [^39]: Bihar al-Anwar, vol. 22 p. 537, Usool al-Kafi, vol. 1 p. 445.
 
-

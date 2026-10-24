@@ -648,4 +648,3 @@ the Biblical texts relating to Abraham (as) prove to be vitally
 enlightening as a confirmation of the abiding value of Islamic values on
 the role and influence of the family in society.
 
-

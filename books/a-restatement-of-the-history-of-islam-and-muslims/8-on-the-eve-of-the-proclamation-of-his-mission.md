@@ -64,4 +64,3 @@ faces and he had obviated bloodshed. The incident also proved that in
 moments of crisis, the Arabs deferred to his opinion. He was a
 charismatic leader of men.
 
-

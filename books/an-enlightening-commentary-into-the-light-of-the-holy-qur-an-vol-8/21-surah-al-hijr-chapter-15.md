@@ -7,11 +7,7 @@ Surah Al-Hijr, Chapter 15
 
 **99 verses in 6 sections**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
@@ -50,5 +46,4 @@ people of Lūt, the people of Salih, and the people of Shu‘ayb.
 In the meantime, there are also some verses which are concerned with the
 issues of Resurrection and the retribution of evildoers, each of which
 will be explained.
-
 

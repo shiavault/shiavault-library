@@ -187,4 +187,3 @@ Tat'hear al-Itiqad.
 
 [^10]: Saheeh al-Bukhari, Kitab Istitabat al-Murtadean, part 5.
 
-

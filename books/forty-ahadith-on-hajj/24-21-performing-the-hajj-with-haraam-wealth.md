@@ -4,12 +4,8 @@
    
   
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَبُو جَعْفَرٍ (ع): لاَ يَقْبَلُ اللٌّهُ عَزَّ وَ جَلَّ حَجًّا
-وَّ لاَ عُمْرَةً مِنْ مَّالٍ حَرَامٍ.
-  </p>
-</blockquote>
+> قَالَ أَبُو جَعْفَرٍ (ع): لاَ يَقْبَلُ اللٌّهُ عَزَّ وَ جَلَّ حَجًّا
+> وَّ لاَ عُمْرَةً مِنْ مَّالٍ حَرَامٍ.
 
 ** **  
  Abu Ja’far [Imam Muhammad Ibn ‘Ali al-Baqir] (peace be upon him) has
@@ -18,5 +14,4 @@ a person who performs them using haraam wealth.”
     
  Biharul Anwar, Volume 96, Page 120  
   
-
 

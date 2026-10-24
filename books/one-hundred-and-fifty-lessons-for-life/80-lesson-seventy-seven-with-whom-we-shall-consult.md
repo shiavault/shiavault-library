@@ -3,13 +3,9 @@ Lesson Seventy Seven: With Whom We Shall Consult?
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لاتُدْخِلَنَّ فِى مَشْوَرَتِكَ بَخِيلاً يَعْدِلُ عَنِ الْفَضْلِ وَ
-يَعِدُكَ الْفَقْرَ وَ لاجَبَاناً يُضْعِفُكَ عن الأُمُورِ وَ لا
-حَرِيصاً يُزَّيِّنُ لَكَ الشّرَة بِالْجَوْرِ
-  </p>
-</blockquote>
+> لاتُدْخِلَنَّ فِى مَشْوَرَتِكَ بَخِيلاً يَعْدِلُ عَنِ الْفَضْلِ وَ
+> يَعِدُكَ الْفَقْرَ وَ لاجَبَاناً يُضْعِفُكَ عن الأُمُورِ وَ لا
+> حَرِيصاً يُزَّيِّنُ لَكَ الشّرَة بِالْجَوْرِ
 
 Translation
 -----------
@@ -33,5 +29,4 @@ his resolve, and the third encourages man to violate rights of others
 out of greed.
 
 [^1]: Nahjul Balaghah, letter 53
-
 

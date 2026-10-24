@@ -41,4 +41,3 @@ mentioned Muhammad ibn Jubair Ibn Mut’am as the third person. However,
 there are some traditions in Bihar-ul-Anwar mentioning names of four to
 five persons. Imam Sajjad (as) started his task in such a bare desert.
 
-

@@ -3,11 +3,7 @@ Lesson Sixty One: Help Your Brothers
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ فِى حاجَةِ أَخِيْهِ الْمُسْلِم كَانَ اللّهُ فى حاجَتِهِ
-  </p>
-</blockquote>
+> مَنْ كَانَ فِى حاجَةِ أَخِيْهِ الْمُسْلِم كَانَ اللّهُ فى حاجَتِهِ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ this is a divine bounty.
 [^1]: Bihar al-Anwar, volume 74, page 286, Wasa'il Al-Shia, vol 16, page
 359. Mustadrak AlWasa'il, vol 12, page 414. Al-Amali, page 97. Awali
 Al-Laali, vol 1, page 375.
-
 

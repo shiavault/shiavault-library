@@ -69,4 +69,3 @@ opposite meaning, the possibility goes away.
 
 [^3]: Wasailush Shia, Vol. 10, Pg. 464, Chapter 103, Tr. No. 1
 
-

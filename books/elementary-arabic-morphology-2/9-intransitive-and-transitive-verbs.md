@@ -79,4 +79,3 @@ a *fathah*. For example: **یَعلَمُ** (he knows) becomes **یُعلَمُ*
 is known) or **یَکتُبُ** (he writes) becomes **یُکتَبُ**(it is being
 written
 
-

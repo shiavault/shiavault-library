@@ -491,4 +491,3 @@ Ghazal is also another poetic form.
 (Jahiliyyah), the author of the first Mu'allaqat. Al Malik al Dillili is
 his nickname.
 
-

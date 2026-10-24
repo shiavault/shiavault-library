@@ -148,4 +148,3 @@ time Obaid was called Ziad's guardian, yet we know that Ziad in one of
 his speeches confessed to be the son of Obaid as recorded in Ya‘qoubi,
 vol.2, p.195.
 
-

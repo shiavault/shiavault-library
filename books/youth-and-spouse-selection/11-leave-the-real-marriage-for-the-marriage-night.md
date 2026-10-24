@@ -13,13 +13,8 @@ with faith, piety, and duty consciousness.
 
 **Be felicitous:**
 
-<blockquote dir="rtl">
-  <p>
-أللهم ألف بينهما و طيب نسلهما و كثر رزقهما.
-  </p>
-</blockquote>
+> أللهم ألف بينهما و طيب نسلهما و كثر رزقهما.
 
 *“O Allah! Develop love and purity between them and purify their
 offspring and make their sustenance plentiful.”*
-
 

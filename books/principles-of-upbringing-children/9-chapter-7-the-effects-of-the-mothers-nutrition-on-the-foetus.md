@@ -33,4 +33,3 @@ birth to pretty and polite children."[^4]
 
 [^4]: Mustadrak al-wasail, v 3, p. 635
 
-

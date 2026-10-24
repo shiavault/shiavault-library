@@ -12,4 +12,3 @@ Yes, one of the etiquettes of Islam is to greet with salaam, Bravo to
 those parents who teach these rules to their children from childhood
 itself.
 
-

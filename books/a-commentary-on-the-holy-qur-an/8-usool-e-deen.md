@@ -671,4 +671,3 @@ Izrael: The messenger of Death who separates the soul from the body.
 Israfeel: The one who will blow the trumpet announcing the Day of the
 Final Judgment.
 
-

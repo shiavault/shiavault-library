@@ -6,9 +6,7 @@ establishing the construction backgrounds, knowing that presenting
 samples makes the way smoother earlier, Islam tries to present samples.
 The holy Quran states in this regard as saying,
 
-<p dir="rtl">
 «و لقد كان لكم في رسول الله أسوة حسنة»
-</p>
 
 *“And that we appointed ‘Mohammed’, the Messenger of Allah as a good
 model for you.”*
@@ -70,5 +68,4 @@ surely will be asked that why she did not follow Fatima’s lifestyle and
 behavior? Why she did not ask Zeineb, Imam Ali’s daughter, the mystery
 of honor? Why she did not take the lesson of life from Khadijeh and
 Fezzah?
-
 

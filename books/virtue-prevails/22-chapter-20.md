@@ -75,4 +75,3 @@ gone to see off Ahmad."
 Hamid was very amazed by this information and had much to think about as
 he slowly drove home.
 
-

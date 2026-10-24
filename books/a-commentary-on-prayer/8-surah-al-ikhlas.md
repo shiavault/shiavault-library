@@ -210,47 +210,27 @@ no equal, weakness and need.
 At the end of the *surah*, we shall take a cursory glance at its sublime
 content:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ هُوَ اللَّهُ أَحَد ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ هُوَ اللَّهُ أَحَد ﴾
 
 That is, He is One in Essence as well as in Attributes. So, He is also
 One in worthiness to be the Worshipped Being {*ma‘bud*}.
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ الصَّمَدُ ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ الصَّمَدُ ﴾
 
 That is, He is free from want and all things are in need of Him, and He
 is Alone in being free from want.
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَمْ يَلِدْ ﴾
-  </p>
-</blockquote>
+> ﴿ لَمْ يَلِدْ ﴾
 
 That is, He does not reproduce an equal for Him to have a peer and a
 match.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ لَمْ يُولَدْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ لَمْ يُولَدْ ﴾
 
 That is, He is the First and the Last. He is not created to have emerged
 from something.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ لَمْ يَكُن لَّهُ كفُواً أَحَدُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ لَمْ يَكُن لَّهُ كفُواً أَحَدُ ﴾
 
 That is, He has neither equal nor spouse; neither peer nor partner.
 
@@ -271,11 +251,7 @@ not on His Attributes. The Essence alone is enough for His being the
 Beloved {*mahbub*} and the Worshipped Being {*ma‘bud*}. Hadrat ‘Ali
 (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-وَ كَمالُ الاِخْلاصِ نَفْىُ الصِّفاتِ عَنْه.
-  </p>
-</blockquote>
+> وَ كَمالُ الاِخْلاصِ نَفْىُ الصِّفاتِ عَنْه.
 
 That is, perfect sincerity is that you worship Him without taking into
 account His Attributes.[^10] That is, you worship God for the sake of
@@ -287,11 +263,7 @@ perfection.”
 “*Allah*” is the Essence that possesses all the good Attributes, and
 thus He is worthy of worship and devotion. As the Qur’an states,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ للَّهِ الأَسمَاءُ الحُْسنى فَادْعُوهُ بهَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ للَّهِ الأَسمَاءُ الحُْسنى فَادْعُوهُ بهَا ﴾
 
 ***“To Allah belong the Best Names, so supplicate Him by them.”***[^11]
 
@@ -328,11 +300,7 @@ Independent One!
 
 **Fifth step:**
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَمْ يَلِدْ وَلَمْ يُولَدْ ٭ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴾
-  </p>
-</blockquote>
+> ﴿ لَمْ يَلِدْ وَلَمْ يُولَدْ ٭ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴾
 
 This stage, according to the traditions, is the interpretation of
 **“الصَّمَد”.** He is not in need of begetting a child. Neither is He in
@@ -344,11 +312,7 @@ gave birth, then He would not be eternal because He would be prone to
 diminish and dwindle. If He ever had an equal and a peer, then He would
 not be unrivalled. He is free and exempt from all these things.
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَ اللَّهِ عَمَّا يُشرِكُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَ اللَّهِ عَمَّا يُشرِكُونَ ﴾
 
 ***“Clear is Allah of any partners that they may ascribe {to
 Him}!”***[^12]
@@ -380,5 +344,4 @@ original form. {Trans.}
 [^11]: Surah al-A‘raf 7:180.
 
 [^12]: Surah at-Tur 52:43.
-
 

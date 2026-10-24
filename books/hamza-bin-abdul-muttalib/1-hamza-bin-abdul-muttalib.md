@@ -639,4 +639,3 @@ of Allah and the Lion of His Apostle in the Heavens!*
 Uhud Mount stands as evidence for al-Hamza's bravery, the Master of the
 Martyrs, and the polytheists' savageness.
 
-

@@ -70,4 +70,3 @@ betray the biases of and in favour of male sensibilities. Socialist
 feminism has been discussed already, and post-modernist feminism seems
 to be another term for third-wave feminism.
 
-

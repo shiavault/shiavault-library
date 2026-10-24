@@ -11,14 +11,10 @@ irrefutable proofs. The Messenger stated the same thing about al-Hasan,
 *‘alaihi al-salam*, the first son of ‘Ali. Imam Ahmad (d. 241 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا سفيان عن أبي موسى ويقال له إسرائيل قال
-سمعت الحسن قال سمعت أبا بكرة وقال سفيان مرة عن أبي بكرة رأيت رسول الله
-صلى الله عليه و سلم على المنبر وحسن عليه السلام معه وهو يقبل على الناس
-مرة وعليه مرة ويقول أن ابني هذا سيد
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا سفيان عن أبي موسى ويقال له إسرائيل قال
+> سمعت الحسن قال سمعت أبا بكرة وقال سفيان مرة عن أبي بكرة رأيت رسول الله
+> صلى الله عليه و سلم على المنبر وحسن عليه السلام معه وهو يقبل على الناس
+> مرة وعليه مرة ويقول أن ابني هذا سيد
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Sufyan – Abu Musa,
 also called Israil – al-Hasan – Abu Bakrah; and Sufyan also narrated
@@ -31,42 +27,26 @@ saying: “**Verily, this son of mine is a** ***sayyid***.”[^1]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط البخاري
-  </p>
-</blockquote>
+> إسناده صحيح على شرط البخاري
 
 Its chain is *sahih* upon the standard of al-Bukhari.[^2]
 
 Imam al-Tirmidhi (d. 279 H) also states about the same *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan sahih*.[^3]
 
 And ‘Allamah al-Albani (d. 1420 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^4]
 
 In another report, our Prophet explains what this means. ‘Allamah
 al-Albani copies this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-ابناي هذان: الحسن والحسين: سيدا شباب أهل الجنة وأبوهما خير منهما
-  </p>
-</blockquote>
+> ابناي هذان: الحسن والحسين: سيدا شباب أهل الجنة وأبوهما خير منهما
 
 These two sons of mine, al-Hasan and al-Husayn, are the two *sayyids* of
 the youth of the people of Paradise, **and their father is better than
@@ -74,24 +54,16 @@ them both**.[^5]
 
 The ‘Allamah comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^6]
 
 Imam al-Hakim (d. 403 H) also documents a similar report:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو سعيد عمرو بن محمد بن منصور العدل ثنا السري بن خزيمة ثنا
-عثمان بن سعيد المري ثنا علي بن صالح عن عاصم عن زر عن عبد الله رضي الله
-عنه قال قال رسول الله صلى الله عليه وسلم الحسن والحسين سيدا شباب أهل
-الجنة وأبوهما خير منهما
-  </p>
-</blockquote>
+> حدثنا أبو سعيد عمرو بن محمد بن منصور العدل ثنا السري بن خزيمة ثنا
+> عثمان بن سعيد المري ثنا علي بن صالح عن عاصم عن زر عن عبد الله رضي الله
+> عنه قال قال رسول الله صلى الله عليه وسلم الحسن والحسين سيدا شباب أهل
+> الجنة وأبوهما خير منهما
 
 Abu Sa’id ‘Amr b. Muhammad b. Mansur al-‘Adl – al-Sirri b. Khuzaymah –
 ‘Uthman b. Sa’id al-Mirri – ‘Ali b. Salih – ‘Asim – Zirr – ‘Abd Allah,
@@ -103,21 +75,13 @@ their father is better than them both**.”[^7]
 
 Al-Hakim states:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح بهذه الزيادة
-  </p>
-</blockquote>
+> هذا حديث صحيح بهذه الزيادة
 
 This *hadith* is *sahih* with this *ziyadah*.[^8]
 
 And Imam al-Dhahabi (d. 748 H) concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^9]
 
@@ -126,13 +90,9 @@ superior in the Sight of Allah to *anyone* who will be a youth in
 Paradise. Of course, everyone in Paradise will be young. Imam al-Darimi
 (d. 255 H) records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا محمد بن يزيد الرفاعي ثنا معاذ يعني بن هشام عن أبيه عن عامر
-الأحول عن شهر بن حوشب عن أبي هريرة عن النبي صلى الله عليه و سلم قال
-أهل الجنة شباب جرد مرد كحل لا تبلى ثيابهم ولا يفنى شبابهم
-  </p>
-</blockquote>
+> أخبرنا محمد بن يزيد الرفاعي ثنا معاذ يعني بن هشام عن أبيه عن عامر
+> الأحول عن شهر بن حوشب عن أبي هريرة عن النبي صلى الله عليه و سلم قال
+> أهل الجنة شباب جرد مرد كحل لا تبلى ثيابهم ولا يفنى شبابهم
 
 Muhammad b. Yazid al-Rufa’i – Mu’adh b. Hisham – his father – ‘Amir
 al-Ahwal – Shahr b. Hawshab – Abu Hurayrah:
@@ -143,11 +103,7 @@ cloths will never become worn **and their youth will never end**.”[^10]
 
 Shaykh Dr. Asad comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن
-  </p>
-</blockquote>
+> إسناده حسن
 
 Its chain is *hasan*.[^11]
 
@@ -163,16 +119,12 @@ Bakr or ‘Umar. Its implication is severe on the legitimacy of the Sunni
 *khilafah* system. Imam al-Mubarakfuri (d. 1282 H) therefore posits the
 various Sunni diversions of the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قوله الحسن والحسين سيدا شباب أهل الجنة ... قال المظهر يعني هما أفضل من
-مات شابا في سبيل الله من أصحاب الجنة ولم يرد به سن الشباب لأنهما ماتا
-وقد كهلا ... أو أنهما سيدا أهل الجنة سوى الأنبياء والخلفاء الراشدين
-وذلك لأن أهل الجنة كلهم في سن واحد وهو الشباب وليس فيهم شيخ ولا كهل
-قال الطيبي ويمكن أن يراد هما الان سيدا شباب من هم من أهل الجنة من شبان
-هذا الزمان
-  </p>
-</blockquote>
+> قوله الحسن والحسين سيدا شباب أهل الجنة ... قال المظهر يعني هما أفضل من
+> مات شابا في سبيل الله من أصحاب الجنة ولم يرد به سن الشباب لأنهما ماتا
+> وقد كهلا ... أو أنهما سيدا أهل الجنة سوى الأنبياء والخلفاء الراشدين
+> وذلك لأن أهل الجنة كلهم في سن واحد وهو الشباب وليس فيهم شيخ ولا كهل
+> قال الطيبي ويمكن أن يراد هما الان سيدا شباب من هم من أهل الجنة من شبان
+> هذا الزمان
 
 His statement “al-Hasan and al-Husayn are the two *sayyids* of the youth
 of the people of Paradise” ... Al-Muzaffar said: “It means that both of
@@ -191,12 +143,8 @@ those youth who were from the people of Paradise from that era.”[^12]
 All these acrobatics are obviously aimed at propping up Abu Bakr and
 ‘Umar. Shaykh Ibn Taymiyyah explains why:
 
-<blockquote dir="rtl">
-  <p>
-فقال بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله
-عليه و سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
-  </p>
-</blockquote>
+> فقال بل نبايعك أنت فأنت سيدنا وخيرنا وأحبنا إلى رسول الله صلى الله
+> عليه و سلم ليبين بذلك أن المأمور به تولية الأفضل وأنت أفضلنا فنبايعك
 
 So, he (‘Umar) said, **“Rather, we will follow you because you are our**
 ***sayyid***.... He wanted to make clear through it that: **What is
@@ -215,12 +163,8 @@ Meanwhile, do the Sunni acrobatics really help their cause? There is a
 Sunni-only version of the *riwayah*, which puts a complete end to the
 debate. ‘Allamah al-Albani copies this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-الحسن والحسين سيدا شباب أهل الجنة إلا ابني الخالة عيسى بن مريم ويحيى
-بن زكريا وفاطمة سيدة نساء أهل الجنة إلا ما كان من مريم بنت عمران
-  </p>
-</blockquote>
+> الحسن والحسين سيدا شباب أهل الجنة إلا ابني الخالة عيسى بن مريم ويحيى
+> بن زكريا وفاطمة سيدة نساء أهل الجنة إلا ما كان من مريم بنت عمران
 
 Al-Hasan and al-Husayn are the two *sayyids* of the people of Paradise,
 **except the two maternal cousins: ‘Isa b. Maryam and Yahya b.
@@ -229,11 +173,7 @@ Paradise except Maryam bint ‘Imran.[^14]
 
 The ‘Allamah says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^15]
 
@@ -289,5 +229,4 @@ b. Adam al-Ashqudri al-Albani, Sahih al-Jami’ al-Saghir wa Ziyadatuhu
 (Al-Maktab al-Islami), vol. 1, p. 607, \# 3181
 
 [^15]: Ibid
-
 

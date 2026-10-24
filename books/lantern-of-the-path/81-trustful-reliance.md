@@ -4,25 +4,13 @@ Trustful Reliance
 Trust (tawakkul) is a cup sealed with Allah: none may drink from it or
 break the seal save the trustful. It is as Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ
-  </p>
-</blockquote>
+> وَعَلَى اللّهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ
 
 ***On Allah should the trustful rely,*** (14:12) and
 
-
-
-<blockquote dir="rtl">
-  <p>
-وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
 
 ***On Allah should you rely if you are believers.*** (5:23)
-
 
 Allah made trust the key of belief, and belief the lock of trust. The
 reality of trust is preferring others to oneself; the root of preferring
@@ -59,5 +47,4 @@ I discuss the science of trust while there is a coin in my pocket? It is
 not permitted for me to discuss that until after I had given it to him,
 so understand!' The questioner sighed deeply and swore that he would not
 seek shelter in a house nor rely on another mortal as long as he lived.
-
 

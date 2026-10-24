@@ -44,7 +44,6 @@ breaths of it can be counted.
 However, the Arabic term /'azz/, used in the verse, means 'to incite
 severely'.
 
-
 **Commentary : Verse 85.86**
 
 85- يَوْمَ نحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَنِ وَفْداً
@@ -201,5 +200,4 @@ Thus, the key of Paradise is piety to Allah (s.w.t.) , and the key of
 Hell is sin, vice, and opposition against Allah and His Messenger.
 
 1- Sura Al-Furgan, No. 25, verse 13
-
 

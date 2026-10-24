@@ -489,4 +489,3 @@ comprehensive research.
 
 [^2]:  Bihar al-Anwar, Volume LXX, page 211.
 
-

@@ -27,4 +27,3 @@ steadfastness in the path of achievement of their aim is much larger
 However we refrain from mentioning their names and the events of their
 lives for the sake of brevity.
 
-

@@ -377,10 +377,8 @@ about the destiny of his community?! Do you think his last wish was
 against the prosperity of his people?! How much should they have been
 rude that even they didn't let him talk!!!
 
-
 The Prophet (PBUH&HF) said:
 
 "Have you not beeen there O' Ali, the believers would not have been
 recognized after me."
-
 

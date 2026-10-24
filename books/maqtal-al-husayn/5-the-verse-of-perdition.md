@@ -585,4 +585,3 @@ and also on p. 663, Vol. 9, of Bihar al-Anwar.
 
 [^23]: Al-Durra al-Najafiyya, p. 85.
 
-

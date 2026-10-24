@@ -456,4 +456,3 @@ an end to most of their differences. To end, I pray to our Lord and say:
 us, and leave not in our hearts any malice (hatred) towards the
 faithful. You are compassionate and merciful." (Holy Qur’an, 59:10)***
 
-

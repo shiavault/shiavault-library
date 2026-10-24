@@ -1,12 +1,10 @@
 Chapter 5 : Rules Relating To Marriage and Its Ceremonies
 =========================================================
 
-<p dir="rtl">
 بسم الله الرّحمن الرّحيم
 وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا
 لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ
 فِي ذَلِكَ لآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ .
-</p>
 
 “And one of His signs is that He created mates for you from yourselves
 that you may find rest in them, and He put between you love and
@@ -393,5 +391,4 @@ Therefore: Buying anything that is made of leather such as: shoes, a
 belt, strap of a watch, a purse, a bag, etc… that comes from a
 non-Islamic country is void, unless the person knows that the country
 (where it was made) imports its leather from Islamic countries.
-
 

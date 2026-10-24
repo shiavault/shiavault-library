@@ -26,4 +26,3 @@ Western Europe through the seminal works of Islamic scholars before the
 times of Galileo, Descartes and Newton to whom they have been largely
 attributed.
 
-

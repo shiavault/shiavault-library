@@ -14,22 +14,14 @@ obligatory that two just men hear it. When the husband himself desires
 to divorce, he states the Seeghah of divorce and mentions the name of
 his wife, for example he says:
 
-<blockquote dir="rtl">
-  <p>
-زَوْجِتي فَاطِمَةُ طَالقُ
-  </p>
-</blockquote>
+> زَوْجِتي فَاطِمَةُ طَالقُ
 
 *My wife Fatimah is divorced*
 
 When he appoints a person (to perform the divorce as his
 representative), it is obligatory that the representative (Wakeel) say:
 
-<blockquote dir="rtl">
-  <p>
-زَوْجَتةُ مُوُكّلي طَالقُ
-  </p>
-</blockquote>
+> زَوْجَتةُ مُوُكّلي طَالقُ
 
 *The wife of the person I represent is divorced*
 
@@ -239,11 +231,7 @@ divorce is in the following manner:
 When the husband himself desires to execute the Seeghah of divorce, he
 mentions the name of his wife in it saying:
 
-<blockquote dir="rtl">
-  <p>
-زَوْجَتِي فاطِمَةُ خَلَعْتُها عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
-  </p>
-</blockquote>
+> زَوْجَتِي فاطِمَةُ خَلَعْتُها عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
 
 *My wife Fatimah is removed for what she has offered, she is divorced*
 
@@ -253,12 +241,8 @@ side of the woman and another person from the side of the man and, when,
 for example, the name of the husband is Muhammad and the name of the
 wife is Fatimah, the representative of the woman says
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُوَكِّلَتِي فاطِمَةَ بَذَلْتُ مَهْرَها لِمُوَكّلِي مُحَمَّدٍ
-لِيَخْلَعَها عَلَيْهِ
-  </p>
-</blockquote>
+> عَنْ مُوَكِّلَتِي فاطِمَةَ بَذَلْتُ مَهْرَها لِمُوَكّلِي مُحَمَّدٍ
+> لِيَخْلَعَها عَلَيْهِ
 
 *On behalf of the person whom I represent I offer her dowry to the
 person whom you represent, Muhammad, in order that he divorce her (as
@@ -266,11 +250,7 @@ Khala')*
 
 Then, the representative of the man says immediately afterward:
 
-<blockquote dir="rtl">
-  <p>
-زَوْجَةُ مُوَكّلِي خَلَعْتُها عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
-  </p>
-</blockquote>
+> زَوْجَةُ مُوَكّلِي خَلَعْتُها عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
 
 *The wife of the man I represent, he has removed her for what she has
 offered, she is divorced*.
@@ -291,11 +271,7 @@ Mubaara’ah is executed in the following manner:
 When the man himself desires to execute the Seeghah of Mubaara’ah
 divorce and the name of his wife is, for example, Fatimah, he says:
 
-<blockquote dir="rtl">
-  <p>
-بارَأْتُ َزْوجَتِي فاطِمَةُ عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
-  </p>
-</blockquote>
+> بارَأْتُ َزْوجَتِي فاطِمَةُ عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
 
 *I disavow my wife Fatimah for what she has offered, she is divorced*
 
@@ -304,11 +280,7 @@ also obligatory for her to mention it.
 
 When a representative of the man executes the Seeghah, he says:
 
-<blockquote dir="rtl">
-  <p>
-بارَأْتُ َزْوجَةَ مُوَكَّليِ عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
-  </p>
-</blockquote>
+> بارَأْتُ َزْوجَةَ مُوَكَّليِ عَلى ما بَذَلَتْ فَهِيَ طالِقٌ
 
 *I disavow the wife of the man I represent for what she has offered,
 then, she is divorced*
@@ -322,11 +294,7 @@ Mubaara’ah divorce be executed in proper 'Arabic. However, there is
 nothing preventing the wife from offering her property in Persian or any
 other language (based on the translation of the following):
 
-<blockquote dir="rtl">
-  <p>
-بَذَلَتْ لَكَ المال الفُلانِي لِتُطلَقَّني
-  </p>
-</blockquote>
+> بَذَلَتْ لَكَ المال الفُلانِي لِتُطلَقَّني
 
 *I offer this property of such and such to you in order for you to
 divorce me.*
@@ -354,5 +322,4 @@ she has the right to divorce herself in this situation.
 whether he is alive or not, when she desires to seek a divorce and marry
 another man, it is obligatory that she consult a just Mujtahid and act
 in accordance to the particular duty mentioned in the noble law.
-
 

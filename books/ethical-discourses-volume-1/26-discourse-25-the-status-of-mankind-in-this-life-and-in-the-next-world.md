@@ -1,12 +1,8 @@
 Discourse 25: The Status of Mankind in This Life and in the Next World
 ======================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَلِيٌّ : أَلاَّ وَ إِنَّ الْيَوْمَ الْمِضْمَارُ، وَ غَداً
-السِّبَاقُ، وَ السَّبَقَةُ الْجَنَّةُ، وَ الْغَايَةُ النَّارُ…
-  </p>
-</blockquote>
+> قَالَ عَلِيٌّ : أَلاَّ وَ إِنَّ الْيَوْمَ الْمِضْمَارُ، وَ غَداً
+> السِّبَاقُ، وَ السَّبَقَةُ الْجَنَّةُ، وَ الْغَايَةُ النَّارُ…
 
 The Commander of the Faithful, 'Ali b. Abi Talib (as) has said, “You
 should know that today (this world) is the day to prepare (for the next
@@ -33,11 +29,7 @@ preparation and training is known in 'Arabic as “مضمار”.
 In reality, the entire world outlook of Islam in relation to this world
 and the next life can be summed up in the following two sentences:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّبَقُةُ الْجَنَّةُ وَ الْغَايَةُ النَّارُ.
-  </p>
-</blockquote>
+> أَلسَّبَقُةُ الْجَنَّةُ وَ الْغَايَةُ النَّارُ.
 
 “…and the prize (for this competition) is Paradise (for the good doers)
 and the punishment of Hell (for the evil doers).”
@@ -91,12 +83,8 @@ themselves to experience the pangs of hunger and thirst such that
 sometimes they go for long periods of time with only water to train the
 body:
 
-<blockquote dir="rtl">
-  <p>
-نابرده رنج گنج ميسّر نمى شود                  مزد آن گرفت جان برادر كه
-كار كرد
-  </p>
-</blockquote>
+> نابرده رنج گنج ميسّر نمى شود                  مزد آن گرفت جان برادر كه
+> كار كرد
 
 “It is not possible to gain the prize without going through
 difficulties, The one who went through troubles is the one who will get
@@ -119,12 +107,8 @@ This world is the house of difficulties and tests and in this temporary
 residence, the tests of the close, intimate friends (the Awliyah) of
 Allah (SwT) are harder and much more difficult (than others face):
 
-<blockquote dir="rtl">
-  <p>
-هركه در اين بزم مقرّب تر است                             جام بلا
-بيشترش مى دهند
-  </p>
-</blockquote>
+> هركه در اين بزم مقرّب تر است                             جام بلا
+> بيشترش مى دهند
 
 “Whosoever is closer (to Allah) in this world will have to give a more
 difficult examination.”  
@@ -215,5 +199,4 @@ of our sins and then we will be able to reach the level of spiritual
 proximity to Allah (SwT): شستشويى كن و آنگه به خرابات درآى “Spiritually
 cleanse yourself and remove all that which is bad from yourself.”
 (Tafsir-e-Namunah, vol. 3, pg. 91)
-
 

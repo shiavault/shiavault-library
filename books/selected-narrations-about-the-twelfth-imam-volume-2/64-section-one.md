@@ -736,4 +736,3 @@ Exalted, enlist us amongst his helpers, followers, and those who fight
 alongside him, for the sake of Muḥammad and his pure family, Allah’s
 blessings be upon them all.
 
-

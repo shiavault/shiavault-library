@@ -58,4 +58,3 @@ al-Qur\`an: no. 3, Bihar al-Anwar 92:214
 
 [^3]: Makarim al-Akhlaq: 39
 
-

@@ -25,4 +25,3 @@ color and pieces or clothes of specific designs to counter-act the
 supposed witchcraft, they think they would now be relieved of their
 worries. Actually, they are relieved of their money only.
 
-

@@ -244,4 +244,3 @@ own spiritual and moral upliftment.
 [^2]: al‑Majlisi, Biharu 'l‑Anwar, vol. 70 (chaps. 137, 138) pp. 308-377
 which altogether contain 112 traditions
 
-

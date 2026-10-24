@@ -498,4 +498,3 @@ Chief Justice: I think everyone needs some rest and would like to stop
 here, so I will call for dismissal so that we resume next Monday at 9AM
 sharp. Thank you, court is dismissed.
 
-

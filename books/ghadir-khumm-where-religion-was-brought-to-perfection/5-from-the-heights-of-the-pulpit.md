@@ -112,4 +112,3 @@ favor on you and chosen for you Islam as a religion ". (Qur'an, 5:3)***
 [^1]: The word used for \`master' by the Holy Prophet (s.a.w.) was
 \`Mawla' (in Arabic)
 
-

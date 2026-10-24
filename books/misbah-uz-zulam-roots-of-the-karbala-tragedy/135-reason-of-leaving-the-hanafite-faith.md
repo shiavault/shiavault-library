@@ -29,4 +29,3 @@ is no doubt that Abu Hanifah has become an inventor of a religion and
 indeed, if he had not resorted to analogy, there would have been no new
 religion.
 
-

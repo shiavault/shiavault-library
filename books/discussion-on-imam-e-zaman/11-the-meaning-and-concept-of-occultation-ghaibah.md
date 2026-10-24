@@ -15,9 +15,7 @@ the brothers of Hazrat Yusuf (a.s.) came to him, conversed with him but
 failed to recognize him while he recognized them. Narrating this
 situation, the Holy Quran states,
 
-<p dir="rtl">
 .« و جاء إخوه. يوسف فدخلوا عليهِ فَعرفه. م و هم لَه. منكرون »
-</p>
 
 “And the brothers of Yusuf (a.s.) came to him. He recognized them but
 they failed to recognize him.34”
@@ -147,10 +145,8 @@ glance or go through the details of a person’s conduct. In the letter
 that he wrote to Shaykh Mufeed (a.r.), Imam-e-Zaman (a.t.f.s.)
 declared,
 
-<p dir="rtl">
 .« فإنّا ي.حيطُ عِلم.نا بِأنبائِكُم و لا ي.عزْب. عنّا شيء. مِن
 أخبارِكُم »
-</p>
 
 “Then surely our knowledge encompasses your news and none of your
 information is hidden from us.38”
@@ -217,9 +213,7 @@ such questions are bound to arise. But if we say that he has not married
 at all, it will give rise to another objection i.e. Is Imam-e-Zaman
 (a.t.f.s.) not a Muslim? For, the Holy Prophet (s.a.w.a.) has said,
 
-<p dir="rtl">
 .« النّكاح. س.نّتي فمن ر.غِب. عن سنّتي فَلَيس. مِنّي »
-</p>
 
 “Nikaah is from tradition (sunnah). Thus, whoever is disinclined from
 my tradition is not from me.”
@@ -401,5 +395,4 @@ certainly made Imam-e-Zaman (a.t.f.s.) Allah’s most perfect creature, a
 topic in itself that shall be discussed at its appropriate place.
 
 41 Behaarul Anwaar of Allamah Majlisi, vol. 52, p. 355
-
 

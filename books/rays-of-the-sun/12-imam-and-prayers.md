@@ -75,4 +75,3 @@ and did not even leave his *Salaat-ul-Layl*.[^4]
 
 [^4]: Ruznameye Ithila’at, 28/3/68
 
-

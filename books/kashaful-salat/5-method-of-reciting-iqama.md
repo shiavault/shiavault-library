@@ -497,4 +497,3 @@ blessings of Imam Zamana (ajf).
 alihi al tayyibeen al tahireen al Masoomeen al Mazloomeen wa lanatul
 lahi ahadaihim ajmaeen min youmina haza al youmul deen.
 
-

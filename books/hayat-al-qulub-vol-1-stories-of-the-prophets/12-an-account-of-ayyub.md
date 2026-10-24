@@ -273,4 +273,3 @@ they were a gift from his Lord and signified His kindness and Favor.
 affliction. According to some it was 18 years and according to others,
 it was 7 years. The latter view is more prevalent.
 
-

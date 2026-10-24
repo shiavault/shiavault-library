@@ -17,4 +17,3 @@ believer that before he starts praying for himself and his family, he
 should pray for the reappearance, thereby observing the due right of the
 Holy Prophet (S).
 
-

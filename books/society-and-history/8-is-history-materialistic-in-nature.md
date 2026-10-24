@@ -1746,4 +1746,3 @@ social existence but following a single ideology.
 
 [^43]: Ibid., p. 340.
 
-

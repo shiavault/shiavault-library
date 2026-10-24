@@ -618,4 +618,3 @@ guardian repented and restored the orphan's properties, saying: \`\`I
 seek refuge to God from the great sin of devouring orphan's
 properties.''
 
-

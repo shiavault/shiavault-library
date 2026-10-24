@@ -512,7 +512,6 @@ preceding verse. It signifies that the mortal life of this world is
 adorned and made alluring in the sight of the unbelievers, and those men
 of rank and wealth who reject faith. They
 
-
 [ 231 ]
 
 have been blind drank by vanity and arrogance, and therefore they
@@ -1140,13 +1139,11 @@ judge will do his best to reconcile them, and bring the couple back to
 harmony, because our prophet (AS) has said: \`\`Of all things declared
 lawful, divorce is the most hateful one in the sight of Allah.''
 
-<p dir="rtl">
 وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلاثَةَ قُرُوء وَلاَ
 يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ اللهُ فِي أَرْحَامِهِنَّ إن
 كُنَّ يُؤْمِنَّ بِاللهِ وَالْيَوْمِ الاَْخِرِ وَبُعُولَتُهُنَّ أَحَقُّ
 بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُواْ إِصْلاحاً وَلَهُنَّ مِثْلُ
 الَّذِي
-</p>
 
 عَلَيْهِنَّ بِالْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَاللهُ
 عَزِيزٌ حَكِيمٌ (( 228 ))228- DIVORCED WOMEN SHALL WAIT BY THEMSELVES
@@ -1380,5 +1377,4 @@ sister that was divorced. At the end of her waiting period, she came to
 a fair mutual agreement with her former husband, and decided to return
 and join him, but her brother prevented her from doing so. The case was
 referred to the prophet and the verse NO. 232 revealed.
-
 

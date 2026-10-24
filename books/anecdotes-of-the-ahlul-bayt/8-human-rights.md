@@ -647,4 +647,3 @@ Imam Ali *(‘a)* turned towards the woman and said, ‘Enter your home and
 be careful not to do anything that forces him to behave in such a
 manner.’
 
-

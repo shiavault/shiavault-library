@@ -74,4 +74,3 @@ joy of the life after death, they are sound asleep on the warm ashes of
 the master's kitchen floor and enjoy the leftovers of the plunderer's
 table!!!
 
-

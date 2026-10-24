@@ -16,4 +16,3 @@ bearable to me.
 The translator of this book welcomes comments so as to be considered in
 the future editions.
 
-

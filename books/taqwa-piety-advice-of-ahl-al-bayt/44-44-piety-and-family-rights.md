@@ -61,4 +61,3 @@ should relinquish.”***[^1]
 
 [^1]: Qur'an, 2:221-237.
 
-

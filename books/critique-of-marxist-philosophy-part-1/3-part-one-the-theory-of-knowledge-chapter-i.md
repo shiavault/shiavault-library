@@ -167,4 +167,3 @@ necessary conceptions, directly or indirectly, as a result of
 experience. As the soul develops through substantial movement, the
 primary knowledge, which exists in it potentially, becomes actual.
 
-

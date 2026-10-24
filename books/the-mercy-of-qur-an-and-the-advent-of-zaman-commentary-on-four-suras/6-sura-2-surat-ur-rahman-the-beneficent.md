@@ -263,4 +263,3 @@ world but not of this world. Man has come only to go. The balance is
 being both here and with Allah, alive and yet, with every closing of the
 eye, willing to be under six feet of dust.
 
-

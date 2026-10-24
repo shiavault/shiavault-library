@@ -63,13 +63,9 @@ amassed legendary wealth under the aegis of this trade.[^5] God, the
 Exalted, described this commerce as the source of the Quraysh’s welfare
 and comfort, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لإيلافِ قُرَيْشٍ ٭ إِيلافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ٭
-فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ ٭ الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ
-وَآمَنَهُمْ مِنْ خَوْفٍ ﴾
-  </p>
-</blockquote>
+> ﴿ لإيلافِ قُرَيْشٍ ٭ إِيلافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ٭
+> فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ ٭ الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ
+> وَآمَنَهُمْ مِنْ خَوْفٍ ﴾
 
 ***“{In gratitude} for solidarity among Quraysh, their solidarity during
 winter and summer journeys, let them worship the Lord of this House, who
@@ -244,11 +240,7 @@ After receiving a fatal blow at Ibn al-Muljim’s hand, ‘Ali (*‘a*)
 himself pointed out the magnitude of Quraysh’s enmity toward him in a
 poetical line:
 
-<blockquote dir="rtl">
-  <p>
-تكم قريش تمناى لتقتلني فلا و ربّك مافازوا و ما ظفروا
-  </p>
-</blockquote>
+> تكم قريش تمناى لتقتلني فلا و ربّك مافازوا و ما ظفروا
 
 “The Quraysh wished to kill me, but they did not succeed to do so.”[^31]
 
@@ -401,5 +393,4 @@ al-Muhriqah, p. 108. {Trans.}
 
 [^31]: Ibn Shahr Ashub Mazandarani, Manaqib Al Abi Talib, vol. 3, p.
 312.
-
 

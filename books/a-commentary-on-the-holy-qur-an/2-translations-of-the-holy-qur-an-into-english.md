@@ -337,4 +337,3 @@ practical denial of the miraculous, by presenting the miracles of the
 Apostles of God as non-spiritual events and thus denying the special
 spiritual powers with which the Holy Apostles were endowed
 
-

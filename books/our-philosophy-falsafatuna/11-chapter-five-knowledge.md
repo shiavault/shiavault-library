@@ -1106,4 +1106,3 @@ transmitted to the offspring. Hence, acquired traits are inherited. His
 most important writings are: Natural History of the Invertebrates and
 Zoological Philosophy.
 
-

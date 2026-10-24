@@ -41,4 +41,3 @@ reflection, can greatly enhance our experience of reciting Salatul Layl.
 May the Almighty help us to recite Salatul Layl in the way it should be
 recited.
 
-

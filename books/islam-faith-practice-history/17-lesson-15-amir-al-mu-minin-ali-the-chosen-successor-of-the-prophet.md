@@ -297,4 +297,3 @@ subject of Ghadīr.
 [^1]: Lutfullah as-Safi, Muntakhabu 'l-Athar, p. 101. Safi quotes 50
 similar hadith from Sunni and Shi‘a sources.
 
-

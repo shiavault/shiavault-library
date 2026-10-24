@@ -303,4 +303,3 @@ the universe to continuously combine some particular phenomena with
 others. The same wisdom sometimes calls for exception; thus a miracle
 occurs.
 
-

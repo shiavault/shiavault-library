@@ -56,4 +56,3 @@ waiting for the reappearance. And as was indicated in the tradition of
 that personage alive in our hears and try to bring about the requisites
 of his appearance ever more by reforming our own actions.
 
-

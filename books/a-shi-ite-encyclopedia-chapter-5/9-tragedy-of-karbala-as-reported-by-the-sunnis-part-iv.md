@@ -358,4 +358,3 @@ depths of my guts. If they do that, God will cause them to be dominated
 and humiliated until they become the most humiliated of the factions
 among nations.
 
-

@@ -165,4 +165,3 @@ affect them with their opinions.
 
 Imam ‘Ali (a)
 
-

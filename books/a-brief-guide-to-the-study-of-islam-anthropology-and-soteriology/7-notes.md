@@ -24,12 +24,12 @@ Towards Understanding Islam.
 
 [^6] Islamic Spirituality, Vol 1, p. 48-[^49]:
 
-[^7] Ibid, p.[^49]:
+[^7] Ibid, p.49.
 
 [^8] Islamic Spirituality, Vol [^1]: 295.
 
 [^9] Shorter Encylopedia of Islam, H.A.R Gibbs and J.H. Kraemer, E.J.
-Brill, Leiden, 1961, p.[^435]: Students of Islam should exercise care in
+Brill, Leiden, 1961, p.435. Students of Islam should exercise care in
 taking any presentation of Islamic beliefs in this area as
 authoritative. The systems of al-Shastarani, al-Ghazzali, and al-Baidawi
 in particular are sometimes presented as representing the orthodox

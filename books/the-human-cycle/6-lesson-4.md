@@ -131,4 +131,3 @@ physical hitting. There are maraji (jurists whom people emulate
 regarding Islamic legal matters) that say the beating is light physical
 hitting that does not cause harm or injuries.
 
-

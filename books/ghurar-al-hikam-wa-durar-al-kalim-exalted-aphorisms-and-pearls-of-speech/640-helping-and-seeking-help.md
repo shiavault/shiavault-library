@@ -11,4 +11,3 @@ Helping And Seeking Help
 
 > 2ـ مَنْ لَمْ يُنْجِدْ لَمْ يُنْجَدْ.
 
-

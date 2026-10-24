@@ -212,4 +212,3 @@ slaves to win the civil war and save the Union.
 [^1]: Carnegie, Dale, Lincoln: the Unknown (Surrey, U.K.:The Word Work
 Ltd, 1948) chp. 22.
 
-

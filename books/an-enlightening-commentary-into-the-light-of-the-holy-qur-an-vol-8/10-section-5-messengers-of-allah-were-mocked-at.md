@@ -4,12 +4,8 @@ Section 5: Messengers of Allah Were Mocked At
 Surah Ar-Ra‘d – Verse 32
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِن قَبْلِكَ فَاَمْلَيْتُ لِلَّذِينَ
-كَفَرُوا ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ عِقَابِ
-  </p>
-</blockquote>
+> وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِن قَبْلِكَ فَاَمْلَيْتُ لِلَّذِينَ
+> كَفَرُوا ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ عِقَابِ
 
 ***32. “And messengers before you were certainly mocked at, but I gave
 respite to those who disbelieved, then I seized them (in My Wrath); then
@@ -48,15 +44,11 @@ retribution?”***
 Surah Ar-Ra‘d – Verse 33
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ هُوَ قَآئِمٌ عَلَي كُلّ‌ِ نَفْسٍ بِمَا كَسَبَتْ وَجَعَلُوا
-لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ أَمْ تُنَبّـِئُونَهُ بِمَا لاَ
-يَعْلَمُ فِي الأَرْضِ أَم بِظَاهِرٍ مِنَ الْقَوْلِ بَلْ زُيّـِنَ
-لِلَّذِينَ كَفَرُوا مَكْرُهُمْ وَصُدُّوا عَنِ السَّبِيلِ وَمَن
-يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
-  </p>
-</blockquote>
+> أَفَمَنْ هُوَ قَآئِمٌ عَلَي كُلّ‌ِ نَفْسٍ بِمَا كَسَبَتْ وَجَعَلُوا
+> لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ أَمْ تُنَبّـِئُونَهُ بِمَا لاَ
+> يَعْلَمُ فِي الأَرْضِ أَم بِظَاهِرٍ مِنَ الْقَوْلِ بَلْ زُيّـِنَ
+> لِلَّذِينَ كَفَرُوا مَكْرُهُمْ وَصُدُّوا عَنِ السَّبِيلِ وَمَن
+> يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
 
 ***33. “Is He then Who watches every soul as to what it earns (like the
 idols)? And yet they ascribe partners to Allah. Say: ‘Name them! Do you
@@ -159,12 +151,8 @@ polytheism.
 Surah Ar-Ra‘d – Verse 34
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَّهُمْ عَذَابٌ فِي الْحَيَاةِ الدُّنْيَا وَلَعَذَابُ الأَخِرَةِ
-أَشَقُّ وَمَا لَهُم مِنَ اللَّهِ مِن وَاقٍ
-  </p>
-</blockquote>
+> لَّهُمْ عَذَابٌ فِي الْحَيَاةِ الدُّنْيَا وَلَعَذَابُ الأَخِرَةِ
+> أَشَقُّ وَمَا لَهُم مِنَ اللَّهِ مِن وَاقٍ
 
 ***34. “There is chastisement for them in the life of the world, and the
 chastisement of the hereafter is certainly more grievous, and for them
@@ -237,13 +225,9 @@ It will be both bodily and spiritual:
 Surah Ar-Ra‘d – Verse 35
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ تَجْرِي مِن تَحْتِهَا
-الاَنْهَارُ اُكُلُهَا دَآئِمٌ وَظِلُّهَا تِلْكَ عُقْبَي الَّذِينَ
-اتَّقَوا وَعُقْبَي الْكَافِرِينَ النَّارُ
-  </p>
-</blockquote>
+> مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ تَجْرِي مِن تَحْتِهَا
+> الاَنْهَارُ اُكُلُهَا دَآئِمٌ وَظِلُّهَا تِلْكَ عُقْبَي الَّذِينَ
+> اتَّقَوا وَعُقْبَي الْكَافِرِينَ النَّارُ
 
 ***35. “The likeness of the Garden (of bliss) which the pious are
 promised, (is such that) beneath it rivers flow, its fruits and its
@@ -318,14 +302,10 @@ beings such as us.
 Surah Ar-Ra‘d – Verse 36
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ ءَاتَيْنَاهُمُ الْكِتَابَ يَفْرَحُونَ بِمَآ اُنزِلَ
-إِلَيْكَ وَمِنَ الأَحْزَابِ مَن يُنكِرُ بَعْضَهُ قُلْ إِنَّمَآ
-اُمِرْتُ أَنْ أَعْبُدَ اللَّهَ وَلآ اُشْرِكَ بِهِ إِلَيْهِ أَدْعُوا
-وإِلَيْهِ مأَبِ
-  </p>
-</blockquote>
+> وَالَّذِينَ ءَاتَيْنَاهُمُ الْكِتَابَ يَفْرَحُونَ بِمَآ اُنزِلَ
+> إِلَيْكَ وَمِنَ الأَحْزَابِ مَن يُنكِرُ بَعْضَهُ قُلْ إِنَّمَآ
+> اُمِرْتُ أَنْ أَعْبُدَ اللَّهَ وَلآ اُشْرِكَ بِهِ إِلَيْهِ أَدْعُوا
+> وإِلَيْهِ مأَبِ
 
 ***36. “And those people to whom We have given the Book will rejoice in
 what has been sent down to you. And of the clans are some who deny a
@@ -395,12 +375,8 @@ theist has no other lines and schedule to follow except submission to
 all of Allah’s commandments.
 
 > ﴿37﴾ وَكَذَلِكَ أَنزَلْنَاهُ حُكْماً عَرَبِيّاً وَلَئِنِ اتَّبَعْتَ
-<blockquote dir="rtl">
-  <p>
-أَهْوَآءَهُم بَعْدَ مَا جَآءَكَ مِنَ الْعِلْمِ مَالَكَ مِنَ اللَّهِ
-مِن وَلِيٍّ وَلاَ وَاقٍ
-  </p>
-</blockquote>
+> أَهْوَآءَهُم بَعْدَ مَا جَآءَكَ مِنَ الْعِلْمِ مَالَكَ مِنَ اللَّهِ
+> مِن وَلِيٍّ وَلاَ وَاقٍ
 
 ***37. “And thus have We sent it (the Qur’an) (as a true) authority in
 the Arabic, and if you follow their low desires after what has come to
@@ -474,5 +450,4 @@ followers.
 [^7]: Surah Al-Baqarah, No. 2, verse 162
 
 [^8]: Surah Ad-Dukhan, No. 44, verse 49
-
 

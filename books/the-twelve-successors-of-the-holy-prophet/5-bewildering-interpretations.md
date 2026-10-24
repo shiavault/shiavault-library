@@ -259,4 +259,3 @@ Fath al-Bari 16:339.
 
 [^16]: Ibn Hajar al-'Asqalani, Fath al-Bari 16:339.
 
-

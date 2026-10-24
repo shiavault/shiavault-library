@@ -11,4 +11,3 @@ support: Mrs. Talat Sheikh Peiravi and Mrs. Betty June Morgan.
 **Ms. Lisa Zaynab Morgan**  
 **<peiravi@netscape.net>**
 
-

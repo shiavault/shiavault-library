@@ -6,4 +6,3 @@ In Islam, everything originates from God. Islam also emphasises that,
 In what follows, I will try to refer to the principles, on which the
 Islamic view on authority is based:
 
-

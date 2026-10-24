@@ -166,8 +166,6 @@ serving a definite purpose in the universe, then should we not believe
 that someone, who can be none but an omnipotent God, has created them
 with a definite purpose.
 
-
 Thus, denying God means, denying the existance of univers. In Quranic
 terminology such a person is referred as Kafir.
-
 

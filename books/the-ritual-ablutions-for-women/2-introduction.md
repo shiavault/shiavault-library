@@ -758,4 +758,3 @@ days with the intention of worshipping Allah.
 
 [^14]: Ibid, p. 573.
 
-

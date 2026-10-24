@@ -138,4 +138,3 @@ contributed to the organization of this work.
 **Muhammad Masjid-Jame‘i**
 **Fall 1990**
 
-

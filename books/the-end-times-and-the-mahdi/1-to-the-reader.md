@@ -45,7 +45,6 @@ unobservant of the respect and reverence due to sacred subjects, nor
 hopeless, pessimistic arguments that create doubts in the mind and
 deviations in the heart.
 
-
 **ABOUT THE AUTHOR**
 
 Now writing under the pen-name of HARUN YAHYA, he was born in Ankara in
@@ -131,7 +130,6 @@ will of Allah, these books will be a means through which people in the
 twenty-first century will attain the peace, justice, and happiness
 promised in the Qur'an.
 
-
 **Introduction**
 
 The End Times (or the Last Days) may not be a familiar concept to many
@@ -168,5 +166,4 @@ recognize them. Your Lord is not unaware of what you do'' (Surat
 an-Naml: 93). Another issue we need to stress here is that Allah knows
 the best of everything. As is in every other subject, we have no
 knowledge other than that about which He informs us.
-
 

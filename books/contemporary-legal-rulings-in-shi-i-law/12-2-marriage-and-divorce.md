@@ -272,4 +272,3 @@ grief and beat their faces, chests, etc. Is that permissible?**
 
 A: Yes, that is permissible. (FM, p. 439)
 
-

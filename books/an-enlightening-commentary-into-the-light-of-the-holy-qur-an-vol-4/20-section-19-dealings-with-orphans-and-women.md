@@ -8,16 +8,12 @@ wife - Carefulness about the duties enjoined
 Surah An-Nisa', Verse 127
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَفْتُونَكَ فِي النِّسَاء قُلِ اللّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا
-يُتْلَى عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاء الَّلاتِي لاَ
-تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ
-وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَن تَقُومُواْ لِلْيَتَامَى
-بِالْقِسْطِ وَمَا تَفْعَلُواْ مِنْ خَيْرٍ فَإِنَّ اللّهَ كَانَ بِهِ
-عَلِيمًا
-  </p>
-</blockquote>
+> وَيَسْتَفْتُونَكَ فِي النِّسَاء قُلِ اللّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا
+> يُتْلَى عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاء الَّلاتِي لاَ
+> تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ
+> وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَن تَقُومُواْ لِلْيَتَامَى
+> بِالْقِسْطِ وَمَا تَفْعَلُواْ مِنْ خَيْرٍ فَإِنَّ اللّهَ كَانَ بِهِ
+> عَلِيمًا
 
 **127.** ***"And they ask you for a pronouncement concerning women. Say:
 Allah pronounces to you concerning them, and what is recited to you in
@@ -59,14 +55,10 @@ the deprived in the society will not be neglected.
 Surah An-Nisa', Verse 128
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلاَ
-جُنَاْحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا وَالصُّلْحُ
-خَيْرٌ وَأُحْضِرَتِ الأَنفُسُ الشُّحَّ وَإِن تُحْسِنُواْ وَتَتَّقُواْ
-فَإِنَّ اللّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
-  </p>
-</blockquote>
+> وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلاَ
+> جُنَاْحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا وَالصُّلْحُ
+> خَيْرٌ وَأُحْضِرَتِ الأَنفُسُ الشُّحَّ وَإِن تُحْسِنُواْ وَتَتَّقُواْ
+> فَإِنَّ اللّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 
 **128.** ***"And if a woman fears ill treatment from her husband, or
 desertion, there is no sin on the couple if they effect a reconciliation
@@ -122,14 +114,10 @@ his wife, all of these actions are at the presence of *Allah.*
 Surah An-Nisa', Verse 129
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَن تَسْتَطِيعُواْ أَن تَعْدِلُواْ بَيْنَ النِّسَاء وَلَوْ
-حَرَصْتُمْ فَلاَ تَمِيلُواْ كُلَّ الْمَيْلِ فَتَذَرُوهَا
-كَالْمُعَلَّقَةِ وَإِن تُصْلِحُواْ وَتَتَّقُواْ فَإِنَّ اللّهَ كَانَ
-غَفُورًا رَّحِيمًا
-  </p>
-</blockquote>
+> وَلَن تَسْتَطِيعُواْ أَن تَعْدِلُواْ بَيْنَ النِّسَاء وَلَوْ
+> حَرَصْتُمْ فَلاَ تَمِيلُواْ كُلَّ الْمَيْلِ فَتَذَرُوهَا
+> كَالْمُعَلَّقَةِ وَإِن تُصْلِحُواْ وَتَتَّقُواْ فَإِنَّ اللّهَ كَانَ
+> غَفُورًا رَّحِيمًا
 
 **129.** ***"You will never be able to deal equitably between (your)
 wives, however much you be eager (to do so); then do not incline with a
@@ -167,12 +155,8 @@ Allah is Forgiving, Merciful."***
 Surah An-Nisa', Verse 130
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يَتَفَرَّقَا يُغْنِ اللّهُ كُلاًّ مِّن سَعَتِهِ وَكَانَ اللّهُ
-وَاسِعًا حَكِيمًا
-  </p>
-</blockquote>
+> وَإِن يَتَفَرَّقَا يُغْنِ اللّهُ كُلاًّ مِّن سَعَتِهِ وَكَانَ اللّهُ
+> وَاسِعًا حَكِيمًا
 
 **130.*****"Yet if they (should) separate, Allah will enrich each out of
 His abundance, and Allah is All-Embracing, the Wise."***
@@ -200,14 +184,10 @@ abundance, together with Wisdom. It says:
 Surah An-Nisa', Verse 131
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَللّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَلَقَدْ وَصَّيْنَا
-الَّذِينَ أُوتُواْ الْكِتَابَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ
-اتَّقُواْ اللّهَ وَإِن تَكْفُرُواْ فَإِنَّ لِلّهِ مَا فِي
-السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَانَ اللّهُ غَنِيًّا حَمِيدًا
-  </p>
-</blockquote>
+> وَللّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَلَقَدْ وَصَّيْنَا
+> الَّذِينَ أُوتُواْ الْكِتَابَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ
+> اتَّقُواْ اللّهَ وَإِن تَكْفُرُواْ فَإِنَّ لِلّهِ مَا فِي
+> السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَانَ اللّهُ غَنِيًّا حَمِيدًا
 
 **131.** ***"And to Allah belongs whatever is in the heavens and
 whatever is in the earth, and certainly We enjoined those who were given
@@ -248,12 +228,8 @@ Praiseworthy."***
 Surah An-Nisa', Verse 132
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَفَى بِاللّهِ
-وَكِيلاً
-  </p>
-</blockquote>
+> وَلِلّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَفَى بِاللّهِ
+> وَكِيلاً
 
 **132.** ***"And to Allah belongs whatever is in the heavens and
 whatever is in the earth, and Allah is sufficient as a Protector."***
@@ -272,12 +248,8 @@ the earth, and Allah is sufficient as a Protector."***
 Surah An-Nisa', Verse 133
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ وَكَانَ
-اللّهُ عَلَى ذَلِكَ قَدِيرًا
-  </p>
-</blockquote>
+> إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ وَكَانَ
+> اللّهُ عَلَى ذَلِكَ قَدِيرًا
 
 **133.** ***"If He pleases, He can remove you, O' people! and bring
 others; and Allah is powerful over that."***
@@ -299,12 +271,8 @@ hand over the back of Salman Farsi and said:
 Surah An-Nisa', Verse 134
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّن كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا فَعِندَ اللّهِ ثَوَابُ
-الدُّنْيَا وَالآخِرَةِ وَكَانَ اللّهُ سَمِيعًا بَصِيرًا
-  </p>
-</blockquote>
+> مَّن كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا فَعِندَ اللّهِ ثَوَابُ
+> الدُّنْيَا وَالآخِرَةِ وَكَانَ اللّهُ سَمِيعًا بَصِيرًا
 
 **134.** ***"Whoever desires the reward of this world, then with Allah
 is the reward of this world and the Hereafter and Allah is All-Hearing,
@@ -321,5 +289,4 @@ reward of this world and the Hereafter and Allah is All-Hearing,
 All-Seeing."***
 
 [^1]: Majma'-ul-Bayan, vol. 3, p. 122 (Arabic version)
-
 

@@ -245,4 +245,3 @@ as dead (2:154); hopefully Allah will help us to complete, according to
 our capacity, other related matters in other appropriate places, God
 willing.
 
-

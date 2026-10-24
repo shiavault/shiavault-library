@@ -175,4 +175,3 @@ those Books.
 
 (b) Which Divine Book contains the most comprehensive and eternal laws?
 
-

@@ -361,4 +361,3 @@ owner to use it.
 
 [^18]: Ibid.p.285
 
-

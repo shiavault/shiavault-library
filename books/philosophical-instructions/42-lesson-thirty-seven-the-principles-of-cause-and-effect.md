@@ -245,4 +245,3 @@ their effects), while the second proof is restricted to existence-giving
 causes, and which also covers complete causes, as they include
 existence-giving causes.
 
-

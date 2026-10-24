@@ -212,11 +212,7 @@ He performs all His acts from the aspect of knowledge, choice and
 intention and He is neither compelled to do anything or to leave it. His
 power is endless and without any limit. In the Holy Quran, He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ عَلَى‏ كُلِّ شَى‏ءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ عَلَى‏ كُلِّ شَى‏ءٍ قَدِيرٌ
 
 ***“…surely Allah has power over all things.” (2:20)***
 
@@ -227,13 +223,9 @@ worldly phenomena; and nothing is hidden from Him; so much so that He is
 also cognizant of the intentions and thoughts of people. He says in
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ تُخْفُواْ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ
-اللَّهُ وَيَعْلَمُ مَا فِى الْسَّمَوَ تِ وَمَا فِى الْأَرْضِ وَاللَّهُ
-عَلَى‏ كُلِّ شَى‏ءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> قُلْ إِنْ تُخْفُواْ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ
+> اللَّهُ وَيَعْلَمُ مَا فِى الْسَّمَوَ تِ وَمَا فِى الْأَرْضِ وَاللَّهُ
+> عَلَى‏ كُلِّ شَى‏ءٍ قَدِيرٌ
 
 ***“Say: Whether you hide what is in your hearts or manifest it, Allah
 knows it, and He knows whatever is in the heavens and whatever is in the
@@ -256,25 +248,17 @@ a perfection of the subject but God who is at the ultimate stage of
 perfection and existence, would not lack any of these perfections. In
 Quran also, intention is related to God. He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا قَوْلُنَا لِشَىْ‏ءٍ إِذَآ أَرْدْنَهُ أَن نَّقُولَ لَهُ كُن
-فَيَكُونُ‏
-  </p>
-</blockquote>
+> إِنَّمَا قَوْلُنَا لِشَىْ‏ءٍ إِذَآ أَرْدْنَهُ أَن نَّقُولَ لَهُ كُن
+> فَيَكُونُ‏
 
 ***“Our word for a thing when We intend it, is only that We say to it,
 Be, and it is.” (16:40)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ ءَامَنُواْ وَعِملُواْ الصَّلِحَتِ
-جَنَّتٍ تَجْرِى مِن تَحْتِهَا الْأَنْهَرُ إِنَّ اللَّهَ يَفْعَلُ مَا
-يُرِيدُ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ ءَامَنُواْ وَعِملُواْ الصَّلِحَتِ
+> جَنَّتٍ تَجْرِى مِن تَحْتِهَا الْأَنْهَرُ إِنَّ اللَّهَ يَفْعَلُ مَا
+> يُرِيدُ
 
 ***“Surely Allah will cause those who believe and do good deeds to enter
 gardens beneath which rivers flow, surely Allah does what He pleases.”
@@ -292,13 +276,9 @@ the witness and seer of them all. In Quran also, in numerous places,
 hearing and seeing is related to God. For example the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّواْ الأَمَنَتِ إِلَى أَهْلِهَا
-وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ إِنَّ
-اللَّهَ نِعِمَّا يَعِظُكُم بِهِ إِنَّ اللَّهَ كَانَ سَمِيَعاً بَصِيراً
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّواْ الأَمَنَتِ إِلَى أَهْلِهَا
+> وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ إِنَّ
+> اللَّهَ نِعِمَّا يَعِظُكُم بِهِ إِنَّ اللَّهَ كَانَ سَمِيَعاً بَصِيراً
 
 ***“Surely Allah commands you to make over trusts to their owners and
 that when you judge between people you judge with justice; surely Allah
@@ -417,12 +397,8 @@ beauties and amazing aspects of the world and gain faith in His being.
 In the Holy Quran also, it is mentioned clearly that the Almighty Allah
 would never be visible to the physical eyes:
 
-<blockquote dir="rtl">
-  <p>
-لَا تُدْرِكُهُ الاَْبْصَرُ وَهُوَ يُدْرِكُ الْأَبْصَرَ وَهُوَ
-اللَّطِيفُ الْخَبِيرُ
-  </p>
-</blockquote>
+> لَا تُدْرِكُهُ الاَْبْصَرُ وَهُوَ يُدْرِكُ الْأَبْصَرَ وَهُوَ
+> اللَّطِيفُ الْخَبِيرُ
 
 ***“Vision comprehends Him not, and He comprehends (all) vision; and He
 is the Knower of subtleties, the Aware.” (6:103)***
@@ -437,12 +413,8 @@ not present in His being. Therefore the Almighty Allah is not ignorant.
 
 It is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَخْفَى‏ عَلَيْهِ شَى‏ءٌ فِى الْأَرْضِ وَلَا فِى
-السَّمَآءِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَخْفَى‏ عَلَيْهِ شَى‏ءٌ فِى الْأَرْضِ وَلَا فِى
+> السَّمَآءِ
 
 ***“Allah – surely nothing is hidden from Him in the earth or in the
 heaven.” (3:5)***
@@ -467,12 +439,8 @@ cannot change or be affected by anything.
 
 It is said in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ لَا تَأْخُذُهُ
-سِنَةٌ وَلَا نَوْمٌ لَهُ
-  </p>
-</blockquote>
+> اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ لَا تَأْخُذُهُ
+> سِنَةٌ وَلَا نَوْمٌ لَهُ
 
 ***“Allah is He besides Whom there is no god, the Ever living, the
 Self-subsisting by Whom all subsist; slumber does not overtake Him nor
@@ -545,15 +513,10 @@ oneness of God.
 
 It is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِنْ تَكُ حَسَنَةً
-يُضَعِفْهَا وَيُؤْتِ مِنْ لَّدُنْهُ أَجْراً عَظِيماً
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِنْ تَكُ حَسَنَةً
+> يُضَعِفْهَا وَيُؤْتِ مِنْ لَّدُنْهُ أَجْراً عَظِيماً
 
 ***“Surely Allah does not do injustice to the weight of an atom, and if
 it is a good deed He multiplies it and gives from Himself a great
 reward.” (4:40)***
-
 

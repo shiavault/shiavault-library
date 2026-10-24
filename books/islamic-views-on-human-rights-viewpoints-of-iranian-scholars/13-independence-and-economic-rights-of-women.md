@@ -935,4 +935,3 @@ treated this issue in detail.
 [^43]: Hasan Sadr, Huquq-i Zan dar al-Islam va Urupa (Women’s Rights in
 Islam and Europe), Vol. 4, p.178.
 
-

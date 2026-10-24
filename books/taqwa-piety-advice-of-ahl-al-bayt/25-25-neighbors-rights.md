@@ -72,4 +72,3 @@ if one of his neighbors may recite the following in the Du’a of Simat,
 
 [^7]: Bihar al-Anwar, vol. 71, p. 151
 
-

@@ -43,4 +43,3 @@ Thus, the two most important instincts of man, i.e., love and fear, are
 simultaneously utilized to make man a perfect being, a whole being, not
 wanting in any respect.
 
-

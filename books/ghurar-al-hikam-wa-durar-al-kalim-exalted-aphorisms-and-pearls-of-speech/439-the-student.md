@@ -12,11 +12,7 @@ must neither become bored of his studies nor overestimate what he
 already knows.
 
 > 2ـ عَلَى المُتَعَلِّمِ أنْ يَدْأبَ نَفْسَهُ في طَلَبِ العِلْمِ،
-<blockquote dir="rtl">
-  <p>
-وَلايَمَلَّ مِنْ تَعَلُّمِهِ وَلايَسْتَكْثِرُ ما عَلِمَ.
-  </p>
-</blockquote>
+> وَلايَمَلَّ مِنْ تَعَلُّمِهِ وَلايَسْتَكْثِرُ ما عَلِمَ.
 
 3. One who learns becomes knowledgeable.
 
@@ -40,21 +36,13 @@ age.
 education) remains in the abject ignorance?
 
 > 7ـ مَنْ لَمْ يَصْبِرْ عَلى مَضَضِ التَّعْليمِ(التَّعَلُّمِ) بَقِيَ في
-<blockquote dir="rtl">
-  <p>
-ذُلِّ الجَهْلِ.
-  </p>
-</blockquote>
+> ذُلِّ الجَهْلِ.
 
 8. One who does not discipline himself (or spend his life) in acquiring
 knowledge cannot gain great successes.
 
 > 8ـ مَنْ لَمْ يُدْئِبْ (لَمْ يُذِبْ) نَفْسَهُ فِي اكْتِسابِ العِلْمِ
-<blockquote dir="rtl">
-  <p>
-لَمْ يُحْرِزْ قَصَباتِ السَّبْقِ.
-  </p>
-</blockquote>
+> لَمْ يُحْرِزْ قَصَباتِ السَّبْقِ.
 
 9. The one who does not know must never be too proud to learn.
 
@@ -66,15 +54,10 @@ and its right is that you bestow it to those who are deserving of it and
 deny it to those who are not deserving of it.
 
 > 10ـ لاتُحَدِّثِ الجُهّالَ بِما لايَعْلَمُونَ فَيُكَذِّبُوكَ بِهِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّ لِعِلْمِكَ عَلَيْكَ حَقّاً، وحَقُّهُ عَلَيْكَ بَذْلَهُ
-لِمُسْتَحِقِّهِ ومَنْعُهُ مِنْ غَيْرِ مُسْتَحِقِّهِ.
-  </p>
-</blockquote>
+> فَإنَّ لِعِلْمِكَ عَلَيْكَ حَقّاً، وحَقُّهُ عَلَيْكَ بَذْلَهُ
+> لِمُسْتَحِقِّهِ ومَنْعُهُ مِنْ غَيْرِ مُسْتَحِقِّهِ.
 
 11. One who is haughty does not learn.
 
 > 11ـ لايَتَعَلَّمُ مَنْ يَتَكَبَّرُ.
-
 

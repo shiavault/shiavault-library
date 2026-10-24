@@ -30,22 +30,14 @@ very effective for concentration and humility. Moreover, recite the
 wordings slowly and try to pay utmost attention to their meanings and
 concepts unfailingly. Allah the Almighty says,
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ الَّذِينَ هُمْ فِي صَلاَتِهِمْ
-خَاشِعُونَ.
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ الَّذِينَ هُمْ فِي صَلاَتِهِمْ
+> خَاشِعُونَ.
 
 ***“Surely the believers are successful; those who are humble in their
 prayers.” (Qur’an, 23:1-2)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَ أَنْتُمْ
-سُكَارى حَتّى تَعْلَمُوا مَا تَقُولُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَ أَنْتُمْ
+> سُكَارى حَتّى تَعْلَمُوا مَا تَقُولُونَ
 
 ***“O ye who believe! Do not go near prayers while you are in an
 intoxicated condition till you know what you are saying.” (Qur’an,
@@ -53,14 +45,10 @@ intoxicated condition till you know what you are saying.” (Qur’an,
 
 Imam Al-Baqir (‘a) explains,
 
-<blockquote dir="rtl">
-  <p>
-لا تَقُمْ إِلى الصَّلاةِ مُتَكَاسِلاً وَ لاَ مُتَنَاعِساً وَ لا
-مُتَثَاقِلاً. فَإِنَّهَا مِنْ خَلَلِ النِّفَاقِ. وَإِنَّ اللهَ نَهَى
-الْمُؤْمِنِينَ أَنْ يَقُومُوا إِلى الصَّلاةِ وَ هُمْ سُكَارى. يَعْنِي
-مِنَ النَّوْمِ.
-  </p>
-</blockquote>
+> لا تَقُمْ إِلى الصَّلاةِ مُتَكَاسِلاً وَ لاَ مُتَنَاعِساً وَ لا
+> مُتَثَاقِلاً. فَإِنَّهَا مِنْ خَلَلِ النِّفَاقِ. وَإِنَّ اللهَ نَهَى
+> الْمُؤْمِنِينَ أَنْ يَقُومُوا إِلى الصَّلاةِ وَ هُمْ سُكَارى. يَعْنِي
+> مِنَ النَّوْمِ.
 
 “Do not stand for prayers lazily, yawning or feeling heavy (i.e.
 considering it to be a burden). For all these are from the traits of
@@ -69,13 +57,9 @@ while they are intoxicated i.e. (intoxicated) from sleep.”[^1]
 
 Imam As-Sadiq (‘a) elaborates,
 
-<blockquote dir="rtl">
-  <p>
-إذَا كُنْتَ فِي صَلاَتِكَ، فَعَلَيْكَ بِالتَّخَشُّعِ وَ الإقْبَالِ
-عَلى صَلاتِكَ. فَإِنَّ اللهَ تَعالى يَقْولُ: “الَّذِينَ هُمْ فِي
-صَلاتِهِمْ خَاشِعُونَ.’’
-  </p>
-</blockquote>
+> إذَا كُنْتَ فِي صَلاَتِكَ، فَعَلَيْكَ بِالتَّخَشُّعِ وَ الإقْبَالِ
+> عَلى صَلاتِكَ. فَإِنَّ اللهَ تَعالى يَقْولُ: “الَّذِينَ هُمْ فِي
+> صَلاتِهِمْ خَاشِعُونَ.’’
 
 “When you are in your prayers, then it is obligatory for you to be
 humble and welcome your prayers. For Allah the Almighty (while
@@ -93,12 +77,8 @@ tremendously.”[^3]
 
 Again, Imam As-Sadiq (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلّى رَكْعَتَيْنِ يَعْلَمُ مَا يَقُولُ فِيهِمَا، انْصَرَفَ وَ
-لَيْسَ بَيْنَهُ وَ بَيْنَ اللهِ ذَنْبٌ إِلاّ غَفَرَهُ لَهُ.
-  </p>
-</blockquote>
+> مَنْ صَلّى رَكْعَتَيْنِ يَعْلَمُ مَا يَقُولُ فِيهِمَا، انْصَرَفَ وَ
+> لَيْسَ بَيْنَهُ وَ بَيْنَ اللهِ ذَنْبٌ إِلاّ غَفَرَهُ لَهُ.
 
 “One who prays two units (rak’ats) of prayers knowing fully what he is
 saying in it, he does not turn away from it (after completion), but
@@ -107,14 +87,10 @@ forgive.”[^4]
 
 Imam Al-Baqir (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعَبْدَ لَيُرْفَعُ لَهُ مِنْ صَلاَتِهِ نِصْفُهَا أَوْ
-ثُلْثُهَا أَوْ رُبْعُهَا أَوْ خُمْسُهَا. فَمَا يُرْفَعُ لَهُ إِلاّ مَا
-أَقْبَلَ عَلَيْهِ مِنْهَا بِقَلْبِهِ. وَإِنَّمَا أَمَرْنَا
-بِالنّافِلَةِ لِيَتِمَّ لَهُمْ بِهَا مَا نَقَصُوا مِنَ الْفَرِيضَةِ.
-  </p>
-</blockquote>
+> إِنَّ الْعَبْدَ لَيُرْفَعُ لَهُ مِنْ صَلاَتِهِ نِصْفُهَا أَوْ
+> ثُلْثُهَا أَوْ رُبْعُهَا أَوْ خُمْسُهَا. فَمَا يُرْفَعُ لَهُ إِلاّ مَا
+> أَقْبَلَ عَلَيْهِ مِنْهَا بِقَلْبِهِ. وَإِنَّمَا أَمَرْنَا
+> بِالنّافِلَةِ لِيَتِمَّ لَهُمْ بِهَا مَا نَقَصُوا مِنَ الْفَرِيضَةِ.
 
 “Indeed, from the prayers of the believers, 1/2 or 1/3rd or 1/4th or 1/5
 th only is accepted. Thus, only that part of the prayers is admitted
@@ -124,15 +100,11 @@ obligatory (prayers).”[^5]
 
 Imam As-Sadiq (‘a) exhorts,
 
-<blockquote dir="rtl">
-  <p>
-إِذَا صَلَّيْتَ صَلاَةَ فَرِيضَةٍ فَصَلِّهَا لِوَقْتِهَا صَلاَةَ
-مُوَدِّعٍ يَخَافُ أُنْ لا يَعُودَ إِلَيْهَا أَبَداً. ثُمَّ اصْرفْ
-بِبَصَرِكَ إِلى مَوْضِعِ سُجُودِكَ. فَلَوْ تَعْلَمُ مَنْ عَنْ
-يَمِينِكَ وَ شِمالِكَ لَأَحْسَنْتَ صَلاتَكَ. وَاعْلَمْ أَنَّكَ بَيْنَ
-يَدَي مَنْ يَرَاكَ وَ لا تَرَاهُ.
-  </p>
-</blockquote>
+> إِذَا صَلَّيْتَ صَلاَةَ فَرِيضَةٍ فَصَلِّهَا لِوَقْتِهَا صَلاَةَ
+> مُوَدِّعٍ يَخَافُ أُنْ لا يَعُودَ إِلَيْهَا أَبَداً. ثُمَّ اصْرفْ
+> بِبَصَرِكَ إِلى مَوْضِعِ سُجُودِكَ. فَلَوْ تَعْلَمُ مَنْ عَنْ
+> يَمِينِكَ وَ شِمالِكَ لَأَحْسَنْتَ صَلاتَكَ. وَاعْلَمْ أَنَّكَ بَيْنَ
+> يَدَي مَنْ يَرَاكَ وَ لا تَرَاهُ.
 
 “When you perform your obligatory prayers, pray in its time as if it is
 your last prayers and is never going to return to you ever again. Then
@@ -143,19 +115,15 @@ are in front of the One Who sees you although you cannot see Him.”[^6]
 In his famous Treatise of Rights, Imam Zain al Abidin(‘a) discusses the
 rights of the prayers thus:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا حَقُّ الصَّلاةِ فَأَنْ تَعْلَمَ أَنَّهَا وِفَادَةٌ إِلىَ
-اللهِ وَ أَنَّكَ قَائِمٌ بِهَا بَيْنَ يَدَيِ اللهِ. فَإِذَا عَلِمْتَ
-ذلِكَ كُنْتَ خَليقاً أَنْ تَقُومَ فِيهَا مُقامَ الذَّلِيلِ الرّاغِبِ
-الرّاهِبِ الْخائِفِ الرّاجِي الْمِسْكِينِ الْمُتَضَرِّعِ الْمُعَظِّمِ
-مَنْ قَامَ بَيْنَ يَدَيْهِ بِالسُّكُونِ وَ الإطْرَاقِ وَ خُشُوعِ
-الأَطْرَافِ وَ لِينِ الْجَنَاحِ وَ حُسْنِ الْمُنَاجَاةِ لَهُ فِي
-نَفْسِهِ وَ الطَّلَبِ إِلَيْهِ فِي فِكاكِ رَقَبَتِكَ الَّتِي أَحَاطَتْ
-بِهِ خَطِيئَتُكَ وَ اسْتَهْلَكَتْهَا ذُنُوبُكَ. وَ لا قُوَّةَ إِلاّ
-بِاللهِ.
-  </p>
-</blockquote>
+> فَأَمَّا حَقُّ الصَّلاةِ فَأَنْ تَعْلَمَ أَنَّهَا وِفَادَةٌ إِلىَ
+> اللهِ وَ أَنَّكَ قَائِمٌ بِهَا بَيْنَ يَدَيِ اللهِ. فَإِذَا عَلِمْتَ
+> ذلِكَ كُنْتَ خَليقاً أَنْ تَقُومَ فِيهَا مُقامَ الذَّلِيلِ الرّاغِبِ
+> الرّاهِبِ الْخائِفِ الرّاجِي الْمِسْكِينِ الْمُتَضَرِّعِ الْمُعَظِّمِ
+> مَنْ قَامَ بَيْنَ يَدَيْهِ بِالسُّكُونِ وَ الإطْرَاقِ وَ خُشُوعِ
+> الأَطْرَافِ وَ لِينِ الْجَنَاحِ وَ حُسْنِ الْمُنَاجَاةِ لَهُ فِي
+> نَفْسِهِ وَ الطَّلَبِ إِلَيْهِ فِي فِكاكِ رَقَبَتِكَ الَّتِي أَحَاطَتْ
+> بِهِ خَطِيئَتُكَ وَ اسْتَهْلَكَتْهَا ذُنُوبُكَ. وَ لا قُوَّةَ إِلاّ
+> بِاللهِ.
 
 “As for the rights of the prayers, you should know that it is a means of
 reaching towards Allah. And you are standing before Allah when you are
@@ -201,5 +169,4 @@ the goal is near.
 [^6]: Thawwab al ‘amal, p. 57
 
 [^7]: Tuhaf al Uqul, p. 258
-
 

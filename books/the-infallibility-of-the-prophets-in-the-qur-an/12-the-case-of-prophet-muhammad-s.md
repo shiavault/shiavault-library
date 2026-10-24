@@ -328,4 +328,3 @@ Mafatihu 'l-Ghayb, vol. 30 (Beirut: Daru 'l-Kutub, 1990) p. 37.
 
 [^2]: See 5:89.
 
-

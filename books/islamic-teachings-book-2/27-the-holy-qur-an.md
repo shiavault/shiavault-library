@@ -44,4 +44,3 @@ Questions
 
 3. What stories are narrated in the Holy Qur'an?
 
-

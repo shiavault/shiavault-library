@@ -1,36 +1,32 @@
 Twenty-Ninth Hadith: The Prophet’s Counsel To ‘Ali
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَنَدِ المُتَّصِلِ إلَى أَفْضَلِ المُحَدِّثِينَ وَأَقْدَمِهِمْ
-مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنْ مُحَمَّدِ بْنِ
-يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى، عَنْ عَلِيِّ بْنِ
-النُّعْمَانِ، عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ قَالَ: سَمِعْتُ أبَا
-عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: كَانَ فِي وَصِيَّةِ النَّبِيِّ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ لِعَلِيٍّ عَلَيْهِ السَّلامُ أنْ قَالَ:
-يَا عَلِيُّ، أُوصِيكَ فِي نَفْسِكَ بِخِصَالٍ فَاحْفَظْهَا عَنِّي.
-ثُمَّ قَالَ: اللَّهُمَّ أَعِنْهُ، أَمَّا الأُولَى فَالصِّدْقُ، وَلا
-تَخْرُجَنَّ مِنْ فِيكَ كِذْبَةٌ أَبَداً. وَالثَّانِيَةُ الوَرَعُ، وَلا
-تَجْتَرِئْ عَلَى خِيَانَةٍ أَبَداً. وَالثَّالِثَةُ الخَوْفُ مِنَ اللهِ
-عَزَّ ذِكْرُهُ كَأَنَّكَ تَرَاهُ. وَالرَّابِعَةُ كَثْرَةُ البُكَاءِ
-مِنْ خَشْيَةِ اللهِ يُبْنَى لَكَ بِكُلِّ دَمْعَةٍ أَلْفُ بَيْتٍ فِي
-الجَنَّةِ. وَالخَامِسَةُ بَذْلُكَ مَالَكَ وَدَمَكَ دُونَ دِينِكَ.
-وَالسَّادِسَةُ الأَخْذُ بِسُنَّتِي فِي صَلاتِي وَصَوْمِي وَصَدَقَتِي.
-أَمَّا الصَّلاةُ فَالخَمْسُونَ رَكْعَةً، وَأَمَّا الصِّيَامُ
-فَثَلاثَةُ أَيَّامٍ فِي الشَّهْرِ؛ الخَمِيسُ فِي أَوَّلِهِ
-وَالأَرْبُعَاءُ فِي وَسَطِهِ وَالخَمِيسُ فِي آخِرِهِ، وَأَمَّا
-الصَّدَقَةُ فَجُهْدُكَ حَتَّى تَقُولَ: قَدْ أَسْرَفْتُ، وَلَمْ
-تُسْرِفْ. وَعَلَيْكَ بِصَلاةِ اللَّيْلِ، وَعَلَيْكَ بِصَلاةِ
-اللَّيْلِ، وَعَلَيْكَ بِصَلاةِ اللَّيْلِ، وَعَلَيْكَ بِصَلاةِ
-الزَّوَالِ، وَعَلَيْكَ بِصَلاةِ الزَّوَالِ، وَعَلَيْكَ بِصَلاةِ
-الزَّوَالِ. وَعَلَيْكَ بِتِلاوَةِ القُرْآنِ عَلَى كُلِّ حَالٍ،
-وَعَلَيْكَ بِرَفْعِ يَدَيْكَ فِي صَلاتِكَ وَتَقْليبِهِمَا. وَعَلَيْكَ
-بِالسِّوَاكِ عِنْدَ كُلِّ وُضُوءٍ. وَعَلَيْكَ بِمَحَاسِنِ الأَخْلاقِ
-فَارْكَبْهَا، وَمَسَاوِئَ الأَخْلاقِ فَاجْتَنِبْهَا. فَإنْ لَمْ
-تَفْعَلْ فَلا تَلُومَنَّ إلاّ نَفْسَكَ.
-  </p>
-</blockquote>
+> بِالسَنَدِ المُتَّصِلِ إلَى أَفْضَلِ المُحَدِّثِينَ وَأَقْدَمِهِمْ
+> مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنْ مُحَمَّدِ بْنِ
+> يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى، عَنْ عَلِيِّ بْنِ
+> النُّعْمَانِ، عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ قَالَ: سَمِعْتُ أبَا
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: كَانَ فِي وَصِيَّةِ النَّبِيِّ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ لِعَلِيٍّ عَلَيْهِ السَّلامُ أنْ قَالَ:
+> يَا عَلِيُّ، أُوصِيكَ فِي نَفْسِكَ بِخِصَالٍ فَاحْفَظْهَا عَنِّي.
+> ثُمَّ قَالَ: اللَّهُمَّ أَعِنْهُ، أَمَّا الأُولَى فَالصِّدْقُ، وَلا
+> تَخْرُجَنَّ مِنْ فِيكَ كِذْبَةٌ أَبَداً. وَالثَّانِيَةُ الوَرَعُ، وَلا
+> تَجْتَرِئْ عَلَى خِيَانَةٍ أَبَداً. وَالثَّالِثَةُ الخَوْفُ مِنَ اللهِ
+> عَزَّ ذِكْرُهُ كَأَنَّكَ تَرَاهُ. وَالرَّابِعَةُ كَثْرَةُ البُكَاءِ
+> مِنْ خَشْيَةِ اللهِ يُبْنَى لَكَ بِكُلِّ دَمْعَةٍ أَلْفُ بَيْتٍ فِي
+> الجَنَّةِ. وَالخَامِسَةُ بَذْلُكَ مَالَكَ وَدَمَكَ دُونَ دِينِكَ.
+> وَالسَّادِسَةُ الأَخْذُ بِسُنَّتِي فِي صَلاتِي وَصَوْمِي وَصَدَقَتِي.
+> أَمَّا الصَّلاةُ فَالخَمْسُونَ رَكْعَةً، وَأَمَّا الصِّيَامُ
+> فَثَلاثَةُ أَيَّامٍ فِي الشَّهْرِ؛ الخَمِيسُ فِي أَوَّلِهِ
+> وَالأَرْبُعَاءُ فِي وَسَطِهِ وَالخَمِيسُ فِي آخِرِهِ، وَأَمَّا
+> الصَّدَقَةُ فَجُهْدُكَ حَتَّى تَقُولَ: قَدْ أَسْرَفْتُ، وَلَمْ
+> تُسْرِفْ. وَعَلَيْكَ بِصَلاةِ اللَّيْلِ، وَعَلَيْكَ بِصَلاةِ
+> اللَّيْلِ، وَعَلَيْكَ بِصَلاةِ اللَّيْلِ، وَعَلَيْكَ بِصَلاةِ
+> الزَّوَالِ، وَعَلَيْكَ بِصَلاةِ الزَّوَالِ، وَعَلَيْكَ بِصَلاةِ
+> الزَّوَالِ. وَعَلَيْكَ بِتِلاوَةِ القُرْآنِ عَلَى كُلِّ حَالٍ،
+> وَعَلَيْكَ بِرَفْعِ يَدَيْكَ فِي صَلاتِكَ وَتَقْليبِهِمَا. وَعَلَيْكَ
+> بِالسِّوَاكِ عِنْدَ كُلِّ وُضُوءٍ. وَعَلَيْكَ بِمَحَاسِنِ الأَخْلاقِ
+> فَارْكَبْهَا، وَمَسَاوِئَ الأَخْلاقِ فَاجْتَنِبْهَا. فَإنْ لَمْ
+> تَفْعَلْ فَلا تَلُومَنَّ إلاّ نَفْسَكَ.
 
 With my continuous chain of transmission reaching up to the best of the
 traditionists and the foremost of them, Muhammad ibn Ya’qub al-Kulayni
@@ -207,14 +203,10 @@ mentioning some of the noble traditions relating to this topic and
 refrain from undue elaboration, for the matter is of a clear and
 well-known character.
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ فِي الوَسَائِلِ عَنْ مُحَمَّدِ بْنِ يَعْقُوبَ بِإسْنَادِهِ عَنْ
-أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ: إنَّ اللهَ عَزَّ وَجَلَّ جَعَلَ
-لِلشَّرِّ أَقْفالاً وَجَعَلَ مَفَاتِيحَ تِلْكَ الأَقْفَالِ الشَّرَابَ.
-وَالكَذِبُ شَرٌّ مِنَ الشَّرَابِ.
-  </p>
-</blockquote>
+> رُوِيَ فِي الوَسَائِلِ عَنْ مُحَمَّدِ بْنِ يَعْقُوبَ بِإسْنَادِهِ عَنْ
+> أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ: إنَّ اللهَ عَزَّ وَجَلَّ جَعَلَ
+> لِلشَّرِّ أَقْفالاً وَجَعَلَ مَفَاتِيحَ تِلْكَ الأَقْفَالِ الشَّرَابَ.
+> وَالكَذِبُ شَرٌّ مِنَ الشَّرَابِ.
 
 In al-Wasa’il, it is narrated from Muhammad ibn Ya’qub, who reports with
 his isnad from Abu Ja’far (Imam al-Baqir) (A) that he said, “Verily,
@@ -240,12 +232,8 @@ that it is worse than wine? Isn’t it that the evil of that thing should
 be so great that one may hyperbolize it by stating that it is worse than
 wine?
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: الكَذِبُ
-هُوَ خَرَابُ الإيمَانِ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: الكَذِبُ
+> هُوَ خَرَابُ الإيمَانِ.
 
 Hadrat Baqir al-‘Ulum, i.e. Imam al-Baqir (A), said, “Lying is the ruin
 of faith.”[^5]
@@ -267,11 +255,7 @@ It has been narrated from the Truthful of the Sect (*Saduq* al-Ta’fah,
 i.e. al-Shaykh al-Suduq) that he said, “Amongst the sayings of the
 Messenger of God is the statement:
 
-<blockquote dir="rtl">
-  <p>
-أَرْبَى الرِّبَا الكَذِبُ.
-  </p>
-</blockquote>
+> أَرْبَى الرِّبَا الكَذِبُ.
 
 Lying exceeds usury [in its evil].[^6]
 
@@ -301,12 +285,8 @@ styles him a liar?”[^7]
 Again *al-Kafi* reports with its *isnad* reaching up to the venerated
 Asbagh ibn Nubatah that he said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: لا يَجِدُ عَبْدٌ
-طَعْمَ الإيمَانِ حَتَّى يَتْرُكَ الكَذِبَ هَزْلَهُ وَجِدَّهُ.
-  </p>
-</blockquote>
+> قَالَ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: لا يَجِدُ عَبْدٌ
+> طَعْمَ الإيمَانِ حَتَّى يَتْرُكَ الكَذِبَ هَزْلَهُ وَجِدَّهُ.
 
 The Commander of the Faithful (A) said, “One does not taste the flavor
 of faith until he refrains from lying, in serious speech and in
@@ -315,12 +295,8 @@ jest.”[^8]
 In a counsel given by the Noble Messenger (S) to Hadrat Abu Dharr
 al-Ghifari, the Prophet is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا ذَرٍّ، وَيْلٌ لِلَّذِي يُحَدِّثُ فَيَكْذِبُ لِيُضْحِكَ بِهِ
-القَوْمَ! وَيْلٌ لَهُ! وَيْلٌ لَهُ!
-  </p>
-</blockquote>
+> يَا أَبَا ذَرٍّ، وَيْلٌ لِلَّذِي يُحَدِّثُ فَيَكْذِبُ لِيُضْحِكَ بِهِ
+> القَوْمَ! وَيْلٌ لَهُ! وَيْلٌ لَهُ!
 
 O Abu Dharr, woe to the man who tells lies in order to make other people
 laugh. Woe to him! Woe to him!
@@ -336,13 +312,9 @@ significant of virtues. It has been highly praised in the traditions of
 the Ahl al-Bayt, and here we will confine ourselves to mentioning some
 of them:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدُ بْنُ يَعْقُوبَ بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
-السَّلامُ قَالَ: كُونُوا دُعَاةً لِلنَّاسِ بِالخَيْرِ بِغَيْرِ
-أَلْسِنَتِكُمْ لِيَرَوا مِنْكُمُ الإجْتِهَادَ وَالصِّدْقَ وَالوَرَعَ.
-  </p>
-</blockquote>
+> مُحَمَّدُ بْنُ يَعْقُوبَ بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ قَالَ: كُونُوا دُعَاةً لِلنَّاسِ بِالخَيْرِ بِغَيْرِ
+> أَلْسِنَتِكُمْ لِيَرَوا مِنْكُمُ الإجْتِهَادَ وَالصِّدْقَ وَالوَرَعَ.
 
 Muhammad ibn Ya’qub reports with his isnad from Abu ‘Abd Allah (A) that
 he said, “Call people to righteousness through means other than your
@@ -363,11 +335,7 @@ The Meaning Of Wara’ And Its Levels
 journey. In accordance with the definition of it given by the well-known
 gnostic, the venerable Khwajah ‘Abd Allah Ansari, it is:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ تَوْقٌ مُسْتَقْصىً عَلَى حَذَرٍ أَوْ تَحَرُّجٍ عَلَى تَعْظِيمٍ.
-  </p>
-</blockquote>
+> هُوَ تَوْقٌ مُسْتَقْصىً عَلَى حَذَرٍ أَوْ تَحَرُّجٍ عَلَى تَعْظِيمٍ.
 
 It means that *wara’* is the utmost of restraint and the ultimate of
 self-vigilance accompanied with the fear of stumbling; or it means
@@ -406,13 +374,9 @@ pages. We will confine ourselves to mentioning some of these traditions,
 and anyone seeking further details should refer to the compilations of
 *hadith*.
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-أُوصِيكَ بِتَقْوَى اللهِ وَالوَرَعِ وَالإجْتِهَادِ، وَاعْلَمْ إنَّهُ
-لا يَنْفَعُ اجْتِهَادٌ لا وَرَعَ فِيهِ.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> أُوصِيكَ بِتَقْوَى اللهِ وَالوَرَعِ وَالإجْتِهَادِ، وَاعْلَمْ إنَّهُ
+> لا يَنْفَعُ اجْتِهَادٌ لا وَرَعَ فِيهِ.
 
 In al-Kafi of, al-Kulayni reports with his isnad from Abu ‘Abd Allah (A)
 that he said, “I exhort you concerning God-fearing, wara’, and diligence
@@ -434,14 +398,10 @@ form of the perfection of the soul, remains futile without purifying the
 soul from the rust of sinfulness. Without the soul’s burnish, it remains
 an empty form devoid of meaning, and a body without spirit.
 
-<blockquote dir="rtl">
-  <p>
-بِإسْنَادِهِ عَنْ يَزِيدَ بْنِ خَلِيفَةَ قَالَ: وَعَظَنَا أَبُو
-عَبْدِاللهِ عَلَيْهِ السَّلامُ فَأَمرَ وَزَهَّدَ ثُمَّ قَالَ:
-عَلَيْكُمْ بِالوَرَعِ فَإنَّهُ لا يُنَالُ مَا عِنْدَ اللهِ إلاّ
-بِالوَرَعِ.
-  </p>
-</blockquote>
+> بِإسْنَادِهِ عَنْ يَزِيدَ بْنِ خَلِيفَةَ قَالَ: وَعَظَنَا أَبُو
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ فَأَمرَ وَزَهَّدَ ثُمَّ قَالَ:
+> عَلَيْكُمْ بِالوَرَعِ فَإنَّهُ لا يُنَالُ مَا عِنْدَ اللهِ إلاّ
+> بِالوَرَعِ.
 
 Yazid ibn Khalifah says: Abu ‘Abd Allah (A) sermoned us, exhorting and
 directing us to adopt zuhd. Then he said, “Commit yourselves to wara’,
@@ -506,13 +466,9 @@ sins and perpetration of anything that is an obstacle in the Godward
 wayfaring and which amounts to a betrayal of trust. That is because the
 Divine duties are Divine trusts, as pointed out in this noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
-وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
-وَحَمَلَهَا الْإِنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
+> وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
+> وَحَمَلَهَا الْإِنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا.﴾
 
 ***We offered the Trust to the heavens and the earth and the mountains,
 but they refused to carry it and were afraid of it; and man carried it.
@@ -524,17 +480,9 @@ trusts and their use in a manner contrary to God’s good pleasure is a
 betrayal of trust. Similarly, turning the heart’s attention to anything
 other than God is a treachery:
 
-<blockquote dir="rtl">
-  <p>
-اين جان عاريت كه به حافظ سپرده دوست
-  </p>
-</blockquote>
+> اين جان عاريت كه به حافظ سپرده دوست
 
-<blockquote dir="rtl">
-  <p>
-روزي رخش ببينم وتسليم وي كنم
-  </p>
-</blockquote>
+> روزي رخش ببينم وتسليم وي كنم
 
 *This soul that the Friend had lent to Hafiz as a trust,*
 
@@ -587,18 +535,14 @@ prostrations of a man, for that is something which he does out of habit
 and would be upset if he were to neglect them. But look at the
 truthfulness of his speech and his fulfillment of trusts.[^15]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أَبِي كَهْمَسَ قَالَ: قُلْتُ لأَبِي عَبْدِاللهِ
-عَلَيْهِ السَّلامُ: عَبْدُاللهِ بْنُ أَبِي يَعْفُورَ يُقْرِئُكَ
-السَّلامَ. قَالَ: عَلَيْكَ وَعَلَيْهِ السَّلامُ، إذَا أَتَيْتَ
-عَبْدَاللهِ فَأَقْرِئْهُ السَّلامَ وَقُلْ لَهُ: إنَّ جَعْفَرَ بْنَ
-مُحَمَّدٍ يَقُولُ لَكَ انْظُرْ مَا بَلَغَ بِهِ عَلِيٌّ عِنْدَ رَسُولِ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فَالْزَمْهُ فَإنَّ عَلِيّاً
-عَلَيْهِ السَّلامُ إنَّمَا بَلَغَ مَا بَلَغَ بِهِ عِنْدَ رَسُولِ اللهِ
-بِصِدْقِ الحَدِيثِ وَأَدَاءِ الأَمَانَةِ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أَبِي كَهْمَسَ قَالَ: قُلْتُ لأَبِي عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ: عَبْدُاللهِ بْنُ أَبِي يَعْفُورَ يُقْرِئُكَ
+> السَّلامَ. قَالَ: عَلَيْكَ وَعَلَيْهِ السَّلامُ، إذَا أَتَيْتَ
+> عَبْدَاللهِ فَأَقْرِئْهُ السَّلامَ وَقُلْ لَهُ: إنَّ جَعْفَرَ بْنَ
+> مُحَمَّدٍ يَقُولُ لَكَ انْظُرْ مَا بَلَغَ بِهِ عَلِيٌّ عِنْدَ رَسُولِ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فَالْزَمْهُ فَإنَّ عَلِيّاً
+> عَلَيْهِ السَّلامُ إنَّمَا بَلَغَ مَا بَلَغَ بِهِ عِنْدَ رَسُولِ اللهِ
+> بِصِدْقِ الحَدِيثِ وَأَدَاءِ الأَمَانَةِ.
 
 (Al-Kulayni reports) with his isnad from Abu Kahmas that he said: I said
 to Abu ‘Abd Allah (A): “Abd Allah ibn Abi Ya’fur conveys his salam to
@@ -622,17 +566,13 @@ deeds and characteristics, to Ibn Abi Ya’fur, who was a dedicated and
 self-effacing follower of the Imam, and sends him a message asking him
 to cling to them, because they were very important in his blessed eyes.
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: قَالَ
-أَبُو ذَرٍّ رَضِيَ اللهُ عَنْهُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ يَقُولُ: حَافَّتَا الصِّرَاطِ يَوْمَ القِيَامَةِ
-الرَّحِمُ وَأَدَاءُ الأَمَانَةِ. فَإذَا مَرَّ الوَصُولُ لِلرَّحِمِ
-المُؤَدِّي لِلأَمَانَةِ نَفَذَ إلَى الجَنَّةِ. وَإذَا مَرَّ الخَائِنُ
-لِلأَمَانَةِ القَطُوعُ لِلرَّحِمِ لَمْ يَنْفَعْهُ مَعَهُمَا عَمَلٌ
-وَتَكَفَّأَ بِهِ الصِّرَاطُ فِي النَّارِ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: قَالَ
+> أَبُو ذَرٍّ رَضِيَ اللهُ عَنْهُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ يَقُولُ: حَافَّتَا الصِّرَاطِ يَوْمَ القِيَامَةِ
+> الرَّحِمُ وَأَدَاءُ الأَمَانَةِ. فَإذَا مَرَّ الوَصُولُ لِلرَّحِمِ
+> المُؤَدِّي لِلأَمَانَةِ نَفَذَ إلَى الجَنَّةِ. وَإذَا مَرَّ الخَائِنُ
+> لِلأَمَانَةِ القَطُوعُ لِلرَّحِمِ لَمْ يَنْفَعْهُ مَعَهُمَا عَمَلٌ
+> وَتَكَفَّأَ بِهِ الصِّرَاطُ فِي النَّارِ.
 
 (Al-Kulayni reports) with his isnad from Abu Ja’far (A) that he said:
 Abu Dharr (R) said: I heard the Messenger of Allah (S) say: “On the Day
@@ -649,26 +589,18 @@ assist one who has fulfilled the duties of blood relationship and
 discharged his trusts. No work will benefit him if he has violated these
 two, and they will cast him into hell.
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ
-أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: أَدُّوا الأَمَانَةَ وَلَوْ
-إلَى قَاتِلِ وُلْدِ الأَنْبِيَاءِ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ
+> أَمِيرُ المُؤْمِنِينَ عَلَيْهِ السَّلامُ: أَدُّوا الأَمَانَةَ وَلَوْ
+> إلَى قَاتِلِ وُلْدِ الأَنْبِيَاءِ.
 
 Al-Kulayni reports) with his isnad from Abu ‘Abd Allah (A) that he said:
 Amir al-Mu’minin (A) said, “Discharge your trusts, even if they pertain
 to a murderer of the offspring of the Prophets.”[^18]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي وَصِيَّةٍ
-لَهُ: إعْلَمْ أنَّ ضَارِبَ عَلِيٍّ عَلَيْهِ السَّلامُ بِالسَّيْفِ
-وَقَاتِلَهُ لَوِ ائْتَمَنَنِي وَاسْتَنْصَحَنِي وَاسْتَشَارَنِي ثُمَّ
-قَبِلْتُ ذَلِكَ مِنْهُ لأَدَّيْتُ إلَيْهِ الأَمَانَةَ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ فِي وَصِيَّةٍ
+> لَهُ: إعْلَمْ أنَّ ضَارِبَ عَلِيٍّ عَلَيْهِ السَّلامُ بِالسَّيْفِ
+> وَقَاتِلَهُ لَوِ ائْتَمَنَنِي وَاسْتَنْصَحَنِي وَاسْتَشَارَنِي ثُمَّ
+> قَبِلْتُ ذَلِكَ مِنْهُ لأَدَّيْتُ إلَيْهِ الأَمَانَةَ.
 
 (Al-Kulayni reports) with his isnad from Abu ‘Abd Allah (A) that he said
 in one of his exhortations, “Know shat even if the assassin of ‘Ali (A)
@@ -676,18 +608,14 @@ who struck him with the sword, were to entrust me with something and
 were he to seek my advice and counsel, and were I to accept his request,
 I would not betray his trust.”[^19]
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدُ بْنُ عَلِيِّ بْنِ الحُسَيْنِ بِإسْنَادِهِ عَنْ أَبِي
-حَمْزَةَ الثُّمَالِيِّ قَالَ: سَمِعْتُ سَيِّدَ العَابِدِينَ عَلِيَّ
-بْنَ الحُسَيْنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ
-يَقُولُ لِشِيعَتِهِ: عَلَيْكُمْ بِأَدَاءِ الأَمَانَةِ، فَوَالَّذِي
-بَعَثَ مُحَمَّداً صَلَّى اللهُ عَلَيْهِ وَآلِهِ بِالحَقِّ نَبِيّاً
-لَوْ أنَّ قَاتِلَ أَبِي الحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِمَا السَّلامُ
-ائْتَمَنَنِي عَلَى السَّيْفِ الَّذِي قَتَلَهُ بِهِ لأَدَّيْتُهُ
-إلَيْهِ.
-  </p>
-</blockquote>
+> مُحَمَّدُ بْنُ عَلِيِّ بْنِ الحُسَيْنِ بِإسْنَادِهِ عَنْ أَبِي
+> حَمْزَةَ الثُّمَالِيِّ قَالَ: سَمِعْتُ سَيِّدَ العَابِدِينَ عَلِيَّ
+> بْنَ الحُسَيْنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ عَلَيْهِ السَّلامُ
+> يَقُولُ لِشِيعَتِهِ: عَلَيْكُمْ بِأَدَاءِ الأَمَانَةِ، فَوَالَّذِي
+> بَعَثَ مُحَمَّداً صَلَّى اللهُ عَلَيْهِ وَآلِهِ بِالحَقِّ نَبِيّاً
+> لَوْ أنَّ قَاتِلَ أَبِي الحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِمَا السَّلامُ
+> ائْتَمَنَنِي عَلَى السَّيْفِ الَّذِي قَتَلَهُ بِهِ لأَدَّيْتُهُ
+> إلَيْهِ.
 
 Muhammad ibn ‘Ali ibn al-Husayn reports with his isnad from Abu Hamzah
 al-Thumali that he said: I heard the Master of the Devout, ‘Ali ibn
@@ -697,17 +625,13 @@ with the Truth as a Prophet, even if the killer of my father, al-Husayn
 ibn ‘Ali (A) were to entrust me with the sword with which he had killed
 him, I would not betray his trust.”[^20]
 
-<blockquote dir="rtl">
-  <p>
-وِبِإسْنَادِهِ عَنِ الصَّادِقِ عَلَيْهِ السَّلامُ عَنْ آبَائِهِ
-عَلَيْهِمُ السَّلامُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي
-حَدِيثِ المَنَاهِي أنَّهُ نَهَى عَنِ الخِيَانَةِ وَقَالَ: مَنْ خَانَ
-أَمَانَةً فِي الدُّنْيَا وَلَمْ يَرُدَّهَا إلَى أَهْلِهَا ثُمَّ
-أَدْرَكَهُ المَوْتُ مَاتَ عَلَى غَيْرِ مِلَّتِي وَيَلْقَى اللهَ وَهُوَ
-عَلَيْهِ غَضْبَانَ. وَمَنِ اشْتَرَى خِيَانَةً وَهُوَ يَعْلَمُ فَهُوَ
-كَالَّذِي خَانَهَا.
-  </p>
-</blockquote>
+> وِبِإسْنَادِهِ عَنِ الصَّادِقِ عَلَيْهِ السَّلامُ عَنْ آبَائِهِ
+> عَلَيْهِمُ السَّلامُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي
+> حَدِيثِ المَنَاهِي أنَّهُ نَهَى عَنِ الخِيَانَةِ وَقَالَ: مَنْ خَانَ
+> أَمَانَةً فِي الدُّنْيَا وَلَمْ يَرُدَّهَا إلَى أَهْلِهَا ثُمَّ
+> أَدْرَكَهُ المَوْتُ مَاتَ عَلَى غَيْرِ مِلَّتِي وَيَلْقَى اللهَ وَهُوَ
+> عَلَيْهِ غَضْبَانَ. وَمَنِ اشْتَرَى خِيَانَةً وَهُوَ يَعْلَمُ فَهُوَ
+> كَالَّذِي خَانَهَا.
 
 (Al-Saduq reports) with his isnad from Imam al-Sadiq (A)that he narrated
 from his ancestors from the Prophet (S) that, in a tradition concerning
@@ -763,22 +687,14 @@ Noble Messenger (S).
 
 It is mentioned in a famous *hadith* that:
 
-<blockquote dir="rtl">
-  <p>
-قَلْبُ المُؤْمِنِ عَرْشُ الرَّحْمَنِ.
-  </p>
-</blockquote>
+> قَلْبُ المُؤْمِنِ عَرْشُ الرَّحْمَنِ.
 
 The heart of the believer is the throne of the All-Beneficent.
 
 And it is said in a well-known *hadith qudsi*
 
-<blockquote dir="rtl">
-  <p>
-لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
-المُؤْمِنُ.
-  </p>
-</blockquote>
+> لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
+> المُؤْمِنُ.
 
 Neither [the vastness of] My earth, nor [that of] My heaven can contain
 Me. Indeed it is the heart of the man of faith which can contain
@@ -877,16 +793,12 @@ pages described all these stages to some extent, we shall confine
 ourselves here to citing some traditions concerning the merits of the
 fear of God:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدُ بْنُ يَعْقُوبَ بِإسْنَادِهِ عَنِ إسْحَاقَ بْنِ عَمَّارٍ
-قَالَ: قَالَ أَبُو عَبْدِاللهِ الصَّادِقِ عَلَيْهِ السَّلامُ: «خَفِ
-اللّهَ كَأَنَّكَ تَرَاهُ، وَإنْ كُنْتَ لا تَرَاهُ فَإنَّهُ يَرَاكَ،
-وَإنْ كُنْتَ تَرَى أنَّهُ لا يَرَاكَ فَقَدْ كَفَرْتَ، وَإنْ كُنْتَ
-تَعْلَمُ أنَّهُ يَرَاكَ ثُمَّ بَرَزْتَ لَهُ بِالمَعْصِيَةِ، فَقَدْ
-جَعَلْتَهُ مِنْ أَهْوَنِ النَّاظِرِينَ إلَيْكَ.»
-  </p>
-</blockquote>
+> مُحَمَّدُ بْنُ يَعْقُوبَ بِإسْنَادِهِ عَنِ إسْحَاقَ بْنِ عَمَّارٍ
+> قَالَ: قَالَ أَبُو عَبْدِاللهِ الصَّادِقِ عَلَيْهِ السَّلامُ: «خَفِ
+> اللّهَ كَأَنَّكَ تَرَاهُ، وَإنْ كُنْتَ لا تَرَاهُ فَإنَّهُ يَرَاكَ،
+> وَإنْ كُنْتَ تَرَى أنَّهُ لا يَرَاكَ فَقَدْ كَفَرْتَ، وَإنْ كُنْتَ
+> تَعْلَمُ أنَّهُ يَرَاكَ ثُمَّ بَرَزْتَ لَهُ بِالمَعْصِيَةِ، فَقَدْ
+> جَعَلْتَهُ مِنْ أَهْوَنِ النَّاظِرِينَ إلَيْكَ.»
 
 Muhammad ibn Ya’qub reports with his isnad from Ishaq ibn ‘Ammar that he
 said: Abu ‘Abd Allah (A) said, “O Ishaq, fear God as if you see Him. For
@@ -907,22 +819,14 @@ know that God, the Exalted, is present in all places and realms, and he
 would observe Him with unmediated knowledge (*‘ilm* *huduri*) in all
 existents, as stated by Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-مَا رَأَيْتُ شَيْئاً إلاّ وَرَأَيْتُ اللهَ مَعَهُ أَوْ فِيهِ.
-  </p>
-</blockquote>
+> مَا رَأَيْتُ شَيْئاً إلاّ وَرَأَيْتُ اللهَ مَعَهُ أَوْ فِيهِ.
 
 I don’t see a thing without seeing God with it or in it.
 
 In the intimacy of the *nawafil* (supererogatory prayers) the true
 meaning of:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُ سَمْعَهُ وَبَصَرَهُ وَيَدَهُ.
-  </p>
-</blockquote>
+> كُنْتُ سَمْعَهُ وَبَصَرَهُ وَيَدَهُ.
 
 I will be his hearing, his sight and his hand,
 
@@ -967,43 +871,27 @@ spiritual counsel that he gave to Hadrat Amir (A) and which we are now
 engaged in expounding. The same station is referred to in the noble
 tradition narrated by Ishaq ibn ‘Ammar, wherein the Imam (A) says:
 
-<blockquote dir="rtl">
-  <p>
-وَالثَّالِثَةُ الخَوْفُ مِنَ اللهِ عَزَّ ذِكْرُهُ كَأَنَّكَ تَرَاهُ.
-  </p>
-</blockquote>
+> وَالثَّالِثَةُ الخَوْفُ مِنَ اللهِ عَزَّ ذِكْرُهُ كَأَنَّكَ تَرَاهُ.
 
 And the third thing is to fear God-sublime is His remembrance-as if you
 see Him.
 
 And where he says:
 
-<blockquote dir="rtl">
-  <p>
-خَفِ اللهَ كَأَنَّكَ تَرَاهُ.
-  </p>
-</blockquote>
+> خَفِ اللهَ كَأَنَّكَ تَرَاهُ.
 
 Fear God as if you see Him.
 
 Imam al-Sadiq (A) refers to the second station where he says:
 
-<blockquote dir="rtl">
-  <p>
-وَإنْ كُنْتَ لا تَرَاهُ فَإنَّهُ يَرَاكَ.
-  </p>
-</blockquote>
+> وَإنْ كُنْتَ لا تَرَاهُ فَإنَّهُ يَرَاكَ.
 
 For if you don’t see Him, verily He sees you.
 
 Imam al-Sadiq (A) refers to the natural proclivity to observe presence
 in his statement:
 
-<blockquote dir="rtl">
-  <p>
-وَإنْ كُنْتَ تَعْلَمُ أنَّهُ يَرَاكَ…
-  </p>
-</blockquote>
+> وَإنْ كُنْتَ تَعْلَمُ أنَّهُ يَرَاكَ…
 
 And if you know that He indeed sees you
 
@@ -1016,12 +904,8 @@ Greatness of God and the manifestations of Divine Might and Glory. It is
 possible not to reckon this station as a level of ‘fear’, as stated by
 the famous ‘*arif* in *Manazil al-sa’irin:*
 
-<blockquote dir="rtl">
-  <p>
-وَلَيْسَ فِي مَقَامِ أَهْلِ الخُصُوصِ وَحْشَةٌ إلاّ هَيْبَةَ
-الإجْلالِ.
-  </p>
-</blockquote>
+> وَلَيْسَ فِي مَقَامِ أَهْلِ الخُصُوصِ وَحْشَةٌ إلاّ هَيْبَةَ
+> الإجْلالِ.
 
 That is, there exists no fear for the people of the heart and the
 mysteries of *wilayah* except the awe of Divine Majesty, Magnificence,
@@ -1041,16 +925,12 @@ bestowed for every tear that he sheds a palace ornamented with jewels
 and pearls every paradise the like of which no eye has ever seen, no ear
 has ever heard, and no heart has ever imagined.”
 
-<blockquote dir="rtl">
-  <p>
-عَنْ ثَوَابِ الأَعْمَالِ: بِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ
-السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ عَلَيْهِ السَّلامُ: لَيْسَ شَيْءٌ
-إلاّ وَلَهُ شَيْءٌ يَعْدِلُهُ إلاّ اللهُ، فَإنَّهُ لا يَعْدِلُهُ
-شَيْءٌ، وَلا إلَهَ إلاّ اللهُ لا يَعْدِلُهُ شَيْءٌ، وَدَمْعَةٌ مِنْ
-خَوْفِ اللهِ فَإنَّهُ لَيْسَ لَهَا مِثْقَالٌ، فَإنْ سَالَتْ عَلَى
-وَجْهِهِ لَمْ يَرْهَقْهُ قَتَرٌ وَلا ذِلَّةٌ بَعْدَهَا أَبَداً.
-  </p>
-</blockquote>
+> عَنْ ثَوَابِ الأَعْمَالِ: بِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ
+> السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ عَلَيْهِ السَّلامُ: لَيْسَ شَيْءٌ
+> إلاّ وَلَهُ شَيْءٌ يَعْدِلُهُ إلاّ اللهُ، فَإنَّهُ لا يَعْدِلُهُ
+> شَيْءٌ، وَلا إلَهَ إلاّ اللهُ لا يَعْدِلُهُ شَيْءٌ، وَدَمْعَةٌ مِنْ
+> خَوْفِ اللهِ فَإنَّهُ لَيْسَ لَهَا مِثْقَالٌ، فَإنْ سَالَتْ عَلَى
+> وَجْهِهِ لَمْ يَرْهَقْهُ قَتَرٌ وَلا ذِلَّةٌ بَعْدَهَا أَبَداً.
 
 In the Thawab al-‘a’mal (al-Shaykh al-Saduq reports) with his isnad from
 Abu Ja’far (A)that he said: The Messenger of Allah (S) said, “Except
@@ -1106,11 +986,7 @@ deservedness, gives a manifold reward to His servants? A world whose
 very basis has been decreed in accordance with [the principle of] the
 influence of the human will, and regarding which He has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَفِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ.﴾
-  </p>
-</blockquote>
+> ﴿وَفِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ.﴾
 
 ***Therein being whatever the souls desire, and the eyes delight in.***
 (***43:71***)
@@ -1152,22 +1028,14 @@ the Glorious and the Celestial Qur’an. The likes of such rewards are
 also mentioned there, as in the following statements of God, the
 Exalted:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ.﴾
-  </p>
-</blockquote>
+> ﴿لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ.﴾
 
 ***The Night of al-Qadr is better than a thousand months.***
 (***97:3***)
 
-<blockquote dir="rtl">
-  <p>
-﴿مَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ
-كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ
-مِائَةُ حَبَّةٍ وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ.﴾
-  </p>
-</blockquote>
+> ﴿مَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ
+> كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ
+> مِائَةُ حَبَّةٍ وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ.﴾
 
 ***The likeness of those who expend their wealth in the way of God is as
 the likeness of a grain of corn that sprouts seven ears, in every ear a
@@ -1231,11 +1099,7 @@ the basis of the apparent import (*zahir*) of certain prescriptions and
 traditions that have been narrated in regard to the interpretation of
 the sacred verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿فَصَلِّ لِرَبِّكَ وَانْحَرْ.﴾
-  </p>
-</blockquote>
+> ﴿فَصَلِّ لِرَبِّكَ وَانْحَرْ.﴾
 
 that the word *nahr* in the command of God, the Exalted, means the
 raising of the hands at the time of *takbirat.*[^28] But there are many
@@ -1311,11 +1175,7 @@ their way and it does not engage their attention or preoccupy their
 hearts. They remove it with yet another *takbirah,* as if from the inner
 core of their hearts there arises the song:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ أَكْبَرُ مِنْ أَنْ يَتَجَلَّى تَجَلِّياً تَقْلِيدِيّاً.
-  </p>
-</blockquote>
+> اللهُ أَكْبَرُ مِنْ أَنْ يَتَجَلَّى تَجَلِّياً تَقْلِيدِيّاً.
 
 Allah is greater than that He should manifest Himself with a conditioned
 manifestation (tajjali),
@@ -1329,11 +1189,7 @@ of communion removes one veil after another until he reaches the last
 *takbirah* with which he removes the seventh veil and rejects every
 ‘other’ and ‘otherness,’ declaring,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ.﴾
-  </p>
-</blockquote>
+> ﴿وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ.﴾
 
 ***I have turned my face to Him who originated the heavens and the
 earth.*** (***6:79***)
@@ -1344,15 +1200,11 @@ with God and enters in the Name of God, the Exalted. To this refers the
 noble tradition of Muhammad ibn ‘Ali ibn al-Husayn (R) who reports with
 his *isnad* from Abu al-Hasan (A):
 
-<blockquote dir="rtl">
-  <p>
-بِإسْنَادِهِ عَنْ أَبِي الحَسَنِ عَلَيْهِ السَّلامُ أَنَّهُ رَوَى
-لِذَلِكَ عِلَّةً أُخْرَى وَهِيَ: أنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ لَمَّا أُسْرِيَ بِهِ إلَى السَّمَاءِ قَطَعَ سَبْعَ حُجُبٍ
-فَكَبَّرَ عِنْدَ كُلِّ حِجَابٍ تَكْبِيرَةً فَأَوْصَلَهُ اللهُ عَزَّ
-وَجَلَّ بِذَلِكَ إلَى مُنْتَهَى الكَرَامَةِ.
-  </p>
-</blockquote>
+> بِإسْنَادِهِ عَنْ أَبِي الحَسَنِ عَلَيْهِ السَّلامُ أَنَّهُ رَوَى
+> لِذَلِكَ عِلَّةً أُخْرَى وَهِيَ: أنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ لَمَّا أُسْرِيَ بِهِ إلَى السَّمَاءِ قَطَعَ سَبْعَ حُجُبٍ
+> فَكَبَّرَ عِنْدَ كُلِّ حِجَابٍ تَكْبِيرَةً فَأَوْصَلَهُ اللهُ عَزَّ
+> وَجَلَّ بِذَلِكَ إلَى مُنْتَهَى الكَرَامَةِ.
 
 (Al-Shaykh al-Saduq reports) with his isnad from Abu al-Hasan (A) that
 he has narrated another reason for it and that is that when the Prophet
@@ -1426,16 +1278,12 @@ traditions, and many a fruitful quality and profitable result is
 ascribed to it. Here, in these pages, we shall cite some of them for the
 sake of *tabarruk*
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-فِي السِّوَاكِ اثْنَتَا عَشْرَةَ خِصْلَةً: هُوَ مِنَ السُّنَّةِ
-وَمُطَهِّرَةٌ لِلْفَمِ وَمَجْلاةٌ لِلْبَصَرِ وَيُرْضِي الرَّبَّ
-وَيُذْهِبُ البَلْغَمَ وَيَزِيدُ فِي الحِفْظِ وَيُبَيِّضُ الأَسْنَانَ
-وَيُضَاعِفُ الحَسَنَاتِ وَيُذْهِبُ بِالحَفْرِ وَيَشُدُّ اللَّثَّةَ
-وَيُشَهِّي الطَّعَامَ وَيَفْرَحُ بِهِ المَلائِكَةَ.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> فِي السِّوَاكِ اثْنَتَا عَشْرَةَ خِصْلَةً: هُوَ مِنَ السُّنَّةِ
+> وَمُطَهِّرَةٌ لِلْفَمِ وَمَجْلاةٌ لِلْبَصَرِ وَيُرْضِي الرَّبَّ
+> وَيُذْهِبُ البَلْغَمَ وَيَزِيدُ فِي الحِفْظِ وَيُبَيِّضُ الأَسْنَانَ
+> وَيُضَاعِفُ الحَسَنَاتِ وَيُذْهِبُ بِالحَفْرِ وَيَشُدُّ اللَّثَّةَ
+> وَيُشَهِّي الطَّعَامَ وَيَفْرَحُ بِهِ المَلائِكَةَ.
 
 In al-Kafi (al-Kulayni reports) with his isnad from Abu ‘Abd Allah (A)
 that he said, “There are twelve qualities associated with the brushing
@@ -1554,11 +1402,7 @@ these pages and are not that useful for the likes of us. That which must
 be known is that in accordance with this tradition narrated from the
 Noblest Messenger (S):
 
-<blockquote dir="rtl">
-  <p>
-بُعِثْتُ لِأُتَمِّمَ مَكَارِمِ الأَخْلاقِ.
-  </p>
-</blockquote>
+> بُعِثْتُ لِأُتَمِّمَ مَكَارِمِ الأَخْلاقِ.
 
 I have been sent to perfect noble dispositions,[^41]
 
@@ -1588,11 +1432,7 @@ or have acquired in improper company and friendship. Rather, we keep on
 adding to this burden every day, as if we didn’t believe that there is
 another world and another phase of lasting existence:
 
-<blockquote dir="rtl">
-  <p>
-واى اگر از پس امروز بود فردايى
-  </p>
-</blockquote>
+> واى اگر از پس امروز بود فردايى
 
 Woe, if there be a tomorrow after this![^42]
 
@@ -1626,17 +1466,13 @@ find a remedy for your ignorance which is the mother of all diseases.
 We conclude this topic with the mention of some noble traditions related
 to this theme for *tabarruk’s* sake:
 
-<blockquote dir="rtl">
-  <p>
-الفَقِيهُ: بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
-قَالَ: إنَّ اللهَ خَصَّ رَسُولَهُ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-بِمَكَارِمِ الأَخْلاقِ فَامْتَحِنُوا أَنْفُسَكُمْ، فَإنْ كَانَتْ
-فِيكُمْ فَاحْمِدُوا اللهَ وَارْغَبُوا إلَيْهِ فِي الزِّيَادَةِ
-مِنْهَا؛ فَذَكَرَهَا عَشْرَةً: اليَقِينُ وَالقَنَاعَةُ وَالصَّبْرُ
-وَالشُّكْرُ وَالحِلْمُ وَحُسْنُ الخَلْقِ وَالسَّخَاءِ وَالغِيرَةُ
-وَالشَّجَاعَةُ وَالمُرُوءَةُ.
-  </p>
-</blockquote>
+> الفَقِيهُ: بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> قَالَ: إنَّ اللهَ خَصَّ رَسُولَهُ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> بِمَكَارِمِ الأَخْلاقِ فَامْتَحِنُوا أَنْفُسَكُمْ، فَإنْ كَانَتْ
+> فِيكُمْ فَاحْمِدُوا اللهَ وَارْغَبُوا إلَيْهِ فِي الزِّيَادَةِ
+> مِنْهَا؛ فَذَكَرَهَا عَشْرَةً: اليَقِينُ وَالقَنَاعَةُ وَالصَّبْرُ
+> وَالشُّكْرُ وَالحِلْمُ وَحُسْنُ الخَلْقِ وَالسَّخَاءِ وَالغِيرَةُ
+> وَالشَّجَاعَةُ وَالمُرُوءَةُ.
 
 In Man La yahduruh al-faqih, (al-Shaykh al-Saduq reports) with his isnad
 from Abu ‘Abd Allah (A) that he said, “Verily, God favored His Messenger
@@ -1652,16 +1488,12 @@ except that *rida* (satisfaction), instead of *hilm*,[^46] occurs in the
 citation from the Ma’ani al-’akhbar. In al-Wafi, this tradition has been
 cited with a slightly different wording from *al-Kafi*.[^47]
 
-<blockquote dir="rtl">
-  <p>
-عَنِ المَجَالِسِ بِإسْنَادِهِ عَنِ الصَّادِقِ جَعْفَرِ بْنِ مُحَمَّدٍ
-عَلَيْهِمَا السَّلامُ أنَّهُ قَالَ: عَلَيْكُمْ بِمَكَارِمِ الأخْلاقِ
-فَإنَّ اللهَ عَزَّ وَجَلَّ يُحِبُّهُمَا وَإيَّاكُمْ وَمَذَامَّ
-الأَفْعَالِ فَإنَّ اللهَ يَبْغُضُهَا إلَى أَنْ قَالَ: وَعَلَيْكُمْ
-بِحُسْنِ الخُلُقِ فَإنَّهُ يَبْلُغُ بِصَاحِبِهِ دَرَجَةَ الصَّائِمِ
-القَائِمِ... الحديث.
-  </p>
-</blockquote>
+> عَنِ المَجَالِسِ بِإسْنَادِهِ عَنِ الصَّادِقِ جَعْفَرِ بْنِ مُحَمَّدٍ
+> عَلَيْهِمَا السَّلامُ أنَّهُ قَالَ: عَلَيْكُمْ بِمَكَارِمِ الأخْلاقِ
+> فَإنَّ اللهَ عَزَّ وَجَلَّ يُحِبُّهُمَا وَإيَّاكُمْ وَمَذَامَّ
+> الأَفْعَالِ فَإنَّ اللهَ يَبْغُضُهَا إلَى أَنْ قَالَ: وَعَلَيْكُمْ
+> بِحُسْنِ الخُلُقِ فَإنَّهُ يَبْلُغُ بِصَاحِبِهِ دَرَجَةَ الصَّائِمِ
+> القَائِمِ... الحديث.
 
 In al-Majalis (al-Shaykh al-Saduq reports) with his isnad from Ja’far
 ibn Muhammad (A) that he said, “Acquire moral virtues, for, verily, God
@@ -1670,24 +1502,16 @@ loves them, and beware of blameworthy conduct for God hates it”
 possesses it to the rank of those who fast (perpetually) and stand in
 prayer (through the night, constantly)”[^48]
 
-<blockquote dir="rtl">
-  <p>
-الكَافِِي بِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ:
-إنَّ أَكْمَلَ المُؤْمِنِينَ أيمَاناً أَحْسَنُهُمْ أخْلاقاً.
-  </p>
-</blockquote>
+> الكَافِِي بِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ:
+> إنَّ أَكْمَلَ المُؤْمِنِينَ أيمَاناً أَحْسَنُهُمْ أخْلاقاً.
 
 In al-Kafi (al-Kulayni reports) with his isnad from Abu Ja’far (A) that
 he said, “Among believers the most perfect in faith is the one who is
 the most fairly disposed amongst them.”[^49]
 
-<blockquote dir="rtl">
-  <p>
-وَبِإسْنَادِهِ عَنْ عَلِيِّ بْنِ الحُسَيْنِ عَلَيْهِمَا السَّلامُ
-قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَا يُوضَعُ
-فِي مِيزَانِ امْرِئٍ يَوْمَ القِيَامَةِ أَفْضَلُ مِنْ حُسْنِ الخُلُقِ.
-  </p>
-</blockquote>
+> وَبِإسْنَادِهِ عَنْ عَلِيِّ بْنِ الحُسَيْنِ عَلَيْهِمَا السَّلامُ
+> قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَا يُوضَعُ
+> فِي مِيزَانِ امْرِئٍ يَوْمَ القِيَامَةِ أَفْضَلُ مِنْ حُسْنِ الخُلُقِ.
 
 (Al-Kulayni reports) with his isnad from ‘Ali ibn al-Husayn (A) that he
 said: The Messenger of Allah (S) said, “There will be nothing superior
@@ -1717,13 +1541,9 @@ so also ill- naturedness, on the contrary, corrupts one’s faith and
 subjects one to Divine chastisement, as pointed out in the sacred
 traditions:
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
-إنَّ سُوءَ الخُلُقِ لَيُفْسِدُ الإيمَانَ كَمَا يُفْسِدُ الخَلُّ
-العَسَلَ.
-  </p>
-</blockquote>
+> الكَافِي بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ:
+> إنَّ سُوءَ الخُلُقِ لَيُفْسِدُ الإيمَانَ كَمَا يُفْسِدُ الخَلُّ
+> العَسَلَ.
 
 In al-Kafi (al-Kulayni reports) with his isnad from Abu ‘Abd Allah (A)
 that he said, “Verily, ill-naturedness destroys one’s faith in the same
@@ -1898,5 +1718,4 @@ husn al-khulq,” hadith 2.
 
 [^57]: Usul al-Kafi, vol. ii, p. 99, “kitab al-iman wa al-kufr,” “bab
 husn al-khulq,” hadith 4.
-
 

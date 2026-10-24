@@ -33,9 +33,9 @@ Allah, what is benevolence? He said: It is to fear Allah as if you are
 seeing Him, since if you see Him not He is verily seeing you…etc. We
 discussed this hadith in details in our book Shaykh al-mudirah, so it is
 better to refer to it with reading what Dr. Taha Husayn stated about it.
-<span id="_anchor_142"></span>142
+142
 
-Abu Ayyub <span id="_anchor_143"></span>143  is reported to have said: A
+Abu Ayyub 143  is reported to have said: A
 man came to the Prophet and said to him: Inform me what act I can do to
 bring me near the heavens, and distance me from the Fire. He said: You
 should worship Allah without taking anything a partner to Him, establish
@@ -57,7 +57,7 @@ to look at a man from paradise inhabitants, he is asked to look at this
 man.
 
 In his comment on these traditions, al-Imam al-Nawawi said (in the very
-words): <span id="_anchor_144"></span>144  “Know that any reference to
+words): 144  “Know that any reference to
 hajj (pilgrimage) was never made in hadith of Talhah or Gabriel hadith
 through narration of Abu Hurayrah. Besides, in some other traditions no
 reference was made to fasting (sawm), nor to zakat in some others. In
@@ -82,8 +82,7 @@ hadith. Don’t you see the hadith of al-Nu’man ibn Nawfal, regarding
 whose traits the narrations differed, by addition and reduction, though
 the narrator of all of them being one and the same?!
 
-Following is hadith of al-Nu’man ibn Nawfal: <span
-id="_anchor_145"></span>145  On the authority of Abu Sufyan, from Jabir,
+Following is hadith of al-Nu’man ibn Nawfal: 145  On the authority of Abu Sufyan, from Jabir,
 it is reported that the Prophet (upon whom be God’s peace and
 benediction) was visited by al-Nu’man ibn Nawfal who said to him: O
 Messenger of Allah, do you believe that when I perform the prescribed
@@ -96,7 +95,7 @@ Jabir that he said: Al-Nu’man ibn Nawfal said: O Messenger of Allah,
 with the similar hadith, and they added to it, while I haven’t added
 anything to it.
 
-### Hadith of I Married Her to You with What You Have <span id="_anchor_146"></span>146
+### Hadith of I Married Her to You with What You Have 146
 
 A woman came to the Prophet, intending to offer herself (for marriage)
 to him, whereat a man advanced forward saying: O Messenger of
@@ -153,7 +152,7 @@ believing in significations held it to be the ‘asr.
 
 Then Ibn Hajar said: Al-Bukhari has written it out of his memory, never
 observing the very words (of the Prophet) as was known in respect of his
-school <span id="_anchor_147"></span>147 which permitting this. This was
+school 147 which permitting this. This was
 opposite of the belief held by Muslim, who used to be so keen in
 conveying the very (Prophet’s) words, not permitting the same for those
 following him, and agreeing with him in conveying the same words,
@@ -217,11 +216,6 @@ religion refer it to me, and whatever is related to your world, you are
 better aware of it. In another narration reported by Ibn Rushd in his
 book al-Tahsil wa al-bayan, he (S) said: “I am neither a farmer nor
 owner of date palms.”
-
-  
-  
-  
-  
 
 142. Mir'at al-Islam, pp. 211, 212.
 

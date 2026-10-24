@@ -105,4 +105,3 @@ to our desires and refuses to submit to our wants. So when we encounter
 unpleasantness in our lives, we become unjustifiably upset and we term
 the causes of our discomfort as "evil."
 
-

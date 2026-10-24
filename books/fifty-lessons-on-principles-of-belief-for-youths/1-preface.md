@@ -73,4 +73,3 @@ Cultural Affairs Department
 
 The Ahl al-Bayt (a.s) World Assembly
 
-

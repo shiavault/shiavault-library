@@ -496,4 +496,3 @@ event, contrary to what some Sunnīs and a number of Shī‘ahs, with an
 identity loss, believe that it should. We have answered their claim in
 our book “A Re-reading of the Idea of Taqrīb”.
 
-

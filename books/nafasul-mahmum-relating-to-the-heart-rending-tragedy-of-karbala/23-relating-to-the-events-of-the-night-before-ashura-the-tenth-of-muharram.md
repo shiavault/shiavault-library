@@ -402,4 +402,3 @@ Ma’aliyas Sibtayn refutes the claim that there was water available. Thus
 it can be concluded that there was no water available in the tents of
 Imam Husayn (a.s.) since the seventh of Muharram. Allah knows best.
 
-

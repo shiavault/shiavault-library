@@ -70,12 +70,8 @@ It is obligatory to say the “quadruple Labbayks” during Ihram with
 correct Arabic accent and it should be as follows as obligatory
 precaution:
 
-<blockquote dir="rtl">
-  <p>
-لَبّیْکَاللّهُمَّ لَبَّیْکَ، لَبَّیْکَ لا شَریکَ لَکَ لَبَّیْکَ،
-اِنَّالْحَمْدَ و النِّعْمَةَ لَکَ وَ الْمـُلْکَ، لا شَریکَ لَکَ.
-  </p>
-</blockquote>
+> لَبّیْکَاللّهُمَّ لَبَّیْکَ، لَبَّیْکَ لا شَریکَ لَکَ لَبَّیْکَ،
+> اِنَّالْحَمْدَ و النِّعْمَةَ لَکَ وَ الْمـُلْکَ، لا شَریکَ لَکَ.
 
 **Allah! I comply (and obey) you, again I comply to you, and one more
 time I obey you, there is no partner for you, I comply to you, solely
@@ -267,5 +263,4 @@ Article 87
 Whenever the Ihram clothing becomes Najis, the pilgrim should wash that,
 and if it is not possible he will do it whenever it is possible (If
 Rida’ becomes Najis the pilgrim can remove it temporarily).
-
 

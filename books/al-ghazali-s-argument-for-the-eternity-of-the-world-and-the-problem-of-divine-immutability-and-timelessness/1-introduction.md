@@ -48,4 +48,3 @@ this paper will provide alternative philosophical proofs that allow
 al-Ghazali to uphold his central thesis, while maintaining some air of
 the orthodoxy he sought to defend.
 
-

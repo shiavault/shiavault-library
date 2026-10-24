@@ -957,4 +957,3 @@ p. 32.
 [^20]: Carnegie, Dale, How to Win Friends (New York: Simon and Schustar
 Inc., 1937), p. 27.
 
-

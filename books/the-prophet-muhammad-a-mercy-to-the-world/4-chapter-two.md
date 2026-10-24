@@ -418,4 +418,3 @@ your clothes you are without clothes and have to cover yourself with
 straw matting. This was an indication from God that He would be pleased
 with the Prophet even if he was less of a paradigm.
 
-

@@ -296,12 +296,8 @@ they can traverse the course of perfection, man is able to change these
 blessings of Allah into calamities and villainy because he is a
 free-willed agent. As Allah states:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللّهِ كُفْرًا
-وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللّهِ كُفْرًا
+> وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
 
 ***“Have you not regarded those who have changed Allah’s blessings with
 ingratitude, and landed their people in the house of ruin?”***[^4]
@@ -313,12 +309,8 @@ people. Association, brotherhood and fraternity are among the greatest
 divine blessings in which Allah has placed particular grace; as He has
 stated:
 
-<blockquote dir="rtl">
-  <p>
-... وَاذْكُرُوا نِعْمَةَ اللّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً
-فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا...
-  </p>
-</blockquote>
+> ... وَاذْكُرُوا نِعْمَةَ اللّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً
+> فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا...
 
 ***“…And remember Allah’s blessings upon you when you were enemies. Then
 He brought your hearts together, so you became brothers with His
@@ -413,13 +405,9 @@ deviating from the right path and the way of the prophets of Allah and
 thus oppressed himself and on this account became caught up in the fire
 of divine wrath and bit his fingers in regret and sorrow, saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلاَنًا خَلِيلاً \* لَقَدْ
-أَضَلَّنِي عَنْ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ
-لِلإِنسَانِ خَذُولاً
-  </p>
-</blockquote>
+> يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلاَنًا خَلِيلاً \* لَقَدْ
+> أَضَلَّنِي عَنْ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ
+> لِلإِنسَانِ خَذُولاً
 
 ***“Woe to me! I wish I had not taken such a one as a friend! Certainly
 he led me astray from the Reminder after it had come to me, and Satan is
@@ -510,12 +498,8 @@ worship and invocation of Allah since man finds time to meditate about
 himself after being relieved from daily duties and dedicate his heart to
 the remembrance and invocation of Allah. Allah states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْأً وَأَقْوَمُ قِيلاً \*
-إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلاً
-  </p>
-</blockquote>
+> إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْأً وَأَقْوَمُ قِيلاً \*
+> إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلاً
 
 ***“Indeed the rising by night is the firmest way to tread and the best
 corrective of speech, for indeed during the day you have drawn out
@@ -664,12 +648,8 @@ minds of other people?!
 and that is why the term dictation has been employed. Allah, the
 Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ
-قَعِيدٌ \* مَا يَلْفِظُ مِنْ قَوْلٍ إِلاَّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
-  </p>
-</blockquote>
+> إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ
+> قَعِيدٌ \* مَا يَلْفِظُ مِنْ قَوْلٍ إِلاَّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
 
 ***“When the twin recorders record [his deeds], seated on the right hand
 and on the left—he says no word but that there is a ready observer
@@ -677,12 +657,8 @@ beside him.”***[^13]
 
 Elsewhere, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ بَلْ تُكَذِّبُونَ بِالدِّينِ \* وَإِنَّ عَلَيْكُمْ
-لَحَافِظِينَ \* كِرَامًا كَاتِبِينَ \* يَعْلَمُونَ مَا تَفْعَلُونَ
-  </p>
-</blockquote>
+> كَلاَّ بَلْ تُكَذِّبُونَ بِالدِّينِ \* وَإِنَّ عَلَيْكُمْ
+> لَحَافِظِينَ \* كِرَامًا كَاتِبِينَ \* يَعْلَمُونَ مَا تَفْعَلُونَ
 
 ***“No indeed! Rather you deny the Retribution. Indeed, there are over
 you watchers, noble writers; they are aware of what you do.”***[^14]
@@ -876,5 +852,4 @@ but instead try to look into our hearts and souls.
 [^15]: Asecnt of the Holy Prophet (S) to heaven.
 
 [^16]: Bihar al-Anwar, vol. 77, p. 27.
-
 

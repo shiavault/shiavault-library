@@ -273,7 +273,6 @@ There are many examples of this in thead'iyah of as-Sahifat as
 Sajjadiyyah, and if people would only listen to their guidance, they are
 full of all kinds of teachings in Divine morality.
 
-
 **36 Our Belief in Pilgrimage (ziyarah)
 to the Holy Shrines
 **

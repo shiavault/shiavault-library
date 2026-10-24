@@ -435,4 +435,3 @@ created.
 As a result, a deep contemplation on the world's phenomena will guide
 you to realize that the universe has a single God, Allah.
 
-

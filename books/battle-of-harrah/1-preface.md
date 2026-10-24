@@ -197,4 +197,3 @@ Ahmad Turābī
 
 [^3]: Al-Mufīd, Al-Irshād, vol. 2, p. 92.
 
-

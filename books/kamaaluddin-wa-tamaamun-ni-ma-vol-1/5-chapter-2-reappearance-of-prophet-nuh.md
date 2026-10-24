@@ -105,11 +105,7 @@ into hiding with the relics and began to lead a secret life. In this way
 after Nuh (a.s.) the rulership of Ham and Yafith became effective on
 Sam. It is for this that Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ
-  </p>
-</blockquote>
+> وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ
 
 ***And We perpetuated to him (praise) among the later
 generations.***[^1]
@@ -144,11 +140,7 @@ hardships had surrounded them fully and the enemies were destroyed by a
 wind sans benefit, a wind that the Almighty Allah has described as
 follows in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
-  </p>
-</blockquote>
+> مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
 
 ***“It did not leave aught on which it blew, but it made it like
 ashes.”***[^2]
@@ -171,5 +163,4 @@ Salih (a.s.).”
 [^1]: Surah Saffat 37:78
 
 [^2]: Surah Zariyat 51:42
-
 

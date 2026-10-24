@@ -8,15 +8,11 @@ of greenery and trees. In Quran, there are numerous verses, which
 promise Paradise to the believers and enumerate its different beauties
 and bounties; some of which are as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَبَشِّرِ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّلِحَتِ أَنَّ لَهُمْ
-جَنَّتٍ تَجْرِى مِن تَحْتِهَا الْأَنْهَرُ كُلَّمَا رُزِقُواْ مِنْهَا
-مِنْ ثَمَرَةٍ رِّزْقاً قَالُواْ هَذَا الَّذِى رُزِقْنَا مِن قَبْلُ
-وَأُتُواْ بِهِ مُتَشَبِهاً وَلَهُمْ فِيهَا أَزْوَ جٌ مُّطَهَّرَةٌ
-وَهُمْ فِيهَا خَلِدُونَ‏
-  </p>
-</blockquote>
+> وَبَشِّرِ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّلِحَتِ أَنَّ لَهُمْ
+> جَنَّتٍ تَجْرِى مِن تَحْتِهَا الْأَنْهَرُ كُلَّمَا رُزِقُواْ مِنْهَا
+> مِنْ ثَمَرَةٍ رِّزْقاً قَالُواْ هَذَا الَّذِى رُزِقْنَا مِن قَبْلُ
+> وَأُتُواْ بِهِ مُتَشَبِهاً وَلَهُمْ فِيهَا أَزْوَ جٌ مُّطَهَّرَةٌ
+> وَهُمْ فِيهَا خَلِدُونَ‏
 
 ***And convey good news to those who believe and do good deeds, that
 they shall have gardens in which rivers flow; whenever they shall be
@@ -24,67 +20,47 @@ given a portion of the fruit thereof, they shall say: This is what was
 given to us before; and they shall be given the like of it, and they
 shall have pure mates in them, and in them, they shall abide. (2:25)***
 
-<blockquote dir="rtl">
-  <p>
-لَكِنِ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ لَهُمْ جَنَّتٌ تَجْرِى مِنْ
-تَحْتِهَا الْأَنْهَرُ خَلِدِينَ فِيهَا نُزُلاً مِّنْ عِنْدِ اللَّهِ
-وَمَا عِنْدَ اللَّهِ خَيْرٌ لِّلْأَبْرَارِ
-  </p>
-</blockquote>
+> لَكِنِ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ لَهُمْ جَنَّتٌ تَجْرِى مِنْ
+> تَحْتِهَا الْأَنْهَرُ خَلِدِينَ فِيهَا نُزُلاً مِّنْ عِنْدِ اللَّهِ
+> وَمَا عِنْدَ اللَّهِ خَيْرٌ لِّلْأَبْرَارِ
 
 ***But as to those who are careful of (their duty to) their Lord, they
 shall have gardens beneath which rivers flow, abiding in them; an
 entertainment from their Lord, and that which is with Allah is best for
 the righteous. (3:198)***
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَتِ جَنَّتٍ تَجْرِى مِن
-تَحْتِهَا الْأَنْهَرُ خَلِدِينَ فِيهَا وَمَسَكِنَ طَيِّبَةً فِى
-جَنَّتِ عَدْنٍ وَ رِضْوَنٌ مِّنَ اللَّهِ أَكْبَرُ ذَ لِكَ هُوَ
-الْفَوْزُ الْعَظِيمُ‏
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَتِ جَنَّتٍ تَجْرِى مِن
+> تَحْتِهَا الْأَنْهَرُ خَلِدِينَ فِيهَا وَمَسَكِنَ طَيِّبَةً فِى
+> جَنَّتِ عَدْنٍ وَ رِضْوَنٌ مِّنَ اللَّهِ أَكْبَرُ ذَ لِكَ هُوَ
+> الْفَوْزُ الْعَظِيمُ‏
 
 ***Allah has promised to the believing men and the believing women
 gardens, beneath which rivers flow, to abide in them, and goodly
 dwellings in gardens of perpetual abode; and best of all is Allah’s
 goodly pleasure- that is the grand achievement. (9:72)***
 
-<blockquote dir="rtl">
-  <p>
-مَّثَلُ الْجَنَّةِ الَّتِى وُعِدَ الْمُتَّقُونَ تِجْرِى مِن تَحْتِهَا
-الْأَنْهَرُ أُكُلُهَا دَآئِمٌ وَ ظِلُّهَا تِلْكَ عُقْبَى الَّذِينَ
-اتَّقَواْ وَّ عُقْبَى الْكَفِرينَ النَّارُ
-  </p>
-</blockquote>
+> مَّثَلُ الْجَنَّةِ الَّتِى وُعِدَ الْمُتَّقُونَ تِجْرِى مِن تَحْتِهَا
+> الْأَنْهَرُ أُكُلُهَا دَآئِمٌ وَ ظِلُّهَا تِلْكَ عُقْبَى الَّذِينَ
+> اتَّقَواْ وَّ عُقْبَى الْكَفِرينَ النَّارُ
 
 ***A likeness of the garden which the righteous are promised; there now
 beneath it rivers, its food and shades are perpetual; this is the
 requital of those who guarded (against evil), and the requital of the
 unbelievers is the fire. (13:35)***
 
-<blockquote dir="rtl">
-  <p>
-جَنَّتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا الْأَنْهَرُ لَهُمْ
-فِيهَا مَا يَشَآءُونَ كَذَلِكَ يَجْزِى اللَّهُ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> جَنَّتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا الْأَنْهَرُ لَهُمْ
+> فِيهَا مَا يَشَآءُونَ كَذَلِكَ يَجْزِى اللَّهُ الْمُتَّقِينَ
 
 ***The gardens of perpetuity, they shall enter them, rivers flowing
 beneath them; they shall have in them what they please. Thus does Allah
 reward those who guard (against evil). (16:31)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّلِحَتِ إِنَّا لَا نُضِيعُ
-أَجْرَ مَنْ أَحْسَنَ عَمَلاً \* أُوْلَئِكَ لَهُمْ جَنَّتُ عَدْنٍ
-تَجْرِى مِن تَحْتِهِمُ الْانْهَرُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ
-مِن ذَهَبٍ وَيَلْبَسُونَ ثِيَاباً خُضْراً مِّن سُندُسٍ وَ إِسْتَبْرَقٍ
-مُّتَّكِئِينَ فِيهَا عَلَى الْأَرآئِكِ نِعْمَ الثَّوَابُ وَ حَسُنَتْ
-مُرْتَفَقاً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّلِحَتِ إِنَّا لَا نُضِيعُ
+> أَجْرَ مَنْ أَحْسَنَ عَمَلاً \* أُوْلَئِكَ لَهُمْ جَنَّتُ عَدْنٍ
+> تَجْرِى مِن تَحْتِهِمُ الْانْهَرُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ
+> مِن ذَهَبٍ وَيَلْبَسُونَ ثِيَاباً خُضْراً مِّن سُندُسٍ وَ إِسْتَبْرَقٍ
+> مُّتَّكِئِينَ فِيهَا عَلَى الْأَرآئِكِ نِعْمَ الثَّوَابُ وَ حَسُنَتْ
+> مُرْتَفَقاً
 
 ***Surely (as for) those who believe and do good, We do not waste the
 reward of him who does a good work. These it is for whom are gardens of
@@ -94,27 +70,19 @@ fine silk and thick silk brocade interwoven with gold, reclining therein
 on raised couches; excellent the recompense and goodly the resting
 place. (18:30-31)***
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ
-جَزَآءً بِمَا كَانُواْ يَعْمَلُونَ‏
-  </p>
-</blockquote>
+> فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ
+> جَزَآءً بِمَا كَانُواْ يَعْمَلُونَ‏
 
 ***So no soul knows what is hidden for them of that which will refresh
 the eyes; a reward for what they did. (32:17)***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُواْ بِآيَاتِنَا وَكَانُواْ مُسْلِمِينَ \* ادْخُلُواْ
-الْجَنَّةَ أَنتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ‏ \* يُطَافُ عَلَيْهِم
-بِصِحَافٍ مِّن ذَهَبٍ وَ أَكْوَابٍ وَ فِيهَا مَا تَشْتَهِيهِ
-الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ وَأَنتُمْ فِيهَا خَالِدُونَ‏ \*
-وَتِلْكَ الْجَنَّةُ الَّتِى أُورِثْتُمُوهَا بِمَا كُنتُمْ
-تَعْمَلُونَ‏ \* لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِّنْهَا
-تَأْكُلُونَ‏
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُواْ بِآيَاتِنَا وَكَانُواْ مُسْلِمِينَ \* ادْخُلُواْ
+> الْجَنَّةَ أَنتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ‏ \* يُطَافُ عَلَيْهِم
+> بِصِحَافٍ مِّن ذَهَبٍ وَ أَكْوَابٍ وَ فِيهَا مَا تَشْتَهِيهِ
+> الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ وَأَنتُمْ فِيهَا خَالِدُونَ‏ \*
+> وَتِلْكَ الْجَنَّةُ الَّتِى أُورِثْتُمُوهَا بِمَا كُنتُمْ
+> تَعْمَلُونَ‏ \* لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِّنْهَا
+> تَأْكُلُونَ‏
 
 ***Those who believed in Our communications and were submissive: Enter
 the garden, you and your wives; you shall be made happy. There shall be
@@ -124,16 +92,12 @@ you shall abide therein. And this is the garden which you are given as
 an inheritance on account of what you did. For you therein are many
 fruits of which you shall eat. (43:69-73)***
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْجَنَّةِ الَّتِى وُعِدَ الْمُتَّقُونَ فِيهَآ أَنْهَارٌ مِّن
-مَّآءٍ غَيْرِ آسِنٍ وَ أَنْهَارٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ
-طَعْمُهُ وَأَنْهَارٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّارِبِينَ وَ
-أَنْهَارٌ مِّنْ عَسَلٍ مُّصَفّىً وَلَهُمْ فِيهَا مِن كُلِ‏ّ
-الثَّمَرَاتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ كَمَنْ هُوَ خَالِدٌ فِى
-النَّارِ
-  </p>
-</blockquote>
+> مَثَلُ الْجَنَّةِ الَّتِى وُعِدَ الْمُتَّقُونَ فِيهَآ أَنْهَارٌ مِّن
+> مَّآءٍ غَيْرِ آسِنٍ وَ أَنْهَارٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ
+> طَعْمُهُ وَأَنْهَارٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّارِبِينَ وَ
+> أَنْهَارٌ مِّنْ عَسَلٍ مُّصَفّىً وَلَهُمْ فِيهَا مِن كُلِ‏ّ
+> الثَّمَرَاتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ كَمَنْ هُوَ خَالِدٌ فِى
+> النَّارِ
 
 ***A parable of the garden which those guarding (against evil) are
 promised: Therein are rivers of water that does not alter, and rivers of
@@ -142,46 +106,34 @@ those who drink, and rivers of honey clarified and for them therein are
 all fruits and protection from their Lord. (Are these) like those who
 abide in the fire… (47:15)***
 
-<blockquote dir="rtl">
-  <p>
-سَابِقُواْ إِلَى‏ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
-كَعَرْضِ السَّمَآءِ وَ الْأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُواْ
-بِاللَّهِ وَرُسُلِهِ
-  </p>
-</blockquote>
+> سَابِقُواْ إِلَى‏ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
+> كَعَرْضِ السَّمَآءِ وَ الْأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُواْ
+> بِاللَّهِ وَرُسُلِهِ
 
 ***Hasten to forgiveness from your Lord and to a garden the
 extensiveness of which is as the extensiveness of the heaven and the
 earth; it is prepared for those who believe in Allah and His apostles…
 (57:21)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا
-كَافُوراً \* عَيْناً يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا
-تَفْجِيراً
-  </p>
-</blockquote>
+> إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا
+> كَافُوراً \* عَيْناً يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا
+> تَفْجِيراً
 
 ***Surely the righteous shall drink of a cup the admixture of which is
 camphor A fountain from which the servants of Allah shall drink; they
 make it to flow a (goodly) flowing forth. (76:5-6)***
 
-<blockquote dir="rtl">
-  <p>
-وَ جَزَاهُم بِمَا صَبَرُواْ جَنَّةً وَحَرِيراً \* مُّتَّكِئِينَ فِيهَا
-عَلَى الْأَرَآئِكِ لَا يَرَوْنَ فِيهَا شَمْساً وَلَا زَمْهَرِيراً \*
-وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا \*
-وَيُطَافُ عَلَيْهِم بَِانِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ
-قَوَارِيرَاْ \* قَوَارِيرَاْ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيراً \*
-وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً \* عَيْناً
-فِيهَا تُسَمَّى‏ سَلْسَبِيلًا \* وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ
-مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤاً مَّنثُوراً \*
-وَ إِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيماً وَ مُلْكاً كَبِيراً \*
-عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ وَحُلُّواْ أَسَاوِرَ
-مِن فِضَّةٍ وَ سَقَاهُمْ رَبُّهُمْ شَرَاباً طَهُوراً
-  </p>
-</blockquote>
+> وَ جَزَاهُم بِمَا صَبَرُواْ جَنَّةً وَحَرِيراً \* مُّتَّكِئِينَ فِيهَا
+> عَلَى الْأَرَآئِكِ لَا يَرَوْنَ فِيهَا شَمْساً وَلَا زَمْهَرِيراً \*
+> وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا \*
+> وَيُطَافُ عَلَيْهِم بَِانِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ
+> قَوَارِيرَاْ \* قَوَارِيرَاْ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيراً \*
+> وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً \* عَيْناً
+> فِيهَا تُسَمَّى‏ سَلْسَبِيلًا \* وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ
+> مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤاً مَّنثُوراً \*
+> وَ إِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيماً وَ مُلْكاً كَبِيراً \*
+> عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ وَحُلُّواْ أَسَاوِرَ
+> مِن فِضَّةٍ وَ سَقَاهُمْ رَبُّهُمْ شَرَاباً طَهُوراً
 
 ***And reward them, because they were patient, with garden and silk.
 Reclining therein on raised couches, they shall find therein neither
@@ -235,11 +187,7 @@ foods of Paradise do not create excrement. Fruits of the world have to
 be picked, but the branches of fruits of Paradise would themselves come
 to the believer:
 
-<blockquote dir="rtl">
-  <p>
-وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
-  </p>
-</blockquote>
+> وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
 
 ***And close down upon them (shall be) its shadows, and its fruits shall
 be made near (to them), being easy to reach. (76:14)***
@@ -248,12 +196,8 @@ Waters and milk of the world are prone to go bad if they are left for a
 long time, and their taste undergoes a change, but the water and milk of
 Paradise do not go bad:
 
-<blockquote dir="rtl">
-  <p>
-فِيهَآ أَنْهَارٌ مِّن مَّآءٍ غَيْرِ آسِنٍ وَ أَنْهَارٌ مِّن لَّبَنٍ
-لَّمْ يَتَغَيَّرْ طَعْمُهُ
-  </p>
-</blockquote>
+> فِيهَآ أَنْهَارٌ مِّن مَّآءٍ غَيْرِ آسِنٍ وَ أَنْهَارٌ مِّن لَّبَنٍ
+> لَّمْ يَتَغَيَّرْ طَعْمُهُ
 
 ***Therein are rivers of water that does not alter, and rivers of milk
 the taste whereof does not change. (47:15)***
@@ -268,11 +212,7 @@ in Paradise there would be numerous bounties, which are much more
 superior and so extraordinary that they were neither heard nor seen. Nor
 the human heart had ever imagined them. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ
-  </p>
-</blockquote>
+> فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ
 
 ***So no soul knows what is hidden for them of that which will refresh
 the eyes… (32:17)***
@@ -304,11 +244,7 @@ but the matters of Paradise would be under the control of the folks of
 Paradise. Whatever they desire would be given to them only by wishing
 for it. The Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ
-  </p>
-</blockquote>
+> وَ فِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ
 
 ***…therein shall be what their souls yearn after and (wherein) the eyes
 shall delight… (43:71)***
@@ -324,12 +260,8 @@ Paradise: ‘O Wali of Allah, eat me before you are inclined to something
 else.’ And when the believer sits on his throne, it would become
 extremely elated. And it is mentioned in Quran that:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الدَّارَ الْآخِرَةَ لَهِىَ الْحَيَوَانُ لَوْ كَانُواْ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِنَّ الدَّارَ الْآخِرَةَ لَهِىَ الْحَيَوَانُ لَوْ كَانُواْ
+> يَعْلَمُونَ
 
 ***…as for the next abode, that most surely is the life- did they but
 know! (29:64)***[^4]
@@ -352,27 +284,19 @@ lives therein never becomes aged, its folks never fall in any need.”[^5]
 
 The Quran says:
 
-<blockquote dir="rtl">
-  <p>
-هُمْ دَرَجَتٌ عِنْدَ اللَّهِ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ‏
-  </p>
-</blockquote>
+> هُمْ دَرَجَتٌ عِنْدَ اللَّهِ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ‏
 
 ***There are (varying) grades with Allah, and Allah sees what they do.
 (3:163)***
 
 And it says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْتَوِى الْقَعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُوْلِى
-الضَّرَرِ وَ الْمُجَهِدُونَ فِى سَبِيلِ اللَّهِ بِأَمْوَلِهِمْ
-وَأَنْفُسِهِمْ فَضَّلَ اللَّهُ الْمُجَهِدِينَ بِأَمْوَ لِهِمْ
-وَأَنْفُسِهِمْ عَلَى الْقَعِدِينَ دَرَجَةً وَكُلّاً وَعَدَ اللَّهُ
-الْحُسْنَى وَفَضَّلَ اللَّهُ الْمُجَهِدِينَ عَلَى الْقَعِدِينَ أَجْراً
-عَظِيماً
-  </p>
-</blockquote>
+> لَا يَسْتَوِى الْقَعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُوْلِى
+> الضَّرَرِ وَ الْمُجَهِدُونَ فِى سَبِيلِ اللَّهِ بِأَمْوَلِهِمْ
+> وَأَنْفُسِهِمْ فَضَّلَ اللَّهُ الْمُجَهِدِينَ بِأَمْوَ لِهِمْ
+> وَأَنْفُسِهِمْ عَلَى الْقَعِدِينَ دَرَجَةً وَكُلّاً وَعَدَ اللَّهُ
+> الْحُسْنَى وَفَضَّلَ اللَّهُ الْمُجَهِدِينَ عَلَى الْقَعِدِينَ أَجْراً
+> عَظِيماً
 
 ***The holders back from among the believers, not having any injury, and
 those who strive hard in Allah’s way with their property and their
@@ -383,12 +307,8 @@ above the holders back a mighty reward. (4:95)***
 
 And also says:
 
-<blockquote dir="rtl">
-  <p>
-يَرْفَعِ اللَّهُ الَّذِينَ آمَنُواْ مِنكُمْ وَالَّذِينَ أُوتُواْ
-الْعِلْمَ دَرَجَاتٍ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> يَرْفَعِ اللَّهُ الَّذِينَ آمَنُواْ مِنكُمْ وَالَّذِينَ أُوتُواْ
+> الْعِلْمَ دَرَجَاتٍ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ***Allah will exalt those of you who believe, and those who are given
 knowledge, in high degrees; and Allah is Aware of what you do.
@@ -396,12 +316,8 @@ knowledge, in high degrees; and Allah is Aware of what you do.
 
 Also it says:
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلٍ‏ّ دَرَجَاتٌ مِّمَّا عَمِلُواْ وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ
-وَ هُمْ لَا يُظْلَمُونَ‏
-  </p>
-</blockquote>
+> وَلِكُلٍ‏ّ دَرَجَاتٌ مِّمَّا عَمِلُواْ وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ
+> وَ هُمْ لَا يُظْلَمُونَ‏
 
 ***And for all are degrees according to what they did, and that He may
 pay them back fully their deeds and they shall not be wronged.
@@ -409,11 +325,7 @@ pay them back fully their deeds and they shall not be wronged.
 
 The loftiest stage of Paradise is Rizwan; the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ رِضْوَنٌ مِّنَ اللَّهِ أَكْبَرُ ذَ لِكَ هُوَ الْفَوْزُ الْعَظِيمُ‏
-  </p>
-</blockquote>
+> وَ رِضْوَنٌ مِّنَ اللَّهِ أَكْبَرُ ذَ لِكَ هُوَ الْفَوْزُ الْعَظِيمُ‏
 
 ***…and best of all is Allah’s goodly pleasure- that is the grand
 achievement. (9:72)***
@@ -438,11 +350,7 @@ sins.
 Although the people of Paradise would get whatever they intend or wish
 for, immediately:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ
-  </p>
-</blockquote>
+> وَ فِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ
 
 ***…therein shall be what their souls yearn after and (wherein) the eyes
 shall delight… (43:71)***
@@ -505,21 +413,17 @@ its branches and enters Hell.”[^10]
 
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَطيعُوا اللَّهَ وَ الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ \* وَ
-سارِعُوا إِلى‏ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَ جَنَّةٍ عَرْضُهَا
-السَّماواتُ وَ الْأَرْضُ أُعِدَّتْ لِلْمُتَّقينَ \* الَّذينَ
-يُنْفِقُونَ فِي السَّرَّاءِ وَ الضَّرَّاءِ وَ الْكاظِمينَ الْغَيْظَ وَ
-الْعافينَ عَنِ النَّاسِ وَ اللَّهُ يُحِبُّ الْمُحْسِنينَ \* وَ
-الَّذينَ إِذا فَعَلُوا فاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا
-اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَ مَنْ يَغْفِرُ الذُّنُوبَ
-إِلاَّ اللَّهُ وَ لَمْ يُصِرُّوا عَلى‏ ما فَعَلُوا وَ هُمْ
-يَعْلَمُونَ \* أُولئِكَ جَزاؤُهُمْ مَغْفِرَةٌ مِنْ رَبِّهِمْ وَ
-جَنَّاتٌ تَجْري مِنْ تَحْتِهَا الْأَنْهارُ خالِدينَ فيها وَ نِعْمَ
-أَجْرُ الْعامِلينَ
-  </p>
-</blockquote>
+> وَ أَطيعُوا اللَّهَ وَ الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ \* وَ
+> سارِعُوا إِلى‏ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَ جَنَّةٍ عَرْضُهَا
+> السَّماواتُ وَ الْأَرْضُ أُعِدَّتْ لِلْمُتَّقينَ \* الَّذينَ
+> يُنْفِقُونَ فِي السَّرَّاءِ وَ الضَّرَّاءِ وَ الْكاظِمينَ الْغَيْظَ وَ
+> الْعافينَ عَنِ النَّاسِ وَ اللَّهُ يُحِبُّ الْمُحْسِنينَ \* وَ
+> الَّذينَ إِذا فَعَلُوا فاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا
+> اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَ مَنْ يَغْفِرُ الذُّنُوبَ
+> إِلاَّ اللَّهُ وَ لَمْ يُصِرُّوا عَلى‏ ما فَعَلُوا وَ هُمْ
+> يَعْلَمُونَ \* أُولئِكَ جَزاؤُهُمْ مَغْفِرَةٌ مِنْ رَبِّهِمْ وَ
+> جَنَّاتٌ تَجْري مِنْ تَحْتِهَا الْأَنْهارُ خالِدينَ فيها وَ نِعْمَ
+> أَجْرُ الْعامِلينَ
 
 ***And obey Allah and the Apostle, that you may be shown mercy. And
 hasten to forgiveness from your Lord; and a Garden, the extensiveness of
@@ -570,5 +474,4 @@ me at my death Oh, the most merciful of the merciful ones.
 [^9]: Biharul Anwar, Vol. 8, Pg. 123.
 
 [^10]: Biharul Anwar, Vol. 8, Pg. 171.
-
 

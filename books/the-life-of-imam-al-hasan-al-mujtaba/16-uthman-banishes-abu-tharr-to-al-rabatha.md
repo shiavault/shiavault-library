@@ -783,4 +783,3 @@ took place during those times.
 [^1] Hish Kawkab was a name of a garden where the Jews buried their
 dead.
 
-

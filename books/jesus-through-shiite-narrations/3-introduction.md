@@ -236,4 +236,3 @@ was carried out. I hope it may be accepted by Allah, and I offer the
 blessings for it to those who have a right over us, especially my
 parents and brothers. Wa salam.
 
-

@@ -309,4 +309,3 @@ chains entered into his flesh, and his tongue was consumed with thirst.
 Thus after a while the earth was delivered of Zohak the evil one, and
 Feridoun reigned in his stead.
 
-

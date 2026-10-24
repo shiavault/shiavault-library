@@ -42,4 +42,3 @@ find my translation to be riddled. Despite all this though, it is my
 hope that the translation gives the reader a sense, *albeit* slight, of
 the beauty of Meer Anis' and Mirza Dabeer's memorable poetry
 
-

@@ -4,12 +4,8 @@ Section 2: The Destruction of Saba
 Surah As-Saba- Verse 10
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا دَاوُدَ مِنَّا فَضْلاً يَا جِبَالُ أَوِّبِي مَعَهُ
-وَالطَّيْرَ وَأَلَنَّا لَهُ الْحَدِيدَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا دَاوُدَ مِنَّا فَضْلاً يَا جِبَالُ أَوِّبِي مَعَهُ
+> وَالطَّيْرَ وَأَلَنَّا لَهُ الْحَدِيدَ
 
 ***10. “And certainly We gave David an excellence from Us, (saying:) ‘O’
 mountains! Sing you (the praise of Allah) along with him, and (you) the
@@ -155,12 +151,8 @@ Luqman, who had found out the final aim, said:
 Surah As-Saba- Verse 11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَنِ اعْمَلْ سَابِغَاتٍ وَقَدّ‌ِرْ فِي السَّرْدِ وَاعْمَلُوا صَالِحاً
-إِنّـِي بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> أَنِ اعْمَلْ سَابِغَاتٍ وَقَدّ‌ِرْ فِي السَّرْدِ وَاعْمَلُوا صَالِحاً
+> إِنّـِي بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***11. “(Saying unto David): ‘Make wide coat of mail, and measure well
 the links, and do righteousness, verily I see what you do’.”***
@@ -232,14 +224,10 @@ not in the way of oppression, cruelty, and sin.
 Surah As-Saba- Verse 12
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِسُلَيْمَـانَ الرّ‌ِيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ
-وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ وَمِنَ الْجِنّ‌ِ مَن يَعْمَلُ بَيْنَ
-يَدَيْهِ بِإِذْنِ رَبّـِهِ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
-نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ
-  </p>
-</blockquote>
+> وَلِسُلَيْمَـانَ الرّ‌ِيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ
+> وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ وَمِنَ الْجِنّ‌ِ مَن يَعْمَلُ بَيْنَ
+> يَدَيْهِ بِإِذْنِ رَبّـِهِ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
+> نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ
 
 ***12. “And for Solomon (We made subservient) the wind which travelled
 in the morning a month’s journey and a month’s journey in the evening.
@@ -385,13 +373,9 @@ always and everywhere for correct running of a country.
 Surah As-Saba- Verse 13
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْمَلُونَ لَهُ مَا يَشَآءُ مِن مَّحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ
-كَالْجَوَابِ وَقُدُورٍ رَّاسِيَاتٍ اعْمَلُوا ءَالَ دَاوُدَ شُكْراً
-وَقَلِيلٌ مِنْ عِبَادِيَ الشَّكُورُ
-  </p>
-</blockquote>
+> يَعْمَلُونَ لَهُ مَا يَشَآءُ مِن مَّحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ
+> كَالْجَوَابِ وَقُدُورٍ رَّاسِيَاتٍ اعْمَلُوا ءَالَ دَاوُدَ شُكْراً
+> وَقَلِيلٌ مِنْ عِبَادِيَ الشَّكُورُ
 
 ***13. “They made for him whatever he wished of places of worship and
 mages and basins (large) like water-troughs and (cooking) cauldrons
@@ -614,14 +598,10 @@ source of its annihilation in Surah ’Ibrahim, No. 14, verse 7.
 Surah As-Saba- Verse 14
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَي مَوْتِهِ
-إِلآَّ دَآبَّةُ الأَرْضِ تَأْكُلُ مِنسَأَتَهُ فَلَمَّا خَرَّ
-تَبَيَّنَتِ الْجِنُّ أَن لَّوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا
-لَبِثُوا فِي الْعَذَابِ الْمُهِينِ
-  </p>
-</blockquote>
+> فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَي مَوْتِهِ
+> إِلآَّ دَآبَّةُ الأَرْضِ تَأْكُلُ مِنسَأَتَهُ فَلَمَّا خَرَّ
+> تَبَيَّنَتِ الْجِنُّ أَن لَّوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا
+> لَبِثُوا فِي الْعَذَابِ الْمُهِينِ
 
 ***14. “Then when We decreed death for him (Solomon) naught showed them
 his death except a creature of the earth devouring his staff; and when
@@ -766,13 +746,9 @@ such as: Al-Baqarah, Al-’An‘am, An-Nahl, An-Naml, ’Ankabut, and Fil.
 Surah As-Saba- Verse 15
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لِسَبَإٍ فِي مَسْكَنِهِمْ ءَايَةٌ جَنَّتَانِ عَن يَمِينٍ
-وَشِمَالٍ كُلُوا مِن رّ‌ِزْقِ رَبّـِكُمْ وَاشْكُرُوا لَهُ بَلْدَةٌ
-طَيّـِبَةٌ وَرَبٌّ غَفُورٌ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لِسَبَإٍ فِي مَسْكَنِهِمْ ءَايَةٌ جَنَّتَانِ عَن يَمِينٍ
+> وَشِمَالٍ كُلُوا مِن رّ‌ِزْقِ رَبّـِكُمْ وَاشْكُرُوا لَهُ بَلْدَةٌ
+> طَيّـِبَةٌ وَرَبٌّ غَفُورٌ
 
 ***15. “Indeed there was a sign for the (people of) Sheba in their
 abode, two gardens in the right and the left; ‘Eat of the sustenance of
@@ -899,13 +875,9 @@ punish them and He did not involve their land in misfortune.
 Surah As-Saba- Verse 16
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْرَضُوا فَاَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ وَبَدَّلْنَاهُم
-بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَيْءٍ
-مِن سِدْرٍ قَلِيلٍ
-  </p>
-</blockquote>
+> فَأَعْرَضُوا فَاَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ وَبَدَّلْنَاهُم
+> بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَيْءٍ
+> مِن سِدْرٍ قَلِيلٍ
 
 ***16. “But they turned away (from Allah), so We loosed on them the
 Flood of ‘Arim, and We gave them in exchange for their two gardens, two
@@ -968,11 +940,7 @@ and lightning are not casual.
 Surah As-Saba- Verse 17
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ جَزَيْنَاهُم بِمَا كَفَرُوا وَهَلْ نُجَازِي اِلاَّ الْكَفُورَ
-  </p>
-</blockquote>
+> ذَلِكَ جَزَيْنَاهُم بِمَا كَفَرُوا وَهَلْ نُجَازِي اِلاَّ الْكَفُورَ
 
 ***17. “This We recompensed them for their disbelief; and do We ever
 recompense any but the ungrateful?”***
@@ -996,21 +964,13 @@ certain, it says:
 Surah As-Saba- Verses 18-19
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَي الَّتِي بَارَكْنَا فِيهَا
-قُري ظَاهِرَةً وَقَدَّرْنَا فِيهَا السَّيْرَ سِيرُوا فِيهَا لَيَالِيَ
-وَأَيَّاماً ءَامِنِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَي الَّتِي بَارَكْنَا فِيهَا
+> قُري ظَاهِرَةً وَقَدَّرْنَا فِيهَا السَّيْرَ سِيرُوا فِيهَا لَيَالِيَ
+> وَأَيَّاماً ءَامِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَقَالُوا رَبَّنَا بَاعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوا أَنفُسَهُمْ
-فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ إِنَّ فِي
-ذَلِكَ لاَيَاتٍ لِكُلّ‌ِ صَبَّارٍ شَكُورٍ
-  </p>
-</blockquote>
+> فَقَالُوا رَبَّنَا بَاعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوا أَنفُسَهُمْ
+> فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ إِنَّ فِي
+> ذَلِكَ لاَيَاتٍ لِكُلّ‌ِ صَبَّارٍ شَكُورٍ
 
 ***18. “And We made between them and the towns which We had blessed
 (other) towns apparent and between them We had appointed stages of
@@ -1196,20 +1156,12 @@ they take an example from these events?
 Surah As-Saba- Verses 20-21
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَدَّقَ عَلَيْهِمْ اِبْلِيسُ ظَنَّهُ فَاتَّبَعُوهُ إِلاَّ
-فَرِيقاً مِنَ الْمُؤْمِنينَ
-  </p>
-</blockquote>
+> وَلَقَدْ صَدَّقَ عَلَيْهِمْ اِبْلِيسُ ظَنَّهُ فَاتَّبَعُوهُ إِلاَّ
+> فَرِيقاً مِنَ الْمُؤْمِنينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لَهُ عَلَيْهِم مِن سُلْطَانٍ إِلاَّ لِنَعْلَمَ مَن
-يُؤْمِنُ بِالأَخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ وَرَبُّكَ عَلَي
-كُلّ‌ِ شَيْءٍ حَفِيظٌ
-  </p>
-</blockquote>
+> وَمَا كَانَ لَهُ عَلَيْهِم مِن سُلْطَانٍ إِلاَّ لِنَعْلَمَ مَن
+> يُؤْمِنُ بِالأَخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ وَرَبُّكَ عَلَي
+> كُلّ‌ِ شَيْءٍ حَفِيظٌ
 
 ***20. “And certainly ’Iblis found true his conjecture concerning them,
 so they followed him, except a party of the believers.”***  
@@ -1404,5 +1356,4 @@ verse under discussion
 [^44]: Nahj-ul-Balaqah, saying No. 147
 
 [^45]: Surah ’Ibrahim, No. 14, verse 22
-
 

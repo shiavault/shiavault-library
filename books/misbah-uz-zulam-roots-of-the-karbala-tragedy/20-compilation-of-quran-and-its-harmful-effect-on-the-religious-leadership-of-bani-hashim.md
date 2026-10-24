@@ -99,4 +99,3 @@ impediment to research.
 
 [^2]: Refer Tarikhul Khulafa, Pg. 72
 
-

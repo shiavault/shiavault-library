@@ -38,11 +38,7 @@ to you (i.e. your sustenance) then be avid in performing that which has
 been made incumbent upon you.
 
 > 8ـ إنْ كُنْتَ حَريصاً عَلى طَلَبِ المَضْمُونِ لَكَ فَكُنْ حَريصاً عَلى
-<blockquote dir="rtl">
-  <p>
-أداءِ المَفْرُوضِ عَلَيْكَ.
-  </p>
-</blockquote>
+> أداءِ المَفْرُوضِ عَلَيْكَ.
 
 9. Many a greedy person has been killed by his greed.
 
@@ -54,12 +50,8 @@ and allotted it, and that his effort will not increase what has
 in his desire for [more] wealth.
 
 > 10ـ عَجِبْتُ لِمَنْ عَلِمَ أنَّ اللّهَ قَدْ ضَمِنَ الأرْزاقَ،
-<blockquote dir="rtl">
-  <p>
-وقَدَّرَها، وأنَّ سَعْيَهُ لايَزيدُهُ فيما قُدِّرَ لَهُ مِنْها، وهُوَ
-حَريصٌ دائِبٌ في طَلَبِ الرِّزْقِ.
-  </p>
-</blockquote>
+> وقَدَّرَها، وأنَّ سَعْيَهُ لايَزيدُهُ فيما قُدِّرَ لَهُ مِنْها، وهُوَ
+> حَريصٌ دائِبٌ في طَلَبِ الرِّزْقِ.
 
 11. Every greedy person is needy.
 
@@ -86,11 +78,7 @@ has not been disappointed!
 has held fast to the two pillars of ignobility.
 
 > 16ـ مَنْ جُمِعَ لَهُ مَعَ الحِرْصِ عَلَى الدُّنيا البُخْلُ بِها فَقَدِ
-<blockquote dir="rtl">
-  <p>
-اسْتَمْسَكَ بِعَمُودَيِ اللُّؤْمِ.
-  </p>
-</blockquote>
+> اسْتَمْسَكَ بِعَمُودَيِ اللُّؤْمِ.
 
 17. A greedy person has no shame.
 
@@ -104,5 +92,4 @@ has held fast to the two pillars of ignobility.
 wretched and dispraised.
 
 > 19ـ لايَجْمَعُ المالَ إلاّ الحِرْصُ، وَالحَريصُ شَقِيٌّ مَذْمُومٌ.
-
 

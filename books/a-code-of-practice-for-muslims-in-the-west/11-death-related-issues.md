@@ -285,4 +285,3 @@ Muhammad, and send the reward of this prayer to the grave of x."
 
 [^5]: Sayyid as-Sistani, al-Masa'ilu 'l-Muntakhaba, p. 63.
 
-

@@ -216,4 +216,3 @@ valour of the Commander of the Faithful at that critical juncture.
 
 [^5]: It is equal to 213 grams approximately.
 
-

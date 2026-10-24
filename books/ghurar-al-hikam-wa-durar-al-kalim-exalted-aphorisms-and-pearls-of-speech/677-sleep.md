@@ -11,21 +11,13 @@ Sleep
 and causes one to lose a lot of reward.
 
 > 2ـ بِئْسَ الغَريمُ النَّوْمُ يُفْني قَصيرَ العُمْرِ ويُفَوِّتُ كَثيرَ
-<blockquote dir="rtl">
-  <p>
-الأجْرِ.
-  </p>
-</blockquote>
+> الأجْرِ.
 
 3. One who sleeps a lot at night loses the [opportunity to perform the]
 deeds that he cannot make up for during the daytime.
 
 > 3ـ مَنْ كَثُرَ في لَيْلِهِ نَوْمُهُ فاتَهُ مِنَ العَمَلِ ما
-<blockquote dir="rtl">
-  <p>
-لايَسْتَدْرِكُهُ في يَوْمِهِ.
-  </p>
-</blockquote>
+> لايَسْتَدْرِكُهُ في يَوْمِهِ.
 
 4. What a rescinder sleep is for the resolutions of the day!
 
@@ -39,5 +31,4 @@ deeds that he cannot make up for during the daytime.
 his reward is little.
 
 > 6ـ وَيْحَ النّائِمِ ما أخْسَرَهُ قَصُرَ عَمَلُهُ وقَلَّ أجْرُهُ.
-
 

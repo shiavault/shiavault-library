@@ -1,21 +1,13 @@
 Suratul Baqarah: Verses 118 − 119
 =================================
 
-<blockquote dir="rtl">
-  <p>
-(١١٨)وَقَالَ ٱلَّذِينَ لَا يَعلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ
-أَوۡ تَأۡتِينَآ ءَايَةٌ۬‌ۗ كَذَٲلِكَ قَالَ ٱلَّذِينَ مِن قَبلِهِم
-مِّثلَ قَوۡلِهِمۡ‌ۘ تَشَـٰبَهَتۡ قُلُوبُهُمۡ‌ۗ قَدۡ بَيَّنَّا
-ٱلأَيَـٰتِ لِقَوۡمٍ۬ يُوقِنُونَ
-  </p>
-</blockquote>
+> (١١٨)وَقَالَ ٱلَّذِينَ لَا يَعلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ
+> أَوۡ تَأۡتِينَآ ءَايَةٌ۬‌ۗ كَذَٲلِكَ قَالَ ٱلَّذِينَ مِن قَبلِهِم
+> مِّثلَ قَوۡلِهِمۡ‌ۘ تَشَـٰبَهَتۡ قُلُوبُهُمۡ‌ۗ قَدۡ بَيَّنَّا
+> ٱلأَيَـٰتِ لِقَوۡمٍ۬ يُوقِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-(١١٩) إِنَّآ أَرۡسَلنَـٰكَ بِٱلحَقِّ بَشِيرً۬ا وَنَذِيرً۬ا‌ۖ وَلَا
-تُسـأَلُ عَنۡ أَصحَـٰبِ ٱلجَحِيمِ
-  </p>
-</blockquote>
+> (١١٩) إِنَّآ أَرۡسَلنَـٰكَ بِٱلحَقِّ بَشِيرً۬ا وَنَذِيرً۬ا‌ۖ وَلَا
+> تُسـأَلُ عَنۡ أَصحَـٰبِ ٱلجَحِيمِ
 
 ***And those who have no knowledge say: “Why does not Allah speak to us
 or a sign come to us?” Even thus said those before them, the like of
@@ -77,5 +69,4 @@ would not come to the path of guidance.
 flaming fire:*** Its import is similar to that of the verse: ***Surely
 those who disbelieve alike is to them whether you warn them or do not
 warn them, they will not believe*** (2:6)***.***
-
 

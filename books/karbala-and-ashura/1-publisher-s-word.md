@@ -1,25 +1,13 @@
 Publisher’s Word
 ================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 ***In The Name Of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-فإني لا أرى الموت إلا سعادة والحياة مع الظالمين إلا برماً.
-  </p>
-</blockquote>
+> فإني لا أرى الموت إلا سعادة والحياة مع الظالمين إلا برماً.
 
-<blockquote dir="rtl">
-  <p>
-الإمام الحسين (ع)
-  </p>
-</blockquote>
+> الإمام الحسين (ع)
 
 “Indeed I do not see death [for freedom] as but happiness, and living
 with unjust people as nothing but grief.”
@@ -58,5 +46,4 @@ the life to come, Inshallah.
 
 Ansariyan Publications  
  Qum, 2002
-
 

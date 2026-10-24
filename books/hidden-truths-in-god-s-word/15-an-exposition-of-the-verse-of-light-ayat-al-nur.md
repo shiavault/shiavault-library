@@ -1,17 +1,13 @@
 An Exposition of the Verse of Light (Ayat al-Nur)
 =================================================
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ
-فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا
-كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَارَكَةٍ زَيْتُونِةٍ لَّا
-شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ
-تَمْسَسْهُ نَارٌ نُّورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَن
-يَشَاءُ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ
-شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ
+> فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا
+> كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَارَكَةٍ زَيْتُونِةٍ لَّا
+> شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ
+> تَمْسَسْهُ نَارٌ نُّورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَن
+> يَشَاءُ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ
+> شَيْءٍ عَلِيمٌ
 
 ***Allah is the light of the heavens and the earth; a likeness of His
 light is as a niche in which is a lamp, the lamp is in a glass, (and)
@@ -95,11 +91,7 @@ researchers they are coherent and plausible.
 However, the points that we will presently discuss may be classified as
 an alternate possible explanation of the verse of the light.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
-  </p>
-</blockquote>
+> اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
 
 ***Allah is the light of the heavens and the earth;***
 
@@ -121,12 +113,8 @@ of the Divine care.
 To prepare the minds of the listeners so that they understand the issue
 better, God explains His light with the following simile:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ
-الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ
-  </p>
-</blockquote>
+> مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ
+> الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ
 
 ***A likeness of His light is as a niche in which is a lamp, the lamp is
 in a glass, (and) the glass is as it were a brightly shining star,***
@@ -178,11 +166,7 @@ has been taken as the basis of the similitude.
 
 The similitude of God’s light to that of a lamp:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ
-  </p>
-</blockquote>
+> مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ
 
 ***A likeness of His light is as a niche in which is a lamp can be
 studied from this perspective.***
@@ -234,12 +218,8 @@ throne (*‘arsh*).
 
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
-رَبِّهِمْ
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
+> رَبِّهِمْ
 
 ***Those who bear the power and those around Him celebrate the praise of
 their Lord (al-Ghafir, 40/6)***
@@ -247,11 +227,7 @@ their Lord (al-Ghafir, 40/6)***
 And at the same time the existence of the angels themselves is full of
 radiance:
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ
-  </p>
-</blockquote>
+> كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ
 
 ***As if it were a brightly shining star, (al-Nur, 24/35)***
 
@@ -278,12 +254,8 @@ Furthermore, just as people benefit from the light of a lamp that is
 situated next to them, God too is close to man, not just beside him but
 closer to him than his life-vein (jugular):
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
 
 ***And certainly We created man, and We know what his mind suggests to
 him, and We are nearer to him than his life-vein (Qaf, 50/16)***
@@ -327,11 +299,7 @@ cosmos; therefore, the intended meaning of God’s words here is not a
 geographical reference, because His exalted existence is free from such
 constraints.
 
-<blockquote dir="rtl">
-  <p>
-يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ
-  </p>
-</blockquote>
+> يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ
 
 ***The oil whereof almost gives light though fire touch it not (al-Nur,
 24/35)***
@@ -346,11 +314,7 @@ distinctions are contained within Himself and no excellence can be
 imagined to be other than a Perfect Existence; in other words, His Light
 is not other than His Essence.
 
-<blockquote dir="rtl">
-  <p>
-نُّورٌ عَلَى نُورٍ
-  </p>
-</blockquote>
+> نُّورٌ عَلَى نُورٍ
 
 ***Light upon light (al-Nur, 24/35)***
 
@@ -371,12 +335,8 @@ guidance and Light of His liberal and beneficent Creator, because all
 the paths to prosperity and salvation end there. In the supplication
 of *sahar*, we recite:
 
-<blockquote dir="rtl">
-  <p>
-اللهما  اني  أسئلك  من  نورك  بأنورها  و  كل  نورك  نيّر  اللهما  اني 
-أسئلك  بنورك  كله
-  </p>
-</blockquote>
+> اللهما  اني  أسئلك  من  نورك  بأنورها  و  كل  نورك  نيّر  اللهما  اني
+> أسئلك  بنورك  كله
 
 “O Lord, We ask you from You of Your most illuminating Light, and all
 Your Lights are illuminating; O Allah I ask You by all your Light.”
@@ -384,12 +344,8 @@ Your Lights are illuminating; O Allah I ask You by all your Light.”
 After discussing the matters raised above, we should also think about
 the end of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ شَيْءٍ
-عَلِيمٌ
-  </p>
-</blockquote>
+> وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ شَيْءٍ
+> عَلِيمٌ
 
 ***And God sets forth parables for men, and Allah is Cognizant of all
 things. (al-Nur, 24/35)***
@@ -397,5 +353,4 @@ things. (al-Nur, 24/35)***
 And Allah knows best.
 
 [^1]: Nahj al-Balagha, sermon 1
-
 

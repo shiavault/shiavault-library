@@ -185,4 +185,3 @@ hadīth 9.
 [^3]: 'Ilal ash-Sharā'i', vol. 2, p. 312, sec. on “The Causes of the
 Wudū', the Adhān and the Salat,” hadīth 1, p. 312.
 
-

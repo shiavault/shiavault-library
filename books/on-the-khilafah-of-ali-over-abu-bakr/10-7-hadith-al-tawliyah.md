@@ -3,11 +3,7 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) says:
 
-<blockquote dir="rtl">
-  <p>
-قوله أنت وليي في كل مؤمن بعدي فإن هذا موضوع باتفاق أهل المعرفة بالحديث
-  </p>
-</blockquote>
+> قوله أنت وليي في كل مؤمن بعدي فإن هذا موضوع باتفاق أهل المعرفة بالحديث
 
 His statement, “You are my *wali* over every believer after me”.
 **Verily, this is a fabrication (*****mawdu’*****), by the consensus of
@@ -39,15 +35,11 @@ been something very huge!
 
 Imam Ahmad has documented *Hadith al-Tawliyah* in his *Musnad*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا أبو بلج
-ثنا عمرو بن ميمون ....قال بن عباس .... وخرج بالناس في غزوة تبوك قال
-فقال له علي أخرج معك قال فقال له نبي الله لا فبكى علي فقال له أما ترضى
-أن تكون منى بمنزلة هارون من موسى الا أنك لست بنبي انه لا ينبغي أن أذهب
-الا وأنت خليفتي قال وقال له رسول الله أنت وليي في كل مؤمن بعدي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا أبو بلج
+> ثنا عمرو بن ميمون ....قال بن عباس .... وخرج بالناس في غزوة تبوك قال
+> فقال له علي أخرج معك قال فقال له نبي الله لا فبكى علي فقال له أما ترضى
+> أن تكون منى بمنزلة هارون من موسى الا أنك لست بنبي انه لا ينبغي أن أذهب
+> الا وأنت خليفتي قال وقال له رسول الله أنت وليي في كل مؤمن بعدي
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – Yahya b. Hammad – Abu ‘Awanah
 – Abu Balj – ‘Amr b. Maymun .... Ibn ‘Abbas said:
@@ -62,11 +54,7 @@ believer after me**.”[^3]
 
 ‘Allamah Ahmad Muhammad Shakir (d. 1377 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^4]
 
@@ -78,11 +66,7 @@ Its chain is *sahih*.[^4]
 > موسى إِلا أنك لست بنبي انه لا ينبغي أن أذهب الا وأنت خليفتي". قال:
 > وقال له رسول الله صلى الله عليه وسلم: "أنت وليي في كل مؤمن بعدي".
 > الحديث وأخرجه الحاكم بطوله 3/132-134 من طريق أحمد ثم قال: صحيح الإسناد
-<blockquote dir="rtl">
-  <p>
-ووافقه الذهبي.
-  </p>
-</blockquote>
+> ووافقه الذهبي.
 
 Ahmad (1/330) recorded it from Yahya b. Hamad in detail, and part of it
 is:
@@ -101,32 +85,20 @@ him**.[^5]
 
 The ‘Allamah himself adds concerning its chain:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن.
-  </p>
-</blockquote>
+> إسناده حسن.
 
 Its chain is *hasan*.[^6]
 
 Commenting on this same chain of *Hadith al-Tawliyah*, Dr. Al-Jawabirah
 says:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن.
-  </p>
-</blockquote>
+> اسناده حسن.
 
 Its chain is *hasan*.[^7]
 
 Imam al-Busiri too grades the chain as follows:
 
-<blockquote dir="rtl">
-  <p>
-سند صحيح
-  </p>
-</blockquote>
+> سند صحيح
 
 A *sahih* chain.[^8]
 
@@ -144,11 +116,7 @@ in his absence. Besides, changing *wali* in the *hadith* to “friend”, or
 “helper” or supporter” would only produce incoherent and insensible
 statements:
 
-<blockquote dir="rtl">
-  <p>
-أنت وليي في كل مؤمن بعدي
-  </p>
-</blockquote>
+> أنت وليي في كل مؤمن بعدي
 
 “You are my friend over every believer after me.”
 
@@ -161,11 +129,7 @@ statements:
 The Messenger of Allah was absolutely above making such kinds of
 statements. Moreover, Shaykh Ibn Taymiyyah himself cautions:
 
-<blockquote dir="rtl">
-  <p>
-إن أراد الموالاة لم يحتج ان يقول بعدي
-  </p>
-</blockquote>
+> إن أراد الموالاة لم يحتج ان يقول بعدي
 
 If he had intended friendship, he did not need to say “after me”.[^9]
 
@@ -173,11 +137,7 @@ But, can we interpret “my *wali*” in the *hadith* to mean “my ruler”?
 This depends on the exact intended meaning. For instance, Allah says
 about His Prophet:
 
-<blockquote dir="rtl">
-  <p>
-قل يا أيها الناس إني رسول الله إليكم جميعا
-  </p>
-</blockquote>
+> قل يا أيها الناس إني رسول الله إليكم جميعا
 
 Say: “O mankind! Verily, I am the **Messenger of Allah** to you
 all.”[^10]
@@ -185,11 +145,7 @@ all.”[^10]
 He was the Messenger *appointed by* Allah. The Qur’an also states about
 him:
 
-<blockquote dir="rtl">
-  <p>
-أم تريدون أن تسألوا رسولكم كما سئل موسى من قبل
-  </p>
-</blockquote>
+> أم تريدون أن تسألوا رسولكم كما سئل موسى من قبل
 
 Or, do you want to ask ***your*** **Messenger** as Musa was asked
 before?[^11]
@@ -199,11 +155,7 @@ never did! Rather, he was appointed *by* *Allah* – hence, the Messenger
 of Allah – and *sent to* the people – and thereby their Messenger. This
 is a similar verse:
 
-<blockquote dir="rtl">
-  <p>
-أم لم يعرفوا رسولهم فهم له منكرون
-  </p>
-</blockquote>
+> أم لم يعرفوا رسولهم فهم له منكرون
 
 Or is it that they did not recognize ***their*** **Messenger** so they
 deny him?[^12]
@@ -234,12 +186,8 @@ One of the rarer meanings of *wali* is “heir”. Prophet Zakariyah,
 *‘alaihi al-salam*, prayed to Allah, while he was still barren, with
 these words:
 
-<blockquote dir="rtl">
-  <p>
-فهب لي من لدنك وليا يرثني ويرث من آل يعقوب واجعله رب رضيا يا زكريا إنا
-نبشرك بغلام اسمه يحيى
-  </p>
-</blockquote>
+> فهب لي من لدنك وليا يرثني ويرث من آل يعقوب واجعله رب رضيا يا زكريا إنا
+> نبشرك بغلام اسمه يحيى
 
 “So give me from Yourself **a** ***wali*****, who shall inherit me** and
 inherit the family of Ya’qub. And make him, my Lord, one with whom You
@@ -251,12 +199,8 @@ al-salam*, inherited his prophethood and knowledge, and thereby became
 the next master of his father’s *Ummah* after his death. Professor Ibn
 Yasin also states in his *tafsir*:
 
-<blockquote dir="rtl">
-  <p>
-أخرج عبد الرزاق بسنده الصحيح عن قتادة عن الحسن في قوله (يرثني ويرث من
-آل يعقوب)، قال: نبوته وعلمه.
-  </p>
-</blockquote>
+> أخرج عبد الرزاق بسنده الصحيح عن قتادة عن الحسن في قوله (يرثني ويرث من
+> آل يعقوب)، قال: نبوته وعلمه.
 
 ‘Abd al-Razzaq records **with his** ***sahih*** **chain** from Qatadah,
 that al-Hasan said concerning the verse {who shall inherit me and
@@ -274,15 +218,11 @@ al-Muminin after him.
 A *shahid* that has been documented by Ibn Abi ‘Asim (d. 287 H) gives
 this same impression as well:
 
-<blockquote dir="rtl">
-  <p>
-ثنا الحسين بن علي وأحمد بن عثمان قالا: ثنا محمد بن خالد بن عثمة، حدثنا
-موسى بن يعقوب، حدثني المهاجر بن مسمار، عن عائشة بنت سعد، عن أبيها قال:
-سمعت رسول الله صلى الله عليه وسلم يقول يوم الجحفة وأخذ بيد علي، فخطب
-فحمد الله وأثنى عليه ثم قال: أيها الناس إني وليكم. قالوا: صدقت يا رسول
-الله، وأخذ بيد علي رضي الله عنه فرفعها فقال: هذا وليي، والمؤدي عني.
-  </p>
-</blockquote>
+> ثنا الحسين بن علي وأحمد بن عثمان قالا: ثنا محمد بن خالد بن عثمة، حدثنا
+> موسى بن يعقوب، حدثني المهاجر بن مسمار، عن عائشة بنت سعد، عن أبيها قال:
+> سمعت رسول الله صلى الله عليه وسلم يقول يوم الجحفة وأخذ بيد علي، فخطب
+> فحمد الله وأثنى عليه ثم قال: أيها الناس إني وليكم. قالوا: صدقت يا رسول
+> الله، وأخذ بيد علي رضي الله عنه فرفعها فقال: هذا وليي، والمؤدي عني.
 
 Husayn b. ‘Ali and Ahmad b. ‘Uthman – Muhammad b. Khalid b. ‘Athmah –
 Musa b. Ya’qub – al-Muhajir b. Mismar – ‘Aishah bint Sa’d – her father:
@@ -297,11 +237,7 @@ discharge** ***on my behalf***.”[^15]
 
 ‘Allamah al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح، فإن له شواهد
-  </p>
-</blockquote>
+> صحيح، فإن له شواهد
 
 **It is** ***sahih*** because it has *shawahid*.[^16]
 
@@ -317,21 +253,13 @@ by inheritance.
 
 ‘Allamah al-Albani has equally copied a further *shahid*:
 
-<blockquote dir="rtl">
-  <p>
-علي يقضي ديني
-  </p>
-</blockquote>
+> علي يقضي ديني
 
 ‘Ali will repay my debts.[^17]
 
 And he gives this verdict about it:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^18]
 
@@ -348,13 +276,9 @@ themselves! With support from their kinsmen and associates, they even
 proceeded to militarily install themselves in ‘Ali places. For instance,
 Imam al-Bukhari (d. 256 H) records that ‘Umar b. al-Khattab said:
 
-<blockquote dir="rtl">
-  <p>
-توفى الله نبيه صلى الله عليه و سلم فقال أبو بكر أنا ولي رسول الله صلى
-الله عليه و سلم .... توفى الله أبا بكر فقلت أنا ولي رسول الله صلى الله
-عليه و سلم وأبي بكر
-  </p>
-</blockquote>
+> توفى الله نبيه صلى الله عليه و سلم فقال أبو بكر أنا ولي رسول الله صلى
+> الله عليه و سلم .... توفى الله أبا بكر فقلت أنا ولي رسول الله صلى الله
+> عليه و سلم وأبي بكر
 
 Allah caused His Prophet, peace be upon him, to die. **So, Abu Bakr
 said, “I am the** ***wali*** **of the Messenger of Allah**, peace be
@@ -363,17 +287,13 @@ upon him”.... Allah (also) caused Abu Bakr to die. **So, I (too) said,
 
 Elsewhere, al-Bukhari also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إبراهيم بن موسى أخبرنا هشام عن ابن جريج قال أخبرني عمرو بن دينار
-عن محمد بن علي عن جابر بن عبد الله رضي الله عنهم قال: لما مات النبي
-صلى الله عليه و سلم جاء أبا بكر مال من قبل العلاء بن الحضرمي فقال أبو
-بكر من كان له على النبي صلى الله عليه و سلم دين أو كانت له قبله عدة
-فليأتنا . قال جابر وعدني رسول الله صلى الله عليه و سلم أن يعطيني هكذا
-وهكذا وهكذا فبسط يديه ثلاث مرات قال جابر فعد في يدي خمسمائة ثم خمسمائة
-ثم خمسمائة
-  </p>
-</blockquote>
+> حدثنا إبراهيم بن موسى أخبرنا هشام عن ابن جريج قال أخبرني عمرو بن دينار
+> عن محمد بن علي عن جابر بن عبد الله رضي الله عنهم قال: لما مات النبي
+> صلى الله عليه و سلم جاء أبا بكر مال من قبل العلاء بن الحضرمي فقال أبو
+> بكر من كان له على النبي صلى الله عليه و سلم دين أو كانت له قبله عدة
+> فليأتنا . قال جابر وعدني رسول الله صلى الله عليه و سلم أن يعطيني هكذا
+> وهكذا وهكذا فبسط يديه ثلاث مرات قال جابر فعد في يدي خمسمائة ثم خمسمائة
+> ثم خمسمائة
 
 **Narrated J**a**bir b. ‘Abd All**a**h:**
 
@@ -398,14 +318,10 @@ Therefore, despite his extraordinary patience, his shock made him to
 voice out angrily. Imam Muslim (d. 261 H) quotes ‘Umar as having said
 the following words to both ‘Ali and ‘Abbas:
 
-<blockquote dir="rtl">
-  <p>
-فلما توفي رسول الله صلى الله عليه و سلم قال أبو بكر أنا ولي رسول الله
-صلى الله عليه و سلم .... فرأيتماه كاذبا آثما غادرا خائنا والله يعلم
-إنه لصادق بار راشد تابع للحق ثم توفي أبو بكر وأنا ولي رسول الله صلى
-الله عليه و سلم وولي أبا بكر فرأيتماني كاذبا آثما غادرا خائنا
-  </p>
-</blockquote>
+> فلما توفي رسول الله صلى الله عليه و سلم قال أبو بكر أنا ولي رسول الله
+> صلى الله عليه و سلم .... فرأيتماه كاذبا آثما غادرا خائنا والله يعلم
+> إنه لصادق بار راشد تابع للحق ثم توفي أبو بكر وأنا ولي رسول الله صلى
+> الله عليه و سلم وولي أبا بكر فرأيتماني كاذبا آثما غادرا خائنا
 
 When the Messenger of Allah, peace be upon him, died, **Abu Bakr said:
 “I am the** ***wali*** **of the Messenger of Allah, peace be upon
@@ -496,5 +412,4 @@ Kathir; 3rd edition, 1407 H) [annotator: Dr. Mustafa Dib al-Bagha], vol.
 [^21]: Abu al-Husayn Muslim b. al-Hajjaj al-Qushayri al-Naysaburi, Sahih
 Muslim (Beirut: Dar Ihya al-Turath al-‘Arabi) [annotator: Muhammad Fuad
 ‘Abd al-Baqi], vol. 3, p. 1376, \#1757
-
 

@@ -318,4 +318,3 @@ Sadiq (a.s.)
 
 [^18]: Sura al-Hadid, Ayah 25
 
-

@@ -79,11 +79,7 @@ the ”*Zahiriyyah*” because in interpreting the passages of the Qur'an
 and traditions, they content themselves with the outward {*za*hir}
 content of the texts. For example, when the Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَجَاءَ رَبُّك وَالْمَلَك صفًّا صفًّا﴾
-  </p>
-</blockquote>
+> ﴿وَجَاءَ رَبُّك وَالْمَلَك صفًّا صفًّا﴾
 
 ***And Your Lord and the angels arrive in ranks**,*[^3]
 
@@ -114,5 +110,4 @@ Imams from the Prophet’s progeny, and saints (‘a). [Trans.]
 passages is adapted from Sayyid ‘Ali Quli Qara’i, The Qur’an with a
 Phrase-by-Phrase English Translation (London: Islamic College for
 Advanced Studies Press, 2004). [Trans.]
-
 

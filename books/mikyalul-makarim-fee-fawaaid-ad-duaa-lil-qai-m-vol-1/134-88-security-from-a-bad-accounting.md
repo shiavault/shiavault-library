@@ -4,12 +4,8 @@
 Since this *Dua* is a type of doing good to the kinsfolk of Muhammad (S)
 and Allah, the Mighty and the High has said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
-وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
+> وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ
 
 ***“And those who join that which Allah has bidden to be joined and have
 awe of their Lord and fear the evil reckoning.” (Qur’an, Surah Raad
@@ -152,5 +148,4 @@ disobeying parents etc. while these are by no means sins.
 [^9]: Tafseer Burhan; Vol. 2, Pg. 289
 
 [^10]: Tafseer Burhan; Vol. 2, Pg. 290
-
 

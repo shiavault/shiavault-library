@@ -223,4 +223,3 @@ Maimonides denies the very possibility of post-Talmudic judicial errors
 by viewing the sealing of the Talmud as an opening moment for nearly
 unrestricted judicial reasoning.[^75]
 
-

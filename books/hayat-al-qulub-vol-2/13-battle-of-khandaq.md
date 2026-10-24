@@ -36,15 +36,11 @@ religion and the religion of Muhammad. Tell us which religion is better
 and who is more rightful?” At that juncture, the following verse was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ
-يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا
-هَٰؤُلَاءِ أَهْدٰى مِنَ الَّذِينَ آمَنُوا سَبِيلًا. أُولٰئِكَ
-الَّذِينَ لَعَنَهُمُ اللَّهُ ۖ وَمَنْ يَلْعَنِ اللَّهُ فَلَنْ تَجِدَ
-لَهُ نَصِيرًا.
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ
+> يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا
+> هَٰؤُلَاءِ أَهْدٰى مِنَ الَّذِينَ آمَنُوا سَبِيلًا. أُولٰئِكَ
+> الَّذِينَ لَعَنَهُمُ اللَّهُ ۖ وَمَنْ يَلْعَنِ اللَّهُ فَلَنْ تَجِدَ
+> لَهُ نَصِيرًا.
 
 ***“Have you not seen those to whom a portion of the Book has been
 given? They believe in idols and false deities and say of those who
@@ -93,11 +89,7 @@ those places. The Muslims were pleased to hear this. Hypocrites said:
 trench in fear of the enemy! At that juncture, the Almighty Allah
 revealed the following verse in refutation of the hypocrites:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللّٰهُمَّ مَالِكَ الْمُلْكِ
-  </p>
-</blockquote>
+> قُلِ اللّٰهُمَّ مَالِكَ الْمُلْكِ
 
 ***“Say: O Allah, Master of the Kingdom!”***[^3]
 
@@ -178,14 +170,10 @@ others.” The Holy Prophet (S) said: “If you don’t like Islam, I don’t
 care about your turning to infidelity, go wherever you like. At that
 juncture, the Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُلْ لَا تَمُنُّوا عَلَيَّ
-إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ
-لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ. إِنَّ اللَّهَ يَعْلَمُ غَيْبَ
-السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ.
-  </p>
-</blockquote>
+> يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُلْ لَا تَمُنُّوا عَلَيَّ
+> إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ
+> لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ. إِنَّ اللَّهَ يَعْلَمُ غَيْبَ
+> السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ.
 
 ***“They think that they lay you under an obligation by becoming
 Muslims. Say: Lay me not under obligation by your Islam: rather Allah
@@ -206,12 +194,8 @@ night. The rule as first instituted was that no one should eat or drink
 who slept at night in Ramadan; but it was now modified by the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكُلُوا وَاشْرَبُوا حَتّٰى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ
-مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ
-  </p>
-</blockquote>
+> وَكُلُوا وَاشْرَبُوا حَتّٰى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ
+> مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ
 
 ***“…and eat and drink until the whiteness of the day becomes distinct
 from the blackness of the*** ***night at dawn…”***[^5]
@@ -406,18 +390,14 @@ that Satan, Amr bin Abde Wudd; no one would be able to escape him. Let
 us hand over Muhammad to him and we can go back to our people.” At that
 juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ يَعْلَمُ اللَّهُ الْمُعَوِّقِينَ مِنْكُمْ وَالْقَائِلِينَ
-لِإِخْوَانِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ الْبَأْسَ إِلَّا
-قَلِيلًا. أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ
-يَنْظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشٰى عَلَيْهِ
-مِنَ الْمَوْتِ ۖ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ
-حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ ۚ أُولَٰئِكَ لَمْ يُؤْمِنُوا
-فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ ۚ وَكَانَ ذٰلِكَ عَلَى اللَّهِ
-يَسِيرًا.
-  </p>
-</blockquote>
+> قَدْ يَعْلَمُ اللَّهُ الْمُعَوِّقِينَ مِنْكُمْ وَالْقَائِلِينَ
+> لِإِخْوَانِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ الْبَأْسَ إِلَّا
+> قَلِيلًا. أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ
+> يَنْظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشٰى عَلَيْهِ
+> مِنَ الْمَوْتِ ۖ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ
+> حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ ۚ أُولَٰئِكَ لَمْ يُؤْمِنُوا
+> فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ ۚ وَكَانَ ذٰلِكَ عَلَى اللَّهِ
+> يَسِيرًا.
 
 ***“Allah knows indeed those among you who hinder others and those who
 say to their brethren: Come to us; and they come not to the fight but a
@@ -901,13 +881,9 @@ little while.”***[^9]
 After that the Almighty Allah revealed many verses in condemnation of
 hypocrites, some of which were mentioned before. Then He said:
 
-<blockquote dir="rtl">
-  <p>
-مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ
-فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا
-بَدَّلُوا تَبْدِيلًا
-  </p>
-</blockquote>
+> مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ
+> فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا
+> بَدَّلُوا تَبْدِيلًا
 
 ***“Of the believers are men who are true to the covenant which they
 made with Allah: so of them is he who accomplished his vow, and of them
@@ -964,5 +940,4 @@ of 2 or 3 years.
 [^10]: Surah Ahzab 33:23
 
 [^11]: Surah Ahzab 33:25
-
 

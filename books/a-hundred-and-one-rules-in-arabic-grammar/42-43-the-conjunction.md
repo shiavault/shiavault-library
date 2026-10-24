@@ -25,4 +25,3 @@ c. a possessive pronoun
 
 d. by relating it to a definite noun in Idaafa structure
 
-

@@ -60,4 +60,3 @@ But he would never succeed against good people.”
 “Yes,” replied Grandmother. “He can harm us by making bad things appear
 tempting to us. We must always be careful”.
 
-

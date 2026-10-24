@@ -10,11 +10,7 @@ Surah al-Taghabun, Chapter 64
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -46,20 +42,12 @@ Injunctions.
 Surah al-Taghabun – Verse 1
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ
-الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ
+> الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***1. Whatever is in the heavens and whatever is on the earth glorifies
 Allah. His is the Dominion and to Him belong all the praises and He is
@@ -96,12 +84,8 @@ lie in the same.
 Surah al-Taghabun – Verse 2
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ
-وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ
+> وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***2. He it is Who created you and granted you freedom such that some of
 you are disbelievers and some of you are believers. And Allah is the
@@ -155,12 +139,8 @@ your disbelief and belief.
 Surah al-Taghabun – Verse 3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ
-صُوَرَكُمْ ۖ وَإِلَيْهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ
+> صُوَرَكُمْ ۖ وَإِلَيْهِ الْمَصِيرُ
 
 ***3. He created the heavens and the earth with truth and He fashioned
 you in your mothers’ wombs and made good your shapes. And to Him is the
@@ -201,12 +181,8 @@ Omnipotence is manifest therein.
 Surah al-Taghabun – Verse 4
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ
-وَمَا تُعْلِنُونَ ۚ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-  </p>
-</blockquote>
+> يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ
+> وَمَا تُعْلِنُونَ ۚ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
 
 ***4. He knows what is in the heavens and on earth and He knows what you
 conceal and what you reveal. And Allah is the Omniscient of what is in
@@ -248,12 +224,8 @@ Supervision.
 Surah al-Taghabun – Verse 5
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ كَفَرُوا مِن قَبْلُ فَذَاقُوا
-وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ كَفَرُوا مِن قَبْلُ فَذَاقُوا
+> وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***5. Has not the news reached you of those who disbelieved aforetime?
 They tasted the evil consequences of their deeds in this world and an
@@ -291,13 +263,9 @@ excruciating torments are in store for them in the Hereafter.
 Surah al-Taghabun – Verse 6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّهُ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِالْبَيِّنَاتِ
-فَقَالُوا أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا وَتَوَلَّوا ۚ وَّاسْتَغْنَى
-اللَّهُ ۚ وَاللَّهُ غَنِيٌّ حَمِيدٌ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّهُ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِالْبَيِّنَاتِ
+> فَقَالُوا أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا وَتَوَلَّوا ۚ وَّاسْتَغْنَى
+> اللَّهُ ۚ وَاللَّهُ غَنِيٌّ حَمِيدٌ
 
 ***6. That was because there came unto them their Messengers with clear
 proofs but they said arrogantly: "Shall mere men guide us?" Thus, they
@@ -328,13 +296,9 @@ absolutely Needless of all existent beings.
 Surah al-Taghabun – Verse 7
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-زَعَمَ الَّذِينَ كَفَرُوا أَن لَّن يُبْعَثُوا ۚ قُلْ بَلَىٰ وَرَبِّي
-لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى
-اللَّهِ يَسِيرٌ
-  </p>
-</blockquote>
+> زَعَمَ الَّذِينَ كَفَرُوا أَن لَّن يُبْعَثُوا ۚ قُلْ بَلَىٰ وَرَبِّي
+> لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى
+> اللَّهِ يَسِيرٌ
 
 ***7. The disbelievers pretend that they will never be resurrected. Say:
 "Yes! By my Lord, you will certainly be resurrected, then you shall
@@ -376,12 +340,8 @@ fostering mankind on the path of growth would be meaningless.
 Surah al-Taghabun – Verse 8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنزَلْنَا ۚ
-وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنزَلْنَا ۚ
+> وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ***8. Therefore, believe in Allah and His Messenger and in the Light
 which We have sent down. And Allah is All-Aware of what you do.***
@@ -409,21 +369,13 @@ and it is accompanied by action.
 Surah al-Taghabun – Verses 9-10
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ
-وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ
-سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
-خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ
+> وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ
+> سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+> خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ
-النَّارِ خَالِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ
+> النَّارِ خَالِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ
 
 ***9. Remember the Day when Allah will gather you on the Day of
 Gathering, that will be the Day of mutual loss and gain. And whoever
@@ -492,12 +444,8 @@ Hell and the dire fate.
 Surah al-Taghabun – Verse 11
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ ۗ وَمَن يُؤْمِن
-بِاللَّهِ يَهْدِ قَلْبَهُ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ ۗ وَمَن يُؤْمِن
+> بِاللَّهِ يَهْدِ قَلْبَهُ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***11. No calamity befalls but by the Leave of Allah and whoever
 believes in Allah, He guides his heart. And Allah is the Omniscient.***
@@ -572,19 +520,11 @@ Him.
 Surah al-Taghabun – Verses 12-13
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ
-فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ
+> فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ
-الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ
+> الْمُؤْمِنُونَ
 
 ***12. Obey Allah [in terms of the injunctions prescribed in Divine Law]
 and obey the Messenger [with respect to his commands and traditions],
@@ -631,13 +571,9 @@ trust in Him and invoke solely Him in their prayers.
 Surah al-Taghabun – Verse 14
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ
-وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَإِن تَعْفُوا
-وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ
+> وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَإِن تَعْفُوا
+> وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
 
 ***14. O you who believe! Indeed, amongst your wives and your children
 are your enemies [since they make you turn away from treading the Divine
@@ -720,20 +656,12 @@ Almighty.
 Surah al-Taghabun – Verses 15-16
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِندَهُ
-أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِندَهُ
+> أَجْرٌ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا
-وَأَنفِقُوا خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِ
-فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا
+> وَأَنفِقُوا خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِ
+> فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
 
 ***15. Your riches and your offspring are only a trial and Allah with
 Him is the great reward grants rewards to those who stand the
@@ -885,18 +813,10 @@ the saved.’"***[^17]
 Surah al-Taghabun – Verses 17-18
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ
-لَكُمْ ۚ وَاللَّهُ شَكُورٌ حَلِيمٌ
-  </p>
-</blockquote>
+> إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ
+> لَكُمْ ۚ وَاللَّهُ شَكُورٌ حَلِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ
 
 ***17. If you lend Allah a goodly loan, He will double it for you and
 will forgive you. And Allah is Most Prepared to appreciate and the Most
@@ -1024,5 +944,4 @@ Hasan and Husayn (as), tradition 58.
 [^18]: 2:261
 
 [^19]: Ruh al-Bayan, vol. 10, p. 24.
-
 

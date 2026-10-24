@@ -207,7 +207,6 @@ earlier, of the people of Makka and Madina and they said, "He is a
 'Alawi (descendent of Ali (a.s.) young man and he performs Hajj every
 year on foot."
 
-
 **Chapter 78 : The Prohibition on Mentioning his Name H 881, Ch. 78, h
 1**
 
@@ -247,5 +246,4 @@ al-Hassan ibn Mahbub from ibn Ri'ab from abu 'Abdallah (a.s.) who has
 said the following. "No one will pronounce the exact name of the in
 charge of this task (Leadership with Divine Authority), except an
 unbeliever."
-
 

@@ -848,4 +848,3 @@ cause. The most sciences can establish is an association or succession
 between phenomena. We have clarified this topic fully in the footnotes
 to the Usule falsafeh wa rawish e riyalism, volume 2.
 
-

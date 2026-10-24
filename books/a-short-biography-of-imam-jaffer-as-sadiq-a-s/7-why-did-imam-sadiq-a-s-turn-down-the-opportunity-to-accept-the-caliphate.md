@@ -246,4 +246,3 @@ On the other hand, Imam Sadiq’s approach strengthened the religion of
 Allah and opened up venues of knowledge and learning that continue to
 benefit humanity in general and Muslims in particular till this day.
 
-

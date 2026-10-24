@@ -129,4 +129,3 @@ can see and He is the one who will give you Thawaab for what you have
 done. In fact Allah says that He will give you more Thawaab if you do
 good and do not tell everyone.
 
-

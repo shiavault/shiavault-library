@@ -183,4 +183,3 @@ unity, and a wise prudence.
 
 Suleiman Kattani (Christian Writer and management from Lebanon)
 
-

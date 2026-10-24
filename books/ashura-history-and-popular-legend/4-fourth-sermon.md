@@ -286,7 +286,6 @@ have carried out tahrif to the extent that they have done. For the same
 reason no one has ever delivered a great blow to humanity by distorting
 facts and fabricating falsehoods.
 
-
 **Our Responsibility and Mission**
 
 You should know that we have a serious responsibility in this regard,
@@ -524,5 +523,4 @@ incompetent, and that Hadrat Abbas was both pious and competent. See how
 an apparently small distortion leads to such a great deviation.
 
 6 Safinat al-bihar, vol. 1, p. 63; Usul al-Kafi, vol. 1, p. 54.
-
 

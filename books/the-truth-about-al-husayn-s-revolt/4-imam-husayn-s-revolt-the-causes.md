@@ -470,4 +470,3 @@ revolutionaries and martyrs. That was why he started this move in his
 own immediate circle by bringing with him all members of his family for
 he wanted them to be messengers for his revolt.
 
-

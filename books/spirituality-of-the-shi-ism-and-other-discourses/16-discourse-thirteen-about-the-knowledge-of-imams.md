@@ -33,12 +33,8 @@ However, the exception in the following verse shows that the
 exclusiveness of knowledge of the unseen for God signifies that no one
 possesses such knowledge independently in and of itself, save God.
 
-<blockquote dir="rtl">
-  <p>
-﴿ عَالِمُ الْغَيْبِ فَلاَ يُظْهِرُ عَلَى غَيْبِهِ أَحَدًا \* إِلاَّ
-مَنِ ارْتَضَى مِنْ رَسُولٍ... ﴾
-  </p>
-</blockquote>
+> ﴿ عَالِمُ الْغَيْبِ فَلاَ يُظْهِرُ عَلَى غَيْبِهِ أَحَدًا \* إِلاَّ
+> مَنِ ارْتَضَى مِنْ رَسُولٍ... ﴾
 
 ***“He is knower of the Invisible and He reveals His knowledge of the
 unseen unto no one, save those messengers He has preferred…”***[^2]
@@ -102,22 +98,14 @@ intention. Indeed, what the certain fate and providence of Truth, the
 Almighty, does necessitate is contentment with fate. Thus, Sayyid
 al-Shuhadā’ (‘a) said amid blood and dust at the final hour of his life:
 
-<blockquote dir="rtl">
-  <p>
-رضاً بقضاءك وتسليماً لامرك لا معبود سواك.
-  </p>
-</blockquote>
+> رضاً بقضاءك وتسليماً لامرك لا معبود سواك.
 
 “With contentment for Your providence and in surrender to Your command.
 There is no object of worship besides You.”
 
 Furthermore, in an oration before he left Mecca he said:
 
-<blockquote dir="rtl">
-  <p>
-رضا الله رضانا أهل البيت.
-  </p>
-</blockquote>
+> رضا الله رضانا أهل البيت.
 
 “The satisfaction of Allah is in our satisfaction; that of the Ahl
 al-Bayt.”[^4]
@@ -139,11 +127,7 @@ this benedictory knowledge. This is like asking: if Sayyid al-Shuhadā’
 his representative? Why did he write a letter to the people of Kūfah
 through Saydāwī? Why did he get himself killed when God states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلاَ تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلاَ تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ... ﴾
 
 “And cast not yourselves by your own hands into destruction…”[^5]
 
@@ -264,11 +248,7 @@ were bringing the Ahl al-Bayt prisoners and the heads of the martyrs of
 Karbalā into Damascus, he came out to watch and, after having heard a
 crow squawk (which is held in some places to be a bad omen), he said:
 
-<blockquote dir="rtl">
-  <p>
-نعب الغراب فقلت صح اولا تصح فقد اقتضيت من الرسول ديوني
-  </p>
-</blockquote>
+> نعب الغراب فقلت صح اولا تصح فقد اقتضيت من الرسول ديوني
 
 The crow squawked and I said shriek or not,
 
@@ -278,11 +258,7 @@ Also, when they brought the Ahl al-Bayt captives and the holy head of
 Sayyid al-Shuhadā’ (‘a) before him, he sang some verses one of which
 was:
 
-<blockquote dir="rtl">
-  <p>
-لعبت هاشم بالملك فلا خبرٌ جاء ولا وحيٌّ نزل
-  </p>
-</blockquote>
+> لعبت هاشم بالملك فلا خبرٌ جاء ولا وحيٌّ نزل
 
 Hāshim[^7] played with the Land; for no
 
@@ -351,11 +327,7 @@ fourteen centuries, making the verity of Sayyid al-Shuhadā’s (‘a) choice
 clearer than day. A poem recited by Sayyid al-Shuhadā’ (‘a)—according to
 some narrations—is an indicator of this same truth:
 
-<blockquote dir="rtl">
-  <p>
-وما ان طبنا جبن ولکن منايانا ودولة آخرينا
-  </p>
-</blockquote>
+> وما ان طبنا جبن ولکن منايانا ودولة آخرينا
 
 And it is not for us to feel fear, because
 
@@ -488,11 +460,7 @@ unfounded.
 
 In description of the Pharaoh and his people, God, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنفُسُهُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنفُسُهُمْ... ﴾
 
 ***“And they denied the miracles and invitation of Moses (‘a) even
 though they were certain of their truth…”***[^8]
@@ -578,5 +546,4 @@ such as Imām al-Sādiq, Imām Mūsā ibn Ja‘far, and Imām al-Ridā (‘a). F
 instance: عن الصادق عن ابيه عن آبائهم عن علي (ع) وعن النبي (ص). That
 which I refuted were narrations that people other than the Imāms cited,
 showing consultation of the people.
-
 

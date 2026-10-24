@@ -322,12 +322,8 @@ When I reached the wall of Abaya, I heard a voice reciting Holy Quran. I
 saw that Master Ali Ibne Abi Talib was coming from Maqam-e-Yambu’
 reciting the verse of Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لَا تُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لَا تُرْجَعُونَ
 
 ***“What! did you then think that We had created you in vain and that
 you shall not be returned to Us?”***[^1]
@@ -395,5 +391,4 @@ his stomach was full, all his hairs became black.
 people of Yemen has hated me.”
 
 [^1]: Surah Mominoon 23:115
-
 

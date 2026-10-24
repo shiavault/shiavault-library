@@ -33,12 +33,10 @@ they have gone wrong.
 This booklet presents the arguments for allowing polygamy in a lucid
 manner.
 
-
 WORLD ORGANIZATION FOR ISLAMIC SERVICES
 (Board of Writing, Translation and Publication)
 
 In the Name of Allah the Beneficent,the Merciful
-
 
 **Introduction**
 
@@ -100,5 +98,4 @@ found in other religions. Then we should see on what grounds and with
 what conditions has Islam allowed a man to marry more than one wife.
 Does it offer solutions to the social problems facing many countries
 today?
-
 

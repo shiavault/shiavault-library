@@ -131,4 +131,3 @@ Dar ul Fjr l Islami Madina 1416A.H. P: 27
 
 [^58]: al Quran; 24:33
 
-

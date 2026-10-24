@@ -658,4 +658,3 @@ al-hudāt, vol. 7, sect. 12, chap. 33, p. 363, no. 148; Mu\`jam rijāl
 al-ḥadīth, vol. 2, p. 49, no. 433; Biḥār al-anwār, vol. 51, chap. 15, p.
 306, no. 21.
 
-

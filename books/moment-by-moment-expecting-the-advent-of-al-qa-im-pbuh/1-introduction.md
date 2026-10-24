@@ -40,7 +40,6 @@ associate anything with Me. (24:55)
 In a number of verses in the Quran, Allah has emphasized that what He
 has promised will certainly take place. For instance:
 
-
 Dr.Vahid Majd
 
 Verily that which you are promised is true. (51:5)
@@ -112,7 +111,6 @@ significance of continual expectation of receiving al-Qa'im (PBUH), will
 present the notion of waiting for the relief (Intidhar al-Faraj), and
 the way it should affect our life.
 
-
 **Part I. Expecting the Signs vs. Expecting al-Qa'im(p.b.u.h)**
 
 **1. The signs before reappearance of al-Mahdi (PBUH)**
@@ -146,7 +144,6 @@ narrated:
 al-Ghaiba, al-Nu'mani, p. 234, Hadith 22; p. 253, Hadith 13; Bihar
 al-Anwar, vol. 52, p. 348, Hadith 99; p. 230, Hadith 96.
 
-
 I was sitting with Imam Muhammad al-Baqir (PBUH) when he (PBUH) said,
 "There shall be two signs before the rising of al-Qa'im (PBUH) that have
 not occurred since Adam (PBUH) descended on earth. The sun shall be
@@ -179,7 +176,6 @@ consequently, the unpredictability of the time of the reappearance of
 Imam al-Mahdi (PBUH).
 
 **1 The possibility of canceling the signs of the reappearance**
-
 
 The foretold future events before the reappearance of Imam al-Mahdi
 (PBUH) were the information that Allah willed their occurrence and were
@@ -265,5 +261,4 @@ more detail. This is one of the complex issues that have confused minds
 of many people, and consequently the opponents of the school of Ahl
 al-Bait (PBUT) have taken the advantage of this confusion to ridicule
 and attack their faith.
-
 

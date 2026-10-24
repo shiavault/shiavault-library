@@ -98,4 +98,3 @@ can ‘legally’ make in the course of a game can at any time be changed,
 the prohibition against stabbing his opponents is not likely to change
 at all.
 
-

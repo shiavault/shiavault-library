@@ -33,4 +33,3 @@ details, we refrain from repeating them in this thesis, satisfying
 ourselves with relating the *hadīth* narrated in *Misbāh ash-Sharī'ah*
 concerning the relevant discipline.
 
-

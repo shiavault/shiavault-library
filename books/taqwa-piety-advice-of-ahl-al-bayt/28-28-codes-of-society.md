@@ -251,4 +251,3 @@ even if he is in his own house.”[^32]
 
 [^32]: Al-Kafi, vol. 4, p. 58.
 
-

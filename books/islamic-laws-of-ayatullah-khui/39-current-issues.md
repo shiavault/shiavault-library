@@ -1016,4 +1016,3 @@ the bank for this task.
 
 [^5]: Property that is endowed for pious purposes.
 
-

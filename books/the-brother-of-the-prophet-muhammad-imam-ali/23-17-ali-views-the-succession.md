@@ -199,4 +199,3 @@ Saha p. 73.
 
 [^6]: Nahjul-Balaghah Part 3 pp. 198-199.
 
-

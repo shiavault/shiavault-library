@@ -97,4 +97,3 @@ what you say when you are in the presence of kings.”[^8]
 
 [^8]: Al-Kuna wal-Alghab, vol. 2, p. 119.
 
-

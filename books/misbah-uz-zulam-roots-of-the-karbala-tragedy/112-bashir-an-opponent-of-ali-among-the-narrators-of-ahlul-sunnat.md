@@ -24,4 +24,3 @@ those who do not love His Eminence, Ali (a.s.) have no deliverance from
 hell. Because the hearts of hypocrites are bereft of Ali’s love and the
 place of these hypocrites is in hell.
 
-

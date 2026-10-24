@@ -186,7 +186,6 @@ suicide. The large sale of this book precisely shows that a large number
 of people in Japan are inclined to commit suicide. The possibilities are
 that they might commit suicide in future.
 
-
 **Why people commit suicide?**
 
 A question arises, why people living in well-off and rich countries are
@@ -343,5 +342,4 @@ Thus, denying the existence of God means denying everything. Man has
 been created in the nature of sensing the existence of his Creator. This
 sensing is by itself a religion. Islam is a religion which interpreates
 this natural sensing in human language.
-
 

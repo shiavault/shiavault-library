@@ -1,24 +1,16 @@
 Section 1: Qur’an Revealed to Lead Mankind to Light
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
 Surah ‘Ibrahim – Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الر كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ
-الظُّلُمَاتِ إِلَي النُّورِ بإِذْنِ رَبّـِهِمْ إِلَي صِرَاطِ
-الْعَزِيزِ الْحَمِيدِ
-  </p>
-</blockquote>
+> الر كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ
+> الظُّلُمَاتِ إِلَي النُّورِ بإِذْنِ رَبّـِهِمْ إِلَي صِرَاطِ
+> الْعَزِيزِ الْحَمِيدِ
 
 ***1. “Alif, ‘A’ Lam, ‘L’ Ra, ‘R’. (This is) a Book which We have sent
 down to you so that, by their Lord’s permission, you lead out the people
@@ -111,12 +103,8 @@ finally from the darkness of sin into the light of virtue.
 Surah ‘Ibrahim – Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَوَيْلٌ
-لّـِلْكَافِرِينَ مِنْ عَذَابٍ شَدِيدٍ
-  </p>
-</blockquote>
+> اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَوَيْلٌ
+> لّـِلْكَافِرِينَ مِنْ عَذَابٍ شَدِيدٍ
 
 ***2. “Allah, unto Whom belongs whatever is in the heavens and whatever
 is in the earth, and woe to the unbelievers for severe chastisement.”***
@@ -139,13 +127,9 @@ The verse continues saying:
 Surah ‘Ibrahim – Verse 3
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَي الأَخِرَةِ
-وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجاً اُوْلَئِكَ فِي
-ضَلالٍ بَعِيدٍ
-  </p>
-</blockquote>
+> الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَي الأَخِرَةِ
+> وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجاً اُوْلَئِكَ فِي
+> ضَلالٍ بَعِيدٍ
 
 ***3. “Those who prefer the life of the world to the Hereafter, and
 hinder (others) from the path of Allah, and seek to make it crooked.
@@ -214,13 +198,9 @@ obstruction of Allah’s path.
 Surah ‘Ibrahim – Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلاَّ بِلِسَانِ قَوْمِهِ لِيُبَيّـِنَ
-لَهُمْ فَيُضِلُّ اللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَهُوَ
-الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلاَّ بِلِسَانِ قَوْمِهِ لِيُبَيّـِنَ
+> لَهُمْ فَيُضِلُّ اللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَهُوَ
+> الْعَزِيزُ الْحَكِيمُ
 
 ***4. “And We never sent a messenger except with the language of his
 people, so that he might explain (Our Message) to them clearly; then
@@ -294,13 +274,9 @@ giving up their special favours so as they can teach others.
 Surah ‘Ibrahim – Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مُوسَي بِاَيَاتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ
-الظُّلُمَاتِ إِلَي النُّورِ وَذَكّـِرْهُم بِاَيَّامِ اللَّهِ إِنَّ فِي
-ذَلِكَ لاَيَاتٍ لِكُلّ‌ِ صَبَّارٍ شَكُورٍ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مُوسَي بِاَيَاتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ
+> الظُّلُمَاتِ إِلَي النُّورِ وَذَكّـِرْهُم بِاَيَّامِ اللَّهِ إِنَّ فِي
+> ذَلِكَ لاَيَاتٍ لِكُلّ‌ِ صَبَّارٍ شَكُورٍ
 
 ***5. “And indeed We sent Moses with Our Signs (saying): ‘Bring forth
 your people from the darkness into the light and remind them of the days
@@ -375,14 +351,10 @@ Allah).
 Surah ‘Ibrahim – Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ قَالَ مُوسَي لِقَوْمِهِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ
-إِذْ أَنجَاكُم مِنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ
-وَيُذَبّـِحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِي
-ذَلِكُم بَلآءٌ مِن رَّبّـِكُمْ عَظِيمٌ
-  </p>
-</blockquote>
+> وإِذْ قَالَ مُوسَي لِقَوْمِهِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ
+> إِذْ أَنجَاكُم مِنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ
+> وَيُذَبّـِحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِي
+> ذَلِكُم بَلآءٌ مِن رَّبّـِكُمْ عَظِيمٌ
 
 ***6. “And (remember) when Moses said to his people: ‘Remember Allah’s
 favour to you when He delivered you from Pharaoh’s people. They
@@ -433,5 +405,4 @@ as the Divine days.
 [^3]: Maryam, No. 19, verse 97
 
 [^4]: Surah TaHa, No. 20, verses 27-28
-
 

@@ -280,4 +280,3 @@ Vol.I p.115.
 [^13]: Ash-Shahristani, al-Milal wan Nihal printed on the margin of
 Kitabul-Fasl of Ibn Hazm. p.141.
 
-

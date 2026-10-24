@@ -14,28 +14,16 @@ his Companions’, until the end of the first century after the Prophet’s
 Hijra. There are numerous traditions quoted from the Holy Prophet (a.s)
 testifying to this usage, three of which are mentioned here:
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا السّجُود، فاجْتَهِدوا بالدّعاءِ فَضَمِنَ أنْ يُسْتَجابَ لَكُم.
-  </p>
-</blockquote>
+> وَأمّا السّجُود، فاجْتَهِدوا بالدّعاءِ فَضَمِنَ أنْ يُسْتَجابَ لَكُم.
 
 When praying, in the state of prostration, make effort; your prayer will
 be accepted hopefully.[^2]
 
-<blockquote dir="rtl">
-  <p>
-صَلّوا عَلَيَّ واجْتَهِدوا في الدّعاءِ.
-  </p>
-</blockquote>
+> صَلّوا عَلَيَّ واجْتَهِدوا في الدّعاءِ.
 
 Pay tribute to me and make effort when praying.[^3]
 
-<blockquote dir="rtl">
-  <p>
-فَضْلُ العَالِمِ عَلى المُجْتَهِدِ مِائَةُ دَرَجة.
-  </p>
-</blockquote>
+> فَضْلُ العَالِمِ عَلى المُجْتَهِدِ مِائَةُ دَرَجة.
 
 A scientist is a hundred times more excellent than one who only makes
 effort in worship[^4].[^5]
@@ -43,12 +31,8 @@ effort in worship[^4].[^5]
 Apart from what was mentioned from the Holy Prophet, here are just two
 examples from the various statements available in this regard:
 
-<blockquote dir="rtl">
-  <p>
-كانَ رَسُولُ اللهِ صلّى اللهُ عليهِ وسلَّم يَجْتَهِدُ في العَشْرِ
-الأواخِرِ ما لا يَجْتَهِدُ في غَيرِه.
-  </p>
-</blockquote>
+> كانَ رَسُولُ اللهِ صلّى اللهُ عليهِ وسلَّم يَجْتَهِدُ في العَشْرِ
+> الأواخِرِ ما لا يَجْتَهِدُ في غَيرِه.
 
 The messenger of Allah (a.s) made such an effort in worshiping in the
 last ten days of Ramadan that he did not make in other times.[^6]
@@ -56,12 +40,8 @@ last ten days of Ramadan that he did not make in other times.[^6]
 Ummah Harithah, a female Companion of the Prophet, when speaking with
 the Prophet about her martyred son says:[^7]
 
-<blockquote dir="rtl">
-  <p>
-إنْ كانَ في الجَنَّةِ صَبَرْتُ وإنْ كانَ غَيْرَ ذلِكَ اجْتَهَدْتُ
-عَلَيهِ في البُكاءِ.
-  </p>
-</blockquote>
+> إنْ كانَ في الجَنَّةِ صَبَرْتُ وإنْ كانَ غَيْرَ ذلِكَ اجْتَهَدْتُ
+> عَلَيهِ في البُكاءِ.
 
 If my child is in Paradise, I will be patient otherwise I will make
 effort in crying.[^8]
@@ -70,11 +50,7 @@ As a result, the lexical meaning of Ijtihad, during the Prophet’s age
 and a while after him, was to attempt or make effort. The only exception
 to this usage is the tradition of Mu’adh reading:
 
-<blockquote dir="rtl">
-  <p>
-أجْتَهِدُ رأيِي وَلا آلو.
-  </p>
-</blockquote>
+> أجْتَهِدُ رأيِي وَلا آلو.
 
 I will practice according to my opinion and do not fear.[^9]
 
@@ -234,33 +210,21 @@ clear and no one can deny it. It is completely mistaken to say, “Allah’s
 Book is sufficient and there is no need to other things,” since Qur’an
 has denied this, stating:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ.
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ.
 
 ***And We have revealed to you the Reminder that you may make clear to
 men what has been revealed to them, and that haply they may reflect.
 (16:44).***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانْتَهُوا.
-  </p>
-</blockquote>
+> وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانْتَهُوا.
 
 ***And whatever the Messenger gives you, accept it, and from whatever he
 forbids you, keep back. (59:7).***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ.
 
 ***O you who believe! Obey Allah and obey the Messenger. (4:59).***
 
@@ -296,12 +260,8 @@ two of the most famous reasons for it, i.e. “Purification Verse” and
 
 The Holy Qur’an sates:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a (thorough) purifying. (33:33).***
@@ -320,15 +280,11 @@ To find the answer to this question, we should attend to traditions on
 the cause of the revelation of this verse. Some such traditions from the
 most trusted Sunni books are mentioned hereinafter:[^33]
 
-<blockquote dir="rtl">
-  <p>
-عَن عائِشَةَ قالَت: خَرجَ النبي صلّى اللهُ عليهِ وسلَّم غداة وعَلَيه
-مِرطٌ مُرجَّلٌ مِن شعر أسوَدَ، فجاء الحسنُ بن عَليٍّ فأدخَلَهُ ثمَّ
-جاءَ الحُسينُ فَدخلَ معه ثمّ جاءَت فاطِمةُ فأدخَلَها ثمّ جاءَ عَليٌّ
-فأدْخَلَهُ، ثمّ قالَ: ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ
-الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
-  </p>
-</blockquote>
+> عَن عائِشَةَ قالَت: خَرجَ النبي صلّى اللهُ عليهِ وسلَّم غداة وعَلَيه
+> مِرطٌ مُرجَّلٌ مِن شعر أسوَدَ، فجاء الحسنُ بن عَليٍّ فأدخَلَهُ ثمَّ
+> جاءَ الحُسينُ فَدخلَ معه ثمّ جاءَت فاطِمةُ فأدخَلَها ثمّ جاءَ عَليٌّ
+> فأدْخَلَهُ، ثمّ قالَ: ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ
+> الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
 
 Aishah says: One morning, the Holy Prophet (a.s) came out of his house
 wearing a cloak made of black hair. Hasan (a.s) came in and the Prophet
@@ -339,17 +295,13 @@ recited, ***“Allah only desires to keep away the uncleanness from you, O
 people of the House (Ahl al-Bayt), and to purify you a thorough
 purifying. (33:33).”***[^34]
 
-<blockquote dir="rtl">
-  <p>
-…لمّا نَزَلَتْ هذه الآيَةُ على النّبي صلّى اللهُ عليهِ وسلَّم :
-﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾ في بَيتِ أُمِّ سَلَمةَ دَعا النّبيُّ صلّى
-اللهُ عليهِ وسلَّم فاطِمَةَ وَحسَناً وَحُسيناً وعَليٌّ خَلفَ ظَهْرِه
-فَجَلَّلَهُم بِكِساءٍ، ثمَّ قال: اللّهُمّ هؤلاءِ أهلُ بَيتي فَأذْهِبْ
-عَنهمُ الرّجْسَ وَطَهّرهُم تَطهيراً. قالَت أُمُّ سَلَمة: وأنا مَعَهُم
-يا نَبيَّ الله؟ قالَ: أنْتِ عَلى مَكانِكِ وأنْتِ إلى خَيرٍ.
-  </p>
-</blockquote>
+> …لمّا نَزَلَتْ هذه الآيَةُ على النّبي صلّى اللهُ عليهِ وسلَّم :
+> ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾ في بَيتِ أُمِّ سَلَمةَ دَعا النّبيُّ صلّى
+> اللهُ عليهِ وسلَّم فاطِمَةَ وَحسَناً وَحُسيناً وعَليٌّ خَلفَ ظَهْرِه
+> فَجَلَّلَهُم بِكِساءٍ، ثمَّ قال: اللّهُمّ هؤلاءِ أهلُ بَيتي فَأذْهِبْ
+> عَنهمُ الرّجْسَ وَطَهّرهُم تَطهيراً. قالَت أُمُّ سَلَمة: وأنا مَعَهُم
+> يا نَبيَّ الله؟ قالَ: أنْتِ عَلى مَكانِكِ وأنْتِ إلى خَيرٍ.
 
 Umar Ibn Salamah, the Holy Prophet’s stepchild, says: The honorable
 verse of “Purification” was revealed in the house of Ummu-Salamah, the
@@ -382,16 +334,12 @@ preferable with regard to their number and documentation.
 Another issue posed about the Purification Verse is that its preceding
 and following verses are:
 
-<blockquote dir="rtl">
-  <p>
-وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
-الْأُولَى وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ
-وَرَسُولَهُ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ
-أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا. وَاذْكُرْنَ مَا يُتْلَى
-فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ إِنَّ اللَّهَ كَانَ
-لَطِيفًا خَبِيرًا.
-  </p>
-</blockquote>
+> وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
+> الْأُولَى وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ
+> وَرَسُولَهُ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ
+> أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا. وَاذْكُرْنَ مَا يُتْلَى
+> فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ إِنَّ اللَّهَ كَانَ
+> لَطِيفًا خَبِيرًا.
 
 And stay in your houses and do not display your finery like the
 displaying of the ignorance of yore; and keep up prayer, and pay the
@@ -451,16 +399,12 @@ not take me into trouble more than that.” Then he continued: “One day,
 the Holy Prophet (a.s) delivered a sermon to us beside a pond named
 Khumm, somewhere between Mecca and Medina. After eulogy to God he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ أَيُّهَا النَّاسُ، فَإِنَّمَا أَنَا بَشَرٌ يُوشِكُ أَنْ
-يَأْتِيَنِي رَسُولُ رَبِّي فَأُجِيبُ، وَأَنَا تَارِكٌ فِيكُم
-ثَقَلَيْنِ: أَوَّلُهُمَا كِتَابُ اللهِ فِيهِ الهُدىٰ وَالنُّورُ؛
-فَخُذُوا بِكِتابِ اللهِ وَاسْتَمْسِكوا بِهِ... وَأَهْلُ بَيْتِي؛
-أُذَكِّرُكُمُ اللهَ فِي أَهْلِ بَيْتِي، أُذَكِّرُكُمُ اللهَ فِي أَهْلِ
-بَيْتِي، أُذَكِّرُكُمُ اللهَ فِي أَهْلِ بَيْتِي.
-  </p>
-</blockquote>
+> أَلاَ أَيُّهَا النَّاسُ، فَإِنَّمَا أَنَا بَشَرٌ يُوشِكُ أَنْ
+> يَأْتِيَنِي رَسُولُ رَبِّي فَأُجِيبُ، وَأَنَا تَارِكٌ فِيكُم
+> ثَقَلَيْنِ: أَوَّلُهُمَا كِتَابُ اللهِ فِيهِ الهُدىٰ وَالنُّورُ؛
+> فَخُذُوا بِكِتابِ اللهِ وَاسْتَمْسِكوا بِهِ... وَأَهْلُ بَيْتِي؛
+> أُذَكِّرُكُمُ اللهَ فِي أَهْلِ بَيْتِي، أُذَكِّرُكُمُ اللهَ فِي أَهْلِ
+> بَيْتِي، أُذَكِّرُكُمُ اللهَ فِي أَهْلِ بَيْتِي.
 
 “O people! I am a human being. God’s angel will soon come to take my
 soul and I will accept him. I will leave two valuable things among you;
@@ -472,15 +416,11 @@ al-Bayt. I remind you of God about my Ahl al-Bayt.”
 In *Sunan Al-Tirmidhi*, Zayd Ibn Arqam has quoted the Holy Prophet (a.s)
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-إنّي تارِكٌ فيكُمُ الثَّقَلَينِ ما إنْ تَمَسَّكْتُم بِهِما لنْ
-تَضِلّوا بَعدي؛ أَحَدُهُما أعْظَمُ مِن الآخَرِ؛ كِتابُ اللهِ حَبْلٌ
-مَمدودٌ مِن السَّماءِ إلى الأرْضِ وعِتْرَتي أهلُ بَيتي، وَلَن
-يَتَفَرَّقا حَتىّ يَرِدا عَليَّ الحَوضَ فانْظُروا كَيفَ تُخَلِّفونِي
-فِيهِما.
-  </p>
-</blockquote>
+> إنّي تارِكٌ فيكُمُ الثَّقَلَينِ ما إنْ تَمَسَّكْتُم بِهِما لنْ
+> تَضِلّوا بَعدي؛ أَحَدُهُما أعْظَمُ مِن الآخَرِ؛ كِتابُ اللهِ حَبْلٌ
+> مَمدودٌ مِن السَّماءِ إلى الأرْضِ وعِتْرَتي أهلُ بَيتي، وَلَن
+> يَتَفَرَّقا حَتىّ يَرِدا عَليَّ الحَوضَ فانْظُروا كَيفَ تُخَلِّفونِي
+> فِيهِما.
 
 “I leave two invaluable things. If you follow them, you will never go
 astray after me. They are both great: Allah’s Book that is taken from
@@ -505,22 +445,14 @@ issue from the Holy Prophet (a.s):
 Muhammad Ibn Muthana, with a few persons in between, narrates Jabir Ibn
 Samarah who quotes the Prophet (a.s) as saying:
 
-<blockquote dir="rtl">
-  <p>
-يَكونُ اثْنا عَشَرَ أمِيراً… كُلُّهُمْ مِن قُرَيشٍ.
-  </p>
-</blockquote>
+> يَكونُ اثْنا عَشَرَ أمِيراً… كُلُّهُمْ مِن قُرَيشٍ.
 
 “There would be twelve leaders all from Quraysh.”[^43]
 
 Ziyad Ibn Mutarrif says: “I heard the Prophet (a.s) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مِن أحَبَّ أنْ يَحْيا حَياتي وَيَموتَ مِيتَتي فَلْيَتَوَلَّ عَلِيّاً
-وَذُرَّيَّتَهُ مِنْ بَعدِه.
-  </p>
-</blockquote>
+> مِن أحَبَّ أنْ يَحْيا حَياتي وَيَموتَ مِيتَتي فَلْيَتَوَلَّ عَلِيّاً
+> وَذُرَّيَّتَهُ مِنْ بَعدِه.
 
 “Everyone who would like to live and die like I do should set Ali as his
 leader and Ali’s progeny after him.”[^44]
@@ -539,23 +471,15 @@ There is no proof for the tradition (Sunnah) of the Prophet’s Companions
 and there is no consensus about it. What some people have regarded as
 the proof for the Companions’ Sunnah are two verses of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ
-بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنْ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ.
-  </p>
-</blockquote>
+> كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ
+> بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنْ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ.
 
 ***You are the best of the nations raised up for (the benefit of) men;
 you enjoin what is right and forbid the wrong and believe in Allah.
 (3:110).***
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى
-النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا.
-  </p>
-</blockquote>
+> وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى
+> النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا.
 
 ***And thus We have made you a medium (just) nation that you may be the
 bearers of witness to the people and (that) the Messenger may be a
@@ -580,14 +504,10 @@ and some others are all examples of this bitter truth.
 The Holy Qur’an is the best witness to ingratitude and hypocrisy of some
 of the Companions, when it states:
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ حَوْلَكُمْ مِنْ الْأَعْرَابِ مُنَافِقُونَ وَمِنْ أَهْلِ
-الْمَدِينَةِ مَرَدُوا عَلَى النِّفَاقِ لَا تَعْلَمُهُمْ نَحْنُ
-نَعْلَمُهُمْ سَنُعَذِّبُهُمْ مَرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَى
-عَذَابٍ عَظِيمٍ.
-  </p>
-</blockquote>
+> وَمِمَّنْ حَوْلَكُمْ مِنْ الْأَعْرَابِ مُنَافِقُونَ وَمِنْ أَهْلِ
+> الْمَدِينَةِ مَرَدُوا عَلَى النِّفَاقِ لَا تَعْلَمُهُمْ نَحْنُ
+> نَعْلَمُهُمْ سَنُعَذِّبُهُمْ مَرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَى
+> عَذَابٍ عَظِيمٍ.
 
 ***And from among those who are round about you of the dwellers of the
 desert there are hypocrites, and from among the people of Medina (also);
@@ -600,20 +520,16 @@ of some Companions to make it clear that according to the Prophet’s
 tradition, the Companions’ traditions cannot be totally the proof. The
 honorable Prophet (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-ألا وإنَّهُ سَيُجاءُ بِرِجالٍ مِنْ أُمَّتي فَيؤخَذُ بِهِمْ ذاتَ
-الشِّمالِ فأَقُولُ: يا رَبِّ أصْحابي! فَيُقالُ: إنَّكَ لا تَدري ما
-أحْدَثوا بَعدَك. فأقولُ كَما قالَ العَبْدُ الصّالِحُ: ”مَا قُلْتُ
-لَهُمْ إِلَّا مَا أَمَرْتَنِي بِهِ أَنْ اعْبُدُوا اللَّهَ رَبِّي
-وَرَبَّكُمْ وَكُنتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ فَلَمَّا
-تَوَفَّيْتَنِي كُنتَ أَنْتَ الرَّقِيبَ عَلَيْهِمْ وَأَنْتَ عَلَى كُلِّ
-شَيْءٍ شَهِيدٌ. إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِنْ
-تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ.“ (قال)
-فَيُقالُ لي: إنَّهُم لَمْ يَزالوا مُرْتَدّينَ عَلى أعْقابِهِمْ مُنْذُ
-فارَقْتَهُم.
-  </p>
-</blockquote>
+> ألا وإنَّهُ سَيُجاءُ بِرِجالٍ مِنْ أُمَّتي فَيؤخَذُ بِهِمْ ذاتَ
+> الشِّمالِ فأَقُولُ: يا رَبِّ أصْحابي! فَيُقالُ: إنَّكَ لا تَدري ما
+> أحْدَثوا بَعدَك. فأقولُ كَما قالَ العَبْدُ الصّالِحُ: ”مَا قُلْتُ
+> لَهُمْ إِلَّا مَا أَمَرْتَنِي بِهِ أَنْ اعْبُدُوا اللَّهَ رَبِّي
+> وَرَبَّكُمْ وَكُنتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ فَلَمَّا
+> تَوَفَّيْتَنِي كُنتَ أَنْتَ الرَّقِيبَ عَلَيْهِمْ وَأَنْتَ عَلَى كُلِّ
+> شَيْءٍ شَهِيدٌ. إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِنْ
+> تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ.“ (قال)
+> فَيُقالُ لي: إنَّهُم لَمْ يَزالوا مُرْتَدّينَ عَلى أعْقابِهِمْ مُنْذُ
+> فارَقْتَهُم.
 
 “Be aware that soon people from my nation will come and be placed in
 Hell. So, I will say to God: “O Almighty God! Save my Companions!” The
@@ -628,13 +544,9 @@ retrograded and became apostates.”[^49]
 
 In *Sahih Muslim*, Hudhayfah is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-قالَ النّبي صلّى اللهُ عليهِ وسلَّم : في أصْحابي اثْنا عَشَرَ
-مُنافِقاً فِيهِمْ ثَمانِيَةٌ لا يَدْخُلونَ الجَنَّةَ حَتىّ يَلِجَ
-الجَمَلُ في سَمّ الخِياطِ.
-  </p>
-</blockquote>
+> قالَ النّبي صلّى اللهُ عليهِ وسلَّم : في أصْحابي اثْنا عَشَرَ
+> مُنافِقاً فِيهِمْ ثَمانِيَةٌ لا يَدْخُلونَ الجَنَّةَ حَتىّ يَلِجَ
+> الجَمَلُ في سَمّ الخِياطِ.
 
 The Messenger of Allah said: “Among my Companions, there are twelve
 hypocrites eight of whom will not enter the Garden (Paradise) until a
@@ -650,13 +562,9 @@ say if these constitutions in the traditions are true.
 
 The following is recorded in *Sahih Al-Bukhari*:
 
-<blockquote dir="rtl">
-  <p>
-عَن العَلاء بنِ المُسَيّب عَن أبيهِ قالَ: لَقِيتُ البَراءَ بنَ عازبٍ
-رَضِي عَنهُما فَقُلتُ: طوبى لك! صَحِبْتَ النّبيّ… فَقالَ: يا بنَ أخي!
-إنّكَ لا تدْري ما أحْدَثْنا بعدَهُ.
-  </p>
-</blockquote>
+> عَن العَلاء بنِ المُسَيّب عَن أبيهِ قالَ: لَقِيتُ البَراءَ بنَ عازبٍ
+> رَضِي عَنهُما فَقُلتُ: طوبى لك! صَحِبْتَ النّبيّ… فَقالَ: يا بنَ أخي!
+> إنّكَ لا تدْري ما أحْدَثْنا بعدَهُ.
 
 It is quoted from Al-Ala’ Ibn Musayyib who quoted his father as saying:
 I saw Bara’ Ibn ‘Azib and told him: “Good for you! You were with the
@@ -741,20 +649,12 @@ that is “following without knowledge” which is prohibited in the Holy
 Qur’an, even if it is following conjecture. The following verses are the
 best proofs for rejecting “following without knowledge.”
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ.
-  </p>
-</blockquote>
+> وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ.
 
 ***And follow not that of which you have not the knowledge. (18:36).***
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنْ
-الْحَقِّ شَيْئًا.
-  </p>
-</blockquote>
+> إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنْ
+> الْحَقِّ شَيْئًا.
 
 ***They do not follow anything but conjecture, and surely conjecture
 does not avail against the truth at all. (53:28).***
@@ -797,17 +697,13 @@ Mu’adh Ibn Jabal, to Yemen, the Messenger of Allah (a.s) had a
 conversation about judgment with him, which is narrated in *Sunan
 Al-Darimi* like this:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُعاذٍ أنَّ النّبيَّ صلّى اللهُ عليهِ وسلَّم لمّا بَعَثَهُ إلى
-اليَمنِ قالَ: أرَأيْتَ إنْ عَرَضَ لكَ قَضاءٌ، كَيفَ تقْضي؟ قال: أقْضي
-بِكتابِ اللهِ. قالَ: فإنْ لَمْ يكُنْ في كِتابِ اللهِ؟ قالَ:
-فَبِسُنَّةِ رَسولِ اللهِ صلّى اللهُ عليهِ وسلَّم . قالَ: فإنْ لَمْ
-يَكُن فِي سُنَّةِ رَسولِ اللهِ؟ قالَ: أجْتَهِدُ رأيي وَلا آلو. قالَ
-فَضَربَ صَدْرَهُ ثمَّ قالَ: الحَمْدُ للهِ الّذي وَفَّقَ رَسولَ رَسولِ
-اللهِ لما يُرضي رَسولَ اللهِ.
-  </p>
-</blockquote>
+> عَنْ مُعاذٍ أنَّ النّبيَّ صلّى اللهُ عليهِ وسلَّم لمّا بَعَثَهُ إلى
+> اليَمنِ قالَ: أرَأيْتَ إنْ عَرَضَ لكَ قَضاءٌ، كَيفَ تقْضي؟ قال: أقْضي
+> بِكتابِ اللهِ. قالَ: فإنْ لَمْ يكُنْ في كِتابِ اللهِ؟ قالَ:
+> فَبِسُنَّةِ رَسولِ اللهِ صلّى اللهُ عليهِ وسلَّم . قالَ: فإنْ لَمْ
+> يَكُن فِي سُنَّةِ رَسولِ اللهِ؟ قالَ: أجْتَهِدُ رأيي وَلا آلو. قالَ
+> فَضَربَ صَدْرَهُ ثمَّ قالَ: الحَمْدُ للهِ الّذي وَفَّقَ رَسولَ رَسولِ
+> اللهِ لما يُرضي رَسولَ اللهِ.
 
 It is narrated from Mu’adh that when the Prophet (a.s) was sending him
 to Yemen, he asked, “What would you do if you face a judgment case?” He
@@ -857,14 +753,10 @@ is in contrast with the one under discussion:
 
 • *Sunan Ibn Majah*, Kitab Al-Muqaddamah (introduction)
 
-<blockquote dir="rtl">
-  <p>
-حَدَّثنا مُعاذُ بن جَبل قالَ: لمّا بَعَثَني رسولُ اللهِ صلّى اللهُ
-عليهِ وسلَّم إلى اليَمَنِ قال: لا تَقْضِيَنَّ وَلا تَفْصِلَنَّ إلاّ
-بِما تَعْلَمُ، فَإنْ أشْكَلَ عَلَيْكَ أمْرٌ فَقِفْ حَتىّ تُبَيِّنَهُ
-أو تَكْتُبَ إليَّ فيهِ.
-  </p>
-</blockquote>
+> حَدَّثنا مُعاذُ بن جَبل قالَ: لمّا بَعَثَني رسولُ اللهِ صلّى اللهُ
+> عليهِ وسلَّم إلى اليَمَنِ قال: لا تَقْضِيَنَّ وَلا تَفْصِلَنَّ إلاّ
+> بِما تَعْلَمُ، فَإنْ أشْكَلَ عَلَيْكَ أمْرٌ فَقِفْ حَتىّ تُبَيِّنَهُ
+> أو تَكْتُبَ إليَّ فيهِ.
 
 Mu’adh narrates: When the Prophet (a.s) sent me to Yemen, he said: “Do
 not judge and solve arguments except when you are completely sure. So,
@@ -874,24 +766,16 @@ becomes clear for you, or you write a letter about it to me.”[^62]
 There are also other traditions rejecting the practice according to
 one’s opinion. The honorable Prophet (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-فَيَبقى ناسٌ جُهّالٌ يُسْتَفْتَوْنَ فَيُفْتونَ بِرأيِهِم فَيُضِلّونَ
-وَيَضِلّونَ.
-  </p>
-</blockquote>
+> فَيَبقى ناسٌ جُهّالٌ يُسْتَفْتَوْنَ فَيُفْتونَ بِرأيِهِم فَيُضِلّونَ
+> وَيَضِلّونَ.
 
 Those people remain in foulness who are asked questions and they answer
 according to their own opinion, leading others astray and going astray
 themselves.[^63]
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يزَلْ أمْرُ بَني إسرائيلَ مُعتَدِلاً حتىّ نَشَأَ فِيهِم
-المُوَلَّدونَ أبْناءُ سَبايا الأُمَمِ، فَقالوا بالرّأيِ فَضَلّوا
-وأَضَلّوا.
-  </p>
-</blockquote>
+> لَمْ يزَلْ أمْرُ بَني إسرائيلَ مُعتَدِلاً حتىّ نَشَأَ فِيهِم
+> المُوَلَّدونَ أبْناءُ سَبايا الأُمَمِ، فَقالوا بالرّأيِ فَضَلّوا
+> وأَضَلّوا.
 
 The Israelites were moderate until people emerged among them who were
 the children of the captives. They issued verdicts based on their own
@@ -950,13 +834,9 @@ inference, especially if it is opposed to our own inference. What do
 those who confine jurisprudence to these four people, say about the
 Prophet’s (a.s) statement that:
 
-<blockquote dir="rtl">
-  <p>
-نَضَّرَ اللهُ عَبداً -أوْ رَحِمَ اللهُ مَنْ- سَمِعَ مَقالَتي فَوعاها
-ثُمَّ أدّاها إلى مَنْ لَمْ يَسْمَعْها، فَرُبَّ حامِلِ فِقْهٍ لا فِقْهَ
-لهُ وَرُبَّ حامِلِ فِقْهٍ إلى مَنْ هُوَ أفْقَهُ مِنهُ.
-  </p>
-</blockquote>
+> نَضَّرَ اللهُ عَبداً -أوْ رَحِمَ اللهُ مَنْ- سَمِعَ مَقالَتي فَوعاها
+> ثُمَّ أدّاها إلى مَنْ لَمْ يَسْمَعْها، فَرُبَّ حامِلِ فِقْهٍ لا فِقْهَ
+> لهُ وَرُبَّ حامِلِ فِقْهٍ إلى مَنْ هُوَ أفْقَهُ مِنهُ.
 
 “May God promote the rank of that servant of Him who hears my speech,
 keeps it in mind and narrates to those who have not heard it. Too many
@@ -1400,5 +1280,4 @@ speaking and eloquence.” See Manaqib Al-Imam Al-Shafi’i, p. 35.
 [^84]: Lisan Al-Mizan, Vol. 5, p. 179.
 
 [^85]: See Sharh Nahj Al-Balaghah of Ibn Abi’l-Hadid, Vol. 11, p. 44.
-
 

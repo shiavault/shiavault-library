@@ -73,4 +73,3 @@ ijtihad, resorting to one's own opinion and relying on \`aql. We are the
 people of obedience and submission to the words of the Imams al­Baqir
 and al­Sadiq, and we, for our part, will not interfere."
 
-

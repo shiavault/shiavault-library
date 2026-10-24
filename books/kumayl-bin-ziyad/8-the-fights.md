@@ -16,4 +16,3 @@ over them.
 Abid al-Malik sent military supplies to support al-Hajjaj. The army in
 Khurasan joined him, too.
 
-

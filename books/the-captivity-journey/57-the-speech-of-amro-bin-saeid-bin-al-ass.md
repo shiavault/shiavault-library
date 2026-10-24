@@ -28,4 +28,3 @@ person who used to hate the Prince of Believers, Ali (Q), the most, is
 now backing down in his speech and showing himself in the place of a
 touched defender.
 
-

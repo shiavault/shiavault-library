@@ -54,14 +54,14 @@ answers in their explanations.[^66]
 
 **Notes:**
 
-[^62] Ibid, hadith no. 3781. Refer to Holy Qur’a-n (5:12) regarding the
+[^62]: Ibid, hadith no. 3781. Refer to Holy Qur’a-n (5:12) regarding the
 Nuqaba-’ (Chieftans) of Bani- Isra-’i-l.
-[^63] Al-Musnad, vol. 5, p. 101. Also refer to al-Safa-ri-ni-, Shams
+[^63]: Al-Musnad, vol. 5, p. 101. Also refer to al-Safa-ri-ni-, Shams
 al-Di-n Muhammad: Sharh Thula-thiyya-t Ahmad, vol. 1, p. 539, first
 edition, 1380, Damascus.
-[^64] Al-Salafi-, Murshad al-Muhta-r, vol. 3, p. 380.
-[^65] E.g. refer to Musnad, al-Maymaniyyah print.
-[^66] For more information on the views of the Sunnis refer to
+[^64]: Al-Salafi-, Murshad al-Muhta-r, vol. 3, p. 380.
+[^65]: E.g. refer to Musnad, al-Maymaniyyah print.
+[^66]: For more information on the views of the Sunnis refer to
 al-Safa-ri-ni-: Sharh Thula-thiyya-t Ahmad, vol. 2, pp. 540-566. Also
 see al-‘Askari-, Sayyid Murtaza-: Naqsh-e A’immah dar Ihya-’-e Di-n,
 vol. 11, pp. 74-84.

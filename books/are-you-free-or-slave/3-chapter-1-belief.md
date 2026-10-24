@@ -285,4 +285,3 @@ year of the imposed war.
 
 [^8]: Ibid, Chapter 2114
 
-

@@ -16,17 +16,12 @@ tribulations!
 
 Imam Musa b. Ja’far al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ لَمْ يَقْدِرْ عَلـى صِلَتِنَا فَلْيَصِلْ صَالِحِي مَوَالِينَا
-يُكْتَبُ لَهُ ثَوَابُ صِلَتِنَا
-  </p>
-</blockquote>
+> وَ مَنْ لَمْ يَقْدِرْ عَلـى صِلَتِنَا فَلْيَصِلْ صَالِحِي مَوَالِينَا
+> يُكْتَبُ لَهُ ثَوَابُ صِلَتِنَا
 
 “A person who is not able to present us with a gift should give it to
 the righteous ones from among our followers. It will be written for him
 as a reward for presenting a gift to us!”[^1]
 
 [^1]: Kamil al-Ziyarat, pg. 319, no. 1
-
 

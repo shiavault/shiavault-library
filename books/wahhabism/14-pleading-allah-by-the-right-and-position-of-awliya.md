@@ -19,12 +19,8 @@ Pleading Allah by the Position of Awliya
 
 The Holy Qur’an praises different groups under such titles as:
 
-<blockquote dir="rtl">
-  <p>
-الصَّابِرِينَ وَالصَّادِقِينَ وَالْقَانِتِينَ وَالْمُنْفِقِينَ
-وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ
-  </p>
-</blockquote>
+> الصَّابِرِينَ وَالصَّادِقِينَ وَالْقَانِتِينَ وَالْمُنْفِقِينَ
+> وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ
 
 ***“The patient, and the truthful, and the obedient, and those who spend
 (benevolently) and those who ask forgiveness in the morning times.***
@@ -34,11 +30,7 @@ Now, if someone in the middle of the night, after the mid-night prayers,
 turns towards his Lord and pleads God by the right and position of this
 group and says:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسئلك بحق المستغفرين بالأسحار اغفر لي ذنوبي
-  </p>
-</blockquote>
+> اللهم إني أسئلك بحق المستغفرين بالأسحار اغفر لي ذنوبي
 
 **“O Allah, I ask Thee by the right of** **those asking forgiveness at
 twilight to forgive my sins.”**
@@ -57,13 +49,9 @@ criterion for differentiating a polytheist (of course *shirk* in
 kind of interpretation of the word of polytheist according to one's
 personal opinion. This criterion is as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا
-يُؤْمِنُونَ بِالْآخِرَةِ ۖ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا
-هُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا
+> يُؤْمِنُونَ بِالْآخِرَةِ ۖ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا
+> هُمْ يَسْتَبْشِرُونَ
 
 ***“And when Allah alone is mentioned, the hearts of those who do not
 believe in the hereafter shrink, and when those besides Him are
@@ -72,13 +60,9 @@ mentioned, lo! they are joyful. (Zumar 39:45)”***
 In another verse it describes the offenders who are the same polytheist
 as such:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ
-يَسْتَكْبِرُونَ وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ
-مَجْنُونٍ
-  </p>
-</blockquote>
+> إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ
+> يَسْتَكْبِرُونَ وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ
+> مَجْنُونٍ
 
 ***“Surely they used to behave proudly when it was said to them: there
 is no god but Allah; And to say: What! shall we indeed give up our gods
@@ -117,12 +101,8 @@ clearly.
  After finishing the night ‘Nafila’ (Supererogatory) prayers, Imam would
 recite this dua:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسئلك بحُرمة من عاذ بك منك ، ولجأ إلى عزك ، واستظل بفيئك
-واعتصم بحبلك ، ولم يثق إلا بك.
-  </p>
-</blockquote>
+> اللهم إني أسئلك بحُرمة من عاذ بك منك ، ولجأ إلى عزك ، واستظل بفيئك
+> واعتصم بحبلك ، ولم يثق إلا بك.
 
 ***"O Allah, I ask Thee by the honour of the one who seeks refuge in Thy
 repentance (he thinks of no shelter other than thee) and who seeks
@@ -133,18 +113,10 @@ except Thee.”*** [^1]
 In another invocation too, which Imam 'Ali ('a) taught one of his
 followers, he says as such:
 
-<blockquote dir="rtl">
-  <p>
-وبحق السائلين عليك ، والراغبين إليك ، والمُتعوذين بك ، والمُتصغرين
-إليك ، وبحق كل عبدٍ متعبد لك في كل برٍ أو
-  </p>
-</blockquote>
+> وبحق السائلين عليك ، والراغبين إليك ، والمُتعوذين بك ، والمُتصغرين
+> إليك ، وبحق كل عبدٍ متعبد لك في كل برٍ أو
 
-<blockquote dir="rtl">
-  <p>
-بحرٍ أو سهلٍ أو جبل أدعوك دعاء من اشتدّت فاقته
-  </p>
-</blockquote>
+> بحرٍ أو سهلٍ أو جبل أدعوك دعاء من اشتدّت فاقته
 
 *“O Allah, by the right of the questioners and those who turn their
 attention and seek refuge in Thee; and those who are humble before Thee;
@@ -183,11 +155,7 @@ such pleadings as *haram* or *makruh*.
 
 The Holy Prophet (s) trained that blind person to say as such:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك وأتوجه إليك بنبيك محمد نبيّ الرحمة
-  </p>
-</blockquote>
+> اللهم إني أسألك وأتوجه إليك بنبيك محمد نبيّ الرحمة
 
 *“Oh God, I ask you and seek your attention for the sake of your prophet
 Muhammad, the merciful Prophet.”* [^3]
@@ -195,34 +163,22 @@ Muhammad, the merciful Prophet.”* [^3]
 Abu Sa'id al-Khudri has narrated from the Holy Prophet (s) the following
 *du'a*:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك بحق السائلين عليك وأسألك بحق ممشاى هذا
-  </p>
-</blockquote>
+> اللهم إني أسألك بحق السائلين عليك وأسألك بحق ممشاى هذا
 
 *“Oh God I ask for the sake of those who ask for and I ask you for the
 sake of the* *followers of this matter.”* [^4]
 
 Adam ('a) repented as such:
 
-<blockquote dir="rtl">
-  <p>
-أسألك بحق محمد إلا غفرت لي
-  </p>
-</blockquote>
+> أسألك بحق محمد إلا غفرت لي
 
 *“I ask you by the right of Muhammad to forgive me.”* [^5]
 
 When the Holy Prophet (s) buried the mother of 'Ali ('a), he recited
 this invocation for her:
 
-<blockquote dir="rtl">
-  <p>
-اغفر لأمي فاطمة بنت أسد ووسِّع عليها مدخلها بحق نبيك والأنبياء الذين
-من قبلي
-  </p>
-</blockquote>
+> اغفر لأمي فاطمة بنت أسد ووسِّع عليها مدخلها بحق نبيك والأنبياء الذين
+> من قبلي
 
 *"Forgive my mother Fatima the daughter of Asad and by the right of your
 Prophet and the Prophets before him and make her place vast and wide
@@ -243,18 +199,10 @@ needless to mention its authenticity and its attribution to Imam.
 Imam al-Sajjad ('a) used to secretly converse with Allah on the day of
 Arafat as such;
 
-<blockquote dir="rtl">
-  <p>
-بحق من أنتجبت من خلقك وبمن اصطفيته لنفسك بحق من اخترت ، من بريّتك ،
-ومن إجتبيت لشأنك ، بحق من
-  </p>
-</blockquote>
+> بحق من أنتجبت من خلقك وبمن اصطفيته لنفسك بحق من اخترت ، من بريّتك ،
+> ومن إجتبيت لشأنك ، بحق من
 
-<blockquote dir="rtl">
-  <p>
-وصلت طاعته ومن نُطت معاداته بمعاداتك
-  </p>
-</blockquote>
+> وصلت طاعته ومن نُطت معاداته بمعاداتك
 
 *“O God, by the right of those whom You have selected from Your other
 creatures; by the right of those people whom You have vested authority
@@ -265,12 +213,8 @@ to Your obedience and their enmity to Your enmity.”* [^7]
 When Imam al-Sadiq (‘a) performed *ziyara* of his great grandfather Amir
 al-mu'minin ('a), he concluded his prayers as such:
 
-<blockquote dir="rtl">
-  <p>
-اللهم استجب دعائي واقبل ثنائي واجمع بيني وبين أوليائي بحق محمد وعليّ
-وفاطمة والحسن والحسين
-  </p>
-</blockquote>
+> اللهم استجب دعائي واقبل ثنائي واجمع بيني وبين أوليائي بحق محمد وعليّ
+> وفاطمة والحسن والحسين
 
 *“O God respond to my prayers and accept my glorification (of You) and
 by the right of Muhammad, 'Ali, Fatima, al-Hasan and al-Husayn (‘a)
@@ -284,18 +228,10 @@ the supplications of other Shi'a Imams too, one can find such
 The noble leader, Imam Husayn ibn 'Ali ('a) in one of the supplication
 says:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك بكلماتك ومعاقد عزك وسُكان سماواتك وأرضك وأنبيائك ورسلك
-أن تستجيب لي فقد رهقني من
-  </p>
-</blockquote>
+> اللهم إني أسألك بكلماتك ومعاقد عزك وسُكان سماواتك وأرضك وأنبيائك ورسلك
+> أن تستجيب لي فقد رهقني من
 
-<blockquote dir="rtl">
-  <p>
-أمري عسر فأسألك أن تُصلي على محمد وأل محمد وأن تجعل من أمري يُسرأً
-  </p>
-</blockquote>
+> أمري عسر فأسألك أن تُصلي على محمد وأل محمد وأن تجعل من أمري يُسرأً
 
 *“O Allah, I ask You by Your words and the centre of Your honour; and by
 the inhabitants of* *the heavens and the land; and by your Prophets and
@@ -357,11 +293,7 @@ of attributing this *fatwa* to Abu Hanifa is not proved.
 
 ### Second Objection
 
-<blockquote dir="rtl">
-  <p>
-إن المسألة بحق المخلوق لا تجوز لأنه لا حق للمخلوق على الخالق
-  </p>
-</blockquote>
+> إن المسألة بحق المخلوق لا تجوز لأنه لا حق للمخلوق على الخالق
 
 *“Asking Allah by the right of a creature is not permissible because the
 one who is created has no right before the Creator.”* [^11]
@@ -381,38 +313,22 @@ traditions (hadiths).
 
 These are the verses:
 
-<blockquote dir="rtl">
-  <p>
-وكان حقاً علينا نصرا المؤمنين
-  </p>
-</blockquote>
+> وكان حقاً علينا نصرا المؤمنين
 
 ***“And helping the believers is ever incumbent on Us.*** ***(Rum
 30:47)”***
 
-<blockquote dir="rtl">
-  <p>
-وعداً عليه حقاً في التوراة والإنجيل
-  </p>
-</blockquote>
+> وعداً عليه حقاً في التوراة والإنجيل
 
 ***“A promise which is binding on Him in the Torah and the Injil***
 ***(Tauba 9:111)”***
 
-<blockquote dir="rtl">
-  <p>
-كذلك حقاً علينا نُنج المؤمنين
-  </p>
-</blockquote>
+> كذلك حقاً علينا نُنج المؤمنين
 
 ***“It is binding on us (that) We deliver the believers.*** ***(Yunus
 11:103)”***
 
-<blockquote dir="rtl">
-  <p>
-إنما التوبة على الله للذين يعملون السؤء بجهالة
-  </p>
-</blockquote>
+> إنما التوبة على الله للذين يعملون السؤء بجهالة
 
 ***“Repentance with Allah is only for those who do evil in ignorance.***
 ***(Nisa 4:18)”***
@@ -422,32 +338,20 @@ propagation of groundless dogmatic ideas?
 
 Now some examples from traditions:
 
-<blockquote dir="rtl">
-  <p>
-حقٌ على الله عون من نكح إلتماس العفاف مما حرَّم الله
-  </p>
-</blockquote>
+> حقٌ على الله عون من نكح إلتماس العفاف مما حرَّم الله
 
 *“It is a right upon Allah to help the one who marries because of
 protecting his chastity from the forbidden acts.”* [^12]
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله : ثلاثة حق على الله عونُهم: الغازي في سبيل الله والمكاتب
-الذي يريد الأداء ، والناكح الذي يريد التعنف
-  </p>
-</blockquote>
+> قال رسول الله : ثلاثة حق على الله عونُهم: الغازي في سبيل الله والمكاتب
+> الذي يريد الأداء ، والناكح الذي يريد التعنف
 
 *“The Holy Prophet (s)* *said: “There are three groups of people to whom
 help is an obligation upon Allah. A warrior in the path of Allah, a
 servant who agrees to pay a sum to his master for his release and a
 youth who wishes to protect his honour by way of marriage.”* [^13]
 
-<blockquote dir="rtl">
-  <p>
-أتدري ما حق العباد على الله...
-  </p>
-</blockquote>
+> أتدري ما حق العباد على الله...
 
 *“Do you not see the obligation which is upon Allah with regards to His
 slaves?”* [^14]
@@ -555,11 +459,7 @@ the odd, And the night when it departs.*** ***(Fajr 89:1-4)”***
 fine parchment. And the House (Ka'ba) that is visited, and the elevated
 canopy, and the swollen sea.*** ***(Tur 52:1-6)”***
 
-<blockquote dir="rtl">
-  <p>
-لعمرك إنهم لفي سكرتهم يعمهون
-  </p>
-</blockquote>
+> لعمرك إنهم لفي سكرتهم يعمهون
 
 ***“By your life! they were blindly wandering on in their
 intoxication.*** ***(Hijr 15:72)”***
@@ -591,12 +491,8 @@ other than Allah.
 
 (1) Tradition from *Sahih Muslim*
 
-<blockquote dir="rtl">
-  <p>
-جاء رجل إلى النبيّ فقال يا رسول الله أي الصدقة أعظم اجراً؟ فقال أما
-وابيك لتنبأنه ، أن تصدق وأنت صحيح شجيح تخشى الفقر وتأمل البقاء
-  </p>
-</blockquote>
+> جاء رجل إلى النبيّ فقال يا رسول الله أي الصدقة أعظم اجراً؟ فقال أما
+> وابيك لتنبأنه ، أن تصدق وأنت صحيح شجيح تخشى الفقر وتأمل البقاء
 
 ***“A person approached the Holy Prophet (s) and said: ‘O Prophet of
 Allah, which*** ***charity bears the greatest reward?’ The Holy Prophet
@@ -607,27 +503,15 @@ from poverty and think of your future life.’*** [^21]
 
 (2) Another Tradition from *Sahih Muslim*
 
-<blockquote dir="rtl">
-  <p>
-جاء رجل إلى رسول الله مِن نجد يسأل عن الإسلام فقال رسول الله (صلى الله
-عليه وأله): خمس صلوات في اليوم والليل فقال: هل عليَّ غيرهم؟ قال: لا
-إلا أن تطوَّع وصيام شهر رمضان فقال: هل عليَّ غيره؟ قال لا أن تطوَّع
-  </p>
-</blockquote>
+> جاء رجل إلى رسول الله مِن نجد يسأل عن الإسلام فقال رسول الله (صلى الله
+> عليه وأله): خمس صلوات في اليوم والليل فقال: هل عليَّ غيرهم؟ قال: لا
+> إلا أن تطوَّع وصيام شهر رمضان فقال: هل عليَّ غيره؟ قال لا أن تطوَّع
 
-<blockquote dir="rtl">
-  <p>
-وذكر له رسول الله (صلى الله عليه وأله) الزكاة فقال: هل عليًّ غيره قال
-لا إلا أن تطوَّع فأدبر الرجل وهو يقول
-  </p>
-</blockquote>
+> وذكر له رسول الله (صلى الله عليه وأله) الزكاة فقال: هل عليًّ غيره قال
+> لا إلا أن تطوَّع فأدبر الرجل وهو يقول
 
-<blockquote dir="rtl">
-  <p>
-والله لا أزيد على هذا ولا أنقص منه فقال رسول الله أفلح وأبيه إن صدق أو
-دخل الجنة وأبيه إن صدق.
-  </p>
-</blockquote>
+> والله لا أزيد على هذا ولا أنقص منه فقال رسول الله أفلح وأبيه إن صدق أو
+> دخل الجنة وأبيه إن صدق.
 
 *"A person from Najd approached the Holy Prophet (s) and questioned him
 about Islam.* *The Holy Prophet (s) replied: ‘The foundations of Islam
@@ -653,11 +537,7 @@ enter paradise if he speaks the truth.’* [^22]
 
 (3) Tradition from *al-Musnad* of Ahmad ibn Hanbal:
 
-<blockquote dir="rtl">
-  <p>
-فلعمري لأن تكلم بمعروف وتنهى عن مُنكر خير من أن تسكت
-  </p>
-</blockquote>
+> فلعمري لأن تكلم بمعروف وتنهى عن مُنكر خير من أن تسكت
 
 *“I swear by my life that ‘enjoining good and forbidding evil’ is better
 than silence*.” [^23]
@@ -723,12 +603,8 @@ blasphemy.
 
 ### First Tradition
 
-<blockquote dir="rtl">
-  <p>
-إن رسول الله سمع عمر وهو يقول: وابي فقال إن الله ينهاكم أن تحلفوا
-بأبائكم ومن كان حالفاً فليحلف بالله أو يسكت
-  </p>
-</blockquote>
+> إن رسول الله سمع عمر وهو يقول: وابي فقال إن الله ينهاكم أن تحلفوا
+> بأبائكم ومن كان حالفاً فليحلف بالله أو يسكت
 
 *“The Holy Prophet (s) heard ‘Umar swearing by his father. The Holy
 Prophet (s) said: ‘God has forbidden you (all) from swearing by your
@@ -755,13 +631,9 @@ application.
 
 ### Second Tradition
 
-<blockquote dir="rtl">
-  <p>
-جاء ابن عمر رجل فقال: احلف بالكعبة قال لا ولكن احلف برب الكعبة فإن عمر
-كان يحلف بأبيه فقال رسول الله (صلى الله عليه وأله): لا تحلف بأبيك فإن
-من حلف بغير الله فقد اشرك.
-  </p>
-</blockquote>
+> جاء ابن عمر رجل فقال: احلف بالكعبة قال لا ولكن احلف برب الكعبة فإن عمر
+> كان يحلف بأبيه فقال رسول الله (صلى الله عليه وأله): لا تحلف بأبيك فإن
+> من حلف بغير الله فقد اشرك.
 
 “A person approached the son of ‘Umar and said: ‘I swear by the Ka’ba.’
 The son of ‘Umar said: ‘You should swear by the Lord of the Ka’ba
@@ -821,11 +693,7 @@ cases (swearing by the polytheist and swearing by the Ka’ba) or else,
 there was no such extension in the Holy Prophet's saying, the proof
 being that in another tradition, the Prophet (s) says:
 
-<blockquote dir="rtl">
-  <p>
-من حلف فقال في حلفه بالات والعززى فليقل: لا إله إلا الله
-  </p>
-</blockquote>
+> من حلف فقال في حلفه بالات والعززى فليقل: لا إله إلا الله
 
 *"Anyone who swears and swears by Lat and 'Uzza and then immediately
 says “There is no god except Allah………."*[^33]
@@ -848,11 +716,7 @@ Imam Hanbal in his *al-Musnad* vol. 2 page 34 has narrated the second
 tradition in such a manner that it shows that such comparison is the
 work of Ibn 'Umar. Here is the text of the tradition:
 
-<blockquote dir="rtl">
-  <p>
-كان يحلف أبي فنهاه النبيّ قال: من حلف بشئ دون الله فقد أشرك
-  </p>
-</blockquote>
+> كان يحلف أبي فنهاه النبيّ قال: من حلف بشئ دون الله فقد أشرك
 
 *“‘Umar swore by his father; then the Holy Prophet (s) prohibited him
 from doing so and said: ‘The one who swears by someone other than Allah
@@ -867,11 +731,7 @@ Again the writer of *al-Musnad* in vol. 2, page 67 has narrated the
 tradition of **من حلف**in an independent form without the incident of
 ‘Umar swearing. It is as such.
 
-<blockquote dir="rtl">
-  <p>
-من حلف بغير الله قال فيه قولاً شديداً
-  </p>
-</blockquote>
+> من حلف بغير الله قال فيه قولاً شديداً
 
 *“The one who swears by someone other than God has said an unfair thing
 and* *or the Prophet (s) has said something severe about him for example
@@ -966,5 +826,4 @@ tradition it has come as: لا تحلفوا بأبائكم ولا بأمهاتك
 vol. 2 page 34, 67, 78 and 125; Sunan al-Bayhaqi, vol. 10 page 29.
 
 [^33]: Sunan al-Nasa'i, vol. 7 page 8
-
 

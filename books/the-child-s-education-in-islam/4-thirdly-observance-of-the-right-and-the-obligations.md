@@ -248,4 +248,3 @@ are natural events, that they like each other while both spouses should
 try to put and end to their controversies in their earliest convenient
 time.
 
-

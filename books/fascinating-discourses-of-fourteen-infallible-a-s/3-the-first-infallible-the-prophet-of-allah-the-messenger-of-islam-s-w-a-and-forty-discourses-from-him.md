@@ -27,10 +27,8 @@ Life Duration Three Phases
 3. Post migration from Mecca to Medina &. the 'foundation laying of
 Islamic state (approx 10 years).
 
-<p dir="rtl">
 اربعون حديثاًعن النبي الاکرم صلی الله عليه وآله و سلم
 -----------------------------------------------------
-</p>
 
 1- يا عِبادَ اللهِ أَنتُم کَالمَرضَی وَرَبُّ العالَمِينَ کَالطَّبيبِ،
 فَصَلاحُ المَرضی فيما يَعلَمُهُ الطَّبيبُ وَتَدبِيرُهُ بِهِ،لا فيما
@@ -526,5 +524,4 @@ F.Note
 
 Looking of the Namehram, a stranger man towards a women &. vice versa
 has been Prohibited by Islam.
-
 

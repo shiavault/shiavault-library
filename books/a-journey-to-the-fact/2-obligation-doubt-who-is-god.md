@@ -260,4 +260,3 @@ al- Sharif al-Razi (406/1015).
 [^3]: In the original text, the author wrote, “allahu-akbar.” In Muslim
 heritage, this phrase is used to express surprise.
 
-

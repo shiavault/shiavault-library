@@ -48,4 +48,3 @@ Wahab Asadi with a letter for Harith bin Abi Shamir Ghassani, the King
 of Syria, and Salit bin Amr with a letter to Hawza bin Alayya Hasani,
 the King of Yamamah.
 
-

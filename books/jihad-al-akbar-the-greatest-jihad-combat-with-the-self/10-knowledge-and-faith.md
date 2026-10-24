@@ -111,4 +111,3 @@ symbolizes evil. [Tr.]
 [^3]: “He utters not a word but there is by him a watcher at hand
 [raqibun ‘atidun]” (Q 50:18).
 
-

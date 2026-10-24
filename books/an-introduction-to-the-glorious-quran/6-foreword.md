@@ -101,4 +101,3 @@ will refuse to believe no matter how sound the proof may be.
 
 [^1]: Please refer to the Glossary
 
-

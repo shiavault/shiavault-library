@@ -22,25 +22,17 @@ The Prayer is one of the best means for undertaking spiritual migration
 towards God-Almighty and attaining the exalted position of His-nearness.
 Imam al-Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا عليه السلام: الصلواة قربان كل تقى.
-  </p>
-</blockquote>
+> قال الرضا عليه السلام: الصلواة قربان كل تقى.
 
 *“The prayer is a means of attaining God’s nearness for every righteous
 human being.”*[^1]
 
 Mu' awiyah bin Wahab asked Imam al-Sadiq (a.s.)
 
-<blockquote dir="rtl">
-  <p>
-معاوية بن وحب قال: سالت اباعبدالله عليه السلام عن افضل ما يتقرب به
-العباد الى ربهم واحب ذلك الى الله عز وجل ما هو؟ فقال ما أعلم شيئاً بعد
-المعرفة أفضل من هذه الصلاة، ألا ترى أن العبد الصالح عيسى ابن مريم عليه
-السلام « وأوصاني بالصلاة والزكوة ما دمت حياً. : قال
-  </p>
-</blockquote>
+> معاوية بن وحب قال: سالت اباعبدالله عليه السلام عن افضل ما يتقرب به
+> العباد الى ربهم واحب ذلك الى الله عز وجل ما هو؟ فقال ما أعلم شيئاً بعد
+> المعرفة أفضل من هذه الصلاة، ألا ترى أن العبد الصالح عيسى ابن مريم عليه
+> السلام « وأوصاني بالصلاة والزكوة ما دمت حياً. : قال
 
 *“What is the best deed which brings human beings close to God-Almighty,
 and is also liked by Him ? The Imam replied: After enlightenment of
@@ -51,15 +43,11 @@ alive.”*[^2]
 
 Also, he said:
 
-<blockquote dir="rtl">
-  <p>
-زيد الشحام عن ابي عبدالله عليه السلام قال سمعته بقول: أحب الاعمال إلى
-الله عز و جل الصلاة وهي آخر وصايا الانبياء (عل)، فما أحسن الرجل يغتسل
-أو يتوضأ فيسبغ الوضوء ثم يتنحى حيث لا يراه أنيس فيشرف عليه وهو راكع أو
-ساجد. إن العبد إذا سجد فأطال السجود نادى إبليس: ياويلاه أطاع وعصيت
-وسجد وأبيت.
-  </p>
-</blockquote>
+> زيد الشحام عن ابي عبدالله عليه السلام قال سمعته بقول: أحب الاعمال إلى
+> الله عز و جل الصلاة وهي آخر وصايا الانبياء (عل)، فما أحسن الرجل يغتسل
+> أو يتوضأ فيسبغ الوضوء ثم يتنحى حيث لا يراه أنيس فيشرف عليه وهو راكع أو
+> ساجد. إن العبد إذا سجد فأطال السجود نادى إبليس: ياويلاه أطاع وعصيت
+> وسجد وأبيت.
 
 *“The most esteemed and favorite deed before God-Almighty is - “Prayer”
 The Prayer is the last dying will of all prophets. How good it is that a
@@ -73,34 +61,22 @@ transgressed and he has offered prostration which I refused.”*[^3]
 
 Imam al Ridha (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال الرضا عليه السلام: اقرب ما يكون العبد من الله وهو ساجد وذلك قوله
-تعالى "واسجد واقترب"
-  </p>
-</blockquote>
+> قال الرضا عليه السلام: اقرب ما يكون العبد من الله وهو ساجد وذلك قوله
+> تعالى "واسجد واقترب"
 
 *“The most nearest position between the servant and God-Almighty is- the
 state of prostration* [^4]*because God-Almighty has said:*
 
-<blockquote dir="rtl">
-  <p>
-وَاسْجُدْ وَاقْتَرِب
-  </p>
-</blockquote>
+> وَاسْجُدْ وَاقْتَرِب
 
 ***“But prostrate thyself; and draw near (to God-Almighty).”*** (96:
 19)[^5]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: اذ اقام المصلى الى الصلاة نزلت عليه
-الرحمة من اعنان السما الى اعنان الارض وحفت به الملأكة وناداه ملك: لو
-يعلم هذا المصلى ما فى الصلاة ما انفتل.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: اذ اقام المصلى الى الصلاة نزلت عليه
+> الرحمة من اعنان السما الى اعنان الارض وحفت به الملأكة وناداه ملك: لو
+> يعلم هذا المصلى ما فى الصلاة ما انفتل.
 
 *“When a human being stands for prayers,. God's Blessings descend upon
 him from the sky; the angels circle him around and one of them says., If
@@ -110,15 +86,11 @@ prayer.”*[^6]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: إذا قام العبد المؤمن في صلاته نظر
-الله إليه أو قال: أقبل الله عليه - حتى ينصرف، وأظلته الرحمة من فوق
-رأسه إلى افق السماء, والملائكة تحفه من حوله إلى افق السماء، ووكل الله
-به ملكا قائما على رأسه يقول له: أيها المصلي لو تعلم من ينظر إليك ومن
-تناجي ماالتفت ولا زلت من موضعك أبدا.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: إذا قام العبد المؤمن في صلاته نظر
+> الله إليه أو قال: أقبل الله عليه - حتى ينصرف، وأظلته الرحمة من فوق
+> رأسه إلى افق السماء, والملائكة تحفه من حوله إلى افق السماء، ووكل الله
+> به ملكا قائما على رأسه يقول له: أيها المصلي لو تعلم من ينظر إليك ومن
+> تناجي ماالتفت ولا زلت من موضعك أبدا.
 
 *“When a believer stands for prayer, God-Almighty looks at him until he
 finishes it, His blessing covers him from the sky; the angels circle him
@@ -158,23 +130,15 @@ In principle, the greatest objective behind the establishment of prayer
 may be described as -invocation recitals and engaging in God's
 Remembrance. God-Almighty said to the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلَاةَ لِذِكْرِي
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلَاةَ لِذِكْرِي
 
 ***“And establish worship for My Remembrance. (20:14)***
 
 The Friday-Prayer has been described as an invocation in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ
-الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ
+> الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ
 
 ***“Oh ye who believe! When the call is heard for the prayer of the Day
 of Congregation, haste unto remembrance of God. (62: 9)***
@@ -189,13 +153,9 @@ For example:
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: ان من الصلاة لما يقبل نصفها وثلثها
-وربعها وخمسها إلى العشر, وان منها لما تلفّ كما يلفّ الثوب الخلق فيضرب
-بها وجه صاحبها, وانما لك من صلاتك ما اقبلت عليه بقلبك.
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: ان من الصلاة لما يقبل نصفها وثلثها
+> وربعها وخمسها إلى العشر, وان منها لما تلفّ كما يلفّ الثوب الخلق فيضرب
+> بها وجه صاحبها, وانما لك من صلاتك ما اقبلت عليه بقلبك.
 
 *“Sometimes only half of the prayer gets accepted while at other times
 may be one-third, one fourth, one-fifth, and one-tenth of it will be
@@ -206,13 +166,9 @@ towards God-Almighty.”*[^8]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام يقول: ذا قام العبد إلى الصلاة أقبل الله عز
-وجل عليه بوجهه فلا يزال مقبلا عليه حتى يلتفت ثلاث مرات فإذا التفت ثلاث
-مرات أعرض عنه.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام يقول: ذا قام العبد إلى الصلاة أقبل الله عز
+> وجل عليه بوجهه فلا يزال مقبلا عليه حتى يلتفت ثلاث مرات فإذا التفت ثلاث
+> مرات أعرض عنه.
 
 *“When a servant stands of prayer, God-Almighty pays attention towards
 him and did not break it until the servant deviates from His-
@@ -221,13 +177,9 @@ turns his face away from the prayer offerer.”*[^9]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: لايقومن احدكم الى الصلاة متكاسلا ولا
-ناعسا ولايفكر في نفسه فأنه بين يدي ربه عز وجل ، وانما للعبد من صلاته
-ما اقبل عليه منها بقلبه.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: لايقومن احدكم الى الصلاة متكاسلا ولا
+> ناعسا ولايفكر في نفسه فأنه بين يدي ربه عز وجل ، وانما للعبد من صلاته
+> ما اقبل عليه منها بقلبه.
 
 *“Do not offer prayer in the state of drowsiness or napping; while
 offering prayer do not think about yourself; because, you are standing
@@ -237,18 +189,14 @@ attention towards God-Almighty.”*[^10]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال صلى الله عليه وآله: أيما عبد التفت في صلاته قال الله: يا عبدي إلى
-من تقصد ومن تطلب؟ أرباً غيري تريد أو رقيباً سواي تطلب؟ أو جواد خلاي
-تبغي ؟ و أنا أكرم الأكرمين وأجود الأجودين وأفضل المعطين، أثيبك ثواباً
-لا يُحصي قدره. أقبل عليّ فأني عليك مقبل وملائكتي عليك مقبلون. وأن أقبل
-زال عنه أثم ما كان منه. فإن ألتفت ثانية أعاد الله مقالته فإذا أقبل في
-صلاته غفر الله له وتجاوز عنه ما كان منه. فإن ألتفت ثالثة أعاد الله
-مقالته، فإن أقبل في صلاته غفر الله له ما تقدم من ذنبه. فإن ألتفت رابعة
-أعرض الله عنه وأعرضت الملائمة عنه ويقول: وليتك يا عبدي الى ما توليت.
-  </p>
-</blockquote>
+> قال صلى الله عليه وآله: أيما عبد التفت في صلاته قال الله: يا عبدي إلى
+> من تقصد ومن تطلب؟ أرباً غيري تريد أو رقيباً سواي تطلب؟ أو جواد خلاي
+> تبغي ؟ و أنا أكرم الأكرمين وأجود الأجودين وأفضل المعطين، أثيبك ثواباً
+> لا يُحصي قدره. أقبل عليّ فأني عليك مقبل وملائكتي عليك مقبلون. وأن أقبل
+> زال عنه أثم ما كان منه. فإن ألتفت ثانية أعاد الله مقالته فإذا أقبل في
+> صلاته غفر الله له وتجاوز عنه ما كان منه. فإن ألتفت ثالثة أعاد الله
+> مقالته، فإن أقبل في صلاته غفر الله له ما تقدم من ذنبه. فإن ألتفت رابعة
+> أعرض الله عنه وأعرضت الملائمة عنه ويقول: وليتك يا عبدي الى ما توليت.
 
 *“Each servant (of God), while standing in prayer pays attention towards
 other than Him, God-Almighty says: 'Oh my servant! Which way are you
@@ -415,11 +363,7 @@ of the wayfarers. This stage is like an ocean of infinite depth and for
 some one deprived like me, it is better not to enter in it and leave
 it's description for those who deserve it:
 
-<blockquote dir="rtl">
-  <p>
-اللهم ارزقنا حلاوة ذكرك ومشاهدة جمالك.
-  </p>
-</blockquote>
+> اللهم ارزقنا حلاوة ذكرك ومشاهدة جمالك.
 
 *“Oh God! Please bestow upon us the sweetness of your invocations and
 the witnessing of your beauty.”*
@@ -516,25 +460,17 @@ Therefore, a human being should endeavor for strengthening his faith and
 attaining perfect enlightenment so that he may achieve maximum heart's
 presence during his prayer. The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: اعبد الله كانت تراه فان كنت لاتراه فانه
-يراك.
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: اعبد الله كانت تراه فان كنت لاتراه فانه
+> يراك.
 
 *“Worship God-Almighty as though you are actually seeing Him, and even
 if you do not see Him, He sees you.”*[^21]
 
 Aban bin Toghlab said that I said to Imam al-Sadiq (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-ابان بن تغلب قال قلت لابي عبدالله عليه السلام: اني رايت على بن الحسين
-عليه السلام اذا قام فى الصلاة غشى لونه لون آخر. فقال لي: والله ان على
-بن الحسين كان يعرف الذى يقوم بين يديه.
-  </p>
-</blockquote>
+> ابان بن تغلب قال قلت لابي عبدالله عليه السلام: اني رايت على بن الحسين
+> عليه السلام اذا قام فى الصلاة غشى لونه لون آخر. فقال لي: والله ان على
+> بن الحسين كان يعرف الذى يقوم بين يديه.
 
 *“I saw ‘Ali Bin al-Husayn (a.s.) offering prayer in such a manner that
 the color of his face changed. Please explain the reason. 'Yes! Because
@@ -566,13 +502,9 @@ and humbleness as his farewell prayer. Before beginning prayer create
 such conditions for yourself and then prolong it during entire length of
 prayer. Imam Al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابوعبدالله عليه السلام: إذا صليت صلاة فريضة فصلها لوقتها صلاة مودع
-يخاف أن لا يعود إليها ابدا. ثم اصرف ببصرك إلى موضع سجودك, فلو تعلم من
-عن يمينك وشمالك لأحسنت صلاتك, واعلم أنك بين يدي من يراك ولا تراه.
-  </p>
-</blockquote>
+> قال ابوعبدالله عليه السلام: إذا صليت صلاة فريضة فصلها لوقتها صلاة مودع
+> يخاف أن لا يعود إليها ابدا. ثم اصرف ببصرك إلى موضع سجودك, فلو تعلم من
+> عن يمينك وشمالك لأحسنت صلاتك, واعلم أنك بين يدي من يراك ولا تراه.
 
 *“Offer compulsory prayer during its time, like someone who is offering
 his farewell prayer, and is afraid that after this he will never have
@@ -601,13 +533,9 @@ the call for prayer- (adhan) and (aqameh) respectively, recite the
 following supplication and during its recital pay attention to its
 meaning.
 
-<blockquote dir="rtl">
-  <p>
-اللهم اليك توجهت ومرضاتك طلبت وثوابك ابتغيت بك آمنت وعليك توكلت اللهم
-صل على محمد وآل محمد وافتح مصامع قلبى لذكرك وثبتنى على دينك ولا تزغ
-قلبى بعد اذ هديتنى وهب لى من لدنك رحمة انك انت الواهب.
-  </p>
-</blockquote>
+> اللهم اليك توجهت ومرضاتك طلبت وثوابك ابتغيت بك آمنت وعليك توكلت اللهم
+> صل على محمد وآل محمد وافتح مصامع قلبى لذكرك وثبتنى على دينك ولا تزغ
+> قلبى بعد اذ هديتنى وهب لى من لدنك رحمة انك انت الواهب.
 
 (Allahumma elaika tawwajahato wa marzateka talabato wa thawabaka
 ibtaqhazzito wa beka amanto wa elaika tawwakalto allahuma salle ala
@@ -625,11 +553,7 @@ Your favors and blessings, verily! You are the most benevolent.”*
 
 Then recite the following prayer:
 
-<blockquote dir="rtl">
-  <p>
-يا محسن قد اتاك المسيء, يا محسن أحسن الى.
-  </p>
-</blockquote>
+> يا محسن قد اتاك المسيء, يا محسن أحسن الى.
 
 (ya Mohsin qadatak al masiyee ya Mohsin ehsan al ati.)
 
@@ -655,23 +579,15 @@ Greater than -that He could be described. He must pay attention
 correctly what is he saying? Does he really believe in it? Imam al-Sadiq
 (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: اذا استقبلت القبلة فانس الدّنيا وما فيها
-والخلق وما هم فيه واستفرغ قلبك عن كلّ شاغلٍ يشغلك عن الله وعاين بسرّك
-عظمة الله واذكر وقوفك بين يديه يوم تبلو كلُّ نفسٍ ما أسلفت وردُّوا إلى
-الله مولاهم الحقّ. وقف على قدم الخوف والرجاء فإذا كبّرت فاستصغر ما بين
-السموات العلى والثرى دون كبريائه: فإنّ الله تعالى إذا اطّلع على قلب
-العبد وهو يكبّر وفي قلبه عارضٌ عن حقيقة
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: اذا استقبلت القبلة فانس الدّنيا وما فيها
+> والخلق وما هم فيه واستفرغ قلبك عن كلّ شاغلٍ يشغلك عن الله وعاين بسرّك
+> عظمة الله واذكر وقوفك بين يديه يوم تبلو كلُّ نفسٍ ما أسلفت وردُّوا إلى
+> الله مولاهم الحقّ. وقف على قدم الخوف والرجاء فإذا كبّرت فاستصغر ما بين
+> السموات العلى والثرى دون كبريائه: فإنّ الله تعالى إذا اطّلع على قلب
+> العبد وهو يكبّر وفي قلبه عارضٌ عن حقيقة
 
-<blockquote dir="rtl">
-  <p>
-تكبيره ، قال : يا كاذب أتخدعني ؟ وعزَّتي وجلالي لأحرمنّك حلاوة ذكري ،
-ولأحجبنّك عن قربي و المسارَّة بمناجاتي.
-  </p>
-</blockquote>
+> تكبيره ، قال : يا كاذب أتخدعني ؟ وعزَّتي وجلالي لأحرمنّك حلاوة ذكري ،
+> ولأحجبنّك عن قربي و المسارَّة بمناجاتي.
 
 *“When you stand facing Holy Mecca (Qiblah)*[^25] *with prayer
 intention -forget the world and whatever it contains, people, and their
@@ -712,11 +628,7 @@ maintain this condition until the prayer is over. It is a difficult task
 but with efforts, endeavors, and seriousness it becomes easier.
 God-Almighty has promised in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا
 
 ***“And those who strive in Our (cause) -We will certainly guide them to
 Our paths. (29:69)***
@@ -837,24 +749,16 @@ benefited from this great blessing and may establish a quick
 communication with God-Almighty. The Commander of the Faithful Imam
 .’Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى الحسن عليه السلام قال: صلاة النوافل قربان كل مؤمن.
-  </p>
-</blockquote>
+> عن ابى الحسن عليه السلام قال: صلاة النوافل قربان كل مؤمن.
 
 *“Supererogatory Prayer (Nafilah) results in a believer's becoming near
 to God-Almighty.”*[^29]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: إن العبد ليرفع له من صلاته نصفها أو ثلثها
-أو ربعها أو خمسها فما يرفع له إلا ما أقبل عليه بقلبه وإنما أمرنا
-بالنافلة ليتم لهم بها ما نقصوا من الفريضة..
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: إن العبد ليرفع له من صلاته نصفها أو ثلثها
+> أو ربعها أو خمسها فما يرفع له إلا ما أقبل عليه بقلبه وإنما أمرنا
+> بالنافلة ليتم لهم بها ما نقصوا من الفريضة..
 
 *“Truly sometimes one half; or one third, or one fourth, or one fifth of
 prayer ascends upward (i.e. is accepted by God); only those portions of
@@ -865,17 +769,13 @@ compensated.”*[^30]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: قال رسول الله صلى عليه وآله: قال الله
-تعالى: ما تحبب إلي عبدي بشئ أحب إلي مما افترضته عليه، وإنه ليتحبب إلي
-بالنافلة حتى أحبه، فإذا أحببته كنت سمعه الذي يسمع به، وبصره الذي يبصر
-به، ولسانه الذي ينطق به، ويده التي يبطش بها، ورجله التي يمشي بها، إذا
-دعاني أجبته، وإذا سألني أعطيته، وما  
- ترددت في شئ أنا فاعله كترددي في موت المؤمن: يكره الموت وأنا أكره
-مساءته.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: قال رسول الله صلى عليه وآله: قال الله
+> تعالى: ما تحبب إلي عبدي بشئ أحب إلي مما افترضته عليه، وإنه ليتحبب إلي
+> بالنافلة حتى أحبه، فإذا أحببته كنت سمعه الذي يسمع به، وبصره الذي يبصر
+> به، ولسانه الذي ينطق به، ويده التي يبطش بها، ورجله التي يمشي بها، إذا
+> دعاني أجبته، وإذا سألني أعطيته، وما
+>  ترددت في شئ أنا فاعله كترددي في موت المؤمن: يكره الموت وأنا أكره
+> مساءته.
 
 *“In order to become my beloved, my servant does not have any thing
 better than performing compulsory obligations- Through performance of
@@ -898,36 +798,24 @@ special distinction, and the Holy Qur’an and traditions have made lots
 of emphasis and recommendations for its performance. God-Almighty says
 to Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن
-يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن
+> يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
 
 ***“And some part of the night awake for it, a largess for thee. It may
 be that thy Lord will raise thee to a praised estate. (17:79)***
 
 And in praise of God's Special Servants says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا
-  </p>
-</blockquote>
+> وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا
 
 ***“And who spend the night before their Lord prostrate and standing.
 (25:64)***
 
 And in defining believers characteristics says:
 
-<blockquote dir="rtl">
-  <p>
-تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
-وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ فَلَا تَعْلَمُ نَفْسٌ مَّا
-أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
+> وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ فَلَا تَعْلَمُ نَفْسٌ مَّا
+> أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
 
 ***“Who forsake their beds to cry unto their Lord in fear and hope, and
 spend of what we have bestowed up on them. No soul knoweth what is kept
@@ -936,16 +824,12 @@ hidden for them of joy, as a reward for what they used to do.
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: ان الله جل جلاله اوحى الى الدنيا: أن
-أتعبي من خدمك و اخدمي من رفضك. وإن العبد إذا تخلى بسيده في جوف الليل
-المظلم وناجاه أثبت الله النور في قلبه فإذا قال: يا رب يا رب! ناداه
-الجليل جل جلاله: لبيك عبدي, سلني أعطك و توكل عليَّ أكفك ، ثم يقول جل
-جلاله لملائكته: يا ملائكتي انظروا إلى عبدي فقد تخلى بي في جوف الليل
-المظلم والباطلون لأهون والغافلون ينامون. اشهدوا أني قد غفرت له.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: ان الله جل جلاله اوحى الى الدنيا: أن
+> أتعبي من خدمك و اخدمي من رفضك. وإن العبد إذا تخلى بسيده في جوف الليل
+> المظلم وناجاه أثبت الله النور في قلبه فإذا قال: يا رب يا رب! ناداه
+> الجليل جل جلاله: لبيك عبدي, سلني أعطك و توكل عليَّ أكفك ، ثم يقول جل
+> جلاله لملائكته: يا ملائكتي انظروا إلى عبدي فقد تخلى بي في جوف الليل
+> المظلم والباطلون لأهون والغافلون ينامون. اشهدوا أني قد غفرت له.
 
 *“God-Almighty send revelation to world asking it to be indifferent
 towards its admirers and to be in service to its forsakers. When a God's
@@ -963,23 +847,15 @@ servant.”*[^32]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): اشراف امتى حملة القرآن واصحاب الليل.
-  </p>
-</blockquote>
+> قال رسول الله (ص): اشراف امتى حملة القرآن واصحاب الليل.
 
 *“The nobles of my nation (Ummah) are -the carriers of Holy Qur’an and
 night vigilants.”*[^33]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: ما زال جبرئيل يوصينى بقيام الليل حتى
-ظننت ان خيار امتى لا يناموا
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: ما زال جبرئيل يوصينى بقيام الليل حتى
+> ظننت ان خيار امتى لا يناموا
 
 *“Angel Gabriel has made so much recommendation about night prayer to
 me, that I assume the righteous one of my nation (Ummah) will not sleep
@@ -987,24 +863,16 @@ during night.”*[^34]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-انس بن مالك قال: سمعت رسول الله صلى الله عليه وآله يقول: ركعتان فى جوف
-الليل احب الى من الدنيا وما فيها.
-  </p>
-</blockquote>
+> انس بن مالك قال: سمعت رسول الله صلى الله عليه وآله يقول: ركعتان فى جوف
+> الليل احب الى من الدنيا وما فيها.
 
 *“Two units of prayer in the middle of night is more beloved to me than
 the world and whatsoever it may contain.”*[^35]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: صلاة الليل تحس الوجه وتحس الخلق وتطيب
-الريح وتدر الرزق وتقضى الدين وتذهب بالهم وتجلوا البصر.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: صلاة الليل تحس الوجه وتحس الخلق وتطيب
+> الريح وتدر الرزق وتقضى الدين وتذهب بالهم وتجلوا البصر.
 
 *“Night Prayer makes face beautiful, conduct righteous, and (prayer
 offerer's) body performed; increases sustenance; pays debts; removes
@@ -1012,19 +880,15 @@ grief and increases shining of eyes.”*[^36]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: صلاة الليل مرضاة الرب وحب الملائكة
-وسنة الأنبياء ونور المعرفة وأصل الإيمان، وراحة الأبدان وكراهية الشيطان
-وسلاح على الأعداء وإجابة للدعاء وقبول الأعمال وبركة في الرزق وشفيع بين
-صاحبها وبين ملك الموت وسراج في قبره وفراش تحت جنبه وجواب منكر ونكير
-ومؤنس وزائر في قبره إلى يوم القيامة، فاذا كان يوم القيامة كانت الصلاه
-ظلا فوقه وتأجا على رأسه ولباسا على بدنه ونورا يسعى بين يديه وسترا بينه
-وبين النار وحجة للؤمنين بين يدى الله تعالى وثقلا فى الميزان وجوازا على
-الصراط ومفتاحا للجنة. لأن الصلاه تكبيروتحميد تسبيح وتمجيد وتقديس
-وتعظيم وقرائة ودعاء وان أفضل الاعمال كلها الصلاة لوقتها.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: صلاة الليل مرضاة الرب وحب الملائكة
+> وسنة الأنبياء ونور المعرفة وأصل الإيمان، وراحة الأبدان وكراهية الشيطان
+> وسلاح على الأعداء وإجابة للدعاء وقبول الأعمال وبركة في الرزق وشفيع بين
+> صاحبها وبين ملك الموت وسراج في قبره وفراش تحت جنبه وجواب منكر ونكير
+> ومؤنس وزائر في قبره إلى يوم القيامة، فاذا كان يوم القيامة كانت الصلاه
+> ظلا فوقه وتأجا على رأسه ولباسا على بدنه ونورا يسعى بين يديه وسترا بينه
+> وبين النار وحجة للؤمنين بين يدى الله تعالى وثقلا فى الميزان وجوازا على
+> الصراط ومفتاحا للجنة. لأن الصلاه تكبيروتحميد تسبيح وتمجيد وتقديس
+> وتعظيم وقرائة ودعاء وان أفضل الاعمال كلها الصلاة لوقتها.
 
 *“Night Prayer is a means of pleasing God-Almighty and achieving
 friendship of His angels. It is a tradition and way of prophets; a light
@@ -1102,15 +966,11 @@ The first eight rakats should be offered like 2 rakats of Morning prayer
 repeating four times with a salutation offered after every two Rakats.
 In the first Rakat recite Surah Opening:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ رَبِّ
-الْعَالَمِينَ الرَّحْمَٰنِ الرَّحِيمِ مَالِكِ يَوْمِ الدِّينِ إِيَّاكَ
-نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ
-وَلَا الضَّالِّينَ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ رَبِّ
+> الْعَالَمِينَ الرَّحْمَٰنِ الرَّحِيمِ مَالِكِ يَوْمِ الدِّينِ إِيَّاكَ
+> نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+> صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ
+> وَلَا الضَّالِّينَ
 
 (Bismillah ar Rahman nir Rahim; alhamadu lillahi Rab al alimin; ar
 Rahman nir Rahim,' Malike yom iddin,' iyyaka nabudu wa iyyaka nastayeen,
@@ -1127,12 +987,8 @@ Not (the path) of those who earn thine anger nor of those who go astray.
 After reciting Surah Opening the prayer offerer may recite any other
 surah whatever he likes or may recite Surah “Sincerity” in all 8 Rakats:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ
-يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ
+> يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
 
 (Bismillah ar Rahman nir Rahim,. qul ho wallahu ahad Allahus samad,. lam
 yalid walam yulad,' walam ya kun lahu kufu one ahad),
@@ -1146,11 +1002,7 @@ begeteth not nor was begotten, And there is non comparable unto Him.
 In the second rakat of prayer like all others prayers, Qunoot is
 optional and recital of the following, three times is sufficient.
 
-<blockquote dir="rtl">
-  <p>
-سبحان الله
-  </p>
-</blockquote>
+> سبحان الله
 
 Subhan Allahi
 
@@ -1164,13 +1016,9 @@ intention of two rakats of prayer of Shafa as follows:
 In the first Rakat after recital of Surah Opening recite Surah Nas
 (Mankind) as follows:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم قُلْ أَعُوذُ بِرَبِّ النَّاسِ مَلِكِ النَّاسِ
-إِلَٰهِ النَّاسِ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ الَّذِي يُوَسْوِسُ
-فِي صُدُورِ النَّاسِ مِنَ الْجِنَّةِ وَالنَّاسِ
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم قُلْ أَعُوذُ بِرَبِّ النَّاسِ مَلِكِ النَّاسِ
+> إِلَٰهِ النَّاسِ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ الَّذِي يُوَسْوِسُ
+> فِي صُدُورِ النَّاسِ مِنَ الْجِنَّةِ وَالنَّاسِ
 
 (Bismillah ar Rahman nir Rahim;
 
@@ -1186,13 +1034,9 @@ in the hearts of mankind; of the jinn and of mankind. (114:1-6)***
 In the second Rakat after recital of Surah Opening recite Surah Day
 Break as follows:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ مِن شَرِّ مَا
-خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ النَّفَّاثَاتِ فِي
-الْعُقَدِ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ مِن شَرِّ مَا
+> خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ النَّفَّاثَاتِ فِي
+> الْعُقَدِ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
 
 (Bismillah ar Rahman nir Rahim,” Qui a uzu bi Rab bil falaq; min,
 sharrin ma khalaq, wa min sharre ghasiqin eza waqab, wa min sharrin
@@ -1216,12 +1060,8 @@ Surah Mankind one time, after Surah Opening. Having finished recital of
 the above raise your hands upward for Qunoot, and recite whatever you
 prefer or you may recite the following:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً
-وَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً
+> وَقِنَا عَذَابَ النَّارِ
 
 (Rabana atena fid dunia hasaneh wa fil akhre hasanah wa qena aza bin
 nar).
@@ -1232,13 +1072,9 @@ Hereafter that which is good, and guard us from the doom of Fire.
 
 or, recite the following:
 
-<blockquote dir="rtl">
-  <p>
-اللهم كن لوليك الحجة بن الحسن صلواتك عليه وعلى ابائه في هذه الساعه وفي
-كل ساعه وليا وحافظا وقائدا وناصرا ودليلا وعينا حتى تسكنه ارضك طوعا
-وتمتعه فيها طويلا.
-  </p>
-</blockquote>
+> اللهم كن لوليك الحجة بن الحسن صلواتك عليه وعلى ابائه في هذه الساعه وفي
+> كل ساعه وليا وحافظا وقائدا وناصرا ودليلا وعينا حتى تسكنه ارضك طوعا
+> وتمتعه فيها طويلا.
 
 (Allahumma Kulle Waliyak al Hujjat ibnal Hasan Salawataka aleyhim wa ala
 abahe fi hazes saat wafi kulle saat walian wa hafiza wa qaiden wa nasera
@@ -1254,12 +1090,8 @@ by extending his reign (as maximum as possible).”*
 
 Or recite the following:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا
-عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا
+> عَلَى الْقَوْمِ الْكَافِرِينَ
 
 (Rabana afrigh aleyna sabran wa sabbit iqdamana wa unsurna alal qomal
 kafiriin)
@@ -1277,11 +1109,7 @@ Therefore, in Qunoot it is recommended to ask God's forgiveness for at
 least forty believers, (including your parents, relatives, neighbors,
 colleagues, scholars, martyrs etc.) in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-اللهم اغفر.
-  </p>
-</blockquote>
+> اللهم اغفر.
 
 (Allahummaghfir )
 
@@ -1291,22 +1119,14 @@ is forgiveness seventy times. Therefore, while still maintaining your
 left hand in the state of Qunoot, and holding a rosary in your right
 hand recite the following seventy times:
 
-<blockquote dir="rtl">
-  <p>
-استغفر الله ربى واتوب اليه.
-  </p>
-</blockquote>
+> استغفر الله ربى واتوب اليه.
 
 (Astagh.frullahi rabi wa atubo elahe)
 
 *“Oh God! Forgive me and accept my repentance.”* The Holy Prophet (S)
 used to recite the following sentence seven times:
 
-<blockquote dir="rtl">
-  <p>
-هذا مقام العائذ بك من النار.
-  </p>
-</blockquote>
+> هذا مقام العائذ بك من النار.
 
 (Haza maqamal aize beka minan nar)
 
@@ -1315,11 +1135,7 @@ used to recite the following sentence seven times:
 It has been narrated that Imam al-Sajjad (a.s.) used to seek God's
 forgiveness three hundred times by reciting the following sentence:
 
-<blockquote dir="rtl">
-  <p>
-العفو.
-  </p>
-</blockquote>
+> العفو.
 
 (Al afoo)
 
@@ -1330,11 +1146,7 @@ shedding tears of regret and shame for past sins with the rosary in
 right hand, recite the above sentence three hundred times. After
 finishing it recite the following supplication only one time:
 
-<blockquote dir="rtl">
-  <p>
-ربنا اغفر لى وارحمنى واتوب اليه انك انت التواب الغفور الرحيم.
-  </p>
-</blockquote>
+> ربنا اغفر لى وارحمنى واتوب اليه انك انت التواب الغفور الرحيم.
 
 (Rubbe naqhfirli warhamni watoubli innaka antal tawwabul ghafoor
 urrahim.)
@@ -1466,5 +1278,4 @@ Qummi [Tr].
 
 [^40]: For the convenience of our readers the [Tr] has prepared
 “Etiquettes of Night-Prayer” abstracted from supplication books.
-
 

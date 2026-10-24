@@ -7,10 +7,5 @@ One Whose Supporter Is Allah
 Him] the support [like that] of a [large] group.
 
 > 1ـ مَنْ يَكُنِ اللّهُ نَصِيرَهُ يَغْلِبُ خَصْمَهُ ويَكُنْ لَهُ
-<blockquote dir="rtl">
-  <p>
-حِزْباً.
-  </p>
-</blockquote>
-
+> حِزْباً.
 

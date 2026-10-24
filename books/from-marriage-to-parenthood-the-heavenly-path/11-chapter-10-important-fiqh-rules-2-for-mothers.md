@@ -175,4 +175,3 @@ information.
 
 [^11]: Islamic Laws, Rule 162
 
-

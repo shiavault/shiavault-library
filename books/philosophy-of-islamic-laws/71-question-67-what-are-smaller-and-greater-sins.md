@@ -49,9 +49,7 @@ Because if it is promised punishment of if its performance is
 emphatically prohibited, it would be a greater sin, otherwise it is
 smaller.
 
-
 [^1]: Surah Nisa 4:31
 
 [^2]: Surah Nisa 4:93
-
 

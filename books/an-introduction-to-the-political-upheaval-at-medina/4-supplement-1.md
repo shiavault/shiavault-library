@@ -125,4 +125,3 @@ both that man and his candidate should be slain outright.
 election proceedings can be imagined. The author himself condemns his
 own work.
 
-

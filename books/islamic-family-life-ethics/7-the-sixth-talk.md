@@ -22,12 +22,8 @@ ruins. Such homes are not auspicious. Satan frequents such homes, while
 angel despise them.  
  The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-فىِ بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ وَ يُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَ الاَْصَال
-  </p>
-</blockquote>
+> فىِ بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ وَ يُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَ الاَْصَال
 
 ***In houses which Allah hath allowed to be raised andwhere His name is
 remembered He is glorified therein In the morning and evening. (Sura al
@@ -163,14 +159,10 @@ committed, where Satan visits freely and where angels are shy of coming
 are not places of comfort. On the contrary unrest and hardships prevail
 there. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-أَ فَمَنْ أَسَّسَ بُنْيَنَهُ عَلىَ‏ تَقْوَى‏ مِنَ اللَّهِ وَ رِضْوَنٍ
-خَيرٌْ أَم مَّنْ أَسَّسَ بُنْيَنَهُ عَلىَ‏ شَفَا جُرُفٍ هَارٍ
-فَانهَْارَ بِهِ فىِ نَارِ جَهَنَّمَ وَ اللَّهُ لَا يهَْدِى الْقَوْمَ
-الظَّلِمِين
-  </p>
-</blockquote>
+> أَ فَمَنْ أَسَّسَ بُنْيَنَهُ عَلىَ‏ تَقْوَى‏ مِنَ اللَّهِ وَ رِضْوَنٍ
+> خَيرٌْ أَم مَّنْ أَسَّسَ بُنْيَنَهُ عَلىَ‏ شَفَا جُرُفٍ هَارٍ
+> فَانهَْارَ بِهِ فىِ نَارِ جَهَنَّمَ وَ اللَّهُ لَا يهَْدِى الْقَوْمَ
+> الظَّلِمِين
 
 ***Is he who founded his building upon duty to Allah and His good
 pleasure better, or he who founded his building on the brink of a
@@ -190,11 +182,7 @@ and abstain from sin.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يخََافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَ الْأَبْصَر
-  </p>
-</blockquote>
+> يخََافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَ الْأَبْصَر
 
 ***...(Men) who fear a day when hearts and eyeballs will be
 overturned.(Sura An-Nur, 24 : 37)***
@@ -252,12 +240,8 @@ such homes as being engulfed with fire. The Holy Quran says that the
 angels pity the innocent children and women who are engulfed by fires in
 these unfortunate homes.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَلَ الْيَتَمَى‏ ظُلْمًا إِنَّمَا
-يَأْكلُُونَ فىِ بُطُونِهِمْ نَارًا وَ سَيَصْلَوْنَ سَعِيرًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَلَ الْيَتَمَى‏ ظُلْمًا إِنَّمَا
+> يَأْكلُُونَ فىِ بُطُونِهِمْ نَارًا وَ سَيَصْلَوْنَ سَعِيرًا
 
 ***Lo! Those who devour the wealth of orphans wrongfully, they do but
 swallow fire into their bellies, and they will be exposed to burning
@@ -274,11 +258,7 @@ fire! When food is laid on the table in a house where *Khums* and
 *Zakat* are not paid, a person blessed with the ability to see such
 things, can actually see the wife and children consuming fire.
 
-<blockquote dir="rtl">
-  <p>
-فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيد
-  </p>
-</blockquote>
+> فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيد
 
 ***…Now we have removed from thee thy covering, and piercing is thy
 sight this day. (Sura Qaf, 50: 22)***
@@ -303,12 +283,8 @@ which *Khums* was not paid and he fed us on the bribes he had taken
 forcibly. He made us hard-hearted! O Allah! Put him through a harsh
 accounting!"
 
-<blockquote dir="rtl">
-  <p>
-وَ قَدِمْنَا إِلىَ‏ مَا عَمِلُواْ مِنْ عَمَلٍ فَجَعَلْنَهُ هَبَاءً
-مَّنثُورًا
-  </p>
-</blockquote>
+> وَ قَدِمْنَا إِلىَ‏ مَا عَمِلُواْ مِنْ عَمَلٍ فَجَعَلْنَهُ هَبَاءً
+> مَّنثُورًا
 
 ***And We shall turn unto the work they did and make it scattered
 motes.*** ***(Sura Al-Furqan, 25: 23)***
@@ -333,5 +309,4 @@ Allah will surely depart, blessings will flee this house, love and
 affection departs from this house. A day comes when the very children
 for whom you toiled will on the Day of *Qiyamah* curse you and make you
 an inmate of Hell.
-
 

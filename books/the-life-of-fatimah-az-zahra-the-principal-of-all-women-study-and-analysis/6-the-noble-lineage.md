@@ -466,4 +466,3 @@ saying “la ilaha illallah; there is no god but Allah”.
 
 [^22]: Ad-Durr al-Manthur, p.180.
 
-

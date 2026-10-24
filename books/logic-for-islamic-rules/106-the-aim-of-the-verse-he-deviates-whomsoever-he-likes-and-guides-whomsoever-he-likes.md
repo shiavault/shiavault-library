@@ -18,10 +18,10 @@ Therefore in order to understand it correctly we have to refer to other
 verses that also mention error and guidance.
 
 This verse says that Allah guides whom He likes. In another verse, for
-example in the 26<sup>th</sup> verse of Surah Baqarah it said: He does
+example in the 26th verse of Surah Baqarah it said: He does
 not cause to err by it (any) except the transgressors.
 
-In addition to this the 34<sup>th</sup> verse of Surah Mo-min says: Thus
+In addition to this the 34th verse of Surah Mo-min says: Thus
 does Allah cause him to err who is extravagant, a doubter.
 
 These two verses explain how some people become deprived of the mercy
@@ -46,7 +46,7 @@ be guided. They lose their eligibility for getting Taufeeq (Divine
 assistance) and the previous verses mention that they are left in error
 due to their sins.
 
-In the 79<sup>th</sup> verse of Surah Nisa this is mentioned in another
+In the 79th verse of Surah Nisa this is mentioned in another
 way. The Almighty Allah says:
 
 *Whatever benefit comes to you, it is from Allah, and whatever

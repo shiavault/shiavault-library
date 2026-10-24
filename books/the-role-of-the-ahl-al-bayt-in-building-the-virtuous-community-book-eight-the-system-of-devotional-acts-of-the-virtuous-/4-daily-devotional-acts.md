@@ -46,16 +46,12 @@ about the prayers the Holy Prophet (S) used to offer.
 
 The Imam (‘a) thus answered:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يُصَلِّي ثَمَانِيَ
-رَكَعَاتِ الزَّوَالِ وَأَرْبَعاً الأُولَى، وَثَمانِياً بَعْدَهَا،
-وَأَرْبَعاً الْعَصْرَ، وَثَلاَثاً الْمَغْرِبَ، وَأَرْبَعاً بَعْدَ
-الْمَغْرِبِ، وَالعِشَاءَ الآخِرَةَ أَرْبَعاً، وَثَمَانِيَ صَلاَةَ
-اللَّيْلِ، وَثَلاَثاً الْوِتْرَ، وَرَكْعَتَيِ الْفَجْرِ وَصَلاَةَ
-الْغَدَاةِ رَكْعَتَيْنِ.
-  </p>
-</blockquote>
+> كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يُصَلِّي ثَمَانِيَ
+> رَكَعَاتِ الزَّوَالِ وَأَرْبَعاً الأُولَى، وَثَمانِياً بَعْدَهَا،
+> وَأَرْبَعاً الْعَصْرَ، وَثَلاَثاً الْمَغْرِبَ، وَأَرْبَعاً بَعْدَ
+> الْمَغْرِبِ، وَالعِشَاءَ الآخِرَةَ أَرْبَعاً، وَثَمَانِيَ صَلاَةَ
+> اللَّيْلِ، وَثَلاَثاً الْوِتْرَ، وَرَكْعَتَيِ الْفَجْرِ وَصَلاَةَ
+> الْغَدَاةِ رَكْعَتَيْنِ.
 
 *The Holy Prophet (S) offered eight units before the four units of the
 obligatory afternoon prayer. He offered four units of the obligatory
@@ -66,15 +62,11 @@ units of the obligatory dawn prayer with two units after that.*[^3]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-شِيعَتُنَا أَهْلُ الْوَرَعِ وَأَهْلُ الْوَفَاءِ وَالأَمَانَةِ وَأَهْلُ
-الزُّهْدِ وَالْعِبَادَةِ، أَصْحَابُ إحْدَى وَخَمْسِينَ رَكْعَةً فِي
-الْيَوْمِ وَاللَّيْلَةِ، الْقَائِمُونَ بِاللَّيْلِ وَالصَّائِمُونَ
-بِالنَّهَارِ، يُزَكُّونَ أَمْوَالَهُمْ، وَيَحِجُّونَ الْبَيْتَ
-وَيَجْتَنِبُونَ كُلَّ مُحَرَّمٍ.
-  </p>
-</blockquote>
+> شِيعَتُنَا أَهْلُ الْوَرَعِ وَأَهْلُ الْوَفَاءِ وَالأَمَانَةِ وَأَهْلُ
+> الزُّهْدِ وَالْعِبَادَةِ، أَصْحَابُ إحْدَى وَخَمْسِينَ رَكْعَةً فِي
+> الْيَوْمِ وَاللَّيْلَةِ، الْقَائِمُونَ بِاللَّيْلِ وَالصَّائِمُونَ
+> بِالنَّهَارِ، يُزَكُّونَ أَمْوَالَهُمْ، وَيَحِجُّونَ الْبَيْتَ
+> وَيَجْتَنِبُونَ كُلَّ مُحَرَّمٍ.
 
 *Our Shi’ah are the people of piety, faithfulness, and honesty. They are
 the people of asceticism and worship. They perform fifty-one units of
@@ -85,13 +77,9 @@ to the House of God, and refrain from committing any forbidden act.*[^4]
 In the book entitled *Misbah al-Mutahajjid*, Shaykh al-Tusi reports Imam
 al-Askari (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-عَلاَمَاتُ الْمُؤْمِنِ خَمْسٌ: صَلاَةُ الْخَمْسِينَ، وَزِيَارَةُ
-الأَرْبَعِينَ، وَالتَّخَتُّمُ فِي الْيَمِينِ، وَتَعْفِيرُ الْجَبِينِ،
-وَالْجَهْرُ بِبِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ.
-  </p>
-</blockquote>
+> عَلاَمَاتُ الْمُؤْمِنِ خَمْسٌ: صَلاَةُ الْخَمْسِينَ، وَزِيَارَةُ
+> الأَرْبَعِينَ، وَالتَّخَتُّمُ فِي الْيَمِينِ، وَتَعْفِيرُ الْجَبِينِ،
+> وَالْجَهْرُ بِبِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ.
 
 *The signs of true faithful believers are five: Offering the fifty
 prayers, visitation (of holy shrines) on the Day of Arba’in, wearing a
@@ -135,12 +123,8 @@ cloth. In this ruling, jurisprudents of the Ahl al-Bayt (‘a) School
 depend upon traditions reported from the Ahl al-Bayt (‘a) and Imam
 al-Sadiq’s verdict that reads:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَجُوزُ السُّجُودُ إلاَّ عَلَى الأَرْضِ أَوْ مَا أَنْبَتَتْهُ
-إِلاَّ مَا أُكِلَ أَوْ لُبِسَ.
-  </p>
-</blockquote>
+> لاَ يَجُوزُ السُّجُودُ إلاَّ عَلَى الأَرْضِ أَوْ مَا أَنْبَتَتْهُ
+> إِلاَّ مَا أُكِلَ أَوْ لُبِسَ.
 
 *Prostration is impermissible unless made on earth or on plants produced
 by the earth, except those eaten or converted into cloth.*[^8]
@@ -148,13 +132,9 @@ by the earth, except those eaten or converted into cloth.*[^8]
 Likewise, Shi’ite scholars are reported to have forbidden prostration on
 cotton and linen, because Imam al-Baqir (‘a) is reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُسْجَدُ عَلَى الثَّوْبِ الْكَرْسَفِ وَلاَ عَلَى الصُّوفِ وَلاَ
-عَلَى شَيْءٍ مِنَ الْحَيْوَانِ وَلاَ عَلَى حُطَامٍ وَلاَ عَلَى شَيْءٍ
-مِنَ الثِّمَارِ وَلاَ عَلَى شَيْءٍ مِنَ الرِّيَاشِ.
-  </p>
-</blockquote>
+> لاَ يُسْجَدُ عَلَى الثَّوْبِ الْكَرْسَفِ وَلاَ عَلَى الصُّوفِ وَلاَ
+> عَلَى شَيْءٍ مِنَ الْحَيْوَانِ وَلاَ عَلَى حُطَامٍ وَلاَ عَلَى شَيْءٍ
+> مِنَ الثِّمَارِ وَلاَ عَلَى شَيْءٍ مِنَ الرِّيَاشِ.
 
 *It is not permissible to prostrate on cotton cloth, nor on wool, nor on
 a part of an animal, or any food, or any part of fruits, or any part of
@@ -164,34 +144,22 @@ This ruling is supported by the following Prophetic tradition that is
 reported by al-Bukhari, Muslim, al-Tirmidhi, al-Nasa'i, Ibn Majah,
 al-Darimi, and Ahmad ibn Hanbal:
 
-<blockquote dir="rtl">
-  <p>
-جُعِلَتْ لِيَ الأَرْضُ مَسْجِداً وَطَهُوراً.
-  </p>
-</blockquote>
+> جُعِلَتْ لِيَ الأَرْضُ مَسْجِداً وَطَهُوراً.
 
 *The earth has been made for me a prostration place and pure.*
 
 Likewise, al-Bukhari, Muslim, and al-Nasa'i have reported the Holy
 Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الأَرْضُ لَكَ مَسْجِدٌ.
-  </p>
-</blockquote>
+> الأَرْضُ لَكَ مَسْجِدٌ.
 
 *The earth is a place of prostration for you.*[^10]
 
 Sunni master Hadithists have also reported the Holy Prophet (S) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَتِمُّ صَلاَةُ أَحَدِكُمْ حَتَّى يَتَوَضَّأَ كَمَا أَمَرَ اللهُ
-تَعَالَى ثُمَّ يَسْجُدُ مُمَكِّناً جَبْهَتَهُ مِنَ الأَرْضِ.
-  </p>
-</blockquote>
+> لاَ تَتِمُّ صَلاَةُ أَحَدِكُمْ حَتَّى يَتَوَضَّأَ كَمَا أَمَرَ اللهُ
+> تَعَالَى ثُمَّ يَسْجُدُ مُمَكِّناً جَبْهَتَهُ مِنَ الأَرْضِ.
 
 *The prayer of any of you is imperfect unless you perform the ritual
 ablution (wudhu') exactly as Almighty Allah has ordered and then
@@ -262,12 +230,8 @@ leadership, and religious authority, and being the proof of Almighty
 Allah for His creatures. All this originated from the instruction of the
 Holy Prophet (S) who declared on the day at Khumm Spring (i.e. Ghadir):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ. اللَّهُمَّ وَالِ مَنْ
-وَالاَهُ وَعَادِ مَنْ عَادَاهُ.
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَوْلاَهُ فَهَذَا عَلِيٌّ مَوْلاَهُ. اللَّهُمَّ وَالِ مَنْ
+> وَالاَهُ وَعَادِ مَنْ عَادَاهُ.
 
 *Behold! ‘Ali is now the master of every one who has regarded me as his
 master. O Allah, (please) support whoever supports ‘Ali and be the enemy
@@ -365,38 +329,26 @@ said after all obligatory prayers.
 
 *Repeat the following phrase three times:*
 
-<blockquote dir="rtl">
-  <p>
-اللّهُ اَكْبَرُ
-  </p>
-</blockquote>
+> اللّهُ اَكْبَرُ
 
 *Allah is the Greatest.*
 
 *Repeat the following invocation three times:*
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
 
 O Allah, send blessings upon Muhammad and the Household of Muhammad.
 
 *Finally, say the following litany:*
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٰهَ إِلاَّ ٱللُّهُ إِلَهاً وَاحِداً وَنَحْنُ لَهُ مُسْلِمُونَ
-لاَ إِلٰهَ إِلاَّ ٱللّهُ وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ مُخْلِصينَ
-لَهُ ٱلدِّينَ وَلَوْ كَرَهَ ٱلْمُشْرِكُونَ لاَ إِلٰهَ إِلاَّ ٱللّهُ
-رَبُّنَا وَرَبُّ آبَائِنَا ٱلا وَّلِينَ لاَ إِلٰهَ إِلاَّ اللّهُ
-وَحْدَهُ وَحْدَهُ وَحْدَهُ ا نْجَزَ وَعْدَهُ وَنَصَرَ عَبْدَهُ وَا
-عَزَّ جُنْدَهُ وَهَزَمَ ٱلا حْزَابَ وَحْدَهُ فَلَهُ ٱلْمُلْكُ وَلَهُ
-ٱلْحَمْدُ يُحْيي وَيُميتُ وَيُميتُ وَيُحْيي وَهُوَ حَيٌّ لاَ يَمُوتُ
-بِيَدِهِ ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْء قَديرٌ.
-  </p>
-</blockquote>
+> لاَ إِلٰهَ إِلاَّ ٱللُّهُ إِلَهاً وَاحِداً وَنَحْنُ لَهُ مُسْلِمُونَ
+> لاَ إِلٰهَ إِلاَّ ٱللّهُ وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ مُخْلِصينَ
+> لَهُ ٱلدِّينَ وَلَوْ كَرَهَ ٱلْمُشْرِكُونَ لاَ إِلٰهَ إِلاَّ ٱللّهُ
+> رَبُّنَا وَرَبُّ آبَائِنَا ٱلا وَّلِينَ لاَ إِلٰهَ إِلاَّ اللّهُ
+> وَحْدَهُ وَحْدَهُ وَحْدَهُ ا نْجَزَ وَعْدَهُ وَنَصَرَ عَبْدَهُ وَا
+> عَزَّ جُنْدَهُ وَهَزَمَ ٱلا حْزَابَ وَحْدَهُ فَلَهُ ٱلْمُلْكُ وَلَهُ
+> ٱلْحَمْدُ يُحْيي وَيُميتُ وَيُميتُ وَيُحْيي وَهُوَ حَيٌّ لاَ يَمُوتُ
+> بِيَدِهِ ٱلْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْء قَديرٌ.
 
 *There is no god save Allah; One and Only God; and we are submissive to
 Him. There is no god save Allah and we worship none save Him, making our
@@ -430,13 +382,9 @@ Recitation of the Holy Qur'an is one of the daily acts of worship. In
 this respect, Imam al-Sadiq (‘a), through a valid chain of authority, is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْقُرْآنُ عَهْدُ اللهِ إِلَى خَلْقِهِ، فَقَدْ يَنْبَغِي لِلْمَرْءِ
-الْمُسْلِمِ أَنْ يَنْظُرَ إِلَى عَهْدِهِ وَأَنْ يَقْرَأَ مِنْهُ فِي
-كُلِّ يَوْمٍ خَمْسِينَ آيَةً.
-  </p>
-</blockquote>
+> الْقُرْآنُ عَهْدُ اللهِ إِلَى خَلْقِهِ، فَقَدْ يَنْبَغِي لِلْمَرْءِ
+> الْمُسْلِمِ أَنْ يَنْظُرَ إِلَى عَهْدِهِ وَأَنْ يَقْرَأَ مِنْهُ فِي
+> كُلِّ يَوْمٍ خَمْسِينَ آيَةً.
 
 *The Qur'an is Almighty Allah’s trust that He has entrusted to His
 creatures. Therefore, a Muslim individual is required to pay regard to
@@ -445,27 +393,19 @@ this trust and recite fifty verses of it everyday.*[^24]
 According to another validly reported tradition, Imam al-Ridha (‘a) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-يَنْبَغِي لِلرَّجُلِ إَذَا أَصْبَحَ أَنْ يَقْرَأَ بَعْدَ التَّعْقِيبِ
-خَمْسِينَ آيَةً.
-  </p>
-</blockquote>
+> يَنْبَغِي لِلرَّجُلِ إَذَا أَصْبَحَ أَنْ يَقْرَأَ بَعْدَ التَّعْقِيبِ
+> خَمْسِينَ آيَةً.
 
 *At the beginning of the day, it is required to recite fifty verses of
 the Qur'an after post-prayer invocations.*[^25]
 
 According to another tradition, the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَ كُلَّ يَوْمٍ مِائَةَ آيَةٍ فِي الْمُصْحَفِ بِتَرْتِيلٍ
-وَخُشُوعٍ وَسُكُونٍ، كَتَبَ اللهُ لَهُ مِنَ الثَّوَابِ بِمِقْدَارِ مَا
-يَعْمَلُهُ جَمِيعُ أَهْلِ الأَرْضِ. وَمَنْ قَرَأَ مِائَتَيْ آيَةٍ
-كَتَبَ اللهُ لَهُ مِنَ الثَّوَابِ مَا يَعْمَلُهُ أَهْلُ السَّمَاءِ
-وَأَهْلُ الأَرْضِ.
-  </p>
-</blockquote>
+> مَنْ قَرَأَ كُلَّ يَوْمٍ مِائَةَ آيَةٍ فِي الْمُصْحَفِ بِتَرْتِيلٍ
+> وَخُشُوعٍ وَسُكُونٍ، كَتَبَ اللهُ لَهُ مِنَ الثَّوَابِ بِمِقْدَارِ مَا
+> يَعْمَلُهُ جَمِيعُ أَهْلِ الأَرْضِ. وَمَنْ قَرَأَ مِائَتَيْ آيَةٍ
+> كَتَبَ اللهُ لَهُ مِنَ الثَّوَابِ مَا يَعْمَلُهُ أَهْلُ السَّمَاءِ
+> وَأَهْلُ الأَرْضِ.
 
 *Whoever recites one hundred verses from a copy of the Qur'an everyday
 with modulation, reverence, and tranquility, Almighty Allah will record
@@ -570,13 +510,9 @@ dry but (it is noted) in a clear record.***
 After reciting this verse, you should raise both hands for Qunut,[^31]
 saying:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إِنِّي اَسْئَلُكَ بِمَفَاتِحِ ٱلْغَْيِبِ ٱلَّتِي لاَ
-يَعْلَمُهَا إِلاَّ ا نْتَ اَنْ تُصَلِّيَ عَلَىٰ مُحَمَّد وَآلِهِ وَا
-نْ…
-  </p>
-</blockquote>
+> اَللَّهُمَّ إِنِّي اَسْئَلُكَ بِمَفَاتِحِ ٱلْغَْيِبِ ٱلَّتِي لاَ
+> يَعْلَمُهَا إِلاَّ ا نْتَ اَنْ تُصَلِّيَ عَلَىٰ مُحَمَّد وَآلِهِ وَا
+> نْ…
 
 *O Allah, I beseech You in the name of the Keys of the Invisible (world)
 that none knows save You; (please) send blessings upon Muhammad and his
@@ -586,13 +522,9 @@ You may then mention your needs.
 
 Then, you should say the following:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ ا نْتَ وَلِيُّ نِعْمَتِي وَٱلْقَادِرُ عَلَىٰ طَلِبَتِي
-تَعْلَمُ حَاجَتِي فَا سْئَلُكَ بِحَقِّ مُحَمَّد وَآلِهِ عَلَيْهِ
-وَعَلَيْهِمُ ٱلسَّلاَمُ لَمَّا قَضَيْتَهَا لِي.
-  </p>
-</blockquote>
+> اَللَّهُمَّ ا نْتَ وَلِيُّ نِعْمَتِي وَٱلْقَادِرُ عَلَىٰ طَلِبَتِي
+> تَعْلَمُ حَاجَتِي فَا سْئَلُكَ بِحَقِّ مُحَمَّد وَآلِهِ عَلَيْهِ
+> وَعَلَيْهِمُ ٱلسَّلاَمُ لَمَّا قَضَيْتَهَا لِي.
 
 *O Allah, You are the source of all graces that I have, You have the
 power to respond to my request, and You know my needs; I therefore
@@ -775,5 +707,4 @@ second units of prayers.
 [^32]: - These voluntary prayers have been mentioned by al-Hurr
 al-\`Amili in the fifth volume of his book Wasa’il al-Shi\`ah, pages
 247, 246, 250, 286, 247, and 249 respectively.
-
 

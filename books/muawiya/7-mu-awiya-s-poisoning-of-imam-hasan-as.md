@@ -153,7 +153,6 @@ not consider Imam Hasan's martyrdom as a sad matter, this was on account
 of his animosity towards 'Ali and his family". Sunan Abu Daud Voul. 3
 page 273
 
-
 **Mu'awiya the baghi (rebel)**
 
 The books of Ahl'ul Sunnah are replete with references which prove that
@@ -251,7 +250,6 @@ Rasulullah (s):
 then pointed at 'Ali and said Ali and his companions shall be on the
 right path" [Kanz ul Ummal hadith number 33016].
 
-
 **Abdullah bin Umar's regret he didn't fight the baghi Mu'awiya**
 
 Of interest is the fact whilst citing Ibn Umar's non-participation
@@ -284,5 +282,4 @@ stand with Ali. That is why those who did not stand with 'Ali regretted
 that they failed to do so for example Abullah ibne Umar in the final
 stages of his life said 'I don't regret anything as much as the fact
 that I did not support 'Ali (Tabaqat Ibn sad page 187 Volume 4)"
-
 

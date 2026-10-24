@@ -17,4 +17,3 @@ References
 [7]. For details of the tradition see our book*Islamic Concept of
 Intermediation* .
 
-

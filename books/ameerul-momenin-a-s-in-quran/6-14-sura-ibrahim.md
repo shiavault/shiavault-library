@@ -14,7 +14,6 @@ heed" is referring to those who love Him (Moula Ali asws), His Shia."
 
 (Tafseer Qummi Second Edition pg 234)
 
-
 **15. Sura Hijr (The Rock)**
 
 1. ayah 41 "He said: This is a right way with Me:" Imam Abu Abdullah al
@@ -40,7 +39,6 @@ Sadiq (as) regarding this saying of Allah, Imam (as) said, "We are those
 seven oft repeated verses and Ali (asws) ibn Abi Talib (as) is the great
 Quran." (Al Burhan Second Vol pg 354)
 
-
 **16.Sura Nahl (The Bee)**
 
 1. ayah 16 "And landmarks and by the stars they find the right way" Al
@@ -57,7 +55,6 @@ and evil and rebellion; He admonishes you that you may be mindful", Imam
 hood of RasoolAllah (saw), ahsan (doing of good) is Ameerul Momineen
 (asws), and indecency, evil, and rebellion are three (abu bakr (la),
 umar (la), and usman (la)) (Tafseer e Qummi)
-
 
 **18. Sura al Kahf (The Cave)**
 
@@ -160,5 +157,4 @@ their religion which He has chosen for them and that He will most
 certainly, after their fear, give them security in exchange" is in
 reference to the zahoor of Qaim (ajfts)." (Taweel ul Ayat First Vol pg
 368)
-
 

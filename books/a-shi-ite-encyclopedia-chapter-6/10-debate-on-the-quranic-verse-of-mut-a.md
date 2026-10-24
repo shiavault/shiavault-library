@@ -134,7 +134,6 @@ the traditions which show that these pertain to legitimate sexual
 relationships with those traditions which demonstrate that they do not
 pertain to Mut'a. (Jawahir, v5, p163).
 
-
 **Debate over the Sermon of Umar**
 
 In a famous sermons the second caliph Umar banned Mut'a with the
@@ -289,7 +288,6 @@ together, whereas everyone, Sunnis and Shia agree that the Mut'a of
 al-Hajj is permissible. Hence the Mut'a pertaining to women should also
 be permissible. (Majma' al-Bayan, v3, p33).
 
-
 **Debate on the Controversial Reports**
 
 In the Sunni sources few traditions have been attributed the Prophet
@@ -410,5 +408,4 @@ Mut'a was naught but a mercy from God, through which He showed mercy to
 Muhammad's community. If Umar had not banned it, no one would need
 fornication except the wretched." (al-Durr al-Manthoor, by al-Suyuti,
 v2, p141).
-
 

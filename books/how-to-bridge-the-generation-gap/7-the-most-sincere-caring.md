@@ -34,4 +34,3 @@ believe it is quite natural you care for me. That is because of such
 caring, that you do your utmost in making me happy. I wonder how much I
 myself will be able to do for myself.
 
-

@@ -3,11 +3,7 @@ Lesson Sixty Eight: The World Is A Market
 
 Imam Hadi (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-الدُّنْيا سُوْقٌ رَبِحَ فِيها قَوْمٌ وَ خَسِرَ آخَرُونَ
-  </p>
-</blockquote>
+> الدُّنْيا سُوْقٌ رَبِحَ فِيها قَوْمٌ وَ خَسِرَ آخَرُونَ
 
 Translation
 -----------
@@ -34,5 +30,4 @@ transitory and destructive worldly pursuits which result in leaving the
 world empty handed.
 
 [^1]: Tuhaful Uqul, page 361
-
 

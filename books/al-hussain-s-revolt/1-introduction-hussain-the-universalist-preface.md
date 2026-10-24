@@ -3,7 +3,6 @@ Introduction Hussain - the Universalist Preface
 
 ( 05 )
 
-
 Imam Hussain (a.s.) has been the source of much interest for scores of
 writers and researchers. His revolt against the autocratic rule of
 Yezid, of the Umayyad dynasty, has been a particular magnet for this
@@ -42,5 +41,4 @@ principles for which the Imam laid his life.
 In the end, I pray to Allah, the Most High to bestow success on us all
 and guide us to that which is capable and worthy of bringing us closer
 to Him.
-
 

@@ -79,4 +79,3 @@ can be predicted by now, and their plan is like a drawing on the water!
 about it in an individual explained booklet and all points about the
 matter have been cleared.
 
-

@@ -225,4 +225,3 @@ order that a woman can travel from Iraq to Hijaz without anybody
 troubling her. By God, I am sure a day will come when there will be no
 poor among the Muslims"
 
-

@@ -78,4 +78,3 @@ upon questioning his father for the reason behind it, his father gave an
 answer which was in brief something like; “We must not do something to
 help them gain power and tomorrow rise up against us!”
 
-

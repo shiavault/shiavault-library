@@ -1228,4 +1228,3 @@ uncovering those fundamental, bitter, and practically dangerous
 philosophical truths which philosophers before him, precisely because
 they identified themselves with the philosophers, could not utter.
 
-

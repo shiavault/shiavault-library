@@ -20,20 +20,11 @@ world].
 purifies it from all that distances it [from the Truth] and destroys it.
 
 > 4ـ اَلعارِفُ مَنْ عَرَفَ نَفْسَهُ فَأَعْتَقَها، ونَزَّهَها عَنْ كُلِّ
-<blockquote dir="rtl">
-  <p>
-ما يُبَعِّدُها وَيُوبِقُها.
-  </p>
-</blockquote>
+> ما يُبَعِّدُها وَيُوبِقُها.
 
 5. The face of the cognizant one is cheerful and smiling while his heart
 is fearful and sad.
 
 > 5ـ اَلعارِفُ وَجْهُهُ مُسْتَبْشِرٌ مُتَبَسِّمٌ، وقَلْبُهُ وَجِلٌ
-<blockquote dir="rtl">
-  <p>
-مَحْزُونٌ.
-  </p>
-</blockquote>
-
+> مَحْزُونٌ.
 

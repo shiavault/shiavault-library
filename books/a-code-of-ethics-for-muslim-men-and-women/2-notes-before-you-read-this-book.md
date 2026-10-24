@@ -76,4 +76,3 @@ T
 
 Ayatullah al-Udhma al-Hajj ash-Shaykh Mirza Jawad al-Tabrizi
 
-

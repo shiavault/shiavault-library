@@ -68,20 +68,12 @@ Contemplation of the primary genesis of humanity facilitates accepting
 the Resurrection since God who created humans in the first place is
 surely able to revive them:
 
-<blockquote dir="rtl">
-  <p>
-﴿و هو الذي يبدء الخلق ثم يعيده و هو أهون عليه﴾
-  </p>
-</blockquote>
+> ﴿و هو الذي يبدء الخلق ثم يعيده و هو أهون عليه﴾
 
 ***“And He is the one who originates Creation then renews it and this is
 easier for Him.”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿قل يحييها الذي انشأها اوّل مرّة﴾
-  </p>
-</blockquote>
+> ﴿قل يحييها الذي انشأها اوّل مرّة﴾
 
 ***“Say, ‘He shall resurrect them who originated them the first
 time.”***[^8]
@@ -91,11 +83,7 @@ He who was able to create humans in the first place is also able to
 recreate them. Nonetheless, deniers of Resurrection doubt the recreation
 even though they accept the original creation![^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿افعيينا بالخلق الاوّل بل هم في لبس من خلق جديد﴾
-  </p>
-</blockquote>
+> ﴿افعيينا بالخلق الاوّل بل هم في لبس من خلق جديد﴾
 
 ***“Have We been wearied by the first creation? [Indeed not]; however,
 they doubt the new creation.”***[^10]
@@ -104,12 +92,8 @@ Yea, little thought regarding our original creation is enough to make us
 fathom the possibility of our renewed life after death and resolve all
 doubts.
 
-<blockquote dir="rtl">
-  <p>
-﴿يا ايّها الناس ان كنتم في ريب من البعث فانّا خلقناكم من تراب ثمّ من
-نطفة...﴾
-  </p>
-</blockquote>
+> ﴿يا ايّها الناس ان كنتم في ريب من البعث فانّا خلقناكم من تراب ثمّ من
+> نطفة...﴾
 
 ***“O people! If you are in doubt about the Resurrection, hence [know]
 We have created you from dust then from sperm…”***[^11]
@@ -202,12 +186,8 @@ fulfillment of this purpose is not possible in this world. Therefore, it
 is necessary that human life endure after death in order to prevent it
 from being in vain. Regarding this issue, the Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿افحسبتم انّما خلقناكم عبثا و انكم الينا لاترجعون. فتعالى الله الملك
-الحق...﴾
-  </p>
-</blockquote>
+> ﴿افحسبتم انّما خلقناكم عبثا و انكم الينا لاترجعون. فتعالى الله الملك
+> الحق...﴾
 
 ***“Did you think that We created you in vain and that you will not be
 returned to Us? And exalted is Allah, the King, the Righteous…”***[^17]
@@ -220,12 +200,8 @@ The Qur’an holds that if there is no Resurrection and Ākhirat, not only
 would the creation of humanity be in vain, but also the creation of the
 natural world would be for nothing:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما خلقنا السماوات و الأَرضَ و ما بينهما الّا بالحق، و انّ الساعة
-لآتية...﴾
-  </p>
-</blockquote>
+> ﴿و ما خلقنا السماوات و الأَرضَ و ما بينهما الّا بالحق، و انّ الساعة
+> لآتية...﴾
 
 ***“And We have not created the heavens and earth and all in between
 save in justice; and surely the Hour shall come.”***[^18]
@@ -267,21 +243,13 @@ In various verses, the Holy Qur’an indicates the fact that equality of
 the retribution of the righteous and the wicked is unfair and something
 that the intellect cannot accept. The Qur’an has asked many times that:
 
-<blockquote dir="rtl">
-  <p>
-﴿افنجعل المسلمين كالمجرمين. ما لكم كيف تحكمون﴾
-  </p>
-</blockquote>
+> ﴿افنجعل المسلمين كالمجرمين. ما لكم كيف تحكمون﴾
 
 ***“So shall We make those who are submissive [to Allah] as the sinners?
 What is wrong with you; how [ill] you judge!”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-﴿ام نجعل الذين آمنوا و عملوا الصالحات كالمفسدين في الارض ام نجعل
-المتقين كالفجّار﴾
-  </p>
-</blockquote>
+> ﴿ام نجعل الذين آمنوا و عملوا الصالحات كالمفسدين في الارض ام نجعل
+> المتقين كالفجّار﴾
 
 ***“Or must We make those who believe and do good as the corrupt of the
 world or must We make the pious as the transgressors?”***[^20]
@@ -311,29 +279,13 @@ understand the details of Resurrection we have no choice but to resort
 to another source of information beyond sensory experience: divine
 revelation.
 
-<blockquote dir="rtl">
-  <p>
-اين راه را نهايت صورت كجا توان بست
-  </p>
-</blockquote>
+> اين راه را نهايت صورت كجا توان بست
 
-<blockquote dir="rtl">
-  <p>
-كش صد هزار منزل بيش است در بدايت
-  </p>
-</blockquote>
+> كش صد هزار منزل بيش است در بدايت
 
-<blockquote dir="rtl">
-  <p>
-در اين شب سياهم گم گشت راه مقصود
-  </p>
-</blockquote>
+> در اين شب سياهم گم گشت راه مقصود
 
-<blockquote dir="rtl">
-  <p>
-از گوشـه‌اي برون آي اي كوكـب هـدايت
-  </p>
-</blockquote>
+> از گوشـه‌اي برون آي اي كوكـب هـدايت
 
 Where can be the ultimate end of this path?
 
@@ -433,11 +385,7 @@ which these deeds are reckoned must be a complete world in order that
 the truth of the deeds are correctly manifested and so that the judged
 may correctly and completely perceive the reality of their actions.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ أَنْ لَّيسَ لِلإِنسانِ إلّا ما سَعىٰ. و أَنَّ سَعيَهُ سَوفَ يُرىٰ﴾
-  </p>
-</blockquote>
+> ﴿وَ أَنْ لَّيسَ لِلإِنسانِ إلّا ما سَعىٰ. و أَنَّ سَعيَهُ سَوفَ يُرىٰ﴾
 
 ***“And humans have nothing save what they have labored. And [the fruits
 of] their labors shall soon be seen.”***[^47]
@@ -452,11 +400,7 @@ that stem from the mind regardless of whether they attain corporal
 manifestation or not. External and internal acts are both considered
 deeds and will be considered in the Reckoning.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ إّن تُبدُوا ما في أَنفُسِكُم أَو تُخفُوهُ يُحاسِبكُم بِهِ الله﴾
-  </p>
-</blockquote>
+> ﴿وَ إّن تُبدُوا ما في أَنفُسِكُم أَو تُخفُوهُ يُحاسِبكُم بِهِ الله﴾
 
 ***“And whether you show what is in your hearts or hide it, Allah will
 account you for it.”***[^48]
@@ -476,11 +420,7 @@ volition and authority. However, after an action is realized the person
 becomes dominated by the action, because it achieves union with the
 existential reality of the individual.
 
-<blockquote dir="rtl">
-  <p>
-﴿كُلُّ نَفسٍ بِما كَسَبَتْ رَهِينَةٌ﴾
-  </p>
-</blockquote>
+> ﴿كُلُّ نَفسٍ بِما كَسَبَتْ رَهِينَةٌ﴾
 
 ***“Every soul is prisoner of what they have earned.”***[^49]
 
@@ -490,12 +430,8 @@ they cannot place their blame on others, and they cannot dissimulate and
 make themselves seem innocent. Here, another difference between this
 world and Ākhirat is revealed.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ لاتَزِرُ وازِرَةٌ وِزْرَ أُخرىٰ وَ إِن تَدْعُ مُثْقَلَةٌ إِلىٰ
-حِملِها لايُحمَلْ مِنهُ شَيءٌ وَ لَو كانَ ذا قُربىٰ﴾
-  </p>
-</blockquote>
+> ﴿وَ لاتَزِرُ وازِرَةٌ وِزْرَ أُخرىٰ وَ إِن تَدْعُ مُثْقَلَةٌ إِلىٰ
+> حِملِها لايُحمَلْ مِنهُ شَيءٌ وَ لَو كانَ ذا قُربىٰ﴾
 
 ***“No laden person [with sin] bears the load of another and if a
 heavily laden person calls for someone’s help, no fraction of it will be
@@ -512,12 +448,8 @@ the complete reality of their own manifest and hidden actions. Hence,
 reckoning of the reality of actions necessitates infinite knowledge. No
 person is able to assess one’s own deeds or the deeds of others.
 
-<blockquote dir="rtl">
-  <p>
-﴿قُل إنّ الموتَ الذّي تَفِرُّونَ مِنهُ فإنّهُ مُلاقيكم ثمَّ تُرَدُّونَ
-إلىٰ عالِمِ الغَيبِ و الشَّهادةِ فيُنَبِّئُكُم بِما كُنتُم تَعمَلُون﴾
-  </p>
-</blockquote>
+> ﴿قُل إنّ الموتَ الذّي تَفِرُّونَ مِنهُ فإنّهُ مُلاقيكم ثمَّ تُرَدُّونَ
+> إلىٰ عالِمِ الغَيبِ و الشَّهادةِ فيُنَبِّئُكُم بِما كُنتُم تَعمَلُون﴾
 
 ***“Say: Verily, death, from which you flee, shall encounter you, then
 you shall be returned to the Knower of the Invisible and Visible and He
@@ -591,20 +523,12 @@ The echoes of our shouts return to us in kind.[^52]
 Many verses explicitly speak of the identicalness of actions and their
 recompense:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما تقدّموا لأَنفسكم من خيرٍ تجدوه عند الله﴾
-  </p>
-</blockquote>
+> ﴿و ما تقدّموا لأَنفسكم من خيرٍ تجدوه عند الله﴾
 
 ***“And whatever good you send forth for yourself, you shall find with
 Allah.”***[^53]
 
-<blockquote dir="rtl">
-  <p>
-﴿هل تجزون الّا ما كنتم تعملون﴾
-  </p>
-</blockquote>
+> ﴿هل تجزون الّا ما كنتم تعملون﴾
 
 ***“Are you recompensed save for what you did?”***[^54]
 
@@ -628,22 +552,14 @@ Moreover, the wicked will only realize equivalent retribution for their
 deeds, while the faithful and righteous will enjoy many more blessings
 than their deeds warrant.
 
-<blockquote dir="rtl">
-  <p>
-﴿مَن جآءَ بالحسَنَةِ فَلَهُ عَشرُ أَمثالِها و مَن جآءَ بِالسَّيِّئَةِ
-فلايُجزىٰ إِلّا مِثلَها و هُم لايُظلَمُون﴾
-  </p>
-</blockquote>
+> ﴿مَن جآءَ بالحسَنَةِ فَلَهُ عَشرُ أَمثالِها و مَن جآءَ بِالسَّيِّئَةِ
+> فلايُجزىٰ إِلّا مِثلَها و هُم لايُظلَمُون﴾
 
 ***“Whoever comes with a good deed will have tenfold equivalent
 [rewards] and whoever comes with an evil deed will only be recompensed
 equally and they will not be wronged.”***[^56]
 
-<blockquote dir="rtl">
-  <p>
-﴿لَهُم ما يَشَآءُونَ فيها و لَدَينا مَزِيدٌ﴾
-  </p>
-</blockquote>
+> ﴿لَهُم ما يَشَآءُونَ فيها و لَدَينا مَزِيدٌ﴾
 
 ***“Within it, they shall have all they want and with Us is yet
 more.”***[^57]
@@ -657,12 +573,8 @@ is characterized using various other names. Crusher [huṭamah] is one of
 these names. Hellfire, as opposed to worldly fire that may only consume
 the body, penetrates into the interior of persons and burns their soul:
 
-<blockquote dir="rtl">
-  <p>
-﴿كَلّا، لَيُنبَذَنَّ في الحُطَمَةِ. و مآ أَدراكَ ما الحُطَمَةُ. نارُ
-اللهِ المُوقَدَةُ. الَّتي تَطَّلِعُ علی الأَفئِدَة﴾
-  </p>
-</blockquote>
+> ﴿كَلّا، لَيُنبَذَنَّ في الحُطَمَةِ. و مآ أَدراكَ ما الحُطَمَةُ. نارُ
+> اللهِ المُوقَدَةُ. الَّتي تَطَّلِعُ علی الأَفئِدَة﴾
 
 ***“It is not so, they shall be thrust into the Crusher. And what will
 make you realize what the Crusher is? It is the kindled fire of Allah,
@@ -671,12 +583,8 @@ which reaches to the hearts.”***[^58]
 Jahannam is a living creature that shows emotions such as rage. In
 Qīyāmat, it seeks out unbelievers and envelops them.
 
-<blockquote dir="rtl">
-  <p>
-﴿إِذآ أُلقوا فيها سَمِعُوا لَها شَهِيقاً و هِيَ تَفُور. تَكادُ
-تَمَيَّزُ مِنَ الغَيظِ﴾
-  </p>
-</blockquote>
+> ﴿إِذآ أُلقوا فيها سَمِعُوا لَها شَهِيقاً و هِيَ تَفُور. تَكادُ
+> تَمَيَّزُ مِنَ الغَيظِ﴾
 
 ***“When they are cast into it, they hear it roaring while it boils and
 it close to bursting asunder from rage.”***[^59]
@@ -696,11 +604,7 @@ permit rest and freedom from agony. The inhabitants of Hell beg for
 death but there is no death in the Ākhirat, the realm of everlasting
 life.
 
-<blockquote dir="rtl">
-  <p>
-﴿يأتيهِ المَوتُ مِن كلِّ مكانٍ و ما هُوَ بِمَيِّتٍ﴾
-  </p>
-</blockquote>
+> ﴿يأتيهِ المَوتُ مِن كلِّ مكانٍ و ما هُوَ بِمَيِّتٍ﴾
 
 ***“Death comes at him from every side but he does not die.”***[^60]
 
@@ -712,12 +616,8 @@ Allah’s wrath. Thus, this type of fear is not been forbidden by religion
 because one pinnacle of religious training is fear of God not His
 creations.
 
-<blockquote dir="rtl">
-  <p>
-﴿هٰذِهِ جَهَنَّمُ الّتي يُكَذِّبُ بها المُجرمونَ. يَطُوفُونَ بَينَها و
-بَينَ حَميمٍ آنٍ. فَبِأَيِّ آلآءِ رَبِّكُما تُكَذِّبانِ﴾
-  </p>
-</blockquote>
+> ﴿هٰذِهِ جَهَنَّمُ الّتي يُكَذِّبُ بها المُجرمونَ. يَطُوفُونَ بَينَها و
+> بَينَ حَميمٍ آنٍ. فَبِأَيِّ آلآءِ رَبِّكُما تُكَذِّبانِ﴾
 
 ***“This is the same Hell that sinners denied. Now they drift between it
 and burning waters. So, which of your Lord’s bounties do you
@@ -730,13 +630,9 @@ righteous Jannat. The word jannat literally means a garden covered with
 trees. The Garden of Paradise has unending facets and no form of
 corruption whatsoever prevails over it or its inhabitants.
 
-<blockquote dir="rtl">
-  <p>
-﴿مَثَلُ الجَنَّةِ الّتي وُعِدَ المُتَّقُونَ تَجري مِن تَحتِها
-الأَنهارُ أُكُلُها دآئِمٌ و ظِلُّها، تِلكَ عُقبَى الّذينَ اتَّقَوا و
-عُقبَى الكافِرِينُ النّارُ﴾
-  </p>
-</blockquote>
+> ﴿مَثَلُ الجَنَّةِ الّتي وُعِدَ المُتَّقُونَ تَجري مِن تَحتِها
+> الأَنهارُ أُكُلُها دآئِمٌ و ظِلُّها، تِلكَ عُقبَى الّذينَ اتَّقَوا و
+> عُقبَى الكافِرِينُ النّارُ﴾
 
 ***“This is a description of the Paradise that has been promised to the
 pious: Beneath its [trees] runs rivers, its produce is perpetual, and
@@ -748,12 +644,8 @@ because He is worthy of worship—neither to attain Heaven nor due to fear
 of Hell—they shall enter a paradise that cannot be described or even
 imagined.
 
-<blockquote dir="rtl">
-  <p>
-﴿يآ أَيَّتُها النَّفسُ المُطمَئِنَّةُ. اِرجِعِيۤ إِلىٰ رَبِّكِ
-راضِيَةً مَّرضِيَةً. فَٱدخُلي في عِبادي. وٱدخُلي جَنَّتي﴾
-  </p>
-</blockquote>
+> ﴿يآ أَيَّتُها النَّفسُ المُطمَئِنَّةُ. اِرجِعِيۤ إِلىٰ رَبِّكِ
+> راضِيَةً مَّرضِيَةً. فَٱدخُلي في عِبادي. وٱدخُلي جَنَّتي﴾
 
 ***“O tranquil soul! Return to your Lord while you are well pleased with
 Him and He is well pleased with you. So join My servants. And enter My
@@ -763,11 +655,7 @@ Heaven is entirely clean and pure and no defilement or foulness may
 enter it. Before entering Heaven, all persons are purified of all
 uncleanliness by divine absolution or temporary punishment.
 
-<blockquote dir="rtl">
-  <p>
-﴿و نَزَعنا ما في صُدُورِهِم مِن غِلٍّ﴾
-  </p>
-</blockquote>
+> ﴿و نَزَعنا ما في صُدُورِهِم مِن غِلٍّ﴾
 
 ***“And We shall strip all rancor from within their breasts.”***[^64]
 
@@ -949,5 +837,4 @@ Sūrah Zumar 39:24, 39:48, 39:51, 39:70; Sūrah Tawbah 9:35; Sūrah Naḥl
 [^64]: - Sūrah A‘rāf 7:43.
 
 [^65]: - Sūrah Fāṭir 35:34-35.
-
 

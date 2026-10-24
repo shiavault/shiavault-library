@@ -77,4 +77,3 @@ The Holy Prophet said, “Thanks to Allah, how blessed these twelve
 Dirhams were; which became the dress of too naked persons and a
 slave-girl got emancipated.”[^1]
 
-

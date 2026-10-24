@@ -58,4 +58,3 @@ feeding 60 poor Mu’mins), as a punishment.
  Note 4. In two-months-fast, at least 31 days should be fasted
 consecutively. The remaining 29 days may be fasted with gaps.
 
-

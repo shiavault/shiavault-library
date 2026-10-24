@@ -46,7 +46,6 @@ The Arabic word /ludd/ is the plural form of /'alad/ which means 'an
 enemy with intensive hostility', and it is used for those who are
 fanatic, obstinate, and irrational in enmity.
 
-
 **Commentary : Verse 98**
 
 98- وَكَمْ أَهْلَكْنَا قَبْلَهُم مِن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِنْ
@@ -98,7 +97,5 @@ most powerful unjust forces of our time, too. Remove their vice from the
 oppressed communities and make the raise of believers against the
 oppressors victorious! Amen. O' Lord of the Worlds!
 
-
 The End of Sura Maryam
-
 

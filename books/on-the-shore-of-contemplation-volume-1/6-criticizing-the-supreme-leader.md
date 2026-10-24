@@ -35,11 +35,7 @@ individual as a gift.
 
 Imam Ja’far b. Muhammad as-Sadiq (AS) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَحَبُّ إِخْوَانِي إِلَـيَّ مَنْ أَهْدَى إِلَـيَّ عُيُوبِي.
-  </p>
-</blockquote>
+> أَحَبُّ إِخْوَانِي إِلَـيَّ مَنْ أَهْدَى إِلَـيَّ عُيُوبِي.
 
 “My most beloved brother to me is the one who offers me my shortcomings
 as a gift.”[^1]
@@ -92,5 +88,4 @@ subject of the complaint is of public interest, the reply must be made
 public.”
 
 [^1]: Bihar al-Anwar, vol. 78, pg. 249, no. 108, sec. 23
-
 

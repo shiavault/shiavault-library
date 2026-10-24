@@ -5,7 +5,6 @@ The Angel informs Mary about her giving birth to Jesus-The Miraculous
 Birth of Jesus as a sign of Allah-Jesus announces his Apostleship from
 the cradle itself
 
-
 16- وَاذْكُرْ فِى الْكِتَابِ مَرْيَمَ إِذِ انتَبَذَتْ مِنْ أَهْلِهَا
 مَكَاناً شَرْقِيّاً
 
@@ -75,12 +74,9 @@ The verse under discussion continues saying:
 " …Then We sent unto her Our Spirit (Holy Spirit) that presented
 himself to her a perfect man."
 
-
 1- Sura Al-Mulk, No. 67, verse 1
 
-
 **Commentary : Verse 18.19.20**
-
 
 18- قَالَتْ إِنّـِى أَعُوذُ بِالرَّحْمَنِ مِنكَ إِن كُنتَ تَقِيّاً
 
@@ -154,7 +150,6 @@ about the natural means of having a child, she wondered and:
 
 " She said: 'How shall there be for me a son while no man has touched
 me, neither have I been unchaste."
-
 
 **Commentary : Verse 21.22.23**
 
@@ -310,5 +305,4 @@ is the fruit of Faith." (Qurar-ul-Hikam, vol. 1, p. 386)
 Hadrat Ali (a.s.) said: "Modesty is from Allah, the Pure, it protects
 (one) from the punishment of Hell Fire." (Qurar-ul-Hikam, vol. 2, p.
 143)
-
 

@@ -382,4 +382,3 @@ who were superior to Iran in learning. From the economic aspect, too,
 they enjoyed better conditions, and were richer and more prosperous than
 Arabia.
 
-

@@ -22,7 +22,6 @@ relation with the Creator to Whom are ascribed the traits of Absolute
 Perfection, Knowledge and Power, and Who fashioned the universe out of
 nought.
 
-
 **The Islamic doctrine is based on three important factors:**
 
 1. Belief in Allah, the Almighty Who is Just, and never does He leave a
@@ -80,7 +79,6 @@ legislation, morals. manners, principles of social relations and
 educational directives - Islam becomes a general way of life, and a
 message comprehensive of all human activity, quite distinct from other
 religions and social and political systems.
-
 
 **The General Charactarisicts Of The Islamic Message**
 
@@ -790,5 +788,4 @@ a phenomenon denoting the movement of the doer.
 Therefore, Islam attaches great importance and care to the cultivation
 of good intentions and directs man toward them, so as to tie him to
 Allah the Exalted and to serve Him alone.
-
 

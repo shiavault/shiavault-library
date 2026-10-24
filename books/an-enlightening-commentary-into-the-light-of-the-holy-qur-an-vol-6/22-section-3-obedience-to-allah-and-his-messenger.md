@@ -4,18 +4,10 @@ Section 3: Obedience to Allah and His Messenger
 Surah Al-Anfal – Verses 20-21
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا
-تَوَلَّوْا عَنْهُ وَأَنْتُمْ تَسْمَعُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا
+> تَوَلَّوْا عَنْهُ وَأَنْتُمْ تَسْمَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
 
 **20*****. “O' you who have Faith! Obey Allah and His Messenger, and do
 not turn away from him while you hear (him).”***  
@@ -55,12 +47,8 @@ The verse says:
 Surah Al-Anfal – Verse 22
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لَا يَعْقِلُونَ
 
 **22*****. “Verily the worst of animals in the sight of Allah are the
 deaf, the dumb, who do not understand.”***
@@ -127,12 +115,8 @@ capability, but do not contemplate properly, as some mad ones.
 Surah Al-Anfal – Verse 23
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ ۖ وَلَوْ
-أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ ۖ وَلَوْ
+> أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ
 
 **23*****. “And if Allah had known any good in them, He would have made
 them hear; and (even) if He had made them hear, they would have turned
@@ -161,13 +145,9 @@ in ourselves.
 Surah Al-Anfal – Verse 24
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ
-بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ
+> بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ
 
 **24*****. “O you who have Faith! Answer Allah and the Messenger when he
 invites you to that which gives you life, and know that Allah intervenes
@@ -248,12 +228,8 @@ the invitation of prophets positively. The verse ends as follows:
 Surah Al-Anfal – Verse 25
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ
-خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ
+> خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 **25*****. “And keep from the evil of an affliction which shall not
 smite in particular those of you who committed injustice (but all of
@@ -315,13 +291,9 @@ is alone.”* [^6]
 Surah Al-Anfal – Verse 26
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا إِذْ أَنْتُمْ قَلِيلٌ مُسْتَضْعَفُونَ فِي الْأَرْضِ
-تَخَافُونَ أَنْ يَتَخَطَّفَكُمُ النَّاسُ فَآوَاكُمْ وَأَيَّدَكُمْ
-بِنَصْرِهِ وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ لَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَاذْكُرُوا إِذْ أَنْتُمْ قَلِيلٌ مُسْتَضْعَفُونَ فِي الْأَرْضِ
+> تَخَافُونَ أَنْ يَتَخَطَّفَكُمُ النَّاسُ فَآوَاكُمْ وَأَيَّدَكُمْ
+> بِنَصْرِهِ وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ لَعَلَّكُمْ تَشْكُرُونَ
 
 **26*****. “And remember when you were few, deemed weak in the land, and
 were fearful that people would snatch you away, but He gave you refuge
@@ -365,12 +337,8 @@ of that time, like the forces of Iran and Rom.
 Surah Al-Anfal – Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ
-وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ
+> وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ
 
 **27*****. “O you who have Faith! Do not betray Allah and the Messenger,
 and do not betray your trusts knowingly.”***
@@ -444,12 +412,8 @@ the progeny of the Prophet (S) are also the Divine deposits.
 Surah Al-Anfal – Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ
-اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ
+> اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ
 
 **28*****. “And know that your wealth and your children are a (means of)
 trial, and that Allah - with Him is a great reward.”***
@@ -505,5 +469,4 @@ Tafsir-ul-Burhan
 [^7]: Majma’-ul-Bayan, and Tafsir-us-Safi
 
 [^8]: Al-Mizan, and Majma'-ul-Bayan
-
 

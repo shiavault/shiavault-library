@@ -70,4 +70,3 @@ Jarir, from Laith, from Mujahid from Ibn Abbas.
 
 Dahabi remarks that this tradition is forged and fabricated.[^77]
 
-

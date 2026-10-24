@@ -1121,4 +1121,3 @@ a being necessary in itself is among all the causes of that thing.
 [^9]: Dr Muhammad 'Abd ar-Rahiman Marhaba, al-Mas'ala al-Falsafiyya,
 Manshurat 'Uwaydat, p. 80.
 
-

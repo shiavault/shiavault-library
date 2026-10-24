@@ -191,4 +191,3 @@ hopeless and crushing servitude'.**”**[^6]
 
 [^6]: Ibid, p. 67. s
 
-

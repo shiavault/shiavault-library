@@ -83,4 +83,3 @@ intended will be written for him.*
 denied Salatul Layl is in a great loss.*  
  Imam as-Sadiq (a)
 
-

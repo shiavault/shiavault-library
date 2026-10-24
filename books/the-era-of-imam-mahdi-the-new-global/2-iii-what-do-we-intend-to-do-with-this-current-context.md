@@ -107,13 +107,11 @@ No plan is perfect except with the Guidance of Allah, and insha Allah,.
 with proper guidance and leadership of the warasatul al-anbiya'a. mwe
 shall be successful in the implementation of these projects.
 
-
 **references**
 
 o Imam Khomeini's (Quddisah Sirruh) letter to President Gorbachev.
 
 o Wikipedia, www.wikipedia.org
-
 
 o Beyond American Hegemony . By Michael Lind, New America Foundation
 The National Interest | May/June 2007
@@ -150,5 +148,4 @@ o The Occultation of the Twelfth Imam(A Historical Background) by
 Jassim M. Hussain Published by: The Muhammadi Trust of Great Britain &
 Northern Ireland In co-operation with The Zahra Trust, P.O Box 29926 San
 Antonio TX 78229 USA
-
 

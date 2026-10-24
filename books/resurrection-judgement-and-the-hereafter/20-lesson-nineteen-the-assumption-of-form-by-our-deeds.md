@@ -334,4 +334,3 @@ will be said concerning him: \`This is the man who confronted people in
 world with two faces and spoke with two tongues.'“ (*Iqab al-Amal,* p.
 319)
 
-

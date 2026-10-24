@@ -49,7 +49,6 @@ worship of his Lord. The true worship of God should exclude the worship
 of anything or anybody else, be they idols, deified men, or powers of
 nature.
 
-
 **THE END OF SUREH CAVE (18)**
 
 سُورَةُ مَرْيَمَ MARY
@@ -88,7 +87,6 @@ BARREN. SO GRANT A SUCCESSOR OF YOURSELF.
 يَرِثُنِى وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيّاً (( 6
 )) 6- SO AS TO INHERIT ME, AND INHERIT THE POSTERITY OF JACOB, AND MAKE
 HIM MY LORD (A SERVANT) WHO PLEASES YOU.
-
 
 **THE COMMENTARY
 THE ANSWERED PRAYER OF ZACHARIAS**
@@ -337,7 +335,6 @@ SAID:ِ\`\`SO SHALL IT BE. YOUR LORD SAID THAT, IT IS EASY FOR ME; AND
 THAT, WE MAY MAKE HIM A SIGN FOR PEOPLE, AND A MERCY FROM US; AND IT WAS
 AN ORDER DECREED.
 
-
 **THE COMMENTARY
 THE BIRTH OF JESUS CHRIST**
 
@@ -567,5 +564,4 @@ THEY DOUBT.
 35- IT IS NOT BECOMING FOR ALLAH TO TAKE A CHILD. GLORY BE TO HIM. WHEN
 HE DECREES (TO CREATE A THING) HE ONLY SAYS TO IT, \`\`BE'' AND IT WILL
 BE.
-
 

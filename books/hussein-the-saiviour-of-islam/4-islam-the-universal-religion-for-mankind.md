@@ -307,4 +307,3 @@ family of the Holy Prophet Muhammad, is that right from the Holy Prophet
 down to the Eleventh Imarn, including Idadv Fatema, all the Holy
 Thirteen were Martyrs.
 
-

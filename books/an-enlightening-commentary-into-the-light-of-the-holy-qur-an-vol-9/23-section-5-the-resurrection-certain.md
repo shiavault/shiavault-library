@@ -4,18 +4,10 @@ Section 5: The Resurrection Certain
 Surah Maryam – Verses 66 - 67
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الإِنسَانُ أَءِذَا مَا مِتُّ لَسَوْفَ اُخْرَجُ حَيّاً
-  </p>
-</blockquote>
+> وَيَقُولُ الإِنسَانُ أَءِذَا مَا مِتُّ لَسَوْفَ اُخْرَجُ حَيّاً
 
-<blockquote dir="rtl">
-  <p>
-أَوَلاَ يَذْكُرُ الإِنسَانُ أَنَّا خَلَقْنَاهُ مِن قَبْلُ وَلَمْ يَكُ
-شَيْئاً
-  </p>
-</blockquote>
+> أَوَلاَ يَذْكُرُ الإِنسَانُ أَنَّا خَلَقْنَاهُ مِن قَبْلُ وَلَمْ يَكُ
+> شَيْئاً
 
 ***66. “And man says: ‘When I am dead shall I be raised up alive?’”***  
 ***67. “Does not man remember that We created him before, when he was
@@ -97,25 +89,13 @@ knowledge.”*[^3]
 Surah Maryam – Verses 68 - 70
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَوَرَبّـِكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ
-حَوْلَ جَهَنَّمَ جِثِيّاً
-  </p>
-</blockquote>
+> فَوَرَبّـِكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ
+> حَوْلَ جَهَنَّمَ جِثِيّاً
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَنَنزِعَنَّ مِن كُلّ‌ِ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَي
-الرَّحْمَنِ عِتِيّاً
-  </p>
-</blockquote>
+> ثُمَّ لَنَنزِعَنَّ مِن كُلّ‌ِ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَي
+> الرَّحْمَنِ عِتِيّاً
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَي بِهَا صِلِيّاً
-  </p>
-</blockquote>
+> ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَي بِهَا صِلِيّاً
 
 ***68. “So by your Lord, We shall surely muster them, and the Satans
 (with them), then We shall cause them to be present round Hell on their
@@ -181,19 +161,11 @@ thing which is burnt by means of fire’.
 Surah Maryam – Verses 71 - 72
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن مّـِنكُمْ إِلاَّ وَارِدُهَا كَانَ عَلَي رَبّـِكَ حَتْماً
-مَقْضِيّاً
-  </p>
-</blockquote>
+> وَإِن مّـِنكُمْ إِلاَّ وَارِدُهَا كَانَ عَلَي رَبّـِكَ حَتْماً
+> مَقْضِيّاً
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ نُنَجّـِي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا
-جِثِيّاً
-  </p>
-</blockquote>
+> ثُمَّ نُنَجّـِي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا
+> جِثِيّاً
 
 ***71. “And (there is) not one of you but shall come to it (Hell). This
 is, with your Lord, a fixed decree.”***  
@@ -318,20 +290,12 @@ Your forgiveness count us among the people of Paradise!
 Surah Maryam – Verses 73 - 74
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُنَا بَيّـِنَاتٍ قَالَ الَّذِينَ
-كَفَرُوا لِلَّذِينَ ءَامَنُوا أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَاماً
-وَأَحْسَنُ نَدِيّاً
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُنَا بَيّـِنَاتٍ قَالَ الَّذِينَ
+> كَفَرُوا لِلَّذِينَ ءَامَنُوا أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَاماً
+> وَأَحْسَنُ نَدِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ أَهْلَكْنَا قَبْلَهُم مِن قَرْنٍ هُمْ أَحْسَنُ أَثَاثاً
-وَرِءْياً
-  </p>
-</blockquote>
+> وَكَمْ أَهْلَكْنَا قَبْلَهُم مِن قَرْنٍ هُمْ أَحْسَنُ أَثَاثاً
+> وَرِءْياً
 
 ***73. “And when Our clear revelations are recited unto them, those who
 disbelieve say to those who believe: ‘Which of the two parties is better
@@ -398,13 +362,9 @@ inordinacy, and, finally, perdition.
 Surah Maryam – Verse 75
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن كَانَ فِي الضَّلاَلَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَنُ مَدّاً
-حَتَّي إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وإِمَّا
-السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَاناً وَأَضْعَفُ جُنْداً
-  </p>
-</blockquote>
+> قُلْ مَن كَانَ فِي الضَّلاَلَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَنُ مَدّاً
+> حَتَّي إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وإِمَّا
+> السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَاناً وَأَضْعَفُ جُنْداً
 
 ***75. “Say: ‘Whoever goes astray, the Beneficent (Allah) will prolong
 his span of life until, when they see what they were promised, whether
@@ -470,12 +430,8 @@ who in an indecent and weak position is.”*[^8]
 Surah Maryam – Verse 76
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدي وَالْبَاقِيَاتُ
-الصَّالِحَاتُ خَيْرٌ عِندَ رَبّـِكَ ثَوَاباً وَخَيْرٌ مَّرَدّاً
-  </p>
-</blockquote>
+> وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدي وَالْبَاقِيَاتُ
+> الصَّالِحَاتُ خَيْرٌ عِندَ رَبّـِكَ ثَوَاباً وَخَيْرٌ مَّرَدّاً
 
 ***76. “And Allah increases in guidance those who are guided aright, and
 the everlasting good deeds are better with your Lord in reward, and
@@ -523,30 +479,14 @@ Allah. Allah is the greatest.”*[^11]
 Surah Maryam – Verses 77 - 80
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأيْتَ الَّذِي كَفَرَ بِاَيَاتِنَا وَقَالَ لاُوتَيَنَّ مَالاً
-وَوَلَداً
-  </p>
-</blockquote>
+> أَفَرَأيْتَ الَّذِي كَفَرَ بِاَيَاتِنَا وَقَالَ لاُوتَيَنَّ مَالاً
+> وَوَلَداً
 
-<blockquote dir="rtl">
-  <p>
-أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِندَ الرَّحْمَنِ عَهْداً
-  </p>
-</blockquote>
+> أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِندَ الرَّحْمَنِ عَهْداً
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدّاً
-  </p>
-</blockquote>
+> كَلاَّ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدّاً
 
-<blockquote dir="rtl">
-  <p>
-وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْداً
-  </p>
-</blockquote>
+> وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْداً
 
 ***77. “Have you seen him who disbelieves in Our revelations and says:
 ‘I shall surely be given wealth and children (abundantly)?”***  
@@ -639,17 +579,9 @@ the world.
 Surah Maryam – Verses 81 - 82
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذُوا مِن دُونِ اللَّهِ ءَالِهَةً لّـِيَكُونُوا لَهُمْ عِزّاً
-  </p>
-</blockquote>
+> وَاتَّخَذُوا مِن دُونِ اللَّهِ ءَالِهَةً لّـِيَكُونُوا لَهُمْ عِزّاً
 
-<blockquote dir="rtl">
-  <p>
-كَلاَّ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدّاً
-  </p>
-</blockquote>
+> كَلاَّ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدّاً
 
 ***81. “And they have taken gods besides Allah that they might be for
 them a glory.”***  
@@ -725,5 +657,4 @@ of ‘to pass, to return’, or it is a ‘noun of place’ with the sense of
 
 [^12]: Nur-uth-Thaqalayn, vol. 3, p. 357, and Tafsir-ul-Burhan,
 Tafsir-us-Safi
-
 

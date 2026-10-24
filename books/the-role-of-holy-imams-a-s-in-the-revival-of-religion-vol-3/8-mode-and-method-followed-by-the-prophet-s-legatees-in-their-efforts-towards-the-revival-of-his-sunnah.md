@@ -746,11 +746,7 @@ others.[^53] In a few verses of the Holy Quran, the words (Khala’ef) and
 (Khulafa) which are plural of (Calipha) have been used in this very
 literal sense. Verse 69 from Chapter A’raf says:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ جَعَلَكُمْ خُلَفَاء مِن بَعْدِ قَوْمِ نُوحٍ
-  </p>
-</blockquote>
+> إِذْ جَعَلَكُمْ خُلَفَاء مِن بَعْدِ قَوْمِ نُوحٍ
 
 ***“He made you successors after Nuh’s people”. (Qur'an, 7:69)***
 
@@ -985,11 +981,7 @@ dethroned from Imamat. “[^70]
 At this juncture, Nauwi proffers the Quranic verse to substantiate his
 opinion:
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُواْ اللّهَ وَأَطِيعُواْ الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> أَطِيعُواْ اللّهَ وَأَطِيعُواْ الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***[Obey Allah and obey the Apostle and those in authority from among
 you;] (Qur'an,4:59).***
@@ -1007,12 +999,8 @@ divine office and needs an appointment by Allah. The leaders of this
 school as well as its scholars cite the following verse in support of
 their belief:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً
-  </p>
-</blockquote>
+> وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً
 
 ***“And when His Lord tried Ibrahim with certain words, he fulfilled
 them. He said: Surely, I will make you an Imam of men “ (Qur'an, 2:
@@ -1038,11 +1026,7 @@ too should be equally blessed with this honour.
 
 The Almighty Allah replied:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَنَالُ عَهْدِي الظَّالِمِين
-  </p>
-</blockquote>
+> لاَ يَنَالُ عَهْدِي الظَّالِمِين
 
 ***“My covenant does not include the unjust ones “ (Qur’an, 2:124)***
 
@@ -1065,24 +1049,16 @@ On the basis of this Quranic precept, Imam should be infallible. Apart
 from this Holy verse, other verses also emphasizes that Imamat is a
 divine decree and an Imam is designated by Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
-إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاء
-الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا
+> إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاء
+> الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
 
 ***“And We made them Imams who guided (people) by Our commands and We
 revealed to them the doing of good and the keeping up of prayer and the
 giving of the alms, and Us (alone) did they serve “ (Qur’an, 21:73)***
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
-وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا
+> وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
 
 ***“And from them We made Imams to guide by Our command when they were
 patient, and they were certain of Our communications “ (Qur’an,
@@ -1097,12 +1073,8 @@ Imamat).
 
 Subsequently, we find in the Holy Quran that Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيراً
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيراً
 
 ***“Allah only desires to keep away the uncleanness from you, O people
 of the House! and to purify you a (thorough) purification “ (Qur’an,
@@ -1144,11 +1116,7 @@ none of these things but purely on Allah’s instance. Similarly whatever
 the Prophet has inculcated about Imamat is on entirely on the command of
 the Almighty Allah and not on his personal whim.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنطِقُ عَنِ الْهَوَى إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
-  </p>
-</blockquote>
+> وَمَا يَنطِقُ عَنِ الْهَوَى إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
 
 ***“Nor does he speak out of desire. It is naught but revelation that is
 revealed “ (Qur’an, 53:3 & 4)***
@@ -1634,11 +1602,7 @@ historical text in the Sunni school of thought:
 
 Amir-ul-Mominin (as) says: When the blessed verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
-  </p>
-</blockquote>
+> وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
 
 [***And warn your nearest relations***] (Shuara/214) was revealed, the
 Messenger of Allah (S) called me and said:
@@ -1831,12 +1795,8 @@ is the master of all believers after me.’
 Nevertheless, the incident concerning donation of a ring to a beggar in
 the mosque and subsequent revelation of the Holy verse,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
-يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
+> يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Your ally is none but Allah and [therefore] His Messenger and those
 who have believed - those who establish prayer and give zakah, and they
@@ -1877,7 +1837,7 @@ Before concluding the discussion, we narrate two traditions from the
 Sunni books which shed light on the issue of the Prophet’s legatee and
 will.
 
-<span id="first-hadith">[First Hadith](#first-hadith)</span>  
+[First Hadith](#first-hadith)  
  Tabarani and other eminent traditionalists from the caliphate ideology
 have narrated from Salman, the great companion of the Prophet as
 follows:
@@ -1975,11 +1935,7 @@ most learned one in this regard. And amongst all the companions, Ali
 Prophets possessed legatees. To some Muslims, such a testimony on the
 part of Salman happens to be:
 
-<blockquote dir="rtl">
-  <p>
-بَلَى وَلَـكِن لِّيَطْمَئِنَّ قَلْبِي
-  </p>
-</blockquote>
+> بَلَى وَلَـكِن لِّيَطْمَئِنَّ قَلْبِي
 
 *** "Yes, but [I ask] only that my heart may be satisfied “ (Qur'an,
 2:260)***
@@ -1987,7 +1943,7 @@ part of Salman happens to be:
 While for others who were among the hypocrites, this testimony was more
 enlightening than the Prophet’s remarks.
 
-<span id="second-hadith">[Second Hadith](#second-hadith)</span>  
+[Second Hadith](#second-hadith)  
  Bareedah,[^111] another companion of the Prophet related the same
 tradition in the following words:
 
@@ -1999,11 +1955,7 @@ Since centuries, the sunni scholars have been striving hard to interpret
 the Prophet’s hadith concerning Imam Ali’s Imamat (like hadith-Ghadir
 and hadith- Manzelat):
 
-<blockquote dir="rtl">
-  <p>
-أنت مني بمنزلة هارون من موسى
-  </p>
-</blockquote>
+> أنت مني بمنزلة هارون من موسى
 
 Their efforts are directed at underplaying the significance of Ali’s
 Imamat and cite these traditions as mere virtues of Ali rather than his
@@ -2442,5 +2394,4 @@ the book “Ma’lim al-Madrasatain “.
 music, Uthman’s shame and Omar’s consent.
 
 [^114]: Outstanding examples can be found in Enclosure No 2.
-
 

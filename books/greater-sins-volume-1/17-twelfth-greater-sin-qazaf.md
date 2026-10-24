@@ -622,4 +622,3 @@ Mutlaq the Syrian, and he too became his devotee.
 
 [^8]: Safinat’ul-Bihār
 
-

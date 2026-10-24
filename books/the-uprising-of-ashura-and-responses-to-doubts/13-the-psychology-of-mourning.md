@@ -320,13 +320,9 @@ chest.
 
 1. Shaykh Tusi recounts that Imam al-Sadiq (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«لا شيءَ في اللطم علی الخدود سوی الاستغفارُ والتوبةُ، وقد شققنَ
-الجيوبَ ولطمنَ الخدودَ الفاطمياتُ علی الحسين بن علی عليهما السَّلام
-وعلی مثلهِ ُتلطُم الخدودُ وتُشقُّ الجيوبُ.»
-  </p>
-</blockquote>
+> «لا شيءَ في اللطم علی الخدود سوی الاستغفارُ والتوبةُ، وقد شققنَ
+> الجيوبَ ولطمنَ الخدودَ الفاطمياتُ علی الحسين بن علی عليهما السَّلام
+> وعلی مثلهِ ُتلطُم الخدودُ وتُشقُّ الجيوبُ.»
 
 “Hitting the face is nothing but seeking forgiveness and repentance,
 because the women from among the descendants of Fatimah (as) tore their
@@ -337,12 +333,8 @@ clothes.”[^6]
 2. A part of the holy prayer of “*Ziyarat* *Nahiyah Muqaddasah*”
 (Pilgrimage to the Holy Places) reads,
 
-<blockquote dir="rtl">
-  <p>
-فلمّا رأيْنَ النساءُ جوادك مخزياً... برزْنَ من الخدودِ ناشراتِ
-الشعورِ، على الخدودِ لاطماتٌ وبالعويل ناحياتٌ.»
-  </p>
-</blockquote>
+> فلمّا رأيْنَ النساءُ جوادك مخزياً... برزْنَ من الخدودِ ناشراتِ
+> الشعورِ، على الخدودِ لاطماتٌ وبالعويل ناحياتٌ.»
 
 “Like wounded horses, the women saw you… they came from behind their
 curtains with their hair disheveled and they were hitting their faces
@@ -351,23 +343,15 @@ and wailing in loud voices.”[^7]
 3. In the same prayer, we read that the Imam of the Age, Imam al-Mahdi
 (as), addresses Imam al-Husayn (as) in this way,
 
-<blockquote dir="rtl">
-  <p>
-«ولأندبنّك صباحاً ومساءاً، ولأبکينَّ عليك بدلَ الدموعِ دماً.»
-  </p>
-</blockquote>
+> «ولأندبنّك صباحاً ومساءاً، ولأبکينَّ عليك بدلَ الدموعِ دماً.»
 
 “I weep for you every mourning and evening, and instead of shedding
 tears, I cry blood.”[^8]
 
 4. It is narrated that Imam al-Rida (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«انّ يومَ الحسين اقرحَ جفونَنا وأسبلَ دموعَنا وأذلَّ عزيزَنا بأرضِ
-کربٍ وبلا، واورَثنا الکربَ والبلاءَ الى يومِ الانقضاءِ.»
-  </p>
-</blockquote>
+> «انّ يومَ الحسين اقرحَ جفونَنا وأسبلَ دموعَنا وأذلَّ عزيزَنا بأرضِ
+> کربٍ وبلا، واورَثنا الکربَ والبلاءَ الى يومِ الانقضاءِ.»
 
 “Verily the day of al-Husayn (as) has lacerated our eyes and made our
 tears flow. It has made our beloved one (Imam al-Husayn) become forlorn
@@ -378,11 +362,7 @@ Resurrection.”[^9]
 5. Shaykh Mufid recounts, “When Zaynab heard her brother, al-Husayn
 (as), reciting verses,
 
-<blockquote dir="rtl">
-  <p>
-«يا دهرُ افٍّ لك من خليلِ...»
-  </p>
-</blockquote>
+> «يا دهرُ افٍّ لك من خليلِ...»
 
 She slapped her face, rent her clothes and passed out.”[^10]
 
@@ -402,11 +382,7 @@ hit their breasts and faces for the sake of Imam al-Husayn (as).[^12]
 asked Imam al-Baqir (as) to explain what grief [*jaza‘*] meant. He (as)
 said,
 
-<blockquote dir="rtl">
-  <p>
-«أشدُّ الجزعِ الصراخُ بالويلِ والعويلِ، ولطمُ الوجهِ والصدرِ...»
-  </p>
-</blockquote>
+> «أشدُّ الجزعِ الصراخُ بالويلِ والعويلِ، ولطمُ الوجهِ والصدرِ...»
 
 “The most intense grief is yelling, crying, shouting and hitting the
 face and chest…”[^13]
@@ -429,11 +405,7 @@ their company, but he showed no protest against their behavior.
 
 2. Imam al-Husayn (as) recited the following epic verse at Karbala,
 
-<blockquote dir="rtl">
-  <p>
-يا دهرُ افّ لك من خليلِ کم لك في الاشراقِ والاصيلِ
-  </p>
-</blockquote>
+> يا دهرُ افّ لك من خليلِ کم لك في الاشراقِ والاصيلِ
 
 When Zaynab heard his words, at that moment she rent her clothes, hit
 her face and and came out of the tent bareheaded and cried out loudly,
@@ -500,11 +472,7 @@ Islamic sects and schools of thought:
 
 Bukhari quotes from ‘Abd Allah that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«ليس منّا من لطمَ الخدودَ وشقَّ الجيوبَ ودعا بدعوی الجاهليةِ.»
-  </p>
-</blockquote>
+> «ليس منّا من لطمَ الخدودَ وشقَّ الجيوبَ ودعا بدعوی الجاهليةِ.»
 
 “A man who slaps his face, rends his collar and promotes the legacy of
 the Age of Ignorance (before the advent and rise of Islam) is not from
@@ -555,12 +523,8 @@ prohibit beating the chest and mourning.
 1. Jabir ibn ‘Abd Allah Ansari says, I asked Imam al-Baqir (as) about
 grief [*jaza‘*]. He (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«أشدُّ الجزعِ الصراخُ بالويلِ، ولطمُ الوجهُ والصدرِ وجزُّ الشعرِ من
-النواصيَ، ومن أقامَ النواحةَ فقد ترك الصبرَ، واخذ في غيرِ طريقةٍ.»
-  </p>
-</blockquote>
+> «أشدُّ الجزعِ الصراخُ بالويلِ، ولطمُ الوجهُ والصدرِ وجزُّ الشعرِ من
+> النواصيَ، ومن أقامَ النواحةَ فقد ترك الصبرَ، واخذ في غيرِ طريقةٍ.»
 
 “The most intense grief is wailing while saying “woe”, slapping the face
 and pulling the front hair out. Anyone who mourns and expresses grief
@@ -568,12 +532,8 @@ has certainly lost his patience and is on the path of impatience.”[^25]
 
 2. It has been recounted that Imam al-Sadiq (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«نهی رسول الله صَلَّی اللهُ عَلَيهِ وَآله عن الرنة عند المصيبة، ونهی
-عن النياحةِ والاستماعِ اليها.»
-  </p>
-</blockquote>
+> «نهی رسول الله صَلَّی اللهُ عَلَيهِ وَآله عن الرنة عند المصيبة، ونهی
+> عن النياحةِ والاستماعِ اليها.»
 
 “The Prophet of Allah forbade crying loudly when one is afflicted with a
 misfortune. He also forbade mourning or listening to it.”[^26]
@@ -582,12 +542,8 @@ misfortune. He also forbade mourning or listening to it.”[^26]
 commenting on the Qur’anic verse, *“And will not disobey you in what is
 good.”*[^27] He said,
 
-<blockquote dir="rtl">
-  <p>
-«إذا أنا متُّ فلا تخمشي عليَّ وجهاً، ولا تُرخي عليَّ شعراً، ولا تنادي
-بالويل، ولا تقيمَنَّ على نائحةٍ.»
-  </p>
-</blockquote>
+> «إذا أنا متُّ فلا تخمشي عليَّ وجهاً، ولا تُرخي عليَّ شعراً، ولا تنادي
+> بالويل، ولا تقيمَنَّ على نائحةٍ.»
 
 “The Prophet of Allah (S) told his daughter, Fatimah (as), ‘When I die,
 do not scratch your face, dishevel your hair nor mourn or cry
@@ -629,25 +585,17 @@ al-Husayn (as).
 
 1. A *hadith* has been recounted that Imam al-Sadiq (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«کلُّ الجزعِ والبکاءِ مکروهٌ سوی الجزعَ والبکاءَ على الحسينِ عليه
-السّلام.»
-  </p>
-</blockquote>
+> «کلُّ الجزعِ والبکاءِ مکروهٌ سوی الجزعَ والبکاءَ على الحسينِ عليه
+> السّلام.»
 
 “Every kind of despondency and crying is disapproved [*makruh*], except
 grieving and crying for Imam al-Husayn (S).”[^29]
 
 2. Imam al-Rida (as) told his son,
 
-<blockquote dir="rtl">
-  <p>
-«... إنّ يومَ الحسينِ عليه السّلام اقرحَ جفونَنا واسبلَ دموعَنا واذلَّ
-عزيزَنا بأرضِ کربٍ وبلا واورثَنا الکربَ والبلاءَ الى يومِ
-الانقضاءِ...»
-  </p>
-</blockquote>
+> «... إنّ يومَ الحسينِ عليه السّلام اقرحَ جفونَنا واسبلَ دموعَنا واذلَّ
+> عزيزَنا بأرضِ کربٍ وبلا واورثَنا الکربَ والبلاءَ الى يومِ
+> الانقضاءِ...»
 
 “… Verily, the day of al-Husayn (the day of ‘Ashura) has lacerated eyes
 and made them swollen. It has caused our tears to flow because our
@@ -823,5 +771,4 @@ the sections on clothing of one reciting prayer [libas musalla], hadith
 [^39]: ‘Uyun al-Akbar wa Funun al-Athar, p. 109.
 
 [^40]: Ibn Abi al-Hadid, Sharh Nahj al-Balaghah.
-
 

@@ -348,4 +348,3 @@ Chingiz Khan to the death of Sultan Ghazan.
 
 [^17]: Juwaini, op. cit., p. 4
 
-

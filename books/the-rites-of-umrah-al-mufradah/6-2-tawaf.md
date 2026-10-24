@@ -1426,4 +1426,3 @@ problem.
 
 [^1]: This distance is less than thirteen meters.
 
-

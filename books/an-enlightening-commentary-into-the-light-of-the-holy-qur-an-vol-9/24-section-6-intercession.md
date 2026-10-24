@@ -4,18 +4,10 @@ Section 6: Intercession
 Surah Maryam – Verses 83 - 84
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا الشَّيَاطِينَ عَلَي الْكَافِرِينَ
-تَؤُزُّهُمْ أَزّاً
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا الشَّيَاطِينَ عَلَي الْكَافِرِينَ
+> تَؤُزُّهُمْ أَزّاً
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَعْجَلْ عَلَيْهِمْ إِنَّمَا نَعُدُّ لَهُمْ عَدّاً
-  </p>
-</blockquote>
+> فَلاَ تَعْجَلْ عَلَيْهِمْ إِنَّمَا نَعُدُّ لَهُمْ عَدّاً
 
 ***83. “Have you not seen (how) We sent the Satans unto the disbelievers
 to incite them with an incitement?”***  
@@ -59,17 +51,9 @@ severely’.
 Surah Maryam – Verses 85 - 86
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نحْشُرُ الْمُتَّقِينَ إِلَي الرَّحْمَنِ وَفْداً
-  </p>
-</blockquote>
+> يَوْمَ نحْشُرُ الْمُتَّقِينَ إِلَي الرَّحْمَنِ وَفْداً
 
-<blockquote dir="rtl">
-  <p>
-وَنَسُوقُ الْـمُجْرِمِينَ إِلَي جَهَنَّمَ وِرْداً
-  </p>
-</blockquote>
+> وَنَسُوقُ الْـمُجْرِمِينَ إِلَي جَهَنَّمَ وِرْداً
 
 ***85. “On the day We muster the pious unto the Beneficent (Allah) (like
 the guest) of honour.”***  
@@ -248,12 +232,8 @@ Hell is sin, vice, and opposition against Allah and His Messenger.
 Surah Maryam – Verse 87
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يَمْلِكُونَ الشَّفَاعَةَ إِلاَّ مَنِ اتَّخَذَ عِندَ الرَّحْمَنِ
-عَهْداً
-  </p>
-</blockquote>
+> لاَّ يَمْلِكُونَ الشَّفَاعَةَ إِلاَّ مَنِ اتَّخَذَ عِندَ الرَّحْمَنِ
+> عَهْداً
 
 ***87. “They shall not own any intercession, save he who has taken a
 promise with the Beneficent (Allah).”***
@@ -303,17 +283,9 @@ of Paradise and Hell.[^23]
 Surah Maryam – Verses 88 - 89
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَداً
-  </p>
-</blockquote>
+> وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَداً
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ جِئْتُمْ شَيْئاً إِدّاً
-  </p>
-</blockquote>
+> لَّقَدْ جِئْتُمْ شَيْئاً إِدّاً
 
 ***88. “And they say: ‘The Beneficent (Allah) has taken (unto Himself) a
 son’.”***  
@@ -366,24 +338,12 @@ throat. Then it has been applied for the ugly and horrible deeds.
 Surah Maryam – Verses 90 - 92
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الاَرْضُ
-وَتَخِرُّ الْجِبَالُ هَدّاً
-  </p>
-</blockquote>
+> تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الاَرْضُ
+> وَتَخِرُّ الْجِبَالُ هَدّاً
 
-<blockquote dir="rtl">
-  <p>
-أَن دَعَوْا لِلرَّحْمَنِ وَلَداً
-  </p>
-</blockquote>
+> أَن دَعَوْا لِلرَّحْمَنِ وَلَداً
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنبَغِي لِلرَّحْمنِ أَن يَتَّخِذَ وَلَداً
-  </p>
-</blockquote>
+> وَمَا يَنبَغِي لِلرَّحْمنِ أَن يَتَّخِذَ وَلَداً
 
 ***90. “At it the skies are about to burst, and the earth to split
 asunder, and the mountains to fall down crashing.”***  
@@ -432,12 +392,8 @@ feebleness befalls Him, nor He feels loneliness and need.
 Surah Maryam – Verse 93
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن كُلُّ مَن فِي السَّمَاوَاتِ وَالأَرْضِ إِلآَّ ءَاتِي الرَّحْمَنِ
-عَبْداً
-  </p>
-</blockquote>
+> إِن كُلُّ مَن فِي السَّمَاوَاتِ وَالأَرْضِ إِلآَّ ءَاتِي الرَّحْمَنِ
+> عَبْداً
 
 ***93. “There is none in the heavens and the earth but comes unto the
 Beneficent (Allah) as a servant.”***
@@ -458,17 +414,9 @@ obedience. It is those creatures who are totally in need of Him.
 Surah Maryam – Verses 94 - 95
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدّاً
-  </p>
-</blockquote>
+> لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدّاً
 
-<blockquote dir="rtl">
-  <p>
-وَكُلُّهُمْ ءَاتِيهِ يَوْمَ الْقِيَامَةِ فَرْداً
-  </p>
-</blockquote>
+> وَكُلُّهُمْ ءَاتِيهِ يَوْمَ الْقِيَامَةِ فَرْداً
 
 ***94. “Certainly He has counted them, and He has numbered them
 exactly.”***  
@@ -502,12 +450,8 @@ Pure Essence from the climax of Dignity and Grandeur!
 Surah Maryam – Verse 96
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
-الرَّحْمَنُ وُدّاً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ
+> الرَّحْمَنُ وُدّاً
 
 ***96. “Verily those who believe and do righteous deeds, soon the
 Beneficent (Allah) will appoint love for them.”***
@@ -638,12 +582,8 @@ the believers wholly, with a hierarchical order, of course.
 Surah Maryam – Verse 97
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشّـِرَ بِهِ الْمُتَّقِينَ
-وَتُنذِرَ بِهِ قَوْماً لُّدّاً
-  </p>
-</blockquote>
+> فإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشّـِرَ بِهِ الْمُتَّقِينَ
+> وَتُنذِرَ بِهِ قَوْماً لُّدّاً
 
 ***97. “So We have made it (The Qur’an) easy in your tongue that you may
 give glad tidings thereby to the pious ones, and warn thereby stubborn
@@ -691,12 +631,8 @@ fanatic, obstinate, and irrational in enmity.
 Surah Maryam – Verse 98
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ أَهْلَكْنَا قَبْلَهُم مِن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِنْ
-أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزَاً
-  </p>
-</blockquote>
+> وَكَمْ أَهْلَكْنَا قَبْلَهُم مِن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِنْ
+> أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزَاً
 
 ***98. “And how many a generation before have We destroyed! Do you find
 any one of them or hear a sound of them?”***
@@ -819,5 +755,4 @@ and Nahaj-ul-Balaqah, saying No. 45
 [^34]: Al-Kafi vol. 1, p. 431, Tafsir-i-Furat, p. 247
 
 [^35]: Bihar-ul-Anwar, vol. 46, p.30
-
 

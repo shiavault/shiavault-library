@@ -1366,4 +1366,3 @@ Sahih part 15 p.176 that Sa’d Ibn Abu Waqass reported in this Hadith.
 
 [^34]: Al-Tabari his History part 4 p.368.
 
-

@@ -13,17 +13,11 @@ after the Prophets on the face of the earth, nor has He given a bondsman
 any blessing like that of success in finding their company. Allah has
 said,
 
-
-<blockquote dir="rtl">
-  <p>
-الْأَخِلَّاء يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> الْأَخِلَّاء يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا
+> الْمُتَّقِينَ
 
 ***The friends shall on that day be enemies to one another except those
 who guard [against evil].*** (43:67)
-
 
 I believe that anyone who looks for a friend without fault in these
 times will remain without a friend. Do you not see that the first mark
@@ -34,5 +28,4 @@ friends and trustees was the company of His prophets. This is proof
 that, after knowledge of Allah, there is no blessing in either abode
 which is more sublime, more excellent or more pure than company in Allah
 and brotherhood for His sake.
-
 

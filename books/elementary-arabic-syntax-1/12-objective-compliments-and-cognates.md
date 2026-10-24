@@ -21,4 +21,3 @@ beautiful patience.)
 • for numeration: **دَقّتِ** **الساعةُ** **دَقّتَینِ** (The watch ticked
 two ticks.)
 
-

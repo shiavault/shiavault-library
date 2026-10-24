@@ -73,4 +73,3 @@ the 11th and 12th then her proxy is valid. Furthermore, if circumstances
 arise that make her unable to do so after becoming the agent then her
 proxy is valid.
 
-

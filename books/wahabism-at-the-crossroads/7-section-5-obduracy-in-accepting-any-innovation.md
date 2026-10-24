@@ -351,4 +351,3 @@ battle they were all sent to hell by Imam Ali and his army).
 [^22]: – Collected from a variety of sources; for reference look in the
 bibliography.
 
-

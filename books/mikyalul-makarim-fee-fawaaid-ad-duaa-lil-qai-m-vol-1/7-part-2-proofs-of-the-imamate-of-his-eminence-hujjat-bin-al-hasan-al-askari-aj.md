@@ -24,13 +24,9 @@ following two ways:
 appointed for the people it is incumbent on them to refer to him and
 rest assured that:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
-وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
+> وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا
 
 ***“And it behoves not a believing man and a believing woman that they
 should have any choice in their matter when Allah and His Apostle have
@@ -269,11 +265,7 @@ community and those who were in the forefront of his army; about whose
 sincerity he was sure and about whom he had no doubt, in fact he had
 selected hypocrites. Allah, the Mighty and the High says:
 
-<blockquote dir="rtl">
-  <p>
-وَاخْتَارَ مُوسَىٰ قَوْمَهُ سَبْعِينَ رَجُلًا لِمِيقَاتِنَا
-  </p>
-</blockquote>
+> وَاخْتَارَ مُوسَىٰ قَوْمَهُ سَبْعِينَ رَجُلًا لِمِيقَاتِنَا
 
 ***“And Moosa chose out of his people seventy men for Our
 appointment…”(Surah Araaf 7:155)***
@@ -407,5 +399,4 @@ mention in the coming section so that this book is not lacking in proof
 [^1]: Al-Ihtijaaj; Shaykh Tabarsi; Vol. 2/268
 
 [^2]: Usul al-Kafi; Muhammad bin Yaqoob Kulaini; Vol. 1/277
-
 

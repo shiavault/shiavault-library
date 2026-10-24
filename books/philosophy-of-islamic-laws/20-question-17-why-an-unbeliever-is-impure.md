@@ -55,4 +55,3 @@ keep from those impurities Islam has announced that they are najis, so
 that those Muslims who by intermingling with them have the possibility
 of becoming impure may remain safe.
 
-

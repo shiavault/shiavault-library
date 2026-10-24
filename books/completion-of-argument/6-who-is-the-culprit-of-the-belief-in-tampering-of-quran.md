@@ -1439,4 +1439,3 @@ the glory), like Surah Hashr and Surah Jumah etc.
 
 [^47]: Itiqadiya, Shaykh Sadooq
 
-

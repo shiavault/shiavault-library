@@ -262,4 +262,3 @@ Aaron Simmons and David Wood, eds. Kierkegaard and Levinas: ethics,
 politics, and religion. Bloomington, IN: Indiana University Press,
 2008.
 
-

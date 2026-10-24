@@ -8,23 +8,15 @@ prophets as Nūḥ (Noah), Hūd, Ṣāliḥ and Shu‘ayb (Jethro) (*‘a*), it
 mentions that the first message they conveyed to their respective
 communities is this:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ ﴾
-  </p>
-</blockquote>
+> ﴿ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ ﴾
 
 ***“Worship Allah! You have no other god besides Him.”***[^1]
 
 It also regards the call to monotheism as one of the objectives of the
 mission (*bi‘thah*) of the prophets (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ
-اللّهَ وَاجْتَنِبُواْ الطَّاغُوتَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ
+> اللّهَ وَاجْتَنِبُواْ الطَّاغُوتَ ﴾
 
 ***“Certainly We raised an apostle in every nation [to preach:] ‘Worship
 Allah, and keep away from the Rebel’.”***[^2]
@@ -154,32 +146,20 @@ things, thus:
 Thee are doctrines which the Holy Qur’an has also mentioned and
 proscribed all of them as polytheistic beliefs. It states, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ
-مَرْيَمَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ
+> مَرْيَمَ ﴾
 
 ***“They are certainly faithless who say, ‘Allah is the Messiah, son of
 Mary’.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَّقَدْ كَفَرَ الَّذِينَ قَالُواْ إِنَّ اللّهَ ثَالِثُ ثَلاَثَةٍ
-وَمَا مِنْ إِلَـهٍ إِلاَّ إِلَـهٌ وَاحِدٌ ﴾
-  </p>
-</blockquote>
+> ﴿ لَّقَدْ كَفَرَ الَّذِينَ قَالُواْ إِنَّ اللّهَ ثَالِثُ ثَلاَثَةٍ
+> وَمَا مِنْ إِلَـهٍ إِلاَّ إِلَـهٌ وَاحِدٌ ﴾
 
 ***“They are certainly faithless who say, ‘Allah is the third [person]
 of a trinity,’ while there is no god except the One God.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالَتِ النَّصَارَى الْمَسِيحُ ابْنُ اللَّهِ ذَلِكَ قَوْلُهُمْ
-بِأَفْوَاهِهِمْ يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِنْ قَبْلُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالَتِ النَّصَارَى الْمَسِيحُ ابْنُ اللَّهِ ذَلِكَ قَوْلُهُمْ
+> بِأَفْوَاهِهِمْ يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِنْ قَبْلُ ﴾
 
 ***“And the Christians say, ‘Christ is the son of Allah.’ That is an
 opinion that they mouth, imitating the opinions of the faithless of
@@ -264,12 +244,8 @@ has been considered unacceptable. Imām ‘Alī (*‘a*) has regarded purging
 the Essence of extraneous attributes as the perfection of purity in the
 Divine Unity (*tawḥīd*), saying:
 
-<blockquote dir="rtl">
-  <p>
-وَكَمَالُ تَوْحِيدِهِ ٱلْإِخْلاَصُ لَهُ، وَكَمَالُ ٱلْإِخْلَاصِ لَهُ
-نَفْيُ الصِّفَاتِ عَنْهُ.
-  </p>
-</blockquote>
+> وَكَمَالُ تَوْحِيدِهِ ٱلْإِخْلاَصُ لَهُ، وَكَمَالُ ٱلْإِخْلَاصِ لَهُ
+> نَفْيُ الصِّفَاتِ عَنْهُ.
 
 “And the perfection of believing in His Oneness is to regard Him as
 Pure, and the perfection of His purity is to deny Him attributes.”[^12]
@@ -323,11 +299,7 @@ have adopted a formula in a bid to refute the criticisms (especially
 about the multiplicity of the eternals) made against their notion. It is
 as follows: [^17]
 
-<blockquote dir="rtl">
-  <p>
-لا يُقالُ هِيَ هُوَ وَلا غِيْرُهُ.
-  </p>
-</blockquote>
+> لا يُقالُ هِيَ هُوَ وَلا غِيْرُهُ.
 
 That is to say that although the Essential Attributes of God are
 distinct from His Essence, it cannot be said that they are identical
@@ -347,11 +319,7 @@ effect of the Essence of God, the assumption is that the Essence lacks
 those attributes and that which is devoid of perfection cannot bestow
 perfection.
 
-<blockquote dir="rtl">
-  <p>
-ذات نايافته از هستي بخش كي تواند كه شود هستي بخش
-  </p>
-</blockquote>
+> ذات نايافته از هستي بخش كي تواند كه شود هستي بخش
 
 *The Essence that cannot be found from the existence-bestower,*
 
@@ -419,5 +387,4 @@ sociologist, and amateur physicist. [Trans.]
 
 [^17]: In this regard, see the book Al-Ilāhiyyāt fī Madrasat Ahl al-Bayt
 (‘a) by the author.
-
 

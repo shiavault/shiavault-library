@@ -426,4 +426,3 @@ ff.
 20. From 'Attar quoted in M. Smith, Readings from the Mystics of Islam,
 London, 1950, pp. 26-27.
 
-

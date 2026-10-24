@@ -369,44 +369,44 @@ hearing: are they alike? Will you not mind? (Holy Qur'an, 11:24)
 
 Surely Allah says the truth.
 
-[^246] He says so in his book Al-Tafsir al-Kabir (the grand exegesis),
+[^246]: He says so in his book Al-Tafsir al-Kabir (the grand exegesis),
 Vol. 11, p. 161.
-[^247] Ibn Hazm, Al-Muhalla, Vol. 3, p. 54.
-[^248] Al-Fakhr al-Razi, Al-Tafsir al-Kabir, Vol. 11, p. 161.
-[^249] Al-Bukhari, Sahih, Vol. 8, p. 148.
-[^250] We mean those early ones who made a covenant with Ali and his
+[^247]: Ibn Hazm, Al-Muhalla, Vol. 3, p. 54.
+[^248]: Al-Fakhr al-Razi, Al-Tafsir al-Kabir, Vol. 11, p. 161.
+[^249]: Al-Bukhari, Sahih, Vol. 8, p. 148.
+[^250]: We mean those early ones who made a covenant with Ali and his
 offspring after him and who founded the sect of "Ahl al-Sunnah wal
 Jama\`a."
-[^251] We have discussed this issue in detail and quoted their own
+[^251]: We have discussed this issue in detail and quoted their own
 statements which they have published in their books as well as the
 statements of their imams in a book we called Ma\`a al-Sadiqeen (So Let
 us be with the Truthful); so, it must be referred to it.
 
-[^252] Al-Bukhari, Sahih, Vol. 1, p. 74.
-[^253] Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 6, p. 191.
-[^254] Al-Darimi, Sunan, Vol. 1, p. 145. Ibn Qutaybah, p. 199, in the
+[^252]: Al-Bukhari, Sahih, Vol. 1, p. 74.
+[^253]: Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 6, p. 191.
+[^254]: Al-Darimi, Sunan, Vol. 1, p. 145. Ibn Qutaybah, p. 199, in the
 section dealing with interpreting disputed traditions.
-[^255] Maqalat al-Islamiyyeen, Vol. 2, p. 251.
-[^256] Jami\` Bayan al-\`Ilm, Vol. 2, p. 234.
-[^257] Jami\` Bayan al-\`Ilm, Vol. 2, p. 233.
-[^258] Al-Dhahabi, Tadhkirat al-Huffaz, Vol. 1, p. 3.
-[^259] Ibn Kathir, Kanz al-Ummal, Vol. 5, p. 237. Al-Dhahabi, Tadhkirat
+[^255]: Maqalat al-Islamiyyeen, Vol. 2, p. 251.
+[^256]: Jami\` Bayan al-\`Ilm, Vol. 2, p. 234.
+[^257]: Jami\` Bayan al-\`Ilm, Vol. 2, p. 233.
+[^258]: Al-Dhahabi, Tadhkirat al-Huffaz, Vol. 1, p. 3.
+[^259]: Ibn Kathir, Kanz al-Ummal, Vol. 5, p. 237. Al-Dhahabi, Tadhkirat
 al-Huffaz, Vol. 1, p. 5.
-[^260] Al-Dhahabi, Tadhkirat al-Huffaz, Vol. 1, p. 5.
-[^261] This is quoted in al-Bukhari's Sahih in The Book of Coffins in a
+[^260]: Al-Dhahabi, Tadhkirat al-Huffaz, Vol. 1, p. 5.
+[^261]: This is quoted in al-Bukhari's Sahih in The Book of Coffins in a
 chapter dealing with the Prophet's hadith: "A dead person is tormented
 even by a little of the weeping of his family over him." It is also
 recorded in Muslim's Sahih in The Book of Coffins in a chapter dealing
 with a dead person tormented by his family grieving over him.
-[^262] This is recorded in both al-Bukhari's and Muslim's Sahih books in
+[^262]: This is recorded in both al-Bukhari's and Muslim's Sahih books in
 The Book of Coffins written by each in the chapter referred to above.
-[^263] This tradition is quoted on p. 223, Vol. 2, of al-Hasakani's book
+[^263]: This tradition is quoted on p. 223, Vol. 2, of al-Hasakani's book
 Shawahid al-Tanzil, Vol. 2, p. 223. on p. 417 of Ghayat al-Maram, p.
 417. Al-Riyad al-Nadira, Vol. 2, p. 202.
-[^264] This is indicated in al-Tabari's Tarikh in a chapter dealing with
+[^264]: This is indicated in al-Tabari's Tarikh in a chapter dealing with
 Ali's conviction. Ibn Majah, Sunan, Vol. 6, p. 44. Al-Nasa'i, Khasa'is.
 Al-Hakim, Mustadrak, Vol. 3, p. 112.
-[^265] "Ahl al-Sunnah wal Jama\`a" call Uthman "Dhul-Noorayn,"
+[^265]: "Ahl al-Sunnah wal Jama\`a" call Uthman "Dhul-Noorayn,"
 justifying it by saying that he had married Ruqayya and Ummu Kulthoom
 who, according to them, were the Prophet's daughters. This is not true.
 The truth is that they were his step-daughters. Even if you suppose

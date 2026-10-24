@@ -590,4 +590,3 @@ al-Husayn (a.s) toward the peacemaking.
 
 [^1] Ansab al-Ashraf, vol. 1, p. 160.
 
-

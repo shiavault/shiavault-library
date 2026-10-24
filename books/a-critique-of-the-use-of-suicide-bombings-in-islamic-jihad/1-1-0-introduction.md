@@ -11,4 +11,3 @@ frighteningly synonymous with Islam, an attempt will be made to analyze
 the legality or otherwise of suicide bombing as a tactic in Islamic
 jihad and its place in the future of Islam.
 
-

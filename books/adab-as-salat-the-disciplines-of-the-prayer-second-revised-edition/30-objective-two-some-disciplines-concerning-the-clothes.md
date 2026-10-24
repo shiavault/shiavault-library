@@ -218,4 +218,3 @@ the Clothes,” ch. 8, hadīth 2.
 
 [^9]: Ibid., hadīth 1.
 
-

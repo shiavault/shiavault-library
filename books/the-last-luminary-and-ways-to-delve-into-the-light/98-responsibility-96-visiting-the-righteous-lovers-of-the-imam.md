@@ -12,17 +12,12 @@ amongst those with the taqwa of Allah!
 
 Imam Musa b. Ja’far al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَقْدِرْ أَنْ يَزُورَنَا فَلْيَزُرْ صَالِحِي مَوَالِينَا
-يُكْتَبُ لَهُ ثَوَابُ زِيَارَتِنَا
-  </p>
-</blockquote>
+> مَنْ لَمْ يَقْدِرْ أَنْ يَزُورَنَا فَلْيَزُرْ صَالِحِي مَوَالِينَا
+> يُكْتَبُ لَهُ ثَوَابُ زِيَارَتِنَا
 
 “A person who is not able to perform our Ziyarat should instead visit
 the righteous people from among our followers and the reward of visiting
 us will be written for him.”[^1]
 
 [^1]: Kamal al-Ziyarat, pg. 319, no. 1
-
 

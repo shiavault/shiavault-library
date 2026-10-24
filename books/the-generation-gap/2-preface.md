@@ -95,7 +95,6 @@ the problems is out of the scope of such a brief book. Here, I have
 tried to address some of the problems to the extent it was possible to
 do so.
 
-
 As soon as this book was published and reached in the hands of its
 readers, many of them conveyed their thanks to the outhor through their
 encouraging letters. More than anything else, the clarity and simplicity
@@ -265,10 +264,8 @@ deeds. And, in case of they have been conducting themselves in a
 pleasing way, to keep up the good work. I ask Allah to grant all
 fathers, mothers and their children sincerety, health and happiness.
 
-
 Sayyid mohammad Taqi Hakim
 15th Rabiul Thani 1403
 10th Bahman 1361
 30th January 1982
-
 

@@ -662,4 +662,3 @@ not for a woman in iddah arising on a final divorce. A widow who is
 still in iddah of her late husband can perform a pilgrimage without
 anyone's consent.
 
-

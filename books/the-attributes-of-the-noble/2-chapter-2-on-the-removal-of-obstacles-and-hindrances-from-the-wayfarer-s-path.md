@@ -423,4 +423,3 @@ God; indeed, God loves the God fearing. (3:76)
 13. Sunan Ibn Majah, ii, 1378; Musnad Ahmad ibn Hanbal, v, 407.
 14. Al-Majlisi, al-Bihar, Ixvii, 73.
 
-

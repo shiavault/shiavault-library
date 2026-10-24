@@ -206,4 +206,3 @@ government’s payroll.
 In your assessment, how much would this have tarnished the good name of
 Imam ‘Ali (a.s.) in the minds of that generation?
 
-

@@ -267,4 +267,3 @@ These sacred verses depict the fact that at the time of the Holy
 Prophet, the worshipping of these celestial bodies was a common
 practice.
 
-

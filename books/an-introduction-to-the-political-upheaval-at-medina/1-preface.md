@@ -26,8 +26,6 @@ good and active reader.
 Meanwhile, you can keep our address at the disposal of your friends and
 those indivi- (luals interested in Islamic Studies.
 
-
 Publication Secretary,
 A GROUP OF MUSLIM BROTHERS.
-
 

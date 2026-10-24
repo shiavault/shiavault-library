@@ -33,11 +33,7 @@ intercession does not arise. If at the time of his death the person
 repents with pure intention it is possible that Lord by His grace allow
 on the day of judgement the intercessor to plead his case.
 
-<blockquote dir="rtl">
-  <p>
-(فَاِنَّه تَوَّابُ الرَّحِيْمِ)
-  </p>
-</blockquote>
+> (فَاِنَّه تَوَّابُ الرَّحِيْمِ)
 
 The Prophet Of Lord – Intercessor On The Day Of Judgement
 ---------------------------------------------------------
@@ -46,12 +42,8 @@ Verily among the Muslims there would not be any who does not recognize
 the prophet as intercessor on the day of Qiyamat, the reason is that
 Lord Himself has nominated Him for this purpose and selected him.
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
-رَبُّكَ مَقَامًا مَّحْمُودًا.
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
+> رَبُّكَ مَقَامًا مَّحْمُودًا.
 
 ***“And during a part of the night, pray Tahajjud beyond what is
 incumbent on you; maybe your Lord will raise you to a position of great
@@ -66,12 +58,8 @@ Tafsir al-Majmul Bayaan it is written that prophet will stand with a
 banner (**عَلَمْ**) and all the prophets will gather around him, and
 Lord will accept his intercession.
 
-<blockquote dir="rtl">
-  <p>
-وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى. وَلَسَوْفَ يُعْطِيكَ
-رَبُّكَ فَتَرْضَى.
-  </p>
-</blockquote>
+> وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى. وَلَسَوْفَ يُعْطِيكَ
+> رَبُّكَ فَتَرْضَى.
 
 ***“And surely what comes after is better for you than that which has
 gone before. And soon will your Lord give you so that you shall be well
@@ -79,11 +67,7 @@ pleased.” (Surah Zoha, 93:4-5)***
 
 Most exergists are narrating with reference to Ibne Abbas that he said:
 
-<blockquote dir="rtl">
-  <p>
-رَضَاهُ اَنْ تَدْخُلَ اَمَّتُهُ الْجَنَّه
-  </p>
-</blockquote>
+> رَضَاهُ اَنْ تَدْخُلَ اَمَّتُهُ الْجَنَّه
 
 *Prophet will only be pleased when his nation will enter Paradise.*
 
@@ -93,5 +77,4 @@ that he always prayed for his nation as he is **رحمة لِلعَالَمِي�
 But reciprocate in another way by harassing, usurping the rights,
 lowering their position and tried all means to injure them. By Lord this
 point is worth contemplating by the intellectuals.
-
 

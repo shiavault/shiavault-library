@@ -82,9 +82,7 @@ al-Thani
 
 8. الشيخ بهاء الدين العاملي: الوجيزة
 
-
 **Chapter 2: Meeting 1 Definition, Signifigance, Branches**
-
 
 Meeting 1: Definition, Significance, Branches Abstract:
 
@@ -226,5 +224,4 @@ As important as the Hadith is, unfortunately it has not always been
 preserved in its immaculate origin. Thus, it has also become the source
 of all sectarianism and divisions in Islam. This is a very controversial
 topic with which we shall deal in the next lesson.
-
 

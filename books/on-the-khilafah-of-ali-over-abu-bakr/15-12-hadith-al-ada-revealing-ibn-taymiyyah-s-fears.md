@@ -18,19 +18,15 @@ preceding research:
 Meanwhile, it has equally been narrated by a sixth Sahabi, as documented
 by Imam Ibn Asakir (d. 571 H):
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو الفضيل الفضيلي أنا أبو القاسم الخليلي أنا أبو القاسم
-الخزاعي أنا الهيثم بن كليب الشاشي نا أحمد بن شداد الترمذي نا علي بن
-فادم نا إسرائيل عن عبد الله بن شريك عن الحارث بن مالك قال أتيت مكة
-فلقيت سعد بن أبي وقاص فقلت هل سمعت لعلي منقية قال قد شهدت له أربعا لأن
-تكون لي واحدة منهن أحب إلي من الدنيا أعمر فيها مثل عمر نوح عليه السلام
-إن رسول الله صلى الله عليه وسلم بعث أبا بكر ببراءة إلى مشركي قريش فسار
-بها يوما وليلة ثم قال لعلي اتبع أبا بكر فخذها فبلغها ورد علي أبا بكر
-فرجع أبو بكر فقال يا رسول الله أنزل بي شئ قال لا إلا خير إلا أنه ليس
-يبلغ عني إلا أنا أو رجل مني أو قال من أهل بيتي
-  </p>
-</blockquote>
+> أخبرنا أبو الفضيل الفضيلي أنا أبو القاسم الخليلي أنا أبو القاسم
+> الخزاعي أنا الهيثم بن كليب الشاشي نا أحمد بن شداد الترمذي نا علي بن
+> فادم نا إسرائيل عن عبد الله بن شريك عن الحارث بن مالك قال أتيت مكة
+> فلقيت سعد بن أبي وقاص فقلت هل سمعت لعلي منقية قال قد شهدت له أربعا لأن
+> تكون لي واحدة منهن أحب إلي من الدنيا أعمر فيها مثل عمر نوح عليه السلام
+> إن رسول الله صلى الله عليه وسلم بعث أبا بكر ببراءة إلى مشركي قريش فسار
+> بها يوما وليلة ثم قال لعلي اتبع أبا بكر فخذها فبلغها ورد علي أبا بكر
+> فرجع أبو بكر فقال يا رسول الله أنزل بي شئ قال لا إلا خير إلا أنه ليس
+> يبلغ عني إلا أنا أو رجل مني أو قال من أهل بيتي
 
 Abu al-Fudhayl al-Fudhayli – Abu al-Qasim al-Khalili – Abu al-Qasim
 al-Khuza’i – al-Haytham b. Kulayb al-Shashi – Ahmad b. Shaddad
@@ -96,12 +92,8 @@ Is judicial sovereignty over the believers an exclusive title of the
 Prophet? Or, is it a shared authority? The Qur’an provides an explicit
 answer:
 
-<blockquote dir="rtl">
-  <p>
-فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في أنفسهم
-حرجا مما قضيت ويسلموا تسليما
-  </p>
-</blockquote>
+> فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في أنفسهم
+> حرجا مما قضيت ويسلموا تسليما
 
 But no, by your Lord, they can have no faith, **until they make YOU
 (Muhammad) the judge in WHATSOEVER dispute there is between them**, and
@@ -113,13 +105,9 @@ be a true believer unless he makes the Messenger of Allah his judge in
 absolutely all matters of dispute – no matter the nature – between him
 and *any* other Muslim. Al-Hafiz Ibn Kathir (d. 774 H) further explains:
 
-<blockquote dir="rtl">
-  <p>
-يقسم تعالى بنفسه الكريمة المقدسة : أنه لا يؤمن أحد حتى يُحَكم الرسول
-صلى الله عليه وسلم في جميع الأمور ، فما حكم به فهو الحق الذي يجب
-الانقياد له باطنا وظاهرا
-  </p>
-</blockquote>
+> يقسم تعالى بنفسه الكريمة المقدسة : أنه لا يؤمن أحد حتى يُحَكم الرسول
+> صلى الله عليه وسلم في جميع الأمور ، فما حكم به فهو الحق الذي يجب
+> الانقياد له باطنا وظاهرا
 
 Allah swears by His Holy Self: that none can be a believer until he
 makes the Messenger, peace be upon him, the judge IN ALL MATTERS, and
@@ -150,28 +138,16 @@ sometimes impossible with the rigid, non-secular Sunnah. A quick look at
 the circumstance of descent of the noble verse reveals the correctness
 of our submissions. Imam al-Bukhari (d. 256 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد أخبرنا مخلد قال أخبرني ابن جريج قال حدثني
-  </p>
-</blockquote>
+> حدثنا محمد أخبرنا مخلد قال أخبرني ابن جريج قال حدثني
 
-<blockquote dir="rtl">
-  <p>
-ابن شهاب عن عروة بن الزبير أنه حدثه :
-  </p>
-</blockquote>
+> ابن شهاب عن عروة بن الزبير أنه حدثه :
 
-<blockquote dir="rtl">
-  <p>
-أن رجلا من الأنصار خاصم الزبير في شراج من الحرة يسقي بها النخل فقال
-رسول الله صلى الله عليه و سلم اسق يا زبير - فأمره بالمعروف - ثم أرسل
-إلى جارك. فقال الأنصاري آن كان ابن عمتك ؟ فتلون وجه رسول الله صلى الله
-عليه و سلم ثم قال اسق ثم احبس حتى يرجع الماء إلى الجدر .واستوعى له حقه
-فقال الزبير والله إن هذه الآية أنزلت في ذلك {فلا وربك لا يؤمنون حتى
-يحكموك فيما شجر بينهم .{
-  </p>
-</blockquote>
+> أن رجلا من الأنصار خاصم الزبير في شراج من الحرة يسقي بها النخل فقال
+> رسول الله صلى الله عليه و سلم اسق يا زبير - فأمره بالمعروف - ثم أرسل
+> إلى جارك. فقال الأنصاري آن كان ابن عمتك ؟ فتلون وجه رسول الله صلى الله
+> عليه و سلم ثم قال اسق ثم احبس حتى يرجع الماء إلى الجدر .واستوعى له حقه
+> فقال الزبير والله إن هذه الآية أنزلت في ذلك {فلا وربك لا يؤمنون حتى
+> يحكموك فيما شجر بينهم .{
 
 Narrated ‘Urwah b. al-Zubayr:
 
@@ -218,14 +194,10 @@ Another point to further highlight is that even some punishments within
 the *Shari’ah* are also deferred to the personal discretion of the
 judge. For instance, Imam al-Tirmidhi records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة حدثنا الليث عن يزيد بن أبي حبيب عن بكير بن عبد الله بن
-الأشج عن سليمان بن يسار عن عبد الرحمن بن جابر بن عبد الله عن ابي بردة
-بن دينار قال: قال رسول الله صلى الله عليه و سلم لا يجلد فوق عشر جلدات
-الا في حد من حدود الله
-  </p>
-</blockquote>
+> حدثنا قتيبة حدثنا الليث عن يزيد بن أبي حبيب عن بكير بن عبد الله بن
+> الأشج عن سليمان بن يسار عن عبد الرحمن بن جابر بن عبد الله عن ابي بردة
+> بن دينار قال: قال رسول الله صلى الله عليه و سلم لا يجلد فوق عشر جلدات
+> الا في حد من حدود الله
 
 Qutaybah – al-Layth – Yazid b. Abi Habib – Bukayr b. ‘Abd Allah b.
 al-Ashja’ – Sulayman b. Yasar – ‘Abd al-Rahman b. Jabir b. ‘Abd Allah –
@@ -237,12 +209,8 @@ punishments immutably fixed by Allah.”[^5]
 
 Al-Tirmidhi comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن غريب لا نعرفه إلا من حديث بكير بن الأشج وقد اختلف أهل
-العلم في التعزير وأحسن شيء روي في التعزيز هذا الحديث
-  </p>
-</blockquote>
+> هذا حديث حسن غريب لا نعرفه إلا من حديث بكير بن الأشج وقد اختلف أهل
+> العلم في التعزير وأحسن شيء روي في التعزيز هذا الحديث
 
 This *hadith* is *hasan gharib* (i.e. has a *hasan* chain). We do not
 know it except through the *hadith* of Bukayr b. al-Ashja’. **The
@@ -252,11 +220,7 @@ about** ***ta’zir*** **is this** ***hadith***.[^6]
 
 ‘Allamah al-Albani, on his part, only says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^7]
 
@@ -285,11 +249,7 @@ was Amir al-Muminin ‘Ali b. Abi Talib! The Prophet never left his
 *Ummah* in disarray. If ‘Ali was alive, then no one else could be
 sovereign judge:
 
-<blockquote dir="rtl">
-  <p>
-علي مني وأنا من علي ولا يؤدي عني إلا أنا أو علي
-  </p>
-</blockquote>
+> علي مني وأنا من علي ولا يؤدي عني إلا أنا أو علي
 
 Ali is from me and I am from ‘Ali, **and none can discharge** ***on my
 behalf*** **except myself or ‘Ali**.
@@ -297,11 +257,7 @@ behalf*** **except myself or ‘Ali**.
 If he was dead, then another male from the Ahl al-Bayt must fill the
 post:
 
-<blockquote dir="rtl">
-  <p>
-لا يؤدّي عنّي إلا رجل من أهل بيتي
-  </p>
-</blockquote>
+> لا يؤدّي عنّي إلا رجل من أهل بيتي
 
 None can discharge on my behalf **except a man from my Ahl al-Bayt**.
 
@@ -329,11 +285,7 @@ Prophet’s judicial sovereignty *on his behalf* is necessarily the true
 *khalifah*. Only a *khalifah* can legitimately exercise such a level of
 authority, apart from a prophet:
 
-<blockquote dir="rtl">
-  <p>
-يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
-  </p>
-</blockquote>
+> يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
 
 O Dawud! We have appointed you **a** ***khalifah*** over the earth.
 **Therefore, judge between mankind** with the truth.[^8]
@@ -364,5 +316,4 @@ Muhammad Nasir al-Din al-Albani], vol. 4, p. 63, \# 1463
 [^8]: Qur’an 38:26. Prophet Dawud was both a prophet and a khalifah. In
 the above verse, Allah is only making reference to his khilafah, and not
 to his nubuwwah.
-
 

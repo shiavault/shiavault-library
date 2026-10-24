@@ -3,12 +3,8 @@ Lesson One Hundred Thirty Four: Occultation Of Imam Al- Mahdi (a.s.)
 
 Imam Mahdi (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَمَّا الْحَوادِثُ الْواقِعَةُ فَارْجِعُوا فيها اِلى رُواةِ
-اَحادِيثِنا
-  </p>
-</blockquote>
+> اَمَّا الْحَوادِثُ الْواقِعَةُ فَارْجِعُوا فيها اِلى رُواةِ
+> اَحادِيثِنا
 
 Translation
 -----------
@@ -37,5 +33,4 @@ title , who assumes himself to be worthy of such a rank, must be
 rejected.
 
 [^1]: Cited in various Hadith Books
-
 

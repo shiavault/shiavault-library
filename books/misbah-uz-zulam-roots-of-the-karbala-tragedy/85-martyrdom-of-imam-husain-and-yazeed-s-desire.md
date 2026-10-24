@@ -47,4 +47,3 @@ affair of Saqifah has misguided people in a thousand ways.
 
 [^1]: Ref. Tarikh Tabari, Pg. 176
 
-

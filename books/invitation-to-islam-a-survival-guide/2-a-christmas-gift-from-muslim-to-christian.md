@@ -340,4 +340,3 @@ them in practice. I hope that these cogitations might provide gifts of
 bounties that Muslims may present to their Christian neighbours not only
 on Christmas but throughout the year.
 
-

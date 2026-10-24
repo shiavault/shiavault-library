@@ -135,7 +135,7 @@ rewards of the Hereafter for us. We are divided into two groups: A group
 that accepted sacrifice and another group that is a life of
 homelessness. The living people doubt regarding those who have died and
 had reached an elevated status and are not pleased with the life given
-to them. <sup>[That\\ is\\ the\\ life\\ of\\ homelessness]</sup>.
+to them. [That\\ is\\ the\\ life\\ of\\ homelessness].
 
 Amirul Mo-mineen (a.s), the chief of religion said: “Calamities reach
 our Shias more swiftly than water reaches a low-lying land.” The
@@ -165,10 +165,10 @@ father was usurped on the day of Saqifah and Amirul Momineen (a.s) was
 deprived of caliphate. Imam Hasan (a.s) was secretly administered poison
 and his brother was slain openly. Zaid Ibne Ali was crucified on a tree
 in Kanasa and he was beheaded in the battle
-<sup>[though\\ it\\ is\\ said\\ that\\ he\\ was\\ beheaded\\ after\\ the\\ battle]</sup>.
+[though\\ it\\ is\\ said\\ that\\ he\\ was\\ beheaded\\ after\\ the\\ battle].
 His sons, Muhammad and Ibrahim were murdered by Isa bin Musa, the
 Abbaside. Imam Musa bin Ja'far (a.s) passed away
-<sup>[was\\ martyred]</sup> in the prison of Haroon. Imam Reza (a.s) was
+[was\\ martyred] in the prison of Haroon. Imam Reza (a.s) was
 poisoned at the behest of Mamun. Idris fled from the battles of Fakh and
 led a solitary life in Andulasia. Isa bin Zaid died while he had been
 expelled and had fled. Yahya bin Abdullah was killed inspite of having
@@ -618,7 +618,7 @@ beginning but later he became strong. In the same way Islam was
 initially backward but afterwards it achieved honor and precedence:
 
 **“Do men think that they will be left alone on saying, we believe, and
-not be tried ?”<sup>[1]</sup>**
+not be tried ?”[1]**
 
 And if the severity upon the believers and their paucity had not been
 there and if the power of the disbelievers and their great numbers had
@@ -916,7 +916,7 @@ comfort between the people and it is he only who would destroy all types
 of oppressions and defeat the oppressors. Therefore they considered it
 necessary upon themselves to employ strict surveillance on his
 grandfather and father and after the passing away of Imam Hasan Askari
-(a.s) <sup>[(Actually\\ it\\ was\\ after\\ Imam\\ Hadi\\ (a.s)]</sup>
+(a.s) [(Actually\\ it\\ was\\ after\\ Imam\\ Hadi\\ (a.s)]
 they laid siege to his house and arrested some ladies from the Imam's
 household suspected of being pregnant and kept them in custody as we
 have already described in detail in the foregone pages. This is one of
@@ -928,12 +928,12 @@ cause is mentioned by the Imam that:
 reappearance.”
 
 Zurarah immediately asked, “What fora” Imam replied, “For fear of being
-murdered.”<sup>[1]</sup>
+murdered.”[1]
 
 Shaykh Tusi says: The cause of the obstacle in the reappearance of Imam
 Mahdi (a.s) is nothing but the fear of being killed. Because if there
 had been any other reason, his remaining in occultation would not have
-been justified.<sup>[2]</sup>
+been justified.[2]
 
 Doubt of Khanizi
 ----------------
@@ -942,7 +942,7 @@ Abul Hasan Khanizi has objected to the belief that the non-reappearance
 of Imam Mahdi (a.s) is due to the fear to his life. He says that such a
 surmise is baseless and wrong and that it is a sort of allegation to say
 that Imam Mahdi (a.s) is not reappearing due to the fear of
-enemies.<sup>[3]</sup>
+enemies.[3]
 
 The objection of Khanizi is incorrect, because if the Abbaside rulers
 had managed to get hold of His Eminence, they would definitely have put
@@ -970,7 +970,7 @@ Messenger of Allah (a.s) that he said:
 
 "By Allah! He would go into occultation and none shall get salvation
 except those who have faith in the heart and whom Allah
-helps."<sup>[1]</sup>
+helps."[1]
 
 Although the divine practice is appointed that people should be
 subjected to tests and trials so that those who perform better deeds may
@@ -1007,20 +1007,20 @@ point stated by the Messenger of Allah (a.s) when he said:
 
 "The example of the occultation of the Qaim is like that of the Hour
 (Qiyamat), that only the Almighty Allah is cognizant of it and that it
-will not come towards you but all of a sudden."<sup>[1]</sup>
+will not come towards you but all of a sudden."[1]
 
 It is narrated from His Eminence, Imam Mahdi (a.s) that he said:
 
 "Do not put yourself into difficulty and do not ask about matters that
 have no material or spiritual benefit. And do not ask but pray more for
 the reappearance as in it lies your success; and peace be to those who
-follow the guidance."<sup>[2]</sup>
+follow the guidance."[2]
 
 Shaykh Miqdad Siyuri says:
 
 "The wisdom of the occultation of His Eminence, Imam Mahdi (a.s) is
 restricted only to Allah and its knowledge is only with Almighty
-Allah."<sup>[3]</sup>
+Allah."[3]
 
 4. Not paying allegiance to the oppressors by the Imam of the time (a.s)
 ------------------------------------------------------------------------
@@ -1052,7 +1052,7 @@ to have the allegiance of others upon his neck."
 His Eminence, the Master of the Age (a.s) has announced that each of his
 predecessors had the allegiance of the tyrants on his neck but when he
 reappears he shall not have the allegiance of any tyrant on his
-neck.<sup>[1]</sup>
+neck.[1]
 
 The above were some of the important causes of the occultation of His
 Eminence, which we have explained. And the fact is that the Almighty

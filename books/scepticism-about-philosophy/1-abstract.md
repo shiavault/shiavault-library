@@ -10,4 +10,3 @@ method of discovering true answers to philosophical questions.  More
 likely than not, pursuing philosophy leads to false belief.  Many
 attempts to rebut this sceptical argument fail.
 
-

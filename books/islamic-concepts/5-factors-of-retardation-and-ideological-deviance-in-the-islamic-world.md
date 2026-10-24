@@ -241,7 +241,6 @@ their tendencies, to such a degree, that some of them are rushing to
 learn under these evil thoughts and, then, quote them with strong
 satisfaction and emphatic certitude.
 
-
 **The Problems in Contemporary Islamic Thought**
 
 Previously, we talked about the enemy strategies that strive to destroy
@@ -348,7 +347,6 @@ Of course, the responsibility, in this respect, will mainly fall upon
 the shoulders of the Islamic state, and benevolent foundations,
 theological schools, Islamic universities and those who are working to
 propagate Islam and spread its message.
-
 
 **Factors of Vigilance and Stimulation In The Islamic World**
 
@@ -539,7 +537,6 @@ Also, it is a must for us to develop each element of the rebirth of
 Islamic Ideology and support it to ensure its survival for a good many
 years. (Praise be to Allah, the Cherisher and Sustainer of the Worlds)
 
-
 **Endnotes**
 
 1. Narrated by Al-Hakim; who, quoting Mujahid and Ibn-Abbas, proved
@@ -560,5 +557,4 @@ Edition No. 1, p. 38.
 vol. 1, 2nd edition, p. 19.
 10. Al-Mashkinie, "Principles Terms".
 11. Baflof and Sigmund Freud.
-
 

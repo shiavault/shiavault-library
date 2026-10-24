@@ -19,4 +19,3 @@ Kufa.
 
 8. Hakim Ibn Tufail.
 
-

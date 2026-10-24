@@ -67,4 +67,3 @@ translated the Categories, On Interpretation, Prior Analytics and
 Posterior Analytics. Ishâq provided revised translations of the Topics
 and the Rhetoric.
 
-

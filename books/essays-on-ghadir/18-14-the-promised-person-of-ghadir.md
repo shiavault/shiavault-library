@@ -125,11 +125,9 @@ because it gives an introduction of the name, way, and customs oflmam of
 the Age (p.b.u.h.), which impresses minds, and hearths of the readers.
 We hope that this would be a helpful guide to us too.
 
-
 Asghar Fazeli (Iran)
 
 21 Ghaem: Special title of twelfth Imam who is believed to be living
 22 Junior Treasure: is said to be Ali (p.b.u.h.) and his noble family
 23 Senior Treasure: is said to be God's book (Holy Qumran)
-
 

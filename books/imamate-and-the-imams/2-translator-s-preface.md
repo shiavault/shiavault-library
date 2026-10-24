@@ -27,4 +27,3 @@ accept their intercession for us in the Last Day;
 
 [^2]: Surah Al-Shu’ara’, 26:88.
 
-

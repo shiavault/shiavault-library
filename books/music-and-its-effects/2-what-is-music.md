@@ -29,4 +29,3 @@ And it makes no difference whether the thing recited was the Qur’an,
 religious poem or love song.  
   
 
-

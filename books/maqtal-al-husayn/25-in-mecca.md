@@ -198,4 +198,3 @@ his tent, and nobody knew who had killed him.”
 
 [^9]: Thakhirat al-Darayn, p. 224.
 
-

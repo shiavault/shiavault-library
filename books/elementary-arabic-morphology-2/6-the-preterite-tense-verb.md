@@ -47,4 +47,3 @@ second root letter are *fathahs*. For example **أکرَمَ** (he honored).
 *fathah*, *dummah* or *kasrah*. For example: **ضَرَبَ** (he hit)
 **کَرُمَ** (he honored) and **عَلِمَ** (he knew)
 
-

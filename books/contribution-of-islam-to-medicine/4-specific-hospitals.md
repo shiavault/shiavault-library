@@ -133,4 +133,3 @@ population. The hospital represented the beauty of the Arabic
 architecture in Spain and served the people until the fall of Granada in
 1492 A.D.
 
-

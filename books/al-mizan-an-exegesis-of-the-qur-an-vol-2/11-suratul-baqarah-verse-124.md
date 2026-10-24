@@ -1,13 +1,9 @@
 Suratul Baqarah: Verse 124
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-)١٢٤ ( وَإِذِ ٱبتَلَىٰٓ إِبرَٲهِـمَ رَبُّهُ ۥ بِكَلِمَـٰتٍ۬
-فَأَتَمَّهُنَّ‌ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَاما‌ۖ قَالَ
-وَمِن ذُرِّيَّتِى‌ۖ قَالَ لَا يَنَالُ عَهدِى ٱلظَّـٰلِمِينَ
-  </p>
-</blockquote>
+> )١٢٤ ( وَإِذِ ٱبتَلَىٰٓ إِبرَٲهِـمَ رَبُّهُ ۥ بِكَلِمَـٰتٍ۬
+> فَأَتَمَّهُنَّ‌ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَاما‌ۖ قَالَ
+> وَمِن ذُرِّيَّتِى‌ۖ قَالَ لَا يَنَالُ عَهدِى ٱلظَّـٰلِمِينَ
 
 ***And (remember) when his Lord tried Ibrahim with certain words, then
 he fulfilled them: He said: “Surely I am going to make you an Imam for
@@ -909,5 +905,4 @@ albeit a just one - to reach the status of the Imamah. The present
 sentences does not leave room for any such misunderstanding; it clearly
 shows that getting the imamah is not within human jurisdiction, it is
 exclusively in the hand of Allah and He gives to whom He pleases. (tr.)
-
 

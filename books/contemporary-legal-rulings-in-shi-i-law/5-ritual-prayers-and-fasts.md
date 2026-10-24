@@ -368,4 +368,3 @@ then the last region of the city is to be counted as the beginning for
 distance measurement with respect to him. God knows best. (MMS, p. 32,
 Q64)
 
-

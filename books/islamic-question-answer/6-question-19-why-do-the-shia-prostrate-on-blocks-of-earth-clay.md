@@ -33,7 +33,6 @@ In addition, the Holy Quran states:
 "And whosoever is in the heavens and the earth make obeisance to Allah
 only.."
 
-
 The holy Prophet also said:
 
 "The earth was made to be a prostrating place for me and a cause
@@ -152,7 +151,6 @@ heat."
 
 Then the narrator continues:
 
-
 "If prostration on our clothes was permissible, then it would have been
 easier than taking the stones and cooling them down for prostration."
 Ibn Sa'ad (died 209) in his book, 'Al-Tabaqat Al-Kubra' writes the
@@ -183,7 +181,6 @@ from the mountain of Marwa so that I can prostrate on it." Yet on the
 other hand, the Islamic Narrators have mentioned narrations of the holy
 prophet preventing the ones who had the side of their turbans between
 the forehead and the ground.
-
 
 Saleh Al-Sabayee said: "The messenger of God (p) saw a man in the
 mosque prostrating while his forehead was covered with his turban, upon
@@ -284,5 +281,4 @@ Narration 1.
 
 Al-Fiqh Ala Al-Mazaheb AL-Arabah, vol. 1, p. 161, printed in Egypt,
 Kitab Al-Salat, subject of Al-Sujood.
-
 

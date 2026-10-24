@@ -836,4 +836,3 @@ Guillaume, p.504.
 
 [^7]: See al‑Waqidi; vol. 2, p. 364.
 
-

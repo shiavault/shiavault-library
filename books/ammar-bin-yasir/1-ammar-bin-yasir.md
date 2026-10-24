@@ -703,4 +703,3 @@ of that great companion, who spent all his life in striving for Islam.
 When Ammar became a martyr, the Muslims knew the right front during that
 bitter war
 
-

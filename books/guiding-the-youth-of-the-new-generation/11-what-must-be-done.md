@@ -38,4 +38,3 @@ them!  Generally speaking of course, it is possible that one generation
 may consider the previous generation as being righteous people but it is
 also possible that they may consider them as being misguided.
 
-

@@ -7,11 +7,7 @@ Orphans
 amongst you.
 
 > 1ـ بَـرُّوا أيْتامَكُمْ، وواسَوْا فُقَرائَـكُمْ، وارْفُقُوا
-<blockquote dir="rtl">
-  <p>
-بِضُعَفائِكُمْ.
-  </p>
-</blockquote>
+> بِضُعَفائِكُمْ.
 
 2. Whoever oppresses an orphan has severed his ties with his children.
 
@@ -30,5 +26,4 @@ considered [to be] among the honourable ones in the sight of Allah.
 sight of Allah.
 
 > 5ـ كافِلُ اليَتيمِ اَثيْرٌ عِنْدَ اللّهِ.
-
 

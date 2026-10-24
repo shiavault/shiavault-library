@@ -38,4 +38,3 @@ which sits on honey. Because, a fly sitting on sugar leaves it the
 moment it wants; but a fly which sits on honey becomes imprisoned in it,
 unable to leave it and dies miserably”.
 
-

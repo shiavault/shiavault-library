@@ -130,4 +130,3 @@ philosophers in one way or the other in the development of their own
 philosophical systems. See Uthulujiya Aristatalis and al-Aflatuniyat
 al-Muhathah. Search Google.
 
-

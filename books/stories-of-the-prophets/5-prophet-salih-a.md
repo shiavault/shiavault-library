@@ -138,4 +138,3 @@ If they had listened to Salih
 they would have been saved.
 ![](/sites/default/files/part3c.gif)
 
-

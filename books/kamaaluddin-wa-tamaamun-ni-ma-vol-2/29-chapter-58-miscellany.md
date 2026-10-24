@@ -9,23 +9,15 @@ Daqqaq from Muhammad bin Sinan from Mufaddal bin Umar that he said:
 As-Sadiq Ja’far bin Muhammad (a.s.) was asked regarding the words of
 Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَصْرِ إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ 
-  </p>
-</blockquote>
+> وَالْعَصْرِ إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ
 
 ***I swear by the time, Most surely man is in loss.***[^1]
 
 He replied: The time is the time of the reappearance of the Qaim (a.s.).
 ‘Most surely man is in loss’ means our enemies.
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
-بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
+> بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
 
 ***Except those who believe and do good, and enjoin on each other truth,
 and enjoin on each other patience.***[^2]
@@ -195,12 +187,8 @@ the Almighty Allah that the people cannot be left without a messenger
 who warns them as long as divine duties are incumbent on them. Thus
 continuous messengers came for them as the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَىٰ ۖ كُلَّ مَا جَاءَ أُمَّةً
-رَسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُمْ بَعْضًا
-  </p>
-</blockquote>
+> ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَىٰ ۖ كُلَّ مَا جَاءَ أُمَّةً
+> رَسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُمْ بَعْضًا
 
 ***Then We sent Our apostles one after another; whenever there came to a
 people their apostle, they called him a liar, so We made some of them
@@ -208,11 +196,7 @@ follow others…***[^3]
 
 Allah, the Mighty and Sublime has also said:
 
-<blockquote dir="rtl">
-  <p>
-لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ
-  </p>
-</blockquote>
+> لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ
 
 ***So that people should not have a plea against Allah after the (coming
 of) apostles.***[^4]
@@ -220,12 +204,8 @@ of) apostles.***[^4]
 Because the proof is exhausted on the people only when Allah sends the
 messengers as the Almighty Allah has mentioned:
 
-<blockquote dir="rtl">
-  <p>
- لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ مِنْ
-قَبْلِ أَنْ نَذِلَّ وَنَخْزَىٰ
-  </p>
-</blockquote>
+>  لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ مِنْ
+> قَبْلِ أَنْ نَذِلَّ وَنَخْزَىٰ
 
 ***Why didst Thou not send to us an apostle, for then we should have
 followed Thy communications before that we met disgrace and
@@ -234,12 +214,8 @@ shame.***[^5]
 Thus Allah sent the messengers to exhaust the proof on the people as the
 Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ قَدْ جَاءَكُمْ رُسُلٌ مِنْ قَبْلِي بِالْبَيِّنَاتِ وَبِالَّذِي
-قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِنْ كُنْتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> قُلْ قَدْ جَاءَكُمْ رُسُلٌ مِنْ قَبْلِي بِالْبَيِّنَاتِ وَبِالَّذِي
+> قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِنْ كُنْتُمْ صَادِقِينَ
 
 ***Say: Indeed, there came to you apostles before me with clear
 arguments and with that which you demand; why then did you kill them if
@@ -259,11 +235,7 @@ messengership, through which the divine proof can be established, by
 which our ills can be removed. The Almighty Allah said to His Prophet in
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every people.***[^7]
 
@@ -285,12 +257,8 @@ stories and all this knowledge is from Allah. That is why he does not
 use his personal opinion or analogy (Qiyas) because the Almighty Allah
 has said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىٰ أُولِي الْأَمْرِ مِنْهُمْ
-لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ
-  </p>
-</blockquote>
+> وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىٰ أُولِي الْأَمْرِ مِنْهُمْ
+> لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ
 
 ***And if they had referred it to the Apostle and to those in authority
 among them, those among them who can search out the knowledge of it
@@ -361,11 +329,7 @@ Now the apostates and opponents argue that since all the knowledge is
 present in the Quran why do we need a guide? As the Almighty Allah has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ
-  </p>
-</blockquote>
+> مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ
 
 ***We have not neglected anything in the Book.***[^9]
 
@@ -374,12 +338,8 @@ in which there are clear orders, but in some instances there are
 contradictions also while contradiction is not possible in the
 statements of Allah. As the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا
-كَثِيرًا 
-  </p>
-</blockquote>
+> وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا
+> كَثِيرًا
 
 ***And if it were from any other than Allah, they would have found in it
 many a discrepancy.***[^10]
@@ -405,13 +365,9 @@ till the arrival of the next prophet they must obey that successor so
 that the proof remains established on them and the successors used to
 judge on the basis of the book of Allah as mentioned in Quran:
 
-<blockquote dir="rtl">
-  <p>
-يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا
-وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ
-اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ
-  </p>
-</blockquote>
+> يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا
+> وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ
+> اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ
 
 ***With it the prophets who submitted themselves (to Allah) judged
 (matters) for those who were Jews, and the masters of Divine knowledge
@@ -430,11 +386,7 @@ purpose of sending the Messenger of Allah (S) would have failed and the
 responsibility would have ended on us. The Almighty Allah mentioned this
 to His Prophet in the following way:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every
 people.***[^12]
@@ -491,11 +443,7 @@ Thus Fatara means secret, hidden and restriction of open propagation and
 not the complete absence of a person. As the Almighty Allah has said
 with regard to the angels:
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
-  </p>
-</blockquote>
+> يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
 
 ***They glorify (Him) by night and day; they are never languid.***[^13]
 
@@ -506,24 +454,16 @@ And the one who sleeps does not glorify Allah as he stops glorifying
 when he is asleep. Now sleep is just like death as the Almighty Allah
 has said:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
-فِي مَنَامِهَا
-  </p>
-</blockquote>
+> اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
+> فِي مَنَامِهَا
 
 ***Allah takes the souls at the time of their death, and those that die
 not during their sleep.***[^14]
 
 The Almighty Allah has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يَتَوَفَّاكُمْ بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ
-بِالنَّهَارِ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يَتَوَفَّاكُمْ بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ
+> بِالنَّهَارِ
 
 ***And He it is Who takes your souls at night (in sleep), and He knows
 what you acquire in the day.***[^15]
@@ -540,11 +480,7 @@ associates said to me:
 “Do the angels sleep?” I said, “I don’t know.” So he said, “Allah, the
 Mighty and Sublime has said:
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
-  </p>
-</blockquote>
+> يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
 
 ***They glorify (Him) by night and day; they are never languid.***[^16]
 
@@ -555,11 +491,7 @@ Mighty and Sublime and the angels.”
 
 I said, “The Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
-  </p>
-</blockquote>
+> يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
 
 ***They glorify (Him) by night and day; they are never languid.***[^17]
 
@@ -570,23 +502,15 @@ such-and-such need. Here it denotes giving up ones need not ones
 complete absence. Some people present two verses of Quran by way of
 argument. The first is:
 
-<blockquote dir="rtl">
-  <p>
- لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ
-  </p>
-</blockquote>
+>  لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ
 
 ***That you may warn a people to whom no warner has come before
 you.***[^18]
 
 And the other verse is:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَيْنَاهُمْ مِنْ كُتُبٍ يَدْرُسُونَهَا وَمَا أَرْسَلْنَا
-إِلَيْهِمْ قَبْلَكَ مِنْ نَذِيرٍ
-  </p>
-</blockquote>
+> وَمَا آتَيْنَاهُمْ مِنْ كُتُبٍ يَدْرُسُونَهَا وَمَا أَرْسَلْنَا
+> إِلَيْهِمْ قَبْلَكَ مِنْ نَذِيرٍ
 
 ***And We have not given them any books which they read, nor did We send
 to them before you a warner.***[^19]
@@ -598,11 +522,7 @@ warner and warners are only messengers and the word of warner is not
 used for prophets and successors. As the Almighty Allah says to the Holy
 Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every
 people.***[^20]
@@ -628,11 +548,7 @@ Hariz bin Abdullah from Muhammad bin Muslim that he said:
 I asked Abi Abdullah (a.s.) regarding the saying of Allah, the Mighty
 and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every
 people.***[^21]
@@ -645,11 +561,7 @@ Umar bin Uzainah from Buraid bin Muawiyah Ijli that he said:
 
 “I asked Abi Ja’far (a.s.) regarding the meaning of:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ
 
 ***You are only a warner and (there is) a guide for every
 people.***[^22]
@@ -662,11 +574,7 @@ Messenger of Allah (S).’”
 A large number of traditions like this have been recorded and the words
 of Allah when He said to His Prophet:
 
-<blockquote dir="rtl">
-  <p>
- لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ
-  </p>
-</blockquote>
+>  لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ
 
 ***That you may warn a people to whom no warner has come before
 you.***[^23]
@@ -676,13 +584,9 @@ changes in the Shariat or community. Neither negation was done to the
 guidance of their successors; and how can the Almighty Allah negate this
 when He says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَهُمْ نَذِيرٌ
-لَيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى الْأُمَمِ ۖ فَلَمَّا جَاءَهُمْ
-نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا
-  </p>
-</blockquote>
+> وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَهُمْ نَذِيرٌ
+> لَيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى الْأُمَمِ ۖ فَلَمَّا جَاءَهُمْ
+> نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا
 
 ***And they swore by Allah with the strongest of their oaths that if
 there came to them a warner they would be better guided than any of the
@@ -708,12 +612,8 @@ Muthanna from Sama-a et al from Abi Abdullah (a.s.) that he said:
 
 The following verse is revealed about the Qaim:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلُ فَطَالَ
-عَلَيْهِمُ الْأَمَدُ فَقَسَتْ قُلُوبُهُمْ
-  </p>
-</blockquote>
+> وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلُ فَطَالَ
+> عَلَيْهِمُ الْأَمَدُ فَقَسَتْ قُلُوبُهُمْ
 
 ***And (that) they should not be like those who were given the Book
 before, but the time became prolonged to them, so their hearts hardened,
@@ -724,11 +624,7 @@ from Hasan bin Mahboob from Momin Taq from Salam bin Mustanir from Abi
 Ja’far (a.s.) that he said regarding the words of Allah, the Mighty and
 Sublime:
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمُوا أَنَّ اللَّهَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا
-  </p>
-</blockquote>
+> اعْلَمُوا أَنَّ اللَّهَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا
 
 ***Know that Allah gives life to the earth after its death.***[^26]
 
@@ -798,12 +694,8 @@ from Muhammad bin Abi Umair from Ali bin Abi Hamza from Abi Baseer that
 he said: Abi Abdullah (a.s.) said regarding the words of Allah, the
 Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***He it is Who sent His Apostle with guidance and the religion of
 truth, that He might cause it to prevail over all religions, though the
@@ -840,11 +732,7 @@ come down in the form of a white bird and give him oath of allegiance.
 Then keeping one foot on the Holy Kaaba and another on the Holy Qods
 issue such a loud call that when the creatures hear it they would cry:
 
-<blockquote dir="rtl">
-  <p>
-أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ
-  </p>
-</blockquote>
+> أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ
 
 ***“Allah’s commandment has come, therefore do not desire to hasten
 it.”***[^28]
@@ -923,11 +811,7 @@ said: Abi Abdullah (a.s.) said:
 
 The following verse was revealed about the companions of the Qaim:
 
-<blockquote dir="rtl">
-  <p>
- أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا
-  </p>
-</blockquote>
+>  أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا
 
 ***Wherever you are, Allah will bring you all together.***[^29]
 
@@ -972,11 +856,7 @@ Abi Abdullah (a.s.) said:
 
 “When Prophet Lut (a.s.) told his people:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ
-  </p>
-</blockquote>
+> قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ
 
 ***“He said: Ah! that I had power to suppress you, rather I shall have
 recourse to a strong support.”***[^30]
@@ -1018,11 +898,7 @@ And it was tied to his arm till those circumstances befell him. Thus
 when Yusuf removed it from the arm band in Egypt, Yaqoob perceived its
 fragrance and it is about the same that Allah quotes him saying:
 
-<blockquote dir="rtl">
-  <p>
-لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ
-  </p>
-</blockquote>
+> لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ
 
 ***“Most surely I perceive the fragrance of Yusuf, unless you pronounce
 me to be weak in judgment.”***[^31]
@@ -1078,23 +954,15 @@ He completely clarified in it what is lawful and what is unlawful, the
 restrictions (hudud) and the commands, and all that people need. He to
 whom belong Might and Majesty said:
 
-<blockquote dir="rtl">
-  <p>
-مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ
-  </p>
-</blockquote>
+> مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ
 
 ***We have neglected nothing in the Book.***[^32]
 
 And he sent down in the Farewell Pilgrimage, which was at the end of his
 life:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
 
 ***Today I have perfected your religion for you, and I have completed My
 blessing upon you, and*** ***I have approved Islam for your
@@ -1123,31 +991,19 @@ Majesty, has distinguished Ibrahim, the Intimate Friend (al-Khalil),
 after Prophethood and Intimacy, as a third degree, and an eminence with
 which He honored him and by which He raised his renown, and He said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
-  </p>
-</blockquote>
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا
 
 “Behold! I make you an Imam for the people.”
 
 Then the Intimate Friend (a.s.) said out of delight in this:
 
-<blockquote dir="rtl">
-  <p>
-وَمِن ذُرِّيَّتِي
-  </p>
-</blockquote>
+> وَمِن ذُرِّيَّتِي
 
 “And of my seed.”
 
 Allah, the Blessed, the Sublime, said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَنَالُ عَهْدِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> لا يَنَالُ عَهْدِي الظَّالِمِينَ
 
 ***My covenant shall not reach the evil-doers.***[^34]
 
@@ -1157,14 +1013,10 @@ Then Allah, the Sublime, bestowed honors on him, by establishing it in
 his seed, the ones who are selected and purified (by Allah). And He
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً وَكُلًّا جَعَلْنَا
-صَالِحِينَ وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا
-وَأَوْحَيْنَا إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ
-وَإِيتَاءَ الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ 
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً وَكُلًّا جَعَلْنَا
+> صَالِحِينَ وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا
+> وَأَوْحَيْنَا إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ
+> وَإِيتَاءَ الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
 
 ***And We gave him Ishaq and Yaqoob in superabundance, and everyone made
 We righteous*** ***and appointed them to be Imams guiding by Our
@@ -1176,12 +1028,8 @@ from another, generation after generation, till Allah, the Sublime,
 caused the Prophet (S) to inherit it. And He, the Majestic, the Sublime,
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
-النَّبِيُّ وَالَّذِينَ آمَنُواوَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُواوَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ
 
 ***Surely the people standing closet to Ibrahim are those who followed
 him, and this Prophet, and those who believe; and Allah is the Master of
@@ -1194,13 +1042,9 @@ selected seed, those to whom Allah has given knowledge and faith, as in
 the words of He Who is the Sublime: But those who have given knowledge
 and faith shall say,
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَالْإِيمَانَ لَقَدْ لَبِثْتُمْ
-فِي كِتَابِ اللَّهِ إِلَىٰ يَوْمِ الْبَعْثِ فَهَٰذَا يَوْمُ الْبَعْثِ
-وَلَٰكِنَّكُمْ كُنْتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَالْإِيمَانَ لَقَدْ لَبِثْتُمْ
+> فِي كِتَابِ اللَّهِ إِلَىٰ يَوْمِ الْبَعْثِ فَهَٰذَا يَوْمُ الْبَعْثِ
+> وَلَٰكِنَّكُمْ كُنْتُمْ لَا تَعْلَمُونَ
 
 ***And those who are given knowledge and faith will say: Certainly you
 tarried according to the ordinance of Allah till the day of
@@ -1301,24 +1145,16 @@ though they saw clearly.
 Messenger of Allah (S) and his Ahlul Bayt, (and turned) to their own
 choice. And the Quran has called them:
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ مَا كَانَ لَهُمُ
-الْخِيَرَةُ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ مَا كَانَ لَهُمُ
+> الْخِيَرَةُ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ
 
 ***Thy Lord creates whatsoever He will and He chooses; they have not the
 choice. Glory be to Allah! High be He above that they associate.***[^38]
 
 And He to Whom belong Might and Majesty has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
 
 ***It is not for any believer, man or woman, when Allah and His
 Messenger have decreed a matter, to have the choice in the
@@ -1326,15 +1162,11 @@ affair.***[^39]
 
 And He has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ كَيْفَ تَحْكُمُونَ أَمْ لَكُمْ كِتَابٌ فِيهِ
-تَدْرُسُونَ إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ أَمْ لَكُمْ
-أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ
-لَكُمْ لَمَا تَحْكُمُونَ سَلْهُمْ أَيُّهُمْ بِذَٰلِكَ زَعِيمٌ أَمْ
-لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِنْ كَانُوا صَادِقِينَ 
-  </p>
-</blockquote>
+> مَا لَكُمْ كَيْفَ تَحْكُمُونَ أَمْ لَكُمْ كِتَابٌ فِيهِ
+> تَدْرُسُونَ إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ أَمْ لَكُمْ
+> أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ
+> لَكُمْ لَمَا تَحْكُمُونَ سَلْهُمْ أَيُّهُمْ بِذَٰلِكَ زَعِيمٌ أَمْ
+> لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِنْ كَانُوا صَادِقِينَ
 
 ***What ails you then, how you judge? Or have you a Book wherein you
 study? Surely therein you shall have whatever you choose! Or have you
@@ -1345,35 +1177,23 @@ speak*** ***truly.***[^40]
 
 And He to Whom belong Might and Majesty has said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا
-  </p>
-</blockquote>
+> أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا
 
 ***What, do they not ponder the Quran? Or is it that there are locks
 upon their hearts?***[^41]
 
-<blockquote dir="rtl">
-  <p>
-رَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمْ
-فَهُمْ لَا يَفْقَهُونَ 
-  </p>
-</blockquote>
+> رَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمْ
+> فَهُمْ لَا يَفْقَهُونَ
 
 ***Or has Allah set a seal upon their hearts, so they understand
 not.***[^42]
 
 A seal has been set upon their hearts, or they say:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا
-يَسْمَعُونَ إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ
-الَّذِينَ لَا يَعْقِلُونَ وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا
-لَأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا
+> يَسْمَعُونَ إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ
+> الَّذِينَ لَا يَعْقِلُونَ وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا
+> لَأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ
 
 ***“We hear,” and they hear not. Surely the worst of beasts in Allah’s
 sight are those that are deaf and dumb and do not understand. If Allah
@@ -1382,11 +1202,7 @@ had made them hear, they would have turned away, swerving aside.***[^43]
 
 Or they said:
 
-<blockquote dir="rtl">
-  <p>
- سَمِعْنَا وَعَصَيْنَا
-  </p>
-</blockquote>
+>  سَمِعْنَا وَعَصَيْنَا
 
 ***We have heard and we disobey.***[^44]
 
@@ -1418,12 +1234,8 @@ wisdom, which He does not give to anyone else. Thus their knowledge is
 far above the knowledge of the people of their time, as He, the Sublime,
 says:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لَا
-يَهِدِّي إِلَّا أَنْ يُهْدَىٰ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لَا
+> يَهِدِّي إِلَّا أَنْ يُهْدَىٰ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
 ***He who guides to the truth, is he worthier to be followed, or he who
 guides not unless he is guided? What then ails you, how you
@@ -1431,12 +1243,8 @@ judge?***[^45]
 
 And as He the Blessed, the Sublime, says:
 
-<blockquote dir="rtl">
-  <p>
-يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ
-أُوتِيَ خَيْرًا كَثِيرًا وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ 
-  </p>
-</blockquote>
+> يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ
+> أُوتِيَ خَيْرًا كَثِيرًا وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ
 
 ***He grants wisdom to whom He pleases, and whoever is granted wisdom,
 he indeed is given a great good and none but men of understanding
@@ -1444,16 +1252,12 @@ mind.*** [^46]
 
 Also what he says about Talut (Saul):
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ
-مَلِكًا قَالُوا أَنَّىٰ يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ
-أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِنَ الْمَالِ قَالَ
-إِنَّ اللَّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ
-وَالْجِسْمِ وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ
-عَلِيمٌٌ
-  </p>
-</blockquote>
+> وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ
+> مَلِكًا قَالُوا أَنَّىٰ يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ
+> أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِنَ الْمَالِ قَالَ
+> إِنَّ اللَّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ
+> وَالْجِسْمِ وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ
+> عَلِيمٌٌ
 
 ***Verily Allah has chosen him over you, and has increased him broadly
 in knowledge and body. Allah gives the kingship to whom He will. And
@@ -1461,25 +1265,17 @@ Allah is All-embracing, All-knowing.***[^47]
 
 And He said to His Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا
-  </p>
-</blockquote>
+> وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا
 
 ***Allah’s bounty to thee is very great.***[^48]
 
 And He says about the Imams from the Ahlul Bayt of His Prophet, his
 progeny and his seed, may Allah bless them:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ
-مَنْ صَدَّ عَنْهُ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا
-  </p>
-</blockquote>
+> أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ
+> مَنْ صَدَّ عَنْهُ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا
 
 ***Or are they jealous of the people for the bounty that Allah has given
 them? Yet We gave the progeny of Ibrahim the Book and the Wisdom, and We
@@ -1497,12 +1293,8 @@ being) firmly guided; he will be safe from errors, slips and stumblings.
 Allah distinguishes him by this, because he is His Proof over his
 slaves, and His witness over His creatures –
 
-<blockquote dir="rtl">
-  <p>
-ذَلِك َفَضْلُ اللَّه ِيُؤْتِيهِمَنيَشَء ءوَاللَّهُذُ والْفَضْل
-ِالْعَظِيمِ
-  </p>
-</blockquote>
+> ذَلِك َفَضْلُ اللَّه ِيُؤْتِيهِمَنيَشَء ءوَاللَّهُذُ والْفَضْل
+> ِالْعَظِيمِ
 
 ***That is the bounty of Allah, He gives it to whom He will, and Allah
 is of bounty abounding.***[^50]
@@ -1517,12 +1309,8 @@ their own desires. Therefore, Allah has found fault with them, detested
 them and cast them down, as He, to Whom belong Mighty and Sublimity, has
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ
-إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ
+> إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 ***And who is further astray them he who follows his own caprice without
 guidance from Allah? Surely Allah guides not the people of the
@@ -1530,23 +1318,15 @@ evil-doers.***[^51]
 
 And He has said:
 
-<blockquote dir="rtl">
-  <p>
-فَتَعْسًا لَهُمْ وَأَضَلَّ أَعْمَالَهُمْ
-  </p>
-</blockquote>
+> فَتَعْسًا لَهُمْ وَأَضَلَّ أَعْمَالَهُمْ
 
 ***Ill chance shall befall them, He will send their works
 astray.***[^52]
 
 And He has said:
 
-<blockquote dir="rtl">
-  <p>
-كَبُرَ مَقْتًا عِنْدَ اللَّهِ وَعِنْدَ الَّذِينَ آمَنُوا كَذَٰلِكَ
-يَطْبَعُ اللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ
-  </p>
-</blockquote>
+> كَبُرَ مَقْتًا عِنْدَ اللَّهِ وَعِنْدَ الَّذِينَ آمَنُوا كَذَٰلِكَ
+> يَطْبَعُ اللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ
 
 ***Verily, hateful is that in the sight of Allah and the believers; so
 Allah sets a seal on every heart proud, arrogant.***[^53]
@@ -1659,5 +1439,4 @@ peace upon them with much bestowing.’”
 [^52]: Surah Muhammad 47:8
 
 [^53]: Surah Momin 40:35
-
 

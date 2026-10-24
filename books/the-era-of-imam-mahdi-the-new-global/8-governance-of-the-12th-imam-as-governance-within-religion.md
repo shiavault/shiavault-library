@@ -155,7 +155,6 @@ inspiring Islamic belief. Its culmination is perfection. The results of
 the Imam's (AS) leadership is that mankind will attain benefit for
 themselves like never seen before under any other government.
 
-
 By: Fatima Kanji-Chagpar
 
 **Bibliography**
@@ -189,5 +188,4 @@ Wikipedia: http://en.wikipedia.org/wiki/Democracy (Accessed June,
 
 Wikipedia: http://en.wikipedia.org/wiki/Dictatorship (Accessed June,
 2008)
-
 

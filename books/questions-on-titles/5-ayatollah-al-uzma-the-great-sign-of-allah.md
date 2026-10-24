@@ -3,7 +3,6 @@ Ayatollah Al Uzma (the Great Sign of Allah)
 
 Does this not remind you of Me'raj?
 
-
 َ the greatest signs of his Lord.
 
 [Shakir 53:17-18] The eye did not turn aside, nor did it exceed the
@@ -31,7 +30,6 @@ playing of Chess to be permissible when it has been clearly forbidden?
 When two of these 'great sign of Allah' oppose each other, does it mean
 that they are both signs of different Allahs? But there is only one
 Allah (s.w.t.).
-
 
 **Faqih (Man Of Understanding)**
 
@@ -147,5 +145,4 @@ If the only Fuqaha being recognised by the Holy Imams (a.s.) are the
 Muhaddith, the narrators of Hadeeth, then how come we are unaware of any
 of them these days? If the Fuqaha of the end times are the most evil
 people then what does that make their followers?
-
 

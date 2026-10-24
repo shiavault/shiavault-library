@@ -303,4 +303,3 @@ If a man died in the state of Janabat, he should be given Ghusle Janabat
 (Janabat bath) before or after Ghusle Mayyat (i.e. dead body), and it is
 sunnat.
 
-

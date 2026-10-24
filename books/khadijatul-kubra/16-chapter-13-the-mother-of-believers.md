@@ -116,4 +116,3 @@ The Prophet of Islam has thus made the winning of the pleasure of one's
 mother - a woman - a condition-precedent for one to win salvation and to
 enter paradise.
 
-

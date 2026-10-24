@@ -117,4 +117,3 @@ snatching the kingdom away from the Bani Umayyah. Then go to your
 commanders and desire abundant rewards, for even if they hand over all
 of their wealth in lieu of the murder of Husayn, it is quite less”.
 
-

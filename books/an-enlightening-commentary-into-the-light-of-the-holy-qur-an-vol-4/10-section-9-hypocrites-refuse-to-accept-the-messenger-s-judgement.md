@@ -7,14 +7,10 @@ accepted-Reward for the obedience to Allah and the Messenger.
 Surah An-Nisa', Verse 60
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُواْ بِمَا
-أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن
-يَتَحَاكَمُواْ إِلَى الطَّاغُوتِ وَقَدْ أُمِرُواْ أَن يَكْفُرُواْ بِهِ
-وَيُرِيدُ الشَّيْطَانُ أَن يُضِلَّهُمْ ضَلاَلاً بَعِيدًا
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُواْ بِمَا
+> أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن
+> يَتَحَاكَمُواْ إِلَى الطَّاغُوتِ وَقَدْ أُمِرُواْ أَن يَكْفُرُواْ بِهِ
+> وَيُرِيدُ الشَّيْطَانُ أَن يُضِلَّهُمْ ضَلاَلاً بَعِيدًا
 
 **60.** ***"Have you not seen those who think they believe in what has
 been revealed to you and what was revealed before you? They intend to
@@ -68,12 +64,8 @@ the wife and another one from the family of the husband should judge.
 Surah An-Nisa', Verse 61
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ تَعَالَوْاْ إِلَى مَا أَنزَلَ اللّهُ وَإِلَى
-الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنكَ صُدُودًا
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ تَعَالَوْاْ إِلَى مَا أَنزَلَ اللّهُ وَإِلَى
+> الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنكَ صُدُودًا
 
 **61.** ***"And when it is said to them: 'Come to what Allah has
 revealed and to the Messenger,' you will see the hypocrites barring
@@ -115,13 +107,9 @@ signs of Allah."*** [^2]
 Surah An-Nisa', Verse 62
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ
-ثُمَّ جَآؤُوكَ يَحْلِفُونَ بِاللّهِ إِنْ أَرَدْنَا إِلاَّ إِحْسَانًا
-وَتَوْفِيقًا
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ
+> ثُمَّ جَآؤُوكَ يَحْلِفُونَ بِاللّهِ إِنْ أَرَدْنَا إِلاَّ إِحْسَانًا
+> وَتَوْفِيقًا
 
 **62.** ***"But how will it be, when some disaster befalls them on
 account of what their (own) hands have forwarded, then they come to you
@@ -165,12 +153,8 @@ exchanging agreements.
 Surah An-Nisa', Verse 63
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُولَـئِكَ الَّذِينَ يَعْلَمُ اللّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ
-عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلاً بَلِيغًا
-  </p>
-</blockquote>
+> أُولَـئِكَ الَّذِينَ يَعْلَمُ اللّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ
+> عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلاً بَلِيغًا
 
 **63.** ***"Those are they of whom Allah knows what is in their hearts,
 therefore turn away from them, and admonish them and speak to them
@@ -191,13 +175,9 @@ them ..."***
 Surah An-Nisa', Verse 64
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلاَّ لِيُطَاعَ بِإِذْنِ اللّهِ وَلَوْ
-أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَآؤُوكَ فَاسْتَغْفَرُواْ اللّهَ
-وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ اللّهَ تَوَّابًا رَّحِيمًا
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلاَّ لِيُطَاعَ بِإِذْنِ اللّهِ وَلَوْ
+> أَنَّهُمْ إِذ ظَّلَمُواْ أَنفُسَهُمْ جَآؤُوكَ فَاسْتَغْفَرُواْ اللّهَ
+> وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُواْ اللّهَ تَوَّابًا رَّحِيمًا
 
 **64.** ***"And We did not send any Messenger save that he should be
 obeyed, by Allah's leave, and had they, when they were unjust to
@@ -244,13 +224,9 @@ is effective and causes their repentance to be accepted and the grace of
 Surah An-Nisa', Verse 65
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِّمَّا
-قَضَيْتَ وَيُسَلِّمُواْ تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِّمَّا
+> قَضَيْتَ وَيُسَلِّمُواْ تَسْلِيمًا
 
 **65.** ***"But no, by your Lord! They do not believe (in reality) until
 they make you the judge regarding the disagreement between them, then
@@ -307,14 +283,10 @@ to the occasion of revelation).
 Surah An-Nisa', Verse 66
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ اقْتُلُواْ أَنفُسَكُمْ أَوِ
-اخْرُجُواْ مِن دِيَارِكُم مَّا فَعَلُوهُ إِلاَّ قَلِيلٌ مِّنْهُمْ
-وَلَوْ أَنَّهُمْ فَعَلُواْ مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَّهُمْ
-وَأَشَدَّ تَثْبِيتًا
-  </p>
-</blockquote>
+> وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ اقْتُلُواْ أَنفُسَكُمْ أَوِ
+> اخْرُجُواْ مِن دِيَارِكُم مَّا فَعَلُوهُ إِلاَّ قَلِيلٌ مِّنْهُمْ
+> وَلَوْ أَنَّهُمْ فَعَلُواْ مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَّهُمْ
+> وَأَشَدَّ تَثْبِيتًا
 
 **66.** ***"And if We had decreed for them (saying): (Kill yourselves or
 go forth from your dwellings', they would not have done it except a few
@@ -360,17 +332,9 @@ is* a kind of spiritual practice for human beings.
 Surah An-Nisa', Verses 67 - 68
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذاً لَّآتَيْنَاهُم مِّن لَّدُنَّـا أَجْراً عَظِيمًا
-  </p>
-</blockquote>
+> وَإِذاً لَّآتَيْنَاهُم مِّن لَّدُنَّـا أَجْراً عَظِيمًا
 
-<blockquote dir="rtl">
-  <p>
-وَلَهَدَيْنَاهُمْ صِرَاطًا مُّسْتَقِيمًا
-  </p>
-</blockquote>
+> وَلَهَدَيْنَاهُمْ صِرَاطًا مُّسْتَقِيمًا
 
 **67.** ***"And then We would certainly have given them from Our Own
 accord a great reward."***
@@ -399,19 +363,11 @@ particular reward.
 Surah An-Nisa', Verses 69 - 70
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُطِعِ اللّهَ وَالرَّسُولَ فَأُوْلَـئِكَ مَعَ الَّذِينَ أَنْعَمَ
-اللّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاء
-وَالصَّالِحِينَ وَحَسُنَ أُولَـئِكَ رَفِيقًا
-  </p>
-</blockquote>
+> وَمَن يُطِعِ اللّهَ وَالرَّسُولَ فَأُوْلَـئِكَ مَعَ الَّذِينَ أَنْعَمَ
+> اللّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاء
+> وَالصَّالِحِينَ وَحَسُنَ أُولَـئِكَ رَفِيقًا
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ الْفَضْلُ مِنَ اللّهِ وَكَفَى بِاللّهِ عَلِيمًا
-  </p>
-</blockquote>
+> ذَلِكَ الْفَضْلُ مِنَ اللّهِ وَكَفَى بِاللّهِ عَلِيمًا
 
 **69.** ***"And whoever obeys Allah and the Messenger, these are with
 those upon whom Allah has bestowed favours, of the prophets, and the
@@ -512,5 +468,4 @@ are not eligible, because He is aware of even the treachery of the eyes.
 [^1]: Al-Tafsir-ul-Burhan, vol. 1, p. 387
 
 [^2]: Surah Al-'An'am, No.6, Verse 33.
-
 

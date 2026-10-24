@@ -646,4 +646,3 @@ Umayyads.
 Tafsir al-Qurtubi, vol.7 p.31 and al-Mustadrak ala as-Sahihayn, vol.3
 p.180.
 
-

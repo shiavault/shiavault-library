@@ -245,4 +245,3 @@ the Qur’an lives, and has not died; and it is existent just as the day
 and the night and the sun and the moon are existent. And it will exist
 for the last among us as it has existed for the first.”**
 
-

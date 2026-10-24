@@ -334,4 +334,3 @@ distributed before sunrise. And Allah, Most High, has blessed this Ummah
 in its early hours; and give away alms in the early hour; because
 adversities do not follow the alms (Sadaqah)."
 
-

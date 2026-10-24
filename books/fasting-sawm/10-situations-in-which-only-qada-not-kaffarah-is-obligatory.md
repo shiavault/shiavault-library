@@ -191,4 +191,3 @@ year?
 A: It is based on obligatory precaution to pay and the standard be the
 present price.
 
-

@@ -57,4 +57,3 @@ the same justice in society. Because any injustice will be against the
 will of God and against the music of the universe. And this is why the
 belief in the justice of God was always a threat to the ruling powers.
 
-

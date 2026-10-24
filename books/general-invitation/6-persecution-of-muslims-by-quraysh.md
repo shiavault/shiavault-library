@@ -91,4 +91,3 @@ notwithstanding the fact that they had unity of interest in defeating
 Islam got the wounded and grief stricken Ammar released from the
 clutches of Abu Jahl so that he might bury his parents.
 
-

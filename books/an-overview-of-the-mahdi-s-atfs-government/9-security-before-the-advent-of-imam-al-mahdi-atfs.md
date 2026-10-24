@@ -606,4 +606,3 @@ al-‘Ummal, vol. 14, p. 587; Muttaqi Hindi, Burhan, p. 111.
 
 [^56]: Ibn Tawus, Malahim, p. 78.
 
-

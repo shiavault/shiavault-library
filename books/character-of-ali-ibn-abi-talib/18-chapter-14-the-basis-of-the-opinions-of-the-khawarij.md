@@ -24,4 +24,3 @@ According to these opinions, these people started their existence from
 the recognition that all men on earth were infidels, whose blood was of
 no value and who were all condemned to the Fire.
 
-

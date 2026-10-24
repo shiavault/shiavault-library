@@ -24,4 +24,3 @@ that we may be able to gain the proximity and love of the Imam of the
 Time (aj). May the Almighty Allah give us all Taufeeq to act on this
 duty.
 
-

@@ -147,7 +147,6 @@ people towards the truth?
 3. Give an account of what transpired at Mount Saffa.
 4. Why was the divine universal message spread in parts?
 
-
 **Lesson 11 : Rejection All Kinds Of Selfish Motives**
 
 Having discussed the general need and concept of prophethood and looked
@@ -314,5 +313,4 @@ leaders?
 are you responsible today in safeguarding Islam and its rich values?
 What are the challenges you face in school in order to maintain your
 Islamic values?
-
 

@@ -12,4 +12,3 @@ you why?”
  Mother replied “Because it is one of the rules of Islam that the beds
 of children of six years and onwards should be separated”.
 
-

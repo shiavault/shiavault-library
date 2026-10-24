@@ -278,4 +278,3 @@ Baghdad. It is cited on p. 406, Vol. 6, of Kanz al-Ummal. It is quoted
 by al-Nasa'i on p. 5 of his book Al-Khasa'is, and it is stated on p. 30,
 Vol. 4, of Ibn al-Atheer's book Usd al-Ghaba.
 
-

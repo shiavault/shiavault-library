@@ -36,4 +36,3 @@ His.
 
 [^1]: Ahlul Bayt: the Prophet’s progeny (s).
 
-

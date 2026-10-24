@@ -49,4 +49,3 @@ lift his head towards the sky and invoked God, "0 Lord! Do not lose
 count of them, and do not forgive them ever! 0 Cousins! forbear in
 adversity; you shall never see disgrace after today".
 
-

@@ -193,4 +193,3 @@ this universal rule in Islam:
 
 5. Preventing harm has a priority over procuring benefits
 
-

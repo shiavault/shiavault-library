@@ -314,4 +314,3 @@ sight. And Allah knows the best.
 [^1]: For these and other similar ahadith in the books of hadith and in
 Mafatihu 'l-Jinan of 'Abbas al-Qummi, p. 235-237.
 
-

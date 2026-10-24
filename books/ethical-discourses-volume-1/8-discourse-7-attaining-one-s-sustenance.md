@@ -1,22 +1,18 @@
 Discourse 7: Attaining One’s Sustenance
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إِبْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللٌّهِ : لَيْسَ شَيْءٌ
-تُبَاعِدُكُمْ مِنَ النَّارِ إِلاَّ وَ قَدْ ذَكَرْتُهُ لَكُمْ وَلاَ
-شَيْءٌ يُقَرِّبُكُمْ مِنَ الْجَنَّةِ إِلاَّ وَ قَدْ دَلَلْتُكُمْ
-عَلَيْهِ. إِنَّ رُوحَ الْقُدُسِ نَفَثَ فِي رَوْعِي أَنَّهُ لَنْ
-يَمُوتَ عَبْدٌ مِنْكُمْ حَتّى يَسْتَكْمِلَ رِزْقَهُ، فَأَجْمِلُوا فِي
-الطَّلَبِ فَلاَ يَحْمِلَنَّكُمُ اسْتِبْطَاءُ الرِّزْقِ عَلى أَنْ
-تَطْلُبُوا شَيْئاً مِنْ فَضْلِ اللٌّهِ بِمَعْصِيَتِهِ، فَإِنَّهُ لَنْ
-يُنَالَ مَا عِنْدَ اللٌّهِ إِلاَّ بِطَاعَتِهِ أَلاَ وَ إِنَّ لِكُلِّ
-امْرِءٍ رِزْقاً هُوَ يَأْتِيهِ لاَ مَحَالَةَ، فَمَنْ رَضِيَ بِهِ
-بُورِكَ لَهُ فِيهِ وَ وَسِّعَهُ، وَ مَنْ لَمْ يَرْضَ بِهِ لَمْ
-يُـبَارَكْ لَهُ فِيهِ و لَمْ يَسَعَهُ، إِنَّ الرِّزْقَ لَيَطْلُبُ
-الرَّجُلَ كَمَا يَطْلُبُهُ أَجَلُهُ.
-  </p>
-</blockquote>
+> عَنْ إِبْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللٌّهِ : لَيْسَ شَيْءٌ
+> تُبَاعِدُكُمْ مِنَ النَّارِ إِلاَّ وَ قَدْ ذَكَرْتُهُ لَكُمْ وَلاَ
+> شَيْءٌ يُقَرِّبُكُمْ مِنَ الْجَنَّةِ إِلاَّ وَ قَدْ دَلَلْتُكُمْ
+> عَلَيْهِ. إِنَّ رُوحَ الْقُدُسِ نَفَثَ فِي رَوْعِي أَنَّهُ لَنْ
+> يَمُوتَ عَبْدٌ مِنْكُمْ حَتّى يَسْتَكْمِلَ رِزْقَهُ، فَأَجْمِلُوا فِي
+> الطَّلَبِ فَلاَ يَحْمِلَنَّكُمُ اسْتِبْطَاءُ الرِّزْقِ عَلى أَنْ
+> تَطْلُبُوا شَيْئاً مِنْ فَضْلِ اللٌّهِ بِمَعْصِيَتِهِ، فَإِنَّهُ لَنْ
+> يُنَالَ مَا عِنْدَ اللٌّهِ إِلاَّ بِطَاعَتِهِ أَلاَ وَ إِنَّ لِكُلِّ
+> امْرِءٍ رِزْقاً هُوَ يَأْتِيهِ لاَ مَحَالَةَ، فَمَنْ رَضِيَ بِهِ
+> بُورِكَ لَهُ فِيهِ وَ وَسِّعَهُ، وَ مَنْ لَمْ يَرْضَ بِهِ لَمْ
+> يُـبَارَكْ لَهُ فِيهِ و لَمْ يَسَعَهُ، إِنَّ الرِّزْقَ لَيَطْلُبُ
+> الرَّجُلَ كَمَا يَطْلُبُهُ أَجَلُهُ.
 
 It has been narrated from Ibne 'Umar that the Prophet (S) said, “There
 is nothing that will keep you away from the fire of hell except that I
@@ -64,11 +60,7 @@ between these two groups.
 
 Of course the apparent understanding of the verse that states:
 
-<blockquote dir="rtl">
-  <p>
-أَلْيَومَ أَكْمَلْتُ لَكُمْ دِينَكُمْ
-  </p>
-</blockquote>
+> أَلْيَومَ أَكْمَلْتُ لَكُمْ دِينَكُمْ
 
 “On this day (the 18th of Dhul Hijjah), I have completed your din
 (al-Islam) for you.”[^5]
@@ -85,11 +77,7 @@ At this point, the following issues must be mentioned:
 1. There are some lazy people who feel that by relying on the verse of
 the Qur\`an which states:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا مِنْ دَآبَّةِ فِي الأَرْضِ إِلاَّ عَلى اللٌّهِ رِزْقُهَا
-  </p>
-</blockquote>
+> وَ مَا مِنْ دَآبَّةِ فِي الأَرْضِ إِلاَّ عَلى اللٌّهِ رِزْقُهَا
 
 “There is not a single creature on the Earth except that its sustenance
 is guaranteed by Allah.”[^6]
@@ -129,11 +117,7 @@ and struggle in order to acquire any sort of benefit in the material and
 spiritual realms of humanity. In fact, the Qur\`an has presented the
 following verse as the slogan of such people (who strive and struggle):
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ لِلإِنْسَانِ إِلاَّ مَا سَعى
-  </p>
-</blockquote>
+> لَيْسَ لِلإِنْسَانِ إِلاَّ مَا سَعى
 
 “Mankind will have nothing except that which they strive for.”
 
@@ -216,12 +200,8 @@ The well known words of the Commander of the Faithful, 'Ali b. Abi Talib
 (as) contained in letter number 31 of Nahjul Balagha, which he wrote to
 his son Imam Hasan b. 'Ali (as) states that:
 
-<blockquote dir="rtl">
-  <p>
-وَ اعْلَمْ يَا بُنَيَّ! إِنَّ الرِّزْقَ رِزْقَانِ: رِزْقُ تَطْلُبَهُ
-وَ رِزْقُ يَطْلُبُكَ.
-  </p>
-</blockquote>
+> وَ اعْلَمْ يَا بُنَيَّ! إِنَّ الرِّزْقَ رِزْقَانِ: رِزْقُ تَطْلُبَهُ
+> وَ رِزْقُ يَطْلُبُكَ.
 
 “My son, you must know that surely sustenance is of two types: the
 sustenance that you go after (seeking it) and the sustenance which comes
@@ -288,5 +268,4 @@ Fi Usul al-Fiqh, Ayatullah Ja\`far Subhani, vol. 1, pg. 17 ]
 [^6]: Surat Hud (11), Verse 6
 
 [^7]: In this regards, please refer to Tafsir-e-Namunah, vol. 9, pg. 20.
-
 

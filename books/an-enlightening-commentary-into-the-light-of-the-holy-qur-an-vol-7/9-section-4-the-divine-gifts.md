@@ -4,14 +4,10 @@ Section 4: The Divine Gifts
 Surah Yunus – Verse 31
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن يَرْزُقُكُم مِنَ السَّمَآءِ وَالأَرْضِ أَمَّن يَمْلِكُ
-السَّمْعَ وَالاَبْصَارَ وَمَن يُخْرِجُ الْحَيَّ مِنَ الْمَيّتِ
-وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيّ وَمَن يُدَبِّرُ الاَمْرَ
-فَسَيَقُولُونَ اللَّهُ فَقُلْ أَفَلا تَتَّقُونَ
-  </p>
-</blockquote>
+> قُلْ مَن يَرْزُقُكُم مِنَ السَّمَآءِ وَالأَرْضِ أَمَّن يَمْلِكُ
+> السَّمْعَ وَالاَبْصَارَ وَمَن يُخْرِجُ الْحَيَّ مِنَ الْمَيّتِ
+> وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيّ وَمَن يُدَبِّرُ الاَمْرَ
+> فَسَيَقُولُونَ اللَّهُ فَقُلْ أَفَلا تَتَّقُونَ
 
 ***31. “Say: “Who provides you (sustenance) from the sky and from the
 earth? Or who possesses hearing and sight? And who brings forth the
@@ -100,12 +96,8 @@ them: why they did not take the path of virtue. It says:
 Surah Yunus – Verse 32
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَلِكُمُ اللَّهُ رَبُّكُمُ الْحَقُّ فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ
-الضَّلاَلُ فَاَنَّي تُصْرَفُونَ
-  </p>
-</blockquote>
+> فَذَلِكُمُ اللَّهُ رَبُّكُمُ الْحَقُّ فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ
+> الضَّلاَلُ فَاَنَّي تُصْرَفُونَ
 
 ***32. “Such then is Allah, your true Lord; and what is apart from the
 Truth but error? How then are you turned away?”***
@@ -145,12 +137,8 @@ mislead.
 Surah Yunus – Verse 33
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَي الَّذِينَ فَسَقُوا أَنَّهُمْ
-لا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> كَذَلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَي الَّذِينَ فَسَقُوا أَنَّهُمْ
+> لا يُؤْمِنُونَ
 
 ***33. “Thus is the Word of your Lord proved true against those who did
 wrong, that they will not believe.”***
@@ -175,12 +163,8 @@ The verse continues saying:
 Surah Yunus – Verse 34
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ مِن شُرَكَآئِكُم مَن يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ
-قُلِ اللَّهُ يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ فَاَنَّي تُؤْفَكُونَ
-  </p>
-</blockquote>
+> قُلْ هَلْ مِن شُرَكَآئِكُم مَن يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ
+> قُلِ اللَّهُ يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ فَاَنَّي تُؤْفَكُونَ
 
 ***34. “Say: ‘Is there any of your partners (whom you ascribe unto
 Allah) one (that) can originate creation, then bring it back again?’***
@@ -203,14 +187,10 @@ are you turned away (from the Truth)?’”***
 Surah Yunus – Verse 35
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ مِن شُرَكَائِكُم مَّن يَهْدِي إِلَى الْحَقِّ ۚ قُلِ اللَّهُ
-يَهْدِي لِلْحَقِّ ۗ أَفَمَن يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَن
-يُتَّبَعَ أَمَّن لَّا يَهِدِّي إِلَّا أَن يُهْدَىٰ ۖ فَمَا لَكُمْ
-كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> قُلْ هَلْ مِن شُرَكَائِكُم مَّن يَهْدِي إِلَى الْحَقِّ ۚ قُلِ اللَّهُ
+> يَهْدِي لِلْحَقِّ ۗ أَفَمَن يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَن
+> يُتَّبَعَ أَمَّن لَّا يَهِدِّي إِلَّا أَن يُهْدَىٰ ۖ فَمَا لَكُمْ
+> كَيْفَ تَحْكُمُونَ
 
 ***35. “Say: ‘Is there any of your partners (whom you ascribe unto
 Allah) one that leads towards the Truth? Say: ‘(Only) Allah leads unto
@@ -246,12 +226,8 @@ you judge?’”***
 Surah Yunus – Verse 36
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلاَّ ظَنّاً إِنَّ الظَّنَّ لا يُغْنِي
-مِنَ الْحَقِّ شَيْئاً إِنَّ اللَّهَ عَلِيمٌ بِمَا يَفْعَلُونَ
-  </p>
-</blockquote>
+> وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلاَّ ظَنّاً إِنَّ الظَّنَّ لا يُغْنِي
+> مِنَ الْحَقِّ شَيْئاً إِنَّ اللَّهَ عَلِيمٌ بِمَا يَفْعَلُونَ
 
 ***36. “And most of them follow nothing but conjecture: truly,
 conjecture can be of no avail against the Truth. Verily Allah is well
@@ -284,13 +260,9 @@ ignorance are groundless, and hence, are of no avail.
 Surah Yunus – Verse 37
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ هَذَا الْقُرْءَانُ أَن يُفْتَرَي مِن دُونِ اللَّهِ وَلَكِن
-تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لاَ رَيْبَ
-فِيهِ مِن رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ هَذَا الْقُرْءَانُ أَن يُفْتَرَي مِن دُونِ اللَّهِ وَلَكِن
+> تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لاَ رَيْبَ
+> فِيهِ مِن رَبِّ الْعَالَمِينَ
 
 ***37. “And this Qur’an is not such as to be produced by other than
 Allah; but it is a confirmation of (revelations) that went before it,
@@ -317,12 +289,8 @@ from the Lord of the Worlds.”***
 Surah Yunus – Verse 38
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُوا بِسُورَةٍ مِثْلِهِ وَادْعُوا
-مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُوا بِسُورَةٍ مِثْلِهِ وَادْعُوا
+> مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ
 
 ***38. “Or they say, ‘He has forged it.’ Say: ‘Bring then a Surah like
 unto it, and call (to your aid) anyone you can, besides Allah, if you
@@ -423,13 +391,9 @@ truthful!’”***
 Surah Yunus – Verse 39
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ كَذَّبُوا بِمَا لَمْ يُحِيطُوا بِعِلْمِهِ وَلَمَّا يَأْتِهِمْ
-تَأْوِيلُهُ كَذَلِكَ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَانظُرْ كَيْفَ
-كَانَ عَاقِبَةُ الظَّالِمِينَ
-  </p>
-</blockquote>
+> بَلْ كَذَّبُوا بِمَا لَمْ يُحِيطُوا بِعِلْمِهِ وَلَمَّا يَأْتِهِمْ
+> تَأْوِيلُهُ كَذَلِكَ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَانظُرْ كَيْفَ
+> كَانَ عَاقِبَةُ الظَّالِمِينَ
 
 ***39. “Nay, they belied that which they comprehended not with the
 knowledge of it, which whose interpretation has not yet come to them.
@@ -457,12 +421,8 @@ eventual fate of the oppressors, the verse continues saying:
 Surah Yunus – Verse 40
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُم مَّن يُؤْمِنُ بِهِ وَمِنْهُم مَن لا يُؤْمِنُ بِهِ وَرَبُّكَ
-أَعْلَمُ بِالْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَمِنْهُم مَّن يُؤْمِنُ بِهِ وَمِنْهُم مَن لا يُؤْمِنُ بِهِ وَرَبُّكَ
+> أَعْلَمُ بِالْمُفْسِدِينَ
 
 ***40. “And some of them believe in it and some of them do not believe
 in it; and your Lord knows best the mischief makers.”***
@@ -479,5 +439,4 @@ it; and your Lord knows best the mischief makers.”***
 [^1]: Surah Al-Baqarah, No. 2, verse 187
 
 [^2]: Surah Al-Hajj, No. 22, verse 73
-
 

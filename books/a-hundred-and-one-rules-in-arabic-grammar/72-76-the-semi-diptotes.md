@@ -18,16 +18,9 @@ I talked to a girl who was taller than her sister.**تکلـَّمتُ مع بن
 However, they can take the definite article. When they do, they behave
 like regular nouns or adjectives.
 
-<p dir="rtl">
 **ألمِسطرَةُ علی الکتابِ الأخضرِ.**
-</p>
 
-<p dir="rtl">
 **يُدَرِّسونَ في المَدارس ِ الخاصَّةِ.       **
-</p>
 
-<p dir="rtl">
 .**تکلـَّمتُ مع البنتِ ال** أ **طول ِ من أختِها**
-</p>
-
 

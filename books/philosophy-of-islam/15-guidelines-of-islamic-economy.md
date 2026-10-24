@@ -2222,4 +2222,3 @@ cupidity of the rich under check, and will be an assurance for the
 implementation of social jutice of Islam.  
   
 
-

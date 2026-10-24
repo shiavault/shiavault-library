@@ -462,4 +462,3 @@ that my Lord will certainly (fulfill)
 
 [^18]: Quran 24:35.
 
-

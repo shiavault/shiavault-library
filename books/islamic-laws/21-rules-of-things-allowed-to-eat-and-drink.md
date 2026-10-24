@@ -248,4 +248,3 @@ night. It is also unworthy to drink water with one's left hand; to drink
 water from the side of a container which is cracked or chipped off, or
 from the side of its handle.
 
-

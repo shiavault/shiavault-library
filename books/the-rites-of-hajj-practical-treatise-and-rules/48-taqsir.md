@@ -78,4 +78,3 @@ Tawaf of Nisa’ is not obligatory in Umrah al-Tamattu’, even there is no
 necessity for performing Tawaf of Nisa’ with the intention of Rija’
 (hoping for the goodness of the act).
 
-

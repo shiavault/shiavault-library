@@ -162,7 +162,6 @@ him therein. It is a valley of the valleys of Hell." (According to
 'Aqili's description al-Kunas is at the gate called 'Taq al-Mahamil'
 where people cook animals's legs and heads for food)
 
-
 **Chapter 67 : Tacit and Explicit Testimony as proof of al-Husayn ibn
 Ali's (a.s.) (a.s.) Divine Authority over the people after al-Hassan
 (a.s.) H 780, Ch. 67, h 1**
@@ -288,7 +287,6 @@ accept a person other than him (al- Husayn (a.s.)) Who is he that would
 seek assistance in his difficulties from a person other than him
 (al-Husayn (a.s.) )?"
 
-
 H 782, Ch. 67, h 3
 
 Through the same chain of narrators it is narrated from Sahl from
@@ -368,5 +366,4 @@ away. You are a quarrelsome people." The narrator has said that the
 al-Husayn (a.s.) went tothe grave of his mother and then took the body
 of al- Hassan (a.s.) out (of the shrine of the Messenger of Allah) and
 buried him in al-Baqi'."
-
 

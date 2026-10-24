@@ -16,12 +16,8 @@ ahadith from the Prophet (S) and his Ahlul Bait (as) instructing us to
 have the ceremony at night and for the new wife to be taken to her new
 home in the evening time (after sunset):
 
-<blockquote dir="rtl">
-  <p>
-قالَ الإِمامُ جَعْفَرَ بْنِ مُحَمَّدٍ الصّادِقُ (عَلَيهِ السَّلامُ):
-زَفُّوا عَرائِسِكُمْ لَيْلاً وَاطْعِمُوا ضُحًّى
-  </p>
-</blockquote>
+> قالَ الإِمامُ جَعْفَرَ بْنِ مُحَمَّدٍ الصّادِقُ (عَلَيهِ السَّلامُ):
+> زَفُّوا عَرائِسِكُمْ لَيْلاً وَاطْعِمُوا ضُحًّى
 
 *Imam Jafar ibn Muhammad as-Sadiq (as) has said, "Take your wife home at
 night time and* *during the day, eat food."*
@@ -38,13 +34,9 @@ books.
 It has been recommended that the husband perform Wudhu, a two Rakat
 Salat for the wedding night and then recite the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-أَللّهُمَّ ارْزُقْنِي أُلْفَها وَوُدَّها وَرِضاها بِي وَارْضِنِي بِها
-وَاجْمَعْ بَيْنَنا بِأَحْسَنِ إِجْتِماعٍ وَأَيْسَرَ ائَتِلافٍ
-فِإِنَّكَ تُحِبُّ الْحَلالَ وَتَكْرَهُ الْحَرامَ.
-  </p>
-</blockquote>
+> أَللّهُمَّ ارْزُقْنِي أُلْفَها وَوُدَّها وَرِضاها بِي وَارْضِنِي بِها
+> وَاجْمَعْ بَيْنَنا بِأَحْسَنِ إِجْتِماعٍ وَأَيْسَرَ ائَتِلافٍ
+> فِإِنَّكَ تُحِبُّ الْحَلالَ وَتَكْرَهُ الْحَرامَ.
 
 *Allahummar zuqni ulfahaa wa wuddahaa wa ridhaahaa bi; war dhini bihaa
 waj ma banyanaa bi ahsani ijtimaain wa aysara tilaafin. Fa innaka
@@ -63,13 +55,9 @@ Imam Jafar as-Sadiq (as) that when the new wife enters the room where
 her husband is, they should both face the Qiblah and he should place his
 hand on her forehead and recite the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-أَللّهُمَّ بِأَمانَتِكَ أَخَذْتُها وَبِكَلِماتِكَ إِسْتَحْلَلْتُ
-فَرْجَها فَإنْ قَضَيْتَ لِي مِنْها وَلَداً فَاجْعَلْهُ مُبارَكاً
-سَوِيًّا وَلا تَجْعَلْ لِلشَّيْطانِ فِيْهِ شِرْكاً وَلا نَصِيباً
-  </p>
-</blockquote>
+> أَللّهُمَّ بِأَمانَتِكَ أَخَذْتُها وَبِكَلِماتِكَ إِسْتَحْلَلْتُ
+> فَرْجَها فَإنْ قَضَيْتَ لِي مِنْها وَلَداً فَاجْعَلْهُ مُبارَكاً
+> سَوِيًّا وَلا تَجْعَلْ لِلشَّيْطانِ فِيْهِ شِرْكاً وَلا نَصِيباً
 
 *Allaahumma bi amaanatika akhadhtuhaa wa bi kalimaatika istahlalatu
 farjahaa. Fa in Qadhayta li minhaa waladan, faj-alhu mubaarakan sawiyyan
@@ -103,5 +91,4 @@ went on to mention that 70 blessings and mercies would be showered upon
 the bride such that each of these will fill the house with mercy and as
 long as the wife is alive, she will never be afflicted with madness or
 leprosy.
-
 

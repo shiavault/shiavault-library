@@ -11,4 +11,3 @@ The One Who Presents An Argument
 
 > 2ـ مَنِ احْتَجَّ بِالحَقِّ فَلَجَ.
 
-

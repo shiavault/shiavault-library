@@ -202,4 +202,3 @@ peoples were aware of them.[^4]
 
 [^4]: Vide Surah al-A'raf, 7:157.
 
-

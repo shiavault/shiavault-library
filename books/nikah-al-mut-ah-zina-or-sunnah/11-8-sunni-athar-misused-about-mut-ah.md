@@ -19,12 +19,8 @@ Athar One
 
 Imam Abu ‘Awanah (d. 316 H) records:
 
-<blockquote dir="rtl">
-  <p>
-قال يونس قال ابن شهاب وسمعت الربيع بن سبرة يحدث عمر بن عبد العزيز،]
-وأنا جالس [أنه قال :ما مات ابن عباس حتى رجع عن هذا الفتيا
-  </p>
-</blockquote>
+> قال يونس قال ابن شهاب وسمعت الربيع بن سبرة يحدث عمر بن عبد العزيز،]
+> وأنا جالس [أنه قال :ما مات ابن عباس حتى رجع عن هذا الفتيا
 
 Yusuf – Ibn Shihab:
 
@@ -39,30 +35,14 @@ either.
 
 No wonder, ‘Allamah al-Albani (d. 1420 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-وجملة القول: أن ابن عباس رضى الله عنه روى عنه فى المتعة ثلاثة أقوال:
-  </p>
-</blockquote>
+> وجملة القول: أن ابن عباس رضى الله عنه روى عنه فى المتعة ثلاثة أقوال:
 
-<blockquote dir="rtl">
-  <p>
-الأول: الإباحة مطلقا.
-  </p>
-</blockquote>
+> الأول: الإباحة مطلقا.
 
-<blockquote dir="rtl">
-  <p>
-الثانى: الإباحة عند الضرورة.
-  </p>
-</blockquote>
+> الثانى: الإباحة عند الضرورة.
 
-<blockquote dir="rtl">
-  <p>
-والآخر: التحريم مطلقا , وهذا مما لم يثبت عنه صراحة , بخلاف القولين
-الأولين , فهما ثابتان عنه.
-  </p>
-</blockquote>
+> والآخر: التحريم مطلقا , وهذا مما لم يثبت عنه صراحة , بخلاف القولين
+> الأولين , فهما ثابتان عنه.
 
 The summary is: three opinions are narrated from Ibn ‘Abbas, may Allaah
 be pleased with him, about *mut’ah*:
@@ -77,13 +57,9 @@ which are authentically transmitted from him.[^2]
 
 Al-Hafiẓ too is not left out:
 
-<blockquote dir="rtl">
-  <p>
-وأما ابن عباس فروى عنه أنه أباحها وروى عنه أنه رجع عن ذلك قال ابن بطال
-روى أهل مكة واليمن عن ابن عباس إباحة المتعة وروى عنه الرجوع بأسانيد
-ضعيفة وإجازة المتعة عنه أصح وهو مذهب الشيعة
-  </p>
-</blockquote>
+> وأما ابن عباس فروى عنه أنه أباحها وروى عنه أنه رجع عن ذلك قال ابن بطال
+> روى أهل مكة واليمن عن ابن عباس إباحة المتعة وروى عنه الرجوع بأسانيد
+> ضعيفة وإجازة المتعة عنه أصح وهو مذهب الشيعة
 
 As for Ibn ‘Abbas, it is narrated concerning him that he permitted it,
 and it is also narrated concerning him that he withdrew from that. Ibn
@@ -101,15 +77,11 @@ Athar Two
 
 Imam al-Jasas (d. 370 H) submits:
 
-<blockquote dir="rtl">
-  <p>
-ومما يدل على رجوعه عن إباحتها ما روى عبد الله بن وهب قال: أخبرني عمرو
-بن الحارث أن بكير بن الأشج حدثه: أن أبا إسحاق مولى بني هاشم حدثه: أن
-رجلا سأل ابن عباس فقال: كنت في سفر ومعي جارية لي ولي أصحاب فأحللت
-جاريتي لأصحابي يستمتعون منها؟ فقال: ذاك السفاح، فهذا أيضا يدل على
-رجوعه.
-  </p>
-</blockquote>
+> ومما يدل على رجوعه عن إباحتها ما روى عبد الله بن وهب قال: أخبرني عمرو
+> بن الحارث أن بكير بن الأشج حدثه: أن أبا إسحاق مولى بني هاشم حدثه: أن
+> رجلا سأل ابن عباس فقال: كنت في سفر ومعي جارية لي ولي أصحاب فأحللت
+> جاريتي لأصحابي يستمتعون منها؟ فقال: ذاك السفاح، فهذا أيضا يدل على
+> رجوعه.
 
 From what proves his withdrawal from its permissibility is what ‘Abd
 Allah b. Wahb narrated: ‘Amr b. al-Harith – Bukayr b. al-Ashja – **Abu
@@ -134,22 +106,14 @@ which the woman must fulfil after each *mut’ah*?
 Anyway, the *riwayah* is *ḍa’if*. This is what al-Hafiẓ (d. 852 H)
 states about its main narrator:
 
-<blockquote dir="rtl">
-  <p>
-أبو إسحاق الدوسي مولى بني هاشم مقبول
-  </p>
-</blockquote>
+> أبو إسحاق الدوسي مولى بني هاشم مقبول
 
 Abu Ishaq al-Dawsi, freed slave of Banu Hashim: ***Maqbul***.[^5]
 
 Uncorroborated reports of *maqbul* narrators are *ḍa’if*; as al-Hafiẓ
 confirms:
 
-<blockquote dir="rtl">
-  <p>
-" مقبول " حيث يتابع، وإلا فلين الحديث
-  </p>
-</blockquote>
+> " مقبول " حيث يتابع، وإلا فلين الحديث
 
 *Maqbul* (accepted) where he is seconded (i.e. from the same Shaykh).
 **Otherwise, he is weak in** ***hadith***.[^6]
@@ -162,14 +126,10 @@ Athar Three
 
 Imam ‘Abd al-Razzaq (d. 211 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن ابن عيينة عن إسماعيل عن قيس] عن عبد الله بن مسعود [قال:
-كنا نغزو مع رسول الله صلى الله عليه وسلم فتطول عزبتنا فقلنا: ألا نختصي
-يا رسول الله فنهانا، ثم رخص أن نتزوج المرأة إلى أجل بالشئ، ثم نهانا
-عنها يوم خيبر، وعن لحوم الحمر الانسية
-  </p>
-</blockquote>
+> عبد الرزاق عن ابن عيينة عن إسماعيل عن قيس] عن عبد الله بن مسعود [قال:
+> كنا نغزو مع رسول الله صلى الله عليه وسلم فتطول عزبتنا فقلنا: ألا نختصي
+> يا رسول الله فنهانا، ثم رخص أن نتزوج المرأة إلى أجل بالشئ، ثم نهانا
+> عنها يوم خيبر، وعن لحوم الحمر الانسية
 
 ‘Abd al-Razzaq – **Ibn ‘Uyaynah** – Isma’il – Qays – [‘Abd Allah b.
 Mas’ud]:
@@ -184,15 +144,11 @@ the flesh of domestic asses.[^7]
 However, this same *hadith* has been recorded by al-Bukhari (d. 256 H)
 with significant differences:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة بن سعيد حدثنا جرير عن إسماعيل عن قيس قال : قال عبد الله
-كنا نغزو مع رسول الله صلى الله عليه و سلم وليس لنا شيء فقلنا ألا
-نستخصي ؟ فنهانا عن ذلك ثم رخصلنا أن ننكح المرأة بالثوب ثم قرأ علينا }
-يا أيها الذين أمنوا لا تحرموا طيبات ما أحل الله لكم ولا تعتدوا أن الله
-لا يحب المعتدين {
-  </p>
-</blockquote>
+> حدثنا قتيبة بن سعيد حدثنا جرير عن إسماعيل عن قيس قال : قال عبد الله
+> كنا نغزو مع رسول الله صلى الله عليه و سلم وليس لنا شيء فقلنا ألا
+> نستخصي ؟ فنهانا عن ذلك ثم رخصلنا أن ننكح المرأة بالثوب ثم قرأ علينا }
+> يا أيها الذين أمنوا لا تحرموا طيبات ما أحل الله لكم ولا تعتدوا أن الله
+> لا يحب المعتدين {
 
 Qutaybah b. Sa’id – **Jarir** – Isma’il – Qays – ‘Abd Allah (b. Mas’ud):
 
@@ -214,14 +170,10 @@ wa alihi*.
 This is also what yet another narrator transmitted from Isma’il. Imam
 Ahmad (d. 241 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا وكيع عن بن أبي خالد عن قيس عن عبد الله
-قال كنا مع النبي صلى الله عليه و سلم ونحن شباب فقلنا يا رسول الله ألا
-نستخصي فنهانا ثم رخص لنا في ان ننكح المرأة بالثوب إلى الأجل ثم قرأ عبد
-الله { لا تحرموا طيبات ما أحل الله لكم }
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا وكيع عن بن أبي خالد عن قيس عن عبد الله
+> قال كنا مع النبي صلى الله عليه و سلم ونحن شباب فقلنا يا رسول الله ألا
+> نستخصي فنهانا ثم رخص لنا في ان ننكح المرأة بالثوب إلى الأجل ثم قرأ عبد
+> الله { لا تحرموا طيبات ما أحل الله لكم }
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – **Waki’** –
 (Isma’il) Ibn Abi Khalid – Qays – ‘Abd Allah:
@@ -236,25 +188,17 @@ you**} [5:87].[^9]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs[^10]
 
 Ahmad reports again:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا محمد بن عبيد ثنا إسماعيل عن قيس عن عبد
-الله قال كنا نغزو مع رسول الله صلى الله عليه و سلم وليس لنا نساء فقلنا
-يا رسول الله ألا نستخصي فنهانا عنه ثم رخص لنا بعد في أن نتزوج المرأة
-بالثوب إلى أجل ثم قرأ عبد الله { يا أيها الذين آمنوا لا تحرموا طيبات
-ما أحل الله لكم ولا تعتدوا إن الله لا يحب المعتدين
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا محمد بن عبيد ثنا إسماعيل عن قيس عن عبد
+> الله قال كنا نغزو مع رسول الله صلى الله عليه و سلم وليس لنا نساء فقلنا
+> يا رسول الله ألا نستخصي فنهانا عنه ثم رخص لنا بعد في أن نتزوج المرأة
+> بالثوب إلى أجل ثم قرأ عبد الله { يا أيها الذين آمنوا لا تحرموا طيبات
+> ما أحل الله لكم ولا تعتدوا إن الله لا يحب المعتدين
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – **Muhammad b.
 ‘Ubayd** – Isma’il – Qays – ‘Abd Allah:
@@ -270,11 +214,7 @@ Allah does not love those who exceed the limits } [5:87].[^11]
 
 Al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^12]
 
@@ -284,15 +224,11 @@ makes his report *shadh* and *ḍa’if*.
 
 Well, al-Hafiẓ is not going to give up that easily:
 
-<blockquote dir="rtl">
-  <p>
-وظاهر استشهاد ابن مسعود بهذه الآية هنا يشعر بأنه كان يرى بجواز المتعة
-فقال القرطبي لعله لم يكن حينئذ بلغه الناسخ ثم بلغه فرجع بعد قلت يؤيده
-ما ذكره الإسماعيلي أنه وقع في رواية أبى معاوية عن إسماعيل بن أبي خالد
-ففعله ثم ترك ذلك قال وفى رواية لابن عيينة عن إسماعيل ثم جاء تحريمها
-بعد وفى رواية معمر عن إسماعيل ثم نسخ
-  </p>
-</blockquote>
+> وظاهر استشهاد ابن مسعود بهذه الآية هنا يشعر بأنه كان يرى بجواز المتعة
+> فقال القرطبي لعله لم يكن حينئذ بلغه الناسخ ثم بلغه فرجع بعد قلت يؤيده
+> ما ذكره الإسماعيلي أنه وقع في رواية أبى معاوية عن إسماعيل بن أبي خالد
+> ففعله ثم ترك ذلك قال وفى رواية لابن عيينة عن إسماعيل ثم جاء تحريمها
+> بعد وفى رواية معمر عن إسماعيل ثم نسخ
 
 Apparently, Ibn Mas’ud’s use of this verse here as evidence shows that
 he considered *mut’ah* to be permissible. Thus, al-Qurṭubi said, “Maybe
@@ -306,15 +242,11 @@ prohibition came later.” And in the report of Ma’mar from Isma’il:
 
 Even al-Bayhaqi too makes some last-minute efforts:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو عمرو الأديب أنبأ أبو بكر الإسماعيلي فذكر الحديث بإسناده عن
-عبد الله بن مسعود في المتعة قال عقبة وروى أبو معاوية عن إسماعيل بن أبي
-خالد عن قيس عن عبد الله هذا الحديث وقال في آخره ثم ترك ذاك قال وفي
-حديث بن المصفى عن بن عيينة عن إسماعيل في آخره ثم جاء تحريمها بعد وفي
-حديث عبد الرزاق عن معمر عن إسماعيل عن قيس بنسخ ذلك يعني المتعة
-  </p>
-</blockquote>
+> أخبرنا أبو عمرو الأديب أنبأ أبو بكر الإسماعيلي فذكر الحديث بإسناده عن
+> عبد الله بن مسعود في المتعة قال عقبة وروى أبو معاوية عن إسماعيل بن أبي
+> خالد عن قيس عن عبد الله هذا الحديث وقال في آخره ثم ترك ذاك قال وفي
+> حديث بن المصفى عن بن عيينة عن إسماعيل في آخره ثم جاء تحريمها بعد وفي
+> حديث عبد الرزاق عن معمر عن إسماعيل عن قيس بنسخ ذلك يعني المتعة
 
 Abu ‘Amr al-Adib informed us: Abu Bakr al-Isma’ili (d. 371 H) informed
 us and he mentioned the *hadith* with his chain from ‘Abd Allah b.
@@ -346,13 +278,9 @@ these unverifiable reports against the more authentic *athar* makes them
 Meanwhile, Imam Abu Yusuf al-Ansari (d. 182 H) tables this new *hadith*
 as well:
 
-<blockquote dir="rtl">
-  <p>
-قال حدثنا يوسف عن ابيه عن ابي حنيفة عن حماد عن إبراهيم عن عبدالله بن
-مسعود رضى الله عنه انه قال شكونا العزوبة فأحلت لنا المتعة ثلاثا قط ثم
-نسختها آية النكاح والعدة والميراث
-  </p>
-</blockquote>
+> قال حدثنا يوسف عن ابيه عن ابي حنيفة عن حماد عن إبراهيم عن عبدالله بن
+> مسعود رضى الله عنه انه قال شكونا العزوبة فأحلت لنا المتعة ثلاثا قط ثم
+> نسختها آية النكاح والعدة والميراث
 
 Yusuf – his father – **Abu Hanifah** – Hammad – **Ibrahim** – ‘Abd Allah
 b. Mas’ud, may Allah be pleased with him:
@@ -364,13 +292,9 @@ Inheritance abrogated it.[^15]
 Concerning Abu Hanifah, Imam Ibn Hibban (d. 354 H), despite his
 notorious leniency, has this to say:
 
-<blockquote dir="rtl">
-  <p>
-حدث بمائة وثلاثين حديثا مسانيد ماله حديث في الدنيا غيرها أخطأ منها في
-مائة وعشرين حديثا. إما أن يكون أقلب إسناده أو غير متنه من حيث لا يعلم
-فلما غلب خطؤه على صوابه استحق ترك الاحتجاج به في الاخبار
-  </p>
-</blockquote>
+> حدث بمائة وثلاثين حديثا مسانيد ماله حديث في الدنيا غيرها أخطأ منها في
+> مائة وعشرين حديثا. إما أن يكون أقلب إسناده أو غير متنه من حيث لا يعلم
+> فلما غلب خطؤه على صوابه استحق ترك الاحتجاج به في الاخبار
 
 He narrated 130 full-chained *ahadith*. He had no other *hadith* in this
 world except them. He made mistakes in 120 of them. He either changed
@@ -397,14 +321,10 @@ did not. In fact, even Ibn Mas’ud himself used to refer to *mut’ah* as a
 Imam al-Bayhaqi (d. 458 H) then gives us further reports about Ibn
 Mas’ud:
 
-<blockquote dir="rtl">
-  <p>
-وعن سفيان قال قال بعض أصحابنا عن الحكم بن عتيبة عن عبد الله بن مسعود
-قال نسختها العدة والطلاق والميراث قال العدني يعني المتعة ورواه الحجاج
-بن أرطأة عن الحكم عن أصحاب عبد الله عن عبد الله بن مسعود قال المتعة
-منسوخة نسخها الطلاق والصداق والعدة والميراث
-  </p>
-</blockquote>
+> وعن سفيان قال قال بعض أصحابنا عن الحكم بن عتيبة عن عبد الله بن مسعود
+> قال نسختها العدة والطلاق والميراث قال العدني يعني المتعة ورواه الحجاج
+> بن أرطأة عن الحكم عن أصحاب عبد الله عن عبد الله بن مسعود قال المتعة
+> منسوخة نسخها الطلاق والصداق والعدة والميراث
 
 Sufyan – **one of our companions** – **al-Hakam b. ‘Utaybah** – ‘Abd
 Allah b. Mas’ud: “It was abrogated by *‘iddah*, divorce and
@@ -422,14 +342,10 @@ The second *athar* is *ḍa’if* by default, as well.. “Companions of ‘Abd
 Allah” in its chain are unknown! In addition, this is what al-Hafiẓ
 submits about al-Hajjaj:
 
-<blockquote dir="rtl">
-  <p>
-حجاج بن أرطاة الفقيه الكوفي المشهور أخرج له مسلم مقرونا وصفه النسائي
-وغيره بالتدليس عن الضعفاء وممن أطلق عليه التدليس بن المبارك ويحيى بن
-القطان ويحيى بن معين وأحمد وقال أبو حاتم إذا قال حدثنا فهو صالح وليس
-بالقوي
-  </p>
-</blockquote>
+> حجاج بن أرطاة الفقيه الكوفي المشهور أخرج له مسلم مقرونا وصفه النسائي
+> وغيره بالتدليس عن الضعفاء وممن أطلق عليه التدليس بن المبارك ويحيى بن
+> القطان ويحيى بن معين وأحمد وقال أبو حاتم إذا قال حدثنا فهو صالح وليس
+> بالقوي
 
 Hajjaj b. Arṭat, the Kufan jurist, well-known. Muslim narrated from him
 while attaching others with him, **and al-Nasai and others qualified him
@@ -441,12 +357,8 @@ b. al-Qaṭṭan, Yahya b. Ma’in and Ahmad**. Abu Hatim said, “If he said,
 Al-Hafiẓ has placed him in the fourth category of *mudalisun*.
 Explaining what that means, he states:
 
-<blockquote dir="rtl">
-  <p>
-الرابعة :من اتفق على أنه لا يحتج بشئ من حديثهم الا بما صرحوا فيه
-بالسماع لكثرة تدليسهم على الضعفاء والمجاهيل كبقية بن الوليد
-  </p>
-</blockquote>
+> الرابعة :من اتفق على أنه لا يحتج بشئ من حديثهم الا بما صرحوا فيه
+> بالسماع لكثرة تدليسهم على الضعفاء والمجاهيل كبقية بن الوليد
 
 The fourth (category): those about whom there is consensus that they
 cannot be relied upon as *hujjah* in anything of their *ahadith* except
@@ -461,12 +373,8 @@ manner.
 Then, ‘Abd al-Razzaq closes this section with this final report on Ibn
 Mas’ud:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق عن الثوري عن صاحب له عن الحكم قال: قال ابن مسعود: نسخها
-الطلاق، والعدة، والميراث.
-  </p>
-</blockquote>
+> عبد الرزاق عن الثوري عن صاحب له عن الحكم قال: قال ابن مسعود: نسخها
+> الطلاق، والعدة، والميراث.
 
 ‘Abd al-Razzaq – al-Thawri – **a friend of his** – **al-Hakam** – Ibn
 Mas’ud:
@@ -490,13 +398,9 @@ Athar Four
 
 Imam al-Bayhaqi records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو عبد الله الحافظ أنبأ أبو محمد الحسن بن سليمان الكوفي ببغداد
-ثنا محمد بن عبد الله الحضرمي ثنا إسماعيل بن إبراهيم ثنا الأشجعي عن
-بسام الصيرفي قال سألت جعفر بن محمد عن المتعة فوصفتها فقال لي ذلك الزنا
-  </p>
-</blockquote>
+> أخبرنا أبو عبد الله الحافظ أنبأ أبو محمد الحسن بن سليمان الكوفي ببغداد
+> ثنا محمد بن عبد الله الحضرمي ثنا إسماعيل بن إبراهيم ثنا الأشجعي عن
+> بسام الصيرفي قال سألت جعفر بن محمد عن المتعة فوصفتها فقال لي ذلك الزنا
 
 Abu ‘Abd Allah al-Hafiẓ – **Abu Muhammad al-Hasan b. Sulayman al-Kufi**
 – Muhammad b. ‘Abd Allah al-Haḍrami – Isma’il b. Ibrahim – al-Ashja’i –
@@ -516,23 +420,15 @@ Athar Five
 
 Imam Abu ‘Awanah documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن إسحاق الصغاني ويحيى بن أبي طالب قالا: ثنا عبد الوهاب بن
-عطاء قال: أنبا عبد الملك بن جريج، عن عبد العزيز بن عمر، أن الربيع بن
-سبرة، حدثه عن أبيه قال … : إذا كان يوم التروية قام النبي صلى الله عليه
-وسلم بين الحجر والركن فقال: ألا إني كنت أمرتكم بهذه المتعة، وإن الله
-قد حرمها إلى يوم القيامة، فمن كان استمتع من امرأة فلا يرجع إليها، وإن
-كان بقي من أجله شيء فلا يأخذ منها مما أعطاها شيئا.
-  </p>
-</blockquote>
+> حدثنا محمد بن إسحاق الصغاني ويحيى بن أبي طالب قالا: ثنا عبد الوهاب بن
+> عطاء قال: أنبا عبد الملك بن جريج، عن عبد العزيز بن عمر، أن الربيع بن
+> سبرة، حدثه عن أبيه قال … : إذا كان يوم التروية قام النبي صلى الله عليه
+> وسلم بين الحجر والركن فقال: ألا إني كنت أمرتكم بهذه المتعة، وإن الله
+> قد حرمها إلى يوم القيامة، فمن كان استمتع من امرأة فلا يرجع إليها، وإن
+> كان بقي من أجله شيء فلا يأخذ منها مما أعطاها شيئا.
 
-<blockquote dir="rtl">
-  <p>
-قال ابن جريج يومئذ: اشهدوا أني قد رجعت عنها بعد ثمانية عشر حديثاً أروي
-فيها لا بأس بها.
-  </p>
-</blockquote>
+> قال ابن جريج يومئذ: اشهدوا أني قد رجعت عنها بعد ثمانية عشر حديثاً أروي
+> فيها لا بأس بها.
 
 Muhammad b. Ishaq al-Saghani and Yahya b. Abi Ṭalib – **‘Abd al-Wahhab
 b. ‘Aṭa** – ‘Abd al-Malik b. Jurayj – ‘Abd al-‘Aziz b. ‘Umar – al-Rabi’
@@ -562,12 +458,8 @@ part that our Sunni brothers present to us; and it is this part that is
 
 Al-Hafiẓ states about ‘Abd al-Wahhab:
 
-<blockquote dir="rtl">
-  <p>
-عبد الوهاب بن عطاء الخفاف البصري صدوق معروف من طبقة أبي أسامة قال
-البخاري كان يدلس عن ثور الحمصي وأقوام أحاديث مناكير
-  </p>
-</blockquote>
+> عبد الوهاب بن عطاء الخفاف البصري صدوق معروف من طبقة أبي أسامة قال
+> البخاري كان يدلس عن ثور الحمصي وأقوام أحاديث مناكير
 
 ‘Abd al-Wahhab b. ‘Aṭa al-Khaffaf al-Basri: *Saduq* (very truthful),
 well-known, from the *ṭabaqah* of Abu Usamah. **Al-Bukhari said, “He
@@ -578,12 +470,8 @@ Interestingly, al-Hafiẓ has put him in the third category of
 *mudalisun*. In the *Introduction* to his book, he has explained what
 this means:
 
-<blockquote dir="rtl">
-  <p>
-الثالثة :من أكثر من التدليس فلم يحتج الأئمة من أحاديثهم الا بما صرحوا
-فيه بالسماع ومنهم من رد حديثهم مطلقا ومنهم من قبلهم كأبي الزبير المكي
-  </p>
-</blockquote>
+> الثالثة :من أكثر من التدليس فلم يحتج الأئمة من أحاديثهم الا بما صرحوا
+> فيه بالسماع ومنهم من رد حديثهم مطلقا ومنهم من قبلهم كأبي الزبير المكي
 
 **The third (category): those who did** ***tadlis*** **A LOT. As a
 result, the Imams did not take their** ***ahadith*** **as** ***hujjah***
@@ -699,5 +587,4 @@ al-Manar; 1st edition) [annotator: Dr. Aṣim b. ‘Abd Allah al-Qaryuni],
 p. 41, \# 85
 
 [^24]: Ibid, p. 13
-
 

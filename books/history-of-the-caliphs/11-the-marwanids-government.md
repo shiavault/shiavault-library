@@ -12,13 +12,9 @@ after forty days or four months abdicated.
 
 He announced,
 
-<blockquote dir="rtl">
-  <p>
-الا وان جدّي معاوية بن ابي سفيان نازع الامر من كان أولى به منه في
-القرابة برسول الله وأحق في الاسلام، سابق المسلمين، اول المؤمنين وابن
-عم رسول رب العالمين وأبا بقيّة خاتم المرسلين “
-  </p>
-</blockquote>
+> الا وان جدّي معاوية بن ابي سفيان نازع الامر من كان أولى به منه في
+> القرابة برسول الله وأحق في الاسلام، سابق المسلمين، اول المؤمنين وابن
+> عم رسول رب العالمين وأبا بقيّة خاتم المرسلين “
 
 My forefather, Mu'awiya did battle with the one who was the closest to
 the Prophet in kinship and had long record in Islam. The ever-first
@@ -164,11 +160,7 @@ for him disperse.[^23] His miserliness[^24] and accusing others of being
 worldly were what had all leave him on his own. It is said about his
 jealousy,
 
-<blockquote dir="rtl">
-  <p>
-عدمت قريشا رضوا بك سيدا و أنت بخيل الكف غيرجواد
-  </p>
-</blockquote>
+> عدمت قريشا رضوا بك سيدا و أنت بخيل الكف غيرجواد
 
 “You killed the Quraysh who approved you. The miser is you.”
 
@@ -337,12 +329,8 @@ unmarried, were confined in his mixed jails.[^60]
 
 Characterizing him, Suyuti has written,
 
-<blockquote dir="rtl">
-  <p>
-و قد قتل من الصحابة والتابعين ما لا يحصي، فضلاً عن غيرهم وختم في عنق
-انس وغيره من الصحابة ختماً “
-  </p>
-</blockquote>
+> و قد قتل من الصحابة والتابعين ما لا يحصي، فضلاً عن غيرهم وختم في عنق
+> انس وغيره من الصحابة ختماً “
 
 He massacred countless Prophet's disciples and followers let alone
 others. He made some gashes on Anas Ibn Malik's neck and other's.”[^61]
@@ -522,12 +510,8 @@ notions they repeatedly were taking advantage in their campaign against
 the Umayyads, one can name their brutality, disregarding the weak and
 attempting to leave no trace of prayers.
 
-<blockquote dir="rtl">
-  <p>
-قاتلوهم على جورهم في الحكم وتجبرهم في الدين واستذلالهم الضعفاء
-وإماتتهم الصلاة
-  </p>
-</blockquote>
+> قاتلوهم على جورهم في الحكم وتجبرهم في الدين واستذلالهم الضعفاء
+> وإماتتهم الصلاة
 
 “Fight them to get rid of their cruelty in ruling their bullyism in
 religion, their violation of the rights of the weak and their attempt of
@@ -690,17 +674,9 @@ agents give it up.[^114] There is no doubt, based on historical sources,
 that he had done so.[^115] Kuthayyir 'Azza, a Shi'ites poet, composed
 some verses in praising 'Umar Ibn 'Abd al-’Aziz before him,
 
-<blockquote dir="rtl">
-  <p>
-وليت فلم تشتم عليّاً ولم تخِف بريئاً ولم تتبعْ مقالة مجرم
-  </p>
-</blockquote>
+> وليت فلم تشتم عليّاً ولم تخِف بريئاً ولم تتبعْ مقالة مجرم
 
-<blockquote dir="rtl">
-  <p>
-تكلمت بالحق المبين وإنما تبين آيات الهدي بالتكلم
-  </p>
-</blockquote>
+> تكلمت بالحق المبين وإنما تبين آيات الهدي بالتكلم
 
 “Thou came to power and did not revile 'Ali (a), thou did listen to no
 culpable instead thou told the true word. Others came to know about
@@ -771,23 +747,11 @@ Then he quoted this tradition from Allah's Prophet, **من كنت مولاه ف�
 doubts about the validity of those narrations. Some poets admired him
 for what he had done. Sayyid Razi, for example composed:
 
-<blockquote dir="rtl">
-  <p>
-يا بن عبدالعزيز لو بكت العيـ ن فتـيً مـن أميّة لَبَكيتـُك
-  </p>
-</blockquote>
+> يا بن عبدالعزيز لو بكت العيـ ن فتـيً مـن أميّة لَبَكيتـُك
 
-<blockquote dir="rtl">
-  <p>
-غيـر أني أقول أنـك قد طبـ ت وإن لم يطب ولم يذك بيتك
-  </p>
-</blockquote>
+> غيـر أني أقول أنـك قد طبـ ت وإن لم يطب ولم يذك بيتك
 
-<blockquote dir="rtl">
-  <p>
-أنت نزهتنا عن السب والقذ ف فلو أمكن الجزاء جزيُتِك
-  </p>
-</blockquote>
+> أنت نزهتنا عن السب والقذ ف فلو أمكن الجزاء جزيُتِك
 
 “O, son of 'Abd al-Aziz, if eyes are to weep for one of the Umayyads's
 youths, they will surely do this for thee. Thou have been purified but
@@ -1336,17 +1300,9 @@ Muslims. The protected people were paying for slave girls and had sexual
 intercourse with them and yet Khalid did not show any objection.[^194]  
  Being imprisoned by him, Farazdaq wrote these verses in his reproach:
 
-<blockquote dir="rtl">
-  <p>
-أبلغ أميرالمؤمنين رسـالة فعجّل هداك الله نزعك خالد
-  </p>
-</blockquote>
+> أبلغ أميرالمؤمنين رسـالة فعجّل هداك الله نزعك خالد
 
-<blockquote dir="rtl">
-  <p>
-بني بيعة فيها الصليب لأمّه وهدم من بغض الإله مساجد
-  </p>
-</blockquote>
+> بني بيعة فيها الصليب لأمّه وهدم من بغض الإله مساجد
 
 “Hisham! Hasten to transfer this message to the commander of the
 believers, May God guide you in Khalid's removal, he who dismantled
@@ -1354,11 +1310,7 @@ mosques out of his grudge against Allah and established a synagogue
 instead. He put a cross therein too.” [^195]  
  Referring to the way of his ruling, he vocalized,
 
-<blockquote dir="rtl">
-  <p>
-وكيف يؤم المسلمين وأمّه تدين بأنّ الله ليس بواحد
-  </p>
-</blockquote>
+> وكيف يؤم المسلمين وأمّه تدين بأنّ الله ليس بواحد
 
 How he leads Muslims while on no account is his mother a believer.
 [^196]
@@ -1526,11 +1478,7 @@ Damascus contributed to him.
 
 Hajjaj himself made it known to 'Abd al-Malik,
 
-<blockquote dir="rtl">
-  <p>
-وقد عجز أهل الكوفه عن قتال شبيب في مواطن كثيرة في كلٍّ يقتل أمراءهم
-  </p>
-</blockquote>
+> وقد عجز أهل الكوفه عن قتال شبيب في مواطن كثيرة في كلٍّ يقتل أمراءهم
 
  “Kufiyans were incapable of fighting Shabib in verious instances, in
 each of which their leaders were killed.” [^218]
@@ -1578,12 +1526,8 @@ provoking people both against them and themselves[^227] and even
 obliging some pious people to follow them. From among them, one can name
 Salih Ibn Masrah who, due to existing oppression, told his followers:
 
-<blockquote dir="rtl">
-  <p>
-متي انتم مقيمون هذا الجور قد فشا وهذا العدل قد عفي ولاتزداد هذه الولاة
-علي الناس الا علواً وعتواً وتباعداً عن الحق وجرأةً علي الرب
-  </p>
-</blockquote>
+> متي انتم مقيمون هذا الجور قد فشا وهذا العدل قد عفي ولاتزداد هذه الولاة
+> علي الناس الا علواً وعتواً وتباعداً عن الحق وجرأةً علي الرب
 
 “As long as you stay in power, cruelty runs, the justice disappears and
 the rulers foment bullying and domination as well as they are
@@ -1694,13 +1638,9 @@ groups of Kharijites who considered those men, women and even children
 not being a member of the group as infidel and doomed to death.[^238]  
  They referred to this verses:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنْ الْكَافِرِينَ
-دَيَّارًا. إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا
-إِلَّا فَاجِرًا كَفَّارًا.
-  </p>
-</blockquote>
+> وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنْ الْكَافِرِينَ
+> دَيَّارًا. إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا
+> إِلَّا فَاجِرًا كَفَّارًا.
 
 “And Noah said, “My Lord! Leave me not one of the disbelievers in the
 land. If you leave them, they will mislead the slaves and will beget
@@ -2309,5 +2249,4 @@ Abi al-Hadid, vol. v, p. 106
 [^241]: Ibid vol. 1, p. 107
 
 [^242]: Tabsirat al-’Awam, p. 41; al-Milal wal-Nihal, vol. I, p. 122
-
 

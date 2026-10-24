@@ -224,4 +224,3 @@ in spite of having different functional organs and in spite of being
 geographically far apart, the believers would be deeply bound
 emotionally!
 
-

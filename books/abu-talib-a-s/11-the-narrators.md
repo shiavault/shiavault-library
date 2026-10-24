@@ -320,7 +320,6 @@ knew him previously. He was not reliable and no one depended upon him.
 2 Sheikhul Abtah p.75.
 3 MIzanul I'tidal, vol.2 p.137, 139.
 
-
 **A Look at the Tradition**
 
 This round we did about the narrators of the tradition didn't leave for
@@ -536,5 +535,4 @@ lightening the
 \_\_\_\_\_\_\_\_\_\_\_\_
 1 Al-Ghadeer, vol.7 p.370-371 from two sources, vol.8 p.24 from six
 sources.
-
 

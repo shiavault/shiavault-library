@@ -183,4 +183,3 @@ Satan be calling them to the punishment of the Blaze?”***[^9]
 
 [^9]: Sūrat Luqmān 31:21.
 
-

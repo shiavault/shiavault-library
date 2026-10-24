@@ -588,4 +588,3 @@ Trans,. Din wa rawan, p. 19.
 
 [^8]: Fayd al-Kashani, Haqa'iq, p. 202.
 
-

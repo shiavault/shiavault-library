@@ -14,10 +14,8 @@ collection Yanabi' al-Mawaddah (lit. Fountains of Stable Love) narrates
 that Abu Dharr is reported to have quoted the Holy Prophet (s) as having
 said:
 
-<p dir="rtl">
 إِنَّ مَثَلُ أَهْلِ بَيْتِي فِيكُمْ مَثَلُ سَفِيْنَةِ نُوْح، مَنْ
 رَكِبَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ
-</p>
 
 The similitude of my progeny among you is that of the ship of Noah
 ('a); whosoever boards on it is saved, and whosoever does not would
@@ -44,10 +42,8 @@ Sayyid haddad al-Musawi a great Shi'ite saint and a contemporary of
 'Allamah Tabatana'i, is reported to have quoted their mentor in
 practical gnosis, \`yatullah Qazi Tabataba'i as having said:
 
-<p dir="rtl">
 قَالَ لِيْ أُسْتَاذِيْ الْمَرْحُوْم القاضي قدس سرّه: أنّه محالُ أن يصل
 إنسانٌ إلى مقام التوحيد بدون طريق سيد الشهدآء عليه السلام.
-</p>
 
 My teacher, Marhum Qazi (may his spirit be sanctified) said to me that
 it is impossible for a human being to attain the station of tawhid
@@ -122,13 +118,11 @@ where Imam al-Hussein ('a) is buried, and instead of seeking their real
 needs would ask for those things that would add to the burden that they
 already have accumulated. He is reported to have said:
 
-<p dir="rtl">
 إنّ أكثر النَّاس حينما يذهبون إلى زيارة العتبات المقدسة يقفون ماسكي
 الضريح فيتوسلون بالإمام (ع) لحوائجهم المادية فيحملون ثقلاً على ثقلهم ولم
 يسئلوا الإمام (ع) بأن يأخذ منهم ثقلهم و هو التعلق با لدنيا، بل يسئلونه
 بأن يعطيهم بيتاً أو ولداً أو زوجاً أو سيَّارةً، وما سمعنا عن أحدٍ دخل
 بخدمته وقال له خذ منّي كذا وكذا.
-</p>
 
 When most of the people visit the holy shrines, they stand holding fast
 onto the enclosures of the graves and mediate with the Imam ('a) for the
@@ -143,5 +137,4 @@ Before we begin this radiant ziyarah, which is reckoned to be among the
 sacred traditions [^8] (ahadith qudsiyyah) as well, and understand both
 its particular as well as its universal import, it is imperative to
 generally know the significance of ziyarah, and its exalted purpose.
-
 

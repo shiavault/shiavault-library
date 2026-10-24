@@ -301,4 +301,3 @@ vol. 7, p. 38, al-Bustani has mentioned some of these features.
 al-Ghazali has mentioned: Allah’s Apostle (a.s.) said to al-Hasan: ‘You
 are similar to me in form and manner.’”
 
-

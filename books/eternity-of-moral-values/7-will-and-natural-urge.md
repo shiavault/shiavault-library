@@ -38,7 +38,6 @@ sometimes both inclination and will may be present. That is, one may be
 inclined towards something which may be the object of one's will due to
 the judgement of reason.
 
-
 **Q: Is will totally absent in cases where there is an inclination, or
 is it only weak?**
 
@@ -81,7 +80,6 @@ greater charm in his sight, as in the case of Rudaki who wrote those
 verses for the Samanid prince using those metaphors for Bukhara. Bukhara
 remained what it was but he projected the city in such charming terms
 that they moved the prince. These are miracles of the human mind.
-
 
 **Q: Is this the Pavlovian conditioned reflex?**
 
@@ -201,5 +199,4 @@ creeds, groups, and nations. Therefore, every individual and groups
 likes certain things and therefore moral values are inevitably
 subjective and relative. Hence moral concepts are not objective issues
 susceptible to logical proof or deductive or inductive methods.
-
 

@@ -440,7 +440,6 @@ who oppress (VIII 25).
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
 In the outstanding virtues of the Commander of the faithful, peace be
 on him, which we have enumerated after what we have already mentioned
 with regard to the Farewell Pilgrimage, there is evidence which

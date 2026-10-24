@@ -48,4 +48,3 @@ the same in the masculine and feminine cases, for example: **عالِمونَ.**
 126. The relative noun is added to adjectives due to their similarities,
 for example: **لُبنانیُّونَ.**
 
-

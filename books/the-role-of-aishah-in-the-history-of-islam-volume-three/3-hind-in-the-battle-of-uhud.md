@@ -90,7 +90,6 @@ Muslims and infidels about the battle of Uhud in which the savage acts
 of Hind and Abu Sufyan
 are recorded.(45)
 
-
 **Abu Sufyan as leader in the battle of al-Khandaq**
 
 The Quraysh proceed towards the battle of al-Khandaq while Abu Sufyan
@@ -151,7 +150,6 @@ leapt on its back to move Thus the big battle of al-Khandaq (or
 al-Ahzab) ended without any result for Abu Sufyan, and the big army of
 the infidels despite their large number failed to do anything against
 Islam, the religion of God.
-
 
 **Feeling of weakness and proposal of peace**
 
@@ -344,5 +342,4 @@ The generous pardon granted by the Prophet, in later years was
 interpreted as a disgrace for the Quraysh and their children. The word
 "at-Tulaqa"' means "those who were set free", and so some used it to
 decide the Quraysh as salves set free.
-
 

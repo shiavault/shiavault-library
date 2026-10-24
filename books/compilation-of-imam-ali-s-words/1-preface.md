@@ -124,4 +124,3 @@ al-Hukama ' wa Mathurah Makarim al-Shiyam.21
 Nahj al-Balaghah, he has selected 1,000 sayings of Imam 'Ali (A.S.) that
 were not mentioned by Sayyid Razi. 23
 
-

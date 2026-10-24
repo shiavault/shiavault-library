@@ -8,11 +8,7 @@ Surah Infitar, Chapter 82
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -47,43 +43,19 @@ others are settled."*
 Surah Infitar, Verses 1-5
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا السَّمَاءُ انْفَطَرَتْ
-  </p>
-</blockquote>
+> إِذَا السَّمَاءُ انْفَطَرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْبِحَارُ فُجِّرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْبِحَارُ فُجِّرَتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْقُبُورُ بُعْثِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْقُبُورُ بُعْثِرَتْ
 
-<blockquote dir="rtl">
-  <p>
-عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ
-  </p>
-</blockquote>
+> عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ
 
 ***1. "When The Sky is cleft asunder."***  
 ***2. "And when the planets are scattered."***  
@@ -315,47 +287,19 @@ thousands of years.
 Surah Infitar, Verses 6-12
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
 
-<blockquote dir="rtl">
-  <p>
-فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
-  </p>
-</blockquote>
+> فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ
-  </p>
-</blockquote>
+> كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
-  </p>
-</blockquote>
+> وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
 
-<blockquote dir="rtl">
-  <p>
-كِرَامًا كَاتِبِينَ
-  </p>
-</blockquote>
+> كِرَامًا كَاتِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ مَا تَفْعَلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ مَا تَفْعَلُونَ
 
 ***6. "O man! What has seduced you (away) from your Lord, the
 Gracious?"***  
@@ -806,48 +750,20 @@ hide you from them. Surely tomorrow is close at hand...”.*[^19]
 Surah Infitar, Verses 13-19
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
-  </p>
-</blockquote>
+> إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-يَصْلَوْنَهَا يَوْمَ الدِّينِ
-  </p>
-</blockquote>
+> يَصْلَوْنَهَا يَوْمَ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُمْ عَنْهَا بِغَائِبِينَ
-  </p>
-</blockquote>
+> وَمَا هُمْ عَنْهَا بِغَائِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
-  </p>
-</blockquote>
+> ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ
-لِلَّهِ
-  </p>
-</blockquote>
+> يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ
+> لِلَّهِ
 
 ***13. "Surely the Righteous shall be in Bliss,”***  
 ***14. "And surely the Wicked shall be in blazing Fire,”***  
@@ -1071,5 +987,4 @@ Version)
 [^20]: Majma'-al-Bayan, vol. 10, p. 450.
 
 [^21]: Surah Anbiya, No. 21, verse 28
-
 

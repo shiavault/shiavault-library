@@ -328,4 +328,3 @@ and enters into the fold of Islam. But within the circle of Islam,
 change of affiliation from one school to another does not require a new
 shahadah.
 
-

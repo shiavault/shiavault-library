@@ -65,4 +65,3 @@ the Prophet was reciting the verses of Qur’an.
 ***Qur’an, and make a noise while they are being recited, perhaps you
 will thus triumph”. (41:26)***
 
-

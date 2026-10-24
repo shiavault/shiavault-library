@@ -38,4 +38,3 @@ descendants.
 
 [^1]: In reference to the context of Q64:14
 
-

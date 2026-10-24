@@ -4,13 +4,9 @@ Section 2: A Believer and Disbeliever Cannot Be Equal
 Surah As-Sajdah – Verse 12
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَرَي إِذِ الُمُـجْرِمُونَ نَاكِسُوا رُؤُوسِهِمْ عِندَ
-رَبّـِهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنا نَعْمَلْ
-صَالِحاً إِنَّا مُوقِنُونَ
-  </p>
-</blockquote>
+> وَلَوْ تَرَي إِذِ الُمُـجْرِمُونَ نَاكِسُوا رُؤُوسِهِمْ عِندَ
+> رَبّـِهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنا نَعْمَلْ
+> صَالِحاً إِنَّا مُوقِنُونَ
 
 ***12. “And if you could see when the guilty hang down their heads
 before their Lord (saying): ‘Our Lord! We have seen and we have heard
@@ -70,13 +66,9 @@ sincere intention.
 Surah As-Sajdah – Verse 13
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شِئْنَا لأَتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَكِنْ حَقَّ
-الْقَوْلُ مِنّـِي لأَمْلأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ
-أَجْمَعِينَ
-  </p>
-</blockquote>
+> وَلَوْ شِئْنَا لأَتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَكِنْ حَقَّ
+> الْقَوْلُ مِنّـِي لأَمْلأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ
+> أَجْمَعِينَ
 
 ***13. “And if We had pleased We would certainly have given to every
 soul its guidance, but the true word (which has gone forth) from Me,
@@ -126,12 +118,8 @@ if He does not, it will be contrary to His wisdom.
 Surah As-Sajdah – Verse 14
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذُوقُوا بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَذَآ إِنَّا نَسِينَاكُمْ
-وَذُوقُوا عَذَابَ الْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> فَذُوقُوا بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَذَآ إِنَّا نَسِينَاكُمْ
+> وَذُوقُوا عَذَابَ الْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ
 
 ***14. “So taste (the recompense) because you neglected the meeting of
 this day of yours; verily We, too, forsake you; and taste the abiding
@@ -156,13 +144,9 @@ does not mean.
 Surah As-Sajdah – Verse 15
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُؤْمِنُ بِاَيَاتِنَا الَّذِينَ إِذَا ذُكّـِرُوا بِهَا
-خَرُّوا سُجَّداً وَسَبَّحُوا بِحَمْدِ رَبّـِهِمْ وَهُمْ لاَ
-يَسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يُؤْمِنُ بِاَيَاتِنَا الَّذِينَ إِذَا ذُكّـِرُوا بِهَا
+> خَرُّوا سُجَّداً وَسَبَّحُوا بِحَمْدِ رَبّـِهِمْ وَهُمْ لاَ
+> يَسْتَكْبِرُونَ
 
 ***15. “Only those believe in Our signs who, when they are reminded of
 them, fall down prostrating in obeisance and celebrate the praise of
@@ -242,12 +226,8 @@ even one verse of these four Suras.
 Surah As-Sajdah – Verse 16
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَتَجَافَي جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً
-وَطَمَعاً وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
-  </p>
-</blockquote>
+> تَتَجَافَي جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً
+> وَطَمَعاً وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
 
 ***16. “Their sides draw away from (their) beds, they call upon their
 Lord in fear and in hope, and they spend (in charity) out of the
@@ -312,12 +292,8 @@ movement, helping the servants of Allah in all its dimensions.
 Surah As-Sajdah – Verse 17
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تَعْلَمُ نَفْسٌ مَآ اُخْفِيَ لَهُم مِن قُرَّةِ أَعْيُنٍ جَزَآءً
-بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلاَ تَعْلَمُ نَفْسٌ مَآ اُخْفِيَ لَهُم مِن قُرَّةِ أَعْيُنٍ جَزَآءً
+> بِمَا كَانُوا يَعْمَلُونَ
 
 ***17. “And no person knows what (important reward) is hidden for them
 of the joy of the eyes, in recompense for what (good) they were
@@ -426,11 +402,7 @@ light of stars glitters for the inhabitants of the earth.”*[^8]
 Surah As-Sajdah – Verse 18
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن كَانَ مُؤْمِناً كَمَن كَانَ فَاسِقاً لاَ يَسْتَوُونَ
-  </p>
-</blockquote>
+> أَفَمَن كَانَ مُؤْمِناً كَمَن كَانَ فَاسِقاً لاَ يَسْتَوُونَ
 
 ***18. “Is he then who is a believer like him who is a transgressor?
 They are not equal.”***
@@ -497,20 +469,12 @@ in the event of the tribe of Ban-il-Mustalaq.
 Surah As-Sajdah – Verses 19-20
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ
-الْمَأْوَي نُزُلاً بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> أَمَّا الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ
+> الْمَأْوَي نُزُلاً بِمَا كَانُوا يَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ كُلَّمَآ أَرَادُوا
-أَن يَخْرُجُوا مِنْهَآ اُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ
-النَّارِ الَّذِي كُنتُم بِهِ تُكَذّ‌ِبُونَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ كُلَّمَآ أَرَادُوا
+> أَن يَخْرُجُوا مِنْهَآ اُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ
+> النَّارِ الَّذِي كُنتُم بِهِ تُكَذّ‌ِبُونَ
 
 ***19. “As for those who believe and do righteous deeds, the gardens (of
 bless) are their abiding-place, and entertainment for what they used to
@@ -588,12 +552,8 @@ although there is not any action accompanied with it.
 Surah As-Sajdah – Verse 21
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَنُذِيقَنَّهُم مِنَ الْعَذَابِ الأَدْنَي دُونَ الْعَذَابِ
-الأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَلَنُذِيقَنَّهُم مِنَ الْعَذَابِ الأَدْنَي دُونَ الْعَذَابِ
+> الأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
 
 ***21. “And indeed We make them taste of the nearer chastisement (in
 this world) before the greater chastisement (in Hereafter) that haply
@@ -686,12 +646,8 @@ with distress and affliction that they might humble themselves.”***
 Surah As-Sajdah – Verse 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّن ذُكّـِرَ بِاَيَاتِ رَبّـِهِ ثُمَّ أَعْرَضَ
-عَنْهَآ إِنَّا مِنَ الْمُـجْرِمِينَ مُنتَقِمُونَ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّن ذُكّـِرَ بِاَيَاتِ رَبّـِهِ ثُمَّ أَعْرَضَ
+> عَنْهَآ إِنَّا مِنَ الْمُـجْرِمِينَ مُنتَقِمُونَ
 
 ***22. “And who is more unjust than he who is reminded of the signs of
 his Lord, then he turns away from them? We shall take vengeance upon the
@@ -764,5 +720,4 @@ should be put on something upon which prostration is correct.
 [^8]: Bihar-ul-’Anwar, Vol. 87, P. 161
 
 [^9]: Nur-uth-Thaqalayn and Kanz-ud-Daqa’iq, the commentaries
-
 

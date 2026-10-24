@@ -375,27 +375,15 @@ alongside the description of boundless divine mercy, some verses also
 reveals God’s attribute of wrath and anger. Take for example the
 following passages:
 
-<blockquote dir="rtl">
-  <p>
-﴿...وَاللّهُ عَزِيزٌ ذُو انتِقَامٍ﴾
-  </p>
-</blockquote>
+> ﴿...وَاللّهُ عَزِيزٌ ذُو انتِقَامٍ﴾
 
 “…And Allah is all-mighty, avenger.”[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ﴾
 
 “…Indeed We shall wreak vengeance upon the guilty.”[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿...فَبَآؤُوا بِغَضَبٍ عَلَى غَضَبٍ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ﴾
-  </p>
-</blockquote>
+> ﴿...فَبَآؤُوا بِغَضَبٍ عَلَى غَضَبٍ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ﴾
 
 “…Thus they earned wrath upon wrath, and there is a humiliating
 punishment for the faithless.”[^8]
@@ -406,22 +394,14 @@ described God as described in Islam and the Qur’an. Our belief is that
 God’s mercy supersedes and prevails over His wrath and anger. Thus, God
 said:
 
-<blockquote dir="rtl">
-  <p>
-﴿...كَتَبَ عَلىٰ نَفسِهِ ٱلرَّحْمَة...﴾
-  </p>
-</blockquote>
+> ﴿...كَتَبَ عَلىٰ نَفسِهِ ٱلرَّحْمَة...﴾
 
 ***“…He has made mercy incumbent upon Himself...**”*[^9]
 
 This concept is mentioned in many *mutawatir* traditions reported by
 both Sunnis and Shi‘ahs. It is mentioned in our supplications, thus:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ سَبَقَتْ رَحْمَتُهُ غَضَبَهُ!
-  </p>
-</blockquote>
+> يَا مَنْ سَبَقَتْ رَحْمَتُهُ غَضَبَهُ!
 
 **“O He whose mercy supersedes His wrath!”**
 
@@ -485,12 +465,8 @@ principles, but at the same time, it emphasizes that we have to fight
 the obstinate and those who consciously oppose the truth, the religion
 of God, and, violate treaties:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَقَاتِلُواْ أَئِمَّةَ الْكُفْرِ إِنَّهُمْ لاَ أَيْمَانَ لَهُمْ
-لَعَلَّهُمْ يَنتَهُونَ﴾
-  </p>
-</blockquote>
+> ﴿فَقَاتِلُواْ أَئِمَّةَ الْكُفْرِ إِنَّهُمْ لاَ أَيْمَانَ لَهُمْ
+> لَعَلَّهُمْ يَنتَهُونَ﴾
 
 ***“Then fight the leaders of unfaith—indeed they have no [commitment
 to] pledges—maybe they will relinquish.”***[^13]
@@ -499,24 +475,16 @@ Similarly, in *Surah at-Tahrim*, verse 9, and *Surah at-Tawbah*, verse
 73, God commands the Apostle (*s*) and the Muslims to fight the
 faithless and the hypocrites, and deal with them sternly and violently:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ
-وَأَخْرَجُوكُم مِن دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَن
-تَوَلَّوْهُمْ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ
+> وَأَخْرَجُوكُم مِن دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَن
+> تَوَلَّوْهُمْ﴾
 
 “Allah forbids you only in regard to those who made war against you on
 account of religion and expelled you from your homes and supported
 [others] in your expulsion, that you make friends with them.”[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ
-وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ
+> وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ﴾
 
 “O Prophet! Wage jihad against the faithless and the hypocrites, and be
 severe with them. Their refuge shall be hell, and it is an evil
@@ -529,13 +497,9 @@ addition to the faithless.)
 
 Elsewhere, God also says thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا الَّذِينَ يَلُونَكُم مِّنَ
-الْكُفَّارِ وَلِيَجِدُوا فِيكُمْ غِلْظَةً وَاعْلَمُوا أَنَّ اللّهَ
-مَعَ الْمُتَّقِينَ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا الَّذِينَ يَلُونَكُم مِّنَ
+> الْكُفَّارِ وَلِيَجِدُوا فِيكُمْ غِلْظَةً وَاعْلَمُوا أَنَّ اللّهَ
+> مَعَ الْمُتَّقِينَ﴾
 
 “O, you who have faith! Fight the faithless who are in your vicinity,
 and let them find severity in you, and know that Allah is with the
@@ -547,13 +511,9 @@ and express their wrath, severity and firmness to their faithless
 neighbors so that they are afraid and do not commit treachery and hatch
 any plot. God also says in another verse, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَأَعِدُّوا لَهُم مَا اسْتَطَعْتُم مِن قُوَّةٍ وَمِن رِبَاطِ
-الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِن
-دُونِهِمْ لاَ تَعْلَمُونَهُمُ اللّهُ يَعْلَمُهُمْ...﴾
-  </p>
-</blockquote>
+> ﴿وَأَعِدُّوا لَهُم مَا اسْتَطَعْتُم مِن قُوَّةٍ وَمِن رِبَاطِ
+> الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِن
+> دُونِهِمْ لاَ تَعْلَمُونَهُمُ اللّهُ يَعْلَمُهُمْ...﴾
 
 “Prepare against them whatever you can of [military] power and
 war-horses, and create awe thereby in the enemy of Allah, and your
@@ -796,13 +756,9 @@ presenting reasons, proof and evidence. Thereafter, while providing him
 with escorts and guards he should be sent to his original place even if
 it is in the midst of the enemy’s army:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّى
-يَسْمَعَ كَلاَمَ اللّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَلِكَ بِأَنَّهُمْ
-قَوْمٌ لاَ يَعْلَمُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّى
+> يَسْمَعَ كَلاَمَ اللّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَلِكَ بِأَنَّهُمْ
+> قَوْمٌ لاَ يَعْلَمُونَ﴾
 
 “If any of the polytheists seeks asylum from you, grant him asylum until
 he hears the Word of Allah. Then convey him to his place of
@@ -895,17 +851,13 @@ the polytheists and enemies of God as the model, and not smile at the
 enemies, hypocrites, and the enemy’s open and secret agents who are
 determined to annihilate Islam and the Muslims!
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
-أَوْلِيَاء تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا
-جَاءَكُم مٍنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ أَن
-تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَادًا فِي
-سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي تُسِرُّونَ إِلَيْهِم بِالْمَوَدَّةِ
-وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنتُمْ وَمَن يَفْعَلْهُ
-مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
+> أَوْلِيَاء تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا
+> جَاءَكُم مٍنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ أَن
+> تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَادًا فِي
+> سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي تُسِرُّونَ إِلَيْهِم بِالْمَوَدَّةِ
+> وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنتُمْ وَمَن يَفْعَلْهُ
+> مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ﴾
 
 “O you who have faith! Do not take My enemy and your enemy for friends,
 [secretly] offering them affection (for they have certainly defied
@@ -916,15 +868,11 @@ for them, while I know well whatever you hide and whatever you disclose,
 and whoever among you does that has certainly strayed from the right
 way.”[^22]
 
-<blockquote dir="rtl">
-  <p>
-﴿قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
-مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَاء مِنكُمْ وَمِمَّا
-تَعْبُدُونَ مِن دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا
-وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُوا
-بِاللَّهِ وَحْدَهُ...﴾
-  </p>
-</blockquote>
+> ﴿قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
+> مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَاء مِنكُمْ وَمِمَّا
+> تَعْبُدُونَ مِن دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا
+> وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُوا
+> بِاللَّهِ وَحْدَهُ...﴾
 
 “There is certainly a good exemplar for you in Abraham and those who are
 with him, when they said to their people, ‘Indeed we repudiate you and
@@ -1033,5 +981,4 @@ political and legal immunity in Iran. [Trans.]
 [^22]: Surah al-Mumtahanah 60:1.
 
 [^23]: Surah al-Mumtahanah 60:4.
-
 

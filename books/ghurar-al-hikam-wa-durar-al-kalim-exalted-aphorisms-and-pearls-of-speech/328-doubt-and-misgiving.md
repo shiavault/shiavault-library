@@ -16,11 +16,7 @@ certitude.
 constructive thing is piety and keeping aloof from sin.
 
 > 3ـ أهْلَكُ شَيْء اَلشَّكُّ والاِرْتيابُ، وأمْلَكُ شَيْء الوَرَعُ
-<blockquote dir="rtl">
-  <p>
-وَالاِجْتِنابُ.
-  </p>
-</blockquote>
+> وَالاِجْتِنابُ.
 
 4. Doubt is misgiving.
 
@@ -57,13 +53,9 @@ guide; while the enemies of Allah are called towards it (doubt) by their
 misguidance and their guide is blindness.
 
 > 11ـ إنَّما سُمِّيَتْ الشُّبْهَةُ شُبْهَةً لأنَّها تُشْبِهُ الْحَقَّ،
-<blockquote dir="rtl">
-  <p>
-فَأمّا أوْلِياءُاللّهِ فَضِيائُهُمْ فيها اليَقينُ، ودَليلُهُمْ سَمْتُ
-الهُدى، وأمّا أعْداءُ اللّهِ فَدَعاؤُهُمْ(فَدَعاهُمْ) إلَيْهَا
-الضَّلالُ،وَ دَليلُهُمْ العَمى.
-  </p>
-</blockquote>
+> فَأمّا أوْلِياءُاللّهِ فَضِيائُهُمْ فيها اليَقينُ، ودَليلُهُمْ سَمْتُ
+> الهُدى، وأمّا أعْداءُ اللّهِ فَدَعاؤُهُمْ(فَدَعاهُمْ) إلَيْهَا
+> الضَّلالُ،وَ دَليلُهُمْ العَمى.
 
 12. The bane of certitude is doubt.
 
@@ -165,11 +157,7 @@ you to doubt.
 one who falls into them becomes confounded.
 
 > 34ـ لِيَصْدُقْ تَحَرّيكَ فِي الشُّبَهاتِ فَإنَّ مَنْ وَقَعَ فيها
-<blockquote dir="rtl">
-  <p>
-اِرْتَـبَكَ.
-  </p>
-</blockquote>
+> اِرْتَـبَكَ.
 
 35. The sceptic has no religion and the backbiter has no magnanimity.
 
@@ -196,5 +184,4 @@ one who falls into them becomes confounded.
 > 40ـ اَلشَّاكُّ لايَقينَ لَهُ.
 
 [^1]: Or: Doing something that makes others suspicious...
-
 

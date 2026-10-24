@@ -340,17 +340,9 @@ this form was invented by natural creation. The only work the Qur’an did
 was to restore the dower to its natural form. The holy Qur’an with
 unrivalled fineness and sensitivity says:
 
-<blockquote dir="rtl">
-  <p>
-صدقة
-  </p>
-</blockquote>
+> صدقة
 
-<blockquote dir="rtl">
-  <p>
-وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً
-  </p>
-</blockquote>
+> وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً
 
 ***And give the women their dower as a gift spontaneous*****; (4:4).**
 
@@ -457,11 +449,7 @@ In al Kashshaf and other commentaries, it is written that when, a
 daughter was born to someone and somebody wanted to congratulate him, he
 used to say
 
-<blockquote dir="rtl">
-  <p>
-هنيئاً لك النافجة
-  </p>
-</blockquote>
+> هنيئاً لك النافجة
 
 (*hani’an laka’n-nafijah*), that is, congratulations, may she be a
 source of wealth (lit. a pouch of musk) for you”. This was an allusion
@@ -484,11 +472,7 @@ married to the father or brother of the other girl. Such a kind of
 marriage was called a *shighar* marriage. Islam annulled this custom.
 The Holy Prophet commanded:
 
-<blockquote dir="rtl">
-  <p>
-لا شغار في الإسلام
-  </p>
-</blockquote>
+> لا شغار في الإسلام
 
 (*la shigara fi’l-Islam*), that is, the exchange of daughters or
 sisters, is forbidden in Islam.
@@ -556,12 +540,8 @@ strength of the dower that the deceased had paid for her in the past.
 The Holy Qur’an annulled the custom of the inheritance of the wife. It
 ordained:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَنْ تَرِثُوا
-النِّسَاءَ كَرْهًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَنْ تَرِثُوا
+> النِّسَاءَ كَرْهًا
 
 ***O believers, it is not lawful for you to inherit women against their
 will*****. (4:19)**
@@ -570,11 +550,7 @@ In another verse, the Qur’an prohibits absolutely marriage with the wife
 of the father, even if it is not by way of succession, and even if she
 wishes to marry of her own free. It is ordained:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ ِ
-  </p>
-</blockquote>
+> وَلَا تَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ ِ
 
 ***And marry not women whom your fathers married.*** **(4:22)**
 
@@ -585,11 +561,7 @@ her and subject her to torture. His motive for torturing her was she
 would agree to a divorce, and he would be able to take back all or part
 of what he had paid to her as her dower. The holy Qur’an ordered
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ
-  </p>
-</blockquote>
+> وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ
 
 ***Neither debar them that you may go off with part of what you have
 given them.*** **(4:19)**
@@ -797,19 +769,11 @@ why does it say in the revealed Book:
 
 ***And give the women their dowers as a gift spontaneous***
 
-<blockquote dir="rtl">
-  <p>
-وأتُوا النِساء صدُقاتِهن نِحلةً
-  </p>
-</blockquote>
+> وأتُوا النِساء صدُقاتِهن نِحلةً
 
 **and not,** ***And give the women their dowers as a security*****.**
 
-<blockquote dir="rtl">
-  <p>
-وأتُوا النِساء صدُقاتِهن وثِيقةً
-  </p>
-</blockquote>
+> وأتُوا النِساء صدُقاتِهن وثِيقةً
 
 Above all, the writer of the forty Proposals thinks that the custom and
 practice of dower at the beginning of Islam was the same as it is now.
@@ -984,12 +948,8 @@ The Qur’an and the financial independence of woman:
 
 One thousand four hundred years ago, Islam passed this law and ordered:
 
-<blockquote dir="rtl">
-  <p>
-لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا
-اكْتَسَبْنَ
-  </p>
-</blockquote>
+> لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا
+> اكْتَسَبْنَ
 
 ***To the men a share from what they have earned, and to the women a
 share of what they have earned.*** **(4:32)**
@@ -1000,12 +960,8 @@ have the right to the fruits of their labor and efforts.
 
 In another verse the Qur’an ordained
 
-<blockquote dir="rtl">
-  <p>
-لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
-وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
-  </p>
-</blockquote>
+> لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
+> وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
 
 ***To the men a share of what parents and kinsmen leave, and to the
 women a share of what parents and kinsmen leave.*** **(4:7)**
@@ -1314,11 +1270,7 @@ liberally as she likes, is that the husband understands that his
 spiritual needs are with his wife. He has realized that God has placed
 in his wife the source of his comfort and the solace of his spirit
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا
-  </p>
-</blockquote>
+> وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا
 
 ***And made of him his spouse that he might rest in her.*** **(7:189)**
 
@@ -1567,5 +1519,4 @@ close and united to each other.
 
 [^1]: Majnun and Layla are the idealised lovers in Arabic and Persian
 literature. (Tr).
-
 

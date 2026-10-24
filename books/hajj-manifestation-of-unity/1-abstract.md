@@ -16,4 +16,3 @@ provides the general direction that individual Muslims are to follow.
 transcendental unity of Islamic sects, sectarianism, Shia-Sunni unity,
 Shia-Sunni polemics.
 
-

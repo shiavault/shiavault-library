@@ -41,4 +41,3 @@ live and causes to die, etc.
 
 [^4]: MC, 206 sqq.; BHA, no. 56, no. 62, nos. 97-99; FC, no. 13, no. 16.
 
-

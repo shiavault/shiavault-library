@@ -34,5 +34,3 @@ His vast compassion and mercy.
 
 ** Fadhlallah Haeri**
 
-
-

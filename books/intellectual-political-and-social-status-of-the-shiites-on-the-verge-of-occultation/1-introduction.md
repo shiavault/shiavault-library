@@ -74,5 +74,5 @@ me.[^1]
 Reference
 ---------
 
-[^1] Al-Kāfī, Vol. 5, pp. 111 & 112; Bihār Al-Anwār, Vol. 50, pp. 86 &
+[^1]: Al-Kāfī, Vol. 5, pp. 111 & 112; Bihār Al-Anwār, Vol. 50, pp. 86 &
 [^87]:

@@ -82,13 +82,9 @@ stage (i.e. the stage of invitation), there is no doubt that one should
 approach through the means of logic, proof and argument, and the text of
 the Qur’an also bears witness to this fact:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
-بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
+> بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
 
 ***Invite to the way of your Lord with wisdom and good advice.
 (16:125)***
@@ -140,12 +136,8 @@ prophets (*‘a*) are “givers of glad tidings” [*mubashshirin*] and
 “warners” [*mundhirin*] and that they have come for “giving glad
 tidings” [*basharah*] and “warning” [*andhar*]:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۖ
-فَمَنْ آمَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۖ
+> فَمَنْ آمَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
 ***We do not send the apostles except as bearers of good news and
 warners. (6:48)***
@@ -179,12 +171,8 @@ is because of this reason that, although “giving glad tidings” and
 “warning” are linked together, the Qur’an lays more stress on the
 element of “warning”:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِنْ مِنْ
-أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
-  </p>
-</blockquote>
+> إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِنْ مِنْ
+> أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
 
 ***Indeed We have sent you with the truth as a bearer of good news and
 as a warner; and there is not a nation but a warner has passed in it.
@@ -207,12 +195,8 @@ must be good and pleasant even if the addressee is a corrupt person like
 the Pharaoh. God said to Musa (Moses) and his brother Harun (Aaron)
 thus:
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ فَقُولَا لَهُ قَوْلًا
-لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ
-  </p>
-</blockquote>
+> اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ فَقُولَا لَهُ قَوْلًا
+> لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ
 
 ***Let the two of you go to Pharaoh. Indeed he has rebelled. Speak to
 him in a soft manner; maybe he will take admonition or fear.
@@ -232,13 +216,9 @@ content, it may have an effect on him.
 In the same verse, after preaching or admonition, debate has been
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
-بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> ۖ وَجَادِلْهُمْ بِالَّتِي هِيَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ
+> بِمَنْ ضَلَّ عَنْ سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
 
 ***Invite to the way of your Lord with wisdom and good advice and
 dispute with them in a manner that is best. (16:125)***
@@ -465,13 +445,9 @@ person is be informed of his criminal act, it cannot be a manifestation
 of “divulging of debauchery”, which in the Islamic law is unlawful and
 forbidden:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
-آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ ۚ وَاللَّهُ
-يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
+> آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ ۚ وَاللَّهُ
+> يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ
 
 ***Indeed those who want indecency to spread among the faithful there is
 a painful punishment for them in the world and the Hereafter. (24:19)***
@@ -496,13 +472,9 @@ have a plot to create trouble, and undermine and overthrow the Islamic
 government, Muslims have no right to commit aggression against them, and
 justice and kindness must be observed in dealing with them:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
-الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
-وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي
+> الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ
+> وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
 
 ***Allah does not forbid you in regard to those who did not make war
 against you on account of religion and did not expel you from you homes
@@ -523,13 +495,9 @@ repulsively, but they must also be attracted.
 However, if they are inimical and they hatch a plot, they must be
 confronted decisively:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ
-وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَنْ
-تَوَلَّوْهُمْ ۚ وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ
+> وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَنْ
+> تَوَلَّوْهُمْ ۚ وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
 
 ***Allah forbids you only in regard to those who made war against you on
 account of religion and expelled you from your homes and supported
@@ -561,13 +529,9 @@ attacked by the army of Islam. Thereafter, if he decides to fight, they
 have to fight with him, and if not, he must be released so that he can
 go wherever he wants:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ
-يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ۚ ذَٰلِكَ
-بِأَنَّهُمْ قَوْمٌ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ
+> يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ۚ ذَٰلِكَ
+> بِأَنَّهُمْ قَوْمٌ لَا يَعْلَمُونَ
 
 ***If any of the polytheists seeks asylum from you, grant him asylum
 until he hears the Word of Allah. Then convey him to his place of
@@ -604,14 +568,10 @@ Yet, after determining the punishment, it must be implemented as
 decisive as possible against the violators. Regarding those who have
 spread corruption and committed debauchery, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
-جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
-كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
+> جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
+> كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
 
 ***As for the fornicatress and the fornicator, strike each of them a
 hundred lashes, and let not pity for them overcome you in Allah’s law,
@@ -644,17 +604,13 @@ boundary in many cases or stated its general ruling. In whatever
 situation, we should not go beyond the limit and boundary at the time of
 resorting to force and violence:
 
-<blockquote dir="rtl">
-  <p>
-الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ
-بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا
-آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ
-اللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا
-جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ
-فَلَا تَعْتَدُوهَا ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ
-هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ
+> بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا
+> آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ
+> اللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا
+> جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ
+> فَلَا تَعْتَدُوهَا ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ
+> هُمُ الظَّالِمُونَ
 
 ***These are Allah’s bounds, so do not transgress them, and whoever
 transgresses the bounds of Allah it is they who are the wrongdoers.
@@ -715,12 +671,8 @@ while by using a different word which connotes the same concept, the
 problem can easily be solved. From the textual perspective, however, the
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا
-انْظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا
+> انْظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ
 
 >
 
@@ -795,22 +747,14 @@ appears in the Qur’an, this claim that the concept of *khushunah* is not
 used in the Qur’an will not be correct. Its synonym which is mentioned
 in the Qur’an is the word *ghilzah* from the root-word “*gh-l-z*”:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَجِدُوا فِيكُمْ غِلْظَةً
-  </p>
-</blockquote>
+> وَلْيَجِدُوا فِيكُمْ غِلْظَةً
 
 ***..And let them find severity [ghilzah] in you. ..(9:123)***
 
 In another place, it says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ
-وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ
+> وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
 
 ***Wage jihad against the faithless and the hypocrites, and be severe
 [wa’ghluz] with them. Their refuge shall be hell. (66:9)***
@@ -818,14 +762,10 @@ In another place, it says:
 This verse is repeated two times in the Qur’an in *Surah at-Tahr*i*m*
 and *Surah at-Tawbah* (or, *Bara‘ah*). Elsewhere, it also says thus:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ
-وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ
-فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ
+> وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ
+> فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ
 
 ***It is by Allah’s mercy that you are gentle to them; and had you been
 harsh and hardhearted, surely they would have scattered from around you.
@@ -833,11 +773,7 @@ harsh and hardhearted, surely they would have scattered from around you.
 
 There is also this verse:
 
-<blockquote dir="rtl">
-  <p>
-… وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ …
-  </p>
-</blockquote>
+> … وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ …
 
 ***Over which are [assigned] angels, severe and mighty. (66:6)***
 
@@ -849,12 +785,8 @@ word *ghilzah* in the Qur’an, it cannot be said that the concept of
 the concept of *rahmah* “mercy” has also been mentioned in opposition to
 the concept of “hardness” or “severity” [*shiddah*]:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
-الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ …
-  </p>
-</blockquote>
+> مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
+> الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ …
 
 ***Muhammad, the Apostle of Allah, and those who are with him are hard
 against the faithless and merciful among themselves. (48:29)***
@@ -864,11 +796,7 @@ Talking about the traditions, we have to say that the root-word
 treated as a virtue. For example, the Commander of the Faithful Imam
 ‘Ali (*‘a*) has been reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-خَشِنٌ فِي ذَاتِ اللهِ.
-  </p>
-</blockquote>
+> خَشِنٌ فِي ذَاتِ اللهِ.
 
 “He was severe for the sake of Allah.”[^3]
 
@@ -976,14 +904,10 @@ merely for the sake of the Declaration.
 
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
-جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
-كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
+> جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
+> كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
 
 ***As for the fornicatress and the fornicator, strike each of them a
 hundred lashes, and let not pity for them overcome you in Allah’s law,
@@ -1002,11 +926,7 @@ Rights and defend it.
 
 Again, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً
-  </p>
-</blockquote>
+> وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً
 
 ***As for the thief, man and woman, cut off their hands as a requital
 for what they have earned. (5:38)***
@@ -1017,12 +937,8 @@ or the Universal Declaration of Human Rights.
 
 In the same vein, the view of the Qur’an is this:
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
-تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
+> تَتَّقُونَ
 
 ***There is life for you in retribution, O you who possess intellects!
 Maybe you will be God-wary! (2:179)***
@@ -1046,11 +962,7 @@ Qur’an has considered them necessary and obligatory. While addressing
 the Muslims, the Qur’an says that they should be like this with respect
 to the infidels:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَجِدُوا فِيكُمْ غِلْظَةً
-  </p>
-</blockquote>
+> وَلْيَجِدُوا فِيكُمْ غِلْظَةً
 
 ***And let them find severity in you. (9:123)***
 
@@ -1062,12 +974,8 @@ wrong, they will not pity me.” But if we really accept the Qur’an and
 that we are Muslims, we have to say that these things exist in Islam and
 the Qur’an, and with respect to them, we are not afraid of anybody:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ وَيَخْشَوْنَهُ وَلَا
-يَخْشَوْنَ أَحَدًا إِلَّا اللَّهَ ۗ وَكَفَىٰ بِاللَّهِ حَسِيبًا
-  </p>
-</blockquote>
+> الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ وَيَخْشَوْنَهُ وَلَا
+> يَخْشَوْنَ أَحَدًا إِلَّا اللَّهَ ۗ وَكَفَىٰ بِاللَّهِ حَسِيبًا
 
 ***Such as deliver the messages of Allah and fear Him, and fear no one
 except Allah. (33:39)***
@@ -1079,11 +987,7 @@ courage to engage in this venture. Those who can take a step along this
 way are the ones who are not afraid of the reproaches and censures of
 both the friends and foes:
 
-<blockquote dir="rtl">
-  <p>
-يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ
-  </p>
-</blockquote>
+> يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ
 
 ***They wage jihad in the way of Allah, not fearing the blame of any
 blamer. (5:54**)*
@@ -1097,15 +1001,11 @@ accept some of the laws and decrees of Islam and the Qur’an and reject
 some others. To have faith in some while denying some others is true
 unbelief:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا
-لِلْكَافِرِينَ عَذَابًا مُهِينًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا
+> لِلْكَافِرِينَ عَذَابًا مُهِينًا
 
 ***Those who… say, ‘We believe in some and disbelieve in some’ and seek
 to take a way in between it is they who are truly faithless.
@@ -1122,12 +1022,8 @@ religion, and also to be repulsive of them both in words and deeds. In
 this regard, the Qur’an says that the action of Prophet Abraham (*‘a*)
 should be a pattern of behavior:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
-مَعَهُ
-  </p>
-</blockquote>
+> قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
+> مَعَهُ
 
 ***There is certainly a good exemplar for you in Abraham and those who
 are with him. (60:4)***
@@ -1136,12 +1032,8 @@ What is the act of Ibrahim (*‘a*) and his followers because of which we
 have to cling to them? The reply is mentioned in the continuation of the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ
-مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ
-  </p>
-</blockquote>
+> إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ
+> مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ
 
 ***When they said to their people, ‘Indeed we repudiate you and whatever
 you worship besides Allah. We disavow you. (60:4)***
@@ -1156,12 +1048,8 @@ should decisively say, “No way for the idol!” The verse continues to say
 that you should not suffice yourselves with it; rather, you should
 enhance your reaction and the severity of your statement and say thus:
 
-<blockquote dir="rtl">
-  <p>
-وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا
-حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ
-  </p>
-</blockquote>
+> وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا
+> حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ
 
 ***And between you and us there has appeared enmity and hate forever,
 unless you come to have faith in Allah alone. (60:4)***
@@ -1177,11 +1065,7 @@ continuation of the verse. It states that you have to follow Ibrahim and
 emulate his works with one exemption. Ibrahim did something that you are
 not supposed to emulate:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ
-  </p>
-</blockquote>
+> إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ
 
 ***Except for Abraham’s saying to his [step]father, ‘I will surely plead
 forgiveness for you. (60:4)***
@@ -1207,23 +1091,15 @@ and execution of the murderer.
 Thus, notwithstanding the Universal Declaration of Human Rights, we have
 to accept those verses. If there is this verse in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-  </p>
-</blockquote>
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
 
 ***“Invite to the way of your Lord with wisdom and good advice,***
 **(16:125)*****”***
 
 There is also this verse in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ
-لِلَّهِ
-  </p>
-</blockquote>
+> وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ
+> لِلَّهِ
 
 ***“Fight them until faithlessness is no more*** **(8:39)*****”***
 
@@ -1233,11 +1109,7 @@ recognize Him to be “severe in punishment.” We cannot say, “Approve!”
 where the Qur’an says that God is the Most merciful of all the merciful,
 while we say, “This is harshness and I do not accept it,” where it says,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 **“*****He is severe in punishment.*** **(5:2)”**
 
@@ -1407,12 +1279,8 @@ bit of doubt in declining their proposal; not that he would accept it,
 rather he wanted to decline it but in the bottom of his heart a very
 small amount of inclination was about to appear:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
-قَلِيلًا
-  </p>
-</blockquote>
+> وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
+> قَلِيلًا
 
 ***Had We not fortified you, certainly you might have inclined toward
 them a bit. (17:74)***
@@ -1420,12 +1288,8 @@ them a bit. (17:74)***
 Had he inclined toward them, what would have happened? The reply is very
 severe in tone:
 
-<blockquote dir="rtl">
-  <p>
-إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا
-تَجِدُ لَكَ عَلَيْنَا نَصِيرًا
-  </p>
-</blockquote>
+> إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا
+> تَجِدُ لَكَ عَلَيْنَا نَصِيرًا
 
 ***Then We would have surely made you taste a double [punishment] in
 this life and a double [punishment] after death, and then you would not
@@ -1473,5 +1337,4 @@ treatment or punishment.” [Trans.]
 
 [^8]: Ta’if: a city in the southern part of Hijaz (modern Saudi Arabia),
 40 miles east of Mecca. [Trans.]
-
 

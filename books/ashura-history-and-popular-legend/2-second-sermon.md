@@ -24,7 +24,6 @@ sacred document. Tonight we will discuss the general factors responsible
 for tahrif. Thereafter our discussion will focus on tahrif in the
 content and significance of this event.
 
-
 **The Factors of Tahrif**
 
 These factors are of two kinds, one of which are of a general nature.
@@ -68,9 +67,7 @@ bring about any misrepresentation in [the history of] the event of
 Karbala'. Most regrettably, whatever tahrif has occurred in the event of
 Karbala' has been at the hands of the friends.
 
-
 **The Second Factor**
-
 
 The second factor is the human tendency towards myth-making and for
 turning facts into legends. This tendency has been at work in all the
@@ -190,7 +187,6 @@ We have a duty here. Now let anyone say anything he likes about Herat.
 But is it right that such legends as these should find way into the
 history of the event of Ashura', an event concerning which our duty is
 to keep it alive and revive its memory every year?
-
 
 **The Third Factor**
 
@@ -766,5 +762,4 @@ Kirmanshah where he wielded great influence.
 29 Ibid.
 
 30 Muntaha al-amal, i, p. 386.
-
 

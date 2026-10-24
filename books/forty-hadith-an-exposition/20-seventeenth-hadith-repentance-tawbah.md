@@ -1,22 +1,18 @@
 Seventeenth Hadith: Repentance (Tawbah)
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلى الإمَامِ الأَقْدَمِ حُجَّةِ الفِرْقَةِ
-وَرَئِيسِ الأُمَّةِ مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِيِّ رَحِمَهُ
-اللهُ عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ
-عِيسَى، عَنِ الحَسَنِ بْنِ مَحْبُوبٍ، عَنْ مُعَاوِيَةَ بْنِ وَهَبٍ
-قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: إذَا
-تَابَ العَبْدُ تَوْبَةً نَصُوحاً أَحَبَّهُ اللهُ فَسَتَرَ عَلَيْهِ فِي
-الدُّنْيَا وَالآخِرَةِ. فَقُلْتُ: وَكَيْفَ يَسْتُرُ عَلَيْهِ؟ قَالَ:
-يُنْسِي مَلَكَيْهِ مَا كَتَبَا عَلَيْهِ مِنَ الذُّنُوبِ وَيُوحِي إلى
-جَوَارِحِهِ: إكْتُمِي عَلَيْهِ ذُنُوبَهُ وَيُوحِي إلى بِقَاعِ الأَرْضِ
-اكْتُمِي مَا كَانَ يَعْمَلُ عَلَيْكِ مِنَ الذُّنُوبِ. فَيَلْقَى اللهَ
-حِينَ يَلْقَاهُ وَلَيْسَ شَيْءٌ يَشْهَدُ عَلَيْهِ بِشَيْءٍ مِنَ
-الذُّنُوبِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلى الإمَامِ الأَقْدَمِ حُجَّةِ الفِرْقَةِ
+> وَرَئِيسِ الأُمَّةِ مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِيِّ رَحِمَهُ
+> اللهُ عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ
+> عِيسَى، عَنِ الحَسَنِ بْنِ مَحْبُوبٍ، عَنْ مُعَاوِيَةَ بْنِ وَهَبٍ
+> قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: إذَا
+> تَابَ العَبْدُ تَوْبَةً نَصُوحاً أَحَبَّهُ اللهُ فَسَتَرَ عَلَيْهِ فِي
+> الدُّنْيَا وَالآخِرَةِ. فَقُلْتُ: وَكَيْفَ يَسْتُرُ عَلَيْهِ؟ قَالَ:
+> يُنْسِي مَلَكَيْهِ مَا كَتَبَا عَلَيْهِ مِنَ الذُّنُوبِ وَيُوحِي إلى
+> جَوَارِحِهِ: إكْتُمِي عَلَيْهِ ذُنُوبَهُ وَيُوحِي إلى بِقَاعِ الأَرْضِ
+> اكْتُمِي مَا كَانَ يَعْمَلُ عَلَيْكِ مِنَ الذُّنُوبِ. فَيَلْقَى اللهَ
+> حِينَ يَلْقَاهُ وَلَيْسَ شَيْءٌ يَشْهَدُ عَلَيْهِ بِشَيْءٍ مِنَ
+> الذُّنُوبِ.
 
 With a continuous chain of transmission reaching the pioneering leader,
 a proof of the sect and a chief of the ummah, Muhammad ibn Ya’qub
@@ -64,11 +60,7 @@ light of original nature and its essential spirituality. In other words,
 it becomes again like a tablet devoid of virtues and vices., as
 mentioned in the famous *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لا ذَنْبَ لَهُ.
-  </p>
-</blockquote>
+> التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لا ذَنْبَ لَهُ.
 
 One who repents from sin is like one who has not sinned.[^2]
 
@@ -97,11 +89,7 @@ from day to day and from one month to another, telling himself, “I will
 make a sound repentance at the end of my life and in old age,”
 forgetting that this is a Divine stratagem:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاللَّهُ خَيْرُ الْمَاكِرِينَ.﴾
-  </p>
-</blockquote>
+> ﴿وَاللَّهُ خَيْرُ الْمَاكِرِينَ.﴾
 
 ***And God is the best of devisers.*** (***3:54***)
 
@@ -242,11 +230,7 @@ If these two essential conditions are realized, the task of the wayfarer
 of the Hereafter becomes easier. God’s graceful succor becomes his lot,
 and, in accordance with the explicit meaning of the holy verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ.﴾
 
 ***Verily God loves the repentant,*** (***2:222***)
 
@@ -277,11 +261,7 @@ for our shamelessness. What are we to deserve Your mercy? Yet Your mercy
 is more abundant and Your bounties are more inclusive than can be
 described. Indeed.
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.
-  </p>
-</blockquote>
+> أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.
 
 You are as You have praised Yourself.[^3]
 
@@ -291,11 +271,7 @@ is, through meditation about the terrible consequences of sin, remorse
 becomes stronger in his heart, thereby voluntarily kindling the holy
 fire, the fire of which the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿نَارُ اللَّهِ الْمُوقَدَةُ. الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ.﴾
-  </p>
-</blockquote>
+> ﴿نَارُ اللَّهِ الْمُوقَدَةُ. الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ.﴾
 
 *The fire of God kindled, roaring over the hearts covered down upon
 them, in columns outstretched.*[^4]
@@ -328,23 +304,19 @@ shall mention the noble utterance of Hadrat *Mawla* al-Mawali, ‘Ali ibn
 Abi Talib (A), for, in fact, it is the essence of wisdom, being of the
 order of ‘speech of kings and king of speech’:
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ فِي نَهْجِ البَلاغَةِ أنَّ قائلاً قَالَ بِحَضْرَتِهِ:
-أَسْتَغْفِرُ اللهَ. فَقَالَ لَهُ: ثَكَلَتْكَ أُمُّكَ أَتَدْرِي مَا
-الإسْتِغْفَارُ؟ الإسْتِغْفَارُ دَرَجَةُ العِلِّيِّينَ. وَهُوَ اسْمٌ
-وَاقِعٌ عَلَى سِتَّةِ مَعَانٍ: أَوَّلُهَا النَّدَمُ عَلَى مَا مَضَى.
-وَالثَّانِي العَزْمُ عَلَى تَرْكِ العَوْدِ إلَيْهِ أَبَداً.
-والثَّالِثُ أَنْ تُؤَدِّيَ إلَى المَخْلُوقِينَ حُقُوقَهُمْ حَتَّى
-تَلْقَى اللهَ أَمْلَسَ لَيْسَ عَلَيْكَ تَبِعَةٌ. وَالرَّابِعُ أنْ
-تَعْمَدَ إلَى كُلِّ فَرِيضَةٍ عَلَيْكَ ضَيَّعْتَهَا فَتُؤَدِّيَ
-حَقَّهَا. والخَامِسُ أَنْ تَعْمَدَ إلَى اللَّحْمِ الَّذِي نَبُتَ عَلَى
-السُّحْتِ فَتُذِيبُهُ بِالأحْزَانِ حَتَّى تُلْصِقَ الجِلْدَ بِالعَظْمِ
-وَيَنْشَأَ بَيْنَهُمَا لَحْمٌ جَدِيدٌ. وَالسَّادِسُ أَنْ تُذِيقَ
-الجِسْمَ أَلَمَ الطَّاعَةِ كَمَا أَذَقْتَهُ حَلاوَةَ المَعْصِيَةِ
-فَعِنْدَ ذَلِكَ تَقُولُ أَسْتَغْفِرُ اللهَ.
-  </p>
-</blockquote>
+> رُوِيَ فِي نَهْجِ البَلاغَةِ أنَّ قائلاً قَالَ بِحَضْرَتِهِ:
+> أَسْتَغْفِرُ اللهَ. فَقَالَ لَهُ: ثَكَلَتْكَ أُمُّكَ أَتَدْرِي مَا
+> الإسْتِغْفَارُ؟ الإسْتِغْفَارُ دَرَجَةُ العِلِّيِّينَ. وَهُوَ اسْمٌ
+> وَاقِعٌ عَلَى سِتَّةِ مَعَانٍ: أَوَّلُهَا النَّدَمُ عَلَى مَا مَضَى.
+> وَالثَّانِي العَزْمُ عَلَى تَرْكِ العَوْدِ إلَيْهِ أَبَداً.
+> والثَّالِثُ أَنْ تُؤَدِّيَ إلَى المَخْلُوقِينَ حُقُوقَهُمْ حَتَّى
+> تَلْقَى اللهَ أَمْلَسَ لَيْسَ عَلَيْكَ تَبِعَةٌ. وَالرَّابِعُ أنْ
+> تَعْمَدَ إلَى كُلِّ فَرِيضَةٍ عَلَيْكَ ضَيَّعْتَهَا فَتُؤَدِّيَ
+> حَقَّهَا. والخَامِسُ أَنْ تَعْمَدَ إلَى اللَّحْمِ الَّذِي نَبُتَ عَلَى
+> السُّحْتِ فَتُذِيبُهُ بِالأحْزَانِ حَتَّى تُلْصِقَ الجِلْدَ بِالعَظْمِ
+> وَيَنْشَأَ بَيْنَهُمَا لَحْمٌ جَدِيدٌ. وَالسَّادِسُ أَنْ تُذِيقَ
+> الجِسْمَ أَلَمَ الطَّاعَةِ كَمَا أَذَقْتَهُ حَلاوَةَ المَعْصِيَةِ
+> فَعِنْدَ ذَلِكَ تَقُولُ أَسْتَغْفِرُ اللهَ.
 
 It is narrated by al Sayyid al Radi (R) in the Nahj al balaghah that
 some said ‘Astaghfirullah (I seek God’s forgiveness) before ‘Ali (A).
@@ -532,11 +504,7 @@ of offences, the time and the place of its commission, as well his own
 bodily members and organs, and makes them forget it, as pointed out in
 the noble tradition which says:
 
-<blockquote dir="rtl">
-  <p>
-يُنْسِي مَلَكَيْهِ مَا كَتَبَا عَلَيْهِ مِنَ الذُّنُوبِ.
-  </p>
-</blockquote>
+> يُنْسِي مَلَكَيْهِ مَا كَتَبَا عَلَيْهِ مِنَ الذُّنُوبِ.
 
 He makes His two angels forget that which they have recorded of his
 sins.
@@ -639,12 +607,8 @@ the descendence of the light of the perfect beauty of the Deity has a
 special relation with the One, through which it has the secret gnosis of
 the Lord, as stated in the noble verse.
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا مِنْ دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي عَلَى
-صِرَاطٍ مُسْتَقِيمٍ.﴾
-  </p>
-</blockquote>
+> ﴿مَا مِنْ دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي عَلَى
+> صِرَاطٍ مُسْتَقِيمٍ.﴾
 
 ***There is no creature that crawls, but He takes it by the forelock.***
 (***11:56***)
@@ -665,5 +629,4 @@ al-tawbah, hadith No. 1.
 
 [^5]: Nahj al-balaghah, ed. Subhi al-Salih, Beirut 1387(1967), p.549,
 Hikam, No. 417.
-
 

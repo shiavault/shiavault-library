@@ -122,4 +122,3 @@ in *Nahjul Balagha* (wise saying number 253 of the original Arabic text;
 all present English translations of this great book fall short of doing
 justice to its original text).
 
-

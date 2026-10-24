@@ -428,4 +428,3 @@ cannot give any opportunity to perverted appointees and removes them as
 soon as he finds them to be inefficient. And is there any virtue greater
 than this?
 
-

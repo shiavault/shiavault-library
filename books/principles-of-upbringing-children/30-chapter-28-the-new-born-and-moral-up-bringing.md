@@ -77,4 +77,3 @@ unruly and quarrelsome.
 
 [^2]: Bihar al-anwar, v 104, p. 103
 
-

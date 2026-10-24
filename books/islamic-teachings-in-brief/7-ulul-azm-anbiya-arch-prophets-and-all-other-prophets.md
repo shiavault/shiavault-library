@@ -221,4 +221,3 @@ by Luke, Mark, Matthew, and John are formally recognized by Christians.
 
 [^1]: In Egypt, kings were called "Pharaohs".
 
-

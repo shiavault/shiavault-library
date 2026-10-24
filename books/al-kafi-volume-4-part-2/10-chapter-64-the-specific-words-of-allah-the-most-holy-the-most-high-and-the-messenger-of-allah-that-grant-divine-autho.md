@@ -439,4 +439,3 @@ is also clear that this written knowledge is precisly what was mentioned
 in the ahidith in chapter 40, which concerned such things as the scroll
 (mu~haf) of Fatimah, peace be upon her.
 
-

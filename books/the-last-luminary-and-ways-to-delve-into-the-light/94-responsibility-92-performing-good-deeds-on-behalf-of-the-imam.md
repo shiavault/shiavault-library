@@ -17,13 +17,9 @@ of proxy (for one who is alive).
 The narrator of the following tradition said that he asked Imam Musa b.
 Ja’far al-Kadhim (as):
 
-<blockquote dir="rtl">
-  <p>
-أَحُجُّ وَ أُصَلِّـي وَ أَتَصَدَّقُ عَنِ الأَحْيَاءِ وَ الأَمْوَاتِ
-مِنْ قَرَابَـتِـي وَ أَصْحَابِــي؟ قَالَ: نَعَمْ، صَدِّقْ عَنْهُ وَ
-صَلِّ عَنْهُ وَ لَكَ أَجْرٌ (آخِرٌ) بِصِلَتِكَ إِيَّاهُ
-  </p>
-</blockquote>
+> أَحُجُّ وَ أُصَلِّـي وَ أَتَصَدَّقُ عَنِ الأَحْيَاءِ وَ الأَمْوَاتِ
+> مِنْ قَرَابَـتِـي وَ أَصْحَابِــي؟ قَالَ: نَعَمْ، صَدِّقْ عَنْهُ وَ
+> صَلِّ عَنْهُ وَ لَكَ أَجْرٌ (آخِرٌ) بِصِلَتِكَ إِيَّاهُ
 
 “Can I perform the Hajj and the Salat and give Sadaqah for the living
 and deceased from among my close family and friends?” He replied: “Yes,
@@ -76,23 +72,15 @@ reward and recompense is he given?”
 
 The Imam replied:
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِي يَحُجُّ عَنْ رَجُلٍ أَجْرُ وَ ثَوَابُ عَشْرِ حِجَجٍ
-  </p>
-</blockquote>
+> لِلَّذِي يَحُجُّ عَنْ رَجُلٍ أَجْرُ وَ ثَوَابُ عَشْرِ حِجَجٍ
 
 “For a person who performs the Hajj on behalf of another person there is
 a reward and recompense equal to the performance of ten Hajj.”[^2]
 
 In another tradition, Imam Ja’far b. Muhammad as-Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَشْرَكْتَ أَلْفاً فِي حَجَّتِكَ لَكَانَ لِكُلِّ وَاحِدٍ حَجَّةٌ
-مِنْ غَيْرِ أَنْ تَنْقُصَ حَجَّتُـُكَ شَيْئاً
-  </p>
-</blockquote>
+> لَوْ أَشْرَكْتَ أَلْفاً فِي حَجَّتِكَ لَكَانَ لِكُلِّ وَاحِدٍ حَجَّةٌ
+> مِنْ غَيْرِ أَنْ تَنْقُصَ حَجَّتُـُكَ شَيْئاً
 
 “If you were to make a thousand people partners in the reward for your
 Hajj, then for each and every one of them, there will be a reward for
@@ -100,29 +88,21 @@ performing one Hajj, with no reduction in the reward of your Hajj!”[^3]
 
 Imam Musa b. Ja’far al-Kadhim (as) said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَتَيْتَ قَبْرَ النَّبِــيِّ  فَقَضَيْتَ مَا يَجِبُ عَلَيْكَ،
-فَصَلِّ رَكْعَتَينِ ثُمَّ قِفْ عِنْدَ رَأْسِ النَّبِـيِّ  ثُمَّ قُلْ:
-أَلسَّلاَمُ عَلَيْكَ يَا نَبِـيَّ اللٌّهِ مِنْ أَبِي وَ أُمِّي وَ
-زَوْجَتِـي وَ وُلْدِي وَ جَمِيعِ حَامَّــتِـي وَ مِنْ جَمِيعِ أَهْلِ
-بَلَدِي، حُرِّهِمْ وَ عَبْدِهِمْ، وَ أَبْيَضِهِمْ وَ أَسْوَدِهِمْ
-فَلاَ تَشَاءُ أَنْ تَقُولَ لِلرَّجُلِ: إِنِّـي أَقْرَأْتُ رَسُولَ
-اللٌّهِ عَنْكَ السَّلاَمَ إِلاَّ كُنْتَ صَادِقاً
-  </p>
-</blockquote>
+> فَإِذَا أَتَيْتَ قَبْرَ النَّبِــيِّ  فَقَضَيْتَ مَا يَجِبُ عَلَيْكَ،
+> فَصَلِّ رَكْعَتَينِ ثُمَّ قِفْ عِنْدَ رَأْسِ النَّبِـيِّ  ثُمَّ قُلْ:
+> أَلسَّلاَمُ عَلَيْكَ يَا نَبِـيَّ اللٌّهِ مِنْ أَبِي وَ أُمِّي وَ
+> زَوْجَتِـي وَ وُلْدِي وَ جَمِيعِ حَامَّــتِـي وَ مِنْ جَمِيعِ أَهْلِ
+> بَلَدِي، حُرِّهِمْ وَ عَبْدِهِمْ، وَ أَبْيَضِهِمْ وَ أَسْوَدِهِمْ
+> فَلاَ تَشَاءُ أَنْ تَقُولَ لِلرَّجُلِ: إِنِّـي أَقْرَأْتُ رَسُولَ
+> اللٌّهِ عَنْكَ السَّلاَمَ إِلاَّ كُنْتَ صَادِقاً
 
 “When you come to the grave of the Prophet (saws), and after performing
 that which is obligatory upon you (the Ziyarat rites) then perform a two
 rak’at Salat. Then, stand near the head of the Prophet (saws) and say:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا نَبِـيَّ اللهِ مِنْ أَبِـي وَ أُمِّي وَ
-زَوْجَتِـي وَ وُلْدِي وَ جَمِيعِ حَامَّــتِي وَ مِنْ جَمِيعِ أَهْلِ
-بَلَدِي، حُرِّهِمْ وَ عَبْدِهِمْ، وَ أَبْيَضِهِمْ وَ أَسْوَدِهِمْ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا نَبِـيَّ اللهِ مِنْ أَبِـي وَ أُمِّي وَ
+> زَوْجَتِـي وَ وُلْدِي وَ جَمِيعِ حَامَّــتِي وَ مِنْ جَمِيعِ أَهْلِ
+> بَلَدِي، حُرِّهِمْ وَ عَبْدِهِمْ، وَ أَبْيَضِهِمْ وَ أَسْوَدِهِمْ
 
 “Peace be upon you, O’ Prophet of Allah, from my father, mother, wife,
 children, all of my friends and everyone in my city the free and the
@@ -147,5 +127,4 @@ difference); Biharul Anwar, vol. 88, pg. 310, no. 3
 [^3]: Ibid., vol. 4, pg. 317, no. 10
 
 [^4]: al-Kafi, vol. 4, pg. 316, no. 8
-
 

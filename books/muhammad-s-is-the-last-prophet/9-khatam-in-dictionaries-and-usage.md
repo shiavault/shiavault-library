@@ -260,4 +260,3 @@ because he was "The Last *Muhajir".*
 
 [^1]: printed at Nawal Kishore Press, Lahore, 2nd Edition, p. 25.
 
-

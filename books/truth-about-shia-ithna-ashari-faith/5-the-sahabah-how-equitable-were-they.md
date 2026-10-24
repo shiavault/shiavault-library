@@ -480,4 +480,3 @@ chapter about the Prophet (ṣ) marrying Khadīja and her distinctions.
 
 [^17]: Refer to Mustadrak al-Sahihayn.
 
-

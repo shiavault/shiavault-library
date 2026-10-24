@@ -24,4 +24,3 @@ covetousness which incites him!”*
 He (a.s.) also said: *“Seek for the survival of your honour through the
 killing of covetousness.”*
 
-

@@ -35,4 +35,3 @@ Hussain (Q) he sent the head of Oubayd Allah Bin Zeiad and the head of
 Amro Bin Saad with his messenger to Ali Bin Al-Hussain (Q). When Ali Bin
 Al-Hussain (Q)
 
-

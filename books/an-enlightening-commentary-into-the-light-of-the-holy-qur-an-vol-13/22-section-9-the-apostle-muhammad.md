@@ -4,12 +4,8 @@ Section 9: The Apostle (Muhammad)
 Surah Al-Qasas - Verse 83
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ الاَخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
-عُلُوّاً فِي الاَرْضِ وَلاَ فَسَاداً وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> تِلْكَ الدَّارُ الاَخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
+> عُلُوّاً فِي الاَرْضِ وَلاَ فَسَاداً وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 ***83. “That abode of the Hereafter, we assign it for those who do not
 intend to exalt themselves in the earth nor (to make) mischief and the
@@ -143,13 +139,9 @@ and it is difficult to gain the good abode of Hereafter.[^9]
 Surah Al-Qasas - Verse 84
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَمَن جَآءَ
-بِالسَّيّـِئَةِ فَلاَ يُجْزَي الَّذِينَ عَمِلُوا السَّيّـِئاتِ إِلاَّ
-مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَمَن جَآءَ
+> بِالسَّيّـِئَةِ فَلاَ يُجْزَي الَّذِينَ عَمِلُوا السَّيّـِئاتِ إِلاَّ
+> مَا كَانُوا يَعْمَلُونَ
 
 ***84. “Whoever brings good, he shall have (reward) better than it, and
 whoever brings evil, then those who commit misdeeds shall not be
@@ -204,13 +196,9 @@ sinners and will torture them.
 Surah Al-Qasas - Verse 85
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْءَانَ لَرَآدُّكَ إِلَي مَعَادٍ
-قُل رَبّـِي أَعْلَمُ مَن جَآءَ بِالْهُدَي وَمَنْ هُوَ فِي ضَلاَلٍ
-مُبِينٍ
-  </p>
-</blockquote>
+> إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْءَانَ لَرَآدُّكَ إِلَي مَعَادٍ
+> قُل رَبّـِي أَعْلَمُ مَن جَآءَ بِالْهُدَي وَمَنْ هُوَ فِي ضَلاَلٍ
+> مُبِينٍ
 
 ***85. “Verily He Who has (revealed and) ordained the Qur’an unto you
 will bring you back to the destination. Say: ‘My Lord knows best him who
@@ -375,12 +363,8 @@ Thuwiyyah is the name of a province in the suburb of Kufah.[^15]
 Surah Al-Qasas - Verse 86
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنْتَ تَرْجُوا أَن يُلْقَي إِلَيْكَ الْكِتَابُ إِلاَّ رَحْمَةً
-مِن رَبّـِكَ فَلاَ تَكُونَنَّ ظَهِيراً لِلْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَا كُنْتَ تَرْجُوا أَن يُلْقَي إِلَيْكَ الْكِتَابُ إِلاَّ رَحْمَةً
+> مِن رَبّـِكَ فَلاَ تَكُونَنَّ ظَهِيراً لِلْكَافِرِينَ
 
 ***86. “And you did not hope that the Book should be cast unto you,
 except it be a mercy from your Lord, therefore be not a supporter of the
@@ -429,12 +413,8 @@ a supporter of the guilty’.”***[^16]
 Surah Al-Qasas - Verse 87
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَصُدُّنَّكَ عَنْ ءَايَاتِ اللَّهِ بَعْدَ إِذْ اُنزِلَتْ إِلَيْكَ
-وَادْعُ إِلَي رَبّـِكَ وَلا تُكُونَنَّ مِنَ المُشْرِكِينَ
-  </p>
-</blockquote>
+> وَلا يَصُدُّنَّكَ عَنْ ءَايَاتِ اللَّهِ بَعْدَ إِذْ اُنزِلَتْ إِلَيْكَ
+> وَادْعُ إِلَي رَبّـِكَ وَلا تُكُونَنَّ مِنَ المُشْرِكِينَ
 
 ***87. “And let them not turn you away from the signs of Allah after
 they have been sent down unto you, and invite (mankind) unto your Lord,
@@ -496,12 +476,8 @@ clear and those who pave it are on the straight way.
 Surah Al-Qasas - Verse 88
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَدْعُ مَعَ اللَّهِ إِلهاً ءَاخَرَ لآ إِلَهَ إِلاَّ هُوَ كُلُّ
-شَيْءٍ هَالِكٌ إِلاَّ وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَلا تَدْعُ مَعَ اللَّهِ إِلهاً ءَاخَرَ لآ إِلَهَ إِلاَّ هُوَ كُلُّ
+> شَيْءٍ هَالِكٌ إِلاَّ وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
 
 ***88. “And do not call upon another god with Allah, there is no god but
 He. Every thing is perishable but He. He is the Authority and unto Him
@@ -776,5 +752,4 @@ taken from Majma‘-ul-Bayan
 [^18]: Surah Az-Zumar, No. 39, verse 68
 
 [^19]: Tauhid-i-Saduq, P. 117
-
 

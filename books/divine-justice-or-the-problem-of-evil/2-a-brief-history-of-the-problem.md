@@ -45,4 +45,3 @@ eat the apple, and although sin inevitably brought punishment."
 (Bertrand Russell, History of Western Philosophy, London, George Allen &
 Unwin Ltd., 1974, page 570).
 
-

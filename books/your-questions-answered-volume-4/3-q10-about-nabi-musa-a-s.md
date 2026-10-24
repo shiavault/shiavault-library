@@ -256,4 +256,3 @@ scholars themselves say that one of the narrators of this 'tradition'
 was unreliable and confusion was worse confounded in his books how do
 they expect the Shi'as to believe in such a spurious "hadith"?
 
-

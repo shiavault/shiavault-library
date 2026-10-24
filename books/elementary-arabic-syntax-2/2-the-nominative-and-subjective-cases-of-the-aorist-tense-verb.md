@@ -37,4 +37,3 @@ conditions:
 For example: **اِحترم** **رئیسک** **إذن** **یُکرِمَک** (Respect your
 boss so that he will be generous to you.)
 
-

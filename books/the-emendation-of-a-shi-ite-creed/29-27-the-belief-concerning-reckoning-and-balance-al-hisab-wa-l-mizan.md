@@ -58,4 +58,3 @@ interpreted) according to the limited perception of vain minds.
 vol.6, p.270;ar-Razi, at-Tafsir, vol.2, p.220; al-Jurjani, Sharhu
 'l-mawaqif, vol.2, p.488.
 
-

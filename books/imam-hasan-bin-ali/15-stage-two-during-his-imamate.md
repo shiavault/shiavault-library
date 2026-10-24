@@ -67,12 +67,8 @@ kept away from uncleanness and totally purified them. I am from a
 household whose love Allah made an obligation on every Muslim. Allah,
 the Blessed and the Most High, said to His Prophet:
 
-<blockquote dir="rtl">
-  <p>
- قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+>  قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***'...say: I do not ask of you any reward for it but love for my near
 relatives;...'“ Holy Qur'an (42:23)***
@@ -321,5 +317,4 @@ al-Balaghah), 1962 ed., vol.16, p.37.
 [^12]: See footnotes of Hayat al-Imam Hasan, vol.2, p.72 and 1965 ed.,
 quoted from al-Kharayij wa al-Jarayih, p.228, and Sharh Nahj
 al-Balaghah, vol.16, p.40.
-
 

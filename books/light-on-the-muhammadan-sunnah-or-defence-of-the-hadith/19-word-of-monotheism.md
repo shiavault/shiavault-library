@@ -1,12 +1,6 @@
 Word of Monotheism:
 ===================
 
-  
-  
-  
-  
-  
-
 The same belief held by these Imams regarding sending of benediction
 
 on the Prophet, is also held in respect of word of tawhid (No god is
@@ -20,7 +14,7 @@ that which is out of our topic of discussion.
 
 The faqih traditionist Rashid Rida (may God’s mercy be upon him), in his
 discussion on traditions of the “ashrat al-sa’ah” (conditions of the
-hour), said in his Tafsir: <span id="_anchor_138"></span>138
+hour), said in his Tafsir: 138
 
 “Undoubtedly, most of the traditions were narrated by meaning as is
 commonly known and agreed by the ulama’. Its evidence can be obviously
@@ -37,7 +31,7 @@ according to extent of comprehension of narrators?
 
 When his opinion was sought once about that who said: No more than 12 or
 14 traditions were confirmed and proved to be uttered by the Prophet, he
-replied: <span id="_anchor_139"></span>139  This claim is incorrect, and
+replied: 139  This claim is incorrect, and
 no one has uttered such words. But this or lower than in being among the
 traditions whose words have successively reached us.
 
@@ -65,7 +59,7 @@ Harun, I came across in page 322 of it the following:
 and three others showing leniency (in regard of maghani – i.e. songs).
 Those showing leniency are: al-Hasan, al-Shi’bi and al-Nakha’i whereas
 those showing strictness being: Muhammad ibn Sirin, al-Qasim ibn
-Muhammad and Raja’ ibn Hayat. <span id="_anchor_140"></span>140
+Muhammad and Raja’ ibn Hayat. 140
 
 Al-Ustadh Harun has taken hearing in this report to mean hearing of
 songs! Preferring to use the non-Arab word maghani he found in some
@@ -100,7 +94,7 @@ practice. Concerning the Tabi’an, some of them were so strict in regard
 of narrating the hadith with its original words, such as Muhammad ibn
 Sirin, al-Qasim ibn Muhammad and Raja’ ibn Hayat. Whereas some others
 were showing leniency in this respect, like al-Hasan, al-Shi’bi and
-al-Nakha’i. <span id="_anchor_141"></span>141  Hence Ibn Awn uttered the
+al-Nakha’i. 141  Hence Ibn Awn uttered the
 above-mentioned statement, that was reported by al-Jahiz, and
 misunderstood by al-Ustadh Abd al-Salam Harun.
 

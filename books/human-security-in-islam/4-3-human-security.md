@@ -120,4 +120,3 @@ in SE Asia” (AFES Press2007).
 
 ![](http://alhassanain.org/english/books/0824-human_security_in_islam/images/image002.jpg)
 
-

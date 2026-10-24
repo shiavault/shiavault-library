@@ -639,4 +639,3 @@ pp10,61, Mulhaqt Ihqaq al haqq, v11, pp 256-279
 Farvardin 1348 (March-April 1969)
 5 al Masudi, Muruj al Dhahab, v3, p69
 
-

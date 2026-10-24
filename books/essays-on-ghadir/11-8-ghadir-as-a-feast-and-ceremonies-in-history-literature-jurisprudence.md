@@ -235,7 +235,5 @@ Imam Ali is located), pray, and then go near to his grave. If you were
 far from Najaf and his shrine, after praying, point to his grave and
 read Imam Ali's special prayer, from the distance.
 
-
 **Ali Akbar Talafi (Iran)**
-
 

@@ -243,4 +243,3 @@ determined to see the Prophets’ words and will be implemented, and they
 left no choice to Imam Ali but to accept his rightful role of being the
 ideological leader to the Muslim community.
 
-

@@ -367,4 +367,3 @@ Sa'yi in Hajj and 'Umrah. It only says: "So whoever performs Hajj of the
 House, or 'Umrah, there is no blame on him if he goes round them both."
 Isn't Sa'yi a wajib rukn of pilgrimage?
 
-

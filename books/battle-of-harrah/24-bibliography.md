@@ -203,4 +203,3 @@ Beirut, Dār al-Ma'ārif, 1953 C.E.
 
 [^1]: S.H. = Solar Hijrah Calender
 
-

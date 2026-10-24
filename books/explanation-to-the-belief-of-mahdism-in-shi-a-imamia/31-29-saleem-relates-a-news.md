@@ -37,4 +37,3 @@ found in the Tora and that of the Bible prior to Islam. Any literature
 that could be traced in the distant past will say something of this
 kind. This is the pedestal of the Divine Religion.
 
-

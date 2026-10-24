@@ -288,13 +288,12 @@ light, nor are the shade and the heat, nor are the living and the dead.
 Surely Allah makes whomsoever He pleases hear: you cannot make those in
 the graves hear. (Holy Qur'an, 35:19-22) Surely Allah says the truth.
 
-[^271] Jamharat Rasaail al-Arab, Vol. 1, p. 477. Al-Mas\`udi, Muruj
+[^271]: Jamharat Rasaail al-Arab, Vol. 1, p. 477. Al-Mas\`udi, Muruj
 al-Dhahab, Vol. 2, p. 60. The Mu\`tazilite scholar Ibn Abul-Hadid, Sharh
 Nahjul Balagha, Vol. 1, p. 284.
 
-[^272] Abu Bakr, Umar, and Uthman died during the life-time of Imam Ali
+[^272]: Abu Bakr, Umar, and Uthman died during the life-time of Imam Ali
 .
 
-[^273] Arabic original of the loan word "caliph."
-
+[^273]: Arabic original of the loan word "caliph."
 

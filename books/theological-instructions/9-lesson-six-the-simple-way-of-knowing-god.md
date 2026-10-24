@@ -154,4 +154,3 @@ peculiarities are?
 
 4- Give the logical proof for ‘order’.
 
-

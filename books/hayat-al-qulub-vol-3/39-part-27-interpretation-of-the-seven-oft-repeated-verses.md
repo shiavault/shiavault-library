@@ -5,11 +5,7 @@ Interpretation of the Seven oft repeated verses
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنْ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ.
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنْ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ.
 
 ***And certainly We have given you seven of the oft-repeated (verses)
 and the grand Quran. (Surah Hijr 15:87)***
@@ -89,5 +85,4 @@ ones’ refers to those who follow the usurpers and accept them as their
 leaders. Therefore it means that this Surah was revealed for them and it
 has more excellence over the whole Quran. Among all these explanations,
 as far as I think, this one is more logical, clear and apparent.
-
 

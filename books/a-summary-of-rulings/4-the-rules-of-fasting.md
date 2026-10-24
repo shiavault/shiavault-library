@@ -598,4 +598,3 @@ Likewise, if he does not have certainty. Regarding having probability
 that the fast is injurious, whether this probability is obtained from
 the experience of persons or from the statement of a doctor.
 
-

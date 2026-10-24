@@ -670,4 +670,3 @@ which has a strong authority to enforce its laws and to keep the people
 within the limits, with help of education and training of its own
 choice. Therefore, this com­parison is quite clearly unjustified.
 
-

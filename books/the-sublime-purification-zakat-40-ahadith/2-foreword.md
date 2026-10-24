@@ -138,4 +138,3 @@ publication.
 
 [^14]: Refer to page 5 for this Prophetic tradition.
 
-

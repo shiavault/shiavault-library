@@ -12,11 +12,7 @@ help you find these verses within the text.)
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -52,68 +48,28 @@ accounts he has with others are settled."*
 Surah Inshiqaq, Verses 1-9
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا السَّمَاءُ انْشَقَّتْ
-  </p>
-</blockquote>
+> إِذَا السَّمَاءُ انْشَقَّتْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
-  </p>
-</blockquote>
+> وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْأَرْضُ مُدَّتْ
-  </p>
-</blockquote>
+> وَإِذَا الْأَرْضُ مُدَّتْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
-  </p>
-</blockquote>
+> وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
-  </p>
-</blockquote>
+> وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا
-فَمُلَاقِيهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا
+> فَمُلَاقِيهِ
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ
 
-<blockquote dir="rtl">
-  <p>
-فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا
-  </p>
-</blockquote>
+> فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا
 
-<blockquote dir="rtl">
-  <p>
-وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا
-  </p>
-</blockquote>
+> وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا
 
 ***1. "When the Sky is rent asunder,”***  
 ***2. "And obeys its Lord, and it must;"***  
@@ -428,41 +384,17 @@ world, but they bear it in this world for the Next World."*[^2]
 Surah Inshiqaq, Verses 10-15
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ
 
-<blockquote dir="rtl">
-  <p>
-فَسَوْفَ يَدْعُو ثُبُورًا
-  </p>
-</blockquote>
+> فَسَوْفَ يَدْعُو ثُبُورًا
 
-<blockquote dir="rtl">
-  <p>
-وَيَصْلَىٰ سَعِيرًا
-  </p>
-</blockquote>
+> وَيَصْلَىٰ سَعِيرًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا
-  </p>
-</blockquote>
+> إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ
-  </p>
-</blockquote>
+> إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ
 
-<blockquote dir="rtl">
-  <p>
-بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا
-  </p>
-</blockquote>
+> بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا
 
 ***10. "But he who is given his Record behind his back,”***  
 ***11. "Soon he will cry for Perdition,”***  
@@ -609,66 +541,26 @@ consequently, to the Reward and the punishment.
 Surah Inshiqaq, Verses 16-25
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِالشَّفَقِ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِالشَّفَقِ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ وَمَا وَسَقَ
-  </p>
-</blockquote>
+> وَاللَّيْلِ وَمَا وَسَقَ
 
-<blockquote dir="rtl">
-  <p>
-وَالْقَمَرِ إِذَا اتَّسَقَ
-  </p>
-</blockquote>
+> وَالْقَمَرِ إِذَا اتَّسَقَ
 
-<blockquote dir="rtl">
-  <p>
-لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
-  </p>
-</blockquote>
+> لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لَهُمْ لَا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> فَمَا لَهُمْ لَا يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ
-  </p>
-</blockquote>
+> وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ
-  </p>
-</blockquote>
+> بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ
-  </p>
-</blockquote>
+> وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ
-مَمْنُونٍ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ
+> مَمْنُونٍ
 
 ***16. "But nay! I swear by the glow of the sunset,”***  
 ***17. "And by the night and that which it gathers together (in one
@@ -912,5 +804,4 @@ grace to act accordingly.*
 [^3]: Surah Haqqa, No. 69, verse 19
 
 [^4]: Surah Qasas. No. 28, verse 76
-
 

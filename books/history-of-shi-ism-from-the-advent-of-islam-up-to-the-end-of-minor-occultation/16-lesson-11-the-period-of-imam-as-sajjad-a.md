@@ -422,4 +422,3 @@ al-Imamah (Najaf: Manshurat al-Matbu‘at al-Haydariyyah, 1383 AH), p.
 [^19]: Muhammad ‘Abduh, Sharh Nahj al-Balaghah (Cairo: Dar Ihya’
 al-Kutub al-‘Arabiyyah, n.d.), vol. 4, p. 73.
 
-

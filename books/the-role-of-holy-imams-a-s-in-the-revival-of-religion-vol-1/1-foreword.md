@@ -416,4 +416,3 @@ of history and traditions was the founder of Baghdad's College of
 Religious Jurisprudence, and was a former professor of this high ranking
 establishment for knowledge.
 
-

@@ -40,15 +40,10 @@ prayer but [physical] effort.
 upon him, he would surely not raise his head from prostration.
 
 > 8ـ لَوْ يَعْلَمُ المُصَلّي ما يَغْشاهُ مِنَ الرَّحْمَةِ لَما رَفَعَ
-<blockquote dir="rtl">
-  <p>
-رَأسَهُ مِنَ السُّجُودِ.
-  </p>
-</blockquote>
+> رَأسَهُ مِنَ السُّجُودِ.
 
 9. I am not worried by a wrongdoing in which I am given time so that I
 can offer two units of prayer [and seek forgiveness].
 
 > 9ـ ما أهَمَّني ذَنْبٌ أُمْهِلْتُ فيهِ حَتّى أُصَلِّـيَ رَكْعَتَيْنِ.
-
 

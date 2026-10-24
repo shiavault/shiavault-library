@@ -767,4 +767,3 @@ The Author says: Some other traditions have expanded the meaning to
 include cleanliness from all defective traits, all characteristics
 causing aversion.
 
-

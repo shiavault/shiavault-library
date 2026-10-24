@@ -189,4 +189,3 @@ currently being edited by I. Kalin.
 We can now turn to Sadra’s own works, which I shall present in
 alphabetical order.
 
-

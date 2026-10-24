@@ -62,13 +62,9 @@ aspects.
 
 We read in a hadith from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-العلم سبعة عشرون حرفاً فجمیع ما جائت به الرّسل حرفان، فلم یعرف النّاس
-حتّی الیوم غیر الحرفین، فاذا قام قائمنا اخرج الخمسة و العشرین حرفاً؛
-قبثّها فی النّاس و ضمّ الیها الحرفین، حتّی یبثّها سبعة و عشرین حرفا
-  </p>
-</blockquote>
+> العلم سبعة عشرون حرفاً فجمیع ما جائت به الرّسل حرفان، فلم یعرف النّاس
+> حتّی الیوم غیر الحرفین، فاذا قام قائمنا اخرج الخمسة و العشرین حرفاً؛
+> قبثّها فی النّاس و ضمّ الیها الحرفین، حتّی یبثّها سبعة و عشرین حرفا
 
 Science and knowledge is twenty-seven words (has twenty-seven branches);
 all the things which have been brought by divine prophets for the people
@@ -89,12 +85,8 @@ important than this!
 Another hadith, which has been quoted from Imam Baqir (as), completes
 the meaning of this hadith, where it says:
 
-<blockquote dir="rtl">
-  <p>
-اذا قام قائمنا وضع یده علی رؤوس العباد، فجمع بها عقولهم و کملت بها
-احلامهم
-  </p>
-</blockquote>
+> اذا قام قائمنا وضع یده علی رؤوس العباد، فجمع بها عقولهم و کملت بها
+> احلامهم
 
 When our al-Qa’im rises, puts his hands on the heads of the servants of
 God and completes their wisdom and educates their thoughts.[^2]
@@ -140,12 +132,8 @@ And it is also helping the corrective goals of this government.
 
 It is mentioned in another hadith from Imam Sadiq (as) that:
 
-<blockquote dir="rtl">
-  <p>
-انّ قائمنا اذا قام مدّالله بشیعتنا فی اسماعهم و ابصارهم، حتّی لایکون
-بینهم و بین القائد برید، یکلّمهم فیسمعون و ینظرون الیه و هو فی مکانه
-  </p>
-</blockquote>
+> انّ قائمنا اذا قام مدّالله بشیعتنا فی اسماعهم و ابصارهم، حتّی لایکون
+> بینهم و بین القائد برید، یکلّمهم فیسمعون و ینظرون الیه و هو فی مکانه
 
 (When our al-Qa’im rises, the God will strengthen the eyes and ears of
 our Shiites in the way that there will be no mailman between them and He
@@ -171,12 +159,8 @@ and removing unnecessary and time-wasting programs!
 Another clear hadith, which has been quoted from Imam Sadiq (as),
 completes this subject explicitly; where he said:
 
-<blockquote dir="rtl">
-  <p>
-انّ المؤمن فی زمان قائم و هو بالمشرق سیری اخاه الّذی فی المغرب؛ و کذا
-الّذی فی المغرب یری اخاه الّذی بالمشرق
-  </p>
-</blockquote>
+> انّ المؤمن فی زمان قائم و هو بالمشرق سیری اخاه الّذی فی المغرب؛ و کذا
+> الّذی فی المغرب یری اخاه الّذی بالمشرق
 
 (Believer person sees his brother and sister in the West while he is in
 the East in the age of al-Qa’im; also the one who is in the West sees
@@ -218,12 +202,8 @@ great peacemaker.
 
 For instance, we read in a hadith:
 
-<blockquote dir="rtl">
-  <p>
-انّه یبلّغ سلطانه المشرق و المغرب؛ و تظهر له الکنوز؛ و لا یبقی فی
-الارض خراب الّا یعمّره
-  </p>
-</blockquote>
+> انّه یبلّغ سلطانه المشرق و المغرب؛ و تظهر له الکنوز؛ و لا یبقی فی
+> الارض خراب الّا یعمّره
 
 (His government will cover the East and the West of the world, and
 treasures of the world will appear for him and no ruins will remain on
@@ -239,20 +219,12 @@ extraordinary resources.
 
 We read in another interesting hadith from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-اذا قام القائم: حکم بالعدل
-  </p>
-</blockquote>
+> اذا قام القائم: حکم بالعدل
 
-<blockquote dir="rtl">
-  <p>
-وارتفع الجور فی ایّامه و امنت به السّبل و ردّ کلّ حقّ الی اهله ... و
-حکم بین النّاس بحکم داوود (ع) و حکم محمد (ع) فحینئذ تظهر الارض کنوزه و
-تبدی برکاته ولا یجد الرّجل منکم یومئذ موضعا لصدقته و لا لبرّه لشمول
-الغنی جمیع المومنین ...
-  </p>
-</blockquote>
+> وارتفع الجور فی ایّامه و امنت به السّبل و ردّ کلّ حقّ الی اهله ... و
+> حکم بین النّاس بحکم داوود (ع) و حکم محمد (ع) فحینئذ تظهر الارض کنوزه و
+> تبدی برکاته ولا یجد الرّجل منکم یومئذ موضعا لصدقته و لا لبرّه لشمول
+> الغنی جمیع المومنین ...
 
 When al-Qa’im rises: establishes the government based upon justice.
 
@@ -288,21 +260,13 @@ wasting the resources and assets!
 It is quoted from Abu Sa’id al-Khudri in another hadith, which has been
 mentioned in Sunni resources:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص):
-  </p>
-</blockquote>
+> قال رسول الله (ص):
 
-<blockquote dir="rtl">
-  <p>
-ابشّرکم بالمهدى یملأ الارض قسطاً کما ملئت جوراً و ظلماً، یرضى عنه
-سکّان السّماء والارض، یقسم المال صحاحاً، فقال رجل ما معنى صحاحاً، قال
-بالسّویه بین النّاس; و یملأ قلوب امّة محمّد(ص) غنى; و یسعهم عدله، حتّى
-یأمر منادیاً ینادى یقول من له بالمال حاجة فلیقم فما یقوم من النّاس
-الاّ رجل واحد (ثم یأمر له بالمال فیاخذ ثم یندم و یردّه
-  </p>
-</blockquote>
+> ابشّرکم بالمهدى یملأ الارض قسطاً کما ملئت جوراً و ظلماً، یرضى عنه
+> سکّان السّماء والارض، یقسم المال صحاحاً، فقال رجل ما معنى صحاحاً، قال
+> بالسّویه بین النّاس; و یملأ قلوب امّة محمّد(ص) غنى; و یسعهم عدله، حتّى
+> یأمر منادیاً ینادى یقول من له بالمال حاجة فلیقم فما یقوم من النّاس
+> الاّ رجل واحد (ثم یأمر له بالمال فیاخذ ثم یندم و یردّه
 
 Holy Prophet (S) said:
 
@@ -370,13 +334,9 @@ the wealth; because he is insured both for today and the future.
 
 Again, we read another hadith from holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-... حتّى تملأ الارض جوراً فلا یقدر احد یقول الله! ثم یبعث اللّه عزّوجل
-رجلا منّى و من عترتى فیملأ الارض عدلا کما ملأها من کان قبله جوراً و
-یخرج له الارض افلاذ کبدها و یحثو المال حثواً و لا یعدّه عداً
-  </p>
-</blockquote>
+> ... حتّى تملأ الارض جوراً فلا یقدر احد یقول الله! ثم یبعث اللّه عزّوجل
+> رجلا منّى و من عترتى فیملأ الارض عدلا کما ملأها من کان قبله جوراً و
+> یخرج له الارض افلاذ کبدها و یحثو المال حثواً و لا یعدّه عداً
 
 Time will come in which the earth will be filled with oppression and
 nobody can say the name of God (explicitly) (and talks about justice and
@@ -415,12 +375,8 @@ others:
 
 1) We read in a hadith from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-و یبنی فی ظهر الکوفه مسجداً له الف باب و یتّصل بیوت الکوفه بنهر کربلا
-و بالحیرة
-  </p>
-</blockquote>
+> و یبنی فی ظهر الکوفه مسجداً له الف باب و یتّصل بیوت الکوفه بنهر کربلا
+> و بالحیرة
 
 (He builds a mosque behind Kufa, which has one thousand doors, and the
 houses of Kufa reach the river of Karbala and Hayrah!)[^12]
@@ -430,41 +386,17 @@ now.
 
 2) We read from Imam Baqir (as):
 
-<blockquote dir="rtl">
-  <p>
-اذا قام القائم ...
-  </p>
-</blockquote>
+> اذا قام القائم ...
 
-<blockquote dir="rtl">
-  <p>
-یکون المساجد کلّها جمّاه لاشرف لها کما کان علی عهد رسول الله (ص)
-  </p>
-</blockquote>
+> یکون المساجد کلّها جمّاه لاشرف لها کما کان علی عهد رسول الله (ص)
 
-<blockquote dir="rtl">
-  <p>
-و یوسّع الطّریق الاَعظم فیصیر ستّین ذرع
-  </p>
-</blockquote>
+> و یوسّع الطّریق الاَعظم فیصیر ستّین ذرع
 
-<blockquote dir="rtl">
-  <p>
-و یهدم کلّ مسجد علی الطّریق
-  </p>
-</blockquote>
+> و یهدم کلّ مسجد علی الطّریق
 
-<blockquote dir="rtl">
-  <p>
-ویسدّ کلّ کوَّة الی الطّریق
-  </p>
-</blockquote>
+> ویسدّ کلّ کوَّة الی الطّریق
 
-<blockquote dir="rtl">
-  <p>
-و کلّ جناح و کنیف و میزاب الی الطّریق
-  </p>
-</blockquote>
+> و کلّ جناح و کنیف و میزاب الی الطّریق
 
 When al-Qa’im rises …
 
@@ -484,12 +416,8 @@ And (disturbing) balconies and sewages and chutes which open in the way
 
 3) Also, it is quoted in a long hadith from Imam Sadiq (as) that said:
 
-<blockquote dir="rtl">
-  <p>
-... و لیصیّرنًّ الکوفة اربعة و خمسین میلا و لیجاورنًّ قصورها کربلا، و
-لیصیّرنًّ الله کربلا معقلا و مقاما...
-  </p>
-</blockquote>
+> ... و لیصیّرنًّ الکوفة اربعة و خمسین میلا و لیجاورنًّ قصورها کربلا، و
+> لیصیّرنًّ الله کربلا معقلا و مقاما...
 
 (He will expand Kufa 54 miles until its castles reach Karbala, and
 Karbala (the place of the martyrs and heroes and self-devoted persons in
@@ -673,11 +601,7 @@ corruption during the time of his government will be cleared.
 
 It is mentioned in a hadith from Ali ibn Musa al-Reza (as):
 
-<blockquote dir="rtl">
-  <p>
-و ما لباس القائم (ع) الّا الغلیظ و ما طعامه الّا الجشب
-  </p>
-</blockquote>
+> و ما لباس القائم (ع) الّا الغلیظ و ما طعامه الّا الجشب
 
 (Clothing of al-Qa’im is nothing more than thick cloth and his food is
 only simple and unimportant food!)[^16]
@@ -792,11 +716,7 @@ in some of Islamic narratives it is considered as “new religion”.
 We read in a narrative from Imam Sadiq (as), which has been quoted in
 the book “Ithbat al-Hudat”:
 
-<blockquote dir="rtl">
-  <p>
-اذا خرج القائم یقوم بامر جدید، و کتاب جدید و سنّة جدید و قضاء جدید
-  </p>
-</blockquote>
+> اذا خرج القائم یقوم بامر جدید، و کتاب جدید و سنّة جدید و قضاء جدید
 
 (When al-Qa’im appears brings new order, new method and new judgment
 with him).[^18]
@@ -826,12 +746,8 @@ I asked Imam how is the method of way of Mahdi (as)?
 
 Imam answered:
 
-<blockquote dir="rtl">
-  <p>
-یصنع ما صنع رسول الله (ص) یهدم ما کان قبله کما هدم رسول الله (ص) امر
-الجاهلیّة و یستأنف الاسلام جدید
-  </p>
-</blockquote>
+> یصنع ما صنع رسول الله (ص) یهدم ما کان قبله کما هدم رسول الله (ص) امر
+> الجاهلیّة و یستأنف الاسلام جدید
 
 He will perform the same act which prophet of God performed; destroys
 previous (incorrect) programs, as prophet of God destroyed the acts of
@@ -839,12 +755,8 @@ ignorance, and rejuvenates Islam.
 
 We read in the same book (Ithbat al-Hudat) that Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-القائم من ولدی؛ اسمه اسمی و کنیة کنیتی و شمائله شمائلی؛ و سنّته سنّتی؛
-یقیم النّاس علی طاعتی و شریعتی و یدعوهم الی الکتاب ربّی
-  </p>
-</blockquote>
+> القائم من ولدی؛ اسمه اسمی و کنیة کنیتی و شمائله شمائلی؛ و سنّته سنّتی؛
+> یقیم النّاس علی طاعتی و شریعتی و یدعوهم الی الکتاب ربّی
 
 Al-Qa’im is one of my children; his name is my name and his Kunya
 (honorific) is my Kunya and his face is my face; his method is my
@@ -854,13 +766,9 @@ to the book of my God. [^19]
 And it is mentioned in the book “Muntakhab al-Athar” from the Prophet of
 God (S):
 
-<blockquote dir="rtl">
-  <p>
-و انّ الثّانی عشر من ولدی یغیب حتّی لایری، و یأتی علی امّتی بزمن
-لایبقی من الاسلام الّا اسمه، ولایبقی من القرآن الّا رسمه فحینئذ یأذن
-الله له تبارک و تعالی بالخروج فیظهر الاسلام به ویجدّده
-  </p>
-</blockquote>
+> و انّ الثّانی عشر من ولدی یغیب حتّی لایری، و یأتی علی امّتی بزمن
+> لایبقی من الاسلام الّا اسمه، ولایبقی من القرآن الّا رسمه فحینئذ یأذن
+> الله له تبارک و تعالی بالخروج فیظهر الاسلام به ویجدّده
 
 (My twelfth son will be occulted and won’t be seen; and he comes to my
 followers when nothing has remained from Islam but its name and nothing
@@ -914,12 +822,8 @@ be clearly seen in Islamic narratives.
 
 “Mufazzal” quotes in a long hadith from Imam Sadiq (as) that:
 
-<blockquote dir="rtl">
-  <p>
-... فوالله یا مفضّل لیرفع عن الملل و الادیان الاختلاف و یکون الدّین
-کلّه واحداً کما قال الله عزّ و جلّ انّ الدّین عند الله الاسلام ...
-  </p>
-</blockquote>
+> ... فوالله یا مفضّل لیرفع عن الملل و الادیان الاختلاف و یکون الدّین
+> کلّه واحداً کما قال الله عزّ و جلّ انّ الدّین عند الله الاسلام ...
 
 … O Mufazzal! I swear to God that disagreements of religions will be
 removed and all become one religion; as almighty God says: religion is
@@ -987,5 +891,4 @@ months before Islamic Revolution in Iran.
 [^20]: Muntakhab al-Athar, page 98.
 
 [^21]: Bihar al-Anwar, vol. 53, page 4.
-
 

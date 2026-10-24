@@ -14,7 +14,7 @@ he continued pouring it (water). Hence the Arabs resembled the
 straightforward method with the poured out water, which is due to
 succession of its flow on one course shall be like one thing.
 
-A poet said: <span id="_anchor_18"></span>18
+A poet said: 18
 
 Never be fed up of a conduct you followed,
 
@@ -63,11 +63,6 @@ it in the title of this edition.
 
 It is said that the term ‘sunnah’ being used for every saying or act or
 report ascribed to the Prophet.
-
-  
-  
-  
-  
 
 18. He is Khalid ibn Utbah al-Hudhali, the nephew of Abu Dhu'ayb
 al-Hudhali.

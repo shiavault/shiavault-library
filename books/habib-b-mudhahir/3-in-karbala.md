@@ -27,4 +27,3 @@ Imam Husayn [a] accepted the Muslims request. He decided to revolt
 against Yazeed bin Mu'awiyah. He took his family and supporters and left
 for Kufa.
 
-

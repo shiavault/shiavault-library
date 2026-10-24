@@ -373,4 +373,3 @@ Middle Ages either by being encyclopedic or by being marginal. If, as I
 have done, one chooses the latter error, it is not as the lesser, but as
 the more manageable of two evils.
 
-

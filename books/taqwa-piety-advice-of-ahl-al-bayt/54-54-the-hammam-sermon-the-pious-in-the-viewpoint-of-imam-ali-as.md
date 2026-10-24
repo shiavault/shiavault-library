@@ -490,4 +490,3 @@ alive, I like life.”
 
 [^51]: Bihar al-Anwar, vol. 68, p. 160.
 
-

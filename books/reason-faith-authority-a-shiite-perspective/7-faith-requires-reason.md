@@ -31,4 +31,3 @@ from faith, Imam Sadiq said: “Is faith anything but love and hate?”24 It
 is also narrated that Imam Baqir said: “The faith is love and love is
 the faith.”25
 
-

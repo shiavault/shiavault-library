@@ -186,7 +186,6 @@ are fit to be the ultimate aim.
 (Torah) and the Injil (Evangel). Rectification of the alterations and
 errors which have crept into these Books.
 
-
 **Vastness of Meanings**
 
 This was a brief description of the contents of the Holy Qur'an. Brief
@@ -212,7 +211,6 @@ intellectuals. This is the position, if we suppose that what the Holy
 Qur'an has presented is of the same level as of that which has been
 produced by the human scholars. But we know definitely that in most
 cases the Holy Quran has opened absolutely new horizons.
-
 
 **Allah in the Holy Quran**
 
@@ -328,5 +326,4 @@ All this shows that the Holy Quran is miraculous and inimitable. There
 are a number of other remarkable points which prove its miraculousness
 on the intellectual level. They are related to natural sciences,
 philosophy and history.
-
 

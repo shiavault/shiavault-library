@@ -340,4 +340,3 @@ philosopher all beings are divided into two: possible beings and
 Necessary Being. Possible beings is in need of Necessary being for its
 being.
 
-

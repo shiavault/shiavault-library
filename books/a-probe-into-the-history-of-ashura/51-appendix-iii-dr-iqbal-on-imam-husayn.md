@@ -334,4 +334,3 @@ place. Iqbal asks her to carry his tears to the sacred tomb of Imam
 Husayn. Dr Iqbal weeps in sad and blessed memory of Imam Husayn and
 wishes to place his tears over his Imam's grave.
 
-

@@ -32,4 +32,3 @@ and intimate bondsmen. Indeed, these latter are the lords of zakat and
 to them belongs its mark of distinction. Oh Allah, give me success in
 what You love and in what makes You content.
 
-

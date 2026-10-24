@@ -433,4 +433,3 @@ Background. p 79.
 [^7]: Carlton Hays: The Historical Evaluation of Modern Nationalism, p.
 129.
 
-

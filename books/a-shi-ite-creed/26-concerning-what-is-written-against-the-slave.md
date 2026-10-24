@@ -56,4 +56,3 @@ beings and not from God.
 that there are two sets of angels, one pair for day, the other for
 night.
 
-

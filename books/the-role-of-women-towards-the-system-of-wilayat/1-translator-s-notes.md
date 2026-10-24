@@ -72,4 +72,3 @@ to serve the true Islam.
 
 Wassalamu Alaikum Wa Rahmatullahi Wa Barakatahu.
 
-

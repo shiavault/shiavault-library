@@ -243,4 +243,3 @@ to be better acquainted with them, one can refer to the Tawzihul Masa’il
 under Rule 456. Those actions which are haram for a Junub, were
 mentioned in Rule 120.
 
-

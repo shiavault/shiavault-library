@@ -164,4 +164,3 @@ than the Prophet's was.  (See Guillaume, 504).      
 [^9]: 'Abd al-Rahman was married to 'Uthman's maternal sister Umm
 Kulthum bint 'Uqba b. Abi Mu'ayt. See Baladhuri, Ansab, 6: 124f.
 
-

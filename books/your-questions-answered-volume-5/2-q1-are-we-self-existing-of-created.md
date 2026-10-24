@@ -54,7 +54,6 @@ A. By following the way of Islam.
 
 **Q. 6: WHAT IS ISLAM?**
 
-
 What is Islam?
 
 A. Islam is to believe and accept that there is none to be worshipped
@@ -80,5 +79,4 @@ We are called Shi'a because after the Holy Prophet we follow Sayidana
 A. Ithna-'ashar in Arabic means twelve. As we believe in 12 Imams
 (successors of the Holy Prophet of Islam), we are called Shi'a
 Ithna-'ashariya.
-
 

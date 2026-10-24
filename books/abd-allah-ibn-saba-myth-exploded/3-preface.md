@@ -118,13 +118,9 @@ throughout all Shi’i books. Shaykh ‘Ali Al Muhsin has compiled the Shi’i
 *riwayat* about ‘Abd Allah b. Saba, and examined their various
 chains[^3], and has thus concluded:
 
-<blockquote dir="rtl">
-  <p>
-والصحيح من تلك الروايات منحصر بثلاث روايات مروية في رجال الكشي,وهي
-تثبت وجود عبد الله بن سبأ, وأنه ادّعى الألوهية في أمير المؤمنين,
-فأحرقه بالنار, ولا تثبت أكثر من ذلك.
-  </p>
-</blockquote>
+> والصحيح من تلك الروايات منحصر بثلاث روايات مروية في رجال الكشي,وهي
+> تثبت وجود عبد الله بن سبأ, وأنه ادّعى الألوهية في أمير المؤمنين,
+> فأحرقه بالنار, ولا تثبت أكثر من ذلك.
 
 **The authentic from these reports are only three reports recorded in**
 ***Rijal al-Kashi***, and they establish the existence of ‘Abd Allah b.
@@ -134,14 +130,10 @@ than that is proved**.[^4]
 
 This is the first of the three reports, as quoted by Al Muhsin:
 
-<blockquote dir="rtl">
-  <p>
-رواه الكشي أيضاً بسنده عن هشام بن سالم, قال: سمعت أبا عبد الله يقول
-وهو يحدِّث أصحابه بحديث عبد الله بن سبأ وما ادّعى من الربوبية في أمير
-المؤمنين علي بن أبي طالب, فقال: إنه لما ادّعى ذلك فيه استتابه أمير
-المؤمنين, فأبى أن يتوب فأحرقه بالنار.
-  </p>
-</blockquote>
+> رواه الكشي أيضاً بسنده عن هشام بن سالم, قال: سمعت أبا عبد الله يقول
+> وهو يحدِّث أصحابه بحديث عبد الله بن سبأ وما ادّعى من الربوبية في أمير
+> المؤمنين علي بن أبي طالب, فقال: إنه لما ادّعى ذلك فيه استتابه أمير
+> المؤمنين, فأبى أن يتوب فأحرقه بالنار.
 
 Al-Kashi narrated it too with his chain from Hisham b. Salim, who said:
 I heard Abu ‘Abd Allah saying, while addressing his companions on the
@@ -152,15 +144,11 @@ burnt him with fire.”[^5]
 
 Al Muhsin also copies the second *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-رواه الكشي أيضاً في كتابه المذكور بسنده عن أبان بن عثمان, قال: سمعت
-أبا عبد الله يقول: لعن الله عبد الله بن سبأ, إنه ادّعى الربوبية في
-أمير المؤمنين, وكان والله أمير المؤمنين عبداً لله طائعاً, الويل لمن
-كذب علينا, وإن قوماً يقولون فينا ما لا نقوله في أنفسنا, نبرأ إلى الله
-منهم, نبرأ إلى الله منهم.
-  </p>
-</blockquote>
+> رواه الكشي أيضاً في كتابه المذكور بسنده عن أبان بن عثمان, قال: سمعت
+> أبا عبد الله يقول: لعن الله عبد الله بن سبأ, إنه ادّعى الربوبية في
+> أمير المؤمنين, وكان والله أمير المؤمنين عبداً لله طائعاً, الويل لمن
+> كذب علينا, وإن قوماً يقولون فينا ما لا نقوله في أنفسنا, نبرأ إلى الله
+> منهم, نبرأ إلى الله منهم.
 
 Al-Kashi records again in his mentioned book with his chain from Aban b.
 ‘Uthman, who said: I heard Abu ‘Abd Allah saying: “**May Allah curse
@@ -172,15 +160,11 @@ dissociate ourselves from them unto Allah.”[^6]
 
 And this is the third report, cited by Shaykh Al Muhsin:
 
-<blockquote dir="rtl">
-  <p>
-رواه أيضاً بسنده عن أبي حمزة الثمالي, قال: قال علي بن الحسين :لعن الله
-من كذب علينا, إني ذكرت عبد الله بن سبأ فقامت كل شعرة في جسدي, لقد
-ادّعى أمراً عظيماً, ما له لعنه الله !كان علي والله عبداً لله صالحاً,
-أخو رسول الله, ما نال الكرامة من الله إلا بطاعته لله ولرسوله, وما نال
-رسول الله الكرامة من الله إلا بطاعته.
-  </p>
-</blockquote>
+> رواه أيضاً بسنده عن أبي حمزة الثمالي, قال: قال علي بن الحسين :لعن الله
+> من كذب علينا, إني ذكرت عبد الله بن سبأ فقامت كل شعرة في جسدي, لقد
+> ادّعى أمراً عظيماً, ما له لعنه الله !كان علي والله عبداً لله صالحاً,
+> أخو رسول الله, ما نال الكرامة من الله إلا بطاعته لله ولرسوله, وما نال
+> رسول الله الكرامة من الله إلا بطاعته.
 
 He narrated again with his chain from Abu Hamzah al-Thumali, who said:
 
@@ -195,11 +179,7 @@ Him.[^7]
 
 Then, Al Muhsin comments about the three *ahadith*:
 
-<blockquote dir="rtl">
-  <p>
-وهذه الروايات الثلاث صحيحة السند
-  </p>
-</blockquote>
+> وهذه الروايات الثلاث صحيحة السند
 
 These three reports have *sahih* chains.[^8]
 
@@ -242,12 +222,8 @@ Meanwhile, what about the Sunni sources? What if a Sunni only intended
 to convince another Sunni concerning ‘Abd Allah b. Saba? Shaykh Ibn
 Taymiyyah (d. 728 H) outlines the necessary rules here:
 
-<blockquote dir="rtl">
-  <p>
-و الجواب من وجوه أحدها انه لا بد من إقأمة الدليل على صحة المنقول إلا
-فالاستدلال بما لا تثبت
-  </p>
-</blockquote>
+> و الجواب من وجوه أحدها انه لا بد من إقأمة الدليل على صحة المنقول إلا
+> فالاستدلال بما لا تثبت
 
 The reply is from several angles. One of them is: **evidence**
 ***must*** **be presented for the authenticity of whatever is quoted**.
@@ -255,12 +231,8 @@ Unless this is done, using it as proof is invalid.[^9]
 
 Elsewhere, in rejecting a report, he adds:
 
-<blockquote dir="rtl">
-  <p>
-فيقال أولا هذه الحكاية لم يذكر لها إسنادا فلا تعرف صحتها فإن المنقولات
-إنما تعرف صحتها بالأسانيد الثابتة
-  </p>
-</blockquote>
+> فيقال أولا هذه الحكاية لم يذكر لها إسنادا فلا تعرف صحتها فإن المنقولات
+> إنما تعرف صحتها بالأسانيد الثابتة
 
 It is said (in reply) that first and foremost, he has not mentioned any
 chain for this narration. Therefore, its authenticity is unknown. **This
@@ -269,12 +241,8 @@ their authentic chains**.[^10]
 
 He further reiterates:
 
-<blockquote dir="rtl">
-  <p>
-ومعلوم أن من احتج في أي مسألة كانت بشيء من النقل فلا بد أن يذكر إسنادا
-تقوم به الحجة
-  </p>
-</blockquote>
+> ومعلوم أن من احتج في أي مسألة كانت بشيء من النقل فلا بد أن يذكر إسنادا
+> تقوم به الحجة
 
 It is well-known that whosoever relies upon as proof any narration in
 any issue, **he** ***must*** **mention (at least) a chain which
@@ -293,26 +261,18 @@ discourses about Ibn Saba. For instance, this is his submission about
 how that controversial, “elusive” character mounted onto the Islamic
 scene:
 
-<blockquote dir="rtl">
-  <p>
-وأما بيعة عثمان فلم يتخلف عنها أحد مع كثرة المسلمين وانتشرهم من
-إفريقية إلى خراسان ومن سواحل الشام إلى أقصى اليمن ومع كونهم كانوا
-ظاهرين على عدوهم من المشركين وأهل الكتاب يقاتلونهم وهي في زيادة فتح
-وانتصار ودوام دولة ودوام المسلمين على مبايعته والرضا عنه ست سنين نصف
-خلافته معظمين له مادحين له لا يظهر من أحد منهم التكلم فيه بسوء
-  </p>
-</blockquote>
+> وأما بيعة عثمان فلم يتخلف عنها أحد مع كثرة المسلمين وانتشرهم من
+> إفريقية إلى خراسان ومن سواحل الشام إلى أقصى اليمن ومع كونهم كانوا
+> ظاهرين على عدوهم من المشركين وأهل الكتاب يقاتلونهم وهي في زيادة فتح
+> وانتصار ودوام دولة ودوام المسلمين على مبايعته والرضا عنه ست سنين نصف
+> خلافته معظمين له مادحين له لا يظهر من أحد منهم التكلم فيه بسوء
 
-<blockquote dir="rtl">
-  <p>
-ثم بعد هذا صار يتكلم فيه بعضهم وجمهورهم لا يتكلم فيه إلا بخير وكانت قد
-طالت عليهم إمارته فانه بقي اثنتي عشرة سنة لم تدم خلافة أحد من الأربعة
-ما دامت خلافته فإن خلافة الصديق كانت سنتين وبعض الثالثة وخلافة عمر عشر
-سنين وبعض الأخرى وخلافة على أربع سنين وبعض الخامسة ونشأ في خلافته من
-دخل في الإسلام كرها فكان منافقا مثل ابن سبأ وأمثاله وهم الذين سعوا في
-الفتنة بقتله
-  </p>
-</blockquote>
+> ثم بعد هذا صار يتكلم فيه بعضهم وجمهورهم لا يتكلم فيه إلا بخير وكانت قد
+> طالت عليهم إمارته فانه بقي اثنتي عشرة سنة لم تدم خلافة أحد من الأربعة
+> ما دامت خلافته فإن خلافة الصديق كانت سنتين وبعض الثالثة وخلافة عمر عشر
+> سنين وبعض الأخرى وخلافة على أربع سنين وبعض الخامسة ونشأ في خلافته من
+> دخل في الإسلام كرها فكان منافقا مثل ابن سبأ وأمثاله وهم الذين سعوا في
+> الفتنة بقتله
 
 As for the *bay’ah* of ‘Uthman, there was no one who did not pledge it
 despite the great number of the Muslims and their spread from Africa to
@@ -348,15 +308,11 @@ evidence whatsoever for the authenticity of any report on his claims.
 All right then, is there anything else we should know about ‘Abd Allah
 b. Saba? Our Shaykh says “yes”:
 
-<blockquote dir="rtl">
-  <p>
-ولا ريب أن كثيرا ممن يحب الرسول من بني هاشم وغيرهم وقد تشيع قد تلقى من
-الرافضة ما هو من أعظم الأمور قدحا في الرسول فإن أصل الرفض إنما أحدثه
-زنديق غرضه إبطال دين الإسلام والقدح في رسول الله صلى الله عليه و سلم
-كما قد ذكر ذلك العلماء وكان عبد الله بن سبأ شيخ الرافضة لما أظهر
-الإسلام أراد أن يفسد الإسلام بمكره وخبثه كما فعل بولص بدين النصارى
-  </p>
-</blockquote>
+> ولا ريب أن كثيرا ممن يحب الرسول من بني هاشم وغيرهم وقد تشيع قد تلقى من
+> الرافضة ما هو من أعظم الأمور قدحا في الرسول فإن أصل الرفض إنما أحدثه
+> زنديق غرضه إبطال دين الإسلام والقدح في رسول الله صلى الله عليه و سلم
+> كما قد ذكر ذلك العلماء وكان عبد الله بن سبأ شيخ الرافضة لما أظهر
+> الإسلام أراد أن يفسد الإسلام بمكره وخبثه كما فعل بولص بدين النصارى
 
 There is no doubt that a lot of those who loved the Messenger among the
 Banu Hashim and others - and who also became Shi’ah - imbibed from the
@@ -374,13 +330,9 @@ whatsoever for his claims!
 So, what exactly did ‘Abd Allah b. Saba do to found Shi’ism? Shaykh Ibn
 Taymiyyah thinks he has a clue on that as well:
 
-<blockquote dir="rtl">
-  <p>
-قد علم أهل العلم أن أول ما ظهرت الشيعة الإمامية المدعية للنص في أواخر
-أيام الخلفاء الراشدين وافترى ذلك عبدالله بن سبأ وطائفة الكذابون فلم
-يكونوا موجودين قبل ذلك
-  </p>
-</blockquote>
+> قد علم أهل العلم أن أول ما ظهرت الشيعة الإمامية المدعية للنص في أواخر
+> أيام الخلفاء الراشدين وافترى ذلك عبدالله بن سبأ وطائفة الكذابون فلم
+> يكونوا موجودين قبل ذلك
 
 The scholars have known that the Shi’ah Imamiyyah, who claimed the
 *nass* (for ‘Ali), first appeared during the last periods of the rule of
@@ -390,12 +342,8 @@ never existed before then.[^14]
 
 He adds:
 
-<blockquote dir="rtl">
-  <p>
-وهذا معروف عن ابن سبا واتباعه وهو الذي ابتدع النص في علي وابتدع أنه
-معصوم
-  </p>
-</blockquote>
+> وهذا معروف عن ابن سبا واتباعه وهو الذي ابتدع النص في علي وابتدع أنه
+> معصوم
 
 And this is well-known about Ibn Saba and his followers. **He was the
 one who innovated the** ***nass*** **(i.e. a claim of prophetic
@@ -410,16 +358,12 @@ in cases like this. None is quoted anyway, anywhere!
 Were there any the other “innovations” created by ‘Abd Allah b. Saba?
 Our Shaykh proceeds:
 
-<blockquote dir="rtl">
-  <p>
-قلنا نعم وأشهر الناس بالردة خصوم أبي بكر الصديق رضي الله عنه وأتباعه
-كمسيلمة الكذاب وأتباعه وغيرهم وهؤلاء تتولاهم الرافضة كما ذكر ذلك غير
-واحد من شيوخهم مثل هذا الإمامي وغيره ويقولون إنهم كانوا على الحق وأن
-الصديق قاتلهم بغير حق ثم من أظهر الناس ردة الغالية الذين حرقهم علي رضي
-الله عنه بالنار لما ادعوا فيه الإلهية وهم السبائية أتباع عبدالله بن
-سبأ الذين أظهروا سب أبي بكر وعمر
-  </p>
-</blockquote>
+> قلنا نعم وأشهر الناس بالردة خصوم أبي بكر الصديق رضي الله عنه وأتباعه
+> كمسيلمة الكذاب وأتباعه وغيرهم وهؤلاء تتولاهم الرافضة كما ذكر ذلك غير
+> واحد من شيوخهم مثل هذا الإمامي وغيره ويقولون إنهم كانوا على الحق وأن
+> الصديق قاتلهم بغير حق ثم من أظهر الناس ردة الغالية الذين حرقهم علي رضي
+> الله عنه بالنار لما ادعوا فيه الإلهية وهم السبائية أتباع عبدالله بن
+> سبأ الذين أظهروا سب أبي بكر وعمر
 
 We say: yes, the most notorious of mankind for apostasy were the enemies
 of Abu Bakr al-Siddiq, may Allah be pleased with him, and his followers,
@@ -435,13 +379,9 @@ b. Saba, those who were the first to curse Abu Bakr and ‘Umar**.[^16]
 
 He reiterates the same elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-وأين شبهة مثل أبي موسى الأشعري الذي وافق عمرا على عزل علي ومعاوية وأن
-يجعل الأمر شورى في المسلمين من شبهة عبدالله بن سبأ وأمثاله الذين يدعون
-أنه إمام معصوم أو أنه إله أو نبي
-  </p>
-</blockquote>
+> وأين شبهة مثل أبي موسى الأشعري الذي وافق عمرا على عزل علي ومعاوية وأن
+> يجعل الأمر شورى في المسلمين من شبهة عبدالله بن سبأ وأمثاله الذين يدعون
+> أنه إمام معصوم أو أنه إله أو نبي
 
 Where is the confusion of the likes of Abu Musa al-Ash’ari who concurred
 with ‘Amr to dethrone (both) ‘Ali and Mu’awiyah and to subject the
@@ -545,5 +485,4 @@ Minhaj al-Sunnah al-Nabawiyyah (Muasassat Qurtubah; 1st edition, 1406 H)
 [^16]: Ibid, vol. 3, pp. 458-459
 
 [^17]: Ibid, vol. 2, p. 61
-
 

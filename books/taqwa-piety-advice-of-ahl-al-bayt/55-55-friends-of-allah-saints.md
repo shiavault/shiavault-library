@@ -415,4 +415,3 @@ cures of one’s sufferings, and the frequent prostrating before Allah.
 
 [^35]: Hammam Sermon.
 
-

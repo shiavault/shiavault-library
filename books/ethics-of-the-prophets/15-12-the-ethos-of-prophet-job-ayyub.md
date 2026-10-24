@@ -17,23 +17,15 @@ no more patient and started bemoaning:
 ***“And Ayyub, when he cried to his Lord, (saying): Harm has afflicted
 me, and Thou art the*** ***Most merciful." (21:83)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ
-أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ
+> أَرْحَمُ الرَّاحِمِينَ
 
 At this time Gabriel came and said:
 
 ***"Urge with your foot; here is a cool washing-place and a drink."
 (38:42)***
 
-<blockquote dir="rtl">
-  <p>
-ارْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
-  </p>
-</blockquote>
+> ارْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
 
 Ayyub urged his foot. Immediately two springs gushed forth: One of warm
 water and the other cool. He first bathed in the warm water and his
@@ -46,11 +38,7 @@ then.
 ***"And We gave him his family and the like of them with them."
 (38:43)***
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ
 
 Rahmah bore seven sons and three daughters again and God returned to
 them their wealth. In the first year of affliction, Job was 73 years old
@@ -64,11 +52,7 @@ His Moral Virtues In The Holy Quran
 ***"We found him patient; most excellent the servant! Surely he was
 frequent in returning (to Allah)." (38:44)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ
-  </p>
-</blockquote>
+> إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ
 
 His Patience
 ------------
@@ -78,14 +62,10 @@ wife said to him: You should ask God to heal you. Job said: Woe to you.
 We enjoyed wealth for seventy years, Let us be patient in hardships too.
 Soon after this, God healed him.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ ابْنَ عَبّاسٍ إِنَّ امْرَأَةَ أَيُّوبَ قَالَتْ لَهُ يَومًا: لَوْ
-دَعَوْتَ اللَّهَ أَنْ يَشْفِيكَ فَقَالَ: وَيْحَكَ كُنّا في النَّعْماءِ
-سَبْعِينَ عَامًا فَهَلُمَّ نَصْبِرُ في الضَّرّاءِ مِثْلُها قَالَ:
-فَلَمْ يَمْكُثْ بَعْدَ ذَلِكَ إِلا يَسِيرًا حَتّى عُوفِيَ.
-  </p>
-</blockquote>
+> عَنْ ابْنَ عَبّاسٍ إِنَّ امْرَأَةَ أَيُّوبَ قَالَتْ لَهُ يَومًا: لَوْ
+> دَعَوْتَ اللَّهَ أَنْ يَشْفِيكَ فَقَالَ: وَيْحَكَ كُنّا في النَّعْماءِ
+> سَبْعِينَ عَامًا فَهَلُمَّ نَصْبِرُ في الضَّرّاءِ مِثْلُها قَالَ:
+> فَلَمْ يَمْكُثْ بَعْدَ ذَلِكَ إِلا يَسِيرًا حَتّى عُوفِيَ.
 
 The Hardest Affliction
 ----------------------
@@ -93,12 +73,8 @@ The Hardest Affliction
 Addressing God, Job says: O God! By Your might, You know that I will
 endure on my body the hardest when it comes to obedience and worship.
 
-<blockquote dir="rtl">
-  <p>
-فَوَعِزَّتِكَ إِنَّكَ تَعْلَمُ أَنَّهُ مَا عُرِضَ لِي أَمْرانَ قَطُّ
-كِلاهُمَا لَكَ طَاعَةً إِلا عَمِلْتُ بِأَشَدِّهِمَا عَلى بَدَني
-  </p>
-</blockquote>
+> فَوَعِزَّتِكَ إِنَّكَ تَعْلَمُ أَنَّهُ مَا عُرِضَ لِي أَمْرانَ قَطُّ
+> كِلاهُمَا لَكَ طَاعَةً إِلا عَمِلْتُ بِأَشَدِّهِمَا عَلى بَدَني
 
 His Support For Orphans And The Weak
 ------------------------------------
@@ -106,13 +82,9 @@ His Support For Orphans And The Weak
 Job said: By God! He knows that I have never eaten unless there has been
 an orphan or a weak person eating with me.
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَيُّوبُ عَلَيْهِ السَّلامُ: وَعِزَّةِ رِبّي إِنّهُ لَيَعْلَمُ
-إِنّي مَا أَكَلْتُ طَعَامًا قَطّ إِلا وَمَعِيَ يَتِيمٌ أَوْ ضَعيفٌ
-يَأْكُلُ مَعِي.
-  </p>
-</blockquote>
+> قَالَ أَيُّوبُ عَلَيْهِ السَّلامُ: وَعِزَّةِ رِبّي إِنّهُ لَيَعْلَمُ
+> إِنّي مَا أَكَلْتُ طَعَامًا قَطّ إِلا وَمَعِيَ يَتِيمٌ أَوْ ضَعيفٌ
+> يَأْكُلُ مَعِي.
 
 The Hardest Thing To Job
 ------------------------
@@ -121,13 +93,9 @@ When Job was healed and rescued from afflictions, he was asked: Out of
 what happened to you, what was the hardest? Job said: The enemies’
 blame.
 
-<blockquote dir="rtl">
-  <p>
-قِيلَ لأَيُّوبَ عَلَيْهِ السَّلامُ بَعْدَ مَا عَافَاهُ اللَّهُ
-تَعَالى: أَيُّ شيء أَشَدّ مَا مَرَّ عَلَيْكَ؟ قَالَ: شَمَاتَةُ
-الأَعْداءِ.
-  </p>
-</blockquote>
+> قِيلَ لأَيُّوبَ عَلَيْهِ السَّلامُ بَعْدَ مَا عَافَاهُ اللَّهُ
+> تَعَالى: أَيُّ شيء أَشَدّ مَا مَرَّ عَلَيْكَ؟ قَالَ: شَمَاتَةُ
+> الأَعْداءِ.
 
 He And God’s Favor
 ------------------
@@ -137,15 +105,11 @@ locusts on Job from the sky and Job carried them home from outdoors.
 Gabriel asked: Aren’t you fed up O Ayyub? Job said: Who is fed up with
 God’s favor?
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبي عَبْدِ اللَّهِ عَلَيْهِ السَّلامُ قَالَ: أَمْطَرَ اللَّهُ
-عَلى أَيُّوبَ مِنَ السَّماءِ فَراشًا مِنْ ذَهَبٍ، فَجَعَلَ أَيُّوبُ
-يَأْخُذُ مَا كَانَ خَارِجًا مِنّ دَارِهِ فَيُدْخِلَهُ دَارَهُ، فَقَالَ
-جِبْرَئيلُ عَلَيْهِ السَّلامُ: أَمَا تَشْبَعُ يَا أَيُّوبُ؟ قَالَ:
-وَمَنْ يَشْبَعُ مِنْ فَضْلِ رَبِّهِ.
-  </p>
-</blockquote>
+> عَنْ أَبي عَبْدِ اللَّهِ عَلَيْهِ السَّلامُ قَالَ: أَمْطَرَ اللَّهُ
+> عَلى أَيُّوبَ مِنَ السَّماءِ فَراشًا مِنْ ذَهَبٍ، فَجَعَلَ أَيُّوبُ
+> يَأْخُذُ مَا كَانَ خَارِجًا مِنّ دَارِهِ فَيُدْخِلَهُ دَارَهُ، فَقَالَ
+> جِبْرَئيلُ عَلَيْهِ السَّلامُ: أَمَا تَشْبَعُ يَا أَيُّوبُ؟ قَالَ:
+> وَمَنْ يَشْبَعُ مِنْ فَضْلِ رَبِّهِ.
 
 Eight Virtues Of His Moral Features
 -----------------------------------
@@ -154,14 +118,10 @@ Job was benefactor, pious, compassionate towards the poor, supportive of
 the widows and orphans, hospitable, helper of wayfarers, grateful to
 God’s blessings and paid what was due to God.
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ [أَيُّوبُ] بَرًّا، تَقِيًّا، رَحِيمًا بِالْمَسَاكِين، يُكَفّلُ
-الأَرَامِلَ وَالأَيْتَامَ، وَيُكْرِمُ الضَّيْفَ، وَيُبَلِّغُ ابنَ
-السَّبِيلِ، وَكَانَ شَاكِرًا لأَنْعُمِ اللَّهِ تَعَالى، مُؤدّيًا
-لِحَقِّ اللَّهِ تَعَالى.
-  </p>
-</blockquote>
+> وَكَانَ [أَيُّوبُ] بَرًّا، تَقِيًّا، رَحِيمًا بِالْمَسَاكِين، يُكَفّلُ
+> الأَرَامِلَ وَالأَيْتَامَ، وَيُكْرِمُ الضَّيْفَ، وَيُبَلِّغُ ابنَ
+> السَّبِيلِ، وَكَانَ شَاكِرًا لأَنْعُمِ اللَّهِ تَعَالى، مُؤدّيًا
+> لِحَقِّ اللَّهِ تَعَالى.
 
 Moral Invocation By Job
 -----------------------
@@ -171,12 +131,8 @@ One of invocations recited by Job was the following:
 I seek refuge with Allah from a neighbor who hides the good and
 discloses the bad.
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ مِنْ دُعَاءِ أَيّوبَ: أَعُوذُ بِاللَّهِ مِنْ جَارٍ عَيْنُهُ
-تَراني إِنْ رَأَى حَسَنةً سَتَرَهَا وَإِنْ رَأَى سَيِّئَةً ذَكَرَها.
-  </p>
-</blockquote>
+> وَكَانَ مِنْ دُعَاءِ أَيّوبَ: أَعُوذُ بِاللَّهِ مِنْ جَارٍ عَيْنُهُ
+> تَراني إِنْ رَأَى حَسَنةً سَتَرَهَا وَإِنْ رَأَى سَيِّئَةً ذَكَرَها.
 
 His Satisfaction With Tribulation
 ---------------------------------
@@ -185,12 +141,7 @@ Prophet Job had been left on the pile of garbage of Israelites for seven
 and odd years. During this time, he did not ask God to remove
 tribulation from him.
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ مَكَثَ أَيّوبُ عَلَيْهِ السَّلامُ مَطْرُوحًا عَلى كَناسَةٍ
-لَبَنى إِسْرائيلَ سَبْعَ سَنِينٍ وَأَشْهُرًا مَا يَسْأَلُ اللَّهَ
-عَزَّ وَجَلَّ أَنْ يَنْكَشِفَ مَا بِهِ.
-  </p>
-</blockquote>
-
+> لَقَدْ مَكَثَ أَيّوبُ عَلَيْهِ السَّلامُ مَطْرُوحًا عَلى كَناسَةٍ
+> لَبَنى إِسْرائيلَ سَبْعَ سَنِينٍ وَأَشْهُرًا مَا يَسْأَلُ اللَّهَ
+> عَزَّ وَجَلَّ أَنْ يَنْكَشِفَ مَا بِهِ.
 

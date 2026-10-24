@@ -352,4 +352,3 @@ emancipated at once, he enjoyed full rights in the household of his
 master. A book on slavery has been printed just now; and is available
 from this mission.
 
-

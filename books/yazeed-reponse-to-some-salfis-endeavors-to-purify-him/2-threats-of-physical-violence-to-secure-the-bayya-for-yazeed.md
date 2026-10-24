@@ -319,4 +319,3 @@ attained? Can we really extol the legitimacy of a Khalifah who comes to
 power under the shadow of such methods? Is this how you sell the Islamic
 concept of khilafat to non-Muslims?
 
-

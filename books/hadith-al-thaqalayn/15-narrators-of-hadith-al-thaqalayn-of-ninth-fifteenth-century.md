@@ -61,4 +61,3 @@ leading scholars. [^4]
 
 [^4]: Al-Daw' al-lami\`, ii, 36-40.
 
-

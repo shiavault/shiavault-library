@@ -1,12 +1,8 @@
 Discourse 30: The Signs of a Person With Character
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الصَّادِقِ: ثَلاَثَةٌ تَدُلُّ عَلـى كَرْمِ الْـمَرْءِ: حُسْنُ
-الْخُلْقِ وَ كَظْمُ الْغَيْظِ وَ غَضُّ الْبَصَرِ.
-  </p>
-</blockquote>
+> عَنِ الصَّادِقِ: ثَلاَثَةٌ تَدُلُّ عَلـى كَرْمِ الْـمَرْءِ: حُسْنُ
+> الْخُلْقِ وَ كَظْمُ الْغَيْظِ وَ غَضُّ الْبَصَرِ.
 
 [Imam Ja’far b. Muhammad] as-Sadiq (as) has said: “There are three
 things which show the character of a person: good etiquette; swallowing
@@ -19,11 +15,7 @@ Qur\`an and the traditions, it refers to the character or temperament
 and the spiritual worth of a person. For example it has been mentioned
 in the Qur\`an that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللٌّهِ أَتْقٌكُمْ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللٌّهِ أَتْقٌكُمْ
 
 “Surely the one with the most character, worth, noblest of traits and
 ethical values amongst you in the sight of Allah is the one who is the
@@ -76,5 +68,4 @@ ourselves and pray that Allah (SwT) gives us the Divine providence to be
 able to possess these traits!
 
 [^1]: Ibid., vol. 75, pg. 232
-
 

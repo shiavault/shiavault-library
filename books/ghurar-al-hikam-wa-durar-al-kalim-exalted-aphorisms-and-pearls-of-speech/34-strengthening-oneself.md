@@ -7,4 +7,3 @@ Strengthening Oneself
 
 > 1ـ اَلتَّأيُّدُ حَزْمٌ.
 
-

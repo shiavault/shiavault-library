@@ -58,4 +58,3 @@ than those who show hostility, abuse and make use of slander.
 Ali Shariati  
  June, 1971
 
-

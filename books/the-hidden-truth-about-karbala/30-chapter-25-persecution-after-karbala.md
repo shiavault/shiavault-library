@@ -995,4 +995,3 @@ Kerbala & Beyond, p.114 – 116.
 
 [^36]: Al-Jibouri’s Kerbala & Beyond, p.108-109.
 
-

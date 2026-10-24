@@ -118,10 +118,8 @@ and*as-Sunan-ul-kubrā* (5:132 \# 8484); Ahmad bin Hambal
 in*Fadā’il-us-sahābah* (2:620 \# 1060), and the last words of the
 tradition narrated in his*Musnad* (4:437, 438) are:
 
-<p dir="rtl">
 وقد تغير وجهه, فقال: دعوا عليا, دعوا عليا, إن علي مني وأنا منه, وهو ولي
 كل مؤمن بعدي.
-</p>
 
 *And his face flashed. Then he said: give up (opposing) ‘Alī, give up
 (opposing) ‘Alī. Surely ‘Alī is from me and I am from ‘Alī and after me
@@ -140,9 +138,7 @@ are men of integrity while Ibn Hibbān has also called it sound.
 The tradition in Tayālisī’s*Musnad* (p.111\#829) also contains these
 words: The Prophet (SAW) said:
 
-<p dir="rtl">
 ما لهم ولعلي؟
-</p>
 
 *Why are they so concerned about ‘Alī?*
 
@@ -181,13 +177,9 @@ Ahmad bin Hambal in his book*Fadā’il-us-sahābah* (2:610 \# 1042) has
 added the following words in the tradition related to ‘Umar bin
 al-Khattāb (RA). The Prophet (SAW) said:
 
-<p dir="rtl">
 وعاد من عاداه, وانصر من نصره, وأحب من أحبه.
-</p>
 
-<p dir="rtl">
 قال شعبة: أو قال: و ابغض من أبغضه.
-</p>
 
 *(O Allāh!) Be the enemy of one who is his (‘Alī’s) enemy, and help him
 who helps him, and love him who loves him.*
@@ -204,9 +196,7 @@ and evening (for ever).”
 Dhahabī has said in*Siyar a‘lām-in-nubalā’* (2:623, 624) that ‘Umar (RA)
 uttered the words:
 
-<p dir="rtl">
 هنيئا لك يا علي!
-</p>
 
 *O ‘Alī! Congratulations.*
 
@@ -256,5 +246,4 @@ Shāshī narrated it through ‘Āmir bin Sa‘d bin Abī Waqās in*al-Musnad*
 
 Ibn ‘Asākir narrated it through ‘Āmir bin Sa‘d and Sa‘d bin Abī Waqās
 in*Tārīkh Dimashq al-kabīr* (45:88).
-
 

@@ -164,4 +164,3 @@ A.H./1153 A.D. He was the most prominent Sunni historian of religions
 and philosophical trends in the Middle Ages. His famous book Kitab
 al-milal wal nihal was published in Cairo, Egypt, in 1288 A.H./1871 A.D.
 
-

@@ -171,4 +171,3 @@ and that of the ascetic and magician?
  4. What is the main condition for a miracle?  
  5. Have you ever seen something which is similar to a miracle?
 
-

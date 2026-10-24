@@ -308,4 +308,3 @@ authoritative support and rightful arguments in his favor." The Imam
 (a.s.) then said, " Allah, the Most Holy, the Most High, says, 'On the
 day when We call every nation with their leaders, . . . (17:71)."
 
-

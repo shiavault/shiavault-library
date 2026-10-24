@@ -119,4 +119,3 @@ similar to the Resurrection Why?
  4. What is the energy of the Resurrection?  
  5. Why has the Holy Qur’an emphasized the green tree?
 
-

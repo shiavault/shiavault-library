@@ -18,4 +18,3 @@ inherent demerit in any action.”
 
 [^1]: Ash-Shaykh as-Saduq, al-I\`tiqadat.
 
-

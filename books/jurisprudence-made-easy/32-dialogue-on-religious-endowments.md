@@ -99,4 +99,3 @@ endowment in time of need, it could be spent on all the needs of the
 original mosque, as the person who made the endowment had intended. 
 Only then can it be spent on maintaining another mosque.
 
-

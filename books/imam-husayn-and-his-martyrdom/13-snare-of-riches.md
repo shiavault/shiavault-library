@@ -22,4 +22,3 @@ in their favour. They made their veils into flags, and marched in battle
 array. The enemy mistook them for reinforcements and abandoned the
 field. Thus an impending defeat was turned into a victory.
 
-

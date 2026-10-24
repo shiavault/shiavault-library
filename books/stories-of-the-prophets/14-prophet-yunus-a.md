@@ -73,4 +73,3 @@ the people listened
 
 and Allah forgave them.
 
-

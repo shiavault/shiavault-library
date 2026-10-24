@@ -445,4 +445,3 @@ Lahore 1971, p. 89
 [^15] Ibid., p. 90
 [^16] Wasail al Shiah, vol. 2 p. 535 (Bab No. 82, hadith No. 2)
 
-

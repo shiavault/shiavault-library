@@ -78,4 +78,3 @@ this human emotion is created only when he considers the child a past of
 himself. But if he knows that the child is the issue of someone else,
 there remains no reason why he should fulfill the needs of the child.
 
-

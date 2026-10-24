@@ -123,4 +123,3 @@ al-Saoud, Abu Hayan, Ibn Abu al-Hadeed, Baidhawi, Nasfi, Haithami, Ibn
 Sabagh, Ganji, Manawi, Qastalani, Zarandi, Khazin, Zargani, Ibn Hajar,
 Samhoudi, Suyuti, Safuri, Saban, Shab Lanje, Handhrami, and Nabhawi.
 
-

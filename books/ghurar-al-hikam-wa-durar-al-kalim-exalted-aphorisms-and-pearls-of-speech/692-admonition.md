@@ -8,11 +8,7 @@ preaches, accept advice from the adviser who is vigilant, and act upon
 what he teaches you.
 
 > 1ـ اِسْتَصْبِحُوا مِنْ شُعْلَةِ واعِظ مُتَّعِظ، وأقْبَلُوا نَصيحَةَ
-<blockquote dir="rtl">
-  <p>
-ناصِح مُتَيَقِّظ، وَقِفُوا عِنْدَ ما أفادَكُمْ مِنَ التَّعْليمِ.
-  </p>
-</blockquote>
+> ناصِح مُتَيَقِّظ، وَقِفُوا عِنْدَ ما أفادَكُمْ مِنَ التَّعْليمِ.
 
 2. Indeed the most hearing ear is one that listens to admonition and
 heeds it.
@@ -34,53 +30,33 @@ lay, and taking a lesson from the outcome of one’s forefathers and
 foremothers.
 
 > 5ـ أبْلَغُ العِظاتِ اَلنَّظَرُ إلى مَصارِعِ الأمْواتِ،وَ الاِعْتِبارُ
-<blockquote dir="rtl">
-  <p>
-بِمَصائِرِ الآباءِ وَالأُمَّهاتِ.
-  </p>
-</blockquote>
+> بِمَصائِرِ الآباءِ وَالأُمَّهاتِ.
 
 6. The most effective adviser for you is this world, if only you took a
 lesson from what it shows you of the changing circumstances and what it
 informs you of disunion and separation.
 
 > 6ـ أبْلَغُ ناصِح لَكَ الدُّنْيا، لَوِ انْتَصَحْتَ بِما تُريكَ مِنْ
-<blockquote dir="rtl">
-  <p>
-تَغايُرِ الحالاتِ، وَتُؤْذِنُكَ بِهِ مِنَ البَيْنِ والشَّتاتِ.
-  </p>
-</blockquote>
+> تَغايُرِ الحالاتِ، وَتُؤْذِنُكَ بِهِ مِنَ البَيْنِ والشَّتاتِ.
 
 7. Verily there is a lesson and an admonition in everything for the
 people of wisdom and understanding.
 
 > 7ـ إنَّ في كُلِّ شَيْء مَوْعِظَةً وعِبْرَةً لِذَوِى اللُّبِ
-<blockquote dir="rtl">
-  <p>
-وَالاِعْتِبارِ.
-  </p>
-</blockquote>
+> وَالاِعْتِبارِ.
 
 8. Verily the most sincere of people is one who admonishes himself and
 is most submissive to his Lord.
 
 > 8ـ إنَّ أنْصَحَ النّاسِ أنْصَحُهُمْ لِنَفْسِهِ، وأطْوَعُهُمْ
-<blockquote dir="rtl">
-  <p>
-لِرَبِّهِ.
-  </p>
-</blockquote>
+> لِرَبِّهِ.
 
 9. Verily the admonition that is neither discarded by the ears nor
 matched in benefit is that which is not expressed by the speaking
 tongue, rather it is exhibited by the tongue of action.
 
 > 9ـ إنَّ الوَعْظَ الَّذي لايَمُجُّهُ سَمْعٌ، ولايَعْدِلُهُ نَفْعٌ، ما
-<blockquote dir="rtl">
-  <p>
-سَكَتَ عَنْهُ لِسانُ القَوْلِ، ونَطَقَ بِِهِ لِسانُ الفِعْلِ.
-  </p>
-</blockquote>
+> سَكَتَ عَنْهُ لِسانُ القَوْلِ، ونَطَقَ بِِهِ لِسانُ الفِعْلِ.
 
 10. Accepting admonition means taking a lesson [and putting into
 action].
@@ -136,11 +112,7 @@ negligence.
 deterred [from sin] and benefits from the lessons [he has] learnt.
 
 > 22ـ رَحِمَ اللّهُ امْرَءاً اِتَّعَظَ وازْدَجَرَ، وانْتَفَعَ
-<blockquote dir="rtl">
-  <p>
-بِالعِبَرِ.
-  </p>
-</blockquote>
+> بِالعِبَرِ.
 
 23. Many a commander [towards good] does not follow [his own] commands.
 
@@ -169,11 +141,7 @@ lesson from the [sudden] changes in circumstances, and take benefit from
 the Warners.
 
 > 28ـ فِطْنَةُ المَواعِظِ تَدْعُو إلى الحَذَرِ، فَاتَّعِظُوا بِالعِبَرِ،
-<blockquote dir="rtl">
-  <p>
-واعْتَبِرُوا بِالغِيَرِ، وَانْتَفِعُوا بِالنُّذُرِ.
-  </p>
-</blockquote>
+> واعْتَبِرُوا بِالغِيَرِ، وَانْتَفِعُوا بِالنُّذُرِ.
 
 29. For the people who possess intellect, what they experience is
 sufficient as an admonition.
@@ -184,11 +152,7 @@ sufficient as an admonition.
 [passing] days has not understood the admonitions of time.
 
 > 30ـ لَمْ يَعْقِلْ مَواعِظَ الزَّمانِ مَنْ سَكَنَ إلى حُسْنِ الظَّنِّ
-<blockquote dir="rtl">
-  <p>
-بِالأيّامِ.
-  </p>
-</blockquote>
+> بِالأيّامِ.
 
 31. Do not shun the one who admonishes you [to good].
 
@@ -207,11 +171,7 @@ Allah makes an example out of him for the people.
 positive thoughts about his days.
 
 > 34ـ مَنْ فَهِمَ مَواعِظَ الزَّمانِ لَمْ يَسْكُنْ إلى حُسْنِ الظَّنِّ
-<blockquote dir="rtl">
-  <p>
-بِالأيّامِ.
-  </p>
-</blockquote>
+> بِالأيّامِ.
 
 35. Admonition is an excellent gift.
 
@@ -226,14 +186,10 @@ clear knowledge or strong faith. He fears death but does not fear loss
 [of opportunity to do good deeds for his Hereafter].
 
 > 36ـ وقالَ في ذِكْرِ مَنْ ذَمَّهُ: هُوَ بِالقَوْلِ مُدِلٌّ، ومِنَ
-<blockquote dir="rtl">
-  <p>
-العَمَلِ مُقِلٌّ، وَعَلى النّاسِ طاعِنٌ، ولِنَفْسِِهِ مُداهِنٌ، هُوَ
-في مُهْلَة مِنَ اللّهِ يَهْوي مَعَ الْغافِلينَ، ويَغْدُو مَعَ
-المُذْنِبينَ بِلا سَبيل قاصِد، ولا إمام قائِد ولاعِلْم مُبين، ولادين
-مَتين، هُوَ يَخْشَي المَوْتَ ولايَخافُ الفَوْتَ.
-  </p>
-</blockquote>
+> العَمَلِ مُقِلٌّ، وَعَلى النّاسِ طاعِنٌ، ولِنَفْسِِهِ مُداهِنٌ، هُوَ
+> في مُهْلَة مِنَ اللّهِ يَهْوي مَعَ الْغافِلينَ، ويَغْدُو مَعَ
+> المُذْنِبينَ بِلا سَبيل قاصِد، ولا إمام قائِد ولاعِلْم مُبين، ولادين
+> مَتين، هُوَ يَخْشَي المَوْتَ ولايَخافُ الفَوْتَ.
 
 37. Never be one of those who do not benefit from admonition unless you
 give him a painful punishment, for indeed the intelligent one takes
@@ -241,12 +197,8 @@ admonishment from discipline whereas beasts are not deterred except by
 beating.
 
 > 37ـ لاتَكُونَنَّ مِمَّنْ لاتَنْفَعُهُ المَوْعِظَةُ إلاّ إذا بالَغْتَ
-<blockquote dir="rtl">
-  <p>
-في إيلامِهِ، فَإنَّ العاقِلَ يَتَّعِظُ بِالأدَبِ، والبَهائِمَ
-لاتَرْتَدِعُ إلاّ بِالضَّرْبِ.
-  </p>
-</blockquote>
+> في إيلامِهِ، فَإنَّ العاقِلَ يَتَّعِظُ بِالأدَبِ، والبَهائِمَ
+> لاتَرْتَدِعُ إلاّ بِالضَّرْبِ.
 
 38. people, how much admonition will you be given yet you decline it?
 How much have the preachers preached to you, the warners warned you, the
@@ -259,16 +211,12 @@ be accounting without action, and the wrongdoers will soon know to what
 final place they will return.
 
 > 38ـ يا أيُّهَا النّاسُ إلى كَمْ تُوعَظُونَ ولاتَتَّعِظُونَ؟! فَكَمْ
-<blockquote dir="rtl">
-  <p>
-قَدْ وَعَظَكُمْ الواعِظُونَ، وحَذَّرَكُمْ المُحَذِّرُونَ، وزَجَرَكُمْ
-الزّاجِرُونَ، وبَلَّغَكُمُ العالِمُونَ، وَعَلى سَبيلِ النَّجاةِ
-دَلَّكُمُ الأنْبياءُ والمُرْسَلُونَ، وأقامُوا عَلَيْكُمُ الحُجَّةَ،
-وأوْضَحُوا لَكُمُ المَحَجَّةَ، فَبا دِرُوا العَمَلَ، واغْتَنِمُوا
-المَهَلَ، فَإنَّ اليَوْمَ عَمَلٌ ولاحِسابٌ، وغَداً حِسابٌ ولاعَمَلٌ،
-وسَيَعْلَمُ الَّذينَ ظَلَمُوا أيَّ مُنْقَلَب يَنْقَِلبُونَ.
-  </p>
-</blockquote>
+> قَدْ وَعَظَكُمْ الواعِظُونَ، وحَذَّرَكُمْ المُحَذِّرُونَ، وزَجَرَكُمْ
+> الزّاجِرُونَ، وبَلَّغَكُمُ العالِمُونَ، وَعَلى سَبيلِ النَّجاةِ
+> دَلَّكُمُ الأنْبياءُ والمُرْسَلُونَ، وأقامُوا عَلَيْكُمُ الحُجَّةَ،
+> وأوْضَحُوا لَكُمُ المَحَجَّةَ، فَبا دِرُوا العَمَلَ، واغْتَنِمُوا
+> المَهَلَ، فَإنَّ اليَوْمَ عَمَلٌ ولاحِسابٌ، وغَداً حِسابٌ ولاعَمَلٌ،
+> وسَيَعْلَمُ الَّذينَ ظَلَمُوا أيَّ مُنْقَلَب يَنْقَِلبُونَ.
 
 39. He loves to be obeyed while he disobeys and to be given his full
 share while he does not give others their dues. He loves to be described
@@ -277,21 +225,13 @@ from others what is due to him while not letting others ask for their
 rights from him.
 
 > 39ـ يُحِبُّ أنْ يُطاعَ ويَعْصيَ، ويَسْتَوْفيَ ولا يُوفيَ، يُحِبُّ أنْ
-<blockquote dir="rtl">
-  <p>
-يُوصَفَ بِالسَّخاءِ ولايُعْطى، ويَقْتَضي ولايُقْتَضى.
-  </p>
-</blockquote>
+> يُوصَفَ بِالسَّخاءِ ولايُعْطى، ويَقْتَضي ولايُقْتَضى.
 
 40. He speaks of the world with the words of the abstemious yet acts in
 it with the actions of the desirous.
 
 > 40ـ يَقُولُ فِي الدُّنيا بِقَوْلِ الزّاهِدينَ، ويَعْمَلُ فيها بِعَمَلِ
-<blockquote dir="rtl">
-  <p>
-الرّاغِبينَ.
-  </p>
-</blockquote>
+> الرّاغِبينَ.
 
 41. He manifests the traits of the virtuous yet secretly performs the
 actions of the wicked. He hates death because of his numerous sins yet
@@ -322,35 +262,26 @@ the servants with regards to [the commandments of] his Lord yet does not
 fear his Lord with regards to the servants.
 
 > 41ـ يُظْهِرُ شيمَةَ المُحْسِنينَ، ويُبْطِنُ عَمَلَ المُسيئينَ،
-<blockquote dir="rtl">
-  <p>
-يَكْرَهُ المَوْتَ لِكَثْرَةِ ذُنُوبِهِ، ولا يَتْرُكُها في حَياتِهِِ،
-يُسْلِفُ الذَّنْبَ ويُسَوِّفُ بِالتَّوْبَةِ، يُحِبُّ الصّالِحينَ،
-ولايَعْمَلُ أعْمالَهُمْ، ويُبْغِضُ المُسيئينَ وهُوَ مِنْهُمْ، يَقُولُ
-لِمَ أعْمَلُ فَأَتَعَنّى، بَلْ أجْلِسُ فَأَتَمَنّى، يُبادِرُ دائِباً
-ما يَفْنى، ويَدَعُ ما يَبْقى، يَعْجِزُ عَنْ شُكْرِ ما أُوتيَ،
-وَيَبْتَغِى الزِّيادَةَ فيما بَقِيَ يُرشِدُ غَيْرَهُ ويُغْوي نَفْسَهُ،
-وَيَنْهَى النّاسَ بِما لا يَنْتَهي، ويَأمُرُهُمْ بِما لا يَأتي
-يَتَكَلَّفُ مِنَ النّاسِ ما لَم
-  </p>
-</blockquote>
+> يَكْرَهُ المَوْتَ لِكَثْرَةِ ذُنُوبِهِ، ولا يَتْرُكُها في حَياتِهِِ،
+> يُسْلِفُ الذَّنْبَ ويُسَوِّفُ بِالتَّوْبَةِ، يُحِبُّ الصّالِحينَ،
+> ولايَعْمَلُ أعْمالَهُمْ، ويُبْغِضُ المُسيئينَ وهُوَ مِنْهُمْ، يَقُولُ
+> لِمَ أعْمَلُ فَأَتَعَنّى، بَلْ أجْلِسُ فَأَتَمَنّى، يُبادِرُ دائِباً
+> ما يَفْنى، ويَدَعُ ما يَبْقى، يَعْجِزُ عَنْ شُكْرِ ما أُوتيَ،
+> وَيَبْتَغِى الزِّيادَةَ فيما بَقِيَ يُرشِدُ غَيْرَهُ ويُغْوي نَفْسَهُ،
+> وَيَنْهَى النّاسَ بِما لا يَنْتَهي، ويَأمُرُهُمْ بِما لا يَأتي
+> يَتَكَلَّفُ مِنَ النّاسِ ما لَم
 
-<blockquote dir="rtl">
-  <p>
-يُؤْمَرْ ويُضَيِّعُ مِنْ نَفْسِهِ ما هُوَ أكْثَرُ يَأمُرُ النّاسَ
-ولايَأْتَمِرُ، ويُحَذِّرُهُمْ ولايَحذَرُ، يَرْجُو ثَوابَ ما لَمْ
-يَعْمَلْ ويَأمَنُ عِقابَ جُرْم مُتَيَقِّن، يَسْتَميلُ وُجُوهَ النّاسِ
-بِتَدَيُّنِهِ ويُبْطِنُ ضِدَّ ما يُعْلِنُ يَعْرِفُ لِنَفْسِهِ عَلى
-غَيْرِه، ولايَعْرِفُ عَلَيْها لِغَيْرِهِ، يَخافُ عَلى غَيْرِهِ
-بِأكْثَرَ مِنْ ذَنْبِهِ، وَيَرْجُو لِنَفْسِهِ أكْثَرَ مِنْ عَمَلِهِ،
-يَرْجُوا اللّهَ فِي الكَبيرِ، ويَرْجُو العِبادَ فِي الصَّغيرِ،
-فَيُعْطِى العَبْدَ ما لايُعْطِى الرَبَّ، يَخافُ العَبيدَ فِي الرَّبِّ،
-ولايَخافُ فِي العَبيدِ الرَّبَّ.
-  </p>
-</blockquote>
+> يُؤْمَرْ ويُضَيِّعُ مِنْ نَفْسِهِ ما هُوَ أكْثَرُ يَأمُرُ النّاسَ
+> ولايَأْتَمِرُ، ويُحَذِّرُهُمْ ولايَحذَرُ، يَرْجُو ثَوابَ ما لَمْ
+> يَعْمَلْ ويَأمَنُ عِقابَ جُرْم مُتَيَقِّن، يَسْتَميلُ وُجُوهَ النّاسِ
+> بِتَدَيُّنِهِ ويُبْطِنُ ضِدَّ ما يُعْلِنُ يَعْرِفُ لِنَفْسِهِ عَلى
+> غَيْرِه، ولايَعْرِفُ عَلَيْها لِغَيْرِهِ، يَخافُ عَلى غَيْرِهِ
+> بِأكْثَرَ مِنْ ذَنْبِهِ، وَيَرْجُو لِنَفْسِهِ أكْثَرَ مِنْ عَمَلِهِ،
+> يَرْجُوا اللّهَ فِي الكَبيرِ، ويَرْجُو العِبادَ فِي الصَّغيرِ،
+> فَيُعْطِى العَبْدَ ما لايُعْطِى الرَبَّ، يَخافُ العَبيدَ فِي الرَّبِّ،
+> ولايَخافُ فِي العَبيدِ الرَّبَّ.
 
 42. The one who accepts admonition has indeed awoken.
 
 > 42ـ قَدْ تَيَقَّظَ مَنِ اتَّعَظَ.
-
 

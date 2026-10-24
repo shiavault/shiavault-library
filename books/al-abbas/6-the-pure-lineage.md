@@ -669,4 +669,3 @@ ul- Khawaas, 7; and Al-Khissal, 1/38.
 
 [^31]: See al-Bukhari, as-Sahih, 3/50; al-Hakim, al-Mustdrak, 3/220
 
-

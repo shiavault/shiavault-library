@@ -40,4 +40,3 @@ favours of Allah while in possession of such favours plays flute, he has
 been unthankful to the favours of Allah."  
   
 
-

@@ -542,4 +542,3 @@ Likewise, limitation on, and regulation of, sexual behaviour and the
 related activities, consistent with the needs of chastity and rectitude,
 should also be acceptable to everyone.
 
-

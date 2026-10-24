@@ -108,4 +108,3 @@ from?
  This epoch-making episode happened in 570 A.D. It was in the same year
 that the Holy Prophet of Islam was born to \`Abdullah and Amina.
 
-

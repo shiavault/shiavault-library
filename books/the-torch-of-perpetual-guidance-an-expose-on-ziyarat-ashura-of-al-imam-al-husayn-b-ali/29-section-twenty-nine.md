@@ -1,15 +1,11 @@
 Section Twenty Nine
 ===================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ لَكَ الْحَمْدُ حَمْدَ الشَّاكِرِينَ لَكَ عَلَى
-مُصَابِهِمْ، الْحَمْدُ لِلّهِ عَلَى عَظِيمِ رَزِيَّتِي، أَللَّهُمَّ
-ارْزُقْنِي شَفاعَةَ الْحُسَيْنِ يَوْمَ الْوُرُودِ، وَثَبِّتْ لِي
-قَدَمَ صِدْقٍ عِنْدَكَ مَعَ الْحُسَيْنِ وَأَصْحابِ الْحُسَيْنِ
-الَّذِينَ بَذَلُوا مُهَجَهُمْ دُونَ الْحُسَيْنِ.
-  </p>
-</blockquote>
+> أَللَّهُمَّ لَكَ الْحَمْدُ حَمْدَ الشَّاكِرِينَ لَكَ عَلَى
+> مُصَابِهِمْ، الْحَمْدُ لِلّهِ عَلَى عَظِيمِ رَزِيَّتِي، أَللَّهُمَّ
+> ارْزُقْنِي شَفاعَةَ الْحُسَيْنِ يَوْمَ الْوُرُودِ، وَثَبِّتْ لِي
+> قَدَمَ صِدْقٍ عِنْدَكَ مَعَ الْحُسَيْنِ وَأَصْحابِ الْحُسَيْنِ
+> الَّذِينَ بَذَلُوا مُهَجَهُمْ دُونَ الْحُسَيْنِ.
 
 “O’ Allah! To you belongs the praise, the praise of those who are
 thankful to You for their tribulations. All Praise belongs to Allah for
@@ -38,5 +34,4 @@ commanded us to love and to hate those whom He has commanded us to hate.
 We also ask for the Tawfeeq to be able to follow the footsteps of Husayn
 and that we are able to reject the “Islam” of Yazid and the likes of
 him...
-
 

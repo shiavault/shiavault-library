@@ -10,11 +10,7 @@ Surah al-Ahqaf, Chapter 46, Verses 1 - 21
 General Contents of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -40,33 +36,17 @@ against the fears of this world and the world to come.”*
 Surah al-Ahqaf - Verses 1-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ
-  </p>
-</blockquote>
+> تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ
 
-<blockquote dir="rtl">
-  <p>
-مَا خَلَقْنَا السَّمَاوَاتِ وَالْأرْضَ وَمَا بَيْنَهُمَا إِلاّ
-بِالْحَقِّ وَأجَلٍ مُسَمّی وَالَّذِينَ كَفَرُوا عَمَّا اُنْذِرُوا
-مُعْرِضُونَ
-  </p>
-</blockquote>
+> مَا خَلَقْنَا السَّمَاوَاتِ وَالْأرْضَ وَمَا بَيْنَهُمَا إِلاّ
+> بِالْحَقِّ وَأجَلٍ مُسَمّی وَالَّذِينَ كَفَرُوا عَمَّا اُنْذِرُوا
+> مُعْرِضُونَ
 
 ***1. HM.***  
 ***2. The revelation of [this] Book is from Allah, the Omnipotent, the
@@ -146,14 +126,10 @@ lusts.”
 Surah al-Ahqaf - Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أرَأيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ أرُونِي مَاذَا
-خَلَقُوا مِنَ الْأرْضِ أمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ ائْتُونِي
-بِكِتَابٍ مِنْ قَبْلِ هَذَا أوْ أثَارَةٍ مِنْ عِلْمٍ إِنْ كُنْتُمْ
-صَادِقِينَ
-  </p>
-</blockquote>
+> قُلْ أرَأيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ أرُونِي مَاذَا
+> خَلَقُوا مِنَ الْأرْضِ أمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ ائْتُونِي
+> بِكِتَابٍ مِنْ قَبْلِ هَذَا أوْ أثَارَةٍ مِنْ عِلْمٍ إِنْ كُنْتُمْ
+> صَادِقِينَ
 
 ***4. Say: “Think you about all that you invoke besides Allah? Show me.
 What have they created of the earth? Or have they a share in [the
@@ -223,19 +199,11 @@ They are all needful of the Absolute Self-Sufficient Being.
 Surah al-Ahqaf - Verses 5-6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أضَلُّ مِمَّنْ يَدْعُو مِنْ دُونِ اللَّهِ مَنْ لا يَسْتَجِيبُ
-لَهُ إِلَی يَوْمِ الْقِيَامَةِ وَهُمْ عَنْ دُعَائِهِمْ غَافِلُونَ
-  </p>
-</blockquote>
+> وَمَنْ أضَلُّ مِمَّنْ يَدْعُو مِنْ دُونِ اللَّهِ مَنْ لا يَسْتَجِيبُ
+> لَهُ إِلَی يَوْمِ الْقِيَامَةِ وَهُمْ عَنْ دُعَائِهِمْ غَافِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أعْدَاءً وَكَانُوا
-بِعِبَادَتِهِمْ كَافِرِينَ
-  </p>
-</blockquote>
+> وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أعْدَاءً وَكَانُوا
+> بِعِبَادَتِهِمْ كَافِرِينَ
 
 ***5. And he who is more astray than one who invokes [ones] besides
 Allah who will not answer him till the Day of Resurrection and who are
@@ -321,12 +289,8 @@ Irresistible?”***[^30]***.***
 Surah al-Ahqaf - Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَی عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ
-كَفَرُوا لِلْحَقِّ لَمَّا جَاءَهُمْ هَذَا سِحْرٌ مُبِينٌ
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَی عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ
+> كَفَرُوا لِلْحَقِّ لَمَّا جَاءَهُمْ هَذَا سِحْرٌ مُبِينٌ
 
 ***7. And when Our Clear Verses are recited to them, the disbelievers
 say of the truth when it reaches them: “This is plain magic!”***
@@ -351,13 +315,9 @@ to the Noble Prophet (S).
 Surah al-Ahqaf - Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَلا تَمْلِكُونَ لِي
-مِنَ اللَّهِ شَيْئاً هُوَ أعْلَمُ بِمَا تُفِيضُونَ فِيهِ كَفَی بِهِ
-شَهِيداً بَيْنِي وَبَيْنَكُمْ وَهُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> أمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَلا تَمْلِكُونَ لِي
+> مِنَ اللَّهِ شَيْئاً هُوَ أعْلَمُ بِمَا تُفِيضُونَ فِيهِ كَفَی بِهِ
+> شَهِيداً بَيْنِي وَبَيْنَكُمْ وَهُوَ الْغَفُورُ الرَّحِيمُ
 
 ***8. Or they say: “He has fabricated it.” Say: “If I have fabricated it
 still you have no power to support me against [the Wrath of] Allah. He
@@ -389,13 +349,9 @@ to be a witness between us. He is Most Forgiving and Most Merciful.’”
 Surah al-Ahqaf - Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا كُنْتُ بِدْعاً مِنَ الرُّسُلِ وَمَا أدْرِي مَا يُفْعَلُ بِي
-وَلا بِكُمْ إِنْ أتَّبِعُ إِلاّ مَا يُوحَی إِلَيَّ وَمَا أنَا إِلاّ
-نَذِيرٌ مُبِينٌ
-  </p>
-</blockquote>
+> قُلْ مَا كُنْتُ بِدْعاً مِنَ الرُّسُلِ وَمَا أدْرِي مَا يُفْعَلُ بِي
+> وَلا بِكُمْ إِنْ أتَّبِعُ إِلاّ مَا يُوحَی إِلَيَّ وَمَا أنَا إِلاّ
+> نَذِيرٌ مُبِينٌ
 
 ***9. Say: “I am not unprecedented among the Messengers nor do I know
 what will be done with me or with you. I only follow that which is
@@ -436,13 +392,9 @@ for them out of evil deeds as a recompense of their vices.
 Surah al-Ahqaf - Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أرَأيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ وَكَفَرْتُمْ بِهِ
-وَشَهِدَ شَاهِدٌ مِنْ بَنِي إِسْرائيلَ عَلَی مِثْلِهِ فَآمَنَ
-وَاسْتَكْبَرْتُمْ إِنَّ اللَّهَ لا يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> قُلْ أرَأيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ وَكَفَرْتُمْ بِهِ
+> وَشَهِدَ شَاهِدٌ مِنْ بَنِي إِسْرائيلَ عَلَی مِثْلِهِ فَآمَنَ
+> وَاسْتَكْبَرْتُمْ إِنَّ اللَّهَ لا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 ***10. Say: “Tell me! If this [Qur’an] is from Allah and you deny it,
 and a witness to it from among the Children of Israel testifies that
@@ -479,13 +431,9 @@ wrong doers? Sunk in wrong doing, they are not guidable.
 Surah al-Ahqaf - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا لَوْ كَانَ خَيْراً مَا
-سَبَقُونَا إِلَيْهِ وَإِذْ لَمْ يَهْتَدُوا بِهِ فَسَيَقُولُونَ هَذَا
-إِفْكٌ قَدِيمٌ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا لَوْ كَانَ خَيْراً مَا
+> سَبَقُونَا إِلَيْهِ وَإِذْ لَمْ يَهْتَدُوا بِهِ فَسَيَقُولُونَ هَذَا
+> إِفْكٌ قَدِيمٌ
 
 ***11. And those who disbelieve say of those who believe: “Had it [the
 Islamic faith] been a good thing, they would not have preceded us
@@ -524,13 +472,9 @@ al-awwalin).
 Surah al-Ahqaf - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ قَبْلِهِ كِتَابُ مُوسَی إِمَاماً وَرَحْمَةً وَهَذَا كِتَابٌ
-مُصَدِّقٌ لِسَاناً عَرَبِيّاً لِيُنْذِرَ الَّذِينَ ظَلَمُوا وَبُشْرَی
-لِلْمُحْسِنِينَ
-  </p>
-</blockquote>
+> وَمِنْ قَبْلِهِ كِتَابُ مُوسَی إِمَاماً وَرَحْمَةً وَهَذَا كِتَابٌ
+> مُصَدِّقٌ لِسَاناً عَرَبِيّاً لِيُنْذِرَ الَّذِينَ ظَلَمُوا وَبُشْرَی
+> لِلْمُحْسِنِينَ
 
 ***12. And before this was the Scripture of Musa (Moses) as a guide and
 a mercy. And this is a confirming Book in the Arabic tongue to warn
@@ -562,19 +506,11 @@ rewards of the good deeds to the pious and the beneficent.
 Surah al-Ahqaf - Verses 13-14
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلا
-خَوْفٌ عَلَيْهِمْ وَلا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلا
+> خَوْفٌ عَلَيْهِمْ وَلا هُمْ يَحْزَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-اُولَئِكَ أصْحَابُ الْجَنَّةِ خَالِدِينَ فِيهَا جَزَاءً بِمَا كَانُوا
-يَعْمَلُونَ
-  </p>
-</blockquote>
+> اُولَئِكَ أصْحَابُ الْجَنَّةِ خَالِدِينَ فِيهَا جَزَاءً بِمَا كَانُوا
+> يَعْمَلُونَ
 
 ***13. Indeed those who say: “Our Lord is Allah,” and thereafter stand
 firm and straight [on the Islamic faith of Monotheism], on them shall be
@@ -649,16 +585,12 @@ those who merely talk.
 Surah al-Ahqaf - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْأِنْسَانَ بِوَالِدَيْهِ إِحْسَاناً حَمَلَتْهُ اُمُّهُ
-كُرْهاً وَوَضَعَتْهُ كُرْهاً وَحَمْلُهُ وَفِصَالُهُ ثَلاثُونَ شَهْراً
-حَتَّی إِذَا بَلَغَ أشُدَّهُ وَبَلَغَ أرْبَعِينَ سَنَةً قَالَ رَبِّ
-أوْزِعْنِي أنْ أشْكُرَ نِعْمَتَكَ الَّتِي أنْعَمْتَ عَلَيَّ وَعَلَی
-وَالِدَيَّ وَأنْ أعْمَلَ صَالِحاً تَرْضَاهُ وَأصْلِحْ لِي فِي
-ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْأِنْسَانَ بِوَالِدَيْهِ إِحْسَاناً حَمَلَتْهُ اُمُّهُ
+> كُرْهاً وَوَضَعَتْهُ كُرْهاً وَحَمْلُهُ وَفِصَالُهُ ثَلاثُونَ شَهْراً
+> حَتَّی إِذَا بَلَغَ أشُدَّهُ وَبَلَغَ أرْبَعِينَ سَنَةً قَالَ رَبِّ
+> أوْزِعْنِي أنْ أشْكُرَ نِعْمَتَكَ الَّتِي أنْعَمْتَ عَلَيَّ وَعَلَی
+> وَالِدَيَّ وَأنْ أعْمَلَ صَالِحاً تَرْضَاهُ وَأصْلِحْ لِي فِي
+> ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
 
 ***15. And We have enjoined on man to be dutiful and kind to his
 parents. His mother bears him with hardship. And she brings him forth
@@ -769,13 +701,9 @@ with two months of suckling amount to thirty months.
 Surah al-Ahqaf - Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُولَئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أحْسَنَ مَا عَمِلُوا
-وَنَتَجَاوَزُ عَنْ سَيِّئَاتِهِمْ فِي أصْحَابِ الْجَنَّةِ وَعْدَ
-الصِّدْقِ الَّذِي كَانُوا يُوعَدُونَ
-  </p>
-</blockquote>
+> اُولَئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أحْسَنَ مَا عَمِلُوا
+> وَنَتَجَاوَزُ عَنْ سَيِّئَاتِهِمْ فِي أصْحَابِ الْجَنَّةِ وَعْدَ
+> الصِّدْقِ الَّذِي كَانُوا يُوعَدُونَ
 
 ***16. They are those from whom We shall accept the best of their deeds
 and overlook their evil deeds. [They shall be] among the dwellers of
@@ -848,21 +776,13 @@ relatives”*[^40]*.*
 Surah al-Ahqaf - Verses 17-18
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي قَالَ لِوَالِدَيْهِ اُفٍّ لَكُمَا أتَعِدَانِنِي أنْ اُخْرَجَ
-وَقَدْ خَلَتِ الْقُرُونُ مِنْ قَبْلِي وَهُمَا يَسْتَغِيثَانِ اللَّهَ
-وَيْلَكَ آمِنْ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَيَقُولُ مَا هَذَا إِلاّ
-أسَاطِيرُ الْأوَّلِينَ
-  </p>
-</blockquote>
+> وَالَّذِي قَالَ لِوَالِدَيْهِ اُفٍّ لَكُمَا أتَعِدَانِنِي أنْ اُخْرَجَ
+> وَقَدْ خَلَتِ الْقُرُونُ مِنْ قَبْلِي وَهُمَا يَسْتَغِيثَانِ اللَّهَ
+> وَيْلَكَ آمِنْ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَيَقُولُ مَا هَذَا إِلاّ
+> أسَاطِيرُ الْأوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-اُولَئِكَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ فِي اُمَمٍ قَدْ خَلَتْ
-مِنْ قَبْلِهِمْ مِنَ الْجِنِّ وَالْأِنْسِ إِنَّهُمْ كَانُوا خَاسِرِينَ
-  </p>
-</blockquote>
+> اُولَئِكَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ فِي اُمَمٍ قَدْ خَلَتْ
+> مِنْ قَبْلِهِمْ مِنَ الْجِنِّ وَالْأِنْسِ إِنَّهُمْ كَانُوا خَاسِرِينَ
 
 ***17. But he who says to his parents: “Fie upon you both! Do you hold
 out the promise to me that I shall be raised up [from the grave
@@ -946,12 +866,8 @@ in Hell with their likes.”
 Surah al-Ahqaf - Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا وَلِيُوَفِّيَهُمْ أعْمَالَهُمْ
-وَهُمْ لا يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا وَلِيُوَفِّيَهُمْ أعْمَالَهُمْ
+> وَهُمْ لا يُظْلَمُونَ
 
 ***19. And for all [viz. Jinn and mankind, the preceding and coming
 generations], there will be degrees according to that which they did,
@@ -982,11 +898,7 @@ Every act shall be recompensed in full and no one shall be wronged.
 
 The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فمن یعمل مثقال ذره خیرا یره و من یعمل مثقال ذره شرا یره
-  </p>
-</blockquote>
+> فمن یعمل مثقال ذره خیرا یره و من یعمل مثقال ذره شرا یره
 
 ***“So whosoever does good equal to the weight of an atom shall see it
 and whosoever does evil equal to the weight of an atom shall see
@@ -1001,14 +913,10 @@ mundane life.
 Surah al-Ahqaf - Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُوا عَلَی النَّارِ أذْهَبْتُمْ
-طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنْيَا وَاسْتَمْتَعْتُمْ بِهَا
-فَالْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَسْتَكْبِرُونَ
-فِي الْأرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَفْسُقُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُوا عَلَی النَّارِ أذْهَبْتُمْ
+> طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنْيَا وَاسْتَمْتَعْتُمْ بِهَا
+> فَالْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَسْتَكْبِرُونَ
+> فِي الْأرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَفْسُقُونَ
 
 ***20. On the Day when those who disbelieve will be exposed to the Fire
 [it shall be said]: “You received your good things in the life of the
@@ -1044,13 +952,9 @@ torment (‘adhab al-hawn).
 Surah al-Ahqaf - Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ أخَا عَادٍ إِذْ أنْذَرَ قَوْمَهُ بِالْأحْقَافِ وَقَدْ خَلَتِ
-النُّذُرُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ ألَآ تَعْبُدُوا إِلاّ
-اللَّهَ إِنِّي أخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَاذْكُرْ أخَا عَادٍ إِذْ أنْذَرَ قَوْمَهُ بِالْأحْقَافِ وَقَدْ خَلَتِ
+> النُّذُرُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ ألَآ تَعْبُدُوا إِلاّ
+> اللَّهَ إِنِّي أخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
 
 ***21. And remember [Hud] the brother of ‘Ad, when he warned his people
 in Ahqaf. And surely, there have passed away warners before him and
@@ -1161,5 +1065,4 @@ torment of a mighty Day.”***
 [^42]: 99:7-8
 
 [^43]: Sermon 109
-
 

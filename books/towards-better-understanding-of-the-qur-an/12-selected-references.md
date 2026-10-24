@@ -21,4 +21,3 @@ Understanding the Uniqueness of the Qur’an, By Allama Murtudha Mutahhari
 
 Islam, the Qur’an and the Arabic Literature, By Elsayed M.H. Omran.
 
-

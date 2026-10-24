@@ -113,4 +113,3 @@ during obligatory Tawaf, then the performer can leave Tawaf, perform the
 prayer and then return and continue the rest of Tawaf, only if it is
 before the completion of four rounds or after that.
 
-

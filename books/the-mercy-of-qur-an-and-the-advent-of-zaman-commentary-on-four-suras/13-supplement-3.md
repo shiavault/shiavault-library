@@ -378,4 +378,3 @@ La huwa illa hu: There is none other than He. This is the final stamp
 of Truth. One burns in it. Nothing can take it away from you once it has
 been engraved because then you have paid your debt.
 
-

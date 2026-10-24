@@ -3,13 +3,9 @@ Lesson one Hundred Eleven: The Holy Quran is Evergreen
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللّه تَعالَى لَمْ يَجْعَلِ الْقُرآنَ لِزَمان دُوْنَ زَمان وَ لا
-لِناس دُوْنَ ناس فَهُوَ فِى كُلِّ زمانِ جَدِيدٌ وَ عِنْدَ كُلِّ قَوْم
-غَضٌّ إلى يَوْمِ الْقِيامَةِ
-  </p>
-</blockquote>
+> إنَّ اللّه تَعالَى لَمْ يَجْعَلِ الْقُرآنَ لِزَمان دُوْنَ زَمان وَ لا
+> لِناس دُوْنَ ناس فَهُوَ فِى كُلِّ زمانِ جَدِيدٌ وَ عِنْدَ كُلِّ قَوْم
+> غَضٌّ إلى يَوْمِ الْقِيامَةِ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ the passage of time. This in fact is one of the signs of Qur’an’s
 greatness and grandeur.
 
 [^1]: Safinat’ul-Bihar, volume two, page 413
-
 

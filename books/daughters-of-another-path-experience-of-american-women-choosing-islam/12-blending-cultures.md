@@ -194,4 +194,3 @@ a time when I am old when it will be their turn to take care of me. They
 are also told to kiss the hand of their mother, as I am the one who will
 ensure their entrance into paradise.
 
-

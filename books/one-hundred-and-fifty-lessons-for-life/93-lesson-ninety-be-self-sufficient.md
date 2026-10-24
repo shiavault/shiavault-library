@@ -3,12 +3,8 @@ Lesson Ninety: Be Self-Sufficient
 
 Imam As-Sajjad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الْحَوائِجِ إِلىَ النّاسِ مَذَلَّةٌ لِلْحَياةِ وَ مَذَهَبَةٌ
-لِلْحَياءِ وَ إِسْتِخْفافٌ بِالْوَقارِ وَ هُوَ الفَقْرُ الْحاضِرُ
-  </p>
-</blockquote>
+> طَلَبُ الْحَوائِجِ إِلىَ النّاسِ مَذَلَّةٌ لِلْحَياةِ وَ مَذَهَبَةٌ
+> لِلْحَياءِ وَ إِسْتِخْفافٌ بِالْوَقارِ وَ هُوَ الفَقْرُ الْحاضِرُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ and avoid a life of dependency for having to depend on others is itself
 a form of poverty.
 
 [^1]: Tuhaful Uqul, page 201
-
 

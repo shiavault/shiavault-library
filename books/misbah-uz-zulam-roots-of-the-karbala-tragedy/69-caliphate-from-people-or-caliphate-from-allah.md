@@ -16,4 +16,3 @@ him the successor of His Prophet in the world and in the religious
 sphere. It is a link of the complete series of spiritual Caliphate and
 Imamate. The material factors are in no way allowed to interfere in it.
 
-

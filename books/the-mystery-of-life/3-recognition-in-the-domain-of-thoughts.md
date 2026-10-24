@@ -593,14 +593,10 @@ replaced by supreme forms of unity.
 
 As Jalal-addin Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 گه چنين بنمايـــد و گه ضـــدّ ايــن جــز که حيرانــی نباشــد کار
 ديــن
-</p>
 
-<p dir="rtl">
 نه چنان حيران که پشتش سوی اوست بل چنين حيرت که محو و مست دوست
-</p>
 
 *Things change with time; indeed,*
 
@@ -622,37 +618,21 @@ Prophet of Islam asked God to increase his amazement. This form of
 amazement is far superior to all sciences and knowledge. As the renowned
 Iranian poet Attar Neishabouri describes it:
 
-<p dir="rtl">
 مرد حيران چون رسد اين جايگاه در تحير مانده و گـــم کــرده راه
-</p>
 
-<p dir="rtl">
 گم شود در راه حيرت محو و مات بی خبر از بود خــود وز کاينــات
-</p>
 
-<p dir="rtl">
 هر که زد توحيد بر جانــش رقم جملـه گم گـردد، ازو او نيـــز هم
-</p>
 
-<p dir="rtl">
 گر بدو گويند هستــی يا ﻧئـی؟ سر بلنــد عالمـی، پسـت کيــی؟
-</p>
 
-<p dir="rtl">
 در ميانــی يا برونـی از ميــان؟ در کنـاری يا نهانـــی يا عيــان؟
-</p>
 
-<p dir="rtl">
 فانيی يا باقيـــی يا هر دويــی هر دويــی يا تو نئی يا نه تويـی؟
-</p>
 
-<p dir="rtl">
 گويـد اصلاً مي ندانم چيــز من وين ندانـم هــم ندانـم نيز مـن
-</p>
 
-<p dir="rtl">
 هر که در دريای کل گم بوده شد دائماً گم بوده و آســـوده شــد
-</p>
 
 *(When man feels the light of God, he can even go far beyond that, and
 reach the truth about God, and if he is asked, 'Do you exist or not? You
@@ -1075,33 +1055,19 @@ in a terrible
 incident, the grief of the incident will affect his mind when making
 judgments about it. As Jalal-addin Muhammad Molawi (Rumi) says:
 
-<p dir="rtl">
 چـون تو با پرّ هــوا بر می پـــری لاجرم بر من گمان بـد میبـــری
-</p>
 
-<p dir="rtl">
 هــر که را افعال دام و دد بــــود بر کريمانـــش گمـان بــد بــود
-</p>
 
-<p dir="rtl">
 چون تو جزو عالمی پس ای مهيـن کل آن را همچـو خـود دانـی يقيـن
-</p>
 
-<p dir="rtl">
 چون تو برگردیّ و برگـردد سـرت خانه را گــــردنده بينــد منظرت
-</p>
 
-<p dir="rtl">
 ور تو در کشتی روی بر يـَـم روان ساحــل يم را همی بينــــی روان
-</p>
 
-<p dir="rtl">
 گر تـو باشـی تنگدل از ملحمـــه تنــگ بينـی چو دنيـــا را همـــه
-</p>
 
-<p dir="rtl">
 ور تـو خوش باشی به کام دوستان اين جهان بنمايــدت چون بوستان
-</p>
 
 *(Since you see everything as serving to fulfill your whims and desires,
 you become pessimistic about me. If one behaves like wild beasts, he/she
@@ -1144,45 +1110,25 @@ while after the sound goes away, too.”
 Jalal-addin Muhammad Molawi has also pointed out man's manipulative role
 in his famous story about the elephant:
 
-<p dir="rtl">
 پيل انـد ر خانـــة تاريـــک بــود عرضـه را آورده بودنـــدش هنـــود
-</p>
 
-<p dir="rtl">
 از بـــرای ديدنــش مردم بســی اندر آن ظلمت همی شد هر کسی
-</p>
 
-<p dir="rtl">
 ديدنش با چشم چون ممکـن نبـود انــدر آن تاريکيــش کف میبسـود
-</p>
 
-<p dir="rtl">
 آن يکی را کف به خرطــوم اوفتاد گفــت همچـون ناودانــــش نهـاد
-</p>
 
-<p dir="rtl">
 آن يکی را دست بر گوشـش رسيـد آن براو چـون بادبيـزن شد پديد
-</p>
 
-<p dir="rtl">
 آن يکی را کــف چو بر پايــش بود گفت شکل پيـل ديـدم چون عمود
-</p>
 
-<p dir="rtl">
 آن يکی بر پشــت او بنهاد دست گفت خود اين پيل چـون تختی بُدست
-</p>
 
-<p dir="rtl">
 هم چنين هر يک به جزئيكاو رسيد فهم آن می کرد هــر آن مــی تنيـد
-</p>
 
-<p dir="rtl">
 از نظرگـه گفتشـان شــد مختلــف آن يکی دالش لقـب داد آن الـــف
-</p>
 
-<p dir="rtl">
 در کف هر کــس اگر شمعـی بـدی اختلاف از گفتشــان بيـرون شــدی
-</p>
 
 *(An elephant was brought into a dark room, and many people came to see
 it. But since the room was dark, the people touched, and each person
@@ -1379,5 +1325,4 @@ beliefs and thoughts. Machiavelli cannot understand the character of a
 fair, just person who follows his logical responsibilities;
 Machiavellian accounts of such a man's character would be purely based
 on selfishness.
-
 

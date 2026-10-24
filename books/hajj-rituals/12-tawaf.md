@@ -231,4 +231,3 @@ acquired, i.e. not maghsoub. As a matter of precaution, all the rules
 applicable to the clothes worn during prayer must be observed during
 tawaf as well.
 
-

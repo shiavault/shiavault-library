@@ -20,4 +20,3 @@ intention, one can specify that he is giving Sadaqah with the hopes that
 it will be accepted as a protection for all of these people not just the
 Imam.
 
-

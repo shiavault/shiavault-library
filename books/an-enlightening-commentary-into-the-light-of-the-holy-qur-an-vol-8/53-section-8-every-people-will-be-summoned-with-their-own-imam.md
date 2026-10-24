@@ -4,13 +4,9 @@ Section 8: Every People Will Be Summoned with Their Own Imam
 Surah Isra’ – Verse 71
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُواْ كُلَّ اُنَاسٍ بإِمَامِهِمْ فَمَنْ اُوتِيَ كِتَابَهُ
-بِيَمِينِهِ فَاُوْلَئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلاَ يُظْلَمُونَ
-فَتِيلاً
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُواْ كُلَّ اُنَاسٍ بإِمَامِهِمْ فَمَنْ اُوتِيَ كِتَابَهُ
+> بِيَمِينِهِ فَاُوْلَئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلاَ يُظْلَمُونَ
+> فَتِيلاً
 
 ***71. “On the Day We shall call every people with their Imam (leader);
 then whoever is given his book in his right hand; then these will read
@@ -201,12 +197,8 @@ The verse says:
 Surah Isra’ – Verse 72
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن كَانَ فِي هذِهِ أَعْمَي فَهُوَ فِي الاَخِرَةِ أَعْمَي وَأَضَلُّ
-سَبِيلاً
-  </p>
-</blockquote>
+> وَمَن كَانَ فِي هذِهِ أَعْمَي فَهُوَ فِي الاَخِرَةِ أَعْمَي وَأَضَلُّ
+> سَبِيلاً
 
 ***72. “And, whoever is blind in this (life), he will (also) be blind in
 the Hereafter and (even) more erring from the way.”***
@@ -282,12 +274,8 @@ failed to grasp in the world.
 Surah Isra’ – Verse 73
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَآ إِلَيْكَ
-لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ وَإِذاً لاَتَّخَذُوكَ خَلِيلاً
-  </p>
-</blockquote>
+> وَإِن كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَآ إِلَيْكَ
+> لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ وَإِذاً لاَتَّخَذُوكَ خَلِيلاً
 
 ***73. “And verily they were about to tempt you away from what We
 revealed to you so that you would ascribe against Us other than that,
@@ -340,19 +328,11 @@ for making the Prophet (S) exceed the limits.
 Surah Isra’ – Verses 74 - 75
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلآ أَن ثَبَّتْنَاكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْئاً
-قَلِيلاً
-  </p>
-</blockquote>
+> وَلَوْلآ أَن ثَبَّتْنَاكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْئاً
+> قَلِيلاً
 
-<blockquote dir="rtl">
-  <p>
-إِذاً لاََذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لاَ
-تَجِدُ لَكَ عَلَيْنَا نَصِيراً
-  </p>
-</blockquote>
+> إِذاً لاََذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لاَ
+> تَجِدُ لَكَ عَلَيْنَا نَصِيراً
 
 ***74. “And had it not been that We had established you already, you
 would certainly have been near to incline towards them a little.”***  
@@ -442,12 +422,8 @@ face of all satanical temptations.
 Surah Isra’ – Verse 76
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَادُوا لَيَسْتَفِزُّونَكَ مِنَ الاَرْضِ لِيُخْرِجُوكَ مِنْهَا
-وإِذاً لاَّ يَلْبَثُونَ خِلاَفَكَ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> وَإِن كَادُوا لَيَسْتَفِزُّونَكَ مِنَ الاَرْضِ لِيُخْرِجُوكَ مِنْهَا
+> وإِذاً لاَّ يَلْبَثُونَ خِلاَفَكَ إِلاَّ قَلِيلاً
 
 ***76. “And verily they were about to startling you from the land so as
 to expel you from it; and then, they would not have tarried after you
@@ -510,12 +486,8 @@ conspiracies of his enemies, hence, condoling him.
 Surah Isra’ – Verse 77
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-سُنَّةَ مَن قَدْ أَرْسَلْنَا قَبْلَكَ مِن رُّسُلِنَا وَلاَ تَجِدُ
-لِسُنَّتِنَا تَحْوِيلاً
-  </p>
-</blockquote>
+> سُنَّةَ مَن قَدْ أَرْسَلْنَا قَبْلَكَ مِن رُّسُلِنَا وَلاَ تَجِدُ
+> لِسُنَّتِنَا تَحْوِيلاً
 
 ***77. “(This was Our) way with those of Our messengers whom We sent
 before you, and you shall not find any change in Our way.”***
@@ -569,5 +541,4 @@ significance of unchanged ability of Allah’s way of treatment.
 [^9]: Tafsir Al-Mizan
 
 [^10]: Jamaul Jam’a, Tafsir Safi
-
 

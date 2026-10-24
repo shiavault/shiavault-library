@@ -181,7 +181,6 @@ slanderer. "No one can withhold the blessing God opens up for people,
 nor can anyone but Him release whatever He withholds: He is the
 Almighty, the All Wise." (19)
 
-
 **Renunciation and Detachment**
 
 Plenty has been written about renunciation, not so much because it is
@@ -237,5 +236,4 @@ passions.
 They practice a social kind of religiosity; they do not know what
 charity means and they comply with the minimum religious precepts, those
 that are socially well-regarded. Their piety plays to an audience.
-
 

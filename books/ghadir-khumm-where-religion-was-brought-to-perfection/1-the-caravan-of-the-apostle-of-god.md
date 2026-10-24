@@ -44,4 +44,3 @@ famous historian, Ibne Atheer Al-Jazari that the crowd on the occasion
 of the Farewell Pilgrimage swelled to more than 140,000 seems to be
 quite correct.
 
-

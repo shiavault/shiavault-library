@@ -23,4 +23,3 @@ after century, as the growing evidence points to an ever greater
 antiquity. Then I will take up the occult testimony and see where that
 places the religion of the Iranian Prophet.
 
-

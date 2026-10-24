@@ -158,4 +158,3 @@ scholars.
 [^1]: I relied in recording the above sources on Sheikh Al-Amini in his
 book Al-Ghadir part 2 pp. 279-280.
 
-

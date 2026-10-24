@@ -109,4 +109,3 @@ rocks, stones, and mineral substances). We have limited our ascription
 of salat to fundamentals: more detailed studies may be found in numerous
 other works.
 
-

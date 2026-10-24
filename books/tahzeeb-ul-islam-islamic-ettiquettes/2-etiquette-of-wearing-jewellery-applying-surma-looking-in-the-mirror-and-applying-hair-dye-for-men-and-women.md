@@ -397,4 +397,3 @@ coition is also makrooh during the process of dyeing. Coition is allowed
 when henna's colour has appeared on the dyed area. It is makrooh to dye
 during menstruation.
 
-

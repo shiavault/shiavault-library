@@ -245,4 +245,3 @@ ascribed by Muslim philosophers to Pythagoras are now considered to be
 apocryphal. It is indeed difficult to distinguish between the works and
 theories of Pythagoras and those of his. followers.
 
-

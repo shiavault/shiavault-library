@@ -295,4 +295,3 @@ Mufradah'.
 [^8]: As quoted by Ibn Hisham in his Seerah, vol. II, page 186, it was
 Munzir bin Muhammad.
 
-

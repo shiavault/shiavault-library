@@ -136,4 +136,3 @@ al-Kutub al-Ilmiyya, first edition,1415 AH.
 47, Shams al-Din Ahmad bin Muhammad bin Khallakan*, Wafiyat al-'Ayan* ,
 Beirut, Dar al-Sadir.
 
-

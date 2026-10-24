@@ -23,4 +23,3 @@ dhalilun da’ifun kha’ifun mustajir.*
 It is not necessary to do *wudhu* etc., or to face towards qibla in this
 *sajdah*.
 
-

@@ -93,7 +93,6 @@ intoxication.
 Imam Ali, peace is upon him, said: "He, who prevails over his sensual
 desires, will have preserved his real personality."
 
-
 **Chapter 14: Wine-making, The First Miracle of Christ**
 
 Scientific discoveries explicitly show the countless harm of alcoholic
@@ -149,7 +148,6 @@ knew ;) the governor of the feast called the bridegroom,
 And saith unto him, Every man at the beginning doth set forth good
 wine; and when men have well drunk, then that which is worse; but thou
 hast kept the good wine until now.
-
 
 This beginning of miracles did Jesus in Cana of Galilee, and manifested
 forth his glory; and his disciples believed in him."
@@ -262,9 +260,7 @@ make it quite clear that drinking, no matter how much, is Forbidden by
 the Holy Qur'an, according to which the quantity of drink has nothing to
 do with its illegitimacy.
 
-
 There is abundant evidence to this fact, which cannot be mentioned in
 this book because of limited space. It was this deadly poison, which
 brought to an end the glory of the Spanish Muslim community.
-
 

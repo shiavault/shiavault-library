@@ -11,15 +11,10 @@ yearning. He speaks to Him with the tongue of yearning, declaring what
 is in his innermost being. This is as Allah said of Moses when he met
 his Lord:
 
-<blockquote dir="rtl">
-  <p>
-وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَى
-  </p>
-</blockquote>
+> وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَى
 
 ***I hastened to thee, my Lord, that Thou mightest be pleased.***
 (20:84)
-
 
 The Holy Prophet explained his state as follows: 'He neither ate,
 drank, slept nor desired any of that in his coming or going for forty
@@ -32,5 +27,4 @@ Your service') between your life and your death: 'At Your service, O
 Allah, at Your service!' Then Allah will make your reward great. A
 person who yearns is like a drowning man: he is only concerned with
 being saved, and forgets every thing else.
-
 

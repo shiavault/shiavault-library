@@ -475,4 +475,3 @@ merits? Why not attach this title to Fatima whom he described as the
 Leader and the light of all the women of the world? Why did they not
 call Ali “Dhul-Noor” based on such a premise?
 
-

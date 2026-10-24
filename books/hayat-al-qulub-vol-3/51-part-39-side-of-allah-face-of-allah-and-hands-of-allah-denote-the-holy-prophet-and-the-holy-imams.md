@@ -8,14 +8,10 @@ There are many verses about them:
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ مِنْ
-قَبْلِ أَنْ يَأْتِيَكُمْ العَذَابُ بَغْتَةً وَأَنْتُمْ لَا
-تَشْعُرُونَ. أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَى مَا فَرَّطْتُ فِي
-جَنْبِ اللَّهِ وَإِنْ كُنْتُ لَمِنْ السَّاخِرِينَ.
-  </p>
-</blockquote>
+> وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ مِنْ
+> قَبْلِ أَنْ يَأْتِيَكُمْ العَذَابُ بَغْتَةً وَأَنْتُمْ لَا
+> تَشْعُرُونَ. أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَى مَا فَرَّطْتُ فِي
+> جَنْبِ اللَّهِ وَإِنْ كُنْتُ لَمِنْ السَّاخِرِينَ.
 
 ***And follow the best that has been revealed to you from your Lord
 before there comes to you the punishment all of a sudden while you do
@@ -111,12 +107,8 @@ and some would be mentioned later. Insha Allah.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-(وَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ لَا إِلَهَ إِلَّا هُوَ كُلُّ
-شَيْءٍ هَالِكٌ) إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ.
-  </p>
-</blockquote>
+> (وَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ لَا إِلَهَ إِلَّا هُوَ كُلُّ
+> شَيْءٍ هَالِكٌ) إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ.
 
 ***Except the face of Allah everything will get destroyed. (Surah Qasas
 28:88)***
@@ -198,12 +190,8 @@ after death, at that time the recognition would be of no use.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَنْ عَلَيْهَا فَانٍ. وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلَالِ
-وَالْإِكْرَامِ.
-  </p>
-</blockquote>
+> كُلُّ مَنْ عَلَيْهَا فَانٍ. وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلَالِ
+> وَالْإِكْرَامِ.
 
 ***Everyone on it must pass away, and there will endure forever the
 person of your Lord, the Lord of glory and honour. (Surah Rahman
@@ -285,5 +273,4 @@ houses of knowledge and mines of wisdom and they are the doors of Allah
 and the source (Wasilah) to reach Allah and they are those who invite
 towards Paradise till the day of the Judgement and they guide towards
 Him.
-
 

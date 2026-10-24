@@ -1055,4 +1055,3 @@ Table) and then find the 67th verse.
 </tbody>
 </table>
 
-

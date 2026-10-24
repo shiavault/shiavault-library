@@ -7,7 +7,6 @@ hatred and disunity in society. It is also a major sin. Following are
 the verses from the Holy Qur'an and narrations from Ma'soomeen (a.s.) in
 which the proud ones have been condemned.
 
-
 **From the Holy Qur'an**
 
 1 : "And on the day of resurrection you shall see those who lied
@@ -29,7 +28,6 @@ Kafi)
 It is also reported from the same Imam (a.s.) : Indeed the proud (on
 the day of resurrection) will be turned into accounting (others)."
 (Al-Kaafi)
-
 
 **2) Pride is for Allah, the Almighty**
 
@@ -62,7 +60,6 @@ be thrown out of paradise due to arrogance and pride, how can Almighty
 Allah allow someone else who possess the same attributes to enter
 Heaven?
 
-
 **3) Incident of Prophet Yusuf (a.s.)**
 
 It has been reported that when Prophet Yusuf (a.s.) became the king of
@@ -90,7 +87,6 @@ and the proud quarrels with Allah for His veil"
 In other words, pride is a quality of Almighty Allah alone. Whoever is
 proud other than Him does not deserve and is therefore at war with Allah
 (s.w.t.)
-
 
 **4) Reason for Kibr in Man**
 
@@ -122,7 +118,6 @@ The Holy Prophet (s.a.w.) has said : "There is no man who is proud or
 haughty except with (the feeling of) humiliation which he finds ins
 inner self."
 
-
 **5) Story of a King**
 
 The story of a king is an instructive one. He was in love with a
@@ -148,7 +143,6 @@ whether they seek recognition by attracting attention to themselves or
 even to cover up their faults. The problem is of a lack of
 self-esteem.
 
-
 **6) Types of Kibr**
 
 Basically, Kibr is of three types :
@@ -158,7 +152,6 @@ Basically, Kibr is of three types :
 3. Kibr on people.
 
 Each of the above has been discussed in the following pages :
-
 
 **1. Kibr on Allah**
 
@@ -190,5 +183,4 @@ As for Namrood he claimed to be a giver of life and death when he said
 
 To prove himself right he ordered two men to be brought before him. He
 killed one and spared the life of the other.
-
 

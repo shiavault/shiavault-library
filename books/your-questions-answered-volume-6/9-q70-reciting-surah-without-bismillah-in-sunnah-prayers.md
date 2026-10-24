@@ -193,4 +193,3 @@ were not invented for mosques in the early days of Islam. It is a later
 innovation.) So, Bilal ibn Rabah (not Raba) (R.A) could not get on the
 top of the Mosque of the Prophet (S.A.W).
 
-

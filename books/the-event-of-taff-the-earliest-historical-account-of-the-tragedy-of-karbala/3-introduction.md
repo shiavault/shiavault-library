@@ -1186,4 +1186,3 @@ in his Maqtal three of the [above] verses (2:33) from Ibn A’tham.
 
 [^90]: Ibid, (pg.132).
 
-

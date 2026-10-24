@@ -25,4 +25,3 @@ their journals and TV discourses.
 
 This book will give you a detailed account of the above.
 
-

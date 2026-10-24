@@ -37,7 +37,6 @@ purposes};
 
 7) Not to use its back as a seat for talking with friends/companions.
 
-
 **Q. 31: HARAM MUSIC?**
 
 Is music haram in religion?
@@ -265,5 +264,4 @@ If they start withdrawing their petro-dollars from western banks, the
 West's attitude will change in one week. May Allah have mercy on the
 Muslim masses and release them from the clutches of these puppet
 regimes.
-
 

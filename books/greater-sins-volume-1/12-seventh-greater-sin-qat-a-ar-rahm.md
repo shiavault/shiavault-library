@@ -1092,4 +1092,3 @@ all of us for doing Silet ar-Rahm and fulfilling the rights of others.
 
 [^29]: al-Kāfi
 
-

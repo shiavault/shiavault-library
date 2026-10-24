@@ -549,4 +549,3 @@ performance of Hajj then you kindly remember those who assisted in the
 development of this booklet in your prayers at Khana-e-Kabah, Grave of
 Holy Prophet (SAWW), Graveyard of Jannat-ul-Baqi and at Plain of Arafat.
 
-

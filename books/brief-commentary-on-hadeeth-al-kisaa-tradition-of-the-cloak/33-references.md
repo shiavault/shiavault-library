@@ -115,4 +115,3 @@ by Dr. Hatem Abu Shahba
 
 56- Tarikh *Damishq* by Ibn A’saker
 
-

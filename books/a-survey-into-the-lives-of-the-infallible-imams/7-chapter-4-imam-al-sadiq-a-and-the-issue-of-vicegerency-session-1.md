@@ -638,9 +638,7 @@ load. Now, if somebody makes a mistake and instead of placing the
 firewood he has gathered onto his own rope, places it on someone else’s,
 the other person will pick his yield. The Imam recites this poem:
 
-<p dir="rtl">
 ايا موقدا نارا لغيرك ضوءها ويا حاطبا في غير حبلك تحطب
-</p>
 
 Oh you who has set alight fire but the other is using its light, and had
 gathered fire woods and placed it on someone else’s rope and the other

@@ -98,7 +98,6 @@ the rights of this son of mine?'
 He said: 'You should give him a good name and a good education and
 enable him to gain good skills [for good means of earning].'180
 
-
 **On Good Morals and Conducts**
 
 The Prophet said: 'He whose ethics are good will be given by God the
@@ -322,5 +321,4 @@ provide for him from where he does not expect.f
 219 al-am"l: of al-?Ys:; vol.2, p.154.
 220 The Holy Qur'an: Divorce (65): 2-3.
 221 bi9"r al-anw"r; vol.67, chap.56, p.275, 9ad:th 7.
-
 

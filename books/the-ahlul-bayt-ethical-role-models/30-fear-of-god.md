@@ -201,4 +201,3 @@ graves.
 [^8]: Quoted from Bihar ul-Anwar; 5 (as quoted from ar- Rawandi’s Qassas
 ul-Anbiyaa).
 
-

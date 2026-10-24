@@ -21,13 +21,9 @@ although in the Qur’an, as well, *taqwa* has been employed to mean
 guarding oneself from the danger which other human beings direct at an
 individual:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَتَّخِذْ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُوْنِ
-الْمُؤْمِنِينَ وَمَنْ يَفْعَلْ ذَلِكَ فَلَيْسَ مِن اللّهِ فِي شَيْءٍ
-إِلاَّ أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً...
-  </p>
-</blockquote>
+> لاَ يَتَّخِذْ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُوْنِ
+> الْمُؤْمِنِينَ وَمَنْ يَفْعَلْ ذَلِكَ فَلَيْسَ مِن اللّهِ فِي شَيْءٍ
+> إِلاَّ أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً...
 
 ***“The faithful should not take the faithless for allies instead of the
 faithful, and whoever does this he shall have nothing of (the
@@ -48,11 +44,7 @@ pertaining to piety because on that day the dangers and results of
 reprehensible deeds will become apparent. In this regard, Allah, the
 Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا يَوْماً لاَ تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئاً ...
-  </p>
-</blockquote>
+> وَاتَّقُوا يَوْماً لاَ تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئاً ...
 
 ***“And be on your guard against the Day when no soul shall compensate
 for another soul in the least.”***[^2]
@@ -60,11 +52,7 @@ for another soul in the least.”***[^2]
 And sometimes someone has been mentioned pertaining to piety because He
 punishes man for the sins which he commits, for instance:
 
-<blockquote dir="rtl">
-  <p>
-... وَاتَّقُوا اللّهَ وَاعْلَمُوا أَنَّ اللّهَ مَعَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> ... وَاتَّقُوا اللّهَ وَاعْلَمُوا أَنَّ اللّهَ مَعَ الْمُتَّقِينَ
 
 ***“And be wary of (your duty to) Allah, and know that Allah is with the
 pious.”***[^3]
@@ -148,13 +136,9 @@ judgment that man has to struggle for his future and attain that which
 is beneficial for his eternal life should be awakened. The Qur’an
 states:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
-مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
+> مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> تَعْمَلُونَ
 
 ***“O you who have faith! Be wary of (your duty to) Allah, and let every
 soul consider what it sends ahead for tomorrow and be wary of (your duty
@@ -164,11 +148,7 @@ to) Allah. Allah is indeed well aware of what you do.”***[^6]
 
 This method has also been mentioned in the above verse:
 
-<blockquote dir="rtl">
-  <p>
-... وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> ... وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
 
 ***“…And be wary of (your duty to) Allah.*** ***Allah is indeed well
 aware of what you do.”***
@@ -194,24 +174,16 @@ cleaner and purer in the eyes of that person. In other words, he wants
 his personality to be respected. In regard to Allah’s awareness of the
 deeds of man, the Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلاَ يَعْلَمُونَ أَنَّ اللّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا
-يُعْلِنُونَ
-  </p>
-</blockquote>
+> أَوَلاَ يَعْلَمُونَ أَنَّ اللّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا
+> يُعْلِنُونَ
 
 ***“Do they not know that Allah knows whatever they hide and whatever
 they disclose?”***[^7]
 
 ### 3. Realization that piety is beneficial even in the world
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا \* وَيَرْزُقْهُ مِنْ
-حَيْثُ لاَ يَحْتَسِبُ...
-  </p>
-</blockquote>
+> وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا \* وَيَرْزُقْهُ مِنْ
+> حَيْثُ لاَ يَحْتَسِبُ...
 
 ***“And whoever is careful of (his duty to) Allah, He shall make a way
 out for him from whence he shall not reckon…”***[^8]
@@ -302,13 +274,9 @@ the hereafter. We attain high levels in heaven and spiritual perfection
 in the hereafter and also worldly good, but Allah does not derive any
 benefit from our piety:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَاؤُهَا وَلَكِنْ يَنَالُهُ
-التَّقْوَى مِنكُمْ كَذَلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا اللَّهَ
-عَلَى مَا هَدَاكُمْ وَبَشِّرِ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَاؤُهَا وَلَكِنْ يَنَالُهُ
+> التَّقْوَى مِنكُمْ كَذَلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا اللَّهَ
+> عَلَى مَا هَدَاكُمْ وَبَشِّرِ الْمُحْسِنِينَ
 
 ***“It is not their flesh or their blood that reaches Allah. Rather it
 is the piety that reaches Him. Thus, has He disposed them for your
@@ -383,12 +351,8 @@ of these effects include:
 
 ### 1. The effects and role of piety in the perception of truths
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللّهَ يَجْعَلْ لَكُمْ
-فُرْقَاناً...
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللّهَ يَجْعَلْ لَكُمْ
+> فُرْقَاناً...
 
 ***“O you who have faith! If you are wary of Allah, He shall appoint a
 criterion***[^13] ***for you…”***[^14]
@@ -447,11 +411,7 @@ fact that one of the invaluable benefits of divine piety is
 clear-sightedness and the opening up of apertures of knowledge for man.
 In this regard, Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-... وَاتَّقُوا اللّهَ وَيُعَلِّمُكُمُ اللّهُ...
-  </p>
-</blockquote>
+> ... وَاتَّقُوا اللّهَ وَيُعَلِّمُكُمُ اللّهُ...
 
 ***“…And be careful of (your duty to) Allah and Allah shall teach
 you…”***[^15]
@@ -481,12 +441,8 @@ dullness of the heart and diminish spiritual insight.
 
 ### 3. The role of piety in captivating and securing the love of Allah
 
-<blockquote dir="rtl">
-  <p>
-بَلَى مَنْ أَوْفَى بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللّهَ يُحِبُّ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> بَلَى مَنْ أَوْفَى بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللّهَ يُحِبُّ
+> الْمُتَّقِينَ
 
 ***“Yes, whoever fulfills his commitments and guards (against
 evil)—Allah indeed loves the pious.”***[^18]
@@ -508,12 +464,8 @@ one He loves.
 
 As Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-... فَمَنْ اتَّقَى وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> ... فَمَنْ اتَّقَى وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
+> يَحْزَنُونَ
 
 ***“…Then those who are pious and righteous will have no fear, nor will
 they grieve.”***[^19]
@@ -523,13 +475,9 @@ they grieve.”***[^19]
 In regard to granting invisible aid to the pious, Allah, the Exalted,
 states:
 
-<blockquote dir="rtl">
-  <p>
-بَلَى إِنْ تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُم مِنْ فَوْرِهِمْ هَذَا
-يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ آلافٍ مِنْ الْمَلآئِكَةِ
-مُسَوِّمِينَ
-  </p>
-</blockquote>
+> بَلَى إِنْ تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُم مِنْ فَوْرِهِمْ هَذَا
+> يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ آلافٍ مِنْ الْمَلآئِكَةِ
+> مُسَوِّمِينَ
 
 ***“Yes, if you are steadfast and pious, and should they come at you
 suddenly, your Lord will aid you with five thousand marked
@@ -547,12 +495,8 @@ transgresses.”[^21]
 In regard to the role of piety in man’s acquisition of dignity and
 proximity [*qurb*] to Allah, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ
-عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> ... إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ
+> عَلِيمٌ خَبِيرٌ
 
 ***“…Indeed the noblest***[^22] ***of you in the sight of Allah is the
 most pious among you. Indeed Allah is All-knowing, All-aware.”***[^23]
@@ -564,12 +508,8 @@ problems and hardships, there is much discussion and verse twelve of
 *Surat al-Talaq* has been quoted. Here we will quote another verse which
 is related to a pious society:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوا لَفَتَحْنَا عَلَيْهِمْ
-بَرَكَاتٍ مِن السَّمَاء وَالأَرْضِ ...
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوا لَفَتَحْنَا عَلَيْهِمْ
+> بَرَكَاتٍ مِن السَّمَاء وَالأَرْضِ ...
 
 ***“If the people of the towns had been faithful and pious, We would
 have opened to them blessings from the heaven and the earth.”***[^24]
@@ -579,11 +519,7 @@ have opened to them blessings from the heaven and the earth.”***[^24]
 In regard to the role and effects of piety in making man’s deeds
 acceptable, Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّمَا يَتَقَبَّلُ اللّهُ مِن الْمُتَّقِينَ
-  </p>
-</blockquote>
+> ... إِنَّمَا يَتَقَبَّلُ اللّهُ مِن الْمُتَّقِينَ
 
 ***“…Allah accepts only from the pious.”***[^25]
 
@@ -644,11 +580,7 @@ Allah grants them merit and honor and they do not lay any importance
 upon the blessings of paradise. In the Qur’an, Allah, the Exalted,
 states:
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ...
-  </p>
-</blockquote>
+> ... إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ...
 
 ***“…Indeed the noblest among you in the sight of Allah is the most
 pious among you…”***[^26]
@@ -918,12 +850,8 @@ themselves rather they are blessings that must be used for the purpose
 of attaining perfection and prosperity in the hereafter. Allah, the
 Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَابْتَغ فِيمَا آتَاكَ اللَّهُ الدَّارَ الآخِرَةَ وَلاَ تَنْسَ
-نَصِيبَكَ مِن الدُّنْيَا...
-  </p>
-</blockquote>
+> وَابْتَغ فِيمَا آتَاكَ اللَّهُ الدَّارَ الآخِرَةَ وَلاَ تَنْسَ
+> نَصِيبَكَ مِن الدُّنْيَا...
 
 ***“By the means of what Allah has given you, seek the abode of the
 hereafter, while not forgetting your share in this world…”***[^31]
@@ -949,16 +877,12 @@ monasticism and considers it to be an innovation which was introduced
 into religion as a result of the incorrect idea that there is
 incongruity between religion and the world. The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَفَّيْنَا عَلَى آثَارِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى
-ابْنِ مَرْيَمَ وَآتَيْنَاهُ الإِنجِيلَ وَجَعَلْنَا فِي قُلُوبِ
-الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً
-ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلاَّ ابْتِغَاءَ رِضْوَانِ
-اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَآتَيْنَا الَّذِينَ
-آمَنُوا مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ
-  </p>
-</blockquote>
+> ثُمَّ قَفَّيْنَا عَلَى آثَارِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى
+> ابْنِ مَرْيَمَ وَآتَيْنَاهُ الإِنجِيلَ وَجَعَلْنَا فِي قُلُوبِ
+> الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً
+> ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلاَّ ابْتِغَاءَ رِضْوَانِ
+> اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَآتَيْنَا الَّذِينَ
+> آمَنُوا مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ
 
 ***“Then We followed them up with Our apostles and We followed [them]
 with Jesus son of Mary, and We gave him the Evangel, and We put in the
@@ -1055,5 +979,4 @@ al-Islam.
 [^34]: Surat al-Hadid 57:27.
 
 [^35]: Bihar al-Anwar, vol. 22, p. 264.
-
 

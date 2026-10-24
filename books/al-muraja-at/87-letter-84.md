@@ -199,4 +199,3 @@ researchers which is also discussed by Ibn al-Athir near the conclusion
 of ‘Umar's biography on page 24, Vol. 3, of his Al-Kamil before
 discussing the story of the "consultation."
 
-

@@ -18,4 +18,3 @@ grief.”*
 Imam Ja’far al-Sadiq (a.s.) said: *“The greatest wealth is that of those
 who are free from greed.”*
 
-

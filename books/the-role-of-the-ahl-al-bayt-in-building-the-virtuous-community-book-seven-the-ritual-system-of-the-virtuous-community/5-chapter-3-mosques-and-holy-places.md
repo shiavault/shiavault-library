@@ -275,11 +275,7 @@ places.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-لاَ، بَلْ هُنَا وَهُنَا، فَإِنَّهَا تَشْهَدُ لَهُ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> لاَ، بَلْ هُنَا وَهُنَا، فَإِنَّهَا تَشْهَدُ لَهُ يَوْمَ الْقِيَامَةِ.
 
 *In fact, it is better to offer them at different places because each
 place will testify for the offerer of the prayer on the Day of
@@ -290,11 +286,7 @@ at any other place than the neighboring mosque unless there is an
 obstacle preventing him from doing so, such as rain or the like. In this
 regard, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ صَلاَةَ لِجَارِ الْمَسْجِدِ إِلاَّ فِي مَسْجِدِهِ.
-  </p>
-</blockquote>
+> لاَ صَلاَةَ لِجَارِ الْمَسْجِدِ إِلاَّ فِي مَسْجِدِهِ.
 
 *No prayer is accepted from the neighbor of a mosque except those
 offered therein.*[^5]
@@ -307,13 +299,9 @@ and even neighboring him.
 5. It is discommended to leave a mosque untended, for Imam al-Sadiq (‘a)
 is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثَةٌ يَشْكُونَ إِلَى اللهِ عَزَّ وَجَلَّ: مَسْجِدٌ خَرَابٌ لاَ
-يُصَلِّي فِيهِ أَهْلُهُ، وَعَالِمٌ بَيْنَ جُهَّالٍ، وَمُصْحَفٌ
-مُعَلَّقٌ قَدْ وَقَعَ عَلَيْهِ غُبَارٌ لاَ يُقْرَأُ فِيهِ.
-  </p>
-</blockquote>
+> ثَلاَثَةٌ يَشْكُونَ إِلَى اللهِ عَزَّ وَجَلَّ: مَسْجِدٌ خَرَابٌ لاَ
+> يُصَلِّي فِيهِ أَهْلُهُ، وَعَالِمٌ بَيْنَ جُهَّالٍ، وَمُصْحَفٌ
+> مُعَلَّقٌ قَدْ وَقَعَ عَلَيْهِ غُبَارٌ لاَ يُقْرَأُ فِيهِ.
 
 *Three will complain to Almighty Allah: an empty mosque that is not
 attended by its locals, an educated person who lives among ignorant
@@ -323,13 +311,9 @@ nobody recites it.*[^6]
 6. It is recommended to go habitually to mosques, for the Holy Prophet
 (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَشَى إِلَى مَسْجِدٍ مِنْ مَسَاجِدِ اللهِ فَلَهُ بِكُلِّ خُطْوَةٍ
-خَطَاهَا حَتَّى يَرْجِعَ إِلَى مَنْزِلِهِ عَشْرُ حَسَنَاتٍ وَيُمْحَى
-عَنْهُ عَشْرُ سَيِّئَاتٍ وَيُرْفَعُ لَهُ عَشْرُ دَرَجَاتٍ.
-  </p>
-</blockquote>
+> مَنْ مَشَى إِلَى مَسْجِدٍ مِنْ مَسَاجِدِ اللهِ فَلَهُ بِكُلِّ خُطْوَةٍ
+> خَطَاهَا حَتَّى يَرْجِعَ إِلَى مَنْزِلِهِ عَشْرُ حَسَنَاتٍ وَيُمْحَى
+> عَنْهُ عَشْرُ سَيِّئَاتٍ وَيُرْفَعُ لَهُ عَشْرُ دَرَجَاتٍ.
 
 *Whoever goes to any of the mosques of Allah walking, Allah shall record
 for him ten rewards, erase ten of his evildoings, and raise him ten
@@ -338,13 +322,9 @@ ranks for each step he makes until he returns home.*[^7]
 7. It is recommended to build a mosque, which brings about a great
 reward. In this regard, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ بَنَى مَسْجِداً فِي الدُّنْيَا أَعْطَاهُ اللهُ بِكُلِّ شِبْرٍ
-مِنْهُ مَسِيرَةَ أَرْبَعِينَ أَلْفِ عَامٍ; مَدِينَةً مِنْ ذَهَبٍ
-وَفِضَّةٍ وَلُؤْلُؤٍ وَزَبَرْجَدَ.
-  </p>
-</blockquote>
+> مَنْ بَنَى مَسْجِداً فِي الدُّنْيَا أَعْطَاهُ اللهُ بِكُلِّ شِبْرٍ
+> مِنْهُ مَسِيرَةَ أَرْبَعِينَ أَلْفِ عَامٍ; مَدِينَةً مِنْ ذَهَبٍ
+> وَفِضَّةٍ وَلُؤْلُؤٍ وَزَبَرْجَدَ.
 
 *Whoever builds a mosque in this world, Almighty Allah shall give him a
 city of gold, silver,* *pearl, and aquamarine that is too vast to be
@@ -353,11 +333,7 @@ that mosque.*[^8]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ بَنَى مَسْجِداً بَنَى اللهُ لَهُ بَيْتاً فِي الْجَنَّةِ.
-  </p>
-</blockquote>
+> مَنْ بَنَى مَسْجِداً بَنَى اللهُ لَهُ بَيْتاً فِي الْجَنَّةِ.
 
 *Whoever builds a mosque, Almighty Allah shall build a house in Paradise
 for him.*[^9]
@@ -527,12 +503,8 @@ Resurrection, this stone shall testify to those who kept this covenant
 and fulfilled their pledge to the Lord. Accordingly, a pilgrim, when
 kissing the Black Stone, is required to say the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ أَمَانَتِي أَدَّيْتُهَا وَمِيثَاقِي تَعَاهَدْتُهُ
-لِتَشْـهَدَ لِي بِالْمُوَافَاةِ…
-  </p>
-</blockquote>
+> اَللَّهُمَّ أَمَانَتِي أَدَّيْتُهَا وَمِيثَاقِي تَعَاهَدْتُهُ
+> لِتَشْـهَدَ لِي بِالْمُوَافَاةِ…
 
 **O Allah, I have fulfilled my trust and I have performed my covenant so
 that You may witness for me that I have fulfilled it.**[^16]
@@ -555,13 +527,9 @@ intended any evil to the Holy Ka’bah.
 
 Imam ‘Ali (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَكَّةُ حَرَمُ اللهِ وَالْمَدِينَةُ حَرَمُ رَسُولِ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ وَالْكُوفَةُ حَرَمِي؛ لاَ يُرِيدُهَا جَبَّارٌ إِلاَّ
-قَصَمَهُ اللهُ.
-  </p>
-</blockquote>
+> مَكَّةُ حَرَمُ اللهِ وَالْمَدِينَةُ حَرَمُ رَسُولِ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ وَالْكُوفَةُ حَرَمِي؛ لاَ يُرِيدُهَا جَبَّارٌ إِلاَّ
+> قَصَمَهُ اللهُ.
 
 *Makkah is the sanctuary of Almighty Allah, Madinah is the sanctuary of
 the Messenger of Allah (S), and Kufah is my sanctuary. There is no
@@ -587,12 +555,8 @@ the Holy Ka’bah should be sentenced to death.[^20]
 Through a valid chain of authority, Imam al-Baqir (‘a) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَنْبَغِي لأَِحَدٍ أَنْ يَرْفَعَ بِناءً فَوْقَ بِنَاءِ
-الْكَعْبَةِ.
-  </p>
-</blockquote>
+> لاَ يَنْبَغِي لأَِحَدٍ أَنْ يَرْفَعَ بِناءً فَوْقَ بِنَاءِ
+> الْكَعْبَةِ.
 
 *It is improper to build any edifice higher than the Ka’bah.*[^21]
 
@@ -602,12 +566,8 @@ Ka’bah:
 Through a valid chain of authority, Imam al-Baqir (‘a) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ عَزَّ وَجَلَّ مَا خَلَقَ بُقْعَةً فِي الأَرْضِ أَحَبَّ
-إِلَيْهِ مِنْهَا، وَإِنَّ النَّظَرَ إِلَيْهَا عِبَادَةٌ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ عَزَّ وَجَلَّ مَا خَلَقَ بُقْعَةً فِي الأَرْضِ أَحَبَّ
+> إِلَيْهِ مِنْهَا، وَإِنَّ النَّظَرَ إِلَيْهَا عِبَادَةٌ.
 
 *Verily, Allah the Exalted and Majestic has not created any area on the
 earth dearer to Him than the Ka’bah. To take a look at it is a sort of
@@ -615,24 +575,16 @@ devotional act.*[^22]
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ النَّظَرَ إِلَيْهَا يَهْدِمُ الْخَطَايَا هَدْماً.
-  </p>
-</blockquote>
+> إِنَّ النَّظَرَ إِلَيْهَا يَهْدِمُ الْخَطَايَا هَدْماً.
 
 *Just looking at the Holy Ka’bah utterly knocks down sins.*[^23]
 
 Through a valid chain of authority too, Imam al-Sadiq (‘a) is reported
 to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ للهِ تَعَالَى حَوْلَ الْكَعْبَةِ عِشْرِينَ وَمِائَةَ رَحْمَةً،
-مِنْهَا سِتُّونَ لِلطَّائِفِينَ وَأَرْبَعُونَ لِلْمُصَلِّينَ
-وَعِشْرُونَ لِلنَّاظِرِينَ.
-  </p>
-</blockquote>
+> إِنَّ للهِ تَعَالَى حَوْلَ الْكَعْبَةِ عِشْرِينَ وَمِائَةَ رَحْمَةً،
+> مِنْهَا سِتُّونَ لِلطَّائِفِينَ وَأَرْبَعُونَ لِلْمُصَلِّينَ
+> وَعِشْرُونَ لِلنَّاظِرِينَ.
 
 *Verily, Almighty Allah has decreed one hundred and twenty mercies to
 surround His Holy House; sixty for those who circumambulate it, forty
@@ -642,13 +594,9 @@ it.*[^24]
 According to another validly reported tradition, Imam al-Sadiq (‘a) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ نَظَرَ إِلَى الْكَعْبَةِ فَعَرِفَ مِنْ حَقِّنَا وَحُرْمَتِنَا
-مِثْلَ الَّذِي عَرِفَ مِنْ حَقِّهَا وَحُرْمَتِهَا، غَفَرَ اللهُ لَهُ
-ذُنُوبَهُ كُلَّهَا وَكَفَاهُ هَمَّ الدُّنْيَا وَالآخِرَةِ.
-  </p>
-</blockquote>
+> مَنْ نَظَرَ إِلَى الْكَعْبَةِ فَعَرِفَ مِنْ حَقِّنَا وَحُرْمَتِنَا
+> مِثْلَ الَّذِي عَرِفَ مِنْ حَقِّهَا وَحُرْمَتِهَا، غَفَرَ اللهُ لَهُ
+> ذُنُوبَهُ كُلَّهَا وَكَفَاهُ هَمَّ الدُّنْيَا وَالآخِرَةِ.
 
 *Whoever looks at the Ka’bah and acknowledges that our standing and
 sacredness is similar as the Ka’bah’s standing and sacredness, Almighty
@@ -666,13 +614,9 @@ one hundred thousand prayers that are offered in other mosques.[^26]
 According to another tradition, Abu-Hamzah al-Thumali has reported Imam
 al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلَّى فِي الْمَسْجِدِ الْحَرَامِ صَلاَةً مَكْتُوبَةً قَبِلَ
-اللهُ مِنْهُ كُلَّ صَلاَةٍ صَلاَّهَا مُنْذُ يَوْمِ وَجَبَتْ عَلَيْهِ
-الصَّلاَةُ، وَكُلَّ صَلاَةٍ يُصَلِّيهَا إِلَى أَنْ يَمُوتَ.
-  </p>
-</blockquote>
+> مَنْ صَلَّى فِي الْمَسْجِدِ الْحَرَامِ صَلاَةً مَكْتُوبَةً قَبِلَ
+> اللهُ مِنْهُ كُلَّ صَلاَةٍ صَلاَّهَا مُنْذُ يَوْمِ وَجَبَتْ عَلَيْهِ
+> الصَّلاَةُ، وَكُلَّ صَلاَةٍ يُصَلِّيهَا إِلَى أَنْ يَمُوتَ.
 
 *Whoever performs an obligatory prayer in the Sacred Mosque, Almighty
 Allah shall determine admissible all the prayers he had performed since
@@ -731,25 +675,17 @@ chain of authority that Mu’awiyah ibn Wahab asked Imam al-Sadiq (‘a)
 about the authenticity of the following tradition that is ascribed to
 the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-مَا بَيْنَ بَيْتِي وَمِنْبَرِي رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ.
-  </p>
-</blockquote>
+> مَا بَيْنَ بَيْتِي وَمِنْبَرِي رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ.
 
 The area between my house and minbar is a garden of Paradise.
 
 The Imam (‘a) answered confirmatively and added:
 
-<blockquote dir="rtl">
-  <p>
-وَبَيْتُ عَلِيٍّ وَفَاطِمَةَ عَلَيْهِمَا السَّلاَمُ مَا بَيْنَ
-الْبَيْتِ الَّذِي فِيهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ إِلَى
-الْبَابِ الَّذِي يُحَاذِي الزُّقَاقَ إِلَى الْبَقِيعِ. فَلَوْ دَخَلْتَ
-مِنْ ذَلِكَ الْبَابِ وَالْحَائِطُ مَكَانَهُ أَصَابَ مِنْكَبَكَ
-الأَيْسَرِ.
-  </p>
-</blockquote>
+> وَبَيْتُ عَلِيٍّ وَفَاطِمَةَ عَلَيْهِمَا السَّلاَمُ مَا بَيْنَ
+> الْبَيْتِ الَّذِي فِيهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ إِلَى
+> الْبَابِ الَّذِي يُحَاذِي الزُّقَاقَ إِلَى الْبَقِيعِ. فَلَوْ دَخَلْتَ
+> مِنْ ذَلِكَ الْبَابِ وَالْحَائِطُ مَكَانَهُ أَصَابَ مِنْكَبَكَ
+> الأَيْسَرِ.
 
 *The house of ‘Ali and Fatimah, peace be upon them, lies in the area
 between the house in which the Holy Prophet (S) is buried and the door
@@ -759,12 +695,8 @@ that door, the wall would hit your left shoulder if it was still there.*
 The Imam (‘a) then referred to other houses and quoted the Holy Prophet
 (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاَةُ فِي مَسْجِدِي تَعْدِلُ أَلْفَ صَلاَةٍ فِي غَيْرِهِ إِلاَّ
-الْمَسْجِدَ الْحَرَامَ فَهُوَ أَفْضَلُ.
-  </p>
-</blockquote>
+> الصَّلاَةُ فِي مَسْجِدِي تَعْدِلُ أَلْفَ صَلاَةٍ فِي غَيْرِهِ إِلاَّ
+> الْمَسْجِدَ الْحَرَامَ فَهُوَ أَفْضَلُ.
 
 *A single prayer that is offered in my mosque is equal to one thousand
 prayers that are offered in other mosques except the Sacred Mosque,
@@ -802,14 +734,10 @@ The borders of the Prophet’s Mosque and the *Rawdhah* have been
 mentioned in two authentic traditions. Abu-Basir al-Muradi is reported
 to have quoted Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-حَدُّ الرَّوْضَةِ فِي مَسْجِدِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ إِلَى طَرَفِ الظِّلاَلِ، وَحَدُّ الْمَسْجِدِ إِلَى
-الإسْطِوَانَتَيْنِ عَنْ يَمِينِ الْمِنْبَرِ إِلَى الطَّرِيقِ مِمَّا
-يَلِي سُوقَ اللَّيْلِ.
-  </p>
-</blockquote>
+> حَدُّ الرَّوْضَةِ فِي مَسْجِدِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ إِلَى طَرَفِ الظِّلاَلِ، وَحَدُّ الْمَسْجِدِ إِلَى
+> الإسْطِوَانَتَيْنِ عَنْ يَمِينِ الْمِنْبَرِ إِلَى الطَّرِيقِ مِمَّا
+> يَلِي سُوقَ اللَّيْلِ.
 
 *The borders of the Rawdhah in the Prophet’s Mosque extend to Taraf
 al-²ilal, and the border of the Prophet’s Mosque extends from the two
@@ -819,15 +747,11 @@ al-Layl.*[^36]
 Muhammad ibn Muslim is reported to have asked the Imam (‘a) about the
 borders of the Prophet’s Mosque, and he was answered:
 
-<blockquote dir="rtl">
-  <p>
-الإسْطِوَانَةُ الَّتِي عِنْدَ رَأْسِ الْقَبْرِ إِلَى
-الإسْطِوَانَتَيْنِ مِنْ وَرَاءِ الْمِنْبَرِ عَنْ يَمِينِ الْقِبْلَةِ،
-وَكَانَ مِنْ وَرَاءِ الْمِنْبَرِ طَرِيقٌ تَمُرُّ فِيهِ الشَّاةُ
-وَيَمُرُّ الرَّجُلُ مُنْحَرِفاً وَكَانَ سَاحَةُ الْمَسْجِدِ مِنَ
-الْبِلاَطِ إِلَى الصَّحْنِ.
-  </p>
-</blockquote>
+> الإسْطِوَانَةُ الَّتِي عِنْدَ رَأْسِ الْقَبْرِ إِلَى
+> الإسْطِوَانَتَيْنِ مِنْ وَرَاءِ الْمِنْبَرِ عَنْ يَمِينِ الْقِبْلَةِ،
+> وَكَانَ مِنْ وَرَاءِ الْمِنْبَرِ طَرِيقٌ تَمُرُّ فِيهِ الشَّاةُ
+> وَيَمُرُّ الرَّجُلُ مُنْحَرِفاً وَكَانَ سَاحَةُ الْمَسْجِدِ مِنَ
+> الْبِلاَطِ إِلَى الصَّحْنِ.
 
 *It extends from the column that is situated near the head of the tomb
 to the two columns lying behind the minbar to the right side of the
@@ -846,20 +770,16 @@ the Prophet’s minbar and niche where he used to offer prayers.
 Shaykh al-Kulayni in *al-Kafi* has reported through a valid chain of
 authority that Mu’awiyah ibn ‘Ammar quoted Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا فَرِغْتَ مِنَ الدُّعَاءِ عِنْدَ قَبْرِ النَّبِيِّ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ فَأْتِ الْمِنْبَرَ فَامْسَحْهُ بِيَدِكَ وَخُذْ
-بِرُمَّانَتَيْهِ، وَهُمَا السُّفَلاوَانِ، وَامْسَحْ عَيْنَيْكَ
-وَوَجْهَكَ بِهِ فَإِنَّهُ يُقَالُ إِنَّهُ شِفَاءٌ لِلْعَيْنِ. وَقُمْ
-عِنْدَهُ وَاحْمَدِ اللهَ وَاثْنِ عَلَيْهِ وَسَلْ حَاجَتَكَ; فَإِنَّ
-رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ: مَا بَيْنَ قَبْرِي
-وَمِنْبَرِي رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ وَمِنْبَرِي عَلَى
-تُرْعَةٍ مِنْ تُرَعِ الْجَنَّةِ. وَالتُّرْعَةُ هِيَ الْبَابُ
-الصَّغِيرُ. ثُمَّ تَأْتِي مَقَامَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ فَتُصَلِّي فِيهِ مَا بَدَا لَكَ.
-  </p>
-</blockquote>
+> إِذَا فَرِغْتَ مِنَ الدُّعَاءِ عِنْدَ قَبْرِ النَّبِيِّ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ فَأْتِ الْمِنْبَرَ فَامْسَحْهُ بِيَدِكَ وَخُذْ
+> بِرُمَّانَتَيْهِ، وَهُمَا السُّفَلاوَانِ، وَامْسَحْ عَيْنَيْكَ
+> وَوَجْهَكَ بِهِ فَإِنَّهُ يُقَالُ إِنَّهُ شِفَاءٌ لِلْعَيْنِ. وَقُمْ
+> عِنْدَهُ وَاحْمَدِ اللهَ وَاثْنِ عَلَيْهِ وَسَلْ حَاجَتَكَ; فَإِنَّ
+> رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ: مَا بَيْنَ قَبْرِي
+> وَمِنْبَرِي رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ وَمِنْبَرِي عَلَى
+> تُرْعَةٍ مِنْ تُرَعِ الْجَنَّةِ. وَالتُّرْعَةُ هِيَ الْبَابُ
+> الصَّغِيرُ. ثُمَّ تَأْتِي مَقَامَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ فَتُصَلِّي فِيهِ مَا بَدَا لَكَ.
 
 *When you accomplish your prayers near the tomb (of the Holy Prophet
 (S)), you may come to the minbar, pass your hand over it, hold the two
@@ -883,13 +803,9 @@ drainpipe, because at this very place, Archangel Gabriel used to stop to
 seek permission from the Holy Prophet (S) before he would visit him. You
 may say these words at this place:
 
-<blockquote dir="rtl">
-  <p>
-اَيْ جَوَادُ اَيْ كَرِيمُ اَيْ قَرِيبُ اَيْ بَعِيدُ اَسْاَلُكَ اَنْ
-تُصَلِّيَ عَلَى مُحَمَّدٍ وَاَهْلِ بَيْتِهِ وَاَنْ تَرُدَّ عَلَيَّ
-نِعْمَتَكَ.
-  </p>
-</blockquote>
+> اَيْ جَوَادُ اَيْ كَرِيمُ اَيْ قَرِيبُ اَيْ بَعِيدُ اَسْاَلُكَ اَنْ
+> تُصَلِّيَ عَلَى مُحَمَّدٍ وَاَهْلِ بَيْتِهِ وَاَنْ تَرُدَّ عَلَيَّ
+> نِعْمَتَكَ.
 
 **O All-magnanimous! O All-generous! O Nigh! O Remote! I beseech You to
 send blessings upon Muhammad and his Household and to grant me this
@@ -926,15 +842,11 @@ much reward. On Friday, thank and praise Almighty Allah and invoke His
 blessings upon the Holy Prophet and his Household. Then, pray to Him to
 grant you your requests. Include these words with your prayer:*
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ مَا كَانَتْ إِلَيْكَ مِنْ حَاجَةٍ شَرَعْتُ اَنَا فِي
-طَلَبِهَا اَوْ إلْتِمَاسٍ اَوْ لَمْ اَشْرَعْ سَاَلْتُكَهَا اَوْ لَمْ
-اَسْاَلْكَهَا فَإنِّي اَتَوَجَّهُ إلَيْكَ بِنَبِيِّكَ مُحَمَّدٍ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ نَبِيِّ الرَّحْمَةِ فِي قَضَاءِ حَوَائِجِي
-صَغِيرِهَا وَكَبِيرِهَا.
-  </p>
-</blockquote>
+> اَللَّهُمَّ مَا كَانَتْ إِلَيْكَ مِنْ حَاجَةٍ شَرَعْتُ اَنَا فِي
+> طَلَبِهَا اَوْ إلْتِمَاسٍ اَوْ لَمْ اَشْرَعْ سَاَلْتُكَهَا اَوْ لَمْ
+> اَسْاَلْكَهَا فَإنِّي اَتَوَجَّهُ إلَيْكَ بِنَبِيِّكَ مُحَمَّدٍ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ نَبِيِّ الرَّحْمَةِ فِي قَضَاءِ حَوَائِجِي
+> صَغِيرِهَا وَكَبِيرِهَا.
 
 *O Allah, whatever I need from You whether I have mentioned it or not,
 whatever entreaty, which I have besought from You or not; I turn my face
@@ -967,12 +879,8 @@ should be purified, and Allah loves those who purify themselves.
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَتَى مَسْجِدِي مَسْجِدَ قَبَا فَصَلَّى فِيهِ رَكْعَتَيْنِ رَجَعَ
-بِعُمْرَةٍ.
-  </p>
-</blockquote>
+> مَنْ أَتَى مَسْجِدِي مَسْجِدَ قَبَا فَصَلَّى فِيهِ رَكْعَتَيْنِ رَجَعَ
+> بِعُمْرَةٍ.
 
 *Whoever visits Quba Mosque and offers therein a two-unit prayer, will
 return with the reward of ‘Umrah.*[^42]
@@ -1006,11 +914,7 @@ and Masjid al-Ahzab, which is also called the Conquest (*fath*) Mosque.
 We have been informed that the Holy Prophet (S), whenever visiting the
 graves of the martyrs, would say:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلاَمُ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِ.
-  </p>
-</blockquote>
+> اَلسَّلاَمُ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِ.
 
 Peace be upon you because you were constant; how excellent is then the
 issue of the abode!
@@ -1018,14 +922,10 @@ issue of the abode!
 Among the prayers that are performed at Masjid al-Ahzab are the
 following:
 
-<blockquote dir="rtl">
-  <p>
-يَا صَرِيخَ الْمَكْرُوبِينَ وَيَا مُجِيبَ دَعْوَةِ الْمُضْطَرِّينَ
-وَيَا مُغِيثَ الْمَهْمُومِينَ إِكْشِفْ عَنِّي ضُرِّي وَهَمِّي
-وَكَرْبِي وَغَمِّي كَمَا كَشَفْتَ عَنْ نَبِيِّكَ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ هَمَّهُ وَكَفَيْتَهُ هَوْلَ عَدُوِّهِ فِي هَذَا الْمَكَانِ.
-  </p>
-</blockquote>
+> يَا صَرِيخَ الْمَكْرُوبِينَ وَيَا مُجِيبَ دَعْوَةِ الْمُضْطَرِّينَ
+> وَيَا مُغِيثَ الْمَهْمُومِينَ إِكْشِفْ عَنِّي ضُرِّي وَهَمِّي
+> وَكَرْبِي وَغَمِّي كَمَا كَشَفْتَ عَنْ نَبِيِّكَ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ هَمَّهُ وَكَفَيْتَهُ هَوْلَ عَدُوِّهِ فِي هَذَا الْمَكَانِ.
 
 *O He Who aids the aggrieved! O He Who responds to the supplication of
 the distressed! O He Who helps the depressed! (Please do) remove my
@@ -1053,12 +953,8 @@ may then pass by the tomb of Hamzah ibn ‘Abd al-Muttalib and offer him
 salutation. Then, come to the martyrs and stop at their graves, greeting
 them with the following statement:*
 
-<blockquote dir="rtl">
-  <p>
-السَّلاَمُ عَلَيْكُمْ يَا اَهْلِ الدِّيَارِ اَنْتُمْ لَنَا فَرَطٌ
-وَإنَّا بِكُمْ لاََحِقُونَ
-  </p>
-</blockquote>
+> السَّلاَمُ عَلَيْكُمْ يَا اَهْلِ الدِّيَارِ اَنْتُمْ لَنَا فَرَطٌ
+> وَإنَّا بِكُمْ لاََحِقُونَ
 
 Peace be upon you, O inhabitants of these graves. You have preceded us,
 and we shall certainly join you.
@@ -1176,16 +1072,12 @@ Almighty Allah and the Holy Prophet (S).
 
 The Imam (‘a) thus answered:
 
-<blockquote dir="rtl">
-  <p>
-الْكُوفَةُ; هِيَ الزَّكِيَّةُ الطَّاهِرَةُ. فِيهَا قُبُورُ
-النَّبِيِّينَ وَالْمُرْسَلِينَ وَغَيْرِ الْمُرْسَلِينَ وَالأَوْصِيَاءِ
-الصَّادِقِينَ. وَفِيهَا مَسْجِدُ سُهَيْلٍ الَّذِي لَمْ يَبْعَثِ اللهُ
-نَبِيّاً إِلاَّ وَقَدْ صَلَّى فِيهِ، وَفِيهَا يَظْهَرُ عَدْلُ اللهِ،
-وَفِيهَا يَكُونُ قَائِمُهُ وَالْقُوَّامُ مِنْ بَعْدِهِ. وَهِيَ
-مَنَازِلُ النَّبِيِّينَ وَالأَوْصِيَاءِ وَالصَّالِحِينَ.
-  </p>
-</blockquote>
+> الْكُوفَةُ; هِيَ الزَّكِيَّةُ الطَّاهِرَةُ. فِيهَا قُبُورُ
+> النَّبِيِّينَ وَالْمُرْسَلِينَ وَغَيْرِ الْمُرْسَلِينَ وَالأَوْصِيَاءِ
+> الصَّادِقِينَ. وَفِيهَا مَسْجِدُ سُهَيْلٍ الَّذِي لَمْ يَبْعَثِ اللهُ
+> نَبِيّاً إِلاَّ وَقَدْ صَلَّى فِيهِ، وَفِيهَا يَظْهَرُ عَدْلُ اللهِ،
+> وَفِيهَا يَكُونُ قَائِمُهُ وَالْقُوَّامُ مِنْ بَعْدِهِ. وَهِيَ
+> مَنَازِلُ النَّبِيِّينَ وَالأَوْصِيَاءِ وَالصَّالِحِينَ.
 
 *It is Kufah! It is the perfect and pure city. In this city, there are
 the graves of the prophets—both messengers and non-messengers—and the
@@ -1198,12 +1090,8 @@ also the abode of the prophets, the successors, and the righteous.*[^48]
 Sulaym—the manumitted slave of Tirbal—and other reporters have reported
 Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-نَفَقَةُ دِرْهَمٍ بِالْكُوفَةِ تُحْسَبُ بِمِائَةِ دِرْهَمٍ فِي مَا
-سِوَاهَا، وَرَكْعَتَانِ فِيهَا تُحْسَبُ بِمِائَةِ رَكْعَةٍ.
-  </p>
-</blockquote>
+> نَفَقَةُ دِرْهَمٍ بِالْكُوفَةِ تُحْسَبُ بِمِائَةِ دِرْهَمٍ فِي مَا
+> سِوَاهَا، وَرَكْعَتَانِ فِيهَا تُحْسَبُ بِمِائَةِ رَكْعَةٍ.
 
 *To give as alms a single dirham at Kufah is recorded as giving one
 hundred dirhams as alms in other cities. Likewise, to offer a two-unit
@@ -1212,15 +1100,11 @@ prayer thereat is regarded as offering one hundred-unit prayer.*[^49]
 ‘Asim ibn ‘Abd al-Wahid al-Madini has reported that he heard Imam
 al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-مَكَّةُ حَرَمُ اللهِ، وَالْمَدِينَةُ حَرَمُ مُحَمَّدٍ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، وَالْكُوفَةُ حَرَمُ عَلِيِّ بْنِ أَبِي طَالِبٍ
-عَلَيْهِ السَّلاَمُ. إِنَّ عَلِيّاً حَرَّمَ مِنَ الْكُوفَةِ مَا
-حَرَّمَ إِبْرَاهِيمُ مِنْ مَكَّةَ وَمَا حَرَّمَ مُحَمَّدٌ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ مِنَ الْمَدِينَةِ.
-  </p>
-</blockquote>
+> مَكَّةُ حَرَمُ اللهِ، وَالْمَدِينَةُ حَرَمُ مُحَمَّدٍ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، وَالْكُوفَةُ حَرَمُ عَلِيِّ بْنِ أَبِي طَالِبٍ
+> عَلَيْهِ السَّلاَمُ. إِنَّ عَلِيّاً حَرَّمَ مِنَ الْكُوفَةِ مَا
+> حَرَّمَ إِبْرَاهِيمُ مِنْ مَكَّةَ وَمَا حَرَّمَ مُحَمَّدٌ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ مِنَ الْمَدِينَةِ.
 
 *Makkah is the sanctuary of Almighty Allah, Madinah the sanctuary of
 Muhammad (S), and Kufah the sanctuary of ‘Ali ibn Abi-Talib. ‘Ali has
@@ -1245,13 +1129,9 @@ than the people of Makkah.”
 
 The Imam (‘a) suggested:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالْعِرَاقِ الْكُوفَةِ; فَإِنَّ الْبَرَكَةَ مِنْهَا عَلَى
-اثْنَيْ عَشَرَ مِيلاً هَكَذَا وَهَكَذَا، وَإِلَى جَانِبِهَا قَبْرٌ مَا
-أَتَاهُ مَكْرُوبٌ قَطُّ وَلاَ مَلْهُوفٌ إِلاَّ فَرَّجَ اللهُ عَنْهُ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالْعِرَاقِ الْكُوفَةِ; فَإِنَّ الْبَرَكَةَ مِنْهَا عَلَى
+> اثْنَيْ عَشَرَ مِيلاً هَكَذَا وَهَكَذَا، وَإِلَى جَانِبِهَا قَبْرٌ مَا
+> أَتَاهُ مَكْرُوبٌ قَطُّ وَلاَ مَلْهُوفٌ إِلاَّ فَرَّجَ اللهُ عَنْهُ.
 
 *You should choose Kufah, Iraq because blessing is only twelve miles
 away from this city to the side of which there is a tomb. Whoever
@@ -1260,14 +1140,10 @@ Almighty Allah.*[^51]
 
 Abu-Usamah has reported that he heard Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-الْكُوفَةُ رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ; فِيهَا قَبْرُ نُوحٍ
-وَإِبْرَاهِيمُ عَلَيْهِمَا السَّلاَمُ وَقَبْرُ ثَلَاثَمِائَةِ نَبِيٍّ
-وَسَبْعِينَ نَبِيّاً وَسِتُّمِائَةِ وَصِيٍّ وَقَبْرُ سَيِّدِ
-الأَوْصِيَاءِ أَمِيرِ الْمُؤْمِنِينَ عَلَيْهِ السَّلاَمُ.
-  </p>
-</blockquote>
+> الْكُوفَةُ رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ; فِيهَا قَبْرُ نُوحٍ
+> وَإِبْرَاهِيمُ عَلَيْهِمَا السَّلاَمُ وَقَبْرُ ثَلَاثَمِائَةِ نَبِيٍّ
+> وَسَبْعِينَ نَبِيّاً وَسِتُّمِائَةِ وَصِيٍّ وَقَبْرُ سَيِّدِ
+> الأَوْصِيَاءِ أَمِيرِ الْمُؤْمِنِينَ عَلَيْهِ السَّلاَمُ.
 
 *Kufah is one of the gardens of Paradise where exist the tombs of
 Prophets Noah and Adam—peace be upon them—as well as three hundred and
@@ -1300,25 +1176,21 @@ The Imam (‘a) further asked, “Do you perform all your prayers therein?”
 
 The Imam (‘a) commented:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا لَوْ كُنْتُ بِحَضْرَتِهِ لَرَجَوْتُ أَلاَّ تَفُوتَنِي فِيهِ
-صَلاَةٌ، وَتَدْرِي مَا فَضْلُ ذَلِكَ الْمَوْضِعِ؟ مَا مِنْ عَبْدٍ
-صَالِحٍ وَلاَ نِبِيٍّ إِلاَّ وَقَدْ صَلَّى فِي مَسْجِدِ كُوفَانَ،
-حَتَّى إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لَمَّا
-أُسْرِيَ بِهِ قَالَ لَهُ جَبْرَئِيلُ: أَتَدْرِي أَيْنَ أَنْتَ
-السَّاعَةَ يَا رَسُولَ اللهِ؟ أَنْتَ مُقَابِلُ مَسْجِدِ كُوفَانَ.
-قَالَ: فَاسْتَأْذِنْ لِي رَبِّي حَتَّى آتِيَهُ فَأُصَلِّي
-رَكْعَتَيْنِ. فَاسْتَأْذَنَ اللهَ عَزَّ وَجَلَّ فَأَذِنَ لَهُ. وَإِنَّ
-مَيْمَنَتَهُ لَرَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ، وَإِنَّ وَسَطَهُ
-لَرَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ، وَإِنَّ مُؤَخَّرَهُ لَرَوْضَةٌ
-مِنْ رِيَاضِ الْجَنَّةِ، وَإِنَّ الصَّلاَةَ الْمَكْتُوبَةَ فِيهِ
-لَتَعْدِلُ أَلْفَ صَلاَةٍ، وَإِنَّ النَّافِلَةَ فِيهِ لَتَعْدِلُ
-خَمْسَمِائَةِ صَلاَةٍ، وَإِنَّ الْجُلُوسَ فِيهِ بِغَيْرِ تِلاَوَةٍ
-وَلاَ ذِكْرٍ لَعِبَادَةٌ، وَلَوْ عَلِمَ النَّاسُ مَا فِيهِ لأَتَوْهُ
-وَلَوْ حَبْواً.
-  </p>
-</blockquote>
+> أَمَا لَوْ كُنْتُ بِحَضْرَتِهِ لَرَجَوْتُ أَلاَّ تَفُوتَنِي فِيهِ
+> صَلاَةٌ، وَتَدْرِي مَا فَضْلُ ذَلِكَ الْمَوْضِعِ؟ مَا مِنْ عَبْدٍ
+> صَالِحٍ وَلاَ نِبِيٍّ إِلاَّ وَقَدْ صَلَّى فِي مَسْجِدِ كُوفَانَ،
+> حَتَّى إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لَمَّا
+> أُسْرِيَ بِهِ قَالَ لَهُ جَبْرَئِيلُ: أَتَدْرِي أَيْنَ أَنْتَ
+> السَّاعَةَ يَا رَسُولَ اللهِ؟ أَنْتَ مُقَابِلُ مَسْجِدِ كُوفَانَ.
+> قَالَ: فَاسْتَأْذِنْ لِي رَبِّي حَتَّى آتِيَهُ فَأُصَلِّي
+> رَكْعَتَيْنِ. فَاسْتَأْذَنَ اللهَ عَزَّ وَجَلَّ فَأَذِنَ لَهُ. وَإِنَّ
+> مَيْمَنَتَهُ لَرَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ، وَإِنَّ وَسَطَهُ
+> لَرَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ، وَإِنَّ مُؤَخَّرَهُ لَرَوْضَةٌ
+> مِنْ رِيَاضِ الْجَنَّةِ، وَإِنَّ الصَّلاَةَ الْمَكْتُوبَةَ فِيهِ
+> لَتَعْدِلُ أَلْفَ صَلاَةٍ، وَإِنَّ النَّافِلَةَ فِيهِ لَتَعْدِلُ
+> خَمْسَمِائَةِ صَلاَةٍ، وَإِنَّ الْجُلُوسَ فِيهِ بِغَيْرِ تِلاَوَةٍ
+> وَلاَ ذِكْرٍ لَعِبَادَةٌ، وَلَوْ عَلِمَ النَّاسُ مَا فِيهِ لأَتَوْهُ
+> وَلَوْ حَبْواً.
 
 *Had I been present in the precinct of that mosque, I would have never
 missed any prayer that I could perform there. Do you know the merits of
@@ -1343,12 +1215,8 @@ Shaykh al-Tusi in *Tahdhib al-Ahkam*, and Shaykh al-Saduq in
 *man-la-yahdhuruhu’l-faqih*, have reported on the authority of ‘Ali ibn
 Mahziyar that Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-حَدُّ مَسْجِدِ الْكُوفَةِ آخِرُ السَّرَاجِينِ خَطَّهُ آدَمُ، وَأَنَا
-أَكْرَهُ أَنْ أَدْخُلَهُ رَاكِباً.
-  </p>
-</blockquote>
+> حَدُّ مَسْجِدِ الْكُوفَةِ آخِرُ السَّرَاجِينِ خَطَّهُ آدَمُ، وَأَنَا
+> أَكْرَهُ أَنْ أَدْخُلَهُ رَاكِباً.
 
 *The border of the Kufah Mosque, as sketched by (Prophet) Adam, extends
 to the end of the Sarajin quarter. As for me, I dislike entering there
@@ -1357,13 +1225,9 @@ riding.*
 “Who changed the borders of the mosque, then?” asked the reporter. The
 Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا أَوَّلُ ذَلِكَ فَالطُّوفَانُ فِي زَمَنِ نُوحٍ، ثُمَّ غَيَّرَهُ
-أَصْحَابُ كِسْرَى وَالنُّعْمَانِ، ثُمَّ غَيَّرَهُ زِيَادُ بْنُ أَبِي
-سُفْيَانَ.
-  </p>
-</blockquote>
+> أَمَّا أَوَّلُ ذَلِكَ فَالطُّوفَانُ فِي زَمَنِ نُوحٍ، ثُمَّ غَيَّرَهُ
+> أَصْحَابُ كِسْرَى وَالنُّعْمَانِ، ثُمَّ غَيَّرَهُ زِيَادُ بْنُ أَبِي
+> سُفْيَانَ.
 
 *First of all, it was changed by Prophet Noah’s flood. It was then
 changed by Khosrow, the Persian king, and al-Nu’man, the Arab king.
@@ -1371,13 +1235,9 @@ Finally, it was changed by Ziyad ibn Abi-Sufyan.*[^54]
 
 Najm ibn Hatim has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ يَعْلَمُ النَّاسُ مَا فِي مَسْجِدِ الْكُوفَةِ لأَعَدُّوا لَهُ
-الزَّادَ وَالرَّوَاحِلَ مِنْ مَكَانٍ بَعِيدٍ; إِنَّ صَلاَةَ فَرِيضَةٍ
-فِيهِ تَعْدِلُ حِجَّةً، وَصَلاَةَ نَافِلَةٍ فِيهِ تَعْدِلُ عُمْرَةً.
-  </p>
-</blockquote>
+> لَوْ يَعْلَمُ النَّاسُ مَا فِي مَسْجِدِ الْكُوفَةِ لأَعَدُّوا لَهُ
+> الزَّادَ وَالرَّوَاحِلَ مِنْ مَكَانٍ بَعِيدٍ; إِنَّ صَلاَةَ فَرِيضَةٍ
+> فِيهِ تَعْدِلُ حِجَّةً، وَصَلاَةَ نَافِلَةٍ فِيهِ تَعْدِلُ عُمْرَةً.
 
 *If people were to realize the favors they might gain when they visit
 Kufah Mosque, they would certainly travel to it from remote countries.
@@ -1388,13 +1248,9 @@ to offer a supererogatory prayer therein is equal in reward to one
 Shaykh al-Saduq, in *man-la-yahdhuruhu’l-faqih*, has reported Imam ‘Ali
 (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى ثَلاَثَةِ مَسَاجِدَ، الْمَسْجِدِ
-الْحَرَامِ، وَمَسْجِدِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-وَمَسْجِدِ الْكُوفَةِ.
-  </p>
-</blockquote>
+> لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى ثَلاَثَةِ مَسَاجِدَ، الْمَسْجِدِ
+> الْحَرَامِ، وَمَسْجِدِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> وَمَسْجِدِ الْكُوفَةِ.
 
 *Trips should not be taken except to three mosques—the Sacred Mosque of
 Makkah, the Holy Prophet’s Mosque, and the Kufah Mosque.*[^56]
@@ -1402,26 +1258,22 @@ Makkah, the Holy Prophet’s Mosque, and the Kufah Mosque.*[^56]
 Al-Asbagh ibn Nubatah has reported that Imam ‘Ali (‘a) addressed the
 following words to the people of Kufah:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكُوفَةِ، لَقَدْ حَبَاكُمُ اللهُ عَزَّ وَجَلَّ بِمَا لَمْ
-يَحْبُ بِهِ أَحَداً، مِنْ فَضْلِ مُصَلاَّكُمْ بَيْتُ آدَمَ وَبَيْتُ
-نُوحٍ وَبَيْتُ إِدْرِيسَ، وَمُصَلَّى إِبْرَاهِيمَ الْخَلِيلِ،
-وَمُصَلَّى أَخِي الْخِضْرِ، وَمُصَلاَّيَ، وَإِنَّ مَسْجِدَكُمْ هَذَا
-لأَحَدُ الْمَسَاجِدِ الأَرْبَعَةِ الَّتِي إخْتَارَهَا اللهُ عَزَّ
-وَجَلَّ لأَهْلِهَا. وَكَأَنِّي بِهِ قَدْ أُتِيَ بِهِ يَوْمَ
-الْقِيَامَةِ فِي ثَوْبَيْنِ أَبْيَضَيْنِ يَتَشَبَّهُ بِالْمُحْرِمِ
-وَيَشْفَعُ لأَِهْلِهِ وَلِمَنْ يُصَلِّي فِيهِ فَلاَ تُرَدُّ
-شَفَاعَتُهُ. وَلاَ تَذْهَبُ الأَيَّامُ وَاللَّيَالِي حَتَّى يُنْصَبَ
-الْحَجَرُ الأَسْوَدُ فِيهِ. وَلَيَأْتِيَنَّ عَلَيْهِ زَمَانٌ يَكُونُ
-مُصَلَّى الْمَهْدِيِّ مِنْ وُلْدِي، وَمُصَلَّى كُلِّ مُؤْمِنٍ، وَلاَ
-يَبْقَى عَلَى الأَرْضِ مُؤْمِنٌ إِلاَّ كَانَ بِهِ أَوْ حَنَّ قَلْبُهُ
-إِلَيْهِ. فَلاَ تَهْجُرُوهُ وَتَقَرَّبُوا إِلَى اللهِ عَزَّ وَجَلَّ
-بِالصَّلاَةِ فِيهِ وَارْغَبُوا إِلَيْهِ فِي قَضَاءِ حَوَائِجِكُمْ،
-فَلَوْ يَعْلَمُ النَّاسُ مَا فِيهِ مِنَ الْبَرَكَةِ لأَتَوْهُ مِنْ
-أَقْطَارِ الأَرْضِ وَلَوْ حَبْواً عَلَى الثَّلْجِ.
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكُوفَةِ، لَقَدْ حَبَاكُمُ اللهُ عَزَّ وَجَلَّ بِمَا لَمْ
+> يَحْبُ بِهِ أَحَداً، مِنْ فَضْلِ مُصَلاَّكُمْ بَيْتُ آدَمَ وَبَيْتُ
+> نُوحٍ وَبَيْتُ إِدْرِيسَ، وَمُصَلَّى إِبْرَاهِيمَ الْخَلِيلِ،
+> وَمُصَلَّى أَخِي الْخِضْرِ، وَمُصَلاَّيَ، وَإِنَّ مَسْجِدَكُمْ هَذَا
+> لأَحَدُ الْمَسَاجِدِ الأَرْبَعَةِ الَّتِي إخْتَارَهَا اللهُ عَزَّ
+> وَجَلَّ لأَهْلِهَا. وَكَأَنِّي بِهِ قَدْ أُتِيَ بِهِ يَوْمَ
+> الْقِيَامَةِ فِي ثَوْبَيْنِ أَبْيَضَيْنِ يَتَشَبَّهُ بِالْمُحْرِمِ
+> وَيَشْفَعُ لأَِهْلِهِ وَلِمَنْ يُصَلِّي فِيهِ فَلاَ تُرَدُّ
+> شَفَاعَتُهُ. وَلاَ تَذْهَبُ الأَيَّامُ وَاللَّيَالِي حَتَّى يُنْصَبَ
+> الْحَجَرُ الأَسْوَدُ فِيهِ. وَلَيَأْتِيَنَّ عَلَيْهِ زَمَانٌ يَكُونُ
+> مُصَلَّى الْمَهْدِيِّ مِنْ وُلْدِي، وَمُصَلَّى كُلِّ مُؤْمِنٍ، وَلاَ
+> يَبْقَى عَلَى الأَرْضِ مُؤْمِنٌ إِلاَّ كَانَ بِهِ أَوْ حَنَّ قَلْبُهُ
+> إِلَيْهِ. فَلاَ تَهْجُرُوهُ وَتَقَرَّبُوا إِلَى اللهِ عَزَّ وَجَلَّ
+> بِالصَّلاَةِ فِيهِ وَارْغَبُوا إِلَيْهِ فِي قَضَاءِ حَوَائِجِكُمْ،
+> فَلَوْ يَعْلَمُ النَّاسُ مَا فِيهِ مِنَ الْبَرَكَةِ لأَتَوْهُ مِنْ
+> أَقْطَارِ الأَرْضِ وَلَوْ حَبْواً عَلَى الثَّلْجِ.
 
 *O people of Kufah, Almighty Allah has bestowed something upon you that
 He has not given to any other people. It is the merit of this
@@ -1465,21 +1317,17 @@ wanted to greet and bid you farewell before I leave.”
 
 The Imam (‘a) advised:
 
-<blockquote dir="rtl">
-  <p>
-فَبِعْ رَاحِلَتَكَ وَكُلْ زَادَكَ وَصَلِّ فِي هَذَا الْمَسْجِدِ;
-فَإِنَّ الصَّلاَةَ الْمَكْتُوبَةَ فِيهِ حِجَّةٌ مَبْرُورَةٌ
-وَالنَّافِلَةَ عُمْرَةٌ مَبْرُورَةٌ وَالْبَرَكَةَ مِنْهُ عَلَى اثْنَيْ
-عَشَرَ مِيلاً. يَمِينُهُ يُمْنٌ وَيَسَارُهُ مَكْرٌ. وَفِي وَسَطِهِ
-عَيْنٌ مِنْ دُهْنٍ وَعَيْنٌ مِنْ لَبَنٍ وَعَيْنٌ مِنْ مَاءٍ شَرَابٌ
-لِلْمُؤْمِنِينَ، وَعَيْنٌ مِنْ مَاءٍ طَاهِرٍ لِلْمُؤْمِنِينَ. مِنْهُ
-سَارَتْ سَفِينَةُ نُوحٍ، وَكَانِ فَِيهِ (نَسْرٌ) وَ(يَغُوثُ)
-وَ(يَعُوقُ)، وَصَلَّى فِيهِ سَبْعُونَ نَبِيّاً وَسَبْعُونَ وَصِيّاً
-أَنَا أَحَدُهُمْ. مَا دَعَا فِيهِ مَكْرُوبٌ بِمَسْأَلَةٍ فِي حَاجَةٍ
-مِنَ الْحَوَائِجِ إِلاَّ أَجَابَهُ اللهُ تَعَالَى وَفَرَّجَ عَنْهُ
-كُرْبَتَهُ.
-  </p>
-</blockquote>
+> فَبِعْ رَاحِلَتَكَ وَكُلْ زَادَكَ وَصَلِّ فِي هَذَا الْمَسْجِدِ;
+> فَإِنَّ الصَّلاَةَ الْمَكْتُوبَةَ فِيهِ حِجَّةٌ مَبْرُورَةٌ
+> وَالنَّافِلَةَ عُمْرَةٌ مَبْرُورَةٌ وَالْبَرَكَةَ مِنْهُ عَلَى اثْنَيْ
+> عَشَرَ مِيلاً. يَمِينُهُ يُمْنٌ وَيَسَارُهُ مَكْرٌ. وَفِي وَسَطِهِ
+> عَيْنٌ مِنْ دُهْنٍ وَعَيْنٌ مِنْ لَبَنٍ وَعَيْنٌ مِنْ مَاءٍ شَرَابٌ
+> لِلْمُؤْمِنِينَ، وَعَيْنٌ مِنْ مَاءٍ طَاهِرٍ لِلْمُؤْمِنِينَ. مِنْهُ
+> سَارَتْ سَفِينَةُ نُوحٍ، وَكَانِ فَِيهِ (نَسْرٌ) وَ(يَغُوثُ)
+> وَ(يَعُوقُ)، وَصَلَّى فِيهِ سَبْعُونَ نَبِيّاً وَسَبْعُونَ وَصِيّاً
+> أَنَا أَحَدُهُمْ. مَا دَعَا فِيهِ مَكْرُوبٌ بِمَسْأَلَةٍ فِي حَاجَةٍ
+> مِنَ الْحَوَائِجِ إِلاَّ أَجَابَهُ اللهُ تَعَالَى وَفَرَّجَ عَنْهُ
+> كُرْبَتَهُ.
 
 *If so, you may sell your riding-animal, consume your provisions, and
 pray at this mosque, for performing an obligatory prayer at this mosque
@@ -1531,12 +1379,8 @@ Nasir al-Din al-Tusi has reported on the authority of Muhammad ibn
 Muhammad ibn al-Fadhl, the nephew of Dawud al-Raqqi, that Imam al-Sadiq
 (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَرْبَعُ بِقَاعٍ ضَجَّتْ إِلَى اللهِ أَيَّامَ الطُّوفَانِ: الْبَيْتُ
-الْمَعْمُورُ فَرَفَعَهُ اللهُ، وَالْغَرِيُّ وَكَرْبَلاءُ وَطُوسُ.
-  </p>
-</blockquote>
+> أَرْبَعُ بِقَاعٍ ضَجَّتْ إِلَى اللهِ أَيَّامَ الطُّوفَانِ: الْبَيْتُ
+> الْمَعْمُورُ فَرَفَعَهُ اللهُ، وَالْغَرِيُّ وَكَرْبَلاءُ وَطُوسُ.
 
 *On the days of Noah’s flood, four regions cried to Almighty Allah: the
 Much-Frequented House, which Almighty Allah thus raised, Ghari,
@@ -1553,14 +1397,10 @@ barren?” they asked.
 
 He answered:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُولُ:
-كُوفَانُ كُوفَانُ؛ يُرَدُّ أَوَّلُهَا عَلَى آخِرِهَا، يُحْشَرُ مِنْ
-ظَهْرِهَا سَبْعُونَ أَلْفاً يَدْخُلُونَ الْجَنَّةَ بِغَيْرِ حِسَابٍ.
-فَاشْتَهَيْتُ أَنْ يُحْشَرُوا مِنْ مِلْكِي.
-  </p>
-</blockquote>
+> سَمِعْتُ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُولُ:
+> كُوفَانُ كُوفَانُ؛ يُرَدُّ أَوَّلُهَا عَلَى آخِرِهَا، يُحْشَرُ مِنْ
+> ظَهْرِهَا سَبْعُونَ أَلْفاً يَدْخُلُونَ الْجَنَّةَ بِغَيْرِ حِسَابٍ.
+> فَاشْتَهَيْتُ أَنْ يُحْشَرُوا مِنْ مِلْكِي.
 
 *I have heard the Messenger of Allah (S) saying, “Kufan! Kufan! The
 first of it shall be returned to the last of it (because of complete
@@ -1572,13 +1412,9 @@ like these people to be resurrected from my property.*[^64]
 Badr ibn Khalil al-Asadi has reported on the authority of a man from
 Sham that Imam ‘Ali (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَوَّلُ بُقْعَةٍ عُبِدَ اللهُ عَلَيْهَا ظَهْرُ الْكُوفَةِ، لَمَّا
-أَمَرَ اللهُ الْمَلاَئِكَةَ أَنْ يَسْجُدُوا لآِدَمَ فَسَجَدُوا عَلَى
-ظَهْرِ الْكُوفَةِ.
-  </p>
-</blockquote>
+> أَوَّلُ بُقْعَةٍ عُبِدَ اللهُ عَلَيْهَا ظَهْرُ الْكُوفَةِ، لَمَّا
+> أَمَرَ اللهُ الْمَلاَئِكَةَ أَنْ يَسْجُدُوا لآِدَمَ فَسَجَدُوا عَلَى
+> ظَهْرِ الْكُوفَةِ.
 
 *The first region (of the earth) on which Almighty Allah was worshipped
 is behind Kufah. That was when Almighty Allah ordered the angels to
@@ -1608,13 +1444,9 @@ the unseen, you would see them in meetings speaking to one another.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-أَرْوَاحٌ، وَمَا مِنْ مُؤْمِنٍ يَمُوتُ فِي بُقْعَةٍ مِنْ بِقَاعِ
-الأَرْضِ إِلاَّ قِيلَ لِرُوحِهِ: إِلْحَقِي بِوَادِي السَّلاَمِ.
-وَإِنَّها لَبُقْعَةٌ مِنْ جَنَّةِ عَدْنٍ.
-  </p>
-</blockquote>
+> أَرْوَاحٌ، وَمَا مِنْ مُؤْمِنٍ يَمُوتُ فِي بُقْعَةٍ مِنْ بِقَاعِ
+> الأَرْضِ إِلاَّ قِيلَ لِرُوحِهِ: إِلْحَقِي بِوَادِي السَّلاَمِ.
+> وَإِنَّها لَبُقْعَةٌ مِنْ جَنَّةِ عَدْنٍ.
 
 *They are spirits. There is no faithful believer that dies in any region
 on this earth except that his soul is allowed to join Wadi al-Salam,
@@ -1657,13 +1489,9 @@ Sahlah (or *Suhayl*) Mosque is one of the holy places of Kufah. Many
 traditions report the merits of this mosque, such as Imam al-Sadiq’s
 saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مَكْرُوبٍ يَأْتِي مَسْجِدَ السَّهْلَةِ وَيُصَلِّي فِيهِ
-رَكْعَتَيْنِ بَيْنَ الْعِشَائَيْنِ وَيَدْعُو اللهَ عَزَّ وَجَلَّ
-إِلاَّ فَرَّجَ اللهُ كُرْبَتَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ مَكْرُوبٍ يَأْتِي مَسْجِدَ السَّهْلَةِ وَيُصَلِّي فِيهِ
+> رَكْعَتَيْنِ بَيْنَ الْعِشَائَيْنِ وَيَدْعُو اللهَ عَزَّ وَجَلَّ
+> إِلاَّ فَرَّجَ اللهُ كُرْبَتَهُ.
 
 *Any aggrieved person who visits al-Sahlah Mosque, performs the Maghrib
 and ‘Isha' Prayers thereat, and supplicates, Almighty Allah will most
@@ -1683,18 +1511,14 @@ Zayd and prevented him from going there.”
 
 Commenting on this event, the Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا وَاللهِ لَوِ اسْتَعَاذَ اللهَ بِهِ حَوْلاً لأَعَاذَهُ. أَمَا
-عَلِمْتَ أَنَّهُ مَوْضِعُ بَيْتِ إِدْرِيسَ النَّبِيِّ عَلَيْهِ
-السَّلاَمُ الَّذِي كَانَ يَخِيطُ فِيهِ، وَمِنْهُ سَارَ إِبْرَاهِيمُ
-إِلَى الْيَمَنِ بِالْعَمَالِقَةِ، وَمِنْهُ سَارَ دَاوُدُ إِلَى
-جَالُوتَ، وَإِنَّ فِيهِ لَصَخْرَةً خَضْرَاءَ فِيهَا مِثَالُ كُلِّ
-نَبِيٍّ، وَمِنْ تَحْتِ تِلْكَ الصَّخْرَةِ أُخِذَتْ طِينَةُ كُلِّ
-نَبِيٍّ؟ وَإِنَّهُ لَمُنَاخُ الرَّاكِبِ… الْخِضْرِ عَلَيْهِ
-السَّلاَمُ.
-  </p>
-</blockquote>
+> أَمَا وَاللهِ لَوِ اسْتَعَاذَ اللهَ بِهِ حَوْلاً لأَعَاذَهُ. أَمَا
+> عَلِمْتَ أَنَّهُ مَوْضِعُ بَيْتِ إِدْرِيسَ النَّبِيِّ عَلَيْهِ
+> السَّلاَمُ الَّذِي كَانَ يَخِيطُ فِيهِ، وَمِنْهُ سَارَ إِبْرَاهِيمُ
+> إِلَى الْيَمَنِ بِالْعَمَالِقَةِ، وَمِنْهُ سَارَ دَاوُدُ إِلَى
+> جَالُوتَ، وَإِنَّ فِيهِ لَصَخْرَةً خَضْرَاءَ فِيهَا مِثَالُ كُلِّ
+> نَبِيٍّ، وَمِنْ تَحْتِ تِلْكَ الصَّخْرَةِ أُخِذَتْ طِينَةُ كُلِّ
+> نَبِيٍّ؟ وَإِنَّهُ لَمُنَاخُ الرَّاكِبِ… الْخِضْرِ عَلَيْهِ
+> السَّلاَمُ.
 
 *By Allah (I swear), if he had sought Almighty Allah’s protection in the
 name of that place, he would certainly have been given protection for a
@@ -1709,11 +1533,7 @@ al-Khidhr (‘a).*[^69]
 
 Salih ibn Abi’l-Aswad has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا إِنَّهُ مَنْزِلُ صَاحِبِنَا إِذَا قَامَ بِأَهْلِهِ.
-  </p>
-</blockquote>
+> أَمَا إِنَّهُ مَنْزِلُ صَاحِبِنَا إِذَا قَامَ بِأَهْلِهِ.
 
 *Sahlah Mosque is the house where our Master (i.e. Imam al-Mahdi (‘a))
 shall reside along with his family members.*[^70]
@@ -1738,12 +1558,8 @@ following one reported by Shaykh al-Kulayni, Shaykh Ibn Qawlawayh, and
 Shaykh al-Tusi, through several chains of authority, from Imam al-Sadiq
 (‘a):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِمَوْضِعِ قَبْرِ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ حُرْمَةً
-مَعْرُوفَةً؛ مَنْ عَرَفَهَا وَاسْتَجَارَ بِهَا أُجِيرَ.
-  </p>
-</blockquote>
+> إِنَّ لِمَوْضِعِ قَبْرِ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ حُرْمَةً
+> مَعْرُوفَةً؛ مَنْ عَرَفَهَا وَاسْتَجَارَ بِهَا أُجِيرَ.
 
 *The place of Husayn’s tomb enjoys a well-recognized sanctity. Whoever
 recognizes and seeks refuge through it, shall be protected.*
@@ -1753,18 +1569,14 @@ place.
 
 The Imam (‘a) answering him said:
 
-<blockquote dir="rtl">
-  <p>
-إِمْسَحْ مِنْ مَوْضِعِ قَبْرِهِ الْيَوْمَ خَمْسَةً وَعِشْرِينَ
-ذِرَاعاً مِنْ نَاحِيَةِ رِجْلَيْهِ وَخَمْسَةً وَعِشْرِينَ ذِرَاعاً
-مِنْ نَاحِيَةِ رَأْسِهِ. وَمَوْضِعُ قَبْرِهِ مِنْ يَوْمِ دُفِنَ
-رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ. وَمِنْهُ مِعْرَاجٌ تُعْرَجُ فِيهِ
-بِأَعْمَالِ زُوَّارِهِ إِلَى السَّمَاءِ. وَمَا مِنْ مَلَكٍ فِي
-السَّمَاءِ وَلاَ فِي الأَرْضِ إِلاَّ وَهُمْ يَسْأَلُونَ اللهَ أَنْ
-يَأْذَنَ لَهُمْ فِي زِيَارَةِ قَبْرِ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ،
-فَفَوْجٌ يَنْزِلُ وَفَوْجٌ يَعْرُجُ.
-  </p>
-</blockquote>
+> إِمْسَحْ مِنْ مَوْضِعِ قَبْرِهِ الْيَوْمَ خَمْسَةً وَعِشْرِينَ
+> ذِرَاعاً مِنْ نَاحِيَةِ رِجْلَيْهِ وَخَمْسَةً وَعِشْرِينَ ذِرَاعاً
+> مِنْ نَاحِيَةِ رَأْسِهِ. وَمَوْضِعُ قَبْرِهِ مِنْ يَوْمِ دُفِنَ
+> رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ. وَمِنْهُ مِعْرَاجٌ تُعْرَجُ فِيهِ
+> بِأَعْمَالِ زُوَّارِهِ إِلَى السَّمَاءِ. وَمَا مِنْ مَلَكٍ فِي
+> السَّمَاءِ وَلاَ فِي الأَرْضِ إِلاَّ وَهُمْ يَسْأَلُونَ اللهَ أَنْ
+> يَأْذَنَ لَهُمْ فِي زِيَارَةِ قَبْرِ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ،
+> فَفَوْجٌ يَنْزِلُ وَفَوْجٌ يَعْرُجُ.
 
 *From the current place of his tomb, survey twenty-five cubits from the
 side of his feet and twenty-five cubits from the side of the head. Since
@@ -1777,15 +1589,11 @@ group (of angels) is seen descending while another is ascending.*[^71]
 On the authority of his father, ‘Umar ibn Thabit has reported Imam
 al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ اللهُ كَرْبَلاَءَ قَبْلَ أَنْ يَخْلُقَ الْكَعْبَةَ بِأَرْبَعَةٍ
-وَعِشْرِينَ أَلْفَ عَامٍ، وَقَدَّسَهَا وَبَارَكَ عَلَيْهَا، فَمَا
-زَالَتْ قَبْلَ أَنْ يَخْلُقَ اللهُ الْخَلْقَ مُقَدَّسَةً مُبَارَكَةً
-وَلاَ تَزَالُ كَذَلِكَ، وَجَعَلَهَا اللهُ أَفْضَلَ الأَرْضِ فِي
-الْجَنَّةِ.
-  </p>
-</blockquote>
+> خَلَقَ اللهُ كَرْبَلاَءَ قَبْلَ أَنْ يَخْلُقَ الْكَعْبَةَ بِأَرْبَعَةٍ
+> وَعِشْرِينَ أَلْفَ عَامٍ، وَقَدَّسَهَا وَبَارَكَ عَلَيْهَا، فَمَا
+> زَالَتْ قَبْلَ أَنْ يَخْلُقَ اللهُ الْخَلْقَ مُقَدَّسَةً مُبَارَكَةً
+> وَلاَ تَزَالُ كَذَلِكَ، وَجَعَلَهَا اللهُ أَفْضَلَ الأَرْضِ فِي
+> الْجَنَّةِ.
 
 *Almighty Allah had created Karbala' twenty-four thousand years before
 he created the Ka’bah. Since then, He deemed it sacred and blessed it.
@@ -1800,12 +1608,8 @@ One day, Imam ‘Ali (‘a) led some people on a journey. When he was about
 one or two miles away from Karbala', he moved toward it. When he arrived
 at the place where the martyrs of Karbala' would be martyred, he said:
 
-<blockquote dir="rtl">
-  <p>
-قَبْرٌ فِيهَا مِائَتَا نَبِيٍّ، وَمِائَتَا وَصِيٍّ، وَمِائَتَا سِبْطٍ
-شُهَدَاءٌ بِأَتْبَاعِهِمْ.
-  </p>
-</blockquote>
+> قَبْرٌ فِيهَا مِائَتَا نَبِيٍّ، وَمِائَتَا وَصِيٍّ، وَمِائَتَا سِبْطٍ
+> شُهَدَاءٌ بِأَتْبَاعِهِمْ.
 
 *This is a place which contains the bodies of two hundred prophets, two
 hundred successors of prophets, and two hundred descendants of prophets
@@ -1814,12 +1618,8 @@ along with their followers, all of whom were martyred.*
 Circumambulating that place, the Imam (‘a) took out his feet from the
 stirrup of his riding-animal and said repeatedly:
 
-<blockquote dir="rtl">
-  <p>
-مُنَاخٌ وِكَافٌ وَمَصَارِعُ شُهَدَاءَ لاَ يَسْبِقُهُمْ مَنْ كَانَ
-قَبْلَهُمْ وَلاَ يَلْحَقُهُمْ مَنْ كَانَ بَعْدَهُمْ.
-  </p>
-</blockquote>
+> مُنَاخٌ وِكَافٌ وَمَصَارِعُ شُهَدَاءَ لاَ يَسْبِقُهُمْ مَنْ كَانَ
+> قَبْلَهُمْ وَلاَ يَلْحَقُهُمْ مَنْ كَانَ بَعْدَهُمْ.
 
 *This is a residence where the martyrs who were never excelled by those
 that existed before them and shall never be surpassed by those who will
@@ -1839,12 +1639,8 @@ Many traditions recommend seeking healing from the soil of Imam
 al-Husayn’s tomb. For instance, Shaykh al-Kulayni has reported on the
 authority of Yunus ibn al-Rabi’ that Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-عِنْدَ رَأْسِ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ لَتُرْبَةٌ حَمْرَاءُ
-فِيهَا شِفَاءٌ مِنْ كُلِّ دَاءٍ إِلاَّ السَّامَ.
-  </p>
-</blockquote>
+> عِنْدَ رَأْسِ الْحُسَيْنِ عَلَيْهِ السَّلاَمُ لَتُرْبَةٌ حَمْرَاءُ
+> فِيهَا شِفَاءٌ مِنْ كُلِّ دَاءٍ إِلاَّ السَّامَ.
 
 *At the head of Husayn’s tomb, there is red soil that holds remedy for
 all maladies except death.*[^75]
@@ -1856,12 +1652,8 @@ benefit. Why is that?”
 
 The Imam (‘a) commented:
 
-<blockquote dir="rtl">
-  <p>
-لاَ وَاللهِ، لاَ يَأْخُذُهُ أَحَدٌ وَهُوَ يَرَى أَنَّ اللهَ يَنْفَعُهُ
-بِهِ إِلاَّ نَفَعَهُ بِهِ.
-  </p>
-</blockquote>
+> لاَ وَاللهِ، لاَ يَأْخُذُهُ أَحَدٌ وَهُوَ يَرَى أَنَّ اللهَ يَنْفَعُهُ
+> بِهِ إِلاَّ نَفَعَهُ بِهِ.
 
 *This is untrue. I swear it by Allah. Every one who takes from this soil
 and believes that Almighty Allah will benefit him by it, will certainly
@@ -1875,15 +1667,11 @@ all maladies and security against all feared matters. When you intend to
 use any amount of it, kiss it, pass it over both your eyes and the other
 body organs and then say the following:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ بِحَقِّ هَذِهِ التُّرْبَةِ وَبِحَقِّ مَنْ حَلَّ بِهَا
-وَثَوَىٰ فِيهَا وَبِحِقِّ جَدِّهِ وَاَبِيهِ وَأُمِّهِ وَاَخِيهِ
-وَالاَئِمَّةِ مِنْ وُلْدِهِ وَبِحَقِّ الْمَلاَئِكَةِ الْحَافِّينَ بِهِ
-إِِلاَّ جَعَلْتَهَا شِفَاءً مِنْ كُلِّ دَاءٍ وَبُرْءاً مِنْ كُلِّ
-مَرَضٍ وَنَجَاةً مِنْ كُلِّ آفَةٍ وَحِرْزاً مِمَّا اَخَافُ وَاَحْذَرُ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ بِحَقِّ هَذِهِ التُّرْبَةِ وَبِحَقِّ مَنْ حَلَّ بِهَا
+> وَثَوَىٰ فِيهَا وَبِحِقِّ جَدِّهِ وَاَبِيهِ وَأُمِّهِ وَاَخِيهِ
+> وَالاَئِمَّةِ مِنْ وُلْدِهِ وَبِحَقِّ الْمَلاَئِكَةِ الْحَافِّينَ بِهِ
+> إِِلاَّ جَعَلْتَهَا شِفَاءً مِنْ كُلِّ دَاءٍ وَبُرْءاً مِنْ كُلِّ
+> مَرَضٍ وَنَجَاةً مِنْ كُلِّ آفَةٍ وَحِرْزاً مِمَّا اَخَافُ وَاَحْذَرُ.
 
 *O Allah, for the sake of this dust, for the sake of him who resided in
 it and occupied it, for the sake of his grandfather, his father, his
@@ -1910,13 +1698,9 @@ there is a merit in doing so.
 
 My letter, he said, was answered back as follows:
 
-<blockquote dir="rtl">
-  <p>
-تُسَبِّحُ بِهِ، فَمَا فِي شَيْءٍ مِنَ السُّبَحِ أَفْضَلُ مِنْهُ،
-وَمِنْ فَضْلِهِ أَنَّ الْمُسَبِّحَ يَنْسَى التَّسْبِيحَ وَيُدِيرُ
-السُّبْحَةَ فَيُكْتَبُ لَهُ ذَلِكَ التَّسْبِيحُ.
-  </p>
-</blockquote>
+> تُسَبِّحُ بِهِ، فَمَا فِي شَيْءٍ مِنَ السُّبَحِ أَفْضَلُ مِنْهُ،
+> وَمِنْ فَضْلِهِ أَنَّ الْمُسَبِّحَ يَنْسَى التَّسْبِيحَ وَيُدِيرُ
+> السُّبْحَةَ فَيُكْتَبُ لَهُ ذَلِكَ التَّسْبِيحُ.
 
 *You may use it (i.e. the clay) in making rosaries, for there are no
 rosaries better than those made of this clay. One of the merits of
@@ -1947,14 +1731,10 @@ Shu’ayb al-’Aqarqufi has reported that he once asked Imam al-Sadiq (‘a)
 about the reward of visiting the tomb of Imam al-Husayn (‘a), and he
 answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا شُعَيْبُ، مَا صَلَّى عِنْدَهُ أَحَدٌ وَدَعَا دَعْوَةً إِلاَّ
-اسْتُجِيبَ عَاجِلَةً وَآجِلَةً… أَيْسَرُ مَا يُقَالُ لِزَائِرِ
-الْحُسَيْنِ عَلَيْهِ السَّلاَمُ: قَدْ غُفِرَ لَكَ فَاسْتَأْنِفِ
-الْيَوْمَ عَمَلاً جَدِيداً.
-  </p>
-</blockquote>
+> يَا شُعَيْبُ، مَا صَلَّى عِنْدَهُ أَحَدٌ وَدَعَا دَعْوَةً إِلاَّ
+> اسْتُجِيبَ عَاجِلَةً وَآجِلَةً… أَيْسَرُ مَا يُقَالُ لِزَائِرِ
+> الْحُسَيْنِ عَلَيْهِ السَّلاَمُ: قَدْ غُفِرَ لَكَ فَاسْتَأْنِفِ
+> الْيَوْمَ عَمَلاً جَدِيداً.
 
 O Shu’ayb, whoever offers a prayer at his tomb or supplicates, will
 certainly have his supplication responded sooner or later….The least
@@ -1969,15 +1749,11 @@ prayers and performing devotional acts at the tomb of Imam al-Husayn
 Ja’far ibn Muhammad ibn Ibrahim has reported Imam al-Baqir (‘a) to have
 addressed the following words to someone:
 
-<blockquote dir="rtl">
-  <p>
-مَا يَمْنَعُكَ إِذَا عَرَضَتْ لَكَ حَاجَةٌ أَنْ تَأْتِيَ قَبْرَ
-الْحُسَيْنِ عَلَيْهِ السَّلاَمُ فَتُصَلِّي عِنْدَهُ أَرْبَعَ
-رَكَعَاتٍ، ثُمَّ تَسْأَلُ حَاجَتَكَ؟ فَإِنَّ الصَّلاَةَ الْمَفْرُوضَةَ
-عِنْدَهُ تَعْدِلُ حِجَّةً، وَالصَّلاَةُ النَّافِلَةُ عِنْدَهُ تَعْدِلُ
-عُمْرَةً.
-  </p>
-</blockquote>
+> مَا يَمْنَعُكَ إِذَا عَرَضَتْ لَكَ حَاجَةٌ أَنْ تَأْتِيَ قَبْرَ
+> الْحُسَيْنِ عَلَيْهِ السَّلاَمُ فَتُصَلِّي عِنْدَهُ أَرْبَعَ
+> رَكَعَاتٍ، ثُمَّ تَسْأَلُ حَاجَتَكَ؟ فَإِنَّ الصَّلاَةَ الْمَفْرُوضَةَ
+> عِنْدَهُ تَعْدِلُ حِجَّةً، وَالصَّلاَةُ النَّافِلَةُ عِنْدَهُ تَعْدِلُ
+> عُمْرَةً.
 
 *What prevents you, when you need any of your requests to be granted,
 from coming to the tomb of Husayn (‘a), offering a four-unit prayer
@@ -1987,17 +1763,13 @@ supererogatory prayer to one ‘Umrah.*[^79]
 
 Abu’l-Numayr has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ وِلاَيَتَنَا عُرِضَتْ عَلَى أَهْلِ الأَمْصَارِ فَلَمْ
-يَقْبَلْهَا قَبُولَ أَهْلِ الْكُوفَةِ شَيْءٌ، وَذَلِكَ أَنَّ قَبْرَ
-أَمِيرِ الْمُؤْمِنِينَ عَلَيْهِ السَّلاَمُ فِيهِ، وَإِنَّ إِلَى
-لُزْقَتِهِ لَقَبْراً آخَرَ، يَعْنِي قَبْرَ الْحُسَيْنِ عَلَيْهِ
-السَّلاَمُ، وَمَا مِنْ آتٍ أَتَاهُ يُصَلِّي عِنْدَهُ رَكْعَتَيْنِ أَوْ
-أَرْبَعاً ثُمَّ سَأَلَ اللهَ حَاجَتَهُ إِلاَّ قَضَاهَا لَهُ، وَإِنَّهُ
-لَيَحُفُّهُ كُلَّ يَوْمٍ أَلْفُ مَلَكٍ.
-  </p>
-</blockquote>
+> إِنَّ وِلاَيَتَنَا عُرِضَتْ عَلَى أَهْلِ الأَمْصَارِ فَلَمْ
+> يَقْبَلْهَا قَبُولَ أَهْلِ الْكُوفَةِ شَيْءٌ، وَذَلِكَ أَنَّ قَبْرَ
+> أَمِيرِ الْمُؤْمِنِينَ عَلَيْهِ السَّلاَمُ فِيهِ، وَإِنَّ إِلَى
+> لُزْقَتِهِ لَقَبْراً آخَرَ، يَعْنِي قَبْرَ الْحُسَيْنِ عَلَيْهِ
+> السَّلاَمُ، وَمَا مِنْ آتٍ أَتَاهُ يُصَلِّي عِنْدَهُ رَكْعَتَيْنِ أَوْ
+> أَرْبَعاً ثُمَّ سَأَلَ اللهَ حَاجَتَهُ إِلاَّ قَضَاهَا لَهُ، وَإِنَّهُ
+> لَيَحُفُّهُ كُلَّ يَوْمٍ أَلْفُ مَلَكٍ.
 
 *The (divinely designated) loyalty to our leadership was offered to the
 people of all countries, but none accepted it like the acceptance of the
@@ -2021,14 +1793,10 @@ jurisprudents.[^82]
 In this connection, Hammad ibn ‘Isa has reported Imam al-Sadiq (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ مَخْزُونِ عِلْمِ اللهِ الإِتْمَامُ فِي أَرْبَعَةِ مَوَاطِنَ:
-حَرَمِ اللهِ، وَحَرَمِ رَسُولِهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-وَحَرَمِ أَمِيرِ الْمُؤْمِنِينَ عَلَيْهِ السَّلاَمُ، وَحَرَمِ
-الْحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِ السَّلاَمُ.
-  </p>
-</blockquote>
+> مِنْ مَخْزُونِ عِلْمِ اللهِ الإِتْمَامُ فِي أَرْبَعَةِ مَوَاطِنَ:
+> حَرَمِ اللهِ، وَحَرَمِ رَسُولِهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> وَحَرَمِ أَمِيرِ الْمُؤْمِنِينَ عَلَيْهِ السَّلاَمُ، وَحَرَمِ
+> الْحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِ السَّلاَمُ.
 
 *Of the collective knowledge of Almighty Allah it is revealed to perform
 the (obligatory) prayer in the complete form at four places; (1) the
@@ -2076,13 +1844,9 @@ the very place of the Holy Prophet’s ascension to the skies.
 About the merit of this mosque, a famous tradition upon which all
 Muslims unanimously agree reports the following:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى مَسَاجِدَ ثَلاَثٍ: الْمَسْجِدِ
-الْحَرَامِ وَمَسْجِدِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-وَالْمَسْجِدِ الأَقْصَى.
-  </p>
-</blockquote>
+> لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى مَسَاجِدَ ثَلاَثٍ: الْمَسْجِدِ
+> الْحَرَامِ وَمَسْجِدِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> وَالْمَسْجِدِ الأَقْصَى.
 
 Luggage must not be packed except for travel to three mosques: the
 Sacred Mosque (of Makkah), the Prophet’s Mosque, and the Furthest
@@ -2092,14 +1856,10 @@ Traditions that are reported from the Ahl al-Bayt (‘a) confirm this
 distinctive feature. In this respect, Abu-Hamzah al-Thumali has quoted
 Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الْمَسَاجِدُ الأَرْبَعَةُ الْمَسْجِدُ الْحَرَامُ، وَمَسْجِدُ رَسُولِ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ، وَمَسْجِدُ بَيْتِ الْمَقْدِسِ،
-وَمَسْجِدُ الْكُوفَةِ. الْفَرِيضَةُ فِيهَا تَعْدِلُ حِجَّةً،
-وَالنَّافِلَةُ فِيهَا تَعْدِلُ عُمْرَةً.
-  </p>
-</blockquote>
+> الْمَسَاجِدُ الأَرْبَعَةُ الْمَسْجِدُ الْحَرَامُ، وَمَسْجِدُ رَسُولِ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ، وَمَسْجِدُ بَيْتِ الْمَقْدِسِ،
+> وَمَسْجِدُ الْكُوفَةِ. الْفَرِيضَةُ فِيهَا تَعْدِلُ حِجَّةً،
+> وَالنَّافِلَةُ فِيهَا تَعْدِلُ عُمْرَةً.
 
 *The most distinctive mosques are four: (1) the Sacred Mosque (of
 Makkah), (2) the Prophet’s Mosque, (3) the Mosque of Jerusalem, and (4)
@@ -2110,15 +1870,11 @@ one ‘Umrah.*[^87]
 Al-Sakuni has reported Imam al-Sadiq (‘a) on the authority of his father
 on the authority of Imam ‘Ali (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-صَلاَةٌ فِي بَيْتِ الْمَقْدِسِ تَعْدِلُ أَلْفَ صَلاَةٍ، وَصَلاَةٌ فِي
-الْمَسْجِدِ الأَعْظَمِ مِائَةُ صَلاَةٍ، وَصَلاَةٌ فِي مَسْجِدِ
-الْقَبِيلَةِ خَمْسٌ وَعِشْرُونَ صَلاَةً، وَصَلاَةٌ فِي مَسْجِدِ
-السُّوقِ إثْنَتَا عَشْرَةَ صَلاَةً، وَصَلاَةُ الرَّجُلِ فِي بَيْتِهِ
-وَحْدَهُ صَلاَةٌ وَاحِدَةٌ.
-  </p>
-</blockquote>
+> صَلاَةٌ فِي بَيْتِ الْمَقْدِسِ تَعْدِلُ أَلْفَ صَلاَةٍ، وَصَلاَةٌ فِي
+> الْمَسْجِدِ الأَعْظَمِ مِائَةُ صَلاَةٍ، وَصَلاَةٌ فِي مَسْجِدِ
+> الْقَبِيلَةِ خَمْسٌ وَعِشْرُونَ صَلاَةً، وَصَلاَةٌ فِي مَسْجِدِ
+> السُّوقِ إثْنَتَا عَشْرَةَ صَلاَةً، وَصَلاَةُ الرَّجُلِ فِي بَيْتِهِ
+> وَحْدَهُ صَلاَةٌ وَاحِدَةٌ.
 
 *One prayer offered at the mosque of Jerusalem is equal to one thousand
 prayers, one prayer at the Great Mosque is equal to one hundred, one
@@ -2137,19 +1893,15 @@ offering such acts.
 Shaykh al-Kulayni has reported through a valid chain of authority that
 Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-صَلِّ فِي مَسْجِدِ الْخِيفِ وَهُوَ مَسْجِدُ مِنَى، وَمَكَانُ مَسْجِدِ
-رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ عَلَى عَهْدِهِ عِنْدَ
-الْمَنَارَةِ الَّتِي فِي وَسَطِ الْمَسْجِدِ، وَفَوْقَهَا إِلَى
-الْقِبْلَةِ نَحْواً مِنْ ثَلاَثِينَ ذِرَاعاً وَعَنْ يَمِينِهَا وَعَنْ
-يَسَارِهَا وَخَلْفِهَا نَحْواً مِنْ ذَلِكَ. فَتَحَرَّ ذَلِكَ فَإِنِ
-اسْتَطَعْتَ أَنْ يَكُونَ مُصَلاَّكَ فِيهِ فَافْعَلْ; فَإِنَّهُ قَدْ
-صَلَّى فِيهِ أَلْفُ نَبِيٍّ، وَإِنَّمَا سُمِّيَ الْخِيفَ لأَِنَّهُ
-مُرْتَفِعٌ عَنِ الْوَادِي، وَمَا ارْتَفَعَ عَنِ الْوَادِي سُمِّيَ
-خِيفاً.
-  </p>
-</blockquote>
+> صَلِّ فِي مَسْجِدِ الْخِيفِ وَهُوَ مَسْجِدُ مِنَى، وَمَكَانُ مَسْجِدِ
+> رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ عَلَى عَهْدِهِ عِنْدَ
+> الْمَنَارَةِ الَّتِي فِي وَسَطِ الْمَسْجِدِ، وَفَوْقَهَا إِلَى
+> الْقِبْلَةِ نَحْواً مِنْ ثَلاَثِينَ ذِرَاعاً وَعَنْ يَمِينِهَا وَعَنْ
+> يَسَارِهَا وَخَلْفِهَا نَحْواً مِنْ ذَلِكَ. فَتَحَرَّ ذَلِكَ فَإِنِ
+> اسْتَطَعْتَ أَنْ يَكُونَ مُصَلاَّكَ فِيهِ فَافْعَلْ; فَإِنَّهُ قَدْ
+> صَلَّى فِيهِ أَلْفُ نَبِيٍّ، وَإِنَّمَا سُمِّيَ الْخِيفَ لأَِنَّهُ
+> مُرْتَفِعٌ عَنِ الْوَادِي، وَمَا ارْتَفَعَ عَنِ الْوَادِي سُمِّيَ
+> خِيفاً.
 
 *Offer prayers at the Khif Mosque, which is the mosque of Mina and the
 place of the Holy Prophet’s prostration, specifically near the column
@@ -2164,17 +1916,13 @@ Other traditions have mentioned the merits of offering prayers and
 devotional acts at this mosque. Shaykh al-Saduq, through a valid chain
 of authority, has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلَّى فِي مَسْجِدِ الْخِيفِ بِمِنَى مِائَةَ رَكْعَةٍ قَبْلَ أَنْ
-يَخْرُجَ مِنْهُ عَدَلَتْ عِبَادَةَ سَبْعِينَ عَاماً، وَمَنْ سَبَّحَ
-اللهَ فِيهِ مِائَةَ تَسْبِيحَةٍ كُتِبَ لَهُ كَأَجْرِ عِتْقِ رَقَبَةٍ،
-وَمَنْ هَلَّلَ اللهَ فِيهِ مِائَةَ تَهْلِيلَةٍ عَدَلَتْ أَجْرَ
-إِحْيَاءِ نَسَمَةٍ، وَمَنْ حَمِدَ اللهَ فِيهِ مِائَةَ تَحْمِيدَةٍ
-عَدَلَتْ أَجْرَ خَرَاجِ الْعِرَاقَيْنِ يَتَصَدَّقُ بِهِ فِي سَبِيلِ
-اللهِ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> مَنْ صَلَّى فِي مَسْجِدِ الْخِيفِ بِمِنَى مِائَةَ رَكْعَةٍ قَبْلَ أَنْ
+> يَخْرُجَ مِنْهُ عَدَلَتْ عِبَادَةَ سَبْعِينَ عَاماً، وَمَنْ سَبَّحَ
+> اللهَ فِيهِ مِائَةَ تَسْبِيحَةٍ كُتِبَ لَهُ كَأَجْرِ عِتْقِ رَقَبَةٍ،
+> وَمَنْ هَلَّلَ اللهَ فِيهِ مِائَةَ تَهْلِيلَةٍ عَدَلَتْ أَجْرَ
+> إِحْيَاءِ نَسَمَةٍ، وَمَنْ حَمِدَ اللهَ فِيهِ مِائَةَ تَحْمِيدَةٍ
+> عَدَلَتْ أَجْرَ خَرَاجِ الْعِرَاقَيْنِ يَتَصَدَّقُ بِهِ فِي سَبِيلِ
+> اللهِ عَزَّ وَجَلَّ.
 
 *Whoever offers one hundred units of prayers at the Khif Mosque before
 he leaves it, his prayers will be equal in reward to doing acts of
@@ -2189,11 +1937,7 @@ in Iraq.*[^90]
 
 Shaykh al-Kulayni has also quoted Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-صَلِّ سِتَّ رَكَعَاتٍ فِي مَسْجِدِ مِنَى فِي أَصْلِ الصَّوْمَعَةِ.
-  </p>
-</blockquote>
+> صَلِّ سِتَّ رَكَعَاتٍ فِي مَسْجِدِ مِنَى فِي أَصْلِ الصَّوْمَعَةِ.
 
 *Offer six units of prayer at the center of the Mina Mosque.*[^91]
 
@@ -2259,12 +2003,8 @@ place, many other traditions and texts have confirmed the sanctity of
 the blessed tomb. As has been previously cited, Imam al-Sadiq (‘a) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَرْبَعُ بِقَاعٍ ضَجَّتْ إِلَى اللهِ أَيَّامَ الطُّوفَانِ: الْبَيْتُ
-الْمَعْمُورُ فَرَفَعَهُ اللهُ، وَالْغَرِيُّ وَكَرْبَلاءُ وَطُوسُ.
-  </p>
-</blockquote>
+> أَرْبَعُ بِقَاعٍ ضَجَّتْ إِلَى اللهِ أَيَّامَ الطُّوفَانِ: الْبَيْتُ
+> الْمَعْمُورُ فَرَفَعَهُ اللهُ، وَالْغَرِيُّ وَكَرْبَلاءُ وَطُوسُ.
 
 *On the days of Noah’s flood, four regions cried to Almighty Allah: the
 Much-Frequented House, which Almighty Allah thus raised, Ghari,
@@ -2275,13 +2015,9 @@ Shaykh al-Saduq, in his books of *man-la-yahdhuruhu’l-faqih*,
 chain of authority that al-Hasan ibn ‘Ali ibn Fadhdhal quoted Imam
 al-Ridha (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ بِخُرَاسَانَ لَبُقْعَةً يَأْتِي عَلَيْهَا زَمَانٌ تَصِيرُ
-مُخْتَلَفَ الْمَلائِكَةِ فَلا يَزَالُ فَوْجٌ يَنْزِلُ مِنَ السَّمَاءِ
-وَفَوْجٌ يَصْعَدُ إِلَى أَنْ يُنْفَخَ فِي الصُّورِ.
-  </p>
-</blockquote>
+> إِنَّ بِخُرَاسَانَ لَبُقْعَةً يَأْتِي عَلَيْهَا زَمَانٌ تَصِيرُ
+> مُخْتَلَفَ الْمَلائِكَةِ فَلا يَزَالُ فَوْجٌ يَنْزِلُ مِنَ السَّمَاءِ
+> وَفَوْجٌ يَصْعَدُ إِلَى أَنْ يُنْفَخَ فِي الصُّورِ.
 
 *There is an area in Khurasan where angels will come and go. All the
 time a group of angels will be landing there from the sky and another
@@ -2292,15 +2028,11 @@ continue forever until the Trumpet is sounded.*
 
 He answered:
 
-<blockquote dir="rtl">
-  <p>
-هِيَ بِأَرْضِ طُوسَ فَهِيَ وَاللَّهِ رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ
-مَنْ زَارَنِي فِي تِلْكَ الْبُقْعَةِ كَانَ كَمَنْ زَارَ رَسُولَ
-اللَّهِ‏ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَكَتَبَ اللَّهُ تَبَارَكَ
-وَتَعَالَى لَهُ ثَوَابَ أَلْفِ حَجَّةٍ مَبْرُورَةٍ وَأَلْفِ عُمْرَةٍ
-مَقْبُولَةٍ وَكُنْتُ أَنَا وَآبَائِي شُفَعَاءَهُ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> هِيَ بِأَرْضِ طُوسَ فَهِيَ وَاللَّهِ رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ
+> مَنْ زَارَنِي فِي تِلْكَ الْبُقْعَةِ كَانَ كَمَنْ زَارَ رَسُولَ
+> اللَّهِ‏ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَكَتَبَ اللَّهُ تَبَارَكَ
+> وَتَعَالَى لَهُ ثَوَابَ أَلْفِ حَجَّةٍ مَبْرُورَةٍ وَأَلْفِ عُمْرَةٍ
+> مَقْبُولَةٍ وَكُنْتُ أَنَا وَآبَائِي شُفَعَاءَهُ يَوْمَ الْقِيَامَةِ.
 
 *It is in the land of Tus and it is, by Allah, a garden of Paradise.
 Whoever visits me in this area will be as if he has visited the
@@ -2311,17 +2043,13 @@ fathers and I will be his intercessors on the Resurrection Day.*[^95]
 Al-Saqr ibn Dalaf has reported that he heard ‘Ali ibn Muhammad ibn ‘Ali
 al-Ridha (i.e. Imam al-Hadi (‘a)) saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَتْ لَهُ إِلَى اللهِ حَاجَةٌ فَلْيَزُرْ قَبْرَ جَدِّيَ
-الرِّضَا عَلَيْهِ السَّلاَمُ بِطُوسَ وَهُوَ عَلَى غُسْلٍ، وَلْيُصَلِّ
-عِنْدَ رَأْسِهِ رَكْعَتَيْنِ، وَلْيَسْأَلِ اللهَ تَعَالَى حَاجَتَهُ
-فِي قُنُوتِهِ، فَإِنَّهُ يَسْتَجِيبُ لَهُ مَا لَمْ يَسْأَلْ مَأْثَماً
-أَوْ قَطِيعَةَ رَحِمٍ. إِنَّ مَوْضِعَ قَبْرِهِ لَبُقْعَةٌ مِنْ بِقَاعِ
-الْجَنَّةِ لاَ يَزُورُهَا مُؤْمِنٌ إِلاَّ أَعْتَقَهُ اللهُ تَعَالَى
-مِنَ النَّارِ وَأَدْخَلَهُ دَارَ الْقَرَارِ.
-  </p>
-</blockquote>
+> مَنْ كَانَتْ لَهُ إِلَى اللهِ حَاجَةٌ فَلْيَزُرْ قَبْرَ جَدِّيَ
+> الرِّضَا عَلَيْهِ السَّلاَمُ بِطُوسَ وَهُوَ عَلَى غُسْلٍ، وَلْيُصَلِّ
+> عِنْدَ رَأْسِهِ رَكْعَتَيْنِ، وَلْيَسْأَلِ اللهَ تَعَالَى حَاجَتَهُ
+> فِي قُنُوتِهِ، فَإِنَّهُ يَسْتَجِيبُ لَهُ مَا لَمْ يَسْأَلْ مَأْثَماً
+> أَوْ قَطِيعَةَ رَحِمٍ. إِنَّ مَوْضِعَ قَبْرِهِ لَبُقْعَةٌ مِنْ بِقَاعِ
+> الْجَنَّةِ لاَ يَزُورُهَا مُؤْمِنٌ إِلاَّ أَعْتَقَهُ اللهُ تَعَالَى
+> مِنَ النَّارِ وَأَدْخَلَهُ دَارَ الْقَرَارِ.
 
 *Whoever has a request to be granted by Almighty Allah should visit the
 tomb of al-Ridha (‘a), my grandfather, in Tus after performing the
@@ -2718,5 +2446,4 @@ mean the tomb of Fatimah the daughter of Musa ibn Ja’far (‘a)?” The Imam
 answered in the affirmative and added: مَنْ زَارَهَا عَارِفاً بِحَقِّهَا
 فَلَهُ الْجَنَّةُ.Whoever visits her with full recognition of her
 standing will be awarded Paradise…
-
 

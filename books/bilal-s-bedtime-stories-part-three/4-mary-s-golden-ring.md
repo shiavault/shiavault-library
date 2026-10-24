@@ -50,7 +50,6 @@ there was something glittering and well, It was your ring. I am sure
 that the Good Lord has answered your prayer." I also feel that Allah has
 helped her, don't you?
 
-
 **Needed Your Help**
 
 "Mummy! Mummy!" cried Sabira as she came jumping down the stairs from
@@ -115,5 +114,4 @@ boys and girts need their lives. I shall save up again for the doll."
 The lady said: "May God bless you, dear child." Her mother was very
 pleased with Sabira and she at once took her into her arms and said,
 "What a nice daughter I have."
-
 

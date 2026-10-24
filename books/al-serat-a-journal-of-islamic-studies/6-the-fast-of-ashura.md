@@ -506,4 +506,3 @@ transl.), Markazi Urdu Board, Lahore 1968.
 4. Hashimi, 'Abd al-Quddus, Taqwim-i Tarikhi (in Urdu) Central
 Institute of Islamic Research, Karachi, 1965.
 
-

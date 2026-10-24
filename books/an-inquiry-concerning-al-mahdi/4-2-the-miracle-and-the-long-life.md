@@ -21,11 +21,7 @@ case of Ibrahim (peace be upon him) when the only way to preserve his
 life was by hindering that process, when it was said to the fire in
 which he was thrown:
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ
 
 ***We said, "O fire be cool on Ibrahim and keep him*** ***safe."
 (Qur'an, 21:69)***
@@ -100,5 +96,4 @@ also be formed on the assumption of a wisdom that made the Creator of
 the universe to continuously combine some particular phenomena with
 others. The same wisdom sometimes calls for exception; thus a miracle
 occurs.
-
 

@@ -86,4 +86,3 @@ Amir \`Ali, History of the Saracens, chap.X, pp. 126-127.
 
 Mas'udi, Muruj adh-dhahab, vol.I, p.28.
 
-

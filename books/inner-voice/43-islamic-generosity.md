@@ -50,4 +50,3 @@ when not the conflict of interests, as taught by materialism, but
 sincere co-operation, as taught by religion, becomes the basis of
 society.
 
-

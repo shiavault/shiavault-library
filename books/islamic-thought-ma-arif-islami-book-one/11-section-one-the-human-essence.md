@@ -227,13 +227,9 @@ all aspects of existence.
 Aspects of Human Existence in the Qur’an
 ----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-﴿ثم جعلناه نطفة في قرار مكين. ثم خلقنا النطفة علقة فخلقنا العلقة مضغة
-فخلقنا المضغة عظاما فكسونا العظام لحما ثم انشأناه خلقا اخر فتبارك الله
-احسن الخالقين﴾
-  </p>
-</blockquote>
+> ﴿ثم جعلناه نطفة في قرار مكين. ثم خلقنا النطفة علقة فخلقنا العلقة مضغة
+> فخلقنا المضغة عظاما فكسونا العظام لحما ثم انشأناه خلقا اخر فتبارك الله
+> احسن الخالقين﴾
 
 ***“Then We made it a sperm in a secure receptacle (womb). Then of the
 sperm We created blood-clot, next of the blood-clot We created tissue,
@@ -241,38 +237,22 @@ and then of the tissue We created bones, afterwards We covered the bones
 with flesh, and then We originated within it a different existence.
 Glory be to Allah, the fairest of creators.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ثمّ سوّاه و نَفَخَ فيه من روحِهِ و جعل لكم السمع و الابصار و الافئدة﴾
-  </p>
-</blockquote>
+> ﴿ثمّ سوّاه و نَفَخَ فيه من روحِهِ و جعل لكم السمع و الابصار و الافئدة﴾
 
 ***“Then He shaped it and breathed in it of His spirit and He appointed
 for you ears, eyes, and hearts.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-﴿و يسئلونك عن الروح قل الروح من امر ربي و ما اوتيتم من العلم إلا
-قليلاً﴾
-  </p>
-</blockquote>
+> ﴿و يسئلونك عن الروح قل الروح من امر ربي و ما اوتيتم من العلم إلا
+> قليلاً﴾
 
 ***“And they ask you about the soul; say, ‘The soul is my Lord’s Command
 and you have not been given knowledge save a little.’”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿ألا له الخلق و الامر﴾
-  </p>
-</blockquote>
+> ﴿ألا له الخلق و الامر﴾
 
 ***“Know that Creation and Command solely belong to Him.”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿انّما امره اذا اراد شيئاً ان يقول له كن فيكون﴾
-  </p>
-</blockquote>
+> ﴿انّما امره اذا اراد شيئاً ان يقول له كن فيكون﴾
 
 ***“His Command is such, when He wants something, the moment He says to
 it, ‘be’ it immediately is.”***[^8]
@@ -376,5 +356,4 @@ little thought, we realize that these two are in fact, one and the same.
 Al-Mīzān (Al-Mīzān Exegesis), vol. 13, pp. 196-198; and Allāmah
 Ṭabāṭabāī, Rasā’il-e Tawḥīdī (Monotheistic Disquisitions), Disquisition
 of Humans before this World, pp. 169-170.
-
 

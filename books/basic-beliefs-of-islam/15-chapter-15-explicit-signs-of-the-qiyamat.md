@@ -121,4 +121,3 @@ nuclear war. Dabba-tul-Ardh The meaning of Dabbat-ul-Ardh is a "walker
 of earth". There is a lengthy hadiths explaining the nature of
 Dabbatulardh.
 
-

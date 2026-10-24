@@ -361,4 +361,3 @@ That is why he again requested that Imam Husain let him go and fight the
 attacking foes lest one of the children look at him and cause him to die
 of shame.
 
-

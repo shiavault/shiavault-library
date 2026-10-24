@@ -30,4 +30,3 @@ timing. It is not a human program. Hence, it is not for human to decide.
 When one cannot decide he can deny. Here denial is not important,
 because to deny facts does not uproot them.
 
-

@@ -321,4 +321,3 @@ at the age of twenty five years, three months and twelve days. He died
 on a Tuesday on the sixth of Dhil Hajj in the year two hundred twenty
 AH. He lived nineteen years less twenty five days."
 
-

@@ -36,7 +36,6 @@ repay him. You wish for him as he wishes for you and you restrain him
 from any act of disobedience he might attempt. Be a mercy for him, not a
 chastisement. and there is no strength save in God."
 
-
 **Sayings of Imam Ali (as)**
 
 1. Amirul Momineen (A.S) said: How wonderful is a man that speaks with
@@ -210,7 +209,6 @@ about those around us; what is the news about things around you?
 
 41. Amirul Momineen (A.S) said: Grief is half old age.
 
-
 **Prophet Muhammad's (s.a.w) Last Sermon**
 
 (This Sermon was Delivered on the Ninth Day of Dhul Hijjah 10 A.H. in
@@ -257,7 +255,6 @@ astray. All those who listen to me shall pass on my words to others and
 those to others again; and may the last ones understand my words better
 than those who listen to me directly. Be my witness O Allah that I have
 conveyed your message to your people.
-
 
 **Companionship and Friendship in Islam**
 
@@ -346,12 +343,10 @@ is reported, "When someone observes a friend taking a wrong and sinful
 course and, while possessing the capacity to restrain him, does not do
 so out of indifference, he has actually betrayed his friend."
 
-
 Today, in this world of ignorance and personal desires, there are few
 who keep their friendship. Hence, everyone should be careful in choosing
 friends, and study the character of those with whom they wish to develop
 terms of friendship.
-
 
 **History of Islam**
 
@@ -398,7 +393,6 @@ that also teach us what to repeat and what to avoid. We may choose to
 fall within this causal pattern or learn from them and alter our future.
 the choice is ultimately ours to make.
 
-
 Sayyed Askari Raza
 
 **Few Signs of the Arrival of Imam Mehdi (as)**
@@ -434,8 +428,6 @@ prevalent the land will crumble and sink thrice in the East, the west
 and Arabian peninsula. Most of these have already occured, and the
 others are in the process. May Allah protect us from the fire of Hell.
 
-
 Iltemas- e -Dua
 Zeenat Mohamedali
-
 

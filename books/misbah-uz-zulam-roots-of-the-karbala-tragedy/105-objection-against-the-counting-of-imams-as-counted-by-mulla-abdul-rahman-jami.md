@@ -59,4 +59,3 @@ Ibnul Arabi
 
 [^2]: Tirmidhi and Abu Dawood
 
-

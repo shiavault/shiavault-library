@@ -170,7 +170,6 @@ And the Exalted also said: That is because never will Allah change the
 favour He has bestowed on a people until they change what is with
 themselves [Anfaal 8:53]
 
-
 **Ninty Nine Names Of Allah**
 
 1. Allah:
@@ -594,7 +593,6 @@ likeness; and He is the Hearer, the Seer ..." Qur'an [42:11] (Arabic
 transliteration: Huwa Allathi Laysa Ka Mithlihi Shay'un Wa Huwa As-Sami^
 Al-Basir)
 
-
 **Salaat is better than Sleep**
 
 The importance of Salaat in Islam can never be over-emphasised. We have
@@ -693,7 +691,6 @@ inevitable.
 All want the sun of Islam to rise but how can that be when the sons of
 Islam are fast asleep when the sun rises?
 
-
 **A Tradition from Imam Husayn (as)**
 
 A man once came to him asking for advice since he could not stop
@@ -712,5 +709,4 @@ from doing so.
 
 5. When you are dragged into the hell fire at the command of Allah,
 refuse to enter.
-
 

@@ -320,4 +320,3 @@ from the Najranites. 'Ali obeyed the orders and joined the Prophet only
 during the Farewell Hajj (pilgrimage) as, on the 25th of Dhul-'qadah,
 the Prophet had left Medina for Hajj.
 
-

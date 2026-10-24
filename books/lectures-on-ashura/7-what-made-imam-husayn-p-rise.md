@@ -775,4 +775,3 @@ of Imam Husayn (P) and his magnanimous companions, which has emerged in
 the world now, would not have taken such a shape and their enemies would
 not have been humiliated and disgraced in the manner they have been.
 
-

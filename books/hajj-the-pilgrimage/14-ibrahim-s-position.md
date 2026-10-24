@@ -169,4 +169,3 @@ Make the earth the Safe-Mosque, as if you are in the Safe-Mosque!
  All this because the "earth is the mosque of Allah," however you see
 that in reality it is not!
 
-

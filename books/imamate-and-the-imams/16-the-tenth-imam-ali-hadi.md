@@ -308,4 +308,3 @@ Vol 50, pp. 113-117; Al-Fusulul Muhimmah, p. 295; Matalibus Su’ul, Vol
 
 [^19]: Manaqib ‘Ali Abi Talib, Vol 4, p. 442.
 
-

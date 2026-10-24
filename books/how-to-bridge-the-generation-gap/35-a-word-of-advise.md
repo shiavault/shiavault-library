@@ -51,4 +51,3 @@ contrary, the dog of the companions of the cave (Ashab -eKahf) Sura 18
 of the Holy Quran, by associating himself with the righteous people,
 acquired human characteristics. (Tr)
 
-

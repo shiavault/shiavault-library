@@ -331,4 +331,3 @@ Wahabisim, and when he refused to do that, he threatened to kill him and
 said that whoever did not embrace Wahabism would be in Fire.” Refer to
 al-Bilad Magazine, vol. 191, p.35.
 
-

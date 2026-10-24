@@ -139,4 +139,3 @@ propagating Islam ". [^1]
 [^1]: Sahih Bukhari vol. p. 47 chapter Islam and Abu Dharr, printed in
 Egypt, 1312 Hijra
 
-

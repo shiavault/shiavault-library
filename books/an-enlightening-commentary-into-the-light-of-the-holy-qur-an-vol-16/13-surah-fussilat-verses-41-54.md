@@ -4,26 +4,14 @@ Surah Fussilat, Verses 41 - 54
 Surah Fussilat - Verse 41 - 43
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ لَمَّا جَاءَهُمْ وَإِنَّهُ
-لَكِتَابٌ عَزِيزٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ لَمَّا جَاءَهُمْ وَإِنَّهُ
+> لَكِتَابٌ عَزِيزٌ
 
-<blockquote dir="rtl">
-  <p>
-لا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلا مِنْ خَلْفِهِ
-تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> لا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلا مِنْ خَلْفِهِ
+> تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-مَا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِنْ قَبْلِكَ إِنَّ
-رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> مَا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِنْ قَبْلِكَ إِنَّ
+> رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ
 
 ***41. Indeed, those who disbelieved in the Reminder [the Holy Qur’an]
 when it came unto them [shall be chastised]. And indeed, it is an
@@ -95,14 +83,10 @@ of religion.
 Surah Fussilat - Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ جَعَلْنَاهُ قُرْآناً أَعْجَمِيّاً لَقَالُوا لَوْلا فُصِّلَتْ
-آيَاتُهُ أَأَعْجَمِيٌّ وَعَرَبِيٌّ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدیً
-وَشِفَاءٌ وَالَّذِينَ لا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ
-عَلَيْهِمْ عَمىً أُولَئِكَ يُنَادَوْنَ مِنْ مَكَانٍ بَعِيدٍ
-  </p>
-</blockquote>
+> وَلَوْ جَعَلْنَاهُ قُرْآناً أَعْجَمِيّاً لَقَالُوا لَوْلا فُصِّلَتْ
+> آيَاتُهُ أَأَعْجَمِيٌّ وَعَرَبِيٌّ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدیً
+> وَشِفَاءٌ وَالَّذِينَ لا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ
+> عَلَيْهِمْ عَمىً أُولَئِكَ يُنَادَوْنَ مِنْ مَكَانٍ بَعِيدٍ
 
 ***44. And if We had sent this as a Qur’an in a foreign language, they
 would have said: “Why are not its Verses explained in detail? What! [A
@@ -161,13 +145,9 @@ their disbelief.
 Surah Fussilat - Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا مُوسَی الْكِتَابَ فَاخْتُلِفَ فِيهِ وَلَوْلا
-كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ وَإِنَّهُمْ لَفِي
-شَكٍّ مِنْهُ مُرِيبٍ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا مُوسَی الْكِتَابَ فَاخْتُلِفَ فِيهِ وَلَوْلا
+> كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ وَإِنَّهُمْ لَفِي
+> شَكٍّ مِنْهُ مُرِيبٍ
 
 ***45. And indeed We gave Moses the Scripture [the Torah], but dispute
 arose therein. And had it not been for a Word that went forth before
@@ -197,12 +177,8 @@ will remain in doubt and suspicion, hence their disbelief.
 Surah Fussilat - Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحاً فَلِنَفْسِهِ وَمَنْ أَسَاءَ فَعَلَيْهَا وَمَا
-رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحاً فَلِنَفْسِهِ وَمَنْ أَسَاءَ فَعَلَيْهَا وَمَا
+> رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ
 
 ***46. Whosoever does righteous good deeds, it is for his own self; and
 whosoever does evil, it is against his own self. And your Lord is not at
@@ -224,14 +200,10 @@ lead to consequences.
 Surah Fussilat - Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ
-أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَی وَلا تَضَعُ إِلَّا بِعِلْمِهِ
-وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَائِي قَالُوا آذَنَّاكَ مَا مِنَّا
-مِنْ شَهِيدٍ
-  </p>
-</blockquote>
+> إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ
+> أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَی وَلا تَضَعُ إِلَّا بِعِلْمِهِ
+> وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَائِي قَالُوا آذَنَّاكَ مَا مِنَّا
+> مِنْ شَهِيدٍ
 
 ***47. To Him is referred the knowledge of the Hour. No fruit comes out
 of its sheath, nor does a female conceive nor brings forth [young],
@@ -300,19 +272,11 @@ associating partners with Him.
 Surah Fussilat - Verses 48 - 49
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَضَلَّ عَنْهُمْ مَا كَانُوا يَدْعُونَ مِنْ قَبْلُ وَظَنُّوا مَا
-لَهُمْ مِنْ مَحِيصٍ
-  </p>
-</blockquote>
+> وَضَلَّ عَنْهُمْ مَا كَانُوا يَدْعُونَ مِنْ قَبْلُ وَظَنُّوا مَا
+> لَهُمْ مِنْ مَحِيصٍ
 
-<blockquote dir="rtl">
-  <p>
-لا يَسْأَمُ الْأِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ
-الشَّرُّ فَيَؤُوسٌ قَنُوطٌ
-  </p>
-</blockquote>
+> لا يَسْأَمُ الْأِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ
+> الشَّرُّ فَيَؤُوسٌ قَنُوطٌ
 
 ***48. And those whom they used to invoke before [in this world] shall
 disappear from them, and they will perceive that they have no place of
@@ -338,15 +302,11 @@ qunut indicate hopelessness and despair respectively.
 Surah Fussilat - Verse 50
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِنَّا مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُ
-لَيَقُولَنَّ هَذَا لِي وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ
-رُجِعْتُ إِلَی رَبِّي إِنَّ لِي عِنْدَهُ لَلْحُسْنَی فَلَنُنَبِّئَنَّ
-الَّذِينَ كَفَرُوا بِمَا عَمِلُوا وَلَنُذِيقَنَّهُمْ مِنْ عَذَابٍ
-غَلِيظٍ
-  </p>
-</blockquote>
+> وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِنَّا مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُ
+> لَيَقُولَنَّ هَذَا لِي وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ
+> رُجِعْتُ إِلَی رَبِّي إِنَّ لِي عِنْدَهُ لَلْحُسْنَی فَلَنُنَبِّئَنَّ
+> الَّذِينَ كَفَرُوا بِمَا عَمِلُوا وَلَنُذِيقَنَّهُمْ مِنْ عَذَابٍ
+> غَلِيظٍ
 
 ***50. And indeed, if We give him a taste of Mercy from Us, after some
 adversity has touched him, he is sure to say: “This is due to my
@@ -392,12 +352,8 @@ grant him better rewards!
 Surah Fussilat - Verse 51
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَنْعَمْنَا عَلَی الْأِنْسَانِ أَعْرَضَ وَنَأَی بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ
-  </p>
-</blockquote>
+> وَإِذَا أَنْعَمْنَا عَلَی الْأِنْسَانِ أَعْرَضَ وَنَأَی بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ
 
 ***51. And when We show favor unto man, he withdraws and turns away, but
 when evil touches him he has recourse to long supplications.***
@@ -460,12 +416,8 @@ Commands, and may not regret nor grieve upon the hour of death.”*[^4]
 Surah Fussilat - Verse 52
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ ثُمَّ كَفَرْتُمْ بِهِ
-مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ ثُمَّ كَفَرْتُمْ بِهِ
+> مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ
 
 ***52. Say: “Tell me, if it [the Qur’an] is from Allah, you disbelieve
 in it. Who is more astray than one who is in opposition far away [from
@@ -489,20 +441,12 @@ enmity against God Almighty.
 Surah Fussilat - Verse 53 - 54
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّی
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
-عَلَی كُلِّ شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّی
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ
+> عَلَی كُلِّ شَيْءٍ شَهِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-أَلا إِنَّهُمْ فِي مِرْيَةٍ مِنْ لِقَاءِ رَبِّهِمْ أَلا إِنَّهُ
-بِكُلِّ شَيْءٍ مُحِيطٌ
-  </p>
-</blockquote>
+> أَلا إِنَّهُمْ فِي مِرْيَةٍ مِنْ لِقَاءِ رَبِّهِمْ أَلا إِنَّهُ
+> بِكُلِّ شَيْءٍ مُحِيطٌ
 
 ***53. We will show them Our Signs in the universe, and in their own
 selves, until it becomes manifest to them that this [the Qur’an] is the
@@ -642,5 +586,4 @@ maintain that it indicates great doubt and suspicion.
 [^3]: 28:78
 
 [^4]: Nahj al-Balagha, Sermon 64.
-
 

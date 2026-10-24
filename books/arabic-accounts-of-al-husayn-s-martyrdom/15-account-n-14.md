@@ -58,8 +58,8 @@ ignores, at least in this account, material from the \`Uthmaniyya.
 
 **Notes:**
 
-[^59] Al-Ya\`qubi, Ta'rikh (Najaf, 1964), II, 229-33.
-[^60] Ibid., p. 233.
-[^61] Ibid., p. 229.
-[^62] Al-Tabari, op. cit., II, 242-6, 272.
+[^59]: Al-Ya\`qubi, Ta'rikh (Najaf, 1964), II, 229-33.
+[^60]: Ibid., p. 233.
+[^61]: Ibid., p. 229.
+[^62]: Al-Tabari, op. cit., II, 242-6, 272.
 

@@ -67,7 +67,6 @@ I have to helplessly restrain myself from mentioning the names of the
 devotees of the Holy Imam who have helped this publication, for their
 expressed desire not to have any publicity of their names.
 
-
 **Hussain (AS) The King of Martyrs**
 
 **THE IMPORTANCE OF THE CONTEXT**
@@ -116,7 +115,6 @@ understanding of the Great Events that some of the important factors
 connected with the Great Tragedy, are herewith given with the maximum
 possible brevity, leaving the other details for a deeper study of the
 subject by those interested in it.
-
 
 **THE WHOLE HUMNA RACE- ONE FAMILY**
 
@@ -574,5 +572,4 @@ Abraham.
 And We enjoined Abraham and ISMAEL, 'Purify My House for those who
 visit (it) and those who abide (in it) for nation and those who bow down
 (and) those who prostrate themselves" [2:125]
-
 

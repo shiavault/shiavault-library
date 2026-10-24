@@ -219,7 +219,6 @@ general.' This is an important indication that the line of Kedar was
 marked by God for a unique purpose for it was from this line Prophet
 Muhammad (s.a.w.) sprang.
 
-
 **Jesus' Prophecy about Muhammad**
 
 "And when Jesus son of Mary said: O Children of Israel! Surely I am the
@@ -503,5 +502,4 @@ contains the leading cities such as, Mecca, Medina, Jedda and Tayef.
 8. Volume 23, page 4174, under the title 'Muhammad Founder of Islam'.
 
 9. Vol. 4 p.534, titled Christianity.
-
 

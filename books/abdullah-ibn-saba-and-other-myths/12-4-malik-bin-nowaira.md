@@ -365,4 +365,3 @@ edition)
 The above was one of the wars under the title of Heresy (Fought by Abu
 Bakr). This war may be taken as an example.
 
-

@@ -2524,4 +2524,3 @@ al-Khawarizmi op. cit., I, 247.
 
 [^56]: Ibid, 209
 
-

@@ -157,4 +157,3 @@ because of different political views? A. No; though we Shias have a long
 history of spending our lives in prisons and torture- chambers because
 of our belief.
 
-

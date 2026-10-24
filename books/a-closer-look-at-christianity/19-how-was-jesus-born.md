@@ -67,4 +67,3 @@ idea, and took Jesus as the Son of God. The Quran relates,
 “said Jesus, ‘Surely, ALLAH is my Lord and your Lord, so worship HIM
 alone, this is the right path.’” (Ch 19: Vr 36).
 
-

@@ -178,11 +178,7 @@ Judgement.”
 Remember, Allah has made every individual a sort of a king in his own
 way. It is in place to quote the following tradition here:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ.
-  </p>
-</blockquote>
+> كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْؤُولٌ عَنْ رَعِيَّتِهِ.
 
 *“Everyone of you is a ruler and you will have to account for your
 subjects”*
@@ -591,12 +587,8 @@ commission of hi masters and secondly he has to maintain affection for
 the masters all the time. Allah’s dictates are definitely against this
 practice.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمْ النَّارُ
-وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ أَوْلِيَاءَ ثُمَّ لَا تُنصَرُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمْ النَّارُ
+> وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ أَوْلِيَاءَ ثُمَّ لَا تُنصَرُونَ﴾
 
 ***Don’t get attracted towards the unkind?*** **(11:113)**
 
@@ -1434,11 +1426,7 @@ attention of Allah, never worries whatever calamities confront him!
 Because of his piety and abstention he is in a group of people that is
 in the care of Allah. Therefore, Allah says,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ﴾
 
 ***Doubtless, the pious are in the place of peace!*** **(44:51)**
 
@@ -1810,5 +1798,4 @@ the tales, he is in a way worshipping him! If the person is talking
 about Allah, then it will be the worship of Allah. If the person talks
 about the Satan or false things, then the listener would be worshipping
 the Satan!”
-
 

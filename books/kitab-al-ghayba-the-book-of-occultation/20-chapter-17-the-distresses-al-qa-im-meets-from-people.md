@@ -2,39 +2,19 @@ Chapter 17: The distresses al-Qa'im meets from people
 =====================================================
 
 > 1 - أخبرنا أبو العباس أحمد بن محمد بن سعيد بن عقدة قال: حدثنا محمد بن
-<blockquote dir="rtl">
-  <p>
-المفضل بن إبراهيم، قال: حدثني محمد بن عبد الله بن زرارة، عن محمد بن
-مروان، عن الفضيل بن يسار، قال: سمعت أبا عبد الله يقول:
-  </p>
-</blockquote>
+> المفضل بن إبراهيم، قال: حدثني محمد بن عبد الله بن زرارة، عن محمد بن
+> مروان، عن الفضيل بن يسار، قال: سمعت أبا عبد الله يقول:
 
-<blockquote dir="rtl">
-  <p>
-إن قائمنا إذا قام استقبل من جهل الناس أشد مما استقبله رسول الله من
-جهال الجاهلية.
-  </p>
-</blockquote>
+> إن قائمنا إذا قام استقبل من جهل الناس أشد مما استقبله رسول الله من
+> جهال الجاهلية.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وكيف ذاك؟
-  </p>
-</blockquote>
+> قلت: وكيف ذاك؟
 
-<blockquote dir="rtl">
-  <p>
-قال: إن رسول الله أتى الناس وهم يعبدون الحجارة والصخور والعيدان والخشب
-المنحوتة، وإن قائمنا إذا قام أتى الناس وكلّهم يتأول عليه كتاب الله،
-يحتج عليه به.
-  </p>
-</blockquote>
+> قال: إن رسول الله أتى الناس وهم يعبدون الحجارة والصخور والعيدان والخشب
+> المنحوتة، وإن قائمنا إذا قام أتى الناس وكلّهم يتأول عليه كتاب الله،
+> يحتج عليه به.
 
-<blockquote dir="rtl">
-  <p>
-ثم قال: أما والله ليدخلن عليهم عدله جوف بيوتهم كما يدخل الحر والقر.
-  </p>
-</blockquote>
+> ثم قال: أما والله ليدخلن عليهم عدله جوف بيوتهم كما يدخل الحر والقر.
 
 (1) Ahmad bin Muhammad bin Sa'eed bin Oqda narrated from Muhammad bin
 al-Mufadhdhal bin Ibraheem from Muhammad bin Abdullah bin Zurara from
@@ -54,18 +34,10 @@ their fancies. By Allah, he (al-Qa'im) will insert his justice into
 their houses like the entering of hot and cold.”[^1]
 
 > 2 - أخبرنا عبد الواحد بن عبد الله بن يونس قال: حدثنا محمد بن جعفر
-<blockquote dir="rtl">
-  <p>
-القرشي، قال: حدثنا محمد بن الحسين بن أبي الخطاب، عن محمد بن سنان، عن
-الحسين بن المختار عن أبي حمزة الثمالي قال: سمعت أبا جعفر يقول:
-  </p>
-</blockquote>
+> القرشي، قال: حدثنا محمد بن الحسين بن أبي الخطاب، عن محمد بن سنان، عن
+> الحسين بن المختار عن أبي حمزة الثمالي قال: سمعت أبا جعفر يقول:
 
-<blockquote dir="rtl">
-  <p>
-إن صاحب هذا الأمر لو قد ظهر لقي من الناس مثل ما لقي رسول الله وأكثر.
-  </p>
-</blockquote>
+> إن صاحب هذا الأمر لو قد ظهر لقي من الناس مثل ما لقي رسول الله وأكثر.
 
 (2) Abdul Wahid bin Abdullah bin Younus narrated from Muhammad bin
 Ja'far al-Qarashi from Muhammad bin al-Husayn bin Abul Khattab from
@@ -76,20 +48,12 @@ that Abu Ja'far al-Baqir (as) had said:
 from people worse than what the Prophet (S) has received.”[^2]
 
 > 3 - أخبرنا محمد بن همام قال: حدثنا حميد بن زياد الكوفي، قال: حدثنا
-<blockquote dir="rtl">
-  <p>
-الحسن بن محمد بن سماعة، قال: حدثنا أحمد بن الحسن الميثمي، عن محمد بن
-أبي حمزة عن بعض أصحابه، عن أبي عبد الله ، قال: سمعته يقول:
-  </p>
-</blockquote>
+> الحسن بن محمد بن سماعة، قال: حدثنا أحمد بن الحسن الميثمي، عن محمد بن
+> أبي حمزة عن بعض أصحابه، عن أبي عبد الله ، قال: سمعته يقول:
 
-<blockquote dir="rtl">
-  <p>
-القائم يلقى في حربه ما لم يلق رسول الله . إن رسول الله أتاهم وهم
-يعبدون حجارة منقورة وخشباً منحوتة، وإن القائم يخرجون عليه فيتأولون
-عليه كتاب الله، ويقاتلونه عليه.
-  </p>
-</blockquote>
+> القائم يلقى في حربه ما لم يلق رسول الله . إن رسول الله أتاهم وهم
+> يعبدون حجارة منقورة وخشباً منحوتة، وإن القائم يخرجون عليه فيتأولون
+> عليه كتاب الله، ويقاتلونه عليه.
 
 (3) Muhammad bin Hammam narrated from Hameed bin Ziyad al-Kufi from
 al-Hasan bin Muhammad bin Suma’a from Ahmad bin al-Hasan al-Maythami
@@ -103,30 +67,14 @@ against him by the means of the Book of Allah and will fight him by the
 means of the Book of Allah.”[^3]
 
 > 4 - أخبرنا علي بن أحمد قال: أخبرنا عبيد الله بن موسى العلوي، عن محمد
-<blockquote dir="rtl">
-  <p>
-بن الحسين، عن محمد بن سنان، عن قتيبة الأعشى، عن أبان بن تغلب، قال:
-سمعت أبا عبد الله جعفر بن محمد يقول:
-  </p>
-</blockquote>
+> بن الحسين، عن محمد بن سنان، عن قتيبة الأعشى، عن أبان بن تغلب، قال:
+> سمعت أبا عبد الله جعفر بن محمد يقول:
 
-<blockquote dir="rtl">
-  <p>
-إذا ظهرت راية الحق لعنها أهل المشرق وأهل المغرب، أتدري لم ذاك؟
-  </p>
-</blockquote>
+> إذا ظهرت راية الحق لعنها أهل المشرق وأهل المغرب، أتدري لم ذاك؟
 
-<blockquote dir="rtl">
-  <p>
-قلت: لا.
-  </p>
-</blockquote>
+> قلت: لا.
 
-<blockquote dir="rtl">
-  <p>
-قال: للذي يلقى الناس من أهل بيته قبل خروجه.
-  </p>
-</blockquote>
+> قال: للذي يلقى الناس من أهل بيته قبل خروجه.
 
 (4) Ali bin Ahmad narrated from Obaydillah bin Musa al-Alawi from
 Muhammad bin al-Husayn from Muhammad bin Sinan from Qutayba al-A’sha
@@ -142,30 +90,14 @@ He said: “That is because of what harms the people receive from his
 (al-Mahdi’s) family before his appearance.”[^4]
 
 > 5 - أخبرنا عبد الواحد بن عبد الله قال: حدثنا محمد بن جعفر القرشي، قال:
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن الحسين، عن محمد بن سنان، عن قتيبة الأعشى، عن منصور بن
-حازم عن أبي عبد الله أنه قال:
-  </p>
-</blockquote>
+> حدثني محمد بن الحسين، عن محمد بن سنان، عن قتيبة الأعشى، عن منصور بن
+> حازم عن أبي عبد الله أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-إذا رفعت راية الحق لعنها أهل المشرق والمغرب.
-  </p>
-</blockquote>
+> إذا رفعت راية الحق لعنها أهل المشرق والمغرب.
 
-<blockquote dir="rtl">
-  <p>
-قلت له: مم ذلك؟
-  </p>
-</blockquote>
+> قلت له: مم ذلك؟
 
-<blockquote dir="rtl">
-  <p>
-قال: مما يلقون من بني هاشم.
-  </p>
-</blockquote>
+> قال: مما يلقون من بني هاشم.
 
 (5) Abdul Wahid bin Abdullah narrated from Muhammad bin Ja'far
 al-Qarashi from Muhammad bin al-Husayn from Muhammad bin Sinan from
@@ -180,20 +112,12 @@ He said: “That is because of what people receive from the Hashemites
 (before the appearance of al-Qa'im).”[^5]
 
 > 6 - أخبرنا علي بن أحمد، عن عبيد الله بن موسى وأحمد بن علي الأعلم قالا:
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن علي الصيرفي، عن محمد بن صدقة وابن اذينة العبدي ومحمد بن
-سنان جميعاً، عن يقعوب السراج، قال: سمعت أبا عبد الله يقول:
-  </p>
-</blockquote>
+> حدثنا محمد بن علي الصيرفي، عن محمد بن صدقة وابن اذينة العبدي ومحمد بن
+> سنان جميعاً، عن يقعوب السراج، قال: سمعت أبا عبد الله يقول:
 
-<blockquote dir="rtl">
-  <p>
-ثلاث عشرة مدينة وطائفة يحارب القائم أهلها ويحاربونه: أهل مكة، وأهل
-المدينة، وأهل الشام، وبنو أمية، وأهل البصرة، وأهل دست ميسان، والأكراد،
-والأعراب وضبة، وغني، وباهلة، وأزد، وأهل الري.
-  </p>
-</blockquote>
+> ثلاث عشرة مدينة وطائفة يحارب القائم أهلها ويحاربونه: أهل مكة، وأهل
+> المدينة، وأهل الشام، وبنو أمية، وأهل البصرة، وأهل دست ميسان، والأكراد،
+> والأعراب وضبة، وغني، وباهلة، وأزد، وأهل الري.
 
 (6) Ali bin Ahmad bin Obaydillah bin Musa and Ahmad bin Ali al-A’lam
 narrated from Muhammad bin Ali as-Sayrafi from Muhammad bin Sadaqa, ibn
@@ -224,5 +148,4 @@ Ahadeeth al-Imam al-Mahdi, vol.3 p.500.
 
 [^7]: Ithbat al-Hudat, vol.3 p.544, Hilyatul Abrar, vol.2 p.632, Biharul
 Anwar, vol.52 p.363.
-
 

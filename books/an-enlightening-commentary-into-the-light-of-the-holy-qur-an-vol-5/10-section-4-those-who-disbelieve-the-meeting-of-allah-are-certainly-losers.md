@@ -7,14 +7,10 @@ play and pastime -The abode of the Hereafter is the best for the pious.
 Surah Al-‘An’am, Verse 31
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ خَسِرَ الَّذِينَ كَذَّبُواْ بِلِقَاء اللّهِ حَتَّى إِذَا
-جَاءتْهُمُ السَّاعَةُ بَغْتَةً قَالُواْ يَا حَسْرَتَنَا عَلَى مَا
-فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَى ظُهُورِهِمْ
-أَلاَ سَاء مَا يَزِرُونَ
-  </p>
-</blockquote>
+> قَدْ خَسِرَ الَّذِينَ كَذَّبُواْ بِلِقَاء اللّهِ حَتَّى إِذَا
+> جَاءتْهُمُ السَّاعَةُ بَغْتَةً قَالُواْ يَا حَسْرَتَنَا عَلَى مَا
+> فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَى ظُهُورِهِمْ
+> أَلاَ سَاء مَا يَزِرُونَ
 
 **31*****. "They indeed are losers who deny the meeting with***
 ***Allah*** ***until, when the hour comes on them all of a sudden, they
@@ -56,12 +52,8 @@ Imam Amir-ul-Mu'mineen Ali (as) said:
 Surah Al-‘An’am, Verse 32
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا الْحَيَاةُ الدُّنْيَا إِلاَّ لَعِبٌ وَلَهْوٌ وَلَلدَّارُ
-الآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَا الْحَيَاةُ الدُّنْيَا إِلاَّ لَعِبٌ وَلَهْوٌ وَلَلدَّارُ
+> الآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلاَ تَعْقِلُونَ
 
 **32.** ***"And the life of the world is naught but play and pastime,
 and certainly the abode of the Hereafter is better for those who keep
@@ -125,12 +117,8 @@ and futile statements."*[^6]
 Surah Al-‘An’am, Verse 33
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ فَإِنَّهُمْ لاَ
-يُكَذِّبُونَكَ وَلَكِنَّ الظَّالِمِينَ بِآيَاتِ اللّهِ يَجْحَدُونَ
-  </p>
-</blockquote>
+> قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ فَإِنَّهُمْ لاَ
+> يُكَذِّبُونَكَ وَلَكِنَّ الظَّالِمِينَ بِآيَاتِ اللّهِ يَجْحَدُونَ
 
 **33.** ***"Indeed We know that what they say surely grieves you. Yet
 verily it is not you (that) they belie, but the unjust deny the Signs
@@ -163,13 +151,9 @@ is not you (that) they belie, but the unjust deny the Signs of***
 Surah Al-‘An’am, Verse 34
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُواْ عَلَى مَا
-كُذِّبُواْ وَأُوذُواْ حَتَّى أَتَاهُمْ نَصْرُنَا وَلاَ مُبَدِّلَ
-لِكَلِمَاتِ اللّهِ وَلَقدْ جَاءكَ مِن نَّبَإِ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُواْ عَلَى مَا
+> كُذِّبُواْ وَأُوذُواْ حَتَّى أَتَاهُمْ نَصْرُنَا وَلاَ مُبَدِّلَ
+> لِكَلِمَاتِ اللّهِ وَلَقدْ جَاءكَ مِن نَّبَإِ الْمُرْسَلِينَ
 
 **34.** ***"Messengers indeed have been denied before you, but they were
 patient on being denied and hurt, until Our help came unto them; and
@@ -212,14 +196,10 @@ No.37 verse 172*****).***
 Surah Al-‘An’am, Verse 35
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ اسْتَطَعْتَ أَن
-تَبْتَغِيَ نَفَقًا فِي الأَرْضِ أَوْ سُلَّمًا فِي السَّمَاء
-فَتَأْتِيَهُم بِآيَةٍ وَلَوْ شَاء اللّهُ لَجَمَعَهُمْ عَلَى الْهُدَى
-فَلاَ تَكُونَنَّ مِنَ الْجَاهِلِينَ
-  </p>
-</blockquote>
+> وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ اسْتَطَعْتَ أَن
+> تَبْتَغِيَ نَفَقًا فِي الأَرْضِ أَوْ سُلَّمًا فِي السَّمَاء
+> فَتَأْتِيَهُم بِآيَةٍ وَلَوْ شَاء اللّهُ لَجَمَعَهُمْ عَلَى الْهُدَى
+> فَلاَ تَكُونَنَّ مِنَ الْجَاهِلِينَ
 
 **35.** ***"And if their turning away is hard upon you, then if you can
 seek a hole into the earth, or a ladder to heaven, so that you bring
@@ -278,12 +258,8 @@ matters.
 Surah Al-‘An’am, Verse 36
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَالْمَوْتَى يَبْعَثُهُمُ
-اللّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَالْمَوْتَى يَبْعَثُهُمُ
+> اللّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
 
 **36.** ***"Only those accept who hearken, and (as for) the dead,***
 ***Allah*** ***will raise them up; then unto Him they will be
@@ -315,13 +291,9 @@ raise them up; then unto Him they will be returned."***
 Surah Al-‘An’am, Verse 37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُواْ لَوْلاَ نُزِّلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ قُلْ إِنَّ
-اللّهَ قَادِرٌ عَلَى أَن يُنَزِّلٍ آيَةً وَلَـكِنَّ أَكْثَرَهُمْ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَقَالُواْ لَوْلاَ نُزِّلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ قُلْ إِنَّ
+> اللّهَ قَادِرٌ عَلَى أَن يُنَزِّلٍ آيَةً وَلَـكِنَّ أَكْثَرَهُمْ لاَ
+> يَعْلَمُونَ
 
 ***37. "And they say: While has not a Sign been sent down to him
 (Muhammad) from his Lord?' Say: 'Verily*** ***Allah*** ***is able to
@@ -372,13 +344,9 @@ So, at the end of the verse, it says:
 Surah Al-‘An’am, Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِن دَآبَّةٍ فِي الأَرْضِ وَلاَ طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
-إِلاَّ أُمَمٌ أَمْثَالُكُم مَّا فَرَّطْنَا فِي الكِتَابِ مِن شَيْءٍ
-ثُمَّ إِلَى رَبِّهِمْ يُحْشَرُونَ
-  </p>
-</blockquote>
+> وَمَا مِن دَآبَّةٍ فِي الأَرْضِ وَلاَ طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ
+> إِلاَّ أُمَمٌ أَمْثَالُكُم مَّا فَرَّطْنَا فِي الكِتَابِ مِن شَيْءٍ
+> ثُمَّ إِلَى رَبِّهِمْ يُحْشَرُونَ
 
 **38.** ***"And there is no creature (that walks) on the earth nor a
 bird that flies with its two wings, but they are communities the like of
@@ -466,13 +434,9 @@ The Prophet (S) said:
 Surah Al-‘An’am, Verse 39
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَذَّبُواْ بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ مَن
-يَشَإِ اللّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَى صِرَاطٍ
-مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَذَّبُواْ بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ مَن
+> يَشَإِ اللّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَى صِرَاطٍ
+> مُّسْتَقِيمٍ
 
 **39.** ***"And those who belied Our Signs are deaf and dumb, in
 darkness; whomever*** ***Allah*** ***pleases He leads astray, and
@@ -501,12 +465,8 @@ tongue and a transparent inward.
 Surah Al-‘An’am, Verse 40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُكُم إِنْ أَتَاكُمْ عَذَابُ اللّهِ أَوْ أَتَتْكُمُ
-السَّاعَةُ أَغَيْرَ اللّهِ تَدْعُونَ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُكُم إِنْ أَتَاكُمْ عَذَابُ اللّهِ أَوْ أَتَتْكُمُ
+> السَّاعَةُ أَغَيْرَ اللّهِ تَدْعُونَ إِن كُنتُمْ صَادِقِينَ
 
 **40.** ***"Say: "Have you considered if*** ***Allah’s*** ***torment
 comes to you (in the world) or the Hour (of Resurrection) comes to you,
@@ -542,12 +502,8 @@ mysterious unknown source of power. This is the very attention to Allah
 Surah Al-‘An’am, Verse 41
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِنْ شَاء
-وَتَنسَوْنَ مَا تُشْرِكُونَ
-  </p>
-</blockquote>
+> بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِنْ شَاء
+> وَتَنسَوْنَ مَا تُشْرِكُونَ
 
 **41.** ***"Rather upon Him you will call, and He removes that for which
 you supplicated Him, if He pleases, and you forget what you have
@@ -592,5 +548,4 @@ His cause…" (Surah Al-Hajj, No.22, verse 40).
 
 [^9]: In the Second World War even Khrushof and Stalin, the leaders of
 Russia, invoked churches and priests asked for victory.
-
 

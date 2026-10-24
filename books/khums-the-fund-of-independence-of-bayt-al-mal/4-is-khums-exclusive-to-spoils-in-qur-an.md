@@ -7,15 +7,11 @@ are lots of rulings of Qur"an which have been mentioned only once in
 Qur"an and there is no doubt that, this one time expression is enough).
 And that is verse 41 of Sura Anfal:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ وَمَا أَنْزَلْنَا
-عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ
-وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ 
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ وَمَا أَنْزَلْنَا
+> عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ
+> وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***And know that out of all the booty that ye may acquire (in war), a
 fifth share is assigned to Allah,- and to the Messenger, and to near
@@ -64,13 +60,9 @@ Arab scientist and litterateurs:
 
 We read in the book “Lisan Al-Arab” (Tongue of Arab), vol. 12:
 
-<blockquote dir="rtl">
-  <p>
-و الغنم: الفوز بالشّىء من غیر مشقّة و... الغنم،الغنیمة و المغنم،
-الفىء... و فى الحدیث الرّهن لمن رهنه له غنمه و علیه غرمه، غنمه زیادته
-و نمائه و فاضل قیمته... و غنم الشّىء غنما: فاز به
-  </p>
-</blockquote>
+> و الغنم: الفوز بالشّىء من غیر مشقّة و... الغنم،الغنیمة و المغنم،
+> الفىء... و فى الحدیث الرّهن لمن رهنه له غنمه و علیه غرمه، غنمه زیادته
+> و نمائه و فاضل قیمته... و غنم الشّىء غنما: فاز به
 
 “غنم” means gaining a thing without any hardship and “غنم”, “غنیمت”
 (advantage) and “مغنم” are all in the meaning of “فیء” (and also “فیء”
@@ -83,11 +75,7 @@ excess, growth and surplus of the price … he take that as an advantage
 
 And we read in the book “Taj Al-Arous” (the bride’s brown), vol. 9:
 
-<blockquote dir="rtl">
-  <p>
-والغنم الفوز بالشیء بلا مشقّة!
-  </p>
-</blockquote>
+> والغنم الفوز بالشیء بلا مشقّة!
 
 Advantage (غنیمت) is the thing that person gains without hardship!
 
@@ -97,11 +85,7 @@ meaning.
 And in the book “Mufradat” by Ragheb “غنیمت” has been said to be derived
 from the root “غنم” in the meaning of “sheep” and then it says:
 
-<blockquote dir="rtl">
-  <p>
-ثم استعمل فى کل مظفور به من جهة العدى و غیرهم
-  </p>
-</blockquote>
+> ثم استعمل فى کل مظفور به من جهة العدى و غیرهم
 
 Then it has been used in all things which person gains from enemy or
 non-enemy.
@@ -118,32 +102,20 @@ of notable income.
 This word has been used in many cases in “Nahjul Balagha”:  
  We read in sermon 76:
 
-<blockquote dir="rtl">
-  <p>
-اِغْتَنَمِ الْمَهَلْ
-  </p>
-</blockquote>
+> اِغْتَنَمِ الْمَهَلْ
 
 Take advantage from opportunities.
 
 And we read in sermon 120:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ اَخَذَ بِها لَحِقَ وَ غَنِمَ
-  </p>
-</blockquote>
+> مَنْ اَخَذَ بِها لَحِقَ وَ غَنِمَ
 
 Person who acts as the religion of Allah finds happiness and takes
 advantages.
 
 And he says in letter 53 to Malik Ashtar:
 
-<blockquote dir="rtl">
-  <p>
-وَ لا تَکُونَنَّ عَلَیْهِمْ سَبُعاً ضارِیاً تَغْتَنِمُ اَکْلَهُمْ
-  </p>
-</blockquote>
+> وَ لا تَکُونَنَّ عَلَیْهِمْ سَبُعاً ضارِیاً تَغْتَنِمُ اَکْلَهُمْ
 
 Do not be like a cruel animal against people of Egypt in the way that
 consider eating them as an advantage غنیمت” and a kind of income for
@@ -151,38 +123,25 @@ yourself!
 
 And he says in letter 45 to Osman ibn Hanif:
 
-<blockquote dir="rtl">
-  <p>
-فَوَ الله ما کَنَزْتُ مِنْ دُنْیاکُم تِبْرأَ وَلا اَدَّخَرْتُ مِنْ
-غَنائِمِها وَفْراً
-  </p>
-</blockquote>
+> فَوَ الله ما کَنَزْتُ مِنْ دُنْیاکُم تِبْرأَ وَلا اَدَّخَرْتُ مِنْ
+> غَنائِمِها وَفْراً
 
 I swear to Allah that I did reserve no gold from your world, and I did
 no saving from its advantages or incomes!
 
 And it is in quotes, in sentence 331:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله سُبْحانَهُ جَعَلَ الطّاعَةَ غَنِیمَةَ الاْکْیاسِ
-  </p>
-</blockquote>
+> اِنَّ الله سُبْحانَهُ جَعَلَ الطّاعَةَ غَنِیمَةَ الاْکْیاسِ
 
 Indeed pure Allah has made obedience as advantage and benefit of tactful
 people.
 
 And we read in letter 31:
 
-<blockquote dir="rtl">
-  <p>
-وَ اغْتَنِمْ مَنِ اسْتَقْرَضَکَ فى حَالِ غِناکَ
-  </p>
-</blockquote>
+> وَ اغْتَنِمْ مَنِ اسْتَقْرَضَکَ فى حَالِ غِناکَ
 
 If a person asks you for a loan when you are rich, consider this as an
 advantage "غنیمت "
 
 And there are lots of expressions like these.
-
 

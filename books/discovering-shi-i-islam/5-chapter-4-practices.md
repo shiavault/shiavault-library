@@ -320,4 +320,3 @@ who travel.
 paying khums becomes obligatory. What has been mentioned above is the
 most popular one.
 
-

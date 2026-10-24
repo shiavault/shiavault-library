@@ -7,4 +7,3 @@ The One Who Is Enthralled
 
 > 1ـ ما كُلُّ مَفْتُون يُعاتَبُ.
 
-

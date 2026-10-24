@@ -1,11 +1,7 @@
 Sura Al-Furqan, Chapter 25
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
@@ -54,5 +50,4 @@ will not reckon him and his abode will be in the Exalted Firdaus
 
 [^1]: Thawab-ul-’A‘mal, by Saduq, according to Nur-uth-Thaqalyn, Vol. 4,
 p. 2
-
 

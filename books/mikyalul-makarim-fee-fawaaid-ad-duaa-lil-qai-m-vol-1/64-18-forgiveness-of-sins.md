@@ -21,4 +21,3 @@ attachment to their *Wilayat* and if it is not so, the real belief of
 the heart requires no renewal even though it requires further
 strengthening.
 
-

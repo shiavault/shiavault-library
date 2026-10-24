@@ -133,4 +133,3 @@ the Prophet (s.a.w.) was, indeed, to usher in a new era of bitter
 struggle between the new faith and the wounded pride of the pre-Islamic
 Arabs.
 
-

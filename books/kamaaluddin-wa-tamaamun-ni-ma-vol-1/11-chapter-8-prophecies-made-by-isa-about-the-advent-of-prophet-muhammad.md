@@ -107,4 +107,3 @@ four hundred years till he received the glad tidings of his birth. When
 he became certain of deliverance he set out for Tahama and he was taken
 a captive there.
 
-

@@ -55,4 +55,3 @@ Islam. One of these Muslim women may be your classmate, your co-worker,
 your grocer, your neighbor, your cousin, your niece, your grandchild,
 and yes, maybe even your daughter.
 
-

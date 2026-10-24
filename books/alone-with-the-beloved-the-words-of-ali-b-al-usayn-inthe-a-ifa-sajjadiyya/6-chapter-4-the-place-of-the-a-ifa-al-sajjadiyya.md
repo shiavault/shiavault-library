@@ -503,4 +503,3 @@ gentle and calm manner”, and replied:
 “For us whoever wrote the Nahj al-balāgha is ʿAlī, even if he lived a
 century ago.”149
 
-

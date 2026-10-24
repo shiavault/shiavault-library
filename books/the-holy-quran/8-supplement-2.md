@@ -64,4 +64,3 @@ and the Best Guide.
 
 (Allamah Tabataba'i, Al-Mizan, p. 3-16).
 
-

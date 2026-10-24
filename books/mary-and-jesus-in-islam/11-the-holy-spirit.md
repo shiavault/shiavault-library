@@ -27,4 +27,3 @@ he ascended to heavens. Sa\`eed ibn Jubayr and \`Ubayd ibn \`Umayr say
 that it is Allah's Greatest Name, and through it did he (Jesus) bring
 the dead back to life and perform those miracles to people.
 
-

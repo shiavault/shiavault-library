@@ -202,4 +202,3 @@ Mawārid-uz-zam’ān (6:128 \# 1876).
 Suyūtī narrated it with a difference of words at another place in
 al-Hāwī lil-fatāwā (2:58).
 
-

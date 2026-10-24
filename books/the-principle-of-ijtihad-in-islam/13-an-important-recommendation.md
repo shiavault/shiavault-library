@@ -79,4 +79,3 @@ practice and creating branches of specialization, as a result of which
 people will come to discriminate in their taqlid, in the same way as
 they discriminate in referring to a doctor.
 
-

@@ -4,11 +4,7 @@ Surah Al-Hajj, Chapter 22
 The Feature of Surah Al-Hajj
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -75,5 +71,4 @@ year but he will be honored to go to the Sacred House.”*[^2]
 [^1]: Tafsir-us-Safi, Burhan, and Majma‘-ul-Bayan
 
 [^2]: Tafsir-us-Safi-Burhan, and Majma‘-ul-Bayan
-
 

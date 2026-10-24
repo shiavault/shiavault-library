@@ -88,7 +88,6 @@ In one of his sermons in Nahjul Balagha, Imam Ali (A.S.) exhorts people
 to ponder over the power of Allah's creation and citing example of the
 creation of an ant he says:
 
-
 "Had they pondered over the greatness of His power and the vastness of
 His bounty they would have returned to the right path and feared the
 punishment of the Fire; but hearts are sick and eyes are impure. Do they
@@ -118,7 +117,6 @@ your imagination and reach its extremity it will not lead you anywhere
 except that the Originator of the ant is the same as He who is the
 Originator of the date-palm, because everything has (the same) delicacy
 and detail, and every living being has little difference."
-
 
 **Ghulamhusein and The Game of Chance**
 
@@ -231,5 +229,4 @@ has warned people to keep away from it"
 
 Can a wise man and a true Muslim ever think of going near to Satanic
 games of chance and take the risk of ruining his life? Certainly not!!
-
 

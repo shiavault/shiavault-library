@@ -62,11 +62,7 @@ news and tidings and the prophets (S) have been introduced as warners.
 In some *ayat*s the prophets (*‘a*) have been introduced as both warners
 and givers of glad tidings, like the *ayat*:
 
-<blockquote dir="rtl">
-  <p>
-... فَبَعَثَ اللهُ النَّبيّينَ مُبَشِّرينَ وَمُنْذِرِينَ...
-  </p>
-</blockquote>
+> ... فَبَعَثَ اللهُ النَّبيّينَ مُبَشِّرينَ وَمُنْذِرِينَ...
 
 ***“…So Allah raised prophets as bearers of good news and as
 warners…”***[^1]
@@ -76,12 +72,8 @@ introduced as bearers of good tidings [*bashir* or *mubashshir*] but the
 title of warners [*nadhir*] has been employed alone in a lot of
 instances, like the verse:
 
-<blockquote dir="rtl">
-  <p>
-تَکَادُ تَمَيَّزُ مِن الْغَيْظُ کُلَّمَا أُلْقِيَ فِيهَا فُوْجٌ
-سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِکُمْ نَذِيرٌ
-  </p>
-</blockquote>
+> تَکَادُ تَمَيَّزُ مِن الْغَيْظُ کُلَّمَا أُلْقِيَ فِيهَا فُوْجٌ
+> سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِکُمْ نَذِيرٌ
 
 ***“Almost bursting for fury; whenever a group is cast into it, its
 keeper shall ask them: did there not come to you a warner?”***[^2]
@@ -199,12 +191,8 @@ lesson and admonition, we gather that fear of Allah has been introduced
 as a condition for deriving benefit from the admonitions of the prophets
 (S) and attaining prosperity.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا تَنْذِرُ مَن اتَّبَعَ الذِّکْرَ وَخَشِيَ الرَّحْمَنَ
-بِالْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ کَرِيمٍ
-  </p>
-</blockquote>
+> إِنَّمَا تَنْذِرُ مَن اتَّبَعَ الذِّکْرَ وَخَشِيَ الرَّحْمَنَ
+> بِالْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ کَرِيمٍ
 
 ***“You can only warn him who follows the reminder and fears the
 Beneficent God in secret; so announce to him forgiveness and an
@@ -222,12 +210,8 @@ penetration of light and brightness.
 
 In another verse, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَی النَّفْسَ عَن الْهَوَی \*
-فَاِنَّ الْجَنَّةَ هِي الْمَأْوَی
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَی النَّفْسَ عَن الْهَوَی \*
+> فَاِنَّ الْجَنَّةَ هِي الْمَأْوَی
 
 ***“And as for him who fears to stand in the presence of his Lord and
 forbids the soul from low desires, then surely the Garden—that is the
@@ -244,13 +228,9 @@ In another verse, Allah states that after the high station and status of
 the people of faith and good works, paradise and its blessings are
 especially reserved for those who fear Allah:
 
-<blockquote dir="rtl">
-  <p>
-جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ‌ تَحْتِهَا
-الأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِي اللهُ عَنْهُمْ وَرَضُوا
-عَنْهُ ذَلِکَ لِمَنْ‌ خَشِيَ رَبَّهُ
-  </p>
-</blockquote>
+> جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ‌ تَحْتِهَا
+> الأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِي اللهُ عَنْهُمْ وَرَضُوا
+> عَنْهُ ذَلِکَ لِمَنْ‌ خَشِيَ رَبَّهُ
 
 ***“…Their reward with their Lord is gardens of perpetuity beneath which
 rivers flow, abiding therein forever; Allah is well pleased with them
@@ -261,11 +241,7 @@ In another verse, fear, dread, humility, submissiveness and
 self-abasement in the presence of Allah has been mentioned as one of the
 most delicate qualities of the scholars of religion:
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّمَا يَخْشَی اللهَ مِنْ عِبَادِهِ الْعُلَمَاءُ...
-  </p>
-</blockquote>
+> ... إِنَّمَا يَخْشَی اللهَ مِنْ عِبَادِهِ الْعُلَمَاءُ...
 
 ***“…those of His servants who are possessed of knowledge fear
 Allah…”***[^6]
@@ -273,24 +249,16 @@ Allah…”***[^6]
 In another instance, Allah warns the Muslims against fear of the
 oppressors and orders them to fear Him:
 
-<blockquote dir="rtl">
-  <p>
-... فَلاَ تَخْشَوْهُمْ وَاخْشَوْنِي وَلأُتِمَّ نِعْمَتِي عَلَيْکُمْ
-وَلَعَلَّکُمْ تَهْتَدُونَ
-  </p>
-</blockquote>
+> ... فَلاَ تَخْشَوْهُمْ وَاخْشَوْنِي وَلأُتِمَّ نِعْمَتِي عَلَيْکُمْ
+> وَلَعَلَّکُمْ تَهْتَدُونَ
 
 ***“…so do not fear them, and fear Me; that I may complete my favor on
 you and that you may walk on the right course.”***[^7]
 
 In another place, he states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا ذَلِکُمْ الشَّيْطَانُ يُخَوِّفُ أَوْلِيائَهُ فَلاَ
-تَخَافُوهُمْ وَخَافُونَ إِنْ کُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّمَا ذَلِکُمْ الشَّيْطَانُ يُخَوِّفُ أَوْلِيائَهُ فَلاَ
+> تَخَافُوهُمْ وَخَافُونَ إِنْ کُنْتُمْ مُؤْمِنِينَ
 
 ***“It is only the Satan that causes you to fear from his friends, but
 do not fear them, and fear Me if you are believers.”***[^8]
@@ -509,11 +477,7 @@ Among the most beloved slaves of Allah are the angels. The Gracious
 Qur’an, describing these worthy servants of Allah who are pure from any
 contamination states:
 
-<blockquote dir="rtl">
-  <p>
-وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلاَئِکَةُ مِنْ خِيفَتِهِ...
-  </p>
-</blockquote>
+> وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلاَئِکَةُ مِنْ خِيفَتِهِ...
 
 ***“And the thunder declares His glory and praise, and the angels too
 for awe of Him…”***[^9]
@@ -589,5 +553,4 @@ itself on the human nature of the Noble Prophet (S).
 [^9]: Surat al-Ra‘d 13:13.
 
 [^10]: Bihar al-Anwar, vol. 16, p. 292.
-
 

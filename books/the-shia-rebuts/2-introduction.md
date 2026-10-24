@@ -46,12 +46,8 @@ connection with their *‘ulama’* and scholars, and recognize the Shi‘ah
 as their own brothers—an aim which the Shi‘ah has for centuries been
 looking for, and thus, realizing the purport of the verse that follows:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ
-فَاعْبُدُونِ
-  </p>
-</blockquote>
+> إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ
+> فَاعْبُدُونِ
 
 ***“Indeed this community of yours is one community, and I am your Lord.
 So worship Me.*****”**[^3]
@@ -94,5 +90,4 @@ Lord, so be wary of Me.” In this volume, the translation of Qur’anic
 passages is adapted from Sayyid ‘Ali Quli Qara’i, The Qur’an with a
 Phrase-by-Phrase English Translation (London: Islamic College for
 Advanced Studies Press, 2004). {Trans.}
-
 

@@ -38,4 +38,3 @@ should not be negligent of it.
 
 [^1]: Biharul Anwar; Vol. 70, Pg. 242
 
-

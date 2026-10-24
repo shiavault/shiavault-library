@@ -36,4 +36,3 @@ and he wanted the family to be united, and whatever happens would happen
 to them together. And, if he leaves them, they would not be under
 anyone’s protection.
 
-

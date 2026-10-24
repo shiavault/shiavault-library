@@ -4113,4 +4113,3 @@ says: "They desire to put out the light of Allah with their mouths, and
 Allah will not permit aught but the perfection of His light, though the
 unbelievers are averse." (9:32)
 
-

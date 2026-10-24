@@ -170,4 +170,3 @@ follow Islamic precepts.
 
 [^4]: Ibid., p.169. 
 
-

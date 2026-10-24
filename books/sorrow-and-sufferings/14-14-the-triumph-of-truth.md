@@ -393,4 +393,3 @@ Turning to Hind, and other ladies of the unhappy town,
 
 "Occasionally, offer Fateha," she cried, and fell in a swoon.
 
-

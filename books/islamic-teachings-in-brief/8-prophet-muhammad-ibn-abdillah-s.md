@@ -782,4 +782,3 @@ He also states:
 of) men; you enjoin what is right and forbid the wrong and believe in
 Allah ... (3:100)"***
 
-

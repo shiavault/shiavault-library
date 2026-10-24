@@ -87,12 +87,8 @@ encompass the entire world without any exception.
 
 On the exegesis of the noble Qur’anic verse (*ayah*),
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
-وَآتَوُا الزَّكَاةَ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
+> وَآتَوُا الزَّكَاةَ ﴾
 
 *“Those who, if We granted them power in the land, maintain the prayer,
 give the zakat,”*[^6]
@@ -632,5 +628,4 @@ Ithbat al-Hudah, vol. 3, p. 584.
 [^52]: Bihar al-Anwar, vol. 52, p. 280.
 
 [^53]: Ash-Shi‘ah wa’r-Raj‘ah, vol. 1, p. 225.
-
 

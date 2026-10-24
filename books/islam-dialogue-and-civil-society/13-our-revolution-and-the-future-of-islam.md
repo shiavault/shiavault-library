@@ -847,4 +847,3 @@ have interpretations that do not allow a combination of intellectualism
 and religious belief. But it is unwarranted to confine us to the
 prejudiced interpretation of a certain social group.
 
-

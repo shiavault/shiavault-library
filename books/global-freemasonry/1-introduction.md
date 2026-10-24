@@ -310,4 +310,3 @@ heretical order? What led them to this? Why did they undergo such a
 change in Jerusalem? Through the agency of Masonry, what has been the
 effect on the world of this philosophy adopted by the Templars?
 
-

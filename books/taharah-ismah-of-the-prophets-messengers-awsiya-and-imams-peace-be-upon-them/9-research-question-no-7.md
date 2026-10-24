@@ -116,4 +116,3 @@ In conclusion, the Prophets, Messengers, Awsiya', and Imams (AS) are all
 has chosen it, purified it, and protected it. All praise be to Allah
 (SWT) for His unfathomable blessings and perfected bounties!
 
-

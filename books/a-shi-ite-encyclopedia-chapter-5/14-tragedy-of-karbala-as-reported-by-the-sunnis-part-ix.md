@@ -394,7 +394,6 @@ prosecute you.
 You have been cursed by the tongue of the son of David, and (that) of
 Moses and (that) of the master of the Gospels.
 
-
 End of Part IX
 End of this Series
 
@@ -412,5 +411,4 @@ Shaykh al Mufid
 Translated by I.K.A Howard
 Tahrike Tarsile Quran
 Paper back - ISBN 0-940368-11-0
-
 

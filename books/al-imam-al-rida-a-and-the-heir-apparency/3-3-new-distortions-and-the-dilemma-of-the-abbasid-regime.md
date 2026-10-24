@@ -106,4 +106,3 @@ earlier than the problem of al-Ma'mun and the 'Abbasid regime now became
 the problem of the followers of the principle of nass and the figure who
 was its embodiment: al-'Imam al-Rida (A).
 
-

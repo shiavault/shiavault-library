@@ -1943,4 +1943,3 @@ no. 17 and chap. 31, sect. 1, pp. 408–409, no. 37 (short version).
 
 [^30]: Al-Nakhkhās means slave-trader—Ed.
 
-

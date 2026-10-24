@@ -112,4 +112,3 @@ mercenaries in Iraq, see the anonymously published review of Jeremy
 Scahill’s Blackwater: The Rise of the World’s Most Powerful Mercenary
 Army, which appeared in Crescent International in October of 2007.
 
-

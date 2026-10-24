@@ -148,7 +148,6 @@ salvation. Growing this way of thinking in the societies along with hard
 effort in fulfilling the instructed duties will also pave the way for
 the universal relief.
 
-
 **14 Imploring Allah for a hasty relief of the Imam (PBUH)**
 
 Ahl al-Bait (PBUT) have emphasized that during the time of occultation
@@ -333,5 +332,4 @@ misconducts.
 Hadith 119.
 [^2]Jamal al-Usbu', p. 275; Mafatih al-Jinan, p. 43, under the Salat of
 Imam Zain al-Abidin.
-
 

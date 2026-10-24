@@ -187,16 +187,12 @@ in society is, according to Sadr, not changing economical conditions
 (forces of productions) but rather the contradictions within man
 himself. The Holy Qur'an made it explicitly clear:
 
-<p dir="rtl">
 "كلا إن الإنسان ليطغى، أن رآه استغنى."
-</p>
 
 "However man acts so arrogant, for he considers he is self-sufficient."
 Qur'an 96:7
 
-<p dir="rtl">
 "إن الله لا يغير ما بقوم حتى يغيروا ما بأنفسهم."
-</p>
 
 "God does not change what any people may have until they change
 whatever they themselves have." Qur'an 13:11
@@ -263,5 +259,4 @@ the theoretical Marxist approach, and while touching on the theoretical
 version of social contradiction, they should suffice to lead us to
 profoundly study and extensively examine the new approach, including its
 relation to Real Practiced Life.
-
 

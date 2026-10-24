@@ -17,4 +17,3 @@ scolded him so that he would not steal again.
 Yes, this is one of the bad and dangerous qualities. Hope that the
 children and young stay away from this bad habit.
 
-

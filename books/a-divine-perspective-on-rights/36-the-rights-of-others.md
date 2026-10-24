@@ -1,4 +1,3 @@
 The Rights of Others
 ====================
 
-

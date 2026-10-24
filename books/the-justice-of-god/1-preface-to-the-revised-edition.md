@@ -37,4 +37,3 @@ Sayyid Sa’eed Akhtar Rizvi, Chief Missionary
 
 15th November, 1990
 
-

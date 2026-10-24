@@ -184,4 +184,3 @@ Why?
 8. How can the present social issues be resolved if the Divine law is
 unchangeable?
 
-

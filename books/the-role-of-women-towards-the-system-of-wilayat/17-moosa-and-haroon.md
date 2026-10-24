@@ -47,4 +47,3 @@ result you left the Ummah to become a captive of Saamri". When Haroon
 had a sincere logical answer to Moosa's question, only then Moosa left
 Haroon and questioned Saamri and then the Ummah.
 
-

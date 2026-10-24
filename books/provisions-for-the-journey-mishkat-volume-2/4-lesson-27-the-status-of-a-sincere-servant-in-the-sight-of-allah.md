@@ -19,13 +19,9 @@ enjoy the blessings of the intellect, reason and awareness, to the
 extent that he has been granted charismatic and miraculous powers to
 subdue the dry lands and seas:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
-وَالْبَحْرِ وَرَزَقْنَاهُم مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
-كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
+> وَالْبَحْرِ وَرَزَقْنَاهُم مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
+> كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلاً
 
 ***“Certainly We have honored the Children of Adam, and carried them
 over the land and sea, and provided them with all the good things, and
@@ -44,12 +40,8 @@ that instead of choosing the course of merit and prosperity, man may
 select the way of disobedience and wretchedness and deviate from the
 right course, fall into misguidance and become the lowest of creatures:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللّهِ الَّذِينَ كَفَرُوا فَهُمْ لاَ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللّهِ الَّذِينَ كَفَرُوا فَهُمْ لاَ
+> يُؤْمِنُونَ
 
 ***“Indeed the worst of beasts in Allah’s sight are those who are
 faithless, so they will not believe.”***[^2]
@@ -109,13 +101,9 @@ states that the soul of the man in prostration is in His presence
 because man’s soul during sleep returns to Allah and this is a point
 which has been hinted at in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَتَوَفَّى الأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي
-مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
-الأخْرَى إِلَى أَجَلٍ مُسَمًّى...
-  </p>
-</blockquote>
+> اللَّهُ يَتَوَفَّى الأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي
+> مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
+> الأخْرَى إِلَى أَجَلٍ مُسَمًّى...
 
 ***“Allah takes the souls at their death, and those who have not died in
 their sleep. Then He retains those for whom He has ordained death and
@@ -125,12 +113,8 @@ From the viewpoint of the Glorious Qur’an a true believer is a person
 who wakes up in the middle of the night and forbids himself from
 sleeping:
 
-<blockquote dir="rtl">
-  <p>
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
-وَطَمَعًا...
-  </p>
-</blockquote>
+> تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
+> وَطَمَعًا...
 
 ***“Their sides vacate their beds***[^6] ***to supplicate their Lord in
 fear and hope…”***[^7]
@@ -165,15 +149,11 @@ explicitly forbids running away from war. This action is hated by Allah
 and the abode of a deserter from the battlefield is believed to be the
 infernal fire:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا
-زَحْفاً فَلاَ تُوَلُّوهُمُ الأَدْبَارَ \* وَمَنْ يُوَلِّهِمْ
-يَوْمَئِذٍ دُبُرَهُ إِلاَّ مُتَحَرِّفاً لِقِتَالٍ أَوْ مُتَحَيِّزاً
-إِلَى فِئَةٍ فَقَدْ بَاء بِغَضَبٍ مِنَ اللّهِ وَمَأْوَاهُ جَهَنَّمُ
-وَبِئْسَ الْمَصِيرُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا
+> زَحْفاً فَلاَ تُوَلُّوهُمُ الأَدْبَارَ \* وَمَنْ يُوَلِّهِمْ
+> يَوْمَئِذٍ دُبُرَهُ إِلاَّ مُتَحَرِّفاً لِقِتَالٍ أَوْ مُتَحَيِّزاً
+> إِلَى فِئَةٍ فَقَدْ بَاء بِغَضَبٍ مِنَ اللّهِ وَمَأْوَاهُ جَهَنَّمُ
+> وَبِئْسَ الْمَصِيرُ
 
 ***“O you who have faith! When you encounter the faithless [for battle],
 do not turn your backs [to flee] from them. Whoever turns his back [to
@@ -259,13 +239,9 @@ thinking, reflecting and observing the consequences of blindly following
 the people of vanity and falsehood and those who entrust the reins of
 their free will to others, states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللّهُ قَالُوا بَلْ
-نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
-لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللّهُ قَالُوا بَلْ
+> نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
+> لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ
 
 ***“And when they are told, ‘Follow what Allah has sent down,’ They say,
 ‘We rather follow what we found our fathers following.’ What, even if
@@ -485,12 +461,8 @@ is for this reason that we see that it has been stated in the Qur’an and
 the *hadith*s that sincerity and purity of intention is the cause of the
 superiority of deeds and their being accepted by Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ فَاعْبُدِ اللَّهَ
-مُخْلِصًا لَهُ الدِّينَ \* أَلاَ لِلَّهِ الدِّينُ الْخَالِصُ...
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ فَاعْبُدِ اللَّهَ
+> مُخْلِصًا لَهُ الدِّينَ \* أَلاَ لِلَّهِ الدِّينُ الْخَالِصُ...
 
 ***“Indeed We have sent down the Book to you with the truth; so worship
 Allah, putting pure faith in Him. Now, surely, sincere obedience is due
@@ -503,12 +475,8 @@ practices sincerity exclusively for Allah.”[^14]
 
 In regard to the blessed verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلاً وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***“He, who created death and life that He may test you [to see] which
 of you is best in conduct. And He is the Mighty, the Forgiving.”***[^15]
@@ -575,5 +543,4 @@ al-Islam.
 [^15]: Surat al-Mulk 67:2.
 
 [^16]: Usul al-Kafi, vol. 3, p. 26.
-
 

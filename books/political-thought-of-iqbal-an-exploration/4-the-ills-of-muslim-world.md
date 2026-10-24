@@ -81,4 +81,3 @@ acknowledgement we will have to develop individuals, build up societies
 and interpret all phenomenon of creation on spiritual basis with in the
 material world.
 
-

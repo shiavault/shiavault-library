@@ -61,7 +61,6 @@ you the reward of those practising charity while you enjoy comforts and
 deny them to the weak people and widows? Certainly man is awarded
 according to what he has done and meets what he has sent forward.
 
-
 **Beware of Mu’awiyah**
 
 From A letter to Ziyad ibn Abih when Imam knew that Mu’awiyah had
@@ -201,5 +200,4 @@ surrounded within the sides of his chest (i.e his heart) is weak.
 You be that person if you wish, as to me before I accept it there would
 be an encounter with sharp-edged swords in which the moths bones of
 skulls fly; thereafter let Allah do what ever He likes!
-
 

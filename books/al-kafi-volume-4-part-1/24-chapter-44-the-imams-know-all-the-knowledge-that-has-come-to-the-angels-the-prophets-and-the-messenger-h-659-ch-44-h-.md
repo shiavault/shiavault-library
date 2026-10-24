@@ -55,7 +55,6 @@ kind of knowledge is that which no one knows except He. The other kind
 is that which He has taught to the His angels and His messengers.
 Whatever His angels and Messengers have learned we know it."
 
-
 **Chapter 45 : The Unique Ahadith about the hidden facts H 663, Ch. 45,
 h 1**
 
@@ -165,5 +164,4 @@ ibn a1- Hassan ibn Ali from 'Amr ibn Sa'id from Musaddiq ibn Sadaqa from
 following. "Dose the Imam have the knowledge of the hidden facts?" The
 Imam (a.s.) said, "No, he does not have such knowledge but if he would
 like to know about a thing Allah grants him such knowledge."
-
 

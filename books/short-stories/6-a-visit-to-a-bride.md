@@ -168,4 +168,3 @@ only for those who guard (against evil)." (Al-Zukhruf, 43:35)***
 That evening, Khadijah entertained her friends, who enjoyed the visit
 and were warmly welcomed by the bride.
 
-

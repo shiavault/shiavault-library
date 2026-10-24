@@ -42,4 +42,3 @@ And that our men are all, in the Taff, dead
 
 Headless, while they had slaughtered our children.
 
-

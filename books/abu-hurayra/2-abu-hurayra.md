@@ -15,4 +15,3 @@ with the Shari’ah. So there was no way save to research on the narrator
 himself and his traditions to be certain about the laws of Allah
 (S.w.T.) and His Shari’ah.
 
-

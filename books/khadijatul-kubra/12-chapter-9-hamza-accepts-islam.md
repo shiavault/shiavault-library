@@ -57,4 +57,3 @@ the Martyrs."
 Hamza accepted Islam in the fifth year of the Proclamation. May God be
 pleased with him, and bless him.
 
-

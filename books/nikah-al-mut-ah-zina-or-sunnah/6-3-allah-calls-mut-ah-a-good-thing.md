@@ -4,11 +4,7 @@
 We know already that Allah revealed the Verse of *al-Mut’ah* in His
 Book:
 
-<blockquote dir="rtl">
-  <p>
-فما استمتعتم به منهن فآتوهن أجورهن فريضة
-  </p>
-</blockquote>
+> فما استمتعتم به منهن فآتوهن أجورهن فريضة
 
 Those of them with whom you contract *mut’ah*, give them their
 prescribed dowries.[^1]
@@ -16,11 +12,7 @@ prescribed dowries.[^1]
 We also know that this *ayah* came down with some extra words included
 in it:
 
-<blockquote dir="rtl">
-  <p>
-فما استمعتم به منهن إلى أجل مسمى فآتوهن أجورهن فريضة
-  </p>
-</blockquote>
+> فما استمعتم به منهن إلى أجل مسمى فآتوهن أجورهن فريضة
 
 Those of them with whom you contract *mut’ah* for a specified period,
 give them their prescribed dowries.
@@ -40,14 +32,10 @@ Meanwhile, the Verse of *al-Mut’ah* remains in force till today, and
 will continue to do so till the Hour. Shaykh al-Kulayni (d. 329 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-علي، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، عن زرارة قال: جاء عبد
-الله بن عمير الليثي إلى أبي جعفر عليه السلام فقال له: ما تقول في متعة
-النساء؟ فقال: أحلها الله في كتابه وعلى لسان نبيه صلى الله عليه وآله
-فهي حلال إلى يوم القيامة
-  </p>
-</blockquote>
+> علي، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، عن زرارة قال: جاء عبد
+> الله بن عمير الليثي إلى أبي جعفر عليه السلام فقال له: ما تقول في متعة
+> النساء؟ فقال: أحلها الله في كتابه وعلى لسان نبيه صلى الله عليه وآله
+> فهي حلال إلى يوم القيامة
 
 ‘Ali – his father – Ibn Abi ‘Umayr – ‘Umar b. Uzaynah – Zurarah:
 
@@ -59,36 +47,24 @@ it is** ***halal*** **till the Day of** ***al-Qiyamah***.”[^2]
 
 ‘Allamah al-Majlisi (d. 1111 H) says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^3]
 
 Ayatullah al-Ruhani also comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^4]
 
 The ace Sunni exegete, Imam Ibn Jarir al-Ṭabari (d. 310 H), also
 documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن الحكم،
-قال: سألته عن هذه الآية} : والمحصنات من النساء إلا ما ملكت أيمانكم
-{إلى هذا الموضع: }فما استمتعتم به منهن {أمنسوخة هي؟ قال: لا. قال
-الحكم: قال علي رضي الله عنه: لولا أن عمر رضي الله عنه نهى عن المتعة ما
-زنى إلا شقى.
-  </p>
-</blockquote>
+> حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن الحكم،
+> قال: سألته عن هذه الآية} : والمحصنات من النساء إلا ما ملكت أيمانكم
+> {إلى هذا الموضع: }فما استمتعتم به منهن {أمنسوخة هي؟ قال: لا. قال
+> الحكم: قال علي رضي الله عنه: لولا أن عمر رضي الله عنه نهى عن المتعة ما
+> زنى إلا شقى.
 
 Muhammad b. al-Muthanna – Muhammad b. Ja’far – Shu’bah:
 
@@ -105,12 +81,8 @@ We already encountered this *sanad* in the first chapter. The chain is
 *sahih* up to al-Hakam. As for al-Hakam himself, al-Hafiẓ states about
 him:
 
-<blockquote dir="rtl">
-  <p>
-الحكم بن عتيبة بالمثناة ثم الموحدة مصغرا أبو محمد الكندي الكوفي ثقة
-ثبت فقيه إلا أنه ربما دلس
-  </p>
-</blockquote>
+> الحكم بن عتيبة بالمثناة ثم الموحدة مصغرا أبو محمد الكندي الكوفي ثقة
+> ثبت فقيه إلا أنه ربما دلس
 
 Al-Hakam b. ‘Utaybah, Abu Muhammad al-Kindi al-Kufi: ***Thiqah***
 **(trustworthy),** ***thabt*** **(accurate), a jurist,** except that he
@@ -130,23 +102,15 @@ However, there is an alternative Sunni view, which insists that the
 Verse of *al-Mut’ah* has been abrogated. For instance, Imam Ibn Hazm (d.
 456 H) submits:
 
-<blockquote dir="rtl">
-  <p>
-قوله تعالى}: فما استمتعتم به منهن فآتوهن أجورهن فريضة] {٢٤ / النساء /
-٤[ فنسخت بقوله صلى الله عليه وسلم إني كنت أحللت هذه المتعة ألا وإن
-الله ورسوله قد حرماها ألا فليبلغ الشاهد الغائب .
-  </p>
-</blockquote>
+> قوله تعالى}: فما استمتعتم به منهن فآتوهن أجورهن فريضة] {٢٤ / النساء /
+> ٤[ فنسخت بقوله صلى الله عليه وسلم إني كنت أحللت هذه المتعة ألا وإن
+> الله ورسوله قد حرماها ألا فليبلغ الشاهد الغائب .
 
-<blockquote dir="rtl">
-  <p>
-ووقع ناسخها من القرآن موضع ذكر ميراث الزوجة الثمن والربع فلم يكن لها
-في ذلك نصيب. وقال محمد بن إدريس الشافعي رحمة الله عليه موضع تحريمها في
-سورة المؤمن وناسخها قوله تعالى} :والذين هم لفروجهم حافظون إلا على
-أزواجهم أو ما ملكت أيمانهم] {... ٥ مكية / المؤمن / ٢٣ [وأجمعوا على
-أنها ليست بزوجة ولا ملك يمين فنسخها الله بهذه الآية.
-  </p>
-</blockquote>
+> ووقع ناسخها من القرآن موضع ذكر ميراث الزوجة الثمن والربع فلم يكن لها
+> في ذلك نصيب. وقال محمد بن إدريس الشافعي رحمة الله عليه موضع تحريمها في
+> سورة المؤمن وناسخها قوله تعالى} :والذين هم لفروجهم حافظون إلا على
+> أزواجهم أو ما ملكت أيمانهم] {... ٥ مكية / المؤمن / ٢٣ [وأجمعوا على
+> أنها ليست بزوجة ولا ملك يمين فنسخها الله بهذه الآية.
 
 His Statement, the Most High: {Those of them with whom you contract
 *mut’ah*, give them their prescribed dowries} [*Al-Nisa*, 4:24]. It has
@@ -179,23 +143,15 @@ of *al-Mut’ah*, which was revealed *later* in al-Madinah!
 
 Well, only an *ayah* can abrogate an *ayah*, as Allah Himself declares:
 
-<blockquote dir="rtl">
-  <p>
-ما ننسخ من آية أو ننسها نأت بخير منها أو مثلها
-  </p>
-</blockquote>
+> ما ننسخ من آية أو ننسها نأت بخير منها أو مثلها
 
 Whatever a verse We abrogate or cause to be forgotten, **We bring a
 better one or one similar to it**.[^9]
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-وإذا بدلنا آية مكان آية والله أعلم بما ينزل قالوا إنما أنت مفتر بل
-أكثرهم لا يعلمون
-  </p>
-</blockquote>
+> وإذا بدلنا آية مكان آية والله أعلم بما ينزل قالوا إنما أنت مفتر بل
+> أكثرهم لا يعلمون
 
 **And when We change a verse in place of another verse**, and Allah
 knows best of what He sends down, they say, “You are but a forger.” Nay,
@@ -203,13 +159,9 @@ but most of them know not.[^10]
 
 Imam al-Shafi’i (d. 204 H) himself says about it:
 
-<blockquote dir="rtl">
-  <p>
-ولا ينسخ كتاب الله إلا كتابه لقول الله} ما ننسخ من آية أو ننسها نأت
-بخير منها أو مثلها {وقوله} وإذا بدلنا آية مكان آية والله أعلم بما ينزل
-قالوا إنما أنت مفتر { فأبان أن نسخ القرآن لا يكون إلا بقرآن مثله
-  </p>
-</blockquote>
+> ولا ينسخ كتاب الله إلا كتابه لقول الله} ما ننسخ من آية أو ننسها نأت
+> بخير منها أو مثلها {وقوله} وإذا بدلنا آية مكان آية والله أعلم بما ينزل
+> قالوا إنما أنت مفتر { فأبان أن نسخ القرآن لا يكون إلا بقرآن مثله
 
 **The Book of Allah cannot be abrogated except by His Book**, due to the
 Statement of Allah {Whatever a verse We abrogate or cause to be
@@ -221,12 +173,8 @@ occur except through (another verse of) the Qur’an**.[^11]
 
 Imam ‘Abd al-Razzaq (d. 211 H) has this too:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرزاق قال معمر وقال قتادة وأما قوله نأت بخير منها أو مثلها يقول
-آية فيها تخفيف فيها رخصة فيها أمر فيها نهي
-  </p>
-</blockquote>
+> عبد الرزاق قال معمر وقال قتادة وأما قوله نأت بخير منها أو مثلها يقول
+> آية فيها تخفيف فيها رخصة فيها أمر فيها نهي
 
 ‘Abd al-Razzaq – Ma’mar – Qatadah:
 
@@ -237,11 +185,7 @@ prohibition.”[^12]
 
 Prof. Ibn Yasin says about this *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-وإسناده صحيح
-  </p>
-</blockquote>
+> وإسناده صحيح
 
 Its chain is *sahih*.[^13]
 
@@ -255,13 +199,9 @@ Secondly, it is perfectly possible for the wife in a valid marriage not
 to inherit her husband. For instance, Imam al-Bukhari (d. 256 H)
 documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو عاصم عن ابن جريج عن ابن شهاب عن علي بن حسين عن عمرو بن عثمان
-عن أسامة بن زيد رضي الله عنهما : أن النبي صلى الله عليه و سلم قال :لا
-يرث المسلم الكافر ولا الكافر المسلم
-  </p>
-</blockquote>
+> حدثنا أبو عاصم عن ابن جريج عن ابن شهاب عن علي بن حسين عن عمرو بن عثمان
+> عن أسامة بن زيد رضي الله عنهما : أن النبي صلى الله عليه و سلم قال :لا
+> يرث المسلم الكافر ولا الكافر المسلم
 
 Abu ‘Asim – Ibn Jurayj – Ibn Shihab – ‘Ali b. Husayn – ‘Amr b. ‘Uthman –
 Usamah b. Zayd, may Allah be pleased with them both:
@@ -282,12 +222,8 @@ marriage is.
 Finally, al-Shafi’i quotes this verse as the abrogator of temporary
 marriage in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-والذين هم لفروجهم حافظون إلا على أزواجهم أو ما ملكت أيمانهم فإنهم غير
-ملومين فمن ابتغى وراء ذلك فأولئك هم العادون
-  </p>
-</blockquote>
+> والذين هم لفروجهم حافظون إلا على أزواجهم أو ما ملكت أيمانهم فإنهم غير
+> ملومين فمن ابتغى وراء ذلك فأولئك هم العادون
 
 And those who guard their private parts, **except from their wives or
 what their right hands possess (i.e. slave-women)**, for then, they are
@@ -323,13 +259,9 @@ Shi’ah throw out any *riwayah* that disagrees with any verse of the
 their sources or chains – are fabrications (whether intentional or
 accidental) by Shi’i standards. Al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا، عن أحمد بن محمد بن خالد، عن أبيه، عن النضر بن سويد، عن
-يحيى الحلبي، عن أيوب بن الحر قال: سمعت أبا عبد الله عليه السلام يقول
-:كل شئ مردود إلى الكتاب والسنة، وكل حديث لا يوافق كتاب الله فهو زخرف
-  </p>
-</blockquote>
+> عدة من أصحابنا، عن أحمد بن محمد بن خالد، عن أبيه، عن النضر بن سويد، عن
+> يحيى الحلبي، عن أيوب بن الحر قال: سمعت أبا عبد الله عليه السلام يقول
+> :كل شئ مردود إلى الكتاب والسنة، وكل حديث لا يوافق كتاب الله فهو زخرف
 
 A number of our companions – Ahmad b. Muhammad b. Khalid – his father –
 al-Naḍar b. Suwayd – Yahya al-Halabi – Ayyub b. al-Hurr:
@@ -340,34 +272,22 @@ returned back to the Book and the *Sunnah*, **and EVERY** ***hadith***
 
 Shaykh al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^17]
 
 And Shaykh Hadi al-Najafi agrees:
 
-<blockquote dir="rtl">
-  <p>
-الرواية صحيحة الإسناد
-  </p>
-</blockquote>
+> الرواية صحيحة الإسناد
 
 The report has a *sahih* chain[^18]
 
 Al-Kulayni here again records:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن إسماعيل، عن الفضل بن شاذان، عن ابن أبي عمير، عن هشام بن الحكم
-وغيره، عن أبي عبد الله عليه السلام قال: خطب النبي صلى الله عليه وآله
-بمنى فقال: أيها الناس ما جاء كم عني يوافق كتاب الله فأنا قلته وما جاء
-كم يخالف كتاب الله فلم أقله.
-  </p>
-</blockquote>
+> محمد بن إسماعيل، عن الفضل بن شاذان، عن ابن أبي عمير، عن هشام بن الحكم
+> وغيره، عن أبي عبد الله عليه السلام قال: خطب النبي صلى الله عليه وآله
+> بمنى فقال: أيها الناس ما جاء كم عني يوافق كتاب الله فأنا قلته وما جاء
+> كم يخالف كتاب الله فلم أقله.
 
 Muhammad b. Isma’il – al-Faḍl b. Shadhan – Ibn Abi ‘Umayr – Hisham b.
 al-Hakam and others – Abu ‘Abd Allah, peace be upon him:
@@ -379,45 +299,29 @@ that contradicts the Book of Allah, I never said it**.”[^19]
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-مجهول كالصحيح
-  </p>
-</blockquote>
+> مجهول كالصحيح
 
 *Majhul ka al-Sahih*[^20]
 
 Prof. ‘Ali Akbar al-Ghiffari also declares:
 
-<blockquote dir="rtl">
-  <p>
-سند صحيح
-  </p>
-</blockquote>
+> سند صحيح
 
 A *sahih* chain[^21]
 
 Our beloved teacher, Shaykh al-Saduq (d. 381 H), also thereby submits,
 in line with the *sahih* *ahadith*:
 
-<blockquote dir="rtl">
-  <p>
-وكل حديث لا يوافق كتاب الله فهو باطل
-  </p>
-</blockquote>
+> وكل حديث لا يوافق كتاب الله فهو باطل
 
 Every *hadith* that does not agree with the Book of Allah is a
 fabrication.[^22]
 
 Ayatullah Ja’far Subhani too says:
 
-<blockquote dir="rtl">
-  <p>
-أمر الأئمة عليهم السلام بعرض الأحاديث على الكتاب والسنة، وأن كل حديث
-لا يوافق كتاب الله ولا سنة نبيه يضرب به عرض الجدار .وقد تواترت
-الروايات على الترجيح بموافقة الكتاب والسنة
-  </p>
-</blockquote>
+> أمر الأئمة عليهم السلام بعرض الأحاديث على الكتاب والسنة، وأن كل حديث
+> لا يوافق كتاب الله ولا سنة نبيه يضرب به عرض الجدار .وقد تواترت
+> الروايات على الترجيح بموافقة الكتاب والسنة
 
 The Imams, peace be upon them, ordered that the *ahadith* must be
 compared to the Book and the *Sunnah*, and that every single *hadith*
@@ -429,13 +333,9 @@ Book and the** ***Sunnah***.[^23]
 Ayatullah Makarim al-Shirazi even applies this rule to reject a
 *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إن هذا الحديث لا ينسجم مع نص القرآن .ووفقا للقواعد الأصولية التي
-عندنا، أن كل حديث لا يوافق كتاب الله ساقط عن الاعتبار، ولا يمكن
-التعويل على أنه حديث شريف من أحاديث النبي أو المعصومين عليهم السلام.
-  </p>
-</blockquote>
+> إن هذا الحديث لا ينسجم مع نص القرآن .ووفقا للقواعد الأصولية التي
+> عندنا، أن كل حديث لا يوافق كتاب الله ساقط عن الاعتبار، ولا يمكن
+> التعويل على أنه حديث شريف من أحاديث النبي أو المعصومين عليهم السلام.
 
 Certainly, this *hadith* does not agree with the text of the Qur’an.
 And, based on the principles of *usul* with us, **that every single**
@@ -454,12 +354,8 @@ that is only a child’s play.
 Anyway, there is a second *ayah* – apart from the Verse of *al-Mut’ah* –
 which, though NOT revealed about temporary marriage, applies to it:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا لا تحرموا طيبات ما أحل الله لكم ولا تعتدوا إن الله
-لا يحب المعتدين
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا لا تحرموا طيبات ما أحل الله لكم ولا تعتدوا إن الله
+> لا يحب المعتدين
 
 O you who believe! **Do not make** ***haram*** **the good things which
 Allah has made** ***halal*** **for you**; and do not exceed the limits;
@@ -469,15 +365,11 @@ In the last chapter, we see how Ibn Mas’ud considered *mut’ah* as one of
 “the *good* things” mentioned in this verse. In this report of Imam
 al-Bukhari, the reason is explicitly given:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة بن سعيد حدثنا جرير عن إسماعيل عن قيس قال : قال عبد الله
-كنا نغزو مع رسول الله صلى الله عليه و سلم وليس لنا شيء فقلنا ألا
-نستخصي ؟ فنهانا عن ذلك ثم رخصلنا أن ننكح المرأة بالثوب ثم قرأ علينا }
-يا أيها الذين أمنوا لا تحرموا طيبات ما أحل الله لكم ولا تعتدوا أن الله
-لا يحب المعتدين {
-  </p>
-</blockquote>
+> حدثنا قتيبة بن سعيد حدثنا جرير عن إسماعيل عن قيس قال : قال عبد الله
+> كنا نغزو مع رسول الله صلى الله عليه و سلم وليس لنا شيء فقلنا ألا
+> نستخصي ؟ فنهانا عن ذلك ثم رخصلنا أن ننكح المرأة بالثوب ثم قرأ علينا }
+> يا أيها الذين أمنوا لا تحرموا طيبات ما أحل الله لكم ولا تعتدوا أن الله
+> لا يحب المعتدين {
 
 Qutaybah b. Sa’id – Jarir – Isma’il – Qays – ‘Abd Allah (b. Mas’ud):
 
@@ -495,14 +387,10 @@ Yes, it was the Prophet himself who first quoted the verse in support of
 
 Imam Ahmad (d. 241 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن زكريا قال أخبرني إسماعيل عن قيس
-عن بن مسعود قال كنا مع رسول الله صلى الله عليه و سلم ليس لنا نساء قلنا
-يا رسول الله ألا نستخصي فنهانا عن ذلك فقال { يا أيها الذين آمنوا لا
-تحرموا طيبات ما أحل الله لكم }
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن زكريا قال أخبرني إسماعيل عن قيس
+> عن بن مسعود قال كنا مع رسول الله صلى الله عليه و سلم ليس لنا نساء قلنا
+> يا رسول الله ألا نستخصي فنهانا عن ذلك فقال { يا أيها الذين آمنوا لا
+> تحرموا طيبات ما أحل الله لكم }
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya b. Zakariya
 – Isma’il – Qays – Ibn Mas’ud:
@@ -515,26 +403,18 @@ make** ***haram*** **the good things which Allah has made** ***halal***
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^28]
 
 The *ayah* in question is from *al-Maidah*, the last revealed *surah* of
 the Qur’an. Imam al-Hakim (d. 403 H) reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو العباس محمد بن يعقوب ثنا بحر بن نصر الخولاني قال : قرىء على
-عبد الله بن وهب أخبرك معاوية بن صالح عن أبي الزاهرية عن جبير بن نفير
-قال حججت فدخلت على عائشة رضي الله عنها فقالت لي : يا جبير تقرأ المائدة
-؟ فقلت : نعم قالت : أما أنها آخر سورة نزلت فما وجدتم فيها من حلال
-فاستحلوه وما وجدتم من حرام فحرموه
-  </p>
-</blockquote>
+> حدثنا أبو العباس محمد بن يعقوب ثنا بحر بن نصر الخولاني قال : قرىء على
+> عبد الله بن وهب أخبرك معاوية بن صالح عن أبي الزاهرية عن جبير بن نفير
+> قال حججت فدخلت على عائشة رضي الله عنها فقالت لي : يا جبير تقرأ المائدة
+> ؟ فقلت : نعم قالت : أما أنها آخر سورة نزلت فما وجدتم فيها من حلال
+> فاستحلوه وما وجدتم من حرام فحرموه
 
 Abu al-‘Abbas Muhammad b. Ya’qub – Bahr b. Nasr al-Khawlani – ‘Abd Allah
 b. Wahb – Mu’awiyah b. Salih – Abu al-Zahiriyyah – Jubayr b. Nufayr:
@@ -548,35 +428,23 @@ as** ***haram***.[^29]
 
 Al-Hakim submits:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^30]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 Upon the standard of al-Bukhari and Muslim.[^31]
 
 Imam Ahmad has documented it through his own *sanad* too:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرحمن بن مهدي قال ثنا معاوية عن أبي
-الزاهرية عن جبير بن نفير قال دخلت على عائشة فقالت هل تقرأ سورة المائدة
-قال قلت نعم قالت فإنها آخر سورة نزلت فما وجدتم فيها من حلال فاستحلوه
-وما وجدتم فيها من حرام فحرموه وسألتها عن خلق رسول الله صلى الله عليه و
-سلم فقالت القرآن
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرحمن بن مهدي قال ثنا معاوية عن أبي
+> الزاهرية عن جبير بن نفير قال دخلت على عائشة فقالت هل تقرأ سورة المائدة
+> قال قلت نعم قالت فإنها آخر سورة نزلت فما وجدتم فيها من حلال فاستحلوه
+> وما وجدتم فيها من حرام فحرموه وسألتها عن خلق رسول الله صلى الله عليه و
+> سلم فقالت القرآن
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Rahman b.
 Mahdi – Mu’awiyah – Abu al-Zahiriyyah – Jubayr b. Nufayr:
@@ -591,11 +459,7 @@ she said, “The Qur’an.”[^32]
 
 Al-Arnauṭ states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^33]
 
@@ -625,15 +489,11 @@ the good things mentioned in that *ayah*, that it was made *halal* by
 Allah, and that the Muslims must not make it *haram* for themselves.
 Then, he gave them a direct command. Imam Abu Ya’la (d. 307 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو خيثمة حدثنا مروان بن معاوية الفزاري عن إسماعيل بن أبي خالد
-عن قيس بن أبي حازم قال : سمعت عبد الله بن مسعود يقول كنا نغزو مع رسول
-الله صلى الله عليه و سلم ليس لنا نساء فقلنا : يارسول الله ألا نستخصي ؟
-فنهانا عن ذلك وأمرنا أن ننكح المرأة بالثوب ثم قرأ عبد الله : { يا أيها
-الذين آمنوا لا تحرموا طيبات ما أحل الله }
-  </p>
-</blockquote>
+> حدثنا أبو خيثمة حدثنا مروان بن معاوية الفزاري عن إسماعيل بن أبي خالد
+> عن قيس بن أبي حازم قال : سمعت عبد الله بن مسعود يقول كنا نغزو مع رسول
+> الله صلى الله عليه و سلم ليس لنا نساء فقلنا : يارسول الله ألا نستخصي ؟
+> فنهانا عن ذلك وأمرنا أن ننكح المرأة بالثوب ثم قرأ عبد الله : { يا أيها
+> الذين آمنوا لا تحرموا طيبات ما أحل الله }
 
 Abu Khaythamah – Marwan b. Mu’awiyah al-Fazari – Isma’il b. Abi Khalid –
 Qays b. Abi Hazim:
@@ -648,11 +508,7 @@ things which Allah has made** ***halal*** **for you**}.[^36]
 
 Shaykh Dr. Asad says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^37]
 
@@ -668,15 +524,11 @@ on the military expedition. Obviously, his order to them to perform
 
 Imam Ibn Hibban (d. 354 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أحمد بن علي بن المثنى قال حدثنا أبو خيثمة قال حدثنا مروان بن
-معاوية عن إسماعيل بن أبي خالد عن قيس بن أبي حازم قال سمعت بن مسعود
-يقول كنا نغزو مع رسول الله صلى الله عليه وسلم ليس لنا نساء فقالوا يا
-رسول الله ألا نستخصي فنهانا عن ذلك وأمرنا ان ننكح المرأة بالثوب ثم قرأ
-عبد الله هذه الآية يا أيها الذين آمنوا لا تحرموا طيبات ما أحل الله لكم
-  </p>
-</blockquote>
+> أخبرنا أحمد بن علي بن المثنى قال حدثنا أبو خيثمة قال حدثنا مروان بن
+> معاوية عن إسماعيل بن أبي خالد عن قيس بن أبي حازم قال سمعت بن مسعود
+> يقول كنا نغزو مع رسول الله صلى الله عليه وسلم ليس لنا نساء فقالوا يا
+> رسول الله ألا نستخصي فنهانا عن ذلك وأمرنا ان ننكح المرأة بالثوب ثم قرأ
+> عبد الله هذه الآية يا أيها الذين آمنوا لا تحرموا طيبات ما أحل الله لكم
 
 Ahmad b. ‘Ali b. al-Muthanna - Abu Khaythamah – Marwan b. Mu’awiyah
 al-Fazari – Isma’il b. Abi Khalid – Qays b. Abi Hazim:
@@ -691,21 +543,13 @@ good things which Allah has made** ***halal*** **for you**}.[^38]
 
 ‘Allamah al-Albani states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^39]
 
 And Shaykh al-Arnauṭ concurs:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs[^40]
 
@@ -719,11 +563,7 @@ we ask: are fornication and adultery good, *halal* things?
 Moreover, one of the *very* last *ayahs* of the Qur’an to be revealed
 re-affirm the *halalness* of “the good things”:
 
-<blockquote dir="rtl">
-  <p>
-اليوم أحل لكم الطيبات
-  </p>
-</blockquote>
+> اليوم أحل لكم الطيبات
 
 Today, the good things are made *halal* to you.[^41]
 
@@ -734,24 +574,16 @@ himself.
 
 We equally read these verses:
 
-<blockquote dir="rtl">
-  <p>
-يسألونك ماذا أحل لهم قل أحل لكم الطيبات
-  </p>
-</blockquote>
+> يسألونك ماذا أحل لهم قل أحل لكم الطيبات
 
 They ask you (O Muhammad) what is *halal* for them. Say: “The good
 things are made *halal* for you.”[^42]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-الذين يتبعون الرسول النبي الأمي الذي يجدونه مكتوبا عندهم في التوراة
-والإنجيل يأمرهم بالمعروف وينهاهم عن المنكر ويحل لهم الطيبات ويحرم
-عليهم الخبائث ويضع عنهم إصرهم والأغلال التي كانت عليهم
-  </p>
-</blockquote>
+> الذين يتبعون الرسول النبي الأمي الذي يجدونه مكتوبا عندهم في التوراة
+> والإنجيل يأمرهم بالمعروف وينهاهم عن المنكر ويحل لهم الطيبات ويحرم
+> عليهم الخبائث ويضع عنهم إصرهم والأغلال التي كانت عليهم
 
 Those who follow the Messenger, the *Ummi* Prophet, whom they find
 written with them in *al-Tawrat* and *al-Injil*, **he orders them with
@@ -770,12 +602,8 @@ Meanwhile, let us equally look at this from another angle. In one of the
 Makkan *surahs*, Allah declares *haram* all forms of indecent
 behaviours:
 
-<blockquote dir="rtl">
-  <p>
-قل إنما حرم ربي الفواحش ما ظهر منها وما بطن والإثم والبغي بغير الحق
-وأن تشركوا بالله ما لم ينزل به سلطانا وأن تقولوا على الله ما لا تعلمون
-  </p>
-</blockquote>
+> قل إنما حرم ربي الفواحش ما ظهر منها وما بطن والإثم والبغي بغير الحق
+> وأن تشركوا بالله ما لم ينزل به سلطانا وأن تقولوا على الله ما لا تعلمون
 
 Say: “**My Lord has only made** ***haram*** **all indecencies, those of
 them that are apparent as well as those that are concealed**, and sin
@@ -796,22 +624,14 @@ he encouraging and enforcing fornication and adultery?
 Even worse still for our Sunni brothers, this is what the *Kitab* has
 said:
 
-<blockquote dir="rtl">
-  <p>
-قل إن الله لا يأمر بالفحشاء
-  </p>
-</blockquote>
+> قل إن الله لا يأمر بالفحشاء
 
 Say: “Verily, Allah does NOT command indecencies.”[^45]
 
 In fact, He *actually* forbids them:
 
-<blockquote dir="rtl">
-  <p>
-إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر
-والبغي
-  </p>
-</blockquote>
+> إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر
+> والبغي
 
 Verily, Allah commands justice, good deeds and the giving to the
 kindred, **and He forbids indecencies**, and evil deeds and
@@ -968,5 +788,4 @@ Muhammad Naṣir al-Din al-Albani and Shu’ayb al-Arnaut], vol. 9, p. 448,
 [^45]: Qur’an 7:28
 
 [^46]: Qur’an 16:90
-
 

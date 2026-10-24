@@ -1050,4 +1050,3 @@ evil . . ." (Quran 3: 30). 
 his Lord and forbade the soul its caprice, surely Paradise shall be the
 refuge." 
 
-

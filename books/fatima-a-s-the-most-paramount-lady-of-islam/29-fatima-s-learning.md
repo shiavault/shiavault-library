@@ -20,4 +20,3 @@ writings with the value of Hassanain. It means that as a mother, a wife,
 as well as an infallible, she was her father’s student and deserved
 value for her father’s teachings.
 
-

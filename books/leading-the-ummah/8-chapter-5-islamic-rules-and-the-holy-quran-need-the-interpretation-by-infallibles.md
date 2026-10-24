@@ -29,22 +29,14 @@ kind of judgment is this? The Caliph answered: six months ago the two
 got married and now his wife has given birth to a child. Ali (as) said:
 don’t you know, that the Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ حَمْلُهُ وَ فِصالُهُ ثَلاثُونَ شَهْراً ﴾
-  </p>
-</blockquote>
+> ﴿ وَ حَمْلُهُ وَ فِصالُهُ ثَلاثُونَ شَهْراً ﴾
 
 “and bearing him and weaning him was thirty months”[^1].
 
 The Caliph replied: Yes. Then Ali (as) said: Hasn't the Quran regulated
 two whole years for breast feeding the child when it says
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ الْوالِداتُ يُرْضِعْنَ أَوْلادَهُنَّ حَوْلَيْنِ كامِلَيْنِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ الْوالِداتُ يُرْضِعْنَ أَوْلادَهُنَّ حَوْلَيْنِ كامِلَيْنِ ﴾
 
 *“And the mothers should suckle their children for two whole years”*[^2]
 
@@ -103,8 +95,6 @@ for the reason the Imam (as) replied: God says in the Holy Quran
 **
 
 وَ أَنَّ الْمَساجِدَ لِلَّهِ
-
-  
 
 ﴾
 
@@ -249,5 +239,4 @@ that you may be grateful [Quran 5:6].
 [^7]: . Usul Kafi, vol. 1, p. 172.
 
 [^8]: . Usul Kafi, vol. 1/ p. 178.
-
 

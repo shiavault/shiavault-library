@@ -596,4 +596,3 @@ cleanliness and decency are the greatest dividend payers on earth. And
 with this declaration the liquor advertisements were expelled from the
 columns of the Chicago Herald.
 
-

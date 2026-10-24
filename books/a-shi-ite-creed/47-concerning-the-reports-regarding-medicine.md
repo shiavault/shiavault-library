@@ -57,4 +57,3 @@ ruined. And thereafter nothing would grow in it.
 The Prophet, on whom be the peace and blessings of God, said: He whom
 (the *sura) al-Hamd* *(Fatiha)* does not cure, may Allah not cure him.
 
-

@@ -17,4 +17,3 @@ The doctrine, therefore, finds a method for regulating economics,
 according to its concept of equity, while the science of economics
 studies the results of such a method when it is imposed on the society.
 
-

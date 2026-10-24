@@ -11,7 +11,6 @@ Sura Nabaa (the Great News) No. 78 (verses 38-40)
 مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ
 تُرَابًا
 
-
 38.The Day on which the Spirit and the angels shall stand arrayed, they
 shall speak not except whom the All-merciful gives leave, and (who)
 speaks what is right.
@@ -22,7 +21,6 @@ Lord.
 40. Surely We have warned you of a Punishment near, the Day when man
 shall see what his two hands have sent forth and the Unbeliever shall
 say: O! would that I were dust'.
-
 
 **Commentary:**
 
@@ -389,7 +387,6 @@ criminals is permissible and the vice of all sinners becomes excused,
 then, there will be no difference between an obedient person and a
 criminal.
 
-
 **Supplication:**
 
 O Lord! Protect us from these misled ideas and their consequences.
@@ -398,7 +395,5 @@ Heaven is a victory for the Righteous, we all have hope in your Grace.
 O Lord! On the Day when all see their deeds in front of them, do not
 put us to shame.
 
-
 **The End of Sura Nabaa (The Great News)**
-
 

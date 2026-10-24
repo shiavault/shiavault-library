@@ -20,4 +20,3 @@ in his sacred quest, and had nothing to do with such mundane things.”
 
 Imam (as): “Then indeed, you all are better than him.”
 
-

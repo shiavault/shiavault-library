@@ -273,4 +273,3 @@ pilgrimage for which he was appointed, performing an Umrat-ul-Mufradah
 for himself or another person. Likewise, he can then make tawaf for
 himself or another person.
 
-

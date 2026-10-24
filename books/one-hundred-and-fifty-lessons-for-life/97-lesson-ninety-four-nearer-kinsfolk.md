@@ -3,12 +3,8 @@ Lesson Ninety Four: Nearer Kinsfolk
 
 Imam Hassan al-Mujtaba (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْقَريْبُ مَنْ قَرَّبَتْهُ الْمَوَدَّةُ وَ إنْ بَعُدَ نَسَبُهُ وَ
-الْبَعيدُ مَنْ باعَدَتْهُ الْمَوَدَةُ وَ إِنْ قَرُبَ نَسَبُهُ
-  </p>
-</blockquote>
+> اَلْقَريْبُ مَنْ قَرَّبَتْهُ الْمَوَدَّةُ وَ إنْ بَعُدَ نَسَبُهُ وَ
+> الْبَعيدُ مَنْ باعَدَتْهُ الْمَوَدَةُ وَ إِنْ قَرُبَ نَسَبُهُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ the closeness of genealogical relationship.
 
 [^1]: Tuhaful Uqul, page 165. Al-Kafi, vol2, page 643. Wasa'il Al-Shia,
 vol 12, page 52.
-
 

@@ -31,7 +31,7 @@ together to give him a power base, he basically decreed that Jesus was
 God and the Roman Sun Gods, because what happened was basically that
 Greek Roman mythology took over Christianity; Christianity did not take
 over Greek Roman mythology. The Roman Sun Gods birthday, which was the
-25<sup>th</sup> December became Jesus birthday. The Romans Sunday became
+25th December became Jesus birthday. The Romans Sunday became
 the holy Sabbath, also the counsel agreed that Jesus was the Son of God,
 the only begotten Father, the very God of the very God. And it also
 declared the Trinitarian concept, the official doctrine of the Pauline

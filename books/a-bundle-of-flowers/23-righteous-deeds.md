@@ -38,4 +38,3 @@ enjoin them to brush (their teeth) with every prayer."
 
 Bihar-ul-Anwar, vol. 76, p. 126
 
-

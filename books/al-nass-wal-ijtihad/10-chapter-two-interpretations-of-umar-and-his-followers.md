@@ -961,4 +961,3 @@ and to expect the deliverance of Allah.
 his companions from killing Suhayl and other than Syhayl but Umar had
 tempted Abu Jandal to kill Suhayl.
 
-

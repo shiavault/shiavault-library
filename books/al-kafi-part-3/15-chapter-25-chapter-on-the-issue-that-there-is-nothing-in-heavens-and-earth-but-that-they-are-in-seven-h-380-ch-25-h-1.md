@@ -29,7 +29,6 @@ permission. Whoever, would think something else he certainly has spoken
 a lie against Allah or has rejected Allah, the Most Holy, the Most
 High.
 
-
 **Chapter 26 : Chapter on Wish and Will H 382, Ch. 26, h 1**
 
 It is narrated from Ali ibn Muhammad ibn 'Abdallah from Ahmad ibn abu
@@ -115,7 +114,6 @@ and you have priority to your bad deeds. This is because I Ahmad ibn
 Muhammad not asked what I do but they are questioned ffor what they
 do."
 
-
 **Chapter 27 : Chapter on Test and Choice H 388, Ch. 27, h 1**
 
 It is narrated from Ali ibn Ibrahim ibn Hashim from Muhammad ibn 'Isa
@@ -134,7 +132,6 @@ al-Tayyar from abu 'Abdallah (a. s.) who has said the following.
 " There is nothing in which there is expansion or reduction of the
 matters that Allah has commanded or has prohibited except that Allah,
 the Most Holy, the Most High, therein has a decree and a testing."
-
 
 **Chapter 28 : Chapter on Fortunateness and Un-fortunateness H 390, Ch.
 28, h 1**
@@ -207,5 +204,4 @@ But misfortune takes hold of him. Whoever Allah has written to be of
 the fortunate ones, even if very little time, such equal to the period
 between two breast-feeding of a camel her young, would have been left
 from his life in this world Allah will make it end in good fortune.
-
 

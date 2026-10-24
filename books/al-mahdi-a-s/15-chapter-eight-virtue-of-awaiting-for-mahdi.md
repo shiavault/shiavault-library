@@ -608,4 +608,3 @@ between Rukn and Maqam says: Mahdi's attention will be directed towards
 Syria while Gibra'eel would be in front of him and Micha'eel on his
 left.
 
-

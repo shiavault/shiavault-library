@@ -13,13 +13,9 @@ setting up the Islamic society.
 We also discussed who can be the Wali and Ruler of the Islamic society
 and received the answer from the Glorious Qur'an that says:
 
-<blockquote dir="rtl">
-  <p>
-’’اِنَّمَا وَلِيُّکُمُ الله وَ رَسُوْلُہ وَ الَّذِيْنَ ٰامَنُو
-الَّذِيْنَ يُقِيْمُوْنَ الصَّلٰوۃَ وَ يوْتُوْنَ الزَّکٰوۃَ وَ ہُمْ
-رَاکِعُوْنَ۔‘‘
-  </p>
-</blockquote>
+> ’’اِنَّمَا وَلِيُّکُمُ الله وَ رَسُوْلُہ وَ الَّذِيْنَ ٰامَنُو
+> الَّذِيْنَ يُقِيْمُوْنَ الصَّلٰوۃَ وَ يوْتُوْنَ الزَّکٰوۃَ وَ ہُمْ
+> رَاکِعُوْنَ۔‘‘
 
 ***Your only Walis are God, His Prophet and those believers who
 establish prayer and give elms while kneeling in prayer.*** [^1]
@@ -108,24 +104,16 @@ Wilayat of evil and Satan is something similar.
 
 A Qur'anic verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنہُمْاٰ اَئِمَّۃً يَّدْعُوْنَ اِلَي النَّارِ
-  </p>
-</blockquote>
+> وَجَعَلْنہُمْاٰ اَئِمَّۃً يَّدْعُوْنَ اِلَي النَّارِ
 
 ***There are such guides and leaders who keep hauling their followers
 and underlings towards hellfire and misfortune.*** [^2]
 
 Another Qur'anic verse says:
 
-<blockquote dir="rtl">
-  <p>
-اَلَمْ تَرَ اِلَي الَّذِيْنَ بَدَّلُوْا نِعْمَتَ الله کُفْرًا وَّ
-اَحَلُّوْا قَوْمَہُمْ دَارَ الْبَوَارِ جَہَنَّمَ يَصْلَوْنَہَا وَ
-بِئْسَ الْقَرَارُ
-  </p>
-</blockquote>
+> اَلَمْ تَرَ اِلَي الَّذِيْنَ بَدَّلُوْا نِعْمَتَ الله کُفْرًا وَّ
+> اَحَلُّوْا قَوْمَہُمْ دَارَ الْبَوَارِ جَہَنَّمَ يَصْلَوْنَہَا وَ
+> بِئْسَ الْقَرَارُ
 
 ***Have you not seen those people who were ungrateful to the blessing of
 God and caused their people to descend to the house of perdition and
@@ -149,20 +137,12 @@ benefit from them for the purpose they should have been used for.
 
 Then Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَّ اَحَلُّوْا قَوْمَہُمْ دَارَ الْبَوَار
-  </p>
-</blockquote>
+> وَّ اَحَلُّوْا قَوْمَہُمْ دَارَ الْبَوَار
 
 ***They hauled their followers and underlings towards hellfire and
 misfortune.***
 
-<blockquote dir="rtl">
-  <p>
-جَہَنَّمَ يَصْلَوْنَہَا وَ بِئْسَ الْقَرَارُ
-  </p>
-</blockquote>
+> جَہَنَّمَ يَصْلَوْنَہَا وَ بِئْسَ الْقَرَارُ
 
 ***They will take them to hell where they will be thrown with faces
 down; and what a rotten abode it is.***
@@ -220,11 +200,7 @@ living in this system cannot comprehend where he is going. Sometimes he
 thinks that he is on the way to goodness and success; whereas, he does
 not know that he is being taken to hell.
 
-<blockquote dir="rtl">
-  <p>
-جَہَنَّمَ يَصْلَوْنَہَا وَ بِئْسَ الْقَرَارُ
-  </p>
-</blockquote>
+> جَہَنَّمَ يَصْلَوْنَہَا وَ بِئْسَ الْقَرَارُ
 
 ***They will take them to hell where they will be thrown with faces
 down; and what a rotten abode it is.***
@@ -280,17 +256,9 @@ Why today in this world are we not brilliant like the glowing society of
 ten centuries ago? Is there any reason other than the fact that all
 those activities and achievements were under the rule of Satan?
 
-<blockquote dir="rtl">
-  <p>
-من ان نگین سلیمان به هیچ نستانم
-  </p>
-</blockquote>
+> من ان نگین سلیمان به هیچ نستانم
 
-<blockquote dir="rtl">
-  <p>
-که گاه گاه بر اودست اهر من باشد
-  </p>
-</blockquote>
+> که گاه گاه بر اودست اهر من باشد
 
 *I see no worth in the ring of Sulaiman,*
 *If, time to time, it is worn by the devil*
@@ -475,22 +443,14 @@ Obviously not.
 In the first instance the train's driver was a trustworthy person. He
 was respected and noble.
 
-<blockquote dir="rtl">
-  <p>
-اِمٰام مِنَ الله
-  </p>
-</blockquote>
+> اِمٰام مِنَ الله
 
 *A guide appointed by Allah*
 
 He was a guide appointed by Allah who drove them to the destination even
 though they were dreadful people.
 
-<blockquote dir="rtl">
-  <p>
-وَاِنْ کَانَتْ في اَعْمٰالِھٰا ظٰالِمَۃً مَسِيئَۃً
-  </p>
-</blockquote>
+> وَاِنْ کَانَتْ في اَعْمٰالِھٰا ظٰالِمَۃً مَسِيئَۃً
 
 *Even though they may be oppressive and wicked in their actions*
 
@@ -501,11 +461,7 @@ his own errand ahead of others' wishes. People on this bus will never
 reach their destination irrespective of the fact that they were very
 kind and well-mannered with each other.
 
-<blockquote dir="rtl">
-  <p>
-وَاِنْ کٰانَتْ فِي اَعْمٰالِھٰا بَرّۃً تَقِيَّۃً
-  </p>
-</blockquote>
+> وَاِنْ کٰانَتْ فِي اَعْمٰالِھٰا بَرّۃً تَقِيَّۃً
 
 *Even though they may be pious and good people.*
 
@@ -519,14 +475,10 @@ will not stay Muslims.
 Now a question arises, what should Muslims do in such circumstances? A
 Qur'anic verse answers the question and says:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الَّذِيْنَ تَوَفّٰہُمُ الْمَلٰئِکَۃُ ظٰلِمِيْ اَنْفُسِہِمْ
-قَالُوْا فِيْمَ کُنْتُمْ قَالُوْا کُنَّا مُسْتَضْعَفِيْنَ فِي
-الْاَرْضِ قَالُوْآ اَلَمْ تَکُنْ اَرْضُ الله وَاسِعَۃً فَتُہَاجِرُوْا
-فِيْھَا فَاُولٰئِکَ مَاْواٰہُمْ جَہَنَّمُ وَ سَآئَتاْ مَصِيْرًا۔
-  </p>
-</blockquote>
+> اِنَّ الَّذِيْنَ تَوَفّٰہُمُ الْمَلٰئِکَۃُ ظٰلِمِيْ اَنْفُسِہِمْ
+> قَالُوْا فِيْمَ کُنْتُمْ قَالُوْا کُنَّا مُسْتَضْعَفِيْنَ فِي
+> الْاَرْضِ قَالُوْآ اَلَمْ تَکُنْ اَرْضُ الله وَاسِعَۃً فَتُہَاجِرُوْا
+> فِيْھَا فَاُولٰئِکَ مَاْواٰہُمْ جَہَنَّمُ وَ سَآئَتاْ مَصِيْرًا۔
 
 ***Those who have oppressed themselves, their future and everything else
 they own, when their death comes, the angels appointed by God to take
@@ -546,11 +498,7 @@ afflicting yourself?"
 
 They respond:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوْا کُنَّا مُسْتَضْعَفِيْنَ فِي الْاَرْضِ
-  </p>
-</blockquote>
+> قَالُوْا کُنَّا مُسْتَضْعَفِيْنَ فِي الْاَرْضِ
 
 ***We were helpless among the people we were living; we were
 powerless.***
@@ -594,11 +542,7 @@ not hold for those societies that respect the opinion of a person; it is
 not valid for societies that are led by the Prophet. As the Glorious
 Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَشَاوِرْہُمْ فِي الْاَمْر
-  </p>
-</blockquote>
+> وَشَاوِرْہُمْ فِي الْاَمْر
 
 ***And consult with them in the affairs**.* [^5]
 
@@ -610,11 +554,7 @@ uninformed.
 However, in a society that is run on a system of dictatorship,
 oppression and ignorance most of the people are pathetic. They say:
 
-<blockquote dir="rtl">
-  <p>
-کُنَّا مُسْتَضْعَفِيْنَ فِي الْاَرْضِ
-  </p>
-</blockquote>
+> کُنَّا مُسْتَضْعَفِيْنَ فِي الْاَرْضِ
 
 ***We were among the weak on earth.***
 
@@ -624,11 +564,7 @@ excuse they present.
 
 In response the angels say:
 
-<blockquote dir="rtl">
-  <p>
-اَلَمْ تَکُنْ اَرْضُ الله وَاسِعَۃً فَتُہَاجِرُوْا فِيْھَا
-  </p>
-</blockquote>
+> اَلَمْ تَکُنْ اَرْضُ الله وَاسِعَۃً فَتُہَاجِرُوْا فِيْھَا
 
 ***Was God's earth not vast that you could have migrated?***
 
@@ -644,11 +580,7 @@ Was there no such place on the face of earth?
 This answer clearly shows that the logic of the angels and that of wise
 people is identical. The intellect of humans says the same thing:
 
-<blockquote dir="rtl">
-  <p>
-اَلَمْ تَکُنْ اَرْضُ الله وَاسِعَۃً فَتُہَاجِرُوْا فِيْھَا
-  </p>
-</blockquote>
+> اَلَمْ تَکُنْ اَرْضُ الله وَاسِعَۃً فَتُہَاجِرُوْا فِيْھَا
 
 *Was God's earth not vast that you could have migrated?*
 
@@ -656,11 +588,7 @@ Now they have no answer. What can these poor souls say as they have no
 logical answer? So the Glorious Qur'an says about the end of these
 feeble people:
 
-<blockquote dir="rtl">
-  <p>
-فَاُولٰئِکَ مَاْواٰہُمْ جَہَنَّمُ وَ سَآئَتاْ مَصِيْرًا
-  </p>
-</blockquote>
+> فَاُولٰئِکَ مَاْواٰہُمْ جَہَنَّمُ وَ سَآئَتاْ مَصِيْرًا
 
 ***The final place of those weaklings whose powers and talents were in
 the controls of satans is hell and what a terrible abode and ending it
@@ -680,19 +608,11 @@ cannot do anything.*** [^6]
 They have no way of going towards the land of light, the land of Islam
 and the land of God's worship and they cannot do anything.
 
-<blockquote dir="rtl">
-  <p>
-فَاُولٰئِکَ عَسَي الله اَنْ يَّعْفُوَ عَنْہُمْ
-  </p>
-</blockquote>
+> فَاُولٰئِکَ عَسَي الله اَنْ يَّعْفُوَ عَنْہُمْ
 
 ***May the Lord forgive those who are unable to do anything.***
 
-<blockquote dir="rtl">
-  <p>
-وَکَانَ الله عَفُوًّا غَفُوْرًا
-  </p>
-</blockquote>
+> وَکَانَ الله عَفُوًّا غَفُوْرًا
 
 ***And the Lord blots out sins and forgives.*** [^7]
 
@@ -702,12 +622,8 @@ and they should not keep asking this question, "What will happen to us?
 Will we be able to do anything? Will we gain anything?"
 For such people Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُّہَاجِرْ فِيْ سَبِيْلِ الله يَجِدْ فِي الْاَرْضِ مُرَاغَمًا
-کَثِيْرًا وَّسَعَۃً
-  </p>
-</blockquote>
+> وَ مَنْ يُّہَاجِرْ فِيْ سَبِيْلِ الله يَجِدْ فِي الْاَرْضِ مُرَاغَمًا
+> کَثِيْرًا وَّسَعَۃً
 
 ***And whoever migrates in the path of God finds vastness on earth and
 many opportunities.*** [^8]
@@ -722,11 +638,7 @@ up. This was the ultimate for Muslims and nothing more. But after they
 migrated and starting living in an Islamic society under God's Wilayat,
 they saw that it was a strange place.
 
-<blockquote dir="rtl">
-  <p>
-يُسَارِعُوْنَ فِي الْخَيْرٰتِ
-  </p>
-</blockquote>
+> يُسَارِعُوْنَ فِي الْخَيْرٰتِ
 
 ***They hasten in every good work.*** [^9]
 
@@ -739,12 +651,8 @@ tied up and burned with fire. However, once they migrated in the path of
 Allah and moved to Madina, the city of the Prophet, they found it to be
 such an open place for flight; now one could fly at his own will.
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يُّہَاجِرْ فِيْ سَبِيْلِ الله يَجِدْ فِي الْاَرْضِ مُرَاغَمًا
-کَثِيْرًا وَّسَعَۃً
-  </p>
-</blockquote>
+> وَ مَنْ يُّہَاجِرْ فِيْ سَبِيْلِ الله يَجِدْ فِي الْاَرْضِ مُرَاغَمًا
+> کَثِيْرًا وَّسَعَۃً
 
 ***And whoever migrates in the path of God finds vastness on earth and
 many opportunities.***
@@ -758,13 +666,9 @@ performed it and you tried your best." This is what Islam desires; Islam
 wants that one should struggle in the way of God according to his energy
 level, his talents and his reach."
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَّخْرُجْ مِنْ بَيْتِہ مُہَاجِرًا اِلَي الله وَرَسُوْلِہ ثُمَّ
-يُدْرِکْہُ الْمَوْتُ فَقَدْ وَقَعَ اَجْرُہ عَلَي الله وَ کَانَ الله
-غَفُوْرًا رَّحِيْمًا
-  </p>
-</blockquote>
+> وَ مَنْ يَّخْرُجْ مِنْ بَيْتِہ مُہَاجِرًا اِلَي الله وَرَسُوْلِہ ثُمَّ
+> يُدْرِکْہُ الْمَوْتُ فَقَدْ وَقَعَ اَجْرُہ عَلَي الله وَ کَانَ الله
+> غَفُوْرًا رَّحِيْمًا
 
 ***And who leaves his home to migrate towards God and the Prophet and
 death comes to him, his rewards lies with Allah and Allah is
@@ -810,5 +714,4 @@ This is the summation of our discussion on the subject of migration.
 [^9]: Ch. 23 Mominoon, verse 61.
 
 [^10]: Ch.4, An-Nisa’, verse 100.
-
 

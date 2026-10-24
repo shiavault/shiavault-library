@@ -65,4 +65,3 @@ objectives that are based on Islamic principles. Thus, the “Islamic
 economic system” is the set of universal institutions applying to the
 aspects of economics.
 
-

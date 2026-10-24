@@ -7,11 +7,7 @@ and an individual on his own, and it is for this reason that Islam has
 placed a lot of attention on them, such that the Noble Prophet of Islam
 (S) has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-هَلِ الإِيمَانُ إِلاَّ الْـحُبَّ وَ الْبُغْضَ
-  </p>
-</blockquote>
+> هَلِ الإِيمَانُ إِلاَّ الْـحُبَّ وَ الْبُغْضَ
 
 *“Is true faith anything other than love and hate?!”*[^1]
 
@@ -74,12 +70,8 @@ to show a deficiency within it.”[^5]
 Islam has prohibited the acts of *cussing* and the use of vulgar
 language just as God, the Most High, has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللهِ فَيَسُبُّوا
-اللهَ عَدْواً بِغَيْرِ عِلْمٍ...
-  </p>
-</blockquote>
+> وَلاَ تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللهِ فَيَسُبُّوا
+> اللهَ عَدْواً بِغَيْرِ عِلْمٍ...
 
 ***“Do not cuss those whom they invoke besides God, lest they should
 abuse God out of hostility, without any knowledge…”***[^6]
@@ -168,5 +160,4 @@ forgive him for his evil actions.
 387 [اللعن، الطرد والابعاد من الخير]
 
 [^11]: Al-Mufradat of Raghib, vol. 2, pg. 339
-
 

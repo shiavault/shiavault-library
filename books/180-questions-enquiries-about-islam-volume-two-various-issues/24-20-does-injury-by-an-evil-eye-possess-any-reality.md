@@ -3,12 +3,8 @@
 
 In verse 51 of Suratul Qalam, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ
-لَمَّا سَمِعُوا الذِّكْرَ…
-  </p>
-</blockquote>
+> وَ إِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ
+> لَمَّا سَمِعُوا الذِّكْرَ…
 
 ***“And those who disbelieve would almost smite you with their eyes when
 they hear the reminder…”***
@@ -53,11 +49,7 @@ themselves from 'evil eyes'; this is also referred to as ta'widh).
 
 The Noble Prophet (S) replied:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كَانَ شَيْ‏ءٌ يَسْبِقُ الْقَدْرِ لَسَبَقَهُ الْعَيْنَ‏.
-  </p>
-</blockquote>
+> لَوْ كَانَ شَيْ‏ءٌ يَسْبِقُ الْقَدْرِ لَسَبَقَهُ الْعَيْنَ‏.
 
 “Yes (there is no harm in it). Had there been something that could have
 superseded Divine fate and destiny, it should have been 'evil eye!'”[^1]
@@ -66,13 +58,9 @@ In another tradition it has been reported that the Commander of the
 Faithful (a.s.) said: The Noble Prophet (S) secured a charm for Imam
 Hasan and Imam Husayn (a.s.) and recited the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-أُعِيذُكُمَا بِكَلِمَاتِ اللٌّهِ التَّامَّةِاتِ وَ أَسْمَائِهِ
-الْحُسْنَى كُلِّهَا عَامَّةً مِنْ شَرِّ السَّامَّةِ وَ الْهَامَّةِ وَ
-مِنْ شَرِّ كُلِّ عَيْنٍ لاَمَّةٍ وَ مِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ.
-  </p>
-</blockquote>
+> أُعِيذُكُمَا بِكَلِمَاتِ اللٌّهِ التَّامَّةِاتِ وَ أَسْمَائِهِ
+> الْحُسْنَى كُلِّهَا عَامَّةً مِنْ شَرِّ السَّامَّةِ وَ الْهَامَّةِ وَ
+> مِنْ شَرِّ كُلِّ عَيْنٍ لاَمَّةٍ وَ مِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ.
 
 “I place you in the refuge of all of the Perfect Words and the Best
 Names of Allah (s.w.t.) from death, harmful animals, evil eye and from
@@ -83,11 +71,7 @@ for Isma'il and Ishaq.”[^2]
 
 In Nahjul Balaghah we read:
 
-<blockquote dir="rtl">
-  <p>
-الْعَيْنُ حَقٌّ وَ الرُّقَـى حَقٌ‏.
-  </p>
-</blockquote>
+> الْعَيْنُ حَقٌّ وَ الرُّقَـى حَقٌ‏.
 
 “Injury by the evil eye is true and resorting to prayers to ward away
 its evils is true too.”[^3] and [^4]
@@ -103,5 +87,4 @@ al-Nabawi, (vol. 4, pg. 451) this same meaning has been reported from
 various sources.
 
 [^4]: Tafsir-e-Namuna, vol. 24, pg. 426
-
 

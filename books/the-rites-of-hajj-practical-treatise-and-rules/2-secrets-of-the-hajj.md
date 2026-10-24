@@ -8,11 +8,7 @@ important philosophies that this great Islamic worship has.
 
 The holy Qur’an says in a short and meaningful sentence about Hajj that:
 
-<blockquote dir="rtl">
-  <p>
-لِیَشْهَدُوا مَنافِعَ لَهُم
-  </p>
-</blockquote>
+> لِیَشْهَدُوا مَنافِعَ لَهُم
 
 ***(Encourage people to perform Hajj) That they may witness advantages
 for them (22:28)***
@@ -86,5 +82,4 @@ generation.
 
 [^1]: These four philosophies have been quoted in a Hadith from Imam Ali
 ibn Mousa al-Reza (a.s.) (Wasael al-Shi’aa, vol. 8, page 7, Hadith 15)
-
 

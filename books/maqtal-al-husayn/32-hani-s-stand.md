@@ -106,4 +106,3 @@ Yemen: their fathers are Persian while their mothers are Arab.”
 Tawus, the name of Hani's wife was Rowayha daughter of ‘Amr Ibn
 al-Hajjaj.
 
-

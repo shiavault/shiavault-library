@@ -33,17 +33,9 @@ trials and afflictions so that he will not fall from the ranks of the
 repentant. This will purify him of his wrong actions, increase his
 knowledge, and elevate his rank. As Allah has said,
 
-
-<blockquote dir="rtl">
-  <p>
-فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
-الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ
+> الْكَاذِبِينَ
 
 ***Thus Allah will certainly know those who are truthful, and Allah will
 certainly know the liars.*** (29:3)
-
-
-
 

@@ -7,10 +7,8 @@ always been used to mean the habit of strengthening and taming the
 evil-prompting soul with its unquenchable desires. In this book, Imam
 Ali (a) is quoted to have said:
 
-<p dir="rtl">
 إن تقوی الله حمت‏ اولياء الله محارمه و الزمت قلوبهم مخافته حتی اسهرت
 لياليهم و اظمأت هواجرهم
-</p>
 
 Certainly fear of Allah has saved the lovers of Allah from the unlawful
 and has given His dread to their hearts till their nights are passed in
@@ -25,12 +23,10 @@ command to “fear God”.
 
 In another hadith, Imam ‘Ali (a) says:
 
-<p dir="rtl">
 ذمتی بما أقول رهينه و انا به‏ زعيم. ان من صرحت له العبر عما بين يديه من
 المثلات حجزته التقوی عن‏ تقحم الشبهات . الا و ان الخطايا خيل شمس حمل
 عليها اهلها و خلعت لجمها فتقحمت بهم فی النار الا و ان التقوی مطايا ذلل
 حمل عليها اهلها و اعطوا ازمتها فاوردتهم الجنه
-</p>
 
 The responsibility for what I say is guaranteed and I am answerable for
 it. He to whom experiences have clearly shown the past exemplary
@@ -60,19 +56,15 @@ As for the one reliant upon taqwa, it is like he is riding the horse of
 self-control and holds the reins of will. He handles himself in all
 directions. In this regard, Imam Ali (a) says:
 
-<p dir="rtl">
 فان التقوی فی اليوم الحرز و الجنه و فی غد الطريق الی الجنه
-</p>
 
 Certainly, for today piety is a protection and a shield, and for
 tomorrow (the Day of Judgment) it is the road to Paradise.7
 
 The Imam (a) expands on piety by presenting a very moving example:
 
-<p dir="rtl">
 ان التقوی دار حصن‏ عزيز و الفجور دار حصن ذليل لا يمنع اهله و لا يحرز من
 لجأ اليه
-</p>
 
 Know, O creatures of Allah, that piety is a strong house of protection
 while impiety is a weak house which does not protect its people, and
@@ -95,5 +87,4 @@ cried out and passed away.
 Thus, it is clear that taqwa is a spiritual state which is like a
 fortress, amulet, or a trained horse for the soul. In short, taqwa is a
 spiritual power.
-
 

@@ -493,12 +493,8 @@ he would add: ‘*ar-Rahmanir-Rahim’*.[^90]
 
 23. In al-Irshad of al-Daylami: When he (S) drank water he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي لَمْ يَجْعَلْهُ أُجَاجاً بِذُنُوبِنَا وَ
-جَعَلَهُ عَذْباً فُرَاتاً بِنِعْمَتِهِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي لَمْ يَجْعَلْهُ أُجَاجاً بِذُنُوبِنَا وَ
+> جَعَلَهُ عَذْباً فُرَاتاً بِنِعْمَتِهِ.
 
 *“All praise be to Allah, the One who did not make it (this water)
 bitter as a punishment for our sins, and made it sweet and quenching by
@@ -511,12 +507,8 @@ al-Ihya.[^92]
 in his Amali: When the Holy Prophet (S) had eaten a few morsels, he
 would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لَكَ الْحَمْدُ أَطْعَمْتَ وَ سَقَيْتَ وَ أَرْوَيْتَ فَلَكَ
-الْحَمْدُ غَيْرَ مَكْفُورٍ وَ لاَ مُوَدَّعٍ وَ لاَ مُسْتَغْنـى عَنْكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لَكَ الْحَمْدُ أَطْعَمْتَ وَ سَقَيْتَ وَ أَرْوَيْتَ فَلَكَ
+> الْحَمْدُ غَيْرَ مَكْفُورٍ وَ لاَ مُوَدَّعٍ وَ لاَ مُسْتَغْنـى عَنْكَ.
 
 *“O Allah! To You belongs all praise. You have fed, given drink and
 quenched the thirst; so all praise belongs to you, without ingratitude,
@@ -602,12 +594,8 @@ leg upright and the other relaxed.[^110]
 
 41. When the Holy Prophet (S) ate or drank he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَطْعَمَ وَ سَقى وَ سَوَّغَهَ وَ جَعَلَ
-لَهُ مَخْرَجاً.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَطْعَمَ وَ سَقى وَ سَوَّغَهَ وَ جَعَلَ
+> لَهُ مَخْرَجاً.
 
 *“All praise is for Allah, the One who gave food and drink, and allowed
 it to be consumed, and made a pathway and an outlet for it.”*[^111]
@@ -917,5 +905,4 @@ al-A’mal: 113
 [^117]: al-Mahasin: 460
 
 [^118]: al-Kafi 6:513, Wasa\`il al-Shi’ah 1:444
-
 

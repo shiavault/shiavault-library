@@ -1254,4 +1254,3 @@ Tabari 2:601; Kalā’i 1:123
 onwards; Ibn Sa’d 2:36, 47; Tabari 3:29, 565; Kala’i 1:104, 114; Watt:
 57
 
-

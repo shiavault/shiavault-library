@@ -1035,4 +1035,3 @@ one of the relatives of the family.
 
 [^3]: Final cessation of the menses at the age of about 50.
 
-

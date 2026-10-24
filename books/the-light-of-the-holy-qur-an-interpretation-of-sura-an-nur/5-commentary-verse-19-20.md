@@ -216,7 +216,6 @@ a dangerous path and still he continues his sin.
 Thus, Imam Ali (a.s.) in a tradition said: "The severest sin is the sin
 whose committer considers it light."[^1]
 
-
 **Section 3 : Slandering Chaste Women Commentary : Verse 21**
 
 Not to follow Satan’s steps for bids filth and evil – Slandering chaste
@@ -312,5 +311,4 @@ originally mean ‘to grow’ and ‘to cause to grow’, but in most cases they
 have been applied in the sense of: ‘to become clean’ and ‘to clean
 something’. They may have one root, because no growth and development
 occurs when evils and corruptions are not got rid of.
-
 

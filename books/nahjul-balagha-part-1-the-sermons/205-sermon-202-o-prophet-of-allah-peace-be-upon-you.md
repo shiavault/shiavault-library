@@ -5,18 +5,10 @@ Sermon 202: O Prophet of Allah, peace be upon you…
 Sayyidatu'n-nisa' (Supreme lady) Fatimah (p.b.u.h.) while addressing the
 Holy Prophet at his grave.*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام(
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام(
 
-<blockquote dir="rtl">
-  <p>
-روي عنه أنّه قاله عند دفن سيدة النساء فاطمة صلّى الله عليها، كالمناجي
-به رسول الله (صلى الله عليه وآله) عند قبره
-  </p>
-</blockquote>
+> روي عنه أنّه قاله عند دفن سيدة النساء فاطمة صلّى الله عليها، كالمناجي
+> به رسول الله (صلى الله عليه وآله) عند قبره
 
 O Prophet of Allah, peace be upon you from me and from your daughter who
 has come to you and who has hastened to meet you. O Prophet of Allah, my
@@ -29,30 +21,22 @@ passed (when your head was) between my neck and chest.
 ***... Verily we are Allah's and verily unto Him shall we return.***
 **(Qur'an 2:156)**
 
-<blockquote dir="rtl">
-  <p>
-السَّلاَمُ عَلَيْكَ يَا رَسُولَ اللهِ عَنِّي، وَعَنِ ابْنَتِكَ
-النَّازِلَةِ فِي جِوَارِكَ، وَالسَّرِيعَةِ اللَّحَاقِ بِكَ! قَلَّ يَا
-رَسُولَ اللهِ، عَنْ صَفِيَّتِكَ صَبْرِي، وَرَقَّ عَنْهَا تَجَلُّدِي،
-إِلاَّ أَنَّ لِي فِي التَّأَسِّيِ بِعَظِيمِ فُرْقَتِكَ، وَفَادِحِ
-مُصِيبَتِكَ، مَوْضِعَ تَعَزّ، فَلَقَدْ وَسَّدْتُكَ فِي مَلْحُودَةِ
-قَبْرِكَ، وَفَاضَتْ بَيْنَ نَحْرِي وَصَدْرِي نَفْسُكَ. (إنَّا لله
-وَإِنَّا إِلَيْهِ رَاجِعُونَ).
-  </p>
-</blockquote>
+> السَّلاَمُ عَلَيْكَ يَا رَسُولَ اللهِ عَنِّي، وَعَنِ ابْنَتِكَ
+> النَّازِلَةِ فِي جِوَارِكَ، وَالسَّرِيعَةِ اللَّحَاقِ بِكَ! قَلَّ يَا
+> رَسُولَ اللهِ، عَنْ صَفِيَّتِكَ صَبْرِي، وَرَقَّ عَنْهَا تَجَلُّدِي،
+> إِلاَّ أَنَّ لِي فِي التَّأَسِّيِ بِعَظِيمِ فُرْقَتِكَ، وَفَادِحِ
+> مُصِيبَتِكَ، مَوْضِعَ تَعَزّ، فَلَقَدْ وَسَّدْتُكَ فِي مَلْحُودَةِ
+> قَبْرِكَ، وَفَاضَتْ بَيْنَ نَحْرِي وَصَدْرِي نَفْسُكَ. (إنَّا لله
+> وَإِنَّا إِلَيْهِ رَاجِعُونَ).
 
 Now. the trust has been returned and what had been given has been taken
 back. As to my grief, it knows no bounds, and as to my nights. They will
 remain sleepless till Allah chooses for me the house in which you are
 now residing.
 
-<blockquote dir="rtl">
-  <p>
-فَلَقَدِ اسْتُرْجِعَتِ الْوَدِيعَةُ، وَأُخِذَتِ الرَّهِينَةُ! أَمَّا
-حُزْنِي فَسَرْمَدٌ، وَأَمَّا لَيْلِي فَمُسَهَّدٌ، إِلَى أَنْ يَخْتَارَ
-اللهُ لِي دَارَكَ الَّتِي أَنْتَ بِهَا مُقِيمٌ.
-  </p>
-</blockquote>
+> فَلَقَدِ اسْتُرْجِعَتِ الْوَدِيعَةُ، وَأُخِذَتِ الرَّهِينَةُ! أَمَّا
+> حُزْنِي فَسَرْمَدٌ، وَأَمَّا لَيْلِي فَمُسَهَّدٌ، إِلَى أَنْ يَخْتَارَ
+> اللهُ لِي دَارَكَ الَّتِي أَنْتَ بِهَا مُقِيمٌ.
 
 Certainly, your daughter would apprise you of the joining together of
 your [^1] *ummah* (people) for oppressing her. You ask her in detail and
@@ -63,21 +47,13 @@ neither in aversion nor in dislike, for if I go away it is not because I
 am weary (of you), and if I stay it is not due to lack of belief in what
 Allah has promised the endurers.
 
-<blockquote dir="rtl">
-  <p>
-وَسَتُنَبِّئُكَ ابْنَتُكَ بِتَضَافُرِ أُمَّتِكَ عَلَى هَضْمِهَا،
-فَأَحْفِهَا السُّؤَالَ، وَاسْتَخْبِرْهَا الْحَالَ، هذَا وَلَمْ يَطُلِ
-الْعَهْدُ، وَلَمْ يَخْلُ مِنْكَ الذِّكْرُ.
-  </p>
-</blockquote>
+> وَسَتُنَبِّئُكَ ابْنَتُكَ بِتَضَافُرِ أُمَّتِكَ عَلَى هَضْمِهَا،
+> فَأَحْفِهَا السُّؤَالَ، وَاسْتَخْبِرْهَا الْحَالَ، هذَا وَلَمْ يَطُلِ
+> الْعَهْدُ، وَلَمْ يَخْلُ مِنْكَ الذِّكْرُ.
 
-<blockquote dir="rtl">
-  <p>
-وَالْسَّلاَمُ عَلَيْكُمَا سَلاَمَ مُوَدِّع، لاَ قَال وَلاَ سَئم، فَإنْ
-أَنْصَرِفْ فَلاَ عَنْ مَلاَلَة، وَإِنْ أُقِمْ فَلاَ عَنْ سُوءِ ظَنٍّ
-بِمَا وَعَدَ اللهُ الصَّابِرِينَ.
-  </p>
-</blockquote>
+> وَالْسَّلاَمُ عَلَيْكُمَا سَلاَمَ مُوَدِّع، لاَ قَال وَلاَ سَئم، فَإنْ
+> أَنْصَرِفْ فَلاَ عَنْ مَلاَلَة، وَإِنْ أُقِمْ فَلاَ عَنْ سُوءِ ظَنٍّ
+> بِمَا وَعَدَ اللهُ الصَّابِرِينَ.
 
 Alternative Sources for Sermon 202
 ----------------------------------
@@ -116,5 +92,4 @@ With this aim in view, in order to crush her economic position, her
 claim for (the estate of) Fadak was turned down by dubbing it as false,
 the effect of which was that Sayyidatu'n-nisa' Fatimah (p.b.u.h.) made
 the dying will that none of them should attend her funeral.
-
 

@@ -253,4 +253,3 @@ course, in the Shi'ite faith, wherein belief in*imamah* is considered a
 part of*usul al-Din* ), and most of the issues related with the
 Resurrection.
 
-

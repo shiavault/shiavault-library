@@ -266,4 +266,3 @@ the real reading was “without reasonable grounds”.
 [^1]: Manuchihriyan, Banu Mahr angiz – Intiqad bar gavanin-e asasi va
 madani-e Iran.
 
-

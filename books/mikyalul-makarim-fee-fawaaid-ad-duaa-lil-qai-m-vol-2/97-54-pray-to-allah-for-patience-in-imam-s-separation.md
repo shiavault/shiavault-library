@@ -67,4 +67,3 @@ valor, self respect, goodness and truthfulness.[^2]
 
 [^2]: Usool Kafi, Vol. 2, Pg. 56, Tr. no. 3
 
-

@@ -37,4 +37,3 @@ The Ansariyan Publications is pleased to present this book to the dear
 readers for it believes in the necessity of shedding more light on the
 reality and significance of *Du'a*.
 
-

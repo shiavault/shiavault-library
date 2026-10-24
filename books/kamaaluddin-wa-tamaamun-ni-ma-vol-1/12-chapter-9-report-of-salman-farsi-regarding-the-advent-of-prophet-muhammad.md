@@ -211,4 +211,3 @@ My father. And Burdah has also mentioned this.
 
 [^1]: Fire worship
 
-

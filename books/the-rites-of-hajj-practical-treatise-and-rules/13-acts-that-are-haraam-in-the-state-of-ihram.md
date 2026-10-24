@@ -61,4 +61,3 @@ These acts are as follows:
 
 Explanation of these rulings will be cleared in later articles.
 
-

@@ -575,4 +575,3 @@ At-Tarikh.
 ‘l-ahadith, Beirut. 1409/1989. p. 372; ad-Durru ’l-Manthur, vol. 2, p.
 135.
 
-

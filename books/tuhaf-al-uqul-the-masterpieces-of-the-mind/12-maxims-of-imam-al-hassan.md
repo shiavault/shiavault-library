@@ -808,4 +808,3 @@ who refrains from greeting. 19. Imam Al-Hussein (peace be upon him)
 said: He who tries to achieve something through acting disobediently to
 God will miss what he expects and fall in what he fears.
 
-

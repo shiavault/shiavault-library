@@ -37,4 +37,3 @@ To ensure harmony efforts must be made to create a community of British
 Muslims rather than a community, or a number of communities, of Muslims
 in Britain.
 
-

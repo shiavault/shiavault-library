@@ -425,4 +425,3 @@ The Holy Qur’an says, "Give glad tidings to my servants who listen to
 what is said and follow the best thereof. They are those whom Allah has
 guided and those who have good sense."
 
-

@@ -154,7 +154,5 @@ need to follow a Mujtahid for them as these are known by everyone,
 therefore Taqlid is limited up to those laws and orders which are not
 absolutely established.
 
-
 [^1]: Surah Zukhruf 43:22
-
 

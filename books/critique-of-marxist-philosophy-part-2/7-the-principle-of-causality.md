@@ -82,4 +82,3 @@ introduction of indeterminacy is a problem of the observing subject,
 something which does not warrant the elimination of causal laws from the
 universe.
 
-

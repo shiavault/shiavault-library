@@ -22,4 +22,3 @@ for others; hence, He made them equivalent in their aspects, and made
 them necessitate each other, and made the obligation of some depend
 totally upon others.”
 
-

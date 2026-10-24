@@ -257,4 +257,3 @@ his part.
 
 [^8]: Dar Tarbiat, p. 142
 
-

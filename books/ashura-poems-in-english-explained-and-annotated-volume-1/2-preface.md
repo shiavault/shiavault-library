@@ -33,13 +33,10 @@ I would sincerely appreciate any comment, suggestion, contribution, or
 reminder. I can be reached at the following addresses:
 dr\_fakhr\_1385@yahoo.com or P. O. Box: 37185- 744, Qom, Iran.
 
-
 Qom, Iran
 Muhammad-Reza Fakhr-Rohani, Ph.D.
 
-
 14
-
 
 **Acknowledgments**
 
@@ -178,8 +175,6 @@ followers were the rigid believers of God, they illustrated that
 numerical superiority does not count when it comes to truth and
 falsehood. The victory of Husain despite his minority marvels me.
 
-
 Thomas Carlyle,
 Hero and Hero-worship
-
 

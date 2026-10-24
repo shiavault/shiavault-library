@@ -1844,4 +1844,3 @@ calendar used in Iran and became known as the uprising or movement of
 
 [^20]: - Refer to footnote 63.
 
-

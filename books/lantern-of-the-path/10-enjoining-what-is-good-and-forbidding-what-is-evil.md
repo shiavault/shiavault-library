@@ -9,19 +9,11 @@ not attained these aforementioned qualities, whatever affair he tackles
 in attempting to enjoin what is good and forbid what is evil will be a
 proof against him, and people will not benefit from it.
 
-
-<blockquote dir="rtl">
-  <p>
-أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ
-تَتْلُونَ الْكِتَابَ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
-
-
+> أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ
+> تَتْلُونَ الْكِتَابَ أَفَلاَ تَعْقِلُونَ
 
 Allah said, ***What! Do you enjoin men to be good and neglect your own
 souls?*** (2:44)
-
 
 Anyone who does that is called upon thus: Oh- traitor! Do you demand
 from My creation that which you have rejected for yourself and have
@@ -30,13 +22,8 @@ slackened the reins [in this regard] upon yourself?
 It is related that Tha'labah al-Asadi asked the Messenger of Allah
 about this verse:
 
-
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ عَلَيْكُمْ أَنفُسَكُمْ لاَ يَضُرُّكُم
-مَّن ضَلَّ إِذَا اهْتَدَيْتُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ عَلَيْكُمْ أَنفُسَكُمْ لاَ يَضُرُّكُم
+> مَّن ضَلَّ إِذَا اهْتَدَيْتُمْ
 
 *** ***
 ***O you who believe! Take care of your souls; he who errs cannot hurt
@@ -64,6 +51,4 @@ Allah, and seek His help and desire Him. But if people oppose him and
 are harsh to him, he must be patient; and if they agree with him and
 accept his verdict, he must be thankful, entrusting his affair to Allah
 and looking to his own faults.
-
-
 

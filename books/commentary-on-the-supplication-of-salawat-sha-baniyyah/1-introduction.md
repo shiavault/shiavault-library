@@ -49,4 +49,3 @@ piece of gold and inspired us to delve in the deep waters of this
 supplication hoping by His help and guidance to discover something
 beneficial and worthwhile for this life and the hereafter.
 
-

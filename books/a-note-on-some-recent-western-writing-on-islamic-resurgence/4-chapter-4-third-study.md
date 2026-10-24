@@ -98,4 +98,3 @@ chapter one.
 [^24]. Karl Popper, The Open Society and Its Enemies, two volumes
 (Princeton: Princeton University Press, 1962).
 
-

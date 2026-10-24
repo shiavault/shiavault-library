@@ -24,4 +24,3 @@ am leaving among you the Two Weighty Things: the Book of Allah, and my
 progeny, that is, my family; you shall never go astray so long as you
 follow them both."
 
-

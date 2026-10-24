@@ -239,4 +239,3 @@ look at the city of Qum.
 
 ISBN 964-438-455-5
 
-

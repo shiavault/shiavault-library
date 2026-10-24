@@ -46,4 +46,3 @@ which says: “The Mahdī will direct desires . . .”; Shaykh Muḥammad
 \`Abduh—the Egyptian jurist—and ibn Abī l-Ḥadīd have both stated that
 this section of Nahj al-balāgha refers to the Mahdī.
 
-

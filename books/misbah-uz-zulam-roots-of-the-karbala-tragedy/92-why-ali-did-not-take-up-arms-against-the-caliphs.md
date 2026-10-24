@@ -58,4 +58,3 @@ only four companions of the Prophet were on his side: Miqdad, Ammar,
 Salman and Abu Dharr. On the other hand, most companions of the Prophet
 became aloof from him and were in support of the three Caliphs.
 
-

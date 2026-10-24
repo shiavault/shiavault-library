@@ -74,4 +74,3 @@ and feminine words. If the described word is not mentioned a feminine
 has the meaning of an actor the feminine *tā'* is always used to make it
 feminine, for example **بَقرةٌ حَلوبة.**
 
-

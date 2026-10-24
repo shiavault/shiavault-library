@@ -110,4 +110,3 @@ as a result, Allah’s anger upon him will increase.”*
 
 [^3]: The Qur’an 26:89.
 
-

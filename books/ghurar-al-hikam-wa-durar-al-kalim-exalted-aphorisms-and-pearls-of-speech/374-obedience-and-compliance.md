@@ -15,32 +15,20 @@ Obedience And Compliance
 superior to everything; and espouse piety.
 
 > 3ـ أطِعِ اللّهَ في جُمَلِ أُمُورِكَ، فَإنَّ طاعَةَ اللّهِ فاضِلَةٌ
-<blockquote dir="rtl">
-  <p>
-عَلى كُلِّ شَيْء، واَلْزِمِ الوَرَعَ.
-  </p>
-</blockquote>
+> عَلى كُلِّ شَيْء، واَلْزِمِ الوَرَعَ.
 
 4. Obey Allah, the Glorified, in every situation, and do not empty your
 heart of His fear and His hope even for a split second, and always seek
 forgiveness [from Him].
 
 > 4ـ أطِعِ اللّهَ سُبْحانَهُ في كُلِّ حال، ولا تُخْلِ قَلْبَكَ مِنْ
-<blockquote dir="rtl">
-  <p>
-خَوْفِهِ ورَجائِهِ طَرْفَةَ عَيْن، واَلْزَمِ الاِسْتِغْفارَ.
-  </p>
-</blockquote>
+> خَوْفِهِ ورَجائِهِ طَرْفَةَ عَيْن، واَلْزَمِ الاِسْتِغْفارَ.
 
 5. Obey the one who is above you and the one who is under you will obey
 you; rectify your inner self and Allah will rectify your outer state.
 
 > 5ـ أطِعْ مَنْ فَوْقَكَ، يُطِعْكَ مَنْ دُونَكَ، وأصْلِحْ سَريرَتَكَ
-<blockquote dir="rtl">
-  <p>
-يُصْلِحِ اللّهُ علانِيَتَكَ.
-  </p>
-</blockquote>
+> يُصْلِحِ اللّهُ علانِيَتَكَ.
 
 6. Obey Allah in accordance with what His Prophets have commanded you.
 
@@ -51,21 +39,13 @@ to their commands and be obedient to them, [as a result] you will be
 included in their intercession.
 
 > 7ـ اِسْتَجيبُوا لأنْبِياءِ اللّهِ، وسَلِّمُوا لأمْرِهِمْ، واعْمَلُوا
-<blockquote dir="rtl">
-  <p>
-بِطاعَتِهِمْ، تَدْخُلُوا في شَفاعَتِهِمْ.
-  </p>
-</blockquote>
+> بِطاعَتِهِمْ، تَدْخُلُوا في شَفاعَتِهِمْ.
 
 8. Beware of being missed by your Lord in His worship, or being seen by
 Him in His disobedience thereby making Him displeased with you.
 
 > 8ـ إيّاكَ أنْ يَفْقُدَكَ رَبُّكَ عِنْدَ طاعَتِهِ، أوْ يَراكَ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-مَعْصِيَتِهِ فَيَمْقَتَكَ.
-  </p>
-</blockquote>
+> مَعْصِيَتِهِ فَيَمْقَتَكَ.
 
 9. Achievement of goodness is through maintaining obedience.
 
@@ -107,11 +87,7 @@ are most steadfast in His obedience.
 escape and the one whom you cannot turn down.
 
 > 17ـ أحَقُّ مَنْ تُطيعُهُ مَنْ لاتَجِدُ مِنْهُ بُدّاً وَلاتَسْتَطيعُ
-<blockquote dir="rtl">
-  <p>
-لأمْرِهِ رَدّاً.
-  </p>
-</blockquote>
+> لأمْرِهِ رَدّاً.
 
 18. The most deserving of [obedience from] those whom you obey is the
 one who orders you to [maintain] piety and forbids you from [following]
@@ -124,21 +100,13 @@ progeny, is one who obeys Allah even if his close relatives distance
 themselves from him [because of it].
 
 > 19ـ إنَّ وَلِيَّ مُحَمّدصلَّى اللّه عليه وآله وسلَّم مَنْ أطاعَ اللّهَ
-<blockquote dir="rtl">
-  <p>
-وإنْ بَعُدَتْ لُحْمَتُهُ.
-  </p>
-</blockquote>
+> وإنْ بَعُدَتْ لُحْمَتُهُ.
 
 20. Verily Allah, the Glorified, has made obedience an advantage for the
 sagacious when the incapable ones fall short.
 
 > 20ـ إنَّ اللّهَ سُبْحانَهُ جَعَلَ الطّاعَةَ غَنِيمَةَ الأكْياسِ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-تَفْريطِ العَجَزَةِ.
-  </p>
-</blockquote>
+> تَفْريطِ العَجَزَةِ.
 
 21. Obedience saves and disobedience destroys.
 
@@ -198,11 +166,7 @@ before you, and I do not forbid you from any disobedience except that I
 desist from it before you.
 
 > 34ـ إنّي لا أحُثُّكُمْ عَلى طاعَة إلاّ وأسْبِقُكُمْ إلَيْها ولا
-<blockquote dir="rtl">
-  <p>
-أنْهاكُمْ عَنْ مَعْصِيَة إلاّ وأتَناهى قَبْلَكُمْ عَنْها.
-  </p>
-</blockquote>
+> أنْهاكُمْ عَنْ مَعْصِيَة إلاّ وأتَناهى قَبْلَكُمْ عَنْها.
 
 35. Verily if you obey Allah, He will save you and make your [final]
 abode good.
@@ -253,23 +217,15 @@ righteous deeds, keep away from evil acts and make haste towards good
 acts, and keep away from doing what is forbidden.
 
 > 45ـ ثابِرُوا عَلَى الطّاعاتِ، وسارِعُوا إلى فِعْلِ الخَيْراتِ،
-<blockquote dir="rtl">
-  <p>
-وتَجَنَّبـُوا السَّيِّئاتِ، وبادِرُوا إلى فِعْلِ الحَسَناتِ،
-وتَجَنَّبُوا اِرْتِكابَ المَحارِمِ.
-  </p>
-</blockquote>
+> وتَجَنَّبـُوا السَّيِّئاتِ، وبادِرُوا إلى فِعْلِ الحَسَناتِ،
+> وتَجَنَّبُوا اِرْتِكابَ المَحارِمِ.
 
 46. Stop following [the path of] aggression and obduracy, and follow the
 path of obedience and submission [to Allah], [by this] you will be happy
 in the Hereafter.
 
 > 46ـ دَعُوا طاعَةَ البَغْيِ والعِنادِ، واسْلُكُوا سَبيلَ الطّاعَةِ
-<blockquote dir="rtl">
-  <p>
-والإنْقِيادِ تَسْعَدُوا فِي المَعادِ.
-  </p>
-</blockquote>
+> والإنْقِيادِ تَسْعَدُوا فِي المَعادِ.
 
 47. Whoever embarks on [the ship of] obedience [to Allah], his port of
 call is Paradise.
@@ -281,11 +237,7 @@ actions, but if you fall short, then be careful not to fall short in
 performing that which is obligatory.
 
 > 48ـ سارِعُوا إلَى الطّاعاتِ، وسابِقُوا إلى فِعْلِ الصَّالِحاتِ فَإنْ
-<blockquote dir="rtl">
-  <p>
-قَصَّرْتُمْ فَإيّاكُمْ وأنْ تُقَصِّرُوا عَنْ أداءِ الفَرائِضِ.
-  </p>
-</blockquote>
+> قَصَّرْتُمْ فَإيّاكُمْ وأنْ تُقَصِّرُوا عَنْ أداءِ الفَرائِضِ.
 
 49. Blessed is the one who observes obedience to his Lord.
 
@@ -300,41 +252,25 @@ dispraised vain desires.
 one who shows him the way and by obeying the guide who instructs him.
 
 > 51ـ طُوبى لِمَنْ سَلَكَ طَريقَ السَّلامَةِ بِبَصَرِ مَنْ بَصَّرَهُ،
-<blockquote dir="rtl">
-  <p>
-وطاعَةِ هاد أمَرَهُ.
-  </p>
-</blockquote>
+> وطاعَةِ هاد أمَرَهُ.
 
 52. Blessed is the one who is successful in his obedience [to Allah],
 has a good character and safeguards the affair of his Hereafter.
 
 > 52ـ طُوبى لِمَنْ وُفِّقَ لِطاعَتِهِ، وحَسُنَتْ خَليقَتُهُ، وأحْرَزَ
-<blockquote dir="rtl">
-  <p>
-أمْرَ آخِرَتِه.
-  </p>
-</blockquote>
+> أمْرَ آخِرَتِه.
 
 53. Obedience to Allah, the Glorified, is not attained except by the one
 who strives [for it] and spares no effort [in attaining it].
 
 > 53ـ طاعَةُ اللّهِ سُبْحانَهُ لايَحُوزُها إلاّ مَنْ بَذَلَ الجِدَّ،
-<blockquote dir="rtl">
-  <p>
-واسْتَفْرَغَ الجُهْدَ.
-  </p>
-</blockquote>
+> واسْتَفْرَغَ الجُهْدَ.
 
 54. Obedience to Allah is the key to [every] right action and the
 rectification of [every] corruption (or of the Hereafter).
 
 > 54ـ طاعَةُ اللّهِ مِفْتاحُ (كُلِّ) سَداد، وَصَلاحُ (كُلِّ)
-<blockquote dir="rtl">
-  <p>
-فَساد(مَعاد).
-  </p>
-</blockquote>
+> فَساد(مَعاد).
 
 55. Obedience to Allah, the Glorified, is the highest pillar and the
 strongest accoutrement.
@@ -345,11 +281,7 @@ strongest accoutrement.
 for the one who obeys Him in this world.
 
 > 56ـ ظِلُّ اللّهِ سُبْحانَهُ فِي الآخِرَةِ مَبْذُولٌ لِمَنْ أطاعَهُ فِي
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
+> الدُّنيا.
 
 57. You must obey the One whom you cannot be excused for being ignorant
 about.
@@ -360,22 +292,14 @@ about.
 obedience to Allah is superior to everything.
 
 > 58ـ عَلَيْكَ بِطاعَةِ اللّهِ سُبْحانَهُ، فَإنَّ طاعَةَ اللّهِ فاضِلَةٌ
-<blockquote dir="rtl">
-  <p>
-عَلى كُلِّ شَيْء.
-  </p>
-</blockquote>
+> عَلى كُلِّ شَيْء.
 
 59. You must obey the one who commands you to religion [and the
 obedience of Allah] for verily he is guiding you and saving you [from
 chastisement in the Hereafter].
 
 > 59ـ عَلَيْكَ بِطاعَةِ مَنْ يَأمُرُكَ بِالدِّينِ فَإنَّهُ يَهْدِيكَ
-<blockquote dir="rtl">
-  <p>
-ويُنْجيكَ.
-  </p>
-</blockquote>
+> ويُنْجيكَ.
 
 60. Obedience is proportionate to [one’s] intellect.
 
@@ -399,11 +323,7 @@ it would have still been obligatory to worship Him out of hope for His
 mercy.
 
 > 64ـ لَوْ لَمْ يُرَغِّبِ اللّهُ سُبْحانَهُ في طاعَتِهِ لَوَجَبَ أنْ
-<blockquote dir="rtl">
-  <p>
-يُطاعَ رَجاءَ رَحْمَتِهِ.
-  </p>
-</blockquote>
+> يُطاعَ رَجاءَ رَحْمَتِهِ.
 
 65. One who obeys Allah, has sought [His] assistance (or has seen the
 truth).
@@ -424,21 +344,13 @@ greater [than what he would get by following other paths].
 come to him without any trade.
 
 > 68ـ مَنِ اتَّخَذَ طاعَةَ اللّهِ بِضاعَةً أتَتْهُ الأرْباحُ مِنْ غَيْرِ
-<blockquote dir="rtl">
-  <p>
-تِجارَة.
-  </p>
-</blockquote>
+> تِجارَة.
 
 69. One who does not commence with sincere intention in his obedience
 [and worship] is not successful in gaining rewards.
 
 > 69ـ مَنْ لَمْ يُقَدِّمْ إخْلاصَ النِّيَّةِ فِي الطَّاعاتِ لَمْ
-<blockquote dir="rtl">
-  <p>
-يَظْفَرْ بِالمَثُوباتِ.
-  </p>
-</blockquote>
+> يَظْفَرْ بِالمَثُوباتِ.
 
 70. One whose obedience increases, his honor increases.
 
@@ -481,21 +393,13 @@ has [truly] gained success.
 towards obedience to Allah.
 
 > 78ـ وَقُّوا أنْفُسَكُمْ مِنْ عَذابِ اللّهِ بِالمُبادَرَةِ إلى طاعَةِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ.
 
 79. Do not apologize for an affair in which you have obeyed Allah, the
 Glorified, for this suffices as a [commendable] virtue.
 
 > 79ـ لاتَعْتَذِرْ مِنْ أمْر أطَعْتَ اللّهَ سُبْحانَهُ فيهِ، فَكَفى
-<blockquote dir="rtl">
-  <p>
-بِذلِكَ مَنْقَبَةً.
-  </p>
-</blockquote>
+> بِذلِكَ مَنْقَبَةً.
 
 80. There is no honour like obedience [to Allah].
 
@@ -516,12 +420,8 @@ approaching you. He is calling you to His forgiveness and covering you
 with His kindness.
 
 > 83ـ كُنْ مُطيعاً لِلّهِ سُبْحانَهُ، وَبِذِكْرِهِ آنِساً، وتَمَثَّلْ في
-<blockquote dir="rtl">
-  <p>
-حالِ تَوَلِّيكَ عَنْهُ إقْبالَهُ عَلَيْكَ، يَدْعُوكَ إلى عَفْوِهِ،
-ويَتَغَمَّدُكَ بِفَضْلِهِ.
-  </p>
-</blockquote>
+> حالِ تَوَلِّيكَ عَنْهُ إقْبالَهُ عَلَيْكَ، يَدْعُوكَ إلى عَفْوِهِ،
+> ويَتَغَمَّدُكَ بِفَضْلِهِ.
 
 84. One who obeys his Lord gains authority.
 
@@ -555,11 +455,7 @@ with His kindness.
 from among the people.
 
 > 91ـ مَنْ أطاعَ اللّهَ سُبْحانَهُ لَمْ يَضُـرَّهُ مَنْ أسْخَطَ مِنَ
-<blockquote dir="rtl">
-  <p>
-النّاسِ.
-  </p>
-</blockquote>
+> النّاسِ.
 
 92. Whoever obeys Allah, He chooses him [to be among those who are close
 to Him].
@@ -568,5 +464,4 @@ to Him].
 
 [^1]: Meaning that one must never obey anyone if it leads to disobeying
 Allah.
-
 

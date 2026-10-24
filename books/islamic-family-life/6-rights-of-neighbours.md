@@ -53,4 +53,3 @@ listen to you. Never leave him alone at any calamity. Forgive him, if he
 has done any wrong. In short, live with him a noble life, based on the
 highest Islamic ethical code.
 
-

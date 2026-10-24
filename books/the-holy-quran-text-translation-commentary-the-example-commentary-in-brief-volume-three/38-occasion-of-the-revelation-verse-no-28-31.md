@@ -17,7 +17,6 @@ prophet to keep patient with those who call on their Lord in the morning
 and evening, seeking His presence; and to turn away from them in quest
 of the splendour of the present life.
 
-
 [ 638 ]
 THE BAREFOOTED CLEAN HEARTS
 
@@ -47,7 +46,6 @@ this world, until he meets his dreadful end. But the righteous believer
 will be rewarded beyond his merits, and a tenfold return for every good
 action of his so as to prepare him for the excellent and eternal life in
 the gardens of bliss, in the Paradise.
-
 
 وَاضْرِبْ لَهُمْ مَّثَلا رَّجُلَيْنِ جَعَلْنَا لاَِحَدِهِمَا
 جَنَّتَيْنِ مِنْ أَعْنَاب وَحَفَفْنَاهُمَا بِنَخْل وَجَعَلْنَا
@@ -84,11 +82,9 @@ GARDEN). THEN HE SAID TO HIS FRIEND WHEN HE WAS DISPUTING WITH HIM:ِ
 36- AND I DON'T THINK THE HOUR WILL COME ON. AND EVEN IF I RETURNED TO
 MY LORD I WILL FIND BETTER THAN IT IN EXCHANGE.
 
-
 [ 640 ]
 
 THE COMMENTARY
-
 
 THE ILLUSTRATION OF A MATERIALIST WITH PRIDE,
 
@@ -119,7 +115,6 @@ his power would never diminish, and looked at his friend with a
 contemptible eye and scornful gaze! But he was more unjust to himself
 than his friend, and knew not that his vanity and pride was ruining him
 and all that he had.
-
 
 قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ
 مِنْ تُرَاب ثُمَّ مِنْ نُّطْفَة ثُمَّ سَوَّاكَ رَجُلا(( 37 ))
@@ -157,11 +152,9 @@ IN SHOWER) THEN IN THE MORNING YOU FIND IT A SLIPPERY BARREN WASTE.
 41- OR IT BEGIN THE DAY WITH ITS WATER HAVING SUNK DOWN, SO THAT YOU
 WILL NOT BE ABLE TO FIND IT AGAIN.
 
-
 [ 642 ]
 
 THE COMMENTARY
-
 
 THE ANSWER OF THE HUMBLE BELIEVER (VERSE NO. 37 - 41)
 
@@ -196,7 +189,6 @@ In general sense of meaning the Arabic HOSBA"N is any kind of
 punishment by way of reckoning. But it also implies a punishment by
 hail-stone and thunderbolt.
 
-
 [ 643 ]
 
 وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَى مَا أَنفَقَ
@@ -221,9 +213,7 @@ ABLE TO HELP HIMSELF.
 IS THE BEST TO REWARD, AND THE BEST FOR THE END. (OF THOSE WHO OBEY
 GOD).
 
-
 THE COMMENTARY
-
 
 AND THIS IS HOW IT ENDS. (VERSE NO. 42 - 44)
 
@@ -306,7 +296,6 @@ NO.42)
 \`\`Would that I had associated no one with my Lord.'' He did say so,
 but it was too late!
 
-
 وَاضْرِبْ لَهُمْ مَّثَلَ الْحَيَاةِ الدُّنْيَا كَمَاء أَنزَلْنَاهُ مِنْ
 السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الاَْرْضِ فَأَصْبَحَ هَشِيماً
 تَذْرُوهُ الرِّيَاحُ وَكَانَ اللهُ عَلَى كُلِّ شَيْء مُّقْتَدِراً(( 45
@@ -326,9 +315,7 @@ WINDS SCATTER IT, AND ALLAH HAS ALWAYS HAD POWER OVER EVERYTHING.
 GOOD DEEDS THAT LAST, ARE BETTER IN THE SIGHT OF ALLAH, AS REWARDS AND
 BETTER IN HOPE.
 
-
 THE COMMENTARY
-
 
 THE BEGINING AND END OF LIFE IN A LIVELY PICTURE (VERSE NO. 45 - 46)
 
@@ -354,7 +341,6 @@ swiftly away!
 Only the righteous deeds have a lasting value in the sight of God, and
 may become the foundation of our hopes for God's rewards in the
 Hereafter.
-
 
 [ 647 ]
 
@@ -389,7 +375,6 @@ ALL THAT THEY DID IT PRESENT, AND YOUR LORD WILL OPPRESS NO ONE.
 
 THE COMMENTARY
 
-
 WOE UNTO US! (VERSE NO. 47 - 49)
 
 The immediate reference here is to three stages of the Resurrection;
@@ -415,7 +400,6 @@ Then the record of our deeds will be given in our hand to convince us
 of what We have done. In our record nothing is omitted, and nothing is
 entered wrongly. If there is a punishment, it has been earned by the
 sinner himself, and God will oppress no one the least.
-
 
 وَإِذْ قُلْنَا لِلْمَلاَئِكَةِ اسْجُدُوا لاَِدَمَ فَسَجَدُوا إِلاَّ
 إِبْلِيسَ كَانَ مِنْ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ
@@ -455,7 +439,6 @@ FALL IN IT, AND WILL NOT FIND A MEANS TO TURN THEM AWAY.
 
 THE COMMENTARY
 
-
 DON'T MAKE MASTERS OF SATANS (VERSE NO. 50 - 53)
 
 Once again the argument returns to the fall of Mankind through IBLIS,
@@ -487,7 +470,6 @@ call on those whom they thought to have been God's partners. They will
 call them, but they receive no answer at all, because there is a part or
 partition of Perdition between the two parties.
 
-
 وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْآنِ لِلنَّاسِ مِنْ كُلِّ مَثَل
 وَكَانَ الاِْنسَانُ أَكْثَرَ شَيْء جَدَلا(( 54 ))
 
@@ -513,9 +495,7 @@ AND WARNERS. AND THE UNBELIEVERS DISPUTE WITH FALSEHOOD, IN ORDER TO
 CONFOUND THE TRUTH, BY IT, AND THEY TOOK IN MOCKERY MY SIGNS AND
 WARNINGS.
 
-
 THE COMMENTARY
-
 
 AS IF THEY WAIT FOR PUNISHMENT ONLY (VERSE NO. 54 - 56)
 
@@ -549,7 +529,6 @@ The Messenger's duty is to warn us of the dangers of evil, and give us
 glad-tidings of the life to come with all its splendour, lest we abandon
 to despair when we see the death of our dearers and nearers.
 
-
 وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ فَأَعْرَضَ عَنْهَا
 وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ إِنَّا جَعَلْنَا عَلَى قُلُوبِهِمْ
 أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْراً وَإِنْ تَدْعُهُمْ
@@ -579,9 +558,7 @@ REFUGE.
 DESTROYED THEM WHEN THEY OPPRESSED; AND WE APPOINTED FOR THEIR
 DESTRUCTION AN APPOINTED TIME.
 
-
 THE COMMENTARY
-
 
 ALLAH HASTENS NOT HIS PUNISHMENT (VERSE NO. 57 - 59)
 
@@ -606,7 +583,6 @@ hands have forwarded many wrongs and the prophets have come to
 
 cleanse us from the dirt and filth of our forgotten sins.
 
-
 But if in such a case he is reminded by the signs of God, and he still
 rejects to repent and return; he is indeed the greatest of oppressors to
 himself! He now deserves to fall down into the abyss of ignorance,
@@ -621,7 +597,6 @@ abyss of ignorance.
 [ 655 ]
 
 THANKS FOR HELP
-
 
 When his Holiness HAZRAT AYATULLAH-AL-OZMA", NASIR MAKARIM SHIRAZI, in
 the MARCH 1999, ordered me to start translating an expressive summary of
@@ -665,7 +640,6 @@ In this third volume of the work, I also owe much to my dear colleague,
 Miss Poora"n Pebdani, who earnestly did all the typings, computer work,
 corrections, and the layout work of the book.
 
-
 Then I owe a lot of my present attempts to the following translators of
 Qura"n, books, and publishers:ِ
 
@@ -683,7 +657,6 @@ Qura"n, books, and publishers:ِ
 
 7- ARABIC / PERSIAN DICTIONARYِBY: SAYYED HAMID TEBIBIYAN
 
-
 MANSOOR AMINYِBAGHBADORANI
 
 1st. MAY 2002=11 / 2 / 1381
@@ -698,7 +671,5 @@ Tel.NO. 0335ِ6223781
 
 FAX. 6223781
 
-
 THE END OF THE THIRD VOLUME
-
 

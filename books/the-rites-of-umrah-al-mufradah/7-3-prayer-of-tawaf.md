@@ -425,4 +425,3 @@ bestow the benefit of each round on one person.[^1]
 
 [^1]: Wasael al-Shi’aa, vol. 9, page 398.
 
-

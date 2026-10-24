@@ -3,11 +3,7 @@ Lesson Four: Role of The Pen
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"ما رَأَيْتٌ باكِياً اَحْسَنَ تَبَسُّماً مِنَ القَلَمِ!”
-  </p>
-</blockquote>
+> "ما رَأَيْتٌ باكِياً اَحْسَنَ تَبَسُّماً مِنَ القَلَمِ!”
 
 Translation
 -----------
@@ -30,5 +26,4 @@ person, its tears will change to drops of blood, and its smile is a
 snicker on the utmost human credits.
 
 [^1]: from the book Lataef wa Zaraef
-
 

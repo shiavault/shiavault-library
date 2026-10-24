@@ -52,7 +52,6 @@ great sin.
 6 al-Kaafi, vol. 4, p 255
 7 Man La Yadheroho al-Faqih, vol. 2, p 447
 
-
 **PART 1 – The Categories of Hajj**
 
 1. The Hajj is either obligatory or mostahab (desirable, optional), and
@@ -371,5 +370,4 @@ go to the Hajj, he would have to spend everything that he owns to the
 extent that he would be destitute, even though it would then be possible
 for him to survive by accepting donation collected for the poor, for
 example.
-
 

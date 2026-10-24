@@ -532,4 +532,3 @@ intentionally ignored this matter as they have ignored many matters.
 
 [^10]: Al-Mufid, al-Irshad, p. 168. al-Anwar. Kashf al-Ghumma.
 
-

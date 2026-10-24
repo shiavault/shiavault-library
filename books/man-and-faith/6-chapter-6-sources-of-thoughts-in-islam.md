@@ -71,4 +71,3 @@ them in the horizons of the external world and within themselves, until
 it becomes clear to them that the Qur'an is the truth." (Surah Fussilat,
 41:53)
 
-

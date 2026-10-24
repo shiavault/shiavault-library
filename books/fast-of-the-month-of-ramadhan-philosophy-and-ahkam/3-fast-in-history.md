@@ -45,4 +45,3 @@ for the pre-Easter fast among some Christians. Other Christian
 theologians started other types of fast during which they do not eat
 meat, fish, or eggs.
 
-

@@ -19,14 +19,9 @@ Reliance On Allah
 escape him, his heart becomes relaxed.
 
 > 4ـ مَنْ وَثِقَ بِأنَّ ما قَدَرَ اللّهُ لَهُ لَنْ يَفُوتَهُ اسْتَراحَ
-<blockquote dir="rtl">
-  <p>
-قَلْبُهُ.
-  </p>
-</blockquote>
+> قَلْبُهُ.
 
 5. Many a person who relies on something [or someone] gets ashamed.
 
 > 5ـ رُبَّ واثِق خَجِل.
-
 

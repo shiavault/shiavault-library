@@ -208,4 +208,3 @@ his government.
 Muhammad's government was the Kingdom of Heaven on Earth, but after his
 death, it became an “Aristotelian” government.
 
-

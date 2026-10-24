@@ -464,4 +464,3 @@ of their religion. Nowhere on the earth were current the practices or
 original teachings of any of the apostles of God. Corruption ruled all
 over the earth, and vice and wickedness had darkened it altogether.
 
-

@@ -86,7 +86,6 @@ Baqir (A.S) and Zayd, the martyr These books remained in the family of
 Imam Zaiunul Abidin from generation to generation and has survived till
 today.
 
-
 **Sahifa-E-Kamila**
 
 The "Sahifa" as we know it today is a collection of 54 Supplications, I
@@ -233,5 +232,4 @@ of any bad things about him keep that secret. If you know he will accept
 your advice then give it to him. Do not leave him alone when he is in
 trouble. Help him out of his troubles, forgive him if he has wronged you
 and treat him generously.
-
 

@@ -19,4 +19,3 @@ Zain-ul-'Abidin - “The Glory of the Devout.” He lived in retirement,
 studying, interpreting, and teaching his father's high spiritual
 principles for the rest of his life.
 
-

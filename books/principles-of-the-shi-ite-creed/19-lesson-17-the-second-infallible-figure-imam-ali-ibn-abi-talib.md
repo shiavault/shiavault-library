@@ -99,4 +99,3 @@ appointee. [^3]
 [^3]: Al-Fosul al-Muhimmah, Tehran, p. 129 and Safinah al-Bihar, vol. 1,
 p. 672.
 
-

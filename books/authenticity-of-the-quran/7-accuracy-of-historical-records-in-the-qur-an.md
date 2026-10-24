@@ -114,4 +114,3 @@ desert came to know that the body of Fir’aun would be rescued for future
 generations to learn a lesson?   
   
 
-

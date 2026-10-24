@@ -1,11 +1,7 @@
 Foreword
 ========
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 The concept of morality has existed since the creation of mankind. In
 the old days, there was a clear distinction between ‘good’ morals and
@@ -39,5 +35,4 @@ Islamic Education Board
 *The World Federation of K S I Muslim Communities*  
 *Sha’baan 1424*  
 *October 2003*
-
 

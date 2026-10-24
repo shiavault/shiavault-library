@@ -132,4 +132,3 @@ reactions of a human being to his environment.
 principle, but a dynamic force or presence; opposite of *'adam*
 (non-being)
 
-

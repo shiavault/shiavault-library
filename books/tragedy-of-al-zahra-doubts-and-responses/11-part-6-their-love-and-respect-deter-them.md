@@ -881,23 +881,11 @@ never acquainted anyone at all with her grave site in compliance with
 her own will and in loving her. Ibn Abu Qara’ah, who died in 367
 A.H./977 A.D., says the following verses of poetry:
 
-<blockquote dir="rtl">
-  <p>
-ولأي حال لحدت \* بالليل فاطمة الشريفة؟
-  </p>
-</blockquote>
+> ولأي حال لحدت \* بالليل فاطمة الشريفة؟
 
-<blockquote dir="rtl">
-  <p>
-ولما حمت شيخيكم \* عن وطئ حجرتها المنيفة؟
-  </p>
-</blockquote>
+> ولما حمت شيخيكم \* عن وطئ حجرتها المنيفة؟
 
-<blockquote dir="rtl">
-  <p>
-أوه لبنت محمد \* ماتت بغصتها أسيفة
-  </p>
-</blockquote>
+> أوه لبنت محمد \* ماتت بغصتها أسيفة
 
 *For what was Fatima, the Honorable One, buried at night?*
 
@@ -1473,5 +1461,4 @@ al-Anwar, Vol. 43, p. 91. It is also narrated by al-Maghazli, pp.
 of Al-Ja\`fariyyat and p. 14 of al-Rawandi’s Nawadir. Al-Majlisi, Bihar
 al-Anwar, Vol. 43, p. 92 and Vol. 100, p. 250. \`Awalim al-\`Ulum, Vol.
 11, p. 123.
-
 

@@ -1481,4 +1481,3 @@ pg.1125, hadith no.8781.
 [^129]: Usul al-Kafi, vol.2, pg.342; Man La Yahduruhu al-Faqih, vol.1,
 pg.107; and Bihar al-Anwar, vol.93, pg.307.
 
-

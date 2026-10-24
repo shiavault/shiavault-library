@@ -11,14 +11,9 @@ upon him!
 the onslaught of death.
 
 > 2ـ مُسَوِّفُ نَفْسِهِ بِالتَّوْبَةِ مِنْ هُجُومِ الأجَلِ عَلى أعْظَمِ
-<blockquote dir="rtl">
-  <p>
-الخَطَرِ.
-  </p>
-</blockquote>
+> الخَطَرِ.
 
 3. One who procrastinates in seeking repentance has no faith.
 
 > 3ـ لا دِينَ لِمُسَوِّف بِتَوْبَتِهِ.
-
 

@@ -235,7 +235,6 @@ Ninth imam: Imam Muhammad (as) bin Ali (as) (Taqi)
 Tenth imam: Imam Ali (as) bin Muhammad (as) (Naqi)
 Eleventh imam: Imam Hasan (as) bin Ali (as) ( Askari)
 
-
 **Twelfth Imam (ajf)**
 
 This is the imam where the number twelve becomes complete, and the
@@ -345,5 +344,4 @@ to speak. This is a moajiza.
 The word qiyamat is used on two occasions. One is the time of qiyamat
 which is rajat (return). The other is the day of qiyamat when jannah and
 jahannum will be distributed.
-
 

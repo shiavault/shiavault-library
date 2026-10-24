@@ -406,4 +406,3 @@ persecuted because of his belief.[^255]
 (7) Anyone of Muhammad’s followers who enters Mecca for Hajj or \`Umrah
 or for trade shall have his or her life and property protected.[^256]
 
-

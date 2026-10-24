@@ -110,4 +110,3 @@ p57). Even, if this were so, the personal relationship should not be
 stressed too far; as it would be rash to assume their teachings are
 necessarily similar.
 
-

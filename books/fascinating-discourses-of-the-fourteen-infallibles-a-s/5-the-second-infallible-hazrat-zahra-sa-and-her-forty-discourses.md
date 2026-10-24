@@ -31,11 +31,7 @@ Medina.
 Forty Traditions from Hazrat Zahra (sa)
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً عن فاطمة الزهراء عليها السلام
-  </p>
-</blockquote>
+> اربعون حديثاً عن فاطمة الزهراء عليها السلام
 
 1. Praise & Eulogy Is for Allah for the blessing & bounties which He has
 bestowed. And thanks to Him upon what He revealed (to His servants) And
@@ -325,11 +321,7 @@ commitments of the infidels got dissolved till such time that, you
 oneness of Allah & sincerity.[^30])
 
 > 30- ... ( ( لَقَد جاءَکُم رَسُولٌ مِن اَنفسِکُم عَزيزٌ عَلَيهِ ما
-<blockquote dir="rtl">
-  <p>
-عَنِتُّم حَريصٌ عَلَيکُم بِالمُؤمِنينَ رَؤُوف رَحيمٌ)).
-  </p>
-</blockquote>
+> عَنِتُّم حَريصٌ عَلَيکُم بِالمُؤمِنينَ رَؤُوف رَحيمٌ)).
 
 > فَإِن تُعِزوهُ وَتَعرِفُوهُ تَجِدُوهُ أَبي دُونَ نِسائِکُم وَ أَخاابن
 > عمي دُون رِجالِکُم، وَلَنِعمَ المُعزي إِلَيهِ فَبَلَّغَ الرَّسالَةَ
@@ -467,23 +459,11 @@ bewildering). [^37]
 
 > 38- ما انشدتهُ (ع) فیِ رثاء الرَّسُولِ صلی الله عليه وآله:
 
-<blockquote dir="rtl">
-  <p>
-ماذا عَلی مَن شَمَّ تُربَةَ اَحمَد
-  </p>
-</blockquote>
+> ماذا عَلی مَن شَمَّ تُربَةَ اَحمَد
 
-<blockquote dir="rtl">
-  <p>
-اَن لا يَشُمَّ مَدَی الزَّمانِ غَوالِيا
-  </p>
-</blockquote>
+> اَن لا يَشُمَّ مَدَی الزَّمانِ غَوالِيا
 
-<blockquote dir="rtl">
-  <p>
-صُبَّت عَلَيّ مَصائِبُ لوأنَّها
-  </p>
-</blockquote>
+> صُبَّت عَلَيّ مَصائِبُ لوأنَّها
 
 > صُبَّت عَلَی الأَيّامِ صِرنَ لَيالِيا (اعلام النساء – ج4 ص113)
 
@@ -530,19 +510,11 @@ witness & do not let their matter get out of your sight. [^39]
 
 > 40- وايضاً:
 
-<blockquote dir="rtl">
-  <p>
-قَد کانَ بَعدَکَ اَنباءٌ وَهَنبَثَةٌ لَوکُنتَ شاهِدَها لَم
-تَکثُرِالخَطبُ
-  </p>
-</blockquote>
+> قَد کانَ بَعدَکَ اَنباءٌ وَهَنبَثَةٌ لَوکُنتَ شاهِدَها لَم
+> تَکثُرِالخَطبُ
 
-<blockquote dir="rtl">
-  <p>
-إنّا فَقَدناکَ فَقدَ الأَرضِ وَابِلَها وَاختَلَّ قَومُکَ فَأشهَد هُم
-وَلا تَغِب
-  </p>
-</blockquote>
+> إنّا فَقَدناکَ فَقدَ الأَرضِ وَابِلَها وَاختَلَّ قَومُکَ فَأشهَد هُم
+> وَلا تَغِب
 
 > (اعلام النساء- ج4 ص113)
 
@@ -623,5 +595,4 @@ witness & do not let their matter get out of your sight. [^39]
 [^38]: Malam un-Nisa, Vol. 4. r 113
 
 [^39]: Malam un-Nisa, Vol. 4. P 122
-
 

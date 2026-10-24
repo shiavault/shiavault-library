@@ -168,4 +168,3 @@ Nnajaf 5th edition 1380 A.H.
 [^39] - Irshaadil Quluub: 175; Makarimul Akh'laq: 245; Al-kafi
 vol-5:511; Almahajjatul Baida'i vol-3:19.
 
-

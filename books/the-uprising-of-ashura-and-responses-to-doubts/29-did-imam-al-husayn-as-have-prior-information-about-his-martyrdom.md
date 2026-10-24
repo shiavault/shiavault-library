@@ -149,12 +149,8 @@ Self-destruction” [*ayah al-tahlukah*].
 
 Allah, the Exalted says,
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْفِقُوا فِي سَبيلِ اللهِ وَلا تُلْقُوا بِأَيْديکُمْ إِلَي
-التَّهْلُکَة وَأَحْسِنُوا إِنَّ اللهَ يحِبُّ المُحْسِنينَ
-  </p>
-</blockquote>
+> وَأَنْفِقُوا فِي سَبيلِ اللهِ وَلا تُلْقُوا بِأَيْديکُمْ إِلَي
+> التَّهْلُکَة وَأَحْسِنُوا إِنَّ اللهَ يحِبُّ المُحْسِنينَ
 
 ***“And spend in the way of Allah and cast not yourselves into perdition
 by your own hands, and do good to others, surely Allah loves the doers
@@ -343,5 +339,4 @@ al-Neyshaburi, Al-Mustadrak ‘ala al-Sahihayn, vol. 3, p. 176; Ibn
 [^9]: Surat al-Baqarah 2:195.
 
 [^10]: Mir’at al-‘Uqul, vol. 3, p. 126, as narrated by ‘Allamah Hilli.
-
 

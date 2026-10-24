@@ -1,18 +1,8 @@
 Chapter I
 =========
 
-  
-
-  
-
 THE GREAT BABY
 ==============
-
-  
-
-  
-
-  
 
 Before we speak about the birth of the pure Imām Abū Mohammed, peace be
 on him, and the affairs accompanied it, we will mention his brilliant,
@@ -42,10 +32,6 @@ His Mother
 As for the mother of Imām al-Ridā, peace be on him, she was endowed with
 all qualities of honor and virtue, through which the Muslim woman
 becomes exalted, such as chastity, purity, and great  
-
-  
-
-  
 
 soul. She is among the glorious women in Islam. His mother was a
 slave-wife, and this quality does not decrease her position, for Islam
@@ -88,11 +74,6 @@ man
 ------------------------------------------------------------------------
 
 [[1]](#_F7) 'Iyūn Akhb ār al-Ridā, vol. 1, pp. 14-15.  
-  
-
-  
-
-  
 
 have more (information) than this. I want more than (this sum of money),
 he demanded. I have nothing more than this, I explained. Then he said: I
@@ -137,11 +118,6 @@ They following are some of their opinions about it:
 al-Ghumma, vo l. 3, p. 102.  
  [[2]](#_F9) Yousif  b.  Hātam  al-Shāfi'i, al-Durr al-Nazim fi Manāqib
 al-A'imma.  
-  
-
-  
-
-  
 
 Concerning this name the poet composed the following lines when he 
 praised Imām (Ali al-Ridā), peace be on him:
@@ -192,11 +168,6 @@ Al-Majjlisi, Bihār al-Anwār, vol. 12, p. 2.
  [[4]](#_F13) Al-Shaykhāni al-Qādiri, al-Sirāt al-Sawi, p. 169
 (photographed). Nūr al-Abbsār, p. 138.  
  [[5]](#_F14) Al-Mufid, al-Irshād, p. 342.  
-  
-
-  
-
-  
 
 do not want to tell a lie, she replied, the milk has not decreased, but
 I want to perform a part of my prayers and glorification.[[1]](#_ftn15)
@@ -244,11 +215,6 @@ him, that he might get blessing seek  good omen in this
 [[1]](#_F15) 'Iyūn Akhbār al-Ridā, vol. 1. A'yān al-Shi'a, 4/Q2/80.  
  [[2]](#_F16) Kashf al-Ghumma , vol.  3,  p. 88. 'Iyūn Akhbār  al-Ridā,
 vol. 1,  p.  18.  
-  
-
-  
-
-  
 
 name, which stood for the greatest personality created in the world of
 Islam and had all good qualities of the world.
@@ -289,8 +255,6 @@ Because both his opposing enemies and obedient supporters were pleased
 with him, while this did not happen to any of his fathers, so only he
 was called al-Ridā.[[3]](#_ftn19)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F17) Abū al-Fidā', Tārikh, vol. 2, p. 24. Ibn al-Athir, Tārikh,
@@ -298,11 +262,6 @@ vol. 5, p. 183.
  [[2]](#_F18) Al-Majjlisi, Bihār al-Anwār, vol. 12, p. 4.  
  [[3]](#_F19) 'Ilal al-Sharāi'. A'lām al-Wara. Al-Majjlisi, Bihār
 al-Anwār, vol. 12, p. 2.  
-  
-
-  
-
-  
 
 ##### B. Imām Mūsā
 
@@ -339,8 +298,6 @@ his community and homeland.
 The Imām was the *Sirājj* of Allah (the Lamp of Allah). He guided the
 misled and the perplexed (to the right path).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F20) Al-Majjlisi, Bihār al-Anwār, vol. 12, p. 3.  
@@ -349,11 +306,6 @@ misled and the perplexed (to the right path).
  [[4]](#_F23) Al-Sirāt al-Sawi, p. 199.  
  [[5]](#_F24) Tadhkirat al-Khawās, p. 361. Al-Durr al-Nazim, p. 210.  
  [[6]](#_F25) Al-Durr al-Nazim, p. 210.  
-  
-
-  
-
-  
 
 #### 6. Qurrat Ayn al-Muminin [[1]](#_ftn26)
 
@@ -390,19 +342,12 @@ Islamic education aiming at improving personality and making child feel
 that he or she has position with his family. Imām al-Ridā, peace be on
 him, was given the following *kunyas*:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F26) Ibid.  
  [[2]](#_F27) Al-Majjlisi, Bihār al-Anwār, vol. 12, p. 4.  
  [[3]](#_F28) Ibid.  
  [[4]](#_F29) Ibid.  
-  
-
-  
-
-  
 
 #### 1. Abū al-Hasan
 
@@ -439,8 +384,6 @@ regard:
 
  with the narrators.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F30) Ibid., p. 3.  
@@ -452,11 +395,6 @@ al-Kāfi, vol. 1, p. 486. Al-Mufid, al-Irshād, p. 341. Al-Durr al-Maslūk
 (photographed), p. 139. Akhbār al-Diwal, p. 114. Jawharat al-Kalām, p.
 143. Al-Kaf'ami, Musbāh. Roudat al-Wā'izin. Mir'āt al-Jinān, vol. 2, p.
 11.  
-  
-
-  
-
-  
 
 3. He was born in the year 150 A. H.[[1]](#_ftn35)
 
@@ -508,11 +446,6 @@ mentioned in al-Durr al-Nazim, p. 210.
  [[9]](#_F43) Akhbār al-Diwal.  
  [[10]](#_F44) Al-Shaykhāni al-Qādiri, al-Sirāt al-Sawi fi Manāqib Āl
 al-Nabi, p. 199.  
-  
-
-  
-
-  
 
 may Allah bless him and his family.[[1]](#_ftn45) As he was like his
 grandfather in his characteristics, he was similar to him in his noble
@@ -546,19 +479,12 @@ importance and standing with Allah, the Most High, for it was He who
 supported and directed them to correctness, as He did toward His
 prophets and His messengers.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F45) Al-Durr al-Nazim, p. 210.  
  [[2]](#_F46) Hayāt al-Imām al-Jawād.  
  [[3]](#_F47) Akhbār al-Diwal, p. 114. Jawhart al-Kalām, p. 145.
 Al-Ithāf bi Hub al-Ashrāf, p. 58.  
-  
-
-  
-
-  
 
 ### The Inscription of his Ring
 
@@ -605,11 +531,6 @@ environment plays an important role in bringing up person. As
 [[1]](#_F48) Al-Durr al-Maslūk, p. 139. Al-Majjlisi, Bihār al-Anwār,
 vol. 12, p. 4.  
  [[2]](#_F49) Al-Durr al-Nazim, p. 210.  
-  
-
-  
-
-  
 
 for the environment in which Imām al-Ridā, peace be on him, grew up, it
 included the best men and scholars who studied under his father Imām
@@ -650,5 +571,4 @@ him.
 ------------------------------------------------------------------------
 
 [[1]](#_F50) Mu'jam Rijāl al-Hadith, vol. 14, p. 283.  
-  
 

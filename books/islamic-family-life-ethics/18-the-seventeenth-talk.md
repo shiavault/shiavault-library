@@ -22,13 +22,9 @@ Judgement, the money that he refused to spend due to his stinginess will
 be hung from his neck in the form of a heavy chain, and he will be
 brought to the Grounds of Reckoning in this shameful state!
 
-<blockquote dir="rtl">
-  <p>
-وَ لَا يحَْسَبنَ‏َّ الَّذِينَ يَبْخَلُونَ بِمَا ءَاتَئهُمُ اللَّهُ مِن
-فَضْلِهِ هُوَ خَيرًْا لَّهُم بَلْ هُوَ شرٌَّ لَّهُمْ سَيُطَوَّقُونَ
-مَا بخَِلُواْ بِهِ يَوْمَ الْقِيَمَةِ
-  </p>
-</blockquote>
+> وَ لَا يحَْسَبنَ‏َّ الَّذِينَ يَبْخَلُونَ بِمَا ءَاتَئهُمُ اللَّهُ مِن
+> فَضْلِهِ هُوَ خَيرًْا لَّهُم بَلْ هُوَ شرٌَّ لَّهُمْ سَيُطَوَّقُونَ
+> مَا بخَِلُواْ بِهِ يَوْمَ الْقِيَمَةِ
 
 ***And let not those who hoard up that which Allah hath bestowed upon
 them of his bounty think that it is better for them. Nay, it is worse
@@ -155,23 +151,11 @@ Islam exhorts people to take special care of the orphans and the Holy
 Quran says that a society that doesn’t care for the orphans is not a
 Muslim society.
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ‏
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ‏
 
-<blockquote dir="rtl">
-  <p>
-أَ رَءَيْتَ الَّذِى يُكَذِّبُ بِالدِّينِ‏
-  </p>
-</blockquote>
+> أَ رَءَيْتَ الَّذِى يُكَذِّبُ بِالدِّينِ‏
 
-<blockquote dir="rtl">
-  <p>
-فَذَلِكَ الَّذِى يَدُعُّ الْيَتِيمَ
-  </p>
-</blockquote>
+> فَذَلِكَ الَّذِى يَدُعُّ الْيَتِيمَ
 
 ***In the name of Allah, the Beneficent, the MERCIFUL***  
 ***Hast thou observed him who belieth religion?***  
@@ -240,17 +224,9 @@ ordained a Prophet Musa (a.s.) was commanded by Allah to make Haroon
 (a.s) his vicegerent, so that they could together frighten the Pharoah!
 Still Allah instructed them to treat the Pharoah with consideration.
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبَا إِلىَ‏ فِرْعَوْنَ إِنَّهُ طَغَى‏
-  </p>
-</blockquote>
+> اذْهَبَا إِلىَ‏ فِرْعَوْنَ إِنَّهُ طَغَى‏
 
-<blockquote dir="rtl">
-  <p>
-فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يخَْشى
-  </p>
-</blockquote>
+> فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يخَْشى
 
 ***Go, both of you, unto Pharoah. Lo he hath transgressed (the
 bounds).***  
@@ -292,5 +268,4 @@ doesn’t love her husband or children, then she is a demon! Women, by
 nature, are more loving than men. It is the duty of both husbands and
 wives to maintain an atmosphere of love and affection in their homes.
 May Allah help us succeed in these endeavours! *Aameen!*
-
 

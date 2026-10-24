@@ -375,4 +375,3 @@ zakat.
 need, including inheritance, maintenance, donation, gifts, profits of
 endowments ... etc, which our main focus has not separated out.
 
-

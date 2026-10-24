@@ -120,4 +120,3 @@ about zakat next time round, then about khums?
  -  If you so choose. Inshallah .  
  \*  Inshallah.
 
-

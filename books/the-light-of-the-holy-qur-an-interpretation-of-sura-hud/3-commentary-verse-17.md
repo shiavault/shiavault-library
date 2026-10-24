@@ -85,7 +85,6 @@ Muslims, the righteous ones, and their reliance upon sound reasoning for
 choosing this divine school of thought, while, simultaneously, it also
 explains the wicked and evil destiny of the arrogant unbelievers.
 
-
 **Commentary : Verse 18**
 
 (18) وَ مَنْ أَظْلَمُ مِمَّنِ افْتَرى‏ عَلَى اللَّهِ كَذِباً أُولئِكَ
@@ -196,7 +195,6 @@ Day of Resurrection)these will be presented before their Lord and the
 witnesses(the prophets and angels)will say: 'These are those who lied
 against their Lord! ' Beware! the curse of Allah is on the unjust. "
 
-
 **Commentary : Verse 19**
 
 (19) الَّذينَ يَصُدُّونَ عَنْ سَبيلِ اللَّهِ وَ يَبْغُونَها عِوَجاً وَ
@@ -227,7 +225,6 @@ diverts the course leading to the Path. The verse says:
 
 " Those who hinder(people)from the path of Allah and seek to make it
 crooked, and they are themselves unbelievers as to the hereafter. "
-
 
 **Commentary : Verse 20**
 
@@ -261,7 +258,6 @@ not to see(it). "
 Those who make false accusations must forget and give up the idea that
 being the support of despots and being among their entourage will save
 them.
-
 
 **Commentary : Verse 21.22**
 
@@ -301,7 +297,6 @@ Hereafter cannot be replaced. The verse says:
 
 " Assuredly, they will be the greatest losers in the Hereafter. "
 
-
 **Commentary : Verse 23**
 
 (23) إِنَّ الَّذينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ وَ أَخْبَتُوا
@@ -330,7 +325,6 @@ the Companions of Paradise, remaining there forever. The verse says:
 themselves before their Lord, they will be Companions of the
 Garden,(paradise), they will abide therein for ever. "
 
-
 **Commentary : Verse 24**
 
 (24) مَثَلُ الْفَريقَيْنِ كَالْأَعْمى‏ وَ الْأَصَمِّ وَ الْبَصيرِ وَ
@@ -354,5 +348,4 @@ matter so as to attain to the truth ?The verse says:
 " The similitude the two parties is like the blind and the deaf, and
 the seeing(ones)and the hearing(ones). Are they equal in likeness ?Will
 you not then admonish ?"
-
 

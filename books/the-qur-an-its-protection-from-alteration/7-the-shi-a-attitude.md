@@ -83,17 +83,17 @@ progeny) and expressed by Imam Ja'far as-Sadiq (a.s.) as follows:
 "...And so whatever conforms to the Book of Allah, take it; and whatever
 is contrary to the Book of Allah, leave it .. " [^39]
 
-[^33] Quoted in al Bayan, p. 253
-[^34] Ibid.
-[^35] al Kulayni, al Kafi, vol. 2 (Tehran: a; Matba'a al Islamiyya,
+[^33]: Quoted in al Bayan, p. 253
+[^34]: Ibid.
+[^35]: al Kulayni, al Kafi, vol. 2 (Tehran: a; Matba'a al Islamiyya,
 1388), p. 463
-[^36] Saduq, Kitabu 'l-Itiqadat, p. 63-65
-[^37] As-Suyuti, al-Itqan, vol. 2, p. 70
-[^38] See Mahmud Ruhani, al Mu'jamu 'l Ihsai (Mashad: 1990) p. 168.
+[^36]: Saduq, Kitabu 'l-Itiqadat, p. 63-65
+[^37]: As-Suyuti, al-Itqan, vol. 2, p. 70
+[^38]: See Mahmud Ruhani, al Mu'jamu 'l Ihsai (Mashad: 1990) p. 168.
 Those who do note take the trouble of counting, go on writing that there
 are 6666 verses in the Qur'an. It is one more example of Muslims tragic
 carelessness towards the Qur'an.
-[^39] al Hurr al Amili, Wasailu 'sh Shiah, vol. 3 (Kitabu 'l qadha: bab
+[^39]: al Hurr al Amili, Wasailu 'sh Shiah, vol. 3 (Kitabu 'l qadha: bab
 wujuhi 'l jam bayna 'l ahadithi 'l mukhtalifah), p. 380
 [^40] Died in 1994.
 

@@ -1,15 +1,11 @@
 Discourse 29: The Sincere Shi’a
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ جَعْفَرُ بْنُ مُحَمَّدٍ الصَّادِقُ: إِنَّ شِيعَتَنَا
-هُمُ الَّذِينَ يَتَّـبِعُونَ آثَارَنَا وَ يُطِيعُونَا فِي جَمِيعِ
-أَوَامِرِنَا وَ نَوَاهِينَا فَأُولٌــئِكَ شِيعَتَنَا. فَأَمَّا مَنْ
-خَالَفَنَا فِي كَـثِيرٍ مِمَّا فَرَضَهُ اللٌّهُ عَلَيْهِ فَلَيْسُوا
-مِنْ شِيعَتِنَا.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ جَعْفَرُ بْنُ مُحَمَّدٍ الصَّادِقُ: إِنَّ شِيعَتَنَا
+> هُمُ الَّذِينَ يَتَّـبِعُونَ آثَارَنَا وَ يُطِيعُونَا فِي جَمِيعِ
+> أَوَامِرِنَا وَ نَوَاهِينَا فَأُولٌــئِكَ شِيعَتَنَا. فَأَمَّا مَنْ
+> خَالَفَنَا فِي كَـثِيرٍ مِمَّا فَرَضَهُ اللٌّهُ عَلَيْهِ فَلَيْسُوا
+> مِنْ شِيعَتِنَا.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said: “Surely our Shi’a (true
 followers) are those who follow our virtues (those who follow all of the
@@ -59,11 +55,7 @@ In our opinion, the meaning of “not following some of our commandments”
 is the same as “not following all of our commandments” and is similar to
 the phrase used in the Qur’an which states:
 
-<blockquote dir="rtl">
-  <p>
-وَ يَشْـتَرُونَ بِهِ ثَــمَناً قَلِيلاً
-  </p>
-</blockquote>
+> وَ يَشْـتَرُونَ بِهِ ثَــمَناً قَلِيلاً
 
 “And then they sell it (the communications of Allah) for a miserable and
 low price…”
@@ -130,5 +122,4 @@ We pray that through the divine blessings of the A\`immah (as), we are
 able to stay on the path of being the true Shi’a!
 
 [^1]: Ibid., vol. 65, pg. 162
-
 

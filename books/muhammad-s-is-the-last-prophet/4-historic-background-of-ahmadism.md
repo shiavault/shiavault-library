@@ -305,4 +305,3 @@ Mir Qasim Ali Qadiani
 
 [^11]: Vol. 3, No. 78. dated 8th January, 1916.
 
-

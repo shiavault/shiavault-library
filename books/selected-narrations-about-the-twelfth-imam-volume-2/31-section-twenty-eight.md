@@ -743,4 +743,3 @@ chap. 32, p. 445, no. 27.
 chap. 6, p. 146, no. 15, a similar narration has already been mentioned
 from Muḥammad b. Muslim.
 
-

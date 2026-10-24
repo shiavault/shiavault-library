@@ -448,4 +448,3 @@ are groundless.
 
 [^14]: Istifta’at, I, p. 279.
 
-

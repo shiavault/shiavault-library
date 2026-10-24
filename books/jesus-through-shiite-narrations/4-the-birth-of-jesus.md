@@ -507,4 +507,3 @@ because these are the first names and qunya of the Prophet (S).
 
 [^33]: Bihar, 14, 246, 26
 
-

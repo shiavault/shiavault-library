@@ -6,13 +6,9 @@ the righteous deeds play the most important role in attaining
 self-perfection, God’s Nearness, higher human ranks, and pure delightful
 life of the Next World. God-Almighty has said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ.
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ.
 
 ***“Whosoever doth right, whether male or female, and is a believer, him
 verily We shall quicken with good life and We shall pay them a
@@ -21,24 +17,16 @@ recompense in proportion to the best of what they used to do. (16:
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-.وَمَن يَأْتِهِ مُؤْمِنًا قَدْ عَمِلَ الصَّالِحَاتِ فَأُولَٰئِكَ
-لَهُمُ الدَّرَجَاتُ الْعُلَىٰ
-  </p>
-</blockquote>
+> .وَمَن يَأْتِهِ مُؤْمِنًا قَدْ عَمِلَ الصَّالِحَاتِ فَأُولَٰئِكَ
+> لَهُمُ الدَّرَجَاتُ الْعُلَىٰ
 
 ***“But whoso cometh unto Him a believer, having done good works, for
 such are the high stations. (20:75)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا
-وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا
-  </p>
-</blockquote>
+> فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا
+> وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا
 
 ***“And whoever hopeth for the meeting with his lord, let him to
 righteous deeds and make none share of the worship due unto his lord.
@@ -46,12 +34,8 @@ righteous deeds and make none share of the worship due unto his lord.
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
-يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
-  </p>
-</blockquote>
+> مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
+> يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
 
 ***“Whoso desireth power should know that) all power belongeth to God.
 Unto Him good words ascend, and the pious deed doth He exalt. (35:10)***
@@ -80,12 +64,8 @@ and salvation and therefore, accordingly has revealed it to the Holy
 Prophet (S) through the revelations so that he may present it to the
 people for their utilization. God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ
 
 ***“O you who believe, obey God and the messenger while he calleth you
 to that which quickeneth you. (8:24)***
@@ -149,12 +129,8 @@ center of illumination for Divine light, whereby wisdom and knowledge
 flowing through heart manifest themselves through appearing upon the
 tongue. The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: ما اخلص عبد اربعين صباحا الا جرت
-ينابيع الحكمة من قلبه على لسانه.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: ما اخلص عبد اربعين صباحا الا جرت
+> ينابيع الحكمة من قلبه على لسانه.
 
 *“Whoever devotes himself sincerely for a period of forty days for
 God-Almighty, streams of wisdom flowing from his heart will appear upon
@@ -162,12 +138,8 @@ his tongue.”*[^1]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اين الذين اخلصوا اعمالهم لله وطهرا قلبهم لمواضع
-نظر الله.
-  </p>
-</blockquote>
+> قال على عليه السلام: اين الذين اخلصوا اعمالهم لله وطهرا قلبهم لمواضع
+> نظر الله.
 
 *“Where are those who performed their deeds with sincerity for
 God-Almighty, and purified their hearts so that they could absorb God's
@@ -176,24 +148,16 @@ special attention towards them.”*[^2]
 Hadhrate Fatimah al-Zahra[^3] (s.a.) the daughter of the Holy Prophet
 (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قالت سيدة النسا صلوات الله عليها: من اصعد الى الله خالص عبادته اهبط
-الله افضل مصلحته.
-  </p>
-</blockquote>
+> قالت سيدة النسا صلوات الله عليها: من اصعد الى الله خالص عبادته اهبط
+> الله افضل مصلحته.
 
 *“Whoever sends pure and sincere worship for God-Almighty, He too
 reciprocates by bestowing upon Him His best favors.”*[^4]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: قلوب العباد الطاهرة مواضع نظر الله سبحانه فمن طهر
-قلبه نظر الله اليه.
-  </p>
-</blockquote>
+> قال على عليه السلام: قلوب العباد الطاهرة مواضع نظر الله سبحانه فمن طهر
+> قلبه نظر الله اليه.
 
 *“Pure hearts of believers are reserved for Glorious God' s special
 attention, therefore, whoever purifies his heart will certainly be
@@ -202,12 +166,8 @@ blessed with God's special attention.”*[^5]
 The Holy Prophet (S) had narrated a tradition from Arch-Angel Gabriel
 who heard it from God-Almighty who said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: مخبرا عن جبرئيل عن الله عز وجل انه
-قال: الاخلاص سر من اسرارى استودعته قلب من احببت من عابدى.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: مخبرا عن جبرئيل عن الله عز وجل انه
+> قال: الاخلاص سر من اسرارى استودعته قلب من احببت من عابدى.
 
 *“That sincerity is a mystery from my mysteries and whoever is loved by
 me, I will deposit it in his heart.”*[^6]
@@ -223,24 +183,16 @@ worth of a deed depends upon pure intentions and sincerity, free from
 all traces of Polytheism and dissimulation. The Holy Prophet (S) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: ان الله لا ينظر الى صوركم واعمالكم
-وانما ينظر الى قلوبكم.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: ان الله لا ينظر الى صوركم واعمالكم
+> وانما ينظر الى قلوبكم.
 
 *“God-Almighty does not look at your faces and deeds rather looks inside
 your hearts.”*[^7]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: يقول الله: انا خير شريك, من اشرك معى غيرى
-فى عمله لم اقبله الا ما كان خالصا.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: يقول الله: انا خير شريك, من اشرك معى غيرى
+> فى عمله لم اقبله الا ما كان خالصا.
 
 *“God-Almighty said: ' I am the best partner for You, and whosoever
 associates with me some one else in his deeds, then I will handover the
@@ -249,24 +201,16 @@ sincere deeds.”*[^8]
 
 Also, he said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: ان الله يحشر الناس على نياتهم يوم
-القيامة.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: ان الله يحشر الناس على نياتهم يوم
+> القيامة.
 
 *“On the Day of Judgment, God-Almighty will associate people in
 accordance with their intentions.”*
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: طوبى لمن اخلص لله العبادة الدعا ولم يشغل قلبه بما
-ترى عيناه ولم ينس ذكر الله بما تسمع اذناه ولم يحزن صدره بما اعطى غيره.
-  </p>
-</blockquote>
+> قال على عليه السلام: طوبى لمن اخلص لله العبادة الدعا ولم يشغل قلبه بما
+> ترى عيناه ولم ينس ذكر الله بما تسمع اذناه ولم يحزن صدره بما اعطى غيره.
 
 *“How lucky is the one who worships and prays only for the sake of
 God-Almighty; does not engage his heart in whatsoever is seen by his
@@ -276,11 +220,7 @@ upon others.”*[^9]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: امارات السعادة اخلاص العمل.
-  </p>
-</blockquote>
+> قال على عليه السلام: امارات السعادة اخلاص العمل.
 
 *“Sincerity in deeds is an indication of doer's salvation and
 prosperity.”*[^10]
@@ -322,11 +262,7 @@ the Holy Prophet (S) himself and Infallible Imam (a.s.) of his holy
 progeny sometimes in order to emphasize the importance and seriousness
 of worship said:
 
-<blockquote dir="rtl">
-  <p>
-افلا اكون عبدا شكورا.
-  </p>
-</blockquote>
+> افلا اكون عبدا شكورا.
 
 *“Shouldn't I be a thankful servant?”*
 
@@ -335,13 +271,9 @@ the third group whose deeds carry special distinction because they are
 accompanied with a higher degree of sincerity. The Commander of the
 Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: ان قوما عبدوا الله رغبة فتلك عبادة
-التجار وان قوما عبدوا الله رهبة فتلك عبادة العبيد وان قوما عبدوا الله
-شكرا فتلك عبادة الاحرار.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: ان قوما عبدوا الله رغبة فتلك عبادة
+> التجار وان قوما عبدوا الله رهبة فتلك عبادة العبيد وان قوما عبدوا الله
+> شكرا فتلك عبادة الاحرار.
 
 *“The worshiper of God-Almighty may be divided into following three
 groups:*
@@ -376,16 +308,12 @@ of worshipping, love Him and humiliate and humble themselves in front of
 His Exalted Glory, And this is called the highest degree of sincerity
 and devotion. Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: ان الناس يعبدون الله على ثلاثة أوجه: فطبقة
-يعبدونه رغبة في ثوابه فتلك عبادة الحرصاء وهو الطمع، وآخرون يعبدونه
-فرقا من النار فتلك عبادة العبيد وهي الرهبة، ولكني أعبده حبا له عز وجل
-فتلك عبادة الكرام، وهو الامن لقوله عز وجل "وهم من فزع يومئذ آمنون"
-وبـقوله "قل إن كنتم تحبون الله فاتبعوني يحببكم الله ويغفر لكم ذنوبكم"
-فمن أحب الله أحبه الله، ومن أحبه الله عز وجل كان من الآمنين.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: ان الناس يعبدون الله على ثلاثة أوجه: فطبقة
+> يعبدونه رغبة في ثوابه فتلك عبادة الحرصاء وهو الطمع، وآخرون يعبدونه
+> فرقا من النار فتلك عبادة العبيد وهي الرهبة، ولكني أعبده حبا له عز وجل
+> فتلك عبادة الكرام، وهو الامن لقوله عز وجل "وهم من فزع يومئذ آمنون"
+> وبـقوله "قل إن كنتم تحبون الله فاتبعوني يحببكم الله ويغفر لكم ذنوبكم"
+> فمن أحب الله أحبه الله، ومن أحبه الله عز وجل كان من الآمنين.
 
 *“There are three categories of worshipers:*
 
@@ -399,22 +327,14 @@ is due to fear. But since I love God-Almighty -I worship Him, which is
 the worship of elders, and nobles whose motivation is tranquility and
 assurance. God-Almighty has said:*
 
-<blockquote dir="rtl">
-  <p>
-وَهُم مِّن فَزَعٍ يَوْمَئِذٍ آمِنُونَ
-  </p>
-</blockquote>
+> وَهُم مِّن فَزَعٍ يَوْمَئِذٍ آمِنُونَ
 
 ***“And such are safe from fear that Day. (27:89)***
 
 And further said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
-  </p>
-</blockquote>
+> قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ
 
 ***“Say (O Muhammad, to mankind): If you love God, follow me, God will
 love you and forgive your sins. (3:31)***
@@ -425,12 +345,8 @@ peace and security”[^12]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ما عبدتك خوفا من نارك ولا طمعا فى جنتك ولكن وجدتك
-اهلا للعبادة فعبدتك.
-  </p>
-</blockquote>
+> قال على عليه السلام: ما عبدتك خوفا من نارك ولا طمعا فى جنتك ولكن وجدتك
+> اهلا للعبادة فعبدتك.
 
 *“Oh God! I worship you neither because of fear from the Hell's fire nor
 for the greed of Paradise's bounties, but, since 1 believe You are
@@ -474,12 +390,8 @@ are done exclusively for the God’s pleasure, and this is known as the
 highest degree of sincerity. The Commander of the Faithful Imam ' ‘Ali
 (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام:طوبى لمن اخلص لله عمله وعلمه وحبه وتغضه واخذه
-وتركه وكلامه وصمته.
-  </p>
-</blockquote>
+> قال على عليه السلام:طوبى لمن اخلص لله عمله وعلمه وحبه وتغضه واخذه
+> وتركه وكلامه وصمته.
 
 *“How fortunate is the one whose deeds, knowledge, love, grudge,
 possession, renunciation speaking, and silence -all are reserved
@@ -487,24 +399,16 @@ exclusively for God-Almighty.”*[^14]
 
 Imam al-Sadiq has said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: من احب لله وابغض لله واعطى لله ومنع لله
-فهو ممن يكمل ايمانه.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: من احب لله وابغض لله واعطى لله ومنع لله
+> فهو ممن يكمل ايمانه.
 
 *“Whosoever loves, grudges, donates, and refrains exclusively for the
 sake of God-Almighty -is some one whose faith is perfect.”*[^15]
 
 Also, said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: ما انعم الله على عبد اجل من ان لا يكون فى قلبه
-مع الله غيره.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: ما انعم الله على عبد اجل من ان لا يكون فى قلبه
+> مع الله غيره.
 
 *“God-Almighty has not bestowed upon a servant any thing superior
 than -that there should not be anything in his heart except
@@ -512,11 +416,7 @@ God-Almighty.”*[^16]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اين القلوب التى وهبت لله وعوقدت على طاعة الله.
-  </p>
-</blockquote>
+> قال على عليه السلام: اين القلوب التى وهبت لله وعوقدت على طاعة الله.
 
 *“Where are the hearts who have been donated to God-Almighty, and are
 committed exclusively for his obedience.”*[^17]
@@ -527,23 +427,15 @@ revelations makes him immune against sins and transgressions. Such a
 human being is called God's devoted friend (*Mukhlis*) and they are the
 most distinguished servants of God-Almighty. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ
-  </p>
-</blockquote>
+> إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ
 
 ***“Lo! We purified them with a pure thought, remembrance of the Home
 (of the Hereafter) (38:46)***
 
 The Holy Qur’an says about Prophet Moses (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ
-رَسُولًا نَّبِيًّا
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ
+> رَسُولًا نَّبِيًّا
 
 ***“And make mention in the scripture of Moses. Lo! He was chosen, and
 he was a messenger of (God), a Prophet. (19:51)***
@@ -552,12 +444,8 @@ God's chosen devoted servants ultimately reach to a position whereby
 even Satan becomes disappointed in his efforts to make them deviated.
 The Holy Qur’an quotes Satan when he speaks to God-Almighty:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***“He said: Then by Thy might, I surely will beguile them every one,
 save Thy single minded slaves among them. (38: 82-83)***
@@ -567,11 +455,7 @@ not an easy and simple thing rather it requires self-purification,
 endeavors, and struggle in worshipping. The Commander of the Faithful,
 Imam ‘Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الخلاص ثمرة العبادة.
-  </p>
-</blockquote>
+> قال على عليه السلام: الخلاص ثمرة العبادة.
 
 *“Sincerity and devotion are the fruits of worship.”*[^18]
 
@@ -630,5 +514,4 @@ Muslim women.
 [^17]: Ghirar al-Hukm, p-172.
 
 [^18]: Ghirar al-Hukm, p-17.
-
 

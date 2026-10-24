@@ -270,4 +270,3 @@ in Furū' al-Kāfī, vol. 3, p. 242, and in 'Ilm ul-Yaqīn, vol. 2, p. 1051.
 [^11]: As in Bihār al-Anwār, vol. 8, “Book of Justice and Resurrection,”
 ch. 12, hadīths 35 and 36, p. 362.
 
-

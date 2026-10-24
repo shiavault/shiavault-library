@@ -293,4 +293,3 @@ and generation and is compatible to all cultures and levels of
 intellect. In brief it is the only platform capable of fostering
 universal brotherhood among mankind.
 
-

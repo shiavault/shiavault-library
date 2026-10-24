@@ -1,21 +1,13 @@
 Surely You Are All-Powerful Over Everything
 ===========================================
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ عَلَى كَلِّ شَيْءٍ قَدِيْرٍ
-  </p>
-</blockquote>
+> إِنَّكَ عَلَى كَلِّ شَيْءٍ قَدِيْرٍ
 
 *Al-Qadīr* is one of the most beautiful names (*al-Asmā’ al-Husnā*) of
 Almighty Allāh. Theologians (*mutakallimūn*) define it as:
 
-<blockquote dir="rtl">
-  <p>
-...هُوَ الْفَاعِلُ لِمَا يَشَآءُ عَلى قَدْرِ مَا تَقْتَضِي الْحِكْمَةُ
-لاَ زَائِداً عَلَيْهِ وَلا ناَقِصاً عَنْهُ...
-  </p>
-</blockquote>
+> ...هُوَ الْفَاعِلُ لِمَا يَشَآءُ عَلى قَدْرِ مَا تَقْتَضِي الْحِكْمَةُ
+> لاَ زَائِداً عَلَيْهِ وَلا ناَقِصاً عَنْهُ...
 
 “…One who does whatever He wants according to Wisdom, nothing more or
 less than that…”[^1]
@@ -30,23 +22,15 @@ power ‘other than His Power.’ Every conceivable power exists and
 subsists by His Power. The following dictum, which appears in a number
 of supplications, refers to this very subtle issue:
 
-<blockquote dir="rtl">
-  <p>
-لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ باللٌّهِ.
-  </p>
-</blockquote>
+> لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ باللٌّهِ.
 
 “There is no strength or power save by Allāh.”[^2]
 
 The Holy Qur’ān, emphasizing the fact that every kind of power belongs
 to Allāh, says:
 
-<blockquote dir="rtl">
-  <p>
- وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ
-الْقُوَّةَ لِلٌّهِ جَمِيعًا وَأَنَّ اللٌّهَ شَدِيدُ الْعَذَابِ 
-  </p>
-</blockquote>
+>  وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ
+> الْقُوَّةَ لِلٌّهِ جَمِيعًا وَأَنَّ اللٌّهَ شَدِيدُ الْعَذَابِ 
 
 ***“…though the wrongdoers will see, when they sight the punishment,
 that power, altogether, belongs to God, and that God is severe in
@@ -64,14 +48,10 @@ understand such verses properly, we should try to reflect on these
 Divine Names, for they form the reason behind the verses. For example in
 verse 1 of chapter al-Fātir we read:
 
-<blockquote dir="rtl">
-  <p>
- أَلْحَمْدُ لِلٌّهِ فَــاطِرِ السَّمٌوَاتِ وَالأَرْضِ جَاعِلِ
-الْمَلاَئِكَةِ رُسُلاً أُولِي أَجْنِحَةٍ مَثْنَى وَثُلاَثَ وَرُبَاعَ
-يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ إِنَّ اللٌّهَ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ 
-  </p>
-</blockquote>
+>  أَلْحَمْدُ لِلٌّهِ فَــاطِرِ السَّمٌوَاتِ وَالأَرْضِ جَاعِلِ
+> الْمَلاَئِكَةِ رُسُلاً أُولِي أَجْنِحَةٍ مَثْنَى وَثُلاَثَ وَرُبَاعَ
+> يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ إِنَّ اللٌّهَ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ 
 
 ***“All praise belongs to God, originator of the heavens and the earth,
 maker of the Angels [His] messengers, possessing wings, two, three or
@@ -80,13 +60,9 @@ has power over all things.”***[^4]
 
 Commenting on the last clause of this verse, ‘Allāmah Tabātabā’ī says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْلُهُ  إِنَّ اللٌّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ  تَعْلِيْلٌ
-لِجَمِيْعِ مَا تَقَدَّمَهُ اَوِ الْجُمْلَةِ الأَخِيرَةِ وَالأَوَّلُ
-أَظْهَرُ.
-  </p>
-</blockquote>
+> وَقَوْلُهُ  إِنَّ اللٌّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ  تَعْلِيْلٌ
+> لِجَمِيْعِ مَا تَقَدَّمَهُ اَوِ الْجُمْلَةِ الأَخِيرَةِ وَالأَوَّلُ
+> أَظْهَرُ.
 
 “The clause ‘Indeed God has power over all things’ of the verse is a
 reason for all the aforementioned [i.e. originating the Heavens and the
@@ -130,18 +106,14 @@ independent helper.
 The great saint Ibn Fahd al-Hillī in his well-known prayer manual ‘Uddat
 al-Dā’ī narrates the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ (ص) فِيْ قَوْلِ اللٌّهِ تَعَالـى:  وَما
-يُؤْمِنُ أَكْثَرُهُمْ بِاللٌّهِ إِلاَّ وَهُمْ مُشْرِكُونَ ، قَالَ:
-هُوَ قَوْلُ الرَّجُلِ: لَوْ لاَ فُلاَنٌ لَهَلَكْتُ، وَلَوْلاَ فُلاَنٌ
-لَمَا أَصَبْتُ كَذاَ وَكَذَا، وَلَوْلاَ فُلاَنٌ لَضَاعَ عيَالِي. أَلاَ
-تَرَى أَنَّهُ قَدْ جَعَلَ لِلٌّهِ شَرِيْكًا فِيْ مُلْكِهِ يَرْزُقُهُ
-وَيَدْفَعُ عَنْهُ؟ قُلْتُ: فَيَقُوْلُ لَوْلاَ أَنَّ اللٌهَ مَنَّ
-عَلَيَّ بفُلاَنٍ لَهَلَكْتُ؟ قَالَ: نَعَمْ، لاَ بَأْسَ بِهٌذَا
-وَنَحْوِهِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ (ص) فِيْ قَوْلِ اللٌّهِ تَعَالـى:  وَما
+> يُؤْمِنُ أَكْثَرُهُمْ بِاللٌّهِ إِلاَّ وَهُمْ مُشْرِكُونَ ، قَالَ:
+> هُوَ قَوْلُ الرَّجُلِ: لَوْ لاَ فُلاَنٌ لَهَلَكْتُ، وَلَوْلاَ فُلاَنٌ
+> لَمَا أَصَبْتُ كَذاَ وَكَذَا، وَلَوْلاَ فُلاَنٌ لَضَاعَ عيَالِي. أَلاَ
+> تَرَى أَنَّهُ قَدْ جَعَلَ لِلٌّهِ شَرِيْكًا فِيْ مُلْكِهِ يَرْزُقُهُ
+> وَيَدْفَعُ عَنْهُ؟ قُلْتُ: فَيَقُوْلُ لَوْلاَ أَنَّ اللٌهَ مَنَّ
+> عَلَيَّ بفُلاَنٍ لَهَلَكْتُ؟ قَالَ: نَعَمْ، لاَ بَأْسَ بِهٌذَا
+> وَنَحْوِهِ.
 
 “Imām Abū ‘Abdillāh (al-Sādiq (as)) is reported to have said about the
 verse And most of them do not believe in Allāh without associating
@@ -172,11 +144,7 @@ with the Provider of Grace, Who is *al-Jawād*, and always wishes to give
 more and more. To explain this law, Almighty Allāh cites a very
 beautiful a parable is Sūrat al-Ra’d:
 
-<blockquote dir="rtl">
-  <p>
- أَنزَلَ مِنَ السَّمَآءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا 
-  </p>
-</blockquote>
+>  أَنزَلَ مِنَ السَّمَآءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا 
 
 ***“He sent down water from the sky, and the channels flowed, each
 according to their measure…”***[^8]
@@ -197,11 +165,7 @@ grave.
 We said that one of the means of instilling happiness in the grave is
 seeking forgiveness for the deceased:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمَيِّتُ لَيَفْرَحُ بِالتَّرَحُّمِ عَلَيْهِ وَالإِسْتِغْـفَارِ...
-  </p>
-</blockquote>
+> أَلْمَيِّتُ لَيَفْرَحُ بِالتَّرَحُّمِ عَلَيْهِ وَالإِسْتِغْـفَارِ...
 
 “Surely a dead person rejoices when he is pitied upon and forgiveness is
 sought for him….”[^9]
@@ -214,12 +178,8 @@ not instill any kind of happiness. Here the receptacle is deficient and
 not Allāh’s Grace. The Holy Qur’ān citing examples of such hard-hearted
 people says:
 
-<blockquote dir="rtl">
-  <p>
- ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٌلِكَ فَهِيَ كَالْحِجَارَةِ
-أَوْ أَشَدُّ قَسْوَةً 
-  </p>
-</blockquote>
+>  ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٌلِكَ فَهِيَ كَالْحِجَارَةِ
+> أَوْ أَشَدُّ قَسْوَةً 
 
 ***“Then your hearts hardened after that, so that they were like rocks,
 rather worse in hardness…”***[^10]
@@ -227,14 +187,10 @@ rather worse in hardness…”***[^10]
 And in verses 6-7 of chapter al-Baqarah Almighty Allāh informs us about
 the disbelievers that:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَ أَنذَرْتَهُمْ أَمْ
-لَمْ تُنذِرْهُمْ لاَ يُؤْمِنُونَ. خَتَمَ اللٌّهُ عَلَى قُلُوبِهِمْ
-وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ
-عَظِيمٌ 
-  </p>
-</blockquote>
+>  إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَ أَنذَرْتَهُمْ أَمْ
+> لَمْ تُنذِرْهُمْ لاَ يُؤْمِنُونَ. خَتَمَ اللٌّهُ عَلَى قُلُوبِهِمْ
+> وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ
+> عَظِيمٌ 
 
 ***“As for the disbelievers, it is the same to them whether you warn
 them or do not warn them, they will not believe. Allāh has set a seal on
@@ -250,14 +206,10 @@ change, because the receptacle is deficient.
 
 Perhaps the following verse draws our attention to the same situation:
 
-<blockquote dir="rtl">
-  <p>
- اسْتَغْفِرْ لَهُمْ أَوْ لاَ تَسْتَغْفِرْ لَهُمْ إِنْ تَسْتَغْفِرْ
-لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللٌّهُ لَهُمْ ذٌلِكَ
-بِأَنَّهُمْ كَفَرُوا بِاللٌّهِ وَرَسُولِهِ وَاللٌّهُ لاَ يَهْدِي
-الْقَوْمَ الْفَاسِقِينَ 
-  </p>
-</blockquote>
+>  اسْتَغْفِرْ لَهُمْ أَوْ لاَ تَسْتَغْفِرْ لَهُمْ إِنْ تَسْتَغْفِرْ
+> لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللٌّهُ لَهُمْ ذٌلِكَ
+> بِأَنَّهُمْ كَفَرُوا بِاللٌّهِ وَرَسُولِهِ وَاللٌّهُ لاَ يَهْدِي
+> الْقَوْمَ الْفَاسِقِينَ 
 
 ***“Whether you plead forgiveness for them or do not plead forgiveness
 for them, even if you plead forgiveness for them seventy times, God
@@ -308,5 +260,4 @@ with the Sublime Names of Almighty Allāh. (Author.)
 [^10]: Holy Qur’ān, 2:74
 
 [^11]: Holy Qur’ān, 9:80
-
 

@@ -33,4 +33,3 @@ representation began. The major occultation will continue so long as
 Allah desires. Allah will make him reappear to fill this world with
 justice whenever He so desires.
 
-

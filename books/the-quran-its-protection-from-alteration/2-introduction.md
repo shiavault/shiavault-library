@@ -174,4 +174,3 @@ l-itisam bi l-kitab wa s-sunnah: bab karahiyyati 'l-khilaf') p. 137. 
 its translation The Shi'ite Creed, tr. A.A.A. Fyzee (Calcutta: 1942) p.
 85.
 
-

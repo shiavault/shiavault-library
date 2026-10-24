@@ -3,12 +3,8 @@ Lesson Twenty Six: Key of Misfortunes
 
 Imam Hasan Al-’Askari (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إنَّ اللّهَ جَعَلَ لِلشَّرِ أَقْفَالاً وَ جَعَلَ مَفاتِيحِ تِلْكَ
-الأَقْفالِ اَلشَّرابَ، وَ الْكِذْبُ شَرٌّ مِنَ الشَّرابِ"
-  </p>
-</blockquote>
+> "إنَّ اللّهَ جَعَلَ لِلشَّرِ أَقْفَالاً وَ جَعَلَ مَفاتِيحِ تِلْكَ
+> الأَقْفالِ اَلشَّرابَ، وَ الْكِذْبُ شَرٌّ مِنَ الشَّرابِ"
 
 Translation
 -----------
@@ -31,5 +27,4 @@ permeates a society, it kills the spirit of trust and reliance leading
 to sins and corruption. Hence lying is even more dangerous than wine.
 
 [^1]: Wasa’il ‘ush-Shi’a, second volume, page 223
-
 

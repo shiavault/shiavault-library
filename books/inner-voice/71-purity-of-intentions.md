@@ -39,4 +39,3 @@ destroys the fiber of that charity.
 Have faith in Allah; and do every good work for love of Allah’. That is
 the basic reaching of Islam.
 
-

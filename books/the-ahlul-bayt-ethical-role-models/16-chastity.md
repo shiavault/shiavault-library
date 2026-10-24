@@ -70,4 +70,3 @@ from al-Barqi’s al-Mahasin. In al-Kafi, there is a similar narration).
 [^5]: Quoted from Safinat ul-Bihar; 2/79 (as quoted from ar- Rawandi’s
 ad-Dawaat).
 
-

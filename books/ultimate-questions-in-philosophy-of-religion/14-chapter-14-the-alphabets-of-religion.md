@@ -9,11 +9,7 @@ I said: ‘A', he said don't say anymore
 
 It's enough if there is anyone at home
 
-<blockquote dir="rtl">
-  <p>
-اول الدين معرفته
-  </p>
-</blockquote>
+> اول الدين معرفته
 
 Monotheism and believing in one God is the foundation of all divine
 religions. Monotheism is the alphabet of religion by which all religious
@@ -211,17 +207,9 @@ existence. In other words, He is Evident due to His Perfect Existent of
 being Eternal and for the same reason is Hidden from our sense due to
 their limits.
 
-<blockquote dir="rtl">
-  <p>
-يا من هو اختفي لفرط نوره الظاهر الباطن في ظهوره
-  </p>
-</blockquote>
+> يا من هو اختفي لفرط نوره الظاهر الباطن في ظهوره
 
-<blockquote dir="rtl">
-  <p>
-حجاب روي تو هم روي توست در هر حال نهان زچشم جهاني ز بس كه پيدائي
-  </p>
-</blockquote>
+> حجاب روي تو هم روي توست در هر حال نهان زچشم جهاني ز بس كه پيدائي
 
 ### 2) Unity of God in His Attributes
 
@@ -334,5 +322,4 @@ if you seek His assistance.
 [^6]: Al-kafee 2:67
 
 [^7]: Ibid, p.70
-
 

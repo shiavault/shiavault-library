@@ -502,4 +502,3 @@ ff.; Welihausen, loc. cit.
 
 [^27]: Welihausen, loc. cit.
 
-

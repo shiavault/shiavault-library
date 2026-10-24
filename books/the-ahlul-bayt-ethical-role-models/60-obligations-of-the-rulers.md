@@ -205,4 +205,3 @@ from al-Amali).
 [^6]: Quoted from Bihar ul-Anwar; Kitab ul-Ashara page 214 (as quoted
 from al-Amali).
 
-

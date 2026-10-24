@@ -131,4 +131,3 @@ ranks and favor them more with His kindness, for Allah is Omnipotent".
 
 [^1]: Balāghatun Nisa', Abul Fazl Ahmad bin Abi Tahir, (208- 280 A.H.).
 
-

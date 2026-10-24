@@ -23,4 +23,3 @@ The universe is finite.
 This system lasted unshaken for 2000 years, roughly from 350 B.C. to
 A.D. 1600.
 
-

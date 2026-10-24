@@ -339,4 +339,3 @@ into struggling to eradicate such manners.
 
 [^13]: Wasa’il ash-Shiah, v. 2, p. 221.
 
-

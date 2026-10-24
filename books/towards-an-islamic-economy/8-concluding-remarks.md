@@ -75,4 +75,3 @@ Notwithstanding what the sceptics say or do not say, the fact remains
 that Islam does represent a socio-economic school of thought of its own
 distinct from that of the others.
 
-

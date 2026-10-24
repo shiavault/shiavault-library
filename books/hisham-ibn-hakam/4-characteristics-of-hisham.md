@@ -327,4 +327,3 @@ Amirul Mu'mineen as God. (Amid. Persian Dictionary).
 
 [^17]: Al Shafi by Sayyid Murtaza.
 
-

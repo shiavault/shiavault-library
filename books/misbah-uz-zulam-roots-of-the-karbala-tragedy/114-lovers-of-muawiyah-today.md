@@ -38,4 +38,3 @@ innocence that could become a source of deliverance.
 
 [^1]: Vol. 8, Pg. 430.
 
-

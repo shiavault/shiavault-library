@@ -515,4 +515,3 @@ definitely a dualist and claimed to be a Prophet raised by the god of
 good. But later Manichiaean tended towards materialism and naturalism,
 and ceased to believe in anything spiritual.
 
-

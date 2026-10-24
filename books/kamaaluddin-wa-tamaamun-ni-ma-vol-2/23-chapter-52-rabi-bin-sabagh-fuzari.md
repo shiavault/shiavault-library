@@ -64,4 +64,3 @@ mountain, from which rocks used to fall.” Abdul Malik said, “By God, how
 did you gain so much information?” He said, “Some of it was gained while
 staying close to them and most from reports I received about them.”
 
-

@@ -590,7 +590,7 @@ said  
 
 ------------------------------------------------------------------------
 
-point of view), [1<sup>st</sup> Edition 1380], Pg. 115**  
+point of view), [1st Edition 1380], Pg. 115**  
 [1]** Muhammad Jawad Hujjati Kermani: Ittelaat Daily, Issue No. 29,
 Khordad 1379  
  **[2]** Sermon 219, Faid al-Islam Edition.  
@@ -944,7 +944,7 @@ relations of Amirul Momineen (a.s.).
 Positions), Pg. 336  
 **[5]** This possibility is also applicable to the book of *Ad-Darajaat
 ar-Raafia* as it also contains many praises of the Caliphs.  
-**[6]** [For more information refer to Section One of the 4<sup>th</sup>
+**[6]** [For more information refer to Section One of the 4th
 volume of this book.]  
 **[7]** Muhammad Baqir Mahmoodi: *Nahjus Saada Fee Mustadrak Nahjul
 Balagha,* Vol. 4, Pg. 23  

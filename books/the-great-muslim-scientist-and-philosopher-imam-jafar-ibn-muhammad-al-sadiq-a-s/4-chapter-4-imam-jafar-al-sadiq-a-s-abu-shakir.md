@@ -497,4 +497,3 @@ full of doubts and misgivings about my faith and my convictions."
 Jafar al-Sadiq (A.S) remarked: "The doubt about idol worship is the
 beginning of the worship of Allah."
 
-

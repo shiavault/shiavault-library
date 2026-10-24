@@ -902,4 +902,3 @@ Zahir (outward -apparent -exoteric) ظاهر
 
 Zoology (ganwar-shenasi) جانورشناسی
 
-

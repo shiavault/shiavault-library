@@ -57,7 +57,6 @@ others,(here, their regret), or to behave so that he can escape from the
 reality. That is why the latter meaning has been chosen for the word/
 'asarrou/ in this verse.
 
-
 **Commentary : Verse 55**
 
 (55) أَلا إِنَّ لِلَّهِ ما فِي السَّماواتِ وَ الْأَرْضِ أَلا إِنَّ
@@ -87,7 +86,6 @@ saying:
 "... Behold! Verily, Allah's promise is true, but most of them do not
 know. "
 
-
 **Commentary : Verse 56**
 
 (56) هُوَ يُحْيي‏ وَ يُميتُ وَ إِلَيْهِ تُرْجَعُونَ
@@ -116,7 +114,6 @@ reward of all your deeds there. The verse continues saying:
 And you will receive the rewards for all the deeds you have done then
 and there.
 
-
 **Commentary : Verse 57**
 
 (57) يا أَيُّهَا النَّاسُ قَدْ جاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ وَ
@@ -134,7 +131,6 @@ to the purification of spirit and heart from spiritual evils. The
 spiritual defects are more grievous than the diseases of the body. The
 Qur'an's advantage lies in this very healing the spiritual diseases. The
 verse says:
-
 
 " O mankind! There hath come to you an admonition from your Lord and a
 healing for what is in your hearts, ..."
@@ -168,7 +164,6 @@ states:
 refuge in the Qur'an. " It is simultaneously full of preaching as well
 as being a remedy, a source of illumination and blessing all at the same
 time. "
-
 
 **Commentary : Verse 58**
 
@@ -232,7 +227,6 @@ hoard'. "
 
 (2) Tafsir- us- S afi, vol. 2, p. 407
 
-
 **Commentary : Verse 59**
 
 (59) قُلْ أَ رَأَيْتُمْ ما أَنْزَلَ اللَّهُ لَكُمْ مِنْ رِزْقٍ
@@ -269,7 +263,6 @@ lawful things cannot be counted unlawful either.
 
 However, to legislate an innovative law is a crime, and to forge it
 against Allah is another crime.
-
 
 **Commentary : Verse 60**
 
@@ -308,5 +301,4 @@ way for the utter denial and refutation of the fact that it is He who
 has provided all those favors. The verse says:
 
 "... but most of them are not thankful. "
-
 

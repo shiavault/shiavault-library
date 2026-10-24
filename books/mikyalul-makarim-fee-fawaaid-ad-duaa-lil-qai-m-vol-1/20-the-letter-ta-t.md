@@ -103,11 +103,7 @@ it so that they may enter Paradise, without giving any account.”[^6]
 I say: some traditions on this subject are also recorded in *Tafseer
 Burhan* especially under the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
 
 ***“Then surely upon Us is the taking of their account.” (Qur’an, Surah
 Ghashiya 88:26)***
@@ -188,12 +184,8 @@ reply in his blessed handwriting was as follows: He must free every
 slave who has been under his authority for at least six months. The
 following verse proves the correctness of this matter:
 
-<blockquote dir="rtl">
-  <p>
-وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْجُونِ
-الْقَدِيمِ
-  </p>
-</blockquote>
+> وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْجُونِ
+> الْقَدِيمِ
 
 ***“And (as for) the moon, We have ordained for it stages till it
 becomes again as an old dry palm branch.” (Qur’an, Surah Yasin 36:39)***
@@ -208,11 +200,7 @@ give eighty four sheep in *Sadaqah* and if he has camels he must give
 eighty four camels and if he has money he must give eighty four dirhams.
 The evidence of this is the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ
-  </p>
-</blockquote>
+> لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ
 
 ***“Certainly Allah helped you in many battlefields.” (Qur’an, Surah
 Taubah 9:25)***
@@ -420,11 +408,7 @@ said:
 
 I asked His Eminence, Abu Ja’far Baqir (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ
 
 ***“And certainly We have given you seven of the oft-repeated (verses)
 and the grand Qur’an.” (Qur’an, Surah Hijr 15:87)***
@@ -472,11 +456,7 @@ is remembered from that honored personality. And for the meaning of
 ‘Mathani’ it is possible that it may be denoting all the verses of the
 Qur’an. This possibility is further supported by the following verse:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ
-  </p>
-</blockquote>
+> اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ
 
 ***“Allah has revealed the best announcement, a book conformable in its
 various parts…” (Qur’an, Surah Zumar 39:23)***
@@ -607,5 +587,4 @@ the Qaim…(Author).
 [^27]: Ibid, Pg. 524
 
 [^28]: Ibid, Pg. 517
-
 

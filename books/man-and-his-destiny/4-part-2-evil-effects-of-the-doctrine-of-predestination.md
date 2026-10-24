@@ -82,4 +82,3 @@ influenced over Islamic literature, these words have become synonymous
 with compulsion, lack of liberty and illogical control of human actions
 and behavior by an invisible force.
 
-

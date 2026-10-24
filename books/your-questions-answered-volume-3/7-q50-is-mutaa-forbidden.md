@@ -240,4 +240,3 @@ Music; (3) Obscene Songs; (4) Obscene Scenes; and (5) Dance. Also, as is
 now accepted by many social workers, it teaches hooliganism and is a
 major factor in the ever-increasing rate of juvenile delinquency.
 
-

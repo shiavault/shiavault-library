@@ -216,4 +216,3 @@ Question 3: [20 points]
  Briefly describe the three stages of upbringing as outlined in the
 hadith of the Prophet of Islam (s.a.w.).
 
-

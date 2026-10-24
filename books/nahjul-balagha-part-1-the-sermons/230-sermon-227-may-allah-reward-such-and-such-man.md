@@ -4,17 +4,9 @@ Sermon 227: May Allah reward such and such man….
 *About a companion who passed away from this world before the occurrence
 of troubles.*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-يريد به بعض أصحابه
-  </p>
-</blockquote>
+> يريد به بعض أصحابه
 
 May Allah reward such and such man [^1] who straightened the curve,
 cured the disease, abandoned mischief and established the *sunnah*. He
@@ -24,16 +16,12 @@ its evils. He offered Allah's obedience and feared Him as He deserved.
 He went away and left the people in dividing ways wherein the misled
 cannot obtain guidance and the guided cannot attain certainty.
 
-<blockquote dir="rtl">
-  <p>
-لله بلادُ فُلاَن، فَلَقَدْ قَوَّمَ الاْوَدَ، وَدَاوَى الْعَمَدَ،
-وَأَقَامَ السُّنَّةَ، وَخَلَّفَ الْفِتْنَةَ! ذَهَبَ نَقِيَّ الثَّوْبِ،
-قَلِيلَ الْعَيْبِ، أَصَابَ خَيْرَهَا، وَسَبَقَ شَرَّهَا، أَدَّى إِلَى
-اللهِ طَاعَتَهُ، وَاتَّقَاهُ بِحَقِّهِ، رَحَلَ وَتَرَكَهُمْ فِي طُرُق
-مَتَشَعِّبَة، لاَ يَهْتَدِي بِهَا الضَّالُّ، وَلاَ يَسْتَيْقِنُ
-الْمُهْتَدِي.
-  </p>
-</blockquote>
+> لله بلادُ فُلاَن، فَلَقَدْ قَوَّمَ الاْوَدَ، وَدَاوَى الْعَمَدَ،
+> وَأَقَامَ السُّنَّةَ، وَخَلَّفَ الْفِتْنَةَ! ذَهَبَ نَقِيَّ الثَّوْبِ،
+> قَلِيلَ الْعَيْبِ، أَصَابَ خَيْرَهَا، وَسَبَقَ شَرَّهَا، أَدَّى إِلَى
+> اللهِ طَاعَتَهُ، وَاتَّقَاهُ بِحَقِّهِ، رَحَلَ وَتَرَكَهُمْ فِي طُرُق
+> مَتَشَعِّبَة، لاَ يَهْتَدِي بِهَا الضَّالُّ، وَلاَ يَسْتَيْقِنُ
+> الْمُهْتَدِي.
 
 Alternative Sources for Sermon 227
 ----------------------------------
@@ -218,5 +206,4 @@ to him that only the other day he has said that \`Umar had established
 the sunnah and banished innovations, so that when his conduct was in
 accord with the sunnah what was the sense in accepting the sunnah but
 refusing to follow his conduct.
-
 

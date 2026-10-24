@@ -161,7 +161,6 @@ ordered me to obey him, and I have done just that.' The Messenger of
 Allah, peace be upon him and his progeny, said: Do not ever plot against
 Ali, for he is of me and I am of him, and he is your wali after me.'"
 
-<p dir="rtl">
 حَدَّثَنَا اب'نُ نُمَي'رٍ حَدَّثَنِي أَج'لَحُ ال'كِن'دِيُّ عَن' عَب'دِ
 اللَّهِ ب'نِ بُرَي'دَةَ عَن' أَبِيهِ بُرَي'دَةَ قَالَ بَعَثَ رَسُولُ
 اللَّهِ صَلَّى اللَّهُ عَلَي'هِ وَسَلَّمَ بَع'ثَي'نِ إِلَى ال'يَمَنِ
@@ -181,7 +180,6 @@ Ali, for he is of me and I am of him, and he is your wali after me.'"
 اللَّهُ عَلَي'هِ وَسَلَّمَ لَا تَقَع' فِي عَلِيٍّ فَإِنَّهُ مِنِّي
 وَأَنَا مِن'هُ وَهُوَ وَلِيُّكُم' بَع'دِي وَإِنَّهُ مِنِّي وَأَنَا
 مِن'هُ وَهُوَ وَلِيُّكُم' بَع'دِي
-</p>
 
 References:
 
@@ -216,13 +214,11 @@ References:
 o Sahih Muslim, Book 001, \#0141, Book of Faith; Page 50, \#(78)-131,
 Arabic version
 
-<p dir="rtl">
 حَدَّثَنَا اب'نُ نُمَي'رٍ حَدَّثَنَا ال'أَع'مَشُ عَن' عَدِيِّ ب'نِ
 ثَابِتٍ عَن' زِرِّ ب'نِ حُبَي'شٍ قَالَ قَالَ عَلِيٌّ رَضِيَ اللَّهُ
 عَن'هُ وَاللَّهِ إِنَّهُ مِمَّا عَهِدَ إِلَيَّ رَسُولُ اللَّهِ صَلَّى
 اللَّهُ عَلَي'هِ وَسَلَّمَ أَنَّهُ لَا يُب'غِضُنِي إِلَّا مُنَافِقٌ
 وَلَا يُحِبُّنِي إِلَّا مُؤ'مِنٌ
-</p>
 
 References:
 
@@ -238,18 +234,14 @@ Reference:
 o Kanz al-U'ummal, by al-Muttaqi al-Hindi, vol 11, \#32884 (المجلد
 الحادي عشر \>\> فضائل علي رضي الله عنه)
 
-<p dir="rtl">
 من أحب عليا أحبني ومن أبغض عليا فقد أبغضني (ك - عن سلمان).
-</p>
 
 Reference:
 
 o Kanz al-U'ummal, by al-Muttaqi al-Hindi, vol 11, \#32902 (المجلد
 الحادي عشر \>\> فضائل علي رضي الله عنه)
 
-<p dir="rtl">
 من أحب عليا أحبني ومن أبغض عليا فقد أبغضني (ك - عن سلمان).
-</p>
 
 Reference:
 
@@ -324,9 +316,7 @@ p263
 
 o Ibn Habban, Ibn Abd al-Barr
 
-<p dir="rtl">
 من آذى عليا فقد آذاني (حم، تخ، ك - عن عمرو بن شاش).
-</p>
 
 Reference:
 
@@ -389,7 +379,6 @@ responded as follows:
 "Allah commanded me that none should proclaim this except me or someone
 from my Ahlul-Bayt". and thus he sent Ali for this mission.
 
-<p dir="rtl">
 حَدَّثَنَا وَكِيعٌ قَالَ قَالَ إِس'رَائِيلُ قَالَ أَبُو إِس'حَاقَ عَن'
 زَي'دِ ب'نِ يُثَي'عٍ عَن' أَبِي بَك'رٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ
 عَلَي'هِ وَسَلَّمَ بَعَثَهُ بِبَرَاءَةٌ لِأَه'لِ مَكَّةَ لَا يَحُجُّ
@@ -404,7 +393,6 @@ from my Ahlul-Bayt". and thus he sent Ali for this mission.
 يَا رَسُولَ اللَّهِ حَدَثَ فِيَّ شَي'ءٌ قَالَ مَا حَدَثَ فِيكَ إِلَّا
 خَي'رٌ وَلَكِن' أُمِر'تُ أَن' لَا يُبَلِّغَهُ إِلَّا أَنَا أَو' رَجُلٌ
 مِنِّي
-</p>
 
 References:
 
@@ -421,7 +409,6 @@ o Khasa'is al-Alawiyyah, by al-Nisa'i, p20
 
 o Sirah al-Nabi, by Shibli Numani, v2, p239
 
-<p dir="rtl">
 حَدَّثَنَا عَب'د اللَّهِ حَدَّثَنَا مُحَمَّدُ ب'نُ سُلَي'مَانَ لُوَي'نٌ
 حَدَّثَنَا مُحَمَّدُ ب'نُ جَابِرٍ عَن' سِمَاكٍ عَن' حَنَشٍ عَن' عَلِيٍّ
 رَضِيَ اللَّهُ عَن'هُ قَالَ لَمَّا نَزَلَت' عَش'رُ آيَاتٍ مِن' بَرَاءَةٌ
@@ -436,7 +423,6 @@ o Sirah al-Nabi, by Shibli Numani, v2, p239
 وَسَلَّمَ فَقَالَ يَا رَسُولَ اللَّهِ نَزَلَ فِيَّ شَي'ءٌ قَالَ لَا
 وَلَكِنَّ جِب'رِيلَ جَاءَنِي فَقَالَ لَن' يُؤَدِّيَ عَن'كَ إِلَّا أَن'تَ
 أَو' رَجُلٌ مِن'كَ
-</p>
 
 References:
 
@@ -487,9 +473,7 @@ o Hilyatul Awliyaa, by al-Hafidh Abu Nu'aym
 
 o Nuskhatah, by Abu Ahmad al-Faradi
 
-<p dir="rtl">
 أنا دار الحكمة، وعلي بابها
-</p>
 
 References:
 
@@ -501,10 +485,8 @@ Ali); v11,\#32978 (Virtues of Ali); v13,\#36462 (Virtues of Ali);
 o Sahih al-Tirmidhi: vol5,\#3807 (أبواب المَنَاقِب عَن رَسُولِ اللَّهِ
 صَلَّى اللَّهُ عَلَي'هِ وسَلَّم);
 
-<p dir="rtl">
 قال رسول الله صلى الله عليه وسلم: أنا مدينة العلم وعلي بابها ، فمن أراد
 المدينة فليأتها من بابها
-</p>
 
 References:
 
@@ -535,9 +517,7 @@ o al-Haythami, Majma al-zawa'id
 
 o Ibn Athir in Usd alghabah
 
-<p dir="rtl">
 أعلم أمتي من بعدي علي بن أبي طالب (الديلمي - عن سلمان).
-</p>
 
 References:
 
@@ -546,5 +526,4 @@ o Kanz al-U'ummal, by al-Muttaqi al-Hindi, v11, \#32977 (المجلد الحاد
 has obeyed me... Whoever obeys , 'Ali has obeyed me, and whoever
 disobeys , 'Ali has disobeyed me. References: o al-Hakim, al-Mustadrak,
 Vol. III, p. 131
-
 

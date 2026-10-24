@@ -291,4 +291,3 @@ project, his mind about shifting to Qum was made up already.
 
 [^9]: Introduction of the book Tohfatul Ahbaab
 
-

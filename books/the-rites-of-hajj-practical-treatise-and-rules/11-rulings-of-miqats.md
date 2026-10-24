@@ -82,4 +82,3 @@ Whenever a person renounces Ihram because of ignorance or forgetfulness
 and remembers after finishing the acts, then his/her acts are correct if
 it happens in Umrah al-Tamattu’ or Hajj or Umrah al-Mufradah.
 
-

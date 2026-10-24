@@ -22,7 +22,6 @@ Muhammad (pbuh) has said, "I am leaving among you the Two Weighty
 Things: the Book of Allah, and my progeny, that is, my family; you shall
 never go astray so long as you follow them both."
 
-
 **Chapter 23 : The Early Meal of the Month of Ramadhan (Suhoor)
 **
 The Exalted and Praised One has said in His Glorious Book: "... and eat
@@ -259,5 +258,4 @@ to perform ghusul particularly during the last ten days of the month of
 Ramadhan. According to AlIqbal, Abu Abdullah, peace be upon him, is
 quoted saying that the Messenger of Allah (pbuh) used to have his ghusul
 each night during the last ten nights of the month of Ramadhan.
-
 

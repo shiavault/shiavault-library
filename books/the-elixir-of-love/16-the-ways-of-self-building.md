@@ -75,12 +75,8 @@ efficacy of teaching and training by instructors of ethics is their
 obligation to act according to their own teachings and guidelines. In
 this respect Amir al-Mu'minin Ali (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"من نصَبَ نفسه للناس اماما فعليه أن يبدأ بتعليم نفسه قبل تعليم غيره،
-وليكن تأديبه بسيرته، قبل تأديبه بلسانه"
-  </p>
-</blockquote>
+> "من نصَبَ نفسه للناس اماما فعليه أن يبدأ بتعليم نفسه قبل تعليم غيره،
+> وليكن تأديبه بسيرته، قبل تأديبه بلسانه"
 
 "Whoever undertakes leading people should, before teaching others,
 attempt to teach himself (sufficiently) and before training others for
@@ -290,20 +286,12 @@ he said:
 
 "It is quoted in a Divine *(Qudsi) hadith:*
 
-<blockquote dir="rtl">
-  <p>
-"يا ابن آدم! خلقت الأشياء لأجلِك وخلقتك لآجلي"
-  </p>
-</blockquote>
+> "يا ابن آدم! خلقت الأشياء لأجلِك وخلقتك لآجلي"
 
 'O son of Adam! I created everything for you and created you for
 Myself.'[^10]
 
-<blockquote dir="rtl">
-  <p>
-"عبدي أطعني حتى أجعلك مِـثلي أو مَـثَلي"
-  </p>
-</blockquote>
+> "عبدي أطعني حتى أجعلك مِـثلي أو مَـثَلي"
 
 'My servant! Obey me, so that I make you like Myself or an example of
 Myself.'[^11]
@@ -353,11 +341,7 @@ the Shaykh's session. When we arrived in, I saw the Shaykh was sitting
 facing the *qibla* and engaged in reciting the *munajat* of Arnir
 al-Mu'minin Ali (a):
 
-<blockquote dir="rtl">
-  <p>
-"اللهم اني أسالك الأمان يوم لا ينفع مال ولا بنون .."
-  </p>
-</blockquote>
+> "اللهم اني أسالك الأمان يوم لا ينفع مال ولا بنون .."
 
 "O Lord! I seek Your security on the Day that neither property nor
 children are of any benefit."
@@ -376,11 +360,7 @@ his supplication:
 He said this in Persian and then went on reciting the *munajat* (in
 Arabic):
 
-<blockquote dir="rtl">
-  <p>
-"وأسالك الأمان يوم لا ينفع مال و..."
-  </p>
-</blockquote>
+> "وأسالك الأمان يوم لا ينفع مال و..."
 
 "I seek Your security on the Day that neither property……"
 
@@ -477,22 +457,14 @@ Scholars of Divinity, who are true successors to the prophets and to
 their vicegerents, enjoy such characteristic too. They are the ones who
 according to Amir al-Mu'minin Ali (a):
 
-<blockquote dir="rtl">
-  <p>
-"هجم بهم العلم على حقيقة البصيرة، وباشروا روح اليقين"
-  </p>
-</blockquote>
+> "هجم بهم العلم على حقيقة البصيرة، وباشروا روح اليقين"
 
 "Knowledge based on true insight have reached them and they have
 attained the spirit of certitude!"[^14]
 
 Of course, as stated inthe holy Imam's (a) words:
 
-<blockquote dir="rtl">
-  <p>
-"أولئك والله الأقلَون عدداً، والأعظمون عند الله قدْراً"
-  </p>
-</blockquote>
+> "أولئك والله الأقلَون عدداً، والأعظمون عند الله قدْراً"
 
 "The number of those scholars of Divinity, who enjoy the highest status
 with their God Almighty, are very few in number..."[^15]
@@ -522,11 +494,7 @@ From the Islamic viewpoint, man's improper deeds play a basic role in
 the predicaments and misfortunes that befall him. The Holy Qur'an
 asserts accordingly:
 
-<blockquote dir="rtl">
-  <p>
-(وما أصابكم من مصيبة فبما كسبت أيديكم)
-  </p>
-</blockquote>
+> (وما أصابكم من مصيبة فبما كسبت أيديكم)
 
 (Whatever misfortune happens to you, is because of the things your hands
 have wrought,..) (al-Shura: 30)
@@ -856,11 +824,7 @@ deed. A Muslim is not allowed to annoy or even imprecate animals.[^19]
 
 Thus, the Holy Prophet (s) is quoted as saying: --
 
-<blockquote dir="rtl">
-  <p>
-"لو غُـفر لكم ما تأتون الى البهائم لغُفرَ لكم كثيراُ"
-  </p>
-</blockquote>
+> "لو غُـفر لكم ما تأتون الى البهائم لغُفرَ لكم كثيراُ"
 
 "If the cruelty you do to animals is forgiven, many of your sins are
 forgiven!"[^20]
@@ -872,11 +836,7 @@ slaughtered before the eyes of other animals of the same species.[^21]
 
 As Imam Ali (a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"لاتذبح الشاة عند الشاة ولا الجزور عند الجزور وهو ينظر اليه"
-  </p>
-</blockquote>
+> "لاتذبح الشاة عند الشاة ولا الجزور عند الجزور وهو ينظر اليه"
 
 "Do not slaughter a sheep in the presence of another sheep and a camel
 in the presence of another camel while they are looking at the animals'
@@ -972,5 +932,4 @@ Tehrani in Najaf-i Ashraf. Also see: Ganjinay-i Danishmandan, IX, 219.
 a severe stomachache. He appealed to Agha Kashfi, who in turn referred
 him to the reverend Shaykh. He told him: "You have slaughtered a calf
 before its mother's eyes, so this son of yours will not be cured."
-
 

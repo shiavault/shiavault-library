@@ -60,13 +60,9 @@ there will be no chance left for him no matter how much he hopes to
 return to the world once again and embark upon ridding himself of the
 darkness:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ \*
-لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ كَلاَّ إِنَّهَا كَلِمَةٌ
-هُوَ قَائِلُهَا وَمِنْ وَرَائِهِمْ بَرْزَخٌ إِلَى يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> حَتَّى إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ \*
+> لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ كَلاَّ إِنَّهَا كَلِمَةٌ
+> هُوَ قَائِلُهَا وَمِنْ وَرَائِهِمْ بَرْزَخٌ إِلَى يَوْمِ يُبْعَثُونَ
 
 ***“When death comes to one of them, he says, ‘My Lord! Take me back,
 that I may act righteously in what I have left behind.’ ‘By no means!
@@ -77,25 +73,17 @@ In the viewpoint of the Qur’an, there is no room for the least doubt in
 regard to the influence between faith and infidelity and there are many
 verses denoting this issue, amongst them:
 
-<blockquote dir="rtl">
-  <p>
-... وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ
-سَيِّئَاتِهِ ...
-  </p>
-</blockquote>
+> ... وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ
+> سَيِّئَاتِهِ ...
 
 ***“And whoever has faith in Allah and acts righteously, He shall
 absolve him of his misdeeds.”***[^2]
 
 Elsewhere, it states:
 
-<blockquote dir="rtl">
-  <p>
-... وَمَنْ يَرْتَدِدْ مِنْكُمْ عَنْ دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ
-فَأُوْلَئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالآخِرَةِ
-وَأُوْلَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> ... وَمَنْ يَرْتَدِدْ مِنْكُمْ عَنْ دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ
+> فَأُوْلَئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالآخِرَةِ
+> وَأُوْلَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
 
 ***“And whoever of you turns away from his religion and dies
 faithless—they are the ones whose works have failed in this world and
@@ -112,26 +100,18 @@ deeds—if they are done in an acceptable and worthy manner—wipe out the
 effects of previous bad deeds. For example, repentance causes sins to be
 forgiven if it is done correctly:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ
-اللّهَ يَجِد اللّهَ غَفُورًا رَحِيمًا
-  </p>
-</blockquote>
+> وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ
+> اللّهَ يَجِد اللّهَ غَفُورًا رَحِيمًا
 
 ***“Whoever commits evil or wrongs himself and then pleads to Allah for
 forgiveness, will find Allah All-forgiving, All-merciful.”***[^4]
 
 Elsewhere, it also states:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ
-ذَكَرُوا اللّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَنْ يَغْفِرُ
-الذُّنُوبَ إِلاَّ اللّهُ وَلَمْ يُصِرُّوا عَلَى مَا فَعَلُوا وَهُمْ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ
+> ذَكَرُوا اللّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَنْ يَغْفِرُ
+> الذُّنُوبَ إِلاَّ اللّهُ وَلَمْ يُصِرُّوا عَلَى مَا فَعَلُوا وَهُمْ
+> يَعْلَمُونَ
 
 ***“And those who, when they commit an indecent act or wrong themselves,
 remember Allah, and plead for [Allah’s] forgiveness for their sins—and
@@ -152,12 +132,8 @@ aspects of the soul too, or the sin is so polluting that it contaminates
 the other aspects of the soul, too. For instance, in regard to prayer,
 the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمْ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلْفًا مِن اللَّيْلِ إِنَّ
-الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ...
-  </p>
-</blockquote>
+> وَأَقِمْ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلْفًا مِن اللَّيْلِ إِنَّ
+> الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ...
 
 ***“Maintain the prayer at the two ends of the day and during the early
 hours of the night. Indeed good deeds efface misdeeds.”***[^6]
@@ -245,12 +221,8 @@ examining them we understand that a person who is always looking for the
 faults of Muslims and stigmatizing them is one of the most wicked and
 evil of people. Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
-آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالآخِرَةِ ...
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ
+> آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالآخِرَةِ ...
 
 ***“Indeed for those who want indecency to spread among the faithful,
 there is a painful punishment in the world and the hereafter.”***[^11]
@@ -819,5 +791,4 @@ al-Islam.
 [^28]: Ibid., p. 17.
 
 [^29]: Ibid., p. 31.
-
 

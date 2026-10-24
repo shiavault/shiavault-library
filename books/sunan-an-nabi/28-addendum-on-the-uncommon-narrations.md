@@ -19,13 +19,9 @@ Irshad al-Qulub.[^4]
 It is narrated from the Holy Prophet (S) that it is from the *sunnah*
 for a believer to say one hundred times on the day of Ghadeer:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي جَعَلَ كَمَالَ دِيْنِهِ وَ تَـمَامَ
-نِعْمَتِهِ بِوِلاَيَةِ أَمِيرِ الْمُؤْمِنِينَ عَلِيِّ بْنِ أَبِي
-طَالِبٍ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي جَعَلَ كَمَالَ دِيْنِهِ وَ تَـمَامَ
+> نِعْمَتِهِ بِوِلاَيَةِ أَمِيرِ الْمُؤْمِنِينَ عَلِيِّ بْنِ أَبِي
+> طَالِبٍ.
 
 *“All praise is due to Allah, the One who put the perfection of His
 religion and the completion of His favor in the Wilayah of Amir
@@ -51,23 +47,15 @@ al-Tabarsi in al-Mishkat.[^9]
 7. In Majma’ al-Bayan: Whenever the Holy Prophet (S) heard thunder he
 would say:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ مَنْ يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ.
-  </p>
-</blockquote>
+> سُبْحَانَ مَنْ يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ.
 
 *“Praise be to the One whose Glory is declared by thunder.”*[^10]
 
 8. Also: Salim ibn ‘Abdillah narrates from his father who said: Whenever
 the Holy Prophet (S) saw thunderbolts he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لاَ تَقْـتُلْنَا بِغَضَبِكَ وَ لاَ تُهْلِكْنَا بِعَذَابِكَ
-وَ عَافِنَا قَبْلَ ذٌلِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لاَ تَقْـتُلْنَا بِغَضَبِكَ وَ لاَ تُهْلِكْنَا بِعَذَابِكَ
+> وَ عَافِنَا قَبْلَ ذٌلِكَ.
 
 *“O Allah! Do not kill us with Your wrath; and do not destroy us with
 Your punishment; and grant us amnesty before that.”*[^11]
@@ -170,5 +158,4 @@ benefit, while ensuring that brevity is maintained.
 [^20]: Tafsir Furat al-Kufi: 139, Bihar al-Anwar 23:248
 
 [^21]: Bihar al-Anwar 82:148
-
 

@@ -54,4 +54,3 @@ he was Christian, and that he died in 40 A.H./661 A.D.
 
 [^8]: Ibn al-Athir, Al-Kamil, Vol. 4, p. 12.
 
-

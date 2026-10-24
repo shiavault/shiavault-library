@@ -837,4 +837,3 @@ of the absence of clear constitutional provisions which delineate the
 powers and resolve the conflicts between executive and legislature.
 [Trans.]
 
-

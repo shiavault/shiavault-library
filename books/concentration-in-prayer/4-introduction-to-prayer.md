@@ -575,4 +575,3 @@ future problems, solving academic problems, very often recollecting
 during Prayer, and topics, which were forgotten by him completely. And
 when he returns to himself, he discovers his Prayer are over.
 
-

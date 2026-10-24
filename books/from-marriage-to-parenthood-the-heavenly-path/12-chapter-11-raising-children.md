@@ -64,19 +64,11 @@ personality in adulthood.
 9. Keep your promises. Keeping promises in Islam is a sign of one’s
 faith, and Allāh (SwT) mentions it in the Qur\`an.
 
-<blockquote dir="rtl">
-  <p>
- وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً 
-  </p>
-</blockquote>
+>  وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْؤُولاً 
 
 “And fulfil the covenants; indeed all covenants are accountable.”[^7]
 
-<blockquote dir="rtl">
-  <p>
- وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ 
-  </p>
-</blockquote>
+>  وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ 
 
 “And those who keep their trusts and covenants.”[^8]
 
@@ -91,15 +83,11 @@ sustainer.”[^9]
 their children not to enter their bedroom without asking permission.
 Allāh (SwT) has pointed to this important point in Surat Nūr, Verse 58:
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنُكُمُ الَّذِينَ مَلَكَتْ
-أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنكُمْ ثَلاَثَ
-مَرَّاتٍ مِن قَبْلِ صَلاَةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم
-مِّنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلاَةِ الْعِشَاء ثَلاَثُ عَوْرَاتٍ
-لَّكُمْ 
-  </p>
-</blockquote>
+>  يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنُكُمُ الَّذِينَ مَلَكَتْ
+> أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنكُمْ ثَلاَثَ
+> مَرَّاتٍ مِن قَبْلِ صَلاَةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم
+> مِّنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلاَةِ الْعِشَاء ثَلاَثُ عَوْرَاتٍ
+> لَّكُمْ 
 
 “O you who have faith! Let your permission be sought by your slaves and
 those of you who have not reached puberty three times: before the dawn
@@ -138,11 +126,7 @@ chests and thighs should be covered.
 f. Create love for Ŝalāt in your child, as Allāh (SwT) clearly states in
 the Noble Qur\`an that Ŝalāt makes one far from ugly acts.
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ الصَّلاَةَ تَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ 
-  </p>
-</blockquote>
+>  إِنَّ الصَّلاَةَ تَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ 
 
 “Indeed the prayer prevents indecencies and wrongs.”[^10]
 
@@ -231,13 +215,9 @@ The effect of this was that it was instilled in the children from
 childhood that God doesn’t exist through this very deluded manner. This
 same concept is condemned in Surat Yāsīn, Verse 47:
 
-<blockquote dir="rtl">
-  <p>
- قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَنْ لَّوْ
-يَشَآءُ اللٌّهُ أَطْعَمَهُ إِنْ أَنْـتُمْ إِلاَّ فِي ضَلاَلٍ مُّبِينٍ
-
-  </p>
-</blockquote>
+>  قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَنْ لَّوْ
+> يَشَآءُ اللٌّهُ أَطْعَمَهُ إِنْ أَنْـتُمْ إِلاَّ فِي ضَلاَلٍ مُّبِينٍ
+> 
 
 “The faithless say to the faithful, “Shall we feed (someone) whom Allāh
 (SwT) would have fed, had He wished? You are only in manifest error.”“
@@ -344,11 +324,7 @@ qualities and characteristics, and discouraging bad ones, such as the
 rights of friends, faith, etc. The Noble Qur\`an uses this method to do
 the same as mentioned in Surat Yūsuf, Verse 111:
 
-<blockquote dir="rtl">
-  <p>
- لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الأَلْبَابِ 
-  </p>
-</blockquote>
+>  لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الأَلْبَابِ 
 
 ***“There is certainly a moral in their accounts for those who possess
 intellect.”***
@@ -370,11 +346,7 @@ d. They should contain answers to the questions of the child.
 e. The best stories should be chosen, just as Allāh (SwT) has stated in
 Surat Yūsuf, Verse 3:
 
-<blockquote dir="rtl">
-  <p>
- نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ 
-  </p>
-</blockquote>
+>  نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ 
 
 ***“We will recount to you the best of narratives.”***
 
@@ -450,12 +422,8 @@ but ensures their obedience.
 Allāh (SwT) has referred to this impact of kindness in the Noble
 Qur\`an, in Surat Āli-’ Imrān, Verse 159:
 
-<blockquote dir="rtl">
-  <p>
- فَبِمَا رَحْمَةٍ مِّنَ اللٌّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا
-غَلِيظَ الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ 
-  </p>
-</blockquote>
+>  فَبِمَا رَحْمَةٍ مِّنَ اللٌّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لاَنفَضُّوا مِنْ حَوْلِكَ 
 
 ***“It is by Allāh (SwT)’s mercy that you are gentle to them; and had
 you been harsh and hardhearted, surely they would have scattered from
@@ -587,12 +555,8 @@ One of the Qur\`anic methods of Nurturing human beings is also by the
 use of good role models to guide one to the right path, as mentioned in
 Surat al-Aĥzāb, Verse 21:
 
-<blockquote dir="rtl">
-  <p>
- لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللٌّهِ أُسْوَةٌ حَسَنَةٌ لِّمَنْ
-كَانَ يَرْجُو اللٌّهَ وَالْيَوْمَ الآخِرَ وَذَكَرَ اللٌّهَ كَثِيراً 
-  </p>
-</blockquote>
+>  لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللٌّهِ أُسْوَةٌ حَسَنَةٌ لِّمَنْ
+> كَانَ يَرْجُو اللٌّهَ وَالْيَوْمَ الآخِرَ وَذَكَرَ اللٌّهَ كَثِيراً 
 
 ***“In the Apostle of Allāh (SwT) there is certainly for you a good
 exemplar, for those who look forward to Allāh (SwT) and the Last Day,
@@ -661,11 +625,7 @@ of Allāh (SwT) and the verses will be memorised faster and better.
 5. Never underestimate the power of prayer. For Allāh (SwT) says in
 Surat Furqan, Verse 77:
 
-<blockquote dir="rtl">
-  <p>
- قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلاَ دُعَاؤُكُمْ 
-  </p>
-</blockquote>
+>  قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلاَ دُعَاؤُكُمْ 
 
 ***“Say: What store my Lord would set by you were it not for your
 supplication?”***
@@ -721,19 +681,15 @@ and programs.
 
 15. Recite the following Du°ā before beginning:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ ارْحَمْنِي بِتَرْكِ مَعَاصِيكَ أَبَداً مَا أَبْقَيْتَنِي
-وَ ارْحَمْنِي مِنْ تَكَلُّفِ مَا لاَ يُعْنِينِي وَ ارْزُقْنِي حُسْنَ
-الْمَنْظَرِ فِيمَا يُرْضِيكَ عَنِّي وَ أَلْزِمْ قَلْبِي حِفْظَ
-كِتَابِكَ كَمَا عَلَّمْتَنِي وَ ارْزُقْنِي أَنْ أَتْلُوَهُ عَلَى
-النَّحْوِ الَّذِي يُرْضِيكَ عَنِّي أَللٌّهُمَّ نَوِّرْ بِكِتَابِكَ
-بَصَرِي وَ اشْرَحْ بِهِ صَدْرِي وَ فَرِّحْ بِهِ قَلْبِي وَ أَطْلِقْ
-بِهِ لِسَانِي وَ اسْتَعْمِلْ بِهِ بَدَنِي وَ قَوِّنِي عَلَى ذَلِكَ وَ
-أَعِنِّي عَلَيْهِ إِنَّهُ لاَ مُعِينَ عَلَيْهِ إِلاَ أَنْتَ لاَ إِلَهَ
-إِلاَ أَنْتَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ ارْحَمْنِي بِتَرْكِ مَعَاصِيكَ أَبَداً مَا أَبْقَيْتَنِي
+> وَ ارْحَمْنِي مِنْ تَكَلُّفِ مَا لاَ يُعْنِينِي وَ ارْزُقْنِي حُسْنَ
+> الْمَنْظَرِ فِيمَا يُرْضِيكَ عَنِّي وَ أَلْزِمْ قَلْبِي حِفْظَ
+> كِتَابِكَ كَمَا عَلَّمْتَنِي وَ ارْزُقْنِي أَنْ أَتْلُوَهُ عَلَى
+> النَّحْوِ الَّذِي يُرْضِيكَ عَنِّي أَللٌّهُمَّ نَوِّرْ بِكِتَابِكَ
+> بَصَرِي وَ اشْرَحْ بِهِ صَدْرِي وَ فَرِّحْ بِهِ قَلْبِي وَ أَطْلِقْ
+> بِهِ لِسَانِي وَ اسْتَعْمِلْ بِهِ بَدَنِي وَ قَوِّنِي عَلَى ذَلِكَ وَ
+> أَعِنِّي عَلَيْهِ إِنَّهُ لاَ مُعِينَ عَلَيْهِ إِلاَ أَنْتَ لاَ إِلَهَ
+> إِلاَ أَنْتَ.
 
 “O Allāh (SwT)! Have mercy on me by enabling me to abandon acts of
 disobedience to You forever as long as You keep me alive, and have mercy
@@ -810,5 +766,4 @@ Hussari, Muhammed Jibrail, Abu Bakr Shaatri. These and others can be
 found at: http://www.hidayahonline.org/?page=audio.
 
 [^28]: al-Kāfī, vol. 2, pg. 577
-
 

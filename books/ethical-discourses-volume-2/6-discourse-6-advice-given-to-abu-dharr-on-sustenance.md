@@ -1,19 +1,15 @@
 Discourse 6: Advice Given To Abu Dharr On Sustenance
 ====================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي ذَرٍّ قَالَ: قَالَ رَسُولُ اللٌّهِ لِرَجُلٍ وَ هُوَ
-يُوصِـيهِ: أَقْلِلْ مِنَ الشَّهَوَاتِ يَسْهَلْ عَلَيْكَ الْفَقْرُ، وَ
-أَقْلِلْ مِنَ الذُّنُوبِ يَسْهَلْ عَلَيْكَ الْمَوْتُ، وَ قَدِّمْ مَا
-لَكَ أَمَامَكَ يَسُرَّكَ اللِّحَاقُ بِهِ، وَاقْـنَعْ بِمَا أُوتِـيتَهُ
-يَخِفَّ عَلَيْكَ الْحِسَابُ، وَ لاَ تَـتَشَاغَلْ عَمَّا فُرِضَ
-عَلَيْكَ بِمَا قَدْ ضُمِنَ لَكَ فَإِنَّـهُ لَيْسَ بِفَائِـتِكَ مَا
-قَدْ قُسِّمَ لَكَ، وَ لَسْتَ بِلاَحِقِ مَا قَدْ زُوِيَ عَـنْكَ.
-فَلاَتَكُ جَاهِداً فِيمَا أَنْصَحَ نَافِداً، وَاسَعَ لِمُلْكِ لاَ
-زَوَالَ لَهُ فِي مَنْزِلِ لاَانْـتِقَالَ عَنْهُ.
-  </p>
-</blockquote>
+> عَنْ أَبِي ذَرٍّ قَالَ: قَالَ رَسُولُ اللٌّهِ لِرَجُلٍ وَ هُوَ
+> يُوصِـيهِ: أَقْلِلْ مِنَ الشَّهَوَاتِ يَسْهَلْ عَلَيْكَ الْفَقْرُ، وَ
+> أَقْلِلْ مِنَ الذُّنُوبِ يَسْهَلْ عَلَيْكَ الْمَوْتُ، وَ قَدِّمْ مَا
+> لَكَ أَمَامَكَ يَسُرَّكَ اللِّحَاقُ بِهِ، وَاقْـنَعْ بِمَا أُوتِـيتَهُ
+> يَخِفَّ عَلَيْكَ الْحِسَابُ، وَ لاَ تَـتَشَاغَلْ عَمَّا فُرِضَ
+> عَلَيْكَ بِمَا قَدْ ضُمِنَ لَكَ فَإِنَّـهُ لَيْسَ بِفَائِـتِكَ مَا
+> قَدْ قُسِّمَ لَكَ، وَ لَسْتَ بِلاَحِقِ مَا قَدْ زُوِيَ عَـنْكَ.
+> فَلاَتَكُ جَاهِداً فِيمَا أَنْصَحَ نَافِداً، وَاسَعَ لِمُلْكِ لاَ
+> زَوَالَ لَهُ فِي مَنْزِلِ لاَانْـتِقَالَ عَنْهُ.
 
 It has been narrated from Abu Dharr that he said, “The Messenger of
 Allah (S) said to a person whom he was advising, 'Reduce the base
@@ -73,11 +69,7 @@ that is acceptable according to their status and requirements, their
 loans are all paid up, however they stop and ponder for a while and
 think to themselves:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ سَعَادَةِ الرَّجُلِ سَعَةُ دَارِهِ…
-  </p>
-</blockquote>
+> مِنْ سَعَادَةِ الرَّجُلِ سَعَةُ دَارِهِ…
 
 “One of the ways of happiness for a person is to have a large house…”
 
@@ -131,11 +123,7 @@ which he takes off of his body and from which he steps out of this
 cramped and darkened world, into the presence of the close, intimate
 friends of Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-أَلدُّنْـيَا سِجْنُ الْمُؤْمِنِ وَ جَنَّةُ الْكَافِرِ.
-  </p>
-</blockquote>
+> أَلدُّنْـيَا سِجْنُ الْمُؤْمِنِ وَ جَنَّةُ الْكَافِرِ.
 
 “The world is the prison for a believer and a paradise for the
 disbeliever.”
@@ -186,11 +174,7 @@ mention that the sustenance which shall reach us has already been
 apportioned by Allah (SwT). For example, in one verse of the Qur\`an we
 read that:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ دَآبَّةٍ فِي الأََرْضِ إلاَّ عَلى اللٌّهِ رِزْقُهَا
-  </p>
-</blockquote>
+> مَا مِنْ دَآبَّةٍ فِي الأََرْضِ إلاَّ عَلى اللٌّهِ رِزْقُهَا
 
 “There is not a single creature upon the Earth, except that upon Allah
 lies its sustenance.” (11:6)
@@ -270,5 +254,4 @@ reference to that sustenance which has been guaranteed and promised for
 that person!
 
 [^1]: Bihar al-Anwar, vol. 74, pg. 187
-
 

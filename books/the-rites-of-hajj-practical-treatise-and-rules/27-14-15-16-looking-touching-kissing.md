@@ -18,4 +18,3 @@ obligatory precaution is to pay one camel and if he/she kiss his/her
 spouse with sexual desire then the atonement is one camel, even if
 ejaculation happens or not.
 
-

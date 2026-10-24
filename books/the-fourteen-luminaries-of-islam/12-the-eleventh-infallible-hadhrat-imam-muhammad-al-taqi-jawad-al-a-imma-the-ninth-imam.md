@@ -326,4 +326,3 @@ For the Imam’s answers, see the same source p. 505.
 
 [^6]: Muntahi al-Amal.
 
-

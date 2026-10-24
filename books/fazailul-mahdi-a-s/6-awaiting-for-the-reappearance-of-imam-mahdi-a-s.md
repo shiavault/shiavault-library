@@ -72,4 +72,3 @@ must be recited during the time of ghaibat. "O Allah ! O Beneficient ! O
 Merciful ! O the knower of the thoughts (of the hearts) ! make my heart
 firm upon your religion."(Kamaaluddin vol.2 Pg.352)
 
-

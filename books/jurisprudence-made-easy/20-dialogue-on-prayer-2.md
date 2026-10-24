@@ -344,4 +344,3 @@ and al-Ikhlas, the first three verses of  al-Fath, (Chapter No. 48),
 thirty times.  In the second ruku’, you should recite al-Fatiha,
 al-Ikhlas, and al-Inshirah (Chapter No. 94)
 
-

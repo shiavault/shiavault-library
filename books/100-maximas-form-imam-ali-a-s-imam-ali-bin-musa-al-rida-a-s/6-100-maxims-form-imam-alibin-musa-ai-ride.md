@@ -1,9 +1,7 @@
 100 Maxims Form Imam Alibin Musa Ai-ride
 ========================================
 
-<p dir="rtl">
 بِسمِ اللهِ الرَّحمَنِ الرَّحيمِ
-</p>
 
 In the Name of Allah, The All-compassionate, The All-merciful
 
@@ -165,5 +163,4 @@ people, they have spoiled it.
 29-لَا تَغضَبُوا مِنَ الحَقَّ إذَا صُدِعتُم بِهِ.
 
 29-Do not get angry when you are informed of the truth.
-
 

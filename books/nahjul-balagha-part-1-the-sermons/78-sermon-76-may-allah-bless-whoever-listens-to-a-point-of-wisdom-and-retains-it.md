@@ -3,17 +3,9 @@ Sermon 76: May Allah bless whoever listens to a point of wisdom and retains it�
 
 *About preaching and counseling*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في الحث على العمل الصالح
-  </p>
-</blockquote>
+> في الحث على العمل الصالح
 
 May Allah bless whoever listens to a point of wisdom and retains it,
 when he is invited to the right path he approaches it, he follows a
@@ -26,18 +18,14 @@ provision for his death, rides on the path of honour and sticks to the
 highway of truth, makes good use of his time and hastens towards the end
 and takes with him the provision of (good) actions.
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ عَبْداً سَمِعَ حُكْماً فَوَعَى وَدُعِيَ إِلَى رَشَادٍ
-فَدَنَا وَأَخَذَ بِحُجْزَةِ هَادٍ فَنَجَا، رَاقَبَ رَبِّهُ، وَخَافَ
-ذَنْبَهُ، قَدَّمَ خَالِصاً، وَعَمِلَ صَالِحاً، اكْتَسَبَ مَذْخُوراً
-وَاجْتَنَبَ مَحْذُوراً، رَمَى غَرَضاً، وَأَحْرَزَ عِوَضاً، كابَرَ
-هَوَاهُ، وَكَذَّبَ مُناهُ، جَعَلَ الصَّبْرَ مَطِيَّةَ نَجَاتِهِ،
-والتَّقْوَى عُدَّةَ وَفَاتِهِ، رَكِبَ الطَّرِيقَةَ الْغَرَّاءَ
-وَلَزِمَ الْمحَجَّةَ الْبَيْضَاءَ، اغْتَنَمَ الْمَهَلَ وَبَادَرَ
-الاْجَلَ، وَتَزَوَّدَ مِنَ الْعَمَلِ.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ عَبْداً سَمِعَ حُكْماً فَوَعَى وَدُعِيَ إِلَى رَشَادٍ
+> فَدَنَا وَأَخَذَ بِحُجْزَةِ هَادٍ فَنَجَا، رَاقَبَ رَبِّهُ، وَخَافَ
+> ذَنْبَهُ، قَدَّمَ خَالِصاً، وَعَمِلَ صَالِحاً، اكْتَسَبَ مَذْخُوراً
+> وَاجْتَنَبَ مَحْذُوراً، رَمَى غَرَضاً، وَأَحْرَزَ عِوَضاً، كابَرَ
+> هَوَاهُ، وَكَذَّبَ مُناهُ، جَعَلَ الصَّبْرَ مَطِيَّةَ نَجَاتِهِ،
+> والتَّقْوَى عُدَّةَ وَفَاتِهِ، رَكِبَ الطَّرِيقَةَ الْغَرَّاءَ
+> وَلَزِمَ الْمحَجَّةَ الْبَيْضَاءَ، اغْتَنَمَ الْمَهَلَ وَبَادَرَ
+> الاْجَلَ، وَتَزَوَّدَ مِنَ الْعَمَلِ.
 
 Alternative Sources for Sermon 76
 ---------------------------------
@@ -57,5 +45,4 @@ Alternative Sources for Sermon 76
 (7) al-'Amidi, *Ghurar;*
 
 (8) Sibt, *Tadhkirah,* 145.
-
 

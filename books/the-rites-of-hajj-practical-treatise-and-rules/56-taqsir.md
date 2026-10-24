@@ -89,4 +89,3 @@ A person who knows that if he/she shaves his/her head, he/she might get
 injured, then it is a precaution to cut a part of the hair first and
 then shave the head.
 
-

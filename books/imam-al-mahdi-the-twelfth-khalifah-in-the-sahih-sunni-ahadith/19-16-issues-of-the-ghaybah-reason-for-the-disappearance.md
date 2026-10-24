@@ -6,14 +6,10 @@ authentic Sunni *ahadith*, although the details are not given. A lot of
 them talk about his “coming out” during the end of time. For instance,
 Imam al-Hakim (d. 403 H) records this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
-النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
-الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
-أمتي المهدي
-  </p>
-</blockquote>
+> أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
+> النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
+> الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
+> أمتي المهدي
 
 Abu al-‘Abbas Muhammad b. Ahmad al-Mahbubi – Sa’id b. Mas’ud – al-Nadhr
 b. Shumayl – Sulayman b. ‘Ubayd – Abu al-Siddiq al-Naji – Abu Sa’id
@@ -24,21 +20,13 @@ OUT** at the end of my *Ummah***.**[^1]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^2]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^3]
 
@@ -48,13 +36,9 @@ describe what al-Masih ‘Isa b. Maryam, *‘alaihi al-salam*, the Dajjal
 and the Yajuj and Majuj will do as well. Imam Muslim (d. 261 H) has
 this:
 
-<blockquote dir="rtl">
-  <p>
-وحدثني محمد بن بشار حدثنا محمد بن جعفر حدثنا شعبة عن النعمان بن سالم
-قال سمعت يعقوب بن عاصم بن عروة بن مسعود قال ... قال عبدالله بن عمرو
-قال رسول الله صلى الله عليه و سلم يخرج الدجال في أمتي
-  </p>
-</blockquote>
+> وحدثني محمد بن بشار حدثنا محمد بن جعفر حدثنا شعبة عن النعمان بن سالم
+> قال سمعت يعقوب بن عاصم بن عروة بن مسعود قال ... قال عبدالله بن عمرو
+> قال رسول الله صلى الله عليه و سلم يخرج الدجال في أمتي
 
 Muhammad b. Bashar – Muhammad b. Ja’far – Shu’bah – al-Nu’man b. Salim –
 Ya’qub b. ‘Asim b. ‘Urwah b. Mas’ud – ‘Abd Allah b. ‘Amr:
@@ -71,15 +55,11 @@ everyone. That will be his “coming out”.
 
 We also read this *riwayah* of Imam Ahmad (d. 241 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرحمن بن مهدي ثنا سفيان عن فرات عن
-أبي الطفيل عن حذيفة بن أسيد الغفاري قال أشرف علينا رسول الله صلى الله
-عليه و سلم من غرفة ونحن نتذاكر الساعة فقال لا تقوم الساعة حتى ترون عشر
-آيات طلوع الشمس من مغربها والدخان والدابة وخروج يأجوج ومأجوج وخروج
-عيسى بن مريم والدجال....
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرحمن بن مهدي ثنا سفيان عن فرات عن
+> أبي الطفيل عن حذيفة بن أسيد الغفاري قال أشرف علينا رسول الله صلى الله
+> عليه و سلم من غرفة ونحن نتذاكر الساعة فقال لا تقوم الساعة حتى ترون عشر
+> آيات طلوع الشمس من مغربها والدخان والدابة وخروج يأجوج ومأجوج وخروج
+> عيسى بن مريم والدجال....
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Rahman b.
 Mahdi – Sufyan – Furat – Abu al-Tufayl – Hudhayfah b. Usayd al-Ghiffari:
@@ -92,11 +72,7 @@ Majuj, the COMING OUT of ‘Isa b. Maryam**, the Dajjal....[^5]
 
 Shaykh Shu’ayb al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^6]
 
@@ -115,18 +91,14 @@ coming out occurs, he will then become visible to all human beings.
 These facts are confirmed in authentic Shi’i *riwayat*, with the
 necessary details. Shaykh al-Saduq (d. 381 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا علي بن إبراهيم،
-عن أبيه، عن عبد السلام بن صالح الهروي، عن أبي الحسن علي بن موسى الرضا،
-عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال النبي صلى الله عليه
-وآله: والذي بعثني بالحق بشيرا ليغيبن القائم من ولدي بعهد معهود إليه
-مني حتى يقول أكثر الناس:ما لله في آل محمد حاجة، ويشك آخرون في ولادته،
-فمن أدرك زمانه فليتمسك بدينه، ولا يجعل للشيطان إليه سبيلا بشكه فيزيله
-عن ملتي ويخرجه من ديني، فقد أخرج أبويكم من الجنة من قبل، وإن الله عز
-وجل جعل الشياطين أولياء للذين لا يؤمنون.
-  </p>
-</blockquote>
+> حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا علي بن إبراهيم،
+> عن أبيه، عن عبد السلام بن صالح الهروي، عن أبي الحسن علي بن موسى الرضا،
+> عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال النبي صلى الله عليه
+> وآله: والذي بعثني بالحق بشيرا ليغيبن القائم من ولدي بعهد معهود إليه
+> مني حتى يقول أكثر الناس:ما لله في آل محمد حاجة، ويشك آخرون في ولادته،
+> فمن أدرك زمانه فليتمسك بدينه، ولا يجعل للشيطان إليه سبيلا بشكه فيزيله
+> عن ملتي ويخرجه من ديني، فقد أخرج أبويكم من الجنة من قبل، وإن الله عز
+> وجل جعل الشياطين أولياء للذين لا يؤمنون.
 
 Muhammad b. Musa b. al-Mutawakil, may Allah be pleased with him – ‘Ali
 b. Ibrahim – his father – ‘Abd al-Salam b. Salih al-Harwi – Abu al-Hasan
@@ -147,11 +119,7 @@ believe.”[^7]
 
 Al-Haj Muhammad Zakariya says about it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^8]
 
@@ -160,15 +128,11 @@ brothers and sisters who claim that the Twelfth Imam is “useless”, and
 we see lots of them denying his birth! This clearly is one of the
 miracles of the Prophet. Al-Saduq again documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن محمد بن يحيى العطار رضي الله عنه قال: حدثنا أبي، عن
-إبراهيم بن هاشم، عن محمد بن أبي عمير، عن صفوان بن مهران الجمال قال:
-قال الصادق جعفر بن محمد عليهما السلام: أما والله ليغيبن عنكم مهديكم
-حتى يقول الجاهل منكم: ما لله في آل محمد، ثم يقبل كالشهاب الثاقب
-فيملأها عدلا وقسطا كما ملئت جورا وظلما.
-  </p>
-</blockquote>
+> حدثنا أحمد بن محمد بن يحيى العطار رضي الله عنه قال: حدثنا أبي، عن
+> إبراهيم بن هاشم، عن محمد بن أبي عمير، عن صفوان بن مهران الجمال قال:
+> قال الصادق جعفر بن محمد عليهما السلام: أما والله ليغيبن عنكم مهديكم
+> حتى يقول الجاهل منكم: ما لله في آل محمد، ثم يقبل كالشهاب الثاقب
+> فيملأها عدلا وقسطا كما ملئت جورا وظلما.
 
 Ahmad b. Muhammad b. Yahya al-‘Aṭṭar, may Allah be pleased with him - my
 father – Ibrahim b. Hashim – Muhammad b. Abi ‘Umayr – Safwan b. Mahran
@@ -183,11 +147,7 @@ injustice.”[^9]
 
 Al-Haj Muhammad Zakariya again comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده معتبر
-  </p>
-</blockquote>
+> إسناده معتبر
 
 Its chain is reliable.[^10]
 
@@ -213,23 +173,15 @@ First and foremost, it must be noted that *any* human being – in
 ordinary circumstances – can be killed, including even prophets and
 messengers:
 
-<blockquote dir="rtl">
-  <p>
-ذلك بأنهم كانوا يكفرون بآيات الله ويقتلون النبيين بغير الحق
-  </p>
-</blockquote>
+> ذلك بأنهم كانوا يكفرون بآيات الله ويقتلون النبيين بغير الحق
 
 That was because they used to disbelieve in the *ayat* of Allah, **and
 also used to kill the prophets wrongfully**.[^11]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أفكلما جاءكم رسول بما لا تهوى أنفسكم استكبرتم ففريقا كذبتم وفريقا
-تقتلون
-  </p>
-</blockquote>
+> أفكلما جاءكم رسول بما لا تهوى أنفسكم استكبرتم ففريقا كذبتم وفريقا
+> تقتلون
 
 Is it that whenever there came to you **a messenger** with what your
 souls did not desire, you grew arrogant? Some, you called liars and
@@ -237,12 +189,8 @@ souls did not desire, you grew arrogant? Some, you called liars and
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-قل قد جاءكم رسل من قبلي بالبينات وبالذي قلتم فلم قتلتموهم إن كنتم
-صادقين
-  </p>
-</blockquote>
+> قل قد جاءكم رسل من قبلي بالبينات وبالذي قلتم فلم قتلتموهم إن كنتم
+> صادقين
 
 Say: “Verily, there came to you **messengers** before me, with clear
 signs and even with what you speak of. **Why then did you kill them**,
@@ -255,12 +203,8 @@ Moreover, it is permissible for a prophet, messenger or Imam – in
 certain circumstances - to flee or hide for his life from his enemies
 and opponents.
 
-<blockquote dir="rtl">
-  <p>
-وإذ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله
-والله خير الماكرين
-  </p>
-</blockquote>
+> وإذ يمكر بك الذين كفروا ليثبتوك أو يقتلوك أو يخرجوك ويمكرون ويمكر الله
+> والله خير الماكرين
 
 And when those who disbelieve plotted against you (O Muhammad) **to
 imprison you, or to kill you, or to drive you out**. They plot, but
@@ -272,13 +216,9 @@ his Lord. He was in grave danger and his defences were weak. During his
 flight to al-Madinah, his enemies still tracked him on the way to “take
 him out”. Al-Hafiz Ibn Kathir (d. 774 H) gives some further details:
 
-<blockquote dir="rtl">
-  <p>
-عام الهجرة ، لما هم المشركون بقتله أو حبسه أو نفيه ، فخرج منهم هاربا
-بصحبة صدِّيقه وصاحبه أبي بكر بن أبي قحافة ، فلجأ إلى غار ثور ثلاثة
-أيام ليرجع الطَّلَبُ الذين خرجوا في آثارهم ، ثم يسيرا نحو المدينة
-  </p>
-</blockquote>
+> عام الهجرة ، لما هم المشركون بقتله أو حبسه أو نفيه ، فخرج منهم هاربا
+> بصحبة صدِّيقه وصاحبه أبي بكر بن أبي قحافة ، فلجأ إلى غار ثور ثلاثة
+> أيام ليرجع الطَّلَبُ الذين خرجوا في آثارهم ، ثم يسيرا نحو المدينة
 
 **During the year of the** ***Hijrah*****, the pagans tried to kill,
 imprison or expel him (i.e the Prophet). So, he ESCAPED with his friend
@@ -335,13 +275,9 @@ this is why he still remains invisible.
 
 ‘Allamah al-Majlisi (d. 1111 H) copies:
 
-<blockquote dir="rtl">
-  <p>
-إكمال الدين: ماجيلويه، عن عمه، عن البرقي، عن أيوب بن نوح، عن صفوان عن
-ابن بكير، عن زرارة، عن أبي عبد الله عليه السلام قال: للغلام غيبة قبل
-قيامه، قلت:ولم؟ قال: يخاف على نفسه الذبح.
-  </p>
-</blockquote>
+> إكمال الدين: ماجيلويه، عن عمه، عن البرقي، عن أيوب بن نوح، عن صفوان عن
+> ابن بكير، عن زرارة، عن أبي عبد الله عليه السلام قال: للغلام غيبة قبل
+> قيامه، قلت:ولم؟ قال: يخاف على نفسه الذبح.
 
 *Ikmal al-Din*: Majiluyah – his uncle – al-Barqi – Ayub b. Nuh – Safwan
 – Ibn Bukayr – Zurarah:
@@ -360,13 +296,9 @@ disappeared, that he was ever visible to the general public.
 
 Al-Majlisi again records:
 
-<blockquote dir="rtl">
-  <p>
-إكمال الدين: العطار، عن سعد، عن ابن عيسى، عن خالد بن نجيح، عن زرارة
-قال: سمعت أبا عبد الله عليه السلام يقول: إن للقائم غيبة قبل أن يقوم
-قلت: ولم؟ قال: يخاف وأومأ بيده إلى بطنه.
-  </p>
-</blockquote>
+> إكمال الدين: العطار، عن سعد، عن ابن عيسى، عن خالد بن نجيح، عن زرارة
+> قال: سمعت أبا عبد الله عليه السلام يقول: إن للقائم غيبة قبل أن يقوم
+> قلت: ولم؟ قال: يخاف وأومأ بيده إلى بطنه.
 
 *Ikmal al-Din*: al-‘Aṭṭar – Sa’d – Ibn ‘Isa – Khalid b. Najih – Zurarah:
 
@@ -383,13 +315,9 @@ the right time.
 
 Shaykh al-Kulayni (d. 329 H) too reports:
 
-<blockquote dir="rtl">
-  <p>
-وبهذا الاسناد، عن أحمد بن محمد، عن أبيه محمد بن عيسى، عن ابن بكير، عن
-زرارة قال: سمعت أبا عبد الله عليه السلام يقول: إن للقائم غيبة قبل أن
-يقوم، إنه يخاف - وأومأ بيده إلى بطنه - يعني القتل.
-  </p>
-</blockquote>
+> وبهذا الاسناد، عن أحمد بن محمد، عن أبيه محمد بن عيسى، عن ابن بكير، عن
+> زرارة قال: سمعت أبا عبد الله عليه السلام يقول: إن للقائم غيبة قبل أن
+> يقوم، إنه يخاف - وأومأ بيده إلى بطنه - يعني القتل.
 
 And with this chain – Ahmad b. Muhammad – his father, Muhammad b. ‘Isa –
 Ibn Bukayr – Zurarah:
@@ -402,11 +330,7 @@ meaning (he will fear) being killed**.[^27]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^28]
 
@@ -509,5 +433,4 @@ al-Usul min al-Kafi (Tehran: Dar al-Kutub al-Islamiyyah; 3rd edition)
 [^28]: Muhammad Baqir al-Majlisi, Mir-at al-‘Uqul fi Sharh Akhbar Al
 al-Rasul (Tehran: Dar al-Kutub al-Islamiyyah) [annotator: Sayyid Muhsin
 al-Husayni al-Amini], vol. 4, p. 52
-
 

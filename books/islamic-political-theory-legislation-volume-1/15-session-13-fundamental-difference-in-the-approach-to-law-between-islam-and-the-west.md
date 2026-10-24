@@ -179,11 +179,7 @@ Holy Qur’an says that should learned men not expose religious
 innovations and reveal the truth, they will incur the curse of God, the
 angels and those who are entitled to curse:
 
-<blockquote dir="rtl">
-  <p>
-﴿أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ﴾
-  </p>
-</blockquote>
+> ﴿أُولَـئِكَ يَلعَنُهُمُ اللّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ﴾
 
 ***“They shall be cursed by Allah and cursed by the cursers.”***[^2]
 
@@ -358,20 +354,12 @@ intend to take advantage of it can catch fish in troubled waters. We
 have to clarify which is Islam and which *kufr*, so that everyone can
 choose whichever he or she likes:
 
-<blockquote dir="rtl">
-  <p>
-﴿...فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء فَلْيَكْفُرْ...﴾
-  </p>
-</blockquote>
+> ﴿...فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء فَلْيَكْفُرْ...﴾
 
 ***“…Let anyone who wishes believe it, and let anyone who wishes
 disbelieve it**...”*[^3]
 
-<blockquote dir="rtl">
-  <p>
-متاع كفر و دين بي مشترى نيست گروهى اين گروهى آن پسندند
-  </p>
-</blockquote>
+> متاع كفر و دين بي مشترى نيست گروهى اين گروهى آن پسندند
 
 *The merchandise of kufr or religion is not without customer.*  
 *A group could choose this while another group could choose that.*
@@ -523,5 +511,4 @@ Comedy). [Trans.]
 [^2]: Surah al-Baqarah 2:159.
 
 [^3]: Surah al-Kahf 18:29.
-
 

@@ -64,4 +64,3 @@ their side-effects choose which way they want?
 Answer: With keeping in mind other religious rulings there is no problem
 in it.
 
-

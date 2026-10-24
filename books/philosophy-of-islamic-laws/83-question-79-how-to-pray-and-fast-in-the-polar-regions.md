@@ -77,4 +77,3 @@ The above-mentioned explanations show that the duties of Prayer and
 fasting along with the other Islamic duties are not applicable to only
 one particular area and they can be acted upon in all the regions.
 
-

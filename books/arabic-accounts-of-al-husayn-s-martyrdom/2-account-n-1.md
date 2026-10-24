@@ -32,8 +32,8 @@ he woke up screaming[^12].
 
 **Notes:**
 
-[^10] Al-Tusi, op. cit., pp. 62-63; Ibn Hajar, Tadhib al-Tahdhib.
-[^11] Al-Tabari, op. cit., II, 361-2.
-[^12] Abu al-Faraj al-Isfahani, Maqatil al- Talibiyyin (Najaf, 1965),
+[^10]: Al-Tusi, op. cit., pp. 62-63; Ibn Hajar, Tadhib al-Tahdhib.
+[^11]: Al-Tabari, op. cit., II, 361-2.
+[^12]: Abu al-Faraj al-Isfahani, Maqatil al- Talibiyyin (Najaf, 1965),
 pp. 78-9.
 

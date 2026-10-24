@@ -407,4 +407,3 @@ The Muslims achieved a real victory when they uttered publicly in
 Mecca: "There is no god but Allah!" Only a few years ago, it was
 impossible for them to do so.
 
-

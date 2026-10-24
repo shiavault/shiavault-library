@@ -103,4 +103,3 @@ emphatically said that Allah brings. His Command to pass. In other
 words, where there is a question of spiritual relations or invisible
 Divine succour, the visible causes are made ineffective.
 
-

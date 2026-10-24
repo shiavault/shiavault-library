@@ -68,4 +68,3 @@ predestinarianism. Since then the confusion is continuing with a result
 that a belief during the past fourteen centuries, very few scholars have
 been able to make a clear distinction between the two doctrines.
 
-

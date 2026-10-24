@@ -174,4 +174,3 @@ Unity of the Actions. The proponents of each school discussed their
 evidence in support of their respective arguments. In a separate
 chapter, we shall discuss the Shia belief regarding the two categories.
 
-

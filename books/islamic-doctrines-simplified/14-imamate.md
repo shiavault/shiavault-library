@@ -86,4 +86,3 @@ to the Prophet Muhammad [s].
 
 [^2]: Sunan ibn Maja - Merits of Imam Ali [a]
 
-

@@ -69,7 +69,6 @@ Sunnis."46
 5. Kitab al-Kafi;52
 6. Kitab ma q.la f. al-a'immah ('alayhimu's-salam)- mina'l-shi،¥r.53
 
-
 **A L ،K A F l**
 
 This book is known after the name of the compiler al-Kulayni54 and also
@@ -123,7 +122,6 @@ ash-Shaykh al-Muf.d (336/947/948 ،X 413/ 1022);67
 7. Abu'l-\`Abbas Ahmad ibn \`Ali an-Najashi (373/982 ،X 450/ 1058);69
 8. Abu Ja،¥far Muhammad ibn al-Hƒmasan at-T.si, Shaykh at-Ta'ifah
 (385/995 ،X 460/1067);70
-
 
 **Distinctive Features**
 
@@ -258,8 +256,6 @@ by typographic process in the following arrangements :،XThe first part
 in two volumes; The second part in five volumes; and The third part in
 one volume.
 
-
 Hereafter, the book was reprinted repeatedly, and the English
 translation of the same is based on this revised edition.
-
 

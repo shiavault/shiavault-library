@@ -32,26 +32,13 @@ to the original letters of the verb. For example: **تَدَحرَجَ اقشَ�
 
 24. There are ten forms for the triliteral verbs with increase letters:
 
-<blockquote dir="rtl">
-  <p>
-فَعّلَ فَاعَلَ اَفعَلَ
-  </p>
-</blockquote>
+> فَعّلَ فَاعَلَ اَفعَلَ
 
-<blockquote dir="rtl">
-  <p>
-تَفَعّلَ تَفَاعَلَ اِفتَعَلَ اِنفَعَلَ اِفعَلّ
-  </p>
-</blockquote>
+> تَفَعّلَ تَفَاعَلَ اِفتَعَلَ اِنفَعَلَ اِفعَلّ
 
-<blockquote dir="rtl">
-  <p>
-اِستَفعَلَ اِفعَوعَلَ
-  </p>
-</blockquote>
+> اِستَفعَلَ اِفعَوعَلَ
 
 25: There are three forms of quadriliteral verbs with increase letters:
 
 • تَفَعلَلَ اِفعَنلَلَ اِفعَلَلّ
-
 

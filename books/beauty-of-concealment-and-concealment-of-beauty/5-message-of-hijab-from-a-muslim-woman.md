@@ -1180,4 +1180,3 @@ these schools are the enemies of Islam.
 
 [^18]: Surah al-Anfal: 8:39
 
-

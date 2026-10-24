@@ -78,4 +78,3 @@ social change would be successful.
 More information about the author could be found in his book "On the
 Sociology of Islam" translated by Hamid Algar.
 
-

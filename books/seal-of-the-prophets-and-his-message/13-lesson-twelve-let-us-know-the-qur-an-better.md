@@ -335,4 +335,3 @@ aggressor adopting the religion of the people it had defeated.
 [^1]: Maurice Bucaille, The Bible, the Qur’an and Science, Indianapolis,
 1976, pp. 148-149. 
 
-

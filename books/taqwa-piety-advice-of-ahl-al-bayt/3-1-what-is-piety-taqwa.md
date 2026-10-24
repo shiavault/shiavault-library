@@ -66,4 +66,3 @@ covers all the meanings mentioned herein.
 
 [^3]: Qur'an, 24:52.
 
-

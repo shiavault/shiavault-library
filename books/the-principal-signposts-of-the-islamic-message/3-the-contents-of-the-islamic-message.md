@@ -84,4 +84,3 @@ educational directives - Islam becomes a general way of life, and a
 message comprehensive of all human activity, quite distinct from other
 religions and social and political systems.
 
-

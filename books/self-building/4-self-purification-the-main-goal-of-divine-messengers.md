@@ -5,14 +5,10 @@ The greatest aim of Divine Messengers was to emphasize the importance of
 refinement, purification, and training of human selves. God-Almighty
 said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا
-مِّنْ أَنفُسِهِمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ
-وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ
-لَفِي ضَلَالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا
+> مِّنْ أَنفُسِهِمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ
+> وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ
+> لَفِي ضَلَالٍ مُّبِينٍ
 
 ***“God did confer a great favor on the believers when he sent among
 them an apostle from among themselves rehearsing unto them the signs of
@@ -56,24 +52,16 @@ has sent me especially for this purpose.”*[^1]
 
 He further said:
 
-<blockquote dir="rtl">
-  <p>
-عن النبي صلى الله عليه وآله انه قال: إنما بعثت لا تمم مكارم الاخلاق
-  </p>
-</blockquote>
+> عن النبي صلى الله عليه وآله انه قال: إنما بعثت لا تمم مكارم الاخلاق
 
 *“I was appointed for the Prophethood so that I may accomplish the
 important task of moral perfection within human souls.”*[^2]
 
 Imam al-Sadiq[^3] (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال أبوعبدالله عليه السلام: ان الله تبارك وتعالى خص الانبيا بمكارم
-الاخلاق, فمن كانت فيه فليحمد الله على ذلك, ومن لم يكن فليتضرع الى الله
-وليسيله.
-  </p>
-</blockquote>
+> قال أبوعبدالله عليه السلام: ان الله تبارك وتعالى خص الانبيا بمكارم
+> الاخلاق, فمن كانت فيه فليحمد الله على ذلك, ومن لم يكن فليتضرع الى الله
+> وليسيله.
 
 “*God-Almighty appointed prophets with good morals; therefore, whoever
 discovers these virtues within himself should be thankful to God for
@@ -82,13 +70,9 @@ before God Almighty asking for such blessing*.”[^4]
 
 The commander of faithful Imam ‘Ali[^5] (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: لو كنا لا نرجو جنة ولا نخشى نارا ولا
-ثوابا ولا عقابا لكان ينبغي لنا ان نطلب مكارم الاخلاق فإنها مما تذل على
-سبيل النجاح.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: لو كنا لا نرجو جنة ولا نخشى نارا ولا
+> ثوابا ولا عقابا لكان ينبغي لنا ان نطلب مكارم الاخلاق فإنها مما تذل على
+> سبيل النجاح.
 
 *“Supposedly, if neither there was any desire for Paradise nor there was
 any fear of Hell, and also there would have not been any belief about
@@ -98,49 +82,33 @@ the path towards prosperity and victory.”*[^6]
 
 Imam Baqir [^7] said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر عليه السلام قال: ان اكمل المومنين ايمانا احسنهم خلقا.
-  </p>
-</blockquote>
+> عن ابي جعفر عليه السلام قال: ان اكمل المومنين ايمانا احسنهم خلقا.
 
 *“The most perfect believers from the point of view of faith are the
 ones who excel in moral conduct.”*[^8]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: ما يوضع في ميزان امرى يوم القيامة
-أفضل من حسن الخلق.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: ما يوضع في ميزان امرى يوم القيامة
+> أفضل من حسن الخلق.
 
 *“There is nothing better than good moral conduct which could be written
 on the “Letter of Deeds” on the Day of Resurrection.”* [^9]
 
 And said
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): اكثر ما تلج به امتى الجنة تقوى الله وحسن الخلق.
-  </p>
-</blockquote>
+> قال رسول الله (ص): اكثر ما تلج به امتى الجنة تقوى الله وحسن الخلق.
 
 *“My Ummah will enter into Paradise mostly on the basis of piety and
 excellence in moral conduct.”*[^10]
 
 And the following narration:
 
-<blockquote dir="rtl">
-  <p>
-جا رجل الى رسول الله عليه وآله من بين يديه فقال: يا رسول الله ما
-الدين؟ فقال: حسن الخلق. ثم اتاه من قبل يمينه فقال: يا رسول الله
-ماالدين؟ فقال: حسن الخلق. ثم اتاه من قبل شماله فقال: ما الدين؟ فقال:
-حسن الخلق. ثم اتاه من ورايه فقال: ما الدين؟ فالفتف اليه فقال: اما
-تفقه؟ هوان لا تغضب.
-  </p>
-</blockquote>
+> جا رجل الى رسول الله عليه وآله من بين يديه فقال: يا رسول الله ما
+> الدين؟ فقال: حسن الخلق. ثم اتاه من قبل يمينه فقال: يا رسول الله
+> ماالدين؟ فقال: حسن الخلق. ثم اتاه من قبل شماله فقال: ما الدين؟ فقال:
+> حسن الخلق. ثم اتاه من ورايه فقال: ما الدين؟ فالفتف اليه فقال: اما
+> تفقه؟ هوان لا تغضب.
 
 *“A man approached the Holy Prophet (S) and asked: 'What is religion?'
 The Holy Prophet (S) replied: 'Good moral conduct.' The man asked the
@@ -198,19 +166,11 @@ celestial jewel.
 
 God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنسَانِ
-مِن طِينٍ ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ مِّن مَّاءٍ مَّهِينٍ
-  </p>
-</blockquote>
+> الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنسَانِ
+> مِن طِينٍ ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ مِّن مَّاءٍ مَّهِينٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ
-وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَّا تَشْكُرُون
-  </p>
-</blockquote>
+> ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ
+> وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَّا تَشْكُرُون
 
 ***“Who made all things good which He created, and He began the creation
 of man from clay, then He made his seed from a draught of despised
@@ -241,15 +201,11 @@ single heavenly “Spirit” blown into his existence by God-Almighty,
 called Human Soul. The wise God has explained the creation of human
 beings in the Holy Qur’an as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ ثُمَّ
-جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ ثُمَّ خَلَقْنَا النُّطْفَةَ
-عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
-عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا
-آخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ ثُمَّ
+> جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ ثُمَّ خَلَقْنَا النُّطْفَةَ
+> عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ
+> عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا
+> آخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 ***“Verily we created man from a product of wet earth; then placed him
 as a drop (of seed) in a safe lodging; then fashioned we the drop a
@@ -259,22 +215,14 @@ God, the Best of Creators.”*** ***(23:12-14)***
 
 It is about the creation of human being that God-Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 ***“So blessed the God -the Best of Creators.” (23:14)***
 
 It was because of this Heavenly Spirit that human being reaches to an
 exalted position that God-Almighty orders the angels as follows:
 
-<blockquote dir="rtl">
-  <p>
-فإذا سويته ونفخت من روحي فقعوا له ساجدين.
-  </p>
-</blockquote>
+> فإذا سويته ونفخت من روحي فقعوا له ساجدين.
 
 ***“So when I have made him and have breathed unto him of My Spirit, do
 ye fall down prostrating yourself unto him.”*** ***(15: 29)***
@@ -282,13 +230,9 @@ ye fall down prostrating yourself unto him.”*** ***(15: 29)***
 If, human beings were bestowed distinction over other creatures and
 God-Almighty said about them as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
-وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ
-كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
+> وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ
+> كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
 
 ***“Verily, we have honored the children of Adam. We carry them on the
 land and the sea, and have made provision of good things for them, and
@@ -306,12 +250,8 @@ you will inflict upon yourself a terrible loss.
 
 God-Almighty has said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ
-يَوْمَ الْقِيَامَةِ ۗ أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ
-  </p>
-</blockquote>
+> قُلْ إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ
+> يَوْمَ الْقِيَامَةِ ۗ أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ
 
 ***“Say: the losers will be those who loose themselves and their house
 folk on the Day of Resurrection. Ah, that will be the manifest loss.”***
@@ -322,11 +262,7 @@ indeed lost their human personality and are not striving for their
 recovery either. The Commander of the Faithful Imam ‘Ali (a.s.) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: عجبت لمن ينشد ضالته وقداضل نفسه فلا يطلبها.
-  </p>
-</blockquote>
+> قال على عليه السلام: عجبت لمن ينشد ضالته وقداضل نفسه فلا يطلبها.
 
 *“It is indeed strange to see someone so desperately looking for lost
 personal things, while making absolutely no efforts to find his lost
@@ -349,12 +285,8 @@ be careful for its protection, never to loose such a precious Heavenly
 gift. For example God-Almighty in Holy Qur’an defines this precious
 jewel as follows:
 
-<blockquote dir="rtl">
-  <p>
- وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّيوَمَا
-أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا
-  </p>
-</blockquote>
+>  وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّيوَمَا
+> أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا
 
 ***“They will ask the (of Muhammad) concerning the spirit. Say: The
 spirit is by command of my Lord, and knowledge ye have been vouchsafed
@@ -364,12 +296,8 @@ In the above verse the spirit has been defined as an existence belonging
 to the celestial world that is superior than the material world. The
 Commander of the Faithful Imam ‘Ali (a.s.) about the self said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: ان النفس لجوهرة تهمنية من صانها رفعها ومن ابتذلها
-وضعها.
-  </p>
-</blockquote>
+> قال على عليه السلام: ان النفس لجوهرة تهمنية من صانها رفعها ومن ابتذلها
+> وضعها.
 
 *“Self is like a precious jewel, whoever strives for his protection, he
 will help him attaining exalted positions, and whoever acted negligently
@@ -377,44 +305,28 @@ in his protection he shall pull him towards humiliation.”*[^12]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من عرف نفسه لم يهنها بالفانيات.
-  </p>
-</blockquote>
+> قال على عليه السلام: من عرف نفسه لم يهنها بالفانيات.
 
 *“Whoever knows the worth of his self will never allow himself to be
 indulging into passing worldly amusements and shameful deeds.”*[^13]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من عرف شرف معانة عن دنأة سهوته و زورمناه.
-  </p>
-</blockquote>
+> قال على عليه السلام: من عرف شرف معانة عن دنأة سهوته و زورمناه.
 
 *“Whoever discovers the nobility of self shall guard him against lowness
 of passions and false desires.”*[^14]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من شرفت نفسه كثرت عواطفه.
-  </p>
-</blockquote>
+> قال على عليه السلام: من شرفت نفسه كثرت عواطفه.
 
 *“Whoever possesses the nobility of self will have more
 compassion.”*[^15]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من شرفت نفسه نزهها عن ذلة الطالب.
-  </p>
-</blockquote>
+> قال على عليه السلام: من شرفت نفسه نزهها عن ذلة الطالب.
 
 *“Whoever possesses the nobility of self will become free from
 Wants.”*[^16]
@@ -431,12 +343,8 @@ terrible misfortune and cruelty upon the defeated person.
 
 Following are some examples:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ
-فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ
+> فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ
 
 ***“But as far him who feared to stand before his lord and restrained
 his soul from lust, Lo! The garden will be his home.”***
@@ -444,12 +352,8 @@ his soul from lust, Lo! The garden will be his home.”***
 
 The Holy Qur’an quotes from Prophet Joseph (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ
-إِلَّا مَا رَحِمَ رَبِّي ۚ
-  </p>
-</blockquote>
+> وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ
+> إِلَّا مَا رَحِمَ رَبِّي ۚ
 
 ***“I don't exculpate myself Lo! the (human) soul enjoineth unto evil,
 save that whereon my Lord hath mercy. Lo! My Lord is Forgiving,
@@ -457,23 +361,15 @@ Merciful.”*** ***(12: 53)***
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي الله صلى الله عليه وآله: اعتدى عدوك نفسك التي بين جنبيك.
-  </p>
-</blockquote>
+> قال النبي الله صلى الله عليه وآله: اعتدى عدوك نفسك التي بين جنبيك.
 
 *“Your's greatest enemy is your self, which is located between your two
 sides.”*[^17]
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: إن النفس لامارة بالسؤ فمن ايتمنها خائنة ومن
-استنام اليها أهلكته ومن رضي عنها اوردته شر الموارد.
-  </p>
-</blockquote>
+> قال على عليه السلام: إن النفس لامارة بالسؤ فمن ايتمنها خائنة ومن
+> استنام اليها أهلكته ومن رضي عنها اوردته شر الموارد.
 
 *“Self commands you continuously to indulge into evil deeds, therefore,
 whoever trusted his self -he will deceit him, whoever believed his
@@ -482,24 +378,16 @@ will lead him to face worst kind of disasters.”*[^18]
 
 He further said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: الثقة بالنفس من أوثق فرص الشيطان.
-  </p>
-</blockquote>
+> قال على عليه السلام: الثقة بالنفس من أوثق فرص الشيطان.
 
 *“Trusting the self provides the most dependable opportunities for
 devil's entrance”*[^19]
 
 Imam al-Sajjad [^20](a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال علي بن الحسين عليه السلام في دعائه: الهي اليك أشكو نفسا بإلسو
-امارة والى الخطيئة مبادرة وبمعاصيك مولعة ولسخطك متعرضة تسلك بي مسالك
-المهالك.
-  </p>
-</blockquote>
+> قال علي بن الحسين عليه السلام في دعائه: الهي اليك أشكو نفسا بإلسو
+> امارة والى الخطيئة مبادرة وبمعاصيك مولعة ولسخطك متعرضة تسلك بي مسالك
+> المهالك.
 
 *“Oh God! I do complain to you against the self –which continuously
 commands; to indulge into sinful acts and deviations,. Stands up against
@@ -627,13 +515,9 @@ wisdom does not understand.
 
 The Holy Qur’an describes such individuals, as follows:
 
-<blockquote dir="rtl">
-  <p>
-فَإِن لَّمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
-أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى
-مِّنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَإِن لَّمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
+> أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى
+> مِّنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 ***“And if they answer thee not, then know that what they follow is
 their lusts. And who goes farther astray than he who followeth his lust
@@ -642,14 +526,10 @@ without guidance from God? Lo! God guideth not wondering folk.”***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ الْجِنِّ وَالْإِنسِ ۖ
-لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا
-يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لَّا يَسْمَعُونَ بِهَا ۚ أُولَٰئِكَ
-كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ الْغَافِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ الْجِنِّ وَالْإِنسِ ۖ
+> لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا
+> يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لَّا يَسْمَعُونَ بِهَا ۚ أُولَٰئِكَ
+> كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ الْغَافِلُونَ
 
 ***“Already have we urged unto Hell many of the Jinn and humankind,
 having hearts wherewith they understand not, and having eyes wherewith
@@ -677,13 +557,9 @@ cheated.”*[^23]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اكرم نفسك من كل دنية وان ساقتك الى الرغئب, فانك
-لن تعتاض بما تبذل من نفسك عوضا ولاتكن عبد غيرك وقد جعلك الله حرا وما
-خير خيرلا ينال الا بشر ويسر لاينال الا بعصر.
-  </p>
-</blockquote>
+> قال على عليه السلام: اكرم نفسك من كل دنية وان ساقتك الى الرغئب, فانك
+> لن تعتاض بما تبذل من نفسك عوضا ولاتكن عبد غيرك وقد جعلك الله حرا وما
+> خير خيرلا ينال الا بشر ويسر لاينال الا بعصر.
 
 *“Restrain your self from indulgence into lower shameful deeds no matter
 how attractive or appealing they might appear because, in this exchange
@@ -695,12 +571,8 @@ easy to retained.”* [^24]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: لبيس المتجران ترى الدنيا لنفسك ثمنا
-ومما لك عند الله عوضا
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: لبيس المتجران ترى الدنيا لنفسك ثمنا
+> ومما لك عند الله عوضا
 
 *“What a bad trade it is that one exchanges his self for this world
 instead of trading it with whatever is available with God-Almighty (in
@@ -766,12 +638,8 @@ self-struggle.
 The Holy Qur’an about the recognition of virtues and vices by the pure
 human nature as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
-أَفْلَحَ مَن زَكَّاهَا
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
+> أَفْلَحَ مَن زَكَّاهَا
 
 ***“And a soul and Him who perfected it and inspired it (with conscience
 of) what is wrong for it and what is right for it. He is indeed
@@ -792,12 +660,8 @@ therefore, you should not sell yourself for them.
 
 Imam al-Sajjad (a.s.) was asked:
 
-<blockquote dir="rtl">
-  <p>
-قيل لعلي بن الحسين عليه السلام: من اعطهم الناس خطرا؟ قال: من لم يرى
-الدنيا خطرا لنفسه
-  </p>
-</blockquote>
+> قيل لعلي بن الحسين عليه السلام: من اعطهم الناس خطرا؟ قال: من لم يرى
+> الدنيا خطرا لنفسه
 
 *“Who is the most exalted and most noble person?”*  
 *“The one who does not regard the world worthy of greatness of his
@@ -814,11 +678,7 @@ etc.
 
 The Commander of Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من كرمت عليه نفسه هانت عليه شهواته
-  </p>
-</blockquote>
+> قال على عليه السلام: من كرمت عليه نفسه هانت عليه شهواته
 
 *“Whoever consider his self honorable will regard selfish passions low
 and mean.”*[^27]
@@ -837,12 +697,8 @@ virtue.
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ
+> الْعَالَمِينَ
 
 ***“Say: Lo! My worship and my sacrifice, and my living, and my dying
 are for God, the Lord of the worlds.”*** ***(6:162)***
@@ -851,22 +707,14 @@ Therefore, because of the above mentioned reasons, recognition of self
 in Islam has been assigned a special importance. The Commander of the
 Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: معرفة النفس انفع المعارف.
-  </p>
-</blockquote>
+> قال على عليه السلام: معرفة النفس انفع المعارف.
 
 *“Self-consciousness is one of the most profitable assets of a
 person.”*[^28]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: من عرف نفسه جل امره
-  </p>
-</blockquote>
+> قال على عليه السلام: من عرف نفسه جل امره
 
 *“Whoever succeeds in self -his affairs will be improved.”*[^29]
 
@@ -910,12 +758,8 @@ exist.
 
 God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ ظَاهِرًا مِّنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ
-الْآخِرَةِ هُمْ غَافِلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ ظَاهِرًا مِّنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ
+> الْآخِرَةِ هُمْ غَافِلُونَ
 
 ***“They know only some appearance of the life of the World, and are
 needless of the Hereafter.”*** ***(30: 7)***
@@ -925,12 +769,8 @@ Day of Resurrection when the dark curtain of materialism are rolled up
 from the human eyes thus, enabling him to witness the reality and his
 own state of affairs. God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لَّقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
-  </p>
-</blockquote>
+> لَّقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
 
 ***“(And unto the evil-doer it is said): Thou wast in needlessness of
 this. Now we have removed from thee thy covering and piercing is thy
@@ -950,33 +790,21 @@ ultimate destiny in his eternal abode. Following are some examples:
 
 God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
 
 ***“Every soul is a pledge for its own deeds.”*** ***(74:38)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
-  </p>
-</blockquote>
+> ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
 
 ***“Then every soul will be paid. in full what it hath earned; and they
 will not be wronged.” (3:161)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِن
-يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ
-  </p>
-</blockquote>
+> لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِن
+> يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ
 
 ***“God will not take you to task for that which is unintentional in
 your oaths. But He will take you to task for that which your hearts have
@@ -984,12 +812,8 @@ garnered. God is forgiving, clement.” (2:225)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وعليها ما اكتسبت.لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ
-لَهَا مَا كَسَبَتْ
-  </p>
-</blockquote>
+> وعليها ما اكتسبت.لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ
+> لَهَا مَا كَسَبَتْ
 
 ***“God tasketh not a soul beyond its scope. For it (is only) that which
 it hath earned, and against it (only that which it hath deserved.”***
@@ -997,12 +821,8 @@ it hath earned, and against it (only that which it hath deserved.”***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا
-عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا
+> عَمِلَتْ مِن سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
 
 ***“On the Day when every soul will find itself confronted With all that
 it hath done of good and all that it hath done of evil (every soul) will
@@ -1011,12 +831,8 @@ evil.”*** ***(3:30)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ وَمَنْ أَسَاءَ فَعَلَيْهَا من عمل
-صالحا فلنفسه
-  </p>
-</blockquote>
+> ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ وَمَنْ أَسَاءَ فَعَلَيْهَا من عمل
+> صالحا فلنفسه
 
 ***“Whoso doth right, it is for his soul. and whoso doth wrong, it is
 against it. And afterward unto your Lord ye will be brought back”.***
@@ -1024,61 +840,41 @@ against it. And afterward unto your Lord ye will be brought back”.***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
 
 ***“And whoso doth good an atom's weight will see it then, and whoso
 doth evil an atom's weight will see it then.”*** ***(99:7-8)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ وَأَنَّ سَعْيَهُ سَوْفَ
-يُرَىٰ
-  </p>
-</blockquote>
+> وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ وَأَنَّ سَعْيَهُ سَوْفَ
+> يُرَىٰ
 
 ***“And that man hath only that for which he maketh effort and that his
 effort will be seen.”*** ***(53: 39-40)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ
-  </p>
-</blockquote>
+> وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ
 
 ***“And whatever of Good ye send before (you) for your souls, ye will
 find it with God.” (2:110)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ
-بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ
+> بِقَلْبٍ سَلِيمٍ
 
 ***“The day when wealth and sons avail not (any man). Save him who
 bringeth unto God a whole heart.”*** ***(26: 88-89)***
 
 The Holy Prophet (S) said to one of his companions:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي صلى الله عليه وآله: يا قيس! لا بدلك من قرين يدفن معك وهو حى
-وتدفن معه وانت ميت فان كان كريما اكرمك وان كان لئيما المك ثم لا
-يحشرالامعه ولاتسال الاعنه فلا تجعله الا صالحا فانه ان صلح آنست به وان
-فسد لا تستوحش ألامنه وهو فعلك
-  </p>
-</blockquote>
+> قال النبي صلى الله عليه وآله: يا قيس! لا بدلك من قرين يدفن معك وهو حى
+> وتدفن معه وانت ميت فان كان كريما اكرمك وان كان لئيما المك ثم لا
+> يحشرالامعه ولاتسال الاعنه فلا تجعله الا صالحا فانه ان صلح آنست به وان
+> فسد لا تستوحش ألامنه وهو فعلك
 
 *“Oh Qais! You will have no other choice except to live with a companion
 in your grave. He is alive and you will be buried with him. If he is
@@ -1112,12 +908,8 @@ the Next World.
 
 God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً
 
 ***“Whosoever doth right, whether male or female, and is a believer, him
 verily We shall quicker good life.”*** ***(16: 97)***
@@ -1130,12 +922,8 @@ manifested in the Hereafter.
 
 Imam al- Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي صلى الله عليه وآله: يا قيس! لابد لك من قرين يدفن معك وهو حى
-وتدفن معه الدنيا فانكم تنعمون بها في الاخرة.
-  </p>
-</blockquote>
+> قال النبي صلى الله عليه وآله: يا قيس! لابد لك من قرين يدفن معك وهو حى
+> وتدفن معه الدنيا فانكم تنعمون بها في الاخرة.
 
 *God-Almighty says to his servants:*
 
@@ -1145,22 +933,14 @@ well.”*[^31]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: مداومة الذكر قوت الارواح.
-  </p>
-</blockquote>
+> قال على عليه السلام: مداومة الذكر قوت الارواح.
 
 *“Continuation of invocation (dhikr) is the nourishment of human
 souls.”*[^32]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: عليك بذكر الله فانه نور القلوب.
-  </p>
-</blockquote>
+> قال على عليه السلام: عليك بذكر الله فانه نور القلوب.
 
 *“Don't forget invocation (dhikr) of God-Almighty because, it is the
 illumination of Hearts.”*[^33]
@@ -1187,12 +967,8 @@ blessing of His Guidance*.”[^34]
 
 God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
-  </p>
-</blockquote>
+> الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
 
 ***“Lo Those who devour the wealth of orphans wrongfully, they do but
 swallow fire into their bellies and they will be exposed to burning
@@ -1205,12 +981,8 @@ Next World with the same condition.
 
 The Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ
-وَأَضَلُّ سَبِيلًا
-  </p>
-</blockquote>
+> مَن كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ
+> وَأَضَلُّ سَبِيلًا
 
 ***“Whoso is blind here will be blind in the Hereafter, and yet further
 from the road.” (17:72)***
@@ -1251,12 +1023,8 @@ and strength from his beliefs, morals and deeds.
 
 God-Almighty in the Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
-يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
-  </p>
-</blockquote>
+> مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
+> يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
 
 ***“Whoso desireth power (should knows that) all power belongeth to God.
 Unto Him good words ascend, and the pious deeds doth He exalt.”***
@@ -1296,11 +1064,7 @@ virtues and performs human obligations.
 It was because of this wonderful creation that God-Almighty in Holy
 Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 ***“So blessed be God -the best of creators”*** ***(23:14)***
 
@@ -1375,11 +1139,7 @@ the Holy Prophet (S) and the Infallible Imams (a.s.) of his Holy Progeny
 
 Holy Prophet (S) had said:
 
-<blockquote dir="rtl">
-  <p>
-وفي الحديث النبوى يحشر بعض الناس على صور يحسن عندها القردة الخنازير.
-  </p>
-</blockquote>
+> وفي الحديث النبوى يحشر بعض الناس على صور يحسن عندها القردة الخنازير.
 
 *“On the Day of Resurrection the people will reappear in faces that the
 faces of monkeys and pigs are far better than theirs.”*[^35]
@@ -1387,12 +1147,8 @@ faces of monkeys and pigs are far better than theirs.”*[^35]
 The Commander of the Faithful Imam ‘Ali (a.s.) about the corrupt
 scholar, has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: فالصورة صورة انسان القلب قلب حيوان, لا يعرف باب
-الهدى فيتبعه ولا باب العمى فيصد عنه وذالك ميت الحيا.
-  </p>
-</blockquote>
+> قال على عليه السلام: فالصورة صورة انسان القلب قلب حيوان, لا يعرف باب
+> الهدى فيتبعه ولا باب العمى فيصد عنه وذالك ميت الحيا.
 
 *“Although, his outward appearance is like a human being but his heart
 is like an animal heart. He does not recognize the path of guidance so
@@ -1402,12 +1158,8 @@ alive.”*[^36]
 
 Imam al-Sadiq (a.s.) had said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: ان المتكبرين يجعلون في صور الذر, يتو طوهم
-الناس حتى يفرق الله من الحساب.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: ان المتكبرين يجعلون في صور الذر, يتو طوهم
+> الناس حتى يفرق الله من الحساب.
 
 *“The arrogant people on the day of Resurrection will be transformed
 into tiny ants to be trampled by the people till accounts of all the
@@ -1415,11 +1167,7 @@ people are settled.”*[^37]
 
 God-Almighty in the Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْوُحُوشُ حُشِرَتْ
-  </p>
-</blockquote>
+> وَإِذَا الْوُحُوشُ حُشِرَتْ
 
 ***“And when the wild beasts are herded together.”*** ***(81:5)***
 
@@ -1431,11 +1179,7 @@ their appearance does not make any sense.
 
 God-Almighty in Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
-  </p>
-</blockquote>
+> يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
 
 ***“A day when the trumplet is blown and ye come in multitudes.”
 (78:18)***
@@ -1639,5 +1383,4 @@ damnation.” -Nahjul-Balagha, S.M. A Jafri p-543 [Tr].
 
 [^38]: Tafsir Majma al-Bayan, vol. 10, p-423, Ruh al-Bayan, vol. 10,
 p-299 and Nur al-Thaqalain, vol. 5, p-493
-
 

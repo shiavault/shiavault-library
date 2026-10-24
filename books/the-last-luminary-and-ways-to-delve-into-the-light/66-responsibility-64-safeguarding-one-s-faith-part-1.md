@@ -13,4 +13,3 @@ uncertainties which may strike us and affect our faith.
 In this regards, reciting the supplication which is mentioned in the
 next responsibility is sufficient to protect ourselves.
 
-

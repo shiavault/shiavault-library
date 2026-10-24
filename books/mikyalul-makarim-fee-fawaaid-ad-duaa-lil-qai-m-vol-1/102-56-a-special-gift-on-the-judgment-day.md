@@ -35,4 +35,3 @@ most perfect and complete way of favoring as is very much clear.
 
 [^1]: Kafi; Vol. 2, Pg. 207
 
-

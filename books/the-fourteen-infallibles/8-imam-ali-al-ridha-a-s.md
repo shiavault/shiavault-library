@@ -287,7 +287,6 @@ HIJRA in TOOS and was buried in MASHHAD, KHURASAN. He was heard saying,
 "Whoever visits me in my residence will be in my company in Paradise".
 Peace and blessing of Allah be upon him.
 
-
 **Imam Mohammad Al-Jawad(A.S.)**
 
 **LINEAGE**
@@ -594,5 +593,4 @@ Some of his sayings and adages are:
 
 1- Perfect dignity of one is to give up that which is of no use.
 2- One's good moral is never to meet someone with what someone hates.
-
 

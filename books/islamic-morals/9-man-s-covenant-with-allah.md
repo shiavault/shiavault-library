@@ -171,7 +171,6 @@ those who are keepers of their trusts and their covenant As you have
 seen, honesty and keeping of trust is one of the Divine orders and is
 considered as one of the virtues of the faithful.
 
-
 **Some Traditions Relating to Trust**
 
 The Holy Prophet (s.a.w.s.) said: One who is not honest trustworthy has
@@ -235,7 +234,6 @@ ordinances are described as His law and some of the trusts of the
 Prophet as his Sunnah and the trusts of the faithful are called their
 secrets… At the end of this discussion let us pray to Allah so that He
 may make us Truthful and Trustworthy.
-
 
 **Lesson: 35 : Modesty and Chastity**
 
@@ -359,7 +357,6 @@ of Islam and immediately stop from doing any unwise deed and when ever
 they see the sacrifice of the deprived in the society feel ashamed as to
 why they do not pay their duties in a nice ways and…
 
-
 **Perfection in the light of Morals**
 
 **Part two : Preface**
@@ -409,7 +406,6 @@ reach human perfection and attain their goal.
 It is hoped that these moral lessons will prove effect for our
 character building and will help us in our journeys toward perfection
 and toward God.
-
 
 **Lesson: 36 : Self respect**
 
@@ -536,7 +532,6 @@ attain martyrdom and the jihad of women is to show patience and
 tolerance in course of life to tolerate trouble misbehaviour of their
 husbands who act with Ghairat!
 
-
 **Lesson: 37 : Favourable Opinion**
 
 For dear readers, we divide the subject of favourable opinion in some
@@ -640,5 +635,4 @@ family and market and office and workshop and everywhere and at all
 times.
 4 - Suspicion encroaches upon the rights of the members of a society.
 5 - Unfavourable guessing results in spying upon people's lives.
-
 

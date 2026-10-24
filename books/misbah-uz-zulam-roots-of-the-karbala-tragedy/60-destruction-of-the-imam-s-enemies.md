@@ -9,4 +9,3 @@ incident. Indeed, the people who helped Yazeed and acted on his orders
 will be raised with him and they all would be recompensed like him and
 abide in Hell forever.
 
-

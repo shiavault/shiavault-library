@@ -97,4 +97,3 @@ was nothing for them.
 
 [^1]: Surah Baqarah 2:256
 
-

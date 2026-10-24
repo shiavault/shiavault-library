@@ -1,15 +1,11 @@
 Section Twenty Four
 ===================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ الْعَنْ أَبا سُفْيانَ وَمُعَاوِيَةَ وَيَزِيدَ بْنَ
-مُعَاوِيَةَ عَلَيْهِمْ مِنْكَ اللَّعْنَةُ أَبَدَ الأََبِدِينَ، وَهذَا
-يَوْمٌ فَرِحَتْ بِهِ آلُ زِيادٍ وَآلُ مَرْوانَ بِقَتْلِهِمُ
-الْحُسَيْنَ صَلَواتُ اللّهِ عَلَيْهِ، أَللَّهُمَّ فَضاعِفْ عَلَيْهِمُ
-اللَّعْنَ مِنْكَ وَالْعَذابَ الأَلِيمَ.
-  </p>
-</blockquote>
+> أَللَّهُمَّ الْعَنْ أَبا سُفْيانَ وَمُعَاوِيَةَ وَيَزِيدَ بْنَ
+> مُعَاوِيَةَ عَلَيْهِمْ مِنْكَ اللَّعْنَةُ أَبَدَ الأََبِدِينَ، وَهذَا
+> يَوْمٌ فَرِحَتْ بِهِ آلُ زِيادٍ وَآلُ مَرْوانَ بِقَتْلِهِمُ
+> الْحُسَيْنَ صَلَواتُ اللّهِ عَلَيْهِ، أَللَّهُمَّ فَضاعِفْ عَلَيْهِمُ
+> اللَّعْنَ مِنْكَ وَالْعَذابَ الأَلِيمَ.
 
 “O’ Allah! Curse Abu Sufan and Mu’awiyah and Yazid b. Mu’awiyah – upon
 them may Your curse be forever and eternity. And this is the day when
@@ -54,5 +50,4 @@ The actions of Yazid were no less – including the act of killing the
 grandson of the Prophet, attacking the Holy Ka’bah and destroying it and
 hundreds of other acts during his three years and six months of
 “leadership” of the Muslim nation...
-
 

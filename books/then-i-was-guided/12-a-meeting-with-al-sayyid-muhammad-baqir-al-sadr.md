@@ -342,4 +342,3 @@ by verbal numbers and various other practices. Islam, as it is known
 accepts the positive aspects but rejects the negative ones, and we may
 say that all the principles and teachings of Islam are positive.
 
-

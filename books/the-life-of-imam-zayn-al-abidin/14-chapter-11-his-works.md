@@ -34,4 +34,3 @@ follows:
 
 [^3]: Ma‘alim al-‘Ulama’.
 
-

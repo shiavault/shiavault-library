@@ -265,4 +265,3 @@ better to remain noncommittal in this matter. Therefore the explanation
 of this verse is mentioned in the commentary of Imam al-Hasan al-’Askari
 (to be seen in the text in the following pages.
 
-

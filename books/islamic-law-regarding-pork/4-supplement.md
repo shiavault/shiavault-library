@@ -198,7 +198,5 @@ ANSWER:
 Yes. I am sure, God's help will always be available to you if you
 genuinely want to obey His Command. May God Be With You.
 
-
 THE END
-
 

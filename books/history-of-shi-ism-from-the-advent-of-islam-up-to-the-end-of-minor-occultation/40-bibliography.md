@@ -449,4 +449,3 @@ Edition. Beirut: Dar Ihya’ at-Turath al-‘Arabi, 1417 AH.
  Yusufi Gharawi, Muhammad Hadi. *Mawsu‘ah at-Tarikh Islami*, 1st
 Edition. Qum: Majma‘ al-Fikr al-Islami, 1417 AH.
 
-

@@ -17,4 +17,3 @@ Acts of Umrah al-Mufradah
 
 7- Prayer of Tawaf of Nisa’ (women).
 
-

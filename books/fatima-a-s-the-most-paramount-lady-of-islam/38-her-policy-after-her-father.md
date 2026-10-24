@@ -23,4 +23,3 @@ and degrading the rights of the real human beings…. She had been faced
 with such a policy, but she continued her campaign and struggles even if
 it resulted in her death.
 
-

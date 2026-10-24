@@ -203,4 +203,3 @@ Be careful not to dismember limb of a damaged body
 It is improper to disclose any organic defect on the body of the
 deceased to any other person.
 
-

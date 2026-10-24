@@ -3,14 +3,12 @@ Hadhrat Musa (as) Was Also Not a Salafi
 
 Allah says in Qur'an:
 
-<p dir="rtl">
 وَقَطَّع'نَاهُمُ اث'نَتَي' عَش'رَةَ أَس'بَاطًا أُمَمًا وَأَو'حَي'نَا
 إِلَى مُوسَى إِذِ اس'تَس'قَاهُ قَو'مُهُ أَنِ اض'رِب بِّعَصَاكَ ال'حَجَرَ
 فَانبَجَسَت' مِن'هُ اث'نَتَا عَش'رَةَ عَي'نًا قَد' عَلِمَ كُلُّ أُنَاسٍ
 مَّش'رَبَهُم' وَظَلَّل'نَا عَلَي'هِمُ ال'غَمَامَ وَأَنزَل'نَا عَلَي'هِمُ
 ال'مَنَّ وَالسَّل'وَى كُلُوا' مِن طَيِّبَاتِ مَا رَزَق'نَاكُم' وَمَا
 ظَلَمُونَا وَلَـكِن كَانُوا' أَنفُسَهُم' يَظ'لِمُونَ
-</p>
 
 [Yusuf Ali 7:160] We directed Moses by inspiration, when his (thirsty)
 people asked him for water: "Strike the rock with thy staff": out of it
@@ -29,11 +27,9 @@ Prophet Yaqoob (as) was also not a Salafi
 
 Allah says in Qur'an:
 
-<p dir="rtl">
 قَالُوا' يَا أَبَانَا اس'تَغ'فِر' لَنَا ذُنُوبَنَا إِنَّا كُنَّا
 خَاطِئِينَ قَالَ سَو'فَ أَس'تَغ'فِرُ لَكُم' رَبِّيَ إِنَّهُ هُوَ
 ال'غَفُورُ الرَّحِيمُ
-</p>
 
 [Pickthal 12:97-98] They said: O our father! Ask forgiveness of our
 sins for us, for lo! we were sinful. He said: I shall ask forgiveness
@@ -67,9 +63,7 @@ this innovation.
 Allah has promised Rasool Allah [saww] that He has raised high his
 [saww] Dhikr along with His Dhikr. Allah says in Qur'an:
 
-<p dir="rtl">
 وَرَفَع'نَا لَكَ ذِك'رَكَ
-</p>
 
 [Yusufali 94: 4] And (didn't We) raised high the esteem (Dhikr) (in
 which) thou (Muhammad) (art held)?
@@ -81,12 +75,10 @@ use our own Logic, and take guidance from whole Qur'an and Sunnah.
 We don't make anything Haram on us in name of Shirk and Bidah, which
 has been made Halal for us from Allah. Qur'an says:
 
-<p dir="rtl">
 قُل' مَن' حَرَّمَ زِينَةَ اللّهِ الَّتِيَ أَخ'رَجَ لِعِبَادِهِ
 وَال'طَّيِّبَاتِ مِنَ الرِّز'قِ قُل' هِي لِلَّذِينَ آمَنُوا' فِي
 ال'حَيَاةِ الدُّن'يَا خَالِصَةً يَو'مَ ال'قِيَامَةِ كَذَلِكَ نُفَصِّلُ
 الآيَاتِ لِقَو'مٍ يَع'لَمُونَ
-</p>
 
 [Yusufali 7:32] Say: Who hath forbidden the beautiful (gifts) of Allah,
 which He hath produced for His servants, and the things, clean and pure,
@@ -97,5 +89,4 @@ understand.
 
 May Allah give us the Taufeeq to act upon the whole of His guidance.
 Amin.
-
 

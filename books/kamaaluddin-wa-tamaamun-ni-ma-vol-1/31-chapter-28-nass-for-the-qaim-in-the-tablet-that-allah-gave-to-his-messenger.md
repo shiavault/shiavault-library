@@ -112,12 +112,8 @@ sobbing will be commonplace among their womenfolk. They are My true
 friends! Through them I will repel all blinding and dark mischief,
 remove the earthquakes and do away with the burdens and the chains.
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ ۖ
-وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ 
-  </p>
-</blockquote>
+> أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ ۖ
+> وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ
 
 ***They are those upon them is the blessings of their Lord and mercy.
 And they are the guided ones.***[^4]
@@ -214,5 +210,4 @@ bliss of Allah be on them all.”
 [^3]: Dhulqarnain
 
 [^4]: Surah Baqarah 2:157
-
 

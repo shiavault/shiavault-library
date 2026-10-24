@@ -4,24 +4,12 @@ Surah Qaf, Verses 27 - 45
 Surah Qaf - Verses 27-29
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ قَرِينُهُ رَبَّنَا مَا أطْغَيْتُهُ وَلَكِن كَانَ فِي ضَلاَلٍ
-بَعِيدٍ
-  </p>
-</blockquote>
+> قَالَ قَرِينُهُ رَبَّنَا مَا أطْغَيْتُهُ وَلَكِن كَانَ فِي ضَلاَلٍ
+> بَعِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَآ تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ
-  </p>
-</blockquote>
+> قَالَ لَآ تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ
 
-<blockquote dir="rtl">
-  <p>
-مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أنَا بِظَلَآمٍ لِّلْعَبِيدِ
-  </p>
-</blockquote>
+> مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أنَا بِظَلَآمٍ لِّلْعَبِيدِ
 
 ***27. His companion [Satan] will say: “Our Lord! I did not push him to
 transgression, but he was himself in error far astray.”***  
@@ -141,11 +129,7 @@ bear testimony to human choice.
 Surah Qaf - Verse 30
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
-  </p>
-</blockquote>
+> يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
 
 ***30. On the Day when We will say unto Hell: “Are you filled?” It will
 say: “Are there any more?”***
@@ -179,23 +163,11 @@ disobedient.
 Surah Qaf - Verses 31-33
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
-  </p>
-</blockquote>
+> وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا مَا تُوعَدُونَ لِكُلِّ أوَّابٍ حَفِيظٍ
-  </p>
-</blockquote>
+> هَذَا مَا تُوعَدُونَ لِكُلِّ أوَّابٍ حَفِيظٍ
 
-<blockquote dir="rtl">
-  <p>
-مَنْ خَشِيَ الرَّحْمَن بِالْغَيْبِ وَجَاء بِقَلْبٍ مُّنِيبٍ
-  </p>
-</blockquote>
+> مَنْ خَشِيَ الرَّحْمَن بِالْغَيْبِ وَجَاء بِقَلْبٍ مُّنِيبٍ
 
 ***31. And Paradise will be brought near to the God fearing, not far
 off.***  
@@ -279,17 +251,9 @@ The sickness worsens if it is left on its own;
 Surah Qaf - Verses 34-35
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ادْخُلُوهَا بِسَلَآمٍ ذَلِكَ يَوْمُ الْخُلُودِ
-  </p>
-</blockquote>
+> ادْخُلُوهَا بِسَلَآمٍ ذَلِكَ يَوْمُ الْخُلُودِ
 
-<blockquote dir="rtl">
-  <p>
-لَهُم مَّا يَشَاؤُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
-  </p>
-</blockquote>
+> لَهُم مَّا يَشَاؤُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
 
 ***34. [It shall be said unto them:] “Enter you therein in peace and
 security – this is a Day of eternal life [for you]!”***  
@@ -343,19 +307,11 @@ deeds what is neither seen, nor heard, nor occurred to anyone.
 Surah Qaf - Verses 36-37
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ أهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أشَدُّ مِنْهُم بَطْشًا
-فَنَقَّبُوا فِي الْبِلَآدِ هَلْ مِن مَّحِيصٍ
-  </p>
-</blockquote>
+> وَكَمْ أهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أشَدُّ مِنْهُم بَطْشًا
+> فَنَقَّبُوا فِي الْبِلَآدِ هَلْ مِن مَّحِيصٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لَذِكْرَی لِمَن كَانَ لَهُ قَلْبٌ أوْ ألْقَی
-السَّمْعَ وَهُوَ شَهِيدٌ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لَذِكْرَی لِمَن كَانَ لَهُ قَلْبٌ أوْ ألْقَی
+> السَّمْعَ وَهُوَ شَهِيدٌ
 
 ***36. And how many a generation We have destroyed before them who were
 stronger in power than them. And [when Our torment came] they found
@@ -420,12 +376,8 @@ Truth.
 Surah Qaf - Verse 38
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأرْضَ وَمَا بَيْنَهُمَا فِي
-سِتَّةِ أيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأرْضَ وَمَا بَيْنَهُمَا فِي
+> سِتَّةِ أيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ
 
 ***38. And verily We created the heavens and the earth and all between
 them in six days and nothing of pain or fatigue touched Us.***
@@ -492,18 +444,10 @@ Creator of the world could be Able to create it in six days.
 Surah Qaf - Verses 39-40
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ عَلَی مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ
-طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
-  </p>
-</blockquote>
+> فَاصْبِرْ عَلَی مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ
+> طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأدْبَارَ السُّجُودِ
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأدْبَارَ السُّجُودِ
 
 ***39. Therefore, bear with patience [against] all that they say and
 glorify the praises of your Lord before the rising of the sun and before
@@ -560,17 +504,9 @@ glorification.
 Surah Qaf - Verses 41-42
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِن مَّكَانٍ قَرِيبٍ
-  </p>
-</blockquote>
+> وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِن مَّكَانٍ قَرِيبٍ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ذَلِكَ يَوْمُ الْخُرُوجِ
-  </p>
-</blockquote>
+> يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ذَلِكَ يَوْمُ الْخُرُوجِ
 
 ***41. And listen on the Day when the Caller will call from a near
 place.***  
@@ -620,18 +556,10 @@ for the former.
 Surah Qaf - Verses 43-44
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ وَإِلَيْنَا الْمَصِيرُ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ وَإِلَيْنَا الْمَصِيرُ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَشَقَّقُ الْأرْضُ عَنْهُمْ سِرَاعًا ذَلِكَ حَشْرٌ عَلَيْنَا
-يَسِيرٌ
-  </p>
-</blockquote>
+> يَوْمَ تَشَقَّقُ الْأرْضُ عَنْهُمْ سِرَاعًا ذَلِكَ حَشْرٌ عَلَيْنَا
+> يَسِيرٌ
 
 ***43. Indeed, We it is Who give life and cause death; and to Us is the
 final return [of all].***  
@@ -678,12 +606,8 @@ are the Noble Prophet of Islam (S) accompanied by Imam ‘Ali (as).”*[^17]
 Surah Qaf - Verse 45
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ أعْلَمُ بِمَا يَقُولُونَ وَمَا أنتَ عَلَيْهِم بِجَبَّارٍ
-فَذَكِّرْ بِالْقُرْآنِ مَن يَخَافُ وَعِيدِ
-  </p>
-</blockquote>
+> نَحْنُ أعْلَمُ بِمَا يَقُولُونَ وَمَا أنتَ عَلَيْهِم بِجَبَّارٍ
+> فَذَكِّرْ بِالْقُرْآنِ مَن يَخَافُ وَعِيدِ
 
 ***45. We know best what they [disbelievers] say. And you are not the
 one to force them [to believe]. But warn by the Qur’an him who fears My
@@ -813,5 +737,4 @@ Prophet (S) and the Infallible Imams (as). Amen, O Lord of the worlds!*
 107.
 
 [^25]: Kanz al-‘Ummal, vol. 1, p. 185.
-
 

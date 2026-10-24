@@ -23,4 +23,3 @@ needless of Allah’s representative..? No, it’s impossible[^1].
 Majlis (r.a.) vis-à-vis the tradition, “Sun behind the clouds,” Behaar
 al-Anwaar, vol. 52, p. 93, 94)
 
-

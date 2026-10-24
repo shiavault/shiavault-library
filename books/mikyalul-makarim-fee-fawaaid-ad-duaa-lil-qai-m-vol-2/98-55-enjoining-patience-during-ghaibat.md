@@ -89,4 +89,3 @@ actual event.”[^6]
 
 [^6]: Usool Kafi, Vol. 1, Pg. 369, Tr. no. 6
 
-

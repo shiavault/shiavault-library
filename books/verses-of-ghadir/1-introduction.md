@@ -1,11 +1,7 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
@@ -329,5 +325,4 @@ by the Holy Prophet (S).
 if you only adhere to: the Book of Allah and my progeny—my household.
 Have I conveyed (to you this matter)?” Al-Ya\`qubi: al-Tarikh (Book of
 History) 2/92.
-
 

@@ -77,13 +77,9 @@ The virtue of studying this chapter
 In regards to the virtue of the recitation of this chapter, a tradition
 from the Noble Prophet says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَرَأَهَا سَقَاهُ اللهُ مِنْ أَنْهَارِ الْـجَنَّةِ وَ أَعْطي مِنَ
-الأَجْرِ بِعَدَدِ كُلِّ قُرْبَانٍ قَرَّبَهُ الْعِبَادِ فِي يَوْمِ
-عِيدٍ وَ يَقْرَبُونَ مِنْ أَهْلِ الْكِتَابِ وَ" الْمُشْرِكِينَ”
-  </p>
-</blockquote>
+> مَنْ قَرَأَهَا سَقَاهُ اللهُ مِنْ أَنْهَارِ الْـجَنَّةِ وَ أَعْطي مِنَ
+> الأَجْرِ بِعَدَدِ كُلِّ قُرْبَانٍ قَرَّبَهُ الْعِبَادِ فِي يَوْمِ
+> عِيدٍ وَ يَقْرَبُونَ مِنْ أَهْلِ الْكِتَابِ وَ" الْمُشْرِكِينَ”
 
 One who recites it (Suratul Kawthar), Allah will quench their thirst
 from the streams of heaven and will recompense them good rewards as many
@@ -99,12 +95,8 @@ Commentary of the Verses
 
 **In the Name of Allah, the All-Beneficent, the All-Merciful**
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ۝ فَصَلِّ لِرَبِّكَ وَانْحَرْ ۝
-إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ”
-  </p>
-</blockquote>
+> “إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ۝ فَصَلِّ لِرَبِّكَ وَانْحَرْ ۝
+> إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ”
 
 ***“Surely We have given you (Muhammad) abundance of good
 (al-Kawthar).*** ****** ***Therefore turn to your Lord in prayer and
@@ -448,5 +440,4 @@ grand-son of Imam Ḥasan al-Mujtaba who was martyred by Mansur
 al-Dawaniqi in 145 ah.
 
 [^10]: Tafsir of Fakhr ad-Din al-Razi, vol. 32, p. 124
-
 

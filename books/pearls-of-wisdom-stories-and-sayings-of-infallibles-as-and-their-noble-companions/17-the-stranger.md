@@ -65,4 +65,3 @@ The widow came forward and shame facedly cried:
 
 *Contributed by Br.* *‘Ali Abbas, <abbas@seas.gwu.edu>*
 
-

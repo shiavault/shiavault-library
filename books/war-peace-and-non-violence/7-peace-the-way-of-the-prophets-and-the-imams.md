@@ -118,7 +118,6 @@ leaders should also educate the individuals in the Islamic movement
 about peace in the spoken word, thought, writing and action whatever the
 cost.
 
-
 **Peace Safeguards Islam**
 
 Allah Almighty is He says in the Qur'an: {O you who have faith, enter
@@ -265,7 +264,6 @@ initiate a general trend towards an authentic Islamic movement which
 will be a prelude to rescuing the Islamic lands from the colonialists
 and dictators and to establish the law of Allah for one billion Muslims.
 For Allah this is not difficult.
-
 
 **Peace Amongst Members of the Movement**
 
@@ -621,5 +619,4 @@ human being is even more difficult.'
 This is true, for a person must strive for fifty or sixty years day and
 night in order to become a scholar. If he wants to become a human being
 then his striving must be deeper in order to achieve his goal.
-
 

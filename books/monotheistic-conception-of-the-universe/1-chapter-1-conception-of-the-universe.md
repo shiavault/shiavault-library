@@ -52,7 +52,6 @@ perception of a thing is different from its identification. Many people
 view a scene and all of them see it alike, but only a few of them can
 interpret it, and they too often differ?
 
-
 **Varieties of World Conception**
 
 On the whole there are three kinds of world conception or world
@@ -65,7 +64,6 @@ Scientific;
 Philosophical;
 
 Religious.
-
 
 **Scientific Conception of the World**
 
@@ -213,5 +211,4 @@ an eternal and reliable conception, not a transient and passing one; and
 practical and technical one. Thus, it is also clear that the scientific
 conception of the world, despite of its other merits, lacks all these
 three requirements.
-
 

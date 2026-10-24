@@ -81,7 +81,6 @@ cause in the early universe
 
 "And He (God) raised the sky and set the balance. (Koran 55:7)."
 
-
 **How Galaxies Became Possible**
 
 Calculations by cosmologists indicate that matter in the early universe
@@ -149,5 +148,4 @@ Whereas scientists face an enigma here, which threatens the edifice of
 their work, the followers of the Koran face no such enigma at all. God
 is the sufficient reason. The cause of the constants: "To Him submits
 whatsoever is in the heavens and the earth." (Koran)
-
 

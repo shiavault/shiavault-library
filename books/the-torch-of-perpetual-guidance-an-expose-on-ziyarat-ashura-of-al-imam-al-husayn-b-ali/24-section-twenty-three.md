@@ -1,14 +1,10 @@
 Section Twenty Three
 ====================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ إِنَّ هذَا يَوْمٌ تَبَرَّكَتْ بِهِ بَنُو أُمَيَّةَ وَابْنُ
-آكِلَةِ الأَََكْبادِ، اللَّعِينُ ابْنُ اللَّعِينِ عَلَى لِسانِكَ
-وَلِسانِ نَبِيِّكَ فِي كُلِّ مَوْطِنٍ وَ مَوْقِفٍ وَقَفَ فِيهِ
-نَبِيُّكَ
-  </p>
-</blockquote>
+> أَللَّهُمَّ إِنَّ هذَا يَوْمٌ تَبَرَّكَتْ بِهِ بَنُو أُمَيَّةَ وَابْنُ
+> آكِلَةِ الأَََكْبادِ، اللَّعِينُ ابْنُ اللَّعِينِ عَلَى لِسانِكَ
+> وَلِسانِ نَبِيِّكَ فِي كُلِّ مَوْطِنٍ وَ مَوْقِفٍ وَقَفَ فِيهِ
+> نَبِيُّكَ
 
 “O’ Allah! This is the day (the Day of ‘Ashura) which the Bani Umayyah
 rejoiced upon (and is the day when the) son of the liver eater (the son
@@ -56,5 +52,4 @@ day of ‘Ashura is a day of celebration) and has said (at the end of the
 hadith), “...the person who takes the day of ‘Ashura as a happy one will
 be raised up on the Day of Judgement with Yazid and ‘Ubaydullah b. Ziyad
 and ‘Umar b. Sa’d in the lowest regions of the Hell Fire.”
-
 

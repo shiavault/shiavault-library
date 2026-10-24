@@ -21,4 +21,3 @@ sisters, they have already been mentioned in (the Chapter on the
 Marfū‘āt) and likewise the the Tawābi‘, they have already been dealt
 there.
 
-

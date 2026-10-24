@@ -460,4 +460,3 @@ of Ayesha. For Ahl'ul Sunnah it is indeed unfortunate that Mu'awiya had
 the audacity to disregard Ibn Zubayr's close relationship to Abu Bakr,
 to the point that he even advocated killing this 'esteemed' personality.
 
-

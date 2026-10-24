@@ -561,4 +561,3 @@ attributed to the Imams.
 [^6]: On ihsan see Sachiko Murata and William C. Chittick, The vision of
 Islam (New York: Paragon House, 1994), 265ff.
 
-

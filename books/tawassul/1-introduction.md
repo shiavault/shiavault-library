@@ -16,4 +16,3 @@ benefit of their common enemies who have increased their domination of
 Muslim lands. This article is an attempt to examine and critically study
 the issue of*tawassul* .
 
-

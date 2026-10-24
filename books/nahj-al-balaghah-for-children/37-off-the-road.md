@@ -25,4 +25,3 @@ towards his goal or going backwards.
 
 (Sermon 154)
 
-

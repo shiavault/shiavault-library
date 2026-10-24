@@ -390,4 +390,3 @@ any alien theory or philosophy of government.
 Qur’an's political philosophy has been dealt with in another chapter in
 this book.
 
-

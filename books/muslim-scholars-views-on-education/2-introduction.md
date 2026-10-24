@@ -8,12 +8,8 @@ have received acceptance of most people in all times and places.
 
 Since the religion is based on nature:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا
 
 ***Then set your face upright for religion in the right state- the
 nature made by God in which He has made men (the Qur’an, Surah ar- Rum,
@@ -22,11 +18,7 @@ nature made by God in which He has made men (the Qur’an, Surah ar- Rum,
 Thus their natures have had the color of God, and since man’s nature is
 unchangeable:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ
-  </p>
-</blockquote>
+> لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ
 
 ***There is no altering of God’s creation (the Qur’an, Surah ar- Rum,
 30:30).***
@@ -86,5 +78,4 @@ well-supported by the Qur’an and Islamic traditions or influenced by
 them and they were from outstanding personalities of Islamic thought,
 and were effective in a deep thinking transformation in their era
 (Attaran, 1992).
-
 

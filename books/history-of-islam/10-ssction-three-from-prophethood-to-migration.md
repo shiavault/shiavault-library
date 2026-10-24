@@ -356,4 +356,3 @@ times was quite significant. Such early acceptance of Islam was a great
 honor for the Prophet's close followers. Having this in mind, we will
 realize how important Imam \`Ali's early acceptance could have been.
 
-

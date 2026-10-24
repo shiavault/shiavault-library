@@ -293,4 +293,3 @@ months and ten days, her waiting period should end.  If not, she should
 wait for the remaining period that completes the four months and ten
 days.
 
-

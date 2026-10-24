@@ -237,4 +237,3 @@ Muhammad Ali Shamali
  6 Safar 1417  
  23 June 1996
 
-

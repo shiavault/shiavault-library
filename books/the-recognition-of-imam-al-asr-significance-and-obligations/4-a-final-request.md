@@ -33,14 +33,10 @@ atrocities and crimes which they had committed against their own
 brother, when they came to Hazrat Yusuf (a.s.), who by then had become
 the King of Egypt, they said,
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا
-وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا
-الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ إِنَّ اللَّهَ يَجْزِي
-الْمُتَصَدِّقِينَ
-  </p>
-</blockquote>
+> فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا
+> وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا
+> الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ إِنَّ اللَّهَ يَجْزِي
+> الْمُتَصَدِّقِينَ
 
 ***So when they came in to him, they said: O chief! distress has
 afflicted us and our family and we have brought scanty money, so give us
@@ -55,5 +51,4 @@ Imam Mahdi (a.t.f.s.):
 **"O Master! Difficulties and calamities have surrounded us. We have
 come to you with very few good actions. But please have mercy on us and
 grant us in full measure .....".**
-
 

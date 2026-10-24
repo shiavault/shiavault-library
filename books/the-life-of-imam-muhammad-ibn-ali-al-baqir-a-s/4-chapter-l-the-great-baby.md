@@ -348,80 +348,80 @@ as school for him. There he gave his lectures to his students.
 
 ###
 
-[^1] Thahdhïb al-Lughat wa al-Asma’, vol.1, p.[^87]: Ibn Khullakan,
+[^1]: Thahdhïb al-Lughat wa al-Asma’, vol.1, p.87. Ibn Khullakan,
 Wafayat al-A‘yan, vol.3, p.384. Al-Mahbar, p.57. Al-Ya‘qubi, Tarikh,
 vol.2, p.60. A‘yan al-Shi‘a, 1/4/464.
 
-[^2] Abu al-Hasan al-‘Amili, Diya’ al-‘Amilin, vol.[^2]: Al-Dur
+[^2]: Abu al-Hasan al-‘Amili, Diya’ al-‘Amilin, vol.2. Al-Dur
 al-Nazïm, serial 2879.
 
-[^3] Usul al-Kafi, vol.1, p.[^469]:
+[^3]: Usul al-Kafi, vol.1, p.469.
 
-[^4] Ibn Khullakan, Wafayat al-A‘yan, vol.3, p.[^314]: Tadhkirt
+[^4]: Ibn Khullakan, Wafayat al-A‘yan, vol.3, p.314. Tadhkirt
 al-Huffaz, vol.1, p.124. Nazhat al-Jalis, vol.2, p.36.
 
-[^5] Dala’il al-Imama, p.[^94]: Farid Wajjdi, Da’irat al-Ma‘arif, vol.3,
+[^5]: Dala’il al-Imama, p.94. Farid Wajjdi, Da’irat al-Ma‘arif, vol.3,
 p.563.
 
-[^6] Ibn al-Wardi, Tarikh, vol.1, p.[^184]: Akhbar al-Duwal, p.111. Ibn
+[^6]: Ibn al-Wardi, Tarikh, vol.1, p.184. Akhbar al-Duwal, p.111. Ibn
 Khullakan, Wafayat al-A‘yan, vol.3, p.314.
 
-[^7] Al-Ya‘qubi, Tarikh, vol.2, p.[^60]:
+[^7]: Al-Ya‘qubi, Tarikh, vol.2, p.60.
 
-[^8] Al-Husayn b. ‘Abd al-Wahab, ‘Yyun al-Mu‘jizat, serial, [^975]:
+[^8]: Al-Husayn b. ‘Abd al-Wahab, ‘Yyun al-Mu‘jizat, serial, [^975]:
 
-[^9] Dala’il al-Imama, p.[^94]:
+[^9]: Dala’il al-Imama, p.94.
 
-[^10] Al-Dur al-Nazim fi Manaqib al-A’imma. Diya’ al-‘Amilin, vol.[^2]:
+[^10]: Al-Dur al-Nazim fi Manaqib al-A’imma. Diya’ al-‘Amilin, vol.2.
 A‘yan al-Shi‘a, 1/4/464.
 
-[^11] Jannat al-Khuld. Nasikh al-Tawarikh.
+[^11]: Jannat al-Khuld. Nasikh al-Tawarikh.
 
-[^12] Tadhkirat al-Huffaz, vol.1, p.[^124]: Nazhat al-Jalis, vol.2,
+[^12]: Tadhkirat al-Huffaz, vol.1, p.124. Nazhat al-Jalis, vol.2,
 p.36. Mirr’at al-Jinan, vol.1, p.247. Farid Wajjdi, Da’irat al-Ma‘arif,
 vol.3, p.563.
 
-[^13] Shaykh al-Turayhi, Jami‘ al-Maqal.
+[^13]: Shaykh al-Turayhi, Jami‘ al-Maqal.
 
-[^14] ‘Yyun al-Akhbar wa Funun al-Athar, p.[^213]: ‘Umdat al-Talib,
+[^14]: ‘Yyun al-Akhbar wa Funun al-Athar, p.213. ‘Umdat al-Talib,
 p.183.
 
-[^15] Jawhart al-Kalam fi Madh al-Sada al-A‘lam, p.[^133]:
+[^15]: Jawhart al-Kalam fi Madh al-Sada al-A‘lam, p.133.
 
-[^16] Mir’at al-Zaman fi Tawarikh al-A‘yan, vol.5, p.[^78]:
+[^16]: Mir’at al-Zaman fi Tawarikh al-A‘yan, vol.5, p.78.
 
-[^17] Ibid.
+[^17]: Ibid.
 
-[^18] Usul al-Kafi, vol.1, pp.496-[^470]: Al-Kashi, Rijal, pp.27-28.
+[^18]: Usul al-Kafi, vol.1, pp.496-[^470]: Al-Kashi, Rijal, pp.27-28.
 
-[^19] Ibn ‘Asakir, Tarikh, vol.51, p.[^41]:
+[^19]: Ibn ‘Asakir, Tarikh, vol.51, p.41.
 
-[^20] Ghayat al-Ikhtisar, p.[^64]:
+[^20]: Ghayat al-Ikhtisar, p.64.
 
-[^21] Al-Wafi bi al-Wafayat, vol.4, p.[^102]:
+[^21]: Al-Wafi bi al-Wafayat, vol.4, p.102.
 
-[^22] Masa’il Majmu‘a mina al-Haqa’iq al-‘Aliya wa al-Asrar al-Samiya,
-p.[^99]:
+[^22]: Masa’il Majmu‘a mina al-Haqa’iq al-‘Aliya wa al-Asrar al-Samiya,
+p.99.
 
-[^23] Majjma‘ al-Zawa’id, vol.1, p.[^22]:
+[^23]: Majjma‘ al-Zawa’id, vol.1, p.22.
 
-[^24] Usul al-Kafi, vol.1, p.[^469]:
+[^24]: Usul al-Kafi, vol.1, p.469.
 
-[^25] Akhbar al-Duwal, p.[^111]: Jawhart al-Kalam fi Madh al-Sada
+[^25]: Akhbar al-Duwal, p.111. Jawhart al-Kalam fi Madh al-Sada
 al-A’lam, 132.
 
-[^26] A‘yan al-Shi‘a, 1/4/[^471]:
+[^26]: A‘yan al-Shi‘a, 1/4/[^471]:
 
-[^27] ‘Ilal al-Sharai‘, p.[^234]:
+[^27]: ‘Ilal al-Sharai‘, p.234.
 
-[^28] Al-Manaqib, vol.4, p.[^147]:
+[^28]: Al-Manaqib, vol.4, p.147.
 
-[^29] Ithbat al-Hudat, vol.5, p.[^176]:
+[^29]: Ithbat al-Hudat, vol.5, p.176.
 
-[^30] Al-Manaqib, vol.4, p.[^181]:
+[^30]: Al-Manaqib, vol.4, p.181.
 
-[^31] Safwat al-Saffwa, vol.2, p.[^62]: Tadhkirat al-Khawas, p.349.
+[^31]: Safwat al-Saffwa, vol.2, p.62. Tadhkirat al-Khawas, p.349.
 
-[^32] Hulyat al-Awliya’, vol.3, p.[^189]:
+[^32]: Hulyat al-Awliya’, vol.3, p.189.
 
-[^33] A‘yan al-Shi‘a, 1/4/[^169]:
+[^33]: A‘yan al-Shi‘a, 1/4/[^169]:

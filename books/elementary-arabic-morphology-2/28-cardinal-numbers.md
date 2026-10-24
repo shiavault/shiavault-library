@@ -106,4 +106,3 @@ boys came).
 accusative state. For example: **جاءَ** **أربعةَ** **عَشَرَ** **وَاداً**
 (fourteen boys came).
 
-

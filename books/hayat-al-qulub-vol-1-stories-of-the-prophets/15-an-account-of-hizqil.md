@@ -139,4 +139,3 @@ Allah, Mercy on them.
 [^3]: Note: From the above discussion it is clear that Hizqil came after
 Sulayman and he was the third Khalifah of Musa.
 
-

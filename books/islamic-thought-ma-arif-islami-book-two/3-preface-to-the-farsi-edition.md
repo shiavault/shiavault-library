@@ -97,4 +97,3 @@ people. [Trans.]
 trans. Sālār Manāfī Anārī, 2nd edition (Tehran: Institute for the
 Compilation and Publication of Imam Khomeini’s Works, 2002). [Trans.]
 
-

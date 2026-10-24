@@ -42,4 +42,3 @@ normally means a twisted palm-frond. What this means is that what she
 dragged about with her, what was around her neck, was a heavily twisted
 chain of her own making.
 
-

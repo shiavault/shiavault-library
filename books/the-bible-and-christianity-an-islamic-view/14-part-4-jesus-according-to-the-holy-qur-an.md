@@ -281,4 +281,3 @@ blasphemy), verily a grievous penalty will befall the blasphemers among
 them. Why turn they not to Allah and seek His Forgiveness? For Allah is
 Oft Forgiving, Most Merciful.}76
 
-

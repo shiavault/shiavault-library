@@ -7,13 +7,9 @@ refusal to act -the punishment
 Surah Al-Ma'idah, Verse 20
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ اذْكُرُواْ نِعْمَةَ اللّهِ
-عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنبِيَاء وَجَعَلَكُم مُّلُوكًا
-وَآتَاكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّن الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ اذْكُرُواْ نِعْمَةَ اللّهِ
+> عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنبِيَاء وَجَعَلَكُم مُّلُوكًا
+> وَآتَاكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّن الْعَالَمِينَ
 
 **20.** ***"And (remember) when Moses said to his people: 'O' my people!
 remember the favour of Allah upon you when He raised prophets among you
@@ -51,12 +47,8 @@ the world."***
 Surah Al-Ma'idah, Verse 21
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا قَوْمِ ادْخُلُوا الأَرْضَ المُقَدَّسَةَ الَّتِي كَتَبَ اللّهُ
-لَكُمْ وَلاَ تَرْتَدُّوا عَلَى أَدْبَارِكُمْ فَتَنقَلِبُوا خَاسِرِينَ
-  </p>
-</blockquote>
+> يَا قَوْمِ ادْخُلُوا الأَرْضَ المُقَدَّسَةَ الَّتِي كَتَبَ اللّهُ
+> لَكُمْ وَلاَ تَرْتَدُّوا عَلَى أَدْبَارِكُمْ فَتَنقَلِبُوا خَاسِرِينَ
 
 **21.** ***"O' my people! enter the holy land which Allah has ordained
 for you and do not turn your backs, for then you will return (Us)
@@ -81,13 +73,9 @@ Palestine, etc.), or Jerusalem.
 Surah Al-Ma'idah, Verse 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا مُوسَى إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن
-نَّدْخُلَهَا حَتَّىَ يَخْرُجُواْ مِنْهَا فَإِن يَخْرُجُواْ مِنْهَا
-فَإِنَّا دَاخِلُونَ
-  </p>
-</blockquote>
+> قَالُوا يَا مُوسَى إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن
+> نَّدْخُلَهَا حَتَّىَ يَخْرُجُواْ مِنْهَا فَإِن يَخْرُجُواْ مِنْهَا
+> فَإِنَّا دَاخِلُونَ
 
 **22.** ***"They (Israelites) said: 'O' Moses! verily there is a very
 arrogant race in it, and verily, we will never enter it until they get
@@ -121,13 +109,9 @@ Mere pleasure-seeking is prohibited in Islam. We must act and ask
 Surah Al-Ma'idah, Verse 23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَجُلاَنِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللّهُ عَلَيْهِمَا
-ادْخُلُواْ عَلَيْهِمُ الْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ
-غَالِبُونَ وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> قَالَ رَجُلاَنِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللّهُ عَلَيْهِمَا
+> ادْخُلُواْ عَلَيْهِمُ الْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ
+> غَالِبُونَ وَعَلَى اللّهِ فَتَوَكَّلُواْ إِن كُنتُم مُّؤْمِنِينَ
 
 **23.** ***"Two men of those that feared (Allah) whom Allah had blessed,
 said: 'Enter against them by the gate! for when you have entered it, you
@@ -154,12 +138,8 @@ only on *Allah.*
 Surah Al-Ma'idah, Verse 24
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُواْ يَا مُوسَى إِنَّا لَن نَّدْخُلَهَا أَبَدًا مَّا دَامُواْ
-فِيهَا فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا إِنَّا هَاهُنَا قَاعِدُونَ
-  </p>
-</blockquote>
+> قَالُواْ يَا مُوسَى إِنَّا لَن نَّدْخُلَهَا أَبَدًا مَّا دَامُواْ
+> فِيهَا فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا إِنَّا هَاهُنَا قَاعِدُونَ
 
 **24.** ***"They said: 'O' Moses! we shall never enter it at all, so
 long as they (the arrogant) are in it. Go, therefore, you and your Lord,
@@ -191,12 +171,8 @@ comfort.
 Surah Al-Ma'idah, Verse 25
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنِّي لا أَمْلِكُ إِلاَّ نَفْسِي وَأَخِي فَافْرُقْ
-بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنِّي لا أَمْلِكُ إِلاَّ نَفْسِي وَأَخِي فَافْرُقْ
+> بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
 
 **25. "** ***He (Moses) said:*** **' O'** ***my Lord! I have power over
 none but myself and my brother*****,** ***therefore make a separation
@@ -219,12 +195,8 @@ envelops any departure from the institution of worship and servitude.
 Surah Al-Ma'idah, Verse 26
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ
-فِي الأَرْضِ فَلاَ تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ
+> فِي الأَرْضِ فَلاَ تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ
 
 **26.** ***"He (The Lord) said: 'So it (the Holy Land) will surely be
 forbidden to them for forty years that they will wander about in the
@@ -277,5 +249,4 @@ in us, then he will bring us into this land, and give it us; a land
 which floweth with milk and honey. 9. Only rebel not ye against the
 LORD, neither fear ye the people of the land; for they are bread for us;
 their defence departed from them and the LORD is with us; fear them not.
-
 

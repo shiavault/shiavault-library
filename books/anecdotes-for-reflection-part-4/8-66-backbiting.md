@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ لا يَغْتَبْ بَعْضُكُمْ بَعْضاً
-  </p>
-</blockquote>
+> وَ لا يَغْتَبْ بَعْضُكُمْ بَعْضاً
 
 ***“…nor let some of you, backbite others”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إن الغيبة أشد من الزنا
-  </p>
-</blockquote>
+> إن الغيبة أشد من الزنا
 
 ***“Surely, backbiting is worse than fornication”***[^2]
 
@@ -99,15 +91,11 @@ present in the gathering, although claiming to be my friend was not
 truthful in his claim, began backbiting about and speaking ill of me;
 fully heedless of the verse in which God says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
-بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
-مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ
-رَحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
+> بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
+> مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ
+> رَحِيمٌ
 
 *“…**nor let some of you backbite others. Does one of you like to eat
 the flesh of his dead brother? But you abhor it***.”[^5]
@@ -279,5 +267,4 @@ pg. 132.
 
 [^9]: Shanidanihaa-e-Taareekh, pg. 302; Mahajjah al-Baidhaa, vol. 1, pg.
 289.
-
 

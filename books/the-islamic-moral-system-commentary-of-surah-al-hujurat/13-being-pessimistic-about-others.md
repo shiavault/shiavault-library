@@ -3,15 +3,11 @@ Being Pessimistic About Others
 
 ( Verse 12 )
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيـراً مِّنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلاٌ تَجَسَّسُوا وَلاٌ يَغْتَبْ
-بَّعْضُكُم بَعْضاً أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
-مَيْتاً فَكَرِهْتُمُوهُ وَاتَّقُوا اللٌّهَ إِنَّ اللٌّهَ تَوٌّابٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيـراً مِّنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلاٌ تَجَسَّسُوا وَلاٌ يَغْتَبْ
+> بَّعْضُكُم بَعْضاً أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
+> مَيْتاً فَكَرِهْتُمُوهُ وَاتَّقُوا اللٌّهَ إِنَّ اللٌّهَ تَوٌّابٌ
+> رَّحِيمٌ
 
 ***“O’ you who have true faith! Keep away from all sorts of conjecture
 since surely some types of conjecture may lead to sin. In addition, do
@@ -82,12 +78,8 @@ security of a Muslim in relation to the four traits mentioned above, the
 Noble Prophet (blessings of Allah be upon him and his progeny) has
 stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ حَرَّمَ عَلى الْمُسْلِمِ دَمَهُ وَ مٌالَهُ وَ عِرْضَهُ
-وَ أَنْ يَظُنَّ بِهِ سُوءَ الظَّنِ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ حَرَّمَ عَلى الْمُسْلِمِ دَمَهُ وَ مٌالَهُ وَ عِرْضَهُ
+> وَ أَنْ يَظُنَّ بِهِ سُوءَ الظَّنِ
 
 *“Certainly Allah has made sacred the blood, property and respect of a
 Muslim (from another Muslim) and he must not even entertain bad thoughts
@@ -130,12 +122,8 @@ is not built upon faithfulness (to one another). Thus, such people will
 be compelled to cut off relations with those around them and it is for
 this reason that the A’immah (peace be upon them all) have told us:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ غَلَبَ عَلَيْهِ سُوءُ الظَّنِّ لَمْ يَتْرُكْ بَيْنَهُ وَ بَيْنَ
-خَلِيلٍ صُلْحاً
-  </p>
-</blockquote>
+> مَنْ غَلَبَ عَلَيْهِ سُوءُ الظَّنِّ لَمْ يَتْرُكْ بَيْنَهُ وَ بَيْنَ
+> خَلِيلٍ صُلْحاً
 
 *“The person whose pessimism about others takes control over him will
 destroy any sort of peace or harmony that exists between himself and his
@@ -147,11 +135,7 @@ apprehension that he has for other people, he will never be able to be
 sociable with others and it is for this reason that we have been told in
 the ahadith:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَحْسُنْ ظَنُّهُ إِسْتَوْحَشَ مِنْ كُلِّ أَحَدٍ
-  </p>
-</blockquote>
+> مَنْ لَمْ يَحْسُنْ ظَنُّهُ إِسْتَوْحَشَ مِنْ كُلِّ أَحَدٍ
 
 *“A person who does not correct his thoughts about other people, will
 always be frightened of every single person.”*[^3]
@@ -196,12 +180,8 @@ towards impurity and people who usually perform good deeds are tempted
 and encouraged to do bad deeds, just as Amir al-Mu’minin \`Ali ibn Abi
 Talib (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِيٌّاكَ وَالتَّغٌايُرَ فِي غَيْرِ مَوْضِعِهِ فَإِنَّ ذٌلِكَ يَدْعُوا
-الصَّحِيحَةِ إِلـى السُّقْمِ وَ الْبَرِيئَةِ إِلـى الْرَيْبِ.
-  </p>
-</blockquote>
+> إِيٌّاكَ وَالتَّغٌايُرَ فِي غَيْرِ مَوْضِعِهِ فَإِنَّ ذٌلِكَ يَدْعُوا
+> الصَّحِيحَةِ إِلـى السُّقْمِ وَ الْبَرِيئَةِ إِلـى الْرَيْبِ.
 
 *“I warn you about being overzealous and obsessive in improper occasions
 since unquestionably this act will tempt and encourage chaste women to
@@ -215,5 +195,4 @@ who do not commit sin towards committing wicked deeds.”*[^4]
 [^3]: Ibid.
 
 [^4]: Ibid., Page 152.
-
 

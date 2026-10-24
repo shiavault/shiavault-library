@@ -1,19 +1,11 @@
 Rules related To covering
 =========================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرّحمن الرّحيم
-  </p>
-</blockquote>
+> بسم الله الرّحمن الرّحيم
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاساً يُوَارِي
-سَوْئَاتِكُمْ وَرِيشاً وَلِبَاسُ التَّقْوَى ذَلِكَ خَيْرٌ ذَلِكَ مِنْ
-آيَاتِ اللّهِ لَعَلَّهُمْ يَذَّكَّرُونَ .
-  </p>
-</blockquote>
+> يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاساً يُوَارِي
+> سَوْئَاتِكُمْ وَرِيشاً وَلِبَاسُ التَّقْوَى ذَلِكَ خَيْرٌ ذَلِكَ مِنْ
+> آيَاتِ اللّهِ لَعَلَّهُمْ يَذَّكَّرُونَ .
 
 ***“O children of Adam! We have indeed sent down to you clothing to
 cover your shame, and (clothing) for beauty and clothing that guards
@@ -1175,5 +1167,4 @@ that which is natural. (Translator)
 here as Notorious Clothing for lack of a better term in English. Please
 refer to the list of definitions at the end of this book for a detailed
 explanation.
-
 

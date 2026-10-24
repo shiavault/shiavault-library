@@ -4,14 +4,10 @@ Section 4: The Christians were invited to the Spiritual Contest - Promise of Res
 Surah 'Ali-Imran, Verse 55
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ اللّهُ يَا عِيسَى إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ
-وَمُطَهِّرُكَ مِنَ الَّذِينَ كَفَرُواْ وَجَاعِلُ الَّذِينَ اتَّبَعُوكَ
-فَوْقَ الَّذِينَ كَفَرُواْ إِلَى يَوْمِ الْقِيَامَةِ ثُمَّ إِلَيَّ
-مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ اللّهُ يَا عِيسَى إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ
+> وَمُطَهِّرُكَ مِنَ الَّذِينَ كَفَرُواْ وَجَاعِلُ الَّذِينَ اتَّبَعُوكَ
+> فَوْقَ الَّذِينَ كَفَرُواْ إِلَى يَوْمِ الْقِيَامَةِ ثُمَّ إِلَيَّ
+> مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 
 **55.** ***"(Remember) when Allah said: 'O' Jesus! I will take you and
 raise you up to Myself and purify you of those who disbelieve and place
@@ -56,12 +52,8 @@ people is something that will happen in Hereafter.
 Surah 'Ali-Imran, Verse 56
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ كَفَرُواْ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِي
-الدُّنْيَا وَالآخِرَةِ وَمَا لَهُم مِّن نَّاصِرِينَ
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ كَفَرُواْ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِي
+> الدُّنْيَا وَالآخِرَةِ وَمَا لَهُم مِّن نَّاصِرِينَ
 
 **56.** ***"And as to those who disbelieve, I will chastise them with a
 severe chastisement in this world and the Hereafter, and they will have
@@ -84,12 +76,8 @@ And the chastisement of the Hereafter is the blazing fire of Hell. [^1]
 Surah 'Ali-Imran, Verse 57
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُواْ الصَّالِحَاتِ فَيُوَفِّيهِمْ
-أُجُورَهُمْ وَاللّهُ لاَ يُحِبُّ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُواْ الصَّالِحَاتِ فَيُوَفِّيهِمْ
+> أُجُورَهُمْ وَاللّهُ لاَ يُحِبُّ الظَّالِمِينَ
 
 **57.** ***"And as to those who believe and do righteous works, He will
 pay them their rewards (fully) and Allah does not love the unjust."***
@@ -110,11 +98,7 @@ servants unjustly and will give them their rewards completely.
 Surah 'Ali-Imran, Verse 58
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ نَتْلُوهُ عَلَيْكَ مِنَ الآيَاتِ وَالذِّكْرِ الْحَكِيمِ
-  </p>
-</blockquote>
+> ذَلِكَ نَتْلُوهُ عَلَيْكَ مِنَ الآيَاتِ وَالذِّكْرِ الْحَكِيمِ
 
 **58.** ***"This We recite unto you of the Signs and the Wise
 Reminder."***
@@ -134,12 +118,8 @@ superstitions, and innovations.
 Surah 'Ali-Imran, Verse 59
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَثَلَ عِيسَى عِندَ اللّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِن تُرَابٍ
-ثِمَّ قَالَ لَهُ كُن فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّ مَثَلَ عِيسَى عِندَ اللّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِن تُرَابٍ
+> ثِمَّ قَالَ لَهُ كُن فَيَكُونُ
 
 **59.** ***"The likeness of Jesus, with Allah, is as the likeness of
 Adam. He created him from dust then He said to him' BE! ' and he
@@ -173,11 +153,7 @@ presenting the actual specimen are the best way of invitation.
 Surah 'Ali-Imran, Verse 60
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْحَقُّ مِن رَّبِّكَ فَلاَ تَكُن مِّن الْمُمْتَرِينَ
-  </p>
-</blockquote>
+> الْحَقُّ مِن رَّبِّكَ فَلاَ تَكُن مِّن الْمُمْتَرِينَ
 
 **60.** ***(This about Jesus is) the truth from your Lord, therefore be
 not you of the doubters.***
@@ -208,14 +184,10 @@ you.
 Surah 'Ali-Imran, Verse 61
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
-وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
-عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
+> وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
+> عَلَى الْكَاذِبِينَ
 
 **61.** ***"And whoever dispute with you concerning him, after what has
 come to you of knowledge, say: 'Come! Let us call our sons and your
@@ -353,12 +325,8 @@ with dangers, and continued the path of his movement.
 Surah 'Ali-Imran, Verse 62
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَـذَا لَهُوَ الْقَصَصُ الْحَقُّ وَمَا مِنْ إِلَـهٍ إِلاَّ
-اللّهُ وَإِنَّ اللّهَ لَهُوَ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> إِنَّ هَـذَا لَهُوَ الْقَصَصُ الْحَقُّ وَمَا مِنْ إِلَـهٍ إِلاَّ
+> اللّهُ وَإِنَّ اللّهَ لَهُوَ الْعَزِيزُ الْحَكِيمُ
 
 **62.** ***"Verily this is certainly the true explanation. There is no
 god but Allah; and verily, Allah is Mighty, Wise."***
@@ -390,11 +358,7 @@ Yet! such a One deserves to be worshipped, not other than Him.
 Surah 'Ali-Imran, Verse 63
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِن تَوَلَّوْاْ فَإِنَّ اللّهَ عَلِيمٌ بِالْمُفْسِدِينَ
-  </p>
-</blockquote>
+> فَإِن تَوَلَّوْاْ فَإِنَّ اللّهَ عَلِيمٌ بِالْمُفْسِدِينَ
 
 **63.** ***"But if they turn back, then, verily Allah is All-Knowing of
 the mischief makers."***
@@ -408,14 +372,10 @@ mischief makers."***
 Surah 'Ali-Imran, Verse 64
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
-وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
-وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ فَإِن
-تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
+> وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
+> وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِّن دُونِ اللّهِ فَإِن
+> تَوَلَّوْاْ فَقُولُواْ اشْهَدُواْ بِأَنَّا مُسْلِمُونَ
 
 **64.** ***"Say: ' O' People of the Book! come to a ward common between
 us and you, that we worship none but Allah, and that we associate not
@@ -473,5 +433,4 @@ mentioned who all said this verse is on the greatness of the holy
 Prophet (S) and his Ahlul-Bayt (as)
 
 [^4]: Surah Nahl. No.16, verse 120
-
 

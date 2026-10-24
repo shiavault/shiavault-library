@@ -114,4 +114,3 @@ said: The Messenger of Allah (S) said:
 “Islam certainly began strange and very soon it will revert to being
 strange as it started. Thus blessed be the strange ones.”
 
-

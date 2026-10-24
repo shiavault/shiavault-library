@@ -66,4 +66,3 @@ to history?
 
 7- Is allocating Khums for Sadat (pl. of Sayyid) Discrimination?
 
-

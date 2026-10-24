@@ -769,4 +769,3 @@ al-’Islam.
 
 [^21]: Al-Aawzah journal, issue No. 29 “1408 H.
 
-

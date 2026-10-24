@@ -55,7 +55,6 @@ life."
 
 [Ayatullah Sayyid Kamal Faghih (1998)(Khisal by Saduq,vol 1 pg 88]
 
-
 **Conclusion**
 
 And Allah Say in the Qu'oran:
@@ -84,5 +83,4 @@ They will say: We tarried but a day or part of a day. Ask of those who
 keep count! He will say: Ye tarried but a little if ye only knew"
 
 [23; 111-114]
-
 

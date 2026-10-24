@@ -64,4 +64,3 @@ there, must sacrifice a sheep by way of kaffarah.
 eve of the thirteenth for some business, does not need to spend the
 night there.
 
-

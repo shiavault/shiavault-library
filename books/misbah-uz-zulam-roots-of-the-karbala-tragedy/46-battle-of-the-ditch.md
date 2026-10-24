@@ -99,4 +99,3 @@ upon their old tune.
 
 [^4]: Ref. Maarijun Nubuwwah, Pg. 58; Rauzatus Safa, Vol. 2, Pg. 101.
 
-

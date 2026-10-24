@@ -652,4 +652,3 @@ the School of Illumination by Mehdi Amin Razavi, 1997, especially p.680.
 
 [^20]: For example, see al‑Hilli, 1982, p. 374.
 
-

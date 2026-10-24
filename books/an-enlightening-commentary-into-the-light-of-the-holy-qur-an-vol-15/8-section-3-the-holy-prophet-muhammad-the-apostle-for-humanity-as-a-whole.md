@@ -4,13 +4,9 @@ Section 3: The Holy Prophet Muhammad, the Apostle For Humanity as a Whole
 Surah As-Saba- Verse 22
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ ادْعُوا الَّذِينَ زَعَمْتُم مِن دُونِ اللَّهِ لاَ يَمْلِكُونَ
-مِثْقَالَ ذَرَّةٍ فِي السَّمَاوَاتِ وَلاَ فِي الأَرْضِ وَمَا لَهُمْ
-فِيهِمَا مِن شِرْكٍ وَمَا لَهُ مِنْهُم مِن ظَهِيرٍ
-  </p>
-</blockquote>
+> قُلِ ادْعُوا الَّذِينَ زَعَمْتُم مِن دُونِ اللَّهِ لاَ يَمْلِكُونَ
+> مِثْقَالَ ذَرَّةٍ فِي السَّمَاوَاتِ وَلاَ فِي الأَرْضِ وَمَا لَهُمْ
+> فِيهِمَا مِن شِرْكٍ وَمَا لَهُ مِنْهُم مِن ظَهِيرٍ
 
 ***22. “Say: ‘Call upon those whom you have asserted apart from Allah;
 they own not the weight of an atom in the heavens nor in the earth, nor
@@ -76,13 +72,9 @@ kind of difficulty can they remove from themselves than from you?
 Surah As-Saba- Verse 23
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنفَعُ الشَّفَاعَةُ عِندَهُ اِلاَّ لِمَنْ أَذِنَ لَهُ حَتَّي
-إِذَا فُزّ‌ِعَ عَن قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ قَالُوا
-الْحَقَّ وَهُوَ الْعَلِيُّ الْكَبِيرُ
-  </p>
-</blockquote>
+> وَلاَ تَنفَعُ الشَّفَاعَةُ عِندَهُ اِلاَّ لِمَنْ أَذِنَ لَهُ حَتَّي
+> إِذَا فُزّ‌ِعَ عَن قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ قَالُوا
+> الْحَقَّ وَهُوَ الْعَلِيُّ الْكَبِيرُ
 
 ***23. “And intercession will not avail with Him except for him to whom
 He gives leave; till, when terror is lifted from their hearts, they will
@@ -178,12 +170,8 @@ never been considered at all.
 Surah As-Saba- Verse 24
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن يَرْزُقُكُم مِنَ السَّمَاوَاتِ وَالأَرْضِ قُلِ اللَّهُ
-وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَي هُدًي أَوْ فِي ضَلاَلٍ مُبِينٍ
-  </p>
-</blockquote>
+> قُلْ مَن يَرْزُقُكُم مِنَ السَّمَاوَاتِ وَالأَرْضِ قُلِ اللَّهُ
+> وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَي هُدًي أَوْ فِي ضَلاَلٍ مُبِينٍ
 
 ***24. “Say: ‘Who gives you sustenance from the heavens and the earth?’
 Say: ‘Allah’. And verily we or you are upon right guidance, or in
@@ -279,19 +267,11 @@ this qualification is seen for both of them.[^2]
 Surah As-Saba- Verses 25-26
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لاَ تُسْأَلُونَ عَمَّآ أَجْرَمْنَا وَلاَ نُسْأَلُ عَمَّا
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> قُل لاَ تُسْأَلُونَ عَمَّآ أَجْرَمْنَا وَلاَ نُسْأَلُ عَمَّا
+> تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقّ‌ِ
-وَهُوَ الْفَتَّاحُ الْعَلِيمُ
-  </p>
-</blockquote>
+> قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقّ‌ِ
+> وَهُوَ الْفَتَّاحُ الْعَلِيمُ
 
 ***25. “Say: ‘You will not be questioned as to what we are guilty of,
 nor shall we be questioned as to what you do’.”***  
@@ -380,12 +360,8 @@ closed doors is with Him, His Power.
 Surah As-Saba- Verse 27
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُم بِهِ شُرَكَآءَ كَلاَّ بَلْ هُوَ
-اللَّهُ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُم بِهِ شُرَكَآءَ كَلاَّ بَلْ هُوَ
+> اللَّهُ الْعَزِيزُ الْحَكِيمُ
 
 ***27. “Say: ‘Show me those you have joined to Him as associates! By no
 means (can you do it). Nay! He is Allah, the Mighty, the Wise’.”***
@@ -438,12 +414,8 @@ the infinite being is always One.
 Surah As-Saba- Verse 28
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَاكَ اِلاَّ كَآفَّةً لّـِلنَّاسِ بَشِيراً وَنَذِيراً
-وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَاكَ اِلاَّ كَآفَّةً لّـِلنَّاسِ بَشِيراً وَنَذِيراً
+> وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
 
 ***28. “And We have not sent you but unto the whole of mankind, a Bearer
 of glad tidings and a Warner, but most of the people do not know
@@ -519,18 +491,10 @@ my Ummah in Hereafter.”*[^3]
 Surah As-Saba- Verses 29-30
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ اِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ اِن كُنتُمْ صَادِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-قُل لَكُم مِيعَادُ يَوْمٍ لاَ تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلاَ
-تَسْتَقْدِمُونَ
-  </p>
-</blockquote>
+> قُل لَكُم مِيعَادُ يَوْمٍ لاَ تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلاَ
+> تَسْتَقْدِمُونَ
 
 ***29. “And they say: ‘When will this promise be (fulfilled) if you are
 truthful’?”***  
@@ -649,5 +613,4 @@ Surah An-Naml, verse 79
 
 [^3]: Majma‘-ul-Bayan, under the verse; and in Durr-ul-Manthur it has
 been narrated from Ibn-i-‘Abbas.
-
 

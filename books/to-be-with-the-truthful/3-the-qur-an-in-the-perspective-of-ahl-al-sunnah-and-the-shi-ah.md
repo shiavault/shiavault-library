@@ -151,4 +151,3 @@ also by al-Nasā’i and al-’Imām Ahmad.
 149, on the authority of Ibn ‘Abbās, and said: this hadith is of
 authentic chain of narrators.
 
-

@@ -224,4 +224,3 @@ of the hereafter will Insha-Allah be provided and documented in a book I
 hope my Maker will enable me to write; your prayers, dear reader, are
 sincerely solicited.
 
-

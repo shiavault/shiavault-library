@@ -540,4 +540,3 @@ Paradise'."
 transgression and diversion is something unnatural and undesirable which
 should be resisted by human beings
 
-

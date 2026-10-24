@@ -586,4 +586,3 @@ within a broader critical consideration, these methods could contribute
 substantially to a sharpening of these insights, and a consolidation of
 their significance for the future of philosophical inquiry.
 
-

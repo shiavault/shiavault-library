@@ -603,4 +603,3 @@ morning, they will possess good repute in the eyes of the their Lord,
 and He will grant them whatever they will request.” (*Nahj al-Balagha,*
 ed. \`Abduh, Vol. IV, p.2)
 
-

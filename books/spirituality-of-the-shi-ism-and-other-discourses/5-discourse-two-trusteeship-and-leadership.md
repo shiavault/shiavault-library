@@ -135,13 +135,9 @@ and leadership—which is an innate or fitrī issue. By ratifying it, Islam
 has signed and put into circulation an innate human principle. God, the
 Almighty, has stated in His divine Book:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
 
 ***“So set thy face to the pure religion of Allah; this is the fitrah
 (nature) upon which Allah has created humankind. The creation of Allah
@@ -182,20 +178,12 @@ their existential needs and transform their flaws into perfections.
 The best verification of this issue may be found as a general statement
 in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“He said: Our Lord is He who gave to each thing its creation and then
 guided it.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي خَلَقَ فَسَوَّى \* وَالَّذِي قَدَّرَ فَهَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي خَلَقَ فَسَوَّى \* وَالَّذِي قَدَّرَ فَهَدَى ﴾
 
 ***“He who has created then given order; and who has determined then
 guided.”***[^3]
@@ -213,12 +201,8 @@ aforementioned genetic guidance and apprehension manifests in the form
 of knowledge and thoughts. This has been stated in the following holy
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَنَفْسٍ وَمَا سَوَّاهَا \* فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا \*
-قَدْ أَفْلَحَ مَن زَكَّاهَا \* وَقَدْ خَابَ مَن دَسَّاهَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَنَفْسٍ وَمَا سَوَّاهَا \* فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا \*
+> قَدْ أَفْلَحَ مَن زَكَّاهَا \* وَقَدْ خَابَ مَن دَسَّاهَا ﴾
 
 ***“By the soul and He who (created it and) gave it order; then,
 inspired it (with consciousness of) wrong and right. Truly saved are
@@ -248,12 +232,8 @@ vileness and adversity and thus afflict humankind with wrong even though
 it knows the correct path by its God-given nature. In another verse,
 Allah declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
-عَلَى عِلْمٍ... ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ
+> عَلَى عِلْمٍ... ﴾
 
 ***“Did you see the person who took his (or her) desire as his god and
 Allah led him astray in knowledge (that he was not worthy of
@@ -264,11 +244,7 @@ righteousness in their lifestyle not passions and desires. They must
 accept the judgment of sound reason not the verdict of carnal impulses
 and sentiments:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ الضَّلاَلُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ الضَّلاَلُ... ﴾
 
 ***“…So what is there after truth save error?”***[^6]
 
@@ -318,14 +294,10 @@ government among Muslims.
 
 Another attestation to this fact is the following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
-أَفَإِن مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ وَمَنْ
-يَنقَلِبْ عَلَىَ عَقِبَيْهِ فَلَنْ يَضُرَّ اللّهَ شَيْئًا وَسَيَجْزِي
-اللّهُ الشَّاكِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
+> أَفَإِن مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ وَمَنْ
+> يَنقَلِبْ عَلَىَ عَقِبَيْهِ فَلَنْ يَضُرَّ اللّهَ شَيْئًا وَسَيَجْزِي
+> اللّهُ الشَّاكِرِينَ ﴾
 
 ***“And Muhammad is naught but a messenger. Messengers have passed away
 before him. If he dies or is slain will you turn on your heels? And
@@ -448,11 +420,7 @@ been inspired upon the Holy Prophet (S) as an irrevocable fitrī religion
 that must be carried out for all time—as indicated in the preceding
 sūrat (Sūrat al-Rūm 30:30) and also in the Tradition [sunnah] :
 
-<blockquote dir="rtl">
-  <p>
-«حلال محمد حلال إلی يوم القيامة وحرام محمد حرام إلی يوم القيامة.»
-  </p>
-</blockquote>
+> «حلال محمد حلال إلی يوم القيامة وحرام محمد حرام إلی يوم القيامة.»
 
 The halāl (permissible) of Muhammad is halāl unto the Day of
 Resurrection and the harām (forbidden) of Muhammad is harām unto the Day
@@ -538,52 +506,32 @@ for humanity’s happiness and forbids conforming to any other standard,
 even though it may not comply with the lusts and desires of the majority
 or entirety of the people. Consider the following Qur’anic verses:
 
-<blockquote dir="rtl">
-  <p>
-‌‌﴿ فَذَلِكُمُ اللّهُ رَبُّكُمُ الْحَقُّ فَمَاذَا بَعْدَ الْحَقِّ
-إِلاَّ الضَّلاَلُ فَأَنَّى تُصْرَفُونَ ﴾
-  </p>
-</blockquote>
+> ‌‌﴿ فَذَلِكُمُ اللّهُ رَبُّكُمُ الْحَقُّ فَمَاذَا بَعْدَ الْحَقِّ
+> إِلاَّ الضَّلاَلُ فَأَنَّى تُصْرَفُونَ ﴾
 
 ***“Such is Allah, your true Lord; so what is there after truth save
 error? Why then do you turn away?”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّنْ لا
-يَهِدِّيَ إِلاَّ أَنْ يُهْدَى... ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّنْ لا
+> يَهِدِّيَ إِلاَّ أَنْ يُهْدَى... ﴾
 
 ***“Is then He who guides toward the truth worthier to be followed or
 those who cannot find the way unless guided?”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ... ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ... ﴾
 
 ***“He it is who sent His messenger with guidance and the religion of
 truth…”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ جِئْنَاكُمْ بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ
-كَارِهُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ جِئْنَاكُمْ بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ
+> كَارِهُونَ ﴾
 
 ***“Verily We have brought you the truth; however, most of you are
 adverse to the truth.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... إِنَّ الإِنسَانَ لَفِي خُسْرٍ \* إِلاَّ الَّذِينَ آمَنُوا
-وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا
-بِالصَّبْرِ ﴾
-  </p>
-</blockquote>
+> ﴿ ... إِنَّ الإِنسَانَ لَفِي خُسْرٍ \* إِلاَّ الَّذِينَ آمَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا
+> بِالصَّبْرِ ﴾
 
 ***“Surely humankind is in a state of loss; save those who believe and
 perform righteous deeds and counsel (each other) unto the truth and
@@ -775,12 +723,8 @@ countries) is that humanity develop on the path of truth, both
 materially and spiritually, and that the logic of truth take the place
 of all other types of logic. And this is the method of Islam:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... إِنَّ الأَرْضَ لِلّهِ يُورِثُهَا مَنْ يَشَاءُ مِنْ عِبَادِهِ
-وَالْعَاقِبَةُ لِلْمُتَّقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... إِنَّ الأَرْضَ لِلّهِ يُورِثُهَا مَنْ يَشَاءُ مِنْ عِبَادِهِ
+> وَالْعَاقِبَةُ لِلْمُتَّقِينَ ﴾
 
 ***“Verily, the earth belongs to God; He bequeaths it to whom He wills
 among His servants. And the (good) end belongs to the
@@ -841,43 +785,27 @@ blind eye to the issue of leadership—which is the soul that keeps the
 society alive? Many verses in the Holy Qur’an verify this issue some of
 which are as follows:
 
-<blockquote dir="rtl">
-  <p>
-﴿ النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ... ﴾
 
 ***“The Prophet is more worthy of the believers than they themselves
 are…”***[^15]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ ﴾
 
 ***“Verily your sovereigns are Allah and His Prophet and those who
 uphold ritual prayer and give alms while bowing down (in
 prayer).”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ... ﴾
 
 ***“O you who believe! Obey Allah and obey the Prophet and those among
 you with authority…”***[^17]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ... ﴾
 
 ***“And some men and women of the believers are supervisors and
 sovereigns of the others; they enjoin to good and forbid from
@@ -993,22 +921,14 @@ it is carried out. God, the Almighty, has endorsed the Prophet’s (S)
 methods in many Qur’anic verses and has not given Muslims leave to
 deviate from them.
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ... ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ... ﴾
 
 ***“Surely you have in the Prophet of Allah a fine example…”***[^19]
 
 There are many traditions from the Ahl al-Bayt in this regard. A
 reliable hadīth from the Prophet (S) states that:
 
-<blockquote dir="rtl">
-  <p>
-«من رغب عن سنتي فليس منّي.»
-  </p>
-</blockquote>
+> «من رغب عن سنتي فليس منّي.»
 
 “Those who deviate from my Tradition are not part of me (my nation).”
 
@@ -1023,14 +943,10 @@ preserved, everyone is equal and there is no discrimination. We must
 only unquestionably bow down before the magnificence of God. Consider
 the following Qur’anic verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلَمَةٍ سَوَاء
-بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
-بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِنْ دُونِ
-اللّهِ فَإِن تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلَمَةٍ سَوَاء
+> بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
+> بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِنْ دُونِ
+> اللّهِ فَإِن تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ ﴾
 
 ***“O People of the Scripture! Come now to a word common among us and
 among you; that we not worship any save Allah and not associate aught
@@ -1038,13 +954,9 @@ with him and that none of us take others as lords beside Allah. And if
 they turn away, say: Bear witness that surely we are Muslims (those who
 surrender to God’s will).”***[^20]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِنْ ذَكَرٍ وَأُنثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِنْ ذَكَرٍ وَأُنثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ﴾
 
 ***“O people! Verily, we have created you from a man and a woman and
 have made you into various races and tribes so that you may know one
@@ -1054,12 +966,8 @@ God-fearing. Indeed Allah is All-knowing, All-aware.”***[^21]
 Second, everyone is completely equal before the law and not even the
 least bit of exception is made. Note the following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَيْسَ بِأَمَانِيِّكُمْ وَلا أَمَانِيِّ أَهْلِ الْكِتَابِ مَن
-يَعْمَلْ سُوءًا يُجْزَ بِهِ ... ﴾
-  </p>
-</blockquote>
+> ﴿ لَيْسَ بِأَمَانِيِّكُمْ وَلا أَمَانِيِّ أَهْلِ الْكِتَابِ مَن
+> يَعْمَلْ سُوءًا يُجْزَ بِهِ ... ﴾
 
 ***“(Honor before Allah) neither abides by your desires nor the desires
 of the People of the Scripture; whosoever does evil will be requited
@@ -1068,12 +976,8 @@ accordingly.”***[^22]
 Third, decrees issued by the leader are issued by council and in the
 interests of Islam and Muslims.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى
-اللّهِ إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى
+> اللّهِ إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ ﴾
 
 ***“And consult with them in current affairs. After you make your
 decision put your trust in Allah. Verily, Allah loves those who put
@@ -1138,5 +1042,4 @@ in ritual prayer. [trans.]
 [^23]: Sūrat Āl ‘Imrān 3:159.
 
 [^24]: Extracted from “Marja‘iyyah wa Rawhāniyyah”.
-
 

@@ -13,4 +13,3 @@ is present is association (shirk), and to what is not there is disbelief
 claims to be a slave to Allah and then contends with Him over His
 decrees. Content gnostics ('arifin) are far from being like that.'
 
-

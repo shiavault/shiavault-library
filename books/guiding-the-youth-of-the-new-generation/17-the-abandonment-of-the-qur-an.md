@@ -34,11 +34,7 @@ this is the same complaint that the Qurʾan itself will proclaim!
  We are all included in the protests and objections of the Messenger of
 Allah (S) when he complains to Allah (s.w.t.):
 
-<blockquote dir="rtl">
-  <p>
-) يٌا رَبِّ إِنَّ قَوْمِي  اتَّخَذُوا هٌذَا  الْقُرٌآنَ مَهْجُوراً (
-  </p>
-</blockquote>
+> ) يٌا رَبِّ إِنَّ قَوْمِي  اتَّخَذُوا هٌذَا  الْقُرٌآنَ مَهْجُوراً (
 
 *“O’ my Lord!  Surely MY nation took this Qur*ʾ*an as something
 trivial.”*[^2]
@@ -83,11 +79,7 @@ this way to earn the wrath and curse of the Prophet (S) and the Qurʾan.
 
 In relation to the Qurʾan, the Noble Messenger (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ شٌافِعٌ مُشَفَّعٌ وَ مٌاحِلُ مُصَدَّقٌ
-  </p>
-</blockquote>
+> إِنَّهُ شٌافِعٌ مُشَفَّعٌ وَ مٌاحِلُ مُصَدَّقٌ
 
 By this we mean that in the presence of Allah (s.w.t.), the Qurʾan is an
 intercessor and its intercession will be accepted and in relation to
@@ -132,11 +124,7 @@ person is excusable and his knowledge is limited.”[^7]
   
 
 > 3) قال الإمام عليّ عليه السّلام: شيئان لا يعرف فضلهما إلاّ من فقدهما:
-<blockquote dir="rtl">
-  <p>
-ألشّباب والعافية.
-  </p>
-</blockquote>
+> ألشّباب والعافية.
 
 3. Imam ʿAli ibn Abi Talib  (a.s.) has said: “There are two things which
 people do not recognize the greatness of until they lose them: their
@@ -144,11 +132,7 @@ youth and good health.”[^8]
   
 
 > 4) قال رسول اللّه صلى اللّه عليه وآله و سلّم: خير شبابكم من تشبّه
-<blockquote dir="rtl">
-  <p>
-بكهولكم وشرّ كهولكم من تشّبه بشبابكم.
-  </p>
-</blockquote>
+> بكهولكم وشرّ كهولكم من تشّبه بشبابكم.
 
 4. The Messenger of Allah (S) has said: “The best of your youth are
 those who resemble your old people[^9] and the worst of your old people
@@ -156,12 +140,8 @@ are those who resemble your young people.”[^10]
   
 
 > 5) قال الإمام الصادق عليه السّلام: وصيّة ورقة بن نوفل لخديجة بنت خوليد
-<blockquote dir="rtl">
-  <p>
-إذا دخل عليها يقول لـها: إعلمي أن الشّاب الحسن الخلق مفتاح للخير مغلاق
-للشرّ، وأن الشّاب الشحيح الخلق مغلاق للخير مفتاح للشرّ.
-  </p>
-</blockquote>
+> إذا دخل عليها يقول لـها: إعلمي أن الشّاب الحسن الخلق مفتاح للخير مغلاق
+> للشرّ، وأن الشّاب الشحيح الخلق مغلاق للخير مفتاح للشرّ.
 
 5. Imam Jaʿfar ibn Muhammad as-Sadiq (a.s.) has said: “Any time Waraqah
 ibn Nawfil would go to see Khadijah binte Khuwaylid, he would advise her
@@ -172,11 +152,7 @@ goodness and is the key to all evil.”[^11]
   
 
 > 6) قال الإمام عليّ عليه السّلام: إعلموا رحمكم اللّه أنّكم في زمان
-<blockquote dir="rtl">
-  <p>
-القائل فيه الحق قليل....فتاهم عارم، وشائبهم آثم، وعالـمهم منافق.
-  </p>
-</blockquote>
+> القائل فيه الحق قليل....فتاهم عارم، وشائبهم آثم، وعالـمهم منافق.
 
 6. Imam ʿAli ibn Abi Talib  (a.s.) has said: “You should know that, may
 Allah have mercy upon you, surely you are living in a time in which
@@ -191,11 +167,7 @@ Training Of The Youth
  
 
 > 7) قال الإمام عليّ عليه السّلام: إنّما قلب الحدث كالأرض الخالية، ما
-<blockquote dir="rtl">
-  <p>
-القي فيها من شيء إلاّ قبلته.
-  </p>
-</blockquote>
+> القي فيها من شيء إلاّ قبلته.
 
 7. Imam ʿAli ibn Abi Talib  (a.s.) has said: “Surely the heart of the
 youth is like the uncultivated ground – it will accept whatever you
@@ -203,13 +175,9 @@ throw upon it [and that is what will grow from it].”[^13]37
   
 
 > 8) قال الإمام الصّادق عليه السّلام: - للأحول -: أتيت البصرة؟ قال: نعم.
-<blockquote dir="rtl">
-  <p>
-قال: كيف رأيت مسارعة النّاس في هذا الأمر ودخولـهم فيه؟ فقال: واللّه
-إنـهم لقليل، وقد فعلوا وإن ذالك لقليل. فقال (عليه السّلام): عليك
-بالأحداث؛ فإنـهم أسرع إلى كلّ خير.
-  </p>
-</blockquote>
+> قال: كيف رأيت مسارعة النّاس في هذا الأمر ودخولـهم فيه؟ فقال: واللّه
+> إنـهم لقليل، وقد فعلوا وإن ذالك لقليل. فقال (عليه السّلام): عليك
+> بالأحداث؛ فإنـهم أسرع إلى كلّ خير.
 
 8. Imam Jaʿfar ibn Muhammad as-Sadiq (a.s.) said to a companion named
 Al-Ahwal: “’Have you been to Basrah?’  The man replied, ‘Yes.’  The Imam
@@ -230,12 +198,8 @@ Seeking Knowledge While A Youth
  
 
 >  9) قال رسول اللّه صلى اللّه عليه وآله و سلَم: من تعلّم في شبابه كان
-<blockquote dir="rtl">
-  <p>
-بـمنـزلة الرسم في الحجر، ومن تعلّم وهو كبير كان بـمنـزلة الكتاب على
-وجه الـماء.
-  </p>
-</blockquote>
+> بـمنـزلة الرسم في الحجر، ومن تعلّم وهو كبير كان بـمنـزلة الكتاب على
+> وجه الـماء.
 
  ا. The Messenger of Allah (S) has said: “The person who seeks knowledge
 while in his youth is similar to the act of inscribing something upon a
@@ -251,11 +215,7 @@ remain].”[^16]
   
 
 > 11) قال رسول اللّه صلى اللّه عليه وآله و سلّم: من لـم يطلب العلم صغيرا
-<blockquote dir="rtl">
-  <p>
-فطلبه كبيرا فمات، مات شهيدا.
-  </p>
-</blockquote>
+> فطلبه كبيرا فمات، مات شهيدا.
 
 11. The Messenger of Allah (S) has said: “If a person who does not seek
 knowledge while he is youth, but rather goes to seek it when he becomes
@@ -263,12 +223,8 @@ old and dies in this state, he dies as a martyr [Shahid].”[^17]
   
 
 > 12) قال النبي أيّوب عليه السّلام: إن اللّه يزرع الحكمة في قلب الصغير
-<blockquote dir="rtl">
-  <p>
-والكبير، فإذا جعل اللّه العبد حكيما في الصبى لـم يضع منـزلته عند
-الحكماء حداثة سنّه وهم يرون عليه من اللّه نور كرامته.
-  </p>
-</blockquote>
+> والكبير، فإذا جعل اللّه العبد حكيما في الصبى لـم يضع منـزلته عند
+> الحكماء حداثة سنّه وهم يرون عليه من اللّه نور كرامته.
 
 12. The Prophet Ayyub (a.s.) has said: “Surely Allah implants wisdom
 [Al-Hikmah] in the heart of the young person and the old person.  So
@@ -287,11 +243,7 @@ The Young Person And Refraining From Seeking Knowledge
  
 
 > 13) قال الإمام الكاظم عليه السّلام: لو وجدت شابّاً من شبّان الشيعة لا
-<blockquote dir="rtl">
-  <p>
-يتفقه لضربته ضربة بالسيف.
-  </p>
-</blockquote>
+> يتفقه لضربته ضربة بالسيف.
 
 13. Imam Musa ibn Jaʿfar al-Kadhim (a.s.) has said: “If I was to find a
 youth from amongst the youth of the Shiʾa not gaining a deep knowledge
@@ -299,11 +251,7 @@ and understanding, I would surely strike him with a sword.”[^19]
   
 
 > 14) قال الإمام الباقر عليه السّلام: لو أُتيت بشاب من شباب الشيعة لا
-<blockquote dir="rtl">
-  <p>
-يتفقه (في الدين) لأدبته.
-  </p>
-</blockquote>
+> يتفقه (في الدين) لأدبته.
 
 14. Imam Muhammad ibn ʿAli al-Baqir (a.s.) has said: “If I were to find
 a youth from amongst the youth of the Shiʾa that was not engaged in
@@ -312,12 +260,8 @@ seriously reprimand him.”[^20]
   
 
 > 15) قال الإمام الصّادق عليه السّلام: لستُ أُحب أن أرى الشاب منكم إلاّ
-<blockquote dir="rtl">
-  <p>
-غاديا في حالين: إمّا عالـما أو متعلما. فإن لـم يفعل فرّط، فإنّ فرّط
-ضيّع, فإنّ ضيّع أثـم، وإنْ أثـم سكن النار والّذي بعث محمّدا بالحق.
-  </p>
-</blockquote>
+> غاديا في حالين: إمّا عالـما أو متعلما. فإن لـم يفعل فرّط، فإنّ فرّط
+> ضيّع, فإنّ ضيّع أثـم، وإنْ أثـم سكن النار والّذي بعث محمّدا بالحق.
 
 15. Imam Jaʿfar ibn Muhammad as-Sadiq (a.s.) has said: “I do not like to
 see the youth from amongst yourselves except that he/she is passing the
@@ -335,23 +279,15 @@ The Greatness Of A Young Person Who Worships [Allah]
  
 
 > 16) قال رسول اللّه صلى اللّه عليه وآله و سلّم: إنّ اللّه تعالى يحب
-<blockquote dir="rtl">
-  <p>
-الشاب التائب.
-  </p>
-</blockquote>
+> الشاب التائب.
 
 16. The Messenger of Allah (S) has said: “Surely Allah, the High, loves
 the young person who is repents [for his sins].”[^22]  
   
 
 > 17) قال رسول اللّه صلى اللّه عليه وآله و سلّم: ما من شيء أحب إلى اللّه
-<blockquote dir="rtl">
-  <p>
-تعالى من شاب تائب، وما من شيء أبغض إلى اللّه تعالى من شيخ مقيم على
-معاصيه.
-  </p>
-</blockquote>
+> تعالى من شاب تائب، وما من شيء أبغض إلى اللّه تعالى من شيخ مقيم على
+> معاصيه.
 
 17. The Messenger of Allah (S) has said: “There is nothing more beloved
 to Allah, the High, than a young person who repents (for his sins); and
@@ -360,11 +296,7 @@ old person who perpetuates in disobeying Him.”[^23]
   
 
 > 18) قال رسول اللّه صلى اللّه عليه وآله و سلّم: إنّ اللّه تعالى يباهي
-<blockquote dir="rtl">
-  <p>
-بالشابّ العابد الـملائكة، يقول: أنظروا إلى عبدي! ترك شهوته من أجلي.
-  </p>
-</blockquote>
+> بالشابّ العابد الـملائكة، يقول: أنظروا إلى عبدي! ترك شهوته من أجلي.
 
 18. The Messenger of Allah (S) has said: “Surely Allah, The High, boasts
 to the Angels in regards to the young person who is a servant (of His)
@@ -373,12 +305,8 @@ his lowly desires for My sake alone.’”[^24]
   
 
 > 19) قال رسول اللّه صلى اللّه عليه وآله و سلّم: فضل الشاب العابد الذي
-<blockquote dir="rtl">
-  <p>
-تعبّد في صباه على الشيخ الذي تعبّد بعد ما كبرت سنّه كفضل الـمرسلين على
-سائر الناس.
-  </p>
-</blockquote>
+> تعبّد في صباه على الشيخ الذي تعبّد بعد ما كبرت سنّه كفضل الـمرسلين على
+> سائر الناس.
 
 19. The Messenger of Allah (S) has said: “The greatness of the
 worshipper of Allah who is a youth and who worships Allah while in the
@@ -388,12 +316,8 @@ Prophets and Messengers] over all other creations.”[^25]
   
 
 > 20) قال رسول اللّه صلى اللّه عليه وآله و سلّم: سبعة في ظلّ عرش اللّه
-<blockquote dir="rtl">
-  <p>
-عزّ وجلّ يوم لا ظلّ إلاّ ظلّه: إمام عادل، وشاب نشأ في عبادة اللّه عزّ
-وجلّ.
-  </p>
-</blockquote>
+> عزّ وجلّ يوم لا ظلّ إلاّ ظلّه: إمام عادل، وشاب نشأ في عبادة اللّه عزّ
+> وجلّ.
 
 20. The Messenger of Allah (S) has said: “There are seven individuals
 who shall be protected under the shade of the Throne [Power] of Allah,
@@ -410,12 +334,8 @@ The Greatness Of The Person Who Spends His Youth In The Obedience To Allah
  
 
 > 21) قال رسول اللّه صلى اللّه عليه وآله و سلّم: ما من شاب يدع للّه
-<blockquote dir="rtl">
-  <p>
-الدنيا ولـهوها وأهرم شبابه في طاعة الله إلاّ أعطاه اللّه أجر إثنين
-وسبعين صدّيقاً.
-  </p>
-</blockquote>
+> الدنيا ولـهوها وأهرم شبابه في طاعة الله إلاّ أعطاه اللّه أجر إثنين
+> وسبعين صدّيقاً.
 
 21. The Messenger of Allah (S) has said: “There is not a single young
 person who turns away from the transient world and its pleasures only
@@ -425,12 +345,8 @@ reward of seventy-two truthful [and righteous] people.”[^27]
   
 
 > 22) قال رسول اللّه صلى اللّه عليه وآله و سلّم: إنّ أحب الخلائق إلى
-<blockquote dir="rtl">
-  <p>
-اللّه عزّ وجلّ شاب حدث السن في صورة حسنة جعل شبابه وجماله للّه وفي
-طاعته، ذلك الذي يباهي به الرحمن ملائكته, يقول: هذا عبدي حقّا.
-  </p>
-</blockquote>
+> اللّه عزّ وجلّ شاب حدث السن في صورة حسنة جعل شبابه وجماله للّه وفي
+> طاعته، ذلك الذي يباهي به الرحمن ملائكته, يقول: هذا عبدي حقّا.
 
 22. The Messenger of Allah (S) has said: “Surely the most beloved of the
 creations to Allah, the Noble and Grand, is the youth who is young in
@@ -442,11 +358,7 @@ about and says, ‘This is truly my servant.’”[^28]
   
 
 > 23) قال رسول اللّه صلى اللّه عليه وآله و سلّم: إنّ اللّه يحب الشاب
-<blockquote dir="rtl">
-  <p>
-الذي يفني شبابه في طاعة اللّه تعالى.
-  </p>
-</blockquote>
+> الذي يفني شبابه في طاعة اللّه تعالى.
 
 23. The Messenger of Allah (S) has said: “Surely Allah loves that young
 person who spends his youth in the obedience of Allah, the Most
@@ -454,12 +366,8 @@ High.”[^29]
   
 
 > 24) قال النبي إبراهيم عليه السلام: لمـا أصبح فرأى في لحيته شيبا - شعرة
-<blockquote dir="rtl">
-  <p>
-بيضاء - : ألحمد للّه ربّ العالـمين الذي بلغني هذا المبلغ ولـم أعص
-اللّه طرفة عين.
-  </p>
-</blockquote>
+> بيضاء - : ألحمد للّه ربّ العالـمين الذي بلغني هذا المبلغ ولـم أعص
+> اللّه طرفة عين.
 
 24. It has been narrated about Prophet Ibrahim (a.s.) that one day he
 woke up and saw a white hair in his beard and said: “All praise belongs
@@ -474,13 +382,9 @@ The Definition Of A Youth
  
 
 > 25) قال الإمام الصّادق عليه السّلام: لسليمان بن جعفر الـهذلي - : يا
-<blockquote dir="rtl">
-  <p>
-سليمان من الفتى؟ قال: قلت: جعلت فداك الفتى عندنا الشابّ, قال (عليه
-السّلام) لي: أما علمت أن أصحاب الكهف كانوا كلهم كهولا فسماهم اللّه
-فتية بإيـمانـهم؟! يا سليمان من آمن باللّه وأتّقى فهو الفتى.
-  </p>
-</blockquote>
+> سليمان من الفتى؟ قال: قلت: جعلت فداك الفتى عندنا الشابّ, قال (عليه
+> السّلام) لي: أما علمت أن أصحاب الكهف كانوا كلهم كهولا فسماهم اللّه
+> فتية بإيـمانـهم؟! يا سليمان من آمن باللّه وأتّقى فهو الفتى.
 
 25. Imam Jaʿfar ibn Muhammad as-Sadiq (a.s.) said the following to
 Sulayman ibn Jaʿfar Al-Hadhali: “O’ Sulayman, what is meant by a young
@@ -493,12 +397,8 @@ and has consciousness of Him is a young person.”[^31]
   
 
 > 26) قال الإمام الصّادق عليه السّلام: - لرجل – ما الفتى عندكم؟ فقال له:
-<blockquote dir="rtl">
-  <p>
-الشابّ, فقال: لا. الفتى: المؤمن، إنّ أصحاب الكهف كانوا شيوخا فسماهم
-اللّه عزّ وجلّ فتية بإيـمانـهم.
-  </p>
-</blockquote>
+> الشابّ, فقال: لا. الفتى: المؤمن، إنّ أصحاب الكهف كانوا شيوخا فسماهم
+> اللّه عزّ وجلّ فتية بإيـمانـهم.
 
 26. Imam Jaʿfar ibn Muhammad as-Sadiq (a.s.) said to a man: “What is
 meant by a young person [Al-Fata] in your estimation?”  The man replied,
@@ -509,18 +409,10 @@ called them youth who believed in Him.”[^32]
     
   
 
-<blockquote dir="rtl">
-  <p>
-قال الإمام الحسن ابن علي المجتبـى عليه السلام:
-  </p>
-</blockquote>
+> قال الإمام الحسن ابن علي المجتبـى عليه السلام:
 
-<blockquote dir="rtl">
-  <p>
-إنكم صغار قوم و يوشك أن تكونوا كبار قوم آخرين فتعلموا العلم.  فمن لم
-يستطع منكم أن يحفظه فليكتبه و ليضعه في بيته
-  </p>
-</blockquote>
+> إنكم صغار قوم و يوشك أن تكونوا كبار قوم آخرين فتعلموا العلم.  فمن لم
+> يستطع منكم أن يحفظه فليكتبه و ليضعه في بيته
 
 > ) بــحار الأنوار – ج 2 – ص 152 – ح 37 (
 
@@ -612,5 +504,4 @@ the youth.”
 [^31]: Tafsir al-\`Ayashi, Volume 2, Page 323, Hadith 11
 
 [^32]: Al-Kafi, Volume 8, Page 395 and 595
-
 

@@ -239,4 +239,3 @@ a substitute for *wudhu* and/or *ghusl*
     
 *Zohr, Dhuhr*- noon, the name of the first afternoon prayer
 
-

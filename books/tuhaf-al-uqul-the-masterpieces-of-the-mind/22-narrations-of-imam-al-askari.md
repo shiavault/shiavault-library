@@ -302,4 +302,3 @@ to the topics of the previous so that the advantage will be more common
 and the admonitions will be extended. Allah is the endower of success.
 He is All-sufficient as our Guardian.
 
-

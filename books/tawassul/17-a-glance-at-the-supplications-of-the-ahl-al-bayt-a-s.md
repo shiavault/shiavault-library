@@ -26,4 +26,3 @@ supplication of*tawassul* , which all Sunni narrators of hadith
 unanimously regard as sahih (authentic) and relate that the Prophet
 taught it to a blind man who recovered his eyesight by reciting it.[^49]
 
-

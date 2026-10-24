@@ -465,4 +465,3 @@ as per Imam Khomeini its Ihtiyat-e-Wajib not to touch the names of the
 touch the names of the 14 Infallibles* *in the state of janabat* *and
 haidh.*
 
-

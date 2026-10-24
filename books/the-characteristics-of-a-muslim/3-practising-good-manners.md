@@ -63,4 +63,3 @@ same way as germs destroy the human body.
 6. The onus is on all Muslims to ensure good morals which are preserved
 by way of self-education and practising exemplary behaviour.
 
-

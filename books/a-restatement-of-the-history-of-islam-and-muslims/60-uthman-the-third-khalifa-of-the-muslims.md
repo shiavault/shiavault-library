@@ -2321,4 +2321,3 @@ Muslims killed Uthman but they did not do so without any causes or
 reasons.” *(al- Fitna-tul-Kubra {The Great Upheaval}, published in Cairo
 in 1959)*
 
-

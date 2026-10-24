@@ -141,4 +141,3 @@ visitation of yours not be my last contact with you. Salutations upon
 Husayn and upon Ali the son of Husayn (Ali al-Akbar) and upon the
 children of Husayn and upon the virtuous companions of Husayn.”
 
-

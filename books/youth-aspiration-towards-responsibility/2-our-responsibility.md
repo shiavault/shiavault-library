@@ -44,7 +44,6 @@ men and women who guard their chastity, and for men and women who engage
 much in Allah's praise, for them has Allah prepared forgiveness and
 reward) (Holy Qur'an: 33:35).
 
-
 **Qur'anic Examples**
 
 It is possible to see many examples on the Qur'anic screen and many
@@ -128,5 +127,4 @@ youthfulness. They are examples and patterns of conduct for anyone whose
 hope is in Allah and the Final Day…take, as an example, their
 youthfulness…from their gifts to your gifts…if you want to know what
 responsibility is in Islam.
-
 

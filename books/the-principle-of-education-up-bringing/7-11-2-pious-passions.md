@@ -21,7 +21,6 @@ possible means, they should be habituated to help others, so thato the
 journey for goodwill continues, and pious feelings keep flourish in the
 world! It is directed by Allah:-
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 131.Wasail ash-Shia', Vol:4, Page:15.
 132.132.Surah Az'zuria't, Verse:19.
@@ -62,7 +61,6 @@ others, and boast of his grandeur over
 
 others, then all his efforts would be considered in the account of
 Devil."134
-
 
 **11.3. Justice Demanded**
 
@@ -181,7 +179,6 @@ The work which is beyond ones capabilities, if he intentionally tries
 to perform it, his efforts would go in vain and due to spoilage of work,
 would also loose all his expectations."142
 
-
 **11.4. Approach and Style**
 
 After knowing that, it is a demand of the Islamic code of life
@@ -206,7 +203,6 @@ benefits derived, like wages, salary, commission, allowance, bonus, and
 awards etc. All are considered Suhut i.e. as forbidden (ha'ram).
 While mentioning the evil deeds of the Jews, the Holy Quran
 mentions: -
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 142. "Hayat al-Imam Musa bin Jaffer", by Baqar Sharief al-Qarashi,
@@ -252,7 +248,6 @@ in sweat, from head to toe!" While enumerating this, Hazrat said:-
 
 "So that Almighty Allah may know this reality that, "I am desirous of
 legitimate subsistence (ri'zq-e-ha'la-l) "149
-
 
 **11.5. Organization and Method**
 
@@ -334,5 +329,4 @@ devoted for his legitimate and personal entertainments. "152
 152.Furou-e-Kafi, VoI:5, Page:87. Al-Ama'li; Vol:1, Page:145.
 A1-Maha'sin lil Barqi, Page:345. Nahaj-ul-Balagha, Commentary and foot
 notes: Dr. Sabhi Saleh, Page:545
-
 

@@ -98,7 +98,6 @@ The third level, too, has two degrees: conceit about the good deeds.
 Contrasting the second degree is conceit about ugly deeds and
 wrongdoings.
 
-
 **LEVELS OF CONCEIT
 CONSEQUENCES OF CONCEIT
 LEVELS OF CONCEIT**
@@ -412,5 +411,4 @@ sinning, that blackness increases till it over-covers the whiteness, and
 the person will never return to anything good." This is the meaning of
 this verse: "By no means! But the stain of the (ill) that they do is on
 their hearts on account of what they used to earn" (Qur'an, 83:14).
-
 

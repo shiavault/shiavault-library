@@ -177,4 +177,3 @@ Allah make our faith, profession of His oneness, and pursuance of the
 Imams (peace be upon them) be fixed, not shaky, in our hearts. He is
 surely All-benevolent and All-generous.
 
-

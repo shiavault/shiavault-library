@@ -245,4 +245,3 @@ was aged forty-one years.[^1]
 Ja’far will be mentioned in the coming pages, if the Almighty Allah
 wills.
 
-

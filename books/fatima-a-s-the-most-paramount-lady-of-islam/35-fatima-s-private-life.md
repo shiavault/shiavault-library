@@ -86,4 +86,3 @@ silver bracelets, the door curtain, etc. And even sOmmetimes, she sold
 sOmme of her furniture to buy sOmme wheat, make it floor, knead it, make
 some bread, and dedicate it to the poor for Allah’s pleasure.
 
-

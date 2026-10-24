@@ -8,11 +8,7 @@ Surah Nazi’at, Chapter 79
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -70,43 +66,19 @@ its words.
 Surah Nazi’at, Verses 1-5
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّازِعَاتِ غَرْقًا
-  </p>
-</blockquote>
+> وَالنَّازِعَاتِ غَرْقًا
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّاشِطَاتِ نَشْطًا
-  </p>
-</blockquote>
+> وَالنَّاشِطَاتِ نَشْطًا
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِحَاتِ سَبْحًا
-  </p>
-</blockquote>
+> وَالسَّابِحَاتِ سَبْحًا
 
-<blockquote dir="rtl">
-  <p>
-فَالسَّابِقَاتِ سَبْقًا
-  </p>
-</blockquote>
+> فَالسَّابِقَاتِ سَبْقًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُدَبِّرَاتِ أَمْرًا
-  </p>
-</blockquote>
+> فَالْمُدَبِّرَاتِ أَمْرًا
 
 ***1. “By those (angels) who tear out (the souls of the wicked) with
 violence;”***  
@@ -227,59 +199,23 @@ most fitting.
 Surah Nazi’at, Verses 6-14
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرْجُفُ الرَّاجِفَةُ
-  </p>
-</blockquote>
+> يَوْمَ تَرْجُفُ الرَّاجِفَةُ
 
-<blockquote dir="rtl">
-  <p>
-تَتْبَعُهَا الرَّادِفَةُ
-  </p>
-</blockquote>
+> تَتْبَعُهَا الرَّادِفَةُ
 
-<blockquote dir="rtl">
-  <p>
-قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
-  </p>
-</blockquote>
+> قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
 
-<blockquote dir="rtl">
-  <p>
-أَبْصَارُهَا خَاشِعَةٌ
-  </p>
-</blockquote>
+> أَبْصَارُهَا خَاشِعَةٌ
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
-  </p>
-</blockquote>
+> يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
 
-<blockquote dir="rtl">
-  <p>
-أَإِذَا كُنَّا عِظَامًا نَخِرَةً
-  </p>
-</blockquote>
+> أَإِذَا كُنَّا عِظَامًا نَخِرَةً
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
-  </p>
-</blockquote>
+> قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ
-  </p>
-</blockquote>
+> فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا هُمْ بِالسَّاهِرَةِ
-  </p>
-</blockquote>
+> فَإِذَا هُمْ بِالسَّاهِرَةِ
 
 ***6. "The Day on which everything that can be in commotion will be in
 violent commotion,”***  
@@ -431,77 +367,29 @@ the eyes.
 Surah Nazi’at, Verses 15-26
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
-  </p>
-</blockquote>
+> هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى
-  </p>
-</blockquote>
+> إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
-  </p>
-</blockquote>
+> اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ هَلْ لَكَ إِلَىٰ أَنْ تَزَكَّىٰ
-  </p>
-</blockquote>
+> فَقُلْ هَلْ لَكَ إِلَىٰ أَنْ تَزَكَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
-  </p>
-</blockquote>
+> وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
-  </p>
-</blockquote>
+> فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبَ وَعَصَىٰ
-  </p>
-</blockquote>
+> فَكَذَّبَ وَعَصَىٰ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَدْبَرَ يَسْعَىٰ
-  </p>
-</blockquote>
+> ثُمَّ أَدْبَرَ يَسْعَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَحَشَرَ فَنَادَىٰ
-  </p>
-</blockquote>
+> فَحَشَرَ فَنَادَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
-  </p>
-</blockquote>
+> فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
-  </p>
-</blockquote>
+> فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِمَنْ يَخْشَىٰ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِمَنْ يَخْشَىٰ
 
 ***15. “Has the story of Moses reached you?"***  
 ***16. “When his Lord called to him in the holy valley of Tuwa:”***  
@@ -769,47 +657,19 @@ lesson to all those who have insight, are illustrated.
 Surah Nazi’at, Verses 27-33
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا
-  </p>
-</blockquote>
+> أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا
 
-<blockquote dir="rtl">
-  <p>
-رَفَعَ سَمْكَهَا فَسَوَّاهَا
-  </p>
-</blockquote>
+> رَفَعَ سَمْكَهَا فَسَوَّاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
-  </p>
-</blockquote>
+> وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
-  </p>
-</blockquote>
+> وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
 
-<blockquote dir="rtl">
-  <p>
-أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
-  </p>
-</blockquote>
+> أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
 
-<blockquote dir="rtl">
-  <p>
-وَالْجِبَالَ أَرْسَاهَا
-  </p>
-</blockquote>
+> وَالْجِبَالَ أَرْسَاهَا
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
-  </p>
-</blockquote>
+> مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
 
 ***27. "Is the creation of you harder or the heaven He built?"***  
 ***28. "He raised its vault and regulated it,”***  
@@ -954,53 +814,21 @@ signs along the path of the existence of unity and knowing Allah.
 Surah Nazi’at, Verses 34-41
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
-  </p>
-</blockquote>
+> فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَىٰ
-  </p>
-</blockquote>
+> يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَىٰ
-  </p>
-</blockquote>
+> وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ طَغَىٰ
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ طَغَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَآثَرَ الْحَيَاةَ الدُّنْيَا
-  </p>
-</blockquote>
+> وَآثَرَ الْحَيَاةَ الدُّنْيَا
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ
-  </p>
-</blockquote>
+> فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ
-  </p>
-</blockquote>
+> فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ
 
 ***34. "But when the great calamity comes,”***  
 ***35. “That Day man shall remember what he strove for,”***  
@@ -1252,36 +1080,16 @@ there for ever.
 Surah Nazi’at, Verses 42-46
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا
 
-<blockquote dir="rtl">
-  <p>
-فِيمَ أَنْتَ مِنْ ذِكْرَاهَا
-  </p>
-</blockquote>
+> فِيمَ أَنْتَ مِنْ ذِكْرَاهَا
 
-<blockquote dir="rtl">
-  <p>
-إِلَىٰ رَبِّكَ مُنْتَهَاهَا
-  </p>
-</blockquote>
+> إِلَىٰ رَبِّكَ مُنْتَهَاهَا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا
-  </p>
-</blockquote>
+> إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ
-ضُحَاهَا
-  </p>
-</blockquote>
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ
+> ضُحَاهَا
 
 ***42. “They ask you about the Hour, When will it come to pass?”***  
 ***43. “Wherein art thou (concerned) with the declaration thereof?”***  
@@ -1462,5 +1270,4 @@ Qartabi, Fizalal and others.
 [^15]: Surah Ta‑Ha, No. 20, verse 104
 
 [^16]: Surah Rum, No. 30, verse 55
-
 

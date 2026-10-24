@@ -381,4 +381,3 @@ able to return back to his hometown. However, it is preferred that he
 returns to Makkah to perform Tawaaf al-Widaa’ – the Farewell tawaaf –
 for it is mostahab.
 
-

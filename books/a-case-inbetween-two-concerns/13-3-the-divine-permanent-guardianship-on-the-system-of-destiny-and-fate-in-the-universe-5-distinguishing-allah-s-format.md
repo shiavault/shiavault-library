@@ -88,7 +88,6 @@ not really want him to slay his son, if ever did he want that;
 Ibrahiem’s will would have never exceeded the will of Allah the
 Sublime).([^22])
 
-
 **6. Man’s freedom of choice within the determinate circuit of destiny
 and fate**
 
@@ -214,7 +213,6 @@ AsSadoque also narrated in (Al Etequadat).
 
 As Sadiqu (A.S.) has been asked whether charms change destiny?
 
-
 He (A.S.) answered: “They are part of destiny”.
 
 The Messenger of Allah(S.A.) too was asked whether charms and medicines
@@ -223,7 +221,6 @@ change and alter destiny.
 He (s.a) answered:
 
 (Charms and medicines are part of Allah’s destiny).([^25])
-
 
 **Allah is too merciful to torment people for a thing he had obliged
 them to do**
@@ -258,5 +255,4 @@ The second point is a reference to (Al Mufawidha’s) dogma in dedicating
 the destiny of good and the destiny of evil to man directly.
 
 The progeny (A.S.) have so many texts in this respect.
-
 

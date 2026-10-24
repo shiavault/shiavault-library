@@ -902,4 +902,3 @@ Return, tr. Hamid Algar (Delmar: Caravan Books, 1982), p. 300¬-301.
 ed. Seyyed Hossein Nasr (Tehran: Anjuman-e Shahanshahi Falsafah-ye Iran,
 1977), p. 228.
 
-

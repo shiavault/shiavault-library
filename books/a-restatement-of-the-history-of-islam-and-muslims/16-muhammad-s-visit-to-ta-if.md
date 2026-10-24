@@ -153,4 +153,3 @@ seventh month of the Islamic calendar) of the twelfth year of the
 Proclamation, i.e., one year before the Migration of the Prophet from
 Makkah to Medina.
 
-

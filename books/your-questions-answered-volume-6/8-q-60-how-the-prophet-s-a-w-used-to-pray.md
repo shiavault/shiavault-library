@@ -117,4 +117,3 @@ includes not only 'Ali (A.S), 'Abdullah ibn 'Abbas, Anas ibn Malik, but
 (Tafseer Ad-Durru'l-Manthur, vol. 2, p.263). But obviously the Sunni
 mujtahidin could not leave the Sunnat of 'Umar.
 
-

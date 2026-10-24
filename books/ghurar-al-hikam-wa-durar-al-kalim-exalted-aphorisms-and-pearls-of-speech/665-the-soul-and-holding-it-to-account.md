@@ -20,21 +20,13 @@ order to] acquire provisions.
 his intellect and the symbol of his abundant merit.
 
 > 4ـ إزْراءُ الرَّجُلِ عَلى نَفْسِهِ بُرْهانُ رَزانَةِ عَقْلِهِ
-<blockquote dir="rtl">
-  <p>
-وعُنْوانُ وُفُورِ فَضْلِهِ.
-  </p>
-</blockquote>
+> وعُنْوانُ وُفُورِ فَضْلِهِ.
 
 5. Souls are free but the hands of the intellects hold their reins and
 protect them from [wretchedness and] misfortune.
 
 > 5ـ اَلنُّفُوسُ طَلِقَةٌ لكِنْ أيْدِى العُقُولِ تُمْسِكُ أعِنَّتَها
-<blockquote dir="rtl">
-  <p>
-عَنِ النُّحُوسِ.
-  </p>
-</blockquote>
+> عَنِ النُّحُوسِ.
 
 6. One who is pleased with himself is cheated and one who is
 overconfident is faced with affliction.
@@ -46,11 +38,7 @@ he were to know the merits of others, he would cover up (and feel
 ashamed of) the faults and flaws that are in him.
 
 > 7ـ اَلرَّاضِي عَنْ نَفْسِهِ مَسْتُورٌ عَنْهُ عَيْبُهُ، ولَوْ عَرَفَ
-<blockquote dir="rtl">
-  <p>
-فَضْلَ غَيْرِهِ كَساهُ (لَساءَهُ) ما بِهِ مِنَ النَّقْصِ والخُسْرانِ.
-  </p>
-</blockquote>
+> فَضْلَ غَيْرِهِ كَساهُ (لَساءَهُ) ما بِهِ مِنَ النَّقْصِ والخُسْرانِ.
 
 8. The refractory, alluring soul flatters as the hypocrite flatters and
 feigns the attribute of an assenting friend, until such a time when it
@@ -59,13 +47,9 @@ and dictates as the tyrant would dictate, thereby taking one into the
 places of evil.
 
 > 8ـ اَلنَّفْسُ الأمـّارَةُ المُسَوِّلَةُ تَتَمَلَّقُ تَمَلُّقَ
-<blockquote dir="rtl">
-  <p>
-الْمُنافِقِ، وتَتَصَنَّعُ بِشِيمَةِ الصَّدِيقِ المُوافِقِ، حَتّى إذا
-خَدَعتْ وتَمَكَّنَتْ تَسَلَّطَتْ تَسَلُّطَ العَدُوِّ، وَتَحَكَّمَتْ
-تَحَكُّمَ الْعُتُوِّ، فَأَوْرَدَتْ مَوارِدَ السُّوءِ.
-  </p>
-</blockquote>
+> الْمُنافِقِ، وتَتَصَنَّعُ بِشِيمَةِ الصَّدِيقِ المُوافِقِ، حَتّى إذا
+> خَدَعتْ وتَمَكَّنَتْ تَسَلَّطَتْ تَسَلُّطَ العَدُوِّ، وَتَحَكَّمَتْ
+> تَحَكُّمَ الْعُتُوِّ، فَأَوْرَدَتْ مَوارِدَ السُّوءِ.
 
 9. Honour your soul as long as it aids you in the obedience of Allah.
 
@@ -81,33 +65,21 @@ has over you, turn your attention towards the Hereafter and make [the
 pleasure of] Allah the object of your striving.
 
 > 11ـ إتَّقِ اللّهَ في نَفْسِكَ، وَنازِ عِ الشَّيْطانَ قِيادَكَ،
-<blockquote dir="rtl">
-  <p>
-وَاصْرِفْ إلَى الآخِرَةِ وَجْهَكَ، واجْعَلْ لِلّهِ جِدَّكَ.
-  </p>
-</blockquote>
+> وَاصْرِفْ إلَى الآخِرَةِ وَجْهَكَ، واجْعَلْ لِلّهِ جِدَّكَ.
 
 12. Ennoble your soul from every vile quality, even if it drives you to
 your desires, for indeed you will never be able to compensate for what
 you have lost of your soul.
 
 > 12ـ أكْرِمْ نَفْسَكَ عَنْ كُلِّ دَنِيَّة وَإنْ ساقَتْكَ إلى
-<blockquote dir="rtl">
-  <p>
-الرَّغائِبِ فَإنَّكَ لَنْ تَعْتاضَ عَمّا تَبْذُلُ مِنْ نَفْسِكَ
-عِوَضاً.
-  </p>
-</blockquote>
+> الرَّغائِبِ فَإنَّكَ لَنْ تَعْتاضَ عَمّا تَبْذُلُ مِنْ نَفْسِكَ
+> عِوَضاً.
 
 13. Make yourself a guardian over your soul and reserve a portion of
 this world for your Hereafter.
 
 > 13ـ اِجْعَلْ مِنْ نَفْسِكَ عَلى نَفْسِكَ رَقِيباً واجْعَلْ لآخِرَتِكَ
-<blockquote dir="rtl">
-  <p>
-مِنْ دُنْياكَ نَصِيْباً.
-  </p>
-</blockquote>
+> مِنْ دُنْياكَ نَصِيْباً.
 
 14. Move closer to your soul by retracting from it (I mean that you
 should move towards your loftier and higher self which has been adapted
@@ -117,13 +89,9 @@ should retract from the soul that commands to evil and shakes hands with
 defiance).
 
 > 14ـ أقْبِلْ عَلى نَفْسِكَ بِالإدْبارِ عَنْها (أعْنِي أنْ تُقْبِلَ عَلى
-<blockquote dir="rtl">
-  <p>
-نَفْسِكَ الفاضِلَةِ المُقْتَبِسَةِ مِنْ نُورِ عَقْلِكَ الْحائِلَةِ
-بَيْنَكَ وبَيْنَ دَواعِي طَبْعِكَ، وأعْنِي بِالإدْبارِ اَلإدْبارَ عَنْ
-نَفْسِكَ الأمـّارَةِ بِالسُّوءِ اَلمُصافِحَةِ بِيَدِ الْعُتُوِّ).
-  </p>
-</blockquote>
+> نَفْسِكَ الفاضِلَةِ المُقْتَبِسَةِ مِنْ نُورِ عَقْلِكَ الْحائِلَةِ
+> بَيْنَكَ وبَيْنَ دَواعِي طَبْعِكَ، وأعْنِي بِالإدْبارِ اَلإدْبارَ عَنْ
+> نَفْسِكَ الأمـّارَةِ بِالسُّوءِ اَلمُصافِحَةِ بِيَدِ الْعُتُوِّ).
 
 15. Restrain your soul from lustful desires and you will remain safe
 from calamities.
@@ -135,17 +103,9 @@ that is loftier for your status and more deserving of the pleasure of
 your Lord.
 
 > 16ـ أنْصِفْ مِنْ نَفْسِكَ قَبْلَ أنْ يُنْتَصَفَ مِنْكَ، فَإنَّ ذلِكَ
-<blockquote dir="rtl">
-  <p>
-أجَلُّ لِقَدَرِكَ،
-  </p>
-</blockquote>
+> أجَلُّ لِقَدَرِكَ،
 
-<blockquote dir="rtl">
-  <p>
-وَأجْدَرُ بِرِضا رَبِّكَ.
-  </p>
-</blockquote>
+> وَأجْدَرُ بِرِضا رَبِّكَ.
 
 17. Gain control over your souls by your continuous struggle against it.
 
@@ -156,21 +116,13 @@ tongues with the remembrance [of Allah], and your hearts with acceptance
 [of His will] in what you love and hate.
 
 > 18ـ اِشْغَلُوا أنْفُسَكُمْ بِالطّاعَةِ، وألْسِنَتـَكُمْ بِالذِّكْرِ،
-<blockquote dir="rtl">
-  <p>
-وقُلُوبَكُمْ بِالرِّضا فِيما أحْبَبْتُمْ وكَرِهْتُمْ.
-  </p>
-</blockquote>
+> وقُلُوبَكُمْ بِالرِّضا فِيما أحْبَبْتُمْ وكَرِهْتُمْ.
 
 19. Restrain these souls for indeed they are very desirous, and if you
 follow them, they will lead you towards the worst evil.
 
 > 19ـ اِقْمَعُوا هذِهِ النُّفُوسَ، فَإنَّها طُلَعَةٌ إنْ تُطِيعُوها
-<blockquote dir="rtl">
-  <p>
-تَزِغْ بِكُمْ إلى شَرِّ غايَة.
-  </p>
-</blockquote>
+> تَزِغْ بِكُمْ إلى شَرِّ غايَة.
 
 20. Knowledge about oneself is the more beneficial of the two types of
 knowledge.
@@ -186,21 +138,13 @@ of those who are displeased with you.
 Satan.
 
 > 22ـ إيّاكَ والثِّقَةَ بِنَفْسِكَ فَإنَّ ذلِكَ مِنْ أكْبَرِ مَصائِدِ
-<blockquote dir="rtl">
-  <p>
-الشَّيْطانِ.
-  </p>
-</blockquote>
+> الشَّيْطانِ.
 
 23. Indeed there is no price for your souls other than Paradise, so do
 not sell them except [in return] for it.
 
 > 23ـ ألا إنَّهُ لَيْسَ لأنْفُسِكُمْ ثَمَنٌ إلاّ الْجَنَّةُ،
-<blockquote dir="rtl">
-  <p>
-فَلاتَبِيعُوها إلاّ بِها.
-  </p>
-</blockquote>
+> فَلاتَبِيعُوها إلاّ بِها.
 
 24. The greatest affliction is poverty of the soul.
 
@@ -210,11 +154,7 @@ not sell them except [in return] for it.
 aspirations has degraded his soul.
 
 > 25ـ أزْرى بِنَفْسِهِ مَنْ مَلَكَتْهُ الشَّهْوَةُ، واسْتَعْبَدَتْهُ
-<blockquote dir="rtl">
-  <p>
-المَطامِعُ.
-  </p>
-</blockquote>
+> المَطامِعُ.
 
 26. The strongest of people is one who has the greatest command over his
 soul.
@@ -229,11 +169,7 @@ soul.
 subdues his anger and kills off his lustful desire.
 
 > 28ـ أعْظَمُ النّاسِ سُلْطاناً عَلى نَفْسِهِ مَنْ قَمَعَ غَضَبَهُ
-<blockquote dir="rtl">
-  <p>
-وأماتَ شَهْوَتَهُ.
-  </p>
-</blockquote>
+> وأماتَ شَهْوَتَهُ.
 
 29. Verily when souls are in harmony they become close [with one
 another].
@@ -249,61 +185,37 @@ Paradise.
 suffers great tribulation.
 
 > 31ـ إنَّ مَنْ باعَ نَفْسَهُ بِغَيْرِ الْجَنَّةِ، فَقَدْ عَظُمَتْ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ الْمِحْنَةُ.
-  </p>
-</blockquote>
+> عَلَيْهِ الْمِحْنَةُ.
 
 32. Verily these souls are very desirous, if you obey them they will
 lead you to the depths of evil.
 
 > 32ـ إنَّ هذِهِ النُّفُوسَ طُلَعَةٌ، إنْ تُطيعُوها تَنْزِ عْ بِكُمْ إلى
-<blockquote dir="rtl">
-  <p>
-شَرِّ غايَة.
-  </p>
-</blockquote>
+> شَرِّ غايَة.
 
 33. Verily obeying the self and following its vain desires is the root
 of every tribulation and the cornerstone of every aberrance.
 
 > 33ـ إنَّ طاعَةَ النَّفْسِ ومُتابَعَةَ أهْوِيَتِها أُسُّ كُلِّ مِحْنَة
-<blockquote dir="rtl">
-  <p>
-ورَأْسُ كُلِّ غَوايَة.
-  </p>
-</blockquote>
+> ورَأْسُ كُلِّ غَوايَة.
 
 34. Verily the soul has far-reaching desires and continues to be
 inclined towards disobedience in its desires.
 
 > 34ـ إنَّ النَّفْسَ أبْعَدُ شَيْء مَنْـزَعاً، وإنَّها لاتَزالُ تَنْزِعُ
-<blockquote dir="rtl">
-  <p>
-إلى مَعْصِيَة في هَوىً.
-  </p>
-</blockquote>
+> إلى مَعْصِيَة في هَوىً.
 
 35. Verily this soul commands towards evil so one who neglects it [and
 does not discipline it] is indomitably driven by it towards sins.
 
 > 35ـ إنَّ هذِهِ النَّفْسَ لأمـّارَةٌ بِالسُّوْءِ فَمَنْ أهْمَلَها
-<blockquote dir="rtl">
-  <p>
-جَمَحَتْ بِهِ إلَى الْمَ آثِمِ.
-  </p>
-</blockquote>
+> جَمَحَتْ بِهِ إلَى الْمَ آثِمِ.
 
 36. Verily your soul is a deceiver; if you trust it, Satan will lead you
 to commit forbidden acts.
 
 > 36ـ إنَّ نَفْسَكَ لَخَدُوعٌ، إنْ تَثِقْ بِها يَقْتَدْكَ الشَّيْطانُ
-<blockquote dir="rtl">
-  <p>
-إلَى ارْتِكابِ الْمَحارِمَ.
-  </p>
-</blockquote>
+> إلَى ارْتِكابِ الْمَحارِمَ.
 
 37. Verily the soul commands towards evil and indecency, so whoever
 trusts it, it deceives him and whoever has confidence in it, it destroys
@@ -311,55 +223,35 @@ him and whoever is pleased with it, it makes him enter the worst of
 places.
 
 > 37ـ إنَّ النَّفْسَ لأمّارَةٌ بِالسُّوءِ والفَحْشاءِ، فَمَنِ
-<blockquote dir="rtl">
-  <p>
-ائْتَمَنَها خانَتْهُ، ومَنِ اسْتَنامَ إلَيْها أهْلَكَتْهُ، ومَنْ
-رَضِيَ عَنْها أوْرَدَتْهُ شَرَّ المَوارِدِ.
-  </p>
-</blockquote>
+> ائْتَمَنَها خانَتْهُ، ومَنِ اسْتَنامَ إلَيْها أهْلَكَتْهُ، ومَنْ
+> رَضِيَ عَنْها أوْرَدَتْهُ شَرَّ المَوارِدِ.
 
 38. Verily the true believer does not enter his evening and morning but
 that he distrusts his soul, so he continues to belittle [and find fault
 with] it and seeks more [good] for it.
 
 > 38ـ إنَّ المُؤْمِنَ لا يُمْسي ولايُصْبِـحُ إلاّ ونَفْسُهُ ظَنُونٌ
-<blockquote dir="rtl">
-  <p>
-عِنْدَهُ، فَلايَزالُ زارِياً عَلَيْها، ومُسْتَزِيداً لَها.
-  </p>
-</blockquote>
+> عِنْدَهُ، فَلايَزالُ زارِياً عَلَيْها، ومُسْتَزِيداً لَها.
 
 39. Verily the soul is a valuable gem, whoever guards it elevates it and
 whoever does not preserve it abases it.
 
 > 39ـ إنَّ النَّفْسَ لَجَوْهَرَةٌ ثَمِيْنَةٌ مَنْ صانَها رَفَعَها ومَنِ
-<blockquote dir="rtl">
-  <p>
-ابْتَذَلَها وَضَعَها.
-  </p>
-</blockquote>
+> ابْتَذَلَها وَضَعَها.
 
 40. Verily the soul that seeks short-lived desires will surely perish in
 its quest and will be wretched in its place of return [in the
 Hereafter].
 
 > 40ـ إنَّ النَّفْسَ الَّتي تَطْلُبُ الرَّغائِبَ الفانِيَةَ لَتَهْلِكُ
-<blockquote dir="rtl">
-  <p>
-في طَلَبِها، وتَشْقى في مُنْقَلَبِها.
-  </p>
-</blockquote>
+> في طَلَبِها، وتَشْقى في مُنْقَلَبِها.
 
 41. Verily the soul that struggles to acquire the everlasting desires
 will surely achieve its goal and will be felicitous in its place of
 return [in the Hereafter].
 
 > 41ـ إنَّ النَّفْسَ الَّتي تَجْهَدُ فِي اقْتِناءِ الرَّغائِبِ
-<blockquote dir="rtl">
-  <p>
-الْباقِيَةِ لَتُدْرِكُ طَلَبَها، وَتَسْعَدُ في مُنْقَلَبِها.
-  </p>
-</blockquote>
+> الْباقِيَةِ لَتُدْرِكُ طَلَبَها، وَتَسْعَدُ في مُنْقَلَبِها.
 
 42. Verily the soul is like the camel that likes to eat bitter grass,
 and the ear does not retain much of what it hears, so do not cut off
@@ -367,34 +259,22 @@ your understanding by being importunate with your soul because for each
 part of the body there is [need for] repose.
 
 > 42ـ إنَّ النَّفْسَ حَمِضَةٌ، والأُذُنَ مَجّاجَةٌ، فَلا تَجُبَّ
-<blockquote dir="rtl">
-  <p>
-فَهْمَكَ بِالإلْحاحِ عَلى قَلْبِكَ، فَإنَّ لِكُلِّ عُضْو مِنَ البَدَنِ
-اِسْتِراحَةً.
-  </p>
-</blockquote>
+> فَهْمَكَ بِالإلْحاحِ عَلى قَلْبِكَ، فَإنَّ لِكُلِّ عُضْو مِنَ البَدَنِ
+> اِسْتِراحَةً.
 
 43. Verily your soul is your riding mount, if you make it carry more
 than it can bear, you will kill it and if you treat it with kindness,
 you will save it.
 
 > 43ـ إنَّ نَفْسَكَ مَطِيَّتُكَ، إنْ أجْهَدْ تَها قَتَلْتَها، وإنْ
-<blockquote dir="rtl">
-  <p>
-رَفَقْتَ بِها أبْقَيْتَها.
-  </p>
-</blockquote>
+> رَفَقْتَ بِها أبْقَيْتَها.
 
 44. Verily if you contravene this division [and allotment of specific
 times for specific deeds] then the supererogatory acts you perform do
 not take the place of the obligatory that you have neglected.
 
 > 44ـ إنَّكَ إنْ أخْلَلْتَها بِشَيْء مِنْ هذا التَّقْسِيمِ فَلا تَقُومُ
-<blockquote dir="rtl">
-  <p>
-نَوافِلُ تَكْتَسِبُها بِفَرائِضَ تُضَيِّعُها.
-  </p>
-</blockquote>
+> نَوافِلُ تَكْتَسِبُها بِفَرائِضَ تُضَيِّعُها.
 
 45. Being preoccupied with disciplining the soul is better [for you].
 
@@ -420,32 +300,20 @@ love out of fear of its displeasure, then vain desires will drive you
 towards a lot of harm.
 
 > 49ـ إنْ لَمْ تَرْدَعْ نَفْسَكَ عَنْ كَثِير مِمّا تُحِبُّ مَخافَةَ
-<blockquote dir="rtl">
-  <p>
-مَكْرُوهِهِ سَمَتْ بِكَ الأهـْواءُ إلى كَثِير مِنَ الضَّرَرِ.
-  </p>
-</blockquote>
+> مَكْرُوهِهِ سَمَتْ بِكَ الأهـْواءُ إلى كَثِير مِنَ الضَّرَرِ.
 
 50. Verily if you give your [carnal] soul control over yourself, you
 will corrupt your Hereafter and put you into unending affliction and
 incessant wretchedness.
 
 > 50ـ إنَّكَ إنْ مَلَّكْتَ نَفْسَكَ قِيادَكَ، أفْسَدْتَ مَعادَكَ،
-<blockquote dir="rtl">
-  <p>
-وأوْرَدَتْكَ بَلاءً لا يَنْـتَهي، وشَقاءً لايَنْقَضي.
-  </p>
-</blockquote>
+> وأوْرَدَتْكَ بَلاءً لا يَنْـتَهي، وشَقاءً لايَنْقَضي.
 
 51. Verily if you obey your [carnal] souls, they will lead you towards
 the worst end.
 
 > 51ـ إنَّكُمْ إنْ أطَعْتُمْ أنْفُسَكُمْ نَزَعَتْ بِكُمْ إلى شَرِّ
-<blockquote dir="rtl">
-  <p>
-غايَة.
-  </p>
-</blockquote>
+> غايَة.
 
 52. Indeed you are just like the one who stabs himself in order to kill
 the one who is sitting behind him.
@@ -456,32 +324,20 @@ the one who is sitting behind him.
 allow it to disobey Him you have humiliated it.
 
 > 53ـ إذا أخَذْتَ نَفْسَكَ بِطاعَةِ اللّهِ أكْرَمْتَها، وإنِ
-<blockquote dir="rtl">
-  <p>
-ابْتَذَلْتَها (بَذَلْتَها) في مَعاصيهِ أهَنْتـَها.
-  </p>
-</blockquote>
+> ابْتَذَلْتَها (بَذَلْتَها) في مَعاصيهِ أهَنْتـَها.
 
 54. When your soul becomes obstinate with you then be obstinate with it
 and it will be humble to you, and deceive your soul with regards to
 yourself, it will yield to you.
 
 > 54ـ إذا صَعُبَتْ عَلَيْكَ نَفْسُكَ فَاصْعُبْ لَها تَذِلُّ لَكَ وخادِعْ
-<blockquote dir="rtl">
-  <p>
-نَفْسَكَ عَنْ نَفْسِكَ تَنْقَدْ لَكَ.
-  </p>
-</blockquote>
+> نَفْسَكَ عَنْ نَفْسِكَ تَنْقَدْ لَكَ.
 
 55. When you desire the uprightness of your soul then you should adopt
 moderation, contentment and the reduction of [your] wants.
 
 > 55ـ إذا رَغِبْتَ في صَلاحِ نَفْسِكَ فَعَلَيْكَ بِالاِقْتِصادِ،
-<blockquote dir="rtl">
-  <p>
-والقُنُوعِ، وَالتَّقَلُّلِ.
-  </p>
-</blockquote>
+> والقُنُوعِ، وَالتَّقَلُّلِ.
 
 56. Uprightness of the soul is [attained] through struggle.
 
@@ -491,22 +347,14 @@ moderation, contentment and the reduction of [your] wants.
 from their harmful habits.
 
 > 57ـ تَوَلَّوْا مِنْ أنْفُسِكُمْ تَأْدِيبَها واعْدِلُوا بِها عَنْ
-<blockquote dir="rtl">
-  <p>
-ضَرارَةِِ عاداتِها.
-  </p>
-</blockquote>
+> ضَرارَةِِ عاداتِها.
 
 58. Demand from your soul [the performance of] that which it obligatory
 upon it and you will be safe from the demands of others, scrutinize it
 and you will have no need for the scrutiny of others.
 
 > 58ـ تَقاضَ نَفْسَكَ بِما يَجِبُ عَلَيْها تَأمَنْ تَقاضِيَ غَيْرِكَ
-<blockquote dir="rtl">
-  <p>
-لَكَ،وَاسْتَقْصِعَلَيْها تَغْنَ عَنِ اسْتِقْصاءِ غَيْرِكَ.
-  </p>
-</blockquote>
+> لَكَ،وَاسْتَقْصِعَلَيْها تَغْنَ عَنِ اسْتِقْصاءِ غَيْرِكَ.
 
 59. He (a) said about the one whom he was censuring: His [lower] self
 dominates him by means of that which he assumes, and he cannot overpower
@@ -514,54 +362,34 @@ it with what he is certain of. He has made his vain desire his master
 and he obeys it in all his affairs.
 
 > 59ـ وقالَ في حَقِّ مَنْ ذَمَّهُ: تَغْلِبُهُ نَفْسُهُ عَلى ما يَظُنُّ،
-<blockquote dir="rtl">
-  <p>
-ولا يَغْلِبُها عَلى ما يَسْتَيْقِنُ، قَدْ جَعَلَ هَواهُ أمِيرَهُ،
-وأطاعَهُ فِي سائِرِ أُمُورِهِ.
-  </p>
-</blockquote>
+> ولا يَغْلِبُها عَلى ما يَسْتَيْقِنُ، قَدْ جَعَلَ هَواهُ أمِيرَهُ،
+> وأطاعَهُ فِي سائِرِ أُمُورِهِ.
 
 60. Try yourself in the obedience of Allah through patience in
 performing obligatory acts and perseverance in performing supererogatory
 acts and duties.
 
 > 60ـ جَرِّبْ نَفْسَكَ في طاعَةِ اللّهِ بِالصَّبْرِ عَلى أداءِ
-<blockquote dir="rtl">
-  <p>
-الفَرائِضِ والدُّؤُبِ فِي إقامَةِ النَّوافِلِ والوَظائِفِ.
-  </p>
-</blockquote>
+> الفَرائِضِ والدُّؤُبِ فِي إقامَةِ النَّوافِلِ والوَظائِفِ.
 
 61. Hold yourselves to account [for your deeds] and you will be safe
 from the fear of Allah and will attain what you desire [from that which
 is] with Him.
 
 > 61ـ حاسِبُوا أنْفُسَكُمْ تَأْمَنُوا مِنَ اللّهِ الرَّهَبَ، وتُدْرِكُوا
-<blockquote dir="rtl">
-  <p>
-عِنْدَهُ الرَّغَبَ.
-  </p>
-</blockquote>
+> عِنْدَهُ الرَّغَبَ.
 
 62. Hold yourself to account for your [own] soul for indeed other souls
 have someone else who will hold them to account.
 
 > 62ـ حاسِبْ نَفْسَكَ لِنَفْسِكَ فَإنَّ غَيْرَها مِنَ الأنْفُسِ لَها
-<blockquote dir="rtl">
-  <p>
-حَسيبٌ غَيْرُكَ.
-  </p>
-</blockquote>
+> حَسيبٌ غَيْرُكَ.
 
 63. Hold your souls to account before they are held to account and weigh
 them before they are weighed.
 
 > 63ـ حاسِبُوا أنْفُسَكُمْ قَبْلَ أنْ تُحاسَبُوا ووازِنُوها قَبْلَ أنْ
-<blockquote dir="rtl">
-  <p>
-تُوازَنُوا.
-  </p>
-</blockquote>
+> تُوازَنُوا.
 
 64. Hold your souls to account for their deeds and seek from them the
 fulfilment of what is obligatory on them and their taking from the
@@ -569,22 +397,14 @@ evanescent for the eternal; and gather provisions and make preparations
 before you are resurrected [on the Day of Reckoning].
 
 > 64ـ حاسِبُوا أنْفُسَكُمْ بِأعْمالِها، وطالِبُوها بِأداءِ الْمَفْرُوضِ
-<blockquote dir="rtl">
-  <p>
-عَلَيْها، وَالأخْذِ مِنْ فَنائِها لِبَقائِها، وتَزَوَّدُوا وتَأهَّبُوا
-قَبْلَ أنْ تُبْعَثُوا.
-  </p>
-</blockquote>
+> عَلَيْها، وَالأخْذِ مِنْ فَنائِها لِبَقائِها، وتَزَوَّدُوا وتَأهَّبُوا
+> قَبْلَ أنْ تُبْعَثُوا.
 
 65. Beautify your souls with chastity and keep away from wastefulness
 and extravagance.
 
 > 65ـ حَلُّوا أنْفُسَكُمْ بِالْعَفافِ، وتَجَنَّبُوا التَّبْذِيرَ
-<blockquote dir="rtl">
-  <p>
-وَالإسْرافَ.
-  </p>
-</blockquote>
+> وَالإسْرافَ.
 
 66. The best souls are the purest among them.
 
@@ -595,11 +415,7 @@ gather provisions today for your tomorrow, benefit from the slumber (or
 respite) of time and seize the opportunity [to do good while you can].
 
 > 67ـ خُذْ مِنْ نَفْسِكَ لِنَفْسِكَ، وَتَزَوَّدْ مِنْ يَوْمِكَ لِغَدِكَ،
-<blockquote dir="rtl">
-  <p>
-واغْتَنِمْ غَفْوَ (عَفْوَ) الزَّمانِ، وانْتَهِزْ فُرْصَةَ الإمْكانِ.
-  </p>
-</blockquote>
+> واغْتَنِمْ غَفْوَ (عَفْوَ) الزَّمانِ، وانْتَهِزْ فُرْصَةَ الإمْكانِ.
 
 68. Deceive your heart into worshipping and be gentle with it (or do not
 compel it), and engage it [in worship] when it is free and lively,
@@ -607,22 +423,14 @@ except for what has been prescribed as obligatory, for indeed that must
 be fulfilled [in any case].
 
 > 68ـ خادِعْ نَفْسَكَ عَنِ الْعِبادَةِ، وارْفُقْ بِها (وَلاتَقْهَرْها)،
-<blockquote dir="rtl">
-  <p>
-وَخُذْ عَفْوَها، وَنِشاطَها، إلاّ ماكانَ مَكْتُوباً مِنَ الْفَرِيضَةِ،
-فَإنَّهُ لابـُدَّ مِنْ أدائِها.
-  </p>
-</blockquote>
+> وَخُذْ عَفْوَها، وَنِشاطَها، إلاّ ماكانَ مَكْتُوباً مِنَ الْفَرِيضَةِ،
+> فَإنَّهُ لابـُدَّ مِنْ أدائِها.
 
 69. Take from your bodies and bestow them generously to your souls, and
 strive to free yourselves before your ransoms are blocked.
 
 > 69ـ خُذُوا مِنْ أجْسادِكُمْ تَجُودُوا بِها عَلى أنْفُسِكُمْ واسْعَوْا
-<blockquote dir="rtl">
-  <p>
-في فِكاكِ رِقابِكُمْ قَبْلَ أنْ تُغْلَقَ رَهائِنُها.
-  </p>
-</blockquote>
+> في فِكاكِ رِقابِكُمْ قَبْلَ أنْ تُغْلَقَ رَهائِنُها.
 
 70. Oppose your [carnal] soul and you will become upright, mingle with
 scholars and you will learn.
@@ -635,42 +443,26 @@ in performing acts of worship and obedience, for in this lies the
 salvation for the soul.
 
 > 71ـ خِدْمَةُ النَّفْسِ صيانَتُها عَنِ اللَّذّاتِ، والمُقْتَنَياتِ،
-<blockquote dir="rtl">
-  <p>
-ورِياضَتُها بِالعُلُومِ والحِكَمِ، واجْتِهادُها (إجْهادُها)
-بِالعِباداتِ والطّاعاتِ، وَفِي ذلِكَ نَجاةُ النَّفْسِ.
-  </p>
-</blockquote>
+> ورِياضَتُها بِالعُلُومِ والحِكَمِ، واجْتِهادُها (إجْهادُها)
+> بِالعِباداتِ والطّاعاتِ، وَفِي ذلِكَ نَجاةُ النَّفْسِ.
 
 72. The cure of the soul is abstaining from vain desires and abstinence
 from the pleasures of this world.
 
 > 72ـ دَواءُ النَّفْسِ الصَّوْمُ عَنِ الهَوى والْحِمْيَةُ عَنْ لَذّاتِ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
+> الدُّنيا.
 
 73. The highest peaks [of success] are not attained but by those who
 espouse discipline and hard work.
 
 > 73ـ ذِرْوَةُ الغاياتِ لا يَنالُها إلاّ ذَوُو التَّهْذِيبِ
-<blockquote dir="rtl">
-  <p>
-والمُجاهِداتِ.
-  </p>
-</blockquote>
+> والمُجاهِداتِ.
 
 74. Have humility in your soul and honour in your faith; preserve your
 Hereafter and be open-handed with your worldly possessions.
 
 > 74ـ ذِلَّ في نَفْسِكَ وعِزَّ في دِينِكَ وصُنْ آخِرَتَكَ وابْذُلْ
-<blockquote dir="rtl">
-  <p>
-دُنْياكَ.
-  </p>
-</blockquote>
+> دُنْياكَ.
 
 75. Humble your souls by abandoning [bad] habits, lead them towards
 performing acts of obedience [and worship], make them bear the burdens
@@ -678,44 +470,28 @@ of [others’] liabilities, beautify them through noble deeds, and protect
 them from the filth of sins.
 
 > 75ـ ذَلِّلُوا أنْفُسَكُمْ بِتَرْكِ العاداتِ، وقُودُوها إلى فِعْلِ
-<blockquote dir="rtl">
-  <p>
-الطّاعاتِ، وَحَمِّلُوها أعْباءَ المَغارِمِ، وحَلُّوها بِفِعْلِ
-المَكارِمِ، وصُونُوها عَنْ دَنَسِ الْمَ آثِمِ.
-  </p>
-</blockquote>
+> الطّاعاتِ، وَحَمِّلُوها أعْباءَ المَغارِمِ، وحَلُّوها بِفِعْلِ
+> المَكارِمِ، وصُونُوها عَنْ دَنَسِ الْمَ آثِمِ.
 
 76. Humble your soul through obedience and adorn it with contentment;
 reduce your wants and be moderate in your earning.
 
 > 76ـ ذَلِّلْ نَفْسَكَ بِالطّاعَةِ، وحَلِِّّها بِالقَناعَةِ، وَخَفِّضْ
-<blockquote dir="rtl">
-  <p>
-فِي الطَّلَبِ، وَأجْمِلْ فِي الْمُكْتَسَبِ.
-  </p>
-</blockquote>
+> فِي الطَّلَبِ، وَأجْمِلْ فِي الْمُكْتَسَبِ.
 
 77. May Allah have mercy on the person who holds back the reins of his
 soul from acts of disobedience to Allah and steers it towards the
 obedience of Allah by its reins.
 
 > 77ـ رَحِمَ اللّهُ امْرَءاً اَلْجَمَ نَفْسَهُ عَنْ مَعاصِي اللّهِ
-<blockquote dir="rtl">
-  <p>
-بِلِجامِها، وقادَها إلى طاعَةِ اللّهِ بِزِمامِها.
-  </p>
-</blockquote>
+> بِلِجامِها، وقادَها إلى طاعَةِ اللّهِ بِزِمامِها.
 
 78. May Allah have mercy on the person who subdues the inclinations of
 his soul towards vain desires thereby protecting it, and steers it
 towards the obedience of Allah by its reins.
 
 > 78ـ رَحِمَ اللّهُ امْرَءاً قَمَعَ نَوازِ عَ نَفْسِهِ إلَى الهَوى
-<blockquote dir="rtl">
-  <p>
-فَصانَها، وقادَها إلى طاعَةِ اللّهِ بِعِنانِها.
-  </p>
-</blockquote>
+> فَصانَها، وقادَها إلى طاعَةِ اللّهِ بِعِنانِها.
 
 79. Deterring the soul from vain desire is the greater Jihad.
 
@@ -739,21 +515,13 @@ of nobility.
 steadfast on the book of Allah when faced with doubts.
 
 > 83ـ رُدَّ عَنْ نَفْسِكَ عِنْدَ الشَّهَواتِ وأقِمْها عَلى كِتابِ اللّهِ
-<blockquote dir="rtl">
-  <p>
-عِنْدَ الشُّبَهاتِ.
-  </p>
-</blockquote>
+> عِنْدَ الشُّبَهاتِ.
 
 84. Restraining the soul and struggling against its vain desires raises
 one’s ranks and multiplies the good deeds.
 
 > 84ـ رَدْعُ النَّفْسِ وجِهادُها عَنْ أهْوِيَتِها يَرْفَعُ الدَّرَجاتِ
-<blockquote dir="rtl">
-  <p>
-ويُضاعِفُ الْحَسَناتِ.
-  </p>
-</blockquote>
+> ويُضاعِفُ الْحَسَناتِ.
 
 85. Your satisfaction with yourself is an indication of the corruption
 of your mind.
@@ -779,11 +547,7 @@ reforming the soul.
 eminency of knowledge is the most honourable pre-eminence.
 
 > 89ـ سِياسَةُ النَّفْسِ أفْضَلُ سِياسَة ورِياسَةُ الْعِلْمِ أشْرَفُ
-<blockquote dir="rtl">
-  <p>
-رِياسَة.
-  </p>
-</blockquote>
+> رِياسَة.
 
 90. The worst indigence is poverty of the soul.
 
@@ -815,12 +579,8 @@ before they are held to account, and breathe before the throat is
 constricted, and follow submissively before you are driven by force.
 
 > 96ـ زِنُوا أنْفُسَكُمْ قَبْلَ أنْ تُوازَنُوا (تُوزَنُوا) وَحاسِبُوها
-<blockquote dir="rtl">
-  <p>
-قَبْلَ أنْ تُحاسَبُوا، وَتَنَفَّسُوا مِنْ (قَبْلَ)ضِيقِ الخَناقِ
-(وانْقادُوا)قَبْلَ عُنْفِ السِّياقِ.
-  </p>
-</blockquote>
+> قَبْلَ أنْ تُحاسَبُوا، وَتَنَفَّسُوا مِنْ (قَبْلَ)ضِيقِ الخَناقِ
+> (وانْقادُوا)قَبْلَ عُنْفِ السِّياقِ.
 
 97. Restrict your souls by holding them accountable and control them by
 opposition [to their whims].
@@ -845,11 +605,7 @@ realizes his sins so he seeks forgiveness for his sins and tries to
 correct his faults.
 
 > 101ـ مَنْ حاسَبَ نَفْسَهُ وَقَفَ عَلى عُيُوبِهِ وأحاطَ بِذُنُوبِهِ
-<blockquote dir="rtl">
-  <p>
-واسْتَقالَ الذُّنُوبَ وأصْلَحَ العُيُوبَ.
-  </p>
-</blockquote>
+> واسْتَقالَ الذُّنُوبَ وأصْلَحَ العُيُوبَ.
 
 102. Blessed is the one who has in his soul that which keeps him
 preoccupied from the [faults of other] people.
@@ -860,33 +616,21 @@ preoccupied from the [faults of other] people.
 shortness of breath and the severity of despair [at the time of death].
 
 > 103ـ طُوبى لِمَنْ سَعى في فَكاكِ نَفْسِهِ قَبْلَ ضِيقِ الأنْفاسِ
-<blockquote dir="rtl">
-  <p>
-وشِدَّةِ الإبْلاسِ.
-  </p>
-</blockquote>
+> وشِدَّةِ الإبْلاسِ.
 
 104. Blessed is he who considers himself as low, gains honour through
 his obedience [to Allah] and becomes free from want through his
 contentment.
 
 > 104ـ طُوبى لِمَنْ ذَلَّ في نَفْسِهِ وعَزَّ بِطاعَتِهِ وغَنِيَ
-<blockquote dir="rtl">
-  <p>
-بِقَناعَتِِهِ.
-  </p>
-</blockquote>
+> بِقَناعَتِِهِ.
 
 105. Blessed is the one who has in his soul that which keeps him
 preoccupied [from others] and the people are at ease from him, and who
 acts in obedience to Allah, the Glorified.
 
 > 105ـ طُوبى لِمَنْ كانَ لَهُ مِنْ نَفْسِهِ شُغْلٌ شاغِلٌ، والنّاسُ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ في راحَة، وعَمِلَ بِطاعَةِ اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> مِنْهُ في راحَة، وعَمِلَ بِطاعَةِ اللّهِ سُبْحانَهُ.
 
 106. Blessed be the soul that fulfils its duty to its Lord.
 
@@ -896,11 +640,7 @@ acts in obedience to Allah, the Glorified.
 attain lofty stations.
 
 > 107ـ طَهِّرُوا أنْفُسَكُمْ مِنْ دَنَسِ الشَّهَواتِ تُدْرِكُوا رَفِيعَ
-<blockquote dir="rtl">
-  <p>
-الدَّرَجاتِ.
-  </p>
-</blockquote>
+> الدَّرَجاتِ.
 
 108. Whoever disobeys Allah and obeys Satan has oppressed his soul.
 
@@ -910,32 +650,20 @@ attain lofty stations.
 everlasting abode has oppressed himself.
 
 > 109ـ ظَلَمَ نَفْسَهُ مَنْ رَضِيَ بِدارِ الْفَناءِ عِوَضاً عَنْ دارِ
-<blockquote dir="rtl">
-  <p>
-الْبَقاءِ.
-  </p>
-</blockquote>
+> الْبَقاءِ.
 
 110. Accustom your soul to virtue, for indeed it will make that which is
 spoken about you good and will make your reward great.
 
 > 110ـ عَوِّدْنَفْسَكَ الْجَميلَ فَإنَّهُ يُجْمِلُ عَنْكَ الأُحْدُوثَةَ
-<blockquote dir="rtl">
-  <p>
-ويُجْزِلُ لَكَ المَثُوبَةَ.
-  </p>
-</blockquote>
+> ويُجْزِلُ لَكَ المَثُوبَةَ.
 
 111. Accustom yourself to being engrossed in remembrance [of Allah] and
 repentance, for indeed this will wipe out your sin and make your reward
 great.
 
 > 111ـ عَوِّدْ نَفْسَكَ الاِسْتِهْتارَ بِالذِّكْرِ وَالاِسْتِغْفارِ
-<blockquote dir="rtl">
-  <p>
-فَإنَّهُ يَمْحُو عَنْكَ الْحَوْبَةَ وَيُعَظِّمْ لَكَ الْمَثُوبَةَ.
-  </p>
-</blockquote>
+> فَإنَّهُ يَمْحُو عَنْكَ الْحَوْبَةَ وَيُعَظِّمْ لَكَ الْمَثُوبَةَ.
 
 112. Habituate yourself to [performing] noble deeds and bearing the
 burden of [others’] liabilities, [for through this] your soul will
@@ -943,52 +671,32 @@ become honourable, your Hereafter will thrive and those who praise you
 will increase.
 
 > 112ـ عَوِّدْ نَفْسَكَ فِعْلَ الْمَكارِمِ وتَحَمُّلَ أعْباءِ
-<blockquote dir="rtl">
-  <p>
-الْمَغارِمِ تَشْرُفْ نَفْسُكَ وَتُعْمَرْ آخِرَتُكَ ويَكْثُرْ
-حامِدُوكَ.
-  </p>
-</blockquote>
+> الْمَغارِمِ تَشْرُفْ نَفْسُكَ وَتُعْمَرْ آخِرَتُكَ ويَكْثُرْ
+> حامِدُوكَ.
 
 113. Habituate yourself to good intention and virtuous purpose, you will
 attain success in your aspirations (or endeavours).
 
 > 113ـ عَوِّدْ نَفْسَكَ حُسْنَ النِّـيَّةِ وجَمِيلَ الْمَقْصَدِ تُدْرِكْ
-<blockquote dir="rtl">
-  <p>
-في مَباغيكَ (مَساعِيكَ) النَّجاحَ.
-  </p>
-</blockquote>
+> في مَباغيكَ (مَساعِيكَ) النَّجاحَ.
 
 114. Habituate yourself to forbearance and eschewing importunity, [and
 as a result] righteousness will adhere to you.
 
 > 114ـ عَوِّدْنَفْسَكَ السَّماحَ وتَجَنُّبَ الإلْحاحِ يَلْزَمْكَ
-<blockquote dir="rtl">
-  <p>
-الصَّلاحُ.
-  </p>
-</blockquote>
+> الصَّلاحُ.
 
 115. I am amazed at the one who knows himself, how can he feel at ease
 in the temporary abode [of this world]?!
 
 > 115 ـ عَجِبْتُ لِمَنْ عَرَفَ نَفْسَهُ كَيْفَ يَأْنَسُ بِدارِ
-<blockquote dir="rtl">
-  <p>
-الْفَناءِ.
-  </p>
-</blockquote>
+> الْفَناءِ.
 
 116. I am amazed at the one who searches for the thing he has lost while
 he has lost his own soul and does not seek it!
 
 > 116ـ عَجِبْتُ لِمَنْ يَنْشُدُ ضالَّتَهُ وقَدْ أضَلَّ نَفْسَهُ فَلا
-<blockquote dir="rtl">
-  <p>
-يَطْلُبُها.
-  </p>
-</blockquote>
+> يَطْلُبُها.
 
 117. I am amazed at the one who oppresses his own soul, how can he be
 fair to others?!
@@ -1005,21 +713,13 @@ become easier for you to lead them towards acts of obedience [and
 worship].
 
 > 119ـ غالِبُوا أنْفُسَكُمْ عَلى تَرْكِ المَعاصِي تَسْهُلْ عَلَيْكُمْ
-<blockquote dir="rtl">
-  <p>
-مَقادَتُها عَلَى الطّاعاتِ.
-  </p>
-</blockquote>
+> مَقادَتُها عَلَى الطّاعاتِ.
 
 120. Compel your souls to abandon bad habits and you will overcome them;
 fight against your vain desires and you will gain control over them.
 
 > 120ـ غالِبُوا أنْفُسَكُمْ عَلى تَرْكِ العاداتِ تَغْلِبُوها وجاهِدُوا
-<blockquote dir="rtl">
-  <p>
-أهْوائَكُمْ تَمْلِكُوها.
-  </p>
-</blockquote>
+> أهْوائَكُمْ تَمْلِكُوها.
 
 121. Perfection of righteousness is in struggling against the [carnal]
 soul.
@@ -1042,11 +742,7 @@ soul.
 it is the best authority.
 
 > 125ـ قُدْرَتـُكَ عَلى نَفْسِكَ أفْضَلُ القُدْرَةِ وإمْرَتُكَ عَلَيْها
-<blockquote dir="rtl">
-  <p>
-خَيْرُ الإمْرَةِ.
-  </p>
-</blockquote>
+> خَيْرُ الإمْرَةِ.
 
 126. How can one who is not content with little have the ability to
 reform himself?!
@@ -1062,42 +758,26 @@ distracted from the people.
 cautious (or fearful) of its deception.
 
 > 128ـ كُنْ أوْثَقَ ما تَكُونُ بِنَفْسِكَ أحْذَرَ (أخْوَفَ) ما تَكُونُ
-<blockquote dir="rtl">
-  <p>
-مِنْ خِداعِها.
-  </p>
-</blockquote>
+> مِنْ خِداعِها.
 
 129. Be the guardian of your soul, and do with your possessions that
 which you would like others to do with it.[^1]
 
 > 129ـ كُنْ وَصِيَّ نَفْسِكَ وافْعَلْ في مالِكَ ما تُحِبُّ أنْ
-<blockquote dir="rtl">
-  <p>
-يَفْعَلَهُ فيهِ غَيْرُكَ.
-  </p>
-</blockquote>
+> يَفْعَلَهُ فيهِ غَيْرُكَ.
 
 130. Hold yourself to account and struggle against your evil nature, and
 beware of blaming your sins on your Lord.
 
 > 130ـ كُنْ مُؤاخِذاً نَفْسَكَ مُغالِباً سُوءَ طَبْعِكَ وإيّاكَ أنْ
-<blockquote dir="rtl">
-  <p>
-تَحْمِلَ ذُنُوبَكَ عَلى رَبِّكَ.
-  </p>
-</blockquote>
+> تَحْمِلَ ذُنُوبَكَ عَلى رَبِّكَ.
 
 131. Be a preventer and a forbidder for yourself [from evil], and a
 suppressor and a subjugator for your wealth (or outburst) during zeal
 (or anger).
 
 > 131ـ كُنْ لِنَفْسِكَ مانِعاً رادِعاً ولِثَرْوَتِكَ (وَلِنَزْوَتِكَ)
-<blockquote dir="rtl">
-  <p>
-عِنْدَ الحَمِيَّةِ (الحَفِيظَةِ) واقِماً قامِعاً.
-  </p>
-</blockquote>
+> عِنْدَ الحَمِيَّةِ (الحَفِيظَةِ) واقِماً قامِعاً.
 
 132. The souls have certain evil natures [and characteristics] and
 wisdom forbids [one from] them.
@@ -1108,11 +788,7 @@ wisdom forbids [one from] them.
 them for anything but it.
 
 > 133ـ لَيْسَ لأنْفُسِكُمْ ثَمَنٌ إلاّ الجَنَّةُ فَلاتَبيعُوها إلاّ
-<blockquote dir="rtl">
-  <p>
-بِها.
-  </p>
-</blockquote>
+> بِها.
 
 134. There is no expectation [of goodness] from the one who wrongs his
 own soul.
@@ -1123,11 +799,7 @@ own soul.
 of Allah, the Glorified, than the soul that is obedient to His commands.
 
 > 135ـ لَيْسَ عَلى وَجْهِ الأرْضِ أكْرَمُ عَلَى اللّهِ سُبْحانَهُ مِنَ
-<blockquote dir="rtl">
-  <p>
-النَّفْسِ المُطِيعَةِ لأمْرِهِ.
-  </p>
-</blockquote>
+> النَّفْسِ المُطِيعَةِ لأمْرِهِ.
 
 136. One who considers himself to be more [important or powerful than
 others] becomes less.
@@ -1267,11 +939,7 @@ wretched and distanced [from the mercy of Allah].
 age does not become noble in is old age.
 
 > 168ـ مَنْ لَمْ يُجْهِدْ نَفْسَهُ في صِغَرِهِ لَمْ يَنْبُلْ في
-<blockquote dir="rtl">
-  <p>
-كِبَرِهِ.
-  </p>
-</blockquote>
+> كِبَرِهِ.
 
 169. Whoever continually disciplines his soul derives [great] benefit.
 
@@ -1290,11 +958,7 @@ in that which it does not love gets prolonged.
 the matters that are obligatory slip by.
 
 > 172ـ مَنْ شَغَلَ نَفْسَهُ بِما لايَجِبْ ضَيَّعَ مِنْ أمْرِهِ ما
-<blockquote dir="rtl">
-  <p>
-يَجِبُ.
-  </p>
-</blockquote>
+> يَجِبُ.
 
 173. Whoever holds himself accountable preserves his standing and the
 outcomes of his affair are praised.
@@ -1365,11 +1029,7 @@ sinning.
 watching over him.
 
 > 187ـ مَنْ كانَ لَهُ مِنْ نَفْسِهِ يَقْظَةٌ كانَ عَلَيْهِ مِنَ اللّهِ
-<blockquote dir="rtl">
-  <p>
-حَفَظَةٌ.
-  </p>
-</blockquote>
+> حَفَظَةٌ.
 
 188. One who knows himself understands others better.
 
@@ -1406,31 +1066,19 @@ destroy it.
 many of the sins.
 
 > 195ـ مَنْ وَبَّخَ نَفْسَهُ عَلَى العُيُوبِ اِرْتَعَدَتْ عَنْ كَثيرِ
-<blockquote dir="rtl">
-  <p>
-الذُّنُوبِ.
-  </p>
-</blockquote>
+> الذُّنُوبِ.
 
 196. One who has in his soul a restrainer [from evil], has a protector
 over him from Allah.
 
 > 196ـ مَنْ كانَ لَهُ مِنْ نَفْسِهِ زاجِرٌ كانَ عَلَيْهِ مِنَ اللّهِ
-<blockquote dir="rtl">
-  <p>
-حافِظٌ.
-  </p>
-</blockquote>
+> حافِظٌ.
 
 197. Whoever knows himself has indeed attained the highest goal of every
 cognizance and knowledge.
 
 > 197ـ مَنْ عَرَفَ نَفْسَهُ فَقَدِ انْتَهى إلى غايَةِ كُلِّ مَعْرِفَة
-<blockquote dir="rtl">
-  <p>
-وعِلْم.
-  </p>
-</blockquote>
+> وعِلْم.
 
 198. One who does not discipline [and purify] his soul, will not benefit
 from the intellect.
@@ -1446,11 +1094,7 @@ from him.
 elevated in the sight of others.
 
 > 200ـ مَنْ لَمْ يَتَّضِعْ عِنْدَ نَفْسِهِ لَمْ يَرْتَفِعْ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-غَيْرِهِ.
-  </p>
-</blockquote>
+> غَيْرِهِ.
 
 201. One who does not reform himself cannot reform others.
 
@@ -1460,11 +1104,7 @@ elevated in the sight of others.
 will not benefit from the advice of the adviser.
 
 > 202ـ مَنْ لَمْ يُعِنْهُ اللّهُ عَلى نَفْسِهِ لَمْ يَنْتَفِعْ
-<blockquote dir="rtl">
-  <p>
-بِمَوْعِظَةِ واعِظ.
-  </p>
-</blockquote>
+> بِمَوْعِظَةِ واعِظ.
 
 203. One who leaves his [carnal] soul free [to do as it wills] will be
 taken by it to the paths of darkness [and evil].
@@ -1481,42 +1121,26 @@ becomes worse and curing it becomes impossible, and he will not find any
 physician [who can treat it].
 
 > 205ـ مَنْ لَمْ يَتَدارَكْ نَفْسَهُ بِإصْلاحِها أعْضَلَ داؤُهُ وأعْيى
-<blockquote dir="rtl">
-  <p>
-شِفاؤُهُ وعَدِمَ الطَّبيبَ.
-  </p>
-</blockquote>
+> شِفاؤُهُ وعَدِمَ الطَّبيبَ.
 
 206. One whose grief over his soul is prolonged in this world, Allah
 will give him delight on the Day of Resurrection and put him in the
 Eternal Abode [in Paradise].
 
 > 206ـ مَنْ طالَ حُزْنُهُ عَلى نَفْسِهِ فيِ الدُّنيا أقَـرَّ اللّهُ
-<blockquote dir="rtl">
-  <p>
-عَيْنَهُ يَوْمَ القِيامَةِ وأحَلَّهُ دارَ المُقامَةِ.
-  </p>
-</blockquote>
+> عَيْنَهُ يَوْمَ القِيامَةِ وأحَلَّهُ دارَ المُقامَةِ.
 
 207. Whoever preoccupies himself with other than his [own] soul falters
 in the darkness and becomes entangled in [a web of] destruction.
 
 > 207ـ مَنْ شَغَلَ نَفْسَهُ بِغَيْرِ نَفْسِهِ تَحَيَّرَ فِي الظُّلُماتِ
-<blockquote dir="rtl">
-  <p>
-وارْتَبَكَ فِي الهَلَكاتِ.
-  </p>
-</blockquote>
+> وارْتَبَكَ فِي الهَلَكاتِ.
 
 208. One who does not know himself is distanced from the path of
 salvation and stumbles in misguidance and ignorance.
 
 > 208ـ مَنْ لَمْ يَعْرِفْ نَفْسَهُ بَعُدَ عَنْ سَبيلِ النَّجاةِ وخَبَطَ
-<blockquote dir="rtl">
-  <p>
-فيِ الضَّلالِ وَالجَهالاتِ.
-  </p>
-</blockquote>
+> فيِ الضَّلالِ وَالجَهالاتِ.
 
 209. One who advises [and admonishes] himself is worthy of giving advice
 to others.
@@ -1600,12 +1224,8 @@ slumber?! Do you not feel compassion for yourself as you have mercy on
 others?
 
 > 226ـ ما آنَسَكَ أيُّهَا الإنْسانُ بِهَلَكَةِ نَفْسِكَ أما مِنْ دائِكَ
-<blockquote dir="rtl">
-  <p>
-بُلُولٌ أمْ لَيْسَ لَكَ مِنْ نَوْمَتِكَ يَقْظَةٌ أما تَرْحَمُ مِنْ
-نَفْسِكَ ما تُرْحَمُ مِنْ غَيْرِكَ.
-  </p>
-</blockquote>
+> بُلُولٌ أمْ لَيْسَ لَكَ مِنْ نَوْمَتِكَ يَقْظَةٌ أما تَرْحَمُ مِنْ
+> نَفْسِكَ ما تُرْحَمُ مِنْ غَيْرِكَ.
 
 227. No servant considers his soul to be honourable but that the world
 becomes lowly [and insignificant] in his eyes.
@@ -1625,11 +1245,7 @@ knowledge.
 the things that you desire.
 
 > 230ـ نَزِّهْ نَفْسَكَ عَنْ كُلِّ دَنِيَّة، وإنْ ساقَتْكَ إلَى
-<blockquote dir="rtl">
-  <p>
-الرَّغائِبِ.
-  </p>
-</blockquote>
+> الرَّغائِبِ.
 
 231. Introspection turns one’s attention to self-reformation.
 
@@ -1644,31 +1260,19 @@ success.
 evil consequences of lustful desires.
 
 > 233ـ نَزِّهُو ا أنْفُسَكُمْ عَنْ دَنَسِ اللَّذّاتِ وتَبِعاتِ
-<blockquote dir="rtl">
-  <p>
-الشَّهَواتِ.
-  </p>
-</blockquote>
+> الشَّهَواتِ.
 
 234. Your [carnal] soul is a hostile enemy and an aggressive adversary,
 if you are unmindful of it, it will kill you.
 
 > 234ـ نَفْسُكَ عَدُوٌّ مُحارِبٌ، وضِدٌّ مُواثِبٌ إنْ غَفَلْتَ عَنْها
-<blockquote dir="rtl">
-  <p>
-قَتَلَتْكَ.
-  </p>
-</blockquote>
+> قَتَلَتْكَ.
 
 235. Lower yourself from your [rightful] position and people will raise
 you higher than your rightful position.
 
 > 235ـ نَزِّلْ نَفْسَكَ دُونَ مَنْزِلَتِها تُنَزِّلْكَ النّاسُ فَوْقَ
-<blockquote dir="rtl">
-  <p>
-مَنْزِلَتِكَ.
-  </p>
-</blockquote>
+> مَنْزِلَتِكَ.
 
 236. The souls of the virtuous are averse to the souls of the wicked.
 
@@ -1679,11 +1283,7 @@ every noble deed, you will become free from sins and will achieve noble
 qualities.
 
 > 237ـ نَزِّهْ عَنْ كُلِّ دَنِيَّة نَفْسَكَ، وابْذُلْ فِي المَكارِمِ
-<blockquote dir="rtl">
-  <p>
-جُهْدَكَ، تَخْلُصْ مِنَ المَـآثِمِ، وتُحْرِزِ المَكارِمَ.
-  </p>
-</blockquote>
+> جُهْدَكَ، تَخْلُصْ مِنَ المَـآثِمِ، وتُحْرِزِ المَكارِمَ.
 
 238. The souls of the virtuous are repulsed by the actions of the
 wicked.
@@ -1704,23 +1304,15 @@ and destroys.
 narrations and useless speech.
 
 > 241ـ وَقِّرُوا أنْفُسَكُمْ عَنِ الفُكاهاتِ، ومَضاحِكِ الحِكاياتِ،
-<blockquote dir="rtl">
-  <p>
-وَمَحالِ التُّرَّهاتِ.
-  </p>
-</blockquote>
+> وَمَحالِ التُّرَّهاتِ.
 
 242. Safeguard yourself from the fire whose fuel is men and stones by
 advancing towards obedience to Allah, eschewing His disobedience and
 seeking His pleasure.
 
 > 242ـ وَقِّ نَفْسَكَ ناراً وَقُودُهَا النّاسُ والحِجارَةُ
-<blockquote dir="rtl">
-  <p>
-بِمُبادَرَتِكَ إلى طاعَةِ اللّهِ، وتَجَنُّبِكَ مَعاصِيَهُ، وتَوَخّيكَ
-رِضاهُ.
-  </p>
-</blockquote>
+> بِمُبادَرَتِكَ إلى طاعَةِ اللّهِ، وتَجَنُّبِكَ مَعاصِيَهُ، وتَوَخّيكَ
+> رِضاهُ.
 
 243. Do not sanction for yourself that [action] which you would
 disapprove of from others.
@@ -1730,11 +1322,7 @@ disapprove of from others.
 244. Do not permit yourself to engage in any evil speech or action.
 
 > 244ـ لاتُرَخِّصْ لِنَفْسِكَ في شَيْء مِنْ سَيِّءِ الأقْوالِ
-<blockquote dir="rtl">
-  <p>
-والأفْعالِ.
-  </p>
-</blockquote>
+> والأفْعالِ.
 
 245. Do not have fear of injustice from your Lord but fear the injustice
 of yourselves.
@@ -1753,75 +1341,47 @@ of yourselves.
 wisdom and a lesson that safeguards you [from sin].
 
 > 248ـ لاتُخِلْ نَفْسَكَ مِنْ فِكْرَة تَزيدُكَ حِكْمَةً وعِبْرَة
-<blockquote dir="rtl">
-  <p>
-تُفيدُكَ عِصْمَةً.
-  </p>
-</blockquote>
+> تُفيدُكَ عِصْمَةً.
 
 249. Never seek the obedience of others while your [own] soul refuses to
 obey you.
 
 > 249ـ لاتَطْلُبَنَّ طاعَةَ غَيْرِكَ وطاعَةُ نَفْسِكَ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-مُمْتَنِعَةٌ.
-  </p>
-</blockquote>
+> مُمْتَنِعَةٌ.
 
 250. Do not be ignorant of yourself for indeed the one who is ignorant
 about himself is ignorant about everything.
 
 > 250ـ لاتَجْهَلْ نَفْسَكَ فَإنَّ الجاهِلَ مَعْرِفَةَ نَفْسِهِ جاهِلٌ
-<blockquote dir="rtl">
-  <p>
-بِكُلِّ شَيْء.
-  </p>
-</blockquote>
+> بِكُلِّ شَيْء.
 
 251. Do not abandon struggle in reforming yourself, for indeed nothing
 but diligence will assist you [to achieve this].
 
 > 251ـ لاتَتْرُكِ الاِجْتِهادَ في إصْلاحِ نَفْسِكَ فَإنَّهُ لايُعْينُكَ
-<blockquote dir="rtl">
-  <p>
-إلاّ الجِدُّ.
-  </p>
-</blockquote>
+> إلاّ الجِدُّ.
 
 252. Never declare war against Allah for there is no power that can
 protect you from His wrath and you can never be free from need for His
 mercy.
 
 > 252ـ لاتَنْصَبَنَّ نَفْسَكَ لِحَرْبِ اللّهِ فَلايَدَ لَكَ بِنَقْمَتِهِ
-<blockquote dir="rtl">
-  <p>
-ولاغِنى بِكَ عَنْ رَحْمَتِهِ.
-  </p>
-</blockquote>
+> ولاغِنى بِكَ عَنْ رَحْمَتِهِ.
 
 253. Do not permit yourself to submit to vain desires or to prefer the
 pleasures of this world such that your faith gets corrupted and cannot
 be reformed and your soul loses and does not gain.
 
 > 253ـ لاتُرَخِّصْ لِنَفْسِكَ في مُطاوَعَةِ الهَوى وإيثارِ لَذّاتِ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا فَيَفْسُدَ دينُكَ ولايَصْلُحَ وتَخْسُرَ نَفْسُكَ ولا
-تَرْبَحَ.
-  </p>
-</blockquote>
+> الدُّنيا فَيَفْسُدَ دينُكَ ولايَصْلُحَ وتَخْسُرَ نَفْسُكَ ولا
+> تَرْبَحَ.
 
 254. Do not surrender yourself to the deception of covetousness and do
 not respond to the call of greed, for indeed these two [traits] reap
 wretchedness and disgrace.
 
 > 254ـ لاتُمَلِّكْ نَفْسَكَ بِغُرُورِ الطَّمَعِ ولاتُجِبْ دَواعِيَ
-<blockquote dir="rtl">
-  <p>
-الشَّرَهِ فَإنَّهُما يَكْسِبانِكَ الشَّقاءَ والذُّلَّ.
-  </p>
-</blockquote>
+> الشَّرَهِ فَإنَّهُما يَكْسِبانِكَ الشَّقاءَ والذُّلَّ.
 
 255. One who cannot control his [carnal] soul is not safe from [the
 wrath and punishment of] Allah.[^2]
@@ -1850,62 +1410,38 @@ thereby destroying it.
 chastity.
 
 > 260ـ يَنْبَغي لِمَنْ عَرَفَ نَفْسَهُ أنْ يَلْزَمَ القَناعَةَ
-<blockquote dir="rtl">
-  <p>
-والعِفَّةَ.
-  </p>
-</blockquote>
+> والعِفَّةَ.
 
 261. It behoves the one who knows the honour [and value] of his soul to
 purify it from the lowliness of this world.
 
 > 261ـ يَنْبَغي لِمَنْ عَلِمَ شَرَفَ نَفْسِهِ أنْ يُنَزِّهَها عَنْ
-<blockquote dir="rtl">
-  <p>
-دَنائَةِ الدُّنيا.
-  </p>
-</blockquote>
+> دَنائَةِ الدُّنيا.
 
 262. It behoves the one who knows himself not to separate [himself] from
 sadness and caution.
 
 > 262ـ يَنْبَغي لِمَنْ عَرَفَ نَفْسَهُ أنْ يُفارِقَهُ الحُزْنُ
-<blockquote dir="rtl">
-  <p>
-والحَذَرُ.
-  </p>
-</blockquote>
+> والحَذَرُ.
 
 263. It behoves a man to guard his soul, watch over his heart and
 protect his tongue.
 
 > 263ـ يَنْبَغي أنْ يَكُونَ الرَّجُلُ مُهَيْمِناً عَلى نَفْسِهِ،
-<blockquote dir="rtl">
-  <p>
-مُراقِباً قَلْبَهُ حافِظاً لِسانَهُ.
-  </p>
-</blockquote>
+> مُراقِباً قَلْبَهُ حافِظاً لِسانَهُ.
 
 264. It behoves the one who wants to reform himself and protect his
 religion to avoid mingling with people who seek [the wealth and
 pleasures of] this world.
 
 > 264ـ يَنْبَغي لِمَنْ أرادَ صَلاحَ نَفْسِهِ وإحْرازَ دينِهِ أنْ
-<blockquote dir="rtl">
-  <p>
-يَجْتَنِبَ مُخالَطَةَ أبْناءِالدُّنْيا.
-  </p>
-</blockquote>
+> يَجْتَنِبَ مُخالَطَةَ أبْناءِالدُّنْيا.
 
 265. It behoves the one who knows himself not to be separated from
 caution and regret out of fear of falling into error.
 
 > 265ـ يَنْبَغي لِمَنْ عَرَفَ نَفْسَهُ أنْ لايُفارِقَهُ الحَذَرُ
-<blockquote dir="rtl">
-  <p>
-وَالنَّدَمُ خَوْفاً أنْ تَزِلَّ بِهِ القَدَمُ.
-  </p>
-</blockquote>
+> وَالنَّدَمُ خَوْفاً أنْ تَزِلَّ بِهِ القَدَمُ.
 
 266. How befitting it is for a person to have a fixed time, when he is
 not distracted by anything, in which he holds his soul to account and
@@ -1913,34 +1449,22 @@ looks at what he has earned for and against it in its night-time and
 daytime.
 
 > 266ـ ما أحَقَّ الإنْسانَ أنْ تَكُونَ لَهُ ساعَةٌ لايَشْغَلُهُ عَنْها
-<blockquote dir="rtl">
-  <p>
-شاغِلٌ يُحاسِبُ فيها نَفْسَهُ فَيَنْظُرَ فيمَا اكْتَسَبَ لَها
-وعَلَيْها في لَيْلِها ونَهارِها.
-  </p>
-</blockquote>
+> شاغِلٌ يُحاسِبُ فيها نَفْسَهُ فَيَنْظُرَ فيمَا اكْتَسَبَ لَها
+> وعَلَيْها في لَيْلِها ونَهارِها.
 
 267. None is enviable except the one whose endeavour is [to purify] his
 soul and who does not neglect to regularly hold it to account, demand
 answers from it and struggle against it.
 
 > 267ـ مَا المَغْبُوطُ إلاّ مَنْ كانَتْ هِمَّتُهُ نَفْسَهُ لايُغِبُّها
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحاسَبَتِها وَمُطالَبَتِها ومُجاهَدَتِها.
-  </p>
-</blockquote>
+> عَنْ مُحاسَبَتِها وَمُطالَبَتِها ومُجاهَدَتِها.
 
 268. A person’s rebuking [and finding fault with] his own soul is
 evidence of the soundness of his intellect and the symbol of his
 abundant merit.
 
 > 268ـ إزْراءُ الرَّجُلِ عَلى نَفْسِهِ بُرهانُ رَزانَةِ عَقْلِهِ،
-<blockquote dir="rtl">
-  <p>
-وعُنْوانُ وُفُورُ فَضْلِهِ.
-  </p>
-</blockquote>
+> وعُنْوانُ وُفُورُ فَضْلِهِ.
 
 269. The greatest mastery is mastery over the soul.
 
@@ -1952,55 +1476,35 @@ all these by delaying the initiation of any action and refraining from
 using force until your rage subsides and you recover your senses.
 
 > 270ـ اِمْلِكْ حَمِيَّةَ نَفْسِكَ، وسَوْرَةَ غَضَبِكَ، وَسَطْوَةَ
-<blockquote dir="rtl">
-  <p>
-يَدِكَ، وغَرْبَ لِسانِكَ، واحْتَرِسْ في ذلِكَ كُلِّهِ بِتَأخِيرِ
-البادِرَةِ، وكَفِّ السَّطْوَةِ، حَتّى يَسْكُنَ غَضَبُكَ، ويَثُوبَ
-إلَيْكَ عَقْلُكَ.
-  </p>
-</blockquote>
+> يَدِكَ، وغَرْبَ لِسانِكَ، واحْتَرِسْ في ذلِكَ كُلِّهِ بِتَأخِيرِ
+> البادِرَةِ، وكَفِّ السَّطْوَةِ، حَتّى يَسْكُنَ غَضَبُكَ، ويَثُوبَ
+> إلَيْكَ عَقْلُكَ.
 
 271. Take control over your vain desires and the distress of your soul,
 for indeed the distress of the soul lies in acting equitably in [both]
 the things which it loves and [in those which it] hates.
 
 > 271ـ اِمْلِكْ عَلَيْكَ هَواكَ وشَجى نَفْسِكَ، فَإنَّ شَجَى النَّفْسِ
-<blockquote dir="rtl">
-  <p>
-اَلإنْصافُ مِنْها فيما أحَبَّتْ وكَرِهَتْ.
-  </p>
-</blockquote>
+> اَلإنْصافُ مِنْها فيما أحَبَّتْ وكَرِهَتْ.
 
 272. The one who keeps his soul steadfast against the temptations of
 worldly pleasures is a master [over it] and the one who neglects it is
 destroyed.
 
 > 272ـ ضابِطُ نَفْسِهِ عَنْ دَواعِي اللَّذّاتِ مالِكٌ وَمُهْمِلُها
-<blockquote dir="rtl">
-  <p>
-هالِكٌ.
-  </p>
-</blockquote>
+> هالِكٌ.
 
 273. Self-restraint during times of anger saves one from situations that
 lead to harm.
 
 > 273ـ ضَبْطُ النَّفْسِ عِنْدَ حادِثِ الغَضَبِ يُؤْمِنُ مَواقِعَ
-<blockquote dir="rtl">
-  <p>
-العَطَبِ.
-  </p>
-</blockquote>
+> العَطَبِ.
 
 274. Self-restraint during desire and fear is from the most excellent
 etiquette.
 
 > 274ـ ضَبْطُ النَّفْسِ عِنْدَ الرَّغَبِ والرَّهَبِ مِنْ أفْضَلِ
-<blockquote dir="rtl">
-  <p>
-الأدَبِ.
-  </p>
-</blockquote>
+> الأدَبِ.
 
 275. Every person who relies on himself [instead of Allah] is thrown
 [into destruction].
@@ -2017,5 +1521,4 @@ this for others to do after your death.
 
 [^2]: Or: One who cannot control his [carnal] soul does not submit to
 Allah.
-
 

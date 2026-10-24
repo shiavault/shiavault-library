@@ -504,4 +504,3 @@ were confused. There is no power save in Allah, the Almighty!
 
 [^46]: Refer to at-Tafseer al-Kabeer by ar-Razi, vol.1 p.106-107.
 
-

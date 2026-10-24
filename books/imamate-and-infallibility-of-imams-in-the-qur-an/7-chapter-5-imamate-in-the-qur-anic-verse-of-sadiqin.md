@@ -1,12 +1,8 @@
 Chapter 5: Imamate in the Qur’anic Verse of Sadiqin
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-﴿ يا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَ كُونُوا مَعَ
-الصَّادِقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ يا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَ كُونُوا مَعَ
+> الصَّادِقِينَ ﴾
 
 ***“O you who believe! Be careful of (your duty towards) Allah and be
 with the truthful”. (9:119)***
@@ -87,31 +83,19 @@ Examples of Qur’anic Usage of the Word Sidq
 In the Holy Qur’an, we can find verses in which “*sidq*” is used as an
 adjective of things which are irrelevant to speech. Such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ بَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ
-رَبِّهِمْ﴾
-  </p>
-</blockquote>
+> ﴿وَ بَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ
+> رَبِّهِمْ﴾
 
 a) **“*****… and give good news to those who believe that they have a
 sure footing with their Lord*****”*****. (10:2)***
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ لَقَدْ بَوَّأْنا بَنِي إِسْرائِيلَ مُبَوَّأَ صِدْقٍ﴾
-  </p>
-</blockquote>
+> ﴿وَ لَقَدْ بَوَّأْنا بَنِي إِسْرائِيلَ مُبَوَّأَ صِدْقٍ﴾
 
 b) **“*****… and we settled the children of Israel in a sure
 settlement*****”*****. (10:93)***
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ قُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَ أَخْرِجْنِي مُخْرَجَ
-صِدْقٍ﴾
-  </p>
-</blockquote>
+> ﴿وَ قُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَ أَخْرِجْنِي مُخْرَجَ
+> صِدْقٍ﴾
 
 c) **“*****…and say: My Lord! Lead me in with a just ingoing and lead me
 out with a just outgoing*****”*****. (17:80)***
@@ -121,11 +105,7 @@ this verse either function as adverbs of place for entering and leaving,
 or infinitives meaning *to lead* in and *to lead out.* They are,
 nevertheless, irrelevant to speech.
 
-<blockquote dir="rtl">
-  <p>
-﴿فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ﴾
-  </p>
-</blockquote>
+> ﴿فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ﴾
 
 d) **“*****In a sure abode, in the presence of a King
 Omnipotent*****”.** ***(54:55)***
@@ -470,5 +450,4 @@ wan–Nashr, Institute Beirut; Kamal al-Deen, p. 264; Bihar al-Anwar, vol.
 33, p. 149; al-Misbah al-Hidaya, p. 91, Salman al-Farsi.
 
 [^7]: – Jami’ al-Bayan, vol. 11, p. 46
-
 

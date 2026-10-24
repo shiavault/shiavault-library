@@ -184,4 +184,3 @@ be called consensus?'" Shaykh Muhammad ‘Abdoh has made two comments on
 these verses summarizing what Ibn Abul-Hadid has said while explaining
 them.
 
-

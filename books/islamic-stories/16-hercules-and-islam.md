@@ -87,4 +87,3 @@ waging wars, nor did he compel people to accept Islam by the force of
 the sword. He fought only in defence, and only when the enemies waged
 war on him.
 
-

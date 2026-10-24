@@ -70,4 +70,3 @@ The camel stopped in front of the House of Abu Ayyub Ansari. This is the
 first house in Medina where the Prophet (SAW) stayed. The house has been
 demolished and (now stands) in it’s place the ‘Court of Justice’.
 
-

@@ -13,4 +13,3 @@ closed jail in a confinement near the mosque or inside the castle, and
 he tightened the security around them so that no one would dare enter
 their prison.
 
-

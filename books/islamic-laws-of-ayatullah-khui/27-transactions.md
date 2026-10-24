@@ -2540,4 +2540,3 @@ that if it perishes he will give him compensation for it he cannot
 demand from the person who gave the property on loan the compensation
 which he gives to the owner of the property.
 
-

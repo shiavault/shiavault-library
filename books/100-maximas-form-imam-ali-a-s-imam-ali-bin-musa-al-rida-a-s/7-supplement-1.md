@@ -108,4 +108,3 @@ persecuting the faithfid.
 49- He who assesses himself carefully will finally benefit: the
 negligent will lose out.
 
-

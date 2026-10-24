@@ -1,21 +1,17 @@
 Thirty-Ninth Hadith: Good And Evil
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى رُكْنِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
-الكُلَيْنِي رِضْوَانُ اللهِ عَلَيْهِ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا
-عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنِ ابْنِ مَحْبُوبٍ
-وَعَلِيِّ بْنِ الحَكَمِ عَنْ مُعَاوِيَةَ بْنِ وَهَبٍ قَالَ: سَمِعْتُ
-أبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: إنَّ مِمَّا أَوْحَى اللهُ
-إلَى مُوسَى عَلَيْهِ السَّلامُ وَأَنْزَلَ عَلَيْهِ فِي التَّوْرَاةِ:
-إنِّي أنَا اللهُ لا إلَهَ إلاّ أَنَا، خَلَقْتُ الخَلْقَ وَخَلَقْتُ
-الخَيْرَ وَأَجْرَيْتُهُ عَلَى يَدَيْ مَنْ أُحِبُّ. فَطُوبَى لِمَنْ
-أَجْرَيْتُهُ عَلَى يَدَيْهِ. وَأَنَا اللهُ لا إلَهَ إلاّ أنَا خَلَقْتُ
-الخَلْقَ وَخَلَقْتُ الشَّرَّ وَأَجْرَيْتُهُ عَلَى يَدَيْ مَنْ
-أُرِيدُهُ، فَوَيْلٌ لِمَنْ أَجْرَيْتُهُ عَلَى يَدَيْهِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى رُكْنِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
+> الكُلَيْنِي رِضْوَانُ اللهِ عَلَيْهِ عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا
+> عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنِ ابْنِ مَحْبُوبٍ
+> وَعَلِيِّ بْنِ الحَكَمِ عَنْ مُعَاوِيَةَ بْنِ وَهَبٍ قَالَ: سَمِعْتُ
+> أبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: إنَّ مِمَّا أَوْحَى اللهُ
+> إلَى مُوسَى عَلَيْهِ السَّلامُ وَأَنْزَلَ عَلَيْهِ فِي التَّوْرَاةِ:
+> إنِّي أنَا اللهُ لا إلَهَ إلاّ أَنَا، خَلَقْتُ الخَلْقَ وَخَلَقْتُ
+> الخَيْرَ وَأَجْرَيْتُهُ عَلَى يَدَيْ مَنْ أُحِبُّ. فَطُوبَى لِمَنْ
+> أَجْرَيْتُهُ عَلَى يَدَيْهِ. وَأَنَا اللهُ لا إلَهَ إلاّ أنَا خَلَقْتُ
+> الخَلْقَ وَخَلَقْتُ الشَّرَّ وَأَجْرَيْتُهُ عَلَى يَدَيْ مَنْ
+> أُرِيدُهُ، فَوَيْلٌ لِمَنْ أَجْرَيْتُهُ عَلَى يَدَيْهِ.
 
 With my chain of authorities reaching up to the august shaykh, the
 Pillar of Islam, Muhammad ibn Ya’qub al-Kulayni (R) from several of our
@@ -62,11 +58,7 @@ every manifestation is the worship of the Absolutely Perfect Being and
 that man is a seeker of absolute beauty in accordance with his God-given
 *fitrat* (innate nature):
 
-<blockquote dir="rtl">
-  <p>
-﴿فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾
-  </p>
-</blockquote>
+> ﴿فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾
 
 (***It is***) ***the nature*** (***framed***) ***of Allah in which He
 hath created man.*** (***30:30***)
@@ -80,11 +72,7 @@ reference to Divine Unity at the plane of Act (*tawhid al-af’ali*)*,*
 which has been expressed on the tongue of the great sages by their
 saying:
 
-<blockquote dir="rtl">
-  <p>
-لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
-  </p>
-</blockquote>
+> لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
 
 No one is effective in the realm of existence except God.
 
@@ -303,12 +291,8 @@ and other things in relation to Divine providence leas the position of
 something that is subordinate and a by-product. To the first position
 refers God’s statement in the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
-سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
-  </p>
-</blockquote>
+> ﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
+> سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
 
 ***Whatever of good befalleth thee*** (***O man***)***, it is from
 Allah, and whatever or ill befalleth thee it is from thyself.*** (***4:
@@ -316,11 +300,7 @@ Allah, and whatever or ill befalleth thee it is from thyself.*** (***4:
 
 And the second position is referred to in the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
 
 ***Say*** (***O Muhammad***)***: Everything is from God.*** (***4:78***)
 
@@ -494,11 +474,7 @@ are more worthy of your vices than Me.[^12]
 Reference was made to this tradition earlier and here we will refrain
 from repeating that which has already been mentioned.
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
-  </p>
-</blockquote>
+> وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
 
 And Praise is God’s, in the beginning and the end.
 
@@ -548,5 +524,4 @@ follows: عِنِ الرِّضَا عَلَيْهِ السَّلامُ… قَا
 مِنِّي. From al-Rida (A)… He said, “God said: O son of Adam! I am more
 worthy of your virtues than yourself and you are more worthy of your
 vices than Me.”
-
 

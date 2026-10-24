@@ -62,4 +62,3 @@ Article 139
 A Sheep of atonement should be used completely by poor persons and Hajji
 can use none of that.
 
-

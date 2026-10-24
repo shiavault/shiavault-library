@@ -99,4 +99,3 @@ Ibn ‘Asākir related it from Sa‘d also in*Tārīkh Dimashq al-kabīr*
 Haythamī,*Majma‘-uz-zawā’id* (9:106); Ibn ‘Asākir,*Tārīkh Dimashq
 al-kabīr* (45:179); and Hindī in*Kanz-ul-‘ummāl* (13:138, 139 \# 36437).
 
-

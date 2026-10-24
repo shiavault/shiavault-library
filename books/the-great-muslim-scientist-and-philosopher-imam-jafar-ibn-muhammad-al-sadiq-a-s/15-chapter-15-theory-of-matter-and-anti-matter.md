@@ -20,4 +20,3 @@ Just as uranium was used for exploding an atomic bomb, helium would be
 used for exploding matter with anti-matter. Russian scientists have
 already obtained anti-matter of helium.
 
-

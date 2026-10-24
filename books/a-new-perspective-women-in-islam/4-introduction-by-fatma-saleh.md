@@ -121,4 +121,3 @@ Fatma Saleh
  The Month of Ramadan 1421/ November 2000  
  Los Angeles, CA-USA
 
-

@@ -14,4 +14,3 @@ Seeing al-Husayn's head, Mukhtar said with pain:
 
 Then he thought about a revolution to punish the criminals.
 
-

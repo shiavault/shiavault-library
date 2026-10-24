@@ -390,4 +390,3 @@ Baghdad (Egypt: Matba‘ah as-Sa‘adah, 1349 AH), vol. 8, p. 467.
 
 [^14]: Ibn Nadim, Al-Fihrist (Beirut: Dar al-Ma‘rifah, n.d.), p. 160.
 
-

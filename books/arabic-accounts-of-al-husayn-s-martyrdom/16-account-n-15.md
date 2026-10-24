@@ -38,7 +38,7 @@ al-Kalbi is authentic.
 
 **Notes:**
 
-[^63] Ibn A\`tham, Kitab al-Futuh (Hyderabad, 1971), IV, 209-10. The
+[^63]: Ibn A\`tham, Kitab al-Futuh (Hyderabad, 1971), IV, 209-10. The
 whole narrative is IV, 209-24, and V, 8-252.
-[^64] Abu al-Faraj al-Isfahani, op. cit., pp. 51-81.
+[^64]: Abu al-Faraj al-Isfahani, op. cit., pp. 51-81.
 

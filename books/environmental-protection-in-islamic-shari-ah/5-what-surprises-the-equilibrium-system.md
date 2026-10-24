@@ -15,4 +15,3 @@ and destroyed the cactus.
 
 Therefore, this is how this criterion and balance was changed.”7
 
-

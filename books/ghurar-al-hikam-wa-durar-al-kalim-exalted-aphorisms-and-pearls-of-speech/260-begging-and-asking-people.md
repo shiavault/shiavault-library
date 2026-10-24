@@ -9,22 +9,14 @@ humbled slave, takes away the radiance of one’s face and wipes out one’s
 sustenance.
 
 > 1ـ السُّؤالُ يُضْعِفُ لِسانَ المُتَكَلِّمِ، ويَكْسِرُ قَلْبَ الشُّجاعِ
-<blockquote dir="rtl">
-  <p>
-البَطَلِ، وَيُوقِفُ الحُرَّ العَزيْزِ مَوْقِفَ العَبْدِ الذَّليلِ،
-ويُذْهِبُ بَهاءَ الوَجْهِ، ويَمْحَقُ الرِّزْقَ.
-  </p>
-</blockquote>
+> البَطَلِ، وَيُوقِفُ الحُرَّ العَزيْزِ مَوْقِفَ العَبْدِ الذَّليلِ،
+> ويُذْهِبُ بَهاءَ الوَجْهِ، ويَمْحَقُ الرِّزْقَ.
 
 2. Begging is the collar of humiliation, it takes the honour away from
 the honourable and the stature away from the noble.
 
 > 2ـ المَسْئَلَةُ طَوْقُ المَذَلَّةِ، تَسْلُبُ العَزيزَ عِزَّهُ،
-<blockquote dir="rtl">
-  <p>
-والحَسيبَ حَسَبَهُ.
-  </p>
-</blockquote>
+> والحَسيبَ حَسَبَهُ.
 
 3. Humiliation [and disgrace] is in asking from people.
 
@@ -48,11 +40,7 @@ that which is feasible.
 long after the negative consequences [of your asking] have ended.
 
 > 7ـ لِيَكُنْ مَسْألَتُكَ ما يَبْقى لَكَ جَمالُهُ ويُنْفى عَنْكَ
-<blockquote dir="rtl">
-  <p>
-وَبالُهُ.
-  </p>
-</blockquote>
+> وَبالُهُ.
 
 8. One who asks properly is aided.
 
@@ -85,21 +73,13 @@ deprived.
 asking you, then preserve your honour by not turning him away.
 
 > 14ـ مَنْ لَمْ يَصُنْ وَجْهَهُ عَنْ مَسْألَتِكَ فَأكْرِمْ وَجْهَكَ عَنْ
-<blockquote dir="rtl">
-  <p>
-رَدِّهِ.
-  </p>
-</blockquote>
+> رَدِّهِ.
 
 15. Your countenance is like frozen water that is melted by asking; so
 [be careful and] consider whose presence you are melting it in.
 
 > 15ـ وَجْهُكَ ماءٌ جامِدٌ يُقَطِّرُهُ السُّؤالُ، فَانْظُرْ عِنْدَ مَنْ
-<blockquote dir="rtl">
-  <p>
-تُقَطِّرُهُ.
-  </p>
-</blockquote>
+> تُقَطِّرُهُ.
 
 16. Do not ask the one from whom you fear deprival.
 
@@ -127,44 +107,28 @@ ignorant out of desperation.
 than the asker is [in need] of that which he takes from you.
 
 > 21ـ إنَّكُمْ إلى إجْراءِ (جَزاءِ) ما أعْطَيْتُمْ أشَدُّ حاجَةً مِنَ
-<blockquote dir="rtl">
-  <p>
-السَّائِلِ إلى ما أخَذَ مِنْكُمْ.
-  </p>
-</blockquote>
+> السَّائِلِ إلى ما أخَذَ مِنْكُمْ.
 
 22. Verily you will gain more joy by [the reward of] what you have given
 than the one who seeks from you gains in what he has received from you.
 
 > 22ـ إنَّكُمْ أغْبَطُ بِما بَذَلْتُمْ مِنَ الرَّاغِبِ إلَيْكُمْ فيما
-<blockquote dir="rtl">
-  <p>
-وَصَلَهُ مِنْكُمْ.
-  </p>
-</blockquote>
+> وَصَلَهُ مِنْكُمْ.
 
 23. Give the beggar before he asks, for indeed if you make it necessary
 for him to ask, then you will have taken from his dignity that which is
 greater than what you have given him.
 
 > 23ـ اِبْدأِ السّائِلَ بِالنَّوالِ قَبْلَ السُّؤالِ، فَإنَّكَ إنْ
-<blockquote dir="rtl">
-  <p>
-أحْوَجْتَهُ إلى سُؤالِكَ أخَذْتَ مِنْ حُرِّ وَجْهِهِ أفْضَلَ مِمّا
-أعْطَيْتَهُ.
-  </p>
-</blockquote>
+> أحْوَجْتَهُ إلى سُؤالِكَ أخَذْتَ مِنْ حُرِّ وَجْهِهِ أفْضَلَ مِمّا
+> أعْطَيْتَهُ.
 
 24. Give your wealth generously to the one who has sacrificed his
 self-respect for you, for indeed the sacrificing of self-respect cannot
 be matched by anything.
 
 > 24ـ أُبْذُلْ مالَكَ لِمَنْ بَذَلَ لَكَ وَجْهَهُ، فَإنَّ بَذْلَ
-<blockquote dir="rtl">
-  <p>
-الوَجْهِ لايُوازِيهِ شَيْءٌ.
-  </p>
-</blockquote>
+> الوَجْهِ لايُوازِيهِ شَيْءٌ.
 
 25. Give generously when you are asked.
 
@@ -183,15 +147,10 @@ harder than death.
 extent of one’s need, even if it is great and even if it is granted.
 
 > 28ـ بَذْلُ ماءِ الوَجْهِ فِي الطَّلَبِ أعْظَمُ مِنْ قَدْرِ الحاجَةِ
-<blockquote dir="rtl">
-  <p>
-وإنْ عَظُمَتْ وَأُنْجِحَ فيهَا الطَّلَبُ.
-  </p>
-</blockquote>
+> وإنْ عَظُمَتْ وَأُنْجِحَ فيهَا الطَّلَبُ.
 
 29. Sacrificing one’s dignity in front of the wicked is the greatest
 death.
 
 > 29 ـ بَذْلُ الوَجْهِ إلَى اللِّئامِ اَلمَوْتُ الأكْبَـرُ.
-
 

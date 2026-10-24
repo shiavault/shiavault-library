@@ -170,4 +170,3 @@ an error which is rendered against himself."
 And May Allah bless Muhamamad and his pure progeny and send them
 peaceful greetings.
 
-

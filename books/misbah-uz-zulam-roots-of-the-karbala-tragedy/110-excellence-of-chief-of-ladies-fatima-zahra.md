@@ -242,4 +242,3 @@ who has said: “Poverty is my pride,” should not go without food?
 
 [^15]: Pg. 422
 
-

@@ -171,7 +171,5 @@ are interested to have a look over them, would have to page through this
 book. We hope that this short essay would have opened a new window to
 this precious book, for the respected researchers.
 
-
 Abdul Hussein Taleie, (Iran)
-
 

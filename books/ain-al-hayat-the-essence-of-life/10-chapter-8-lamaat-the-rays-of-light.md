@@ -599,12 +599,8 @@ raiment and wore fragrant perfume. He was astride a high quality steed.
 The Dissenters protested, “O Abdallah! Why are you dressed like the
 despots?” In reply Abdallah recited this verse from the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ
-وَالطَّيِّبَاتِ مِنْ الرِّزْقِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ
+> وَالطَّيِّبَاتِ مِنْ الرِّزْقِ.﴾
 
 ***“Adornment with Halal and pure earning is not Haram (taboo)”***
 **(7:32)**
@@ -1115,12 +1111,8 @@ Witness (*la ilaha il Allah, Muhammad Rasool Allah)* and spreads the
 word of Allah is superior to any other prayer. ThereforeAllah has said
 in the Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الصَّلَاةَ تَنْهَى عَنْ الْفَحْشَاءِ وَالْمُنْكَرِ وَلَذِكْرُ
-اللَّهِ أَكْبَرُ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الصَّلَاةَ تَنْهَى عَنْ الْفَحْشَاءِ وَالْمُنْكَرِ وَلَذِكْرُ
+> اللَّهِ أَكْبَرُ.﴾
 
 ***“No doubt salat prevents from bad deeds and unsavory acts, but
 spreading Allah’s word (Dhikr) is superior.”*** **(29:45*****)***
@@ -1405,5 +1397,4 @@ I shall frighten him on the Day of Judgement!’
 The innumerable admonitions and advises that the Prophet (S) made to Abu
 Dharr have some lessons for the people. These are dealt at some length
 in the next chapter.
-
 

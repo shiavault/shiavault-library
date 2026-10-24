@@ -335,7 +335,6 @@ titles, "AL-QAYIM" and "AL-MEHDI" were heard from the Prophet's mouth.
 There is no sense in arguing that one title is superior to the other.
 Both belong to one and both were given and pronounced by one.
 
-
 **32. Mahdi Al-Anam The Twelfth Imam**
 
 The writer in this chapter has written what reflects his prejudice or
@@ -478,5 +477,4 @@ progeny of the Prophet, it is a fulfillment of a condition among the
 conditions concomitant with the office of Imamate. As such he should be
 from AHLUL BAIT (from the Prophet's house). This ensures that all his
 doings and deeds will all be in the line of the Prophet (SAW) himself.
-
 

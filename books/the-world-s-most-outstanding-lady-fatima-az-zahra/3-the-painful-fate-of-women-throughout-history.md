@@ -1,12 +1,8 @@
 The Painful Fate of Women throughout History
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله(صلى الله عليه وآله): كانت مريم سيدة نساء زمانها، أمّا
-ابنتي فاطمة فهي سيدة نساء العالمين من الاولين الاخرين
-  </p>
-</blockquote>
+> قال رسول الله(صلى الله عليه وآله): كانت مريم سيدة نساء زمانها، أمّا
+> ابنتي فاطمة فهي سيدة نساء العالمين من الاولين الاخرين
 
 The Holy Prophet (S)said: “Maryam was the Lady of the women of her time,
 but my daughter Fatimah is the lady of the whole worlds’ women, from the
@@ -28,11 +24,7 @@ that the children of our daughters are not our children. our children
 are only those of our sons. This Poem has remained from that age for us
 as a reminder of this very belief of theirs:
 
-<blockquote dir="rtl">
-  <p>
-بنونا بنو أبنائنا و بناتنا \*\*\* بنوهن أبناء الرجال الأباعد
-  </p>
-</blockquote>
+> بنونا بنو أبنائنا و بناتنا \*\*\* بنوهن أبناء الرجال الأباعد
 
 *The offspring of our sons are our progeny -and on the other hand the
 offspring of our daughters are the off springs of alien men*.
@@ -72,71 +64,27 @@ which (women) posseses the most superior footing.
  These values are summed up in ten parts;  
  It commands:
 
-<blockquote dir="rtl">
-  <p>
-إن المسلمين والمسلمات
-  </p>
-</blockquote>
+> إن المسلمين والمسلمات
 
-<blockquote dir="rtl">
-  <p>
-والمؤمنين والمؤمنات
-  </p>
-</blockquote>
+> والمؤمنين والمؤمنات
 
-<blockquote dir="rtl">
-  <p>
-والقانتين والقانتات
-  </p>
-</blockquote>
+> والقانتين والقانتات
 
-<blockquote dir="rtl">
-  <p>
-والصادقين والصادقات
-  </p>
-</blockquote>
+> والصادقين والصادقات
 
-<blockquote dir="rtl">
-  <p>
-والصابرين والصابرات
-  </p>
-</blockquote>
+> والصابرين والصابرات
 
-<blockquote dir="rtl">
-  <p>
-والخاشعين والخاشعات
-  </p>
-</blockquote>
+> والخاشعين والخاشعات
 
-<blockquote dir="rtl">
-  <p>
-والمتصدقين والمتصدقات
-  </p>
-</blockquote>
+> والمتصدقين والمتصدقات
 
-<blockquote dir="rtl">
-  <p>
-والصائمين و الصائمات
-  </p>
-</blockquote>
+> والصائمين و الصائمات
 
-<blockquote dir="rtl">
-  <p>
-والحافظين فروجهم والحافظات
-  </p>
-</blockquote>
+> والحافظين فروجهم والحافظات
 
-<blockquote dir="rtl">
-  <p>
-والذاكرين الله كثيرا والذاكرات
-  </p>
-</blockquote>
+> والذاكرين الله كثيرا والذاكرات
 
-<blockquote dir="rtl">
-  <p>
-أعد اللّه لهم مغفرة و أجرا عظيما
-  </p>
-</blockquote>
+> أعد اللّه لهم مغفرة و أجرا عظيما
 
 ***“Surely the men who submit and the women who submit”***  
 ***“And the believing men and the believing women”***  
@@ -158,11 +106,7 @@ values; in the event that enjoy the same conditions along this course.
 Some are surprised at how Islam has given the right to women to demand a
 salary for suckling her own children:
 
-<blockquote dir="rtl">
-  <p>
-فان أرضعن لكم فاتوهن أجورهن
-  </p>
-</blockquote>
+> فان أرضعن لكم فاتوهن أجورهن
 
 ***“Then if they suckle for you give them their recompense**”*[^4]
 
@@ -187,5 +131,4 @@ detail.
 [^3]: Al-Ahzab 33:35
 
 [^4]: Al-Talaq 65:6
-
 

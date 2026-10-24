@@ -1643,4 +1643,3 @@ proofs has to review the references that we have stated.
 
 [^17]: Al-Saduq, Al-Tawhid, p. 46, hadith 5.
 
-

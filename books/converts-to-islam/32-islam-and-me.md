@@ -3,7 +3,7 @@ Islam and Me
 
 My name is Lyndsey-Yazmeen Koenig; I am 17 years old and I live in Maine
 in the northeastern United States of America. I have been a Muslim since
-September 18<sup>th</sup>, 2001. This is my story of Islam and me.
+September 18th, 2001. This is my story of Islam and me.
 
 Jewish people celebrate Hanukah and are a different religion than us
 different from Christianity. Judaism and Christianity are the two main
@@ -78,7 +78,7 @@ didnt know what it was.
 
 So, how do I convert? I asked Maryam on an early fall day. Take the
 shaada. I took the shaada. Now I am a Muslim. The date is September
-18<sup>th</sup>, 2001. My heart felt full, I felt I have a purpose, life
+18th, 2001. My heart felt full, I felt I have a purpose, life
 inside me to live.
 
 I went to good ol Wal-Mart and bought some plain handkerchiefs blue,

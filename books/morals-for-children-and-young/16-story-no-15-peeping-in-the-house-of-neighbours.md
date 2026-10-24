@@ -14,4 +14,3 @@ not allowed, and what could be more better to pay attention to our
 children and not let them look into others houses without their
 permission.
 
-

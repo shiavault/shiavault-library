@@ -7,4 +7,3 @@ and prominence. In the **second** degree, he holds himself as being
 above contradictions, clearing himself of contemptible attributes and
 foul faculties for this same purpose.
 
-

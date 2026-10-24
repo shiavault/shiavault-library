@@ -212,4 +212,3 @@ means the rectification of what happened in Karbala’. It may refer only
 to the return of the Mahdi. On the other hand, it could well refer to
 the resurrection and reappearance of Imam Husayn.
 
-

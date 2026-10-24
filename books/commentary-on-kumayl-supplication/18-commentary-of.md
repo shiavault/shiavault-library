@@ -1,11 +1,7 @@
 Commentary of:
 ==============
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تَهتِكُ الْعِصَمَ
-  </p>
-</blockquote>
+> اللَّهُمَ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تَهتِكُ الْعِصَمَ
 
 *O Allah, forgive me those sins which tear apart safeguards!*
 
@@ -17,12 +13,8 @@ with Allah and His Prophet (S).
 The sins an individual commits in this world, would result in an an
 eternal fire afflicting the sinner in the Hereafter:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا.
 
 ***“Those who devour the property of orphans unjustly, devour Fire in
 their bellies… (4:10)”***
@@ -90,12 +82,8 @@ If man avoids the major sins and protects himself from polluting his
 humanity, Allah would forgive his other sins and grant him His Mercy and
 Forgiveness:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ
-سَيِّئَاتِكُمْ وَنُدْخِلْكُمْ مُدْخَلاً كَرِيمًا.
-  </p>
-</blockquote>
+> إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ
+> سَيِّئَاتِكُمْ وَنُدْخِلْكُمْ مُدْخَلاً كَرِيمًا.
 
 ***“If you avoid the heinous sins that are forbidden you, We will acquit
 you of evil deeds, and admit you by the gate of honor. (4:31)”***
@@ -135,14 +123,10 @@ the Hereafter.
 
 It is narrated from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-أمَا إنَّهُ لَيْسَ مِنْ عِرْقٍ يَضْرِبُ وَلا نَكْبَةٍ وَلا صُدَاعٍ
-وَلا مَرَضٍ إلا بِذَنْبٍ، وَذلِكَ قَوْلُ اللهِ عَزَّ وَجَلَّ فِي
-كِتَابِهِ: “وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ
-أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ.”
-  </p>
-</blockquote>
+> أمَا إنَّهُ لَيْسَ مِنْ عِرْقٍ يَضْرِبُ وَلا نَكْبَةٍ وَلا صُدَاعٍ
+> وَلا مَرَضٍ إلا بِذَنْبٍ، وَذلِكَ قَوْلُ اللهِ عَزَّ وَجَلَّ فِي
+> كِتَابِهِ: “وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ
+> أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ.”
 
 *No vein is cut, no foot strikes a stone, no trouble is made, no
 sickness is caused except for committing a sin. That's why the Almighty
@@ -151,13 +135,9 @@ what your own hands have earned; and He pardons much. (42:30)’***[^1]
 
 It is also narrated from him:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الرَّجُلَ يُذْنِبُ الذَّنْبَ فَيُحْرَمُ صَلاةَ اللَّيْلِ وَإنَّ
-العَمَلَ السَّيِّءَ أسْرَعُ فِي صَاحِبِهِ مِنَ السِّكِّينِ فِي
-اللَّحْمِ.
-  </p>
-</blockquote>
+> إنَّ الرَّجُلَ يُذْنِبُ الذَّنْبَ فَيُحْرَمُ صَلاةَ اللَّيْلِ وَإنَّ
+> العَمَلَ السَّيِّءَ أسْرَعُ فِي صَاحِبِهِ مِنَ السِّكِّينِ فِي
+> اللَّحْمِ.
 
 *Whenever an individual misses saying his night prayer, he has certainly
 committed a sin. The effect of a sin on the sinner is faster than the
@@ -165,14 +145,10 @@ effect of a knife in meat.*[^2]
 
 It is narrated from Imam al-Ridha (as):
 
-<blockquote dir="rtl">
-  <p>
-أوحَى اللهُ عَزَّ وَجَلَّ إلَي نَبِيٍّ مِنَ الأنْبِيَاءِ: إذَا
-أُطِعْتُ رَضِيتُ، وَإذَا رَضِيتُ بَارَكْتُ، وَلَيْسَ لِبَرَكَتِي
-نِهَايَةٌ، وَإذَا عُصِيتُ غَضِبْتُ، وَإذا غَضِبْتُ لَعَنْتُ،
-وَلَعْنَتِي تَبْلُغُ السَّابِعَ مِنَ الوَرَى.
-  </p>
-</blockquote>
+> أوحَى اللهُ عَزَّ وَجَلَّ إلَي نَبِيٍّ مِنَ الأنْبِيَاءِ: إذَا
+> أُطِعْتُ رَضِيتُ، وَإذَا رَضِيتُ بَارَكْتُ، وَلَيْسَ لِبَرَكَتِي
+> نِهَايَةٌ، وَإذَا عُصِيتُ غَضِبْتُ، وَإذا غَضِبْتُ لَعَنْتُ،
+> وَلَعْنَتِي تَبْلُغُ السَّابِعَ مِنَ الوَرَى.
 
 *The Almighty told one of the Prophets (as) through revelation: If I am
 obeyed, I would be pleased, and if I am pleased, I would give Blessings,
@@ -188,24 +164,20 @@ them, so that they do not become involved in sins and revolt.
 On the instance of committing sins, it is narrated from Amir Al-Mu'minin
 (as):
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ عَبْدٍ إلاَّ وَعَلَيْهِ جُنَّةٌ حَتَّى يَعْمَلَ أرْبَعِينَ
-كَبِيرَةً؛ فَإذَا عَمِلَ أرْبَعِينَ كَبِيرَةً انْكَشَفَتْ عَنْهُ
-الجُنَّةُ، فَيُوحِي اللهُ إلَى المَلائِكَةِ أنْ اسْتُرُوا عَبْدِي
-بِأجْنِحَتِكُمْ، فَتَسْتُرُهُ المَلائِكَةُ بِأجْنِحَتِهَا، (قال) فَمَا
-يَدَعُ شَيْئاً مِنَ القَبِيحِ إلاَّ قَارَفَهُ حَتَّى يَمْتَدِحَ إلَى
-النَّاسِ بِفِعْلِهِ القَبِيحِ، فَتَقُولُ المَلائِكَةُ: يَا رَبِّ، هَذا
-عَبْدُكَ مَا يَدَعُ شَيْئاً إلاَّ رَكِبَهُ وإنَّا لَنَسْتَحْيِي مِمَّا
-يَصْنَعُ. فَيُوحِي اللهُ عَزَّ وَجَلَّ إلَيْهِمْ أن اِرْفَعُوا
-أجْنِحَتَكُمْ عَنْهُ، فَإذا فُعِلَ ذَلِكَ أخَذَ بِبُغْضِنَا أهْلَ
-البَيْتِ فَعِنْدَ ذَلِكَ يَتَهَتَّكُ سِتْرُهُ فِي السَّمَاءِِ
-وَسِتْرُهُ فِي الأرْضِ، فَتَقُولُ المَلائِكَةُ: يَا رَبُّ هَذا
-عَبْدُكَ قَد بَقِيَ مَهْتُوكَ السِّتْرِ. فَيُوحِي اللهُ عَزَّ وَجَلَّ
-إلَيْهِمْ: لَوْ كَانَتْ للهِ فِيهِ حَاجَةٌ مَا أمَرَكُمْ أنْ
-تَرْفَعُوا أجْنِحَتَكُمْ عَنْهُ.
-  </p>
-</blockquote>
+> مَا مِنْ عَبْدٍ إلاَّ وَعَلَيْهِ جُنَّةٌ حَتَّى يَعْمَلَ أرْبَعِينَ
+> كَبِيرَةً؛ فَإذَا عَمِلَ أرْبَعِينَ كَبِيرَةً انْكَشَفَتْ عَنْهُ
+> الجُنَّةُ، فَيُوحِي اللهُ إلَى المَلائِكَةِ أنْ اسْتُرُوا عَبْدِي
+> بِأجْنِحَتِكُمْ، فَتَسْتُرُهُ المَلائِكَةُ بِأجْنِحَتِهَا، (قال) فَمَا
+> يَدَعُ شَيْئاً مِنَ القَبِيحِ إلاَّ قَارَفَهُ حَتَّى يَمْتَدِحَ إلَى
+> النَّاسِ بِفِعْلِهِ القَبِيحِ، فَتَقُولُ المَلائِكَةُ: يَا رَبِّ، هَذا
+> عَبْدُكَ مَا يَدَعُ شَيْئاً إلاَّ رَكِبَهُ وإنَّا لَنَسْتَحْيِي مِمَّا
+> يَصْنَعُ. فَيُوحِي اللهُ عَزَّ وَجَلَّ إلَيْهِمْ أن اِرْفَعُوا
+> أجْنِحَتَكُمْ عَنْهُ، فَإذا فُعِلَ ذَلِكَ أخَذَ بِبُغْضِنَا أهْلَ
+> البَيْتِ فَعِنْدَ ذَلِكَ يَتَهَتَّكُ سِتْرُهُ فِي السَّمَاءِِ
+> وَسِتْرُهُ فِي الأرْضِ، فَتَقُولُ المَلائِكَةُ: يَا رَبُّ هَذا
+> عَبْدُكَ قَد بَقِيَ مَهْتُوكَ السِّتْرِ. فَيُوحِي اللهُ عَزَّ وَجَلَّ
+> إلَيْهِمْ: لَوْ كَانَتْ للهِ فِيهِ حَاجَةٌ مَا أمَرَكُمْ أنْ
+> تَرْفَعُوا أجْنِحَتَكُمْ عَنْهُ.
 
 *There is no servant but there are forty veils of reverence for him,
 until he commits forty major sins. After doing so, Allah reveals to the
@@ -265,14 +237,10 @@ animal, one who has taken it from the porter, one who has sold it, one
 who has bought it, and one who has consumed the money earned in this
 way.
 
-<blockquote dir="rtl">
-  <p>
-يَأتِي شَارِبُ الخَمْرِ يَوْمَ القِيامَةِ مُسْوَدٌّ وَجْهُهُ مُدْلِعاً
-لِسَانَهُ، يَسِيلُ لُعَابُهُ عَلَى صَدْرِهِ، وَحَقَّ عَلَى اللهِ أنْ
-يَسْقِيَهُ مِنْ بِئْرِ خَبَالٍ... بِئْرٍ يَسِيلُ فِيها صَدِيدُ
-الزُّناةِ.
-  </p>
-</blockquote>
+> يَأتِي شَارِبُ الخَمْرِ يَوْمَ القِيامَةِ مُسْوَدٌّ وَجْهُهُ مُدْلِعاً
+> لِسَانَهُ، يَسِيلُ لُعَابُهُ عَلَى صَدْرِهِ، وَحَقَّ عَلَى اللهِ أنْ
+> يَسْقِيَهُ مِنْ بِئْرِ خَبَالٍ... بِئْرٍ يَسِيلُ فِيها صَدِيدُ
+> الزُّناةِ.
 
 *In the Hereafter, the intoxicant drinker enters the Scene of
 Resurrection with his face black, his mouth crooked, and his tongue out
@@ -281,21 +249,13 @@ the impurity of the adulterers is poured.*[^4]
 
 Imam Sadiq (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-شَارِبُ الخَمْرِ كَعابِدِ الوَثَنِ.
-  </p>
-</blockquote>
+> شَارِبُ الخَمْرِ كَعابِدِ الوَثَنِ.
 
 *Drinking intoxicants equals idolization.*[^5]
 
 Imam Baqir (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ شَارِبَ الخَمْرِ يُحْشَرُ كَافِراً وإنَّهُ رَأسُ المَعَاصِي.
-  </p>
-</blockquote>
+> إنَّ شَارِبَ الخَمْرِ يُحْشَرُ كَافِراً وإنَّهُ رَأسُ المَعَاصِي.
 
 *A drinker would be considered as a disbeliever in the Day of
 Resurrection. Intoxicant liquids are the foundation of all sins!*[^6]
@@ -307,15 +267,11 @@ adultery, murder, and he quits prayer!”[^7]
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ شَرِبَ الخَمْرَ بَعدَ مَا حَرَّمَهَا اللهُ عَلَى لِسَانِي
-فَلَيْسَ بِأهْلٍ أنْ يُزَوَّجَ إذَا خَطِبَ وَلا يُشَفَّعَ إذَا شَفَعَ
-ولا يُصَدَّقَ إذَا حَدَّثَ وَلا يُؤْتَمَنَ عَلى أمَانَةٍ؛ فَمَن
-إئْتَمَنَهُ بَعْدَ عِلْمِهِ فَلَيْسَ الَّذِي ائْتَمَنَهُ عَلَى اللهِ
-ضَمَانٌ وَلَيسَ لَهُ أجْرٌ وَلا خَلَفٌ.
-  </p>
-</blockquote>
+> مَنْ شَرِبَ الخَمْرَ بَعدَ مَا حَرَّمَهَا اللهُ عَلَى لِسَانِي
+> فَلَيْسَ بِأهْلٍ أنْ يُزَوَّجَ إذَا خَطِبَ وَلا يُشَفَّعَ إذَا شَفَعَ
+> ولا يُصَدَّقَ إذَا حَدَّثَ وَلا يُؤْتَمَنَ عَلى أمَانَةٍ؛ فَمَن
+> إئْتَمَنَهُ بَعْدَ عِلْمِهِ فَلَيْسَ الَّذِي ائْتَمَنَهُ عَلَى اللهِ
+> ضَمَانٌ وَلَيسَ لَهُ أجْرٌ وَلا خَلَفٌ.
 
 *One who drinks wine after Allah has announced its prohibition to me,
 does not deserve a positive response to his request. The intercession of
@@ -330,12 +286,8 @@ major sin in an relevant tradition.
 
 The holy Qur’an has only considered wine and gambling as major sins:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنْ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
-كَبِيرٌ.
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنْ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
+> كَبِيرٌ.
 
 ***They will question you concerning wine, and arrow-shuffling. Say: In
 both is heinous sin. (2:219)***
@@ -373,11 +325,7 @@ Keeping the honour of Moslems and believers is an important element and
 highly emphasized in Islam, to the extent that in Islamic teachings a
 believer's honour has been considered equal to his blood:
 
-<blockquote dir="rtl">
-  <p>
-عِرْضُ المُؤمِنِ كَدَمِهِ.
-  </p>
-</blockquote>
+> عِرْضُ المُؤمِنِ كَدَمِهِ.
 
 If people were to continuously disgrace one another there would be no
 trust left amongst them. The system of family and society would collapse
@@ -395,13 +343,9 @@ chastisement in the Hereafter.
 
 It is narrated from Imam al-Baqir and Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-أقْرَبُ مَا يَكُونُ العَبْدُ إلَى الكُفْرِ أنْ يُؤاخِيَ الرَّجُلَ
-عَلَى الدِّينِ فَيُحْصِي عَلَيْهِ عَثَراتِهِ وَزَلاَّتِهِ
-لِيُعَنِّفَهُ بِهَا يَوماً ما.
-  </p>
-</blockquote>
+> أقْرَبُ مَا يَكُونُ العَبْدُ إلَى الكُفْرِ أنْ يُؤاخِيَ الرَّجُلَ
+> عَلَى الدِّينِ فَيُحْصِي عَلَيْهِ عَثَراتِهِ وَزَلاَّتِهِ
+> لِيُعَنِّفَهُ بِهَا يَوماً ما.
 
 ***The nearest act to disbelief is to make a religious fraternity with a
 man to remind him of his faults, and then blame him for his
@@ -409,14 +353,10 @@ faults.***[^8]
 
 Imam Sadiq (as) has narrated from the Messenger of Allah (as):
 
-<blockquote dir="rtl">
-  <p>
-يَا مَعْشَرَ مَنْ أسْلَمَ بِلِسَانِهِ وَلَمْ يُخْلِصِ الإيمَانَ إلَى
-قَلْبِهِ! لا تَذُمُّوا المُسْلِمِينَ وَلا تَتَّبِعُوا عَوْراتِهِمْ،
-فإنَّهُ مَنْ تَتَبَّعَ عَوْراتِهِمْ تَتَبَّعَ اللهُ عَوْراتِهِ، وَمَنْ
-تَتَبَّعَ اللهُ تَعَالَى عَوْراتِهِ يَفْضَحْهُ وَلَوْ فِي بَيْتِهِ.
-  </p>
-</blockquote>
+> يَا مَعْشَرَ مَنْ أسْلَمَ بِلِسَانِهِ وَلَمْ يُخْلِصِ الإيمَانَ إلَى
+> قَلْبِهِ! لا تَذُمُّوا المُسْلِمِينَ وَلا تَتَّبِعُوا عَوْراتِهِمْ،
+> فإنَّهُ مَنْ تَتَبَّعَ عَوْراتِهِمْ تَتَبَّعَ اللهُ عَوْراتِهِ، وَمَنْ
+> تَتَبَّعَ اللهُ تَعَالَى عَوْراتِهِ يَفْضَحْهُ وَلَوْ فِي بَيْتِهِ.
 
 ***O You who have embraced Islam verbally but not whole-heartedly! Do
 not blame Muslims and chase their faults! Because anyone who chases
@@ -442,12 +382,8 @@ which would deprive them from Allah's Mercy.
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَنْبَغِي لِلمُؤمِنِ أنْ يَجْلِسَ مَجْلِساً يُعْصَى اللهُ فِيهِ
-وَلا يَقْدِرُ عَلى تَغْيِيرِهِ.
-  </p>
-</blockquote>
+> لاَ يَنْبَغِي لِلمُؤمِنِ أنْ يَجْلِسَ مَجْلِساً يُعْصَى اللهُ فِيهِ
+> وَلا يَقْدِرُ عَلى تَغْيِيرِهِ.
 
 ***It is not deserved for a believer to attend a circle in which Allah
 is disobeyed, and he is not able to prevent it.***[^9]
@@ -473,24 +409,16 @@ wrongdoers would have no safety.”[^10]
 
 The Commander of Believers (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يُؤمِنُ باللهِ وَاليَوْمِ الآخِرِ فَلا يَقُومُ مَكَانَ
-رِيبَةٍ.
-  </p>
-</blockquote>
+> مَنْ كَانَ يُؤمِنُ باللهِ وَاليَوْمِ الآخِرِ فَلا يَقُومُ مَكَانَ
+> رِيبَةٍ.
 
 ***Anyone who believes in Allah and the Day of Resurrection*** ***would
 not stand in a doubtful and accusing position.***[^11]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَعَدَ عِنْدَ سَبَّابٍ لأوْلِيَاءِ اللهِ فَقَدْ عَصَى اللهَ
-تَعالى.
-  </p>
-</blockquote>
+> مَنْ قَعَدَ عِنْدَ سَبَّابٍ لأوْلِيَاءِ اللهِ فَقَدْ عَصَى اللهَ
+> تَعالى.
 
 ***One who accompanies those who curse Allah's friends, have certainly
 disobeyed Allah.***[^12]
@@ -509,11 +437,7 @@ the temptations of the apparent and hidden Satans, and pollutes himself
 with sins, he has torn off these veils and hindrances, making way for
 calamities and chastisements.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تُنْزِلُ النِّقَمَ
-  </p>
-</blockquote>
+> اللَّهُمَ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تُنْزِلُ النِّقَمَ
 
 *O Allah! Forgive me for the sins which bring down adversities!*
 
@@ -533,41 +457,25 @@ The Arabic word “baghy” means trespassing against Allah and His Rules,
 violating people’s rights, corruption, wrongdoing, and adultery. It is
 used in all its meanings in Qur’anic verses:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ قَارُونَ كَانَ مِنْ قَوْمِ مُوسَى فَبَغَى عَلَيْهِمْ.
-  </p>
-</blockquote>
+> إِنَّ قَارُونَ كَانَ مِنْ قَوْمِ مُوسَى فَبَغَى عَلَيْهِمْ.
 
 ***Now Korah was of Moses folk, but he oppressed them… (28:76)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الأَرْضِ.
-  </p>
-</blockquote>
+> وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الأَرْضِ.
 
 ***And if Allah were to enlarge the provision for His slaves they would
 surely rebel in the earth… (42:27***
 
-<blockquote dir="rtl">
-  <p>
-يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ
-أُمُّكِ بَغِيًّا.
-  </p>
-</blockquote>
+> يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ
+> أُمُّكِ بَغِيًّا.
 
 ***O sister of Aaron, thy father was not a wicked man, nor was thy
 mother a woman unchaste. (19:28)***
 
 The Messenger of Allah (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أسْرَعَ الخَيْرِ ثَواباً البِرُّ، وَإنَّ أسْرَعَ الشَّرِّ عِقاباً
-البَغْيُ.
-  </p>
-</blockquote>
+> إنَّ أسْرَعَ الخَيْرِ ثَواباً البِرُّ، وَإنَّ أسْرَعَ الشَّرِّ عِقاباً
+> البَغْيُ.
 
 ***Surely the righteousness that is rewarded the fastest is generosity
 to people, and the wrongdoing that is chastised the fastest is
@@ -575,12 +483,8 @@ oppressing people.***[^15]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-سِتَّةٌ لا تَكُونُ فِي المُؤمِنِ: العُسْرُ وَالنَّكَدُ وَاللَّجَاجَةُ
-وَالكَذِبُ وَالحَسَدُ وَالبَغْيُ.
-  </p>
-</blockquote>
+> سِتَّةٌ لا تَكُونُ فِي المُؤمِنِ: العُسْرُ وَالنَّكَدُ وَاللَّجَاجَةُ
+> وَالكَذِبُ وَالحَسَدُ وَالبَغْيُ.
 
 ***A believer does not possess six attributes: weakness and
 incompetence, stinginess, obstinacy, lying, jealousy, and violation of
@@ -618,13 +522,9 @@ Mocking people is, in fact, insulting their personality and belittling
 them. The Holy Qur’an considers the mockers as hypocrites, oppressors,
 and corruptors.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَى
-شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ
-مُسْتَهْزِئُونَ.
-  </p>
-</blockquote>
+> وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَى
+> شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ
+> مُسْتَهْزِئُونَ.
 
 ***When they meet those who believe, they say ‘We believe,’ but when
 they go privately to their Satans, they say ‘We are with you; we were
@@ -632,11 +532,7 @@ only mocking.’ (2:14)***
 
 The Messenger of Allah (S) said: The Almighty stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أهَانَ لِي وَلِيّاً فَقَدْ أرْصَدَ لِمُحَارَبَتِي.
-  </p>
-</blockquote>
+> مَنْ أهَانَ لِي وَلِيّاً فَقَدْ أرْصَدَ لِمُحَارَبَتِي.
 
 ***Anyone who insults a friend of Mine has indeed set out to fight
 Me!***[^17]
@@ -651,11 +547,7 @@ ordered to be taken to the Hell.***
 
 Also the Messenger of Allah (S) said: Allah has stated:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ نَابَذَنِي مَنْ أذَلَّ عَبْدِيَ المُؤمِنَ.
-  </p>
-</blockquote>
+> قَدْ نَابَذَنِي مَنْ أذَلَّ عَبْدِيَ المُؤمِنَ.
 
 ***One who humbles My believer servant has obviously begun a war with
 Me!***[^18]
@@ -678,52 +570,32 @@ people, commerce, or other rightful businesses, is a religious and
 ethical obligation, and breaking it is unlawful and doomed to Allah’s
 punishment.
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ.
-  </p>
-</blockquote>
+> وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ.
 
 ***Fulfill Allah’s covenant, when you make covenant. (16:91)***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ
-وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي
-الأَرْضِ أُوْلَئِكَ هُمْ الْخَاسِرُونَ.
-  </p>
-</blockquote>
+> الَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ
+> وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي
+> الأَرْضِ أُوْلَئِكَ هُمْ الْخَاسِرُونَ.
 
 ***Those who break the covenant of Allah after ratifying it and sever
 that which Allah ordered to be joined, and make mischief in the earth:
 Those are they who are the losers. (2:27)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْئُولاً.
-  </p>
-</blockquote>
+> وَأَوْفُوا بِالْعَهْدِ إِنَّ الْعَهْدَ كَانَ مَسْئُولاً.
 
 ***…And keep the covenant; surely the covenant shall be questioned of.
 (17:34)***
 
-<blockquote dir="rtl">
-  <p>
-يأَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ.
-  </p>
-</blockquote>
+> يأَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ.
 
 ***O believers, fulfill your bonds… (5:1)***
 
 The Messenger of Allah (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ مَنْ كُنَّ فِيهِ كَانَ مُنافِقاً وإنْ صَامَ وَصَلَّى وَزَعَمَ
-أنَّهُ مُسْلِمٌ: مَن إذَا اؤتُمِنَ خَانَ، وإذَا حَدَّثَ كَذِبَ، وإذَا
-وَعَدَ أخْلَفَ.
-  </p>
-</blockquote>
+> ثَلاثٌ مَنْ كُنَّ فِيهِ كَانَ مُنافِقاً وإنْ صَامَ وَصَلَّى وَزَعَمَ
+> أنَّهُ مُسْلِمٌ: مَن إذَا اؤتُمِنَ خَانَ، وإذَا حَدَّثَ كَذِبَ، وإذَا
+> وَعَدَ أخْلَفَ.
 
 ***Three attributes exist in a hypocrite, even if he prays and fasts and
 knows himself a Muslim; he betrays when he is trusted, he lies when he
@@ -731,14 +603,10 @@ speaks, and he breaks his promise after making it.***[^19]
 
 Also Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَامَلَ النَّاسَ وَلَمْ يَظْلِمْهُمْ، وَحَدَّثَهُمْ فَلَمْ
-يَكْذِبْهُمْ، وَوَعَدَهُمْ فَلَمْ يُخْلِفْهُمْ، فَهُوَ مِمَّنْ
-كَمُلَتْ مُرُوئَتُهُ وَحَرُمَتْ غِيْبَتُهُ وَظَهَرَ عَدْلُهُ
-وَوَجَبَتْ أُخُوَّتُهُ.
-  </p>
-</blockquote>
+> مَنْ عَامَلَ النَّاسَ وَلَمْ يَظْلِمْهُمْ، وَحَدَّثَهُمْ فَلَمْ
+> يَكْذِبْهُمْ، وَوَعَدَهُمْ فَلَمْ يُخْلِفْهُمْ، فَهُوَ مِمَّنْ
+> كَمُلَتْ مُرُوئَتُهُ وَحَرُمَتْ غِيْبَتُهُ وَظَهَرَ عَدْلُهُ
+> وَوَجَبَتْ أُخُوَّتُهُ.
 
 ***One who does not behave oppressively with others and does not tell
 lies to them and does not break his promises with them, is the one whose
@@ -771,36 +639,24 @@ preventive factors from sinning for the human being.
 
 It is narrated from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-اَلحَيَاءُ مِنَ الإيمَانِ، وَالإيمانُ فِي الجَنَّةِ.
-  </p>
-</blockquote>
+> اَلحَيَاءُ مِنَ الإيمَانِ، وَالإيمانُ فِي الجَنَّةِ.
 
 ***Modesty comes from belief in Allah, and belief results in (entering)
 His Paradise.***[^21]
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-إسْتَحْيوا مِنَ اللهِ حَقَّ الحَيَاءِ.
-  </p>
-</blockquote>
+> إسْتَحْيوا مِنَ اللهِ حَقَّ الحَيَاءِ.
 
 ***Be modest before Allah and observe the right of modesty!***
 
 “O Messenger of Allah! How should we do it?” he was asked. The Prophet
 answered:
 
-<blockquote dir="rtl">
-  <p>
-فَإنْ كُنْتُمْ فَاعِلِينَ، فَلا يَبِيتَنَّ أحَدُكُم إلاَّ وَأجَلُهُ
-بَيْنَ عَيْنَيْهِ، وَلْيَحْفَظِ الرَّأسَ وَمَا حَوى، وَالبَطْنَ وَمَا
-وَعى، وَلْيَذْكُرِ القَبْرَ وَالبِلَى، وَمَنْ أرَادَ الآخِرَةَ
-فَلْيَدَعِ الحَيَاةَ الدُّنْيَا.
-  </p>
-</blockquote>
+> فَإنْ كُنْتُمْ فَاعِلِينَ، فَلا يَبِيتَنَّ أحَدُكُم إلاَّ وَأجَلُهُ
+> بَيْنَ عَيْنَيْهِ، وَلْيَحْفَظِ الرَّأسَ وَمَا حَوى، وَالبَطْنَ وَمَا
+> وَعى، وَلْيَذْكُرِ القَبْرَ وَالبِلَى، وَمَنْ أرَادَ الآخِرَةَ
+> فَلْيَدَعِ الحَيَاةَ الدُّنْيَا.
 
 ***You should not sleep at night and get up in the morning, except that
 you remember your appointed time (death); so you should keep your heads
@@ -812,12 +668,8 @@ tempting stuff of the world.***[^22]
 Someone told Prophet Muhammad (S): “Give me some advice!” The Prophet
 said:
 
-<blockquote dir="rtl">
-  <p>
-إسْتَحيِ مِنَ اللهِ كَمَا تَسْتَحْيي مِنَ الرَّجُلِ الصَّالِحِ مِنْ
-قَوْمِكَ.
-  </p>
-</blockquote>
+> إسْتَحيِ مِنَ اللهِ كَمَا تَسْتَحْيي مِنَ الرَّجُلِ الصَّالِحِ مِنْ
+> قَوْمِكَ.
 
 ***Be modest before Allah as you are modest before a decent gentleman
 from your tribe!***[^23]
@@ -919,31 +771,19 @@ on His people via His pious servants. The Muslim believers got entangled
 among disbelievers and were mocked by them. That’s why the holy Qur’an
 calls out:
 
-<blockquote dir="rtl">
-  <p>
-…فَنَجْعَلْ لَعْنَةَ اللَّهِ عَلَى الْكَاذِبِينَ.
-  </p>
-</blockquote>
+> …فَنَجْعَلْ لَعْنَةَ اللَّهِ عَلَى الْكَاذِبِينَ.
 
 ***So invoke the curse of Allah upon those who lie. (3:61)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ.
 
 ***Surely Allah guides not him who is a liar, unthankful. (39:3)***
 
 The great Messenger of Allah (S) has thus been right in his very
 important traditions that is as follows:
 
-<blockquote dir="rtl">
-  <p>
-ألاَ أُنَبِّؤُكُمْ بِأكْبَرِ الكَبَائِرِ؟ الإشْرَاكُ بِاللهِ،
-وَعُقُوقُ الوَالِدَيْنِ... ألاَ وَقَوْلُ الزُّورِ.
-  </p>
-</blockquote>
+> ألاَ أُنَبِّؤُكُمْ بِأكْبَرِ الكَبَائِرِ؟ الإشْرَاكُ بِاللهِ،
+> وَعُقُوقُ الوَالِدَيْنِ... ألاَ وَقَوْلُ الزُّورِ.
 
 ***Do you want me to inform you of the biggest major sin? Polytheism,
 unkindness toward parents, (and he sat upright and continued) and beware
@@ -951,21 +791,13 @@ of untrue speech.***[^27]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-شَرُّ الرِّوَايَةِ رِوَايَةُ الكَذِبِ.
-  </p>
-</blockquote>
+> شَرُّ الرِّوَايَةِ رِوَايَةُ الكَذِبِ.
 
 ***The worst speech is lying.***[^28]
 
 It is also narrated from him:
 
-<blockquote dir="rtl">
-  <p>
-أقَلُّ النَّاسِ مُرُوؤَةً مَنْ كَانَ كَاذِباً.
-  </p>
-</blockquote>
+> أقَلُّ النَّاسِ مُرُوؤَةً مَنْ كَانَ كَاذِباً.
 
 ***A liar has the least humanity.***[^29]
 
@@ -975,43 +807,27 @@ there any believer who is a liar?” He rejected it.[^30]
 
 Amir al-Mu’minin, Imam ‘Ali (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَجِدُ عَبْدٌ طَعْمَ الإيمَانِ حَتَّى يَتْرُكَ الكَذِبَ هَزْلَهُ
-وَجِدَّهُ.
-  </p>
-</blockquote>
+> لاَ يَجِدُ عَبْدٌ طَعْمَ الإيمَانِ حَتَّى يَتْرُكَ الكَذِبَ هَزْلَهُ
+> وَجِدَّهُ.
 
 ***Man does not taste the sweetness of belief unless he avoids lying,
 either seriously or jokingly.***[^31]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-لا سُوءَ أسْوَأُ مِنَ الكَذِبِ.
-  </p>
-</blockquote>
+> لا سُوءَ أسْوَأُ مِنَ الكَذِبِ.
 
 ***Lying is the worst obscenity.***[^32]
 
 Another valuable statement of him reads:
 
-<blockquote dir="rtl">
-  <p>
-اَلصِّدْقُ أمَانَةٌ وَالكَذِبُ خِيَانَةٌ.
-  </p>
-</blockquote>
+> اَلصِّدْقُ أمَانَةٌ وَالكَذِبُ خِيَانَةٌ.
 
 ***Honesty is, in fact, loyalty and lying is betrayal.***[^33]
 
 Imam Sadiq (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الكَذِبَ هُوَ خَرابُ الإيمَانِ.
-  </p>
-</blockquote>
+> إنَّ الكَذِبَ هُوَ خَرابُ الإيمَانِ.
 
 ***The Exalted Allah has set some locks for the sins; the key to these
 locks is wine, and even worst than wine is lying.***[^34]
@@ -1038,12 +854,8 @@ rule. He is an oppressor since he has deprived a human from his rights.
 And he is a transgressor for he is away from religion and humanity due
 to his unfair and unjust verdict. Imam Sadiq (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَكَمَ بَيْنَ اثْنَيْنِ بِغَيْرِ حُكْمِ اللهِ فَقَدْ كَفَرَ
-بِاللهِ.
-  </p>
-</blockquote>
+> مَنْ حَكَمَ بَيْنَ اثْنَيْنِ بِغَيْرِ حُكْمِ اللهِ فَقَدْ كَفَرَ
+> بِاللهِ.
 
 ***One who issues an unfair verdict even on two drachmas has become a
 blasphemer.***[^37]
@@ -1071,12 +883,8 @@ When Fatima Al-Zahra (as) gave a speech in her father’s mosque and
 brilliantly criticized the government of her age using Qur’anic verses
 and the Prophet’s traditions, she the told people:
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلَ الإيمَانَ تَطْهِيراً لَكُمْ مِنَ الشِّرْكِ، وَالصَّلاةَ
-تَنْزِيهاً لَكُمْ عَنِ الكِبَرِ، وَالزَّكَاةَ تَزْكِيَةً لأنْفُسِكُمْ.
-  </p>
-</blockquote>
+> فَجَعَلَ الإيمَانَ تَطْهِيراً لَكُمْ مِنَ الشِّرْكِ، وَالصَّلاةَ
+> تَنْزِيهاً لَكُمْ عَنِ الكِبَرِ، وَالزَّكَاةَ تَزْكِيَةً لأنْفُسِكُمْ.
 
 ***Allah obliged belief for you to purify you of the pollution of
 disbelief, He obliged prayer to save you from pride, and zakat to purify
@@ -1095,15 +903,11 @@ measure are unlawful and major sins.
 is dedicated to this issue. The first few verses of this chapter talk
 about this major sin, betrayal and the chastisement for it:
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِلْمُطَفِّفِينَ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ
-يَسْتَوْفُونَ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ أَلا
-يَظُنُّ أُولَئِكَ أَنَّهُمْ مَبْعُوثُونَ لِيَوْمٍ عَظِيمٍ يَوْمَ
-يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ كَلاَّ إِنَّ كِتَابَ الفُجَّارِ
-لَفِي سِجِّينٍ.
-  </p>
-</blockquote>
+> وَيْلٌ لِلْمُطَفِّفِينَ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ
+> يَسْتَوْفُونَ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ أَلا
+> يَظُنُّ أُولَئِكَ أَنَّهُمْ مَبْعُوثُونَ لِيَوْمٍ عَظِيمٍ يَوْمَ
+> يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ كَلاَّ إِنَّ كِتَابَ الفُجَّارِ
+> لَفِي سِجِّينٍ.
 
 ***Woe to those that deal in fraud, who, when they measure against the
 people, take full measure. But, when they measure for them or weigh for
@@ -1113,13 +917,9 @@ Beings? No indeed; the Book of the libertines is in Sijjin.(83: 1-7)***
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ المُطَفِّفَ يُرْمَى يَوْمَ القِيَامَةِ فِي قَعْرِ جَهَنَّمَ
-بَيْنَ جَبَلَيْنِ مِنْ نَارٍ، فَيُقَالُ لَهُ: زِنْهُمَا. فَيَبْقَى فِي
-ذَلِكَ أبَداً.
-  </p>
-</blockquote>
+> إنَّ المُطَفِّفَ يُرْمَى يَوْمَ القِيَامَةِ فِي قَعْرِ جَهَنَّمَ
+> بَيْنَ جَبَلَيْنِ مِنْ نَارٍ، فَيُقَالُ لَهُ: زِنْهُمَا. فَيَبْقَى فِي
+> ذَلِكَ أبَداً.
 
 *One who shortens the measures in dealing with people would be taken to
 the bottom of the hell, in the Hereafter, and placed between two fire
@@ -1137,11 +937,7 @@ unfortunate. And when people refrained from paying zakat, they had no
 rain. And when they shortened the measures, they got deprived of plants
 and entangled in famine.”
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تُغيِّرُ النِّعَمَ
-  </p>
-</blockquote>
+> اللَّهُمَ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تُغيِّرُ النِّعَمَ
 
 *O Allah! Forgive me the sins which alter the blessings!*
 
@@ -1159,12 +955,8 @@ Oppressing people is an atrocious and satanic sin. Oppression, even as
 much as a grain, is an obscene deed. Be it as little as the grain, this
 deed would be punished in the Hereafter, too:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَى
-بِنَا حَاسِبِينَ.
-  </p>
-</blockquote>
+> وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَى
+> بِنَا حَاسِبِينَ.
 
 ***And if there be no more than the weight of a mustard seed We will
 bring it to account: and enough are We to take account. (21:47)***
@@ -1188,11 +980,7 @@ Beneficence and doing good to the people are signs of humanity and
 belief. According to the Qur’anic verses, the good-doers are loved by
 the Almighty.
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ.
-  </p>
-</blockquote>
+> وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ.
 
 ***…Allah loves those who do good. (3:134)***
 
@@ -1209,11 +997,7 @@ countless rewards.
 Being ungrateful towards Allah is a sin, which brings about severe
 chastisement, in the words of Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ.
-  </p>
-</blockquote>
+> وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ.
 
 ***… but if you are thankless, My chastisement is surely terrible.
 (14:7)***
@@ -1263,11 +1047,7 @@ children, poor relatives, charity, zakat, khums[^42] and giving of alms.
 Evading any of these examples of thankfulness is a sin, which alters
 Allah’s blessings into chastisement and calamity.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تَحْبِسُ الدُّعَاءَ
-  </p>
-</blockquote>
+> اللَّهُمَّ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تَحْبِسُ الدُّعَاءَ
 
 *O Allah! Forgive me the sins which hold back supplication!*
 
@@ -1315,12 +1095,8 @@ worldly and heavenly chastisement.
 
 Imam al-Baqir (as) says about the hypocrites:
 
-<blockquote dir="rtl">
-  <p>
-بِئْسَ العَبْدُ عَبْدٌ هُمَزَةٌ لُمَزَةٌ يُقْبِلُ بِوَجْهٍ وَيُدْبِرُ
-بِآخَرَ.
-  </p>
-</blockquote>
+> بِئْسَ العَبْدُ عَبْدٌ هُمَزَةٌ لُمَزَةٌ يُقْبِلُ بِوَجْهٍ وَيُدْبِرُ
+> بِآخَرَ.
 
 *A bad servant of Allah is one who is caviler and slanderer; on one
 side, he comes to befriend, on the other hand, he begins enmity.*[^46]
@@ -1332,33 +1108,25 @@ although hidden sin, which is recorded in the book of deeds, accounted
 for on the Day of Resurrection, and chastised severely. The exception to
 this are the one who can repent in this world.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنْ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنْ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ.
 
 ***O you who believe: Avoid suspicion as much (as possible): for
 suspicion in some cases is a sin. (49:12)***
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ الَّذِي لاَ إلَهَ إلاَّ هُوَ، مَا أُعْطِىَ مُؤمِنٌ خَيْرَ
-الدُّنْيَا وَالآخِرَةِ إلاَّ بِحُسْنِ ظَنِّهِ بِاللهِ وَرَجَائِهِ لَهُ
-وَحُسْنِ خُلُقِهِ وَالكَفِّ عَن اِغْتِيَابِ المُؤمِنِينَ، وَاللهِ
-الَّذي لا إلَهَ إلاَّ هُوَ لا يُعَذِّبُ اللهُ مُؤمِناً بَعْدَ
-التَّوْبَةِ وَالاسْتِغْفَارِ إلاَّ بِسُوءِ ظَنِّهِ بِاللهِ وَتَقْصيرٍ
-مِنْ رَجَائِهِ للهِ وَسُوُءِ خُلُقِهِ وَاغْتِيَابِهِ المُؤمِنِينَ،
-وَاللهِ الَّذي لا إلَهَ إلاَّ هُوَ، لا يَحْسُنُ ظَنُّ عَبْدٍ مُؤمنٍ
-بِاللهِ إلاَّ كَانَ اللهُ عِنْدَ ظَنِّ عَبْدِهِ المُؤمِنِ، لأنَّ اللهَ
-كَريمٌ بِيَدِهِ الخَيْراتُ، يَسْتَحْيي أنْ يَكُونَ عَبْدُهُ المُؤمِنُ
-قَدْ أحْسَنَ بِهِ الظَّنَّ وَالرَّجَاءَ ثُمَّ يُخْلِفُ ظَنَّهُ
-وَرَجاءَهُ، فَأحْسِنُوا بِاللهِ الظَّنَّ وَارْغَبُوا إلَيْهِ.
-  </p>
-</blockquote>
+> وَاللهِ الَّذِي لاَ إلَهَ إلاَّ هُوَ، مَا أُعْطِىَ مُؤمِنٌ خَيْرَ
+> الدُّنْيَا وَالآخِرَةِ إلاَّ بِحُسْنِ ظَنِّهِ بِاللهِ وَرَجَائِهِ لَهُ
+> وَحُسْنِ خُلُقِهِ وَالكَفِّ عَن اِغْتِيَابِ المُؤمِنِينَ، وَاللهِ
+> الَّذي لا إلَهَ إلاَّ هُوَ لا يُعَذِّبُ اللهُ مُؤمِناً بَعْدَ
+> التَّوْبَةِ وَالاسْتِغْفَارِ إلاَّ بِسُوءِ ظَنِّهِ بِاللهِ وَتَقْصيرٍ
+> مِنْ رَجَائِهِ للهِ وَسُوُءِ خُلُقِهِ وَاغْتِيَابِهِ المُؤمِنِينَ،
+> وَاللهِ الَّذي لا إلَهَ إلاَّ هُوَ، لا يَحْسُنُ ظَنُّ عَبْدٍ مُؤمنٍ
+> بِاللهِ إلاَّ كَانَ اللهُ عِنْدَ ظَنِّ عَبْدِهِ المُؤمِنِ، لأنَّ اللهَ
+> كَريمٌ بِيَدِهِ الخَيْراتُ، يَسْتَحْيي أنْ يَكُونَ عَبْدُهُ المُؤمِنُ
+> قَدْ أحْسَنَ بِهِ الظَّنَّ وَالرَّجَاءَ ثُمَّ يُخْلِفُ ظَنَّهُ
+> وَرَجاءَهُ، فَأحْسِنُوا بِاللهِ الظَّنَّ وَارْغَبُوا إلَيْهِ.
 
 *I swear by God who has no partners that no good of this world or the
 Hereafter has been granted to any believer, except due to his good
@@ -1415,44 +1183,28 @@ rigid and dark, and removes Allah’s Mercy.
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَادَ جِبْرَئيلُ يَأتِيني إلاَّ قَالَ: يَا مُحَمَّدُ، إتَّقِ
-شَحْنَاءَ الرِّجَالِ وَعَداوَتَهُمْ.
-  </p>
-</blockquote>
+> مَا كَادَ جِبْرَئيلُ يَأتِيني إلاَّ قَالَ: يَا مُحَمَّدُ، إتَّقِ
+> شَحْنَاءَ الرِّجَالِ وَعَداوَتَهُمْ.
 
 ***Gabriel didn’t descend to me, except that he advised me not to feel
 hatred for other people.***[^49]
 
 Also Amir al-Mu’minin (as) said:
 
-<blockquote dir="rtl">
-  <p>
-رَأسُ الجَهْلِ مُعَادَاةُ النَّاسِ.
-  </p>
-</blockquote>
+> رَأسُ الجَهْلِ مُعَادَاةُ النَّاسِ.
 
 *The core of foolishness is hatred for people.*[^50]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-مُعَادَاةُ الرِّجَالِ مِنْ شِيَمِ الجُهَّالِ.
-  </p>
-</blockquote>
+> مُعَادَاةُ الرِّجَالِ مِنْ شِيَمِ الجُهَّالِ.
 
 *Hating people is the manner of the foolish.*[^51]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-إيَّاكَ وَعَداوَةَ الرِّجَالِ فَإنَّها تُورِثُ المَعَرَّةَ وَتُبْدِي
-العَوْرَةَ.
-  </p>
-</blockquote>
+> إيَّاكَ وَعَداوَةَ الرِّجَالِ فَإنَّها تُورِثُ المَعَرَّةَ وَتُبْدِي
+> العَوْرَةَ.
 
 *Avoid enmity with people; because it leads to demolition and manifests
 mistakes.*[^52]
@@ -1465,11 +1217,7 @@ sustenance is from Allah, his worship is a blessing from Allah, and
 every good deed he does is by Allah’s wish. Therefore, human should not
 take pride in what he does. Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ دَخَلَهُ العُجْبُ هَلَكَ.
-  </p>
-</blockquote>
+> مَنْ دَخَلَهُ العُجْبُ هَلَكَ.
 
 *Anyone who admires himself would be annihilated.*[^53]
 
@@ -1519,34 +1267,22 @@ their deeds.’”[^57]
 
 A tradition narrated from the Prophet of Islam (S) reads:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ تَعَالَى يَقُولُ لِلمَلائِكَةِ: إنَّ هَذا لَْم يُرِدْنِي
-بِعَمَلِهِ، فَاجْعَلُوهُ فِي سِجِّين.
-  </p>
-</blockquote>
+> إنَّ اللهَ تَعَالَى يَقُولُ لِلمَلائِكَةِ: إنَّ هَذا لَْم يُرِدْنِي
+> بِعَمَلِهِ، فَاجْعَلُوهُ فِي سِجِّين.
 
 ***The Glorious Allah tells the angels: ‘This person has not done his
 deeds for Me, so take him to the Hell.’***[^58]
 
 The Messenger of Allah (S) also stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أخْوَفَ مَا أخَافُ عَلَيْكُم الشِّرْكُ الأصْغَرُ... الرِّيَاءُ.
-  </p>
-</blockquote>
+> إنَّ أخْوَفَ مَا أخَافُ عَلَيْكُم الشِّرْكُ الأصْغَرُ... الرِّيَاءُ.
 
 ***The scariest thing for you is the minor idolatry… showing
 off!***[^59]
 
 The Messenger of Allah (S) further said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ لا يَقْبَلُ عَمَلاً فِيهِ ذَرَّةٌ مِنْ رِياءٍ.
-  </p>
-</blockquote>
+> إنَّ اللهَ لا يَقْبَلُ عَمَلاً فِيهِ ذَرَّةٌ مِنْ رِياءٍ.
 
 ***Allah would not accept any deed in which there is even a tinge of
 showing off.***[^60]
@@ -1565,22 +1301,14 @@ Satan got deprived of Allah’s Mercy, for his arrogance before Him and
 was thus cast out, cursed, and doomed to chastisement. An arrogant is so
 unfortunate that he is away from Allah’s Mercy.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لا يُحِبُّ الْمُسْتَكْبِرِينَ.
-  </p>
-</blockquote>
+> إِنَّهُ لا يُحِبُّ الْمُسْتَكْبِرِينَ.
 
 ***… verily He loveth not the arrogant. (16:23)***
 
 It suffices for an arrogant that the punishment which the Qur’an has
 determined, is for him to dwell in the Inferno:
 
-<blockquote dir="rtl">
-  <p>
-فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ.
-  </p>
-</blockquote>
+> فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ.
 
 ***Woeful indeed will be the lodging of the arrogant. (16:29)***
 
@@ -1593,36 +1321,24 @@ wealth, strength, or plentiful friend is an obscene act.
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-اَلعِزُّ رِدَاءُ اللهِ وَالكِبْرُ إزَارُهُ، فَمَنْ تَنَاوَلَ شَيئاً
-مِنْهُ أكَبَّهُ اللهُ فِي جَهَنَّمَ.
-  </p>
-</blockquote>
+> اَلعِزُّ رِدَاءُ اللهِ وَالكِبْرُ إزَارُهُ، فَمَنْ تَنَاوَلَ شَيئاً
+> مِنْهُ أكَبَّهُ اللهُ فِي جَهَنَّمَ.
 
 ***Glory, Dignity, and Greatness belong to Allah; anyone who considers
 these attributes as belonging to himself will be placed in Hell.***[^62]
 
 Imam al-Baqir (as) and Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَدْخُلُ الجَنَّةَ مَنْ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ.
-  </p>
-</blockquote>
+> لا يَدْخُلُ الجَنَّةَ مَنْ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنْ كِبْرٍ.
 
 ***One who has even a tinge of arrogance in his heart would not enter
 Paradise.***[^63]
 
 Imam Sadiq (as) also stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ في جَهَنَّمَ لَوادِياً لِلمُتَكَبِّرِينَ يُقالُ لَهُ سَقَرُ،
-شَكَى إلَى اللهِ عَزَّ وَجَلَّ شِدَّةَ حَرِّهِ وَسَألَهُ أنْ يَأذَنَ
-لَهُ أنْ يَتَنَفَّسَ، فَتَنَفَّسَ فَأَحْرَقَ جَهَنَّمَ.
-  </p>
-</blockquote>
+> إنَّ في جَهَنَّمَ لَوادِياً لِلمُتَكَبِّرِينَ يُقالُ لَهُ سَقَرُ،
+> شَكَى إلَى اللهِ عَزَّ وَجَلَّ شِدَّةَ حَرِّهِ وَسَألَهُ أنْ يَأذَنَ
+> لَهُ أنْ يَتَنَفَّسَ، فَتَنَفَّسَ فَأَحْرَقَ جَهَنَّمَ.
 
 ***In the Inferno, surely there is a place for the arrogant called
 ‘Saqar’. It complaints about its extreme hotness to Allah and asks
@@ -1632,22 +1348,14 @@ breathes.***[^64]
 ‘Abd Al-A’la says: “I asked Imam Sadiq (as): ‘What is arrogance?’ He
 stated:
 
-<blockquote dir="rtl">
-  <p>
-أعْظَمُ الكِبْرِ أنْ تُسَفِّهَ الحَقَّ.
-  </p>
-</blockquote>
+> أعْظَمُ الكِبْرِ أنْ تُسَفِّهَ الحَقَّ.
 
 ***‘The highest degree of arrogance is belittling the truth and other
 people.’***
 
 I asked again: ‘How does one belittle the truth?’ Imam (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَجْهَلُ الحَقَّ وَيَطْعَنُ عَلَى أهْلِهِ.
-  </p>
-</blockquote>
+> يَجْهَلُ الحَقَّ وَيَطْعَنُ عَلَى أهْلِهِ.
 
 ***‘Belittling the truth is misunderstanding it and reproaching those
 who support it.’***[^65]
@@ -1689,12 +1397,8 @@ deceives people with these apparent ideas.
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-اَلكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ المَوْتِ.
-وَالأحْمَقُ مَنْ أتْبَعَ نَفْسَهُ هَواهَا وَتَمَنَّى عَلَى اللهِ.
-  </p>
-</blockquote>
+> اَلكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ المَوْتِ.
+> وَالأحْمَقُ مَنْ أتْبَعَ نَفْسَهُ هَواهَا وَتَمَنَّى عَلَى اللهِ.
 
 ***A smart person is the one who opposes his carnal soul, and do well
 for his Hereafter. A foolish person is the one that follows his carnal
@@ -1706,12 +1410,8 @@ sinners, and those who have no good deeds. Allah has given good tidings
 to the righteous and brave Muslims that only they are subjected to
 Allah’s Mercy.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ
-اللَّهِ أُوْلَئِكَ يَرْجُونَ رَحْمَةَ اللَّهِ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ
+> اللَّهِ أُوْلَئِكَ يَرْجُونَ رَحْمَةَ اللَّهِ.
 
 ***Those who believe, and those who emigrate (to escape the persecution)
 and strive in the way of Allah, these have hope of Allah’s Mercy.
@@ -1725,13 +1425,9 @@ Imam Sadiq (as) was said: “Some people are polluted with a variety of
 sins and they are still hopeful of Allah’s Mercy. They continue
 wrongdoing until their death.” He (as) answered:
 
-<blockquote dir="rtl">
-  <p>
-هَؤُلاءِ قَوْمٌ يَتَرَجَّحُونَ فِي الأمَانِيِّ، كَذِبُوا، لَيْسُوا
-بِرَاجِينَ، مَنْ رَجَا شَيْئاً طَلَبَهُ وَمَنْ خَافَ مِِْن شَيءٍ
-هَرَبَ مِنْهُ.
-  </p>
-</blockquote>
+> هَؤُلاءِ قَوْمٌ يَتَرَجَّحُونَ فِي الأمَانِيِّ، كَذِبُوا، لَيْسُوا
+> بِرَاجِينَ، مَنْ رَجَا شَيْئاً طَلَبَهُ وَمَنْ خَافَ مِِْن شَيءٍ
+> هَرَبَ مِنْهُ.
 
 ***These are people who have fluctuating wishes. They are not really
 hopeful. One who is hopeful follows his hope, and one who is afraid of
@@ -1739,35 +1435,23 @@ something, escapes from it.***[^67]
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-سُكْرُ الغَفْلَةِ وَالغُرُورِ أبْعَدُ إفَاقَةً مِنْ سُكْرِ الخُمُورِ.
-  </p>
-</blockquote>
+> سُكْرُ الغَفْلَةِ وَالغُرُورِ أبْعَدُ إفَاقَةً مِنْ سُكْرِ الخُمُورِ.
 
 ***Recovering from intoxication of negligence is much harder than
 recovering from intoxication*** ***of wine.***[^68]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِنَ الغِرَّةِ بِاللهِ أنْ يُصِرَّ العَبْدُ عَلَى المَعْصِيَةِ
-وَيَتَمَنَّى عَلَى اللهِ المَغْفِرَةَ.
-  </p>
-</blockquote>
+> إنَّ مِنَ الغِرَّةِ بِاللهِ أنْ يُصِرَّ العَبْدُ عَلَى المَعْصِيَةِ
+> وَيَتَمَنَّى عَلَى اللهِ المَغْفِرَةَ.
 
 ***Deluding by Allah’s Mercy is insistence on committing sins and still
 hoping for Allah’s Forgiveness.***[^69]
 
 The Messenger of Allah (S) told Ibn Mas’ud:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَغْتَرَّنَّ بِاللهِ وَلا تَغْتَرَّنَّ بِصَلاحِكَ وَعِلْمِكَ
-وَعَمَلِكَ وَبِرِّكَ وَعِبَادَتِكَ.
-  </p>
-</blockquote>
+> لاَ تَغْتَرَّنَّ بِاللهِ وَلا تَغْتَرَّنَّ بِصَلاحِكَ وَعِلْمِكَ
+> وَعَمَلِكَ وَبِرِّكَ وَعِبَادَتِكَ.
 
 ***Don’t get negligence of Allah and get deceived by your own worship,
 knowledge, and good deeds.***[^70]
@@ -1797,13 +1481,9 @@ in the Holy Qur’an and the Prophet’s traditions. The Qur’anic verses and
 the traditions represent a stingy individual as an unthankful servant,
 who is doomed to punishment.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ
-مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ وَأَعْتَدْنَا لِلْكَافِرِينَ
-عَذَابًا مُهِينًا.
-  </p>
-</blockquote>
+> الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ
+> مَا آتَاهُمْ اللَّهُ مِنْ فَضْلِهِ وَأَعْتَدْنَا لِلْكَافِرِينَ
+> عَذَابًا مُهِينًا.
 
 ***(Those) who hoard their wealth and enjoin avarice on others, and hide
 that which Allah has bestowed upon them of His bounty. For disbelievers,
@@ -1811,11 +1491,7 @@ We prepare a shameful doom. (4:37)***
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-حُرِّمَتِ الجَنَّةُ عَلَى المَنَّانِ وَالبَخِيلِ وَالقَتَّاتِ.
-  </p>
-</blockquote>
+> حُرِّمَتِ الجَنَّةُ عَلَى المَنَّانِ وَالبَخِيلِ وَالقَتَّاتِ.
 
 ***The Paradise is forbidden for the taleteller, the stingy, and one who
 obliges for others.***[^71]
@@ -1823,15 +1499,11 @@ obliges for others.***[^71]
 Imam ‘Ali (as) heard someone saying: “The fault of a stingy is more
 excusable than the oppressor’s.” He (as) told him:
 
-<blockquote dir="rtl">
-  <p>
-كَذِبْتَ! إنَّ الظَّالِمَ يَتُوبُ وَيَسْتَغْفِرُ اللهَ وَيَرُدُّ
-الظُّلاَمَةَ عَلَى أهْلِهَا. وَالشَّحِيحُ إذَا شَحََّ مَنَعَ
-الزَّكَاةَ وَالصَّدَقَةَ وَصِلَةَ الرَّحِمِ وَإقْرَاءَ الضَّيْفِ
-وَالنَّفَقَةَ فِي سَبِيلِ اللهِ وَأبْوَابَ البِرِّ. وَحَرَامٌ عَلَى
-الجَنَّةِ أنْ يَدْخُلَهَا شَحِيحٌ.
-  </p>
-</blockquote>
+> كَذِبْتَ! إنَّ الظَّالِمَ يَتُوبُ وَيَسْتَغْفِرُ اللهَ وَيَرُدُّ
+> الظُّلاَمَةَ عَلَى أهْلِهَا. وَالشَّحِيحُ إذَا شَحََّ مَنَعَ
+> الزَّكَاةَ وَالصَّدَقَةَ وَصِلَةَ الرَّحِمِ وَإقْرَاءَ الضَّيْفِ
+> وَالنَّفَقَةَ فِي سَبِيلِ اللهِ وَأبْوَابَ البِرِّ. وَحَرَامٌ عَلَى
+> الجَنَّةِ أنْ يَدْخُلَهَا شَحِيحٌ.
 
 ***You are wrong. Because an oppressor can repent, ask for Allah’s
 forgiveness, and return people’s material rights. But when someone shows
@@ -1840,47 +1512,31 @@ Allah’s way. Paradise is forbidden for the stingy.***[^72]
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-خَصْلَتَانِ لا تَجْتَمِعَانِ فِي مُسْلِمٍ: البُخْلُ وَسُوءُ الخُلُقِ.
-  </p>
-</blockquote>
+> خَصْلَتَانِ لا تَجْتَمِعَانِ فِي مُسْلِمٍ: البُخْلُ وَسُوءُ الخُلُقِ.
 
 ***A Muslim does not have two attributes; meanness and bad
 temper.***[^73]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إنْ كَانَ الخَلَفُ مِنَ اللهِ عَزَّ وَجَلَّ حَقّاً، فَالبُخْلُ
-لِمَاذَا؟
-  </p>
-</blockquote>
+> إنْ كَانَ الخَلَفُ مِنَ اللهِ عَزَّ وَجَلَّ حَقّاً، فَالبُخْلُ
+> لِمَاذَا؟
 
 ***If Allah truly substitutes for the property that is given away in His
 way, what is meanness for?***[^74]
 
 Imam *Musa* Ibn Ja’far (as) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلبَخِيلُ مَنْ بَخِلَ بِمَا افْتَرَضَ اللهُ عَلَيْهِ.
-  </p>
-</blockquote>
+> اَلبَخِيلُ مَنْ بَخِلَ بِمَا افْتَرَضَ اللهُ عَلَيْهِ.
 
 ***A stingy is the one who is mean in doing what Allah has obliged him
 to do.***[^75]
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-السَّخِيُّ قَريبٌ مِِنَ اللهِ، قَرِيبٌ مِن الجَنَّةِ، قَريبٌ مِنَ
-النَّاسِ، بَعِيدٌ مِنَ النَّارِ، وَالبَخيلُ بَعيدٌ مِنَ اللهِ، بَعيدٌ
-مِنَ الجَنَّةِ، بَعيدٌ مِنَ النَّاسِ، قَريبٌ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> السَّخِيُّ قَريبٌ مِِنَ اللهِ، قَرِيبٌ مِن الجَنَّةِ، قَريبٌ مِنَ
+> النَّاسِ، بَعِيدٌ مِنَ النَّارِ، وَالبَخيلُ بَعيدٌ مِنَ اللهِ، بَعيدٌ
+> مِنَ الجَنَّةِ، بَعيدٌ مِنَ النَّاسِ، قَريبٌ مِنَ النَّارِ.
 
 ***A generous person is close to Allah, close to the people, and to the
 Paradise. But a stingy one is away from Allah, the people, and the
@@ -1906,39 +1562,27 @@ reason for such worldly greed then?
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-أغْنَى النَّاسِ مَنْ لَمْ يَكُنْ لِلحِرْصِ أسِيراً.
-  </p>
-</blockquote>
+> أغْنَى النَّاسِ مَنْ لَمْ يَكُنْ لِلحِرْصِ أسِيراً.
 
 *The most contented of the people is the one who is not a captive of
 greed.*[^76]
 
 Also the Prophet (S) advised Imam ‘Ali (as):
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ! أنْهَاكَ عَنْ ثَلاَثِ خِصَالٍ عِظَامٍ: الحَسَدُ
-وَالحِرْصُ وَالكَذِبُ.
-  </p>
-</blockquote>
+> يَا عَلِيُّ! أنْهَاكَ عَنْ ثَلاَثِ خِصَالٍ عِظَامٍ: الحَسَدُ
+> وَالحِرْصُ وَالكَذِبُ.
 
 *I prohibit you from three obscene characteristics; jealousy, greed, and
 lying.*[^77]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا هَبِطَ نُوحٌ عَلَيْهِ السَّلامُ مِنَ السَّفِينَةِ أتَاهُ
-إبْلِيسُ فَقَالَ لَهُ: مَا فِي الأرْضِ رَجُلٌ أعْظَمُ مِنَّةً عَلَيَّ
-مِنْكَ، دَعَوْتَ اللهَ عَلَى هَؤلاءِ الفُسَّاقِ فَأرَحْتَنِي مِنْهُمْ.
-ألاَ أُعَلِّمُكَ خِصْلَتَيْنِ: إيَّاكَ وَالحَسَدَ، فَهُوَ الَّذِي
-عَمِلَ بِي مَا عَمِلَ، وَإيَّاكَ وَالحِرْصَ فَهُوَ الَّذِي عَمِلَ
-بِآدَمَ مَا عَمِلَ.
-  </p>
-</blockquote>
+> لَمَّا هَبِطَ نُوحٌ عَلَيْهِ السَّلامُ مِنَ السَّفِينَةِ أتَاهُ
+> إبْلِيسُ فَقَالَ لَهُ: مَا فِي الأرْضِ رَجُلٌ أعْظَمُ مِنَّةً عَلَيَّ
+> مِنْكَ، دَعَوْتَ اللهَ عَلَى هَؤلاءِ الفُسَّاقِ فَأرَحْتَنِي مِنْهُمْ.
+> ألاَ أُعَلِّمُكَ خِصْلَتَيْنِ: إيَّاكَ وَالحَسَدَ، فَهُوَ الَّذِي
+> عَمِلَ بِي مَا عَمِلَ، وَإيَّاكَ وَالحِرْصَ فَهُوَ الَّذِي عَمِلَ
+> بِآدَمَ مَا عَمِلَ.
 
 ***When Noah (as) took off his ship, Satan came to him and said: ‘No one
 on the earth has done a greater favor for me than you; you asked
@@ -1963,12 +1607,8 @@ their property is regarded as ‘cupidity’ by the scholars.
 
 The fourth Imam, Imam Al-Sajjad (as) said:
 
-<blockquote dir="rtl">
-  <p>
-رَأيْتُ الخَيْرَ كُلَّهُ قَد اجْتَمَعَ فِي قَطْعِ الطَّمَعِ عَمَّا فِي
-أيْدِي النَّاسِ.
-  </p>
-</blockquote>
+> رَأيْتُ الخَيْرَ كُلَّهُ قَد اجْتَمَعَ فِي قَطْعِ الطَّمَعِ عَمَّا فِي
+> أيْدِي النَّاسِ.
 
 *I see all goodness in avoiding cupidity for the wealth and position
 that others possess.*[^80]
@@ -1979,34 +1619,22 @@ a servant’s belief?’ Imam replied: ‘cupidity.’[^81]
 
 Imam Hadi (as), the tenth infallible Imam, stated:
 
-<blockquote dir="rtl">
-  <p>
-الطَّمَعُ سَجِيَّةٌ سَيِّئَةٌ.
-  </p>
-</blockquote>
+> الطَّمَعُ سَجِيَّةٌ سَيِّئَةٌ.
 
 *Cupidity is a very obscene quality.*[^82]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا أرَدْتَ أنْ تَقَرَّ عَيْنُكَ وَتَنَالَ خَيْرَ الدُّنْيَا
-وَالآخِرَةِ فَاقْطَعِ الطَّمَعَ عَمَّا فِي أيْدِي النَّاسِ.
-  </p>
-</blockquote>
+> إذَا أرَدْتَ أنْ تَقَرَّ عَيْنُكَ وَتَنَالَ خَيْرَ الدُّنْيَا
+> وَالآخِرَةِ فَاقْطَعِ الطَّمَعَ عَمَّا فِي أيْدِي النَّاسِ.
 
 *If you want to be happy and delighted and gain goodness in this world
 and the Last Day, do not long for what others have.*[^83]
 
 Imam ‘Ali (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أرَادَ أنْ يَعِيشَ حُرّاً أيَّامَ حَيَاتِهِ فَلا يُسْكِنِ
-الطَّمَعَ قَلْبَهُ.
-  </p>
-</blockquote>
+> مَنْ أرَادَ أنْ يَعِيشَ حُرّاً أيَّامَ حَيَاتِهِ فَلا يُسْكِنِ
+> الطَّمَعَ قَلْبَهُ.
 
 *One who wants to live a free life should not place cupidity in his
 heart.*[^84]
@@ -2022,21 +1650,13 @@ cause jealousy in human heart.
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الحَسَدَ يَأكُلُ الإيمَانَ كَمَا تَأكُلُ النَّارُ الحَطَبَ.
-  </p>
-</blockquote>
+> إنَّ الحَسَدَ يَأكُلُ الإيمَانَ كَمَا تَأكُلُ النَّارُ الحَطَبَ.
 
 ***Surely, jealousy removes belief as the fire burns wood.***[^85]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-آفَةُ الدِّينِ الحَسَدُ وَالعُجْبُ وَالفَخْرُ.
-  </p>
-</blockquote>
+> آفَةُ الدِّينِ الحَسَدُ وَالعُجْبُ وَالفَخْرُ.
 
 ***The plague for the belief is jealousy, self-admiration, and
 pride.***[^86]
@@ -2065,25 +1685,17 @@ consequences in this world and the Last World.
 The holy Qur’an, the Prophet (S), and his disciples were hard to the
 disbelievers and kind to their religious brothers:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
-الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ.
-  </p>
-</blockquote>
+> مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
+> الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ.
 
 ***Muhammad is the messenger of Allah. And those with him are hard
 against the disbelievers and merciful among themselves. (48:29)***
 
 The holy Qur’an recommends the believers:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
-أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا
-جَاءَكُمْ مِنْ الْحَقِّ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
+> أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا
+> جَاءَكُمْ مِنْ الْحَقِّ.
 
 ***O believers, take not My enemy and your enemy for friends, offering
 them love, as they have disbelieved in the truth that has come to you.
@@ -2091,13 +1703,9 @@ them love, as they have disbelieved in the truth that has come to you.
 
 The Qur’an states in *Al-Mujadila* Chapter:
 
-<blockquote dir="rtl">
-  <p>
-لا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ
-يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ
-أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ.
-  </p>
-</blockquote>
+> لا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ
+> يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ
+> أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ.
 
 ***You shall not find any people who believe in Allah and the Last Day
 to be loving to anyone who opposes Allah and His Messenger, although
@@ -2127,14 +1735,10 @@ some of which appear here:
 Imam al-Ridha (as), in reply to Muhammad Ibn Fudhayl, wrote about the
 hypocrites:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ المُنَافِقِينَ يُخَادِعُونَ اللهَ وَهُوَ خَادِعُهُمْ... لَيْسُوا
-مِنْ عِتْرَةِ رَسُولِ اللهِ وَلَيْسُوا مِنَ المُؤْمِنِينَ وَلَيْسُوا
-مِنَ المُسْلِمِينَ، يُظْهِرُونَ الإيمَانَ وَيُسِرُّونَ الكُفْرَ
-وَالتَّكْذِيبَ، لَعَنَهُمُ اللهُ.
-  </p>
-</blockquote>
+> إنَّ المُنَافِقِينَ يُخَادِعُونَ اللهَ وَهُوَ خَادِعُهُمْ... لَيْسُوا
+> مِنْ عِتْرَةِ رَسُولِ اللهِ وَلَيْسُوا مِنَ المُؤْمِنِينَ وَلَيْسُوا
+> مِنَ المُسْلِمِينَ، يُظْهِرُونَ الإيمَانَ وَيُسِرُّونَ الكُفْرَ
+> وَالتَّكْذِيبَ، لَعَنَهُمُ اللهُ.
 
 ***The double faced people who are deceitful in relation to Allah, the
 religion, the Prophet (S), and the Muslims are not considered among the
@@ -2143,12 +1747,8 @@ hide their disbelief and lying. May Allah curse them all!***[^89]
 
 Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ عَلامَاتِ النِّفَاقِ قَسَاوَةُ القَلْبِ وَجُمُودُ العَيْنِ
-وَالإصْرارُ عَلى الذَّنْبِ وَالحِرْصُ عَلَى الدُّنْيَا.
-  </p>
-</blockquote>
+> مِنْ عَلامَاتِ النِّفَاقِ قَسَاوَةُ القَلْبِ وَجُمُودُ العَيْنِ
+> وَالإصْرارُ عَلى الذَّنْبِ وَالحِرْصُ عَلَى الدُّنْيَا.
 
 ***Among the signs of hypocrisy are: hardheartedness, inability to weep,
 insistence on sins, and too much longing for this world.***[^90]
@@ -2208,24 +1808,16 @@ and brings about His Mercy and acceptance of supplications.
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-الصَّدَقَةُ تَمْنَعُ سَبْعِينَ نَوعاً مِنْ أنْوَاعِ البَلاءِ
-أهْوَنُهَا الجُذَامُ وَالبَرَصُ.
-  </p>
-</blockquote>
+> الصَّدَقَةُ تَمْنَعُ سَبْعِينَ نَوعاً مِنْ أنْوَاعِ البَلاءِ
+> أهْوَنُهَا الجُذَامُ وَالبَرَصُ.
 
 ***Alms giving avoids seventy kinds of calamities from human, the
 smallest of which are leprosy and aphesis.***[^92]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-شَافُوا مَرْضَاكُمْ بِالصَّدَقَةِ. وَالصَّدَقَةُ تُطِيلُ العُمُرَ
-وَتَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> شَافُوا مَرْضَاكُمْ بِالصَّدَقَةِ. وَالصَّدَقَةُ تُطِيلُ العُمُرَ
+> وَتَزِيدُ فِي الرِّزْقِ.
 
 ***Give alms and cure your patients with it. Giving alms surely removes
 illnesses and grief. It*** ***increases your goodness and your
@@ -2285,11 +1877,7 @@ have said:
 
 The Prophet of Islam (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أكْثَرَ خَطَايَا ابْنِ آدَمَ فِي لِسَانِهِ.
-  </p>
-</blockquote>
+> إنَّ أكْثَرَ خَطَايَا ابْنِ آدَمَ فِي لِسَانِهِ.
 
 *Most of human faults are surely caused by his tongue.*[^95]
 
@@ -2301,33 +1889,21 @@ him.*[^96]
 
 Imam Sadiq (as) affirmed:
 
-<blockquote dir="rtl">
-  <p>
-البِذَاءُ مِنَ الجَفَاءِ وَالجَفَاءُ فِي النَّارِ.
-  </p>
-</blockquote>
+> البِذَاءُ مِنَ الجَفَاءِ وَالجَفَاءُ فِي النَّارِ.
 
 *Abusive language is caused by rudeness, and rudeness is placed in the
 Fire.*[^97]
 
 In some traditions we read:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَالَ فُحْشاً فِي أخِيهِ المُسْلِمِ رَفَعَ اللهُ مِنْ رِزْقِهِ
-البَرَكَةَ وَأوْكَلَهُ إلَى نَفْسِهِ.
-  </p>
-</blockquote>
+> مَنْ قَالَ فُحْشاً فِي أخِيهِ المُسْلِمِ رَفَعَ اللهُ مِنْ رِزْقِهِ
+> البَرَكَةَ وَأوْكَلَهُ إلَى نَفْسِهِ.
 
 *If one uses abusive language about his religious brother, Allah would
 remove blessings from his sustenance, leave him to himself, and destroy
 his life’s conveniences.*[^98]
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تُنْزِلُ البَلاءَ
-  </p>
-</blockquote>
+> اللَّهُمَّ اغْفِرْ لِىَ الذُّنُوبَ الَّتِى تُنْزِلُ البَلاءَ
 
 *O Allah, forgive me for the sins which bring about tribulations!*
 
@@ -2347,11 +1923,7 @@ one to reduce the sorrow of such a person. Those who hear the pleading
 of a grief-stricken person but do not rise to help him are not only
 unbelievers but also inhumane. The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أصْبَحَ لا يَهْتَمُّ بِأمُورِ المُسْلِمِينَ فَلَيْسَ بِمُسْلِمٍ.
-  </p>
-</blockquote>
+> مَنْ أصْبَحَ لا يَهْتَمُّ بِأمُورِ المُسْلِمِينَ فَلَيْسَ بِمُسْلِمٍ.
 
 *One who spends the night without attempting to solve Muslims’ problems
 is not considered a* *Muslim.*[^99]
@@ -2361,14 +1933,10 @@ especially to those who plead for help is the recommendation of the
 Almighty, His Prophet (S) and the infallible Imams (as). Imam Sadiq (as)
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ نَفَّسَ عَنْ مُؤمِنٍ كُرْبَةً نَفَّسَ اللهُ عَنْهُ كُرَبَ
-الآخِرَةِ وَخَرَجَ مِنْ قَبْرِهِ وَهُوَ ثَلِجُ الفُؤادِ، وَمَنْ
-أطْعَمَهُ مِنْ جُوعٍ أطْعَمَهُ اللهُ مِنْ ثِمَارِ الجَنَّةِ، وَمَنْ
-سَقَاهُ شُرْبَةً سَقَاهُ اللهُ مِنَ الرَّحِيقِ المَخْتُومِ.
-  </p>
-</blockquote>
+> مَنْ نَفَّسَ عَنْ مُؤمِنٍ كُرْبَةً نَفَّسَ اللهُ عَنْهُ كُرَبَ
+> الآخِرَةِ وَخَرَجَ مِنْ قَبْرِهِ وَهُوَ ثَلِجُ الفُؤادِ، وَمَنْ
+> أطْعَمَهُ مِنْ جُوعٍ أطْعَمَهُ اللهُ مِنْ ثِمَارِ الجَنَّةِ، وَمَنْ
+> سَقَاهُ شُرْبَةً سَقَاهُ اللهُ مِنَ الرَّحِيقِ المَخْتُومِ.
 
 ***One who removes the grief of a believer Muslim, Allah would remove
 his sorrow in the Last Day, raising him from the grave while he is
@@ -2378,16 +1946,12 @@ grant him rahiq-i makhtum (a sealed intact drink).***[^100]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أغَاثَ أخَاهُ المُؤمِنَ اللَّهْفَانَ اللَّهْثانَ عِنْدَ جَهْدِهِ
-فَنَفَّسَ كُرْبَتَهُ وَأعَانَهُ عَلَى نَجَاحِ حَاجَتِهِ كَتَبَ اللهُ
-عَزَّ وَجَلَّ لَهُ بِذَلِكَ ثِنْتَيْنِ وَسَبْعِينَ رَحْمَةً مِنَ
-اللهِ، يُعَجِّلُ لَهُ وَاحِدَةً يُصْلِحُ بِهَا أمْرَ مَعِيشَتِهِ
-وَيَدَّخِرُ لَهُ إحْدَى وَسَبْعِينَ رَحْمَةً لأفْزَاعِ يَوْمِ
-القِيَامَةِ وَأهْوَالِهِ.
-  </p>
-</blockquote>
+> مَنْ أغَاثَ أخَاهُ المُؤمِنَ اللَّهْفَانَ اللَّهْثانَ عِنْدَ جَهْدِهِ
+> فَنَفَّسَ كُرْبَتَهُ وَأعَانَهُ عَلَى نَجَاحِ حَاجَتِهِ كَتَبَ اللهُ
+> عَزَّ وَجَلَّ لَهُ بِذَلِكَ ثِنْتَيْنِ وَسَبْعِينَ رَحْمَةً مِنَ
+> اللهِ، يُعَجِّلُ لَهُ وَاحِدَةً يُصْلِحُ بِهَا أمْرَ مَعِيشَتِهِ
+> وَيَدَّخِرُ لَهُ إحْدَى وَسَبْعِينَ رَحْمَةً لأفْزَاعِ يَوْمِ
+> القِيَامَةِ وَأهْوَالِهِ.
 
 ***Anyone who answers the pleading of his Muslim brother when he is
 thirsty and sorrowful, helping him to remove his sorrow and get his wish
@@ -2401,11 +1965,7 @@ Helping the oppressed is so much important in Islam that Amir
 al-Mu’minin (as), in the last minutes of his life on the twenty third
 night of Ramadan, advised his sons Imam Hasan and Imam Husayn (as):
 
-<blockquote dir="rtl">
-  <p>
-كُونَا لِلظَّالِمِ خَصْماً وَلِلمَظْلُومِ عَوناً.
-  </p>
-</blockquote>
+> كُونَا لِلظَّالِمِ خَصْماً وَلِلمَظْلُومِ عَوناً.
 
 *Be the rivals of the oppressors and the aids of the oppressed.*[^102]
 
@@ -2414,12 +1974,8 @@ and for the oppressed.
 
 The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أخَذَ لِلمَظْلُومِ مِنَ الظَّالِمِ كَانَ مَعِي فِي الجَنَّةِ
-مُصَاحِباً.
-  </p>
-</blockquote>
+> مَنْ أخَذَ لِلمَظْلُومِ مِنَ الظَّالِمِ كَانَ مَعِي فِي الجَنَّةِ
+> مُصَاحِباً.
 
 ***Anyone who reclaims the right of an oppressed person from an
 oppressor one would be my companion in Paradise.***[^103]
@@ -2431,26 +1987,18 @@ oppressors.*[^104]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-أحْسَنُ العَدْلِ نُصْرَةُ المَظْلومِ.
-  </p>
-</blockquote>
+> أحْسَنُ العَدْلِ نُصْرَةُ المَظْلومِ.
 
 *The best act of justice is helping an oppressed individual.*[^105]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مُؤمِنٍ يُعِينُ مُؤمِناً مَظْلُوماً إلاَّ كَانَ أفْضَلَ مِنْ
-صِيَامِ شَهْرٍ وَاعْتِكَافِهِ فِي المَسْجِدِ الحَرَامِ، وَمَا مِنْ
-مُؤمِنٍ يَنْصُرُ أخَاهُ وَهُوَ يَقْدِرُ عَلَى نُصْرَتِهِ إلاَّ
-وَنَصَرَهُ اللهُ فِي الدُّنْيَا وَالآخِرَةِ، وَمَا مِنْ مُؤمِنٍ
-يَخْذُلُ أخَاهُ وَهُوَ يَقْدِرُ عَلَى نُصْرَتِهِ إلاَّ خَذَلَهُ اللهُ
-فِي الدُّنْيَا والآخِرَةِ.
-  </p>
-</blockquote>
+> مَا مِنْ مُؤمِنٍ يُعِينُ مُؤمِناً مَظْلُوماً إلاَّ كَانَ أفْضَلَ مِنْ
+> صِيَامِ شَهْرٍ وَاعْتِكَافِهِ فِي المَسْجِدِ الحَرَامِ، وَمَا مِنْ
+> مُؤمِنٍ يَنْصُرُ أخَاهُ وَهُوَ يَقْدِرُ عَلَى نُصْرَتِهِ إلاَّ
+> وَنَصَرَهُ اللهُ فِي الدُّنْيَا وَالآخِرَةِ، وَمَا مِنْ مُؤمِنٍ
+> يَخْذُلُ أخَاهُ وَهُوَ يَقْدِرُ عَلَى نُصْرَتِهِ إلاَّ خَذَلَهُ اللهُ
+> فِي الدُّنْيَا والآخِرَةِ.
 
 *No faithful Muslim helps an oppressed one except that his help is
 preferred to a month of fasting and seclusion for worship in Masjid
@@ -2462,13 +2010,9 @@ Allah would leave him in the world and in the Hereafter.*[^106]
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-وَعِزَّتِي وَجَلالِي: لأنْتَقِمَنَّ مِنَ الظَّالِمِ فِي عَاجِلِهِ
-وَآجِلِهِ، وَلأنْتَقِمَنَّ مِمَّنْ رَأى مَظْلُوماً فَقَدِرَ أنْ
-يَنْصُرَهُ فَلَمْ يَنْصُرْهُ.
-  </p>
-</blockquote>
+> وَعِزَّتِي وَجَلالِي: لأنْتَقِمَنَّ مِنَ الظَّالِمِ فِي عَاجِلِهِ
+> وَآجِلِهِ، وَلأنْتَقِمَنَّ مِمَّنْ رَأى مَظْلُوماً فَقَدِرَ أنْ
+> يَنْصُرَهُ فَلَمْ يَنْصُرْهُ.
 
 *The Almighty Allah says: ‘By My Glory and Might that I would certainly
 take revenge on the oppressor, and surely I would take revenge on anyone
@@ -2493,52 +2037,36 @@ people would perish.
 
 The Almighty states in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
-بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنْكَرِ وَأُوْلَئِكَ هُمْ
-الْمُفْلِحُونَ.
-  </p>
-</blockquote>
+> وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ
+> بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنْكَرِ وَأُوْلَئِكَ هُمْ
+> الْمُفْلِحُونَ.
 
 ***And from among you there should be a party who invite to good and
 enjoin what is right and forbid the wrong, and these it is that shall be
 successful. (3:104)***
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنكَرِ.
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنكَرِ.
 
 ***And (as for) the believing men and the believing women, they are
 guardians of each other; they enjoin good and forbid evil. (9:71)***
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-لَتَأْمُرُنَّ بِالمَعْرُوفِ وَلَتَنْهُنَّ عَنِ المُنْكَرِ، أوْ
-لَيُسْتَعْمَلُنَّ عَلَيْكُمْ شِرَارُكُمْ فَيَدْعُوا خِيَارُكُمْ ولا
-يُسْتَجَابُ لَهُمْ.
-  </p>
-</blockquote>
+> لَتَأْمُرُنَّ بِالمَعْرُوفِ وَلَتَنْهُنَّ عَنِ المُنْكَرِ، أوْ
+> لَيُسْتَعْمَلُنَّ عَلَيْكُمْ شِرَارُكُمْ فَيَدْعُوا خِيَارُكُمْ ولا
+> يُسْتَجَابُ لَهُمْ.
 
 ***You people should enjoin good and forbid evil, or else Allah would
 dominate the wicked ones on you, and your honest ones would pray, but
 their supplications would not be accepted.***[^108]
 
-<blockquote dir="rtl">
-  <p>
-إيَّاكُمْ وَالجُلُوسَ فِي الطُّرُقَاتِ. قَالوا: يَا رَسُولَ اللهِ، مَا
-لَنَا مِنْ مَجَالِسِنَا بُدٌّ، نَتَحَدَّثُ فِيها. قَالَ: إذَا
-أبَيْتُمْ إلاَّ الجُلُوسَ فَاعْطُوا الطَّرِيقَ حَقَّهَا. قَالُوا:
-وَمَا حَقُّ الطَّرِيقِ يَا رَسُولَ اللهِ؟ قَالَ: غَضُّ البَصَرِ،
-وَكَفُّ الأذَى، وَرَدُّ السَّلاَم،ِ وَالأمْرُ بِالمَعْرُوفِ،
-وَالنَّهْيُ عَنِ المُنْكَرِ.
-  </p>
-</blockquote>
+> إيَّاكُمْ وَالجُلُوسَ فِي الطُّرُقَاتِ. قَالوا: يَا رَسُولَ اللهِ، مَا
+> لَنَا مِنْ مَجَالِسِنَا بُدٌّ، نَتَحَدَّثُ فِيها. قَالَ: إذَا
+> أبَيْتُمْ إلاَّ الجُلُوسَ فَاعْطُوا الطَّرِيقَ حَقَّهَا. قَالُوا:
+> وَمَا حَقُّ الطَّرِيقِ يَا رَسُولَ اللهِ؟ قَالَ: غَضُّ البَصَرِ،
+> وَكَفُّ الأذَى، وَرَدُّ السَّلاَم،ِ وَالأمْرُ بِالمَعْرُوفِ،
+> وَالنَّهْيُ عَنِ المُنْكَرِ.
 
 The Prophet (S) said:
 
@@ -2552,12 +2080,8 @@ evil.***[^109]
 
 Prophet Muhammad (S) also said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ كَلامِ ابْنِ آدَمَ عَلَيْهِ، لاَ لَهُ، إلاَّ أمْراً بِمَعْرُوفٍ،
-أوْ نَهياً عَنْ مُنْكَرٍ، أوْ ذِكْرَ اللهِ.
-  </p>
-</blockquote>
+> كُلُّ كَلامِ ابْنِ آدَمَ عَلَيْهِ، لاَ لَهُ، إلاَّ أمْراً بِمَعْرُوفٍ،
+> أوْ نَهياً عَنْ مُنْكَرٍ، أوْ ذِكْرَ اللهِ.
 
 ***All the speeches of man are to his harm except his invocation to
 Allah and his enjoining good and forbidding evil.***[^110]
@@ -2580,12 +2104,8 @@ evil.” The questioner asked again: “Which deed is more hated by Allah?”
 The Messenger said: “Polytheism, then cutting kinship ties, and then
 enjoining to evil and forbidding from good.”[^112]
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ اغْفِرْ لِىَ كُلَّ ذَنْبٍ أَذْنَبْتُهُ وَكُلَّ خَطِيئَةٍ
-أَخْطَأْتُهَا
-  </p>
-</blockquote>
+> اللَّهُمَّ اغْفِرْ لِىَ كُلَّ ذَنْبٍ أَذْنَبْتُهُ وَكُلَّ خَطِيئَةٍ
+> أَخْطَأْتُهَا
 
 *O Allah! Forgive me every sin I have committed and every mistake I have
 made!*
@@ -2605,23 +2125,15 @@ ones, hidden or apparent, in childhood, adolescence or adulthood. No one
 can forgive all the sins except You, because You are the Merciful and
 the Generous One Who stated in Your Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا
-تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا
+> تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
 
 ***‘Say: O my people who have been prodigal against yourselves, do not
 despair of Allah’s Mercy; surely Allah forgives sins altogether; surely
 He is the All-forgiving, the All-compassionate. (39:53)’***
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إِنِّى أَتَقَرَّبُ إِلَيْكَ بِذِكْرِكَ
-  </p>
-</blockquote>
+> اَللَّهُمَّ إِنِّى أَتَقَرَّبُ إِلَيْكَ بِذِكْرِكَ
 
 *O Allah, verily I seek nearness to You through remembrance of You.*
 
@@ -2666,14 +2178,10 @@ ethics, and accompany the prophets(as), the truthful, and the martyrs.
 The holy Qur’an comments on this informed and divine migration from all
 the evil to all the goodness:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الأَرْضِ مُرَاغَمًا
-كَثِيرًا وَسَعَةً وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى
-اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ
-عَلَى اللَّهِ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا.
-  </p>
-</blockquote>
+> وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الأَرْضِ مُرَاغَمًا
+> كَثِيرًا وَسَعَةً وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى
+> اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ
+> عَلَى اللَّهِ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا.
 
 ***Whosoever migrates for the cause of Allah will find much refuge and
 abundance in the earth, and whoso forsakes his home, a fugitive unto
@@ -2742,11 +2250,7 @@ The Holy Qur’an
 The Compassionate Allah has mentioned Qur’an as *Zikr* (remembrance) in
 various Qur’anic verses, such as:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ.
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ.
 
 ***It is We who have sent down the Remembrance, and We watch over it.
 (15:9)***
@@ -2771,14 +2275,10 @@ make the best people in the history out of the most ignorant ones. He
 saved the pagan Arabs from the Hell and moved them to the Paradise of
 guidance and prosperity. The Prophet (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-فَإذا الْتَبَسَتْ عَلَيْكُمُ الفِتَنُ كَقِطَعِ اللَّيْلِ المُظْلِمِ
-فَعَلَيْكُمْ بِالقُرْآنِ؛ فَإنَّهُ شَافِعٌ مُشَفِّعٌ، وَمَاحِلٌ
-مُصَدِّقٌ، وَمَنْ جَعَلَهُ أمَامَهُ قَادَهُ إلَى الجَنَّةِ، وَمَنْ
-جَعَلَهُ خَلْفَهُ سَاقَهُ إلَى النَّارِ.
-  </p>
-</blockquote>
+> فَإذا الْتَبَسَتْ عَلَيْكُمُ الفِتَنُ كَقِطَعِ اللَّيْلِ المُظْلِمِ
+> فَعَلَيْكُمْ بِالقُرْآنِ؛ فَإنَّهُ شَافِعٌ مُشَفِّعٌ، وَمَاحِلٌ
+> مُصَدِّقٌ، وَمَنْ جَعَلَهُ أمَامَهُ قَادَهُ إلَى الجَنَّةِ، وَمَنْ
+> جَعَلَهُ خَلْفَهُ سَاقَهُ إلَى النَّارِ.
 
 ***When the adversities made the issues ambiguous for you, as darkness
 of the night, follow Qur’an, because its intercession and its complaint
@@ -2788,12 +2288,8 @@ by it.***[^113]
 
 Imam Al-Sajjad (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ مَاتَ مَنْ بَيْنَ المَشْرِقَيْنِ وَالمَغْرِبَيْنِ لَمَا
-اسْتَوْحَشْتُ بَعْدَ أنْ يَكُونَ القُرْآنُ مَعِي.
-  </p>
-</blockquote>
+> لَوْ مَاتَ مَنْ بَيْنَ المَشْرِقَيْنِ وَالمَغْرِبَيْنِ لَمَا
+> اسْتَوْحَشْتُ بَعْدَ أنْ يَكُونَ القُرْآنُ مَعِي.
 
 ***If the humans from East to West die altogether, I would not be
 fearful, as long as Qur’an is with me.***[^114]
@@ -2807,12 +2303,8 @@ the Hereafter, as if he saw himself on top of the peak of salvation.
 
 Also Imam Zayn Al-Abidin (as) said:
 
-<blockquote dir="rtl">
-  <p>
-آيَاتُ القُرْآنِ خَزَائِنُ: فَكُلَّمَا فَتَحْتَ خَزِينَةً يَنْبَغِي
-لَكَ أنْ تَنْظُرَ مَا فِيهَا.
-  </p>
-</blockquote>
+> آيَاتُ القُرْآنِ خَزَائِنُ: فَكُلَّمَا فَتَحْتَ خَزِينَةً يَنْبَغِي
+> لَكَ أنْ تَنْظُرَ مَا فِيهَا.
 
 ***Qur’anic verses are treasure sites; so when each site is opened you’d
 better ponder carefully in it.***[^115]
@@ -2832,23 +2324,15 @@ tradition that includes major issues and lofty meanings. The late
 to the chapter which is on excellence of Qur’an. Imam al-Baqir (as),
 explaining about the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلاةَ تَنْهَى عَنْ الْفَحْشَاءِ وَالْمُنْكَرِ، وَلَذِكْرُ
-اللَّهِ أَكْبَرُ.
-  </p>
-</blockquote>
+> إِنَّ الصَّلاةَ تَنْهَى عَنْ الْفَحْشَاءِ وَالْمُنْكَرِ، وَلَذِكْرُ
+> اللَّهِ أَكْبَرُ.
 
 ***Prayer forbids indecency and dishonor. Allah’s remembrance is
 greater. (29:45)***
 
 He states:
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ ذِكْرُ اللهِ، وَنَحْنُ أكْبَرُ.
-  </p>
-</blockquote>
+> وَنَحْنُ ذِكْرُ اللهِ، وَنَحْنُ أكْبَرُ.
 
 ***And we are Allah’s remembrance, and we are greater.***[^116]
 
@@ -2873,13 +2357,9 @@ covered by Allah’s Wrath.
 The Prophet of Islam (S), in the last moments of his life, told his
 nation:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي أهْلَ
-بَيْتِي، وَإنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَلَيَّ الحَوْضَ،
-مَا إنْ تَمَسَّكْتُمْ بِهِمَا لَنْ تَضِلُّوا بَعْدِي أبَداً.
-  </p>
-</blockquote>
+> إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي أهْلَ
+> بَيْتِي، وَإنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَلَيَّ الحَوْضَ،
+> مَا إنْ تَمَسَّكْتُمْ بِهِمَا لَنْ تَضِلُّوا بَعْدِي أبَداً.
 
 ***I will leave two invaluable things among you; Qur’an and my
 Household. These two would not be separated from each other to be
@@ -2907,21 +2387,13 @@ of these meanings on his soul, mind, heart, and all organs becomes
 evident. Then a hot and sweet affection occupies his heart, and he
 becomes an instance of:
 
-<blockquote dir="rtl">
-  <p>
-أَشَدُّ حُبّاً لِلَّهِ.
-  </p>
-</blockquote>
+> أَشَدُّ حُبّاً لِلَّهِ.
 
 ***(Those of faith) are overflowing in their love for Allah. (2:165)***
 
 One who reaches this position is regarded as
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لا تُلْهِيهِمْ تِجَارَةٌ وَلا بَيْعٌ عَنْ ذِكْرِ اللَّهِ.
-  </p>
-</blockquote>
+> رِجَالٌ لا تُلْهِيهِمْ تِجَارَةٌ وَلا بَيْعٌ عَنْ ذِكْرِ اللَّهِ.
 
 ***Men whom neither traffic nor merchandise can divert from the
 Remembrance of Allah. (24:37)***
@@ -2935,11 +2407,7 @@ nothing above Allah.
 
 The Imam of the believers, ‘Ali (as), stated heartily:
 
-<blockquote dir="rtl">
-  <p>
-مَا رَأيْتُ شَيْئاً إلاَّ رَأيْتُ اللهَ قَبْلَهُ وَمَعَهُ وَبَعْدَهُ.
-  </p>
-</blockquote>
+> مَا رَأيْتُ شَيْئاً إلاَّ رَأيْتُ اللهَ قَبْلَهُ وَمَعَهُ وَبَعْدَهُ.
 
 ***I saw nothing except that I saw Allah before it, with it, an after
 it.***
@@ -2951,21 +2419,13 @@ companions, and hearing the sound of weeping women and girls of the
 Household (as), put his bloody face on the earth, before his Beloved and
 said:
 
-<blockquote dir="rtl">
-  <p>
-إلَهِي! رِضىً بِقَضَائِكَ وَصَبْراً عَلى بَلائِكَ وَتَسْلِيماً
-لأمْرِكَ، لا مَعْبُودَ لِي سِوَاكَ.
-  </p>
-</blockquote>
+> إلَهِي! رِضىً بِقَضَائِكَ وَصَبْراً عَلى بَلائِكَ وَتَسْلِيماً
+> لأمْرِكَ، لا مَعْبُودَ لِي سِوَاكَ.
 
 ***O Allah! I am happy with Your Wish, patient with Your examination,
 and surrendered to Your Order. There is no deity for me except You.***
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْتَشْفِعُ بِكَ إِلَى نَفْسِكَ
-  </p>
-</blockquote>
+> وَأَسْتَشْفِعُ بِكَ إِلَى نَفْسِكَ
 
 *I seek intercession from You with Yourself*
 
@@ -2983,11 +2443,7 @@ releases him from the consequences of committing sins, and hence makes
 him subjected to Allah’s Mercy. Therefore, the supplicant, with a broken
 heart says miserably:
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْتَشْفِعُ بِكَ إِلَى نَفْسِكَ...
-  </p>
-</blockquote>
+> وَأَسْتَشْفِعُ بِكَ إِلَى نَفْسِكَ...
 
 ***I seek intercession from You with Yourself***
 
@@ -3060,13 +2516,9 @@ principle whose refrainer is out of the sphere of Islam.
 The Intercession of Belief
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
-يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
-تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
+> يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
+> تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.
 
 ***O believers! Fear Allah and believe in His Messenger, and He will
 give you a twofold portion of His Mercy, and He will appoint for you a
@@ -3076,12 +2528,8 @@ All-Compassionate. (57:28)***
 The Intercession of Good deeds
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ
-مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ.
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ
+> مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ.
 
 ***To those who believe and do deeds of righteousness, Allah has
 promised forgiveness and a great reward. (5:9)***
@@ -3091,15 +2539,11 @@ The Intercession of Repentance
 
 *Mo’awiya Ibn Wahab* says: “I heard Imam Sadiq saying:
 
-<blockquote dir="rtl">
-  <p>
-إذَا تَابَ العَبْدُ تَوبَةً نَصُوحاً أحَبَّهُ اللهُ وَسَتَرَ
-عَلَيْهِ... يُنْسِي مَلَكَيْهِ مَا كَانَا يَكْتُبَانِ عَلَيْهِ،
-وَيُوحِي إلَى جَوارِحِهِ وَإلَى بِقَاعِ الأرْضِ أنْ اكْتُمِي عَلَيْهِ
-ذُنُوبَهُ؛ فَيَلْقَى اللهَ عَزَّ وَجَلَّ حِينَ يَلْقَاهُ وَلَيْسَ
-شَيْءٌ يَشْهَدُ عَلَيْهِ بِشَيْءٍ مِنَ الذُّنُوبِ.
-  </p>
-</blockquote>
+> إذَا تَابَ العَبْدُ تَوبَةً نَصُوحاً أحَبَّهُ اللهُ وَسَتَرَ
+> عَلَيْهِ... يُنْسِي مَلَكَيْهِ مَا كَانَا يَكْتُبَانِ عَلَيْهِ،
+> وَيُوحِي إلَى جَوارِحِهِ وَإلَى بِقَاعِ الأرْضِ أنْ اكْتُمِي عَلَيْهِ
+> ذُنُوبَهُ؛ فَيَلْقَى اللهَ عَزَّ وَجَلَّ حِينَ يَلْقَاهُ وَلَيْسَ
+> شَيْءٌ يَشْهَدُ عَلَيْهِ بِشَيْءٍ مِنَ الذُّنُوبِ.
 
 ***‘If a servant repents sincerely, Allah would love him and cover his
 faults in the world and the Hereafter.’ I asked Imam Sadiq (as): ‘How
@@ -3113,13 +2557,9 @@ The Intercession of Qur’an
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-إذَا الْتَبَسَتْ عَلَيْكُمُ الفِتَنُ كَقِطَعِ اللَّيْلِ المُظْلِمِ
-فَعَلَيْكُمْ بِالقُرْآنِ؛ فَإنَّهُ شَافِعٌ مُشَفِّعٌ، وَمَاحِلٌ
-مُصَدِّقٌ.
-  </p>
-</blockquote>
+> إذَا الْتَبَسَتْ عَلَيْكُمُ الفِتَنُ كَقِطَعِ اللَّيْلِ المُظْلِمِ
+> فَعَلَيْكُمْ بِالقُرْآنِ؛ فَإنَّهُ شَافِعٌ مُشَفِّعٌ، وَمَاحِلٌ
+> مُصَدِّقٌ.
 
 ***When calamities surround you like the darkness of night seek refuge
 in Qur’an, for Qur’an is an intercessor whose intercession would be
@@ -3129,17 +2569,9 @@ confirmed.***[^120]
 Many traditions are mentioned in *Bihar al-Anwar, Mahajjat Al-Bayza’*,
 and other valuable tradition books to which the readers can refer.
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْألُكَ بِجُودِكَ أَن تُدْنِيَنِى مِن قُرْبِكَ
-  </p>
-</blockquote>
+> وَأَسْألُكَ بِجُودِكَ أَن تُدْنِيَنِى مِن قُرْبِكَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَن تُوزِعَنِى شُكْرَكَ وَأَن تُلْهِمَنِى ذِكْرَكَ
-  </p>
-</blockquote>
+> وَأَن تُوزِعَنِى شُكْرَكَ وَأَن تُلْهِمَنِى ذِكْرَكَ
 
 *And I ask You through Your Munificence, to bring me nearer to Your
 Mercy, to bless me with gratitude to You and to inspire me with Your
@@ -3164,26 +2596,22 @@ phrases from the valuable *‘Arafa* supplication of Imam Husayn (as), so
 that we will understand that by resorting to Allah’s Mercy and ignoring
 any other worldly sources, one can gain spiritual positions:
 
-<blockquote dir="rtl">
-  <p>
-فَلَكَ الْحَمْدُ وَالشّكْرُ يَا مَنْ أَقَالَ عَثْرَتِي، وَنَفّسَ
-كُرْبَتِي، وَأَجَابَ دَعْوَتِي، وَسَتَرَ عَوْرَتِي، وَغَفَرَ ذُنُوبِي،
-وَبَلّغَنِي طَلِبَتِي، وَنَصَرَنِي عَلَى عَدُوّي، وَإِنْ أَعُدّ
-نِعَمَكَ وَمِنَنَكَ وَكَرَائِمَ مِنَحِكَ لا أُحْصِيهَا، يَا مَوْلايَ
-أَنْتَ الّذِي مَنَنْتَ، أَنْتَ الّذِي أَنْعَمْتَ، أَنْتَ الّذِي
-أَحْسَنْتَ، أَنْتَ الّذِي أَجْمَلْتَ، أَنْتَ الّذِي أَفْضَلْتَ، أَنْتَ
-الّذِي أَكْمَلْتَ، أَنْتَ الّذِي رَزَقْتَ، أَنْتَ الّذِي وَفّقْتَ،
-أَنْتَ الّذِي أَعْطَيْتَ، أَنْتَ الّذِي أَغْنَيْتَ، أَنْتَ الّذِي
-أَقْنَيْتَ، أَنْتَ الّذِي آوَيْتَ، أَنْتَ الّذِي كَفَيْتَ، أَنْتَ
-الّذِي هَدَيْتَ، أَنْتَ الّذِي عَصَمْتَ، أَنْتَ الّذِي سَتَرْتَ،
-أَنْتَ الّذِي غَفَرْتَ، أَنْتَ الّذِي أَقَلْتَ، أَنْتَ الّذِي
-مَكّنْتَ، أَنْتَ الّذِي أَعْزَزْتَ، أَنْتَ الّذِي أَعَنْتَ، أَنْتَ
-الّذِي عَضَدْتَ، أَنْتَ الّذِي أَيّدْتَ، أَنْتَ الّذِي نَصَرْتَ،
-أَنْتَ الّذِي شَفَيْتَ، أَنْتَ الّذِي عَافَيْتَ، أَنْتَ الّذِي
-أَكْرَمْتَ، تَبَارَكْتَ وَتَعَالَيْتَ، فَلَكَ الْحَمْدُ دَائِماً،
-وَلَكَ الشّكْرُ وَاصِباً أَبَداً.
-  </p>
-</blockquote>
+> فَلَكَ الْحَمْدُ وَالشّكْرُ يَا مَنْ أَقَالَ عَثْرَتِي، وَنَفّسَ
+> كُرْبَتِي، وَأَجَابَ دَعْوَتِي، وَسَتَرَ عَوْرَتِي، وَغَفَرَ ذُنُوبِي،
+> وَبَلّغَنِي طَلِبَتِي، وَنَصَرَنِي عَلَى عَدُوّي، وَإِنْ أَعُدّ
+> نِعَمَكَ وَمِنَنَكَ وَكَرَائِمَ مِنَحِكَ لا أُحْصِيهَا، يَا مَوْلايَ
+> أَنْتَ الّذِي مَنَنْتَ، أَنْتَ الّذِي أَنْعَمْتَ، أَنْتَ الّذِي
+> أَحْسَنْتَ، أَنْتَ الّذِي أَجْمَلْتَ، أَنْتَ الّذِي أَفْضَلْتَ، أَنْتَ
+> الّذِي أَكْمَلْتَ، أَنْتَ الّذِي رَزَقْتَ، أَنْتَ الّذِي وَفّقْتَ،
+> أَنْتَ الّذِي أَعْطَيْتَ، أَنْتَ الّذِي أَغْنَيْتَ، أَنْتَ الّذِي
+> أَقْنَيْتَ، أَنْتَ الّذِي آوَيْتَ، أَنْتَ الّذِي كَفَيْتَ، أَنْتَ
+> الّذِي هَدَيْتَ، أَنْتَ الّذِي عَصَمْتَ، أَنْتَ الّذِي سَتَرْتَ،
+> أَنْتَ الّذِي غَفَرْتَ، أَنْتَ الّذِي أَقَلْتَ، أَنْتَ الّذِي
+> مَكّنْتَ، أَنْتَ الّذِي أَعْزَزْتَ، أَنْتَ الّذِي أَعَنْتَ، أَنْتَ
+> الّذِي عَضَدْتَ، أَنْتَ الّذِي أَيّدْتَ، أَنْتَ الّذِي نَصَرْتَ،
+> أَنْتَ الّذِي شَفَيْتَ، أَنْتَ الّذِي عَافَيْتَ، أَنْتَ الّذِي
+> أَكْرَمْتَ، تَبَارَكْتَ وَتَعَالَيْتَ، فَلَكَ الْحَمْدُ دَائِماً،
+> وَلَكَ الشّكْرُ وَاصِباً أَبَداً.
 
 ***Therefore, praise is for Thee, and also gratitude. O He who
 overlooked my lapses, relieved me from anxiety and grief, answered to my
@@ -3209,20 +2637,16 @@ It is worthy as well to review parts of *Abu Hamza Thomali*
 supplication, which was the prayer of Imam *Zayn Al-Abidin* (as) on
 Ramadan nights. It helps get a bit of Allah’s Munificence:
 
-<blockquote dir="rtl">
-  <p>
-سَيّدِي أَنَا الصّغِيرُ الّذِي رَبّيْتَهُ وَأَنَا الْجَاهِلُ الّذِي
-عَلّمْتَهُ وَأَنَا الضَّالّ الّذِي هَدَيْتَهُ وَأَنَا الْوَضِيعُ
-الّذِي رَفَعْتَهُ وَأَنَا الْخَائِفُ الّذِي آمَنْتَهُ وَالْجَائِعُ
-الّذِي أَشْبَعْتَهُ وَالْعَطْشَانُ الّذِي أَرْوَيْتَهُ وَالْعَارِي
-الّذِي كَسَوْتَهُ وَالْفَقِيرُ الّذِي أَغْنَيْتَهُ وَالضّعِيفُ الّذِي
-قَوّيْتَهُ وَالذّلِيلُ الّذِي أَعْزَزْتَهُ وَالسّقِيمُ الّذِي
-شَفَيْتَهُ وَالسَّائِلُ الّذِي أَعْطَيْتَهُ وَالْمُذْنِبُ الّذِي
-سَتَرْتَهُ وَالْخَاطِئُ الّذِي أَقَلْتَهُ وَأَنَا الْقَلِيلُ الّذِي
-كَثّرْتَهُ وَالْمُسْتَضْعَفُ الّذِي نَصَرْتَهُ وَأَنَا الطّرِيدُ
-الّذِي آوَيْتَهُ.
-  </p>
-</blockquote>
+> سَيّدِي أَنَا الصّغِيرُ الّذِي رَبّيْتَهُ وَأَنَا الْجَاهِلُ الّذِي
+> عَلّمْتَهُ وَأَنَا الضَّالّ الّذِي هَدَيْتَهُ وَأَنَا الْوَضِيعُ
+> الّذِي رَفَعْتَهُ وَأَنَا الْخَائِفُ الّذِي آمَنْتَهُ وَالْجَائِعُ
+> الّذِي أَشْبَعْتَهُ وَالْعَطْشَانُ الّذِي أَرْوَيْتَهُ وَالْعَارِي
+> الّذِي كَسَوْتَهُ وَالْفَقِيرُ الّذِي أَغْنَيْتَهُ وَالضّعِيفُ الّذِي
+> قَوّيْتَهُ وَالذّلِيلُ الّذِي أَعْزَزْتَهُ وَالسّقِيمُ الّذِي
+> شَفَيْتَهُ وَالسَّائِلُ الّذِي أَعْطَيْتَهُ وَالْمُذْنِبُ الّذِي
+> سَتَرْتَهُ وَالْخَاطِئُ الّذِي أَقَلْتَهُ وَأَنَا الْقَلِيلُ الّذِي
+> كَثّرْتَهُ وَالْمُسْتَضْعَفُ الّذِي نَصَرْتَهُ وَأَنَا الطّرِيدُ
+> الّذِي آوَيْتَهُ.
 
 ***O my Master! I am the little that You have brought up And I am the
 ignorant that You have taught And I am the straying that You have guided
@@ -3254,12 +2678,8 @@ other than Allah gets ignored by him. Such a servant would be Allah’s
 successor on the earth, and would act godly, on his part, as is stated
 in a divine tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَبْدِي أطِعْنِي حَتَّى اَجْعَلَكَ مِثْلِي: تَقُلْ لِلْشَيْءِ ’كُنْ‘
-فَيَكُونُ.
-  </p>
-</blockquote>
+> عَبْدِي أطِعْنِي حَتَّى اَجْعَلَكَ مِثْلِي: تَقُلْ لِلْشَيْءِ ’كُنْ‘
+> فَيَكُونُ.
 
 ***My servant! Obey Me so that I will set you an example of Myself, in
 terms of Power and Inclination. I say ‘Be!’ to something, and it becomes
@@ -3268,12 +2688,8 @@ immediately, too.***[^123]
 
 Another Divine tradition reads:
 
-<blockquote dir="rtl">
-  <p>
-أنَا مَلِكٌ حَيٌّ لا أمُوتُ أبَداً، عَبْدِي اَطِعْنِي اَجْعَلْكَ
-مَلِكاً حَيّاً لاَ تَمُوتُ أبَداً.
-  </p>
-</blockquote>
+> أنَا مَلِكٌ حَيٌّ لا أمُوتُ أبَداً، عَبْدِي اَطِعْنِي اَجْعَلْكَ
+> مَلِكاً حَيّاً لاَ تَمُوتُ أبَداً.
 
 ***I am an alive King who never dies. Obey Me, My servant, so that I
 would set you, too, as an alive king who never dies.***[^124]
@@ -3291,13 +2707,9 @@ takes forward. But His Mercy approaches the servant considerably faster
 than the servant’s approach towards Him, hence we read in another Divine
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَقَرَّبَ اِلَيَّ شِبْراً تَقَرَّبْتُ اِلَيْهِ ذِرَاعاً، وَمَنْ
-تَقَرَّبَ اِلَيَّ ذِرَاعاً تَقَرَّبْتُ اِلَيْهِ بَاعاً، وَمَنْ أتَانِي
-مَشْياً أتَيْتُ اِلَيْهِ هَرْوَلَةً.
-  </p>
-</blockquote>
+> مَنْ تَقَرَّبَ اِلَيَّ شِبْراً تَقَرَّبْتُ اِلَيْهِ ذِرَاعاً، وَمَنْ
+> تَقَرَّبَ اِلَيَّ ذِرَاعاً تَقَرَّبْتُ اِلَيْهِ بَاعاً، وَمَنْ أتَانِي
+> مَشْياً أتَيْتُ اِلَيْهِ هَرْوَلَةً.
 
 ***When one approaches Me as far as a span I would approach him as far
 as a cubit, and if he walks to Me, I would run to him.***[^125]
@@ -3311,15 +2723,11 @@ Speech; and their will is Allah’s Will. This view is based on
 significant Divine traditions narrated by the Prophet (S) and his
 Household (as), like the following:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ اللهَ يَقُولُ: لاَ يَزَالُ عَبْدٌ يَتَقَرَّبُ اِلَيَّ
-بِالنَّوَافِلِ حَتَّى أُحِبَّهُ فَأكُونُ أنَا سَمْعَهُ الَّذِي
-يَسْمَعُ بِهِ وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي
-يَنْطِقُ بِهِ وَقَلْبَهُ الَّذِي يَعْقِلُ بِهِ؛ فَإذَا دَعَانِي
-أجَبْتُهُ وإذَا سَألَنِي أعْطَيْتُهُ.
-  </p>
-</blockquote>
+> اِنَّ اللهَ يَقُولُ: لاَ يَزَالُ عَبْدٌ يَتَقَرَّبُ اِلَيَّ
+> بِالنَّوَافِلِ حَتَّى أُحِبَّهُ فَأكُونُ أنَا سَمْعَهُ الَّذِي
+> يَسْمَعُ بِهِ وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ وَلِسَانَهُ الَّذِي
+> يَنْطِقُ بِهِ وَقَلْبَهُ الَّذِي يَعْقِلُ بِهِ؛ فَإذَا دَعَانِي
+> أجَبْتُهُ وإذَا سَألَنِي أعْطَيْتُهُ.
 
 ***The Almighty says: My favorite servants seek nearness to Me through
 Nafila (recommended prayers) to the extent that I would love him. This
@@ -3329,14 +2737,10 @@ requests Me I would grant him.***[^126]
 
 The Prophet of Islam (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-كَلاَمُ المُتَّقِينَ بِمَنْزِلَةِ الوَحْيِ مِنَ السَّمَاءِ إذَا
-وُجِدَتْ كَلِمَةٌ عَلَى لِسَانِ بَعْضِهِمْ فَقِيلَ لَهُ: مَنْ
-حَدَّثَكَ بِهَذِهِ؟ فَيَقُولُ: حَدَّثَنِي قَلْبِي عَنْ فِكْرِي عَنْ
-سِرِّي عَنْ رَبِّي.
-  </p>
-</blockquote>
+> كَلاَمُ المُتَّقِينَ بِمَنْزِلَةِ الوَحْيِ مِنَ السَّمَاءِ إذَا
+> وُجِدَتْ كَلِمَةٌ عَلَى لِسَانِ بَعْضِهِمْ فَقِيلَ لَهُ: مَنْ
+> حَدَّثَكَ بِهَذِهِ؟ فَيَقُولُ: حَدَّثَنِي قَلْبِي عَنْ فِكْرِي عَنْ
+> سِرِّي عَنْ رَبِّي.
 
 ***The speech of Allah’s pious servants has an equal stance as heavenly
 revelation. So when some of them speak they are asked: ‘Are you talking
@@ -3347,22 +2751,14 @@ Lord.’***[^127]
 The highest such position belonged to the Prophet of Islam (S), so he
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَآنِي فَقَد رَأى الحَقَّ.
-  </p>
-</blockquote>
+> مَنْ رَآنِي فَقَد رَأى الحَقَّ.
 
 ***One who sees me has undoubtedly seen the Truth.***[^128]
 
 And he also stated:
 
-<blockquote dir="rtl">
-  <p>
-لِي مَعَ اللهِ وَقْتٌ لاَ يَسَعُنِي فِيهِ مَلَكٌ مُقَرَّبٌ وَلاَ
-نَبِيٌّ مُرْسَلٌ.
-  </p>
-</blockquote>
+> لِي مَعَ اللهِ وَقْتٌ لاَ يَسَعُنِي فِيهِ مَلَكٌ مُقَرَّبٌ وَلاَ
+> نَبِيٌّ مُرْسَلٌ.
 
 ***There is a special time for me with Allah in which no favorite angel,
 or prophet is allowed.***[^129]
@@ -3370,11 +2766,7 @@ or prophet is allowed.***[^129]
 After the Prophet (S), the second nearest position to Allah is for Imam
 ‘Ali (as) who stated:
 
-<blockquote dir="rtl">
-  <p>
-مَعْرِفَتِي بِالنُّورَانِيَّةِ مَعْرِفَةُ اللهِ.
-  </p>
-</blockquote>
+> مَعْرِفَتِي بِالنُّورَانِيَّةِ مَعْرِفَةُ اللهِ.
 
 ***Knowing me is possible through knowing Allah’s Light.***[^130]
 
@@ -3448,34 +2840,22 @@ These are the positions that Allah’s favourite servants gained, only due
 to their vigorous attempts. It is so high a position that few human
 beings can obtain it:
 
-<blockquote dir="rtl">
-  <p>
-وَقَلِيلٌ مِنْ عِبَادِي الشَّكُورُ.
-  </p>
-</blockquote>
+> وَقَلِيلٌ مِنْ عِبَادِي الشَّكُورُ.
 
 ***But few of My servants are grateful. (34:13)***
 
 The valuable narrator, the late *Mullah Mohammad Al-Baqir Majlesi* says
 about the gratitude position:
 
-<blockquote dir="rtl">
-  <p>
-الشُّكْرُ الإعْتِرَافُ بِالنِّعْمَةِ ظَاهِراً وَبَاطِناً وَمَعْرِفَةُ
-المُنْعِمِ وَصَرْفُهَا فِي مَا أمَرَ بِهِ.
-  </p>
-</blockquote>
+> الشُّكْرُ الإعْتِرَافُ بِالنِّعْمَةِ ظَاهِراً وَبَاطِناً وَمَعْرِفَةُ
+> المُنْعِمِ وَصَرْفُهَا فِي مَا أمَرَ بِهِ.
 
 ***Gratitude is acknowledging the blessings, and the Provider of the
 blessings, and spending our blessings in ways we are ordered.***[^133]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-شُكْرُ النِّعْمَةِ اجْتِنَابُ المَحَارِمِ.
-  </p>
-</blockquote>
+> شُكْرُ النِّعْمَةِ اجْتِنَابُ المَحَارِمِ.
 
 ***Being grateful of Allah’s blessings is avoiding all that is
 unlawful.***[^134]
@@ -3483,11 +2863,7 @@ unlawful.***[^134]
 At the end of his sermon on *‘Ashura* night, Imam *Husayn* (as) asked
 the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلْنَا مِنَ الشَّاكِرِينَ.
-  </p>
-</blockquote>
+> فَاجْعَلْنَا مِنَ الشَّاكِرِينَ.
 
 ***O Lord! Set us as Your grateful servants.***[^135]
 
@@ -3499,14 +2875,10 @@ which Allah has ordered.
 
 Imam Sadiq (as) has narrated the following:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ عَزَّ وَجَلَّ أوْحَى اِلَى مُوسَى: يَا مُوسَى! إشْكُرْنِي
-حَقَّ شُكْرِي. فَقَالَ: يَا رَبِّ! وَكَيْفَ أشْكُرُكَ حَقَّ شُكْرِكَ
-وَلَيْسَ مِنْ شُكْرٍ الاَّ وَأنْتَ أنْعَمْتَ عَلَيَّ؟ قَالَ: يَا
-مُوسَى! الآنَ شَكَرْتَنِي حَيْثُ عَلِمْتَ أنَّ ذَلِكَ مِنِّي.
-  </p>
-</blockquote>
+> إنَّ اللهَ عَزَّ وَجَلَّ أوْحَى اِلَى مُوسَى: يَا مُوسَى! إشْكُرْنِي
+> حَقَّ شُكْرِي. فَقَالَ: يَا رَبِّ! وَكَيْفَ أشْكُرُكَ حَقَّ شُكْرِكَ
+> وَلَيْسَ مِنْ شُكْرٍ الاَّ وَأنْتَ أنْعَمْتَ عَلَيَّ؟ قَالَ: يَا
+> مُوسَى! الآنَ شَكَرْتَنِي حَيْثُ عَلِمْتَ أنَّ ذَلِكَ مِنِّي.
 
 ***The Almighty revealed to Moses (as): O Moses! Be grateful to Me as I
 deserve it! Moses said: O Lord! How should I be grateful to You, as You
@@ -3516,13 +2888,9 @@ now, as you understood that even your tongue is My blessing.***[^136]
 
 We read in ‘Arafa supplication of Imam Husayn (as):
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ حَرَصْتُ أَنَا وَالْعَادّونَ مِنْ أَنَامِكَ أَنْ نُحْصِيَ مَدَى
-إِنْعَامِكَ سَالِفِهِ وَآنِفِهِ مَا حَصَرْنَاهُ عَدَداً، وَلا
-أَحْصَيْنَاهُ أَمَداً.
-  </p>
-</blockquote>
+> وَلَوْ حَرَصْتُ أَنَا وَالْعَادّونَ مِنْ أَنَامِكَ أَنْ نُحْصِيَ مَدَى
+> إِنْعَامِكَ سَالِفِهِ وَآنِفِهِ مَا حَصَرْنَاهُ عَدَداً، وَلا
+> أَحْصَيْنَاهُ أَمَداً.
 
 ***If I crave for more, taken up with greed to have an idea about Thy
 bounties, given and to be given (with the help of expert accountants),
@@ -3532,14 +2900,10 @@ available!***[^137]
 
 Prophet David (as) said to Allah:
 
-<blockquote dir="rtl">
-  <p>
-يَا رَبِّ! كَيْفَ اَشْكُرُكَ وَالشُّكْرُ نِعْمَةٌ مِنْكَ أحْتَاجُ
-اِلَيْهَا اِلَى شُكْرٍ آخَرَ؟ فَقَالَ اللهُ عَزَّ وَجَلَّ: يَا
-دَاوُدُ! إذَا عَلِمْتَ أنَّ مَا بِكَ مِنْ نِعْمَةٍ فَمِنِّي، فَقَدْ
-شَكَرْتَنِي.
-  </p>
-</blockquote>
+> يَا رَبِّ! كَيْفَ اَشْكُرُكَ وَالشُّكْرُ نِعْمَةٌ مِنْكَ أحْتَاجُ
+> اِلَيْهَا اِلَى شُكْرٍ آخَرَ؟ فَقَالَ اللهُ عَزَّ وَجَلَّ: يَا
+> دَاوُدُ! إذَا عَلِمْتَ أنَّ مَا بِكَ مِنْ نِعْمَةٍ فَمِنِّي، فَقَدْ
+> شَكَرْتَنِي.
 
 ***My Lord! How can I thank You while my thank is itself another
 blessing of Yours for which I should thank You again? He was answered by
@@ -3599,29 +2963,13 @@ the nearness of Allah. By inspiration through the words of remembrance,
 human comes to discern his Lord better, and becomes prepared to devote
 himself to his Beloved, saying, like Imam Husayn (as):
 
-<blockquote dir="rtl">
-  <p>
-تَرَكْتُ الخَلْقَ طُرّاً فِي هَواكا
-  </p>
-</blockquote>
+> تَرَكْتُ الخَلْقَ طُرّاً فِي هَواكا
 
-<blockquote dir="rtl">
-  <p>
-وَأيْتَمْتُ العِيَالَ لِكَيْ أرَاكَا
-  </p>
-</blockquote>
+> وَأيْتَمْتُ العِيَالَ لِكَيْ أرَاكَا
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْ قَطَّعْتَنِي بِالحُبِّ اِرْباً
-  </p>
-</blockquote>
+> فَلَوْ قَطَّعْتَنِي بِالحُبِّ اِرْباً
 
-<blockquote dir="rtl">
-  <p>
-لَمَا مَالَ الفُؤادُ اِلَى سِوَاكَا
-  </p>
-</blockquote>
+> لَمَا مَالَ الفُؤادُ اِلَى سِوَاكَا
 
 *I have left all Your creatures for your sake.*
 
@@ -3634,26 +2982,18 @@ himself to his Beloved, saying, like Imam Husayn (as):
 The inspired remembrance is the one uttered by Imam Al-Sajjad (as) in
 Khamsa ‘Ashar supplication:
 
-<blockquote dir="rtl">
-  <p>
-وَآنِسْنَا بِالذِّكْرِ الخَفِيِّ وَاسْتَعْمِلْنَا بِالعَمَلِ
-الذَّكِيِّ وَالسَّعْيِ المَرْضِيِّ.
-  </p>
-</blockquote>
+> وَآنِسْنَا بِالذِّكْرِ الخَفِيِّ وَاسْتَعْمِلْنَا بِالعَمَلِ
+> الذَّكِيِّ وَالسَّعْيِ المَرْضِيِّ.
 
 ***And familiarize us with your hidden remembrance, and engage us in
 virtuous deeds and attempt.***[^139]
 
 The Prophet of Islam (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَزَالُ المُؤْمِنُ الَّذِي يَذْكُرُ اللهَ فِي كُلِّ حَالٍ فِي
-أنْوَارٍ خَمْسٍ: مَدْخَلُهُ نُورٌ وَمَخْرَجُهُ نُورٌ، وَكَلامُهُ
-نُورٌ، وَغِذَاؤهُ نُورٌ، وَمَنْظَرُهُ يَوْمَ القِيَامَةِ اِلَى
-النُّورِ.
-  </p>
-</blockquote>
+> لاَ يَزَالُ المُؤْمِنُ الَّذِي يَذْكُرُ اللهَ فِي كُلِّ حَالٍ فِي
+> أنْوَارٍ خَمْسٍ: مَدْخَلُهُ نُورٌ وَمَخْرَجُهُ نُورٌ، وَكَلامُهُ
+> نُورٌ، وَغِذَاؤهُ نُورٌ، وَمَنْظَرُهُ يَوْمَ القِيَامَةِ اِلَى
+> النُّورِ.
 
 ***A pious believer who always remembers Allah is placed in five
 illuminated states; his entrance is light, his exit is light, his speech
@@ -3666,13 +3006,9 @@ heart except that his heart is cleansed from worldly affections. This
 purification is only possible through worshipping and avoiding sins and
 vices.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنِّى أَسْألُكَ سُؤَالَ خَاضِعٍ مُّتَذَلِّلٍ خَاشِعٍ أَن
-تُسَامِحَنِى وَتَرْحَمَنِى وَتَجْعلَنِى بِقَسَمِكَ رَاضِيًا قَانِعًا،
-وَفِى جَمِيعِ الأَحْوَاِل مُتَوَاضِعًا.
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنِّى أَسْألُكَ سُؤَالَ خَاضِعٍ مُّتَذَلِّلٍ خَاشِعٍ أَن
+> تُسَامِحَنِى وَتَرْحَمَنِى وَتَجْعلَنِى بِقَسَمِكَ رَاضِيًا قَانِعًا،
+> وَفِى جَمِيعِ الأَحْوَاِل مُتَوَاضِعًا.
 
 *O Allah! Verily I ask You with the asking of a submissive, abased and
 lowly man to show me forbearance, to have mercy on me and to make me
@@ -3686,13 +3022,9 @@ If a supplication is done in the darkness of night with a humble heart,
 a submissive appearance and tearful eyes, it is undoubtedly more
 probable to be accepted. The Almighty revealed to Prophet Moses (as):
 
-<blockquote dir="rtl">
-  <p>
-يَا بْنَ عِمْرَانَ! هَبْ لِي مِنْ قَلْبِكَ الخُشُوعَ، وَمِنْ بَدَنِكَ
-الخُضُوعَ، وَمِنْ عَيْنَيْكَ الدُّمُوعَ فِي ظُلَمِ اللَّيْلِ،
-وَادْعُني فَإنَّكَ تَجِدُنِي قَرِيباً مُجِيباً.
-  </p>
-</blockquote>
+> يَا بْنَ عِمْرَانَ! هَبْ لِي مِنْ قَلْبِكَ الخُشُوعَ، وَمِنْ بَدَنِكَ
+> الخُضُوعَ، وَمِنْ عَيْنَيْكَ الدُّمُوعَ فِي ظُلَمِ اللَّيْلِ،
+> وَادْعُني فَإنَّكَ تَجِدُنِي قَرِيباً مُجِيباً.
 
 ***O son of Imran! Bring to My Presence submission of your heart,
 humbleness of your body, and tears of your eyes in the darkness of night
@@ -3706,11 +3038,7 @@ with Allah’s apportionment, and 4. Humbleness in all states of his life.
 
 The supplicant should bear in mind that based on the principle of
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لأَنفُسِكُمْ.
-  </p>
-</blockquote>
+> إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لأَنفُسِكُمْ.
 
 ***If you do good, you will do good for your own souls. (17:7)***
 
@@ -3739,13 +3067,9 @@ The Messenger of Allah (as), in a significant tradition, has warned
 people against moral vices and encouraged them to observe brotherhood
 rights:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَدَابَروا وَلاَ تَحَاسَدوا وَلاَ تَقَاطَعوا، وَكُونُوا عِبَادَ
-اللهِ اِخْواناً؛ اَلمُسْلِمُ أخُو المُسْلِمِ لاَ يَظْلِمُهُ وَلاَ
-يَحْرِمُهُ وَلاَ يَخْذُلُهُ.
-  </p>
-</blockquote>
+> لاَ تَدَابَروا وَلاَ تَحَاسَدوا وَلاَ تَقَاطَعوا، وَكُونُوا عِبَادَ
+> اللهِ اِخْواناً؛ اَلمُسْلِمُ أخُو المُسْلِمِ لاَ يَظْلِمُهُ وَلاَ
+> يَحْرِمُهُ وَلاَ يَخْذُلُهُ.
 
 ***Do not be hostile toward each other, and not be angry with each
 other, do not be jealous of each other, do not cut ties of friendship,
@@ -3755,51 +3079,35 @@ wealth, and does not leave him alone.***[^142]
 
 He also stated:
 
-<blockquote dir="rtl">
-  <p>
-مُدَارَاةُ النَّاسِ نِصْفُ الإيمَانِ، وَالرِّفْقُ بِهِمْ نِصْفُ
-العَيْشِ.
-  </p>
-</blockquote>
+> مُدَارَاةُ النَّاسِ نِصْفُ الإيمَانِ، وَالرِّفْقُ بِهِمْ نِصْفُ
+> العَيْشِ.
 
 ***Lenience with people is half the belief and compassion to them is
 half the life.***[^143]
 
 And he said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ امْرَءً سَهَّلَ الْبَيْعَ وَسَهَّلَ الشِّرَاءَ وَسَهَّلَ
-الاقْتِضَاءَ.
-  </p>
-</blockquote>
+> رَحِمَ اللهُ امْرَءً سَهَّلَ الْبَيْعَ وَسَهَّلَ الشِّرَاءَ وَسَهَّلَ
+> الاقْتِضَاءَ.
 
 ***May Allah forgive the one who is lenient in buying and selling goods,
 and in collecting debts.***[^144]
 
 The Prophet (S) has stated as well:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أنْظَرَ مُعْسِراً أو تَرَكَ حَاسَبَهُ اللهُ حِسَاباً يَسِيراً.
-  </p>
-</blockquote>
+> مَنْ أنْظَرَ مُعْسِراً أو تَرَكَ حَاسَبَهُ اللهُ حِسَاباً يَسِيراً.
 
 ***One who respites a debtor or leaves him Allah would account for his
 deeds leniently.***[^145]
 
 It is also narrated from the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ رَجُلاً كَانَ مُسْرِفاً عَلَى نَفْسِهِ، حُوسِبَ فَلَمْ تُوجَدْ
-لَهُ حَسَنَةٌ، فَقِيلَ لَهُ: هَلْ عَمِلْتَ خَيْراً قَطُّ؟ فَقَالَ:
-لاَ، إلاَّ أنِّي كُنْتُ رَجُلاً أُدَايِنُ النَّاسَ، فَأقُولُ
-لِفِتْيَانِي: سَامِحُوا المُوسِرِينَ، وَأَنْظِرُوا المُعْسِرِينَ.
-فَقَالَ اللهُ تَعَالَى: فَنَحْنُ أحَقُّ بِذَلِكَ مِنْكَ! فَتَجَاوَزَ
-اللهُ عَنْهُ وَغَفَرَ لَهُ.
-  </p>
-</blockquote>
+> إنَّ رَجُلاً كَانَ مُسْرِفاً عَلَى نَفْسِهِ، حُوسِبَ فَلَمْ تُوجَدْ
+> لَهُ حَسَنَةٌ، فَقِيلَ لَهُ: هَلْ عَمِلْتَ خَيْراً قَطُّ؟ فَقَالَ:
+> لاَ، إلاَّ أنِّي كُنْتُ رَجُلاً أُدَايِنُ النَّاسَ، فَأقُولُ
+> لِفِتْيَانِي: سَامِحُوا المُوسِرِينَ، وَأَنْظِرُوا المُعْسِرِينَ.
+> فَقَالَ اللهُ تَعَالَى: فَنَحْنُ أحَقُّ بِذَلِكَ مِنْكَ! فَتَجَاوَزَ
+> اللهُ عَنْهُ وَغَفَرَ لَهُ.
 
 ***In the Hereafter, a sinner man is called to account and no virtue is
 found in his letter of deeds to save him. He is asked: ‘Have you ever
@@ -3829,73 +3137,45 @@ of sins, strong in belief, and lenient with religious brothers.***[^147]
 
 In other traditions, the Prophet (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-أمَرَنِي رَبِّي بِمُدَارَاةِ النَّاسِ كَما أمَرَنِي بِأدَاءِ
-الفَرَائِضِ.
-  </p>
-</blockquote>
+> أمَرَنِي رَبِّي بِمُدَارَاةِ النَّاسِ كَما أمَرَنِي بِأدَاءِ
+> الفَرَائِضِ.
 
 ***My Lord has ordered me to be lenient with people, as he has ordered
 me to do obligatory deeds.***[^148]
 
-<blockquote dir="rtl">
-  <p>
-ثَلاَثٌ مَنْ لَمْ يَكُنَّ فِيهِ لَمْ يَتِمَّ لَهُ عَمَلٌ: وَرَعٌ
-يَحْجِزُهُ عَنْ مَعَاصِي اللهِ، وَخُلُقٌ يُدَارِيِ بِهِ النَّاسَ
-وَحُلُمٌ يَرُدُّ بِهِ جَهْلَ الجَاهِلِ.
-  </p>
-</blockquote>
+> ثَلاَثٌ مَنْ لَمْ يَكُنَّ فِيهِ لَمْ يَتِمَّ لَهُ عَمَلٌ: وَرَعٌ
+> يَحْجِزُهُ عَنْ مَعَاصِي اللهِ، وَخُلُقٌ يُدَارِيِ بِهِ النَّاسَ
+> وَحُلُمٌ يَرُدُّ بِهِ جَهْلَ الجَاهِلِ.
 
 ***Anyone who does not have these three things has accomplished no deed;
 the piety that prevents him from wrongdoing, the morality that leads him
 to be lenient with people, and the patience that stands against the
 ignorance of the foolish.***[^149]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الرِّفْقَ لَمْ يُوضَعْ عَلَى شَيْءٍ اِلاَّ زَانَهُ وَلاَ نُزِعَ
-مِنْ شَيْءٍ إلاَّ شَانَهُ.
-  </p>
-</blockquote>
+> إنَّ الرِّفْقَ لَمْ يُوضَعْ عَلَى شَيْءٍ اِلاَّ زَانَهُ وَلاَ نُزِعَ
+> مِنْ شَيْءٍ إلاَّ شَانَهُ.
 
 ***Lenience is not placed in anything except that adorns it, and is not
 removed from anything except that aggravates it.***[^150]
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كَانَ الرِّفْقُ خَلْقاً يُرَى مَا كَانَ مِمَّا خَلَقَ اللهُ عَزَّ
-وَجَلَّ شَيْءٌ أحْسَنُ مِنْهُ.
-  </p>
-</blockquote>
+> لَوْ كَانَ الرِّفْقُ خَلْقاً يُرَى مَا كَانَ مِمَّا خَلَقَ اللهُ عَزَّ
+> وَجَلَّ شَيْءٌ أحْسَنُ مِنْهُ.
 
 ***If peoples’ lenience was discernible, it was more beautiful than any
 of Allah’s creatures.***[^151]
 
 It is narrated from Amir Al-Mo’minin (as):
 
-<blockquote dir="rtl">
-  <p>
-ثَمَرَةُ العَقْلِ مُدَارَاةُ النَّاسِ.
-  </p>
-</blockquote>
+> ثَمَرَةُ العَقْلِ مُدَارَاةُ النَّاسِ.
 
 ***The fruit of wisdom is lenience with people.***[^152]
 
-<blockquote dir="rtl">
-  <p>
-مُدَارَاةُ الرَّجُلِ مِنْ أفْضَلِ الأعْمَالِ.
-  </p>
-</blockquote>
+> مُدَارَاةُ الرَّجُلِ مِنْ أفْضَلِ الأعْمَالِ.
 
 ***Lenience with people is among the best deeds.***[^153]
 
-<blockquote dir="rtl">
-  <p>
-دَارِِ النَّاسَ تَسْتَمْتِعْ بِإخَائِهِمْ، وَألْقِهِمْ بِالبِشْرِ
-تُمِتْ أضْغَانَهُمْ.
-  </p>
-</blockquote>
+> دَارِِ النَّاسَ تَسْتَمْتِعْ بِإخَائِهِمْ، وَألْقِهِمْ بِالبِشْرِ
+> تُمِتْ أضْغَانَهُمْ.
 
 ***Behave leniently with people to benefit from their brotherhood, and
 be kind to them to eliminate their hatred.***[^154]
@@ -3903,21 +3183,13 @@ be kind to them to eliminate their hatred.***[^154]
 According to the Messenger of Allah (S) the lenience of Allah to His
 servants is the result of the servants’ lenience with other people:
 
-<blockquote dir="rtl">
-  <p>
-إسْمَحْ يُسْمَحْ لَكَ.
-  </p>
-</blockquote>
+> إسْمَحْ يُسْمَحْ لَكَ.
 
 ***Be lenient with people to get subjected to lenience.***[^155]
 
 Lenience and mercy are attributes of Allah. As the Prophet (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-تَخَلَّقُوا بِأخْلاَقِ اللهِ.
-  </p>
-</blockquote>
+> تَخَلَّقُوا بِأخْلاَقِ اللهِ.
 
 ***Imitate the attributes of Allah.***[^156]
 
@@ -3933,11 +3205,7 @@ are obedient to Him and merciful to His servants. They should avoid
 annoying and oppressing other people and violating their rights. They
 should always keep in mind the principle:
 
-<blockquote dir="rtl">
-  <p>
-إرْحَمْ تُرْحَمْ.
-  </p>
-</blockquote>
+> إرْحَمْ تُرْحَمْ.
 
 ***Be merciful to get subjected to others’ mercy.***[^157]
 
@@ -3950,15 +3218,11 @@ Mercy, some of which come here:
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ للهِ تَعَالَى مِائَةَ رَحْمَةٍ أنْزَلَ مِنْهَا رَحْمَةً وَاحِدَةً
-بَيْنَ الجِنِّ وَالإنْسِ وَالطَّيْرِ وَالبَهَائِمِ وَالهَوامِّ؛
-فَبِهَا يَتَعَاطَفُونَ وَبِهَا يَتَرَاحَمُونَ، وَأخَّرَ تِسْعاً
-وَتِسْعِينَ رَحْمَةً يَرْحَمُ اللهُ بِهَا عِبَادَهُ يَوْمَ
-القِيَامَةِ.
-  </p>
-</blockquote>
+> إنَّ للهِ تَعَالَى مِائَةَ رَحْمَةٍ أنْزَلَ مِنْهَا رَحْمَةً وَاحِدَةً
+> بَيْنَ الجِنِّ وَالإنْسِ وَالطَّيْرِ وَالبَهَائِمِ وَالهَوامِّ؛
+> فَبِهَا يَتَعَاطَفُونَ وَبِهَا يَتَرَاحَمُونَ، وَأخَّرَ تِسْعاً
+> وَتِسْعِينَ رَحْمَةً يَرْحَمُ اللهُ بِهَا عِبَادَهُ يَوْمَ
+> القِيَامَةِ.
 
 ***Allah’s mercy has one hundred aspects, one of which He has revealed
 among his creatures like humans, jinns, animals, and birds and they have
@@ -3968,14 +3232,10 @@ aspects.***[^158]
 
 The Prophet of Islam (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ عَزَّ وَجَلَّ يَقُولُ يَوْمَ القِيَامَةِ لِلْمُؤمِنِينَ:
-هَلْ أحْبَبْتُمْ لِقَائِي؟ فَيَقُولُونَ: نَعَمْ يَا رَبَّنَا.
-فَيَقُولُ: لمَ؟ فَيَقُولُونَ: رَجَوْنَا عَفْوَكَ وَمَغْفِرَتَكَ.
-فَيَقُولُ: قَدْ أوْجَبْتُ لَكُمْ مَغْفِرَتِي.
-  </p>
-</blockquote>
+> إنَّ اللهَ عَزَّ وَجَلَّ يَقُولُ يَوْمَ القِيَامَةِ لِلْمُؤمِنِينَ:
+> هَلْ أحْبَبْتُمْ لِقَائِي؟ فَيَقُولُونَ: نَعَمْ يَا رَبَّنَا.
+> فَيَقُولُ: لمَ؟ فَيَقُولُونَ: رَجَوْنَا عَفْوَكَ وَمَغْفِرَتَكَ.
+> فَيَقُولُ: قَدْ أوْجَبْتُ لَكُمْ مَغْفِرَتِي.
 
 ***The Almighty Allah would reveal to the believers on the Last Day: Did
 you like My countenance? They would confirm it. Allah would ask them the
@@ -3984,12 +3244,8 @@ Then Allah would say: I obliged My forgiveness for you.***[^159]
 
 It is narrated from Prophet Mohammad (as):
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ اللهُ يَوْمَ القِيَامَةِ: أخْرِجُوا مِنَ النَّارِ مَنْ
-ذَكَرَنِي يَوْماً أوْ خَافَنِي فِي مَقَامٍ.
-  </p>
-</blockquote>
+> يَقُولُ اللهُ يَوْمَ القِيَامَةِ: أخْرِجُوا مِنَ النَّارِ مَنْ
+> ذَكَرَنِي يَوْماً أوْ خَافَنِي فِي مَقَامٍ.
 
 ***The Lord of the worlds would say on the Day of Resurrection: Bring
 out of Fire whoever has remembered Me only one day, or has feared Me for
@@ -3997,12 +3253,8 @@ something.***[^160]
 
 The Prophet (S) also stated:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ أرْحَمُ بِعَبْدِهِ المُؤْمِنِ مِنَ الوَالِدَةِ الشَّفِيقَةِ
-بِوَلَدِهَا.
-  </p>
-</blockquote>
+> اللهُ أرْحَمُ بِعَبْدِهِ المُؤْمِنِ مِنَ الوَالِدَةِ الشَّفِيقَةِ
+> بِوَلَدِهَا.
 
 ***The Almighty Allah is more compassionate to His servant than a kind
 father.***[^161]
@@ -4011,12 +3263,8 @@ Based on the words of the infallible Imams (as), it is understood that
 what attracts Allah’s Compassion is indeed worship, obedience, avoiding
 sins, and kindness to others. It is narrated from the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-الرَّاحِمُون يَرْحَمُهُمُ اللهُ. إرْحَمُوا مَنْ فِي الأرْضِ
-يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ.
-  </p>
-</blockquote>
+> الرَّاحِمُون يَرْحَمُهُمُ اللهُ. إرْحَمُوا مَنْ فِي الأرْضِ
+> يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ.
 
 ***Allah would compassionate the compassionate people. Compassionate
 anyone on the earth, so that Allah would compassionate you.***[^162]
@@ -4034,54 +3282,34 @@ messenger.”[^163]
 Someone told the Prophet (S): “I would like my Lord to have Mercy on
 me.” He was responded:
 
-<blockquote dir="rtl">
-  <p>
-إرْحَمْ نَفْسَكَ وَارْحَمْ خَلْقَ اللهِ يَرْحَمْكَ اللهُ.
-  </p>
-</blockquote>
+> إرْحَمْ نَفْسَكَ وَارْحَمْ خَلْقَ اللهِ يَرْحَمْكَ اللهُ.
 
 ***Have mercy on yourself and Allah’s creatures, so that He would have
 Mercy on you.***[^164]
 
 Prophet Mohammad (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-تَعَرَّضُوا لِرَحْمَةِ اللهِ بِمَا أمَرَكُمْ مِنْ طَاعَتِهِ.
-  </p>
-</blockquote>
+> تَعَرَّضُوا لِرَحْمَةِ اللهِ بِمَا أمَرَكُمْ مِنْ طَاعَتِهِ.
 
 ***Make yourselves subject to Allah’s Mercy by obeying Him.***[^165]
 
 The Commander of the Believers, Imam ‘Ali (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-أبْلَغُ مَا تُسْتَدَرُّ بِهِ الرَّحْمَةُ أنْ تُضْمِرَ لِجَمِيعِ
-النَّاسِ الرَّحْمَةَ.
-  </p>
-</blockquote>
+> أبْلَغُ مَا تُسْتَدَرُّ بِهِ الرَّحْمَةُ أنْ تُضْمِرَ لِجَمِيعِ
+> النَّاسِ الرَّحْمَةَ.
 
 ***The major factor bringing about Allah’s embracing Mercy is intending
 kindness for all people.***[^166]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-بِالعَفْوِ تُنَزَّلُ الرَّحْمَةُ.
-  </p>
-</blockquote>
+> بِالعَفْوِ تُنَزَّلُ الرَّحْمَةُ.
 
 ***By forgiving people Mercy is revealed.***[^167]
 
 Besides, he stated:
 
-<blockquote dir="rtl">
-  <p>
-رَحْمَةُ الضُّعَفَاءِ تَسْتَنْزِلُ الرَّحْمَةَ.
-  </p>
-</blockquote>
+> رَحْمَةُ الضُّعَفَاءِ تَسْتَنْزِلُ الرَّحْمَةَ.
 
 ***Kindness to the disabled causes Allah’s Compassion.***[^168]
 
@@ -4094,11 +3322,7 @@ and Mercy of the Sacred Entity has also been provided with sustenance in
 accord with their lifestyle, dignity and activities for acquiring
 sustenance.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مِنْ دَابَّةٍ فِي الأَرْضِ إِلاَّ عَلَى اللَّهِ رِزْقُهَا.
-  </p>
-</blockquote>
+> وَمَا مِنْ دَابَّةٍ فِي الأَرْضِ إِلاَّ عَلَى اللَّهِ رِزْقُهَا.
 
 ***There is no moving creature on earth but its sustenance depends on
 Allah. (11:6)***
@@ -4106,12 +3330,8 @@ Allah. (11:6)***
 The Compassionate provides His servants the sustenance, as appropriate,
 in two ways; expanded for some and narrow for some others.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ إِنَّهُ
-كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا.
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ إِنَّهُ
+> كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا.
 
 ***Surely your Lord outspreads and straitens His provision unto whom He
 wills; surely He is aware of and sees His servants. (30:17)***
@@ -4133,29 +3353,17 @@ worship. Suffering the body and enduring difficulties in this way is
 also considered the key and path to many values. Many traditions are
 narrated from the Prophet (S) in this regard:
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الحَلاَلِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ.
-  </p>
-</blockquote>
+> طَلَبُ الحَلاَلِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ.
 
 ***Seeking lawful sustenance is obligatory for all Muslim men and
 women.***[^169]
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الحَلاَلِ فَرِيضَةٌ بَعْدَ الفَرِيضَةِ.
-  </p>
-</blockquote>
+> طَلَبُ الحَلاَلِ فَرِيضَةٌ بَعْدَ الفَرِيضَةِ.
 
 ***Setting out for getting lawful sustenance is an obligatory deed after
 other obligatory deeds.***[^170]
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الحَلاَلِ جِهَادٌ.
-  </p>
-</blockquote>
+> طَلَبُ الحَلاَلِ جِهَادٌ.
 
 ***Seeking out lawful sustenance is like Jihad (holy war) in Allah’s
 way.***[^171]
@@ -4164,96 +3372,60 @@ The traditions include some advice on how to increase the sustenance.
 Once a man asked the Messenger of Allah (S) how he could increase his
 sustenance. Prophet Mohammad (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-دُمْ عَلَى الطَّهَارَةِ يُوَسَّعْ عَلَيْكَ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> دُمْ عَلَى الطَّهَارَةِ يُوَسَّعْ عَلَيْكَ فِي الرِّزْقِ.
 
 ***Keep on purity and cleanness and your sustenance would be
 expanded.***[^172]
 
 Amir Al-Mo’minin (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مُوَاسَاةُ الأخِ فِي اللهِ عَزَّ وَجَلَّ تَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> مُوَاسَاةُ الأخِ فِي اللهِ عَزَّ وَجَلَّ تَزِيدُ فِي الرِّزْقِ.
 
 ***Helping religious brothers increases sustenance.***[^173]
 
-<blockquote dir="rtl">
-  <p>
-اِسْتِعْمَالُ الأمَانَةِ يَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> اِسْتِعْمَالُ الأمَانَةِ يَزِيدُ فِي الرِّزْقِ.
 
 ***Trustworthiness enlarges sustenance.***[^174]
 
 The fifth infallible Imam, Imam al-Baqir (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالدُّعَاءِ لإخْوَانِكَ بِظَهْرِ الغَيْبِ فَإنَّهُ يُهِيلُ
-الرِّزْقَ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالدُّعَاءِ لإخْوَانِكَ بِظَهْرِ الغَيْبِ فَإنَّهُ يُهِيلُ
+> الرِّزْقَ.
 
 ***Pray for your religious brothers in their absence because it descends
 an extended sustenance for you.***[^175]
 
 Furthermore, Imam Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَسَّنَ بِرَّهُ أهْلَ بَيْتِهِ زِيدَ فِي رِزْقِهِ.
-  </p>
-</blockquote>
+> مَنْ حَسَّنَ بِرَّهُ أهْلَ بَيْتِهِ زِيدَ فِي رِزْقِهِ.
 
 ***One who serves his family nicely his sustenance would be
 expanded.***[^176]
 
-<blockquote dir="rtl">
-  <p>
-حُسْنُ الخُلُقِ يَزِيدُ فِي الرِّزْقِ.
-  </p>
-</blockquote>
+> حُسْنُ الخُلُقِ يَزِيدُ فِي الرِّزْقِ.
 
 ***Affability increases sustenance.***[^177]
 
 Attempt in getting lawful sustenance is considered an important Islamic
 worship. The Messenger of Allah (S) states:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أكَلَ مِنْ كَدِّ يَدِهِ كَانَ يَوْمَ القِيَامَةِ فِي عِدَادِ
-الأنْبِيَاءِ وَيَأخُذُ ثَوَابَ الأنْبِيَاءِ.
-  </p>
-</blockquote>
+> مَنْ أكَلَ مِنْ كَدِّ يَدِهِ كَانَ يَوْمَ القِيَامَةِ فِي عِدَادِ
+> الأنْبِيَاءِ وَيَأخُذُ ثَوَابَ الأنْبِيَاءِ.
 
 ***One who gains sustenance through his own endeavor is placed among the
 prophets and*** ***receives their reward on the Day of
 Resurrection.***[^178]
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أكَلَ مِنْ كَدِّ يَدِهِ نَظَرَ اللهُ اِلَيْهِ بِالرَّحْمَةِ ثُمَّ
-لاَ يُعَذِّبُهُ أبَداً.
-  </p>
-</blockquote>
+> مَنْ أكَلَ مِنْ كَدِّ يَدِهِ نَظَرَ اللهُ اِلَيْهِ بِالرَّحْمَةِ ثُمَّ
+> لاَ يُعَذِّبُهُ أبَداً.
 
 ***One who gains sustenance by his own effort, Allah would have Mercy on
 him and does not punish him.***[^179]
 
 Imam *al-Ridha* (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الَّذِي يَطْلُبُ مِنْ فَضْلٍ يَكُفُّ بِهِ عِيَالَهُ أعْظَمُ
-أجْراً مِنَ المُجَاهِدِ فِي سَبِيلِ اللهِ.
-  </p>
-</blockquote>
+> إنَّ الَّذِي يَطْلُبُ مِنْ فَضْلٍ يَكُفُّ بِهِ عِيَالَهُ أعْظَمُ
+> أجْراً مِنَ المُجَاهِدِ فِي سَبِيلِ اللهِ.
 
 ***Surely one who seeks Allah’s sustenance through his lawful effort in
 order to maintain his family from poorness and need would have more
@@ -4261,11 +3433,7 @@ reward than a campaigner in Allah’s way.***[^180]
 
 Prophet Muhammad (S) said:
 
-<blockquote dir="rtl">
-  <p>
-العِبَادَةُ عَشَرَةُ أجْزَاءٍ؛ تِسْعَةُ أجْزَاءٍ فِي طَلَبِ الحَلاَلِ.
-  </p>
-</blockquote>
+> العِبَادَةُ عَشَرَةُ أجْزَاءٍ؛ تِسْعَةُ أجْزَاءٍ فِي طَلَبِ الحَلاَلِ.
 
 ***Worship has ten sections nine sections of which are in seeking lawful
 sustenance.***[^181]
@@ -4287,14 +3455,10 @@ heavenly chastisement. The one who has a narrow sustenance should also
 consider that if he does not tolerate poverty, he would also be
 chastised. Imam ‘Ali (as) states:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدَّرَ الأرْزَاقَ فَكَثَّرَهَا وَقَلَّلَهَا وَقَسَّّمَهَا عَلَى
-الضِّيقِ وَالسَّعَةِ فَعَدَلَ فِيهَا لِيَبْتَلِيَ مَنْ أرَادَ
-بِمَيْسُورِهَا وَمَعْسُورِهَا وَلِيَخْتَبِرَ بِذَلِكَ الشُّكْرَ
-وَالصَّبْرَ مِنْ غَنِيِّهَا وَفَقِيرِهَا.
-  </p>
-</blockquote>
+> وَقَدَّرَ الأرْزَاقَ فَكَثَّرَهَا وَقَلَّلَهَا وَقَسَّّمَهَا عَلَى
+> الضِّيقِ وَالسَّعَةِ فَعَدَلَ فِيهَا لِيَبْتَلِيَ مَنْ أرَادَ
+> بِمَيْسُورِهَا وَمَعْسُورِهَا وَلِيَخْتَبِرَ بِذَلِكَ الشُّكْرَ
+> وَالصَّبْرَ مِنْ غَنِيِّهَا وَفَقِيرِهَا.
 
 ***… And Allah destined people’s sustenance and made it extended for
 some and narrow for others and he divided sustenance among people justly
@@ -4309,12 +3473,8 @@ who prayed Allah for safety in this world and the next world.
 
 Imam *°asan Mojtaba* (as) says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ يَكُونُ المُؤْمِنُ مُؤمِناً وَهُوَ يَسْخَطُ قِسْمَهُ
-وَيُحَقِّرُ مَنْزِلَتَهُ وَالحَاكِمُ عَلَيْهِ اللهُ؟
-  </p>
-</blockquote>
+> كَيْفَ يَكُونُ المُؤْمِنُ مُؤمِناً وَهُوَ يَسْخَطُ قِسْمَهُ
+> وَيُحَقِّرُ مَنْزِلَتَهُ وَالحَاكِمُ عَلَيْهِ اللهُ؟
 
 ***How can a Muslim believer be discontent with his portion of
 sustenance and considers his position low, while the One who dominates
@@ -4323,12 +3483,8 @@ all his endeavors is Allah?***[^183]
 The Messenger of Allah (S) asked Gabriel: “What is the exposition of
 content?” He answered:
 
-<blockquote dir="rtl">
-  <p>
-الرَّاضِي لاَ يَسْخَطُ عَلَى سَيِّدِهِ: أصَابَ مِنَ الدُّنْيَا أمْ
-لَمْ يُصِبْ، وَلاَ يَرْضَى لِنَفْسِهِ بِاليَسِيرِ مِنَ العَمَلِ.
-  </p>
-</blockquote>
+> الرَّاضِي لاَ يَسْخَطُ عَلَى سَيِّدِهِ: أصَابَ مِنَ الدُّنْيَا أمْ
+> لَمْ يُصِبْ، وَلاَ يَرْضَى لِنَفْسِهِ بِاليَسِيرِ مِنَ العَمَلِ.
 
 ***The content servant does not take anger over his Lord, whether he
 possesses something in the world or not, and he is not content with his
@@ -4336,34 +3492,22 @@ own trivial deeds.***[^184]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-اِرْضَ بِمَا قَسَمَ اللهُ لَكَ تَكُنْ غَنِيّاً.
-  </p>
-</blockquote>
+> اِرْضَ بِمَا قَسَمَ اللهُ لَكَ تَكُنْ غَنِيّاً.
 
 ***If you are content with Allah’s sustenance, you would get
 needless.***[^185]
 
 *Amir Al-Mo’minin* (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَضِيَ مِنَ اللهِ بِمَا قَسَمَ لَهُ اسْتَرَاحَ بَدَنُهُ.
-  </p>
-</blockquote>
+> مَنْ رَضِيَ مِنَ اللهِ بِمَا قَسَمَ لَهُ اسْتَرَاحَ بَدَنُهُ.
 
 ***If one is content with what Allah has allocated to him his body would
 rest.***[^186]
 
 Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَرْضَ بِمَا قَسَمَ اللهُ عَزَّ وَجَلَّ اتَّهَمَ اللهَ فِي
-قَضَائِهِ.
-  </p>
-</blockquote>
+> مَنْ لَمْ يَرْضَ بِمَا قَسَمَ اللهُ عَزَّ وَجَلَّ اتَّهَمَ اللهَ فِي
+> قَضَائِهِ.
 
 ***Whoever is not content with what Allah, out of expedience, has set as
 his sustenance has charged Him in His Government and
@@ -4372,11 +3516,7 @@ Expediency.***[^187]
 When Amir Al-Mo’minin (as) was asked about the exposition to the holy
 verse:
 
-<blockquote dir="rtl">
-  <p>
-…فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً…
-  </p>
-</blockquote>
+> …فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً…
 
 ‘We shall assuredly give him to live a goodly life. (16:97)’
 
@@ -4384,12 +3524,8 @@ He replied:
 
 ***The goodly life is contentment in life.***
 
-<blockquote dir="rtl">
-  <p>
-إنْتَقِمْ مِنْ حِرْصِكَ بِالقُنُوعِ كَمَا تَنْتَقِمُ مِنْ عَدُوِّكَ
-بِالقَصَاصِ.
-  </p>
-</blockquote>
+> إنْتَقِمْ مِنْ حِرْصِكَ بِالقُنُوعِ كَمَا تَنْتَقِمُ مِنْ عَدُوِّكَ
+> بِالقَصَاصِ.
 
 ***Fight against your greed, which leads you to the unlawful and
 destroys your belief, by means of your contentment with Allah’s
@@ -4402,11 +3538,7 @@ disgraces humans. On the other hand, contentment with lawful sustenance
 and predestined life, is an infinite treasure and a guarantee for human
 world and Hereafter. The Messenger of Allah (S) sates:
 
-<blockquote dir="rtl">
-  <p>
-خِيَارُ أُمِّتِي القَانِعُ، وَشِرَارُهُمُ الطَّامِعُ.
-  </p>
-</blockquote>
+> خِيَارُ أُمِّتِي القَانِعُ، وَشِرَارُهُمُ الطَّامِعُ.
 
 ***The good people of my nation are the content ones, and the bad ones
 are greedy.***[^189]
@@ -4414,11 +3546,7 @@ are greedy.***[^189]
 Imam al-Baqir (as) said: “‘Ali (as) ate the most inferior type of date
 that was sold and then drank water. Then he struck his belly and said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أدْخَلَهُ بَطْنُهُ النَّارَ فَأبْعَدَهُ اللهُ.
-  </p>
-</blockquote>
+> مَنْ أدْخَلَهُ بَطْنُهُ النَّارَ فَأبْعَدَهُ اللهُ.
 
 ***‘One whose stomach drags him to the Hell is away from Allah’s
 Mercy.’***
@@ -4428,25 +3556,17 @@ defamed.”[^190]
 
 Imam al-Baqir and Imam Sadiq (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَنِعَ بِمَا رَزَقَهُ اللهُ فَهُوَ مِنْ أغْنَى النَّاسِ.
-  </p>
-</blockquote>
+> مَنْ قَنِعَ بِمَا رَزَقَهُ اللهُ فَهُوَ مِنْ أغْنَى النَّاسِ.
 
 ***One who is satisfied with his portion of Allah’s sustenance is the
 most needless of people.***[^191]
 
 Imam Sadiq (as) also stated:
 
-<blockquote dir="rtl">
-  <p>
-إقْنَعْ بِمَا قَسَمَ اللهُ لَكَ وَلاَ تَنْظُرْ إلَى مَا عِنْدَ
-غَيْرِكَ، وَلاَ تَتَمَنَّ مَا لَسْتَ نَائِلَهُ، فَإنَّهُ مَنْ قَنِعَ
-شَبِعَ، وَمَنْ لَمْ يَقْنَعْ لَمْ يَشْبَعْ، وَخُذْ حَظَّكَ مِنْ
-آخِرَتِكَ.
-  </p>
-</blockquote>
+> إقْنَعْ بِمَا قَسَمَ اللهُ لَكَ وَلاَ تَنْظُرْ إلَى مَا عِنْدَ
+> غَيْرِكَ، وَلاَ تَتَمَنَّ مَا لَسْتَ نَائِلَهُ، فَإنَّهُ مَنْ قَنِعَ
+> شَبِعَ، وَمَنْ لَمْ يَقْنَعْ لَمْ يَشْبَعْ، وَخُذْ حَظَّكَ مِنْ
+> آخِرَتِكَ.
 
 ***Be content with what Allah has set as your sustenance and do not look
 at others’. Do not greed people’s wealth and do not wish what you cannot
@@ -4455,12 +3575,8 @@ the Hereafter. And the discontent did not satisfy.***[^192]
 
 Imam ‘Ali (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ يَسْتَطِيعُ عَلَى صَلاحِ نَفْسِهِ مَنْ لاَ يَقْنَعُ
-بِالقَلِيلِ؟
-  </p>
-</blockquote>
+> كَيْفَ يَسْتَطِيعُ عَلَى صَلاحِ نَفْسِهِ مَنْ لاَ يَقْنَعُ
+> بِالقَلِيلِ؟
 
 ***Whoever is not content with his narrow sustenance and with trivial
 possessions is not able to*** ***discipline himself.***[^193]
@@ -4495,20 +3611,12 @@ also asks all the Muslims to be modest before other believers.
 The holy Qur’an even asks the Prophet (S), whose position is greater
 than all the humans and jinns, to be modest before the believers:
 
-<blockquote dir="rtl">
-  <p>
-وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ.
 
 ***… but lower thy wing (in gentleness) to the Believers. (15:88)***
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
-عُلُوًّا فِي الأَرْضِ وَلاَ فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ.
-  </p>
-</blockquote>
+> تِلْكَ الدَّارُ الآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لاَ يُرِيدُونَ
+> عُلُوًّا فِي الأَرْضِ وَلاَ فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ.
 
 ***That House of the Hereafter We shall give to those who intend not
 high-handedness or mischief on earth: and the End is (best) for the
@@ -4517,19 +3625,11 @@ righteous. (28:83)***
 The holy Qur’an clearly stipulates that the Almighty does not favor the
 arrogant, and that such people are placed in the Inferno.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لاَ يُحِبُّ الْمُسْتَكْبِرِينَ.
-  </p>
-</blockquote>
+> إِنَّهُ لاَ يُحِبُّ الْمُسْتَكْبِرِينَ.
 
 ***Verily He loveth not the arrogant. (16:23)***
 
-<blockquote dir="rtl">
-  <p>
-أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ.
-  </p>
-</blockquote>
+> أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ.
 
 ***Is there not in Hell as abode for the Haughty? (39:60)***
 
@@ -4538,11 +3638,7 @@ Modesty in Traditions
 
 It is narrated from the Messenger of Allah (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-مَا لِي لاَ أرَى عَلَيْكُمْ حَلاوَةَ العِبَادَةِ؟… التَّوَاضُعَ.
-  </p>
-</blockquote>
+> مَا لِي لاَ أرَى عَلَيْكُمْ حَلاوَةَ العِبَادَةِ؟… التَّوَاضُعَ.
 
 ***“How come I don’t see the sweetness of worship in you?” “What is the
 sweetness of worship?” he was asked. The Prophet (S) replied:
@@ -4551,13 +3647,9 @@ Modesty!***[^194]
 Amir al-Mu’minin, Imam ‘Ali (as), after pointing out the modesty of
 previous believers before Allah and other Muslims, advises people:
 
-<blockquote dir="rtl">
-  <p>
-وَلَكِنَّهُ سُبْحَانَهُ كَرَّهَ إلَيْهِمُ التَّكَابُرَ وَرَضِيَ لَهُمُ
-التَّوَاضُعَ، فَألْصَقُوا بِالأرْضِ خُدُودَهُمْ وَعَفَّرُوا فِي
-التُّرَابِ وُجُوهَهُمْ وَخَفَضُوا أجْنِحَتَهُمْ لِلمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> وَلَكِنَّهُ سُبْحَانَهُ كَرَّهَ إلَيْهِمُ التَّكَابُرَ وَرَضِيَ لَهُمُ
+> التَّوَاضُعَ، فَألْصَقُوا بِالأرْضِ خُدُودَهُمْ وَعَفَّرُوا فِي
+> التُّرَابِ وُجُوهَهُمْ وَخَفَضُوا أجْنِحَتَهُمْ لِلمُؤْمِنِينَ.
 
 ***The Almighty made them disfavor pride, and favored modesty for them.
 So they touched the earth with their faces for showing service to Allah,
@@ -4565,23 +3657,15 @@ and showed respect and modesty to all the Muslims.***[^195]
 
 He also stated:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالتَّوَاضُعِ، فَإنَّهُ مِنْ أعْظَمِ العِبَادَةِ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالتَّوَاضُعِ، فَإنَّهُ مِنْ أعْظَمِ العِبَادَةِ.
 
 ***Befriend modesty, since it is a great worship.***[^196]
 
 Imam Sadiq (as) said about the amount of modesty:
 
-<blockquote dir="rtl">
-  <p>
-التَّوَاضُعُ أنْ تَرْضَى مِنَ المَجْلِسِ بِدُونِ شَرَفِكَ وَأنْ
-تُسَلِّمَ عَلَى مَنْ لاَقَيْتَ وَأنْ تَتْرُكَ المِرَاءَ وَإنْ كُنْتَ
-مُحِقّاً؛ وَرَأسُ الخَيْرِ التَّوَاضُعُ.
-  </p>
-</blockquote>
+> التَّوَاضُعُ أنْ تَرْضَى مِنَ المَجْلِسِ بِدُونِ شَرَفِكَ وَأنْ
+> تُسَلِّمَ عَلَى مَنْ لاَقَيْتَ وَأنْ تَتْرُكَ المِرَاءَ وَإنْ كُنْتَ
+> مُحِقّاً؛ وَرَأسُ الخَيْرِ التَّوَاضُعُ.
 
 ***Modesty is contentment with your seating position which may not be
 according to your position, that you say hello to everyone you see, that
@@ -4590,23 +3674,15 @@ core of every goodness.***[^197]
 
 Prophet Muhammad (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أفْضَلَ النَّاسِ عَبْداً مَنْ تَوَاضَعَ عَنْ رِفْعَةٍ.
-  </p>
-</blockquote>
+> إنَّ أفْضَلَ النَّاسِ عَبْداً مَنْ تَوَاضَعَ عَنْ رِفْعَةٍ.
 
 ***Surely the best people in worship are those who are the most modest
 ones and are in the highest positions.***[^198]
 
 He also stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ التَّوَاضُعَ يَزِيدُ صَاحِبَهُ رِفْعَةً؛ فَتَوَاضَعُوا
-يَرْفَعْكُمُ اللهُ.
-  </p>
-</blockquote>
+> إنَّ التَّوَاضُعَ يَزِيدُ صَاحِبَهُ رِفْعَةً؛ فَتَوَاضَعُوا
+> يَرْفَعْكُمُ اللهُ.
 
 ***Modesty raises human position. So be modest, so that Allah would make
 you dignified.***[^199]
@@ -4635,12 +3711,8 @@ Amir al-Mu’minin (as) lived an ordinary life, too. *Ibn Abbas* says: One
 day I went to Imam ‘Ali (as) and saw him patching his shoe. I told him:
 “This shoe does not worth pitching.” Imam (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ، لَهِيَ أحَبُّ إلَيَّ مِنْ إمْرَتِكُمْ، إلاَّ أنْ أُقِيمَ
-حَقّاً أوْ أدْفَعَ بَاطِلاً.
-  </p>
-</blockquote>
+> وَاللهِ، لَهِيَ أحَبُّ إلَيَّ مِنْ إمْرَتِكُمْ، إلاَّ أنْ أُقِيمَ
+> حَقّاً أوْ أدْفَعَ بَاطِلاً.
 
 ***By Allah that this shoe is dearer to me than your world, if I take
 power in it and trample some rights. If I ever have a government, I like
@@ -4687,11 +3759,7 @@ Solomon whose heart was full of mercy and compassion toward those
 inferior to him, accepted the terms stipulated by the ant, so the ant
 forgave him.[^201]
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ وَأَسْألُكَ سُؤَالَ مَنِ اشْتَدَّتْ فَاقَتُهُ
-  </p>
-</blockquote>
+> اللَّهُمَّ وَأَسْألُكَ سُؤَالَ مَنِ اشْتَدَّتْ فَاقَتُهُ
 
 *O Allah! I ask You with the asking of one whose indigence in extreme.*
 
@@ -4727,52 +3795,32 @@ blessings, like the savages and the beasts.
 
 The Holy Qur’an states about the Absolute Independent:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ.
-  </p>
-</blockquote>
+> وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ.
 
 ***To Allah belongeth the dominion of the heavens and the earth; and
 Allah hath power over all things. (3:189)***
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ
-الْمَصِيرُ.
-  </p>
-</blockquote>
+> وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ
+> الْمَصِيرُ.
 
 ***Allah’s is the Sovereignty of the heavens and the earth and all that
 is between them, and unto Him is the final goal of all. (5:18)***
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ، يُحْيِ وَيُمِيتُ، وَهُوَ عَلَى
-كُلِّ شَيْءٍ قَدِيرٌ.
-  </p>
-</blockquote>
+> لَهُ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ، يُحْيِ وَيُمِيتُ، وَهُوَ عَلَى
+> كُلِّ شَيْءٍ قَدِيرٌ.
 
 ***To Him belongs the dominion of the heavens and the earth; it is He
 Who gives life and Death; and He has Power over all things. (57:2)***
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ، يَغْفِرُ لِمَنْ يَشَاءُ
-وَيُعَذِّبُ مَنْ يَشَاءُ.
-  </p>
-</blockquote>
+> وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ، يَغْفِرُ لِمَنْ يَشَاءُ
+> وَيُعَذِّبُ مَنْ يَشَاءُ.
 
 ***Allah’s is the dominion of the heavens and the earth; He forgives
 anyone He likes and chastises anyone He like. (48:14)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ! أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ، وَاللَّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ! أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ، وَاللَّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ.
 
 ***O people! All of you are dependent upon Allah, and only He is the
 Needless. (35:15)***
@@ -4787,11 +3835,7 @@ night?
 The most beautiful and beneficial state of a human is the state of
 praying in which he requests from Allah, the Needless.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلَ بِكَ عِنْدَ الشَّدَائِدِ حَاجَتَهُ
-  </p>
-</blockquote>
+> وَأَنزَلَ بِكَ عِنْدَ الشَّدَائِدِ حَاجَتَهُ
 
 *O Allah! I ask You with the asking of one who has stated to You in
 difficulties his need.*
@@ -4818,22 +3862,18 @@ request the solution of his problem.
 In a Divine tradition, narrated in various lofty books, important issues
 and valuable facts are stated in this regard:
 
-<blockquote dir="rtl">
-  <p>
-أيَأمُلُ عَبْدِي فِي الشَّدَائِدِ غَيْرِي؟ وَالشَّدَائِدُ بِيَدِي،
-وَيَرْجُو سِوَايَ؟ وَأنَا الغَنِيُّ الجَوَادُ، وَأبْوَابُ الحَوَائِجِ
-عِنْدِي، وَبِيَدِي مَفَاتِيحُهَا وَهِيَ مُغْلَقَةٌ؛ فَمَا لِي أرَى
-عَبْدِي مُعْرِضاً عَنِّي وَقَدْ أعْطَيْتُهُ بِجُودِي وَكَرَمِي مَا
-لَمْ يَسْألْنِي؛ فَأعْرَضَ عَنِّي وَسَألَ فِي حَوَائِجِهِ غَيْرِي،
-وَأنَا اللهُ لاَ إلَهَ إلاَّ أنَا؛ أبْتَدِئُ بِالعَطِيَّةِ مِنْ غَيْرِ
-مَسْألَةٍ؛ أَفَأُسْئَلُ فَلا أجُودُ؟ ألَيْسَ الجُودُ وَالكَرَمُ لِي؟
-ألَيْسَ الدُّنْيَا وَالآخِرَةُ بِيَدِي؟ فَلَوْ أنَّ كُلَّ أهْلِ
-السَّمَاوَاتِ وَالأرْضِ سَألَنِي مِثْلَ السَّمَاوَاتِ وَالأرْضِ
-وَأعْطَيْتُهُ مَا نَقَصَ ذَلِكَ مِنْ مُلْكِي جَنَاحَ بَعُوضَةٍ! فَيَا
-بُؤساً لِمَنْ أعْرَضَ عَنِّي وَسَألَ فِي حَوَائِجِهِ وَشَدَائِدِهِ
-غَيْرِي!
-  </p>
-</blockquote>
+> أيَأمُلُ عَبْدِي فِي الشَّدَائِدِ غَيْرِي؟ وَالشَّدَائِدُ بِيَدِي،
+> وَيَرْجُو سِوَايَ؟ وَأنَا الغَنِيُّ الجَوَادُ، وَأبْوَابُ الحَوَائِجِ
+> عِنْدِي، وَبِيَدِي مَفَاتِيحُهَا وَهِيَ مُغْلَقَةٌ؛ فَمَا لِي أرَى
+> عَبْدِي مُعْرِضاً عَنِّي وَقَدْ أعْطَيْتُهُ بِجُودِي وَكَرَمِي مَا
+> لَمْ يَسْألْنِي؛ فَأعْرَضَ عَنِّي وَسَألَ فِي حَوَائِجِهِ غَيْرِي،
+> وَأنَا اللهُ لاَ إلَهَ إلاَّ أنَا؛ أبْتَدِئُ بِالعَطِيَّةِ مِنْ غَيْرِ
+> مَسْألَةٍ؛ أَفَأُسْئَلُ فَلا أجُودُ؟ ألَيْسَ الجُودُ وَالكَرَمُ لِي؟
+> ألَيْسَ الدُّنْيَا وَالآخِرَةُ بِيَدِي؟ فَلَوْ أنَّ كُلَّ أهْلِ
+> السَّمَاوَاتِ وَالأرْضِ سَألَنِي مِثْلَ السَّمَاوَاتِ وَالأرْضِ
+> وَأعْطَيْتُهُ مَا نَقَصَ ذَلِكَ مِنْ مُلْكِي جَنَاحَ بَعُوضَةٍ! فَيَا
+> بُؤساً لِمَنْ أعْرَضَ عَنِّي وَسَألَ فِي حَوَائِجِهِ وَشَدَائِدِهِ
+> غَيْرِي!
 
 ***Is My servant hopeful of those other than Me, when facing
 difficulties to resolve them for him, while eliminating all the problems
@@ -4857,11 +3897,7 @@ demand as big as all the heavens and the earth, My Kingdom would not be
 reduced even to the extent of a fly. Woe to the one who turns attention
 from Me, demanding his needs from those except Me!***[^202]
 
-<blockquote dir="rtl">
-  <p>
-وَعَظُمَ فِيمَا عِنْدَكَ رَغْبَتُهُ
-  </p>
-</blockquote>
+> وَعَظُمَ فِيمَا عِنْدَكَ رَغْبَتُهُ
 
 *O Allah, I ask You with the asking of one whose craving for what is
 with You has become intense.*
@@ -4887,31 +3923,19 @@ avoiding engagement in wrongdoing. He has necessitated for Himself
 rewarding the servants for their deeds. Allah has declared in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُمَسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلاةَ إِنَّا لاَ
-نُضِيعُ أَجْرَ الْمُصْلِحِينَ.
-  </p>
-</blockquote>
+> وَالَّذِينَ يُمَسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلاةَ إِنَّا لاَ
+> نُضِيعُ أَجْرَ الْمُصْلِحِينَ.
 
 ***And as for those who hold fast by the Book and keep up prayer, surely
 We do not waste the reward of the right doers. (7:170)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ.
 
 ***Surely, Allah does not waste the reward of the doers of good.
 (9:120)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ، إِنَّا لاَ نُضِيعُ
-أَجْرَ مَنْ أَحْسَنَ عَمَلاً.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ، إِنَّا لاَ نُضِيعُ
+> أَجْرَ مَنْ أَحْسَنَ عَمَلاً.
 
 ***Surely, as for those who believe and do good, We do not waste the
 reward of him who does a good work. (18:30)***
@@ -4920,53 +3944,33 @@ The Merciful Allah has stated some kinds of rewards for His believing
 servants in His Qur’an: 1. Lofty reward, 2. Bountiful reward, 3.
 Grateful reward, 4. Great reward, and 5. Twice the reward.
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ.
-  </p>
-</blockquote>
+> لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ.
 
 ***Those among them who do good to others and guard against evil shall
 have a great reward. (3:172)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُصَّدِّقِينَ وَالْمُصَّدِّقَاتِ وَأَقْرَضُوا اللَّهَ قَرْضًا
-حَسَنًا يُضَاعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ الْمُصَّدِّقِينَ وَالْمُصَّدِّقَاتِ وَأَقْرَضُوا اللَّهَ قَرْضًا
+> حَسَنًا يُضَاعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ.
 
 ***Surely the charitable men and the charitable women and those who set
 apart for Allah a goodly portion, it shall be doubled for them and they
 shall have a noble reward. (57:18)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ
-مَمْنُونٍ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ
+> مَمْنُونٍ.
 
 ***Those who believe and do good, they shall surely have a reward never
 to be cut off. (41:8)***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ
-وَأَجْرٌ كَبِيرٌ.
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ
+> وَأَجْرٌ كَبِيرٌ.
 
 ***As for those who believe and do good, they shall have forgiveness and
 a great reward. (35:7)***
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
-وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ
-يُنفِقُونَ.
-  </p>
-</blockquote>
+> أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
+> وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ
+> يُنفِقُونَ.
 
 ***These shall be granted their reward twice, because they are steadfast
 and they repel their evil with good and spent out of what We have given
@@ -4978,50 +3982,30 @@ have mentioned parts of Allah’s rewards. Some of these traditions, which
 are in fact explanations of Qur’anic verses are presented here. Imam
 ‘Ali (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-ثَوَابُ عَمَلِكُمْ أفْضَلُ مِنْ عَمَلِكُمْ.
-  </p>
-</blockquote>
+> ثَوَابُ عَمَلِكُمْ أفْضَلُ مِنْ عَمَلِكُمْ.
 
 ***The rewards of your good deeds are superior to the deeds
 themselves.***[^203]
 
-<blockquote dir="rtl">
-  <p>
-ثَوَابُ الصَّبْرِ أعْلَى الثَّوَابِ.
-  </p>
-</blockquote>
+> ثَوَابُ الصَّبْرِ أعْلَى الثَّوَابِ.
 
 ***The greatest reward is the reward for patience (over obedience,
 calamities and wrongdoing).***[^204]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أعْظَمَ المَثُوبَةِ مَثُوبَةُ الإنْصَافِ.
-  </p>
-</blockquote>
+> إنَّ أعْظَمَ المَثُوبَةِ مَثُوبَةُ الإنْصَافِ.
 
 ***In fact the greatest reward is for fairness.***[^205]
 
-<blockquote dir="rtl">
-  <p>
-ثَوَابُ الجِهَادِ أعْظَمُ الثَّوَابِ.
-  </p>
-</blockquote>
+> ثَوَابُ الجِهَادِ أعْظَمُ الثَّوَابِ.
 
 ***The reward for Jihad is the greatest reward.***[^206]
 
 Imam al-Baqir (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-النَّائِمُ بِمَكَّةَ كَالمُجْتَهِدِ فِي البُلْدَانِ، وَالسَّاجِدُ
-بِمَكَّةَ كَالمُتَشَحِّطِ بِدَمِهِ فِي سَبِيلِ اللهِ، وَمَنْ خَلَّفَ
-حَاجّاً فِي أهْلِهِ كَانَ لَـهُ كَأجْرِهِ حَتَّى كَأنَّهُ يَسْتَلِمُ
-الحَجَرَ.
-  </p>
-</blockquote>
+> النَّائِمُ بِمَكَّةَ كَالمُجْتَهِدِ فِي البُلْدَانِ، وَالسَّاجِدُ
+> بِمَكَّةَ كَالمُتَشَحِّطِ بِدَمِهِ فِي سَبِيلِ اللهِ، وَمَنْ خَلَّفَ
+> حَاجّاً فِي أهْلِهِ كَانَ لَـهُ كَأجْرِهِ حَتَّى كَأنَّهُ يَسْتَلِمُ
+> الحَجَرَ.
 
 ***The pilgrim who spends a night in Mecca is like one who is attempting
 in various cities. One who prostrates in Mecca is like martyr in Allah’s
@@ -5031,60 +4015,40 @@ al-Aswad (the Black Stone).***
 
 The Prophet of Islam (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-رِبَاطُ يَوْمٍ فِي سَبِيلِ اللهِ خَيْرٌ مِنَ الدُّنْيَا وَمَا
-عَلَيْهَا.
-  </p>
-</blockquote>
+> رِبَاطُ يَوْمٍ فِي سَبِيلِ اللهِ خَيْرٌ مِنَ الدُّنْيَا وَمَا
+> عَلَيْهَا.
 
 ***Fighting in Allah’s cause for a single day is preferred to the whole
 world and what is inside it.***[^207]
 
 Prophet Muhammad (S) also stated:
 
-<blockquote dir="rtl">
-  <p>
-حَرَسُ لَيْلَةٍ فِي سَبِيلِ اللهِ عَزَّ وَجَلَّ أفْضَلُ مِنْ ألْفِ
-لَيْلَةٍ يُقَامُ لَيْلُهَا وَيُصَامُ نَهَارُهَا.
-  </p>
-</blockquote>
+> حَرَسُ لَيْلَةٍ فِي سَبِيلِ اللهِ عَزَّ وَجَلَّ أفْضَلُ مِنْ ألْفِ
+> لَيْلَةٍ يُقَامُ لَيْلُهَا وَيُصَامُ نَهَارُهَا.
 
 ***One night of guarding Allah’s cause is better than a thousand nights
 of worshipping and days of fasting.***[^208]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ العَبْدَ إذَا تَخَلَّى بِسَيِّدِهِ فِي جَوْفِ اللَّيْلِ
-المُظْلِمِ وَنَاجَاهُ، أثْبَتَ اللهُ النُّورَ فِي قَلْبِهِ.
-  </p>
-</blockquote>
+> إنَّ العَبْدَ إذَا تَخَلَّى بِسَيِّدِهِ فِي جَوْفِ اللَّيْلِ
+> المُظْلِمِ وَنَاجَاهُ، أثْبَتَ اللهُ النُّورَ فِي قَلْبِهِ.
 
 ***When a servant speaks to his Lord in the darkness of night Allah
 would maintain a permanent light in his heart.***[^209]
 
 Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-قِيَامُ اللَّيْلِ مَصَحَّة البَدَنِ وَرِضَا الرَّبِّ وَتَمَسُّكٌ
-بِأخْلاَقِ النَّبِيِّينَ وَتَعَرُّضٌ لِرَحْمَتِهِ.
-  </p>
-</blockquote>
+> قِيَامُ اللَّيْلِ مَصَحَّة البَدَنِ وَرِضَا الرَّبِّ وَتَمَسُّكٌ
+> بِأخْلاَقِ النَّبِيِّينَ وَتَعَرُّضٌ لِرَحْمَتِهِ.
 
 ***Worshipping Allah at night brings healing to the body, Allah’s
 pleasure and the habits of the prophets’ servant.***[^210]
 
 The Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ العَبْدَ لَيُؤمَرُ بِهِ إلَى النَّارِ يَوْمَ القِيَامَةِ
-فَيُسْحَبُ؛ فَيَقُولُ المُؤمِنُونَ وَالمُؤمِنَاتُ: يَا رَبِّ، هَذا
-الَّذِي كَانَ يَدْعُو لَنَا، فَشَفِّعْنَا فِيهِ. فَيُشَفِّعُهُمُ اللهُ
-فَيَنْجُو.
-  </p>
-</blockquote>
+> إنَّ العَبْدَ لَيُؤمَرُ بِهِ إلَى النَّارِ يَوْمَ القِيَامَةِ
+> فَيُسْحَبُ؛ فَيَقُولُ المُؤمِنُونَ وَالمُؤمِنَاتُ: يَا رَبِّ، هَذا
+> الَّذِي كَانَ يَدْعُو لَنَا، فَشَفِّعْنَا فِيهِ. فَيُشَفِّعُهُمُ اللهُ
+> فَيَنْجُو.
 
 ***On the Day of Resurrection, Allah orders to take a servant to Hell.
 The believer men and*** ***women say: ‘O Lord! This person always prayed
@@ -5093,12 +4057,8 @@ intercession about him and he is saved.’***[^211]
 
 The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ألاَ مَنْ تَعَلَّمَ القُرْآنَ وَعَلَّمَهُ وَعَمِلَ بِمَا فِيهِ فَأنَا
-لَهُ سَائِقٌ إلَى الجَنَّةِ وَدَلِيلٌ إلَيْها.
-  </p>
-</blockquote>
+> ألاَ مَنْ تَعَلَّمَ القُرْآنَ وَعَلَّمَهُ وَعَمِلَ بِمَا فِيهِ فَأنَا
+> لَهُ سَائِقٌ إلَى الجَنَّةِ وَدَلِيلٌ إلَيْها.
 
 ***Beware that everyone who learns Qur’an and teaches it to others and
 practices its rules I*** ***would bring and guide him to the
@@ -5112,25 +4072,17 @@ good doers are enthusiastic. The Merciful Allah has invited all His
 servants to this permanent abode. He has stated belief, piety, good
 deeds, and observing lawful and avoiding unlawful deeds for reaching it.
 
-<blockquote dir="rtl">
-  <p>
-وَسَارِعُوا إِلَى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا
-السَّمَاوَاتُ وَالأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.
-  </p>
-</blockquote>
+> وَسَارِعُوا إِلَى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا
+> السَّمَاوَاتُ وَالأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.
 
 ***And hasten to forgiveness from your Lord; and a Garden, the
 extensiveness of which is as the heavens and the earth; it is prepared
 for those who guard against evil. (3:133)***
 
-<blockquote dir="rtl">
-  <p>
-سَابِقُوا إِلَى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ
-السَّمَاءِ وَالأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ
-وَرُسُلِهِ، ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ، وَاللَّهُ
-ذُو الْفَضْلِ الْعَظِيمِ.
-  </p>
-</blockquote>
+> سَابِقُوا إِلَى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ
+> السَّمَاءِ وَالأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ
+> وَرُسُلِهِ، ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ، وَاللَّهُ
+> ذُو الْفَضْلِ الْعَظِيمِ.
 
 ***And hasten to forgiveness from your Lord; and a Garden, the
 extensiveness of which is as the heavens and the earth; it is prepared
@@ -5144,30 +4096,22 @@ these facts and is polluted with disbelief and other sins, does not
 deserve to enter paradise and would rather be placed in Hell and
 deprived of Allah’s Mercy and countenance.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَى وَهُوَ مُؤْمِنٌ
-فَأُوْلَئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ
-حِسَابٍ.
-  </p>
-</blockquote>
+> وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَى وَهُوَ مُؤْمِنٌ
+> فَأُوْلَئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ
+> حِسَابٍ.
 
 ***Whoever does good, whether male or female, and he is a believer, he
 shall enter the Garden, in which he shall be given sustenance.
 (40:40)***
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ،
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنكَرِ وَيُقِيمُونَ
-الصَّلاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ،
-أُوْلَئِكَ سَيَرْحَمُهُمْ اللَّهُ، إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ.
-وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ
-تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاكِنَ طَيِّبَةً فِي
-جَنَّاتِ عَدْنٍ وَرِضْوَانٌ مِنْ اللَّهِ أَكْبَرُ، ذَلِكَ هُوَ
-الْفَوْزُ الْعَظِيمُ.
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ،
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنْ الْمُنكَرِ وَيُقِيمُونَ
+> الصَّلاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ،
+> أُوْلَئِكَ سَيَرْحَمُهُمْ اللَّهُ، إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ.
+> وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ
+> تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاكِنَ طَيِّبَةً فِي
+> جَنَّاتِ عَدْنٍ وَرِضْوَانٌ مِنْ اللَّهِ أَكْبَرُ، ذَلِكَ هُوَ
+> الْفَوْزُ الْعَظِيمُ.
 
 ***And as for the believing men and the believing women, they are
 guardians of each other; they enjoin good and forbid evil and keep up
@@ -5180,13 +4124,9 @@ that is the grand achievement. (9:71-72)***
 
 Imam Al-Sajjad (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-إعْلَمُوا أنَّهُ مَنِ اشْتَاقَ إلَى الجَنَّةِ سَارَعَ إلَى الحَسَنَاتِ
-وَسَلاَ عَنِ الشَّهَوَاتِ، وَمَنْ أشْفَقَ مِنَ النَّارِ بَادَرَ
-بِالتَّوْبَةِ إلَى اللهِ مِنْ ذُنُوبِهِ وَرَاجَعَ عَنِ المَحَارِمِ.
-  </p>
-</blockquote>
+> إعْلَمُوا أنَّهُ مَنِ اشْتَاقَ إلَى الجَنَّةِ سَارَعَ إلَى الحَسَنَاتِ
+> وَسَلاَ عَنِ الشَّهَوَاتِ، وَمَنْ أشْفَقَ مِنَ النَّارِ بَادَرَ
+> بِالتَّوْبَةِ إلَى اللهِ مِنْ ذُنُوبِهِ وَرَاجَعَ عَنِ المَحَارِمِ.
 
 ***One, who is eager to come into paradise, rushes to goodness and
 forgets lusts. And one, who is afraid of the Hell, rushes to Allah via
@@ -5194,26 +4134,18 @@ repentance and avoids the unlawful.***[^213]
 
 Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-ثَمَنُ الجَنَّةِ العَمَلُ الصَّالِحُ.
-  </p>
-</blockquote>
+> ثَمَنُ الجَنَّةِ العَمَلُ الصَّالِحُ.
 
 ***The cost of the paradise is good deeds.***[^214]
 
 The fifth infallible Imam, Imam al-Baqir (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عَشْرٌ مَنْ لَقِيَ اللهَ عَزَّ وَجَلَّ بِهِنَّ دَخَلَ الجَنَّةَ:
-شَهَادَةُ أنْ لاَ إلَهَ إلاَّ اللهُ وَأنَّ مُحَمَّداً رَسُولُ اللهِ،
-وَالإقْرَارُ بِمَا جَاءَ مِنْ عِنْدِ اللهِ، وَإقَامُ الصَّلاَةِ،
-وَإيتَاءُ الزَّكَاةِ، وَصَوْمُ شَهْرِ رَمَضَانَ، وَحِجُّ البَيْتِ،
-وَالوِلاَيَةُ لأوْلِيَاءِ اللهِ، وَالبَراءَةُ مِنْ أعْدَاءِ اللهِ،
-وَاجْتِنَابُ كُلِّ مُسْكِرٍ.
-  </p>
-</blockquote>
+> عَشْرٌ مَنْ لَقِيَ اللهَ عَزَّ وَجَلَّ بِهِنَّ دَخَلَ الجَنَّةَ:
+> شَهَادَةُ أنْ لاَ إلَهَ إلاَّ اللهُ وَأنَّ مُحَمَّداً رَسُولُ اللهِ،
+> وَالإقْرَارُ بِمَا جَاءَ مِنْ عِنْدِ اللهِ، وَإقَامُ الصَّلاَةِ،
+> وَإيتَاءُ الزَّكَاةِ، وَصَوْمُ شَهْرِ رَمَضَانَ، وَحِجُّ البَيْتِ،
+> وَالوِلاَيَةُ لأوْلِيَاءِ اللهِ، وَالبَراءَةُ مِنْ أعْدَاءِ اللهِ،
+> وَاجْتِنَابُ كُلِّ مُسْكِرٍ.
 
 ***There are ten things with which anyone who meets Allah would enter
 paradise; testifying that there is no deity but Allah, that Muhammad is
@@ -5229,60 +4161,36 @@ Mercy toward His servants, inviting everyone to obtain this Mercy by
 resorting to belief, good deeds, piety, charity, and repentance from
 sins.
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ
-فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ.
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ
+> فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ.
 
 ***As for those who believe in Allah and hold fast by Him, He will cause
 them to enter into His Mercy. (4:175)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلامٌ
-عَلَيْكُمْ كَتَبَ رَبُّكُمْ عَلَى نَفْسِهِ الرَّحْمَةَ.
-  </p>
-</blockquote>
+> وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلامٌ
+> عَلَيْكُمْ كَتَبَ رَبُّكُمْ عَلَى نَفْسِهِ الرَّحْمَةَ.
 
 ***And when those who believe in Our signs come to you, say: Peace be on
 you, your Lord is the*** ***lord of All-encompassing Mercy. (6:54)***
 
-<blockquote dir="rtl">
-  <p>
-وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ.
-  </p>
-</blockquote>
+> وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ.
 
 ***And My Mercy encompasses all things. (7:156)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
 
 ***Surely, Allah is Forgiving, Merciful. (2:173)***
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ.
-  </p>
-</blockquote>
+> فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ.
 
 ***Say: Your Lord is the Lord of All-encompassing mercy. (6:147)***
 
 For obtaining Allah’s Mercy, one should certainly observe some matters.
 Imam al-Baqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-تَعَرَّضْ لِلرَّحْمَةِ وَعَفْوِ اللهِ بِحُسْنِ المُرَاجَعَةِ،
-وَاسْتَعِنْ عَلَى حُسْنِ المُرَاجَعَةِ بِخَالِصِ الدُّعَاءِ
-وَالمُنَاجَاةِ فِي الظُّلَمِ.
-  </p>
-</blockquote>
+> تَعَرَّضْ لِلرَّحْمَةِ وَعَفْوِ اللهِ بِحُسْنِ المُرَاجَعَةِ،
+> وَاسْتَعِنْ عَلَى حُسْنِ المُرَاجَعَةِ بِخَالِصِ الدُّعَاءِ
+> وَالمُنَاجَاةِ فِي الظُّلَمِ.
 
 ***Obtain Allah’s Mercy and Forgiveness by returning to Him, and for
 realizing your return get help from sincere praying in the middle of
@@ -5291,11 +4199,7 @@ night.***[^216]
 Someone told the Prophet of Islam (S): “I would like to get subjected to
 Allah’s Mercy.” The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إرْحَمْ نَفْسَكَ وَارْحَمْ خَلْقَ اللهِ يَرْحَمْكَ اللهُ.
-  </p>
-</blockquote>
+> إرْحَمْ نَفْسَكَ وَارْحَمْ خَلْقَ اللهِ يَرْحَمْكَ اللهُ.
 
 ***Have mercy on yourself and other people, so that Allah would have
 mercy on you.***[^217]
@@ -5311,22 +4215,14 @@ chastisement. The Almighty has set this fact for the regretful sinners,
 who wish to return to His Kingdom, out of Mercy, and has admired Himself
 for this lofty attribute, stating:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا.
 
 ***Surely Allah is Pardoning, Forgiving. (4:43)***
 
 Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أمْرُهُ قَضَاءٌ وَحِكْمَةٌ، وَرِضَاهُ أمَانٌ وَرَحْمَةٌ، يَقْضِي
-بِعِلْمٍ وَيَعْفُو بِحِلْمٍ.
-  </p>
-</blockquote>
+> أمْرُهُ قَضَاءٌ وَحِكْمَةٌ، وَرِضَاهُ أمَانٌ وَرَحْمَةٌ، يَقْضِي
+> بِعِلْمٍ وَيَعْفُو بِحِلْمٍ.
 
 ***Allah’s orders are obligatory and out of expedience and wisdom. His
 takes pleasure in Mercy and Forgiveness. He rules with knowledge and
@@ -5337,21 +4233,13 @@ account for people’s deeds?” The Prophet (S) answered: “The Almighty
 would.” The Arab man said: “By the Lord of *Kaaba* then we would be
 saved.” The Prophet asked: “Why do you think so?” He replied:
 
-<blockquote dir="rtl">
-  <p>
-لأنَّ الكَرِيمَ إذَا قَدَرَ عَفا.
-  </p>
-</blockquote>
+> لأنَّ الكَرِيمَ إذَا قَدَرَ عَفا.
 
 ***The Generous would forgive if He gets Power.***[^219]
 
 Imam ‘Ali (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَنَزَّهَ عَنْ حُرُمَاتِ اللهِ سَارَعَ إلَيْهِ عَفْوُ اللهِ.
-  </p>
-</blockquote>
+> مَنْ تَنَزَّهَ عَنْ حُرُمَاتِ اللهِ سَارَعَ إلَيْهِ عَفْوُ اللهِ.
 
 ***Allah’s Forgiveness would rush to anyone who avoids what Allah has
 forbidden.***[^220]
@@ -5360,11 +4248,7 @@ Some facts that are only with Allah like reward, paradise, mercy and
 forgiveness have inspired the pious servants intensely with a great urge
 to reach for what is with Him.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ عَظُمَ سُلْطَانُكَ
-  </p>
-</blockquote>
+> اللَّهُمَّ عَظُمَ سُلْطَانُكَ
 
 *O Allah! Great is Your Kingdom.*
 
@@ -5379,21 +4263,13 @@ Wisdom, Prophethood, Qur’an, and Imamate are His proofs with which He
 would reason with all the beings on the Day of Resurrection, refusing
 their false excuses for committing sins and avoiding good deeds.
 
-<blockquote dir="rtl">
-  <p>
-وَعَلاَ مَكَانُكَ
-  </p>
-</blockquote>
+> وَعَلاَ مَكَانُكَ
 
 *O Allah! Lofty is Your Being.*
 
 The Holy God has rightly praised Himself in the Holy Qur’an as:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ كَمِثْلِهِ شَيْءٌ.
-  </p>
-</blockquote>
+> لَيْسَ كَمِثْلِهِ شَيْءٌ.
 
 ***Nothing like a likeness of Him. (42:11)***
 
@@ -5406,11 +4282,7 @@ Knowledge. His Power is above all other powers; His Might is above
 everyone’s might. That is why His Being is Lofty and His Status is
 superior to everything.
 
-<blockquote dir="rtl">
-  <p>
-وَخَفِىَ مَكْرُكَ
-  </p>
-</blockquote>
+> وَخَفِىَ مَكْرُكَ
 
 *O Allah! Your Contrivance is hidden.*
 
@@ -5437,15 +4309,11 @@ face the hidden contrivance.
 
 It is narrated from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-إذَا أرَادَ اللهُ بِعَبْدٍ خَيْراً فَأذْنَبَ ذَنْباً أتْبَعَهُ
-بِنِعْمَةٍ وَيُذَكِّرُهُ الإسْتِغْفَارَ، وَإذَا أرَادَ بِعَبْدٍ شَرّاً
-فَأذْنَبَ ذَنْباً أتْبَعَهُ بِنِعْمَةٍ لِيُنْسِيَهُ الإسْتِغْفَارَ
-وَتَمَادَى بِهَا. وَهُوَ قَوْلُهُ: سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لاَ
-يَعْلَمُونَ.
-  </p>
-</blockquote>
+> إذَا أرَادَ اللهُ بِعَبْدٍ خَيْراً فَأذْنَبَ ذَنْباً أتْبَعَهُ
+> بِنِعْمَةٍ وَيُذَكِّرُهُ الإسْتِغْفَارَ، وَإذَا أرَادَ بِعَبْدٍ شَرّاً
+> فَأذْنَبَ ذَنْباً أتْبَعَهُ بِنِعْمَةٍ لِيُنْسِيَهُ الإسْتِغْفَارَ
+> وَتَمَادَى بِهَا. وَهُوَ قَوْلُهُ: سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لاَ
+> يَعْلَمُونَ.
 
 ***In fact, sometimes Allah wills to give His servant blessings and
 goodness. That servant commits sins; Allah would give him blessings, and
@@ -5457,11 +4325,7 @@ to the blessings. This is the sense of Allah’s saying: 'We draw them
 near to destruction by degrees from whence they know not.
 (4:182)'***[^221]
 
-<blockquote dir="rtl">
-  <p>
-وَظَهَرَ أَمْرُكَ
-  </p>
-</blockquote>
+> وَظَهَرَ أَمْرُكَ
 
 *O Allah! Your Command is manifest.*
 
@@ -5473,22 +4337,14 @@ religious Command is His Rules about the lawfulness and unlawfulness of
 actions, which have been declared to all human beings by the Prophets,
 heavenly Books and Imams (as).
 
-<blockquote dir="rtl">
-  <p>
-وَغَلَبَ قَهْرُكَ وَجَرَتْ قُدْرَتُكَ
-  </p>
-</blockquote>
+> وَغَلَبَ قَهْرُكَ وَجَرَتْ قُدْرَتُكَ
 
 *Your Dominance is overwhelming; Your Power is ever-operating.*
 
 Allah's Dominance and Power was explained in detail at the beginning of
 the book.
 
-<blockquote dir="rtl">
-  <p>
-وَلا يُمْكِنُ الْفِرَارُ مِنْ حُكُومَتِكَ
-  </p>
-</blockquote>
+> وَلا يُمْكِنُ الْفِرَارُ مِنْ حُكُومَتِكَ
 
 *And escape from Your Domain is impossible.*
 
@@ -5505,16 +4361,12 @@ An important valuable tradition reads: “Someone came to Imam Husayn (as)
 and said: 'I am a sinner, but cannot continue to be a sinner. So preach
 me!' Imam (as) stated:
 
-<blockquote dir="rtl">
-  <p>
-إفْعَلْ خَمْسَةَ أشْيَاءٍ وَأذْنِبْ مَا شِئْتَ: لاَ تَأكُلْ مِنْ
-رِزْقِ اللهِ وَأذْنِبْ مَا شِئْتَ. أخْرُجْ مِنْ مَمْلَكَةِ اللهِ
-وَحُكْمِهِ وَأذْنِبْ مَا شِئْتَ. أطْلُبْ مَكَاناً لاَ يَرَاكَ فِيهِ
-اللهُ وَأذْنِبْ مَا شِئْتَ. وإذَا جَاءَكَ مَلَكُ المَوْتِ فَادْفَعْهُ
-عَنْكَ وَأذْنِبْ مَا شِئْتَ. وَإنْ سَاقَكَ مَلائِكَةُ العَذَابِ إلَى
-النَّارِ فَلا تَدْخُلْ فِيهَا وَأذْنِبْ مَا شِئْتَ.
-  </p>
-</blockquote>
+> إفْعَلْ خَمْسَةَ أشْيَاءٍ وَأذْنِبْ مَا شِئْتَ: لاَ تَأكُلْ مِنْ
+> رِزْقِ اللهِ وَأذْنِبْ مَا شِئْتَ. أخْرُجْ مِنْ مَمْلَكَةِ اللهِ
+> وَحُكْمِهِ وَأذْنِبْ مَا شِئْتَ. أطْلُبْ مَكَاناً لاَ يَرَاكَ فِيهِ
+> اللهُ وَأذْنِبْ مَا شِئْتَ. وإذَا جَاءَكَ مَلَكُ المَوْتِ فَادْفَعْهُ
+> عَنْكَ وَأذْنِبْ مَا شِئْتَ. وَإنْ سَاقَكَ مَلائِكَةُ العَذَابِ إلَى
+> النَّارِ فَلا تَدْخُلْ فِيهَا وَأذْنِبْ مَا شِئْتَ.
 
 ***'Do five things and then commit any sin you want! First, don't eat
 Allah's sustenance and commit sins. Second, Go outside the domain of
@@ -5531,13 +4383,9 @@ prosperity. Such an escape is, in fact, moving from wrongdoing to common
 sense, from the world to the Hereafter, from the Hell to the Paradise,
 and at last from Satan to Allah.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ لا أَجِدُ لِذُنُوبِى غَافِرًا وَّلا لِقَبَائِحِى سَاتِرًا
-وَّلا لِشَيٍْء مِّنْ عَمَلِىَ الْقَبِيحِ بِالْحَسَنِ مُبَدِّلاً
-غَيْرَكَ
-  </p>
-</blockquote>
+> اللَّهُمَّ لا أَجِدُ لِذُنُوبِى غَافِرًا وَّلا لِقَبَائِحِى سَاتِرًا
+> وَّلا لِشَيٍْء مِّنْ عَمَلِىَ الْقَبِيحِ بِالْحَسَنِ مُبَدِّلاً
+> غَيْرَكَ
 
 *O Allah! I find no forgiver of my sins, no concealer of my wicked acts,
 no transformer of any of my wicked acts into good acts, but You.*
@@ -5555,11 +4403,7 @@ crimes if he avoids sins and be adorned with righteous deeds.
 Hopelessness of Allah's Forgiveness is a major sin, which is doomed to
 chastisement, and according to the Holy Qur’an, equals disbelief:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لا يَيْئَسُ مِنْ رَوْحِ اللَّهِ إِلاَّ الْقَوْمُ الكَافِرُونَ.
-  </p>
-</blockquote>
+> إِنَّهُ لا يَيْئَسُ مِنْ رَوْحِ اللَّهِ إِلاَّ الْقَوْمُ الكَافِرُونَ.
 
 ***Surely none despairs of Allah's Mercy except the unbelieving people.
 (12:87)***
@@ -5567,13 +4411,9 @@ chastisement, and according to the Holy Qur’an, equals disbelief:
 The Holy Qur’an declares to the sinners not to be desperate of Allah's
 Mercy, since Allah would forgive all the sins.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا
-تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا
+> تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ.
 
 ***Say: O my people who have been prodigal against yourselves, do not
 despair of God’s mercy; surely God forgives sins altogether; surely He
@@ -5582,30 +4422,18 @@ is the All-forgiving, the All-compassionate. (39:53)***
 The Qur’anic verses like the ones below indicate that the Almighty would
 pardon the wrongdoing of every sinner.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
 
 ***Allah is All-forgiving, All-compassionate. (2:173)***
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ
-عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ
+> عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
 
 ***But whoever repents after his wickedness and reforms himself, then
 surely Allah will turn him mercifully; surely Allah is Forgiving,
 Merciful. (5:39)***
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ.
 
 ***Be careful of your duty to Allah; surely Allah is Forgiving Merciful.
 (8:69)***
@@ -5618,13 +4446,9 @@ on him would get completely subjected to Allah's Mercy and Forgiveness.
 The Messenger of Allah (S) lists the signs of a real repentant as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-أمَّا عَلاَمَةُ التَّائِبِ فَأرْبَعَةٌ: النَّصِيحَةُ للهِ فِي
-عَمَلِهِ، وَتَرْكُ البَاطِلِ، وَلُزُومُ الحَقِّ، وَالحِرْصُ عَلَى
-الخَيْرِ.
-  </p>
-</blockquote>
+> أمَّا عَلاَمَةُ التَّائِبِ فَأرْبَعَةٌ: النَّصِيحَةُ للهِ فِي
+> عَمَلِهِ، وَتَرْكُ البَاطِلِ، وَلُزُومُ الحَقِّ، وَالحِرْصُ عَلَى
+> الخَيْرِ.
 
 ***A repentant servant of Allah has four signs; complete obedience of
 Allah in deeds and behaviors, leaving the untruth, sticking to the
@@ -5632,14 +4456,10 @@ truth, and intense enthusiasm to do good.***[^223]
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ اللهُ لِيَفْتَحَ عَلَى عَبْدٍ بَابَ الشُّكْرِ وَيُغْلِقُ
-عَنْهُ بَابَ الزِّيَادَةِ، ولاَ لِيَفْتَحَ عَلَى عَبْدٍ بَابَ
-الدُّعَاءِ وَيُغْلِقُ عَنْهُ بَابَ الإجَابَةِ، وَلاَ لِيَفْتَحَ
-لِعَبْدٍ بَابَ التَّوْبَةِ وَيُغْلِقُ عَنْهُ بَابَ المَغْفِرَةِ.
-  </p>
-</blockquote>
+> مَا كَانَ اللهُ لِيَفْتَحَ عَلَى عَبْدٍ بَابَ الشُّكْرِ وَيُغْلِقُ
+> عَنْهُ بَابَ الزِّيَادَةِ، ولاَ لِيَفْتَحَ عَلَى عَبْدٍ بَابَ
+> الدُّعَاءِ وَيُغْلِقُ عَنْهُ بَابَ الإجَابَةِ، وَلاَ لِيَفْتَحَ
+> لِعَبْدٍ بَابَ التَّوْبَةِ وَيُغْلِقُ عَنْهُ بَابَ المَغْفِرَةِ.
 
 ***Allah is not to open up the doors of gratitude to His servant but
 close the doors of increased blessings. He is not to allow him to
@@ -5661,13 +4481,9 @@ public, saving his face before others would be meaningless.
 
 It is narrated from the Messenger of Allah (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَابَ تَابَ اللهُ عَلَيْهِ وَأُمِرَتْ جَوَارِحُهُ أنْ تَسْتُرَ
-عَلَيْهِ وَبِقَاعُ الأرْضِ أنْ تَكْتُمَ عَلَيْهِ وأُنْسِيَتِ
-الحَفَظَةُ مَا كَانَتْ تَكْتُبُ عَلَيْهِ.
-  </p>
-</blockquote>
+> مَنْ تَابَ تَابَ اللهُ عَلَيْهِ وَأُمِرَتْ جَوَارِحُهُ أنْ تَسْتُرَ
+> عَلَيْهِ وَبِقَاعُ الأرْضِ أنْ تَكْتُمَ عَلَيْهِ وأُنْسِيَتِ
+> الحَفَظَةُ مَا كَانَتْ تَكْتُبُ عَلَيْهِ.
 
 ***One who repents Allah would accept his repentance and order his
 organs to cover sins from his sight. He would order the earth segments
@@ -5676,15 +4492,11 @@ have written in that servant's letter of deeds.***[^225]
 
 Mu'awiyat Ibn Wahab quotes Imam Sadiq (as) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إذَا تَابَ العَبْدُ تَوبَةً نَصُوحاً أحَبَّهُ اللهُ وَسَتَرَ
-عَلَيْهِ... يُنْسِي مَلَكَيْهِ مَا كَانَا يَكْتُبَانِ عَلَيْهِ،
-وَيُوحِي إلَى جَوارِحِهِ وَإلَى بِقَاعِ الأرْضِ أنْ اكْتُمِي عَلَيْهِ
-ذُنُوبَهُ؛ فَيَلْقَى اللهَ عَزَّ وَجَلَّ حِينَ يَلْقَاهُ وَلَيْسَ
-شَيْءٌ يَشْهَدُ عَلَيْهِ بِشَيْءٍ مِنَ الذُّنُوبِ.
-  </p>
-</blockquote>
+> إذَا تَابَ العَبْدُ تَوبَةً نَصُوحاً أحَبَّهُ اللهُ وَسَتَرَ
+> عَلَيْهِ... يُنْسِي مَلَكَيْهِ مَا كَانَا يَكْتُبَانِ عَلَيْهِ،
+> وَيُوحِي إلَى جَوارِحِهِ وَإلَى بِقَاعِ الأرْضِ أنْ اكْتُمِي عَلَيْهِ
+> ذُنُوبَهُ؛ فَيَلْقَى اللهَ عَزَّ وَجَلَّ حِينَ يَلْقَاهُ وَلَيْسَ
+> شَيْءٌ يَشْهَدُ عَلَيْهِ بِشَيْءٍ مِنَ الذُّنُوبِ.
 
 ***‘If a servant repents sincerely, Allah would love him and cover his
 faults in the world and the Hereafter.’ I asked Imam Sadiq (as): ‘How
@@ -5714,24 +4526,16 @@ Among the attributes of the Almighty is that when the servant repents
 and does good acts, He would transfer the servant's sins to virtuous
 acts.
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلاً صَالِحًا فَأُوْلَئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
-رَحِيمًا.
-  </p>
-</blockquote>
+> إِلاَّ مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلاً صَالِحًا فَأُوْلَئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
+> رَحِيمًا.
 
 ***Except him who repents, believes, and does a good deed; so these are
 they of whom Allah changes the evil deeds to good ones, and Allah is
 Forgiving, Merciful. (25:70)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمْ الصَّلاَةَ طَرَفِي النَّهَارِ وَزُلَفًا مِنْ اللَّيْلِ إِنَّ
-الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ذَلِكَ ذِكْرَى لِلذَّاكِرِينَ.
-  </p>
-</blockquote>
+> وَأَقِمْ الصَّلاَةَ طَرَفِي النَّهَارِ وَزُلَفًا مِنْ اللَّيْلِ إِنَّ
+> الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ذَلِكَ ذِكْرَى لِلذَّاكِرِينَ.
 
 ***And keep up prayer at the two ends of the day and in the first parts
 of the night; surely good deeds take away evil deeds. (11:114)***
@@ -5756,17 +4560,13 @@ After repentance, Allah would remove the servant's sins, out of Mercy,
 replacing them with good acts. Abu-Dhar has narrated from the Messenger
 of Islam (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-يُحْشَرُ بَعْضُهُمْ يَوْمَ القِيَامَةِ فَيَأمُرُ اللهُ أنْ تُعْرَضَ
-صَغَائِرُ ذُنُوبِهِمْ وَتُسْتَرَ كَبَائِرُهَا. فَيُقَالُ لَهُ إنَّكَ
-فَعَلْتَ فِِي اليَوْمِ الفُلانِيِّ الذَّنْبَ الفُلاَنِيَّ فَيُقِرُّ
-بِذَلِكَ وَنَفْسُهُ تَضْطَرِبُ مِنَ الكَبَائِرِ الَّتِي سَيُسْألُ
-عَنْهَا، ثُمَّ يَأمُرُ اللهُ عَزَّ وَجَلَّ أنْ تُبَدَّلَ سَيِّئَاتُهُ
-حَسَنَاتٍ. فَيَقُولُ: يَا رَبِّ: إنَّ لِي ذُنُوباً كَبِيرَةً ولاَ
-أرَاهَا.
-  </p>
-</blockquote>
+> يُحْشَرُ بَعْضُهُمْ يَوْمَ القِيَامَةِ فَيَأمُرُ اللهُ أنْ تُعْرَضَ
+> صَغَائِرُ ذُنُوبِهِمْ وَتُسْتَرَ كَبَائِرُهَا. فَيُقَالُ لَهُ إنَّكَ
+> فَعَلْتَ فِِي اليَوْمِ الفُلانِيِّ الذَّنْبَ الفُلاَنِيَّ فَيُقِرُّ
+> بِذَلِكَ وَنَفْسُهُ تَضْطَرِبُ مِنَ الكَبَائِرِ الَّتِي سَيُسْألُ
+> عَنْهَا، ثُمَّ يَأمُرُ اللهُ عَزَّ وَجَلَّ أنْ تُبَدَّلَ سَيِّئَاتُهُ
+> حَسَنَاتٍ. فَيَقُولُ: يَا رَبِّ: إنَّ لِي ذُنُوباً كَبِيرَةً ولاَ
+> أرَاهَا.
 
 ***On the Last Day, Allah orders to account for the servant's minor
 sins, and covering his major sins. He confesses to what he has committed
@@ -5778,12 +4578,8 @@ sins that are not present today.'***
 ***Abu-Dharr says: At this point, the Prophet (S) smiled in a way that
 his teeth appeared, then he recited this verse:***
 
-<blockquote dir="rtl">
-  <p>
-فَأُوْلَئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ
-اللَّهُ غَفُورًا رَحِيمًا.
-  </p>
-</blockquote>
+> فَأُوْلَئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ
+> اللَّهُ غَفُورًا رَحِيمًا.
 
 ***These are they of whom Allah changes the evil deeds to good ones, and
 Allah is Forgiving, Merciful. (25:70)***[^227]
@@ -5794,11 +4590,7 @@ When he repents, those wicked effects are removed from his soul,
 transforming them to good effects; and this is the meaning of
 transformation of wicked acts to good acts.[^228]
 
-<blockquote dir="rtl">
-  <p>
-لا إِلَهَ إِلاّ أَنتَ سُبْحَانَكَ وَبِحَمْدِكَ
-  </p>
-</blockquote>
+> لا إِلَهَ إِلاّ أَنتَ سُبْحَانَكَ وَبِحَمْدِكَ
 
 *There is no deity but You! Glory be to You, and Yours is the Praise!*
 
@@ -5848,57 +4640,37 @@ paradise, while placing himself in the secure fort of the Compassionate.
 Imam al-Ridha (as) has narrated from his noble ancestors who have
 narrated from the Messenger of Allah who cited from the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إلَهَ إلاّ اللهُ حِصْنِي؛ فَمَنْ دَخَلَ حِصْنِي أمِنَ مِنْ
-عَذَابِي.
-  </p>
-</blockquote>
+> لاَ إلَهَ إلاّ اللهُ حِصْنِي؛ فَمَنْ دَخَلَ حِصْنِي أمِنَ مِنْ
+> عَذَابِي.
 
 ***Tawhid (Unity of Allah) is My Fort, so whoever comes to My Fort would
 be secured from My chastisement.***[^229]
 
 The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا جَزَاءُ مَنْ أنْعَمَ اللهُ عَزَّ وَجَلَّ عَلَيْهِ بِالتَّوْحِيدِ
-إلاّ الجَنَّةَ.
-  </p>
-</blockquote>
+> مَا جَزَاءُ مَنْ أنْعَمَ اللهُ عَزَّ وَجَلَّ عَلَيْهِ بِالتَّوْحِيدِ
+> إلاّ الجَنَّةَ.
 
 ***The reward of one to whom Allah has granted the blessing of Tawhid is
 not but Paradise.***[^230]
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَهُوَ يَعْلَمُ أنَّ اللهَ حَقٌّ دَخَلَ الجَنَّةَ.
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَهُوَ يَعْلَمُ أنَّ اللهَ حَقٌّ دَخَلَ الجَنَّةَ.
 
 ***One who dies while he knows that Allah is indeed the Truth, would
 enter Paradise.***[^231]
 
 Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-قَوْلُ لاَ إلَهَ إلاّ اللهُ ثَمَنُ الجَنَّةِ.
-  </p>
-</blockquote>
+> قَوْلُ لاَ إلَهَ إلاّ اللهُ ثَمَنُ الجَنَّةِ.
 
 ***The cost of Paradise is the sincere uttering of ‘There is no deity
 but Allah’.***[^232]
 
 Moreover, he said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَالَ لاَ إلَهَ إلا ّ اللهُ مُخْلِصاً دَخَلَ الجَنَّةَ؛
-وَإخْلاَصُهُ أنْ تَحْجِزَهُ لاَ إلَهَ إلاّ اللهُ عَمَّا حَرَّمَ اللهُ
-عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> مَنْ قَالَ لاَ إلَهَ إلا ّ اللهُ مُخْلِصاً دَخَلَ الجَنَّةَ؛
+> وَإخْلاَصُهُ أنْ تَحْجِزَهُ لاَ إلَهَ إلاّ اللهُ عَمَّا حَرَّمَ اللهُ
+> عَزَّ وَجَلَّ.
 
 ***One who confesses to the Unity of Allah sincerely would enter
 Paradise and his sincerity takes him away from what Allah has declared
@@ -5993,11 +4765,7 @@ wickedness. It is in fact confessing to Allah's infinite perfections.
 Talha Ibn ‘Abdullah says: I asked the Messenger of Allah about the
 exegesis of “*subhanallahi* (Glory be to Allah).” He said:
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيهُ اللهِ مِنْ كُلِّ عَيْبٍ.
-  </p>
-</blockquote>
+> تَنْزِيهُ اللهِ مِنْ كُلِّ عَيْبٍ.
 
 ***It is regarding Allah as pure of any faults.***[^235]
 
@@ -6011,12 +4779,8 @@ angels praise him.***[^236]
 Many of the verses in the Holy Qur’an introduce all the world beings as
 praising Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ مِنْ شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدِهِ وَلَكِنْ لاَ
-تَفْقَهُونَ تَسْبِيحَهُمْ.
-  </p>
-</blockquote>
+> وَإِنْ مِنْ شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدِهِ وَلَكِنْ لاَ
+> تَفْقَهُونَ تَسْبِيحَهُمْ.
 
 ***There is not a single thing but glorifies Him with His praise, but
 you do not understand their glorification. (17:44)***
@@ -6029,13 +4793,9 @@ Allah, so that He would save Him from the darkness and bring him to
 close to him. When the Prophet Jonah (as) was entangled in the darkness
 of the fish belly in the dark night:
 
-<blockquote dir="rtl">
-  <p>
-فَنَادَى فِي الظُّلُمَاتِ أَنْ لا إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ
-إِنِّي كُنتُ مِنْ الظَّالِمِينَ. فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ
-مِنْ الْغَمِّ وَكَذَلِكَ نُنْجِي الْمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> فَنَادَى فِي الظُّلُمَاتِ أَنْ لا إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ
+> إِنِّي كُنتُ مِنْ الظَّالِمِينَ. فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ
+> مِنْ الْغَمِّ وَكَذَلِكَ نُنْجِي الْمُؤْمِنِينَ.
 
 ***So he called out in the darkness: There is no god but Thou; glory be
 to Thee. Surely I have been a wrong-doer. So We responded to him and
@@ -6045,11 +4805,7 @@ delivered him from the grief and thus do We deliver the believers.
 The author of the exegesis book Minhaj Al-Sadiqin, explaining about this
 verse, has narrated the Prophet (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مَكْرُوبٍ يَدْعُو بِهَذا الدُّعَاءِ إلاّ اسْتُجِيبَ لَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ مَكْرُوبٍ يَدْعُو بِهَذا الدُّعَاءِ إلاّ اسْتُجِيبَ لَهُ.
 
 ***There is no grief-stricken who recites this verse, but his
 supplication would be accepted.***[^237]
@@ -6064,12 +4820,8 @@ Prophet (S) happy, he used to say: Praise be to Allah for this! And when
 some occurrence grieved him, he said: Praise be to Allah in all
 states!”[^239]
 
-<blockquote dir="rtl">
-  <p>
-ظَلَمْتُ نَفْسي، وَتَجَرَّأْتُ بِجَهْلي وَسَكَنْتُ إِلى قَديمِ
-ذِكْرِكَ لي وَمَنِّكَ عَلَيَّ
-  </p>
-</blockquote>
+> ظَلَمْتُ نَفْسي، وَتَجَرَّأْتُ بِجَهْلي وَسَكَنْتُ إِلى قَديمِ
+> ذِكْرِكَ لي وَمَنِّكَ عَلَيَّ
 
 *I have wronged myself, I have been audacious in my ignorance and I have
 depended upon Your constant remembrance of me and Your favor toward me.*
@@ -6171,24 +4923,16 @@ repentance and return to salvation.
 
 It is narrated from Imam al-Baqir (as):
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ لاَ يَنْجُو مِنَ الذَّنْبِ إلاّ مَنْ أقَرَّ بِهِ.
-  </p>
-</blockquote>
+> وَاللهِ لاَ يَنْجُو مِنَ الذَّنْبِ إلاّ مَنْ أقَرَّ بِهِ.
 
 ***By Allah (I swear), no one would be saved from sins, unless he
 confesses to sins.***[^240]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ وَاللهِ، مَا أرَادَ اللهُ مِنَ النَّاسِ إلاّ خِصْلَتَيْنِ: أنْ
-يُقِرُّوا لَـُه بِالنِّعَمِ فَيَزِيدُهُمْ، وَبِالذُّنُوبِ
-فَيَغْفِرُهَا لَهُمْ.
-  </p>
-</blockquote>
+> لاَ وَاللهِ، مَا أرَادَ اللهُ مِنَ النَّاسِ إلاّ خِصْلَتَيْنِ: أنْ
+> يُقِرُّوا لَـُه بِالنِّعَمِ فَيَزِيدُهُمْ، وَبِالذُّنُوبِ
+> فَيَغْفِرُهَا لَهُمْ.
 
 ***By Allah, He doest not expect but two attributes from His servants;
 that they confess to His blessings so that He would increase them, and
@@ -6196,20 +4940,12 @@ that they confess to their sins so that He would forgive them.***[^241]
 
 The Commander of the Believers, Imam ‘Ali (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-اَلمُقِرُّ بِالذَّنْبِ تَائِبٌ.
-  </p>
-</blockquote>
+> اَلمُقِرُّ بِالذَّنْبِ تَائِبٌ.
 
 ***One who confesses to his sins is considered as the one who
 repents.***[^242]
 
-<blockquote dir="rtl">
-  <p>
-شَافِعُ الذَّنْبِ إقْرَارُهُ وَتَوْبَتُهُ اعْتِذَارُهُ.
-  </p>
-</blockquote>
+> شَافِعُ الذَّنْبِ إقْرَارُهُ وَتَوْبَتُهُ اعْتِذَارُهُ.
 
 ***The intercessor of a sinner is his confession to sins, and his
 repentance is as his apology.***[^243]
@@ -6230,13 +4966,9 @@ or disobeying you. My carnal soul took over me; Satan deceived me, so I
 wronged myself and made myself subjected to Your wrath.” Hearing this, I
 recited this verse through the door:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا
-وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلائِكَةٌ غِلاظٌ شِدَادٌ
-لا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا
+> وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلائِكَةٌ غِلاظٌ شِدَادٌ
+> لا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ.
 
 ***O you who believe! Save yourselves and your families from a fire
 whose fuel is men and stones; over it are angels stern and strong, they
@@ -6292,12 +5024,8 @@ of His believing servant in this world, He would certainly pay more
 attention to His repented servant in the Hereafter, concealing his sins
 more than before. It is narrated from the Messenger of Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-مَا سُتِرَ عَلَى عَبْدٍ فِي الدُّنْيَا إلاّ سُتِرَ عَلَيْهِ فِي
-الآخِرَةِ.
-  </p>
-</blockquote>
+> مَا سُتِرَ عَلَى عَبْدٍ فِي الدُّنْيَا إلاّ سُتِرَ عَلَيْهِ فِي
+> الآخِرَةِ.
 
 ***No deed or ugly thing of a servant is concealed in this world except
 that it is concealed in the Last Day too.***[^246]
@@ -6326,18 +5054,14 @@ Prophet Muhammad (S) asked again: “What are those words?”
 
 Gabriel then said:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ أَظْهَر الْجَمِيلَ، وَسَتَرَ الْقَبِيحَ، يَا مَنْ لَمْ
-يُؤْاخِذْ بِالْجَرِيرَةِ، وَلَمْ يَهْتِكِ السّتْرَ، يَا عَظِيمَ
-الْعَفْوِ، يَا حَسَنَ التّجَاوُزِ، يَا وَاسِعَ الْمَغْفِرَةِ، يَا
-بَاسِطَ الْيَدَيْنِ بِالرّحْمَةِ، يَا صَاحِبَ كُلّ نَجْوَى، يَا
-مُنْتَهَى كُلّ شَكْوَى، يَا كَرِيمَ الصّفْحِ، يَا عَظِيمَ الرّجَاءِ،
-يَا مُبْتَدِئاً بِالنّعَمِ قَبْلَ اسْتِحْقَاقِهَا، يَا رَبّنَا
-وَسَيّدَنَا وَمَوْلانَا، يَا غَايَةَ رَغْبَتِنَا، أَسْأَلُكَ يَا
-اَللهُ أنْ لاَ تُشَوِّهَ خَلْقِي بِالنَّارِ.
-  </p>
-</blockquote>
+> يَا مَنْ أَظْهَر الْجَمِيلَ، وَسَتَرَ الْقَبِيحَ، يَا مَنْ لَمْ
+> يُؤْاخِذْ بِالْجَرِيرَةِ، وَلَمْ يَهْتِكِ السّتْرَ، يَا عَظِيمَ
+> الْعَفْوِ، يَا حَسَنَ التّجَاوُزِ، يَا وَاسِعَ الْمَغْفِرَةِ، يَا
+> بَاسِطَ الْيَدَيْنِ بِالرّحْمَةِ، يَا صَاحِبَ كُلّ نَجْوَى، يَا
+> مُنْتَهَى كُلّ شَكْوَى، يَا كَرِيمَ الصّفْحِ، يَا عَظِيمَ الرّجَاءِ،
+> يَا مُبْتَدِئاً بِالنّعَمِ قَبْلَ اسْتِحْقَاقِهَا، يَا رَبّنَا
+> وَسَيّدَنَا وَمَوْلانَا، يَا غَايَةَ رَغْبَتِنَا، أَسْأَلُكَ يَا
+> اَللهُ أنْ لاَ تُشَوِّهَ خَلْقِي بِالنَّارِ.
 
 ***O the One who revealed the goodness and concealed the badness. O the
 One who reprimanded no one for wrongdoing and let no one’s face down. O
@@ -6432,12 +5156,8 @@ praise, for which I was unworthy of, You have spread about me, though I
 had committed so many sins; so my parents and my closed ones thought
 highly of me and praised me, while I did not deserve it.
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ عَظُمَ بَلائي وَأَفْرَطَ بي سُوءُ حالي، وَقَصُرَتْ بي
-أَعْمالي وَقَعَدَتْ بي أَغْلالي
-  </p>
-</blockquote>
+> اَللّهُمَّ عَظُمَ بَلائي وَأَفْرَطَ بي سُوءُ حالي، وَقَصُرَتْ بي
+> أَعْمالي وَقَعَدَتْ بي أَغْلالي
 
 *O Allah my tribulation is tremendous, my bad state is excessive, my
 acts are inadequate, and my fetters have tied me down.*
@@ -7024,5 +5744,4 @@ Al-Tawba, tradition 2156.
 [^246]: Wurram Collection: 1/ 189.
 
 [^247]: Uddat Al-Da’i: 337.
-
 

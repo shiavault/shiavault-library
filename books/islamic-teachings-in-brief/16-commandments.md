@@ -95,7 +95,6 @@ are: (i) taharah (specified Islamic way of purification), (ii) time,
 
 These prerequisites have been explained in detail here.
 
-
 (i) TAHARAH
 
 One who recites salat should be tahir; that is, he should recite salat
@@ -184,7 +183,6 @@ WUDU' AND ITS PRECEPTS
 It is mustahabb for a man to brush his teeth and rinse his mouth with
 .clean water before performing wudu' . . It is also mustahabb for a man
 to inhale tahir water up his nostrils.
-
 
 THE INSTRUCTIONS FOR WUDU'
 
@@ -287,7 +285,6 @@ istihadah one should refer to al-Risalah al-'Amaliyyah.
 Note: Like in the case of wudu', niyyah is also required while
 performing ghusl. The body should be tahir before performing ghusl and
 there should be no obstacle for the water to reach the whole body.
-
 
 THE TAYAMMUM
 
@@ -660,5 +657,4 @@ done so.
 (iii) If one commences iqtida' or follows the imam while he is in the
 state of ruku' and catches up with the imam in ruku', his salat is
 correct and is counted as one rak'ah of salat.
-
 

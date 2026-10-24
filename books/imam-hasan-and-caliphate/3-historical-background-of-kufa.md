@@ -256,4 +256,3 @@ Kufa and other cities who had gathered for a final battle with Muawiya
 and who had taken a vow with his illustrious father to fight till death.
 They were pressing the Imam (as) to march against Muawiya immediately.
 
-

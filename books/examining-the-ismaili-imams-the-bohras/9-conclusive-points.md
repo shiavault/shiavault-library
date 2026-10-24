@@ -112,24 +112,16 @@ accompanied by belief in almost all the ayahs.
 
 For example in Suratul Bayyinat verse 7:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ۝۰ۙ اُولٰۗىِٕكَ ہُمْ
-خَيْرُ الْبَرِيَّۃِ۝۷ۭ
-  </p>
-</blockquote>
+> اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ۝۰ۙ اُولٰۗىِٕكَ ہُمْ
+> خَيْرُ الْبَرِيَّۃِ۝۷ۭ
 
 ***Those who have faith and do righteous deeds, - they are the best of
 creatures.***[^4]
 
 Another example, Suratul Baqarah verse 82:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اُولٰۗىِٕكَ اَصْحٰبُ
-الْجَنَّۃِ۝۰ۚ ھُمْ فِيْہَا خٰلِدُوْنَ۝۸۲ۧ
-  </p>
-</blockquote>
+> وَالَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اُولٰۗىِٕكَ اَصْحٰبُ
+> الْجَنَّۃِ۝۰ۚ ھُمْ فِيْہَا خٰلِدُوْنَ۝۸۲ۧ
 
 ***And those who have faith and do righteous deeds, they shall be the
 inhabitants of paradise; they shall remain in it (forever).***[^5]
@@ -144,14 +136,10 @@ this person in the hereafter.
 
 The Holy Quran, Surah Nur verse 39, says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِيْنَ كَفَرُوْٓا اَعْمَالُہُمْ كَسَرَابٍؚبِقِيْعَۃٍ يَّحْسَبُہُ
-الظَّمْاٰنُ مَاۗءً۝۰ۭ حَتّٰٓي اِذَا جَاۗءَہٗ لَمْ يَجِدْہُ
-شَـيْــــًٔـا وَّوَجَدَ اللہَ عِنْدَہٗ فَوَفّٰىہُ حِسَابَہٗ۝۰ۭ وَاللہُ
-سَرِيْعُ الْحِسَابِ۝۳۹ۙ
-  </p>
-</blockquote>
+> وَالَّذِيْنَ كَفَرُوْٓا اَعْمَالُہُمْ كَسَرَابٍؚبِقِيْعَۃٍ يَّحْسَبُہُ
+> الظَّمْاٰنُ مَاۗءً۝۰ۭ حَتّٰٓي اِذَا جَاۗءَہٗ لَمْ يَجِدْہُ
+> شَـيْــــًٔـا وَّوَجَدَ اللہَ عِنْدَہٗ فَوَفّٰىہُ حِسَابَہٗ۝۰ۭ وَاللہُ
+> سَرِيْعُ الْحِسَابِ۝۳۹ۙ
 
 ***As for the faithless, their works are like a mirage in a plain, which
 the thirsty man supposes to be water. When he comes to it, he finds it
@@ -164,14 +152,10 @@ Allah), is that enough? Does it mean that this person has faith?
 
 The answer is no! As per Quran Suratul Hujurat verse 14:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتِ الْاَعْرَابُ اٰمَنَّا۝۰ۭ قُلْ لَّمْ تُؤْمِنُوْا وَلٰكِنْ
-قُوْلُوْٓا اَسْلَمْنَا وَلَمَّا يَدْخُلِ الْاِيْمَانُ فِيْ
-قُلُوْبِكُمْ۝۰ۭ وَاِنْ تُطِيْعُوا اللہَ وَرَسُوْلَہٗ لَا يَـلِتْكُمْ
-مِّنْ اَعْمَالِكُمْ شَـيْـــــًٔا۝۰ۭ اِنَّ اللہَ غَفُوْرٌ رَّحِيْمٌ۝۱۴
-  </p>
-</blockquote>
+> قَالَتِ الْاَعْرَابُ اٰمَنَّا۝۰ۭ قُلْ لَّمْ تُؤْمِنُوْا وَلٰكِنْ
+> قُوْلُوْٓا اَسْلَمْنَا وَلَمَّا يَدْخُلِ الْاِيْمَانُ فِيْ
+> قُلُوْبِكُمْ۝۰ۭ وَاِنْ تُطِيْعُوا اللہَ وَرَسُوْلَہٗ لَا يَـلِتْكُمْ
+> مِّنْ اَعْمَالِكُمْ شَـيْـــــًٔا۝۰ۭ اِنَّ اللہَ غَفُوْرٌ رَّحِيْمٌ۝۱۴
 
 ***The Bedouins say, “We have faith.” Say, “You do not have faith yet;
 rather say, “We have embraced Islam,” for faith has not yet entered into
@@ -187,13 +171,9 @@ embraces Islam.
 Then, what is faith? When can one say that he has faith? Imam Ali (as)
 in Nahjul Balagha says:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ ؑ وَ [قَدْ] سُئِلَ عَنِ الْاِيْمَانِ فَقَالَ الْاِيْمَانُ
-مَعْرِفَةٌ بِالْقَلْبِ وَ اِقْرَارٌ بِاللِّسَانِ وَ عَمَلٌ
-بِالْاَرْكَانِ‏
-  </p>
-</blockquote>
+> وَ قَالَ ؑ وَ [قَدْ] سُئِلَ عَنِ الْاِيْمَانِ فَقَالَ الْاِيْمَانُ
+> مَعْرِفَةٌ بِالْقَلْبِ وَ اِقْرَارٌ بِاللِّسَانِ وَ عَمَلٌ
+> بِالْاَرْكَانِ‏
 
 *He was asked about faith so he said; faith is to know with one’s heart
 and affirm with* *one’s tongue and to act with one’s limbs.*[^8]
@@ -278,5 +258,4 @@ penitently.”***[^10]
 [^9]: The Bohra calendar discussed earlier proves this point inshaAllah
 
 [^10]: Suratul Hud (11), Ayah 88
-
 

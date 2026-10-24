@@ -193,4 +193,3 @@ country.
 painful torment in this world and in the life to come. Allah knows what
 you do not know. (24:19)”
 
-

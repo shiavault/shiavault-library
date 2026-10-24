@@ -10,4 +10,3 @@ to wherever he was going to. Unfortunately, he missed his chance of
 being amongst the martyrs of Karbala. It is said that he was among the
 companions of Imam Ali Ibn Al Husayn.
 
-

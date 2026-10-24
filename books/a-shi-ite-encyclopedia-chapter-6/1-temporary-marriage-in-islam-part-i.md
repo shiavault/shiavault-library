@@ -52,7 +52,6 @@ necessities and the advantages of the temporary marriage, and finally in
 Part VIII we answer some frequently asked questions regarding to the
 Mut'a.
 
-
 **Evidences From Quran and the Sunni Commentaries**
 
 Allah, to whom belong Might and Majesty, said:
@@ -498,5 +497,4 @@ This concludes the discussion on the Quranic verse of Mut'a and what
 Sunni commentators had to say about the verse. In the next part, we
 Insha Allah study the authentic Sunni collections of traditions with
 regard to temporary marriage.
-
 

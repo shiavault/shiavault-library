@@ -1,8 +1,6 @@
 Chapter 6: Jihad and Leadership
 ===============================
 
-  
-
 The caller of Kufa called: "The prayer is a general one (which all
 should have attained) (al-salat jami 'a). "The people gathered.
 Al-Hasan, peace be on him, went out. He went up on the pulpit. He
@@ -34,8 +32,6 @@ abominable weakness.
 [[1]](#n1) Little date palm, a next near Kufa, towards Sham (Syria). I
 (the author) say: Today, there is, towards Karbala', a building called
 Khan al-Nukhayla. There are twelve miles between it and Kufa.
-
-  
 
 Then 'Adi said: "I am 'Adi b. Hatam. How ugly this attitude is! Why do
 you not answer your Imam, the son of the daughter of your Prophet? Where
@@ -79,8 +75,6 @@ The battalions of al-Nukhayla included the best companions from
 [[1]](#n2) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 14.
 [[2]](#n3) Al-Ya'qubi, Ta'rikh, vol. 2, p. 171.
 
-  
-
 the followers (Shi'a) of al-Hasan and from the companions of his father,
 and the like.
 
@@ -121,8 +115,6 @@ Al-Hasan left al-Nukhayla and reached Dir 'Abd al-Rahman. He
 ------------------------------------------------------------------------
 
 [[1]](#n4) Al-Rawandi, al-Kharaij wa al-Jaraih, p. 228, (Iran).
-
-  
 
 stayed there for three days. At that next other mujahidin (fighters)
 joined him, but we do not know their number.
@@ -167,8 +159,6 @@ graves are still visible. There is a humble dome
  over the two graves. The Arabs of Sumayka call this dome the  
  Grave of Shaykh Ibrahim (Qabr Shaykh lbrahim). There are about  
 
-  
-
 As for al-Mada'in, it was at the bridgehead towards Persia and the
 neighboring area. Because of its geographical situation, al-Mada'in was
 the only area that protected the three lines that connected Kufa,
@@ -211,8 +201,6 @@ authority of al-Hamawi, who said: "Al-'Alth is the first part of Iraq
 from this direction." I (the author) say: Al-'Alth is situated between
 'Ukbara and Samarra'. 'Ukbara is among the villages of Dujayl, near
 Awanan.
-
-  
 
 use al-Mada'in, because of its military importance, as a headquarters
 for his high command to receive military supplies from the three
@@ -258,8 +246,6 @@ made peace (with Mu'awiya). Then he left (Basrah) at that time for
 Mecca." I (i.e., the author)  
  say: 'Abd Allah b. 'Abbas was not in Basrah. If he  
  had been there, the army would not have delayed. For al-Hasan  
-
-  
 
 Muttalib, Qays b. Sa'd b. 'Abbada al-Ansari, and Said b. Qays
 al-Hamadani, the head of the Yemenis in Kufa. So al-Hasan confined
@@ -307,8 +293,6 @@ the faithful, peace be on
 people  
  of the Yemen) to fighting. A group of them answered  
 
-  
-
 Commander of the faithful (i.e., Imam 'Ali). The pilgrims in Mecca bore
 witness that he was generous. Then he was the first to pledge allegiance
 to al-Hasan when the people pledged allegiance to him.
@@ -353,8 +337,6 @@ some reports have been confined to some names as you see. As for us, we
 have only chosen al-Jinubiya depending on the letter Qays b. Sa'd wrote
 to al-Hasan as we will mention in the following chapters.
 
-  
-
 you find him (i.e., Mu'awiya), then withhold him till I come to you, for
 I am about to follow you. Let your news come to me every day. Ask the
 advice of these two (persons) (i.e., Qays b. Sa'd, and Said b. Qays). If
@@ -393,8 +375,6 @@ persons." These words are another evidence for that al-Hasan
 
 [[1]](#n11) 'Ubayd Allah b. 'Abbas was 39 years old on the day when he
 led this army.
-
-  
 
 intended to reform the rude behavior of 'Ubayd Allah. The Imam knew that
 his cousin had such a kind of behavior that would hinder his victory at
@@ -436,8 +416,6 @@ leadership or any competition for it.
 2. Among the excellent precautionary measures for the general situations
 at that time was that no one would be a leader with al-  
 
-  
-
 Hasan but a Hashimite one.
 
 To explain that, we may say that the intense weakness that accompanied
@@ -477,8 +455,6 @@ who had great influence on his soldiers to incline,
 ------------------------------------------------------------------------
 
 [[1]](#n12) Ibn Kathir, Ta'rikh, vol. 8, p. 14.
-
-  
 
 whenever he wanted, to free conduct. This kind of freedom would indicate
 that there was no positive relation between the commander and the

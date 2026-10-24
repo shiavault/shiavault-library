@@ -303,4 +303,3 @@ Observational regularity is the best we can do, and it must be adequate
 for our needs, even though we remain forever incapable of comprehending
 the true structure of reality. [Essay IV vi 10-11]
 
-

@@ -162,4 +162,3 @@ herself taught her daughters for as long as she lived.
 Hazrat Zainab and Um-Kulthum were scholars of their times. Many
 authentic "Ahadith" have been quoted from them.
 
-

@@ -252,4 +252,3 @@ role, philosophy also has an irreplaceable defensive and combative role.
 In the expansion of Islamic culture and the destruction of anti-Islamic
 cultures, it is highly effective.
 
-

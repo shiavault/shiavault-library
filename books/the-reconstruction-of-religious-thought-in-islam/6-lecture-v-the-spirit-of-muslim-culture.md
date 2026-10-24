@@ -663,4 +663,3 @@ alleged revelational basis in Islam of an idea similar, at least in its
 psychological effects, to the original Magian idea which had reappeared
 in Islam under the pressure of Magian thought.61
 
-

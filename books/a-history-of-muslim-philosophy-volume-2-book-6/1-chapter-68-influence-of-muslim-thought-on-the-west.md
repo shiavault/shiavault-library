@@ -2294,4 +2294,3 @@ op. cit., Vol. III, p. 134.
 [^75]: M. M. Sharif, Muslim Thought, Its Origin and Aehievemew,, pp.
 78-80.
 
-

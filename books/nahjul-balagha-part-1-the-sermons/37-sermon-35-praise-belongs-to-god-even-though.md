@@ -3,23 +3,11 @@ Sermon 35: Praise belongs to God, even though ...
 
 *Amir al-mu’minin said after Arbitration.* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-بعد التحكيم وما بلغه من أمر الحكمين
-  </p>
-</blockquote>
+> بعد التحكيم وما بلغه من أمر الحكمين
 
-<blockquote dir="rtl">
-  <p>
-وفيها حمد الله على بلائه، ثمّ بيان سبب البلوى
-  </p>
-</blockquote>
+> وفيها حمد الله على بلائه، ثمّ بيان سبب البلوى
 
 All praise is due to Allah even though time has brought (for us)
 crushing calamity and great occurrence. And I stand witness that there
@@ -28,14 +16,10 @@ with Him any god other than Himself, and that Muhammad is His slave and
 His Prophet (May Allah’s blessing and greeting be upon him and his
 progeny).
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للهِ وَإنْ أَتَى الدَّهْرُ بِالْخَطْبِ الْفَادِحِ
-وَالْحَدَثِ الْجَلِيلِ، وَأَشْهَدُ أَنْ لاَ إِلهَ إِلاّ اللهُ، لَيْسَ
-مَعَهُ إِلهٌ غَيْرُهُ، وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ صلى
-الله عليه وآله .
-  </p>
-</blockquote>
+> الْحَمْدُ للهِ وَإنْ أَتَى الدَّهْرُ بِالْخَطْبِ الْفَادِحِ
+> وَالْحَدَثِ الْجَلِيلِ، وَأَشْهَدُ أَنْ لاَ إِلهَ إِلاّ اللهُ، لَيْسَ
+> مَعَهُ إِلهٌ غَيْرُهُ، وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ صلى
+> الله عليه وآله .
 
 So now, certainly the disobedience of sympathetic counsellor who has
 knowledge as well as experience brings about disappointment and result
@@ -49,30 +33,18 @@ position became as the poet of Hawazin says:
 *I gave you my orders at Mun\`araji’l-liwa but you did not see the good
 of my counsel till the noon of next day (when it was too late)*[^3]*.*
 
-<blockquote dir="rtl">
-  <p>
-مَّا بَعْدُ، فَإِنَّ مَعْصِيَةَ النَّاصِحِ الشَّفِيقِ الْعَالِمِ
-الُْمجَرِّبِ تُورِثُ الْحَسْرَةَ، وَتُعْقِبُ النَّدَامَةَ، وَقَدْ
-كُنْتُ أَمَرْتُكُمْ في هذِهِ الْحُكُومَةِ أَمْرِي، وَنَخَلْتُ لَكُمْ
-مَخزُونَ رَأْيِي لَوْ كَانَ يُطَاعُ لِقَصِيرٍأَمْرٌ! فَأَبَيْتُمْ
-عَلَيَّ إِبَاءَ الُْمخَالِفِينَ الْجُفَاةِ، وَالمُنَابِذِينَ
-الْعُصَاةِ، حَتَّى ارْتَابَ النَّاصِحُ بِنُصْحِهِ، وَضَنَّ الزَّنْدُ
-بِقَدْحِهِچ، فَكُنْتُ وَإِيَّاكُمْ كَمَا قَالَ أَخُو
-  </p>
-</blockquote>
+> مَّا بَعْدُ، فَإِنَّ مَعْصِيَةَ النَّاصِحِ الشَّفِيقِ الْعَالِمِ
+> الُْمجَرِّبِ تُورِثُ الْحَسْرَةَ، وَتُعْقِبُ النَّدَامَةَ، وَقَدْ
+> كُنْتُ أَمَرْتُكُمْ في هذِهِ الْحُكُومَةِ أَمْرِي، وَنَخَلْتُ لَكُمْ
+> مَخزُونَ رَأْيِي لَوْ كَانَ يُطَاعُ لِقَصِيرٍأَمْرٌ! فَأَبَيْتُمْ
+> عَلَيَّ إِبَاءَ الُْمخَالِفِينَ الْجُفَاةِ، وَالمُنَابِذِينَ
+> الْعُصَاةِ، حَتَّى ارْتَابَ النَّاصِحُ بِنُصْحِهِ، وَضَنَّ الزَّنْدُ
+> بِقَدْحِهِچ، فَكُنْتُ وَإِيَّاكُمْ كَمَا قَالَ أَخُو
 
-<blockquote dir="rtl">
-  <p>
-هَوَازِنَ:
-  </p>
-</blockquote>
+> هَوَازِنَ:
 
-<blockquote dir="rtl">
-  <p>
-أَمَرْتُكُمُ أَمْري بِمُنْعَرَجِ اللِّوَى فَلَمْ تَسْتَبِينُوا
-النُّصْحَ إِلاَّ ضُحَى الْغَدِ
-  </p>
-</blockquote>
+> أَمَرْتُكُمُ أَمْري بِمُنْعَرَجِ اللِّوَى فَلَمْ تَسْتَبِينُوا
+> النُّصْحَ إِلاَّ ضُحَى الْغَدِ
 
 Alternative Sources for Sermon 35
 ---------------------------------
@@ -235,5 +207,4 @@ and killed \`Abdullah on the spot. Durayd also received wounds but he
 slipped away alive, and after this he wrote a few couplets out of which
 one couplet is this wherein he has referred to the destruction resulting
 from his advice having been rejected.
-
 

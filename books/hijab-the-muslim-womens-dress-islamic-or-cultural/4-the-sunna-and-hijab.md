@@ -92,4 +92,3 @@ vol. 5 (Beirut: Daru ’l-Fikr, 1969) p. 54-55.
 Majma‘u ’l-Bayan, vol. 7-8, p. 138, 370; at-Tusi, at-Tibyan, vol. 8, p.
 361; Fakhru ’d-Din ar-Razi, at-Tafsiru ’l-Kabir, vol. 23, p. 179-180.
 
-

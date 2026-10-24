@@ -211,4 +211,3 @@ importance of religion in social life has not diminished and religion
 has not withdrawn into private life. If it does, the democracies will
 lose.
 
-

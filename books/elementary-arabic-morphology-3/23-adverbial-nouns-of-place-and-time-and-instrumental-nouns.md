@@ -37,4 +37,3 @@ derived instrumental nouns are formed from transitive triliteral verbs
 and there are three forms: **مِفعَل** for example: **مِبرَد, مِفعَلَة**
 for example: **مِکنَسَة,** and **مِفعَال** for example: **مِفتَاح.**
 
-

@@ -32,4 +32,3 @@ to His righteousness and piety.
  Orange County, California  
  May 6, 1999
 
-

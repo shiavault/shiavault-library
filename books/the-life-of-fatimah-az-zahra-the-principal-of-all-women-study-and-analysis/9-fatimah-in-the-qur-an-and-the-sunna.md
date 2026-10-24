@@ -736,4 +736,3 @@ p.58 quoted from ash-Sharaf al-Mu’abbad.
 [^52]: Al-Muraja'at, p.59, quoted from ath-Tha’labi when interpreting
 the Verse of Mawaddah in his at-Tafsir al-Kabeer.
 
-

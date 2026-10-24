@@ -596,4 +596,3 @@ Chap Qasyaran
 
 98. Yanâbiul Mawaddâh -Qundoozi, Istanbul Edition
 
-

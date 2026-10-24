@@ -5,23 +5,11 @@ Sermon 30: If I had ordered it, ...
 
 Amir al-mu’minin said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في معنى قتل عثمان
-  </p>
-</blockquote>
+> في معنى قتل عثمان
 
-<blockquote dir="rtl">
-  <p>
-[و هو حكم له على عثمان و على الناس بما فعلوا و براءة له من دمه]
-  </p>
-</blockquote>
+> [و هو حكم له على عثمان و على الناس بما فعلوا و براءة له من دمه]
 
 If I had ordered his assassination I should have been his killer, but if
 I had refrained others from killing him I would have been his helper.
@@ -32,16 +20,12 @@ case. He appropriated (wealth) and did it badly. You protested against
 it and committed excess therein. With Allah lies the real verdict
 between the appropriator and the protester.
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَمَرْتُ بِهِ لَكُنْتُ قَاتِلاً، أَوْ نَهَيْتُ عَنْهُ لَكُنْتُ
-نَاصِراً، غَيْرَ أَنَّ مَنْ نَصَرَهُ لاَ يَسْتَطِيعُ أَنْ يَقُولَ:
-خَذَلَهُ مَنْ أَنَا خَيْرٌ مِنْهُ، وَمَنْ خَذَلَهُ لاَ يَسْتَطِيعُ
-أَنْ يَقُولَ: نَصَرَهُ مَنْ هُوَ خَيْرٌ مِنِّي. وَأَنَا جَامِعٌ لَكُمْ
-أَمْرَهُ، اسْتَأْثَرَ فَأَسَاءَ الاْثَرَةَ وَجَزِعْتُمْ فَأَسَأْتُمُ
-الجَزَعَ وَللهِ حُكْمٌ وَاقِعٌ في المُسْتَأْثِرِ وَالجَازعِ .
-  </p>
-</blockquote>
+> لَوْ أَمَرْتُ بِهِ لَكُنْتُ قَاتِلاً، أَوْ نَهَيْتُ عَنْهُ لَكُنْتُ
+> نَاصِراً، غَيْرَ أَنَّ مَنْ نَصَرَهُ لاَ يَسْتَطِيعُ أَنْ يَقُولَ:
+> خَذَلَهُ مَنْ أَنَا خَيْرٌ مِنْهُ، وَمَنْ خَذَلَهُ لاَ يَسْتَطِيعُ
+> أَنْ يَقُولَ: نَصَرَهُ مَنْ هُوَ خَيْرٌ مِنِّي. وَأَنَا جَامِعٌ لَكُمْ
+> أَمْرَهُ، اسْتَأْثَرَ فَأَسَاءَ الاْثَرَةَ وَجَزِعْتُمْ فَأَسَأْتُمُ
+> الجَزَعَ وَللهِ حُكْمٌ وَاقِعٌ في المُسْتَأْثِرِ وَالجَازعِ .
 
 Alternative Sources for Sermon 30
 ---------------------------------
@@ -331,5 +315,4 @@ original muhajirun their actions too cannot be given precedence over the
 actions of the latter. Again, if ijma\` (consensus of opinion) is not
 meant for particular occasions only then it would be difficult to
 question this overwhelming unanimity of the companions.
-
 

@@ -42,4 +42,3 @@ On that fateful day (in the year 1984) as he was proceeding to lead the
 Friday congregation, he was brutally killed in a bomb explosion by the
 hypocrites (the Capitalist agents).
 
-

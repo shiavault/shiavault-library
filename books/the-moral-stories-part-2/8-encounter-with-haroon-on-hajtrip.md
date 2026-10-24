@@ -124,4 +124,3 @@ and he is full of wrath." (16:58)
 announced to him. Shall he keep it with disgrace or bury it (alive) in
 the dust? Now surely evil is what they judge." (16:59)
 
-

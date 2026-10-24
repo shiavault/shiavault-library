@@ -93,4 +93,3 @@ blames, reminds, and directs them, would it then be fit for someone to
 say that this student is purified and infallible? It is not logical at
 all!
 
-

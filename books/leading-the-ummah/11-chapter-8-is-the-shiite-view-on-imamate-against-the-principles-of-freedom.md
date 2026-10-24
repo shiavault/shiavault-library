@@ -192,17 +192,9 @@ view.
 The Holy Quran persistently disallows the general thoughts and condemns
 the majorities through expressions such as
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَكْثَرُهُمْ لا يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَكْثَرُهُمْ لا يَعْقِلُونَ ﴾
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَكْثَرُهُمْ لا يَشعرونَ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَكْثَرُهُمْ لا يَشعرونَ﴾
 
 and would not let the issue of Imamate be decided by the majority votes.
 
@@ -282,5 +274,4 @@ appointment of Imam.
 [^6]: . Al-Ahkam Al-Soltaniyah, p. 4.
 
 [^7]: . Al-Tamhid, p. 178.
-
 

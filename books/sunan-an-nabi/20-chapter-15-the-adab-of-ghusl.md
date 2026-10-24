@@ -108,4 +108,3 @@ Fridays, the day of ‘Arafah, the day of Fitr and the day of Ad’ha.[^19]
 [^19]: Musnad Ahmad 4:78, Da\`aim al-Islam 1:319 and Sunnah Ibn Majah
 1:418
 
-

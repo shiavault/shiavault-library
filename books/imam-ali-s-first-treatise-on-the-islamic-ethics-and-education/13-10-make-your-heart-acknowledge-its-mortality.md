@@ -1,11 +1,7 @@
 10) Make your heart acknowledge its mortality
 =============================================
 
-<blockquote dir="rtl">
-  <p>
-وقرّره بالفناء""
-  </p>
-</blockquote>
+> وقرّره بالفناء""
 
 Although a man may get involved in the remembrance of death, he may not
 be serious; neither may he be convinced. In this case, this remembrance
@@ -29,14 +25,9 @@ This very stage of confession and conviction has made some wonder: How
 is it possible for a man to believe in death and the exact accounting
 for in the Doomsday and be happy at the same time?
 
-<blockquote dir="rtl">
-  <p>
-"عَجِبتُ لِمَن ايقن بالموتِ كيفَ يَضْحكُ عَجِبتُ لِمَن ايقن بالحسابِ
-كيفَ يَفْرَح"
-  </p>
-</blockquote>
+> "عَجِبتُ لِمَن ايقن بالموتِ كيفَ يَضْحكُ عَجِبتُ لِمَن ايقن بالحسابِ
+> كيفَ يَفْرَح"
 
 “I wonder at one who is certain of death – how does he laugh? I wonder
 at one who is certain of the reckoning – how is he joyful?”
-
 

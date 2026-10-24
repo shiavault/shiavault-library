@@ -149,7 +149,5 @@ O Lord! Lead us so that you put us among those who fear your presence
 and restrain their soul from low desires and will reside in eternal
 Heaven.
 
-
 The End of Sura Nazia't (Those Who Tear Out)
-
 

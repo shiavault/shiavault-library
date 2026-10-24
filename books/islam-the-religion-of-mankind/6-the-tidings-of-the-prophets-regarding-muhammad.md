@@ -479,4 +479,3 @@ one to reform mankind and deliver them, from darkness and going astray.
 Yes, it was he whom all the prophets had heralded and prayed Allah to
 send.
 
-

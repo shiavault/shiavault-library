@@ -3,14 +3,10 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) says:
 
-<blockquote dir="rtl">
-  <p>
-وفي لفظ لا يزال الإسلام عزيزا إلى أثنى عشر خليفة كلهم من قريش وهكذا
-كان فكان الخلفاء أبو بكر وعمر وعثمان وعلي ثم تولى من اجتمع الناس عليه
-وصار له عز ومنعة معاوية وابنه يزيد ثم عبد الملك وأولاده الأربعة وبينهم
-عمر بن عبد العزيز
-  </p>
-</blockquote>
+> وفي لفظ لا يزال الإسلام عزيزا إلى أثنى عشر خليفة كلهم من قريش وهكذا
+> كان فكان الخلفاء أبو بكر وعمر وعثمان وعلي ثم تولى من اجتمع الناس عليه
+> وصار له عز ومنعة معاوية وابنه يزيد ثم عبد الملك وأولاده الأربعة وبينهم
+> عمر بن عبد العزيز
 
 And in a text “Islam will never cease to be strong till twelve
 khalifahs, all of them from Quraysh”, and this was exactly how it was,
@@ -73,11 +69,7 @@ between political or military rule and khilafah is highlighted in the
 story of Harun, ‘alaihi al-salam. His blessed brother appointed him as
 his khalifah over his Ummah during the former’s absence from them:
 
-<blockquote dir="rtl">
-  <p>
-وقال موسى لأخيه هارون اخلفني في قومي
-  </p>
-</blockquote>
+> وقال موسى لأخيه هارون اخلفني في قومي
 
 ***Musa said to his brother, Harun: “Be my khalifah over my
 people.”***[^2]
@@ -85,22 +77,14 @@ people.”***[^2]
 Meanwhile, al-Samiri overthrew Harun and installed himself, with the
 help of the masses, as the ruler of Israel:
 
-<blockquote dir="rtl">
-  <p>
-قال فإنا قد فتنا قومك من بعدك وأضلهم السامري
-  </p>
-</blockquote>
+> قال فإنا قد فتنا قومك من بعدك وأضلهم السامري
 
 ***He (Allah) said: “Verily! We have tried your people in your absence,
 and al-Samiri has led them astray.”***[^3]
 
 We also read:
 
-<blockquote dir="rtl">
-  <p>
-قال ابن أم إن القوم استضعفوني وكادوا يقتلونني
-  </p>
-</blockquote>
+> قال ابن أم إن القوم استضعفوني وكادوا يقتلونني
 
 ***He (Harun) said, “O son of my mother! Indeed the people judged me
 weak, and were about to murder me.”***[^4]
@@ -118,11 +102,7 @@ same with the Ahl al-Bayt. They are the joint khalifahs over humanity
 along with the Kitab – and remain so till the Hour – whether anyone
 obeys them or none does:
 
-<blockquote dir="rtl">
-  <p>
-وانهما لن يفترقا حتى يردا على الحوض
-  </p>
-</blockquote>
+> وانهما لن يفترقا حتى يردا على الحوض
 
 Verily, both shall NEVER separate from each other until they meet me at
 the Lake-Fount.
@@ -136,21 +116,13 @@ sentences:
 
 This is why he declares:
 
-<blockquote dir="rtl">
-  <p>
-وهذا تصديق ما أخبر به النبي صلى الله عليه و سلم حيث قال لا يزال هذا
-الدين عزيزا ما تولى اثنا عشر خليفة كلهم من قريش وهؤلاء الاثنا عشر
-خليفة هم المذكورون في التوراة حيث قال في بشارته بإسماعيل وسيلد اثنى
-عشر عظيما
-  </p>
-</blockquote>
+> وهذا تصديق ما أخبر به النبي صلى الله عليه و سلم حيث قال لا يزال هذا
+> الدين عزيزا ما تولى اثنا عشر خليفة كلهم من قريش وهؤلاء الاثنا عشر
+> خليفة هم المذكورون في التوراة حيث قال في بشارته بإسماعيل وسيلد اثنى
+> عشر عظيما
 
-<blockquote dir="rtl">
-  <p>
-ومن طن أن هؤلاء الاثنى عشر هم الذين تعتقد الرافضة إمامتهم فهو في غاية
-الجهل فإن هؤلاء ليس فيهم من كان له سيف إلا علي بن أبي طالب
-  </p>
-</blockquote>
+> ومن طن أن هؤلاء الاثنى عشر هم الذين تعتقد الرافضة إمامتهم فهو في غاية
+> الجهل فإن هؤلاء ليس فيهم من كان له سيف إلا علي بن أبي طالب
 
 This is a confirmation of what the Prophet, peace be upon him, had
 prophesied when he said: “This religion will never cease to be strong as
@@ -169,12 +141,8 @@ military prowess. However, that of the religion lies only in its ability
 to “stand” on the surface of the earth. This has been explicitly stated
 in another hadith:
 
-<blockquote dir="rtl">
-  <p>
-لا يزال الدين قائما حتى تقوم الساعة أو يكون عليكم اثنا عشر خليفة كلهم
-من قريش
-  </p>
-</blockquote>
+> لا يزال الدين قائما حتى تقوم الساعة أو يكون عليكم اثنا عشر خليفة كلهم
+> من قريش
 
 The religion will never cease to STAND until the establishment of the
 Hour or as long as there are twelve khalifahs over you, all of them from
@@ -186,15 +154,11 @@ al-Qiyamah. This is the meaning of its strength. The inability of its
 enemies to terminate it is its invincibility. This is also indicated in
 yet another hadith documented by Imam Ahmad (d. 241 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا حماد بن أسامة ثنا مجالد عن عامر عن جابر
-بن سمرة السوائي قال سمعت رسول الله صلى الله عليه و سلم يقول في حجة
-الوداع إن هذا الدين لن يزال ظاهرا على من ناوأه لا يضره مخالف ولا مفارق
-حتى يمضى من أمتي اثنا عشر خليفة قال ثم تكلم بشيء لم أفهمه فقلت لأبي ما
-قال قال كلهم من قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا حماد بن أسامة ثنا مجالد عن عامر عن جابر
+> بن سمرة السوائي قال سمعت رسول الله صلى الله عليه و سلم يقول في حجة
+> الوداع إن هذا الدين لن يزال ظاهرا على من ناوأه لا يضره مخالف ولا مفارق
+> حتى يمضى من أمتي اثنا عشر خليفة قال ثم تكلم بشيء لم أفهمه فقلت لأبي ما
+> قال قال كلهم من قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Hammad b. Usamah –
 Mujalid – ‘Amir – Jabir b. Samurah al-Suwai:
@@ -208,11 +172,7 @@ he say?” He replied, “All of them will be from Quraysh.”[^7]
 
 Al-Arnaut says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 It is a sahih hadith[^8]
 
@@ -227,14 +187,10 @@ Contrary to the hallucinations of Shaykh Ibn Taymiyyah, the first of the
 true royal khalifahs of this Ummah was none other than Imam ‘Ali b. Abi
 Talib. Imam Ibn Abi ‘Asim (d. 287 H) records:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
-أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
-وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
-في كل مؤمن من بعدي.
-  </p>
-</blockquote>
+> ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
+> أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
+> وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
+> في كل مؤمن من بعدي.
 
 Muhammad b. al-Muthanna – Yahya b. Hammad – Abu ‘Awanah – Yahya b.
 Sulaym Abu Balj – ‘Amr b. Maymun – Ibn ‘Abbas: The Messenger of Allah,
@@ -244,21 +200,13 @@ khalifah over every believer after me.”[^9]
 
 Dr. al-Jawabirah says:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن.
-  </p>
-</blockquote>
+> اسناده حسن.
 
 Its chain is hasan.[^10]
 
 And ‘Allamah al-Albani (d. 1420 H) backs him:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن
-  </p>
-</blockquote>
+> إسناده حسن
 
 Its chain is hasan.[^11]
 
@@ -275,15 +223,11 @@ regarded as an angel, even though he was not.
 A similar situation existed between Prophet Ibrahim, ‘alaihi al-salam,
 and Prophet Lut, ‘alaihi al-salam. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وتلك حجتنا آتيناها إبراهيم على قومه نرفع درجات من نشاء إن ربك حكيم
-عليم وهبنا له إسحاق ويعقوب كلا هدينا ونوحا هدينا من قبل ومن ذريته
-داوود وسليمان وأيوب ويوسف وموسى وهارون وكذلك نجزي المحسنين وزكريا
-ويحيى وعيسى وإلياس كل من الصالحين وإسماعيل واليسع ويونس ولوطا وكلا
-فضلنا على العالمين
-  </p>
-</blockquote>
+> وتلك حجتنا آتيناها إبراهيم على قومه نرفع درجات من نشاء إن ربك حكيم
+> عليم وهبنا له إسحاق ويعقوب كلا هدينا ونوحا هدينا من قبل ومن ذريته
+> داوود وسليمان وأيوب ويوسف وموسى وهارون وكذلك نجزي المحسنين وزكريا
+> ويحيى وعيسى وإلياس كل من الصالحين وإسماعيل واليسع ويونس ولوطا وكلا
+> فضلنا على العالمين
 
 ***And that was Our Hujjah which We gave Ibrahim against his people. We
 raise whom We will in ranks. Certainly your Lord is All-Wise,
@@ -296,13 +240,9 @@ one of them We made superior above the*** ***worlds.***[^14]
 
 Al-Hafiz Ibn Kathir (d. 774 H) explains:
 
-<blockquote dir="rtl">
-  <p>
-فالضمير في قوله ومن ذريته عائد على إبراهيم على المشهور. ولوط وإن كان
-ابن أخيه إلا أنه دخل في الذرية تغليبا. وهذا هو الحامل للقائل الآخر إن
-الضمير على نوح كما قدمنا في قصته والله أعلم.
-  </p>
-</blockquote>
+> فالضمير في قوله ومن ذريته عائد على إبراهيم على المشهور. ولوط وإن كان
+> ابن أخيه إلا أنه دخل في الذرية تغليبا. وهذا هو الحامل للقائل الآخر إن
+> الضمير على نوح كما قدمنا في قصته والله أعلم.
 
 The pronoun in his statement “and among his offspring” refers to Ibrahim
 according to the popular opinion. As for Lut, even though he was his
@@ -312,20 +252,16 @@ Nuh, as we have explained in his story. And Allah knows best.[^15]
 
 Imam al-Qurtubi (d. 671 H) says a similar thing:
 
-<blockquote dir="rtl">
-  <p>
-}ومن ذريته {أي ذرية إبراهيم .وقيل: من ذرية نوح، قاله الفراء وأختاره
-الطبري وغير واحد من المفسرين كالقشيري وابن عطية وغيرهما .والأول قاله
-الزجاج، واعترض بأنه عد من هذه الذرية يونس ولوط وما كانا من ذرية
-إبراهيم .وكان لوط ابن أخيه .وقيل :ابن أخته .وقال ابن عباس :هؤلاء
-الأنبياء جميعا مضافون إلى ذرية إبراهيم، وإن كان فيهم من لم تلحقه ولادة
-من جهته من جهة أب ولا أم، لأن لوطا ابن أخي إبراهيم .والعرب تجعل العم
-أبا كما أخبر} الله عن ولد يعقوب أنهم قالوا نعبد إلهك وإله آبائك
-إبراهيم وإسماعيل وإسحاق {وإسماعيل عم يعقوب. وعد عيسى من ذرية إبراهيم
-وإنما هو ابن البنت. فأولاد فاطمة رضي الله عنها ذرية النبي صلى الله
-عليه وسلم.
-  </p>
-</blockquote>
+> }ومن ذريته {أي ذرية إبراهيم .وقيل: من ذرية نوح، قاله الفراء وأختاره
+> الطبري وغير واحد من المفسرين كالقشيري وابن عطية وغيرهما .والأول قاله
+> الزجاج، واعترض بأنه عد من هذه الذرية يونس ولوط وما كانا من ذرية
+> إبراهيم .وكان لوط ابن أخيه .وقيل :ابن أخته .وقال ابن عباس :هؤلاء
+> الأنبياء جميعا مضافون إلى ذرية إبراهيم، وإن كان فيهم من لم تلحقه ولادة
+> من جهته من جهة أب ولا أم، لأن لوطا ابن أخي إبراهيم .والعرب تجعل العم
+> أبا كما أخبر} الله عن ولد يعقوب أنهم قالوا نعبد إلهك وإله آبائك
+> إبراهيم وإسماعيل وإسحاق {وإسماعيل عم يعقوب. وعد عيسى من ذرية إبراهيم
+> وإنما هو ابن البنت. فأولاد فاطمة رضي الله عنها ذرية النبي صلى الله
+> عليه وسلم.
 
 ***{And among his offspring},*** that is the offspring of Ibrahim. It is
 also said: among the offspring of Nuh – this opinion belonged to al-Fara
@@ -352,11 +288,7 @@ purposes, most likely al-nubuwwah. In this same manner, this hadith
 apparently includes ‘Ali within the offspring of Muhammad, for the
 specific purposes of khilafah and Imamah:
 
-<blockquote dir="rtl">
-  <p>
-أنت خليفتي في كل مؤمن من بعدي
-  </p>
-</blockquote>
+> أنت خليفتي في كل مؤمن من بعدي
 
 You are my khalifah over every believer after me.
 
@@ -406,5 +338,4 @@ al-Nihayah (Dar Ihya al-Turath al-‘Arabi; 1st edition, 1408 H)
 [^16]: Abu ‘Abd Allah Muhammad b. Ahmad al-Ansari al-Qurtubi, al-Jami’
 li Ahkam al-Qur’an (Beirut: Dar Ihya al-Turath al-‘Arabi; 1405 H), vol.
 7, p. 31
-
 

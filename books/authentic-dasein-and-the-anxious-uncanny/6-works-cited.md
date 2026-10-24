@@ -41,7 +41,7 @@ No. 4 (2004): 479-508.
 
 13- “Expressive Theory of Art.”*Stuckism Wales and the Wrexham
 Stuckists* . Stuckism Wales. Web. June 2011.
-\<stuckismwales.co.uk/theory/tblast/expressive.php\>
+<stuckismwales.co.uk/theory/tblast/expressive.php>
 
 14- Forssman, Erik. “Edvard Munch: Sein Werk und die Kunstwissenschaft
 Heute.”*Zeitschrift für Kunstgeschite* Vol. 3, No. 23 (1994): 521-532.
@@ -69,7 +69,7 @@ Arts, 2005.
 
 21- “Heidegger’s Aesthetics.”*Stanford Encyclopedia of Philosophy* . 4
 February, 2010. Stanford Encyclopedia of Philosophy Online. 10 January,
-2011. \<http://www.seop.leeds.ac.uk/entries/heidegger-aesthetics/\>
+2011. <http://www.seop.leeds.ac.uk/entries/heidegger-aesthetics/>
 
 22- Heidegger, Martin.*Being and Time* . Trans. John Macquarrie and
 Edward Robinson. New York: Harper Perennial, 2008.
@@ -81,7 +81,7 @@ Bloomington: Indiana UP, 1992.
 York: Perennial, 2001.
 
 25- Hornsby, Roy. “What Heidegger Means by Being-in-the-World.” Jan. 10,
-2010. \<http: www.royboy.com/philosophy/pages/dasein.html\>
+2010. <http: www.royboy.com/philosophy/pages/dasein.html>
 
 26- Hume, Christopher. “Edvard Munch: A Glimpse of the Abyss.”*The
 Toronto Star*
@@ -154,7 +154,7 @@ No. 1 (1955): 32-55.
 46- “MoMA Exhibition Explores Edvard Munch’s Compelling Artistic
 Achievement, Surveying His Career in its Eternity.”*The Museum of Modern
 Art* , May 2006.
-\<http://press.moma.org/images/press/PRESS\_RELEASE\_ARCHIVE/EdvardMunch.pdf\>
+<http://press.moma.org/images/press/PRESS\_RELEASE\_ARCHIVE/EdvardMunch.pdf>
 20 January, 2011.
 
 47- Munch, Edvard.*The Private Journals of Edvard Munch* . Ed. and
@@ -177,7 +177,7 @@ Vol.12, No. 1 (January, 2007): 131-135.
 2011.
 
 52- Park, James. “Existential Anxiety: Angst.” 2008. February 12, 2010.
-\<http://www.tc.umn.edu/%7Eparkx032/CY-SC.html\>
+<http://www.tc.umn.edu/%7Eparkx032/CY-SC.html>
 
 53- Salda, F. X. “The Violent Dreamer: Some Remarks on the Work of
 Edvard Munch.”*The Journal of Aesthetics and Art Criticism* Vol. 28, No.
@@ -238,5 +238,4 @@ Appears.”*October* Vol. 58, (Autumn, 1991): 44-68.
 69- Zogaris, Evangeline.*Edvard Munch’s Alpha and Omega Series: A
 Summation of the Frieze of Life Series* (MA thesis). The University of
 British Columbia, British Columbia, 1973.
-
 

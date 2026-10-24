@@ -433,4 +433,3 @@ a single center, or if it is in some way plural.  Marty says that as
 long as pluralism exists, one can live creatively with it and therefore
 make the best of it.
 
-

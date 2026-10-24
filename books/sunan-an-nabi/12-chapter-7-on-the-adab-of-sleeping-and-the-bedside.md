@@ -45,22 +45,14 @@ al-Barqi in al-Mahasin from Abi Basir from Abi ‘Abdillah (as).[^9]
 4. In al-Kafi: In his narration from Ibn al-Qaddah from Abi ‘Abdillah
 (as) who said: When the Holy Prophet (S) went to bed he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بِسْمِكَ أَحْـيَا وَ بِسْمِكَ أَمُوتُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بِسْمِكَ أَحْـيَا وَ بِسْمِكَ أَمُوتُ.
 
 *“O Allah! By Your name do I live and by Your name do I die.”*
 
 and when he awoke he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَحْـيَانِي بَعْدَ مَا أَمَاتَـنِي وَ
-إِلَيْهِ النُّشُورِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَحْـيَانِي بَعْدَ مَا أَمَاتَـنِي وَ
+> إِلَيْهِ النُّشُورِ.
 
 *“All praise be to Allah who gave me life after causing me to die, and
 to Him is the return*.”[^10]
@@ -73,12 +65,8 @@ al-Makarim.[^11]
 used to say when retiring to bed?” I said: “Yes.” He said: “He (S) would
 recite *Ayat al-Kursi*[^12] and then he would say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ. آمَنْتُ بِاللٌّهِ وَ كَفَرْتُ بِاطَّاغُوتِ.
-أَللٌّهُمَّ احْفَظْنِي فِي مَنَامِي وَ فِي يَقْظَتِي.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ. آمَنْتُ بِاللٌّهِ وَ كَفَرْتُ بِاطَّاغُوتِ.
+> أَللٌّهُمَّ احْفَظْنِي فِي مَنَامِي وَ فِي يَقْظَتِي.
 
 *“In the name of Allah, I believe in Allah and disbelieve in the false
 gods. O Allah protect me in my sleep and when I am awake.*”[^13]
@@ -89,28 +77,20 @@ stuffed with palm fiber and would also sit leaning on it.[^14]
 7. Also: If the Noble Prophet (S) saw something scary in his sleep he
 would (remember Allah and) say:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللٌّهُ الَّذِي لاَ شَرِيكَ لَهُ.
-  </p>
-</blockquote>
+> هُوَ اللٌّهُ الَّذِي لاَ شَرِيكَ لَهُ.
 
 *“He is Allah – the one who has no partner”.*
 
 And when he stood for prayer he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ نُورُ السَّمٌوَاتِ وَ الأَرْضِ وَ الْحَمْدُ لِلٌّهِ
-قَـيُّومُ السَّمٌوَاتِ وَ الأَرْضِ وَ الْحَمْدُ لِلٌّهِ رَبُّ
-السَّمٌوَاتِ وَ الأَرْضِ وَ مَنْ فِيهِنَّ. أَنْتَ الْحَقُّ وَ قَوْلُكَ
-الْحَقُّ وَلِقَائُكَ الْحَقُّ وَ الْجَنَّةُ حَقٌّ وَ النَّارُ حَقٌّ وَ
-السَّاعَةُ حَقٌّ. أَللٌّهُمَّ لَكَ أَسْلَمْتُ وَبِكَ آمَنْتُ وَ
-عَلَيْكَ تَوَكَّلْتُ وَ إِلَيْكَ أُنِيبُ وَ بِكَ خَاصَمْتُ وَ إِلَيْكَ
-حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ وَ مَا أَخَّرْتُ وَ مَا
-أَسْرَرْتُ وَ مَا أَعْلَنْتُ. أَنْتَ إِلٌهِي لاَ إِلٌهَ إِلاَّ أَنْتَ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ نُورُ السَّمٌوَاتِ وَ الأَرْضِ وَ الْحَمْدُ لِلٌّهِ
+> قَـيُّومُ السَّمٌوَاتِ وَ الأَرْضِ وَ الْحَمْدُ لِلٌّهِ رَبُّ
+> السَّمٌوَاتِ وَ الأَرْضِ وَ مَنْ فِيهِنَّ. أَنْتَ الْحَقُّ وَ قَوْلُكَ
+> الْحَقُّ وَلِقَائُكَ الْحَقُّ وَ الْجَنَّةُ حَقٌّ وَ النَّارُ حَقٌّ وَ
+> السَّاعَةُ حَقٌّ. أَللٌّهُمَّ لَكَ أَسْلَمْتُ وَبِكَ آمَنْتُ وَ
+> عَلَيْكَ تَوَكَّلْتُ وَ إِلَيْكَ أُنِيبُ وَ بِكَ خَاصَمْتُ وَ إِلَيْكَ
+> حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ وَ مَا أَخَّرْتُ وَ مَا
+> أَسْرَرْتُ وَ مَا أَعْلَنْتُ. أَنْتَ إِلٌهِي لاَ إِلٌهَ إِلاَّ أَنْتَ.
 
 *“All praise is due to Allah, the Light of the heavens and the earth and
 the Sustainer of the heavens and the earth. All praise is for Allah, the
@@ -141,12 +121,8 @@ of benefit from the night.[^16]
 used to say when retiring to bed?” I said: “Yes.” He said: “He (S) would
 recite *Ayat al-Kursi*[^17] and then he would say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ. آمَنْتُ بِاللٌّهِ وَ كَفَرْتُ بِاطَّاغُوتِ.
-أَللٌّهُمَّ احْفَظْنِي فِي مَنَامِي وَ فِي يَقْظَتِي.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ. آمَنْتُ بِاللٌّهِ وَ كَفَرْتُ بِاطَّاغُوتِ.
+> أَللٌّهُمَّ احْفَظْنِي فِي مَنَامِي وَ فِي يَقْظَتِي.
 
 *“In the name of Allah, I believe in Allah and disbelieve in the false
 gods. O Allah protect me in my sleep and when I am awake*.”[^18]
@@ -192,5 +168,4 @@ winter and is used as a dye. (Tr.)
 [^18]: al-Kafi 2:536
 
 [^19]: Tahdhib al-Ahkam 2:120, Da\`wat al-Rawandi: 272
-
 

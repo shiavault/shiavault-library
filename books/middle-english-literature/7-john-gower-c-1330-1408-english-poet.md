@@ -48,4 +48,3 @@ Old and blind, John Gower died in 1408, leaving a considerable estate.
 He was buried in St. Mary Overies, now Southwark Cathedral, where his
 tomb can still be seen today.
 
-

@@ -32,4 +32,3 @@ usurped it against Allah’s judgment for years and centuries. But does
 that mean that it is legitimate?! And does that mean it is accepted by
 Allah (SWT)? Of course not!
 
-

@@ -534,4 +534,3 @@ to have sexual intercourse before taking Mahr, and her husband has
 sexual intercourse with her, then she cannot prevent him afterwards from
 having sexual intercourse without a justifiable excuse.
 
-

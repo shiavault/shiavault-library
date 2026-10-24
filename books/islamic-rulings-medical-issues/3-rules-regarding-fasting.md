@@ -38,4 +38,3 @@ this?
 Answer: If he knows that fasting is not harmful for him then he must
 fast.
 
-

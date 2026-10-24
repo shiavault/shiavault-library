@@ -405,4 +405,3 @@ The Prophet remained in Medina from the month of Dhu 'l-Hijjah to Rajab
 (that is, the last month of year 8 to the seventh month of the following
 year).
 
-

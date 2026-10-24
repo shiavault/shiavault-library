@@ -41,4 +41,3 @@ represents to the world the purpose and faith of Islamic teachings.
 
 [^2]: Surah Baqarah 2:142
 
-

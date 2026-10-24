@@ -37,7 +37,6 @@ to the step he should take. So he call it as a devil's doing who
 misleads men. He therefore at once realises his mistake and prays for
 Divine protection.
 
-
 **Chapter 4: Flight to Midian and Marriage**
 
 "And when the turned his face towards Midian he said: May be my Lord
@@ -63,7 +62,6 @@ hard to thee. If Allah please, thou wilt find me one of the good.2 He
 said: This shall be an agreement between me and thee: whichever of the
 two terms I fulfill, there shall be no wrongdoing to me and Allah is a
 witness of what we say." (28:22-28)
-
 
 **Chapter 5: The Call of Moses to Prophethood**
 
@@ -121,5 +119,4 @@ So these nine signs were:
 7. the lice,
 8. the frogs,
 9. the blood.
-
 

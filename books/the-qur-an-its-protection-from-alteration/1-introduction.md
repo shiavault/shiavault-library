@@ -150,22 +150,22 @@ propose only to mention briefly these topics in this talk.
 
 **Notes:**
 
-[^1] See the Qur'an 17:88; 11:11; 10:38.
-[^2] At-Tabrasi. Al-Ihtijaj vol I (Najaf: Daru n-Numarn 1966)
+[^1]: See the Qur'an 17:88; 11:11; 10:38.
+[^2]: At-Tabrasi. Al-Ihtijaj vol I (Najaf: Daru n-Numarn 1966)
 pp.358-384.
-[^3] Note the triple emphasis of the nominal clause (al-jumlatu
+[^3]: Note the triple emphasis of the nominal clause (al-jumlatu
 'l-ismiyya), inna and lam at-tak'id.
-[^4] Sahih Muslim, vol 4 (Beirut 2nd edition. 1972) p 1873. This hadith
+[^4]: Sahih Muslim, vol 4 (Beirut 2nd edition. 1972) p 1873. This hadith
 has been narrated by more than 20 companions See also, Musnad Ahmad bin
 Hanbal vol. 3 pp 14. 17. 26.59: vol 4. pp 366. 371: vol. 5. pp 182. 189
 Sahih at-Tirmidhi vol. 3 (chap. "Manaqib Ahli l-bayt" ) p. 200-102
-[^5] Sahih Muslim, vol. 3 (Beirut. 1st edition. 19O5/1375)p.1295.
+[^5]: Sahih Muslim, vol. 3 (Beirut. 1st edition. 19O5/1375)p.1295.
 Bukhari has given this tradition in four places Vide ,Sahih Bukhari
 (Cairo: 1958)vol. 1 ("Kitabu 'l-ilm: bab kitabatu 'l- ilm ) p. 39: vol.
 6 ("Bab kitabu 'n-Nabi ila Kasra wa Qaysar) pp 11-12: vol.7 ( Kitabu
 't-tibb: bab qawli 'l-marid Qumu 'anni') pp. 155-156: vol. 9 ("Kitabu
 l-itisam bi l-kitab wa s-sunnah: bab karahiyyati 'l-khilaf') p. 137.
-[^6] Al-Khui, al-Bayan Tafsiri 'l-Qur'an (Kuwait. 1399/1979) p. 271.
-[^7] As-Saduq, Kitabu 'I-Itiqadat. (Tehran: 1370 AH) p. 63. See also its
+[^6]: Al-Khui, al-Bayan Tafsiri 'l-Qur'an (Kuwait. 1399/1979) p. 271.
+[^7]: As-Saduq, Kitabu 'I-Itiqadat. (Tehran: 1370 AH) p. 63. See also its
 translation The Shi'ite Creed, tr. A.A.A. Fyzee (Calcutta: 1942) p. 85
 

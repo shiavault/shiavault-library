@@ -611,184 +611,184 @@ on his authority.[^91]
 
 ###
 
-[^1] Al-Tusi, Rijal.
+[^1]: Al-Tusi, Rijal.
 
-[^2] Mu‘jam Rijal al-Hadith, vol.9, p.[^217]:
+[^2]: Mu‘jam Rijal al-Hadith, vol.9, p.217.
 
-[^3] Ibid, pp.218-[^209]:
+[^3]: Ibid, pp.218-[^209]:
 
-[^4] Al-Tusi, Rijal.
+[^4]: Al-Tusi, Rijal.
 
-[^5] Ibid.
+[^5]: Ibid.
 
-[^6] Ibid.
+[^6]: Ibid.
 
-[^7] Ibid.
+[^7]: Ibid.
 
-[^8] Ibid.
+[^8]: Ibid.
 
-[^9] Ibid.
+[^9]: Ibid.
 
-[^10] Ibid.
+[^10]: Ibid.
 
-[^11] Ibid.
+[^11]: Ibid.
 
-[^12] Ibid.
+[^12]: Ibid.
 
-[^13] Al-Najashi.
+[^13]: Al-Najashi.
 
-[^14] Al-Tusi, Rijal. Al-Barqi, Rijal.
+[^14]: Al-Tusi, Rijal. Al-Barqi, Rijal.
 
-[^15] Al-Najashi.
+[^15]: Al-Najashi.
 
-[^16] Al-Tusi, Rijal.
+[^16]: Al-Tusi, Rijal.
 
-[^17] Mu‘jam Rijal al-Hadith, vol.9, p.[^343]:
+[^17]: Mu‘jam Rijal al-Hadith, vol.9, p.343.
 
-[^18] Ibid, p.[^351]:
+[^18]: Ibid, p.351.
 
-[^19] Ibid, vol.10, p.[^9]:
+[^19]: Ibid, vol.10, p.9.
 
-[^20] Al-Tusi, Rijal.
+[^20]: Al-Tusi, Rijal.
 
-[^21] Al-Barqi, Rijal
+[^21]: Al-Barqi, Rijal
 
-[^22] Al-Tusi, Rijal.
+[^22]: Al-Tusi, Rijal.
 
-[^23] Mu‘jam Rijal al-Hadith, vol.10, p.[^30]:
+[^23]: Mu‘jam Rijal al-Hadith, vol.10, p.30.
 
-[^24] Al-Najashi.
+[^24]: Al-Najashi.
 
-[^25] Mu‘jam Rijal al-Hadith, vol.10, p.[^65]:
+[^25]: Mu‘jam Rijal al-Hadith, vol.10, p.65.
 
-[^26] Al-Tusi, Rijal.
+[^26]: Al-Tusi, Rijal.
 
-[^27] Mu‘jam Rijal al-Hadith, vol.10, p.[^135]:
+[^27]: Mu‘jam Rijal al-Hadith, vol.10, p.135.
 
-[^28] Al-Tusi, Rijal.
+[^28]: Al-Tusi, Rijal.
 
-[^29] Mu‘jam Rijal al-Hadith, vol.10, p.[^136]:
+[^29]: Mu‘jam Rijal al-Hadith, vol.10, p.136.
 
-[^30] Ibid, p.[^141]:
+[^30]: Ibid, p.141.
 
-[^31] Al-Tusi, Rijal.
+[^31]: Al-Tusi, Rijal.
 
-[^32] Mu‘jam Rijal al-Hadith, vol.10, p.[^192]:
+[^32]: Mu‘jam Rijal al-Hadith, vol.10, p.192.
 
-[^33] Al-Tusi, Rijal.
+[^33]: Al-Tusi, Rijal.
 
-[^34] Mu‘jam Rijal al-Hadith, vol.10, p.[^207]:
+[^34]: Mu‘jam Rijal al-Hadith, vol.10, p.207.
 
-[^35] Ibid, p.[^210]:
+[^35]: Ibid, p.210.
 
-[^36] Al-Najashi.
+[^36]: Al-Najashi.
 
-[^37] Al-Tusi, Rijal.
+[^37]: Al-Tusi, Rijal.
 
-[^38] Mu‘jam Rijal al-Hadith, vol.10, p.[^251]:
+[^38]: Mu‘jam Rijal al-Hadith, vol.10, p.251.
 
-[^39] Al-Manaqib.
+[^39]: Al-Manaqib.
 
-[^40] Al-Kashi.
+[^40]: Al-Kashi.
 
-[^41] Mu‘jam Rijal al-Hadith, vol.10, p.[^256]:
+[^41]: Mu‘jam Rijal al-Hadith, vol.10, p.256.
 
-[^42] Ibid, p.[^266]:
+[^42]: Ibid, p.266.
 
-[^43] Al-Tusi, Rijal.
+[^43]: Al-Tusi, Rijal.
 
-[^44] Al-Mufid, al-Irshad.
+[^44]: Al-Mufid, al-Irshad.
 
-[^45] Al-Kashi, Rijal.
+[^45]: Al-Kashi, Rijal.
 
-[^46] Al-Tusi, Rijal.
+[^46]: Al-Tusi, Rijal.
 
-[^47] Al-Najashi.
+[^47]: Al-Najashi.
 
-[^48] Mu‘jam Rijal al-Hadith, vol.10, p.[^302]:
+[^48]: Mu‘jam Rijal al-Hadith, vol.10, p.302.
 
-[^49] Al-Najashi.
+[^49]: Al-Najashi.
 
-[^50] Al-Tusi, Rijal.
+[^50]: Al-Tusi, Rijal.
 
-[^51] Al-Kashi.
+[^51]: Al-Kashi.
 
-[^52] Al-Tusi, Rijal.
+[^52]: Al-Tusi, Rijal.
 
-[^53] Mu‘jam Rijal al-Hadith, vol.10, p.[^315]:
+[^53]: Mu‘jam Rijal al-Hadith, vol.10, p.315.
 
-[^54] Al-Tusi, Rijal.
+[^54]: Al-Tusi, Rijal.
 
-[^55] Mu‘jam Rijal al-Hadith, vol.10, p.[^333]:
+[^55]: Mu‘jam Rijal al-Hadith, vol.10, p.333.
 
-[^56] Al-Tusi, Rijal. Al-Barqi, Rijal.
+[^56]: Al-Tusi, Rijal. Al-Barqi, Rijal.
 
-[^57] Al-Tusi, Rijal.
+[^57]: Al-Tusi, Rijal.
 
-[^58] Mu‘jam Rijal al-Hadith, vol.10, p.[^410]:
+[^58]: Mu‘jam Rijal al-Hadith, vol.10, p.410.
 
-[^59] Ibid, vol.11, p.[^10]:
+[^59]: Ibid, vol.11, p.10.
 
-[^60] Al-Najashi.
+[^60]: Al-Najashi.
 
-[^61] Mu‘jam Rijal al-Hadith, vol.11, p.[^12]:
+[^61]: Mu‘jam Rijal al-Hadith, vol.11, p.12.
 
-[^62] Al-Tusi, Rijal.
+[^62]: Al-Tusi, Rijal.
 
-[^63] Al-Kashi, Rijal.
+[^63]: Al-Kashi, Rijal.
 
-[^64] Ibid.
+[^64]: Ibid.
 
-[^65] Ibid.
+[^65]: Ibid.
 
-[^66] Al-Najashi.
+[^66]: Al-Najashi.
 
-[^67] Al-Tusi, Rijal.
+[^67]: Al-Tusi, Rijal.
 
-[^68] Ibid.
+[^68]: Ibid.
 
-[^69] Al-Kashi.
+[^69]: Al-Kashi.
 
-[^70] Al-Tusi, Rijal.
+[^70]: Al-Tusi, Rijal.
 
-[^71] Mu‘jam Rijal al-Hadith, vol.11, p.[^62]:
+[^71]: Mu‘jam Rijal al-Hadith, vol.11, p.62.
 
-[^72] Al-Tusi, Rijal.
+[^72]: Al-Tusi, Rijal.
 
-[^73] Al-Najashi.
+[^73]: Al-Najashi.
 
-[^74] Mu‘jam Rijal al-Hadith, vol.11, p.[^99]:
+[^74]: Mu‘jam Rijal al-Hadith, vol.11, p.99.
 
-[^75] Ibid.
+[^75]: Ibid.
 
-[^76] Al-Tusi, Rijal.
+[^76]: Al-Tusi, Rijal.
 
-[^77] Ibid.
+[^77]: Ibid.
 
-[^78] Mu‘jam Rijal al-Hadith, vol.11, p.[^114]:
+[^78]: Mu‘jam Rijal al-Hadith, vol.11, p.114.
 
-[^79] Ibid, p.[^116]:
+[^79]: Ibid, p.116.
 
-[^80] Al-Tusi, Rijal.
+[^80]: Al-Tusi, Rijal.
 
-[^81] Mu‘jam Rijal al-Hadith, vol.11, p.[^145]:
+[^81]: Mu‘jam Rijal al-Hadith, vol.11, p.145.
 
-[^82] Al-Tusi, Rijal.
+[^82]: Al-Tusi, Rijal.
 
-[^83] Mu‘jam Rijal al-Hadith, vol.11, p.[^149]:
+[^83]: Mu‘jam Rijal al-Hadith, vol.11, p.149.
 
-[^84] Ibid, p.[^154]:
+[^84]: Ibid, p.154.
 
-[^85] Ibid, p.[^156]:
+[^85]: Ibid, p.156.
 
-[^86] Ibid, p.[^157]:
+[^86]: Ibid, p.157.
 
-[^87] Ibid, p.[^158]:
+[^87]: Ibid, p.158.
 
-[^88] Al-Tusi, Rijal.
+[^88]: Al-Tusi, Rijal.
 
-[^89] Al-Barqi, Rijal.
+[^89]: Al-Barqi, Rijal.
 
-[^90] Ibid.
+[^90]: Ibid.
 
-[^91] Mu‘jam Rijal al-Hadith, vol.11, p.[^161]:
+[^91]: Mu‘jam Rijal al-Hadith, vol.11, p.161.

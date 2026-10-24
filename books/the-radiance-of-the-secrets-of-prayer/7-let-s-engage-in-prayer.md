@@ -109,12 +109,8 @@ even to the US as such: “It cannot do a damn thing.”
  ‘Ali (*‘a*) considers it as part of the attributes of the pious ones
 {*muttaqin*}:
 
-<blockquote dir="rtl">
-  <p>
-عَظُمَ ٱلْخَالِقُ فِي أَنْفُسِهِم فَصَغُرَ مَادُوْنَهُ فِي
-أَعْيُنِهِم.
-  </p>
-</blockquote>
+> عَظُمَ ٱلْخَالِقُ فِي أَنْفُسِهِم فَصَغُرَ مَادُوْنَهُ فِي
+> أَعْيُنِهِم.
 
 “The greatness of the Creator is seated in their heart, and so,
 everything else appears small in their eyes.”[^6]
@@ -141,11 +137,7 @@ compassion is limited, or their aim is not to be compassionate. But in
 the case of God, even His act of creating all beings is based on grace
 and kindness:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِلاَّ مَنْ رَحِمَ رَبُّكَ وَ لِذٰلِك خَلََقَهُم ﴾
-  </p>
-</blockquote>
+> ﴿ إِلاَّ مَنْ رَحِمَ رَبُّكَ وَ لِذٰلِك خَلََقَهُم ﴾
 
 ***“Except those on whom your Lord has mercy—and that is why He created
 them.”***[^7]
@@ -167,11 +159,7 @@ of Allah.[^9] This act sets man under the protection and care of God and
 anyone who sincerely seeks refuge in God will be guided on the straight
 path:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَن يَعْتَصِم بِاللّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُّسْتَقِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَن يَعْتَصِم بِاللّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُّسْتَقِيمٍ ﴾
 
 ***“And whoever takes recourse in Allah is certainly guided to a
 straight path.”***[^10]
@@ -222,21 +210,13 @@ wonderful divine design.
 
 It is lamentable that instead of giving thanks, man is most ungrateful:
 
-<blockquote dir="rtl">
-  <p>
-﴿ و كان الانسانُ كفوراً ﴾
-  </p>
-</blockquote>
+> ﴿ و كان الانسانُ كفوراً ﴾
 
 ***“For man was ever thankless.”***[^14]
 
 Instead of seeking nearness to God, he turns away from Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اِذآ أنْعَمْنَا علی الانسانِ اَعْرَضَ ﴾
-  </p>
-</blockquote>
+> ﴿ اِذآ أنْعَمْنَا علی الانسانِ اَعْرَضَ ﴾
 
 ***“When We bless man, he is disregardful and turns aside; but when an
 ill befalls him, he is*** ***despondent.”***[^15]
@@ -244,54 +224,34 @@ ill befalls him, he is*** ***despondent.”***[^15]
 And instead of loving and worshipping God, he expresses enmity and
 insolence:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاذا هُوَ خَصيمٌ مُبينٌ ﴾
-  </p>
-</blockquote>
+> ﴿ فَاذا هُوَ خَصيمٌ مُبينٌ ﴾
 
 ***“Behold, he is an open contender!?”***[^16]
 
 It is regrettable that instead of showing humility and reverence, he
 assumes an air of dignity:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا ٱلإِْنْسَانُ مَاغَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا ٱلإِْنْسَانُ مَاغَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ ﴾
 
 ***“O man! What has deceived you about your generous Lord?”***[^17]
 
 A false feeling of self-sufficiency makes him rebel (against God):
 
-<blockquote dir="rtl">
-  <p>
-﴿ كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى ٭ أَن رَّآهُ اسْتَغْنَى ﴾
-  </p>
-</blockquote>
+> ﴿ كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى ٭ أَن رَّآهُ اسْتَغْنَى ﴾
 
 ***“Indeed man becomes rebellious when he considers himself without
 need.”***[^18]
 
 And he thinks the divine blessings are the result of his own efforts:
 
-<blockquote dir="rtl">
-  <p>
-﴿ انما اوتيتُهُ علی عِلم ﴾
-  </p>
-</blockquote>
+> ﴿ انما اوتيتُهُ علی عِلم ﴾
 
 ***“I have indeed been given {all} this because of the knowledge that I
 have.”***[^19]
 
 And he does not pay heed to the sounds of awakening:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِذَا ذُكِّرُوا لاَ يَذْكُرُون ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِذَا ذُكِّرُوا لاَ يَذْكُرُون ﴾
 
 ***“And {even} when admonished do not take admonition.”***[^20]
 
@@ -321,34 +281,22 @@ precedes His wrath.
 promising that He accepts repentance even on the verge of death of the
 repentant, and He loves the penitent ones:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ اللهَ يُحِبُّ ٱلْتَوَّابين ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ اللهَ يُحِبُّ ٱلْتَوَّابين ﴾
 
 ***“Indeed Allah loves the pertinent.”***[^22]
 
 And He has made it incumbent upon Himself to be merciful and
 oft-forgiving:
 
-<blockquote dir="rtl">
-  <p>
-﴿ كَتَبَ رَبُّكُمْ على نفسِهِ الرَّحمة ﴾
-  </p>
-</blockquote>
+> ﴿ كَتَبَ رَبُّكُمْ على نفسِهِ الرَّحمة ﴾
 
 ***“Your Lord has made mercy incumbent upon Himself.”***[^23]
 
 He has also made everybody hopeful and called upon them toward His
 mercy:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ تقنَطُوا مِنْ رَحْمَةِ اللهِ إِنَّ اللهَ يَغْفِرُ ٱلذُّنوبَ
-جَمِيعًا ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ تقنَطُوا مِنْ رَحْمَةِ اللهِ إِنَّ اللهَ يَغْفِرُ ٱلذُّنوبَ
+> جَمِيعًا ﴾
 
 ***“Do not despair of the mercy of Allah. Indeed Allah will forgive all
 sins.”***[^24]
@@ -356,11 +304,7 @@ sins.”***[^24]
 Among the manifestations of the mercy of the Lord is that He transforms
 into good even the evil deeds:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُبَدِّلُ اللهُ سَيِّئَاتِهِم حَسَنَاتٍ ﴾
-  </p>
-</blockquote>
+> ﴿ يُبَدِّلُ اللهُ سَيِّئَاتِهِم حَسَنَاتٍ ﴾
 
 ***“Allah will replace their misdeeds with good deeds.”***[^25]
 
@@ -503,31 +447,19 @@ habits.
  Now, let us find the straight path?  
  The path of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ رَبِّى عَلىٰ صِرَاطٍ مُسْتَقِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ رَبِّى عَلىٰ صِرَاطٍ مُسْتَقِيمٍ ﴾
 
  ***“Indeed my Lord is on a straight path.”***[^31]
 
 The path of the prophets (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّكَ عَلىٰ صِرَاطٍ مُسْتَقِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّكَ عَلىٰ صِرَاطٍ مُسْتَقِيمٍ ﴾
 
 ***“Indeed you are on a straight path.”***[^32]
 
 The path of servitude and worship:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَن اْعْبُدُونى هذا صِرَاطٌ مُسْتَقِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَن اْعْبُدُونى هذا صِرَاطٌ مُسْتَقِيمٌ ﴾
 
 ***“Worship Me. This is a straight path.”***[^33]
 
@@ -535,11 +467,7 @@ The path of the infallible Imams: Imam as-Sadiq (*‘a*) said: “Verily, we
 are the ‘straight path’.”[^34]  
  The path of clinging and holding fast to God and His law:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَن يَعْتَصِم بِاللّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُّسْتَقِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَن يَعْتَصِم بِاللّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُّسْتَقِيمٍ ﴾
 
 ***“And whoever takes recourse in Allah is certainly guided to a
 straight path.”***[^35]
@@ -572,11 +500,7 @@ the straight path, because this path has various angles, and like light,
 knowledge, and movement, it is evolutionary and creative. Regarding
 further guidance of the guided ones, the Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ يَزِيدُ اللهُ الَّذِينَ اهْتَدُوْاْ هُدىً﴾
-  </p>
-</blockquote>
+> ﴿ وَ يَزِيدُ اللهُ الَّذِينَ اهْتَدُوْاْ هُدىً﴾
 
 ***“Allah enhances in guidance those who are {rightly} guided.”***[^37]
 
@@ -655,11 +579,7 @@ equally.[^44]
 And such excess and licentiousness stem from ignorance {*jahl*} about
 which the Commander of the Faithful (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَرى الجَاهِلُ إِلاَّ مُفْرِطًا أَوْ مُفَرِّطًا.
-  </p>
-</blockquote>
+> لاَ تَرى الجَاهِلُ إِلاَّ مُفْرِطًا أَوْ مُفَرِّطًا.
 
 “An ignorant person will always overdo a thing or neglect it totally
 (That is, he will be at one extreme or the other).”[^45]
@@ -688,12 +608,8 @@ obstinacy.”[^47]
 
 3. Concerning the criterion of spending, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا
-وَكَانَ بَيْنَ ذَلِكَ قَوَامًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا
+> وَكَانَ بَيْنَ ذَلِكَ قَوَامًا ﴾
 
 ***“Those who, when spending, are neither wasteful nor tightfisted, and
 moderation lies between these {extremes}.”***[^48]
@@ -703,13 +619,9 @@ moderation lies between these {extremes}.”***[^48]
 The Glorious Qur’an clearly describes the people who have been blessed
 by God, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ يُطِعِ اللهَ و ٱلرَّسُولَ فَأُولئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ
-اللهُ عَلَيهِم مِنَ ٱلنَّبِيِّينَ وَ ٱلصِّدِّيقِينَ وَ ٱلشُّهَداءِ وَ
-ٱلصَّالِحِينَ وَ حَسُنَ أُولٰئِكَ رَفِيقًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ يُطِعِ اللهَ و ٱلرَّسُولَ فَأُولئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ
+> اللهُ عَلَيهِم مِنَ ٱلنَّبِيِّينَ وَ ٱلصِّدِّيقِينَ وَ ٱلشُّهَداءِ وَ
+> ٱلصَّالِحِينَ وَ حَسُنَ أُولٰئِكَ رَفِيقًا ﴾
 
 ***“Whoever obeys Allah and the Apostle—they are with those whom Allah
 has blessed, including the prophets and the truthful, the martyrs and
@@ -747,12 +659,8 @@ thought and action. Anyone who is endowed with the grace and favor of
 God will neither accept oppression nor support the oppressors. In this
 connection, Hadhrat Musa (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبِّ بِمَا أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًا
-لِلْمُجْرِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ رَبِّ بِمَا أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًا
+> لِلْمُجْرِمِينَ ﴾
 
 ***“My Lord! As You have blessed me, I will never be a supporter of the
 guilty.”***[^52]
@@ -795,12 +703,8 @@ prologue to the Holy Book.
 Surah at-Tawhid
 ---------------
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ هُوَ اللَّهُ أَحَدٌ ٭ اللَّهُ الصَّمَدُ ٭ لَمْ يَلِدْ وَلَمْ
-يُولَدْ ٭ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ هُوَ اللَّهُ أَحَدٌ ٭ اللَّهُ الصَّمَدُ ٭ لَمْ يَلِدْ وَلَمْ
+> يُولَدْ ٭ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾
 
 ***“Say, ‘He is Allah, the One’.*** ***Allah is the All-embracing. He
 neither begat nor was begotten. Nor*** ***has He any equal**.”*[^57]
@@ -955,12 +859,8 @@ he who performs courtesy correctly is the one who can attain proximity
 to God. This is the meaning of the statement of Imam as-Sadiq (*‘a*)
 when he said: [^72]
 
-<blockquote dir="rtl">
-  <p>
-وَ في ٱلرُّكُوع أَدَبٌ وَ في ٱلسُّجُود قُرْبٌ وَ مَنْ لاَيَحْسُنُ
-ٱلأَْدَبَ لاَيَصْلَحُ لِلْقُرْبِ.
-  </p>
-</blockquote>
+> وَ في ٱلرُّكُوع أَدَبٌ وَ في ٱلسُّجُود قُرْبٌ وَ مَنْ لاَيَحْسُنُ
+> ٱلأَْدَبَ لاَيَصْلَحُ لِلْقُرْبِ.
 
 There are examples of *ruku‘* and *sujud* of the spiritual leaders
 recorded in the traditions that will put to shame one’s *ruku‘* and
@@ -993,11 +893,7 @@ Lord, the Great, and praise belongs to Him.” When the verse, “So
 celebrate the Name of your Lord, the All-supreme,”[^76] was revealed,
 the Prophet (S) thus ordered:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اِجعَلوها فى ركُوعِكم ﴾
-  </p>
-</blockquote>
+> ﴿ اِجعَلوها فى ركُوعِكم ﴾
 
 ***“recite it in your ruku”***[^77]
 
@@ -1008,12 +904,8 @@ The angels of God are always in the state of worship. Some are always in
 *ruku‘* while others are always in *sujud* and *tasbih*. In this regard,
 ‘Ali (*‘a*) said as recorded in *Nahj al-Balaghah*:
 
-<blockquote dir="rtl">
-  <p>
-مِنْهُمْ سُجُود لاَيَرْكَعُونَ وَ رُكُوعٌ لاَ يَنْتَصِبُونَ وَ
-صَافُّونَ لاَ يَتَزَايَلُونَ وَ مُسَبِّحُونَ لاَ يَسْئمُونَ.
-  </p>
-</blockquote>
+> مِنْهُمْ سُجُود لاَيَرْكَعُونَ وَ رُكُوعٌ لاَ يَنْتَصِبُونَ وَ
+> صَافُّونَ لاَ يَتَزَايَلُونَ وَ مُسَبِّحُونَ لاَ يَسْئمُونَ.
 
 “Some of them are in prostration and do not kneel up. Others in kneeling
 position do not stand up. Some of them are in array and do not leave
@@ -1078,35 +970,15 @@ And for many the punishment has become due.”***[^86]
 In his poetry, Mawlawi[^87] has also pointed out the consciousness and
 faculty of speech of all beings in the universe, saying:
 
-<blockquote dir="rtl">
-  <p>
-نطق آب و نطق خاک و نطق گِل هست محسوس حواس اهل دل
-  </p>
-</blockquote>
+> نطق آب و نطق خاک و نطق گِل هست محسوس حواس اهل دل
 
-<blockquote dir="rtl">
-  <p>
-جملهٴ ذرّات، در عالم نهان با تو مى گويند روزان و شبان
-  </p>
-</blockquote>
+> جملهٴ ذرّات، در عالم نهان با تو مى گويند روزان و شبان
 
-<blockquote dir="rtl">
-  <p>
-ما سميعيم و بصير و باهُشيم با شما نامحرمان ما خامُشيم
-  </p>
-</blockquote>
+> ما سميعيم و بصير و باهُشيم با شما نامحرمان ما خامُشيم
 
-<blockquote dir="rtl">
-  <p>
-از جمادى سوى جانِ جان شويد غلغلهٴ اجزاى عالم بشنويد
-  </p>
-</blockquote>
+> از جمادى سوى جانِ جان شويد غلغلهٴ اجزاى عالم بشنويد
 
-<blockquote dir="rtl">
-  <p>
-فاش تسبيح جمادات آيدت وسوسهٴ تأويلها بزدايدت
-  </p>
-</blockquote>
+> فاش تسبيح جمادات آيدت وسوسهٴ تأويلها بزدايدت
 
 *The voice of water, soil and mud can be heard by the gnostics.*  
 *All particles of the world say secretly to you during the day and
@@ -1252,11 +1124,7 @@ Attributes of Perfection. Let us explain in detail:
 *Tawhid* {monotheism} is based on glorifying God; that is, considering
 Him immune from partnership {*shirk*} and partner {*sharik*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبحان اللهِ عَمَّا يُشْرِكون ﴾
-  </p>
-</blockquote>
+> ﴿ سُبحان اللهِ عَمَّا يُشْرِكون ﴾
 
 ***“Clear is Allah of any partners that they may ascribe {to
 Him}!”***[^110]
@@ -1267,22 +1135,14 @@ be unjust to anyone. And if there are to emerge problems, misfortunes
 and calamities for mankind, they are trials, or means of enhancing human
 potential, or as products and consequences of our own making:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا أَصَابكُمْ مِنْ مُصِيْبَةٍ فَبِمَا كَسَبَتْ أَيْدِيْكُم ﴾
-  </p>
-</blockquote>
+> ﴿ مَا أَصَابكُمْ مِنْ مُصِيْبَةٍ فَبِمَا كَسَبَتْ أَيْدِيْكُم ﴾
 
 ***“Whatever affliction that may visit you is because of what your hands
 have earned.”***[^111]
 
 So, God is blameless. It is we who are unjust to ourselves:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ ﴾
 
 ***“They said, ‘Immaculate is our Lord! We have indeed been
 wrongdoers!’”***[^112]
@@ -1296,12 +1156,8 @@ such, God does not leave mankind without guidance.
 And those who think otherwise have not recognized God and do not
 consider Him as All-wise, and thus attribute such a thing to Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا قَدَرُواْ اللّهَ حَقَّ قَدْرِهِ إِذْ قَالُواْ مَا أَنزَلَ
-اللّهُ عَلَى بَشَرٍ مِّن شَيْءٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا قَدَرُواْ اللّهَ حَقَّ قَدْرِهِ إِذْ قَالُواْ مَا أَنزَلَ
+> اللّهُ عَلَى بَشَرٍ مِّن شَيْءٍ ﴾
 
 ***“They did not regard Allah with the regard due to Him when they said,
 ‘Allah has not sent down anything to any human’.”***[^113]
@@ -1312,12 +1168,8 @@ reckoning, reward and punishment, life and creation would be futile and
 the right of human beings would not be given to them. God is immune from
 creating all beings in vain and not setting the Day of Resurrection:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لاَ تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لاَ تُرْجَعُونَ ﴾
 
 ***“Did you suppose that We created you aimlessly, and*** ***that you
 will not be brought back to Us?”***[^114]
@@ -1354,11 +1206,7 @@ For this reason, in the *tasbihat al-arba‘ah*,[^115] we immediately say
 Allah*.  
  The Holy Qur’an declares God free from any partners:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ ﴾
 
 ***“Clear is Allah of any partners that they may ascribe {to
 Him}!”***[^116]
@@ -1366,32 +1214,20 @@ Him}!”***[^116]
 And He is also immune from what they attribute to Him and what they
 imagine about Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ ﴾
 
 ***“Clear is Allah, the Lord of the Throne, of what they allege
 {concerning Him}.”***[^117]
 
 He is equally free from poverty and need:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَهُ هُوَ الْغَنِيُّ ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَهُ هُوَ الْغَنِيُّ ﴾
 
 ***“Immaculate is He!*** ***He is the All-sufficient.”***[^118]
 
 He is guiltless of creating things aimlessly and vainly:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ ﴾
-  </p>
-</blockquote>
+> ﴿ رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ ﴾
 
 ***“O Lord, You have not created this in vain! Immaculate are
 You!”***[^119]
@@ -1399,22 +1235,14 @@ You!”***[^119]
 He is not guilty of committing injustice to His servants. It is rather
 the people who are unjust to themselves:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ ٱلظَالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ ٱلظَالِمِينَ ﴾
 
 ***“You are immaculate! I have indeed been among the
 wrongdoers!”***[^120]
 
 He is immune, from having daughter.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وِ يِجْعِلونِ للهِ البناتِ سُبْحانَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وِ يِجْعِلونِ للهِ البناتِ سُبْحانَهُ ﴾
 
 ***“And they ascribe daughters to Allah, glory be to Him..”*** [^121]
 
@@ -1540,19 +1368,11 @@ not recite it in the *tashahhud*, Imam ash-Shafi‘i, the founder of one
 of the four Sunni schools of thought, has recited the following in his
 poem:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ بَيْتِ رَسولِ اللهِ حُبُّكُمُ فَرْضٌ مِنَ اللهِ فى
-ٱلْقُــرْآنِ أَنْزَلَه
-  </p>
-</blockquote>
+> يَا أَهْلَ بَيْتِ رَسولِ اللهِ حُبُّكُمُ فَرْضٌ مِنَ اللهِ فى
+> ٱلْقُــرْآنِ أَنْزَلَه
 
-<blockquote dir="rtl">
-  <p>
-كَفاكُمْ مِنْ عَظيمِ ٱلْقَدْرِ أنَّكُم مَنْ لَمْ يُصَلِّ عَلَيْكُمْ
-فَلا صَلٰوةَ لَه
-  </p>
-</blockquote>
+> كَفاكُمْ مِنْ عَظيمِ ٱلْقَدْرِ أنَّكُم مَنْ لَمْ يُصَلِّ عَلَيْكُمْ
+> فَلا صَلٰوةَ لَه
 
 *O members of the Household {Ahl al-Bayt} of the Messenger of Allah!
 Loving you is an obligation, which God has revealed in the Qur’an.*  
@@ -1567,11 +1387,7 @@ It is even narrated in *Sahih* *al-Bukhari* that the Prophet (S) was
 asked: “How should we send blessings to you?” The Prophet (S) said: “You
 say,
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ صَلِّ عَلىٰ مُحَمَّد وَ عَلىٰ آلِ مُحَمَّد.
-  </p>
-</blockquote>
+> أَللَّهُمَّ صَلِّ عَلىٰ مُحَمَّد وَ عَلىٰ آلِ مُحَمَّد.
 
 “O Allah! Send blessings on Muhammad and the progeny of Muhammad.”[^136]
 
@@ -1623,11 +1439,7 @@ As the *salawat* has such rewards and importance, it is enough to say
 that it is a part of the *tashahhud* in prayer, we shall hereby repeat
 it so as to get those rewards:
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ صَلِّ عَلىٰ مُحَمَّد وَ عَلىٰ آلِ مُحَمَّد.
-  </p>
-</blockquote>
+> أَللَّهُمَّ صَلِّ عَلىٰ مُحَمَّد وَ عَلىٰ آلِ مُحَمَّد.
 
 “O Allah! Send blessings on Muhammad and the progeny of Muhammad.”
 
@@ -1651,12 +1463,8 @@ The *salam* that we give to the Prophet (S) during the prayer is
 accompanied by divine mercy and blessings, and this is the best form of
 *salam*.
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلامُ عَلَيْكَ أَيُّهَا ٱلنَّبِىُّ وَ رَحْمَةُ اللهِ وَ
-بَرَكاتُه.
-  </p>
-</blockquote>
+> أَلسَّلامُ عَلَيْكَ أَيُّهَا ٱلنَّبِىُّ وَ رَحْمَةُ اللهِ وَ
+> بَرَكاتُه.
 
 “May Allah’s peace, mercy and blessings be upon you, O Prophet!”  
  {*Assalamu ‘alayka ayyuha’n-nabiyyu wa rahmatullahi wa barakatuh*}
@@ -1683,11 +1491,7 @@ The angels also convey *salam* to the people of salvation.[^151]
 
 The Dwellers of paradise also say *salam* to one another:
 
-<blockquote dir="rtl">
-  <p>
-﴿ تَحِيَّتُهُمْ فِيهَا سَلامٌ ﴾
-  </p>
-</blockquote>
+> ﴿ تَحِيَّتُهُمْ فِيهَا سَلامٌ ﴾
 
 **“*****…Their greeting there in will be*** ***‘peace!*****’”.** [^152]
 
@@ -1723,12 +1527,8 @@ Conveying *salam* is recommended {*mustahabb*} but replying to it is
 obligatory {*wajib*}, and it is better to give a warmer and more
 enthusiastic reply to *salam*. The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذَا حُيِّيْتُم بِتَحِيَّةٍ فَحَيُّواْ بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَآ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذَا حُيِّيْتُم بِتَحِيَّةٍ فَحَيُّواْ بِأَحْسَنَ مِنْهَا أَوْ
+> رُدُّوهَآ ﴾
 
 ***“When you are greeted with a salute, greet with a better one than
 it.”***[^158]
@@ -2176,5 +1976,4 @@ another with a greeting from Allah, blessed and sweet.”
 [^163]: Mizan al-Hikmah, vol. 4, p. 538.
 
 [^164]: Bihar al-Anwar, vol. 40, p. 335.
-
 

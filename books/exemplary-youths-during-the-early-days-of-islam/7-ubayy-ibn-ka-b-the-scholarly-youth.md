@@ -162,4 +162,3 @@ Hilyat al-Awliyā’, vol. 1, p. 252.
 [^13]: Ibn Sa‘d, Tabaqāt, vol. 3, p. 378; Qāmūs al-Rijāl, vol. 1, p. 50;
 Zarkulī, Al-A‘lām, vol. 1, p. 78.
 
-

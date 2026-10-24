@@ -32,11 +32,7 @@ It has been narrated that Caliph Omar said:
 Allah! What is the harm if we establish the standing-place of Ibrahim as
 the place of prayer?»' Following my suggestion, this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
-  </p>
-</blockquote>
+> وَاتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
 
 ***'Appoint for yourselves a place of prayer on the standing - place of
 Ibrahim! (Holy Quran, 2:125)***
@@ -47,14 +43,10 @@ because at present, everyone from the good and evil mingles with them.
 It was after this suggestion that the verse pertaining 'veil' was
 revealed.'
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
-أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
-رَّحِيماً
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
+> أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
+> رَّحِيماً
 
 ***O Prophet, tell your wives and your daughters and the women of the
 believers to bring down over themselves [part] of their outer garments.
@@ -67,12 +59,8 @@ told them as such: If the Prophet overlooks your treason it maybe that
 Allah will provide him with much better wives than you. Moments later, a
 verse with similar contents was revealed:»
 
-<blockquote dir="rtl">
-  <p>
-عَسَى رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجاً خَيْراً
-مِّنكُنَّ مُسْلِمَاتٍ مُّؤْمِنَاتٍ
-  </p>
-</blockquote>
+> عَسَى رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجاً خَيْراً
+> مِّنكُنَّ مُسْلِمَاتٍ مُّؤْمِنَاتٍ
 
 ***Perhaps his Lord, if he divorced you [all], would substitute for him
 wives better than you - submitting [to Allah], believing, devoutly
@@ -82,22 +70,14 @@ Tayalesi in his 'Musnad' narrates Caliph Omar as saying: 'I came to an
 understanding with my Lord on four matters. Then, after mentioning the
 afore-said three agreements, he says: When the verse;
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ 
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ
 
 ***And certainly did We create man from an extract of clay. (Holy Quran,
 23: 12)***
 
 Was revealed and thereby portrayed man in his complete sense, I said:
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> تَبَارَكَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ
 
 ***Blessed be Allah, the best of the Creators. (Holy Quran, 23: 14)***
 
@@ -109,14 +89,10 @@ The expositors of Sahih Bukhari - Ibn-Hajar (died in 852 A.H.) in
 explained and interpreted the afore-mentioned traditions as follows:-
 [^2]
 
-<blockquote dir="rtl">
-  <p>
-) وافقت ربي من الموافقة) من باب المفاعلة التي تدل على مشاركة اثنين في
-فعل ينسب إلى أحدهما متعلقا بالآخر والمعنى في الأصل وافقني ربي فأنزل
-القرآن على وفق ما رأيت ولكنه راعى الأدب فأسند الموافقة إلى نفسه لا إلى
-الرب جل وعز
-  </p>
-</blockquote>
+> ) وافقت ربي من الموافقة) من باب المفاعلة التي تدل على مشاركة اثنين في
+> فعل ينسب إلى أحدهما متعلقا بالآخر والمعنى في الأصل وافقني ربي فأنزل
+> القرآن على وفق ما رأيت ولكنه راعى الأدب فأسند الموافقة إلى نفسه لا إلى
+> الرب جل وعز
 
 The word [وافقت] bas been derived from the infinitive [موافقت] and this
 infinitive belongs to the mode of [مفاعلة] which denotes cooperation and
@@ -168,22 +144,14 @@ As an example the Caliph himself narrates:
 I said: 'O Messenger of Allah!  
  (A)
 
-<blockquote dir="rtl">
-  <p>
-لَوِ اتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
-  </p>
-</blockquote>
+> لَوِ اتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
 
 'How good it would be to set the standing-place Of Ibrahim as the place
 of prayer.»
 
 And moments later the verse:
 
-<blockquote dir="rtl">
-  <p>
-و اتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
-  </p>
-</blockquote>
+> و اتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
 
 ***'Appoint for yourselves a place of prayer on the standing - place of
 Ibrahim! (Holy Quran 2:125)***
@@ -193,42 +161,26 @@ Ibrahim! (Holy Quran 2:125)***
 The Prophet's wives revolted against him (Out of jealousy and hassle
 with each other) and I addressed them as such:
 
-<blockquote dir="rtl">
-  <p>
-عَسَى رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجاً خَيْراً
-مِّنكُنَّ
-  </p>
-</blockquote>
+> عَسَى رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجاً خَيْراً
+> مِّنكُنَّ
 
 ***«May be if the Holy Prophet divorces you then Allah will provide him
 with wives much better than you.» (Holy Quran, 66:5)***
 
 After this address, a verse with exactly the same contents was revealed.
 
-<blockquote dir="rtl">
-  <p>
-عَسَى رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجاً خَيْراً
-مِّنكُنَّ
-  </p>
-</blockquote>
+> عَسَى رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجاً خَيْراً
+> مِّنكُنَّ
 
 (C) Moreover, he has said:
 
 After the description of man's creation in the Holy Quran, I said:
 
-<blockquote dir="rtl">
-  <p>
-تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 Then a verse with similar contents was revealed
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
-  </p>
-</blockquote>
+> فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
 
 ***Blessed be Allah, the best of the Creators. (Holy Quran, 23: 14)***
 
@@ -238,12 +190,8 @@ our enemy.'
 
 Omar said:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ عَدُوّاً لِّلّهِ وَمَلآئِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ
-وَمِيكَالَ فَإِنَّ اللّهَ عَدُوٌّ لِّلْكَافِرِينَ
-  </p>
-</blockquote>
+> مَن كَانَ عَدُوّاً لِّلّهِ وَمَلآئِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ
+> وَمِيكَالَ فَإِنَّ اللّهَ عَدُوٌّ لِّلْكَافِرِينَ
 
 ***«'Whoever is the enemy of Allah and His angels and His apostles and
 Jibra'eel and Meek'aeel, then surely Allah is the enemy of the
@@ -251,12 +199,8 @@ unbelievers'. (Holy Quran, 2: 98)***
 
 After this event, a verse similar to Omar's phrase was revealed as such:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ عَدُوّاً لِّلّهِ وَمَلآئِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ
-وَمِيكَالَ فَإِنَّ اللّهَ عَدُوٌّ لِّلْكَافِرِينَ
-  </p>
-</blockquote>
+> مَن كَانَ عَدُوّاً لِّلّهِ وَمَلآئِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ
+> وَمِيكَالَ فَإِنَّ اللّهَ عَدُوٌّ لِّلْكَافِرِينَ
 
 ***Whoever is an enemy to Allah and His angels and His messengers and
 Gabriel and Michael - then indeed, Allah is an enemy to the
@@ -275,14 +219,10 @@ Prophet (S) as such: 'O Messenger of Allah! Good and evil men happen to
 converse with your wives. You should command them to cover themselves
 with veil. Thereafter this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
-أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
-رَّحِيماً
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
+> أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
+> رَّحِيماً
 
 ***O Prophet, tell your wives and your daughters and the women of the
 believers to bring down over themselves [part] of their outer garments.
@@ -297,13 +237,9 @@ Allah? Was it not he who on so and so a day said so and so a thing
 against you and Islam? and ... I swear by Allah that at that very moment
 this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ
-عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُوا بِاللَّـهِ وَرَسُولِهِ وَمَاتُوا
-وَهُمْ فَاسِقُونَ 
-  </p>
-</blockquote>
+> وَلَا تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ
+> عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُوا بِاللَّـهِ وَرَسُولِهِ وَمَاتُوا
+> وَهُمْ فَاسِقُونَ
 
 ***'And never offer prayer for any one of them who dies and do not stand
 by his grave; surely they disbelieve in Allah and His Apostle and they
@@ -551,11 +487,7 @@ God or vice-versa is as follows:
 
 The Caliph told the Holy Prophet:
 
-<blockquote dir="rtl">
-  <p>
-لو اتّخذنا من مقام إبراهيم مصلى؟
-  </p>
-</blockquote>
+> لو اتّخذنا من مقام إبراهيم مصلى؟
 
 What is the harm if we set the standing-place of Ibrahim as the place of
 prayer?
@@ -563,11 +495,7 @@ prayer?
 Immediately after this, the Holy Prophet was addressed in the form of
 revelation with exactly the same words as the saying of the Caliph.
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
-  </p>
-</blockquote>
+> وَاتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى
 
 ***'Appoint for yourselves a place of prayer on the standing - place of
 Ibrahim! (Holy Qur’an 2:125)***
@@ -755,14 +683,10 @@ or vice-versa from the view-point of traditions.
 Tradition about this particular agreement has come down in Sahih Bukhari
 and the verse regarding the same has come in Sura Ahzab as such:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
-الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
-أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
-رَّحِيماً
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاء
+> الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَلِكَ
+> أَدْنَى أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ اللَّهُ غَفُوراً
+> رَّحِيماً
 
 ***O Prophet, tell your wives and your daughters and the women of the
 believers to bring down over themselves [part] of their outer garments.
@@ -903,12 +827,8 @@ regards to wine, send down for us a clear exposition.
 Immediately after this utterance, a verse which is in Sura Baqarah was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
-كَبِيرٌ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ
+> كَبِيرٌ
 
 ***«They ask you about Intoxicants and games of chance. Say: In both of
 them there is a great sin.... (Holy Quran, 2: 219)***
@@ -920,12 +840,8 @@ finding himself convinced, he once again said:
 
 Then, a verse from Sura Nisa was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى
 
 ***«O you who believe! do not go near prayer when you are intoxicated.»
 (Holy Quran, 4: 43)***
@@ -944,13 +860,9 @@ of drinking wine!
 
 As such, this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
-وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
-اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
+> اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ
 
 ***«The Satan only wishes to cause enmity and hatred to be sprung among
 you by means of intoxicants and games of chance, and to keep you off
@@ -968,12 +880,8 @@ as follows:
 Abul-Qamus Zaid-ibn-Ali says: On three occasions God sent revelation
 concerning wine drinking. The first verse was as follows:
 
-<blockquote dir="rtl">
-  <p>
- يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِۖ قُلْ فِيهِمَا إِثْمٌ
-كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا 
-  </p>
-</blockquote>
+>  يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِۖ قُلْ فِيهِمَا إِثْمٌ
+> كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِن نَّفْعِهِمَا
 
 ***«They ask you about intoxicants and games of chance. Say: In both of
 them there is a great sin and means of profit for men and their sin is
@@ -984,12 +892,8 @@ wine so much so that two amongst them joined the congregation prayer in
 the state of intoxication and while praying they began using obscene
 words. For this reason God revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ
 
 ***«O you who believe! do not go near prayer when you are intoxicated.»
 (Holy Quran, 4: 43)***
@@ -1007,16 +911,12 @@ hand said: I seek refuge in Allah from His wrath and the wrath of His
 Messenger. I swear by Allah that I will no more drink wine. After this,
 God revealed an explicit order with regards to wine as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
-وَالأَنصَابُ وَالأَزْلاَمُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ
-فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ. إِنَّمَا يُرِيدُ الشَّيْطَانُ
-أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاء فِي الْخَمْرِ
-وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ
-أَنتُم مُّنتَهُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
+> وَالأَنصَابُ وَالأَزْلاَمُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ
+> فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ. إِنَّمَا يُرِيدُ الشَّيْطَانُ
+> أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاء فِي الْخَمْرِ
+> وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ
+> أَنتُم مُّنتَهُونَ
 
 ***«O you who believe! intoxicants and games of chance and (scarifying
 in the name of) stones set up and (dividing by) arrows are only an
@@ -1025,11 +925,7 @@ Quran, 5: 90- 91)***
 
 Over here, Omar-ibn-Khattab said:
 
-<blockquote dir="rtl">
-  <p>
-إنتهينا! إنتهينا!
-  </p>
-</blockquote>
+> إنتهينا! إنتهينا!
 
 We have desisted, we have desisted![^34]
 
@@ -1053,13 +949,9 @@ Messenger.
 
 At that moment, God revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
-وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
-اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاء فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ
+> اللّهِ وَعَنِ الصَّلاَةِ فَهَلْ أَنتُم مُّنتَهُونَ
 
 ***«The Satan only wishes to cause enmity and hatred to be sprung among
 you by means of intoxicants and games of chance, and to keep you off
@@ -1076,11 +968,7 @@ The people continued their ignorant customs and practices until God
 continued issuing commands for the prohibition of the same. In the early
 days of Islam, the Muslims were drinking wine until the verse
 
-<blockquote dir="rtl">
-  <p>
- يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِۖ
-  </p>
-</blockquote>
+>  يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِۖ
 
 was revealed.
 
@@ -1089,22 +977,14 @@ not because of its harmful effects. This state continued until a ma n
 drank wine and lead the people in prayers. While reciting a verse from
 the holy Quran he said:
 
-<blockquote dir="rtl">
-  <p>
-ياأيها الذّين كفروا أعبد ما تعبدون
-  </p>
-</blockquote>
+> ياأيها الذّين كفروا أعبد ما تعبدون
 
 'O unbelievers! I worship that which you worship.
 
 Thereafter this following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى
 
 Here, a group of Muslims said: 'We shall drink wine but not in the state
 of prayers.... [^36]
@@ -1119,11 +999,7 @@ approached. Later a person stood forward and led the congregation
 prayers. While reciting the sura 'Kafirun' he made an error in
 recitation. For this reason the verse
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ سُكَارَى
-  </p>
-</blockquote>
+> لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ سُكَارَى
 
 was revealed.
 
@@ -1216,18 +1092,10 @@ ignorance, it would be most worthy to refer to his best companion and
 his most intimate disciple i.e. Amir-ul-Mumineen Ali (a.s.) so that we
 realize what he has to say about Hazrat's behaviour and conduct:
 
-<blockquote dir="rtl">
-  <p>
-قال أمير المؤمنين (عليه السلام)
-  </p>
-</blockquote>
+> قال أمير المؤمنين (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-ولـقـد قرن اللّه به من لدن كان فطيما اعظم ملك من ملائكته , يسلك به
-طريق المكارم ومحاسن اخلاق العالم ليله ونهاره
-  </p>
-</blockquote>
+> ولـقـد قرن اللّه به من لدن كان فطيما اعظم ملك من ملائكته , يسلك به
+> طريق المكارم ومحاسن اخلاق العالم ليله ونهاره
 
 'From the time of his (i.e. Holy Prophet's) weaning, Allah had put a
 great angel with him to take him along the path of high character and
@@ -1235,13 +1103,9 @@ good behaviour throughout the day and night. [^47]'
 
 Imam Baqir (a.s.) too has specified the same fact in this manner:
 
-<blockquote dir="rtl">
-  <p>
- يوكل اللّه تـعـالـى بـانـبـيـائه ... ووكل بـمحمد ملكا عظيما منذ فصل
-عن الرضاع يرشده الى الخيرات ومكارم الاخلاق ,ويصده عن الشر ومساوئ
-الاخلاق 
-  </p>
-</blockquote>
+>  يوكل اللّه تـعـالـى بـانـبـيـائه ... ووكل بـمحمد ملكا عظيما منذ فصل
+> عن الرضاع يرشده الى الخيرات ومكارم الاخلاق ,ويصده عن الشر ومساوئ
+> الاخلاق
 
 'The Almighty Allah commissioned an angel for all His Prophets and right
 from the time of Hazrat Muhammad's weaning, He sent His greatest angel
@@ -1255,12 +1119,8 @@ Imam Sadeq Jafar-ibn-Muhammad has narrated from his father who has
 narrated from his grand-father who has narrated from Hazrat Amir-ul-
 Mumineen (a.s.) that the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إنّ عبدالمطّلب كان لا يَستقسِم بالأزلام، ولا يَعبُد الأصنام، ولا يأكل
-ما ذُبِح على النُّصُب، ويقول: أنا على دِينِ أبي إبراهيم عليه السلام
-  </p>
-</blockquote>
+> إنّ عبدالمطّلب كان لا يَستقسِم بالأزلام، ولا يَعبُد الأصنام، ولا يأكل
+> ما ذُبِح على النُّصُب، ويقول: أنا على دِينِ أبي إبراهيم عليه السلام
 
 'O Ali! Abdul-Muttalib (my grandfather) never used to worship and gamble
 with arrows called as «Azlam» which were objects of idol-worshipping and
@@ -1442,12 +1302,8 @@ so and said:
 The Messenger of Allah said: I have the option between two affairs that
 Allah says:
 
-<blockquote dir="rtl">
-  <p>
-اسْتَغْفِرْ لَهُمْ أَوْ لاَ تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ
-لَهُمْ سَبْعِينَ مَرَّةً فَلَن يَغْفِرَ اللّهُ لَهُمْ
-  </p>
-</blockquote>
+> اسْتَغْفِرْ لَهُمْ أَوْ لاَ تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ
+> لَهُمْ سَبْعِينَ مَرَّةً فَلَن يَغْفِرَ اللّهُ لَهُمْ
 
 ***Whether you seek forgiveness for them or not (is the same); even if
 for seventy times you seek forgiveness for them, God will never forgive
@@ -1457,12 +1313,8 @@ In spite of this, the Prophet prayed over the dead body of Abdullah.
 
 Thereafter, this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُصَلِّ عَلَى أَحَدٍ مِّنْهُم مَّاتَ أَبَداً وَلاَ تَقُمْ عَلَىَ
-قَبْرِهِ
-  </p>
-</blockquote>
+> وَلاَ تُصَلِّ عَلَى أَحَدٍ مِّنْهُم مَّاتَ أَبَداً وَلاَ تَقُمْ عَلَىَ
+> قَبْرِهِ
 
 ***'And never offer prayer for any one of them who dies and do not stand
 by his grave!(Holy Quran, 9: 84)***
@@ -1736,11 +1588,7 @@ side[^50] - will leave a great effect on his followers.
 
 This matter is in conformity with the saying:
 
-<blockquote dir="rtl">
-  <p>
-الناس على دين ملوكهم
-  </p>
-</blockquote>
+> الناس على دين ملوكهم
 
 “The people follow the path and religion of their own rulers and kings.'
 
@@ -1922,12 +1770,8 @@ the «Umrah Tamatto» according to the Holy Prophet's commands. Years
 later, when Omar was on the seat of Caliphate, prohibited the Muslims
 from performing this act. He said:
 
-<blockquote dir="rtl">
-  <p>
-متعتان كانتا على عهد رسول الله وأنا أُنهي عنهما أُعاقب عليهما و هما
-متعة الحج و متعة النساء
-  </p>
-</blockquote>
+> متعتان كانتا على عهد رسول الله وأنا أُنهي عنهما أُعاقب عليهما و هما
+> متعة الحج و متعة النساء
 
 «I prohibit the two 'Mutah' which was in vogue during the Holy Prophet's
 time. I shall prevent anyone from performing the same and anyone found
@@ -2177,12 +2021,8 @@ unanimously believe that a ruler cannot be dethroned just because he is
 an evil-doer[^74]. About the necessity of obeying the Caliph they set
 forth the following verse of Quran as an evidence:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***'O you who believe! obey Allah and obey the Apostle and those in
 authority from among you.' (Holy Quran, 4: 59)***
@@ -2196,12 +2036,8 @@ tyrant or a just one - because to obey him is obligatory and to disobey
 him is a sin and heresey. The one who does not obey his ruler is a
 partisan since the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***'O you who believe! obey Allah and obey the Apostle and those in
 authority from among you.' (Holy Quran, 4: 59)***
@@ -2274,22 +2110,14 @@ Tabarani and others too have said:
 'They set the House of Allah as the target (of their ballista and set it
 on fire and then recited the following epic:
 
-<blockquote dir="rtl">
-  <p>
-خطارة مثل الفنيق المزبد  نرمي بِهَا أعواد هَذَا المسجد
-  </p>
-</blockquote>
+> خطارة مثل الفنيق المزبد  نرمي بِهَا أعواد هَذَا المسجد
 
 We will shell this mosque with ballista which resembles a drunk camel
 with foam collected over its mouth.
 
 Another braggart recited:
 
-<blockquote dir="rtl">
-  <p>
-كيف ترى صنيع أم فروة تأخذهم بين الصفا و المروة
-  </p>
-</blockquote>
+> كيف ترى صنيع أم فروة تأخذهم بين الصفا و المروة
 
 How do you review the usage of ballista which fall over those who are
 present between Safa and Marwa.
@@ -2476,11 +2304,7 @@ worse than these donkeys pointing to several standing there.[^88]
 The caliphate school reckoned the obedience of God to be a vital Islamic
 duty and believed that [Arabic text] in the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُواْ اللّهَ وَأَطِيعُواْ الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> أَطِيعُواْ اللّهَ وَأَطِيعُواْ الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***obey Allah and obey the Apostle and those in authority from among
 you.' (Holy Quran, 4: 59)***
@@ -2534,12 +2358,8 @@ that is the separation of the Muslims from the Imams of Ahlul Bayt and
 their disinterest in referring to them. The Aimmas are those who in
 reply to a questioner would say:
 
-<blockquote dir="rtl">
-  <p>
-مهما أجبتك بشيء فهي عن رسول الله (صلى الله عليه وآله) لسنا نقول برأينا
-من شيء
-  </p>
-</blockquote>
+> مهما أجبتك بشيء فهي عن رسول الله (صلى الله عليه وآله) لسنا نقول برأينا
+> من شيء
 
 'Whatever I have said in reply is certainly from the Messenger of Allah.
 We never say anything according to our own views and opinion! [^90]
@@ -2558,13 +2378,9 @@ precepts from them and learnt Islam from them, this beloved Islam would
 not have faced such calamities as it has faced till today. Moreover, the
 Messenger of Allah had made a will to his nation which is as follows:
 
-<blockquote dir="rtl">
-  <p>
-إنّي مخلّف فيكم الثقلين كتاب الله وعترتي أهل بيتي, ما إن تمسكتم بهما
-لم تضلوا بعدي أبداً, وقد أنبأني الخبير اللطيف أنهما لن يفترقا حتّى
-يردا عليَّ الحوض
-  </p>
-</blockquote>
+> إنّي مخلّف فيكم الثقلين كتاب الله وعترتي أهل بيتي, ما إن تمسكتم بهما
+> لم تضلوا بعدي أبداً, وقد أنبأني الخبير اللطيف أنهما لن يفترقا حتّى
+> يردا عليَّ الحوض
 
 'I am leaving behind among you two most precious things - the Book of
 Allah and my descendants and Ahlul Bayt. If you keep hold of these two
@@ -2583,12 +2399,8 @@ the affairs) of the Muslims in Mecca but was not a ruler, in the same
 manner the Imams of Ahlul Bayt too are the [Arabic text] of the Muslims
 and God has commanded us in the verse
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***'O you who believe! obey Allah and obey the Apostle and those in
 authority from among you.' (Holy Quran, 4: 59)***
@@ -2918,12 +2730,8 @@ from Ahlul Bayt so that these differences are done away with and the
 true unity of the Muslims and their cling to the rope of Allah is
 achieved in its true sense!?
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَـذِهِ سَبِيلِي أَدْعُو إِلَى اللّهِ عَلَى بَصِيرَةٍ أَنَاْ
-وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللّهِ وَمَا أَنَاْ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> قُلْ هَـذِهِ سَبِيلِي أَدْعُو إِلَى اللّهِ عَلَى بَصِيرَةٍ أَنَاْ
+> وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللّهِ وَمَا أَنَاْ مِنَ الْمُشْرِكِينَ
 
 ***Say, "This is my way; I invite to Allah with insight, I and those who
 follow me. And exalted is Allah; and I am not of those who associate
@@ -3210,5 +3018,4 @@ reason that Imam Hassan (a.s.) was fond of his sayings. Refer to
 'Makarem-ul- Akhtag' of-Tabarsi: 11-23.
 
 [^94]: Makarem-al Akhlaq Tabarsi 11:23
-
 

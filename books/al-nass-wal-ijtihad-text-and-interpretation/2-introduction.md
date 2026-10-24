@@ -996,4 +996,3 @@ alive.
 
 [^31]: Wu’aadh as-Salateen, Ali al-Wardi, p.398.
 
-

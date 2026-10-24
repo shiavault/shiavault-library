@@ -192,4 +192,3 @@ Ghadir as a day of rejoicings. The conduct of all the Prophets had been
 to declare the day of appointment of their successors to be the day of
 rejoicings".
 
-

@@ -53,4 +53,3 @@ are people whose worship is true, their community, their society, will
 be safe, and that Allah's protection of them will be according to the
 extent of their tawakkul (dependence on Allah).
 
-

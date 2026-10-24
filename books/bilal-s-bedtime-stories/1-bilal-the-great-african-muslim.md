@@ -86,4 +86,3 @@ pay respect and salute him.
 [^1]: In some books the name of his father is given as “Riyah” and of
 his mother as “Jumana”.
 
-

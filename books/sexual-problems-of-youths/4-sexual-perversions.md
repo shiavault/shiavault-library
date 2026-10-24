@@ -814,4 +814,3 @@ themselves to commit such an immoral action.
 We are sure that if the afflicted youths observe the above instructions
 carefully just for a month, they will be relieved from this perversion.
 
-

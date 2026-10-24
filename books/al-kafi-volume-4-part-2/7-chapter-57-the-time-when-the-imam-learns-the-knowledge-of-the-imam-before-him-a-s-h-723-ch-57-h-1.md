@@ -25,7 +25,6 @@ Imam come to know that he has become the Imam and position is
 transferred to him?" The Imam (a.s.) replied, "At the last minute of the
 life of the preceding Imam (a.s.)."
 
-
 **Chapter 58 : The Imams (a.s.) are all Equal in Knowledge, Courage and
 Obedience H 726, Ch. 58, h 1**
 
@@ -61,7 +60,6 @@ al-Mughirah who has narrated the following from abu 'Abdallah (a.s.).
 "We in the matters of commands, understanding, lawful and unlawful all
 are alike and the same. However, the Messenger of Allah and Ali (a. s.)
 have their own virtue and excellence."
-
 
 **Chapter 59 : Each Imam knows the succeeding Imam (a.s.) The words of
 Allah, the Most High, "Allah commands you to deliver the trust to its
@@ -148,5 +146,4 @@ al-Barqi from Fudalah ibn Ayyub from Sulayman ibn Khalid from abu
 'Abdallah (a.s.) who has said the following. "No scholar (Imam) has ever
 died before Allah, the Most Holy, the Most High, would grant him the
 knowledge of to who must he deliver his will."
-
 

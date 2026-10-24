@@ -155,4 +155,3 @@ Ramadan 1423, November 2002
 
 [^1]: Muzaffar, pp. 76 & 77
 
-

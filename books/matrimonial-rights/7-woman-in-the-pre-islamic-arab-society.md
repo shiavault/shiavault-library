@@ -363,4 +363,3 @@ modern Muslim ones, most of whom call to primping up, casting away the
 Islamic traditions, and imitating the Western women in their showing off
 and dissoluteness, is!
 
-

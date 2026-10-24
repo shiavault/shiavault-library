@@ -202,4 +202,3 @@ his idea of beauty is obviously spiritual beauty.
 On another occasion we will judge between all these schools and we will
 review the views of Islam on this issue.
 
-

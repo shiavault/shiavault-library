@@ -306,4 +306,3 @@ Leibniz for attempts to solve the theological problem of evil.
 
 [^6]: p.276
 
-

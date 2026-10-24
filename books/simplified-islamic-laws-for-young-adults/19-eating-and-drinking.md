@@ -160,4 +160,3 @@ Issue 442: It is not necessary that the person who catches the fish be a
 Muslim nor is it necessary that the name of Allah is taken over the
 fish.
 
-

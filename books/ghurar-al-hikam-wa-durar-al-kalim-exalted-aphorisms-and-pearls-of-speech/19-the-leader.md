@@ -15,10 +15,5 @@ The Leader
 steadfast in the establishment of truth.
 
 > 3ـ يَحتاجُ الإمامُ إلى قَلْب عَقُول، ولِسان قَؤُول، وجَنان على إقامَةِ
-<blockquote dir="rtl">
-  <p>
-الحَقِّ صَؤُول.
-  </p>
-</blockquote>
-
+> الحَقِّ صَؤُول.
 

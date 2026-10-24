@@ -959,4 +959,3 @@ Muslims unwillingly.
 
 [^42]: Related to the progeny of Abu Talib.
 
-

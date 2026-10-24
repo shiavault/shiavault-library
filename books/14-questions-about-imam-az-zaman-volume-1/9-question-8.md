@@ -59,4 +59,3 @@ out his name and the name of his father .”[^2]
 
 [^2]: Mahdi al-Mau’d, ‘Ali Dawaani, p. 481
 
-

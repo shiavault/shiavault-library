@@ -245,4 +245,3 @@ Waleed came forward and said:
 "Othman, I am ready to take you again under my protection:" "But I have
 decided not to accept anyone's protection except that of God."
 
-

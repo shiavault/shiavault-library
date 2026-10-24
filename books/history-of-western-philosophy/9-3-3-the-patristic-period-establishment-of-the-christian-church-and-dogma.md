@@ -77,7 +77,6 @@ process is a purposive teleological whole, [^2] the process is
 predestined by God to bring about the redemption of some men and the
 destruction of others [but this does not preclude free will].
 
-
 **3.4 Scholastic period**
 
 The free roaming of the human mind within the framework of dogma in
@@ -98,7 +97,6 @@ Scotus and William of Occam.
 Problems of Scholasticism: [^1] Relation between faith and reason, [^2]
 relation between will and intellect, [^3] distinction between nature and
 grace, [^4] status of universals.
-
 
 **3.4.1 Formative Period the Schoolmen**
 
@@ -125,7 +123,6 @@ Anti-Scholastic tendencies are developing: mysticism, pantheism, natural
 science: John Fidanza [1221-1274], called St. Bonaventura, a mystic
 Roger Bacon [1214-1294]: science
 
-
 **3.4.3 Decline**
 
 John Duns Scotus [b. c. 1274-1310], opposition to St. Thomas.
@@ -143,5 +140,4 @@ Fourteenth Century Mysticism: the greatest figure in this movement is
 Meister Eckhart, a Dominican teacher who died in the prison of his order
 Leading to the modern period which begins with the renaissance and the
 [religious] reformation.
-
 

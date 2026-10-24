@@ -14,12 +14,8 @@ Before the above statement the Imam has said:
 
 “As for the cause of occultation, the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ
-تُبْدَ لَكُمْ تَسُؤْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ
+> تُبْدَ لَكُمْ تَسُؤْكُمْ
 
 ***“O you who believe! Do not put questions about things which if
 declared to you may trouble you…” (Qur’an, Surah Maidah 5:101)***
@@ -122,5 +118,4 @@ is an evidence of the possibilities that we have adopted.
 [^1]: Kamaluddin, Vol. 2, Pg. 485; Ihtijaaj, Vol. 2, Pg. 284
 
 [^2]: Kamaluddin, Vol. 2, Pg. 485; Biharul Anwar; Vol. 52, Pg. 92
-
 

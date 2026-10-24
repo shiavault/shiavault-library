@@ -710,4 +710,3 @@ from whom there will be no believing offspring.
 
 [^7]: Ithbat al-hudat, Vol. 7, p. 105
 
-

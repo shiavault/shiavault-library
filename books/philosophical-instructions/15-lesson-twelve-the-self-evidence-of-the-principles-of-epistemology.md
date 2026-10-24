@@ -254,4 +254,3 @@ are the basis of philosophical proofs do not admit of error at all, and
 the explanation of their infallibility will be presented in Chapter
 Lesson Nineteen.
 
-

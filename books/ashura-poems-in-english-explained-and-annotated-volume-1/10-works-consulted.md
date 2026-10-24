@@ -158,7 +158,6 @@ Tehrani, A. Sif?' al-Sud?r f? Sharh Ziarat al-??sh?r. 3rd ed. 2 vols.
 Ed. Sayyed Ali Movahhed Abtahi. Qom: Sayyed Ali Movahhed Abtahi, 1370
 Sh/1991.
 
-
 **[In Persian]**
 
 Al-Tusturi, J. Al-Khas?'is al-Husain?yya: Khas?'is al-Husain wa Maz?y?
@@ -179,7 +178,5 @@ much appreciate your effort. God bless you.
 
 His Grace Archbishop Sebouh Sarkissian, Primate of Tehran Diocese
 
-
 87
-
 

@@ -156,4 +156,3 @@ Fadl, the son of the Prophet's uncle Abbas.
 
 [^8]: al-Muhasin, page 313 and Seerah-i Halabi, page 348.
 
-

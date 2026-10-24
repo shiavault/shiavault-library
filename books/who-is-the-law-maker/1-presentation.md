@@ -3,13 +3,9 @@ Presentation
 
 ***In the name of Allah, the Beneficent, the Merciful***
 
-<blockquote dir="rtl">
-  <p>
-“وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا
-تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ
-وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ“
-  </p>
-</blockquote>
+> “وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا
+> تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ
+> وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ“
 
 ***[6:153] And (know) that this is My path, the right one therefore
 follow it, and follow not (other) ways, for they will lead you away from
@@ -38,32 +34,20 @@ Divine’s Call and Message.
 
 Allah, the Almighty has clearly mentioned in the holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-“وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا
-وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ “
-  </p>
-</blockquote>
+> “وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا
+> وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ “
 
 ***[20:124] And whoever turns away from My reminder, his shall be a
 straitened life, and We will raise him on the day of resurrection,
 blind.***
 
-<blockquote dir="rtl">
-  <p>
-“قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ وَقَدْ كُنْتُ بَصِيرًا “
-  </p>
-</blockquote>
+> “قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ وَقَدْ كُنْتُ بَصِيرًا “
 
 ***[20:125] He shall say: My Lord! why hast Thou raised me blind and I
 was a seeing one indeed?***
 
-<blockquote dir="rtl">
-  <p>
-“قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ
-الْيَوْمَ تُنْسَىٰ “
-  </p>
-</blockquote>
+> “قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ
+> الْيَوْمَ تُنْسَىٰ “
 
 ***[20:126] He will say: Even so, Our communications came to you but you
 neglected them; even thus shall you be forsaken this day.***
@@ -80,5 +64,4 @@ law-making and explain some of its dimensions as follows:
 4. Stages of the existence of Law.
 
 5. An Evaluation of Islamic Law and Secular Law.
-
 

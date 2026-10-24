@@ -100,4 +100,3 @@ succeed, for He is the best Guide and the best Artisan.
  18/6/1981  
  Tehran - Iran.
 
-

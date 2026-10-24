@@ -7,4 +7,3 @@ vowel, not Nunation.
 
 ** يا استاذ ُ!**   O, professor!
 
-

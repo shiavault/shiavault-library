@@ -323,4 +323,3 @@ have never seen or heard of anyone better than AbY al-.asan al-Ri+" and
 I have witnessed from him what I have not witnessed from any other . . .
 whoever claims to have seen the equal of him do not believe him!’276
 
-

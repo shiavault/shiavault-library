@@ -17,4 +17,3 @@ but alone the prayer has no effect.”
 The Arab bought the oil. Bahlool prayed for and blessed the camel. After
 a few days of massaging with oil, the camel became healthy.
 
-

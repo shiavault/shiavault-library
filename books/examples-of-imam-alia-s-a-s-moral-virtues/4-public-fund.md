@@ -124,4 +124,3 @@ saying, “O \`Ali! This is in lieu of your Dinar.” Then he was choked
 with tears saying, “Thanks Allah that I have not died to see in my
 daughter what (Prophet) Zachariah saw in (Saint) Mary.”[^20]
 
-

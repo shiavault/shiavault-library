@@ -83,8 +83,7 @@ jarh and ta’dil as this being out of scope here.
 Ibn Hajar says: Reasons of jarh are different, that can be restricted in
 five main things: Bid’ah (heresy), or contradiction, error, or ignorance
 of conditions, or claim of interruption in the sanad, as when claiming
-that the narrator was defrauding or giving mursal hadith. <span
-id="_anchor_635"></span>635
+that the narrator was defrauding or giving mursal hadith. 635
 
 ### Disagreement Regarding Jarh and Ta’dil:
 
@@ -111,10 +110,9 @@ another time
 without any isnad, as this was done out of his memory, due to the fact
 that most of the earlier men of knowledge were never writing down the
 traditions, and those who wrote down had done this only after hearing.
-<span id="_anchor_637"></span>637
+637
 
-Following are some samples of their disagreement, <span
-id="_anchor_638"></span>638 I cite just as examples not for the sake of
+Following are some samples of their disagreement, 638 I cite just as examples not for the sake of
 restriction, since this task requires a separate full book.
 
 1- Ahmad ibn Salih al-Misri, Abu Ja’far ibn al-Tabari, one of the
@@ -136,7 +134,7 @@ him Ahmad ibn Hanbal said: He had (reported) some munkar (disapproved)
 traditions.
 
 From him al-Bukhari singly reported the hadith: “Whoever contracts the
-enmity of a friend of mine…etc.”, <span id="_anchor_639"></span>639
+enmity of a friend of mine…etc.”, 639
 which was considered by the traditionists as one of the odd traditions
 reported by al-Bukhari. Some of the leaders of hadith deemed some of his
 rijal to be unreliable, with being charged with reporting from those
@@ -170,7 +168,7 @@ al-Sayyid Rashid Rida (may God’s mercy be upon him):
 opposite is proved , opens the door for defamation against ourselves, by
 discarding the proof (dalil), adopting its preliminaries in respect of
 taqlid (imitation), and contradicting the guidance of the holy Qur’an”.
-<span id="_anchor_640"></span>640
+640
 
 Al-Allamah never adopted their rule of jarh and ta’dil of rijal in its
 absoluteness, saying:
@@ -191,8 +189,7 @@ and interpreting his madhhab, with complementing, preserving and writing
 it
 
 down. His position to him was like that of the companions of Abu Hanifah
-and al-Shafi’i to both of them, as stated before. <span
-id="_anchor_641"></span>641
+and al-Shafi’i to both of them, as stated before. 641
 
 Al-Wazir al-Yamani, in al-Rawd al-basim, writes: Many of leaders of jarh
 and ta’dil hesitate in regard of the narrator, authenticating him once
@@ -207,7 +204,7 @@ authentication and deeming with weakness, and alike.
 To guard against wahm (misconception) is something infeasible, and
 infallibility (‘ismah) can never be trait of reliable narrators, but
 rather ismah never protects against wahm but only in propagation
-(tabligh). <span id="_anchor_642"></span>642 The Messenger of Allah (S)
+(tabligh). 642 The Messenger of Allah (S)
 has imagined that he performed some obligatory prayers in complete
 forms, when Dhu al-Yadayn said to him: O Messenger of Allah, have you
 broken the prayer or forgotten that? In the Sahih the hadith was thus:
@@ -216,8 +213,7 @@ said: May God’s mercy be on so and so, he reminded me of a verse I have
 forgotten. (This hadith was reported by Muslim).
 
 Also in the two Sahihs, it is reported from ‘A’ishah as saying about Ibn
-Umar: he has never lied but misconceived. <span
-id="_anchor_643"></span>643
+Umar: he has never lied but misconceived. 643
 
 Here is an example on this: Abu Ja’far al-Razi ‘Isa ibn Mahan, and it is
 said: Abd Allah ibn Mahan, about whom al-Dhahabi said: ‘He was of good
@@ -235,12 +231,12 @@ So there was uncertainty regarding his reliability, as knowing the limit
 of misconception with which the truthful should be forsaken, is
 something minute and assiduous about which there being two views for the
 memorizer, as there being two views by the faqih regarding the minute
-fiqhi issues. <span id="_anchor_644"></span>644 Al-Imam al-Shafi’i has
+fiqhi issues. 644 Al-Imam al-Shafi’i has
 abundantly narrated from Ibrahim ibn Abi Yahya al-Aslami, and
 authenticated him while being opposed by most of the traditionists in
 this regard. Ibn Abd al-Barr, in his Tamhid, said: All the traditionists
 unanimously concurred – except al-Shafi’i – concerning vilification
-(tajrih) of Ibn Yahya. <span id="_anchor_645"></span>645
+(tajrih) of Ibn Yahya. 645
 
 I give here another example: Muhammad ibn Ishaq, the greatest historian
 in the field of first episodes of Islam. Qatadah said: People are still
@@ -248,8 +244,7 @@ in knowledge as long as Muhammad ibn Ishaq is living among them. About
 him al-Nasa’i said: He was not so strong. Sufyan said: I have never
 heard anyone accusing Muhammad ibn Ishaq (with weakness). But
 al-Daraqutni said: Neither him nor his father can be taken as (reliable)
-authority. Malik said about him: I give witness that he is a liar. <span
-id="_anchor_646"></span>646
+authority. Malik said about him: I give witness that he is a liar. 646
 
 ### Jarh Precedes Ta’dil:
 
@@ -259,7 +254,7 @@ narrator tells of his apparent condition, while the jarih tells of a
 hidden reality about the mu‘addal. So if the number of the moderated
 being more than others, then priority would be given to ta’dil, while
 the correct notion held by all the jumhur (Ahl al-Sunnah) being: the
-jarh should be given priority. <span id="_anchor_647"></span>647
+jarh should be given priority. 647
 
 The philosopher Ibn Khaldun, when discussing the reason compelling some
 of the narrators to reduce number of their narrations, said:
@@ -271,8 +266,7 @@ defects
 intercepting his way, particularly the majority giving priority to jarh.
 Hence ijtihad would lead him to abandon adopting such interceptors
 befalling the traditions and ways of asanid. On multiplicity of this,
-his riwayah would become less due to the weakness in the turuq. <span
-id="_anchor_648"></span>648
+his riwayah would become less due to the weakness in the turuq. 648
 
 ### A General Word
 
@@ -292,8 +286,7 @@ recognized but only by Knower of Hidden things. There may be some man of
 good looking and appearance, but when divulging his inner intention we
 would be aware of his bad true state, the fact regarding which no one
 can doubt. About it several investigating ulama’, like mujtahid of Yemen
-al-Wazir al-Yamani who said in al-Rawd al-basim: <span
-id="_anchor_649"></span>649
+al-Wazir al-Yamani who said in al-Rawd al-basim: 649
 
 There is unanimity among ulama’ on considering the exterior not the
 interior, and anyone whose hypocrisy appeared and infidelity was proved,
@@ -313,7 +306,7 @@ the townspeople of al-Madinah (there are some who) persist in hypocrisy
 whom thou (O Muhammad) knowest not. We, We know them, and We shall
 chastise them twice; then they will be relegated to a painful doom.”
 
-Dr. Taha Husayn, in a valuable word <span id="_anchor_650"></span>650
+Dr. Taha Husayn, in a valuable word 650
 with which he reviewed my book Adwa’, indicating the efforts exerted by
 men of jarh and ta’dil, said:
 

@@ -205,4 +205,3 @@ them killed by their own people and then assumed a state of mourning and
 sought to revenge their blood, just as he sought to give the impression
 that he was avenging the killing of the third caliph.
 
-

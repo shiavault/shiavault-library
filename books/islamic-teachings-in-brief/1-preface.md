@@ -31,7 +31,6 @@ guided.
 
 (Qur'an, 16:125)
 
-
 Ansariyan Publications
 P.O.B 37185/187 QUM
 Islamic Republic Of Iran
@@ -161,7 +160,6 @@ books, aimed at pursuing such a mission. This book and a few others in
 this connection can prove advantageous to everyone and can fulfil the
 responsibility of theological centres and Islamic theologians.
 
-
 Al-Hawzatul-'Ilmiyyah, Qum
 
 \* Abu Nasr al-Farabi was a great Muslim philosopher, who was born in
@@ -169,7 +167,6 @@ Al-Hawzatul-'Ilmiyyah, Qum
 A.H.
 
 \*\* "Al-Haya'", 3rd edition, vol. 1, p 146.
-
 
 **RELIGION**
 
@@ -213,7 +210,6 @@ Therefore, religion is divided into three parts:
 
 This brief account should be elaborated to be acceptable to the
 honourable readers.
-
 
 **1. BELIEFS**
 
@@ -276,5 +272,4 @@ ethical, and some others practical. As mentioned before, acceptance and
 performance of these principles is the only means of happiness and
 prosperity, for we are aware that man should be nothing but realistic
 and should live with good ethics and praiseworthy deeds.
-
 

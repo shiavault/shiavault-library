@@ -1116,4 +1116,3 @@ are two sacred spots in the grand mosque of Mecca.
 
 [^61]: Yanabi' al-mawadda, Vol. 2, p. 197.
 
-

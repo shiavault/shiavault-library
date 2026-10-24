@@ -62,4 +62,3 @@ necessary that he/she has performed Hajj before. People such as servants
 of a caravan or alike who know from the beginning that they cannot meet
 Mash’ar voluntarily cannot accept to be a proxy.
 
-

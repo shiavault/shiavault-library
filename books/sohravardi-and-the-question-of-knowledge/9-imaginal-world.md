@@ -59,4 +59,3 @@ the light according to their proximity to its source.
 Human beings, through the wisdom and obedience, can ascend from the dark
 world of nature up towards the worlds of light.
 
-

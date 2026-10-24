@@ -497,4 +497,3 @@ Shaykh Toosi (a.r.); Mikyaal al-Makaarem, vol. 1, p. 213.)
 [^65]: (Muntakhab al-Asar, p. 469; Al-Malaahem waal-Fetan, p. 149; E'qd
 al-Dorar, p. 96.)
 
-

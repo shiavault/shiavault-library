@@ -400,4 +400,3 @@ one party while the other party is not there. Both parties should be
 treated with the same hospitality, without showing the slightest
 inclination towards any one of them.”’
 
-

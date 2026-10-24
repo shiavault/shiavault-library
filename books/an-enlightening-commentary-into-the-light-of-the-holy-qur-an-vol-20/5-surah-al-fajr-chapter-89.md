@@ -8,11 +8,7 @@ Surah al-Fajr, Chapter 89
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -79,43 +75,19 @@ self-perfection.
 Surah Fajr, Verses 1-5
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالْفَجْرِ
-  </p>
-</blockquote>
+> وَالْفَجْرِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَيَالٍ عَشْرٍ
-  </p>
-</blockquote>
+> وَلَيَالٍ عَشْرٍ
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّفْعِ وَالْوَتْرِ
-  </p>
-</blockquote>
+> وَالشَّفْعِ وَالْوَتْرِ
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذَا يَسْرِ
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذَا يَسْرِ
 
-<blockquote dir="rtl">
-  <p>
-هَلْ فِي ذَلِكَ قَسَمٌ لِّذِي حِجْرٍ
-  </p>
-</blockquote>
+> هَلْ فِي ذَلِكَ قَسَمٌ لِّذِي حِجْرٍ
 
 ***1. “By the Break of Dawn,"***  
 ***2. “And the Ten Nights;"***  
@@ -411,59 +383,23 @@ what they are for can be made clear.
 Surah Fajr, Verses 6-14
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
 
-<blockquote dir="rtl">
-  <p>
-إِرَمَ ذَاتِ الْعِمَادِ
-  </p>
-</blockquote>
+> إِرَمَ ذَاتِ الْعِمَادِ
 
-<blockquote dir="rtl">
-  <p>
-الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
-  </p>
-</blockquote>
+> الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
 
-<blockquote dir="rtl">
-  <p>
-وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ
-  </p>
-</blockquote>
+> وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ
 
-<blockquote dir="rtl">
-  <p>
-وَفِرْعَوْنَ ذِي الْأَوْتَادِ
-  </p>
-</blockquote>
+> وَفِرْعَوْنَ ذِي الْأَوْتَادِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ طَغَوْا فِي الْبِلَادِ
-  </p>
-</blockquote>
+> الَّذِينَ طَغَوْا فِي الْبِلَادِ
 
-<blockquote dir="rtl">
-  <p>
-فَأَكْثَرُوا فِيهَا الْفَسَادَ
-  </p>
-</blockquote>
+> فَأَكْثَرُوا فِيهَا الْفَسَادَ
 
-<blockquote dir="rtl">
-  <p>
-فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
-  </p>
-</blockquote>
+> فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
 
 ***6. “Have you not seen how your Lord dealt with the 'Ad
 (people),"***  
@@ -810,43 +746,19 @@ protection from it, not even death...”*[^19]
 Surah Fajr, Verses 15-20
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ
-وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ
-  </p>
-</blockquote>
+> فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ
+> وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ
-رَبِّي أَهَانَنِ
-  </p>
-</blockquote>
+> وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ
+> رَبِّي أَهَانَنِ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا بَل لَّا تُكْرِمُونَ الْيَتِيمَ
-  </p>
-</blockquote>
+> كَلَّا بَل لَّا تُكْرِمُونَ الْيَتِيمَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحَاضُّونَ عَلَى طَعَامِ الْمِسْكِينِ
-  </p>
-</blockquote>
+> وَلَا تَحَاضُّونَ عَلَى طَعَامِ الْمِسْكِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا
-  </p>
-</blockquote>
+> وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا
 
-<blockquote dir="rtl">
-  <p>
-وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
-  </p>
-</blockquote>
+> وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
 
 ***15. 'And as for man, whenever his Lord tries him and honours him, and
 blesses him, he says, 'My Lord has honoured me'.”***  
@@ -1054,42 +966,18 @@ reason.
 Surah Fajr, Verses 21-26
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
-  </p>
-</blockquote>
+> كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
 
-<blockquote dir="rtl">
-  <p>
-وَجَاء رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
-  </p>
-</blockquote>
+> وَجَاء رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
 
-<blockquote dir="rtl">
-  <p>
-وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ
-وَأَنَّى لَهُ الذِّكْرَى
-  </p>
-</blockquote>
+> وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ
+> وَأَنَّى لَهُ الذِّكْرَى
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي
-  </p>
-</blockquote>
+> يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي
 
-<blockquote dir="rtl">
-  <p>
-فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ
-  </p>
-</blockquote>
+> فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
-  </p>
-</blockquote>
+> وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
 
 ***21. “Nay! When the earth if crushed with crushing upon
 crushing,”***  
@@ -1300,29 +1188,13 @@ themselves should be tightly bound and chastised.
 Surah Fajr, Verses 27-30
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
 
-<blockquote dir="rtl">
-  <p>
-ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
-  </p>
-</blockquote>
+> ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
 
-<blockquote dir="rtl">
-  <p>
-فَادْخُلِي فِي عِبَادِي
-  </p>
-</blockquote>
+> فَادْخُلِي فِي عِبَادِي
 
-<blockquote dir="rtl">
-  <p>
-وَادْخُلِي جَنَّتِي
-  </p>
-</blockquote>
+> وَادْخُلِي جَنَّتِي
 
 ***27. “(It will be said to some) O, you serene soul!"***  
 ***28. “Come back to your Lord well-pleased (with Him) and well-pleasing
@@ -1530,5 +1402,4 @@ in Durr-al-Manthur; al-Mizan, vol. 20, p. 415.)
 
 [^25]: al-Kafi, vol. 3, Chapter: Believers and the Departure of the
 Soul, Tradition 2.
-
 

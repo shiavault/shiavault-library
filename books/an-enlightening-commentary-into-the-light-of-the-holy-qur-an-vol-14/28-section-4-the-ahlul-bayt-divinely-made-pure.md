@@ -6,13 +6,9 @@ Section 4: The Ahlul Bayt Divinely Made Pure
 Surah Al-’Ahzab – Verse 28
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا النَّبِيُّ قُل لاَزْوَاجِكَ إِن كُنتُنَّ تُرِدْنَ
-الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ اُمَتّـِعْكُنَّ
-وَاُسَرّ‌ِحْكُنَّ سَرَاحاً جَمِيلاً
-  </p>
-</blockquote>
+> يَآ أَيُّهَا النَّبِيُّ قُل لاَزْوَاجِكَ إِن كُنتُنَّ تُرِدْنَ
+> الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ اُمَتّـِعْكُنَّ
+> وَاُسَرّ‌ِحْكُنَّ سَرَاحاً جَمِيلاً
 
 ***28. “O Prophet! Say to your wives: ‘If you desire the life of this
 world and its adornment, then come, I will provide you enjoyment and set
@@ -86,12 +82,8 @@ particularly to the book Jawahir, Vol. 29, P. 122.
 Surah Al-’Ahzab – Verse 29
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاِن كُنتُنَ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الأَخِرَةَ
-فَاِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْراً عَظِيماً
-  </p>
-</blockquote>
+> وَاِن كُنتُنَ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الأَخِرَةَ
+> فَاِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْراً عَظِيماً
 
 ***29. “And if you desire Allah and His Messenger and the abode of
 Hereafter, then verily Allah has prepared for the doers of good among
@@ -139,13 +131,9 @@ people.
 Surah Al-’Ahzab – Verse 30
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا نِسَآءَ النَّبِيّ‌ِ مَن يَأْتِ مِنكُنَّ بِفَاحِشَةٍ مُّبَيّـِنَةٍ
-يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ وَكَانَ ذَلِكَ عَلَي اللَّهِ
-يَسِيرًا
-  </p>
-</blockquote>
+> يَا نِسَآءَ النَّبِيّ‌ِ مَن يَأْتِ مِنكُنَّ بِفَاحِشَةٍ مُّبَيّـِنَةٍ
+> يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ وَكَانَ ذَلِكَ عَلَي اللَّهِ
+> يَسِيرًا
 
 ***30. “O wives of the Prophet! Whoever of you commits an open
 indecency, the punishment for her will be doubled, and that is easy for
@@ -236,12 +224,8 @@ worship of Jinn and human beings.”*[^4]
 Surah Al-’Ahzab – Verse 31
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحاً
-نُؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقاً كَرِيمًا
-  </p>
-</blockquote>
+> وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحاً
+> نُؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقاً كَرِيمًا
 
 ***31. “And whoever of you (women) is obedient to Allah and His
 Messenger, and does righteousness, to her shall We grant her reward
@@ -277,13 +261,9 @@ of all these merits.
 Surah Al-’Ahzab – Verse 32
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ نِسَآءَ النَّبِيّ‌ِ لَسْتُنَّ كَأَحَدٍ مِنَ النّـِسَآءِ إِنِ
-اتَّقَيْتُنَّ فَلاَ تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي
-قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلاً مَعْرُوفاً
-  </p>
-</blockquote>
+> يَآ نِسَآءَ النَّبِيّ‌ِ لَسْتُنَّ كَأَحَدٍ مِنَ النّـِسَآءِ إِنِ
+> اتَّقَيْتُنَّ فَلاَ تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي
+> قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلاً مَعْرُوفاً
 
 ***32. “O wives of the Prophet! You are not like any of the (other)
 women if you are in awe of Allah, then be not soft in speech lest he in
@@ -359,14 +339,10 @@ behaviour with stimulation.
 Surah Al-’Ahzab – Verse 33
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَرْنَ فِي بُيُوتِكُنَّ وَلاَ تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
-الأُولَي وَأَقِمْنَ الصَّلاَةَ وَءَاتِينَ الزَّكَاةَ وَأَطِعْنَ
-اللَّهَ وَرَسُولَهُ اِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ
-الرّ‌ِجْسَ أَهْلَ الْبَيْتِ وَيُطَهّـِرَكُمْ تَطْهِيراً
-  </p>
-</blockquote>
+> وَقَرْنَ فِي بُيُوتِكُنَّ وَلاَ تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
+> الأُولَي وَأَقِمْنَ الصَّلاَةَ وَءَاتِينَ الزَّكَاةَ وَأَطِعْنَ
+> اللَّهَ وَرَسُولَهُ اِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ
+> الرّ‌ِجْسَ أَهْلَ الْبَيْتِ وَيُطَهّـِرَكُمْ تَطْهِيراً
 
 ***33. “And stay in your abodes and do not display your finery, like the
 former times of Ignorance, and establish the prayer, and pay the
@@ -521,12 +497,8 @@ persons.[^8]
 Surah Al-’Ahzab – Verse 34
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْنَ مَا يُتْلَي فِي بُيُوتِكُنَّ مِنْ ءَايَاتِ اللَّهِ
-وَالْحِكْمَةِ اِنَّ اللَّهَ كَانَ لَطِيفاً خَبِيراً
-  </p>
-</blockquote>
+> وَاذْكُرْنَ مَا يُتْلَي فِي بُيُوتِكُنَّ مِنْ ءَايَاتِ اللَّهِ
+> وَالْحِكْمَةِ اِنَّ اللَّهَ كَانَ لَطِيفاً خَبِيراً
 
 ***34. “And remember what is recited in your abodes of the signs of
 Allah and the Wisdom; verily Allah is All-Subtle, Aware.”***
@@ -988,5 +960,4 @@ At-Taubah, No. 9, verse 125; Al-’An‘am, No. 6, verse 145
 [^16]: Vol. 2 of Ihqaq-ul-Haqq and its footnotes
 
 [^17]: You may refer to Shawahid-ut-Tanzil, P. 10 to P. 92
-
 

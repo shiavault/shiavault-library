@@ -123,4 +123,3 @@ witnesses asserting that they had heard it from the Pro­phet (‘s)?
 
 [^5]: Manahiul Irfan, p.324
 
-

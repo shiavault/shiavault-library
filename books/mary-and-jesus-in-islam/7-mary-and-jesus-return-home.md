@@ -51,4 +51,3 @@ mark of distinction of men of God. The only medicine he applied to the
 patients who had a full conviction in him and in his Lord was his
 supplication.
 
-

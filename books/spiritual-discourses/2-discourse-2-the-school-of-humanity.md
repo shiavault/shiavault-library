@@ -385,4 +385,3 @@ and the universe; that is, it believes in God Almighty. That is why
 Islam is the only humanistic school that has for its foundation proper
 logic and there exists no other such school in the world.
 
-

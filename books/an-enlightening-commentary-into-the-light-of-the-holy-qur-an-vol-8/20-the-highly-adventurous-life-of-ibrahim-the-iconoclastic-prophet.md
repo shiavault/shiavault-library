@@ -557,4 +557,3 @@ shown by Him. [^21]
 
 [^21]: Surah ‘Al-i-‘Imran, No. 3, verse 67
 
-

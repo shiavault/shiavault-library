@@ -22,4 +22,3 @@ regards to number and gender except if the second person *kāf* is added
 to it, in which case they become conjugational, for example**:علیکَ**
 **و** **علیکِ.**
 
-

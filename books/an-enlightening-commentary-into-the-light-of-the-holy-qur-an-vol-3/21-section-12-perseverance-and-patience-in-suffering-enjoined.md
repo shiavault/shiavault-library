@@ -8,14 +8,10 @@ of trials and turning their backs upon their heels.
 Surah 'Ali-Imran, Verse 144
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
-أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَى أَعْقَابِكُمْ وَمَن
-يَنقَلِبْ عَلَىَ عَقِبَيْهِ فَلَن يَضُرَّ اللّهَ شَيْئًا وَسَيَجْزِي
-اللّهُ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> وَمَا مُحَمَّدٌ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
+> أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَى أَعْقَابِكُمْ وَمَن
+> يَنقَلِبْ عَلَىَ عَقِبَيْهِ فَلَن يَضُرَّ اللّهَ شَيْئًا وَسَيَجْزِي
+> اللّهُ الشَّاكِرِينَ
 
 **144.** ***"And Muhammad is not but only a messenger before whom
 messengers have already passed away. Therefore, if he dies or be killed,
@@ -73,13 +69,9 @@ gratitude, the reward of which is with *Allah.*
 Surah 'Ali-Imran, Verse 145
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلاَّ بِإِذْنِ الله كِتَابًا
-مُّؤَجَّلاً وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن
-يُرِدْ ثَوَابَ الآخِرَةِ نُؤْتِهِ مِنْهَا وَسَنَجْزِي الشَّاكِرِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلاَّ بِإِذْنِ الله كِتَابًا
+> مُّؤَجَّلاً وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن
+> يُرِدْ ثَوَابَ الآخِرَةِ نُؤْتِهِ مِنْهَا وَسَنَجْزِي الشَّاكِرِينَ
 
 **145.** ***"And it is not for anyone to die but by Allah's leave at a
 term appointed; and whoever desires the reward of this world, We give
@@ -123,13 +115,9 @@ Another time again, it emphasizes that:
 Surah 'Ali-Imran, Verse 146
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَأَيِّن مِّن نَّبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا
-وَهَنُواْ لِمَا أَصَابَهُمْ فِي سَبِيلِ اللّهِ وَمَا ضَعُفُواْ وَمَا
-اسْتَكَانُواْ وَاللّهُ يُحِبُّ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَكَأَيِّن مِّن نَّبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا
+> وَهَنُواْ لِمَا أَصَابَهُمْ فِي سَبِيلِ اللّهِ وَمَا ضَعُفُواْ وَمَا
+> اسْتَكَانُواْ وَاللّهُ يُحِبُّ الصَّابِرِينَ
 
 **146.** ***"And how many a prophet there has been with whom were many
 Godly men fought; so they did not falter despite what afflicted them in
@@ -156,13 +144,9 @@ perseverance-
 Surah 'Ali-Imran, Verse 147
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ قَوْلَهُمْ إِلاَّ أَن قَالُواْ ربَّنَا اغْفِرْ لَنَا
-ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا
-وانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ قَوْلَهُمْ إِلاَّ أَن قَالُواْ ربَّنَا اغْفِرْ لَنَا
+> ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا
+> وانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 
 **147.** ***"And their statement was nothing but that they said: ' Our
 Lord! Forgive us our sins and our prodigality in our affair and make our
@@ -181,12 +165,8 @@ firm and help us against the disbelieving folk '."***
 Surah 'Ali-Imran, Verse 148
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَآتَاهُمُ اللّهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الآخِرَةِ
-وَاللّهُ يُحِبُّ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> فَآتَاهُمُ اللّهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الآخِرَةِ
+> وَاللّهُ يُحِبُّ الْمُحْسِنِينَ
 
 **148.** ***"So Allah gave them the reward of the world and the goodness
 of the reward of the Hereafter; and Allah loves the doers of good."***
@@ -203,5 +183,4 @@ Then, at the end of the verse, the Qur'an has counted them among the
 good doers, and says:
 
 ***"... and Allah loves the doers of good."***
-
 

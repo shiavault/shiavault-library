@@ -70,4 +70,3 @@ become the religion of selfish people.
 
 [^6]: Pg. 132
 
-

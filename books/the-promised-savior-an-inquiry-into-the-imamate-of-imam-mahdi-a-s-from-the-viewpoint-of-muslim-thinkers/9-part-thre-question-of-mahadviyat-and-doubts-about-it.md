@@ -217,12 +217,10 @@ His life and imamate are useful, for Allah does not do anything useless.
 Let's now study some of these traditions. Based on a tradition, Jabir
 bin Abdullah Ansari says: When this verse was revealed:
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
 الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ
 فَرُدُّوهُ إِلَى اللّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللّهِ
 وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
-</p>
 
 O you who believe! obey Allah and obey the Apostle and those in
 authority from among you; then if you quarrel about anything, refer it
@@ -235,7 +233,6 @@ obedience. Who are they?
 
 The Holy Prophet (s) said:
 
-<p dir="rtl">
 هُمْ‏ خُلَفَائِي‏ يَا جَابِرُ وَ أَئِمَّةُ الْمُسْلِمِينَ مِنْ بَعْدِي
 أَوَّلُهُمْ عَلِيُّ بْنُ أَبِي طَالِبٍ ثُمَّ الْحَسَنُ وَ الْحُسَيْنُ
 ثُمَّ عَلِيُّ بْنُ الْحُسَيْنِ ثُمَّ مُحَمَّدُ بْنُ عَلِيٍّ الْمَعْرُوفُ
@@ -249,7 +246,6 @@ The Holy Prophet (s) said:
 مَغَارِبَهَا ذَاكَ الَّذِي يَغِيبُ عَنْ شِيعَتِهِ وَ أَوْلِيَائِهِ
 غَيْبَةً لَا يَثْبُتُ فِيهَا عَلَى الْقَوْلِ بِإِمَامَتِهِ إِلَّا مَنِ
 امْتَحَنَ اللَّهُ قَلْبَهُ لِلْإِيمَانِ.
-</p>
 
 O Jabir, they are my successors and leaders of Muslims after me. The
 first of them is \`Ali ibn Abi-Talib, then Hasan and Husayn, then \`Ali
@@ -268,13 +264,11 @@ his occultation?
 
 Prophet said:
 
-<p dir="rtl">
 إِي وَ الَّذِي بَعَثَنِي بِالنُّبُوَّةِ إِنَّهُمْ يَسْتَضِيئُونَ
 بِنُورِهِ وَ يَنْتَفِعُونَ بِوَلَايَتِهِ فِي غَيْبَتِهِ كَانْتِفَاعِ
 النَّاسِ بِالشَّمْسِ وَ إِنْ تَجَلَّلَهَا سَحَابٌ يَا جَابِرُ هَذَا مِنْ
 مَكْنُونِ سِرِّ اللَّهِ وَ مَخْزُونِ عِلْمِهِ فَاكْتُمْهُ إِلَّا عَنْ
 أَهْلِهِ
-</p>
 
 Yes. By Allah who appointed me as a Messenger they will benefit from the
 rays of the light of his imamate during his occultation. [He will be
@@ -754,5 +748,4 @@ His Messenger's rights, and the rights of Prophet's household and help
 us do our duties.
 
 Peace and blessing be upon Muhammad and his pure progeny
-
 

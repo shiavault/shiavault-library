@@ -11,4 +11,3 @@ The Sword And The Steed
 
 > 2ـ قَدْ يَنْبُو الحُسامُ.
 
-

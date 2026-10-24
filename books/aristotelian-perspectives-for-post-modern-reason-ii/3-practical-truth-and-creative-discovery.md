@@ -279,4 +279,3 @@ to*heal-putting-over-the-patient-here-and-now-the-blanket-in-the-cupboard*
 these exterior to each other, but movement is differentiated desire,
 incubated by means of intellectual deliberation.
 
-

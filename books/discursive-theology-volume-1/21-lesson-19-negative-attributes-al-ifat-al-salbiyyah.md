@@ -18,11 +18,7 @@ Meanwhile, all defects and deficiencies are derived from contingence
 the Negative Attributes originate from a single negation and that is the
 negation of contingence and indigence. As Ḥakīm Sabziwārī has said, [^1]
 
-<blockquote dir="rtl">
-  <p>
-وَوَصفُهُ السَّلبي، سَلبُ السَّلبِ جا في سَلبِ الإحتِياجِ كَلّا أدرَجا
-  </p>
-</blockquote>
+> وَوَصفُهُ السَّلبي، سَلبُ السَّلبِ جا في سَلبِ الإحتِياجِ كَلّا أدرَجا
 
 On this basis, when we negate some attributes from God, the point is
 their defect and deficiency, and not their perfection and excellence.
@@ -75,11 +71,7 @@ aspect of unity (*waḥdah*) and reality (*ḥaqīqah*) of existence and he
 pays no more attention to the aspect of multiplicity (*kathrah*), and in
 the words of Sa‘dī,[^3]
 
-<blockquote dir="rtl">
-  <p>
-همه هر چه هستند از آن كمترند كه با ﻫﺴﺘﻲاش نام هستي برند
-  </p>
-</blockquote>
+> همه هر چه هستند از آن كمترند كه با ﻫﺴﺘﻲاش نام هستي برند
 
 4. Direction (*jahat*). Direction refers to a point which can be
 physically indicated, and a being which has direction has a body or is
@@ -135,12 +127,8 @@ indicated in the sayings of mystics (*‘urafā’*). For example, when Imām
 worship God whom I have not seen?” Then, in explaining what he meant by
 seeing, the Imām (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لاتُدْرِكُهُ العُيونُ بِمُشاهَدَةِ الْعِيانِ، وَلَكِنْ تُدْرِكُهُ
-القُلوبُ بِحَقائِقِ الإيمانِ.
-  </p>
-</blockquote>
+> لاتُدْرِكُهُ العُيونُ بِمُشاهَدَةِ الْعِيانِ، وَلَكِنْ تُدْرِكُهُ
+> القُلوبُ بِحَقائِقِ الإيمانِ.
 
 That is to say that He cannot be comprehended by the eyes by seeing Him
 but through the hearts by the truths of faith.[^5]
@@ -175,12 +163,8 @@ properties of a body.
 Third proof: The Holy Qur’an has also regardred seeing God as
 impossible, saying thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَّ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ
-اللَّطِيفُ الْخَبِيرُ ﴾
-  </p>
-</blockquote>
+> ﴿ لاَّ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ
+> اللَّطِيفُ الْخَبِيرُ ﴾
 
 ***“The sights do not comprehend Him, yet He apprehends the sights, and
 He is the All-attentive, the All-aware.”***[^6]
@@ -198,12 +182,8 @@ is that it is possible to see God and that it will take place on the Day
 of Resurrection. In order to establish the possibility of *ru’yah*, they
 have cited two points from verse 143 of *Sūrat al-A‘rāf*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَمَّا جَاءَ مُوسَى لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ
-أَرِنِي أَنْظُرْ إِلَيْكَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَمَّا جَاءَ مُوسَى لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ
+> أَرِنِي أَنْظُرْ إِلَيْكَ ﴾
 
 *“When Moses arrived at Our tryst and his Lord spoke to him, he said,
 ‘My Lord, show [Yourself] to me, that I may look at You.’”*[^7]
@@ -225,20 +205,12 @@ was futile.[^8]
 The following expression by Khwājah Nāsīr al-Dīn al-Ṭūsī[^9] represents
 the same answer:
 
-<blockquote dir="rtl">
-  <p>
-وَسُؤال موسى لِقَومِهِ.
-  </p>
-</blockquote>
+> وَسُؤال موسى لِقَومِهِ.
 
 “And the question of Moses was meant for his community.”[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ لَنْ تَرَانِي وَلَكِنِ انْظُرْ إِلَى الْجَبَلِ فَإِنِ
-اسْتَقَرَّ مَكَانَهُ فَسَوْفَ تَرَانِي ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ لَنْ تَرَانِي وَلَكِنِ انْظُرْ إِلَى الْجَبَلِ فَإِنِ
+> اسْتَقَرَّ مَكَانَهُ فَسَوْفَ تَرَانِي ﴾
 
 *“He said, ‘You shall not see Me. But look at the mountain: if it abides
 in its place, then you will see Me.’”*[^11]
@@ -255,12 +227,8 @@ it. Instead, what happened was that because of God’s manifestation in
 it, it leveled off and Prophet Mūsā (*‘a*) fell down swooning, as the
 continuation of the verse thus reveals:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلَمَّا تَجَلَّى رَبُّهُ لِلْجَبَلِ جَعَلَهُ دَكًّا وَخَرَّ مُوسَى
-صَعِقًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَلَمَّا تَجَلَّى رَبُّهُ لِلْجَبَلِ جَعَلَهُ دَكًّا وَخَرَّ مُوسَى
+> صَعِقًا ﴾
 
 *“So when his Lord disclosed Himself to the mountain, He leveled it, and
 Moses fell down swooning.”*[^12]
@@ -268,12 +236,8 @@ Moses fell down swooning.”*[^12]
 The following expression by Khwājah Nāsīr al-Dīn al-Ṭūsī represents the
 said answer:
 
-<blockquote dir="rtl">
-  <p>
-وَتَعْليقُ الرُّؤيَةِ بِاسْتِقْرارِ المُتَحَرِّكِ لا يَدُلُّ عَلَى
-الْإمْكانِ.
-  </p>
-</blockquote>
+> وَتَعْليقُ الرُّؤيَةِ بِاسْتِقْرارِ المُتَحَرِّكِ لا يَدُلُّ عَلَى
+> الْإمْكانِ.
 
 “And attaching *ru’yah* (seeing God) to the abiding of something that
 moves (in that state) does not imply the possibility of *ru’yāh*.”[^13]
@@ -283,11 +247,7 @@ moves (in that state) does not imply the possibility of *ru’yāh*.”[^13]
 Those who subscribe to the possibility of the faithful to see God on the
 Day of Judgment have cited this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ ٭ إِلَى رَبِّهَا نَاظِرَةٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ ٭ إِلَى رَبِّهَا نَاظِرَةٌ ﴾
 
 *“Some faces will be fresh on that day, looking at their Lord.”*[^14]
 
@@ -308,22 +268,14 @@ he is expecting help or a reward from him.
 they expect for the reward and recompense from their Lord, just as the
 word *ahl* (people) is implied in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاسْأَلِ الْقَرْيَةَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاسْأَلِ الْقَرْيَةَ ﴾
 
 *“Ask [the people of] the town.”*[^16]
 
 The following expression by Muḥaqqiq al-Ṭūsī represents the said reply:
 [^17]
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّظَرُ لا يَدُلُّ عَلَى الرُّؤْيَةِ مَعَ قَبولِهِ التَّأْويلَ.
-  </p>
-</blockquote>
+> وَالنَّظَرُ لا يَدُلُّ عَلَى الرُّؤْيَةِ مَعَ قَبولِهِ التَّأْويلَ.
 
 On this basis, the traditions which the Ahl al-Sunnah have narrated from
 the prophets (*‘a*) concerning the possibility of the faithful seeing
@@ -427,5 +379,4 @@ al-taqlīd (religious authority). [Trans.]
 [^17]: Kashf al-Murād, station (maqṣad) 3, chap. 2, issue 20.
 
 [^18]: Sūrat al-A‘rāf 7:143.
-
 

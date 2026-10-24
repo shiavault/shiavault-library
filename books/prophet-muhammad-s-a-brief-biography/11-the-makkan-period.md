@@ -290,4 +290,3 @@ Prophet Muhammad (S) as they had rejected and betrayed Prophet Jesus (a)
 [^1]: Bayt-ul-Muqaddis or simply Al-Quds in today's Zionist occupied
 Jerusalem.
 
-

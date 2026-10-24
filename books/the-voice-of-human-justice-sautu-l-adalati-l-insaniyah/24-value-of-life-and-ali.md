@@ -290,4 +290,3 @@ world hereafter. As regards the celestial law it is necessary that the
 Prophet should enforce it through inspiration and the people should obey
 it as an article of faith.
 
-

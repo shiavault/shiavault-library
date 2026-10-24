@@ -76,4 +76,3 @@ of the *Reality,* and in particular, that of the innocent, lovely young
 people living under the subduing and often misleading influence of
 Western culture.
 
-

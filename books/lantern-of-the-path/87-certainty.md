@@ -32,16 +32,11 @@ words,
 
 >
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ بِأَفْوَاهِهِم مَّا لَيْسَ فِي قُلُوبِهِمْ وَاللّهُ
-أَعْلَمُ بِمَا يَكْتُمُونَ
-  </p>
-</blockquote>
+> يَقُولُونَ بِأَفْوَاهِهِم مَّا لَيْسَ فِي قُلُوبِهِمْ وَاللّهُ
+> أَعْلَمُ بِمَا يَكْتُمُونَ
 
 ***They say with their mouths what is not in their hearts; and Allah
 best knows what they conceal.*** (3:167)
-
 
 Allah was compassionate to His bondsmen when He gave them permission to
 earn money however they might as long as they do not exceed the limits
@@ -60,5 +55,4 @@ heart trusts in Allah. If he has a lot of money, he is like a trustee
 who knows that having property and not having it is the same thing. If
 he withholds it, he withholds for Allah; and if he spends it, he does so
 in the way Allah has commanded. Both are for Allah.
-
 

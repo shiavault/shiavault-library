@@ -14,11 +14,7 @@ heretical follow.
 First, based on rational reasoning, God alone is the Creator and thus
 all causality springs from Him; the Qur’an avers,
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُ خَالِقُ كُلِّ شَيْءٍ.…
-  </p>
-</blockquote>
+> قُلِ اللَّهُ خَالِقُ كُلِّ شَيْءٍ.…
 
 ***“…God is the Creator of all things…”***[^1]
 
@@ -33,12 +29,8 @@ constitute polytheism.
 
 Second, God says in His Book:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***“Your Lord has said, ‘Call Me, and I will reply to you.’ Indeed those
 who are disdainful of My worship will enter Hell in utter
@@ -58,21 +50,13 @@ groups held polytheistic beliefs.
 Fourth, according to the following two verses, only God has knowledge of
 the Unseen:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَعْلَمُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا
-اللَّهُ …
-  </p>
-</blockquote>
+> لَا يَعْلَمُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا
+> اللَّهُ …
 
 ***“…No one in the heavens or the earth knows the Unseen except
 God…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ
-  </p>
-</blockquote>
+> وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ
 
 ***"With Him are the keys of the Unseen…”***[^4]
 
@@ -84,12 +68,8 @@ the Imams, as they are dead, is, in addition to being a form of
 polytheism, useless. This argument is further strengthened by
 considering this verse:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ
-قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ
-  </p>
-</blockquote>
+> يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ
+> قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ
 
 ***“The day God will gather the prophets and say, ‘What was the response
 to you?’ They will say, ‘We have no knowledge. Indeed You are Knower of
@@ -154,20 +134,12 @@ principle of causality but at the same time makes clear that
 independence in agency is solely God’s. There are many verses to this
 effect; two examples follow:
 
-<blockquote dir="rtl">
-  <p>
-قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُ.
-  </p>
-</blockquote>
+> قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُ.
 
 ***“Make war on them so that God may punish them by your hands…”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-. . . تُعْجِبْكَ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ ۚ إِنَّمَا يُرِيدُ
-اللَّهُ لِيُعَذِّبَهُمْ…
-  </p>
-</blockquote>
+> . . . تُعْجِبْكَ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ ۚ إِنَّمَا يُرِيدُ
+> اللَّهُ لِيُعَذِّبَهُمْ…
 
 ***“…God only desires to punish them by means of [their wealth and
 children]…”***[^8]
@@ -181,12 +153,8 @@ One way is invoking a creature with the intention that it is independent
 in agency, and the other is invoking it as a medium. Accordingly, the
 verse in question
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 **(*****“Your Lord has said, ‘Call Me, and I will reply to you.’ Indeed
 those who are disdainful of My worship will enter Hell in utter
@@ -213,12 +181,8 @@ the Imams is useless, not that it is polytheistic.
 
 Furthermore, there are verses that explicitly talk of “means”:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
-الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
+> الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“O you who have faith! Be wary of God, and seek the means of recourse
 to Him, and struggle in His way so that you may be felicitous.”***[^10]
@@ -257,22 +221,14 @@ them.
 The following verses bring to light the error in the polytheistic
 conception:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا ۚ
-  </p>
-</blockquote>
+> لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا ۚ
 
 ***“Had there been gods in [the heavens and the earth] other than God,
 they [i.e., the heavens and the earth] would have surely fallen
 apart…”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَذَهَبَ كُلُّ إِلَٰهٍ بِمَا
-خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ
-  </p>
-</blockquote>
+> وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَذَهَبَ كُلُّ إِلَٰهٍ بِمَا
+> خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ
 
 ***“…neither is there any god besides Him, for then each god would take
 away what he created, and some of them would surely rise up against
@@ -299,11 +255,7 @@ in the hope that their gods would influence God and that only in regard
 to mundane affairs, for they do not believe in the doctrine of
 Resurrection. (It is in this context that the verse,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ
 
 ***“…Who is it that may intercede with Him except with His
 permission…”***[^14]
@@ -330,11 +282,7 @@ the deities. Common idol-worshippers, however, worship the idols
 themselves, as opposed to the deities they are supposed to represent. It
 is in condemnation of this vulgarized polytheism that the Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
-  </p>
-</blockquote>
+> قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
 
 ***“…Do you worship what you have yourselves carved?”***[^15]**)**
 
@@ -352,20 +300,12 @@ This, however, is incorrect. Christians and Jews are unbelievers on
 account of rejecting Prophet Muhammad’s ministry, not for polytheism.
 The following verse ascertains this:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ
-  </p>
-</blockquote>
+> أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ
 
 ***“Those who disbelieve in God and His prophets and seek to separate
 God from His prophets, and say, ‘We believe in some and disbelieve in
@@ -376,28 +316,16 @@ In addition to denying Muhammad’s ministry, they were also guilty for
 their absolute obedience to their priests and for believing in a son for
 God:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ عُزَيْرٌ ابْنُ اللَّهِ وَقَالَتِ النَّصَارَى
-الْمَسِيحُ ابْنُ اللَّهِ ۖ ذَٰلِكَ قَوْلُهُمْ بِأَفْوَاهِهِمْ ۖ
-يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِنْ قَبْلُ ۚ قَاتَلَهُمُ
-اللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ عُزَيْرٌ ابْنُ اللَّهِ وَقَالَتِ النَّصَارَى
+> الْمَسِيحُ ابْنُ اللَّهِ ۖ ذَٰلِكَ قَوْلُهُمْ بِأَفْوَاهِهِمْ ۖ
+> يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِنْ قَبْلُ ۚ قَاتَلَهُمُ
+> اللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ اللَّهِ
-وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا
-  </p>
-</blockquote>
+> اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ اللَّهِ
+> وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا
 
-<blockquote dir="rtl">
-  <p>
-أُمِرُوا إِلَّا لِيَعْبُدُوا إِلَٰهًا وَاحِدًا ۖ لَا إِلَٰهَ إِلَّا
-هُوَ ۚ سُبْحَانَهُ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> أُمِرُوا إِلَّا لِيَعْبُدُوا إِلَٰهًا وَاحِدًا ۖ لَا إِلَٰهَ إِلَّا
+> هُوَ ۚ سُبْحَانَهُ عَمَّا يُشْرِكُونَ
 
 ***“The Jews say, ‘Ezra is the son of God,’ and the Christians say,
 ‘Christ is the son of God.’ That is an opinion that they mouth,
@@ -428,17 +356,9 @@ aware of and can interfere in what happens in this world is invalid:
 they are dead and for the dead, this world is “unseen.” An examination
 of the Qur’an, however, would disprove this line of argument:
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ
-  </p>
-</blockquote>
+> إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ
 
 ***“[God is the] Knower of the Unseen; He does not disclose His Unseen
 to anyone, except to an apostle He approves of…”***[^18]
@@ -450,12 +370,8 @@ that corroborates this view is that the Qur’anic verses that appear to
 deny the Prophet’s knowledge of the Unseen make an exception in the case
 of Revelation:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا كُنْتُ بِدْعًا مِنَ الرُّسُلِ وَمَا أَدْرِي مَا يُفْعَلُ بِي
-وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ
-  </p>
-</blockquote>
+> قُلْ مَا كُنْتُ بِدْعًا مِنَ الرُّسُلِ وَمَا أَدْرِي مَا يُفْعَلُ بِي
+> وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ
 
 ***“Say, ‘I am not an exception among the prophets, nor do I know what
 will be done with me or with you. I just follow whatever is revealed to
@@ -464,12 +380,8 @@ me…’”***[^19]
 In *Surah Ibrahim*, the Qur’an narrates the answer that some prophets
 gave when their people denied that they held any special status:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ لَهُمْ رُسُلُهُمْ إِنْ نَحْنُ إِلَّا بَشَرٌ مِثْلُكُمْ
-وَلَٰكِنَّ اللَّهَ يَمُنُّ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ
-  </p>
-</blockquote>
+> قَالَتْ لَهُمْ رُسُلُهُمْ إِنْ نَحْنُ إِلَّا بَشَرٌ مِثْلُكُمْ
+> وَلَٰكِنَّ اللَّهَ يَمُنُّ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ
 
 ***“The prophets said to them, ‘Indeed we are just human beings like
 yourselves; but God favors whomever of His servants that He
@@ -479,12 +391,8 @@ But the verse that very explicitly affirms knowledge of the Unseen for
 God’s prophets is the following, which quotes the words of Jesus
 addressing his people:
 
-<blockquote dir="rtl">
-  <p>
-وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ ۚ
-إِنَّ فِي ذَٰلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ ۚ
+> إِنَّ فِي ذَٰلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
 
 ***“…I will tell you what you have eaten and what you have stored in
 your houses. There is indeed a sign in that for you…”***[^21]
@@ -492,13 +400,9 @@ your houses. There is indeed a sign in that for you…”***[^21]
 There is another verse in which Jesus announces the coming of Prophet
 Muhammad:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ
-التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ
-أَحْمَدُ ۖ
-  </p>
-</blockquote>
+> إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ
+> التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ
+> أَحْمَدُ ۖ
 
 ***“I am the prophet of God to you…to give the good news of a prophet
 who will come after me, whose name is Ahmad…”***[^22]
@@ -517,12 +421,8 @@ substantiate this account.
 There is, however, one verse that on the surface seems to pose a
 problem:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ
-قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ
-  </p>
-</blockquote>
+> يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ
+> قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ
 
 ***“The day God will gather the prophets and say, ‘What was the response
 to you?’ They will say, ‘We have no knowledge. Indeed You are Knower of
@@ -540,37 +440,21 @@ of the deeds. But this cannot be, for the Qur’an asserts that the
 prophets do possess knowledge of their people’s deeds; God’s prophets
 witness their people’s conduct:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ ۖ
-  </p>
-</blockquote>
+> كُنْتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ ۖ
 
 ***“I [Jesus] was a witness to them so long as I was among
 them.”***[^24]
 
-<blockquote dir="rtl">
-  <p>
-وَيَتَّخِذَ مِنْكُمْ شُهَدَاءَ
-  </p>
-</blockquote>
+> وَيَتَّخِذَ مِنْكُمْ شُهَدَاءَ
 
 ***“…That He may take witnesses from among you…”***[^25]
 
-<blockquote dir="rtl">
-  <p>
-وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ
-  </p>
-</blockquote>
+> وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ
 
 ***“…And the prophets and the witnesses will be brought…”***[^26]
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الْأَشْهَادُ هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ
-ۚ
-  </p>
-</blockquote>
+> وَيَقُولُ الْأَشْهَادُ هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ
+> ۚ
 
 ***“…And the witnesses will say, “It is these who lied against their
 Lord…”***[^27]
@@ -588,12 +472,8 @@ Tombs of holy personages are symbols [*sha‘a’ir*] that remind us of God.
 Thus, to honor them is in essence to honor what they symbolize, namely
 God. Referring to the Prophet, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-…فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
-النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> …فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا
+> النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ
 
 ***“…those who believe in him, honor him, and help him, and follow the
 light that has been sent down with him, they are the
@@ -601,11 +481,7 @@ felicitous.”***[^28]
 
 And more generally concerning all Divine symbols, it states:
 
-<blockquote dir="rtl">
-  <p>
-…مَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ
-  </p>
-</blockquote>
+> …مَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ
 
 ***“…whoever venerates the symbols of God—indeed that arises from the
 God wariness of hearts.”***[^29]
@@ -692,5 +568,4 @@ else for that matter) independently of God. [trans.]
 [^28]: Surah al-A‘raf 7:157.
 
 [^29]: Surah al-Hajj 22:32.
-
 

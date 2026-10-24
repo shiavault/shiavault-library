@@ -108,4 +108,3 @@ gains.
 **Ninth and Tenth** are to love the Holy Prophet, his daughter Fatimah
 and the Twelve Imams; and to remain aloof from their enemies.
 
-

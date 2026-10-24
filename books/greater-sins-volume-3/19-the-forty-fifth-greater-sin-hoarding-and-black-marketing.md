@@ -53,4 +53,3 @@ sell the food grains to the needy people.
 
 [^5]: Mustadrak ul-Wasa’il
 
-

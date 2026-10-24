@@ -77,4 +77,3 @@ cooperation in Islam. Islam prohibits cooperation for wrongdoings (i.e.
 aggression) but prescribe cooperation for virtue (good things)
 (Hamidullah 1970).
 
-

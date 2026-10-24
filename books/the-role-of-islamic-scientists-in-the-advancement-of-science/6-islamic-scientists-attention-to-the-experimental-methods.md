@@ -172,4 +172,3 @@ Arabic month of Zil-Qadah) in the year 125 A.H.
 [^1]: A mixture of nitric and hydrochloric acid that dissolves gold or
 platinum.
 
-

@@ -84,4 +84,3 @@ had been chasing me. He said:
 
 [^3]: A kharwar equals about 300 kilograms.
 
-

@@ -9,10 +9,7 @@ they should follow one of the Subjunctive particles, such as    .  **لکي
 ، کيلا ، لـِ ، أن ، لـَن ، حتـَّی ، کي ** Note the purpose expressed in
 the following sentence:
 
-<p dir="rtl">
 **ذهبتُ إلی المکتبَةِ لأدرُسَ هُناكَ .**
-</p>
 
 I went to the library so that I would study there.
-
 

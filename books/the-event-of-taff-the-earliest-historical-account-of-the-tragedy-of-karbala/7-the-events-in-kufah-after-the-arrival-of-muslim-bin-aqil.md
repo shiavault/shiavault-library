@@ -2465,4 +2465,3 @@ in the year 60 H. Al-Isfahani quotes these verses ascribed to Ibn
 al-Zubair al-Asadi from al-Madaini who narrated them on the authority of
 Abu Mikhnaf from Yusuf bin Yazid.
 
-

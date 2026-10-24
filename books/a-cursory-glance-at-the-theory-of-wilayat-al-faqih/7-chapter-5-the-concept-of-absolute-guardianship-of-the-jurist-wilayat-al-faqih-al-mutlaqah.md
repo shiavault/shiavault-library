@@ -998,4 +998,3 @@ short period beginning with the assumption of Āyatullāh Sayyid ‘Alī
 Khāmene’ī to the office of wilāyah al-faqīh in early June 1989 up to the
 demise of Āyatullāh Arākī on November 29, 1994. [Trans.]
 
-

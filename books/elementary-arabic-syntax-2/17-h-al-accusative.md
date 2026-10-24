@@ -49,4 +49,3 @@ noun. For example: **جاء** **الغلامُ یَرکُضُ** (The servant cam
 مِن دِیارِهِم وَ هُم أُلُفٌ** (They left their homes while they were in
 thousands.)
 
-

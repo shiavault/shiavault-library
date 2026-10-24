@@ -886,4 +886,3 @@ al-Halabiyyah, 3:454.
 
 [^190] Ibn Sa\`d, Al-tabaqat al-Kubra, 2:237-239.
 
-

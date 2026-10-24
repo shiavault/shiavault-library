@@ -396,4 +396,3 @@ at them, Heidegger and Kant - two varyingly different philosophers -
 often meet, through the sense of pain in relation to a sublime threshold
 and in being-towards-death as a mark of Dasein’s finite existence.
 
-

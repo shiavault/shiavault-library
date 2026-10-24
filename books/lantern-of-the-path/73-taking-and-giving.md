@@ -22,4 +22,3 @@ extorted, and says, 'There is no harm in this: it is permissible for
 me.' Here the matter is clear, and he takes it by the judgement of
 Almighty Allah and spends it in His pleasure.
 
-

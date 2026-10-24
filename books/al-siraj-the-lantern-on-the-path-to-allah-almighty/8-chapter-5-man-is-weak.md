@@ -282,4 +282,3 @@ on His slave than Him?.’ (Dal’ail al-Imamah, p. 198). This is an obvious
 fact for particular people, that is, a servant suffers a pain greater
 than anything physical when his Lord turns away from him.
 
-

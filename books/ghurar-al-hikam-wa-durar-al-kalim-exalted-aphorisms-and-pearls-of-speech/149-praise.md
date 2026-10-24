@@ -11,14 +11,9 @@ Praise
 Allah, the Glorified, makes it the key for more [blessings].
 
 > 2ـ مَنْ جَعَلَ الْحَمْدَ خِتامَ النِّعْمَةِ جَعَلَهُ اللّهُ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-مِفْتاحَ المَزِيدِ.
-  </p>
-</blockquote>
+> مِفْتاحَ المَزِيدِ.
 
 3. Whoever praises Allah, He makes him free from want.
 
 > 3ـ مَنْ حَمِدَ اللّهَ أغْناهُ.
-
 

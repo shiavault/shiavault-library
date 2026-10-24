@@ -535,4 +535,3 @@ And when the Shah had thus spoken he dismissed Byzun from his presence.
 
 Thus endeth the history of Byzun and Manijeh.
 
-

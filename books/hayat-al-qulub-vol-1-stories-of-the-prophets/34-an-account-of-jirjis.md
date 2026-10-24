@@ -101,4 +101,3 @@ who want to please you in every hardship. In short, they decapitated
 Jirjis. When they came back to the city, they were hit by Divine
 chastisement and got killed en masse.
 
-

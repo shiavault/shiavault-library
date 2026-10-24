@@ -93,4 +93,3 @@ Returning from Mena should be after the Azan of noon in the twelfth day,
 but those who depart there in the thirteenth day can return before Azan
 of noon.
 
-

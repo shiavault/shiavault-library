@@ -161,7 +161,6 @@ is also sometimes used to mean sinking into water, it is understood
 froni this phrase that the rumour of such a calumny spread so much that
 it also enveloped all believers.
 
-
 **Commentary : Verse 15.16.17.18**
 
 15. إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَا
@@ -345,5 +344,4 @@ of man's faults are caused by his tongue' ."[^4]
 13. The Prophet (p.b.u.h.) said: "Muslim is the one from whose tongue
 and hand people are saved, and believer is the one to whom people can
 entrust their blood and properties."[^5]
-
 

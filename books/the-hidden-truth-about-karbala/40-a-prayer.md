@@ -10,4 +10,3 @@ A Prayer
 *and in the hereafter, proximity to the Ma’sumeen (infallible ones)
 peace be on them.*
 
-

@@ -105,11 +105,7 @@ word:
 
 • Those that are in the nominative case:
 
-<blockquote dir="rtl">
-  <p>
-ت ا و ن ی
-  </p>
-</blockquote>
+> ت ا و ن ی
 
 For example: **قُمتُ قَامَا قَامُوا قُمنَ قُومی** (stand *female*, women
 stood, men stood, two men stood, I stood)
@@ -125,5 +121,4 @@ rebuking him)
 
 • Those that can be in any case, which is the **نا,** for example:
 **رَبّنا ﺇنَنا سَمِعنا** (O' Our lord! Verily we hear.)
-
 

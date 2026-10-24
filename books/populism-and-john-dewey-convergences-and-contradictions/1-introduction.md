@@ -98,4 +98,3 @@ power.  I conclude by suggesting how populism, challenging domination by
 experts outside civic life, can recast the way we think about the period
 from now until the 2008 election and the meaning of that election.
 
-

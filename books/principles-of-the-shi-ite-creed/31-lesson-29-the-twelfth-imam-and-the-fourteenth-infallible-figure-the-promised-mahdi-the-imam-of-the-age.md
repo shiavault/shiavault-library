@@ -149,4 +149,3 @@ boundless power and through miraculous means. As the poet has written,
 
 *He will be able to keep a proof alive.*
 
-

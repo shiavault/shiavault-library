@@ -638,4 +638,3 @@ allegiance to whom, no act of worship is acceptable to Allah (S.w.T.).
 
 [^14]: al-Kāfi Vol. 4 page 248
 
-

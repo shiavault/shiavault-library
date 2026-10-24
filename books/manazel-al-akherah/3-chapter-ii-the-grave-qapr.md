@@ -102,10 +102,8 @@ Rak'at after Surah-al-Hamd recite twice Surah-at-Tawheed, and in the
 second Rak'at after Surah-al-Hamd recite ten times Surah-at-Takasur.
 After finishing the Namaz recite the following dua:
 
-<p dir="rtl">
 اَللّهُمَّ صَلِّ على مُحَمَّدٍ وآلِ مُحَمَّدٍ وابْعَثَ ثَوابَها اِلى
 قَبْرِ ذِلِكَ المَيِّتِ فُلان بن فُلان
-</p>
 
 (here take the name of the dead man)
 
@@ -120,10 +118,8 @@ Surah-al-Hamd recite once Ayatal Kursi, and in the second Rak'at after
 Surah-al-Hamd recite ten times surah-al-Qadr. After finishing Namaz
 say:
 
-<p dir="rtl">
 َللّهُمَّ صَلِّ على مُحَمَّدٍ وآلِ مُحَمَّدٍ وابْعَثَ ثَوابَها اِلى
 قَبْرِ فُلانا
-</p>
 
 (here take the name of the deceased person).
 
@@ -148,9 +144,7 @@ Mohammad-al-Baqir (A.S.) says, that a person reciting entire recitation
 of Ruku' in Namaz will be saved from the fear of the grave. And one who
 recites.
 
-<p dir="rtl">
 لا إلهَ إلاّ اللهُ المَلِكُ الحَقُّ المُبينُ
-</p>
 
 100 times daily, will be saved from anxiety in the grave, will become
 properous, and the doors of Paradise will be opened for him. It is also
@@ -166,28 +160,20 @@ twelve Rak'at Namaz (in si sets of two units) as under:
 In every Rak'at after Surah-al-Hamd recite three times Surah-al-Qadr
 and twelve times Surah-an-Naas. After Salaam recite seventy times:
 
-<p dir="rtl">
 اَللّهُمَّ صَلِّ على مُحَمَّدٍ النَّبيِّ الأمِّي وَعلى آلِهِ
-</p>
 
 Then go into prostration (Sajdah) and say seventy times:
 
-<p dir="rtl">
 سُبُّوحٌ قُدُّوسٌ رَبَّ المَلائِكَةِ والرُّوحِ
-</p>
 
 Then sit erect and say seventy times:
 
-<p dir="rtl">
 رَبِّ اغْفِرْ وَارْحَمْ وَتَجاوَزْ عَمَّا تَعْلَمُ إنَّكَ أنْتَ
 العَليُّ الأعْظَمُ
-</p>
 
 Then again go into Sajdah and say seventy times:
 
-<p dir="rtl">
 سُبُّوحٌ قُدُّوسٌ رَبَّ المَلائِكَةِ والرُّوحِ
-</p>
 
 It has been related that a person who fasts for twelve days in the
 month of Sha'ban, Allah will send seventy thousand Angels daily to his
@@ -219,20 +205,16 @@ Ja'far-as-Sadiq (A.S.) used to get up daily in the middle of the night
 and call out in a loud voice so that everyone in the house could hear,
 and would say:
 
-<p dir="rtl">
 اللّهُمَّ أعِنِّي عَلى حَوْلِ المُطَّلَعِ وَوَسِّعْ على ضِيقِ
 المَضْجَعِ وَارْزُقْني ما قَبلَ المَوتِ وارْزُقني خَيرَ ما بَعدَ
 المَوتِ
-</p>
 
 One of his (A.S.)'s Supplication (Du'a) is also stated:
 
-<p dir="rtl">
 اللّهُمَّ بَارِكْ لي في المَوتِ اللّهُمَّ أعِنّي على سَكَراتِ المَوتِ
 اللّهُمَّ أعِنّي على غَمِّ القَبْرِ اللّهُمَّ أعِنّي على ضَيْقِ القَبْرِ
 اللّهُمَّ أعِنّي على وَحْشَةِ القَبْرِ اللّهُمَّ زَوِّجْني مَنَ الحُورِ
 العِينِ
-</p>
 
 Reasons for the Squeeze in the Grave
 
@@ -343,10 +325,8 @@ Allamah Qutubuddin Rawandi that, when a person is being buried and
 someone recites this supplication (du'a) thrice, the corpse will remain
 safe from the punishment in the grave till the day of Qayamat:
 
-<p dir="rtl">
 اللّهُمَّ إنّي أسأَلُكَ بِحَقِّ مُحَمَّدٍ وآلِ مُحَمَّدٍ أنْ لا
 تُعذِّبَ هذا المَيِّت
-</p>
 
 (14) Shaikh Toosi in his ‘Misbahul Mutahajjid’ relates the Holy Prophet
 (S.A.W.S.) as saying that, if a person recites the following two Rak'at
@@ -376,10 +356,8 @@ in the shroud (kafan), or to rub it on the parts of prostration
 (17) It is narrated from Imam Ja'far-as-Sadiq (A.S.) in “Anware
 No'maniyah” that if forty persons gather near the body and recite:
 
-<p dir="rtl">
 اللّهُمَّ إنّا لا نَعْلَمُ مِنْهُ إلاّ خَيراً وأنْتَ أعْلَمُ بِهِ مِنّا
 فَاغْفِرْ لَهُ
-</p>
 
 Allah will safeguard the dead man from the punishment in the grave.
 
@@ -389,10 +367,8 @@ Dawood (A.S.) that he was a hypocrite (riyakar). When he died, Hazrat
 Dawood refrained from attending his funeral. But forty other people
 attended his funeral and said:
 
-<p dir="rtl">
 اللّهُمَّ إنّا لا نَعْلَمُ مِنْهُ إلاّ خَيراً وأنْتَ أعْلَمُ بِهِ مِنّا
 فَاغْفِرْ لَهُ
-</p>
 
 Then another forty came and repeated the same, for they were not aware
 of the hidden reality. Allah then revealed to Dawood (A.S.) and asked

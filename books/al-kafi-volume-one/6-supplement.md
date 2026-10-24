@@ -146,4 +146,3 @@ axis on which every thing revolves, it is on the reason that all the
 argument rests. All divine rewards and punishments are in accordance
 with it. (It is Allah that grants the favour of reason.)
 
-

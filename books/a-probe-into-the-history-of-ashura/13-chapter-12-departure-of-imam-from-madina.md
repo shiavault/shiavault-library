@@ -121,4 +121,3 @@ They were not prepared to support the Imam who was going to die and meet
 martyrdom, who was to be deprived of water, and whose companions were
 one day going to die the honorable death of martyrs.
 
-

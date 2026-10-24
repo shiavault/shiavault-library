@@ -130,4 +130,3 @@ about this, for example, respecting a religious scholar is like
 respecting the Messenger of Allah (S) just like mistreating a religious
 scholar is like mistreating the Messenger of Allah (S).
 
-

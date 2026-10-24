@@ -514,4 +514,3 @@ Lahab's hatred of Muhammad and Islam was shared by his wife, Umm Jameel.
 Both of them were the recipients of the curse of God in Al-Qur’an
 al-Majid (chapter 111).
 
-

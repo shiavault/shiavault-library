@@ -51,4 +51,3 @@ p. 148.)
 [^8]: (Behaar al-Anwaar, vol. 52, p. 392; Mikyaal al-Makaarem, vol. 1,
 p. 148.)
 
-

@@ -281,4 +281,3 @@ clean animals by draining the blood.
 There is a healthy limitation of sacrifice, and recognition of the heart
 condition of the worshiper as of primary impor­tance.
 
-

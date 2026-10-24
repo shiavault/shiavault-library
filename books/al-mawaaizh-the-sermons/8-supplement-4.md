@@ -23,7 +23,6 @@ fabricated lies and you will be discriminated from them. Do not let
 mistrust of Allah overcome you, for it will spoil every conciliation
 between your friends and you.
 
-<p dir="rtl">
 ذكّ بالأدب قلبك كما يذكّى النار بالحطب، فنعم العون الأدب للخيرة التجارب
 لذوي اللّبّ، اُضمم آراء الرجال بعضها إلى بعض ثمّ اختر أقربها إلى الثواب
 وأبعدها من الارتياب. يا بنيّ، لا شرف أعلى من الإسلام ولا كرم أغنى من
@@ -32,7 +31,6 @@ between your friends and you.
 للفاقة من الرضا بالقوت. ومن اقتصر على بلغة الكفاف فقد انتظم الراحة
 وتبوّأ خفض الدعة. الحرص داع إلى التقحّم في الذنوب، ألق عنك واردات الهموم
 بعزائم الصبر.
-</p>
 
 Kindle your heart with good manners like fire when kindled with wood,
 for good manners are the best support to the charitable people and
@@ -50,19 +48,15 @@ will have rest before others and will find himself a place in the
 tranquil life. Acquisitiveness is the key to the plunging into sins.
 Repeal the incoming grieves by means of the resolutions of patience.
 
-<p dir="rtl">
 عوّد نفسك الصبر فنعم الخلق الصبر، وحملها على ما أصابك من أهوال الدنيا
 وهمومها. فاز الفائزون ونجا الّذين سبقت لهم من الله الحسنى، فإنّه جنّة من
 الفاقة، والجئ نفسك في الاُمور كلّها إلى الله الواحد القهّار فانّك تلجئها
 إلى كهف حصين، وحرز حريز، ومانع عزيز، واخلص المسألة لربّك فإنّ بيده الخير
 والشرّ، والإعطاء والمنع، والصلّة والحرمان.
-</p>
 
-<p dir="rtl">
 وقال عليه السلام في هذه الوصّية: يا بنيّ، الرزّق رزقان ; رزق تطلبه ورزق
 يطلبك، فإن لم تأته أتاك، فلا تحمل همّ سنتك على همّ يومك، وكفاك كلّ يوم
 ما هو فيه.
-</p>
 
 Accustom yourself to steadfastness, for it is the best of moralities
 and make yourself stand the worldly horrors and griefs that befall you.
@@ -81,7 +75,6 @@ that which seeks you and will come to you even if you do not approach
 it. Do not apply the care of your year on the care of your day, for
 every new day will cover all your needs (of that day).
 
-<p dir="rtl">
 فإن تكن السنة من عمرك فإنّ الله عزّ وجلّ سيأتيك في كلِّ غد بجديده ما
 قسّم لك. فإن لم تكن السنة من عمرك فما تصنع بغمّ وهمّ ما ليس لك. واعلم
 أنّه لم يسبقك إلى رزقك طالب، ولن يغلبك عليه غالب، ولن يحتجب عنك ما قدّر
@@ -89,7 +82,6 @@ every new day will cover all your needs (of that day).
 ساعدته المقادير، وكل مقرون به الفناء. اليوم لك وأنت من بلوغ غد على غير
 يقين، ولربّ مستقبل يوماً ليس بمستدبره، ومغبوط في أوّل ليلة قام في آخرها
 بواكيه.
-</p>
 
 If that year is decided to be within your age, Allah will take to you
 all that which is decided for you every new day. If it is not, what is
@@ -108,7 +100,6 @@ day cannot see its end and it often happens that an individual who is
 happy in the first hours of a night will shed tears in the last hours
 (of the same night).
 
-<p dir="rtl">
 فلا يغرنّك من الله طول حلول النعم، وإبطاء موارد النقم فانّه لو خشى
 الفوت عاجل بالعقوبة قبل الموت. يا بنيّ، أقبل من الحكماء مواعظهم، وتدبّر
 أحكامهم. وكن آخذ الناس بما تأمر به، وأكفّ الناس عمّا تنهى عنه، وأمر
@@ -116,7 +107,6 @@ happy in the first hours of a night will shed tears in the last hours
 بالمعروف والنهي عن المنكر، وتفقّه في الدين فإنّ العلماء ورثة الأنبياء.
 إنَّ الأنبياء لم يورثّوا ديناراً ولا درهماً ولكنّهم ورّثوا العلم، فمن
 أخذ منه أخذ بحظّ وافر.
-</p>
 
 Do not be deceived by the long term of Allah's showering of graces and
 the postponement of His punishments, for He would have anticipated the
@@ -132,7 +122,6 @@ the prophets. The prophets did not bequeath dinars and dirhams, but they
 bequeathed knowledge. He who acquires knowledge is surely acquiring
 great goodness.
 
-<p dir="rtl">
 واعلم أنَّ طالب العلم يستغفر له من في السّماوات والأرض حتّى الطير في
 جوّ السماء والحوت في البحر، وإنّ الملائكة لتضع أجنحتها لطالب العلم رضى
 به وفيه شرف الدّنيا والفوز بالجنّة يوم القيامة، لأنّ الفقهاء هم الدعاة
@@ -141,7 +130,6 @@ great goodness.
 غيرك. أحسن مع جميع النّاس خلقك حتّى إذا غبت عنهم حنّوا إليك، وإذا متّ
 بكوا عليك وقالوا: إنّا لله وإنّا إليه راجعون، ولا تكن من الذّين يقال عند
 موته: الحمد لله ربّ العالمين.
-</p>
 
 You should also know that all those who are in the heavens and the
 earth, including the birds in the sky and whales in the oceans, are
@@ -160,7 +148,6 @@ weep for you and say, 'We all are Allah's and to Him we will return,'
 be one of those about whom people say, 'All praise is due to Allah the
 Lord of the worlds,' when they depart this life.
 
-<p dir="rtl">
 واعلم انَّ رأس العقل بعد الإيمان بالله عزّ وجلّ مداراة الناس، ولا خير
 فيمن لا يعاشر بالمعروف مَن لا بدّ مِن معاشرته حتى يجعل الله إلى الخلاص
 منه سبيلا، فإنّي وجدت جميع ما يتعايش به الناس وبه يتعاشرون ملء مكيال،
@@ -169,7 +156,6 @@ Lord of the worlds,' when they depart this life.
 الكلام في وثاقك ما لم تتكلّم به فإذا تكلمت به صرت في وثاقه. فاخزن لسانك
 كما تخزن ذهبك وورقك، فإنَّ اللّسان كلب عقور بأن أنت خليته عقر، وربّ كلمة
 سلبت نعمة.
-</p>
 
 You should also know that compliance with people's moods is the head of
 intelligence after believing in Allah, Powerful and Majestic is He.
@@ -189,7 +175,6 @@ is as same as a mordacious dog; if you give free rein to it, it will
 bite others. It happens that a single word causes the removal of a
 grace.
 
-<p dir="rtl">
 من سيّب عذاره قاده إلى كلّ كريهة وفضيحة، ثمّ لم يخلّص من وهده إلاّ على
 مقت من الله عزّ وجلّ، وذمّ من النّاس. قد خاطر بنفسه من استغنى برأيه، ومن
 استقبل وجوه الآراء عرف مواقع الخطأ، من توّرط في الامور غير ناظر في
@@ -197,7 +182,6 @@ grace.
 والعاقل من وعظه التجارب وفي التّجارب علم مستأنف، وفي تقلب الأحوال عرف
 جواهر الرجال، الأيّام تهتك لك عن السرائر الكامنة. فافهم وصيّتي هذه ولا
 تذهبنَّ عنك صفحاً، فإنّ خير القول ما نفع.
-</p>
 
 He who gives full rein to his tongue will be driven to every item of
 misfortune and scandal. Then, he will not get rid of such consequences
@@ -214,7 +198,6 @@ men is realized in the vicissitudes of time. Days show you the hidden
 secrets. You therefore should understand my commandment and avoid
 neglecting it. In fact, the best wording is the most useful.
 
-<p dir="rtl">
 اعلم يا بنيّ، إنّه لابدّ لك من حسن الإرتياد، وبلاغك من الزّاد ومع خفّة
 الظهر فلا تحمل على ظهرك فوق طاقتك فيكون عليك ثقيلاً في حشرك ونشرك في
 القيامة، فبئس الزاد إلى المعاد العدوان على العباد، واعلم أنَّ أمامك
@@ -222,7 +205,6 @@ neglecting it. In fact, the best wording is the most useful.
 على جنّة أو على نار. فارتد لنفسك قبل نزولك إيّاها، فإذا وجدت من أهل
 الفاقة، من يحمل زادك إلى القيامة فيوافيك فيه غدا حيث تحتاج إليه فاغتنم
 وحمّله وأكثر من تزوّده وأنت قادر عليه فلعلك تطلبه فلا تجده.
-</p>
 
 Know-my son-that it will be inevitable for you to be returned and asked
 about your provisions. Hence, try to be light-burdened. Do not load your
@@ -239,18 +221,14 @@ possible so long as you are able to do so. Put in that provision as much
 as you are able to, for it is likely that if you may need him
 (afterwards), you may not get hold of him.
 
-<p dir="rtl">
 وإيّاك أن تثق لتحميل زادك من لا ورع له ولا أمانة فيكون مثلك مثل ظمآن
 أتى سرابا حتّى إذا جاءه لم يجده شيئاً فتبقى في يوم القيامة منقطعاً بك.
-</p>
 
-<p dir="rtl">
 وقال عليه السلام في هذه الوصيّة: يا بنيّ، البغى سابق إلى الجبن، لن يهلك
 امرؤ عرف قدره. من خطر شهوته صان قدره، قيمة كلّ امرأ ما يحسنه، الاعتبار
 يفيدك الرّشاد وأشرف الغنى ترك المُنى، الحرص فقرٌ حاضر، المودّة قرابة
 مستفادة، صديقك أخوك لأبيك واُمّك، وليس كلّ أخ لك لأبيك واُمّك صديقك، لا
 تتّخذن عدوّ صديقك صديقاً فتعادي صديقك.
-</p>
 
 Beware of relying upon the impious and the distrustful in the question
 of loading your supplies. If you do it, you will be like the thirsty
@@ -269,7 +247,6 @@ advantageous kinship. Your friend is your full brother, but not every
 full brother is your friend. Do not befriend the enemy of your friend
 lest you become the enemy of your friend.
 
-<p dir="rtl">
 كم من بعيد أقرب منك من قريب، وصَول معدمٌ خيرٌ من مثرٍ جافٍ. الموعظة كهف
 لمن وعاها، من منّ بمعروف أفسده. من أساء خلقه عذّب نفسه وكانت البغضة أولى
 به، ليس من العدل القضاء بالظنّ على الثقة. ما أقبح الأشر عند البطر
@@ -277,7 +254,6 @@ lest you become the enemy of your friend.
 والحنث من ذي المروءة، والغدر من السلطان. كفر النعمة موق، ومجالسة الأحمق
 شؤم. اعرف الحقّ لمن عرضه لك شريفاً كان أو وضيعاً. من ترك القصد جار، من
 تعدَّى الحقّ ضاق مذهبه، كم من دَنف قد نجا، وصحيح قد هوى.
-</p>
 
 Many are the remote ones who are closer than the nearer (kinship). A
 poor man who keeps good relations is better than a wealthy one who
@@ -297,7 +273,6 @@ masters or humble individuals. He who ignores moderation will wrong. He
 who trespasses the right will be detained in narrow courses. Many
 diseased persons were cured and many healthy ones passed away.
 
-<p dir="rtl">
 قد يكون اليأس إدراكاً والطمع هلاكاً، استعتب من رجوت عتابه، لا يثيبنّ من
 أمر على غدر، الغدر شرّ لباس المرء المسلم، من غدر ما أخلق أن لا يوفي له.
 الفساد يبير الكثير والاقتصاد ينمي اليسير. من الكرم الوقار بالرحم، من كرم
@@ -305,7 +280,6 @@ diseased persons were cured and many healthy ones passed away.
 على معصية الله عزّ وجلّ، زل معه حيث زال. لا تصرم أخاك على ارتياب ولا
 تقطعه دون استعتاب لعل له عذر وأنت تلوم. إقبل من متنصّل عذره فتنالك
 الشفاعة.
-</p>
 
 Despair may be success and greed may be destruction. Blame him whom you
 wish to blame. Matters of cheating are rewardless. The evilest dress of
@@ -323,7 +297,6 @@ blame him. Perhaps, he has his excuse while you are blaming him. Accept
 the apology of everyone so that you will be included with the
 Intercession.
 
-<p dir="rtl">
 وأكرم الّذين بهم تصول، وازدد لهم على طول الصحّة برّاً وإكراماً وتبجيلاً
 وتعظيماً فليس جزاء من عظّم شأنك أن تضيّع من قدره، ولا بجزاء من سترك أن
 تسوءه. أكثر البرّ ما استطعت بجليسك فانّك إذا شئت رأيت رشده، من كساءه
@@ -332,7 +305,6 @@ Intercession.
 تنال نعمة إلاّ بعد أذى، لِنْ لمن غاضك تظفر بطلبتك، ساعات الهموم ساعات
 الكفّارات والسّاعات تنفد عمرك ولا خير في لذّة من بعدها النّار، وما خير
 بخير بعدها النار.
-</p>
 
 Honor those who support you and increase your charity, honor, respect,
 and reverence to them as long as you enjoy good health. It is improper
@@ -350,7 +322,6 @@ forgiveness. Hours, however, take your age to termination. The pleasure
 that is followed by Hell is worthless and every good matter that is
 followed by Hell is also worthless.
 
-<p dir="rtl">
 وما شرّ بشرّ بعده الجنة، كلّ نعيم دون الجنّة محقور، وكل ّ بلاء دون
 النّار عافية. لا تضيّعنّ حقّ أخيك اتّكالاً على ما بينك وبينه، فإنّه ليس
 لك بأخ من أضعت حقّه، لا يكوننّ أخوك على قطيعتك أقوى منك على صلة، ولا على
@@ -359,7 +330,6 @@ followed by Hell is also worthless.
 أن لا تملّك المرأة من أمرها ما جاوز نفسها فافعل، فانّه أدوم لجمالها،
 وأرخى لبالها، وأحسن لحالها. فإنّ المرأة ريحانة وليست بقهرمانة، فدارها
 على كلّ حال، وأحسن الصحبة لها فيصفو عيشك.
-</p>
 
 Likewise, the evil that produces Paradise is not evil. Any bliss other
 than Paradise is valueless and any misfortune other than Hell is
@@ -378,10 +348,8 @@ life and permanent beauty with them. A woman is a flower, not an
 administrator. To enjoy tranquil life with a woman, treat her so
 kindly.
 
-<p dir="rtl">
 واحتمل القضاء بالرضا، وإن أحببت أن تجمع خير الدنيا والآخرة فاقطع طمعك
 ممّا في أيدي النّاس، والسلام عليك ورحمة الله وبركاته.
-</p>
 
 Stand the satisfaction with the acts of Allah. If you want to have the
 good of this life and the life to come altogether, you should drive
@@ -392,5 +360,4 @@ and Allah's mercy and blessings be upon you.103
 H.5834, A'lam ud-Din; 486, Tanbih ul-Khawattir; 2:39, Ibn Abi al-Hadid's
 Sharhu Nahj ul-Balagha; 16:96 & 19:301, Bihar ul-Anwar; 73:160 H.7,
 Wassail ush-Shi'a; 17:61 "19" H.21984.
-
 

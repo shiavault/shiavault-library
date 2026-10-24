@@ -535,4 +535,3 @@ tayammum when its time was coming to an end.
 that he would not be able to get water, and offered the prayers with
 tayammum.
 
-

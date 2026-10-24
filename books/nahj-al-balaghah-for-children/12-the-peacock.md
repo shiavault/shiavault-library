@@ -21,4 +21,3 @@ and a long trailing tail.
 
 (Sermon 165)
 
-

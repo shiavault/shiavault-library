@@ -260,4 +260,3 @@ after him. It is said that Ilyas helped the weak and the travelers like
 al-Khi¤r and they both meet each other in the time of hajj. According to
 a tradition Ilyas is Dhulkifl.
 
-

@@ -119,10 +119,7 @@ Also Khateeb al-Baghdadi, in his book quotes Imam Ali that: Ali said:
 "I was the first one to accept Islam at the hands of the Holy
 Prophet."
 
-
 - Tarikh, by al-Khateeb al-Baghdadi, v4, p333
 
-
 End of Chapter 2 of the Shi'ite Encyclopedia v2.0
-
 

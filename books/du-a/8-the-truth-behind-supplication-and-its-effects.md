@@ -15,40 +15,28 @@ whole creation. This is frequently observed that man at the time of
 great despair and depression is absorbed to the unparalleled power of
 Allah. This state of affairs is repeatedly stated by the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-لَهُ دَعْوَةُ الْحَقِّ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لَا
-يَسْتَجِيبُونَ لَهُمْ بِشَيْءٍ إِلَّا كَبَاسِطِ كَفَّيْهِ إِلَى
-الْمَاءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَالِغِهِ وَمَا دُعَاءُ
-الْكَافِرِينَ إِلَّا فِي ضَلَالٍ.
-  </p>
-</blockquote>
+> لَهُ دَعْوَةُ الْحَقِّ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لَا
+> يَسْتَجِيبُونَ لَهُمْ بِشَيْءٍ إِلَّا كَبَاسِطِ كَفَّيْهِ إِلَى
+> الْمَاءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَالِغِهِ وَمَا دُعَاءُ
+> الْكَافِرِينَ إِلَّا فِي ضَلَالٍ.
 
 ***“To Him is due the true prayer; and those whom they pray to besides
 Allah give them no answer, but they are like one who stretches forth his
 two hands towards water that it may reach his mouth, but it will not
 reach it; and the prayer of the unbelievers is only in error. 13:14”***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّكُمْ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا
-إِيَّاهُ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ وَكَانَ
-الْإِنْسَانُ كَفُورًا.
-  </p>
-</blockquote>
+> وَإِذَا مَسَّكُمْ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا
+> إِيَّاهُ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ وَكَانَ
+> الْإِنْسَانُ كَفُورًا.
 
 ***“And when distress afflicts you in the sea, away go those whom you
 call on except He; but when He brings you safe to the land, you turn
 aside; and man is ever ungrateful. 17:67”***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا
-أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ
-يَدْعُنَا إِلَى ضُرٍّ مَسَّهُ كَذَلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا
-كَانُوا يَعْمَلُونَ.
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا
+> أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ
+> يَدْعُنَا إِلَى ضُرٍّ مَسَّهُ كَذَلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا
+> كَانُوا يَعْمَلُونَ.
 
 ***“And when affliction touches a man, he calls on Us, whether lying on
 his side or sitting or standing; but when We remove his affliction from
@@ -56,12 +44,8 @@ him, he passes on as though he had never called on Us on account of an
 affliction that touched him; thus that which they do is made
 fair-seeming to the extravagant. 10:12”***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ.
-  </p>
-</blockquote>
+> وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ.
 
 ***“When We give man an asset, he avoids Us, but when he is afflicted,
 he has long prayers. 41:51”***
@@ -89,11 +73,7 @@ for man and will fill out his mental gap and will bring him grandeur and
 glory with which he may confront problems easily. As the following verse
 from the Holy Quarn depicts:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
-  </p>
-</blockquote>
+> أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
 
 ***“Now surely by Allah's remembrance are the hearts set at rest.
 13:28”***
@@ -102,11 +82,7 @@ God's remembrance is the only pacifying agent which dominates us.
 Al-Khidhr (s), at the time of Imam Ali's death, described Imam Ali (s)
 in this way:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتَ كَالجَبَلِ لا تُحَرِّكُهُ العَواصِفُ وَلا تُزِيلُهُ القَواصِفُ.
-  </p>
-</blockquote>
+> كُنْتَ كَالجَبَلِ لا تُحَرِّكُهُ العَواصِفُ وَلا تُزِيلُهُ القَواصِفُ.
 
 “You were like a mountain which could not be moved by storms nor by
 tornados.”[^1]  
@@ -114,15 +90,11 @@ tornados.”[^1]
 because he connects his power to an ever-lasting one. Imam Husayn (s)
 says:
 
-<blockquote dir="rtl">
-  <p>
-أنْتَ مُؤَيِّدِي بِالنَّصْرِ عَلى أعْدائِي وَلَو لا نَصْرُكَ إيّايَ
-لَكُنْتُ مِنَ المَغْلوبِينَ. يا مَنْ خَصَّ نَفْسَهُ بِالسُّمُوِّ
-وَالرِّفْعَةِ، فَأوْلِياؤُهُ بِعِزِّهِ يَعْتَزُّونَ. يا مَنْ جُعِلَتْ
-لهُ المُلوكُ نير المَذَلّةِ عَلى أعْناقِهِمْ فَهُمْ مِن سَطَواتِهِ
-خائِفونَ.
-  </p>
-</blockquote>
+> أنْتَ مُؤَيِّدِي بِالنَّصْرِ عَلى أعْدائِي وَلَو لا نَصْرُكَ إيّايَ
+> لَكُنْتُ مِنَ المَغْلوبِينَ. يا مَنْ خَصَّ نَفْسَهُ بِالسُّمُوِّ
+> وَالرِّفْعَةِ، فَأوْلِياؤُهُ بِعِزِّهِ يَعْتَزُّونَ. يا مَنْ جُعِلَتْ
+> لهُ المُلوكُ نير المَذَلّةِ عَلى أعْناقِهِمْ فَهُمْ مِن سَطَواتِهِ
+> خائِفونَ.
 
 “O God! It is You, who have supported me to defeat my foes. If You have
 not assist me, I would be defeated. O You, Who have distinguished
@@ -141,12 +113,8 @@ only; Abraham (s) had nobody to help him and our prophet only enjoyed
 Abu Talib's protection. But finally, the will of Allah has defeated all
 the others:
 
-<blockquote dir="rtl">
-  <p>
-رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ أُوْلَئِكَ حِزْبُ اللَّهِ
-أَلَا إِنَّ حِزْبَ اللَّهِ هُمْ الْمُفْلِحُونَ.
-  </p>
-</blockquote>
+> رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ أُوْلَئِكَ حِزْبُ اللَّهِ
+> أَلَا إِنَّ حِزْبَ اللَّهِ هُمْ الْمُفْلِحُونَ.
 
 ***“Allah is well-pleased with them and they are well-pleased with Him;
 these are Allah's party: now surely the party of Allah are the
@@ -154,12 +122,8 @@ successful ones. 58:22”***
 
 Another instance is the following:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ لَهُمْ الْمَنصُورُونَ. وَإِنَّ جُندَنَا لَهُمْ
-الْغَالِبُونَ.
-  </p>
-</blockquote>
+> إِنَّهُمْ لَهُمْ الْمَنصُورُونَ. وَإِنَّ جُندَنَا لَهُمْ
+> الْغَالِبُونَ.
 
 ***“Most surely they shall be the assisted ones and most surely our host
 alone shall be the victorious ones. 37:172-173”***
@@ -187,91 +151,55 @@ open up to man a horizon of precious treasures. For this reason, the
 Holy Qur'an constantly recommends the remembrance of God. Some of these
 verses are presented here:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَى جُنُوبِكُمْ.
-  </p>
-</blockquote>
+> فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَى جُنُوبِكُمْ.
 
 ***“Remember Allah standing and sitting and reclining. 4:103”***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا.
 
 ***“O you who believe, remember Allah, remembering frequently. 33:41”***
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ.
-  </p>
-</blockquote>
+> وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ.
 
 ***“O you who believe! Remember Allah much, that you may be successful.
 8:45”***
 
-<blockquote dir="rtl">
-  <p>
-فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ.
-  </p>
-</blockquote>
+> فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ.
 
 ***“Therefore remember Me, I will remember you, and be thankful to Me,
 and do not be ungrateful to Me. 2:152”***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
-أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ وَمَنْ يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ
-هُمْ الْخَاسِرُونَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
+> أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ وَمَنْ يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ
+> هُمْ الْخَاسِرُونَ.
 
 ***“O you who believe! Let not your wealth, or your children, divert you
 from the remembrance of Allah; and whoever does that, these are the
 losers. 63:9”***
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ.
-  </p>
-</blockquote>
+> رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ.
 
 ***“Men whom neither merchandise nor selling diverts from the
 remembrance of Allah. 24:37”***
 
 The Holy Qur'an, reproaching those who shun remembering God, says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ
-عَنْهَا إِنَّا مِنْ الْمُجْرِمِينَ مُنتَقِمُونَ.
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ
+> عَنْهَا إِنَّا مِنْ الْمُجْرِمِينَ مُنتَقِمُونَ.
 
 ***“And who is more unjust than he who is reminded of the communications
 of his Lord, then he turns away from them? Surely We will give
 punishment to the guilty. 32:22”***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَانِ نُقَيِّضْ لَهُ شَيْطَانًا
-فَهُوَ لَهُ قَرِينٌ.
-  </p>
-</blockquote>
+> وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَانِ نُقَيِّضْ لَهُ شَيْطَانًا
+> فَهُوَ لَهُ قَرِينٌ.
 
 ***“And whoever turns himself away from the remembrance of the
 Beneficent God, we appoint for him a shaitan, so he becomes his
 associate. 43:36”***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
-وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى.
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
+> وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى.
 
 ***“And whoever turns away from My reminder, his shall be a straitened
 life, and we will raise him on the day of resurrection, blind.
@@ -279,22 +207,14 @@ life, and we will raise him on the day of resurrection, blind.
 
 Concerning the hypocrites, God says:
 
-<blockquote dir="rtl">
-  <p>
-َلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا.
-  </p>
-</blockquote>
+> َلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا.
 
 ***“And they do not remember Allah save a little. 4:142”***
 
 And concerning the infidels, God says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي وَكَانُوا لَا
-يَسْتَطِيعُونَ سَمْعًا.
-  </p>
-</blockquote>
+> الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي وَكَانُوا لَا
+> يَسْتَطِيعُونَ سَمْعًا.
 
 ***“They whose eyes were under a cover from My reminder, and they could
 not even hear. 18:101”***
@@ -302,12 +222,8 @@ not even hear. 18:101”***
 In the Holy Qur'an, there are many advantages mentioned for
 supplication, for instance:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
-بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
+> بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
 
 ***“Those who believe and whose hearts are set at rest by the
 remembrance of Allah; now surely by Allah's remembrance are the hearts
@@ -316,11 +232,7 @@ set at rest. 13:28”***
 Definitely, much engagement in supplication needs knowledge and full
 recognition. In the holy verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ.
-  </p>
-</blockquote>
+> وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ.
 
 ***“And remember Allah much, that you may be successful. 8:45”***
 
@@ -330,11 +242,7 @@ servant's prayers and it responds to the most of their logical needs and
 requirements. Another advantage of it is our familiarity with the
 Creator. God has given this asset to His special servants:
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ.
-  </p>
-</blockquote>
+> لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ.
 
 ***“They have therein what they wish and with Us is more yet. 50:35”***
 
@@ -346,47 +254,31 @@ self-recognition. Under the protection of supplication man gets rid of
 being distant from God and resorts to a power, which dominates
 everything.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّه عَلَى كُلِّ
-شَيْءٍ شَهِيدٌ.
-  </p>
-</blockquote>
+> الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّه عَلَى كُلِّ
+> شَيْءٍ شَهِيدٌ.
 
 ***“Whose is the kingdom of the heavens and the earth; and Allah is a
 witness of all things. 85:9”***
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ
-بِكُلِّ شَيْءٍ مُحِيطًا.
-  </p>
-</blockquote>
+> وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ
+> بِكُلِّ شَيْءٍ مُحِيطًا.
 
 ***“And whatever is in the heavens and whatever is in the earth is
 Allah's, and Allah encompasses all things. 4:126”***
 
 In supplication we will come across:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَكَ يُسَبِّحُ الخَلْقُ كُلُّهُمْ لَكَ وَقامَ الخَلْقُ كُلُّهُمْ
-بِكَ وَأشْفَقَ الخَلْقُ كُلُّهُمْ مِنْكَ وَضَرَعَ الخَلْقُ كُلُّهُمْ
-إلَيكَ.
-  </p>
-</blockquote>
+> سُبْحانَكَ يُسَبِّحُ الخَلْقُ كُلُّهُمْ لَكَ وَقامَ الخَلْقُ كُلُّهُمْ
+> بِكَ وَأشْفَقَ الخَلْقُ كُلُّهُمْ مِنْكَ وَضَرَعَ الخَلْقُ كُلُّهُمْ
+> إلَيكَ.
 
 “O God! Glory be to You. All the creatures glorify You, all the
 creatures live by You, all the creatures fear You and all the creatures
 beg you earnestly.”[^2]  
  In another supplication we read:
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَكَ خَلَقْتَ كُلَّ شَيءٍ وَإلَيكَ مَعادُهُ وَبَدَأتَ كُلَّ شَيءٍ
-وَإلَيكَ مُنْتَهاهُ وَأنْشَأتَ كُلَّ شَيءٍ وَإلَيكَ مَصِيرُهُ.
-  </p>
-</blockquote>
+> سُبحانَكَ خَلَقْتَ كُلَّ شَيءٍ وَإلَيكَ مَعادُهُ وَبَدَأتَ كُلَّ شَيءٍ
+> وَإلَيكَ مُنْتَهاهُ وَأنْشَأتَ كُلَّ شَيءٍ وَإلَيكَ مَصِيرُهُ.
 
 “O God! Glory be to You. You have created everything and everything
 returns to You. You have initiated everything and everything will end to
@@ -402,12 +294,8 @@ any school of thinking. There are numerous interpretations in the Holy
 Qur'an about the concept of “forgetting God.” In the surah of Hashr, we
 read:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
-أُوْلَئِكَ هُمْ الْفَاسِقُونَ.
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
+> أُوْلَئِكَ هُمْ الْفَاسِقُونَ.
 
 ***“And be not like those who forsook Allah, so He made them forsake
 their own souls: such are the transgressors. 59:19”***
@@ -420,24 +308,16 @@ concerning the verse, ***“The day when the spirit and the angels stand
 in ranks, 78:38***”[^3] discusses the issue of the soul and refers to
 the sacred verse in which the topic of soul is brought out:
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْأَلُونَكَ عَنْ الرُّوحِ قُلْ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا
-أُوتِيتُمْ مِنْ الْعِلْمِ إِلَّا قَلِيلًا.
-  </p>
-</blockquote>
+> وَيَسْأَلُونَكَ عَنْ الرُّوحِ قُلْ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا
+> أُوتِيتُمْ مِنْ الْعِلْمِ إِلَّا قَلِيلًا.
 
 ***“And they ask you about the soul. Say: The soul is one of the
 commands of my Lord. 17:85”***
 
 Then he explains the word “command” and refers to the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
-فَيَكُونُ.
-  </p>
-</blockquote>
+> إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ
+> فَيَكُونُ.
 
 ***“His command, when He intends anything, is only to say to it: Be, so
 it is. 36:82”***
@@ -446,13 +326,9 @@ God's command refers to the initiation of a power by anything which He
 wishes to take on life and the soul belongs to this world of command.
 There is another verse interpreting “soul” in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ طِينٍ
-فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ
-سَاجِدِينَ.
-  </p>
-</blockquote>
+> إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ طِينٍ
+> فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ
+> سَاجِدِينَ.
 
 ***“When your Lord said to the angels: surely I am going to create a
 mortal from dust; so when I have made him complete and breathed into him
@@ -471,23 +347,15 @@ command, will be forgotten. Since man's very truth lies in his soul and
 spirit, therefore, he has forgotten himself. This discussion will reveal
 that the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ.
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ.
 
 ***“Be not like those who forsook Allah so He made them forsake their
 own souls, 59:19”***
 
 This verse is in complete harmony with
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا قَالَ
-كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنسَى.
-  </p>
-</blockquote>
+> قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا قَالَ
+> كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنسَى.
 
 ***“He shall say: My Lord! Why hast thou raised me blind, and I was a
 seeing one indeed? He will say: Even so, our communications came to you,
@@ -502,46 +370,30 @@ who has not forgotten himself yet, will make this clear. If such a man
 is left alone in a perilous desert, he will have a deplorable condition,
 “let alone a person who has forgotten himself.”
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَى نُورٍ مِنْ
-رَبِّهِ فَوَيْلٌ لِلْقَاسِيَةِ قُلُوبُهُمْ مِنْ ذِكْرِ اللَّهِ
-أُوْلَئِكَ فِي ضَلَالٍ مُبِينٍ.
-  </p>
-</blockquote>
+> أَفَمَنْ شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَى نُورٍ مِنْ
+> رَبِّهِ فَوَيْلٌ لِلْقَاسِيَةِ قُلُوبُهُمْ مِنْ ذِكْرِ اللَّهِ
+> أُوْلَئِكَ فِي ضَلَالٍ مُبِينٍ.
 
 ***“What! Is he whose heart Allah has opened for Islam so that he is in
 a light from his Lord (like the hard-hearted)? Nay, woe to those whose
 hearts are hard against the remembrance of Allah; those are in clear
 error. 39:22”***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا.
-  </p>
-</blockquote>
+> وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا.
 
 ***“And whoever turns aside from the reminder of his Lord, He will make
 him enter into an*** ***afflicting chastisement. 72:17”***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ
-هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا.
-  </p>
-</blockquote>
+> وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ
+> هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا.
 
 ***“And do not follow him whose heart we have made unmindful to Our
 remembrance, and he follows his low desires and his case is one in which
 due bounds are exceeded. 18:28”***
 
-<blockquote dir="rtl">
-  <p>
-اسْتَحْوَذَ عَلَيْهِمْ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ
-أُوْلَئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمْ
-الْخَاسِرُونَ.
-  </p>
-</blockquote>
+> اسْتَحْوَذَ عَلَيْهِمْ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ
+> أُوْلَئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمْ
+> الْخَاسِرُونَ.
 
 ***“The shaitan has gained the mastery over them, so he has made them
 forget the remembrance of Allah; they are the shaitan's party; now
@@ -550,19 +402,11 @@ surely the shaitan's party are the losers. 58:19”***
 It is the Holy Qur'an which has made this prediction and has commanded
 and invited man to the right path:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَى سَبِيلِ رَبِّكَ.
-  </p>
-</blockquote>
+> ادْعُ إِلَى سَبِيلِ رَبِّكَ.
 
 ***“Call to the way of your Lord. 16:125”***
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ هَذَا صِرَاطِي مُسْتَقِيمًا.
-  </p>
-</blockquote>
+> وَأَنَّ هَذَا صِرَاطِي مُسْتَقِيمًا.
 
 ***“And know that this is My path, the right one. 6:153”***
 
@@ -576,34 +420,22 @@ satisfied through supplication, then their supplication is useless, it
 should be said that the very engagement in supplication is of utmost
 significance. Imam as-Sadiq (s) has said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ بِالدُّعاءِ فَإنَّكُم لا تَقَرَّبونَ إلى اللهِ بِمِثْلِهِ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ بِالدُّعاءِ فَإنَّكُم لا تَقَرَّبونَ إلى اللهِ بِمِثْلِهِ.
 
 “Engage in supplication because it is the best way through which you
 come close to God.”[^4]  
  He also says:
 
-<blockquote dir="rtl">
-  <p>
-ما يَعْلَمُ عِظَمَ ثَوابِ الدُّعاءِ وَتَسْبِيحِ العَبْدِ فِيما بَينَهُ
-وَبَينَ نَفْسِه إلاّ اللهُ تَبارَكَ وَتعالى.
-  </p>
-</blockquote>
+> ما يَعْلَمُ عِظَمَ ثَوابِ الدُّعاءِ وَتَسْبِيحِ العَبْدِ فِيما بَينَهُ
+> وَبَينَ نَفْسِه إلاّ اللهُ تَبارَكَ وَتعالى.
 
 “No one knows the magnitude of supplication and glorifying Allah when
 one invokes and glorifies with himself (secretly) save Allah.”[^5]  
  He also stated:
 
-<blockquote dir="rtl">
-  <p>
-مَا أبْرَزَ عَبْدٌ يَدَهُ إلى اللهِ العَزيزِ الجَبّارِ عَزَّ وَجَلَّ
-إلاّ اسْتَحْيَى اللهُ عَزَّ وَجَلَّ أنْ يَرُدَّها صِفْراً حَتىّ
-يَجْعَلَ فِيها مِنْ رَحْمَتِهِ مَا يَشاءُ.
-  </p>
-</blockquote>
+> مَا أبْرَزَ عَبْدٌ يَدَهُ إلى اللهِ العَزيزِ الجَبّارِ عَزَّ وَجَلَّ
+> إلاّ اسْتَحْيَى اللهُ عَزَّ وَجَلَّ أنْ يَرُدَّها صِفْراً حَتىّ
+> يَجْعَلَ فِيها مِنْ رَحْمَتِهِ مَا يَشاءُ.
 
 “No servant raises his hand toward Allah the Almighty, unless Allah
 feels shy to leave it empty. He will put in it some of His mercy as He
@@ -648,12 +480,8 @@ read as they are without adding or subtracting and be used in
 communicating with God and be handed down to the offspring. This is
 shown by the Prophet's statement:
 
-<blockquote dir="rtl">
-  <p>
-فَرُبَّ حامِلِ فِقْهٍ غَيرِ فَقيهٍ وَرُبَّ حامِلِ فِقْهٍ إلى مَنْ هُو
-أفْقَهُ مِنْهُ.
-  </p>
-</blockquote>
+> فَرُبَّ حامِلِ فِقْهٍ غَيرِ فَقيهٍ وَرُبَّ حامِلِ فِقْهٍ إلى مَنْ هُو
+> أفْقَهُ مِنْهُ.
 
 “There may be one, who has knowledge but he is not an expert and there
 may be one, who teaches another, who is more learned than him.”[^9]  
@@ -709,13 +537,9 @@ virtues. In other words, the very presence of an supplication indicates
 the high standard of spirituality. The man standing besides the Arafat
 Mountain invokes his God:
 
-<blockquote dir="rtl">
-  <p>
-أنْتَ الّذِي لا إلَهَ غَيرُكَ تَعَرَّفْتَ بِكُلِّ شَيءٍ وَأنْتَ الّذي
-تَعَرَّفْتَ إلَيَّ فِي كُلّ شَيْءٍ فَرَأَيْتُكَ ظاهِراً فِي كُلِّ
-شَيءٍ وَأنْتَ الظّاهِرُ لِكُلِّ شَيءٍ.
-  </p>
-</blockquote>
+> أنْتَ الّذِي لا إلَهَ غَيرُكَ تَعَرَّفْتَ بِكُلِّ شَيءٍ وَأنْتَ الّذي
+> تَعَرَّفْتَ إلَيَّ فِي كُلّ شَيْءٍ فَرَأَيْتُكَ ظاهِراً فِي كُلِّ
+> شَيءٍ وَأنْتَ الظّاهِرُ لِكُلِّ شَيءٍ.
 
 “You are the God, whom there is no god other than. You have made
 yourself known by everything. You have made yourself known to me in
@@ -753,14 +577,10 @@ concepts, in which all human positions are considered and man is invited
 to go towards them. In the Sha'baniyyah supplication, we are told to ask
 God:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي هَبْ لِي كَمالَ الإنْقِطاعِ إلَيكَ وَأَنِرْ أبْصارَ قُلوبِنا
-بِضِياءِ نَظَرِها إلَيكَ حَتىّ تَخْرِقَ أبْصارُ القُلوبِ حُجُبَ
-النّورِ فَتَصِلَ إلَى مَعْدِنِ العَظَمَةِ وَتَصيرَ أرْواحُنا
-مُعَلَّقَةُ بِعِزِّ قُدْسِكَ.
-  </p>
-</blockquote>
+> إلَهي هَبْ لِي كَمالَ الإنْقِطاعِ إلَيكَ وَأَنِرْ أبْصارَ قُلوبِنا
+> بِضِياءِ نَظَرِها إلَيكَ حَتىّ تَخْرِقَ أبْصارُ القُلوبِ حُجُبَ
+> النّورِ فَتَصِلَ إلَى مَعْدِنِ العَظَمَةِ وَتَصيرَ أرْواحُنا
+> مُعَلَّقَةُ بِعِزِّ قُدْسِكَ.
 
 “O my God, grant me to devote myself to You only and light the sights of
 our hearts with the light of seeing You until the sights of the hearts
@@ -768,12 +588,8 @@ pierce the screens of light to reach to the essence of greatness and our
 souls become hung with the glory of Your holiness”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي وَألْحِقْني بِنُورِ عِزِّكَ الأبْهَجِ فَأكُونَ لَكَ عارِفاً
-وَعَنْ سِواكَ مُنْحَرِفاً.
-  </p>
-</blockquote>
+> إلَهي وَألْحِقْني بِنُورِ عِزِّكَ الأبْهَجِ فَأكُونَ لَكَ عارِفاً
+> وَعَنْ سِواكَ مُنْحَرِفاً.
 
 “O my God! Let me reach the light of your bright glory so that I can
 recognize You and divert from anyone other than You.”
@@ -894,5 +710,4 @@ the infallible imams or their progenies.
 [^14]: Imam Ali’s Kumayl Supplication.
 
 [^15]: Uddat al-Da’ee: Ibn Fahad al-Hilli, p. 242.
-
 

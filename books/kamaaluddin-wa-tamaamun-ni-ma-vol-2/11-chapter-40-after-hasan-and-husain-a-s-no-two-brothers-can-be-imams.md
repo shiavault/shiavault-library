@@ -11,11 +11,7 @@ Abi Abdullah (a.s.) that he said:
 and Husain; it proceeds from Ali Ibn Husain, as Allah, the Blessed, the
 Sublime, said:
 
-<blockquote dir="rtl">
-  <p>
-وَأُوْلُواْ الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللّهِ
-  </p>
-</blockquote>
+> وَأُوْلُواْ الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللّهِ
 
 Some of those who are bound by blood are closer (to each other) than
 others in the Book of Allah.[^1]
@@ -46,11 +42,7 @@ Muhammad bin Sinan from Abi Salam from Surah bin Kulaib from Abi Baseer
 from Abi Ja’far (a.s.) regarding the words of Allah, the Mighty and
 Sublime:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
 
 ***And he made it a word to continue in his posterity.***[^2]
 
@@ -131,11 +123,7 @@ I said: Would Imamate be inherited between two brothers after Hasan and
 Husain (a.s.)? He said: No, it will continue in the progeny of Husain
 (a.s.) like Allah, the Mighty and Sublime has said:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
 
 ***And he made it a word to continue in his posterity.***[^3]
 
@@ -148,11 +136,7 @@ from Ali bin Asbat from Ali bin Abi Hamza from Abi Baseer from Abi
 Abdullah (a.s.) that he said regarding the words of Allah, the Mighty
 and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ
-  </p>
-</blockquote>
+> وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ
 
 ***And (how many a) deserted well and palace raised high.***[^4]
 
@@ -166,5 +150,4 @@ high’ denotes the speaking (active) Imam.”
 [^3]: Surah Zukhruf 43:28
 
 [^4]: Surah Hajj 22:45
-
 

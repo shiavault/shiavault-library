@@ -839,4 +839,3 @@ al-‘Uqul, XXV, 134.)
 [^32]: Al-Kafi: 8/58/21, Al-Ihtijaj: 1/626/146, Kitab al-Sulaym b. Qays:
 2/718/18.
 
-

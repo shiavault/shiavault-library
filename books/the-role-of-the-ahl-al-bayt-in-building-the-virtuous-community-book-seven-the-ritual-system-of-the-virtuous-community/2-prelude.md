@@ -105,4 +105,3 @@ join it shall be drowned.Al-Muttaqi al-Hindi, Kanz al-’Ummal 6:216. For
 further details, refer to al-Fayruzabadi’s Fadha'il al-Khamsah
 fi’l-Sihah al-Sittah.
 
-

@@ -23,4 +23,3 @@ one of these.
 
 [^1]: Biharul Anwar; Vol. 1, Pg. 200
 
-

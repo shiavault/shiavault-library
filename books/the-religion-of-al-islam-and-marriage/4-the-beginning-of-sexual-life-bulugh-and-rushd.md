@@ -43,4 +43,3 @@ adult attachments." (*Newsweek,* Special Edition Spring 1990, p. 55)
 Consequently, it is not easy for boys and girls of our atomic era to
 marry as soon as they become physically mature.
 
-

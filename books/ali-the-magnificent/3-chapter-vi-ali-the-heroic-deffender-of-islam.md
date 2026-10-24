@@ -695,4 +695,3 @@ pilgrims returned to Medina only to
 find themselves once more threatened, this time by their implacable
 enemies-the Jews.
 
-

@@ -554,4 +554,3 @@ tongues of fire shall be there for him.”[^19]
 
 [^19]: (Makasib Muhrima)
 
-

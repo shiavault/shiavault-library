@@ -196,7 +196,6 @@ new-born babies in garbage cans. In such cases, financial aid is not
 enough for mothers. Rather, it is necessary to find special centers to
 meet the basic needs of these children.'"
 
-
 **The Woman in Islam**
 
 Why is the attack against Islamic attitude towards Woman????????
@@ -417,5 +416,4 @@ Islamic states, such as the Islamic Republic in Iran.
 The super powers have gathered their hirelings everywhere to resist
 Islamic awareness and to destroy the Islamic plan and its propagators
 and the holders of its banner.
-
 

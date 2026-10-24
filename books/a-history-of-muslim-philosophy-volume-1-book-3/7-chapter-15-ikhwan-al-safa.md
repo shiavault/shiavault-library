@@ -1436,4 +1436,3 @@ p. 111, Pickthall, p. 59, Rodwell, p. 367).
 [^141]: Rasa’il, ii, p. 201; iii, pp. 92, 353; iv, pp. 33, 59, 172, 242;
 Jami’ah, ii, p. 365.
 
-

@@ -106,7 +106,6 @@ increases against him.
 knowledge increases but his Piety and piety or righteousness does not
 grow gets away from Divine Mercy.
 
-
 **Lesson: 3 : Duty of people regarding deviated Scholars**
 
 It is obvious that Islam and man's collective responsibility demands
@@ -301,7 +300,6 @@ for him and the Holy Quran also says: And as for those who strive hard
 for Us we will most certainly guide them. If man does not try to reform
 himself, many a times, his good deeds are likely to result in polytheism
 and pretence.
-
 
 **Lesson: 5 : Hypocrisy**
 
@@ -552,7 +550,6 @@ relating to love for position so that we may keep ourselves away from
 this unbecoming habit or attribute and may not keep, while doing
 everything, none but only one God in our view.
 
-
 **Lesson: 6 : Self - deception and Egotism**
 
 One of the most dangerous attributes that are mostly seen among the
@@ -586,5 +583,4 @@ that he has done a good thing.???
 It is also one of the stages when man believes in God and imagines that
 he has favoured Allah! Whereas the truth is that Allah has favoured
 him.
-
 

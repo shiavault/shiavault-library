@@ -323,4 +323,3 @@ did this as a protection for myself that would allow me to grow stronger
 in my religion without distractions. I had little sense of loss because
 I filled the void with newfound Muslim friends, and later, my husband.
 
-

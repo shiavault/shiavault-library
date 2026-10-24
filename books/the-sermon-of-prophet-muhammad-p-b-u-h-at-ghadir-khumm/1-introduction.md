@@ -143,4 +143,3 @@ large trees beside the pond at the time.
 
 2 Bihar al-Anwar, vol. 94, p. 115, Hadith 8.
 
-

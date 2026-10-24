@@ -474,4 +474,3 @@ dead-end, cannot be provided by anything except religion. It is the role
 of religion in human life which alone guarantees the evolution in the
 human essence of man's being.
 
-

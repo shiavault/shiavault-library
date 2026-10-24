@@ -39,4 +39,3 @@ after the martyrdom of his father.
 
 Holy Qur'an (3:33)
 
-

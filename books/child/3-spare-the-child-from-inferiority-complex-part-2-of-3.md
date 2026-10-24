@@ -94,7 +94,6 @@ Imagine, a cricketer, a hero himself to the millions of cricket fans,
 revealing such a weak personality. This may be a sign that the complex
 originating from his childhood has yet to wear off, if it ever will!
 
-
 **Spare the Child from Inferiority Complex (Part 3 of 3)**
 
 **Precautions At Home**
@@ -244,5 +243,4 @@ child seeing the parents also in sijdah while they are performing their
 Salaat regularly. And then the importance of regular supplications (dua)
 to Allah swt for guidance in raising a good (saleh) child with a stable
 mind and strong faith should never be under-rated.
-
 

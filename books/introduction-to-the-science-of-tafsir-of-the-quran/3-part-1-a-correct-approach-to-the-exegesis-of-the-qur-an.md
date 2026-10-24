@@ -45,12 +45,8 @@ events that have transpired). In addition, we see that those who refrain
 from hearing the Qur\`an and pondering upon the meaning of its verses
 have been severely reprimanded, as the Noble Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لَـــهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِـينَ ٭ كَـأَنَّهُمْ حُمُرٌ
-مُّسْـتَـنْفِرَةٌ ٭ فَرَّتْ مِنْ قَسْوَرَةٍ
-  </p>
-</blockquote>
+> فَمَا لَـــهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِـينَ ٭ كَـأَنَّهُمْ حُمُرٌ
+> مُّسْـتَـنْفِرَةٌ ٭ فَرَّتْ مِنْ قَسْوَرَةٍ
 
 ***“What is the matter with them that they evade the Reminder as if they
 were terrified donkeys fleeing from a lion?”***[^1]
@@ -63,11 +59,7 @@ even giving their chapter and verse numbers (in this short treatise).
 Rather, we shall only present one such verse, suffice ourselves with it,
 and then go on to another discussion:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ يَسَّرْنَا الْقُرَآنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ يَسَّرْنَا الْقُرَآنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ
 
 ***“And We have indeed made the Qur\`an easy to understand for
 remembrance, then is there any that will receive admonition?”***[^2]
@@ -106,5 +98,4 @@ pages.
 [^1]: Suratul Muddathir (74), Verses 49 to 51
 
 [^2]: Suratul Qamar (54), Verse 17
-
 

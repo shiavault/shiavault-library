@@ -243,11 +243,7 @@ being which the philosophers marvel at. Or it can be existential beauty
 which is perceived by gnostic intuition. On the basis of this
 perception, existence equals beauty:
 
-<blockquote dir="rtl">
-  <p>
-“الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُۖ”
-  </p>
-</blockquote>
+> “الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُۖ”
 
 ***"Who made good everything that He has created...(32:7)."***
 
@@ -299,5 +295,4 @@ true union and no factor can separate him from his beloved.
 Love for a being that does not possess these conditions cannot fully
 satisfy this desire and will always be coupled with disappointment,
 defeat, separation, disunion, etc.
-
 

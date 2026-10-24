@@ -107,4 +107,3 @@ Also he must regard the dissidents of Islam as ignorant persons
 repeating the \`*jahiliyah*' (ignorance) of the ancient nations and
 peoples in new created titles and forms.
 
-

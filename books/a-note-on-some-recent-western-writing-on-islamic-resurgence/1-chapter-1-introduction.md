@@ -47,4 +47,3 @@ Publications, 1991), p. 5.
 
 [^5]. (New York: Pergamon Press, 1987).
 
-

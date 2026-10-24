@@ -1304,4 +1304,3 @@ irrefutable indicators, someone still tries to refute them, he is living
 in a world of fantasy and self-fabrication because they remain
 unsupported both by argument and precedent.
 
-

@@ -196,4 +196,3 @@ The tribe of Ummayad carried their weapons. Marwan said: 'O Lord! War is
 better than easy and comfortable life.'“ See: Sharh Nahj al-Balaghah,
 (Egypt:1962), vol. 16, p. 50.
 
-

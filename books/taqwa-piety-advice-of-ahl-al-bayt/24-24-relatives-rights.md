@@ -103,4 +103,3 @@ brother who died in the way before reaching home.”[^7]
 
 [^7]: Ibid., vol. 48, p. 36.
 
-

@@ -87,16 +87,11 @@ pure good deeds with the intention of seeking nearness to God, they will
 receive the recompense for their good deeds. Only those will face
 perdition who are culpable, not those who are incapable.
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اخْتِمْ لَنٌا بِالْخَيْرِ وَ السَّعٌادَةِ وَ تَوَفَّنٌا
-مُسْلِمِينَ، وَ أَلْحِقْنٌا بِالصٌّالِحِينَ بِمُحَمَّدٍ وَ آلِهِ
-الطٌّاهِرِينَ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اخْتِمْ لَنٌا بِالْخَيْرِ وَ السَّعٌادَةِ وَ تَوَفَّنٌا
+> مُسْلِمِينَ، وَ أَلْحِقْنٌا بِالصٌّالِحِينَ بِمُحَمَّدٍ وَ آلِهِ
+> الطٌّاهِرِينَ
 
 *O God! Seal (our fate) for us with goodness and felicity, and cause us
 to die as Muslims, and join us with the righteous, Muhammad* *and his
 noble Progeny (may Peace be upon all of them).*
-
 

@@ -122,4 +122,3 @@ mamsukh: turned monster) who adopted shaved beards. The hadith thus
 contains a prophecy by Amirul Momineen (a.s.), peace be upon him, to the
 effect that a style will be adopted.]
 
-

@@ -24,7 +24,6 @@ Testimony are on truth whereas the others have erred.
 
 That's it!
 
-
 **Adhaan (The Call) The First Call**
 
 Let us start from the beginning.
@@ -203,5 +202,4 @@ the Faithful (a.s.).
 
 So, if the absence of the third renders the first two unacceptable,
 where does that leave any of our deeds?
-
 

@@ -60,13 +60,9 @@ of those places resulting in clearing many misunderstandings and
 clarification of doubts. There are many other benefits that accrue from
 the journey of religious interaction. Thus the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ
-لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا
-إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
-  </p>
-</blockquote>
+> فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ
+> لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا
+> إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
 
 ***Why should not then a company from every party from among them go
 forth that they may apply themselves to obtain understanding in
@@ -373,5 +369,4 @@ Mamqani has quoted this incident from the personification of justice and
 truth, Sayyid Ibrahim Lawasani Tehrani’s Tanqihul Maqaal.
 
 [^1]: Surah Taubah 9:122
-
 

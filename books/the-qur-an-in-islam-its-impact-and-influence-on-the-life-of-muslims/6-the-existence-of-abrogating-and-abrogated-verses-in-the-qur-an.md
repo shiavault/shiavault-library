@@ -250,4 +250,3 @@ researches different fields of language, grammar, Qur'an recitation,
 gnosis of death, after-life and paradise, and knowledge of the
 traditions.
 
-

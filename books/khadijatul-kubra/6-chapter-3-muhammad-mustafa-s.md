@@ -457,4 +457,3 @@ mere starry-eyed dreamer but also was a practical man of affairs. This
 assessment prompted her decision to "draft" Muhammad as the manager of
 her business in all future expeditions.
 
-

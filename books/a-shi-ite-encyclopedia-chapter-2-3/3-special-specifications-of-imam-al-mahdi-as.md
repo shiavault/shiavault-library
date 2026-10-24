@@ -712,4 +712,3 @@ Messenger of Allah (PBUH&HF) said:
 "He who dies not knowing the Imam of his era, has died the death of
 al-Jahiliyya (Days of Ignorance; the era before Islam)."
 
-

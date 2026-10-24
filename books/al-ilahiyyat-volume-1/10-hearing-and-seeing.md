@@ -149,4 +149,3 @@ all hearing and seeing.
 
 [^6]: Ibid.
 
-

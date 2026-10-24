@@ -67,4 +67,3 @@ Messenger of Allah (P), it is being carried as a gift from Iraq to Sham
 and it is almost here. So I said: It is a wonder! As the head of Hussain
 is given as a gift and the people are pleased?!!
 
-

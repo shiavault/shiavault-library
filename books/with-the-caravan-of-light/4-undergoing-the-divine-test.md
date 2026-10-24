@@ -265,7 +265,6 @@ others and resigned to God's will.
 
 God's blessings be unto the Guide, who guided to the straight path.
 
-
 **Lamenting the Death of Imam Husayn (a)**
 
 Imam Sadiq(a) said:
@@ -330,5 +329,4 @@ was present at their burial.
 Husayn(a).
 26. Even their enemies lauded them for their courage, honesty,
 magnanimity and virtue.
-
 

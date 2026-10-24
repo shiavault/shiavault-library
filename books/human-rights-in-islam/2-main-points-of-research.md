@@ -449,4 +449,3 @@ match to it in world history from Greek, Roman and Sasanid down to the
 present age so-called civilized world Islam believes in peaceful
 existence and depends on the philosophy of live and let live peacefully.
 
-

@@ -29,4 +29,3 @@ you and opposes you, while you have the power to take revenge on him.'
 It is as the supplication says: 'My Allah, You are too vast in favour
 and forbearance to punish me for my action and abase me for my mistake.'
 
-

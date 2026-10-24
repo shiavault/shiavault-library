@@ -142,10 +142,8 @@ Elucidatory footnotes added by the translator are indentified with
 (Tr.): all other footnotes are by Mr. Hakim himself: For any errors of
 commission, I take responsibility.
 
-
 Sayyid Hussein Alande
 r September 27, 1994
 Rabi-attani 20, 1415
 Tehran
-
 

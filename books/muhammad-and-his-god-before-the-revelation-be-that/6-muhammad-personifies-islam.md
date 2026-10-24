@@ -57,4 +57,3 @@ the Creator and His creation, and to become a religion by which they
 worship Allah (SWT) who will be pleased of those who worship Him through
 this way and this approach.
 
-

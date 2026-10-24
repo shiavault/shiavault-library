@@ -1377,4 +1377,3 @@ Iraq, requested Mu’awiyah to appoint him in charge of taking the
 allegiance for Yazid, but in the above incidents Hani clearly opposed
 Mu’awiyah and this narrative is nothing but incongruous.
 
-

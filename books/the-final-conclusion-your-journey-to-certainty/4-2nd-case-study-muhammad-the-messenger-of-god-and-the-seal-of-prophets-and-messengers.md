@@ -1955,4 +1955,3 @@ judgment, which are among the soldiers of Allah (SWT), and they are the
 best and wonderful blessings of Allah (SWT). So let us rely on Allah
 (SWT), and let us begin in the name of Allah (SWT)…
 
-

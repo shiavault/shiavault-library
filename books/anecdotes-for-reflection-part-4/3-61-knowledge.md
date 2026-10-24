@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ عَلَّمَكَ ما لَمْ تَكُنْ تَعْلَمُ‏
-  </p>
-</blockquote>
+> وَ عَلَّمَكَ ما لَمْ تَكُنْ تَعْلَمُ‏
 
 ***“And He has taught you what you did not know”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُحِبُّ الْعِلْمَ اِلاَّ السَّعِيْدُ
-  </p>
-</blockquote>
+> لاَ يُحِبُّ الْعِلْمَ اِلاَّ السَّعِيْدُ
 
 ***“None loves knowledge except the one, who is fortunate (and
 prosperous)”***[^2]
@@ -216,5 +208,4 @@ that possess worldly and religious benefits.*
 [^8]: A'bd Al-Malik Ibn Qareeb Basri (d. 213 A.H.) had been of the great
 narrators of poems and Arab traditions, and has several books to his
 credit.
-
 

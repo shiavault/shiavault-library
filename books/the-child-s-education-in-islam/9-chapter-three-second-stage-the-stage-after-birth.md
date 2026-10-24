@@ -272,77 +272,75 @@ psychologically and physically, satisfies her needs in terms of
 necessary foods for generating pure and riches milk to positively
 reflect that on the child's health physically and psychologically.
 
-[^1] - Al-kafi vol- 6:24/ 6th ch- Things to be done to a new born
+[^1]: - Al-kafi vol- 6:24/ 6th ch- Things to be done to a new born
 baby.
 
-[^2] - Tuhfal Uquul: 17.
+[^2]: - Tuhfal Uquul: 17.
 
-[^3] - Al-kafi vol- 6: 18 / 4th ch- The naming and nick name.
+[^3]: - Al-kafi vol- 6: 18 / 4th ch- The naming and nick name.
 
-[^4] - Al-kafi vol- 6: 19 / 6th ch- The naming and nick name.
+[^4]: - Al-kafi vol- 6: 19 / 6th ch- The naming and nick name.
 
-[^5] - Al-kafi vol- -6:19 chapter of names and nicknames.
+[^5]: - Al-kafi vol- -6:19 chapter of names and nicknames.
 
-[^6] - Al kafi vol -6: 21 chapter of names and nicknames.
+[^6]: - Al kafi vol -6: 21 chapter of names and nicknames.
 
-
-[^7] - Al kafi vol -6: 27 / 1st chapter: Slaughtering at the seventh day
+[^7]: - Al kafi vol -6: 27 / 1st chapter: Slaughtering at the seventh day
 from the birth day.
 
-[^8] - Al kafi vol -6: 34/ 1st chapter: Purification.
+[^8]: - Al kafi vol -6: 34/ 1st chapter: Purification.
 
-[^9] - Al-tifl bainal wiraatha WA tarbiyah vol-2:82; by Mohammad Taqqi
+[^9]: - Al-tifl bainal wiraatha WA tarbiyah vol-2:82; by Mohammad Taqqi
 falsafi, from the book Aqdatul Hiqaarah.
 
-[^10] - Qaamoos Attifl Attibbi: 11-16.
+[^10]: - Qaamoos Attifl Attibbi: 11-16.
 
-[^11] - Al-kafi vol - 6:40/ 1st chapter - Breast feeding.
+[^11]: - Al-kafi vol - 6:40/ 1st chapter - Breast feeding.
 
-[^12] - Al-kafi vol - 6:44 / 1st ch- Those whose milk are offensive and
+[^12]: - Al-kafi vol - 6:44 / 1st ch- Those whose milk are offensive and
 those not offensive.
 
-[^13] - Al-kafi vol - 6:44 / 12th ch- Those whose milk are offensive and
+[^13]: - Al-kafi vol - 6:44 / 12th ch- Those whose milk are offensive and
 those not offensive.
 
-[^14] - Al-kafi vol - 6:44 / 13th ch- Those whose milk are offensive and
+[^14]: - Al-kafi vol - 6:44 / 13th ch- Those whose milk are offensive and
 those not offensive.
 
-[^15] - Al-kafi vol - 6:42 / 2nd ch- Those whose milk are offensive and
+[^15]: - Al-kafi vol - 6:42 / 2nd ch- Those whose milk are offensive and
 those not offensive.
 
-[^16] - Al-kafi vol - 6:42 / 3rd ch- Those whose milk are offensive and
+[^16]: - Al-kafi vol - 6:42 / 3rd ch- Those whose milk are offensive and
 those not offensive.
 
-[^17] - Wasaa'il sh-shiyyah vol-21:465/7 ch-76 book of marriage.
+[^17]: - Wasaa'il sh-shiyyah vol-21:465/7 ch-76 book of marriage.
 
-[^18] - Al-kafi vol-6:42 / 1st chapter - those whose milk are offensive
+[^18]: - Al-kafi vol-6:42 / 1st chapter - those whose milk are offensive
 and those who are not.
 
-[^19] - " " -6:42 / 5th
+[^19]: - " " -6:42 / 5th
 
-[^20] - Makaarimul Akh'laq: 223.
+[^20]: - Makaarimul Akh'laq: 223.
 
-[^21] - " " : 237.
+[^21]: - " " : 237.
 
-[^22] - " " : 237.
+[^22]: - " " : 237.
 
-[^23] - Qaamoos Attifl Attibbi: 33.
+[^23]: - Qaamoos Attifl Attibbi: 33.
 
-[^24] - Al-kafi vol-6: 40 / 2nd chapter of breast feeding.
+[^24]: - Al-kafi vol-6: 40 / 2nd chapter of breast feeding.
 
-[^25] - " " -6: 40 / 3rd
+[^25]: - " " -6: 40 / 3rd
 
-[^26] - Qaamoos Attifl Attibbi: 257.
+[^26]: - Qaamoos Attifl Attibbi: 257.
 
-[^27] - Bihaaril Anwaar vol- 43:286.
+[^27]: - Bihaaril Anwaar vol- 43:286.
 
-[^28] - Al-kafi vol-6:22 / 4th ch- Recommended foods for a pregnant
+[^28]: - Al-kafi vol-6:22 / 4th ch- Recommended foods for a pregnant
 woman.
 
-[^29] - " " -6:22 / 5th ch-
+[^29]: - " " -6:22 / 5th ch-
 
-[^30] - Makaarimul Akh'laq: 169.
+[^30]: - Makaarimul Akh'laq: 169.
 
-[^31] - Al-kafi vol-6:305 and after it.
-
+[^31]: - Al-kafi vol-6:305 and after it.
 

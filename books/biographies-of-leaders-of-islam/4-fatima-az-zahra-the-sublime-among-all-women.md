@@ -494,4 +494,3 @@ Her tomb, built later, was razed to the ground along with other tombs of
 the Prophet's family by the WAHHABI monarch of SAUDI ARABIA the bigoted
 IBN SA'UD on SHAWWAL 8, A.H. (April 21, 1926 A.D).
 
-

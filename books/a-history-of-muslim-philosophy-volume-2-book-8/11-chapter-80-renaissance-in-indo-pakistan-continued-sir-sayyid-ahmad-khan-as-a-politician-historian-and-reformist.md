@@ -1007,4 +1007,3 @@ published as an appendix to *Hayat-i Jawid*.
 
 [^11]: Idem, Majmuah-i Lectures, p. 308.
 
-

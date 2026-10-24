@@ -39,12 +39,8 @@ justice and fighting oppression.
 On account of these characteristics, the Holy Qur’an has referred to the
 Ahl al-Bayt (‘a) thus:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***Allah only desires to keep away impurity from you, O people of the
 House, and to purify you a (thorough) purifying. (33/33)***
@@ -123,12 +119,8 @@ continuity of the Divine Message although such extension has not been
 described as prophethood, since the Holy Prophet (S) is reported to have
 said to Imam ‘Ali (‘a):
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى إلاَّ أَنَّهُ لاَ
-نَبِيَّ بَعْدِي.
-  </p>
-</blockquote>
+> أَنْتَ مِنِّي بِمَنْزِلَةِ هَارُونَ مِنْ مُوسَى إلاَّ أَنَّهُ لاَ
+> نَبِيَّ بَعْدِي.
 
 *Your position to me is the same as the position of (Prophet) Aaron (‘a)
 to (Prophet) Moses (‘a) except that no Prophet will come after me.*
@@ -665,5 +657,4 @@ meant from the word ijtihad in this book. [translator]
 (al-tasamuh fi addilat al-sunan) is a jurisprudential principle
 entailing inclusion of a certain state within a common ruling even if
 this state has not been proven to belong to it. [translator]
-
 

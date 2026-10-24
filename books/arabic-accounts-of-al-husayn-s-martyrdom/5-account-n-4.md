@@ -133,19 +133,19 @@ traditions from him.
 
 **Notes:**
 
-[^18] Al-Mas'udi, Muruj al-Dhahab (Beirut, n.d.), III, pp. 53-5.
-[^19] Ibid., pp. 60-1.
-[^20] Abu al-Faraj, op. cit., p. 63.
-[^21] Al-Tabari, op. cit., 11, pp. 292-3.
-[^22] Ibid., p. 294.
-[^23] Ibid., p. 300.
-[^24] Ibid., p. 314.
-[^25] Ibid., p. 314.
-[^26] Ibid., p. 314.
-[^27] Ibid., p. 315.
-[^28] J. Wellhausen, The Religio-Political Factions in Early Islam, tr.
+[^18]: Al-Mas'udi, Muruj al-Dhahab (Beirut, n.d.), III, pp. 53-5.
+[^19]: Ibid., pp. 60-1.
+[^20]: Abu al-Faraj, op. cit., p. 63.
+[^21]: Al-Tabari, op. cit., 11, pp. 292-3.
+[^22]: Ibid., p. 294.
+[^23]: Ibid., p. 300.
+[^24]: Ibid., p. 314.
+[^25]: Ibid., p. 314.
+[^26]: Ibid., p. 314.
+[^27]: Ibid., p. 315.
+[^28]: J. Wellhausen, The Religio-Political Factions in Early Islam, tr.
 Walzer and Ostle (Amsterdam, 1975).
-[^29] Al-Tabari, op. cit., II, 282.
-[^30] Ibid., p. 360.
-[^31] Ibid., p. 366.
+[^29]: Al-Tabari, op. cit., II, 282.
+[^30]: Ibid., p. 360.
+[^31]: Ibid., p. 366.
 

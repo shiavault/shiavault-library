@@ -11,7 +11,6 @@ rights and the certainty of His Imamate, and to be aware of his
 protection (from error), perfection and the demonstration of the proof
 of him.,
 
-
 **The Miracle of his Wisdom while still a Boy
 **
 Among these are some qualities which make him equal to two of the
@@ -80,9 +79,7 @@ to be transcended in the case of the Commander of the faithful, peace be
 on him, by an illustrious sign which is equivalent to His two prophets
 whom the Qur'an speaks of in its great verses as we have explained.
 
-
 The Miracle of his Military Prowess
-
 
 Among the signs of God, the Exalted, concerning the Commander of the
 faithful, peace be on him, which transcend ordinary human behaviour is
@@ -128,7 +125,6 @@ it confirms what we have mentioned about his being set apart by an
 illustrious sign and a clear miracle transcending ordinary human
 behaviour by which God indicated his Imamate and revealed the duty to
 obey him. By that He set him apart from all mankind.
-
 
 The Miracle of the Survival of his Reputation and his Family despite
 Suppression and Oppression
@@ -258,7 +254,6 @@ already described and explained.
 This is something about which there can be no doubt. Praise be to God,
 Lord of the Worlds.
 
-
 **The Prophecies and Inner Knowledge of the Commander of the Faithful
 **
 Among the illustrious signs of God concerning him, peace be on him, and
@@ -314,7 +309,6 @@ reports have made public knowledge, what traditions have been widespread
 and what everybody hands down about him, peace be on him?
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 He said before fighting against the three groups after the pledge of
 allegiance had been made to him: "I have been ordered to fight against

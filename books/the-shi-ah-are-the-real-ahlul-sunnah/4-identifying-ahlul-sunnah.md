@@ -144,4 +144,3 @@ Sunnis. \_\_ Tr.
 “Ahlul Sunnah wal Jama\`ah” did not add the name of Ali ibn Abu Talib to
 the three “righteous caliphs” except at a very late period in history.
 
-

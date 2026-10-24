@@ -368,12 +368,8 @@ Muslims. The Quran tells the Prophet of Islam (S) explicitly that he was
 not made cruel and hard-hearted because that would have dispersed people
 from around him.
 
-<blockquote dir="rtl">
-  <p>
-{... وَلَوْ كنتَ فَظًّا غَلِيظَ الْقَلْبِ لاَنفَضُّواْ مِنْ
-حَوْلِك...}
-  </p>
-</blockquote>
+> {... وَلَوْ كنتَ فَظًّا غَلِيظَ الْقَلْبِ لاَنفَضُّواْ مِنْ
+> حَوْلِك...}
 
 ***“And had you been harsh and hardhearted, surely they would have
 scattered from around you”.*** [^9]
@@ -509,12 +505,8 @@ the Quranic Verses- they called sincerely upon God only whilst they were
 ensnared by a calamity (for instance when they were trapped in turbulent
 sea waves).
 
-<blockquote dir="rtl">
-  <p>
-{فَإِذَا رَكبُوا فِي الْفُلْك دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
-الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكونَ}
-  </p>
-</blockquote>
+> {فَإِذَا رَكبُوا فِي الْفُلْك دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
+> الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكونَ}
 
 ***"when they board the ships they invoke Allah putting exclusive faith
 in Him,*** ***but when He delivers them to land, behold, they ascribe
@@ -539,19 +531,11 @@ Enemies of God! ( (اعداءالله[^18]
 
 The disbelievers have some other doubt! [^19]
 
-<blockquote dir="rtl">
-  <p>
-للمشركين شبهة أخری
-  </p>
-</blockquote>
+> للمشركين شبهة أخری
 
 Those ignorant disbelievers! [^20]
 
-<blockquote dir="rtl">
-  <p>
-(هـؤلاء المشركين الجهّال)
-  </p>
-</blockquote>
+> (هـؤلاء المشركين الجهّال)
 
 The enemies of Tawheed (monotheism)! (اعداء التوحيد) [^21]
 
@@ -565,12 +549,8 @@ scholars, he addresses them by various offensive names and accuses
 everyone of ignorance, polytheism shirk and disbelief, whereas the Holy
 Quran states explicitly:
 
-<blockquote dir="rtl">
-  <p>
-{...وَلاَ تَقُولُواْ لِمَنْ أَلْقَى إِلَيْكُمُ السَّلاَمَ لَسْتَ
-مُؤْمِناً تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا...}
-  </p>
-</blockquote>
+> {...وَلاَ تَقُولُواْ لِمَنْ أَلْقَى إِلَيْكُمُ السَّلاَمَ لَسْتَ
+> مُؤْمِناً تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا...}
 
 ***"Do not say to someone who offers you peace, 'You are not a
 believer', seeking the transitory wares of the life of this
@@ -636,14 +616,10 @@ permission to enter *Masjid-ul-Haraam* (The holy Mosque in Mecca) is
 forbidden to them, even if poverty is feared, for the Lord will sustain
 the believers out of His grace.
 
-<blockquote dir="rtl">
-  <p>
-{يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلاَ
-يَقْرَبُواْ الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَذَا وَإِنْ
-خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللّهُ مِن فَضْلِهِ إِن شَاءَ
-إِنَّ اللّهَ عَلِيمٌ حَكِيمٌ}
-  </p>
-</blockquote>
+> {يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلاَ
+> يَقْرَبُواْ الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَذَا وَإِنْ
+> خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللّهُ مِن فَضْلِهِ إِن شَاءَ
+> إِنَّ اللّهَ عَلِيمٌ حَكِيمٌ}
 
 ***"O you who have faith: the Polytheists are indeed unclean: so let
 them not approach the Holy Mosque after this year. Should you fear
@@ -775,5 +751,4 @@ Al-Sadiq هل الدين إلا المحبة).
 [^30]: – ضيوف الرحمن.
 
 [^31]: – آل سعود.
-
 

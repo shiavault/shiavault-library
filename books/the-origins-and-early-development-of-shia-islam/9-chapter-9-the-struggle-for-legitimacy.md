@@ -1008,4 +1008,3 @@ Nujum, I, pp.273 f. The last source here says he died in AH 114.
 [^82]: Al-Ja'fariya should not be confused with the name Madhhab
 al-Ja'fari, given very often to the present Twelver Shi'a.
 
-

@@ -573,4 +573,3 @@ mission. In that there is such merit that not even the weight of
 mountains could outweigh it, nor do all other virtues go beyond it in
 position and rank.
 
-

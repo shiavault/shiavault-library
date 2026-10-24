@@ -654,4 +654,3 @@ Tabrani and al Isabah, Ibn Hajjar
 
 [^19]: Tabaqat, Ibn Sa'd, vol 2 p 29
 
-

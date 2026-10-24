@@ -50,21 +50,13 @@ the religious leaders, authorities and guides of the Ummah. The author
 points out that this interpretation of the *Hadith al-Thaqalayn* is also
 confirmed by some verses of the Holy Qur'an such as:
 
-<blockquote dir="rtl">
-  <p>
-...قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ...
-  </p>
-</blockquote>
+> ...قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ...
 
 ***Say: 'I do not ask of you a wage for this, except love for the
 kinsfolk.' (42:23)***
 
-<blockquote dir="rtl">
-  <p>
-وَقِفُوهُمْ ۖ إِنَّهُم مَّسْئُولُونَ
-  </p>
-</blockquote>
+> وَقِفُوهُمْ ۖ إِنَّهُم مَّسْئُولُونَ
 
 ***And halt them, to be questioned. (37:24)***
 
@@ -122,15 +114,11 @@ in *Yanabi’ al-mawaddah,* 20, from al-Hasan ibn ‘Ali (A), contain the
 following statement of the Prophet (S) which signifies the perpetuity of
 the Imamate:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أعلم أن العلم لا يبيد ولا ينقطع ، وإنك لا تخلي أرضك من حجة
-لك على خلقك ، ظاهر ليس بالمطاع ، أو خائف مغمور لكيلا يبطل حجتك ، ولا
-يضل أولياؤك بعد إذ هديتهم ، أولئك الأقلون عددا الأعظمون قدرا عند الله
-عز وجل, ولقد دعوت الله تبارك وتعالى أن يجعل العلم والحكمة في وعقب عقبي
-وفي زرعي وزرع زرعي إلى يوم القيامة فاستجيب لي. 
-  </p>
-</blockquote>
+> اللهم إني أعلم أن العلم لا يبيد ولا ينقطع ، وإنك لا تخلي أرضك من حجة
+> لك على خلقك ، ظاهر ليس بالمطاع ، أو خائف مغمور لكيلا يبطل حجتك ، ولا
+> يضل أولياؤك بعد إذ هديتهم ، أولئك الأقلون عددا الأعظمون قدرا عند الله
+> عز وجل, ولقد دعوت الله تبارك وتعالى أن يجعل العلم والحكمة في وعقب عقبي
+> وفي زرعي وزرع زرعي إلى يوم القيامة فاستجيب لي.
 
 O God, You don't let the earth remain devoid of Your Proof over Your
 creation so that Your proofs should not become invalid or that Your
@@ -144,17 +132,13 @@ and my prayer was granted.
 This closely resembles the following tradition of *Nahj al-­balaghah
 (Hikam:*147*)* addressed by ‘Ali (A) to his pupil Kumayl ibn Ziyad.
 
-<blockquote dir="rtl">
-  <p>
-لا تخلو الأرض من قائم لله بحجة إما ظاهرا مشهورا أو خائفا مغمورا لئلا
-تبطل حجج الله وبيناته. وكم ذا وأين أولئك؟ أولئك - والله - الاقلون
-عددا، والاعظمون عند الله قدرا. يحفظ الله بهم حججه وبيناته حتى يودعوها
-نظراءهم ويزرعوها في قلوب أشباههم. جَم بهم العلم على حقيقة البصيرة ،
-وباشروا روح اليقين واستلانوا ما استوعره المترفون ، وأنسوا بما أستوحش
-منه الجاهلون ، وصحبوا الدنيا بأبدان أرواحها متعلقة بالمحل الأعلى ،
-أولئك خلفاء الله في أرضه والدعاة إلى دينه ، آه آه شوقا إلى رؤيتهم!
-  </p>
-</blockquote>
+> لا تخلو الأرض من قائم لله بحجة إما ظاهرا مشهورا أو خائفا مغمورا لئلا
+> تبطل حجج الله وبيناته. وكم ذا وأين أولئك؟ أولئك - والله - الاقلون
+> عددا، والاعظمون عند الله قدرا. يحفظ الله بهم حججه وبيناته حتى يودعوها
+> نظراءهم ويزرعوها في قلوب أشباههم. جَم بهم العلم على حقيقة البصيرة ،
+> وباشروا روح اليقين واستلانوا ما استوعره المترفون ، وأنسوا بما أستوحش
+> منه الجاهلون ، وصحبوا الدنيا بأبدان أرواحها متعلقة بالمحل الأعلى ،
+> أولئك خلفاء الله في أرضه والدعاة إلى دينه ، آه آه شوقا إلى رؤيتهم!
 
 ...But the earth is never devoid of him who stands for God with a proof
 *(qa'im li'Ilah bi hujjatin).* He is either manifest and well-known or
@@ -206,5 +190,4 @@ by Ibn Abi al-Hadid in *Sharh Nahj al-Balaghah,* iv, 95. All these
 references affirm the preeminence of ‘Ali ibn Abi Talib (A) and the
 Ahlul Bayt (A) in the Ummah and their claim to the comprehensive
 leadership of the Ummah after the Holy Prophet (S).
-
 

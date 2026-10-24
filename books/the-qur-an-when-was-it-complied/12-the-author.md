@@ -125,4 +125,3 @@ foes during war or peace times are presented in this book, which gives
 the reader a clear insight into the way and the basis upon which the
 Prophet of Islam used to conduct his affairs in this respect.
 
-

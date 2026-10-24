@@ -117,4 +117,3 @@ shed some light on this matter to meet objections against the Islamic
 system of punishment suggested by some Westerners who consider it
 incompatible.
 
-

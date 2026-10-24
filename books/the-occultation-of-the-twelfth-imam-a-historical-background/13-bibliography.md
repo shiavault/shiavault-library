@@ -625,4 +625,3 @@ al‑Ma'm'un,* Baghdad, 1945.
 al‑Zubayri, Mas'ab b. ‘Abd Allah (d. 236/850), *Nasab Quraysh,* Cairo,
 1953.
 
-

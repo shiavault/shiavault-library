@@ -53,4 +53,3 @@ the same literal sense of the Name: It means He realizes matters.
 above all comprehension, yet He is acquainted with all things” (Qur’an,
 6:103).***
 
-

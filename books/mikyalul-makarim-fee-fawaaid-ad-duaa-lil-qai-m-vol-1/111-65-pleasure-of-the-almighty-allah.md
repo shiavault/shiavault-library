@@ -13,4 +13,3 @@ me happy and one who makes me happy, makes Allah happy.”[^1]
 
 [^1]: Kafi; Vol. 2, Pg. 188
 
-

@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تُبْدُوا الصَّدَقاَتِ فَنِعِمَّا هِيَ
-  </p>
-</blockquote>
+> إِنْ تُبْدُوا الصَّدَقاَتِ فَنِعِمَّا هِيَ
 
 *“If you give alms openly, it is well.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-تَصَدَّقُوا وَ لَو بِتَمرَةٍ.
-  </p>
-</blockquote>
+> تَصَدَّقُوا وَ لَو بِتَمرَةٍ.
 
 *“Give charity, even if it happens to be a (piece of) date.”*[^2]
 
@@ -124,11 +116,7 @@ bread were used up.
 As we turned back, I said to him: “May I be made your ransom! Are they
 Shiites?” The Imam (a.s) replied:
 
-<blockquote dir="rtl">
-  <p>
-لَو عَرَفُوه لَوَاسَينَاهُم بِالدُّقًّةِ
-  </p>
-</blockquote>
+> لَو عَرَفُوه لَوَاسَينَاهُم بِالدُّقًّةِ
 
 “Had they been Shiites, I would have provided them with all that they
 needed - even their salt.”[^5]
@@ -252,5 +240,4 @@ pg. 257
 [^7]: Iblis Nameh, pg. 60; Anwar al-Nu’maniyyah, vol. 3, pg. 96
 
 [^8]: Pand-e-Tarikh, vol. 4, pg. 112; Raudhah al-Jannat, pg. 105
-
 

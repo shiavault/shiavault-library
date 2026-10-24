@@ -130,4 +130,3 @@ Trans. R. Campbell. Alavi Foundation, 2000, page 158. 47
 
 [^3]: Tabataba’i, page 196. 49
 
-

@@ -3,12 +3,10 @@ Five Moral Habits of the Holy Prophet
 
 Allah’s Messenger is reported by Imam al-Baqir (a.s) as saying:
 
-<p dir="rtl">
 خَمْسٌ لَسْتُ بِتَارِكِهِنَّ حَتَّى الْمَمَاتِ: لِبَاسِي الصُّوفَ،
 وَرُكُوبِي الْحِمَارَ مُؤكِفاً، وَأكْلِي مَعَ الْعَبِيدِ، وَخَصْفِي
 النَّعْلَ بِالْيَدِ، وَتَسْلِيمِي عَلَى الصِّبْيَانِ لِتَكُونَ سُنَّةً
 مِنْ بَعْدِي.
-</p>
 
 I will not quit five habits until the moment of my death: wearing
 coarse clothes, riding a mule without packsaddle, eating with the
@@ -63,5 +61,4 @@ had no home. One evening, the Holy Prophet broke his fast with the needy
 in the mosque in a stone vessel. Since the food had been blessed by the
 Holy Prophet, thirty people ate from it and they took the rest of the
 food for their wives.”[^4]
-
 

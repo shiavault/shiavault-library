@@ -311,4 +311,3 @@ become extinct. We also saw the Ghadir spring flowing to another
 direction towards the trees that were about 20 kilometres away from the
 spring.
 
-

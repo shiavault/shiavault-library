@@ -182,4 +182,3 @@ People who are not obliged to struggle and who live in an environment
 free of all contradiction will easily be immersed by material prosperity
 in their pleasures and lusts.
 
-

@@ -4,14 +4,10 @@ Section 11: Connections Severed With the Hypocrites
 Surah At-Tawbah – Verse 81
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرِحَ الْمُـخَلَّفُونَ بِمَقْعَدِهِمْ خِلاَفَ رَسُولِ اللّهِ
-وَكَرِهُوا أَن يُجَاهِدُوا بِاَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ
-اللّهِ وَقَالُوا لاتَنْفِرُوا فِي الْحَرِّ قُلْ نَارُ جَهَنَّمَ
-أَشَدُّ حَرّاً لَوْ كَانُوا يَفْقَهُونَ
-  </p>
-</blockquote>
+> فَرِحَ الْمُـخَلَّفُونَ بِمَقْعَدِهِمْ خِلاَفَ رَسُولِ اللّهِ
+> وَكَرِهُوا أَن يُجَاهِدُوا بِاَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ
+> اللّهِ وَقَالُوا لاتَنْفِرُوا فِي الْحَرِّ قُلْ نَارُ جَهَنَّمَ
+> أَشَدُّ حَرّاً لَوْ كَانُوا يَفْقَهُونَ
 
 **81*****. “Those who were left behind were glad on account of their
 sitting behind against (the command of) the Messenger of Allah, and were
@@ -44,12 +40,8 @@ Fire of Hell is waiting for them.
 Surah At-Tawbah – Verse 82
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَضْحَكُوا قَلِيلاً وَلْيَبْكُوا كَثِيراً جَزَآءً بِمَا كَانُوا
-يَكْسِبُونَ
-  </p>
-</blockquote>
+> فَلْيَضْحَكُوا قَلِيلاً وَلْيَبْكُوا كَثِيراً جَزَآءً بِمَا كَانُوا
+> يَكْسِبُونَ
 
 **82*****. “Therefore they shall laugh a little and weep much (as) a
 recompense for what they used to earn.”***
@@ -69,14 +61,10 @@ for what they used to earn.”***
 Surah At-Tawbah – Verse 83
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن رَجَعَكَ اللّهُ إِلَى طَآئِفَةٍ مِنْهُمْ فَاسْتَأْذَنُوكَ
-لِلْخُرُوجِ فَقُل لَن تَخْرُجُوا مَعِيَ أَبَداً وَلَن تُقَاتِلُوا
-مَعِيَ عَدُوّاً اِنَّكُم رَضِيتُمْ بِالْقُعُودِ أَوَّلَ مَرَّةٍ
-فَاقْعُدُوا مَعَ الْخَالِفِينَ
-  </p>
-</blockquote>
+> فإِن رَجَعَكَ اللّهُ إِلَى طَآئِفَةٍ مِنْهُمْ فَاسْتَأْذَنُوكَ
+> لِلْخُرُوجِ فَقُل لَن تَخْرُجُوا مَعِيَ أَبَداً وَلَن تُقَاتِلُوا
+> مَعِيَ عَدُوّاً اِنَّكُم رَضِيتُمْ بِالْقُعُودِ أَوَّلَ مَرَّةٍ
+> فَاقْعُدُوا مَعَ الْخَالِفِينَ
 
 **83*****. “So if Allah brings you back to a party of them and they ask
 your permission to go forth, say: ‘You shall never go forth with me and
@@ -113,13 +101,9 @@ also idle) with those who stay behind.”***
 Surah At-Tawbah – Verse 84
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا تُصَلِّ عَلَى أَحَدٍ مِنْهُم مَاتَ أَبَداً وَلاتَقُمْ عَلَى
-قَبْرِهِ إِنَّهُمْ كَفَرُوا بِاللّهِ وَرَسُولِهِ وَمَاتُوا وَهُمْ
-فَاسِقُونَ
-  </p>
-</blockquote>
+> وَلا تُصَلِّ عَلَى أَحَدٍ مِنْهُم مَاتَ أَبَداً وَلاتَقُمْ عَلَى
+> قَبْرِهِ إِنَّهُمْ كَفَرُوا بِاللّهِ وَرَسُولِهِ وَمَاتُوا وَهُمْ
+> فَاسِقُونَ
 
 **84*****. “And never pray over any one of them who dies, nor stand by
 his grave. They indeed disbelieved in Allah and His Messenger, and died
@@ -147,13 +131,9 @@ grave…”***
 Surah At-Tawbah – Verse 85
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُعْجِبْكَ أَمْوَالُهُمْ وَأَوْلاَدُهُمْ إِنَّمَا يُرِيدُ اللّهُ
-أَن يُعَذِّبَهُم بِهَا فِي الْدُّنْيَا وَتَزْهَقَ أَنْفُسُهُمْ وَهُمْ
-كَافِرُونَ
-  </p>
-</blockquote>
+> وَلاَ تُعْجِبْكَ أَمْوَالُهُمْ وَأَوْلاَدُهُمْ إِنَّمَا يُرِيدُ اللّهُ
+> أَن يُعَذِّبَهُم بِهَا فِي الْدُّنْيَا وَتَزْهَقَ أَنْفُسُهُمْ وَهُمْ
+> كَافِرُونَ
 
 **85*****. “And let not their possessions and their children astonish
 you; verily Allah only desires thereby to chastise them in this world,
@@ -173,13 +153,9 @@ that their souls depart while they are infidels.”***
 Surah At-Tawbah – Verse 86
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَآ اُنْزِلَتْ سُورَةٌ أَنْ ءَامِنُوا بِاللّهِ وَجَاهِدُوا مَعَ
-رَسُولِهِ اسْتَأْذَنَكَ اُولُوا الطَّوْلِ مِنْهُمْ وَقَالُوا ذَرْنَا
-نَكُن مَعَ الْقَاعِدِينَ
-  </p>
-</blockquote>
+> وإِذَآ اُنْزِلَتْ سُورَةٌ أَنْ ءَامِنُوا بِاللّهِ وَجَاهِدُوا مَعَ
+> رَسُولِهِ اسْتَأْذَنَكَ اُولُوا الطَّوْلِ مِنْهُمْ وَقَالُوا ذَرْنَا
+> نَكُن مَعَ الْقَاعِدِينَ
 
 **86*****. “And whenever a Surah is sent down, saying ‘Believe in Allah
 and strive hard along with His Messenger’, those with abundant means
@@ -213,12 +189,8 @@ back.”***
 Surah At-Tawbah – Verse 87
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَضُوا بِاَن يَكُونُوا مَعَ الْخَوَالِفِ وَطُبِعَ عَلَى قُلُوبِهِمْ
-فَهُمْ لايَفْقَهُونَ
-  </p>
-</blockquote>
+> رَضُوا بِاَن يَكُونُوا مَعَ الْخَوَالِفِ وَطُبِعَ عَلَى قُلُوبِهِمْ
+> فَهُمْ لايَفْقَهُونَ
 
 **87*****. “They were content that they should be with those who stay
 behind, and a seal has been set upon their hearts,*** ***so they do not
@@ -249,13 +221,9 @@ understand.”***
 Surah At-Tawbah – Verse 88
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لكِنِ الْرَّسُولُ وَالَّذِينَ ءَامَنُوا مَعَهُ جَاهَدُوا
-بِاَمْوَالِهِمْ وَأَنْفُسِهِمْ وَاُوْلَئِكَ لَهُمُ الْخَيْرَاتُ
-وَاُوْلَئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> لكِنِ الْرَّسُولُ وَالَّذِينَ ءَامَنُوا مَعَهُ جَاهَدُوا
+> بِاَمْوَالِهِمْ وَأَنْفُسِهِمْ وَاُوْلَئِكَ لَهُمُ الْخَيْرَاتُ
+> وَاُوْلَئِكَ هُمُ الْمُفْلِحُونَ
 
 **88*****. “But the Messenger, and those who believe with him, strive
 hard with their possessions and their selves, and these it is who shall
@@ -289,12 +257,8 @@ enjoyed of the Divine bounties.
 Surah At-Tawbah – Verse 89
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَعَدَّ اللّهُ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الاَنْهَارُ
-خَالِدِينَ فِيهَا ذَلِكَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> أَعَدَّ اللّهُ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الاَنْهَارُ
+> خَالِدِينَ فِيهَا ذَلِكَ الْفَوْزُ الْعَظِيمُ
 
 **89*****. “Allah has prepared for them gardens beneath which rivers
 flow wherein shall they abide forever. That is the great success.”***
@@ -322,5 +286,4 @@ misunderstanding. Surah ‘Ankabūt, No. 29, verse 69 says:
 
 ***“And (as for) those who strive hard for Us, We will most certainly
 guide them in Our ways…”***
-
 

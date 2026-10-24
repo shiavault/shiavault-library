@@ -145,4 +145,3 @@ subject.
 Many of the above mentioned sins are also crimes punishable under
 Islamic penal code.
 
-

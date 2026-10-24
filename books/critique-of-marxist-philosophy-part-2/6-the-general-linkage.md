@@ -40,4 +40,3 @@ the past from astronomy, geology and biology to sociology, history,
 anthropology, and the historical study of art, technology, religion,
 politics, language and ideas.
 
-

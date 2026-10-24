@@ -405,4 +405,3 @@ friendship. Imam Ali (a.s.) in one of his sermons says:
 moderation because it is possible that one day that friend may become
 your enemy."
 
-

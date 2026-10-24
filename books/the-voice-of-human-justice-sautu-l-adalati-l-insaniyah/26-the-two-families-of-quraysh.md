@@ -343,4 +343,3 @@ slaughtered instead of Abdullah) unless the lots are drawn thrice and
 everv time they fall on the camels”. This was done and Abdul Muttalib
 was satisfied only when the lot fell on the camels thrice.
 
-

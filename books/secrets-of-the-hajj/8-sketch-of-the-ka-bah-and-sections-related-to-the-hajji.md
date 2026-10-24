@@ -157,4 +157,3 @@ Rukn al‑Gharbi (Western Corner) is the one that comes after Hijr Isma'il
 one that comes before the Black Stone corner (also known as Rukn
 al‑Aimani).
 
-

@@ -69,4 +69,3 @@ their beliefs.
 
 All praise is due to Allah, the Lord of the worlds.
 
-

@@ -82,10 +82,8 @@ Islam, while holding it to be compatible with it. In this line, some
 have said that sufism is an acceptable innovation in Islam, like
 monasticism in Christianity. In this regard, the Glorious Qur'an states:
 
-<p dir="rtl">
 …وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا
 ابْتِغَاءَ رِضْوَانِ اللَّهِ …
-</p>
 
 ***“And as for monasticism, they invented it themselves; We did not
 prescribe it for them, except for seeking the pleasure of Allah.”
@@ -116,5 +114,4 @@ Peace and Blessings of Allah be upon him and his folk, and his true
 successors, we do not deny the existence of foreign elements among the
 Muslim gnostics and sufis. Many of the views and manners of behaviour of
 the sufi orders are disputable.
-
 

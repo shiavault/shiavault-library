@@ -69,4 +69,3 @@ described word is mentioned, if it is implied the adjective must follow
 the described word in gender. For example: **جاءَ** **جَریحٌ** و
 **جَریحَةٌ** (the injured [man] and the injured [woman] came).
 
-

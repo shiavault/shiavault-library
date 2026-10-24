@@ -157,24 +157,16 @@ populate the earth and to guarantee the needs of all.
 
 The Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنَ الْمَآءِ كُلَّ شَىْ‏ءٍ حَىٍّ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنَ الْمَآءِ كُلَّ شَىْ‏ءٍ حَىٍّ
 
 ***“…and We have made of water everything living.” (21:30)***
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-أللَّهُ الَّذِى يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَاباً فَيَبْسُطُهُ
-فِى السَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُ كِسَفاً فَتَرَى الْوَدْقَ
-يَخْرُجُ مِنْ خِلاَلِهِ فَإِذَآ أَصَابَ بِهِ مَن يَشَآءُ مِن عِبَادِهِ
-إِذَا هُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> أللَّهُ الَّذِى يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَاباً فَيَبْسُطُهُ
+> فِى السَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُ كِسَفاً فَتَرَى الْوَدْقَ
+> يَخْرُجُ مِنْ خِلاَلِهِ فَإِذَآ أَصَابَ بِهِ مَن يَشَآءُ مِن عِبَادِهِ
+> إِذَا هُمْ يَسْتَبْشِرُونَ
 
 ***“Allah is He Who sends forth the winds so they raise a cloud, then He
 spreads it forth in the sky as He pleases, and He breaks it up so that
@@ -184,14 +176,10 @@ fall upon whom He pleases of His servants, lo! they are joyful.”
 
 And He says:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِى أَنزَلَ مِنَ السَّمَآءِ مَآءً لَّكُم مِّنْهُ شَرَابٌ
-وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ‏ / يُنبِتُ لَكُم بِهِ الزَّرْعَ
-وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَبَ وَمِن كُلِّ الَّثمَرَ تِ
-إِنَّ فِى ذَ لِكَ لَأَيَةً لِّقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِى أَنزَلَ مِنَ السَّمَآءِ مَآءً لَّكُم مِّنْهُ شَرَابٌ
+> وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ‏ / يُنبِتُ لَكُم بِهِ الزَّرْعَ
+> وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَبَ وَمِن كُلِّ الَّثمَرَ تِ
+> إِنَّ فِى ذَ لِكَ لَأَيَةً لِّقَوْمٍ يَتَفَكَّرُونَ
 
 ***“He it is Who sends down water from the cloud for you; it gives
 drink, and by it (grow) the trees upon which you pasture. He causes to
@@ -836,5 +824,4 @@ whether…?
 
 Your intelligent reply is absolutely clear: A great, wise and powerful
 creator has created such an amazing system. God is great.
-
 

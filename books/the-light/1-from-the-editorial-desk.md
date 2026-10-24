@@ -39,7 +39,6 @@ for their souls and request a Sura e Fateha.
 
 A humble servant of Ahlul Bayt a.s Fidahusein A. Hameer
 
-
 **Memoirs**
 
 As a young kid, I was always fascinated to watch my late grandfather,
@@ -85,5 +84,4 @@ me, is the experience to see, learn and partially understand the process
 of printing. Today I work for a printing company, DTP and I am grateful
 to The Light magazine for the printing process knowledge it imparted to
 me, a past that is fruitful to date.
-
 

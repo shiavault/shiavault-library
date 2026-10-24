@@ -139,4 +139,3 @@ All praise belongs to Allah.
 May Allah send blessings up on Prophet Muhammad and his purified
 family
 
-

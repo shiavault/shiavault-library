@@ -1,24 +1,20 @@
 Thirty-Sixth Hadith: The Attributes Of God
 ==========================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
-الكُلَيْنِي عَنْ عَلِيِّ بْنِ إبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ خَالِدٍ
-الطَّيَالِسِيُّ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنِ ابْنِ مَسْكَانَ عَنْ
-أبِي بَصِيرٍ قَالَ: سَمِعْتُ أبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ
-يَقُولُ: لَمْ يَزَلِ اللهُ عَزَّ وَجَلَّ رَبَّنَا وَالعِلْمُ ذَاتُهُ
-وَلا مَعْلُومَ، وَالسَّمْعُ ذَاتُهُ وَلا مَسْمُوعَ، وَالبَصَرُ ذَاتُهُ
-وَلا مُبْصِرَ، وَالقُدْرَةُ ذَاتُهُ وَلا مَقْدُورَ. فَلَمَّا أَحْدَثَ
-الأَشْيَاءَ وَكَانَ المَعْلُومُ، وَقَعَ العِلْمُ مِنْهُ عَلَى
-المَعْلُومِ وَالسَّمْعُ عَلَى المَسْمُوعِ وَالبَصَرُ عَلَى المُبْصِرِ
-وَالقُدْرَةُ عَلَى المَقْدُورِ. قَالَ: قُلْتُ: فَلَمْ يَزَلِ اللهُ
-مُتَحَرِّكاً؟ قَالَ: فَقَالَ: تَعَالَى اللهُ عَنْ ذِلِكَ، إنَّ
-الحَرَكَةَ صِفَةٌ مُحْدِثَةٌ بِالفِعْلِ. قَالَ: قُلْتُ: فَلَمْ يَزَلِ
-اللهُ مُتَكَلِّماً؟ قَالَ: فَقَالَ: إنَّ الكَلامَ صِفَةٌ مُحْدِثَةٌ
-لَيْسَتْ بِأَزَلِيَّةٍ، كَانَ اللهُ عَزَّ وَجَلَّ وَلا مُتَكَلِّمٌ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
+> الكُلَيْنِي عَنْ عَلِيِّ بْنِ إبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ خَالِدٍ
+> الطَّيَالِسِيُّ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنِ ابْنِ مَسْكَانَ عَنْ
+> أبِي بَصِيرٍ قَالَ: سَمِعْتُ أبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ
+> يَقُولُ: لَمْ يَزَلِ اللهُ عَزَّ وَجَلَّ رَبَّنَا وَالعِلْمُ ذَاتُهُ
+> وَلا مَعْلُومَ، وَالسَّمْعُ ذَاتُهُ وَلا مَسْمُوعَ، وَالبَصَرُ ذَاتُهُ
+> وَلا مُبْصِرَ، وَالقُدْرَةُ ذَاتُهُ وَلا مَقْدُورَ. فَلَمَّا أَحْدَثَ
+> الأَشْيَاءَ وَكَانَ المَعْلُومُ، وَقَعَ العِلْمُ مِنْهُ عَلَى
+> المَعْلُومِ وَالسَّمْعُ عَلَى المَسْمُوعِ وَالبَصَرُ عَلَى المُبْصِرِ
+> وَالقُدْرَةُ عَلَى المَقْدُورِ. قَالَ: قُلْتُ: فَلَمْ يَزَلِ اللهُ
+> مُتَحَرِّكاً؟ قَالَ: فَقَالَ: تَعَالَى اللهُ عَنْ ذِلِكَ، إنَّ
+> الحَرَكَةَ صِفَةٌ مُحْدِثَةٌ بِالفِعْلِ. قَالَ: قُلْتُ: فَلَمْ يَزَلِ
+> اللهُ مُتَكَلِّماً؟ قَالَ: فَقَالَ: إنَّ الكَلامَ صِفَةٌ مُحْدِثَةٌ
+> لَيْسَتْ بِأَزَلِيَّةٍ، كَانَ اللهُ عَزَّ وَجَلَّ وَلا مُتَكَلِّمٌ.
 
 With my continuous chain of authorities reaching up to the Thiqat
 al-Islam Muhammad ibn Ya’qub al-Kulayni, from ‘Ali ibn Ibrahim, from
@@ -151,11 +147,7 @@ Thus He is the sheerness of Knowledge, the sheerness of Life, the
 sheerness of Power, the sheerness ‘of Sight,’ of Hearing and all other
 perfections. This explains the statement of Imam Sadiq (A) that
 
-<blockquote dir="rtl">
-  <p>
-وَالعِلْمُ ذَاتُهُ وَالقُدْرَةُ وَالسَّمْعُ وَالبَصَرُ ذَاتُهُ.
-  </p>
-</blockquote>
+> وَالعِلْمُ ذَاتُهُ وَالقُدْرَةُ وَالسَّمْعُ وَالبَصَرُ ذَاتُهُ.
 
 And Knowledge is His Essence, and so are Power, Hearing, and Sight His
 Essence.
@@ -301,12 +293,8 @@ Hearer when there was nothing audible, because sight and hearing entail
 the observation of visibles and audibles in a detailed manner, as is
 clear enough. Also, it refers to His detailed knowledge, where it says:
 
-<blockquote dir="rtl">
-  <p>
-فَإذَا أَحْدَثَ الأَشْيَاءَ وَكَانَ المَعْلُومُ، وَقَعَ العِلْمُ
-مِنْهُ عَلَى المَعْلُومِ.
-  </p>
-</blockquote>
+> فَإذَا أَحْدَثَ الأَشْيَاءَ وَكَانَ المَعْلُومُ، وَقَعَ العِلْمُ
+> مِنْهُ عَلَى المَعْلُومِ.
 
 So when He brought the things into being and the known came into
 existence, His knowledge pertained (corresponded) to the known.
@@ -374,11 +362,7 @@ and existence of things. Hence the realm of reality is within the
 purview of His Knowledge and they appear from the hidden realms of
 Divine Ipseity (*ghayb al-huwiyyat*) by His making them manifest:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ.﴾
-  </p>
-</blockquote>
+> ﴿وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ.﴾
 
 ***And with Him are the keys of the Unseen, none knows them but He.***
 (***6:59***)
@@ -390,11 +374,7 @@ mere willing and manifests that which lies in the hidden realms of
 ipseity (*ghayb-e- huwiyyat*)*.* Hence, the entire realm of reality is
 within His knowledge, from which they appear and to which they return:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ.﴾
 
 *Verily, We belong to God and to Him do we return.*[^8]
 
@@ -553,12 +533,8 @@ Hearing, Sight, Will, and Knowledge, all are in their true literal sense
 without implying multiplicity in the Sacred Essence in any respect
 whatsoever.
 
-<blockquote dir="rtl">
-  <p>
-فَلَهُ الأَسْمَاءُ الحُسْنَى وَالأَمْثَالُ العُلْيَا وَالكِبْرِيَاءُ
-وَالآلاءُ.
-  </p>
-</blockquote>
+> فَلَهُ الأَسْمَاءُ الحُسْنَى وَالأَمْثَالُ العُلْيَا وَالكِبْرِيَاءُ
+> وَالآلاءُ.
 
 To Him belong all the Beautiful Names and the highest metaphors, and all
 majesty and bounties.
@@ -584,12 +560,8 @@ creation and relate to Knowledge accidentally, and this accidental
 relation is posterior to creation. And to this reference is made in the
 noble tradition where it is stated:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا أَحْدَثَ الأَشْيَاءَ وَكَانَ المَعْلُومُ، وَقَعَ العِلْمُ
-مِنْهُ عَلَى المَعْلُومِ.
-  </p>
-</blockquote>
+> فَلَمَّا أَحْدَثَ الأَشْيَاءَ وَكَانَ المَعْلُومُ، وَقَعَ العِلْمُ
+> مِنْهُ عَلَى المَعْلُومِ.
 
 And when He brought the things into being, and the known came into
 being, His knowledge pertained to the known.
@@ -605,13 +577,9 @@ light of manifestation.
 Hence, in accordance with the first probability the meaning of the first
 statement would be as follows:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا تَجَلَّى بِفَيْضِهِ المُقَدَّسِ وَظَهَرَ الكَوْنُ بِالعَرَضِ
-وَقَعَ العِلْمُ عَلَى المَعْلُومِ: أيْ ظَهَرَ الفَيْضُ فِي مِرْآةِ
-المُسْتَفِيضِ بِالعَرَضِ.
-  </p>
-</blockquote>
+> فَلَمَّا تَجَلَّى بِفَيْضِهِ المُقَدَّسِ وَظَهَرَ الكَوْنُ بِالعَرَضِ
+> وَقَعَ العِلْمُ عَلَى المَعْلُومِ: أيْ ظَهَرَ الفَيْضُ فِي مِرْآةِ
+> المُسْتَفِيضِ بِالعَرَضِ.
 
 When He manifested Himself through His sacred emanation and the
 accidental being appeared, the knowledge pertained to the known; that
@@ -620,13 +588,9 @@ the emanation.
 
 In accordance with the second probability, it would mean:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا تَجَلَّى بِفَيْضِهِ المُقَدَّسِ وَظَهَرَ وُجُودُ الكَوْنِ
-بِالذَّاتِ: أيْ بِلا حَيْثِيَّةٍ تَقْيِيدِيَّةٍ وَقَعَ الفَيْضُ عَلَى
-المُسْتَفِيضِ بِالذَّاتِ.
-  </p>
-</blockquote>
+> فَلَمَّا تَجَلَّى بِفَيْضِهِ المُقَدَّسِ وَظَهَرَ وُجُودُ الكَوْنِ
+> بِالذَّاتِ: أيْ بِلا حَيْثِيَّةٍ تَقْيِيدِيَّةٍ وَقَعَ الفَيْضُ عَلَى
+> المُسْتَفِيضِ بِالذَّاتِ.
 
 When He manifested Himself through His sacred emanation and the
 existence of the existents-by-essence became manifest-that is without
@@ -813,12 +777,8 @@ and the compliant one on the [plane of] realization are the cognitive
 archetypes (*a’yan ‘ilmiyyah*) implied in the Names and-the Attributes,
 which obtain concrete realization by the command ‘Be!’
 
-<blockquote dir="rtl">
-  <p>
-فَإذَا قَالَ لِكُلِّ عَيْنٍ أَرَادَ إيجَادَهَا: كُنْ، فَيُطِيعُ
-الأَمْرَ الإلَهِيَّ، فَيَكُونُ وَيَتَحَقَّقُ.
-  </p>
-</blockquote>
+> فَإذَا قَالَ لِكُلِّ عَيْنٍ أَرَادَ إيجَادَهَا: كُنْ، فَيُطِيعُ
+> الأَمْرَ الإلَهِيَّ، فَيَكُونُ وَيَتَحَقَّقُ.
 
 So when He says ‘Be! To every archetypes that He wills to create, it
 complies with the Divine command, and it as and actualized
@@ -858,5 +818,4 @@ Qum.
 
 [^9]: Sharh Hikmat al-ishraq, 358-366; al-Asfar, vi, 423, safar 3,
 mawqif 6.
-
 

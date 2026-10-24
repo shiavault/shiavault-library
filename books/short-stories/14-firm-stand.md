@@ -190,4 +190,3 @@ many Islamic countries under the false names of civilization and
 progress. I have decided to come home to be with her... We will both
 find true happiness in the instructions of Islam..."
 
-

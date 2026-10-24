@@ -32,7 +32,6 @@ befalls you the like of what befell the people of Noah, or the people of
 Hud or the people of Salih; and the people of Lot are not far off from
 you. "
 
-
 **Commentary : Verse 90**
 
 (90) وَ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ رَبِّي
@@ -63,7 +62,6 @@ says:
 
 (1) The term/ wadoud/ refers to that kind of friendship which is
 everlasting.
-
 
 **Commentary : Verse 91**
 
@@ -111,7 +109,6 @@ assistance.
 past generations. "... The like of what befell the people of Noah,
 ..."
 
-
 **Commentary : Verse 92**
 
 (92) وَ يا قَوْمِ اعْمَلُوا عَلى‏ مَكانَتِكُمْ إِنِّي عامِلٌ سَوْفَ
@@ -146,7 +143,6 @@ did and did not hear what they said, for one can be sure, that the Lord
 is aware of all of our deeds. The verse concludes:
 
 "... Verily my Lord encompasses what you do'. "
-
 
 **Commentary : Verse 93**
 
@@ -183,7 +179,6 @@ soon entangle you and your misguided population, exterminating you from
 the face of the earth. The verse says:
 
 "... And watch you; Verily I(too)am watching with you. "
-
 
 **Commentary : Verse 94**
 
@@ -240,5 +235,4 @@ says:
 
 "... Behold! Away with(people of)Madyan, even as were cast away(the
 people of )Thamoud. "
-
 

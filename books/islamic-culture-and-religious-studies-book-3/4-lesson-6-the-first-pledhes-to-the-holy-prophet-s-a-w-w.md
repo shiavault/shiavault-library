@@ -175,7 +175,6 @@ teach Islam?
 Aqaba?
 And what was the result of that pledge?
 
-
 **Lesson 7 : The Plot Of The Mushrikeen**
 
 After learning of the meeting at Aqaba between the Prophet (s.a.w.w.)
@@ -294,5 +293,4 @@ solution to their problems, what did he say?
 were determined to migrate to Medina?
 4. The Kuffar had a meeting to discuss what issue? What decision did
 they make in this meeting?
-
 

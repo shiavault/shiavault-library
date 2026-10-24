@@ -1,11 +1,7 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم‌ اللّه‌ الرّحمن‌ الرّحيم
-  </p>
-</blockquote>
+> بسم‌ اللّه‌ الرّحمن‌ الرّحيم
 
 ***In the Name of Allah, the All-beneficent, the All-merciful***
 
@@ -33,11 +29,7 @@ of the prophets of God is primarily to introduce the original theistic
 religion to mankind – the religion whose main slogan is total submission
 to the One and Only God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الدِّينَ عِندَ اللَّهِ الإِسْلامُ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الدِّينَ عِندَ اللَّهِ الإِسْلامُ ﴾
 
 ***“Indeed, with Allah religion is Islam.”***[^1]
 
@@ -45,11 +37,7 @@ Submission to God means not to worship anyone or anything other than God
 and to obey the Divine laws and decrees. These laws and decrees are what
 are technically called *sharī‘ah*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا ﴾
-  </p>
-</blockquote>
+> ﴿ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا ﴾
 
 ***“For each [community] among you We had appointed a code [of law] and
 a path.”***[^2]
@@ -107,12 +95,8 @@ disputation. This is what God has commanded the Holy Prophet (*ṣ*) so as
 to invite mankind to the Divine religion with wisdom and beautiful
 preaching and argue with them in the best way.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ٱدْعُ إِلِىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
-الْحَسَنَةِ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ﴾
-  </p>
-</blockquote>
+> ﴿ ٱدْعُ إِلِىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ
+> الْحَسَنَةِ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ﴾
 
 ***“Invite to the way of your Lord with wisdom and good advice and
 dispute with them in a manner that is best.”***[^6]
@@ -326,5 +310,4 @@ Occultation of the Twelfth Imām: A Historical Background (London:
 Muhammadi Trust, 1982); Ibrāhīm Amīni, Al-Imām Al-Mahdī: The Just Leader
 of Humanity, trans. ‘Abdul ‘Azīz Sachedina (Qum: Ansariyan
 Publications), http://www.al-islam.org/mahdi/nontl/index.htm. [Trans.]
-
 

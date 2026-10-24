@@ -190,7 +190,6 @@ Make Noble My Face On That Most Dreadful Day.
 Oh Allah! Bless Muhammad's Soul,
 And Rain Down Peace On His Household.
 
-
 **Who can be the Prophet's Successor?**
 
 The passengers of this aeroplane have boarded, but the pilot hasn't
@@ -320,7 +319,6 @@ to obey them but they never obey Allah. they collect their dues
 carefully but never pay the dues they owe. they are not afraid of Allah
 but fear powerful men".
 
-
 Your sister, Zainab
 
 Lessons from Karbala
@@ -377,5 +375,4 @@ youth engage in holy war, not in temporary leisure.
 
 Zealous to die for truth, virtue, Laws of God
 zest of life is to love God & live for God.
-
 

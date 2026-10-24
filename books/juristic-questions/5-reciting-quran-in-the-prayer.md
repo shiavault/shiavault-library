@@ -357,4 +357,3 @@ god but Allah- wellahu akbar-(and) Allah is great).
 [^23]: As it was said by Imam as-Sindi in his commenting on the
 tradition of Sa’d mentioned in al-Bukhari’s Sahih.
 
-

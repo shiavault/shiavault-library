@@ -227,4 +227,3 @@ towards Mecca during prayers. And that reason is the manifestation of
 the universal unity of the Muslims, all of whom turn towards the Ka'bah
 for prayers and on certain prescribed occassions.
 
-

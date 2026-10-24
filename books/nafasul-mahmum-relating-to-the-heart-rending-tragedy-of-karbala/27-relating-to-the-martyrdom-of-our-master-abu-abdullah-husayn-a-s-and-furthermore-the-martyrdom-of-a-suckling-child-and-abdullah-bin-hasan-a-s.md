@@ -897,4 +897,3 @@ cup of water, and when he lifted it up unto his lips, Haseen bin Nameer
 shot an arrow at his mouth and he could not drink it. Then he kept the
 cup upon the ground.
 
-

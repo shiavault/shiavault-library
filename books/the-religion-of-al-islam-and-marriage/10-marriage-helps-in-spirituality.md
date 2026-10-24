@@ -55,4 +55,3 @@ These teachings neutralize the need for a sexual revolution in a Muslim
 society. Since there is no sexual suppression, the question of a sexual
 revolution does not arise.
 
-

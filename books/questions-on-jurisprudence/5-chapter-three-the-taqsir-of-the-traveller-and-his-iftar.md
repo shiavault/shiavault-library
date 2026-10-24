@@ -481,4 +481,3 @@ going and four coming back like the distance between Mecca and \`Arafa.
 This is the minimum distance at which the Prophet of God (S) would
 shorten the prayer, and this is the decisive proof, thanks be to God.
 
-

@@ -781,4 +781,3 @@ will be rewarded for them.
 " Then be in awe of Allah, and know that unto Him you shall be (all)
 gathered."
 
-

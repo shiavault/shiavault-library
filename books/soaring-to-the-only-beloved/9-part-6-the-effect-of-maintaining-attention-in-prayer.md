@@ -14,12 +14,8 @@ man has nothing of his own, not even existence to own his finite
 perfection, the Infinitely Perfect continually welcomes him to Himself:
 "To Allah is the homecoming"
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحاً
-فَمُلَاقِيهِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحاً
+> فَمُلَاقِيهِ
 
 ***O Man!***
 
@@ -33,11 +29,7 @@ perfection, the Infinitely Perfect continually welcomes him to Himself:
 
 The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ان الصلاة قربان المؤمن
-  </p>
-</blockquote>
+> ان الصلاة قربان المؤمن
 
 ***Verily prayer is***
 
@@ -49,12 +41,8 @@ abovementioned verse of the Holy Qur'an also tells us that man is a
 traveler in thus world and that his destination is the neighborhood of
 his Beloved Creator. Again, in chapter 35, verse no. 18, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَمَن تَزَكَّى فَإِنَّمَا يَتَزَكَّى لِنَفْسِهِ وَإِلَى اللَّهِ
-الْمَصِيرُ
-  </p>
-</blockquote>
+> وَمَن تَزَكَّى فَإِنَّمَا يَتَزَكَّى لِنَفْسِهِ وَإِلَى اللَّهِ
+> الْمَصِيرُ
 
 ***And whosoever purifies himself, purifies himself only for his own
 soul's good. To Allah is the homecoming (destination)*** [^3]
@@ -86,11 +74,7 @@ the Creator designed the human being: although man has nothing of his
 own, not even existence to own his finite perfection, the Infinitely
 Perfect continually welcomes him to Himself:
 
-<blockquote dir="rtl">
-  <p>
-والله يدعو إلى دار السلام ويهدي من يشاء إلى صراط مستقيم
-  </p>
-</blockquote>
+> والله يدعو إلى دار السلام ويهدي من يشاء إلى صراط مستقيم
 
 ***Allah continually Invites***
 
@@ -102,11 +86,7 @@ Perfect continually welcomes him to Himself:
 
 ***To the straight path*** [^4]
 
-<blockquote dir="rtl">
-  <p>
-إِلَى اللَّهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> إِلَى اللَّهِ الْمَصِيرُ
 
 ***To Allah is the homecoming.***[^5]
 
@@ -166,5 +146,4 @@ would still be limited.
 [^4]: Holy Qur'an, 10:25
 
 [^5]: Holy Qur'an, 35:18
-
 

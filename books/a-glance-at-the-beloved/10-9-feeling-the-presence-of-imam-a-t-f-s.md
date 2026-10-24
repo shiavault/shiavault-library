@@ -31,12 +31,8 @@ I said: O Amirul Mo'mineen! May I be sacrificed upon you. Whether this
 is also concerning those believers who are in قصر? What about those who
 are around the earth? He said:
 
-<blockquote dir="rtl">
-  <p>
-يا رُمَيْله، لَيسَ يَغيبُ عَنَّا مؤمِنٌ في شَرقِ الأرض و لا في
-غَربِها.
-  </p>
-</blockquote>
+> يا رُمَيْله، لَيسَ يَغيبُ عَنَّا مؤمِنٌ في شَرقِ الأرض و لا في
+> غَربِها.
 
 'O Ramila! No believer in the east or west of the earth remains
 concealed from us.'[^1]
@@ -47,12 +43,8 @@ reappearance and surrenders his desires to Imam (a.t.f.s.). Imam al-Asr
 (a.t.f.s.) is nobler than this that his Shia remembers him, while he
 himself neglects him. Imam (a.t.f.s.) wrote to Sheikh Mufid (r.a.):
 
-<blockquote dir="rtl">
-  <p>
-إنّا نحيط علماً بأنبائكم، ولا يعزب عنّا شيء من أخباركم.. إنَّا غير
-مهملين لِمُراعاتِكُم ولا ناسين لذكركم
-  </p>
-</blockquote>
+> إنّا نحيط علماً بأنبائكم، ولا يعزب عنّا شيء من أخباركم.. إنَّا غير
+> مهملين لِمُراعاتِكُم ولا ناسين لذكركم
 
 'We are aware of everything that happens to you, and your information is
 never hidden from us. We are not negligent about looking after you and
@@ -71,11 +63,7 @@ no one is beyond his domain.
 
 As we recite in ziyarat on Friday:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عليكَ يا عَيْنَ الله في خَلقِه
-  </p>
-</blockquote>
+> السَّلامُ عليكَ يا عَيْنَ الله في خَلقِه
 
 'Peace be upon you, O eye of Allah amongst His creation'.[^3]
 
@@ -172,5 +160,4 @@ piety and associated with virtue.
 [^5]: It obviously means: consider me present and feel my presence.
 
 [^6]: Al Kharaaej al-Qutb al-Rawandi, Pg. 92
-
 

@@ -278,4 +278,3 @@ death, gives rest to others". Cp. MB, 1874 14 sqq. و في حديث: ابن آد
 [^18]: On mawt see MB, 156. Detailed description of death are generally
 not to be found in other creeds.
 
-

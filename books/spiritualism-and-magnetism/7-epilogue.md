@@ -65,4 +65,3 @@ mind. They should embrace Islam for their emancipation and success in
 the life here and hereafter. In their heart of hearts they are convinced
 of Islamic spiritualism as a scientific reality.
 
-

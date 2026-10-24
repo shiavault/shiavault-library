@@ -34,4 +34,3 @@ the Ṣaḥīfa portrays the most noble rank befitting humanity, serving as
 both a Means and the Ultimate goal for the culmination of human
 beauty.**
 
-

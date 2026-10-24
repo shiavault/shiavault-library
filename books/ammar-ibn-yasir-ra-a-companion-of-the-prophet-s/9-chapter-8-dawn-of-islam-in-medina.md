@@ -188,4 +188,3 @@ a rebellious group was commonly talked about. Thereafter this remark had
 a great effect on the thinking of ‘Ammar just as he had experienced many
 such important things regarding Islam.
 
-

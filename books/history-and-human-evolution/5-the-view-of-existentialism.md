@@ -77,4 +77,3 @@ being a means and a tool. Therefore, it is an illusion to say that man
 creates his own values. It is here that Islam asserts the existence of
 its absolutely coherent ideology.
 
-

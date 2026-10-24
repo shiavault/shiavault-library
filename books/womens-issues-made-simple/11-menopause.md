@@ -97,4 +97,3 @@ istihadha. She should follow all the rulings that apply to her. (Please
 check the Istihadha Section to see what type of istihadha she is
 experiencing).
 
-

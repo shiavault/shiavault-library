@@ -422,4 +422,3 @@ kings).
 [^3]: “Negus” means “king” in the Amheric language, title of the supreme
 ruler of Abyssinia (Ethiopia).
 
-

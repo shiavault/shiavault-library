@@ -121,7 +121,6 @@ bin Abi Talib.
 We pray to Allah, Most High, for His assistance in this work. With
 Allah comes success.
 
-
 **PART ONE**
 
 "O Ali, you were the first among the believers to believe, you were the
@@ -208,9 +207,7 @@ current ideological conflict between Islamic ummah and its bitter
 enemies, until the great Islamic religion prevails. He is the Hearer,
 the Responder.
 
-
 Al-Balagh Foundation
-
 
 **The Rising Of The Dawn**
 
@@ -269,7 +266,6 @@ house. He cherished Ali and surrounded him with affection and care,
 speaking to him tenderly, rocking his cradle or carrying him in his
 arms.
 
-
 **THE PATRONAGE OF THE MESSENGER OF' ALLAH**
 
 Six years passed after Ali's birth. The Quraish (Muhammad's tribe)
@@ -302,7 +298,6 @@ chosen whom Allah had chosen for me above you - Ali." (10) Thus, Ali
 affection and tenderness. The Messenger of Allah (s.a.w.) brought him up
 as his Lord had taught him. He never separated from him until he joined
 the Almighty .
-
 
 **A PRODUCT OF THE PROPHETIC RAISING**
 
@@ -412,5 +407,4 @@ with his mission for mankind:
 "Read: In the name of your Lord Who created. Created man from a clot.
 Read: And your Lord is the Most Bounteous, Who teaches by the pen,
 teaches man that which he knew not."
-
 

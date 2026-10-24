@@ -3,24 +3,16 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ قَالَ لَوْ
-شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا
-  </p>
-</blockquote>
+> فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ قَالَ لَوْ
+> شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا
 
 ***“Then they found in it a wall which was on the point of falling, so
 he put it into a right state”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-مَن قَضَى لِاَ خِيْهِ الْمُوْمِن حاَجَةً فَكَانَّما عَبدَ اللهَ
-دَهْرَةً
-  </p>
-</blockquote>
+> مَن قَضَى لِاَ خِيْهِ الْمُوْمِن حاَجَةً فَكَانَّما عَبدَ اللهَ
+> دَهْرَةً
 
 ***“One who fulfils the desire of his brother Mu’min, would be as if he
 has worshipped God for his entire life”***[^2]
@@ -234,5 +226,4 @@ others, and truly, the like of him has rarely been seen in the past
 sixty years.
 
 [^10]: Seema-e-Farzaanegaan, pg. 349; Mehr-e-Taabaan, pg. 20.
-
 

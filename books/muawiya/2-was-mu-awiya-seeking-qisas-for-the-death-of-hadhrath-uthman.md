@@ -110,7 +110,6 @@ that the majority Ahl'ul Sunnah do NOT believe such slander against Imam
 Ali (as) but they should be warned of the risks of infiltration by
 Nasibis seeking protection for their comments under the Sunni garb.
 
-
 **Mu'awiya and his supporters**
 
 Abu Sulaiman extols the cosy relationship between Mu'awiya and the
@@ -201,7 +200,6 @@ forUthman's killers, there is no edict in Islam for an individual to
 rebel against the rightful Khalifa in order to his own way, and that was
 what Imam Ali (as) had set out here. He was questioning the legality of
 Mu'awiya's actions.
-
 
 **Imam Ali (as) questions Mu'awiya's motives**
 
@@ -305,5 +303,4 @@ and the people of Syria sought revenge for the killing of Uthman".
 As we shall prove if this is the defence by which the majority seek to
 prevent Mu'awiya then this motive is also without any comprehensive
 proof.
-
 

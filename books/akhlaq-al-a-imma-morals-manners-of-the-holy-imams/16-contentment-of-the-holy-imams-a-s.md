@@ -260,4 +260,3 @@ here would be reaped by us in the Hereafter.
 Till the time we do not reform our morals we cannot gain proximity to
 our Holy Imams (a.s).
 
-

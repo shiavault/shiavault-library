@@ -1,18 +1,14 @@
 Discourse 24: Four Islamic Commandments and the Transient Life of this World
 ============================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي أَيُّوبَ الأَنْصَارِي قَالَ: سَمِعْتُ رَسُولَ اللٌّهَ
-يَقُولُ: حُلُّوا أَنْفُسَكُمُ الطَّاعَةَ، وَأَلْبِسُوهَا قِنَاعَ
-الْمُخالَفَةِ، فَاجْعَلُوا آخِرَتَكُمْ لاَِنْفُسِكُمْ، وَ سَعْيَكُمْ
-لِمُسْتَقَرِّكُمْ، وَ أَعْلَمُوا أَنَّكُمْ عَنْ قَلِيلٍ رَاحِلُونَ، وَ
-إِلـى اللٌّهِ صَائِرُونَ، وَ لاَ يُغْنِي عَنْكُمْ هُنَالِكَ إِلاَّ
-صَالِحُ عَمَلٍ قَدَّمْتُمُوهُ، وَ حُسْنُ ثَوَابِ أَحْرَزْتُمُوهُ،
-فَإِنَّكُمْ إِنَّمَا تَقْدِمُونَ عَلى مَا قَدَّمْـتُمْ وَ جَازُونَ
-عَلى مَا أَسْلَفْـتُمْ.
-  </p>
-</blockquote>
+> عَنْ أَبِي أَيُّوبَ الأَنْصَارِي قَالَ: سَمِعْتُ رَسُولَ اللٌّهَ
+> يَقُولُ: حُلُّوا أَنْفُسَكُمُ الطَّاعَةَ، وَأَلْبِسُوهَا قِنَاعَ
+> الْمُخالَفَةِ، فَاجْعَلُوا آخِرَتَكُمْ لاَِنْفُسِكُمْ، وَ سَعْيَكُمْ
+> لِمُسْتَقَرِّكُمْ، وَ أَعْلَمُوا أَنَّكُمْ عَنْ قَلِيلٍ رَاحِلُونَ، وَ
+> إِلـى اللٌّهِ صَائِرُونَ، وَ لاَ يُغْنِي عَنْكُمْ هُنَالِكَ إِلاَّ
+> صَالِحُ عَمَلٍ قَدَّمْتُمُوهُ، وَ حُسْنُ ثَوَابِ أَحْرَزْتُمُوهُ،
+> فَإِنَّكُمْ إِنَّمَا تَقْدِمُونَ عَلى مَا قَدَّمْـتُمْ وَ جَازُونَ
+> عَلى مَا أَسْلَفْـتُمْ.
 
 It has been narrated from Abi Ayyub al-Ansari who said: “I heard the
 Messenger of Allah (S) say: “Cover yourselves with the clothing of
@@ -70,11 +66,7 @@ or an open sinner.
 
 The word “**فسق”** or Fisq comes in the meaning of:
 
-<blockquote dir="rtl">
-  <p>
-خُرُوجُ النَّبَاتِ عَنِ التَمْرَةِ.
-  </p>
-</blockquote>
+> خُرُوجُ النَّبَاتِ عَنِ التَمْرَةِ.
 
 This means that the seed (of a date) has been taken out from the date
 and the seed or pit is no longer clothed or covered with the actual
@@ -132,12 +124,8 @@ go through a complete spiritual change.
  Our true life is reserved for 'that' place and in the Noble Qur'an we
 read that:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا هٌذِهِ الْحَيٌوةُ الدُّنْـيَا إِلاَّ  لَهْوٌ وَ لَعِبٌ وَ إِنَّ
-الدَّارَ الآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَ مَا هٌذِهِ الْحَيٌوةُ الدُّنْـيَا إِلاَّ  لَهْوٌ وَ لَعِبٌ وَ إِنَّ
+> الدَّارَ الآخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
 
 “And the life of this world[^3] is nothing more than sport and play and
 surely the abode of the next life - that is the (true meaning) of life -
@@ -175,12 +163,8 @@ we are not able to comprehend the realities! 
 How beautiful are the words of the Commander of the Faithful,'Ali b. Abi
 Talib (as) where he said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللٌّهُ امْرِءً عَلِمَ مِنْ أَيْنَ وَ فِي أَيْنَ وَ إِلـى
-أَيْنَ.
-  </p>
-</blockquote>
+> رَحِمَ اللٌّهُ امْرِءً عَلِمَ مِنْ أَيْنَ وَ فِي أَيْنَ وَ إِلـى
+> أَيْنَ.
 
 “May the mercy of Allah be upon that person who truly knows where he has
 come from, where he is (at present) and where he is going.”
@@ -196,12 +180,8 @@ of the Faithful,'Ali b. Abi Talib (as) in which he stood was standing
 behind the door to the city of Kufah ('Iraq) and started to speak to the
 dead people and he said to them:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا لَوْ أُذِنَ لَهُمْ فِي الْكَلاَمِ لاََخْبَرُوكُمْ أَنَّ خَيْرَ
-الزَّادِ التَّقْوى.
-  </p>
-</blockquote>
+> أَمَّا لَوْ أُذِنَ لَهُمْ فِي الْكَلاَمِ لاََخْبَرُوكُمْ أَنَّ خَيْرَ
+> الزَّادِ التَّقْوى.
 
 “If these people (who are deceased) were given the permission to speak,
 then surely they would tell each and every one of you that without
@@ -238,5 +218,4 @@ vol. 16, pg. 134)
 [^4]: Surat al-\`Ankabut (29), Verse 64
 
 [^5]: Short saying number 130 from Nahj al-Balagha
-
 

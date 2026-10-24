@@ -3,12 +3,8 @@ Lesson One Hundred Nine: Do Not Forget Your Own Faults
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إذا رَأيْتُمُ الْعَبْدَ يَتَفَقَّدُ الذُّنُوبَ مِنَ النّاسِ ناسِياً
-لِذَنْبِهِ فَاعْلَمُوا أَنَّهُ قَدْ مُكِرَبِهِ
-  </p>
-</blockquote>
+> إذا رَأيْتُمُ الْعَبْدَ يَتَفَقَّدُ الذُّنُوبَ مِنَ النّاسِ ناسِياً
+> لِذَنْبِهِ فَاعْلَمُوا أَنَّهُ قَدْ مُكِرَبِهِ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ wandering among deviated paths. Those on the right path take care of
 their own faults before censuring others.
 
 [^1]: Tuhaful Uqul, page 271
-
 

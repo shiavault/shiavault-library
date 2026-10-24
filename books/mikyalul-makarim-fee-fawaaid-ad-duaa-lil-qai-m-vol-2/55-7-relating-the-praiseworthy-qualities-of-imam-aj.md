@@ -71,4 +71,3 @@ stated in the Ninth duty.
 
 [^4]: Makarimul Akhlaq, Tabarsi, Pg. 422, Chapter 12
 
-

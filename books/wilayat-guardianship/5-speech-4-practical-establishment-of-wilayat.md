@@ -52,11 +52,7 @@ wrong,* to set the direction of the Islamic society and to implement the
 commandments; in short has the right to rule in all aspects of the human
 life is God.
 
-<blockquote dir="rtl">
-  <p>
-وَ الله وَلِيُّ الْمُوْمِنينَ
-  </p>
-</blockquote>
+> وَ الله وَلِيُّ الْمُوْمِنينَ
 
 **Allah is the Wali of the Faithful.**
 
@@ -108,11 +104,7 @@ have expressed other logic and ideas.
 
 The religion and school of thought has answered,
 
-<blockquote dir="rtl">
-  <p>
-اِنَّمَا وَلِيُّکُمُ الله وَ رَسُوْلُہ
-  </p>
-</blockquote>
+> اِنَّمَا وَلِيُّکُمُ الله وَ رَسُوْلُہ
 
 **verily Allah and His Prophet are your Walis.**
 
@@ -311,11 +303,7 @@ Islamic society should be one appointed by God.
 
 Another verse of Glorious Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-اَطِيْعُو الله وَ اَطِيْعُوا الرَّسُوْلَ وَ اُولِي الْاَمْرِ مِنْکُمْ
-  </p>
-</blockquote>
+> اَطِيْعُو الله وَ اَطِيْعُوا الرَّسُوْلَ وَ اُولِي الْاَمْرِ مِنْکُمْ
 
 ***Obey God and His Prophet and those charged with authority among
 you.***[^1]
@@ -377,11 +365,7 @@ based on innate wisdom that lies in the Islamic view of the universe.
 According to the Islamic view of the universe the source of everything
 in the universe is the Power of God.
 
-<blockquote dir="rtl">
-  <p>
-وَ لَہ مَا سَکَنَ فِي الَّيْلِ وَ النَّہَار
-  </p>
-</blockquote>
+> وَ لَہ مَا سَکَنَ فِي الَّيْلِ وَ النَّہَار
 
 ***Whatever is there in the day and night is from God.*** [^2]
 
@@ -393,29 +377,17 @@ This was the second point; now we come to some additional points.
 
 Now let us look at the later verses:
 
-<blockquote dir="rtl">
-  <p>
-انَّ الله يَاْمُرُکُمْ اَنْ تُودُّوا الْاَمٰنٰتِ اِلٰي اَہْلِہَا
-  </p>
-</blockquote>
+> انَّ الله يَاْمُرُکُمْ اَنْ تُودُّوا الْاَمٰنٰتِ اِلٰي اَہْلِہَا
 
 ***Verily God orders you to return the trusts to their owners.***
 
-<blockquote dir="rtl">
-  <p>
-وَ اِذَا حَکَمْتُمْ بَيْنَ النَّاسِ اَنْ تَحْکُمُوْا بِالْعَدْلِ
-  </p>
-</blockquote>
+> وَ اِذَا حَکَمْتُمْ بَيْنَ النَّاسِ اَنْ تَحْکُمُوْا بِالْعَدْلِ
 
 ***And when you rule over people or pass judgments or decide between
 them, do it with justice.***
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله نِعِمَّا يَعِظُکُمْ بِہ اِنَّ الله کَانَ سَمِيْعًا
-بَصِيْرًا
-  </p>
-</blockquote>
+> اِنَّ الله نِعِمَّا يَعِظُکُمْ بِہ اِنَّ الله کَانَ سَمِيْعًا
+> بَصِيْرًا
 
 ***Verily, Lord gives you the best advice as no doubt He watches and
 listens.*** [^3]
@@ -439,12 +411,8 @@ best evidence of trustworthiness.
 
 In the next verse[^4] God says:
 
-<blockquote dir="rtl">
-  <p>
-يٰاَيُّھَا الَّذِيْنَٰ امَنُوْآَ اَطِيْعُو الله وَاَطِيْعُواالرَّسُوْل
-وَاُولِي الْاَمْرِ مِنْکم
-  </p>
-</blockquote>
+> يٰاَيُّھَا الَّذِيْنَٰ امَنُوْآَ اَطِيْعُو الله وَاَطِيْعُواالرَّسُوْل
+> وَاُولِي الْاَمْرِ مِنْکم
 
 ***O' believers obey Allah, obey Allah's Prophet and obey those who have
 been given the charge.***
@@ -492,13 +460,9 @@ with charge and ruler should be a person who meets the criteria laid
 down by God, whereas, Sunnis do not accept such a condition and do not
 act accordingly.
 
-<blockquote dir="rtl">
-  <p>
-فَاِنْ تَنَازَعْتُمْ فِيْ شَيْئٍ فَرُدُّوْہُ اِلَي الله وَ الرَّسُوْلِ
-اِنْ کُنْتُمْ تُومِنُوْنَ بِاِ الله وَ الْيَوْمِ الْاٰخِرِذٰلِکَ خَيْر
-وَّ اَحْسَنُ تَاْوِيْلااً
-  </p>
-</blockquote>
+> فَاِنْ تَنَازَعْتُمْ فِيْ شَيْئٍ فَرُدُّوْہُ اِلَي الله وَ الرَّسُوْلِ
+> اِنْ کُنْتُمْ تُومِنُوْنَ بِاِ الله وَ الْيَوْمِ الْاٰخِرِذٰلِکَ خَيْر
+> وَّ اَحْسَنُ تَاْوِيْلااً
 
 *If there is a conflict and difference of opinion on a certain issue,
 revert it to God and His Prophet if you believe in God and the Dooms
@@ -509,12 +473,8 @@ of competent rulers and the poor results of the rein of incompetent
 rulers. In a later verse those people who turned away from this command
 have been condemned.
 
-<blockquote dir="rtl">
-  <p>
-اَلَمْ تَرَ اِلَي الَّذِيْنَ يَزْعُمُوْنَ اَنَّہُمْ ٰامَنُوْا بِمَآ
-اُنْزِلَ اِلَيْکَ وَ مَآ اُنْزِلَ مِنْ قَبْلِکَ
-  </p>
-</blockquote>
+> اَلَمْ تَرَ اِلَي الَّذِيْنَ يَزْعُمُوْنَ اَنَّہُمْ ٰامَنُوْا بِمَآ
+> اُنْزِلَ اِلَيْکَ وَ مَآ اُنْزِلَ مِنْ قَبْلِکَ
 
 *Have you not seen people who think that they believe in you and what
 has been revealed to you?*
@@ -522,11 +482,7 @@ has been revealed to you?*
 They think that they are believers, whereas, they commit such deeds that
 go against the faith in God.
 
-<blockquote dir="rtl">
-  <p>
-يُرِيْدُوْنَ اَنْ يَّتَحَاکَمُوْآ اِلَي الطَّاغُوْت
-  </p>
-</blockquote>
+> يُرِيْدُوْنَ اَنْ يَّتَحَاکَمُوْآ اِلَي الطَّاغُوْت
 
 *And in spite of that they turn to Satan for getting decisions.*
 
@@ -534,19 +490,11 @@ In other words they look towards Evil for solutions to their problems;
 get Evil's opinion; seek orders from Evil and spend their lives
 according to the dictates of Evil. Their such action goes against faith.
 
-<blockquote dir="rtl">
-  <p>
-وَ قَدْ اُمِرُوْآ اَنْ يَّکْفُرُوْا بِہ
-  </p>
-</blockquote>
+> وَ قَدْ اُمِرُوْآ اَنْ يَّکْفُرُوْا بِہ
 
 *Whereas they have been commanded to refute evil.*
 
-<blockquote dir="rtl">
-  <p>
-وَ يُرِيْدُ الشَّيْطٰنُ اَنْ يُّضِلَّہُمْ ضَلٰلااً بَعِيْدًا
-  </p>
-</blockquote>
+> وَ يُرِيْدُ الشَّيْطٰنُ اَنْ يُّضِلَّہُمْ ضَلٰلااً بَعِيْدًا
 
 ***And this is Satan's wish to pull them deep into ignorance.*** [^6]
 
@@ -580,5 +528,4 @@ explains this point clearly.
 [^5]: Nahjul Balagha, speeCh. 40.
 
 [^6]: Ch.4, An-Nisa’, verse 60.
-
 

@@ -3,12 +3,8 @@ The Infinite Knowledge of Allah
 
 ( Verse 16 )
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَتُعَلِّمُونَ اللٌّهَ بِدِينِكُمْ وَاللٌّهُ يَعْلَمُ مٌا فِي
-السَّمٌوٌاتِ وَمٌا فِي الأَرْضِ وَاللٌّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> قُلْ أَتُعَلِّمُونَ اللٌّهَ بِدِينِكُمْ وَاللٌّهُ يَعْلَمُ مٌا فِي
+> السَّمٌوٌاتِ وَمٌا فِي الأَرْضِ وَاللٌّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***“Say (to the people O’ Muhammad): ‘Do you wish to teach Allah about
 your Din (complete way of life) whereas Allah knows all that is
@@ -20,11 +16,7 @@ over all of the creations of the world is referred to by various words
 and phrases in many places in the Qur’an. One such phrase which is
 employed is:
 
-<blockquote dir="rtl">
-  <p>
-...بِكُلِّ شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> ...بِكُلِّ شَيْءٍ عَلِيمٌ
 
 ***“…complete knowledge of everything.”***
 
@@ -36,34 +28,22 @@ affair of even the smallest size. The Qur’an has not stopped at this
 sentence and in other verses as well, the encompassing knowledge of
 Allah (Glorified and Exalted is He) has also been explained:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ يَعْزُبُ عَنْهُ مِثْقٌالُ ذَرَّةٍ فِي السَّمٌوٌاتِ وَ لاٌ فِي
-الأَرْضِ
-  </p>
-</blockquote>
+> لاٌ يَعْزُبُ عَنْهُ مِثْقٌالُ ذَرَّةٍ فِي السَّمٌوٌاتِ وَ لاٌ فِي
+> الأَرْضِ
 
 ***“Not even the weight of an atom that is within the Heavens nor in the
 Earth is hidden from Him.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ لاٌ يَخْفـى عَلَيْهِ شَيْءٌ فِي الأَرْضِ وَ لاٌ فِي
-السَّمٌاءِ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ لاٌ يَخْفـى عَلَيْهِ شَيْءٌ فِي الأَرْضِ وَ لاٌ فِي
+> السَّمٌاءِ
 
 ***“Surely there is nothing that is hidden from Allah whether it be in
 the Earth or in the Heaven.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَ عِنْدَهُ مَفٌاتِحُ الْغَيْبِ لاٌ يَعْلَمُهٌا إِلاٌّ هُوَ وَ
-يَعْلَمُ مٌا فِي الْبَرِّ وَ الْبَحْرِ وَ مٌا تَسْقُطُ مِنْ وَرَقَةٍ
-إِلاٌّ يَعْلَمُهٌا وَ لاٌ حَبَّةٍ فِي ظُلُمٌاتِ الأَرْضِ وَ لاٌ رَطْبٍ
-وَ لاٌ يٌابِسٍ إِلاٌّ فِي كِتٌابٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَ عِنْدَهُ مَفٌاتِحُ الْغَيْبِ لاٌ يَعْلَمُهٌا إِلاٌّ هُوَ وَ
+> يَعْلَمُ مٌا فِي الْبَرِّ وَ الْبَحْرِ وَ مٌا تَسْقُطُ مِنْ وَرَقَةٍ
+> إِلاٌّ يَعْلَمُهٌا وَ لاٌ حَبَّةٍ فِي ظُلُمٌاتِ الأَرْضِ وَ لاٌ رَطْبٍ
+> وَ لاٌ يٌابِسٍ إِلاٌّ فِي كِتٌابٍ مُبِينٍ
 
 ***“And with Him (Allah) are the Keys of the Unseen. No one knows them
 (the Secrets of the Unseen) except for Him (Allah). And He (Allah) knows
@@ -82,13 +62,9 @@ upon him) has elucidated on the comprehensive knowledge of Allah
 (Glorified and Exalted is He) over all of His creations of the world in
 the following manner:
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ عَجِيجَ الْوُحُوشِ فِي الْفَلَوٌاتِ وَ مَعٌاصِيَّ الْعِبٌادِ
-فِي الْخَلَوٌاتِ وَاخْتِلاٌفَ الْحِيتٌانِ فِي الْبِحٌارِ الْغٌامِرٌاتِ
-وَتَلاٌطُمَ الْمٌاءِ بِالرِّيٌاحِ الْعٌاصِفٌاتِ.
-  </p>
-</blockquote>
+> يَعْلَمُ عَجِيجَ الْوُحُوشِ فِي الْفَلَوٌاتِ وَ مَعٌاصِيَّ الْعِبٌادِ
+> فِي الْخَلَوٌاتِ وَاخْتِلاٌفَ الْحِيتٌانِ فِي الْبِحٌارِ الْغٌامِرٌاتِ
+> وَتَلاٌطُمَ الْمٌاءِ بِالرِّيٌاحِ الْعٌاصِفٌاتِ.
 
 *“He (Allah) knows of the cries of the beasts in the forest; the sins of
 the servants while they are in seclusion and the movements of the fish
@@ -149,11 +125,7 @@ The Noble Qur’an has explained this proof in a very subtle manner and
 the creation of mankind has been used as the evidence of the knowledge
 of the Creator where it has been said:
 
-<blockquote dir="rtl">
-  <p>
-أَلاٌ يَعْلَمُ مَنْ خَلَقَ وَ هُوَ اللَّطِيفُ الْخَبِـيــرُ
-  </p>
-</blockquote>
+> أَلاٌ يَعْلَمُ مَنْ خَلَقَ وَ هُوَ اللَّطِيفُ الْخَبِـيــرُ
 
 ***“What then does He who created (all), and He who is the knower of the
 subtleties - the Aware - not know (about His creations?)”***[^5]
@@ -162,28 +134,16 @@ In another verse of the Qur’an, it has been mentioned that Allah
 (Glorified and Exalted is He) is closer to the human being than his own
 jugular vein:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنٌا الإِنْسٌانَ وَ نَعْلَمُ مٌا تُوَسْوِسُ بِهِ
-نَفْسَهُ وَ نَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنٌا الإِنْسٌانَ وَ نَعْلَمُ مٌا تُوَسْوِسُ بِهِ
+> نَفْسَهُ وَ نَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ
 
 ***“Unquestionably We have created mankind and We know what his soul
 whispers to him (the evil whisperings) and We are closer to him than his
 jugular vein.”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-دل من تا ز دوست سرشار است دائم ازغير دوست بيزار است
-  </p>
-</blockquote>
+> دل من تا ز دوست سرشار است دائم ازغير دوست بيزار است
 
-<blockquote dir="rtl">
-  <p>
-غايب از ديده و به در حاضر با چنين دلبري مرا كار است
-  </p>
-</blockquote>
+> غايب از ديده و به در حاضر با چنين دلبري مرا كار است
 
 *As long as my heart is filled with the love of my friend (Allah),*  
  *It will always be averse from those who are not my friends.*  
@@ -194,12 +154,8 @@ The eighth Imam, \`Ali ibn Musa ar-Ridha (peace be upon him) has taken
 the unity of creation and organization of the universe, as the proof of
 the knowledge of a Creator and has stated:
 
-<blockquote dir="rtl">
-  <p>
-أَتْقَنَ مٌا خَلَقَ بِحِكْمَتِهِ وَ وَضَعَ كُلَّ شَيْءٍ مِنْهُ
-مَوْضِعَهُ بِعِلْمِهِ.
-  </p>
-</blockquote>
+> أَتْقَنَ مٌا خَلَقَ بِحِكْمَتِهِ وَ وَضَعَ كُلَّ شَيْءٍ مِنْهُ
+> مَوْضِعَهُ بِعِلْمِهِ.
 
 *“The world of creation has been made firm and solid through His plan
 based on wisdom and everything has been placed in its rightful place
@@ -395,12 +351,8 @@ also knows what is in the hearts of His creations and those of the
 desert \`Arabs who claimed to have true faith in their hearts were told
 that:
 
-<blockquote dir="rtl">
-  <p>
-أَتُعَلِّمُونَ اللٌّهَ بِدِينِكُمْ وَاللٌّهُ يَعْلَمُ مٌا فِي
-السَّمٌوٌاتِ وَمٌا فِي الأَرْضِ...
-  </p>
-</blockquote>
+> أَتُعَلِّمُونَ اللٌّهَ بِدِينِكُمْ وَاللٌّهُ يَعْلَمُ مٌا فِي
+> السَّمٌوٌاتِ وَمٌا فِي الأَرْضِ...
 
 ***“Do you wish to teach Allah about your Din (complete way of life)
 whereas Allah knows all that is contained in the Heavens and all that is
@@ -410,11 +362,7 @@ The God that the Qur’an introduces is completely opposite of the God
 that the Tawrat mentions and with complete clarity, the Qur’an states
 that:
 
-<blockquote dir="rtl">
-  <p>
-وَ عَلَّمَ آدَمَ الأَسْمٌآءَ كُلَّهٌا...
-  </p>
-</blockquote>
+> وَ عَلَّمَ آدَمَ الأَسْمٌآءَ كُلَّهٌا...
 
 ***“And He (Allah) taught Adam all of the names…”***
 
@@ -450,5 +398,4 @@ and His being free from time and space.
 [^9]: Genesis, Chapter 3 [The Fall of Man], extracted verbatim from the
 New International Version (NIV) of the Old Testament found on
 www.biblegateway.com.
-
 

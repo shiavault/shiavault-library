@@ -123,4 +123,3 @@ World to come.
  18th Dhil qa‘da, 1397  
  Tehran — Iran.
 
-

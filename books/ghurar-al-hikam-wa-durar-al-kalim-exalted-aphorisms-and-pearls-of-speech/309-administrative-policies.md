@@ -16,11 +16,7 @@ habits [and customs].
 pardoning despite having power [to punish].
 
 > 3ـ جَمالُ السِّياسَةِ العَدْلُ فِي الاِمْرَةِ، وَ العَفْوُ مَعَ
-<blockquote dir="rtl">
-  <p>
-الْقُدْرَةِ.
-  </p>
-</blockquote>
+> الْقُدْرَةِ.
 
 4. Good administration is the mainstay of the citizenry.
 
@@ -59,5 +55,4 @@ incapable of] leadership.
 torment of politics.
 
 > 12ـ مَنْ سَما إلَى الرِّياسَةِ صَبَـرَ عَلى مَضَضِ السِّياسَةِ.
-
 

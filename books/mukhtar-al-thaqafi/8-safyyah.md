@@ -16,4 +16,3 @@ you.*
 
 So, Mukhtar headed for Makkah.
 
-

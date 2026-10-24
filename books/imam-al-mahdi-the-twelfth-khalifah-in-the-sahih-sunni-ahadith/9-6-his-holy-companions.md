@@ -6,20 +6,16 @@ be of the best of Allah’s entire creation, since Adam, *‘alaihi wa
 alihi*, till the Trumpet. Imam al-Hakim (d. 403 H) documents a beautiful
 *hadith* about these noble companions:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو العباس محمد بن يعقوب ثنا الحسن بن علي بن عفان العامري ثنا
-عمرو بن محمد العنقزي ثنا يونس بن أبي إسحاق أخبرني عمار الدهني عن أبي
-الطفيل عن محمد بن الحنفية قال كنا عند علي رضي الله عنه فسأله رجل عن
-المهدي فقال علي رضي الله عنه : هيهات ثم عقد بيده سبعا فقال : ذاك يخرج
-في آخر الزمان إذا قال الرجل الله الله قتل فيجمع الله تعالى له قوما قزع
-كقزع السحاب يؤلف الله بين قلوبهم لا يستوحشون إلى أحد ولا يفرحون بأحد
-يدخل فيهم على عدة أصحاب بدر لم يسبقهم الأولون ولا يدركهم الآخرون وعلى
-عدد أصحاب طالوت الذين جاوزا معه النهر قال أبو الطفيل : قال ابن الحنفية
-: أتريده ؟ قلت : نعم قال : إنه يخرج من بين هذين الخشبتين قلت : لا جرم
-والله لا أريهما حتى أموت فمات بها يعني مكة حرسها الله تعالى
-  </p>
-</blockquote>
+> حدثنا أبو العباس محمد بن يعقوب ثنا الحسن بن علي بن عفان العامري ثنا
+> عمرو بن محمد العنقزي ثنا يونس بن أبي إسحاق أخبرني عمار الدهني عن أبي
+> الطفيل عن محمد بن الحنفية قال كنا عند علي رضي الله عنه فسأله رجل عن
+> المهدي فقال علي رضي الله عنه : هيهات ثم عقد بيده سبعا فقال : ذاك يخرج
+> في آخر الزمان إذا قال الرجل الله الله قتل فيجمع الله تعالى له قوما قزع
+> كقزع السحاب يؤلف الله بين قلوبهم لا يستوحشون إلى أحد ولا يفرحون بأحد
+> يدخل فيهم على عدة أصحاب بدر لم يسبقهم الأولون ولا يدركهم الآخرون وعلى
+> عدد أصحاب طالوت الذين جاوزا معه النهر قال أبو الطفيل : قال ابن الحنفية
+> : أتريده ؟ قلت : نعم قال : إنه يخرج من بين هذين الخشبتين قلت : لا جرم
+> والله لا أريهما حتى أموت فمات بها يعني مكة حرسها الله تعالى
 
 Abu al-‘Abbas Muhammad b. Ya’qub – al-Hasan b. ‘Ali b. ‘Affan al-‘Amiri
 – ‘Amr b. Muhammad al-‘Anqazi – Yunus b. Abi Ishaq – ‘Ammar al-Dahni –
@@ -46,31 +42,19 @@ Makkah. May Allah the Most High protect it.[^1]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^2]
 
 And Imam al-Dhahabi (d. 748 H) agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 Upon the standard of al-Bukhari and Muslim.[^3]
 
 Dr. al-Bastawi also has this verdict on the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن.
-  </p>
-</blockquote>
+> إسناده حسن.
 
 Its chain is *hasan*.[^4]
 
@@ -94,5 +78,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Aṭa], vol. 4, p.
 fi Dhaw-i al-Ahadith wa al-Athar al-Sahihah wa Aqwal al-‘Ulama wa Ara
 al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), p.
 208, \# 10
-
 

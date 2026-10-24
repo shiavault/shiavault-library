@@ -9,12 +9,8 @@ whispers to his Lord?
 
 The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَأَنْتُمْ
-سُكَارَى حَتَّى تَعْلَمُوا مَا تَقُولُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَأَنْتُمْ
+> سُكَارَى حَتَّى تَعْلَمُوا مَا تَقُولُونَ
 
 ***O you who believe***
 
@@ -24,12 +20,8 @@ The Holy Qur'an says:
 
 The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ايها الناس ان المصلي اذا صلى فانه يناجي ربه تبارك وتعالئ فليعلم بما
-يناجيه
-  </p>
-</blockquote>
+> ايها الناس ان المصلي اذا صلى فانه يناجي ربه تبارك وتعالئ فليعلم بما
+> يناجيه
 
 ***O mankind***
 
@@ -55,19 +47,15 @@ necessary in prayer.
 
 Mawla al-Naraqi in his ethical opus, *Jami' al-Sa'adat* says:
 
-<blockquote dir="rtl">
-  <p>
-وكيف لا يكون حضور القلب والخشوع روح الصلاة ولا يتوقف كمال الصلاة عليه,
-مع ان المصلي في صلاته ودعائه مناج ربه؟ ولا شك ان الكلام مع الغفلة ليس
-بمناجاة, وايضا الكلام اعراب عما في الضمير, ولا يتاتي الاعراب عما في
-الضمير الا بحضور القلب, فاي سؤال في قوله: (اهدنا الصراط المستقيم) اذا
-كان القلب غافلا؟ ولاشك ايضا ان المقصود من القراءة و الاذكار الثناء
-والحمد و التضرع و الدعاء, و المخاطب هو الله - تعالي-, فاذا كان القلب
-العبد محجوبا عنه بحجاب الغفلة , ولا يراه ولا يشاهد, بل كان غافلا عن
-المخاطب , ويحرك لسانه بحكم العادة , فما ابعد هذا عن المقصود با لصلاة
-التي شرعت لتصقيل القلب وتجديد ذكر الله...
-  </p>
-</blockquote>
+> وكيف لا يكون حضور القلب والخشوع روح الصلاة ولا يتوقف كمال الصلاة عليه,
+> مع ان المصلي في صلاته ودعائه مناج ربه؟ ولا شك ان الكلام مع الغفلة ليس
+> بمناجاة, وايضا الكلام اعراب عما في الضمير, ولا يتاتي الاعراب عما في
+> الضمير الا بحضور القلب, فاي سؤال في قوله: (اهدنا الصراط المستقيم) اذا
+> كان القلب غافلا؟ ولاشك ايضا ان المقصود من القراءة و الاذكار الثناء
+> والحمد و التضرع و الدعاء, و المخاطب هو الله - تعالي-, فاذا كان القلب
+> العبد محجوبا عنه بحجاب الغفلة , ولا يراه ولا يشاهد, بل كان غافلا عن
+> المخاطب , ويحرك لسانه بحكم العادة , فما ابعد هذا عن المقصود با لصلاة
+> التي شرعت لتصقيل القلب وتجديد ذكر الله...
 
 How can the presence of the heart and the expression of humility not be
 the spirit of the prayer and (how can) the perfection of prayer not
@@ -97,12 +85,8 @@ In addition, the following verse implies that the reason behind the
 prohibition of prayer in the state of intoxication is the worshipper's
 ignorance of what he utters:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَأَنْتُمْ
-سُكَارَى حَتَّى تَعْلَمُوا مَا تَقُولُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَأَنْتُمْ
+> سُكَارَى حَتَّى تَعْلَمُوا مَا تَقُولُونَ
 
 ***O you who believe,***
 
@@ -119,12 +103,8 @@ Were we to reflect carefully on this verse, we would come to realize its
 universality: the word **سكارئ** *(sukara)* is the plural of **سكران**
 *(sukran)* and the word **سكر** etymologically means:
 
-<blockquote dir="rtl">
-  <p>
-...هو الحيلولة في جريان طبيعي بحيث يتحصل جريان خلاف ماكان...ومنها
-السكر الحاصل في جريان التعقل التفكر...
-  </p>
-</blockquote>
+> ...هو الحيلولة في جريان طبيعي بحيث يتحصل جريان خلاف ماكان...ومنها
+> السكر الحاصل في جريان التعقل التفكر...
 
 "...interruption in a natural process, such that a course contrary to it
 follows ...and of its extensions is intoxication (**سكر** (*sukr*)) that
@@ -134,19 +114,15 @@ comes about in the (natural) process of thinking and intellection..."
 The late mystic-scholar Sultan 'Ali, in his Qur'an commentary *Bayan al-
 Sa'ada Fi Maqamat al-'Ibada* says:
 
-<blockquote dir="rtl">
-  <p>
-والسكر من السكر بمعني السد ويسمي الحالة الحاصلة من استعمال شيء من
-السكرات سكرا لسدها طرق تصرف العقل في القوي وطرق انقياد القوي للعقل,
-ولا اختصاص لها بالخمر العينبية المعروفة بل كل مايحصل من تلك الحالة
-شربا او اكلا او تدخينا او غير ذلك فهو خمر النفس سواء حصل منه السكر
-المعروف كا الفقاع والمعصيرات المتخذة من غير العنب وكالبنج و الجرس
-والافيون او لا كالحرص و الامل والحب و الشهوة والغضب و الحسد و البخل و
-الغم و الفرح والنعاس والكسل الغاليه بحيث يغلب مقتضاها علي مقتضي العقل
-بل الحالة الحاصلة المانعه من نفاذ حكم العقل وتدبيره سكر النفس من اي
-شيء كانت ومن اي سبب حصلت
-  </p>
-</blockquote>
+> والسكر من السكر بمعني السد ويسمي الحالة الحاصلة من استعمال شيء من
+> السكرات سكرا لسدها طرق تصرف العقل في القوي وطرق انقياد القوي للعقل,
+> ولا اختصاص لها بالخمر العينبية المعروفة بل كل مايحصل من تلك الحالة
+> شربا او اكلا او تدخينا او غير ذلك فهو خمر النفس سواء حصل منه السكر
+> المعروف كا الفقاع والمعصيرات المتخذة من غير العنب وكالبنج و الجرس
+> والافيون او لا كالحرص و الامل والحب و الشهوة والغضب و الحسد و البخل و
+> الغم و الفرح والنعاس والكسل الغاليه بحيث يغلب مقتضاها علي مقتضي العقل
+> بل الحالة الحاصلة المانعه من نفاذ حكم العقل وتدبيره سكر النفس من اي
+> شيء كانت ومن اي سبب حصلت
 
 The word ***'sukr'*** stems from the word ***'sakr'*** meaning
 'encumbrance;' and the state gotten by taking an intoxicant is known as
@@ -173,13 +149,9 @@ and control is ***sukrun nafs,*** regardless of its entity and cause
 \`Abd al-Razzaq Qashani in his Qur'an commentary presents the following
 explanation for the verse under discussion:
 
-<blockquote dir="rtl">
-  <p>
-)لا تقربو الصلاة) اي لا تقربو مقام الحضور والمناجاة مع الله في حال
-كونكم (سكارئ) من نوم الغفلة او من خمورر الهوئ ومحبة الدنيا (حتئ تعلموا
-ما تقولون) في مناجاتكم ولا تشتغل قلوبكم باشغال الدنيا وساوسها...
-  </p>
-</blockquote>
+> )لا تقربو الصلاة) اي لا تقربو مقام الحضور والمناجاة مع الله في حال
+> كونكم (سكارئ) من نوم الغفلة او من خمورر الهوئ ومحبة الدنيا (حتئ تعلموا
+> ما تقولون) في مناجاتكم ولا تشتغل قلوبكم باشغال الدنيا وساوسها...
 
 (**Do not near prayers**): Do not near the station of presence and
 secret conversation with Allah when you are (intoxicated) by the sleep
@@ -202,12 +174,8 @@ in his '*al-Safi*', "manifests universality." [^9] He means that
 thinking and intellection) has various extensions. In a tradition from
 *Al-Kafi*, Imam al-Baqir (\`a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لا تقم الئ الصلاة متكاسلا ولا متناعسا ولا متثاقلا فانها من خلال النفاق
-وقد نهي الله عزوجل ان تقوموا الي الصلاة وانتم سكارئ, قال سكر النوم
-  </p>
-</blockquote>
+> لا تقم الئ الصلاة متكاسلا ولا متناعسا ولا متثاقلا فانها من خلال النفاق
+> وقد نهي الله عزوجل ان تقوموا الي الصلاة وانتم سكارئ, قال سكر النوم
 
 Neither stand for prayer in the state of restlessness, or slumber; nor
 while you are over satiated; for verily (all) those are of the
@@ -223,11 +191,7 @@ Other verses of the Holy Qur'an also reveal, although implicitly, the
 necessity of attention in prayer. For example, verse 14 of chapter Taha
 clearly tells us that prayer is a means of remembering Allah:
 
-<blockquote dir="rtl">
-  <p>
-اقم الصلاة لذكري
-  </p>
-</blockquote>
+> اقم الصلاة لذكري
 
 ***Keep up prayer***
 
@@ -244,11 +208,7 @@ heart in prayer:
 
 1. The Ahlul Bayt (a) are reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-ليس لك من صلاتك الا ما احضرت فيه قلبك
-  </p>
-</blockquote>
+> ليس لك من صلاتك الا ما احضرت فيه قلبك
 
 You have no share from your prayer
 
@@ -257,11 +217,7 @@ heart.[^11]
 
 2. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لا يتقبل الله صلاة عبد لا يحضر قلبه مع بدنه
-  </p>
-</blockquote>
+> لا يتقبل الله صلاة عبد لا يحضر قلبه مع بدنه
 
 Allah does not accept the prayer of that servant of his
 
@@ -269,12 +225,8 @@ Whose heart is not present along with his body. [^12]
 
 3. Imam al-Baqir (\`a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-اذا قمت في الصلاة فعليك باالاقبال علي صلاتك فانما يحسب لك منها ما
-اقبلت عليه
-  </p>
-</blockquote>
+> اذا قمت في الصلاة فعليك باالاقبال علي صلاتك فانما يحسب لك منها ما
+> اقبلت عليه
 
 When you stand up in prayer,
 
@@ -339,5 +291,4 @@ whisper to Him several times a day?
 [^12]: Abu Ja’far al-Barqi, al Mahasin, v.1, p. 406.
 
 [^13]: Thiqat al-Islam al-Kulayni, al-Kafi, v.3, p.299
-
 

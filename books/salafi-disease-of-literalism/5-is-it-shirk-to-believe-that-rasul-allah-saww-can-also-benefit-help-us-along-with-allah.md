@@ -10,9 +10,7 @@ For example, we believe that Rasool Allah [saww] can also benefit us
 friends, all this is nothing than worshipping Rasool Allah [saww] by
 making him a partner of Allah in His attributes.
 
-<p dir="rtl">
 قُل' أَنَد'عُو مِن دُونِ اللّهِ مَا لاَ يَنفَعُنَا وَلاَ يَضُرُّنَا
-</p>
 
 [Yusufali 6:71] Say: Shall we call on that besides Allah, which does
 not benefit us nor harm us.
@@ -34,10 +32,8 @@ conversely necessitates the denial of all forms of intercession or
 association of partners with Allaah ..And, Allaah, Most Great and
 Glorious, said:
 
-<p dir="rtl">
 قَالَ أَفَتَع'بُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُكُم' شَي'ئًا
 وَلَا يَضُرُّكُم'
-</p>
 
 [Yusufali 21:66] (Abraham) said, "Do ye then worship, besides Allah,
 things that can neither be of any good (benefit) to you nor do you
@@ -106,23 +102,18 @@ And if they think that they are the Truthful Ones, then why don't they
 paste their favourite verse upon Aisha and her sister Isma bint Abu
 Bakr:
 
-<p dir="rtl">
 إِيَّاكَ نَع'بُدُ وإِيَّاكَ نَس'تَعِينُ
-</p>
 
 1:5 "You alone do we worship and from You alone do we seek help" And
 why don't they paste all the verses of Qur'an in which Allah says that
 beside Allah, no one can benefit or harm them:
 
-<p dir="rtl">
 قَالَ أَفَتَع'بُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُكُم' شَي'ئًا
 وَلَا يَضُرُّكُم'
-</p>
 
 [Yusufali 21:66] (Abraham) said, "Do ye then worship, besides Allah,
 things that can neither be of any good (benefit) to you nor do you
 harm?" Is this not a double standard?!
-
 
 **According to Qur'an, Even the Shirts of Prophets (as) can benefit /
 help us**
@@ -131,10 +122,8 @@ Allah testifies in Qur'an that even the Shirt of Prophet Yousuf (as)
 was able to benefit the others, and had the power of giving sights to
 the blind.
 
-<p dir="rtl">
 اذ'هَبُوا' بِقَمِيصِي هَـذَا فَأَل'قُوهُ عَلَى وَج'هِ أَبِي يَأ'تِ
 بَصِيرًا وَأ'تُونِي بِأَه'لِكُم' أَج'مَعِينَ
-</p>
 
 [Yusufali 12:93-96] "Go with this my shirt, and cast it over the face
 of my father: he will come to see (clearly).Then when the bearer of the
@@ -195,7 +184,6 @@ give the hair away to the people."
 Sahih Muslim Book 007, Number 2992 Anas said: "Talha was the one
 distributing it."
 
-
 Sahih Muslim Book 007, Number 2993
 
 Rasool Allah [saww] used to benefit the newborns by reading upon them
@@ -217,12 +205,10 @@ seeking Benefit from him?
 Tabarrukat of Aale Musa and Aale Haroon benefited Bani Israel Allah
 says in Qur'an:
 
-<p dir="rtl">
 وَقَالَ لَهُم' نِبِيُّهُم' إِنَّ آيَةَ مُل'ك ِهِ أَن يَأ'تِيَكُمُ
 التَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُم' وَبَقِيَّةٌ مِّمَّا تَرَكَ
 آلُ مُوسَى وَآلُ هَارُونَ تَح'مِلُهُ ال'مَلآئِكَةُ إِنَّ فِي ذَلِكَ
 لآيَةً لَّكُم' إِن كُنتُم مُّؤ'مِنِينَ
-</p>
 
 [Pickthal 2:248] And their Prophet said unto them: Lo! the token of his
 kingdom is that there shall come unto you the ark wherein is peace of
@@ -254,5 +240,4 @@ benefit the others from the punishment of grave?
 
 Did Rasool Allah [saww] really commit shirk by believing that there are
 some things (other than Allah) that can confer benefit?
-
 

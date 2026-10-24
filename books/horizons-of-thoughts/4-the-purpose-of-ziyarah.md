@@ -8,10 +8,7 @@ our deeds would be directed towards our eternal salvation. The purpose
 of human creation according to Qur'an and Sunnah is to worship Almighty
 Allah:
 
-
-<p dir="rtl">
 وَمَا خَلَقْتُ الْجِنَّ وَالإِنْسَ إِلاَّ لِيَعْبُدُوْنَ.
-</p>
 
 And I have not Created the Jinn and the Men save that they Worship Me
 Alone.[^30]
@@ -20,10 +17,8 @@ And worship without knowledge carries no meaning. This is because
 worship is not a mere exercise without any sense of devotion. 'Ibadah in
 the literal sense is defined as:
 
-<p dir="rtl">
 العِبَادَةُ هِيَ نَصبُ الْعَبْدِ نَفْسَهُ فِي مَقَامِ المْمْلُوكِيَّة
 لِرَبّهِ.
-</p>
 
 'Ibadah is when the servant places himself in the position of being a
 bondsman of his Lord.[^31]
@@ -37,11 +32,9 @@ thus he places himself in the station of being an obedient slave of
 Almighty Allah. Imam al-Hussein ('a), underlining the clear link between
 knowledge and worship is reported to have said:
 
-<p dir="rtl">
 إِنَّ اللَّهَ جَلَّ ذِكْرُهُ مَا خَلَقَ الْعِبَادَ إِلاَّ لِيَعْرِفُوهُ
 فَإِذَا عَرَفُوهُ عَبَدُوهُ فَإِذَا عَبَدُوهُ اسْتَغْنَوْا بِعِبَادَتِهِ
 عَنْ عِبَادَةِ مَا سِوَاهُ... .
-</p>
 
 Surely Allah ('a) did not Create His servants except for knowing Him,
 and when they know him, they would worship Him, and when they worship
@@ -61,9 +54,7 @@ vision of the heart' which is knowledge by presence (al-'ilm al-huzuri).
 The following verse of the Qur'an alludes to the close link between
 worship and conviction:
 
-<p dir="rtl">
 وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ.
-</p>
 
 And worship your Lord so that conviction comes to you [^34].
 
@@ -75,21 +66,17 @@ examples:
 1.In one of the ziyarat of the Holy Prophet (s) we are taught by Imam
 'Ali ('a) to address his noble being as follows:
 
-<p dir="rtl">
 …وًأشْهَدُ أنَّكَ قَدْ نَصَحْتَ لاُمَّتِكَ، وَجَاهَدْتَ فيِ سَبِيْلِ
 رَبّكَ، وَعَبَدْتَهُ حَتّى أتاكَ الْيَقٍيْنُ… .
-</p>
 
 …And I bear witness that you gave counsel to your nation and struggled
 in the way of your Lord, and worshipped Him until conviction came to
 you…[^35] 2. In another ziyarah we address Imam al-Hussein ('a) as
 follows:
 
-<p dir="rtl">
 …يَا أبَا عَبْدِ اللهِ أشْهَدُ أنَّكَ قَدْ بَلَّغْتَ عَنِ اللهِ
 عَزَّوَجَلَّ مَا اُمِرْتَ بِهِ وَلَمْ تَخْشَ أحَدًا غَيْرَهُ وَجَاهَدْتَ
 فِيْ سَبِيْلِهِ وَعَبَدْتَهُ صَادِقًا حَتّى أتَاكَ الْيَقِيْنُ… .
-</p>
 
 …O Aba 'Abdillah, I bear witness that surely you conveyed what you were
 ordered by Allah (the Invincible and Majestic) and other than Him you
@@ -97,12 +84,10 @@ never feared anyone, and you struggled in His way, and worshipped Him
 truthfully until conviction came to you…[^36] 3. In one of the ziyarat of
 Imam al-Riza ('a) we are taught to address him as follows:
 
-<p dir="rtl">
 …اَشْهَدُ اَنَّكَ قَدْ اَقَمْتَ الصَّلاَةَ وَآتَيْتَ الزَّكَاةَ
 وَاَمَرْتَ بِالْمَعْرُوْفِ وَنَهَيْتَ عَنِ الْمُنْكَرِ وَعَبَدْتَ اللهَ
 مُخْلِصًا حَتّى اَتَاكَ الْيَقِيْنُ، السَّلاَمُ عَلَيْكَ يَا أبَا
 الْحَسَنِ… .
-</p>
 
 …I bear witness that you kept prayer upright and gave the poor tax and
 invited to what was good and forbade the evil and worshipped Allah
@@ -134,18 +119,14 @@ the cost of the sacrifice of every possession. Our ziyarah which is an
 endeavor of unity in the real sense therefore should be a declaration of
 readiness and not merely a habitual recitation.
 
-<p dir="rtl">
 السّلاَمُ عَلَيْكَ.
-</p>
 
 Assalamu 'alayka
 
 The word al-Salam is commonly translated as "the Peace". Its literal
 import, however, means:
 
-<p dir="rtl">
 التَّعَرّي مِنَ الآفَاتِ الظَّاهِرَةِ وَالْبَاطِنَةِ.
-</p>
 
 …to be free from calamities, whether apparent or hidden [^38].
 
@@ -157,12 +138,10 @@ al-Salam. The Holy Prophet (s) in his nocturnal ascent (al-Mi'raj) came
 across a group of Angels, Divine Apostles and Prophets, and it was said
 to him:
 
-<p dir="rtl">
 يَا مُحَمَّدُ سَلِّمْ عَلَيْهِمْ فَقَالَ السَّلامُ عَلَيْكُمْ
 وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ فَأَوْحَى اللَّهُ إِلَيْهِ أَنَّ
 السَّلامَ وَالتَّحِيَّةَ وَالرَّحْمَةَ وَالْبَرَكَاتِ أَنْتَ
 وَذُرِّيَّتُكَ.
-</p>
 
 O Muhammad, send benedictions on them, and he (s) said: al-Salamu
 'alaykum wa Rahmatullahi wa Barakatuh (May the peace, Mercy and
@@ -172,48 +151,38 @@ Hence seeking Salam for him would mean seeking higher degrees of the
 state of Salam because the levels of Salam have no end. Only Almighty
 Allah enjoys the Absolute State of Salam:
 
-<p dir="rtl">
 هُوَ اللَّهُ الَّذِي لا إِلهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلامُ
 الْمُؤْمِنُ الْمُهَيْمِنُ... .
-</p>
 
 …He is Allah, other than Whom there is no god, He alone is the
 Sovereign, the Most Holy, the Peace [^40]
 
 1. In a tradition lady Fatima Zahra ('a) is reported to have said:
 
-<p dir="rtl">
 إنَّ اللهَ هُوَ السَّلاَمُ، وَمِنْهُ السّلاَمُ، وَإِلَيْهِ السّلاَم .
-</p>
 
 Surely only Allah is the Absolute Peace and from Him alone comes peace
 and unto Him alone returns Peace [^41] 2. The Holy Prophet (s) is
 reported to have told Lady Khadijah ('a) once that 'This is Gabriel, who
 sends his Salams unto you', wherepon she replied:
 
-<p dir="rtl">
 اَللهُ السّلاَمُ وَلِلّهِ السَّلاَمُ وَعَلىَ جِبْرَائِيل السَّلاَمُ .
-</p>
 
 Allah is the Absolute Peace and to Him alone belongs Peace and upon
 Gabriel be Peace [^42] 3. We are taught in a supplication [^43] to say:
 
-<p dir="rtl">
 اللَّهُمَّ أَنْتَ السَّلامُ وَ مِنْكَ السَّلامُ وَ إِلَيْكَ يَرْجِعُ
 السَّلام.
-</p>
 
 O Allah, You alone are the Peace, and from You Alone is Peace and unto
 You alone return peace 'Allama Tabataba'i in his monumental al-Mizan,
 says:
 
-<p dir="rtl">
 وَالاَصْلُ فِي مَعْنَى السَّلاَمِ على مَا ذَكَرَهُ الرَّاغِبُ فِي
 المفْرَدَاتِ هُوَ التَّعَرِّي عَنِ الآفَاتِ الظَّاهِرَةِ وَالْبَاطِنَةِ،
 وَاِلَيْهِ يَرْجِعُ مَعْنَاهُ فِي جَمِيعِ مُشْتَقَّاتِه... وَالسّلاَمُ
 مِنْ اَسْمآئِهِ تَعَالى لانّ ذَاتَهُ المُتَعَالِية نَفْسُ الْخَيرِ
 الَّذِى لاَ شَرَّ فِيْهِ ....
-</p>
 
 And the original meaning of the word al-Salam according to what
 al-Raghib indicated in al-Mufradat is to be free from adversities, both
@@ -226,9 +195,7 @@ But since 'the Absolute Peace' [^45] loves us, He laid a path open in
 front of us a path towards His Absolute Perfection, and thus always
 calls us towards the same:
 
-<p dir="rtl">
 وَاللَّهُ يَدْعُوا إِلى‏ دارِ السَّلامِ.
-</p>
 
 And Allah invites to the abode of Peace…[^46]
 
@@ -257,9 +224,7 @@ allude to the visitor (za'ir), in which situation the statement is no
 more invocative, but declarative [^49]. In other words, when the za'ir
 says al-Salamu 'alayka, he means:
 
-<p dir="rtl">
 سلاَمي عَلَيْكَ.
-</p>
 
 Salami 'alayka
 
@@ -286,18 +251,14 @@ narrations:
 
 1. We humbly express in the well-known ziyarat al-Jami'a al-Kabira:
 
-<p dir="rtl">
 ... أَنْتُمُ الصِّرَاطُ الاَقْوَمُ وَشُهَدَاءُ دَارِ الْفَنَاءِ ... .
-</p>
 
 …You are the upright path and the Witnesses of the Abode of Extinction
 [i.e. the world…][^51] 2.Imam al-Sadiq ('a) is reported to have said:
 
-<p dir="rtl">
 عَنْ أَبِي عَبْدِ اللَّهِ (ع) فِي قَوْلِهِ (وَقُلِ اعْمَلُوا فَسَيَرَى
 اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ) الْمُؤْمِنُونَ هَاهُنَا
 الائِمَّةُ الطَّاهِرَةُ (ع).
-</p>
 
 Believers referred to in the verse "And say, Go on working: Allah will
 see your conduct, and His Apostle and the believers [as well]" are the
@@ -308,12 +269,10 @@ they do so, they get upset:
 
 1.Imam al-Sadiq ('a) is reported to have said:
 
-<p dir="rtl">
 مَا لَكُمْ تَسُوءُونَ رَسُولَ اللَّهِ (ص) فَقَالَ رَجُلٌ: كَيْفَ
 نَسُوؤُهُ فَقَالَ أَ مَا تَعْلَمُونَ أَنَّ أَعْمَالَكُمْ تُعْرَضُ
 عَلَيْهِ فَإِذَا رَأَى فِيهَا مَعْصِيَةً سَاءَهُ ذَلِكَ فَلاَ تَسُوءُوا
 رَسُولَ اللَّهِ وَسُرُّوهُ.
-</p>
 
 What is the matter with you? Why do you displease the Messenger of
 Allah. Thereupon a man asked him: 'And how do we displease him? The Imam
@@ -324,14 +283,12 @@ happy.[^53]
 
 2. Ibn Aban al-Zayyat reports:
 
-<p dir="rtl">
 قُلْتُ لِلرِّضَا (ع): ادْعُ اللَّهَ لِي وَلاَهْلِ بَيْتِي فَقَالَ: أَوَ
 لَسْتُ أَفْعَلُ؟ وَاللَّهِ إِنَّ أَعْمَالَكُمْ لَتُعْرَضُ عَلَيَّ فِي
 كُلِّ يَوْمٍ وَلَيْلَةٍ, قَالَ: فَاسْتَعْظَمْتُ ذَلِكَ فَقَالَ لِي أَمَا
 تَقْرَأُ كِتَابَ اللَّهِ عَزَّ وَجَلَّ: (وَقُلِ اعْمَلُوا فَسَيَرَى
 اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ) قَالَ: هُوَ وَاللَّهِ
 عَلِيُّ بْنُ أَبِي طَالِبٍ (ع).
-</p>
 
 I said to al-Rida ('a): Pray to Allah for me and my family, and he
 said: Don't I do that? I swear by Allah surely your actions are
@@ -355,5 +312,4 @@ humiliation, and always seek change. They must realize that in order for
 one to prosper and change, he/she should perpetually seek Divine Succor
 and make a firm resolve to leave all those things that are forbidden,
 however minute they may seem to appear.
-
 

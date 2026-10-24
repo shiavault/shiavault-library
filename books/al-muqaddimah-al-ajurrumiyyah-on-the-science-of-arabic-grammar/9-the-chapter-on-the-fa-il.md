@@ -82,4 +82,3 @@ The Muđmar is twelve[^45] like when you say:
 
 **ضَربْنَ                                [They (fem. pl.) hit]**
 
-

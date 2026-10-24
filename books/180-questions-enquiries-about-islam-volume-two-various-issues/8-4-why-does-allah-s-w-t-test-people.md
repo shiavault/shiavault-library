@@ -47,12 +47,8 @@ And this is the secret of Divine examinations.
 
 The Noble Qur’an has asserted this reality, when it says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لِيَبْـتَلِيَ اللٌّهُ مَا فِي صُدُورِكُمْ وَ لِيُمَحِّصَ مَا فِي
-قُلُوبِكُمْ وَ اللٌّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-  </p>
-</blockquote>
+> وَ لِيَبْـتَلِيَ اللٌّهُ مَا فِي صُدُورِكُمْ وَ لِيُمَحِّصَ مَا فِي
+> قُلُوبِكُمْ وَ اللٌّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
 
 ***“And that Allah (s.w.t.) might test what was in your chests and that
 He might purge what was in your hearts; and Allah (s.w.t.) knows what is
@@ -61,13 +57,9 @@ in the hearts.”***[^1]
 The Commander of the Faithful (a.s.), in a statement very profound in
 meaning regarding the philosophy of Divine trials, says:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنْ كَانَ سُبْحَانَهُ أَعْلَمَ بِهِمْ مِنْ أَنْـفُسِهِمْ وَ لٌكِنْ
-لِتَظْهَرَ الأََفْعَالُ الَّتِي بِهَا يُسْتَحَقُّ الثَّوَابُ وَ
-الْعِقَابُ‏.
-  </p>
-</blockquote>
+> وَ إِنْ كَانَ سُبْحَانَهُ أَعْلَمَ بِهِمْ مِنْ أَنْـفُسِهِمْ وَ لٌكِنْ
+> لِتَظْهَرَ الأََفْعَالُ الَّتِي بِهَا يُسْتَحَقُّ الثَّوَابُ وَ
+> الْعِقَابُ‏.
 
 “Although Allah (s.w.t.) s more aware of their souls than they
 themselves are, He tries them so that their deeds, which necessitate
@@ -90,5 +82,4 @@ perspective.[^3]
 [^2]: Nahjul Balagha, Short Saying 93
 
 [^3]: Tafsir-e-Namuna, vol. 1, pg. 526
-
 

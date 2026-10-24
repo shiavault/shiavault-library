@@ -31,4 +31,3 @@ success is from God alone.
 **Holy Najaf**  
 **The 20th day of Shawwal, 1425.**
 
-

@@ -132,4 +132,3 @@ wins both lives, lives happy and dies while being praised.
 
 The following are a brief outline of each of these three categories.
 
-

@@ -29,4 +29,3 @@ Pharyngal   **ح ع**
 
 Laryngeal    **هـ/ء** **   **
 
-

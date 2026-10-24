@@ -37,4 +37,3 @@ the necessary medication to avoid menstruation during the trip. Ladies
 in menses **cannot** enter any Masjid or any Haram of Masoomeen A.S.,
 but they can recite Ziyarat from outside.
 
-

@@ -334,4 +334,3 @@ Zuhur, S. (2007). Egypt: Security, Political, and Islamist Challenges.
 Strategic Studies Institute Carlisle:
 www.strategicstudiesinstitute.army.mil/pdffiles/PUB787.pdf
 
-

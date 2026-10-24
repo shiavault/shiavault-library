@@ -13,12 +13,8 @@ consideration.
 The most important verse upon which the supporters of evolution lay
 great stress is verse 33 of Surat Ale 'Imran:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ اصْطَفى‏ آدَمَ وَ نُوحاً وَ آلَ إِبْرَاهِيمَ وَ آلَ
-عِــمْرَانَ عَلـى الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ اصْطَفى‏ آدَمَ وَ نُوحاً وَ آلَ إِبْرَاهِيمَ وَ آلَ
+> عِــمْرَانَ عَلـى الْعَالَمِينَ
 
 ***“Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of 'Imran above the nations.”***
@@ -53,12 +49,8 @@ been reported in the well-known tradition of the Noble Prophet (S), in
 connection with the excellence of Hadhrat Fatimah (s.a.), wherein he
 says:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا ابْـنَتِي فَاطِمَةُةَ فَإِنَّهَا سَيِّدَةَُ نِسَآءِ
-الْعَالَمِينَ مِنَ الأَوَّلِينَ وَ الآخِرِينَ‏.
-  </p>
-</blockquote>
+> أَمَّا ابْـنَتِي فَاطِمَةُةَ فَإِنَّهَا سَيِّدَةَُ نِسَآءِ
+> الْعَالَمِينَ مِنَ الأَوَّلِينَ وَ الآخِرِينَ‏.
 
 “As for my daughter Fatimah, she is the chief of the ladies of the
 world, from the first to the last.”
@@ -81,24 +73,16 @@ Allah (s.w.t.) has created man from dry clay, which had been taken from
 dark-coloured and stinking mud. Interestingly, this expression has been
 utilized in connection with the creation of 'insan'…
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ خَلَقْنَا الإِِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍاءٍ
-مَسْـنُونٍ‏
-  </p>
-</blockquote>
+> وَ لَقَدْ خَلَقْنَا الإِِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍاءٍ
+> مَسْـنُونٍ‏
 
 ***“And certainly We created man of clay that gives forth sound, of
 black mud fashioned in shape.”***[^2]
 
 as well as for 'bashar'…
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ قَـالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِــقٌ بَشَراً مِنْ
-صَلْصَالٍ مِنْ حَمَإٍاءٍ مَسْـنُونٍ
-  </p>
-</blockquote>
+> وَ إِذْ قَـالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِــقٌ بَشَراً مِنْ
+> صَلْصَالٍ مِنْ حَمَإٍاءٍ مَسْـنُونٍ
 
 ***“And when your Lord said to the angels: Surely I am going to create a
 mortal of the essence of black mud fashioned in shape.”***[^3]
@@ -127,16 +111,12 @@ And it is for this reason that this very term 'ثـم' has been employed in
 connection with the creation of man in the embryonic world and the
 stages of his development within it. The Noble Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنْ كُنْـتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ
-فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ
-عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَ غَيْرِ مُخَلَّقَةٍ
-لِنُبَيِّنَ لَكُمْ وَ نُقِرُّ فِي الأََرْحَامِ مَا نَشَآءُ إِلـى‏
-أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلاً ثُمَّ لِتَبْلُغُوا
-أَشُدَّكُمْ‏
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنْ كُنْـتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ
+> فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ
+> عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَ غَيْرِ مُخَلَّقَةٍ
+> لِنُبَيِّنَ لَكُمْ وَ نُقِرُّ فِي الأََرْحَامِ مَا نَشَآءُ إِلـى‏
+> أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلاً ثُمَّ لِتَبْلُغُوا
+> أَشُدَّكُمْ‏
 
 ***“O' people! if you are in doubt about the raising, then surely We
 created you from dust, then from a small seed, then from a clot, then
@@ -171,5 +151,4 @@ one from amongst them.
 [^4]: Suratul Hajj (22), Verse 5
 
 [^5]: Tafsir-e-Namuna, vol. 11, pg. 86
-
 

@@ -653,4 +653,3 @@ or covering it in ambiguity. Therefore, a thinking scholar should never
 close his eyes from these factors which have utmost relevance to the
 understanding of realities. And Allah is the Guide.
 
-

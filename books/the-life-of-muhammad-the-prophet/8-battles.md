@@ -1598,4 +1598,3 @@ we are well satisfied with our share." (meaning the presence of Holy
 Prophet in Medina). Thereupon they retired happy and contented. Muhammad
 soon after returned to Medina.
 
-

@@ -84,8 +84,6 @@ Maulanay sayid Ali Muhammed Ijlal Lakhnavi of India. I hope that readers
 will benefit from this translation, and pray for me and for the entire
 Muslim Ummah for their unity.
 
-
 Was Salaam.
 S.M. ZAKI BAQRI
-
 

@@ -204,4 +204,3 @@ or divorcee may legitimately remarry.
 
 [^13]: Nahjul Balagha, Instructions 25 and 26.
 
-

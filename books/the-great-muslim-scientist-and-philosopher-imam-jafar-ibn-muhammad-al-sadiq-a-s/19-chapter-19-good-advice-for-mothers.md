@@ -51,4 +51,3 @@ he had access to Ilm Ladunni (divine knowledge).
 
 End
 
-

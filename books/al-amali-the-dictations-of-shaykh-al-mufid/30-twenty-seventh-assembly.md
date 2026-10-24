@@ -290,4 +290,3 @@ them, together with the other joners."
 And may Allah bless His Prophet, our master Muhammad and his pure
 progeny.
 
-

@@ -524,4 +524,3 @@ the BATTLE OF BADR, who were fourteen men, six of them were of the
 Emigrants, and eight from among the Helpers. When the war was over,
 Muslims used to say: such and such died in the battle.
 
-

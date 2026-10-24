@@ -12,4 +12,3 @@ Ali Ibn Abi Talib. He was struck with blindness at the end of his life
 and was killed by Al- Hajjaj only because of his loyalty to Ahlul Bayt
 in 78 AH at the age of 91.
 
-

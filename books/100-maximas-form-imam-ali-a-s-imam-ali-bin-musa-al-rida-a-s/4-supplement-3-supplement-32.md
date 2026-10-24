@@ -117,4 +117,3 @@ knowledge and wisdom.
 89- The best way to punish an evil-doer is to reward handsomely the
 good deeds of a good person.
 
-

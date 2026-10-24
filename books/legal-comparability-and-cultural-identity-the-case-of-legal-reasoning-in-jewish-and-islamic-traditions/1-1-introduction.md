@@ -202,4 +202,3 @@ perspective. Therefore, the comparability of Jewish and Islamic law
 systems also rests on the comparative consciousness of the Jewish
 jurists when they reflected on their own system.
 
-

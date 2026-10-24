@@ -7,12 +7,8 @@ characteristics of a true believer. Twenty-two of these characteristics
 have been explained, and now we go through four more of the one hundred
 and three characteristics.
 
-<blockquote dir="rtl">
-  <p>
-أَحْلى مِنَ الشَّهَدِ وَ أَصْلَدَ مِنَ الصَّلَدِ، لاَ يَكْشِفُ سِرّاً
-ولاَ يَهْتِكُ سِتْراً…
-  </p>
-</blockquote>
+> أَحْلى مِنَ الشَّهَدِ وَ أَصْلَدَ مِنَ الصَّلَدِ، لاَ يَكْشِفُ سِرّاً
+> ولاَ يَهْتِكُ سِتْراً…
 
 ”(The complete true believer is one who) is sweeter than honey; and is
 stronger than the outside of a rock; and who does not expose the secrets
@@ -42,12 +38,8 @@ addition, the fire of anger can be put out and chaos and confusion
 between individuals can be controlled.  
  The Prophet (S) has stated:       
 
-<blockquote dir="rtl">
-  <p>
-أَكْثَرُ مَا تَلِجُ بِهِ أُمَّتِي الْجَنَّةَ تَقْوى اللٌّهِ وَ حُسْنُ
-الْخَلْقِ.
-  </p>
-</blockquote>
+> أَكْثَرُ مَا تَلِجُ بِهِ أُمَّتِي الْجَنَّةَ تَقْوى اللٌّهِ وَ حُسْنُ
+> الْخَلْقِ.
 
 “The most (important) of things which will bring my Ummah closer to
 Paradise are Taqwa of Allah and having a good disposition.”[^1]
@@ -66,11 +58,7 @@ merciful amongst his friends and fellow believers while he is harsh
 against the enemies and that he is even stronger and more powerful than
 iron and even a mountain:
 
-<blockquote dir="rtl">
-  <p>
-أَشَدُّ مِنْ زُبُرِ الْحَدِيدِ وَ أَشَدُّ مِنَ الْجَبَلِ.
-  </p>
-</blockquote>
+> أَشَدُّ مِنْ زُبُرِ الْحَدِيدِ وَ أَشَدُّ مِنَ الْجَبَلِ.
 
 ”(The true believer) is firmer and stronger than iron and more powerful
 than a mountain.”
@@ -140,5 +128,4 @@ to these guidelines!
 
 [^1]: Bihar al-Anwar, vol. 68, pg. 375, Section: Having a Good
 Disposition
-
 

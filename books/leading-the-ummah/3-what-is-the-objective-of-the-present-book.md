@@ -13,21 +13,13 @@ leader for all Muslims and there are many of Quranic verses which lead
 us to the magnanimity and greatness of this great person. Here are some
 samples:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَ أَطِيعُوا
-الرَّسُولَ وَ أُولِي الأَْمْرِ مِنْكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ يا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَ أَطِيعُوا
+> الرَّسُولَ وَ أُولِي الأَْمْرِ مِنْكُمْ ﴾
 
 ***“Obey Allah and obey the apostle and those in authority from among
 you”.*** [^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
 
 **“*****The Prophet has a greater claim on the faithful than they have
 themselves”.*** [^2]
@@ -38,13 +30,9 @@ room affairs, both internally by himself and externally through his
 representatives. The Holy Quran orders Muslims to accept the Prophet’s
 judgments on legal cases without questioning
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلا وَ رَبِّكَ لا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيما شَجَرَ
-بَيْنَهُمْ ثُمَّ لا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجاً مِمَّا قَضَيْتَ
-وَ يُسَلِّمُوا تَسْلِيماً﴾
-  </p>
-</blockquote>
+> ﴿ فَلا وَ رَبِّكَ لا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيما شَجَرَ
+> بَيْنَهُمْ ثُمَّ لا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجاً مِمَّا قَضَيْتَ
+> وَ يُسَلِّمُوا تَسْلِيماً﴾
 
 ***“But no! By your Lord! They do not believe in reality until they make
 you a judge of that which had become a mutter disagreement amongst them,
@@ -55,12 +43,8 @@ The Prophet’s leadership of the ummah included his management of Islam’s
 financial and economic issues. He performed such tasks on his own and
 was instructed by God to do so in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ خُذْ مِنْ أَمْوالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَ تُزَكِّيهِمْ
-بِها... ﴾
-  </p>
-</blockquote>
+> ﴿ خُذْ مِنْ أَمْوالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَ تُزَكِّيهِمْ
+> بِها... ﴾
 
 ***“Take alms out of their property, you would cleanse and purify
 them”.*** [^4]
@@ -200,5 +184,4 @@ clear to men what has been revealed to them” (Quran 16:44)
 [^8]: .“And whatever the apostle gives you accept it whatever he forbids
 you, keep back and be careful of your duty to Allah; surely Allah is
 severe in the retribution of evil (Quran 59:7).
-
 

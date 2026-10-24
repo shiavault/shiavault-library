@@ -585,4 +585,3 @@ head and face and even his eyebrows and eyelash. Thus victory was won by
 'A'ishah's army in this conflict, which took place after the conclusion
 of the peace treaty, and Basra, came under their control.
 
-

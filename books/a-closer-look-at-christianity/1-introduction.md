@@ -84,4 +84,3 @@ religion to humans handed down from God Almighty.
 
 **Mohamed Qasem**
 
-

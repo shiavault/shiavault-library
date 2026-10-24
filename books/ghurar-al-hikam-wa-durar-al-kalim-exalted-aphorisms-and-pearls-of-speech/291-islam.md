@@ -9,23 +9,15 @@ confirmation, and confirmation means execution, and execution means
 action.
 
 > 1ـ الإسْلامُ هُوَ التَّسليمُ، والتَّسْليمُ هُوَ اليَقيْـنُ،وَ
-<blockquote dir="rtl">
-  <p>
-اليَقيْـنُ هُوَ التَّصْديقُ، وَالتَّصْديقُ هُوَ الإقْرارُ، والإقْرارُ
-هُوَ الأداءُ، والأداءُ هُوَ العَمَلُ.
-  </p>
-</blockquote>
+> اليَقيْـنُ هُوَ التَّصْديقُ، وَالتَّصْديقُ هُوَ الإقْرارُ، والإقْرارُ
+> هُوَ الأداءُ، والأداءُ هُوَ العَمَلُ.
 
 2. Verily Islam has a goal, so strive towards its goal and proceed
 towards Allah by fulfilling that which He has ordained upon you of His
 rights.
 
 > 2ـ إنَّ للإسْلامِ غايَةً فَانْتَهُوا إلى غايَتِهِ، واخْرُجُوا إلَى
-<blockquote dir="rtl">
-  <p>
-اللّهِ مِمّا افْتَرَضَ عَلَيْكُمْ مِنْ حُقُوقِهِ.
-  </p>
-</blockquote>
+> اللّهِ مِمّا افْتَرَضَ عَلَيْكُمْ مِنْ حُقُوقِهِ.
 
 3. Islam is the most illuminated course.
 
@@ -36,12 +28,8 @@ a sign for the one who examines it [carefully], a lesson for the one who
 takes heed and a salvation for the one who accepts it.
 
 > 4ـ وقال ـ عليه السّلام ـ في ذكرِ الإسْلامِ: تَبْصِرَةٌ لِمَنْ عَزَمَ،
-<blockquote dir="rtl">
-  <p>
-وآيَةٌ لِمَنْ تَوَسَّمَ، وَعِبْرَةٌ لِمَنِ اتَّعَظَ، ونَجاةٌ لِمَنْ
-صَدَّقَ.
-  </p>
-</blockquote>
+> وآيَةٌ لِمَنْ تَوَسَّمَ، وَعِبْرَةٌ لِمَنِ اتَّعَظَ، ونَجاةٌ لِمَنْ
+> صَدَّقَ.
 
 5. The embellishment of Islam is performing righteous actions.
 
@@ -51,11 +39,7 @@ takes heed and a salvation for the one who accepts it.
 has strengthened its pillars against those who wage war with it.
 
 > 6ـ شَرَعَ اللّهُ لَكُمُ الإسْلامَ، فَسَهَّلَ شَرايِعَهُ، وأعَزَّ
-<blockquote dir="rtl">
-  <p>
-أرْكانَهُ على مَنْ حارَبَهُ.
-  </p>
-</blockquote>
+> أرْكانَهُ على مَنْ حارَبَهُ.
 
 7. The outward side of Islam is radiant and its inward aspect is
 elegant.
@@ -86,5 +70,4 @@ Allah].
 13. Become a Muslim and you shall be safe [in the Hereafter].
 
 > 13ـ أسْلِمْ تَسْلَمْ.
-
 

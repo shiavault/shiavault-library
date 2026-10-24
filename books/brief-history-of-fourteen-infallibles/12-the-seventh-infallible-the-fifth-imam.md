@@ -126,4 +126,3 @@ life according to one's means, in the right measure.
 than seventy thousand devotees ('abid ).  
  \* One who disobeys Allah has no knowledge of Him.
 
-

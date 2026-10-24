@@ -41,12 +41,10 @@ declared it impure. People would thus remain away from it, because it is
 natural that by not using something made from alcohol will creates hate
 towards it and this itself is war against alcoholic drinks.[^2]
 
-
 [^1]: Very soon we will discuss about the impurity of infidels
 
 [^2]: Whatever is said above is about alcoholic drinks, but as regards
 artificial alcohol being impure there is discussion between the scholars
 and Jurisprudents, because this type of alcohol is not generally meant
 for drinking, rather it is considered to be a poisonous substance.
-
 

@@ -353,4 +353,3 @@ be lawful. That is the appropriate response which a man should show to
 his Almighty Lord. Except in the case of Allah this kind of response is
 neither applicable nor permissible.
 
-

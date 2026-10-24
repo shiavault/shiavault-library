@@ -99,4 +99,3 @@ faults and those to come.” (Sūrah al-Fath 48:2). 
 
 [^3]: Bihār al-Anwār, vol. 67, p. 65; vol. 19, p. 182.
 
-

@@ -212,4 +212,3 @@ master of people). He had to say that the tradition was weak due to the
 weakness of the narrator or due to the fact that the Sufis depended on
 it.
 
-

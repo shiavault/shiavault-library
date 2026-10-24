@@ -1,25 +1,13 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-﴿ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ \*
-  </p>
-</blockquote>
+> ﴿ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ \*
 
-<blockquote dir="rtl">
-  <p>
-اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ \* خَلَقَ الإِنسَانَ مِنْ
-عَلَقٍ \*
-  </p>
-</blockquote>
+> اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ \* خَلَقَ الإِنسَانَ مِنْ
+> عَلَقٍ \*
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ وَرَبُّكَ الأَكْرَمُ \* الَّذِي عَلَّمَ بِالْقَلَمِ \* عَلَّمَ
-الإِنسَانَ مَا لَمْ يَعْلَمْ ﴾
-  </p>
-</blockquote>
+> اقْرَأْ وَرَبُّكَ الأَكْرَمُ \* الَّذِي عَلَّمَ بِالْقَلَمِ \* عَلَّمَ
+> الإِنسَانَ مَا لَمْ يَعْلَمْ ﴾
 
 ***In the Name of Allah, the All-compassionate, the All-merciful***
 
@@ -55,23 +43,11 @@ of this holy saint and under the tuition of this godly instructor. Thus,
 without formal and intricate penmanship I shall leave the stylus to its
 simple comportment and proceed as the pen wills.
 
-<blockquote dir="rtl">
-  <p>
-يک دهان خواهم به پهناي فلک تا بگويم وصف آن رشک ملک
-  </p>
-</blockquote>
+> يک دهان خواهم به پهناي فلک تا بگويم وصف آن رشک ملک
 
-<blockquote dir="rtl">
-  <p>
-ور دهان يابم چنين و صد چنين تنگ آيد در بيان آن امين
-  </p>
-</blockquote>
+> ور دهان يابم چنين و صد چنين تنگ آيد در بيان آن امين
 
-<blockquote dir="rtl">
-  <p>
-اين قدر هم گر نگويم اي سَنَد شيشه‌ي دل از ضعيفي بشکند
-  </p>
-</blockquote>
+> اين قدر هم گر نگويم اي سَنَد شيشه‌ي دل از ضعيفي بشکند
 
 I need a mouth as great as the firmament,
 
@@ -92,11 +68,7 @@ livelihood, whereas talking of such mundane matters is far from the
 dignity of these empyrean souls. Thus, in this area we shall suffice
 with this elocution by sweet-tongued Hāfiz:
 
-<blockquote dir="rtl">
-  <p>
-فلک به مردم نادان دهد زمام مراد تو اهل دانش و فضلي همين گناهت بس
-  </p>
-</blockquote>
+> فلک به مردم نادان دهد زمام مراد تو اهل دانش و فضلي همين گناهت بس
 
 To ignorant people the cosmos gives reign to desire.
 
@@ -110,17 +82,9 @@ tribulations for, to the affidavit of biographies, receptive souls have
 become illustrious personages and paragons of the age by tolerance of
 suchlike hours of woe.” Indeed:
 
-<blockquote dir="rtl">
-  <p>
-نه در غنچه کامل شود پيکر گل نه در بوته ظاهر شود صورت زر
-  </p>
-</blockquote>
+> نه در غنچه کامل شود پيکر گل نه در بوته ظاهر شود صورت زر
 
-<blockquote dir="rtl">
-  <p>
-زأحداث چرخ است تهذيب مردم چو از زخم خايسک تيزي خنجر
-  </p>
-</blockquote>
+> زأحداث چرخ است تهذيب مردم چو از زخم خايسک تيزي خنجر
 
 Neither is the soma of a flower completed in the bud,
 
@@ -142,42 +106,26 @@ works and the masterpiece among his entire oeuvre.
 In describing the Qur’an, the great Imām, Amīr al-Mu’minīn ‘Alī (‘a)[^7]
 declared:
 
-<blockquote dir="rtl">
-  <p>
-کتاب الله ينطق بعضه ببعض، ويشهد بعضه علی بعض.
-  </p>
-</blockquote>
+> کتاب الله ينطق بعضه ببعض، ويشهد بعضه علی بعض.
 
 “***Parts of the Book of Allah explain other parts and some parts
 substantiate other parts***.”[^8]
 
 Also, the Glorious Qur’an describes itself thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِكُلِّ شَيْءٍ... ﴾
 
 “***And We have sent down upon you the Book explaining all
 things…***”[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا
-مَثَانِيَ... ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا
+> مَثَانِيَ... ﴾
 
 “***Allah has revealed the finest account, a book whose verses are
 similar to each other and repeated…***”[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ
-﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ
+> ﴾
 
 “***And certainly we have given you the seven oft-repeated
 verses***[^11] ***and the grand Qur’an.***”[^12]
@@ -213,12 +161,8 @@ are discussed.
 Think not that this utterance of mine is in conflict with what this
 master stated in his prologue:
 
-<blockquote dir="rtl">
-  <p>
-قد اجتنبنا فيها عن أن نرکن إلی حجة نظرّية فلسفية، أو إلی فرضيّة
-علميّة، او إلی مکاشفة عرفانيّة.
-  </p>
-</blockquote>
+> قد اجتنبنا فيها عن أن نرکن إلی حجة نظرّية فلسفية، أو إلی فرضيّة
+> علميّة، او إلی مکاشفة عرفانيّة.
 
 “Verily I refrained from basing the rationales of this book upon
 philosophical and scientific theories or mystical revelation.”
@@ -226,12 +170,8 @@ philosophical and scientific theories or mystical revelation.”
 We both spoke true, just as the luminary himself declared at the close
 of his prologue. Ponder upon it:
 
-<blockquote dir="rtl">
-  <p>
-ثم وضعنا ابحاثاً مختلفة، فلسفيّة وعلميّة وتاريخيّة واجتماعيّة
-واخلاقيّة الخ.
-  </p>
-</blockquote>
+> ثم وضعنا ابحاثاً مختلفة، فلسفيّة وعلميّة وتاريخيّة واجتماعيّة
+> واخلاقيّة الخ.
 
 “I shall, however, make use of various philosophical, scientific,
 historical, social, ethical… discussions.”
@@ -269,14 +209,10 @@ recorded the completion date in the following utterance:
 Completion date of “Tafsīr al-Mīzān” and recommendation to theology students [tullāb]
 -------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-تم الکتاب والحمد لله، واتفق الفراغ من تأليفه في ليلة القدر المبارکة
-الثالثة والعشرين من ليإلي شهر رمضان، من شهور سنة اثنتين وتسعين
-وثلاثمائة بعد الألف من الهجرة، والحمد لله علی الدوام، والصلوة علی
-سيدنا محمد وآله والسلام.
-  </p>
-</blockquote>
+> تم الکتاب والحمد لله، واتفق الفراغ من تأليفه في ليلة القدر المبارکة
+> الثالثة والعشرين من ليإلي شهر رمضان، من شهور سنة اثنتين وتسعين
+> وثلاثمائة بعد الألف من الهجرة، والحمد لله علی الدوام، والصلوة علی
+> سيدنا محمد وآله والسلام.
 
 “The book has been completed and praise be to Allah for I was successful
 in finishing this composition on the blessed Night of al-Qadr, the
@@ -291,11 +227,7 @@ concluded on this felicitous night. Indeed, one must work in this way.
 According to the expressive and eloquent poem of Shams al-Dīn Muhammad
 ibn Mahmūd Āmolī, the author of “Nafā’is al-Funūn”:
 
-<blockquote dir="rtl">
-  <p>
-به هوس راست نيايد به تمنّي نشود کاندرين راه بسي خون جگر بايد خورد
-  </p>
-</blockquote>
+> به هوس راست نيايد به تمنّي نشود کاندرين راه بسي خون جگر بايد خورد
 
 It won’t be rectified with caprice, nor with desire.
 
@@ -304,14 +236,10 @@ For, on this path much dolor must be endured.
 At the end of the book “Diyāt”, Shaykh al-Mashāyikh, the celebrated
 author of “Jawāhir al-Kalām” wrote:
 
-<blockquote dir="rtl">
-  <p>
-تمّ کتاب جواهر الکلام في شرح شرائع الاسلام، في مسائل الحلال والحرام،
-في ليلة الثلاثاء ثلاث وعشرين من شهر رمضان المبارك، ليلة القدر التي کان
-من تقدير الله تعالی فيها ان يتفضّل علينا باتمام الکتاب المزبور، من سنة
-ألف ومائتين واربع وخمسين من الهجرة النبوية الخ.
-  </p>
-</blockquote>
+> تمّ کتاب جواهر الکلام في شرح شرائع الاسلام، في مسائل الحلال والحرام،
+> في ليلة الثلاثاء ثلاث وعشرين من شهر رمضان المبارك، ليلة القدر التي کان
+> من تقدير الله تعالی فيها ان يتفضّل علينا باتمام الکتاب المزبور، من سنة
+> ألف ومائتين واربع وخمسين من الهجرة النبوية الخ.
 
 “The book of “Jawāhir al-Kalām”, a commentary of “Sharāyi‘ al-Islām fī
 Masā’il al-Halāl wa al-Harām” (The Laws of Islam Regarding Lawful and
@@ -325,12 +253,8 @@ In “Mafātīh” of Muhaddith Qummī, regarding nightly vigil on the 21st and
 probable nights of al-Qadr, Sadūq ibn Bābawayh (may God be pleased with
 him) was quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-قال شيخنا الصدوق فيما أملي علی المشايخ في مجلس واحد من مذهب الإمامية:
-«ومن أحيی هاتين الليلتين بمذاکرة العلم فهو أفضل».
-  </p>
-</blockquote>
+> قال شيخنا الصدوق فيما أملي علی المشايخ في مجلس واحد من مذهب الإمامية:
+> «ومن أحيی هاتين الليلتين بمذاکرة العلم فهو أفضل».
 
 “Our master Sadūq said in the book Amālī that if there are two groups in
 a single gathering of vigil in the two nights of al-Qadr, one of which
@@ -346,13 +270,9 @@ A great master of ‘Allāmah Tabātabā’ī: Sayyid Husayn Bādkūbeh’ī
 During a lesson, I asked the ‘Allāmah regarding trusteeship [wilāyah]
 and Imamate and talk led to the following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ
-قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِي
-قَالَ لاَ يَنَالُ عَهْدِي الظَّالِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ
+> قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِي
+> قَالَ لاَ يَنَالُ عَهْدِي الظَّالِمِينَ ﴾
 
 ***“And (remember) when his Lord tested Abraham with certain words and
 he fulfilled them. He said, ‘Verily, I shall make you an imām of the
@@ -424,22 +344,14 @@ reason: some just to learn the terminology, others to learn to beautify
 gatherings, a meager few for their honesty, simplicity, and belief in
 the spiritual realm. These last few have been described thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ثُلَّةٌ مِنَ الأَوَّلِينَ \* وَقَلِيلٌ مِنَ الآخِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ ثُلَّةٌ مِنَ الأَوَّلِينَ \* وَقَلِيلٌ مِنَ الآخِرِينَ ﴾
 
 ***“A great many of the first (peoples), and few from the last
 (peoples).”***[^16]
 
 Anyway,
 
-<blockquote dir="rtl">
-  <p>
-هر کسي از ظن خود شد يار من وز درون من نجست اسرار من
-  </p>
-</blockquote>
+> هر کسي از ظن خود شد يار من وز درون من نجست اسرار من
 
 Each person became my friend for their own presumption.
 
@@ -449,12 +361,8 @@ One day, Master ‘Allāmah Tabātabā’ī remarked, “When I decided to
 resettle in Qum, I performed istikhārah with the Glorious Qur’an. This
 holy verse came up:
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُنَا لِكَ الْوَلايَةُ لِلَّهِ الْحَقِّ هُوَ خَيْرٌ ثَوَابًا
-وَخَيْرٌ عُقْبًا ﴾
-  </p>
-</blockquote>
+> ﴿ هُنَا لِكَ الْوَلايَةُ لِلَّهِ الْحَقِّ هُوَ خَيْرٌ ثَوَابًا
+> وَخَيْرٌ عُقْبًا ﴾
 
 ***“There, support and protection belong solely to Allah, the True; He
 is the best to reward and the best to accord favorable outcome.”***[^17]
@@ -475,11 +383,7 @@ between us. During this time I found him to be unfaltering upon his
 path, stalwart and humane in character, great in essence… He wrote an
 exegesis of the Qur’an from the beginning up to this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... قُلِ اللّهُ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... قُلِ اللّهُ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُونَ ﴾
 
 ***“…Say, ‘Allah (has sent it down).’ Then leave them to amuse
 themselves in their wrongful devotion.”***[^18]
@@ -494,16 +398,12 @@ unfaltering upon his path…” is a valuable attribute because the most
 important thing in advancement toward Allah is perseverance, the shower
 of divine blessings and favors are due to perseverance.
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
-تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلاَّ تَخَافُوا وَلاَ تَحْزَنُوا
-وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ \* نَحْنُ
-أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ وَلَكُمْ
-فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ \*
-نُزُلاً مِنْ غَفُورٍ رَحِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+> تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلاَّ تَخَافُوا وَلاَ تَحْزَنُوا
+> وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ \* نَحْنُ
+> أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ وَلَكُمْ
+> فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ \*
+> نُزُلاً مِنْ غَفُورٍ رَحِيمٍ ﴾
 
 ***“Verily those who say, ‘Our Lord is Allah’ and then are steadfast,
 the angels descend upon them (saying) that ‘Fear not nor sorrow rather
@@ -531,11 +431,7 @@ Husayn Qādī. He was told, ‘He has increased that one hour to twenty-four
 in which he is constantly in meditation, self-consciousness, and
 seclusion.’ However, seclusion of the following kind:
 
-<blockquote dir="rtl">
-  <p>
-هرگز ميان حاضر و غايب شنيده‌اي من در ميان جمع و دلم جاي ديگر است
-  </p>
-</blockquote>
+> هرگز ميان حاضر و غايب شنيده‌اي من در ميان جمع و دلم جاي ديگر است
 
 Have you heard of being at once among others and absent?
 
@@ -566,11 +462,7 @@ is to forget all but Allah”. When he heard this monotheistic utterance
 from me in explanation he recited for me the following verse from
 “Golshān-e Rāz” by ‘Ārif Shabestarī:
 
-<blockquote dir="rtl">
-  <p>
-نشاني داده‌اندت از خرابات که التوحيد اسقاط الاضافات
-  </p>
-</blockquote>
+> نشاني داده‌اندت از خرابات که التوحيد اسقاط الاضافات
 
 They gave you instructions in a drinkery,[^21]
 
@@ -596,11 +488,7 @@ Sayyid Ahmad Karbalā’ī and the prestigious sage, Mr. Kompānī (hallowed
 be their graves). These missives relate to a verse from the exalted
 mystic Shaykh ‘Attār (hallowed be his grave):
 
-<blockquote dir="rtl">
-  <p>
-او بسر نايد زخود آنجا که اوست کي رسد عقل وجود آنجا که اوست
-  </p>
-</blockquote>
+> او بسر نايد زخود آنجا که اوست کي رسد عقل وجود آنجا که اوست
 
 The mystic cannot, of himself, apprehend that which is Him.
 
@@ -724,13 +612,9 @@ many of the important issues of his other works; for example the
 treatise “Wilāyat” which is contained under the exegesis of the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنفُسَكُمْ لاَ يَضُرُّكُم
-مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ إِلَى اللّهِ مَرْجِعُكُمْ جَمِيعًا
-فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنفُسَكُمْ لاَ يَضُرُّكُم
+> مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ إِلَى اللّهِ مَرْجِعُكُمْ جَمِيعًا
+> فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ﴾
 
 ***“O you who believe! Be mindful of your selves (souls): A person who
 has gone astray cannot harm you, provided you are rightly guided. Unto
@@ -779,12 +663,8 @@ time when attachment to worldly affairs and material pleasures has
 bewitched the majority is a blessing from Allah, the Exalted. A blessing
 with a notification to all that:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاء وَاللَّهُ ذُو الْفَضْلِ
-الْعَظِيمِ ﴾
-  </p>
-</blockquote>
+> ﴿ ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاء وَاللَّهُ ذُو الْفَضْلِ
+> الْعَظِيمِ ﴾
 
 ***“That is the bounty of Allah. He gives it to whom He wills and Allah
 possesses great bounty.”***[^26]
@@ -800,11 +680,7 @@ All the works of this master are knowledge and thought, truth and
 understanding, discussion and research, love and reason, Qur’an and
 hadīth, and so forth.
 
-<blockquote dir="rtl">
-  <p>
-هر کس سخن با سخني ضم کند قطره‌اي از خون جگر کم کند
-  </p>
-</blockquote>
+> هر کس سخن با سخني ضم کند قطره‌اي از خون جگر کم کند
 
 Whosoever joins words with words,
 
@@ -882,11 +758,7 @@ divine philosophy available—written by the same prudent hand that wrote
 “Tafsīr al-Mīzān”. Currently, these two books are part of the Islamic
 seminary curriculum.
 
-<blockquote dir="rtl">
-  <p>
-آن کس که زکوي آشنايي است داند که متاع ما کجايي است
-  </p>
-</blockquote>
+> آن کس که زکوي آشنايي است داند که متاع ما کجايي است
 
 The One from the friendship land,
 
@@ -903,11 +775,7 @@ them for their education and edification.
 
 Amīr al-Mu’minīn (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-«لقد علّمني رسول الله (ص) ألف باب يفتح کل باب ألف باب.»
-  </p>
-</blockquote>
+> «لقد علّمني رسول الله (ص) ألف باب يفتح کل باب ألف باب.»
 
 “Verily, the Prophet of Allah (S) taught me one thousand doors
 (subjects), every door of which opens one thousand other doors.”[^27]
@@ -915,11 +783,7 @@ Amīr al-Mu’minīn (‘a) has declared:
 Zurārah and Abī Basīr cited regarding Imām al-Bāqir (‘a) and Imām
 al-Sādiq (‘a) that:
 
-<blockquote dir="rtl">
-  <p>
-«قالا علينا أن نلقي إليکم الأصول وعليکم أن تفرّعوا.»
-  </p>
-</blockquote>
+> «قالا علينا أن نلقي إليکم الأصول وعليکم أن تفرّعوا.»
 
 “They told us, ‘We taught you the principles and it is for you to
 elaborate on them’.”[^28]
@@ -996,5 +860,4 @@ Prophet Muhammad (S). [Trans.]
 [^27]: Bihār al-Anwār, vol. 7, p. 281.
 
 [^28]: Majma‘ al-Bahrayn, māddah f r ‘ [ف ر ع].
-
 

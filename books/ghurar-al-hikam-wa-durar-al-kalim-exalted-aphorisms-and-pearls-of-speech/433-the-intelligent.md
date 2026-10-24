@@ -25,11 +25,7 @@ order to present his case.
 himself free from faults.
 
 > 5ـ اَلعاقِلُ مَنْ تَوَرَّعَ عَنِ الذُّنُوبِ، وتَنَزَّهَ مِنَ
-<blockquote dir="rtl">
-  <p>
-العُيُوبِ.
-  </p>
-</blockquote>
+> العُيُوبِ.
 
 6. The intelligent person is one who fetters his tongue except from the
 remembrance [and extolment] of Allah.
@@ -50,32 +46,20 @@ his effort in its correct place.
 remembers [and extols Allah] and when he observes, he takes lesson.
 
 > 9ـ اَلعاقِلُ إذا سَكَتَ فَكَرَ، وإذا نَطَقَ ذَكَرَ، وإذا نَظَرَ
-<blockquote dir="rtl">
-  <p>
-اِعْتَبـَرَ.
-  </p>
-</blockquote>
+> اِعْتَبـَرَ.
 
 10. The intelligent person is one who suspects his [own] opinion and
 does not trust everything that his self makes decorous for him.
 
 > 10ـ اَلعاقِلُ مَنِ اتَّهَمَ رَأيَهُ، ولَمْ يَثِقْ بِكُلِّ ما تُسَوِّلُ
-<blockquote dir="rtl">
-  <p>
-لَهُ نَفْسُهُ.
-  </p>
-</blockquote>
+> لَهُ نَفْسُهُ.
 
 11. The intelligent person is one who abstains from [the pleasures of]
 the lowly, perishing world and desires the sublime, everlasting, lofty
 Paradise.
 
 > 11ـ اَلعاقِلُ مَنْ زَهِدَ في دُنْيا فانِيَة دَنِيَّة، ورَغِبَ في
-<blockquote dir="rtl">
-  <p>
-جَنَّة سَنِيَّة خالِدَة عالِيَة.
-  </p>
-</blockquote>
+> جَنَّة سَنِيَّة خالِدَة عالِيَة.
 
 12. The intelligent person is one who puts things in their right places,
 and the ignorant one does the opposite of this.
@@ -87,11 +71,7 @@ so sincerely, and when he becomes sincere, he secludes himself [from
 others].
 
 > 13ـ اَلعاقِلُ إذا عَلِمَ عَمِلَ، وإذا عَمِلَ أخْلَصَ، وإذا أخْلَصَ
-<blockquote dir="rtl">
-  <p>
-اِعْتَزَلَ.
-  </p>
-</blockquote>
+> اِعْتَزَلَ.
 
 14. The intelligent person is one who guards his tongue from backbiting.
 
@@ -115,33 +95,21 @@ is he hampered by weakness.
 angry, when he desires and when he is frightened.
 
 > 18ـ اَلعاقِلُ مَنْ يَمْلِكُ نَفْسَهُ إذا غَضِبَ، وإذا رَغِبَ وإذا
-<blockquote dir="rtl">
-  <p>
-رَهِبَ.
-  </p>
-</blockquote>
+> رَهِبَ.
 
 19. The intelligent person charges himself with performing that which is
 obligatory upon him and he does not charge himself with seeking that
 which is due to him.
 
 > 19ـ اَلعاقِلُ يَتَقاضى نفْسَه ُبِما يَجِبُ عَلَيْهِ، ولا يَتَقاضى
-<blockquote dir="rtl">
-  <p>
-لِنَفْسِهِ بِما يَجِبُ لَهُ.
-  </p>
-</blockquote>
+> لِنَفْسِهِ بِما يَجِبُ لَهُ.
 
 20. The intelligent person is one who does not waste his [time and]
 energy in that which does not benefit him, and does not [strive to]
 acquire that which will not accompany him [after his death].
 
 > 20ـ اَلعاقِلُ مَنْ لايُضيعُ لَهُ نَفَساً فيما لايَنْفَعُهُ،
-<blockquote dir="rtl">
-  <p>
-ولايَقْتَني ما لايَصْحَبُهُ.
-  </p>
-</blockquote>
+> ولايَقْتَني ما لايَصْحَبُهُ.
 
 21. The intelligent person is one who overpowers his contending vain
 desires.
@@ -167,11 +135,7 @@ intellect.
 consequences [of matters].
 
 > 25ـ ألا وإنَّ اللَّبيبَ مَنِ اسْتَقْبَلَ وُجُوهَ الآراءِ بِفِكْر
-<blockquote dir="rtl">
-  <p>
-صائِب، ونَظَر فِي العَواقِبِ.
-  </p>
-</blockquote>
+> صائِب، ونَظَر فِي العَواقِبِ.
 
 26. The most intelligent of you is the most submissive of you.
 
@@ -221,53 +185,33 @@ Allah, the Glorified.
 blind to the fault of others.
 
 > 36ـ أعْقَلُ النّاسِ مَنْ كانَ بِعَيْبِهِ بَصيراً وعَنْ عَيْبِ
-<blockquote dir="rtl">
-  <p>
-غَيْـرِهِ ضَريراً.
-  </p>
-</blockquote>
+> غَيْـرِهِ ضَريراً.
 
 37. The most intelligent of people is the one who does not go beyond
 silence in punishing the ignorant.
 
 > 37ـ أعْقَلُ النَّاسِ مَنْ لايَتَجاوَزُ الصَّمْتَ في عُقُوبَةِ
-<blockquote dir="rtl">
-  <p>
-الجُهّالِ.
-  </p>
-</blockquote>
+> الجُهّالِ.
 
 38. The most intelligent of people is the best of them in estimating his
 livelihood and the most serious of them in endeavouring to improve his
 Hereafter.
 
 > 38ـ أفْضَلُ النّاسِ عَقْلاً، أحْسَنُهُمْ تَقْديراً لِمَعاشِهِ،
-<blockquote dir="rtl">
-  <p>
-وأشَدُّهُمُ اهْتِماماً بِإصْلاحِ مَعادِهِ.
-  </p>
-</blockquote>
+> وأشَدُّهُمُ اهْتِماماً بِإصْلاحِ مَعادِهِ.
 
 39. The most intelligent of people is one whose seriousness overpowers
 his frivolity and who overcomes his vain desire with his intellect.
 
 > 39ـ أعْقَلُ النّاسِ مَنْ غَلَبَ جِدُّهُ هَزْلَهُ، واسْتَظْهَرَ عَلى
-<blockquote dir="rtl">
-  <p>
-هَواهُ بِعَقْلِهِ.
-  </p>
-</blockquote>
+> هَواهُ بِعَقْلِهِ.
 
 40. The most intelligent of people is one who is humbled in front of the
 truth so he submits himself to it, and is honoured by the truth so he
 does not undermine its establishment and acting upon it with goodness.
 
 > 40ـ أعْقَلُ النّاسِ مَنْ ذَلَّ لِلْحَقِّ فَاعْطاهُ مِنْ نَفْسِهِ،
-<blockquote dir="rtl">
-  <p>
-وعَزَّ بِالحَقِّ فَلَمْ يُهِنْ إقامَتَهُ، وحُسْنَ العَمِلِ بِهِ.
-  </p>
-</blockquote>
+> وعَزَّ بِالحَقِّ فَلَمْ يُهِنْ إقامَتَهُ، وحُسْنَ العَمِلِ بِهِ.
 
 41. The most intelligent of people is the one who is most considering of
 the consequences [of actions].
@@ -283,66 +227,42 @@ in right guidance and whose view is in [the process of development and]
 growth, that is why his view is correct and his action praiseworthy.
 
 > 43ـ إنَّ العاقِلَ مَنْ عَقْلُهُ فِي إرْشاد، ومَنْ رَأْيُهُ فِي
-<blockquote dir="rtl">
-  <p>
-ازْدِياد، فَلِذلِكَ رَأْيُهُ سَديدٌ، وفِعْلُهُ حَميدٌ.
-  </p>
-</blockquote>
+> ازْدِياد، فَلِذلِكَ رَأْيُهُ سَديدٌ، وفِعْلُهُ حَميدٌ.
 
 44. Indeed, the intelligent one learns through discipline while the
 beasts are not trained except by beating.
 
 > 44ـ إنَّ العاقِلَ يَتَّعِظُ بِالأدَبِ والبَهائِمُ لاتَتَّعِظُ إلاّ
-<blockquote dir="rtl">
-  <p>
-بِالضَّرْبِ.
-  </p>
-</blockquote>
+> بِالضَّرْبِ.
 
 45. Verily the intelligent person is one who looks in his today for his
 tomorrow, and strives to unshackle his soul, and works for that which
 must come to pass and which cannot be escaped.
 
 > 45ـ إنَّ العاقِلَ مَنْ نَظَرَ في يَوْمِهِ لِغَدِهِ، وسَعى في فِكاكِ
-<blockquote dir="rtl">
-  <p>
-نَفْسِهِ، وعَمِلَ لِما لابُدَّ لَهُ مِنْهُ، وَلامَحيصَ لَهُ عَنْهُ.
-  </p>
-</blockquote>
+> نَفْسِهِ، وعَمِلَ لِما لابُدَّ لَهُ مِنْهُ، وَلامَحيصَ لَهُ عَنْهُ.
 
 46. Verily it behoves the intelligent one to be cautious of death in
 this world, and he should make good preparations before he arrives at
 the abode wherein one wishes for death but does not find it.
 
 > 46ـ إنَّ العاقِلَ يَنْبَغي أنْ يَحْذَرَ المَوْتَ في هذِهِ الدّارِ،
-<blockquote dir="rtl">
-  <p>
-ويُحْسِنَ لَهُ التَأَهُّبَ قَبْلَ أنْ يَصِلَ إلى دار يَتَمَنّى فيهَا
-المَوْتَ فَلا يَجِدُهُ.
-  </p>
-</blockquote>
+> ويُحْسِنَ لَهُ التَأَهُّبَ قَبْلَ أنْ يَصِلَ إلى دار يَتَمَنّى فيهَا
+> المَوْتَ فَلا يَجِدُهُ.
 
 47. The practice of those who possess intellect and understanding is
 turning towards the permanent abode, turning away from the evanescent
 abode and being desirous of the Garden of Paradise.
 
 > 47ـ شيمَةُ ذوي الألْبابِ والنُّهى اَلإقبالُ عَلى دارِ البَقاءِ،
-<blockquote dir="rtl">
-  <p>
-والأعْراضُ عَنْ دارِ الفَناءِ، والتَّوَلُّهُ بِجَنَّةِ المأْوى.
-  </p>
-</blockquote>
+> والأعْراضُ عَنْ دارِ الفَناءِ، والتَّوَلُّهُ بِجَنَّةِ المأْوى.
 
 48. It behoves the intelligent one to make arrangements for his
 Hereafter and to develop [and build] the abode of his permanent
 residence.
 
 > 48ـ يَنْبَغي لِلعاقِلِ أنْ يُقَدِّمَ لآخِرَتِهِ، ويَعْمُرَ دارَ
-<blockquote dir="rtl">
-  <p>
-إقامَتِهِ.
-  </p>
-</blockquote>
+> إقامَتِهِ.
 
 49. The intelligent one likes the company of those who are like him.
 
@@ -397,11 +317,7 @@ elevated.
 one relies on his aspiration.
 
 > 61ـ اَلعاقِلُ يَعْتَمِدُ عَلى عَمَلِهِ، اَلجاهِلُ يَعْتَمِدُ عَلى
-<blockquote dir="rtl">
-  <p>
-أمَلِهِ.
-  </p>
-</blockquote>
+> أمَلِهِ.
 
 62. The intelligent person is one who takes a lesson from [the
 experiences of] others.
@@ -438,11 +354,7 @@ one desires.
 intelligent person is one of the most agonizing punishments for him.
 
 > 69ـ تَلْويحُ زَلَّةِ العاقِلِ لَهُ مِنْ أمَضِّ عِتابِهِ (أمَضَّ مِنْ
-<blockquote dir="rtl">
-  <p>
-عِتابهِ).
-  </p>
-</blockquote>
+> عِتابهِ).
 
 70. The wealth of an intelligent person is in his knowledge and his
 action.
@@ -453,21 +365,13 @@ action.
 are from the merits of the people of reason and understanding.
 
 > 71ـ حُبُّ العِلْمِ، وحُسْنُ الحِلْمِ، ولُزومُ الصَّوابِ مِنْ فَضائِلِ
-<blockquote dir="rtl">
-  <p>
-أُولِي النُّهى والألْبابِ.
-  </p>
-</blockquote>
+> أُولِي النُّهى والألْبابِ.
 
 72. It is a right that is due on the intelligent one to work for the
 Hereafter and to seek more provisions [for it].
 
 > 72ـ حَقٌّ عَلَى العاقِلِ العَمَلُ لِلْمَعادِ، والاِسْتِكْثارُ مِنَ
-<blockquote dir="rtl">
-  <p>
-الزّادِ.
-  </p>
-</blockquote>
+> الزّادِ.
 
 73. It is a right upon the intelligent one to vanquish his vain desire
 before his adversary.
@@ -488,11 +392,7 @@ tolerance, temperance and kindness.
 an ignorant person is in foolishness.
 
 > 76ـ رَغْبَةُ العاقِلِ فِي الحِكْمَةِ، وهِمَّةُ الجاهِلِ فِي
-<blockquote dir="rtl">
-  <p>
-الحَماقَةِ.
-  </p>
-</blockquote>
+> الحَماقَةِ.
 
 77. The lapse of an intelligent person is dangerous.
 
@@ -516,11 +416,7 @@ lack of lust and negligence.
 evanescent abode, and yearning for the Garden of Paradise.
 
 > 81ـ شيمَةُ ذَوِى الألْبابِ والنُّهى اَلإقْبالُ على دارِ البَقاءِ،
-<blockquote dir="rtl">
-  <p>
-والإعْراضُ عَنْ دارِ الفَناءِ، وَالتَّوَلُّهُ بِجَنَّةِ المَأْوى.
-  </p>
-</blockquote>
+> والإعْراضُ عَنْ دارِ الفَناءِ، وَالتَّوَلُّهُ بِجَنَّةِ المَأْوى.
 
 82. The chest of an intelligent person is the strongbox of his secret.
 
@@ -583,22 +479,14 @@ for three things: to do something to improve his Hereafter, or to earn
 his livelihood, or to enjoy what is not forbidden.
 
 > 94ـ لَيْسَ لِلْعاقِلِ أنْ يَكُونَ شاخِصاً إلاّ في ثَلاث:
-<blockquote dir="rtl">
-  <p>
-حُظْوَة(خُطوَة) في مَعاد، أوْ مَرَمَّة في مَعاش، أو لَذَّة في غَيْرِ
-مُحَرَّم.
-  </p>
-</blockquote>
+> حُظْوَة(خُطوَة) في مَعاد، أوْ مَرَمَّة في مَعاش، أو لَذَّة في غَيْرِ
+> مُحَرَّم.
 
 95. He who is distracted by idle sport and seeks pleasure in amusement
 and song, has no intelligence.
 
 > 95ـ لَمْ يَعْقِلْ مَنْ وَلِهَ بِاللَّعْبِ واسْتُهْتِرَ بِاللَّهْوِ
-<blockquote dir="rtl">
-  <p>
-والطَّرَبِ.
-  </p>
-</blockquote>
+> والطَّرَبِ.
 
 96. One who has intelligence, comprehends.
 
@@ -649,32 +537,20 @@ precaution for his soul.
 good conduct.
 
 > 106ـ مَنْ غَلَبَ عَقْلُهُ شَهْوَتَهُ، وحِلْمُهُ غَضَبَهُ كانَ جَديراً
-<blockquote dir="rtl">
-  <p>
-بِحُسْنِ السّيرَةِ.
-  </p>
-</blockquote>
+> بِحُسْنِ السّيرَةِ.
 
 107. One who has intelligence awakens from his negligence, prepares for
 his journey and maintains [and develops] his abode of [permanent]
 residence.
 
 > 107ـ مَنْ عَقَلَ تَيَقَّظَ مِنْ غَفْلَتِهِ، وتَأَهَّبَ لِرِحْلَتِهِ،
-<blockquote dir="rtl">
-  <p>
-وعَمَرَ دارَ إقامَتِه.
-  </p>
-</blockquote>
+> وعَمَرَ دارَ إقامَتِه.
 
 108. One whose intellect does not have the greatest control over him
 does not benefit from [any] advice.
 
 > 108ـ مَنْ لَمْ يَكُنْ أمْلَكَ شَـيْء بِهِ عَقْلُهُ لَمْ يَنْتَفِعْ
-<blockquote dir="rtl">
-  <p>
-بِمَوْعِظَة.
-  </p>
-</blockquote>
+> بِمَوْعِظَة.
 
 109. One who does not have an intellect to adorn him, does not become
 noble.
@@ -690,11 +566,7 @@ against.
 that he knows.
 
 > 111ـ مِنْ عَقْلِ الرَّجُلِ أنْ لايَتَكَلَّمَ بِجَميعِ ما أحاطَ بِهِ
-<blockquote dir="rtl">
-  <p>
-عِلْمُهُ.
-  </p>
-</blockquote>
+> عِلْمُهُ.
 
 112. It is from the rights of the intelligent person to vanquish his
 vain desire before his adversary.
@@ -706,11 +578,7 @@ action and his ugly conduct as being from the wretchedness of his
 circumstance and his misfortune.
 
 > 113ـ مِنْ حَقِّ اللَّبيبِ أنْ يَعُدَّ سُوءَ عَمَلِهِ، وقُبْحَ سيرَتِهِ
-<blockquote dir="rtl">
-  <p>
-مِنْ شَقاوَةِ جَدِّهِ وَنَحْسِهِ.
-  </p>
-</blockquote>
+> مِنْ شَقاوَةِ جَدِّهِ وَنَحْسِهِ.
 
 114. From the perfection of your intellect is your reliance on your
 intellect.
@@ -753,75 +621,47 @@ ignorant].
 intelligent person.
 
 > 122ـ لايَنْبَغي أنْ يُعَدَّ عاقِلاً مَنْ يَغْلِبُهُ الغَضَبُ
-<blockquote dir="rtl">
-  <p>
-والشَّهْوَةُ.
-  </p>
-</blockquote>
+> والشَّهْوَةُ.
 
 123. It behoves the intelligent person not to remain aloof from the
 obedience of Allah and the struggle against his [lower] self, in every
 situation.
 
 > 123ـ يَنْبَغي لِلْعاقِلِ أنْ لايَخْلُوَ في كُلِّ حالَة عَنْ طاعَةِ
-<blockquote dir="rtl">
-  <p>
-رَبِّهِ، ومُجاهَدَةِ نَفْسِهِ.
-  </p>
-</blockquote>
+> رَبِّهِ، ومُجاهَدَةِ نَفْسِهِ.
 
 124. It behoves the intelligent person to work for the Hereafter and try
 to increase his provisions before he passes away and is lowered into his
 grave.
 
 > 124ـ يَنْبَغي لِلْعاقِلِ أنْ يَعْمَلَ لِلْمَعادِ، ويَسْتَكْثِرَ مِنَ
-<blockquote dir="rtl">
-  <p>
-الزَّادِ قَبْلَ زَهُوقِ نَفْسِهِ، وحُلُولِ رَمْسِهِ.
-  </p>
-</blockquote>
+> الزَّادِ قَبْلَ زَهُوقِ نَفْسِهِ، وحُلُولِ رَمْسِهِ.
 
 125. It behoves the intelligent one to prepare provisions for his
 Hereafter and to maintain [and develop] the abode of his [permanent]
 residence.
 
 > 125ـ يَنْبَغي لِلْعاقِلِ أنْ يُقَدِّمَ لآخِرَتِهِ، ويَعْمُرَ دارَ
-<blockquote dir="rtl">
-  <p>
-إقامَتِهِ.
-  </p>
-</blockquote>
+> إقامَتِهِ.
 
 126. It behoves the intelligent person to earn praise through his wealth
 and to preserve himself from asking others.
 
 > 126ـ يَنْبَغي لِلْعاقِلِ أنْ يَكْتَسِبَ بِمالِهِ المَحْمَدَةَ،
-<blockquote dir="rtl">
-  <p>
-ويَصُونَ نَفْسَهُ عَنِ المَسْألَةِ.
-  </p>
-</blockquote>
+> ويَصُونَ نَفْسَهُ عَنِ المَسْألَةِ.
 
 127. It behoves an intelligent person to address an ignorant one like a
 doctor addresses a sick patient.
 
 > 127ـ يَنْبَغي لِلْعاقِلِ أنْ يُخاطِبَ الجاهِلَ مُخاطَبَةَ الطَّبيبِ
-<blockquote dir="rtl">
-  <p>
-اَلمَريضَ.
-  </p>
-</blockquote>
+> اَلمَريضَ.
 
 128. It behoves the intelligent person to increase his association with
 the scholars and the virtuous ones, and to keep away from the company of
 the evil and wicked ones.
 
 > 128ـ يَنْبَغي لِلْعاقِلِ أنْ يُكْثِرَ مِنْ صُحْبَةِ العُلَماءِ
-<blockquote dir="rtl">
-  <p>
-والأبْرارِ، ويَجْتَنِبَ مُقارَنَةَ الأشْرارِ والفُجّارِ.
-  </p>
-</blockquote>
+> والأبْرارِ، ويَجْتَنِبَ مُقارَنَةَ الأشْرارِ والفُجّارِ.
 
 129. It behoves the intelligent one to protect himself from the
 intoxication of wealth, the intoxication of power, the intoxication of
@@ -830,23 +670,15 @@ each of these have foul odours that take away intelligence and reduces
 dignity.
 
 > 129ـ يَنْبَغي لِلْعاقِلِ أنْ يَحْتَرِسَ مِنْ سُكْرِ المالِ، وسُكْرِ
-<blockquote dir="rtl">
-  <p>
-القُدْرَةِ، وسُكْرِ العِلْمِ، وَسُكْرِ المَدْحِ، وسُكْرِ الشَّبابِ
-فَإنَّ لِكُلِّ ذلِكَ رِياحاً خَبيثَةً، تَسْلُبُ العَقْلَ، وتَسْتَخِفُّ
-الوَقارَ.
-  </p>
-</blockquote>
+> القُدْرَةِ، وسُكْرِ العِلْمِ، وَسُكْرِ المَدْحِ، وسُكْرِ الشَّبابِ
+> فَإنَّ لِكُلِّ ذلِكَ رِياحاً خَبيثَةً، تَسْلُبُ العَقْلَ، وتَسْتَخِفُّ
+> الوَقارَ.
 
 130. It behoves the intelligent person not to be harsh when he teaches,
 and not to scorn [others] when he gains knowledge.
 
 > 130ـ يَنْبَغي لِلْعاقِلِ إذا عَلَّمَ أنْ لايَعْنُفَ،وَإذا عُلِّمَ أنْ
-<blockquote dir="rtl">
-  <p>
-لايَأْنَفَ.
-  </p>
-</blockquote>
+> لايَأْنَفَ.
 
 131. The intellect of every person is manifested by that which is spoken
 by his tongue.
@@ -857,21 +689,13 @@ by his tongue.
 merit is evinced by his diction.
 
 > 132ـ يُنْبِئُ عَنْ عَقْلِ كُلِّ امْرئ لِسانُهُ، ويَدُلُّ عَلى فَضْلِهِ
-<blockquote dir="rtl">
-  <p>
-بَيانُهُ.
-  </p>
-</blockquote>
+> بَيانُهُ.
 
 133. I am amused by a man whose intellect is seen as an extension of his
 tongue, while his tongue is not seen as an extension of his intellect.
 
 > 133ـ يُعْجِبُني مِنَ الرَّجُلِ أنْ يُرى عَقْلُهُ زائِداً عَلى
-<blockquote dir="rtl">
-  <p>
-لِسانِهِ، ولايُرى لِسانُهُ زائِداً عَلى عَقْلهِ.
-  </p>
-</blockquote>
+> لِسانِهِ، ولايُرى لِسانُهُ زائِداً عَلى عَقْلهِ.
 
 134. Follow the intelligent one and you will benefit.
 
@@ -880,5 +704,4 @@ tongue, while his tongue is not seen as an extension of his intellect.
 135. At times the intelligent person becomes blind to what is right.
 
 > 135ـ رُبَّما عَمِيَ اللَّبيبُ عَنِ الصَّوابِ.
-
 

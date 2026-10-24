@@ -112,11 +112,7 @@ support religious behavior may hide a perversion of religion. The
 recognition of this phenomenon is also suggested in the following surah
 of the Qur'an (n. 107):
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the name of Allah, Most Gracious, Most Merciful.***
 
@@ -181,5 +177,4 @@ MacIntyre (1990); also see Westphal (1998), and Leiter (2004).
 [^7]: Westphal (1998).
 
 [^8]: Westphal (1998), 288.
-
 

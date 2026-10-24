@@ -43,14 +43,11 @@ translation. I have never gone ahead nor lagged behind; I have kept pace
 with this great scholar. And I am glad that my breath did not fail me
 too.
 
-
 Dr. Hasan Najafi
-
 
 In the Name of God, the Merciful, the Compassionate To him be the
 Praise for bestowing the bounties. Salutation to His Prophet and his
 progeny and his noble companions.
-
 
 **Influence of Belief upon Historian:**
 
@@ -92,7 +89,6 @@ inclinations, they do not believe.
 So, what a liar and how vile is he to them whose narration does not
 concur with their belief and likewise how trustworthy and true he who
 tells nothing but what cements their way.
-
 
 **Confusion of History**
 
@@ -213,5 +209,4 @@ All my endeavor is to present to my readers a succinct picture of
 thoughts that I am guided to, which I hope to be pure from the influence
 of affections and propensities. It is the Truth; all Truth; or close to
 Truth. Indeed, success is from God and from Him the direction.
-
 

@@ -11,11 +11,7 @@ Joking
 even if you narrate it from someone else.
 
 > 2ـ إيّاكَ أنْ تَذْكُرَ مِنَ الكَلامِ (ماكانَ) مُضْحِكاً، وإنْ
-<blockquote dir="rtl">
-  <p>
-حَكَيْتَهُ عَنْ غَيْرِكَ.
-  </p>
-</blockquote>
+> حَكَيْتَهُ عَنْ غَيْرِكَ.
 
 3. Excessiveness in joking is foolishness.
 
@@ -67,11 +63,7 @@ rancour].
 grudge against him and one who takes him lightly.
 
 > 14ـ مَنْ كَثُرَ مُزاحُهُ لَمْ يَخْلُ مِنْ حاقِد عَلَيْهِ ومُسْتَخِفّ
-<blockquote dir="rtl">
-  <p>
-بِهِ.
-  </p>
-</blockquote>
+> بِهِ.
 
 15. Any time a person makes a joke, he parts with a portion of his
 intellect.
@@ -87,5 +79,4 @@ grudge against you.
 an enemy thereby making him [want to] destroy you.
 
 > 17ـ لاتُمازِحَنَّ صَديقاً فَيُعادِيَكَ، ولاعَدُوّاً فَيُرْدِيَكَ.
-
 

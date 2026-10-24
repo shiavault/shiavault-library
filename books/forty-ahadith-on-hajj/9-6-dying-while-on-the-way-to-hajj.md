@@ -4,13 +4,9 @@
    
   
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ (ع) قَالَ: مَنْ مَاتَ فِي طَرِيقِ مَكَّةَ
-ذَاهِباً أَوْ جَائِياً أَمِنَ مِنَ الْفَزَغِ الأَكْبَرِ يَوْمَ
-الْقِيَامَةِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ (ع) قَالَ: مَنْ مَاتَ فِي طَرِيقِ مَكَّةَ
+> ذَاهِباً أَوْ جَائِياً أَمِنَ مِنَ الْفَزَغِ الأَكْبَرِ يَوْمَ
+> الْقِيَامَةِ.
 
    
  It has been narrated form Abi ‘Abdillah [Imam Ja’far Ibn Muhammad
@@ -20,5 +16,4 @@ protected from the great distress of the Day of Resurrection.”
     
  Maladhul Akhyar, Volume 7, Page 223  
   
-
 

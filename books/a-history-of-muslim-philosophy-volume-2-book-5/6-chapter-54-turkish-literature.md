@@ -972,4 +972,3 @@ Koprulu, Turk saz sairleri, Antoloji, 3, 19 – 20, asirlar, Istanbul,
 1951, p. 34; A. H. Tanpmar, “Akif Pasa,” Islam Ansiklopedisi, 1; Z. F.
 Fundikoglu, Bayburtlu Zihni, Istanbul, 1950, 125 pp.
 
-

@@ -54,9 +54,7 @@ defeat of the enemies, Amir al-Mu’minin had the public fund divided with
 each person having five hundred Dirhams as a share. \`Ali took the same
 amount of dirham for himself. Addressing the public fund, he said,
 
-<p dir="rtl">
 غُرِّي غَيْرِي
-</p>
 
 “Deceive anyone but me.”
 
@@ -110,5 +108,4 @@ Dirhams realizing that the sleeves were too long so he said to the
 draper, “Cut the sleeve short a little bit.” He did so and said, “Let me
 fold it, old man!” The Imam said, “Let it be as it is. There is no time
 for such a thing.”[^31]
-
 

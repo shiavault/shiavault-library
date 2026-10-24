@@ -30,4 +30,3 @@ him, ‘How wise of you to reveal your sins to graves!’”[^1]
 [^1]: Sadūq, Al-Amālī, majlis 53, hadīth 11; Bihār al-Anwār, vol. 6, p.
 131, hadīth 24.
 
-

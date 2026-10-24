@@ -41,4 +41,3 @@ World Organization for Islamic Services,
  1/ 7/1984  
  Tehran - IRAN.
 
-

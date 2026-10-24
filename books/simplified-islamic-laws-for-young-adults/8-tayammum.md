@@ -89,4 +89,3 @@ Ghusl, then with that Tayammum, he cannot perform the Salat and he must
 perform Wudhu. If he is not able to perform Wudhu, then he must perform
 another Tayammum in the place of the Wudhu.
 
-

@@ -239,4 +239,3 @@ Allah, will avenge the blood of all the friends of Allah, and will
 re-establish the rights of Allah, the Prophet (PBUH&HF), and his
 family.
 
-

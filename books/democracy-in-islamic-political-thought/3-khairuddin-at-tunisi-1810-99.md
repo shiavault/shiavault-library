@@ -41,4 +41,3 @@ affairs, would put it on a faster track toward civilization, would limit
 the rule of despotism, and would stop the influx of European
 civilization that is sweeping everything along its path.'[^10]
 
-

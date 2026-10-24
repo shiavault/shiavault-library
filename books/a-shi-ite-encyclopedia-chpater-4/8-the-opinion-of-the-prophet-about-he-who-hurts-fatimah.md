@@ -46,7 +46,6 @@ inflicted such horrible pains to his family while a week had not been
 passed since the death of the Prophet (PBUH&HF). Is this the love, Allah
 ordered for the family of prophet?!
 
-
 **Where his her grave?**
 
 The Muslims have been deeply pained.
@@ -113,7 +112,6 @@ Has gone from this world forever,
 the mother of children so brave!
 But why was she buried in a manner
 that no one knows, where is her grave?
-
 
 Ali Rizwan Shah,
 
@@ -241,16 +239,13 @@ one side to Egypt in Africa." The face of Harun turned red and said:
 you that you will not return it if I specify its limits!" (al-Bihar,
 v48, p144, Hadith \#20).
 
-
 Wassalam.
-
 
 **APPENDIX**
 
 Here is the whole tradition which was referred above:
 
 Sahih Bukhari Hadith: 5.546
-
 
 Narrated 'Aisha:
 
@@ -273,7 +268,6 @@ talk to him till she died. She remained alive for six months after the
 death of the Prophet. When she died, her husband 'Ali, buried her at
 night without informing Abu Bakr and he said the funeral prayer by
 himself.
-
 
 When Fatimah was alive, the people used to respect 'Ali much, but after
 her death, 'Ali noticed a change in the people's attitude towards him.
@@ -319,5 +313,4 @@ this matter, and therefore caused us to feel sorry." On that all the
 Muslims became happy and said, "You have done the right thing." The
 Muslims then became friendly with 'Ali as he returned to what the people
 had done (i.e. giving the oath of allegiance to Abu Bakr).
-
 

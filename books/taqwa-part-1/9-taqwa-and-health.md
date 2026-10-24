@@ -18,4 +18,3 @@ ulcers and from pain in his intestines. He will not become weak and
 infirm because of being liberal in sexual relations. The well-being of
 his body, social life, and spirit all depend on taqwa.
 
-

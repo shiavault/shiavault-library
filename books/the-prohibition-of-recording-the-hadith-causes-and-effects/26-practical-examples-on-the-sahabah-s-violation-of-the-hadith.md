@@ -2939,4 +2939,3 @@ Four Schools of Muslim jurisprudence)’.
 
 [^132]: Shaykh Muhammad Abu-Zahrah: al-Hadith wa’l-Muhaddithun 234.
 
-

@@ -309,4 +309,3 @@ history have abandoned all fairness and justice.
 
 [^1]: Ilm-i Tahavval-i Jami'a.
 
-

@@ -35,7 +35,6 @@ over a major speed-bump on the road of interfaith dialogue, a speed-bump
 in which the Prophet of Islam was maligned as a person who brought
 nothing but “evil and inhuman” teachings.[^2]
 
-
 [^1]: See the compilation of Imam ‘Ali’s sermons, letters and sayings
 compiled by Sayyid Razi in Nahju ’l-Balãgha, letter no. 53.  Nahjul
 Balagha is available online at www.al-islam.org
@@ -46,5 +45,4 @@ Reason and the University.” In it he quoted the Byzantine emperor Manuel
 II Paleologus as follows: “Show me just what Mohammed brought that was
 new, and there you will find things only evil and inhuman, such as his
 command to spread by the sword the faith he preached.”
-
 

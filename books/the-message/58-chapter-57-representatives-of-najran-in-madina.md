@@ -375,4 +375,3 @@ invited the "representatives of Najran to Mubahilah".
 this connection refer Usulul Kafi, Book on Invocations, Chapter of
 Mubahilah, page 538.  
 
-

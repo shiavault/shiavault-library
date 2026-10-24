@@ -118,4 +118,3 @@ source.” ( 15 )
 This prophetic tradition warns against marrying the beautiful women
 whose families are disreputable.
 
-

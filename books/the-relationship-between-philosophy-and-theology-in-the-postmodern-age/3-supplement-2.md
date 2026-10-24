@@ -192,4 +192,3 @@ language may be compared to a game or a form of life significantly
 different from scientific language to prevent the possibility of any
 conflict between religion and science.[^21]
 
-

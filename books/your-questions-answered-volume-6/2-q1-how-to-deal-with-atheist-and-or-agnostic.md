@@ -221,4 +221,3 @@ Do Shi'as believe that Tablet (lawh) and Pen (Qalam) are two angels?
 A: This is what Shaykh Saduq (R.A) has written in his book, al-I
 'tiqadat.
 
-

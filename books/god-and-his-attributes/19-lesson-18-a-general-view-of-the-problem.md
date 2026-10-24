@@ -466,4 +466,3 @@ chooses, decides and invests his own efforts.
 
 [^1]: Muntaha al-Amal, p. 299.
 
-

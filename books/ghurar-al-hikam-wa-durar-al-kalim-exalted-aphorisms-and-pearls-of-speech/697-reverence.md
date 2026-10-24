@@ -7,14 +7,9 @@ Reverence
 love those whom He loves.
 
 > 1ـ وَقِّرُوا اللّهَ سُبْحانَهُ، واجْتَنِبُوا مَحارِمَهُ، وأحِبُّوا
-<blockquote dir="rtl">
-  <p>
-أحِبّائَهُ.
-  </p>
-</blockquote>
+> أحِبّائَهُ.
 
 2. Revere your elders and your youngsters will revere you.
 
 > 2ـ وَقِّرُوا كِبارَكُمْ، يُوَقِّرْكُمْ صِغارُكُمْ.
-
 

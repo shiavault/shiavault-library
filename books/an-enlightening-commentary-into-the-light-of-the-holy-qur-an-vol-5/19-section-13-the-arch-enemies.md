@@ -7,13 +7,9 @@ disgraceful end
 Surah Al-‘An’am, Verse 122
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ مَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
-بِهِ فِي النَّاسِ كَمَن مَّثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
-مِّنْهَا كَذَلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> أَوَ مَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
+> بِهِ فِي النَّاسِ كَمَن مَّثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
+> مِّنْهَا كَذَلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُواْ يَعْمَلُونَ
 
 ***122. "Is he who was dead (with ignorance and polytheism) and we gave
 him life (by Our guidance) and provided him with a light by which he
@@ -59,13 +55,9 @@ This phrase is a hint to this very fact.
 Surah Al-‘An’am, Verse 123
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ مُجَرِمِيهَا
-لِيَمْكُرُواْ فِيهَا وَمَا يَمْكُرُونَ إِلاَّ بِأَنفُسِهِمْ وَمَا
-يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ مُجَرِمِيهَا
+> لِيَمْكُرُواْ فِيهَا وَمَا يَمْكُرُونَ إِلاَّ بِأَنفُسِهِمْ وَمَا
+> يَشْعُرُونَ
 
 **123.** ***"And thus We have appointed in every town its leading
 criminals that they may plot therein. Yet they do not plot except
@@ -100,14 +92,10 @@ the feature of truth from people.
 Surah Al-‘An’am, Verse 124
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَاءتْهُمْ آيَةٌ قَالُواْ لَن نُّؤْمِنَ حَتَّى نُؤْتَى مِثْلَ
-مَا أُوتِيَ رُسُلُ اللّهِ اللّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
-سَيُصِيبُ الَّذِينَ أَجْرَمُواْ صَغَارٌ عِندَ اللّهِ وَعَذَابٌ شَدِيدٌ
-بِمَا كَانُواْ يَمْكُرُونَ
-  </p>
-</blockquote>
+> وَإِذَا جَاءتْهُمْ آيَةٌ قَالُواْ لَن نُّؤْمِنَ حَتَّى نُؤْتَى مِثْلَ
+> مَا أُوتِيَ رُسُلُ اللّهِ اللّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
+> سَيُصِيبُ الَّذِينَ أَجْرَمُواْ صَغَارٌ عِندَ اللّهِ وَعَذَابٌ شَدِيدٌ
+> بِمَا كَانُواْ يَمْكُرُونَ
 
 ***124. "And when a Sign (from Allah) comes to them, they say: 'Never
 will we believe until we are given the like of what was given to Allah’s
@@ -186,14 +174,10 @@ they feel the most painful spiritual tortures then.
 Surah Al-‘An’am, Verse 125
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَن يُرِدِ اللّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلإِسْلاَمِ
-وَمَن يُرِدْ أَن يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا
-كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاء كَذَلِكَ يَجْعَلُ اللّهُ الرِّجْسَ
-عَلَى الَّذِينَ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> فَمَن يُرِدِ اللّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلإِسْلاَمِ
+> وَمَن يُرِدْ أَن يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا
+> كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاء كَذَلِكَ يَجْعَلُ اللّهُ الرِّجْسَ
+> عَلَى الَّذِينَ لاَ يُؤْمِنُونَ
 
 **125.** ***"Therefore, whomever Allah intends that He should guide him
 aright, He opens his breast to Islam; and whomever He intends that He
@@ -241,12 +225,8 @@ believe."***
 Surah Al-‘An’am, Verse 126
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهَـذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا قَدْ فَصَّلْنَا الآيَاتِ
-لِقَوْمٍ يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> وَهَـذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا قَدْ فَصَّلْنَا الآيَاتِ
+> لِقَوْمٍ يَذَّكَّرُونَ
 
 **126.** ***"And this is the path of your Lord; straight. Indeed We have
 explained the Signs for people who take admonition."***
@@ -268,12 +248,8 @@ attentive.
 Surah Al-‘An’am, Verse 127
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ دَارُ السَّلاَمِ عِندَ رَبِّهِمْ وَهُوَ وَلِيُّهُمْ بِمَا
-كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> لَهُمْ دَارُ السَّلاَمِ عِندَ رَبِّهِمْ وَهُوَ وَلِيُّهُمْ بِمَا
+> كَانُواْ يَعْمَلُونَ
 
 **127.** ***"For them shall be the abode of peace with their Lord, and
 He is their Guardian because of what they used to do."***
@@ -301,15 +277,11 @@ obtained under the light of (good) deeds. The verse says:
 Surah Al-‘An’am, Verse 128
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يِحْشُرُهُمْ جَمِيعًا يَا مَعْشَرَ الْجِنِّ قَدِ
-اسْتَكْثَرْتُم مِّنَ الإِنسِ وَقَالَ أَوْلِيَآؤُهُم مِّنَ الإِنسِ
-رَبَّنَا اسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَا أَجَلَنَا الَّذِيَ
-أَجَّلْتَ لَنَا قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلاَّ
-مَا شَاء اللّهُ إِنَّ رَبَّكَ حَكِيمٌ عَليمٌ
-  </p>
-</blockquote>
+> وَيَوْمَ يِحْشُرُهُمْ جَمِيعًا يَا مَعْشَرَ الْجِنِّ قَدِ
+> اسْتَكْثَرْتُم مِّنَ الإِنسِ وَقَالَ أَوْلِيَآؤُهُم مِّنَ الإِنسِ
+> رَبَّنَا اسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَا أَجَلَنَا الَّذِيَ
+> أَجَّلْتَ لَنَا قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلاَّ
+> مَا شَاء اللّهُ إِنَّ رَبَّكَ حَكِيمٌ عَليمٌ
 
 **128.** ***"And on the day He musters all together, (addressing the
 Satans of jinn, He says:) 'O' assembly of jinn! you took away a great
@@ -366,12 +338,8 @@ affairs, and He knows every thing.
 Surah Al-‘An’am, Verse 129
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُواْ
-يَكْسِبُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُواْ
+> يَكْسِبُونَ
 
 **129.** ***"And thus do We make some of the iniquitous to befriend
 others on account of what they used to earn."***
@@ -413,5 +381,4 @@ deeds of a group of people, He will refer their affairs to some good
 persons; but when He is not pleased with their deeds, He may put their
 affairs in the hands of some evil ones. (Kashf-ul- 'Asrar, the
 commentary)
-
 

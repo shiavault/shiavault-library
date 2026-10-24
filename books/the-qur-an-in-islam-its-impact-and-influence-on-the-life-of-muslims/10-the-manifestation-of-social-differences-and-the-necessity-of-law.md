@@ -249,4 +249,3 @@ is aware of the deserts of every soul as he who is aware of nothing;"
 and, in LXXXVI:4, "No human soul but has a guardian over it" and,
 LXXIV:38, "Every soul is a pledge for its own deeds."
 
-

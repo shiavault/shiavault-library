@@ -62,4 +62,3 @@ and Oliver Leaman, (London: Routledge), pp. 105­118
  Siraj ed‑Din, A. (1989), "The Nature and Origin of Sufism" in *Islamic
 Spirituality, Vol. I* (London: SCM Press Ltd.), pp. 223‑238.
 
-

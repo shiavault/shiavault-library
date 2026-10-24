@@ -138,12 +138,8 @@ that he said: I heard Jabir Ibn Abdullah Ansari say:
 “When Allah, Mighty and Glorified be He, revealed upon His Prophet
 Muhammad (S):
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***O ye who believe! Obey Allah and obey the messenger and those
 possessing authority among you***[^1] ***,***
@@ -327,5 +323,4 @@ And Praise be to Allah, the Lord of the worlds and blessings be upon our
 prophet, Muhammad and his purified and chaste progeny.’”
 
 [^1]: Surah Nisa 4:59
-
 

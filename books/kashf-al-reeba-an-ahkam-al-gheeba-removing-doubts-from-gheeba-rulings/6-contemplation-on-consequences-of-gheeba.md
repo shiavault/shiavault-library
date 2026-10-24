@@ -1033,4 +1033,3 @@ penalty. May Allāh grant us and your own selves success to apply such an
 effort through the medium of Muhammad and the progeny of Muhammad, peace
 and blessings be with them all.
 
-

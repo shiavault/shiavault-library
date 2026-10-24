@@ -160,4 +160,3 @@ accomplishment of a wise and powerful maker?”
 [^1]: The Evidence of God in an Expanding Universe Ed J.C. Monsma, New
 York 1958
 
-

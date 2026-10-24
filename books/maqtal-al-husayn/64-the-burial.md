@@ -399,4 +399,3 @@ al-Bihar, p. 124, citing the previous reference.
 [^10]: This poem was composed by Sayyid Hayder al-Hilli, may Allah
 enlighten his mausoleum.
 
-

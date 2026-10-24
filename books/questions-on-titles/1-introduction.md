@@ -37,7 +37,6 @@ exclusively to the Holy Infallibles (a.s.) then we will be told "So now
 ask them for your reward for what you did". Incidentally these guys have
 been referred to as shaytans.
 
-
 **Mawlana (Our Master)**
 
 This is one of the most commonly used titles for the priests in the
@@ -115,5 +114,4 @@ Why are these priests not correcting the ignorant one who refer to them
 as such? Is this because they like equating themselves with the Holy
 Infallibles (a.s.)? What is their justification of the usage of this
 term for themselves? Are they now going to stop using this title?
-
 

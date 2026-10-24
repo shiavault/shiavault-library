@@ -67,4 +67,3 @@ Commenting on Ismael, 'Aini says that he himself confessed that he was
 fabricating traditions. Nisaee has also mentioned the same point,
 quoting Salma bin Shu'aib.[^27]
 
-

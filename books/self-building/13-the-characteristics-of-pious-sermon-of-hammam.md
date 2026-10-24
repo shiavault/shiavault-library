@@ -180,4 +180,3 @@ to receive them often bring almost similar result”.
 
 [^1]: Nahjul Balagha, sermon 193.
 
-

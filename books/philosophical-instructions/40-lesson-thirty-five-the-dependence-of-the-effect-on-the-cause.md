@@ -250,4 +250,3 @@ parts of the complete cause, and the complete cause is composed of the
 existence-giving agent, internal causes, and conditions of existence and
 nonexistence.
 
-

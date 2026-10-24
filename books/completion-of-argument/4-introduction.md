@@ -113,4 +113,3 @@ And peace be upon those who follow the guidance.
 
 [^3]: Plural of Tawfeeq=Divine opportunity to perform a good deed
 
-

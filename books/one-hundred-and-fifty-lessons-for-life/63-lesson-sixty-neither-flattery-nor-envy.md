@@ -3,12 +3,8 @@ Lesson Sixty: Neither Flattery, Nor Envy
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-الثَناءُ بِأَكْثَرَ مِنَ الاسْتِحْقاقِ مَلَقٌ و التَّقْصِيرُ مِنَ
-الأسْتِحْقاقِ عَىٌّ أَوْ حَسَدٌ
-  </p>
-</blockquote>
+> الثَناءُ بِأَكْثَرَ مِنَ الاسْتِحْقاقِ مَلَقٌ و التَّقْصِيرُ مِنَ
+> الأسْتِحْقاقِ عَىٌّ أَوْ حَسَدٌ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ is less than merit, it discourages the good doers and shows that the
 speaker is either envious or weak in his power of expression.
 
 [^1]: Nahjul Balaghah
-
 

@@ -1246,4 +1246,3 @@ one seer is equal to 75 grams.
 [^19]: Readers can consult the instructional journal (ris'alah
 ‘amaliyah) of their respective religious authorities (mar’aji‘).
 
-

@@ -8,11 +8,7 @@ after midday and before sunset on the 12th; there being nothing against
 him who leaves under these circumstances on the third day, in accordance
 with the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ
-  </p>
-</blockquote>
+> فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ
 
 *...He that departs on the second day incurs no sin* .... (2:203)
 
@@ -159,5 +155,4 @@ under the thumb and tossed by the back of the index finger.
 [^2]: Al‑Sayyid al‑Hakim says that it is desirable that the third ramy
 should be done with one's back toward the Qiblah. According to al‑Mughni
 it should be done facing the Ka'bah.
-
 

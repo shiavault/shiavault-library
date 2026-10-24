@@ -14,14 +14,10 @@ I informed Imam Sadiq (a.s.) that my family members are people who
 accept my talks. I asked: Should I invite them to this affair? Imam
 (a.s.) replied: ‘Yes, for Allah, Exalted be He, mentions in His Book:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
-وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ
-شِدَادٌ لَا يَعْصُونَ اللَّهَ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ
-وَيَفْعَلُونَ مَا يُؤْمَرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا
+> وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ
+> شِدَادٌ لَا يَعْصُونَ اللَّهَ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ
+> وَيَفْعَلُونَ مَا يُؤْمَرُونَ
 
 ***“O you who believe! Save yourselves and your families from a fire
 whose fuel are men and*** ***stones” (Surah Tahrim, 66:6)***
@@ -53,5 +49,4 @@ Maleki, a learned and prolific personality who has kept at my disposal a
 copy of the aforesaid letter.
 
 [^3]: Al-Kafi; 2/211
-
 

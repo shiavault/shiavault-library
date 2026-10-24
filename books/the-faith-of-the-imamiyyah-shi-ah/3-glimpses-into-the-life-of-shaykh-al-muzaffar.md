@@ -480,4 +480,3 @@ AH 1370.
 [^8]: () Muntada al-Nashr; Activities and Expectations, pp. 8-9, by
 Shaykh Muhammad Ridha al-Muzaffar.
 
-

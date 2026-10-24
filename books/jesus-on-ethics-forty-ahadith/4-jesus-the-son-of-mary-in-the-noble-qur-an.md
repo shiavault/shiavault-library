@@ -313,4 +313,3 @@ the Children of Israel believed in him and others rejected him however
 We helped the believers against their enemies and they became
 victorious.” (Noble Qur’an 61:14)***
 
-

@@ -46,7 +46,6 @@ Masoomeen (as) not some mujtihid (scholar). If they want to find the
 solution to any issue, they will find it in the words of Masoomeen (as)
 not in the fatwas of so called scholars.
 
-
 **Namaz (Prayer)**
 
 Prayer is a way for recognizing one s religion. In reality prayer is
@@ -70,7 +69,6 @@ shaitan. He becomes joyous because he feels he now has a guarantee of
 jannah because of his worship of Allah.
 
 In reality he is worshiping shaitan.
-
 
 A famous poet, Josh, said:
 
@@ -104,7 +102,6 @@ We did not mention the references in our book. If you wish to see the
 references, then kindly read our book "Kashaful Ahkam".
 
 Rabbana taqqabul minna innaka anta asameeh ul aleem
-
 
 **The true beliefs of Shia religion Who is Shia?**
 
@@ -173,5 +170,4 @@ a Shia. He will become a munafiq (hypocrite). The meaning of being a
 Shia is to be associated with Moula Ali (as).We cannot disassociate
 ourselves from Moula Ali (as) even for the blink of an eye or even if we
 find ourselves in a loss.
-
 

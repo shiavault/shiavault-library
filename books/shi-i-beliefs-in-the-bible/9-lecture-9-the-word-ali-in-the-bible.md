@@ -438,4 +438,3 @@ Scripture that until now have been glossed over with translations having
 little or no meaning. Either solution brings the Bible closer into
 accord with Islam.
 
-

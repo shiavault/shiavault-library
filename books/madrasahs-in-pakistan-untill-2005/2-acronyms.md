@@ -32,10 +32,8 @@ ISI                                     Inte
 ITDM                                            *Ittehad-i-Tanzīmat
 Madāris-e-Dīniya\**
 
-<p dir="rtl">
 اتحادتنظیمتِ مدارس
 دینیا
-</p>
 
 JUI                                    *Jamiat-i-Ulamai Islam* \**جمیعت
 علماءِ اسلام*
@@ -103,10 +101,8 @@ Ordinance
 TIUQ                                             *Tanzeem-i-Ittehade
 Ulama-i-Qabail* \*
 
-<p dir="rtl">
 تنظیم اتحادِ علماءِ
 قبائل
-</p>
 
 TNSM
 *Tehreek-i-Nifazi-i-Shariati-i-Mohammadi*
@@ -121,5 +117,4 @@ USA                                       �
 America
 
 USAID       United States Agency for International Development
-
 

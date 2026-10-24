@@ -3,11 +3,7 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَقِمْ كَماَ اُمِرْتَ وَ مَنْ تاَبَ مَعَكَ
-  </p>
-</blockquote>
+> فَاسْتَقِمْ كَماَ اُمِرْتَ وَ مَنْ تاَبَ مَعَكَ
 
 *(Then stand you fast (O’ Our Apostle Muhammad) (on the right path) as
 you are commanded, (by your Lord) as also he who has turned (to Allah)
@@ -15,12 +11,8 @@ with you.)*[^1]*40*
 
 *Imam Sadiq (a.s.) said:*
 
-<blockquote dir="rtl">
-  <p>
-مَنِ ابْتُلِيَ مِنَ الْمُؤْمِنِيْنَ بِبَلاَءٍ فَصَبَرَ عَلَيْهِ كاَنَ
-لَهُ مِثْلُ اَجْرِ اَلْفِ شَهِيْدٍ
-  </p>
-</blockquote>
+> مَنِ ابْتُلِيَ مِنَ الْمُؤْمِنِيْنَ بِبَلاَءٍ فَصَبَرَ عَلَيْهِ كاَنَ
+> لَهُ مِثْلُ اَجْرِ اَلْفِ شَهِيْدٍ
 
 *(Every Mu’min, who happens to be afflicted with a misfortune and (then)
 exhibits patience in the face of it, shall be granted rewards equivalent
@@ -214,5 +206,4 @@ pg. 367.
 [^5]: Taareekh-e-Anbiya, pg. 48-52.
 
 [^6]: Dastaan-ha-e-Maa, vol. 3, pg. 45.
-
 

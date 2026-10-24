@@ -34,7 +34,6 @@ The holding of ceremonies in the memory of the prophet and thereby
 glorifying his position, gratifies God because this verse explains that
 there are four characteristics for the successful:
 
-
 **Question 27 : Why do the Shias cut short the five daily prayers
 joining them to three times a day?**
 
@@ -309,7 +308,6 @@ fourth time Ibn Abbas said: "Do you want to teach me how to pray? Whilst
 you are aware that we join the two prayers and recite it behind the holy
 prophet performing it together one after the other."
 
-
 Muslim narrated:
 
 "The Holy Prophet recited both the prayers together during the time of
@@ -392,5 +390,4 @@ Result:
 Considering all the traditions we have already mentioned, we sum up the
 clear evidences for the correctness of the explanation regarding the
 joining of prayers according to the Shia point of view.
-
 

@@ -395,4 +395,3 @@ God Himself and that God is pleased with those with whom Fatima is
 pleased and God is angry on those who have incurred the wrath of
 Fatima.
 
-

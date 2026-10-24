@@ -22,7 +22,6 @@ statement, we will InshaAllah look at contemporary models of governance,
 analyse their shortcomings and compare them to the ideal mode of
 governance of the 12th Imam (AS).
 
-
 **Contemporary models of governance - Democracy and Dictatorship**
 
 The most advanced model of governance since the beginning of modern
@@ -68,5 +67,4 @@ contrast to democracy (government whose power comes from people) and
 totalitarianism (government controls every aspect of people's life)
 corresponds to liberalism (government emphasizes individual right and
 liberty).
-
 

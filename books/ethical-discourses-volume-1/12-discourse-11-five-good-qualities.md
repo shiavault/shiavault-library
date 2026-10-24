@@ -1,14 +1,10 @@
 Discourse 11: Five Good Qualities
 =================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أََنَسِ بْنِ مَالِكِ، قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ فِي بَعْضِ
-خُطَبِهِ وَمَوَاعِظِهِ: رَحِمَ اللٌّهُ امْرَاءً قَدَّمَ خَيْراً، وَ
-أَنْفَقَ قَصْداً، وَ قَالَ صِدْقاً، وَ مَلَكَ دَوَاعِي شَهْوَتِهِ وَ
-لَمْ تَمْلِكْهُ، وَ عَصى أَمْرَ نَفْسِهِ فَلَمْ تَمْلِكْهُ.
-  </p>
-</blockquote>
+> عَنْ أََنَسِ بْنِ مَالِكِ، قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ فِي بَعْضِ
+> خُطَبِهِ وَمَوَاعِظِهِ: رَحِمَ اللٌّهُ امْرَاءً قَدَّمَ خَيْراً، وَ
+> أَنْفَقَ قَصْداً، وَ قَالَ صِدْقاً، وَ مَلَكَ دَوَاعِي شَهْوَتِهِ وَ
+> لَمْ تَمْلِكْهُ، وَ عَصى أَمْرَ نَفْسِهِ فَلَمْ تَمْلِكْهُ.
 
 It has been narrated from Anas b. Malik that, “I heard the Messenger of
 Allah (S) say in one of his speeches and words of admonition, 'May the
@@ -33,12 +29,8 @@ so little that the goodness which he has been given does not reach other
 people.  
  It has been mentioned in the Qur\`an that:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَجْعَلْ يَدَكَ مَغْلُولَةً إِلـى عُنُقِكَ وَلاَ تَبْسُطْهَا
-كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُوماً مَحْسُوراً
-  </p>
-</blockquote>
+> وَلاَ تَجْعَلْ يَدَكَ مَغْلُولَةً إِلـى عُنُقِكَ وَلاَ تَبْسُطْهَا
+> كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُوماً مَحْسُوراً
 
 “Do not make your hand tied to your neck (do not be miserly), nor
 stretch it forth to its utmost reach (nor be too generous) such that you
@@ -46,12 +38,8 @@ become blameworthy and destitute.”[^2]
 
 In another verse it states:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذا أَنْـفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
-بَيْنَ ذٌلِكَ قَوَاماً
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذا أَنْـفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
+> بَيْنَ ذٌلِكَ قَوَاماً
 
 “Those who, when they spend, are not extravagant and not stingy, but
 hold a just (balance) between these (extremes).”[^3]
@@ -135,5 +123,4 @@ before it is too late!
 [^2]: Surat al-Isra (17), Verse 29
 
 [^3]: Surat al-Furqan (25), Verse 67
-
 

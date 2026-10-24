@@ -173,4 +173,3 @@ investigations of E. Herzfeld.
 VIII, p. 48; De Herbelot, Ann. Mosl., tom. iii, p. 716 and the
 Encyclopedia of Religion and Ethics, art. “Mahdi”, vol. III, p. 338.
 
-

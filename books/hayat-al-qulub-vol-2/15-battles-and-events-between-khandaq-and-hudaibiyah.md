@@ -147,12 +147,8 @@ you, you have become degraded, come to the Holy Prophet (S) so that he
 may seek forgiveness on your behalf.” But they refused. At that
 juncture, the Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
-لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
+> لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ
 
 ***“And when it is said to them: Come, the Apostle of Allah will ask
 forgiveness for you, they turn back their heads and you may see them
@@ -251,18 +247,14 @@ they were proceeding to them, so the Holy Prophet (S) prepared for the
 battle. At that juncture, the Almighty Allah revealed the following
 verses:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْ ۖ
-وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا. إِلَّا الَّذِينَ
-يَصِلُونَ إِلٰى قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ أَوْ
-جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا
-قَوْمَهُمْ ۚ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ
-فَلَقَاتَلُوكُمْ ۚ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ
-وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ
-عَلَيْهِمْ سَبِيلًا.
-  </p>
-</blockquote>
+> فَإِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْ ۖ
+> وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا. إِلَّا الَّذِينَ
+> يَصِلُونَ إِلٰى قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ أَوْ
+> جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا
+> قَوْمَهُمْ ۚ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ
+> فَلَقَاتَلُوكُمْ ۚ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ
+> وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ
+> عَلَيْهِمْ سَبِيلًا.
 
 ***“…but if they turn back, then seize them and kill them wherever you
 find them, and take not from among them a friend or a helper. Except
@@ -362,5 +354,4 @@ year the Holy Prophet (S) set out for the Battle of Ghaba.
 [^1]: Surah Munafiqun 63:5
 
 [^2]: Surah Nisa 4:89-90
-
 

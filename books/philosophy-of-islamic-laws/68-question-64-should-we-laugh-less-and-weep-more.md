@@ -38,8 +38,5 @@ understood it, that what punishments they will get, they would laugh
 less and weep more and they will not get comfort from grief and sorrow,
 even for a moment.
 
-
-
 [^1]: Surah Tawbahh 9:82
-
 

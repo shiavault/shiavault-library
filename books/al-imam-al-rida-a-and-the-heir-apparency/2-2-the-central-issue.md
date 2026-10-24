@@ -150,4 +150,3 @@ links with the Ahl al-Bayt (A). The evil 'ulama' and venal thinkers were
 able, by intellectual and theological maneuvering, to misguide the
 people about the true meaning of the principle of nass .
 
-

@@ -19,7 +19,6 @@ Definition of Major Shirk.
 
 Major Shirk is of two kinds.
 
-
 1- To associate anyone with Allah Taala as His part.
 2- To associate Allah's attributes to someone as his own.
 
@@ -768,5 +767,4 @@ Thus, a beautiful harmony in Nature and a perfect orderliness in the
 universe acknowledged by all scientists of the world is a strong proof
 of absolute oneness of God. "Say: I only call upon my Lord, and I do not
 associate anyone with Him". (72:20)
-
 

@@ -214,7 +214,6 @@ AGK
 In itself, going (to such a place) is not a problem, but she must
 observe the proper clothing so as to not make others fall into sin. B
 
-
 **Covering of a Woman in the Presence of Other Women**
 
 143 – Rule: A woman must cover her private parts from other women
@@ -609,5 +608,4 @@ that which is natural. (Translator)
 as Notorious Clothing for lack of a better term in English. Please refer
 to the list of definitions at the end of this book for a detailed
 explanation.
-
 

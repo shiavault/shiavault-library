@@ -10,12 +10,8 @@ irrevocable, and shall continue uninterruptable till the Hour.
 
 Allah has stated concerning the *khilafah*:
 
-<blockquote dir="rtl">
-  <p>
-وإذ ابتلى إبراهيم ربه بكلمات فأتمهن قال إني جاعلك للناس إماما قال ومن
-ذريتي قال لا ينال عهدي الظالمين
-  </p>
-</blockquote>
+> وإذ ابتلى إبراهيم ربه بكلمات فأتمهن قال إني جاعلك للناس إماما قال ومن
+> ذريتي قال لا ينال عهدي الظالمين
 
 And when Ibrahim was tried by his Lord with some statements, and he
 fulfilled them, He said, “**I will appoint you an Imam of mankind**.” He
@@ -24,16 +20,12 @@ Covenant shall not reach the wrongdoers**.”
 
 Explaining this *ayah*, al-Hafiz Ibn Kathir (d. 774 H) states:
 
-<blockquote dir="rtl">
-  <p>
-قال الله تعالى} :وإذ ابتلى إبراهيم ربه بكلمات فأتمهن، قال إني جاعلك
-للناس إماما، قال ومن ذرتي؟ قال لا ينال عهدي الظالمين {لما وفى ما أمره
-به ربه من التكاليف العظيمة، جعله للناس إماما يقتدون به ويأتمون بهديه
-.وسأل الله أن تكون هذه الإمامة متصلة بسببه، وباقية في نسبه، وخالدة في
-عقبه فأجيب إلى ما سأل وسلمت إليه الإمامة بزمام، واستثنى من نيلها
-الظالمون، واختص بها من ذريته العلماء العاملون.
-  </p>
-</blockquote>
+> قال الله تعالى} :وإذ ابتلى إبراهيم ربه بكلمات فأتمهن، قال إني جاعلك
+> للناس إماما، قال ومن ذرتي؟ قال لا ينال عهدي الظالمين {لما وفى ما أمره
+> به ربه من التكاليف العظيمة، جعله للناس إماما يقتدون به ويأتمون بهديه
+> .وسأل الله أن تكون هذه الإمامة متصلة بسببه، وباقية في نسبه، وخالدة في
+> عقبه فأجيب إلى ما سأل وسلمت إليه الإمامة بزمام، واستثنى من نيلها
+> الظالمون، واختص بها من ذريته العلماء العاملون.
 
 Allah the Most High says: {And when Ibrahim was tried by his Lord with
 some statements, and he fulfilled them, He said, “I will appoint you an
@@ -55,12 +47,8 @@ offspring after him. The supplication was answered, but with a
 condition: the *khilafah* would never reach any wrong-doer among his
 descendants. Prof. Ibn Yasin also records in this regard:
 
-<blockquote dir="rtl">
-  <p>
-أخرج الطبري بسنده الصحيح عن مجاهد (قال لاينال عهدي الظالمين) قال: لا
-يكون إماما ظالما.
-  </p>
-</blockquote>
+> أخرج الطبري بسنده الصحيح عن مجاهد (قال لاينال عهدي الظالمين) قال: لا
+> يكون إماما ظالما.
 
 Al-Tabari records **with his** ***sahih*** **chain** from Mujahid that
 he said: “(My Covenant shall not reach the wrongdoers) **There will**
@@ -68,22 +56,14 @@ he said: “(My Covenant shall not reach the wrongdoers) **There will**
 
 Of course, every sinner is a wrong-doer:
 
-<blockquote dir="rtl">
-  <p>
-ومن يتعد حدود الله فقد ظلم نفسه
-  </p>
-</blockquote>
+> ومن يتعد حدود الله فقد ظلم نفسه
 
 And whosoever transgresses the set limits of Allah, **then indeed he has
 wronged himself**.[^3]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ومن يتعد حدود الله فأولئك هم الظالمون
-  </p>
-</blockquote>
+> ومن يتعد حدود الله فأولئك هم الظالمون
 
 And whosoever transgresses the set limits of Allah, **then such are the
 wrongdoers**.[^4]
@@ -103,12 +83,8 @@ bestows upon some of His pure servants from the offspring of Ibrahim.
 Some other *khalifahs* after Ibrahim also lacked political and military
 power, and were nonetheless the true Imams of mankind:
 
-<blockquote dir="rtl">
-  <p>
-ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين وجعلناهم أئمة يهدون
-بأمرنا
-  </p>
-</blockquote>
+> ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين وجعلناهم أئمة يهدون
+> بأمرنا
 
 And We bestowed upon him (i.e. Ibrahim) **Ishaq** and **Ya’qub**. Each
 one We made righteous. **And We appointed them IMAMS, guiding by Our
@@ -124,13 +100,9 @@ of *al-Qiyamah*. However, amongst us, it has been limited to the
 descendants of Ibrahim from the tribe of Quraysh only, as Imam
 al-Bukhari (d. 256 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو الوليد حدثنا عاصم بن محمد قال سمعت أبي عن ابن عمر رضي الله
-عنهما: عن النبي صلى الله عليه و سلم قال لا يزال هذا الأمر في قريش ما
-بقي منهم اثنان
-  </p>
-</blockquote>
+> حدثنا أبو الوليد حدثنا عاصم بن محمد قال سمعت أبي عن ابن عمر رضي الله
+> عنهما: عن النبي صلى الله عليه و سلم قال لا يزال هذا الأمر في قريش ما
+> بقي منهم اثنان
 
 Abu al-Walid – ‘Asim b. Muhammad – my father – Ibn ‘Umar, may Allah be
 pleased with them both:
@@ -145,13 +117,9 @@ will always be in them till the Day of *al-Qiyamah*. Meanwhile, the
 nature of “this authority” – the *Imamah* – is mentioned in this *sahih
 hadith* of Imam Ahmad (d. 241 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي حدثنا زيد بن الحباب حدثنا معاوية بن صالح قال
-حدثني أبو مريم انه سمع أبا هريرة يقول قال رسول الله صلى الله عليه و
-سلم الملك في قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي حدثنا زيد بن الحباب حدثنا معاوية بن صالح قال
+> حدثني أبو مريم انه سمع أبا هريرة يقول قال رسول الله صلى الله عليه و
+> سلم الملك في قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Zayd b. al-Hubbab
 – Mu’awiyah b. Salih – Abu Maryam – Abu Hurayrah:
@@ -161,22 +129,14 @@ Quraysh**.”[^7]
 
 Assessing the *sanad*, al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-وهذا إسناد صحيح
-  </p>
-</blockquote>
+> وهذا إسناد صحيح
 
 **This chain is** ***sahih***.[^8]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-قلت: زيد ثقة صدوق كما في " الميزان " وقد رفعه، وهي زيادة يجب قبولها
-كما تقرر في المصطلح.
-  </p>
-</blockquote>
+> قلت: زيد ثقة صدوق كما في " الميزان " وقد رفعه، وهي زيادة يجب قبولها
+> كما تقرر في المصطلح.
 
 I say: Zayd is *thiqah* (trustworthy), *saduq* (very truthful) as stated
 in *al-Mizan*, and he has narrated it in a *marfu’* manner. **It is a**
@@ -189,15 +149,11 @@ offspring of Prophet Ibrahim.
 
 We also read this *hadith* of Imam Ahmad:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يونس بن محمد ثنا حماد يعنى بن زيد ثنا
-مجالد عن الشعبي عن جابر بن سمرة قال خطبنا رسول الله صلى الله عليه و
-سلم بعرفات فقال لن يزال هذا الأمر عزيزا منيعا ظاهرا على من ناوأه حتى
-يملك اثنا عشر كلهم قال فلم أفهم ما بعد قال فقلت لأبي ما بعد كلهم قال
-كلهم من قريش
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يونس بن محمد ثنا حماد يعنى بن زيد ثنا
+> مجالد عن الشعبي عن جابر بن سمرة قال خطبنا رسول الله صلى الله عليه و
+> سلم بعرفات فقال لن يزال هذا الأمر عزيزا منيعا ظاهرا على من ناوأه حتى
+> يملك اثنا عشر كلهم قال فلم أفهم ما بعد قال فقلت لأبي ما بعد كلهم قال
+> كلهم من قريش
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) - Yunus b. Muhammad
 – Hammad b. Zayd – Mujalid – al-Sha’bi – Jabir b. Samurah:
@@ -213,11 +169,7 @@ of them will be from Quraysh.”[^10]
 
 Al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 A *sahih hadith*[^11]
 
@@ -225,16 +177,12 @@ Of course, these twelve men are the only twelve *khalifahs* of this
 *Ummah* till the end of the world. Imam Muslim (d. 261 H) records in
 this regard:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قتيبة بن سعيد وأبو بكر بن أبي شيبة قالا حدثنا حاتم (وهو ابن
-إسماعيل) عن المهاجر بن مسمار عن عامر بن سعد بن أبي وقاص قال كتبت إلى
-جابر بن مرة مع غلامي نافع أن أخبرني بشيء سمعته من رسول الله صلى الله
-عليه و سلم قال فكتب لي سمعت رسول الله صلى الله عليه و سلم يوم جمعة
-عشية رجم الأسلمي يقول (لا يزال الدين قائما حتى تقوم الساعة أو يكون
-عليكم اثنا عشر خليفة كلهم من قريش)
-  </p>
-</blockquote>
+> حدثنا قتيبة بن سعيد وأبو بكر بن أبي شيبة قالا حدثنا حاتم (وهو ابن
+> إسماعيل) عن المهاجر بن مسمار عن عامر بن سعد بن أبي وقاص قال كتبت إلى
+> جابر بن مرة مع غلامي نافع أن أخبرني بشيء سمعته من رسول الله صلى الله
+> عليه و سلم قال فكتب لي سمعت رسول الله صلى الله عليه و سلم يوم جمعة
+> عشية رجم الأسلمي يقول (لا يزال الدين قائما حتى تقوم الساعة أو يكون
+> عليكم اثنا عشر خليفة كلهم من قريش)
 
 Qutaybah b. Sa’id and Abu Bakr b. Abi Shaybah – Hatim b. Isma’il –
 al-Muhajir b. Musmar – ‘Amir b. Sa’d b. Abi Waqqas:
@@ -254,13 +202,9 @@ the Hour.
 
 We further read this *hadith* of Ahmad:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا مؤمل بن إسماعيل ثنا حماد بن سلمة حدثنا
-داود بن هند عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى الله عليه و
-سلم يقول يكون لهذه الأمة اثنا عشر خليفة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا مؤمل بن إسماعيل ثنا حماد بن سلمة حدثنا
+> داود بن هند عن الشعبي عن جابر بن سمرة قال سمعت النبي صلى الله عليه و
+> سلم يقول يكون لهذه الأمة اثنا عشر خليفة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Mumal b. Isma’il –
 Hammad b. Salamah – Dawud b. Hind – al-Shu’bi – Jabir b. Samurah:
@@ -270,11 +214,7 @@ this** ***Ummah*** **TWELVE** ***KHALIFAHS***.”[^13]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح
-  </p>
-</blockquote>
+> حديث صحيح
 
 A *sahih* *hadith*.[^14]
 
@@ -284,14 +224,10 @@ this *Ummah*. He is only an impostor.
 Meanwhile, one of these twelve royal *khalifahs* is our beloved Mahdi.
 Imam Abu Dawud (d. 275 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا سهل بن تمام بن بزيع ثنا عمران القطان عن قتادة عن أبي نضرة عن أبي
-سعيد الخدري قال قال رسول الله صلى الله عليه و سلم " المهدي مني أجلى
-الجبهة أقنى الأنف يملأ الأرض قسطا وعدلا كما ملئت جورا وظلما ويملك سبع
-سنين "
-  </p>
-</blockquote>
+> حدثنا سهل بن تمام بن بزيع ثنا عمران القطان عن قتادة عن أبي نضرة عن أبي
+> سعيد الخدري قال قال رسول الله صلى الله عليه و سلم " المهدي مني أجلى
+> الجبهة أقنى الأنف يملأ الأرض قسطا وعدلا كما ملئت جورا وظلما ويملك سبع
+> سنين "
 
 Sahl b. Tammam b. Buzay’ – ‘Imran al-Qaṭṭan – Qatadah – Abu Nadhrah –
 Abu Sa’id al-Khudri:
@@ -303,11 +239,7 @@ injustice, **and he will RULE BY KINGDOM for seven years**.”[^15]
 
 Al-Albani says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^16]
 
@@ -315,14 +247,10 @@ Obviously, Imam al-Mahdi is the twelfth and last of these royal
 *khalifahs*, since he will rule over the last generation of our *Ummah*.
 Imam al-Hakim (d. 403 H) documents this relevant *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
-النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
-الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
-أمتي المهدي
-  </p>
-</blockquote>
+> أخبرني أبو العباس محمد بن أحمد المحبوبي بمرو ثنا سعيد بن مسعود ثنا
+> النضر بن شميل ثنا سليمان بن عبيد ثنا أبو الصديق الناجي عن أبي سعيد
+> الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال : يخرج في آخر
+> أمتي المهدي
 
 Abu al-‘Abbas Muhammad b. Ahmad al-Mahbubi – Sa’id b. Mas’ud – al-Nadhr
 b. Shumayl – Sulayman b. ‘Ubayd – Abu al-Siddiq al-Naji – Abu Sa’id
@@ -333,70 +261,42 @@ out at the END of my** ***Ummah***.[^17]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^18]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^19]
 
 ‘Allamah al-Albani also says about the *hadith* in his *Sahihah*:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا سند صحيح
-  </p>
-</blockquote>
+> قلت: وهذا سند صحيح
 
 I say: This chain is *sahih*[^20]
 
 Dr. al-Bastawi has the same verdict on it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح.
-  </p>
-</blockquote>
+> إسناده صحيح.
 
 Its chain is *sahih*.[^21]
 
 The grand Salafi scholar, Shaykh Ibn ‘Uthaymin (d. 1421 H), declares the
 same thing in his commentary of *al-‘Aqidah al-Safariniyyah*:
 
-<blockquote dir="rtl">
-  <p>
-قوله : ( منها ) : أي من أشراطها ،
-  </p>
-</blockquote>
+> قوله : ( منها ) : أي من أشراطها ،
 
-<blockquote dir="rtl">
-  <p>
-قوله : (الإمام الخاتم الفصيح ) : أي من أشراط الساعة الإمام ، الإمام
-يعني الذي يؤم الناس لا في الصلاة ولكن في القيادة ، يكون إماماً لهم
-أعظم ، كالخليفة هذا الإمام
-  </p>
-</blockquote>
+> قوله : (الإمام الخاتم الفصيح ) : أي من أشراط الساعة الإمام ، الإمام
+> يعني الذي يؤم الناس لا في الصلاة ولكن في القيادة ، يكون إماماً لهم
+> أعظم ، كالخليفة هذا الإمام
 
-<blockquote dir="rtl">
-  <p>
-يقول أنه ( الخاتم ) ، الخاتم لمن ؟ الخاتم للأئمة لأنه لا إمام بعده فهو
-خاتم الأئمة واسمه يقول : ( محمد ) ، ولقبه ( المهدي ) يعني الذي هداه
-الله عز وجل ، هذا المهدي يُبعث في آخر الزمان إذا مُلئت الأرض ظلماً
-وجوراً ونُسِّيَ فيها الحق وصار المظلوم لقمةً للظالم وانتشرت الفوضى
-فحينئذٍ يبعث الله هذا الرجل رجلاً إماماً مصلحاً للخلق مبيِّناً للحق
-  </p>
-</blockquote>
+> يقول أنه ( الخاتم ) ، الخاتم لمن ؟ الخاتم للأئمة لأنه لا إمام بعده فهو
+> خاتم الأئمة واسمه يقول : ( محمد ) ، ولقبه ( المهدي ) يعني الذي هداه
+> الله عز وجل ، هذا المهدي يُبعث في آخر الزمان إذا مُلئت الأرض ظلماً
+> وجوراً ونُسِّيَ فيها الحق وصار المظلوم لقمةً للظالم وانتشرت الفوضى
+> فحينئذٍ يبعث الله هذا الرجل رجلاً إماماً مصلحاً للخلق مبيِّناً للحق
 
 His statement (among them): that is, among its signs.
 
@@ -495,5 +395,4 @@ al-Firaq al-Mukhtalifah (Beirut: Dar Ibn Hazm; 1st edition, 1420 H), p.
 
 [^22]: Muhammad b. Salih al-‘Uthaymin, Sharh al-‘Aqidah al-Safariniyyah
 (Riyadh: Dar al-Waṭan li al-Nashr; 1st edition, 1426 H), pp. 450-451
-
 

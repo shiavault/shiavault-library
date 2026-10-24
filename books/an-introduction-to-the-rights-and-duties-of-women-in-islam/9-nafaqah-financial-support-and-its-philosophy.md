@@ -11,25 +11,17 @@ Islamic religious magistrate may divorce them at the wife’s request.
 
 Imam Muhammad Baqir (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-أبوبصیر، قال: سمعت أباجعفر (ع) یقول: «من کانت عنده امرأة فلم یکسها ما
-یواري عورتها، و یطعمها ما یقیم صلبها کان حقّاً علی الإمام أن یفرّق
-بینهما.»
-  </p>
-</blockquote>
+> أبوبصیر، قال: سمعت أباجعفر (ع) یقول: «من کانت عنده امرأة فلم یکسها ما
+> یواري عورتها، و یطعمها ما یقیم صلبها کان حقّاً علی الإمام أن یفرّق
+> بینهما.»
 
 [Regarding] he who has a wife but does not provide her adequate clothing
 and food, it is the duty of an Imam to separate them.[^1]
 
 Ishaq ibn ‘Ammar has stated:
 
-<blockquote dir="rtl">
-  <p>
-إسحاق بن عمّار، قال: قلت لأبی عبدالله (ع): «ما حق المرأة علی زوجها
-الذی إذا فعله کان محسناً؟ قال: یشبعها، و یکسوها، و إن جهلت غفر لها.»
-  </p>
-</blockquote>
+> إسحاق بن عمّار، قال: قلت لأبی عبدالله (ع): «ما حق المرأة علی زوجها
+> الذی إذا فعله کان محسناً؟ قال: یشبعها، و یکسوها، و إن جهلت غفر لها.»
 
 I asked Imam Sadiq (‘a), ‘What rights does a wife have upon her husband,
 which if he fulfills he will be virtuous in this respect?’ He replied,
@@ -185,5 +177,4 @@ serenity and love within the entire family.
 [^1]: - Wasa’il ush-Shi‘ah, p. 509.
 
 [^2]: - Ibid, p. 510.
-
 

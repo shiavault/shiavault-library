@@ -334,4 +334,3 @@ That the affair came before the qazi; and Sa'di said:
 
 Thou whose hand trembles, how canst thou bore a Jewel?'
 
-

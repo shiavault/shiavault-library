@@ -14,22 +14,14 @@ assistance], your reward will thus be good in both abodes, and you will
 acquire a great prize from Allah.
 
 > 2ـ تَبادَرُوا المَكارِمَ، وسارِعُوا إلى تَحَمُّلِ المَغارِمِ،
-<blockquote dir="rtl">
-  <p>
-واسْعَوْا في حاجَةِ مَنْ هُوَ نائِمٌ، يَحْسُنْ لَكُمْ فِي الدّارَيْنِ
-الجَزاءُ،وَ تَنالُوا مِنَ اللّهِ عَظيمَ الحَباءِ.
-  </p>
-</blockquote>
+> واسْعَوْا في حاجَةِ مَنْ هُوَ نائِمٌ، يَحْسُنْ لَكُمْ فِي الدّارَيْنِ
+> الجَزاءُ،وَ تَنالُوا مِنَ اللّهِ عَظيمَ الحَباءِ.
 
 3. Work hard to acquire noble traits and bear the burden of [others’]
 liabilities, [as a result] you will achieve the greatest gains.
 
 > 3ـ ثابِرُوا عََلَى اقْتِناءِ المَكارِمِ، وتَحَمَّلُوا أعْباءَ
-<blockquote dir="rtl">
-  <p>
-المَغارِمِ، تُحْرِزُوا قَصَباتِ المَغانِمِ.
-  </p>
-</blockquote>
+> المَغارِمِ، تُحْرِزُوا قَصَباتِ المَغانِمِ.
 
 4. The best of noble traits is altruism.
 
@@ -45,11 +37,7 @@ assistance].
 things protect one from falling into difficulties and lead to loftiness.
 
 > 6ـ عَلَيْكَ بِمَكارِمِ الخِلالِ واصْطِناعِ الرِّجالِ فَإنَّهُما
-<blockquote dir="rtl">
-  <p>
-يَقِيانِ مَصارِعَ السَّوْءِ ويُوجِبانِ الجَلالَةَ.
-  </p>
-</blockquote>
+> يَقِيانِ مَصارِعَ السَّوْءِ ويُوجِبانِ الجَلالَةَ.
 
 7. The pinnacle of noble traits is altruism.
 
@@ -76,5 +64,4 @@ self-sacrifice.
 12. Noble traits are [attained] by [bearing] that which is disliked.
 
 > 12ـ اَلمَكارِمُ بِالمَكارِهِ.
-
 

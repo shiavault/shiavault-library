@@ -3,11 +3,7 @@ Lesson Forty: Mourning
 
 Imam Al-Baqir (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-اَلنَّياحَةُ مِنْ عَمَلِ الْجاهِلِيَّةِ
-  </p>
-</blockquote>
+> اَلنَّياحَةُ مِنْ عَمَلِ الْجاهِلِيَّةِ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ continuous effort and tolerance.
 
 [^1]: Wasa’il ‘ush-Shi’a, vol 3, page 272, volume 1, page 915, Men La
 Yahthuruhu AlFaqih, Vol 4, page 3
-
 

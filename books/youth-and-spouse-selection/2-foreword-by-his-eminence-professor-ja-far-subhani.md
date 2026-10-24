@@ -14,13 +14,9 @@ the other's company after having reached a certain age.
 Their anxiety, distress and boiling sentiments are comforted and soothed
 through marriage. The Qur’anic verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ
-فِي ذَلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ
+> فِي ذَلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***“And one of His signs is that he created mates for you from
 yourselves that you may find rest in them, and He put between you love
@@ -71,11 +67,7 @@ the book, so that it reaches the hands of our youth, thereby taking a
 big and important step to solving our problems and as a consequence,
 reducing the number of divorces. The saying of the prophet (S) is:
 
-<blockquote dir="rtl">
-  <p>
-ما بني بناء في الإسلام أحب إلي الله من التزويج.
-  </p>
-</blockquote>
+> ما بني بناء في الإسلام أحب إلي الله من التزويج.
 
 *“No palace in Islam more beloved to Allah has ever been built than the
 palace of marriage,”* [^1]
@@ -89,5 +81,4 @@ Ayatollah Ja’far Subhani
 1995, 1st of Moharram, 1415, Hijrah
 
 [^1]: Wasail, vol 14, p3.
-
 

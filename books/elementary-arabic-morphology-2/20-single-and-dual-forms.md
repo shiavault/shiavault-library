@@ -55,4 +55,3 @@ remain or be changed into a *wāw* with a *fathah* and then the dual
 letters should be added. For example **سماء** (sky) becomes **سماء** or
 **سَماوَ** which becomes **سَماءَانِ** or **سَماوَانِ** (two skies).
 
-

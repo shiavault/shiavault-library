@@ -22,14 +22,10 @@ turning a blind eye to their own reliable reports on the Awaited Imam.
 The two primary Sunni objections to the Twelfth Imam are mentioned by
 Shaykh Ibn Taymiyyah (d. 728 H) in this submission:
 
-<blockquote dir="rtl">
-  <p>
-قد ذكر محمد بن جرير الطبري وعبد الباقي بن قانع وغيرهما من أهل العلم
-بالأنساب والتواريخ أن الحسن بن علي العسكري لم يكن له نسل ولا عقب
-والإمامية الذين يزعمون أنه كان له ولد يدعون أنه دخل السرداب بسامرا وهو
-صغير منهم من قال عمره سنتان ومنهم من قال ثلاث ومنهم من قال خمس سنين
-  </p>
-</blockquote>
+> قد ذكر محمد بن جرير الطبري وعبد الباقي بن قانع وغيرهما من أهل العلم
+> بالأنساب والتواريخ أن الحسن بن علي العسكري لم يكن له نسل ولا عقب
+> والإمامية الذين يزعمون أنه كان له ولد يدعون أنه دخل السرداب بسامرا وهو
+> صغير منهم من قال عمره سنتان ومنهم من قال ثلاث ومنهم من قال خمس سنين
 
 Muhammad b. Jarir al-Tabari, ‘Abd al-Baqi b. Qani’ and others from the
 scholars of geneology and history had stated that al-Hasan b. ‘Ali
@@ -48,14 +44,10 @@ al-Tabari and Ibn Qani’ by name. Then, he makes a vague reference to
 some other Sunni scholars of geneology and history. Imam al-Dhahabi (d.
 748 H) quotes something to this effect too:
 
-<blockquote dir="rtl">
-  <p>
-قلت: ويزعمون أن محمدا دخل سردابا في بيت أبيه، وأمه تنظر إليه، فلم يخرج
-إلى الساعة منه، وكان ابن تسع سنين. وقيل دون ذلك ... وأنه حي نعوذ بالله
-من زوال العقل ….وممن قال: إن الحسن العسكري لم يعقب: محمد بن جرير
-الطبري، ويحيى بن صاعد، وناهيك بهما معرفة وثقة.
-  </p>
-</blockquote>
+> قلت: ويزعمون أن محمدا دخل سردابا في بيت أبيه، وأمه تنظر إليه، فلم يخرج
+> إلى الساعة منه، وكان ابن تسع سنين. وقيل دون ذلك ... وأنه حي نعوذ بالله
+> من زوال العقل ….وممن قال: إن الحسن العسكري لم يعقب: محمد بن جرير
+> الطبري، ويحيى بن صاعد، وناهيك بهما معرفة وثقة.
 
 I (al-Dhahabi) say: They (the Shi’ah) claim that Muhammad entered a
 cellar in the house of his father while his mother was looking at him,
@@ -72,21 +64,13 @@ the submissions of al-Tabari, Ibn al-Qani’, Yahya b. Sa’id, Ibn
 Taymiyyah (who was his contemporary) and probably others. In his *Tarikh
 al-Islam*, he claims instead:
 
-<blockquote dir="rtl">
-  <p>
-(أحداث سنة خمسٍ وستيّن)
-  </p>
-</blockquote>
+> (أحداث سنة خمسٍ وستيّن)
 
-<blockquote dir="rtl">
-  <p>
-توفيّ فيها: أحمد بن منصور الرّماديّ، وإبراهيم بن الحارث البغداديّ،
-وإبراهيم بن هانيء النَّيسابوريّ، وسعدان بن نصر، وصالح بن أحمد بن حنبل،
-وعبد الله بن محمد بن أيوّب المُخرّميّ، وعلي بن حرب الطّائيّ، وأبو حفص
-النَّيسابوريّ الزاهد عمرو بن سلم، ومحمد بن الحسن العسكري من الإثني
-عشر، ومحمد بن هارون الفلاّس، وهارون بن سليمان الإصبهانيّ.
-  </p>
-</blockquote>
+> توفيّ فيها: أحمد بن منصور الرّماديّ، وإبراهيم بن الحارث البغداديّ،
+> وإبراهيم بن هانيء النَّيسابوريّ، وسعدان بن نصر، وصالح بن أحمد بن حنبل،
+> وعبد الله بن محمد بن أيوّب المُخرّميّ، وعلي بن حرب الطّائيّ، وأبو حفص
+> النَّيسابوريّ الزاهد عمرو بن سلم، ومحمد بن الحسن العسكري من الإثني
+> عشر، ومحمد بن هارون الفلاّس، وهارون بن سليمان الإصبهانيّ.
 
 (Events of 265 H)
 
@@ -114,16 +98,12 @@ Ja’far The Liar, the brother of Imam al-Askari, *‘alaihi al-salam*.
 Shaykh al-Mufid (d. 413 H), the great Shi’i scholar, has some further
 information for us concerning this:
 
-<blockquote dir="rtl">
-  <p>
-وحاز جعفر ظاهر تركة أبي محمد عليه السلام واجتهد في القيام عند الشيعة
-مقامه، فلم يقبل أحد منهم ذلك ولا اعتقده فيه، فصار إلى سلطان الوقت
-يلتمس مرتبة أخيه، وبذل مالا جليلا، وتقرب بكل ما ظن أنه يتقرب به فلم
-ينتفع بشئ من ذلك. ولجعفر أخبار كثيرة في هذا المعنى، رأيت الإعراض عن
-ذكرها لأسباب لا يحتمل الكتاب شرحها، وهي مشهورة عند الإمامية ومن عرف
-أخبار الناس من العامة، وبالله استعين.
-  </p>
-</blockquote>
+> وحاز جعفر ظاهر تركة أبي محمد عليه السلام واجتهد في القيام عند الشيعة
+> مقامه، فلم يقبل أحد منهم ذلك ولا اعتقده فيه، فصار إلى سلطان الوقت
+> يلتمس مرتبة أخيه، وبذل مالا جليلا، وتقرب بكل ما ظن أنه يتقرب به فلم
+> ينتفع بشئ من ذلك. ولجعفر أخبار كثيرة في هذا المعنى، رأيت الإعراض عن
+> ذكرها لأسباب لا يحتمل الكتاب شرحها، وهي مشهورة عند الإمامية ومن عرف
+> أخبار الناس من العامة، وبالله استعين.
 
 Ja’far seized the apparent legacy of Abu Muhammad (i.e. Imam al-Hasan
 al-Askari), peace be upon him, and he strove hard to take his place in
@@ -147,15 +127,11 @@ particular, he proclaimed the non-existence of the Twelfth Imam and
 persecuted the Shi’ah in order to “ease” things for himself, as al-Mufid
 confirms:
 
-<blockquote dir="rtl">
-  <p>
-وتولى جعفر بن علي أخو أبي محمد عليه السلام أخذ تركته، وسعى في حبس
-جواري أبي محمد عليه السلام واعتقال حلائله، وشنع على أصحابه بانتظارهم
-ولده وقطعهم بوجوده والقول بإمامته، وأغرى بالقوم حتى أخافهم وشردهم،
-وجرى على مخلفي أبي محمد عليه السلام بسبب ذلك كل عظيمة، من اعتقال وحبس
-وتهديد وتصغير واستخفاف وذل.
-  </p>
-</blockquote>
+> وتولى جعفر بن علي أخو أبي محمد عليه السلام أخذ تركته، وسعى في حبس
+> جواري أبي محمد عليه السلام واعتقال حلائله، وشنع على أصحابه بانتظارهم
+> ولده وقطعهم بوجوده والقول بإمامته، وأغرى بالقوم حتى أخافهم وشردهم،
+> وجرى على مخلفي أبي محمد عليه السلام بسبب ذلك كل عظيمة، من اعتقال وحبس
+> وتهديد وتصغير واستخفاف وذل.
 
 Ja’far b. ‘Ali, the brother of Abu Muhammad, peace be upon him, seized
 his legacy and sought to imprison the women slaves of Abu Muhammad,
@@ -183,23 +159,15 @@ died a few years after him. Does he then have any proof for the alleged
 death of Imam al-Hujjah? Of course, he does not, as he himself
 indirectly admits in another of his books:
 
-<blockquote dir="rtl">
-  <p>
-الحسن بن علي بن محمد بن علي الرضا بن موسى بن جعفر الصادق. أبو محمد
-الهاشمي الحسيني أحد أئمة الشيعة الذين تدعي الشيعة عصمتهم. ويقال له
-الحسن العسكري لكونه سكن سامراء، فإنها يقال لها العسكر. وهو والد منتظر
-الرافضة. توفي إلى رضوان الله بسامراء في ثامن ربيع الأول سنة ستين، وله
-تسع وعشرون سنة. ودفن إلى جانب والده. وأمه أمة.
-  </p>
-</blockquote>
+> الحسن بن علي بن محمد بن علي الرضا بن موسى بن جعفر الصادق. أبو محمد
+> الهاشمي الحسيني أحد أئمة الشيعة الذين تدعي الشيعة عصمتهم. ويقال له
+> الحسن العسكري لكونه سكن سامراء، فإنها يقال لها العسكر. وهو والد منتظر
+> الرافضة. توفي إلى رضوان الله بسامراء في ثامن ربيع الأول سنة ستين، وله
+> تسع وعشرون سنة. ودفن إلى جانب والده. وأمه أمة.
 
-<blockquote dir="rtl">
-  <p>
-وأما ابنه محمد بن الحسن الذي يدعوه الرافضة القائم الخلف الحجة، فولد
-سنة ثمان وخمسين، وقيل: سنة ست وخمسين. عاش بعد أبيه سنتين ثم عدم، ولم
-يعلم كيف مات. وأمه أم ولد.
-  </p>
-</blockquote>
+> وأما ابنه محمد بن الحسن الذي يدعوه الرافضة القائم الخلف الحجة، فولد
+> سنة ثمان وخمسين، وقيل: سنة ست وخمسين. عاش بعد أبيه سنتين ثم عدم، ولم
+> يعلم كيف مات. وأمه أم ولد.
 
 Al-Hasan b. ‘Ali b. Muhammad b. ‘Ali al-Ridha b. Musa b. Ja’far
 al-Sadiq, Abu Muhammad al-Hashimi al-Husayni, **one of the Imams of the
@@ -227,14 +195,10 @@ accepted - *did* testify to the existence of his son during his
 lifetime. Shaykh al-Kulayni (d. 328 H), the ace Shi’i *hadith* compiler,
 documents:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن إسحاق، عن أبي هاشم الجعفري قال: قلت لأبي محمد
-عليه السلام: جلالتك تمنعني من مسألتك، فتأذن لي أن أسألك؟ فقال: سل،
-قلت:يا سيدي هل لك ولد؟ فقال: نعم، فقلت: فإن بك حدث فأين أسأل عنه؟ فقال
-:بالمدينة.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن إسحاق، عن أبي هاشم الجعفري قال: قلت لأبي محمد
+> عليه السلام: جلالتك تمنعني من مسألتك، فتأذن لي أن أسألك؟ فقال: سل،
+> قلت:يا سيدي هل لك ولد؟ فقال: نعم، فقلت: فإن بك حدث فأين أسأل عنه؟ فقال
+> :بالمدينة.
 
 Muhammad b. Yahya – Ahmad b. Ishaq – Abu Hashim al-Ja’fari:
 
@@ -246,21 +210,13 @@ should I ask about him?” He said, “**In Madinah**.”[^7]
 
 Al-Majlisi (d. 1111 H) says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih.*[^8]
 
 Al-Haj Muhammad Zakariya agrees:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^9]
 
@@ -270,21 +226,17 @@ he did also show the blessed son to some of his most trusted companions.
 Shaykh al-Saduq (d. 381 H), another primary Shi’i *hadith* scientist,
 records about one of such occasions:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن عبد الله الوراق قال: حدثنا سعد بن عبد الله، عن أحمد ابن
-إسحاق بن سعد الأشعري قال: دخلت على أبي محمد الحسن بن علي عليهما السلام
-وأنا أريد أن أسأله عن الخلف] من [بعده، فقال لي مبتدئا: يا أحمد بن
-إسحاق إن الله تبارك وتعالى لم يخل الأرض منذ خلق آدم عليه السلام ولا
-يخليها إلى أن تقوم الساعة من حجة لله على خلقه، به يدفع البلاء عن أهل
-الأرض، وبه ينزل الغيث، وبه يخرج بركات الأرض. قال: فقلت له: يا ابن رسول
-الله فمن الامام والخليفة بعدك؟ فنهض عليه السلام مسرعا فدخل البيت، ثم
-خرج وعلى عاتقه غلام كان وجهه القمر ليلة البدر من أبناء الثلاث سنين،
-فقال: يا أحمد بن إسحاق لولا كرامتك على الله عز وجل وعلى حججه ما عرضت
-عليك ابني هذا، إنه سمي رسول الله صلى الله عليه وآله وكنيه، الذي يملأ
-الأرض قسطا وعدلا كما ملئت جورا وظلما.
-  </p>
-</blockquote>
+> حدثنا علي بن عبد الله الوراق قال: حدثنا سعد بن عبد الله، عن أحمد ابن
+> إسحاق بن سعد الأشعري قال: دخلت على أبي محمد الحسن بن علي عليهما السلام
+> وأنا أريد أن أسأله عن الخلف] من [بعده، فقال لي مبتدئا: يا أحمد بن
+> إسحاق إن الله تبارك وتعالى لم يخل الأرض منذ خلق آدم عليه السلام ولا
+> يخليها إلى أن تقوم الساعة من حجة لله على خلقه، به يدفع البلاء عن أهل
+> الأرض، وبه ينزل الغيث، وبه يخرج بركات الأرض. قال: فقلت له: يا ابن رسول
+> الله فمن الامام والخليفة بعدك؟ فنهض عليه السلام مسرعا فدخل البيت، ثم
+> خرج وعلى عاتقه غلام كان وجهه القمر ليلة البدر من أبناء الثلاث سنين،
+> فقال: يا أحمد بن إسحاق لولا كرامتك على الله عز وجل وعلى حججه ما عرضت
+> عليك ابني هذا، إنه سمي رسول الله صلى الله عليه وآله وكنيه، الذي يملأ
+> الأرض قسطا وعدلا كما ملئت جورا وظلما.
 
 ‘Ali b. ‘Abd Allah al-Warraq – Sa’d b. ‘Abd Allah – Ahmad b. Ishaq b.
 Sa’d al-Ash’ari:
@@ -311,11 +263,7 @@ as it had been filled with oppression and injustice**.”[^10]
 
 Al-Haj Muhammad Zakariya again comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده معتبر
-  </p>
-</blockquote>
+> إسناده معتبر
 
 Its chain is reliable.[^11]
 
@@ -328,13 +276,9 @@ The Liar had only exploited the situation of things at that time. Imam
 Hasan al-Askari had hidden his only child in Madinah, far away from Iraq
 where he himself lived, because of these words he said:
 
-<blockquote dir="rtl">
-  <p>
-يا أحمد بن إسحاق لولا كرامتك على الله عز وجل وعلى حججه ما عرضت عليك
-ابني هذا، إنه سمي رسول الله صلى الله عليه وآله وكنيه، الذي يملأ الأرض
-قسطا وعدلا كما ملئت جورا وظلما.
-  </p>
-</blockquote>
+> يا أحمد بن إسحاق لولا كرامتك على الله عز وجل وعلى حججه ما عرضت عليك
+> ابني هذا، إنه سمي رسول الله صلى الله عليه وآله وكنيه، الذي يملأ الأرض
+> قسطا وعدلا كما ملئت جورا وظلما.
 
 O Ahmad b. Ishaq! If not for your honour before Allah the Almighty and
 before His *Hujjahs*, I would not have shown you this son of mine.
@@ -348,16 +292,12 @@ The previous Imams before al-Askari had indicated this in their various
 statements to some of their followers. For instance, Shaykh al-Saduq has
 this authentic *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن محمد بن يحيى العطار قال: حدثنا أبي عن محمد بن عبد الجبار
-عن أبي أحمد محمد بن زياد الأزدي عن أبان بن عثمان عن ثابت بن دينار عن
-سيد العابدين علي بن الحسين عن سيد الشهداء الحسين بن علي عن سيد
-الأوصياء أمير المؤمنين علي بن أبي طالب عليه السلام قال: قال لي رسول
-الله صلى الله عليه وآله الأئمة من بعدي اثنا عشر ولهم أنت يا علي وآخرهم
-القائم الذي يفتح الله تبارك وتعالى ذكره على يديه مشارق الأرض ومغاربها.
-  </p>
-</blockquote>
+> حدثنا أحمد بن محمد بن يحيى العطار قال: حدثنا أبي عن محمد بن عبد الجبار
+> عن أبي أحمد محمد بن زياد الأزدي عن أبان بن عثمان عن ثابت بن دينار عن
+> سيد العابدين علي بن الحسين عن سيد الشهداء الحسين بن علي عن سيد
+> الأوصياء أمير المؤمنين علي بن أبي طالب عليه السلام قال: قال لي رسول
+> الله صلى الله عليه وآله الأئمة من بعدي اثنا عشر ولهم أنت يا علي وآخرهم
+> القائم الذي يفتح الله تبارك وتعالى ذكره على يديه مشارق الأرض ومغاربها.
 
 Ahmad b. Muhammad b. Yahya al-‘Aṭṭar – my father – Muhammad b. ‘Abd
 al-Jabbar – Abu Ahmad Muhammad b. Ziyad al-Azdi – Aban b. ‘Uthman –
@@ -373,11 +313,7 @@ and its west.”[^12]
 
 Al-Haj Muhammad Zakariya says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده معتبر
-  </p>
-</blockquote>
+> إسناده معتبر
 
 Its chain is reliable.[^13]
 
@@ -386,18 +322,14 @@ already proved in this book and in others.
 
 Shaykh al-Saduq documents again:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن زياد بن جعفر الهمداني قال: حدثنا علي بن إبراهيم بن هاشم
-عن أبيه عن محمد بن أبي عمير عن غياث بن إبراهيم عن الصادق جعفر بن محمد
-عن أبيه محمد بن علي عن أبيه علي بن الحسين عن أبيه الحسين بن علي عليه
-السلام قال: سئل أمير المؤمنين عليه السلام عن معنى قول رسول الله صلى
-الله عليه وآله انى مخلف فيكم الثقلين كتاب الله وعترتي من العترة؟ فقال:
-انا والحسن والحسين والأئمة التسعة من ولد الحسين تاسعهم مهديهم وقائمهم
-لا يفارقون كتاب الله ولا يفارقهم حتى يردوا على رسول الله صلى الله عليه
-وآله حوضه.
-  </p>
-</blockquote>
+> حدثنا أحمد بن زياد بن جعفر الهمداني قال: حدثنا علي بن إبراهيم بن هاشم
+> عن أبيه عن محمد بن أبي عمير عن غياث بن إبراهيم عن الصادق جعفر بن محمد
+> عن أبيه محمد بن علي عن أبيه علي بن الحسين عن أبيه الحسين بن علي عليه
+> السلام قال: سئل أمير المؤمنين عليه السلام عن معنى قول رسول الله صلى
+> الله عليه وآله انى مخلف فيكم الثقلين كتاب الله وعترتي من العترة؟ فقال:
+> انا والحسن والحسين والأئمة التسعة من ولد الحسين تاسعهم مهديهم وقائمهم
+> لا يفارقون كتاب الله ولا يفارقهم حتى يردوا على رسول الله صلى الله عليه
+> وآله حوضه.
 
 Ahmad b. Ziyad b. Ja’far al-Hamdani – ‘Ali b. Ibrahim b. Hashim – his
 father – Muhammad b. Abi ‘Umayr – Ghayath b. Ibrahim – al-Sadiq Ja’far
@@ -417,11 +349,7 @@ Lake-Fount.”[^14]
 
 Al-Haj Muhammad Zakariya comments on it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^15]
 
@@ -440,14 +368,10 @@ These realities understandably forced him to hide his son – whom he
 believed to be the Awaited Mahdi – from everyone except a tiny, trusted
 few. Shaykh al-Mufid explains it better:
 
-<blockquote dir="rtl">
-  <p>
-وخلف ابنه المنتظر لدولة الحق. وكان قد أخفى مولده وستر أمره، لصعوبة
-الوقت، وشدة طلب سلطان الزمان له، واجتهاده في البحث عن أمره، ولما شاع
-من مذهب الشيعة الإمامية فيه، وعرف من انتظارهم له، فلم يظهر ولده عليه
-السلام في حياته، ولا عرفه الجمهور بعد وفاته.
-  </p>
-</blockquote>
+> وخلف ابنه المنتظر لدولة الحق. وكان قد أخفى مولده وستر أمره، لصعوبة
+> الوقت، وشدة طلب سلطان الزمان له، واجتهاده في البحث عن أمره، ولما شاع
+> من مذهب الشيعة الإمامية فيه، وعرف من انتظارهم له، فلم يظهر ولده عليه
+> السلام في حياته، ولا عرفه الجمهور بعد وفاته.
 
 He (i.e. al-Askari) left behind his son, the Awaited One, for the true
 government. He had hidden his birth and concealed his affair, due to the
@@ -487,12 +411,8 @@ strength.
 The second Sunni objection – which is even more ridiculous than the
 first – is this claim of Ibn Taymiyyah:
 
-<blockquote dir="rtl">
-  <p>
-والإمامية الذين يزعمون أنه كان له ولد يدعون أنه دخل السرداب بسامرا وهو
-صغير منهم من قال عمره سنتان ومنهم من قال ثلاث ومنهم من قال خمس سنين
-  </p>
-</blockquote>
+> والإمامية الذين يزعمون أنه كان له ولد يدعون أنه دخل السرداب بسامرا وهو
+> صغير منهم من قال عمره سنتان ومنهم من قال ثلاث ومنهم من قال خمس سنين
 
 The Imamiyyah who claim that he had a son say that **he (the son)
 entered the cellar in Samara while he was still young**. Among them are
@@ -509,14 +429,10 @@ opinion, however, is that none knows the location of the Imam except
 some special members of his family. Of course, everyone knows that
 cellar! Al-Kulayni reports:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن محمد بن الحسين، عن ابن محبوب، عن إسحاق بن عمار قال:
-قال أبو عبد الله عليه السلام: للقائم غيبتان: إحداهما قصيرة والأخرى
-طويلة، الغيبة الأولى لا يعلم بمكانه فيها إلا خاصة شيعته، والأخرى لا
-يعلم بمكانه فيها إلا خاصة مواليه.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن محمد بن الحسين، عن ابن محبوب، عن إسحاق بن عمار قال:
+> قال أبو عبد الله عليه السلام: للقائم غيبتان: إحداهما قصيرة والأخرى
+> طويلة، الغيبة الأولى لا يعلم بمكانه فيها إلا خاصة شيعته، والأخرى لا
+> يعلم بمكانه فيها إلا خاصة مواليه.
 
 Muhammad b. Yahya – Muhammad b. al-Husayn – Ibn Mahbub – Ishaq b.
 ‘Ammar:
@@ -529,31 +445,19 @@ except his special relatives**.”[^17]
 
 Al-Majlisi says about it:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*[^18]
 
 Al-Haj Muhammad Zakariya also comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح أو موثق
-  </p>
-</blockquote>
+> إسناده صحيح أو موثق
 
 Its chain is *sahih* or *muwaththaq*.[^19]
 
 Explaining the *hadith*, al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-) إلا خاصة مواليه ( أي خدمه وأهله وأولاده
-  </p>
-</blockquote>
+> ) إلا خاصة مواليه ( أي خدمه وأهله وأولاده
 
 (except his special relatives) meaning, his servants, family and
 children.[^20]
@@ -564,14 +468,10 @@ the cellar which is known to all and sundry!
 Meanwhile, Imam al-Hujjah regularly comes out of his location to attend
 *Hajj* rites. Al-Kulayni further documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا عبد الله بن جعفر
-الحميري، عن محمد بن عثمان العمري رضي الله عنه قال: سمعته يقول: والله
-إن صاحب هذا الامر ليحضر الموسم كل سنة فيرى الناس ويعرفهم ويرونه ولا
-يعرفونه.
-  </p>
-</blockquote>
+> حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا عبد الله بن جعفر
+> الحميري، عن محمد بن عثمان العمري رضي الله عنه قال: سمعته يقول: والله
+> إن صاحب هذا الامر ليحضر الموسم كل سنة فيرى الناس ويعرفهم ويرونه ولا
+> يعرفونه.
 
 Muhammad b. Musa b. al-Mutawakil, may Allah be pleased with him – ‘Abd
 Allah b. Ja’far al-Himyari:
@@ -583,11 +483,7 @@ pilgrimage every year**. So, he sees the people and recognizes them.
 
 Al-Haj Muhammad Zakariya also comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^22]
 
@@ -686,5 +582,4 @@ Jama’at al-Mudarisin; 1405 H) [annotator: ‘Ali Akbar al-Ghiffari], p.
 al-Muntazar (Majmu’at al-Rasid; 1st edition, 1434 H), pp. 31-32, \# 22
 
 [^23]: Qur’an 10:35
-
 

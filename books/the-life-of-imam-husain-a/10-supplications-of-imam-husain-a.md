@@ -164,7 +164,7 @@ to do so, except by Your grace,  
 ------------------------------------------------------------------------
 
 **[1]** His Eminence (a.s.) in accordance with the command of Allah has
-indicated towards the 7<sup>th</sup> verse of Surah Ibrahim which says:
+indicated towards the 7th verse of Surah Ibrahim which says:
 If you are grateful, I would certainly give to you more…
 
 which alone makes incumbent upon me never-ending and ever renewed

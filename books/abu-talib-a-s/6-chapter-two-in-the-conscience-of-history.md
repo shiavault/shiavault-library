@@ -182,7 +182,6 @@ Prophet, p.65-66.
 Anwar, vol.6 p.543, Sheikhul Abtah, p.51, Mo'jamul Quboor, vol.1 p.197,
 A'yan ash-Shia, vol.3 p.7, vol.39, p.127.
 
-
 **PLEASANT MENTION**
 
 The sayings of the Prophet (s) The situations of Abu Talib would never
@@ -809,5 +808,4 @@ wonderful image it was! It showed us the powerfullness and the firmness
 of the Muslims in realizing the rightness and defeating the falseness
 even if the victims were their fathers and sons as they were described
 by the holy Quran.
-
 

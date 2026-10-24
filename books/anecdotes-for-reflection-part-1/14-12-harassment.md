@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اَنَّ الَّّذِينَ يُؤذُونَ اللهَ وَ رَسُولَهُ لَعَنَهُمُ اللهُ فِي
-الدُّنْياَ وَ الْآخِرَة
-  </p>
-</blockquote>
+> اَنَّ الَّّذِينَ يُؤذُونَ اللهَ وَ رَسُولَهُ لَعَنَهُمُ اللهُ فِي
+> الدُّنْياَ وَ الْآخِرَة
 
 *(Verily those who annoy Allah and His Messenger - Allah has cursed them
 in this World and in the Hereafter.)*[^1]
 
 The Holy Prophet (s.a.w.) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَحِلُّ لِلْمُسلِمِ اَن يُشِيْرَ اِلَى اَخِيهِ بِنَظْرَةٍ تُؤذِيهِ
-  </p>
-</blockquote>
+> لاَ يَحِلُّ لِلْمُسلِمِ اَن يُشِيْرَ اِلَى اَخِيهِ بِنَظْرَةٍ تُؤذِيهِ
 
 *(It is not permissible for a Muslim to look at a brother Muslim in a
 manner that hurts and inconveniences him.)*[^2]
@@ -275,5 +267,4 @@ vol. 3, pg. 122.
 [^7]: These were stupid, brutish and wee-eyed people.
 
 [^8]: Muntahal Aa’maal, vol. 2, pgs. 378 – 384.
-
 

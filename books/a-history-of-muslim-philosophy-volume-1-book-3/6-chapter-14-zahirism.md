@@ -874,4 +874,3 @@ Translation by Ockley, pp. 101 (157f.), 116‑19 (171‑76). See also Ibn
 Tufail and His Philo­sophical Romance (1st ed.), pp. 58f., 77‑83 (second
 ed.), pp. 37f., 57‑61.
 
-

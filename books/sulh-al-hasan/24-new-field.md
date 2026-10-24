@@ -243,4 +243,3 @@ protection in the church at Bousir. I (i.e., the author) wonder: Why did
 Marwan not seek protection in the Mosques? See Ibn al-Athir, al-Kamil fi
 al-Ta'rikh, vol. 5, pp. 159- 60.
 
-

@@ -63,4 +63,3 @@ tawaf after wearing ihram for Hajj and before departing from Makkah. If
 one does so, one must, as a matter of precaution, renew the talbiyah
 after tawaf.
 
-

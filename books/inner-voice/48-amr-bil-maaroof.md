@@ -42,4 +42,3 @@ correct. It was I who was wrong”.
 The old man learnt his lesson. But this episode will continue to show
 the preachers also how to preach.
 
-

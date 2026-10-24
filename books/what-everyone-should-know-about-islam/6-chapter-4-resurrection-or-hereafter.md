@@ -414,4 +414,3 @@ immortal therein.” (The Holy Qur’an, 43:71)
 
 [^12]: Nahj al-Balaghah (Printed in Egypt), Part-2, p-253.
 
-

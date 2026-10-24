@@ -9,12 +9,8 @@ themselves before the Almighty Allah for accounting of their deeds.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا يَظُنُّ أُوْلَئِكَ أَنَّهُم مَّبْعُوثُونَ \* لِيَوْمٍ عَظِيمٍ \*
-يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ‏
-  </p>
-</blockquote>
+> أَلَا يَظُنُّ أُوْلَئِكَ أَنَّهُم مَّبْعُوثُونَ \* لِيَوْمٍ عَظِيمٍ \*
+> يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ‏
 
 ***Do not these think that they shall be raised again, for a mighty day,
 the day on which men shall stand before the Lord of the worlds?
@@ -23,12 +19,8 @@ the day on which men shall stand before the Lord of the worlds?
 According to the Holy Quran, the occurrence of Qiyamat is imminent and
 no one should have any doubt in it. It says:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ لَآ إِلَهَ إِلَّا هُوَ لَيَجْمَعَنَّكُمْ إِلَى يَوْمِ
-الْقِيَمَةِ لَا رَيْبَ فِيهِ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثاً
-  </p>
-</blockquote>
+> اللَّهُ لَآ إِلَهَ إِلَّا هُوَ لَيَجْمَعَنَّكُمْ إِلَى يَوْمِ
+> الْقِيَمَةِ لَا رَيْبَ فِيهِ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثاً
 
 ***Allah, there is no god but He – He will most certainly gather you
 together on the resurrection day, there is no doubt in it; and who is
@@ -43,13 +35,9 @@ matter.
 
 The Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الإِْنْسَانُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيّاً \*
-أَوَلَا يَذْكُرُ الْإِنسَانُ أَنَّا خَلَقْنَاهُ مِن قَبْلُ وَلَمْ يَكُ
-شَيْئاً
-  </p>
-</blockquote>
+> وَيَقُولُ الإِْنْسَانُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيّاً \*
+> أَوَلَا يَذْكُرُ الْإِنسَانُ أَنَّا خَلَقْنَاهُ مِن قَبْلُ وَلَمْ يَكُ
+> شَيْئاً
 
 ***And says man: What! when I am dead shall I truly be brought forth
 alive? Does not man remember that We created him before, when he was
@@ -61,43 +49,31 @@ lifeless matter and then gave life to him. To enliven him a second time
 is obviously easier than the first creation and I have the power to do
 this. The following verses are clear evidences of it:
 
-<blockquote dir="rtl">
-  <p>
-يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَىِ‏ّ
-وَيُحْىِ الْأَرْضَ بَعْدَ مَوْتِهَا وَكَذَ لِكَ تُخْرَجُونَ
-  </p>
-</blockquote>
+> يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَىِ‏ّ
+> وَيُحْىِ الْأَرْضَ بَعْدَ مَوْتِهَا وَكَذَ لِكَ تُخْرَجُونَ
 
 ***He brings forth the living from the dead and brings forth the dead
 from the living, and gives life to the earth after its death, and thus
 shall you be brought forth. (30:19)***
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِى يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ
-عَلَيْهِ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِى يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ
+> عَلَيْهِ
 
 ***And He it is Who originates the creation, then reproduces it, and it
 is easy to Him… (30:27)***
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا النَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا
-خَلَقْنَكُمْ مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ
-ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ
-لَكُمْ وَنُقِرُّ فِى الْأَرْحَامِ مَا نَشَآءُ إِلَى‏ أَجَلٍ مُّسَمّىً
-ثُمَّ نُخْرِجُكُمْ طِفْلاً ثُمَّ لِتَبْلُغُواْ أَشُدَّكُمْ وَمِنكُم
-مَّن يُتَوَفَّى‏ وَمِنكُم مَّن يُرَدُّ إِلَى‏ أَرْذَلِ الْعُمُرِ
-لِكَيْلاَ يَعْلَمَ مِن بَعْدِ عِلْمٍ شَيْئاً وَتَرَى الْأَرْضَ
-هَامِدَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا الْمَآءَ اهْتَزَّتْ وَرَبَتْ
-وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ‏ \* ذَلِكَ بِأَنَّ اللَّهَ هُوَ
-الْحَقُّ وَأَنَّهُ يُحْىِ الْمَوْتَى‏ وَأَنَّهُ عَلَى‏ كُلِّ شَىْ‏ءٍ
-قَدِيرٌ \* وَأَنَّ السَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ
-اللَّهَ يَبْعَثُ مَن فِى الْقُبُورِ
-  </p>
-</blockquote>
+> يَأَيُّهَا النَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا
+> خَلَقْنَكُمْ مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ
+> ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ
+> لَكُمْ وَنُقِرُّ فِى الْأَرْحَامِ مَا نَشَآءُ إِلَى‏ أَجَلٍ مُّسَمّىً
+> ثُمَّ نُخْرِجُكُمْ طِفْلاً ثُمَّ لِتَبْلُغُواْ أَشُدَّكُمْ وَمِنكُم
+> مَّن يُتَوَفَّى‏ وَمِنكُم مَّن يُرَدُّ إِلَى‏ أَرْذَلِ الْعُمُرِ
+> لِكَيْلاَ يَعْلَمَ مِن بَعْدِ عِلْمٍ شَيْئاً وَتَرَى الْأَرْضَ
+> هَامِدَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا الْمَآءَ اهْتَزَّتْ وَرَبَتْ
+> وَأَنبَتَتْ مِن كُلِّ زَوْجٍ بَهِيجٍ‏ \* ذَلِكَ بِأَنَّ اللَّهَ هُوَ
+> الْحَقُّ وَأَنَّهُ يُحْىِ الْمَوْتَى‏ وَأَنَّهُ عَلَى‏ كُلِّ شَىْ‏ءٍ
+> قَدِيرٌ \* وَأَنَّ السَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ
+> اللَّهَ يَبْعَثُ مَن فِى الْقُبُورِ
 
 ***O people! if you are in doubt about the raising, then surely We
 created you from dust, then from a small seed, then from a clot, then
@@ -170,11 +146,7 @@ and raising of people for Qiyamat is just like the creation of a single
 person and not more than that. The Almighty Allah says in the Holy
 Quran:
 
-<blockquote dir="rtl">
-  <p>
-مَاخَلْقُكُمْ وَلَابَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ
-  </p>
-</blockquote>
+> مَاخَلْقُكُمْ وَلَابَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ
 
 ***Neither your creation nor your raising is anything but as a single
 soul… (31:28)***[^4]
@@ -198,5 +170,4 @@ after death.[^5]
 [^4]: Biharul Anwar, Vol. 7, Pg. 47.
 
 [^5]: Biharul Anwar, Vol. 7, Pg. 42.
-
 

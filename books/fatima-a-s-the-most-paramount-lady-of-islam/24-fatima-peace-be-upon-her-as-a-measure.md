@@ -24,4 +24,3 @@ In the history of the wOmmen world, we do not know a woman like her to
 be the measure and sample. All Fatima’s attributes make her more adorned
 than others and give a distinguished face to her.
 
-

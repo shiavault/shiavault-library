@@ -4,36 +4,16 @@ Section 7: Hud Exhorts His People to Guard Themselves Against Evil
 Surah Ash-Shu‘ara - Verses 123-126
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ عَادٌ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> كَذَّبَتْ عَادٌ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلاَ تَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
-  </p>
-</blockquote>
+> إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
-رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
+> رَبِّ الْعَالَمِينَ
 
 ***123. “The ‘Ad (people) belied the messengers.”***  
 ***124. “When their brother Hud said to them: ‘Will you not fear
@@ -105,29 +85,13 @@ from the Lord of the worlds.”***
 Surah Ash-Shu‘ara - Verses 128-131
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ
-  </p>
-</blockquote>
+> أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
-  </p>
-</blockquote>
+> وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ
-  </p>
-</blockquote>
+> وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
 ***128. “Do you build a landmark on every height for vain delight?”***  
 ***129. “And you get strong buildings in the hope of living therein for
@@ -272,29 +236,13 @@ he says:
 Surah Ash-Shu‘ara - Verses 132-135
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا الَّذِي أَمَدَّكُم بِمَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَاتَّقُوا الَّذِي أَمَدَّكُم بِمَا تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمَدَّكُم بِأَنْعَامٍ وَبَنِينَ
-  </p>
-</blockquote>
+> أَمَدَّكُم بِأَنْعَامٍ وَبَنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَجَنَّاتٍ وَعُيُونٍ
-  </p>
-</blockquote>
+> وَجَنَّاتٍ وَعُيُونٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
 
 ***132. “And be in awe of Him Who has succoured you with what you
 know.”***  
@@ -399,12 +347,8 @@ punishment: among people with Allah on the Hereafter Day.”*[^4]
 Surah Ash-Shu‘ara - Verse 136
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا سَوَاء عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ
-الْوَاعِظِينَ
-  </p>
-</blockquote>
+> قَالُوا سَوَاء عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ
+> الْوَاعِظِينَ
 
 ***136. “They said: 'It is the same to us whether you admonish or be not
 of the admonishers.”***
@@ -425,30 +369,14 @@ the admonishers.”***
 Surah Ash-Shu‘ara - Verses 137-140
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هَذَا إِلاَّ خُلُقُ الأَوَّلِينَ
-  </p>
-</blockquote>
+> إِنْ هَذَا إِلاَّ خُلُقُ الأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نَحْنُ بِمُعَذَّبِينَ
-  </p>
-</blockquote>
+> وَمَا نَحْنُ بِمُعَذَّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ
-أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ
+> أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***137. “This (preaching) is naught but a custom of the ancients.”***  
 ***138. “And we are not going to be punished.”***  
@@ -516,5 +444,4 @@ flee for any body.
 [^3]: Surah Ash-Sh‘ara’, No. 26, verse 189
 
 [^4]: Nahj-ul-Fisahah, P. 59, and Kanz-ul-‘Ummal, Vol. 3, P. 500
-
 

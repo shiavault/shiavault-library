@@ -3,12 +3,8 @@ Lesson Forty Six: Man, what is your price?
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ لَيْسَ لاِنْفُسِكُمْ ثَمَنٌ إلاّ الْجَنَّةُ فَلا تَبِيْعُوها
-إِلاَّ بِها.
-  </p>
-</blockquote>
+> إنَّهُ لَيْسَ لاِنْفُسِكُمْ ثَمَنٌ إلاّ الْجَنَّةُ فَلا تَبِيْعُوها
+> إِلاَّ بِها.
 
 Translation
 -----------
@@ -37,5 +33,4 @@ in paradise. This is the thing to buy with your life ; it is worthy of
 every endeavor, attempt and sacrifice one can make.
 
 [^1]: Nahjul Balaghah
-
 

@@ -106,8 +106,5 @@ In the Islamic law it is haraam to play chess to make others play it and
 buy or sell the instruments of Chess. This is found in a number of
 traditions.
 
-
-
 [^1]: Surah Anbiya 21:52
-
 

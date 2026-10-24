@@ -475,7 +475,6 @@ Though the subject is rather technical, yet we propose to discuss it
 briefly, to remove the doubts of the evil-minded persons and to
 elucidate the teachings of Islam in this respect.
 
-
 Some deadlocks are not peculiar to the questions of marriage and
 divorce. They appear in other spheres also, such as those related to the
 financial problems. Let us first see how Islam has dealt with the

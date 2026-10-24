@@ -466,7 +466,6 @@ no intercessor more successful then Tawbah (Repentance.)"
 There is, also Mercy of God, and intercession of Holy Prophet and the
 Imams on behalf of the sinners, but this also is not "automatic."
 
-
 **APPENDIX**
 
 The question No. 105 was asked by a Muslim of Bukoba in 1970. An
@@ -491,7 +490,5 @@ give him a chance of spreading "misinformation". But as mentioned in the
 preface. Volume 3 having become somewhat bulky it is included in this
 4th volume.
 
-
 S.S.A.Rizvi
-
 

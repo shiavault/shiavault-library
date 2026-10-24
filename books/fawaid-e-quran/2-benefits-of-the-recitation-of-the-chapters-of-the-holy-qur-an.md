@@ -1879,4 +1879,3 @@ will be protected from *Jinnat*. Reciting the *Ma’udhatayn* before
 sleeping is a means of safety and if recited on any part of the body
 that is paining, the pain will be relieved.
 
-

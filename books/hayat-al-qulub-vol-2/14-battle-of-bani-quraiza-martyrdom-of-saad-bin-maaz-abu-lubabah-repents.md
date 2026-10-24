@@ -182,15 +182,11 @@ potable water. He used to urge his men to behave with them nicely. Thus
 they were all killed, so the Almighty Allah revealed the following
 verses about this incident:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْزَلَ الَّذِينَ ظَاهَرُوهُمْ مِنْ أَهْلِ الْكِتَابِ مِنْ
-صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ
-وَتَأْسِرُونَ فَرِيقًا. وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ
-وَأَمْوَالَهُمْ وَأَرْضًا لَمْ تَطَئُوهَا ۚ وَكَانَ اللَّهُ عَلَىٰ
-كُلِّ شَيْءٍ قَدِيرًا.
-  </p>
-</blockquote>
+> وَأَنْزَلَ الَّذِينَ ظَاهَرُوهُمْ مِنْ أَهْلِ الْكِتَابِ مِنْ
+> صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ
+> وَتَأْسِرُونَ فَرِيقًا. وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ
+> وَأَمْوَالَهُمْ وَأَرْضًا لَمْ تَطَئُوهَا ۚ وَكَانَ اللَّهُ عَلَىٰ
+> كُلِّ شَيْءٍ قَدِيرًا.
 
 ***“And He drove down those of the followers of the Book who backed them
 from their fortresses and He cast awe into their hearts; some you killed
@@ -323,5 +319,4 @@ Merciful?”***[^2]
 [^1]: Surah Ahzab 33:26-27
 
 [^2]: Surah Taubah 9:102-104
-
 

@@ -34,15 +34,10 @@ guided so follow the guidance.
 heedlessness, and curb (or cut short) your haste [towards sins].
 
 > 7ـ أفِقْ أَيُّهَا السّامِعُ مِنْ سَكْرَتِكَ، واسْتَيْقِظْ مِنْ
-<blockquote dir="rtl">
-  <p>
-غَفْلَتِكَ، وَاحْتَصِرْ(اِخْتَصِرْ) مِنْ عَجَلَتِكَ.
-  </p>
-</blockquote>
+> غَفْلَتِكَ، وَاحْتَصِرْ(اِخْتَصِرْ) مِنْ عَجَلَتِكَ.
 
 8. Is there nobody who will wake up from his [slumber of] negligence
 before his time [on this earth] ends?
 
 > 8ـ اَلا مُسْتَيْقِظٌ مِنْ غَفْلَتِهِ قَبْلَ نَفادِ مُدَّتِهِ.
-
 

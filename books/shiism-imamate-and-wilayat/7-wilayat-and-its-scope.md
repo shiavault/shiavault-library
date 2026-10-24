@@ -994,4 +994,3 @@ Intisharat-e Wijdani, 1368 A.H. solar) p. 35.
 [^37]: Al-Gharawi, Mirza 'Ali, at-Tanqíh fi Sharhi 'l-'Urwati 'l-Wuthqa,
 vol. 2 (Qum: Dar al-Hadi, 1410 AH) p. 86.
 
-

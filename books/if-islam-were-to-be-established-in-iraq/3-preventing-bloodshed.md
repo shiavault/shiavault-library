@@ -271,4 +271,3 @@ Islam", "al-Fiqh series, vols. 105-106 'Politics'", "al-Fiqh series,
 'The Path of Salvation'" by the author and "Council of the Jurists" by
 Murtadha Shirazi.
 
-

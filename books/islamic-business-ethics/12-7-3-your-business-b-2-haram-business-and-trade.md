@@ -659,4 +659,3 @@ US News & World Report, June 7, 1999.
 
 [^22]: Man la Yahduruhu ‘l-Faqih, vol.3, p.176
 
-

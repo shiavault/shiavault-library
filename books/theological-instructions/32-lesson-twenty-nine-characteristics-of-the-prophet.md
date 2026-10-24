@@ -256,4 +256,3 @@ yes, can you provide some examples?
 10. How did the Jinn react regarding the acceptance or rejection of the
 prophets’ invitations?
 
-

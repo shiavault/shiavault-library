@@ -435,4 +435,3 @@ and virtue.
 Further illustrations of this view can be cited from the Nahj
 al-balaghah, but it seems that the above quotations are sufficient.
 
-

@@ -18,4 +18,3 @@ terrible deeds.
 
 [^1]: Meaning it causes them to get humiliated.
 
-

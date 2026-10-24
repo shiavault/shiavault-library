@@ -4,17 +4,9 @@ Sermon 146: In this matter, victory or defeat….
 *Spoken when \`Umar ibn al-Khattab consulted Amir al-mu'minin about
 taking part in the battle of Persia.* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وقد استشاره عمر بن الخطاب في الشخوص لقتال الفرس بنفسه
-  </p>
-</blockquote>
+> وقد استشاره عمر بن الخطاب في الشخوص لقتال الفرس بنفسه
 
 In this matter, victory or defeat is not dependent on the smallness or
 greatness of forces. It is Allah's religion which He has raised above
@@ -23,15 +15,11 @@ has reached the point where it stands now, and has arrived its present
 positions. We hold a promise from Allah, and He will fulfil His promise
 and support His army.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هذَا الاْمْرَ لَمْ يَكُنْ نَصْرُهُ وَلاَ خِذْلاَنُهُ بِكَثْرَة
-وَلاَ بِقِلَّة، وَهُوَ دِينُ اللهِ الَّذِي أَظْهَرَهُ، وَجُنْدُهُ
-الَّذِي أَعَدَّهُ وَأَمَدَّهُ، حَتَّى بَلَغَ مَا بَلَغَ، وَطَلَعَ
-حَيْثُ طَلَعَ، وَنَحْنُ عَلَى مَوْعُود مِنَ اللهِ، وَاللهُ مُنْجِزٌ
-وَعْدَهُ، وَنَاصِرٌ جُنْدَهُ.
-  </p>
-</blockquote>
+> إِنَّ هذَا الاْمْرَ لَمْ يَكُنْ نَصْرُهُ وَلاَ خِذْلاَنُهُ بِكَثْرَة
+> وَلاَ بِقِلَّة، وَهُوَ دِينُ اللهِ الَّذِي أَظْهَرَهُ، وَجُنْدُهُ
+> الَّذِي أَعَدَّهُ وَأَمَدَّهُ، حَتَّى بَلَغَ مَا بَلَغَ، وَطَلَعَ
+> حَيْثُ طَلَعَ، وَنَحْنُ عَلَى مَوْعُود مِنَ اللهِ، وَاللهُ مُنْجِزٌ
+> وَعْدَهُ، وَنَاصِرٌ جُنْدَهُ.
 
 The position of the head of government is that of the thread for beads,
 as it connects them and keeps them together. If the thread is broken,
@@ -43,19 +31,15 @@ their root. Avoid battle, because if you leave this place the Arabs will
 attack you from all sides and directions till the unguarded places left
 behind by you will become more important than those before you.
 
-<blockquote dir="rtl">
-  <p>
-وَمَكَانُ الْقَيِّمِ بِالاْمْرِ مَكَانُ النِّظَامِ مِنَ الْخَرَزِ
-يَجْمَعُهُ وَيَضُمُّهُ: فَإِنِ انْقَطَعَ النِّظَامُ تَفَرَّقَ
-وَذَهَبَ، ثُمَّ لَمْ يَجْتَمِعُ بِحَذَافِيرِهِ أَبَداً. وَالْعَرَبُ
-الْيَومَ وَإِنْ كَانُوا قَلِيلاً، فَهُمْ كَثِيرُونَ بَالاْسْلاَمِ،
-عَزِيزُونَ بَالاجْتِماعِ! فَكُنْ قُطْباً، وَاسْتَدِرِ الرَّحَا
-بِالْعَرَبِ، وَأَصْلِهِمْ دُونَكَ نَارَ الْحَرْبِ، فَإِنَّكَ إِنْ
-شَخَصْتَ مِنْ هذِهِ الاَرْضِ انْتَقَضَتْ عَلَيْكَ الْعَرَبُ مِنْ
-أَطْرَافِهَا وَأَقْطَارِهَا، حَتَّى يَكُونَ مَا تَدَعُ وَرَاءَكَ مِنَ
-الْعَوْرَاتِ أَهَمَّ إِلَيْكَ مِمَّا بَيْنَ يَدَيْكَ.
-  </p>
-</blockquote>
+> وَمَكَانُ الْقَيِّمِ بِالاْمْرِ مَكَانُ النِّظَامِ مِنَ الْخَرَزِ
+> يَجْمَعُهُ وَيَضُمُّهُ: فَإِنِ انْقَطَعَ النِّظَامُ تَفَرَّقَ
+> وَذَهَبَ، ثُمَّ لَمْ يَجْتَمِعُ بِحَذَافِيرِهِ أَبَداً. وَالْعَرَبُ
+> الْيَومَ وَإِنْ كَانُوا قَلِيلاً، فَهُمْ كَثِيرُونَ بَالاْسْلاَمِ،
+> عَزِيزُونَ بَالاجْتِماعِ! فَكُنْ قُطْباً، وَاسْتَدِرِ الرَّحَا
+> بِالْعَرَبِ، وَأَصْلِهِمْ دُونَكَ نَارَ الْحَرْبِ، فَإِنَّكَ إِنْ
+> شَخَصْتَ مِنْ هذِهِ الاَرْضِ انْتَقَضَتْ عَلَيْكَ الْعَرَبُ مِنْ
+> أَطْرَافِهَا وَأَقْطَارِهَا، حَتَّى يَكُونَ مَا تَدَعُ وَرَاءَكَ مِنَ
+> الْعَوْرَاتِ أَهَمَّ إِلَيْكَ مِمَّا بَيْنَ يَدَيْكَ.
 
 If the Persians see you tomorrow they will say, "He is the root (chief)
 of Arabia. If we do away with him we will be in peace." In this way this
@@ -66,18 +50,14 @@ of preventing what He detests. As regards your idea about their (large)
 number, in the past we did not fight on the strength of large numbers
 but we fought on the basis of Allah's support and assistance.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الاَعَاجِمَ إِنْ يَنْظُرُوا إِلَيْكَ غَداً يَقُولُوا: هذا أَصْلُ
-الْعَرَبِ، فَإِذَا اقْتَطَعْتُمُوهُ اسْتَرَحْتُمْ، فَيْكُونُ ذلِكَ
-أَشَدَّ لِكَلَبِهِمْ عَلَيْكَ، وَطَمَعِهِمْ فِيكَ. فَأَمَّا مَا
-ذَكَرْتَ مِنْ مَسِيرِ الْقَوْمِ إِلَى قِتَالِ المُسْلِمِينَ، فَإِنَّ
-اللهَ سُبْحَانَهُ هُوَ أَكْرَهُ لِمَسِيرِهِمْ مِنْكَ، وَهُوَ أَقْدَرُ
-عَلَى تَغْيِيرِ مَا يَكْرَهُ . وَأَمَّا مَا ذَكَرْتَ مِنْ عَدَدِهِمْ،
-فَإِنَّا لَمْ نَكُنْ نُقَاتِلُ فِيَما مَضَى بِالْكَثْرَةِ، وَإِنَّمَا
-كُنَّا نُقَاتِلُ بِالنَّصْرِ وَالْمَعُونَةِ!
-  </p>
-</blockquote>
+> إِنَّ الاَعَاجِمَ إِنْ يَنْظُرُوا إِلَيْكَ غَداً يَقُولُوا: هذا أَصْلُ
+> الْعَرَبِ، فَإِذَا اقْتَطَعْتُمُوهُ اسْتَرَحْتُمْ، فَيْكُونُ ذلِكَ
+> أَشَدَّ لِكَلَبِهِمْ عَلَيْكَ، وَطَمَعِهِمْ فِيكَ. فَأَمَّا مَا
+> ذَكَرْتَ مِنْ مَسِيرِ الْقَوْمِ إِلَى قِتَالِ المُسْلِمِينَ، فَإِنَّ
+> اللهَ سُبْحَانَهُ هُوَ أَكْرَهُ لِمَسِيرِهِمْ مِنْكَ، وَهُوَ أَقْدَرُ
+> عَلَى تَغْيِيرِ مَا يَكْرَهُ . وَأَمَّا مَا ذَكَرْتَ مِنْ عَدَدِهِمْ،
+> فَإِنَّا لَمْ نَكُنْ نُقَاتِلُ فِيَما مَضَى بِالْكَثْرَةِ، وَإِنَّمَا
+> كُنَّا نُقَاتِلُ بِالنَّصْرِ وَالْمَعُونَةِ!
 
 Alternative Sources for Sermon 146
 ----------------------------------
@@ -148,5 +128,4 @@ tried to argue that the administration of the country could be
 maintained by leaving a deputy. Again when other people had already
 advised him to go out, what was the need for consulting Amir al-mu'minin
 except to get an excuse to stay back.
-
 

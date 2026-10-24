@@ -337,4 +337,3 @@ threw his glass on the floor and burst into tears. The Light of truth
 showed them their true selves, but for how long? Impurity within can be
 washed only by submitting to the truth, not silencing it.
 
-

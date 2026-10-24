@@ -19,7 +19,6 @@ the third Imam of Shi'ite Islam.
 We would like to express our thanks to all the scholars and erudite
 personalities for their comments and suggestions.
 
-
 M. J. Al-Yazdy
 
 **Managing Director
@@ -188,7 +187,6 @@ Sumayyah was promiscuous, it is not known who Abu Sufyan's father was.
 Muawiyah, alleging that his father Abi Sufyan had had an affair with
 Ziad's mother, declared Ziad his brother.
 
-
 **Notes:Battles**
 
 Nahrawan: The battle brought about by the Khawarij-those who revolted
@@ -286,7 +284,6 @@ Shamian: Inhabitant of Sham (Syria).
 The Ka'aba: The Muslim holy shrine, The Inviolable House of God in
 Mecca.
 
-
 **More Notes**
 
 Hunut: Annointing dead bodies with camphor. Force and Matter: This
@@ -318,7 +315,6 @@ Ziarat-e-Nahiah: A text containing prayers for the fallen in the battle
 of Karbala, composed by the 12th Imam(a). Ziarat-e-Warith: A prayer rich
 in subtleties of language, quoted from the Sinless Imams. It is said on
 Friday nights as a homage paid to the memory of Hadrat Husayn(a).
-
 
 **A Unique Event**
 
@@ -383,5 +379,4 @@ why had he been so ready to kill a descendant ofthe Prophet Muhammad(s).
 He retorted that if others had themselves seen what he had seen, they
 certainly would have done exactly as he did, adding that they had won
 the day only by force of numbers.
-
 

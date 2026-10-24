@@ -493,4 +493,3 @@ Therefore, it is incumbent upon every Muslim to know the Usul al-Din of
 his religion through reasoning and proof even if it may be a very simple
 one.
 
-

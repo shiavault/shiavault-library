@@ -12,4 +12,3 @@ inner knowing, and will be grounded in the entirety of human experience
 which extends beyond the positivistic, reductionistic, scientific
 worldview of twentieth century education.
 
-

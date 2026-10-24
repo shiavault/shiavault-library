@@ -10,4 +10,3 @@ from amongst the obligatory (wajib) acts of Allah, would be like (that
 of) one, who has performed seventy obligatory acts in the other
 months.*Wasaail al-Shia'h, vol. 10, pg. 307*
 
-

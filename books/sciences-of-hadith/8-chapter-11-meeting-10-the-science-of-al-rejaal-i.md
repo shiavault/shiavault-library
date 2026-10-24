@@ -23,11 +23,9 @@ example of those are learned on jurisprudential issues.
 Mohammad Ibn Abi Omair through Ibrahim al-Karkhi narrated from Imam
 Sadiq (a.s):
 
-<p dir="rtl">
 حديث تدريه خير من الف ترويه و لايکون الرجل منکم فقيها حتي يعرف معاريض
 کلامنا و انّ الکلمة من کلامنا لتتصرف علي سبعين وجها لنا من جميعها
 المخرج.
-</p>
 
 "To understand (Derayah) a Hadith is better than narrating one thousand
 narrations. None of you will be a Faqih (learned) until he understands
@@ -75,11 +73,9 @@ narrations of tricks'! The following is an example of these narrations:
 Kolayni and Sadooq in their authentic Esnad from Muhammad Ibn Ishaq Ibn
 Ammar asked Imam Kazem (a.s):
 
-<p dir="rtl">
 يکون لي علي الرجل دراهم فيقول: اخّرني بها و انا اربحک فابيعه جبة تقوّم
 علي بالف درهم، بعشرة آلاف درهم، او قال: بعشرين الفا و اؤخره بالمال. قال
 (ع): لا بأس.
-</p>
 
 "A man owes me some dollars. He asks me to delay his payment and in
 return he would pay my money back with interest. I sell a Jubba (long
@@ -97,10 +93,8 @@ group of narrations that apparently indicate the above rule does not
 apply to children and women! Kolayni in his authentic Esnad through
 Abu-Baseer narrated from Imam Baqir (a.s):
 
-<p dir="rtl">
 سئل عن غلام لم يدرک و امرأة قتلا رجلا خطأ؟ فقال (ع): انّ خطأ المرأة و
 الغلام عمد. فان احبّ اولياء المقتول ان يقتلوهما قتلوهما..
-</p>
 
 The Imam (a.s) was asked concerning a young boy who did not attain the
 age of puberty and a woman whom together had killed a man by mistake?
@@ -248,9 +242,7 @@ deadlocks of narrations has just begun by the Late Imam Khomeini and his
 students. Indeed, this great scholar has revived Islam in our modern
 time in various ways.
 
-
 **Chapter 14 : Meeting 13: Branches Of Fiqhul-Hadith**
-
 
 Meeting 13: Branches of Fiqhul-Hadith
 
@@ -306,9 +298,7 @@ cite some examples of the strange narrations:
 a. Many Shi'a and Sunni narrators have narrated from the Prophet of
 Islam (P):
 
-<p dir="rtl">
 اختلاف امتي رحمة
-</p>
 
 The ekhtelaf of my community is a mercy.
 
@@ -337,10 +327,8 @@ However, after several centuries the term remains ambiguous and makes it
 difficult to identify the person. For instance, in sermon 228 Imam Ali
 (a.s) while praising someone says:
 
-<p dir="rtl">
 لله بلاء (بلاد: النسخة) فلانٍ فلقد قوّم الاود و داوي العمد و اقام السنة
 و خلّف الفتنة
-</p>
 
 May Allah reward Mr. X. who straightened the curve, cured the disease,
 established the Sunna and abandoned mischief. [^152]
@@ -392,9 +380,7 @@ b. Bukhari [^155] and Muslim [^156] narrated from Abu-Horayra who
 narrated from the Prophet (s.a.w.w): Allah created Adam according to H
 is image.
 
-<p dir="rtl">
 خلق الله آدم علي صورته .
-</p>
 
 Verse 27 of the first chapter of the book of Genesis reads: So God
 created man in His image; in the image of God He created him; male and
@@ -410,11 +396,9 @@ we know the real meaning of the above Hadith.
 Husain ibn Khalid asked Imam Redha (a.s) about the meaning of the
 Hadith. The Imam (a.s) explained:
 
-<p dir="rtl">
 قاتلهم الله! لقد حذفوا اوّل الحديث. انّ رسول الله (ص) مرّ برجلين
 يتسابّان فسمع احدهما يقول لصاحبه: قبّح الله وجهک و وجه من يشبهک! فقال
 (ص): يا عبدالله لاتقل هذا لاخيک فانّ الله خلق آدم علي صورته.
-</p>
 
 May God kill them! Indeed they deleted the beginning of the Hadith. The
 Messenger of Allah ( s.a.w.w ) passed by two men who were swearing at
@@ -430,9 +414,7 @@ the letter h' should not be capital.
 
 c. Abu-Horayra narrated from the Prophet ( s.a.w.w ).
 
-<p dir="rtl">
 غيروا الشيب و لاتتشبهّوا باليهود و النصاري.
-</p>
 
 Change your aging and do not look like the Jews and the Christians.
 [^158]
@@ -442,10 +424,8 @@ elderly people. However, Imam Ali (a.s) was sometimes reluctant to dye
 his beard. Some people commented on him that why despite the Prophetic
 Hadith he did not dye his beard? He explained:
 
-<p dir="rtl">
 انما قال (ص) ذلک و الدين قُلّ فامّا الآن و قد اتّسع نطاقه و ضرب بجرانه
 فامرء و ما اختار.
-</p>
 
 Surely he ( s.a.w.w ) said so when the Muslims were not many. But now
 that the territory of Islam is expanded it is up to people as they
@@ -479,9 +459,7 @@ questions, one of the guests passed wind and its odour disturbed the
 rest. In order for the Messenger of Allah not to get embarrassed the
 offender said to every body:
 
-<p dir="rtl">
 من اکل لحم جَزور فليتوضّاء.
-</p>
 
 Whoever has eaten the meat of a camel shall make a Wudhu. [^162]
 
@@ -527,11 +505,9 @@ suggests the opposite:
 
 a. Men's desire is nine times of women:
 
-<p dir="rtl">
 محمد بن مسلم عن ابي جعفر (ع) قال: ان الله عز و جل خلق الشهوة عشرة اجزاء
 تسعة في الرجال و واحدة في النساء و ذلک لبني هاشم و شيعتهم. و في نساء بني
 امية و شيعتهم الشهوة عشرة اجزاء في النساء تسعة و في الرجال واحدة.
-</p>
 
 Muhammad ibn Muslim narrated from Imam Baqir (a.s): Surely the Almighty
 Allah created a desire in ten parts, nine parts of it are in men and one
@@ -541,11 +517,9 @@ of which is in women and one in men.? [^164]
 
 b. Women's desire is nine times of men:
 
-<p dir="rtl">
 عن اصبغ بن نباتة قال: قال امير المؤمنين (ع): خلق الله الشهوة عشرة اجزاء
 فجعل تسعة اجزاء في النساء و جزءا واحدا في الرجال. و لو لا ما جعل الله
 فيهن من الحياء علي قدر اجزاء الشهوة لکان لکل رجل تسعة متعلقات به.
-</p>
 
 Asbagh ibn Nubateh narrated from Imam Ali (a.s): Allah created the
 desire in ten parts, so He made nine parts of it in women and one part
@@ -573,11 +547,9 @@ al-Hadi (a.s) concerning the interpretation of the seven seas in the
 Ayah: With seven seas behind it to add to its (supply), yet the Words of
 Allah would not be exhausted. (31:27). The Imam said:
 
-<p dir="rtl">
 هي عين الکبريت و عين اليمن و عين البرهوت و عين الطبرية و حمّة ماسيدان و
 جمّة افريقا و عين باحروان (ماجروان- النسخة) و نحن الکلمات التي لاتدرک
 فضائلنا و لاتستقصي.
-</p>
 
 It is the spring of Al Kebrit, the spring of Yemen, the spring of Al
 Barahoot, the spring of Al Tabariah, the hot spring of Masidaan, the
@@ -600,5 +572,4 @@ Mansour Leghaei
 Imam Husain Islamic Centre
 
 Sydney Australia
-
 

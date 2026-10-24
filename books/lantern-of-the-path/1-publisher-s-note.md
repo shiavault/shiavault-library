@@ -13,4 +13,3 @@ al-Sayyid Ali Ibn at-Tawus, Shaykh al-Kaf’ami, and ash-Shahid Ath-Thani.
 In absence of unanimity, we can only say that “The Lantern of the Path”
 is generally attributed to Imam Ja’far as-Sadiq (‘a).
 
-

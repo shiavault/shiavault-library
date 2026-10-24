@@ -83,4 +83,3 @@ cease to have moral duties at all. We cannot, therefore, have a duty of
 unconditional obedience to any agent, and there therefore cannot be any
 agent that worthy of worship. There can therefore be no God.
 
-

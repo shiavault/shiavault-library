@@ -52,9 +52,7 @@ Satanic trap for ultimate downfall, and we should not be deceived by
 them. It is to be concluded that the way of Truth is the one that God,
 the Exalted, has stated:
 
-<p dir="rtl">
 ..فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ…
-</p>
 
 ***“And what is there after the truth but error?” (10:32)***
 

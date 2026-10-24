@@ -127,4 +127,3 @@ metaphor as the prime nucleus of human creativity, as the creative
 discovery of similarity[^3] . Finally, I shall set out the conclusions
 of this article and the outlook for future papers (in**section 5** ).
 
-

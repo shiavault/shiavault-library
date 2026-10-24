@@ -11,11 +11,7 @@ Consultation And Deliberation
 enmity they have [for you] and what their objectives are.
 
 > 2ـ اِسْتَشِرْ أعْداءَكَ تَعْرِفْ مِنْ رَأْيِهِمْ مِقْدارَ
-<blockquote dir="rtl">
-  <p>
-عَداوَتِهِمْ، ومَواضِعَ مَقاصِدِهِمْ.
-  </p>
-</blockquote>
+> عَداوَتِهِمْ، ومَواضِعَ مَقاصِدِهِمْ.
 
 3. Consult your intelligent enemy and be wary of the opinion of your
 ignorant friend.
@@ -31,11 +27,7 @@ action will come to light.
 mistakes are made.
 
 > 5ـ اِتَّهِمُوا عُقُولَكُمْ فَإنَّهُ مِنَ الثِّقَةِ بِها يَكُونُ
-<blockquote dir="rtl">
-  <p>
-الخَطاءُ.
-  </p>
-</blockquote>
+> الخَطاءُ.
 
 6. Consultation is [a means of] ease for you and a difficulty for
 others.
@@ -47,11 +39,7 @@ experience and the worst person whom you can associate with is the one
 with [numerous] faults.
 
 > 7ـ أفْضَلُ مَنْ شاوَرْتَ ذُو التَّجارِبِ، وَشَـرُّ مَنْ قارَنْتَ ذُو
-<blockquote dir="rtl">
-  <p>
-المَعائِبِ.
-  </p>
-</blockquote>
+> المَعائِبِ.
 
 8. Consultation is [a means of] seeking [assistance and] support.
 
@@ -78,11 +66,7 @@ adviser is unbiased while the opinion of the consulter is mixed with
 bias.
 
 > 13ـ إنَّما حُضَّ عَلَى المُشاوَرَةِ لأنَّ رَأْيَ المُشيرِ صِرفٌ ورَأيَ
-<blockquote dir="rtl">
-  <p>
-المُسْتَشيرِ مَشُوبٌ بِالهَوى.
-  </p>
-</blockquote>
+> المُسْتَشيرِ مَشُوبٌ بِالهَوى.
 
 14. The bane of consultation is contradiction of opinions.
 
@@ -97,12 +81,8 @@ seeking advice; do not delay your action of today to tomorrow, and
 perform each day’s action on that same day.
 
 > 16ـ إذا أمْضَيْتَ أمْراً فَأمْضِهِ بَعْدَ الرَّوِيَّةِ ومُراجَعَةِ
-<blockquote dir="rtl">
-  <p>
-المَشْوَرَةِ،وَلا تُؤَخِّرْ عَمَلَ يَوْم إلى غَد، وأمْضِ لِكُلِّ يَوْم
-عَمَلَهُ.
-  </p>
-</blockquote>
+> المَشْوَرَةِ،وَلا تُؤَخِّرْ عَمَلَ يَوْم إلى غَد، وأمْضِ لِكُلِّ يَوْم
+> عَمَلَهُ.
 
 17. Ignorance of the adviser is [a cause of] destruction of the
 consulter.
@@ -114,42 +94,26 @@ intelligent people to his opinion and to merge the knowledge of the wise
 with his knowledge.
 
 > 18ـ حَقٌّ عَلَى العاقِلِ أنْ يُضيفَ إلى رَأْيِهِ رَأيَ العُقَلاءِ،
-<blockquote dir="rtl">
-  <p>
-ويَضُمَّ إلى عِلْمِهِ عُلُومَ الحُكَماءِ.
-  </p>
-</blockquote>
+> ويَضُمَّ إلى عِلْمِهِ عُلُومَ الحُكَماءِ.
 
 19. It behooves the intelligent one to continuously seek the right path
 and abandon obstinacy.
 
 > 19ـ حَقٌّ عَلَى العاقِلِ أنْ يَسْتَديمَ الإرْشادَ ويَتْرُكَ
-<blockquote dir="rtl">
-  <p>
-الاِسْتِبْدادَ.
-  </p>
-</blockquote>
+> الاِسْتِبْدادَ.
 
 20. The best among those whom you consult are the people of wisdom and
 knowledge, and those who possess experience and judiciousness.
 
 > 20ـ خَيْـرُ مَنْ شاوَرْتَ ذَوُوا النُّهى والعِلْمِ، وأُولُوالتَّجارِبِ
-<blockquote dir="rtl">
-  <p>
-والحَزْمِ.
-  </p>
-</blockquote>
+> والحَزْمِ.
 
 21. Betrayal of the one who submits [to you] and the one who consults
 [you] is from the most atrocious acts and the gravest wickedness, and
 leads to punishment in hellfire.
 
 > 21ـ خِيانَةُ المُسْتَسْلِمِ والمُسْتَشيرِ مِنْ أفْظَعِ الأُمُورِ،
-<blockquote dir="rtl">
-  <p>
-وأعْظَمِ الشُّـرُورِ، ومُوجِبُ عَذابِ السَّعيرِ.
-  </p>
-</blockquote>
+> وأعْظَمِ الشُّـرُورِ، ومُوجِبُ عَذابِ السَّعيرِ.
 
 22. Consult before you decide and think before you proceed.
 
@@ -179,11 +143,7 @@ judiciousness.
 [appropriate] opinion but it is not for him to guarantee success.
 
 > 27ـ علَى المُشيرِ الاِجْتِهادُ فِي الرَّأْيِ، ولَيْسَ عَلَيْهِ ضَمانُ
-<blockquote dir="rtl">
-  <p>
-النُجْحِ.
-  </p>
-</blockquote>
+> النُجْحِ.
 
 28. The essence [and source] of guidance is in consultation.
 
@@ -239,11 +199,7 @@ through prudence and aptness?
 right result is achieved or an apologizer when a mistake is made.
 
 > 39ـ مَنْ لَزِمَ المُشاوَرَةَ لَمْ يَعْدَمْ عِنْدَ الصَّوابِ مادِحاً
-<blockquote dir="rtl">
-  <p>
-وعِنْدَ الخَطاءِ عاذِراً.
-  </p>
-</blockquote>
+> وعِنْدَ الخَطاءِ عاذِراً.
 
 40. One who seeks advice does not go astray.
 
@@ -283,51 +239,31 @@ dangerous.
 you by an inferior person.
 
 > 48ـ لاتَسْتَصْغِرَنَّ عِنْدَكَ الرَّأْيَ الخَطيرَ إذا أتاكَ بِهِ
-<blockquote dir="rtl">
-  <p>
-الرَّجُلُ الحَقيرُ.
-  </p>
-</blockquote>
+> الرَّجُلُ الحَقيرُ.
 
 49. Do not include a miser in your consultation as he will turn you away
 from the goal and frighten you with poverty.
 
 > 49ـ لاتُدْخِلَنَّ في مَشْوَرَتِكَ بَخيلاً فَيَعْدِلَ بِكَ عَنِ
-<blockquote dir="rtl">
-  <p>
-القَصْدِ ويَعِدَكَ الفَقْرَ.
-  </p>
-</blockquote>
+> القَصْدِ ويَعِدَكَ الفَقْرَ.
 
 50. Never include a coward in your consultation as he will weaken your
 resolve in the matter and [will] make a mountain out of a mole hill.
 
 > 50ـ لاتُشْرِكَنَّ في رَأْيِكَ جَباناً يُضَعِّفُكَ عَنِ الأمْرِ،
-<blockquote dir="rtl">
-  <p>
-ويُعَظِّمُ عَلَيْكَ ما لَيْسَ بِعَظيم.
-  </p>
-</blockquote>
+> ويُعَظِّمُ عَلَيْكَ ما لَيْسَ بِعَظيم.
 
 51. Do not consult the liar, for indeed he is like the mirage that makes
 the distant seem near and the near seem distant.
 
 > 51ـ لاتَسْتَشِرِ الكَذَّابَ فَإنَّهُ كَالسَّرابِ يُقَرِّبُ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-البَعيدَ وَيُبَعِدُّ عَلَيْكَ القَريبَ.
-  </p>
-</blockquote>
+> البَعيدَ وَيُبَعِدُّ عَلَيْكَ القَريبَ.
 
 52. Never include a greedy person in your consultation as he will
 facilitate evil [deeds] and glamorize avarice for you.
 
 > 52ـ لاتُشْرِكَنَّ في مَشْوَرَتِكَ حَريصاً يُهَوِّنْ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-الشَّـرَّ، وَيُزَيِّنْ لَكَ الشَّـرَهَ.
-  </p>
-</blockquote>
+> الشَّـرَّ، وَيُزَيِّنْ لَكَ الشَّـرَهَ.
 
 53. The intelligent one never dispenses with consultation.
 
@@ -342,5 +278,4 @@ than consultation.
 gone astray.
 
 > 55ـ مَنِ اسْتَغْنى بِعَقْلِهِ (بِفِعْلِهِ) ضَلَّ.
-
 

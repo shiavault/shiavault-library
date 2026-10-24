@@ -448,4 +448,3 @@ Al-Tawhid of Shaykh as-Sadiq, pp., 434-435
 [^26]: Mir’at al-’Uqul, vol. 8 pg. 146: مَا عَبَدْنَاكَ حَقَّ
 عِبَادَتِكَ.
 
-

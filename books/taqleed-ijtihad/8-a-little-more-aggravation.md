@@ -23,20 +23,16 @@ that during those days this word as a phrase was as well-known as the
 local currency. Everyone had it at the tip of their tongues. Women used
 it extensively. As a proof kindly review the following:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي بصير قال: دخلت أم خالد العبدية على ابي عبد الله عليه السلام
-وأنا عنده فقالت: جعلت فداك إنه يعتريني قراقر في بطني (فسالته عن أعلال
-النساء وقالت) وقد وصف لي أطباء العراق النبيذ بالسويق وقد وقفت وعرفت
-كراهتك له فأجببت أن أسألك عن ذلك، فقال لها: وما يمنعك عن شربه؟ قالت:
-قد قلد تك ديني فألقى الله عزوجل حين ألقاه فاخبره أن جعفر بن محمد
-عليهما السلام أمرني ونهاني فقال: يا أبا محمد ألا تسمع إلى هذه المرأة
-وهذه المسائل لا والله لا آذن لك في قطرة منه ولا تذوقي منه قطرة فإنما
-تندمين إذا بلغت نفسك ههنا وأومأ بيده إلى حنجرته يقولها ثلاثا: أفهمت؟
-قالت: نعم ثم قال أبوعبدالله عليه السلام: ما يبل الميل ينجس حبا من ماء
-يقولها ثلاثا. أفهمت؟ قالت: نعم.
-  </p>
-</blockquote>
+> عن ابي بصير قال: دخلت أم خالد العبدية على ابي عبد الله عليه السلام
+> وأنا عنده فقالت: جعلت فداك إنه يعتريني قراقر في بطني (فسالته عن أعلال
+> النساء وقالت) وقد وصف لي أطباء العراق النبيذ بالسويق وقد وقفت وعرفت
+> كراهتك له فأجببت أن أسألك عن ذلك، فقال لها: وما يمنعك عن شربه؟ قالت:
+> قد قلد تك ديني فألقى الله عزوجل حين ألقاه فاخبره أن جعفر بن محمد
+> عليهما السلام أمرني ونهاني فقال: يا أبا محمد ألا تسمع إلى هذه المرأة
+> وهذه المسائل لا والله لا آذن لك في قطرة منه ولا تذوقي منه قطرة فإنما
+> تندمين إذا بلغت نفسك ههنا وأومأ بيده إلى حنجرته يقولها ثلاثا: أفهمت؟
+> قالت: نعم ثم قال أبوعبدالله عليه السلام: ما يبل الميل ينجس حبا من ماء
+> يقولها ثلاثا. أفهمت؟ قالت: نعم.
 
 It is related to Abu Basir for whose integrity and credibility there is
 total consensus in the circles of Imamia scholars. Kindly check.[^1]
@@ -108,12 +104,8 @@ Now we wish to get the privilege of quoting a hadith that is famous as
 Mo’tabara Tusi (a completely reliable tradition quoted by Sheikh Tusi).
 The eleventh Imam (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"فأما من كان من الفقهاء صائنا لنفسه حافظا لدينه مخالفا لهواه مطيعا
-لأمر مولاه فللعوام ان يقلدوه."
-  </p>
-</blockquote>
+> "فأما من كان من الفقهاء صائنا لنفسه حافظا لدينه مخالفا لهواه مطيعا
+> لأمر مولاه فللعوام ان يقلدوه."
 
 “General public should follow in taqleed those fuqaha who control
 themselves, take care of Din, stay away from inner desires and are
@@ -179,11 +171,7 @@ Kushi via his book “Al Rijal” to Ali Ibn Muhammad Ibn Qatiba who then
 handed it over to us through Muhammad Ibn Ibrahim Maraghi. The command
 says:
 
-<blockquote dir="rtl">
-  <p>
-"فإنه لا عذر لأحد موالينا في التشكيك فيما يؤديه عنا ثقاتنا."
-  </p>
-</blockquote>
+> "فإنه لا عذر لأحد موالينا في التشكيك فيما يؤديه عنا ثقاتنا."
 
 “Our friends should not hesitate to accept our messages when they come
 through our trusted people.” [^3]
@@ -192,20 +180,12 @@ The jewel of knowledge, Imam As-Sadiq (as), handed his bright student
 Umar Ibn Hanzala another rule about checking the credibility of a
 tradition. He says:
 
-<blockquote dir="rtl">
-  <p>
-"ان المجتمع عليه لا ريب فيه."
-  </p>
-</blockquote>
+> "ان المجتمع عليه لا ريب فيه."
 
 “If there is consensus among the intellectuals of the nation on a
 hadith, there is no need to hesitate in accepting it.”[^4]
 
-<blockquote dir="rtl">
-  <p>
-"وما علينا إلا البلاغ."
-  </p>
-</blockquote>
+> "وما علينا إلا البلاغ."
 
 [^1]: Muntahi Aalamal, Sheikh Abbas Qummi, vol 2, p 175, published in
 Tehran
@@ -221,5 +201,4 @@ edition, Intisharate Muassasa Ahlul Bayt, Qum
 
 [^4]: Wasayl ush-Shia, vol 27, chapter 9, hadith number 1, p 106, third
 edition, Intisharate Muassasa Ahlul Bayt, Qum
-
 

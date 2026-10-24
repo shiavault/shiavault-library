@@ -38,7 +38,6 @@ from abu 'bdallah (a.s.) who has said the following. "People
 well-grounded in Knowledge stands for Amir al-Mu'minin Ali (a.s.) and
 the Imams after him."
 
-
 **Chapter 23 : The Imams are those who have received Knowledge and it
 is firmly Established in their Hearts H 557, Ch. 23, h 1**
 
@@ -88,5 +87,4 @@ the Holy Quran.
 "In fact, the Quran consists of illustrious verses that exist in the
 hearts of those who have knowledge. . . ." (29:49) The Imams (a.s.)
 said, "They are the Imams (a.s.) exclusive of all others."
-
 

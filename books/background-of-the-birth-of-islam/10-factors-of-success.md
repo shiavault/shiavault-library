@@ -32,7 +32,6 @@ in the time of Abu Bakr.
 In this part of the discussion it is intended to reach certain from the
 preceding discussion.
 
-
 **Conclusion**
 
 The leading conclusion from the preceding discussion is that the
@@ -118,5 +117,4 @@ animosity and rancour. It is therefore worth considering what spirit and
 moral power was inherent in this revolution that according to this
 Christian historian, even a small Christian contingent in Hejaz could
 have contained its progress in the initial stage.
-
 

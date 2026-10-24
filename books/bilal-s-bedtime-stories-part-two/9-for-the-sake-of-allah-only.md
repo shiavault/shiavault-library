@@ -93,7 +93,6 @@ but not impossible. This can be done by constant thinking and true
 understanding of the aim of our life. We have to understand what Allah
 really wants from us.
 
-
 **Immamate - Is Guidance We Need**
 
 Basra is a big city and the main port of Iraq. It is situated at the
@@ -107,7 +106,6 @@ Suddenly, a young and intelligent student of Islam by name of Hesham,
 entered the gathering and sat down in the first row. He addressed the
 priest saying that he was a stranger and would like to ask some
 questions. On getting the permission to do so, he asked the following:
-
 
 First, Sir, may I please know if you have eyes?
 
@@ -215,5 +213,4 @@ of his time;
 persons.
 In short, an Imam is the Holiest, most Pious of all - after the Holy
 Prophet Mohammad (S.A.W.)
-
 

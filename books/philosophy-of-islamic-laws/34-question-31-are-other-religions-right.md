@@ -180,7 +180,6 @@ different communities of the world. This assertion does not bear
 testimony at all that the followers of all the religions will get
 salvation. And that all are moving on the true path.[^8]
 
-
 [^1]: Surah Baqarah 2:62
 
 [^2]: Surah Baqarah 2:62
@@ -199,5 +198,4 @@ unjustly; this was so because they disobeyed and exceeded the limits.
 [^7]: Surah Baqarah 2:61
 
 [^8]: For more explanation see. Tafseer Namoona in Persian/Urdu
-
 

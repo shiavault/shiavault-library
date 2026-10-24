@@ -267,4 +267,3 @@ Zukunftsforschung in Europa, Nomos, Baden-Baden, 2000
 Demokratischen Republik bis zur Vollendung des Sozialismus, Dietz,
 Berlin, 1967
 
-

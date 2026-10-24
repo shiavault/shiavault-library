@@ -488,4 +488,3 @@ who believe! be careful of (your duty to) Allah and seek means of
 approach unto Him and strive hard in His way that you may be
 successful”.  (5/35).
 
-

@@ -412,4 +412,3 @@ impelling of all things toward perfection.
 
 [^2]: Tafsir al-Mizan, Vol. VIII, p.255.
 
-

@@ -91,9 +91,7 @@ She protects herself in front of the social pressures and corruption and
 does not yield. She is the champion of patience and has passed all her
 exams with flying colors on this way. We read in her supplication:
 
-<p dir="rtl">
 “يا ممتحنه امتحنك الله فوجدك لما امتحنك صابرة”
-</p>
 
 *Allah has set the seal of approval on her life report.*
 
@@ -152,5 +150,4 @@ express even a sentence insolently against them.
 Her tongue as well as her deed was pure. Both her words and deeds were
 authentic for people. Besides, she knew all the members of her body in
 Allah’s property.
-
 

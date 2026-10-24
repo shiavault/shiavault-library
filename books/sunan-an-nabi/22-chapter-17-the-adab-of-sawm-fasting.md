@@ -306,4 +306,3 @@ Wasa\`il al-Shi’ah 7:367
 
 [^40]: ‘Awarif al-Ma’arif: 304
 
-

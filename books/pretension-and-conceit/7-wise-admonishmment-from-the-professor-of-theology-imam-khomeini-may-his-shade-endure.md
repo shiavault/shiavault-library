@@ -372,4 +372,3 @@ Allah be pleased with him). But I saw it recorded in the book titled
 Mirsad al-lbad by Sheikh Najm ad-Deen, and favor belongs to the one who
 does a good deed first.
 
-

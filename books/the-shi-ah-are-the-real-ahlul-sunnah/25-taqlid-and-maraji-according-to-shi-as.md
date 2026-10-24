@@ -118,4 +118,3 @@ to Allah to curse the liars” (Holy Qur'an, 3:61), whereupon he invited
 Ali ibn Abu Talib, as Muslim records in his Sahih in a chapter dedicated
 to the virtues of Ali, peace be upon him.
 
-

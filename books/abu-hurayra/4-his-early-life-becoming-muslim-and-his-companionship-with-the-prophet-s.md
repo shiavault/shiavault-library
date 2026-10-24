@@ -932,4 +932,3 @@ have supported his enemies and opposed his assistants.” Then he left.
 [^66]: In a tradition mentioned by Ibn Sa’d and Ibn Hajar in his Issaba.
 We shall comment on this tradition in a next chapter of this book.
 
-

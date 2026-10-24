@@ -326,4 +326,3 @@ it in the book Ainul Hayat. His Prophethood is not authenticated through
 any hadith and hence we have not written about him in this book.
 Whosoever wants to see it may refer to the said book.
 
-

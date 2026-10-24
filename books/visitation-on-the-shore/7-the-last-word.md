@@ -70,4 +70,3 @@ A.D.
 
 Chapter 23: Those who have seen the Imam.
 
-

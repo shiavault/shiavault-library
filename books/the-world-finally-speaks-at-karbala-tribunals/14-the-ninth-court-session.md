@@ -447,4 +447,3 @@ presented so far. Court is dismissed and will resume next Thursday at
 
 [^1]: (sa) = Peace and prayers be upon her.
 
-

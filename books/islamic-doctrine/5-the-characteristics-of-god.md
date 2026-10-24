@@ -127,7 +127,6 @@ b. Para-psychology works together with spiritualism in modern psychical
 investigations. The following are some scientists who did some research
 in this field.
 
-
 Sir Oliver Lodge (Winner of Rumford medal of the R.S., President of the
 Physical Society of London, and of the British Association for
 Advancement of Science).
@@ -224,5 +223,4 @@ is just because He is perfect. Then, it may be asked, "is it justice to
 let good people suffer without compensa- tion?" The natural answer is
 that there is a life after death where people will receive reward or
 punishment for what they have done.
-
 

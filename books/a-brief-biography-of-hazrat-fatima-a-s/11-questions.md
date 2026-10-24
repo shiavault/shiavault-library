@@ -226,4 +226,3 @@ Fatima (S.A) contained information brought by Angels to her. T/F
 2 Column A lists the ten names of Hazrat Fatima (S.A). Column B lists
 the meaning of these names match the names with their meanings.
 
-

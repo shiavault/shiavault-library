@@ -4,11 +4,7 @@ Section 2: Yusuf Suffers the Treatment of His Brothers
 Surah Yusuf - Verse 7
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ ءَايَاتٌ لِلسَّآئِلِينَ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ ءَايَاتٌ لِلسَّآئِلِينَ
 
 ***7. “Certainly there are signs (of Allah’s sovereignty) in (the story
 of) Yusuf and his brothers for the inquirers.”***
@@ -98,12 +94,8 @@ such.
 Surah Yusuf - Verse 8
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَي اَبِينَا مِنَّا
-وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفي ضَلالٍ مُّبِينٍ
-  </p>
-</blockquote>
+> إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَي اَبِينَا مِنَّا
+> وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفي ضَلالٍ مُّبِينٍ
 
 ***8. “When they said: ‘Verily, Yusuf and his brother (Benjamin) are
 dearer to our father than we, while we are a (strong) group. Verily, our
@@ -162,12 +154,8 @@ others is one of the greatest sufferings of man.
 Surah Yusuf - Verse 9
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضاً يَخْلُ لَكُمْ وَجْهُ
-أَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْماً صَالِحِينَ
-  </p>
-</blockquote>
+> اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضاً يَخْلُ لَكُمْ وَجْهُ
+> أَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْماً صَالِحِينَ
 
 ***9. “Slay you Yusuf, or cast him out to some (far) land, (so that)
 your father’s attention may be given on you (exclusively), and you may
@@ -250,13 +238,9 @@ their brother was an evil act it did not stop them from committing it.
 Surah Yusuf - Verse 10
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ قَآئِلٌ مِنْهُمْ لاَ تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي
-غَيَابَتِ الْجُبّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِن كُنتُمْ
-فَاعِلِينَ
-  </p>
-</blockquote>
+> قَالَ قَآئِلٌ مِنْهُمْ لاَ تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي
+> غَيَابَتِ الْجُبّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِن كُنتُمْ
+> فَاعِلِينَ
 
 ***10. “Said a speaker among them: ‘Do not slay Yusuf, and if you must
 do it, throw him into the bottom of the well (so that) some caravan (of
@@ -396,19 +380,11 @@ wood.”*[^14]
 Surah Yusuf - Verses 11 - 12
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَآ أَبَانَا مَالَكَ لاَ تَأْمَنَّا عَلَي يُوسُفَ وَإِنَّا
-لَهُ لَنَاصِحُونَ
-  </p>
-</blockquote>
+> قَالُوا يَآ أَبَانَا مَالَكَ لاَ تَأْمَنَّا عَلَي يُوسُفَ وَإِنَّا
+> لَهُ لَنَاصِحُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَرْسِلْهُ مَعَنَا غَدَاً يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ
-لَحَافِظُونَ
-  </p>
-</blockquote>
+> أَرْسِلْهُ مَعَنَا غَدَاً يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ
+> لَحَافِظُونَ
 
 ***11. “They said: ‘O our father! What cause is with you that you do not
 trust us with Yusuf, and verily we are his sincere well-wishers?’”***  
@@ -477,19 +453,11 @@ supporters, and so on.
 Surah Yusuf – Verses 13 - 14
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنّي لَيَحْزُنُنِي أَن تَذْهَبُوا بِهِ وَأَخَافُ أَن يَأْكُلَهُ
-الذّئْبُ وَأَنتُمْ عَنْهُ غَافِلُونَ
-  </p>
-</blockquote>
+> قَالَ إِنّي لَيَحْزُنُنِي أَن تَذْهَبُوا بِهِ وَأَخَافُ أَن يَأْكُلَهُ
+> الذّئْبُ وَأَنتُمْ عَنْهُ غَافِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَئِنْ أَكَلَهُ الذّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذاً
-لَخَاسِرُونَ
-  </p>
-</blockquote>
+> قَالُوا لَئِنْ أَكَلَهُ الذّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذاً
+> لَخَاسِرُونَ
 
 ***13. “He said: ‘Verily it saddens me that you should take him away,
 and I fear lest the wolf devour him while you are heedless of
@@ -587,13 +555,9 @@ proud of their strength.
 Surah Yusuf - Verse 15
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَن يَجْعَلُوهُ فِي غَيَابَتِ
-الْجُبّ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبّئَنَّهُم بِأَمْرِهِمْ هَذَا
-وَهُمْ لاَ يَشْعُرُونَ
-  </p>
-</blockquote>
+> فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَن يَجْعَلُوهُ فِي غَيَابَتِ
+> الْجُبّ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبّئَنَّهُم بِأَمْرِهِمْ هَذَا
+> وَهُمْ لاَ يَشْعُرُونَ
 
 ***15. “So when they did take him with them, and they agreed to put him
 in the bottom of the well, and We revealed unto him: ‘You will certainly
@@ -670,11 +634,7 @@ deed of theirs while they know (you) not’.”***
 Surah Yusuf - Verse 16
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءُوا أَبَاهُمْ عِشَآءً يَبْكُونَ
-  </p>
-</blockquote>
+> وَجَآءُوا أَبَاهُمْ عِشَآءً يَبْكُونَ
 
 ***16. “And they came to their father at nightfall, weeping.”***
 
@@ -743,13 +703,9 @@ convince him that a wolf had torn apart the body of their brother.
 Surah Yusuf - Verse 17
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَآ أَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ
-عِندَ مَتَاعِنَا فَاَكَلَهُ الذّئْبُ وَمَآ أَنتَ بِمُؤْمِنٍ لَنَا
-وَلَوْ كُنَّا صَادِقِينَ
-  </p>
-</blockquote>
+> قَالُوا يَآ أَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ
+> عِندَ مَتَاعِنَا فَاَكَلَهُ الذّئْبُ وَمَآ أَنتَ بِمُؤْمِنٍ لَنَا
+> وَلَوْ كُنَّا صَادِقِينَ
 
 ***17. “They said: ‘O’ our father! Verily we went off racing and left
 Yusuf with our things; then the wolf devoured him. But thou will never
@@ -853,13 +809,9 @@ Hereafter.”*[^29]
 Surah Yusuf - Verse 18
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءُوا عَلَي قَميِصِهِ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ
-أَنْفُسُكُمْ أَمْراً فَصَبْرٌ جَمِيلٌ وَاللَّهُ الْمُسْتَعَانُ عَلَي
-مَاتَصِفُونَ
-  </p>
-</blockquote>
+> وَجَآءُوا عَلَي قَميِصِهِ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ
+> أَنْفُسُكُمْ أَمْراً فَصَبْرٌ جَمِيلٌ وَاللَّهُ الْمُسْتَعَانُ عَلَي
+> مَاتَصِفُونَ
 
 ***18. “And they brought his shirt with false blood on it. He said: ‘No,
 your (guilty) selves have made a matter light for you. (For me) patience
@@ -1000,13 +952,9 @@ the well.
 Surah Yusuf - Verse 19
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَارِدَهُمْ فَاَدْلَي دَلْوَهُ قَالَ
-يَا بُشْرَي هَذَا غُلامٌ وَاَسَرُّوهُ بِضَاعَةً وَاللَّهُ عَلِيمٌ
-بِمَا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَجَآءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَارِدَهُمْ فَاَدْلَي دَلْوَهُ قَالَ
+> يَا بُشْرَي هَذَا غُلامٌ وَاَسَرُّوهُ بِضَاعَةً وَاللَّهُ عَلِيمٌ
+> بِمَا يَعْمَلُونَ
 
 ***19. “Then there came a caravan (of travelers). They sent their
 water-drawer (for water) and he let down his bucket. He said: ‘O’ good
@@ -1077,12 +1025,8 @@ merchandise; while Allah is aware of what they do.”***
 Surah Yusuf - Verse 20
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ
-الزَّاهِدِينَ
-  </p>
-</blockquote>
+> وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ
+> الزَّاهِدِينَ
 
 ***20. “And they sold him for a small price, of a few dirhams counted
 out, and in him they had no interest.”***
@@ -1164,5 +1108,4 @@ At the end of the verse Allah says:
 [^29]: Qurar-ul-Hikam, vol. 3, p. 332
 
 [^30]: Majmu‘at ul-Warram , vol.1 , p.113.
-
 

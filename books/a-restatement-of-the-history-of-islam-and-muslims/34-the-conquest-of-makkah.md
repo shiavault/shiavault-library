@@ -789,4 +789,3 @@ other. He loved to dress the psychological wounds of other people, and
 he loved to bring cheer and comfort to broken hearts. He was endowed
 with a very special flair to carry through a role like this.
 
-

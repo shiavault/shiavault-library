@@ -42,4 +42,3 @@ Human nature does not change. People, even the followers, nave been
 attributing nasty behaviors to the prophets of God since a very very
 long time.
 
-

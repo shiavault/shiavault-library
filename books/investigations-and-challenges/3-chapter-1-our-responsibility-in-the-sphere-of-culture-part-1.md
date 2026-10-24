@@ -50,58 +50,34 @@ obligations and duties to which he is responsible a fact that is
 consensually agreed upon by all religions. Many holy Qur’anic verses
 bear witness to the responsibility of man. Thus, the Holy Qur’an reads:
 
-<blockquote dir="rtl">
-  <p>
-فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ , عَمَّا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ , عَمَّا كَانُوا يَعْمَلُونَ
 
 ***By your Lord, We will question them all concerning what they used to
 do. (15:92-93)***[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ يُضِلُّ
-مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَلَتُسْأَلُنَّ عَمَّا كُنْتُمْ
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ يُضِلُّ
+> مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَلَتُسْأَلُنَّ عَمَّا كُنْتُمْ
+> تَعْمَلُونَ
 
 ***And you will surely be questioned concerning what you used to do.
 (16:93)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ
-وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
-  </p>
-</blockquote>
+> وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ
+> وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
 
 ***Indeed the hearing and the eyesight, and the heart, all of these are
 accountable. (17:36)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِنْ قَبْلُ لَا يُوَلُّونَ
-الْأَدْبَارَ ۚ وَكَانَ عَهْدُ اللَّهِ مَسْئُولًا
-  </p>
-</blockquote>
+> وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِنْ قَبْلُ لَا يُوَلُّونَ
+> الْأَدْبَارَ ۚ وَكَانَ عَهْدُ اللَّهِ مَسْئُولًا
 
 ***And pledges given to Allah are accountable. (33:15)***
 
-<blockquote dir="rtl">
-  <p>
-وَقِفُوهُمْ ۖ إِنَّهُمْ مَسْئُولُونَ
-  </p>
-</blockquote>
+> وَقِفُوهُمْ ۖ إِنَّهُمْ مَسْئُولُونَ
 
 ***[But first] stop them! For they must be questioned. (37:24)***
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  </p>
-</blockquote>
+> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
 
 ***Then, that day, you will surely be questioned concerning the
 blessing. (102:8)***
@@ -123,11 +99,7 @@ and standing, and the like are not identical, it follows that their
 responsibilities are also not alike. Every person is responsible
 according to his or her capacity:
 
-<blockquote dir="rtl">
-  <p>
-ا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
-  </p>
-</blockquote>
+> ا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
 
 ***Allah does not task any soul beyond its capacity. (2:286)***
 
@@ -215,12 +187,8 @@ practices of having sexual intercourses with others of the same sex
 (i.e. homosexuality). Describing this wicked deed as the peak of
 indecency, the Holy Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا
-سَبَقَكُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا
+> سَبَقَكُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ
 
 ***And Lut when he said to his people: You indeed commit an indecency
 none in the world has ever committed before you! (29:28)***
@@ -578,11 +546,7 @@ to their intellectual and cultural concerns, problems and doubts.
 > Of course, God the Exalted is the protector and guardian of His
 > religion:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-  </p>
-</blockquote>
+> إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
 
 ***Indeed We have sent down the Reminder and indeed We will preserve it.
 (15:9)***
@@ -590,12 +554,8 @@ to their intellectual and cultural concerns, problems and doubts.
 In the midst of all hostilities and darkness, God will anchor the ship
 of religion and Islam off the shore of salvation:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***It is He who has sent His Apostle with the guidance and the religion
 of truth that He may make it prevail over all religions though the
@@ -672,5 +632,4 @@ Islamists in the electoral processes in recent years. [Trans.]
 
 [^9]: Kalimah at-tawhid: the recitation of la ilaha illallah [there is
 no god but Allah].
-
 

@@ -162,4 +162,3 @@ human being?
  5. What did Amir al-Mu’minin, ‘Ali, peace be upon him, do to his
 brother Aqil? What did he want and what response did ‘Ali give him?
 
-

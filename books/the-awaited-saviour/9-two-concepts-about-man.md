@@ -74,4 +74,3 @@ view the nature of the eternal struggle, which has continued from the
 dawn of history and which has helped the advancement of the society, is
 moral and human, not material, nor is it a class war.
 
-

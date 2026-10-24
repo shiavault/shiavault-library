@@ -136,4 +136,3 @@ from doing taboo acts and encourage them to do good deeds.
 
 [^4]: Wasail al shiah, v 3, p. 12
 
-

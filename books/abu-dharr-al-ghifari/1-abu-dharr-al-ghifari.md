@@ -891,4 +891,3 @@ recalling our Master Muhammad's words:
 *Abu Dharr, may Allah have mercy upon you. You'll live alone, die alone,
 rise from the dead alone and enter Paradise alone.*
 
-

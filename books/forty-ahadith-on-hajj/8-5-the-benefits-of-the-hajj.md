@@ -3,12 +3,8 @@
 
  
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الرِّضَا (ع) قَالَ: مَا رَأََيْتُ ‏َشَيْئاً أَسْرَعَ غِنًّى وَ
-لاَ أَنْفى لِلْفَقْرِ مِنْ إِدْمَانُ الْحَجِّ. 
-  </p>
-</blockquote>
+> عَنِ الرِّضَا (ع) قَالَ: مَا رَأََيْتُ ‏َشَيْئاً أَسْرَعَ غِنًّى وَ
+> لاَ أَنْفى لِلْفَقْرِ مِنْ إِدْمَانُ الْحَجِّ.
 
 It has been narrated from al-Ridha [Imam ‘Ali Ibn Musa] (peace be upon
 him) that he said, “I have not seen a single thing which makes a person
@@ -18,5 +14,4 @@ year).”
     
  Biharul Anwar, Volume 74, Page 318  
   
-
 

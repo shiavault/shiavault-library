@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً
 
 *“Then set your face upright for religion in the right state.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-أََلْمُسْتَأْكَلُ بِدِيـنِهِ حَظُّهُ مِنْ دِيـنِهِ مَا يَأْكُلُهُ.
-  </p>
-</blockquote>
+> أََلْمُسْتَأْكَلُ بِدِيـنِهِ حَظُّهُ مِنْ دِيـنِهِ مَا يَأْكُلُهُ.
 
 *“One, who seeks to fill his stomach by means of religion, his share of
 religion is what he fills in his stomach.”*[^2]
@@ -192,14 +184,10 @@ Muawiyah said to him: “I shall give you one hundred thousand dirhams if
 you ascribe the following verse (which was revealed in criticism of the
 hypocrites) to ‘Ali Ibn Abi Talib:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْـيَا
-وَ يُشْهِدُ اللَّهَ عَلى‏ مَا فِي قَلْبِهِ وَ هُوَ أَلَدُّ الْخِصَامِ
-وَ إِذَا تَوَلَّى سَعى‏ فِي الأََرْضِ لِيُفْسِدَ فِيهَا وَ يُهْلِكَ
-الْحَرْثَ وَ النَّسْلَ وَ اللَّهُ لاَ يُحِبُّ الْفَسادَ
-  </p>
-</blockquote>
+> وَ مِنَ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْـيَا
+> وَ يُشْهِدُ اللَّهَ عَلى‏ مَا فِي قَلْبِهِ وَ هُوَ أَلَدُّ الْخِصَامِ
+> وَ إِذَا تَوَلَّى سَعى‏ فِي الأََرْضِ لِيُفْسِدَ فِيهَا وَ يُهْلِكَ
+> الْحَرْثَ وَ النَّسْلَ وَ اللَّهُ لاَ يُحِبُّ الْفَسادَ
 
 *“And among men is he, whose speech about the life of this world causes
 you to wonder, and he calls on Allah to witness as to what is in his
@@ -212,12 +200,8 @@ mischief-making.”*[^8]
 after he had slept on the bed of the Noble Prophet during the migration
 of the Noble Prophet to Medina) to Ibn Muljim:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغاءَ مَرْضاتِ اللَّهِ وَ
-اللَّهُ رَؤُفٌ بِالْعِبادِ
-  </p>
-</blockquote>
+> وَ مِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغاءَ مَرْضاتِ اللَّهِ وَ
+> اللَّهُ رَؤُفٌ بِالْعِبادِ
 
 *“And among men is he who sells himself to seek the pleasure of Allah;
 and Allah is Affectionate to the servants.”*[^9]
@@ -255,5 +239,4 @@ Ibn al-Husain (as).
 
 [^10]: Paighambar Wa Yaran, vol. 3, pg. 258; Commentary of Nahjul
 Balagha (of Ibn Abil Hadid), vol. 1, pg. 471
-
 

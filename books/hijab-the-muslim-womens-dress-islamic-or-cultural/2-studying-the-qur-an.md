@@ -101,4 +101,3 @@ upon it and without strait-jacketing it into this or that ‘ism’.
 [^1]: Seyyed Hossein Nasr, Islamic Life and Thought (Albany: SUNY, 1981)
 p. 26.
 
-

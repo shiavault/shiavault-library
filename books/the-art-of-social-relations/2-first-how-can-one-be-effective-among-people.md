@@ -335,7 +335,6 @@ making the tree of love grow and benefits from its fruits and flowers.
 It is said in the moral laws that: "Do not neglect a little concern,
 because it has a great issue and benefit."
 
-
 **Secondly: How Can We Proceed Socially?**
 
 After being acquainted with some moral laws through prophetic hadiths
@@ -346,5 +345,4 @@ Morals play an important role in the art of social relations. It is
 good, before we go further to state that none of these morals are final
 and conclusive. Whatever the case may be, if we are talking about art,
 it is possible that each and every one of us will add something.
-
 

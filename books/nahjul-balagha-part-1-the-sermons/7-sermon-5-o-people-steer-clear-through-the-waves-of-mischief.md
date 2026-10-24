@@ -5,24 +5,12 @@ Sermon 5: O people, steer clear through the waves of mischief...
 and Abu Sufyan ibn Harb offered to pay allegiance to Amir al-mu’minin
 for the Caliphate*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام) لمّا قبض رسول الله(صلى الله عليه وآله)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام) لمّا قبض رسول الله(صلى الله عليه وآله)
 
-<blockquote dir="rtl">
-  <p>
-وخاطبه العباس وأبوسفيان في أن يبايعا له بالخلافة
-  </p>
-</blockquote>
+> وخاطبه العباس وأبوسفيان في أن يبايعا له بالخلافة
 
-<blockquote dir="rtl">
-  <p>
-(وذلك بعد أن تمّت البيعة لابي بكر في السقيفة، وفيها ينهى عن الفتنة
-ويبين عن خلقه وعلمه):
-  </p>
-</blockquote>
+> (وذلك بعد أن تمّت البيعة لابي بكر في السقيفة، وفيها ينهى عن الفتنة
+> ويبين عن خلقه وعلمه):
 
 O People![^1]
 
@@ -34,21 +22,13 @@ Caliphate) is like turbid water or like a morsel that would suffocate
 the person who swallows it. One who plucks fruits before ripening is
 like one who cultivated in another’s field.
 
-<blockquote dir="rtl">
-  <p>
-النهي عن الفتنة
-  </p>
-</blockquote>
+> النهي عن الفتنة
 
-<blockquote dir="rtl">
-  <p>
-أَيُّها النَّاسُ، شُقُّوا أَمْوَاجَ الفِتَنِ بِسُفُنِ النَّجَاةِ،
-وَعَرِّجُوا عَنْ طَريقِ الـمُنَافَرَةِ، وَضَعُوا تِيجَانَ
-الـمُفَاخَرَةِ. أَفْلَحَ مَنْ نَهَضَ بِجَنَاح، أوِ اسْتَسْلَمَ
-فَأَراحَ، مَاءٌ آجِنٌ، وَلُقْمَةٌ يَغَصُّ بِهَا آكِلُهَا، وَمُجْتَنِي
-الَّثمَرَةِ لِغَيْرِ وَقْتِ إِينَاعِهَا كالزَّارعِ بِغَيْرِ أَرْضِهِ.
-  </p>
-</blockquote>
+> أَيُّها النَّاسُ، شُقُّوا أَمْوَاجَ الفِتَنِ بِسُفُنِ النَّجَاةِ،
+> وَعَرِّجُوا عَنْ طَريقِ الـمُنَافَرَةِ، وَضَعُوا تِيجَانَ
+> الـمُفَاخَرَةِ. أَفْلَحَ مَنْ نَهَضَ بِجَنَاح، أوِ اسْتَسْلَمَ
+> فَأَراحَ، مَاءٌ آجِنٌ، وَلُقْمَةٌ يَغَصُّ بِهَا آكِلُهَا، وَمُجْتَنِي
+> الَّثمَرَةِ لِغَيْرِ وَقْتِ إِينَاعِهَا كالزَّارعِ بِغَيْرِ أَرْضِهِ.
 
 If I speak out they would call me greedy towards power but if I keep
 quiet they would say I was afraid of death. It is a pity that after all
@@ -57,22 +37,14 @@ Talib[^2] is more familiar with death than an infant with the breast of
 its mother. I have hidden knowledge, if I disclose it you will start
 trembling like ropes in deep wells.
 
-<blockquote dir="rtl">
-  <p>
-خلقه وعلمه
-  </p>
-</blockquote>
+> خلقه وعلمه
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أقُلْ يَقُولُوا: حَرَصَ عَلَى الـمُلْكِ، وَإنْ أَسْكُتْ
-يَقُولُوا: جَزعَ مِنَ المَوْتِ! هَيْهَاتَ بَعْدَ اللَّتَيَّا
-وَالَّتِي! وَاللهِ لاَبْنُ أَبي طَالِب آنَسُ بالمَوْتِ مِنَ الطِّفْلِ
-بِثَدْي أُمِّهِ، بَلِ انْدَمَجْتُ عَلَى مَكْنُونِ عِلْم لَوْ بُحْتُ
-بِهِ لاَضْطَرَبْتُمُ اضْطِرَابَ الاْرْشِيَةِ في الطَّوِيِّ
-البَعِيدَةِ!
-  </p>
-</blockquote>
+> فَإِنْ أقُلْ يَقُولُوا: حَرَصَ عَلَى الـمُلْكِ، وَإنْ أَسْكُتْ
+> يَقُولُوا: جَزعَ مِنَ المَوْتِ! هَيْهَاتَ بَعْدَ اللَّتَيَّا
+> وَالَّتِي! وَاللهِ لاَبْنُ أَبي طَالِب آنَسُ بالمَوْتِ مِنَ الطِّفْلِ
+> بِثَدْي أُمِّهِ، بَلِ انْدَمَجْتُ عَلَى مَكْنُونِ عِلْم لَوْ بُحْتُ
+> بِهِ لاَضْطَرَبْتُمُ اضْطِرَابَ الاْرْشِيَةِ في الطَّوِيِّ
+> البَعِيدَةِ!
 
 Alternative Sources for Sermon 5
 --------------------------------
@@ -180,5 +152,4 @@ said, "I was but like the walker who has reached (the goal) or like the
 seeker who has found (his object) and whatever is with Allah is good for
 the pious." The Prophet also said that there is no pleasure for a
 believer other than union with Allah.
-
 

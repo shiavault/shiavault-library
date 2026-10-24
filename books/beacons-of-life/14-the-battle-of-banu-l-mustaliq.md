@@ -484,4 +484,3 @@ them saying: \`You retreaters! You have indeed taken to flight in the
 way of Allah! ' The Messenger of Allah retorted: \`No, they are not
 retreaters. Rather, they are brave attackers, Allah willing.' "
 
-

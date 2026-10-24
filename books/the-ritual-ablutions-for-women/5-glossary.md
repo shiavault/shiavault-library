@@ -47,4 +47,3 @@ proper time.
 
 **Rak'at**‑a bending of torso from an upright position in prayers.
 
-

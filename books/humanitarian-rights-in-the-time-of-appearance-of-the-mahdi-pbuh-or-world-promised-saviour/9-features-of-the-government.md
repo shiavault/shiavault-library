@@ -84,7 +84,6 @@ realize the purpose of the trust which rests with all vicegerents of
 God. Thus there are mutual responsibilities here between the individual
 and the state.
 
-
 **Scope of the role of the state**
 
 To understand the scope of the role the Islamic leadership should play
@@ -227,5 +226,4 @@ justice. Thus economic growth is not an isolated phenomenon and has to
 be seen against its impact on the moral fabric of Muslim society, the
 goal of social and economic justice, and the overall welfare of all
 people.
-
 

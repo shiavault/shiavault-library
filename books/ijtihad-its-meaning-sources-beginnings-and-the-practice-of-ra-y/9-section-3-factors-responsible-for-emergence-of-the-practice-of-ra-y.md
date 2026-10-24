@@ -225,4 +225,3 @@ said to Ibn Mas'ud:
 Judge according to the Book and the Sunnah if you find (the judgement)
 in the two, but if you don't find it there exert your own ray.
 
-

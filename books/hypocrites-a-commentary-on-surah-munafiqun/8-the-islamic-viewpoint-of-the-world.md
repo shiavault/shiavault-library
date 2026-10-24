@@ -1,25 +1,17 @@
 The Islamic Viewpoint of The World
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
-أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ وَمَن يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ
-هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
+> أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ وَمَن يَفْعَلْ ذَلِكَ فَأُوْلَئِكَ
+> هُمُ الْخَاسِرُونَ
 
 “***Oh believers! Do not Let your riches or your children divert you
 from the remembrance of Allah. If any one acts this way, the loss is his
 own***.”[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
-الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَى أَجَلٍ قَرِيبٍ
-فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
+> الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَى أَجَلٍ قَرِيبٍ
+> فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
 
 “***Spend something (in charity) out of the substance which We have
 bestowed upon you, before death should come to any of you and he should
@@ -27,12 +19,8 @@ say, 'Oh my Lord! Why didn't you give me respite for a little while?
 Then I would have given (largely) in charity, and I would have been one
 of the righteous***.'”[^2]
 
-<blockquote dir="rtl">
-  <p>
-وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاء أَجَلُهَا وَاللَّهُ خَبِيرٌ
-بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاء أَجَلُهَا وَاللَّهُ خَبِيرٌ
+> بِمَا تَعْمَلُونَ
 
 “***But Allah will not grant respite to any soul when its appointed time
 when has come, and Allah is well acquainted with (all) that you
@@ -138,5 +126,4 @@ world). We will do righteousness because we surely believe now***.”[^8]
 [^7]: Imam ‛Ali bin Abi Talib, Nahj al-Balaghah, sermon 80
 
 [^8]: 32:12
-
 

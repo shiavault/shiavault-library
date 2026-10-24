@@ -125,7 +125,6 @@ and Hassan and Husain and said:
 "I am at war with him who wages war with you and am at peace with him
 who is at peace with you."
 
-
 **Allah is The Guide For Every Creature**
 
 Hamid had an inquisitive mind and was fond of learning all about wild
@@ -208,5 +207,4 @@ guided it (to its goal)." (20:50)
 
 However, it must be remembered that it is not good to hurt animals
 deliberately. Islam teaches universal charity even towards animals.
-
 

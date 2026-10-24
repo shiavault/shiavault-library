@@ -166,4 +166,3 @@ at the time of his death. Their names were (1) Sauda (2) Aaisha (3) Umme
 Salma (4) Zainab binti Jahash (5) Safiyya (6) Hafsa (7) Maimuna (8)
 Zainab Ummul Masakin and (9) Umme Habiba.
 
-

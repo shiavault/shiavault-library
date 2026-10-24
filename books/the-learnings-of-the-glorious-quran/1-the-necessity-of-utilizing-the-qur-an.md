@@ -499,4 +499,3 @@ and Divine management, ending with explaining the merits of the ideal
 society. In all stages the connection with the original axis, Allah, is
 completely preserved.
 
-

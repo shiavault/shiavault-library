@@ -210,7 +210,6 @@ the society. This discernable cultural reality is confirmed by man's
 social experience and by his sufferings from deviated principles,
 systems and theories.
 
-
 **Religion and Physical Care**
 
 As religion has its moral, spiritual and mental programme and plans, it
@@ -273,7 +272,6 @@ right to live, and saves his sanity and energy from uselessness, from
 being completely lost and from the destruction imposed upon him by the
 ignorant programmes, the man- made laws and dogmatic theological
 calls.
-
 
 **Can Religion Be Substitled?**
 
@@ -686,5 +684,4 @@ end at whose shores man will have to anchor. Science is incapable of
 guaranteeing safety for man in the afterlife, nor can it make him
 believe in it and work for it, away from the message of religion and the
 guidance of faith.
-
 

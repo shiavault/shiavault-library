@@ -142,4 +142,3 @@ Yarmūk, one of the regions of Syria. He was buried right there.[^10]
 [^10]: Usd al-Ghābah, vol. 1, p. 47; Zarkulī, Al-A‘lām, vol. 1, p. 27;
 Ibn ‘Asākir, Mukhtasar Tārīkh Damishq, vol. 2, p. 124.
 
-

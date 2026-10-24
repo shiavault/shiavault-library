@@ -3,13 +3,9 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-اَوَلَمْ يَتَفَکَّرُوا فِي أََنْفُسِهِمْ مَا خَلَقَ اللٌّهُ
-السَّمٌواَتِ وَ الأََرْضَ وَ ماَ بَيْنَهُماَ إِلاَّ بِالْحَقِّ وَ
-أََجَلٍ مُسَمًّى
-  </p>
-</blockquote>
+> اَوَلَمْ يَتَفَکَّرُوا فِي أََنْفُسِهِمْ مَا خَلَقَ اللٌّهُ
+> السَّمٌواَتِ وَ الأََرْضَ وَ ماَ بَيْنَهُماَ إِلاَّ بِالْحَقِّ وَ
+> أََجَلٍ مُسَمًّى
 
 “Do they not reflect within themselves: Allah did not create the heavens
 and the earth and what is between them two but with truth, and (for) an
@@ -17,11 +13,7 @@ appointed term?” [^1]
 
 Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلتَّفَکُّرُ يَدْعُو إِِلـى الْبِرِّ وَ الْعَمَلِ بِهِ.
-  </p>
-</blockquote>
+> أَلتَّفَکُّرُ يَدْعُو إِِلـى الْبِرِّ وَ الْعَمَلِ بِهِ.
 
 “Contemplation invites (man) towards good (deed) and its performance.”
 [^2]
@@ -255,5 +247,4 @@ Volume 8, Page 440
 [^8]: Hikayat-ha-e-Gulistan, Page 65
 
 [^9]: Muntahal A’mal, Volume 1, Page 333
-
 

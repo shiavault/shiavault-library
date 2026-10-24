@@ -78,4 +78,3 @@ less love for us…[^3]
 
 [^3]: Biharul Anwar, Vol. 8, Pg. 22, Chapter 20, Tr. No. 17
 
-

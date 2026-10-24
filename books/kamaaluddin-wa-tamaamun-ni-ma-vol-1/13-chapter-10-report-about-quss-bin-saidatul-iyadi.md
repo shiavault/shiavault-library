@@ -143,4 +143,3 @@ Thus Quss never gave loans to anyone and he spoke in such a way that
 laymen cannot understand the underlying points and only specified
 individuals may comprehend his words.”
 
-

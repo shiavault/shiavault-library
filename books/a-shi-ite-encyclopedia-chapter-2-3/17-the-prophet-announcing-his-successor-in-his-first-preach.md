@@ -175,9 +175,7 @@ Prophet (PBUH) said:
 
 Ali is with truth, and truth is with Ali.
 
-
 Sunni reference: Tarikh, by al-Khateeb al-Baghdadi
-
 
 **How is This Possible ?**
 
@@ -282,7 +280,6 @@ The event which the historians and many Hadith recorders reported of
 holding a conference with his immediate relatives is the only logical
 course which the Holy Prophet was expected to follow after the
 revelation of the verse.
-
 
 **The Opinion of Imam Ali (AS) on Caliphate**
 
@@ -526,5 +523,4 @@ together."
 
 - Majma' al-Zawa'id, by al-Haythami, v8, p314
 - Also mentioned by al-Tabarani
-
 

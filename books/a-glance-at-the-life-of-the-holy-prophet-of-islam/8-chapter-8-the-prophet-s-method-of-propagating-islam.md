@@ -241,4 +241,3 @@ confirmed facts of history. Al-Ghadir, Vol. 2, p.278.
 
 [^14]: Tarikhi Ya'qubi, Vol. 2, p.22.
 
-

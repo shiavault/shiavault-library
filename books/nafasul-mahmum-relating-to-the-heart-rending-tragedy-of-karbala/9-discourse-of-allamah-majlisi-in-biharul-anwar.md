@@ -303,4 +303,3 @@ not fall in doubt so as to become a believer.”*
 Jabir says that, “May both my eyes turn blind if whatever I have seen
 and related from the Prophet is false.”
 
-

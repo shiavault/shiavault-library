@@ -133,4 +133,3 @@ is better that he should give it away as alms with the permission of the
 religious Head and if the owner of the property turns up afterwards the
 man is not responsible.
 
-

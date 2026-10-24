@@ -30,4 +30,3 @@ Islam'.
 
 [^10]. "Idhharul Haq" Vol. 2, P.281.
 
-

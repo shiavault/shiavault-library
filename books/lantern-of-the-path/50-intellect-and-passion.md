@@ -17,4 +17,3 @@ initial manifestation is caused by doing what is forbidden, neglecting
 obligations, making light of the sunnah and engrossing oneself in
 amusements.
 
-

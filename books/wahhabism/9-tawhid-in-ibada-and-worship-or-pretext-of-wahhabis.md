@@ -15,22 +15,14 @@ especially polytheism in worship.
 
 The Holy Qur’an refers to this reality and says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ
-وَاجْتَنِبُوا الطَّاغُوتَ
-  </p>
-</blockquote>
+> وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ
+> وَاجْتَنِبُوا الطَّاغُوتَ
 
 ***“And certainly We raised in every nation an Apostle saying: Serve
 Allah and shun the taghut. (Nahl 16:36)”***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ
-أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ
+> أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
 
 ***“And we did not send before you any apostle but we revealed to him
 that*** ***there is no god but Me, therefore serve Me. (Anbiya
@@ -39,13 +31,9 @@ that*** ***there is no god but Me, therefore serve Me. (Anbiya
 The Holy Qur’an introduces monotheism as a common base among all the
 heavenly precepts:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ
-بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ
-بِهِ شَيْئًا
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ
+> بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ
+> بِهِ شَيْئًا
 
 ***“Say: O followers of the Book! come to an equitable proposition
 between us and you that we shall not serve any but Allah and (that) we
@@ -138,12 +126,8 @@ beloved one and so on.
 (2) The Holy Qur’an commands the children to be low and humble before
 the parents. It says:
 
-<blockquote dir="rtl">
-  <p>
-واخفِض لهُما جناح الذُّل مِن الرحمة وقُل رب ارحمهُما كما ربّياني
-صغيراً.
-  </p>
-</blockquote>
+> واخفِض لهُما جناح الذُّل مِن الرحمة وقُل رب ارحمهُما كما ربّياني
+> صغيراً.
 
 ***“And make yourself submissively gentle to them with compassion, and
 say: O my Lord! have compassion on them, as they brought me up (when I
@@ -163,12 +147,8 @@ unlimited humility in sensing, perfection and greatness.’
 Such an interpretation is no less than the first interpretation because
 God orders the angels to prostrate before Adam (a'). As Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا
-إِبْلِيسَ
-  </p>
-</blockquote>
+> وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا
+> إِبْلِيسَ
 
 ***“And when We said to the angels: Make prostration to Adam they did
 prostrate except Iblis. (Baqarah 2:34)”***
@@ -183,12 +163,8 @@ monotheist.
 The sons of Ya'qub ('a) and even he himself along with his wife
 prostrated before the magnificence of Yusuf as the holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ
-رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا ۖ
-  </p>
-</blockquote>
+> وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ
+> رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا ۖ
 
 ***“And they fell down in prostration before him, and he said: O my
 father! this is the significance of my vision of old, my Lord has indeed
@@ -197,12 +173,8 @@ made it to be true. (Yusuf 12:100)”***
 The Holy Qur’an narrates the dream of Yusuf ('a) in his childhood and
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ
-رَأَيْتُهُمْ لِي سَاجِدِينَ
-  </p>
-</blockquote>
+> إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ
+> رَأَيْتُهُمْ لِي سَاجِدِينَ
 
 ***“Surely I saw eleven stars and the sun and the moon making obeisance
 to me. (Yusuf 12:4)”***
@@ -264,11 +236,7 @@ humility and bowing down or honour and respect will not be counted as
 immediately convinces that except for Him there is no god. As Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ
-  </p>
-</blockquote>
+> يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ
 
 ***“O (my) people, worship Allah; there is no god for you except Him.***
 ***(al-A'raf 7:59)”***
@@ -286,12 +254,8 @@ This verse and its contents is not the only verse which bears testimony
 to this matter. Rather other verses too bear testimony to this fact such
 as:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ
-يَسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ
+> يَسْتَكْبِرُونَ
 
 ***“Surely they used to behave proudly when it was said to them: There
 is no god but Allah.*** ***(Safaat 37:35)***
@@ -299,12 +263,8 @@ is no god but Allah.*** ***(Safaat 37:35)***
 That is to say, they do not pay attention to this talk because they
 believe in the divinity of other creatures.
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُمْ إِلَٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا
-يُشْرِكُونَ
-  </p>
-</blockquote>
+> أَمْ لَهُمْ إِلَٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا
+> يُشْرِكُونَ
 
 ***“Or have they a god other than Allah? Glory be to Allah from what
 they set up (with Him). (Tur 52:43)***[^3]
@@ -312,21 +272,13 @@ they set up (with Him). (Tur 52:43)***[^3]
 In the above verse, the basis of polytheism has been shown to be belief
 in the divinity of someone other than Allah.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ
+> يَعْلَمُونَ
 
 ***“Those who set up another god with Allah; so they shall soon know.
 (Hejr 15:96)”***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ
-  </p>
-</blockquote>
+> وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ
 
 ***“And they who do not call upon another god with Allah…. (Furqaan
 25:68)”***
@@ -334,30 +286,18 @@ in the divinity of someone other than Allah.
 The proof that the call of the polytheists was along with the belief in
 divinity of their idols are the following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا
-  </p>
-</blockquote>
+> وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا
 
 ***“And they have taken gods besides Allah that they should be to them a
 source of strength. (Maryam 19:81)”***
 
-<blockquote dir="rtl">
-  <p>
-أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللَّهِ آلِهَةً أُخْرَىٰ
-  </p>
-</blockquote>
+> أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللَّهِ آلِهَةً أُخْرَىٰ
 
 ***“Do you really bear witness that there are other gods with Allah?
 (Ana’am 6:19)”***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ آزَرَ أَتَتَّخِذُ أَصْنَامًا
-آلِهَةً
-  </p>
-</blockquote>
+> وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ آزَرَ أَتَتَّخِذُ أَصْنَامًا
+> آلِهَةً
 
 ***“And when Ibrahim said to his sire Azar: Do you take idols for gods?
 (Ana’am 6:74)”***
@@ -375,12 +315,8 @@ they were invited to believe in the One God, they would deny this matter
 and if a partner was associated with Him they would readily believe just
 as the following verse confirms so:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكُمْ بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ ۖ وَإِنْ
-يُشْرَكْ بِهِ تُؤْمِنُوا ۚ فَالْحُكْمُ لِلَّهِ الْعَلِيِّ الْكَبِيرِ
-  </p>
-</blockquote>
+> ذَٰلِكُمْ بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ ۖ وَإِنْ
+> يُشْرَكْ بِهِ تُؤْمِنُوا ۚ فَالْحُكْمُ لِلَّهِ الْعَلِيِّ الْكَبِيرِ
 
 ***“That is because when Allah alone was called upon, you disbelieved,
 and when associates were given to Him, you believed, Judgement belongs
@@ -390,12 +326,8 @@ When (late) Ayatullah al-Shaykh Muhammad Jawad al-Balaghi comes to the
 point of analysing and interpreting the reality of *‘ibada* in his
 valuable *tafsir* called *'Aala al-Rahman* explains it as such:
 
-<blockquote dir="rtl">
-  <p>
-العبادة ما يرونه مستشعراً بالخضوع لمن يتخذه الخاضع إلهاً ليُوفيه بذلك
-ما يراه من حق الإمتياز بالإلهية.
-  </p>
-</blockquote>
+> العبادة ما يرونه مستشعراً بالخضوع لمن يتخذه الخاضع إلهاً ليُوفيه بذلك
+> ما يراه من حق الإمتياز بالإلهية.
 
 **  
 **
@@ -448,22 +380,14 @@ will be considered as ‘*Ibadat*’.
 From the verses mentioned hereunder we can derive this conclusion that
 ‘*Ibadat*’ is from the rank of Lordship. Here are some of them:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي
-وَرَبَّكُمْ
-  </p>
-</blockquote>
+> وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي
+> وَرَبَّكُمْ
 
 ***“And the Messiah said: O Children of Israel! serve Allah, my Lord and
 your Lord.*** ***(Maida 5:72)”***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۗ هَٰذَا صِرَاطٌ
-مُسْتَقِيمٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۗ هَٰذَا صِرَاطٌ
+> مُسْتَقِيمٌ
 
 ***“Surely Allah is my Lord and your Lord, therefore serve Him, this is
 the right path.*** ***(Aal-Imran 3:51)”***
@@ -472,12 +396,8 @@ Such contents have come in other verses too. In some of the verses,
 *‘Ibadat’* is reckoned to be from the rank of **خالفيت** (creative
 power) as it says:
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكُمُ اللَّهُ رَبُّكُمْ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ خَالِقُ كُلِّ
-شَيْءٍ فَاعْبُدُوهُ
-  </p>
-</blockquote>
+> ذَٰلِكُمُ اللَّهُ رَبُّكُمْ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ خَالِقُ كُلِّ
+> شَيْءٍ فَاعْبُدُوهُ
 
 ***“That is Allah, your Lord, there is no god but He, the Creator of all
 things, therefore serve Him.*** ***(An’am 6:102)”***
@@ -536,12 +456,8 @@ act according to the command of God.
 For example, Qur’an mentions with special emphasis that the Giver of
 Life and Death is God. As it says:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ
-وَالنَّهَارِ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ
+> وَالنَّهَارِ
 
 ***“And He it is Who gives life and causes*** ***death, and (in) His
 (control) is the alternation of the night and the day.*** ***(Mominoon
@@ -550,11 +466,7 @@ Life and Death is God. As it says:
 But the same Qur’an in another verse introduces the Angels to be the
 Giver of death. It says:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا جَاءَ أَحَدَكُمُ الْمَوْتُ تَوَفَّتْهُ رُسُلُنَا
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا جَاءَ أَحَدَكُمُ الْمَوْتُ تَوَفَّتْهُ رُسُلُنَا
 
 ***“Until when death comes to one of you, Our messengers cause him to
 die.*** ***(An’am 6:61)”***
@@ -580,12 +492,8 @@ undoubtedly polytheism and any kind of humility or request towards them
 will be *‘ibada*.  
  As the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا
-يُحِبُّونَهُمْ كَحُبِّ اللَّهِ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا
+> يُحِبُّونَهُمْ كَحُبِّ اللَّهِ
 
 ***“And there are some among men who take for themselves objects of
 worship besides Allah, whom they love as they love Allah.*** ***(Baqarah
@@ -630,11 +538,7 @@ metallic idols to be their Creator and / or the manager of the affairs
 of this world but regarded them to be the Masters of intercession. They
 would say:
 
-<blockquote dir="rtl">
-  <p>
-شُفعاؤُنا عِند اللهِ هؤلاء
-  </p>
-</blockquote>
+> شُفعاؤُنا عِند اللهِ هؤلاء
 
 ***“They are our intercessors towards Allah.*** ***(Younus 11:18)”***
 
@@ -642,11 +546,7 @@ Based on this false belief that they are the Masters of intercession,
 they worshipped them and thought that their worship was the source of
 gaining proximity to God. As they say:
 
-<blockquote dir="rtl">
-  <p>
-ما نعبدهم إلا ليُقربُونا إلى اللهِ زُلفى
-  </p>
-</blockquote>
+> ما نعبدهم إلا ليُقربُونا إلى اللهِ زُلفى
 
 ***“We do not serve them save that they may make us nearly to Allah.
 (Zumar 39:3)”***
@@ -674,12 +574,8 @@ front of someone else without considering them as God or lord or the
 source of divine acts but respects them because of the fact that they
 are:
 
-<blockquote dir="rtl">
-  <p>
-عِبَادٌ مُّكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ
-يَعْمَلُونَ
-  </p>
-</blockquote>
+> عِبَادٌ مُّكْرَمُونَ لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ
+> يَعْمَلُونَ
 
  ***“They are honoured servants, they do not precede Him in speech and
 (only) according to His commandment do they act,”*** ***then surely,
@@ -690,12 +586,8 @@ God has introduced a group of His servants with such qualities that will
 attract the interest of every person towards honouring and respecting
 them. As the holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ
 
 ***“Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of 'Imran above the nations.*** ***(Aal-Imran 3:33)”***
@@ -703,11 +595,7 @@ the descendants of 'Imran above the nations.*** ***(Aal-Imran 3:33)”***
 Almighty Allah (by specification of Qur’an) has appointed Ibrahim to the
 position of *imama* and leadership:
 
-<blockquote dir="rtl">
-  <p>
-قال إني جاعلك للناس إماماً
-  </p>
-</blockquote>
+> قال إني جاعلك للناس إماماً
 
 ***“…..He said, Surely I will make you an Imam of men….. (Baqarah
 2:124)”***
@@ -765,12 +653,8 @@ the very essence of their action (i.e. prostration) too was not
 If the reality of the action amounted to worship of the prostrated one,
 then God would have never ordered it.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَأْمُرُ بِالْفَحْشَاءِ ۖ أَتَقُولُونَ عَلَى اللَّهِ
-مَا لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَأْمُرُ بِالْفَحْشَاءِ ۖ أَتَقُولُونَ عَلَى اللَّهِ
+> مَا لَا تَعْلَمُونَ
 
 ***“Say: Surely Allah does not enjoin indecency, do you say against
 Allah what you do not know?*** ***(Araf 7:28)”***
@@ -832,20 +716,12 @@ ones.
  5. Seeking help from the Holy Prophet (s) and others.  
  They say: *Shafa'a* (intercession) by decree of the verse
 
-<blockquote dir="rtl">
-  <p>
-قُل لله الشفاعة جميعاً
-  </p>
-</blockquote>
+> قُل لله الشفاعة جميعاً
 
 is from the actions of Allah just as *shifa’* is from the actions of
 Allah,
 
-<blockquote dir="rtl">
-  <p>
-وإذا مرِضتُ فهو يشفين
-  </p>
-</blockquote>
+> وإذا مرِضتُ فهو يشفين
 
 and asking or requesting from the actions of Allah from someone other
 than Him will amount to his worship.
@@ -949,5 +825,4 @@ as god, of course a small god before a bigger God!
 [^13]: Shura, verse 23:
 
 [^14]: Baqara, verse 34 and Yusuf, verse 100.
-
 

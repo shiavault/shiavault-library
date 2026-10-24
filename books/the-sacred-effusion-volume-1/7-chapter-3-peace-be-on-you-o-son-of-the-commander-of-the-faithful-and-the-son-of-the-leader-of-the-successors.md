@@ -1,12 +1,8 @@
 Chapter 3: Peace be on you, O son of the Commander of the Faithful and the son of the leader of the successors
 ==============================================================================================================
 
-<blockquote dir="rtl">
-  <p>
-السّلاَمُ عَلَيْكَ ياَ بْنَ اَمِيْرِالْمُؤْمِنِيْنَ وَابْنَ سَيِّدِ
-الْوصِيِّيْنَ
-  </p>
-</blockquote>
+> السّلاَمُ عَلَيْكَ ياَ بْنَ اَمِيْرِالْمُؤْمِنِيْنَ وَابْنَ سَيِّدِ
+> الْوصِيِّيْنَ
 
 Peace be on You, O son of the the Commander of the Faithful and the son
 of the Leader of the Successors
@@ -14,11 +10,7 @@ of the Leader of the Successors
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O ***son of*** the Commander of the Faithful
 
@@ -28,26 +20,18 @@ fact and we would not like to go into details about the same. However to
 reveal how brilliant is the origin of Imam al-Husayn (AS) verses 19-20
 of Surat al-Rahman come to mind:
 
-<blockquote dir="rtl">
-  <p>
-مَرَجَ الْبَحْرَيْنِ يَلْتَقِيانِ.بَيْنَهُما بَرْزَخٌ لا يَبْغِيانِ
-  </p>
-</blockquote>
+> مَرَجَ الْبَحْرَيْنِ يَلْتَقِيانِ.بَيْنَهُما بَرْزَخٌ لا يَبْغِيانِ
 
 ***He merged the two seas, meeting each other. There is a barrier
 between them which they do not overstep. (55:19-20)***
 
 Yahya bin Sa’id narrates:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ أَبَا عَبْدِ اللهِ يَقُوْلُ فِيْ قَوْلِهِ عَزَّ وَجَلَّ:
-مَرَجَ الْبَحْرَيْنِ يَلْتَقِيانِ بَيْنَهُما بَرْزَخٌ لا يَبْغِيانِ‏
-قَالَ: عَلِيٌّ وَفَاطِمَةُ، بَحْرَانُ مِنَ الْعِلْمِ عَمِيْقَانِ لاَ
-يَبْغِي أَحَدُهُمَا عَلىَ صَاحِبِهِ‏ يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ
-وَالْمَرْجانُ، اَلْحَسَنُ وَالْحُسَيْن.
-  </p>
-</blockquote>
+> سَمِعْتُ أَبَا عَبْدِ اللهِ يَقُوْلُ فِيْ قَوْلِهِ عَزَّ وَجَلَّ:
+> مَرَجَ الْبَحْرَيْنِ يَلْتَقِيانِ بَيْنَهُما بَرْزَخٌ لا يَبْغِيانِ‏
+> قَالَ: عَلِيٌّ وَفَاطِمَةُ، بَحْرَانُ مِنَ الْعِلْمِ عَمِيْقَانِ لاَ
+> يَبْغِي أَحَدُهُمَا عَلىَ صَاحِبِهِ‏ يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ
+> وَالْمَرْجانُ، اَلْحَسَنُ وَالْحُسَيْن.
 
 I heard Aba ‘Abdillah [al-Sadiq] (AS) saying the following about the
 verse of Allah “He merged the two seas, meeting each other. There is a
@@ -62,12 +46,8 @@ world. Consider the following traditions:
 
 1. Shaykh Saduq narrates in his *Al-Khisal*:
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِيّ قَالَ: فِي اللَّوْحِ الْمَحْفُوْظِ تَحْتَ الْعَرْشِ
-عَلِيُّ بْن أَبِيْ طالِبٍ أَمِيْرُ الْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> عَنِ النَّبِيّ قَالَ: فِي اللَّوْحِ الْمَحْفُوْظِ تَحْتَ الْعَرْشِ
+> عَلِيُّ بْن أَبِيْ طالِبٍ أَمِيْرُ الْمُؤْمِنِيْنَ
 
 The Holy Prophet (S) is reported to have said: In the Guarded Tablet
 under the Divine Throne is [written] ‘Ali bin Abi Talib is Amir
@@ -75,15 +55,11 @@ al-mu’minin (Commander of the faithful) (AS).[^2]
 
 2. Al-Kulayni in his *Al-Kafi* narrates with his chain of narrators:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ قَالَ قُلْتُ لَهُ لِمَ سُمِّيَ
-أَمِيرَ الْمُؤْمِنِينَ قَالَ اللَّهُ سَمَّاهُ وَهَكَذَا أَنْزَلَ فِي
-كِتَابِهِ وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ
-ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلى‏ أَنْفُسِهِمْ أَ لَسْتُ بِرَبِّكُمْ
-وَأَنَّ مُحَمَّداً رَسُولِي وَأَنَّ عَلِيّاً أَمِيرُ الْمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ قَالَ قُلْتُ لَهُ لِمَ سُمِّيَ
+> أَمِيرَ الْمُؤْمِنِينَ قَالَ اللَّهُ سَمَّاهُ وَهَكَذَا أَنْزَلَ فِي
+> كِتَابِهِ وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ
+> ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلى‏ أَنْفُسِهِمْ أَ لَسْتُ بِرَبِّكُمْ
+> وَأَنَّ مُحَمَّداً رَسُولِي وَأَنَّ عَلِيّاً أَمِيرُ الْمُؤْمِنِينَ.
 
 Jabir reports[^3]: I said to Abu Ja’far [al-Baqir (AS)]: Why was Imam
 ‘Ali (AS) named Amir al-Mu’minin? He (AS) said: Allah is the One who
@@ -96,15 +72,11 @@ al-mu’minin (the commander of the faithful)?***.[^4]
 3. Furat bin Ibrahim in his *Tafsir Furat al-Kufi* narrates the
 following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِيْ جَعْفَر قَالَ: لَوْ أَنَّ الْجُهَّالَ مِنْ هَذِهِ
-الأُمَّةِ يَعْلَمُوْنَ مَتَى سُمِّيَ عَلِيٌّ أَمِيْرَ الْمُؤْمِنِيْنَ
-لَمْ يُنْكِرُوْا وِلاَيَتَهُ وَ طاعَتَهُ قَالَ فَسَأَلْتُهُ وَمَتَى
-سُمِّيَ عَلِيٌّ أَمِيْرَ الْمُؤْمِنِيْنَ‏؟ قَالَ حَيْثُ أَخَذَ اللهُ
-مِيْثَاقَ ذُرِّيَةِ آدَم...
-  </p>
-</blockquote>
+> عَنْ أَبِيْ جَعْفَر قَالَ: لَوْ أَنَّ الْجُهَّالَ مِنْ هَذِهِ
+> الأُمَّةِ يَعْلَمُوْنَ مَتَى سُمِّيَ عَلِيٌّ أَمِيْرَ الْمُؤْمِنِيْنَ
+> لَمْ يُنْكِرُوْا وِلاَيَتَهُ وَ طاعَتَهُ قَالَ فَسَأَلْتُهُ وَمَتَى
+> سُمِّيَ عَلِيٌّ أَمِيْرَ الْمُؤْمِنِيْنَ‏؟ قَالَ حَيْثُ أَخَذَ اللهُ
+> مِيْثَاقَ ذُرِّيَةِ آدَم...
 
 Imam al-Baqir (AS) is reported to have said: If the ignorant of this
 nation would know when Imam ‘Ali (AS) was named Amir al-mu’minin, they
@@ -121,16 +93,12 @@ time. Consider the following:
 comes out of the Ka’ba with her exalted offspring ‘Ali (AS), the
 following is reported to have transpired:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَلِيٌّ أَلسَّلاَمُ عَلَيْكَ يَا أَبَهْ وَرَحْمَةُ اللَّهِ
-وَبَرَكَاتُهُ ثُمَّ تَنَحْنَحَ وَقَالَ بِسْمِ اللَّهِ الرَّحْمنِ
-الرَّحِيمِ قَدْ أَفْلَحَ الْمُؤْمِنُونَ ...فَقَالَ رَسُولُ اللَّهِ
-قَدْ أَفْلَحُوا بِكَ أَنْتَ وَاللَّهِ أَمِيرُهُمْ تَمِيرُهُمْ مِنْ
-عِلْمِكَ فَيَمْتَارُونَ وَأَنْتَ وَاللَّهِ دَلِيلُهُمُ وَبِكَ
-وَاللَّهِ يَهْتَدُونَ
-  </p>
-</blockquote>
+> قَالَ عَلِيٌّ أَلسَّلاَمُ عَلَيْكَ يَا أَبَهْ وَرَحْمَةُ اللَّهِ
+> وَبَرَكَاتُهُ ثُمَّ تَنَحْنَحَ وَقَالَ بِسْمِ اللَّهِ الرَّحْمنِ
+> الرَّحِيمِ قَدْ أَفْلَحَ الْمُؤْمِنُونَ ...فَقَالَ رَسُولُ اللَّهِ
+> قَدْ أَفْلَحُوا بِكَ أَنْتَ وَاللَّهِ أَمِيرُهُمْ تَمِيرُهُمْ مِنْ
+> عِلْمِكَ فَيَمْتَارُونَ وَأَنْتَ وَاللَّهِ دَلِيلُهُمُ وَبِكَ
+> وَاللَّهِ يَهْتَدُونَ
 
 Imam ‘Ali (AS) said: Peace be unto you, O father and may Allah’s mercy
 and blessings be upon you. Thereafter he coughed a little and recited
@@ -157,13 +125,9 @@ Prophet (S). For, any kind of grace, whether knowledge or otherwise, is
 conferred to the creation through this very reality. This truth is
 elicited from a tradition narrated from Jabir bin Abdillah al-Ansari:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لِرَسُوْلِ اللهِ:أَوَّلُ شَيْءٍ خَلَقَ اللهُ تَعَالَى مَا هُوَ؟
-فَقَالَ:نُوْرُ نَبِيِّكَ يَا جَابِرُ، خَلَقَهُ اللهُ، ثُمَّ خَلَقَ
-مِنْهُ كُلَّ خَيْرٍ
-  </p>
-</blockquote>
+> قُلْتُ لِرَسُوْلِ اللهِ:أَوَّلُ شَيْءٍ خَلَقَ اللهُ تَعَالَى مَا هُوَ؟
+> فَقَالَ:نُوْرُ نَبِيِّكَ يَا جَابِرُ، خَلَقَهُ اللهُ، ثُمَّ خَلَقَ
+> مِنْهُ كُلَّ خَيْرٍ
 
 I asked the Messenger of Allah (S): What is the first thing that Allah
 created? He (S) said: The light of your prophet O Jabir. Allah created
@@ -172,19 +136,15 @@ it; ***thereafter He created from it every good***.[^7]
 2. ‘Amr bin Husayb, the brother of Burayda bin Husayb is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-بَيْنَا أَنَا وَأَخِي بُرَيْدَةُ عِنْدَ النَّبِيِّ إِذْ دَخَلَ أَبُو
-بَكْرٍ فَسَلَّمَ عَلَى رَسُولِ اللَّهِ فَقَالَ لَهُ انْطلِقْ فَسَلِّمْ
-عَلَى أَمِيرِ الْمُؤْمِنِينَ فَقَالَ يَا رَسُولَ اللَّهِ وَمَنْ
-أَمِيرُ الْمُؤْمِنِينَ؟ قَالَ: عَلِيُّ بْنُ أَبِي طالِبٍ. قَالَ عَنْ
-أَمْرِ اللَّهِ وَأَمْرِ رَسُولِهِ؟ قَالَ: نَعَمْ. ثُمَّ دَخَلَ عُمَرُ
-فَسَلَّمَ فَقَالَ انْطلِقْ فَسَلِّمْ عَلَى أَمِيرِ الْمُؤْمِنِينَ
-فَقَالَ: يَا رَسُولَ اللَّهِ وَمَنْ أَمِيرُ الْمُؤْمِنِينَ؟ قَالَ:
-عَلِيُّ بْنُ أَبِي طالِبٍ. قَالَ: عَنْ أَمْرِ اللَّهِ وَأَمْرِ
-رَسُولِهِ؟ قَالَ: نَعَمْ.
-  </p>
-</blockquote>
+> بَيْنَا أَنَا وَأَخِي بُرَيْدَةُ عِنْدَ النَّبِيِّ إِذْ دَخَلَ أَبُو
+> بَكْرٍ فَسَلَّمَ عَلَى رَسُولِ اللَّهِ فَقَالَ لَهُ انْطلِقْ فَسَلِّمْ
+> عَلَى أَمِيرِ الْمُؤْمِنِينَ فَقَالَ يَا رَسُولَ اللَّهِ وَمَنْ
+> أَمِيرُ الْمُؤْمِنِينَ؟ قَالَ: عَلِيُّ بْنُ أَبِي طالِبٍ. قَالَ عَنْ
+> أَمْرِ اللَّهِ وَأَمْرِ رَسُولِهِ؟ قَالَ: نَعَمْ. ثُمَّ دَخَلَ عُمَرُ
+> فَسَلَّمَ فَقَالَ انْطلِقْ فَسَلِّمْ عَلَى أَمِيرِ الْمُؤْمِنِينَ
+> فَقَالَ: يَا رَسُولَ اللَّهِ وَمَنْ أَمِيرُ الْمُؤْمِنِينَ؟ قَالَ:
+> عَلِيُّ بْنُ أَبِي طالِبٍ. قَالَ: عَنْ أَمْرِ اللَّهِ وَأَمْرِ
+> رَسُولِهِ؟ قَالَ: نَعَمْ.
 
 While I and my brother Burayda were in the presence of the Prophet (S),
 Abu Bakr entered and greeted the Messenger of Allah (S), and he (S)
@@ -201,21 +161,13 @@ Is this by the command of Allah and the Apostle of Allah? The Prophet
 3. Imam al-Ridha (AS) is reported to have narrated from his fathers from
 Imam al-Husayn bin ‘Ali (AS):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِي بُرَيْدَةُ: أَمَرَنَا رَسُولُ اللَّهِ أَنْ نُسَلِّمَ عَلَى
-أَبِيكَ بِإِمْرَةِ الْمُؤْمِنِينَ .
-  </p>
-</blockquote>
+> قَالَ لِي بُرَيْدَةُ: أَمَرَنَا رَسُولُ اللَّهِ أَنْ نُسَلِّمَ عَلَى
+> أَبِيكَ بِإِمْرَةِ الْمُؤْمِنِينَ .
 
 Burayda said to me: The Messenger of Allah commanded us to greet your
 father ***with the name Amir al-mu’minin***.[^9]
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O son of the **Commander of the Faithful**
 
@@ -231,11 +183,7 @@ One of the milestomes of history that brilliantly manifested this
 reality is the battle of Khandaq, when after having permitted Imam ‘Ali
 (AS) to fight against *‘Amr bin ‘Abd Wudd*, the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-بَرَزَ الإيْمَانُ كُلُّهُ إِلى الشِّرْكِ كُلِّهِ
-  </p>
-</blockquote>
+> بَرَزَ الإيْمَانُ كُلُّهُ إِلى الشِّرْكِ كُلِّهِ
 
 ***Faith in its totality has come out to fight*** with polytheism in its
 totality...[^10]
@@ -256,13 +204,9 @@ submits to Allah (SwT) and personifies faith can confer injunctions and
 directions of faith. In an interesting tradition narrated from ‘Umar bin
 al-Khattab we are told:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ رَسُولَ اللَّهِ يَقُولُ إِنَّ السَّمَاوَاتِ السَّبْعَ
-وَالأَرَضِينَ السَّبْعَ لَوْ وُضِعَتْ فِي كِفَّةٍ وَوُضِعَ إِيمَانُ
-عَلِيٍّ فِي كِفَّةٍ لَرَجَحَ إِيمَانُ عَلِيٍّ
-  </p>
-</blockquote>
+> سَمِعْتُ رَسُولَ اللَّهِ يَقُولُ إِنَّ السَّمَاوَاتِ السَّبْعَ
+> وَالأَرَضِينَ السَّبْعَ لَوْ وُضِعَتْ فِي كِفَّةٍ وَوُضِعَ إِيمَانُ
+> عَلِيٍّ فِي كِفَّةٍ لَرَجَحَ إِيمَانُ عَلِيٍّ
 
 I heard the Messenger of Allah (S) say: Surely if the seven heavens and
 the seven earths were placed in one of the palms of the scale, and the
@@ -274,21 +218,13 @@ yardstick of the belief of the believers is the radiant being of ‘Ali.
 In one of his conversations with Imam ‘Ali (AS), the Holy Prophet (S)
 says:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لاَ أَنْتَ لَمْ يُعْرَفِ الْمُؤْمِنُونَ مِنْ بَعْدِي...
-  </p>
-</blockquote>
+> لَوْ لاَ أَنْتَ لَمْ يُعْرَفِ الْمُؤْمِنُونَ مِنْ بَعْدِي...
 
 If you were not there, the believers would not be known after me...[^12]
 
 Therefore Imam ‘Ali (AS) serves as the scale of faith (*mizan al-iman*).
 
-<blockquote dir="rtl">
-  <p>
-ياَ بْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> ياَ بْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O ***the edifice of*** the Commander of the Faithful
 
@@ -306,24 +242,16 @@ to command the faithful. In the radiant salutational recital *Ziyarat
 al-Jami’a* narrated from Imam al-Hadi (AS), we address the Imams of the
 Ahl al-Bayt (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَعِبَادِهِ الْمُكْرَمِينَ لاَ يَسْبِقُوْنَهُ بِالْقَوْلِ وَهُمْ
-بِاَمْرِهِ يَعْمَلُوْنَ ..
-  </p>
-</blockquote>
+> ...وَعِبَادِهِ الْمُكْرَمِينَ لاَ يَسْبِقُوْنَهُ بِالْقَوْلِ وَهُمْ
+> بِاَمْرِهِ يَعْمَلُوْنَ ..
 
 And His ennobled servants who do not advance Him in speech, and **act
 according to His Command**...[^14]
 
 And in another place of the same *Ziyarat* we say:
 
-<blockquote dir="rtl">
-  <p>
-فَاِنّي لَكُمْ مُطيْعٌ، مَنْ اَطاعَكُمْ فَقَدْ اَطاعَ اللهَ، وَمَنْ
-عَصَاكُمْ فَقَدْ عَصَى اللهَ...
-  </p>
-</blockquote>
+> فَاِنّي لَكُمْ مُطيْعٌ، مَنْ اَطاعَكُمْ فَقَدْ اَطاعَ اللهَ، وَمَنْ
+> عَصَاكُمْ فَقَدْ عَصَى اللهَ...
 
 So indeed I am obedient to you; **whosoever obeys you has obeyed
 Allah**, and whosoever disobeys you has indeed disobeyed Allah...[^15]
@@ -332,14 +260,10 @@ There are other traditions too that clearly depict that the Imams of the
 Ahl al-Bayt (AS) are the *ulu al-amr* (those worthy to command)
 mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذينَ آمَنُوا أَطيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ
-وَأُولِي الأََمْرِ مِنْكُمْ فَإِنْ تَنازَعْتُمْ في‏ شَيْ‏ءٍ فَرُدُّوهُ
-إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ
-وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْويلاً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذينَ آمَنُوا أَطيعُوا اللَّهَ وَأَطيعُوا الرَّسُولَ
+> وَأُولِي الأََمْرِ مِنْكُمْ فَإِنْ تَنازَعْتُمْ في‏ شَيْ‏ءٍ فَرُدُّوهُ
+> إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ
+> وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْويلاً
 
 ***O you who have faith! Obey Allah and obey the Apostle*** **and those
 among you who hold command.** ***And if you dispute concerning anything,
@@ -348,25 +272,21 @@ Last Day. That is better and more favourable in outcome. (4:59)***
 
 Jabir al-Ju’fi narrates: I heard Jabir bin ‘Abdillah al-Ansari say:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا أَنْزَلَ اللهُ عَزَّ وَجَلَّ عَلىَ نَبِيِّهِ مَحَمَّدٍ: يَا
-أَيُّهَا الَّذِينَ آمَنُوا أَطيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ
-وَأُولِي الأَمْرِ مِنْكُمْ قُلْتُ: يَا رَسُوْلَ اللهِ، عَرَفْنَا اللهَ
-وَرَسُوْلَهُ، فَمَنْ أولُو الأَمْرِ الَّذِيْنَ قَرَنَ اللهُ طاعَتَهُمْ
-بِطاعَتِكَ؟ فَقَالَ: «هُمْ خُلَفَائِيْ- يَا جَابِرُ- وَأَئِمَّةُ
-الْمُسْلِمِيْنَ مِنْ بَعْدِيْ، أًوَّلُهُمْ عَلِيُّ بْنُ أَبِيْ طالِب،
-ثُمَّ الْحَسَنُ، ثُمَّ الْحُسَيْن، ثُمَّ عَلِيُّ بْنُ الْحُسَيْن،
-ثُمَّ مُحَمَّد بْن عَلِي الْمَعْرُوْف فِي التَّوْرَاةِ بِالْبَاقِرِ،
-سَتُدْرِكُهُ- يَا جَابِرُ- فَإِذَا لَقَيْتَهُ فَاقْرَأْهُ مِنِّي
-السَّلاَمَ، ثُمَّ الصَّادِقُ جَعْفَر بْن مُحَمَّد، ثُمَّ مُوْسَى بْن
-جَعْفَر، ثُمًَّ عَلِيّ بْن مُوْسَى، ثُمَّ مُحَمَّد بْنِ عَلِيّ، ثُمَّ
-عَلِيّ بْن مُحَمَّد، ثُمَّ الْحَسَن بْن عَلِيّ، ثُمَّ سَمِيِّي
-وَكُنْيَي حُجَّة اللهِ فِي أَرْضِهِ، وَبَقِيَّتُهُ فِي عِبَادِهِ ابْن
-الْحَسَن بن عَلِي، ذَاكَ الَّذِيْ يَفْتَح اللهُ تَعَالَى ذِكْرَهُ
-عَلىَ يَدَيْهِ مَشَارِقَ الأَرْضِ وَمَغَارِبَهَا...
-  </p>
-</blockquote>
+> لَمَّا أَنْزَلَ اللهُ عَزَّ وَجَلَّ عَلىَ نَبِيِّهِ مَحَمَّدٍ: يَا
+> أَيُّهَا الَّذِينَ آمَنُوا أَطيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ
+> وَأُولِي الأَمْرِ مِنْكُمْ قُلْتُ: يَا رَسُوْلَ اللهِ، عَرَفْنَا اللهَ
+> وَرَسُوْلَهُ، فَمَنْ أولُو الأَمْرِ الَّذِيْنَ قَرَنَ اللهُ طاعَتَهُمْ
+> بِطاعَتِكَ؟ فَقَالَ: «هُمْ خُلَفَائِيْ- يَا جَابِرُ- وَأَئِمَّةُ
+> الْمُسْلِمِيْنَ مِنْ بَعْدِيْ، أًوَّلُهُمْ عَلِيُّ بْنُ أَبِيْ طالِب،
+> ثُمَّ الْحَسَنُ، ثُمَّ الْحُسَيْن، ثُمَّ عَلِيُّ بْنُ الْحُسَيْن،
+> ثُمَّ مُحَمَّد بْن عَلِي الْمَعْرُوْف فِي التَّوْرَاةِ بِالْبَاقِرِ،
+> سَتُدْرِكُهُ- يَا جَابِرُ- فَإِذَا لَقَيْتَهُ فَاقْرَأْهُ مِنِّي
+> السَّلاَمَ، ثُمَّ الصَّادِقُ جَعْفَر بْن مُحَمَّد، ثُمَّ مُوْسَى بْن
+> جَعْفَر، ثُمًَّ عَلِيّ بْن مُوْسَى، ثُمَّ مُحَمَّد بْنِ عَلِيّ، ثُمَّ
+> عَلِيّ بْن مُحَمَّد، ثُمَّ الْحَسَن بْن عَلِيّ، ثُمَّ سَمِيِّي
+> وَكُنْيَي حُجَّة اللهِ فِي أَرْضِهِ، وَبَقِيَّتُهُ فِي عِبَادِهِ ابْن
+> الْحَسَن بن عَلِي، ذَاكَ الَّذِيْ يَفْتَح اللهُ تَعَالَى ذِكْرَهُ
+> عَلىَ يَدَيْهِ مَشَارِقَ الأَرْضِ وَمَغَارِبَهَا...
 
 When Allah revealed unto His Prophet Muhammad (S) the verse *“O you who
 have faith! Obey Allah and obey the Apostle* ***and those among you who
@@ -391,11 +311,7 @@ whom Allah will conquer the easts and wests of the earth...[^16]
 Therefore all the Imams of the Ahl al-Bayt (AS) qualify in the universal
 sense to be *Amir al-mu’minin* (commander of the faithful).
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O edifice of the Commander of ***all the*** Faithful
 
@@ -411,14 +327,10 @@ Therefore, the appellation Amir al-mu’minin signifies that Imam ‘Ali
 Prophet (S) after informing Imam ‘Ali (AS) how Allah Himself named him
 Amir al-mu’minin, says:
 
-<blockquote dir="rtl">
-  <p>
-...فَأَنْتَ يَا عَلِيُّ أَمِيْرُ مَنْ فِي السَّماَءِ وَأَمِيْرُ مَنْ
-فِي الأَرْضِ وَأَمِيْرُ مَنْ مَضَى وَأَمِيْرُ مَنْ بَقِي فَلاَ
-أَمِيْرَ قَبْلَكَ وَلاَ أَمِيْرَ بَعْدَكَ لأَنَّهُ لاَ يَجُوْزُ أَنْ
-يُسَمَّى بِهَذاَ الاِسْمِ مَنْ لَمْ يُسَمِّهِ الله ُتعَاَلىَ بِهِ
-  </p>
-</blockquote>
+> ...فَأَنْتَ يَا عَلِيُّ أَمِيْرُ مَنْ فِي السَّماَءِ وَأَمِيْرُ مَنْ
+> فِي الأَرْضِ وَأَمِيْرُ مَنْ مَضَى وَأَمِيْرُ مَنْ بَقِي فَلاَ
+> أَمِيْرَ قَبْلَكَ وَلاَ أَمِيْرَ بَعْدَكَ لأَنَّهُ لاَ يَجُوْزُ أَنْ
+> يُسَمَّى بِهَذاَ الاِسْمِ مَنْ لَمْ يُسَمِّهِ الله ُتعَاَلىَ بِهِ
 
 ...Therefore, you, ***O ‘Ali, are the commander (amir) of those in the
 heavens and the commander (amir) of those in the earth, and the
@@ -440,15 +352,11 @@ it for them. Observe the following narrations:
 
 1. Imam ‘Ali (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللَّهِ لَمَّا أُسْرِيَ بِي إِلَى السَّمَاءِ كُنْتُ مِنْ
-رَبِّي كَقَابِ قَوْسَيْنِ أَوْ أَدْنى‏ فَأَوْحَى إِلَيَّ رَبِّي مَا
-أَوْحَى ثُمَّ قَالَ يَا مُحَمَّدُ اقْرأْ عَلَى عَلِيِّ بْنِ أَبِي
-طالِبٍ أَمِيرِ الْمُؤْمِنِينَ السلام فَمَا سَمَّيْتُ بِهِ أَحَداً
-قَبْلَهُ وَلاَ أُسَمِّي بِهَذَا أَحَداً بَعْدَهُ
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللَّهِ لَمَّا أُسْرِيَ بِي إِلَى السَّمَاءِ كُنْتُ مِنْ
+> رَبِّي كَقَابِ قَوْسَيْنِ أَوْ أَدْنى‏ فَأَوْحَى إِلَيَّ رَبِّي مَا
+> أَوْحَى ثُمَّ قَالَ يَا مُحَمَّدُ اقْرأْ عَلَى عَلِيِّ بْنِ أَبِي
+> طالِبٍ أَمِيرِ الْمُؤْمِنِينَ السلام فَمَا سَمَّيْتُ بِهِ أَحَداً
+> قَبْلَهُ وَلاَ أُسَمِّي بِهَذَا أَحَداً بَعْدَهُ
 
 The Messenger of Allah (S) said: When I was made to ascend to the
 Heavens, I was at a distance from my Lord that was like the length of
@@ -459,13 +367,9 @@ before him, and will never name anyone with it after him*.[^18]
 
 2. ‘Allama Majlisi in his *Bihar al-Anwar* narrates:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَجُلٌ للصَّادِقِ: يَا اَمِيْرَ الْمُؤْمِنينَ فَقَالَ: مَهْ
-فَإِنَّهُ لاَ يَرْضَى بِهَذِهِ التّسْمِيَة أَحَدٌ إِلاَّ ابْتَلاَهُ
-ببَلآء اَبيْ جَهْل.
-  </p>
-</blockquote>
+> قَالَ رَجُلٌ للصَّادِقِ: يَا اَمِيْرَ الْمُؤْمِنينَ فَقَالَ: مَهْ
+> فَإِنَّهُ لاَ يَرْضَى بِهَذِهِ التّسْمِيَة أَحَدٌ إِلاَّ ابْتَلاَهُ
+> ببَلآء اَبيْ جَهْل.
 
 A man called Imam al-Sadiq (AS) ‘O Commander of the faithful! whereupon
 the Imam (AS) said: Stop! For surely no one approves being named so,
@@ -473,16 +377,12 @@ save that he is tried with the trial of Abu Jahl.[^19]
 
 3. Shaykh al-Kulayni in his al-Kafi narrates the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-سَأَلَهُ رَجُلٌ عَنِ الْقَائِمِ يُسَلَّمُ عَلَيْهِ بِإِمْرَةِ
-الْمُؤْمِنِينَ قَالَ لاَ ذَاكَ اسْمٌ سَمَّى اللَّهُ بِهِ أَمِيرَ
-الْمُؤْمِنِينَ لَمْ يُسَمَّ بِهِ أَحَدٌ قَبْلَهُ وَ لاَ يَتَسَمَّى
-بِهِ بَعْدَهُ إِلاَّ كَافِرٌ قُلْتُ جُعِلْتُ فِدَاكَ كَيْفَ يُسَلَّمُ
-عَلَيْهِ قَالَ يَقُولُونَ السَّلاَمُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ
-ثُمَّ قَرَأَ بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> سَأَلَهُ رَجُلٌ عَنِ الْقَائِمِ يُسَلَّمُ عَلَيْهِ بِإِمْرَةِ
+> الْمُؤْمِنِينَ قَالَ لاَ ذَاكَ اسْمٌ سَمَّى اللَّهُ بِهِ أَمِيرَ
+> الْمُؤْمِنِينَ لَمْ يُسَمَّ بِهِ أَحَدٌ قَبْلَهُ وَ لاَ يَتَسَمَّى
+> بِهِ بَعْدَهُ إِلاَّ كَافِرٌ قُلْتُ جُعِلْتُ فِدَاكَ كَيْفَ يُسَلَّمُ
+> عَلَيْهِ قَالَ يَقُولُونَ السَّلاَمُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ
+> ثُمَّ قَرَأَ بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
 
 A person asked Imam al-Sadiq (AS) about [Imam] Al-Qa’im (AS), whether it
 is proper to greet him with [the appellation] Amir al-Mu’minin, and he
@@ -494,11 +394,7 @@ O remnant of Allah (*Baqiyyat Allah*). Thereafter he A read the verse of
 Qur\`an, “*What remains of Allah’s provision is better for
 you...*”(11:86)[^20]
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O the Edifice of **the Provider of the Faithful**
 
@@ -507,14 +403,10 @@ knowledge to the believers’. This is when the word Amir stems from the
 infinitive مِيرْ ‘*mir*’ which means جَلْبُ الطعَامِ ‘*jalb al-ta’am*’
 (to draw food). Al-Turayhi in his *Gharib al-Qur\`an* says:
 
-<blockquote dir="rtl">
-  <p>
-يُقَالُ : فُلاَنٌ يَمِِيْرُ اَهْلَهُ اِذَا حَمَلَ إِلَيْهِمْ
-اَقْوَاتَهُمْ مِن غَيْرِ بَلَدِهِمْ مِنَ الْمِيْرَة بِكَسْرِ الْمِيْمِ
-وَسُكُوْنِ الْيَاءِ طعَامٌ يَمْتَارُهُ الإِنْسَانُ اَيْ يَجْلُبُهُ من
-بَلَدٍ اِلى بَلَدٍ.
-  </p>
-</blockquote>
+> يُقَالُ : فُلاَنٌ يَمِِيْرُ اَهْلَهُ اِذَا حَمَلَ إِلَيْهِمْ
+> اَقْوَاتَهُمْ مِن غَيْرِ بَلَدِهِمْ مِنَ الْمِيْرَة بِكَسْرِ الْمِيْمِ
+> وَسُكُوْنِ الْيَاءِ طعَامٌ يَمْتَارُهُ الإِنْسَانُ اَيْ يَجْلُبُهُ من
+> بَلَدٍ اِلى بَلَدٍ.
 
 It is said: *Fulan yamiru ahlahu* (So and so provides his family) when
 he carries to them their provisions from another town. It comes from
@@ -535,14 +427,10 @@ the following narrations:
 
 1. ‘Allama Majlisi in his *Bihar al-Anwar* reports :
 
-<blockquote dir="rtl">
-  <p>
-عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ: لِمَ
-سُمِّيَ اَمِيْرُ الْمُؤْمِنِيْنَ اَمِيْرَ الْمُؤْمِنِيْنَ؟ قَالَ:
-لاَنَّهُ يَمِيْرُهُمْ اَلْعِلْمَ، اَمَا سَمِعْتَ كِتَابَ اللهِ
-عَزَّوَجَلَّ ونمير أهلنا؟
-  </p>
-</blockquote>
+> عَنْ جَابِرٍ عَنْ أَبِي جَعْفَرٍ قَالَ قُلْتُ جُعِلْتُ فِدَاكَ: لِمَ
+> سُمِّيَ اَمِيْرُ الْمُؤْمِنِيْنَ اَمِيْرَ الْمُؤْمِنِيْنَ؟ قَالَ:
+> لاَنَّهُ يَمِيْرُهُمْ اَلْعِلْمَ، اَمَا سَمِعْتَ كِتَابَ اللهِ
+> عَزَّوَجَلَّ ونمير أهلنا؟
 
 Jabir is reported to have said: I asked Abi Ja’far (al-Baqir (AS)): “May
 I be made your ranson; why was Amir al-Mu’minin (Imam ‘Ali (AS)) known
@@ -553,14 +441,10 @@ them (*yamiruhum*) with knowledge; haven’t you heard the Book of Allah
 
 2. ‘Allama Majlisi in his *Bihar al-Anwar* reports:
 
-<blockquote dir="rtl">
-  <p>
-أَبَانُ بْنُ الصَّلْتِ عَنِ الصَّادِقِ: سَمِيُّ اَمِيْرِ
-الْمُؤْمِنِيْنَ إنَّمَا هُوَ مِنْ مِيْرَةِالْعِلْمِ، وَذَلِكَ اَنَّ
-الْعُلَمَآءَ مِنْ عِلْمِهِ امْتَارُوْا وَ مِنْ مِيْرَتِهِ
-اسْتَعْمَلُوْا
-  </p>
-</blockquote>
+> أَبَانُ بْنُ الصَّلْتِ عَنِ الصَّادِقِ: سَمِيُّ اَمِيْرِ
+> الْمُؤْمِنِيْنَ إنَّمَا هُوَ مِنْ مِيْرَةِالْعِلْمِ، وَذَلِكَ اَنَّ
+> الْعُلَمَآءَ مِنْ عِلْمِهِ امْتَارُوْا وَ مِنْ مِيْرَتِهِ
+> اسْتَعْمَلُوْا
 
 Aban bin al-Salt is reported to have said that Imam al-Sadiq (AS) said:
 Indeed naming *Amir al-mu’minin is* from ‘the provision of knowledge’;
@@ -579,12 +463,8 @@ Jabir was called that because it is said that the sword never left
 him.[^25] According to a narration indicated in the *Bihar al-Anwar*, he
 was known to be so because:
 
-<blockquote dir="rtl">
-  <p>
-تَاَبَّط سَيْفًا وَخَرَجَ فَقِيْلَ لاُمِّهِ: اَيْنَ هُوَ؟ فَقَالَتْ:
-تَأبَّط شَرًّا وَخَرَجَ.
-  </p>
-</blockquote>
+> تَاَبَّط سَيْفًا وَخَرَجَ فَقِيْلَ لاُمِّهِ: اَيْنَ هُوَ؟ فَقَالَتْ:
+> تَأبَّط شَرًّا وَخَرَجَ.
 
 ...he put a sword beneath his armpit (*ta’abbata sayfan*) and went out;
 and when his mother was asked, ‘Where is he?’ she said: He put evil
@@ -593,11 +473,7 @@ under his armpit (*ta’abbata sharran*) and left.[^26]
 In short, therefore, *Amir al-mu’minin (I provide the faithful)* could
 be a sentence which later turned into a proper noun.
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O son of the **Commander of the Bestowers of Protection**
 
@@ -609,14 +485,10 @@ Following are some narratives that define the word *mu’min*:
 1. Imam al-Sadiq (AS) was asked why a believer was known as *mu’min* and
 he said:
 
-<blockquote dir="rtl">
-  <p>
-لِأَنَّهُ اشْتَقَّ لِلْمُؤْمِنِ اسْماً مِنْ أَسْمَائِهِ تَعَالَى
-فَسَمَّاهُ مُؤْمِنا، وَإِنَّمَا سُمِّيَ الْمُؤْمِنُ لِأَنَّهُ يُؤْمَنُ
-مِنْ عَذَابِ اللَّهِ تَعَالَى، وَيُؤْمِنُ عَلىَ اللهِ يَوْمَ
-الْقِيَامَةِ فَيُجِيْزُ لَهُ ذَلِكَ.
-  </p>
-</blockquote>
+> لِأَنَّهُ اشْتَقَّ لِلْمُؤْمِنِ اسْماً مِنْ أَسْمَائِهِ تَعَالَى
+> فَسَمَّاهُ مُؤْمِنا، وَإِنَّمَا سُمِّيَ الْمُؤْمِنُ لِأَنَّهُ يُؤْمَنُ
+> مِنْ عَذَابِ اللَّهِ تَعَالَى، وَيُؤْمِنُ عَلىَ اللهِ يَوْمَ
+> الْقِيَامَةِ فَيُجِيْزُ لَهُ ذَلِكَ.
 
 It is because He (Allah) derived for the believer a name from His Names,
 and named him *mu’min*. And he was named *mu’min* because he is
@@ -627,12 +499,8 @@ for him.
 2. Imam al-Sadiq (AS) when defining the meaning of the Divine Name
 *al-Mu’min* is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-سُمِّيَ الْبَارِئ ُعَزَّ وَجَلَّ مُؤْمِنًا لأنَّهُ يُؤْمِنُ مِنْ
-عَذاَبِهِ مَنْ أَطاعَهُ
-  </p>
-</blockquote>
+> سُمِّيَ الْبَارِئ ُعَزَّ وَجَلَّ مُؤْمِنًا لأنَّهُ يُؤْمِنُ مِنْ
+> عَذاَبِهِ مَنْ أَطاعَهُ
 
 The Maker, Invincible and Exalted, was named *Mu’min* because He
 protects (*yu’minu*) whosoever obeys Him from His punishment...[^27]
@@ -647,24 +515,16 @@ from Allah.
 
 3. The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ اُنَبِّئُكُمْ لِمَ سُمِّيَ الْمُؤْمِنُ مُؤْمِنًا؟ لإِيْمَانِهِ
-النَّاسَ عَلىَ أَنْفُسِهِمْ وَأَمْوَالِهِمْ
-  </p>
-</blockquote>
+> أَلاَ اُنَبِّئُكُمْ لِمَ سُمِّيَ الْمُؤْمِنُ مُؤْمِنًا؟ لإِيْمَانِهِ
+> النَّاسَ عَلىَ أَنْفُسِهِمْ وَأَمْوَالِهِمْ
 
 Should I not inform you why a believer was named *mu’min*? It is because
 he grants security to people in themselves and their wealth.
 
 4. The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهِ مَا سُمِّيَ الْمُؤْمِنُ مُؤْمِناً إِلاَّ كَرَامَةً لِأَمِيرِ
-الْمُؤْمِنِين
-  </p>
-</blockquote>
+> وَاللَّهِ مَا سُمِّيَ الْمُؤْمِنُ مُؤْمِناً إِلاَّ كَرَامَةً لِأَمِيرِ
+> الْمُؤْمِنِين
 
 “I swear by Allah, the believer was not named *mu’min* save in honor of
 Amir al-Mu’minin."
@@ -705,12 +565,8 @@ words, and deeds, all reflect utter submission to Allah’s will.
 The Holy Prophet (S) describing some of the phenomena of the Day of
 Judgment to Imam ‘Ali (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-...ثُمَّ يُنَادِيْ مُنَادٍ مِنْ قِبَلِ اللهِ تَعَالى: أَلاَ إِنَّ
-عَلِيًّا وَشِيْعَتَهُ الآمِنُوْنَ يَوْمَ الْقِيَامَةِ
-  </p>
-</blockquote>
+> ...ثُمَّ يُنَادِيْ مُنَادٍ مِنْ قِبَلِ اللهِ تَعَالى: أَلاَ إِنَّ
+> عَلِيًّا وَشِيْعَتَهُ الآمِنُوْنَ يَوْمَ الْقِيَامَةِ
 
 ...Thereafter a caller on behalf of Allah would call: Look! Surely ‘Ali
 and his followers are the protected ones (*al-aminun*) on the Judgment
@@ -718,13 +574,9 @@ Day.[^28]
 
 And in another tradition, the Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ، أَنْتَ وَشِيْعَتُكَ عَلىَ الْحَوْضِ تَسْقُوْنَ مَنْ
-أَحْبَبْتُمْ، وَتَمْنَعُوْنَ مَنْ كَرِهْتُمْ، وََأَنْتُمْ الآمِنُوْنَ
-يَوْمَ الْفَزَعِ الأَكْبَر...
-  </p>
-</blockquote>
+> يَا عَلِيُّ، أَنْتَ وَشِيْعَتُكَ عَلىَ الْحَوْضِ تَسْقُوْنَ مَنْ
+> أَحْبَبْتُمْ، وَتَمْنَعُوْنَ مَنْ كَرِهْتُمْ، وََأَنْتُمْ الآمِنُوْنَ
+> يَوْمَ الْفَزَعِ الأَكْبَر...
 
 O ‘Ali, you and your followers would quench the thirst of whom you love
 at the Fountain, and hamper those whom you abhor. ***You are the
@@ -735,21 +587,13 @@ Some of the verses of the Holy Qur\`an also inform us that by
 maintaining pure faith and observing *taqwa*, ‘protection’ (*aman*) is a
 guarantee:
 
-<blockquote dir="rtl">
-  <p>
-الَّذينَ آمَنُوا وَلَمْ يَلْبِسُوا إيمانَهُمْ بِظُلْمٍ أُولئِكَ لَهُمُ
-الأَمْنُ وَهُمْ مُهْتَدُونَ
-  </p>
-</blockquote>
+> الَّذينَ آمَنُوا وَلَمْ يَلْبِسُوا إيمانَهُمْ بِظُلْمٍ أُولئِكَ لَهُمُ
+> الأَمْنُ وَهُمْ مُهْتَدُونَ
 
 ***Those who have faith and do not taint their faith with wrongdoing for
 such there shall be safety, and they are the [rightly] guided.”(6:82)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقينَ في‏ مَقامٍ أَمينٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقينَ في‏ مَقامٍ أَمينٍ
 
 ***Indeed the God wary are in a secure station (44:51)***
 
@@ -761,13 +605,9 @@ life serves as a lesson of *aman* and protection from Hell Fire.
 In one of the supplications of the Holy month of Sha’ban we express the
 following about the Ahl al-Bayt (AS):
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ صَل ِّعَلىَ مُحَمَّدٍ وَّآل ِمُحَمَّد اَلْفُلْكِ
-الْجَارِيَةِ فِي اللُّجَجِ الْغَامِرَةِ يَأْمَنُ مَنْ رَكِبَهَا
-وَيَغْرَقُ مَنْ تَرَكَهَا
-  </p>
-</blockquote>
+> اَللَّهُمَّ صَل ِّعَلىَ مُحَمَّدٍ وَّآل ِمُحَمَّد اَلْفُلْكِ
+> الْجَارِيَةِ فِي اللُّجَجِ الْغَامِرَةِ يَأْمَنُ مَنْ رَكِبَهَا
+> وَيَغْرَقُ مَنْ تَرَكَهَا
 
 O Allah bless Muhammad and his progeny, the moving ark in the covering
 depths [of the sea], whosoever boards in it is protected and whosoever
@@ -799,11 +639,7 @@ as the Commander of those who have faith, then we should resolve in
 following his footsteps and drawing closer to him so that we are
 entitled to be the bearers of iman and faith.
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
-  </p>
-</blockquote>
+> يَابْنَ اَمِيْرِالْمُؤْمِنِيْنَ
 
 O Son Of The **Commander Of Those Who Confer Tranquility**
 
@@ -831,23 +667,15 @@ the Prophet (S) sets for his well-known migration to Madina. Indeed I
 feel it is only the Holy Qur\`an that can properly narrate the nature of
 this historic incident. Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ النَّاسِ مَنْ يَشْري نَفْسَهُ ابْتِغاءَ مَرْضاتِ اللَّهِ
-وَاللَّهُ رَؤُوْفٌ بِالْعِبادِ
-  </p>
-</blockquote>
+> وَ مِنَ النَّاسِ مَنْ يَشْري نَفْسَهُ ابْتِغاءَ مَرْضاتِ اللَّهِ
+> وَاللَّهُ رَؤُوْفٌ بِالْعِبادِ
 
 ***And among the people is he who sells his soul seeking the pleasure of
 Allah, and Allah is most kind to [His] servants.(2:207)***
 
 Imam Zayn al-’Abidin (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-نَزَلَتْ فِيْ عَلِيٍّ حِيْنَ بَاتَ عَلىَ فِرَاشِ رَسُوْلِ اللهِ
-  </p>
-</blockquote>
+> نَزَلَتْ فِيْ عَلِيٍّ حِيْنَ بَاتَ عَلىَ فِرَاشِ رَسُوْلِ اللهِ
 
 This verse was revealed about ‘Ali (AS) when he slept on the bed of the
 Messenger of Allah (S).[^31]
@@ -855,11 +683,7 @@ Messenger of Allah (S).[^31]
 In another tradition which shows the extent of *itmi’nan* and
 tranquility of ‘Ali (AS), we are told:
 
-<blockquote dir="rtl">
-  <p>
-...فَباَتَ عَلِيٌّ مُوَطنًا نَفْسَهُ عَلىَ الْقَتْلِ
-  </p>
-</blockquote>
+> ...فَباَتَ عَلِيٌّ مُوَطنًا نَفْسَهُ عَلىَ الْقَتْلِ
 
 So Imam ‘Ali (AS) slept while he stationed his soul to be killed...[^32]
 
@@ -872,18 +696,14 @@ Ayatullah al-Rayshahri quoting *al-Tabaqat al-Kubra* among other
 historical texts writes in his *Mawsu’at al-Imam ‘Ali bin Abi Talib
 (AS)*:
 
-<blockquote dir="rtl">
-  <p>
-...فَاقْتَرَحَ عَلى عَلِيٍّ أَنْ يَبِيْتَ فِيْ فِرَاشِهِ تِلْكَ
-اللَّيْلَة، فَسَأَلَهُ: أَوَ تُسْلَمْ يَا رَسُوْلَ اللهِ؟ قَالَ:
-نَعَمْ. فَرَحَّبَ الإِمَامُ بِهَذاَ الاِقْتِرَاحِ مُوَطنًا نَفْسَهُ
-لِلْقَتْلِ عِنْدَ مُوَاجَهَةِ الْمُشْرِكِيْنَ صَبَاحًا، وَسَجَدَ
-سَجْدَةَ الشُّكْرِ عَلىَ هَذِهِ الْمَوْهِبَةِ الْعَظِيْمَةِ
-وَالْتَحَفَ بِالْبُرْدِ الْيَمَانِي الأَخْضَرِ الَّذِيْ كَانَ
-يَلْتَحِفُ بِهِ النَّبِيُّ عِنْدَ نَوْمِهِ، َونَامَ مُطمَئِنًّا فِيْ
-فِرَاشِهِ
-  </p>
-</blockquote>
+> ...فَاقْتَرَحَ عَلى عَلِيٍّ أَنْ يَبِيْتَ فِيْ فِرَاشِهِ تِلْكَ
+> اللَّيْلَة، فَسَأَلَهُ: أَوَ تُسْلَمْ يَا رَسُوْلَ اللهِ؟ قَالَ:
+> نَعَمْ. فَرَحَّبَ الإِمَامُ بِهَذاَ الاِقْتِرَاحِ مُوَطنًا نَفْسَهُ
+> لِلْقَتْلِ عِنْدَ مُوَاجَهَةِ الْمُشْرِكِيْنَ صَبَاحًا، وَسَجَدَ
+> سَجْدَةَ الشُّكْرِ عَلىَ هَذِهِ الْمَوْهِبَةِ الْعَظِيْمَةِ
+> وَالْتَحَفَ بِالْبُرْدِ الْيَمَانِي الأَخْضَرِ الَّذِيْ كَانَ
+> يَلْتَحِفُ بِهِ النَّبِيُّ عِنْدَ نَوْمِهِ، َونَامَ مُطمَئِنًّا فِيْ
+> فِرَاشِهِ
 
 ...So the Prophet (S) suggested to ‘Ali (AS) that he sleeps that night
 in his bed, and ‘Ali (AS) asked him: Would you be protected thereby O
@@ -908,30 +728,22 @@ Both his words as well as his deeds reveal this reality. In his
 well-known supplication of ‘Arafa, Imam al-Husayn (AS) is narrated to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا ذَاوَجَدَ مَنْ فَقَدَكَ وَمَا الَّذِيْ فَقَدَ من وَجَدَكَ؟
-  </p>
-</blockquote>
+> مَا ذَاوَجَدَ مَنْ فَقَدَكَ وَمَا الَّذِيْ فَقَدَ من وَجَدَكَ؟
 
 What has he who has lost You found? And what has he who has found You
 lost?[^34]
 
 And Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-‏ اِقْرَؤُوا سُوْرَةَ الْفَجْرِ فِيْ فَرَائِضِكُمْ وَنَوَافِلِكُمْ،
-فَإِنها سُوْرَةُ الْحُسَيْنِ وَارْغَبوا فِيْهَا رَحِمَكمُ الله فَقَالَ
-لَهُ أبُو أُسَامَة وَكَانَ حَاضِرَ الْمَجْلِس: كَيْفَ صَارَتْ هَذِهِ
-السُّوْرَةُ لِلْحُسَيْنِ خَاصَّةً؟ فَقَالَ: أَلاَ تَسْمَعُ إِلَى
-قَوْلِهِ تَعَالَى: يَا أَيَّتُهَا النَّفْسُ الْمُطمَئِنَّة اِرْجِعِيْ
-إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّة فَادْخُلِيْ فِيْ عِبَادِي
-وَادْخُلِيْ جَنَّتِيْ إِنَّمَا يَعْنِي الْحُسَيْن بْنِ عَلِيّ
-صَلَوَاتُ اللهِ عَلَيْهِمَا، فَهُوَ ذُوْ النَّفْسِ الْمُطمَئِنَّة
-الرَّاضِِيَةِ الْمَرْضِيَّةِ...
-  </p>
-</blockquote>
+> ‏ اِقْرَؤُوا سُوْرَةَ الْفَجْرِ فِيْ فَرَائِضِكُمْ وَنَوَافِلِكُمْ،
+> فَإِنها سُوْرَةُ الْحُسَيْنِ وَارْغَبوا فِيْهَا رَحِمَكمُ الله فَقَالَ
+> لَهُ أبُو أُسَامَة وَكَانَ حَاضِرَ الْمَجْلِس: كَيْفَ صَارَتْ هَذِهِ
+> السُّوْرَةُ لِلْحُسَيْنِ خَاصَّةً؟ فَقَالَ: أَلاَ تَسْمَعُ إِلَى
+> قَوْلِهِ تَعَالَى: يَا أَيَّتُهَا النَّفْسُ الْمُطمَئِنَّة اِرْجِعِيْ
+> إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّة فَادْخُلِيْ فِيْ عِبَادِي
+> وَادْخُلِيْ جَنَّتِيْ إِنَّمَا يَعْنِي الْحُسَيْن بْنِ عَلِيّ
+> صَلَوَاتُ اللهِ عَلَيْهِمَا، فَهُوَ ذُوْ النَّفْسِ الْمُطمَئِنَّة
+> الرَّاضِِيَةِ الْمَرْضِيَّةِ...
 
 Read *Surat al-Fajr* in your obligatory and supererogatory prayers, for
 indeed it is the chapter of al-Husayn (AS), and have a liking to it, may
@@ -949,12 +761,8 @@ which describes the situation of Imam al-Husayn (AS) and his brilliant
 companions before their departure from this world when the situation
 intensified as follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَكَانَ الْحُسَيْنُ وَبَعْضُ مَنْ مَعَهُ مِنْ خَصَائِصِهِ تُشْرِقُ
-أَلْوَانُهُمْ، وَتَهْدَأُ جَوَارِحُهُم، وَتَسْكُنُ نُفُوْسُهُمْ...
-  </p>
-</blockquote>
+> ...وَكَانَ الْحُسَيْنُ وَبَعْضُ مَنْ مَعَهُ مِنْ خَصَائِصِهِ تُشْرِقُ
+> أَلْوَانُهُمْ، وَتَهْدَأُ جَوَارِحُهُم، وَتَسْكُنُ نُفُوْسُهُمْ...
 
 ...while the situation of al-Husayn (AS) and some of those with him,
 would be such that their colors would shine, the parts of their bodies
@@ -968,15 +776,11 @@ tranquil soul.
 
 ‘Allama Majlisi in his *Bihar al-Anwar* narrates:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنَس بْن مَالِك قَالَ : قَالَ رَسُوْلُ اللهِ: اَلَّذِيْنَ
-آمَنُوْا وَتَطمَئِنُّ قُلُوْبُهُمْ بِذِكْرِ اللهِ أَلاَ بِذِكْرِ اللهِ
-تَطمَئِنَّ الْقُلُوْب: أَتَدْرِيْ مَنْ هُمْ يَا ابْنَ أُمّ سليم؟
-قُلْتُ: مَنْ هُمْ يَا رَسُوْلَ اللهِ؟ قَالَ: نَحْنُ أَهْلُ الْبَيْتِ
-وَشِيْعَتُنَا.
-  </p>
-</blockquote>
+> عَنْ أَنَس بْن مَالِك قَالَ : قَالَ رَسُوْلُ اللهِ: اَلَّذِيْنَ
+> آمَنُوْا وَتَطمَئِنُّ قُلُوْبُهُمْ بِذِكْرِ اللهِ أَلاَ بِذِكْرِ اللهِ
+> تَطمَئِنَّ الْقُلُوْب: أَتَدْرِيْ مَنْ هُمْ يَا ابْنَ أُمّ سليم؟
+> قُلْتُ: مَنْ هُمْ يَا رَسُوْلَ اللهِ؟ قَالَ: نَحْنُ أَهْلُ الْبَيْتِ
+> وَشِيْعَتُنَا.
 
 Anas bin Malik is reported to have said: The Messenger of Allah recited
 ***“And those who have faith and their hearts are tranquil by the
@@ -984,11 +788,7 @@ remembrance of Allah...”*** **(13:28)** and said: Do you know who they
 are, O son of Umm Sulaym? I said: Who are they, O Messenger of Allah? He
 (S) said: They are we and our Shi’a.[^37]
 
-<blockquote dir="rtl">
-  <p>
-...وَابْنَ سَيِّدِ الْوصِيِّيْنَ
-  </p>
-</blockquote>
+> ...وَابْنَ سَيِّدِ الْوصِيِّيْنَ
 
 ...and the son of the **Leader of the Successors**
 
@@ -1004,14 +804,10 @@ the Leader of the Apostles (*sayyid al-rusul*), who bore the most
 comprehensive message of Allah, the Qur\`an, which is introduced as
 *al-Muhaymin*. Consider the following verse of the Holy Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ
-يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ فَاحْكُم بَيْنَهُم
-بِمَا أَنزَلَ اللّهُ وَلاَ تَتَّبِعْ أَهْوَاءهُمْ عَمَّا جَاءكَ مِنَ
-الْحَقِّ...
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ
+> يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ فَاحْكُم بَيْنَهُم
+> بِمَا أَنزَلَ اللّهُ وَلاَ تَتَّبِعْ أَهْوَاءهُمْ عَمَّا جَاءكَ مِنَ
+> الْحَقِّ...
 
 ***We have sent down to you the Book with the truth, confirming what was
 before it of the Book and as a guardian (muhayminan) over it. So judge
@@ -1026,27 +822,19 @@ the Qur\`an *(hamalat kitabilLah*) they excel the other prophets and
 their successors and are rightly known as *sadat al-awsiya*’. Consider
 the following narrations:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللَّهِ: أَنَا سَيِّدُ النَّبِيِّينَ وَوَصِيِّي سَيِّدُ
-الْوَصِيِّينَ وَأَوْصِيَاؤُهُ سَادَةُ الاَوْصِيَاء
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللَّهِ: أَنَا سَيِّدُ النَّبِيِّينَ وَوَصِيِّي سَيِّدُ
+> الْوَصِيِّينَ وَأَوْصِيَاؤُهُ سَادَةُ الاَوْصِيَاء
 
 The Apostle of Allah, upon whom and whose immaculate progeny be peace,
 said: ‘I am the leader of the Prophets and **my successor is the leader
 of all the successors, and his successors are the leaders of all the
 successors**.[^38]
 
-<blockquote dir="rtl">
-  <p>
-وعَنِ ابْنِ عَبَّاسٍ قَالَ قَالَ رَسُولُ اللَّهِ: أَنَا سَيِّدُ
-الأَنْبِيَاءِ وَالْمُرْسَلِينَ وَأَفْضَلُ مِنَ الْمَلاَئِكَةِ
-الْمُقَرَّبِينَ وَأَوْصِيَائِي سَادَةُ أَوْصِيَاءِ النَّبِيِّينَ
-وَالْمُرْسَلِينَ وَذُرِّيَّتِي أَفْضَلُ ذُرِّيَّاتِ النَّبِيِّينَ
-وَالْمُرْسَلِينَ...
-  </p>
-</blockquote>
+> وعَنِ ابْنِ عَبَّاسٍ قَالَ قَالَ رَسُولُ اللَّهِ: أَنَا سَيِّدُ
+> الأَنْبِيَاءِ وَالْمُرْسَلِينَ وَأَفْضَلُ مِنَ الْمَلاَئِكَةِ
+> الْمُقَرَّبِينَ وَأَوْصِيَائِي سَادَةُ أَوْصِيَاءِ النَّبِيِّينَ
+> وَالْمُرْسَلِينَ وَذُرِّيَّتِي أَفْضَلُ ذُرِّيَّاتِ النَّبِيِّينَ
+> وَالْمُرْسَلِينَ...
 
 Ibn ‘Abbas is reported to have said: The Holy Prophet (S) said: ‘I am
 the leader of the Prophets and Apostles, and better than the angels
@@ -1059,12 +847,8 @@ al-Sadiq (AS) tells his companion Safwan that all the Divine prophets
 and their sucessors visit Imam al-Husayn (AS), including the Imam (AS)
 himself. He (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-...وَمُحَمَّدٌ اَفْضَلُ الاَنْبِيَاءِ وَنَحْنُ اَفْضَلُ
-الاَوْصِيَاءِ...
-  </p>
-</blockquote>
+> ...وَمُحَمَّدٌ اَفْضَلُ الاَنْبِيَاءِ وَنَحْنُ اَفْضَلُ
+> الاَوْصِيَاءِ...
 
 ...[including] Muhammad **the best of the Prophets and we, the best
 successors**...[^40]
@@ -1104,11 +888,7 @@ This same evidence can be employed to prove that Imam al-Husayn (AS) is
 among the leaders of all the sucessors of the previous prophets of Allah
 (*sayyid al-wasiyyin*).
 
-<blockquote dir="rtl">
-  <p>
-...وَابْنَ سَيِّدِ الْوصِيِّيْنَ
-  </p>
-</blockquote>
+> ...وَابْنَ سَيِّدِ الْوصِيِّيْنَ
 
 ...and the son of the **Leader of the Successors**
 
@@ -1225,5 +1005,4 @@ word ‘abata’
 [^40]: Ibid., v.101, p. 60
 
 [^41]: Ayatullah Jawadi Amuli, Qur\`an dar Qur\`an, p. 292
-
 

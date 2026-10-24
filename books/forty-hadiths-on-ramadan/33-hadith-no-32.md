@@ -11,4 +11,3 @@ the next Night of Qadr.
 
 * Al-Kafi, vol. 4, pg. 157*
 
-

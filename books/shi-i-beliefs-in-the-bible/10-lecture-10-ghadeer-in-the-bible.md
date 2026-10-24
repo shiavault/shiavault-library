@@ -152,4 +152,3 @@ another. However, the whole verse has an eschatological tone, suggesting
 either punishment in the grave for failure to recognize the Imam or
 punishment in the judgement.
 
-

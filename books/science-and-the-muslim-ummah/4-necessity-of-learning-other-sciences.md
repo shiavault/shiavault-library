@@ -32,9 +32,7 @@ scientific progress.
 majesty and grandeur, not one subservient to and dependent on the
 unbelievers, as can be seen from this verse of the Qur’an:
 
-<p dir="rtl">
 وَلَن يَجْعَلَ اللَّـهُ لِلْكَافِرِ‌ينَ عَلَى الْمُؤْمِنِينَ سَبِيلًا
-</p>
 
 ***...and Allah does not grant the unbelievers any way (of domination)
 over the believers. (4:141)***
@@ -51,13 +49,11 @@ deserved to study most and made themselves dependent on others.
 Should not the Muslims equip themselves in every way to defend
 themselves against the non‑believers as stressed by the following verse?
 
-<p dir="rtl">
 **وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّ‌بَاطِ
 الْخَيْلِ تُرْ‌هِبُونَ بِهِ عَدُوَّ اللَّـهِ وَعَدُوَّكُمْ وَآخَرِ‌ينَ
 مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّـهُ يَعْلَمُهُمْ وَمَا تُنفِقُوا
 مِن شَيْءٍ فِي سَبِيلِ اللَّـهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا
 تُظْلَمُونَ**
-</p>
 
 ***And prepare against them what force you can...so that you may dismay
 the enemy of God and your enemy and others beside them whom you know
@@ -80,9 +76,7 @@ tech­nical knowledge. Otherwise their societies will inevitably remain
 under the domination of one superpower or another. Imam Ja'far al‑Sadiq
 (A) says:
 
-<p dir="rtl">
 العالم بزمانه لا تهجم عليه اللوابس
-</p>
 
 A knowledgeable man who is abreast of his time will not be overwhelmed
 by unexpected problems.25
@@ -103,11 +97,9 @@ of creation and requires human beings to apply their reason and
 perceptual faculties for the discovery of the secrets of nature. Few of
 these verses we shall quote here:
 
-<p dir="rtl">
 وَالْأَرْ‌ضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَ‌وَاسِيَ وَأَنبَتْنَا
 فِيهَا مِن كُلِّ زَوْجٍ بَهِيجٍ تَبْصِرَ‌ةً وَذِكْرَ‌ىٰ لِكُلِّ عَبْدٍ
 مُّنِيبٍ
-</p>
 
 ***What, have they not beheld heaven above them, how We have built it,
 and decked it out fair, and it has no cracks? And the earth‑We stretched
@@ -115,40 +107,32 @@ it forth, and cast on it firm mountains, and We caused to grow therein
 of every joyous kind for an insight and a reminder to every penitent
 servant. (50:7-8)***
 
-<p dir="rtl">
 وَإِلَى السَّمَاءِ كَيْفَ رُ‌فِعَتْ وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ
 وَإِلَى الْأَرْ‌ضِ كَيْفَ سُطِحَتْ
-</p>
 
 ***What do they not consider how the camel was created, how heaven was
 lifted up, how the mountains were hoisted, how the earth was
 outstretched? (88:18‑20)***
 
-<p dir="rtl">
 قُلْ سِيرُ‌وا فِي الْأَرْ‌ضِ فَانظُرُ‌وا كَيْفَ بَدَأَ الْخَلْقَ ثُمَّ
 اللَّـهُ يُنشِئُ النَّشْأَةَ الْآخِرَ‌ةَ إِنَّ اللَّـهَ عَلَىٰ كُلِّ
 شَيْءٍ قَدِيرٌ‌
-</p>
 
 ***Say: Journey in the land, then behold how He originated creation;
 then God causes the second growth; God is powerful over everything.
 (29:20)***
 
-<p dir="rtl">
 وَفِي الْأَرْ‌ضِ آيَاتٌ لِّلْمُوقِنِينَ وَفِي أَنفُسِكُمْ أَفَلَا
 تُبْصِرُ‌ونَ
-</p>
 
 ***In the earth are signs for those having sure faith; and in
 yourselves; what, do you not see? (51:20‑21)***
 
-<p dir="rtl">
 إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَاخْتِلَافِ اللَّيْلِ
 وَالنَّهَارِ‌ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُ‌ونَ
 اللَّـهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُ‌ونَ فِي
 خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ رَ‌بَّنَا مَا خَلَقْتَ هَـٰذَا
 بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ‌
-</p>
 
 ***Surely in the creation of the heavens and the earth and in the
 alternation of the night and day there are signs for men possessed of
@@ -157,14 +141,12 @@ reflect upon the creation of the heavens and the earth: O Lord, Thou
 hast not created this out of falsehood. Glory be to Thee! Guard us
 against the chastisement of the Fire..' (3:190‑191)***
 
-<p dir="rtl">
 إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَاخْتِلَافِ اللَّيْلِ
 وَالنَّهَارِ‌ وَالْفُلْكِ الَّتِي تَجْرِ‌ي فِي الْبَحْرِ‌ بِمَا يَنفَعُ
 النَّاسَ وَمَا أَنزَلَ اللَّـهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا
 بِهِ الْأَرْ‌ضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ
 وَتَصْرِ‌يفِ الرِّ‌يَاحِ وَالسَّحَابِ الْمُسَخَّرِ‌ بَيْنَ السَّمَاءِ
 وَالْأَرْ‌ضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
-</p>
 
 ***Surely in the creation of the heavens and the earth and the
 alternation of night and day and the ship that runs in the sea with
@@ -184,12 +166,10 @@ this point. The Prophet Moses (A) makes a similar argument in his
 confrontation with Pharaoh. The Qur’an quotes Moses as putting his
 argument in these words:
 
-<p dir="rtl">
 قَالَ رَ‌بُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ …
 الَّذِي جَعَلَ لَكُمُ الْأَرْ‌ضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا
 وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَ‌جْنَا بِهِ أَزْوَاجًا مِّن
 نَّبَاتٍ شَتَّىٰ
-</p>
 
 ***He said, Our Lord is He who gave everything its creation, then guided
 it... He who appointed the earth to be a cradle for you and therein
@@ -198,7 +178,6 @@ We have brought forth diverse kinds of plants. (20:50‑53)***
 
 Prophet Noah (A) is quoted in the Qur’an as saying to his people:
 
-<p dir="rtl">
 قَالَ رَ‌بِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارً‌ا ﴿٥﴾ فَلَمْ
 يَزِدْهُمْ دُعَائِي إِلَّا فِرَ‌ارً‌ا ﴿٦﴾ …فَقُلْتُ اسْتَغْفِرُ‌وا
 رَ‌بَّكُمْ إِنَّهُ كَانَ غَفَّارً‌ا ﴿١٠﴾ … مَّا لَكُمْ لَا تَرْ‌جُونَ
@@ -206,13 +185,10 @@ Prophet Noah (A) is quoted in the Qur’an as saying to his people:
 تَرَ‌وْا كَيْفَ خَلَقَ اللَّـهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا ﴿١٥﴾ وَجَعَلَ
 الْقَمَرَ‌ فِيهِنَّ نُورً‌ا وَجَعَلَ الشَّمْسَ سِرَ‌اجًا ﴿١٦﴾ وَاللَّـهُ
 أَنبَتَكُم مِّنَ الْأَرْ‌ضِ نَبَاتًا
-</p>
 
-<p dir="rtl">
 ﴿١٧﴾ ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِ‌جُكُمْ إِخْرَ‌اجًا ﴿١٨﴾
 وَاللَّـهُ جَعَلَ لَكُمُ الْأَرْ‌ضَ بِسَاطًا ﴿١٩﴾ لِّتَسْلُكُوا مِنْهَا
 سُبُلًا فِجَاجًا ﴿٢٠﴾
-</p>
 
 ***He said, “My Lord, l have called my people by night and by day, but
 my call­ing has only increased them in flight...and I said, Ask you
@@ -229,14 +205,12 @@ universe. The Qur’an considers only men of knowledge to be capable of
 benefiting from the book of nature as can be seen from the follow­ing
 verse:
 
-<p dir="rtl">
 أَلَمْ تَرَ‌ أَنَّ اللَّـهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَ‌جْنَا
 بِهِ ثَمَرَ‌اتٍ مُّخْتَلِفًا أَلْوَانُهَا وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ
 وَحُمْرٌ‌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَ‌ابِيبُ سُودٌ ﴿٢٧﴾ وَمِنَ
 النَّاسِ وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ كَذَٰلِكَ
 إِنَّمَا يَخْشَى اللَّـهَ مِنْ عِبَادِهِ الْعُلَمَاءُ إِنَّ اللَّـهَ
 عَزِيزٌ غَفُورٌ‌ ﴿٢٨﴾
-</p>
 
 ***Hast thou not seen how that God sends down out of heaven water, and
 there­with We bring forth fruits of diverse hues? And in the mountains
@@ -250,18 +224,14 @@ the majesty and magnificence of God's creation and as pos­sessing the
 humility produced by their knowledge of Divine power and greatness. This
 point is stressed in other verses of the Qur’an:
 
-<p dir="rtl">
 وَتِلْكَ الْأَمْثَالُ نَضْرِ‌بُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا
 الْعَالِمُونَ ﴿٤٣﴾
-</p>
 
 ***And these similitudes‑We strike them for the people, but none
 understands them save those who know. (29:43)***
 
-<p dir="rtl">
 بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ‌ الَّذِينَ أُوتُوا الْعِلْمَ
 وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ ﴿٤٩﴾
-</p>
 
 ***Nay; rather it is signs, clear signs' in the breasts of those who
 have been given knowledge; and none denies Our signs but the evildoers.
@@ -284,12 +254,10 @@ nature and unravel the wonderful order and scheme of creation that
 underlies nature. It is in this light that we should read the verses of
 the Qur’an as the following:
 
-<p dir="rtl">
 الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَ‌ىٰ فِي خَلْقِ
 الرَّ‌حْمَـٰنِ مِن تَفَاوُتٍ فَارْ‌جِعِ الْبَصَرَ‌ هَلْ تَرَ‌ىٰ مِن
 فُطُورٍ‌ ﴿٣﴾ ثُمَّ ارْ‌جِعِ الْبَصَرَ‌ كَرَّ‌تَيْنِ يَنقَلِبْ إِلَيْكَ
 الْبَصَرُ‌ خَاسِئًا وَهُوَ حَسِيرٌ‌ ﴿٤﴾
-</p>
 
 ***Thou seest not in the creation of the All‑merciful any imperfection.
 Return thy gaze; seest thou any fissure? Then return thy gaze, and
@@ -299,10 +267,8 @@ It means that the further does human knowledge make progress in
 understanding God's creation, the more His Greatness and Majesty will
 become obvious to men. Consider the following verse:
 
-<p dir="rtl">
 سَنُرِ‌يهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ
 يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ
-</p>
 
 ***We shall show them Our signs in the horizons and in themselves, till
 it is clear to them that it is the truth. (41:53)***
@@ -317,22 +283,18 @@ of things and organisms can be useful for improvement of conditions of
 human life. This aspect is emphasized by numerous verses of the Qur’an
 of which we quote a few:
 
-<p dir="rtl">
 وَسَخَّرَ‌ لَكُمُ اللَّيْلَ وَالنَّهَارَ‌ وَالشَّمْسَ وَالْقَمَرَ‌.
 وَالنُّجُومُ مُسَخَّرَ‌اتٌ بِأَمْرِ‌هِ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ
 لِّقَوْمٍ يَعْقِلُونَ ﴿١٢﴾ وَمَا ذَرَ‌أَ لَكُمْ فِي الْأَرْ‌ضِ
 مُخْتَلِفًا أَلْوَانُهُ  إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ
 يَذَّكَّرُ‌ونَ ﴿١٣﴾
-</p>
 
-<p dir="rtl">
 وَهُوَ الَّذِي سَخَّرَ‌ الْبَحْرَ‌ لِتَأْكُلُوا مِنْهُ لَحْمًا طَرِ‌يًّا
 وَتَسْتَخْرِ‌جُوا مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَ‌ى الْفُلْكَ
 مَوَاخِرَ‌ فِيهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُ‌ونَ
 ﴿١٤﴾ وَأَلْقَىٰ فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِكُمْ
 وَأَنْهَارً‌ا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ ﴿١٥﴾ وَعَلَامَاتٍ
 وَبِالنَّجْمِ هُمْ يَهْتَدُونَ ﴿١٦﴾
-</p>
 
 ***And He subjected to you the night and day, and the sun and moon; and
 the stars are subjected by His command. Surely in that are signs for
@@ -348,34 +310,28 @@ mountains, lest it shake with you, and rivers and ways; so haply you
 will be guided; and waymarks; and by the stars they are guided.
 (16:12‑16)***
 
-<p dir="rtl">
 أَلَمْ تَرَ‌وْا أَنَّ اللَّـهَ سَخَّرَ‌ لَكُم مَّا فِي السَّمَاوَاتِ
 وَمَا فِي الْأَرْ‌ضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَ‌ةً
 وَبَاطِنَةً وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّـهِ بِغَيْرِ‌ عِلْمٍ
 وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ‌ ﴿٢٠﴾
-</p>
 
 ***Have you not seen how that God has subjected to you whatsoever is in
 the heavens and earth, and He has lavished on you His blessings, outward
 and inward? And among men there is such a one that disputes concerning
 God without knowledge or guidance, or an illuminating book. (31:20)***
 
-<p dir="rtl">
 وَسَخَّرَ‌ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ جَمِيعًا
 مِّنْهُ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُ‌ونَ ﴿١٣﴾
-</p>
 
 ***And He has subjected to you what is in the heavens and what is in the
 earth, all together, from Him. Surely in that are signs for a people who
 reflect. (45:13)***
 
-<p dir="rtl">
 وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ الْفُلْكِ
 وَالْأَنْعَامِ مَا تَرْ‌كَبُونَ ﴿١٢﴾ لِتَسْتَوُوا عَلَىٰ ظُهُورِ‌هِ
 ثُمَّ تَذْكُرُ‌وا نِعْمَةَ رَ‌بِّكُمْ إِذَا اسْتَوَيْتُمْ عَلَيْهِ
 وَتَقُولُوا سُبْحَانَ الَّذِي سَخَّرَ‌ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ
 مُقْرِ‌نِينَ ﴿١٣﴾
-</p>
 
 ***He who created the pairs, all of them, and appointed for you ships
 and cattle such as you ride, that you be seated on their backs and then
@@ -395,11 +351,9 @@ his own possibilities and benefit from his opportunities and acquire the
 power and wisdom befitting his role as a deputy' of God and a sign' of
 His wisdom and omnipotence:
 
-<p dir="rtl">
 وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْ‌ضِ وَرَ‌فَعَ بَعْضَكُمْ
 فَوْقَ بَعْضٍ دَرَ‌جَاتٍ لِّيَبْلُوَكُمْ فِي مَا آتَاكُمْ. إِنَّ
 رَ‌بَّكَ سَرِ‌يعُ الْعِقَابِ وَإِنَّهُ لَغَفُورٌ‌ رَّ‌حِيمٌ ﴿١٦٥﴾
-</p>
 
 ***It is He who has appointed you viceroys in the earth, and has raised
 some of you in ranks above others, that He may try you in what He has
@@ -410,11 +364,9 @@ In fact, this station of being God's viceroy or deputy upon the earth
 has been bestowed upon man as a result of his capacity for acqui­sition
 of knowledge as borne out by this verse:
 
-<p dir="rtl">
 وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَ‌ضَهُمْ عَلَى
 الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَـٰؤُلَاءِ إِن كُنتُمْ
 صَادِقِينَ ﴿٣١﴾
-</p>
 
 ***He taught Adam all the names then presented them to the angels; then
 He said: Tell me the names of those if you are right.' (2:31)***
@@ -442,17 +394,13 @@ it should be an equivalent of worship of God, be instrumental in
 obtaining His good pleasure and bring man closer to His Creator. Here
 are the Qur’anic verses:
 
-<p dir="rtl">
 وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ ﴿٥٦﴾
-</p>
 
 ***I have not created jinn and mankind except to worship Me. (51:56)***
 
-<p dir="rtl">
 وَمَا أُمِرُ‌وا إِلَّا لِيَعْبُدُوا اللَّـهَ مُخْلِصِينَ لَهُ الدِّينَ
 حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ وَذَٰلِكَ دِينُ
 الْقَيِّمَةِ ﴿٥﴾
-</p>
 
 ***They were not commanded but to serve in all sincerity of their
 religion. (98:5)***
@@ -464,28 +412,21 @@ inscru­table veil (hijab akbar), whether it is linked with the natural
 sciences or the sciences of the Shariah. The great Prophet of Islam (S)
 has said:
 
-<p dir="rtl">
 من تعلَّمَ علماً لغير الله و أرادَ به غير الله فليتبوأ مقعده من النار.
-</p>
 
 Anyone who seeks knowledge not for the sake of God and uses it not in
 the way of God, should be certain of his place in hell.26
 
-<p dir="rtl">
 إنَّ الله عز وجل يقول تذاكر العلمَ بين عبادي ممّا تحيى عليه القلوب
 الميته اذا انتهوا فيه الى امري
-</p>
 
 A scholar who seeks knowledge for the sake of God will receive the
 reverence of everything; whereas a scholar who seeks knowledge as a
 means to amass wealth will be awed by everything.27
 
-<p dir="rtl">
 إنَّ الله عز وجل يقول تذاكر العلمَ بين عبادي ممّا تحيى عليه القلوب
 الميته اذا انتهوا فيه الى امري
-</p>
 
 God, the Most exalted, has said: Learned discussion between My servants
 enlivens their hearts if it leads them towards My command.’28
-
 

@@ -127,4 +127,3 @@ lonely person”
 
 [^3]: Gharar al hukm, p. 70
 
-

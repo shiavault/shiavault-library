@@ -233,4 +233,3 @@ states: "Do not spy"43.
 
 The holy Qur'an: the Chambers [^49]: 12.
 
-

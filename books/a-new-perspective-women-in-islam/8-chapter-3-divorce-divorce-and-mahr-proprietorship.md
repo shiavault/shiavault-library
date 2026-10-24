@@ -792,4 +792,3 @@ be correspondent to other aspects of marital life.
 [^5]: For more information on irrevocable divorce refer to books on
 Islamic laws, chapters on divorce.
 
-

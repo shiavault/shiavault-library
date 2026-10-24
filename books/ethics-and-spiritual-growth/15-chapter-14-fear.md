@@ -840,4 +840,3 @@ Philosophers, p. 407
 
 [^18]: al Amidi, Ghurar al hikam, p. 581
 
-

@@ -34,4 +34,3 @@ Questions
 
 3. What importance does Islam attach to the fulfillment of a promise?
 
-

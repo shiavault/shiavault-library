@@ -752,4 +752,3 @@ Morning and evening implies early and late, i.e., all the time.
 
 [^4]: Muslim: Al‑Qadar.
 
-

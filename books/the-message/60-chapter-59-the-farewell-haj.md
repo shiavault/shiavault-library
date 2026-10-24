@@ -356,4 +356,3 @@ principle, there is no contradiction between the two narratives.
 
 [^14]: Tabaqat-i Ibn Sa'd, vol. II, pp. 184-186.  
 
-

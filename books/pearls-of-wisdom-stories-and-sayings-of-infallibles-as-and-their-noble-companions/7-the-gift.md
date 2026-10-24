@@ -20,4 +20,3 @@ him feel bitter, my palate accepted the bitterness.
 
 From *Unto Thee I Grant...*
 
-

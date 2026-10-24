@@ -206,4 +206,3 @@ them. In fact, these practices are practiced by the ignorant among
 ordinary people who think that the cause of Imam al-Husayn (a.s.) to
 them is greater than the fatwas of so-and-so of ulema!!!
 
-

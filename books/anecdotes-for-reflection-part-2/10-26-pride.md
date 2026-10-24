@@ -3,24 +3,16 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَالَّذِينَ لاَ يُؤْمِنُوْنَ بِالآخِرَةِ قُلُوبُهُمْ مُّـنْكِرَةٌ وَّ
-هُمْ مُسْـتَكْبِرُونَ
-  </p>
-</blockquote>
+> فَالَّذِينَ لاَ يُؤْمِنُوْنَ بِالآخِرَةِ قُلُوبُهُمْ مُّـنْكِرَةٌ وَّ
+> هُمْ مُسْـتَكْبِرُونَ
 
 “As to those who believe not in the Hereafter, their hearts refuse to
 know, and they are arrogant.” [^1]
 
 The Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَدْخُلُ الْجَنَّةَ مَنْ کاَنَ فِي قَلْبِهِ مِثْقاَلَُ حَبَّةٍ
-مِنْ خَرْدَلٍ مِنْ کِبْرٍ.
-  </p>
-</blockquote>
+> لاَ يَدْخُلُ الْجَنَّةَ مَنْ کاَنَ فِي قَلْبِهِ مِثْقاَلَُ حَبَّةٍ
+> مِنْ خَرْدَلٍ مِنْ کِبْرٍ.
 
 “One, whose heart contains pride, (even if it is) in the measure of a
 mustard-seed, shall not enter Paradise.” [^2]
@@ -243,5 +235,4 @@ The Excellence Of the Poor Muslims
 [^7]: Pand-e-Tarikh, Volume 3, Page 37
 
 [^8]: Dastan-ha Wa Pand-ha, Volume 2, Page 126; Rauďatul Safa
-
 

@@ -80,7 +80,6 @@ the ways of life to him and to endure all that occurs from him with
 ampleness and open minded accompanied with determination most of the
 time. The precise guide posts of this stage are as follows:-
 
-
 ****FIRSTLY: CONDENSED EDUCATION.****
 
 Sound education and good manner are among the important responsibility
@@ -477,7 +476,6 @@ Cooperation in this aspect is very fruitful in giving good training to
 the child and to rescue him from perversion that do occurs in negligence
 and in heedlessness situation.
 
-
 **FIFTHLY: PROTECTION FROM SEXUAL PERVERTION.**
 
 Sexual perversion is the most dangerous type of perversion that leads
@@ -603,134 +601,132 @@ of the child's personality like the emotion, the mental and the
 conduct, it then let person reach high position that the Righteous ones
 reached. (The emulate ones).
 
-
 FIRSTLY AND LASTLY THANKS BE TO ALMIGHTY ALLAH.
 
-[^1] - Hadeeth Ila Umahaat: 207.
+[^1]: - Hadeeth Ila Umahaat: 207.
 
-[^2] - Ilmi Nnafs: 385 - by Jameel Saleeba.
+[^2]: - Ilmi Nnafs: 385 - by Jameel Saleeba.
 
-[^3] - Ilmi Nnafs Attarbawi: 478 - 486.
+[^3]: - Ilmi Nnafs Attarbawi: 478 - 486.
 
-[^4] - Makaarimul Akh'laq: 222.
+[^4]: - Makaarimul Akh'laq: 222.
 
-[^5] - " " : 222.
+[^5]: - " " : 222.
 
-[^6] - Makaarimul Akh'laq: 222.
+[^6]: - Makaarimul Akh'laq: 222.
 
-[^7] - Tuhfal Uquul: 189.
+[^7]: - Tuhfal Uquul: 189.
 
-[^8] - Mustadrakil Wasaa'il vol- 2:625.
+[^8]: - Mustadrakil Wasaa'il vol- 2:625.
 
-[^9] - Sahifa Assajjadiyyah Al-jaamiyah: 128 - 129 - printed by Imam
+[^9]: - Sahifa Assajjadiyyah Al-jaamiyah: 128 - 129 - printed by Imam
 Almahdi press 1st edition, 1411 A.H. Qom.
 
-[^10] - Nahjul Balaghah: 546 researched by Subhi Salih.
+[^10]: - Nahjul Balaghah: 546 researched by Subhi Salih.
 
-[^11] - Nahjul Balaghah: 393.
+[^11]: - Nahjul Balaghah: 393.
 
-[^12] - Kanzul Umaal: 539/ 4675.
+[^12]: - Kanzul Umaal: 539/ 4675.
 
-[^13] - Mustadrakil Wasaa'il vol- 2: 362.
+[^13]: - Mustadrakil Wasaa'il vol- 2: 362.
 
-[^14] - Bihaaril Anwaar vol- 100: 74.
+[^14]: - Bihaaril Anwaar vol- 100: 74.
 
-[^15] - Al-kafi vol- 6: 47/ 4 ch-Educating child.
+[^15]: - Al-kafi vol- 6: 47/ 4 ch-Educating child.
 
-[^16] - Al-kafi vol- 6: 51/ 2 from book of Aqeeq.
+[^16]: - Al-kafi vol- 6: 51/ 2 from book of Aqeeq.
 
-[^17] - Ilmi Nnafs: 383 by Jameel Saleeba.
+[^17]: - Ilmi Nnafs: 383 by Jameel Saleeba.
 
-[^18] - Hadeeth Ila Umahaat: 217.
+[^18]: - Hadeeth Ila Umahaat: 217.
 
-[^19] - Kanzul Umaal vol- 10:294/ 29336.
+[^19]: - Kanzul Umaal vol- 10:294/ 29336.
 
-[^20] - Kanzul Umaal vol- 10: 238/ 29258.
+[^20]: - Kanzul Umaal vol- 10: 238/ 29258.
 
-[^21] - Kanzul Umaal vol - 16: 854/ 45952.
+[^21]: - Kanzul Umaal vol - 16: 854/ 45952.
 
-[^22] - Mustadrakil Wasaa'il vol- 2: 626.
+[^22]: - Mustadrakil Wasaa'il vol- 2: 626.
 
-[^23] - Tuhfal Uquul: 194.
+[^23]: - Tuhfal Uquul: 194.
 
-[^24] - Makarimul Akh'laq: 220.
+[^24]: - Makarimul Akh'laq: 220.
 
-[^25] - Al-kafi vol- 6: 49/1 ch- doing good to children.
+[^25]: - Al-kafi vol- 6: 49/1 ch- doing good to children.
 
-[^26] - Manla yahdurhul Faqeeh vol- 1: 182.
+[^26]: - Manla yahdurhul Faqeeh vol- 1: 182.
 
-[^27] - Al-kafi vol- 6: 47/5 ch- educating the child.
+[^27]: - Al-kafi vol- 6: 47/5 ch- educating the child.
 
-[^28] - Mukhtasar Taareekh Demeshq vol -7: 5.
+[^28]: - Mukhtasar Taareekh Demeshq vol -7: 5.
 
-[^29] - Bihaaril Anwaar vol - 43: 351.
+[^29]: - Bihaaril Anwaar vol - 43: 351.
 
-[^30] - Mustadrakil Wasaa'il vol - 2: 625.
+[^30]: - Mustadrakil Wasaa'il vol - 2: 625.
 
-[^31] - " " "- 2: 625.
+[^31]: - " " "- 2: 625.
 
-[^32] - Mustadrakil Wasaa'il vol- 2: 624.
+[^32]: - Mustadrakil Wasaa'il vol- 2: 624.
 
-[^33] - Bihaaril Anwaar vol- 101:98.
+[^33]: - Bihaaril Anwaar vol- 101:98.
 
-[^34] - Tanbeehil khawaatir: 390 by Warram bn Abi Faraas printed by Daru
+[^34]: - Tanbeehil khawaatir: 390 by Warram bn Abi Faraas printed by Daru
 tta'aaruf.
 
-[^35] - Mustadrakil Wasaa'il vol- 2: 624.
+[^35]: - Mustadrakil Wasaa'il vol- 2: 624.
 
-[^36] - Al-kafi vol- 4: 124/1 ch- child's fasting.
+[^36]: - Al-kafi vol- 4: 124/1 ch- child's fasting.
 
-[^37] - Al-kafi vol- 4: 125/3 ch- Child's fasting.
+[^37]: - Al-kafi vol- 4: 125/3 ch- Child's fasting.
 
-[^38] - Al-kafi vol 4: 125/2 ch- Children's fasting.
+[^38]: - Al-kafi vol 4: 125/2 ch- Children's fasting.
 
-[^39] - " " 4: 303/1 " children and Slave Pilgrimage.
+[^39]: - " " 4: 303/1 " children and Slave Pilgrimage.
 
-[^40] - Al-kafi vol 4: 304/3 children and Slave Pilgrimage.
+[^40]: - Al-kafi vol 4: 304/3 children and Slave Pilgrimage.
 
-[^41] - " " 4: 304/4 chaper: Children and slave's Pilgrimage
+[^41]: - " " 4: 304/4 chaper: Children and slave's Pilgrimage
 
-[^42] - Al-wasaa'il vol- 9: 376/1 chapter four.
+[^42]: - Al-wasaa'il vol- 9: 376/1 chapter four.
 
-[^43] - " "- 9: 376/2 " ".
+[^43]: - " "- 9: 376/2 " ".
 
-[^44] - Mukhtasar Taareekh Demeshq vol- 7:23.
+[^44]: - Mukhtasar Taareekh Demeshq vol- 7:23.
 
-[^45] - Al-kaamil fi Taareekh vol- 4: 59 by Ibn Atheer printed by Daru
+[^45]: - Al-kaamil fi Taareekh vol- 4: 59 by Ibn Atheer printed by Daru
 Ssadr 1399 A.H.
 
-[^46] - Mukhtasar Taareekh Demeshq vol- 17: 234.
+[^46]: - Mukhtasar Taareekh Demeshq vol- 17: 234.
 
-[^47] - Safwati Ssafwa vol- 2 : 95 by Ibn Jawzi - printed by Darul
+[^47]: - Safwati Ssafwa vol- 2 : 95 by Ibn Jawzi - printed by Darul
 Ma'aarif 1405 A.H. 3rd edition.
 
-[^48] - Safwati Ssafwa vol-2: 95 by Ibn Jawzi - printed by Darul
+[^48]: - Safwati Ssafwa vol-2: 95 by Ibn Jawzi - printed by Darul
 Ma'aarif 1405 A.H. 3rd edition.
 
-[^49] - Mustadrakil Wasaa'il vol- 2: 626.
+[^49]: - Mustadrakil Wasaa'il vol- 2: 626.
 
-[^50] - Wasaa'ili Sh-shiyyah vol- 20: 133/2 chapter 67.
+[^50]: - Wasaa'ili Sh-shiyyah vol- 20: 133/2 chapter 67.
 
-[^51] - Mustadrakil Wasaa'il vol- 2: 558.
+[^51]: - Mustadrakil Wasaa'il vol- 2: 558.
 
-[^52] - Makaarimul Akh'laq: 223.
+[^52]: - Makaarimul Akh'laq: 223.
 
-[^53] - Wasaa'ili Sh-shiyyah vol - 20: 231/1 chapter 128.
+[^53]: - Wasaa'ili Sh-shiyyah vol - 20: 231/1 chapter 128.
 
-[^54] - " " " - 20: 229/1 ch- 127.
+[^54]: - " " " - 20: 229/1 ch- 127.
 
-[^55] - " " " - 20: 229/1 ch- 127.
+[^55]: - " " " - 20: 229/1 ch- 127.
 
-[^56] - Wasaa'ili Sh-shiyyah vol - 20: 230/4 " - 127.
+[^56]: - Wasaa'ili Sh-shiyyah vol - 20: 230/4 " - 127.
 
-[^57] - Makaarimul Akh'laq: 320.
+[^57]: - Makaarimul Akh'laq: 320.
 
-[^58] - Ilmi Al-Ijtimaa'i: 86 by Naqulal Haddaad.
+[^58]: - Ilmi Al-Ijtimaa'i: 86 by Naqulal Haddaad.
 
-[^59] - " " : 140.
+[^59]: - " " : 140.
 
-[^60] - Ilmi Nnafs: 728 by Jameel Saleebah.
+[^60]: - Ilmi Nnafs: 728 by Jameel Saleebah.
 
-[^61] - Ilmi Ijtimaa'a: 146.
-
+[^61]: - Ilmi Ijtimaa'a: 146.
 

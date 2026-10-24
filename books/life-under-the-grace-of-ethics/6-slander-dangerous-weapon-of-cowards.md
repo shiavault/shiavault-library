@@ -90,12 +90,8 @@ Of course, the reason of this assimilation is clear. Because in Islam's
 view, a Muslim brother's reputation and prestige is respectable as his
 blood, as it is mentioned in the Prophetic tradition:
 
-<blockquote dir="rtl">
-  <p>
-«کُلُّ الْمُسْلِمِ عَلَى لْمُسْلِمِ حَرامٌ: دَمُهُ وَ مالُهُ وَ
-عِرْضُهُ».
-  </p>
-</blockquote>
+> «کُلُّ الْمُسْلِمِ عَلَى لْمُسْلِمِ حَرامٌ: دَمُهُ وَ مالُهُ وَ
+> عِرْضُهُ».
 
 Everything of a Muslim is forbidden for another Muslim: his blood,
 wealth and reputation.[^1]
@@ -106,15 +102,11 @@ brother, and damages his honour.
 It is noteworthy that in Holy Qur’an suspicion, spying, and slander are
 respectively forbidden where it says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
-بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
-مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ
-رَحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
+> بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
+> مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ
+> رَحِيمٌ
 
 ***O ye who believe! Shun much suspicion; for lo! some suspicion is a
 crime. And spy not, neither backbite one another. Would one of you love
@@ -131,16 +123,12 @@ slander.
 
 As it is stipulated in Barae tradition:
 
-<blockquote dir="rtl">
-  <p>
-خَطَبَنا رَسُولُ اللهِ (صلى الله علیه وآله) حَتَّى اسْتَمَعَ
-الْعَوائِقُ فِی بُیُوتِها فَقالَ: «یا مَعْشَرَ مَنْ آمَنَ بِلِسانِهِ
-وَ لَمْ یُؤْمِنْ بِقَلْبِهِ لا تَغْتابُوا الْمُسْلِمِینَ وَ لا
-تَتَّبِعُوا عَوْراتِهِمْ فَاِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ اَخِیهِ
-تَتَبَّعَ اللهُ عَوْرَتَهُ وَ مَنْ تَتَبَّعَ اللهُ عَوْرَتَهُ
-یَفْضَحُهُ وَ لَوْ فِی جَوْفِ بَیْتِهِ».
-  </p>
-</blockquote>
+> خَطَبَنا رَسُولُ اللهِ (صلى الله علیه وآله) حَتَّى اسْتَمَعَ
+> الْعَوائِقُ فِی بُیُوتِها فَقالَ: «یا مَعْشَرَ مَنْ آمَنَ بِلِسانِهِ
+> وَ لَمْ یُؤْمِنْ بِقَلْبِهِ لا تَغْتابُوا الْمُسْلِمِینَ وَ لا
+> تَتَّبِعُوا عَوْراتِهِمْ فَاِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ اَخِیهِ
+> تَتَبَّعَ اللهُ عَوْرَتَهُ وَ مَنْ تَتَبَّعَ اللهُ عَوْرَتَهُ
+> یَفْضَحُهُ وَ لَوْ فِی جَوْفِ بَیْتِهِ».
 
 Barae says: Prophet (S) spoke for us, and so loudly that even the girls
 in the houses too heard. He said: O the group who has believed by
@@ -157,14 +145,10 @@ believer, and this is in contradiction with slander.
 
 Imam As-Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ قالَ فِی مُؤْمِن ما رَأَتْهُ عَیْناهُ وَ سَمِعَتْهُ اُذُناهُ
-فَهُوَ مِنَ الَّذِینَ قالَ اللهُ عَزَّ وَ جَلَّ: ( اِنَّ الَّذِینَ
-یُحِبُّونَ اَنْ تَشِیعَ الْفاحِشَةُ فِی الَّذِینَ آمَنُوا لَهُمْ
-عَذابٌ اَلِیمٌ.»
-  </p>
-</blockquote>
+> «مَنْ قالَ فِی مُؤْمِن ما رَأَتْهُ عَیْناهُ وَ سَمِعَتْهُ اُذُناهُ
+> فَهُوَ مِنَ الَّذِینَ قالَ اللهُ عَزَّ وَ جَلَّ: ( اِنَّ الَّذِینَ
+> یُحِبُّونَ اَنْ تَشِیعَ الْفاحِشَةُ فِی الَّذِینَ آمَنُوا لَهُمْ
+> عَذابٌ اَلِیمٌ.»
 
 One who says what he has seen and heard about a believer, is among those
 that God has told about them: those who like the vices to spread among
@@ -181,11 +165,7 @@ obscenity.
 In the famous tradition of Jaber and Abou Saeid Khadri, it is narrated
 from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اَلْغِیبَةُ اَشَدُّ مِنَ الزِّنا».
-  </p>
-</blockquote>
+> «اَلْغِیبَةُ اَشَدُّ مِنَ الزِّنا».
 
 Slander is worse than adultery.[^4]
 
@@ -208,12 +188,8 @@ It is mentioned in Moaze tradition that sometimes deeds of servants
 shine as the sun's rays, and ascend to the heaven, but they are returned
 and beaten to the face of their owners, and an angel says:
 
-<blockquote dir="rtl">
-  <p>
-«اَمَرَنِی رَبِّی اَنْ لا اَدَعَ عَمَلَ مَنْ یَغْتابُ النّاسَ
-یَتَجاوَزُ اِلى رَبِّی».
-  </p>
-</blockquote>
+> «اَمَرَنِی رَبِّی اَنْ لا اَدَعَ عَمَلَ مَنْ یَغْتابُ النّاسَ
+> یَتَجاوَزُ اِلى رَبِّی».
 
 My Lord has instructed me to prevent reaching the goods deeds of
 slanderers towards My Lord.
@@ -228,12 +204,8 @@ reputation.
 
 It is narrated from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«لا تَحاسَدُوا وَ لا تَباغَضُوا وَ لا یَغْتَبْ بَعْضُکُمْ بَعْضاً وَ
-کُونُوا عِبادَ اللهِ اِخْواناً».
-  </p>
-</blockquote>
+> «لا تَحاسَدُوا وَ لا تَباغَضُوا وَ لا یَغْتَبْ بَعْضُکُمْ بَعْضاً وَ
+> کُونُوا عِبادَ اللهِ اِخْواناً».
 
 Do not envy and spite each other and do not slander about each other,
 and O, God's servants be brother with each other.[^5]
@@ -252,27 +224,19 @@ enmity and spite, and they too in their turn are the sources of slander.
 This sense is mentioned in different traditions. In a tradition from
 Imam As-Sadiq (A.S.) is narrated:
 
-<blockquote dir="rtl">
-  <p>
-«اَلْغِیبَةُ حَرامٌ عَلى کُلِّ مُسْلِم... وَ الْغِیبَةُ تَأْکُلُ
-الْحَسَناتِ کَما تَأْکُلُ النّارُ الْحَطَبَ».
-  </p>
-</blockquote>
+> «اَلْغِیبَةُ حَرامٌ عَلى کُلِّ مُسْلِم... وَ الْغِیبَةُ تَأْکُلُ
+> الْحَسَناتِ کَما تَأْکُلُ النّارُ الْحَطَبَ».
 
 Slander is forbidden for each Muslim, and surely slander destroys good
 deeds as the fire destroys wood.[^6]
 
 And it is narrated in a tradition from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ کانَتْ لاَِخِیهِ عِنْدَهُ مَظْلَمَةٌ فِی عِرْض اَوْ مال
-فَلْیَسْتَحْلِلْها مِنْهُ مِنْ قَبْلِ اَنْ یَأْتِیَ یَوْمٌ لَیْسَ
-هُنالِکَ دِینارٌ وَ لا دِرْهَمٌ اِنَّما یُؤْخَذُ مِنْ حَسَناتِهِ
-فَاِنْ لَمْ تَکُنْ لَهُ حَسَنَةٌ اُخِذَ مِنْ سَیِّئاتِ صاحِبِهِ
-فَزِیدَتْ عَلى سَیِّئاتِهِ».
-  </p>
-</blockquote>
+> «مَنْ کانَتْ لاَِخِیهِ عِنْدَهُ مَظْلَمَةٌ فِی عِرْض اَوْ مال
+> فَلْیَسْتَحْلِلْها مِنْهُ مِنْ قَبْلِ اَنْ یَأْتِیَ یَوْمٌ لَیْسَ
+> هُنالِکَ دِینارٌ وَ لا دِرْهَمٌ اِنَّما یُؤْخَذُ مِنْ حَسَناتِهِ
+> فَاِنْ لَمْ تَکُنْ لَهُ حَسَنَةٌ اُخِذَ مِنْ سَیِّئاتِ صاحِبِهِ
+> فَزِیدَتْ عَلى سَیِّئاتِهِ».
 
 One, who is indebted to his religious brother in respect to reputation
 or wealth, should seek his forgiveness, before that day in which there
@@ -298,13 +262,9 @@ invalidating ritual ablution and fasting.
 
 God's Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اَلْجُلُوسُ فِی الْمَسْجِدِ انْتِظاراً لِلصَّلاةِ عِبادَةٌ ما لَمْ
-یُحْدِث; فَقِیلَ: یا رَسُولَ اللهِ! وَ مَا الْحَدَثُ؟ قالَ:
-الاِْغْتِیابُ»
-  </p>
-</blockquote>
+> «اَلْجُلُوسُ فِی الْمَسْجِدِ انْتِظاراً لِلصَّلاةِ عِبادَةٌ ما لَمْ
+> یُحْدِث; فَقِیلَ: یا رَسُولَ اللهِ! وَ مَا الْحَدَثُ؟ قالَ:
+> الاِْغْتِیابُ»
 
 Waiting in the mosque for prayer is worship, until a ritual impurity is
 not performed; it was questioned: what is ritual impurity? He said:
@@ -312,11 +272,7 @@ slander.[^8]
 
 And somewhere else he says:
 
-<blockquote dir="rtl">
-  <p>
-«وَ مَنِ اغْتابَ مُسْلِماً بَطَلَ صَوْمُهُ وَ نَقَضَ وُضُوءُهُ».
-  </p>
-</blockquote>
+> «وَ مَنِ اغْتابَ مُسْلِماً بَطَلَ صَوْمُهُ وَ نَقَضَ وُضُوءُهُ».
 
 One, who slanders about a Muslim, his fasting and ritual ablutions are
 broken.[^9]
@@ -333,13 +289,9 @@ as "violator" (breaker).
 As it is narrated from Imam As-Sadiq (A.S.) in the tradition of Mofzal
 Ebne Omar:
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ رَوى عَلى مُؤْمِن رِوایَةً یُرِیدُ بِها شَیْنَهُ وَ هَدْمَ
-مُرُوَّتِهِ لِیَسْقُطَ مِنْ اَعْیُنِ النّاسِ اَخْرَجَهُ اللهُ مِنْ
-ولایَتِهِ اِلى ولایَةِ الشَّیْطانِ فَلا یَقْبَلُهُ الشَّیْطانُ».
-  </p>
-</blockquote>
+> «مَنْ رَوى عَلى مُؤْمِن رِوایَةً یُرِیدُ بِها شَیْنَهُ وَ هَدْمَ
+> مُرُوَّتِهِ لِیَسْقُطَ مِنْ اَعْیُنِ النّاسِ اَخْرَجَهُ اللهُ مِنْ
+> ولایَتِهِ اِلى ولایَةِ الشَّیْطانِ فَلا یَقْبَلُهُ الشَّیْطانُ».
 
 One who narrates with the purpose of backbiting and dishonouring a
 believer to be reproached before people, God shall evict him from His
@@ -357,11 +309,7 @@ from darkness into the light* [^11], will not lead such people anymore.
 Because protector means guide and leader as well as helper and
 assistant, as we read:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لَهُمْ مِنْ أَوْلِيَاءَ يَنْصُرُونَهُمْ مِنْ دُونِ اللَّهِ
-  </p>
-</blockquote>
+> وَمَا كَانَ لَهُمْ مِنْ أَوْلِيَاءَ يَنْصُرُونَهُمْ مِنْ دُونِ اللَّهِ
 
 ***And they will have no protecting friends to help them instead of
 Allah. (42:46)***
@@ -369,12 +317,8 @@ Allah. (42:46)***
 And it is also mentioned in the sense of saviour from humiliation as we
 read:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ
-مِنَ الذُّلِّ
-  </p>
-</blockquote>
+> وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ
+> مِنَ الذُّلِّ
 
 ***Who hath no partner in the Sovereignty, nor hath He any protecting
 friend through dependence. And magnify Him with all
@@ -382,12 +326,8 @@ magnificence.(17:111)***
 
 And it also means forgiver of sins as:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنْتَ خَيْرُ
-الْغَافِرِينَ
-  </p>
-</blockquote>
+> أَنْتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنْتَ خَيْرُ
+> الْغَافِرِينَ
 
 ***Thou art our Protecting Friend, therefore forgive us and have mercy
 on us, Thou, the Best of all who show forgiveness. (7:155)***
@@ -403,13 +343,9 @@ supervision, and thereby leaves them alone.
 
 It is stated in the traditions of Islamic leaders:
 
-<blockquote dir="rtl">
-  <p>
-«اَوْحَى اللهُ عَزَّ وَ جَلَّ اِلى مُوسَى بْنِ عِمْرانَ اَنَّ
-الْمُغتابَ اِذا تابَ فَهُوَ آخِرُ مَنْ یَدْخُلِ الْجَنَّةَ وَ اِنْ
-لَمْ یَتُبْ فَهُوَ اَوَّلُ مَنْ یَدْخُلُ النّارَ».
-  </p>
-</blockquote>
+> «اَوْحَى اللهُ عَزَّ وَ جَلَّ اِلى مُوسَى بْنِ عِمْرانَ اَنَّ
+> الْمُغتابَ اِذا تابَ فَهُوَ آخِرُ مَنْ یَدْخُلِ الْجَنَّةَ وَ اِنْ
+> لَمْ یَتُبْ فَهُوَ اَوَّلُ مَنْ یَدْخُلُ النّارَ».
 
 God inspired to Moses, son of Emran, that if the slanderer repents, he
 will be the last one entering paradise, and otherwise, he will be the
@@ -424,11 +360,7 @@ to be saved posterior than the others. On this account, in some
 traditions, dishonouring a Muslim is considered as the highest usury as
 Ense narrates from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ اَرْبَى الرِّبا عِرْضُ الرَّجُلِ الْمُسْلِمِ».
-  </p>
-</blockquote>
+> «اِنَّ اَرْبَى الرِّبا عِرْضُ الرَّجُلِ الْمُسْلِمِ».
 
 The most critical usury is dishonouring a Muslim.[^13]
 
@@ -454,12 +386,8 @@ concerned blessings, and practically individuals are subjected to
 
 The previously described tradition;
 
-<blockquote dir="rtl">
-  <p>
-«لا تَحاسَدُوا وَ لا تَباغَضُوا وَ لا یَغْتَب بَعْضُکُمْ بَعْضاً وَ
-کُونُوا عِبادَ اللهِ اِخْواناً»
-  </p>
-</blockquote>
+> «لا تَحاسَدُوا وَ لا تَباغَضُوا وَ لا یَغْتَب بَعْضُکُمْ بَعْضاً وَ
+> کُونُوا عِبادَ اللهِ اِخْواناً»
 
 may refer to this point.
 
@@ -582,23 +510,15 @@ Third, it is referred to in several traditions like the one already
 mentioned in respect to "annihilation of good deeds and transfer of
 evils", and the well known tradition:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ صاحِبَ الْغِیبَةِ لا یُغْفَرُ لَهُ حَتّى یَغْفِرَ لَهُ
-صاحِبُهُ».
-  </p>
-</blockquote>
+> «اِنَّ صاحِبَ الْغِیبَةِ لا یُغْفَرُ لَهُ حَتّى یَغْفِرَ لَهُ
+> صاحِبُهُ».
 
 The slanderer is not forgiven unless the slandered person forgives
 him.[^16]
 
 And the Prophetic tradition:
 
-<blockquote dir="rtl">
-  <p>
-«کَفّارَةُ مَنِ اغْتَبْتَهُ اَنْ تَسْتَغْفِرَ لَهُ».
-  </p>
-</blockquote>
+> «کَفّارَةُ مَنِ اغْتَبْتَهُ اَنْ تَسْتَغْفِرَ لَهُ».
 
 The atonement of slander is asking pardon of God for the slandered
 person.[^17]
@@ -683,13 +603,9 @@ cruel person and supporting right of the oppressed. In addition to the
 reason of intellect, there are several traditions narrated by Shiite and
 Sunnite as the reason for exception of this issue, like:
 
-<blockquote dir="rtl">
-  <p>
-«عَنْ جَعْفَر عَنْ اَبِیهِ قالَ: ثَلاثَةٌ لَیْسَتْ لَهُمْ حُرْمَةٌ:
-صاحِبُ هَوىً مُبتَدِعٌ، وَ الاِْمامُ الْجائِرُ، وَ الْفاسِقُ
-الْمُعْلِنُ الْفِسْقَ».
-  </p>
-</blockquote>
+> «عَنْ جَعْفَر عَنْ اَبِیهِ قالَ: ثَلاثَةٌ لَیْسَتْ لَهُمْ حُرْمَةٌ:
+> صاحِبُ هَوىً مُبتَدِعٌ، وَ الاِْمامُ الْجائِرُ، وَ الْفاسِقُ
+> الْمُعْلِنُ الْفِسْقَ».
 
 There are three persons who do not have any respect: one who has
 innovatory desires, unjust governor, and one who commits sin
@@ -697,30 +613,18 @@ publicly.[^18]
 
 And the same is mentioned in some narrations as follows:
 
-<blockquote dir="rtl">
-  <p>
-«ثَلاثَةٌ لا غِیبَةَ لَهُمْ: صاحِبُ الْهَوى وَ الْفاسِقُ الْمُعْلِنُ
-بِفِسْقِهِ، وَ الاِْمامُ الْجائِرُ»
-  </p>
-</blockquote>
+> «ثَلاثَةٌ لا غِیبَةَ لَهُمْ: صاحِبُ الْهَوى وَ الْفاسِقُ الْمُعْلِنُ
+> بِفِسْقِهِ، وَ الاِْمامُ الْجائِرُ»
 
 2- And also it is narrated from Prophet (S) in a tradition:[^19]
 
-<blockquote dir="rtl">
-  <p>
-«لَیْسَ لِفاسِق غِیبَةٌ».
-  </p>
-</blockquote>
+> «لَیْسَ لِفاسِق غِیبَةٌ».
 
 There is no slander for the sinner.[^20]
 
 3- And also it is narrated from Prophet (S) in another tradition:
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ اَلْقى جِلْبابَ الْحَیاءِ عَنْ وَجْهِهِ فَلا غِیْبَةَ لَهُ»
-  </p>
-</blockquote>
+> «مَنْ اَلْقى جِلْبابَ الْحَیاءِ عَنْ وَجْهِهِ فَلا غِیْبَةَ لَهُ»
 
 One who lays aside the veil of modesty; there is no slander for
 him.[^21]
@@ -728,14 +632,10 @@ him.[^21]
 4- There are several traditions in respect to Justice in Vassaelo
 Shiite. For example, it is narrated from Imam As-Sadiq (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ عامَلَ النّاسَ فَلَمْ یَظْلِمْهُمْ وَ حَدَّثَهُمْ فَلَمْ
-یَکْذِبْهُمْ وَ واعَدَهُمْ فَلَمْ یُخْلِفْهُمْ کانَ مِمَّنْ حَرُمَتْ
-غِیْبَتُهُ وَ کَمُلَتْ مُرُوَّتُهُ وَ ظَهَرَ عَدْلُهُ وَ وَجَبَتْ
-اُخُوَّتُهُ».
-  </p>
-</blockquote>
+> «مَنْ عامَلَ النّاسَ فَلَمْ یَظْلِمْهُمْ وَ حَدَّثَهُمْ فَلَمْ
+> یَکْذِبْهُمْ وَ واعَدَهُمْ فَلَمْ یُخْلِفْهُمْ کانَ مِمَّنْ حَرُمَتْ
+> غِیْبَتُهُ وَ کَمُلَتْ مُرُوَّتُهُ وَ ظَهَرَ عَدْلُهُ وَ وَجَبَتْ
+> اُخُوَّتُهُ».
 
 Whosoever is not unjust in transaction with people, and do not lie them
 in speech, and do not violate them in promise, is among those whose
@@ -777,11 +677,7 @@ reputation is not necessary.
 
 If we deduce so from above traditions, – as the phrase
 
-<blockquote dir="rtl">
-  <p>
-«لا غِیبَةَ لَهُ و لا حُرْمَةَ لَهُ»,
-  </p>
-</blockquote>
+> «لا غِیبَةَ لَهُ و لا حُرْمَةَ لَهُ»,
 
 proves, the reply to above questions is clarified, and it does not need
 more explanation, because based on rational and traditional proof,
@@ -838,5 +734,4 @@ Beisae, volume 5, page 273
 [^21]: Al-Majlisi, Bihar al-Anwar, 233/75
 
 [^22]: Hurr al-Amili, Wasa’il ash-Shi’a, volume 5, page 393
-
 

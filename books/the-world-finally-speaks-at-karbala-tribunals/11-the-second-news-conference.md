@@ -168,4 +168,3 @@ Thank you all and I apologize. I need to stop here due to time
 constraints and see you next time after the next court session by the
 will of Allah. Thank you and Salam Alaikum!
 
-

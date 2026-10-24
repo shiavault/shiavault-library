@@ -179,4 +179,3 @@ with me. She feels very much if I have the slightest discomfort"
 
 [^6]: al-mahajjatul bayda, v 3, p. 189
 
-

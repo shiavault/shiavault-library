@@ -373,7 +373,6 @@ they seek refuge in God. Therefore this verse is their prayer asking God
 to protect them from deviation and swerve: \`\`Our Lord! Let not our
 hearts swerve after you have guided us.''
 
-
 VERSE NO. 9 And being sure of their eventual return to God in the
 Resurrection Day for final judgement, they pray saying: \`\`Our Lord!
 You are the One that will gather together all the people for a day in
@@ -651,5 +650,4 @@ GOD'S WILL) AND THOSE TO WHOM THE SCRIPTURES WERE GIVEN WERE NOT AT
 VARIANCE, EXCEPT AFTER THE KNOWLEDGE CAME TO THEM; (AND THEIR VARIANCE
 WAS) THROUGH ENVY. AND WHOEVER REJECTS ALLAH'S SIGNS, THEN ALLAH IS
 SWIFT IN RECKONING.
-
 

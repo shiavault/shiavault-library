@@ -93,4 +93,3 @@ of abounding bounty (62:4 ). "***
 
 [^1]: \`Uyun Akhbar al-Rida, p 94.
 
-

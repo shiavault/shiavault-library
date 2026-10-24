@@ -120,4 +120,3 @@ Islamic priority."
 in­cludes this phrase in the adhan cf. Ibn Hazm al-Muhalla (Cairo 1351
 A.H.) III 161 footnote citing al-Baihaqi I 424-[^5]:
 
-

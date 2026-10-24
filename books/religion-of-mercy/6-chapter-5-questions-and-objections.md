@@ -23,12 +23,8 @@ solving and removal of any suspicious question.
 
 First point - After expressing law of retaliation, Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
- فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ
-وَأَدَاءٌ إِلَيْهِ بِإِحْسَانٍ ۗ
-  </p>
-</blockquote>
+>  فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ
+> وَأَدَاءٌ إِلَيْهِ بِإِحْسَانٍ ۗ
 
 ***"If any remission is made to any one by his (aggrieved) brother, then
 prosecution (for the blood wit) should be made according to usage, and
@@ -42,12 +38,8 @@ neither obligatory, nor recommended (pay attention).
 
 Second point – In verse 179:
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
-تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
+> تَتَّقُونَ
 
 ***“And there is life for you in (the law of) retaliation, O men of
 understanding, that you may guard yourselves.” (2:179)***
@@ -128,11 +120,7 @@ Consider the following two samples:
 
 1) Prophet Muhammad (S) says:
 
-<blockquote dir="rtl">
-  <p>
-صباحاً اربعین مطر من خیر حد اقامه
-  </p>
-</blockquote>
+> صباحاً اربعین مطر من خیر حد اقامه
 
 "Execution of any penal law or punishment is better than forty days of
 rainfall." [^2]
@@ -163,18 +151,10 @@ corruptive activities.
  2) Seventh Imam, Hazrat Musa Ibn Ja’far (as) commenting on the verse
 ** يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ** *(57:17)* says:
 
-<blockquote dir="rtl">
-  <p>
-العدل فیحیون رجالاً الله یبعث لکن و بالقطر یحییها لیس
-  </p>
-</blockquote>
+> العدل فیحیون رجالاً الله یبعث لکن و بالقطر یحییها لیس
 
-<blockquote dir="rtl">
-  <p>
-صباحاً اربعینلقطر من الارض فی انفع فیه الحد لإقامه و العدل لإحیاء
-الارض فتحیی
-  </p>
-</blockquote>
+> صباحاً اربعینلقطر من الارض فی انفع فیه الحد لإقامه و العدل لإحیاء
+> الارض فتحیی
 
 "It does not simply imply that He revives the dry lands with bountiful
 rain. Rather, it implies that He appoints (great, sincere and ambitious)
@@ -285,21 +265,13 @@ Qur’anic verses hereunder:
 
 ### First and second: Military readiness for prevention from war
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ
-الْخَيْلِ
-  </p>
-</blockquote>
+> وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ
+> الْخَيْلِ
 
 ***"(O Muslims!), make ready for them whatever force and strings of
 horses you can." (8:60)***
 
-<blockquote dir="rtl">
-  <p>
- تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ
-  </p>
-</blockquote>
+>  تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ
 
 ***"To terrify by them the enemy of God and your enemy" (8:60)***
 
@@ -313,12 +285,8 @@ Is such religion the religion of violence?
 
 We read in the next verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ
-إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ 
-  </p>
-</blockquote>
+> وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ
+> إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 ***"And if they incline to peace, do thou incline to it; and put thy
 trust in God; He is the All-hearing, the All-knowing." (8:61)***
@@ -339,13 +307,9 @@ benevolence?
 
 ### Third: Scope of Holy War (Jihad) and its Rules
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا
-اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ
-مَعَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا
+> اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ
+> مَعَ الْمُتَّقِينَ
 
 ***"Whosoever commits aggression against you, you commit aggression
 against him like as he has committed against you; and fear God, and know
@@ -366,14 +330,10 @@ all sane recommend the same preventive logic of Qur’an.
 
 God recites one of the philosophies of Jihad in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ
-صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ
-اللَّهِ كَثِيرًا ۗ وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ
-اللَّهَ لَقَوِيٌّ عَزِيزٌ
-  </p>
-</blockquote>
+> وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ
+> صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ
+> اللَّهِ كَثِيرًا ۗ وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ
+> اللَّهَ لَقَوِيٌّ عَزِيزٌ
 
 ***"Had God not driven back the people, some by the means of others,
 there had been destroyed cloisters and churches, oratories and mosques,
@@ -462,12 +422,8 @@ historians, all wars that occurred at the beginning of Islam were
 defensive, and none was considered as an initial Jihad. Qur’anic verses
 too confirm this:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا تُقَاتِلُونَ قَوْمًا نَكَثُوا أَيْمَانَهُمْ وَهَمُّوا
-بِإِخْرَاجِ الرَّسُولِ وَهُمْ بَدَءُوكُمْ أَوَّلَ مَرَّةٍ ۚ 
-  </p>
-</blockquote>
+> أَلَا تُقَاتِلُونَ قَوْمًا نَكَثُوا أَيْمَانَهُمْ وَهَمُّوا
+> بِإِخْرَاجِ الرَّسُولِ وَهُمْ بَدَءُوكُمْ أَوَّلَ مَرَّةٍ ۚ
 
 ***"Will you not fight a people who broke their oaths and purposed to
 expel the Messenger, beginning the first time against you?" (9:13)***
@@ -478,14 +434,10 @@ wars at the beginning of Islam were defensive, and not initial.
 In another verse God excludes a group of idolaters after declaring war
 with them and says:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ
-يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا
-فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ
-يُحِبُّ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ
+> يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا
+> فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ
+> يُحِبُّ الْمُتَّقِينَ
 
 ***"Excepting those of the idolaters with whom you made covenant, then
 they failed you ought not lent support to any man against you. With them
@@ -520,12 +472,8 @@ are not in contradiction with Islamic benevolence and clemency:
 
 Qur’an refers to this type of Jihad:
 
-<blockquote dir="rtl">
-  <p>
-وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ
-ۖ
-  </p>
-</blockquote>
+> وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ
+> ۖ
 
 ***"Fight them, till there is no persecution and the religion is
 God’s."*** ***(2:193)***
@@ -679,12 +627,8 @@ as violent. However, we believe that divine calamities and chastisements
 embracing the sinners, are a mercy although they may seem apparently
 violent. Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَبِيٍّ إِلَّا أَخَذْنَا أَهْلَهَا
-بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِنْ نَبِيٍّ إِلَّا أَخَذْنَا أَهْلَهَا
+> بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ
 
 ***"We have sent no Prophet to any city but that We seized its people
 with misery and hardship, that haply they might be humble." (7:94)***
@@ -736,5 +680,4 @@ ush-Shi’a, vol. 18, page 327.
 
 [^11]: For instance, lashing the vulnerable organs is forbidden. This
 has been mentioned in Wasa’il ush-Shi’a, vol. 18, p. 369 onwards.
-
 

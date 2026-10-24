@@ -50,7 +50,6 @@ Abdullah al-Khunayzi
 \_\_\_\_\_\_\_\_\_\_\_\_
 1 He means Imam Ali.
 
-
 **FOREWORD**
 
 By: Professor Boless Salama
@@ -143,7 +142,6 @@ were many pearls and a few shells.
 I think that in saying my opinion about the book I am nearer to fair
 severity than to flattering. Yes, between me and al-Qateef there is
 friendship but the truth is worthier to be said.
-
 
 Boless Salama
 Beirut
@@ -433,5 +431,4 @@ concerning Ziyad, the Kharijites and the Shia was because there was
 something in his heart towards Imam Ali... It was not but a fruit from
 the seed of Mo'awiya to resist Imam Ali in order to control the Muslims'
 affairs.
-
 

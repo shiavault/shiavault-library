@@ -16,4 +16,3 @@ humble and helpless.”
 
 From *Unto Thee I Grant...*
 
-

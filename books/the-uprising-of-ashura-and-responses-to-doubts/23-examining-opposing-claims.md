@@ -12,11 +12,7 @@ Muslim and other historians have recounted that ‘Abd Allah said, “Hafsah
 cried for ‘Umar.” ‘Umar said to her, “Keep quiet, my little daughter.
 Don’t you know that the Prophet of Allah said,
 
-<blockquote dir="rtl">
-  <p>
-«إنّ الميت يعذّب ببکاء اهله عليه.»
-  </p>
-</blockquote>
+> «إنّ الميت يعذّب ببکاء اهله عليه.»
 
 ‘The crying of the family tortures the dead person’.”[^1]
 
@@ -25,11 +21,7 @@ fainted. They started yelling and crying for him. When he became
 conscious again, he said, “Don’t you know that the Prophet of Allah
 said,
 
-<blockquote dir="rtl">
-  <p>
-«إنّ الميت ليعذب ببکاء الحي.»
-  </p>
-</blockquote>
+> «إنّ الميت ليعذب ببکاء الحي.»
 
 ‘Verily, the dead get tortured by the crying of the living’.”[^2]
 
@@ -44,12 +36,8 @@ and told her what I had heard from ‘Umar. ‘A’ishah said, ‘No, I swear
 upon Allah! The Prophet of Allah never said that the crying of a person
 tortures the dead. On the contrary, he said,
 
-<blockquote dir="rtl">
-  <p>
-انّ الکافر يزيده الله ببکاء اهله عذاباً، وانّ الله لهو اضحک وأبکي، ولا
-تزر وازرة وزر اخري.
-  </p>
-</blockquote>
+> انّ الکافر يزيده الله ببکاء اهله عذاباً، وانّ الله لهو اضحک وأبکي، ولا
+> تزر وازرة وزر اخري.
 
 ‘Verily Allah increases the torture and pain of an unbeliever [*kafir*]
 when his family cries for him. Verily it is Allah that makes people
@@ -62,22 +50,14 @@ mercy on Aba ‘Abd al-Rahman. He heard something but did not commit it to
 his memory. One day the corpse of a Jew was passed near the Prophet of
 Allah while his family was crying. The Holy Prophet said,
 
-<blockquote dir="rtl">
-  <p>
-انتم تبکون وانّه ليعذب.
-  </p>
-</blockquote>
+> انتم تبکون وانّه ليعذب.
 
 ‘You are crying while he is getting tortured’.”[^4]
 
 Thirdly, as previously mentioned ‘Umar forbade women from crying in the
 presence of the Holy Prophet (S). The Noble Prophet (S) said to him,
 
-<blockquote dir="rtl">
-  <p>
-دعهنّ يا عمر! فانّ العين دامعة والقلب مصاب والعهد قريب.
-  </p>
-</blockquote>
+> دعهنّ يا عمر! فانّ العين دامعة والقلب مصاب والعهد قريب.
 
 “O ‘Umar! Leave them alone, because tearful eyes, grieving hearts and
 the promise are near.”
@@ -85,11 +65,7 @@ the promise are near.”
 Fourthly, this tradition is not compatible with the apparent meanings of
 many verses of the Holy Qur’an because Allah says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلا تَزِرُ وازِرَةٌ وِزْرَ أُخْري ﴾
-  </p>
-</blockquote>
+> ﴿ وَلا تَزِرُ وازِرَةٌ وِزْرَ أُخْري ﴾
 
 ***“A burdened soul shall not bear the burden of another.”***[^5]
 
@@ -151,5 +127,4 @@ Sahih Bukhari, vol. 1, p. 156.
 [^9]: Al-Musannaf, vol. 7, p. 175.
 
 [^10]: Sifar Hazqiyal, ishah 24, faqarah 16-18.
-
 

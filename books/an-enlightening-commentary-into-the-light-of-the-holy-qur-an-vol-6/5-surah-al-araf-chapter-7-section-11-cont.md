@@ -4,13 +4,9 @@ Surah al-‘Araf, Chapter 7, Section 11 cont..
 Surah al-‘Araf , Verse 88
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِن قَوْمِهِ لَنُخْرِجَنَّكَ
-يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِن قَرْيَتِنَا أَوْ
-لَتَعُودُنَّ فِي مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَارِهِينَ
-  </p>
-</blockquote>
+> قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِن قَوْمِهِ لَنُخْرِجَنَّكَ
+> يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِن قَرْيَتِنَا أَوْ
+> لَتَعُودُنَّ فِي مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَارِهِينَ
 
 **88.** ***“The chiefs of the arrogant among his people said: ‘We will
 surely expel you, O Shu‘ayb,***  
@@ -46,15 +42,11 @@ confront the ignorances of disbelievers. Shu‘ayb answered them:
 Surah al-‘Araf , Verse 89
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدِ افْتَرَيْنَا عَلَى اللّهِ كَذِباً إِنْ عُدْنَا فِي مِلَّتِكُمْ
-بَعْدَ إِذْ نَجَّانَا اللّهُ مِنْهَا وَمَا يَكُونُ لَنَآ أَنْ نَعُودَ
-فِيهَآ إِلآَّ أَنْ يَشَآءَ اللّهُ رَبُّنَا وَسِعَ رَبُّنا كُلَّ شَيْءٍ
-عِلْماً عَلَى اللّهِ تَوَكَّلْنَا رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ
-قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ
-  </p>
-</blockquote>
+> قَدِ افْتَرَيْنَا عَلَى اللّهِ كَذِباً إِنْ عُدْنَا فِي مِلَّتِكُمْ
+> بَعْدَ إِذْ نَجَّانَا اللّهُ مِنْهَا وَمَا يَكُونُ لَنَآ أَنْ نَعُودَ
+> فِيهَآ إِلآَّ أَنْ يَشَآءَ اللّهُ رَبُّنَا وَسِعَ رَبُّنا كُلَّ شَيْءٍ
+> عِلْماً عَلَى اللّهِ تَوَكَّلْنَا رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ
+> قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ
 
 **89.** ***“We should have forged a lie against Allah if we returned
 into your creed after Allah delivered us from it. It is not for us to
@@ -113,18 +105,10 @@ Names should be considered.
 Surah al-‘Araf , Verses 90-91
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَلأُ الَّذِينَ كَفَرُوا مِنْ قَوْمِهِ لَئِنْ اتَّبَعْتُمْ
-شُعَيْباً إِنَّكُمْ إِذاً لَخَاسِرُونَ
-  </p>
-</blockquote>
+> وَقَالَ الْمَلأُ الَّذِينَ كَفَرُوا مِنْ قَوْمِهِ لَئِنْ اتَّبَعْتُمْ
+> شُعَيْباً إِنَّكُمْ إِذاً لَخَاسِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
-  </p>
-</blockquote>
+> فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
 
 **90*****. “And the chiefs of those who disbelied from among his people
 said: ‘If you follow Shu‘ayb, you will indeed be losers’.”***  
@@ -170,12 +154,8 @@ their dwellings.”***
 Surah al-‘Araf , Verse 92
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَذَّبُوا شُعَيْباً كَأَن لَمْ يَغْنَوْا فِيهَا الَّذِينَ
-كَذَّبُوا شُعَيْباً كَانُوا هُمُ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> الَّذِينَ كَذَّبُوا شُعَيْباً كَأَن لَمْ يَغْنَوْا فِيهَا الَّذِينَ
+> كَذَّبُوا شُعَيْباً كَانُوا هُمُ الْخَاسِرِينَ
 
 **92*****. “Those who belied Shu‘ayb became (perished) as if they had
 never dwelt therein. Those who belied Shu‘ayb were themselves the
@@ -212,13 +192,9 @@ dwelt therein. Those who belied Shu‘ayb were themselves the losers.”***
 Surah al-‘Araf – Verse 93
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
-رِسَالاَتِ رَبِّي وَنَصَحْتُ لَكُمْ فَكَيْفَ ءَاسَى عَلَى قَوْمٍ
-كَافِرِينَ
-  </p>
-</blockquote>
+> فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
+> رِسَالاَتِ رَبِّي وَنَصَحْتُ لَكُمْ فَكَيْفَ ءَاسَى عَلَى قَوْمٍ
+> كَافِرِينَ
 
 **93*****. “So he turned away from them, and said: ‘O’ my people! I have
 delivered to you the messages of my Lord, and advised you sincerely; so
@@ -249,5 +225,4 @@ did not grieve for them.
 Thus Shu‘ayb consoles himself, because he had made his best and applied
 all the necessary efforts to guide aright those people. But, alas, they
 disobeyed arrogantly and that torment was their recompense.
-
 

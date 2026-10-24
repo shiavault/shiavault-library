@@ -1,21 +1,13 @@
 Right n. 23: The Right of the Father
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق الأب
-  </p>
-</blockquote>
+> حق الأب
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا حَقُّ أَبيكَ فَتَعْلَمَ أنَّهُ أَصْلُكَ، وَأنَّكَ فَرْعُهُ،
-وَأَنَّكَ لَوْلاهُ لَمْ تَكُنْ. فَمَهْمَا رَأيْتَ فِي نفْسِكَ مِمَّا
-يُعْجِبُكَ فَاعْلَمْ أَنَّ أَبَاكَ أَصْلُ النِّعْمَةِ عَلَيْكَ فِيهِ
-وَاحْمَدِ اللَّهَ وَاشْكُرْهُ عَلَى قَدْرِ ذَلِكَ وَلا قُوَّةَ إلاّ
-باللهِ.
-  </p>
-</blockquote>
+> وَأمَّا حَقُّ أَبيكَ فَتَعْلَمَ أنَّهُ أَصْلُكَ، وَأنَّكَ فَرْعُهُ،
+> وَأَنَّكَ لَوْلاهُ لَمْ تَكُنْ. فَمَهْمَا رَأيْتَ فِي نفْسِكَ مِمَّا
+> يُعْجِبُكَ فَاعْلَمْ أَنَّ أَبَاكَ أَصْلُ النِّعْمَةِ عَلَيْكَ فِيهِ
+> وَاحْمَدِ اللَّهَ وَاشْكُرْهُ عَلَى قَدْرِ ذَلِكَ وَلا قُوَّةَ إلاّ
+> باللهِ.
 
 **And the right of your father is that you should know that he is your
 root and you are his branch. And without him, you would not be. Whenever
@@ -74,23 +66,15 @@ authority of Hasan ibn Mahboob on the authority of Abi Val’lad Han’nat
 who asked Imam Sadiq regarding the meaning of the following verse of the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَبِالْوَالِدَيْنِ إِحْسَانًا
-  </p>
-</blockquote>
+> وَبِالْوَالِدَيْنِ إِحْسَانًا
 
 ***“…And that ye be kind to parents.”*** ***[The Holy Qur’an, Bani
 Israil 17:23]***
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-الإحْسانُ أنْ تُحْسِنَ صُحْبَتَهُما وأنْ لا تُكَلِّفَهُما أنْ يَسألاكَ
-شَيئاً مِمَّا يَحْتاجَانِ إلَيهِ وإنْ كانا مُسْتَغْنِيَيْنِ.
-  </p>
-</blockquote>
+> الإحْسانُ أنْ تُحْسِنَ صُحْبَتَهُما وأنْ لا تُكَلِّفَهُما أنْ يَسألاكَ
+> شَيئاً مِمَّا يَحْتاجَانِ إلَيهِ وإنْ كانا مُسْتَغْنِيَيْنِ.
 
 *“Goodness (ihsan) is that you associate with them well and that you do
 not constrain them to ask you for what they need, even if they may be
@@ -100,17 +84,13 @@ Then Imam Sadiq mentioned the verse of Holy Qur’an that states that you
 cannot get any food unless you give in charity out of what you like.
 Then Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-وأمّا قول الله تبارك وتعالى: "إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرُ
-أَحَدُهُما أَوْ كِلاهُما فَلا تَقُلْ لَهُما أُفٍّ ولا تنهرهما “قال: إن
-أضجراك فلا تقل لهما أفٍّ ولا تنهرهما إن ضرباك وقال "وَقُلْ لَهُما
-قَوْلاً كَريما" قال: فإن ضرباك فقل لهما غَفَرَ الله لَكُما فذلك منك
-قولٌ كريمٌ، قال "وَاخْفِضْ لَهُما جَناحَ الذُّلِّ مِنَ الرَّحْمَةِ"
-قال: لا تَملأ عينيك مِن النظر إليهما إلاّ برحمةٍ ورِقّةٍ، ولا ترفع
-صوتك فَوقَ أصواتهما ولا يديك فَوقَ أيديهما، ولا تُقدم قُدّامهما.
-  </p>
-</blockquote>
+> وأمّا قول الله تبارك وتعالى: "إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرُ
+> أَحَدُهُما أَوْ كِلاهُما فَلا تَقُلْ لَهُما أُفٍّ ولا تنهرهما “قال: إن
+> أضجراك فلا تقل لهما أفٍّ ولا تنهرهما إن ضرباك وقال "وَقُلْ لَهُما
+> قَوْلاً كَريما" قال: فإن ضرباك فقل لهما غَفَرَ الله لَكُما فذلك منك
+> قولٌ كريمٌ، قال "وَاخْفِضْ لَهُما جَناحَ الذُّلِّ مِنَ الرَّحْمَةِ"
+> قال: لا تَملأ عينيك مِن النظر إليهما إلاّ برحمةٍ ورِقّةٍ، ولا ترفع
+> صوتك فَوقَ أصواتهما ولا يديك فَوقَ أيديهما، ولا تُقدم قُدّامهما.
 
 *As for the statement of God, the Blessed, the High:* ***‘Whether one or
 both of them attain old age in thy life, say not to them a word of
@@ -128,22 +108,14 @@ All this means that you should not hurt them.
  Ibn Mahboob quoted on the authority of Khalid ibn Nafih Bujali on the
 authority of Muhammad ibn Marwan on the authority of Imam Sadiq :
 
-<blockquote dir="rtl">
-  <p>
-إنّ رجلا أتىَ النبيّ (ص) فقال: يا رسول الله أوصني، فقال:
-  </p>
-</blockquote>
+> إنّ رجلا أتىَ النبيّ (ص) فقال: يا رسول الله أوصني، فقال:
 
 “A man went to see the Prophet and asked him for advice. The Prophet
 said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُشرك بالله شيئاً وإن حُرقتَ بالنار وعُذّبت إلا وقلبك مُطمئنٌّ
-بالإيمان، ووالديك فأطِعهُما وبرّهما حييَّن كانا أو ميّتَين، وإن أمراك
-أن تخرج مِن أهلك ومالك فافعل فإنّ ذلك مِن الإيمان.
-  </p>
-</blockquote>
+> لا تُشرك بالله شيئاً وإن حُرقتَ بالنار وعُذّبت إلا وقلبك مُطمئنٌّ
+> بالإيمان، ووالديك فأطِعهُما وبرّهما حييَّن كانا أو ميّتَين، وإن أمراك
+> أن تخرج مِن أهلك ومالك فافعل فإنّ ذلك مِن الإيمان.
 
 *“Do not set any partners for God even if you are tortured or burnt in
 fire, but that your heart should be secure in faith. Obey your parents,
@@ -157,11 +129,7 @@ Abi Mansoor on the authority of Imam Kazim : “A man asked the Noble
 Prophet about the right of a father incumbent upon his child. The
 Prophet replied:
 
-<blockquote dir="rtl">
-  <p>
-لا يُسمّيه باسمه، ولا يَمشي بين يَدَيه، ولا يجلس قَبله، ولا يستسب له.
-  </p>
-</blockquote>
+> لا يُسمّيه باسمه، ولا يَمشي بين يَدَيه، ولا يجلس قَبله، ولا يستسب له.
 
 *“He should not call his father by his name, and he should not walk
 ahead of him. He should not sit down before he does, and should not do
@@ -172,12 +140,8 @@ of Ibrahim ibn Shoaib that he told Imam Sadiq : “My father has gotten
 old, and is so weak that I have to accompany him to the toilet. Should I
 do so?” The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إنِ اسْتَطَعْتَ أن تَليَ ذلِكَ مِنهُ فافْعَل، وَلقّمْهُ بِيَدِكَ،
-فإنّه جَنّةٌ لكَ غَداً.
-  </p>
-</blockquote>
+> إنِ اسْتَطَعْتَ أن تَليَ ذلِكَ مِنهُ فافْعَل، وَلقّمْهُ بِيَدِكَ،
+> فإنّه جَنّةٌ لكَ غَداً.
 
 *“Do so if you can. Put food in his mouth with your own hands, and you
 will see that your reward will be the Garden of Heaven in the
@@ -199,13 +163,9 @@ respect being incumbent upon children even if they are not Muslims. Ali
 ibn Ibrahim quoted on the authority of so and so, on the authority of
 Ansabat ibn Mus’ab, on the authority of Imam Baqir :
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ لم يَجْعَلِ اللهُ تَعالى فِيهِنَّ رُخْصَةٌ: أدَاءُ الأمانَةِ
-إلى البَرِّ وَالفاجِرِ، وَالوَفاءُ بِالعَهدِ لِلبَرِّ وَالفاجِرِ، وبرّ
-الوالِدَينِ برّين كانا أو فاجِرَينِ.
-  </p>
-</blockquote>
+> ثَلاثٌ لم يَجْعَلِ اللهُ تَعالى فِيهِنَّ رُخْصَةٌ: أدَاءُ الأمانَةِ
+> إلى البَرِّ وَالفاجِرِ، وَالوَفاءُ بِالعَهدِ لِلبَرِّ وَالفاجِرِ، وبرّ
+> الوالِدَينِ برّين كانا أو فاجِرَينِ.
 
 “There are three things that God has not permitted anyone to abandon:  
  1 - Returning what we are entrusted with to its owner whether he is a
@@ -224,11 +184,7 @@ their parents have a great right over them. They must be thankful to
 their parents and should never neglect or hurt them even if the parents
 do not perform their duties well. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-مَن نَظَرَ إلى والديه نظر ماقتٍ وهُما ظالمان له لم تُقبل له صلاةٌ.
-  </p>
-</blockquote>
+> مَن نَظَرَ إلى والديه نظر ماقتٍ وهُما ظالمان له لم تُقبل له صلاةٌ.
 
 *“God will not accept the prayers of one who looks at his parents with
 hatred, even if they have not performed their duties towards him.”*[^6]
@@ -274,11 +230,7 @@ murdered; Montasar did not last more than six months either. It was the
 constant blaming of Montasar by his father that ended this way. Consider
 what Imam Ali said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-الإفْراطُ في المَلامَةِ تشُبُّ نِيرانَ اللّجاجِ.
-  </p>
-</blockquote>
+> الإفْراطُ في المَلامَةِ تشُبُّ نِيرانَ اللّجاجِ.
 
 *“Excessive blaming will fuel the flames of stubbornness.”*[^8]
 
@@ -325,5 +277,4 @@ congregational prayer.[^10]
 [^9]: Footnotes of Usul al-Kafi, v.2, p.349.
 
 [^10]: Ibid.
-
 

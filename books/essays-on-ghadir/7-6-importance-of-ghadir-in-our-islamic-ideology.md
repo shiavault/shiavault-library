@@ -298,4 +298,3 @@ successor and vicegerent in clear terms. Since whatever we have
 discussed till now is focused on this event of Ghadir, we need to
 elaborate this event in a greater detail.
 
-

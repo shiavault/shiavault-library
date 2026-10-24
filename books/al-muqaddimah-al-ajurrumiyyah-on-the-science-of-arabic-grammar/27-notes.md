@@ -143,9 +143,7 @@ letter is not used to signify a meaning i.e. it has no Semantic value.
 Instead, it is used as a unit in the construction of words. The two uses
 of the word Ḥarf are clearly illustrated in the following expression:
 
-<p dir="rtl">
 "مِنْ"حرف مكوَّن منحرفين
-</p>
 
 [”Min” is a Ḥarf (particle) composed of two Ḥarfs (letters)]
 
@@ -208,9 +206,7 @@ second of two Ḍammahs, two Fatḥahs or two Kasrahs e.g.
 
 Rarulun - Rajulan - Rajulin
 
-<p dir="rtl">
 رجلٌ ، رجلاً ، رجلٍ
-</p>
 
 The use of the phrase “the second of two Ḥarakahs” to refer to the
 Tanwīn is metaphorical since a Ḥarakah does not really and literally
@@ -485,9 +481,7 @@ in the case of Raf‘, and the dropping of the  in the case of Naṣb and
 Jazm, and is referred to as the al-Amţilah/al-Af‘āl Khamsah (five
 patterns/verbs):
 
-<p dir="rtl">
 يفعلـا ن، يفعلـا ن، يفعلو ن، يفعلو ن، يفعليـ ن
-</p>
 
 [^24] Some grammarians addهنو ك (yourthing ) as a sixth one, but the
 more correct view is that it has the I‘rab (declension) of the Ism

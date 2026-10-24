@@ -96,7 +96,6 @@ centuries in a world where the enemies of truth and of Islam are
 numerous. \* \* \* (Allamah Tabatabai, The Qur'an in Islam, p.
 101-103)
 
-
 **The Glorious Qur'an and exegesis (Tafsir)**
 
 The Science of Qur'anic Commentary and the Different Groups of
@@ -224,7 +223,6 @@ research, one would see. that much of its Qur'anic commentary imposes
 its theories onto the Qur'an rather than allowing the content of the
 verses to speak for themselves. \* \* \*
 
-
 **The Methods Used by the Shi'ite Cmmentators and their Different
 Groupings**
 
@@ -292,7 +290,6 @@ paradise, and knowledge of the traditions.
 
 (Allamah Tabatabai, The Qur'an in Islam, p. 47-51)
 
-
 **About the interpretation and cammentators
 The Qur'an Possesses Revelation and Exegesis**
 
@@ -323,5 +320,4 @@ the word awl, meaning a return. As such, ta'wil indicates that
 particular meaning towards which the verse is directed. The meaning of
 revelation tanzil, as opposed to ta'wil, is clear or according to the
 obvious meaning of the words as they were revealed.
-
 

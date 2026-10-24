@@ -32,4 +32,3 @@ i.e. By the Name of Allah, the Lord of the earth and heaven..."
 
 Bihar-ul-Anwar, vol. 90, p. 187 & Sahifah Sajjadiyyah, p. 572
 
-

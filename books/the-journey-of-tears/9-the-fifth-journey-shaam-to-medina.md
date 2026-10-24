@@ -110,4 +110,3 @@ patience! Asghar is lying in a grave in Karbala’.”
 Bibi Fatimah Soghra stared at her elder brother in absolute disbelief!
 And then she screamed and fell unconscious!
 
-

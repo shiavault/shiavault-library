@@ -105,12 +105,8 @@ any judgment and every part of the earth would echo with the call of:
 
 And that is the implication of the words of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-أَفَغَيْرَ دِينِ اللَّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَنْ فِي
-السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
-  </p>
-</blockquote>
+> أَفَغَيْرَ دِينِ اللَّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَنْ فِي
+> السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
 
 ***“And to Him submits whoever is in the heavens and the earth,
 willingly or unwillingly, and to Him shall they be returned.” (Qur’an,
@@ -151,12 +147,8 @@ is mentioned that he said:
 one would be needful of the knowledge that his brother has and the
 interpretation of this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ يَتَفَرَّقَا يُغْنِ اللَّهُ كُلًّا مِنْ سَعَتِهِ ۚ وَكَانَ
-اللَّهُ وَاسِعًا حَكِيمًا
-  </p>
-</blockquote>
+> وَإِنْ يَتَفَرَّقَا يُغْنِ اللَّهُ كُلًّا مِنْ سَعَتِهِ ۚ وَكَانَ
+> اللَّهُ وَاسِعًا حَكِيمًا
 
 ***“Allah will render them both free from want out of His ampleness.”
 (Qur’an, Surah Nisa 4:130)***
@@ -323,5 +315,4 @@ rewards to its author.
 [^9]: Biharul Anwar; Vol. 94, Pg. 35
 
 [^10]: Biharul Anwar; Vol. 52, Pg. 175
-
 

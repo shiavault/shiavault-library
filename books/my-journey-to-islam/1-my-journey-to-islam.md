@@ -4,11 +4,7 @@ My journey to Islam
 Searching for ‘Home’
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ
 
 **In the name of God, the Most Gracious, the Most Merciful**
 
@@ -769,18 +765,10 @@ appointed Messengers; Imamah or divinely appointed leadership over
 humanity after the death of the Prophet, and Ma‘ad or belief in the Day
 of Judgement.
 
-<blockquote dir="rtl">
-  <p>
-لاٌ إِلٌهَ إِلاَّ اللٌّهَ مُحَمَّداً رَسُولُ اللٌّهِ
-  </p>
-</blockquote>
+> لاٌ إِلٌهَ إِلاَّ اللٌّهَ مُحَمَّداً رَسُولُ اللٌّهِ
 
-<blockquote dir="rtl">
-  <p>
-عَلِيٌّ وَلِيُّ اللٌّهِ وَ وَصِيُّ رَسُولُ اللٌّهِ و خَلِيفَتُهُ بِلاٌ
-فَصْلِ
-  </p>
-</blockquote>
+> عَلِيٌّ وَلِيُّ اللٌّهِ وَ وَصِيُّ رَسُولُ اللٌّهِ و خَلِيفَتُهُ بِلاٌ
+> فَصْلِ
 
 Which means:
 
@@ -897,5 +885,4 @@ believe and affirm that There is no creation or entity worthy of worship
 except for Allah and that Muhammad is the last Messenger of God.
 
 [^6]: The ninth month of the Islamic lunar calendar.
-
 

@@ -283,4 +283,3 @@ dress and cap and turban etc. of the Maulavi. In fact man becomes
 sophisticated due to his knowledge and manners. No one can become
 sophisticated by just wearing a particular suit and hat.
 
-

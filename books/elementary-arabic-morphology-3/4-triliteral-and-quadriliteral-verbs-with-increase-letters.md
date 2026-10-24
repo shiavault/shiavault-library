@@ -32,4 +32,3 @@ is to make the **فعّل** reflexive as in **عَلَّمتُهُ فَتَعَ�
 make the **فعلل** reflexive as in **دَحرَجتُهُ فَتَدَحرَجَ.** All of the
 other forms are used for emphasis.
 
-

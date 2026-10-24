@@ -20,41 +20,25 @@ diminishes.
 risings) of arrogance.
 
 > 4ـ اِقْمَعُوا نَواجِمَ الفَخْرِ، واقْدِعُوا لَوامِعَ (طَوالِعَ)
-<blockquote dir="rtl">
-  <p>
-الكِبْرِ.
-  </p>
-</blockquote>
+> الكِبْرِ.
 
 5. Beware of arrogance, for it is the cornerstone of tyranny and
 disobedience to the Most Merciful.
 
 > 5ـ اِحْذَرِ الكِبْرَ فَإنَّهُ رَأْسُ الطُغْيانِ، ومَعْصيَةُ
-<blockquote dir="rtl">
-  <p>
-الرَّحْمنِ.
-  </p>
-</blockquote>
+> الرَّحْمنِ.
 
 6. Beware of arrogance, for indeed it is the greatest of sins and the
 vilest of faults, and it is the ornament of the Devil.
 
 > 6ـ إيّاكَ والكِبْرَ، فَإنَّهُ أعْظَمُ الذُّنُوبِ، وألأمُ العُيُوبِ،
-<blockquote dir="rtl">
-  <p>
-وهُوَ حِلْيَةُ إبْلِيسَ.
-  </p>
-</blockquote>
+> وهُوَ حِلْيَةُ إبْلِيسَ.
 
 7. Beware of behaving haughtily with the servants of Allah, for every
 haughty one is crushed by Allah.
 
 > 7ـ إيّاكَ والتَّجَبُّرَ عَلى عِبادِ اللّهِ، فَإنَّ كُلَّ مُتَجَبِّر
-<blockquote dir="rtl">
-  <p>
-يَقْصِمُهُ اللّهُ.
-  </p>
-</blockquote>
+> يَقْصِمُهُ اللّهُ.
 
 8. The ugliest character is arrogance.
 
@@ -147,12 +131,8 @@ he grips the hearts just as fatal poisons [rush through the body and]
 overcome [it].
 
 > 29ـ فَاللّهَ اللّهَ عِبادَاللّهِ أنْ تَتَرَدَّوْا رِداءَ الكِبْرِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّ الكِبْرَ مَصيدَةُ إبْلِسَ العُظْمَى الَّتي يُساوِرُ بِها
-القُلُوبَ مُساوَرَةَ السُّمُومِ القاتِلَةِ.
-  </p>
-</blockquote>
+> فَإنَّ الكِبْرَ مَصيدَةُ إبْلِسَ العُظْمَى الَّتي يُساوِرُ بِها
+> القُلُوبَ مُساوَرَةَ السُّمُومِ القاتِلَةِ.
 
 30. Arrogance is sufficient as a [cause of] loss [and destruction].
 
@@ -167,12 +147,8 @@ creation He would make it permissible to His Prophets, but He made it
 hateful for them to be arrogant and approved of their humility.
 
 > 32ـ لَورَخَّصَ اللّهُ سُبْحانَهُ فِي الكِبْرِ لاِحَد مِنَ الخَلْقِ
-<blockquote dir="rtl">
-  <p>
-لَرَخَّصَ فيهِ لأنْبِيائِهِ، لكِنَّهُ كَرَّهَ إلَيْهِمُ التَّكَبُّرَ
-ورَضِيَ لَهُمْ التَّواضُعَ.
-  </p>
-</blockquote>
+> لَرَخَّصَ فيهِ لأنْبِيائِهِ، لكِنَّهُ كَرَّهَ إلَيْهِمُ التَّكَبُّرَ
+> ورَضِيَ لَهُمْ التَّواضُعَ.
 
 33. One who shows haughtiness is crushed.
 
@@ -182,11 +158,7 @@ hateful for them to be arrogant and approved of their humility.
 close relatives and members of his [own] tribe.
 
 > 34ـ مِنْ أقْبَحِ الكِبْرِ تَكَبُّرُ الرَّجُلِ عَلى ذَوِي رَحِمِهِ،
-<blockquote dir="rtl">
-  <p>
-وأبْناءِ جِنْسِهِ.
-  </p>
-</blockquote>
+> وأبْناءِ جِنْسِهِ.
 
 35. Nothing brings hatred like arrogance does.
 
@@ -196,11 +168,7 @@ close relatives and members of his [own] tribe.
 and be humble in front Allah, who has elevated you.
 
 > 36ـ لاتُصَعِّرَنَّ خَدَّكَ، وألِنْ جانِبَكَ، وتَواضَعْ لِلّهِ الَّذي
-<blockquote dir="rtl">
-  <p>
-رَفَعَكَ.
-  </p>
-</blockquote>
+> رَفَعَكَ.
 
 37. There is no praise with arrogance.
 
@@ -213,5 +181,4 @@ and be humble in front Allah, who has elevated you.
 39. It does not behove one who knows Allah to become haughty.
 
 > 39ـ لايَنْبَغي لِمَنْ عَرَفَ اللّهَ أنْ يَتَعاظَمَ.
-
 

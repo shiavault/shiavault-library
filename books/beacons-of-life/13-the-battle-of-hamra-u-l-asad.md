@@ -402,4 +402,3 @@ funeral without an outer garment. He then sent \`Abdullah ibn \`Atik to
 Khaybar (another Jewish settlement) where he killed Abu Rafi\` (Sallam)
 ibn Abi ' l-Huqayq (one of the chiefs of the Banu Qurayzah).
 
-

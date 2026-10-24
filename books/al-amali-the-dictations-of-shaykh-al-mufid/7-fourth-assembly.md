@@ -188,4 +188,3 @@ The Prophet, peace be upon him and his progeny, said: "When you see a
 person not engaging in a purposeless chatter, then that is the sign of
 his excellent (understanding of) Islam."
 
-

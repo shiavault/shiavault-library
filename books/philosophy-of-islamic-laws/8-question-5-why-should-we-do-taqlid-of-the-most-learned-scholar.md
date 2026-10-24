@@ -31,4 +31,3 @@ Whatever is said above is one of the proofs for the Taqlid of an Aalam.
 Mujtahids have given some proofs on this topic, whose explanation is not
 possible over here.
 
-

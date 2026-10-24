@@ -12,11 +12,7 @@ opportunities for [doing] good.
 opportunities for [doing] good.
 
 > 2ـ اَلتَّثَبُّتُ خَيْرٌ مِنَ العَجَلَةِ إلاّ في فُرَصِ
-<blockquote dir="rtl">
-  <p>
-الخَيْرِ(البِرِّ).
-  </p>
-</blockquote>
+> الخَيْرِ(البِرِّ).
 
 3. Deliberateness is judiciousness.
 
@@ -47,22 +43,14 @@ departed have arrived [at their final destination] and those who hasten
 will soon join.
 
 > 9ـ رُوَيْداً يُسْفِرُ الظَّلامُ، كَأنْ قَدْ وَرَدَتِ الأظْعانُ يُوشِكُ
-<blockquote dir="rtl">
-  <p>
-مَنْ أسْـَرعَ أنْ يَلْحَقَ.
-  </p>
-</blockquote>
+> مَنْ أسْـَرعَ أنْ يَلْحَقَ.
 
 10. Bind your haste with your deliberateness, your domination with
 your friendliness and your evil [traits] with your good [ones]. Help the
 intellect overcome vain desires and you will possess understanding.
 
 > 10ـ صِلْ عَجَلَتَكَ بِتَأنّيكَ، وسَطْوَتَكَ بِرِفْقِكَ، وشَرَّكَ
-<blockquote dir="rtl">
-  <p>
-بِخَيْرِكَ، وانْصُرِ العَقْلَ عَلَى الهَوى تَمْلِكِ النُّهى.
-  </p>
-</blockquote>
+> بِخَيْرِكَ، وانْصُرِ العَقْلَ عَلَى الهَوى تَمْلِكِ النُّهى.
 
 11. You must adopt deliberateness, for indeed one who acts
 unhurriedly is deserving of success.
@@ -92,5 +80,4 @@ unhurriedly is deserving of success.
 17. Deliberateness is success.
 
 > 17ـ اَلأناةُ إصابَةٌ.
-
 

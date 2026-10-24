@@ -236,4 +236,3 @@ al-\`Asqalaniy: Fath al-Bari fi Sharh Sahih al-Bukhariy 3:456-457; Sunan
 Abi-Dawud 2:215 H. 2031; Sunan Ibn Majah 2:1040 H. 3116; Sunan
 al-Bayhaqiy al-Kubra 5:159 H. 9511.
 
-

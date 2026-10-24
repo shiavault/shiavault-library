@@ -66,4 +66,3 @@ these assemblies and joined in the discussions with scholars of other
 religions. Many of these debates are recorded in the collections of
 Shi'ite hadiths.
 
-

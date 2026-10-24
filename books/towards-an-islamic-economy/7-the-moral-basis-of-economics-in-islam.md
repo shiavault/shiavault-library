@@ -166,4 +166,3 @@ significant individual act of devotion, to God,' but a vital
 
 [^1]: the highest authority dispensing justice under Islamic laws. --Ed.
 
-

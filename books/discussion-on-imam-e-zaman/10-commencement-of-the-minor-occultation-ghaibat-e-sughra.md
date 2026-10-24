@@ -82,14 +82,12 @@ Imam-e-Zaman (a.t.f.s.), reminding him of a few things. This letter is
 quite well known and has been recorded in quite a few books with
 explanations.
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم. يا علي بن محمد الس.مري, أعظم الله أجر إخوانك
 فيك » فانّك ميت ما بينك و بين أيام, فاجمع أمرك و لا توص إلي أحد فيقوم
 مقامك بعد وفاتك, فقد وقعت الغيبه التّامه فلا ظهور إلا بعد إذن الله تعالي
 ذكره. و ذلك بعد طول الأمد و قسوه القلوب و امتلاء الأرض جورا. و سيأتي من
 شيعتي من يدعي المشاهده. ألا فمن ادعي المشاهده قبل خروج السفياني و الصيحه
 فهو كذّاب مفتر. و لا حول و لا .« قوه إلّا بالله العلي العظيم
-</p>
 
 “O Ali Ibn Muhammad Seymouri! May Allah increase the reward of your
 brothers concerning you? You will die after six days. Now, you don’t
@@ -115,5 +113,4 @@ This was the brief history of the minor occultation till the
 commencement of the major one, which began when Imam-e-Zaman’s
 (a.t.f.s.) age was seventy-four.
 33 Behaar al-Anwaar, by Allama Majlisi, vol. 51, p. 361.
-
 

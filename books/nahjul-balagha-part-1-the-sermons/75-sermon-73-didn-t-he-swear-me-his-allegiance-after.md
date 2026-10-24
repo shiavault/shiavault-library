@@ -8,25 +8,13 @@ al-mu'minin about him and he released him. Then they said, "O' Amir
 al-mu'minin he desires to swear you allegiance" Whereupon Amir
 al-mu'minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-قاله لمروان بن الحكم بالبصرة
-  </p>
-</blockquote>
+> قاله لمروان بن الحكم بالبصرة
 
-<blockquote dir="rtl">
-  <p>
-قالوا: أُخِذَ مروان بن الحكم أَسيراً يوم الجمل، فاستشفع الحسن والحسين
-(عليهما السلام) إلى أَميرالمؤمنين (عليه السلام)، فكلّماه فيه، فخلّى
-سبيله، فقالا له: يبايعك يا أميرالمؤمنين؟ فقال:
-  </p>
-</blockquote>
+> قالوا: أُخِذَ مروان بن الحكم أَسيراً يوم الجمل، فاستشفع الحسن والحسين
+> (عليهما السلام) إلى أَميرالمؤمنين (عليه السلام)، فكلّماه فيه، فخلّى
+> سبيله، فقالا له: يبايعك يا أميرالمؤمنين؟ فقال:
 
 Did he not swear me allegiance after the killing of \`Uthman? Now I do
 not need his allegiance, because his is the hand of a Jew. If he swears
@@ -35,15 +23,11 @@ Well, he is to get power for so long as a dog licks his nose. He is the
 father of four rams (who will also rule). The people will face days
 through him and his sons. [^1]
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يُبَايِعْنِي بَعْدَ قَتْلِ عُثْمانَ؟ لاَ حَاجَةَ لِي في
-بَيْعَتِهِ! إِنِّهَا كَفٌّ يَهُودِيَّةٌ لَوْ بَايَعَنِي بِيَدِهِ
-لَغَدَرَ بِسُبَّتِهِ. أَمَا إِنَّ لَهُ إِمْرَةً كَلَعْقَةِ الْكَلْبِ
-أَنْفَهُ، وَهُوَ أَبُو الاْكُبُشِ الاْرْبَعَةِ، وَسَتَلْقَى الاْمَّة
-مِنْهُ وَمِنْ وَلَدِهِ يَوْمَاً أَحْمَرَ!
-  </p>
-</blockquote>
+> أَفَلَمْ يُبَايِعْنِي بَعْدَ قَتْلِ عُثْمانَ؟ لاَ حَاجَةَ لِي في
+> بَيْعَتِهِ! إِنِّهَا كَفٌّ يَهُودِيَّةٌ لَوْ بَايَعَنِي بِيَدِهِ
+> لَغَدَرَ بِسُبَّتِهِ. أَمَا إِنَّ لَهُ إِمْرَةً كَلَعْقَةِ الْكَلْبِ
+> أَنْفَهُ، وَهُوَ أَبُو الاْكُبُشِ الاْرْبَعَةِ، وَسَتَلْقَى الاْمَّة
+> مِنْهُ وَمِنْ وَلَدِهِ يَوْمَاً أَحْمَرَ!
 
 Alternative Sources for Sermon 73
 ---------------------------------
@@ -88,5 +72,4 @@ sons whose names are \`Abd al-Malik, \`Abd al-\`Aziz, Bishr and
 Muhammad. Out of these \`Abd al-Malik did become Caliph of Islam but
 \`Abd al-\`Aziz became governor of Egypt, Bishr of Iraq and Muhammad of
 al-Jazirah.
-
 

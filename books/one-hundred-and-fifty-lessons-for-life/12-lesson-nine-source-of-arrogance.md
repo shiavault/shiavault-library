@@ -3,12 +3,8 @@ Lesson Nine: Source of Arrogance
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"ما مِنْ رَجُل تَجَبَّرَ أَوْ تَكَبَّرَ إلاّ لِذِلَّة يَجِدُها فِى
-نَفْسِهِ"
-  </p>
-</blockquote>
+> "ما مِنْ رَجُل تَجَبَّرَ أَوْ تَكَبَّرَ إلاّ لِذِلَّة يَجِدُها فِى
+> نَفْسِهِ"
 
 Translation
 -----------
@@ -30,5 +26,4 @@ So clearly evident is this from the Imam’s saying . The faithful people
 are always modest before others due to their internal dignity.
 
 [^1]: Bihar al-Anwar, volume 73, page 225
-
 

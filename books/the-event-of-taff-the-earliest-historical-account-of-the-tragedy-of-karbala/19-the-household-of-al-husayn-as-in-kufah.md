@@ -360,4 +360,3 @@ Khawarij, on the order of Bishr bin Marwan, the governor of Basrah
 [^23]: Al-Tabari (5:458): “[Abu Mikhnaf relates that:] ‘Humaid bin
 Muslim said…”
 
-

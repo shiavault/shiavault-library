@@ -1,8 +1,6 @@
 Chapter 11: Attitude Towards Confusion
 ======================================
 
-  
-
 Al-Hasan devoted himself to thinking., He remained calm in the confusion
 of the misfortunes that threatened his attitude. He was indifferent to
 those calamities though some of them were tragedy; some of them were
@@ -32,8 +30,6 @@ As for what the people said, it did not concern al-Hasan very much.
 
 We must always remember that al-Hasan was a spiritual Imam. Thus he did
 not cling to life as the people did. He regarded life as a  
-
-  
 
 sacrifice in the way of Allah, means for public interest, and a field
 for achieving righteousness and spreading kindness. So the words of the
@@ -73,8 +69,6 @@ and relying on no one but Him.
 
 Among the supplications of al-Hasan, peace be on him, is: "O Allah! O
 You Who have might and sovereignty! O You Who have  
-
-  
 
 supreme position! How do I fear (of people) and You are my hope? How do
 I fear (of them) and my reliance is on You? Pour on me some of Your
@@ -116,8 +110,6 @@ century. Suddenly, he remembered the houses of the Prophethood, for
 
 [[1]](#n1) Al-Majlisi, Bihar al-Anwar, vol. 10, p. 107.
 
-  
-
 they competed with each other to attract him. He remembered the nexts of
 the descents of revelation, for they vied with each other to embrace him
 warmly. He remembered the Ansar (helpers) who celebrated him.
@@ -156,8 +148,6 @@ These are great qualities of which no Muslim has.
 Then al-Hasan looked at that sad horizon. He remembered those
 interesting memories. Thus they reminded him of his blessed childhood,
 and his early holy youth. Through these memories, he  
-
-  
 
 considered his white days full of light in Medina. That was on the day
 when he toddled at his excellent next in it (Medina), and his notable
@@ -198,8 +188,6 @@ Besides the memories of this period remain immortal
 [[1]](#n2) See al-Zamakhshari. Ibn al-Bay'. Al-Tabarani. Yanabi'
 al-Mawadda. Al-IsAba, vol. 2, p. 12.
 
-  
-
 in his mind, in his heart, and in his spirit. Namely, he never forgets
 such a period.
 
@@ -238,8 +226,6 @@ So (his shoulders) were the best riding next, and they were the best
 riders. [[2]](#n4) Ibn Batta, al-Ibana. [[3]](#n5) Abu Nu'aym, Hilyat
 al-Awliya'. [[4]](#n6) Ahmad Shahab al-Din al-'Asqalani al-Isaba fi
 Tamyiz al-Sahaba, vol. 2, p. 11.
-
-  
 
 else." So he (the Prophet) said: "Indeed, this (i.e., al-Hasan) is my
 plant of sweet basil. Indeed, this (grand) son of mine is a lord.
@@ -280,8 +266,6 @@ He remembered the day when he was a child between the two
 al-Anwar, vol. 6, p. 58. [[3]](#n9) Al-Manaqib. Al-Tirmidhi. Al-Sam'ani.
 Ahmad, al-Fada'il. [[4]](#n10) Al-Ghazali, Ihya' 'Ulum al-Din. Al-Makki,
 al-Ihya' and Qut al Qulub. [[5]](#n11) Sulaym b. Qays al-Saqifa, p. 98.
-
-  
 
 hands of his mother Fatima, peace be on her. Then her father the Apostle
 of Allah, may Allah bless him and his family, came to her. He saw him
@@ -326,8 +310,6 @@ al-Dhahab. [[2]](#n13) Ibn Hajar al-'Asqalani, al-Sawa'iq al-Muhriqa, p.
 105. Also Al-Darqutni has mentioned it. [[3]](#n14) Al-Bukhari. Muslim.
 Al-Isaba, vol. 2, p. 12.
 
-  
-
 Syrians? The Syrians are aggressors, so does this tradition concern
 them? Is this the discord for which the Apostle of Allah, may Allah
 bless him and his family, wanted me to settle? Do I not have enough
@@ -370,8 +352,6 @@ the large number of an army without high military
 [[1]](#n15)This is a hint to the attempts of the Byzantine on the Syrian
 borders in the year40A.H.
 
-  
-
 spirit.
 
 Now, we are able to answer the above-mentioned question as follows:
@@ -410,8 +390,6 @@ Mu'awiya at Maskan (according to this rule), we will find that it was
 fighting against an enemy who was exactly forty-five times more than it.
 
 Therefore, I wonder: Was al-Hasan's army strong enough to  
-
-  
 
 suppress the discord the Syrians created?
 
@@ -453,8 +431,6 @@ al-Husayn not to pour even blood into a cupping- glass in carrying out
 his command. That happened as he wanted.
 
 Moreover, many eyewitnesses underlined that al-Hasan was the  
-
-  
 
 successor to authority, and that he did not shed even blood into a
 cupping- glass during his succession to authority. Some of them said

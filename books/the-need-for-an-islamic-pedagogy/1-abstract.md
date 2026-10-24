@@ -42,4 +42,3 @@ from their peers. While this research is mostly theoretical and could
 possibly be valid for many parts of the Muslim world, the main
 geographical intent for application is Egypt.
 
-

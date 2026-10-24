@@ -13,23 +13,15 @@ occultation
 
 Imam Ridha’ (a.s.) declares:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللهُ عَبْداً أَحْيا أَمْرَنا
-  </p>
-</blockquote>
+> رَحِمَ اللهُ عَبْداً أَحْيا أَمْرَنا
 
 'May Allah have mercy upon the slave who enlivens our affairs?'
 
 Hirvi who is the narrator of this tradition asked Imam (a.s.), 'How can
 we enliven your affair?' Imam (a.s.) replied:
 
-<blockquote dir="rtl">
-  <p>
-يتعلّم علومنا ويعلّمها الناس ، فإنّ الناس لو علموا محاسن كلامنا
-لاتّبعونا 
-  </p>
-</blockquote>
+> يتعلّم علومنا ويعلّمها الناس ، فإنّ الناس لو علموا محاسن كلامنا
+> لاتّبعونا
 
 'Learn our knowledge and teach it to the people. For certainly, had the
 people known the goodness of our statements, they would have surely
@@ -40,12 +32,8 @@ Ahlul Bayt (a.s.) and our approach to this crucial task can be
 accomplished by referring and stating their traditions. Imam Sadiq
 (a.s.) advised his Shias:
 
-<blockquote dir="rtl">
-  <p>
-تلاقُوا و تحادثوا العلم. فإن الحديث تُجلى القلوب الرانية. و بالحديث
-إحياءُ امرنا. فَرحم الله من احيا امرنا.
-  </p>
-</blockquote>
+> تلاقُوا و تحادثوا العلم. فإن الحديث تُجلى القلوب الرانية. و بالحديث
+> إحياءُ امرنا. فَرحم الله من احيا امرنا.
 
 'Visit each other and discuss the concepts of knowledge with each other.
 With the medium of traditions, hearts become pure and our affair is
@@ -128,5 +116,4 @@ creatures in front of Allah.
 [^2]: Mikyalul Makarim, Vol. 1 Pg. 320
 
 [^3]: Bihar al-Anwar, Vol. 2 Pg. 6
-
 

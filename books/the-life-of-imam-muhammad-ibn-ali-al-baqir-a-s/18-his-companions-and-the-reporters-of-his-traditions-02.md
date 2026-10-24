@@ -1135,242 +1135,242 @@ the day when he will be raised from the dead.
 
 ###
 
-[^1] Tanqih al-Maqal, vol.1, p.[^205]:
+[^1]: Tanqih al-Maqal, vol.1, p.205.
 
-[^2] Al-Tusi, Rijal.
+[^2]: Al-Tusi, Rijal.
 
-[^3] Al-Najashi.
+[^3]: Al-Najashi.
 
-[^4] Al-Tusi, Rijal.
+[^4]: Al-Tusi, Rijal.
 
-[^5] Al-Najashi.
+[^5]: Al-Najashi.
 
-[^6] Al-Tusi, Rijal.
+[^6]: Al-Tusi, Rijal.
 
-[^7] Ibid.
+[^7]: Ibid.
 
-[^8] Tanqih al-Maqal, vol.1, p.[^211]:
+[^8]: Tanqih al-Maqal, vol.1, p.211.
 
-[^9] Al-Barqi, Rijal. Mu‘jam Rijal al-Hadith, vol.4, p.[^47]: In Tanqih
+[^9]: Al-Barqi, Rijal. Mu‘jam Rijal al-Hadith, vol.4, p.47. In Tanqih
 al-Maqal, vol.1, p.211, Shaykh al-Tusi numbered Ja‘far b. Ibrahim
 al-Hadrami as one of the companions of Imam al-Rida.
 
-[^10] Al-Tusi, Rijal.
+[^10]: Al-Tusi, Rijal.
 
-[^11] Ibid.
+[^11]: Ibid.
 
-[^12] Ibid.
+[^12]: Ibid.
 
-[^13] Tanqih al-Maqal, vol.1, p.[^266]:
+[^13]: Tanqih al-Maqal, vol.1, p.266.
 
-[^14] Mu‘jam Rijal al-Hadith, vol.4, p.[^286]:
+[^14]: Mu‘jam Rijal al-Hadith, vol.4, p.286.
 
-[^15] Al-Barqi, Rijal.
+[^15]: Al-Barqi, Rijal.
 
-[^16] Tanqih al-Maqal, vol.1, p.[^271]:
+[^16]: Tanqih al-Maqal, vol.1, p.271.
 
-[^17] Al-Tusi, Rijal.
+[^17]: Al-Tusi, Rijal.
 
-[^18] Mu‘jam Rijal al-Hadith, vol.4, p.[^341]:
+[^18]: Mu‘jam Rijal al-Hadith, vol.4, p.341.
 
-[^19] Ibid, p.[^350]: Al-Tusi, Rijal.
+[^19]: Ibid, p.350. Al-Tusi, Rijal.
 
-[^20] Mu‘jam Rijal al-Hadith, vol.4, p.[^470]:
+[^20]: Mu‘jam Rijal al-Hadith, vol.4, p.470.
 
-[^21] Ibid, p.[^372]:
+[^21]: Ibid, p.372.
 
-[^22] Ibid, vol.5, p.[^15]:
+[^22]: Ibid, vol.5, p.15.
 
-[^23] Ibid, p.[^77]:
+[^23]: Ibid, p.77.
 
-[^24] Al-Tusi, Rijal.
+[^24]: Al-Tusi, Rijal.
 
-[^25] Al-Mufid, al-Irshad. Tanqih al-Maqal, vol.1, p.[^303]:
+[^25]: Al-Mufid, al-Irshad. Tanqih al-Maqal, vol.1, p.303.
 
-[^26] Al-Tusi, Rijal.
+[^26]: Al-Tusi, Rijal.
 
-[^27] Mu‘jam Rijal al-Hadith, vol.5, p.[^158]:
+[^27]: Mu‘jam Rijal al-Hadith, vol.5, p.158.
 
-[^28] Ibid, p.[^164]:
+[^28]: Ibid, p.164.
 
-[^29] Ibid, p.[^166]:
+[^29]: Ibid, p.166.
 
-[^30] Al-Tusi, Rijal.
+[^30]: Al-Tusi, Rijal.
 
-[^31] Mu‘jam Rijal al-Hadith, vol.5, p.[^185]: Tanqih al-Maqal, vol.1,
+[^31]: Mu‘jam Rijal al-Hadith, vol.5, p.185. Tanqih al-Maqal, vol.1,
 p.317.
 
-[^32] Al-Najashi. Al-Tusi, Fihrast.
+[^32]: Al-Najashi. Al-Tusi, Fihrast.
 
-[^33] Al-Tusi, Rijal.
+[^33]: Al-Tusi, Rijal.
 
-[^34] Al-Najashi.
+[^34]: Al-Najashi.
 
-[^35] He was called al-Rajani, for he lived at a valley called Rajan in
+[^35]: He was called al-Rajani, for he lived at a valley called Rajan in
 Najd (in Saudi Arabia).
 
-[^36] Mu‘jam Rijal al-Hadith, vol.6, p.[^13]:
+[^36]: Mu‘jam Rijal al-Hadith, vol.6, p.13.
 
-[^37] Ibid, p.[^66]: Tanqih al-Maqal, vol.1, p.333.
+[^37]: Ibid, p.66. Tanqih al-Maqal, vol.1, p.333.
 
-[^38] Ibid, p.[^93]:
+[^38]: Ibid, p.93.
 
-[^39] Ibid, p.[^96]:
+[^39]: Ibid, p.96.
 
-[^40] Al-Kashi, Rijal.
+[^40]: Al-Kashi, Rijal.
 
-[^41] Al-Tusi, Rijal.
+[^41]: Al-Tusi, Rijal.
 
-[^42] Ibid.
+[^42]: Ibid.
 
-[^43] Al-Najashi.
+[^43]: Al-Najashi.
 
-[^44] Mu‘jam Rijal al-Hadith, vol.6, p.[^171]:
+[^44]: Mu‘jam Rijal al-Hadith, vol.6, p.171.
 
-[^45] Ibid, p.[^163]: Tanqih al-Maqal, vol.1, p.356.
+[^45]: Ibid, p.163. Tanqih al-Maqal, vol.1, p.356.
 
-[^46] Ibid, p.[^172]:
+[^46]: Ibid, p.172.
 
-[^47] Ibid, pp.174-[^175]:
+[^47]: Ibid, pp.174-[^175]:
 
-[^48] Al-Kahsi.
+[^48]: Al-Kahsi.
 
-[^49] Tahdhib al-Tahdhib, vol.2, p.[^433]:
+[^49]: Tahdhib al-Tahdhib, vol.2, p.433.
 
-[^50] Ibid, p.[^434]:
+[^50]: Ibid, p.434.
 
-[^51] Tanqih al-Maqal, vol.1, p.[^358]:
+[^51]: Tanqih al-Maqal, vol.1, p.358.
 
-[^52] Ibid, p.[^359]:
+[^52]: Ibid, p.359.
 
-[^53] Al-Najashi.
+[^53]: Al-Najashi.
 
-[^54] Al-Tusi, Rijal.
+[^54]: Al-Tusi, Rijal.
 
-[^55] Ibid.
+[^55]: Ibid.
 
-[^56] Ibid.
+[^56]: Ibid.
 
-[^57] Ibid.
+[^57]: Ibid.
 
-[^58] Tanqih al-Maqal, vol.1, p.[^362]:
+[^58]: Tanqih al-Maqal, vol.1, p.362.
 
-[^59] Mu‘jam Rijal al-Hadith, vol.6, p.[^220]:
+[^59]: Mu‘jam Rijal al-Hadith, vol.6, p.220.
 
-[^60] Al-Tusi, Rijal.
+[^60]: Al-Tusi, Rijal.
 
-[^61] Ibid.
+[^61]: Ibid.
 
-[^62] Tanqih al-Maqal, vol.1, p.[^368]: Mu‘jam Rijal al-Hadith, vol.6,
+[^62]: Tanqih al-Maqal, vol.1, p.368. Mu‘jam Rijal al-Hadith, vol.6,
 p.229.
 
-[^63] Tanqih al-Maqal, vol.1, p.[^370]:
+[^63]: Tanqih al-Maqal, vol.1, p.370.
 
-[^64] Ibid.
+[^64]: Ibid.
 
-[^65] Al-Kashi.
+[^65]: Al-Kashi.
 
-[^66] Tanqih al-Maqal, vol.1, p.[^371]:
+[^66]: Tanqih al-Maqal, vol.1, p.371.
 
-[^67] Mu‘jam Rijal al-Hadith, vol.6, p.[^272]:
+[^67]: Mu‘jam Rijal al-Hadith, vol.6, p.272.
 
-[^68] Tanqih al-Maqal, vol.1, p.[^376]:
+[^68]: Tanqih al-Maqal, vol.1, p.376.
 
-[^69] Al-Kashi.
+[^69]: Al-Kashi.
 
-[^70] Mu‘jam Rijal al-Hadith, vol.6, p.[^278]:
+[^70]: Mu‘jam Rijal al-Hadith, vol.6, p.278.
 
-[^71] Tanqih al-Maqal, vol.1, p.[^375]:
+[^71]: Tanqih al-Maqal, vol.1, p.375.
 
-[^72] Ibid, p.[^374]:
+[^72]: Ibid, p.374.
 
-[^73] Al-Kashi.
+[^73]: Al-Kashi.
 
-[^74] Al-Tusi, Rijal.
+[^74]: Al-Tusi, Rijal.
 
-[^75] Al-Najashi.
+[^75]: Al-Najashi.
 
-[^76] Al-Tusi, Rijal.
+[^76]: Al-Tusi, Rijal.
 
-[^77] Al-Tusi, Rijal. Mu‘jam Rijal al-Hadith, vol.7, p.[^14]:
+[^77]: Al-Tusi, Rijal. Mu‘jam Rijal al-Hadith, vol.7, p.14.
 
-[^78] Ibid. Ibid, p.[^30]:
+[^78]: Ibid. Ibid, p.30.
 
-[^79] Mu‘jam Rijal al-Hadith, vol.7, p.[^82]: Tanqih al-Maqal, vol.1,
+[^79]: Mu‘jam Rijal al-Hadith, vol.7, p.82. Tanqih al-Maqal, vol.1,
 p.404.
 
-[^80] Ibid, p.[^83]: Ibid.
+[^80]: Ibid, p.83. Ibid.
 
-[^81] Al-Tusi, Rijal, p.[^120]:
+[^81]: Al-Tusi, Rijal, p.120.
 
-[^82] Ibid.
+[^82]: Ibid.
 
-[^83] Ibid.
+[^83]: Ibid.
 
-[^84] Mu‘jam Rijal al-Hadith, vol.7, p.[^100]:
+[^84]: Mu‘jam Rijal al-Hadith, vol.7, p.100.
 
-[^85] Al-Tusi, Rijal, p.[^120]:
+[^85]: Al-Tusi, Rijal, p.120.
 
-[^86] Ibid.
+[^86]: Ibid.
 
-[^87] Ibid.
+[^87]: Ibid.
 
-[^88] Al-Najashi.
+[^88]: Al-Najashi.
 
-[^89] Mu‘jam Rijal al-Hadith, vol.7, p.[^170]:
+[^89]: Mu‘jam Rijal al-Hadith, vol.7, p.170.
 
-[^90] Ibid, p.[^173]:
+[^90]: Ibid, p.173.
 
-[^91] Al-Tusi, Rijal.
+[^91]: Al-Tusi, Rijal.
 
-[^92] Ibid.
+[^92]: Ibid.
 
-[^93] Ibid.
+[^93]: Ibid.
 
-[^94] Ibid.
+[^94]: Ibid.
 
-[^95] Mu‘jam Rijal al-Hadith, vol.7, p.[^190]:
+[^95]: Mu‘jam Rijal al-Hadith, vol.7, p.190.
 
-[^96] Ibid, p.[^200]:
+[^96]: Ibid, p.200.
 
-[^97] Ibid, p.[^202]:
+[^97]: Ibid, p.202.
 
-[^98] Ibid, p.[^215]:
+[^98]: Ibid, p.215.
 
-[^99] Al-Najashi.
+[^99]: Al-Najashi.
 
-[^100] Al-Tusi, Rijal.
+[^100]: Al-Tusi, Rijal.
 
-[^101] Mu‘jam Rijal al-Hadith, vol.7, p.[^249]:
+[^101]: Mu‘jam Rijal al-Hadith, vol.7, p.249.
 
-[^102] Ibid, p.[^225]:
+[^102]: Ibid, p.225.
 
-[^103] Ibid.
+[^103]: Ibid.
 
-[^104] Al-Najashi.
+[^104]: Al-Najashi.
 
-[^105] Al-Kashi.
+[^105]: Al-Kashi.
 
-[^106] Ibn al-Nadim, Fihrast.
+[^106]: Ibn al-Nadim, Fihrast.
 
-[^107] Al-Kashi.
+[^107]: Al-Kashi.
 
-[^108] Ibid.
+[^108]: Ibid.
 
-[^109] Ibid.
+[^109]: Ibid.
 
-[^110] Ibid.
+[^110]: Ibid.
 
-[^111] Ibid.
+[^111]: Ibid.
 
-[^112] Ibid.
+[^112]: Ibid.
 
-[^113] Majjma‘ al-Bahrain, maddat nur.
+[^113]: Majjma‘ al-Bahrain, maddat nur.
 
-[^114] Al-Kashi.
+[^114]: Al-Kashi.
 
-[^115] Ibid.
+[^115]: Ibid.
 
-[^116] Ibid.
+[^116]: Ibid.
 
-[^117] Ibid.
+[^117]: Ibid.

@@ -40,4 +40,3 @@ after asking their permission.
 
 [^1]: Wasa’il ul-Shi’a, vol. 14, p. 94-95
 
-

@@ -109,4 +109,3 @@ the northern wall.
 
 ![](/sites/default/files/map-jannatul-baqi.png)
 
-

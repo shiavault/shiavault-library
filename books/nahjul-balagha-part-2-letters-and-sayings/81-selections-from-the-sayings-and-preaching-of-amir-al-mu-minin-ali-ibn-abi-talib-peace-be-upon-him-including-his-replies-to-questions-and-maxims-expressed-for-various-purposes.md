@@ -1,30 +1,14 @@
 Selections from The Sayings And Preaching Of Amir Al-Mu’minin ‘Ali Ibn Abi Talib (Peace Be Upon Him) Including His Replies To Questions And Maxims Expressed For Various Purposes
 =================================================================================================================================================================================
 
-<blockquote dir="rtl">
-  <p>
-حكم أمير المُؤمنين عليه السلام
-  </p>
-</blockquote>
+> حكم أمير المُؤمنين عليه السلام
 
-<blockquote dir="rtl">
-  <p>
-بَابُ المُخْتَارِ مِنْ حِكَمِ أَمِيرالمؤمنين عليه السلام
-  </p>
-</blockquote>
+> بَابُ المُخْتَارِ مِنْ حِكَمِ أَمِيرالمؤمنين عليه السلام
 
-<blockquote dir="rtl">
-  <p>
-وَمَوَاعِظِهِ وَيَدْخُلُ في ذلِكَ المخُتَارُ مِنْ أَجْوِبَةِ
-مَسَائِلِهِ
-  </p>
-</blockquote>
+> وَمَوَاعِظِهِ وَيَدْخُلُ في ذلِكَ المخُتَارُ مِنْ أَجْوِبَةِ
+> مَسَائِلِهِ
 
-<blockquote dir="rtl">
-  <p>
-وَالْكَلاَمِ القصير الخارج في سائِرِ اَغْراضِهِ
-  </p>
-</blockquote>
+> وَالْكَلاَمِ القصير الخارج في سائِرِ اَغْراضِهِ
 
 Hadith n. 1
 -----------
@@ -34,11 +18,7 @@ disturbance be like an adolescent camel [^1] who has neither a back
 strong enough for riding nor udders for milking.
 
 > 1. قَال(عليه السلام): كُنْ فِي الْفِتْنَةِ كَابْنِ اللَّبُونِ ، لاَ
-<blockquote dir="rtl">
-  <p>
-ظَهْرٌ فَيُرْكَبَ، وَلاَ ضَرْعٌ فَيُحْلَبَ.
-  </p>
-</blockquote>
+> ظَهْرٌ فَيُرْكَبَ، وَلاَ ضَرْعٌ فَيُحْلَبَ.
 
 Hadith n. 2
 -----------
@@ -49,12 +29,8 @@ humiliation; and he who allows his tongue to overpower his soul debases
 the soul.
 
 > 2. وَ قَالَ (عليه‏السلام ): أَزْرَى بِنَفْسِهِ مَنِ اسْتَشْعَرَ
-<blockquote dir="rtl">
-  <p>
-الطَّمَعَ وَ رَضِيَ بِالذُّلِّ مَنْ كَشَفَ عَنْ ضُرِّهِ وَ هَانَتْ
-عَلَيْهِ نَفْسُهُ مَنْ أَمَّرَ عَلَيْهَا لِسَانَهُ.
-  </p>
-</blockquote>
+> الطَّمَعَ وَ رَضِيَ بِالذُّلِّ مَنْ كَشَفَ عَنْ ضُرِّهِ وَ هَانَتْ
+> عَلَيْهِ نَفْسُهُ مَنْ أَمَّرَ عَلَيْهَا لِسَانَهُ.
 
 Hadith n. 3
 -----------
@@ -64,12 +40,8 @@ cowardice is a defect; poverty disables an intelligent man from arguing
 his case; and a destitute person is a stranger in his home town.
 
 > 3. وَ قَالَ ( عليه‏السلام(: الْبُخْلُ عَارٌ وَ الْجُبْنُ مَنْقَصَةٌ وَ
-<blockquote dir="rtl">
-  <p>
-الْفَقْرُ يُخْرِسُ الْفَطِنَ عَنْ حُجَّتِهِ وَ الْمُقِلُّ غَرِيبٌ فِي
-بَلْدَتِهِ
-  </p>
-</blockquote>
+> الْفَقْرُ يُخْرِسُ الْفَطِنَ عَنْ حُجَّتِهِ وَ الْمُقِلُّ غَرِيبٌ فِي
+> بَلْدَتِهِ
 
 Hadith n. 4
 -----------
@@ -80,11 +52,7 @@ is a shield (against sin); and the best companion is submission (to
 Allah's will).
 
 > 4. وَ قَالَ ( عليه‏السلام): الْعَجْزُ آفَةٌ وَ الصَّبْرُ شَجَاعَةٌ وَ
-<blockquote dir="rtl">
-  <p>
-الزُّهْدُ ثَرْوَةٌ وَ الْوَرَعُ جُنَّةٌ وَ نِعْمَ الْقَرِينُ الرِّضَى
-  </p>
-</blockquote>
+> الزُّهْدُ ثَرْوَةٌ وَ الْوَرَعُ جُنَّةٌ وَ نِعْمَ الْقَرِينُ الرِّضَى
 
 Hadith n. 5
 -----------
@@ -94,11 +62,7 @@ venerable estate; good manners are new dresses; and thinking is clear
 mirror.
 
 > 5. وَ قَالَ ( عليه‏السلام): الْعِلْمُ وِرَاثَةٌ كَرِيمَةٌ وَ الْآدَابُ
-<blockquote dir="rtl">
-  <p>
-حُلَلٌ مُجَدَّدَةٌ وَ الْفِكْرُ مِرْآةٌ صَافِيَةٌ.
-  </p>
-</blockquote>
+> حُلَلٌ مُجَدَّدَةٌ وَ الْفِكْرُ مِرْآةٌ صَافِيَةٌ.
 
 Hadith n. 6
 -----------
@@ -112,26 +76,14 @@ that**: Mutual reconciliation is the covering for shortcomings; and he
 who admires himself attracts many opponents against him. [^2]
 
 > 6. وَ قَالَ عليه ‏السلام: صَدْرُ الْعَاقِلِ صُنْدُوقُ سِرِّهِ وَ
-<blockquote dir="rtl">
-  <p>
-الْبَشَاشَةُ حِبَالَةُ الْمَوَدَّةِ وَ الِاحْتِمَالُ قَبْرُ
-الْعُيُوبِ‏
-  </p>
-</blockquote>
+> الْبَشَاشَةُ حِبَالَةُ الْمَوَدَّةِ وَ الِاحْتِمَالُ قَبْرُ
+> الْعُيُوبِ‏
 
-<blockquote dir="rtl">
-  <p>
-وَ رُوِيَ أَنَّهُ قَالَ فِي الْعِبَارَةِ عَنْ هَذَا الْمَعْنَى أَيْضاً
-:
-  </p>
-</blockquote>
+> وَ رُوِيَ أَنَّهُ قَالَ فِي الْعِبَارَةِ عَنْ هَذَا الْمَعْنَى أَيْضاً
+> :
 
-<blockquote dir="rtl">
-  <p>
-الْمَسْأَلَةُ خِبَاءُ الْعُيُوبِ وَ مَنْ رَضِيَ عَنْ نَفْسِهِ كَثُرَ
-السَّاخِطُ عَلَيْهِ
-  </p>
-</blockquote>
+> الْمَسْأَلَةُ خِبَاءُ الْعُيُوبِ وَ مَنْ رَضِيَ عَنْ نَفْسِهِ كَثُرَ
+> السَّاخِطُ عَلَيْهِ
 
 Hadith n. 7
 -----------
@@ -141,11 +93,7 @@ effective cure, and the actions of people in their present life will be
 before their eyes in the next life. [^3]
 
 > 7. قَال عليه السلام: الصَّدَقَةُ دَوَاءٌ مُنْجِحٌ، وَأَعْمَالُ
-<blockquote dir="rtl">
-  <p>
-الْعِبَادِ فِي عَاجِلِهِمْ، نُصْبُ أَعْيُنِهِمْ فِي آجِلِهِمْ
-  </p>
-</blockquote>
+> الْعِبَادِ فِي عَاجِلِهِمْ، نُصْبُ أَعْيُنِهِمْ فِي آجِلِهِمْ
 
 Hadith n. 8
 -----------
@@ -155,11 +103,7 @@ that sees with fat, talks with a piece of flesh, hears with a bone and
 breathes through a hole.
 
 > 8. قَال عليه السلام : اعْجَبُوا لِهذَا الاْنْسَانِ يَنْظُرُ بِشَحْمٍ و
-<blockquote dir="rtl">
-  <p>
-يَتَكَلَّم بِلَحْمٍ وَيَسْمَعُ بِعَظْمٍ، وَيَتَنَفَّسُ مِنْ خَرْمٍ
-  </p>
-</blockquote>
+> يَتَكَلَّم بِلَحْمٍ وَيَسْمَعُ بِعَظْمٍ، وَيَتَنَفَّسُ مِنْ خَرْمٍ
 
 Hadith n. 9
 -----------
@@ -170,12 +114,8 @@ good; and when it turns away from him it deprives him of his own good.
 [^4]
 
 > 9. وَ قَالَ عليه‏السلام: إِذَا أَقْبَلَتِ الدُّنْيَا عَلَى أَحَدٍ
-<blockquote dir="rtl">
-  <p>
-أَعَارَتْهُ مَحَاسِنَ غَيْرِهِ وَ إِذَا أَدْبَرَتْ عَنْهُ سَلَبَتْهُ
-مَحَاسِنَ نَفْسِهِ.
-  </p>
-</blockquote>
+> أَعَارَتْهُ مَحَاسِنَ غَيْرِهِ وَ إِذَا أَدْبَرَتْ عَنْهُ سَلَبَتْهُ
+> مَحَاسِنَ نَفْسِهِ.
 
 Hadith n. 10
 ------------
@@ -185,11 +125,7 @@ manner that if you die they should weep for you and if you live they
 should long for you. [^5]
 
 > 10. وَ قَالَ عليه‏السلام: خَالِطُوا النَّاسَ مُخَالَطَةً إِنْ مِتُّمْ
-<blockquote dir="rtl">
-  <p>
-مَعَهَا بَكَوْا عَلَيْكُمْ وَ إِنْ عِشْتُمْ حَنُّوا إِلَيْكُمْ.
-  </p>
-</blockquote>
+> مَعَهَا بَكَوْا عَلَيْكُمْ وَ إِنْ عِشْتُمْ حَنُّوا إِلَيْكُمْ.
 
 Hadith n. 11
 ------------
@@ -199,11 +135,7 @@ over your adversary pardon him by way of thanks for being able to
 overpower him. [^6]
 
 > 11. وَ قَالَ ( عليه‏السلام )إِذَا قَدَرْتَ عَلَى عَدُوِّكَ فَاجْعَلِ
-<blockquote dir="rtl">
-  <p>
-الْعَفْوَ عَنْهُ شُكْراً لِلْقُدْرَةِ عَلَيْهِ
-  </p>
-</blockquote>
+> الْعَفْوَ عَنْهُ شُكْراً لِلْقُدْرَةِ عَلَيْهِ
 
 Hadith n. 12
 ------------
@@ -213,12 +145,8 @@ of all men is he who cannot find a few brothers during his life, but
 still more helpless. is he who finds such a brother but loses him. [^7]
 
 > 12. وَ قَالَ عليه‏السلام: أَعْجَزُ النَّاسِ مَنْ عَجَزَ عَنِ
-<blockquote dir="rtl">
-  <p>
-اكْتِسَابِ الْإِخْوَانِ وَ أَعْجَزُ مِنْهُ مَنْ ضَيَّعَ مَنْ ظَفِرَ
-بِهِ مِنْهُمْ
-  </p>
-</blockquote>
+> اكْتِسَابِ الْإِخْوَانِ وَ أَعْجَزُ مِنْهُ مَنْ ضَيَّعَ مَنْ ظَفِرَ
+> بِهِ مِنْهُمْ
 
 Hadith n. 13
 ------------
@@ -227,11 +155,7 @@ Hadith n. 13
 small favours do not push them away through lack of gratefulness.
 
 > 13. وَ قَالَ عليه‏السلام: إِذَا وَصَلَتْ إِلَيْكُمْ أَطْرَافُ
-<blockquote dir="rtl">
-  <p>
-النِّعَمِ فَلَا تُنَفِّرُوا أَقْصَاهَا بِقِلَّةِ الشُّكْرِ.
-  </p>
-</blockquote>
+> النِّعَمِ فَلَا تُنَفِّرُوا أَقْصَاهَا بِقِلَّةِ الشُّكْرِ.
 
 Hadith n. 14
 ------------
@@ -240,11 +164,7 @@ Hadith n. 14
 by near ones is dear to remote ones.
 
 > 14. وَ قَالَ عليه‏السلام: مَنْ ضَيَّعَهُ الْأَقْرَبُ أُتِيحَ لَهُ
-<blockquote dir="rtl">
-  <p>
-الْأَبْعَدُ.
-  </p>
-</blockquote>
+> الْأَبْعَدُ.
 
 Hadith n. 15
 ------------
@@ -261,11 +181,7 @@ Hadith n. 16
 subject to destiny, so much so that sometimes death results from effort.
 
 > 16. وَ قَالَ عليه‏السلام: تَذِلُّ الْأُمُورُ لِلْمَقَادِيرِ حَتَّى
-<blockquote dir="rtl">
-  <p>
-يَكُونَ الْحَتْفُ فِي التَّدْبِيرِ.
-  </p>
-</blockquote>
+> يَكُونَ الْحَتْفُ فِي التَّدْبِيرِ.
 
 Hadith n. 17
 ------------
@@ -281,19 +197,11 @@ few, but now that its expanse has widened and it is firmly settled
 everyone is free in his action. [^9]
 
 > 17. وَ سُئِلَ عليه ‏السلام عَنْ قَوْلِ الرَّسُولِ ( صلى‏الله‏عليه
-<blockquote dir="rtl">
-  <p>
-‏وآله ‏وسلم): غَيِّرُوا الشَّيْبَ وَ لَا تَشَبَّهُوا بِالْيَهُودِ
-  </p>
-</blockquote>
+> ‏وآله ‏وسلم): غَيِّرُوا الشَّيْبَ وَ لَا تَشَبَّهُوا بِالْيَهُودِ
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ عليه‏السلام: إِنَّمَا قَالَ (صلى‏الله‏عليه‏ وآله ‏وسلم) ذَلِكَ
-وَ الدِّينُ قُلٌّ فَأَمَّا الْآنَ وَ قَدِ اتَّسَعَ نِطَاقُهُ وَ ضَرَبَ
-بِجِرَانِهِ فَامْرُؤٌ وَ مَا اخْتَارَ .
-  </p>
-</blockquote>
+> فَقَالَ عليه‏السلام: إِنَّمَا قَالَ (صلى‏الله‏عليه‏ وآله ‏وسلم) ذَلِكَ
+> وَ الدِّينُ قُلٌّ فَأَمَّا الْآنَ وَ قَدِ اتَّسَعَ نِطَاقُهُ وَ ضَرَبَ
+> بِجِرَانِهِ فَامْرُؤٌ وَ مَا اخْتَارَ .
 
 Hadith n. 18
 ------------
@@ -303,11 +211,7 @@ fighting on his side**: They abandoned right but did not support
 wrong.[^10]
 
 > 18. وقال عليه السلام في الذين اعتزلوا القتال معه: خَذَلُوا الْحَقَّ،
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَنْصُرُوا الْبَاطِلَ.
-  </p>
-</blockquote>
+> وَلَمْ يَنْصُرُوا الْبَاطِلَ.
 
 Hadith n. 19
 ------------
@@ -316,11 +220,7 @@ Hadith n. 19
 loose rein collides with death.
 
 > 19. وقال عليه السلام : مَنْ جَرَى فِي عِنَانِ أَمَلِهِ عَثَرَ
-<blockquote dir="rtl">
-  <p>
-بِأَجَلِهِ .
-  </p>
-</blockquote>
+> بِأَجَلِهِ .
 
 Hadith n. 20
 ------------
@@ -330,12 +230,8 @@ shortcomings of people of virtue and honor because when they fall into
 error Allah raises them up.
 
 > 20. وقال عليه السلام : أَقِيلُوا ذَوِي الْمُرُوءَاتِ عَثَرَاتِهِمْ
-<blockquote dir="rtl">
-  <p>
-فَمَا يَعْثُرُ مِنْهُمْ عَاثِرٌ إِلاَّ وَيَدُهُ بِيَدِ اللهِ
-يَرْفَعُهُ
-  </p>
-</blockquote>
+> فَمَا يَعْثُرُ مِنْهُمْ عَاثِرٌ إِلاَّ وَيَدُهُ بِيَدِ اللهِ
+> يَرْفَعُهُ
 
 Hadith n. 21
 ------------
@@ -346,12 +242,8 @@ passes away like the cloud. Therefore, make use of good opportunities.
 [^11]
 
 > 21. وقال عليه السلام : قُرِنَتِ الْهَيْبَةُ بِالْخَيْبَةِ وَالْحَيَاءُ
-<blockquote dir="rtl">
-  <p>
-بِالْحِرْمَانِ وَالْفُرْصَةُ تَمُرُّ مَرَّ السَّحَابِ، فَانْتَهِزُوا
-فُرَصَ الْخَيْرِ
-  </p>
-</blockquote>
+> بِالْحِرْمَانِ وَالْفُرْصَةُ تَمُرُّ مَرَّ السَّحَابِ، فَانْتَهِزُوا
+> فُرَصَ الْخَيْرِ
 
 Hadith n. 22
 ------------
@@ -362,11 +254,7 @@ of the camel (like lowly people) even though the night journey may be
 long.
 
 > 22. وقال عليه السلام : لَنَا حَقٌّ، فَإِنْ أُعْطِينَاهُ، وَإِلاَّ
-<blockquote dir="rtl">
-  <p>
-رَكِبْنَا أَعْجَازَ الاْبِلِ، وَإِنْ طَالَ السُّرَى.
-  </p>
-</blockquote>
+> رَكِبْنَا أَعْجَازَ الاْبِلِ، وَإِنْ طَالَ السُّرَى.
 
 **As-Sayyid ar-Radi says:** This is a very fine and eloquent expression.
 It means that if we are not allowed our right we will be regarded
@@ -374,13 +262,9 @@ humble. This sense comes out from this expression because on the rear
 part of the camel only slaves, prisoners or other people of this type
 used to ride. [^12]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و هذا من لطيف الكلام و فصيحه و معناه أنا إن لم نعط حقنا كنا
-أذلاء و ذلك أن الرديف يركب عجز البعير كالعبد و الأسير و من يجري
-مجراهما.
-  </p>
-</blockquote>
+> قال الرضي: و هذا من لطيف الكلام و فصيحه و معناه أنا إن لم نعط حقنا كنا
+> أذلاء و ذلك أن الرديف يركب عجز البعير كالعبد و الأسير و من يجري
+> مجراهما.
 
 Hadith n. 23
 ------------
@@ -390,11 +274,7 @@ Hadith n. 23
 lineage.
 
 > 23. وقال عليه السلام : مَنْ أَبْطَأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ
-<blockquote dir="rtl">
-  <p>
-حَسَبُهُ.
-  </p>
-</blockquote>
+> حَسَبُهُ.
 
 Hadith n. 24
 ------------
@@ -404,11 +284,7 @@ the grief-stricken and providing comfort in hardship are among the means
 of atonement for great sins.
 
 > 24. وقال عليه السلام : مِنْ كَفَّارَاتِ الذُّنُوبِ الْعِظَامِ
-<blockquote dir="rtl">
-  <p>
-إِغَاثَةُ الْمَلْهُوفِ، وَالتَّنْفِيسُ عَنِ الْمكْرُوبِ.
-  </p>
-</blockquote>
+> إِغَاثَةُ الْمَلْهُوفِ، وَالتَّنْفِيسُ عَنِ الْمكْرُوبِ.
 
 Hadith n. 25
 ------------
@@ -418,12 +294,8 @@ you see that your Lord, the Glorified, bestows His favours on you while
 you are disobeying Him, you should fear Him. [^13]
 
 > 25. وقال عليه السلام : يَابْنَ آدَمَ، إِذَا رَأَيْتَ رَبَّكَ
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَهُ يُتَابِعُ عَلَيْكَ نِعَمَهُ وَأَنْتَ تَعْصِيهِ
-فَاحْذَرْهُ.
-  </p>
-</blockquote>
+> سُبْحَانَهُ يُتَابِعُ عَلَيْكَ نِعَمَهُ وَأَنْتَ تَعْصِيهِ
+> فَاحْذَرْهُ.
 
 Hadith n. 26
 ------------
@@ -433,11 +305,7 @@ conceals a thing in his heart it manifests itself through unintentional
 words from his tongue and (in) the expressions of his face. [^14]
 
 > 26. وَ قَالَ عليه‏السلام: مَا أَضْمَرَ أَحَدٌ شَيْئاً إِلَّا ظَهَرَ
-<blockquote dir="rtl">
-  <p>
-فِي فَلَتَاتِ لِسَانِهِ وَ صَفَحَاتِ وَجْهِهِ
-  </p>
-</blockquote>
+> فِي فَلَتَاتِ لِسَانِهِ وَ صَفَحَاتِ وَجْهِهِ
 
 Hadith n. 27
 ------------
@@ -463,11 +331,7 @@ away from the world and death is approaching, there is no question of
 delay in the encounter.
 
 > 29. وقال عليه السلام : إِذَا كُنْتَ فِي إِدْبَارٍ وَالْمَوْتُ فِي
-<blockquote dir="rtl">
-  <p>
-إِقْبَالٍ فَمَا أسْرَعَ الْمُلْتَقَى.
-  </p>
-</blockquote>
+> إِقْبَالٍ فَمَا أسْرَعَ الْمُلْتَقَى.
 
 Hadith n. 30
 ------------
@@ -476,11 +340,7 @@ Hadith n. 30
 He has hidden your sins so much so as though He has forgiven.
 
 > 30. وقال عليه السلام: الْحَذَرَ الْحَذَرَ! فَوَاللهِ لَقَدْ سَتَرَ،
-<blockquote dir="rtl">
-  <p>
-حتَّى كَأَنَّهُ قَدْ غَفَرَ.
-  </p>
-</blockquote>
+> حتَّى كَأَنَّهُ قَدْ غَفَرَ.
 
 Hadith n. 31: Faith, Unbelief, Doubt And Their Supports
 -------------------------------------------------------
@@ -492,12 +352,8 @@ Hadith n. 31: Faith, Unbelief, Doubt And Their Supports
 Faith stands on four supports: on endurance, conviction, justice and
 jihad (fighting in the way of Allah).
 
-<blockquote dir="rtl">
-  <p>
-الاْيمَانُ عَلَى أَرْبَعِ دَعَائِمَ: عَلَى الصَّبْرِ، والْيَقِينِ،
-وَالْعَدْلِ، وَالْجَهَادِ.
-  </p>
-</blockquote>
+> الاْيمَانُ عَلَى أَرْبَعِ دَعَائِمَ: عَلَى الصَّبْرِ، والْيَقِينِ،
+> وَالْعَدْلِ، وَالْجَهَادِ.
 
 Endurance again has four aspects: eagerness, fear, abstention (from the
 world) and anticipation (of death). So, whoever is eager for Paradise
@@ -505,15 +361,11 @@ will ignore the passions; whoever fears the Fire (of Hell) will refrain
 from prohibited acts; whoever abstains from the world takes hardships
 lightly; and whoever anticipates death will hasten towards good deeds.
 
-<blockquote dir="rtl">
-  <p>
-فَالصَّبْرُ مِنْهَا عَلَى أَربَعِ شُعَبٍ: عَلَى الشَّوْقِ، وَالشَّفَقِ
-وَالزُّهْدِ، وَالتَّرَقُّبِ: فَمَنِ اشْتَاقَ إِلَى الْجَنَّةِ سَلاَ
-عَنِ الشَّهَوَاتِ، وَمَنْ أشْفَقَ مِنَ النَّارِ اجْتَنَبَ
-الْـمُحَرَّمَاتِ، وَمَنْ زَهِدَ فِي الدُّنْيَا اسْتَهَانَ
-بِالْمُصِيبَاتِ، وَمَنِ ارْتَقَبَ الْمَوْتَ سَارَعَ فِي الْخَيْرَاتِ.
-  </p>
-</blockquote>
+> فَالصَّبْرُ مِنْهَا عَلَى أَربَعِ شُعَبٍ: عَلَى الشَّوْقِ، وَالشَّفَقِ
+> وَالزُّهْدِ، وَالتَّرَقُّبِ: فَمَنِ اشْتَاقَ إِلَى الْجَنَّةِ سَلاَ
+> عَنِ الشَّهَوَاتِ، وَمَنْ أشْفَقَ مِنَ النَّارِ اجْتَنَبَ
+> الْـمُحَرَّمَاتِ، وَمَنْ زَهِدَ فِي الدُّنْيَا اسْتَهَانَ
+> بِالْمُصِيبَاتِ، وَمَنِ ارْتَقَبَ الْمَوْتَ سَارَعَ فِي الْخَيْرَاتِ.
 
 Conviction also has four aspects: prudent perception, intelligence and
 understanding, drawing lessons from instructive things and following the
@@ -522,16 +374,12 @@ knowledge will be manifest to him, and to whomsoever wise knowledge
 becomes manifest he appreciates instructive objects, and whoever
 appreciates instructive objects he is just like past people.
 
-<blockquote dir="rtl">
-  <p>
-وَالْيَقِينُ مِنْهَا عَلَى أَرْبَعِ شُعَبٍ: عَلَى تَبْصِرَةِ
-الْفِطْنَةِ، وَتَأَوُّلِ الْحِكْمَةِ وَمَوْعِظَةِ الْعِبْرَةِ
-وَسُنَّةِ الاْوَّلِينَ فَمَنْ تَبَصَّرَ فِي الْفِطْنَةِ تَبَيَّنَتْ
-لَهُ الْحِكْمَةُ، وَمَنْ تَبَيَّنَتْ لَهُ الْحِكْمَةُ عَرَفَ
-الْعِبْرَةَ، وَمَنْ عَرَفَ الْعِبْرَةَ فَكَأَنَّمَا كَانَ فِي
-الاْوَّلِينَ.
-  </p>
-</blockquote>
+> وَالْيَقِينُ مِنْهَا عَلَى أَرْبَعِ شُعَبٍ: عَلَى تَبْصِرَةِ
+> الْفِطْنَةِ، وَتَأَوُّلِ الْحِكْمَةِ وَمَوْعِظَةِ الْعِبْرَةِ
+> وَسُنَّةِ الاْوَّلِينَ فَمَنْ تَبَصَّرَ فِي الْفِطْنَةِ تَبَيَّنَتْ
+> لَهُ الْحِكْمَةُ، وَمَنْ تَبَيَّنَتْ لَهُ الْحِكْمَةُ عَرَفَ
+> الْعِبْرَةَ، وَمَنْ عَرَفَ الْعِبْرَةَ فَكَأَنَّمَا كَانَ فِي
+> الاْوَّلِينَ.
 
 Justice also has four aspects: keen understanding, deep knowledge, a
 good power of decision and firm forbearance. Therefore, whoever
@@ -540,15 +388,11 @@ of knowledge drinks from the spring of judgement; and whoever exercises
 forbearance never commits evil actions in his affairs and leads a
 praiseworthy life among the people.
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَدْلُ مِنْهَا عَلَى أَرْبَعِ شُعَبٍ: عَلَى غائِصِ الْفَهْمِ،
-وَغَوْرِ الْعِلْمِ وَزُهْرَةِ الْحُكْمِ،ِ، وَرَسَاخَةِ الْحِلْمِ:
-فَمَنْ فَهِمَ عَلِمَ غَوْرَ الْعِلْمِ، و من عَلِمَ غَوْرَ الْعِلْمِ
-صَدَرَ عَنْ شَرَائِعِ الْحُكْمِ وَمَنْ حَلُمَ لَمْ يُفَرِّطْ فِي
-أَمْرِهِ وَعَاشَ فِي النَّاسِ حَمِيداً.
-  </p>
-</blockquote>
+> وَالْعَدْلُ مِنْهَا عَلَى أَرْبَعِ شُعَبٍ: عَلَى غائِصِ الْفَهْمِ،
+> وَغَوْرِ الْعِلْمِ وَزُهْرَةِ الْحُكْمِ،ِ، وَرَسَاخَةِ الْحِلْمِ:
+> فَمَنْ فَهِمَ عَلِمَ غَوْرَ الْعِلْمِ، و من عَلِمَ غَوْرَ الْعِلْمِ
+> صَدَرَ عَنْ شَرَائِعِ الْحُكْمِ وَمَنْ حَلُمَ لَمْ يُفَرِّطْ فِي
+> أَمْرِهِ وَعَاشَ فِي النَّاسِ حَمِيداً.
 
 Jihad also has four aspects: to ask others to do good, to keep away
 others from doing evil, to fight (in the way of Allah) sincerely and
@@ -560,17 +404,13 @@ vicious and becomes angry for the sake of Allah, then Allah will be
 angry in favour of him and will keep him and will keep him pleased on
 the Day of Judgement.
 
-<blockquote dir="rtl">
-  <p>
-وَالْجِهَادُ مِنْهَا عَلَى أَرْبَعِ شُعَبٍ: عَلَى الاْمْرِ
-بالْمَعْرُوفِ، وَالنَّهْي عَنِ الْمُنكَرِ، وَالصِّدْقِ فِي
-الْمَوَاطِنِ وَشَنَآنِ الْفَاسِقيِنَ: فَمَنْ أَمَرَ بِالْمَعْرُوفِ
-شَدَّ ظُهُورَ الْمُؤمِنِينَ، وَمَنْ نَهَى عَنِ الْمُنْكَرِ أَرْغَمَ
-أُنُوفَ الْكَافِرِينَ ،مَنْ صَدَقَ فِي الْمَوَاطِنِ قَضَى مَا
-عَلَيْهِ، وَمَنْ شَنِىءَ الْفَاسِقِينَ وَغَضِبَ لله غَضِبَ اللهُ لَهُ
-وَأَرْضَاهُ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> وَالْجِهَادُ مِنْهَا عَلَى أَرْبَعِ شُعَبٍ: عَلَى الاْمْرِ
+> بالْمَعْرُوفِ، وَالنَّهْي عَنِ الْمُنكَرِ، وَالصِّدْقِ فِي
+> الْمَوَاطِنِ وَشَنَآنِ الْفَاسِقيِنَ: فَمَنْ أَمَرَ بِالْمَعْرُوفِ
+> شَدَّ ظُهُورَ الْمُؤمِنِينَ، وَمَنْ نَهَى عَنِ الْمُنْكَرِ أَرْغَمَ
+> أُنُوفَ الْكَافِرِينَ ،مَنْ صَدَقَ فِي الْمَوَاطِنِ قَضَى مَا
+> عَلَيْهِ، وَمَنْ شَنِىءَ الْفَاسِقِينَ وَغَضِبَ لله غَضِبَ اللهُ لَهُ
+> وَأَرْضَاهُ يَوْمَ الْقِيَامَةِ.
 
 Unbelief stands on four supports: hankering after whims, mutual
 quarrelling, deviation from the truth, and dissension. So, whoever
@@ -581,17 +421,13 @@ good and he remains intoxicated with misguidance; and whoever makes a
 breach (with Allah and His Messenger), his path becomes difficult, his
 affairs become complicated and his way of escape becomes narrow.
 
-<blockquote dir="rtl">
-  <p>
-وَالْكُفْرُ عَلَى أَرْبَعِ دَعَائِمَ: عَلَى التَّعَمُّقِ
-وَالتَّنَازُعِ، وَالزَّيْغِ وَالشِّقَاقِ فَمَنْ تَعَمَّقَ لَمْ
-يُنِبْإِلَى الْحَقِّ، وَمَنْ كَثُرَ نِزَاعُهُ بِالْجَهْلِ دَامَ
-عَمَاهُ عَنِ الْحَقِّ، وَمَنْ زَاغَ سَاءَتْ عِنْدَهُ الْحَسَنَةُ
-وَحَسُنَتْ عِنْدَهُ السَّيِّئَةُ وَسَكِرَ سُكْرَ الضَّلاَلَةِ، وَمَنْ
-شَاقَّ وَعُرَتْ عَلَيْهِ طُرُقُهُ وَأَعْضَلَ عَلَيْهِ أَمْرُهُ وَضَاقَ
-عَلَيْهِ مَخْرَجُهُ.
-  </p>
-</blockquote>
+> وَالْكُفْرُ عَلَى أَرْبَعِ دَعَائِمَ: عَلَى التَّعَمُّقِ
+> وَالتَّنَازُعِ، وَالزَّيْغِ وَالشِّقَاقِ فَمَنْ تَعَمَّقَ لَمْ
+> يُنِبْإِلَى الْحَقِّ، وَمَنْ كَثُرَ نِزَاعُهُ بِالْجَهْلِ دَامَ
+> عَمَاهُ عَنِ الْحَقِّ، وَمَنْ زَاغَ سَاءَتْ عِنْدَهُ الْحَسَنَةُ
+> وَحَسُنَتْ عِنْدَهُ السَّيِّئَةُ وَسَكِرَ سُكْرَ الضَّلاَلَةِ، وَمَنْ
+> شَاقَّ وَعُرَتْ عَلَيْهِ طُرُقُهُ وَأَعْضَلَ عَلَيْهِ أَمْرُهُ وَضَاقَ
+> عَلَيْهِ مَخْرَجُهُ.
 
 Doubt has also four aspects: unreasonableness, fear, wavering and undue
 submission to every thing. So, he who adopts unreasonableness as his
@@ -600,28 +436,20 @@ befalls him has to run on his heels; he who wavers in doubt Satans
 trample him under their feet and he who submits to the destruction of
 this and tile next world succumbs to it.
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّكُّ عَلَى أَرْبَعِ شُعَب: عَلَى الَّتمارِي وَالهَوْلِ
-وَالتَّرَدُّدِ والاْسْتِسْلاَمِ فَمَنْ جَعَلَ الْمِرَاءَدَيْدَناًلَمْ
-يُصْبِحْ لَيْلُهُ وَمَنْ هَالَهُ مَا بَيْنَ يَدَيْهِ نَكَصَ عَلَى
-عَقِبَيْهِ وَمَن تَرَدَّدَ فِي الرَّيْبِوَطِئَتْهُ يَدَيْهِ نَكَصَ
-عَلَى عَقِبَيْهِ وَمَن تَرَدَّدَ فِي الرَّيْبِوَطِئَتْهُ سَنَابِكُ
-الشَّيَاطِينِ وَمَنِ اسْتَسْلَمَ لِهَلَكَةِ الدُّنْيَا وَالاَْخِرَةِ
-هَلَكَ فِيهِمَا.
-  </p>
-</blockquote>
+> وَالشَّكُّ عَلَى أَرْبَعِ شُعَب: عَلَى الَّتمارِي وَالهَوْلِ
+> وَالتَّرَدُّدِ والاْسْتِسْلاَمِ فَمَنْ جَعَلَ الْمِرَاءَدَيْدَناًلَمْ
+> يُصْبِحْ لَيْلُهُ وَمَنْ هَالَهُ مَا بَيْنَ يَدَيْهِ نَكَصَ عَلَى
+> عَقِبَيْهِ وَمَن تَرَدَّدَ فِي الرَّيْبِوَطِئَتْهُ يَدَيْهِ نَكَصَ
+> عَلَى عَقِبَيْهِ وَمَن تَرَدَّدَ فِي الرَّيْبِوَطِئَتْهُ سَنَابِكُ
+> الشَّيَاطِينِ وَمَنِ اسْتَسْلَمَ لِهَلَكَةِ الدُّنْيَا وَالاَْخِرَةِ
+> هَلَكَ فِيهِمَا.
 
 **As-Sayyid ar-Radi says:** We have left out the remaining portion of
 this saying for fear of length and for being outside the purpose of this
 chapter.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و بعد هذا كلام تركنا ذكره خوف الإطالة و الخروج عن الغرض
-المقصود في هذا الكتاب.
-  </p>
-</blockquote>
+> قال الرضي: و بعد هذا كلام تركنا ذكره خوف الإطالة و الخروج عن الغرض
+> المقصود في هذا الكتاب.
 
 Hadith n. 32
 ------------
@@ -631,11 +459,7 @@ better than the good itself, and the doer of evil is worse than the evil
 itself.
 
 > 32. وقال عليه السلام : فَاعِلُ الْخَيْرِ خَيْرٌ مِنْهُ، وَفَاعِلُ
-<blockquote dir="rtl">
-  <p>
-الشَّرِّ شَرٌّ مِنْهُ .
-  </p>
-</blockquote>
+> الشَّرِّ شَرٌّ مِنْهُ .
 
 Hadith n. 33
 ------------
@@ -644,11 +468,7 @@ Hadith n. 33
 extravagant; be thrifty but not miserly.
 
 > 33. وقال عليه السلام : كُنْ سَمَحاً وَلاَ تَكُنْ مُبَذِّراً، وَكُنْ
-<blockquote dir="rtl">
-  <p>
-مُقَدِّراًوَلاَ تَكُنْ مُقَتِّراً.
-  </p>
-</blockquote>
+> مُقَدِّراًوَلاَ تَكُنْ مُقَتِّراً.
 
 Hadith n. 34
 ------------
@@ -666,11 +486,7 @@ in saying about people what they dislike, they speak about him that
 about which they have no knowledge.
 
 > 35. وقال عليه السلام : مَنْ أَسْرَعَ إِلَى النَّاسِ بِمَا يَكْرَهُونَ،
-<blockquote dir="rtl">
-  <p>
-قَالُوا فِيهِ [بـ] ما لاَ يَعْلَمُونَ.
-  </p>
-</blockquote>
+> قَالُوا فِيهِ [بـ] ما لاَ يَعْلَمُونَ.
 
 Hadith n. 36
 ------------
@@ -690,12 +506,8 @@ doing so and they replied that this was the way they respected their
 chiefs. Then he said:
 
 > 37. وقال عليه السلام وقد لقيه عند مسيره إلى الشام دهاقين الاَنبار
-<blockquote dir="rtl">
-  <p>
-فترجّلوا له واشتدّوابين يديه، فقال: مَا هذَا الَّذِي صَنَعْتُمُوهُ؟
-فقالوا: خُلُقٌ مِنَّا نُعَظِّمُ بِهِ أُمَرَاءَنَا. فقال عليه السلام :
-  </p>
-</blockquote>
+> فترجّلوا له واشتدّوابين يديه، فقال: مَا هذَا الَّذِي صَنَعْتُمُوهُ؟
+> فقالوا: خُلُقٌ مِنَّا نُعَظِّمُ بِهِ أُمَرَاءَنَا. فقال عليه السلام :
 
 By Allah, this does not benefit your chiefs. You are belabouring
 yourself in this world and earning misery for the next world by it. How
@@ -703,14 +515,10 @@ harmful is the labour in whose wake there is punishment and how
 profitable is the case with which there is deliverance from the Fire (of
 Hell).
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ مَا يَنْتَفِعُ بِهذَا أُمَرَاؤُكُمْ! وَإِنَّكُمْ لَتَشُقُّونَ
-عَلَى أَنْفُسِكْمْ فِي دُنْيَاكُمْ، وَتَشْقَوْنَ بِهِ فِي آخِرَتِكُمْ،
-وَمَا أخْسرَ الْمَشَقَّةَ وَرَاءَهَا الْعِقَابُ، وَأَرْبَحَ الدَّعَةَ
-مَعَهَا الاْمَانُ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> وَاللهِ مَا يَنْتَفِعُ بِهذَا أُمَرَاؤُكُمْ! وَإِنَّكُمْ لَتَشُقُّونَ
+> عَلَى أَنْفُسِكْمْ فِي دُنْيَاكُمْ، وَتَشْقَوْنَ بِهِ فِي آخِرَتِكُمْ،
+> وَمَا أخْسرَ الْمَشَقَّةَ وَرَاءَهَا الْعِقَابُ، وَأَرْبَحَ الدَّعَةَ
+> مَعَهَا الاْمَانُ مِنَ النَّارِ.
 
 Hadith n. 38
 ------------
@@ -725,14 +533,10 @@ intelligence; the biggest destitution is foolishness; the wildest
 wildness is vanity and the best achievement is goodness of the moral
 character.
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ، احْفَظْ عَنِّي أَرْبَعاً وَأَرْبَعاً، لاَ \_يَضُرَّكَ مَا
-عَمِلْتَ مَعَهُنَّ: إِنَّ أَغْنَى الْغِنَىُ الْعَقْلُ، وَأَكْبَرَ
-الْفَقْرِ الْحُمْقُ، وَأَوحَشَ الْوَحْشَةِ الْعُجْبُ وَأَكْرَمَ
-الْحَسَبَ حُسْنُ الْخُلُقِ.
-  </p>
-</blockquote>
+> يَا بُنَيَّ، احْفَظْ عَنِّي أَرْبَعاً وَأَرْبَعاً، لاَ \_يَضُرَّكَ مَا
+> عَمِلْتَ مَعَهُنَّ: إِنَّ أَغْنَى الْغِنَىُ الْعَقْلُ، وَأَكْبَرَ
+> الْفَقْرِ الْحُمْقُ، وَأَوحَشَ الْوَحْشَةِ الْعُجْبُ وَأَكْرَمَ
+> الْحَسَبَ حُسْنُ الْخُلُقِ.
 
 O my son, you should avoid making friends with a fool because he may
 intend to benefit you but may harm you; you should avoid making friends
@@ -742,16 +546,12 @@ sell you for nought; and you should avoid making friends with a liar
 because he is like a mirage, making you feel far things near and near
 things far.
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ، إِيَّاكَ وَمُصَادَقَةَ الاْحْمَقِ، فَإِنَّهُ يُريِدُ أَنْ
-يَنْفَعَكَ فَيَضُرَّكَ. وَإِيَّاكَ وَمُصَادَقَةَ الْبَخِيلِ، فَإِنَّهُ
-يَقْعُدُ عَنْكَ أَحْوَجَ مَا تَكُونُ إِلَيْهِ. وَإِيَّاكَ
-وَمُصَادَقَةَ الْفَاجِرِ، فَإِنَّهُ يَبِيعُكَ بِالتَّافِهِ وَإِيَّاكَ
-وَمُصَادَقَةَ الْكَذَّابِ، فَإِنَّهُ كَالسَّرَابِ يُقَرِّبُ عَلَيْكَ
-الْبَعِيدَ، وَيُبَعِّدُ عَلَيْكَ الْقَرِيبَ.
-  </p>
-</blockquote>
+> يَا بُنَيَّ، إِيَّاكَ وَمُصَادَقَةَ الاْحْمَقِ، فَإِنَّهُ يُريِدُ أَنْ
+> يَنْفَعَكَ فَيَضُرَّكَ. وَإِيَّاكَ وَمُصَادَقَةَ الْبَخِيلِ، فَإِنَّهُ
+> يَقْعُدُ عَنْكَ أَحْوَجَ مَا تَكُونُ إِلَيْهِ. وَإِيَّاكَ
+> وَمُصَادَقَةَ الْفَاجِرِ، فَإِنَّهُ يَبِيعُكَ بِالتَّافِهِ وَإِيَّاكَ
+> وَمُصَادَقَةَ الْكَذَّابِ، فَإِنَّهُ كَالسَّرَابِ يُقَرِّبُ عَلَيْكَ
+> الْبَعِيدَ، وَيُبَعِّدُ عَلَيْكَ الْقَرِيبَ.
 
 Hadith n. 39
 ------------
@@ -761,11 +561,7 @@ worship cannot bring about nearness to Allah if it hampers the
 obligatory.
 
 > 39. وقال عليه السلام : لاَ قُرْبَةَ بِالنَّوَافِلِ إِذَا أَضَرَّتْ
-<blockquote dir="rtl">
-  <p>
-بِالْفَرَائِضِ
-  </p>
-</blockquote>
+> بِالْفَرَائِضِ
 
 Hadith n. 40
 ------------
@@ -775,11 +571,7 @@ wise man is behind his heart, and the heart of the fool is behind his
 tongue.
 
 > 40. وقال عليه السلام : لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَقَلْبُ
-<blockquote dir="rtl">
-  <p>
-الاْحْمَقِ وَرَاءَ لِسَانِهِ.
-  </p>
-</blockquote>
+> الاْحْمَقِ وَرَاءَ لِسَانِهِ.
 
 **As-Sayyid ar-Radi says:** This sentence has a strange and beautiful
 meaning. It means that the wise man does not speak with his tongue
@@ -788,14 +580,10 @@ fool quickly utters whatever comes to his tongue without thinking. In
 this way, the tongue of the wise man follows his heart while the heart
 of the fool follows his tongue.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و هذا من المعاني العجيبة الشريفة، والمراد به أنّ العاقل لا
-يطلق لسانه إلاّ بعد مشاورة الرَّوِيّةِ ومؤامرة الفكرة، والاحمق تسبق
-خذفاتُ لسانه وفلتاتُ كلامه مراجعةَ فكره ومماخضة رأيه، فكأن لسان العاقل
-تابع لقلبه، وكأن قلب الاحمق تابع للسانه.
-  </p>
-</blockquote>
+> قال الرضي: و هذا من المعاني العجيبة الشريفة، والمراد به أنّ العاقل لا
+> يطلق لسانه إلاّ بعد مشاورة الرَّوِيّةِ ومؤامرة الفكرة، والاحمق تسبق
+> خذفاتُ لسانه وفلتاتُ كلامه مراجعةَ فكره ومماخضة رأيه، فكأن لسان العاقل
+> تابع لقلبه، وكأن قلب الاحمق تابع للسانه.
 
 Hadith n. 41
 ------------
@@ -809,17 +597,9 @@ in his heart.
 The meaning of both the sayings (40 and 41) is the same.
 
 > 41. وقد روي عنه عليه السلام هذا المعنى بلفظ آخر، وهو قوله: قَلبُ
-<blockquote dir="rtl">
-  <p>
-الاْحْمَقِ فِي فِيهِ، وَلِسَانُ الْعَاقِلِ فِي قَلْبِهِ.
-  </p>
-</blockquote>
+> الاْحْمَقِ فِي فِيهِ، وَلِسَانُ الْعَاقِلِ فِي قَلْبِهِ.
 
-<blockquote dir="rtl">
-  <p>
-ومعناهما واحد.
-  </p>
-</blockquote>
+> ومعناهما واحد.
 
 Hadith n. 42
 ------------
@@ -835,16 +615,12 @@ admits into Paradise by virtue of truthfulness of intention and chastity
 of heart to whomsoever He wishes from among His creatures.
 
 > 42. وقال عليه السلام لبعض أَصحابه في علّة اعتلّها: جَعَلَ اللهُ مَا
-<blockquote dir="rtl">
-  <p>
-كَانَ مِنْ شَكْوَاكَ حطّاً لِسَيِّئَاتِكَ، فَإِنَّ الْمَرَضَ لاَ
-أَجْرَ فِيهِ، وَلكِنَّهُ يَحُطُّ السَّيِّئَاتِ، وَيَحُتُّهَا حَتَّ
-الاْوْرَاقِ، وَإِنَّمَا الاْجْرُ فِي الْقَوْلِ بِالّلسَانِ،
-وَالْعَمَلِ بِالاْيْدِي وَالاْقْدَامِ، وَإِنَّ اللهَ سُبْحَانَهُ
-يُدْخِلُ بِصِدْقِ النِّيَّةِ وَالسَّرِيرَةِ الصَّالِحَةِ مَنْ يَشَاءُ
-مِنْ عَبَادِهِ الْجَنَّةَ
-  </p>
-</blockquote>
+> كَانَ مِنْ شَكْوَاكَ حطّاً لِسَيِّئَاتِكَ، فَإِنَّ الْمَرَضَ لاَ
+> أَجْرَ فِيهِ، وَلكِنَّهُ يَحُطُّ السَّيِّئَاتِ، وَيَحُتُّهَا حَتَّ
+> الاْوْرَاقِ، وَإِنَّمَا الاْجْرُ فِي الْقَوْلِ بِالّلسَانِ،
+> وَالْعَمَلِ بِالاْيْدِي وَالاْقْدَامِ، وَإِنَّ اللهَ سُبْحَانَهُ
+> يُدْخِلُ بِصِدْقِ النِّيَّةِ وَالسَّرِيرَةِ الصَّالِحَةِ مَنْ يَشَاءُ
+> مِنْ عَبَادِهِ الْجَنَّةَ
 
 **As-Sayyid ar-Radi says:** Amir al-mu'minin is right in saying that
 there is no reward for sickness as such because compensation is
@@ -854,15 +630,11 @@ recompense becomes admissible against actions by the creature. This is
 the difference between the two and Amir al-mu'minin has clarified it
 through his lustrous knowledge and sound view.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و أقول: صدق(عليه السلام)، «إنّ المرض لا أجر فيه»، لانه ليس
-من قبيل ما يُستحَقّ عليه العوض، لان العوض يستحق على ما كان في مقابلة
-فعل الله تعالى بالعبد، من الالام والامراض، وما يجري مجرى ذلك،الاجر
-والثواب يستحقان على ما كان في مقابلة فعل العبد، فبينهما فرق قد
-بينه(عليه السلام)، كما يقتضيه علمه الثاقب رأيه الصائب.
-  </p>
-</blockquote>
+> قال الرضي: و أقول: صدق(عليه السلام)، «إنّ المرض لا أجر فيه»، لانه ليس
+> من قبيل ما يُستحَقّ عليه العوض، لان العوض يستحق على ما كان في مقابلة
+> فعل الله تعالى بالعبد، من الالام والامراض، وما يجري مجرى ذلك،الاجر
+> والثواب يستحقان على ما كان في مقابلة فعل العبد، فبينهما فرق قد
+> بينه(عليه السلام)، كما يقتضيه علمه الثاقب رأيه الصائب.
 
 Hadith n. 43
 ------------
@@ -876,13 +648,9 @@ what sufficed him, was pleased with Allah and lived the life of a
 mujahid (holy soldier).
 
 > 43. وَ قَالَ عليه‏السلام فِي ذِكْرِ خَبَّابِ بْنِ الْأَرَتِّ: يَرْحَمُ
-<blockquote dir="rtl">
-  <p>
-اللَّهُ خَبَّابَ بْنَ الْأَرَتِّ فَلَقَدْ أَسْلَمَ رَاغِباً وَ هَاجَرَ
-طَائِعاً وَ قَنِعَ بِالْكَفَافِ وَ رَضِيَ عَنِ اللَّهِ وَ عَاشَ
-مُجَاهِداً .
-  </p>
-</blockquote>
+> اللَّهُ خَبَّابَ بْنَ الْأَرَتِّ فَلَقَدْ أَسْلَمَ رَاغِباً وَ هَاجَرَ
+> طَائِعاً وَ قَنِعَ بِالْكَفَافِ وَ رَضِيَ عَنِ اللَّهِ وَ عَاشَ
+> مُجَاهِداً .
 
 Hadith n. 44
 ------------
@@ -893,11 +661,7 @@ account, remained content with what sufficed him and remained pleased
 with Allah.
 
 > 44. وقال عليه السلام : طُوبَى لِمَنْ ذَكَرَ الْمَعَادَ، وَعَمِلَ
-<blockquote dir="rtl">
-  <p>
-لِلْحِسَابِ، وَقَنِعَ بِالْكَفَافِ، وَرَضِيَ عَنِ اللهِ .
-  </p>
-</blockquote>
+> لِلْحِسَابِ، وَقَنِعَ بِالْكَفَافِ، وَرَضِيَ عَنِ اللهِ .
 
 Hadith n. 45
 ------------
@@ -913,15 +677,11 @@ O \`Ali, a believer will never hate you arid a hypocrite (Muslim) will
 never love you. [^17]
 
 > 45. وَ قَالَ عليه‏السلام: لَوْ ضَرَبْتُ خَيْشُومَ الْمُؤْمِنِ
-<blockquote dir="rtl">
-  <p>
-بِسَيْفِي هَذَا عَلَى أَنْ يُبْغِضَنِي مَا أَبْغَضَنِي وَ لَوْ
-صَبَبْتُ الدُّنْيَا بِجَمَّاتِهَا عَلَى الْمُنَافِقِ عَلَى أَنْ
-يُحِبَّنِي مَا أَحَبَّنِي . وَ ذَلِكَ أَنَّهُ قُضِيَ فَانْقَضَى عَلَى
-لِسَانِ النَّبِيِّ الْأُمِّيِّ ( صلى‏الله‏عليه‏وآله ‏وسلم) أَنَّهُ
-قَالَ: يَا عَلِيُّ لَا يُبْغِضُكَ مُؤْمِنٌ وَ لَا يُحِبُّكَ مُنَافِقٌ
-  </p>
-</blockquote>
+> بِسَيْفِي هَذَا عَلَى أَنْ يُبْغِضَنِي مَا أَبْغَضَنِي وَ لَوْ
+> صَبَبْتُ الدُّنْيَا بِجَمَّاتِهَا عَلَى الْمُنَافِقِ عَلَى أَنْ
+> يُحِبَّنِي مَا أَحَبَّنِي . وَ ذَلِكَ أَنَّهُ قُضِيَ فَانْقَضَى عَلَى
+> لِسَانِ النَّبِيِّ الْأُمِّيِّ ( صلى‏الله‏عليه‏وآله ‏وسلم) أَنَّهُ
+> قَالَ: يَا عَلِيُّ لَا يُبْغِضُكَ مُؤْمِنٌ وَ لَا يُحِبُّكَ مُنَافِقٌ
 
 Hadith n. 46
 ------------
@@ -931,11 +691,7 @@ displeases you is better in the view of Allah than the virtue which
 makes you proud. [^18]
 
 > 46. وقال عليه السلام : سَيِّئَةٌ تَسُوءُكَ خَيْرٌ عِنْدَاللهِ مِنْ
-<blockquote dir="rtl">
-  <p>
-حَسَنَةٍ تُعْجِبُكَ
-  </p>
-</blockquote>
+> حَسَنَةٍ تُعْجِبُكَ
 
 Hadith n. 47
 ------------
@@ -946,12 +702,8 @@ of temper, his valour is according to his self-respect and his
 chasteness is according to his sense of shame.
 
 > 47. وقال عليه السلام : قَدْرُ الرَّجُلِ عَلَى قَدْرِ هِمَّتِهِ،
-<blockquote dir="rtl">
-  <p>
-وَصِدْقُهُ عَلَى قَدْرِ مُرُوءَتِهِ، وَشَجَاعَتُهُ عَلَى قَدْرِ
-أَنَفَتِهِ،عِفَّتُهُ عَلَى قَدْرِ غَيْرَتِهِ
-  </p>
-</blockquote>
+> وَصِدْقُهُ عَلَى قَدْرِ مُرُوءَتِهِ، وَشَجَاعَتُهُ عَلَى قَدْرِ
+> أَنَفَتِهِ،عِفَّتُهُ عَلَى قَدْرِ غَيْرَتِهِ
 
 Hadith n. 48
 ------------
@@ -961,11 +713,7 @@ determination; determination is by the turning over of thoughts; and
 thoughts are formed by guarding secrets.
 
 > 48. وقال عليه السلام : الظَّفَرُ بالْحَزْمِ، وَالْحَزْمُ بِإِجَالَةِ
-<blockquote dir="rtl">
-  <p>
-الرَّأْيِ، وَالرَّأْيُ بِتَحْصِينِ الاْسْرَارِ.
-  </p>
-</blockquote>
+> الرَّأْيِ، وَالرَّأْيُ بِتَحْصِينِ الاْسْرَارِ.
 
 Hadith n. 49
 ------------
@@ -975,11 +723,7 @@ noble person when he is hungry, and that of an ignoble person when he is
 satiated. [^19]
 
 > 49. وقال عليه السلام : احْذَرُوا صَوْلَةَ الْكَرِيمِ إذَا جَاعَ،
-<blockquote dir="rtl">
-  <p>
-واللَّئِيمِ إِذَا شَبِعَ.
-  </p>
-</blockquote>
+> واللَّئِيمِ إِذَا شَبِعَ.
 
 Hadith n. 50
 ------------
@@ -989,11 +733,7 @@ people are like wild beasts. Whoever tames them, they would pounce upon
 him. [^20]
 
 > 50. وقال عليه السلام : قُلُوبُ الرِّجَالِ وَحْشِيَّةٌ، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-تَأَلَّفَهَا أَقْبَلَتْ عَلَيْهِ
-  </p>
-</blockquote>
+> تَأَلَّفَهَا أَقْبَلَتْ عَلَيْهِ
 
 Hadith n. 51
 ------------
@@ -1010,11 +750,7 @@ Hadith n. 52
 pardoning is he who is the most powerful to punish.
 
 > 52. وقال عليه السلام : أَوْلَى النَّاسِ بِالْعَفْوِ أَقْدَرُهُمْ عَلَى
-<blockquote dir="rtl">
-  <p>
-الْعُقُوبَةِ
-  </p>
-</blockquote>
+> الْعُقُوبَةِ
 
 Hadith n. 53
 ------------
@@ -1024,11 +760,7 @@ which is by one's own initiative, because giving on being asked is
 either out of self-respect or to avoid rebuke.
 
 > 53. وقال عليه السلام : السَّخَاءُ مَا كَانَ ابْتِدَاءً، فَأَمَّا مَا
-<blockquote dir="rtl">
-  <p>
-كَانَ عَنْ مَسْأَلَةِ فَحَيَاءٌ وَتَذَمُّمٌ.
-  </p>
-</blockquote>
+> كَانَ عَنْ مَسْأَلَةِ فَحَيَاءٌ وَتَذَمُّمٌ.
 
 Hadith n. 54
 ------------
@@ -1038,12 +770,8 @@ like wisdom, no destitution like ignorance, no inheritance like
 refinement and no support like consultation.
 
 > 54. وقال عليه السلام : لاَ غِنَى كَالْعَقْلِ، وَلاَ فَقْرَ
-<blockquote dir="rtl">
-  <p>
-كَالْجَهْلِ، وَلاَ مِيرَاثَ كَالاْدَبِ، وَلاَ ظَهِيرَ
-كَالْمُشَاوَرَةِ.
-  </p>
-</blockquote>
+> كَالْجَهْلِ، وَلاَ مِيرَاثَ كَالاْدَبِ، وَلاَ ظَهِيرَ
+> كَالْمُشَاوَرَةِ.
 
 Hadith n. 55
 ------------
@@ -1053,11 +781,7 @@ kinds, patience over what pains you, and patience against what you
 covet.
 
 > 55. وقال عليه السلام : الصَّبْرُ صَبْرَانِ: صَبْرٌ عَلَى مَا تَكْرَهُ،
-<blockquote dir="rtl">
-  <p>
-وَصَبْرٌ عَمَّا تُحِبُّ.
-  </p>
-</blockquote>
+> وَصَبْرٌ عَمَّا تُحِبُّ.
 
 Hadith n. 56
 ------------
@@ -1067,11 +791,7 @@ land is a homeland, while with destitution even a homeland is a strange
 land. [^21]
 
 > 56. وقال عليه السلام : الْغِنَى فِي الْغُرْبَةِ وَطَنٌ، وَالْفَقْرُ
-<blockquote dir="rtl">
-  <p>
-فِي الْوَطَنِ غُرْبَةٌ.
-  </p>
-</blockquote>
+> فِي الْوَطَنِ غُرْبَةٌ.
 
 Hadith n. 57
 ------------
@@ -1084,11 +804,7 @@ that does not diminish. [^22]
 **as-Sayyid ar-Radi says:** This saying has also been related from the
 Prophet, may Allah bless him and his descendants.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و قد روي هذا الكلام عن النبي صلي الله عليه و آله و سلم.
-  </p>
-</blockquote>
+> قال الرضي: و قد روي هذا الكلام عن النبي صلي الله عليه و آله و سلم.
 
 Hadith n. 58
 ------------
@@ -1131,12 +847,8 @@ to you, do a better favour in return, although the credit would remain
 with the one who was first.
 
 > 62. وقال عليه السلام : إِذَا حُيِّيْتَ بِتَحِيَّةٍ فَحَيِّ بِأَحْسَنَ
-<blockquote dir="rtl">
-  <p>
-مِنْهَا، وإِذَا أُسْدِيَتْ إِلَيْكَ يَدٌ فَكَافِئْهَا بِمَا يُرْبِي
-عَلَيْهَا، وَالْفَضْلُ مَعَ ذلِكَ لِلْبَادِىءِ
-  </p>
-</blockquote>
+> مِنْهَا، وإِذَا أُسْدِيَتْ إِلَيْكَ يَدٌ فَكَافِئْهَا بِمَا يُرْبِي
+> عَلَيْهَا، وَالْفَضْلُ مَعَ ذلِكَ لِلْبَادِىءِ
 
 Hadith n. 63
 ------------
@@ -1153,11 +865,7 @@ Hadith n. 64
 world are like travellers who are being carried while they are asleep.
 
 > 64. وقال عليه السلام : أَهْلُ الدُّنْيَا كَرَكْبٍ يُسَارُ بِهِمْ
-<blockquote dir="rtl">
-  <p>
-وَهُمْ نِيَامٌ.
-  </p>
-</blockquote>
+> وَهُمْ نِيَامٌ.
 
 Hadith n. 65
 ------------
@@ -1174,11 +882,7 @@ Hadith n. 66
 needs is easier than to beg from an inappropriate person. [^23]
 
 > 66. وقال عليه السلام : فَوْتُ الْحَاجَةِ أَهْوَنُ مِنْ طَلَبِهَا إِلَى
-<blockquote dir="rtl">
-  <p>
-غَيْرِ أَهْلِهَا.
-  </p>
-</blockquote>
+> غَيْرِ أَهْلِهَا.
 
 Hadith n. 67
 ------------
@@ -1187,11 +891,7 @@ Hadith n. 67
 for giving little because refusal is smaller than that.
 
 > 67. وقال عليه السلام : لاَ تَسْتَحِ مِنْ إِعْطَاءِ الْقَلِيلِ، فَإِنَّ
-<blockquote dir="rtl">
-  <p>
-الْحِرْمَانَ أَقَلُّ مِنْهُ.
-  </p>
-</blockquote>
+> الْحِرْمَانَ أَقَلُّ مِنْهُ.
 
 Hadith n. 68
 ------------
@@ -1201,11 +901,7 @@ adornment of destitution while gratefulness (to Allah) is the adornment
 of riches.
 
 > 68. وقال عليه السلام : الْعَفَافُ زِينَةُ الْفَقْرِ، والشُّكْرُ
-<blockquote dir="rtl">
-  <p>
-زِينَةُ الغِنَى.
-  </p>
-</blockquote>
+> زِينَةُ الغِنَى.
 
 Hadith n. 69
 ------------
@@ -1214,11 +910,7 @@ Hadith n. 69
 does not come about then do not worry as to what you were.
 
 > 69. وَ قَالَ عليه‏السلام: إِذَا لَمْ يَكُنْ مَا تُرِيدُ فَلَا تُبَلْ
-<blockquote dir="rtl">
-  <p>
-مَا كُنْتَ
-  </p>
-</blockquote>
+> مَا كُنْتَ
 
 Hadith n. 70
 ------------
@@ -1228,11 +920,7 @@ ignorant person but at one extreme or the other (i.e. a person who
 neglects or a person who exaggerates).
 
 > 70. وَ قَالَ عليه‏السلام: لَا تَرَى الْجَاهِلَ إِلَّا مُفْرِطاً أَوْ
-<blockquote dir="rtl">
-  <p>
-مُفَرِّطاً.
-  </p>
-</blockquote>
+> مُفَرِّطاً.
 
 Hadith n. 71
 ------------
@@ -1251,12 +939,8 @@ Whoever is successful with it encounters grief and whoever misses its
 favours also undergoes hardships.
 
 > 72. وقال عليه السلام: الدَّهرُ يُخْلِقُ الاْبْدَانَ، وَيُجَدِّدُ
-<blockquote dir="rtl">
-  <p>
-الاْمَالَ، وَيُقَرِّبُ الْمَنِيَّةَ، ويُبَاعِدُ الاْمْنِيَّةَ، مَنْ
-ظَفِرَ بِهِ نَصِبَ، ومَنْ فَاتَهُ تَعِبَ.
-  </p>
-</blockquote>
+> الاْمَالَ، وَيُقَرِّبُ الْمَنِيَّةَ، ويُبَاعِدُ الاْمْنِيَّةَ، مَنْ
+> ظَفِرَ بِهِ نَصِبَ، ومَنْ فَاتَهُ تَعِبَ.
 
 Hadith n. 73
 ------------
@@ -1270,14 +954,10 @@ The person who teaches and instructs his own self is more entitled to
 esteem then he who teaches and instructs others.
 
 > 73. وقال عليه السلام: مَنْ نَصَبَ نَفْسَهُ لِلنَّاسِ إِمَاماً
-<blockquote dir="rtl">
-  <p>
-فَعَلَيْهِ أَنْ يَبْدَأَ بِتَعْلِيمِ نَفْسِهِ قَبْلَ تَعْلِيمِ
-غَيْرِهِ، وَلْيَكُنْ تَأْدِيبُهُ بِسِيرَتِهِ قَبْلَ تَأْدِيبِهِ
-بِلِسَانِهِ، وَمُعَلِّمُ نَفْسِهِ وَمُؤَدِّبُهَا أَحَقُّ بِالاْجْلاَلِ
-مِنْ مُعَلِّمِ النَّاسِ وَمُؤَدِّبِهِمْ.
-  </p>
-</blockquote>
+> فَعَلَيْهِ أَنْ يَبْدَأَ بِتَعْلِيمِ نَفْسِهِ قَبْلَ تَعْلِيمِ
+> غَيْرِهِ، وَلْيَكُنْ تَأْدِيبُهُ بِسِيرَتِهِ قَبْلَ تَأْدِيبِهِ
+> بِلِسَانِهِ، وَمُعَلِّمُ نَفْسِهِ وَمُؤَدِّبُهَا أَحَقُّ بِالاْجْلاَلِ
+> مِنْ مُعَلِّمِ النَّاسِ وَمُؤَدِّبِهِمْ.
 
 Hadith n. 74
 ------------
@@ -1303,11 +983,7 @@ up then the last ones should be appreciated according to the previous
 one. [^26]
 
 > 76. وقال عليه السلام: إِنَّ الاْمُورَ إذا اشْتَبَهَتْ اعْتُبِرَ
-<blockquote dir="rtl">
-  <p>
-آخِرُهَا بِأَوَّلِهَا.
-  </p>
-</blockquote>
+> آخِرُهَا بِأَوَّلِهَا.
 
 Hadith n. 77
 ------------
@@ -1321,15 +997,11 @@ heard, groaning like a man bitten by a snake and weeping as a grieved
 man, saying:**
 
 > 77. وَ مِنْ خَبَرِ ضِرَارِ بْنِ حَمْزَةَ الضَّبَائِيِّ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-دُخُولِهِ عَلَى مُعَاوِيَةَ وَ مَسْأَلَتِهِ لَهُ عَنْ أَمِيرِ
-الْمُؤْمِنِينَ ع وَ قَالَ فَأَشْهَدُ لَقَدْ رَأَيْتُهُ فِى بَعْضِ
-مَوَاقِفِهِ وَ قَدْ أَرْخَى اللَّيْلُ سُدُولَهُ وَ هُوَ قَائِمٌ فِى
-مِحْرَابِهِ قَابِضٌ عَلَى لِحْيَتِهِ يَتَمَلْمَلُ تَمَلْمُلَ
-السَّلِيمِ وَ يَبْكِى بُكَاءَ الْحَزِينِ وَ يَقُولُ
-  </p>
-</blockquote>
+> دُخُولِهِ عَلَى مُعَاوِيَةَ وَ مَسْأَلَتِهِ لَهُ عَنْ أَمِيرِ
+> الْمُؤْمِنِينَ ع وَ قَالَ فَأَشْهَدُ لَقَدْ رَأَيْتُهُ فِى بَعْضِ
+> مَوَاقِفِهِ وَ قَدْ أَرْخَى اللَّيْلُ سُدُولَهُ وَ هُوَ قَائِمٌ فِى
+> مِحْرَابِهِ قَابِضٌ عَلَى لِحْيَتِهِ يَتَمَلْمَلُ تَمَلْمُلَ
+> السَّلِيمِ وَ يَبْكِى بُكَاءَ الْحَزِينِ وَ يَقُولُ
 
 O world, O world! Get away from me. Why do you present yourself to me?
 Or are you eager for me? You may not get that opportunity to impress me.
@@ -1339,16 +1011,12 @@ importance is little and your aspirations are base. Alas! The provision
 is little, the way is long, the journey is far and the goal is hard to
 reach.
 
-<blockquote dir="rtl">
-  <p>
-يَا دُنْيَا يَا دُنْيَا إِلَيْكِ عَنِّى، أَ بِى تَعَرَّضْتِ أَمْ
-إِلَيَّ تَشَوَّقْتِ؟ لَا حَانَ حِينُكِ هَيْهَاتَ غُرِّى غَيْرِى لَا
-حَاجَةَ لِى فِيكِ قَدْ طَلَّقْتُكِ َثلَاثاً لَا رَجْعَةَ فِيهَا
-فَعَيْشُكِ قَصِيرٌ وَ خَطَرُكِ يَسِيرٌ وَ أَمَلُكِ حَقِيرٌ. آهِ مِنْ
-قِلَّةِ الزَّادِ وَ طُولِ الطَّرِيقِ وَ بُعْدِ السَّفَرِ وَ عَظِيمِ
-الْمَوْرِدِ.
-  </p>
-</blockquote>
+> يَا دُنْيَا يَا دُنْيَا إِلَيْكِ عَنِّى، أَ بِى تَعَرَّضْتِ أَمْ
+> إِلَيَّ تَشَوَّقْتِ؟ لَا حَانَ حِينُكِ هَيْهَاتَ غُرِّى غَيْرِى لَا
+> حَاجَةَ لِى فِيكِ قَدْ طَلَّقْتُكِ َثلَاثاً لَا رَجْعَةَ فِيهَا
+> فَعَيْشُكِ قَصِيرٌ وَ خَطَرُكِ يَسِيرٌ وَ أَمَلُكِ حَقِيرٌ. آهِ مِنْ
+> قِلَّةِ الزَّادِ وَ طُولِ الطَّرِيقِ وَ بُعْدِ السَّفَرِ وَ عَظِيمِ
+> الْمَوْرِدِ.
 
 Hadith n. 78: On Predestination
 -------------------------------
@@ -1358,12 +1026,8 @@ fight against the Syrians destined by Allah? Amir al-mu'minin, peace be
 upon him, gave a detailed reply, a selection from which is hereunder:**
 
 > 78. وَ مِنْ كَلَامٍ لَهُ عليه‏السلام لِلسَّائِلِ الشَّامِيِّ لَمَّا
-<blockquote dir="rtl">
-  <p>
-سَأَلَهُ أَ كَانَ مَسِيرُنَا إِلَى الشَّامِ بِقَضَاءٍ مِنَ اللَّهِ وَ
-قَدَرٍ بَعْدَ كَلَامٍ طَوِيلٍ هَذَا مُخْتَارُهُ
-  </p>
-</blockquote>
+> سَأَلَهُ أَ كَانَ مَسِيرُنَا إِلَى الشَّامِ بِقَضَاءٍ مِنَ اللَّهِ وَ
+> قَدَرٍ بَعْدَ كَلَامٍ طَوِيلٍ هَذَا مُخْتَارُهُ
 
 Woe to you! You take it as a final and unavoidable destiny [^28]
 (according to which we are bound to act). If it were so, there would
@@ -1380,19 +1044,15 @@ in between them in vain. *That is the imagination of those who
 disbelieve; then woe to those who disbelieve - because of the fire.*
 (Qur'an, 38:27)
 
-<blockquote dir="rtl">
-  <p>
-وَيْحَكَ لَعَلَّكَ ظَنَنْتَ قَضَاءً لَازِماً وَ قَدَراً حَاتِماً لَوْ
-كَانَ ذَلِكَ كَذَلِكَ لَبَطَلَ الثَّوَابُ وَ الْعِقَابُ وَ سَقَطَ
-الْوَعْدُ وَ الْوَعِيدُ . إِنَّ اللَّهَ سُبْحَانَهُ أَمَرَ عِبَادَهُ
-تَخْيِيراً وَ نَهَاهُمْ تَحْذِيراً وَ كَلَّفَ يَسِيراً وَ لَمْ
-يُكَلِّفْ عَسِيراً وَ أَعْطَى عَلَى الْقَلِيلِ كَثِيراً وَ لَمْ يُعْصَ
-مَغْلُوباً وَ لَمْ يُطَعْ مُكْرِهاً وَ لَمْ يُرْسِلِ الْأَنْبِيَاءَ
-لَعِباً وَ لَمْ يُنْزِلِ الْكُتُبَ لِلْعِبَادِ عَبَثاً وَ لَا خَلَقَ
-السَّمَاوَاتِ وَ الْأَرْضَ وَ مَا بَيْنَهُمَا بَاطِلًا (ذلِكَ ظَنُّ
-الَّذِينَ كَفَرُوا فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنَ النَّارِ).
-  </p>
-</blockquote>
+> وَيْحَكَ لَعَلَّكَ ظَنَنْتَ قَضَاءً لَازِماً وَ قَدَراً حَاتِماً لَوْ
+> كَانَ ذَلِكَ كَذَلِكَ لَبَطَلَ الثَّوَابُ وَ الْعِقَابُ وَ سَقَطَ
+> الْوَعْدُ وَ الْوَعِيدُ . إِنَّ اللَّهَ سُبْحَانَهُ أَمَرَ عِبَادَهُ
+> تَخْيِيراً وَ نَهَاهُمْ تَحْذِيراً وَ كَلَّفَ يَسِيراً وَ لَمْ
+> يُكَلِّفْ عَسِيراً وَ أَعْطَى عَلَى الْقَلِيلِ كَثِيراً وَ لَمْ يُعْصَ
+> مَغْلُوباً وَ لَمْ يُطَعْ مُكْرِهاً وَ لَمْ يُرْسِلِ الْأَنْبِيَاءَ
+> لَعِباً وَ لَمْ يُنْزِلِ الْكُتُبَ لِلْعِبَادِ عَبَثاً وَ لَا خَلَقَ
+> السَّمَاوَاتِ وَ الْأَرْضَ وَ مَا بَيْنَهُمَا بَاطِلًا (ذلِكَ ظَنُّ
+> الَّذِينَ كَفَرُوا فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنَ النَّارِ).
 
 Hadith n. 79
 ------------
@@ -1403,12 +1063,8 @@ hypocrite it flutters in his bosom till it comes out and settles with
 others of its own category in the bosom of the believer.
 
 > 79. وَ قَالَ عليه‏السلام: خُذِ الْحِكْمَةَ أَنَّى كَانَتْ فَإِنَّ
-<blockquote dir="rtl">
-  <p>
-الْحِكْمَةَ تَكُونُ فِي صَدْرِ الْمُنَافِقِ فَتَلَجْلَجُ فِي صَدْرِهِ
-حَتَّى تَخْرُجَ فَتَسْكُنَ إِلَى صَوَاحِبِهَا فِي صَدْرِ الْمُؤْمِن.
-  </p>
-</blockquote>
+> الْحِكْمَةَ تَكُونُ فِي صَدْرِ الْمُنَافِقِ فَتَلَجْلَجُ فِي صَدْرِهِ
+> حَتَّى تَخْرُجَ فَتَسْكُنَ إِلَى صَوَاحِبِهَا فِي صَدْرِ الْمُؤْمِن.
 
 Hadith n. 80
 ------------
@@ -1418,11 +1074,7 @@ lost article of the believer. Therefore, get wise sayings even though
 from people of hypocrisy.
 
 > 80. وَ قَالَ عليه‏السلام: الْحِكْمَةُ ضَالَّةُ الْمُؤْمِنِ فَخُذِ
-<blockquote dir="rtl">
-  <p>
-الْحِكْمَةَ وَ لَوْ مِنْ أَهْلِ النِّفَاقِ.
-  </p>
-</blockquote>
+> الْحِكْمَةَ وَ لَوْ مِنْ أَهْلِ النِّفَاقِ.
 
 Hadith n. 81
 ------------
@@ -1436,12 +1088,8 @@ man is in his attainments. [^29]
 assessed, with which no wise saying can be weighed and with which no
 other sentence can be matched.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و هي الكلمة التي لا تصاب لها قيمة و لا توزن بها حكمة و لا
-تقرن إليها كلمة.
-  </p>
-</blockquote>
+> قال الرضي: و هي الكلمة التي لا تصاب لها قيمة و لا توزن بها حكمة و لا
+> تقرن إليها كلمة.
 
 Hadith n. 82
 ------------
@@ -1459,18 +1107,14 @@ is for the body, so that just as there is no good in a body without the
 head there is no good in belief without endurance.
 
 > 82. وَ قَالَ عليه‏السلام: أُوصِيكُمْ بِخَمْسٍ لَوْ ضَرَبْتُمْ
-<blockquote dir="rtl">
-  <p>
-إِلَيْهَا آبَاطَ الْإِبِلِ لَكَانَتْ لِذَلِكَ أَهْلًا . لَا
-يَرْجُوَنَّ أَحَدٌ مِنْكُمْ إِلَّا رَبَّهُ وَ لَا يَخَافَنَّ إِلَّا
-ذَنْبَهُ وَ لَا يَسْتَحِيَنَّ أَحَدٌ مِنْكُمْ إِذَا سُئِلَ عَمَّا لَا
-يَعْلَمُ أَنْ يَقُولَ لَا أَعْلَمُ وَ لَا يَسْتَحِيَنَّ أَحَدٌ إِذَا
-لَمْ يَعْلَمِ الشَّيْ‏ءَ أَنْ يَتَعَلَّمَهُ . وَ عَلَيْكُمْ
-بِالصَّبْرِ فَإِنَّ الصَّبْرَ مِنَ الْإِيمَانِ كَالرَّأْسِ مِنَ
-الْجَسَدِ وَ لَا خَيْرَ فِي جَسَدٍ لَا رَأْسَ مَعَهُ وَ لَا فِي
-إِيمَانٍ لَا صَبْرَ مَعَهُ.
-  </p>
-</blockquote>
+> إِلَيْهَا آبَاطَ الْإِبِلِ لَكَانَتْ لِذَلِكَ أَهْلًا . لَا
+> يَرْجُوَنَّ أَحَدٌ مِنْكُمْ إِلَّا رَبَّهُ وَ لَا يَخَافَنَّ إِلَّا
+> ذَنْبَهُ وَ لَا يَسْتَحِيَنَّ أَحَدٌ مِنْكُمْ إِذَا سُئِلَ عَمَّا لَا
+> يَعْلَمُ أَنْ يَقُولَ لَا أَعْلَمُ وَ لَا يَسْتَحِيَنَّ أَحَدٌ إِذَا
+> لَمْ يَعْلَمِ الشَّيْ‏ءَ أَنْ يَتَعَلَّمَهُ . وَ عَلَيْكُمْ
+> بِالصَّبْرِ فَإِنَّ الصَّبْرَ مِنَ الْإِيمَانِ كَالرَّأْسِ مِنَ
+> الْجَسَدِ وَ لَا خَيْرَ فِي جَسَدٍ لَا رَأْسَ مَعَهُ وَ لَا فِي
+> إِيمَانٍ لَا صَبْرَ مَعَهُ.
 
 Hadith n. 83
 ------------
@@ -1480,12 +1124,8 @@ him much, although he did not admire him**: I am below what you express
 and above what you feel in your heart.
 
 > 83. وَ قَالَ عليه‏السلام لِرَجُلٍ أَفْرَطَ فِي الثَّنَاءِ عَلَيْهِ وَ
-<blockquote dir="rtl">
-  <p>
-كَانَ لَهُ مُتَّهِماً: أَنَا دُونَ مَا تَقُولُ وَ فَوْقَ مَا فِي
-نَفْسِكَ.
-  </p>
-</blockquote>
+> كَانَ لَهُ مُتَّهِماً: أَنَا دُونَ مَا تَقُولُ وَ فَوْقَ مَا فِي
+> نَفْسِكَ.
 
 Hadith n. 84
 ------------
@@ -1494,12 +1134,8 @@ Hadith n. 84
 sword (from getting killed) are large in number and have a large
 progeny.
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ ( عليه‏السلام )بَقِيَّةُ السَّيْفِ أَبْقَى عَدَداً وَ
-أَكْثَرُ وَلَداً
-  </p>
-</blockquote>
+> وَ قَالَ ( عليه‏السلام )بَقِيَّةُ السَّيْفِ أَبْقَى عَدَداً وَ
+> أَكْثَرُ وَلَداً
 
 Hadith n. 85
 ------------
@@ -1508,11 +1144,7 @@ Hadith n. 85
 saying, "I do not know" meets his destruction.
 
 > 85. وَ قَالَ عليه‏السلام: مَنْ تَرَكَ قَوْلَ لَا أَدْرِي أُصِيبَتْ
-<blockquote dir="rtl">
-  <p>
-مَقَاتِلُهُ.
-  </p>
-</blockquote>
+> مَقَاتِلُهُ.
 
 Hadith n. 86
 ------------
@@ -1522,11 +1154,7 @@ an old man more than the determination of a young man; (**or according
 to another version**) more than the martyrdom of a young man.
 
 > 86. وقال عليه السلام : رَأْيُ الشَّيْخِ أَحَبُّ إِلَيَّ مِنْ جَلَدِ
-<blockquote dir="rtl">
-  <p>
-الْغُلاَمِ - وَروي: مِنْ مَشْهَدِ الْغُلاَمِ.
-  </p>
-</blockquote>
+> الْغُلاَمِ - وَروي: مِنْ مَشْهَدِ الْغُلاَمِ.
 
 Hadith n. 87
 ------------
@@ -1535,11 +1163,7 @@ Hadith n. 87
 man who loses hope despite the possibility of seeking forgiveness.
 
 > 87. وقال عليه السلام : عَجِبْتُ لِمَنْ يَقْنَطُ وَمَعَهُ
-<blockquote dir="rtl">
-  <p>
-الاِسْتِغْفَارُ.
-  </p>
-</blockquote>
+> الاِسْتِغْفَارُ.
 
 Hadith n. 88
 ------------
@@ -1549,11 +1173,7 @@ of them, has related from Amir al-mu'minin, peace be upon him, that he
 said:**
 
 > 88. وَ حَكَى عَنْهُ أَبُو جَعْفَرٍ مُحَمَّدُ بْنُ عَلِيٍّ الْبَاقِرُ
-<blockquote dir="rtl">
-  <p>
-عليه السلام أَنَّهُ قَالَ:
-  </p>
-</blockquote>
+> عليه السلام أَنَّهُ قَالَ:
 
 There are two sources of deliverance from the Allah's punishment, one of
 which has been raised up, while the other is before you. You should
@@ -1564,25 +1184,17 @@ forgiveness. Allah, the Glorified, has said: *And Allah is not to
 chastise them while you are among them, nor is Allah to chastise them
 while yet they seek forgiveness*. (Qur'an, 8:33)
 
-<blockquote dir="rtl">
-  <p>
-انَ فِى الْأَرْضِ أَمَانَانِ مِنْ عَذَابِ اللَّهِ وَ قَدْ رُفِعَ
-أَحَدُهُمَا فَدُونَكُمُ الْآخَرَ فَتَمَسَّكُوا بِهِ: أَمَّا الْأَمَانُ
-الَّذِى رُفِعَ فَهُوَ رَسُولُ اللَّهِ (ص) وَ أَمَّا الْأَمَانُ
-الْبَاقِى فَالِاسْتِغْفَارُ قَالَ اللَّهُ تَعَالَى (وَ ما كانَ اللَّهُ
-لِيُعَذِّبَهُمْ وَ أَنْتَ فِيهِمْ وَ ما كانَ اللَّهُ مُعَذِّبَهُمْ وَ
-هُمْ يَسْتَغْفِرُونَ ).
-  </p>
-</blockquote>
+> انَ فِى الْأَرْضِ أَمَانَانِ مِنْ عَذَابِ اللَّهِ وَ قَدْ رُفِعَ
+> أَحَدُهُمَا فَدُونَكُمُ الْآخَرَ فَتَمَسَّكُوا بِهِ: أَمَّا الْأَمَانُ
+> الَّذِى رُفِعَ فَهُوَ رَسُولُ اللَّهِ (ص) وَ أَمَّا الْأَمَانُ
+> الْبَاقِى فَالِاسْتِغْفَارُ قَالَ اللَّهُ تَعَالَى (وَ ما كانَ اللَّهُ
+> لِيُعَذِّبَهُمْ وَ أَنْتَ فِيهِمْ وَ ما كانَ اللَّهُ مُعَذِّبَهُمْ وَ
+> هُمْ يَسْتَغْفِرُونَ ).
 
 **As-Sayyid ar-Radi says:** This is one of the most beautiful way of
 deducing the meaning and the most delicate manner of interpretation.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى: و هذا من محاسن الاستخراج و لطائف الاستنباط .
-  </p>
-</blockquote>
+> قال الرضى: و هذا من محاسن الاستخراج و لطائف الاستنباط .
 
 Hadith n. 89
 ------------
@@ -1594,13 +1206,9 @@ life then Allah sets right for him the affairs of this world. Whoever is
 a preacher for himself is protected by Allah.
 
 > 89. وقال عليه السلام : مَنْ أَصْلَحَ مَا بَيْنَهُ وَبَيْنَ اللهِ
-<blockquote dir="rtl">
-  <p>
-أَصْلَحَ اللهُ مَا بَيْنَهُ وَبَيْنَ النَّاسِ، وَمَنْ أَصْلَحَ أَمْرَ
-آخِرَتِهِ أَصْلَحَ اللهُ لَهُ أَمْرَ دُنْيَاهُ، وَمَنْ كَانَ لَهُ مِنْ
-نَفْسِهِ وَاعِظٌ كَانَ عَلَيْهِ مِنَ اللهِ حَافِظٌ .
-  </p>
-</blockquote>
+> أَصْلَحَ اللهُ مَا بَيْنَهُ وَبَيْنَ النَّاسِ، وَمَنْ أَصْلَحَ أَمْرَ
+> آخِرَتِهِ أَصْلَحَ اللهُ لَهُ أَمْرَ دُنْيَاهُ، وَمَنْ كَانَ لَهُ مِنْ
+> نَفْسِهِ وَاعِظٌ كَانَ عَلَيْهِ مِنَ اللهِ حَافِظٌ .
 
 Hadith n. 90
 ------------
@@ -1611,12 +1219,8 @@ does not make them despondent of Allah's kindness and does not make them
 feel safe from Allah's punishment.
 
 > 90. وقال عليه السلام : الْفَقِيهُ كُلُّ الْفَقِيهِ مَنْ لَمْ يُقَنِّطِ
-<blockquote dir="rtl">
-  <p>
-النَّاسَ مِنْ رَحْمَةِ اللهِ، وَلَمْ يُؤْيِسْهُمْ مِنْ رَوْحِ اللهِ
-وَلَمْ يُؤْمِنْهُمْ مِنْ مَكْرِالله .
-  </p>
-</blockquote>
+> النَّاسَ مِنْ رَحْمَةِ اللهِ، وَلَمْ يُؤْيِسْهُمْ مِنْ رَوْحِ اللهِ
+> وَلَمْ يُؤْمِنْهُمْ مِنْ مَكْرِالله .
 
 Hadith n. 91
 ------------
@@ -1626,11 +1230,7 @@ as bodies get weary; so look for beautiful wise sayings for them (to
 dispel their weariness).
 
 > 91. وقال عليه السلام : إِنَّ هذِهِ الْقُلُوبَ تَمَلُّ كَمَا تَمَلُّ
-<blockquote dir="rtl">
-  <p>
-الاْبْدَانُ، فَابْتَغُوا لَهَا طَرَائِفَ الْحِكْمَةِ.
-  </p>
-</blockquote>
+> الاْبْدَانُ، فَابْتَغُوا لَهَا طَرَائِفَ الْحِكْمَةِ.
 
 Hadith n. 92
 ------------
@@ -1641,11 +1241,7 @@ is that which manifests itself through (the action of) the limbs and the
 organs of the body.
 
 > 92. وقال عليه السلام : أَوْضَعُ الْعِلْمِ مَا وُقِفَ عَلَى اللِّسَانِ
-<blockquote dir="rtl">
-  <p>
-وَأَرْفَعُهُ مَا ظَهَرَ فِي الْجَوَارِحِ وَالاْرْكَانِ .
-  </p>
-</blockquote>
+> وَأَرْفَعُهُ مَا ظَهَرَ فِي الْجَوَارِحِ وَالاْرْكَانِ .
 
 Hadith n. 93
 ------------
@@ -1665,30 +1261,22 @@ earn reward or punishment because some of them like to have male
 wealth, and dislike adversity.
 
 > 93. وَ قَالَ عليه السلام: لَا يَقُولَنَّ أَحَدُكُمْ اللَّهُمَّ إِنِّى
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِكَ مِنَ الْفِتْنَةِ لِأَنَّهُ لَيْسَ أَحَدٌ إِلَّا وَ هُوَ
-مُشْتَمِلٌ عَلَى فِتْنَةٍ وَ لَكِنْ مَنِ اسْتَعَاذَ فَلْيَسْتَعِذْ
-مِنْ مُضِلَّاتِ الْفِتَنِ فَإِنَّ اللَّهَ سُبْحَانَهُ يَقُولُ وَ
-اعْلَمُوا أَنَّما أَمْوالُكُمْ وَ أَوْلادُكُمْ فِتْنَةٌ وَ مَعْنَى
-ذَلِكَ أَنَّهُ يَخْتَبِرُهُمْ بِالْأَمْوَالِ وَ الْأَوْلَادِ
-لِيَتَبَيَّنَ السَّاخِطَ لِرِزْقِهِ وَ الرَّاضِيَ بِقِسْمِهِ وَ إِنْ
-كَانَ سُبْحَانَهُ أَعْلَمَ بِهِمْ مِنْ أَنْفُسِهِمْ وَ لَكِنْ
-لِتَظْهَرَ الْأَفْعَالُ الَّتِى بِهَا يُسْتَحَقُّ الثَّوَابُ وَ
-الْعِقَابُ لِأَنَّ بَعْضَهُمْ يُحِبُّ الذُّكُورَ وَ يَكْرَهُ
-الْإِنَاثَ وَ بَعْضَهُمْ يُحِبُّ تَثْمِيرَ الْمَالِ وَ يَكْرَهُ
-انْثِلَامَ الْحَالِ.
-  </p>
-</blockquote>
+> أَعُوذُ بِكَ مِنَ الْفِتْنَةِ لِأَنَّهُ لَيْسَ أَحَدٌ إِلَّا وَ هُوَ
+> مُشْتَمِلٌ عَلَى فِتْنَةٍ وَ لَكِنْ مَنِ اسْتَعَاذَ فَلْيَسْتَعِذْ
+> مِنْ مُضِلَّاتِ الْفِتَنِ فَإِنَّ اللَّهَ سُبْحَانَهُ يَقُولُ وَ
+> اعْلَمُوا أَنَّما أَمْوالُكُمْ وَ أَوْلادُكُمْ فِتْنَةٌ وَ مَعْنَى
+> ذَلِكَ أَنَّهُ يَخْتَبِرُهُمْ بِالْأَمْوَالِ وَ الْأَوْلَادِ
+> لِيَتَبَيَّنَ السَّاخِطَ لِرِزْقِهِ وَ الرَّاضِيَ بِقِسْمِهِ وَ إِنْ
+> كَانَ سُبْحَانَهُ أَعْلَمَ بِهِمْ مِنْ أَنْفُسِهِمْ وَ لَكِنْ
+> لِتَظْهَرَ الْأَفْعَالُ الَّتِى بِهَا يُسْتَحَقُّ الثَّوَابُ وَ
+> الْعِقَابُ لِأَنَّ بَعْضَهُمْ يُحِبُّ الذُّكُورَ وَ يَكْرَهُ
+> الْإِنَاثَ وَ بَعْضَهُمْ يُحِبُّ تَثْمِيرَ الْمَالِ وَ يَكْرَهُ
+> انْثِلَامَ الْحَالِ.
 
 **As-Sayyid ar-Radi says:** This is one of the wonderful interpretations
 related from him.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى و هذا من غريب ما سمع منه فى التفسير .
-  </p>
-</blockquote>
+> قال الرضى و هذا من غريب ما سمع منه فى التفسير .
 
 Hadith n. 94
 ------------
@@ -1703,16 +1291,12 @@ man who commits sins but rectifies them by repentance; and the man who
 hastens towards good actions.
 
 > 94. وَ قَالَ عليه السلام : وَ سُئِلَ عَنِ الْخَيْرِ مَا هُوَ فَقَالَ
-<blockquote dir="rtl">
-  <p>
-لَيْسَ الْخَيْرُ أَنْ يَكْثُرَ مَالُكَ وَ وَلَدُكَ وَ لَكِنَّ
-الْخَيْرَ أَنْ يَكْثُرَ عِلْمُكَ وَ أَنْ يَعْظُمَ حِلْمُكَ وَ أَنْ
-تُبَاهِيَ النَّاسَ بِعِبَادَةِ رَبِّكَ فَإِنْ أَحْسَنْتَ حَمِدْتَ
-اللَّهَ وَ إِنْ أَسَأْتَ اسْتَغْفَرْتَ اللَّهَ وَ لَا خَيْرَ فِى
-الدُّنْيَا إِلَّا لِرَجُلَيْنِ رَجُلٍ أَذْنَبَ ذُنُوباً فَهُوَ
-يَتَدَارَكُهَا بِالتَّوْبَةِ وَ رَجُلٍ يُسَارِعُ فِى الْخَيْرَاتِ .
-  </p>
-</blockquote>
+> لَيْسَ الْخَيْرُ أَنْ يَكْثُرَ مَالُكَ وَ وَلَدُكَ وَ لَكِنَّ
+> الْخَيْرَ أَنْ يَكْثُرَ عِلْمُكَ وَ أَنْ يَعْظُمَ حِلْمُكَ وَ أَنْ
+> تُبَاهِيَ النَّاسَ بِعِبَادَةِ رَبِّكَ فَإِنْ أَحْسَنْتَ حَمِدْتَ
+> اللَّهَ وَ إِنْ أَسَأْتَ اسْتَغْفَرْتَ اللَّهَ وَ لَا خَيْرَ فِى
+> الدُّنْيَا إِلَّا لِرَجُلَيْنِ رَجُلٍ أَذْنَبَ ذُنُوباً فَهُوَ
+> يَتَدَارَكُهَا بِالتَّوْبَةِ وَ رَجُلٍ يُسَارِعُ فِى الْخَيْرَاتِ .
 
 Hadith n. 95
 ------------
@@ -1721,12 +1305,8 @@ Hadith n. 95
 accompanied by fear for Allah does not fail, and how can a thing fail
 that has been accepted. [^30]
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ عليه السلام: لَا يَقِلُّ عَمَلٌ مَعَ التَّقْوَى وَ كَيْفَ
-يَقِلُّ مَا يُتَقَبَّلُ.
-  </p>
-</blockquote>
+> وَ قَالَ عليه السلام: لَا يَقِلُّ عَمَلٌ مَعَ التَّقْوَى وَ كَيْفَ
+> يَقِلُّ مَا يُتَقَبَّلُ.
 
 Hadith n. 96
 ------------
@@ -1742,21 +1322,13 @@ though he may have no blood relationship, and the enemy of Muhammad is
 he who disobeys Allah even though he may have near kinship.
 
 > 96. وقال عليه السلام: إِنَّ أَوْلَى النَّاسِ بِالاْنْبِيَاءِ
-<blockquote dir="rtl">
-  <p>
-أَعْلَمُهُمْ بِمَا جَاؤُوا بِهِ، ثُمَّ تَلاَ (عليه السلام): (إِنَّ
-أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهذَا
-النَّبِيُّ وَالَّذِينَ آمَنُوا واللهُ وَليُّ الْمُؤْمِنينَ)
-  </p>
-</blockquote>
+> أَعْلَمُهُمْ بِمَا جَاؤُوا بِهِ، ثُمَّ تَلاَ (عليه السلام): (إِنَّ
+> أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُوا واللهُ وَليُّ الْمُؤْمِنينَ)
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَالَ (عليه السلام): إِنَّ وَلِيَّ مُحَمَّد مَنْ أَطَاعَ اللهَ
-وإِنْ بَعُدَتْ لُحْمَتُهُ، وَإِنَّ عَدُوَّ مُحَمَّد مَنْ عَصَى اللهَ
-وَإِنْ قَرُبَتْ قَرَابَتُهُ!
-  </p>
-</blockquote>
+> ثُمَّ قَالَ (عليه السلام): إِنَّ وَلِيَّ مُحَمَّد مَنْ أَطَاعَ اللهَ
+> وإِنْ بَعُدَتْ لُحْمَتُهُ، وَإِنَّ عَدُوَّ مُحَمَّد مَنْ عَصَى اللهَ
+> وَإِنْ قَرُبَتْ قَرَابَتُهُ!
 
 Hadith n. 97
 ------------
@@ -1767,11 +1339,7 @@ Sleeping in a state of firm belief is better than praying in a state of
 doubtfulness.
 
 > 97. وَ سَمِعَ عليه السلام رَجُلًا مِنَ الْحَرُورِيَّةِ يَتَهَجَّدُ وَ
-<blockquote dir="rtl">
-  <p>
-يَقْرَأُ فَقَالَ: نَوْمٌ عَلَى يَقِينٍ خَيْرٌ مِنْ صَلَاةٍ فِى شَكٍّ .
-  </p>
-</blockquote>
+> يَقْرَأُ فَقَالَ: نَوْمٌ عَلَى يَقِينٍ خَيْرٌ مِنْ صَلَاةٍ فِى شَكٍّ .
 
 Hadith n. 98
 ------------
@@ -1782,12 +1350,8 @@ mere hearing, because relaters of knowledge are numerous but those who
 guard it are few.
 
 > 98. وَ قَالَ عليه السلام : اعْقِلُوا الْخَبَرَ إِذَا سَمِعْتُمُوهُ
-<blockquote dir="rtl">
-  <p>
-عَقْلَ رِعَايَةٍ لَا عَقْلَ رِوَايَةٍ فَإِنَّ رُوَاةَ الْعِلْمِ
-كَثِيرٌ وَ رُعَاتَهُ قَلِيلٌ .
-  </p>
-</blockquote>
+> عَقْلَ رِعَايَةٍ لَا عَقْلَ رِوَايَةٍ فَإِنَّ رُوَاةَ الْعِلْمِ
+> كَثِيرٌ وَ رُعَاتَهُ قَلِيلٌ .
 
 Hadith n. 99
 ------------
@@ -1801,19 +1365,11 @@ an admission of His Majesty over us and our saying "*wa inna ilayhi raji
 mortal.
 
 > 99. وَ سَمِعَ رَجُلًا يَقُولُ (إِنَّا لِلَّهِ وَ إِنَّا إِلَيْهِ
-<blockquote dir="rtl">
-  <p>
-راجِعُونَ):
-  </p>
-</blockquote>
+> راجِعُونَ):
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ: إِنَّ قَوْلَنَا إِنَّا لِلَّهِ إِقْرَارٌ عَلَى أَنْفُسِنَا
-بِالْمُلْكِ وَ قَوْلَنَا وَ إِنَّا إِلَيْهِ راجِعُونَ إِقْرَارٌ عَلَى
-أَنْفُسِنَا بِالْهُلْكِ .
-  </p>
-</blockquote>
+> فَقَالَ: إِنَّ قَوْلَنَا إِنَّا لِلَّهِ إِقْرَارٌ عَلَى أَنْفُسِنَا
+> بِالْمُلْكِ وَ قَوْلَنَا وَ إِنَّا إِلَيْهِ راجِعُونَ إِقْرَارٌ عَلَى
+> أَنْفُسِنَا بِالْهُلْكِ .
 
 Hadith n. 100
 -------------
@@ -1824,13 +1380,9 @@ know myself better than they do. O My God! Make us better than what they
 think and forgive us what they do not know.
 
 > 100. وَ قَالَ عليه السلام وَ مَدَحَهُ قَوْمٌ فِى وَجْهِهِ فَقَالَ:
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ إِنَّكَ أَعْلَمُ بِى مِنْ نَفْسِى وَ أَنَا أَعْلَمُ
-بِنَفْسِى مِنْهُمْ. اللَّهُمَّ اجْعَلْنَا خَيْراً مِمَّا يَظُنُّونَ وَ
-اغْفِرْ لَنَا مَا لَا يَعْلَمُونَ .
-  </p>
-</blockquote>
+> اللَّهُمَّ إِنَّكَ أَعْلَمُ بِى مِنْ نَفْسِى وَ أَنَا أَعْلَمُ
+> بِنَفْسِى مِنْهُمْ. اللَّهُمَّ اجْعَلْنَا خَيْراً مِمَّا يَظُنُّونَ وَ
+> اغْفِرْ لَنَا مَا لَا يَعْلَمُونَ .
 
 Hadith n. 101
 -------------
@@ -1841,12 +1393,8 @@ small so that it attains bigness, concealing it so that it may manifest
 itself, and doing it quickly so that it becomes pleasant.
 
 > 101. وَ قَالَ عليه السلام: لَا يَسْتَقِيمُ قَضَاءُ الْحَوَائِجِ إِلَّا
-<blockquote dir="rtl">
-  <p>
-بِثَلَاثٍ بِاسْتِصْغَارِهَا لِتَعْظُمَ وَ بِاسْتِكْتَامِهَا لِتَظْهَرَ
-وَ بِتَعْجِيلِهَا لِتَهْنُؤَ .
-  </p>
-</blockquote>
+> بِثَلَاثٍ بِاسْتِصْغَارِهَا لِتَعْظُمَ وَ بِاسْتِكْتَامِهَا لِتَظْهَرَ
+> وَ بِتَعْجِيلِهَا لِتَهْنُؤَ .
 
 Hadith n. 102
 -------------
@@ -1861,16 +1409,12 @@ exercised through the counsel of women, the posting of young boys in
 high positions and the running of the administration by eunuchs.
 
 > 102. وَ قَالَ عليه السلام: يَأْتِى عَلَى النَّاسِ زَمَانٌ لَا
-<blockquote dir="rtl">
-  <p>
-يُقَرَّبُ فِيهِ إِلَّا الْمَاحِلُ وَ لَا يُظَرَّفُ فِيهِ إِلَّا
-الْفَاجِرُ وَ لَا يُضَعَّفُ فِيهِ إِلَّا الْمُنْصِفُ يَعُدُّونَ
-الصَّدَقَةَ فِيهِ غُرْماً وَ صِلَةَ الرَّحِمِ مَنّاً وَ الْعِبَادَةَ
-اسْتِطَالَةً عَلَى النَّاسِ فَعِنْدَ ذَلِكَ يَكُونُ السُّلْطَانُ
-بِمَشُورَةِ النِّسَاءِ وَ إِمَارَةِ الصِّبْيَانِ وَ تَدْبِيرِ
-الْخِصْيَانِ .
-  </p>
-</blockquote>
+> يُقَرَّبُ فِيهِ إِلَّا الْمَاحِلُ وَ لَا يُظَرَّفُ فِيهِ إِلَّا
+> الْفَاجِرُ وَ لَا يُضَعَّفُ فِيهِ إِلَّا الْمُنْصِفُ يَعُدُّونَ
+> الصَّدَقَةَ فِيهِ غُرْماً وَ صِلَةَ الرَّحِمِ مَنّاً وَ الْعِبَادَةَ
+> اسْتِطَالَةً عَلَى النَّاسِ فَعِنْدَ ذَلِكَ يَكُونُ السُّلْطَانُ
+> بِمَشُورَةِ النِّسَاءِ وَ إِمَارَةِ الصِّبْيَانِ وَ تَدْبِيرِ
+> الْخِصْيَانِ .
 
 Hadith n. 103
 -------------
@@ -1885,22 +1429,14 @@ West. If the walker between them gets near to one, he gets farther from
 the other. After all, they are like two fellow-wives.
 
 > 103. وَ رُئِيَ عَلَيْهِ إِزَارٌ خَلَقٌ مَرْقُوعٌ فَقِيلَ لَهُ فِى
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ فَقَالَ :
-  </p>
-</blockquote>
+> ذَلِكَ فَقَالَ :
 
-<blockquote dir="rtl">
-  <p>
-يَخْشَعُ لَهُ الْقَلْبُ وَ تَذِلُّ بِهِ النَّفْسُ وَ يَقْتَدِى بِهِ
-الْمُؤْمِنُونَ إِنَّ الدُّنْيَا وَ الْآخِرَةَ عَدُوَّانِ
-مُتَفَاوِتَانِ وَ سَبِيلَانِ مُخْتَلِفَانِ فَمَنْ أَحَبَّ الدُّنْيَا
-وَ تَوَلَّاهَا أَبْغَضَ الْآخِرَةَ وَ عَادَاهَا وَ هُمَا بِمَنْزِلَةِ
-الْمَشْرِقِ وَ الْمَغْرِبِ وَ مَاشٍ بَيْنَهُمَا كُلَّمَا قَرُبَ مِنْ
-وَاحِدٍ بَعُدَ مِنَ الْآخَرِ وَ هُمَا بَعْدُ ضَرَّتَانِ .
-  </p>
-</blockquote>
+> يَخْشَعُ لَهُ الْقَلْبُ وَ تَذِلُّ بِهِ النَّفْسُ وَ يَقْتَدِى بِهِ
+> الْمُؤْمِنُونَ إِنَّ الدُّنْيَا وَ الْآخِرَةَ عَدُوَّانِ
+> مُتَفَاوِتَانِ وَ سَبِيلَانِ مُخْتَلِفَانِ فَمَنْ أَحَبَّ الدُّنْيَا
+> وَ تَوَلَّاهَا أَبْغَضَ الْآخِرَةَ وَ عَادَاهَا وَ هُمَا بِمَنْزِلَةِ
+> الْمَشْرِقِ وَ الْمَغْرِبِ وَ مَاشٍ بَيْنَهُمَا كُلَّمَا قَرُبَ مِنْ
+> وَاحِدٍ بَعُدَ مِنَ الْآخَرِ وَ هُمَا بَعْدُ ضَرَّتَانِ .
 
 Hadith n. 104
 -------------
@@ -1911,13 +1447,9 @@ stars, then he said to me: "O Nawf, are you awake or sleeping?" **I
 said:** "I am awake, O Amir al-mu'minin." **Then he said:**
 
 > 104. وَ عَنْ نَوْفٍ الْبَكَالِيِّ قَالَ رَأَيْتُ أَمِيرَ
-<blockquote dir="rtl">
-  <p>
-الْمُؤْمِنِينَ ع ذَاتَ لَيْلَةٍ وَ قَدْ خَرَجَ مِنْ فِرَاشِهِ فَنَظَرَ
-فِى النُّجُومِ فَقَالَ لِى يَا نَوْفُ أَ رَاقِدٌ أَنْتَ أَمْ رَامِقٌ
-فَقُلْتُ بَلْ رَامِقٌ فقَال:
-  </p>
-</blockquote>
+> الْمُؤْمِنِينَ ع ذَاتَ لَيْلَةٍ وَ قَدْ خَرَجَ مِنْ فِرَاشِهِ فَنَظَرَ
+> فِى النُّجُومِ فَقَالَ لِى يَا نَوْفُ أَ رَاقِدٌ أَنْتَ أَمْ رَامِقٌ
+> فَقُلْتُ بَلْ رَامِقٌ فقَال:
 
 O Nawf! Blessed be those who abstain from this world and are eager for
 the next world. They are the people who regard this earth as a floor;
@@ -1925,40 +1457,28 @@ its dust as their bed-cloth; and its water as their perfume; they recite
 the Qur'an in low tones and supplicate in high tones and then they are
 cut off from the world like 'Isa (Jesus).
 
-<blockquote dir="rtl">
-  <p>
-يَا نَوْفُ طُوبَى لِلزَّاهِدِينَ فِى الدُّنْيَا الرَّاغِبِينَ فِى
-الْآخِرَةِ أُولَئِكَ قَوْمٌ اتَّخَذُوا الْأَرْضَ بِسَاطاً وَ
-تُرَابَهَا فِرَاشاً وَ مَاءَهَا طِيباً وَ الْقُرْآنَ شِعَاراً وَ
-الدُّعَاءَ دِثَاراً ثُمَّ قَرَضُوا الدُّنْيَا قَرْضاً عَلَى مِنْهَاجِ
-الْمَسِيحِ .
-  </p>
-</blockquote>
+> يَا نَوْفُ طُوبَى لِلزَّاهِدِينَ فِى الدُّنْيَا الرَّاغِبِينَ فِى
+> الْآخِرَةِ أُولَئِكَ قَوْمٌ اتَّخَذُوا الْأَرْضَ بِسَاطاً وَ
+> تُرَابَهَا فِرَاشاً وَ مَاءَهَا طِيباً وَ الْقُرْآنَ شِعَاراً وَ
+> الدُّعَاءَ دِثَاراً ثُمَّ قَرَضُوا الدُّنْيَا قَرْضاً عَلَى مِنْهَاجِ
+> الْمَسِيحِ .
 
 O Nawf! The prophet Dawud (David), peace be upon him, rose up at a
 similar hour one night and said, "This is the hour when whatever a
 person prays for is granted to him unless he is a tax-collector, an
 intelligence man, a police officer, a lute player or a drummer.
 
-<blockquote dir="rtl">
-  <p>
-يَا نَوْفُ إِنَّ دَاوُدَ ع قَامَ فِى مِثْلِ هَذِهِ السَّاعَةِ مِنَ
-اللَّيْلِ فَقَالَ إِنَّهَا لَسَاعَةٌ لَا يَدْعُو فِيهَا عَبْدٌ إِلَّا
-اسْتُجِيبَ لَهُ إِلَّا أَنْ يَكُونَ عَشَّاراً أَوْ عَرِيفاً أَوْ
-شُرْطِيّاً أَوْ صَاحِبَ عَرْطَبَةٍ (وَ هِيَ الطُّنْبُورُ) أَوْ صَاحِبَ
-كَوْبَةٍ (وَ هِيَ الطَّبْلُ)
-  </p>
-</blockquote>
+> يَا نَوْفُ إِنَّ دَاوُدَ ع قَامَ فِى مِثْلِ هَذِهِ السَّاعَةِ مِنَ
+> اللَّيْلِ فَقَالَ إِنَّهَا لَسَاعَةٌ لَا يَدْعُو فِيهَا عَبْدٌ إِلَّا
+> اسْتُجِيبَ لَهُ إِلَّا أَنْ يَكُونَ عَشَّاراً أَوْ عَرِيفاً أَوْ
+> شُرْطِيّاً أَوْ صَاحِبَ عَرْطَبَةٍ (وَ هِيَ الطُّنْبُورُ) أَوْ صَاحِبَ
+> كَوْبَةٍ (وَ هِيَ الطَّبْلُ)
 
 **As-Sayyid ar-Radi says:** It is also said that “'artabah" means “tabl”
 (drum) and "kubah" means 'lute'.
 
-<blockquote dir="rtl">
-  <p>
-وَ قَدْ قِيلَ أَيْضاً إِنَّ الْعَرْطَبَةَ الطَّبْلُ وَ الْكَوْبَةَ
-الطُّنْبُورُ .
-  </p>
-</blockquote>
+> وَ قَدْ قِيلَ أَيْضاً إِنَّ الْعَرْطَبَةَ الطَّبْلُ وَ الْكَوْبَةَ
+> الطُّنْبُورُ .
 
 Hadith n. 105
 -------------
@@ -1971,14 +1491,10 @@ things but has not left them out through forgetfulness, so do not burden
 yourself with them.
 
 > 105. وَ قَالَ عليه السلام: إِنَّ اللَّهَ افْتَرَضَ عَلَيْكُمْ
-<blockquote dir="rtl">
-  <p>
-فَرَائِضَ فَلَا تُضَيِّعُوهَا وَ حَدَّ لَكُمْ حُدُوداً فَلَا
-تَعْتَدُوهَا وَ نَهَاكُمْ عَنْ أَشْيَاءَ فَلَا تَنْتَهِكُوهَا وَ
-سَكَتَ لَكُمْ عَنْ أَشْيَاءَ وَ لَمْ يَدَعْهَا نِسْيَاناً فَلَا
-تَتَكَلَّفُوهَا .
-  </p>
-</blockquote>
+> فَرَائِضَ فَلَا تُضَيِّعُوهَا وَ حَدَّ لَكُمْ حُدُوداً فَلَا
+> تَعْتَدُوهَا وَ نَهَاكُمْ عَنْ أَشْيَاءَ فَلَا تَنْتَهِكُوهَا وَ
+> سَكَتَ لَكُمْ عَنْ أَشْيَاءَ وَ لَمْ يَدَعْهَا نِسْيَاناً فَلَا
+> تَتَكَلَّفُوهَا .
 
 Hadith n. 106
 -------------
@@ -1988,12 +1504,8 @@ something relating to religion to set right their worldly affairs, Allah
 will inflict upon them something more harmful than that.
 
 > 106. وَ قَالَ عليه السلام: لَا يَتْرُكُ النَّاسُ شَيْئاً مِنْ أَمْرِ
-<blockquote dir="rtl">
-  <p>
-دِينِهِمْ لِاسْتِصْلَاحِ دُنْيَاهُمْ إِلَّا فَتَحَ اللَّهُ عَلَيْهِمْ
-مَا هُوَ أَضَرُّ مِنْهُ .
-  </p>
-</blockquote>
+> دِينِهِمْ لِاسْتِصْلَاحِ دُنْيَاهُمْ إِلَّا فَتَحَ اللَّهُ عَلَيْهِمْ
+> مَا هُوَ أَضَرُّ مِنْهُ .
 
 Hadith n. 107
 -------------
@@ -2003,11 +1515,7 @@ of a learned man ruins him while the knowledge he has does not avail
 him.
 
 > 107. وَ قَالَ عليه السلام: رُبَّ عَالِمٍ قَدْ قَتَلَهُ جَهْلُهُ وَ
-<blockquote dir="rtl">
-  <p>
-عِلْمُهُ مَعَهُ لَا يَنْفَعُهُ .
-  </p>
-</blockquote>
+> عِلْمُهُ مَعَهُ لَا يَنْفَعُهُ .
 
 Hadith n. 108
 -------------
@@ -2027,22 +1535,18 @@ eating increases, heaviness of stomach pains it. Thus, every shortness
 is harmful to it and every excess is injurious to it.
 
 > 108. وَ قَالَ عليه السلام: لَقَدْ عُلِّقَ بِنِيَاطِ هَذَا الْإِنْسَانِ
-<blockquote dir="rtl">
-  <p>
-بَضْعَةٌ هِيَ أَعْجَبُ مَا فِيهِ وَ ذَلِكَ الْقَلْبُ وَ ذَلِكَ أَنَّ
-لَهُ مَوَادَّ مِنَ الْحِكْمَةِ وَ أَضْدَاداً مِنْ خِلَافِهَا فَإِنْ
-سَنَحَ لَهُ الرَّجَاءُ أَذَلَّهُ الطَّمَعُ وَ إِنْ هَاجَ بِهِ
-الطَّمَعُ أَهْلَكَهُ الْحِرْصُ وَ إِنْ مَلَكَهُ الْيَأْسُ قَتَلَهُ
-الْأَسَفُ وَ إِنْ عَرَضَ لَهُ الْغَضَبُ اشْتَدَّ بِهِ الْغَيْظُ وَ
-إِنْ أَسْعَدَهُ الرِّضَى نَسِيَ التَّحَفُّظَ وَ إِنْ غَالَهُ الْخَوْفُ
-شَغَلَهُ الْحَذَرُ وَ إِنِ اتَّسَعَ لَهُ الْأَمْرُ اسْتَلَبَتْهُ
-الْغِرَّةُ وَ إِنْ أَفَادَ مَالًا أَطْغَاهُ الْغِنَى وَ إِنْ
-أَصَابَتْهُ مُصِيبَةٌ فَضَحَهُ الْجَزَعُ وَ إِنْ عَضَّتْهُ الْفَاقَةُ
-شَغَلَهُ الْبَلَاءُ وَ إِنْ جَهَدَهُ الْجُوعُ قَعَدَ بِهِ الضَّعْفُ وَ
-إِنْ أَفْرَطَ بِهِ الشِّبَعُ كَظَّتْهُ الْبِطْنَةُ فَكُلُّ تَقْصِيرٍ
-بِهِ مُضِرٌّ وَ كُلُّ إِفْرَاطٍ لَهُ مُفْسِدٌ .
-  </p>
-</blockquote>
+> بَضْعَةٌ هِيَ أَعْجَبُ مَا فِيهِ وَ ذَلِكَ الْقَلْبُ وَ ذَلِكَ أَنَّ
+> لَهُ مَوَادَّ مِنَ الْحِكْمَةِ وَ أَضْدَاداً مِنْ خِلَافِهَا فَإِنْ
+> سَنَحَ لَهُ الرَّجَاءُ أَذَلَّهُ الطَّمَعُ وَ إِنْ هَاجَ بِهِ
+> الطَّمَعُ أَهْلَكَهُ الْحِرْصُ وَ إِنْ مَلَكَهُ الْيَأْسُ قَتَلَهُ
+> الْأَسَفُ وَ إِنْ عَرَضَ لَهُ الْغَضَبُ اشْتَدَّ بِهِ الْغَيْظُ وَ
+> إِنْ أَسْعَدَهُ الرِّضَى نَسِيَ التَّحَفُّظَ وَ إِنْ غَالَهُ الْخَوْفُ
+> شَغَلَهُ الْحَذَرُ وَ إِنِ اتَّسَعَ لَهُ الْأَمْرُ اسْتَلَبَتْهُ
+> الْغِرَّةُ وَ إِنْ أَفَادَ مَالًا أَطْغَاهُ الْغِنَى وَ إِنْ
+> أَصَابَتْهُ مُصِيبَةٌ فَضَحَهُ الْجَزَعُ وَ إِنْ عَضَّتْهُ الْفَاقَةُ
+> شَغَلَهُ الْبَلَاءُ وَ إِنْ جَهَدَهُ الْجُوعُ قَعَدَ بِهِ الضَّعْفُ وَ
+> إِنْ أَفْرَطَ بِهِ الشِّبَعُ كَظَّتْهُ الْبِطْنَةُ فَكُلُّ تَقْصِيرٍ
+> بِهِ مُضِرٌّ وَ كُلُّ إِفْرَاطٍ لَهُ مُفْسِدٌ .
 
 Hadith n. 109
 -------------
@@ -2053,11 +1557,7 @@ behind has to come forward to meet it while he who has exceeded the
 bounds has to return to it.
 
 > 109. وَ قَالَ عليه السلام: نَحْنُ النُّمْرُقَةُ الْوُسْطَى بِهَا
-<blockquote dir="rtl">
-  <p>
-يَلْحَقُ التَّالِى وَ إِلَيْهَا يَرْجِعُ الْغَالِى .
-  </p>
-</blockquote>
+> يَلْحَقُ التَّالِى وَ إِلَيْهَا يَرْجِعُ الْغَالِى .
 
 Hadith n. 110
 -------------
@@ -2068,12 +1568,8 @@ the matter of right), who does not behave like wrong doers and who does
 not run after objects of greed.
 
 > 110. وَ قَالَ عليه السلام: لَا يُقِيمُ أَمْرَ اللَّهِ سُبْحَانَهُ
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ لَا يُصَانِعُ وَ لَا يُضَارِعُ وَ لَا يَتَّبِعُ
-الْمَطَامِعَ .
-  </p>
-</blockquote>
+> إِلَّا مَنْ لَا يُصَانِعُ وَ لَا يُضَارِعُ وَ لَا يَتَّبِعُ
+> الْمَطَامِعَ .
 
 Hadith n. 111
 -------------
@@ -2084,12 +1580,8 @@ be upon him. On this occasion Amir al-mu'minin said:** Even if a
 mountain had loved me, it would have crumbled down.
 
 > 111. وقال عليه السلام وقد توفي سهل بن حُنَيْفٍ الاَنصاري بالكوفة بعد
-<blockquote dir="rtl">
-  <p>
-مرجعه معه من صفين، وكان من أحبّ الناس إليه: لَوْ أَحَبَّنِي جَبَلٌ
-لَتَهَافَتَ
-  </p>
-</blockquote>
+> مرجعه معه من صفين، وكان من أحبّ الناس إليه: لَوْ أَحَبَّنِي جَبَلٌ
+> لَتَهَافَتَ
 
 **As-Sayyid ar-Radi says:** The meaning of this is that since the trial
 of the man who loves Amir al-mu'minin will be so, severe troubles would
@@ -2097,12 +1589,8 @@ leap towards him, and this is not the case except with the God-fearing,
 the virtuous and select good. There is another similar saying of Amir
 al-mu'minin's individuals, namely:
 
-<blockquote dir="rtl">
-  <p>
-معنى ذلك أن المحنة تغلظ عليه فتسرع المصائب إليه و لا يفعل ذلك إلا
-بالأتقياء الأبرار و المصطفين الأخيار و هذا مثل قوله [عليه السلام]:
-  </p>
-</blockquote>
+> معنى ذلك أن المحنة تغلظ عليه فتسرع المصائب إليه و لا يفعل ذلك إلا
+> بالأتقياء الأبرار و المصطفين الأخيار و هذا مثل قوله [عليه السلام]:
 
 Hadith n. 112
 -------------
@@ -2111,20 +1599,12 @@ Hadith n. 112
 should be prepared to face destitution.
 
 > 112. مَنْ أَحَبَّنَا أَهْلَ الْبَيْتِ فَلْيَسْتَعِدَّ لِلْفَقْرِ
-<blockquote dir="rtl">
-  <p>
-جِلْبَاباً.
-  </p>
-</blockquote>
+> جِلْبَاباً.
 
 **As-Sayyid ar-Radi says**: This has been interpreted in a different way
 as well, but on this occasion is not fit to mention here. [^31]
 
-<blockquote dir="rtl">
-  <p>
-و قد يؤول ذلك على معنى آخر ليس هذا موضع ذكره .
-  </p>
-</blockquote>
+> و قد يؤول ذلك على معنى آخر ليس هذا موضع ذكره .
 
 Hadith n. 113
 -------------
@@ -2142,18 +1622,14 @@ attainment is like humility, no honour is like knowledge, no power is
 like forbearance, and no support is more reliable than consultation.
 
 > 113. وقال عليه السلام : لاَ مَالَ أَعْوَدُ مِنَ الْعَقْلِ، وَلاَ
-<blockquote dir="rtl">
-  <p>
-وَحْدَةَ أَوْحَشُ مِنَ الْعُجْب، وَلاَ عَقْلَ كَالتَّدْبِيرِ، وَلاَ
-كَرَمَ كَالتَّقْوَى، وَلاَ قَرين كَحُسنِ الخُلْقِ، وَلاَ مِيرَاثَ
-كَالاْدَبِ، وَلاَ قَائِدَ كَالتَّوْفِيقِ، وَلاَ تِجَارَةَ كَالْعَمَلِ
-الصَّالِحِ، وَلاَ رِبْحَ كَالثَّوَابِ، وَلاَ وَرَعَ كالْوُقُوفِ عِنْدَ
-الشُّبْهَةِ، وَلاَ زُهْدَ كَالزُّهْدِ فِي الْحَرَامِ، ولاَ عِلْمَ
-كَالتَّفَكُّرِ، وَلاَ عِبَادَةَ كَأَدَاءِ الْفَرائِضِ، وَلاَ إِيمَانَ
-كَالْحَيَاءِ وَالصَّبْرِ، وَلاَ حَسَبَ كَالتَّوَاضُعِ، وَلاَ شَرَفَ
-كَالْعِلْمِ، وَلاَ مُظَاهَرَةَ أَوْثَقُ مِن مُشَاوَرَةٍ.
-  </p>
-</blockquote>
+> وَحْدَةَ أَوْحَشُ مِنَ الْعُجْب، وَلاَ عَقْلَ كَالتَّدْبِيرِ، وَلاَ
+> كَرَمَ كَالتَّقْوَى، وَلاَ قَرين كَحُسنِ الخُلْقِ، وَلاَ مِيرَاثَ
+> كَالاْدَبِ، وَلاَ قَائِدَ كَالتَّوْفِيقِ، وَلاَ تِجَارَةَ كَالْعَمَلِ
+> الصَّالِحِ، وَلاَ رِبْحَ كَالثَّوَابِ، وَلاَ وَرَعَ كالْوُقُوفِ عِنْدَ
+> الشُّبْهَةِ، وَلاَ زُهْدَ كَالزُّهْدِ فِي الْحَرَامِ، ولاَ عِلْمَ
+> كَالتَّفَكُّرِ، وَلاَ عِبَادَةَ كَأَدَاءِ الْفَرائِضِ، وَلاَ إِيمَانَ
+> كَالْحَيَاءِ وَالصَّبْرِ، وَلاَ حَسَبَ كَالتَّوَاضُعِ، وَلاَ شَرَفَ
+> كَالْعِلْمِ، وَلاَ مُظَاهَرَةَ أَوْثَقُ مِن مُشَاوَرَةٍ.
 
 Hadith n. 114
 -------------
@@ -2166,14 +1642,10 @@ in the world and among people, if a man entertains a good idea about
 another person he has flung himself in peril.
 
 > 114. وَ قَالَ عليه السلام: إِذَا اسْتَوْلَى الصَّلَاحُ عَلَى
-<blockquote dir="rtl">
-  <p>
-الزَّمَانِ وَ أَهْلِهِ ثُمَّ أَسَاءَ رَجُلٌ الظَّنَّ بِرَجُلٍ لَمْ
-تَظْهَرْ مِنْهُ حَوْبَةٌ فَقَدْ ظَلَمَ وَ إِذَا اسْتَوْلَى الْفَسَادُ
-عَلَى الزَّمَانِ وَ أَهْلِهِ فَأَحْسَنَ رَجُلٌ الظَّنَّ بِرَجُلٍ
-فَقَدْ غَرَّرَ .
-  </p>
-</blockquote>
+> الزَّمَانِ وَ أَهْلِهِ ثُمَّ أَسَاءَ رَجُلٌ الظَّنَّ بِرَجُلٍ لَمْ
+> تَظْهَرْ مِنْهُ حَوْبَةٌ فَقَدْ ظَلَمَ وَ إِذَا اسْتَوْلَى الْفَسَادُ
+> عَلَى الزَّمَانِ وَ أَهْلِهِ فَأَحْسَنَ رَجُلٌ الظَّنَّ بِرَجُلٍ
+> فَقَدْ غَرَّرَ .
 
 Hadith n. 115
 -------------
@@ -2185,12 +1657,8 @@ sickness any moment and who is to be caught (by death) from his place of
 safety.
 
 > 115. وَ قِيلَ لَهُ عليه السلام: كَيْفَ نَجِدُكَ يَا أَمِيرَ
-<blockquote dir="rtl">
-  <p>
-الْمُؤْمِنِينَ فَقَالَ ع: كَيْفَ يَكُونُ حَالُ مَنْ يَفْنَى
-بِبَقَائِهِ وَ يَسْقَمُ بِصِحَّتِهِ وَ يُؤْتَى مِنْ مَأْمَنِهِ .
-  </p>
-</blockquote>
+> الْمُؤْمِنِينَ فَقَالَ ع: كَيْفَ يَكُونُ حَالُ مَنْ يَفْنَى
+> بِبَقَائِهِ وَ يَسْقَمُ بِصِحَّتِهِ وَ يُؤْتَى مِنْ مَأْمَنِهِ .
 
 Hadith n. 116
 -------------
@@ -2203,13 +1671,9 @@ themselves. And Allah does not try anyone as seriously as He tries him
 whom He allows time (to remain sinful).
 
 > 116. وَ قَالَ عليه السلام: كَمْ مِنْ مُسْتَدْرَجٍ بِالْإِحْسَانِ
-<blockquote dir="rtl">
-  <p>
-إِلَيْهِ وَ مَغْرُورٍ بِالسَّتْرِ عَلَيْهِ وَ مَفْتُونٍ بِحُسْنِ
-الْقَوْلِ فِيهِ وَ مَا ابْتَلَى اللَّهُ أَحَداً بِمِثْلِ الْإِمْلَاءِ
-لَهُ .
-  </p>
-</blockquote>
+> إِلَيْهِ وَ مَغْرُورٍ بِالسَّتْرِ عَلَيْهِ وَ مَفْتُونٍ بِحُسْنِ
+> الْقَوْلِ فِيهِ وَ مَا ابْتَلَى اللَّهُ أَحَداً بِمِثْلِ الْإِمْلَاءِ
+> لَهُ .
 
 Hadith n. 117
 -------------
@@ -2219,11 +1683,7 @@ persons will face ruin on account of me: he who loves me with
 exaggeration, and he who hates me intensely.
 
 > 117. وَ قَالَ عليه السلام: هَلَكَ فِيَّ رَجُلَانِ مُحِبٌّ غَالٍ وَ
-<blockquote dir="rtl">
-  <p>
-مُبْغِضٌ قَالٍ .
-  </p>
-</blockquote>
+> مُبْغِضٌ قَالٍ .
 
 Hadith n. 118
 -------------
@@ -2242,12 +1702,8 @@ of venom. An ignorant person who has fallen into deceit is attracted
 towards it but a wise and intelligent man keeps on his guard against it.
 
 > 119. وَ قَالَ عليه السلام: مَثَلُ الدُّنْيَا كَمَثَلِ الْحَيَّةِ
-<blockquote dir="rtl">
-  <p>
-لَيِّنٌ مَسُّهَا وَ السَّمُّ النَّاقِعُ فِى جَوْفِهَا يَهْوِى
-إِلَيْهَا الْغِرُّ الْجَاهِلُ وَ يَحْذَرُهَا ذُو اللُّبِّ الْعَاقِلُ .
-  </p>
-</blockquote>
+> لَيِّنٌ مَسُّهَا وَ السَّمُّ النَّاقِعُ فِى جَوْفِهَا يَهْوِى
+> إِلَيْهَا الْغِرُّ الْجَاهِلُ وَ يَحْذَرُهَا ذُو اللُّبِّ الْعَاقِلُ .
 
 Hadith n. 120
 -------------
@@ -2262,16 +1718,12 @@ those people are more numerous, more contriving and more ugly while we
 are more eloquent, well-wishing and handsome.
 
 > 120. وقال عليه السلام وقد سئل عن قريش: أَمَّا بَنُو مَخْزُومٍ
-<blockquote dir="rtl">
-  <p>
-فَرَيْحَانَةُ قُرَيْشٍ، نُحِبُّ حَدِيثَ رِجَالِهِمْ، وَالنِّكَاحَ فِي
-نِسَائِهِمْ. وَأَمَّا بَنُو عَبْدِ شَمسٍ فَأَبْعَدُهَا رَأْياً،
-وَأَمْنَعُهَا لِمَا وَرَاءَ ظُهُورِهَا. وَأَمَّا نَحْنُ فَأَبْذَلُ
-لِمَا فِي أَيْدِينَا، وَأَسْمَحُ عِنْدَ الْمَوْتِ بِنُفُوسِنَا. وَهُمْ
-أَكْثَرُ وَأَمْكَرُ وَأَنْكَرُ، وَنَحْنُ أَفْصَحُ وَأَنْصَحُ
-وَأَصْبَحُ.
-  </p>
-</blockquote>
+> فَرَيْحَانَةُ قُرَيْشٍ، نُحِبُّ حَدِيثَ رِجَالِهِمْ، وَالنِّكَاحَ فِي
+> نِسَائِهِمْ. وَأَمَّا بَنُو عَبْدِ شَمسٍ فَأَبْعَدُهَا رَأْياً،
+> وَأَمْنَعُهَا لِمَا وَرَاءَ ظُهُورِهَا. وَأَمَّا نَحْنُ فَأَبْذَلُ
+> لِمَا فِي أَيْدِينَا، وَأَسْمَحُ عِنْدَ الْمَوْتِ بِنُفُوسِنَا. وَهُمْ
+> أَكْثَرُ وَأَمْكَرُ وَأَنْكَرُ، وَنَحْنُ أَفْصَحُ وَأَنْصَحُ
+> وَأَصْبَحُ.
 
 Hadith n. 121
 -------------
@@ -2282,12 +1734,8 @@ but its (ill) consequence remains, and. the act whose hardship passes
 away but its reward stays.
 
 > 121. وقال عليه السلام : شَتَّانَ بَيْنَ عَمَلَيْنِ: عَمَلٍ تَذْهَبُ
-<blockquote dir="rtl">
-  <p>
-لَذَّتُهُ وَتَبْقَى تَبِعَتُهُ، وَعَمَلٍ تَذْهَبُ مَؤُونَتُهُ
-وَيَبْقَى أَجْرُهُ.
-  </p>
-</blockquote>
+> لَذَّتُهُ وَتَبْقَى تَبِعَتُهُ، وَعَمَلٍ تَذْهَبُ مَؤُونَتُهُ
+> وَيَبْقَى أَجْرُهُ.
 
 Hadith n. 122
 -------------
@@ -2301,16 +1749,12 @@ estate (as if we will live for good after them). We have ignored every
 preacher, man or woman, and have exposed ourselves to every catastrophe.
 
 > 122. وَ تَبِعَ جِنَازَةً فَسَمِعَ رَجُلًا يَضْحَكُ فَقَالَ كَأَنَّ
-<blockquote dir="rtl">
-  <p>
-الْمَوْتَ فِيهَا عَلَى غَيْرِنَا كُتِبَ وَ كَأَنَّ الْحَقَّ فِيهَا
-عَلَى غَيْرِنَا وَجَبَ وَ كَأَنَّ الَّذِى نَرَى مِنَ الْأَمْوَاتِ
-سَفْرٌ عَمَّا قَلِيلٍ إِلَيْنَا رَاجِعُونَ. نُبَوِّئُهُمْ
-أَجْدَاثَهُمْ وَ نَأْكُلُ تُرَاثَهُمْ كَأَنَّا مُخَلَّدُونَ بَعْدَهُمْ
-ثُمَّ قَدْ نَسِينَا كُلَّ وَاعِظٍ وَ وَاعِظَةٍ وَ رُمِينَا بِكُلِّ
-فَادِحٍ وَ جَائِحَةٍ .
-  </p>
-</blockquote>
+> الْمَوْتَ فِيهَا عَلَى غَيْرِنَا كُتِبَ وَ كَأَنَّ الْحَقَّ فِيهَا
+> عَلَى غَيْرِنَا وَجَبَ وَ كَأَنَّ الَّذِى نَرَى مِنَ الْأَمْوَاتِ
+> سَفْرٌ عَمَّا قَلِيلٍ إِلَيْنَا رَاجِعُونَ. نُبَوِّئُهُمْ
+> أَجْدَاثَهُمْ وَ نَأْكُلُ تُرَاثَهُمْ كَأَنَّا مُخَلَّدُونَ بَعْدَهُمْ
+> ثُمَّ قَدْ نَسِينَا كُلَّ وَاعِظٍ وَ وَاعِظَةٍ وَ رُمِينَا بِكُلِّ
+> فَادِحٍ وَ جَائِحَةٍ .
 
 Hadith n. 123
 -------------
@@ -2323,25 +1767,17 @@ evil, who is pleased with the (Prophet's) sunnah, and who is unconnected
 with innovation (in religion).
 
 > 123. وَ قَالَ عليه السلام: طُوبَى لِمَنْ ذَلَّ فِى نَفْسِهِ وَ طَابَ
-<blockquote dir="rtl">
-  <p>
-كَسْبُهُ وَ صَلَحَتْ سَرِيرَتُهُ وَ حَسُنَتْ خَلِيقَتُهُ وَ أَنْفَقَ
-الْفَضْلَ مِنْ مَالِهِ وَ أَمْسَكَ الْفَضْلَ مِنْ لِسَانِهِ وَ عَزَلَ
-عَنِ النَّاسِ شَرَّهُ وَ وَسِعَتْهُ السُّنَّةُ وَ لَمْ يُنْسَبْ إلَى
-الْبِدْعَةِ .
-  </p>
-</blockquote>
+> كَسْبُهُ وَ صَلَحَتْ سَرِيرَتُهُ وَ حَسُنَتْ خَلِيقَتُهُ وَ أَنْفَقَ
+> الْفَضْلَ مِنْ مَالِهِ وَ أَمْسَكَ الْفَضْلَ مِنْ لِسَانِهِ وَ عَزَلَ
+> عَنِ النَّاسِ شَرَّهُ وَ وَسِعَتْهُ السُّنَّةُ وَ لَمْ يُنْسَبْ إلَى
+> الْبِدْعَةِ .
 
 **As-Sayyid ar-Radi Says:** Some people attribute this and the previous
 saying to the Messenger of Allah (may Allah bless him and his
 descendants).
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى: أقول: و من الناس من ينسب هذا الكلام إلى رسول الله ص و كذلك
-الذى قبله .
-  </p>
-</blockquote>
+> قال الرضى: أقول: و من الناس من ينسب هذا الكلام إلى رسول الله ص و كذلك
+> الذى قبله .
 
 Hadith n. 124
 -------------
@@ -2351,11 +1787,7 @@ woman (with co-wives) is heresy, while the jealousy of a man is a part
 of belief.
 
 > 124. وَ قَالَ عليه السلام: غَيْرَةُ الْمَرْأَةِ كُفْرٌ وَ غَيْرَةُ
-<blockquote dir="rtl">
-  <p>
-الرَّجُلِ إِيمَانٌ .
-  </p>
-</blockquote>
+> الرَّجُلِ إِيمَانٌ .
 
 Hadith n. 125
 -------------
@@ -2367,14 +1799,10 @@ acknowledgement is discharge (of obligations), and discharge of
 obligations is action.
 
 > 125. وَ قَالَ عليه السلام: لَأَنْسُبَنَّ الْإِسْلَامَ نِسْبَةً لَمْ
-<blockquote dir="rtl">
-  <p>
-يَنْسُبْهَا أَحَدٌ قَبْلِى الْإِسْلَامُ هُوَ التَّسْلِيمُ وَ
-التَّسْلِيمُ هُوَ الْيَقِينُ وَ الْيَقِينُ هُوَ التَّصْدِيقُ وَ
-التَّصْدِيقُ هُوَ الْإِقْرَارُ وَ الْإِقْرَارُ هُوَ الْأَدَاءُ وَ
-الْأَدَاءُ هُوَ الْعَمَلُ .
-  </p>
-</blockquote>
+> يَنْسُبْهَا أَحَدٌ قَبْلِى الْإِسْلَامُ هُوَ التَّسْلِيمُ وَ
+> التَّسْلِيمُ هُوَ الْيَقِينُ وَ الْيَقِينُ هُوَ التَّصْدِيقُ وَ
+> التَّصْدِيقُ هُوَ الْإِقْرَارُ وَ الْإِقْرَارُ هُوَ الْأَدَاءُ وَ
+> الْأَدَاءُ هُوَ الْعَمَلُ .
 
 Hadith n. 126
 -------------
@@ -2386,13 +1814,9 @@ Consequently, he passes his life in this world like the destitute, but
 will have to render an account in the next world like the rich.
 
 > 126. وَ قَالَ عليه السلام: عَجِبْتُ لِلْبَخِيلِ يَسْتَعْجِلُ الْفَقْرَ
-<blockquote dir="rtl">
-  <p>
-الَّذِى مِنْهُ هَرَبَ وَ يَفُوتُهُ الْغِنَى الَّذِى إِيَّاهُ طَلَبَ
-فَيَعِيشُ فِى الدُّنْيَا عَيْشَ الْفُقَرَاءِ وَ يُحَاسَبُ فِى
-الْآخِرَةِ حِسَابَ الْأَغْنِيَاءِ.
-  </p>
-</blockquote>
+> الَّذِى مِنْهُ هَرَبَ وَ يَفُوتُهُ الْغِنَى الَّذِى إِيَّاهُ طَلَبَ
+> فَيَعِيشُ فِى الدُّنْيَا عَيْشَ الْفُقَرَاءِ وَ يُحَاسَبُ فِى
+> الْآخِرَةِ حِسَابَ الْأَغْنِيَاءِ.
 
 I wonder at the proud man who was just a drop of semen the other day and
 will turn into a corpse tomorrow. I wonder at the man who doubts Allah
@@ -2401,16 +1825,12 @@ although he sees people dying. I wonder at him who denies the second
 life although he has seen the first life. I wonder at him who inhabits
 this transient abode but ignores the everlasting abode.
 
-<blockquote dir="rtl">
-  <p>
-وَ عَجِبْتُ لِلْمُتَكَبِّرِ الَّذِى كَانَ بِالْأَمْسِ نُطْفَةً وَ
-يَكُونُ غَداً جِيفَةً وَ عَجِبْتُ لِمَنْ شَكَّ فِى اللَّهِ وَ هُوَ
-يَرَى خَلْقَ اللَّهِ وَ عَجِبْتُ لِمَنْ نَسِيَ الْمَوْتَ وَ هُوَ يَرَى
-الْمَوْتَى وَ عَجِبْتُ لِمَنْ أَنْكَرَ النَّشْأَةَ الْأُخْرَى وَ هُوَ
-يَرَى النَّشْأَةَ الْأُولَى وَ عَجِبْتُ لِعَامِرٍ دَارَ الْفَنَاءِ وَ
-تَارِكٍ دَارَ الْبَقَاءِ .
-  </p>
-</blockquote>
+> وَ عَجِبْتُ لِلْمُتَكَبِّرِ الَّذِى كَانَ بِالْأَمْسِ نُطْفَةً وَ
+> يَكُونُ غَداً جِيفَةً وَ عَجِبْتُ لِمَنْ شَكَّ فِى اللَّهِ وَ هُوَ
+> يَرَى خَلْقَ اللَّهِ وَ عَجِبْتُ لِمَنْ نَسِيَ الْمَوْتَ وَ هُوَ يَرَى
+> الْمَوْتَى وَ عَجِبْتُ لِمَنْ أَنْكَرَ النَّشْأَةَ الْأُخْرَى وَ هُوَ
+> يَرَى النَّشْأَةَ الْأُولَى وَ عَجِبْتُ لِعَامِرٍ دَارَ الْفَنَاءِ وَ
+> تَارِكٍ دَارَ الْبَقَاءِ .
 
 Hadith n. 127
 -------------
@@ -2420,12 +1840,8 @@ of actions falls into grief, and Allah has nothing to do with him who
 spares nothing from his wealth in the name of Allah.
 
 > 127. وَ قَالَ عليه السلام: مَنْ قَصَّرَ فِى الْعَمَلِ ابْتُلِيَ
-<blockquote dir="rtl">
-  <p>
-بِالْهَمِّ وَ لَا حَاجَةَ لِلَّهِ فِيمَنْ لَيْسَ لِلَّهِ فِى مَالِهِ
-وَ نَفْسِهِ نَصِيبٌ .
-  </p>
-</blockquote>
+> بِالْهَمِّ وَ لَا حَاجَةَ لِلَّهِ فِيمَنْ لَيْسَ لِلَّهِ فِى مَالِهِ
+> وَ نَفْسِهِ نَصِيبٌ .
 
 Hadith n. 128
 -------------
@@ -2436,12 +1852,8 @@ effects bodies in the same way as it effects plants. In the beginning,
 it destroys them but in the end it gives them fresh leaves. [^32]
 
 > 128. وَ قَالَ عليه السلام: تَوَقَّوُا الْبَرْدَ فِى أَوَّلِهِ وَ
-<blockquote dir="rtl">
-  <p>
-تَلَقَّوْهُ فِى آخِرِهِ فَإِنَّهُ يَفْعَلُ فِى الْأَبْدَانِ كَفِعْلِهِ
-فِى الْأَشْجَارِ أَوَّلُهُ يُحْرِقُ وَ آخِرُهُ يُورِقُ .
-  </p>
-</blockquote>
+> تَلَقَّوْهُ فِى آخِرِهِ فَإِنَّهُ يَفْعَلُ فِى الْأَبْدَانِ كَفِعْلِهِ
+> فِى الْأَشْجَارِ أَوَّلُهُ يُحْرِقُ وَ آخِرُهُ يُورِقُ .
 
 Hadith n. 129
 -------------
@@ -2450,11 +1862,7 @@ Hadith n. 129
 Creator appreciated by you would belittle the creatures in your view.
 
 > 129. وَ قَالَ عليه السلام: عِظَمُ الْخَالِقِ عِنْدَكَ يُصَغِّرُ
-<blockquote dir="rtl">
-  <p>
-الْمَخْلُوقَ فِى عَيْنِكَ .
-  </p>
-</blockquote>
+> الْمَخْلُوقَ فِى عَيْنِكَ .
 
 Hadith n. 130
 -------------
@@ -2471,29 +1879,21 @@ This is the news about those around us; what is the news about things
 around you?
 
 > 130. وَ قَالَ عليه السلام وَ قَدْ رَجَعَ مِنْ صِفِّينَ فَأَشْرَفَ
-<blockquote dir="rtl">
-  <p>
-عَلَى الْقُبُورِ بِظَاهِرِ الْكُوفَةِ: يَا أَهْلَ الدِّيَارِ
-الْمُوحِشَةِ وَ الْمَحَالِّ الْمُقْفِرَةِ وَ الْقُبُورِ الْمُظْلِمَةِ
-يَا أَهْلَ التُّرْبَةِ يَا أَهْلَ الْغُرْبَةِ يَا أَهْلَ الْوَحْدَةِ
-يَا أَهْلَ الْوَحْشَةِ أَنْتُمْ لَنَا فَرَطٌ سَابِقٌ وَ نَحْنُ لَكُمْ
-تَبَعٌ لَاحِقٌ أَمَّا الدُّورُ فَقَدْ سُكِنَتْ وَ أَمَّا الْأَزْوَاجُ
-فَقَدْ نُكِحَتْ وَ أَمَّا الْأَمْوَالُ فَقَدْ قُسِمَتْ هَذَا خَبَرُ
-مَا عِنْدَنَا فَمَا خَبَرُ مَا عِنْدَكُمْ
-  </p>
-</blockquote>
+> عَلَى الْقُبُورِ بِظَاهِرِ الْكُوفَةِ: يَا أَهْلَ الدِّيَارِ
+> الْمُوحِشَةِ وَ الْمَحَالِّ الْمُقْفِرَةِ وَ الْقُبُورِ الْمُظْلِمَةِ
+> يَا أَهْلَ التُّرْبَةِ يَا أَهْلَ الْغُرْبَةِ يَا أَهْلَ الْوَحْدَةِ
+> يَا أَهْلَ الْوَحْشَةِ أَنْتُمْ لَنَا فَرَطٌ سَابِقٌ وَ نَحْنُ لَكُمْ
+> تَبَعٌ لَاحِقٌ أَمَّا الدُّورُ فَقَدْ سُكِنَتْ وَ أَمَّا الْأَزْوَاجُ
+> فَقَدْ نُكِحَتْ وَ أَمَّا الْأَمْوَالُ فَقَدْ قُسِمَتْ هَذَا خَبَرُ
+> مَا عِنْدَنَا فَمَا خَبَرُ مَا عِنْدَكُمْ
 
 **Then Amir al-mu'minin, peace be upon him, turned to his companions and
 said:** Beware If they were allowed to speak they would inform you that:
 
 ***Verily, the best provision is fear of Allah. (Qur'an, 2:197)***
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ الْتَفَتَ إِلَى أَصْحَابِهِ فَقَالَ: أَمَا لَوْ أُذِنَ لَهُمْ
-فِى الْكَلَامِ لَأَخْبَرُوكُمْ أَنَّ خَيْرَ الزَّادِ التَّقْوَى .
-  </p>
-</blockquote>
+> ثُمَّ الْتَفَتَ إِلَى أَصْحَابِهِ فَقَالَ: أَمَا لَوْ أُذِنَ لَهُمْ
+> فِى الْكَلَامِ لَأَخْبَرُوكُمْ أَنَّ خَيْرَ الزَّادِ التَّقْوَى .
 
 Hadith n. 131: About Those Who Falsely Accuse This World
 --------------------------------------------------------
@@ -2514,21 +1914,17 @@ man the world presented an illustration for you and showed you by the
 example of his falling down how you would (also) fall.
 
 > 131. قَالَ عليه السلام: وَ قَدْ سَمِعَ رَجُلًا يَذُمُّ الدُّنْيَا
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا الذَّامُّ لِلدُّنْيَا الْمُغْتَرُّ بِغُرُورِهَا الْمَخْدُوعُ
-بِأَبَاطِيلِهَا أَ تَغْتَرُّ بِالدُّنْيَا ثُمَّ تَذُمُّهَا أَنْتَ
-الْمُتَجَرِّمُ عَلَيْهَا أَمْ هِيَ الْمُتَجَرِّمَةُ عَلَيْكَ مَتَى
-اسْتَهْوَتْكَ أَمْ مَتَى غَرَّتْكَ أَ بِمَصَارِعِ آبَائِكَ مِنَ
-الْبِلَى أَمْ بِمَضَاجِعِ أُمَّهَاتِكَ تَحْتَ الثَّرَى كَمْ عَلَّلْتَ
-بِكَفَّيْكَ وَ كَمْ مَرَّضْتَ بِيَدَيْكَ تَبْتَغِى لَهُمُ الشِّفَاءَ
-وَ تَسْتَوْصِفُ لَهُمُ الْأَطِبَّاءَ غَدَاةَ لَا يُغْنِى عَنْهُمْ
-دَوَاؤُكَ وَ لَا يُجْدِى عَلَيْهِمْ بُكَاؤُكَ لَمْ يَنْفَعْ أَحَدَهُمْ
-إِشْفَاقُكَ وَ لَمْ تُسْعَفْ فِيهِ بِطَلِبَتِكَ وَ لَمْ تَدْفَعْ
-عَنْهُ بِقُوَّتِكَ وَ قَدْ مَثَّلَتْ لَكَ بِهِ الدُّنْيَا نَفْسَكَ وَ
-بِمَصْرَعِهِ مَصْرَعَكَ.
-  </p>
-</blockquote>
+> أَيُّهَا الذَّامُّ لِلدُّنْيَا الْمُغْتَرُّ بِغُرُورِهَا الْمَخْدُوعُ
+> بِأَبَاطِيلِهَا أَ تَغْتَرُّ بِالدُّنْيَا ثُمَّ تَذُمُّهَا أَنْتَ
+> الْمُتَجَرِّمُ عَلَيْهَا أَمْ هِيَ الْمُتَجَرِّمَةُ عَلَيْكَ مَتَى
+> اسْتَهْوَتْكَ أَمْ مَتَى غَرَّتْكَ أَ بِمَصَارِعِ آبَائِكَ مِنَ
+> الْبِلَى أَمْ بِمَضَاجِعِ أُمَّهَاتِكَ تَحْتَ الثَّرَى كَمْ عَلَّلْتَ
+> بِكَفَّيْكَ وَ كَمْ مَرَّضْتَ بِيَدَيْكَ تَبْتَغِى لَهُمُ الشِّفَاءَ
+> وَ تَسْتَوْصِفُ لَهُمُ الْأَطِبَّاءَ غَدَاةَ لَا يُغْنِى عَنْهُمْ
+> دَوَاؤُكَ وَ لَا يُجْدِى عَلَيْهِمْ بُكَاؤُكَ لَمْ يَنْفَعْ أَحَدَهُمْ
+> إِشْفَاقُكَ وَ لَمْ تُسْعَفْ فِيهِ بِطَلِبَتِكَ وَ لَمْ تَدْفَعْ
+> عَنْهُ بِقُوَّتِكَ وَ قَدْ مَثَّلَتْ لَكَ بِهِ الدُّنْيَا نَفْسَكَ وَ
+> بِمَصْرَعِهِ مَصْرَعَكَ.
 
 Certainly, this world is a house of truth for him who appreciates it; a
 place of safety for him who understands it; a house of riches for him
@@ -2539,16 +1935,12 @@ Allah; the place where the revelation of Allah descends; and the
 marketing place for those devoted to Allah. Herein they earned mercy and
 herein they acquired Paradise by way of profit.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدُّنْيَا دَارُ صِدْقٍ لِمَنْ صَدَقَهَا وَ دَارُ عَافِيَةٍ
-لِمَنْ فَهِمَ عَنْهَا وَ دَارُ غِنًى لِمَنْ تَزَوَّدَ مِنْهَا وَ دَارُ
-مَوْعِظَةٍ لِمَنِ اتَّعَظَ بِهَا مَسْجِدُ أَحِبَّاءِ اللَّهِ وَ
-مُصَلَّى مَلَائِكَةِ اللَّهِ وَ مَهْبِطُ وَحْيِ اللَّهِ وَ مَتْجَرُ
-أَوْلِيَاءِ اللَّهِ اكْتَسَبُوا فِيهَا الرَّحْمَةَ وَ رَبِحُوا فِيهَا
-الْجَنَّةَ.
-  </p>
-</blockquote>
+> إِنَّ الدُّنْيَا دَارُ صِدْقٍ لِمَنْ صَدَقَهَا وَ دَارُ عَافِيَةٍ
+> لِمَنْ فَهِمَ عَنْهَا وَ دَارُ غِنًى لِمَنْ تَزَوَّدَ مِنْهَا وَ دَارُ
+> مَوْعِظَةٍ لِمَنِ اتَّعَظَ بِهَا مَسْجِدُ أَحِبَّاءِ اللَّهِ وَ
+> مُصَلَّى مَلَائِكَةِ اللَّهِ وَ مَهْبِطُ وَحْيِ اللَّهِ وَ مَتْجَرُ
+> أَوْلِيَاءِ اللَّهِ اكْتَسَبُوا فِيهَا الرَّحْمَةَ وَ رَبِحُوا فِيهَا
+> الْجَنَّةَ.
 
 Therefore, who can abuse it when it has announced its departure and
 called out that it would leave! It had given news of its own destruction
@@ -2562,18 +1954,14 @@ they bore it in mind. It related to them (things of the next life) and
 they acknowledged them. It preached to them and they took lesson
 therefrom. [^33]
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ ذَا يَذُمُّهَا وَ قَدْ آذَنَتْ بِبَيْنِهَا وَ نَادَتْ
-بِفِرَاقِهَا وَ نَعَتْ نَفْسَهَا وَ أَهْلَهَا فَمَثَّلَتْ لَهُمْ
-بِبَلَائِهَا الْبَلَاءَ وَ شَوَّقَتْهُمْ بِسُرُورِهَا إِلَى السُّرُورِ
-رَاحَتْ بِعَافِيَةٍ وَ ابْتَكَرَتْ بِفَجِيعَةٍ تَرْغِيباً وَ
-تَرْهِيباً وَ تَخْوِيفاً وَ تَحْذِيراً فَذَمَّهَا رِجَالٌ غَدَاةَ
-النَّدَامَةِ وَ حَمِدَهَا آخَرُونَ يَوْمَ الْقِيَامَةِ ذَكَّرَتْهُمُ
-الدُّنْيَا فَتَذَكَّرُوا وَ حَدَّثَتْهُمْ فَصَدَّقُوا وَ وَعَظَتْهُمْ
-فَاتَّعَظُوا .
-  </p>
-</blockquote>
+> فَمَنْ ذَا يَذُمُّهَا وَ قَدْ آذَنَتْ بِبَيْنِهَا وَ نَادَتْ
+> بِفِرَاقِهَا وَ نَعَتْ نَفْسَهَا وَ أَهْلَهَا فَمَثَّلَتْ لَهُمْ
+> بِبَلَائِهَا الْبَلَاءَ وَ شَوَّقَتْهُمْ بِسُرُورِهَا إِلَى السُّرُورِ
+> رَاحَتْ بِعَافِيَةٍ وَ ابْتَكَرَتْ بِفَجِيعَةٍ تَرْغِيباً وَ
+> تَرْهِيباً وَ تَخْوِيفاً وَ تَحْذِيراً فَذَمَّهَا رِجَالٌ غَدَاةَ
+> النَّدَامَةِ وَ حَمِدَهَا آخَرُونَ يَوْمَ الْقِيَامَةِ ذَكَّرَتْهُمُ
+> الدُّنْيَا فَتَذَكَّرُوا وَ حَدَّثَتْهُمْ فَصَدَّقُوا وَ وَعَظَتْهُمْ
+> فَاتَّعَظُوا .
 
 Hadith n. 132
 -------------
@@ -2583,12 +1971,8 @@ Allah who calls out every day, "Beget children for death, collect wealth
 for destruction, and raise construction for ruin."
 
 > 132. وَ قَالَ عليه السلام: إِنَّ لِلَّهِ مَلَكاً يُنَادِى فِى كُلِّ
-<blockquote dir="rtl">
-  <p>
-يَوْمٍ لِدُوا لِلْمَوْتِ وَ اجْمَعُوا لِلْفَنَاءِ وَ ابْنُوا
-لِلْخَرَابِ .
-  </p>
-</blockquote>
+> يَوْمٍ لِدُوا لِلْمَوْتِ وَ اجْمَعُوا لِلْفَنَاءِ وَ ابْنُوا
+> لِلْخَرَابِ .
 
 Hadith n. 133
 -------------
@@ -2600,12 +1984,8 @@ thus ruined it, and the other is the man who purchased his self (by
 control against his passions) and freed it.
 
 > 133. وَ قَالَ عليه السلام: الدُّنْيَا دَارُ مَمَرٍّ لَا دَارُ مَقَرٍّ
-<blockquote dir="rtl">
-  <p>
-وَ النَّاسُ فِيهَا رَجُلَانِ رَجُلٌ بَاعَ فِيهَا نَفْسَهُ
-فَأَوْبَقَهَا وَ رَجُلٌ ابْتَاعَ نَفْسَهُ فَأَعْتَقَهَا.
-  </p>
-</blockquote>
+> وَ النَّاسُ فِيهَا رَجُلَانِ رَجُلٌ بَاعَ فِيهَا نَفْسَهُ
+> فَأَوْبَقَهَا وَ رَجُلٌ ابْتَاعَ نَفْسَهُ فَأَعْتَقَهَا.
 
 Hadith n. 134
 -------------
@@ -2615,12 +1995,8 @@ friend unless he affords protection to his comrade on three occasions:
 in his adversity, in his absence and at his death.
 
 > 134. وَ قَالَ عليه السلام: لَا يَكُونُ الصَّدِيقُ صَدِيقاً حَتَّى
-<blockquote dir="rtl">
-  <p>
-يَحْفَظَ أَخَاهُ فِى ثَلَاثٍ فِى نَكْبَتِهِ وَ غَيْبَتِهِ وَ وَفَاتِهِ
-.
-  </p>
-</blockquote>
+> يَحْفَظَ أَخَاهُ فِى ثَلَاثٍ فِى نَكْبَتِهِ وَ غَيْبَتِهِ وَ وَفَاتِهِ
+> .
 
 Hadith n. 135
 -------------
@@ -2633,14 +2009,10 @@ forgiveness is not deprived of forgiveness; and he who is allowed to be
 grateful is not deprived of furtherance of favours.
 
 > 135. وَ قَالَ عليه السلام: مَنْ أُعْطِيَ أَرْبَعاً لَمْ يُحْرَمْ
-<blockquote dir="rtl">
-  <p>
-أَرْبَعاً مَنْ أُعْطِيَ الدُّعَاءَ لَمْ يُحْرَمِ الْإِجَابَةَ وَ مَنْ
-أُعْطِيَ التَّوْبَةَ لَمْ يُحْرَمِ الْقَبُولَ وَ مَنْ أُعْطِيَ
-الِاسْتِغْفَارَ لَمْ يُحْرَمِ الْمَغْفِرَةَ وَ مَنْ أُعْطِيَ الشُّكْرَ
-لَمْ يُحْرَمِ الزِّيَادَةَ .
-  </p>
-</blockquote>
+> أَرْبَعاً مَنْ أُعْطِيَ الدُّعَاءَ لَمْ يُحْرَمِ الْإِجَابَةَ وَ مَنْ
+> أُعْطِيَ التَّوْبَةَ لَمْ يُحْرَمِ الْقَبُولَ وَ مَنْ أُعْطِيَ
+> الِاسْتِغْفَارَ لَمْ يُحْرَمِ الْمَغْفِرَةَ وَ مَنْ أُعْطِيَ الشُّكْرَ
+> لَمْ يُحْرَمِ الزِّيَادَةَ .
 
 **As-Sayyid ar-Radi says:** This is confirmed by the Book of Allah.
 About praying, Allah says: "*Call you to Me, I will answer you"*
@@ -2654,17 +2026,13 @@ then turn (to Allah) soon (after); these (are those) Allah will turn
 (merciful) to them; and Allah is All-knowing, All-wise"* (Qur'an, 4:
 17).
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى و تصديق ذلك كتاب الله قال الله فى الدعاء ادْعُونِى
-أَسْتَجِبْ لَكُمْ و قال فى الاستغفار وَ مَنْ يَعْمَلْ سُوءاً أَوْ
-يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُوراً
-رَحِيماً و قال فى الشكر لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ و قال فى
-التوبة إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ
-السُّوءَ بِجَهالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُولئِكَ يَتُوبُ
-اللَّهُ عَلَيْهِمْ وَ كانَ اللَّهُ عَلِيماً حَكِيماً.
-  </p>
-</blockquote>
+> قال الرضى و تصديق ذلك كتاب الله قال الله فى الدعاء ادْعُونِى
+> أَسْتَجِبْ لَكُمْ و قال فى الاستغفار وَ مَنْ يَعْمَلْ سُوءاً أَوْ
+> يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُوراً
+> رَحِيماً و قال فى الشكر لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ و قال فى
+> التوبة إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ
+> السُّوءَ بِجَهالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُولئِكَ يَتُوبُ
+> اللَّهُ عَلَيْهِمْ وَ كانَ اللَّهُ عَلِيماً حَكِيماً.
 
 Hadith n. 136
 -------------
@@ -2677,12 +2045,8 @@ fasting. The jihad of a woman is to afford pleasant company to her
 husband.
 
 > 136. وَ قَالَ عليه السلام: الصَّلَاةُ قُرْبَانُ كُلِّ تَقِيٍّ وَ
-<blockquote dir="rtl">
-  <p>
-الْحَجُّ جِهَادُ كُلِّ ضَعِيفٍ وَ لِكُلِّ شَيْ‏ءٍ زَكَاةٌ وَ زَكَاةُ
-الْبَدَنِ الصِّيَامُ وَ جِهَادُ الْمَرْأَةِ حُسْنُ التَّبَعُّلِ .
-  </p>
-</blockquote>
+> الْحَجُّ جِهَادُ كُلِّ ضَعِيفٍ وَ لِكُلِّ شَيْ‏ءٍ زَكَاةٌ وَ زَكَاةُ
+> الْبَدَنِ الصِّيَامُ وَ جِهَادُ الْمَرْأَةِ حُسْنُ التَّبَعُّلِ .
 
 Hadith n. 137
 -------------
@@ -2699,11 +2063,7 @@ Hadith n. 138
 good return is generous in giving.
 
 > 138. وَ قَالَ عليه السلام: مَنْ أَيْقَنَ بِالْخَلَفِ جَادَ
-<blockquote dir="rtl">
-  <p>
-بِالْعَطِيَّةِ .
-  </p>
-</blockquote>
+> بِالْعَطِيَّةِ .
 
 Hadith n. 139
 -------------
@@ -2712,11 +2072,7 @@ Hadith n. 139
 allowed according to need.
 
 > 139. وَ قَالَ عليه السلام: تَنْزِلُ الْمَعُونَةُ عَلَى قَدْرِ
-<blockquote dir="rtl">
-  <p>
-الْمَئُونَةِ .
-  </p>
-</blockquote>
+> الْمَئُونَةِ .
 
 Hadith n. 140
 -------------
@@ -2758,11 +2114,7 @@ according to the affliction. He who beats his hand on the thigh in his
 affliction ruins all his good actions.
 
 > 144. وقال عليه السلام : يَنْزِلُ الصَّبْرُ عَلَى قَدْرِ الْمُصِيبَةِ،
-<blockquote dir="rtl">
-  <p>
-وَمَنْ ضَرَبَ يَدَهُ عَلَى فَخِذِهِ عِنْدَ مُصِيبَتِهِ حَبِطَ أجْرُهُ.
-  </p>
-</blockquote>
+> وَمَنْ ضَرَبَ يَدَهُ عَلَى فَخِذِهِ عِنْدَ مُصِيبَتِهِ حَبِطَ أجْرُهُ.
 
 Hadith n. 145
 -------------
@@ -2774,12 +2126,8 @@ and hardship. The sleep as well as the eating and drinking of the
 intelligent (God-knowing) person is far better.
 
 > 145. وقال عليه السلام : كَمْ مِنْ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ
-<blockquote dir="rtl">
-  <p>
-إِلاَّ الظَّمَأُ، وَكَمْ مِنْ قَائِمٍ لَيْسَ لَهُ مِنْ قِيَامِهِ
-إِلاَّ الْعَنَاءُ، حَبَّذَا نَوْمُ الاْكْيَاسِ وَ إِفْطَارُهُمْ.
-  </p>
-</blockquote>
+> إِلاَّ الظَّمَأُ، وَكَمْ مِنْ قَائِمٍ لَيْسَ لَهُ مِنْ قِيَامِهِ
+> إِلاَّ الْعَنَاءُ، حَبَّذَا نَوْمُ الاْكْيَاسِ وَ إِفْطَارُهُمْ.
 
 Hadith n. 146
 -------------
@@ -2789,21 +2137,13 @@ by charity; guard your wealth by paying Allah's share; and ward off the
 waves of calamity by praying.
 
 > 146. وقال عليه السلام : سُوسُواإِيمَانَكُمْ بِالصَّدَقَةِ، وَحَصِّنُوا
-<blockquote dir="rtl">
-  <p>
-أَمْوَالَكُمْ بِالزَّكَاةِ، وَادْفَعُوا أَمْواجَ الْبَلاَءِ
-بِالدُّعَاءِ.
-  </p>
-</blockquote>
+> أَمْوَالَكُمْ بِالزَّكَاةِ، وَادْفَعُوا أَمْواجَ الْبَلاَءِ
+> بِالدُّعَاءِ.
 
 Hadith n. 147: Amir Al-Mu'minin's Conversation With Kumayl Ibn Ziyad An-Nakha'i
 -------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له عليه السلام لكُمَيْل بن زياد النخعي
-  </p>
-</blockquote>
+> ومن كلام له عليه السلام لكُمَيْل بن زياد النخعي
 
 **147. Kumayl ibn Ziyad An-Nakha'i** [^34] **has related:** **Amir
 al-mu'minin, peace be upon him, caught hold of my hand and took me to
@@ -2811,21 +2151,13 @@ the graveyard. When he had passed through the graveyard and left the
 city behind, he breathed a deep sigh and said**:
 
 > 147. قال كُمَيْل بن زياد: أخذ بيدي أميرالمؤمنين علي بن أبي طالب عليه
-<blockquote dir="rtl">
-  <p>
-السلام ، فأخرجني إلى الجبّان فلمّا أصحر تنفّس الصّعَدَاء ثمّ قال:
-  </p>
-</blockquote>
+> السلام ، فأخرجني إلى الجبّان فلمّا أصحر تنفّس الصّعَدَاء ثمّ قال:
 
 O Kumayl, these hearts are containers. The best of them is that which
 preserves (its contents). So, preserve what I say to you.
 
-<blockquote dir="rtl">
-  <p>
-يَا كُمَيْل بْن زِيَادٍ، إِنَّ هذهِ الْقُلُوبَ أَوْعِيَةٌ فَخَيْرُهَا
-أَوْعَاهَا فَاحْفَظْ عَنِّي مَا أَقُولُ لَكَ:
-  </p>
-</blockquote>
+> يَا كُمَيْل بْن زِيَادٍ، إِنَّ هذهِ الْقُلُوبَ أَوْعِيَةٌ فَخَيْرُهَا
+> أَوْعَاهَا فَاحْفَظْ عَنِّي مَا أَقُولُ لَكَ:
 
 People are of three types: One is the scholar and divine; then the
 seeker of knowledge who is also on the way to deliverance. Then (lastly)
@@ -2833,41 +2165,29 @@ the common rot who run after every caller and bend in the direction of
 every wind. They seek no light from the effulgence of knowledge and do
 not take protection of any reliable support.
 
-<blockquote dir="rtl">
-  <p>
-النَّاسُ ثَلاَثَةٌ: فَعَالِمٌ رَبَّانِيٌّ وَمُتَعَلِّمٌ عَلَى سَبِيلِ
-نَجَاةٍ، وَهَمَجٌ رَعَاعٌ أَتْبَاعُ كُلِّ نَاعِقٍ يَمِيلُونَ مَعَ
-كُلِّ رِيحٍ، لَمْ يَسْتَضِيئُوا بِنُورِ الْعِلْمِ، وَلَمْ يَلْجَؤُوا
-إِلَى رُكْنٍ وَثِيقٍ.
-  </p>
-</blockquote>
+> النَّاسُ ثَلاَثَةٌ: فَعَالِمٌ رَبَّانِيٌّ وَمُتَعَلِّمٌ عَلَى سَبِيلِ
+> نَجَاةٍ، وَهَمَجٌ رَعَاعٌ أَتْبَاعُ كُلِّ نَاعِقٍ يَمِيلُونَ مَعَ
+> كُلِّ رِيحٍ، لَمْ يَسْتَضِيئُوا بِنُورِ الْعِلْمِ، وَلَمْ يَلْجَؤُوا
+> إِلَى رُكْنٍ وَثِيقٍ.
 
 O Kumayl, knowledge is better than wealth. Knowledge guards you, while
 you have to guard the wealth. Wealth decreases by spending, while
 knowledge multiplies by spending, and the results of wealth die as
 wealth decays.
 
-<blockquote dir="rtl">
-  <p>
-يَا كُمَيْلُ، الْعِلْمُ خَيْرٌ مِنَ الْمَالِ: الْعِلْمُ يَحْرُسُكَ
-وَأَنْتَ تَحْرُسُ المَالَ، وَالْمَالُ تَنْقُصُهُ النَّفَقَةُ،
-وَالْعِلْمُ يَزْكُوعَلَى الاْنْفَاقِ، وَصَنِيعُ الْمَالِ يَزُولُ
-بِزَوَالِهِ.
-  </p>
-</blockquote>
+> يَا كُمَيْلُ، الْعِلْمُ خَيْرٌ مِنَ الْمَالِ: الْعِلْمُ يَحْرُسُكَ
+> وَأَنْتَ تَحْرُسُ المَالَ، وَالْمَالُ تَنْقُصُهُ النَّفَقَةُ،
+> وَالْعِلْمُ يَزْكُوعَلَى الاْنْفَاقِ، وَصَنِيعُ الْمَالِ يَزُولُ
+> بِزَوَالِهِ.
 
 O Kumayl, knowledge is belief which is acted upon. With it man acquires
 obedience during his life and a good name after his death. Knowledge is
 the ruler while wealth is ruled upon.
 
-<blockquote dir="rtl">
-  <p>
-يَا كُمَيْلَ بْنَ زِيَادٍ مَعْرِفَةُ الْعِلْمِ دِينٌ يُدَانُ بِهِ بِهِ
-يَكْسِبُ الْإِنْسَانُ الطَّاعَةَ فِى حَيَاتِهِ وَ جَمِيلَ
-الْأُحْدُوثَةِ بَعْدَ وَفَاتِهِ وَ الْعِلْمُ حَاكِمٌ وَ الْمَالُ
-مَحْكُومٌ عَلَيْهِ.
-  </p>
-</blockquote>
+> يَا كُمَيْلَ بْنَ زِيَادٍ مَعْرِفَةُ الْعِلْمِ دِينٌ يُدَانُ بِهِ بِهِ
+> يَكْسِبُ الْإِنْسَانُ الطَّاعَةَ فِى حَيَاتِهِ وَ جَمِيلَ
+> الْأُحْدُوثَةِ بَعْدَ وَفَاتِهِ وَ الْعِلْمُ حَاكِمٌ وَ الْمَالُ
+> مَحْكُومٌ عَلَيْهِ.
 
 O Kumayl, those who amass wealth are dead even though they may be living
 while those endowed with knowledge will remain as long as the world
@@ -2881,19 +2201,15 @@ pleas he would lord over His devotees. Or he was one who was obedient to
 the hearers of truth but {here was no intelligence in his bosom. At the
 first appearance of doubt he would entertain misgivings in his heart.
 
-<blockquote dir="rtl">
-  <p>
-يَا كُمَيْلُ هَلَكَ خُزَّانُ الْأَمْوَالِ وَ هُمْ أَحْيَاءٌ وَ
-الْعُلَمَاءُ بَاقُونَ مَا بَقِيَ الدَّهْرُ أَعْيَانُهُمْ مَفْقُودَةٌ
-وَ أَمْثَالُهُمْ فِى الْقُلُوبِ مَوْجُودَةٌ هَا إِنَّ هَاهُنَا
-لَعِلْماً جَمّاً وَ أَشَارَ بِيَدِهِ إِلَى صَدْرِهِ لَوْ أَصَبْتُ لَهُ
-حَمَلَةً بَلَى أَصَبْتُ لَقِناً غَيْرَ مَأْمُونٍ عَلَيْهِ
-مُسْتَعْمِلًا آلَةَ الدِّينِ لِلدُّنْيَا وَ مُسْتَظْهِراً بِنِعَمِ
-اللَّهِ عَلَى عِبَادِهِ وَ بِحُجَجِهِ عَلَى أَوْلِيَائِهِ أَوْ
-مُنْقَاداً لِحَمَلَةِ الْحَقِّ لَا بَصِيرَةَ لَهُ فِى أَحْنَائِهِ
-يَنْقَدِحُ الشَّكُّ فِى قَلْبِهِ لِأَوَّلِ عَارِضٍ مِنْ شُبْهَةٍ.
-  </p>
-</blockquote>
+> يَا كُمَيْلُ هَلَكَ خُزَّانُ الْأَمْوَالِ وَ هُمْ أَحْيَاءٌ وَ
+> الْعُلَمَاءُ بَاقُونَ مَا بَقِيَ الدَّهْرُ أَعْيَانُهُمْ مَفْقُودَةٌ
+> وَ أَمْثَالُهُمْ فِى الْقُلُوبِ مَوْجُودَةٌ هَا إِنَّ هَاهُنَا
+> لَعِلْماً جَمّاً وَ أَشَارَ بِيَدِهِ إِلَى صَدْرِهِ لَوْ أَصَبْتُ لَهُ
+> حَمَلَةً بَلَى أَصَبْتُ لَقِناً غَيْرَ مَأْمُونٍ عَلَيْهِ
+> مُسْتَعْمِلًا آلَةَ الدِّينِ لِلدُّنْيَا وَ مُسْتَظْهِراً بِنِعَمِ
+> اللَّهِ عَلَى عِبَادِهِ وَ بِحُجَجِهِ عَلَى أَوْلِيَائِهِ أَوْ
+> مُنْقَاداً لِحَمَلَةِ الْحَقِّ لَا بَصِيرَةَ لَهُ فِى أَحْنَائِهِ
+> يَنْقَدِحُ الشَّكُّ فِى قَلْبِهِ لِأَوَّلِ عَارِضٍ مِنْ شُبْهَةٍ.
 
 So, neither this nor that was good enough. Either the man is eager for
 pleasures, easily led away by passions, or is covetous for collecting
@@ -2901,15 +2217,11 @@ and hoarding wealth. Neither of them has any regard for religion in any
 matter. The nearest example of these is the loose cattle. This is the
 way that knowledge dies away with the death of its bearers.
 
-<blockquote dir="rtl">
-  <p>
-أَلَا لَا ذَا وَ لَا ذَاكَ أَوْ مَنْهُوماً بِاللَّذَّةِ سَلِسَ
-الْقِيَادِ لِلشَّهْوَةِ أَوْ مُغْرَماً بِالْجَمْعِ وَ الِادِّخَارِ
-لَيْسَا مِنْ رُعَاةِ الدِّينِ فِى شَيْ‏ءٍ أَقْرَبُ شَيْ‏ءٍ شَبَهاً
-بِهِمَا الْأَنْعَامُ السَّائِمَةُ كَذَلِكَ يَمُوتُ الْعِلْمُ بِمَوْتِ
-حَامِلِيهِ.
-  </p>
-</blockquote>
+> أَلَا لَا ذَا وَ لَا ذَاكَ أَوْ مَنْهُوماً بِاللَّذَّةِ سَلِسَ
+> الْقِيَادِ لِلشَّهْوَةِ أَوْ مُغْرَماً بِالْجَمْعِ وَ الِادِّخَارِ
+> لَيْسَا مِنْ رُعَاةِ الدِّينِ فِى شَيْ‏ءٍ أَقْرَبُ شَيْ‏ءٍ شَبَهاً
+> بِهِمَا الْأَنْعَامُ السَّائِمَةُ كَذَلِكَ يَمُوتُ الْعِلْمُ بِمَوْتِ
+> حَامِلِيهِ.
 
 O My God! Yes; but the earth is never devoid of those who maintain
 Allah's plea either openly and reputedly or, being afraid, as hidden in
@@ -2919,16 +2231,12 @@ great in esteem before Allah. Through them Allah guards His pleas and
 proofs till they entrust them to others like themselves and sow the
 seeds thereof in the hearts of those who are similar to them.
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ بَلَى! لاَ تَخْلُو الاْرْضُ مِنْ قَائِمٍ لله بِحُجَّةٍ،
-إِمَّا ظَاهِراً مَشْهُوراً، أوْ خَائِفاً مَغْمُوراً لِئَلاَّ تَبْطُلَ
-حُجَجُ اللهِ وَبَيِّنَاتُهُ. وَكَمْ ذَا وَأَيْنَ أُولئِكَ؟ أُولئِكَ ـ
-وَاللَّهِ ـ الاْقَلُّونَ عَدَداً، وَالاْعْظَمُونَ قَدْراً، يَحْفَظُ
-اللهُ بِهِمْ حُجَجَهُ وَبَيِّنَاتِهِ، حَتَّى يُودِعُوهَا
-نُظَرَاءَهُمْ، وَيَزْرَعُوهَا فِي قُلُوبِ أَشْبَاهِهِمْ،
-  </p>
-</blockquote>
+> اللَّهُمَّ بَلَى! لاَ تَخْلُو الاْرْضُ مِنْ قَائِمٍ لله بِحُجَّةٍ،
+> إِمَّا ظَاهِراً مَشْهُوراً، أوْ خَائِفاً مَغْمُوراً لِئَلاَّ تَبْطُلَ
+> حُجَجُ اللهِ وَبَيِّنَاتُهُ. وَكَمْ ذَا وَأَيْنَ أُولئِكَ؟ أُولئِكَ ـ
+> وَاللَّهِ ـ الاْقَلُّونَ عَدَداً، وَالاْعْظَمُونَ قَدْراً، يَحْفَظُ
+> اللهُ بِهِمْ حُجَجَهُ وَبَيِّنَاتِهِ، حَتَّى يُودِعُوهَا
+> نُظَرَاءَهُمْ، وَيَزْرَعُوهَا فِي قُلُوبِ أَشْبَاهِهِمْ،
 
 Knowledge has led them to real understanding and so they have associated
 themselves with the spirit of conviction. They take easy what the
@@ -2940,22 +2248,14 @@ callers to His religion.
 Oh, oh, how I yearn to see them! Go away now, O Kumayl, wherever you
 wish!
 
-<blockquote dir="rtl">
-  <p>
-هَجَمَ بِهِمُ الْعِلْمُ عَلَى حَقِيقَةِ الْبَصِيرَةِ، وَبَاشَرُوا
-رُوحَ الْيَقِينِ، وَاسْتَلاَنُوامَا اسْتَوْعَرَهُ الْمُتْرَفُونَ
-وَأَنِسُوا بِمَا اسْتَوْحَشَ مِنْهُ الْجَاهِلُونَ، وَصَحِبُوا
-الدُّنْيَا بِأَبْدَانٍ أَرْوَاحُهَا مُعَلَّقَةٌ بِالْـمَحَلِّ
-الاْعْلَى، أُولئِكَ خُلَفَاءُ اللهِ فِي أَرْضِهِ، وَالدُّعَاةُ إِلَى
-دِينِهِ،
-  </p>
-</blockquote>
+> هَجَمَ بِهِمُ الْعِلْمُ عَلَى حَقِيقَةِ الْبَصِيرَةِ، وَبَاشَرُوا
+> رُوحَ الْيَقِينِ، وَاسْتَلاَنُوامَا اسْتَوْعَرَهُ الْمُتْرَفُونَ
+> وَأَنِسُوا بِمَا اسْتَوْحَشَ مِنْهُ الْجَاهِلُونَ، وَصَحِبُوا
+> الدُّنْيَا بِأَبْدَانٍ أَرْوَاحُهَا مُعَلَّقَةٌ بِالْـمَحَلِّ
+> الاْعْلَى، أُولئِكَ خُلَفَاءُ اللهِ فِي أَرْضِهِ، وَالدُّعَاةُ إِلَى
+> دِينِهِ،
 
-<blockquote dir="rtl">
-  <p>
-آهِ آهِ شَوْقاً إِلَى رُؤْيَتِهِمْ! انْصَرِفْ إذَا شِئْتَ!
-  </p>
-</blockquote>
+> آهِ آهِ شَوْقاً إِلَى رُؤْيَتِهِمْ! انْصَرِفْ إذَا شِئْتَ!
 
 Hadith n. 148
 -------------
@@ -2992,19 +2292,15 @@ the virtuous but does not behave like them; he hates the vicious but
 himself is one of them; he dislikes death because of the excess of his
 sins but adheres to that for which he is afraid of death.
 
-<blockquote dir="rtl">
-  <p>
-لَا تَكُنْ مِمَّنْ يَرْجُو الْآخِرَةَ بِغَيْرِ عَمَلٍ وَ يُرَجِّى
-التَّوْبَةَ بِطُولِ الْأَمَلِ يَقُولُ فِى الدُّنْيَا بِقَوْلِ
-الزَّاهِدِينَ وَ يَعْمَلُ فِيهَا بِعَمَلِ الرَّاغِبِينَ إِنْ أُعْطِيَ
-مِنْهَا لَمْ يَشْبَعْ وَ إِنْ مُنِعَ مِنْهَا لَمْ يَقْنَعْ يَعْجِزُ
-عَنْ شُكْرِ مَا أُوتِيَ وَ يَبْتَغِى الزِّيَادَةَ فِيمَا بَقِيَ
-يَنْهَى وَ لَا يَنْتَهِى وَ يَأْمُرُ بِمَا لَا يَأْتِى يُحِبُّ
-الصَّالِحِينَ وَ لَا يَعْمَلُ عَمَلَهُمْ وَ يُبْغِضُ الْمُذْنِبِينَ وَ
-هُوَ أَحَدُهُمْ يَكْرَهُ الْمَوْتَ لِكَثْرَةِ ذُنُوبِهِ وَ يُقِيمُ
-عَلَى مَا يَكْرَهُ الْمَوْتَ مِنْ أَجْلِهِ .
-  </p>
-</blockquote>
+> لَا تَكُنْ مِمَّنْ يَرْجُو الْآخِرَةَ بِغَيْرِ عَمَلٍ وَ يُرَجِّى
+> التَّوْبَةَ بِطُولِ الْأَمَلِ يَقُولُ فِى الدُّنْيَا بِقَوْلِ
+> الزَّاهِدِينَ وَ يَعْمَلُ فِيهَا بِعَمَلِ الرَّاغِبِينَ إِنْ أُعْطِيَ
+> مِنْهَا لَمْ يَشْبَعْ وَ إِنْ مُنِعَ مِنْهَا لَمْ يَقْنَعْ يَعْجِزُ
+> عَنْ شُكْرِ مَا أُوتِيَ وَ يَبْتَغِى الزِّيَادَةَ فِيمَا بَقِيَ
+> يَنْهَى وَ لَا يَنْتَهِى وَ يَأْمُرُ بِمَا لَا يَأْتِى يُحِبُّ
+> الصَّالِحِينَ وَ لَا يَعْمَلُ عَمَلَهُمْ وَ يُبْغِضُ الْمُذْنِبِينَ وَ
+> هُوَ أَحَدُهُمْ يَكْرَهُ الْمَوْتَ لِكَثْرَةِ ذُنُوبِهِ وَ يُقِيمُ
+> عَلَى مَا يَكْرَهُ الْمَوْتَ مِنْ أَجْلِهِ .
 
 If he falls ill he is remorseful; if he is healthy he feels secure and
 indulges in amusements; when he recovers from illness he feels vain
@@ -3025,24 +2321,20 @@ action; he aspires for things that will perish and ignores things that
 will last for good; he regards profit as loss and loss as profit; he
 fears death but does nothing in its anticipation.
 
-<blockquote dir="rtl">
-  <p>
-إِنْ سَقِمَ ظَلَّ نَادِماً وَ إِنْ صَحَّ أَمِنَ، لَاهِياً يُعْجَبُ
-بِنَفْسِهِ إِذَا عُوفِيَ وَ يَقْنَطُ إِذَا ابْتُلِيَ، إِنْ أَصَابَهُ
-بَلَاءٌ دَعَا مُضْطَرّاً وَ إِنْ نَالَهُ رَخَاءٌ أَعْرَضَ مُغْتَرّاً،
-تَغْلِبُهُ نَفْسُهُ عَلَى مَا يَظُنُّ وَ لَا يَغْلِبُهَا عَلَى مَا
-يَسْتَيْقِنُ، يَخَافُ عَلَى غَيْرِهِ بِأَدْنَى مِنْ ذَنْبِهِ وَ
-يَرْجُو لِنَفْسِهِ بِأَكْثَرَ مِنْ عَمَلِهِ، إِنِ اسْتَغْنَى بَطِرَ وَ
-فُتِنَ وَ إِنِ افْتَقَرَ قَنِطَ وَ وَهَنَ، يُقَصِّرُ إِذَا عَمِلَ وَ
-يُبَالِغُ إِذَا سَأَلَ، إِنْ عَرَضَتْ لَهُ شَهْوَةٌ أَسْلَفَ
-الْمَعْصِيَةَ وَ سَوَّفَ التَّوْبَةَ وَ إِنْ عَرَتْهُ مِحْنَةٌ
-انْفَرَجَ عَنْ شَرَائِطِ الْمِلَّةِ، يَصِفُ الْعِبْرَةَ وَ لَا
-يَعْتَبِرُ وَ يُبَالِغُ فِى الْمَوْعِظَةِ وَ لَا يَتَّعِظُ، فَهُوَ
-بِالْقَوْلِ مُدِلٌّ وَ مِنَ الْعَمَلِ مُقِلٌّ يُنَافِسُ فِيمَا يَفْنَى
-وَ يُسَامِحُ فِيمَا يَبْقَى يَرَى الْغُنْمَ مَغْرَماً وَ الْغُرْمَ
-مَغْنَماً، يَخْشَى الْمَوْتَ وَ لَا يُبَادِرُ الْفَوْتَ.
-  </p>
-</blockquote>
+> إِنْ سَقِمَ ظَلَّ نَادِماً وَ إِنْ صَحَّ أَمِنَ، لَاهِياً يُعْجَبُ
+> بِنَفْسِهِ إِذَا عُوفِيَ وَ يَقْنَطُ إِذَا ابْتُلِيَ، إِنْ أَصَابَهُ
+> بَلَاءٌ دَعَا مُضْطَرّاً وَ إِنْ نَالَهُ رَخَاءٌ أَعْرَضَ مُغْتَرّاً،
+> تَغْلِبُهُ نَفْسُهُ عَلَى مَا يَظُنُّ وَ لَا يَغْلِبُهَا عَلَى مَا
+> يَسْتَيْقِنُ، يَخَافُ عَلَى غَيْرِهِ بِأَدْنَى مِنْ ذَنْبِهِ وَ
+> يَرْجُو لِنَفْسِهِ بِأَكْثَرَ مِنْ عَمَلِهِ، إِنِ اسْتَغْنَى بَطِرَ وَ
+> فُتِنَ وَ إِنِ افْتَقَرَ قَنِطَ وَ وَهَنَ، يُقَصِّرُ إِذَا عَمِلَ وَ
+> يُبَالِغُ إِذَا سَأَلَ، إِنْ عَرَضَتْ لَهُ شَهْوَةٌ أَسْلَفَ
+> الْمَعْصِيَةَ وَ سَوَّفَ التَّوْبَةَ وَ إِنْ عَرَتْهُ مِحْنَةٌ
+> انْفَرَجَ عَنْ شَرَائِطِ الْمِلَّةِ، يَصِفُ الْعِبْرَةَ وَ لَا
+> يَعْتَبِرُ وَ يُبَالِغُ فِى الْمَوْعِظَةِ وَ لَا يَتَّعِظُ، فَهُوَ
+> بِالْقَوْلِ مُدِلٌّ وَ مِنَ الْعَمَلِ مُقِلٌّ يُنَافِسُ فِيمَا يَفْنَى
+> وَ يُسَامِحُ فِيمَا يَبْقَى يَرَى الْغُنْمَ مَغْرَماً وَ الْغُرْمَ
+> مَغْنَماً، يَخْشَى الْمَوْتَ وَ لَا يُبَادِرُ الْفَوْتَ.
 
 He regards the sins of others as big but considers the same things for
 himself as small; if he does something in obedience to Allah he
@@ -3057,30 +2349,22 @@ not fulfil his obligations (towards others); he fears the people (and
 acts) for other than his Lord (Allah) and does not fear his Lord in his
 dealings with the people.
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَعْظِمُ مِنْ مَعْصِيَةِ غَيْرِهِ مَا يَسْتَقِلُّ أَكْثَرَ مِنْهُ
-مِنْ نَفْسِهِ، وَ يَسْتَكْثِرُ مِنْ طَاعَتِهِ مَا يَحْقِرُهُ مِنْ
-طَاعَةِ غَيْرِهِ، فَهُوَ عَلَى النَّاسِ طَاعِنٌ وَ لِنَفْسِهِ
-مُدَاهِنٌ، اللَّهْوُ مَعَ الْأَغْنِيَاءِ أَحَبُّ إِلَيْهِ مِنَ
-الذِّكْرِ مَعَ الْفُقَرَاءِ، يَحْكُمُ عَلَى غَيْرِهِ لِنَفْسِهِ وَ لَا
-يَحْكُمُ عَلَيْهَا لِغَيْرِهِ يُرْشِدُ غَيْرَهُ وَ يُغْوِى نَفْسَهُ،
-فَهُوَ يُطَاعُ وَ يَعْصِى وَ يَسْتَوْفِى وَ لَا يُوفِى، وَ يَخْشَى
-الْخَلْقَ فِى غَيْرِ رَبِّهِ وَ لَا يَخْشَى رَبَّه فِى خَلْقِهِ .
-  </p>
-</blockquote>
+> يَسْتَعْظِمُ مِنْ مَعْصِيَةِ غَيْرِهِ مَا يَسْتَقِلُّ أَكْثَرَ مِنْهُ
+> مِنْ نَفْسِهِ، وَ يَسْتَكْثِرُ مِنْ طَاعَتِهِ مَا يَحْقِرُهُ مِنْ
+> طَاعَةِ غَيْرِهِ، فَهُوَ عَلَى النَّاسِ طَاعِنٌ وَ لِنَفْسِهِ
+> مُدَاهِنٌ، اللَّهْوُ مَعَ الْأَغْنِيَاءِ أَحَبُّ إِلَيْهِ مِنَ
+> الذِّكْرِ مَعَ الْفُقَرَاءِ، يَحْكُمُ عَلَى غَيْرِهِ لِنَفْسِهِ وَ لَا
+> يَحْكُمُ عَلَيْهَا لِغَيْرِهِ يُرْشِدُ غَيْرَهُ وَ يُغْوِى نَفْسَهُ،
+> فَهُوَ يُطَاعُ وَ يَعْصِى وَ يَسْتَوْفِى وَ لَا يُوفِى، وَ يَخْشَى
+> الْخَلْقَ فِى غَيْرِ رَبِّهِ وَ لَا يَخْشَى رَبَّه فِى خَلْقِهِ .
 
 **As-Sayyid ar-Radi says:** If this book had contained nothing save this
 short utterance it would have sufficed as a successful piece of
 preaching, a specimen of high philosophy, an object of wisdom for the
 onlooker and a source of instruction for the meditative watcher.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى و لو لم يكن فى هذا الكتاب إلا هذا الكلام لكفى به موعظة ناجعة
-و حكمة بالغة و بصيرة لمبصر و عبرة لناظر مفكر .
-  </p>
-</blockquote>
+> قال الرضى و لو لم يكن فى هذا الكتاب إلا هذا الكلام لكفى به موعظة ناجعة
+> و حكمة بالغة و بصيرة لمبصر و عبرة لناظر مفكر .
 
 Hadith n. 151
 -------------
@@ -3089,11 +2373,7 @@ Hadith n. 151
 has to meet the end, sweet or bitter.
 
 > 151. وقال عليه السلام : لِكُلِّ امْرِىءٍ عَاقِبَةٌ حُلْوَةٌ أَوْ
-<blockquote dir="rtl">
-  <p>
-مُرَّةٌ.
-  </p>
-</blockquote>
+> مُرَّةٌ.
 
 Hadith n. 152
 -------------
@@ -3102,11 +2382,7 @@ Hadith n. 152
 return and after returning it is as though he never existed.
 
 > 152. وقال عليه السلام : لِكُلِّ مُقْبِلٍ إِدْبَارٌ، وَمَا أَدْبَرَ
-<blockquote dir="rtl">
-  <p>
-كَأَنْ لَمْ يَكُنْ.
-  </p>
-</blockquote>
+> كَأَنْ لَمْ يَكُنْ.
 
 Hadith n. 153
 -------------
@@ -3115,11 +2391,7 @@ Hadith n. 153
 miss success although it may take a long time.
 
 > 153. وقال عليه السلام : لاَ يَعْدَمُ الصَّبُورُ الظَّفَرَ وَإِنْ طَالَ
-<blockquote dir="rtl">
-  <p>
-بِهِ الزَّمَانُ.
-  </p>
-</blockquote>
+> بِهِ الزَّمَانُ.
 
 Hadith n. 154
 -------------
@@ -3130,12 +2402,8 @@ action. And every one who joins in wrong commits two sins; one sin for
 committing the wrong and the other for agreeing with it.
 
 > 154. وقال عليه السلام : الرَّاضِي بِفِعْلِ قَوْمٍ كَالدَّاخِلِ فِيهِ
-<blockquote dir="rtl">
-  <p>
-مَعَهُمْ، وَعَلَى كُلِّ دَاخِلٍ فِي بَاطِلٍ إِثْمَانِ: إِثْمُ
-الْعَمَلِ بِهِ، وَإِثْمُ الرِّضَى بِهِ.
-  </p>
-</blockquote>
+> مَعَهُمْ، وَعَلَى كُلِّ دَاخِلٍ فِي بَاطِلٍ إِثْمَانِ: إِثْمُ
+> الْعَمَلِ بِهِ، وَإِثْمُ الرِّضَى بِهِ.
 
 Hadith n. 155
 -------------
@@ -3153,11 +2421,7 @@ obligation of) obedience to the person about whom you cannot plead the
 excuse of ignorance. [^36]
 
 > 156. وقال عليه السلام : عَلَيْكُمْ بِطَاعَةِ مَنْ لاَ تُعْذَرُونَ
-<blockquote dir="rtl">
-  <p>
-بِجَهَالَتِهِ.
-  </p>
-</blockquote>
+> بِجَهَالَتِهِ.
 
 Hadith n. 157
 -------------
@@ -3168,11 +2432,7 @@ if (only) you care to take guidance; and surely, you have been made to
 hear if (only) you care to lend your ears.
 
 > 157. وقال عليه السلام : قَدْ بُصّرْتُمْ إِنْ أَبْصَرْتُمْ وَقَدْ
-<blockquote dir="rtl">
-  <p>
-هُدِيتُمْ إِنِ اهْتَدَيْتُمْ، وأُسْمِعْتُمْ إِنِ اسْتَمَعْتُمْ.
-  </p>
-</blockquote>
+> هُدِيتُمْ إِنِ اهْتَدَيْتُمْ، وأُسْمِعْتُمْ إِنِ اسْتَمَعْتُمْ.
 
 Hadith n. 158
 -------------
@@ -3182,11 +2442,7 @@ brother (comrade) by good behaviour towards him, and ward off his evil
 by favouring him. [^37]
 
 > 158. وقال عليه السلام : عَاتِبْ أَخَاكَ بِالاْحْسَانِ إِلَيْهِ،
-<blockquote dir="rtl">
-  <p>
-وَارْدُدْ شَرَّهُ بِالاْنْعَامِ عَلَيْهِ.
-  </p>
-</blockquote>
+> وَارْدُدْ شَرَّهُ بِالاْنْعَامِ عَلَيْهِ.
 
 Hadith n. 159
 -------------
@@ -3196,11 +2452,7 @@ in conditions of ill-repute should not blame those who entertain bad
 ideas about him.
 
 > 159. وقال عليه السلام : مَنْ وَضَعَ نَفْسَهُ مَوَاضِعَ التُّهَمَةِ
-<blockquote dir="rtl">
-  <p>
-فَلاَ يَلُومَنَّ مَنْ أَسَاءَ بِهِ الظَّنَّ.
-  </p>
-</blockquote>
+> فَلاَ يَلُومَنَّ مَنْ أَسَاءَ بِهِ الظَّنَّ.
 
 Hadith n. 160
 -------------
@@ -3218,11 +2470,7 @@ according to his own opinion gets ruined, and he who consults other
 people shares in their understanding.
 
 > 161. وقال عليه السلام : وَمَنِ اسْتَبَدَّ بِرَأْيِهِ هَلَكَ، وَمَنْ
-<blockquote dir="rtl">
-  <p>
-شَاوَرَ الرِّجَالَ شَارَكَهَا فِي عُقُولِهَا.
-  </p>
-</blockquote>
+> شَاوَرَ الرِّجَالَ شَارَكَهَا فِي عُقُولِهَا.
 
 Hadith n. 162
 -------------
@@ -3231,11 +2479,7 @@ Hadith n. 162
 secrets retains control in his own hands.
 
 > 162. وقال عليه السلام: وَمَنْ كَتَمَ سِرَّهُ كَانَتِ الْخِيرَةُ
-<blockquote dir="rtl">
-  <p>
-بِيَدِهِ.
-  </p>
-</blockquote>
+> بِيَدِهِ.
 
 Hadith n. 163
 -------------
@@ -3253,11 +2497,7 @@ right of a man who does not fulfil his right, (is as though he) worships
 him.
 
 > 164. وقال عليه السلام : مَنْ قَضَى حَقَّ مَنْ لاَ يَقْضِي حَقَّهُ
-<blockquote dir="rtl">
-  <p>
-فَقَدْ عَبَدَهُ.
-  </p>
-</blockquote>
+> فَقَدْ عَبَدَهُ.
 
 Hadith n. 165
 -------------
@@ -3266,11 +2506,7 @@ Hadith n. 165
 obeying anyone against Allah's commands.
 
 > 165. وقال عليه السلام : لاَ طَاعَةَ لِمخْلُوقٍ فِي مَعْصِيَةِ
-<blockquote dir="rtl">
-  <p>
-الْخَالِقِ.
-  </p>
-</blockquote>
+> الْخَالِقِ.
 
 Hadith n. 166
 -------------
@@ -3280,11 +2516,7 @@ blamed for delay in (securing) his own right but blame lies on him who
 takes what he is not entitled to.
 
 > 166. وقال عليه السلام : لاَ يُعَابُ الْمَرْءُ بِتَأْخِيرِ حَقِّهِ،
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُعَابُ مَنْ أَخَذَ مَا لَيْسَ لَهُ.
-  </p>
-</blockquote>
+> إِنَّمَا يُعَابُ مَنْ أَخَذَ مَا لَيْسَ لَهُ.
 
 Hadith n. 167
 -------------
@@ -3317,11 +2549,7 @@ Hadith n. 170
 is easier than seeking forgiveness afterwards. [^39]
 
 > 170. وقال عليه السلام : تَرْكُ الذَّنْبِ أَهْوَنُ مِنْ طَلَبِ
-<blockquote dir="rtl">
-  <p>
-التَّوْبَةِ.
-  </p>
-</blockquote>
+> التَّوْبَةِ.
 
 Hadith n. 171
 -------------
@@ -3346,11 +2574,7 @@ Hadith n. 173
 opinions understands the pitfalls.
 
 > 173. وقال عليه السلام : مَنِ اسْتَقْبَلَ وُجُوهَ الاْرَاءِ عَرَفَ
-<blockquote dir="rtl">
-  <p>
-مَوَاقِعَ الْخَطَاَ.
-  </p>
-</blockquote>
+> مَوَاقِعَ الْخَطَاَ.
 
 Hadith n. 174
 -------------
@@ -3360,11 +2584,7 @@ teeth of anger for the sake of Allah acquires the strength to kill the
 stalwarts of wrong. [^42]
 
 > 174. وقال عليه السلام : مَن أَحَدَّ سِنَانَ الْغَضَبِ لله قَوِيَ عَلَى
-<blockquote dir="rtl">
-  <p>
-قَتْلِ أَشِدَّاءِ الْبَاطِلِ.
-  </p>
-</blockquote>
+> قَتْلِ أَشِدَّاءِ الْبَاطِلِ.
 
 Hadith n. 175
 -------------
@@ -3374,11 +2594,7 @@ of something dive straight into it, because the intensity of abstaining
 from it is greater (worse) than what you are afraid of.
 
 > 175. وقال عليه السلام : إِذَا هِبْتَ أَمْراًفَقَعْ فِيهِ، فَإِنَّ
-<blockquote dir="rtl">
-  <p>
-شِدَّةَ تَوَقِّيهِأَعْظَمُ مِمَّا تَخَافُ مِنْهُ.
-  </p>
-</blockquote>
+> شِدَّةَ تَوَقِّيهِأَعْظَمُ مِمَّا تَخَافُ مِنْهُ.
 
 Hadith n. 176
 -------------
@@ -3403,11 +2619,7 @@ Hadith n. 178
 the chest of others by snatching (it) away from your own chest. [^44]
 
 > 178. وقال عليه السلام : احْصُدِ الشَّرَّ مِنْ صَدْرِ غَيْرِكَ
-<blockquote dir="rtl">
-  <p>
-بِقَلْعِهِ مِنْ صَدْرِكَ.
-  </p>
-</blockquote>
+> بِقَلْعِهِ مِنْ صَدْرِكَ.
 
 Hadith n. 179
 -------------
@@ -3432,11 +2644,7 @@ Hadith n. 181
 neglect is shame, while the result of far-sightedness is safety.
 
 > 181. وقال عليه السلام : ثَمَرَةُ التَّفْرِيطِ النَّدَامَةُ، وَثَمَرَةُ
-<blockquote dir="rtl">
-  <p>
-الْحَزْمِ السَّلاَمَةُ
-  </p>
-</blockquote>
+> الْحَزْمِ السَّلاَمَةُ
 
 Hadith n. 182
 -------------
@@ -3446,11 +2654,7 @@ advantage ill keeping quiet about an issue of wisdom, just as there is
 no good in speaking out an unintelligent thing.
 
 > 182. وقال عليه السلام : لاَ خَيْرَ فِي الصَّمْتِ عَنِ الْحُكْمِ، كَمَا
-<blockquote dir="rtl">
-  <p>
-أَنَّهُ لاَ خَيْرَ فِي الْقوْلِ بِالْجَهْلِ.
-  </p>
-</blockquote>
+> أَنَّهُ لاَ خَيْرَ فِي الْقوْلِ بِالْجَهْلِ.
 
 Hadith n. 183
 -------------
@@ -3459,11 +2663,7 @@ Hadith n. 183
 different calls then one (of them) must be towards misguidance.
 
 > 183. وقال عليه السلام : مَا اخْتَلَفَتْ دَعْوَتَانِ إِلاَّ كَانَتْ
-<blockquote dir="rtl">
-  <p>
-إِحْدَاهُمَا ضَلاَلَةً.
-  </p>
-</blockquote>
+> إِحْدَاهُمَا ضَلاَلَةً.
 
 Hadith n. 184
 -------------
@@ -3481,11 +2681,7 @@ spoken a lie nor have I been told a lie. I have neither deviated nor
 have I been made to deviate (others).
 
 > 185. وقال عليه السلام : مَا كَذَبْتُ وَلاَ كُذِّبْتُ، وَلاَ ضَلَلْتُ
-<blockquote dir="rtl">
-  <p>
-وَلاَ ضُلَّ بِي
-  </p>
-</blockquote>
+> وَلاَ ضُلَّ بِي
 
 Hadith n. 186
 -------------
@@ -3518,11 +2714,7 @@ Hadith n. 189
 give relief to a man impatience kills him.
 
 > 189. وقال عليه السلام : مَنْ لَمْ يُنْجِهِ الصَّبْرُ أَهْلَكَهُ
-<blockquote dir="rtl">
-  <p>
-الْجَزَعُ.
-  </p>
-</blockquote>
+> الْجَزَعُ.
 
 Hadith n. 190
 -------------
@@ -3532,11 +2724,7 @@ the caliphate be through the (Prophet's) companionship but not through
 (his) companionship and (his) kinship?
 
 > 190. وقال عليه السلام : وَاعَجَبَاهُ! أَتَكُونُ الْخِلاَفَةَ
-<blockquote dir="rtl">
-  <p>
-بِالصَّحَابَةِ وَلاَتَكُونُ بِالصَّحَابةِ وَالْقَرَابَةِ؟
-  </p>
-</blockquote>
+> بِالصَّحَابَةِ وَلاَتَكُونُ بِالصَّحَابةِ وَالْقَرَابَةِ؟
 
 **As-Sayyid ar-Radi says:** Verses have also been related from Amir
 al-mu'minin on the same matter. They are:--
@@ -3546,25 +2734,13 @@ happen when those to be consulted were absent! If you have scored over
 your opponents by kinship then someone else has greater right for being
 nearer to the Holy Prophet. [^45]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و روي له شعر في هذا المعنى، وهو:
-  </p>
-</blockquote>
+> قال الرضي: و روي له شعر في هذا المعنى، وهو:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ كُنْتَ بِالشُّورَى مَلَكْتَ أُمُورَهُمْ \* فَكَيْفَ بِهذَا
-وَالْمُشِيرُونَ غُيَّبُ
-  </p>
-</blockquote>
+> فَإِنْ كُنْتَ بِالشُّورَى مَلَكْتَ أُمُورَهُمْ \* فَكَيْفَ بِهذَا
+> وَالْمُشِيرُونَ غُيَّبُ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ كنْتَ بِالْقُرْبَى حَجَجْتَ خَصِيمَهُمْ \* فَغَيْرُكَ أَوْلَى
-بِالنَّبِيِّ وَأَقْرَبُ
-  </p>
-</blockquote>
+> وَإِنْ كنْتَ بِالْقُرْبَى حَجَجْتَ خَصِيمَهُمْ \* فَغَيْرُكَ أَوْلَى
+> بِالنَّبِيِّ وَأَقْرَبُ
 
 Hadith n. 191
 -------------
@@ -3582,18 +2758,14 @@ they have built and for the splitting asunder of whatever they have
 joined together.
 
 > 191. وقال عليه السلام : إِنَّمَا الْمَرْءُ فِى الدُّنْيَا غَرَضٌ
-<blockquote dir="rtl">
-  <p>
-تَنْتَضِلُ فِيهِ الْمَنَايَا وَ نَهْبٌ تُبَادِرُهُ الْمَصَائِبُ وَ
-مَعَ كُلِّ جُرْعَةٍ شَرَقٌ وَ فِى كُلِّ أَكْلَةٍ غَصَصٌ وَ لَا يَنَالُ
-الْعَبْدُ نِعْمَةً إِلَّا بِفِرَاقِ أُخْرَى وَ لَا يَسْتَقْبِلُ
-يَوْماً مِنْ عُمُرِهِ إِلَّا بِفِرَاقِ آخَرَ مِنْ أَجَلِهِ فَنَحْنُ
-أَعْوَانُ الْمَنُونِ وَ أَنْفُسُنَا نَصْبُ الْحُتُوفِ فَمِنْ أَيْنَ
-نَرْجُو الْبَقَاءَ وَ هَذَا اللَّيْلُ وَ النَّهَارُ لَمْ يَرْفَعَا
-مِنْ شَيْ‏ءٍ شَرَفاً إِلَّا أَسْرَعَا الْكَرَّةَ فِى هَدْمِ مَا
-بَنَيَا وَ تَفْرِيقِ مَا جَمَعَا .
-  </p>
-</blockquote>
+> تَنْتَضِلُ فِيهِ الْمَنَايَا وَ نَهْبٌ تُبَادِرُهُ الْمَصَائِبُ وَ
+> مَعَ كُلِّ جُرْعَةٍ شَرَقٌ وَ فِى كُلِّ أَكْلَةٍ غَصَصٌ وَ لَا يَنَالُ
+> الْعَبْدُ نِعْمَةً إِلَّا بِفِرَاقِ أُخْرَى وَ لَا يَسْتَقْبِلُ
+> يَوْماً مِنْ عُمُرِهِ إِلَّا بِفِرَاقِ آخَرَ مِنْ أَجَلِهِ فَنَحْنُ
+> أَعْوَانُ الْمَنُونِ وَ أَنْفُسُنَا نَصْبُ الْحُتُوفِ فَمِنْ أَيْنَ
+> نَرْجُو الْبَقَاءَ وَ هَذَا اللَّيْلُ وَ النَّهَارُ لَمْ يَرْفَعَا
+> مِنْ شَيْ‏ءٍ شَرَفاً إِلَّا أَسْرَعَا الْكَرَّةَ فِى هَدْمِ مَا
+> بَنَيَا وَ تَفْرِيقِ مَا جَمَعَا .
 
 Hadith n. 192
 -------------
@@ -3603,11 +2775,7 @@ whatever you earn beyond your basic needs you are only a treasurer of it
 for others.
 
 > 192. وقال عليه السلام : يَابْنَ آدَمَ مَا كَسَبْتَ فَوْقَ قُوتِكَ،
-<blockquote dir="rtl">
-  <p>
-فَأَنْتَ فِيهِ خَازِنٌ لِغَيْرِكَ.
-  </p>
-</blockquote>
+> فَأَنْتَ فِيهِ خَازِنٌ لِغَيْرِكَ.
 
 Hadith n. 193
 -------------
@@ -3619,12 +2787,8 @@ they are in a mood for advancing, because if hearts are forced (to do a
 thing) they will be blinded.
 
 > 193. وقال عليه السلام : إِنَّ لِلْقُلُوبِ شَهْوَةً وَإِقْبَالاً
-<blockquote dir="rtl">
-  <p>
-وَإِدْبَاراً، فَأْتُوهَا مِنْ قِبَلِ شَهْوَتِهَا وَإِقْبَالِهَا،
-فَإِنَّ الْقَلْبَ إِذَا أُكْرِهَ عَمِيَ.
-  </p>
-</blockquote>
+> وَإِدْبَاراً، فَأْتُوهَا مِنْ قِبَلِ شَهْوَتِهَا وَإِقْبَالِهَا،
+> فَإِنَّ الْقَلْبَ إِذَا أُكْرِهَ عَمِيَ.
 
 Hadith n. 194
 -------------
@@ -3635,12 +2799,8 @@ said to me, "better you endure" or when I have power to take revenge and
 it be said to me, "better forgive"?
 
 > 194. وكان عليه السلام يقول: مَتَى أَشْفِي غَيْظِي إِذَا غَضِبْتُ؟
-<blockquote dir="rtl">
-  <p>
-أَحِينَ أَعْجِزُ عَنِ الاْنْتِقَامِ فَيُقَالُ لِي: لَوْ صَبَرْتَ؟ أَمْ
-حِينَ أَقْدِرُ عَلَيْهِ فَيُقَالُ لي: لَوْ عَفَوْتَ.
-  </p>
-</blockquote>
+> أَحِينَ أَعْجِزُ عَنِ الاْنْتِقَامِ فَيُقَالُ لِي: لَوْ صَبَرْتَ؟ أَمْ
+> حِينَ أَقْدِرُ عَلَيْهِ فَيُقَالُ لي: لَوْ عَفَوْتَ.
 
 Hadith n. 195
 -------------
@@ -3650,21 +2810,13 @@ rubbish full of filth and remarked:** This is what the misers used to be
 niggardly about.
 
 > 195. وقال عليه السلام وقد مرّ بقذر على مزبلة: هذا مَا بَخِلَ بِهِ
-<blockquote dir="rtl">
-  <p>
-الْبَاخِلُونَ.
-  </p>
-</blockquote>
+> الْبَاخِلُونَ.
 
 **In another tradition it is related that he said:** This is what you
 used to dispute with each other about until yesterday!
 
-<blockquote dir="rtl">
-  <p>
-و روي في خبر آخر أَنه قال: هذَا مَا كُنْتُمْ تَتَنَافَسُونَ فِيهِ
-بِالاْمْسِ!
-  </p>
-</blockquote>
+> و روي في خبر آخر أَنه قال: هذَا مَا كُنْتُمْ تَتَنَافَسُونَ فِيهِ
+> بِالاْمْسِ!
 
 Hadith n. 196
 -------------
@@ -3682,11 +2834,7 @@ tired as the bodies become tired. You should therefore search for
 beautiful sayings for them (to enjoy by way of refreshment).
 
 > 197. وقال عليه السلام : إِنَّ هذِهِ الْقُلُوبَ تَمَلُّ كَمَا تَمَلُّ
-<blockquote dir="rtl">
-  <p>
-الاْبْدَانُ، فَابْتَغُوا لَهَا طَرَائِفَ الْحِكْمَةِ.
-  </p>
-</blockquote>
+> الاْبْدَانُ، فَابْتَغُوا لَهَا طَرَائِفَ الْحِكْمَةِ.
 
 Hadith n. 198
 -------------
@@ -3696,11 +2844,7 @@ Kharijites:** There is no verdict save of Allah-, he said: This sentence
 is true but it is interpreted wrongly.
 
 > 198. وقال عليه السلام لما سمع قول الخوارج ـ لا حكم إِلاَّ للهِ ـ :
-<blockquote dir="rtl">
-  <p>
-كَلِمَةُ حَقٍّ يُرَادُ بِهَا بَاطِلٌ.
-  </p>
-</blockquote>
+> كَلِمَةُ حَقٍّ يُرَادُ بِهَا بَاطِلٌ.
 
 Hadith n. 199
 -------------
@@ -3710,11 +2854,7 @@ people:** These are the people who, when they assemble together, are
 overwhelming but when they disperse they cannot be recognized.
 
 > 199. وقال عليه السلام في صفة الْغوغاء هُمُ الَّذِينَ إِذَا اجْتَمَعُوا
-<blockquote dir="rtl">
-  <p>
-غَلَبُوا، وَإِذَا تَفَرَّقُوا لَمْ يُعْرَفُوا
-  </p>
-</blockquote>
+> غَلَبُوا، وَإِذَا تَفَرَّقُوا لَمْ يُعْرَفُوا
 
 **It is related that instead of this Amir al-mu'minin, peace be upon
 him, said:** These are the people who when they assemble together cause
@@ -3726,15 +2866,11 @@ benefit at the time of their dispersal?
 benefit out of them, like the return of the mason to the building site,
 that of the weaver to his loom, and that of the baker to his bakery.
 
-<blockquote dir="rtl">
-  <p>
-وقيل: بل قال: هُمُ الَّذِينَ إِذَا اجْتَمَعُوا ضَرُّوا، وَإِذَا
-تَفَرَّقُوا نَفَعُوا. فقيل: قد علمنا مضرة اجتماعهم، فما منفعة
-افتراقهم؟ فقال: يَرْجِعُ أَصْحَابُ الْمِهَنِ إِلَى مِهَنِهِمْ،
-فَيَنْتَفِعُ النَّاسُ بِهِمْ، كَرُجُوعِ الْبَنَّاءِ إِلَى بِنَائِهِ،
-وَالنَّسَّاجِ إِلَى مَنْسَجِهِ، وَالْخَبَّازِ إِلَى مَخْبَزِهِ.
-  </p>
-</blockquote>
+> وقيل: بل قال: هُمُ الَّذِينَ إِذَا اجْتَمَعُوا ضَرُّوا، وَإِذَا
+> تَفَرَّقُوا نَفَعُوا. فقيل: قد علمنا مضرة اجتماعهم، فما منفعة
+> افتراقهم؟ فقال: يَرْجِعُ أَصْحَابُ الْمِهَنِ إِلَى مِهَنِهِمْ،
+> فَيَنْتَفِعُ النَّاسُ بِهِمْ، كَرُجُوعِ الْبَنَّاءِ إِلَى بِنَائِهِ،
+> وَالنَّسَّاجِ إِلَى مَنْسَجِهِ، وَالْخَبَّازِ إِلَى مَخْبَزِهِ.
 
 Hadith n. 200
 -------------
@@ -3744,11 +2880,7 @@ him, and there was a crowd of people with the man, so Amir al-mu'minin
 remarked:** Woe to the faces who are seen only on foul occasions.
 
 > 200. وقال عليه السلام وقد أُتي بجانٍ ومعه غوغاءُ: لاَ مَرْحَباً
-<blockquote dir="rtl">
-  <p>
-بِوُجُوهٍ لاَ تُرى إِلاَّ عِنْدَ كُلِّ سَوْأَةٍ.
-  </p>
-</blockquote>
+> بِوُجُوهٍ لاَ تُرى إِلاَّ عِنْدَ كُلِّ سَوْأَةٍ.
 
 Hadith n. 201
 -------------
@@ -3759,12 +2891,8 @@ they let it have its own way with him. Certainly, the appointed time is
 a protective shield (against the events which occur before it).
 
 > 201. وقال عليه السلام : إِنَّ مَعَ كُلِّ إِنْسَانٍ مَلَكَيْنِ
-<blockquote dir="rtl">
-  <p>
-يَحْفَظَانِهِ، فَإِذَا جَاءَ الْقَدَرُ خَلَّيَا بَيْنَهُ وَبَيْنَهُ،
-وَإِنَّ الاْجَلَ جُنَّةٌ حَصِينَةٌ.
-  </p>
-</blockquote>
+> يَحْفَظَانِهِ، فَإِذَا جَاءَ الْقَدَرُ خَلَّيَا بَيْنَهُ وَبَيْنَهُ،
+> وَإِنَّ الاْجَلَ جُنَّةٌ حَصِينَةٌ.
 
 Hadith n. 202
 -------------
@@ -3777,12 +2905,8 @@ affording assistance and you will both be helping me at the time of need
 and hardship.
 
 > 202. وقال عليه السلام ، وقد قال له طلحة والزبير: نبايعك على أَنّا
-<blockquote dir="rtl">
-  <p>
-شركاؤُكَ في هذا الاَمر. فقال: لاَ، وَلكِنَّكُمَا شَرِيكَانِ فِي
-الْقُّوَّةَ وَالاْسْتَعَانَةِ، وَعَوْنَانِ عَلَى الْعَجْزِ وَالاْوَدِ.
-  </p>
-</blockquote>
+> شركاؤُكَ في هذا الاَمر. فقال: لاَ، وَلكِنَّكُمَا شَرِيكَانِ فِي
+> الْقُّوَّةَ وَالاْسْتَعَانَةِ، وَعَوْنَانِ عَلَى الْعَجْزِ وَالاْوَدِ.
 
 Hadith n. 203
 -------------
@@ -3794,13 +2918,9 @@ if you run away, catch you even if you stay and remember you even if you
 forget it.
 
 > 203. وقال عليه السلام : أَيُّهَا النَّاسُ، اتّقُوا اللهَ الَّذِي إِنْ
-<blockquote dir="rtl">
-  <p>
-قُلْتُمْ سمِعَ، وَإِنْ أَضْمَرْتُمْ عَلِمَ، وَبَادِرُوا الْمَوْتَ
-الَّذِي إِنْ هَرَبْتُمْ أَدْرَكَكُمْ، وَإِنْ أَقَمْتُمْ أَخَذَكُمْ،
-وَإِنْ نَسِيتُمُوهُ ذَكَرَكُمْ.
-  </p>
-</blockquote>
+> قُلْتُمْ سمِعَ، وَإِنْ أَضْمَرْتُمْ عَلِمَ، وَبَادِرُوا الْمَوْتَ
+> الَّذِي إِنْ هَرَبْتُمْ أَدْرَكَكُمْ، وَإِنْ أَقَمْتُمْ أَخَذَكُمْ،
+> وَإِنْ نَسِيتُمُوهُ ذَكَرَكُمْ.
 
 Hadith n. 204
 -------------
@@ -3813,13 +2933,9 @@ ingratitude of the denier; ***And Allah loves those who do good*****.
 (Qur'an, 3:134,148; 5:93)**
 
 > 204. وقال عليه السلام : لاَ يُزَهِّدَنَّكَ فِي الْمَعْرُوفِ مَنْ لاَ
-<blockquote dir="rtl">
-  <p>
-يَشْكُرُهُ لَكَ، فَقَدْ يَشْكُرُكَ عَلَيْهِ مَنْ لاَ يَسْتَمْتِعُ
-بِشَيْءٍ مِنْهُ، وَقَدْ تُدْرِكُ مِنْ شُكْرِ الشَّاكِرِ أَكْثَرَ
-مِمَّا أَضَاعَ الْكَافِرُ (وَ اللَّهُ يُحِبُّ الْمُحْسِنِينَ) .
-  </p>
-</blockquote>
+> يَشْكُرُهُ لَكَ، فَقَدْ يَشْكُرُكَ عَلَيْهِ مَنْ لاَ يَسْتَمْتِعُ
+> بِشَيْءٍ مِنْهُ، وَقَدْ تُدْرِكُ مِنْ شُكْرِ الشَّاكِرِ أَكْثَرَ
+> مِمَّا أَضَاعَ الْكَافِرُ (وَ اللَّهُ يُحِبُّ الْمُحْسِنِينَ) .
 
 Hadith n. 205
 -------------
@@ -3829,11 +2945,7 @@ narrower according to what is placed in it except the container of
 knowledge which expands instead.
 
 > 205. وقال عليه السلام : كُلُّ وِعَاءٍ يَضِيقُ بِمَا جُعِلَ فِيهِ
-<blockquote dir="rtl">
-  <p>
-إِلاَّ وِعَاءَ الْعِلْمِ، فَإِنَّهُ يَتَّسِعُ.
-  </p>
-</blockquote>
+> إِلاَّ وِعَاءَ الْعِلْمِ، فَإِنَّهُ يَتَّسِعُ.
 
 Hadith n. 206
 -------------
@@ -3843,11 +2955,7 @@ exerciser of forbearance gets is that people become his helpers against
 the ignorant.
 
 > 206. وقال عليه السلام : أَوَّلُ عِوَضِ الْحَلِيمِ مِنْ حِلْمِهِ أَنَّ
-<blockquote dir="rtl">
-  <p>
-النَّاسَ أَنْصَارُهُ عَلَى الْجَاهِلِ.
-  </p>
-</blockquote>
+> النَّاسَ أَنْصَارُهُ عَلَى الْجَاهِلِ.
 
 Hadith n. 207
 -------------
@@ -3857,12 +2965,8 @@ forbear, feign to do so because it is seldom that a man likens himself
 to a group and does not become as one of them.[^47]
 
 > 207. وقال عليه السلام : إِنْ لَمْ تَكُنْ حَلِيماً فَتَحَلَّمْ،
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُ قَلَّ مَنْ تَشَبَّهَ بَقَوْمٍ إِلاَّ أَوْشَكَ أَنْ يَكُونَ
-مِنْهُمْ.
-  </p>
-</blockquote>
+> فَإِنَّهُ قَلَّ مَنْ تَشَبَّهَ بَقَوْمٍ إِلاَّ أَوْشَكَ أَنْ يَكُونَ
+> مِنْهُمْ.
 
 Hadith n. 208
 -------------
@@ -3874,12 +2978,8 @@ things around) perceives; and whoever perceives gains understanding, and
 whoever gains understanding secures knowledge.
 
 > 208. وقال عليه السلام : مَنْ حَاسَبَ نَفْسَهُ رَبِحَ، وَمَنْ غَفَلَ
-<blockquote dir="rtl">
-  <p>
-عَنْهَا خَسِرَ، وَمَنْ خَافَ أَمِنَ، وَمَنِ اعْتَبَرَ أَبْصَرَ،مَنْ
-أَبْصَرَ فَهِمَ، وَمَنْ فَهِمَ عَلِمَ.
-  </p>
-</blockquote>
+> عَنْهَا خَسِرَ، وَمَنْ خَافَ أَمِنَ، وَمَنِ اعْتَبَرَ أَبْصَرَ،مَنْ
+> أَبْصَرَ فَهِمَ، وَمَنْ فَهِمَ عَلِمَ.
 
 Hadith n. 209
 -------------
@@ -3893,13 +2993,9 @@ weak in the land, and to make them the Imams*** **(guides in
 faith)*****, and to make them the heirs*****. (Qur'an, 28:5)** [^48]
 
 > 209. وقال عليه السلام : لَتَعْطِفَنَّ الدُّنْيَا عَلَيْنَا بَعْدَ
-<blockquote dir="rtl">
-  <p>
-شِمَاسِهَا عَطْفَ الضَّرُوسِ عَلَى وَلَدِهَا. وَ تَلَا عَقِيبَ ذَلِكَ:
-(وَ نُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِى الْأَرْضِ
-وَ نَجْعَلَهُمْ أَئِمَّةً وَ نَجْعَلَهُمُ الْوارِثِينَ) .
-  </p>
-</blockquote>
+> شِمَاسِهَا عَطْفَ الضَّرُوسِ عَلَى وَلَدِهَا. وَ تَلَا عَقِيبَ ذَلِكَ:
+> (وَ نُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِى الْأَرْضِ
+> وَ نَجْعَلَهُمْ أَئِمَّةً وَ نَجْعَلَهُمُ الْوارِثِينَ) .
 
 Hadith n. 210
 -------------
@@ -3912,13 +3008,9 @@ falling into error) and has his eye on proceeding towards the goal, on
 the end of his journey and on the place of his (eventual) return.
 
 > 210. وقال عليه السلام : اتَّقُوا اللَّهَ تَقِيَّةَ مَنْ شَمَّرَ
-<blockquote dir="rtl">
-  <p>
-تَجْرِيداً وَ جَدَّ تَشْمِيراً وَ كَمَّشَ فِى مَهَلٍ وَ بَادَرَ عَنْ
-وَجَلٍ وَ نَظَرَ فِى كَرَّةِ الْمَوْئِلِ وَ عَاقِبَةِ الْمَصْدَرِ وَ
-مَغَبَّةِ الْمَرْجِعِ .
-  </p>
-</blockquote>
+> تَجْرِيداً وَ جَدَّ تَشْمِيراً وَ كَمَّشَ فِى مَهَلٍ وَ بَادَرَ عَنْ
+> وَجَلٍ وَ نَظَرَ فِى كَرَّةِ الْمَوْئِلِ وَ عَاقِبَةِ الْمَصْدَرِ وَ
+> مَغَبَّةِ الْمَرْجِعِ .
 
 Hadith n. 211
 -------------
@@ -3934,17 +3026,13 @@ overpowering longings. Capability helps preservation of experience. Love
 means well-utilized relationship. Do not trust one who is grieved.
 
 > 211. وَ قَالَ عليه السلام: الْجُودُ حَارِسُ الْأَعْرَاضِ وَ الْحِلْمُ
-<blockquote dir="rtl">
-  <p>
-فِدَامُ السَّفِيهِ وَ الْعَفْوُ زَكَاةُ الظَّفَرِ وَ السُّلُوُّ
-عِوَضُكَ مِمَّنْ غَدَرَ وَ الِاسْتِشَارَةُ عَيْنُ الْهِدَايَةِ وَ قَدْ
-خَاطَرَ مَنِ اسْتَغْنَى بِرَأْيِهِ وَ الصَّبْرُ يُنَاضِلُ الْحِدْثَانَ
-وَ الْجَزَعُ مِنْ أَعْوَانِ الزَّمَانِ وَ أَشْرَفُ الْغِنَى تَرْكُ
-الْمُنَى وَ كَمْ مِنْ عَقْلٍ أَسِيرٍ تَحْتَ هَوَى أَمِيرٍ وَ مِنَ
-التَّوْفِيقِ حِفْظُ التَّجْرِبَةِ وَ الْمَوَدَّةُ قَرَابَةٌ
-مُسْتَفَادَةٌ وَ لَا تَأْمَنَنَّ مَلُولًا .
-  </p>
-</blockquote>
+> فِدَامُ السَّفِيهِ وَ الْعَفْوُ زَكَاةُ الظَّفَرِ وَ السُّلُوُّ
+> عِوَضُكَ مِمَّنْ غَدَرَ وَ الِاسْتِشَارَةُ عَيْنُ الْهِدَايَةِ وَ قَدْ
+> خَاطَرَ مَنِ اسْتَغْنَى بِرَأْيِهِ وَ الصَّبْرُ يُنَاضِلُ الْحِدْثَانَ
+> وَ الْجَزَعُ مِنْ أَعْوَانِ الزَّمَانِ وَ أَشْرَفُ الْغِنَى تَرْكُ
+> الْمُنَى وَ كَمْ مِنْ عَقْلٍ أَسِيرٍ تَحْتَ هَوَى أَمِيرٍ وَ مِنَ
+> التَّوْفِيقِ حِفْظُ التَّجْرِبَةِ وَ الْمَوَدَّةُ قَرَابَةٌ
+> مُسْتَفَادَةٌ وَ لَا تَأْمَنَنَّ مَلُولًا .
 
 Hadith n. 212
 -------------
@@ -3953,11 +3041,7 @@ Hadith n. 212
 himself is one of the enemies of his intelligence. [^49]
 
 > 212. وقال عليه السلام : عُجْبُ الْمَرْءِ بِنَفْسِهِ أَحَدُ حُسَّادِ
-<blockquote dir="rtl">
-  <p>
-عَقْلِهِ.
-  </p>
-</blockquote>
+> عَقْلِهِ.
 
 Hadith n. 213
 -------------
@@ -3967,11 +3051,7 @@ otherwise you will never be happy. (Or according to another reading):
 Ignore pain and grief; you will ever be happy. [^50]
 
 > 213. وَ قَالَ عليه السلام: أَغْضِ عَلَى الْقَذَى وَ الْأَلَمِ تَرْضَ
-<blockquote dir="rtl">
-  <p>
-أَبَداً .
-  </p>
-</blockquote>
+> أَبَداً .
 
 Hadith n. 214
 -------------
@@ -4005,11 +3085,7 @@ Hadith n. 217
 circumstances the mettle of men is known.
 
 > 217. وقال عليه السلام : فِي تَقَلُّبِ الاْحْوَالِ عِلْمُ جَوَاهِرِ
-<blockquote dir="rtl">
-  <p>
-الرِّجَالِ.
-  </p>
-</blockquote>
+> الرِّجَالِ.
 
 Hadith n. 218
 -------------
@@ -4026,11 +3102,7 @@ Hadith n. 219
 deficiency of intelligence occurs due to the flash of greed. [^52]
 
 > 219. وقال عليه السلام : أَكْثَرُ مَصَارِعِ الْعُقُولِ تَحْتَ بُرُوقِ
-<blockquote dir="rtl">
-  <p>
-الْمَطَامِعِ.
-  </p>
-</blockquote>
+> الْمَطَامِعِ.
 
 Hadith n. 220
 -------------
@@ -4039,11 +3111,7 @@ Hadith n. 220
 in passing a verdict by relying on probability.
 
 > 220. وقال عليه السلام : لَيْسَ مِنَ الْعَدْلِ الْقَضَاءُ عَلَى
-<blockquote dir="rtl">
-  <p>
-الثِّقَةِ بِالظَّنِّ.
-  </p>
-</blockquote>
+> الثِّقَةِ بِالظَّنِّ.
 
 Hadith n. 221
 -------------
@@ -4052,11 +3120,7 @@ Hadith n. 221
 for the Day of Judgement is high-handedness over people.
 
 > 221. وقال عليه السلام : بِئْسَ الزَّادُ إِلَى الْمَعَادِ الْعُدْوَانُ
-<blockquote dir="rtl">
-  <p>
-عَلَى الْعِبَادِ.
-  </p>
-</blockquote>
+> عَلَى الْعِبَادِ.
 
 Hadith n. 222
 -------------
@@ -4065,11 +3129,7 @@ Hadith n. 222
 noble person is to ignore what he knows.
 
 > 222. وقال عليه السلام : مِنْ أَشْرَفِ أَفْعَالِ الْكَرِيمِ غَفْلَتُهُ
-<blockquote dir="rtl">
-  <p>
-عَمَّا يَعْلَمُ.
-  </p>
-</blockquote>
+> عَمَّا يَعْلَمُ.
 
 Hadith n. 223
 -------------
@@ -4078,11 +3138,7 @@ Hadith n. 223
 clothes with its dress people cannot see his defects. [^53]
 
 > 223. وقال عليه السلام : مَنْ كَسَاهُ الْحَيَاءُ ثَوْبَهُ لَمْ يَرَ
-<blockquote dir="rtl">
-  <p>
-النَّاسُ عَيْبَهُ.
-  </p>
-</blockquote>
+> النَّاسُ عَيْبَهُ.
 
 Hadith n. 224
 -------------
@@ -4095,15 +3151,11 @@ overpowered; and with forbearance against a fool there is increase of
 one's supporters against him.
 
 > 224. وقال عليه السلام : بِكَثْرَةِ الصَّمْتِ تَكُونُ الْهَيْبَةُ وَ
-<blockquote dir="rtl">
-  <p>
-بِالنَّصَفَةِ يَكْثُرُ الْمُوَاصِلُونَ وَ بِالْإِفْضَالِ تَعْظُمُ
-الْأَقْدَارُ وَ بِالتَّوَاضُعِ تَتِمُّ النِّعْمَةُ وَ بِاحْتِمَالِ
-الْمُؤَنِ يَجِبُ السُّؤْدُدُ وَ بِالسِّيرَةِ الْعَادِلَةِ يُقْهَرُ
-الْمُنَاوِئُ وَ بِالْحِلْمِ عَنِ السَّفِيهِ تَكْثُرُ الْأَنْصَارُ
-عَلَيْهِ.
-  </p>
-</blockquote>
+> بِالنَّصَفَةِ يَكْثُرُ الْمُوَاصِلُونَ وَ بِالْإِفْضَالِ تَعْظُمُ
+> الْأَقْدَارُ وَ بِالتَّوَاضُعِ تَتِمُّ النِّعْمَةُ وَ بِاحْتِمَالِ
+> الْمُؤَنِ يَجِبُ السُّؤْدُدُ وَ بِالسِّيرَةِ الْعَادِلَةِ يُقْهَرُ
+> الْمُنَاوِئُ وَ بِالْحِلْمِ عَنِ السَّفِيهِ تَكْثُرُ الْأَنْصَارُ
+> عَلَيْهِ.
 
 Hadith n. 225
 -------------
@@ -4112,11 +3164,7 @@ Hadith n. 225
 the jealous do not feel jealous about bodily health. [^54]
 
 > 225. وقال عليه السلام : الْعَجَبُ لِغَفْلَةِ الْحُسَّادِ عَنْ
-<blockquote dir="rtl">
-  <p>
-سَلاَمَةِ الاْجْسَادِ.
-  </p>
-</blockquote>
+> سَلاَمَةِ الاْجْسَادِ.
 
 Hadith n. 226
 -------------
@@ -4134,11 +3182,7 @@ Hadith n. 227
 acknowledgement with the tongue, and action with the limbs.
 
 > 227. وقال عليه السلام وقد سئل عن الاِيمان: الاْيمَانُ مَعْرِفَةٌ
-<blockquote dir="rtl">
-  <p>
-بِالْقَلْبِ، وَإِقْرَارٌ بِاللِّسَانِ، وعَمَلٌ بِالاْرْكَانِ.
-  </p>
-</blockquote>
+> بِالْقَلْبِ، وَإِقْرَارٌ بِاللِّسَانِ، وعَمَلٌ بِالاْرْكَانِ.
 
 Hadith n. 228
 -------------
@@ -4155,17 +3199,13 @@ leaves him, greed that does not abandon him and desire which he never
 fulfils.
 
 > 228. وقال عليه السلام : مَنْ أَصْبَحَ عَلَى الدُّنْيَا حَزِيناً فَقَدْ
-<blockquote dir="rtl">
-  <p>
-أَصْبَحَ لِقَضَاءِ اللهِ سَاخِطاً، وَمَنْ أَصْبَحَ يَشَكُو مُصِيبَةً
-نَزَلَتْ بِهِ فَقَدْ أَصْبَحَ يَشْكُو رَبَّهُ، وَمَنْ أَتى غَنِيَّاً
-فَتَوَاضَعَ لِغِنَاهُ ذَهَبَ ثُلُثَا دِينِهِ، وَمَنْ قَرَأَ الْقُرْآنَ
-فَمَاتَ فَدَخَلَ النَّارَ فَهُوَ مِمَّنْ كَانَ يَتَّخِذُ آيَاتِ اللهِ
-هُزُواً، وَمَنْ لَهِجَ قَلْبُهُ بِحُبِّ الدُّنْيَا الْتَاطَ قَلْبُهُ
-مِنْهَا بِثَلاَثٍ: هَمٍّ لاَ يُغِبُّهُ، وَحِرْصٍ لاَ يَتْرُكُه،
-وَأَمَلٍ لاَ يُدْرِكُهُ.
-  </p>
-</blockquote>
+> أَصْبَحَ لِقَضَاءِ اللهِ سَاخِطاً، وَمَنْ أَصْبَحَ يَشَكُو مُصِيبَةً
+> نَزَلَتْ بِهِ فَقَدْ أَصْبَحَ يَشْكُو رَبَّهُ، وَمَنْ أَتى غَنِيَّاً
+> فَتَوَاضَعَ لِغِنَاهُ ذَهَبَ ثُلُثَا دِينِهِ، وَمَنْ قَرَأَ الْقُرْآنَ
+> فَمَاتَ فَدَخَلَ النَّارَ فَهُوَ مِمَّنْ كَانَ يَتَّخِذُ آيَاتِ اللهِ
+> هُزُواً، وَمَنْ لَهِجَ قَلْبُهُ بِحُبِّ الدُّنْيَا الْتَاطَ قَلْبُهُ
+> مِنْهَا بِثَلاَثٍ: هَمٍّ لاَ يُغِبُّهُ، وَحِرْصٍ لاَ يَتْرُكُه،
+> وَأَمَلٍ لاَ يُدْرِكُهُ.
 
 Hadith n. 229
 -------------
@@ -4175,11 +3215,7 @@ good as estate, and goodness of moral character is as good as a
 blessing.
 
 > 229. وقال عليه السلام : كَفَى بِالْقَنَاعَةِ مُلْكاً، وَبِحُسْنِ
-<blockquote dir="rtl">
-  <p>
-الْخُلُقِ نَعِيماً.
-  </p>
-</blockquote>
+> الْخُلُقِ نَعِيماً.
 
 **Amir al-mu'minin, peace be upon him, was asked about Allah's saying:**
 (Whosoever did good, whether male or female, and he be a believer,
@@ -4188,12 +3224,8 @@ certainly We will give them their return with the best of what they were
 doing). (Qur'an, 16:97) **when he said:** that means (a life of)
 contentment. [^55]
 
-<blockquote dir="rtl">
-  <p>
-وَ سُئِلَ ع عَنْ قَوْلِهِ تَعَالَى( فَلَنُحْيِيَنَّهُ حَياةً طَيِّبَةً
-َ) قَالَ: هِيَ الْقَنَاعَةُ .
-  </p>
-</blockquote>
+> وَ سُئِلَ ع عَنْ قَوْلِهِ تَعَالَى( فَلَنُحْيِيَنَّهُ حَياةً طَيِّبَةً
+> َ) قَالَ: هِيَ الْقَنَاعَةُ .
 
 Hadith n. 230
 -------------
@@ -4203,12 +3235,8 @@ who has an abundant livelihood because he is more probable to get more
 riches and likely to secure an increase of the share therein.
 
 > 230. وقال عليه السلام : شَارِكُوا الَّذِي قَدْ أَقْبَلَ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-الرِّزْقُ، فَإِنَّهُ أَخْلَقُ لِلْغِنَى، وَأَجْدَرُ بِإِقْبَالِ
-الْحَظِّ عَلَيْهِ.
-  </p>
-</blockquote>
+> الرِّزْقُ، فَإِنَّهُ أَخْلَقُ لِلْغِنَى، وَأَجْدَرُ بِإِقْبَالِ
+> الْحَظِّ عَلَيْهِ.
 
 Hadith n. 231
 -------------
@@ -4218,12 +3246,8 @@ Hadith n. 231
 16:90). Here 'adl means equidistribution and ihsan means favour.
 
 > 231. وقال عليه السلام في قول الله تعالى : ) إِنَّ اللَّهَ يَأْمُرُ
-<blockquote dir="rtl">
-  <p>
-بِالْعَدْلِ وَ الْإِحْسانِ) : الْعَدْلُ الاْنْصَافُ، وَالاْحْسَانُ
-التَّفَضُّلُ
-  </p>
-</blockquote>
+> بِالْعَدْلِ وَ الْإِحْسانِ) : الْعَدْلُ الاْنْصَافُ، وَالاْحْسَانُ
+> التَّفَضُّلُ
 
 Hadith n. 232
 -------------
@@ -4232,11 +3256,7 @@ Hadith n. 232
 his short hand is given by a long hand.
 
 > 232. وقال عليه السلام : مَنْ يُعْطِ بِالْيَدِ الْقَصِيرَةِ يُعْطَ
-<blockquote dir="rtl">
-  <p>
-بِالْيَدِ الطَّوِيلَةِ.
-  </p>
-</blockquote>
+> بِالْيَدِ الطَّوِيلَةِ.
 
 **As-Sayyid ar-Radi says:** The meaning of this saying is that even
 though what a man spends in charity from his possessions may be small,
@@ -4249,16 +3269,12 @@ Allah are ever multiplied manifold to the favours of man since Allah's
 favours are the basis of all favours in the sense that every other
 favour springs from it and turns to it.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى و معنى ذلك أن ما ينفقه المرء من ماله فى سبيل الخير و البر و
-إن كان يسيرا فإن الله تعالى يجعل الجزاء عليه عظيما كثيرا و اليدان
-هاهنا عبارة عن النعمتين ففرق ع بين نعمة العبد و نعمة الرب تعالى ذكره
-بالقصيرة و الطويلة فجعل تلك قصيرة و هذه طويلة لأن نعم الله أبدا تضعف
-على نعم المخلوق أضعافا كثيرة إذ كانت نعم الله أصل النعم كلها فكل نعمة
-إليها ترجع و منها تنزع .
-  </p>
-</blockquote>
+> قال الرضى و معنى ذلك أن ما ينفقه المرء من ماله فى سبيل الخير و البر و
+> إن كان يسيرا فإن الله تعالى يجعل الجزاء عليه عظيما كثيرا و اليدان
+> هاهنا عبارة عن النعمتين ففرق ع بين نعمة العبد و نعمة الرب تعالى ذكره
+> بالقصيرة و الطويلة فجعل تلك قصيرة و هذه طويلة لأن نعم الله أبدا تضعف
+> على نعم المخلوق أضعافا كثيرة إذ كانت نعم الله أصل النعم كلها فكل نعمة
+> إليها ترجع و منها تنزع .
 
 Hadith n. 233
 -------------
@@ -4269,12 +3285,8 @@ respond, because the caller to fighting is a rebel and the rebel
 deserves destruction. [^56]
 
 > 233. وَ قَالَ عليه السلام لِابْنِهِ الْحَسَنِ ع: لَا تَدْعُوَنَّ إِلَى
-<blockquote dir="rtl">
-  <p>
-مُبَارَزَةٍ وَ إِنْ دُعِيتَ إِلَيْهَا فَأَجِبْ فَإِنَّ الدَّاعِيَ
-إِلَيْهَا بَاغٍ وَ الْبَاغِيَ مَصْرُوعٌ.
-  </p>
-</blockquote>
+> مُبَارَزَةٍ وَ إِنْ دُعِيتَ إِلَيْهَا فَأَجِبْ فَإِنَّ الدَّاعِيَ
+> إِلَيْهَا بَاغٍ وَ الْبَاغِيَ مَصْرُوعٌ.
 
 Hadith n. 234
 -------------
@@ -4287,14 +3299,10 @@ her own property and the property of her husband; and since she is
 weak-hearted, she will be frightened with everything that befalls her.
 
 > 234. وقال عليه السلام : خِيَارُ خِصَالِ النِّسَاءِ شِرَارُ خِصَالِ
-<blockquote dir="rtl">
-  <p>
-الرِّجَالِ: الزَّهْوُ وَالْجُبْنُ وَالْبُخْلُ، فَإذَا كَانَتِ
-الْمَرْأَةُ مَزْهُوَّةً لَمْ تُمَكِّنْ مِنْ نَفْسِهَا، وَإِذَا كَانَتْ
-بِخِيلَةً حَفِظَتْ مَالَهَا وَمَالَ بَعْلِهَا، وَإِذَا كَانَتْ
-جَبَانَةً فَرِقَتْ مِنْ كُلِّ شِيْءٍ يَعْرِضُ لَهَا.
-  </p>
-</blockquote>
+> الرِّجَالِ: الزَّهْوُ وَالْجُبْنُ وَالْبُخْلُ، فَإذَا كَانَتِ
+> الْمَرْأَةُ مَزْهُوَّةً لَمْ تُمَكِّنْ مِنْ نَفْسِهَا، وَإِذَا كَانَتْ
+> بِخِيلَةً حَفِظَتْ مَالَهَا وَمَالَ بَعْلِهَا، وَإِذَا كَانَتْ
+> جَبَانَةً فَرِقَتْ مِنْ كُلِّ شِيْءٍ يَعْرِضُ لَهَا.
 
 Hadith n. 235
 -------------
@@ -4305,24 +3313,16 @@ their proper positions. **Then, he was asked:** Describe the ignorant to
 us; and he said: I have already done so.
 
 > 235. وقيل له عليه السلام : صف لنا العاقل. فقال عليه السلام : هُوَ
-<blockquote dir="rtl">
-  <p>
-الِّذِي يَضَعُ الشَّيْءَ مَوَاضِعَهُ. قيل: فصف لنا الجاهل. قال: قَدْ
-فَعَلْتُ.
-  </p>
-</blockquote>
+> الِّذِي يَضَعُ الشَّيْءَ مَوَاضِعَهُ. قيل: فصف لنا الجاهل. قال: قَدْ
+> فَعَلْتُ.
 
 **As-Sayyid ar-Radi says:** The meaning is that the ignorant is one who
 does not place things in their proper positions. In this way, Amir
 al-mu'minin's abstention from describing was a way of describing him
 because the attributes of the ignorant are the opposite of the wise.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى: يعنى أن الجاهل هو الذى لا يضع الشي‏ء مواضعه فكأن ترك صفته
-صفة له إذ كان بخلاف وصف العاقل .
-  </p>
-</blockquote>
+> قال الرضى: يعنى أن الجاهل هو الذى لا يضع الشي‏ء مواضعه فكأن ترك صفته
+> صفة له إذ كان بخلاف وصف العاقل .
 
 Hadith n. 236
 -------------
@@ -4332,11 +3332,7 @@ of yours is more lowly in my view than the (left over) bone of a pig in
 the hand of a leper.
 
 > 236. وقال عليه السلام : وَاللهِ لَدُنْيَاكُمْ هذِهِ أَهْوَنُ فِي
-<blockquote dir="rtl">
-  <p>
-عَيْنِي مِنْ عِرَاقِ خِنْزِيرٍ فِي يَدِ مَجْذُومٍ.
-  </p>
-</blockquote>
+> عَيْنِي مِنْ عِرَاقِ خِنْزِيرٍ فِي يَدِ مَجْذُومٍ.
 
 Hadith n. 237
 -------------
@@ -4348,13 +3344,9 @@ of slaves. Still another group worshipped Allah out of gratefulness;
 this is the worship of free men.
 
 > 237. وقال عليه السلام : إِنَّ قَوْماً عَبَدُوا اللهَ رَغْبَةً فَتِلْكَ
-<blockquote dir="rtl">
-  <p>
-عِبَادَةُ التُّجَّارِ، وَإِنَّ قَوْماً عَبَدُوا اللهَ رَهْبَةً
-فَتِلْكَ عِبَادَةُ الْعَبِيدِ، وَإِنَّ قَوْماً عَبَدُوا اللهَ شُكْراً
-فَتِلْكَ عِبَادَةُ الاْحْرَارِ.
-  </p>
-</blockquote>
+> عِبَادَةُ التُّجَّارِ، وَإِنَّ قَوْماً عَبَدُوا اللهَ رَهْبَةً
+> فَتِلْكَ عِبَادَةُ الْعَبِيدِ، وَإِنَّ قَوْماً عَبَدُوا اللهَ شُكْراً
+> فَتِلْكَ عِبَادَةُ الاْحْرَارِ.
 
 Hadith n. 238
 -------------
@@ -4363,11 +3355,7 @@ Hadith n. 238
 in all; and the worst of it is that one cannot do without her.
 
 > 238. وقال عليه السلام : الْمَرْأَةُ شَرٌّ كُلُّهَا، وَشَرُّ مَا فِيهَا
-<blockquote dir="rtl">
-  <p>
-أَنَّهُ لاَ بُدَّ مِنْهَا.
-  </p>
-</blockquote>
+> أَنَّهُ لاَ بُدَّ مِنْهَا.
 
 Hadith n. 239
 -------------
@@ -4376,11 +3364,7 @@ Hadith n. 239
 loses his rights and he who believes in the backbiter loses his friend.
 
 > 239. وقال عليه السلام : مَنْ أَطَاعَ التَّوَانِيَ ضَيَّعَ الْحُقُوقَ،
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَطَاعَ الْوَاشِيَ ضَيَّعَ الصَّدِيقَ
-  </p>
-</blockquote>
+> وَمَنْ أَطَاعَ الْوَاشِيَ ضَيَّعَ الصَّدِيقَ
 
 Hadith n. 240
 -------------
@@ -4389,23 +3373,15 @@ Hadith n. 240
 piece of stone in a house is a guarantee for its ruin.
 
 > 240. وقال عليه السلام : الْحَجَرُ الْغَصِيبُ فِي الدَّارِ رَهْنٌ عَلَى
-<blockquote dir="rtl">
-  <p>
-خَرَابِهَا.
-  </p>
-</blockquote>
+> خَرَابِهَا.
 
 **As-Sayyid ar-Radi says:** In one tradition this saying is attributed
 to the Prophet. It is no wonder that the two sayings should resemble
 each other because they are driven from the same source and dispersed
 through the same means.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى و يروى هذا الكلام عن النبى (ص) و لا عجب أن يشتبه الكلامان
-لأن مستقاهما من قليب و مفرغهما من ذنوب .
-  </p>
-</blockquote>
+> قال الرضى و يروى هذا الكلام عن النبى (ص) و لا عجب أن يشتبه الكلامان
+> لأن مستقاهما من قليب و مفرغهما من ذنوب .
 
 Hadith n. 241
 -------------
@@ -4415,11 +3391,7 @@ oppressed over the oppressor will be severer than the day of the
 oppressor over the oppressed. [^57]
 
 > 241. وقال عليه السلام : يَوْمُ الْمَظْلُومِ عَلَى الظَّالِمِ أَشدُّ
-<blockquote dir="rtl">
-  <p>
-مِنْ يَوْمِ الظَّالِمِ عَلَى الْمَظْلُومِ.
-  </p>
-</blockquote>
+> مِنْ يَوْمِ الظَّالِمِ عَلَى الْمَظْلُومِ.
 
 Hadith n. 242
 -------------
@@ -4429,11 +3401,7 @@ degree (even) though it be little; and set a curtain between you and
 Allah (even) though it be thin.
 
 > 242. وقال عليه السلام : اتَّقِ اللهَ بَعْضَ التُّقَى وَإِنْ قَلَّ،
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْ بَيْنَكَ وَبَيْنَ اللهِ سِتْراً وَإِنْ رَقَّ.
-  </p>
-</blockquote>
+> وَاجْعَلْ بَيْنَكَ وَبَيْنَ اللهِ سِتْراً وَإِنْ رَقَّ.
 
 Hadith n. 243
 -------------
@@ -4452,12 +3420,8 @@ increases the blessing, and if one falls short of doing so one stands in
 danger of losing the blessing.
 
 > 244. وقال عليه السلام : إِنَّ لله فِي كُلِّ نِعْمَةٍ حَقّاً، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-أَدَّاهُ زَادَهُ مِنْهَا، وَمَنْ قَصَّرَ مِنْهُ خَاطَرَ بِزَوَالِ
-نِعْمَتِهِ.
-  </p>
-</blockquote>
+> أَدَّاهُ زَادَهُ مِنْهَا، وَمَنْ قَصَّرَ مِنْهُ خَاطَرَ بِزَوَالِ
+> نِعْمَتِهِ.
 
 Hadith n. 245
 -------------
@@ -4466,11 +3430,7 @@ Hadith n. 245
 increases, desire decreases.
 
 > 245. وقال عليه السلام : إِذَا كَثُرَتِ الْمَقْدِرَةُ قَلَّتِ
-<blockquote dir="rtl">
-  <p>
-الشَّهْوَةُ.
-  </p>
-</blockquote>
+> الشَّهْوَةُ.
 
 Hadith n. 246
 -------------
@@ -4480,11 +3440,7 @@ against the slipping away of blessings because not everything that runs
 away comes back.
 
 > 246. وقال عليه السلام : احْذَرُوا نِفَارَ النِّعَمِ فَمَا كُلُّ
-<blockquote dir="rtl">
-  <p>
-شَارِدٍ بِمَرْدُودٍ.
-  </p>
-</blockquote>
+> شَارِدٍ بِمَرْدُودٍ.
 
 Hadith n. 247
 -------------
@@ -4509,11 +3465,7 @@ Hadith n. 249
 which you have to force yourself to do.
 
 > 249. وقال عليه السلام : أَفْضَلُ الاْعْمَالِ مَا أَكْرَهْتَ نَفْسَكَ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ.
-  </p>
-</blockquote>
+> عَلَيْهِ.
 
 Hadith n. 250
 -------------
@@ -4523,11 +3475,7 @@ Allah, the Glorified, through the breaking of determinations, change of
 intentions and losing of courage. [^59]
 
 > 250. وقال عليه السلام : عَرَفْتُ اللهَ سُبْحَانَهُ بِفَسْخِ
-<blockquote dir="rtl">
-  <p>
-الْعَزَائِمِ وَحَلِّ الْعُقُودِ.
-  </p>
-</blockquote>
+> الْعَزَائِمِ وَحَلِّ الْعُقُودِ.
 
 Hadith n. 251
 -------------
@@ -4537,11 +3485,7 @@ this world is the sweetness of the next world while the sweetness of
 this world is the bitterness of the next one.
 
 > 251. وقال عليه السلام : مَرَارَةُ الدُّنْيَا حَلاَوَةُ الاْخِرَةِ،
-<blockquote dir="rtl">
-  <p>
-وَحَلاَوَةُ الدُّنْيَا مَرَارَةُ الاْخِرَةِ.
-  </p>
-</blockquote>
+> وَحَلاَوَةُ الدُّنْيَا مَرَارَةُ الاْخِرَةِ.
 
 Hadith n. 252
 -------------
@@ -4566,23 +3510,19 @@ Leadership) for the orderliness of the community and obedience (to
 Imams) as a mark of respect to the Imamate. [^60]
 
 > 252. وَ قَالَ عليه السلام: فَرَضَ اللَّهُ الْإِيمَانَ تَطْهِيراً مِنَ
-<blockquote dir="rtl">
-  <p>
-الشِّرْكِ وَ الصَّلَاةَ تَنْزِيهاً عَنِ الْكِبْرِ وَ الزَّكَاةَ
-تَسْبِيباً لِلرِّزْقِ وَ الصِّيَامَ ابْتِلَاءً لِإِخْلَاصِ الْخَلْقِ
-وَ الْحَجَّ تَقْرِبَةً لِلدِّينِ وَ الْجِهَادَ عِزّاً لِلْإِسْلَامِ وَ
-الْأَمْرَ بِالْمَعْرُوفِ مَصْلَحَةً لِلْعَوَامِّ وَ النَّهْيَ عَنِ
-الْمُنْكَرِ رَدْعاً لِلسُّفَهَاءِ وَ صِلَةَ الرَّحِمِ مَنْمَاةً
-لِلْعَدَدِ وَ الْقِصَاصَ حَقْناً لِلدِّمَاءِ وَ إِقَامَةَ الْحُدُودِ
-إِعْظَاماً لِلْمَحَارِمِ وَ تَرْكَ شُرْبِ الْخَمْرِ تَحْصِيناً
-لِلْعَقْلِ وَ مُجَانَبَةَ السَّرِقَةِ إِيجَاباً لِلْعِفَّةِ وَ تَرْكَ
-الزِّنَى تَحْصِيناً لِلنَّسَبِ وَ تَرْكَ اللِّوَاطِ تَكْثِيراً
-لِلنَّسْلِ وَ الشَّهَادَاتِ اسْتِظْهَاراً عَلَى الْمُجَاحَدَاتِ وَ
-تَرْكَ الْكَذِبِ تَشْرِيفاً لِلصِّدْقِ وَ السَّلَامَ أَمَاناً مِنَ
-الْمَخَاوِفِ وَ الْأَمَانَةَ نِظَاماً لِلْأُمَّةِ وَ الطَّاعَةَ
-تَعْظِيماً لِلْإِمَامَةِ .
-  </p>
-</blockquote>
+> الشِّرْكِ وَ الصَّلَاةَ تَنْزِيهاً عَنِ الْكِبْرِ وَ الزَّكَاةَ
+> تَسْبِيباً لِلرِّزْقِ وَ الصِّيَامَ ابْتِلَاءً لِإِخْلَاصِ الْخَلْقِ
+> وَ الْحَجَّ تَقْرِبَةً لِلدِّينِ وَ الْجِهَادَ عِزّاً لِلْإِسْلَامِ وَ
+> الْأَمْرَ بِالْمَعْرُوفِ مَصْلَحَةً لِلْعَوَامِّ وَ النَّهْيَ عَنِ
+> الْمُنْكَرِ رَدْعاً لِلسُّفَهَاءِ وَ صِلَةَ الرَّحِمِ مَنْمَاةً
+> لِلْعَدَدِ وَ الْقِصَاصَ حَقْناً لِلدِّمَاءِ وَ إِقَامَةَ الْحُدُودِ
+> إِعْظَاماً لِلْمَحَارِمِ وَ تَرْكَ شُرْبِ الْخَمْرِ تَحْصِيناً
+> لِلْعَقْلِ وَ مُجَانَبَةَ السَّرِقَةِ إِيجَاباً لِلْعِفَّةِ وَ تَرْكَ
+> الزِّنَى تَحْصِيناً لِلنَّسَبِ وَ تَرْكَ اللِّوَاطِ تَكْثِيراً
+> لِلنَّسْلِ وَ الشَّهَادَاتِ اسْتِظْهَاراً عَلَى الْمُجَاحَدَاتِ وَ
+> تَرْكَ الْكَذِبِ تَشْرِيفاً لِلصِّدْقِ وَ السَّلَامَ أَمَاناً مِنَ
+> الْمَخَاوِفِ وَ الْأَمَانَةَ نِظَاماً لِلْأُمَّةِ وَ الطَّاعَةَ
+> تَعْظِيماً لِلْإِمَامَةِ .
 
 Hadith n. 253
 -------------
@@ -4595,14 +3535,10 @@ that there is no god but He, he will not be quickly punished since he is
 expressing the Unity of Allah, the Sublime. [^61]ciii
 
 > 253. وَ كَانَ عليه السلام يَقُولُ: أَحْلِفُوا الظَّالِمَ إِذَا
-<blockquote dir="rtl">
-  <p>
-أَرَدْتُمْ يَمِينَهُ بِأَنَّهُ بَرِي‏ءٌ مِنْ حَوْلِ اللَّهِ وَ
-قُوَّتِهِ فَإِنَّهُ إِذَا حَلَفَ بِهَا كَاذِباً عُوجِلَ الْعُقُوبَةَ
-وَ إِذَا حَلَفَ بِاللَّهِ الَّذِى لَا إِلَهَ إِلَّا هُوَ لَمْ
-يُعَاجَلْ لِأَنَّهُ قَدْ وَحَّدَ اللَّهَ تَعَالَى .
-  </p>
-</blockquote>
+> أَرَدْتُمْ يَمِينَهُ بِأَنَّهُ بَرِي‏ءٌ مِنْ حَوْلِ اللَّهِ وَ
+> قُوَّتِهِ فَإِنَّهُ إِذَا حَلَفَ بِهَا كَاذِباً عُوجِلَ الْعُقُوبَةَ
+> وَ إِذَا حَلَفَ بِاللَّهِ الَّذِى لَا إِلَهَ إِلَّا هُوَ لَمْ
+> يُعَاجَلْ لِأَنَّهُ قَدْ وَحَّدَ اللَّهَ تَعَالَى .
 
 Hadith n. 254
 -------------
@@ -4612,12 +3548,8 @@ your own representative in the matter of your property and do about it
 whatever you want to be done with it after your death. [^62]
 
 > 254. وَ قَالَ عليه السلام: يَا ابْنَ آدَمَ كُنْ وَصِيَّ نَفْسِكَ فِى
-<blockquote dir="rtl">
-  <p>
-مَالِكَ وَ اعْمَلْ فِيهِ مَا تُؤْثِرُ أَنْ يُعْمَلَ فِيهِ مِنْ
-بَعْدِكَ .
-  </p>
-</blockquote>
+> مَالِكَ وَ اعْمَلْ فِيهِ مَا تُؤْثِرُ أَنْ يُعْمَلَ فِيهِ مِنْ
+> بَعْدِكَ .
 
 Hadith n. 255
 -------------
@@ -4627,11 +3559,7 @@ madness because the victim to it repents afterwards. If he does not
 repent his madness is confirmed.
 
 > 255. وقال عليه السلام : الْحِدَّةُ ضَرْبٌ مِنَ الْجُنُونِ، لاِنَّ
-<blockquote dir="rtl">
-  <p>
-صَاحِبَهَا يَنْدَمُ، فَإِنْ لَمْ يَنْدَمْ فَجُنُونُهُ مُسْتَحْكِمٌ.
-  </p>
-</blockquote>
+> صَاحِبَهَا يَنْدَمُ، فَإِنْ لَمْ يَنْدَمْ فَجُنُونُهُ مُسْتَحْكِمٌ.
 
 Hadith n. 256
 -------------
@@ -4654,16 +3582,12 @@ him it will come running like flowing water and drive away the hardship
 as wild camels are driven away.
 
 > 257. وقال عليه السلام لِكُمَيْل بن زياد النخعي: يَا كُمَيْلُ، مُرْ
-<blockquote dir="rtl">
-  <p>
-أَهْلَكَ أَنْ يَرُوحُوا في كَسْبِ الْمَكَارِمِ، وَيُدْلِجُوافِي
-حَاجَةِ مَنْ هُوَ نائِمٌ، فَوَالَّذِي وَسِعَ سَمْعُهُ الاْصْوَاتَ مَا
-مِنْ أَحَدٍ أَوْدَعَ قَلْباً سُرُوراً إِلاَّ وَخَلَقَ اللهُ لَهُ مِنْ
-ذلِكَ السُّرُورِ لُطْفاً، فَإِذَا نَزَلَتْ بِهِ نَائِبَةٌجَرَى
-إلَيْهَا كَالْمَاءِ فِي انْحِدَارِهِ حَتَّى يَطْرُدَهَا عَنْهُ كَمَا
-تُطْرَدُ غَرِيبَةُ الاْبلِ.
-  </p>
-</blockquote>
+> أَهْلَكَ أَنْ يَرُوحُوا في كَسْبِ الْمَكَارِمِ، وَيُدْلِجُوافِي
+> حَاجَةِ مَنْ هُوَ نائِمٌ، فَوَالَّذِي وَسِعَ سَمْعُهُ الاْصْوَاتَ مَا
+> مِنْ أَحَدٍ أَوْدَعَ قَلْباً سُرُوراً إِلاَّ وَخَلَقَ اللهُ لَهُ مِنْ
+> ذلِكَ السُّرُورِ لُطْفاً، فَإِذَا نَزَلَتْ بِهِ نَائِبَةٌجَرَى
+> إلَيْهَا كَالْمَاءِ فِي انْحِدَارِهِ حَتَّى يَطْرُدَهَا عَنْهُ كَمَا
+> تُطْرَدُ غَرِيبَةُ الاْبلِ.
 
 Hadith n. 258
 -------------
@@ -4672,11 +3596,7 @@ Hadith n. 258
 destitution, trade with Allah through charity.
 
 > 258. وقال عليه السلام : إِذَا أَمْلَقْتُمْ فَتَاجرِوا اللهَ
-<blockquote dir="rtl">
-  <p>
-بِالصَّدَقَةِ.
-  </p>
-</blockquote>
+> بِالصَّدَقَةِ.
 
 Hadith n. 259
 -------------
@@ -4686,11 +3606,7 @@ faithless people is faithlessness with Allah, while faithlessness with
 faithless people is faithfulness with Allah.
 
 > 259. وقال عليه السلام : الْوَفَاءُ لاِهْلِ الْغَدْرِ غَدْرٌ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-اللهِ، وَالْغَدْرُ بَأَهْلِ الْغَدْرِ وَفَاءٌ عِنْدَ اللهِ.
-  </p>
-</blockquote>
+> اللهِ، وَالْغَدْرُ بَأَهْلِ الْغَدْرِ وَفَاءٌ عِنْدَ اللهِ.
 
 Hadith n. 260
 -------------
@@ -4702,40 +3618,24 @@ a man who is in illusion because of good talk about him, while there is
 no greater ordeal by Allah, the Glorified, than the giving of time.
 
 > 260. وقال عليه السلام : كَمْ مِنْ مُسْتَدْرَجٍ بِالاْحْسَانِ إِلَيْهِ،
-<blockquote dir="rtl">
-  <p>
-وَمَغْرُورٍ بِالسَّتْرِ عَلَيْهِ، وَمَفْتُونٍ بِحُسْنِ الْقَوْلِ
-فِيهِ،مَا ابْتَلَى اللهُ سُبْحَانَهُ أَحَداً بِمِثْلِ الاْمْلاَءِ
-لَهُ.
-  </p>
-</blockquote>
+> وَمَغْرُورٍ بِالسَّتْرِ عَلَيْهِ، وَمَفْتُونٍ بِحُسْنِ الْقَوْلِ
+> فِيهِ،مَا ابْتَلَى اللهُ سُبْحَانَهُ أَحَداً بِمِثْلِ الاْمْلاَءِ
+> لَهُ.
 
 **As-Sayyid ar-Radi says:** This saying has appeared earlier as well but
 here it contains a beautiful and useful addition.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و قد مَضى هذا الكلام فيما تقدم، إلاّ أن فيه هاهنا زيادة
-مفيدة
-  </p>
-</blockquote>
+> قال الرضي: و قد مَضى هذا الكلام فيما تقدم، إلاّ أن فيه هاهنا زيادة
+> مفيدة
 
 \*\*\*\*\*
 
 Section Wherein We Have Included Selections From Wonderful Sayings Of Amir Al-Mu'minin, Peace Be Upon Him, Which Require Explanation
 ------------------------------------------------------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فصل نذكر فيه شيئاً من غريب كلامه، عليه السلام،
-  </p>
-</blockquote>
+> فصل نذكر فيه شيئاً من غريب كلامه، عليه السلام،
 
-<blockquote dir="rtl">
-  <p>
-المحتاج الى التفسير
-  </p>
-</blockquote>
+> المحتاج الى التفسير
 
 **I.** **A tradition related from Amir al-mu'minin, peace be upon him,
 says:** When the situation is like this, then the head of the religion
@@ -4743,23 +3643,15 @@ will rise and people will gather around him as pieces of rainless cloud
 collect during autumn.
 
 > I. في حديثه عليه السلام : فَإِذَا كَانَ ذلِكَ ضَرَبَ يَعْسُوبُ
-<blockquote dir="rtl">
-  <p>
-الدِّينِ بِذَنَبِهِ، فَيَجْتَمِعُونَ إِلَيْهِ كَمَا يَجْتَمِعُ قَزَعُ
-الْخَرِيفِ.
-  </p>
-</blockquote>
+> الدِّينِ بِذَنَبِهِ، فَيَجْتَمِعُونَ إِلَيْهِ كَمَا يَجْتَمِعُ قَزَعُ
+> الْخَرِيفِ.
 
 **As-Sayyid ar-Radi says:** "Ya'sub" [^64] is the great chief who is in
 charge of the people's affairs, and "quza\`" means the pieces of cloud
 which have no rain.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: يعسوب الدين: السيد العظيم المالك لاَمور الناس يومئذ،
-والقزع: قطع الغيم التي لا ماء فيها.
-  </p>
-</blockquote>
+> قال الرضي: يعسوب الدين: السيد العظيم المالك لاَمور الناس يومئذ،
+> والقزع: قطع الغيم التي لا ماء فيها.
 
 **II.** **A tradition of Amir al-mu'minin, peace be upon him, says:** He
 is a versatile speaker. [^65]
@@ -4771,12 +3663,8 @@ speech, and every one who is free in speech or walking is called
 "shahshah", while in another sense this word means a miserly and
 niggardly person.
 
-<blockquote dir="rtl">
-  <p>
-يريد: الماهر بالخطبة الماضي فيها، وكل ماض في كلام أو سير فهو شحشح،
-والشحشح في غير هذاالموضع: البخيل الممسك
-  </p>
-</blockquote>
+> يريد: الماهر بالخطبة الماضي فيها، وكل ماض في كلام أو سير فهو شحشح،
+> والشحشح في غير هذاالموضع: البخيل الممسك
 
 **III.** **A tradition from Amir al-mu'minin, peace be upon him, says:**
 Quarrels bring about ruin.
@@ -4792,25 +3680,17 @@ situation drives them to green areas, in other words the hardship of the
 desert life drives them to hadar (a civilized region with town and
 villages and a settled population [as opposed to desert] ).
 
-<blockquote dir="rtl">
-  <p>
-يريد بالقحم المهالك، لاَنها تُقِحمُ أصحابَها في المهالك والمتالف في
-الاَكثر، ومن ذلك قُحْمَةُ الاَعراب،هو أن تصيبهم السَّنةُ فتتعرّق
-أموالهم فذلك تقحّمها فيهم. و قيل فيه وجهٌ آخر: وهو أنها تُقْحِمُهُمْ
-بلادَ الريف، أي تحوجهم إلى دخول الحضر عند مُحول البَدْوِ.
-  </p>
-</blockquote>
+> يريد بالقحم المهالك، لاَنها تُقِحمُ أصحابَها في المهالك والمتالف في
+> الاَكثر، ومن ذلك قُحْمَةُ الاَعراب،هو أن تصيبهم السَّنةُ فتتعرّق
+> أموالهم فذلك تقحّمها فيهم. و قيل فيه وجهٌ آخر: وهو أنها تُقْحِمُهُمْ
+> بلادَ الريف، أي تحوجهم إلى دخول الحضر عند مُحول البَدْوِ.
 
 **IV.** **A tradition of Amir al-mu'niinin, peace be upon him, says:**
 When girls reach the stage of (realizing) realities, relations on the
 father's side are preferable.
 
 > IV. وفي حديثه عليه السلام : إِذَا بَلَغَ النِّسَاءُ نَصَّ الْحِقَاقِ
-<blockquote dir="rtl">
-  <p>
-فَالْعَصَبَةُ أَوْلَى.
-  </p>
-</blockquote>
+> فَالْعَصَبَةُ أَوْلَى.
 
 **As-Sayyid ar-Radi says:** Instead of "nassa'l-hiqaq "the combination
 "nassa'l-haqa'iq" has also been related. "nass" means the last end of
@@ -4833,27 +3713,19 @@ refers to the stage when rights and duties become applicable. The person
 who has related the word as "haqa'iq" intends to signify the plural of
 "haqiqah" (reality).
 
-<blockquote dir="rtl">
-  <p>
-قال: ويروى (نص الحقائق)، والنص منتهى الأشياء ومبلغ أقصاها كالنص في
-السير لأنه أقصى ما تقدر عليه الدابة، ويقال نصصت الرجل عن الامر إذا
-استقصيت مسألته لتستخرج ما عنده فيه، ونص الحقائق يريد به الادراك، لأنه
-منتهى الصغر، والوقت الذي يخرج منه الصغير إلى حد الكبر، وهو من أفصح
-الكنايات عن هذا الامر وأغربها، يقول فإذا بلغ النساء ذلك فالعصبة أولى
-بالمرأة من أمها إذا كانوا محرما مثل الاخوة والأعمام، وبتزويجها إن
-أرادوا ذلك.
-  </p>
-</blockquote>
+> قال: ويروى (نص الحقائق)، والنص منتهى الأشياء ومبلغ أقصاها كالنص في
+> السير لأنه أقصى ما تقدر عليه الدابة، ويقال نصصت الرجل عن الامر إذا
+> استقصيت مسألته لتستخرج ما عنده فيه، ونص الحقائق يريد به الادراك، لأنه
+> منتهى الصغر، والوقت الذي يخرج منه الصغير إلى حد الكبر، وهو من أفصح
+> الكنايات عن هذا الامر وأغربها، يقول فإذا بلغ النساء ذلك فالعصبة أولى
+> بالمرأة من أمها إذا كانوا محرما مثل الاخوة والأعمام، وبتزويجها إن
+> أرادوا ذلك.
 
-<blockquote dir="rtl">
-  <p>
-والحقاق: محاقة الام للعصبة في المرأة، وهو الجدال، والخصومة، وقول كل
-واحد منهما للآخر: أنا أحق منك بهذا، يقال منه: حاققته حقاقا، مثل جادلته
-جدالا. قال: وقد قيل إن نص الحقاق بلوغ العقل وهو الادراك، لأنه عليه
-السلام إنما أراد منتهى الامر الذي تجب به الحقوق والاحكام. قال: ومن
-رواه (نص الحقائق) فإنما أراد جمع حقيقة،
-  </p>
-</blockquote>
+> والحقاق: محاقة الام للعصبة في المرأة، وهو الجدال، والخصومة، وقول كل
+> واحد منهما للآخر: أنا أحق منك بهذا، يقال منه: حاققته حقاقا، مثل جادلته
+> جدالا. قال: وقد قيل إن نص الحقاق بلوغ العقل وهو الادراك، لأنه عليه
+> السلام إنما أراد منتهى الامر الذي تجب به الحقوق والاحكام. قال: ومن
+> رواه (نص الحقائق) فإنما أراد جمع حقيقة،
 
 The above is what Abu 'Ubayd al-Qasim ibn Sallam has stated (in Gharib
 al-hadith, vol.3, pp.456 -458); but I think that the intention here by
@@ -4868,50 +3740,34 @@ its back and to exert it in walking. "haqa'iq" too is the plural of
 interpretation is more in keeping with the way of the Arabs than the
 other one stated earlier.
 
-<blockquote dir="rtl">
-  <p>
-هذا معنى ما ذكره أبو عبيد القاسم بن سلام. قال: والذي عندي أن المراد
-بنص الحقاق هاهنا بلوغ المرأة إلى الحد الذي يجوز فيه تزويجها وتصرفها في
-حقوقها، تشبيها بالحقاق من الإبل، وهي جمع حقة وحق، وهو الذي استكمل ثلاث
-سنين ودخل في الرابعة، وعند ذلك يبلغ إلى الحد الذي يمكن فيه من ركوب
-ظهره ونصه في سيره، والحقائق أيضا: جمع حقة، فالروايتان جميعا ترجعان إلى
-مسمى واحد، وهذا أشبه بطريقة العرب من المعنى المذكور أولا.
-  </p>
-</blockquote>
+> هذا معنى ما ذكره أبو عبيد القاسم بن سلام. قال: والذي عندي أن المراد
+> بنص الحقاق هاهنا بلوغ المرأة إلى الحد الذي يجوز فيه تزويجها وتصرفها في
+> حقوقها، تشبيها بالحقاق من الإبل، وهي جمع حقة وحق، وهو الذي استكمل ثلاث
+> سنين ودخل في الرابعة، وعند ذلك يبلغ إلى الحد الذي يمكن فيه من ركوب
+> ظهره ونصه في سيره، والحقائق أيضا: جمع حقة، فالروايتان جميعا ترجعان إلى
+> مسمى واحد، وهذا أشبه بطريقة العرب من المعنى المذكور أولا.
 
 **V. A tradition of Amir al-mu'minin, peace be upon him, says:** Faith
 produces a "lumzah" in the heart. As faith develops, the "lumzah" also
 increases.
 
 > V. وفي حديثه عليه السلام : إنَّ الاْيمَانَ يَبْدُو لُمْظَةً فِي
-<blockquote dir="rtl">
-  <p>
-الْقَلْبِ، كُلَّمَا ازْدَاد الاْيمَانُ ازْدَادَتِ الُّلمْظَةُ.
-  </p>
-</blockquote>
+> الْقَلْبِ، كُلَّمَا ازْدَاد الاْيمَانُ ازْدَادَتِ الُّلمْظَةُ.
 
 **As-Sayyid ar-Radi says:** "lumzah" is a white spot or something like
 that. On that analogy if a horse has a white spot on its lower lip it is
 called "farusun almaz", that is, a white-spotted horse.
 
-<blockquote dir="rtl">
-  <p>
-الُّلمْظَةُ مثل النكتة أو نحوها من البياض، ومنه قيل فرس ألمظ: إذا كان
-بجحفلته شيء من البياض.
-  </p>
-</blockquote>
+> الُّلمْظَةُ مثل النكتة أو نحوها من البياض، ومنه قيل فرس ألمظ: إذا كان
+> بجحفلته شيء من البياض.
 
 **VI. A tradition of Amir al-mu'minin, peace be upon him) says:** If a
 man has a "ad-daynu'z-zanun" (i.e. doubtful loan) it is his duty to pay
 zakat thereon for all the past years when he recovers it.
 
 > VI. وفي حديثه عليه السلام : إِنَّ الرَّجُلَ إِذَا كَانَ لَهُ الدَّيْنُ
-<blockquote dir="rtl">
-  <p>
-الظَّنُونُ يَجِبُ عَلَيْهِ أَنْ يُزَكِّيَهُ لِمَا مَضَى إِذَا
-قَبَضَهُ.
-  </p>
-</blockquote>
+> الظَّنُونُ يَجِبُ عَلَيْهِ أَنْ يُزَكِّيَهُ لِمَا مَضَى إِذَا
+> قَبَضَهُ.
 
 **as-Sayyid ar-Radi says:** "az-zanun" is the loan about which the
 lender does not know whether he will be able to recover it from the
@@ -4928,50 +3784,26 @@ boat as well as the adept swimmer.
 "Judd" means the well (situated in a wilderness), while zanun is that
 about which it is not known whether or not it has water.
 
-<blockquote dir="rtl">
-  <p>
-فالظَّنُونُ: الذي لايَعْلَمُ صاحبُهُ أيقبضُه من الذي هو عليه أم لا،
-فكأنّه الذي يُظَنُّ به، فمرة يرجوه و مرة لا يرجوه. و هو من أفصح
-الكلام، وكذلك كلّ أمرٍ تطلبه ولا تدري على أي شيء أنت منه فهو ظَنون،
-  </p>
-</blockquote>
+> فالظَّنُونُ: الذي لايَعْلَمُ صاحبُهُ أيقبضُه من الذي هو عليه أم لا،
+> فكأنّه الذي يُظَنُّ به، فمرة يرجوه و مرة لا يرجوه. و هو من أفصح
+> الكلام، وكذلك كلّ أمرٍ تطلبه ولا تدري على أي شيء أنت منه فهو ظَنون،
 
-<blockquote dir="rtl">
-  <p>
-وعلى ذلك قول الاَعشى:
-  </p>
-</blockquote>
+> وعلى ذلك قول الاَعشى:
 
-<blockquote dir="rtl">
-  <p>
-مَا يُجْعَلُ الْجُدُّ الظَّنُونُ الَّذِي \* جُنِّبَ صَوْبَ اللَّجِبِ
-الْمَاطِرِ
-  </p>
-</blockquote>
+> مَا يُجْعَلُ الْجُدُّ الظَّنُونُ الَّذِي \* جُنِّبَ صَوْبَ اللَّجِبِ
+> الْمَاطِرِ
 
-<blockquote dir="rtl">
-  <p>
-مِثْلَ الْفُرَاتِيِّ إِذَا مَا طَمَا \* يَقْذِفُ بِالْبُوصِيِّ
-وَالْمَاهِرِ
-  </p>
-</blockquote>
+> مِثْلَ الْفُرَاتِيِّ إِذَا مَا طَمَا \* يَقْذِفُ بِالْبُوصِيِّ
+> وَالْمَاهِرِ
 
-<blockquote dir="rtl">
-  <p>
-والجُدّ: البئر، والظنون: التي لا يُدرى هل فيها ماء أم لا.
-  </p>
-</blockquote>
+> والجُدّ: البئر، والظنون: التي لا يُدرى هل فيها ماء أم لا.
 
 **VII. A tradition of Amir al-mu'minin, peace be upon him, relates that
 he arranged a force for advancing for jihad and said**: i'dhibu (turn
 away) from women so far as you can.
 
 > VII. وفي حديثه عليه السلام أَنه شيّع جيشاً يغْزِيهِ فقال:
-<blockquote dir="rtl">
-  <p>
-اعْذِبُواعَنِ النِّسَاءِ مَا اسْتَطَعْتُمْ.
-  </p>
-</blockquote>
+> اعْذِبُواعَنِ النِّسَاءِ مَا اسْتَطَعْتُمْ.
 
 **As-Sayyid ar-Radi says:** It (i'dhibu) means that "keep off" from
 thoughts of women and from clinging your heart to them, and do not have
@@ -4981,26 +3813,18 @@ prevents from exerting in fighting. Whatever prevents from something is
 called " 'adhaba 'anhu" i.e., turned away from it. Thus, "al-'adhib" and
 "al-'adhub" mean one who gives up eating and drinking.
 
-<blockquote dir="rtl">
-  <p>
-و معناه: اصدِفوا عن ذكر النساء وشُغُلِ القلب بهن، وامتنعُوا من
-المقاربة لهنّ، لاَن ذلك يَفُتُّ في عضُد الحميّة، ويقدح في معاقد
-العزيمة ويكسِر عن العَدْوِ، وَيلفِتُ عن الاِبعاد في الغزو، وكلُّ من
-امتنع من شيء فقد أعْذَبَ عنه، والعاذبُ والعَذُوب: الممتنع من الاَكل
-والشرب.
-  </p>
-</blockquote>
+> و معناه: اصدِفوا عن ذكر النساء وشُغُلِ القلب بهن، وامتنعُوا من
+> المقاربة لهنّ، لاَن ذلك يَفُتُّ في عضُد الحميّة، ويقدح في معاقد
+> العزيمة ويكسِر عن العَدْوِ، وَيلفِتُ عن الاِبعاد في الغزو، وكلُّ من
+> امتنع من شيء فقد أعْذَبَ عنه، والعاذبُ والعَذُوب: الممتنع من الاَكل
+> والشرب.
 
 **VIII.** **A tradition of Amir al-mu'minin, peace be upon him, says:**
 Like the successful shooter (al-yasir al-falij) who looks forward to
 achieving success at his first shot.
 
 > VIII. وفي حديثه عليه السلام : كَالْيَاسِرِ الْفَالِجِ يَنْتَظِرُ
-<blockquote dir="rtl">
-  <p>
-أَوَّلَ فَوْزةٍ مِنْ قِدَاحِهِ..
-  </p>
-</blockquote>
+> أَوَّلَ فَوْزةٍ مِنْ قِدَاحِهِ..
 
 **As-Sayyid ar-Radi says:** "al-ya~sirun' (pl. of al-yasir) means those
 who shoot with arrows on the slaughtered camel by way of gambling; while
@@ -5010,18 +3834,10 @@ overpowered them). A poet has said by way of war recital:
 
 When I noticed a successful person securing victory.
 
-<blockquote dir="rtl">
-  <p>
-قال: الياسرون هم الذين يتضاربون بالقداح على الجزور، والفالج: القاهر
-الغالب، يقال: قد فلج عليهم وفلجهم، قال الراجز:
-  </p>
-</blockquote>
+> قال: الياسرون هم الذين يتضاربون بالقداح على الجزور، والفالج: القاهر
+> الغالب، يقال: قد فلج عليهم وفلجهم، قال الراجز:
 
-<blockquote dir="rtl">
-  <p>
-\* لما رأيت فالجا قد فلجا \*
-  </p>
-</blockquote>
+> \* لما رأيت فالجا قد فلجا \*
 
 **IX.** **A tradition of Amir al-mu'minin, peace be upon him, runs:**
 When the crisis became red-hot we sought refuge with the Messenger of
@@ -5029,12 +3845,8 @@ Allah (peace-be upon him and his descendants), arid none of us was
 closer to the enemy than he himself.
 
 > IX. وفي حديثه عليه السلام : كُنَّا إِذَا احْمَرَّ الْبَأْسُ
-<blockquote dir="rtl">
-  <p>
-اتَّقَيْنَا بِرَسُولِ اللهِ صلى الله عليه وآله ، فَلَمْ يَكُنْ أَحَدٌ
-مِنَّا أَقْرَبَ إِلَى الْعَدُوِّ مِنْهُ.
-  </p>
-</blockquote>
+> اتَّقَيْنَا بِرَسُولِ اللهِ صلى الله عليه وآله ، فَلَمْ يَكُنْ أَحَدٌ
+> مِنَّا أَقْرَبَ إِلَى الْعَدُوِّ مِنْهُ.
 
 **as-Sayyid ar-Radi says:** This means that when fear of the enemy
 increased and fighting became serious, the Muslims would begin to think
@@ -5042,13 +3854,9 @@ that since the Messenger of Allah had taken up fighting himself, Allah
 must give them victory through him and that therefore they would be safe
 from all the dangers because of his existence.
 
-<blockquote dir="rtl">
-  <p>
-ومعنى ذلك: أنه إذا عَظُم الخوفُ من العدو واشتد عِضَاضُ الحربِ فَزِعَ
-المسلمون إلى قتال رسول الله صلى الله عليه وآله بنفسه، فيُنزِلُ الله
-تعالى النصر عليهم، ويأمنون ما كانوا يخافونه بمكانه.
-  </p>
-</blockquote>
+> ومعنى ذلك: أنه إذا عَظُم الخوفُ من العدو واشتد عِضَاضُ الحربِ فَزِعَ
+> المسلمون إلى قتال رسول الله صلى الله عليه وآله بنفسه، فيُنزِلُ الله
+> تعالى النصر عليهم، ويأمنون ما كانوا يخافونه بمكانه.
 
 And the words "idha'hmarra'l-ba'su" (when the crisis became red-hot)
 refers to the seriousness of the matter. For this purpose several
@@ -5062,25 +3870,17 @@ lighted. In this way, the Messenger of Allah (peace be upon him and his
 descendants) likened the seriousness of fighting by men to the
 seriousness of the fire and its flames.
 
-<blockquote dir="rtl">
-  <p>
-وقوله: (إذا احمر البأس): كناية عن اشتداد الامر، وقد قيل في ذلك أقوال،
-أحسنها أنه شبه حمى الحرب بالنار التي تجمع الحرارة والحمرة بفعلها
-ولونها، ومما يقوى ذلك قول الرسول صلى الله عليه وآله وقد رأى مجتلد
-الناس يوم حنين وهي حرب هوازن: (الان حمى الوطيس)، والوطيس: مستوقد
-النار، فشبه رسول الله صلى الله عليه وآله ما استحر من جلاد القوم
-باحتدام النار وشدة التهابها.
-  </p>
-</blockquote>
+> وقوله: (إذا احمر البأس): كناية عن اشتداد الامر، وقد قيل في ذلك أقوال،
+> أحسنها أنه شبه حمى الحرب بالنار التي تجمع الحرارة والحمرة بفعلها
+> ولونها، ومما يقوى ذلك قول الرسول صلى الله عليه وآله وقد رأى مجتلد
+> الناس يوم حنين وهي حرب هوازن: (الان حمى الوطيس)، والوطيس: مستوقد
+> النار، فشبه رسول الله صلى الله عليه وآله ما استحر من جلاد القوم
+> باحتدام النار وشدة التهابها.
 
 **This section ends and we return to the original theme of the
 chapter.**
 
-<blockquote dir="rtl">
-  <p>
-انقضى هذا الفصل، ثم رجعنا إلى سنن الغرض الأول في هذا الباب.
-  </p>
-</blockquote>
+> انقضى هذا الفصل، ثم رجعنا إلى سنن الغرض الأول في هذا الباب.
 
 \*\*\*\*\*
 
@@ -5093,12 +3893,8 @@ till he reached an-Nukhaylah, where people overtook him and said:** "O'
 Amir al-mu'minin, we are enough for them**," then he said**:
 
 > 261. وقال عليه السلام لما بلغه إغارةُ أصحاب معاويةَ على الاَنبار، فخرج
-<blockquote dir="rtl">
-  <p>
-بنفسه ماشياً حتى أتى النُّخَيْلَةَ فأدركه الناسُ وقالوا: يا
-أميرالمؤمنين نحن نكفيكَهُمْ. فقال عليه السلام :
-  </p>
-</blockquote>
+> بنفسه ماشياً حتى أتى النُّخَيْلَةَ فأدركه الناسُ وقالوا: يا
+> أميرالمؤمنين نحن نكفيكَهُمْ. فقال عليه السلام :
 
 You cannot be enough for me against yourselves, so how can you be enough
 for me against others? Before me the people used to complain of the
@@ -5106,15 +3902,11 @@ oppression of their rulers but now I have to complain of the wrongful
 actions of my people; as though I am led by them and they are the
 leaders or that I am the subject and they are the rulers.
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ مَا تَكْفُونَنِي أَنْفُسَكُمْ، فَكَيْفَ تَكْفُونَنِي
-غَيْرَكُمْ؟ إِنْ كَانَتِ الرَّعَايَا قَبْلِي لَتَشْكُوا حَيْفَ
-رُعَاتِهَا، وَإِنَّنِي الْيَوْمَ لاَشْكُو حَيْفَ رَعِيَّتِي،
-كَأَنَّنِيَ الْمَقُودُوَهُمُ الْقَادَةُ، أَوِ ألْمَوْزُوعُ وَهُمُ
-الْوَزَعَةُ.
-  </p>
-</blockquote>
+> وَاللهِ مَا تَكْفُونَنِي أَنْفُسَكُمْ، فَكَيْفَ تَكْفُونَنِي
+> غَيْرَكُمْ؟ إِنْ كَانَتِ الرَّعَايَا قَبْلِي لَتَشْكُوا حَيْفَ
+> رُعَاتِهَا، وَإِنَّنِي الْيَوْمَ لاَشْكُو حَيْفَ رَعِيَّتِي،
+> كَأَنَّنِيَ الْمَقُودُوَهُمُ الْقَادَةُ، أَوِ ألْمَوْزُوعُ وَهُمُ
+> الْوَزَعَةُ.
 
 **The narrator says:** When Amir al-mu'minin, peace be upon him, uttered
 this during his long speech which we have included in the collection of
@@ -5124,14 +3916,10 @@ one of them said: *I rule no one except myself and my brother* (Qur'an,
 accomplish it. **Thereupon, Amir al-mu'minin, peace be upon him, said:**
 How can you two accomplish what I aim at?
 
-<blockquote dir="rtl">
-  <p>
-فلما قال عليه السلام هذا القول، في كلامٍ طويلٍ قد ذكرنا مختارَه في
-جملةِ الخُطَب، تقدّم إليه رجلان من أصحابه فقال أحدهما: إنّي لا أملك
-إلاّ نفسي وأخي، فَمُرْنا بأمرك يا أميرالمؤمنين نُنْفِد له. فقال عليه
-السلام : وأَيْنَ تَقَعَانِ مِمَّا أُريدُ؟
-  </p>
-</blockquote>
+> فلما قال عليه السلام هذا القول، في كلامٍ طويلٍ قد ذكرنا مختارَه في
+> جملةِ الخُطَب، تقدّم إليه رجلان من أصحابه فقال أحدهما: إنّي لا أملك
+> إلاّ نفسي وأخي، فَمُرْنا بأمرك يا أميرالمؤمنين نُنْفِد له. فقال عليه
+> السلام : وأَيْنَ تَقَعَانِ مِمَّا أُريدُ؟
 
 Hadith n. 262
 -------------
@@ -5148,16 +3936,12 @@ case, I shall withdraw along with Sa'd ibn Malik and 'Abdullah: ibn
 Sa'd and 'Umar have neither sided with Right nor forsaken Wrong. [^66]
 
 > 262. وقيل: إنّ الحارث بن حَوْطٍ أتاه عليه السلام فقال: أتُراني أظنّ
-<blockquote dir="rtl">
-  <p>
-أصحابَ الجمل كانوا على ضلالة؟ فقال عليه السلام : يَا حَارثِ، إِنَّكَ
-نَظَرْتَ تَحْتَكَ وَلَمْ تَنْظُرْ فَوْقَكَ فَحِرْتَ إِنَّكَ لَمْ
-تَعْرِفِ الْحَقَّ فَتَعْرِفَ مَنْ أَتاهُ، وَلَمْ تَعْرِفِ الْبَاطِلَ
-فَتَعْرِفَ مَنْ أَتَاهُ. فقال الحارث: فإنّي أَعتزل مع سعيد بن مالك
-وعبد الله بن عمر. فقال عليه السلام : إِنَّ سَعِيداً وَعَبْدَ اللهِ
-بْنَ عُمَرَ لَمْ يَنْصُرَا الْحَقَّ، وَلَمْ يَخْذُلاَ الْبَاطِلَ.
-  </p>
-</blockquote>
+> أصحابَ الجمل كانوا على ضلالة؟ فقال عليه السلام : يَا حَارثِ، إِنَّكَ
+> نَظَرْتَ تَحْتَكَ وَلَمْ تَنْظُرْ فَوْقَكَ فَحِرْتَ إِنَّكَ لَمْ
+> تَعْرِفِ الْحَقَّ فَتَعْرِفَ مَنْ أَتاهُ، وَلَمْ تَعْرِفِ الْبَاطِلَ
+> فَتَعْرِفَ مَنْ أَتَاهُ. فقال الحارث: فإنّي أَعتزل مع سعيد بن مالك
+> وعبد الله بن عمر. فقال عليه السلام : إِنَّ سَعِيداً وَعَبْدَ اللهِ
+> بْنَ عُمَرَ لَمْ يَنْصُرَا الْحَقَّ، وَلَمْ يَخْذُلاَ الْبَاطِلَ.
 
 Hadith n. 263
 -------------
@@ -5167,11 +3951,7 @@ authority is like the rider on a lion - he is envied for his position
 but he well knows his position. [^67]
 
 > 263. وقال عليه السلام : صَاحِبُ السُّلْطَانِ كَرَاكِبِ الاْسَدِ :
-<blockquote dir="rtl">
-  <p>
-يُغْبَطُ بِمَوْقِعِهِ، وَهُوَ أَعْلَمُ بِمَوْضِعِهِ.
-  </p>
-</blockquote>
+> يُغْبَطُ بِمَوْقِعِهِ، وَهُوَ أَعْلَمُ بِمَوْضِعِهِ.
 
 Hadith n. 264
 -------------
@@ -5180,11 +3960,7 @@ Hadith n. 264
 bereaved ones of others so that good is done to your bereaved ones also.
 
 > 264. وقال عليه السلام : أَحْسِنُوا فِي عَقِبِ غَيْرِكُمْ تُحْفَظُوا
-<blockquote dir="rtl">
-  <p>
-فِي عَقِبِكُمْ.
-  </p>
-</blockquote>
+> فِي عَقِبِكُمْ.
 
 Hadith n. 265
 -------------
@@ -5194,11 +3970,7 @@ of the wise is to the point it serves as a cure, but if it is wrong it
 proves like an illness. [^68]
 
 > 265. وقال عليه السلام : إِنَّ كَلاَمَ الْحُكَمَاءِ إذَا كَانَ صَوَاباً
-<blockquote dir="rtl">
-  <p>
-كَانَ دَوَاءً، وَإِذَا كَانَ خَطَأً كَانَ دَاءً.
-  </p>
-</blockquote>
+> كَانَ دَوَاءً، وَإِذَا كَانَ خَطَأً كَانَ دَاءً.
 
 Hadith n. 266
 -------------
@@ -5210,24 +3982,16 @@ others might retain it, because an utterance is like a fluttering prey
 which may be grappled with by someone but missed by others.
 
 > 266. وسأَله عليه السلام رجل أَن يعرّفه ما الاِيمان. فقال: إِذَا كَانَ
-<blockquote dir="rtl">
-  <p>
-غَدٌ فَأْتِنِي حَتَّى أُخْبِرَكَ عَلَى أَسْمَاعِ النَّاسِ، فإِنْ
-نَسِيتَ مَقَالَتِي حَفِظَهَا عَلَيْكَ غَيْرُكَ، فَإِنَّ الْكَلاَمَ
-كَالشَّارِدَةِ، يَنْقُفُهَاهذَا وَيُخْطِئُهَاهذَا.
-  </p>
-</blockquote>
+> غَدٌ فَأْتِنِي حَتَّى أُخْبِرَكَ عَلَى أَسْمَاعِ النَّاسِ، فإِنْ
+> نَسِيتَ مَقَالَتِي حَفِظَهَا عَلَيْكَ غَيْرُكَ، فَإِنَّ الْكَلاَمَ
+> كَالشَّارِدَةِ، يَنْقُفُهَاهذَا وَيُخْطِئُهَاهذَا.
 
 **As-Sayyid ar-Radi says:** We have already stated in the earlier
 chapter what Amir al-mu'minin replied to this man, namely his saying
 (no.31) "Faith stands on four supports."
 
-<blockquote dir="rtl">
-  <p>
-وقد ذكرنا ما أجابه به عليه السلام فيما تقدم من هذا الباب، وهو قوله:
-الاِيمان على أربع شعب.
-  </p>
-</blockquote>
+> وقد ذكرنا ما أجابه به عليه السلام فيما تقدم من هذا الباب، وهو قوله:
+> الاِيمان على أربع شعب.
 
 Hadith n. 267
 -------------
@@ -5238,12 +4002,8 @@ has already come, because if that day be in your life Allah will bestow
 its livelihood also.
 
 > 267. وقال عليه السلام : يَابْنَ آدَمَ، لاَ تَحْمِلْ هَمَّ يَوْمِكَ
-<blockquote dir="rtl">
-  <p>
-الَّذِي لَمْ يَأْتِكَ عَلَى يَوْمِكَ الَّذِي قَدْ أَتَاكَ، فَإِنَّهُ
-إِنْ يَكُ مِنْ عُمُرِكَ يَأْتِ اللهُ فِيهِ بِرِزْقِكَ.
-  </p>
-</blockquote>
+> الَّذِي لَمْ يَأْتِكَ عَلَى يَوْمِكَ الَّذِي قَدْ أَتَاكَ، فَإِنَّهُ
+> إِنْ يَكُ مِنْ عُمُرِكَ يَأْتِ اللهُ فِيهِ بِرِزْقِكَ.
 
 Hadith n. 268
 -------------
@@ -5254,12 +4014,8 @@ enemy some day; and hate your enemy up to a limit for it is possible
 that he may turn into your friend some day.
 
 > 268. وقال عليه السلام : أَحْبِبْ حَبِيبَكَ هَوْناً مَا عَسَى أَنْ
-<blockquote dir="rtl">
-  <p>
-يَكُونَ بَغِيضَكَ يَوْماً مَا، وَأَبْغِضْ بَغِيضَكَ هَوْناً مَا عَسَى
-أَنْ يَكُونَ حَبِيبَكَ يَوْماً مَا.
-  </p>
-</blockquote>
+> يَكُونَ بَغِيضَكَ يَوْماً مَا، وَأَبْغِضْ بَغِيضَكَ هَوْناً مَا عَسَى
+> أَنْ يَكُونَ حَبِيبَكَ يَوْماً مَا.
 
 Hadith n. 269
 -------------
@@ -5276,17 +4032,13 @@ houses together. In this way, he is prestigious before Allah. If he asks
 Allah anything He does not deny him.
 
 > 269. وقال عليه السلام : النَّاسُ فِي الدُّنْيَا عَامِلاَنِ: عَامِلٌ
-<blockquote dir="rtl">
-  <p>
-عَمِلَ فِي الدُّنْيَا لِلدُّنْيَا، قَدْ شَغَلَتْهُ دُنْيَاهُ عَنْ
-آخِرَتِهِ، يَخْشَى عَلَى مَنْ يَخْلُفُهُ الْفَقْرَ، وَيأْمَنُهُ عَلَى
-نَفْسِهِ، فَيُفْنِي عُمُرَهُ فِي مَنْفَعَةِ غَيْرِهِ. وَعَامِلٌ عَمِلَ
-فِي الدُّنْيَا لِمَا بَعْدَهَا، فَجَاءَهُ الَّذِي لَهُ مِنَ الدُّنْيَا
-بِغَيْرِ عَمَلٍ، فَأَحْرَزَ الْحَظَّيْنِ مَعاً، وَمَلَكَ الدَّارَيْنِ
-جَمِيعاً، فَأَصْبَحَ وَجِيهاًعِنْدَاللهِ، لاَ يَسْأَلُ اللهَ حَاجَةً
-فَيَمْنَعَهُ.
-  </p>
-</blockquote>
+> عَمِلَ فِي الدُّنْيَا لِلدُّنْيَا، قَدْ شَغَلَتْهُ دُنْيَاهُ عَنْ
+> آخِرَتِهِ، يَخْشَى عَلَى مَنْ يَخْلُفُهُ الْفَقْرَ، وَيأْمَنُهُ عَلَى
+> نَفْسِهِ، فَيُفْنِي عُمُرَهُ فِي مَنْفَعَةِ غَيْرِهِ. وَعَامِلٌ عَمِلَ
+> فِي الدُّنْيَا لِمَا بَعْدَهَا، فَجَاءَهُ الَّذِي لَهُ مِنَ الدُّنْيَا
+> بِغَيْرِ عَمَلٍ، فَأَحْرَزَ الْحَظَّيْنِ مَعاً، وَمَلَكَ الدَّارَيْنِ
+> جَمِيعاً، فَأَصْبَحَ وَجِيهاًعِنْدَاللهِ، لاَ يَسْأَلُ اللهَ حَاجَةً
+> فَيَمْنَعَهُ.
 
 Hadith n. 270
 -------------
@@ -5299,12 +4051,8 @@ the Ka'bah do with the ornaments? **'Umar thought of doing so but asked
 Amir al-mu'minin, peace be upon him, who said:**
 
 > 270. وروي أنه ذكر عند عمر بن الخطاب في أيامه حَلْي الكعبةِ وكثرتُهُ،
-<blockquote dir="rtl">
-  <p>
-فقال قوم: لو أخذته فجهزتَ به جيوش المسلمين كان أَعظم للاَجر، وما تصنع
-الكعبةُ بالْحَلْي؟ فهمّ عمر بذلك، وسأل عنه أميرالمؤمنين عليه السلام .
-  </p>
-</blockquote>
+> فقال قوم: لو أخذته فجهزتَ به جيوش المسلمين كان أَعظم للاَجر، وما تصنع
+> الكعبةُ بالْحَلْي؟ فهمّ عمر بذلك، وسأل عنه أميرالمؤمنين عليه السلام .
 
 When the Qur'an was descended on the Prophet, peace be upon him and his
 descendants, there were four kinds of property. One, the property of
@@ -5317,28 +4065,20 @@ exist in those days but Allah left them as they were, but did not leave
 them by omission, nor were they unknown to Him. Therefore, you retain
 them where Allah and His Prophet placed them.
 
-<blockquote dir="rtl">
-  <p>
-فقال: إِنَّ القُرْآنَ أُنْزِلَ عَلَى النَّبِيِّ صلى الله عليه وآله
-وَالاْمْوَالُ أَرْبَعَةٌ: أَمْوَالُ الْمُسْلِمِينَ فَقَسَّمَهَا بَيْنَ
-الْوَرَثَةِ فِي الْفَرَائِضِ، وَالْفَيْءُ فَقَسَّمَهُ عَلَى
-مُسْتَحِقِّيهِ، وَالْخُمُسُ فَوَضَعَهُ اللهُ حَيْثُ وَضَعَهُ،
-وَالصَّدَقَاتُ فَجَعَلَهَا اللهُ حَيْثُ جَعَلَهَا. وَكَانَ حَلْيُ
-الْكَعْبَةِ فِيهَا يَوْمَئِذٍ، فَتَرَكَهُ اللهُ عَلَى حَالِهِ، وَلَمْ
-يَتْرُكْهُ نِسْيَاناً، وَلَمْ يَخْفَ عَلَيْهِ مَكَاناً، فَأَقِرَّهُ
-حَيْثُ أَقَرَّهُ اللهُ وَرَسُولُهُ.
-  </p>
-</blockquote>
+> فقال: إِنَّ القُرْآنَ أُنْزِلَ عَلَى النَّبِيِّ صلى الله عليه وآله
+> وَالاْمْوَالُ أَرْبَعَةٌ: أَمْوَالُ الْمُسْلِمِينَ فَقَسَّمَهَا بَيْنَ
+> الْوَرَثَةِ فِي الْفَرَائِضِ، وَالْفَيْءُ فَقَسَّمَهُ عَلَى
+> مُسْتَحِقِّيهِ، وَالْخُمُسُ فَوَضَعَهُ اللهُ حَيْثُ وَضَعَهُ،
+> وَالصَّدَقَاتُ فَجَعَلَهَا اللهُ حَيْثُ جَعَلَهَا. وَكَانَ حَلْيُ
+> الْكَعْبَةِ فِيهَا يَوْمَئِذٍ، فَتَرَكَهُ اللهُ عَلَى حَالِهِ، وَلَمْ
+> يَتْرُكْهُ نِسْيَاناً، وَلَمْ يَخْفَ عَلَيْهِ مَكَاناً، فَأَقِرَّهُ
+> حَيْثُ أَقَرَّهُ اللهُ وَرَسُولُهُ.
 
 **Thereupon, 'Umar ibn al-Khattab said:** If you had not been here we
 would have been humiliated; **and he left the ornaments as they were**.
 [^69]
 
-<blockquote dir="rtl">
-  <p>
-فقال له عمر: لولاك لافتضحنا. وترك الحَلْي بحاله.
-  </p>
-</blockquote>
+> فقال له عمر: لولاك لافتضحنا. وترك الحَلْي بحاله.
 
 Hadith n. 271
 -------------
@@ -5353,13 +4093,9 @@ of Allah. As for the other, he should get the punishment.
 **Consequently, his hand was cut.**
 
 > 271. وروي أنه عليه السلام رُفع إليه رجلان سرقا من مال الله، أحدهما عبد
-<blockquote dir="rtl">
-  <p>
-من مال الله، والآخر من عُرُوضِ الناس. فقال عليه السلام : أَمَّا هذَا
-فَهُوَ مِنْ مَالِ اللهِ وَلاَ حَدَّ عَلَيْهِ، مَالُ اللهِ أَكَلَ
-بَعْضُهُ بَعْضاً، وَأَمَّا الاْخَرُ فَعَلَيْهِ الْحَدُّ، فقطع يده.
-  </p>
-</blockquote>
+> من مال الله، والآخر من عُرُوضِ الناس. فقال عليه السلام : أَمَّا هذَا
+> فَهُوَ مِنْ مَالِ اللهِ وَلاَ حَدَّ عَلَيْهِ، مَالُ اللهِ أَكَلَ
+> بَعْضُهُ بَعْضاً، وَأَمَّا الاْخَرُ فَعَلَيْهِ الْحَدُّ، فقطع يده.
 
 Hadith n. 272
 -------------
@@ -5369,11 +4105,7 @@ firmness out of these slippery places, I will alter several things.
 [^70]
 
 > 272. وقال عليه السلام : لَوْ قَدِ اسْتَوَتْ قَدَمَايَ مِنْ هذِهِ
-<blockquote dir="rtl">
-  <p>
-الْمَدَاحِضِ لَغَيَّرْتُ أَشْيَاءَ.
-  </p>
-</blockquote>
+> الْمَدَاحِضِ لَغَيَّرْتُ أَشْيَاءَ.
 
 Hadith n. 273
 -------------
@@ -5393,20 +4125,16 @@ Therefore, O listener, increase your gratefulness, lessen your haste and
 stay within the bounds of your livelihood.
 
 > 273. وَ قَالَ عليه السلام: اعْلَمُوا عِلْماً يَقِيناً أَنَّ اللَّهَ
-<blockquote dir="rtl">
-  <p>
-لَمْ يَجْعَلْ لِلْعَبْدِ وَ إِنْ عَظُمَتْ حِيلَتُهُ وَ اشْتَدَّتْ
-طَلِبَتُهُ وَ قَوِيَتْ مَكِيدَتُهُ أَكْثَرَ مِمَّا سُمِّيَ لَهُ فِى
-الذِّكْرِ الْحَكِيمِ وَ لَمْ يَحُلْ بَيْنَ الْعَبْدِ فِى ضَعْفِهِ وَ
-قِلَّةِ حِيلَتِهِ وَ بَيْنَ أَنْ يَبْلُغَ مَا سُمِّيَ لَهُ فِى
-الذِّكْرِ الْحَكِيمِ وَ الْعَارِفُ لِهَذَا الْعَامِلُ بِهِ أَعْظَمُ
-النَّاسِ رَاحَةً فِى مَنْفَعَةٍ وَ التَّارِكُ لَهُ الشَّاكُّ فِيهِ
-أَعْظَمُ النَّاسِ شُغُلًا فِى مَضَرَّةٍ وَ رُبَّ مُنْعَمٍ عَلَيْهِ
-مُسْتَدْرَجٌ بِالنُّعْمَى وَ رُبَّ مُبْتَلًى مَصْنُوعٌ لَهُ
-بِالْبَلْوَى فَزِدْ أَيُّهَا الْمُسْتَنْفِعُ فِى شُكْرِكَ وَ قَصِّرْ
-مِنْ عَجَلَتِكَ وَ قِفْ عِنْدَ مُنْتَهَى رِزْقِكَ .
-  </p>
-</blockquote>
+> لَمْ يَجْعَلْ لِلْعَبْدِ وَ إِنْ عَظُمَتْ حِيلَتُهُ وَ اشْتَدَّتْ
+> طَلِبَتُهُ وَ قَوِيَتْ مَكِيدَتُهُ أَكْثَرَ مِمَّا سُمِّيَ لَهُ فِى
+> الذِّكْرِ الْحَكِيمِ وَ لَمْ يَحُلْ بَيْنَ الْعَبْدِ فِى ضَعْفِهِ وَ
+> قِلَّةِ حِيلَتِهِ وَ بَيْنَ أَنْ يَبْلُغَ مَا سُمِّيَ لَهُ فِى
+> الذِّكْرِ الْحَكِيمِ وَ الْعَارِفُ لِهَذَا الْعَامِلُ بِهِ أَعْظَمُ
+> النَّاسِ رَاحَةً فِى مَنْفَعَةٍ وَ التَّارِكُ لَهُ الشَّاكُّ فِيهِ
+> أَعْظَمُ النَّاسِ شُغُلًا فِى مَضَرَّةٍ وَ رُبَّ مُنْعَمٍ عَلَيْهِ
+> مُسْتَدْرَجٌ بِالنُّعْمَى وَ رُبَّ مُبْتَلًى مَصْنُوعٌ لَهُ
+> بِالْبَلْوَى فَزِدْ أَيُّهَا الْمُسْتَنْفِعُ فِى شُكْرِكَ وَ قَصِّرْ
+> مِنْ عَجَلَتِكَ وَ قِفْ عِنْدَ مُنْتَهَى رِزْقِكَ .
 
 Hadith n. 274
 -------------
@@ -5417,12 +4145,8 @@ knowledge act (upon it) and when you acquire conviction proceed (on its
 basis) .[^71]
 
 > 274. وَ قَالَ عليه السلام: لَا تَجْعَلُوا عِلْمَكُمْ جَهْلًا وَ
-<blockquote dir="rtl">
-  <p>
-يَقِينَكُمْ شَكّاً إِذَا عَلِمْتُمْ فَاعْمَلُوا وَ إِذَا تَيَقَّنْتُمْ
-فَأَقْدِمُوا .
-  </p>
-</blockquote>
+> يَقِينَكُمْ شَكّاً إِذَا عَلِمْتُمْ فَاعْمَلُوا وَ إِذَا تَيَقَّنْتُمْ
+> فَأَقْدِمُوا .
 
 Hadith n. 275
 -------------
@@ -5436,14 +4160,10 @@ the eyes of understanding. The destined share will reach him who does
 not approach it.
 
 > 275. وَ قَالَ عليه السلام: إِنَّ الطَّمَعَ مُورِدٌ غَيْرُ مُصْدِرٍ وَ
-<blockquote dir="rtl">
-  <p>
-ضَامِنٌ غَيْرُ وَفِيٍّ وَ رُبَّمَا شَرِقَ شَارِبُ الْمَاءِ قَبْلَ
-رِيِّهِ وَ كُلَّمَا عَظُمَ قَدْرُ الشَّيْ‏ءِ الْمُتَنَافَسِ فِيهِ
-عَظُمَتِ الرَّزِيَّةُ لِفَقْدِهِ وَ الْأَمَانِيُّ تُعْمِى أَعْيُنَ
-الْبَصَائِرِ وَ الْحَظُّ يَأْتِى مَنْ لَا يَأْتِيهِ .
-  </p>
-</blockquote>
+> ضَامِنٌ غَيْرُ وَفِيٍّ وَ رُبَّمَا شَرِقَ شَارِبُ الْمَاءِ قَبْلَ
+> رِيِّهِ وَ كُلَّمَا عَظُمَ قَدْرُ الشَّيْ‏ءِ الْمُتَنَافَسِ فِيهِ
+> عَظُمَتِ الرَّزِيَّةُ لِفَقْدِهِ وَ الْأَمَانِيُّ تُعْمِى أَعْيُنَ
+> الْبَصَائِرِ وَ الْحَظُّ يَأْتِى مَنْ لَا يَأْتِيهِ .
 
 Hadith n. 276
 -------------
@@ -5457,15 +4177,11 @@ shape although my evil deeds are placed before You. This means achieving
 nearness to Your creatures but remoteness from Your pleasure.
 
 > 276. وَ قَالَ عليه السلام: اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ أَنْ
-<blockquote dir="rtl">
-  <p>
-تُحَسِّنَ فِى لَامِعَةِ الْعُيُونِ عَلَانِيَتِى وَ تُقَبِّحَ فِيمَا
-أُبْطِنُ لَكَ سَرِيرَتِى مُحَافِظاً عَلَى رِثَاءِ النَّاسِ مِنْ
-نَفْسِى بِجَمِيعِ مَا أَنْتَ مُطَّلِعٌ عَلَيْهِ مِنِّى فَأُبْدِيَ
-لِلنَّاسِ حُسْنَ ظَاهِرِى وَ أُفْضِيَ إِلَيْكَ بِسُوءِ عَمَلِى
-تَقَرُّباً إِلَى عِبَادِكَ وَ تَبَاعُداً مِنْ مَرْضَاتِكَ .
-  </p>
-</blockquote>
+> تُحَسِّنَ فِى لَامِعَةِ الْعُيُونِ عَلَانِيَتِى وَ تُقَبِّحَ فِيمَا
+> أُبْطِنُ لَكَ سَرِيرَتِى مُحَافِظاً عَلَى رِثَاءِ النَّاسِ مِنْ
+> نَفْسِى بِجَمِيعِ مَا أَنْتَ مُطَّلِعٌ عَلَيْهِ مِنِّى فَأُبْدِيَ
+> لِلنَّاسِ حُسْنَ ظَاهِرِى وَ أُفْضِيَ إِلَيْكَ بِسُوءِ عَمَلِى
+> تَقَرُّباً إِلَى عِبَادِكَ وَ تَبَاعُداً مِنْ مَرْضَاتِكَ .
 
 Hadith n. 277
 -------------
@@ -5475,11 +4191,7 @@ let us pass the dark night after which there was a bright day that such
 and such [^72] did not happen.
 
 > 277. وقال عليه السلام : لاَ وَالَّذِي أَمْسَيْنَا مِنْهُ فِي غُبْرِ
-<blockquote dir="rtl">
-  <p>
-لَيْلَةٍ دَهْمَاءَ تَكْشِرُعَنْ يَوْمٍ أَغَرَّ مَا كَان كَذَاكَذا.
-  </p>
-</blockquote>
+> لَيْلَةٍ دَهْمَاءَ تَكْشِرُعَنْ يَوْمٍ أَغَرَّ مَا كَان كَذَاكَذا.
 
 Hadith n. 278
 -------------
@@ -5489,11 +4201,7 @@ is continued with regularity is more beneficial than a long one
 performed with disgust.
 
 > 278. وقال عليه السلام : قَلِيلٌ تَدُومُ عَلَيْهِ أَرْجَى مِنْ كَثِيرٍ
-<blockquote dir="rtl">
-  <p>
-مَمْلُولٍ.
-  </p>
-</blockquote>
+> مَمْلُولٍ.
 
 Hadith n. 279
 -------------
@@ -5502,11 +4210,7 @@ Hadith n. 279
 stand in the way of obligatories, abandon them.
 
 > 279. وقال عليه السلام : إذَا أَضَرَّتِ النَّوَافِلُ بالْفَرَائِضِ
-<blockquote dir="rtl">
-  <p>
-فَارْفُضُوهَا.
-  </p>
-</blockquote>
+> فَارْفُضُوهَا.
 
 Hadith n. 280
 -------------
@@ -5524,12 +4228,8 @@ eyes is not real observation because the eyes sometimes deceive people;
 but wisdom does not deceive whomsoever it counsels.
 
 > 281. وقال عليه السلام : لَيْسَتِ الرَّوِيَّةُ كَالْـمُعَايَنَةِ مَعَ
-<blockquote dir="rtl">
-  <p>
-الاْبْصَارِ، فَقَدْ تَكْذِبُ الْعُيُونُ أَهْلَهَا، وَلاَ يَغُشُّ
-الْعَقْلُ مَنِ اسْتَنْصَحَهُ.
-  </p>
-</blockquote>
+> الاْبْصَارِ، فَقَدْ تَكْذِبُ الْعُيُونُ أَهْلَهَا، وَلاَ يَغُشُّ
+> الْعَقْلُ مَنِ اسْتَنْصَحَهُ.
 
 Hadith n. 282
 -------------
@@ -5538,11 +4238,7 @@ Hadith n. 282
 preaching there is a curtain of deception.
 
 > 282. وقال عليه السلام : بَيْنَكُمْ وَبَيْنَ الْمَوْعِظَةِ حِجَابٌ مِنَ
-<blockquote dir="rtl">
-  <p>
-الْغِرَّةِ.
-  </p>
-</blockquote>
+> الْغِرَّةِ.
 
 Hadith n. 283
 -------------
@@ -5569,11 +4265,7 @@ overtakes early seeks time while he whose death is deferred puts forth
 excuses for postponement (of doing good actions).
 
 > 285. وقال عليه السلام : كُلُّ مُعَاجَلٍ يَسْأَلُ الاْنْظَارَ وَكُلُّ
-<blockquote dir="rtl">
-  <p>
-مُؤَجَّلٍ يَتَعَلَّلُ بالتَّسْويفِ.
-  </p>
-</blockquote>
+> مُؤَجَّلٍ يَتَعَلَّلُ بالتَّسْويفِ.
 
 Hadith n. 286
 -------------
@@ -5582,11 +4274,7 @@ Hadith n. 286
 which people say "how good!" there is an evil hidden in this world.
 
 > 286. وقال عليه السلام : مَا قَالَ النَّاسُ لِشَيْءٍ: طُوبَى لَهُ،
-<blockquote dir="rtl">
-  <p>
-إِلاَّ وَقَدْ خَبَأَ لَهُ الدَّهْرُ يَوْمَ سَوْءٍ.
-  </p>
-</blockquote>
+> إِلاَّ وَقَدْ خَبَأَ لَهُ الدَّهْرُ يَوْمَ سَوْءٍ.
 
 Hadith n. 287
 -------------
@@ -5597,11 +4285,7 @@ ocean - do not dive in it, and it is the secret of Allah -- do not take
 trouble about (knowing) it.
 
 > 287. وسئل عن القدر، فقال: طَرِيقٌ مُظْلِمٌ فَلاَ تَسْلُكُوهُ،
-<blockquote dir="rtl">
-  <p>
-وَبَحْرٌعَمِيقٌ فَلاَ تَلِجُوهُ، وَسِرُّ اللهِ فَلاَ تَتَكَلَّفُوهُ.
-  </p>
-</blockquote>
+> وَبَحْرٌعَمِيقٌ فَلاَ تَلِجُوهُ، وَسِرُّ اللهِ فَلاَ تَتَكَلَّفُوهُ.
 
 Hadith n. 288
 -------------
@@ -5610,11 +4294,7 @@ Hadith n. 288
 to humiliate a person He denies him knowledge.
 
 > 288. وقال عليه السلام : إِذَا أَرْذَلَ اللهُ عَبْداً حَظَرَعَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-الْعِلْمَ.
-  </p>
-</blockquote>
+> الْعِلْمَ.
 
 Hadith n. 289
 -------------
@@ -5630,16 +4310,12 @@ the forest or the serpent of the valley, he would not put forth an
 argument unless it was decisive.
 
 > 289. وَ قَالَ عليه السلام: كَانَ لِى فِيمَا مَضَى أَخٌ فِى اللَّهِ وَ
-<blockquote dir="rtl">
-  <p>
-كَانَ يُعْظِمُهُ فِى عَيْنِى صِغَرُ الدُّنْيَا فِى عَيْنِهِ وَ كَانَ
-خَارِجاً مِنْ سُلْطَانِ بَطْنِهِ فَلَا يَشْتَهِى مَا لَا يَجِدُ وَ لَا
-يُكْثِرُ إِذَا وَجَدَ وَ كَانَ أَكْثَرَ دَهْرِهِ صَامِتاً فَإِنْ قَالَ
-بَذَّ الْقَائِلِينَ وَ نَقَعَ غَلِيلَ السَّائِلِينَ وَ كَانَ ضَعِيفاً
-مُسْتَضْعَفاً فَإِنْ جَاءَ الْجِدُّ فَهُوَ لَيْثُ غَابٍ وَ صِلُّ وَادٍ
-لَا يُدْلِى بِحُجَّةٍ حَتَّى يَأْتِيَ قَاضِياً.
-  </p>
-</blockquote>
+> كَانَ يُعْظِمُهُ فِى عَيْنِى صِغَرُ الدُّنْيَا فِى عَيْنِهِ وَ كَانَ
+> خَارِجاً مِنْ سُلْطَانِ بَطْنِهِ فَلَا يَشْتَهِى مَا لَا يَجِدُ وَ لَا
+> يُكْثِرُ إِذَا وَجَدَ وَ كَانَ أَكْثَرَ دَهْرِهِ صَامِتاً فَإِنْ قَالَ
+> بَذَّ الْقَائِلِينَ وَ نَقَعَ غَلِيلَ السَّائِلِينَ وَ كَانَ ضَعِيفاً
+> مُسْتَضْعَفاً فَإِنْ جَاءَ الْجِدُّ فَهُوَ لَيْثُ غَابٍ وَ صِلُّ وَادٍ
+> لَا يُدْلِى بِحُجَّةٍ حَتَّى يَأْتِيَ قَاضِياً.
 
 He would not reproach anyone in an excusable matter unless he had heard
 the excuse, he would not speak of any ailment except after its
@@ -5649,29 +4325,21 @@ excelled in silence; he was more eager to listen than to speak and if
 two things confronted him he would see which was more akin to the
 longing of the heart and he would oppose it.
 
-<blockquote dir="rtl">
-  <p>
-وَ كَانَ لَا يَلُومُ أَحَداً عَلَى مَا يَجِدُ الْعُذْرَ فِى مِثْلِهِ
-حَتَّى يَسْمَعَ اعْتِذَارَهُ وَ كَانَ لَا يَشْكُو وَجَعاً إِلَّا
-عِنْدَ بُرْئِهِ وَ كَانَ يَقُولُ مَا يَفْعَلُ وَ لَا يَقُولُ مَا لَا
-يَفْعَلُ وَ كَانَ إِذَا غُلِبَ عَلَى الْكَلَامِ لَمْ يُغْلَبْ عَلَى
-السُّكُوتِ وَ كَانَ عَلَى مَا يَسْمَعُ أَحْرَصَ مِنْهُ عَلَى أَنْ
-يَتَكَلَّمَ وَ كَانَ إِذَا بَدَهَهُ أَمْرَانِ يَنْظُرُ أَيُّهُمَا
-أَقْرَبُ إِلَى الْهَوَى فَيُخَالِفُهُ.
-  </p>
-</blockquote>
+> وَ كَانَ لَا يَلُومُ أَحَداً عَلَى مَا يَجِدُ الْعُذْرَ فِى مِثْلِهِ
+> حَتَّى يَسْمَعَ اعْتِذَارَهُ وَ كَانَ لَا يَشْكُو وَجَعاً إِلَّا
+> عِنْدَ بُرْئِهِ وَ كَانَ يَقُولُ مَا يَفْعَلُ وَ لَا يَقُولُ مَا لَا
+> يَفْعَلُ وَ كَانَ إِذَا غُلِبَ عَلَى الْكَلَامِ لَمْ يُغْلَبْ عَلَى
+> السُّكُوتِ وَ كَانَ عَلَى مَا يَسْمَعُ أَحْرَصَ مِنْهُ عَلَى أَنْ
+> يَتَكَلَّمَ وَ كَانَ إِذَا بَدَهَهُ أَمْرَانِ يَنْظُرُ أَيُّهُمَا
+> أَقْرَبُ إِلَى الْهَوَى فَيُخَالِفُهُ.
 
 These qualities are incumbent upon you. So, you should acquire them and
 excel each other in them. Even if you cannot acquire them you should
 know that acquiring a part is better than giving up the whole.
 
-<blockquote dir="rtl">
-  <p>
-فَعَلَيْكُمْ بِهَذِهِ الْخَلَائِقِ فَالْزَمُوهَا وَ تَنَافَسُوا فِيهَا
-فَإِنْ لَمْ تَسْتَطِيعُوهَا فَاعْلَمُوا أَنَّ أَخْذَ الْقَلِيلِ خَيْرٌ
-مِنْ تَرْكِ الْكَثِيرِ .
-  </p>
-</blockquote>
+> فَعَلَيْكُمْ بِهَذِهِ الْخَلَائِقِ فَالْزَمُوهَا وَ تَنَافَسُوا فِيهَا
+> فَإِنْ لَمْ تَسْتَطِيعُوهَا فَاعْلَمُوا أَنَّ أَخْذَ الْقَلِيلِ خَيْرٌ
+> مِنْ تَرْكِ الْكَثِيرِ .
 
 Hadith n. 290
 -------------
@@ -5682,11 +4350,7 @@ obligatory by way of gratefulness for His favours that He should not be
 disobeyed.
 
 > 290. وقال عليه السلام : لَوْ لَمْ يَتَوَعَّدِ اللهُ عَلَى مَعْصِيَةٍ
-<blockquote dir="rtl">
-  <p>
-لَكَانَ يَجِبُ أَنْ لاَ يُعْصَى شُكْراً لِنِعَمِهِ.
-  </p>
-</blockquote>
+> لَكَانَ يَجِبُ أَنْ لاَ يُعْصَى شُكْراً لِنِعَمِهِ.
 
 Hadith n. 291
 -------------
@@ -5704,16 +4368,12 @@ hardship and (when he died) he grieved you while, at the same time, he
 has proved a source of reward and mercy for you.
 
 > 291. وقال عليه السلام ، وقد عزّى الاَشعثَ بن قيسٍ عن ابن له: يَا
-<blockquote dir="rtl">
-  <p>
-أَشْعَثُ، إِنْ تَحْزَنْ عَلَى ابْنِكَ فَقَدِ اسْتَحَقَّتْ ذلِكَ مِنْكَ
-الرَّحِمُ، وَإِنْ تَصْبِرْ فَفِي اللهِ مِنْ كُلِّ مُصِيبَةٍ خَلَفٌ.
-يَا أَشْعَثُ، إِنْ صَبَرْتَ جَرَى عَلَيْكَ الْقَدَرُ وَأَنْتَ
-مَأْجُورٌ، وَإِنْ جَزِعْتَ جَرَى عَلَيْكَ الْقَدَرُ وَأَنْتَ مَأْزُورٌ
-ابْنُكَ سَرَّكَ وَهُوَ بَلاَءٌ وَفِتْنَةٌ، وَحَزَنَكَوَهُوَ ثَوَابٌ
-وَرَحْمَةٌ.
-  </p>
-</blockquote>
+> أَشْعَثُ، إِنْ تَحْزَنْ عَلَى ابْنِكَ فَقَدِ اسْتَحَقَّتْ ذلِكَ مِنْكَ
+> الرَّحِمُ، وَإِنْ تَصْبِرْ فَفِي اللهِ مِنْ كُلِّ مُصِيبَةٍ خَلَفٌ.
+> يَا أَشْعَثُ، إِنْ صَبَرْتَ جَرَى عَلَيْكَ الْقَدَرُ وَأَنْتَ
+> مَأْجُورٌ، وَإِنْ جَزِعْتَ جَرَى عَلَيْكَ الْقَدَرُ وَأَنْتَ مَأْزُورٌ
+> ابْنُكَ سَرَّكَ وَهُوَ بَلاَءٌ وَفِتْنَةٌ، وَحَزَنَكَوَهُوَ ثَوَابٌ
+> وَرَحْمَةٌ.
 
 Hadith n. 292
 -------------
@@ -5723,23 +4383,15 @@ Messenger of Allah, peace be upon him and his descendants, at the time
 of burial:**
 
 > 292. وقال عليه السلام على قبر رسول الله صلى الله عليه وآله ساعة
-<blockquote dir="rtl">
-  <p>
-دُفِنَ:
-  </p>
-</blockquote>
+> دُفِنَ:
 
 Certainly, endurance is good except about you; fretting is bad except
 over you; and the affliction about you is great while every other
 affliction before or after it is small.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّبْرَ لَجَمِيلٌ إِلاَّ عَنْكَ، وَإِنَّ الْجَزَعَ لَقَبِيحٌ
-إِلاَّ عَلَيْكَ، وَإِنَّ الْمُصَابَ بِكَ لَجَلِيلٌ، وَإِنَّهُ قَبْلَكَ
-وَبَعْدَكَ لَجَلَلٌ.
-  </p>
-</blockquote>
+> إِنَّ الصَّبْرَ لَجَمِيلٌ إِلاَّ عَنْكَ، وَإِنَّ الْجَزَعَ لَقَبِيحٌ
+> إِلاَّ عَلَيْكَ، وَإِنَّ الْمُصَابَ بِكَ لَجَلِيلٌ، وَإِنَّهُ قَبْلَكَ
+> وَبَعْدَكَ لَجَلَلٌ.
 
 Hadith n. 293
 -------------
@@ -5749,11 +4401,7 @@ with a fool because he will beautify his actions before you and long
 that you too be like him. [^74]
 
 > 293. وقال عليه السلام : لاَ تَصْحَبِ الْمَائِقَ فَإِنَّهُ يُزَيِّنُ
-<blockquote dir="rtl">
-  <p>
-لَكَ فِعْلَهُ، وَيَوَدُّ أَنْ تَكُونَ مِثْلَهُ.
-  </p>
-</blockquote>
+> لَكَ فِعْلَهُ، وَيَوَدُّ أَنْ تَكُونَ مِثْلَهُ.
 
 Hadith n. 294
 -------------
@@ -5763,11 +4411,7 @@ between East and West when he replied:** One day's travelling for the
 sun.
 
 > 294. وقال عليه السلام وقد سئل عن مسافة ما بين المشرق والمغرب:
-<blockquote dir="rtl">
-  <p>
-مَسِيرَةُ يَوْمٍ لِلشَّمْسِ.
-  </p>
-</blockquote>
+> مَسِيرَةُ يَوْمٍ لِلشَّمْسِ.
 
 Hadith n. 295
 -------------
@@ -5778,13 +4422,9 @@ your friend's friend and your enemy's enemy. And your enemies are: your
 enemy, your friend's enemy and your enemy's friend.
 
 > 295. وقال عليه السلام : أَصْدِقَاؤُكَ ثَلاَثَةٌ، وَأَعْدَاؤُكَ
-<blockquote dir="rtl">
-  <p>
-ثَلاَثَةٌ: فَأَصْدِقَاؤُكَ: صَدِيقُكَ، وَصَدِيقُ صَدِيقِكَ، وَعَدُوُّ
-عَدُوِّكَ. وَأَعْدَاؤكَ: عَدُوُّكَ، وَعَدُوُّ صَدِيقِكَ، وَصَدِيقُ
-عَدُوِّكَ.
-  </p>
-</blockquote>
+> ثَلاَثَةٌ: فَأَصْدِقَاؤُكَ: صَدِيقُكَ، وَصَدِيقُ صَدِيقِكَ، وَعَدُوُّ
+> عَدُوِّكَ. وَأَعْدَاؤكَ: عَدُوُّكَ، وَعَدُوُّ صَدِيقِكَ، وَصَدِيقُ
+> عَدُوِّكَ.
 
 Hadith n. 296
 -------------
@@ -5795,11 +4435,7 @@ one who pierces a spear through himself in order to kill the person
 sitting behind him.
 
 > 296. وقال عليه السلام لرجل رآه يسعى على عدوٍّ له بما فيه إِضرار بنفسه:
-<blockquote dir="rtl">
-  <p>
-إنَّمَا أَنْتَ كَالطَّاعِنِ نَفْسَهُ لِيَقْتُلَ رِدْفَهُ.
-  </p>
-</blockquote>
+> إنَّمَا أَنْتَ كَالطَّاعِنِ نَفْسَهُ لِيَقْتُلَ رِدْفَهُ.
 
 Hadith n. 297
 -------------
@@ -5817,12 +4453,8 @@ in quarrelling is a sinner, but if one falls short in it, one is
 oppressed and it is difficult for a quarreller to fear Allah.
 
 > 298. وقال عليه السلام : مَن بَالَغَ فِي الْخُصوُمَةِ أَثِمَ، وَمَنْ
-<blockquote dir="rtl">
-  <p>
-قَصَّرَ فِيهَا ظُلِمَ، وَلاَ يَسْتَطِيعُ أَنْ يَتَّقِيَ اللهَ مَنْ
-خَاصَمَ.
-  </p>
-</blockquote>
+> قَصَّرَ فِيهَا ظُلِمَ، وَلاَ يَسْتَطِيعُ أَنْ يَتَّقِيَ اللهَ مَنْ
+> خَاصَمَ.
 
 Hadith n. 299
 -------------
@@ -5832,11 +4464,7 @@ a sin after which I get time to offer prayer in two units (rak 'ah) and
 beg safety from Allah.
 
 > 299. وقال عليه السلام : مَا أَهَمَّنِي ذَنْبٌ أُمْهِلْتُ بَعْدَهُ
-<blockquote dir="rtl">
-  <p>
-حَتَّى أُصَلِّيَ رَكْعَتَيْنِ وَأسْأَلَ اللهَ الْعَافِيَة.
-  </p>
-</blockquote>
+> حَتَّى أُصَلِّيَ رَكْعَتَيْنِ وَأسْأَلَ اللهَ الْعَافِيَة.
 
 Hadith n. 300
 -------------
@@ -5849,12 +4477,8 @@ accounting without their seeing Him. **He replied:** Just as He provides
 them livelihood although they do not see Him.
 
 > 300. وسئل عليه السلام : كيف يحاسب الله الخلق على كَثْرتهم؟ فقال عليه
-<blockquote dir="rtl">
-  <p>
-السلام : كَمَا يَرْزُقُهُمْ عَلَى كَثْرَتِهِمْ. فَقيل: كيف يُحاسِبُهُم
-ولا يَرَوْنَهُ؟ قال عليه السلام : كَمَا يَرْزُقُهُمْ وَلاَ يَرَوْنَهُ.
-  </p>
-</blockquote>
+> السلام : كَمَا يَرْزُقُهُمْ عَلَى كَثْرَتِهِمْ. فَقيل: كيف يُحاسِبُهُم
+> ولا يَرَوْنَهُ؟ قال عليه السلام : كَمَا يَرْزُقُهُمْ وَلاَ يَرَوْنَهُ.
 
 Hadith n. 301
 -------------
@@ -5864,11 +4488,7 @@ the interpreter of your intelligence while your letter is more eloquent
 in expressing your true self.
 
 > 301 وقال عليه السلام : رَسُولُكَ تَرْجُمَانُ عَقْلِكَ، وَكِتَابُكَ
-<blockquote dir="rtl">
-  <p>
-أَبْلَغُ مَا يَنْطِقُ عَنْكَ.
-  </p>
-</blockquote>
+> أَبْلَغُ مَا يَنْطِقُ عَنْكَ.
 
 Hadith n. 302
 -------------
@@ -5878,12 +4498,8 @@ afflicted with hardship is not in greater need of praying than the one
 who has been spared affliction but is not immune from it.
 
 > 302. وقال عليه السلام : مَا الْمُبْتَلَى الَّذِي قَدِ اشْتَدَّ بِهِ
-<blockquote dir="rtl">
-  <p>
-الْبَلاَءُ، بِأَحْوَجَ إِلَى الدُّعَاءِ مِنَ المُعَافَى الَّذِي لاَ
-يَأمَنُ البَلاَءَ.
-  </p>
-</blockquote>
+> الْبَلاَءُ، بِأَحْوَجَ إِلَى الدُّعَاءِ مِنَ المُعَافَى الَّذِي لاَ
+> يَأمَنُ البَلاَءَ.
 
 Hadith n. 303
 -------------
@@ -5892,11 +4508,7 @@ Hadith n. 303
 progeny of the world and no one can be blamed for loving his mother.
 
 > 303. وقال عليه السلام : النَّاسُ أَبْنَاءُ الدُّنْيَا، وَلاَ يُلاَمُ
-<blockquote dir="rtl">
-  <p>
-الرَّجُلُ عَلَى حُبِّ أُمِّهِ.
-  </p>
-</blockquote>
+> الرَّجُلُ عَلَى حُبِّ أُمِّهِ.
 
 Hadith n. 304
 -------------
@@ -5906,11 +4518,7 @@ Messenger of Allah. Whoever denies him denies Allah and whoever gives
 him gives Allah.
 
 > 304. وقال عليه السلام : إِنَّ الْمِسْكِينَ رَسُولُ اللهِ، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-مَنَعَهُ فَقَدْ مَنَعَ اللهَ، وَمَنْ أَعْطَاهُ فَقَدْ أَعْطَى الله.
-  </p>
-</blockquote>
+> مَنَعَهُ فَقَدْ مَنَعَ اللهَ، وَمَنْ أَعْطَاهُ فَقَدْ أَعْطَى الله.
 
 Hadith n. 305
 -------------
@@ -5935,21 +4543,13 @@ Hadith n. 307
 the death of his child, but cannot sleep at loss of property.
 
 > 307. وقال عليه السلام : يَنَامُ الرَّجُلُ عَلَى الثُّكْلِ وَلاَ
-<blockquote dir="rtl">
-  <p>
-يَنَامُ عَلَى الْحَرَبِ.
-  </p>
-</blockquote>
+> يَنَامُ عَلَى الْحَرَبِ.
 
 **As-Sayyid ar-Radi says:** It means that a man keeps patience on the
 death of his children but does not do so on the loss of property.
 
-<blockquote dir="rtl">
-  <p>
-و قال الرضي: ومعنى ذلك: أنه يصبر على قتل الاَولاد، ولا يصبر على سلب
-الاَموال.
-  </p>
-</blockquote>
+> و قال الرضي: ومعنى ذلك: أنه يصبر على قتل الاَولاد، ولا يصبر على سلب
+> الاَموال.
 
 Hadith n. 308
 -------------
@@ -5959,12 +4559,8 @@ between fathers creates a relationship between the sons. Relationship is
 more in need of affection than affection is of relationship.
 
 > 308. وقال عليه السلام : مَوَدَّةُ الاْبَاءِ قَرَابَةٌ بَيْنَ
-<blockquote dir="rtl">
-  <p>
-الاْبْنَاءِ، وَالْقَرَابَةُ إِلَى الْمَوَدَّةِ أَحْوَجُ مِنَ
-الْمَوَدَّةِ إِلَى الْقَرَابَةِ.
-  </p>
-</blockquote>
+> الاْبْنَاءِ، وَالْقَرَابَةُ إِلَى الْمَوَدَّةِ أَحْوَجُ مِنَ
+> الْمَوَدَّةِ إِلَى الْقَرَابَةِ.
 
 Hadith n. 309
 -------------
@@ -5974,11 +4570,7 @@ ideas of believers, because Allah, the Sublime, has put truth on their
 tongues.
 
 > 309. وقال عليه السلام : اتَّقُوا ظُنُونَ الْمُؤْمِنِينَ، فَإِنَّ اللهَ
-<blockquote dir="rtl">
-  <p>
-تَعَالَى جَعَلَ الْحَقَّ عَلَى أَلْسِنَتِهِمْ.
-  </p>
-</blockquote>
+> تَعَالَى جَعَلَ الْحَقَّ عَلَى أَلْسِنَتِهِمْ.
 
 Hadith n. 310
 -------------
@@ -5988,11 +4580,7 @@ person cannot be regarded as true unless his trust in what is with Allah
 is more than his trust in what he himself has.
 
 > 310. وقال عليه السلام : لاَ يَصْدُقُ إِيمَانُ عَبْدٍ، حَتّى يَكُونَ
-<blockquote dir="rtl">
-  <p>
-بِمَا فِي يَدِ اللهِ سُبْحَانَهُ أَوْثَقَ مِنهُ بِمَا فِي يَدِهِ.
-  </p>
-</blockquote>
+> بِمَا فِي يَدِ اللهِ سُبْحَانَهُ أَوْثَقَ مِنهُ بِمَا فِي يَدِهِ.
 
 Hadith n. 311
 -------------
@@ -6007,25 +4595,17 @@ you are speaking a lie Allah may afflict you with white spots
 (leucoderma) which even the turban may not cover.
 
 > 311. وقال عليه السلام لاَنس بن مالك، وقد كان بعثه إلى طلحةَ والزبيرِ
-<blockquote dir="rtl">
-  <p>
-لما جاءا إلى البصرة يذكر هما شيئاً سمعه من رسول الله صلى الله عليه
-وآله في معناهما، فلوى عن ذلك، فرجع إليه، فقال: إِنِّي أُنسيتُ ذلك
-الاَمرَ. فَقال عليه السلام : إِنْ كُنْتَ كَاذِباً فَضَرَبَكَ اللهُ
-بِهَا بَيْضَاءَ لاَمِعَةً لاَ تُوَارِيهَا الْعِمَامَةُ .
-  </p>
-</blockquote>
+> لما جاءا إلى البصرة يذكر هما شيئاً سمعه من رسول الله صلى الله عليه
+> وآله في معناهما، فلوى عن ذلك، فرجع إليه، فقال: إِنِّي أُنسيتُ ذلك
+> الاَمرَ. فَقال عليه السلام : إِنْ كُنْتَ كَاذِباً فَضَرَبَكَ اللهُ
+> بِهَا بَيْضَاءَ لاَمِعَةً لاَ تُوَارِيهَا الْعِمَامَةُ .
 
 **As-Sayyid ar-Radi says:** White spot means leucoderma. After sometime
 this disease did occur to Anas's face so much so that he was never seen
 without a veil. [^77]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: . يعني البرص، فأصاب أَنَساً هذا الداء فيما بعدُ في وجهه،
-فكان لا يُرى إلاّ مُبَرقعاً.
-  </p>
-</blockquote>
+> قال الرضي: . يعني البرص، فأصاب أَنَساً هذا الداء فيما بعدُ في وجهه،
+> فكان لا يُرى إلاّ مُبَرقعاً.
 
 Hadith n. 312
 -------------
@@ -6036,12 +4616,8 @@ get them to perform the optionals (as well), but when they move backward
 keep them confined to obligatories only.
 
 > 312. وقال عليه السلام : إِنَّ لِلْقُلُوبِ إقْبَالاً وَإِدْبَاراً
-<blockquote dir="rtl">
-  <p>
-فَإِذَا أَقْبَلَتْ فَاحْمِلُوهَا عَلَى النَّوَافِلِ، وَإذَا أَدْبَرَتْ
-فَاقْتَصِرُوا بِهَا عَلَى الْفَرَائِضِ.
-  </p>
-</blockquote>
+> فَإِذَا أَقْبَلَتْ فَاحْمِلُوهَا عَلَى النَّوَافِلِ، وَإذَا أَدْبَرَتْ
+> فَاقْتَصِرُوا بِهَا عَلَى الْفَرَائِضِ.
 
 Hadith n. 313
 -------------
@@ -6051,11 +4627,7 @@ news about the past, foretellings about the future and commandments for
 the present.
 
 > 313. وقال عليه السلام : وَفِي الْقرْآنِ نَبَأُ مَا قَبْلَكُمْ،
-<blockquote dir="rtl">
-  <p>
-وَخَبَرُ مَا بَعْدَكُمْ، وَحُكْمُ مَا بَيْنَكُمْ.
-  </p>
-</blockquote>
+> وَخَبَرُ مَا بَعْدَكُمْ، وَحُكْمُ مَا بَيْنَكُمْ.
 
 Hadith n. 314
 -------------
@@ -6065,11 +4637,7 @@ return from where one comes to you because evil can be met only with
 evil.
 
 > 314. وقال عليه السلام : رُدُّوا الْحَجَرَمِنْ حَيْثُ جَاءَ، فَإِنَّ
-<blockquote dir="rtl">
-  <p>
-الشَّرَّ لاَ يَدْفَعُهُ إِلاَّالشَّرُّ.
-  </p>
-</blockquote>
+> الشَّرَّ لاَ يَدْفَعُهُ إِلاَّالشَّرُّ.
 
 Hadith n. 315
 -------------
@@ -6080,13 +4648,9 @@ nib of your pen long, leave space between lines and close up the letters
 because this is good for the beauty of the writing.
 
 > 315. وَ قَالَ عليه السلامة لِكَاتِبِهِ عُبَيْدِ اللَّهِ بْنِ أَبِى
-<blockquote dir="rtl">
-  <p>
-رَافِعٍ: أَلِقْ دَوَاتَكَ وَ أَطِلْ جِلْفَةَ قَلَمِكَ وَ فَرِّجْ
-بَيْنَ السُّطُورِ وَ قَرْمِطْ بَيْنَ الْحُرُوفِ فَإِنَّ ذَلِكَ
-أَجْدَرُ بِصَبَاحَةِ الْخَطِّ .
-  </p>
-</blockquote>
+> رَافِعٍ: أَلِقْ دَوَاتَكَ وَ أَطِلْ جِلْفَةَ قَلَمِكَ وَ فَرِّجْ
+> بَيْنَ السُّطُورِ وَ قَرْمِطْ بَيْنَ الْحُرُوفِ فَإِنَّ ذَلِكَ
+> أَجْدَرُ بِصَبَاحَةِ الْخَطِّ .
 
 Hadith n. 316
 -------------
@@ -6095,22 +4659,14 @@ Hadith n. 316
 (leader) of the believers, while wealth is the leader of the wicked.
 
 > 316. وقال عليه السلام : أَنا يَعْسُوبُ الْمُؤْمِنِينَ، وَالْمَالُ
-<blockquote dir="rtl">
-  <p>
-يَعْسُوبُ الْفُجَّارِ.
-  </p>
-</blockquote>
+> يَعْسُوبُ الْفُجَّارِ.
 
 **As-Sayyid ar-Radi says:** It means that the believers follow me while
 the wicked follow wealth just as the bees follow their "ya'sub" who is
 their leader. [^78]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: ومعنى ذلك أن المؤمنين يتبعونني، والفجار يتبعون المال، كما
-تتبع النحل يعسوبها، وهو رئيسها.
-  </p>
-</blockquote>
+> قال الرضي: ومعنى ذلك أن المؤمنين يتبعونني، والفجار يتبعون المال، كما
+> تتبع النحل يعسوبها، وهو رئيسها.
 
 Hadith n. 317
 -------------
@@ -6125,14 +4681,10 @@ he; 'Verily you are a people behaving ignorantly.* ' [^79] (Qur'an,
 7:138)
 
 > 317. قَالَ لَهُ بَعْضُ الْيَهُودِ: مَا دَفَنْتُمْ نَبِيَّكُمْ حَتَّى
-<blockquote dir="rtl">
-  <p>
-اخْتَلَفْتُمْ فِيهِ. فَقَالَ عليه السلام لَهُ: إِنَّمَا اخْتَلَفْنَا
-عَنْهُ لَا فِيهِ وَ لَكِنَّكُمْ مَا جَفَّتْ أَرْجُلُكُمْ مِنَ
-الْبَحْرِ حَتَّى قُلْتُمْ لِنَبِيِّكُمْ اجْعَلْ لَنا إِلهاً كَما
-لَهُمْ آلِهَةٌ قالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ .
-  </p>
-</blockquote>
+> اخْتَلَفْتُمْ فِيهِ. فَقَالَ عليه السلام لَهُ: إِنَّمَا اخْتَلَفْنَا
+> عَنْهُ لَا فِيهِ وَ لَكِنَّكُمْ مَا جَفَّتْ أَرْجُلُكُمْ مِنَ
+> الْبَحْرِ حَتَّى قُلْتُمْ لِنَبِيِّكُمْ اجْعَلْ لَنا إِلهاً كَما
+> لَهُمْ آلِهَةٌ قالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ .
 
 Hadith n. 318
 -------------
@@ -6142,20 +4694,12 @@ you overpower your adversaries? **He answered:** Whenever I confronted a
 person he helped me against himself.
 
 > 318. وَ قِيلَ لَهُ: بِأَيِّ شَيْ‏ءٍ غَلَبْتَ الْأَقْرَانَ فَقَالَ عليه
-<blockquote dir="rtl">
-  <p>
-السلام: مَا لَقِيتُ رَجُلًا إِلَّا أَعَانَنِى عَلَى نَفْسِهِ .
-  </p>
-</blockquote>
+> السلام: مَا لَقِيتُ رَجُلًا إِلَّا أَعَانَنِى عَلَى نَفْسِهِ .
 
 **as-Sayyid ar-Radi says:** Amir al-mu'minin is pointing out his
 striking of awe in the hearts. [^80]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضى يومئ بذلك إلى تمكن هيبته فى القلوب.
-  </p>
-</blockquote>
+> قال الرضى يومئ بذلك إلى تمكن هيبته فى القلوب.
 
 Hadith n. 319
 -------------
@@ -6167,13 +4711,9 @@ deficiency of religious belief, perplexity of intelligence, and it is
 conducive to hatred of obstinate people.
 
 > 319. وَ قَالَ عليه السلام لِابْنِهِ مُحَمَّدِ ابْنِ الْحَنَفِيَّةِ:
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ إِنِّى أَخَافُ عَلَيْكَ الْفَقْرَ فَاسْتَعِذْ بِاللَّهِ
-مِنْهُ فَإِنَّ الْفَقْرَ مَنْقَصَةٌ لِلدِّينِ مَدْهَشَةٌ لِلْعَقْلِ
-دَاعِيَةٌ لِلْمَقْتِ .
-  </p>
-</blockquote>
+> يَا بُنَيَّ إِنِّى أَخَافُ عَلَيْكَ الْفَقْرَ فَاسْتَعِذْ بِاللَّهِ
+> مِنْهُ فَإِنَّ الْفَقْرَ مَنْقَصَةٌ لِلدِّينِ مَدْهَشَةٌ لِلْعَقْلِ
+> دَاعِيَةٌ لِلْمَقْتِ .
 
 Hadith n. 320
 -------------
@@ -6185,13 +4725,9 @@ person who tries to learn is like the learned man, but the learned man
 who tries to create confusion is like the ignorant.
 
 > 320. قَالَ عليه السلام لِسَائِلٍ سَأَلَهُ عَنْ مُعْضِلَةٍ: سَلْ
-<blockquote dir="rtl">
-  <p>
-تَفَقُّهاً وَ لَا تَسْأَلْ تَعَنُّتاً فَإِنَّ الْجَاهِلَ
-الْمُتَعَلِّمَ شَبِيهٌ بِالْعَالِمِ وَ إِنَّ الْعَالِمَ الْمُتَعَسِّفَ
-شَبِيهٌ بِالْجَاهِلِ الْمُتَعَنِّتِ .
-  </p>
-</blockquote>
+> تَفَقُّهاً وَ لَا تَسْأَلْ تَعَنُّتاً فَإِنَّ الْجَاهِلَ
+> الْمُتَعَلِّمَ شَبِيهٌ بِالْعَالِمِ وَ إِنَّ الْعَالِمَ الْمُتَعَسِّفَ
+> شَبِيهٌ بِالْجَاهِلِ الْمُتَعَنِّتِ .
 
 Hadith n. 321
 -------------
@@ -6202,12 +4738,8 @@ but then I have to see (what to do); and if I act against your advice
 you have to follow me. [^81]
 
 > 321. وقال عليه السلام لعبدالله بن العباس، وقد أشار عليه في شيء لم
-<blockquote dir="rtl">
-  <p>
-يوافق رأيه: لَكَ أَنْ تُشِيرَ عَلَيَّ وأَرَى، فَإِنْ عَصَيْتُكَ
-فَأَطِعْنِي.
-  </p>
-</blockquote>
+> يوافق رأيه: لَكَ أَنْ تُشِيرَ عَلَيَّ وأَرَى، فَإِنْ عَصَيْتُكَ
+> فَأَطِعْنِي.
 
 Hadith n. 322
 -------------
@@ -6225,16 +4757,12 @@ said to him:** Get back because the walking of a man like you with one
 like me is mischief for the ruler and disgrace for the believer.
 
 > 322. وروي أنه عليه السلام لما ورد الكوفة قادماً من صفين مرّ
-<blockquote dir="rtl">
-  <p>
-بالشّباميين فسمع بكاء النساء على قتلى صفين، وخرج إليه حرب بن
-شُرَحْبِيل الشّبامي، وكان من وجوه قومه. فقال عليه السلام :
-أَتَغْلِبُكُمْ نِسَاؤُكُمْ عَلَى مَا أسْمَعُ؟ أَلاَ تَنْهَوْنَهُنَّ
-عَنْ هذَا الرَّنِينِ و أقبل يمشي معه، وهو عليه السلام راكب. فقال عليه
-السلام له: ارْجِعْ، فَإِنَّ مَشْيَ مِثْلِكَ مَعَ مِثْلِي فِتْنَةٌ
-لِلْوَالِي، وَمَذَلَّةٌ لِلْمُؤْمِنِ.
-  </p>
-</blockquote>
+> بالشّباميين فسمع بكاء النساء على قتلى صفين، وخرج إليه حرب بن
+> شُرَحْبِيل الشّبامي، وكان من وجوه قومه. فقال عليه السلام :
+> أَتَغْلِبُكُمْ نِسَاؤُكُمْ عَلَى مَا أسْمَعُ؟ أَلاَ تَنْهَوْنَهُنَّ
+> عَنْ هذَا الرَّنِينِ و أقبل يمشي معه، وهو عليه السلام راكب. فقال عليه
+> السلام له: ارْجِعْ، فَإِنَّ مَشْيَ مِثْلِكَ مَعَ مِثْلِي فِتْنَةٌ
+> لِلْوَالِي، وَمَذَلَّةٌ لِلْمُؤْمِنِ.
 
 Hadith n. 323
 -------------
@@ -6248,14 +4776,10 @@ deceived them through passions, made it easy for them to get into sins,
 promised them victory and eventually threw them into the Fire.
 
 > 323. وقال عليه السلام وقد مرّ بقتلى الخوارج يوم النَّهْرَوَان: بُؤْساً
-<blockquote dir="rtl">
-  <p>
-لَكُمْ، لَقَدْ ضَرَّكُمْ مَنْ غَرَّكُمْ. فقيل له: مَن غرّهم يا
-أميرالمؤمنين؟ فقال: الشَّيْطَانُ الْمُضِلُّ، وَالاْنْفُسُ الاْمَّارَةُ
-بِالسُّوءِ، غَرَّتْهُمْ بالاْمَانِيِّ، وَفَسَحَتْ لَهُمْ فِي
-المَعَاصِيِ، وَعَدَتْهُمُ الاْظْهَارَ، فَاقْتَحَمَتْ بِهِمُ النَّارَ.
-  </p>
-</blockquote>
+> لَكُمْ، لَقَدْ ضَرَّكُمْ مَنْ غَرَّكُمْ. فقيل له: مَن غرّهم يا
+> أميرالمؤمنين؟ فقال: الشَّيْطَانُ الْمُضِلُّ، وَالاْنْفُسُ الاْمَّارَةُ
+> بِالسُّوءِ، غَرَّتْهُمْ بالاْمَانِيِّ، وَفَسَحَتْ لَهُمْ فِي
+> المَعَاصِيِ، وَعَدَتْهُمُ الاْظْهَارَ، فَاقْتَحَمَتْ بِهِمُ النَّارَ.
 
 Hadith n. 324
 -------------
@@ -6265,11 +4789,7 @@ Allah in solitude, because the witness (of that situation) is also the
 judge.
 
 > 324. وقال عليه السلام : اتَّقُوا مَعَاصِيَ اللهِ فِي الْخَلَوَاتِ،
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ الشَّاهِدَ هُوَ الْحَاكِمُ.
-  </p>
-</blockquote>
+> فَإِنَّ الشَّاهِدَ هُوَ الْحَاكِمُ.
 
 Hadith n. 325
 -------------
@@ -6280,12 +4800,8 @@ him is as great as their (i.e. the enemy's) joy for it, except that they
 have lost an enemy and we have lost a friend.
 
 > 325. وقال عليه السلام ، لمّا بلغه قتل محمد بن أبي بكر: إِنَّ حُزْنَنَا
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ عَلَى قَدْرِ سُرُورِهِمْ بِهِ، إِلاَّ أَنَّهُمْ نَقَصُوا
-بَغِيضاً، وَنَقَصْنَا حَبِيباً
-  </p>
-</blockquote>
+> عَلَيْهِ عَلَى قَدْرِ سُرُورِهِمْ بِهِ، إِلاَّ أَنَّهُمْ نَقَصُوا
+> بَغِيضاً، وَنَقَصْنَا حَبِيباً
 
 Hadith n. 326
 -------------
@@ -6294,11 +4810,7 @@ Hadith n. 326
 Allah accepts any excuse for a human being is sixty years.
 
 > 326. وقال عليه السلام : الْعُمْرُ الَّذِي أَعْذَرَ اللهُ فِيهِ إِلَى
-<blockquote dir="rtl">
-  <p>
-ابْنِ آدَمَ سِتُّونَ سَنَةً.
-  </p>
-</blockquote>
+> ابْنِ آدَمَ سِتُّونَ سَنَةً.
 
 Hadith n. 327
 -------------
@@ -6308,11 +4820,7 @@ overpowers is not victorious, and he who secures victory by evil is (in
 fact) vanquished.
 
 > 327. وقال عليه السلام : مَا ظَفِرَ مَنْ ظَفِرَ الاْثْمُ بِهِ،
-<blockquote dir="rtl">
-  <p>
-وَالْغَالِبُ بِالشَّرِّ مَغْلُوبٌ.
-  </p>
-</blockquote>
+> وَالْغَالِبُ بِالشَّرِّ مَغْلُوبٌ.
 
 Hadith n. 328
 -------------
@@ -6324,12 +4832,8 @@ because some rich person has denied (him his share). Allah, the Sublime,
 will question them about it.
 
 > 328. وقال عليه السلام : إِنَّ اللهَ سُبْحَانَهُ فَرَضَ فِي أَمْوَالِ
-<blockquote dir="rtl">
-  <p>
-الاْغْنِيَاءِ أَقْوَاتَ الْفُقَرَاءِ، فَمَا جَاعَ فَقِيرٌ إِلاَّ بِمَا
-مَنَعَ بِهِ غَنِي، وَاللهُ تَعَالَى سَائِلُهُمْ عَنْ ذلِكَ.
-  </p>
-</blockquote>
+> الاْغْنِيَاءِ أَقْوَاتَ الْفُقَرَاءِ، فَمَا جَاعَ فَقِيرٌ إِلاَّ بِمَا
+> مَنَعَ بِهِ غَنِي، وَاللهُ تَعَالَى سَائِلُهُمْ عَنْ ذلِكَ.
 
 Hadith n. 329
 -------------
@@ -6339,11 +4843,7 @@ putting forth an excuse is better than putting forth a true excuse.
 [^83]
 
 > 329. وقال عليه السلام : الاِْسْتِغْنَاءُ عَنِ الْعُذْرِ أَعَزُّ مِنَ
-<blockquote dir="rtl">
-  <p>
-الصِّدْقِ بِهِ.
-  </p>
-</blockquote>
+> الصِّدْقِ بِهِ.
 
 Hadith n. 330
 -------------
@@ -6353,11 +4853,7 @@ Allah on you is that you should not make use of His favours in
 committing His sins. [^84]
 
 > 330. وقال عليه السلام : أَقَلُّ مَا يَلْزَمُكُمْ لله أَلاَّ
-<blockquote dir="rtl">
-  <p>
-تَسْتَعيِنُوا بِنِعَمِهِ عَلَى مَعَاصِيهِ.
-  </p>
-</blockquote>
+> تَسْتَعيِنُوا بِنِعَمِهِ عَلَى مَعَاصِيهِ.
 
 Hadith n. 331
 -------------
@@ -6368,11 +4864,7 @@ is a good opportunity given by Allah for the intelligent to perform such
 acts.
 
 > 331. وقال عليه السلام : إِنَّ اللهَ سُبْحَانَهُ جَعَلَ الطَّاعَةَ
-<blockquote dir="rtl">
-  <p>
-غَنِيمَةَ الاْكْيَاسِ عِنْدَ تَفْرِيطِ الْعَجَزَةِ.
-  </p>
-</blockquote>
+> غَنِيمَةَ الاْكْيَاسِ عِنْدَ تَفْرِيطِ الْعَجَزَةِ.
 
 Hadith n. 332
 -------------
@@ -6395,16 +4887,12 @@ grateful, enduring, buried in his thoughts, sparing in his friendship
 stronger than stone but humbler than a slave.
 
 > 333. وَ قَالَ عليه السلام فِى صِفَةِ الْمُؤْمِنِ: الْمُؤْمِنُ بِشْرُهُ
-<blockquote dir="rtl">
-  <p>
-فِى وَجْهِهِ وَ حُزْنُهُ فِى قَلْبِهِ أَوْسَعُ شَيْ‏ءٍ صَدْراً وَ
-أَذَلُّ شَيْ‏ءٍ نَفْساً يَكْرَهُ الرِّفْعَةَ وَ يَشْنَأُ السُّمْعَةَ
-طَوِيلٌ غَمُّهُ بَعِيدٌ هَمُّهُ كَثِيرٌ صَمْتُهُ مَشْغُولٌ وَقْتُهُ
-شَكُورٌ صَبُورٌ مَغْمُورٌ بِفِكْرَتِهِ ضَنِينٌ بِخَلَّتِهِ سَهْلُ
-الْخَلِيقَةِ لَيِّنُ الْعَرِيكَةِ نَفْسُهُ أَصْلَبُ مِنَ الصَّلْدِ وَ
-هُوَ أَذَلُّ مِنَ الْعَبْدِ .
-  </p>
-</blockquote>
+> فِى وَجْهِهِ وَ حُزْنُهُ فِى قَلْبِهِ أَوْسَعُ شَيْ‏ءٍ صَدْراً وَ
+> أَذَلُّ شَيْ‏ءٍ نَفْساً يَكْرَهُ الرِّفْعَةَ وَ يَشْنَأُ السُّمْعَةَ
+> طَوِيلٌ غَمُّهُ بَعِيدٌ هَمُّهُ كَثِيرٌ صَمْتُهُ مَشْغُولٌ وَقْتُهُ
+> شَكُورٌ صَبُورٌ مَغْمُورٌ بِفِكْرَتِهِ ضَنِينٌ بِخَلَّتِهِ سَهْلُ
+> الْخَلِيقَةِ لَيِّنُ الْعَرِيكَةِ نَفْسُهُ أَصْلَبُ مِنَ الصَّلْدِ وَ
+> هُوَ أَذَلُّ مِنَ الْعَبْدِ .
 
 Hadith n. 334
 -------------
@@ -6414,11 +4902,7 @@ see the end of (his) life and his final fate, he will begin hating
 desires and their deception.
 
 > 334. وقال عليه السلام : لَوْرَأَى الْعَبْدُ الاْجَلَ وَمَسِيرَهُ
-<blockquote dir="rtl">
-  <p>
-لاَبْغَضَ الاْمَلَ وَغُرُورَهُ.
-  </p>
-</blockquote>
+> لاَبْغَضَ الاْمَلَ وَغُرُورَهُ.
 
 Hadith n. 335
 -------------
@@ -6427,11 +4911,7 @@ Hadith n. 335
 sharers in the property of every person - successors and accidents.
 
 > 335. وَ قَالَ عليه السلام: لِكُلِّ امْرِئٍ فِى مَالِهِ شَرِيكَانِ
-<blockquote dir="rtl">
-  <p>
-الْوَارِثُ وَ الْحَوَادِثُ .
-  </p>
-</blockquote>
+> الْوَارِثُ وَ الْحَوَادِثُ .
 
 Hadith n. 336
 -------------
@@ -6448,11 +4928,7 @@ Hadith n. 337
 does not exert effort is like the one who shoots without a bow-string.
 
 > 337. وقال عليه السلام : الدَّاعِي بِلاَ عَمَلٍ كَالرَّامِي بِلاَ
-<blockquote dir="rtl">
-  <p>
-وَتَرٍ.
-  </p>
-</blockquote>
+> وَتَرٍ.
 
 Hadith n. 338
 -------------
@@ -6462,11 +4938,7 @@ kinds - that which is absorbed and that which is just heard. The one
 that is heard does not give benefit unless it is absorbed.
 
 > 338. وقال عليه السلام : الْعِلْمُ عِلْمَانِ: مَطْبُوعٌ وَمَسْمُوعٌ
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَنْفَعُ الْمَسْمُوعُ إِذَا لَمْ يَكُنِ الْمَطْبُوعُ.
-  </p>
-</blockquote>
+> وَلاَ يَنْفَعُ الْمَسْمُوعُ إِذَا لَمْ يَكُنِ الْمَطْبُوعُ.
 
 Hadith n. 339
 -------------
@@ -6476,11 +4948,7 @@ decision goes together with power. The one emerges with the other's
 emergence and disappears when the other disappears. [^85]
 
 > 339. وقال عليه السلام : صَوَابُ الرَّأْيِ بِالدُّوَلِ: يُقْبِلُ
-<blockquote dir="rtl">
-  <p>
-بِإِقْبَالِهَا وَيَذْهَبُ بِذَهَابِهَا.
-  </p>
-</blockquote>
+> بِإِقْبَالِهَا وَيَذْهَبُ بِذَهَابِهَا.
 
 Hadith n. 340
 -------------
@@ -6489,11 +4957,7 @@ Hadith n. 340
 destitution is chastity and the beauty of riches is gratefulness.
 
 > 340. وقال عليه السلام : الْعَفَافُ زِينَةُ الْفَقْرِ، وَالشُّكْرُ
-<blockquote dir="rtl">
-  <p>
-زِينَةُ الْغِنَى.
-  </p>
-</blockquote>
+> زِينَةُ الْغِنَى.
 
 Hadith n. 341
 -------------
@@ -6503,11 +4967,7 @@ will be severer on the oppressor than the day of oppression on the
 oppressed.
 
 > 341. وقال عليه السلام : يَوْمُ الْعَدْلِ عَلَى الظَّالِمِ أَشَدُّ مِنْ
-<blockquote dir="rtl">
-  <p>
-يَومِ الْجَوْرِ عَلَى الْمَظْلُومِ!
-  </p>
-</blockquote>
+> يَومِ الْجَوْرِ عَلَى الْمَظْلُومِ!
 
 Hadith n. 342
 -------------
@@ -6532,16 +4992,12 @@ glance may affect even the man with the 'best wisdom among them or a
 single expression may transform him.
 
 > 343. وَ قَالَ عليه السلام: الْأَقَاوِيلُ مَحْفُوظَةٌ وَ السَّرَائِرُ
-<blockquote dir="rtl">
-  <p>
-مَبْلُوَّةٌ وَ (كُلُّ نَفْسٍ بِما كَسَبَتْ رَهِينَةٌ) وَ النَّاسُ
-مَنْقُوصُونَ مَدْخُولُونَ إِلَّا مَنْ عَصَمَ اللَّهُ: سَائِلُهُمْ
-مُتَعَنِّتٌ وَ مُجِيبُهُمْ مُتَكَلِّفٌ يَكَادُ أَفْضَلُهُمْ رَأْياً
-يَرُدُّهُ عَنْ فَضْلِ رَأْيِهِ الرِّضَى وَ السُّخْطُ ، وَ يَكَادُ
-أَصْلَبُهُمْ عُوداً تَنْكَؤُهُ اللَّحْظَةُ وَ تَسْتَحِيلُهُ
-الْكَلِمَةُ الْوَاحِدَةُ .
-  </p>
-</blockquote>
+> مَبْلُوَّةٌ وَ (كُلُّ نَفْسٍ بِما كَسَبَتْ رَهِينَةٌ) وَ النَّاسُ
+> مَنْقُوصُونَ مَدْخُولُونَ إِلَّا مَنْ عَصَمَ اللَّهُ: سَائِلُهُمْ
+> مُتَعَنِّتٌ وَ مُجِيبُهُمْ مُتَكَلِّفٌ يَكَادُ أَفْضَلُهُمْ رَأْياً
+> يَرُدُّهُ عَنْ فَضْلِ رَأْيِهِ الرِّضَى وَ السُّخْطُ ، وَ يَكَادُ
+> أَصْلَبُهُمْ عُوداً تَنْكَؤُهُ اللَّحْظَةُ وَ تَسْتَحِيلُهُ
+> الْكَلِمَةُ الْوَاحِدَةُ .
 
 Hadith n. 344
 -------------
@@ -6557,15 +5013,11 @@ sorrow and grief. ***Loses he both this world and (also) the hereafter;
 that is a loss (which is) manifest.*** **(Qur'an, 22:11)**
 
 > 344. وَ قَالَ عليه السلام: مَعَاشِرَ النَّاسِ اتَّقُوا اللَّهَ فَكَمْ
-<blockquote dir="rtl">
-  <p>
-مِنْ مُؤَمِّلٍ مَا لَا يَبْلُغُهُ وَ بَانٍ مَا لَا يَسْكُنُهُ وَ
-جَامِعٍ مَا سَوْفَ يَتْرُكُهُ وَ لَعَلَّهُ مِنْ بَاطِلٍ جَمَعَهُ وَ
-مِنْ حَقٍّ مَنَعَهُ أَصَابَهُ حَرَاماً وَ احْتَمَلَ بِهِ آثَاماً
-فَبَاءَ بِوِزْرِهِ وَ قَدِمَ عَلَى رَبِّهِ آسِفاً لَاهِفاً (قَدْ
-خَسِرَ الدُّنْيا وَ الْآخِرَةَ ذلِكَ هُوَ الْخُسْرانُ الْمُبِينُ ).
-  </p>
-</blockquote>
+> مِنْ مُؤَمِّلٍ مَا لَا يَبْلُغُهُ وَ بَانٍ مَا لَا يَسْكُنُهُ وَ
+> جَامِعٍ مَا سَوْفَ يَتْرُكُهُ وَ لَعَلَّهُ مِنْ بَاطِلٍ جَمَعَهُ وَ
+> مِنْ حَقٍّ مَنَعَهُ أَصَابَهُ حَرَاماً وَ احْتَمَلَ بِهِ آثَاماً
+> فَبَاءَ بِوِزْرِهِ وَ قَدِمَ عَلَى رَبِّهِ آسِفاً لَاهِفاً (قَدْ
+> خَسِرَ الدُّنْيا وَ الْآخِرَةَ ذلِكَ هُوَ الْخُسْرانُ الْمُبِينُ ).
 
 Hadith n. 345
 -------------
@@ -6583,11 +5035,7 @@ face is solid but begging dissolves it away: therefore, look carefully
 before whom you dissolve it.
 
 > 346. وقال عليه السلام : مَاءُ وَجْهِكَ جَامِدٌ يُقْطِرُهُ السُّؤَالُ،
-<blockquote dir="rtl">
-  <p>
-فَانْظُرْ عِنْدَ مَنْ تُقْطِرُهُ.
-  </p>
-</blockquote>
+> فَانْظُرْ عِنْدَ مَنْ تُقْطِرُهُ.
 
 Hadith n. 347
 -------------
@@ -6597,11 +5045,7 @@ what is due is sycophancy; to do it less is either because of inability
 to speak or of envy.
 
 > 347. وقال عليه السلام : الثَّنَاءُ بِأَكْثَرَ مِنَ الاْسْتِحْقَاقِ
-<blockquote dir="rtl">
-  <p>
-مَلَقٌ وَالتَّقْصِيرُ عَنِ الاْسْتِحْقَاقِ عِيٌّ أَوْ حَسَدٌ.
-  </p>
-</blockquote>
+> مَلَقٌ وَالتَّقْصِيرُ عَنِ الاْسْتِحْقَاقِ عِيٌّ أَوْ حَسَدٌ.
 
 Hadith n. 348
 -------------
@@ -6610,11 +5054,7 @@ Hadith n. 348
 is that which the doer considers light. [^86]
 
 > 348. وقال عليه السلام : أَشدُّ الذُّنُوبِ مَا اسْتَهَانَ بِهِ
-<blockquote dir="rtl">
-  <p>
-صَاحِبُهُ.
-  </p>
-</blockquote>
+> صَاحِبُهُ.
 
 Hadith n. 349
 -------------
@@ -6627,27 +5067,19 @@ killed with it. He who strives without means perishes. He who enters the
 depths gets drowned. He who visits places of ill-repute receives blame.
 
 > 349. وقال عليه السلام : مَنْ نَظَرَ فِي عَيْبِ نَفْسِهِ اشْتَغَلَ عَنْ
-<blockquote dir="rtl">
-  <p>
-عَيْبِ غَيْرهِ، وَمَنْ رَضِيَ برِزْقِ اللهِ لَمْ يَحْزَنْ عَلَى مَا
-فَاتَهُ، وَمَنْ سَلَّ سَيْفَ الْبَغْيِ قُتِلَ بِهِ، وَمَنْ كَابَدَ
-الاْمُورَعَطِبَ وَمَنِ اقْتَحَمَ اللُّجَجَ غَرِقَ، وَمَنْ دَخَلَ
-مَدَاخِلَ السُّوءِ اتُّهِمَ،
-  </p>
-</blockquote>
+> عَيْبِ غَيْرهِ، وَمَنْ رَضِيَ برِزْقِ اللهِ لَمْ يَحْزَنْ عَلَى مَا
+> فَاتَهُ، وَمَنْ سَلَّ سَيْفَ الْبَغْيِ قُتِلَ بِهِ، وَمَنْ كَابَدَ
+> الاْمُورَعَطِبَ وَمَنِ اقْتَحَمَ اللُّجَجَ غَرِقَ، وَمَنْ دَخَلَ
+> مَدَاخِلَ السُّوءِ اتُّهِمَ،
 
 He who speaks more commits more errors. He who commits more errors
 becomes shameless. He who is shameless will have less fear of Allah. He
 whose fear of Allah is less, his heart dies. He whose heart dies enters
 the Fire.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ كَثُرَ كَلاَمُهُ كَثُرَ خَطَؤُهُ، وَمَنْ كَثُرَ خَطَؤُهُ قَلَّ
-حَيَاؤُهُ، وَمَنْ قَلَّ حَيَاؤُهُ قَلَّ وَرَعُهُ،مَنْ قَلَّ وَرَعُهُ
-مَاتَ قَلْبُهُ، وَمَنْ مَاتَ قَلْبُهُ دَخَلَ النَّارَ،
-  </p>
-</blockquote>
+> وَمَنْ كَثُرَ كَلاَمُهُ كَثُرَ خَطَؤُهُ، وَمَنْ كَثُرَ خَطَؤُهُ قَلَّ
+> حَيَاؤُهُ، وَمَنْ قَلَّ حَيَاؤُهُ قَلَّ وَرَعُهُ،مَنْ قَلَّ وَرَعُهُ
+> مَاتَ قَلْبُهُ، وَمَنْ مَاتَ قَلْبُهُ دَخَلَ النَّارَ،
 
 He who observes the shortcomings of others and disapproves of them and
 then accepts them for himself is definitely a fool. Contentment is a
@@ -6655,15 +5087,11 @@ capital that does not dwindle. He who remembers death much is satisfied
 with small favours in this world. He who knows that his speech is also a
 part of his action speaks less except where he has some purpose.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ نَظَرَ فِي عُيُوبِ النَّاسِ فَأَنْكَرَهَا ثُمَّ رَضِيَهَا
-لِنَفْسِهِ فذَاك الاْحْمَقُ بِعَيْنِهِ. وَالْقَنَاعَةُ مَالٌ لاَ
-يَنْفَدُ، وَمَنْ أَكْثَرَ مِنْ ذِكْرِ الْمَوْتِ رَضِيَ مِنَ الدُّنْيَا
-بِالْيَسيرِ، مَنْ عَلِمَ أَنَّ كَلاَمَهُ مِنْ عَمَلِهِ قَلَّ كَلاَمُهُ
-إِلاَّ فِيَما يَعْنيِهِ.
-  </p>
-</blockquote>
+> وَمَنْ نَظَرَ فِي عُيُوبِ النَّاسِ فَأَنْكَرَهَا ثُمَّ رَضِيَهَا
+> لِنَفْسِهِ فذَاك الاْحْمَقُ بِعَيْنِهِ. وَالْقَنَاعَةُ مَالٌ لاَ
+> يَنْفَدُ، وَمَنْ أَكْثَرَ مِنْ ذِكْرِ الْمَوْتِ رَضِيَ مِنَ الدُّنْيَا
+> بِالْيَسيرِ، مَنْ عَلِمَ أَنَّ كَلاَمَهُ مِنْ عَمَلِهِ قَلَّ كَلاَمُهُ
+> إِلاَّ فِيَما يَعْنيِهِ.
 
 Hadith n. 350
 -------------
@@ -6674,12 +5102,8 @@ and his junior by imposing his authority and he supports other
 oppressors.
 
 > 350. وقال عليه السلام : لِلظَّالِمِ مِنَ الرِّجَالِ ثَلاَثُ
-<blockquote dir="rtl">
-  <p>
-عَلاَمَاتٍ: يَظْلِمُ مَنْ فَوْقَهُ بِالْمَعْصِيَةِ، َ مَنْ دُونَهُ
-بِالْغَلَبَةِ و يُظَاهِرُالْقَوْمَ الظَّلَمَةَ .
-  </p>
-</blockquote>
+> عَلاَمَاتٍ: يَظْلِمُ مَنْ فَوْقَهُ بِالْمَعْصِيَةِ، َ مَنْ دُونَهُ
+> بِالْغَلَبَةِ و يُظَاهِرُالْقَوْمَ الظَّلَمَةَ .
 
 Hadith n. 351
 -------------
@@ -6689,11 +5113,7 @@ hardship comes relief, and at the tightening of the chains of
 tribulation comes ease.
 
 > 351. وقال عليه السلام : عِنْدَ تَنَاهِي الشِّدَّةِ تَكُونُ
-<blockquote dir="rtl">
-  <p>
-الْفَرْجَةُ، وَعِنْدَ تَضَايُقِ حَلَقِ الْبَلاَءِ يَكُونُ الرَّخَاءُ.
-  </p>
-</blockquote>
+> الْفَرْجَةُ، وَعِنْدَ تَضَايُقِ حَلَقِ الْبَلاَءِ يَكُونُ الرَّخَاءُ.
 
 Hadith n. 352
 -------------
@@ -6706,13 +5126,9 @@ then why should you worry and keep yourself busy about the enemies of
 Allah.
 
 > 352. وقال عليه السلام لبعض أصحابه: لاَ تَجْعَلَنَّ أَكْثَرَ شُغُلِكَ
-<blockquote dir="rtl">
-  <p>
-بِأَهْلِكَ وَوَلَدِكَ: فَإِنْ يَكُنْ أَهْلُكَ وَوَلَدُكَ أَوْلِيَاءَ
-اللهِ، فَإِنَّ اللهَ لاَ يُضِيعُ أَوْلِيَاءَهُ، وَإِنْ يَكُونُوا
-أَعْدَاءَ اللهِ، فَمَا هَمُّكَ وَشُغُلُكَ بأَعْدَاءِ اللهِ؟
-  </p>
-</blockquote>
+> بِأَهْلِكَ وَوَلَدِكَ: فَإِنْ يَكُنْ أَهْلُكَ وَوَلَدُكَ أَوْلِيَاءَ
+> اللهِ، فَإِنَّ اللهَ لاَ يُضِيعُ أَوْلِيَاءَهُ، وَإِنْ يَكُونُوا
+> أَعْدَاءَ اللهِ، فَمَا هَمُّكَ وَشُغُلُكَ بأَعْدَاءِ اللهِ؟
 
 Hadith n. 353
 -------------
@@ -6721,11 +5137,7 @@ Hadith n. 353
 is to regard that defect (in others) which is present in yourself. [^87]
 
 > 353. وقال عليه السلام : أَكْبَرُ الْعَيْبِ أَنْ تَعِيبَ مَا فِيكَ
-<blockquote dir="rtl">
-  <p>
-مِثْلُهُ.
-  </p>
-</blockquote>
+> مِثْلُهُ.
 
 Hadith n. 354
 -------------
@@ -6738,13 +5150,9 @@ Allah, the Giver, and be blessed with what you have been given. May he
 attain full life and may you be blessed with his devotion.
 
 > 354. وهنَّأَ بحضرته عليه السلام رجل رجلاً بغلام ولد له فقال له:
-<blockquote dir="rtl">
-  <p>
-لِيَهْنِئْكَ الْفَارسُ. فقال عليه السلام : لاَ تَقُلْ ذلِكَ، وَلكِنْ
-قُلْ: شَكَرْتَ الْوَاهِبَ، وَبُورِكَ لَكَ فِي الْمَوْهُوبِ، وَبَلَغَ
-أَشُدَّهُ، وَرُزِقْتَ بِرَّهُ.
-  </p>
-</blockquote>
+> لِيَهْنِئْكَ الْفَارسُ. فقال عليه السلام : لاَ تَقُلْ ذلِكَ، وَلكِنْ
+> قُلْ: شَكَرْتَ الْوَاهِبَ، وَبُورِكَ لَكَ فِي الْمَوْهُوبِ، وَبَلَغَ
+> أَشُدَّهُ، وَرُزِقْتَ بِرَّهُ.
 
 Hadith n. 355
 -------------
@@ -6755,11 +5163,7 @@ coins showing forth their faces. Certainly, this house speaks of your
 riches.
 
 > 355. وبنى رجل من عمّاله بناءً فخماً فقال عليه السلام : أَطْلَعَتِ
-<blockquote dir="rtl">
-  <p>
-الْوَرِقُ رُؤُوسَهَا! إِنَّ الْبِنَاءَ لَيَصِفُ عَنْكَ الْغِنَى.
-  </p>
-</blockquote>
+> الْوَرِقُ رُؤُوسَهَا! إِنَّ الْبِنَاءَ لَيَصِفُ عَنْكَ الْغِنَى.
 
 Hadith n. 356
 -------------
@@ -6770,12 +5174,8 @@ reach him. And he replied: From whatever way his death reaches him.
 [^88]
 
 > 356. وقيل له عليه السلام : لو سُدَّ على رجلٍ بَابُ بيته، وتُرِكَ فيه،
-<blockquote dir="rtl">
-  <p>
-من أَين كان يأتيه رزقُه؟ فقال عليه السلام : مِنْ حَيْثُ كَانَ
-يَأْتِيهِ أَجَلُهُ.
-  </p>
-</blockquote>
+> من أَين كان يأتيه رزقُه؟ فقال عليه السلام : مِنْ حَيْثُ كَانَ
+> يَأْتِيهِ أَجَلُهُ.
 
 Hadith n. 357
 -------------
@@ -6787,13 +5187,9 @@ therefore it is better to think him still to be journeying. Either he
 will rejoin you or else you will rejoin him.
 
 > 357. وعَزّى عليه السلام قوماً عن ميّتٍ فقال: إِنَّ هذَا الاْمْرَلَيْسَ
-<blockquote dir="rtl">
-  <p>
-بِكُمْ بَدَأَ، وَلاَ إِلَيْكُمُ انْتَهَى، وَقَدْ كَانَ صَاحِبُكُمْ
-هذَا يُسَافِرُ، فَعُدُّوهُ فِي بَعْضِ أَسْفَارِهِ، فَإِنْ قَدِمَ
-عَلَيْكُمْ وَإِلاَّ قَدِمْتُمْ عَلَيْهِ
-  </p>
-</blockquote>
+> بِكُمْ بَدَأَ، وَلاَ إِلَيْكُمُ انْتَهَى، وَقَدْ كَانَ صَاحِبُكُمْ
+> هذَا يُسَافِرُ، فَعُدُّوهُ فِي بَعْضِ أَسْفَارِهِ، فَإِنْ قَدِمَ
+> عَلَيْكُمْ وَإِلاَّ قَدِمْتُمْ عَلَيْهِ
 
 Hadith n. 358
 -------------
@@ -6807,14 +5203,10 @@ afflicted with straitened circumstances but does not perceive them to be
 a trial loses the coveted reward.
 
 > 358. وَ قَالَ عليه السلام: أَيُّهَا النَّاسُ لِيَرَكُمُ اللَّهُ مِنَ
-<blockquote dir="rtl">
-  <p>
-النِّعْمَةِ وَجِلِينَ كَمَا يَرَاكُمْ مِنَ النِّقْمَةِ فَرِقِينَ
-إِنَّهُ مَنْ وُسِّعَ عَلَيْهِ فِى ذَاتِ يَدِهِ فَلَمْ يَرَ ذَلِكَ
-اسْتِدْرَاجاً فَقَدْ أَمِنَ مَخُوفاً وَ مَنْ ضُيِّقَ عَلَيْهِ فِى
-ذَاتِ يَدِهِ فَلَمْ يَرَ ذَلِكَ اخْتِبَاراً فَقَدْ ضَيَّعَ مَأْمُولًا.
-  </p>
-</blockquote>
+> النِّعْمَةِ وَجِلِينَ كَمَا يَرَاكُمْ مِنَ النِّقْمَةِ فَرِقِينَ
+> إِنَّهُ مَنْ وُسِّعَ عَلَيْهِ فِى ذَاتِ يَدِهِ فَلَمْ يَرَ ذَلِكَ
+> اسْتِدْرَاجاً فَقَدْ أَمِنَ مَخُوفاً وَ مَنْ ضُيِّقَ عَلَيْهِ فِى
+> ذَاتِ يَدِهِ فَلَمْ يَرَ ذَلِكَ اخْتِبَاراً فَقَدْ ضَيَّعَ مَأْمُولًا.
 
 Hadith n. 359
 -------------
@@ -6825,13 +5217,9 @@ except the pain of hardships. O people, take charge of the training of
 your own souls and turn them away from the addiction to their habits.
 
 > 359. وَ قَالَ عليه السلام: يَا أَسْرَى الرَّغْبَةِ أَقْصِرُوا فَإِنَّ
-<blockquote dir="rtl">
-  <p>
-الْمُعَرِّجَ عَلَى الدُّنْيَا لَا يَرُوعُهُ مِنْهَا إِلَّا صَرِيفُ
-أَنْيَابِ الْحِدْثَانِ أَيُّهَا النَّاسُ تَوَلَّوْا مِنْ أَنْفُسِكُمْ
-تَأْدِيبَهَا وَ اعْدِلُوا بِهَا عَنْ ضَرَاوَةِ عَادَاتِهَا .
-  </p>
-</blockquote>
+> الْمُعَرِّجَ عَلَى الدُّنْيَا لَا يَرُوعُهُ مِنْهَا إِلَّا صَرِيفُ
+> أَنْيَابِ الْحِدْثَانِ أَيُّهَا النَّاسُ تَوَلَّوْا مِنْ أَنْفُسِكُمْ
+> تَأْدِيبَهَا وَ اعْدِلُوا بِهَا عَنْ ضَرَاوَةِ عَادَاتِهَا .
 
 Hadith n. 360
 -------------
@@ -6841,11 +5229,7 @@ expression uttered by any person as evil if you can find it capable of
 bearing some good.
 
 > 360. وقال عليه السلام : لاَ تَظُنَّنَّ بِكَلِمَةٍ خَرَجَتْ مِنْ أَحَدٍ
-<blockquote dir="rtl">
-  <p>
-سَوءاً، وَأَنْتَ تَجِدُ لَهَا فِي الْخَيْرِ مُحْتَمَلاً.
-  </p>
-</blockquote>
+> سَوءاً، وَأَنْتَ تَجِدُ لَهَا فِي الْخَيْرِ مُحْتَمَلاً.
 
 Hadith n. 361
 -------------
@@ -6857,13 +5241,9 @@ because Allah is too generous to accept one (seeking His blessing on His
 Messenger) of the two requests made to Him and deny the other.
 
 > 361. وقال عليه السلام : إِذَا كَانَتْ لَكَ إِلَى اللهِ سُبْحَانَهُ
-<blockquote dir="rtl">
-  <p>
-حَاجَةٌ فَابْدَأْ بِمَسْأَلَةِ الصَّلاَةِ عَلَى النَّبِيّ صلى الله
-عليه وآله ، ثُمَّ سَلْ حَاجَتَكَ، فَإِنَّ اللهَ أَكْرَمُ مِنْ أَنْ
-يُسْأَلَ حَاجَتَيْنِ فَيَقْضِيَ إِحْدَاهُمَا وَيَمْنَعَ الاْخْرَى.
-  </p>
-</blockquote>
+> حَاجَةٌ فَابْدَأْ بِمَسْأَلَةِ الصَّلاَةِ عَلَى النَّبِيّ صلى الله
+> عليه وآله ، ثُمَّ سَلْ حَاجَتَكَ، فَإِنَّ اللهَ أَكْرَمُ مِنْ أَنْ
+> يُسْأَلَ حَاجَتَيْنِ فَيَقْضِيَ إِحْدَاهُمَا وَيَمْنَعَ الاْخْرَى.
 
 Hadith n. 362
 -------------
@@ -6881,11 +5261,7 @@ the proper time or to delay after a proper opportunity, in either case
 is folly.
 
 > 363. وقال عليه السلام : مِنَ الْخُرْقِ الْمُعَاجَلَةُ قَبْلَ
-<blockquote dir="rtl">
-  <p>
-الاْمْكَانِ، وَالاْناةُ بَعْدَ الْفُرْصَةِ.
-  </p>
-</blockquote>
+> الاْمْكَانِ، وَالاْناةُ بَعْدَ الْفُرْصَةِ.
 
 Hadith n. 364
 -------------
@@ -6895,11 +5271,7 @@ things which may not happen because you have enough to worry about with
 what happens.
 
 > 364. وقال عليه السلام : لاَتَسْأَلْ عَمَّا لاَ يَكُونُ، فَفِي الَّذِي
-<blockquote dir="rtl">
-  <p>
-قَدْ كَانَ لَكَ شُغُلٌ.
-  </p>
-</blockquote>
+> قَدْ كَانَ لَكَ شُغُلٌ.
 
 Hadith n. 365
 -------------
@@ -6910,12 +5282,8 @@ warning and counsel. It is enough for improving yourself that you should
 avoid what you consider bad in others.
 
 > 365. وقال عليه السلام : الْفِكْرُ مرْآةٌ صَافِيَةٌ، وَالاْعْتِبَارُ
-<blockquote dir="rtl">
-  <p>
-مُنْذِرٌ نَاصِحٌ، وَكَفى أَدَباً لِنَفْسِكَ تَجَنُّبُكَ مَا كَرِهْتَهُ
-لِغَيْرِكَ.
-  </p>
-</blockquote>
+> مُنْذِرٌ نَاصِحٌ، وَكَفى أَدَباً لِنَفْسِكَ تَجَنُّبُكَ مَا كَرِهْتَهُ
+> لِغَيْرِكَ.
 
 Hadith n. 366
 -------------
@@ -6926,12 +5294,8 @@ knowledge calls for action; if there is a response well and good,
 otherwise it (i.e., knowledge) departs from him.
 
 > 366. وقال عليه السلام : الْعِلْمُ مَقْرُونٌ بِالْعَمَلِ فَمَنْ عَلِمَ
-<blockquote dir="rtl">
-  <p>
-عَمِلَ، وَالْعِلْمُ يَهْتِفُ بِالْعَمَلِ فَإِنْ أَجَابَهُ وَإِلاَّ
-ارْتَحَلَ.
-  </p>
-</blockquote>
+> عَمِلَ، وَالْعِلْمُ يَهْتِفُ بِالْعَمَلِ فَإِنْ أَجَابَهُ وَإِلاَّ
+> ارْتَحَلَ.
 
 Hadith n. 367
 -------------
@@ -6951,19 +5315,15 @@ while both his arteries are severed. It is easy for Allah to cause him
 to die and for his comrades to put him in the grave.
 
 > 367. وقال عليه السلام : يَا أيُّها النَّاسُ، مَتَاعُ الدُّنْيَا
-<blockquote dir="rtl">
-  <p>
-حُطَامٌ مُوبِىءٌ فَتَجَنَّبُوا مَرْعَاهُ! قُلْعَتُهَا أَحْظَى مِنْ
-طُمَأْنِينَتِهَا وَبُلْغَتُهَا أَزْكَى مِنَ ثَرْوَتِهَا، حُكِمَ عَلَى
-مُكْثِرٍ مِنْهَا بِالْفَاقَةِ وَأُعيِنَ مَنْ غَنِيَ عَنْهَا
-بِالرَّاحَة، مَنْ رَاقَهُ زِبْرِجُهَا أَعْقَبَتْ نَاظِرَيْهِ كَمَهاً
-وَمَنِ اسْتَشْعَرَالشَّغَفَ بِهَا مَلاَتْ ضَمِيرَهُ أَشْجاناً ،
-لَهُنَّ رَقْصٌ عَلى سُوَيْدَاءِ قَلْبِهِ هَمٌّ يَشْغَلُهُ، وَغَمٌّ
-يَحْزُنُهُ، كَذلِكَ حَتَّى يُؤْخَذَ بِكَظَمِهِ فَيُلْقَى بِالْفَضاءِ،
-مُنْقَطِعاً أَبْهَرَاهُ ، هَيِّناً عَلى اللهِ فَناؤُهُ، وَعَلَى
-الاْخْوَانِ إِلْقَاؤهُ.
-  </p>
-</blockquote>
+> حُطَامٌ مُوبِىءٌ فَتَجَنَّبُوا مَرْعَاهُ! قُلْعَتُهَا أَحْظَى مِنْ
+> طُمَأْنِينَتِهَا وَبُلْغَتُهَا أَزْكَى مِنَ ثَرْوَتِهَا، حُكِمَ عَلَى
+> مُكْثِرٍ مِنْهَا بِالْفَاقَةِ وَأُعيِنَ مَنْ غَنِيَ عَنْهَا
+> بِالرَّاحَة، مَنْ رَاقَهُ زِبْرِجُهَا أَعْقَبَتْ نَاظِرَيْهِ كَمَهاً
+> وَمَنِ اسْتَشْعَرَالشَّغَفَ بِهَا مَلاَتْ ضَمِيرَهُ أَشْجاناً ،
+> لَهُنَّ رَقْصٌ عَلى سُوَيْدَاءِ قَلْبِهِ هَمٌّ يَشْغَلُهُ، وَغَمٌّ
+> يَحْزُنُهُ، كَذلِكَ حَتَّى يُؤْخَذَ بِكَظَمِهِ فَيُلْقَى بِالْفَضاءِ،
+> مُنْقَطِعاً أَبْهَرَاهُ ، هَيِّناً عَلى اللهِ فَناؤُهُ، وَعَلَى
+> الاْخْوَانِ إِلْقَاؤهُ.
 
 The believer sees the world with eyes that derive instruction, and takes
 from it food enough for his barest needs. He hears in it with ears of
@@ -6973,15 +5333,11 @@ felt on one's living, grief is felt over his death. This is the
 position, although the day has not yet approached when they will be
 disheartened.
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّمَا يَنْظُرُ الْمُؤْمِنُ إِلَى الدُّنْيَا بَعَيْنِ
-الاْعْتِبَارِ وَيَقْتاتُ مِنْهَا بِبَطْنِ الاْضْطِرَارِ وَيَسْمَعُ
-فِيهَا بِأُذُنِ الْمَقْتِ وَالاْبْغَاضِ، إِنْ قِيلَ أَثْرىقِيلَ
-أَكْدَى! وَإِنْ فُرِحَ لَهُ بِالْبَقَاءِ حُزِنَ لَهُ بِالْفَنَاءِ!
-هذَا وَلَمْ يَأْتِهِمْ يَوْمٌ فِيهِ يُبْلِسُونَ.
-  </p>
-</blockquote>
+> وَإِنَّمَا يَنْظُرُ الْمُؤْمِنُ إِلَى الدُّنْيَا بَعَيْنِ
+> الاْعْتِبَارِ وَيَقْتاتُ مِنْهَا بِبَطْنِ الاْضْطِرَارِ وَيَسْمَعُ
+> فِيهَا بِأُذُنِ الْمَقْتِ وَالاْبْغَاضِ، إِنْ قِيلَ أَثْرىقِيلَ
+> أَكْدَى! وَإِنْ فُرِحَ لَهُ بِالْبَقَاءِ حُزِنَ لَهُ بِالْفَنَاءِ!
+> هذَا وَلَمْ يَأْتِهِمْ يَوْمٌ فِيهِ يُبْلِسُونَ.
 
 Hadith n. 368
 -------------
@@ -6992,12 +5348,8 @@ committing sins against Him in order to save men from His chastisement
 and to drive them towards Paradise.
 
 > 368. وقال عليه السلام : إِنَّ اللهَ سُبْحَانَهُ وَضَعَ الثَّوَابَ
-<blockquote dir="rtl">
-  <p>
-عَلَى طَاعَتِهِ، وَالْعِقَابَ عَلَى مَعْصِيَتِهِ، ذِيَادَةً
-لِعِبَادِهِ عَنْ نِقْمَتِهِ، وَحِيَاشَةً لَهُمْ إلَى جَنِّتِهِ.
-  </p>
-</blockquote>
+> عَلَى طَاعَتِهِ، وَالْعِقَابَ عَلَى مَعْصِيَتِهِ، ذِيَادَةً
+> لِعِبَادِهِ عَنْ نِقْمَتِهِ، وَحِيَاشَةً لَهُمْ إلَى جَنِّتِهِ.
 
 Hadith n. 369
 -------------
@@ -7016,18 +5368,14 @@ upon them an evil wherein the endurer would be bewildered, and He would
 do so. We seek Allah's pardon from stumbling through neglect.
 
 > 369. وقال عليه السلام : يَأْتِي عَلَى النَّاسِ زَمَانٌ لاَ يَبْقى
-<blockquote dir="rtl">
-  <p>
-فِيهِمْ مِن الْقُرآنِ إِلاَّ رَسْمُهُ، وَمِنَ الاْسْلاَمِ إِلاَّ
-اسْمُهُ، مَسَاجِدُهُمْ يَوْمَئِذٍ عَامِرَةٌ مِنَ البُنَى، خَرَابٌ مِنَ
-الْهُدَى، سُكَّانُهَا وَعُمَّارُهَا شَرُّ أَهْلِ الاْرْضِ، مِنْهُمْ
-تَخْرُجُ الْفِتْنَةُ، وَإِلَيْهِمْ تَأوِي الْخَطِيئَةُ، يَرُدُّونَ
-مَنْ شَذَّ عَنْهَا فِيهَا، وَيَسُوقوُنَ مَن تأَخَّرَ عَنْهَا
-إِلَيْهَا، يَقُولُ اللهُ تعالى: فَبِي حَلَفْتُ لاَبْعَثَنَّ عَلَى
-أُولئِكَ فِتْنَةً تتْرُك الْحَلِيمَ فِيهَا حَيْرَانَ، وَقَدْ فَعَلَ،
-وَنَحْنُ نَسْتَقِيلُ اللهَ عَثْرَةَ الْغَفْلَةِ.
-  </p>
-</blockquote>
+> فِيهِمْ مِن الْقُرآنِ إِلاَّ رَسْمُهُ، وَمِنَ الاْسْلاَمِ إِلاَّ
+> اسْمُهُ، مَسَاجِدُهُمْ يَوْمَئِذٍ عَامِرَةٌ مِنَ البُنَى، خَرَابٌ مِنَ
+> الْهُدَى، سُكَّانُهَا وَعُمَّارُهَا شَرُّ أَهْلِ الاْرْضِ، مِنْهُمْ
+> تَخْرُجُ الْفِتْنَةُ، وَإِلَيْهِمْ تَأوِي الْخَطِيئَةُ، يَرُدُّونَ
+> مَنْ شَذَّ عَنْهَا فِيهَا، وَيَسُوقوُنَ مَن تأَخَّرَ عَنْهَا
+> إِلَيْهَا، يَقُولُ اللهُ تعالى: فَبِي حَلَفْتُ لاَبْعَثَنَّ عَلَى
+> أُولئِكَ فِتْنَةً تتْرُك الْحَلِيمَ فِيهَا حَيْرَانَ، وَقَدْ فَعَلَ،
+> وَنَحْنُ نَسْتَقِيلُ اللهَ عَثْرَةَ الْغَفْلَةِ.
 
 Hadith n. 370
 -------------
@@ -7043,16 +5391,12 @@ high courage like him who is successful in the next world even to a
 small extent.
 
 > 370. وروي أنه عليه السلام قلما اعتدل به المنبر إِلاّ قال أَمام خطبته:
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، اتَّقُوا اللهَ، فَمَا خُلِقَ امْرءٌ عَبَثاً
-فَيَلْهُوَ وَلاَ تُرِكَ سُدىً فَيَلْغُوَ وَمَا دُنْيَاهُ الَّتي
-تَحَسَّنَتْ لَهُ بِخَلَفٍ مِنَ الاْخِرَةِ الَّتي قَبَّحَها سُوءُ
-النَّظَرِ عِنْدَهُ، وَمَا الْمَغْرُورُ الَّذِي ظَفِرَ مِنَ الدُّنْيَا
-بأَعْلَى هِمَّتِهِ كَالاْخَرِ الَّذِي ظَفِرَ مِنَ الاْخِرَةِ بِأَدْنَى
-سُهْمَتِهِ.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، اتَّقُوا اللهَ، فَمَا خُلِقَ امْرءٌ عَبَثاً
+> فَيَلْهُوَ وَلاَ تُرِكَ سُدىً فَيَلْغُوَ وَمَا دُنْيَاهُ الَّتي
+> تَحَسَّنَتْ لَهُ بِخَلَفٍ مِنَ الاْخِرَةِ الَّتي قَبَّحَها سُوءُ
+> النَّظَرِ عِنْدَهُ، وَمَا الْمَغْرُورُ الَّذِي ظَفِرَ مِنَ الدُّنْيَا
+> بأَعْلَى هِمَّتِهِ كَالاْخَرِ الَّذِي ظَفِرَ مِنَ الاْخِرَةِ بِأَدْنَى
+> سُهْمَتِهِ.
 
 Hadith n. 371
 -------------
@@ -7069,18 +5413,14 @@ are incentives to falling into sins and evil-doing is the collection of
 all bad habits.
 
 > 371. وقال عليه السلام : لاَ شَرَفَ أَعْلَى مِنَ الاْسْلاَمِ، وَلاَ
-<blockquote dir="rtl">
-  <p>
-عِزَّ أَعَزُّ مِنَ التَّقْوَى، وَلاَ مَعْقِلَ أَحْصَنَ مِنَ
-الْوَرَعِ،لاَ شَفِيعَ أَنْجَحُ مِنَ التّوْبَةِ، وَلاَ كَنْزَ أَغْنَى
-مِنَ الْقَنَاعَةِ، وَلاَ مَالَ أَذْهَبُ لِلْفَاقَةِ مَنَ الرِّضَى
-بِالْقُوتِ، وَمَنِ اقْتَصَرَ عَلَى بُلْغَةِ الْكَفَافِ فَقَدِ
-انْتَظَمَ الرَّاحَةَ وَتَبَوَّأَ خَفْضَ الدَّعَةِ وَالرَّغْبَةُ
-مِفْتَاحُ النَّصَبِ، وَمَطِيَّةُ التَّعَبِ، وَالْحِرْصُ وَالْكِبْرُ
-وَالْحَسَدُ دَوَاعٍ إِلَى التَّقَحُّمِ فِي الذُّنُوبِ، وَالشَّرُّ
-جَامِعُ مَسَاوِىءِ الْعُيُوبِ.
-  </p>
-</blockquote>
+> عِزَّ أَعَزُّ مِنَ التَّقْوَى، وَلاَ مَعْقِلَ أَحْصَنَ مِنَ
+> الْوَرَعِ،لاَ شَفِيعَ أَنْجَحُ مِنَ التّوْبَةِ، وَلاَ كَنْزَ أَغْنَى
+> مِنَ الْقَنَاعَةِ، وَلاَ مَالَ أَذْهَبُ لِلْفَاقَةِ مَنَ الرِّضَى
+> بِالْقُوتِ، وَمَنِ اقْتَصَرَ عَلَى بُلْغَةِ الْكَفَافِ فَقَدِ
+> انْتَظَمَ الرَّاحَةَ وَتَبَوَّأَ خَفْضَ الدَّعَةِ وَالرَّغْبَةُ
+> مِفْتَاحُ النَّصَبِ، وَمَطِيَّةُ التَّعَبِ، وَالْحِرْصُ وَالْكِبْرُ
+> وَالْحَسَدُ دَوَاعٍ إِلَى التَّقَحُّمِ فِي الذُّنُوبِ، وَالشَّرُّ
+> جَامِعُ مَسَاوِىءِ الْعُيُوبِ.
 
 Hadith n. 372
 -------------
@@ -7096,16 +5436,12 @@ with his favours, the destitute sells his next life for the worldly
 benefits.
 
 > 372. وقال عليه السلام لجابر بن عبدالله الاَنصاري: يَا جَابِرُ، قِوَامُ
-<blockquote dir="rtl">
-  <p>
-الدِّينِ وَ الدُّنْيَا بِأَرْبَعَةٍ: عَالِمٍ مُسْتَعْمِلٍ عِلْمَهُ،
-وَجَاهِلٍ لاَ يَسْتَنْكِفُ أَنْ يَتَعَلَّمَ، وَجَوَادٍ لاَ يَبْخَلُ
-بِمَعْرُوفِهِ، وَفَقِيرٍ لاَ يَبِيعُ آخِرَتَهُ بِدُنْيَاهُ؛ فَإِذَا
-ضَيَّعَ الْعَالِمُ عِلْمَهُ اسْتَنْكَفَ الْجَاهِلُ أَنْ يَتَعَلَّمَ،
-وَإِذَا بَخِلَ الْغَنِيُّ بِمَعْرُوفِهِ بَاعَ الْفَقِيرُ آخِرَتَهُ
-بِدُنْيَاهُ.
-  </p>
-</blockquote>
+> الدِّينِ وَ الدُّنْيَا بِأَرْبَعَةٍ: عَالِمٍ مُسْتَعْمِلٍ عِلْمَهُ،
+> وَجَاهِلٍ لاَ يَسْتَنْكِفُ أَنْ يَتَعَلَّمَ، وَجَوَادٍ لاَ يَبْخَلُ
+> بِمَعْرُوفِهِ، وَفَقِيرٍ لاَ يَبِيعُ آخِرَتَهُ بِدُنْيَاهُ؛ فَإِذَا
+> ضَيَّعَ الْعَالِمُ عِلْمَهُ اسْتَنْكَفَ الْجَاهِلُ أَنْ يَتَعَلَّمَ،
+> وَإِذَا بَخِلَ الْغَنِيُّ بِمَعْرُوفِهِ بَاعَ الْفَقِيرُ آخِرَتَهُ
+> بِدُنْيَاهُ.
 
 O Jabir, if favours of Allah abound on a person the people's needs
 towards him also abound. Therefore, he who fulfils for Allah all that is
@@ -7113,14 +5449,10 @@ obligatory on him in this regard will preserve them (Allah's favours) in
 continuance and perpetuity, while he who does not fulfil those
 obligations will expose them to decay and destruction.
 
-<blockquote dir="rtl">
-  <p>
-يَا جَابِرُ مَنْ كَثُرَتْ نِعَمُ اَللَّهِ عَلَيْهِ كَثُرَتْ حَوَائِجُ
-اَلنَّاسِ إِلَيْهِ فَمَنْ قَامَ لِلَّهِ فِيهَا بِمَا يَجِبُ فِيهَا
-عَرَّضَهَا لِلدَّوَامِ وَ اَلْبَقَاءِ وَ مَنْ لَمْ يَقُمْ فِيهَا بِمَا
-يَجِبُ عَرَّضَهَا لِلزَّوَالِ وَ اَلْفَنَاءِ.
-  </p>
-</blockquote>
+> يَا جَابِرُ مَنْ كَثُرَتْ نِعَمُ اَللَّهِ عَلَيْهِ كَثُرَتْ حَوَائِجُ
+> اَلنَّاسِ إِلَيْهِ فَمَنْ قَامَ لِلَّهِ فِيهَا بِمَا يَجِبُ فِيهَا
+> عَرَّضَهَا لِلدَّوَامِ وَ اَلْبَقَاءِ وَ مَنْ لَمْ يَقُمْ فِيهَا بِمَا
+> يَجِبُ عَرَّضَهَا لِلزَّوَالِ وَ اَلْفَنَاءِ.
 
 Hadith n. 373
 -------------
@@ -7136,13 +5468,9 @@ the righteous and may He reward him the reward of martyrs and men of
 truth, saying:
 
 > 373. وروى ابن جرير الطبري في تاريخه عن عبدالرحمن بن أبي ليلى الفقيه.
-<blockquote dir="rtl">
-  <p>
-وكان ممن خرج لقتال الحجاج مع ابن الاَشعث. أنه قال فيما كان يحضُّ به
-الناسَ على الجهاد: إني سمعتُ علياً رفع الله درجته في الصالحين، و أثابه
-ثواب الشهداء و الصديقين ، يقول يوم لقينا أهل الشام:
-  </p>
-</blockquote>
+> وكان ممن خرج لقتال الحجاج مع ابن الاَشعث. أنه قال فيما كان يحضُّ به
+> الناسَ على الجهاد: إني سمعتُ علياً رفع الله درجته في الصالحين، و أثابه
+> ثواب الشهداء و الصديقين ، يقول يوم لقينا أهل الشام:
 
 O believers, whoever observes excesses being committed and people being
 called towards evil and disapproves it with his heart is safe and free
@@ -7153,17 +5481,13 @@ Allah may remain superior and the word of the oppressors may remain
 inferior, catches hold of the path of guidance and stands on the right
 way, while his heart is lighted with conviction.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا الْمُؤْمِنُونَ، إِنَّهُ مَنْ رَأَى عُدْوَاناً يُعْمَلُ بِهِ
-وَمُنْكَراً يُدْعَى إِلَيْهِ، فَأَنْكَرَهُ بِقَلْبِهِ فَقَدْ سَلِمَ
-وَبَرِىءَ وَمَنْ أَنْكَرَهُ بِلِسَانِهِ فَقَدْ أُجِرَ وَهُوَ أَفْضَلُ
-مِنْ صَاحِبِهِ، وَمَنْ أَنْكرَهُ بِالسَّيْفِ لِتَكُونَ كَلِمَةُ اللهِ
-هِيَ الْعُلْيَا وَكَلِمَةُ الظَّالِمِينَ السُّفْلَى، فَذلِكَ الَّذِي
-أَصَابَ سَبيلَ الْهُدَى، وَقَامَ عَلَى الطَّريق، وَنَوَّرَ فِي
-قَلْبِهِ الْيَقِينُ.
-  </p>
-</blockquote>
+> أَيُّهَا الْمُؤْمِنُونَ، إِنَّهُ مَنْ رَأَى عُدْوَاناً يُعْمَلُ بِهِ
+> وَمُنْكَراً يُدْعَى إِلَيْهِ، فَأَنْكَرَهُ بِقَلْبِهِ فَقَدْ سَلِمَ
+> وَبَرِىءَ وَمَنْ أَنْكَرَهُ بِلِسَانِهِ فَقَدْ أُجِرَ وَهُوَ أَفْضَلُ
+> مِنْ صَاحِبِهِ، وَمَنْ أَنْكرَهُ بِالسَّيْفِ لِتَكُونَ كَلِمَةُ اللهِ
+> هِيَ الْعُلْيَا وَكَلِمَةُ الظَّالِمِينَ السُّفْلَى، فَذلِكَ الَّذِي
+> أَصَابَ سَبيلَ الْهُدَى، وَقَامَ عَلَى الطَّريق، وَنَوَّرَ فِي
+> قَلْبِهِ الْيَقِينُ.
 
 Hadith n. 374
 -------------
@@ -7181,18 +5505,14 @@ either with his tongue, heart or hand. He is just a dead man among the
 living.
 
 > 374. وقد قال عليه السلام في كلام غير هذا يجري هذا المجرى: فَمِنْهُمُ
-<blockquote dir="rtl">
-  <p>
-الْمُنْكِرُ للْمُنْكَرِ بيَدِهِ وَلِسَانِهِ وَقَلْبِهِ فَذَلِكَ
-الْمُسْتَكْمِلُ لِخِصَالِ الْخَيْرِ، وَمِنْهُمُ الْمُنْكِرُ
-بِلِسَانِهِ وَقَلْبهِ وَالتَّارِكُ بِيَدِهِ فَذلِكَ مُتَمَسِّكٌ
-بِخَصْلَتيَنِ مِنْ خِصَالِ الْخَيْرِ وَمُضَيِّعٌ خَصْلَةً، وَمِنْهُمُ
-الْمُنْكِرُ بِقَلْبِهِ وَالتَّارِكُ بيَدِهِ وَلِسَانِهِ فَذلِكَ
-الَّذِي ضَيَّعَ أَشْرَفَ الْخَصْلَتَيْنِ مِنَ الثَّلاَثِ وَتَمَسَّكَ
-بوَاحِدَةٍ، وَمِنْهُمْ تَارِكٌ لاِنْكَارِ الْمُنكَرِ بِلِسَانِهِ
-وَقَلْبِهِ وَيَدِهِ فَذلِكَ مَيِّتُ الاْحْيَاءِ.
-  </p>
-</blockquote>
+> الْمُنْكِرُ للْمُنْكَرِ بيَدِهِ وَلِسَانِهِ وَقَلْبِهِ فَذَلِكَ
+> الْمُسْتَكْمِلُ لِخِصَالِ الْخَيْرِ، وَمِنْهُمُ الْمُنْكِرُ
+> بِلِسَانِهِ وَقَلْبهِ وَالتَّارِكُ بِيَدِهِ فَذلِكَ مُتَمَسِّكٌ
+> بِخَصْلَتيَنِ مِنْ خِصَالِ الْخَيْرِ وَمُضَيِّعٌ خَصْلَةً، وَمِنْهُمُ
+> الْمُنْكِرُ بِقَلْبِهِ وَالتَّارِكُ بيَدِهِ وَلِسَانِهِ فَذلِكَ
+> الَّذِي ضَيَّعَ أَشْرَفَ الْخَصْلَتَيْنِ مِنَ الثَّلاَثِ وَتَمَسَّكَ
+> بوَاحِدَةٍ، وَمِنْهُمْ تَارِكٌ لاِنْكَارِ الْمُنكَرِ بِلِسَانِهِ
+> وَقَلْبِهِ وَيَدِهِ فَذلِكَ مَيِّتُ الاْحْيَاءِ.
 
 All the virtuous deeds including war in the way of Allah as compared to
 the persuasion to good and dissuasion from evil are just like spitting
@@ -7200,16 +5520,12 @@ in the deep ocean. The persuasion for good and dissuasion from evil do
 not bring death nearer nor do they lessen the livelihood. And better
 than all this is to utter a just expression before a tyrannical ruler.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَعْمَالُ الْبِرِّ كُلُّهَا وَالْجِهَادُ فِي سَبِيلِ اللهِ،
-عِنْدَ الاْمْرِ بالْمَعْرُوفِ وَالنَّهْيِ عَنِ الْمُنكَرِ، إِلاَّ
-كَنَفْثَةٍ فِي بَحْرٍ لُجِّيٍّ وَإِنَّ الاْمْرَ بالْمَعْروُفِ
-وَالنَّهْيَ عَنِ الْمُنكَرِ لاَ يُقَرِّبَانِ مِنْ أَجَلٍ، وَلاَ
-يَنْقصَانِ مِنْ رِزْقٍ، وَأَفضَلُ مِنْ ذلِكَ كُلِّهِ كَلِمَةُ عَدْلٍ
-عِنْدَ إِمَامٍ جَائِرٍ.
-  </p>
-</blockquote>
+> وَمَا أَعْمَالُ الْبِرِّ كُلُّهَا وَالْجِهَادُ فِي سَبِيلِ اللهِ،
+> عِنْدَ الاْمْرِ بالْمَعْرُوفِ وَالنَّهْيِ عَنِ الْمُنكَرِ، إِلاَّ
+> كَنَفْثَةٍ فِي بَحْرٍ لُجِّيٍّ وَإِنَّ الاْمْرَ بالْمَعْروُفِ
+> وَالنَّهْيَ عَنِ الْمُنكَرِ لاَ يُقَرِّبَانِ مِنْ أَجَلٍ، وَلاَ
+> يَنْقصَانِ مِنْ رِزْقٍ، وَأَفضَلُ مِنْ ذلِكَ كُلِّهِ كَلِمَةُ عَدْلٍ
+> عِنْدَ إِمَامٍ جَائِرٍ.
 
 Hadith n. 375
 -------------
@@ -7224,14 +5540,10 @@ not disapprove evil will be turned upside down. Thus, his upside will be
 turned downwards and his lowside will be turned upwards.
 
 > 375. وعن أبي جُحَيْفَةَ قال: سمعت أميرالمؤمنين عليه السلام يقول:
-<blockquote dir="rtl">
-  <p>
-أَوَّلُ مَا تُغْلَبُونَ عَلَيْهِ مِنَ الْجِهَادِ الْجِهَادُ
-بِأَيْدِيكُمْ، ثُمَّ بِأَلْسِنَتِكُمْ، ثُمَّ بِقُلُوبِكُمْ؛ فَمَنْ
-لَمْ يَعْرِفْ بِقَلْبِهِ مَعْرُوفاً، وَلَمْ يُنْكِرْ مُنْكَراً، قُلِبَ
-فَجُعِلَ أَعْلاَهُ أَسْفَلَهُ، وَأَسَفَلُهُ أَعْلاَهُ.
-  </p>
-</blockquote>
+> أَوَّلُ مَا تُغْلَبُونَ عَلَيْهِ مِنَ الْجِهَادِ الْجِهَادُ
+> بِأَيْدِيكُمْ، ثُمَّ بِأَلْسِنَتِكُمْ، ثُمَّ بِقُلُوبِكُمْ؛ فَمَنْ
+> لَمْ يَعْرِفْ بِقَلْبِهِ مَعْرُوفاً، وَلَمْ يُنْكِرْ مُنْكَراً، قُلِبَ
+> فَجُعِلَ أَعْلاَهُ أَسْفَلَهُ، وَأَسَفَلُهُ أَعْلاَهُ.
 
 Hadith n. 376
 -------------
@@ -7240,11 +5552,7 @@ Hadith n. 376
 weighty and wholesome while wrong is light and unwholesome.
 
 > 376. وقال عليه السلام : إِنَّ الْحَقَّ ثَقِيلٌ مَرِيءٌ وَإِنَّ
-<blockquote dir="rtl">
-  <p>
-الْبَاطِلَ خَفِيفٌ وَبِيءٌ.
-  </p>
-</blockquote>
+> الْبَاطِلَ خَفِيفٌ وَبِيءٌ.
 
 Hadith n. 377
 -------------
@@ -7258,14 +5566,10 @@ Allah-, the Sublime says: *Verily, despairs not of Allah's mercy but the
 disbelieving people.* (Qur'an, 12:87).
 
 > 377. وقال عليه السلام : لاَ تَأْمَنَنَّ عَلَى خَيْرِ هذِهِ الاْمَّةِ
-<blockquote dir="rtl">
-  <p>
-عَذَابَ اللهِ، لِقَوْلِهِ تَعَالى: (فَلا يَأْمَنُ مَكْرَ اَللَّهِ
-إِلاَّ اَلْقَوْمُ اَلْخاسِرُونَ) وَ لاَ تَيْأَسَنَّ لِشَرِّ هَذِهِ
-اَلْأُمَّةِ مِنْ رَوْحِ اَللَّهِ لِقَوْلِهِ تَعَالَى (إِنَّهُ لا
-يَيْأَسُ مِنْ رَوْحِ اَللَّهِ إِلاَّ اَلْقَوْمُ اَلْكافِرُونَ).
-  </p>
-</blockquote>
+> عَذَابَ اللهِ، لِقَوْلِهِ تَعَالى: (فَلا يَأْمَنُ مَكْرَ اَللَّهِ
+> إِلاَّ اَلْقَوْمُ اَلْخاسِرُونَ) وَ لاَ تَيْأَسَنَّ لِشَرِّ هَذِهِ
+> اَلْأُمَّةِ مِنْ رَوْحِ اَللَّهِ لِقَوْلِهِ تَعَالَى (إِنَّهُ لا
+> يَيْأَسُ مِنْ رَوْحِ اَللَّهِ إِلاَّ اَلْقَوْمُ اَلْكافِرُونَ).
 
 Hadith n. 378
 -------------
@@ -7275,11 +5579,7 @@ all other evil vices and is the rein with which one can be led to every
 evil.
 
 > 378. وقال عليه السلام : الْبُخْلُ جَامعٌ لِمَسَاوِىءِ الْعُيُوبِ،
-<blockquote dir="rtl">
-  <p>
-وَهُوَ زِمَامٌ يُقَادُ بهِ إِلَى كُلِّ سُوءٍ.
-  </p>
-</blockquote>
+> وَهُوَ زِمَامٌ يُقَادُ بهِ إِلَى كُلِّ سُوءٍ.
 
 Hadith n. 379
 -------------
@@ -7297,29 +5597,21 @@ overpower you in the matter of livelihood. Similarly, whatever has been
 destined as your share will not be delayed for you.
 
 > 379. وقال عليه السلام : الرِّزْقُ رِزْقَانِ: رِزْقٌ تَطْلُبُهُ،
-<blockquote dir="rtl">
-  <p>
-وَرِزْقٌ يَطْلُبُكَ، فَإِنْ لَمْ تَأْتِهِ أَتَاكَ، فَلاَ تَحْمِلْ
-هَمَّ سَنَتِكَ عَلَى هَمِّ يَوْمِكَ! كَفَاكَ كُلُّ يَوْمٍ مَا فيِهِ،
-فَإِنْ تَكُنِ السَّنَةُ مِنْ عُمُرِكَ فَإنَّ اللهَ تَعَالَى
-سَيُؤْتِيكَ فِي كُلِّ غَدِ جَدِيدٍ مَاقَسَمَ لَكَ، وَإِنْ لَمْ تَكُنِ
-السَّنَةُ مِنْ عُمُرِكَ فَمَا تَصْنَعُ بِالْهَمِّ لِمَا لَيْسَ لَكَ،
-وَلَنْ يَسْبِقَكَ إِلَى رِزْقِكَ طَالِبٌ، وَلَنْ يَغْلِبَكَ عَلَيْهِ
-غَالِبٌ، وَلَنْ يُبْطِىءَ عَنْكَ مَا قَدْ قُدِّرَ لَكَ.
-  </p>
-</blockquote>
+> وَرِزْقٌ يَطْلُبُكَ، فَإِنْ لَمْ تَأْتِهِ أَتَاكَ، فَلاَ تَحْمِلْ
+> هَمَّ سَنَتِكَ عَلَى هَمِّ يَوْمِكَ! كَفَاكَ كُلُّ يَوْمٍ مَا فيِهِ،
+> فَإِنْ تَكُنِ السَّنَةُ مِنْ عُمُرِكَ فَإنَّ اللهَ تَعَالَى
+> سَيُؤْتِيكَ فِي كُلِّ غَدِ جَدِيدٍ مَاقَسَمَ لَكَ، وَإِنْ لَمْ تَكُنِ
+> السَّنَةُ مِنْ عُمُرِكَ فَمَا تَصْنَعُ بِالْهَمِّ لِمَا لَيْسَ لَكَ،
+> وَلَنْ يَسْبِقَكَ إِلَى رِزْقِكَ طَالِبٌ، وَلَنْ يَغْلِبَكَ عَلَيْهِ
+> غَالِبٌ، وَلَنْ يُبْطِىءَ عَنْكَ مَا قَدْ قُدِّرَ لَكَ.
 
 **as-Sayyid ar-Radi says:** This saying has already appeared elsewhere
 in this chapter except that here it is clearer and more detailed. This
 is why we have repeated it according to the principle laid down in the
 beginning of the book.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: وقد مضى هذا الكلام فيما تقدم من هذا الباب، إلاّ أنه ها هنا
-أوضح وأشرح، فلذلك كررناه على القاعدة المقررة في أول هذا الكتاب.
-  </p>
-</blockquote>
+> قال الرضي: وقد مضى هذا الكلام فيما تقدم من هذا الباب، إلاّ أنه ها هنا
+> أوضح وأشرح، فلذلك كررناه على القاعدة المقررة في أول هذا الكتاب.
 
 Hadith n. 380
 -------------
@@ -7330,12 +5622,8 @@ position in the earlier part of the night but is wept over by bewailing
 women in its later part.
 
 > 380. وقال عليه السلام : رُبَّ مُسْتَقْبِلٍ يَوْماً لَيْسَ
-<blockquote dir="rtl">
-  <p>
-بِمُسْتَدْبِرِهِ وَمَغْبُوطٍ فِي أَوَّلِ لَيْلِهِ قَامَتْ بَوَاكِيهِ
-فِي آخِرِهِ.
-  </p>
-</blockquote>
+> بِمُسْتَدْبِرِهِ وَمَغْبُوطٍ فِي أَوَّلِ لَيْلِهِ قَامَتْ بَوَاكِيهِ
+> فِي آخِرِهِ.
 
 Hadith n. 381
 -------------
@@ -7347,13 +5635,9 @@ guard your gold and silver, for often one expression snatches away a
 blessing and invites punishment.
 
 > 381. وقال عليه السلام : الْكَلاَمُ فِي وَثَاقِكَ مَا لَمْ تَتَكَلَّمْ
-<blockquote dir="rtl">
-  <p>
-بِهِ، فَإذَا تَكَلَّمْتَ بِهِ صِرْتَ فِي وَثَاقِهِ، فَاخْزُنْلِسَانَكَ
-كَمَا تَخْزُنُ ذَهَبَكَ وَوَرِقَكَ فَرُبَّ كَلِمَةٍ سَلَبَتْ نِعْمَةً
-وَجَلَبَتْ نِقْمَةً.
-  </p>
-</blockquote>
+> بِهِ، فَإذَا تَكَلَّمْتَ بِهِ صِرْتَ فِي وَثَاقِهِ، فَاخْزُنْلِسَانَكَ
+> كَمَا تَخْزُنُ ذَهَبَكَ وَوَرِقَكَ فَرُبَّ كَلِمَةٍ سَلَبَتْ نِعْمَةً
+> وَجَلَبَتْ نِقْمَةً.
 
 Hadith n. 382
 -------------
@@ -7364,12 +5648,8 @@ down some obligations for all your limbs by means of which He will put
 forth arguments against you on the Day of Judgment.
 
 > 382. وقال عليه السلام : لاَ تَقُلْ مَا لاَ تَعْلَمُ، بَلْ لاَ تَقُلْ
-<blockquote dir="rtl">
-  <p>
-كُلَّ مَا تَعْلَمُ، فَإِنَّ اللهَ سبحانه قد فَرَضَ عَلَى جَوَارِحِكَ
-كُلِّهَا فَرَائِضَ يَحْتَجُّ بِهَا عَلَيْكَ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> كُلَّ مَا تَعْلَمُ، فَإِنَّ اللهَ سبحانه قد فَرَضَ عَلَى جَوَارِحِكَ
+> كُلِّهَا فَرَائِضَ يَحْتَجُّ بِهَا عَلَيْكَ يَوْمَ الْقِيَامَةِ.
 
 Hadith n. 383
 -------------
@@ -7381,13 +5661,9 @@ strong be strong in obeying Allah and when you are weak be weak in
 committing sins of Allah.
 
 > 383. وقال عليه السلام : احْذَرْ أَنْ يَرَاكَ اللهُ عِنْدَ
-<blockquote dir="rtl">
-  <p>
-مَعْصِيَتِهِ، وَيَفْقِدَكَ عِنْدَ طَاعَتِهِ، فَتَكُونَ مِنَ
-الْخَاسِرِينَ، وَإِذَا قَوِيتَ فَاقْوَ عَلَى طَاعَةِ اللهِ، وَإِذَا
-ضَعُفْتَ فاضْعُفْ عَنْ مَعْصِيَةِ اللهِ.
-  </p>
-</blockquote>
+> مَعْصِيَتِهِ، وَيَفْقِدَكَ عِنْدَ طَاعَتِهِ، فَتَكُونَ مِنَ
+> الْخَاسِرِينَ، وَإِذَا قَوِيتَ فَاقْوَ عَلَى طَاعَةِ اللهِ، وَإِذَا
+> ضَعُفْتَ فاضْعُفْ عَنْ مَعْصِيَةِ اللهِ.
 
 Hadith n. 384
 -------------
@@ -7398,13 +5674,9 @@ deeds when you are convinced of good reward for them is obvious loss,
 while trusting in every one before trying is weakness.
 
 > 384. وقال عليه السلام : الرُّكُونُ إِلَى الدُّنْيَا مَعَ مَا تُعَايِنُ
-<blockquote dir="rtl">
-  <p>
-مِنْهَا جَهْلٌ، وَالتَّقْصِيرُ فِي حُسْنِ الْعَمَلِ إذَا وَثِقْتَ
-بِالثَّوَابِ عَلَيْهِ غَبْنٌ وَالطُّمَأْنِينَةُ إِلَى كُلِّ أَحَدٍ
-قَبْلَ الاْخْتِبَار عَجْزٌ.
-  </p>
-</blockquote>
+> مِنْهَا جَهْلٌ، وَالتَّقْصِيرُ فِي حُسْنِ الْعَمَلِ إذَا وَثِقْتَ
+> بِالثَّوَابِ عَلَيْهِ غَبْنٌ وَالطُّمَأْنِينَةُ إِلَى كُلِّ أَحَدٍ
+> قَبْلَ الاْخْتِبَار عَجْزٌ.
 
 Hadith n. 385
 -------------
@@ -7414,12 +5686,8 @@ the) baseness of the world before Allah that He is disobeyed only herein
 and His favours cannot be achieved except by abandoning it.
 
 > 385. وقال عليه السلام : مِنْ هَوَانِ الدُّنْيَا عَلَى اللهِ أَنَّهُ
-<blockquote dir="rtl">
-  <p>
-لاَ يُعْصَى إِلاَّ فِيهَا، وَلاَ يُنَالُ مَا عِنْدَهُ إِلاَّ
-بِتَرْكِهَا.
-  </p>
-</blockquote>
+> لاَ يُعْصَى إِلاَّ فِيهَا، وَلاَ يُنَالُ مَا عِنْدَهُ إِلاَّ
+> بِتَرْكِهَا.
 
 Hadith n. 386
 -------------
@@ -7438,12 +5706,8 @@ which there is Paradise. Every bliss other than Paradise is inferior and
 every calamity other than the Fire is comfort.
 
 > 387. وقال عليه السلام : مَا خَيْرٌ بِخَيْرٍ بَعْدَهُ النَّارُ، وَمَا
-<blockquote dir="rtl">
-  <p>
-شَرٌّ بِشَرٍّ بَعْدَهُ الْجَنَّةُ، وَكُلُّ نَعِيمٍ دوُنَ الْجَنَّةِ
-مَحْقُورٌكُلُّ بَلاَءٍ دُونَ النَّارِ عَافِيَةٌ.
-  </p>
-</blockquote>
+> شَرٌّ بِشَرٍّ بَعْدَهُ الْجَنَّةُ، وَكُلُّ نَعِيمٍ دوُنَ الْجَنَّةِ
+> مَحْقُورٌكُلُّ بَلاَءٍ دُونَ النَّارِ عَافِيَةٌ.
 
 Hadith n. 388
 -------------
@@ -7456,14 +5720,10 @@ wealth is the health of the body, while still better than the health of
 the body is the chastity of heart.
 
 > 388. وقال عليه السلام : أَلاَ وإِنَّ مِنَ الْبَلاَءِ الْفَاقَةَ
-<blockquote dir="rtl">
-  <p>
-وَأَشَدُّ مِنَ الْفَاقَةِ مَرَضُ الْبَدَنِ، وَأشدُّ مِنْ مَرَضِ
-الْبَدَنِ مَرَضُ الْقَلْبِ. أَلاَ وإِنَّ مِنَ النِّعَم سَعَةَ
-الْمَالِ، وَأَفْضَلُ مِن سَعَةِ الْمَالِ صِحّةُ الْبَدَنِ، وَأَفْضَلُ
-مِنْ صِحَّةِ الْبَدَنِ تَقْوَى الْقَلْبِ.
-  </p>
-</blockquote>
+> وَأَشَدُّ مِنَ الْفَاقَةِ مَرَضُ الْبَدَنِ، وَأشدُّ مِنْ مَرَضِ
+> الْبَدَنِ مَرَضُ الْقَلْبِ. أَلاَ وإِنَّ مِنَ النِّعَم سَعَةَ
+> الْمَالِ، وَأَفْضَلُ مِن سَعَةِ الْمَالِ صِحّةُ الْبَدَنِ، وَأَفْضَلُ
+> مِنْ صِحَّةِ الْبَدَنِ تَقْوَى الْقَلْبِ.
 
 Hadith n. 389
 -------------
@@ -7474,12 +5734,8 @@ version it is thus:** Whoever misses personal attainment cannot be
 benefited by his forefathers' attainments.
 
 > 389. وقال عليه السلام : مَنْ أَبْطَأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ
-<blockquote dir="rtl">
-  <p>
-نَسَبُهُ. وفي رواية أُخْرى: مَنْ فَاتَهُ حَسَبُ نَفْسِهِ لَمْ
-يَنْفَعْهُ حَسَبُ آبَائِهِ.
-  </p>
-</blockquote>
+> نَسَبُهُ. وفي رواية أُخْرى: مَنْ فَاتَهُ حَسَبُ نَفْسِهِ لَمْ
+> يَنْفَعْهُ حَسَبُ آبَائِهِ.
 
 Hadith n. 390
 -------------
@@ -7493,15 +5749,11 @@ purposes of earning, or going for something for the next life or for
 enjoying what is not prohibited.
 
 > 390. وقال عليه السلام : لِلْمُؤْمِنِ ثَلاَثُ سَاعَات: فَسَاعَةٌ
-<blockquote dir="rtl">
-  <p>
-يُنَاجِي فِيهَا رَبَّهُ، وَسَاعَةٌ يَرُمُّ مَعَاشَهُ، وَسَاعَةٌ
-يُخَلِّي بَيْنَ نَفْسِهِ وَبَيْنَ لَذَّتِهَا فِيَما يَحِلُّ
-وَيَجْمُلُ. وَلَيْسَ لِلْعَاقِلِ أَنْ يَكُونَ شَاخِصاً إِلاَّ فِي
-ثَلاَثٍ: مَرَمَّةٍ لِمَعَاشٍ، أَوْ خُطْوَةٍ فِي مَعَادٍ، أَوْ لَذَّةٍ
-فِي غَيْرِ مُحَرَّمٍ.
-  </p>
-</blockquote>
+> يُنَاجِي فِيهَا رَبَّهُ، وَسَاعَةٌ يَرُمُّ مَعَاشَهُ، وَسَاعَةٌ
+> يُخَلِّي بَيْنَ نَفْسِهِ وَبَيْنَ لَذَّتِهَا فِيَما يَحِلُّ
+> وَيَجْمُلُ. وَلَيْسَ لِلْعَاقِلِ أَنْ يَكُونَ شَاخِصاً إِلاَّ فِي
+> ثَلاَثٍ: مَرَمَّةٍ لِمَعَاشٍ، أَوْ خُطْوَةٍ فِي مَعَادٍ، أَوْ لَذَّةٍ
+> فِي غَيْرِ مُحَرَّمٍ.
 
 Hadith n. 391
 -------------
@@ -7511,11 +5763,7 @@ world so that Allah may show you its real evils and do not be neglectful
 because (in any case) you will not be neglected.
 
 > 391. وقال عليه السلام : ازْهَدْ فِي الدُّنْيَا يُبَصّرْكَ اللهُ
-<blockquote dir="rtl">
-  <p>
-عَوْرَاتِهَا، وَلاَ تَغْفُلْ فَلَسْتَ بِمَغْفُولٍ عَنْكَ.
-  </p>
-</blockquote>
+> عَوْرَاتِهَا، وَلاَ تَغْفُلْ فَلَسْتَ بِمَغْفُولٍ عَنْكَ.
 
 Hadith n. 392
 -------------
@@ -7524,11 +5772,7 @@ Hadith n. 392
 may be known, since man is hidden under his tongue.
 
 > 392. وقال عليه السلام : تَكَلَّمُوا تُعْرَفُوا، فَإِنَّ الْمَرْءَ
-<blockquote dir="rtl">
-  <p>
-مَخْبُوءٌ تَحْتَ لِسَانِهِ.
-  </p>
-</blockquote>
+> مَخْبُوءٌ تَحْتَ لِسَانِهِ.
 
 Hadith n. 393
 -------------
@@ -7538,12 +5782,8 @@ of the world whatever comes to you and keep away from what keeps away
 from you. If you cannot do so be moderate in your seeking.
 
 > 393. وقال عليه السلام : خُذْ مِنَ الدُّنيْا مَا أَتَاكَ، وَتَوَلَّ
-<blockquote dir="rtl">
-  <p>
-عَمَّا تَوَلَّى عَنْكَ، فَإِنْ أَنْتَ لَمْ تَفْعَلْ فَأَجْمِلْ فِي
-الطَّلَبِ.
-  </p>
-</blockquote>
+> عَمَّا تَوَلَّى عَنْكَ، فَإِنْ أَنْتَ لَمْ تَفْعَلْ فَأَجْمِلْ فِي
+> الطَّلَبِ.
 
 Hadith n. 394
 -------------
@@ -7571,13 +5811,9 @@ days one for you and the other against you. When the day is for you, do
 not feel proud but when it is against you endure it.
 
 > 396. وقال عليه السلام : الْمَنِيَّةُ وَلاَ الدَّنِيَّةُ وَالتّقَلُّلُ
-<blockquote dir="rtl">
-  <p>
-وَلاَ التَّوَسُّلُ وَمَنْ لَمْ يُعْطَ قَاعِداً لَمْ يُعْطَ قَائِماً
-وَالدَّهْرُ يَوْمَانِ: يَوْمٌ لَكَ، وَيَوْمٌ عَلَيْكَ؛ فَإذَا كَانَ
-لَكَ فَلاَ تَبْطَرْ، وَإِذَا كَانَ عَلَيْكَ فَاصْبِرْ!
-  </p>
-</blockquote>
+> وَلاَ التَّوَسُّلُ وَمَنْ لَمْ يُعْطَ قَاعِداً لَمْ يُعْطَ قَائِماً
+> وَالدَّهْرُ يَوْمَانِ: يَوْمٌ لَكَ، وَيَوْمٌ عَلَيْكَ؛ فَإذَا كَانَ
+> لَكَ فَلاَ تَبْطَرْ، وَإِذَا كَانَ عَلَيْكَ فَاصْبِرْ!
 
 Hadith n. 397
 -------------
@@ -7586,11 +5822,7 @@ Hadith n. 397
 musk; its weight is light while its odour is fragrant.
 
 > 397. وقال عليه السلام : نِعْمَ الطِّيبُ الْمِسْكُ، خَفِيفٌ مَحْمِلُهُ،
-<blockquote dir="rtl">
-  <p>
-عَطِرٌ رِيحُهُ.
-  </p>
-</blockquote>
+> عَطِرٌ رِيحُهُ.
 
 Hadith n. 398
 -------------
@@ -7599,11 +5831,7 @@ Hadith n. 398
 give up self-conceit and remember your grave.
 
 > 398. وقال عليه السلام : ضَعْ فَخْرَكَ، وَاحْطُطْ كِبْرَكَ، وَاذْكُرْ
-<blockquote dir="rtl">
-  <p>
-قَبْرَكَ.
-  </p>
-</blockquote>
+> قَبْرَكَ.
 
 Hadith n. 399
 -------------
@@ -7616,14 +5844,10 @@ while the right of the child on the father is that he should give him a
 beautiful name, give him good training and teach him the Qur'an.
 
 > 399. وقال عليه السلام : إِنَّ لِلْوَلَدِ عَلَى الْوَالِدِ حَقّاً،
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ لِلْوَالِدِ عَلَى الْوَلَدِ حَقّاً: فَحَقُّ الْوَالِدِ عَلَى
-الْوَلَدِ أَنْ يُطِيعَهُ فِي كُلِّ شَيْءٍ إِلاَّ فِي مَعْصِيَةِ اللهِ
-سُبْحَانَهُ، وَحَقُّ الْوَلَدِ عَلَى الْوَالِدِ أَنْ يُحَسِّنَ اسْمَهُ
-وَيُحَسِّنَ أَدَبَهُ وَيُعَلِّمَهُ الْقُرْآنَ.
-  </p>
-</blockquote>
+> وَإِنَّ لِلْوَالِدِ عَلَى الْوَلَدِ حَقّاً: فَحَقُّ الْوَالِدِ عَلَى
+> الْوَلَدِ أَنْ يُطِيعَهُ فِي كُلِّ شَيْءٍ إِلاَّ فِي مَعْصِيَةِ اللهِ
+> سُبْحَانَهُ، وَحَقُّ الْوَلَدِ عَلَى الْوَالِدِ أَنْ يُحَسِّنَ اسْمَهُ
+> وَيُحَسِّنَ أَدَبَهُ وَيُعَلِّمَهُ الْقُرْآنَ.
 
 Hadith n. 400
 -------------
@@ -7636,13 +5860,9 @@ honey gives pleasure, riding gives pleasure and looking at greenery
 gives pleasure.
 
 > 400. وقال عليه السلام : الْعَيْنُ حَقٌّ، وَالرُّقَى حَقٌّ، وَالسِّحْرُ
-<blockquote dir="rtl">
-  <p>
-حَقٌّ، وَالْفَأْلُ حَقٌّ، وَالطِيَرَةُ لَيْسَتْ بِحَقٍّ، وَالْعَدْوَى
-لَيْسَتْ بِحَقٍّ، والطِّيبُ نُشْرَةٌ وَالْعَسَلُ نُشْرَةٌ،
-وَالرُّكُوبُ نُشْرَةٌ، وَالنَّظَرُ إِلَى الْخُضْرَةِ نُشْرَةٌ.
-  </p>
-</blockquote>
+> حَقٌّ، وَالْفَأْلُ حَقٌّ، وَالطِيَرَةُ لَيْسَتْ بِحَقٍّ، وَالْعَدْوَى
+> لَيْسَتْ بِحَقٍّ، والطِّيبُ نُشْرَةٌ وَالْعَسَلُ نُشْرَةٌ،
+> وَالرُّكُوبُ نُشْرَةٌ، وَالنَّظَرُ إِلَى الْخُضْرَةِ نُشْرَةٌ.
 
 Hadith n. 401
 -------------
@@ -7651,11 +5871,7 @@ Hadith n. 401
 people in their manners brings about safety from their evil.
 
 > 401. وقال عليه السلام : مُقَارَبَةُ النَّاسِ فِي أَخْلاَقِهِمْ أَمْنٌ
-<blockquote dir="rtl">
-  <p>
-مِنْ غَوَائِلِهِمْ.
-  </p>
-</blockquote>
+> مِنْ غَوَائِلِهِمْ.
 
 Hadith n. 402
 -------------
@@ -7666,23 +5882,15 @@ soon after growing feathers (*shakir*) and commenced grumbling before
 attaining youth (*saqb*).
 
 > 402. وقال عليه السلام لبعض مخاطبيه، وقد تكلم بكلمة يُسْتَصْغَرُ مثلُه
-<blockquote dir="rtl">
-  <p>
-عن قول مثلها: لَقَدْ طِرْتَ شَكيِراً،و هَدَرْتَ سَقْباً.
-  </p>
-</blockquote>
+> عن قول مثلها: لَقَدْ طِرْتَ شَكيِراً،و هَدَرْتَ سَقْباً.
 
 **Sayyid ar-Razi says:** Here, “*shakir*” [in the original Arabic text]
 means the first feathers that grow on a bird before it is strong enough
 to fly. And “*saqb*” means the young camel who does not grumble unless
 it becomes mature.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: والشكير هاهنا: أول ما ينبت من ريش الطائر قبل أن يقوى
-ويستحصف، والسقب: الصغير من الاِبل ولا يهدر إلا بعد أن يستفحل.
-  </p>
-</blockquote>
+> قال الرضي: والشكير هاهنا: أول ما ينبت من ريش الطائر قبل أن يقوى
+> ويستحصف، والسقب: الصغير من الاِبل ولا يهدر إلا بعد أن يستفحل.
 
 Hadith n. 403
 -------------
@@ -7691,11 +5899,7 @@ Hadith n. 403
 after contraries gets no means of success.
 
 > 403. وقال عليه السلام : مَنْ أَوْمَأَ إِلَى مُتَفَاوِتٍ خَذَلَتْهُ
-<blockquote dir="rtl">
-  <p>
-الْحِيَلُ.
-  </p>
-</blockquote>
+> الْحِيَلُ.
 
 Hadith n. 404
 -------------
@@ -7710,14 +5914,10 @@ duties to us; and when He takes it away He will take away those duties
 as well. [^90]
 
 > 404. وقال عليه السلام وَقَدْ سُئِلَ عن معنى قولهم: لاَ حَوْلَ وَلاَ
-<blockquote dir="rtl">
-  <p>
-قُوَّةَ إِلاَّ باللهِ: إِنَّا لاَ نَمَلِكُ مَعَ اللهِ شَيْئاً، وَلاَ
-نَمْلِكُ إِلاَّ مَا مَلَّكَنَا، فَمَتَى مَلَّكَنَا مَا هُوَ أَمْلَكُ
-بِهِ مِنَّاكَلَّفَنَا، وَمَتى أَخَذَهُ مِنَّا وَضَعَ تَكْلِيفَهُ
-عَنَّا.
-  </p>
-</blockquote>
+> قُوَّةَ إِلاَّ باللهِ: إِنَّا لاَ نَمَلِكُ مَعَ اللهِ شَيْئاً، وَلاَ
+> نَمْلِكُ إِلاَّ مَا مَلَّكَنَا، فَمَتَى مَلَّكَنَا مَا هُوَ أَمْلَكُ
+> بِهِ مِنَّاكَلَّفَنَا، وَمَتى أَخَذَهُ مِنَّا وَضَعَ تَكْلِيفَهُ
+> عَنَّا.
 
 Hadith n. 405
 -------------
@@ -7730,13 +5930,9 @@ involved himself in misgivings in order to adopt them as cover for his
 shortcomings.
 
 > 405. وقال عليه السلام لعمار بن ياسر رحمه الله، وقد سمعه يراجع المغيرة
-<blockquote dir="rtl">
-  <p>
-بن شعبة كلاماً: دَعْهُ يَا عَمَّارُ، فَإِنَّهُ لَمْ يَأْخُذْ مِنَ
-الدِّينِ إِلاَّ مَا قَارَبَتْهُ الدُّنْيَا، وَعَلَى عَمدٍ لَبَّسَ
-عَلَى نَفْسِهِ لِيَجْعَلَ الشُّبُهَاتِ عَاذِراً لِسَقَطَاتِهِ
-  </p>
-</blockquote>
+> بن شعبة كلاماً: دَعْهُ يَا عَمَّارُ، فَإِنَّهُ لَمْ يَأْخُذْ مِنَ
+> الدِّينِ إِلاَّ مَا قَارَبَتْهُ الدُّنْيَا، وَعَلَى عَمدٍ لَبَّسَ
+> عَلَى نَفْسِهِ لِيَجْعَلَ الشُّبُهَاتِ عَاذِراً لِسَقَطَاتِهِ
 
 Hadith n. 406
 -------------
@@ -7747,12 +5943,8 @@ but better than that is the haughtiness of the poor towards the rich
 with trust in Allah.
 
 > 406. وقال عليه السلام : مَا أَحْسَنَ تَوَاضُعَ الاْغْنِيَاءِ
-<blockquote dir="rtl">
-  <p>
-لِلْفُقَرَاءِ طَلَباً لِمَا عِنْدَ اللهِ! وأَحْسَنُ مِنْهُ تِيهُ
-الْفُقَرَاءِ عَلَى الاْغْنِيَاءِ اتِّكَالاً عَلَى الله.
-  </p>
-</blockquote>
+> لِلْفُقَرَاءِ طَلَباً لِمَا عِنْدَ اللهِ! وأَحْسَنُ مِنْهُ تِيهُ
+> الْفُقَرَاءِ عَلَى الاْغْنِيَاءِ اتِّكَالاً عَلَى الله.
 
 Hadith n. 407
 -------------
@@ -7762,11 +5954,7 @@ grant wisdom to a person except that some day He will save him from ruin
 with its help.
 
 > 407. وقال عليه السلام : مَا اسْتَوْدَعَ اللهُ امْرَأً عَقْلاً إِلاَّ
-<blockquote dir="rtl">
-  <p>
-اسْتَنْقَذَهُ بِهِ يَوْماً مَا.
-  </p>
-</blockquote>
+> اسْتَنْقَذَهُ بِهِ يَوْماً مَا.
 
 Hadith n. 408
 -------------
@@ -7801,11 +5989,7 @@ nor the eloquence of your speaking against Him Who set you on the right
 path.
 
 > 411. وقال عليه السلام : لاَ تَجْعَلَنَّ ذَرَبَلِسَانِكَ عَلَى مَنْ
-<blockquote dir="rtl">
-  <p>
-أَنْطَقَكَ، وَبَلاَغَةَ قَوْلِكَ عَلَى مَنْ سَدَّدَكَ.
-  </p>
-</blockquote>
+> أَنْطَقَكَ، وَبَلاَغَةَ قَوْلِكَ عَلَى مَنْ سَدَّدَكَ.
 
 Hadith n. 412
 -------------
@@ -7814,11 +5998,7 @@ Hadith n. 412
 your own discipline that you abstain from what you dislike from others.
 
 > 412. وقال عليه السلام : كَفَاكَ أَدَباً لِنَفْسِكَ اجْتِنَابُ مَا
-<blockquote dir="rtl">
-  <p>
-تَكْرَهُهُ مِنْ غَيْرِكَ.
-  </p>
-</blockquote>
+> تَكْرَهُهُ مِنْ غَيْرِكَ.
 
 Hadith n. 413
 -------------
@@ -7828,11 +6008,7 @@ endure like free people, otherwise one should keep quiet like the
 ignorant.
 
 > 413. وقال عليه السلام : مَنْ صَبَرَ صَبْرَ الاْحْرَارِ، وَإِلاَّ سَلاَ
-<blockquote dir="rtl">
-  <p>
-سُلُوَّ الاْغْمَارِ.
-  </p>
-</blockquote>
+> سُلُوَّ الاْغْمَارِ.
 
 Hadith n. 414
 -------------
@@ -7843,11 +6019,7 @@ way of condolence on the death of his son: Either endure like great
 people or else you will forget like animals.
 
 > 414. وفي خبرٍ آخر أنّه عليه السلام قال للاَشعث بن قيس معزياً: إِنْ
-<blockquote dir="rtl">
-  <p>
-صَبَرْتَ صَبْرَ الاْكَارِمِ، وَإِلاَّ سَلَوْتَ سُلُوَّ الْبَهَائِمِ.
-  </p>
-</blockquote>
+> صَبَرْتَ صَبْرَ الاْكَارِمِ، وَإِلاَّ سَلَوْتَ سُلُوَّ الْبَهَائِمِ.
 
 Hadith n. 415
 -------------
@@ -7860,13 +6032,9 @@ soon as they alighted the driver called out to them and they marched
 off.
 
 > 415. وقال عليه السلام في صفة الدنيا: تَغُرُّ وَتَضُرُّ وَتَمُرُّ،
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ تَعَالَى لَمْ يَرْضَهَا ثَوَاباً لاِوْلِيَائِهِ، وَلاَ
-عِقَاباً لاِعْدَائِهِ، وَإِنَّ أَهْلَ الدُّنْيَا كَرَكْبٍ بَيْنَا هُمْ
-حَلُّوا إِذْ صَاحَ بِهِمْ سَائِقُهُمْ فَارْتَحَلُوا.
-  </p>
-</blockquote>
+> إِنَّ اللهَ تَعَالَى لَمْ يَرْضَهَا ثَوَاباً لاِوْلِيَائِهِ، وَلاَ
+> عِقَاباً لاِعْدَائِهِ، وَإِنَّ أَهْلَ الدُّنْيَا كَرَكْبٍ بَيْنَا هُمْ
+> حَلُّوا إِذْ صَاحَ بِهِمْ سَائِقُهُمْ فَارْتَحَلُوا.
 
 Hadith n. 416
 -------------
@@ -7882,15 +6050,11 @@ assisting him in his sinfulness; and neither of these two deserves to be
 preferred by you over yourself.
 
 > 416. وقال لابنه الحسن: يا بُنَيَّ لاَ تُخَلِّفَنَّ وَرَاءَكَ شَيْئاً
-<blockquote dir="rtl">
-  <p>
-مِنَ الدُّنْيَا، فَإِنَّكَ تُخَلِّفُهُ لاِحَدِ رَجُلَيْنِ: إِمَّا
-رَجُلٍ عَمِلَ فِيهِ بِطَاعَةِ اللهِ فَسَعِدَ بِمَا شَقِيتَ بِهِ،
-وَإِمَّا رَجُلٍ عَمِلَ فِيهِ بِمَعْصِيَةِ اللهِ فَشَقِيَ بِمَا
-جَمَعْتَ لَهُ فَكُنْتَ عَوْناً لَهُ عَلى مَعْصِيَتِهِ، وَلَيْسَ أَحَدُ
-هذَيْنِ حَقِيقاً أَنْ تُؤْثِرَهُ عَلَىُ نَفْسِكَ.
-  </p>
-</blockquote>
+> مِنَ الدُّنْيَا، فَإِنَّكَ تُخَلِّفُهُ لاِحَدِ رَجُلَيْنِ: إِمَّا
+> رَجُلٍ عَمِلَ فِيهِ بِطَاعَةِ اللهِ فَسَعِدَ بِمَا شَقِيتَ بِهِ،
+> وَإِمَّا رَجُلٍ عَمِلَ فِيهِ بِمَعْصِيَةِ اللهِ فَشَقِيَ بِمَا
+> جَمَعْتَ لَهُ فَكُنْتَ عَوْناً لَهُ عَلى مَعْصِيَتِهِ، وَلَيْسَ أَحَدُ
+> هذَيْنِ حَقِيقاً أَنْ تُؤْثِرَهُ عَلَىُ نَفْسِكَ.
 
 **Sayyid ar-Razi says:** This saying is also related in another version
 thus:
@@ -7905,18 +6069,14 @@ prefer him over your own self, or you may burden yourself for his own
 sake. Therefore, hope for the mercy of Allah for him who has passed away
 and for Divine livelihood for him who survives.
 
-<blockquote dir="rtl">
-  <p>
-و يروى هذا الكلام على وجه آخر، وهو: أَمَّا بَعْدُ، فَإِنَّ الَّذِي فِي
-يَدِكَ مِنَ الدُّنْيَا قَدْ كَانَ لَهُ أَهْلٌ قَبْلَكَ، وَهُوَ صَائِرٌ
-إِلَى أَهْلٍ بَعْدَكَ، وَإِنَّمَا أَنْتَ جَامعٌ لاِحَدِ رَجُلَيْنِ:
-رَجُلٍ عَمِلَ فِيَما جَمَعْتَهُ بِطَاعَةِ اللهِ فَسَعِدَ بِمَا شَقِيتَ
-بِهِ، أَوْ رَجُلٍ عَمِلَ فِيهِ بِمَعْصِيَةِ اللهِ فَشَقِيَ بِمَا
-جَمَعْتَ لَهُ، وَلَيْسَ أَحَدُ هذَيْنِ أَهْلاً أَنْ تُؤْثِرَهُ عَلَى
-نَفْسِكَ تَحْمِلَ لَهُ عَلَى ظَهْرِكَ، فارْجُ لِمَنْ مَضَى رَحْمَةَ
-اللهِ، و لِمَنْ بَقِيَ رِزْقَ الله.
-  </p>
-</blockquote>
+> و يروى هذا الكلام على وجه آخر، وهو: أَمَّا بَعْدُ، فَإِنَّ الَّذِي فِي
+> يَدِكَ مِنَ الدُّنْيَا قَدْ كَانَ لَهُ أَهْلٌ قَبْلَكَ، وَهُوَ صَائِرٌ
+> إِلَى أَهْلٍ بَعْدَكَ، وَإِنَّمَا أَنْتَ جَامعٌ لاِحَدِ رَجُلَيْنِ:
+> رَجُلٍ عَمِلَ فِيَما جَمَعْتَهُ بِطَاعَةِ اللهِ فَسَعِدَ بِمَا شَقِيتَ
+> بِهِ، أَوْ رَجُلٍ عَمِلَ فِيهِ بِمَعْصِيَةِ اللهِ فَشَقِيَ بِمَا
+> جَمَعْتَ لَهُ، وَلَيْسَ أَحَدُ هذَيْنِ أَهْلاً أَنْ تُؤْثِرَهُ عَلَى
+> نَفْسِكَ تَحْمِلَ لَهُ عَلَى ظَهْرِكَ، فارْجُ لِمَنْ مَضَى رَحْمَةَ
+> اللهِ، و لِمَنْ بَقِيَ رِزْقَ الله.
 
 Hadith n. 417
 -------------
@@ -7939,22 +6099,18 @@ sweetness of disobedience. On such an occasion you may say
 "*astaghfiru'llah*".
 
 > 417. وقال عليه السلام لقائل قال بحضرته: أَسْتَغْفِرُ اللهَ. ثَكِلَتْكَ
-<blockquote dir="rtl">
-  <p>
-أُمُّكَ، أَتَدْرِي مَا الاْسْتِغْفَارُ؟ إنَّ الاْسْتِغْفَارَ دَرَجَةُ
-الْعِلِّيِّينَ، وَهُوَ اسْمٌ وَاقِعٌ عَلَى سِتَّةِ مَعَانٍ:
-أَوَّلُهَا: النَّدَمُ عَلَى مَا مَضَى. وَالثَّانِي: الْعَزْمُ عَلَى
-تَرْكِ الْعَوْدِ إِلَيْهِ أَبَداً. وَالثَّالِثُ: أَنْ تُؤَدِّيَ إِلَى
-الْـمَخْلُوقِينَ حُقُوقَهُمْ حَتَّى تَلْقَى اللهَ عزّوجلّ أَمْلَسَ
-لَيْسَ عَلَيْكَ تَبِعَةٌ. وَالرَّابِعُ: أَنْ تَعْمِدَ إِلَى كُلِّ
-فَرِيضَةٍ عَلَيْكَ ضَيَّعْتَهَا فَتُؤَدِّيَ حَقَّهَا. وَالْخَامِسُ:
-أَنْ تَعْمِدَ إِلَى اللَّحْمِ الَّذِي نَبَتَ عَلَى السُّحْتِ
-فَتُذِيبَهُ بالاْحْزَانِ، حَتَّى يَلْصِقَ الْجِلْدُ بِالْعَظْمِ،
-وَيَنْشَأَ بَيْنَهُمَا لَحْمٌ جَدِيدٌ. وَالسَّادِسُ: أَنْ تُذِيقَ
-الْجِسْمَ أَلَمَ الطَّاعَةِ كَمَا أَذَقْتَهُ حَلاَوَةَ الْمَعْصِيَةِ.
-فَعِنْدَ ذلِكَ تَقُولُ: أَسْتَغْفِرُاللهَ
-  </p>
-</blockquote>
+> أُمُّكَ، أَتَدْرِي مَا الاْسْتِغْفَارُ؟ إنَّ الاْسْتِغْفَارَ دَرَجَةُ
+> الْعِلِّيِّينَ، وَهُوَ اسْمٌ وَاقِعٌ عَلَى سِتَّةِ مَعَانٍ:
+> أَوَّلُهَا: النَّدَمُ عَلَى مَا مَضَى. وَالثَّانِي: الْعَزْمُ عَلَى
+> تَرْكِ الْعَوْدِ إِلَيْهِ أَبَداً. وَالثَّالِثُ: أَنْ تُؤَدِّيَ إِلَى
+> الْـمَخْلُوقِينَ حُقُوقَهُمْ حَتَّى تَلْقَى اللهَ عزّوجلّ أَمْلَسَ
+> لَيْسَ عَلَيْكَ تَبِعَةٌ. وَالرَّابِعُ: أَنْ تَعْمِدَ إِلَى كُلِّ
+> فَرِيضَةٍ عَلَيْكَ ضَيَّعْتَهَا فَتُؤَدِّيَ حَقَّهَا. وَالْخَامِسُ:
+> أَنْ تَعْمِدَ إِلَى اللَّحْمِ الَّذِي نَبَتَ عَلَى السُّحْتِ
+> فَتُذِيبَهُ بالاْحْزَانِ، حَتَّى يَلْصِقَ الْجِلْدُ بِالْعَظْمِ،
+> وَيَنْشَأَ بَيْنَهُمَا لَحْمٌ جَدِيدٌ. وَالسَّادِسُ: أَنْ تُذِيقَ
+> الْجِسْمَ أَلَمَ الطَّاعَةِ كَمَا أَذَقْتَهُ حَلاَوَةَ الْمَعْصِيَةِ.
+> فَعِنْدَ ذلِكَ تَقُولُ: أَسْتَغْفِرُاللهَ
 
 Hadith n. 418
 -------------
@@ -7973,12 +6129,8 @@ actions are preserved, the bite of a mosquito pains him, choking causes
 his death and sweat gives him a bad smell.
 
 > 419. وقال عليه السلام : مِسْكِينٌ ابْنُ آدَمَ: مَكْتُومُ الاْجَلِ،
-<blockquote dir="rtl">
-  <p>
-مَكْنُونُ الْعِلَلِ، مَحْفُوظُ الْعَمَلِ، تَؤْلِمُهُ الْبَقَّةُ،
-وَتَقْتُلُهُ الشَّرْقَةُ وَتُنْتِنُهُ الْعَرْقَةُ.
-  </p>
-</blockquote>
+> مَكْنُونُ الْعِلَلِ، مَحْفُوظُ الْعَمَلِ، تَؤْلِمُهُ الْبَقَّةُ،
+> وَتَقْتُلُهُ الشَّرْقَةُ وَتُنْتِنُهُ الْعَرْقَةُ.
 
 Hadith n. 420
 -------------
@@ -7992,27 +6144,19 @@ who attracts him, he should meet his wife because she is a woman like
 his wife.
 
 > 420. وروي أنه عليه السلام كان جالساً في أصحابه، فمرّت بهم امرأة جميلة،
-<blockquote dir="rtl">
-  <p>
-فرمقها القوم بأبصارهم. فقال عليه السلام : إِنَّ أَبْصَار هذِهِ
-الْفُحُولِ طَوَامِحُ وَإِنَّ ذلِكَ سَبَبُ هَبَابِهَا فإِذَا نَظَرَ
-أَحَدُكُمْ إِلَى امْرَأَةٍ تُعْجِبُهُ فَلْيُلاَمِسْ أَهْلَهُ،
-فَإِنَّمَا هِيَ امْرَأَهٌ كَامْرَأَةٍ.
-  </p>
-</blockquote>
+> فرمقها القوم بأبصارهم. فقال عليه السلام : إِنَّ أَبْصَار هذِهِ
+> الْفُحُولِ طَوَامِحُ وَإِنَّ ذلِكَ سَبَبُ هَبَابِهَا فإِذَا نَظَرَ
+> أَحَدُكُمْ إِلَى امْرَأَةٍ تُعْجِبُهُ فَلْيُلاَمِسْ أَهْلَهُ،
+> فَإِنَّمَا هِيَ امْرَأَهٌ كَامْرَأَةٍ.
 
 **Then one of the Kharijites said**: “May Allah kill this heretic! How
 logical he is!” **People then leapt towards him to kill him, but Amir
 al-mu’minin, peace be upon him, said:** “Wait a bit. There should either
 be abuse [for an abuse] or else pardoning from the offence.”
 
-<blockquote dir="rtl">
-  <p>
-فقال رجل من الخوارج: قاتله الله كافراً ما أفقهه. فوثب القوم لِيقتلوه.
-فقال عليه السلام : رُوَيْداً إِنَّمَا هُوَ سَبٌّ بِسَبٍّ، أَوْ عَفْوٌ
-عَنْ ذَنْبٍ.
-  </p>
-</blockquote>
+> فقال رجل من الخوارج: قاتله الله كافراً ما أفقهه. فوثب القوم لِيقتلوه.
+> فقال عليه السلام : رُوَيْداً إِنَّمَا هُوَ سَبٌّ بِسَبٍّ، أَوْ عَفْوٌ
+> عَنْ ذَنْبٍ.
 
 Hadith n. 421
 -------------
@@ -8022,11 +6166,7 @@ your wisdom distinguishes for you the path of your going astray from the
 path of your guidance.
 
 > 421. وقال عليه السلام : كَفَاكَ مِنْ عَقْلِكَ مَا أَوْضَحَ لَكَ
-<blockquote dir="rtl">
-  <p>
-سَبِيلَ غَيِّكَ مِنْ رُشْدِكَ.
-  </p>
-</blockquote>
+> سَبِيلَ غَيِّكَ مِنْ رُشْدِكَ.
 
 Hadith n. 422
 -------------
@@ -8039,14 +6179,10 @@ are people of good and evil. When you would leave either of the two,
 others will perform them.
 
 > 422. وقال عليه السلام : افْعَلُوا الْخَيْرَ وَلاَ تَحْقِرُوا مِنْهُ
-<blockquote dir="rtl">
-  <p>
-شَيْئاً، فَإِنَّ صَغِيرَهُ كَبِيرٌ وَقَلِيلَهُ كَثِيرٌ، وَلا
-يَقُولَنَّ أَحَدُكُمْ: إِنَّ أَحَداً أَوْلَى بِفِعْلِ الْخَيْرِ مِنِّي
-فَيَكُونَ وَاللهِ كَذلِكَ، إِنَّ لِلْخَيْرِ وَالشَّرِّ أَهْلاً،
-فَمَهْمَا تَرَكْتُمُوهُ مِنْهُمَا كَفَاكُمُوهُ أَهْلُهُ.
-  </p>
-</blockquote>
+> شَيْئاً، فَإِنَّ صَغِيرَهُ كَبِيرٌ وَقَلِيلَهُ كَثِيرٌ، وَلا
+> يَقُولَنَّ أَحَدُكُمْ: إِنَّ أَحَداً أَوْلَى بِفِعْلِ الْخَيْرِ مِنِّي
+> فَيَكُونَ وَاللهِ كَذلِكَ، إِنَّ لِلْخَيْرِ وَالشَّرِّ أَهْلاً،
+> فَمَهْمَا تَرَكْتُمُوهُ مِنْهُمَا كَفَاكُمُوهُ أَهْلُهُ.
 
 Hadith n. 423
 -------------
@@ -8058,13 +6194,9 @@ world. Whoever's dealings between himself and Allah are good, Allah
 turns the dealings between him and other people good.
 
 > 423. وقال عليه السلام : مَنْ أَصْلَحَ سَرِيرَتَهُ أَصْلَحَ اللهُ
-<blockquote dir="rtl">
-  <p>
-عَلاَنِيَتَهُ، وَمَنْ عَمِلَ لِدِينِهِ كَفَاهُ اللهُ أَمْرَ دُنْيَاهُ،
-وَمَنْ أَحْسَنَ فِيَما بَيْنَهُ وبَيْنَ اللهِ كَفَاهُ اللهُ مَا
-بَيْنَهُ وَبَيْنَ النَّاسِ.
-  </p>
-</blockquote>
+> عَلاَنِيَتَهُ، وَمَنْ عَمِلَ لِدِينِهِ كَفَاهُ اللهُ أَمْرَ دُنْيَاهُ،
+> وَمَنْ أَحْسَنَ فِيَما بَيْنَهُ وبَيْنَ اللهِ كَفَاهُ اللهُ مَا
+> بَيْنَهُ وَبَيْنَ النَّاسِ.
 
 Hadith n. 424
 -------------
@@ -8075,12 +6207,8 @@ the weaknesses in your conduct with forbearance and kill your desires
 with your wisdom.
 
 > 424. وقال عليه السلام : الْحِلْمُ غِطَاءٌ سَاتِرٌ، وَالْعَقْلُ حُسَامٌ
-<blockquote dir="rtl">
-  <p>
-قَاطِعٌ، فَاسْتُرْ خَلَلَ خُلُقِكَ بِحِلْمِكَ، وَقَاتِلْ هَوَاكَ
-بِعَقْلِكَ.
-  </p>
-</blockquote>
+> قَاطِعٌ، فَاسْتُرْ خَلَلَ خُلُقِكَ بِحِلْمِكَ، وَقَاتِلْ هَوَاكَ
+> بِعَقْلِكَ.
 
 Hadith n. 425
 -------------
@@ -8092,13 +6220,9 @@ as they give them to others; but when they deny them to others He takes
 away the favours from them and sends them to others.
 
 > 425. وقال عليه السلام : إِنَّ لِلَّهِ عِبَاداً يَخْتَصُّهُمْ
-<blockquote dir="rtl">
-  <p>
-بِالنِّعَمِ لِمَنَافِعِ الْعِبَادِ، فَيُقِرُّهَا فِي أَيْدِيهِمْ مَا
-بَذَلُوهَا، فَإِذَا مَنَعُوهَا نَزَعَهَا مِنْهُمْ، ثُمَّ حَوَّلَهَا
-إِلَى غَيْرِهِمْ.
-  </p>
-</blockquote>
+> بِالنِّعَمِ لِمَنَافِعِ الْعِبَادِ، فَيُقِرُّهَا فِي أَيْدِيهِمْ مَا
+> بَذَلُوهَا، فَإِذَا مَنَعُوهَا نَزَعَهَا مِنْهُمْ، ثُمَّ حَوَّلَهَا
+> إِلَى غَيْرِهِمْ.
 
 Hadith n. 426
 -------------
@@ -8109,12 +6233,8 @@ there is many a man whom you see healthy but he soon falls sick and many
 a man whom you see rich but soon turns destitute.
 
 > 426. وقال عليه السلام : لاَ يَنْبَغِي لِلْعَبْدِ أَنْ يَثِقَ
-<blockquote dir="rtl">
-  <p>
-بِخَصْلَتَيْنِ: الْعَافِيَةِ، وَالْغِنَى: بَيْنَا تَرَاهُ مُعَافىً
-إِذْ سَقِمَ، وَغَنِيّاً إِذِ افْتَقَرَ.
-  </p>
-</blockquote>
+> بِخَصْلَتَيْنِ: الْعَافِيَةِ، وَالْغِنَى: بَيْنَا تَرَاهُ مُعَافىً
+> إِذْ سَقِمَ، وَغَنِيّاً إِذِ افْتَقَرَ.
 
 Hadith n. 427
 -------------
@@ -8125,12 +6245,8 @@ about it to Allah; but whoever complains about it to an unbeliever it is
 as though he complained about Allah.
 
 > 427. وقال عليه السلام : مَنْ شَكَا الْحَاجَةَ إِلَى مُؤْمِنٍ
-<blockquote dir="rtl">
-  <p>
-فَكَأَنَّمَا شَكَاهَا إِلَى اللهِ، وَمَنْ شَكَاهَا إلَى كَافِرٍ
-فَكَأَنَّمَا شَكَا اللهَ.
-  </p>
-</blockquote>
+> فَكَأَنَّمَا شَكَاهَا إِلَى اللهِ، وَمَنْ شَكَاهَا إلَى كَافِرٍ
+> فَكَأَنَّمَا شَكَا اللهَ.
 
 Hadith n. 428
 -------------
@@ -8141,12 +6257,8 @@ fasting Allah accepts and of whose prayers He is appreciative; and (in
 fact) every day wherein no sin of Allah is committed is an *'Id*. [^91]
 
 > 428. وقال عليه السلام في بعض الاَعيَاد: إِنَّمَا هُوَ عِيدٌ لِمَنْ
-<blockquote dir="rtl">
-  <p>
-قَبلَ اللهُ صِيَامَهُ وَشَكَرَ قِيَامَهُ، وَكُلُّ يَوْمٍ لاَ يُعْصَى
-اللهُ فِيهِ فَهُوَ يَوْمَ عِيدٍ.
-  </p>
-</blockquote>
+> قَبلَ اللهُ صِيَامَهُ وَشَكَرَ قِيَامَهُ، وَكُلُّ يَوْمٍ لاَ يُعْصَى
+> اللهُ فِيهِ فَهُوَ يَوْمَ عِيدٍ.
 
 Hadith n. 429
 -------------
@@ -8158,13 +6270,9 @@ Glorified, and will be awarded Paradise on that account while first one
 will go into Fire on account of it.
 
 > 429. وقال عليه السلام : إِنَّ أَعْظَمَ الْحَسَرَاتِ يَوْمَ
-<blockquote dir="rtl">
-  <p>
-الْقِيَامَةِ حَسْرَةُ رَجُلٍ كَسَبَ مَالاً فِي غَيْرِ طَاعَةِ اللهِ،
-فَوَرَّثَهُ رَجُلاً فَأنْفَقَهُ فِي طَاعَةِ اللهِ سُبْحَانَهُ،
-فَدَخَلَ بِهِ الْجَنَّةَ، وَدَخَلَ الاْوَّلُ بِهِ النَّارَ.
-  </p>
-</blockquote>
+> الْقِيَامَةِ حَسْرَةُ رَجُلٍ كَسَبَ مَالاً فِي غَيْرِ طَاعَةِ اللهِ،
+> فَوَرَّثَهُ رَجُلاً فَأنْفَقَهُ فِي طَاعَةِ اللهِ سُبْحَانَهُ،
+> فَدَخَلَ بِهِ الْجَنَّةَ، وَدَخَلَ الاْوَّلُ بِهِ النَّارَ.
 
 Hadith n. 430
 -------------
@@ -8177,13 +6285,9 @@ state while in the next world too he will face its ill consequences.
 [^92]
 
 > 430. وقال عليه السلام : إِنَّ أَخْسَرَ النَّاسِ صَفْقَةً
-<blockquote dir="rtl">
-  <p>
-وَأَخْيَبَهُمْ سَعْياً، رَجُلٌ أَخْلَقَ بَدَنَهُ فِي طَلَبِ آمَالِهِ،
-وَلَمْ تُسَاعِدْهُ الْمَقَادِيرُ عَلَى إِرَادَتِهِ، فَخَرَجَ مِنَ
-الدُّنْيَا بِحَسْرَتِهِ، وَقَدِمَ عَلَى الاْخِرَةِ بِتَبِعَتِهِ.
-  </p>
-</blockquote>
+> وَأَخْيَبَهُمْ سَعْياً، رَجُلٌ أَخْلَقَ بَدَنَهُ فِي طَلَبِ آمَالِهِ،
+> وَلَمْ تُسَاعِدْهُ الْمَقَادِيرُ عَلَى إِرَادَتِهِ، فَخَرَجَ مِنَ
+> الدُّنْيَا بِحَسْرَتِهِ، وَقَدِمَ عَلَى الاْخِرَةِ بِتَبِعَتِهِ.
 
 Hadith n. 431
 -------------
@@ -8195,13 +6299,9 @@ hankers after the next world, worldly ease itself seeks him till he
 receives his livelihood from it.
 
 > 431. وقال عليه السلام : الرِّزْقُ رِزْقَانِ: طَالِبٌ، وَمَطْلُوبٌ،
-<blockquote dir="rtl">
-  <p>
-فَمَنْ طَلَبَ الدُّنْيَا طَلَبَهُ الْمَوْتُ حَتَّى يُخْرِجَهُ
-عَنْهَا،مَنْ طَلَبَ الاْخِرَةَ طَلَبَتْهُ الدُّنْيَا حَتَّى
-يَسْتَوْفِيَ رِزْقَهُ مِنْهَا.
-  </p>
-</blockquote>
+> فَمَنْ طَلَبَ الدُّنْيَا طَلَبَهُ الْمَوْتُ حَتَّى يُخْرِجَهُ
+> عَنْهَا،مَنْ طَلَبَ الاْخِرَةَ طَلَبَتْهُ الدُّنْيَا حَتَّى
+> يَسْتَوْفِيَ رِزْقَهُ مِنْهَا.
 
 Hadith n. 432
 -------------
@@ -8221,19 +6321,15 @@ the Quran they are established. They do not see any object of hope above
 what they hope and no object of fear above what they fear.
 
 > 432. وقال عليه السلام : إِنَّ أَوْلِيَاءَ اللهِ هُمُ الَّذِينَ
-<blockquote dir="rtl">
-  <p>
-نَظَرُوا إِلَى بَاطِنِ الدُّنْيَا إِذَا نَظَرَ النَّاسُ إِلَى
-ظَاهِرِهَا، وَاشْتَغَلُوا بِآجِلِهَا إِذَا آشْتَغَلَ النَّاسُ
-بِعَاجِلِهَا، فَأَمَاتُوا مِنْهَا مَا خَشُوا أَنْ يُمِيتَهُمْ
-وَتَرَكُوا مِنْهَا مَا عَلِمُوا أَنَّهُ سَيَتْرُكُهُمْ، وَرَأَوُا
-اسْتِكْثَارَ غَيْرِهِمْ مِنْهَا اسْتِقْلالاً، وَدَرَكَهُمْ لَهَا
-فَوْتاً، أَعْدَاءُ مَا سَالَمَ النَّاسُ، وَسِلْمُ مَا عَادَى النَّاسُ!
-بِهِمْ عُلِمَ الْكِتَابُ وَبِهِ عُلِمُوا وَبِهِمْ قَامَ الْكِتَابُ
-وَبِهِ قَامُوا، لاَ يَرَوْنَ مَرْجُوّاً فَوْقَ مَا يَرْجُونَ، وَلاَ
-مَخُوفاً فَوْقَ مَا يَخَافُونَ.
-  </p>
-</blockquote>
+> نَظَرُوا إِلَى بَاطِنِ الدُّنْيَا إِذَا نَظَرَ النَّاسُ إِلَى
+> ظَاهِرِهَا، وَاشْتَغَلُوا بِآجِلِهَا إِذَا آشْتَغَلَ النَّاسُ
+> بِعَاجِلِهَا، فَأَمَاتُوا مِنْهَا مَا خَشُوا أَنْ يُمِيتَهُمْ
+> وَتَرَكُوا مِنْهَا مَا عَلِمُوا أَنَّهُ سَيَتْرُكُهُمْ، وَرَأَوُا
+> اسْتِكْثَارَ غَيْرِهِمْ مِنْهَا اسْتِقْلالاً، وَدَرَكَهُمْ لَهَا
+> فَوْتاً، أَعْدَاءُ مَا سَالَمَ النَّاسُ، وَسِلْمُ مَا عَادَى النَّاسُ!
+> بِهِمْ عُلِمَ الْكِتَابُ وَبِهِ عُلِمُوا وَبِهِمْ قَامَ الْكِتَابُ
+> وَبِهِ قَامُوا، لاَ يَرَوْنَ مَرْجُوّاً فَوْقَ مَا يَرْجُونَ، وَلاَ
+> مَخُوفاً فَوْقَ مَا يَخَافُونَ.
 
 Hadith n. 433
 -------------
@@ -8242,11 +6338,7 @@ Hadith n. 433
 pleasures will pass away while the consequences will stay.
 
 > 433. وقال عليه السلام : اذْكُرُوا انْقِطَاعَ الَّلذَّاتِ، وَبَقَاءَ
-<blockquote dir="rtl">
-  <p>
-التَّبِعَاتِ
-  </p>
-</blockquote>
+> التَّبِعَاتِ
 
 Hadith n. 434
 -------------
@@ -8263,14 +6355,10 @@ al-Arabi, that (caliph) al-Ma’mun said, “If Ali had not said ‘ukhbur
 taqlihi’ (try a man and you will hate him),” I would have said: ‘aqlihi
 takhbur’ (hate a man in order to try him).”
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: ومن الناس من يروي هذا لرسول الله صلى الله عليه وآله ، ومما
-يُقوّي أنه من كلام أميرالمؤمنين عليه السلام ما حكاه ثعلب قال: حدّثنا
-ابن الاَعرابي قال: قال المأمون: لو لا أنّ علياً عليه السلام قال:
-«اخبُر تَقْلِهِ» لقلت أنا: اقْلِهِ تَخْبُرْ.
-  </p>
-</blockquote>
+> قال الرضي: ومن الناس من يروي هذا لرسول الله صلى الله عليه وآله ، ومما
+> يُقوّي أنه من كلام أميرالمؤمنين عليه السلام ما حكاه ثعلب قال: حدّثنا
+> ابن الاَعرابي قال: قال المأمون: لو لا أنّ علياً عليه السلام قال:
+> «اخبُر تَقْلِهِ» لقلت أنا: اقْلِهِ تَخْبُرْ.
 
 Hadith n. 435
 -------------
@@ -8283,14 +6371,10 @@ acceptance upon him, or that He opens the door of repentance for a
 person and closes the door of forgiveness upon him.
 
 > 435. وقال عليه السلام : مَا كَانَ اللهُ لِيَفْتَحَ عَلَى عَبْدٍ بَابَ
-<blockquote dir="rtl">
-  <p>
-الشُّكْرِ وَيُغْلِقَ عَنْهُ بَابَ الزِّيَادَةِ، وَلاَ لِيَفْتَحَ عَلَى
-عَبْدٍ بَابَ الدُّعَاءِ وَيُغْلِقَ عَنْهُ بَابَ الاْجَابَةِ، وَلاَ
-لِيَفْتَحَ عَلَى عَبْدٍ بَابَ التَّوْبَةِ وَيُغْلِقَ عَنْهُ بَابَ
-الْمَغْفِرَةِ.
-  </p>
-</blockquote>
+> الشُّكْرِ وَيُغْلِقَ عَنْهُ بَابَ الزِّيَادَةِ، وَلاَ لِيَفْتَحَ عَلَى
+> عَبْدٍ بَابَ الدُّعَاءِ وَيُغْلِقَ عَنْهُ بَابَ الاْجَابَةِ، وَلاَ
+> لِيَفْتَحَ عَلَى عَبْدٍ بَابَ التَّوْبَةِ وَيُغْلِقَ عَنْهُ بَابَ
+> الْمَغْفِرَةِ.
 
 Hadith n. 436
 -------------
@@ -8300,11 +6384,7 @@ appropriate person for an honourable position is he who descends from
 the people of honour.
 
 > 436. وقال عليه السلام : أوْلَى النَّاسِ بِالْكَرَمِ مَنْ عَرَقتْ فيه
-<blockquote dir="rtl">
-  <p>
-الْكِرَامُ.
-  </p>
-</blockquote>
+> الْكِرَامُ.
 
 Hadith n. 437
 -------------
@@ -8317,13 +6397,9 @@ caretaker while generosity is a particular benefit. Consequently,
 justice is superior and more distinguished of the two.
 
 > 437. وسئل عليه السلام أَيّما أَفضل: العدل، أَو الجود؟ فقال: الْعَدْلُ
-<blockquote dir="rtl">
-  <p>
-يَضَعُ الاْمُورَ مَوَاضِعَهَا، والْجُودُ يُخْرِجُهَا عَنْ جِهَتِهَا،
-وَالْعَدْلُ سَائِسٌ عَامٌّ، وَالْجُودُ عَارضٌ خَاصٌّ، فَالْعَدْلُ
-أَشْرَفُهُمَا وَأَفْضَلُهُمَا.
-  </p>
-</blockquote>
+> يَضَعُ الاْمُورَ مَوَاضِعَهَا، والْجُودُ يُخْرِجُهَا عَنْ جِهَتِهَا،
+> وَالْعَدْلُ سَائِسٌ عَامٌّ، وَالْجُودُ عَارضٌ خَاصٌّ، فَالْعَدْلُ
+> أَشْرَفُهُمَا وَأَفْضَلُهُمَا.
 
 Hadith n. 438
 -------------
@@ -8347,13 +6423,9 @@ Whoever does not grieve over what he misses and does not revel over what
 comes to him acquires asceticism from both its sides.
 
 > 439. وقال عليه السلام : الزُّهْدُ كُلُّهُ بَيْنَ كَلِمَتَينِ مِنَ
-<blockquote dir="rtl">
-  <p>
-الْقُرْآنِ: قَالَ اللهُ عزّوجلّ: (لكيلا تأسَوا عَلَى مَا فَاتَكُمْ ،
-وَ لا تَفْرَحُوا بِما آتَاكُمْ) ، فَمَنْ لَمْ يَأْسَ عَلَى الْمَاضِي،
-وَلَمْ يَفْرَحْ بِالاْتِي، فَقَدْ أَخَذَ الزُّهْدَ بِطَرَفَيْهِ
-  </p>
-</blockquote>
+> الْقُرْآنِ: قَالَ اللهُ عزّوجلّ: (لكيلا تأسَوا عَلَى مَا فَاتَكُمْ ،
+> وَ لا تَفْرَحُوا بِما آتَاكُمْ) ، فَمَنْ لَمْ يَأْسَ عَلَى الْمَاضِي،
+> وَلَمْ يَفْرَحْ بِالاْتِي، فَقَدْ أَخَذَ الزُّهْدَ بِطَرَفَيْهِ
 
 Hadith n. 440
 -------------
@@ -8379,11 +6451,7 @@ greater right on you than the other. The best town for you is that which
 bears you.
 
 > 442. وقال عليه السلام : لَيْسَ بَلَدٌ بأَحَقَّ بِكَ مِنْ بَلَدٍ،
-<blockquote dir="rtl">
-  <p>
-خَيْرُ الْبِلاَدِ مَا حَمَلَكَ.
-  </p>
-</blockquote>
+> خَيْرُ الْبِلاَدِ مَا حَمَلَكَ.
 
 Hadith n. 443
 -------------
@@ -8396,22 +6464,14 @@ stone he would have been hard; no horseman could have reached it and no
 bird could have flown over it.
 
 > 443. وقال عليه السلام : وقد جاءه نعي الاْشتر رحمه الله: مَالكٌ وَمَا
-<blockquote dir="rtl">
-  <p>
-مَالِكٌ! وَاللهِ لَوْ كَانَ جَبَلاً لَكَانَ فِنْداً، وَلَوْ كَانَ
-حَجَراً لَكَانَ صَلْداً، لاَ يَرْتَقِيهِ الْحَافِرُ، وَلاَ يُوفِي
-عَلَيْهِ الطَّائِرُ.
-  </p>
-</blockquote>
+> مَالِكٌ! وَاللهِ لَوْ كَانَ جَبَلاً لَكَانَ فِنْداً، وَلَوْ كَانَ
+> حَجَراً لَكَانَ صَلْداً، لاَ يَرْتَقِيهِ الْحَافِرُ، وَلاَ يُوفِي
+> عَلَيْهِ الطَّائِرُ.
 
 **Sayyid ar-Razi says:** “*Find*” means a lonely mountain (rising in
 height above the others in the range).
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: الفند: المنفرد من الجبال.
-  </p>
-</blockquote>
+> قال الرضي: الفند: المنفرد من الجبال.
 
 Hadith n. 444
 -------------
@@ -8420,11 +6480,7 @@ Hadith n. 444
 lasts is better than much that brings grief.
 
 > 444. وقال عليه السلام : قَلِيلٌ مَدُومٌ عَلَيْهِ خَيْرٌ مِنْ كَثِيرٍ
-<blockquote dir="rtl">
-  <p>
-مَمْلُولٍ مِنْهُ.
-  </p>
-</blockquote>
+> مَمْلُولٍ مِنْهُ.
 
 Hadith n. 445
 -------------
@@ -8433,11 +6489,7 @@ Hadith n. 445
 possesses a revealing quality wait and see his other qualities. [^93]
 
 > 445. وقال عليه السلام : إذَا كَانَ في رَجُلٍ خَلَّةٌ رَائِعَةٌ
-<blockquote dir="rtl">
-  <p>
-فَانْتَظِرْ أَخَوَاتِهَا.
-  </p>
-</blockquote>
+> فَانْتَظِرْ أَخَوَاتِهَا.
 
 Hadith n. 446
 -------------
@@ -8450,12 +6502,8 @@ Amir al-mu’minin! **Whereupon Amir al-mu’minin, peace be upon him,
 said:** That is the most praiseworthy way of (losing) them.
 
 > 446. وقال عليه السلام لغالب بن صعصعة أبي الفرزدق، في كلام دار بينهما:
-<blockquote dir="rtl">
-  <p>
-مَا فَعَلَتْ إِبِلُكَ الْكثِيرَةُ؟ قال: ذَعْذَعَتْها الحُقُوقُ يا
-أميرالمؤمنين. فَقال عليه السلام : ذَاكَ أَحْمَدُ سُبُلِهَا
-  </p>
-</blockquote>
+> مَا فَعَلَتْ إِبِلُكَ الْكثِيرَةُ؟ قال: ذَعْذَعَتْها الحُقُوقُ يا
+> أميرالمؤمنين. فَقال عليه السلام : ذَاكَ أَحْمَدُ سُبُلِهَا
 
 Hadith n. 447
 -------------
@@ -8464,11 +6512,7 @@ Hadith n. 447
 without knowing the rules of religious law will be involved in usury.
 
 > 447. وقال عليه السلام : مَنِ اتَّجَرَ بِغَيْرِ فِقْهٍ ارْتَطَمَ فِي
-<blockquote dir="rtl">
-  <p>
-الرِّبَا.
-  </p>
-</blockquote>
+> الرِّبَا.
 
 Hadith n. 448
 -------------
@@ -8477,11 +6521,7 @@ Hadith n. 448
 small distresses as big, Allah involves him in big ones.
 
 > 448. وقال عليه السلام :مَنْ عَظَّمَ صِغَارَ الْمَصَائِبِ ابْتَلاَهُ
-<blockquote dir="rtl">
-  <p>
-اللهُ بِكِبَارِهَا.
-  </p>
-</blockquote>
+> اللهُ بِكِبَارِهَا.
 
 Hadith n. 449
 -------------
@@ -8490,11 +6530,7 @@ Hadith n. 449
 maintains his own respect in view, his desires appear light to him.
 
 > 449. وقال عليه السلام : مَنْ كَرُمَتْ عَلَيْهِ نَفْسُهُ هَانَتْ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ شَهْوَتُهُ.
-  </p>
-</blockquote>
+> عَلَيْهِ شَهْوَتُهُ.
 
 Hadith n. 450
 -------------
@@ -8503,11 +6539,7 @@ Hadith n. 450
 cuts a joke he separates away a bit from his wit.
 
 > 450. وقال عليه السلام : مَا مَزَحَ امْرُؤٌ مَزْحَةً إِلاَّ مَجَّ مِنْ
-<blockquote dir="rtl">
-  <p>
-عَقْلِهِ مَجَّةً.
-  </p>
-</blockquote>
+> عَقْلِهِ مَجَّةً.
 
 Hadith n. 451
 -------------
@@ -8518,11 +6550,7 @@ advantage while your inclining towards him who turns away from you is
 humiliation for yourself.
 
 > 451. وقال عليه السلام : زُهْدُكَ فِي رَاغِبٍ فِيكَ نُقْصَانُ حَظٍّ،
-<blockquote dir="rtl">
-  <p>
-وَرَغْبَتُكَ فِي زَاهِدٍ فِيكَ ذُلُّ نَفْسٍ.
-  </p>
-</blockquote>
+> وَرَغْبَتُكَ فِي زَاهِدٍ فِيكَ ذُلُّ نَفْسٍ.
 
 Hadith n. 452
 -------------
@@ -8531,11 +6559,7 @@ Hadith n. 452
 destitution will follow presentation before Allah.
 
 > 452. وقال عليه السلام : الغِنَى والْفَقْرُ بَعْدَ الْعَرْضِ عَلَى
-<blockquote dir="rtl">
-  <p>
-اللهِ.
-  </p>
-</blockquote>
+> اللهِ.
 
 Hadith n. 453
 -------------
@@ -8545,11 +6569,7 @@ remained a man from our house till his wretched son ‘Abdullah came
 forth. [^94]
 
 > 453. وقال عليه السلام : مَا زَالَ الزُّبَيْرُ رَجُلاً مِنَّا أَهْلَ
-<blockquote dir="rtl">
-  <p>
-الْبَيْتِ حَتَّى نَشَأَ ابْنُهُ الْمَشْؤُومُ عَبْدُ اللهِ.
-  </p>
-</blockquote>
+> الْبَيْتِ حَتَّى نَشَأَ ابْنُهُ الْمَشْؤُومُ عَبْدُ اللهِ.
 
 Hadith n. 454
 -------------
@@ -8559,12 +6579,8 @@ to do with vanity. His origin is semen and his end is a carcass while he
 cannot feed himself nor ward off death.[^95]
 
 > 454. وقال عليه السلام : مَا لاِبْنِ آدَمَ وَالْفَخْرِ: أَوَّلُهُ
-<blockquote dir="rtl">
-  <p>
-نُطْفَةٌ، وَآخِرُهُ جِيفَةٌ، و َلاَ يَرْزُقُ نَفْسَهُ، وَلاَ يَدفَعُ
-حَتْفَهُ.
-  </p>
-</blockquote>
+> نُطْفَةٌ، وَآخِرُهُ جِيفَةٌ، و َلاَ يَرْزُقُ نَفْسَهُ، وَلاَ يَدفَعُ
+> حَتْفَهُ.
 
 Hadith n. 455
 -------------
@@ -8576,20 +6592,12 @@ but if it has to be done then it is the "*al-Malik ad-dillil*" (the
 mislead king).
 
 > 455. وسئل عليه السلام : من أشعر الشعراء؟ فقال: إِنَّ الْقَوْمَ لَمْ
-<blockquote dir="rtl">
-  <p>
-يَجْرُوا فِي حَلبةٍ تُعْرَفُ الْغَايَةُ عِنْدَ قَصَبَتِهَا فَإِنْ
-كَانَ وَلاَ بُدَّ فَالْمَلِكُ الضِّلِّيلُ.
-  </p>
-</blockquote>
+> يَجْرُوا فِي حَلبةٍ تُعْرَفُ الْغَايَةُ عِنْدَ قَصَبَتِهَا فَإِنْ
+> كَانَ وَلاَ بُدَّ فَالْمَلِكُ الضِّلِّيلُ.
 
 **As-Sayyid ar-Razi says:** Amir al-mu’minin means Imru’l Qays.[^96]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: يريد امرأ القيس
-  </p>
-</blockquote>
+> قال الرضي: يريد امرأ القيس
 
 Hadith n. 456
 -------------
@@ -8600,12 +6608,8 @@ it? Certainly, the only price for yourselves is Paradise. Therefore, do
 not sell yourself except for Paradise.
 
 > 456. وقال عليه السلام : أَلاَ حُرٌّ يَدَعُ هذِهِ اللُّمَاظَةَ
-<blockquote dir="rtl">
-  <p>
-لاِهْلِهَا؟ إِنَّهُ لَيْسَ لاِنْفُسِكُمْ ثَمَنٌ إِلاَّ الْجَنَّةَ،
-فَلاَ تَبِيعُوهَا إِلاَّ بِهَا.
-  </p>
-</blockquote>
+> لاِهْلِهَا؟ إِنَّهُ لَيْسَ لاِنْفُسِكُمْ ثَمَنٌ إِلاَّ الْجَنَّةَ،
+> فَلاَ تَبِيعُوهَا إِلاَّ بِهَا.
 
 Hadith n. 457
 -------------
@@ -8615,11 +6619,7 @@ persons never get satiated, the seeker of knowledge and the seeker of
 this world.
 
 > 457. وقال عليه السلام : مَنْهُومَانِ لاَ يَشْعَبَانِ: طَالِبُ عِلْمٍ،
-<blockquote dir="rtl">
-  <p>
-وَطَالِبُ دُنْيَا.
-  </p>
-</blockquote>
+> وَطَالِبُ دُنْيَا.
 
 Hadith n. 458
 -------------
@@ -8630,13 +6630,9 @@ benefits you; your words should not be more than your action and you
 should fear Allah when speaking about others.
 
 > 458. وقال عليه السلام : عَلامةُ الاْيمَانِ أَنْ تُؤثِرَ الصِّدْقَ
-<blockquote dir="rtl">
-  <p>
-حَيْثُ يَضُرُّكَ عَلَى الْكَذِبِ حَيْثُ يَنْفَعُكَ، أَنْ يَكُونَ فِي
-حَديِثِكَ فَضْلٌ عَنْ عِلْمِكَ وَأَنْ تَتَّقِيَ اللهَ فِي حَدِيثِ
-غَيْرِكَ.
-  </p>
-</blockquote>
+> حَيْثُ يَضُرُّكَ عَلَى الْكَذِبِ حَيْثُ يَنْفَعُكَ، أَنْ يَكُونَ فِي
+> حَديِثِكَ فَضْلٌ عَنْ عِلْمِكَ وَأَنْ تَتَّقِيَ اللهَ فِي حَدِيثِ
+> غَيْرِكَ.
 
 Hadith n. 459
 -------------
@@ -8645,20 +6641,12 @@ Hadith n. 459
 sway over (our) predetermination till effort itself brings about ruin.
 
 > 459. وقال عليه السلام : يَغْلِبُ الْمِقْدَارُعَلَى التَّقْديرِ حَتَّى
-<blockquote dir="rtl">
-  <p>
-تَكُونَ الاْفَةُ فِي التَّدْبِيرِ.
-  </p>
-</blockquote>
+> تَكُونَ الاْفَةُ فِي التَّدْبِيرِ.
 
 **As-Sayyid ar-Radi says:** Something of this meaning has already
 appeared earlier though in words different from these.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: وقد مضى هذا المعنى فيما تقدم برواية تخالف بعض هذه الاَلفاظ.
-  </p>
-</blockquote>
+> قال الرضي: وقد مضى هذا المعنى فيما تقدم برواية تخالف بعض هذه الاَلفاظ.
 
 Hadith n. 460
 -------------
@@ -8667,11 +6655,7 @@ Hadith n. 460
 endurance are twins and they are the product of high courage.
 
 > 460. وقال عليه السلام : الْحِلْمُ وَالاْنَاةُ تَوْأَمَانِ
-<blockquote dir="rtl">
-  <p>
-يُنْتِجُهُمَا عُلُوُّ الْهِمَّةِ.
-  </p>
-</blockquote>
+> يُنْتِجُهُمَا عُلُوُّ الْهِمَّةِ.
 
 Hadith n. 461
 -------------
@@ -8696,11 +6680,7 @@ Hadith n. 463
 created for other than itself and has not been created for itself.
 
 > 463. وقال عليه السلام : الدُّنْيَا خُلِقَتْ لِغَيْرِهَا، ولَمْ
-<blockquote dir="rtl">
-  <p>
-تُخْلَقْ لِنَفْسِهَا.
-  </p>
-</blockquote>
+> تُخْلَقْ لِنَفْسِهَا.
 
 Hadith n. 464
 -------------
@@ -8711,12 +6691,8 @@ way. But when differences arise among them then even if the hyena
 attacks them it will overpower them.
 
 > 464. وقال عليه السلام : إِنَّ لِبَنِي أُمَيَّةَ مِرْوَدَاً يَجْرُونَ
-<blockquote dir="rtl">
-  <p>
-فِيهِ، وَلَوْ قَدِ اخْتَلَفُوا فِيَما بَيْنَهُمْ ثُمَّ كَادَتْهُمُ
-الضِّبَاعُ لَغَلَبَتْهُمْ.
-  </p>
-</blockquote>
+> فِيهِ، وَلَوْ قَدِ اخْتَلَفُوا فِيَما بَيْنَهُمْ ثُمَّ كَادَتْهُمُ
+> الضِّبَاعُ لَغَلَبَتْهُمْ.
 
 **As-Sayyid ar-Radi says:** Herein *‘‘mirward’’* is a form derived from
 *‘‘irwad’’* which means to allow time, to wait for. It is an extremely
@@ -8726,14 +6702,10 @@ area meant for the training of horses for racing where they are running
 towards the limit, so that when they reach its extremity their
 organization will be destroyed. [^97]
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي : وَالْمِرْوَدُ هاهنا مفعَل من الاِرْوَاد، وهو الاِمهال
-والاِنظار، وهذا من أفصح الكلام وأغربه، فكأنه عليه السلام شبّه المهلة
-التي هم فيها بالمضمار الذى يجرون فيه إلى الغاية، فاذا بلغوا مُنقَطَعها
-انتقضَ نظامُهم بعدها.
-  </p>
-</blockquote>
+> قال الرضي : وَالْمِرْوَدُ هاهنا مفعَل من الاِرْوَاد، وهو الاِمهال
+> والاِنظار، وهذا من أفصح الكلام وأغربه، فكأنه عليه السلام شبّه المهلة
+> التي هم فيها بالمضمار الذى يجرون فيه إلى الغاية، فاذا بلغوا مُنقَطَعها
+> انتقضَ نظامُهم بعدها.
 
 Hadith n. 465
 -------------
@@ -8743,12 +6715,8 @@ Ansar** : By Allah, they nurtured Islam with their generous hands and
 eloquent tongues as a year old calf is nurtured.
 
 > 465. وقال عليه السلام في مدح الاَنَصار: هُمْ وَاللهِ رَبّواالاْسْلاَمَ
-<blockquote dir="rtl">
-  <p>
-كَمَا يُرَبَّى الْفَلُوُّخ مَعَ غَنَائِهِمْ بَأَيْدِيهِمُ السِّبَاطِ
-وَأَلْسِنَتِهِمُ السِّلاَطِ.
-  </p>
-</blockquote>
+> كَمَا يُرَبَّى الْفَلُوُّخ مَعَ غَنَائِهِمْ بَأَيْدِيهِمُ السِّبَاطِ
+> وَأَلْسِنَتِهِمُ السِّلاَطِ.
 
 Hadith n. 466
 -------------
@@ -8767,16 +6735,12 @@ al-mu’minin. Al-Mubarrad has mentioned it in his book *al-Muqtadab*
 under the chapter ‘Words of single letters’. We too have discussed this
 metaphor in our book named *Majazat al-athar an-nabawiyyah.*
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: و هذه من الاستعارات العجيبة، كأنه شبّه السّهَ بالوعاء،
-والعين بالوكاء، فإذا أُطلق الوكاءُ لم ينضبطِ الوعاءُ و هذا القول في
-الاَشهر الاَظهر من كلام النبي عليه السلام ، وقد رواه قوم
-لاَميرالمؤمنين عليه السلام ، ذكر ذلك المبرّد في كتاب المقتضب في باب
-اللفظ بالحروف. و قد تكلمنا على هذه الاستعارة في كتابنا الموسوم:
-بمجازات الآثار النبوية.
-  </p>
-</blockquote>
+> قال الرضي: و هذه من الاستعارات العجيبة، كأنه شبّه السّهَ بالوعاء،
+> والعين بالوكاء، فإذا أُطلق الوكاءُ لم ينضبطِ الوعاءُ و هذا القول في
+> الاَشهر الاَظهر من كلام النبي عليه السلام ، وقد رواه قوم
+> لاَميرالمؤمنين عليه السلام ، ذكر ذلك المبرّد في كتاب المقتضب في باب
+> اللفظ بالحروف. و قد تكلمنا على هذه الاستعارة في كتابنا الموسوم:
+> بمجازات الآثار النبوية.
 
 Hadith n. 467
 -------------
@@ -8787,11 +6751,7 @@ and made them upright till the entire religion put its bosom on the
 ground.
 
 > 467. وقال عليه السلام في كلام له: وَوَلِيَهُمْ وَالٍ فأَقَامَ
-<blockquote dir="rtl">
-  <p>
-واسْتَقَامَ، حَتَّى ضَرَبَ الدِّينُ بِجِرَانِهِ.
-  </p>
-</blockquote>
+> واسْتَقَامَ، حَتَّى ضَرَبَ الدِّينُ بِجِرَانِهِ.
 
 Hadith n. 468
 -------------
@@ -8807,15 +6767,11 @@ purchases will be made from helpless although the Prophet (S) has
 prohibited purchasing from the helpless. [^98]
 
 > 468. وقال عليه السلام : يَأتِي عَلَى النَّاسِ زَمَانٌ عَضُوضٌ يَعَضُّ
-<blockquote dir="rtl">
-  <p>
-الْمُوسِرُ فِيهِ عَلَى مَا فِي يَدَيْهِ وَلَمْ يُؤْمَرْ بِذلِكَ، قَالَ
-اللهُ سُبْحَانَهُ: (و لا تَنْسَوُا الْفَضْلَ بَيْنَكُمْ) ، تَنْهَدُ
-فِيهِ الاْشْرَارُ، وَتُسْتَذَلُّ الاْخْيَارُ، ويُبَايعُ
-الْمُضْطَرُّونَ، وَقَدْ نَهَى رَسُولُ اللهِ صَلى اللهُ عليه و آله و
-سلم عَنْ بِيَعِ الْمُضْطَرِّينَ.
-  </p>
-</blockquote>
+> الْمُوسِرُ فِيهِ عَلَى مَا فِي يَدَيْهِ وَلَمْ يُؤْمَرْ بِذلِكَ، قَالَ
+> اللهُ سُبْحَانَهُ: (و لا تَنْسَوُا الْفَضْلَ بَيْنَكُمْ) ، تَنْهَدُ
+> فِيهِ الاْشْرَارُ، وَتُسْتَذَلُّ الاْخْيَارُ، ويُبَايعُ
+> الْمُضْطَرُّونَ، وَقَدْ نَهَى رَسُولُ اللهِ صَلى اللهُ عليه و آله و
+> سلم عَنْ بِيَعِ الْمُضْطَرِّينَ.
 
 Hadith n. 469
 -------------
@@ -8825,11 +6781,7 @@ persons will fall into ruin over me: The one who loves exaggerates and
 the other who lays false and baseless blames.
 
 > 469. وقال عليه السلام : يَهْلِكُ فِيَّ رَجُلاَنِ: مُحِبٌّ مُفْرِطٌ،
-<blockquote dir="rtl">
-  <p>
-وَبَاهِتٌ مُفْتَرٍ.
-  </p>
-</blockquote>
+> وَبَاهِتٌ مُفْتَرٍ.
 
 **As-Sayyid ar-Radi says:** This is on the lines of Amir al-mu’minin’s
 own saying which runs as: ‘‘Two categories of persons will be ruined
@@ -8845,11 +6797,7 @@ do not subject Him to the limitations of your imagination and justice
 means that you do not lay any blame on Him. [^100]
 
 > 470. وسئل عليه السلام عن التوحيد والعدل فقال: التَّوْحِيدُ أنْ لا
-<blockquote dir="rtl">
-  <p>
-تَتَوَهَّمَهُ وَالْعَدْلُ أَلاَّ تَتَّهِمَهُ.
-  </p>
-</blockquote>
+> تَتَوَهَّمَهُ وَالْعَدْلُ أَلاَّ تَتَّهِمَهُ.
 
 Hadith n. 471
 -------------
@@ -8859,11 +6807,7 @@ in silence over matters involving wisdom just as there is no good in
 speaking with ignorance.
 
 > 471. وقال عليه السلام : لاَ خَيْرَ فِي الصَّمْتِ عَنِ الْحُكْمِ، كَمَا
-<blockquote dir="rtl">
-  <p>
-أنَّهُ لاَ خَيْرَ فِي الْقَوْلِ بِالْجَهْلِ.
-  </p>
-</blockquote>
+> أنَّهُ لاَ خَيْرَ فِي الْقَوْلِ بِالْجَهْلِ.
 
 Hadith n. 472
 -------------
@@ -8873,11 +6817,7 @@ for seeking rain:** O My God, send us rain by submissive clouds not by
 unruly ones.
 
 > 472. وقال عليه السلام في دعاء استسقى به: اللَّهُمَّ اسْقِنَا ذُلُلَ
-<blockquote dir="rtl">
-  <p>
-السَّحَابِ دُونَ صِعَابِهَا.
-  </p>
-</blockquote>
+> السَّحَابِ دُونَ صِعَابِهَا.
 
 **As-Sayyid ar-Radi** **says:** This is an expression of wonderful
 eloquence, because Amir al-mu’minin, peace be upon him, has likened the
@@ -8886,14 +6826,10 @@ unruly camels who throw away their saddles and throw down their riders,
 and likened the clouds free from these terrible things to the submissive
 camels which are easy to milk and obedient to ride.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: وهذا من الكلام العجيب الفصاحة، وذلك أنه عليه السلام شبّه
-السحاب ذوات الرُّعود والبوارق والرياح والصواعق بالاِبل الصّعاب التي
-تَقْمُصُ برحالها وتقِصُّ بركبانها، وشبّه السحاب خاليةً من تلك الروائع
-بالاِبل الذُّلُلِ التي تُحْتَلَبُ طَيِّعَةً‌ وتُقْتَعَدُ مُسْمِحَةً.
-  </p>
-</blockquote>
+> قال الرضي: وهذا من الكلام العجيب الفصاحة، وذلك أنه عليه السلام شبّه
+> السحاب ذوات الرُّعود والبوارق والرياح والصواعق بالاِبل الصّعاب التي
+> تَقْمُصُ برحالها وتقِصُّ بركبانها، وشبّه السحاب خاليةً من تلك الروائع
+> بالاِبل الذُّلُلِ التي تُحْتَلَبُ طَيِّعَةً‌ وتُقْتَعَدُ مُسْمِحَةً.
 
 Hadith n. 473
 -------------
@@ -8903,21 +6839,13 @@ We wish you had changed your grey hair, O Amir al-Mu’minin. **Then he
 said:** Dye is a way of adornment while we are in a state of grief.
 
 > 473. وقيل له عليه السلام : لو غيَّرتَ شيبك يا أميرالمؤمنين. فقال عليه
-<blockquote dir="rtl">
-  <p>
-السلام : الْخِضَابُ زِينَةٌ، وَنَحْنُ قَوْمٌ فِي مُصِيبَةٍ!
-  </p>
-</blockquote>
+> السلام : الْخِضَابُ زِينَةٌ، وَنَحْنُ قَوْمٌ فِي مُصِيبَةٍ!
 
 **As-Sayyid ar-Radi** **says:** Amir al-mu’minin, peace be upon him, is
 referring to the death of the Messenger of Allah, peace be upon him and
 his descendants.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: يريد برسول الله صلى الله عليه وآله.
-  </p>
-</blockquote>
+> قال الرضي: يريد برسول الله صلى الله عليه وآله.
 
 Hadith n. 474
 -------------
@@ -8928,12 +6856,8 @@ he who remains chaste despite means. It is possible that a chaste person
 may become one of the angels.
 
 > 474. وقال عليه السلام : مَا الْـمُجَاهِدُ الشَّهِيدُ فِي سَبِيلِ اللهِ
-<blockquote dir="rtl">
-  <p>
-بِأَعْظَمَ أَجْراً مِمَّنْ قَدَرَ فَعَفَّ، لَكَادَ الْعَفِيفُ أَنْ
-يَكُونَ مَلَكاً مِنَ الْمَلاَئِكَةِ
-  </p>
-</blockquote>
+> بِأَعْظَمَ أَجْراً مِمَّنْ قَدَرَ فَعَفَّ، لَكَادَ الْعَفِيفُ أَنْ
+> يَكُونَ مَلَكاً مِنَ الْمَلاَئِكَةِ
 
 Hadith n. 475
 -------------
@@ -8947,11 +6871,7 @@ wealth that does not exhaust.
 the saying of the Messenger of Allah, peace be upon him and his
 descendants.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: وقد رَوى بعضُهم هذا الكلام عن النبي صلى الله عليه وآله.
-  </p>
-</blockquote>
+> قال الرضي: وقد رَوى بعضُهم هذا الكلام عن النبي صلى الله عليه وآله.
 
 Hadith n. 476
 -------------
@@ -8965,14 +6885,10 @@ to forsake their abodes while injustice will prompt them to take up
 arms.
 
 > 476. وقال عليه السلام لزياد بن أبيه. وقد استخلفَهُ لعبد الله بن العباس
-<blockquote dir="rtl">
-  <p>
-على فارس وأَعمالها، في كلامٍ طويلٍ كان بينهما، نهاه فيه عن تقدم
-الخَراج : اسْتَعْمِلِ الْعَدْلَ، وَاحْذَرِ الْعَسْفَ والْحَيْفَ
-فَإِنَّ الْعَسْفَ يَعُودُ بِالْجَلاَءِ، وَالْحَيْفَ يَدْعُو إِلَى
-السَّيْفِ.
-  </p>
-</blockquote>
+> على فارس وأَعمالها، في كلامٍ طويلٍ كان بينهما، نهاه فيه عن تقدم
+> الخَراج : اسْتَعْمِلِ الْعَدْلَ، وَاحْذَرِ الْعَسْفَ والْحَيْفَ
+> فَإِنَّ الْعَسْفَ يَعُودُ بِالْجَلاَءِ، وَالْحَيْفَ يَدْعُو إِلَى
+> السَّيْفِ.
 
 Hadith n. 477
 -------------
@@ -8981,11 +6897,7 @@ Hadith n. 477
 that which the committer takes lightly.
 
 > 477. وقال عليه السلام : أَشَدُّ الذُّنُوبِ مَا اسْتَخَفَّ بِهِ
-<blockquote dir="rtl">
-  <p>
-صَاحِبُهُ.
-  </p>
-</blockquote>
+> صَاحِبُهُ.
 
 Hadith n. 478
 -------------
@@ -8995,11 +6907,7 @@ made it obligatory on the ignorant to learn till He has made it
 obligatory on the learned to teach.
 
 > 478. وقال عليه السلام : مَا أَخَذَ اللهُ عَلَى أَهْلِ الْجَهْلِ أَنْ
-<blockquote dir="rtl">
-  <p>
-يَتَعَلَّمُوا حَتَّى أَخَذَ عَلَى أَهْلِ الْعِلْمِ أَنْ يُعَلِّمُوا.
-  </p>
-</blockquote>
+> يَتَعَلَّمُوا حَتَّى أَخَذَ عَلَى أَهْلِ الْعِلْمِ أَنْ يُعَلِّمُوا.
 
 Hadith n. 479
 -------------
@@ -9013,12 +6921,8 @@ comrade is he for whom formality has to be observed. [^101]
 from hardship and it is an evil that is caused by a comrade for whom
 formality is observed. Consequently, he is the worst of all comrades.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: لاَن التكليف مستلزمٌ للمشقة، وهو شرٌ لازمٌ عن الاَخ
-المتَكلّفِ له، فهو شرُّ الاِخوان.
-  </p>
-</blockquote>
+> قال الرضي: لاَن التكليف مستلزمٌ للمشقة، وهو شرٌ لازمٌ عن الاَخ
+> المتَكلّفِ له، فهو شرُّ الاِخوان.
 
 Hadith n. 480
 -------------
@@ -9027,23 +6931,15 @@ Hadith n. 480
 enrages his brother, it means that he leaves him.
 
 > 480. وقال عليه السلام : إِذَا احْتَشَمَ الْمُؤْمِنُ أَخَاهُ فَقَدْ
-<blockquote dir="rtl">
-  <p>
-فَارَقَهُ.
-  </p>
-</blockquote>
+> فَارَقَهُ.
 
 **As-Sayyid ar-Radi** **says:** It is said ‘‘*hashamahu’’* or
 *‘‘ahshamahu’’* to mean ‘‘He enraged him’’. According to another view it
 means ‘‘He humiliated him’’. While *‘‘ihtashamahu’’* means ‘‘He sought
 these for him’’, and that is most likely to cause him to separate.
 
-<blockquote dir="rtl">
-  <p>
-قال الرضي: يقال: حشمه وأحشمه: إذا أغضبه، وقيل: أخجله، واحتشمه: طلب ذلك
-له، وهو مَظِنّة مفارقته.
-  </p>
-</blockquote>
+> قال الرضي: يقال: حشمه وأحشمه: إذا أغضبه، وقيل: أخجله، واحتشمه: طلب ذلك
+> له، وهو مَظِنّة مفارقته.
 
 \*\*\*\*\*
 
@@ -9065,29 +6961,17 @@ May Allah send blessings on our master Muhammad the last of the prophets
 who guided us towards the best path, and his chaste descendants and his
 companions who are the stars of conviction.
 
-<blockquote dir="rtl">
-  <p>
-و هذا حين انتهاء الغاية بنا إلى قطع المختار من كلام أمير المؤمنين
-عليه‏السلام ، حامدين للّه سبحانه على ما منّ به من توفيقنا لضم ما انتشر
-من أطرافه، و تقريب ما بعد من أقطاره. و تقرر العزم كما شرطنا أولا على
-تفضيل أوراق من البياض في آخر كل باب من الأبواب، ليكون لاقتناص الشارد،
-و استلحاق الوارد، و ما عسى أن يظهر لنا بعد الغموض، و يقع إلينا بعد
-الشذوذ، و ما توفيقنا إلا باللّه عليه توكلنا، و هو حسبنا و نعم الوكيل.
-  </p>
-</blockquote>
+> و هذا حين انتهاء الغاية بنا إلى قطع المختار من كلام أمير المؤمنين
+> عليه‏السلام ، حامدين للّه سبحانه على ما منّ به من توفيقنا لضم ما انتشر
+> من أطرافه، و تقريب ما بعد من أقطاره. و تقرر العزم كما شرطنا أولا على
+> تفضيل أوراق من البياض في آخر كل باب من الأبواب، ليكون لاقتناص الشارد،
+> و استلحاق الوارد، و ما عسى أن يظهر لنا بعد الغموض، و يقع إلينا بعد
+> الشذوذ، و ما توفيقنا إلا باللّه عليه توكلنا، و هو حسبنا و نعم الوكيل.
 
-<blockquote dir="rtl">
-  <p>
-و ذلك في رجب سنة أربع مائة من الهجرة،
-  </p>
-</blockquote>
+> و ذلك في رجب سنة أربع مائة من الهجرة،
 
-<blockquote dir="rtl">
-  <p>
-و صلى اللّه على سيدنا محمد خاتم الرسل، و الهادي إلى خير السبل، و آله
-الطاهرين، و أصحابه نجوم اليقين
-  </p>
-</blockquote>
+> و صلى اللّه على سيدنا محمد خاتم الرسل، و الهادي إلى خير السبل، و آله
+> الطاهرين، و أصحابه نجوم اليقين
 
 [^1]: Labun" means a milch camel and "ibnu'l-labun" means its two year
 old young. In this age the young is neither suitable for riding nor does
@@ -10760,5 +8644,4 @@ is necessary is unstable and such a friend is not a true friend, because
 true friendship requires that a friend should not be a cause of trouble
 for the friend. If he is a cause of trouble he will prove tedious and
 harmful and this harmfulness is a sign of his being the worst friend.
-
 

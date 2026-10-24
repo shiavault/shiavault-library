@@ -23,4 +23,3 @@ This is because of my good fortune that the Almighty Creator has created
 you so compassionate to treat me with kindness and love and to never
 ignore me.
 
-

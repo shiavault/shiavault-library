@@ -24,12 +24,8 @@ complete study. They are as follows:
 
 (1)
 
-<blockquote dir="rtl">
-  <p>
-اَلَّذِيْنَ يُؤْمِنُوْنَ بِالْغَيْبِ وَ يُقِيْمُوْنَ الصَّلوةَ وَ
-مِمَّا رَزَقْنَاهُمْ يُنْفِقُوْنَ
-  </p>
-</blockquote>
+> اَلَّذِيْنَ يُؤْمِنُوْنَ بِالْغَيْبِ وَ يُقِيْمُوْنَ الصَّلوةَ وَ
+> مِمَّا رَزَقْنَاهُمْ يُنْفِقُوْنَ
 
 ***Those who believe in the unseen and establish prayers and give away
 from what We have bestowed upon them*** [^1]
@@ -44,12 +40,8 @@ believe][^3] that the uprising of the Qā’im is true.
 
 (2)
 
-<blockquote dir="rtl">
-  <p>
-وَ نُرِيْدُ اَنَّ نَمُنَّ عَلَى الَّذِيْنَ اسْتُضْعِفُوْا فِيْ
-الاَرْضِ وَ نَجْعَلَهُمْ اَئِمَّةً وَ نَجْعَلَهُمُ الْوَارِثِيْنَ
-  </p>
-</blockquote>
+> وَ نُرِيْدُ اَنَّ نَمُنَّ عَلَى الَّذِيْنَ اسْتُضْعِفُوْا فِيْ
+> الاَرْضِ وَ نَجْعَلَهُمْ اَئِمَّةً وَ نَجْعَلَهُمُ الْوَارِثِيْنَ
 
 ***And We intend to bestow a favor upon those who have been weakened in
 the earth and make them the Imams and make them the heirs***[^4]
@@ -153,12 +145,8 @@ weakened.”
 
 (3)
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ كَتَبْنَا فِيْ الزَّبُوْرِ مِنْ بَعْدِ الذِّكْرِ اَنَّ
-الْاَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُوْنَ
-  </p>
-</blockquote>
+> وَ لَقَدْ كَتَبْنَا فِيْ الزَّبُوْرِ مِنْ بَعْدِ الذِّكْرِ اَنَّ
+> الْاَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُوْنَ
 
 ***And indeed We have written in the Psalms after the Remembrance, that
 the earth will be inherited by my righteous servants***[^14]
@@ -211,11 +199,7 @@ glorifications and supplications.
 
 (4)
 
-<blockquote dir="rtl">
-  <p>
-وَ اِنَّهُ لَعِلْمٌ لِلسَّاعَةِ
-  </p>
-</blockquote>
+> وَ اِنَّهُ لَعِلْمٌ لِلسَّاعَةِ
 
 ***And surely he is a sign of the Hour***[^19]
 
@@ -241,12 +225,8 @@ his reappearance.’”
 
 (5)
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِيْ اَرْسَلَ رَسُوْلَه بِالْهُدي وَ دِيْنِ الحَقِّ
-لِيُظْهِرَه عَلَي الدِّيْنِ كُلِّه وَ لَوْ كَرِهَ الْمُشْرِكُوْنَ
-  </p>
-</blockquote>
+> هُوَ الَّذِيْ اَرْسَلَ رَسُوْلَه بِالْهُدي وَ دِيْنِ الحَقِّ
+> لِيُظْهِرَه عَلَي الدِّيْنِ كُلِّه وَ لَوْ كَرِهَ الْمُشْرِكُوْنَ
 
 ***It is He Who has sent His Messenger with guidance and the religion of
 truth to make it superior over all religions, even though the
@@ -362,16 +342,12 @@ emerges.”
 
 (6)
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُم فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِن
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ
-وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لاَ
-يُشْرِكُونَ بِي شَيْئًا وَمَن كَفَرَ بَعْدَ ذٰلِكَ فَأُوْلَئِكَ هُمُ
-الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَعَدَ اللهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُم فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِن
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ
+> وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لاَ
+> يُشْرِكُونَ بِي شَيْئًا وَمَن كَفَرَ بَعْدَ ذٰلِكَ فَأُوْلَئِكَ هُمُ
+> الْفَاسِقُونَ
 
 ***Allah has promised those of you who believe and do good deeds that He
 will most certainly make them rulers in the earth as He has made rulers
@@ -540,13 +516,9 @@ and his companions.”
 
 (7)
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلاَةَ
-وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنكَرِ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
-  </p>
-</blockquote>
+> الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلاَةَ
+> وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنكَرِ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
 
 ***Those, who if We give them power in the land, will keep up the
 prayers and pay the zakat and enjoin good and forbid evil, and the
@@ -591,12 +563,8 @@ belong to Allah.”
 
 (8)
 
-<blockquote dir="rtl">
-  <p>
-أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللهَ
-عَلَى نَصْرِهِمْ لَقَدِيرٌ
-  </p>
-</blockquote>
+> أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللهَ
+> عَلَى نَصْرِهِمْ لَقَدِيرٌ
 
 ***Permission (to fight) is given to those upon whom war is made,
 because they are oppressed, and most surely Allah is well able to assist
@@ -623,11 +591,7 @@ peace be on him, and his companions.”
 
 (9)
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ مَا تَكُونُواْ يَأْتِ بِكُمُ اللهُ جَمِيعًا
-  </p>
-</blockquote>
+> أَيْنَ مَا تَكُونُواْ يَأْتِ بِكُمُ اللهُ جَمِيعًا
 
 ***Wherever you are, Allah will bring you all together***[^55]
 
@@ -687,12 +651,8 @@ sudden, without a previous appointment.”
 
 (10)
 
-<blockquote dir="rtl">
-  <p>
-وَفِي السَّمَاء رِزْقُكُمْ وَمَا تُوعَدُونَ. فَوَرَبِّ السَّمَاء
-وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ
-  </p>
-</blockquote>
+> وَفِي السَّمَاء رِزْقُكُمْ وَمَا تُوعَدُونَ. فَوَرَبِّ السَّمَاء
+> وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ
 
 ***And in the sky is your sustenance and what you are promised. And by
 the Lord of the sky and the earth! It is most surely the truth just as
@@ -1536,5 +1496,4 @@ al-Maḥajja, pp. 210–211, verse 91.
 [^78]: Quran 6:158.
 
 [^79]: Quran 32:21.
-
 

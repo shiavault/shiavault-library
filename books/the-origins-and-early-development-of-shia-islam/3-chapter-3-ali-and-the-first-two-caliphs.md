@@ -891,4 +891,3 @@ Mas'udi, Muruj, II, p.332
 
 [^48]: Tabari, I, pp.2786 f.; 'Iqd, loc. cit.
 
-

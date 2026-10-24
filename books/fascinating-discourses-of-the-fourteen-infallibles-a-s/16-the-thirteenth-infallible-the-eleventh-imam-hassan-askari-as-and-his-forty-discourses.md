@@ -29,17 +29,9 @@ Satans of his age & was finally brutally martyred by poison.
 Forty Discourses from Imam Hassan Al Askari (as)
 ------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن الامام الحسن العسکری عليه السلام
-  </p>
-</blockquote>
+> عن الامام الحسن العسکری عليه السلام
 
 1. Allah is the one with whom all the creatures seek refuge at the time
 of need & hardships & while the hope from all the creations & the causes
@@ -281,11 +273,7 @@ but indeed the abundance & plentifuiness of service is exuberantly &
 plentifully meditating into the affair of Allah. [^34]
 
 > 34- لَيسَتِ العِبادَةُ کَثرَةَ الصِّيامِ وَالصَّلاةِ وَإِنَّمَا
-<blockquote dir="rtl">
-  <p>
-العِبادَةُ کَثرَةُ التَّفَکُّرِ في أَمرِ اللهِ.
-  </p>
-</blockquote>
+> العِبادَةُ کَثرَةُ التَّفَکُّرِ في أَمرِ اللهِ.
 
 > (تحف العقول ص488)
 
@@ -405,5 +393,4 @@ will not be afraid of Allah.[^40]
 [^39]: Tuhaf al-Uqul. P 489
 
 [^40]: Bihar ul-Anwar Vol. 78. P 377
-
 

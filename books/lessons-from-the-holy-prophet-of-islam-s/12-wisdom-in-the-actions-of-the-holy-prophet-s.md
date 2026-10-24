@@ -571,4 +571,3 @@ teachings of the Holy Prophet (S) more than ever before. [^8]
 with government officials of the Islamic Republic on the occasion of
 birthday anniversaries of the Holy Prophet (S) and Imam Sadiq (a.s.)
 
-

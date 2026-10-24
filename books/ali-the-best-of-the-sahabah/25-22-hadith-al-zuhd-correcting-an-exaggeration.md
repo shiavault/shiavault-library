@@ -3,13 +3,9 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states about both Abu Bakr and ‘Umar:
 
-<blockquote dir="rtl">
-  <p>
-أهل العلم بحالهما يقولون ازهد الناس بعد رسول الله صلى الله عليه و سلم
-الزهد الشرعي أبو بكر و عمر و ذلك أن أبا بكر كان له مال يكتسبه فأنفقه
-كله في سبيل الله
-  </p>
-</blockquote>
+> أهل العلم بحالهما يقولون ازهد الناس بعد رسول الله صلى الله عليه و سلم
+> الزهد الشرعي أبو بكر و عمر و ذلك أن أبا بكر كان له مال يكتسبه فأنفقه
+> كله في سبيل الله
 
 The People of Knowledge, concerning both of them, say that the most
 ascetic of mankind after the Messenger of Allah, peace be upon him – in
@@ -19,11 +15,7 @@ Allah.[^1]
 
 He adds:
 
-<blockquote dir="rtl">
-  <p>
-و قال ابن حزم و قال قائلون علي كان أزهدهم قال و كذب هذا الجاهل
-  </p>
-</blockquote>
+> و قال ابن حزم و قال قائلون علي كان أزهدهم قال و كذب هذا الجاهل
 
 Ibn Hazm said: “Some people say that ‘Ali was the most ascetic of them”.
 He (Ibn Hazm) replied, “**This ignorant one has lied**.”[^2]
@@ -31,18 +23,14 @@ He (Ibn Hazm) replied, “**This ignorant one has lied**.”[^2]
 So, let us see the faces of some of these “ignorant liars”. Imam
 al-Hakim (d. 403 H) records:
 
-<blockquote dir="rtl">
-  <p>
-فحدثنا بشرح هذا الحديث الشيخ أبو بكر بن إسحاق أنا الحسن بن علي بن زياد
-السري ثنا حامد بن يحيى البلخي بمكة ثنا سفيان عن إسماعيل بن أبي خالد عن
-قيس بن أبي حازم قال كنت بالمدينة فبينا أنا أطوف في السوق إذ بلغت أحجار
-الزيت فرأيت قوما مجتمعين على فارس قد ركب دابة وهو يشتم علي بن أبي طالب
-والناس وقوف حواليه إذ أقبل سعد بن أبي وقاص فوقف عليهم فقال : ما هذا ؟
-فقالوا : رجل يشتم علي بن أبي طالب فتقدم سعد فأفرجوا له حتى وقف عليه
-فقال : يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم ألم يكن
-أول من صلى مع رسول الله صلى الله عليه وسلم ألم يكن ازهد الناس؟
-  </p>
-</blockquote>
+> فحدثنا بشرح هذا الحديث الشيخ أبو بكر بن إسحاق أنا الحسن بن علي بن زياد
+> السري ثنا حامد بن يحيى البلخي بمكة ثنا سفيان عن إسماعيل بن أبي خالد عن
+> قيس بن أبي حازم قال كنت بالمدينة فبينا أنا أطوف في السوق إذ بلغت أحجار
+> الزيت فرأيت قوما مجتمعين على فارس قد ركب دابة وهو يشتم علي بن أبي طالب
+> والناس وقوف حواليه إذ أقبل سعد بن أبي وقاص فوقف عليهم فقال : ما هذا ؟
+> فقالوا : رجل يشتم علي بن أبي طالب فتقدم سعد فأفرجوا له حتى وقف عليه
+> فقال : يا هذا على ما تشتم علي بن أبي طالب ألم يكن أول من أسلم ألم يكن
+> أول من صلى مع رسول الله صلى الله عليه وسلم ألم يكن ازهد الناس؟
 
 Abu Bakr b. Ishaq – al-Hasan b. ‘Ali b. Ziyad al-Sirri – Hamid b. Yahya
 al-Balakhi –Sufyan – Isma’il b. Abi Khalid – Qays b. Abi Hazim:
@@ -60,21 +48,13 @@ ascetic of mankind**?”[^3]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^4]
 
 Al-Dhahabi (d. 748 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^5]
 
@@ -88,13 +68,9 @@ him, is sound knowledge? Has the world really turned upside down?
 Interestingly, another big Sunni name features prominently on the list
 of “ignorant liars”. Al-Hafiz Ibn Kathir (d. 774 H) copies this report:
 
-<blockquote dir="rtl">
-  <p>
-وقال يحيى بن معين: عن علي بن الجعد عن الحسن بن صالح قال: تذاكروا
-الزهاد عند عمر بن عبد العزيز فقال قائلون: فلان، وقال قائلون: فلان،
-فقال عمر بن عبد العزيز: أزهد الناس في الدنيا علي بن أبي طالب.
-  </p>
-</blockquote>
+> وقال يحيى بن معين: عن علي بن الجعد عن الحسن بن صالح قال: تذاكروا
+> الزهاد عند عمر بن عبد العزيز فقال قائلون: فلان، وقال قائلون: فلان،
+> فقال عمر بن عبد العزيز: أزهد الناس في الدنيا علي بن أبي طالب.
 
 Yahya b. Ma’in – ‘Ali b. al-Ja’d – al-Hasan b. Salih:
 
@@ -107,12 +83,8 @@ Talib**.”[^6]
 
 Al-Hafiz says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-يحيى بن معين بن عون الغطفاني مولاهم أبو زكريا البغدادي ثقة حافظ مشهور
-إمام الجرح والتعديل
-  </p>
-</blockquote>
+> يحيى بن معين بن عون الغطفاني مولاهم أبو زكريا البغدادي ثقة حافظ مشهور
+> إمام الجرح والتعديل
 
 Yahya b. Ma’in b. ‘Awn al-Ghaṭfani, their freed slave, Abu Zakariyah
 al-Baghdadi: ***Thiqah*** **(trustworthy), a well-known** ***hafiz***
@@ -120,11 +92,7 @@ al-Baghdadi: ***Thiqah*** **(trustworthy), a well-known** ***hafiz***
 
 Concerning the second narrator, he also states:
 
-<blockquote dir="rtl">
-  <p>
-علي بن الجعد بن عبيد أبو الحسن الجوهري البغدادي ثقة ثبت رمي بالتشيع
-  </p>
-</blockquote>
+> علي بن الجعد بن عبيد أبو الحسن الجوهري البغدادي ثقة ثبت رمي بالتشيع
 
 ‘Ali b. al-Ja’d b. ‘Ubayd, Abu al-Hasan al-Jawhari al-Baghdadi:
 ***Thiqah*** **(trustworthy),** ***thabt*** **(accurate)**, he was
@@ -132,12 +100,8 @@ accused of Shi’ism.[^8]
 
 Lastly, he has this verdict on the third narrator:
 
-<blockquote dir="rtl">
-  <p>
-الحسن بن صالح بن صالح بن حي وهو حيان بن شفي بضم بالمعجمة والفاء مصغر
-الهمداني بسكون الميم الثوري ثقة فقيه عابد رمي بالتشيع
-  </p>
-</blockquote>
+> الحسن بن صالح بن صالح بن حي وهو حيان بن شفي بضم بالمعجمة والفاء مصغر
+> الهمداني بسكون الميم الثوري ثقة فقيه عابد رمي بالتشيع
 
 Al-Hasan b. Salih b. Salih b. Hayy, and he was Hayyan b. Shufay
 al-Hamdani al-Thawri: ***Thiqah*** **(trustworthy)**, a jurist, a great
@@ -157,18 +121,14 @@ Taymiyyah claims that ‘Umar was more ascetic than ‘Ali. Let us test the
 submission against reality. We open the investigation with this *athar*
 from *Sahih al-Bukhari*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن سلام أخبرنا مخلد بن يزيد أخبرنا ابن جريج قال أخبرني عطاء
-عن عبيد الله بن عمير :أن أبا موسى الأشعري استأذن على عمر بن الخطاب رضي
-الله عنه فلم يؤذن له وكأنه كان مشغولا فرجع أبو موسى ففرغ عمر فقال ألم
-أسمع صوت عبد الله بن قيس ائذنوا له . قيل قد رجع فدعاه فقال كنا نؤمر
-بذلك . فقال تأتيني على ذلك بالبينة فانطلق إلى مجلس الأنصار فسألهم
-فقالوا لا يشهد على هذا إلا أصغرنا أبو سعيد الخدري فذهب بأبي سعيد
-الخدري فقال عمر أخفي هذا علي من أمر رسول الله صلى الله عليه و سلم ؟
-ألهاني الصفق بالأسواق . يعني الخروج إلى تجارة
-  </p>
-</blockquote>
+> حدثنا محمد بن سلام أخبرنا مخلد بن يزيد أخبرنا ابن جريج قال أخبرني عطاء
+> عن عبيد الله بن عمير :أن أبا موسى الأشعري استأذن على عمر بن الخطاب رضي
+> الله عنه فلم يؤذن له وكأنه كان مشغولا فرجع أبو موسى ففرغ عمر فقال ألم
+> أسمع صوت عبد الله بن قيس ائذنوا له . قيل قد رجع فدعاه فقال كنا نؤمر
+> بذلك . فقال تأتيني على ذلك بالبينة فانطلق إلى مجلس الأنصار فسألهم
+> فقالوا لا يشهد على هذا إلا أصغرنا أبو سعيد الخدري فذهب بأبي سعيد
+> الخدري فقال عمر أخفي هذا علي من أمر رسول الله صلى الله عليه و سلم ؟
+> ألهاني الصفق بالأسواق . يعني الخروج إلى تجارة
 
 Muhammad b. Salam – Mukhlid b. Yazid – Ibn Jurayh – ‘Aṭa – ‘Ubayd Allah
 b. ‘Umayr:
@@ -189,19 +149,15 @@ busy trading in markets**.”[^10]
 
 Imam Muslim (d. 261 H) records another report with some more details:
 
-<blockquote dir="rtl">
-  <p>
-حدثني عمرو بن محمد بن بكير الناقد حدثنا سفيان بن عيينة حدثنا والله
-يزيد بن حصيفة عن بسر بن سعيد قال سمعت أبا سعيد الخدري يقول كنت جالسا
-بالمدينة في مجلس الأنصار فأتانا أبو موسى فزعا أو مذعورا قلنا ما شأنك ؟
-قال إن عمر أرسل إلي أن آتيه فأتيت بابه فسلمت ثلاثا فلم يرد علي فرجعت
-فقال ما منعك أن تأتينا ؟ فقلت إني أتيت فسلمت على بابك ثلاثا فلم يردوا
-علي فرجعت وقد قال رسول الله صلى الله عليه و سلم إذا استأذن أحدكم ثلاثا
-فلم يؤذن له فليرجع فقال عمر أقم عليه البينة وإلا أوجعتك فقال أبي بن
-كعب لا يقوم معه إلا أصغر القوم قال أبو سعيد قلت أنا أصغر القوم قال
-فاذهب به
-  </p>
-</blockquote>
+> حدثني عمرو بن محمد بن بكير الناقد حدثنا سفيان بن عيينة حدثنا والله
+> يزيد بن حصيفة عن بسر بن سعيد قال سمعت أبا سعيد الخدري يقول كنت جالسا
+> بالمدينة في مجلس الأنصار فأتانا أبو موسى فزعا أو مذعورا قلنا ما شأنك ؟
+> قال إن عمر أرسل إلي أن آتيه فأتيت بابه فسلمت ثلاثا فلم يرد علي فرجعت
+> فقال ما منعك أن تأتينا ؟ فقلت إني أتيت فسلمت على بابك ثلاثا فلم يردوا
+> علي فرجعت وقد قال رسول الله صلى الله عليه و سلم إذا استأذن أحدكم ثلاثا
+> فلم يؤذن له فليرجع فقال عمر أقم عليه البينة وإلا أوجعتك فقال أبي بن
+> كعب لا يقوم معه إلا أصغر القوم قال أبو سعيد قلت أنا أصغر القوم قال
+> فاذهب به
 
 ‘Amr b. Muhammad b. Bukayr al-Naqid – Sufyan b. ‘Uyaynah –Yazid b.
 Husayfah – Busr b. Sa’id – Abu Sa’id al-Khudri:
@@ -240,15 +196,11 @@ was clueless about even some of the most basic Sunnahs.
 Apparently, money had more priority over the Sunnah in the sight of
 ‘Umar. What about ‘Ali? Al-Hafiz Ibn Kathir states:
 
-<blockquote dir="rtl">
-  <p>
-قال شعبة بن الحجاج ، عن سِمَاك ، عن خالد بن عَرْعَرَة أنه سمع عليا
-وشعبة أيضًا ، عن القاسم بن أبي بزَّة ، عن أبي الطُّفَيْل ، سمع عليًا.
-وثبت أيضًا من غير وجه ، عن أمير المؤمنين علي بن أبي طالب : أنه صعد
-منبر الكوفة فقال : لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول
-الله ، إلا أنبأتكم بذلك.
-  </p>
-</blockquote>
+> قال شعبة بن الحجاج ، عن سِمَاك ، عن خالد بن عَرْعَرَة أنه سمع عليا
+> وشعبة أيضًا ، عن القاسم بن أبي بزَّة ، عن أبي الطُّفَيْل ، سمع عليًا.
+> وثبت أيضًا من غير وجه ، عن أمير المؤمنين علي بن أبي طالب : أنه صعد
+> منبر الكوفة فقال : لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول
+> الله ، إلا أنبأتكم بذلك.
 
 Shu’bah b. al-Hajjaj, from Simak, from Khalid b. ‘Ar’arah that he heard
 ‘Ali; and Shu’bah again narrated from al-Qasim b. Abi Barrah from Abu
@@ -268,13 +220,9 @@ conclusion that ‘Umar was more ascetic or more knowledgeable than ‘Ali!
 As a final point, let us compare both ‘Umar and ‘Ali from another angle.
 Imam Ibn Shabah (d. 262 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا موسى بن إسماعيل قال حدثنا سلام بن أبي مطيع عن أيوب قال قلت لنافع
-هل كان على عمر رضي الله عنه دين فقال ومن أين يدع عمر دينا وقد باع رجل
-من ورثته ميراثه بمائة ألف .
-  </p>
-</blockquote>
+> حدثنا موسى بن إسماعيل قال حدثنا سلام بن أبي مطيع عن أيوب قال قلت لنافع
+> هل كان على عمر رضي الله عنه دين فقال ومن أين يدع عمر دينا وقد باع رجل
+> من ورثته ميراثه بمائة ألف .
 
 Musa b. Isma’il – Salam b. Abi Muṭi’ – Ayub:
 
@@ -285,14 +233,10 @@ a man from his inheritors sold his inheritance for 100,000
 
 Al-Hafiz has this to say about the report:
 
-<blockquote dir="rtl">
-  <p>
-فروى عمر بن شبة في كتاب المدينة بإسناد صحيح ان نافعا قال من أين يكون
-على عمر دين وقد باع رجل من ورثته ميراثه بمائة الف انتهى وهذا لا ينفي
-ان يكون عند موته عليه دين فقد يكون الشخص كثير المال ولا يستلزم نفي
-الدين عنه فلعل نافعا أنكر ان يكون دينه لم يقض
-  </p>
-</blockquote>
+> فروى عمر بن شبة في كتاب المدينة بإسناد صحيح ان نافعا قال من أين يكون
+> على عمر دين وقد باع رجل من ورثته ميراثه بمائة الف انتهى وهذا لا ينفي
+> ان يكون عند موته عليه دين فقد يكون الشخص كثير المال ولا يستلزم نفي
+> الدين عنه فلعل نافعا أنكر ان يكون دينه لم يقض
 
 ‘Umar b. Shabah recorded in *Kitab al-Madinah* **with a** ***sahih***
 **chain** that Nafi’ said, “From where can ‘Umar claim to have any debt
@@ -312,14 +256,10 @@ daughters, her inheritance would be half of that, which is US $9, 650000
 many were ‘Umar’s children who survived him? Al-Hafiz Ibn Kathir states
 about ‘Umar b. al-Khaṭṭab:
 
-<blockquote dir="rtl">
-  <p>
-قلت: فجملة أولاده رضي الله عنه وأرضاه ثلاثة عشر ولدا، وهم زيد الأكبر،
-وزيد الأصغر، وعاصم، وعبد الله، وعبد الرحمن الأكبر، وعبد الرحمن الأوسط،
-قال الزبير بن بكار وهو أبو شحمة، وعبد الرحمن الأصغر وعبيد الله، وعياض،
-وحفصة، ورقية، وزينب، وفاطمة، رضي الله عنهم.
-  </p>
-</blockquote>
+> قلت: فجملة أولاده رضي الله عنه وأرضاه ثلاثة عشر ولدا، وهم زيد الأكبر،
+> وزيد الأصغر، وعاصم، وعبد الله، وعبد الرحمن الأكبر، وعبد الرحمن الأوسط،
+> قال الزبير بن بكار وهو أبو شحمة، وعبد الرحمن الأصغر وعبيد الله، وعياض،
+> وحفصة، ورقية، وزينب، وفاطمة، رضي الله عنهم.
 
 I (Ibn Kathir) say: In summary, **his (i.e. ‘Umar’s) children, may Allah
 be pleased with him, were thirteen**, and they were Zayd al-Akbar, Zayd
@@ -333,12 +273,8 @@ females. So, there were nine males. Of his children generally, one of
 them – Abu Shahmah – died during his lifetime. Ibn ‘Abd al-Barr (d. 463
 H) explains the circumstances of his death:
 
-<blockquote dir="rtl">
-  <p>
-وعبد الرحمن بن عمر الأوسط هو أبو شحمة هو الذي ضربه عمرو بن العاص بمصر
-في الخمر ثم حمله إلى المدينة فضربه أبوه أدب الوالد ثم مرض ومات بعد شهر
-  </p>
-</blockquote>
+> وعبد الرحمن بن عمر الأوسط هو أبو شحمة هو الذي ضربه عمرو بن العاص بمصر
+> في الخمر ثم حمله إلى المدينة فضربه أبوه أدب الوالد ثم مرض ومات بعد شهر
 
 ‘Abd al-Rahman b. ‘Umar al-Awsaṭ was Abu Shahmah. He was the one who was
 beaten in Egypt by ‘Amr b. al-As for alcohol drinking. Then, he took him
@@ -382,16 +318,12 @@ So, what about Amir al-Muminin ‘Ali? Was he really worldlier than ‘Umar,
 as claimed by Shaykh Ibn Taymiyyah? Imam Ahmad b. Hanbal (d. 241 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا وكيع عن إسرائيل عن أبي إسحاق عن عمرو بن
-حبشي قال خطبنا الحسن بن علي بعد قتل علي رضي الله عنهما فقال: لقد
-فارقكم رجل بالأمس ما سبقه الأولون بعلم ولا أدركه الآخرون ان كان رسول
-الله صلى الله عليه و سلم ليبعثه ويعطيه الراية فلا ينصرف حتى يفتح له
-وما ترك من صفراء ولا بيضاء الا سبعمائة درهم من عطائه كان يرصدها لخادم
-لأهله
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا وكيع عن إسرائيل عن أبي إسحاق عن عمرو بن
+> حبشي قال خطبنا الحسن بن علي بعد قتل علي رضي الله عنهما فقال: لقد
+> فارقكم رجل بالأمس ما سبقه الأولون بعلم ولا أدركه الآخرون ان كان رسول
+> الله صلى الله عليه و سلم ليبعثه ويعطيه الراية فلا ينصرف حتى يفتح له
+> وما ترك من صفراء ولا بيضاء الا سبعمائة درهم من عطائه كان يرصدها لخادم
+> لأهله
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Waki’ – Israil –
 Abu Ishaq – ‘Amr b. Habashi:
@@ -408,11 +340,7 @@ with it a servant for his family.”[^18]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^19]
 
@@ -498,5 +426,4 @@ Muasassat Qurtubah) [annotator: Shu’ayb al-Arnaut], vol. 1, p. 199, \#
 [^19]: Ibid
 
 [^20]: See http://www.e-nisab.com/calculator
-
 

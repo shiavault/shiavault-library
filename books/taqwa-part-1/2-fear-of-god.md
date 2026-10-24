@@ -8,18 +8,14 @@ perfection and the best source for a human being to love. The concept of
 human beings having to fear God actually refers to fearing the rule of
 divine justice. This notion is seen in the following supplication:
 
-<p dir="rtl">
 يا من لا يرجی الا فضله ، و لا يخاف الا عدله
-</p>
 
 O Who is not hoped but for His favour, and is not feared but His
 justice.1
 
 The notion of fearing His justice is seen in another supplication:
 
-<p dir="rtl">
 جللت ان يخاف منك الاالعدل، و ان يرجی منك الا الاحسان و الفضل
-</p>
 
 You are too great to be feared but Your justice, and to hoped but for
 Your beneficence and favour.2
@@ -37,11 +33,8 @@ hopeful and confident in God, and to rely on God who will always help
 him. Imam Ali ibn Husayn (a) states in the well-known Du‘a of*Abu amzah
 Thūmālī:*
 
-<p dir="rtl">
 إذا رأيت مولاي ذنوبي فزعت و إذا رأيت كرمك طمعت
-</p>
 
 O My Lord! When I look at the sins I have committed, I become fearful
 and when I look at Your generosity, I harbour hope.3
-
 

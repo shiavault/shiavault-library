@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضاً حَسَناً
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضاً حَسَناً
 
 ***“Who is it that will lend unto Allah a goodly loan…”***[^1]
 
 Imam Sadiq (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَكْتُوبٌ عَلَى بَابِ الْجَنَّةِ الصَّدَقَةُ بِعَشَرَةٍ وَ الْقَرْضُ
-بِثَمَانِيَةَ عَشَرَ
-  </p>
-</blockquote>
+> مَكْتُوبٌ عَلَى بَابِ الْجَنَّةِ الصَّدَقَةُ بِعَشَرَةٍ وَ الْقَرْضُ
+> بِثَمَانِيَةَ عَشَرَ
 
 ***“It is written upon the door of Paradise: The reward for (giving)
 charity is ten times and that of (extending) loans is eighteen
@@ -46,12 +38,8 @@ afflicted with poverty and indigence.
 
 When the verse,
 
-<blockquote dir="rtl">
-  <p>
-مَّن ذَا الَّذِى يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-أَضْعَافًا كَثِيرَة
-  </p>
-</blockquote>
+> مَّن ذَا الَّذِى يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> أَضْعَافًا كَثِيرَة
 
 ***“Who is it that will lend unto Allah a goodly loan, so that He may
 give it increase manifold?”***[^3]*,*
@@ -202,5 +190,4 @@ the enemies of Islam for God is your Helper. Safinah al-Bihaar, under
 [^8]: Namunah-e-Ma’arif, vol. 5, pg. 253; L’aali al-Akhbaar.
 
 [^9]: Safinah al-Bihaar, vol. 1, pg. 477.
-
 

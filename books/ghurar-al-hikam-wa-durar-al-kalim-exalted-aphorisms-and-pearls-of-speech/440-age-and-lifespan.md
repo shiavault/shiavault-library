@@ -7,11 +7,7 @@ Age And Lifespan
 beings and warns them is sixty years.
 
 > 1ـ اَلعُمْرُ الَّذي أعْذَرَ اللّهُ سُبْحانَهُ فيهِ إلَى ابْنِ آدَمَ
-<blockquote dir="rtl">
-  <p>
-وأنْذَرَ، السِّتُّونَ.
-  </p>
-</blockquote>
+> وأنْذَرَ، السِّتُّونَ.
 
 2. The age in which a person reaches maturity is forty.
 
@@ -21,31 +17,19 @@ beings and warns them is sixty years.
 you, for that which has passed from it does not return.
 
 > 3ـ إحْذَرُوا ضِياعَ الأعْمارِ فيما لايَبْقى لَكُمْ، فَفائِتُها
-<blockquote dir="rtl">
-  <p>
-لايَعُودُ.
-  </p>
-</blockquote>
+> لايَعُودُ.
 
 4. Verily your lifetime is the dower of your prosperity if you spend it
 in obedience to your Lord.
 
 > 4ـ إنَّ عُمْرَكَ مَهْرُ سَعادَتِكَ، إنْ أنْفَذْتَهُ (أنْفَدْتَهُ) في
-<blockquote dir="rtl">
-  <p>
-طاعَةِ رَبِّكَ.
-  </p>
-</blockquote>
+> طاعَةِ رَبِّكَ.
 
 5. Verily your breaths are portions of your life, so do not use them up
 except in the obedience that brings you closer [to Allah].
 
 > 5ـ إنَّ أنْفاسَكَ أجْزاءُ عُمْرِكَ، فَلا تُفْنِها إلاّ في طاعَة
-<blockquote dir="rtl">
-  <p>
-تُزْلِفُكَ.
-  </p>
-</blockquote>
+> تُزْلِفُكَ.
 
 6. Verily your lifetime is the time which you find yourself in.
 
@@ -69,21 +53,13 @@ is hope, and the present is [time for] action.
 dismantled every hour must be regarded as very short.
 
 > 10ـ إنَّ غايَةً تَنْقُصُهَا اللَّحْظَةُ، وتَهْدِمُهَا السّاعَةُ،
-<blockquote dir="rtl">
-  <p>
-لَحَرِيَّةٌ بِقَصْرِ المُدَّةِ.
-  </p>
-</blockquote>
+> لَحَرِيَّةٌ بِقَصْرِ المُدَّةِ.
 
 11. Indeed deceived is the one who is deluded with regards to his life
 and enviable is one who spends his life in the obedience of his Lord.
 
 > 11ـ إنَّ المَغْبُونَ مَنْ غَبِنَ عُمْرَهُ، وإنَّ المَغْبُوطَ مَنْ
-<blockquote dir="rtl">
-  <p>
-أنْفَذَ عُمْرَهُ في طاعَةِ رَبِّهِ.
-  </p>
-</blockquote>
+> أنْفَذَ عُمْرَهُ في طاعَةِ رَبِّهِ.
 
 12. The lifespan [of a person] is [made up of] a specific number of
 breaths.
@@ -99,11 +75,7 @@ passing of] hours?!
 remains from the lifetime of a believer.
 
 > 14ـ لَيْسَ شَـيْءٌ أعَزَّ مِنَ الكِبْرِيتِ الأحْمَرِ إلاّ ما بَقِيَ
-<blockquote dir="rtl">
-  <p>
-مِنْ عُمْرِ المُؤْمِنِ.
-  </p>
-</blockquote>
+> مِنْ عُمْرِ المُؤْمِنِ.
 
 15. One whose life is long, his tribulations become many.
 
@@ -147,10 +119,5 @@ man of truth.
 and obedience [to Allah].
 
 > 23ـ اِحْفَظْ عُمْرَكَ مِنَ التَّضْييعِ لَهُ في غَيْرِ العِبادَةِ
-<blockquote dir="rtl">
-  <p>
-والطّاعاتِ.
-  </p>
-</blockquote>
-
+> والطّاعاتِ.
 

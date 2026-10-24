@@ -411,4 +411,3 @@ commitment and is exclusively based on psychological aspects. It
 expressly says that Imam, especially the Hidden Imam meets the spiritual
 requirement of man, who needs a leader.
 
-

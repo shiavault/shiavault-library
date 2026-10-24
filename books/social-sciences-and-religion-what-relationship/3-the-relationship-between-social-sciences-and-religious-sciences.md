@@ -578,4 +578,3 @@ science who are well informed about the place of revelation as a source
 of knowledge, and who are also well aware of psychological and social
 realities when studying any phenomena related to their field.
 
-

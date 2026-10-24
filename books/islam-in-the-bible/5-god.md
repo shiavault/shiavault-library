@@ -276,4 +276,3 @@ issues. Be that as it may, they are agreed on the unity of God. James
 In sum, a large segment of the Bible serves to confirm the truth that
 God is one, unique, incomparable and without associate.
 
-

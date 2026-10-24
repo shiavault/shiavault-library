@@ -4,29 +4,13 @@ Section 1: Zachariah and John
 Surah Maryam – Verses 1 - 3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-كهيعص
-  </p>
-</blockquote>
+> كهيعص
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرُ رَحْمَتِ رَبّـِكَ عَبْدَهُ زَكَرِيَّآ
-  </p>
-</blockquote>
+> ذِكْرُ رَحْمَتِ رَبّـِكَ عَبْدَهُ زَكَرِيَّآ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ نَادَي رَبَّهُ نِدَآءً خَفِيّاً
-  </p>
-</blockquote>
+> إِذْ نَادَي رَبَّهُ نِدَآءً خَفِيّاً
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -94,19 +78,11 @@ sufficient. [^2]
 Surah Maryam – Verses 4 - 5
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ إِنّـِي وَهَنَ الْعَظْمُ مِنّـِي وَاشْتَعَلَ الرَّأْسُ
-شَيْباً وَلَمْ أَكُن بِدُعَآئِكَ رَبّ‌ِ شَقِيّاً
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ إِنّـِي وَهَنَ الْعَظْمُ مِنّـِي وَاشْتَعَلَ الرَّأْسُ
+> شَيْباً وَلَمْ أَكُن بِدُعَآئِكَ رَبّ‌ِ شَقِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَإِنّـِي خِفْتُ الْمَوَالِيَ مِن وَرَآءِي وَكَانَتِ امْرَأَتِي
-عَاقِراً فَهَبْ لِي مِن لَّدُنكَ وَلِيّاً
-  </p>
-</blockquote>
+> وَإِنّـِي خِفْتُ الْمَوَالِيَ مِن وَرَآءِي وَكَانَتِ امْرَأَتِي
+> عَاقِراً فَهَبْ لِي مِن لَّدُنكَ وَلِيّاً
 
 ***4. “He said: ‘My Lord! verily my bones are weakened and my head is
 all aflame with hoariness, and, my Lord! I have never been unblessed in
@@ -158,25 +134,13 @@ anxiety was about his uncle and his cousins.[^3]
 Surah Maryam – Verses 6 - 8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَرِثُنِي وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ وَاجْعَلْهُ رَبّ‌ِ رَضِيّاً
-  </p>
-</blockquote>
+> يَرِثُنِي وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ وَاجْعَلْهُ رَبّ‌ِ رَضِيّاً
 
-<blockquote dir="rtl">
-  <p>
-يَا زَكَرِيَّآ إِنَّا نُبَشّـِرُكَ بِغُلاَمٍ اسْمُهُ يَحْيَي لَمْ
-نَجْعَل لَّهُ مِن قَبْلُ سَمِيّاً
-  </p>
-</blockquote>
+> يَا زَكَرِيَّآ إِنَّا نُبَشّـِرُكَ بِغُلاَمٍ اسْمُهُ يَحْيَي لَمْ
+> نَجْعَل لَّهُ مِن قَبْلُ سَمِيّاً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ أَنَّي يَكُونُ لِي غُلاَمٌ وَكَانَتِ امْرَأَتِي عَاقِراً
-وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيّاً
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ أَنَّي يَكُونُ لِي غُلاَمٌ وَكَانَتِ امْرَأَتِي عَاقِراً
+> وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيّاً
 
 ***6. “(One that) shall be my inheritor and the inheritor of the
 posterity of Jacob; and make him, my Lord, well-pleasing.”***  
@@ -301,19 +265,11 @@ glad tidings was given and when the birth of Yahya occurred.[^6]
 Surah Maryam – Verses 9 - 10
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيّـِنٌ وَقَدْ خَلَقْتُكَ
-مِن قَبْلُ وَلَمْ تَكُ شَيْئاً
-  </p>
-</blockquote>
+> قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيّـِنٌ وَقَدْ خَلَقْتُكَ
+> مِن قَبْلُ وَلَمْ تَكُ شَيْئاً
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ اجْعَل لّـِي ءَايَةً قَالَ ءَايَتُكَ أَلاَّ تُكَلّـِمَ
-النَّاسَ ثَلاَثَ لَيَالٍ سَوِيّاً
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ اجْعَل لّـِي ءَايَةً قَالَ ءَايَتُكَ أَلاَّ تُكَلّـِمَ
+> النَّاسَ ثَلاَثَ لَيَالٍ سَوِيّاً
 
 ***9. “He said: ‘So (it will be)’. Your Lord says: ‘It is easy for Me,
 for indeed I created you aforetime when you were nothing’.”***  
@@ -398,12 +354,8 @@ speak even when we are in a complete health.
 Surah Maryam – Verse 11
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَخَرَجَ عَلَي قَوْمِهِ مِنَ الْمِـحْرَابِ فَاَوْحَي إِلَيْهِمْ أَن
-سَبّـِحُوا بُكْرَةً وَعَشِيّاً
-  </p>
-</blockquote>
+> فَخَرَجَ عَلَي قَوْمِهِ مِنَ الْمِـحْرَابِ فَاَوْحَي إِلَيْهِمْ أَن
+> سَبّـِحُوا بُكْرَةً وَعَشِيّاً
 
 ***11. “Then he went out (of the sanctuary) unto his people and made
 signs unto them that they should glorify (Allah) morning and
@@ -457,17 +409,9 @@ me than one thousand units (rak‘ah) of prayer in a day.”*[^10]
 Surah Maryam – Verses 12 - 13
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا يَحْيَي خُذِ الْكِتَابَ بِقُوَّةٍ وءَاتَيْنَاهُ الْحُكْمَ صَبِيّاً
-  </p>
-</blockquote>
+> يَا يَحْيَي خُذِ الْكِتَابَ بِقُوَّةٍ وءَاتَيْنَاهُ الْحُكْمَ صَبِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَحَنَاناً مِن لَّدُنَّا وَزَكَاةً وَكَانَ تَقِيّاً
-  </p>
-</blockquote>
+> وَحَنَاناً مِن لَّدُنَّا وَزَكَاةً وَكَانَ تَقِيّاً
 
 ***12. “‘O’ Yahya! Take hold of the Book with might.’ And We gave him
 wisdom (apostleship) while yet a child.”***  
@@ -540,18 +484,10 @@ people, all of which were from the Grace of Allah and His Mercy.
 Surah Maryam – Verses 14 - 15
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَبَرَّا بِوَالِدَيْهِ وَلَمْ يَكُن جَبَّاراً عَصِيّاً
-  </p>
-</blockquote>
+> وَبَرَّا بِوَالِدَيْهِ وَلَمْ يَكُن جَبَّاراً عَصِيّاً
 
-<blockquote dir="rtl">
-  <p>
-وَسَلاَمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ
-حَيّاً
-  </p>
-</blockquote>
+> وَسَلاَمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ
+> حَيّاً
 
 ***14. “And kindness to his parents, and (unto the people) he was
 neither insolent (nor) disobedient.”***  
@@ -674,5 +610,4 @@ Turah. Yahya scorned him for that action. Them that woman, by misusing
 the beauty of her daughter, caused Herod to kill Yahya (John). (The
 Gospel according to ST. Matthew, Chapter 14; and accrding to ST. Mark,
 Chapter 6, No. 17 on)
-
 

@@ -434,4 +434,3 @@ they demanded my blood I fled. By Allâh, this traitor and rebel group
 will definitely kill me, and Allâh will surely make them wear clothes of
 disgrace, and will make the sword rule over them."
 
-

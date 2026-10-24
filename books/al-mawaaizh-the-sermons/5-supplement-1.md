@@ -1,13 +1,11 @@
 Supplement 1
 ============
 
-<p dir="rtl">
 يا عليّ، ما أحد من الأوّلين والآخرين إلاّ وهو يتمنّى يوم القيامة إنّه
 لم يعط من الدنيا إلاّ قوتاً. يا عليّ، شرّ الناس من اتّهم الله في قضائه.
 يا عليّ، أنين المؤمن تسبيح، وصياحه تهليل، ونومه على الفراش عبادة،
 وتقلّبه من جنب إلى جنب جهاد في سبيل الله. فإن عوفي مشى وما عليه من ذنب.
 يا عليّ، لو اُهدي إليَّ كراع لقبلت، ولو دعيت إلى كراع لأجبت.
-</p>
 
 O Ali, on the Day of Resurrection, every individual, including all the
 past and the coming generations, will hope were they given only the
@@ -55,7 +53,6 @@ before they obtain their permission and avoid passing a single night
 while their husbands are angry at them even the husbands were the
 wrong.
 
-<p dir="rtl">
 يا عليّ، الإسلام عريان ولباسه الحياء، وزينته الوقار، ومروّته العمل
 الصالح، وعماده الورع.
 ولكلّ شيء أساس، وأساس الإسلام حبّنا أهل البيت.
@@ -65,7 +62,6 @@ wrong.
 يا عليّ، من كذب عليَّ متعمّداً فليتبوّأ مقعده من النار.
 يا عليّ، ثلاث يزدن في الحفظ، ويذهبن البلغم: اللبان والسواك وقراءة
 القرآن.
-</p>
 
 O Ali, Islam is naked; pudency is its dress, gravity is its ornament,
 righteous deed is its personality, and piety is its support. Everything
@@ -82,7 +78,6 @@ O Ali, three things better the memory and remove the phlegm: chewing
 gum, cleaning the teeth (with a special stick called 'miswak'), and
 reciting the Quran.
 
-<p dir="rtl">
 يا عليّ، السواك من السنّة، ومطهّر للفم، ويجلو البصر، ويرضي الرحمن،
 ويبيّض الأسنان، ويذهب بالحفر، ويشدّ اللثّة، ويشهّي الطعام، ويذهب
 بالبلغم، ويزيد في الحفظ، ويزاد الحسنات، وتفرح به الملائكة. يا عليّ،
@@ -90,7 +85,6 @@ reciting the Quran.
 أيمانهم، ونوم الكفّار والمنافقين على أيسارهم، ونوم الشياطين على وجوههم.
 يا عليّ، ما بعث الله عزّ وجلّ نبيّاً إلاّ وجعل ذرّيّته من صلبه، وجعل
 ذرّيّتي من صلبك، ولولاك ما كانت لي ذرّيّة.
-</p>
 
 O Ali, cleaning the teeth (with a special stick called 'miswak') is a
 recommendable practice, for it purifies the mouth, betters the sight,
@@ -107,7 +101,6 @@ selects the progeny of every messenger that He chooses from that
 messenger's descendants, but He selects my progeny from your
 descendants. Without you, I would not have progeny.
 
-<p dir="rtl">
 يا عليّ، أربعة من قواصم الظهر: إمام يعصي الله عزّ وجلّ ويطاع أمره،
 وزوجة يحفظها زوجها وهي تخونه، وفقر لا يجد صاحبه مداوياً، وجار سوء في دار
 المقام.
@@ -118,7 +111,6 @@ descendants. Without you, I would not have progeny.
 ووجد كنزاً فأخرج منه الخمس وتصدّق به، فأنزل الله عزّ وجلّ: (وَاعْلَمُوا
 أنَّمَا غَنِمْتُم مِن شَيء فَأنّ للهِ خُمْسَهُ وَلِلْرَّسُولِ وَلِذِي
 الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ...)
-</p>
 
 O Ali, four matters deal a death blow: a leader who is obeyed while he
 disobeys Allah, a wife who betrays her husband while he considers her, a
@@ -132,7 +124,6 @@ one-fifth as alms. Allah revealed: "Know that whatever property you may
 gain, one fifth belongs to Allah, the Messenger, the kindred, orphans,
 the needy and those who need money while on a journey." (8:41)
 
-<p dir="rtl">
 ولمّا حفر بئر زمزم سمّاها سقاية الحاجّ، فأنزل الله تبارك وتعالى:
 (أَجَعَلْتُم سِقَايَةَ الحَاجِّ وَعِمَارَةَ المَسْجِدِ الْحَرَامِ كَمَنْ
 آمَنَ بِاللهِ وَاليَوْمِ الآخِرِ وَجَاهَدَ فِي سَبِيلِ اللّهِ...) وسنّ
@@ -141,7 +132,6 @@ the needy and those who need money while on a journey." (8:41)
 وجلّ ذلك في الإسلام. يا عليّ، إنّ عبد المطّلب كان لا يستقسم بالأزلام،
 ولا يعبد الأصنام، ولا يأكل ما ذبح على النصب، ويقول: أنا على دين أبي
 إبراهيم عليه السلام.
-</p>
 
 When he dug the Zamzam spring, he called it 'the watering of the
 pilgrims'. Allah revealed: "Do you, because you served water to the
@@ -157,7 +147,6 @@ and gambling arrows, worshipping the idols, and having the flesh of an
 animal that had been sacrificed on the stone blocks. He used to say: I
 follow the religion of my father Abraham the prophet (a).
 
-<p dir="rtl">
 يا عليّ، أعجب الناس إيماناً وأعظمهم يقيناً قوم يكونون في آخر الزمان، لم
 يلحقوا النبيّ صلى الله عليه وآله وسلم، وحجب عنهم الحجّة فآمنوا بسواد على
 بياض. يا عليّ، ثلاثة يقسين القلب: استماع اللّهو وطلب الصيد وإتيان باب
@@ -165,7 +154,6 @@ follow the religion of my father Abraham the prophet (a).
 تصلّ في ذات الجيش ولا في ذات الصلاصل ولا في ضجنان. يا عليّ، كل من البيض
 وما اختلف طرفاه، ومن السمك ما كان له قشر، ومن الطير ما رفّ واترك منه ما
 صف، وكل من طير الماء ما كانت له قانصة أو صيصية.
-</p>
 
 O Ali, the people of the most admirable faith and the greatest
 conviction are those who will live in the last of time: they did not
@@ -186,14 +174,12 @@ are still, and the waterfowls that have gizzards or back nails.
 18. These are three areas near Mecca. Many narratives confirmed that
 these places were sunk down.
 
-<p dir="rtl">
 يا عليّ، كلّ ذي ناب من السّباع ومخلب من الطير فحرام لا تأكله. يا عليّ،
 لا قطع في ثمر، ولا كنز. يا عليّ، ليس على زان عقر، ولا حدّ في التعريض،
 ولا شفاعة في حدّ، ولا يمين في قطيعة رحم، ولا يمين لولد مع والده، ولا
 لامرأة مع زوجها، ولا لعبد مع مولاه، ولا صمت يومٍ إلى الليل، ولا وصال في
 الصيام، ولا تعرّب بعد هجرة. يا عليّ، لا يقتل والد بولده. يا عليّ، لا
 يقبل الله تعالى دعاء قلبٍ ساهٍ.
-</p>
 
 It is unlawful to have the meat of any beast that has a canine tooth or
 any bird that has a claw. O Ali, it is unacceptable to offer fruits or
@@ -216,7 +202,6 @@ inattentive heart.
 19. In al-Faqih and al-Bihar, the word 'spadix' replaces the word
 'treasure'.
 
-<p dir="rtl">
 يا عليّ، نوم العالم أفضل من عبادة العابد. يا عليّ، ركعتين يصلّيهما
 العالم أفضل من ألف ركعة يصلّيها العابد. يا عليّ، لا تصوم المرأة تطوّعاً
 إلاّ بإذن زوجها، ولا يصوم العبد تطوّعاً إلاّ بإذن مولا ه، ولا يصوم الضيف
@@ -224,7 +209,6 @@ inattentive heart.
 حرام، وصوم الوصال حرام، وصوم الصمت حرام، وصوم نذر المعصية حرام، وصوم
 الدهر حرام. يا عليّ، في الزّنا ست خصال: ثلاث منها في الدنيا وثلاث منها
 في الآخرة.
-</p>
 
 O Ali, the sleep of the knowledgeable is better than the rituals of the
 (unknowing) worshipper.
@@ -241,14 +225,12 @@ lifetime.
 O Ali, fornication causes six bad consequences; three are in this world
 and the others are in the world to come.
 
-<p dir="rtl">
 فأمّا الّتي في الدنيا فيذهب بالبهاء، ويعجّل الفناء، ويقطع الرزق. وأمّا
 الّتي في الآخرة فسوء الحساب، وسخط الرحمن، والخلود في النار. يا عليّ،
 الربا سبعون جزءاً فأيسره، مثل أن ينكح الرّجل اُمّه في بيت الله الحرام.
 يا عليّ، درهم ربا أعظم عند الله عزّ وجلّ من سبعين زنية كلّها بذات محرم
 في بيت الله الحرام. يا عليّ، مَن منع قيراطاً من زكاة ماله، فليس بمؤمن
 ولا بمسلم، ولا كرامة.
-</p>
 
 Regarding the three of this world, it takes away the brightness,
 hastens the perdition, and stops the sustenance. Regarding the three
@@ -263,7 +245,6 @@ than seventy times of commitment of incest inside the Holy House of
 Allah. O Ali, he who refuses to pay a single carat of the zakat of his
 estate is definitely neither believer nor Muslim.
 
-<p dir="rtl">
 يا عليّ، تارك الزكاة يسأل الله الرجعة إلى الدنيا، وذلك قول الله عزّ
 وجلّ: (حَتّى إذَا جَاءَ أَحَدَكُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ
 لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ كَلَّا إِنَّهَا كَلِمَةٌ هُوَ
@@ -273,7 +254,6 @@ estate is definitely neither believer nor Muslim.
 فَإِنَّ اللهَ غَنِيٌّ عَنِ الْعَالَمِينَ). يا عليّ، مَن سوّف الحجّ حتّى
 يموت، بعثه الله يوم القيامة يهوديّاً أو نصرانيّاً. يا عليّ، الصدقة تردّ
 البلاء الّذي قد أبرم إبراما.
-</p>
 
 O Ali, those who neglect to defray the zakat will ask Allah to take
 them back to the world. They are the intendeds in Allah's saying: "When
@@ -290,7 +270,6 @@ perform the hajj until he dies, Allah will reckon him with the Jews or
 the Christians on the Day of Resurrection. O Ali, almsgiving stops the
 act of Allah that is finally determined.
 
-<p dir="rtl">
 يا عليّ، صلة الرّحم تزيد في العمر.
 يا عليّ، افتتح بالملح واختم بالملح، فإنّ فيه شفاء من إثنين وسبعين
 داء.
@@ -301,7 +280,6 @@ act of Allah that is finally determined.
 يا عليّ، أحسن العقل ما اكتسب به الجنّة وطلب به رضا الرحمن.
 يا عليّ، إنّ أوّل خلق خلقه الله عزّ وجلّ العقل، فقال له: "أقبل" فأقبل.
 ثمّ قال له: "أدبر" فأدبر.
-</p>
 
 O Ali, regard of the kinship increases the age.
 O Ali, begin and end your meals with salt, for it cures from
@@ -325,5 +303,4 @@ a highly Praiseworthy Position." (17:97).
 Prophet's father.
 22. This is an indication to God's saying: "(Abraham prayed) … And
 ordain for me a goodly mention among posterity." (26:84).
-
 

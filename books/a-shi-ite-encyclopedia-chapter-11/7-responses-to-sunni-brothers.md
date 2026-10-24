@@ -180,7 +180,6 @@ then punishes you for it? If Allah (SWT) has created me a Kafir, why
 then should I bother and rectify myself? What difference would it
 make -- I have already been judged?"
 
-
 **Divine Justice and the Problem of Evil**
 
 Throughout the history of thought and action, the justice of God has
@@ -293,5 +292,4 @@ Moral Justice: Do not inflict any suffering on anything else.
 Philosophical justice means that even if the sick screams and
 complains, we should give him the bitter medicine that he needs to take,
 and do the surgery which is for his good.
-
 

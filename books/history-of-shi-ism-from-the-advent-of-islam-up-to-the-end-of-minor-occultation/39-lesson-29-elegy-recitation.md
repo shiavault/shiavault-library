@@ -43,23 +43,11 @@ news of the martyrdom of Imam al-Husayn (*‘a*) reached Medina, Zaynab
 bint ‘Aqil came out wailing amidst the women of Banu Hashim while
 reciting the following poem:
 
-<blockquote dir="rtl">
-  <p>
-ماذا تقولون إذ قال النبي لكم ماذا فعلتم و انتم آخر الامم
-  </p>
-</blockquote>
+> ماذا تقولون إذ قال النبي لكم ماذا فعلتم و انتم آخر الامم
 
-<blockquote dir="rtl">
-  <p>
-بعترتى و باهلي بعد مُفُتَقَدى نصف اسارى و نصف ضُرِّ جُوا بدم
-  </p>
-</blockquote>
+> بعترتى و باهلي بعد مُفُتَقَدى نصف اسارى و نصف ضُرِّ جُوا بدم
 
-<blockquote dir="rtl">
-  <p>
-ما كان هذا جزائي إذ نصحت لكم أن تخلفوني بشرِّ في ذوى رَحِمي
-  </p>
-</blockquote>
+> ما كان هذا جزائي إذ نصحت لكم أن تخلفوني بشرِّ في ذوى رَحِمي
 
 *What shall you say in reply to the Prophet when he will ask from you,
 “O the latter ones of the ummah! What have you done?”*
@@ -80,35 +68,15 @@ and weeping because of her elegies. Even an enemy such as Marwan ibn
 al-Hakam used to weep with of her elegies.[^4] Umm al-Banin was thus
 saying:
 
-<blockquote dir="rtl">
-  <p>
-يا من رأى العباس كر على جماهير النقد
-  </p>
-</blockquote>
+> يا من رأى العباس كر على جماهير النقد
 
-<blockquote dir="rtl">
-  <p>
-وورائه من أبناء حيدر كل ليث ذي لبد
-  </p>
-</blockquote>
+> وورائه من أبناء حيدر كل ليث ذي لبد
 
-<blockquote dir="rtl">
-  <p>
-انبئت أن ابنى اصيب براسه مقطوع يد
-  </p>
-</blockquote>
+> انبئت أن ابنى اصيب براسه مقطوع يد
 
-<blockquote dir="rtl">
-  <p>
-ويل على شبلى اما ل براسه ضرب العمد
-  </p>
-</blockquote>
+> ويل على شبلى اما ل براسه ضرب العمد
 
-<blockquote dir="rtl">
-  <p>
-لوكان سيفك في يد يك لمادنا منك احد
-  </p>
-</blockquote>
+> لوكان سيفك في يد يك لمادنا منك احد
 
 *I wished I saw (with my own eyes) how ‘Abbas was assaulting the groups
 of vile people!*
@@ -129,17 +97,9 @@ and arrived near the city, Imam Zayn al-‘Abidin (*‘a*) dispatched Bashir
 ibn Jadhlam to Medina ahead of them, and Bashir informed the people of
 their arrival in the city through this poem:
 
-<blockquote dir="rtl">
-  <p>
-يا اهل يثرب لامقام لكم بها قتل الحسين فادمعى مدرار
-  </p>
-</blockquote>
+> يا اهل يثرب لامقام لكم بها قتل الحسين فادمعى مدرار
 
-<blockquote dir="rtl">
-  <p>
-الجسم منه بكربلاء مضرّج و الرأس منه على القناة يدار
-  </p>
-</blockquote>
+> الجسم منه بكربلاء مضرّج و الرأس منه على القناة يدار
 
 *O people of Yathrib! No more opportunity for you to stay there.*
 *Husayn was killed; shed your tears.*
@@ -154,29 +114,13 @@ recited poetry about the tribulation of Imam al-Husayn (*‘a*). It has
 been narrated that when Khalid ibn Ma‘dan saw in Sham the Imam’s head on
 top of the spear, he recited this poem:
 
-<blockquote dir="rtl">
-  <p>
-جاؤا برأسك يا ابن بنت محمد مترملاً بدمائه ترميلا
-  </p>
-</blockquote>
+> جاؤا برأسك يا ابن بنت محمد مترملاً بدمائه ترميلا
 
-<blockquote dir="rtl">
-  <p>
-و كانّما بك يا ابن بنت محمد قتلوا جهاراً عامدين رسولاً
-  </p>
-</blockquote>
+> و كانّما بك يا ابن بنت محمد قتلوا جهاراً عامدين رسولاً
 
-<blockquote dir="rtl">
-  <p>
-قتلوك عطشاناً و لم يترقبوا في قتلك التنـزيل و التأويلا
-  </p>
-</blockquote>
+> قتلوك عطشاناً و لم يترقبوا في قتلك التنـزيل و التأويلا
 
-<blockquote dir="rtl">
-  <p>
-و يكبرون بان قتلت و أنّما قتلوا بك التكبير و التهليلا
-  </p>
-</blockquote>
+> و يكبرون بان قتلت و أنّما قتلوا بك التكبير و التهليلا
 
 *O son of the daughter of Muhammad! They have made your head weltering
 in blood.*
@@ -195,11 +139,7 @@ Among the first poets to have recited poetry in lamentation for Imam
 al-Husayn (*‘a*) is ‘Ubayd Allah in Hurr whose ode starts with the
 following couplet:
 
-<blockquote dir="rtl">
-  <p>
-يقول امر غادر اى غادر ألاكنت قاتلت الشهيد بن فاطمه
-  </p>
-</blockquote>
+> يقول امر غادر اى غادر ألاكنت قاتلت الشهيد بن فاطمه
 
 *The treacherous chief, son of a traitor asks {me}: “Did you not fight
 against the martyr, the son of Fatimah?”*
@@ -211,29 +151,13 @@ Sulayman ibn Quttah al-‘Adawi has been one of the most prominent
 elegists for the tribulation of Imam al-Husayn (*‘a*). The following
 poem is attributed to him:
 
-<blockquote dir="rtl">
-  <p>
-مررتُ على أبيات آل محمّد فلم أرها كعهدها يوم حُلَّتِ
-  </p>
-</blockquote>
+> مررتُ على أبيات آل محمّد فلم أرها كعهدها يوم حُلَّتِ
 
-<blockquote dir="rtl">
-  <p>
-و كانوا رجاءً ثم صاروا رزيَّةً و قد عظمت تلك الرزايا و جَلَّت
-  </p>
-</blockquote>
+> و كانوا رجاءً ثم صاروا رزيَّةً و قد عظمت تلك الرزايا و جَلَّت
 
-<blockquote dir="rtl">
-  <p>
-ألم تر أن الشمس اضحت مريضة لفقد حسين و البلاد اقشعرت
-  </p>
-</blockquote>
+> ألم تر أن الشمس اضحت مريضة لفقد حسين و البلاد اقشعرت
 
-<blockquote dir="rtl">
-  <p>
-و قد اعولت تبكي السماء لفقدة و انجمها ناحت عليه و صلَّت
-  </p>
-</blockquote>
+> و قد اعولت تبكي السماء لفقدة و انجمها ناحت عليه و صلَّت
 
 *I roamed around the house of Muhammad’s progeny and I saw them not
 fully occupied as before.*
@@ -262,11 +186,7 @@ grandfather.” Umm Farwah came and sat behind a curtain. Then, Imam
 as-Sadiq (*‘a*) said to me: “You recite.” I started reciting an elegy
 which commences with this couplet:
 
-<blockquote dir="rtl">
-  <p>
-فرو جودي بدمعك المسكوب
-  </p>
-</blockquote>
+> فرو جودي بدمعك المسكوب
 
 *O Umm Farwah!* *Render tears to your eyes.*
 
@@ -278,35 +198,15 @@ permission and entered. The Imam asked the members of his household to
 sit behind a curtain. He then asked Sayyid Humayri to recite poetry in
 lamentation for Imam al-Husayn (*‘a*). Sayyid recited this poem:
 
-<blockquote dir="rtl">
-  <p>
-امرر على جدث الحسين فقل لاعظمة الزكية
-  </p>
-</blockquote>
+> امرر على جدث الحسين فقل لاعظمة الزكية
 
-<blockquote dir="rtl">
-  <p>
-يا اعظماً لازلت من وظفا و ساكبة رويّة
-  </p>
-</blockquote>
+> يا اعظماً لازلت من وظفا و ساكبة رويّة
 
-<blockquote dir="rtl">
-  <p>
-فاذا مررت بقبره فاطل به وقف المطيّة
-  </p>
-</blockquote>
+> فاذا مررت بقبره فاطل به وقف المطيّة
 
-<blockquote dir="rtl">
-  <p>
-و ابك المطهَّر للمطهَّر و المطهرة النقية
-  </p>
-</blockquote>
+> و ابك المطهَّر للمطهَّر و المطهرة النقية
 
-<blockquote dir="rtl">
-  <p>
-كبكاء معوله اتت يوماً لواحدها المنيّة
-  </p>
-</blockquote>
+> كبكاء معوله اتت يوماً لواحدها المنيّة
 
 *You pass by the grave of* *Husayn and tell to his pure bones:*
 
@@ -340,29 +240,13 @@ Elegies for the Other Martyrs among the Descendants of the Prophet (S)
 of Muslim ibn ‘Aqil and Hani ibn ‘Urwah, he recites this poem and this
 poem is thereafter recited by many:
 
-<blockquote dir="rtl">
-  <p>
-إذا كنت لا تدرين ما الموت فانظري إلى هاني في السوق و ابن عقيل
-  </p>
-</blockquote>
+> إذا كنت لا تدرين ما الموت فانظري إلى هاني في السوق و ابن عقيل
 
-<blockquote dir="rtl">
-  <p>
-إلى بطل قد هشَّمَ السيف وجهه و آخر يهوي في طمار قتيل
-  </p>
-</blockquote>
+> إلى بطل قد هشَّمَ السيف وجهه و آخر يهوي في طمار قتيل
 
-<blockquote dir="rtl">
-  <p>
-اصابهما أمر الأمير قأصبحا أحاديث من يسعى بكل سبيل
-  </p>
-</blockquote>
+> اصابهما أمر الأمير قأصبحا أحاديث من يسعى بكل سبيل
 
-<blockquote dir="rtl">
-  <p>
-ايترك أسماء المهايج آمِناً و قد طلبته مذحج بذحول
-  </p>
-</blockquote>
+> ايترك أسماء المهايج آمِناً و قد طلبته مذحج بذحول
 
 *If you do not know what is meant by death, look at Ibn ‘Aqil and Hani*
 *at the market.*
@@ -383,17 +267,9 @@ Madhhaj is about to be punished.*[^14]
 While reciting a long elegy in lamentation for the martyrs of the
 *Tawabun* {the Penitents}, a certain poet named A‘sha Hamdan thus says:
 
-<blockquote dir="rtl">
-  <p>
-توجه من دون ثنية سائراً إلى ابن زياد في الجموع الكتائب
-  </p>
-</blockquote>
+> توجه من دون ثنية سائراً إلى ابن زياد في الجموع الكتائب
 
-<blockquote dir="rtl">
-  <p>
-فياخير جيش للعراق و اهله سقيتم روايا كل اسحم ساكب
-  </p>
-</blockquote>
+> فياخير جيش للعراق و اهله سقيتم روايا كل اسحم ساكب
 
 *From that direction, soldiers rushed toward Ibn Ziyad.*
 
@@ -451,23 +327,11 @@ common affairs such as farming and date palms. Sayyid stood up as he
 wanted to go. When we asked for the reason why he wanted to leave, he
 gave this reply to us:
 
-<blockquote dir="rtl">
-  <p>
-إنّي لاكره أن اطيل بمجلس لا ذكر فيه لفضل آل محمّد
-  </p>
-</blockquote>
+> إنّي لاكره أن اطيل بمجلس لا ذكر فيه لفضل آل محمّد
 
-<blockquote dir="rtl">
-  <p>
-لا ذكر فيه لاحمد و وصيه و بنيه ذلك مجلس نطف ردى
-  </p>
-</blockquote>
+> لا ذكر فيه لاحمد و وصيه و بنيه ذلك مجلس نطف ردى
 
-<blockquote dir="rtl">
-  <p>
-ان الذي ينساهم في مجلس حتى يفارقه لغير مسدد
-  </p>
-</blockquote>
+> ان الذي ينساهم في مجلس حتى يفارقه لغير مسدد
 
 *I abhor sitting at an assembly in which none of the virtues of the
 progeny of Muhammad is ever mentioned.*
@@ -499,41 +363,17 @@ At this point, Sayyid Humayri thought for sometime and then said, “I
 have not composed a poem about it so far.” As such, he gave the horse
 and the gift to the man, and recited the following poem:
 
-<blockquote dir="rtl">
-  <p>
-الا يا قوم للعجب العجب لخفّ ابى الحسن و للحباب
-  </p>
-</blockquote>
+> الا يا قوم للعجب العجب لخفّ ابى الحسن و للحباب
 
-<blockquote dir="rtl">
-  <p>
-عدوٌ من عداة الجن وغدٌ بعيد في المراد من صواب
-  </p>
-</blockquote>
+> عدوٌ من عداة الجن وغدٌ بعيد في المراد من صواب
 
-<blockquote dir="rtl">
-  <p>
-اتى خفاً له انساب فيه لينهش رجله منه بناب
-  </p>
-</blockquote>
+> اتى خفاً له انساب فيه لينهش رجله منه بناب
 
-<blockquote dir="rtl">
-  <p>
-لينهش خير من ركب المطايا أمير المؤمنين أباتراب
-  </p>
-</blockquote>
+> لينهش خير من ركب المطايا أمير المؤمنين أباتراب
 
-<blockquote dir="rtl">
-  <p>
-فخرَّ من السَّما له عقاب من العقبان او شبه العقاب
-  </p>
-</blockquote>
+> فخرَّ من السَّما له عقاب من العقبان او شبه العقاب
 
-<blockquote dir="rtl">
-  <p>
-و دوفع عن ابي حسن علي نقيع سمامه بعد انسياب
-  </p>
-</blockquote>
+> و دوفع عن ابي حسن علي نقيع سمامه بعد انسياب
 
 *Be aware O people that there is a miracle in the shoe of Abu’l-Hasan.*
 
@@ -581,11 +421,7 @@ Without revealing his name and thus be pursued by the Umayyads, a
 certain poet has soothed the hearts of the Shi‘ah by dispraising Yazid
 after his death by saying, thus:
 
-<blockquote dir="rtl">
-  <p>
-يا أيّها القبر بحوّارينا ضممت شرَّ النّاس أجمعينا
-  </p>
-</blockquote>
+> يا أيّها القبر بحوّارينا ضممت شرَّ النّاس أجمعينا
 
 *O grave which is in “hawarin”! The worst of all people is in your
 bosom.*[^23]
@@ -593,23 +429,11 @@ bosom.*[^23]
 One of the best satires about the Umayyads is a poem which has been
 recited by Kumayt ibn Zayd al-Asadi concerning them:
 
-<blockquote dir="rtl">
-  <p>
-فقل لبني أميّة حيث حلُّوا و إن خِفْتَ المهندَّ و القطيعا
-  </p>
-</blockquote>
+> فقل لبني أميّة حيث حلُّوا و إن خِفْتَ المهندَّ و القطيعا
 
-<blockquote dir="rtl">
-  <p>
-اجاع الله من اشبعتموه و اشبع من بجوركم اجيعا
-  </p>
-</blockquote>
+> اجاع الله من اشبعتموه و اشبع من بجوركم اجيعا
 
-<blockquote dir="rtl">
-  <p>
-بمرضيَّ السياسة هاشمىٍ يكون حياً لامّته ربيعاً
-  </p>
-</blockquote>
+> بمرضيَّ السياسة هاشمىٍ يكون حياً لامّته ربيعاً
 
 *Tell the Umayyads wherever they are, if you are afraid of sword and
 scourge.*
@@ -649,17 +473,9 @@ connected to Samah ibn Lawi.
 
 In dispraising Ibn Ziyad, Abu’l-Aswad Da’uli has said:
 
-<blockquote dir="rtl">
-  <p>
-اقول و ذاك من جَزَع و وَجْدٍ ازال الله ملك بني زياد
-  </p>
-</blockquote>
+> اقول و ذاك من جَزَع و وَجْدٍ ازال الله ملك بني زياد
 
-<blockquote dir="rtl">
-  <p>
-و ابعدهم بما غدروا و خانوا كما بَعدتْ ثمود و قوم عاد
-  </p>
-</blockquote>
+> و ابعدهم بما غدروا و خانوا كما بَعدتْ ثمود و قوم عاد
 
 *Out of agony and anguish I am saying that may God destroy the dominion
 of the offspring of Ziyad!*
@@ -671,17 +487,9 @@ Sayyid Humayri has humiliated one of the ‘Abbasid judges who had
 dismissed his testimony on account of his faith in Shi‘ism, and he has
 said:
 
-<blockquote dir="rtl">
-  <p>
-ابوك ابن سارق عنـزالنبي و انت ابن بنت أبي جحدر
-  </p>
-</blockquote>
+> ابوك ابن سارق عنـزالنبي و انت ابن بنت أبي جحدر
 
-<blockquote dir="rtl">
-  <p>
-و نحن على رغمك الرافضون لاهل الضلالة و المنكر
-  </p>
-</blockquote>
+> و نحن على رغمك الرافضون لاهل الضلالة و المنكر
 
 *Your father steals the sheep of the Prophet while you are maternal
 grandchild of Abu* *Jahdar!*
@@ -815,5 +623,4 @@ Dar Ihya’ at-Turath al-‘Arabi, n.d.), vol. 17, p. 36.
 
 [^29]: Dr. Shawqi Ḍayf, Tarikh al-Adab al-‘Arabi al-‘Asr al-‘Abbas
 ath-Thani (Egypt: Dar al-Ma‘arif, n.d.), p. 388.
-
 

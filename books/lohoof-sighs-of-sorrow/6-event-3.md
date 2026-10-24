@@ -316,4 +316,3 @@ had behaved very harshly with them. It could have prevented Hussain
 his family and womenfolk, he might have missed attaining lofty
 martyrdom.
 
-

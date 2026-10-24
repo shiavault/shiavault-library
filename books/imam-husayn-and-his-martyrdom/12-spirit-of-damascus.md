@@ -25,4 +25,3 @@ striving to be leaders of spiritual thought. Discipline was relaxed, and
 governors aspired to be greater than the Khalifas. This bore bitter
 fruit later.
 
-

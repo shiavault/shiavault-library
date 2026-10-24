@@ -20,6 +20,3 @@ about those apparent and hidden powers of the universe, which are
 subordinate to Him. In this way our belief in *Tawhid* become stronger
 and our attention towards the sanctified self becomes more.
 
-
-
-

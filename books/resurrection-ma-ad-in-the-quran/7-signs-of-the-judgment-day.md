@@ -29,24 +29,16 @@ have proper awareness of the passage of time.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَحشُرُهُمْ كَأَن لَّمْ يَلْبَثُواْ إِلَّا سَاعَةً مِّنَ
-النَّهَارِ
-  </p>
-</blockquote>
+> وَيَوْمَ يَحشُرُهُمْ كَأَن لَّمْ يَلْبَثُواْ إِلَّا سَاعَةً مِّنَ
+> النَّهَارِ
 
 ***And on the day when He will gather them as though they had not stayed
 but an hour of the day… (10:45)***
 
 And it also says:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُواْ
-غَيْرَ سَاعَةٍ
-  </p>
-</blockquote>
+> وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُواْ
+> غَيْرَ سَاعَةٍ
 
 ***And at the time when the hour shall come, the guilty shall swear
 (that) they did not tarry but an hour… (30:55)***
@@ -64,13 +56,9 @@ Qiyamat is near.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِى الصُّورِ فَصَعِقَ مَن فِى السَّمَوَاتِ وَمَن فِى
-الْأَرْضِ إِلَّا مَن شَآءَ اللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَى‏ فَإِذَا
-هُمْ قِيَامٌ يَنظُرُونَ‏
-  </p>
-</blockquote>
+> وَنُفِخَ فِى الصُّورِ فَصَعِقَ مَن فِى السَّمَوَاتِ وَمَن فِى
+> الْأَرْضِ إِلَّا مَن شَآءَ اللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَى‏ فَإِذَا
+> هُمْ قِيَامٌ يَنظُرُونَ‏
 
 ***And the trumpet shall be blown, so all those that are in the heavens
 and all those that are in the earth shall swoon, except such as Allah
@@ -88,12 +76,8 @@ Barzakh would be enlivened and raised for Qiyamat.
 
 In another verse, it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُنفَخُ فِى الصُّورِ فَفَزِعَ مَن فِى السَّمَوَتِ وَمَن فِى
-الْأَرْضِ إِلَّا مَن شَآءَ اللَّهُ وَكُلٌّ أَتَوْهُ دَخِرِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُنفَخُ فِى الصُّورِ فَفَزِعَ مَن فِى السَّمَوَتِ وَمَن فِى
+> الْأَرْضِ إِلَّا مَن شَآءَ اللَّهُ وَكُلٌّ أَتَوْهُ دَخِرِينَ
 
 ***And on the day when the trumpet shall be blown, then those who are in
 the heavens and those who are in the earth shall be terrified except
@@ -122,12 +106,8 @@ obvious. The inner aspects of man would become apparent. The reward and
 punishment of the deeds of man would be clear before the Almighty Allah
 and all this will not take more than a moment. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ هُم بَارِزُونَ لَا يَخْفَى‏ عَلَى اللَّهِ مِنْهُمْ شَىْ‏ءٌ
-لِّمَنِ الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ
-  </p>
-</blockquote>
+> يَوْمَ هُم بَارِزُونَ لَا يَخْفَى‏ عَلَى اللَّهِ مِنْهُمْ شَىْ‏ءٌ
+> لِّمَنِ الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ
 
 ***(Of) the day when they shall come forth, nothing concerning them
 remains hidden to Allah. To whom belongs the kingdom this day? To Allah,
@@ -135,11 +115,7 @@ the One, the Subduer (of all). (40:16)***
 
 Yet another verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِى الصُّورِ فَجَمَعْنَاهُمْ جَمْعاً
-  </p>
-</blockquote>
+> وَنُفِخَ فِى الصُّورِ فَجَمَعْنَاهُمْ جَمْعاً
 
 ***…and the trumpet will be blown, so We will gather them all together.
 (18:99)***
@@ -193,53 +169,33 @@ Some of them are as follows:
 
 The Quran say:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا الشَّمْسُ كُوِّرَتْ \* وَ إِذَا النُّجُومُ انكَدَرَتْ \* وَإِذَا
-الْجِبَالُ سُيِّرَتْ
-  </p>
-</blockquote>
+> إِذَا الشَّمْسُ كُوِّرَتْ \* وَ إِذَا النُّجُومُ انكَدَرَتْ \* وَإِذَا
+> الْجِبَالُ سُيِّرَتْ
 
 ***When the sun is covered, and when the stars darken, and when the
 mountains are made to pass away. (81:1-3)***
 
-<blockquote dir="rtl">
-  <p>
-إذَا السَّمَآءُ انفَطَرَتْ \* وَإِذَا الْكَوَاكِبُ انتَثَرَتْ \* وَ
-إِذَا الْبِحَارُ فُجِّرَتْ
-  </p>
-</blockquote>
+> إذَا السَّمَآءُ انفَطَرَتْ \* وَإِذَا الْكَوَاكِبُ انتَثَرَتْ \* وَ
+> إِذَا الْبِحَارُ فُجِّرَتْ
 
 ***When the heaven becomes cleft asunder, and when the stars become
 dispersed, and when the seas are made to flow forth. (82:1-3)***
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا النُّجُومُ طُمِسَتْ \* وَإِذَا السَّمَآءُ فُرِجَتْ \* وَإِذَا
-الْجِبَالُ نُسِفَتْ
-  </p>
-</blockquote>
+> فَإِذَا النُّجُومُ طُمِسَتْ \* وَإِذَا السَّمَآءُ فُرِجَتْ \* وَإِذَا
+> الْجِبَالُ نُسِفَتْ
 
 ***So when the stars are made to lose their light, and when the heaven
 is rent asunder, and when the mountains are carried away as dust.
 (77:8-10)***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَمُورُ السَّمَآءُ مَوْراً \* وَتَسِيرُ الْجِبَالُ سَيْراً
-  </p>
-</blockquote>
+> يَوْمَ تَمُورُ السَّمَآءُ مَوْراً \* وَتَسِيرُ الْجِبَالُ سَيْراً
 
 ***On the day when the heaven shall move from side to side, and the
 mountains shall pass away passing away (altogether). (52:9-10)***
 
-<blockquote dir="rtl">
-  <p>
-إذَا وَقَعَتِ الْوَاقِعَةُ \* لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ \*
-خَافِضَةٌ رَّافِعَةٌ \* إِذَا رُجَّتِ الْأَرْضُ رَجّاً \* وَبُسَّتِ
-الْجِبَالُ بَسّاً \* فَكَانَتْ هَبَآءً مُّنبَثّاً
-  </p>
-</blockquote>
+> إذَا وَقَعَتِ الْوَاقِعَةُ \* لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ \*
+> خَافِضَةٌ رَّافِعَةٌ \* إِذَا رُجَّتِ الْأَرْضُ رَجّاً \* وَبُسَّتِ
+> الْجِبَالُ بَسّاً \* فَكَانَتْ هَبَآءً مُّنبَثّاً
 
 ***When the great event comes to pass, there is no belying its coming to
 pass - abasing (one party), exalting (the other), when the earth shall
@@ -247,75 +203,47 @@ be shaken with a (severe) shaking, and the mountains shall be made to
 crumble with (an awful) crumbling, so that they shall be as scattered
 dust. (56:1-6)***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَطْوِى السَّمَآءَ كَطَىِّ السِّجِلِّ لِلْكُتُبِ
-  </p>
-</blockquote>
+> يَوْمَ نَطْوِى السَّمَآءَ كَطَىِّ السِّجِلِّ لِلْكُتُبِ
 
 ***On the day when We will roll up heaven like the rolling up of the
 scroll for writings… (21:104)***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا السَّمَآءُ انشَقَّتْ \* وَ أَذِنَتْ لِرَبِّهَا وَ حُقَّتْ \* وَ
-إِذَا الْأَرْضُ مُدَّتْ \* وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ \*
-وَأَذِنَتْ لِرَبِّهَا وَ حُقَّتْ‏
-  </p>
-</blockquote>
+> إِذَا السَّمَآءُ انشَقَّتْ \* وَ أَذِنَتْ لِرَبِّهَا وَ حُقَّتْ \* وَ
+> إِذَا الْأَرْضُ مُدَّتْ \* وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ \*
+> وَأَذِنَتْ لِرَبِّهَا وَ حُقَّتْ‏
 
 ***When the heaven bursts asunder, and obeys its Lord and it must. And
 when the earth is stretched, and casts forth what is in it and becomes
 empty, and obeys its Lord and it must. (84:1-5)***
 
-<blockquote dir="rtl">
-  <p>
-يَسْئَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ \* فَإِذَا بَرِقَ الْبَصَرُ \*
-وَخَسَفَ الْقَمَرُ \* وَ جُمِعَ الشَّمْسُ وَ الْقَمَرُ
-  </p>
-</blockquote>
+> يَسْئَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ \* فَإِذَا بَرِقَ الْبَصَرُ \*
+> وَخَسَفَ الْقَمَرُ \* وَ جُمِعَ الشَّمْسُ وَ الْقَمَرُ
 
 ***He asks: When is the day of resurrection? So when the sight becomes
 dazed, and the moon becomes dark, and the sun and the moon are brought
 together. (75:6-9)***
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْئَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفاً\*
-فَيَذَرُهَا قَاعاً صَفْصَفاً \* لَّا تَرَى‏ فِيهَا عِوَجاً وَلَا
-أَمْتاً
-  </p>
-</blockquote>
+> وَيَسْئَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفاً\*
+> فَيَذَرُهَا قَاعاً صَفْصَفاً \* لَّا تَرَى‏ فِيهَا عِوَجاً وَلَا
+> أَمْتاً
 
 ***And they ask you about the mountains. Say: My Lord will carry them
 away from the roots. Then leave it a plain, smooth level; You shall not
 see therein any crookedness or unevenness. (20:105-107)***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُبَدَّلُ الْأَرْضُ غيْرَ الْأَرضِ وَالسَّمَوَاتُ وَبَرَزُواْ
-لِلَّهِ الْوَحِدِ الْقَهَّارِ
-  </p>
-</blockquote>
+> يَوْمَ تُبَدَّلُ الْأَرْضُ غيْرَ الْأَرضِ وَالسَّمَوَاتُ وَبَرَزُواْ
+> لِلَّهِ الْوَحِدِ الْقَهَّارِ
 
 ***On the day when the earth shall be changed into a different earth,
 and the heavens (as well), and they shall come forth before Allah, the
 One, the Supreme. (14:48)***
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكّاً دَكّاً
-  </p>
-</blockquote>
+> كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكّاً دَكّاً
 
 ***Nay! when the earth is made to crumble to pieces… (89:21)***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا \* وَأَخْرَجَتِ الْأَرْضُ
-أَثْقَالَهَا
-  </p>
-</blockquote>
+> إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا \* وَأَخْرَجَتِ الْأَرْضُ
+> أَثْقَالَهَا
 
 ***When the earth is shaken with her (violent) shaking, and the earth
 brings forth her burdens… (99:1-2)***
@@ -345,5 +273,4 @@ Qiyamat occur?
 [^2]: Ibne Atiyya Andalusi, Al-Muharrarul Wajeez fee Kitabil Azeez, Vol.
 5, Pg. 358; Asfar, Vol. 5, Pg.274; Faiz Kashani, Ilmul Yaqeen, Vol. 2,
 Pg. 891.
-
 

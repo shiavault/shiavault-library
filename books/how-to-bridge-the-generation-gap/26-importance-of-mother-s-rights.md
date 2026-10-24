@@ -49,11 +49,7 @@ child's happiness depends on the way he is reared by his mother.
 
 The Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-لا تسترضعو الحمقاء العمشاء فان اللبن يعدى.
-  </p>
-</blockquote>
+> لا تسترضعو الحمقاء العمشاء فان اللبن يعدى.
 
 *“Do not select foolish women or women with weak eyesight to nurse your
 children,* *because these characteristics pass into the child towards
@@ -61,33 +57,21 @@ the milk.”* [^3]
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-انظروا من ترضع اولادكم فان الولد يشب عليه.
-  </p>
-</blockquote>
+> انظروا من ترضع اولادكم فان الولد يشب عليه.
 
 *“Be careful as to who nurse your children since they will grow up with
 same milk.”* [^4]
 
 He also says:
 
-<blockquote dir="rtl">
-  <p>
-ما من لبن رضع به الصبى اعظم بركة عليه من لبن امه.
-  </p>
-</blockquote>
+> ما من لبن رضع به الصبى اعظم بركة عليه من لبن امه.
 
 *“No milk is more blessed for a child than that of his own mother.”*
 [^5]
 
 Imam Al-Baqir [^6] (as) says:
 
-<blockquote dir="rtl">
-  <p>
-استرضع لولدك بلبن الحسان واياك والقباح فان اللبن قد يعدى.
-  </p>
-</blockquote>
+> استرضع لولدك بلبن الحسان واياك والقباح فان اللبن قد يعدى.
 
 *“Choose good natured women for nursing your children and avoid the evil
 one because milk transfers character.”*
@@ -231,5 +215,4 @@ recorded. He buried in the Baqi cemetery in Medina. [Tr]
 [^20]: The Book of Ethics, Part, pp. 40-54
 
 [^21]: The Book of Ethics, and Editions, Part 1, pp. 50-54
-
 

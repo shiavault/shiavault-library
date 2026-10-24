@@ -60,11 +60,7 @@ Ayatullah Wahid responded by saying:
 
 **“Have I not said that in my lecture do not use such words?!**
 
-<blockquote dir="rtl">
-  <p>
-مـﮕـر نـﮕـفته بودم سر درس من از اين ﮔـونه كلمات به كار نبريد! “
-  </p>
-</blockquote>
+> مـﮕـر نـﮕـفته بودم سر درس من از اين ﮔـونه كلمات به كار نبريد! “
 
 **\*\*\***
 
@@ -97,5 +93,4 @@ against what the Imams of Ahlul Bayt (a.s.) has ordered their followers
 Office of As-Sayyid As-Sistani  
  An-Najaf al-Ashraf  
  2 Dhul Hijjah 1434 (8 October 2013)
-
 

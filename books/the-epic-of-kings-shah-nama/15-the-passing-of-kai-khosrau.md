@@ -449,4 +449,3 @@ throne of the Kaianides. And he called before him his people that they
 should do allegiance unto him. And they did so, and the place of Kai
 Khosrau knew him no more.
 
-

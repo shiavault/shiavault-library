@@ -151,7 +151,6 @@ Arabic Printed in Najaf 1369
 English Printed in Lahore (Pakistan) 1992
 - ... and many many more
 
-
 Thus honoring their memories and informing people about them would be
 in accord with the advice of the Messenger ( saw ), and would provide
 the Muslims with what they need of Guidance.
@@ -176,7 +175,6 @@ And Chose death to prevent your soul's defeat
 Became a martyr with unflinching feet
 For these well may one weep who understands
 
-
 Hussain is King, the King of Kings
 He is faith, defense of faith from him springs
 Beheaded though
@@ -184,7 +182,6 @@ He never bowed to Yazeed
 By God, God's unity by him is established
 In which grave is his throne, and his crown where is it
 O Earth ! Show us where us where is the Might of Yazeed Today
-
 
 Brief Notes On Some Of Those Who Martyred In Kufa And Karbala
 
@@ -410,7 +407,6 @@ joined the Imam and were martyred.
 
 \* Abbas Ibne Ali ibne Abi Taleb, Qamare Bani Hashim
 
-
 This is the great son of the First Holy Imam, Imam Ali, from the noble
 Lady Hazrat Ommul Baneen. Abbas is so well known to the Muslim World for
 his noble qualities he was endowed with, that in the first place needs
@@ -530,7 +526,6 @@ From the tribe of Hamdan, was martyred with the Imam
 
 \* Amru Ibn Hab Abu Thamama al Sai'di
 
-
 \* Amru Ibn Hasan at Talee
 
 \* Aun and Muhammad (Sons of Jafar e Tayyar)
@@ -644,14 +639,12 @@ And finally
 
 **Hussain Ibn Ali - The KING of the MARTYRS**
 
-
 This sorrow at your death, despite the years
 Is still as fresh, which time has failed to quell
 In every heart this day a new pain appears
 And of your sufferings men each other tell
 They see a vision through slow falling tears
 Of that lone battle where athirst you fell
-
 
 Look at the heads atop the spears
 and the eyes that are full of tears.
@@ -705,8 +698,6 @@ many evil minds would want to stop our tears.
 But this mourning will continue, forever more,
 with cries of Yaa Husain, ringing in our ears.
 
-
 Ali Rizwan Shah
 Arbaeen - 1416 AH
-
 

@@ -126,4 +126,3 @@ obligations, and the performance of obligations is good deeds.[^4]
 
 [^4]: Nahj al-Balagha (The Peak of Eloquence), saying \#125
 
-

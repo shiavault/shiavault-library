@@ -1,10 +1,6 @@
 Chapter Five
 ============
 
-  
-
-  
-
 ON THE EXCELLENCE OF THE BELIEVER, GOOD MANNERS, AND THE EXCELLENCE OF HIM WHOSE NAME IS MOHAMMED OR AHMED
 ----------------------------------------------------------------------------------------------------------
 
@@ -31,12 +27,6 @@ Garden.
 
 The believers who have such qualities will have the noblest rank in the
 Garden and live therein wherever they like.
-
-  
-
-  
-
-  
 
 84. Through his chain of authorities, he, peace be on him, said: [Allahs
 Messenger, may Allah bless him and his family, said:] He who treats men
@@ -80,10 +70,6 @@ Allah bless him and his family, by which he was distinguished from the
 rest of the prophets. Islam has emphasized on the necessity of having
 such a noble quality. During their Bedouin life, nations were  
 
-  
-
-  
-
 distinguished from each other by their bodily strength. When they
 progressed, they were distinguished from each other by their knowledge.
 And when they advanced, they were distinguished from one another by good
@@ -122,10 +108,6 @@ therefore he who disdains the believer disdains Allah, the Exalted.
 91. Through his chain of authorities, he, peace be on him, said: [Allahs
 Messenger, may Allah bless him and his family, said:] Verily, through
 good manners the servant gains the rank of one who performs  
-
-  
-
-  
 
 prayer and fasting.
 
@@ -172,10 +154,6 @@ the Prophet, may Allah bless him and his family, said to his community.
 Commander of the faithful, peace be on him, who said: [Allahs Apostle
 was asked:] Who enter the Garden more? (Those  
 
-  
-
-  
-
 who have) reverential fear and good manners, he replied. Then he was
 asked: Who enter the Fire more? (Those who follow) the two hollow
 (organs): the stomach and the genital parts, he answered.
@@ -217,12 +195,6 @@ the name of the Prophet Mohammed, may Allah bless him and his family. He
 who is given this name is worthy of honoring, magnifying, making room
 during sitting, and receiving with cheerfulness.
 
-  
-
-  
-
-  
-
 101. Through his chain of authorities, he, peace be on him, said:
 [Allahs Messenger, may Allah bless him and his family, said:] If some
 people have a consultation and someone whose name is Mohammed or Ahmed
@@ -260,12 +232,6 @@ him nothing of worldly provisions. 
 104. Through his chain of authorities, he, peace be on him, said:
 [Allahs Apostle, may Allah bless him and his family, said:] Meat and
 rice are the master of the food of this world and the next.
-
-  
-
-  
-
-  
 
 This tradition gives an account of the excellence of meat and rice, and
 that they are the best masters of foods, for they have advantages which
@@ -313,12 +279,6 @@ say:] O Allah, make it blessed for us, and bestow upon us something
 better than it. When he drank yogurt, he would say: O Allah, make it
 blessed for us, and bestow upon us something better than it.
 
-  
-
-  
-
-  
-
 This tradition shows the supplication of the Prophet, may Allah bless
 him and his family, when he had food and yogurt. Thus a supplication is
 among the religious manners which always connect man to his Almighty
@@ -362,10 +322,6 @@ last of them was Īsā b. Maryam, peace be on him.
 As for lentils, they are among rich foods; they contain food materials
 such as calcium, iron, phosphorous, vitamin (B), and  
 
-  
-
-  
-
 protein; so they are blessed.[[1]](#_ftn354) Lentils are equal to meat
 and their protein ratio surpasses that of the rest of vegetables. One of
 their advantages is that they soften the heart and increase tear.
@@ -406,16 +362,9 @@ destructive blight.
 a foolish or blear-eyed woman to nurse (your babies), for milk conveys
 disease.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F354) Al-Ghidhā' lā al-Dawā', p. 561.  
-  
-
-  
-
-  
 
 Certainly, milk has bad or good effects on the natures of a baby. So the
 baby which feeds on the milk of a foolish or blear-eyed woman is
@@ -459,12 +408,6 @@ vitamin (A). It is worth mentioning that this vitamin helps children
 grow, that it keeps the moisture and brilliance of the eye, the
 protrusion of the eyeball, and that it plays an important role in
 forming the retinal purple, so doctors call it Factor of Growth.
-
-  
-
-  
-
-  
 
 Moreover dates strengthen the auditory nerves, and they have other
 benefits mentioned by doctors. Islam has emphasized eating dates, for
@@ -511,10 +454,6 @@ renal and urinary calculus, poisoning, anemia, and reduction of calcium.
 Dr. Carlia said: It is necessary to give grapes to those who suffer
 from  
 
-  
-
-  
-
 anemia and on whom surgical operations are performed. Medical books have
 mentioned other benefits of grapes.
 
@@ -560,10 +499,6 @@ and hot in winter.
 
 131. Through his chain of authorities, he, peace be on him, said:  
 
-  
-
-  
-
 [Abū Jafar, peace be on him,  related to me. He said:] The minimum
 disobedience (to parents) is the (word) *uf* (ugh). And if Allah knew
 that there was something easier than *uf*, He would forbid it.
@@ -607,12 +542,6 @@ These matters against which the Prophet, may Allah bless him and his
 family, warned the Muslims bring about the destruction of society and
 make it deviate from the ideals which Islam has adopted.
 
-  
-
-  
-
-  
-
 ### CHAPTER EIGHT
 
 ### ON WARNING AGAINST CHEATING, BACKBITING, AND TATTLING
@@ -653,12 +582,6 @@ b. al-Husayn, peace be on him, said:] He who refrains from (defaming)
 the honor of men, Allah will release him from his stumble on the Day of
 Resurrection.
 
-  
-
-  
-
-  
-
 One of the precepts of Islam is that one should refrain from (defaming)
 the honor of men and not to mention it with evil, that he may keep the
 unity of the Muslims.
@@ -696,12 +619,6 @@ about, and he answered: Surely, if the invaders intend to make an
 invasion, Allah writes for them freedom from the Fire, and if they
 prepare themselves, Allah vies (in glory) with the angels through them,
 etc.
-
-  
-
-  
-
-  
 
 The tradition is long; the greatest Messengers, may Allah bless him and
 his family, has presented therein the excellence of invasion and jihād
@@ -745,12 +662,6 @@ him.
 my community from three (things): error after knowledge, misleading
 discords, the lust of stomach and genital parts.
 
-  
-
-  
-
-  
-
 Certainly these three temptations turns man away from Allah, the
 Exalted, and throws him into dreadful evil.
 
@@ -793,12 +704,6 @@ As for the wronged, if they are ignorant, they do not deserve praise and
 reward, for they neglect their dealings; and if they are knowledgeable
 and adopt riches, then they are worthy of blame and dispraise.
 
-  
-
-  
-
-  
-
 150. Through his chain of authorities, he, peace be on him, said:
 [Allahs Messenger, may Allah bless him and his family, said:] Do favor
 for those who are worthy of it and those who are not worthy of it. If
@@ -839,12 +744,6 @@ and great reward in fasting on it.
 [Allahs Messenger, may Allah bless him and his family, said:] Prefer the
 Garden to the Fire and do not invalidate your deeds, so you will be
 thrown into the Fire, bowing (your heads) and immortal therein.
-
-  
-
-  
-
-  
 
 The Prophet, may Allah bless him and his family, summons (people) to
 gain Paradise through sincere deeds and not to invalidate their deeds
@@ -887,12 +786,6 @@ religion and no relationship with Allah, the Most High.
 deeds of this community are brought before Allah, the Great and
 Almighty, every morning.
 
-  
-
-  
-
-  
-
 Definitely, the deeds of the Muslims are brought before  Allah, the
 Exalted, every day, whether they are good or evil. So blessed is he who
 does good deeds and fears his Lord!
@@ -931,10 +824,6 @@ him, replied: Lest no creature should have a right against him.
 Many traditions have justified the orphanage of the Messenger, may Allah
 bless him and his family. Yet there is another justification as follows:
 This Orphan (i.e. the Prophet) could change the course of  
-
-  
-
-  
 
 the worlds history, save man from the fables and customs of those pagans
 who loved before Islam, established on earth a state which raised the
@@ -975,10 +864,6 @@ corrected it. Most its sentences agree with what al-Sadūq, may Allah
 have mercy on him, has mentioned in his book *Man lā Yahdarahu al-Faqih*
 with out any chain of authorities, and what  
 
-  
-
-  
-
 his father has mentioned in his letter to him. Our companions have
 mentioned many precepts in the book without mentioning their chain of
 authorities.
@@ -1017,6 +902,4 @@ al-Bayt Foundation for Renewing Legacy in Qum, may Allah increase it in
 honor, and that its introduction was written by the great researcher
 Shaykh Jawād al-Sharistāni, who mentioned the proofs of those who
 testified the book and of those who denied it.
-
-  
 

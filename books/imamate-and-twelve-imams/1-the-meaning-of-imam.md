@@ -25,4 +25,3 @@ and is the leader of the community in these areas of religious concern
 must be appointed by God and the Prophet. Naturally, the Prophet himself
 was also appointed by Divine Command.
 
-

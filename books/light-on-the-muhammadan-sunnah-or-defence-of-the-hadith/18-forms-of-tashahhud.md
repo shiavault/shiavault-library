@@ -1,9 +1,6 @@
 Forms of Tashahhud:
 ===================
 
-  
-  
-
 Ibn Mas’ud’s Tashahhud: In the two Sahihs, Abd Allah ibn Mas’ud is
 reported to have said: The Messenger of Allah has taught me the witness
 (tashahhud) from hand to hand as teaching me the Qur’anic verse in this
@@ -41,7 +38,7 @@ also by Abu Dawud and Ibn Mardawayh through a chain of narrators.
 Tashahhud of Abu Sa’id al-Khudri:
 
 Abu Sa’id then said: We used not to write but the Qur’an and tashahhud.
-<span id="_anchor_133"></span>133
+133
 
 Tashahhud of Jabir: In Jabir’s hadith (confirmed by al-Hakim), that is
 reported by al-Nasa’i, Ibn Majah and al-Tirmidhi in al-‘Ilal, he said:
@@ -64,7 +61,7 @@ which she confirmed too in the hadith of Abu Musa that was reported by
 Muslim.
 
 Tashahhud of Abu Musa al-Ash’ari: Muslim and Abu Dawud reported that Abu
-Musa was citing tashahhud in this way: <span id="_anchor_134"></span>134
+Musa was citing tashahhud in this way: 134
 
 ##### (التحيات الطيبات الصلوات لله وحده لا شريک له). {dir="rtl"}
 
@@ -115,13 +112,13 @@ veracious isnad.
 
 ##### (التحيات لله السلام عليک ايها النبي و رحمة الله. السلام علينا و علي عباد الله الصالحين. اشهد ان لا اله الا الله و اشهد ان محمدا عبده و رسوله ... (او) اشهد ان محمد رسول الله ). {dir="rtl"}
 
-Regarding this diversity, al-Qadi <span id="_anchor_135"></span>135
+Regarding this diversity, al-Qadi 135
  said: This indicates that when one drops a word that is already dropped
 in some narrated tashahhudat, his tashahhud would be correct. Based on
 this, it is permissible to say: The least satisfactory words to be
 uttered in tashahhud being:
 
-These were nine forms of tashahhud <span id="_anchor_136"></span>136
+These were nine forms of tashahhud 136
  reported from the Companions that having differed in the words. Had
 they been among the verbal traditions reported by meaning, we would have
 said, maybe! But they are among the mutawatir (successive) acts that
@@ -169,10 +166,7 @@ Ja’far Muhammad al-Baqir ibn Ali ibn al-Husayn, the full text of whose
 statement being thus: If I perform any salat without sending benediction
 on the Prophet (may God’s peace and benediction be upon him and his
 Progeny) and on his household I am sure it shall never be completed.”
-<span id="_anchor_137"></span>137
-
-  
-  
+137
 
 133. Al-Khatib al-Baghdadi, Taqyid al-'ilm, p. 93.
 

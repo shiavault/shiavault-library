@@ -20,7 +20,6 @@ Sura Insan (human) No. 76 (verses 5-11)
 (11) فَوَقَاهُمُ اللَّهُ شَرَّ ذَلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً
 وَسُرُورًا
 
-
 5." Verily, the Righteous drink of a cup; the mixture of which is
 (like) camphor."
 
@@ -40,7 +39,6 @@ we desire from you, nor thanks."
 
 11. " Therefore, Allah will guard them against the evil of that Day,
 and will grant over them a Light of Beauty and a (blissful) joy."
-
 
 **The Occasion of Revelation:**
 
@@ -379,5 +377,4 @@ the meaning may cover even the animals.
 (2) Usul-i-Kafi, vol. 2, Chapter 'Feeding', Tradition 18.
 
 (3) Bihar-al-Anwar, vol. 74, p. 369.
-
 

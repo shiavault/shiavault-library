@@ -605,4 +605,3 @@ c. And, St. Luke, Chapter 22, p. 1080, No.36 explains thus:
 it, and likewise his scrip: and he that hath no sword, let him sell his
 garment, and buy one.
 
-

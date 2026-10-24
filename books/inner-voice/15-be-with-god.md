@@ -53,4 +53,3 @@ the loving care of Allah.
 We may easily reach to God and be safe forever. Or, on the other hand,
 we may be destroyed by death. The choice is ours.
 
-

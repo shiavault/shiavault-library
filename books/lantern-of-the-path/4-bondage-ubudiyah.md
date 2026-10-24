@@ -27,5 +27,3 @@ it, and negating its dominance.
 When all these qualities are found in one person, he is then one of
 Allah's elite, one of His close bondsman and friends (awliya')
 
-
-

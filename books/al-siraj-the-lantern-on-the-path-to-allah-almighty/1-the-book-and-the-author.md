@@ -47,4 +47,3 @@ scholarly luxury.
 [^1]: For the meaning of Italicized Arabic terms, please refer to the
 Glossary. \_\_ Tr.
 
-

@@ -49,4 +49,3 @@ ethical code”.
 Now, let us ask our self a very significant question; “Are we a good
 neighbor”.
 
-

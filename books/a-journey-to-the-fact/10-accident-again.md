@@ -239,4 +239,3 @@ systems are there in the world? Thinking of that makes the accidental
 creation of the world a sort of madness or intentional obstinacy based
 on irremediable complex personality.
 
-

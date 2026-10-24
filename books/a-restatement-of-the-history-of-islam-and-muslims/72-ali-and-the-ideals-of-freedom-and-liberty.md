@@ -203,4 +203,3 @@ of all the apostles of God. The same spirit is the “legacy” of Ali ibn
 Abi Talib to the *umma* of Muhammad Mustafa. May God bless both of them
 and their families.
 
-

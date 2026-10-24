@@ -3,11 +3,7 @@ Question 49: What Is Meant By Tawbah an-Nasooha?
 
 **Question:** The holy Ayat:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً
 
 **Yaa ayyohal ladeena aamanoo toobu iallaahe tawbahtan nasooha**
 
@@ -39,11 +35,9 @@ no going to the sin again. And in which the man's apparent self and the
 inner-self should be the same. His actions should conform to his
 intentions.
 
-
 [^1]: Surah Tahreem 66:8
 
 [^2]: Usoole Kafi
 
 [^3]: Ma-aniul-Akhbar
-
 

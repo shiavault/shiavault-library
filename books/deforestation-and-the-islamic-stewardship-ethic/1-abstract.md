@@ -41,4 +41,3 @@ environmentalism, nature, ethic, moral, philosophy, stewardship,
 anthropocentrism, eco-centrism, theo-centrism, God, Islam, Islamic,
 khlifa, caliph.**
 
-

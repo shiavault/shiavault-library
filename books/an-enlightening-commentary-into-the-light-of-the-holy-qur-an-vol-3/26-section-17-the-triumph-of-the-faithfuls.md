@@ -6,12 +6,8 @@ Prayer for the promised triumph -The predicated triumph
 Surah 'Ali-Imran, Verse 190
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
-وَالنَّهَارِ لآيَاتٍ لِّأُوْلِي الألْبَابِ
-  </p>
-</blockquote>
+> إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
+> وَالنَّهَارِ لآيَاتٍ لِّأُوْلِي الألْبَابِ
 
 **190.** ***"Verily in the creation of the heavens and the earth and the
 alternation of the night and the day, there are signs for the possessors
@@ -77,13 +73,9 @@ of intellects."***
 Surah 'Ali-Imran, Verse 191
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ جُنُوبِهِمْ
-وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ رَبَّنَا مَا
-خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ جُنُوبِهِمْ
+> وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ رَبَّنَا مَا
+> خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
 
 **191.** ***"Those who remember Allah while standing, sitting and lying
 on their sides, and mediate on the creation of the heavens and the
@@ -118,12 +110,8 @@ you! Save us then from the torment of the Fire '."***
 Surah 'Ali-Imran, Verse 192
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا
-لِلظَّالِمِينَ مِنْ أَنصَارٍ
-  </p>
-</blockquote>
+> رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا
+> لِلظَّالِمِينَ مِنْ أَنصَارٍ
 
 **192.** ***"Our Lord! Anyone You cause to enter the (Hell) Fire, surely
 You have put him to disgrace; and the unjust will have no helpers."***
@@ -141,13 +129,9 @@ By the way, the transgressors will be deprived of intercession.
 Surah 'Ali-Imran, Verse 193
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلإِيمَانِ أَنْ
-آمِنُواْ بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
-وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الأبْرَارِ
-  </p>
-</blockquote>
+> رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلإِيمَانِ أَنْ
+> آمِنُواْ بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
+> وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الأبْرَارِ
 
 **193.** ***"Our Lord! Verily we have heard (the invitation of) a Crier
 calling to the faith, saying: 'Believe in your Lord!' So we did believe.
@@ -196,12 +180,8 @@ make us die with the righteous '."***
 Surah 'Ali-Imran, Verse 194
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ وَلاَ تُخْزِنَا
-يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ الْمِيعَادَ
-  </p>
-</blockquote>
+> رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ وَلاَ تُخْزِنَا
+> يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ الْمِيعَادَ
 
 **194.** ***"Our Lord! and grant us what You have promised us through
 Your Messengers, and do not disgrace us on the Day of Resurrection.
@@ -235,16 +215,12 @@ You do not break any promise."***
 Surah 'Ali-Imran, Verse 195
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ
-مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى بَعْضُكُم مِّن بَعْضٍ فَالَّذِينَ
-هَاجَرُواْ وَأُخْرِجُواْ مِن دِيَارِهِمْ وَأُوذُواْ فِي سَبِيلِي
-وَقَاتَلُواْ وَقُتِلُواْ لأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ
-وَلأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الأَنْهَارُ ثَوَابًا
-مِّن عِندِ اللّهِ وَاللّهُ عِندَهُ حُسْنُ الثَّوَابِ
-  </p>
-</blockquote>
+> فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ
+> مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى بَعْضُكُم مِّن بَعْضٍ فَالَّذِينَ
+> هَاجَرُواْ وَأُخْرِجُواْ مِن دِيَارِهِمْ وَأُوذُواْ فِي سَبِيلِي
+> وَقَاتَلُواْ وَقُتِلُواْ لأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ
+> وَلأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الأَنْهَارُ ثَوَابًا
+> مِّن عِندِ اللّهِ وَاللّهُ عِندَهُ حُسْنُ الثَّوَابِ
 
 **195.** ***"So their Lord responded their prayer, (saying): 'I will not
 waste the work of any worker among you, whether male or female, the one
@@ -306,11 +282,7 @@ than any other rewards.
 Surah 'Ali-Imran, Verse 196
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُواْ فِي الْبِلاَدِ
-  </p>
-</blockquote>
+> لاَ يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُواْ فِي الْبِلاَدِ
 
 **196.** ***"Let not the (prosperous) going about of those who
 disbelieve deceive you in the cities."***
@@ -334,11 +306,7 @@ should not deceive you.
 Surah 'Ali-Imran, Verse 197
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمِهَادُ
-  </p>
-</blockquote>
+> مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمِهَادُ
 
 **197.** ***"(It is) a brief enjoyment! Thereafter their abode is Hell,
 and how bad the resting place (it is)! "***
@@ -356,13 +324,9 @@ bad the resting place (it is)!*** "
 Surah 'Ali-Imran, Verse 198
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَكِنِ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِن
-تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا نُزُلاً مِّنْ عِندِ اللّهِ
-وَمَا عِندَ اللّهِ خَيْرٌ لِّلأَبْرَارِ
-  </p>
-</blockquote>
+> لَكِنِ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِن
+> تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا نُزُلاً مِّنْ عِندِ اللّهِ
+> وَمَا عِندَ اللّهِ خَيْرٌ لِّلأَبْرَارِ
 
 **198.** ***"But those who are in awe of their Lord, for them are
 gardens beneath which rivers flow, therein they will abide for ever, a
@@ -385,14 +349,10 @@ Allah, and whatever is with Allah is the best for the righteous."***
 Surah 'Ali-Imran, Verse 199
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللّهِ وَمَا أُنزِلَ
-إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلّهِ لاَ يَشْتَرُونَ
-بِآيَاتِ اللّهِ ثَمَنًا قَلِيلاً أُوْلَـئِكَ لَهُمْ أَجْرُهُمْ عِندَ
-رَبِّهِمْ إِنَّ اللّهَ سَرِيعُ الْحِسَابِ
-  </p>
-</blockquote>
+> وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللّهِ وَمَا أُنزِلَ
+> إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلّهِ لاَ يَشْتَرُونَ
+> بِآيَاتِ اللّهِ ثَمَنًا قَلِيلاً أُوْلَـئِكَ لَهُمْ أَجْرُهُمْ عِندَ
+> رَبِّهِمْ إِنَّ اللّهَ سَرِيعُ الْحِسَابِ
 
 **199.** ***"And surely of the People of the Book are some who believe
 in Allah and in what has been sent down to you and in what has been sent
@@ -420,12 +380,8 @@ a graveyard in Medina, and prayed his funeral prayer.
 Surah 'Ali-Imran, Verse 200
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ اصْبِرُواْ وَصَابِرُواْ وَرَابِطُواْ
-وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ اصْبِرُواْ وَصَابِرُواْ وَرَابِطُواْ
+> وَاتَّقُواْ اللّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 **200.** ***"O' you who have faith! do persevere and outdo (all others)
 in endurance, and be ready (to guard the bounds), and be in awe of Allah
@@ -472,5 +428,4 @@ hearts and souls by the link that they create in prayers.
 [^4]: Bihar-al-Anwar, vol. 41, p. 104
 
 [^5]: Majma'-ul-Bayan, Vol. 2, p. 561, & Tafsir-ul-Kabir, by Fakhr Razi
-
 

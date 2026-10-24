@@ -90,4 +90,3 @@ would be too lengthy.
 Now let us see why and for what reason they took Fadak away from Fatimah
 (p.b.u.h.).
 
-

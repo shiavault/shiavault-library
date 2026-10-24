@@ -2083,4 +2083,3 @@ meat, which is its most delicious part. AL-Nahaya: 4/166.
 [^142]: Al-Gharat: 1/63, Hilyat al-Awliya: 1/83, Sharh Nahj al-Balagha:
 2/200.
 
-

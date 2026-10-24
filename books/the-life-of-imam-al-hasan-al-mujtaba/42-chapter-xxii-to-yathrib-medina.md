@@ -544,4 +544,3 @@ capital and royal court. Among the objectives of that travel was that
 Imam al-Hasan propagated the party he had formed to overthrow the
 Umayyad government and to return the Islamic state to its just regime.
 
-

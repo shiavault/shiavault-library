@@ -491,4 +491,3 @@ the school of piety and ethics and taught you the doctrine of humanity.”
 [^1]: According to the Islamic law, the claimant has to bring in a
 witness and the denier has to utter an oath.
 
-

@@ -159,4 +159,3 @@ see?
 
 13. How does God reward and punish people?
 
-

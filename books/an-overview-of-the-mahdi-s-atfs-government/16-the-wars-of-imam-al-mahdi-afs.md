@@ -409,13 +409,9 @@ not tolerate it also, and they also rose up against him in the city of
 Takrit. ‘Isa (*‘a*) also confronted them and eliminated them. This is
 the meaning of the words of God when He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَآَمَنَت طَّائِفَةٌ مِّن بَنِي إِسْرَائِيلَ وَكَفَرَت طَّائِفَةٌ
-فَأَيَّدْنَا الَّذِينَ آَمَنُوا عَلَى عَدُوِّهِمْ فَأَصْبَحُوا
-ظَاهِرِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَآَمَنَت طَّائِفَةٌ مِّن بَنِي إِسْرَائِيلَ وَكَفَرَت طَّائِفَةٌ
+> فَأَيَّدْنَا الَّذِينَ آَمَنُوا عَلَى عَدُوِّهِمْ فَأَصْبَحُوا
+> ظَاهِرِينَ ﴾
 
 *“So a group of the Children of Israel believed, and a group
 disbelieved. Then We strengthened the faithful against their enemies,
@@ -700,5 +696,4 @@ been reported by Kharijah ibn as-Salt in ‘Aqd ad-Darar, p. 331.
 [^65]: Al-Fa’iq, vol. 1, p. 354.
 
 [^66]: Ibn Hammad, Fitan, p. 159; Ibn Tawus, Malahim, p. 82.
-
 

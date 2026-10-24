@@ -846,4 +846,3 @@ judges most probable, and so perform his worship.
 
 m246:2 The Prophet.
 
-

@@ -102,9 +102,7 @@ questions about it, we are not very stranger with the matter, that no
 one denies that a fact or an entity which is named Spirit exists in us,
 or we exist in it.
 
-
 \*\*\*\*\*
-
 
 OUR SOUL, THE IMMATERIAL ENTITY
 
@@ -125,7 +123,6 @@ dear readers will have the results of my own studies in the field of the
 Spirit, and the views of some of the Persian Great scholars and
 philosophers, like FARABI and AVICENNA.
 
-
 (1)
 
 Our soul is an inmaterial entity, distinguishable from, and superior to
@@ -140,7 +137,6 @@ in the kingdom of heavens. We do not know much about it, as the
 knowledge that has been vouchsafed to us is only a little. The wisdom
 may reach the Soul, but imagination never.
 
-
 (2)
 THE SOUL IS IMMORTAL AND SEPARABLE FROM THE BODY
 
@@ -149,14 +145,12 @@ and separable from his body. Some of the reasons that are given to prove
 the proposition by Persian Scholars Like FARA"BI and AVICENNA; SHAIKH
 ESHRA"GH, and other philosophers are as follows:ِ
 
-
 Aِ No one can forget his own very self, which is his soul; but every
 one does forget his body, and most of his organs. There are some organs
 in our body, that we may never know them in the whole life; but we know
 the self all the times, and we can never forget that we are, and we
 exist, in any condition! This fact proves that the Soul and the Body are
 two different and two separate entities.
-
 
 Bِ Our material body has some function that matter and material is not
 able to accomplish them. Our intellect, and understanding, for instance,
@@ -193,12 +187,10 @@ Doesn't this change of our body prove that we are not the body, and
 that our body is only a veil upon us, or something like our clothes that
 are easily replaced?
 
-
 Dِ If all the organs of the body; like the heart, the head, the lungs,
 the limbs and etc., be replaced with that of another person, still the
 self and personality of the donor and acceptor will remain fixed and
 unchanged!
-
 
 Eِ A material body will never take a new form, unless the old form is
 destroyed. But the mind takes one form upon another up to millions of
@@ -225,7 +217,6 @@ continuous working. Gaze at the sun for a while; and your eyes shall get
 temporarily blind, but the more you think, the more you will know, and
 the stronger your mental power shall become! This also can prove that
 our mind and body are two different substances.
-
 
 (3)
 HYPNOSIS
@@ -267,7 +258,6 @@ about it they answer:ِ \`\`We do not live with our body. We rather live
 with our God, and our soul. It is the self that makes our body. The body
 does not make the self.''
 
-
 (4)
 TELEPATHY
 
@@ -277,7 +267,6 @@ is apparent communication from one mind to another, otherwise than
 through the channel of senses. There are many persons who can transfer
 their thoughts to some other who is far away. There are also persons who
 can see the absent, or who can read the others mind.
-
 
 (5)
 TRUE DREAMS
@@ -311,7 +300,6 @@ pass. In QURA"N, it is narrated that Joseph explained the Pharaoh's
 dream of seven fat cows being eaten by seven lean cows, as a prophecy of
 seven years of famine following seven good years.
 
-
 (6)
 
 Aِ Prophets, apostles, saints and all the men of God, have been
@@ -319,18 +307,14 @@ convinced that the soul is immortal and separable from the body. Such
 godly persons never tell lies and are truthful and trustworthy, and we
 better deny them not.
 
-
 Bِ \`\`Self'' is indivisible, but the body is divisible and therefore
 they should be different entities.
-
 
 Cِ The Soul is attracted by morals, philosophy and divine phenomenons,
 and knowledge. It must therefore be of the divine nature, as the birds
 of a feather fly together, or flock together.
 
-
 TRANSLATOR'S NOTE)
-
 
 وَلَئِنْ شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَا إِلَيْكَ ثُمَّ لاَ
 تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلا(( 86 ))
@@ -347,7 +331,6 @@ GREAT.
 [ 596 ]
 
 THE COMMENTARY
-
 
 WHATEVER YOU HAVE IS A BLESSING OF HIS MERCY (VERSE NO. 86 - 87)
 
@@ -368,7 +351,6 @@ scholars bow their heads to him for his great knowledge and wisdom!
 Indeed the Grace of God to His Messenger, Mohammad (AS) has been
 great.
 
-
 قُلْ لَّئِنِ اجْتَمَعَتِ الاِْنسُ وَالْجِنُّ عَلَى أَنْ يَأْتُوا
 بِمِثْلِ هَذَا الْقُرْآنِ لاَ يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ
 بَعْضُهُمْ لِبَعْض ظَهِيراً(( 88 ))
@@ -386,7 +368,6 @@ IN THIS QURA"N; YET MOST OF THE PEOPLE ACCEPT NOTHING BUT PROFANITY.
 [ 597 ]
 
 THE COMMENTARY
-
 
 NO ONE CAN EVER PRODUCE THE LIKE OF QURA"N
 
@@ -423,7 +404,6 @@ The Arabic, \`\`KAFUR'' translated to, \`\`PROFANITY'' may mean to
 violate or treat with irreverence, obloquy, or contempt a truth, a fact,
 or something that is regarded as sacred.
 
-
 وَقَالُوا لَنْ نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاَْرْضِ
 يَنْبُوعاً(( 90 ))
 
@@ -456,9 +436,7 @@ THAT WE MAY READ!
 SAY:ِ\`\`GLORY TO MY LORD! AM I (ANY ONE) OTHER THAN A HUMAN
 MESSENGER?''
 
-
 THE COMMENTARY
-
 
 OCCASION OF THE REVELATION (VERSE NO. 90 - 93)
 
@@ -528,7 +506,6 @@ gods, and insulting the religion of our forefathers. I will give him his
 deserved reward; and when he is in a prostration, I will give an end to
 all this, by casting a stone upon his head!''
 
-
 VARIOUSLYِCOLOURED EXCUSES
 
 Following the argument about Qura"n's miraculous greatness and
@@ -577,7 +554,6 @@ Messenger of God would say nothing except that with which he was
 inspired. He was not sent to satisfy the mean fancies, and vain desires
 of some foolish unbelievers.
 
-
 وَمَا مَنَعَ النَّاسَ أَنْ يُؤْمِنُوا إِذْ جَاءَهُمْ الْهُدَى إِلاَّ
 أَنْ قَالُوا أَبَعَثَ اللهُ بَشَراً رَّسُولا(( 94 ))
 
@@ -593,11 +569,9 @@ THEM; EXCEPT THAT THEY SAID:ِ
 WOULD CERTAINLY SEND DOWN ON THEM AN ANGEL FROM THE SKY AS
 MESSENGER.''
 
-
 [ 602 ]
 
 THE COMMENTARY
-
 
 THE EXCUSE OF CONFORMITY (VERSE NO. 94 - 95)
 
@@ -653,12 +627,9 @@ WE MUSTER THEM ON THE RESSURRECTION DAY UPON THEIR FACES, (WHILE THEY
 ARE) BLIND, DUMB, AND DEAF. THEIR ABODE SHALL BE THE HELL. WHENEVER (ITS
 FIRE) DIMINISHES, WE INCREASE THEM THE BLAZE.
 
-
 THE COMMENTARY
 
-
 THE REAL GUIDANCE (VERSE NO. 96 - 97)
-
 
 The next verse (NO.97) implies that, the only real guidance is the
 guidance of Allah, whose knowledge encomposes all the events and
@@ -676,7 +647,6 @@ that we may not utter a word of truth, and we shall lose our ear of
 hearing what is wrong and what is right. When so, the Fire of punishment
 which overtakes us, will not lessen, and even if it diminishes, God will
 increase its blaze!
-
 
 ذَلِكَ جَزَاؤُهُمْ بِأَنَّهُمْ كَفَرُوا بِآيَاتِنَا وَقَالُوا أَءِذَا
 كُنَّا عِظَاماً وَرُفَاتاً أَئِنَّا لَمَبْعُوثُونَ خَلْقاً جَدِيداً(( 98
@@ -704,7 +674,5 @@ THERE IS NO DOUBT. BUT THE OPPRESSORS REFUSE ALL, EXCEPT PROFANITY.
 CASE YOU WOULD WITH-HOLD (CHARITY) FOR THE FEAR OF (BEING POOR BY)
 SPENDING. AND MAN HAS ALWAYS BEEN NIGGARDLY.''
 
-
 THE COMMENTARY
-
 

@@ -4,12 +4,8 @@ Section 3: The Might of Allah Manifesting in Nature
 Surah Ar-Room – Verse 20
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ أَنْ خَلَقَكُم مِن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ
-تَنتَشِرُونَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ أَنْ خَلَقَكُم مِن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ
+> تَنتَشِرُونَ
 
 ***20. “And one of His signs is that He created you from dust, and then,
 behold, you are human beings scattered (in the world).”***
@@ -102,13 +98,9 @@ throughout the world and brought the organized human society into being.
 Surah Ar-Room – Verse 21
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ أَنْ خَلَقَ لَكُم مِنْ أَنفُسِكُمْ أَزْوَاجاً
-لّـِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَوَدَّةً وَرَحْمَةً إِنَّ
-فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ أَنْ خَلَقَ لَكُم مِنْ أَنفُسِكُمْ أَزْوَاجاً
+> لّـِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَوَدَّةً وَرَحْمَةً إِنَّ
+> فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***21. “And of His signs is that He crated spouses for you from
 yourselves, that you may repose in them, and He has set between you love
@@ -221,13 +213,9 @@ uneasiness.
 Surah Ar-Room – Verse 22
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ خَلْقُ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفُ
-أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لاَيَاتٍ
-لِلْعَالِمِينَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ خَلْقُ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفُ
+> أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لاَيَاتٍ
+> لِلْعَالِمِينَ
 
 ***22. “And of his signs is the creation of the heavens and the earth,
 and the variety of your languages and your colours; verily there are
@@ -336,12 +324,8 @@ more than other people.
 Surah Ar-Room – Verse 23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ مَنَامُكُم بِالَّيْلِ وَالنَّهَارِ وَابْتِغَآؤُكُم
-مِن فَضْلِهِ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَسْمَعُونَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ مَنَامُكُم بِالَّيْلِ وَالنَّهَارِ وَابْتِغَآؤُكُم
+> مِن فَضْلِهِ إِنَّ فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَسْمَعُونَ
 
 ***23. “And of His signs is your sleeping by night and day and your
 seeking after His grace; verily there are signs in this for a people who
@@ -446,13 +430,9 @@ among the divine bounties that are describable by no statement.
 Surah Ar-Room – Verse 24
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفاً وَطَمَعاً وَيُنَزّ‌ِلُ
-مِنَ السَّمَآءِ مَآءً فَيُحْيِي بِهِ الاَرْضَ بَعْدَ مَوْتِهَا إِنَّ
-فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفاً وَطَمَعاً وَيُنَزّ‌ِلُ
+> مِنَ السَّمَآءِ مَآءً فَيُحْيِي بِهِ الاَرْضَ بَعْدَ مَوْتِهَا إِنَّ
+> فِي ذَلِكَ لاَيَاتٍ لِقَوْمٍ يَعْقِلُونَ
 
 ***24. “And of His signs is that He shows you the lightning for fear and
 for hope and that He sends down water from the heaven and gives life
@@ -505,12 +485,8 @@ effect of casual events, and blind and deaf necessities.
 Surah Ar-Room – Verse 25
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ ءَايَاتِهِ أَن تَقُومَ السَّمَآءُ وَالأَرْضُ بِأَمْرِهِ ثُمَّ
-إِذَا دَعَاكُمْ دَعْوَةً مِنَ الأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ
-  </p>
-</blockquote>
+> وَمِنْ ءَايَاتِهِ أَن تَقُومَ السَّمَآءُ وَالأَرْضُ بِأَمْرِهِ ثُمَّ
+> إِذَا دَعَاكُمْ دَعْوَةً مِنَ الأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ
 
 ***25. “And of His signs is that the heaven and the earth subsist by His
 command, then (after your death) when He summons you once (and) suddenly
@@ -742,19 +718,11 @@ The Prophet (S) said:
 Surah Ar-Room – Verses 26-27
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ مَن فِي السَّمَاوَاتِ وَالأَرْضِ كُلٌّ لَّهُ قَانِتُونَ
-  </p>
-</blockquote>
+> وَلَهُ مَن فِي السَّمَاوَاتِ وَالأَرْضِ كُلٌّ لَّهُ قَانِتُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ
-عَلَيْهِ وَلَهُ الْمَثَلُ الأَعْلَي فِي السَّمَاوَاتِ وَالأَرْضِ
-وَهُوَ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ
+> عَلَيْهِ وَلَهُ الْمَثَلُ الأَعْلَي فِي السَّمَاوَاتِ وَالأَرْضِ
+> وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
 ***26. “To Him belongs every being that is the heavens and the earth;
 all are subservient unto Him.”***  
@@ -899,5 +867,4 @@ discussion.
 [^9]: Nur-uth-Thaqalayn, Vol. 4, P. 174
 
 [^10]: Mufradat by Raqib
-
 

@@ -598,4 +598,3 @@ Rafizi."
 as well as the hadith succeeding it, that is, that of Abu Sa’id, in his
 Hilyat al-Awliya', and they are on page 156, Vol. 6, of Kanz al-’Ummal.
 
-

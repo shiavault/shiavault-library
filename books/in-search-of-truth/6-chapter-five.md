@@ -256,4 +256,3 @@ light by which he walks among the people, like him whose likeness is
 that of one in utter darkness whence he cannot come forth ? ...***
 *[Al-An’am, 6: 123]*
 
-

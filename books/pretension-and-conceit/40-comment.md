@@ -160,4 +160,3 @@ the meaning of this verse:
 ***"By no means! But the stain of the (ill) that they do is on their
 hearts on account of what they used to earn" (Qur'ān, 83:14).***
 
-

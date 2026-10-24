@@ -751,4 +751,3 @@ your wasi (‘Ali a.s.), and your progeny (and that of ‘Ali (a.s.).”[^23]
 
 [^23]: al-Kāfi. Vol. 2 page 353
 
-

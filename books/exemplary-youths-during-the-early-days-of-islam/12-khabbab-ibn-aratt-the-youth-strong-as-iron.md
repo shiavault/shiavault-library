@@ -80,4 +80,3 @@ Sifat al-Safwah, vol. 1, p. 168; Zarkulī, Al-A‘lām, vol. 2, p. 301;
 Al-Isābah, vol. 1, p. 423; Bihār al-Anwār, vol. 22, p. 325, 339;
 Al-Khisāl, vol. 1, p. 150; Safīnah al-Bihār, vol. 1, p. 373.
 
-

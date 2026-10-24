@@ -629,4 +629,3 @@ drinking from them more than this is not permissible.
 **241.** There is no harm in using a utensil about which it is not known
 whether it is made of gold or silver or something else.
 
-

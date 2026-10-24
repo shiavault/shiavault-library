@@ -38,20 +38,12 @@ politics.
 abundant wealth to perish.
 
 > 8ـ حُسْنُ التَّدْبيرِ يُنْمي قَليلَ المالِ، وسُوءُ التَّدْبيرِ يُفْني
-<blockquote dir="rtl">
-  <p>
-كَثيرَهُ.
-  </p>
-</blockquote>
+> كَثيرَهُ.
 
 9. The cause of ruin is bad planning.
 
 > 9ـ سَبَبُ التَّدْميرِ سُوءُ التَّدبيرِ (سُوءُ التَّدبيرِ سَبَبُ
-<blockquote dir="rtl">
-  <p>
-التَّدْمير).
-  </p>
-</blockquote>
+> التَّدْمير).
 
 10. Bad planning is the key to poverty.
 
@@ -80,5 +72,4 @@ abundant wealth to perish.
 16. There is no benefit in the planning of one who is not obeyed.
 
 > 16ـ لايَنْجِعُ تَدبيرُ مَنْ لا يُطاعُ.
-
 

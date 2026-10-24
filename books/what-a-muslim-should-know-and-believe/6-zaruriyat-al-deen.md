@@ -137,4 +137,3 @@ books.
 late Syed Rahat Husayn Golpalpuri (Ex-Principal of Madrasatul-Waezeen,
 Lucknow), printed at Mujtabai Press, Patna; no date; pp. 23-29.
 
-

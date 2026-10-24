@@ -192,4 +192,3 @@ Jesus. Sin may, conceivably, be washed by a good deed, not by murder.
 Furthermore, how can we conceive that God, the Most Wise, would demand
 the blood of His dear messenger as a price of forgiveness?
 
-

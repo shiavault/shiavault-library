@@ -138,4 +138,3 @@ And some of them are moreover their reliability are from superiors of
 World of Shi’aa (refer to the book “Jame’ Al-Rovat” and other Rijal
 books).
 
-

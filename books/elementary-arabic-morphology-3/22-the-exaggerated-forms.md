@@ -31,4 +31,3 @@ according to any rules. They are as follows:
 
 • **فَعُول,** for example: **بَتُول**
 
-

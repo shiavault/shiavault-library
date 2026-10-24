@@ -47,4 +47,3 @@ idols and man-made images, would bring an end to their domination over
 Makkah, the pagan Quraish, decided to gang up against Prophet Muhammad
 (S).
 
-

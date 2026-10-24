@@ -51,4 +51,3 @@ awareness or understanding is something which is necessary, and nothing
 else can take its place. Again, do not misunderstand me: understanding
 is not enough to remedy all the pains of humanity.
 
-

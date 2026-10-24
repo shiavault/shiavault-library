@@ -154,4 +154,3 @@ al-khawatir, iv, 223.
 
 [^4]: Nuzhat al-khawatir, iv, 274.
 
-

@@ -24,4 +24,3 @@ Ethical rules are guidelines of this path of love, enlightened and
 oriented by teachings of the intellect and prophets.  
   
 
-

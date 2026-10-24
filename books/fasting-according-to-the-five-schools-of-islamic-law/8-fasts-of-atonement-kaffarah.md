@@ -65,4 +65,3 @@ times in a single day, the number of kaffarahs will also increase
 proportionately, but if a person eats or drinks a number of times, a
 single kaffarah suffices.
 
-

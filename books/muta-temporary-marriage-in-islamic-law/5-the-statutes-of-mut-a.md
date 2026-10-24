@@ -429,4 +429,3 @@ the main differences in usul al-fiqh between Sunnis and Shi’a
 
 [^42]: Wasa'il, XIV, 478, hadith I.
 
-

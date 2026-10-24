@@ -895,4 +895,3 @@ His secret was that he held on tenaciously to the idea that his Senior
 Partner would advise him and prosper him until his subconscious mind had
 absorbed the idea and had brought it to pass.
 
-

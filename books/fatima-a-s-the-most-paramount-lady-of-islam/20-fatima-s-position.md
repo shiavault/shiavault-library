@@ -15,9 +15,7 @@ views:
 She symbolizes Kauthar, and the following the Quran verse was revealed
 about her:
 
-<p dir="rtl">
 أنّا أعطيناك الكوثر
-</p>
 
 [We have bestowed upon you Kauthar].
 
@@ -28,24 +26,18 @@ the responsibility, and try to achieve them.
 
 She is the tenor of the verse:
 
-<p dir="rtl">
 قل لا اسئلكم عليه اجراً الا المودة في القربي
-</p>
 
 The one whom Tathir verse (being away from filth) was revealed about
 her.
 
 She is the symbol of
 
-<p dir="rtl">
 وجمع الشمس و القمر
-</p>
 
 She also symbolizes
 
-<p dir="rtl">
 والقمر اذا تلئها
-</p>
 
 in Shams Sura.
 
@@ -70,9 +62,7 @@ She is Ali’s peeress as well as his confidant.
 She was one of the glad tidings of the Prophet (peace be upon him and
 his descendants), as he said,
 
-<p dir="rtl">
 فان الله اصطفاك علي نسا العالمين
-</p>
 
 Her satisfaction is the Prophet’s satisfaction, and the Prophet’s
 satisfaction is Allah’s satisfaction.
@@ -82,5 +72,4 @@ and Imamate.
 
 And at last, she has got more honor than holy Mary, because she has
 endowed with eleven Christlike (children).
-
 

@@ -284,4 +284,3 @@ liability. When the commander of an army entitled to take credit for
 victory gained through his men, he is also responsible for the
 atrocities committed by his deputies.
 
-

@@ -44,4 +44,3 @@ the teachings of Islam, as He is, indeed, the Hearing, the Responsive.
 
 [^1]: See Introduction for his biography.
 
-

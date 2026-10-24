@@ -4,12 +4,8 @@ Section 2: Patience and Good Deeds Earn Pardon from Allah
 Surah Hud – Verse 9
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَذَقْنَا الإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا
-مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ
-  </p>
-</blockquote>
+> وَلَئِنْ أَذَقْنَا الإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا
+> مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ
 
 ***9. “If We make man taste mercy from Ourselves, (and) then take it off
 from him, verily he is despairing ungrateful.”***
@@ -39,12 +35,8 @@ In this regard, the verse says:
 Surah Hud – Verse 10
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَذَقْنَاهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ
-ذَهَبَ السَّيّئَاتُ عَنّي إِنَّهُ لَفَرِحٌ فَخُورٌ
-  </p>
-</blockquote>
+> وَلَئِنْ أَذَقْنَاهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ
+> ذَهَبَ السَّيّئَاتُ عَنّي إِنَّهُ لَفَرِحٌ فَخُورٌ
 
 ***10. “And if We make him taste (Our) favors after adversity has
 afflicted him, he will say, ‘The evils have departed from me’. Verily he
@@ -77,12 +69,8 @@ joyous, boastful.”***
 Surah Hud – Verse 11
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ الَّذِينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِ اُوْلَئِكَ لَهُم
-مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
-  </p>
-</blockquote>
+> إِلاَّ الَّذِينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِ اُوْلَئِكَ لَهُم
+> مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
 
 ***11. “Except those who are patient and constant, and do deeds of
 righteousness; for them is forgiveness and a great reward.”***
@@ -118,13 +106,9 @@ On the contrary, he is patient and persevering.
 Surah Hud – Verse 12
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَعَلَّكَ تَارِكُ بَعْضَ مَا يُوحَي إِلَيْكَ وَضَآئِقُ بِهِ صَدْرُكَ
-أَن يَقُولُوا لَوْلآ اُنْزِلَ عَلَيْهِ كَنْزٌ أَوْ جَآءَ مَعَهُ مَلَكٌ
-إِنَّمَآ أَنتَ نَذيرٌ وَاللَّهُ عَلَي كُلّ شَيْءٍ وَكِيلٌ
-  </p>
-</blockquote>
+> فَلَعَلَّكَ تَارِكُ بَعْضَ مَا يُوحَي إِلَيْكَ وَضَآئِقُ بِهِ صَدْرُكَ
+> أَن يَقُولُوا لَوْلآ اُنْزِلَ عَلَيْهِ كَنْزٌ أَوْ جَآءَ مَعَهُ مَلَكٌ
+> إِنَّمَآ أَنتَ نَذيرٌ وَاللَّهُ عَلَي كُلّ شَيْءٍ وَكِيلٌ
 
 ***12. “So perhaps you may (be inclined) to give up a part of what is
 revealed unto thee, and your breast becomes straitened by it lest they
@@ -179,13 +163,9 @@ inflict upon him.
 Surah Hud – Verse 13
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِثْلِهِ
-مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُم مِن دُونِ اللَّهِ إن كُنتُمْ
-صَادِقِينَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِثْلِهِ
+> مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُم مِن دُونِ اللَّهِ إن كُنتُمْ
+> صَادِقِينَ
 
 ***13. “Or do they say: ‘He has forged it’? Say, ‘Bring you then ten
 suras forged, like unto it, and call (to your aid) whomsoever you can,
@@ -265,12 +245,8 @@ than Allah, if you are truthful!’”***
 Surah Hud – Verse 14
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فإن لَّمْ يَسْتَجِيبُوا لَكُمْ فَاعْلَمُوا أَنَّمَآ اُنزِلَ بِعِلمِ
-اللَّهِ وَأَن لآ إِلَهَ إِلاَّ هُوَ فَهَلْ أَنتُم مُسْلِمُونَ
-  </p>
-</blockquote>
+> فإن لَّمْ يَسْتَجِيبُوا لَكُمْ فَاعْلَمُوا أَنَّمَآ اُنزِلَ بِعِلمِ
+> اللَّهِ وَأَن لآ إِلَهَ إِلاَّ هُوَ فَهَلْ أَنتُم مُسْلِمُونَ
 
 ***14. “If then they do not answer your (call), know that it is sent
 down by the knowledge of Allah, and that there is no Allah but He! Will
@@ -302,19 +278,11 @@ because of infidelity and hesitation of disbelievers.
 Surah Hud – Verses 15 - 16
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يُرِيدُ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا نُوَفّ إِلَيْهِمْ
-أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لا يُبْخَسُونَ
-  </p>
-</blockquote>
+> مَن كَانَ يُرِيدُ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا نُوَفّ إِلَيْهِمْ
+> أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لا يُبْخَسُونَ
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الأَخِرَةِ إِلاَّ النَّارُ
-وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الأَخِرَةِ إِلاَّ النَّارُ
+> وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ
 
 ***15. “Whoever desires the life of this world and its adornment, We
 shall pay them in full (the recompense for) their deeds therein, and
@@ -379,15 +347,11 @@ what they were doing.”***
 Surah Hud – Verse 17
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن كَانَ عَلَي بَيّنَةٍ مِنْ رَبّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ
-وَمِن قَبْلِهِ كِتَابُ مُوسَي إِمَاماً وَرَحْمَةً اُوْلَئِكَ
-يُؤْمِنُونَ بِهِ وَمَن يَكْفُرْبِهِ مِنَ الاَحْزَابِ فَالنَّارُ
-مَوْعِدُهُ فَلا تَكُ فِي مِرْيَةٍ مِنْهُ إِنَّهُ الْحَقُّ مِن رَبّكَ
-وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَفَمَن كَانَ عَلَي بَيّنَةٍ مِنْ رَبّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ
+> وَمِن قَبْلِهِ كِتَابُ مُوسَي إِمَاماً وَرَحْمَةً اُوْلَئِكَ
+> يُؤْمِنُونَ بِهِ وَمَن يَكْفُرْبِهِ مِنَ الاَحْزَابِ فَالنَّارُ
+> مَوْعِدُهُ فَلا تَكُ فِي مِرْيَةٍ مِنْهُ إِنَّهُ الْحَقُّ مِن رَبّكَ
+> وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يُؤْمِنُونَ
 
 ***17. “Is he then (like unto him) who has a clear proof from his Lord
 and follows him a witness from Him, and before it (is) the Book of
@@ -475,13 +439,9 @@ the wicked and evil destiny of the arrogant unbelievers.
 Surah Hud – Verse 18
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَي عَلَي اللَّهِ كَذِباً اُوْلَئِكَ
-يُعْرَضُونَ عَلَي رَبّهِمْ وَيَقُولُ الاَشْهَادُ هَؤُلآءِ الَّذِين
-كَذَبُوا عَلَي رَبّهِمْ أَلاَ لَعْنَةُ اللَّهِ عَلَي الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَي عَلَي اللَّهِ كَذِباً اُوْلَئِكَ
+> يُعْرَضُونَ عَلَي رَبّهِمْ وَيَقُولُ الاَشْهَادُ هَؤُلآءِ الَّذِين
+> كَذَبُوا عَلَي رَبّهِمْ أَلاَ لَعْنَةُ اللَّهِ عَلَي الظَّالِمِينَ
 
 ***18. “And who is more unjust than he who forges a lie against Allah?
 (On the Day of Resurrection) these will be presented before their Lord
@@ -584,12 +544,8 @@ unjust.”***
 Surah Hud – Verse 19
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجاً وَهُمْ
-بِالأَخِرَةِ هُمْ كَافِرُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجاً وَهُمْ
+> بِالأَخِرَةِ هُمْ كَافِرُونَ
 
 ***19. “Those who hinder (people) from the path of Allah and seek to
 make it crooked, and they are themselves unbelievers as to the
@@ -621,13 +577,9 @@ crooked, and they are themselves unbelievers as to the hereafter.”***
 Surah Hud – Verse 20
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الاَرْضِ وَمَا كَانَ لَهُمْ
-مِن دُونِ اللَّهِ مِنْ أَوْلِيَآءَ يُضَاعَفُ لَهُمُ الْعَذَابُ مَا
-كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الاَرْضِ وَمَا كَانَ لَهُمْ
+> مِن دُونِ اللَّهِ مِنْ أَوْلِيَآءَ يُضَاعَفُ لَهُمُ الْعَذَابُ مَا
+> كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ
 
 ***20. “They will in no wise frustrate (His design) on the earth, nor
 shall there be for them any protectors besides Allah! The penalty will
@@ -660,18 +612,10 @@ them.
 Surah Hud – Verses 21 - 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَا كَانُوا
-يَفْتَرُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَا كَانُوا
+> يَفْتَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-لا جَرَمَ أَنَّهُمْ فِي الاَخِرَةِ هُمُ الاَخْسَرُونَ
-  </p>
-</blockquote>
+> لا جَرَمَ أَنَّهُمْ فِي الاَخِرَةِ هُمُ الاَخْسَرُونَ
 
 ***21. “These are they who have lost their own selves, and that which
 they used to invent has failed them.”***  
@@ -711,12 +655,8 @@ The verse says:
 Surah Hud – Verse 23
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَخْبَتُوا إِلَي
-رَبّهِمْ اُوْلَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> إنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَخْبَتُوا إِلَي
+> رَبّهِمْ اُوْلَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
 
 ***23. “Verily those who believe and work righteousness, and humble
 themselves before their Lord, they will be Companions of the Garden,
@@ -746,12 +686,8 @@ themselves before their Lord, they will be Companions of the Garden,
 Surah Hud – Verse 24
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْفَرِيقَيْنِ كَالاَعْمَي وَالاَصَمّ وَالْبَصيرِ وَالسَّمِيعِ
-هَلْ يَسْتَوِيَانِ مَثَلاً أَفَلا تَذَكَّرُونَ
-  </p>
-</blockquote>
+> مَثَلُ الْفَرِيقَيْنِ كَالاَعْمَي وَالاَصَمّ وَالْبَصيرِ وَالسَّمِيعِ
+> هَلْ يَسْتَوِيَانِ مَثَلاً أَفَلا تَذَكَّرُونَ
 
 ***24. “The similitude the two parties is like the blind and the deaf,
 and the seeing (ones) and the hearing (ones). Are they equal in
@@ -800,5 +736,4 @@ Will you not then admonish?”***
 [^13]: Surah Nur, No. 24, verse 24
 
 [^14]: Surah Kahf, No. 18, verse 49
-
 

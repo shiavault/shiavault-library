@@ -1851,4 +1851,3 @@ fulfilling his promise.
 
 [^79]: Ibn Abu Al-Hadid his Commentary on Nahjul-Balaghah part 2 p. 79.
 
-

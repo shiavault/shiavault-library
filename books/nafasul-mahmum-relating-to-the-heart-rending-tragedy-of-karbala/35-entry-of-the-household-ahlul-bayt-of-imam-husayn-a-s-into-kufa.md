@@ -450,4 +450,3 @@ Babe Sagheer, opposite her niece Sayyidah Sakinah (a.s.), the daughter
 of Imam Husayn (a.s.). May Allah’s abundant Peace and Blessings be
 showered upon her and her exalted family.
 
-

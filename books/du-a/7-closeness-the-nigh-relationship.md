@@ -12,12 +12,8 @@ expressions, He uses different techniques. For instance, sometimes He
 makes use of the third person pronoun in referring to Himself and asks
 us to refer to Him in this way:
 
-<blockquote dir="rtl">
-  <p>
-وأدعوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَةَ اللَّهِ قَرِيبٌ مِنْ
-الْمُحْسِنِينَ.
-  </p>
-</blockquote>
+> وأدعوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَةَ اللَّهِ قَرِيبٌ مِنْ
+> الْمُحْسِنِينَ.
 
 ***“And call on Him fearing and hoping; surely the mercy of Allah is
 nigh to those who do good to others. 7:56”***
@@ -34,13 +30,9 @@ The Second Stage
 Sometimes Allah would select a closer approach and would send the good
 news to the earth through his Messenger.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِي إِذَا دَعَانِي فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
-لَعَلَّهُمْ يَرْشُدُونَ.
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِي إِذَا دَعَانِي فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
+> لَعَلَّهُمْ يَرْشُدُونَ.
 
 ***“And when My servants ask you concerning Me, then surely I am very
 near; I answer the prayer of the suppliant when he calls on Me, so they
@@ -50,25 +42,17 @@ way. 2:186”***
 Due to much attention, man could feel deep in his heart the true meaning
 of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ.
 
 ***“Most surely Allah is Affectionate, Merciful to the people. 2:143”***
 
 One can also fill his heart with the generosity of that Great Generous
 One. Imam al-Baqir (s) in this concern says:
 
-<blockquote dir="rtl">
-  <p>
-مَكتُوبٌ في التّوراةِ الّتي لَمْ تُغَيَّرْ أنَّ مُوسى سَألَ رَبَّهُ
-فَقالَ: يا رَبِّ، أقَريبٌ مِنيّ فَأُناجِيكَ أمْ بَعيدٌ فَأُنادِيكَ؟
-فَأوْحى اللهُ عَزَّ وَجَلَّ إلَيهِ: يا مُوسى، أنا جَلِيسُ مَنْ
-ذَكَرَني.
-  </p>
-</blockquote>
+> مَكتُوبٌ في التّوراةِ الّتي لَمْ تُغَيَّرْ أنَّ مُوسى سَألَ رَبَّهُ
+> فَقالَ: يا رَبِّ، أقَريبٌ مِنيّ فَأُناجِيكَ أمْ بَعيدٌ فَأُنادِيكَ؟
+> فَأوْحى اللهُ عَزَّ وَجَلَّ إلَيهِ: يا مُوسى، أنا جَلِيسُ مَنْ
+> ذَكَرَني.
 
 It is written in Torah which has not been distorted that Moses (s) has
 asked his God: “O God, are you close to me to talk with You, or You are
@@ -76,13 +60,9 @@ far so that I may call You?” God revealed to him: “O Moses, I associate
 with anybody who calls on Me.”[^1]  
  The Great Prophet (s) in Sha'banieh Sermon says:
 
-<blockquote dir="rtl">
-  <p>
-وَارْفَعوا إلَيهِ أيْدِيَكُم بِالدُّعاءِ في أوْقاتِ صَلَواتِكُم
-فَإنَّها أفْضَلُ السّاعاتِ، يَنْظُرُ اللهُ تَعالى فِيها بِالرَّحْمَةِ
-إلى عِبادِهِ يُجِيبُهُم إذَا ناجَوهُ وَيُلَبِّيهِمْ إذا نادَوهُ.
-  </p>
-</blockquote>
+> وَارْفَعوا إلَيهِ أيْدِيَكُم بِالدُّعاءِ في أوْقاتِ صَلَواتِكُم
+> فَإنَّها أفْضَلُ السّاعاتِ، يَنْظُرُ اللهُ تَعالى فِيها بِالرَّحْمَةِ
+> إلى عِبادِهِ يُجِيبُهُم إذَا ناجَوهُ وَيُلَبِّيهِمْ إذا نادَوهُ.
 
 “During your prayers raise your hands to engage in supplication because
 the prayer time is the best time. At that time Allah looks on His
@@ -99,11 +79,7 @@ The Third Stage
 
 At this stage Allah is so close to His servants that He says:
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَكِنْ لَا تُبْصِرُونَ.
-  </p>
-</blockquote>
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَكِنْ لَا تُبْصِرُونَ.
 
 ***“And we are nearer to it than you, but you do not see. 56:85”***
 
@@ -121,12 +97,8 @@ his prayer, he said to the man: why did you prevent him from crossing?
 The man said: “O son of the messenger of Allah, he crossed between you
 and your mihrab. Imam Hasan (s) said:
 
-<blockquote dir="rtl">
-  <p>
-وَيْحَكَ! إنَّ اللهَ عَزَّ وَجَلَّ أقْرَبُ إلَيَّ مِنْ أنْ يَخْطُرَ
-فِيما بَينِي وَبَيْنَهُ أحَدٌ.
-  </p>
-</blockquote>
+> وَيْحَكَ! إنَّ اللهَ عَزَّ وَجَلَّ أقْرَبُ إلَيَّ مِنْ أنْ يَخْطُرَ
+> فِيما بَينِي وَبَيْنَهُ أحَدٌ.
 
 “Woe to you! God is so close to me that no one can intervene between Him
 and me.”  
@@ -138,11 +110,7 @@ The Fourth Stage
 
 In the Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ.
-  </p>
-</blockquote>
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ.
 
 ***“And We are nearer to him than his life-vein. 50:16”***
 
@@ -191,11 +159,7 @@ whose comprehension is in the domain of the believers and the sincere
 gnostics, who are really rare in the creation system. In this sacred
 verse we read:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ.
-  </p>
-</blockquote>
+> أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ.
 
 ***“Allah intervenes between man and his heart. 8:24”***
 
@@ -216,13 +180,9 @@ permanently at God's presence. He is not ready to lose such a status.
 This is such a great honor for him that he does not wish to let it go.
 Imam Ali (s) says:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ كَتَبْتَ الآثامَ وَاطَّلَعْتَ عَلى السَّرائِرِ وَحَلَلْتَ
-بَينَ القُلوبِ، فَالقُلُوبُ إلَيكَ مُصْغِيَةٌ وَالسَّرُّ عِندَكَ
-عَلانِيَةٌ.
-  </p>
-</blockquote>
+> اَللّهُمّ كَتَبْتَ الآثامَ وَاطَّلَعْتَ عَلى السَّرائِرِ وَحَلَلْتَ
+> بَينَ القُلوبِ، فَالقُلُوبُ إلَيكَ مُصْغِيَةٌ وَالسَّرُّ عِندَكَ
+> عَلانِيَةٌ.
 
 “O God! You have registered our sins, You are aware of the inners of
 people and You are between man and his heart. The hearts are submissive
@@ -243,23 +203,15 @@ The Sixth Stage
 
 This stage corresponds with the following two Qur'anic verses:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ
-وَجْهُ اللَّهِ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ.
-  </p>
-</blockquote>
+> وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ
+> وَجْهُ اللَّهِ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ.
 
 ***“And Allah's is the East and the West, therefore, whither you turn,
 thither is Allah's purpose; surely Allah is Ample-giving, knowing.
 2:115”***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ لَا إِلَهَ إِلَّا هُوَ كُلُّ
-شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ.
-  </p>
-</blockquote>
+> وَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ لَا إِلَهَ إِلَّا هُوَ كُلُّ
+> شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ.
 
 ***“And call not with Allah any other god; there is no god but He;
 everything is perishable but He; His is the judgement, and to Him you
@@ -269,30 +221,18 @@ At this stage, a well-informed subject of God, sees the world as God's
 presence and recognizes a will-power dominating the whole creation. This
 is because man is familiar with the attributes of the Great Initiator.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَى لَهُمْ وَحُسْنُ
-مَآبٍ.
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَى لَهُمْ وَحُسْنُ
+> مَآبٍ.
 
 ***“As for those who believe and do good, a good final state shall be
 theirs and a goodly return. 13:29”***
 
-<blockquote dir="rtl">
-  <p>
-لِمَنْ الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ.
-  </p>
-</blockquote>
+> لِمَنْ الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ.
 
 ***“To whom belongs the kingdom this day? To Allah, the One, the Subduer
 of all. 40:16”***
 
-<blockquote dir="rtl">
-  <p>
-خِتَامُهُ مِسْكٌ وَفِي ذَلِكَ فَلْيَتَنَافَسْ الْمُتَنَافِسُونَ.
-  </p>
-</blockquote>
+> خِتَامُهُ مِسْكٌ وَفِي ذَلِكَ فَلْيَتَنَافَسْ الْمُتَنَافِسُونَ.
 
 ***“The sealing of it is (with) musk; and for that let the aspirers
 aspire. 83:26”***
@@ -303,11 +243,7 @@ The Seventh Stage
 This is complete self-denial and believing in the content of the
 following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنٌ.
-  </p>
-</blockquote>
+> هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنٌ.
 
 ***“He is the First and the Last and the Ascendant (over all) and the
 Knower of hidden things. 57:3”***
@@ -326,12 +262,8 @@ concentrate wholly on material issues. What a losing deal! Our heart,
 which, by nature, is the place for God's secrets, is filled with wishes
 and whims.[^5] Imam Husayn (s) says:
 
-<blockquote dir="rtl">
-  <p>
-أنْتَ الّذي أَزَلْتَ الأغْيارَ عَنْ قُلوبِ أحِبّائِكَ حَتىّ لَمْ
-يُحِبُّوا سِواكَ وَلَمْ يَلْجَأوا إلى غَيرِكَ.
-  </p>
-</blockquote>
+> أنْتَ الّذي أَزَلْتَ الأغْيارَ عَنْ قُلوبِ أحِبّائِكَ حَتىّ لَمْ
+> يُحِبُّوا سِواكَ وَلَمْ يَلْجَأوا إلى غَيرِكَ.
 
 “You have removed the others from the hearts of Your lovers until they
 have not loved other than You and have not resorted to other than
@@ -340,12 +272,8 @@ You.”
 weeping and would regret his wasting time. Then he would start all over
 again paying full attention to the way he has selected.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لَا يَعْقِلُونَ.
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لَا يَعْقِلُونَ.
 
 ***“Surely the vilest of animals, in Allah's sight, are the deaf, the
 dumb, who do not understand. 8:22”***
@@ -356,20 +284,12 @@ status. These verses want us to move in the right direction. A cursory
 comparison between the following two verses Clearly shows the distance
 between two ways of thinking:
 
-<blockquote dir="rtl">
-  <p>
-َأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ.
-  </p>
-</blockquote>
+> َأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ.
 
 ***“Whither you turn, thither is Allah's purpose. 2:115”***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لَا يَعْقِلُونَ.
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لَا يَعْقِلُونَ.
 
 ***“Surely the vilest of animals, in Allah's sight, are the deaf, the
 dumb, who do not understand. 8:22”***
@@ -380,24 +300,16 @@ great loss of having wasted his time and realizes that he has not done
 anything in this world for the hereafter. This state is depicted clearly
 in the verse of the Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
-أُوْلَئِكَ هُمْ الْفَاسِقُونَ.
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
+> أُوْلَئِكَ هُمْ الْفَاسِقُونَ.
 
 ***“And be not like those who forsook Allah, so He made them forsake
 their own souls. Such are the transgressors. 59:19”***
 
 At this time they regret what they have lost.
 
-<blockquote dir="rtl">
-  <p>
-أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَى مَا فَرَّطْتُ فِي جَنْبِ
-اللَّهِ وَإِنْ كُنْتُ لَمِنْ السَّاخِرِينَ.
-  </p>
-</blockquote>
+> أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَى مَا فَرَّطْتُ فِي جَنْبِ
+> اللَّهِ وَإِنْ كُنْتُ لَمِنْ السَّاخِرِينَ.
 
 ***“Lest a soul should say: O woe to me! For what I fell short of my
 duty to Allah and most surely I was of those who laughed to scorn.
@@ -425,5 +337,4 @@ the fire. 3:190 -191”
 [^5]: Imam As-Sadiq (s) has said: “The heart is the sanctum of God;
 therefore, do not let anyone else dwell in this sanctum.” (Bihar
 al-Anwar, vol. 70, p. 25)
-
 

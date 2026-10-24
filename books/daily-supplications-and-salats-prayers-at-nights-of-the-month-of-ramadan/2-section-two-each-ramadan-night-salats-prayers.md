@@ -17,9 +17,7 @@ The Fifth Night Prayer: Two units with Surah al-Fatihah and Surah
 al-Tawheed fifty times.After accomplishment, the following invocation of
 blessings is repeated one hundred times:
 
-<p dir="rtl">
 اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ
-</p>
 
 *O Allah, (please do) bless Muhammad and the Household of Muhammad.*
 
@@ -33,9 +31,7 @@ The Eighth Night Prayer: Two units with Surah al-Fatihah and Surah
 al-Taweed ten times.After accomplishment, the following doxology is
 repeated one thousand times:
 
-<p dir="rtl">
 سُبْحَانَ ٱللَّهِ
-</p>
 
 *All glory be to Allah.*
 
@@ -44,9 +40,7 @@ The Ninth Night Prayer: Six units offered between the Maghrib and
 times.After accomplishment, the following invocation of blessings is
 repeated fifty times:
 
-<p dir="rtl">
 اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ
-</p>
 
 *O Allah, (please do) bless Muhammad and the Household of Muhammad.*
 
@@ -80,9 +74,7 @@ any selected Surah in the first unit and Surah al-Fatihah once and Surah
 al-Tawheed one hundred times.After accomplishment, the following
 statement is repeated one hundred times:
 
-<p dir="rtl">
 لاَ إِلٰهَ إِلاَّ ٱللَّهُ
-</p>
 
 *There is no god save Allah.*
 
@@ -110,9 +102,7 @@ The Twenty-Eighth Night Prayer: Six units with Surah al-Fatihah once and
 Surah al-Kawthar one hundred times.After accomplishment, repeat the
 following invocation of blessings one hundred times:
 
-<p dir="rtl">
 اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ
-</p>
 
 *O Allah, (please do) bless Muhammad and the Household of Muhammad.*
 
@@ -129,13 +119,10 @@ The Thirtieth Night Prayer: Twelve units with Surah al-Fatihah and Surah
 al-Tawheed twenty times.After accomplishment, the following invocation
 is repeated one hundred times:
 
-<p dir="rtl">
 اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ
-</p>
 
 *O Allah, (please do) bless Muhammad and the Household of Muhammad.*
 
 Note that each two units of all of the aforementioned prayers should be
 separated by the Tasl¢m statement.
-
 

@@ -262,7 +262,6 @@ unaware to his environment" and interpreted it as illiterate and
 ignorant, and as a consequence, have introduced [^29] the pre-Islam
 inhabitants of Makkah as "ummiyyin", or "an illiterate people".
 
-
 Firstly, since the earliest days, the Islamic exegetes have interpreted
 the words "ummi" and "ummiyyin" in three ways, and have come up with at
 least three possibilities Contrary to Dr Sayyid \`Abd al-Latif, Islamic

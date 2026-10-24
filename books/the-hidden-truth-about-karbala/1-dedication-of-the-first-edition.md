@@ -1,11 +1,7 @@
 Dedication of the first Edition
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, the All-beneficent, the All-merciful***
 
@@ -28,5 +24,4 @@ Dedicated to my parents and my ancestors
 who were rightly guided and who adored
 
 the Immaculate and Infallible (Ma’soomeen) (a.s.)
-
 

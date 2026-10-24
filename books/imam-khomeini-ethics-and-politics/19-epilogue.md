@@ -39,4 +39,3 @@ actions, you should behave well with the people; be brothers to the
 people; you should not look upon the people in such a way.[598]   *  *  
 * *
 
-

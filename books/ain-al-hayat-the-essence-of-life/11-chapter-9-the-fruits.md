@@ -3650,11 +3650,7 @@ confronted with a problem and are shy to seek an explanation from the
 knowledgeable. Such humility can be the cause of losing the felicity or
 bliss in the Hereafter. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاللَّهُ لاَ يَسْتَحْيِ مِنْ الْحَقِّ.﴾
-  </p>
-</blockquote>
+> ﴿وَاللَّهُ لاَ يَسْتَحْيِ مِنْ الْحَقِّ.﴾
 
 ***Allah is not shy of the truth*** **(33:53)**
 
@@ -3740,11 +3736,7 @@ kin generously, goes for Hajj pilgrimage and says that he would
 definitely get reward for these good deeds. This, he says, because Allah
 has said,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ.﴾
 
 **“no doubt good deeds obliterate evil deeds” (11:114)**
 
@@ -3752,12 +3744,8 @@ The Imam (as) replied, “The man is spending other people’s wealth which
 is a Sinful act. How can one sin obliterate another sin? Allah says in
 this regard:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
-مَنْثُورًا﴾
-  </p>
-</blockquote>
+> ﴿وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً
+> مَنْثُورًا﴾
 
 ***And We shall give attention to their good deeds that they have
 performed in the world, and We shall scatter these good deeds into
@@ -3965,5 +3953,4 @@ Imam Ja’far As-Sadiq (as) said, “Sight is the most poisonous arrow of
 the Satan. A Person who refrains from setting evil eye around him out of
 fear of Allah, Allah will endow him with faith, sustenance and
 legitimate pleasures.”
-
 

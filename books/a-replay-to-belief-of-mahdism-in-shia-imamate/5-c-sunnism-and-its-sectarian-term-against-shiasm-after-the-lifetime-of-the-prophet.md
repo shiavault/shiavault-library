@@ -430,4 +430,3 @@ faction thought that the armed revolt effective but exercised by the
 Imam. He who does so is the Imam, no matter whether he comes out a
 victor vanquished.
 
-

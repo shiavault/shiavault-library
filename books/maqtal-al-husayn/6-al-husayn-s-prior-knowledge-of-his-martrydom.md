@@ -125,4 +125,3 @@ Allah, or a believer whose heart Allah tested with conviction.
 
 [^2]: A well-known area where there was a Christian cemetery.
 
-

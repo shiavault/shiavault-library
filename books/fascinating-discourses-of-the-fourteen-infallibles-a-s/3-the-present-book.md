@@ -43,4 +43,3 @@ Seminary of Qum. Muhammad Muhammadi Ishtehardi.
 
 Summer 1371 (S.H).
 
-

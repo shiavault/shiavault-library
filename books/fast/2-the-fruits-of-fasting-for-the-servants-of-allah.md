@@ -151,4 +151,3 @@ Self-restraint, piety, sympathy and purity of soul; these are the fruits
 of fasting. Let us strive to achieve as much benefit as we can from this
 Holy Month of God.
 
-

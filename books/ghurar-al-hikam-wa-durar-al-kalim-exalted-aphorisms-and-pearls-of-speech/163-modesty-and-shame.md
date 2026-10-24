@@ -29,11 +29,7 @@ Allah].
 and they are the traits of the free and the qualities of the virtuous.
 
 > 6ـ إنَّ الْحَياءَ والْعِفَّةَ مِنْ خَلائِقِ الإيمانِ، وإنَّهُما
-<blockquote dir="rtl">
-  <p>
-لَسَجِيَّةُ الأحْرارِ، وَشيمَةُ الأبـْرارِ.
-  </p>
-</blockquote>
+> لَسَجِيَّةُ الأحْرارِ، وَشيمَةُ الأبـْرارِ.
 
 7. Modesty is beautiful.
 
@@ -93,11 +89,7 @@ brotherhood and reduce your conversations with women, [if you do all
 this] your eminence will become complete.
 
 > 20ـ تَسَرْبَلِ الْحَياءَ، وادَّرَِعِ الْوَفاءَ، واحْفَظِ الإخاءَ،
-<blockquote dir="rtl">
-  <p>
-وأقْلِلْ مُحادَثَةَ النِّساءِ يَكْمَلْ لَكَ السَّناءُ.
-  </p>
-</blockquote>
+> وأقْلِلْ مُحادَثَةَ النِّساءِ يَكْمَلْ لَكَ السَّناءُ.
 
 21. The fruit of modesty is chastity.
 
@@ -108,12 +100,8 @@ serve his guest, and for him to stand up from his place for his father
 or his teacher, and [for him] to seek the right even if it is little.
 
 > 22ـ ثَلاثٌ لا يُسْتَحْيى مِنْهُنَّ: خِدْمَةُ الرَّجُلِ ضَيْفَهُ،
-<blockquote dir="rtl">
-  <p>
-وقِيامُهُ عَنْ مَجْلِسِهِ لأبيهِ ومُعَلِّمِهِ، وطَلَبُ الْحَقِّ وإنْ
-قَلَّ.
-  </p>
-</blockquote>
+> وقِيامُهُ عَنْ مَجْلِسِهِ لأبيهِ ومُعَلِّمِهِ، وطَلَبُ الْحَقِّ وإنْ
+> قَلَّ.
 
 23. The shame of person feels from himself is the fruit of [his] faith.
 
@@ -160,31 +148,19 @@ hidden from the people.
 doing evil] does not fear Allah, the Glorified.
 
 > 33ـ مَنْ لَمْ يَتَّقِ وُجُوهَ الرِّجالِ لَمْ يَتَّقِ اللّهَ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ.
 
 34. One who is not ashamed of the people will not feel ashamed in front
 of Allah, the Glorified.
 
 > 34ـ مَنْ لَمْ يَسْتَحْيِ مِنَ النّاسِ لَمْ يَسْتَحْيِ مِنَ اللّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ.
 
 35. That which is not appropriate for you to do in the open should not
 be done by you in private.
 
 > 35ـ ما لا يَنْبَغي أنْ تَفْعَلَهُ فيِ الْجَهْرِ فَلا تَفْعَلْهُ فيِ
-<blockquote dir="rtl">
-  <p>
-السِّـرِّ.
-  </p>
-</blockquote>
+> السِّـرِّ.
 
 36. The best partner of generosity is modesty.
 
@@ -200,5 +176,4 @@ be done by you in private.
 
 [^1]: Here shame is used in the negative sense of excessive bashfulness,
 timidity etc.
-
 

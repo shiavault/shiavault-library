@@ -220,4 +220,3 @@ Imam al-Husayn from having water even for their children and women.
 
 [^3]: See Muhammad ibn al-Mash’hadi’s Al-Mazzar
 
-

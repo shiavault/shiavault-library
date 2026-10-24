@@ -361,4 +361,3 @@ al-Arba\`īn, pp. 400–448, no. 28.
 
 [^17]: Al-Burhān fī tafsīr al-Quran, vol. 1, p. 89, no. 14.
 
-

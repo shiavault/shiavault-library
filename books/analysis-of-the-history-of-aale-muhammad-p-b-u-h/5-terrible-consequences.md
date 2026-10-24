@@ -506,4 +506,3 @@ will not suffice. But, since it is our intention to explain and examine
 the event of Fadak, we will express our view regarding this bitter and
 retrograde happening.
 
-

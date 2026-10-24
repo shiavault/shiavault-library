@@ -792,4 +792,3 @@ an average and accustomed amount.
 
 **[2]** spouse selection, p 114.
 
-

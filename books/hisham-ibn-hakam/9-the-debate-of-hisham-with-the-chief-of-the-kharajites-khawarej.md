@@ -134,4 +134,3 @@ of Mu'awiyah and Amr As who were infidels, we do not accept you anymore.
 Their slogan was: "There is no verdict except that of Allah." At last
 Ibn Muljim, who was one of them, killed Ali (a).
 
-

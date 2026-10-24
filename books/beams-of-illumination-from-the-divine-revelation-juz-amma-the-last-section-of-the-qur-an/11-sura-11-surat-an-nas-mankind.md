@@ -139,4 +139,3 @@ Therefore, we are asking for refuge, for protection from any energies
 whose nature we do not understand, and whose creation is not visible or
 discernable by us.
 
-
